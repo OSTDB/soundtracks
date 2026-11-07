@@ -1131,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laserbreak: Renegades | 57730 | [57730-laserbreak-renegades.json](./57730-laserbreak-renegades.json) |
 | LaserCat | 32271 | [32271-lasercat.json](./32271-lasercat.json) |
 | LaserChain | 334818 | [334818-laserchain.json](./334818-laserchain.json) |
+| Laserface | 183688 | [183688-laserface.json](./183688-laserface.json) |
 | Laserium | 104086 | [104086-laserium.json](./104086-laserium.json) |
 | Laserlight | 372234 | [372234-laserlight.json](./372234-laserlight.json) |
 | Laseronium 2 | 54852 | [54852-laseronium-2.json](./54852-laseronium-2.json) |
@@ -1711,6 +1712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Launch Break | 135788 | [135788-launch-break.json](./135788-launch-break.json) |
 | Launch Director | 251936 | [251936-launch-director.json](./251936-launch-director.json) |
 | Launch Dude | 339285 | [339285-launch-dude.json](./339285-launch-dude.json) |
+| Launch Party | 183684 | [183684-launch-party.json](./183684-launch-party.json) |
 | Launch Party | 55619 | [55619-launch-party.json](./55619-launch-party.json) |
 | Launch Squad | 31405 | [31405-launch-squad.json](./31405-launch-squad.json) |
 | Launch The Baby | 246413 | [246413-launch-the-baby.json](./246413-launch-the-baby.json) |
@@ -10046,6 +10048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lurking Darkness | 319025 | [319025-lurking-darkness.json](./319025-lurking-darkness.json) |
 | Lurking for Love | 297689 | [297689-lurking-for-love.json](./297689-lurking-for-love.json) |
 | Lurking I: Immortui | 176418 | [176418-lurking-i-immortui.json](./176418-lurking-i-immortui.json) |
+| Lurking II: A Madness | 183667 | [183667-lurking-ii-a-madness.json](./183667-lurking-ii-a-madness.json) |
 | Lurking in the Dark | 163110 | [163110-lurking-in-the-dark.json](./163110-lurking-in-the-dark.json) |
 | Lurking in the Shadows | 58244 | [58244-lurking-in-the-shadows.json](./58244-lurking-in-the-shadows.json) |
 | Lurking Within | 416804 | [416804-lurking-within.json](./416804-lurking-within.json) |
