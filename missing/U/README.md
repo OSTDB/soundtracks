@@ -848,6 +848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Chess | 94392 | [94392-ultra-chess.json](./94392-ultra-chess.json) |
 | Ultra Combat 64 | 356271 | [356271-ultra-combat-64.json](./356271-ultra-combat-64.json) |
 | Ultra Cop | 322513 | [322513-ultra-cop.json](./322513-ultra-cop.json) |
+| Ultra Custom Night | 189286 | [189286-ultra-custom-night.json](./189286-ultra-custom-night.json) |
 | Ultra Damage | 373121 | [373121-ultra-damage.json](./373121-ultra-damage.json) |
 | Ultra Dash | 200250 | [200250-ultra-dash.json](./200250-ultra-dash.json) |
 | Ultra Doggy | 277635 | [277635-ultra-doggy.json](./277635-ultra-doggy.json) |
