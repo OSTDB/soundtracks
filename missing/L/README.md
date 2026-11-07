@@ -5685,6 +5685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linzy has a Messy Room | 101099 | [101099-linzy-has-a-messy-room.json](./101099-linzy-has-a-messy-room.json) |
 | Lio | 290207 | [290207-lio.json](./290207-lio.json) |
 | Lioden | 178067 | [178067-lioden.json](./178067-lioden.json) |
+| Lion | 145156 | [145156-lion.json](./145156-lion.json) |
 | Lion | 9565 | [9565-lion.json](./9565-lion.json) |
 | Lion and the King | 56804 | [56804-lion-and-the-king.json](./56804-lion-and-the-king.json) |
 | Lion and the King 2 | 56805 | [56805-lion-and-the-king-2.json](./56805-lion-and-the-king-2.json) |
@@ -8143,6 +8144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Egg 2: Be Together | 148559 | [148559-lost-egg-2-be-together.json](./148559-lost-egg-2-be-together.json) |
 | Lost Egg 3: The Final | 229966 | [229966-lost-egg-3-the-final.json](./229966-lost-egg-3-the-final.json) |
 | Lost Egg: The Hard Boiled | 330317 | [330317-lost-egg-the-hard-boiled.json](./330317-lost-egg-the-hard-boiled.json) |
+| Lost Eidolons | 145148 | [145148-lost-eidolons.json](./145148-lost-eidolons.json) |
 | Lost Eidolons: Digital Deluxe | 227358 | [227358-lost-eidolons-digital-deluxe.json](./227358-lost-eidolons-digital-deluxe.json) |
 | Lost Eidolons: Veil of the Witch | 261627 | [261627-lost-eidolons-veil-of-the-witch.json](./261627-lost-eidolons-veil-of-the-witch.json) |
 | Lost Ember: Legendary Souls | 380803 | [380803-lost-ember-legendary-souls.json](./380803-lost-ember-legendary-souls.json) |
