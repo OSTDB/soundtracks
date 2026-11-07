@@ -3911,6 +3911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's Your Emergency | 220641 | [220641-whats-your-emergency.json](./220641-whats-your-emergency.json) |
 | What's Your Gender? | 175790 | [175790-whats-your-gender.json](./175790-whats-your-gender.json) |
 | What's Your Hidden Power? | 206647 | [206647-whats-your-hidden-power.json](./206647-whats-your-hidden-power.json) |
+| What’s Your Name? | 178735 | [178735-what-s-your-name.json](./178735-what-s-your-name.json) |
 | What's Your Sign? | 74714 | [74714-whats-your-sign.json](./74714-whats-your-sign.json) |
 | What's Your Story? | 88913 | [88913-whats-your-story.json](./88913-whats-your-story.json) |
 | What'Sub | 389941 | [389941-whatsub.json](./389941-whatsub.json) |
@@ -4837,6 +4838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Be A Millionaire: Microsoft Games DLC Pack | 318439 | [318439-who-wants-to-be-a-millionaire-microsoft-games-dlc-pack.json](./318439-who-wants-to-be-a-millionaire-microsoft-games-dlc-pack.json) |
 | Who Wants to Be a Millionaire: Music Edition | 311657 | [311657-who-wants-to-be-a-millionaire-music-edition.json](./311657-who-wants-to-be-a-millionaire-music-edition.json) |
 | Who Wants to Be a Millionaire: NBA/NHL/MLB/NFL DLC Pack | 289324 | [289324-who-wants-to-be-a-millionaire-nba-nhl-mlb-nfl-dlc-pack.json](./289324-who-wants-to-be-a-millionaire-nba-nhl-mlb-nfl-dlc-pack.json) |
+| Who Wants to Be a Millionaire: New Edition | 178767 | [178767-who-wants-to-be-a-millionaire-new-edition.json](./178767-who-wants-to-be-a-millionaire-new-edition.json) |
 | Who Wants to Be a Millionaire: Party Edition | 44631 | [44631-who-wants-to-be-a-millionaire-party-edition.json](./44631-who-wants-to-be-a-millionaire-party-edition.json) |
 | Who Wants to Be a Millionaire: Special Editions | 94127 | [94127-who-wants-to-be-a-millionaire-special-editions.json](./94127-who-wants-to-be-a-millionaire-special-editions.json) |
 | Who Wants to Be A Millionaire: The Smurfs DLC Pack | 293389 | [293389-who-wants-to-be-a-millionaire-the-smurfs-dlc-pack.json](./293389-who-wants-to-be-a-millionaire-the-smurfs-dlc-pack.json) |
@@ -5359,6 +5361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildemist Isle | 129008 | [129008-wildemist-isle.json](./129008-wildemist-isle.json) |
 | Wilder World: Super Early Access | 377547 | [377547-wilder-world-super-early-access.json](./377547-wilder-world-super-early-access.json) |
 | Wilder: Bahadur's Story | 280806 | [280806-wilder-bahadurs-story.json](./280806-wilder-bahadurs-story.json) |
+| Wilder: Ran's Story | 178746 | [178746-wilder-rans-story.json](./178746-wilder-rans-story.json) |
 | Wilderings: The Lost Spring | 361652 | [361652-wilderings-the-lost-spring.json](./361652-wilderings-the-lost-spring.json) |
 | WilderLands | 382219 | [382219-wilderlands.json](./382219-wilderlands.json) |
 | Wilderless | 301964 | [301964-wilderless.json](./301964-wilderless.json) |
@@ -6857,6 +6860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizkid | 301862 | [301862-wizkid.json](./301862-wizkid.json) |
 | Wizkid: The Story of Wizball II | 69742 | [69742-wizkid-the-story-of-wizball-ii.json](./69742-wizkid-the-story-of-wizball-ii.json) |
 | Wizlite: Everybody loved RPGs | 304013 | [304013-wizlite-everybody-loved-rpgs.json](./304013-wizlite-everybody-loved-rpgs.json) |
+| Wizmagonster | 178725 | [178725-wizmagonster.json](./178725-wizmagonster.json) |
 | WiZmans World | 67669 | [67669-wizmans-world.json](./67669-wizmans-world.json) |
 | WiZmans World ReTry | 265641 | [265641-wizmans-world-retry.json](./265641-wizmans-world-retry.json) |
 | WiZmans World ReTry: Bonus Monster Pack | 390924 | [390924-wizmans-world-retry-bonus-monster-pack.json](./390924-wizmans-world-retry-bonus-monster-pack.json) |
