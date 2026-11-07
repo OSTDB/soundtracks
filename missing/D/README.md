@@ -5165,6 +5165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Anomaly | 405842 | [405842-deep-anomaly.json](./405842-deep-anomaly.json) |
 | Deep Aquarium | 124688 | [124688-deep-aquarium.json](./124688-deep-aquarium.json) |
 | Deep Assault | 235816 | [235816-deep-assault.json](./235816-deep-assault.json) |
+| Deep Base | 190805 | [190805-deep-base.json](./190805-deep-base.json) |
 | Deep Below | 31368 | [31368-deep-below.json](./31368-deep-below.json) |
 | Deep Beyond | 294490 | [294490-deep-beyond.json](./294490-deep-beyond.json) |
 | Deep Black: Reloaded | 52863 | [52863-deep-black-reloaded.json](./52863-deep-black-reloaded.json) |
@@ -16087,6 +16088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamer Series: Puppy Trainer | 70597 | [70597-dreamer-series-puppy-trainer.json](./70597-dreamer-series-puppy-trainer.json) |
 | Dreamer Series: Top Model | 69105 | [69105-dreamer-series-top-model.json](./69105-dreamer-series-top-model.json) |
 | Dreamer Series: Zoo Keeper | 230289 | [230289-dreamer-series-zoo-keeper.json](./230289-dreamer-series-zoo-keeper.json) |
+| Dreamer: Puzzle | 190819 | [190819-dreamer-puzzle.json](./190819-dreamer-puzzle.json) |
 | Dreamer's Canal | 383143 | [383143-dreamers-canal.json](./383143-dreamers-canal.json) |
 | Dreamer's Wake | 420170 | [420170-dreamers-wake.json](./420170-dreamers-wake.json) |
 | Dreamer's Web | 181760 | [181760-dreamers-web.json](./181760-dreamers-web.json) |
