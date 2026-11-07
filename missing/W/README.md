@@ -413,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walker | 377284 | [377284-walker.json](./377284-walker.json) |
 | Walkerman | 34830 | [34830-walkerman.json](./34830-walkerman.json) |
 | Walkerman: Act 2 - Herdchaser-girl | 171389 | [171389-walkerman-act-2-herdchaser-girl.json](./171389-walkerman-act-2-herdchaser-girl.json) |
+| Walkerwall | 182620 | [182620-walkerwall.json](./182620-walkerwall.json) |
 | Walkie Talkie | 176203 | [176203-walkie-talkie.json](./176203-walkie-talkie.json) |
 | Walkies | 238474 | [238474-walkies.json](./238474-walkies.json) |
 | Walking | 186108 | [186108-walking.json](./186108-walking.json) |
@@ -1908,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarpSpeed | 4494 | [4494-warpspeed.json](./4494-warpspeed.json) |
 | Warpspeed Infinity | 198018 | [198018-warpspeed-infinity.json](./198018-warpspeed-infinity.json) |
 | Warpsquad | 216844 | [216844-warpsquad.json](./216844-warpsquad.json) |
+| Warpswap | 182609 | [182609-warpswap.json](./182609-warpswap.json) |
 | Warpswap | 333817 | [333817-warpswap.json](./333817-warpswap.json) |
 | Warptank | 318726 | [318726-warptank.json](./318726-warptank.json) |
 | WarpVector | 215665 | [215665-warpvector.json](./215665-warpvector.json) |
@@ -4370,6 +4372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | while True: learn() - Chief Technology Officer Edition | 186368 | [186368-while-true-learn-chief-technology-officer-edition.json](./186368-while-true-learn-chief-technology-officer-edition.json) |
 | while True: learn() - Data Scientist Edition | 186367 | [186367-while-true-learn-data-scientist-edition.json](./186367-while-true-learn-data-scientist-edition.json) |
 | while True: learn() - Deep Edition | 186360 | [186360-while-true-learn-deep-edition.json](./186360-while-true-learn-deep-edition.json) |
+| While Waiting | 182593 | [182593-while-waiting.json](./182593-while-waiting.json) |
 | While Waiting | 253330 | [253330-while-waiting.json](./253330-while-waiting.json) |
 | While Waiting My Turn | 253382 | [253382-while-waiting-my-turn.json](./253382-while-waiting-my-turn.json) |
 | While We Sleep: Slendrina Is Here | 321278 | [321278-while-we-sleep-slendrina-is-here.json](./321278-while-we-sleep-slendrina-is-here.json) |
