@@ -1512,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep in Mind | 98046 | [98046-keep-in-mind.json](./98046-keep-in-mind.json) |
 | Keep in Mind: Remastered - Deluxe Edition | 187851 | [187851-keep-in-mind-remastered-deluxe-edition.json](./187851-keep-in-mind-remastered-deluxe-edition.json) |
 | Keep in touch | 75652 | [75652-keep-in-touch.json](./75652-keep-in-touch.json) |
+| Keep It Alive | 186217 | [186217-keep-it-alive.json](./186217-keep-it-alive.json) |
 | Keep It Alive | 408427 | [408427-keep-it-alive.json](./408427-keep-it-alive.json) |
 | Keep it alive! | 311680 | [311680-keep-it-alive.json](./311680-keep-it-alive.json) |
 | Keep It Contained | 390028 | [390028-keep-it-contained.json](./390028-keep-it-contained.json) |
@@ -4377,6 +4378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kloppyssimo | 295289 | [295289-kloppyssimo.json](./295289-kloppyssimo.json) |
 | Klorb | 348030 | [348030-klorb.json](./348030-klorb.json) |
 | Klorbiest Catch | 410324 | [410324-klorbiest-catch.json](./410324-klorbiest-catch.json) |
+| Klorets | 186396 | [186396-klorets.json](./186396-klorets.json) |
 | Klostyn | 340865 | [340865-klostyn.json](./340865-klostyn.json) |
 | Klotski | 282402 | [282402-klotski.json](./282402-klotski.json) |
 | Klotski Unblock | 90828 | [90828-klotski-unblock.json](./90828-klotski-unblock.json) |
@@ -5088,6 +5090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koiiro Chu! Lips | 407152 | [407152-koiiro-chu-lips.json](./407152-koiiro-chu-lips.json) |
 | Koikata: How Our Love Grows | 387050 | [387050-koikata-how-our-love-grows.json](./387050-koikata-how-our-love-grows.json) |
 | Koikatsu Party | 119656 | [119656-koikatsu-party.json](./119656-koikatsu-party.json) |
+| Koikatsu Sunshine | 186357 | [186357-koikatsu-sunshine.json](./186357-koikatsu-sunshine.json) |
 | Koikoi | 105266 | [105266-koikoi.json](./105266-koikoi.json) |
 | KoiKoi Revolution RX | 97850 | [97850-koikoi-revolution-rx.json](./97850-koikoi-revolution-rx.json) |
 | Koino no Kokoro Ikusei Game | 49683 | [49683-koino-no-kokoro-ikusei-game.json](./49683-koino-no-kokoro-ikusei-game.json) |
@@ -5308,6 +5311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kongeer | 201006 | [201006-kongeer.json](./201006-kongeer.json) |
 | Kongfu | 246465 | [246465-kongfu.json](./246465-kongfu.json) |
 | Kongfu VR | 192249 | [192249-kongfu-vr.json](./192249-kongfu-vr.json) |
+| KongKong Online | 186379 | [186379-kongkong-online.json](./186379-kongkong-online.json) |
 | Kǒngmíng Suǒ | 414117 | [414117-kongming-suo.json](./414117-kongming-suo.json) |
 | Kongming's Fiendish Maze | 249674 | [249674-kongmings-fiendish-maze.json](./249674-kongmings-fiendish-maze.json) |
 | Kongo Kong | 62983 | [62983-kongo-kong.json](./62983-kongo-kong.json) |
