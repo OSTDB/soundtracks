@@ -390,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactics Layer: Ritina Guard Senki | 69115 | [69115-tactics-layer-ritina-guard-senki.json](./69115-tactics-layer-ritina-guard-senki.json) |
 | Tactics Maiden | 207856 | [207856-tactics-maiden.json](./207856-tactics-maiden.json) |
 | Tactics Maiden Remastered | 106557 | [106557-tactics-maiden-remastered.json](./106557-tactics-maiden-remastered.json) |
+| Tactics of World War I | 173368 | [173368-tactics-of-world-war-i.json](./173368-tactics-of-world-war-i.json) |
 | Tactics Ogre: Let Us Cling Together | 132992 | [132992-tactics-ogre-let-us-cling-together.json](./132992-tactics-ogre-let-us-cling-together.json) |
 | Tactics Ogre: Let Us Cling Together | 5550 | [5550-tactics-ogre-let-us-cling-together.json](./5550-tactics-ogre-let-us-cling-together.json) |
 | Tactics Ogre: Let Us Cling Together - Premium Edition | 232811 | [232811-tactics-ogre-let-us-cling-together-premium-edition.json](./232811-tactics-ogre-let-us-cling-together-premium-edition.json) |
@@ -4245,6 +4246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tentacles | 179543 | [179543-tentacles.json](./179543-tentacles.json) |
 | Tentacles Growing Everywhere | 128411 | [128411-tentacles-growing-everywhere.json](./128411-tentacles-growing-everywhere.json) |
 | Tentacles Invasion | 321820 | [321820-tentacles-invasion.json](./321820-tentacles-invasion.json) |
+| Tentacles of Submission | 173362 | [173362-tentacles-of-submission.json](./173362-tentacles-of-submission.json) |
 | Tentacles Party With Nuns | 207627 | [207627-tentacles-party-with-nuns.json](./207627-tentacles-party-with-nuns.json) |
 | Tentacles Party With Nuns Chibi Stickers | 337653 | [337653-tentacles-party-with-nuns-chibi-stickers.json](./337653-tentacles-party-with-nuns-chibi-stickers.json) |
 | Tentacles: Enter the dolphin | 19504 | [19504-tentacles-enter-the-dolphin.json](./19504-tentacles-enter-the-dolphin.json) |
@@ -20714,6 +20716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Throwing Punches | 182394 | [182394-throwing-punches.json](./182394-throwing-punches.json) |
 | Throwing Stone | 167534 | [167534-throwing-stone.json](./167534-throwing-stone.json) |
 | Thrown | 404604 | [404604-thrown.json](./404604-thrown.json) |
+| Thru | 173365 | [173365-thru.json](./173365-thru.json) |
 | Thru the City | 291941 | [291941-thru-the-city.json](./291941-thru-the-city.json) |
 | Thrud | 194092 | [194092-thrud.json](./194092-thrud.json) |
 | Thrunt XL | 111483 | [111483-thrunt-xl.json](./111483-thrunt-xl.json) |
@@ -23229,6 +23232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Times Tables Games | 305977 | [305977-times-tables-games.json](./305977-times-tables-games.json) |
 | Times Trials | 244245 | [244245-times-trials.json](./244245-times-trials.json) |
 | Times Turn | 185132 | [185132-times-turn.json](./185132-times-turn.json) |
+| Timescape: Altitude | 173335 | [173335-timescape-altitude.json](./173335-timescape-altitude.json) |
 | TimeScape: Journey to Pompeii | 73819 | [73819-timescape-journey-to-pompeii.json](./73819-timescape-journey-to-pompeii.json) |
 | TimeScar: Hyperion | 110769 | [110769-timescar-hyperion.json](./110769-timescar-hyperion.json) |
 | TimeShift | 2030 | [2030-timeshift.json](./2030-timeshift.json) |
@@ -32454,6 +32458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tungtung's Nightmare | 375934 | [375934-tungtungs-nightmare.json](./375934-tungtungs-nightmare.json) |
 | Tungulus | 47986 | [47986-tungulus.json](./47986-tungulus.json) |
 | Tunguska 2: Whitefall | 337376 | [337376-tunguska-2-whitefall.json](./337376-tunguska-2-whitefall.json) |
+| Tunguska: A Call in the Woods | 173378 | [173378-tunguska-a-call-in-the-woods.json](./173378-tunguska-a-call-in-the-woods.json) |
 | Tunguska: Dead Zone | 251761 | [251761-tunguska-dead-zone.json](./251761-tunguska-dead-zone.json) |
 | Tunguska: Legend of Faith | 43901 | [43901-tunguska-legend-of-faith.json](./43901-tunguska-legend-of-faith.json) |
 | Tunguska: Shadow Master | 259075 | [259075-tunguska-shadow-master.json](./259075-tunguska-shadow-master.json) |
@@ -32968,6 +32973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twelfth Life | 211989 | [211989-twelfth-life.json](./211989-twelfth-life.json) |
 | Twell | 241379 | [241379-twell.json](./241379-twell.json) |
 | Twelve a Dozen | 23428 | [23428-twelve-a-dozen.json](./23428-twelve-a-dozen.json) |
+| Twelve Floors Below. | 173348 | [173348-twelve-floors-below.json](./173348-twelve-floors-below.json) |
 | Twelve Mental Patients | 359362 | [359362-twelve-mental-patients.json](./359362-twelve-mental-patients.json) |
 | Twelve Sky | 67321 | [67321-twelve-sky.json](./67321-twelve-sky.json) |
 | Twelve Sky 2 | 104129 | [104129-twelve-sky-2.json](./104129-twelve-sky-2.json) |
