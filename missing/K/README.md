@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kagura Douchuuki | 91969 | [91969-kagura-douchuuki.json](./91969-kagura-douchuuki.json) |
 | Kagura Genesis: Kuon's Story | 277258 | [277258-kagura-genesis-kuons-story.json](./277258-kagura-genesis-kuons-story.json) |
 | Kagura Survivors: Endless Night | 243538 | [243538-kagura-survivors-endless-night.json](./243538-kagura-survivors-endless-night.json) |
+| Kagura's Dreamland | 156767 | [156767-kaguras-dreamland.json](./156767-kaguras-dreamland.json) |
 | Kaguya | 357821 | [357821-kaguya.json](./357821-kaguya.json) |
 | Kaguya-hime Densetsu | 48447 | [48447-kaguya-hime-densetsu.json](./48447-kaguya-hime-densetsu.json) |
 | Kaguya-sama: Love Is War | 239005 | [239005-kaguya-sama-love-is-war.json](./239005-kaguya-sama-love-is-war.json) |
@@ -5751,6 +5752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koziołek Matołek Wynalazca | 135255 | [135255-kozio-ek-mato-ek-wynalazca.json](./135255-kozio-ek-mato-ek-wynalazca.json) |
 | Kozmik Krooz'r | 245279 | [245279-kozmik-kroozr.json](./245279-kozmik-kroozr.json) |
 | Kozomo: The Smoldering Ember | 367825 | [367825-kozomo-the-smoldering-ember.json](./367825-kozomo-the-smoldering-ember.json) |
+| Kozue's Strange Journey | 156812 | [156812-kozues-strange-journey.json](./156812-kozues-strange-journey.json) |
 | Kozue's Strange Journey 2 | 327889 | [327889-kozues-strange-journey-2.json](./327889-kozues-strange-journey-2.json) |
 | Kozyrev Horrors | 287477 | [287477-kozyrev-horrors.json](./287477-kozyrev-horrors.json) |
 | KPatience | 134532 | [134532-kpatience.json](./134532-kpatience.json) |
