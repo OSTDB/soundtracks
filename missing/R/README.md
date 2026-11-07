@@ -566,6 +566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rad Racket: Deluxe Tennis II | 48212 | [48212-rad-racket-deluxe-tennis-ii.json](./48212-rad-racket-deluxe-tennis-ii.json) |
 | Rad Rally | 39569 | [39569-rad-rally.json](./39569-rad-rally.json) |
 | Rad Raygun | 63779 | [63779-rad-raygun.json](./63779-rad-raygun.json) |
+| Rad Road Rally | 185206 | [185206-rad-road-rally.json](./185206-rad-road-rally.json) |
 | Rad Rocket | 138516 | [138516-rad-rocket.json](./138516-rad-rocket.json) |
 | Rad Rodgers: Radical Edition | 113422 | [113422-rad-rodgers-radical-edition.json](./113422-rad-rodgers-radical-edition.json) |
 | Rad Rodgers: World One | 23797 | [23797-rad-rodgers-world-one.json](./23797-rad-rodgers-world-one.json) |
@@ -7974,6 +7975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise Up | 95131 | [95131-rise-up.json](./95131-rise-up.json) |
 | Rise Up - Dark Night Mode | 100700 | [100700-rise-up-dark-night-mode.json](./100700-rise-up-dark-night-mode.json) |
 | Rise up - Keeper challenge | 96743 | [96743-rise-up-keeper-challenge.json](./96743-rise-up-keeper-challenge.json) |
+| Rise Up! | 185216 | [185216-rise-up.json](./185216-rise-up.json) |
 | Rise: Race the Future | 27378 | [27378-rise-race-the-future.json](./27378-rise-race-the-future.json) |
 | Rise: Shooter Arena | 188248 | [188248-rise-shooter-arena.json](./188248-rise-shooter-arena.json) |
 | Rise: The Vieneo Province | 113354 | [113354-rise-the-vieneo-province.json](./113354-rise-the-vieneo-province.json) |
