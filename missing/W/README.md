@@ -3539,6 +3539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Mafia Redemption | 95882 | [95882-west-mafia-redemption.json](./95882-west-mafia-redemption.json) |
 | West of Dead | 125625 | [125625-west-of-dead.json](./125625-west-of-dead.json) |
 | West of Dead: Path of the Crow Edition | 154954 | [154954-west-of-dead-path-of-the-crow-edition.json](./154954-west-of-dead-path-of-the-crow-edition.json) |
+| West of Loathing: Reckonin' at Gun Manor | 154168 | [154168-west-of-loathing-reckonin-at-gun-manor.json](./154168-west-of-loathing-reckonin-at-gun-manor.json) |
 | West of the Witchlands | 272882 | [272882-west-of-the-witchlands.json](./272882-west-of-the-witchlands.json) |
 | West Ride | 256334 | [256334-west-ride.json](./256334-west-ride.json) |
 | West Somerset Railway Route | 53916 | [53916-west-somerset-railway-route.json](./53916-west-somerset-railway-route.json) |
@@ -5215,6 +5216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Isles | 220642 | [220642-wild-isles.json](./220642-wild-isles.json) |
 | Wild Jacks: Pro Edition | 96312 | [96312-wild-jacks-pro-edition.json](./96312-wild-jacks-pro-edition.json) |
 | Wild Jigsaw VR | 160149 | [160149-wild-jigsaw-vr.json](./160149-wild-jigsaw-vr.json) |
+| Wild Journey | 154125 | [154125-wild-journey.json](./154125-wild-journey.json) |
 | Wild Justice | 417202 | [417202-wild-justice.json](./417202-wild-justice.json) |
 | Wild Kratts Creature Mobile | 396719 | [396719-wild-kratts-creature-mobile.json](./396719-wild-kratts-creature-mobile.json) |
 | Wild Kratts Rescue Run | 88939 | [88939-wild-kratts-rescue-run.json](./88939-wild-kratts-rescue-run.json) |
