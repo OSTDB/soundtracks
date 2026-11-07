@@ -1158,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last | 356627 | [356627-last.json](./356627-last.json) |
 | Last $50 | 400954 | [400954-last-50.json](./400954-last-50.json) |
 | Last 22 | 340896 | [340896-last-22.json](./340896-last-22.json) |
+| Last 4 Alive: Escape From Zombies | 186953 | [186953-last-4-alive-escape-from-zombies.json](./186953-last-4-alive-escape-from-zombies.json) |
 | Last 4 Survive: The Outbreak | 287158 | [287158-last-4-survive-the-outbreak.json](./287158-last-4-survive-the-outbreak.json) |
 | Last Action Hero | 16139 | [16139-last-action-hero.json](./16139-last-action-hero.json) |
 | Last Action Hero | 262153 | [262153-last-action-hero.json](./262153-last-action-hero.json) |
@@ -2794,6 +2795,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Mahjong | 53269 | [53269-legendary-mahjong.json](./53269-legendary-mahjong.json) |
 | Legendary Master Idle | 251233 | [251233-legendary-master-idle.json](./251233-legendary-master-idle.json) |
 | Legendary Monsters | 347477 | [347477-legendary-monsters.json](./347477-legendary-monsters.json) |
+| Legendary Mosaics 2: The Stolen Freedom | 186972 | [186972-legendary-mosaics-2-the-stolen-freedom.json](./186972-legendary-mosaics-2-the-stolen-freedom.json) |
+| Legendary Mosaics 3: Eagle Owl Saves the World | 186973 | [186973-legendary-mosaics-3-eagle-owl-saves-the-world.json](./186973-legendary-mosaics-3-eagle-owl-saves-the-world.json) |
 | Legendary Mosaics: The Dwarf and the Terrible Cat | 176894 | [176894-legendary-mosaics-the-dwarf-and-the-terrible-cat.json](./176894-legendary-mosaics-the-dwarf-and-the-terrible-cat.json) |
 | Legendary Pilots | 258112 | [258112-legendary-pilots.json](./258112-legendary-pilots.json) |
 | Legendary Racing | 232163 | [232163-legendary-racing.json](./232163-legendary-racing.json) |
@@ -8846,6 +8849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Pandemonium | 284173 | [284173-love-pandemonium.json](./284173-love-pandemonium.json) |
 | Love Pheromone | 205609 | [205609-love-pheromone.json](./205609-love-pheromone.json) |
 | Love Poem Written For a Fairy | 276575 | [276575-love-poem-written-for-a-fairy.json](./276575-love-poem-written-for-a-fairy.json) |
+| Love Pop! | 186954 | [186954-love-pop.json](./186954-love-pop.json) |
 | Love Potion | 272364 | [272364-love-potion.json](./272364-love-potion.json) |
 | Love Quest | 231678 | [231678-love-quest.json](./231678-love-quest.json) |
 | Love Quest | 37940 | [37940-love-quest.json](./37940-love-quest.json) |
