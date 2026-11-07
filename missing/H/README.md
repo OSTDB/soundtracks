@@ -7929,6 +7929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hijack | 13005 | [13005-hijack.json](./13005-hijack.json) |
 | Hijack | 273230 | [273230-hijack.json](./273230-hijack.json) |
 | Hijack Jump | 362920 | [362920-hijack-jump.json](./362920-hijack-jump.json) |
+| Hijack Overdrive | 170668 | [170668-hijack-overdrive.json](./170668-hijack-overdrive.json) |
 | Hijack! | 342598 | [342598-hijack.json](./342598-hijack.json) |
 | Hijacked | 398102 | [398102-hijacked.json](./398102-hijacked.json) |
 | Hijinks High | 415088 | [415088-hijinks-high.json](./415088-hijinks-high.json) |
