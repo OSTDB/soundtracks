@@ -8916,6 +8916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Booster | 172912 | [172912-memory-booster.json](./172912-memory-booster.json) |
 | Memory Brew: Tales of Underworld | 406573 | [406573-memory-brew-tales-of-underworld.json](./406573-memory-brew-tales-of-underworld.json) |
 | Memory Card Flip | 417340 | [417340-memory-card-flip.json](./417340-memory-card-flip.json) |
+| Memory Card Monsters | 155293 | [155293-memory-card-monsters.json](./155293-memory-card-monsters.json) |
 | Memory Card Monsters: Expanded Content 3 | 168080 | [168080-memory-card-monsters-expanded-content-3.json](./168080-memory-card-monsters-expanded-content-3.json) |
 | Memory Card Monsters: Expanded Content 4 | 168078 | [168078-memory-card-monsters-expanded-content-4.json](./168078-memory-card-monsters-expanded-content-4.json) |
 | Memory Card Monsters: Expanded Content 5 | 168077 | [168077-memory-card-monsters-expanded-content-5.json](./168077-memory-card-monsters-expanded-content-5.json) |
@@ -14816,6 +14817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Naval Warfare | 186903 | [186903-modern-naval-warfare.json](./186903-modern-naval-warfare.json) |
 | Modern Naval Warfare: Sea Combat | 389067 | [389067-modern-naval-warfare-sea-combat.json](./389067-modern-naval-warfare-sea-combat.json) |
 | Modern Ops | 201964 | [201964-modern-ops.json](./201964-modern-ops.json) |
+| Modern Puzzle | 155250 | [155250-modern-puzzle.json](./155250-modern-puzzle.json) |
 | Modern Road-Like | 104041 | [104041-modern-road-like.json](./104041-modern-road-like.json) |
 | Modern Sonic Adventure 2: The Trial | 350564 | [350564-modern-sonic-adventure-2-the-trial.json](./350564-modern-sonic-adventure-2-the-trial.json) |
 | Modern Strike Online | 36958 | [36958-modern-strike-online.json](./36958-modern-strike-online.json) |
