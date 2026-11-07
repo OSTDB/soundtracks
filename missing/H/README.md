@@ -2332,6 +2332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Hands | 125419 | [125419-harvest-hands.json](./125419-harvest-hands.json) |
 | Harvest Havoc | 276664 | [276664-harvest-havoc.json](./276664-harvest-havoc.json) |
 | Harvest Health | 236868 | [236868-harvest-health.json](./236868-harvest-health.json) |
+| Harvest Hero Origins | 154135 | [154135-harvest-hero-origins.json](./154135-harvest-hero-origins.json) |
 | Harvest Hills | 237221 | [237221-harvest-hills.json](./237221-harvest-hills.json) |
 | Harvest Hunt | 244410 | [244410-harvest-hunt.json](./244410-harvest-hunt.json) |
 | Harvest Hustlers | 302363 | [302363-harvest-hustlers.json](./302363-harvest-hustlers.json) |
@@ -4902,6 +4903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Breaker | 365416 | [365416-hentai-breaker.json](./365416-hentai-breaker.json) |
 | Hentai Breakout City | 160029 | [160029-hentai-breakout-city.json](./160029-hentai-breakout-city.json) |
 | Hentai Breeding Simulator | 309474 | [309474-hentai-breeding-simulator.json](./309474-hentai-breeding-simulator.json) |
+| Hentai Brick Breaker | 154120 | [154120-hentai-brick-breaker.json](./154120-hentai-brick-breaker.json) |
 | Hentai Brick Breaker 2 | 161162 | [161162-hentai-brick-breaker-2.json](./161162-hentai-brick-breaker-2.json) |
 | Hentai Bunny | 286990 | [286990-hentai-bunny.json](./286990-hentai-bunny.json) |
 | Hentai BunnyGirl | 226162 | [226162-hentai-bunnygirl.json](./226162-hentai-bunnygirl.json) |
@@ -12810,6 +12812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperkidmorph2mr.gunner | 336110 | [336110-hyperkidmorph2mr-gunner.json](./336110-hyperkidmorph2mr-gunner.json) |
 | Hyperkin RetroN 5 | 23833 | [23833-hyperkin-retron-5.json](./23833-hyperkin-retron-5.json) |
 | Hyperland | 207634 | [207634-hyperland.json](./207634-hyperland.json) |
+| Hyperlane Delta | 154167 | [154167-hyperlane-delta.json](./154167-hyperlane-delta.json) |
 | Hyperlane Highway | 395812 | [395812-hyperlane-highway.json](./395812-hyperlane-highway.json) |
 | HyperLeague Heroes | 191179 | [191179-hyperleague-heroes.json](./191179-hyperleague-heroes.json) |
 | Hyperlight | 254435 | [254435-hyperlight.json](./254435-hyperlight.json) |
