@@ -965,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -12026,6 +12027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob the Goose | 213476 | [213476-bob-the-goose.json](./213476-bob-the-goose.json) |
 | Bob the Hamster | 60917 | [60917-bob-the-hamster.json](./60917-bob-the-hamster.json) |
 | Bob The Mad Rabbit | 410402 | [410402-bob-the-mad-rabbit.json](./410402-bob-the-mad-rabbit.json) |
+| Bob the Robber | 182002 | [182002-bob-the-robber.json](./182002-bob-the-robber.json) |
 | Bob the Robber 2 | 181607 | [181607-bob-the-robber-2.json](./181607-bob-the-robber-2.json) |
 | Bob the Robber 4 | 342199 | [342199-bob-the-robber-4.json](./342199-bob-the-robber-4.json) |
 | Bob the Robber 5 | 187970 | [187970-bob-the-robber-5.json](./187970-bob-the-robber-5.json) |
@@ -17181,6 +17183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Bill 3 | 370097 | [370097-bullet-bill-3.json](./370097-bullet-bill-3.json) |
 | Bullet Bill Simulator | 202109 | [202109-bullet-bill-simulator.json](./202109-bullet-bill-simulator.json) |
 | Bullet Blaze | 243373 | [243373-bullet-blaze.json](./243373-bullet-blaze.json) |
+| Bullet Bonanza | 181977 | [181977-bullet-bonanza.json](./181977-bullet-bonanza.json) |
 | Bullet Box | 410199 | [410199-bullet-box.json](./410199-bullet-box.json) |
 | Bullet Boy | 58561 | [58561-bullet-boy.json](./58561-bullet-boy.json) |
 | Bullet Brain | 320075 | [320075-bullet-brain.json](./320075-bullet-brain.json) |
