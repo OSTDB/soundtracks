@@ -1788,6 +1788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gar-Type | 327351 | [327351-gar-type.json](./327351-gar-type.json) |
 | Gar's Den | 178462 | [178462-gars-den.json](./178462-gars-den.json) |
 | Garage | 108875 | [108875-garage.json](./108875-garage.json) |
+| Garage Apocalypse | 180344 | [180344-garage-apocalypse.json](./180344-garage-apocalypse.json) |
 | Garage Chaos | 420481 | [420481-garage-chaos.json](./420481-garage-chaos.json) |
 | Garage Escape | 74709 | [74709-garage-escape.json](./74709-garage-escape.json) |
 | Garage Flipper | 217270 | [217270-garage-flipper.json](./217270-garage-flipper.json) |
