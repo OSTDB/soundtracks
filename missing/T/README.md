@@ -3350,6 +3350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teen Titans Battle Blitz | 144130 | [144130-teen-titans-battle-blitz.json](./144130-teen-titans-battle-blitz.json) |
 | Teen Titans Go! Arcade | 59358 | [59358-teen-titans-go-arcade.json](./59358-teen-titans-go-arcade.json) |
 | Teen Titans Go! Drillionaire | 204194 | [204194-teen-titans-go-drillionaire.json](./204194-teen-titans-go-drillionaire.json) |
+| Teen Titans One-on-One | 185799 | [185799-teen-titans-one-on-one.json](./185799-teen-titans-one-on-one.json) |
 | Teen Titans: Calling All Titans | 210351 | [210351-teen-titans-calling-all-titans.json](./210351-teen-titans-calling-all-titans.json) |
 | Teen Witches Academy | 207163 | [207163-teen-witches-academy.json](./207163-teen-witches-academy.json) |
 | Teenage Blob | 135438 | [135438-teenage-blob.json](./135438-teenage-blob.json) |
@@ -8283,6 +8284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Descent of King Hesper | 413412 | [413412-the-descent-of-king-hesper.json](./413412-the-descent-of-king-hesper.json) |
 | The Descent of the Serpent | 230178 | [230178-the-descent-of-the-serpent.json](./230178-the-descent-of-the-serpent.json) |
 | The Desert's Rose | 109710 | [109710-the-deserts-rose.json](./109710-the-deserts-rose.json) |
+| The Design | 185752 | [185752-the-design.json](./185752-the-design.json) |
 | The Designer's Curse | 120971 | [120971-the-designers-curse.json](./120971-the-designers-curse.json) |
 | The Designer's Curse Chapter 2: Forgotten Horrors | 338329 | [338329-the-designers-curse-chapter-2-forgotten-horrors.json](./338329-the-designers-curse-chapter-2-forgotten-horrors.json) |
 | The Desire of the Amazons | 272279 | [272279-the-desire-of-the-amazons.json](./272279-the-desire-of-the-amazons.json) |
@@ -9712,6 +9714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forever Winter: Holiday Hangover | 383130 | [383130-the-forever-winter-holiday-hangover.json](./383130-the-forever-winter-holiday-hangover.json) |
 | The Foreverlands | 181234 | [181234-the-foreverlands.json](./181234-the-foreverlands.json) |
 | The Forge | 108201 | [108201-the-forge.json](./108201-the-forge.json) |
+| The Forge Arena | 185758 | [185758-the-forge-arena.json](./185758-the-forge-arena.json) |
 | The Forge Arena | 90078 | [90078-the-forge-arena.json](./90078-the-forge-arena.json) |
 | The Forge: Steel Frontier | 414869 | [414869-the-forge-steel-frontier.json](./414869-the-forge-steel-frontier.json) |
 | The Forger | 166060 | [166060-the-forger.json](./166060-the-forger.json) |
@@ -17763,6 +17766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Time Watcher | 192289 | [192289-the-time-watcher.json](./192289-the-time-watcher.json) |
 | The TimeBuilders: Pyramid Rising | 356378 | [356378-the-timebuilders-pyramid-rising.json](./356378-the-timebuilders-pyramid-rising.json) |
 | The Timeless Battle | 19800 | [19800-the-timeless-battle.json](./19800-the-timeless-battle.json) |
+| The Timeless Child | 185742 | [185742-the-timeless-child.json](./185742-the-timeless-child.json) |
 | The Tin Soldier | 327328 | [327328-the-tin-soldier.json](./327328-the-tin-soldier.json) |
 | The Tiny Bang Story | 15120 | [15120-the-tiny-bang-story.json](./15120-the-tiny-bang-story.json) |
 | The Tiny Bang Story HD | 100154 | [100154-the-tiny-bang-story-hd.json](./100154-the-tiny-bang-story-hd.json) |
@@ -19668,6 +19672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There Was Something In That Room | 338273 | [338273-there-was-something-in-that-room.json](./338273-there-was-something-in-that-room.json) |
 | There Was the Moon | 135628 | [135628-there-was-the-moon.json](./135628-there-was-the-moon.json) |
 | There Will Be Light | 347186 | [347186-there-will-be-light.json](./347186-there-will-be-light.json) |
+| There Will Be No Turkey This Christmas | 185783 | [185783-there-will-be-no-turkey-this-christmas.json](./185783-there-will-be-no-turkey-this-christmas.json) |
 | There Won't be Light | 196911 | [196911-there-wont-be-light.json](./196911-there-wont-be-light.json) |
 | There You Are | 177794 | [177794-there-you-are.json](./177794-there-you-are.json) |
 | There You Go | 57527 | [57527-there-you-go.json](./57527-there-you-go.json) |
@@ -24845,6 +24850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's ShadowBreak | 124470 | [124470-tom-clancys-shadowbreak.json](./124470-tom-clancys-shadowbreak.json) |
 | Tom Clancy's Signature Collection | 53823 | [53823-tom-clancys-signature-collection.json](./53823-tom-clancys-signature-collection.json) |
 | Tom Clancy's Splinter Cell | 134350 | [134350-tom-clancys-splinter-cell.json](./134350-tom-clancys-splinter-cell.json) |
+| Tom Clancy's Splinter Cell | 185778 | [185778-tom-clancys-splinter-cell.json](./185778-tom-clancys-splinter-cell.json) |
 | Tom Clancy's Splinter Cell | 90689 | [90689-tom-clancys-splinter-cell.json](./90689-tom-clancys-splinter-cell.json) |
 | Tom Clancy's Splinter Cell 3D | 47626 | [47626-tom-clancys-splinter-cell-3d.json](./47626-tom-clancys-splinter-cell-3d.json) |
 | Tom Clancy's Splinter Cell Collection | 53821 | [53821-tom-clancys-splinter-cell-collection.json](./53821-tom-clancys-splinter-cell-collection.json) |
@@ -25394,6 +25400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too Many Me | 11011 | [11011-too-many-me.json](./11011-too-many-me.json) |
 | Too Many Nights | 315475 | [315475-too-many-nights.json](./315475-too-many-nights.json) |
 | Too Many Ninjas! | 342165 | [342165-too-many-ninjas.json](./342165-too-many-ninjas.json) |
+| Too Many Santas! | 185763 | [185763-too-many-santas.json](./185763-too-many-santas.json) |
 | Too Many Sheep | 249838 | [249838-too-many-sheep.json](./249838-too-many-sheep.json) |
 | Too Many Snakes | 233082 | [233082-too-many-snakes.json](./233082-too-many-snakes.json) |
 | Too Many Super Shotguns | 251633 | [251633-too-many-super-shotguns.json](./251633-too-many-super-shotguns.json) |
@@ -26177,6 +26184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totally Spies! 3: Secret Agents | 61468 | [61468-totally-spies-3-secret-agents.json](./61468-totally-spies-3-secret-agents.json) |
 | Totally Spies! 4: Around the World | 304040 | [304040-totally-spies-4-around-the-world.json](./304040-totally-spies-4-around-the-world.json) |
 | Totally Spies! Cyber Mission | 302511 | [302511-totally-spies-cyber-mission.json](./302511-totally-spies-cyber-mission.json) |
+| Totally Spies! Mall Brawl | 185796 | [185796-totally-spies-mall-brawl.json](./185796-totally-spies-mall-brawl.json) |
 | Totally Spies! The Mobile Game | 317003 | [317003-totally-spies-the-mobile-game.json](./317003-totally-spies-the-mobile-game.json) |
 | Totally Spies! Totally Party | 5238 | [5238-totally-spies-totally-party.json](./5238-totally-spies-totally-party.json) |
 | Totally Spies!: Swamp Monster Blues | 206090 | [206090-totally-spies-swamp-monster-blues.json](./206090-totally-spies-swamp-monster-blues.json) |
@@ -26988,6 +26996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Fortune | 130751 | [130751-tower-of-fortune.json](./130751-tower-of-fortune.json) |
 | Tower of Fortune 3 | 197738 | [197738-tower-of-fortune-3.json](./197738-tower-of-fortune-3.json) |
 | Tower of Fortune 4 | 175610 | [175610-tower-of-fortune-4.json](./175610-tower-of-fortune-4.json) |
+| Tower of Gargax | 185768 | [185768-tower-of-gargax.json](./185768-tower-of-gargax.json) |
 | Tower of God M: The Great Journey | 188404 | [188404-tower-of-god-m-the-great-journey.json](./188404-tower-of-god-m-the-great-journey.json) |
 | Tower of God: Great Journey | 231889 | [231889-tower-of-god-great-journey.json](./231889-tower-of-god-great-journey.json) |
 | Tower of God: New World | 194110 | [194110-tower-of-god-new-world.json](./194110-tower-of-god-new-world.json) |
@@ -32738,6 +32747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle Daddy | 385560 | [385560-turtle-daddy.json](./385560-turtle-daddy.json) |
 | Turtle Evolution | 239346 | [239346-turtle-evolution.json](./239346-turtle-evolution.json) |
 | Turtle Fly: Into Space | 232574 | [232574-turtle-fly-into-space.json](./232574-turtle-fly-into-space.json) |
+| Turtle Head: Unmasked | 185779 | [185779-turtle-head-unmasked.json](./185779-turtle-head-unmasked.json) |
 | Turtle Invaders | 252138 | [252138-turtle-invaders.json](./252138-turtle-invaders.json) |
 | Turtle Jump | 307652 | [307652-turtle-jump.json](./307652-turtle-jump.json) |
 | Turtle Lu | 90133 | [90133-turtle-lu.json](./90133-turtle-lu.json) |
