@@ -853,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yolanda: The Ultimate Challenge | 78390 | [78390-yolanda-the-ultimate-challenge.json](./78390-yolanda-the-ultimate-challenge.json) |
 | Yoli | 172883 | [172883-yoli.json](./172883-yoli.json) |
 | Yolk Heroes: A Long Tamago | 250985 | [250985-yolk-heroes-a-long-tamago.json](./250985-yolk-heroes-a-long-tamago.json) |
+| Yolka | 172281 | [172281-yolka.json](./172281-yolka.json) |
 | Yolked | 178292 | [178292-yolked.json](./178292-yolked.json) |
 | Yollen | 348698 | [348698-yollen.json](./348698-yollen.json) |
 | Yolo Chase | 241535 | [241535-yolo-chase.json](./241535-yolo-chase.json) |
