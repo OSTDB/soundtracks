@@ -5648,6 +5648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend the Tower: Castle Defence Element | 109486 | [109486-defend-the-tower-castle-defence-element.json](./109486-defend-the-tower-castle-defence-element.json) |
 | Defend the Village From Goblins | 153534 | [153534-defend-the-village-from-goblins.json](./153534-defend-the-village-from-goblins.json) |
 | Defend Them ! | 126788 | [126788-defend-them.json](./126788-defend-them.json) |
+| Defend Till Sunshine | 158848 | [158848-defend-till-sunshine.json](./158848-defend-till-sunshine.json) |
 | Defend Tower: TD strategy | 130908 | [130908-defend-tower-td-strategy.json](./130908-defend-tower-td-strategy.json) |
 | Defend Your Buttress | 76500 | [76500-defend-your-buttress.json](./76500-defend-your-buttress.json) |
 | Defend Your Castle | 383124 | [383124-defend-your-castle.json](./383124-defend-your-castle.json) |
@@ -18016,6 +18017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dung Battles | 390799 | [390799-dung-battles.json](./390799-dung-battles.json) |
 | Dung Beetle | 75116 | [75116-dung-beetle.json](./75116-dung-beetle.json) |
 | Dung Beetle Adventure | 266622 | [266622-dung-beetle-adventure.json](./266622-dung-beetle-adventure.json) |
+| Dung Beetle Strike | 158804 | [158804-dung-beetle-strike.json](./158804-dung-beetle-strike.json) |
 | Dung Slinger | 410342 | [410342-dung-slinger.json](./410342-dung-slinger.json) |
 | Dungelot | 22161 | [22161-dungelot.json](./22161-dungelot.json) |
 | Dungemon | 339930 | [339930-dungemon.json](./339930-dungemon.json) |
