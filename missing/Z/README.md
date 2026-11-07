@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zelenhgorm: Episode I - Land of the Blue Moon | 21499 | [21499-zelenhgorm-episode-i-land-of-the-blue-moon.json](./21499-zelenhgorm-episode-i-land-of-the-blue-moon.json) |
 | Zelensky vs Poroshenko: The Destiny of Ukraine | 371931 | [371931-zelensky-vs-poroshenko-the-destiny-of-ukraine.json](./371931-zelensky-vs-poroshenko-the-destiny-of-ukraine.json) |
 | Zeliard | 2409 | [2409-zeliard.json](./2409-zeliard.json) |
+| Zeliria Sanctuary II: Xinori Asylum | 161504 | [161504-zeliria-sanctuary-ii-xinori-asylum.json](./161504-zeliria-sanctuary-ii-xinori-asylum.json) |
 | Zeliria Sanctuary: Isle's Memories | 170772 | [170772-zeliria-sanctuary-isles-memories.json](./170772-zeliria-sanctuary-isles-memories.json) |
 | Zella's Gun | 412572 | [412572-zellas-gun.json](./412572-zellas-gun.json) |
 | Zelle | 122523 | [122523-zelle.json](./122523-zelle.json) |
@@ -1058,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZeroVector | 241638 | [241638-zerovector.json](./241638-zerovector.json) |
 | Zeroverse | 219875 | [219875-zeroverse.json](./219875-zeroverse.json) |
 | Zerowake Gates | 379943 | [379943-zerowake-gates.json](./379943-zerowake-gates.json) |
+| Zerowood | 161459 | [161459-zerowood.json](./161459-zerowood.json) |
 | ZeroZap | 108892 | [108892-zerozap.json](./108892-zerozap.json) |
 | ZeroZeta | 361761 | [361761-zerozeta.json](./361761-zerozeta.json) |
 | Zerra's Adventure | 297757 | [297757-zerras-adventure.json](./297757-zerras-adventure.json) |
