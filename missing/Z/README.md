@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zagerrrr | 176366 | [176366-zagerrrr.json](./176366-zagerrrr.json) |
 | Zaggy Car | 308299 | [308299-zaggy-car.json](./308299-zaggy-car.json) |
 | Zags: The Role We Play | 358617 | [358617-zags-the-role-we-play.json](./358617-zags-the-role-we-play.json) |
+| Zagu Espionage | 152561 | [152561-zagu-espionage.json](./152561-zagu-espionage.json) |
 | ZagZag | 369904 | [369904-zagzag.json](./369904-zagzag.json) |
 | Zahak | 287676 | [287676-zahak.json](./287676-zahak.json) |
 | Zahalia | 86481 | [86481-zahalia.json](./86481-zahalia.json) |
@@ -2233,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone of the Enders: The 2nd Runner - Special Edition | 258844 | [258844-zone-of-the-enders-the-2nd-runner-special-edition.json](./258844-zone-of-the-enders-the-2nd-runner-special-edition.json) |
 | Zone of The Enders: The 2nd Runner Mars | 68284 | [68284-zone-of-the-enders-the-2nd-runner-mars.json](./68284-zone-of-the-enders-the-2nd-runner-mars.json) |
 | Zone of the Enders: The Fist of Mars | 1474 | [1474-zone-of-the-enders-the-fist-of-mars.json](./1474-zone-of-the-enders-the-fist-of-mars.json) |
+| Zone of War | 153028 | [153028-zone-of-war.json](./153028-zone-of-war.json) |
 | Zone Raiders | 2198 | [2198-zone-raiders.json](./2198-zone-raiders.json) |
 | Zone Ranger | 12974 | [12974-zone-ranger.json](./12974-zone-ranger.json) |
 | Zone Sega | 202809 | [202809-zone-sega.json](./202809-zone-sega.json) |
