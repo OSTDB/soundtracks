@@ -9572,6 +9572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Dash: Hometown Hero | 16070 | [16070-diner-dash-hometown-hero.json](./16070-diner-dash-hometown-hero.json) |
 | Diner Dash: Hometown Hero - Once Upon a Diner | 393905 | [393905-diner-dash-hometown-hero-once-upon-a-diner.json](./393905-diner-dash-hometown-hero-once-upon-a-diner.json) |
 | Diner Dash: Sizzle & Serve | 21418 | [21418-diner-dash-sizzle-and-serve.json](./21418-diner-dash-sizzle-and-serve.json) |
+| Diner Drop! | 146443 | [146443-diner-drop.json](./146443-diner-drop.json) |
 | Diner in the Storm | 360034 | [360034-diner-in-the-storm.json](./360034-diner-in-the-storm.json) |
 | Diner Mania | 34984 | [34984-diner-mania.json](./34984-diner-mania.json) |
 | Diner Out | 314520 | [314520-diner-out.json](./314520-diner-out.json) |
@@ -10011,6 +10012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Direstead Settlers | 385116 | [385116-direstead-settlers.json](./385116-direstead-settlers.json) |
 | Dirge | 145680 | [145680-dirge.json](./145680-dirge.json) |
 | Dirge For The Zone | 295216 | [295216-dirge-for-the-zone.json](./295216-dirge-for-the-zone.json) |
+| Dirge of Cerberus Lost Episode: Final Fantasy VII | 146428 | [146428-dirge-of-cerberus-lost-episode-final-fantasy-vii.json](./146428-dirge-of-cerberus-lost-episode-final-fantasy-vii.json) |
 | Dirge of Cerberus: Final Fantasy VII | 18068 | [18068-dirge-of-cerberus-final-fantasy-vii.json](./18068-dirge-of-cerberus-final-fantasy-vii.json) |
 | Dirge of the Scarlet Star | 387028 | [387028-dirge-of-the-scarlet-star.json](./387028-dirge-of-the-scarlet-star.json) |
 | Dirk Valentine and the Fortress of Steam | 297692 | [297692-dirk-valentine-and-the-fortress-of-steam.json](./297692-dirk-valentine-and-the-fortress-of-steam.json) |
