@@ -838,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Waifu | 160191 | [160191-dance-waifu.json](./160191-dance-waifu.json) |
 | Dance with Devils | 132088 | [132088-dance-with-devils.json](./132088-dance-with-devils.json) |
 | Dance with Devils My Carol | 132089 | [132089-dance-with-devils-my-carol.json](./132089-dance-with-devils-my-carol.json) |
+| Dance with me | 152968 | [152968-dance-with-me.json](./152968-dance-with-me.json) |
 | Dance With Memes | 102952 | [102952-dance-with-memes.json](./102952-dance-with-memes.json) |
 | Dance with the Devil | 181766 | [181766-dance-with-the-devil.json](./181766-dance-with-the-devil.json) |
 | Dance with the Moon | 370564 | [370564-dance-with-the-moon.json](./370564-dance-with-the-moon.json) |
@@ -7944,6 +7945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Stories Bundle | 118885 | [118885-detective-stories-bundle.json](./118885-detective-stories-bundle.json) |
 | Detective Stories: Hollywood | 202069 | [202069-detective-stories-hollywood.json](./202069-detective-stories-hollywood.json) |
 | Detective Story | 148553 | [148553-detective-story.json](./148553-detective-story.json) |
+| Detective Story: Reporter | 152552 | [152552-detective-story-reporter.json](./152552-detective-story-reporter.json) |
 | Detective Time | 180035 | [180035-detective-time.json](./180035-detective-time.json) |
 | Detective Turner: If Looks Could Kill | 404825 | [404825-detective-turner-if-looks-could-kill.json](./404825-detective-turner-if-looks-could-kill.json) |
 | Detective VR | 360772 | [360772-detective-vr.json](./360772-detective-vr.json) |
@@ -9971,6 +9973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Direct Contact | 211504 | [211504-direct-contact.json](./211504-direct-contact.json) |
 | Direct Drive | 151992 | [151992-direct-drive.json](./151992-direct-drive.json) |
 | Direct Hit: Missile War | 17671 | [17671-direct-hit-missile-war.json](./17671-direct-hit-missile-war.json) |
+| Direct Shot | 152957 | [152957-direct-shot.json](./152957-direct-shot.json) |
 | Direct-X | 292146 | [292146-direct-x.json](./292146-direct-x.json) |
 | Direction Quad | 385117 | [385117-direction-quad.json](./385117-direction-quad.json) |
 | Direction! Level Up! | 306359 | [306359-direction-level-up.json](./306359-direction-level-up.json) |
@@ -18157,6 +18160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Boss: Respawned | 251660 | [251660-dungeon-boss-respawned.json](./251660-dungeon-boss-respawned.json) |
 | Dungeon Bosses | 118225 | [118225-dungeon-bosses.json](./118225-dungeon-bosses.json) |
 | Dungeon Brawl | 373095 | [373095-dungeon-brawl.json](./373095-dungeon-brawl.json) |
+| Dungeon Break TD | 152969 | [152969-dungeon-break-td.json](./152969-dungeon-break-td.json) |
 | Dungeon Breakers | 188281 | [188281-dungeon-breakers.json](./188281-dungeon-breakers.json) |
 | Dungeon Breakout: Chapter 1 | 252616 | [252616-dungeon-breakout-chapter-1.json](./252616-dungeon-breakout-chapter-1.json) |
 | Dungeon Brewmaster | 98734 | [98734-dungeon-brewmaster.json](./98734-dungeon-brewmaster.json) |
@@ -18943,6 +18947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungholes | 145959 | [145959-dungholes.json](./145959-dungholes.json) |
 | DunginDragin | 386400 | [386400-dungindragin.json](./386400-dungindragin.json) |
 | Dungleon | 191637 | [191637-dungleon.json](./191637-dungleon.json) |
+| Dungless | 152557 | [152557-dungless.json](./152557-dungless.json) |
 | Dungless 2 | 164512 | [164512-dungless-2.json](./164512-dungless-2.json) |
 | Dungman: The Dungeon Crawler | 214016 | [214016-dungman-the-dungeon-crawler.json](./214016-dungman-the-dungeon-crawler.json) |
 | Dungreed | 76816 | [76816-dungreed.json](./76816-dungreed.json) |
