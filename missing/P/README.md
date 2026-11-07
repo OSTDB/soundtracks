@@ -8347,15 +8347,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles Traditional Jigsaws: Motorbikes | 357954 | [357954-pixel-puzzles-traditional-jigsaws-motorbikes.json](./357954-pixel-puzzles-traditional-jigsaws-motorbikes.json) |
 | Pixel Puzzles Traditional Jigsaws: Native American | 252521 | [252521-pixel-puzzles-traditional-jigsaws-native-american.json](./252521-pixel-puzzles-traditional-jigsaws-native-american.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Autumn | 227006 | [227006-pixel-puzzles-traditional-jigsaws-pack-autumn.json](./227006-pixel-puzzles-traditional-jigsaws-pack-autumn.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Bavaria | 162986 | [162986-pixel-puzzles-traditional-jigsaws-pack-bavaria.json](./162986-pixel-puzzles-traditional-jigsaws-pack-bavaria.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Butterflies | 227005 | [227005-pixel-puzzles-traditional-jigsaws-pack-butterflies.json](./227005-pixel-puzzles-traditional-jigsaws-pack-butterflies.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Candy | 227004 | [227004-pixel-puzzles-traditional-jigsaws-pack-candy.json](./227004-pixel-puzzles-traditional-jigsaws-pack-candy.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Cats | 162985 | [162985-pixel-puzzles-traditional-jigsaws-pack-cats.json](./162985-pixel-puzzles-traditional-jigsaws-pack-cats.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Christmas 2 | 227003 | [227003-pixel-puzzles-traditional-jigsaws-pack-christmas-2.json](./227003-pixel-puzzles-traditional-jigsaws-pack-christmas-2.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Cyberpunk | 162981 | [162981-pixel-puzzles-traditional-jigsaws-pack-cyberpunk.json](./162981-pixel-puzzles-traditional-jigsaws-pack-cyberpunk.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Dogs | 162983 | [162983-pixel-puzzles-traditional-jigsaws-pack-dogs.json](./162983-pixel-puzzles-traditional-jigsaws-pack-dogs.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Fantasy | 227002 | [227002-pixel-puzzles-traditional-jigsaws-pack-fantasy.json](./227002-pixel-puzzles-traditional-jigsaws-pack-fantasy.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Halloween | 227001 | [227001-pixel-puzzles-traditional-jigsaws-pack-halloween.json](./227001-pixel-puzzles-traditional-jigsaws-pack-halloween.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Japan | 162982 | [162982-pixel-puzzles-traditional-jigsaws-pack-japan.json](./162982-pixel-puzzles-traditional-jigsaws-pack-japan.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Mexico | 227000 | [227000-pixel-puzzles-traditional-jigsaws-pack-mexico.json](./227000-pixel-puzzles-traditional-jigsaws-pack-mexico.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Poland | 226999 | [226999-pixel-puzzles-traditional-jigsaws-pack-poland.json](./226999-pixel-puzzles-traditional-jigsaws-pack-poland.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 1 | 163003 | [163003-pixel-puzzles-traditional-jigsaws-pack-variety-pack-1.json](./163003-pixel-puzzles-traditional-jigsaws-pack-variety-pack-1.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 11 | 267407 | [267407-pixel-puzzles-traditional-jigsaws-pack-variety-pack-11.json](./267407-pixel-puzzles-traditional-jigsaws-pack-variety-pack-11.json) |
+| Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 3 | 162984 | [162984-pixel-puzzles-traditional-jigsaws-pack-variety-pack-3.json](./162984-pixel-puzzles-traditional-jigsaws-pack-variety-pack-3.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 4 | 226993 | [226993-pixel-puzzles-traditional-jigsaws-pack-variety-pack-4.json](./226993-pixel-puzzles-traditional-jigsaws-pack-variety-pack-4.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 5 | 226992 | [226992-pixel-puzzles-traditional-jigsaws-pack-variety-pack-5.json](./226992-pixel-puzzles-traditional-jigsaws-pack-variety-pack-5.json) |
 | Pixel Puzzles Traditional Jigsaws: Pack - Variety Pack 6 | 241508 | [241508-pixel-puzzles-traditional-jigsaws-pack-variety-pack-6.json](./241508-pixel-puzzles-traditional-jigsaws-pack-variety-pack-6.json) |
