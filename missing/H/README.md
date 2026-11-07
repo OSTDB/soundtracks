@@ -4848,6 +4848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Age Vacation | 384706 | [384706-hentai-age-vacation.json](./384706-hentai-age-vacation.json) |
 | Hentai Ahegao | 111270 | [111270-hentai-ahegao.json](./111270-hentai-ahegao.json) |
 | Hentai Aim Practice | 219832 | [219832-hentai-aim-practice.json](./219832-hentai-aim-practice.json) |
+| Hentai Aim Trainer | 147539 | [147539-hentai-aim-trainer.json](./147539-hentai-aim-trainer.json) |
 | Hentai Aim Trainer 2 | 234519 | [234519-hentai-aim-trainer-2.json](./234519-hentai-aim-trainer-2.json) |
 | Hentai Aina | 340427 | [340427-hentai-aina.json](./340427-hentai-aina.json) |
 | Hentai Akari | 312719 | [312719-hentai-akari.json](./312719-hentai-akari.json) |
