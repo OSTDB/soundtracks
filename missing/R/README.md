@@ -11264,6 +11264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose O'Neill Kewpie Bomberman | 198036 | [198036-rose-oneill-kewpie-bomberman.json](./198036-rose-oneill-kewpie-bomberman.json) |
 | Rose of Longevity | 326822 | [326822-rose-of-longevity.json](./326822-rose-of-longevity.json) |
 | Rose of Meat | 392161 | [392161-rose-of-meat.json](./392161-rose-of-meat.json) |
+| Rose of Starcross | 143243 | [143243-rose-of-starcross.json](./143243-rose-of-starcross.json) |
 | Rose of Wind | 365613 | [365613-rose-of-wind.json](./365613-rose-of-wind.json) |
 | Rose Online | 16391 | [16391-rose-online.json](./16391-rose-online.json) |
 | Rose Puzzle | 91097 | [91097-rose-puzzle.json](./91097-rose-puzzle.json) |
