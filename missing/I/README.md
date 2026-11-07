@@ -1859,6 +1859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If 3 | 204479 | [204479-if-3.json](./204479-if-3.json) |
 | If Enemy: Smack! | 413078 | [413078-if-enemy-smack.json](./413078-if-enemy-smack.json) |
 | If Found, Please Return | 120347 | [120347-if-found-please-return.json](./120347-if-found-please-return.json) |
+| If Fusion Were That Easy | 149765 | [149765-if-fusion-were-that-easy.json](./149765-if-fusion-were-that-easy.json) |
 | If I Still Had Tomorrow | 417422 | [417422-if-i-still-had-tomorrow.json](./417422-if-i-still-had-tomorrow.json) |
 | If I Was A Worm | 399374 | [399374-if-i-was-a-worm.json](./399374-if-i-was-a-worm.json) |
 | If I Were in a Sealed Room With a Girl, I'd Probably XXX | 93530 | [93530-if-i-were-in-a-sealed-room-with-a-girl-id-probably-xxx.json](./93530-if-i-were-in-a-sealed-room-with-a-girl-id-probably-xxx.json) |
@@ -3930,7 +3931,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -6208,6 +6208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isekai x Isekai: Tsugi ha Dono Sakuhin wo | 367445 | [367445-isekai-x-isekai-tsugi-ha-dono-sakuhin-wo.json](./367445-isekai-x-isekai-tsugi-ha-dono-sakuhin-wo.json) |
 | Isekai-ya | 321269 | [321269-isekai-ya.json](./321269-isekai-ya.json) |
 | Isekai: I'm an FPS Hero Who Was Summoned to Another World | 348287 | [348287-isekai-im-an-fps-hero-who-was-summoned-to-another-world.json](./348287-isekai-im-an-fps-hero-who-was-summoned-to-another-world.json) |
+| Isekai: Reincarnation in a New World | 149737 | [149737-isekai-reincarnation-in-a-new-world.json](./149737-isekai-reincarnation-in-a-new-world.json) |
 | Isekai: Slow Life | 261796 | [261796-isekai-slow-life.json](./261796-isekai-slow-life.json) |
 | Isekai: Waifu Overlord | 419904 | [419904-isekai-waifu-overlord.json](./419904-isekai-waifu-overlord.json) |
 | Isekai: Warrior's Kiss | 298997 | [298997-isekai-warriors-kiss.json](./298997-isekai-warriors-kiss.json) |
