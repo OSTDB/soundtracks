@@ -16858,6 +16858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire FunPak | 79683 | [79683-solitaire-funpak.json](./79683-solitaire-funpak.json) |
 | Solitaire Game Christmas | 201471 | [201471-solitaire-game-christmas.json](./201471-solitaire-game-christmas.json) |
 | Solitaire Game Halloween | 122587 | [122587-solitaire-game-halloween.json](./122587-solitaire-game-halloween.json) |
+| Solitaire Game Halloween 2 | 148091 | [148091-solitaire-game-halloween-2.json](./148091-solitaire-game-halloween-2.json) |
 | Solitaire Gardens | 366450 | [366450-solitaire-gardens.json](./366450-solitaire-gardens.json) |
 | Solitaire Grand Harvest | 321601 | [321601-solitaire-grand-harvest.json](./321601-solitaire-grand-harvest.json) |
 | Solitaire Halloween Story | 156089 | [156089-solitaire-halloween-story.json](./156089-solitaire-halloween-story.json) |
@@ -20607,6 +20608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacebase Siege | 211590 | [211590-spacebase-siege.json](./211590-spacebase-siege.json) |
 | Spacebase Startopia | 121761 | [121761-spacebase-startopia.json](./121761-spacebase-startopia.json) |
 | Spacebase Startopia: Extended Edition | 169189 | [169189-spacebase-startopia-extended-edition.json](./169189-spacebase-startopia-extended-edition.json) |
+| Spacebase19 | 148086 | [148086-spacebase19.json](./148086-spacebase19.json) |
 | SpaceBeaver | 180575 | [180575-spacebeaver.json](./180575-spacebeaver.json) |
 | Spacebeef | 135059 | [135059-spacebeef.json](./135059-spacebeef.json) |
 | SpaceBlocc | 193499 | [193499-spaceblocc.json](./193499-spaceblocc.json) |
@@ -35768,6 +35770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Switch! | 92519 | [92519-switch.json](./92519-switch.json) |
 | Switch! Love Over Flowers | 298877 | [298877-switch-love-over-flowers.json](./298877-switch-love-over-flowers.json) |
 | Switchball | 21522 | [21522-switchball.json](./21522-switchball.json) |
+| Switchball HD | 148090 | [148090-switchball-hd.json](./148090-switchball-hd.json) |
 | Switchblade | 12788 | [12788-switchblade.json](./12788-switchblade.json) |
 | Switchblade | 334055 | [334055-switchblade.json](./334055-switchblade.json) |
 | Switchblade | 336503 | [336503-switchblade.json](./336503-switchblade.json) |
