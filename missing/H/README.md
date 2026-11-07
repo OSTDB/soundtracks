@@ -3309,6 +3309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Love Power Temple | 194754 | [194754-heart-love-power-temple.json](./194754-heart-love-power-temple.json) |
 | Heart Maze | 40994 | [40994-heart-maze.json](./40994-heart-maze.json) |
 | Heart no Kuni no Alice: Wonderful Twin World | 218642 | [218642-heart-no-kuni-no-alice-wonderful-twin-world.json](./218642-heart-no-kuni-no-alice-wonderful-twin-world.json) |
+| Heart of a Bird in a Cage | 152562 | [152562-heart-of-a-bird-in-a-cage.json](./152562-heart-of-a-bird-in-a-cage.json) |
 | Heart of a Bird in a Cage: After Story | 227066 | [227066-heart-of-a-bird-in-a-cage-after-story.json](./227066-heart-of-a-bird-in-a-cage-after-story.json) |
 | Heart of a Knight | 322078 | [322078-heart-of-a-knight.json](./322078-heart-of-a-knight.json) |
 | Heart of a Warrior | 190072 | [190072-heart-of-a-warrior.json](./190072-heart-of-a-warrior.json) |
@@ -4746,6 +4747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helping Frankenstein | 96581 | [96581-helping-frankenstein.json](./96581-helping-frankenstein.json) |
 | Helping Hand | 104858 | [104858-helping-hand.json](./104858-helping-hand.json) |
 | Helping Hand | 365739 | [365739-helping-hand.json](./365739-helping-hand.json) |
+| Helpless | 153031 | [153031-helpless.json](./153031-helpless.json) |
 | Helpless Zombies | 96938 | [96938-helpless-zombies.json](./96938-helpless-zombies.json) |
 | Helrift | 373498 | [373498-helrift.json](./373498-helrift.json) |
 | Helsing's Fire | 66492 | [66492-helsings-fire.json](./66492-helsings-fire.json) |
@@ -6378,6 +6380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroine of the Sniper | 118673 | [118673-heroine-of-the-sniper.json](./118673-heroine-of-the-sniper.json) |
 | Heroine's Claw | 243035 | [243035-heroines-claw.json](./243035-heroines-claw.json) |
 | Heroine's Quest: The Herald of Ragnarok | 36441 | [36441-heroines-quest-the-herald-of-ragnarok.json](./36441-heroines-quest-the-herald-of-ragnarok.json) |
+| Heroines | 152553 | [152553-heroines.json](./152553-heroines.json) |
 | Heroines Fantasy Inherit | 284290 | [284290-heroines-fantasy-inherit.json](./284290-heroines-fantasy-inherit.json) |
 | Heroines of Swords & Spells | 130129 | [130129-heroines-of-swords-and-spells.json](./130129-heroines-of-swords-and-spells.json) |
 | Heroines of Swords & Spells 2 | 349065 | [349065-heroines-of-swords-and-spells-2.json](./349065-heroines-of-swords-and-spells-2.json) |
@@ -8739,6 +8742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hogs of War | 8877 | [8877-hogs-of-war.json](./8877-hogs-of-war.json) |
 | Hogtie | 348335 | [348335-hogtie.json](./348335-hogtie.json) |
 | HoGuru Presents: The House With Too Many Zombies In It | 195840 | [195840-hoguru-presents-the-house-with-too-many-zombies-in-it.json](./195840-hoguru-presents-the-house-with-too-many-zombies-in-it.json) |
+| Hogvalord | 153030 | [153030-hogvalord.json](./153030-hogvalord.json) |
 | Hogvalord: The Ranch | 236389 | [236389-hogvalord-the-ranch.json](./236389-hogvalord-the-ranch.json) |
 | Hogwarts Legacy + Harry Potter: Quidditch Champions Deluxe Editions Bundle | 324208 | [324208-hogwarts-legacy-harry-potter-quidditch-champions-deluxe-editions-bundle.json](./324208-hogwarts-legacy-harry-potter-quidditch-champions-deluxe-editions-bundle.json) |
 | Hogwarts Legacy: Collector's Edition | 214875 | [214875-hogwarts-legacy-collectors-edition.json](./214875-hogwarts-legacy-collectors-edition.json) |
