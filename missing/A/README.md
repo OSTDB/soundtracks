@@ -1608,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Ressha de Ikou: The 21st Century - Limited Edition | 272678 | [272678-a-ressha-de-ikou-the-21st-century-limited-edition.json](./272678-a-ressha-de-ikou-the-21st-century-limited-edition.json) |
 | A-Ressha de Ikou: The 21st Century - Perfect Set | 272679 | [272679-a-ressha-de-ikou-the-21st-century-perfect-set.json](./272679-a-ressha-de-ikou-the-21st-century-perfect-set.json) |
 | A-Sock-Ellipse Now! | 70077 | [70077-a-sock-ellipse-now.json](./70077-a-sock-ellipse-now.json) |
+| A-Spec: First Assault | 154160 | [154160-a-spec-first-assault.json](./154160-a-spec-first-assault.json) |
 | A-Star Theft | 156956 | [156956-a-star-theft.json](./156956-a-star-theft.json) |
 | A-Tech Cybernetic | 29806 | [29806-a-tech-cybernetic.json](./29806-a-tech-cybernetic.json) |
 | A-Train | 285142 | [285142-a-train.json](./285142-a-train.json) |
@@ -16915,6 +16916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atmosphir | 70682 | [70682-atmosphir.json](./70682-atmosphir.json) |
 | ATNRPG | 387687 | [387687-atnrpg.json](./387687-atnrpg.json) |
 | Ato | 132309 | [132309-ato.json](./132309-ato.json) |
+| Atoll | 154117 | [154117-atoll.json](./154117-atoll.json) |
 | Atoll: The Last Ghost | 186644 | [186644-atoll-the-last-ghost.json](./186644-atoll-the-last-ghost.json) |
 | Atolladero | 275208 | [275208-atolladero.json](./275208-atolladero.json) |
 | Atollo | 349731 | [349731-atollo.json](./349731-atollo.json) |
