@@ -5695,6 +5695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fingie Bandits | 380765 | [380765-fingie-bandits.json](./380765-fingie-bandits.json) |
 | Fingle | 100682 | [100682-fingle.json](./100682-fingle.json) |
 | Fingore Fighter | 237439 | [237439-fingore-fighter.json](./237439-fingore-fighter.json) |
+| Fingun | 190783 | [190783-fingun.json](./190783-fingun.json) |
 | Fingun Forever! | 320298 | [320298-fingun-forever.json](./320298-fingun-forever.json) |
 | Finis | 213013 | [213013-finis.json](./213013-finis.json) |
 | Finis Actus | 389730 | [389730-finis-actus.json](./389730-finis-actus.json) |
