@@ -7303,6 +7303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chickenauts | 251753 | [251753-chickenauts.json](./251753-chickenauts.json) |
 | Chickenfoot Dominoes | 108257 | [108257-chickenfoot-dominoes.json](./108257-chickenfoot-dominoes.json) |
 | Chickenhare and the Treasure of Spiking-Beard | 341670 | [341670-chickenhare-and-the-treasure-of-spiking-beard.json](./341670-chickenhare-and-the-treasure-of-spiking-beard.json) |
+| Chickenman | 172259 | [172259-chickenman.json](./172259-chickenman.json) |
 | Chickenoidz Super Party | 217358 | [217358-chickenoidz-super-party.json](./217358-chickenoidz-super-party.json) |
 | ChickenPop! | 103519 | [103519-chickenpop.json](./103519-chickenpop.json) |
 | Chickens | 94352 | [94352-chickens.json](./94352-chickens.json) |
@@ -8230,6 +8231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Mission | 50402 | [50402-christmas-mission.json](./50402-christmas-mission.json) |
 | Christmas Morning | 187222 | [187222-christmas-morning.json](./187222-christmas-morning.json) |
 | Christmas Mosaic Puzzle | 104217 | [104217-christmas-mosaic-puzzle.json](./104217-christmas-mosaic-puzzle.json) |
+| Christmas Movie Bingo | 172262 | [172262-christmas-movie-bingo.json](./172262-christmas-movie-bingo.json) |
 | Christmas Mutilator | 326235 | [326235-christmas-mutilator.json](./326235-christmas-mutilator.json) |
 | Christmas Night | 236804 | [236804-christmas-night.json](./236804-christmas-night.json) |
 | Christmas Night Archery | 77667 | [77667-christmas-night-archery.json](./77667-christmas-night-archery.json) |
@@ -9728,6 +9730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clandestine: The Hidden Truth | 290379 | [290379-clandestine-the-hidden-truth.json](./290379-clandestine-the-hidden-truth.json) |
 | Clandestinity of Elsie | 35025 | [35025-clandestinity-of-elsie.json](./35025-clandestinity-of-elsie.json) |
 | Clandestiny | 57588 | [57588-clandestiny.json](./57588-clandestiny.json) |
+| Clanfolk | 172261 | [172261-clanfolk.json](./172261-clanfolk.json) |
 | Clang | 85956 | [85956-clang.json](./85956-clang.json) |
 | Clankers! | 376050 | [376050-clankers.json](./376050-clankers.json) |
 | Clannad | 262473 | [262473-clannad.json](./262473-clannad.json) |
@@ -15062,6 +15065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corsair | 80501 | [80501-corsair.json](./80501-corsair.json) |
 | Corsair's Madness | 193095 | [193095-corsairs-madness.json](./193095-corsairs-madness.json) |
 | Corsairs Gold | 50354 | [50354-corsairs-gold.json](./50354-corsairs-gold.json) |
+| Corsairs Legacy | 172298 | [172298-corsairs-legacy.json](./172298-corsairs-legacy.json) |
 | Corsairs: Battle of the Caribbean | 252037 | [252037-corsairs-battle-of-the-caribbean.json](./252037-corsairs-battle-of-the-caribbean.json) |
 | Corsairs: Conquest at Sea | 10107 | [10107-corsairs-conquest-at-sea.json](./10107-corsairs-conquest-at-sea.json) |
 | Corsairs: The New Conquerors | 11048 | [11048-corsairs-the-new-conquerors.json](./11048-corsairs-the-new-conquerors.json) |
@@ -16204,6 +16208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craft | 280355 | [280355-craft.json](./280355-craft.json) |
 | Craft & Conquer | 339334 | [339334-craft-and-conquer.json](./339334-craft-and-conquer.json) |
 | Craft & Deliver | 406889 | [406889-craft-and-deliver.json](./406889-craft-and-deliver.json) |
+| Craft & Survive | 172296 | [172296-craft-and-survive.json](./172296-craft-and-survive.json) |
 | Craft Away! - Idle Mining Game | 99337 | [99337-craft-away-idle-mining-game.json](./99337-craft-away-idle-mining-game.json) |
 | Craft Battle Simulator | 90640 | [90640-craft-battle-simulator.json](./90640-craft-battle-simulator.json) |
 | Craft City Gangs | 86711 | [86711-craft-city-gangs.json](./86711-craft-city-gangs.json) |
@@ -18545,6 +18550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader: No Regret | 656 | [656-crusader-no-regret.json](./656-crusader-no-regret.json) |
 | Crusader: No Remorse | 207101 | [207101-crusader-no-remorse.json](./207101-crusader-no-remorse.json) |
 | Crusader: No Remorse | 7840 | [7840-crusader-no-remorse.json](./7840-crusader-no-remorse.json) |
+| Crusader's Dynasty | 172256 | [172256-crusaders-dynasty.json](./172256-crusaders-dynasty.json) |
 | Crusader's Legacy | 303442 | [303442-crusaders-legacy.json](./303442-crusaders-legacy.json) |
 | Crusader's March | 240627 | [240627-crusaders-march.json](./240627-crusaders-march.json) |
 | Crusaderman | 365949 | [365949-crusaderman.json](./365949-crusaderman.json) |
