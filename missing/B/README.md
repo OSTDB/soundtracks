@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -13621,6 +13622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bot Slash Bot | 361871 | [361871-bot-slash-bot.json](./361871-bot-slash-bot.json) |
 | Bot Tales: The Crashed | 104048 | [104048-bot-tales-the-crashed.json](./104048-bot-tales-the-crashed.json) |
 | Bot Vice | 22751 | [22751-bot-vice.json](./22751-bot-vice.json) |
+| Bot Wars | 169024 | [169024-bot-wars.json](./169024-bot-wars.json) |
 | Bot Warzone | 281970 | [281970-bot-warzone.json](./281970-bot-warzone.json) |
 | Bot World | 226193 | [226193-bot-world.json](./226193-bot-world.json) |
 | Bot-Net | 120384 | [120384-bot-net.json](./120384-bot-net.json) |
