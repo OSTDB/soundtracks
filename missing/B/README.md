@@ -10641,6 +10641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlockFront | 335152 | [335152-blockfront.json](./335152-blockfront.json) |
 | Blockfusion | 363977 | [363977-blockfusion.json](./363977-blockfusion.json) |
 | BlockGame | 380027 | [380027-blockgame.json](./380027-blockgame.json) |
+| Blockgeon | 189259 | [189259-blockgeon.json](./189259-blockgeon.json) |
 | Blockhead | 14323 | [14323-blockhead.json](./14323-blockhead.json) |
 | Blockhead | 338248 | [338248-blockhead.json](./338248-blockhead.json) |
 | Blockhead | 380026 | [380026-blockhead.json](./380026-blockhead.json) |
@@ -10868,6 +10869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood and Zombies: Gold Edition | 241966 | [241966-blood-and-zombies-gold-edition.json](./241966-blood-and-zombies-gold-edition.json) |
 | Blood Bar Tycoon | 290914 | [290914-blood-bar-tycoon.json](./290914-blood-bar-tycoon.json) |
 | Blood Bath at Red Falls | 113989 | [113989-blood-bath-at-red-falls.json](./113989-blood-bath-at-red-falls.json) |
+| Blood Bay | 189254 | [189254-blood-bay.json](./189254-blood-bay.json) |
 | Blood Beach | 51084 | [51084-blood-beach.json](./51084-blood-beach.json) |
 | Blood Bear | 365621 | [365621-blood-bear.json](./365621-blood-bear.json) |
 | Blood Beat Club | 301894 | [301894-blood-beat-club.json](./301894-blood-beat-club.json) |
