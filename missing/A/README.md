@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Chocolate World | 277343 | [277343-a-chocolate-world.json](./277343-a-chocolate-world.json) |
 | A Christmas Blackout | 310535 | [310535-a-christmas-blackout.json](./310535-a-christmas-blackout.json) |
 | A Christmas Carol: But With Anime Girls | 379470 | [379470-a-christmas-carol-but-with-anime-girls.json](./379470-a-christmas-carol-but-with-anime-girls.json) |
+| A Christmas Game | 141981 | [141981-a-christmas-game.json](./141981-a-christmas-game.json) |
 | A Christmas Gift: Timmy's Final Gift | 312366 | [312366-a-christmas-gift-timmys-final-gift.json](./312366-a-christmas-gift-timmys-final-gift.json) |
 | A Christmas Journey With: Noelle | 383557 | [383557-a-christmas-journey-with-noelle.json](./383557-a-christmas-journey-with-noelle.json) |
 | A Christmas Nightmare | 165502 | [165502-a-christmas-nightmare.json](./165502-a-christmas-nightmare.json) |
@@ -630,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A House Inside Me | 397286 | [397286-a-house-inside-me.json](./397286-a-house-inside-me.json) |
 | A House Made of Sweets | 387931 | [387931-a-house-made-of-sweets.json](./387931-a-house-made-of-sweets.json) |
 | A House of Endless Windows | 345040 | [345040-a-house-of-endless-windows.json](./345040-a-house-of-endless-windows.json) |
+| A House of Thieves | 141992 | [141992-a-house-of-thieves.json](./141992-a-house-of-thieves.json) |
 | A House That Glows | 389593 | [389593-a-house-that-glows.json](./389593-a-house-that-glows.json) |
 | A housewife Hiroko Yamaguchi is reborn in the alternative world with her husband | 82927 | [82927-a-housewife-hiroko-yamaguchi-is-reborn-in-the-alternative-world-with-her-husband.json](./82927-a-housewife-hiroko-yamaguchi-is-reborn-in-the-alternative-world-with-her-husband.json) |
 | A Housewife's Healing Touch | 198561 | [198561-a-housewifes-healing-touch.json](./198561-a-housewifes-healing-touch.json) |
@@ -8929,6 +8931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amon Amarth | 76156 | [76156-amon-amarth.json](./76156-amon-amarth.json) |
 | Amon Ra | 316586 | [316586-amon-ra.json](./316586-amon-ra.json) |
 | Among Ashes | 258510 | [258510-among-ashes.json](./258510-among-ashes.json) |
+| Among Ass | 141984 | [141984-among-ass.json](./141984-among-ass.json) |
 | Among Ass 2: Butt Warfare | 170900 | [170900-among-ass-2-butt-warfare.json](./170900-among-ass-2-butt-warfare.json) |
 | Among Ass: Trilogy | 213432 | [213432-among-ass-trilogy.json](./213432-among-ass-trilogy.json) |
 | Among Dots | 159063 | [159063-among-dots.json](./159063-among-dots.json) |
@@ -17259,6 +17262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Titan: Humanity in Chains | 20040 | [20040-attack-on-titan-humanity-in-chains.json](./20040-attack-on-titan-humanity-in-chains.json) |
 | Attack on Titan: Lost in the Cruel World | 200586 | [200586-attack-on-titan-lost-in-the-cruel-world.json](./200586-attack-on-titan-lost-in-the-cruel-world.json) |
 | Attack on Titan: Wall Sina, Goodbye | 200587 | [200587-attack-on-titan-wall-sina-goodbye.json](./200587-attack-on-titan-wall-sina-goodbye.json) |
+| Attack on Toys | 141975 | [141975-attack-on-toys.json](./141975-attack-on-toys.json) |
 | Attack Only | 410224 | [410224-attack-only.json](./410224-attack-only.json) |
 | Attack Pla Rail | 123584 | [123584-attack-pla-rail.json](./123584-attack-pla-rail.json) |
 | Attack Retrieve Capture | 221647 | [221647-attack-retrieve-capture.json](./221647-attack-retrieve-capture.json) |
