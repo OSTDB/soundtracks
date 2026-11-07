@@ -3103,6 +3103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AD Blocker: An Action Puzzle Game | 357970 | [357970-ad-blocker-an-action-puzzle-game.json](./357970-ad-blocker-an-action-puzzle-game.json) |
 | Ad Exitum | 33466 | [33466-ad-exitum.json](./33466-ad-exitum.json) |
 | Ad Fundum | 273626 | [273626-ad-fundum.json](./273626-ad-fundum.json) |
+| Ad Infernum | 170639 | [170639-ad-infernum.json](./170639-ad-infernum.json) |
 | Ad Infinitum | 178733 | [178733-ad-infinitum.json](./178733-ad-infinitum.json) |
 | Ad Infinitum | 47222 | [47222-ad-infinitum.json](./47222-ad-infinitum.json) |
 | Ad Infinitum: Supporter Edition | 336136 | [336136-ad-infinitum-supporter-edition.json](./336136-ad-infinitum-supporter-edition.json) |
@@ -8034,6 +8035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ALTF4 | 143759 | [143759-altf4.json](./143759-altf4.json) |
 | Altf42 | 226217 | [226217-altf42.json](./226217-altf42.json) |
 | Altheia: The Wrath of Aferi | 151818 | [151818-altheia-the-wrath-of-aferi.json](./151818-altheia-the-wrath-of-aferi.json) |
+| Altidudes | 170630 | [170630-altidudes.json](./170630-altidudes.json) |
 | Altitude | 2357 | [2357-altitude.json](./2357-altitude.json) |
 | Altitude | 259358 | [259358-altitude.json](./259358-altitude.json) |
 | Altitude Adjustment | 279077 | [279077-altitude-adjustment.json](./279077-altitude-adjustment.json) |
@@ -9507,6 +9509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andromeda Acolytes | 211400 | [211400-andromeda-acolytes.json](./211400-andromeda-acolytes.json) |
 | Andromeda Mission | 15571 | [15571-andromeda-mission.json](./15571-andromeda-mission.json) |
 | Andromeda One | 292695 | [292695-andromeda-one.json](./292695-andromeda-one.json) |
+| Andromeda One Zombies | 170634 | [170634-andromeda-one-zombies.json](./170634-andromeda-one-zombies.json) |
 | Andromeda Overdrive | 265420 | [265420-andromeda-overdrive.json](./265420-andromeda-overdrive.json) |
 | Andromeda Six | 126277 | [126277-andromeda-six.json](./126277-andromeda-six.json) |
 | Andromeda Six: Tea Time with Oppo | 181615 | [181615-andromeda-six-tea-time-with-oppo.json](./181615-andromeda-six-tea-time-with-oppo.json) |
@@ -11829,6 +11832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apparition: Player vs. Players | 376821 | [376821-apparition-player-vs-players.json](./376821-apparition-player-vs-players.json) |
 | Apparitions | 202537 | [202537-apparitions.json](./202537-apparitions.json) |
 | Appearances | 244774 | [244774-appearances.json](./244774-appearances.json) |
+| Appease the Spider | 170667 | [170667-appease-the-spider.json](./170667-appease-the-spider.json) |
 | Appeeling Personality | 346103 | [346103-appeeling-personality.json](./346103-appeeling-personality.json) |
 | Appel | 381201 | [381201-appel.json](./381201-appel.json) |
 | Apperception | 81733 | [81733-apperception.json](./81733-apperception.json) |
@@ -13257,6 +13261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archibald 2 | 116985 | [116985-archibald-2.json](./116985-archibald-2.json) |
 | Archibald Applebrook's Abenteuer | 112058 | [112058-archibald-applebrooks-abenteuer.json](./112058-archibald-applebrooks-abenteuer.json) |
 | Archibald's Adventures | 33046 | [33046-archibalds-adventures.json](./33046-archibalds-adventures.json) |
+| Archie | 170640 | [170640-archie.json](./170640-archie.json) |
 | Archie: Riverdale Rescue | 186060 | [186060-archie-riverdale-rescue.json](./186060-archie-riverdale-rescue.json) |
 | Archie's Ribs | 288808 | [288808-archies-ribs.json](./288808-archies-ribs.json) |
 | Archimedean Dynasty | 2197 | [2197-archimedean-dynasty.json](./2197-archimedean-dynasty.json) |
