@@ -866,6 +866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Ball Saga | 96984 | [96984-dancing-ball-saga.json](./96984-dancing-ball-saga.json) |
 | Dancing Balls-Rolling Ahead Go | 86776 | [86776-dancing-balls-rolling-ahead-go.json](./86776-dancing-balls-rolling-ahead-go.json) |
 | Dancing Ballz: Magic Dance Line Tiles Game | 105993 | [105993-dancing-ballz-magic-dance-line-tiles-game.json](./105993-dancing-ballz-magic-dance-line-tiles-game.json) |
+| Dancing Beats | 181980 | [181980-dancing-beats.json](./181980-dancing-beats.json) |
 | Dancing Blade Katteni Momotenshi II: Tears of Eden | 64858 | [64858-dancing-blade-katteni-momotenshi-ii-tears-of-eden.json](./64858-dancing-blade-katteni-momotenshi-ii-tears-of-eden.json) |
 | Dancing Blade Katteni Momotenshi! | 64856 | [64856-dancing-blade-katteni-momotenshi.json](./64856-dancing-blade-katteni-momotenshi.json) |
 | Dancing Block | 267510 | [267510-dancing-block.json](./267510-dancing-block.json) |
@@ -2824,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of the Robot Empire | 33271 | [33271-dawn-of-the-robot-empire.json](./33271-dawn-of-the-robot-empire.json) |
 | Dawn of the Saviours | 50813 | [50813-dawn-of-the-saviours.json](./50813-dawn-of-the-saviours.json) |
 | Dawn of the Tiberium Age | 322388 | [322388-dawn-of-the-tiberium-age.json](./322388-dawn-of-the-tiberium-age.json) |
+| Dawn of the Undead | 182016 | [182016-dawn-of-the-undead.json](./182016-dawn-of-the-undead.json) |
 | Dawn of the Universe | 395171 | [395171-dawn-of-the-universe.json](./395171-dawn-of-the-universe.json) |
 | Dawn of the Wizards | 266275 | [266275-dawn-of-the-wizards.json](./266275-dawn-of-the-wizards.json) |
 | Dawn of Titans | 26980 | [26980-dawn-of-titans.json](./26980-dawn-of-titans.json) |
@@ -5766,6 +5768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense X | 366130 | [366130-defense-x.json](./366130-defense-x.json) |
 | Defense Zone | 17611 | [17611-defense-zone.json](./17611-defense-zone.json) |
 | Defense Zone 2 | 17303 | [17303-defense-zone-2.json](./17303-defense-zone-2.json) |
+| Defense Zone 3 | 181979 | [181979-defense-zone-3.json](./181979-defense-zone-3.json) |
 | Defense Zone 3 Ultra HD | 36205 | [36205-defense-zone-3-ultra-hd.json](./36205-defense-zone-3-ultra-hd.json) |
 | Defense: Abominations | 105658 | [105658-defense-abominations.json](./105658-defense-abominations.json) |
 | DefenseCraft | 261758 | [261758-defensecraft.json](./261758-defensecraft.json) |
@@ -14238,6 +14241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Panda & Toto's Treehouse | 61050 | [61050-dr-panda-and-totos-treehouse.json](./61050-dr-panda-and-totos-treehouse.json) |
 | Dr. Panda Restaurant 2 | 344927 | [344927-dr-panda-restaurant-2.json](./344927-dr-panda-restaurant-2.json) |
 | Dr. Panda Restaurant 3 | 95819 | [95819-dr-panda-restaurant-3.json](./95819-dr-panda-restaurant-3.json) |
+| Dr. Panda School | 181978 | [181978-dr-panda-school.json](./181978-dr-panda-school.json) |
 | Dr. Panda's Restaurant | 87345 | [87345-dr-pandas-restaurant.json](./87345-dr-pandas-restaurant.json) |
 | Dr. Panic | 202125 | [202125-dr-panic.json](./202125-dr-panic.json) |
 | Dr. Paolo no Totteoki Video | 307968 | [307968-dr-paolo-no-totteoki-video.json](./307968-dr-paolo-no-totteoki-video.json) |
