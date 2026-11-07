@@ -1873,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Battle Arena Combat | 395212 | [395212-tank-battle-arena-combat.json](./395212-tank-battle-arena-combat.json) |
 | Tank Battle Heroes: Iron Warfare | 120430 | [120430-tank-battle-heroes-iron-warfare.json](./120430-tank-battle-heroes-iron-warfare.json) |
 | Tank Battle Resist | 266017 | [266017-tank-battle-resist.json](./266017-tank-battle-resist.json) |
+| Tank Battle Retro | 148094 | [148094-tank-battle-retro.json](./148094-tank-battle-retro.json) |
 | Tank Battle Royale | 169718 | [169718-tank-battle-royale.json](./169718-tank-battle-royale.json) |
 | Tank Battle: 1944 | 34600 | [34600-tank-battle-1944.json](./34600-tank-battle-1944.json) |
 | Tank Battle: 1945 | 31044 | [31044-tank-battle-1945.json](./31044-tank-battle-1945.json) |
@@ -8319,6 +8320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Demon Lord is New in Town! | 159736 | [159736-the-demon-lord-is-new-in-town.json](./159736-the-demon-lord-is-new-in-town.json) |
 | The Demon Lord’s Daughter and the Tower of Seals | 329366 | [329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json](./329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json) |
 | The Demon Queen's Dire Dilemma | 347449 | [347449-the-demon-queens-dire-dilemma.json](./347449-the-demon-queens-dire-dilemma.json) |
+| The Demon Rush: Legends Corrupt | 148064 | [148064-the-demon-rush-legends-corrupt.json](./148064-the-demon-rush-legends-corrupt.json) |
 | The Demon Within Me | 221194 | [221194-the-demon-within-me.json](./221194-the-demon-within-me.json) |
 | The Demon's Apple: Otome Game | 374389 | [374389-the-demons-apple-otome-game.json](./374389-the-demons-apple-otome-game.json) |
 | The Demon's Exorcism | 296472 | [296472-the-demons-exorcism.json](./296472-the-demons-exorcism.json) |
@@ -15419,6 +15421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pyro Guy | 394352 | [394352-the-pyro-guy.json](./394352-the-pyro-guy.json) |
 | The Q - Live Trivia Network | 105863 | [105863-the-q-live-trivia-network.json](./105863-the-q-live-trivia-network.json) |
 | The Qaedon Wars - The Story Begins | 110829 | [110829-the-qaedon-wars-the-story-begins.json](./110829-the-qaedon-wars-the-story-begins.json) |
+| The Qin Empire | 148081 | [148081-the-qin-empire.json](./148081-the-qin-empire.json) |
 | The Qin Empire | 224895 | [224895-the-qin-empire.json](./224895-the-qin-empire.json) |
 | The Qixia Diary | 391102 | [391102-the-qixia-diary.json](./391102-the-qixia-diary.json) |
 | The Quaddle Family Mysteries 1: The Case of the Scarce Scarab - Lobby / Kitchen | 278214 | [278214-the-quaddle-family-mysteries-1-the-case-of-the-scarce-scarab-lobby-kitchen.json](./278214-the-quaddle-family-mysteries-1-the-case-of-the-scarce-scarab-lobby-kitchen.json) |
@@ -22841,6 +22844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Tank 59 I: Winter Assault MP099 | 189467 | [189467-tiger-tank-59-i-winter-assault-mp099.json](./189467-tiger-tank-59-i-winter-assault-mp099.json) |
 | Tiger Tank 59 I: Winter Assault MP100 | 173763 | [173763-tiger-tank-59-i-winter-assault-mp100.json](./173763-tiger-tank-59-i-winter-assault-mp100.json) |
 | Tiger Transforming Robot 2018 | 102783 | [102783-tiger-transforming-robot-2018.json](./102783-tiger-transforming-robot-2018.json) |
+| Tiger Trio's Tasty Travels | 148098 | [148098-tiger-trios-tasty-travels.json](./148098-tiger-trios-tasty-travels.json) |
 | Tiger Trouble | 66973 | [66973-tiger-trouble.json](./66973-tiger-trouble.json) |
 | Tiger Woods PGA Tour | 248495 | [248495-tiger-woods-pga-tour.json](./248495-tiger-woods-pga-tour.json) |
 | Tiger Woods PGA Tour | 288021 | [288021-tiger-woods-pga-tour.json](./288021-tiger-woods-pga-tour.json) |
@@ -27579,6 +27583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towerbloom | 275976 | [275976-towerbloom.json](./275976-towerbloom.json) |
 | Towerbolt | 265269 | [265269-towerbolt.json](./265269-towerbolt.json) |
 | Towerborne | 252839 | [252839-towerborne.json](./252839-towerborne.json) |
+| Towerbots | 148172 | [148172-towerbots.json](./148172-towerbots.json) |
 | TowerClimb | 34609 | [34609-towerclimb.json](./34609-towerclimb.json) |
 | Towercore: Survivors | 272898 | [272898-towercore-survivors.json](./272898-towercore-survivors.json) |
 | TowerDefenceDesigner | 296648 | [296648-towerdefencedesigner.json](./296648-towerdefencedesigner.json) |
