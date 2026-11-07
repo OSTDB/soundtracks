@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: The Masquerade - Swansong Victoria Ash | 225611 | [225611-vampire-the-masquerade-swansong-victoria-ash.json](./225611-vampire-the-masquerade-swansong-victoria-ash.json) |
 | Vampire: The Masquerade - Swansong: Primogen Edition | 196806 | [196806-vampire-the-masquerade-swansong-primogen-edition.json](./196806-vampire-the-masquerade-swansong-primogen-edition.json) |
 | Vampire: The Regicide | 297565 | [297565-vampire-the-regicide.json](./297565-vampire-the-regicide.json) |
+| Vampire: Who Killed Me? | 184686 | [184686-vampire-who-killed-me.json](./184686-vampire-who-killed-me.json) |
 | Vampire! At the Masquerade | 301919 | [301919-vampire-at-the-masquerade.json](./301919-vampire-at-the-masquerade.json) |
 | Vampire's Castle Adventure | 73314 | [73314-vampires-castle-adventure.json](./73314-vampires-castle-adventure.json) |
 | Vampire's Empire | 53924 | [53924-vampires-empire.json](./53924-vampires-empire.json) |
@@ -4293,6 +4294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vupechat | 340125 | [340125-vupechat.json](./340125-vupechat.json) |
 | Vuzzl - Create Animated Jigsaw Puzzles | 95527 | [95527-vuzzl-create-animated-jigsaw-puzzles.json](./95527-vuzzl-create-animated-jigsaw-puzzles.json) |
 | Vvintercore | 398119 | [398119-vvintercore.json](./398119-vvintercore.json) |
+| Vvlw | 184664 | [184664-vvlw.json](./184664-vvlw.json) |
 | VVVV | 225771 | [225771-vvvv.json](./225771-vvvv.json) |
 | VVVVK: Rogue Vampire Hunter | 209017 | [209017-vvvvk-rogue-vampire-hunter.json](./209017-vvvvk-rogue-vampire-hunter.json) |
 | VVVVV | 128234 | [128234-vvvvv.json](./128234-vvvvv.json) |
