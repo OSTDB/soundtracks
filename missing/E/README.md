@@ -1063,6 +1063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eco Inc. | 327656 | [327656-eco-inc.json](./327656-eco-inc.json) |
 | Eco Mahjong | 177049 | [177049-eco-mahjong.json](./177049-eco-mahjong.json) |
 | Eco Match | 25435 | [25435-eco-match.json](./25435-eco-match.json) |
+| ECO New World | 144506 | [144506-eco-new-world.json](./144506-eco-new-world.json) |
 | Eco Of The Wild Online | 287192 | [287192-eco-of-the-wild-online.json](./287192-eco-of-the-wild-online.json) |
 | Eco Park | 188891 | [188891-eco-park.json](./188891-eco-park.json) |
 | Eco Phantoms | 71924 | [71924-eco-phantoms.json](./71924-eco-phantoms.json) |
