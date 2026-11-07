@@ -3672,6 +3672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uzepede | 311335 | [311335-uzepede.json](./311335-uzepede.json) |
 | Uzesweeper | 270429 | [270429-uzesweeper.json](./270429-uzesweeper.json) |
 | UzeWars | 309139 | [309139-uzewars.json](./309139-uzewars.json) |
+| Uzg | 177643 | [177643-uzg.json](./177643-uzg.json) |
 | UZG | 377297 | [377297-uzg.json](./377297-uzg.json) |
 | Uzi's Drugged Adventures | 133808 | [133808-uzis-drugged-adventures.json](./133808-uzis-drugged-adventures.json) |
 | Uzi's Drugged Adventures: Undead Memories | 133819 | [133819-uzis-drugged-adventures-undead-memories.json](./133819-uzis-drugged-adventures-undead-memories.json) |
