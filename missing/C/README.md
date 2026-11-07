@@ -7427,6 +7427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chiko-chan no Noukatsu Kenkyuujo | 251520 | [251520-chiko-chan-no-noukatsu-kenkyuujo.json](./251520-chiko-chan-no-noukatsu-kenkyuujo.json) |
 | Chikoku no Mokushiroku | 150555 | [150555-chikoku-no-mokushiroku.json](./150555-chikoku-no-mokushiroku.json) |
 | Chikoku no Mokushiroku: Ver.2.00 | 302957 | [302957-chikoku-no-mokushiroku-ver-2-00.json](./302957-chikoku-no-mokushiroku-ver-2-00.json) |
+| ChikPack | 148078 | [148078-chikpack.json](./148078-chikpack.json) |
 | Chiku Chiku Beach | 22462 | [22462-chiku-chiku-beach.json](./22462-chiku-chiku-beach.json) |
 | Chiku1GP | 319522 | [319522-chiku1gp.json](./319522-chiku1gp.json) |
 | Chikudenya Toubee | 42039 | [42039-chikudenya-toubee.json](./42039-chikudenya-toubee.json) |
@@ -13756,6 +13757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connected Hearts: The Musketeers Saga - DLC | 239149 | [239149-connected-hearts-the-musketeers-saga-dlc.json](./239149-connected-hearts-the-musketeers-saga-dlc.json) |
 | Connected through fate | 219227 | [219227-connected-through-fate.json](./219227-connected-through-fate.json) |
 | Connected Towers | 149864 | [149864-connected-towers.json](./149864-connected-towers.json) |
+| Connected! | 148112 | [148112-connected.json](./148112-connected.json) |
 | Connected! 2 | 259728 | [259728-connected-2.json](./259728-connected-2.json) |
 | Connectify | 190196 | [190196-connectify.json](./190196-connectify.json) |
 | Connecting 4's Game | 96933 | [96933-connecting-4s-game.json](./96933-connecting-4s-game.json) |
@@ -14569,6 +14571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Simulator VR | 148926 | [148926-cooking-simulator-vr.json](./148926-cooking-simulator-vr.json) |
 | Cooking Simulator: Cakes and Cookies | 129196 | [129196-cooking-simulator-cakes-and-cookies.json](./129196-cooking-simulator-cakes-and-cookies.json) |
 | Cooking Simulator: Cooking with Food Network | 168934 | [168934-cooking-simulator-cooking-with-food-network.json](./168934-cooking-simulator-cooking-with-food-network.json) |
+| Cooking Simulator: Pizza | 148101 | [148101-cooking-simulator-pizza.json](./148101-cooking-simulator-pizza.json) |
 | Cooking Simulator: Pizza | 299378 | [299378-cooking-simulator-pizza.json](./299378-cooking-simulator-pizza.json) |
 | Cooking Simulator: Shelter | 168935 | [168935-cooking-simulator-shelter.json](./168935-cooking-simulator-shelter.json) |
 | Cooking Simulator: Sushi | 273371 | [273371-cooking-simulator-sushi.json](./273371-cooking-simulator-sushi.json) |
