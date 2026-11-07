@@ -2724,6 +2724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RE.CO.N. | 146353 | [146353-re-co-n.json](./146353-re-co-n.json) |
 | Re.dive Wonderland | 369110 | [369110-re-dive-wonderland.json](./369110-re-dive-wonderland.json) |
 | Re.Poly | 120675 | [120675-re-poly.json](./120675-re-poly.json) |
+| Re.Surs | 159959 | [159959-re-surs.json](./159959-re-surs.json) |
 | Re.wired | 270937 | [270937-re-wired.json](./270937-re-wired.json) |
 | Re[Map] | 117999 | [117999-re-map.json](./117999-re-map.json) |
 | Re/terra | 259049 | [259049-re-terra.json](./259049-re-terra.json) |
@@ -3709,6 +3710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recycle Factory Simulator | 326378 | [326378-recycle-factory-simulator.json](./326378-recycle-factory-simulator.json) |
 | Recycle it! | 296273 | [296273-recycle-it.json](./296273-recycle-it.json) |
 | Recycle Master | 300851 | [300851-recycle-master.json](./300851-recycle-master.json) |
+| Recycle My World | 159985 | [159985-recycle-my-world.json](./159985-recycle-my-world.json) |
 | Recycle Rivals | 425610 | [425610-recycle-rivals.json](./425610-recycle-rivals.json) |
 | Recycle Shop Eco | 415993 | [415993-recycle-shop-eco.json](./415993-recycle-shop-eco.json) |
 | Recycler's Terminal | 116327 | [116327-recyclers-terminal.json](./116327-recyclers-terminal.json) |
@@ -5495,6 +5497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Team: Attack of the Atom | 340700 | [340700-rescue-team-attack-of-the-atom.json](./340700-rescue-team-attack-of-the-atom.json) |
 | Rescue Team: Attack of the Atom - Collector's Edition | 337626 | [337626-rescue-team-attack-of-the-atom-collectors-edition.json](./337626-rescue-team-attack-of-the-atom-collectors-edition.json) |
 | Rescue Team: Clouded Mind | 311217 | [311217-rescue-team-clouded-mind.json](./311217-rescue-team-clouded-mind.json) |
+| Rescue Team: Danger from Outer Space! | 159987 | [159987-rescue-team-danger-from-outer-space.json](./159987-rescue-team-danger-from-outer-space.json) |
 | Rescue Team: Evil Genius | 122409 | [122409-rescue-team-evil-genius.json](./122409-rescue-team-evil-genius.json) |
 | Rescue Team: Evil Genius - Collector's Edition | 326566 | [326566-rescue-team-evil-genius-collectors-edition.json](./326566-rescue-team-evil-genius-collectors-edition.json) |
 | Rescue Team: Heist of the Century | 195206 | [195206-rescue-team-heist-of-the-century.json](./195206-rescue-team-heist-of-the-century.json) |
