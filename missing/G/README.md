@@ -4797,6 +4797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gladiator: Sword of Vengeance | 5846 | [5846-gladiator-sword-of-vengeance.json](./5846-gladiator-sword-of-vengeance.json) |
 | Gladiator's Arena | 236530 | [236530-gladiators-arena.json](./236530-gladiators-arena.json) |
 | Gladiator's Arena | 323104 | [323104-gladiators-arena.json](./323104-gladiators-arena.json) |
+| Gladiator's Glory: Salvation | 170651 | [170651-gladiators-glory-salvation.json](./170651-gladiators-glory-salvation.json) |
 | Gladiatori | 188893 | [188893-gladiatori.json](./188893-gladiatori.json) |
 | Gladiatorial Conquest: Battle Arena of Legends | 283266 | [283266-gladiatorial-conquest-battle-arena-of-legends.json](./283266-gladiatorial-conquest-battle-arena-of-legends.json) |
 | Gladiators and Glory | 226567 | [226567-gladiators-and-glory.json](./226567-gladiators-and-glory.json) |
