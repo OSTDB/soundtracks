@@ -7843,6 +7843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphadia 2 | 38964 | [38964-alphadia-2.json](./38964-alphadia-2.json) |
 | Alphadia F | 423385 | [423385-alphadia-f.json](./423385-alphadia-f.json) |
 | Alphadia Genesis | 17849 | [17849-alphadia-genesis.json](./17849-alphadia-genesis.json) |
+| Alphadia Genesis 1 & 2 | 181983 | [181983-alphadia-genesis-1-and-2.json](./181983-alphadia-genesis-1-and-2.json) |
 | Alphadia III | 365177 | [365177-alphadia-iii.json](./365177-alphadia-iii.json) |
 | Alphadia Neo | 216120 | [216120-alphadia-neo.json](./216120-alphadia-neo.json) |
 | AlphaFurry | 347205 | [347205-alphafurry.json](./347205-alphafurry.json) |
@@ -15791,6 +15792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids Maneuvers | 149946 | [149946-asteroids-maneuvers.json](./149946-asteroids-maneuvers.json) |
 | Asteroids Millennium | 51716 | [51716-asteroids-millennium.json](./51716-asteroids-millennium.json) |
 | Asteroids Mining Saga | 238974 | [238974-asteroids-mining-saga.json](./238974-asteroids-mining-saga.json) |
+| Asteroids Origin | 181982 | [181982-asteroids-origin.json](./181982-asteroids-origin.json) |
 | Asteroids Recharged: Pro Arcade Edition | 350549 | [350549-asteroids-recharged-pro-arcade-edition.json](./350549-asteroids-recharged-pro-arcade-edition.json) |
 | Asteroids RX | 178987 | [178987-asteroids-rx.json](./178987-asteroids-rx.json) |
 | Asteroids Space Shooter | 178631 | [178631-asteroids-space-shooter.json](./178631-asteroids-space-shooter.json) |
@@ -16725,6 +16727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
