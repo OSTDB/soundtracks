@@ -5555,6 +5555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nisukka Racing Simulation | 336294 | [336294-nisukka-racing-simulation.json](./336294-nisukka-racing-simulation.json) |
 | Nisus Missile Master | 70316 | [70316-nisus-missile-master.json](./70316-nisus-missile-master.json) |
 | NITE Team 4 | 27675 | [27675-nite-team-4.json](./27675-nite-team-4.json) |
+| NITE Team 4: Operation Withering Dusk | 171171 | [171171-nite-team-4-operation-withering-dusk.json](./171171-nite-team-4-operation-withering-dusk.json) |
 | Nitebear on Sleepystreet | 304198 | [304198-nitebear-on-sleepystreet.json](./304198-nitebear-on-sleepystreet.json) |
 | Niteline | 304722 | [304722-niteline.json](./304722-niteline.json) |
 | Nitemare | 276393 | [276393-nitemare.json](./276393-nitemare.json) |
