@@ -2230,7 +2230,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aby Escape Deluxe | 38685 | [38685-aby-escape-deluxe.json](./38685-aby-escape-deluxe.json) |
 | Aby's Playground | 237775 | [237775-abys-playground.json](./237775-abys-playground.json) |
 | ABYA: Paint Ball | 312664 | [312664-abya-paint-ball.json](./312664-abya-paint-ball.json) |
+| Abysm 2: Infernal Contract | 141322 | [141322-abysm-2-infernal-contract.json](./141322-abysm-2-infernal-contract.json) |
 | Abysm 2: Spirit Falcon | 201230 | [201230-abysm-2-spirit-falcon.json](./201230-abysm-2-spirit-falcon.json) |
+| Abysm: Dawn of Innocence | 141321 | [141321-abysm-dawn-of-innocence.json](./141321-abysm-dawn-of-innocence.json) |
 | Abysmal Gateway | 312661 | [312661-abysmal-gateway.json](./312661-abysmal-gateway.json) |
 | Abyss | 12288 | [12288-abyss.json](./12288-abyss.json) |
 | Abyss | 131223 | [131223-abyss.json](./131223-abyss.json) |
@@ -2519,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accident Liquidator | 312668 | [312668-accident-liquidator.json](./312668-accident-liquidator.json) |
 | Accident on the Simple Rd | 150460 | [150460-accident-on-the-simple-rd.json](./150460-accident-on-the-simple-rd.json) |
 | Accidental Character Generator | 135785 | [135785-accidental-character-generator.json](./135785-accidental-character-generator.json) |
+| Accidental Queens Collection | 141350 | [141350-accidental-queens-collection.json](./141350-accidental-queens-collection.json) |
 | Accidental Runner | 35449 | [35449-accidental-runner.json](./35449-accidental-runner.json) |
 | Accidentally | 379460 | [379460-accidentally.json](./379460-accidentally.json) |
 | Acción Rescate | 259663 | [259663-accion-rescate.json](./259663-accion-rescate.json) |
@@ -2882,6 +2885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acquitted | 199735 | [199735-acquitted.json](./199735-acquitted.json) |
 | Acras | 211392 | [211392-acras.json](./211392-acras.json) |
 | Acre Crisis | 301594 | [301594-acre-crisis.json](./301594-acre-crisis.json) |
+| Acre Shore | 141383 | [141383-acre-shore.json](./141383-acre-shore.json) |
 | Acre: Last Stand | 381299 | [381299-acre-last-stand.json](./381299-acre-last-stand.json) |
 | Acres | 258464 | [258464-acres.json](./258464-acres.json) |
 | Acretia: Guardians of Lian | 219699 | [219699-acretia-guardians-of-lian.json](./219699-acretia-guardians-of-lian.json) |
@@ -4420,6 +4424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After the Suns | 119533 | [119533-after-the-suns.json](./119533-after-the-suns.json) |
 | After the Turn | 249823 | [249823-after-the-turn.json](./249823-after-the-turn.json) |
 | After the Wane | 387356 | [387356-after-the-wane.json](./387356-after-the-wane.json) |
+| After the War | 141376 | [141376-after-the-war.json](./141376-after-the-war.json) |
 | After the War | 5713 | [5713-after-the-war.json](./5713-after-the-war.json) |
 | After Thought | 238121 | [238121-after-thought.json](./238121-after-thought.json) |
 | After University | 263980 | [263980-after-university.json](./263980-after-university.json) |
@@ -8004,6 +8009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altars of Madness | 258891 | [258891-altars-of-madness.json](./258891-altars-of-madness.json) |
 | Altcode | 304115 | [304115-altcode.json](./304115-altcode.json) |
 | AltCoin | 334769 | [334769-altcoin.json](./334769-altcoin.json) |
+| Altdeus: Beyond Chronos | 141359 | [141359-altdeus-beyond-chronos.json](./141359-altdeus-beyond-chronos.json) |
 | Altdeus: Beyond Chronos - Episode Yamato | 196096 | [196096-altdeus-beyond-chronos-episode-yamato.json](./196096-altdeus-beyond-chronos-episode-yamato.json) |
 | Altdeus: Beyond Chronos - Limited Edition | 166229 | [166229-altdeus-beyond-chronos-limited-edition.json](./166229-altdeus-beyond-chronos-limited-edition.json) |
 | Alteil: Horizons | 27736 | [27736-alteil-horizons.json](./27736-alteil-horizons.json) |
