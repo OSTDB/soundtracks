@@ -7915,7 +7915,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exotic Traffic Racer: FastLane | 256738 | [256738-exotic-traffic-racer-fastlane.json](./256738-exotic-traffic-racer-fastlane.json) |
 | Exotica 2: Pet Shop Simulator | 285680 | [285680-exotica-2-pet-shop-simulator.json](./285680-exotica-2-pet-shop-simulator.json) |
 | Exotica: Petshop Simulator | 215795 | [215795-exotica-petshop-simulator.json](./215795-exotica-petshop-simulator.json) |
+| Exotium: Episode 1 | 164646 | [164646-exotium-episode-1.json](./164646-exotium-episode-1.json) |
+| Exotium: Episode 10 | 164644 | [164644-exotium-episode-10.json](./164644-exotium-episode-10.json) |
+| Exotium: Episode 11 | 164643 | [164643-exotium-episode-11.json](./164643-exotium-episode-11.json) |
+| Exotium: Episode 2 | 164641 | [164641-exotium-episode-2.json](./164641-exotium-episode-2.json) |
+| Exotium: Episode 3 | 164642 | [164642-exotium-episode-3.json](./164642-exotium-episode-3.json) |
+| Exotium: Episode 5 | 164640 | [164640-exotium-episode-5.json](./164640-exotium-episode-5.json) |
+| Exotium: Episode 6 | 164638 | [164638-exotium-episode-6.json](./164638-exotium-episode-6.json) |
+| Exotium: Episode 7 | 164639 | [164639-exotium-episode-7.json](./164639-exotium-episode-7.json) |
 | Exotium: Episode 8 | 148680 | [148680-exotium-episode-8.json](./148680-exotium-episode-8.json) |
+| Exotium: Episode 9 | 164645 | [164645-exotium-episode-9.json](./164645-exotium-episode-9.json) |
 | ExoTrain | 391157 | [391157-exotrain.json](./391157-exotrain.json) |
 | Exovia | 342824 | [342824-exovia.json](./342824-exovia.json) |
 | Exovoid | 292238 | [292238-exovoid.json](./292238-exovoid.json) |
