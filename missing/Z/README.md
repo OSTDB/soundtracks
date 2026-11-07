@@ -766,6 +766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zengoku Juudan Ultra Shinri Game | 37745 | [37745-zengoku-juudan-ultra-shinri-game.json](./37745-zengoku-juudan-ultra-shinri-game.json) |
 | Zengrams | 68948 | [68948-zengrams.json](./68948-zengrams.json) |
 | Zenite | 187720 | [187720-zenite.json](./187720-zenite.json) |
+| Zenith | 176041 | [176041-zenith.json](./176041-zenith.json) |
 | Zenith | 22437 | [22437-zenith.json](./22437-zenith.json) |
 | Zenith | 24439 | [24439-zenith.json](./24439-zenith.json) |
 | Zenith | 377137 | [377137-zenith.json](./377137-zenith.json) |
@@ -975,6 +976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Point Survivor | 371308 | [371308-zero-point-survivor.json](./371308-zero-point-survivor.json) |
 | Zero Protocol | 289338 | [289338-zero-protocol.json](./289338-zero-protocol.json) |
 | Zero Punctuation: Hatfall - Hatters Gonna Hat Edition | 34447 | [34447-zero-punctuation-hatfall-hatters-gonna-hat-edition.json](./34447-zero-punctuation-hatfall-hatters-gonna-hat-edition.json) |
+| Zero Racers | 176043 | [176043-zero-racers.json](./176043-zero-racers.json) |
 | Zero Reflex | 15494 | [15494-zero-reflex.json](./15494-zero-reflex.json) |
 | Zero Reflex: Black Eye Edition | 52107 | [52107-zero-reflex-black-eye-edition.json](./52107-zero-reflex-black-eye-edition.json) |
 | Zero Sievert 2 | 400088 | [400088-zero-sievert-2.json](./400088-zero-sievert-2.json) |
