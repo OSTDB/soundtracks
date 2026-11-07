@@ -1672,6 +1672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympic Summer Games | 299314 | [299314-olympic-summer-games.json](./299314-olympic-summer-games.json) |
 | Olympic Summer Games | 4493 | [4493-olympic-summer-games.json](./4493-olympic-summer-games.json) |
 | Olympic Summer Games: Atlanta '96 | 43735 | [43735-olympic-summer-games-atlanta-96.json](./43735-olympic-summer-games-atlanta-96.json) |
+| Olympic Table Tennis | 142530 | [142530-olympic-table-tennis.json](./142530-olympic-table-tennis.json) |
 | Olympic Trials | 71184 | [71184-olympic-trials.json](./71184-olympic-trials.json) |
 | Olympics Go! Paris 2024 | 305715 | [305715-olympics-go-paris-2024.json](./305715-olympics-go-paris-2024.json) |
 | Olympics VR | 75942 | [75942-olympics-vr.json](./75942-olympics-vr.json) |
@@ -5014,6 +5015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Ammo: Death Drive | 54823 | [54823-out-of-ammo-death-drive.json](./54823-out-of-ammo-death-drive.json) |
 | Out of Body | 243722 | [243722-out-of-body.json](./243722-out-of-body.json) |
 | Out of Body | 377171 | [377171-out-of-body.json](./377171-out-of-body.json) |
+| Out of Bounds | 142535 | [142535-out-of-bounds.json](./142535-out-of-bounds.json) |
 | Out of Bounds | 204817 | [204817-out-of-bounds.json](./204817-out-of-bounds.json) |
 | Out of Bounds | 357728 | [357728-out-of-bounds.json](./357728-out-of-bounds.json) |
 | Out of Brakes: Endless Racer | 232155 | [232155-out-of-brakes-endless-racer.json](./232155-out-of-brakes-endless-racer.json) |
