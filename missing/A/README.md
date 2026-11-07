@@ -1881,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abberbury | 111212 | [111212-abberbury.json](./111212-abberbury.json) |
 | Abbie's Farm | 147459 | [147459-abbies-farm.json](./147459-abbies-farm.json) |
 | Abbigale and the Monster | 51177 | [51177-abbigale-and-the-monster.json](./51177-abbigale-and-the-monster.json) |
+| Abble Dabble HD | 175478 | [175478-abble-dabble-hd.json](./175478-abble-dabble-hd.json) |
 | Abbot's Book | 92095 | [92095-abbots-book.json](./92095-abbots-book.json) |
 | Abby Héroes en apuros | 316790 | [316790-abby-heroes-en-apuros.json](./316790-abby-heroes-en-apuros.json) |
 | Abby Monkey Basic Skills Pre K | 88921 | [88921-abby-monkey-basic-skills-pre-k.json](./88921-abby-monkey-basic-skills-pre-k.json) |
@@ -5501,6 +5502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AIR Summer Solstice | 308416 | [308416-air-summer-solstice.json](./308416-air-summer-solstice.json) |
 | Air Supply | 14156 | [14156-air-supply.json](./14156-air-supply.json) |
 | Air Supply Infinite | 175583 | [175583-air-supply-infinite.json](./175583-air-supply-infinite.json) |
+| Air Supply: SOS (Save Our Sheep) | 175468 | [175468-air-supply-sos-save-our-sheep.json](./175468-air-supply-sos-save-our-sheep.json) |
 | Air Support | 14157 | [14157-air-support.json](./14157-air-support.json) |
 | Air Support! | 214311 | [214311-air-support.json](./214311-air-support.json) |
 | Air Supremacy | 12281 | [12281-air-supremacy.json](./12281-air-supremacy.json) |
@@ -9438,6 +9440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | And-Kensaku | 4953 | [4953-and-kensaku.json](./4953-and-kensaku.json) |
 | Anda | 266885 | [266885-anda.json](./266885-anda.json) |
 | Andalas: Realms of Eternal Lights | 330946 | [330946-andalas-realms-of-eternal-lights.json](./330946-andalas-realms-of-eternal-lights.json) |
+| Andalia | 175459 | [175459-andalia.json](./175459-andalia.json) |
 | Andalusian Roulette | 303789 | [303789-andalusian-roulette.json](./303789-andalusian-roulette.json) |
 | Andara: Rise for Rebellion | 255986 | [255986-andara-rise-for-rebellion.json](./255986-andara-rise-for-rebellion.json) |
 | Andarigas | 132767 | [132767-andarigas.json](./132767-andarigas.json) |
