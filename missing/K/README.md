@@ -5327,6 +5327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kong: Survivor Instinct - Titans Edition | 393449 | [393449-kong-survivor-instinct-titans-edition.json](./393449-kong-survivor-instinct-titans-edition.json) |
 | Kong: The 8th Wonder of the World | 49397 | [49397-kong-the-8th-wonder-of-the-world.json](./49397-kong-the-8th-wonder-of-the-world.json) |
 | Kong: The Animated Series | 49333 | [49333-kong-the-animated-series.json](./49333-kong-the-animated-series.json) |
+| Kong's Wrath: City of Mayhem | 168982 | [168982-kongs-wrath-city-of-mayhem.json](./168982-kongs-wrath-city-of-mayhem.json) |
 | Kongeer | 201006 | [201006-kongeer.json](./201006-kongeer.json) |
 | Kongfu | 246465 | [246465-kongfu.json](./246465-kongfu.json) |
 | Kongfu VR | 192249 | [192249-kongfu-vr.json](./192249-kongfu-vr.json) |
