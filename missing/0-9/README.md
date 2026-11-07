@@ -2193,6 +2193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3079: Block Action RPG | 11431 | [11431-3079-block-action-rpg.json](./11431-3079-block-action-rpg.json) |
 | 30km survival zone: Chernobyl | 131272 | [131272-30km-survival-zone-chernobyl.json](./131272-30km-survival-zone-chernobyl.json) |
 | 30minutes Night Flight | 263327 | [263327-30minutes-night-flight.json](./263327-30minutes-night-flight.json) |
+| 30s Quest Tile | 181476 | [181476-30s-quest-tile.json](./181476-30s-quest-tile.json) |
 | 30th Anniversary of Pac-Man | 133878 | [133878-30th-anniversary-of-pac-man.json](./133878-30th-anniversary-of-pac-man.json) |
 | 30XX: Feline Fury | 318700 | [318700-30xx-feline-fury.json](./318700-30xx-feline-fury.json) |
 | 31 Full Games for Everyone | 415384 | [415384-31-full-games-for-everyone.json](./415384-31-full-games-for-everyone.json) |
