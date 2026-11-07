@@ -2337,6 +2337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zookeeper DX Touch Edition | 104109 | [104109-zookeeper-dx-touch-edition.json](./104109-zookeeper-dx-touch-edition.json) |
 | ZooKeeper Simulator | 127218 | [127218-zookeeper-simulator.json](./127218-zookeeper-simulator.json) |
 | Zookeeper World | 170542 | [170542-zookeeper-world.json](./170542-zookeeper-world.json) |
+| Zookeeper: Blast Quest | 186958 | [186958-zookeeper-blast-quest.json](./186958-zookeeper-blast-quest.json) |
 | Zookoban | 184365 | [184365-zookoban.json](./184365-zookoban.json) |
 | Zool | 242311 | [242311-zool.json](./242311-zool.json) |
 | Zool | 242313 | [242313-zool.json](./242313-zool.json) |
