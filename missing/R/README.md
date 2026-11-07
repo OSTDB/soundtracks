@@ -4939,6 +4939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remain At Your Desk | 401513 | [401513-remain-at-your-desk.json](./401513-remain-at-your-desk.json) |
 | Remain on Earth | 316135 | [316135-remain-on-earth.json](./316135-remain-on-earth.json) |
 | Remaining in a Dream | 30950 | [30950-remaining-in-a-dream.json](./30950-remaining-in-a-dream.json) |
+| Remains | 151910 | [151910-remains.json](./151910-remains.json) |
 | Remains of Morrow | 197447 | [197447-remains-of-morrow.json](./197447-remains-of-morrow.json) |
 | Remains of Yith | 340007 | [340007-remains-of-yith.json](./340007-remains-of-yith.json) |
 | Remains: Echoes of Strength | 391127 | [391127-remains-echoes-of-strength.json](./391127-remains-echoes-of-strength.json) |
