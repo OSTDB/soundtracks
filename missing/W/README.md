@@ -1243,6 +1243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warehouse Hunter | 212502 | [212502-warehouse-hunter.json](./212502-warehouse-hunter.json) |
 | Warehouse Inc. | 294116 | [294116-warehouse-inc.json](./294116-warehouse-inc.json) |
 | Warehouse Job | 353773 | [353773-warehouse-job.json](./353773-warehouse-job.json) |
+| Warehouse Juju | 180880 | [180880-warehouse-juju.json](./180880-warehouse-juju.json) |
 | Warehouse Keeper | 230710 | [230710-warehouse-keeper.json](./230710-warehouse-keeper.json) |
 | Warehouse Manager Simulator | 294296 | [294296-warehouse-manager-simulator.json](./294296-warehouse-manager-simulator.json) |
 | Warehouse Seduction | 279552 | [279552-warehouse-seduction.json](./279552-warehouse-seduction.json) |
