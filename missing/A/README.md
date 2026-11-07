@@ -4433,6 +4433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterlight: The Apartment | 414805 | [414805-afterlight-the-apartment.json](./414805-afterlight-the-apartment.json) |
 | Afterloop | 110262 | [110262-afterloop.json](./110262-afterloop.json) |
 | AfterLoop | 105427 | [105427-afterloop.json](./105427-afterloop.json) |
+| Afterlove EP | 185772 | [185772-afterlove-ep.json](./185772-afterlove-ep.json) |
 | AfterM.A.T.H. | 324276 | [324276-afterm-a-t-h.json](./324276-afterm-a-t-h.json) |
 | Aftermath | 183600 | [183600-aftermath.json](./183600-aftermath.json) |
 | Aftermath | 215776 | [215776-aftermath.json](./215776-aftermath.json) |
@@ -4556,6 +4557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agatha's Folly | 58866 | [58866-agathas-folly.json](./58866-agathas-folly.json) |
 | Age | 270014 | [270014-age.json](./270014-age.json) |
 | Age After Age | 379512 | [379512-age-after-age.json](./379512-age-after-age.json) |
+| Age Archives: 20th Box Edition | 185756 | [185756-age-archives-20th-box-edition.json](./185756-age-archives-20th-box-edition.json) |
 | Age Maniax: Isumi Yon Shimai Saigo no Hi | 305141 | [305141-age-maniax-isumi-yon-shimai-saigo-no-hi.json](./305141-age-maniax-isumi-yon-shimai-saigo-no-hi.json) |
 | Age of 2048 | 100988 | [100988-age-of-2048.json](./100988-age-of-2048.json) |
 | Age of 2048: World | 106373 | [106373-age-of-2048-world.json](./106373-age-of-2048-world.json) |
@@ -7153,6 +7155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aligned | 205115 | [205115-aligned.json](./205115-aligned.json) |
 | Alignment | 239101 | [239101-alignment.json](./239101-alignment.json) |
 | Alignment Zero | 397269 | [397269-alignment-zero.json](./397269-alignment-zero.json) |
+| Aliisha: The Oblivion of Twin Goddesses | 185770 | [185770-aliisha-the-oblivion-of-twin-goddesses.json](./185770-aliisha-the-oblivion-of-twin-goddesses.json) |
 | Alik: Gry i zabawy | 188569 | [188569-alik-gry-i-zabawy.json](./188569-alik-gry-i-zabawy.json) |
 | Alik: Juz Ide Do Szkoly | 188561 | [188561-alik-juz-ide-do-szkoly.json](./188561-alik-juz-ide-do-szkoly.json) |
 | Alilia | 116862 | [116862-alilia.json](./116862-alilia.json) |
