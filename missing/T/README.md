@@ -6296,6 +6296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Banshee | 231514 | [231514-the-banshee.json](./231514-the-banshee.json) |
 | The Bar | 119049 | [119049-the-bar.json](./119049-the-bar.json) |
 | The Bar | 256847 | [256847-the-bar.json](./256847-the-bar.json) |
+| The Bar Fight | 149143 | [149143-the-bar-fight.json](./149143-the-bar-fight.json) |
 | The Bar Souls | 370448 | [370448-the-bar-souls.json](./370448-the-bar-souls.json) |
 | The Barbarian | 200304 | [200304-the-barbarian.json](./200304-the-barbarian.json) |
 | The Barbarian and the Subterranean Caves | 32846 | [32846-the-barbarian-and-the-subterranean-caves.json](./32846-the-barbarian-and-the-subterranean-caves.json) |
@@ -8258,6 +8259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Death of the Video Star | 365182 | [365182-the-death-of-the-video-star.json](./365182-the-death-of-the-video-star.json) |
 | The Death of Zoe | 159841 | [159841-the-death-of-zoe.json](./159841-the-death-of-zoe.json) |
 | The Death Trap | 63756 | [63756-the-death-trap.json](./63756-the-death-trap.json) |
+| The Death Wizard's Tower | 149129 | [149129-the-death-wizards-tower.json](./149129-the-death-wizards-tower.json) |
 | The Deathmind | 353381 | [353381-the-deathmind.json](./353381-the-deathmind.json) |
 | The Debt Collector | 389830 | [389830-the-debt-collector.json](./389830-the-debt-collector.json) |
 | The Debug | 139269 | [139269-the-debug.json](./139269-the-debug.json) |
@@ -19442,6 +19444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Worm in Paradise | 36845 | [36845-the-worm-in-paradise.json](./36845-the-worm-in-paradise.json) |
 | The Worm Room | 139263 | [139263-the-worm-room.json](./139263-the-worm-room.json) |
 | The Worm's Memoirs | 324255 | [324255-the-worms-memoirs.json](./324255-the-worms-memoirs.json) |
+| The Wormaid | 149113 | [149113-the-wormaid.json](./149113-the-wormaid.json) |
 | The Worries of Santa Clauses | 324774 | [324774-the-worries-of-santa-clauses.json](./324774-the-worries-of-santa-clauses.json) |
 | The Worst Day Ever | 97191 | [97191-the-worst-day-ever.json](./97191-the-worst-day-ever.json) |
 | The Worst Game | 390555 | [390555-the-worst-game.json](./390555-the-worst-game.json) |
@@ -34157,6 +34160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyrfing Cycle \|Vanilla\| | 90587 | [90587-tyrfing-cycle-vanilla.json](./90587-tyrfing-cycle-vanilla.json) |
 | Tyrian 2000 | 14432 | [14432-tyrian-2000.json](./14432-tyrian-2000.json) |
 | Tyrian's Towers | 416657 | [416657-tyrians-towers.json](./416657-tyrians-towers.json) |
+| Tyrion Cuthbert: Attorney of the Arcane | 149149 | [149149-tyrion-cuthbert-attorney-of-the-arcane.json](./149149-tyrion-cuthbert-attorney-of-the-arcane.json) |
 | Tyrion Cuthbert: Beyond the Arcane | 418217 | [418217-tyrion-cuthbert-beyond-the-arcane.json](./418217-tyrion-cuthbert-beyond-the-arcane.json) |
 | Tyrium | 244701 | [244701-tyrium.json](./244701-tyrium.json) |
 | Tyro: Legend of Whisperwood | 345289 | [345289-tyro-legend-of-whisperwood.json](./345289-tyro-legend-of-whisperwood.json) |
