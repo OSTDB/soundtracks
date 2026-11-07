@@ -1919,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Game | 69315 | [69315-tank-game.json](./69315-tank-game.json) |
 | Tank Game | 82005 | [82005-tank-game.json](./82005-tank-game.json) |
 | Tank Golfing | 166275 | [166275-tank-golfing.json](./166275-tank-golfing.json) |
+| Tank Guards | 169541 | [169541-tank-guards.json](./169541-tank-guards.json) |
 | Tank Hangar Simulator | 193636 | [193636-tank-hangar-simulator.json](./193636-tank-hangar-simulator.json) |
 | Tank Hero: Awesome Tank War g | 231885 | [231885-tank-hero-awesome-tank-war-g.json](./231885-tank-hero-awesome-tank-war-g.json) |
 | Tank Hero: Laser Wars | 101491 | [101491-tank-hero-laser-wars.json](./101491-tank-hero-laser-wars.json) |
@@ -3179,6 +3180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tech-Panic | 279789 | [279789-tech-panic.json](./279789-tech-panic.json) |
 | Tech48 | 92628 | [92628-tech48.json](./92628-tech48.json) |
 | TechAssault | 426455 | [426455-techassault.json](./426455-techassault.json) |
+| TechBeat Heart | 169523 | [169523-techbeat-heart.json](./169523-techbeat-heart.json) |
 | Techblox | 144900 | [144900-techblox.json](./144900-techblox.json) |
 | Techbrawlogy: Into the RoboDome | 244032 | [244032-techbrawlogy-into-the-robodome.json](./244032-techbrawlogy-into-the-robodome.json) |
 | TechCompliant | 58448 | [58448-techcompliant.json](./58448-techcompliant.json) |
@@ -5329,6 +5331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thatcher's Techbase | 164080 | [164080-thatchers-techbase.json](./164080-thatchers-techbase.json) |
 | Thatcher's Techbase: Arcade Edition | 214821 | [214821-thatchers-techbase-arcade-edition.json](./214821-thatchers-techbase-arcade-edition.json) |
 | Thatre of Pain | 234474 | [234474-thatre-of-pain.json](./234474-thatre-of-pain.json) |
+| Thats Life of Ralph | 169520 | [169520-thats-life-of-ralph.json](./169520-thats-life-of-ralph.json) |
 | Thaumcraft | 232786 | [232786-thaumcraft.json](./232786-thaumcraft.json) |
 | Thaumistry: In Charm's Way | 27280 | [27280-thaumistry-in-charms-way.json](./27280-thaumistry-in-charms-way.json) |
 | ThaumOS | 184462 | [184462-thaumos.json](./184462-thaumos.json) |
@@ -12148,6 +12151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Hunt | 86613 | [86613-the-last-hunt.json](./86613-the-last-hunt.json) |
 | The Last Inca | 71771 | [71771-the-last-inca.json](./71771-the-last-inca.json) |
 | The Last Inquisition | 398375 | [398375-the-last-inquisition.json](./398375-the-last-inquisition.json) |
+| The Last Islands of Man | 169502 | [169502-the-last-islands-of-man.json](./169502-the-last-islands-of-man.json) |
 | The Last Jade Dragon | 234871 | [234871-the-last-jade-dragon.json](./234871-the-last-jade-dragon.json) |
 | The Last Janitor: Data Cleanup | 361680 | [361680-the-last-janitor-data-cleanup.json](./361680-the-last-janitor-data-cleanup.json) |
 | The Last Job | 236792 | [236792-the-last-job.json](./236792-the-last-job.json) |
@@ -26479,6 +26483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Big Big Battle: Character Pack 2.3 | 224359 | [224359-touhou-big-big-battle-character-pack-2-3.json](./224359-touhou-big-big-battle-character-pack-2-3.json) |
 | Touhou Big Big Battle: Character Pack 2.5 | 224358 | [224358-touhou-big-big-battle-character-pack-2-5.json](./224358-touhou-big-big-battle-character-pack-2-5.json) |
 | Touhou Big Big Battle: The Justice | 210216 | [210216-touhou-big-big-battle-the-justice.json](./210216-touhou-big-big-battle-the-justice.json) |
+| Touhou Block Fall: Yukari | 169554 | [169554-touhou-block-fall-yukari.json](./169554-touhou-block-fall-yukari.json) |
 | Touhou Blooming Chaos 2 | 153523 | [153523-touhou-blooming-chaos-2.json](./153523-touhou-blooming-chaos-2.json) |
 | Touhou Blooming Chaos 2: Chara Pack 1 | 170962 | [170962-touhou-blooming-chaos-2-chara-pack-1.json](./170962-touhou-blooming-chaos-2-chara-pack-1.json) |
 | Touhou Blooming Chaos 2: Chara Pack 2 | 170961 | [170961-touhou-blooming-chaos-2-chara-pack-2.json](./170961-touhou-blooming-chaos-2-chara-pack-2.json) |
