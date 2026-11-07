@@ -5574,6 +5574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Home Annie: An SCP Game | 211029 | [211029-go-home-annie-an-scp-game.json](./211029-go-home-annie-an-scp-game.json) |
 | Go Home Club | 336274 | [336274-go-home-club.json](./336274-go-home-club.json) |
 | Go Home Dinosaurs! | 16396 | [16396-go-home-dinosaurs.json](./16396-go-home-dinosaurs.json) |
+| Go home, go home? | 147545 | [147545-go-home-go-home.json](./147545-go-home-go-home.json) |
 | Go Home, Mr. Fisk! | 173215 | [173215-go-home-mr-fisk.json](./173215-go-home-mr-fisk.json) |
 | Go home, you're drunk! | 134345 | [134345-go-home-youre-drunk.json](./134345-go-home-youre-drunk.json) |
 | Go Kart Challenge | 140986 | [140986-go-kart-challenge.json](./140986-go-kart-challenge.json) |
