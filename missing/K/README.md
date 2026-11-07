@@ -1627,6 +1627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keg Wars | 104249 | [104249-keg-wars.json](./104249-keg-wars.json) |
 | Kegan | 373314 | [373314-kegan.json](./373314-kegan.json) |
 | Kegani Friends | 297581 | [297581-kegani-friends.json](./297581-kegani-friends.json) |
+| Kehra | 190281 | [190281-kehra.json](./190281-kehra.json) |
 | Keiba Eight Special | 37966 | [37966-keiba-eight-special.json](./37966-keiba-eight-special.json) |
 | Keiba Eight Special 2 | 37965 | [37965-keiba-eight-special-2.json](./37965-keiba-eight-special-2.json) |
 | Keiba Eito '98 Akyfuyu | 166531 | [166531-keiba-eito-98-akyfuyu.json](./166531-keiba-eito-98-akyfuyu.json) |
@@ -4475,6 +4476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight in the Maze | 276235 | [276235-knight-in-the-maze.json](./276235-knight-in-the-maze.json) |
 | Knight in Time | 356114 | [356114-knight-in-time.json](./356114-knight-in-time.json) |
 | Knight Island | 295898 | [295898-knight-island.json](./295898-knight-island.json) |
+| Knight Jones and Dragons Fall | 190297 | [190297-knight-jones-and-dragons-fall.json](./190297-knight-jones-and-dragons-fall.json) |
 | Knight Jump | 359169 | [359169-knight-jump.json](./359169-knight-jump.json) |
 | Knight King Assassin | 104843 | [104843-knight-king-assassin.json](./104843-knight-king-assassin.json) |
 | Knight Leon | 84206 | [84206-knight-leon.json](./84206-knight-leon.json) |
