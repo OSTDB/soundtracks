@@ -3498,6 +3498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Yin Sutra: Immortal | 415734 | [415734-9-yin-sutra-immortal.json](./415734-9-yin-sutra-immortal.json) |
 | 9-Bit Armies: A Bit Too Far | 273041 | [273041-9-bit-armies-a-bit-too-far.json](./273041-9-bit-armies-a-bit-too-far.json) |
 | 9-Bit Armies: Going Rogue! | 369442 | [369442-9-bit-armies-going-rogue.json](./369442-9-bit-armies-going-rogue.json) |
+| 9-gatsu no Yoru ni Tsume Shogi | 151874 | [151874-9-gatsu-no-yoru-ni-tsume-shogi.json](./151874-9-gatsu-no-yoru-ni-tsume-shogi.json) |
 | 9-nine-: Episode 1 | 114814 | [114814-9-nine-episode-1.json](./114814-9-nine-episode-1.json) |
 | 9-nine-: Episode 2 | 121587 | [121587-9-nine-episode-2.json](./121587-9-nine-episode-2.json) |
 | 9-nine-: Episode 3 | 143365 | [143365-9-nine-episode-3.json](./143365-9-nine-episode-3.json) |
