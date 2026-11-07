@@ -6245,6 +6245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Blood | 312895 | [312895-first-blood.json](./312895-first-blood.json) |
 | First Break | 293639 | [293639-first-break.json](./293639-first-break.json) |
 | First Christmas | 248907 | [248907-first-christmas.json](./248907-first-christmas.json) |
+| First Class Escape 2: Head in the Clouds | 191360 | [191360-first-class-escape-2-head-in-the-clouds.json](./191360-first-class-escape-2-head-in-the-clouds.json) |
 | First Class Flurry | 90372 | [90372-first-class-flurry.json](./90372-first-class-flurry.json) |
 | First Class Rescue | 407312 | [407312-first-class-rescue.json](./407312-first-class-rescue.json) |
 | First Class Solitaire | 366426 | [366426-first-class-solitaire.json](./366426-first-class-solitaire.json) |
@@ -13861,6 +13862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fushigi no Daibouken: Cirno Kenzan! 2 | 142894 | [142894-fushigi-no-daibouken-cirno-kenzan-2.json](./142894-fushigi-no-daibouken-cirno-kenzan-2.json) |
 | Fushigi no Daibouken: Cirno Kenzan! 2+1 | 214426 | [214426-fushigi-no-daibouken-cirno-kenzan-2-1.json](./214426-fushigi-no-daibouken-cirno-kenzan-2-1.json) |
 | Fushigi no Dungeon 2: Fuurai no Shiren | 103496 | [103496-fushigi-no-dungeon-2-fuurai-no-shiren.json](./103496-fushigi-no-dungeon-2-fuurai-no-shiren.json) |
+| Fushigi no Dungeon: Fuurai no Shiren - Tsukikage-mura no Kaibutsu | 191328 | [191328-fushigi-no-dungeon-fuurai-no-shiren-tsukikage-mura-no-kaibutsu.json](./191328-fushigi-no-dungeon-fuurai-no-shiren-tsukikage-mura-no-kaibutsu.json) |
 | Fushigi no Dungeon: Fuurai no Shiren 2 - Oni Shuurai! Shiren-jou! | 67376 | [67376-fushigi-no-dungeon-fuurai-no-shiren-2-oni-shuurai-shiren-jou.json](./67376-fushigi-no-dungeon-fuurai-no-shiren-2-oni-shuurai-shiren-jou.json) |
 | Fushigi no Dungeon: Fuurai no Shiren 3 Portable | 80618 | [80618-fushigi-no-dungeon-fuurai-no-shiren-3-portable.json](./80618-fushigi-no-dungeon-fuurai-no-shiren-3-portable.json) |
 | Fushigi no Dungeon: Fuurai no Shiren 4 Plus - Kami no Hitomi to Akuma no Heso | 103507 | [103507-fushigi-no-dungeon-fuurai-no-shiren-4-plus-kami-no-hitomi-to-akuma-no-heso.json](./103507-fushigi-no-dungeon-fuurai-no-shiren-4-plus-kami-no-hitomi-to-akuma-no-heso.json) |
