@@ -3350,6 +3350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geopoly | 235170 | [235170-geopoly.json](./235170-geopoly.json) |
 | GeoQuiz | 143015 | [143015-geoquiz.json](./143015-geoquiz.json) |
 | Georg Glaxo | 300554 | [300554-georg-glaxo.json](./300554-georg-glaxo.json) |
+| George | 178759 | [178759-george.json](./178759-george.json) |
 | George and the Printer | 179672 | [179672-george-and-the-printer.json](./179672-george-and-the-printer.json) |
 | George Foreman's KO Boxing | 275022 | [275022-george-foremans-ko-boxing.json](./275022-george-foremans-ko-boxing.json) |
 | George Foreman's KO Boxing | 275023 | [275023-george-foremans-ko-boxing.json](./275023-george-foremans-ko-boxing.json) |
@@ -3673,6 +3674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GFL Championship Football | 14896 | [14896-gfl-championship-football.json](./14896-gfl-championship-football.json) |
 | GFL Championshop Football II | 97473 | [97473-gfl-championshop-football-ii.json](./97473-gfl-championshop-football-ii.json) |
 | GFS Sorceress | 23324 | [23324-gfs-sorceress.json](./23324-gfs-sorceress.json) |
+| GFxF | 178720 | [178720-gfxf.json](./178720-gfxf.json) |
 | GG Aleste | 46317 | [46317-gg-aleste.json](./46317-gg-aleste.json) |
 | GG Aleste 3 | 144631 | [144631-gg-aleste-3.json](./144631-gg-aleste-3.json) |
 | GG Bundle 2015 | 25986 | [25986-gg-bundle-2015.json](./25986-gg-bundle-2015.json) |
@@ -4154,6 +4156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghoul Groove | 365800 | [365800-ghoul-groove.json](./365800-ghoul-groove.json) |
 | Ghoul Kid | 33012 | [33012-ghoul-kid.json](./33012-ghoul-kid.json) |
 | Ghoul Manor | 14093 | [14093-ghoul-manor.json](./14093-ghoul-manor.json) |
+| Ghoul Master | 178739 | [178739-ghoul-master.json](./178739-ghoul-master.json) |
 | Ghoul Panic | 14392 | [14392-ghoul-panic.json](./14392-ghoul-panic.json) |
 | Ghoul Patrol | 42612 | [42612-ghoul-patrol.json](./42612-ghoul-patrol.json) |
 | Ghoul Yeah Bunny | 250741 | [250741-ghoul-yeah-bunny.json](./250741-ghoul-yeah-bunny.json) |
