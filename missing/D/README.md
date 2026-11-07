@@ -7084,6 +7084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descending | 315450 | [315450-descending.json](./315450-descending.json) |
 | Descending The Woods | 290752 | [290752-descending-the-woods.json](./290752-descending-the-woods.json) |
 | Descending: House of Nightmares | 171614 | [171614-descending-house-of-nightmares.json](./171614-descending-house-of-nightmares.json) |
+| Descension | 178728 | [178728-descension.json](./178728-descension.json) |
 | Descension | 208447 | [208447-descension.json](./208447-descension.json) |
 | Descension | 352183 | [352183-descension.json](./352183-descension.json) |
 | Descensus | 291499 | [291499-descensus.json](./291499-descensus.json) |
