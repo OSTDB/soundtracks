@@ -3064,6 +3064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Slay-Bells | 279727 | [279727-team-slay-bells.json](./279727-team-slay-bells.json) |
 | Team Sonic Fighters | 333675 | [333675-team-sonic-fighters.json](./333675-team-sonic-fighters.json) |
 | Team Sonic Racing | 103018 | [103018-team-sonic-racing.json](./103018-team-sonic-racing.json) |
+| Team Sonic Racing & Super Monkey Ball: Banana Blitz HD | 165851 | [165851-team-sonic-racing-and-super-monkey-ball-banana-blitz-hd.json](./165851-team-sonic-racing-and-super-monkey-ball-banana-blitz-hd.json) |
 | Team Sonic Racing: 30th Anniversary Edition | 166305 | [166305-team-sonic-racing-30th-anniversary-edition.json](./166305-team-sonic-racing-30th-anniversary-edition.json) |
 | Team Suzuki | 12792 | [12792-team-suzuki.json](./12792-team-suzuki.json) |
 | Team Switch VR: Experts Burglary Agency | 126825 | [126825-team-switch-vr-experts-burglary-agency.json](./126825-team-switch-vr-experts-burglary-agency.json) |
@@ -8378,6 +8379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil's in the Details | 423982 | [423982-the-devils-in-the-details.json](./423982-the-devils-in-the-details.json) |
 | The Devil's Men | 7613 | [7613-the-devils-men.json](./7613-the-devils-men.json) |
 | The Devil's Route | 288698 | [288698-the-devils-route.json](./288698-the-devils-route.json) |
+| The Devil's Shoes | 165813 | [165813-the-devils-shoes.json](./165813-the-devils-shoes.json) |
 | The Devil's Soul Inside Me | 299078 | [299078-the-devils-soul-inside-me.json](./299078-the-devils-soul-inside-me.json) |
 | The Devil's Teeth | 234806 | [234806-the-devils-teeth.json](./234806-the-devils-teeth.json) |
 | The Devil's Womb | 122006 | [122006-the-devils-womb.json](./122006-the-devils-womb.json) |
@@ -18392,6 +18394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Shot | 195535 | [195535-the-ultimate-shot.json](./195535-the-ultimate-shot.json) |
 | The Ultimate Showdown | 34428 | [34428-the-ultimate-showdown.json](./34428-the-ultimate-showdown.json) |
 | The Ultimate Simpsons Doom | 196021 | [196021-the-ultimate-simpsons-doom.json](./196021-the-ultimate-simpsons-doom.json) |
+| The Ultimate Sonic Bundle | 165855 | [165855-the-ultimate-sonic-bundle.json](./165855-the-ultimate-sonic-bundle.json) |
 | The Ultimate Sports Quiz | 241454 | [241454-the-ultimate-sports-quiz.json](./241454-the-ultimate-sports-quiz.json) |
 | The Ultimate Torment and Torture | 196028 | [196028-the-ultimate-torment-and-torture.json](./196028-the-ultimate-torment-and-torture.json) |
 | The Ultimate Trivia CD | 72056 | [72056-the-ultimate-trivia-cd.json](./72056-the-ultimate-trivia-cd.json) |
@@ -28131,6 +28134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 2: Ruhr-Sieg Nord: Hagen - Finnentrop Route Add-On | 156494 | [156494-train-sim-world-2-ruhr-sieg-nord-hagen-finnentrop-route-add-on.json](./156494-train-sim-world-2-ruhr-sieg-nord-hagen-finnentrop-route-add-on.json) |
 | Train Sim World 2: Rush Hour | 156505 | [156505-train-sim-world-2-rush-hour.json](./156505-train-sim-world-2-rush-hour.json) |
 | Train Sim World 2: Rush Hour - Boston Sprinter | 193151 | [193151-train-sim-world-2-rush-hour-boston-sprinter.json](./193151-train-sim-world-2-rush-hour-boston-sprinter.json) |
+| Train Sim World 2: Rush Hour - Deluxe Edition | 165858 | [165858-train-sim-world-2-rush-hour-deluxe-edition.json](./165858-train-sim-world-2-rush-hour-deluxe-edition.json) |
 | Train Sim World 2: Rush Hour - London Commuter Route | 193158 | [193158-train-sim-world-2-rush-hour-london-commuter-route.json](./193158-train-sim-world-2-rush-hour-london-commuter-route.json) |
 | Train Sim World 2: Rush Hour - Nahverkehr Dresden Route | 193150 | [193150-train-sim-world-2-rush-hour-nahverkehr-dresden-route.json](./193150-train-sim-world-2-rush-hour-nahverkehr-dresden-route.json) |
 | Train Sim World 2: S-Bahn Zentralschweiz - Luzern: Sursee Route | 195777 | [195777-train-sim-world-2-s-bahn-zentralschweiz-luzern-sursee-route.json](./195777-train-sim-world-2-s-bahn-zentralschweiz-luzern-sursee-route.json) |
@@ -28158,6 +28162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 2020: DB BR 155 Loco | 169011 | [169011-train-sim-world-2020-db-br-155-loco.json](./169011-train-sim-world-2020-db-br-155-loco.json) |
 | Train Sim World 2020: DB BR 182 Loco | 169006 | [169006-train-sim-world-2020-db-br-182-loco.json](./169006-train-sim-world-2020-db-br-182-loco.json) |
 | Train Sim World 2020: DB BR 204 Loco | 169010 | [169010-train-sim-world-2020-db-br-204-loco.json](./169010-train-sim-world-2020-db-br-204-loco.json) |
+| Train Sim World 2020: Deluxe Edition | 165848 | [165848-train-sim-world-2020-deluxe-edition.json](./165848-train-sim-world-2020-deluxe-edition.json) |
 | Train Sim World 2020: East Coastway - Brighton: Eastbourne & Seaford Route | 156873 | [156873-train-sim-world-2020-east-coastway-brighton-eastbourne-and-seaford-route.json](./156873-train-sim-world-2020-east-coastway-brighton-eastbourne-and-seaford-route.json) |
 | Train Sim World 2020: Hauptstrecke Rhein-Ruhr - Duisburg: Bochum Route | 156868 | [156868-train-sim-world-2020-hauptstrecke-rhein-ruhr-duisburg-bochum-route.json](./156868-train-sim-world-2020-hauptstrecke-rhein-ruhr-duisburg-bochum-route.json) |
 | Train Sim World 2020: LIRR M3 EMU Loco | 169005 | [169005-train-sim-world-2020-lirr-m3-emu-loco.json](./169005-train-sim-world-2020-lirr-m3-emu-loco.json) |
@@ -29895,6 +29900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: Battlegrounds | 137948 | [137948-transformers-battlegrounds.json](./137948-transformers-battlegrounds.json) |
 | Transformers: Battlegrounds - Complete Edition | 188638 | [188638-transformers-battlegrounds-complete-edition.json](./188638-transformers-battlegrounds-complete-edition.json) |
 | Transformers: Battlegrounds - Deluxe Edition | 146009 | [146009-transformers-battlegrounds-deluxe-edition.json](./146009-transformers-battlegrounds-deluxe-edition.json) |
+| Transformers: Battlegrounds - Shattered Spacebridge | 165852 | [165852-transformers-battlegrounds-shattered-spacebridge.json](./165852-transformers-battlegrounds-shattered-spacebridge.json) |
 | Transformers: Beast Wars Transmetals | 273897 | [273897-transformers-beast-wars-transmetals.json](./273897-transformers-beast-wars-transmetals.json) |
 | Transformers: Beast Wars Transmetals | 3620 | [3620-transformers-beast-wars-transmetals.json](./3620-transformers-beast-wars-transmetals.json) |
 | Transformers: Bumblebee Overdrive | 234500 | [234500-transformers-bumblebee-overdrive.json](./234500-transformers-bumblebee-overdrive.json) |
