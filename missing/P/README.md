@@ -1932,6 +1932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paraception | 180433 | [180433-paraception.json](./180433-paraception.json) |
 | Paracesium | 386160 | [386160-paracesium.json](./386160-paracesium.json) |
 | Parachronism: Order of Chaos | 21999 | [21999-parachronism-order-of-chaos.json](./21999-parachronism-order-of-chaos.json) |
+| Parachute | 145158 | [145158-parachute.json](./145158-parachute.json) |
 | Parachute | 231725 | [231725-parachute.json](./231725-parachute.json) |
 | Parachute | 40678 | [40678-parachute.json](./40678-parachute.json) |
 | Parachute 22 | 205098 | [205098-parachute-22.json](./205098-parachute-22.json) |
@@ -8732,6 +8733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelbit World | 419792 | [419792-pixelbit-world.json](./419792-pixelbit-world.json) |
 | PixelBot Extreme! | 96229 | [96229-pixelbot-extreme.json](./96229-pixelbot-extreme.json) |
 | Pixelburg | 345055 | [345055-pixelburg.json](./345055-pixelburg.json) |
+| Pixelcalypse: Pixel Art Game | 145128 | [145128-pixelcalypse-pixel-art-game.json](./145128-pixelcalypse-pixel-art-game.json) |
 | PixelCraft Game | 100929 | [100929-pixelcraft-game.json](./100929-pixelcraft-game.json) |
 | PixelCraft VR | 126542 | [126542-pixelcraft-vr.json](./126542-pixelcraft-vr.json) |
 | Pixeled | 235028 | [235028-pixeled.json](./235028-pixeled.json) |
@@ -12904,6 +12906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopCultured | 207225 | [207225-popcultured.json](./207225-popcultured.json) |
 | Pope Simulator | 133205 | [133205-pope-simulator.json](./133205-pope-simulator.json) |
 | Pope-ye | 321214 | [321214-pope-ye.json](./321214-pope-ye.json) |
+| Popeye | 145160 | [145160-popeye.json](./145160-popeye.json) |
 | Popeye | 178809 | [178809-popeye.json](./178809-popeye.json) |
 | Popeye | 206328 | [206328-popeye.json](./206328-popeye.json) |
 | Popeye | 206332 | [206332-popeye.json](./206332-popeye.json) |
@@ -16800,6 +16803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protagoras Bleeds | 191314 | [191314-protagoras-bleeds.json](./191314-protagoras-bleeds.json) |
 | Protean Fox | 376751 | [376751-protean-fox.json](./376751-protean-fox.json) |
 | Protec | 335024 | [335024-protec.json](./335024-protec.json) |
+| Protect & Defense: Tank Attack | 145154 | [145154-protect-and-defense-tank-attack.json](./145154-protect-and-defense-tank-attack.json) |
 | Protect Eggs | 161718 | [161718-protect-eggs.json](./161718-protect-eggs.json) |
 | Protect Gloobi | 373286 | [373286-protect-gloobi.json](./373286-protect-gloobi.json) |
 | Protect Grass | 127593 | [127593-protect-grass.json](./127593-protect-grass.json) |
