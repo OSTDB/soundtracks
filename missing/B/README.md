@@ -968,6 +968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -17926,6 +17927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Ball | 169347 | [169347-burning-ball.json](./169347-burning-ball.json) |
 | Burning Birds | 341853 | [341853-burning-birds.json](./341853-burning-birds.json) |
 | Burning Branch | 250724 | [250724-burning-branch.json](./250724-burning-branch.json) |
+| Burning Brick Breaker | 170070 | [170070-burning-brick-breaker.json](./170070-burning-brick-breaker.json) |
 | Burning Bridges | 414750 | [414750-burning-bridges.json](./414750-burning-bridges.json) |
 | Burning Bubbles Lab | 264971 | [264971-burning-bubbles-lab.json](./264971-burning-bubbles-lab.json) |
 | Burning Calories | 255148 | [255148-burning-calories.json](./255148-burning-calories.json) |
@@ -18403,6 +18405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ButtonHunt | 272698 | [272698-buttonhunt.json](./272698-buttonhunt.json) |
 | ButtonHunt 2 | 272706 | [272706-buttonhunt-2.json](./272706-buttonhunt-2.json) |
 | ButtonHunt 3 | 272787 | [272787-buttonhunt-3.json](./272787-buttonhunt-3.json) |
+| ButtonMash | 170074 | [170074-buttonmash.json](./170074-buttonmash.json) |
 | Buttons and Scissors | 74711 | [74711-buttons-and-scissors.json](./74711-buttons-and-scissors.json) |
 | Buttons Up! | 386419 | [386419-buttons-up.json](./386419-buttons-up.json) |
 | Buttons Up! 2 | 405568 | [405568-buttons-up-2.json](./405568-buttons-up-2.json) |
