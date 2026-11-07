@@ -4588,6 +4588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cathouse Blues | 40629 | [40629-cathouse-blues.json](./40629-cathouse-blues.json) |
 | Cathulhu Detective | 193978 | [193978-cathulhu-detective.json](./193978-cathulhu-detective.json) |
 | Cathy and The Others | 312797 | [312797-cathy-and-the-others.json](./312797-cathy-and-the-others.json) |
+| Cathy's Crafts: Platinum Edition | 177108 | [177108-cathys-crafts-platinum-edition.json](./177108-cathys-crafts-platinum-edition.json) |
 | Catie in MeowmeowLand | 158105 | [158105-catie-in-meowmeowland.json](./158105-catie-in-meowmeowland.json) |
 | Catify VR | 104799 | [104799-catify-vr.json](./104799-catify-vr.json) |
 | Catio Simulator | 368989 | [368989-catio-simulator.json](./368989-catio-simulator.json) |
@@ -9680,6 +9681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claire Hart Classic | 354967 | [354967-claire-hart-classic.json](./354967-claire-hart-classic.json) |
 | Claire Hart: Secret in the Shadows | 354968 | [354968-claire-hart-secret-in-the-shadows.json](./354968-claire-hart-secret-in-the-shadows.json) |
 | Claire's Cruisin' Cafe | 155398 | [155398-claires-cruisin-cafe.json](./155398-claires-cruisin-cafe.json) |
+| Claire's Cruisin' Cafe: Collector's Edition | 177103 | [177103-claires-cruisin-cafe-collectors-edition.json](./177103-claires-cruisin-cafe-collectors-edition.json) |
 | Claire's Cruisin' Cafe: Fest Frenzy | 266310 | [266310-claires-cruisin-cafe-fest-frenzy.json](./266310-claires-cruisin-cafe-fest-frenzy.json) |
 | Claire's Cruisin' Cafe: High Seas Cuisine | 193445 | [193445-claires-cruisin-cafe-high-seas-cuisine.json](./193445-claires-cruisin-cafe-high-seas-cuisine.json) |
 | Clairvoyage: The Lighthouse | 409397 | [409397-clairvoyage-the-lighthouse.json](./409397-clairvoyage-the-lighthouse.json) |
