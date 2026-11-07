@@ -3291,6 +3291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Funk | 250846 | [250846-void-funk.json](./250846-void-funk.json) |
 | Void Future: Hacking Protocol | 376207 | [376207-void-future-hacking-protocol.json](./376207-void-future-hacking-protocol.json) |
 | Void Game | 394338 | [394338-void-game.json](./394338-void-game.json) |
+| Void Golf | 179796 | [179796-void-golf.json](./179796-void-golf.json) |
 | Void Gore | 143540 | [143540-void-gore.json](./143540-void-gore.json) |
 | Void Grapplers | 377870 | [377870-void-grapplers.json](./377870-void-grapplers.json) |
 | Void Grimm | 186415 | [186415-void-grimm.json](./186415-void-grimm.json) |
