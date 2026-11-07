@@ -6883,6 +6883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Bomb | 333236 | [333236-chess-bomb.json](./333236-chess-bomb.json) |
 | Chess Boss | 175197 | [175197-chess-boss.json](./175197-chess-boss.json) |
 | Chess Brain | 163688 | [163688-chess-brain.json](./163688-chess-brain.json) |
+| Chess Brain Teasers 100,000 | 146963 | [146963-chess-brain-teasers-100-000.json](./146963-chess-brain-teasers-100-000.json) |
 | Chess Brain: Dark Troops | 157156 | [157156-chess-brain-dark-troops.json](./157156-chess-brain-dark-troops.json) |
 | Chess But All At Once | 300493 | [300493-chess-but-all-at-once.json](./300493-chess-but-all-at-once.json) |
 | Chess Cards: Mate! Unlimited | 175309 | [175309-chess-cards-mate-unlimited.json](./175309-chess-cards-mate-unlimited.json) |
@@ -12341,6 +12342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colored Shapes | 158627 | [158627-colored-shapes.json](./158627-colored-shapes.json) |
 | Coloree | 141695 | [141695-coloree.json](./141695-coloree.json) |
 | Colorelli | 80125 | [80125-colorelli.json](./80125-colorelli.json) |
+| Colorfall | 146940 | [146940-colorfall.json](./146940-colorfall.json) |
 | Colorfall | 404788 | [404788-colorfall.json](./404788-colorfall.json) |
 | Colorfill | 278884 | [278884-colorfill.json](./278884-colorfill.json) |
 | Colorfire Redux | 315416 | [315416-colorfire-redux.json](./315416-colorfire-redux.json) |
@@ -18961,6 +18963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Cave: Lost Treasures | 193704 | [193704-crystal-cave-lost-treasures.json](./193704-crystal-cave-lost-treasures.json) |
 | Crystal Caverns | 177420 | [177420-crystal-caverns.json](./177420-crystal-caverns.json) |
 | Crystal Caverns | 339344 | [339344-crystal-caverns.json](./339344-crystal-caverns.json) |
+| Crystal Caverns of Amon-Ra | 146951 | [146951-crystal-caverns-of-amon-ra.json](./146951-crystal-caverns-of-amon-ra.json) |
 | Crystal Caverns of Amon-Ra | 85055 | [85055-crystal-caverns-of-amon-ra.json](./85055-crystal-caverns-of-amon-ra.json) |
 | Crystal Caves | 8483 | [8483-crystal-caves.json](./8483-crystal-caves.json) |
 | Crystal Caves HD | 138981 | [138981-crystal-caves-hd.json](./138981-crystal-caves-hd.json) |
@@ -21151,6 +21154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cygnus IV | 263597 | [263597-cygnus-iv.json](./263597-cygnus-iv.json) |
 | Cygnus Leapt | 381395 | [381395-cygnus-leapt.json](./381395-cygnus-leapt.json) |
 | Cygnus Racing League | 188462 | [188462-cygnus-racing-league.json](./188462-cygnus-racing-league.json) |
+| Cyjin: The Cyborg Ninja | 146967 | [146967-cyjin-the-cyborg-ninja.json](./146967-cyjin-the-cyborg-ninja.json) |
 | Cylinder Battle | 176730 | [176730-cylinder-battle.json](./176730-cylinder-battle.json) |
 | Cylinder: Puzzles Returned | 63898 | [63898-cylinder-puzzles-returned.json](./63898-cylinder-puzzles-returned.json) |
 | Cylindrix | 73318 | [73318-cylindrix.json](./73318-cylindrix.json) |
