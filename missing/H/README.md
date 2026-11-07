@@ -1710,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Race | 195041 | [195041-happy-race.json](./195041-happy-race.json) |
 | Happy Racing - Top Wheels Game | 91350 | [91350-happy-racing-top-wheels-game.json](./91350-happy-racing-top-wheels-game.json) |
 | Happy Racing: Online Wheels | 87349 | [87349-happy-racing-online-wheels.json](./87349-happy-racing-online-wheels.json) |
+| Happy Ranch | 183653 | [183653-happy-ranch.json](./183653-happy-ranch.json) |
 | Happy Rider 2 | 95789 | [95789-happy-rider-2.json](./95789-happy-rider-2.json) |
 | Happy Rider Wheels | 95737 | [95737-happy-rider-wheels.json](./95737-happy-rider-wheels.json) |
 | Happy Room | 26618 | [26618-happy-room.json](./26618-happy-room.json) |
