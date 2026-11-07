@@ -1029,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero: Circle of Flow | 145579 | [145579-zero-circle-of-flow.json](./145579-zero-circle-of-flow.json) |
 | Zero: Tsukihami no Kamen | 26142 | [26142-zero-tsukihami-no-kamen.json](./26142-zero-tsukihami-no-kamen.json) |
 | Zero's Fantastic Anecdote | 284789 | [284789-zeros-fantastic-anecdote.json](./284789-zeros-fantastic-anecdote.json) |
+| Zero4 Champ | 169519 | [169519-zero4-champ.json](./169519-zero4-champ.json) |
 | Zero4 Champ DooZy-J | 125856 | [125856-zero4-champ-doozy-j.json](./125856-zero4-champ-doozy-j.json) |
 | Zero4 Champ II | 125857 | [125857-zero4-champ-ii.json](./125857-zero4-champ-ii.json) |
 | Zero4 Champ Series: Drift Champ | 124629 | [124629-zero4-champ-series-drift-champ.json](./124629-zero4-champ-series-drift-champ.json) |
