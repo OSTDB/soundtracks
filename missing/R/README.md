@@ -1436,6 +1436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raining Blobs | 24050 | [24050-raining-blobs.json](./24050-raining-blobs.json) |
 | Raining blocks | 81764 | [81764-raining-blocks.json](./81764-raining-blocks.json) |
 | Raining Blood: Hellfire | 219491 | [219491-raining-blood-hellfire.json](./219491-raining-blood-hellfire.json) |
+| Raining Cats and Dogs | 180357 | [180357-raining-cats-and-dogs.json](./180357-raining-cats-and-dogs.json) |
 | Raining City: Millions Recollections | 305310 | [305310-raining-city-millions-recollections.json](./305310-raining-city-millions-recollections.json) |
 | Raining Lead | 400410 | [400410-raining-lead.json](./400410-raining-lead.json) |
 | Rainmaker | 355467 | [355467-rainmaker.json](./355467-rainmaker.json) |
@@ -10903,6 +10904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room 202 | 313926 | [313926-room-202.json](./313926-room-202.json) |
 | Room 303 | 183174 | [183174-room-303.json](./183174-room-303.json) |
 | Room 40 | 120364 | [120364-room-40.json](./120364-room-40.json) |
+| Room 400 | 180376 | [180376-room-400.json](./180376-room-400.json) |
 | Room 404 | 374404 | [374404-room-404.json](./374404-room-404.json) |
 | Room 404 | 55191 | [55191-room-404.json](./55191-room-404.json) |
 | Room 42 | 68493 | [68493-room-42.json](./68493-room-42.json) |
@@ -12654,6 +12656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runic Tower | 374365 | [374365-runic-tower.json](./374365-runic-tower.json) |
 | Runic Warrens | 271745 | [271745-runic-warrens.json](./271745-runic-warrens.json) |
 | Runic Winds | 386384 | [386384-runic-winds.json](./386384-runic-winds.json) |
+| Runic World | 180361 | [180361-runic-world.json](./180361-runic-world.json) |
 | Runic: Eternal Sunrise | 244781 | [244781-runic-eternal-sunrise.json](./244781-runic-eternal-sunrise.json) |
 | Runick | 193715 | [193715-runick.json](./193715-runick.json) |
 | RunieStory | 301307 | [301307-runiestory.json](./301307-runiestory.json) |
