@@ -1053,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammerwatch II | 245805 | [245805-hammerwatch-ii.json](./245805-hammerwatch-ii.json) |
 | Hammerwatch II: Anniversary Pack | 280576 | [280576-hammerwatch-ii-anniversary-pack.json](./280576-hammerwatch-ii-anniversary-pack.json) |
 | Hammerwatch: Anniversary Edition | 261850 | [261850-hammerwatch-anniversary-edition.json](./261850-hammerwatch-anniversary-edition.json) |
+| Hammerwatch: Heroic Bundle | 164663 | [164663-hammerwatch-heroic-bundle.json](./164663-hammerwatch-heroic-bundle.json) |
 | Hammet P.I. | 346915 | [346915-hammet-p-i.json](./346915-hammet-p-i.json) |
 | Hammurabi | 311346 | [311346-hammurabi.json](./311346-hammurabi.json) |
 | Hammy | 345774 | [345774-hammy.json](./345774-hammy.json) |
