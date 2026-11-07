@@ -10785,6 +10785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Serpent | 185658 | [185658-cloud-serpent.json](./185658-cloud-serpent.json) |
 | Cloud Server Simulator | 398595 | [398595-cloud-server-simulator.json](./398595-cloud-server-simulator.json) |
 | Cloud Shadow | 390045 | [390045-cloud-shadow.json](./390045-cloud-shadow.json) |
+| Cloud Song: Saga of Skywalkers | 168477 | [168477-cloud-song-saga-of-skywalkers.json](./168477-cloud-song-saga-of-skywalkers.json) |
 | Cloud Storage Botanical Station | 345914 | [345914-cloud-storage-botanical-station.json](./345914-cloud-storage-botanical-station.json) |
 | Cloud to Gold | 371346 | [371346-cloud-to-gold.json](./371346-cloud-to-gold.json) |
 | Cloud: Telos | 236377 | [236377-cloud-telos.json](./236377-cloud-telos.json) |
