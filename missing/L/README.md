@@ -10213,6 +10213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lyra | 323986 | [323986-lyra.json](./323986-lyra.json) |
 | Lyra and the Echo of the Abyss | 345696 | [345696-lyra-and-the-echo-of-the-abyss.json](./345696-lyra-and-the-echo-of-the-abyss.json) |
 | Lyra the Tenrec | 265073 | [265073-lyra-the-tenrec.json](./265073-lyra-the-tenrec.json) |
+| Lyra's Melody | 191339 | [191339-lyras-melody.json](./191339-lyras-melody.json) |
 | Lyrane | 62103 | [62103-lyrane.json](./62103-lyrane.json) |
 | Lyratha: Labyrinth - Survival Escape | 115682 | [115682-lyratha-labyrinth-survival-escape.json](./115682-lyratha-labyrinth-survival-escape.json) |
 | LyraVR | 29923 | [29923-lyravr.json](./29923-lyravr.json) |
