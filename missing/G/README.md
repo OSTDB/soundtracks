@@ -7053,6 +7053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Morning Phobos | 257306 | [257306-good-morning-phobos.json](./257306-good-morning-phobos.json) |
 | Good Morning, A.I. | 193259 | [193259-good-morning-a-i.json](./193259-good-morning-a-i.json) |
 | Good Morning, Radio | 203365 | [203365-good-morning-radio.json](./203365-good-morning-radio.json) |
+| Good Morning! | 177660 | [177660-good-morning.json](./177660-good-morning.json) |
 | Good Morningstar | 185488 | [185488-good-morningstar.json](./185488-good-morningstar.json) |
 | Good Mourning | 148556 | [148556-good-mourning.json](./148556-good-mourning.json) |
 | Good News | 382300 | [382300-good-news.json](./382300-good-news.json) |
@@ -7602,6 +7603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gra & Vity | 173002 | [173002-gra-and-vity.json](./173002-gra-and-vity.json) |
 | Graahl: Of Feather and Grit | 109549 | [109549-graahl-of-feather-and-grit.json](./109549-graahl-of-feather-and-grit.json) |
 | Graal Online | 59634 | [59634-graal-online.json](./59634-graal-online.json) |
+| Graal Online: Graal Kingdoms | 177651 | [177651-graal-online-graal-kingdoms.json](./177651-graal-online-graal-kingdoms.json) |
 | GraalOnline Classic+ | 38871 | [38871-graalonline-classic.json](./38871-graalonline-classic.json) |
 | GraalOnline Era | 55842 | [55842-graalonline-era.json](./55842-graalonline-era.json) |
 | GraalOnline: Delteria | 82153 | [82153-graalonline-delteria.json](./82153-graalonline-delteria.json) |
@@ -10846,6 +10848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Monkeys | 16541 | [16541-gun-monkeys.json](./16541-gun-monkeys.json) |
 | Gun Mountain | 184154 | [184154-gun-mountain.json](./184154-gun-mountain.json) |
 | Gun Mute | 79644 | [79644-gun-mute.json](./79644-gun-mute.json) |
+| Gun Night | 177667 | [177667-gun-night.json](./177667-gun-night.json) |
 | Gun Nose | 390152 | [390152-gun-nose.json](./390152-gun-nose.json) |
 | Gun of Fate: The Silver Gun of Ylia | 373149 | [373149-gun-of-fate-the-silver-gun-of-ylia.json](./373149-gun-of-fate-the-silver-gun-of-ylia.json) |
 | Gun on the Chickahominy | 148473 | [148473-gun-on-the-chickahominy.json](./148473-gun-on-the-chickahominy.json) |
