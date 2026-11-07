@@ -6259,6 +6259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrowave Illusions: Aesthetics Edition | 250304 | [250304-retrowave-illusions-aesthetics-edition.json](./250304-retrowave-illusions-aesthetics-edition.json) |
 | Retrowave Rider | 207606 | [207606-retrowave-rider.json](./207606-retrowave-rider.json) |
 | Retrowave Road | 149274 | [149274-retrowave-road.json](./149274-retrowave-road.json) |
+| Retrowave Universe | 164158 | [164158-retrowave-universe.json](./164158-retrowave-universe.json) |
 | Retrowave World | 258383 | [258383-retrowave-world.json](./258383-retrowave-world.json) |
 | Retrowave: Map Pack | 201390 | [201390-retrowave-map-pack.json](./201390-retrowave-map-pack.json) |
 | Retrozen | 298417 | [298417-retrozen.json](./298417-retrozen.json) |
