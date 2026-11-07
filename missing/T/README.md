@@ -1586,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talksport Interactive Quiz | 320902 | [320902-talksport-interactive-quiz.json](./320902-talksport-interactive-quiz.json) |
 | TalkTics: Double Served | 303793 | [303793-talktics-double-served.json](./303793-talktics-double-served.json) |
 | Tall Bagel | 141626 | [141626-tall-bagel.json](./141626-tall-bagel.json) |
+| Tall Bagel 2: Avocado Hardtack | 186377 | [186377-tall-bagel-2-avocado-hardtack.json](./186377-tall-bagel-2-avocado-hardtack.json) |
 | Tall Infinity | 45062 | [45062-tall-infinity.json](./45062-tall-infinity.json) |
 | Tall Man Run | 208953 | [208953-tall-man-run.json](./208953-tall-man-run.json) |
 | Tall Poppy | 172550 | [172550-tall-poppy.json](./172550-tall-poppy.json) |
@@ -5861,6 +5862,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Angry Hand of God | 65869 | [65869-the-angry-hand-of-god.json](./65869-the-angry-hand-of-god.json) |
 | The Angry Turnabout | 308547 | [308547-the-angry-turnabout.json](./308547-the-angry-turnabout.json) |
 | The Angry Video Game Nerd K.O. Boxing | 195569 | [195569-the-angry-video-game-nerd-k-o-boxing.json](./195569-the-angry-video-game-nerd-k-o-boxing.json) |
+| The Angry Video Game Nerd: Game Over 2 | 186376 | [186376-the-angry-video-game-nerd-game-over-2.json](./186376-the-angry-video-game-nerd-game-over-2.json) |
+| The Angry Video Game Nerd: The Angry Video Game | 186373 | [186373-the-angry-video-game-nerd-the-angry-video-game.json](./186373-the-angry-video-game-nerd-the-angry-video-game.json) |
 | The Angry Viking | 59068 | [59068-the-angry-viking.json](./59068-the-angry-viking.json) |
 | The Animal Detectives | 206190 | [206190-the-animal-detectives.json](./206190-the-animal-detectives.json) |
 | The Animal Game | 311430 | [311430-the-animal-game.json](./311430-the-animal-game.json) |
@@ -22594,6 +22597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tile Conqueror | 123920 | [123920-tile-conqueror.json](./123920-tile-conqueror.json) |
 | Tile Conquest | 424597 | [424597-tile-conquest.json](./424597-tile-conquest.json) |
 | Tile Cross | 300723 | [300723-tile-cross.json](./300723-tile-cross.json) |
+| Tile Crusher | 186221 | [186221-tile-crusher.json](./186221-tile-crusher.json) |
 | Tile Game Classic | 88272 | [88272-tile-game-classic.json](./88272-tile-game-classic.json) |
 | Tile Garden | 214305 | [214305-tile-garden.json](./214305-tile-garden.json) |
 | Tile Garden | 234483 | [234483-tile-garden.json](./234483-tile-garden.json) |
@@ -23184,6 +23188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timing Trhthm | 276593 | [276593-timing-trhthm.json](./276593-timing-trhthm.json) |
 | Timing X | 402370 | [402370-timing-x.json](./402370-timing-x.json) |
 | TiminGooo! | 178339 | [178339-timingooo.json](./178339-timingooo.json) |
+| Timings | 186381 | [186381-timings.json](./186381-timings.json) |
 | Timmy & Mousey: Endless Runner | 183331 | [183331-timmy-and-mousey-endless-runner.json](./183331-timmy-and-mousey-endless-runner.json) |
 | Timmy and the Magic Pictures | 290313 | [290313-timmy-and-the-magic-pictures.json](./290313-timmy-and-the-magic-pictures.json) |
 | Timmy L'Escargot | 368250 | [368250-timmy-lescargot.json](./368250-timmy-lescargot.json) |
