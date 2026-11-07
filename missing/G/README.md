@@ -9194,6 +9194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey Wake | 349511 | [349511-grey-wake.json](./349511-grey-wake.json) |
 | Grey Wolf | 56499 | [56499-grey-wolf.json](./56499-grey-wolf.json) |
 | Grey Zone | 68620 | [68620-grey-zone.json](./68620-grey-zone.json) |
+| Grey Zone: Altman | 171146 | [171146-grey-zone-altman.json](./171146-grey-zone-altman.json) |
 | Grey-Box Testing | 135222 | [135222-grey-box-testing.json](./135222-grey-box-testing.json) |
 | Grey: An Alien Dream | 123508 | [123508-grey-an-alien-dream.json](./123508-grey-an-alien-dream.json) |
 | Grey: The Lost Technology | 61719 | [61719-grey-the-lost-technology.json](./61719-grey-the-lost-technology.json) |
