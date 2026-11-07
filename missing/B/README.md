@@ -970,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -12994,6 +12995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BonkCity | 407296 | [407296-bonkcity.json](./407296-bonkcity.json) |
 | Bonkers | 177539 | [177539-bonkers.json](./177539-bonkers.json) |
 | Bonkers | 78677 | [78677-bonkers.json](./78677-bonkers.json) |
+| Bonkey Trek Quimdung Edition | 154696 | [154696-bonkey-trek-quimdung-edition.json](./154696-bonkey-trek-quimdung-edition.json) |
 | Bonkheads | 69111 | [69111-bonkheads.json](./69111-bonkheads.json) |
 | Bonkhope | 417425 | [417425-bonkhope.json](./417425-bonkhope.json) |
 | Bonkies | 105344 | [105344-bonkies.json](./105344-bonkies.json) |
