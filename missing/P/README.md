@@ -16070,6 +16070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Highrise: London Life | 124801 | [124801-project-highrise-london-life.json](./124801-project-highrise-london-life.json) |
 | Project Highrise: Miami Malls | 51883 | [51883-project-highrise-miami-malls.json](./51883-project-highrise-miami-malls.json) |
 | Project Highrise: Tokyo Towers | 124798 | [124798-project-highrise-tokyo-towers.json](./124798-project-highrise-tokyo-towers.json) |
+| Project Hive | 149739 | [149739-project-hive.json](./149739-project-hive.json) |
 | Project Hive | 317034 | [317034-project-hive.json](./317034-project-hive.json) |
 | Project Home | 177336 | [177336-project-home.json](./177336-project-home.json) |
 | Project Homecoming Haven | 300711 | [300711-project-homecoming-haven.json](./300711-project-homecoming-haven.json) |
@@ -16549,6 +16550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Haste | 365251 | [365251-project-haste.json](./365251-project-haste.json) |
 | Project: Horned Owl | 20296 | [20296-project-horned-owl.json](./20296-project-horned-owl.json) |
 | Project: Icarus | 336862 | [336862-project-icarus.json](./336862-project-icarus.json) |
+| Project: Inferno | 149747 | [149747-project-inferno.json](./149747-project-inferno.json) |
 | Project: InfoGrid | 246923 | [246923-project-infogrid.json](./246923-project-infogrid.json) |
 | Project: Island | 220168 | [220168-project-island.json](./220168-project-island.json) |
 | Project: Jurit | 385581 | [385581-project-jurit.json](./385581-project-jurit.json) |
