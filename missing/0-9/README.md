@@ -605,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Hidden Animalnaults: Felicat & Laika | 192532 | [192532-100-hidden-animalnaults-felicat-and-laika.json](./192532-100-hidden-animalnaults-felicat-and-laika.json) |
 | 100 Hidden ASCII Cats | 401847 | [401847-100-hidden-ascii-cats.json](./401847-100-hidden-ascii-cats.json) |
 | 100 Hidden Birds | 161611 | [161611-100-hidden-birds.json](./161611-100-hidden-birds.json) |
+| 100 Hidden Birds 2 | 173342 | [173342-100-hidden-birds-2.json](./173342-100-hidden-birds-2.json) |
 | 100 Hidden Capybaras | 321544 | [321544-100-hidden-capybaras.json](./321544-100-hidden-capybaras.json) |
 | 100 Hidden Cats | 158986 | [158986-100-hidden-cats.json](./158986-100-hidden-cats.json) |
 | 100 Hidden Cats in America | 330686 | [330686-100-hidden-cats-in-america.json](./330686-100-hidden-cats-in-america.json) |
@@ -1701,6 +1702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2027 | 213129 | [213129-2027.json](./213129-2027.json) |
 | 2029 Online | 27733 | [27733-2029-online.json](./27733-2029-online.json) |
 | 203 Game Pack | 273903 | [273903-203-game-pack.json](./273903-203-game-pack.json) |
+| 2030 | 173373 | [173373-2030.json](./173373-2030.json) |
 | 2032: A New Threat | 237207 | [237207-2032-a-new-threat.json](./237207-2032-a-new-threat.json) |
 | 2033 The Order | 308940 | [308940-2033-the-order.json](./308940-2033-the-order.json) |
 | 2033: Das Erschwachen der Macht | 166165 | [166165-2033-das-erschwachen-der-macht.json](./166165-2033-das-erschwachen-der-macht.json) |
