@@ -1135,6 +1135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvo Shuffle | 268952 | [268952-salvo-shuffle.json](./268952-salvo-shuffle.json) |
 | Salvo Subs | 316386 | [316386-salvo-subs.json](./316386-salvo-subs.json) |
 | Salvus: Aries | 221278 | [221278-salvus-aries.json](./221278-salvus-aries.json) |
+| Salyut π | 157803 | [157803-salyut.json](./157803-salyut.json) |
 | Salzburg no Majo: The Witch of Salzburg | 80148 | [80148-salzburg-no-majo-the-witch-of-salzburg.json](./80148-salzburg-no-majo-the-witch-of-salzburg.json) |
 | Sam & Dan: Floaty Flatmates | 112610 | [112610-sam-and-dan-floaty-flatmates.json](./112610-sam-and-dan-floaty-flatmates.json) |
 | Sam & MaRU | 158079 | [158079-sam-and-maru.json](./158079-sam-and-maru.json) |
@@ -13643,6 +13644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Furry Futanari | 367625 | [367625-slide-furry-futanari.json](./367625-slide-furry-futanari.json) |
 | Slide Golf Mini | 234054 | [234054-slide-golf-mini.json](./234054-slide-golf-mini.json) |
 | Slide Hexagon | 358312 | [358312-slide-hexagon.json](./358312-slide-hexagon.json) |
+| Slide Mini | 157814 | [157814-slide-mini.json](./157814-slide-mini.json) |
 | Slide N' Go | 218534 | [218534-slide-n-go.json](./218534-slide-n-go.json) |
 | Slide On Ice | 243714 | [243714-slide-on-ice.json](./243714-slide-on-ice.json) |
 | Slide Princess: Dungeon Escape | 403018 | [403018-slide-princess-dungeon-escape.json](./403018-slide-princess-dungeon-escape.json) |
@@ -19813,6 +19815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Harvest II | 97916 | [97916-space-harvest-ii.json](./97916-space-harvest-ii.json) |
 | Space Haste 2 | 72536 | [72536-space-haste-2.json](./72536-space-haste-2.json) |
 | Space Hat | 290685 | [290685-space-hat.json](./290685-space-hat.json) |
+| Space Haters | 157819 | [157819-space-haters.json](./157819-space-haters.json) |
 | Space Hauler | 182800 | [182800-space-hauler.json](./182800-space-hauler.json) |
 | Space Hauler | 400572 | [400572-space-hauler.json](./400572-space-hauler.json) |
 | Space Hawk | 5699 | [5699-space-hawk.json](./5699-space-hawk.json) |
@@ -19847,6 +19850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21417,6 +21421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Alchemist | 402132 | [402132-spell-alchemist.json](./402132-spell-alchemist.json) |
 | Spell Bandit | 114747 | [114747-spell-bandit.json](./114747-spell-bandit.json) |
 | Spell Beat | 358598 | [358598-spell-beat.json](./358598-spell-beat.json) |
+| Spell Blaster | 157808 | [157808-spell-blaster.json](./157808-spell-blaster.json) |
 | Spell Blitz | 241558 | [241558-spell-blitz.json](./241558-spell-blitz.json) |
 | Spell Blocks | 182968 | [182968-spell-blocks.json](./182968-spell-blocks.json) |
 | Spell Boy | 329093 | [329093-spell-boy.json](./329093-spell-boy.json) |
@@ -23374,6 +23379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Rumble | 204407 | [204407-spy-rumble.json](./204407-spy-rumble.json) |
 | Spy Snatcher | 73817 | [73817-spy-snatcher.json](./73817-spy-snatcher.json) |
 | Spy Story | 142350 | [142350-spy-story.json](./142350-spy-story.json) |
+| Spy Story: The Elusive Evidence | 157823 | [157823-spy-story-the-elusive-evidence.json](./157823-spy-story-the-elusive-evidence.json) |
 | Spy Swatter 2 | 219643 | [219643-spy-swatter-2.json](./219643-spy-swatter-2.json) |
 | Spy Tactics | 120359 | [120359-spy-tactics.json](./120359-spy-tactics.json) |
 | Spy vs Spy | 289160 | [289160-spy-vs-spy.json](./289160-spy-vs-spy.json) |
