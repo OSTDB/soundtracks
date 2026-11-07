@@ -1305,6 +1305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Scroll | 278543 | [278543-magic-scroll.json](./278543-magic-scroll.json) |
 | Magic Scroll Tactics | 96946 | [96946-magic-scroll-tactics.json](./96946-magic-scroll-tactics.json) |
 | Magic Seeker: A Mimic's Odyssey - Chapter 1 | 291718 | [291718-magic-seeker-a-mimics-odyssey-chapter-1.json](./291718-magic-seeker-a-mimics-odyssey-chapter-1.json) |
+| Magic Sexyland | 190791 | [190791-magic-sexyland.json](./190791-magic-sexyland.json) |
 | Magic Sheep | 380397 | [380397-magic-sheep.json](./380397-magic-sheep.json) |
 | Magic Shop | 186122 | [186122-magic-shop.json](./186122-magic-shop.json) |
 | Magic Shop Chaos | 414141 | [414141-magic-shop-chaos.json](./414141-magic-shop-chaos.json) |
@@ -5948,7 +5949,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -10018,6 +10018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaverse Keeper | 111984 | [111984-metaverse-keeper.json](./111984-metaverse-keeper.json) |
 | Metaverser | 259328 | [259328-metaverser.json](./259328-metaverser.json) |
 | Metavoidal | 221335 | [221335-metavoidal.json](./221335-metavoidal.json) |
+| Metavusking | 190800 | [190800-metavusking.json](./190800-metavusking.json) |
 | Metawork: Antique Shop Simulator | 366330 | [366330-metawork-antique-shop-simulator.json](./366330-metawork-antique-shop-simulator.json) |
 | Metawork: Hotel Simulator | 243395 | [243395-metawork-hotel-simulator.json](./243395-metawork-hotel-simulator.json) |
 | MetaWorld | 31841 | [31841-metaworld.json](./31841-metaworld.json) |
@@ -11843,6 +11844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millie's Math House | 67102 | [67102-millies-math-house.json](./67102-millies-math-house.json) |
 | Millika Village | 101749 | [101749-millika-village.json](./101749-millika-village.json) |
 | Millikan's Reach | 194319 | [194319-millikans-reach.json](./194319-millikans-reach.json) |
+| Milling Machine 3D | 190804 | [190804-milling-machine-3d.json](./190804-milling-machine-3d.json) |
 | Million Arthur: Arcana Blood | 44529 | [44529-million-arthur-arcana-blood.json](./44529-million-arthur-arcana-blood.json) |
 | Million Bouillon | 405630 | [405630-million-bouillon.json](./405630-million-bouillon.json) |
 | Million Depth | 262869 | [262869-million-depth.json](./262869-million-depth.json) |
@@ -12607,6 +12609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mines | 94643 | [94643-mines.json](./94643-mines.json) |
 | Mines & Dragons | 163994 | [163994-mines-and-dragons.json](./163994-mines-and-dragons.json) |
 | Mines of Dalarnia | 163220 | [163220-mines-of-dalarnia.json](./163220-mines-of-dalarnia.json) |
+| Mines of Frostheim | 190821 | [190821-mines-of-frostheim.json](./190821-mines-of-frostheim.json) |
 | Mines of Mars | 34143 | [34143-mines-of-mars.json](./34143-mines-of-mars.json) |
 | Mines of Minos | 18534 | [18534-mines-of-minos.json](./18534-mines-of-minos.json) |
 | Mines of Moria | 248063 | [248063-mines-of-moria.json](./248063-mines-of-moria.json) |
@@ -14949,6 +14952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Molebasher | 312262 | [312262-molebasher.json](./312262-molebasher.json) |
 | Molecats | 22743 | [22743-molecats.json](./22743-molecats.json) |
 | MolEconomy | 371202 | [371202-moleconomy.json](./371202-moleconomy.json) |
+| Molecoole | 190811 | [190811-molecoole.json](./190811-molecoole.json) |
 | Molecule - a chemistry challenge | 98265 | [98265-molecule-a-chemistry-challenge.json](./98265-molecule-a-chemistry-challenge.json) |
 | Molecule Make Lab | 201133 | [201133-molecule-make-lab.json](./201133-molecule-make-lab.json) |
 | Molecule Man | 28485 | [28485-molecule-man.json](./28485-molecule-man.json) |
@@ -16659,6 +16663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moondusk Masquerade | 334499 | [334499-moondusk-masquerade.json](./334499-moondusk-masquerade.json) |
 | Moondust | 23208 | [23208-moondust.json](./23208-moondust.json) |
 | Moondust: Knuckles Tech Demos | 127835 | [127835-moondust-knuckles-tech-demos.json](./127835-moondust-knuckles-tech-demos.json) |
+| Moonfall | 190794 | [190794-moonfall.json](./190794-moonfall.json) |
 | Moonfall | 270603 | [270603-moonfall.json](./270603-moonfall.json) |
 | Moonfall Voyage | 264052 | [264052-moonfall-voyage.json](./264052-moonfall-voyage.json) |
 | MoonFall: Butterfly Lovers | 190099 | [190099-moonfall-butterfly-lovers.json](./190099-moonfall-butterfly-lovers.json) |
@@ -18257,6 +18262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Move Out Manor | 320431 | [320431-move-out-manor.json](./320431-move-out-manor.json) |
 | Move Street Cricket | 20806 | [20806-move-street-cricket.json](./20806-move-street-cricket.json) |
 | Move Street Cricket II | 97933 | [97933-move-street-cricket-ii.json](./97933-move-street-cricket-ii.json) |
+| Move That Box! | 190797 | [190797-move-that-box.json](./190797-move-that-box.json) |
 | Move the Blocks | 57743 | [57743-move-the-blocks.json](./57743-move-the-blocks.json) |
 | Move the Box | 254892 | [254892-move-the-box.json](./254892-move-the-box.json) |
 | Move The Box: Classic Block Puzzle | 251052 | [251052-move-the-box-classic-block-puzzle.json](./251052-move-the-box-classic-block-puzzle.json) |
@@ -19196,6 +19202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiworld | 159572 | [159572-multiworld.json](./159572-multiworld.json) |
 | Multiworlds | 278257 | [278257-multiworlds.json](./278257-multiworlds.json) |
 | Multiworlds | 377850 | [377850-multiworlds.json](./377850-multiworlds.json) |
+| Multris | 190786 | [190786-multris.json](./190786-multris.json) |
 | Muma Rope | 226678 | [226678-muma-rope.json](./226678-muma-rope.json) |
 | Mumba IV: Egypt Jewels | 156636 | [156636-mumba-iv-egypt-jewels.json](./156636-mumba-iv-egypt-jewels.json) |
 | Mumble Pines: The Arrival | 371032 | [371032-mumble-pines-the-arrival.json](./371032-mumble-pines-the-arrival.json) |
