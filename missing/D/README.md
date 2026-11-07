@@ -1129,6 +1129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Road | 85064 | [85064-dangerous-road.json](./85064-dangerous-road.json) |
 | Dangerous Roads | 395518 | [395518-dangerous-roads.json](./395518-dangerous-roads.json) |
 | Dangerous Roads Ahead | 194284 | [194284-dangerous-roads-ahead.json](./194284-dangerous-roads-ahead.json) |
+| Dangerous Sea Area | 157305 | [157305-dangerous-sea-area.json](./157305-dangerous-sea-area.json) |
 | Dangerous Seduction | 238906 | [238906-dangerous-seduction.json](./238906-dangerous-seduction.json) |
 | Dangerous Seed | 40048 | [40048-dangerous-seed.json](./40048-dangerous-seed.json) |
 | Dangerous Shelter | 142138 | [142138-dangerous-shelter.json](./142138-dangerous-shelter.json) |
@@ -6504,6 +6505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Pit | 121718 | [121718-demon-pit.json](./121718-demon-pit.json) |
 | Demon Positive | 376657 | [376657-demon-positive.json](./376657-demon-positive.json) |
 | Demon Protocol | 417467 | [417467-demon-protocol.json](./417467-demon-protocol.json) |
+| Demon Purge Saga | 157277 | [157277-demon-purge-saga.json](./157277-demon-purge-saga.json) |
 | Demon Queen Melissa | 116228 | [116228-demon-queen-melissa.json](./116228-demon-queen-melissa.json) |
 | Demon Quest | 343059 | [343059-demon-quest.json](./343059-demon-quest.json) |
 | Demon Quest '85 | 151963 | [151963-demon-quest-85.json](./151963-demon-quest-85.json) |
@@ -8283,6 +8285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devotion | 104786 | [104786-devotion.json](./104786-devotion.json) |
 | Devotion | 107228 | [107228-devotion.json](./107228-devotion.json) |
 | Devotionalia | 178466 | [178466-devotionalia.json](./178466-devotionalia.json) |
+| Devoul: Curse of the Soulless | 157273 | [157273-devoul-curse-of-the-soulless.json](./157273-devoul-curse-of-the-soulless.json) |
 | Devour | 139708 | [139708-devour.json](./139708-devour.json) |
 | Devour | 181916 | [181916-devour.json](./181916-devour.json) |
 | Devour the Elixir | 390151 | [390151-devour-the-elixir.json](./390151-devour-the-elixir.json) |
