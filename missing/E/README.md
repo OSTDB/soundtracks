@@ -1695,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egogia | 394794 | [394794-egogia.json](./394794-egogia.json) |
 | Egony | 103824 | [103824-egony.json](./103824-egony.json) |
 | EgoVersus: The First Strike | 309801 | [309801-egoversus-the-first-strike.json](./309801-egoversus-the-first-strike.json) |
+| Egregor Indoctrination | 155781 | [155781-egregor-indoctrination.json](./155781-egregor-indoctrination.json) |
 | Egregore | 139230 | [139230-egregore.json](./139230-egregore.json) |
 | Egregore | 310046 | [310046-egregore.json](./310046-egregore.json) |
 | Egress - The Test of STS-417 | 168393 | [168393-egress-the-test-of-sts-417.json](./168393-egress-the-test-of-sts-417.json) |
@@ -1715,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egypt in Space | 343998 | [343998-egypt-in-space.json](./343998-egypt-in-space.json) |
 | Egypt Jewels Quest | 104362 | [104362-egypt-jewels-quest.json](./104362-egypt-jewels-quest.json) |
 | Egypt Pharaoh Secret | 109213 | [109213-egypt-pharaoh-secret.json](./109213-egypt-pharaoh-secret.json) |
+| Egypt Picross: Pharaoh's Riddles | 155815 | [155815-egypt-picross-pharaohs-riddles.json](./155815-egypt-picross-pharaohs-riddles.json) |
 | Egypt Picross. Pharaoh's Riddles. | 99990 | [99990-egypt-picross-pharaohs-riddles.json](./99990-egypt-picross-pharaohs-riddles.json) |
 | Egypt Series: The Prophecy - Part 1 | 88661 | [88661-egypt-series-the-prophecy-part-1.json](./88661-egypt-series-the-prophecy-part-1.json) |
 | Egypt Series: The Prophecy - Part 2 | 88830 | [88830-egypt-series-the-prophecy-part-2.json](./88830-egypt-series-the-prophecy-part-2.json) |
