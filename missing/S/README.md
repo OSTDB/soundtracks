@@ -7842,6 +7842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep and Gates | 347591 | [347591-sheep-and-gates.json](./347591-sheep-and-gates.json) |
 | Sheep Annoyer | 183886 | [183886-sheep-annoyer.json](./183886-sheep-annoyer.json) |
 | Sheep Collision | 116083 | [116083-sheep-collision.json](./116083-sheep-collision.json) |
+| Sheep Cutter | 158840 | [158840-sheep-cutter.json](./158840-sheep-cutter.json) |
 | Sheep Defense | 208704 | [208704-sheep-defense.json](./208704-sheep-defense.json) |
 | Sheep Dog | 410445 | [410445-sheep-dog.json](./410445-sheep-dog.json) |
 | Sheep Dreams Are Made of This | 59832 | [59832-sheep-dreams-are-made-of-this.json](./59832-sheep-dreams-are-made-of-this.json) |
@@ -12690,6 +12691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Garden | 208948 | [208948-sky-garden.json](./208948-sky-garden.json) |
 | Sky Girls: Flight Attendants | 87871 | [87871-sky-girls-flight-attendants.json](./87871-sky-girls-flight-attendants.json) |
 | Sky Glove | 183833 | [183833-sky-glove.json](./183833-sky-glove.json) |
+| Sky Goddess Ⅱ | 158833 | [158833-sky-goddess-ii.json](./158833-sky-goddess-ii.json) |
 | Sky Goddess Ⅱ: DLC-1 | 170174 | [170174-sky-goddess-ii-dlc-1.json](./170174-sky-goddess-ii-dlc-1.json) |
 | Sky Goddess Ⅱ: DLC-2 | 170176 | [170176-sky-goddess-ii-dlc-2.json](./170176-sky-goddess-ii-dlc-2.json) |
 | Sky Goddess Ⅱ: DLC-4 | 170175 | [170175-sky-goddess-ii-dlc-4.json](./170175-sky-goddess-ii-dlc-4.json) |
@@ -13277,6 +13279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slav Tiles | 198505 | [198505-slav-tiles.json](./198505-slav-tiles.json) |
 | Slava Ukraini! | 201582 | [201582-slava-ukraini.json](./201582-slava-ukraini.json) |
 | Slavania | 171819 | [171819-slavania.json](./171819-slavania.json) |
+| Slave Fighter X | 158827 | [158827-slave-fighter-x.json](./158827-slave-fighter-x.json) |
 | Slave Ghost | 112760 | [112760-slave-ghost.json](./112760-slave-ghost.json) |
 | Slave Girl | 97989 | [97989-slave-girl.json](./97989-slave-girl.json) |
 | Slave Girl 2 | 97636 | [97636-slave-girl-2.json](./97636-slave-girl-2.json) |
@@ -19841,7 +19844,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -19950,6 +19952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Jones VR | 31816 | [31816-space-jones-vr.json](./31816-space-jones-vr.json) |
 | Space Journey | 343777 | [343777-space-journey.json](./343777-space-journey.json) |
 | Space Jump Cat | 111586 | [111586-space-jump-cat.json](./111586-space-jump-cat.json) |
+| Space Junk | 158849 | [158849-space-junk.json](./158849-space-junk.json) |
 | Space Junk | 179541 | [179541-space-junk.json](./179541-space-junk.json) |
 | Space Junk Heroes | 150345 | [150345-space-junk-heroes.json](./150345-space-junk-heroes.json) |
 | Space Junk Patrol | 33933 | [33933-space-junk-patrol.json](./33933-space-junk-patrol.json) |
@@ -20273,6 +20276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Ship | 175828 | [175828-space-ship.json](./175828-space-ship.json) |
 | Space Ship Commander | 68761 | [68761-space-ship-commander.json](./68761-space-ship-commander.json) |
 | Space Ship Drift | 169045 | [169045-space-ship-drift.json](./169045-space-ship-drift.json) |
+| Space Ship Infinity | 158817 | [158817-space-ship-infinity.json](./158817-space-ship-infinity.json) |
 | Space Ship: The Game | 165378 | [165378-space-ship-the-game.json](./165378-space-ship-the-game.json) |
 | Space ships | 104696 | [104696-space-ships.json](./104696-space-ships.json) |
 | Space Shock 3 | 41931 | [41931-space-shock-3.json](./41931-space-shock-3.json) |
@@ -21305,6 +21309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpeedCoins | 343292 | [343292-speedcoins.json](./343292-speedcoins.json) |
 | Speeder | 152934 | [152934-speeder.json](./152934-speeder.json) |
 | SpeedFighter | 143962 | [143962-speedfighter.json](./143962-speedfighter.json) |
+| Speedgunner Ultra | 158855 | [158855-speedgunner-ultra.json](./158855-speedgunner-ultra.json) |
 | Speediest: Car Racing Formula & Auto Sport | 270813 | [270813-speediest-car-racing-formula-and-auto-sport.json](./270813-speediest-car-racing-formula-and-auto-sport.json) |
 | Speedin' Shotgun | 263500 | [263500-speedin-shotgun.json](./263500-speedin-shotgun.json) |
 | SpeedingRoad | 158513 | [158513-speedingroad.json](./158513-speedingroad.json) |
@@ -21638,6 +21643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellsy | 388060 | [388060-spellsy.json](./388060-spellsy.json) |
 | Spellt | 232088 | [232088-spellt.json](./232088-spellt.json) |
 | SpellTanks | 236863 | [236863-spelltanks.json](./236863-spelltanks.json) |
+| Spellthief Erinn | 158851 | [158851-spellthief-erinn.json](./158851-spellthief-erinn.json) |
 | SpellTome | 197445 | [197445-spelltome.json](./197445-spelltome.json) |
 | Spelltooth | 383063 | [383063-spelltooth.json](./383063-spelltooth.json) |
 | SpellTower | 41498 | [41498-spelltower.json](./41498-spelltower.json) |
@@ -32483,6 +32489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Meat Boy | 300461 | [300461-super-meat-boy.json](./300461-super-meat-boy.json) |
 | Super Meat Boy Handheld! | 77317 | [77317-super-meat-boy-handheld.json](./77317-super-meat-boy-handheld.json) |
 | Super Meat Boy: Collector's Edition | 333140 | [333140-super-meat-boy-collectors-edition.json](./333140-super-meat-boy-collectors-edition.json) |
+| Super Meat Boy: Race Mode | 158806 | [158806-super-meat-boy-race-mode.json](./158806-super-meat-boy-race-mode.json) |
 | Super Meat Boy: The Game | 77316 | [77316-super-meat-boy-the-game.json](./77316-super-meat-boy-the-game.json) |
 | Super Meat Boy: Ultra Edition | 20620 | [20620-super-meat-boy-ultra-edition.json](./20620-super-meat-boy-ultra-edition.json) |
 | Super Meat Shooter | 75635 | [75635-super-meat-shooter.json](./75635-super-meat-shooter.json) |
