@@ -2847,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Net64+ | 135558 | [135558-net64.json](./135558-net64.json) |
 | Netabare ga Hageshisugiru RPG 2: Shinyuu no Shin no Sugata ha Daimaou | 335674 | [335674-netabare-ga-hageshisugiru-rpg-2-shinyuu-no-shin-no-sugata-ha-daimaou.json](./335674-netabare-ga-hageshisugiru-rpg-2-shinyuu-no-shin-no-sugata-ha-daimaou.json) |
 | Netabare ga Hageshisugiru RPG: Saigo no Teki no Shoutai ha Yuusha no Chichi | 335671 | [335671-netabare-ga-hageshisugiru-rpg-saigo-no-teki-no-shoutai-ha-yuusha-no-chichi.json](./335671-netabare-ga-hageshisugiru-rpg-saigo-no-teki-no-shoutai-ha-yuusha-no-chichi.json) |
+| Netaboku: A robot girl changes my life as a bedridden boy | 161483 | [161483-netaboku-a-robot-girl-changes-my-life-as-a-bedridden-boy.json](./161483-netaboku-a-robot-girl-changes-my-life-as-a-bedridden-boy.json) |
 | NetaJump | 211058 | [211058-netajump.json](./211058-netajump.json) |
 | Netannad | 254568 | [254568-netannad.json](./254568-netannad.json) |
 | Netbit: Mystery Dungeon | 386066 | [386066-netbit-mystery-dungeon.json](./386066-netbit-mystery-dungeon.json) |
