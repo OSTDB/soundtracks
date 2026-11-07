@@ -2324,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Combat | 55223 | [55223-elemental-combat.json](./55223-elemental-combat.json) |
 | Elemental Cube | 308317 | [308317-elemental-cube.json](./308317-elemental-cube.json) |
 | Elemental Defender | 339733 | [339733-elemental-defender.json](./339733-elemental-defender.json) |
+| Elemental Defenders TD | 161496 | [161496-elemental-defenders-td.json](./161496-elemental-defenders-td.json) |
 | Elemental Dreams | 277187 | [277187-elemental-dreams.json](./277187-elemental-dreams.json) |
 | Elemental Drifters | 386060 | [386060-elemental-drifters.json](./386060-elemental-drifters.json) |
 | Elemental Empire | 297816 | [297816-elemental-empire.json](./297816-elemental-empire.json) |
