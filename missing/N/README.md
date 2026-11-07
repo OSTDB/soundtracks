@@ -7327,6 +7327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nox Dash | 331480 | [331480-nox-dash.json](./331480-nox-dash.json) |
 | Nox Mortalis | 323006 | [323006-nox-mortalis.json](./323006-nox-mortalis.json) |
 | Nox Quest | 92834 | [92834-nox-quest.json](./92834-nox-quest.json) |
+| Nox Terrorem: Lost Souls | 147547 | [147547-nox-terrorem-lost-souls.json](./147547-nox-terrorem-lost-souls.json) |
 | Nox Timore Remake | 220457 | [220457-nox-timore-remake.json](./220457-nox-timore-remake.json) |
 | NOX: Chapter 1 | 229626 | [229626-nox-chapter-1.json](./229626-nox-chapter-1.json) |
 | Nox: Escape Adventure | 241049 | [241049-nox-escape-adventure.json](./241049-nox-escape-adventure.json) |
