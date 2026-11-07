@@ -947,6 +947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taken Soul | 273400 | [273400-taken-soul.json](./273400-taken-soul.json) |
 | Taken Souls: Blood Ritual | 139427 | [139427-taken-souls-blood-ritual.json](./139427-taken-souls-blood-ritual.json) |
 | Taken Souls: Blood Ritual - Collector's Edition | 29577 | [29577-taken-souls-blood-ritual-collectors-edition.json](./29577-taken-souls-blood-ritual-collectors-edition.json) |
+| Taken Souls: Blood Ritual - Platinum Edition | 177110 | [177110-taken-souls-blood-ritual-platinum-edition.json](./177110-taken-souls-blood-ritual-platinum-edition.json) |
 | Takenoko | 127080 | [127080-takenoko.json](./127080-takenoko.json) |
 | Takenoko: Chibis | 170771 | [170771-takenoko-chibis.json](./170771-takenoko-chibis.json) |
 | Takenoko: Tilt Five AR | 336726 | [336726-takenoko-tilt-five-ar.json](./336726-takenoko-tilt-five-ar.json) |
@@ -11872,6 +11873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lady Puppet | 148385 | [148385-the-lady-puppet.json](./148385-the-lady-puppet.json) |
 | The Lady, The Mage, & The Knight | 317560 | [317560-the-lady-the-mage-and-the-knight.json](./317560-the-lady-the-mage-and-the-knight.json) |
 | The Lady's Choice | 178747 | [178747-the-ladys-choice.json](./178747-the-ladys-choice.json) |
+| The Lair | 177132 | [177132-the-lair.json](./177132-the-lair.json) |
 | The Lair of DOOMestic Animals | 271487 | [271487-the-lair-of-doomestic-animals.json](./271487-the-lair-of-doomestic-animals.json) |
 | The Lair of Nekro Neko | 307695 | [307695-the-lair-of-nekro-neko.json](./307695-the-lair-of-nekro-neko.json) |
 | The Lake House: Children of Silence | 54299 | [54299-the-lake-house-children-of-silence.json](./54299-the-lake-house-children-of-silence.json) |
@@ -17513,6 +17515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of Relm | 333396 | [333396-the-tale-of-relm.json](./333396-the-tale-of-relm.json) |
 | The Tale of Spring City | 391004 | [391004-the-tale-of-spring-city.json](./391004-the-tale-of-spring-city.json) |
 | The Tale of the ADHD Dinosaur | 179621 | [179621-the-tale-of-the-adhd-dinosaur.json](./179621-the-tale-of-the-adhd-dinosaur.json) |
+| The Tale of the Cartographer | 177116 | [177116-the-tale-of-the-cartographer.json](./177116-the-tale-of-the-cartographer.json) |
 | The Tale of the Greenhouse | 180912 | [180912-the-tale-of-the-greenhouse.json](./180912-the-tale-of-the-greenhouse.json) |
 | The Tale of Treasonous Tom | 207752 | [207752-the-tale-of-treasonous-tom.json](./207752-the-tale-of-treasonous-tom.json) |
 | The Tale of Two Nekos | 310201 | [310201-the-tale-of-two-nekos.json](./310201-the-tale-of-two-nekos.json) |
