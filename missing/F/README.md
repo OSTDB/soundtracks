@@ -5806,6 +5806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fira | 173315 | [173315-fira.json](./173315-fira.json) |
 | Firby | 400101 | [400101-firby.json](./400101-firby.json) |
 | Fire | 10321 | [10321-fire.json](./10321-fire.json) |
+| Fire | 145127 | [145127-fire.json](./145127-fire.json) |
 | Fire | 152137 | [152137-fire.json](./152137-fire.json) |
 | Fire | 206333 | [206333-fire.json](./206333-fire.json) |
 | Fire | 231720 | [231720-fire.json](./231720-fire.json) |
