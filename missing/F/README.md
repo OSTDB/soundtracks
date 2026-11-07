@@ -6271,6 +6271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firewall Zero Hour | 76966 | [76966-firewall-zero-hour.json](./76966-firewall-zero-hour.json) |
 | Firewall: Cyber Defense | 295152 | [295152-firewall-cyber-defense.json](./295152-firewall-cyber-defense.json) |
 | Firewall: Man vs. Machine | 217880 | [217880-firewall-man-vs-machine.json](./217880-firewall-man-vs-machine.json) |
+| Firewar | 146989 | [146989-firewar.json](./146989-firewar.json) |
 | Firewatch: Audio Tour | 251228 | [251228-firewatch-audio-tour.json](./251228-firewatch-audio-tour.json) |
 | Firewerx | 195185 | [195185-firewerx.json](./195185-firewerx.json) |
 | Firewheels Shop Simulator | 330316 | [330316-firewheels-shop-simulator.json](./330316-firewheels-shop-simulator.json) |
