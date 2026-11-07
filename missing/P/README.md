@@ -586,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paddle Fall | 115454 | [115454-paddle-fall.json](./115454-paddle-fall.json) |
 | Paddle Fighter | 45716 | [45716-paddle-fighter.json](./45716-paddle-fighter.json) |
 | Paddle Flap | 239707 | [239707-paddle-flap.json](./239707-paddle-flap.json) |
+| Paddle Force | 177138 | [177138-paddle-force.json](./177138-paddle-force.json) |
 | Paddle Legends | 378542 | [378542-paddle-legends.json](./378542-paddle-legends.json) |
 | Paddle Mania | 40374 | [40374-paddle-mania.json](./40374-paddle-mania.json) |
 | Paddle Master VR | 75202 | [75202-paddle-master-vr.json](./75202-paddle-master-vr.json) |
@@ -6603,6 +6604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pikuniku: Collector's Edition | 154528 | [154528-pikuniku-collectors-edition.json](./154528-pikuniku-collectors-edition.json) |
 | Pikupals: Picross + Aliens | 282992 | [282992-pikupals-picross-aliens.json](./282992-pikupals-picross-aliens.json) |
 | PikuPiku | 349972 | [349972-pikupiku.json](./349972-pikupiku.json) |
+| Pikwip | 177136 | [177136-pikwip.json](./177136-pikwip.json) |
 | Pila | 186417 | [186417-pila.json](./186417-pila.json) |
 | Pilam Sky | 38503 | [38503-pilam-sky.json](./38503-pilam-sky.json) |
 | Pilapa Boom | 186325 | [186325-pilapa-boom.json](./186325-pilapa-boom.json) |
@@ -13032,6 +13034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portable Island: Te no Hira no Resort | 207129 | [207129-portable-island-te-no-hira-no-resort.json](./207129-portable-island-te-no-hira-no-resort.json) |
 | Portable Ops | 226174 | [226174-portable-ops.json](./226174-portable-ops.json) |
 | Portable VR | 244232 | [244232-portable-vr.json](./244232-portable-vr.json) |
+| PortaBoy | 177126 | [177126-portaboy.json](./177126-portaboy.json) |
 | PortaBoy+ | 246238 | [246238-portaboy.json](./246238-portaboy.json) |
 | Portal | 14546 | [14546-portal.json](./14546-portal.json) |
 | Portal | 311949 | [311949-portal.json](./311949-portal.json) |
