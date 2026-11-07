@@ -7002,6 +7002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derelict Star | 376551 | [376551-derelict-star.json](./376551-derelict-star.json) |
 | Derelict Void | 144606 | [144606-derelict-void.json](./144606-derelict-void.json) |
 | Dereliction Derby | 262553 | [262553-dereliction-derby.json](./262553-dereliction-derby.json) |
+| Derelicts | 191345 | [191345-derelicts.json](./191345-derelicts.json) |
 | DerenGo II | 62656 | [62656-derengo-ii.json](./62656-derengo-ii.json) |
 | Dereology Chime | 409782 | [409782-dereology-chime.json](./409782-dereology-chime.json) |
 | DeResolution | 272189 | [272189-deresolution.json](./272189-deresolution.json) |
@@ -13183,6 +13184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomkid | 259434 | [259434-doomkid.json](./259434-doomkid.json) |
 | Doomkid's Mega! | 262998 | [262998-doomkids-mega.json](./262998-doomkids-mega.json) |
 | Doomori | 182208 | [182208-doomori.json](./182208-doomori.json) |
+| Doomori: Eternal | 191364 | [191364-doomori-eternal.json](./191364-doomori-eternal.json) |
 | DOOMpad | 246907 | [246907-doompad.json](./246907-doompad.json) |
 | Doomriderz | 372451 | [372451-doomriderz.json](./372451-doomriderz.json) |
 | Dooms | 340999 | [340999-dooms.json](./340999-dooms.json) |
