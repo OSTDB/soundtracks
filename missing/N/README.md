@@ -3998,6 +3998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nichibutsu Collection 1 | 37906 | [37906-nichibutsu-collection-1.json](./37906-nichibutsu-collection-1.json) |
 | Nichibutsu Collection 2 | 37905 | [37905-nichibutsu-collection-2.json](./37905-nichibutsu-collection-2.json) |
 | Nichibutsu Collection 2000: Otona no Asobi | 97610 | [97610-nichibutsu-collection-2000-otona-no-asobi.json](./97610-nichibutsu-collection-2000-otona-no-asobi.json) |
+| Nichibutsu Mahjong | 151875 | [151875-nichibutsu-mahjong.json](./151875-nichibutsu-mahjong.json) |
 | Nichibutsu Mahjong Collection | 251087 | [251087-nichibutsu-mahjong-collection.json](./251087-nichibutsu-mahjong-collection.json) |
 | Nichibutsu Mahjong III: Mahjong G Men | 48804 | [48804-nichibutsu-mahjong-iii-mahjong-g-men.json](./48804-nichibutsu-mahjong-iii-mahjong-g-men.json) |
 | Nichibutsu Mahjong: Joshikou Meijinsen | 98201 | [98201-nichibutsu-mahjong-joshikou-meijinsen.json](./98201-nichibutsu-mahjong-joshikou-meijinsen.json) |
