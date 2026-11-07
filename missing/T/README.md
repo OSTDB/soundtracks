@@ -14667,6 +14667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Orphan | 243153 | [243153-the-orphan.json](./243153-the-orphan.json) |
 | The Orphan A Tale of An Errant Ghost: Hidden Object Game | 127870 | [127870-the-orphan-a-tale-of-an-errant-ghost-hidden-object-game.json](./127870-the-orphan-a-tale-of-an-errant-ghost-hidden-object-game.json) |
 | The Orphan Dreams | 33160 | [33160-the-orphan-dreams.json](./33160-the-orphan-dreams.json) |
+| The Orphan: A Pop-Up Book Adventure | 165274 | [165274-the-orphan-a-pop-up-book-adventure.json](./165274-the-orphan-a-pop-up-book-adventure.json) |
 | The Orphanage | 236381 | [236381-the-orphanage.json](./236381-the-orphanage.json) |
 | The Orphanage | 370989 | [370989-the-orphanage.json](./370989-the-orphanage.json) |
 | The Orphaned House | 413212 | [413212-the-orphaned-house.json](./413212-the-orphaned-house.json) |
@@ -16864,6 +16865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Skin Game at Bighorn | 85981 | [85981-the-skin-game-at-bighorn.json](./85981-the-skin-game-at-bighorn.json) |
 | The Skin Stapler | 386539 | [386539-the-skin-stapler.json](./386539-the-skin-stapler.json) |
 | The Skinwalker Investigations | 164973 | [164973-the-skinwalker-investigations.json](./164973-the-skinwalker-investigations.json) |
+| The Skinwalkers | 165258 | [165258-the-skinwalkers.json](./165258-the-skinwalkers.json) |
 | The Skirmish | 282032 | [282032-the-skirmish.json](./282032-the-skirmish.json) |
 | The Skull Embroidery | 57479 | [57479-the-skull-embroidery.json](./57479-the-skull-embroidery.json) |
 | The Skullkid | 230259 | [230259-the-skullkid.json](./230259-the-skullkid.json) |
@@ -18556,6 +18558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The V Anomaly | 390539 | [390539-the-v-anomaly.json](./390539-the-v-anomaly.json) |
 | The Vagabond Emperor | 157459 | [157459-the-vagabond-emperor.json](./157459-the-vagabond-emperor.json) |
 | The Vagrant | 28738 | [28738-the-vagrant.json](./28738-the-vagrant.json) |
+| The Vale: Shadow of the Crown | 165212 | [165212-the-vale-shadow-of-the-crown.json](./165212-the-vale-shadow-of-the-crown.json) |
 | The Valiant: Coat of Arms collection | 257533 | [257533-the-valiant-coat-of-arms-collection.json](./257533-the-valiant-coat-of-arms-collection.json) |
 | The Valley | 197584 | [197584-the-valley.json](./197584-the-valley.json) |
 | The Valley | 262521 | [262521-the-valley.json](./262521-the-valley.json) |
@@ -19766,6 +19769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There May be Ninety-Nine of Us, but We Have to Win in Ninety-Nine Turns! | 156211 | [156211-there-may-be-ninety-nine-of-us-but-we-have-to-win-in-ninety-nine-turns.json](./156211-there-may-be-ninety-nine-of-us-but-we-have-to-win-in-ninety-nine-turns.json) |
 | There Ought to Be A Word | 128414 | [128414-there-ought-to-be-a-word.json](./128414-there-ought-to-be-a-word.json) |
 | There Shall Be Lancing | 144231 | [144231-there-shall-be-lancing.json](./144231-there-shall-be-lancing.json) |
+| There Swings a Skull | 165248 | [165248-there-swings-a-skull.json](./165248-there-swings-a-skull.json) |
 | There Swings a Skull: Grim Tidings | 200528 | [200528-there-swings-a-skull-grim-tidings.json](./200528-there-swings-a-skull-grim-tidings.json) |
 | There the Light | 117846 | [117846-there-the-light.json](./117846-there-the-light.json) |
 | There Was a Caveman | 34339 | [34339-there-was-a-caveman.json](./34339-there-was-a-caveman.json) |
@@ -23871,6 +23875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tisuland | 382747 | [382747-tisuland.json](./382747-tisuland.json) |
 | Tit Tap Tingle | 135801 | [135801-tit-tap-tingle.json](./135801-tit-tap-tingle.json) |
 | Tit-E-Bar | 308444 | [308444-tit-e-bar.json](./308444-tit-e-bar.json) |
+| Tita Planet | 165211 | [165211-tita-planet.json](./165211-tita-planet.json) |
 | Titan | 159107 | [159107-titan.json](./159107-titan.json) |
 | Titan (working title) | 131476 | [131476-titan-working-title.json](./131476-titan-working-title.json) |
 | Titan 2 | 262259 | [262259-titan-2.json](./262259-titan-2.json) |
@@ -28090,6 +28095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 2: Cathcart Circle Line: Glasgow - Newton & Neilston Route Add-On | 156506 | [156506-train-sim-world-2-cathcart-circle-line-glasgow-newton-and-neilston-route-add-on.json](./156506-train-sim-world-2-cathcart-circle-line-glasgow-newton-and-neilston-route-add-on.json) |
 | Train Sim World 2: Clinchfield Railroad: Elkhorn - Dante Route Add-On | 156511 | [156511-train-sim-world-2-clinchfield-railroad-elkhorn-dante-route-add-on.json](./156511-train-sim-world-2-clinchfield-railroad-elkhorn-dante-route-add-on.json) |
 | Train Sim World 2: Collector's Edition | 139931 | [139931-train-sim-world-2-collectors-edition.json](./139931-train-sim-world-2-collectors-edition.json) |
+| Train Sim World 2: CSX C40-8W | 165213 | [165213-train-sim-world-2-csx-c40-8w.json](./165213-train-sim-world-2-csx-c40-8w.json) |
 | Train Sim World 2: CSX C40-8W Loco | 168735 | [168735-train-sim-world-2-csx-c40-8w-loco.json](./168735-train-sim-world-2-csx-c40-8w-loco.json) |
 | Train Sim World 2: DB BR 101 | 165874 | [165874-train-sim-world-2-db-br-101.json](./165874-train-sim-world-2-db-br-101.json) |
 | Train Sim World 2: DB BR 101 Loco | 168731 | [168731-train-sim-world-2-db-br-101-loco.json](./168731-train-sim-world-2-db-br-101-loco.json) |
@@ -31755,6 +31761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Driver: Heading North | 212231 | [212231-truck-driver-heading-north.json](./212231-truck-driver-heading-north.json) |
 | Truck Driver: Heavy Cargo | 263862 | [263862-truck-driver-heavy-cargo.json](./263862-truck-driver-heavy-cargo.json) |
 | Truck Driver: Hidden Places & Damage System | 164879 | [164879-truck-driver-hidden-places-and-damage-system.json](./164879-truck-driver-hidden-places-and-damage-system.json) |
+| Truck Driver: Premium Edition | 165265 | [165265-truck-driver-premium-edition.json](./165265-truck-driver-premium-edition.json) |
 | Truck Driver: The American Dream | 254243 | [254243-truck-driver-the-american-dream.json](./254243-truck-driver-the-american-dream.json) |
 | Truck Driver: The American Dream - Freedom to Roam | 281428 | [281428-truck-driver-the-american-dream-freedom-to-roam.json](./281428-truck-driver-the-american-dream-freedom-to-roam.json) |
 | Truck Driver: The Dutch Connection | 369873 | [369873-truck-driver-the-dutch-connection.json](./369873-truck-driver-the-dutch-connection.json) |
@@ -32660,6 +32667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Pulse Race | 310494 | [310494-turbo-pulse-race.json](./310494-turbo-pulse-race.json) |
 | Turbo Racing | 215133 | [215133-turbo-racing.json](./215133-turbo-racing.json) |
 | Turbo Racing | 238801 | [238801-turbo-racing.json](./238801-turbo-racing.json) |
+| Turbo Shell | 165272 | [165272-turbo-shell.json](./165272-turbo-shell.json) |
 | Turbo Shot | 186984 | [186984-turbo-shot.json](./186984-turbo-shot.json) |
 | Turbo Skiddy Racing | 146848 | [146848-turbo-skiddy-racing.json](./146848-turbo-skiddy-racing.json) |
 | Turbo Sliders | 78299 | [78299-turbo-sliders.json](./78299-turbo-sliders.json) |
