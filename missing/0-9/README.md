@@ -1160,6 +1160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13 Wood St | 152479 | [152479-13-wood-st.json](./152479-13-wood-st.json) |
 | 13 Wood St Remastered | 208692 | [208692-13-wood-st-remastered.json](./208692-13-wood-st-remastered.json) |
 | 13-Sai no Hello Work | 72584 | [72584-13-sai-no-hello-work.json](./72584-13-sai-no-hello-work.json) |
+| 13: Origin | 177648 | [177648-13-origin.json](./177648-13-origin.json) |
 | 13: Origin - Chapter One | 197399 | [197399-13-origin-chapter-one.json](./197399-13-origin-chapter-one.json) |
 | 13! | 87045 | [87045-13.json](./87045-13.json) |
 | 13's | 190047 | [190047-13s.json](./190047-13s.json) |
