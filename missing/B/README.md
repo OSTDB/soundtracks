@@ -969,7 +969,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6482,6 +6481,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bendy and the Brine Barrel | 414386 | [414386-bendy-and-the-brine-barrel.json](./414386-bendy-and-the-brine-barrel.json) |
 | Bendy and the Ink Factory | 298535 | [298535-bendy-and-the-ink-factory.json](./298535-bendy-and-the-ink-factory.json) |
 | Bendy and the Ink Machine: Chapter Five | 281029 | [281029-bendy-and-the-ink-machine-chapter-five.json](./281029-bendy-and-the-ink-machine-chapter-five.json) |
+| Bendy and the Ink Machine: Chapter Four | 164635 | [164635-bendy-and-the-ink-machine-chapter-four.json](./164635-bendy-and-the-ink-machine-chapter-four.json) |
+| Bendy and the Ink Machine: Chapter Three | 164636 | [164636-bendy-and-the-ink-machine-chapter-three.json](./164636-bendy-and-the-ink-machine-chapter-three.json) |
+| Bendy and the Ink Machine: Chapter Two | 164637 | [164637-bendy-and-the-ink-machine-chapter-two.json](./164637-bendy-and-the-ink-machine-chapter-two.json) |
 | Bendy Road | 98782 | [98782-bendy-road.json](./98782-bendy-road.json) |
 | Bendy Royale | 283438 | [283438-bendy-royale.json](./283438-bendy-royale.json) |
 | Bendy Scary & Ink Machines | 216095 | [216095-bendy-scary-and-ink-machines.json](./216095-bendy-scary-and-ink-machines.json) |
@@ -12484,6 +12486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolu | 204987 | [204987-bolu.json](./204987-bolu.json) |
 | Bom-eul Buleuneun Seolnyeo: Yuna Seupin-opeu | 369528 | [369528-bom-eul-buleuneun-seolnyeo-yuna-seupin-opeu.json](./369528-bom-eul-buleuneun-seolnyeo-yuna-seupin-opeu.json) |
 | Bom! | 295952 | [295952-bom.json](./295952-bom.json) |
+| Bomb | 164633 | [164633-bomb.json](./164633-bomb.json) |
 | Bomb | 188203 | [188203-bomb.json](./188203-bomb.json) |
 | Bomb | 36309 | [36309-bomb.json](./36309-bomb.json) |
 | Bomb Ace | 362431 | [362431-bomb-ace.json](./362431-bomb-ace.json) |
