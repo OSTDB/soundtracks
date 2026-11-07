@@ -2795,6 +2795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malware Derby | 244896 | [244896-malware-derby.json](./244896-malware-derby.json) |
 | Malware Rewritten | 217353 | [217353-malware-rewritten.json](./217353-malware-rewritten.json) |
 | Malys | 341817 | [341817-malys.json](./341817-malys.json) |
+| Malyshka | 188716 | [188716-malyshka.json](./188716-malyshka.json) |
 | Malzbie's Pinball Collection | 74463 | [74463-malzbies-pinball-collection.json](./74463-malzbies-pinball-collection.json) |
 | Malzbie's Pinball Collection: Carnival Table | 166015 | [166015-malzbies-pinball-collection-carnival-table.json](./166015-malzbies-pinball-collection-carnival-table.json) |
 | Malzbie's Pinball Collection: Ghost House | 166022 | [166022-malzbies-pinball-collection-ghost-house.json](./166022-malzbies-pinball-collection-ghost-house.json) |
@@ -13559,6 +13560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirrored Maze 3 | 403697 | [403697-mirrored-maze-3.json](./403697-mirrored-maze-3.json) |
 | Mirrored Pawns | 169827 | [169827-mirrored-pawns.json](./169827-mirrored-pawns.json) |
 | Mirrored Phantoms | 333180 | [333180-mirrored-phantoms.json](./333180-mirrored-phantoms.json) |
+| Mirrored Soul | 188727 | [188727-mirrored-soul.json](./188727-mirrored-soul.json) |
 | Mirrored Souls | 244278 | [244278-mirrored-souls.json](./244278-mirrored-souls.json) |
 | Mirrored: Chapter 1 | 35366 | [35366-mirrored-chapter-1.json](./35366-mirrored-chapter-1.json) |
 | Mirrormind | 345647 | [345647-mirrormind.json](./345647-mirrormind.json) |
@@ -16548,6 +16550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Colonization Project | 32237 | [32237-moon-colonization-project.json](./32237-moon-colonization-project.json) |
 | Moon Colonization Project: Deluxe Edition | 53375 | [53375-moon-colonization-project-deluxe-edition.json](./53375-moon-colonization-project-deluxe-edition.json) |
 | Moon Colony | 311531 | [311531-moon-colony.json](./311531-moon-colony.json) |
+| Moon Corp. Tower Defense | 188764 | [188764-moon-corp-tower-defense.json](./188764-moon-corp-tower-defense.json) |
 | Moon Cradle | 108902 | [108902-moon-cradle.json](./108902-moon-cradle.json) |
 | Moon Cradle | 201632 | [201632-moon-cradle.json](./201632-moon-cradle.json) |
 | Moon Crashers | 384158 | [384158-moon-crashers.json](./384158-moon-crashers.json) |
