@@ -3893,7 +3893,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -6698,6 +6697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Locked | 407791 | [407791-its-locked.json](./407791-its-locked.json) |
 | It's Mealtime! | 145505 | [145505-its-mealtime.json](./145505-its-mealtime.json) |
 | It's Mealtime! | 167247 | [167247-its-mealtime.json](./167247-its-mealtime.json) |
+| It's Not About the End | 172273 | [172273-its-not-about-the-end.json](./172273-its-not-about-the-end.json) |
 | It's Not Like I LIke You | 354538 | [354538-its-not-like-i-like-you.json](./354538-its-not-like-i-like-you.json) |
 | It's Not Me, It's My Basement | 176514 | [176514-its-not-me-its-my-basement.json](./176514-its-not-me-its-my-basement.json) |
 | It's Not Rocket Science! | 295318 | [295318-its-not-rocket-science.json](./295318-its-not-rocket-science.json) |
