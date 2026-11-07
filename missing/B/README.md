@@ -1460,6 +1460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Bounce Maze | 166611 | [166611-ball-bounce-maze.json](./166611-ball-bounce-maze.json) |
 | Ball Bounce Progress | 166289 | [166289-ball-bounce-progress.json](./166289-ball-bounce-progress.json) |
 | Ball Boy Simulator | 412511 | [412511-ball-boy-simulator.json](./412511-ball-boy-simulator.json) |
+| Ball Boys | 183649 | [183649-ball-boys.json](./183649-ball-boys.json) |
 | Ball Brawl 3D | 154620 | [154620-ball-brawl-3d.json](./154620-ball-brawl-3d.json) |
 | Ball Breaker | 13369 | [13369-ball-breaker.json](./13369-ball-breaker.json) |
 | Ball Breaker | 271113 | [271113-ball-breaker.json](./271113-ball-breaker.json) |
@@ -5992,6 +5993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before Fate | 205248 | [205248-before-fate.json](./205248-before-fate.json) |
 | Before I Forget | 122372 | [122372-before-i-forget.json](./122372-before-i-forget.json) |
 | Before I Go | 283988 | [283988-before-i-go.json](./283988-before-i-go.json) |
+| Before I Wake | 183663 | [183663-before-i-wake.json](./183663-before-i-wake.json) |
 | Before Midnight (The First Puzzle) | 112001 | [112001-before-midnight-the-first-puzzle.json](./112001-before-midnight-the-first-puzzle.json) |
 | Before Nightfall | 105159 | [105159-before-nightfall.json](./105159-before-nightfall.json) |
 | Before Nightfall | 271311 | [271311-before-nightfall.json](./271311-before-nightfall.json) |
@@ -6902,6 +6904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Betweenle | 356579 | [356579-betweenle.json](./356579-betweenle.json) |
 | Betweenside | 102357 | [102357-betweenside.json](./102357-betweenside.json) |
 | Beulah and the Hundred Birds | 60456 | [60456-beulah-and-the-hundred-birds.json](./60456-beulah-and-the-hundred-birds.json) |
+| beVaiR | 183672 | [183672-bevair.json](./183672-bevair.json) |
 | Bevel's Painting | 121030 | [121030-bevels-painting.json](./121030-bevels-painting.json) |
 | Beventlaed | 231736 | [231736-beventlaed.json](./231736-beventlaed.json) |
 | Beverage Craft | 245718 | [245718-beverage-craft.json](./245718-beverage-craft.json) |
@@ -10170,6 +10173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Trust: The City | 357383 | [357383-blind-trust-the-city.json](./357383-blind-trust-the-city.json) |
 | Blind Wars | 69795 | [69795-blind-wars.json](./69795-blind-wars.json) |
 | Blind Wizard's Assistant | 195124 | [195124-blind-wizards-assistant.json](./195124-blind-wizards-assistant.json) |
+| Blind World | 183695 | [183695-blind-world.json](./183695-blind-world.json) |
 | Blind zum Bus | 383973 | [383973-blind-zum-bus.json](./383973-blind-zum-bus.json) |
 | Blind_ | 168532 | [168532-blind.json](./168532-blind.json) |
 | Blind: Summer Sunset | 324425 | [324425-blind-summer-sunset.json](./324425-blind-summer-sunset.json) |
