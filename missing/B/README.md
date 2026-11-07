@@ -1033,6 +1033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badland: Game of the Year Edition | 20042 | [20042-badland-game-of-the-year-edition.json](./20042-badland-game-of-the-year-edition.json) |
 | Badlanders | 140378 | [140378-badlanders.json](./140378-badlanders.json) |
 | Badlanders | 192286 | [192286-badlanders.json](./192286-badlanders.json) |
+| Badlands | 176067 | [176067-badlands.json](./176067-badlands.json) |
 | Badlands | 190719 | [190719-badlands.json](./190719-badlands.json) |
 | BadLands | 11933 | [11933-badlands.json](./11933-badlands.json) |
 | Badlands Crew | 258109 | [258109-badlands-crew.json](./258109-badlands-crew.json) |
@@ -3946,6 +3947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Orb | 341657 | [341657-battle-orb.json](./341657-battle-orb.json) |
 | Battle OutRun | 45666 | [45666-battle-outrun.json](./45666-battle-outrun.json) |
 | Battle Painters | 140542 | [140542-battle-painters.json](./140542-battle-painters.json) |
+| Battle Panic | 176059 | [176059-battle-panic.json](./176059-battle-panic.json) |
 | Battle Part | 209484 | [209484-battle-part.json](./209484-battle-part.json) |
 | Battle Phlinx | 366403 | [366403-battle-phlinx.json](./366403-battle-phlinx.json) |
 | Battle Picross | 269917 | [269917-battle-picross.json](./269917-battle-picross.json) |
@@ -7328,6 +7330,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biden My Time: A Joe Biden Garfield-Reading Simulator | 176737 | [176737-biden-my-time-a-joe-biden-garfield-reading-simulator.json](./176737-biden-my-time-a-joe-biden-garfield-reading-simulator.json) |
 | Bienvenue à la cosy académie | 129135 | [129135-bienvenue-a-la-cosy-academie.json](./129135-bienvenue-a-la-cosy-academie.json) |
 | Bienvenue au club Tom-Tom et Nana | 379190 | [379190-bienvenue-au-club-tom-tom-et-nana.json](./379190-bienvenue-au-club-tom-tom-et-nana.json) |
+| Bienvenue chez les Ch'tis | 176055 | [176055-bienvenue-chez-les-chtis.json](./176055-bienvenue-chez-les-chtis.json) |
+| Bienvenue chez les Ch'tis | 176063 | [176063-bienvenue-chez-les-chtis.json](./176063-bienvenue-chez-les-chtis.json) |
 | Bierwagen Rush | 130121 | [130121-bierwagen-rush.json](./130121-bierwagen-rush.json) |
 | Biff | 13393 | [13393-biff.json](./13393-biff.json) |
 | Bifrost | 262983 | [262983-bifrost.json](./262983-bifrost.json) |
@@ -7776,6 +7780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biker Mice from Mars | 100294 | [100294-biker-mice-from-mars.json](./100294-biker-mice-from-mars.json) |
 | Biker Mice from Mars | 217747 | [217747-biker-mice-from-mars.json](./217747-biker-mice-from-mars.json) |
 | Biker Mice From Mars | 15915 | [15915-biker-mice-from-mars.json](./15915-biker-mice-from-mars.json) |
+| Biker Mice From Mars | 176054 | [176054-biker-mice-from-mars.json](./176054-biker-mice-from-mars.json) |
 | Biker Street 2D | 213812 | [213812-biker-street-2d.json](./213812-biker-street-2d.json) |
 | Bikerz | 119018 | [119018-bikerz.json](./119018-bikerz.json) |
 | biketerra | 316177 | [316177-biketerra.json](./316177-biketerra.json) |
@@ -9131,6 +9136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Orchestra: Worldfront 37-54 | 370986 | [370986-black-orchestra-worldfront-37-54.json](./370986-black-orchestra-worldfront-37-54.json) |
 | Black Otaku 2: Taekwondo is in my Blood | 261770 | [261770-black-otaku-2-taekwondo-is-in-my-blood.json](./261770-black-otaku-2-taekwondo-is-in-my-blood.json) |
 | Black Otaku: SOS HD | 69352 | [69352-black-otaku-sos-hd.json](./69352-black-otaku-sos-hd.json) |
+| Black Out | 176052 | [176052-black-out.json](./176052-black-out.json) |
 | Black Out! | 280030 | [280030-black-out.json](./280030-black-out.json) |
 | Black Out. | 297808 | [297808-black-out.json](./297808-black-out.json) |
 | Black OX | 353801 | [353801-black-ox.json](./353801-black-ox.json) |
@@ -14457,6 +14463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Baffler | 245546 | [245546-brain-baffler.json](./245546-brain-baffler.json) |
 | Brain Bait | 186814 | [186814-brain-bait.json](./186814-brain-bait.json) |
 | Brain Battle | 233766 | [233766-brain-battle.json](./233766-brain-battle.json) |
+| Brain Battle Q | 176070 | [176070-brain-battle-q.json](./176070-brain-battle-q.json) |
 | Brain Beats | 147202 | [147202-brain-beats.json](./147202-brain-beats.json) |
 | Brain Bistro | 414069 | [414069-brain-bistro.json](./414069-brain-bistro.json) |
 | Brain Boost Beta / Gamma Wave | 21381 | [21381-brain-boost-beta-gamma-wave.json](./21381-brain-boost-beta-gamma-wave.json) |
