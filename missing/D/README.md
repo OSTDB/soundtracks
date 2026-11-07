@@ -6256,6 +6256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dement | 120712 | [120712-dement.json](./120712-dement.json) |
 | Demented | 34070 | [34070-demented.json](./34070-demented.json) |
 | Demented Pixie | 30413 | [30413-demented-pixie.json](./30413-demented-pixie.json) |
+| Dementia | 183147 | [183147-dementia.json](./183147-dementia.json) |
 | Dementia | 184583 | [184583-dementia.json](./184583-dementia.json) |
 | Dementium II | 20665 | [20665-dementium-ii.json](./20665-dementium-ii.json) |
 | Dementium II | 422104 | [422104-dementium-ii.json](./422104-dementium-ii.json) |
@@ -10318,6 +10319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disillusions Manga Horror | 9825 | [9825-disillusions-manga-horror.json](./9825-disillusions-manga-horror.json) |
 | Disintegration | 243254 | [243254-disintegration.json](./243254-disintegration.json) |
 | Disintegration | 259396 | [259396-disintegration.json](./259396-disintegration.json) |
+| Disir | 183106 | [183106-disir.json](./183106-disir.json) |
 | Disjoined | 410204 | [410204-disjoined.json](./410204-disjoined.json) |
 | Disjunction | 112005 | [112005-disjunction.json](./112005-disjunction.json) |
 | Disjunction | 313830 | [313830-disjunction.json](./313830-disjunction.json) |
@@ -10950,6 +10952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divers | 318712 | [318712-divers.json](./318712-divers.json) |
 | Diversant | 180294 | [180294-diversant.json](./180294-diversant.json) |
 | Diverse Defenders | 308913 | [308913-diverse-defenders.json](./308913-diverse-defenders.json) |
+| Diverse Order | 183160 | [183160-diverse-order.json](./183160-diverse-order.json) |
 | Diversion | 97217 | [97217-diversion.json](./97217-diversion.json) |
 | Divertron | 290091 | [290091-divertron.json](./290091-divertron.json) |
 | Divi-Dead | 12420 | [12420-divi-dead.json](./12420-divi-dead.json) |
@@ -11267,6 +11270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DNA: Season 2 - Episode 2 | 310397 | [310397-dna-season-2-episode-2.json](./310397-dna-season-2-episode-2.json) |
 | DNA: Season 2 - Episode 3 | 310407 | [310407-dna-season-2-episode-3.json](./310407-dna-season-2-episode-3.json) |
 | DNA: Season 2 - Episode 4 | 311104 | [311104-dna-season-2-episode-4.json](./311104-dna-season-2-episode-4.json) |
+| DNAxCat | 183158 | [183158-dnaxcat.json](./183158-dnaxcat.json) |
 | DnB Starfighter | 356735 | [356735-dnb-starfighter.json](./356735-dnb-starfighter.json) |
 | DND | 2888 | [2888-dnd.json](./2888-dnd.json) |
 | DND | 381158 | [381158-dnd.json](./381158-dnd.json) |
@@ -14050,6 +14054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downhill Pro Racer | 236155 | [236155-downhill-pro-racer.json](./236155-downhill-pro-racer.json) |
 | Downhill Republic | 193822 | [193822-downhill-republic.json](./193822-downhill-republic.json) |
 | Downhill Slalom | 66952 | [66952-downhill-slalom.json](./66952-downhill-slalom.json) |
+| Downhill Smash | 183136 | [183136-downhill-smash.json](./183136-downhill-smash.json) |
 | Downhill Snow | 143643 | [143643-downhill-snow.json](./143643-downhill-snow.json) |
 | Downhill Snowboard | 95318 | [95318-downhill-snowboard.json](./95318-downhill-snowboard.json) |
 | Downhill Xtreme | 62040 | [62040-downhill-xtreme.json](./62040-downhill-xtreme.json) |
