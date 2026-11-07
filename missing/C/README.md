@@ -5080,6 +5080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caves of Doom | 13471 | [13471-caves-of-doom.json](./13471-caves-of-doom.json) |
 | Caves of Fear | 302602 | [302602-caves-of-fear.json](./302602-caves-of-fear.json) |
 | Caves of Lore | 232976 | [232976-caves-of-lore.json](./232976-caves-of-lore.json) |
+| Caves Of Mars | 173334 | [173334-caves-of-mars.json](./173334-caves-of-mars.json) |
 | Caves of Olympus | 25852 | [25852-caves-of-olympus.json](./25852-caves-of-olympus.json) |
 | Caves of Plague | 106462 | [106462-caves-of-plague.json](./106462-caves-of-plague.json) |
 | Caves of Qud | 24054 | [24054-caves-of-qud.json](./24054-caves-of-qud.json) |
@@ -6804,6 +6805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess | 128646 | [128646-chess.json](./128646-chess.json) |
 | Chess | 131469 | [131469-chess.json](./131469-chess.json) |
 | Chess | 158998 | [158998-chess.json](./158998-chess.json) |
+| Chess | 173351 | [173351-chess.json](./173351-chess.json) |
 | Chess | 178133 | [178133-chess.json](./178133-chess.json) |
 | Chess | 237288 | [237288-chess.json](./237288-chess.json) |
 | Chess | 247071 | [247071-chess.json](./247071-chess.json) |
@@ -14760,6 +14762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Core | 13517 | [13517-core.json](./13517-core.json) |
 | Core | 354893 | [354893-core.json](./354893-core.json) |
 | Core | 400887 | [400887-core.json](./400887-core.json) |
+| Core Alpha | 173338 | [173338-core-alpha.json](./173338-core-alpha.json) |
 | Core Awaken Rurumu's will | 303428 | [303428-core-awaken-rurumus-will.json](./303428-core-awaken-rurumus-will.json) |
 | Core Awaken: Jilelen and LittleSnow | 138448 | [138448-core-awaken-jilelen-and-littlesnow.json](./138448-core-awaken-jilelen-and-littlesnow.json) |
 | Core Awaken: The Yuka | 104814 | [104814-core-awaken-the-yuka.json](./104814-core-awaken-the-yuka.json) |
@@ -18088,6 +18091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossing Dungeon | 149930 | [149930-crossing-dungeon.json](./149930-crossing-dungeon.json) |
 | Crossing Frontier | 165125 | [165125-crossing-frontier.json](./165125-crossing-frontier.json) |
 | Crossing Frontier: Fate Foretold | 275096 | [275096-crossing-frontier-fate-foretold.json](./275096-crossing-frontier-fate-foretold.json) |
+| Crossing Guard Joe | 173379 | [173379-crossing-guard-joe.json](./173379-crossing-guard-joe.json) |
 | Crossing Man | 102960 | [102960-crossing-man.json](./102960-crossing-man.json) |
 | Crossing Miracles | 316647 | [316647-crossing-miracles.json](./316647-crossing-miracles.json) |
 | Crossing Souls | 11176 | [11176-crossing-souls.json](./11176-crossing-souls.json) |
@@ -19457,6 +19461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubicPanic | 98980 | [98980-cubicpanic.json](./98980-cubicpanic.json) |
 | CubicTourPlus. | 219936 | [219936-cubictourplus.json](./219936-cubictourplus.json) |
 | Cubicus | 174046 | [174046-cubicus.json](./174046-cubicus.json) |
+| Cubicus 2 | 173366 | [173366-cubicus-2.json](./173366-cubicus-2.json) |
 | Cubicus Arcanum | 105621 | [105621-cubicus-arcanum.json](./105621-cubicus-arcanum.json) |
 | Cubidle | 311473 | [311473-cubidle.json](./311473-cubidle.json) |
 | Cubie Adventure | 97967 | [97967-cubie-adventure.json](./97967-cubie-adventure.json) |
