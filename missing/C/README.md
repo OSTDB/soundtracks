@@ -5323,6 +5323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestian Tales: Old North | 17693 | [17693-celestian-tales-old-north.json](./17693-celestian-tales-old-north.json) |
 | Celestian Tales: Old North - Howl of the Ravager | 124779 | [124779-celestian-tales-old-north-howl-of-the-ravager.json](./124779-celestian-tales-old-north-howl-of-the-ravager.json) |
 | Celestian Tales: Realms Beyond | 55252 | [55252-celestian-tales-realms-beyond.json](./55252-celestian-tales-realms-beyond.json) |
+| Celestine | 159455 | [159455-celestine.json](./159455-celestine.json) |
 | Celestio 64 | 257399 | [257399-celestio-64.json](./257399-celestio-64.json) |
 | Celestis | 338505 | [338505-celestis.json](./338505-celestis.json) |
 | Celestium | 298611 | [298611-celestium.json](./298611-celestium.json) |
@@ -19856,6 +19857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cupid's Bargain | 392422 | [392422-cupids-bargain.json](./392422-cupids-bargain.json) |
 | Cupid's Chatroom | 309162 | [309162-cupids-chatroom.json](./309162-cupids-chatroom.json) |
 | Cupid's Kiss | 308742 | [308742-cupids-kiss.json](./308742-cupids-kiss.json) |
+| Cupid's Palace | 159431 | [159431-cupids-palace.json](./159431-cupids-palace.json) |
 | Cupids Arrow | 399422 | [399422-cupids-arrow.json](./399422-cupids-arrow.json) |
 | Cupids Love Crisis | 108348 | [108348-cupids-love-crisis.json](./108348-cupids-love-crisis.json) |
 | Cupig's Key Collectathon | 313183 | [313183-cupigs-key-collectathon.json](./313183-cupigs-key-collectathon.json) |
