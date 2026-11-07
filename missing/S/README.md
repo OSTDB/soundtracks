@@ -21323,6 +21323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedrunner's Paradise: Sky is the limit | 215716 | [215716-speedrunners-paradise-sky-is-the-limit.json](./215716-speedrunners-paradise-sky-is-the-limit.json) |
 | SpeedRunners | 9527 | [9527-speedrunners.json](./9527-speedrunners.json) |
 | SpeedRunners 2: King of Speed | 339614 | [339614-speedrunners-2-king-of-speed.json](./339614-speedrunners-2-king-of-speed.json) |
+| SpeedRunners: Deluxe Edition | 165849 | [165849-speedrunners-deluxe-edition.json](./165849-speedrunners-deluxe-edition.json) |
 | SpeedRunners: FortKnight's Fast Faction | 238042 | [238042-speedrunners-fortknights-fast-faction.json](./238042-speedrunners-fortknights-fast-faction.json) |
 | SpeedRunners: Mr. Quick's Speedy Bunch | 238041 | [238041-speedrunners-mr-quicks-speedy-bunch.json](./238041-speedrunners-mr-quicks-speedy-bunch.json) |
 | SpeedRunners: Salem's Sprint Squad | 238040 | [238040-speedrunners-salems-sprint-squad.json](./238040-speedrunners-salems-sprint-squad.json) |
@@ -34325,6 +34326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surferman - A FC pixel surfing to avoid obstacles | 174465 | [174465-surferman-a-fc-pixel-surfing-to-avoid-obstacles.json](./174465-surferman-a-fc-pixel-surfing-to-avoid-obstacles.json) |
 | Surfers Code | 295511 | [295511-surfers-code.json](./295511-surfers-code.json) |
 | Surfin' Sam: Attack of the Aqualites | 85416 | [85416-surfin-sam-attack-of-the-aqualites.json](./85416-surfin-sam-attack-of-the-aqualites.json) |
+| Surfing and Girls | 165827 | [165827-surfing-and-girls.json](./165827-surfing-and-girls.json) |
 | Surfing H3O | 43344 | [43344-surfing-h3o.json](./43344-surfing-h3o.json) |
 | Surfing Legends | 260253 | [260253-surfing-legends.json](./260253-surfing-legends.json) |
 | Surfingers | 33613 | [33613-surfingers.json](./33613-surfingers.json) |
