@@ -18510,6 +18510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcery+ | 300805 | [300805-sorcery.json](./300805-sorcery.json) |
 | Sorcevival | 276169 | [276169-sorcevival.json](./276169-sorcevival.json) |
 | Sorcières & Compagnie | 351105 | [351105-sorcieres-and-compagnie.json](./351105-sorcieres-and-compagnie.json) |
+| Sorcs: Siege Chronicles | 164126 | [164126-sorcs-siege-chronicles.json](./164126-sorcs-siege-chronicles.json) |
 | Sore | 74211 | [74211-sore.json](./74211-sore.json) |
 | Sore ha Maichiru Sakura no You ni: Re:birth | 368652 | [368652-sore-ha-maichiru-sakura-no-you-ni-re-birth.json](./368652-sore-ha-maichiru-sakura-no-you-ni-re-birth.json) |
 | Sore Ike! Anpanman: Hajimete Kaketa yo! Oboeta yo! Hiragana, Katakana: 50-on Board Kinou-tsuki | 300422 | [300422-sore-ike-anpanman-hajimete-kaketa-yo-oboeta-yo-hiragana-katakana-50-on-board-kinou-tsuki.json](./300422-sore-ike-anpanman-hajimete-kaketa-yo-oboeta-yo-hiragana-katakana-50-on-board-kinou-tsuki.json) |
@@ -19166,6 +19167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SourceForts | 129949 | [129949-sourceforts.json](./129949-sourceforts.json) |
 | Sourcelight RPG | 174282 | [174282-sourcelight-rpg.json](./174282-sourcelight-rpg.json) |
 | Sourcevoid Online | 407768 | [407768-sourcevoid-online.json](./407768-sourcevoid-online.json) |
+| SourceWorlds | 164136 | [164136-sourceworlds.json](./164136-sourceworlds.json) |
 | Sous Raccoon | 366299 | [366299-sous-raccoon.json](./366299-sous-raccoon.json) |
 | Sousaku Alice to Ouji-sama! | 202608 | [202608-sousaku-alice-to-ouji-sama.json](./202608-sousaku-alice-to-ouji-sama.json) |
 | Sousaku Kanojo no Renai Koushiki | 191520 | [191520-sousaku-kanojo-no-renai-koushiki.json](./191520-sousaku-kanojo-no-renai-koushiki.json) |
@@ -19829,7 +19831,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -27965,6 +27966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategic Mind: Fight for Dominance | 257425 | [257425-strategic-mind-fight-for-dominance.json](./257425-strategic-mind-fight-for-dominance.json) |
 | Strategic Mind: Fight for Dominance + Kaiju Wars - Fight Monsters Bundle | 289417 | [289417-strategic-mind-fight-for-dominance-kaiju-wars-fight-monsters-bundle.json](./289417-strategic-mind-fight-for-dominance-kaiju-wars-fight-monsters-bundle.json) |
 | Strategic Mind: Spectre of Communism | 148300 | [148300-strategic-mind-spectre-of-communism.json](./148300-strategic-mind-spectre-of-communism.json) |
+| Strategic Mind: Spirit of Liberty | 164145 | [164145-strategic-mind-spirit-of-liberty.json](./164145-strategic-mind-spirit-of-liberty.json) |
 | Strategic Mind: The Pacific | 113330 | [113330-strategic-mind-the-pacific.json](./113330-strategic-mind-the-pacific.json) |
 | Strategic Simulations: Commander's Collection | 73779 | [73779-strategic-simulations-commanders-collection.json](./73779-strategic-simulations-commanders-collection.json) |
 | Strategic Stalemate | 364969 | [364969-strategic-stalemate.json](./364969-strategic-stalemate.json) |
@@ -29267,6 +29269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subliminal Region | 168132 | [168132-subliminal-region.json](./168132-subliminal-region.json) |
 | Sublimity | 292528 | [292528-sublimity.json](./292528-sublimity.json) |
 | Subluminal | 189942 | [189942-subluminal.json](./189942-subluminal.json) |
+| Sublunar | 164148 | [164148-sublunar.json](./164148-sublunar.json) |
 | Sublustrum | 379140 | [379140-sublustrum.json](./379140-sublustrum.json) |
 | Submachine | 272107 | [272107-submachine.json](./272107-submachine.json) |
 | Submachine 1: the Basement | 127877 | [127877-submachine-1-the-basement.json](./127877-submachine-1-the-basement.json) |
