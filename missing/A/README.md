@@ -16234,6 +16234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astrohazard Solutions Ltd. | 75772 | [75772-astrohazard-solutions-ltd.json](./75772-astrohazard-solutions-ltd.json) |
 | Astroidle | 336115 | [336115-astroidle.json](./336115-astroidle.json) |
 | Astrojunk | 415320 | [415320-astrojunk.json](./415320-astrojunk.json) |
+| Astrokicker | 167981 | [167981-astrokicker.json](./167981-astrokicker.json) |
 | Astrokill | 35064 | [35064-astrokill.json](./35064-astrokill.json) |
 | Astrokings | 109915 | [109915-astrokings.json](./109915-astrokings.json) |
 | Astrolancer | 294943 | [294943-astrolancer.json](./294943-astrolancer.json) |
@@ -16795,7 +16796,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -18535,7 +18535,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azur Lane: Complete Deluxe Edition | 238327 | [238327-azur-lane-complete-deluxe-edition.json](./238327-azur-lane-complete-deluxe-edition.json) |
 | Azur Lane: Crosswave | 109475 | [109475-azur-lane-crosswave.json](./109475-azur-lane-crosswave.json) |
 | Azur Lane: Crosswave - Commanders Calendar Edition | 139918 | [139918-azur-lane-crosswave-commanders-calendar-edition.json](./139918-azur-lane-crosswave-commanders-calendar-edition.json) |
+| Azur Lane: Crosswave - Formidable | 167989 | [167989-azur-lane-crosswave-formidable.json](./167989-azur-lane-crosswave-formidable.json) |
+| Azur Lane: Crosswave - Le Malin | 167985 | [167985-azur-lane-crosswave-le-malin.json](./167985-azur-lane-crosswave-le-malin.json) |
 | Azur Lane: Crosswave - Limited Edition | 166972 | [166972-azur-lane-crosswave-limited-edition.json](./166972-azur-lane-crosswave-limited-edition.json) |
+| Azur Lane: Crosswave - Roon | 167988 | [167988-azur-lane-crosswave-roon.json](./167988-azur-lane-crosswave-roon.json) |
+| Azur Lane: Crosswave - Sirius | 167986 | [167986-azur-lane-crosswave-sirius.json](./167986-azur-lane-crosswave-sirius.json) |
+| Azur Lane: Crosswave - Taihou | 167987 | [167987-azur-lane-crosswave-taihou.json](./167987-azur-lane-crosswave-taihou.json) |
 | Azur Promilia | 292809 | [292809-azur-promilia.json](./292809-azur-promilia.json) |
 | Azura | 74218 | [74218-azura.json](./74218-azura.json) |
 | Azura's Crystals | 318352 | [318352-azuras-crystals.json](./318352-azuras-crystals.json) |
