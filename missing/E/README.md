@@ -6527,6 +6527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europe Geography | 228290 | [228290-europe-geography.json](./228290-europe-geography.json) |
 | Europe Heatwave Simulator | 409396 | [409396-europe-heatwave-simulator.json](./409396-europe-heatwave-simulator.json) |
 | Europe Racer | 16967 | [16967-europe-racer.json](./16967-europe-racer.json) |
+| Europe Truck Simulator | 174996 | [174996-europe-truck-simulator.json](./174996-europe-truck-simulator.json) |
 | European 2 | 70128 | [70128-european-2.json](./70128-european-2.json) |
 | European 5-A-Side | 92935 | [92935-european-5-a-side.json](./92935-european-5-a-side.json) |
 | European Air War | 685 | [685-european-air-war.json](./685-european-air-war.json) |
