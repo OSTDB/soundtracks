@@ -9622,6 +9622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foreign | 123837 | [123837-foreign.json](./123837-foreign.json) |
 | Foreign Affairs | 313850 | [313850-foreign-affairs.json](./313850-foreign-affairs.json) |
 | Foreign Body | 236549 | [236549-foreign-body.json](./236549-foreign-body.json) |
+| Foreign Dreams | 191982 | [191982-foreign-dreams.json](./191982-foreign-dreams.json) |
 | Foreign Fortress | 280557 | [280557-foreign-fortress.json](./280557-foreign-fortress.json) |
 | Foreign Frugglers | 118021 | [118021-foreign-frugglers.json](./118021-foreign-frugglers.json) |
 | Foreign Galaxies | 196232 | [196232-foreign-galaxies.json](./196232-foreign-galaxies.json) |
@@ -10617,6 +10618,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forty Thieves Solitaire Collection | 166679 | [166679-forty-thieves-solitaire-collection.json](./166679-forty-thieves-solitaire-collection.json) |
 | Forty-Love | 41080 | [41080-forty-love.json](./41080-forty-love.json) |
 | Forty-Niner | 295172 | [295172-forty-niner.json](./295172-forty-niner.json) |
+| Forum Fantasy: Prelich's Journey to Manhood | 191946 | [191946-forum-fantasy-prelichs-journey-to-manhood.json](./191946-forum-fantasy-prelichs-journey-to-manhood.json) |
+| Forum Fantasy: Prelich's Journey to Manhood - Kraken Edition | 191948 | [191948-forum-fantasy-prelichs-journey-to-manhood-kraken-edition.json](./191948-forum-fantasy-prelichs-journey-to-manhood-kraken-edition.json) |
 | Forum Mortuorum | 250807 | [250807-forum-mortuorum.json](./250807-forum-mortuorum.json) |
 | Forumwarz | 80161 | [80161-forumwarz.json](./80161-forumwarz.json) |
 | Forward | 178014 | [178014-forward.json](./178014-forward.json) |
