@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Battle Hasamuncho | 253760 | [253760-magic-battle-hasamuncho.json](./253760-magic-battle-hasamuncho.json) |
 | Magic Bean | 245154 | [245154-magic-bean.json](./245154-magic-bean.json) |
 | Magic Bean | 270997 | [270997-magic-bean.json](./270997-magic-bean.json) |
+| Magic Blast | 174960 | [174960-magic-blast.json](./174960-magic-blast.json) |
 | Magic Block | 48282 | [48282-magic-block.json](./48282-magic-block.json) |
 | Magic Book Auto Battler | 328257 | [328257-magic-book-auto-battler.json](./328257-magic-book-auto-battler.json) |
 | Magic Book Escape | 315673 | [315673-magic-book-escape.json](./315673-magic-book-escape.json) |
@@ -5973,6 +5974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -10205,6 +10207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Simulator 2 | 192002 | [192002-metro-simulator-2.json](./192002-metro-simulator-2.json) |
 | Metro Simulator: 'Oka' Liveries Pack | 344137 | [344137-metro-simulator-oka-liveries-pack.json](./344137-metro-simulator-oka-liveries-pack.json) |
 | Metro Simulator: 'Russia' Liveries Pack | 344136 | [344136-metro-simulator-russia-liveries-pack.json](./344136-metro-simulator-russia-liveries-pack.json) |
+| Metro Survival | 174955 | [174955-metro-survival.json](./174955-metro-survival.json) |
 | Metro Survival: Zombie Hunter | 174873 | [174873-metro-survival-zombie-hunter.json](./174873-metro-survival-zombie-hunter.json) |
 | Metro Trip Simulator | 404772 | [404772-metro-trip-simulator.json](./404772-metro-trip-simulator.json) |
 | Metro Warp | 19030 | [19030-metro-warp.json](./19030-metro-warp.json) |
@@ -22099,6 +22102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Ruin: A New Dawn | 150619 | [150619-mystic-ruin-a-new-dawn.json](./150619-mystic-ruin-a-new-dawn.json) |
 | Mystic Ruins | 106432 | [106432-mystic-ruins.json](./106432-mystic-ruins.json) |
 | Mystic RUS-files | 117635 | [117635-mystic-rus-files.json](./117635-mystic-rus-files.json) |
+| Mystic Saga | 174953 | [174953-mystic-saga.json](./174953-mystic-saga.json) |
 | Mystic Saga | 34123 | [34123-mystic-saga.json](./34123-mystic-saga.json) |
 | Mystic Shroom | 387061 | [387061-mystic-shroom.json](./387061-mystic-shroom.json) |
 | Mystic Stickerbook | 345252 | [345252-mystic-stickerbook.json](./345252-mystic-stickerbook.json) |
