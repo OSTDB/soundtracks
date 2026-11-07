@@ -3984,6 +3984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Blast | 91729 | [91729-sea-blast.json](./91729-sea-blast.json) |
 | Sea Blindness | 343428 | [343428-sea-blindness.json](./343428-sea-blindness.json) |
 | Sea Boy | 222723 | [222723-sea-boy.json](./222723-sea-boy.json) |
+| Sea Breeze | 180883 | [180883-sea-breeze.json](./180883-sea-breeze.json) |
 | Sea Bubble | 121329 | [121329-sea-bubble.json](./121329-sea-bubble.json) |
 | Sea Bubble Burst | 205833 | [205833-sea-bubble-burst.json](./205833-sea-bubble-burst.json) |
 | Sea Bunnies | 350568 | [350568-sea-bunnies.json](./350568-sea-bunnies.json) |
@@ -9954,6 +9955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sick | 168694 | [168694-sick.json](./168694-sick.json) |
 | Sick | 277612 | [277612-sick.json](./277612-sick.json) |
 | Sick Bricks | 23925 | [23925-sick-bricks.json](./23925-sick-bricks.json) |
+| Sick Business | 180911 | [180911-sick-business.json](./180911-sick-business.json) |
 | Sick City | 55007 | [55007-sick-city.json](./55007-sick-city.json) |
 | Sick Coaster | 82321 | [82321-sick-coaster.json](./82321-sick-coaster.json) |
 | Sick Generation: The Ghost of the Crane Catcher | 383974 | [383974-sick-generation-the-ghost-of-the-crane-catcher.json](./383974-sick-generation-the-ghost-of-the-crane-catcher.json) |
@@ -19027,6 +19029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundless: Final Verse | 282694 | [282694-soundless-final-verse.json](./282694-soundless-final-verse.json) |
 | SoundlessNightmare | 342541 | [342541-soundlessnightmare.json](./342541-soundlessnightmare.json) |
 | SoundLites | 90594 | [90594-soundlites.json](./90594-soundlites.json) |
+| Soundmarine | 180889 | [180889-soundmarine.json](./180889-soundmarine.json) |
 | Soundodger 2 | 140864 | [140864-soundodger-2.json](./140864-soundodger-2.json) |
 | Soundodger+ | 14408 | [14408-soundodger.json](./14408-soundodger.json) |
 | Soundrace | 334238 | [334238-soundrace.json](./334238-soundrace.json) |
@@ -19738,6 +19741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -23707,6 +23711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | St. Maria Village | 295315 | [295315-st-maria-village.json](./295315-st-maria-village.json) |
 | St. Nick | 42198 | [42198-st-nick.json](./42198-st-nick.json) |
 | St. Nick's: Dash Away All! | 184931 | [184931-st-nicks-dash-away-all.json](./184931-st-nicks-dash-away-all.json) |
+| St. Orchint's Orphanage | 180914 | [180914-st-orchints-orphanage.json](./180914-st-orchints-orphanage.json) |
 | St. Yariman's Little Black Book: Complete | 82980 | [82980-st-yarimans-little-black-book-complete.json](./82980-st-yarimans-little-black-book-complete.json) |
 | St/P | 97644 | [97644-st-p.json](./97644-st-p.json) |
 | Staars | 318918 | [318918-staars.json](./318918-staars.json) |
@@ -27371,6 +27376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storage Master | 212483 | [212483-storage-master.json](./212483-storage-master.json) |
 | Storage Warfare | 303220 | [303220-storage-warfare.json](./303220-storage-warfare.json) |
 | Store Empire | 332944 | [332944-store-empire.json](./332944-store-empire.json) |
+| Store Galore | 180915 | [180915-store-galore.json](./180915-store-galore.json) |
 | Store It! | 355035 | [355035-store-it.json](./355035-store-it.json) |
 | Store Keeper | 344985 | [344985-store-keeper.json](./344985-store-keeper.json) |
 | Store Manager: Cellular Edition | 34019 | [34019-store-manager-cellular-edition.json](./34019-store-manager-cellular-edition.json) |
@@ -29290,6 +29296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suburbia | 87278 | [87278-suburbia.json](./87278-suburbia.json) |
 | Suburbia Infinitum | 389844 | [389844-suburbia-infinitum.json](./389844-suburbia-infinitum.json) |
 | Suburi | 163710 | [163710-suburi.json](./163710-suburi.json) |
+| Subvenire Pluvia | 180885 | [180885-subvenire-pluvia.json](./180885-subvenire-pluvia.json) |
 | Subverse | 116848 | [116848-subverse.json](./116848-subverse.json) |
 | Subverse - Celestina Unbound | 414547 | [414547-subverse-celestina-unbound.json](./414547-subverse-celestina-unbound.json) |
 | Subversion | 79125 | [79125-subversion.json](./79125-subversion.json) |
@@ -34733,6 +34740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suspicious Shuffle | 219557 | [219557-suspicious-shuffle.json](./219557-suspicious-shuffle.json) |
 | Suspicious Slide | 127575 | [127575-suspicious-slide.json](./127575-suspicious-slide.json) |
 | Suspicious Spaceroads | 167546 | [167546-suspicious-spaceroads.json](./167546-suspicious-spaceroads.json) |
+| Suspirium | 180902 | [180902-suspirium.json](./180902-suspirium.json) |
 | Sussy Cat | 401075 | [401075-sussy-cat.json](./401075-sussy-cat.json) |
 | Sussy's Floppy Disk-venture | 204212 | [204212-sussys-floppy-disk-venture.json](./204212-sussys-floppy-disk-venture.json) |
 | Sustainable Shaun | 207839 | [207839-sustainable-shaun.json](./207839-sustainable-shaun.json) |
