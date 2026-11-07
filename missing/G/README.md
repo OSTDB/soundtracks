@@ -5126,6 +5126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloom Deluxe | 302768 | [302768-gloom-deluxe.json](./302768-gloom-deluxe.json) |
 | Gloom Gate | 417428 | [417428-gloom-gate.json](./417428-gloom-gate.json) |
 | Gloom Reaper | 256945 | [256945-gloom-reaper.json](./256945-gloom-reaper.json) |
+| Gloom Reducer | 185785 | [185785-gloom-reducer.json](./185785-gloom-reducer.json) |
 | Gloom: Digital Edition | 197770 | [197770-gloom-digital-edition.json](./197770-gloom-digital-edition.json) |
 | Gloom: Unhappy Homes | 168770 | [168770-gloom-unhappy-homes.json](./168770-gloom-unhappy-homes.json) |
 | Gloombase | 261171 | [261171-gloombase.json](./261171-gloombase.json) |
@@ -7128,6 +7129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodsol Solitaire 101 | 106896 | [106896-goodsol-solitaire-101.json](./106896-goodsol-solitaire-101.json) |
 | Goodwad | 262439 | [262439-goodwad.json](./262439-goodwad.json) |
 | Goodwill Scrolls | 338012 | [338012-goodwill-scrolls.json](./338012-goodwill-scrolls.json) |
+| Goody Bad Heroes | 185738 | [185738-goody-bad-heroes.json](./185738-goody-bad-heroes.json) |
 | Gooey | 368139 | [368139-gooey.json](./368139-gooey.json) |
 | Goof Ball | 78033 | [78033-goof-ball.json](./78033-goof-ball.json) |
 | Goof Troop | 325563 | [325563-goof-troop.json](./325563-goof-troop.json) |
