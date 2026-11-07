@@ -1422,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Tiger | 207973 | [207973-samurai-tiger.json](./207973-samurai-tiger.json) |
 | Samurai Trilogy | 37177 | [37177-samurai-trilogy.json](./37177-samurai-trilogy.json) |
 | Samurai Unicorn | 218856 | [218856-samurai-unicorn.json](./218856-samurai-unicorn.json) |
+| Samurai Vandalism | 159436 | [159436-samurai-vandalism.json](./159436-samurai-vandalism.json) |
 | Samurai VR | 251758 | [251758-samurai-vr.json](./251758-samurai-vr.json) |
 | Samurai vs Zombies Defense | 63402 | [63402-samurai-vs-zombies-defense.json](./63402-samurai-vs-zombies-defense.json) |
 | Samurai vs. Zombies Defense 2 | 127047 | [127047-samurai-vs-zombies-defense-2.json](./127047-samurai-vs-zombies-defense-2.json) |
@@ -10866,6 +10867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SilverStarChess | 147986 | [147986-silverstarchess.json](./147986-silverstarchess.json) |
 | Silverstone | 388049 | [388049-silverstone.json](./388049-silverstone.json) |
 | Silversword | 101539 | [101539-silversword.json](./101539-silversword.json) |
+| Silverwing | 159428 | [159428-silverwing.json](./159428-silverwing.json) |
 | Silverwood Bay: An Eleanor Grey Mystery | 291246 | [291246-silverwood-bay-an-eleanor-grey-mystery.json](./291246-silverwood-bay-an-eleanor-grey-mystery.json) |
 | Silverwood Bay: An Eleanor Grey Mystery - Collector's Edition | 426443 | [426443-silverwood-bay-an-eleanor-grey-mystery-collectors-edition.json](./426443-silverwood-bay-an-eleanor-grey-mystery-collectors-edition.json) |
 | Silverworld | 98770 | [98770-silverworld.json](./98770-silverworld.json) |
@@ -19839,6 +19841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -28015,6 +28018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strategy Rome in Flames | 188230 | [188230-strategy-rome-in-flames.json](./188230-strategy-rome-in-flames.json) |
 | Strategy Six-Pack | 86034 | [86034-strategy-six-pack.json](./86034-strategy-six-pack.json) |
 | Stratený v Európe | 81661 | [81661-strateny-v-europe.json](./81661-strateny-v-europe.json) |
+| StrateZ | 159432 | [159432-stratez.json](./159432-stratez.json) |
 | Stratform | 181246 | [181246-stratform.json](./181246-stratform.json) |
 | Strato | 35955 | [35955-strato.json](./35955-strato.json) |
 | Strato Breaker | 235357 | [235357-strato-breaker.json](./235357-strato-breaker.json) |
@@ -30364,6 +30368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SumoRoll | 410044 | [410044-sumoroll.json](./410044-sumoroll.json) |
 | Sumou | 385812 | [385812-sumou.json](./385812-sumou.json) |
 | Sump | 278460 | [278460-sump.json](./278460-sump.json) |
+| Sumple | 159451 | [159451-sumple.json](./159451-sumple.json) |
 | Sumrak | 321444 | [321444-sumrak.json](./321444-sumrak.json) |
 | SUMS | 246563 | [246563-sums.json](./246563-sums.json) |
 | Sumtune | 236399 | [236399-sumtune.json](./236399-sumtune.json) |
@@ -30937,6 +30942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Boy I | 41754 | [41754-super-boy-i.json](./41754-super-boy-i.json) |
 | Super Boy II | 41753 | [41753-super-boy-ii.json](./41753-super-boy-ii.json) |
 | Super Boy III | 47524 | [47524-super-boy-iii.json](./47524-super-boy-iii.json) |
+| Super Brain Cube | 159435 | [159435-super-brain-cube.json](./159435-super-brain-cube.json) |
 | Super Brain Eat 3 | 63854 | [63854-super-brain-eat-3.json](./63854-super-brain-eat-3.json) |
 | Super Brain Tease: Football Edition | 123456 | [123456-super-brain-tease-football-edition.json](./123456-super-brain-tease-football-edition.json) |
 | Super Brawl | 63640 | [63640-super-brawl.json](./63640-super-brawl.json) |
