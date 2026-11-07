@@ -13513,6 +13513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Luffman Experiment | 407561 | [407561-the-luffman-experiment.json](./407561-the-luffman-experiment.json) |
 | The Lumenites | 275367 | [275367-the-lumenites.json](./275367-the-lumenites.json) |
 | The Luminist | 120972 | [120972-the-luminist.json](./120972-the-luminist.json) |
+| The Luminous Underground | 159951 | [159951-the-luminous-underground.json](./159951-the-luminous-underground.json) |
 | The Lunar Effect | 144746 | [144746-the-lunar-effect.json](./144746-the-lunar-effect.json) |
 | The Lunar Pack | 25502 | [25502-the-lunar-pack.json](./25502-the-lunar-pack.json) |
 | The Lunatic | 181197 | [181197-the-lunatic.json](./181197-the-lunatic.json) |
@@ -13864,6 +13865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Midnight Bus | 314736 | [314736-the-midnight-bus.json](./314736-the-midnight-bus.json) |
 | The Midnight Crimes | 258646 | [258646-the-midnight-crimes.json](./258646-the-midnight-crimes.json) |
 | The Midnight Dance | 214899 | [214899-the-midnight-dance.json](./214899-the-midnight-dance.json) |
+| The Midnight Eater | 159957 | [159957-the-midnight-eater.json](./159957-the-midnight-eater.json) |
 | The Midnight Exorcist | 349230 | [349230-the-midnight-exorcist.json](./349230-the-midnight-exorcist.json) |
 | The Midnight Game | 379914 | [379914-the-midnight-game.json](./379914-the-midnight-game.json) |
 | The Midnight Lapse: Reborn | 26984 | [26984-the-midnight-lapse-reborn.json](./26984-the-midnight-lapse-reborn.json) |
@@ -15835,6 +15837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Road to Canterbury | 96661 | [96661-the-road-to-canterbury.json](./96661-the-road-to-canterbury.json) |
 | The Road to Disorder | 175691 | [175691-the-road-to-disorder.json](./175691-the-road-to-disorder.json) |
 | The Road To Druaga | 339383 | [339383-the-road-to-druaga.json](./339383-the-road-to-druaga.json) |
+| The Road to Gelendzhik Palace | 159993 | [159993-the-road-to-gelendzhik-palace.json](./159993-the-road-to-gelendzhik-palace.json) |
 | The Road to Gettysburg | 24885 | [24885-the-road-to-gettysburg.json](./24885-the-road-to-gettysburg.json) |
 | The Road to Hades | 96354 | [96354-the-road-to-hades.json](./96354-the-road-to-hades.json) |
 | The Road To Harvest: Food From Across The Ocean | 328105 | [328105-the-road-to-harvest-food-from-across-the-ocean.json](./328105-the-road-to-harvest-food-from-across-the-ocean.json) |
