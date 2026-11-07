@@ -801,6 +801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painterboy | 47198 | [47198-painterboy.json](./47198-painterboy.json) |
 | Painters Guild | 20345 | [20345-painters-guild.json](./20345-painters-guild.json) |
 | Paintey | 33467 | [33467-paintey.json](./33467-paintey.json) |
+| Paintiles | 188218 | [188218-paintiles.json](./188218-paintiles.json) |
 | Painting Christmas with Tito | 97160 | [97160-painting-christmas-with-tito.json](./97160-painting-christmas-with-tito.json) |
 | Painting Mel-chan | 237505 | [237505-painting-mel-chan.json](./237505-painting-mel-chan.json) |
 | Painting PC | 409352 | [409352-painting-pc.json](./409352-painting-pc.json) |
@@ -10329,6 +10330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Card Jockey | 18196 | [18196-pocket-card-jockey.json](./18196-pocket-card-jockey.json) |
 | Pocket Card Jockey: Ride On! | 230543 | [230543-pocket-card-jockey-ride-on.json](./230543-pocket-card-jockey-ride-on.json) |
 | Pocket Chibi - Anime Dress Up | 104454 | [104454-pocket-chibi-anime-dress-up.json](./104454-pocket-chibi-anime-dress-up.json) |
+| Pocket Circuit | 188202 | [188202-pocket-circuit.json](./188202-pocket-circuit.json) |
 | Pocket City | 79996 | [79996-pocket-city.json](./79996-pocket-city.json) |
 | Pocket City 2 | 228137 | [228137-pocket-city-2.json](./228137-pocket-city-2.json) |
 | Pocket Clothier | 102632 | [102632-pocket-clothier.json](./102632-pocket-clothier.json) |
@@ -17518,6 +17520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punching Storm | 358332 | [358332-punching-storm.json](./358332-punching-storm.json) |
 | Punchline | 291572 | [291572-punchline.json](./291572-punchline.json) |
 | Punchline!! | 130189 | [130189-punchline.json](./130189-punchline.json) |
+| Punchman | 188159 | [188159-punchman.json](./188159-punchman.json) |
 | PunchMan Online | 182234 | [182234-punchman-online.json](./182234-punchman-online.json) |
 | Punchmasters | 196341 | [196341-punchmasters.json](./196341-punchmasters.json) |
 | Punchout: Music | 150903 | [150903-punchout-music.json](./150903-punchout-music.json) |
@@ -18824,6 +18827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pwn! | 341318 | [341318-pwn.json](./341318-pwn.json) |
 | Pwnd | 56095 | [56095-pwnd.json](./56095-pwnd.json) |
 | Pwned | 68517 | [68517-pwned.json](./68517-pwned.json) |
+| Pwnk | 188199 | [188199-pwnk.json](./188199-pwnk.json) |
 | Pwny Xpress | 183313 | [183313-pwny-xpress.json](./183313-pwny-xpress.json) |
 | Pwnz! | 240833 | [240833-pwnz.json](./240833-pwnz.json) |
 | Pwong | 419093 | [419093-pwong.json](./419093-pwong.json) |
