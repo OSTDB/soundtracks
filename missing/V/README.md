@@ -3265,6 +3265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void And Rainbow | 256875 | [256875-void-and-rainbow.json](./256875-void-and-rainbow.json) |
 | Void Arena | 155844 | [155844-void-arena.json](./155844-void-arena.json) |
 | Void Authority | 355041 | [355041-void-authority.json](./355041-void-authority.json) |
+| Void Bastards: Deluxe Bundle | 164659 | [164659-void-bastards-deluxe-bundle.json](./164659-void-bastards-deluxe-bundle.json) |
 | Void Blitzing | 236505 | [236505-void-blitzing.json](./236505-void-blitzing.json) |
 | Void Bound | 244055 | [244055-void-bound.json](./244055-void-bound.json) |
 | Void Breach | 127708 | [127708-void-breach.json](./127708-void-breach.json) |
