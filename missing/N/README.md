@@ -923,6 +923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nations of Darkness | 233484 | [233484-nations-of-darkness.json](./233484-nations-of-darkness.json) |
 | Nations: WWII Fighter Command | 62210 | [62210-nations-wwii-fighter-command.json](./62210-nations-wwii-fighter-command.json) |
 | NationStates | 58127 | [58127-nationstates.json](./58127-nationstates.json) |
+| NationWar: Annals | 173940 | [173940-nationwar-annals.json](./173940-nationwar-annals.json) |
 | Nationwide Academic Check Junior High Level | 399663 | [399663-nationwide-academic-check-junior-high-level.json](./399663-nationwide-academic-check-junior-high-level.json) |
 | NationZero | 422650 | [422650-nationzero.json](./422650-nationzero.json) |
 | Native | 270274 | [270274-native.json](./270274-native.json) |
