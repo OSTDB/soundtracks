@@ -969,7 +969,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3742,6 +3741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for Wesnoth HD | 94778 | [94778-battle-for-wesnoth-hd.json](./94778-battle-for-wesnoth-hd.json) |
 | Battle for Wesnoth Legacy | 207873 | [207873-battle-for-wesnoth-legacy.json](./207873-battle-for-wesnoth-legacy.json) |
 | Battle Force | 386176 | [386176-battle-force.json](./386176-battle-force.json) |
+| Battle Force 2249 | 167979 | [167979-battle-force-2249.json](./167979-battle-force-2249.json) |
 | Battle Forces | 213671 | [213671-battle-forces.json](./213671-battle-forces.json) |
 | Battle Forever | 32879 | [32879-battle-forever.json](./32879-battle-forever.json) |
 | Battle Formation | 218828 | [218828-battle-formation.json](./218828-battle-formation.json) |
