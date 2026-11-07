@@ -5225,6 +5225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Deep Deep Nightmare | 273780 | [273780-deep-deep-deep-nightmare.json](./273780-deep-deep-deep-nightmare.json) |
 | Deep Deep Dungeon | 175132 | [175132-deep-deep-dungeon.json](./175132-deep-deep-dungeon.json) |
 | Deep Despair | 129641 | [129641-deep-despair.json](./129641-deep-despair.json) |
+| Deep Despair 2 | 172885 | [172885-deep-despair-2.json](./172885-deep-despair-2.json) |
 | Deep Despair 3 | 320554 | [320554-deep-despair-3.json](./320554-deep-despair-3.json) |
 | Deep Dish Dungeon | 298680 | [298680-deep-dish-dungeon.json](./298680-deep-dish-dungeon.json) |
 | Deep Dive | 120892 | [120892-deep-dive.json](./120892-deep-dive.json) |
@@ -11332,6 +11333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do Disciplinary Committee Members Dream of Succubi? | 405981 | [405981-do-disciplinary-committee-members-dream-of-succubi.json](./405981-do-disciplinary-committee-members-dream-of-succubi.json) |
 | Do Dishes As Spencer | 327284 | [327284-do-dishes-as-spencer.json](./327284-do-dishes-as-spencer.json) |
 | Do Goats Dream of Golden Grass? | 394981 | [394981-do-goats-dream-of-golden-grass.json](./394981-do-goats-dream-of-golden-grass.json) |
+| Do I Feel? | 172892 | [172892-do-i-feel.json](./172892-do-i-feel.json) |
 | Do I Have a Right? | 207871 | [207871-do-i-have-a-right.json](./207871-do-i-have-a-right.json) |
 | Do I Know You? | 274334 | [274334-do-i-know-you.json](./274334-do-i-know-you.json) |
 | Do I Pass? | 179738 | [179738-do-i-pass.json](./179738-do-i-pass.json) |
@@ -11896,6 +11898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doka 2: Guts Out Ninja | 114386 | [114386-doka-2-guts-out-ninja.json](./114386-doka-2-guts-out-ninja.json) |
 | Doka 2: Kishki Edition | 111387 | [111387-doka-2-kishki-edition.json](./111387-doka-2-kishki-edition.json) |
 | Doka-chan no Onigokko | 234039 | [234039-doka-chan-no-onigokko.json](./234039-doka-chan-no-onigokko.json) |
+| Doka-fli | 172866 | [172866-doka-fli.json](./172866-doka-fli.json) |
 | Dokaben | 40103 | [40103-dokaben.json](./40103-dokaben.json) |
 | Dokapon | 79598 | [79598-dokapon.json](./79598-dokapon.json) |
 | Dokapon 3-2-1: Arashi wo Yobu Yuujou | 38133 | [38133-dokapon-3-2-1-arashi-wo-yobu-yuujou.json](./38133-dokapon-3-2-1-arashi-wo-yobu-yuujou.json) |
@@ -13189,6 +13192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Troopers: Mutant Chronicles | 4544 | [4544-doom-troopers-mutant-chronicles.json](./4544-doom-troopers-mutant-chronicles.json) |
 | Doom Ultimate Enhanced | 198487 | [198487-doom-ultimate-enhanced.json](./198487-doom-ultimate-enhanced.json) |
 | Doom Warrior | 59860 | [59860-doom-warrior.json](./59860-doom-warrior.json) |
+| Doom Work | 172889 | [172889-doom-work.json](./172889-doom-work.json) |
 | Doom Zero | 142176 | [142176-doom-zero.json](./142176-doom-zero.json) |
 | Doom: A Very Graphic Adventure | 320788 | [320788-doom-a-very-graphic-adventure.json](./320788-doom-a-very-graphic-adventure.json) |
 | Doom: Barracks Zone | 260825 | [260825-doom-barracks-zone.json](./260825-doom-barracks-zone.json) |
@@ -16968,6 +16972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone: Remote Tactical Warfare | 43173 | [43173-drone-remote-tactical-warfare.json](./43173-drone-remote-tactical-warfare.json) |
 | Droned | 207738 | [207738-droned.json](./207738-droned.json) |
 | Dronelord Hyperviber | 384615 | [384615-dronelord-hyperviber.json](./384615-dronelord-hyperviber.json) |
+| DroneRidge | 172860 | [172860-droneridge.json](./172860-droneridge.json) |
 | Dronerush | 414065 | [414065-dronerush.json](./414065-dronerush.json) |
 | Drones | 119566 | [119566-drones.json](./119566-drones.json) |
 | Drones | 411975 | [411975-drones.json](./411975-drones.json) |
