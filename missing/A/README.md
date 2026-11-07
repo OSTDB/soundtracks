@@ -1521,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Wolf In Sheep's Clothing | 281590 | [281590-a-wolf-in-sheeps-clothing.json](./281590-a-wolf-in-sheeps-clothing.json) |
 | A Woman for All Seasons | 323217 | [323217-a-woman-for-all-seasons.json](./323217-a-woman-for-all-seasons.json) |
 | A Wonder | 75164 | [75164-a-wonder.json](./75164-a-wonder.json) |
+| A Wonderful Day For Fishing | 186965 | [186965-a-wonderful-day-for-fishing.json](./186965-a-wonderful-day-for-fishing.json) |
 | A Work of Art | 319801 | [319801-a-work-of-art.json](./319801-a-work-of-art.json) |
 | A Worker's Guide to Espionage | 144245 | [144245-a-workers-guide-to-espionage.json](./144245-a-workers-guide-to-espionage.json) |
 | A Workplace With No People | 146096 | [146096-a-workplace-with-no-people.json](./146096-a-workplace-with-no-people.json) |
