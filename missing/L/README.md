@@ -4868,6 +4868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lighter Than AR | 96460 | [96460-lighter-than-ar.json](./96460-lighter-than-ar.json) |
 | LightFall | 234201 | [234201-lightfall.json](./234201-lightfall.json) |
 | Lightfield Hyper Edition | 118577 | [118577-lightfield-hyper-edition.json](./118577-lightfield-hyper-edition.json) |
+| Lightfield: Kartridge Edition | 186350 | [186350-lightfield-kartridge-edition.json](./186350-lightfield-kartridge-edition.json) |
 | Lightfire Defense | 207585 | [207585-lightfire-defense.json](./207585-lightfire-defense.json) |
 | Lightfish | 16271 | [16271-lightfish.json](./16271-lightfish.json) |
 | Lightforce | 28823 | [28823-lightforce.json](./28823-lightforce.json) |
@@ -5426,6 +5427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linear Racing | 195046 | [195046-linear-racing.json](./195046-linear-racing.json) |
 | Linear S | 349331 | [349331-linear-s.json](./349331-linear-s.json) |
 | LinearChicken | 97274 | [97274-linearchicken.json](./97274-linearchicken.json) |
+| Linearity | 186219 | [186219-linearity.json](./186219-linearity.json) |
 | LinearShooter Remixed | 186327 | [186327-linearshooter-remixed.json](./186327-linearshooter-remixed.json) |
 | LineArt Jigsaw Puzzle: Airplanes | 286239 | [286239-lineart-jigsaw-puzzle-airplanes.json](./286239-lineart-jigsaw-puzzle-airplanes.json) |
 | LineArt Jigsaw Puzzle: Erotica | 286383 | [286383-lineart-jigsaw-puzzle-erotica.json](./286383-lineart-jigsaw-puzzle-erotica.json) |
