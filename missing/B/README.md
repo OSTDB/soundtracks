@@ -970,7 +970,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7186,6 +7185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond the Wall | 80968 | [80968-beyond-the-wall.json](./80968-beyond-the-wall.json) |
 | Beyond the Wall of Stars | 68684 | [68684-beyond-the-wall-of-stars.json](./68684-beyond-the-wall-of-stars.json) |
 | Beyond The Walls | 303548 | [303548-beyond-the-walls.json](./303548-beyond-the-walls.json) |
+| Beyond the Waterfalls | 159437 | [159437-beyond-the-waterfalls.json](./159437-beyond-the-waterfalls.json) |
 | Beyond the Wire | 131957 | [131957-beyond-the-wire.json](./131957-beyond-the-wire.json) |
 | Beyond the Wizard | 119666 | [119666-beyond-the-wizard.json](./119666-beyond-the-wizard.json) |
 | Beyond These Stars | 239002 | [239002-beyond-these-stars.json](./239002-beyond-these-stars.json) |
@@ -7603,6 +7603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Mutha Truckers 2 | 5748 | [5748-big-mutha-truckers-2.json](./5748-big-mutha-truckers-2.json) |
 | Big Name: City Lovin | 231971 | [231971-big-name-city-lovin.json](./231971-big-name-city-lovin.json) |
 | Big Names Bonanza | 19683 | [19683-big-names-bonanza.json](./19683-big-names-bonanza.json) |
+| Big Neon Tower vs. Tiny Square | 159438 | [159438-big-neon-tower-vs-tiny-square.json](./159438-big-neon-tower-vs-tiny-square.json) |
 | Big Nose and the Witchdoctor | 233993 | [233993-big-nose-and-the-witchdoctor.json](./233993-big-nose-and-the-witchdoctor.json) |
 | Big Nose Freaks Out | 48105 | [48105-big-nose-freaks-out.json](./48105-big-nose-freaks-out.json) |
 | Big Nose the Caveman | 11960 | [11960-big-nose-the-caveman.json](./11960-big-nose-the-caveman.json) |
@@ -7774,6 +7775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Jump | 203701 | [203701-bike-jump.json](./203701-bike-jump.json) |
 | Bike Mayhem 2 | 21319 | [21319-bike-mayhem-2.json](./21319-bike-mayhem-2.json) |
 | Bike Mechanic Simulator 2023 | 199766 | [199766-bike-mechanic-simulator-2023.json](./199766-bike-mechanic-simulator-2023.json) |
+| Bike Messenger | 159466 | [159466-bike-messenger.json](./159466-bike-messenger.json) |
 | Bike of the Wild | 75318 | [75318-bike-of-the-wild.json](./75318-bike-of-the-wild.json) |
 | Bike Offroad Simulator | 248033 | [248033-bike-offroad-simulator.json](./248033-bike-offroad-simulator.json) |
 | Bike Park Simulator: BMX, Dirt Jump & MTB | 326473 | [326473-bike-park-simulator-bmx-dirt-jump-and-mtb.json](./326473-bike-park-simulator-bmx-dirt-jump-and-mtb.json) |
@@ -15821,6 +15823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brightfall | 378215 | [378215-brightfall.json](./378215-brightfall.json) |
 | BrightGunner | 343585 | [343585-brightgunner.json](./343585-brightgunner.json) |
 | Brightis | 128192 | [128192-brightis.json](./128192-brightis.json) |
+| BrightSeeker | 159459 | [159459-brightseeker.json](./159459-brightseeker.json) |
 | Brightside | 404695 | [404695-brightside.json](./404695-brightside.json) |
 | Brightstone Mysteries: The Others | 234630 | [234630-brightstone-mysteries-the-others.json](./234630-brightstone-mysteries-the-others.json) |
 | Brigitte: Ernaehrungs Coach | 269678 | [269678-brigitte-ernaehrungs-coach.json](./269678-brigitte-ernaehrungs-coach.json) |
