@@ -1367,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handy | 120835 | [120835-handy.json](./120835-handy.json) |
 | Handy Caps | 73728 | [73728-handy-caps.json](./73728-handy-caps.json) |
 | Handy Dandy | 132418 | [132418-handy-dandy.json](./132418-handy-dandy.json) |
+| Handy Dice | 149153 | [149153-handy-dice.json](./149153-handy-dice.json) |
 | Handy Farm: Roguelike | 385602 | [385602-handy-farm-roguelike.json](./385602-handy-farm-roguelike.json) |
 | Handy Harry's Haunted House Services | 143508 | [143508-handy-harrys-haunted-house-services.json](./143508-handy-harrys-haunted-house-services.json) |
 | Handy Harvy | 142068 | [142068-handy-harvy.json](./142068-handy-harvy.json) |
@@ -2173,6 +2174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harpy Gaiden | 130551 | [130551-harpy-gaiden.json](./130551-harpy-gaiden.json) |
 | Harpy Monster Bird Simulator 3D | 88802 | [88802-harpy-monster-bird-simulator-3d.json](./88802-harpy-monster-bird-simulator-3d.json) |
 | Harpy Raiders | 248024 | [248024-harpy-raiders.json](./248024-harpy-raiders.json) |
+| Harpy Star | 149148 | [149148-harpy-star.json](./149148-harpy-star.json) |
 | Harpy's Curse | 332393 | [332393-harpys-curse.json](./332393-harpys-curse.json) |
 | Harrier 2001 | 209862 | [209862-harrier-2001.json](./209862-harrier-2001.json) |
 | Harrier 7 | 94412 | [94412-harrier-7.json](./94412-harrier-7.json) |
@@ -3004,6 +3006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hayo and the Emporium | 342298 | [342298-hayo-and-the-emporium.json](./342298-hayo-and-the-emporium.json) |
 | Haypi Monster 3 | 129610 | [129610-haypi-monster-3.json](./129610-haypi-monster-3.json) |
 | Haypi Monster: The Lost Tower | 392105 | [392105-haypi-monster-the-lost-tower.json](./392105-haypi-monster-the-lost-tower.json) |
+| Haywire | 149133 | [149133-haywire.json](./149133-haywire.json) |
 | Haywire | 180825 | [180825-haywire.json](./180825-haywire.json) |
 | Haywire | 400380 | [400380-haywire.json](./400380-haywire.json) |
 | Haywire Hospital | 233639 | [233639-haywire-hospital.json](./233639-haywire-hospital.json) |
@@ -6019,6 +6022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Stickman | 346653 | [346653-hero-stickman.json](./346653-hero-stickman.json) |
 | Hero Survival | 250719 | [250719-hero-survival.json](./250719-hero-survival.json) |
 | Hero Swing VR | 120667 | [120667-hero-swing-vr.json](./120667-hero-swing-vr.json) |
+| Hero Sword | 149131 | [149131-hero-sword.json](./149131-hero-sword.json) |
 | Hero Sword | 299399 | [299399-hero-sword.json](./299399-hero-sword.json) |
 | Hero Syndrome | 129522 | [129522-hero-syndrome.json](./129522-hero-syndrome.json) |
 | Hero Tactics | 181921 | [181921-hero-tactics.json](./181921-hero-tactics.json) |
@@ -7713,6 +7717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Sidin': Hyphy Edition | 325042 | [325042-high-sidin-hyphy-edition.json](./325042-high-sidin-hyphy-edition.json) |
 | High Smileson | 151346 | [151346-high-smileson.json](./151346-high-smileson.json) |
 | High Speed Bridge Racing | 104374 | [104374-high-speed-bridge-racing.json](./104374-high-speed-bridge-racing.json) |
+| High Speed Cataclysm | 149112 | [149112-high-speed-cataclysm.json](./149112-high-speed-cataclysm.json) |
 | High Speed Extreme Bike Race Game: Space Heroes | 102263 | [102263-high-speed-extreme-bike-race-game-space-heroes.json](./102263-high-speed-extreme-bike-race-game-space-heroes.json) |
 | High Speed Extreme Racing | 220822 | [220822-high-speed-extreme-racing.json](./220822-high-speed-extreme-racing.json) |
 | High Speed Race: Need for Asphalt Racing | 314541 | [314541-high-speed-race-need-for-asphalt-racing.json](./314541-high-speed-race-need-for-asphalt-racing.json) |
