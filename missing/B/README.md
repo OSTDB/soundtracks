@@ -15104,6 +15104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawler Friends | 58186 | [58186-brawler-friends.json](./58186-brawler-friends.json) |
 | Brawlers | 266240 | [266240-brawlers.json](./266240-brawlers.json) |
 | Brawlers of Duality | 310500 | [310500-brawlers-of-duality.json](./310500-brawlers-of-duality.json) |
+| Brawlers Tavern | 141363 | [141363-brawlers-tavern.json](./141363-brawlers-tavern.json) |
 | Brawlerz Zombies | 239437 | [239437-brawlerz-zombies.json](./239437-brawlerz-zombies.json) |
 | Brawlerz: Nitro | 28433 | [28433-brawlerz-nitro.json](./28433-brawlerz-nitro.json) |
 | Brawlforming | 178159 | [178159-brawlforming.json](./178159-brawlforming.json) |
