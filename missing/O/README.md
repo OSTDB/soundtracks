@@ -4106,6 +4106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ordesa | 364599 | [364599-ordesa.json](./364599-ordesa.json) |
 | Ordinary Day | 236418 | [236418-ordinary-day.json](./236418-ordinary-day.json) |
 | Ordinary Family | 126433 | [126433-ordinary-family.json](./126433-ordinary-family.json) |
+| Ordinary Human Game | 164653 | [164653-ordinary-human-game.json](./164653-ordinary-human-game.json) |
 | Ordinary Oddness | 425220 | [425220-ordinary-oddness.json](./425220-ordinary-oddness.json) |
 | Ordinary Rooms | 253237 | [253237-ordinary-rooms.json](./253237-ordinary-rooms.json) |
 | Ordinary Stickman Goes For A Walk | 289245 | [289245-ordinary-stickman-goes-for-a-walk.json](./289245-ordinary-stickman-goes-for-a-walk.json) |
@@ -5167,6 +5168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Hideous Hallucinations Collection | 331429 | [331429-outbreak-hideous-hallucinations-collection.json](./331429-outbreak-hideous-hallucinations-collection.json) |
 | Outbreak: Loremaker Collection | 331431 | [331431-outbreak-loremaker-collection.json](./331431-outbreak-loremaker-collection.json) |
 | Outbreak: Lost Hope - Broken Faith | 261360 | [261360-outbreak-lost-hope-broken-faith.json](./261360-outbreak-lost-hope-broken-faith.json) |
+| Outbreak: Lost Hope - Definitive Edition | 164667 | [164667-outbreak-lost-hope-definitive-edition.json](./164667-outbreak-lost-hope-definitive-edition.json) |
 | Outbreak: Palladium Collection | 196278 | [196278-outbreak-palladium-collection.json](./196278-outbreak-palladium-collection.json) |
 | Outbreak: Pandemic Evolution | 33504 | [33504-outbreak-pandemic-evolution.json](./33504-outbreak-pandemic-evolution.json) |
 | Outbreak: Phantasmagoria Collection | 331428 | [331428-outbreak-phantasmagoria-collection.json](./331428-outbreak-phantasmagoria-collection.json) |
