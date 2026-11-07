@@ -5980,6 +5980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -18456,6 +18457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moxie 2 | 174325 | [174325-moxie-2.json](./174325-moxie-2.json) |
 | Moxie 2 // Overdrive | 422460 | [422460-moxie-2-overdrive.json](./422460-moxie-2-overdrive.json) |
 | Moxie Girlz | 92466 | [92466-moxie-girlz.json](./92466-moxie-girlz.json) |
+| Moxie's Lemon | 166911 | [166911-moxies-lemon.json](./166911-moxies-lemon.json) |
 | Mòxīn: Bōyún Guǐchuán | 156922 | [156922-moxin-boyun-guichuan.json](./156922-moxin-boyun-guichuan.json) |
 | Moxina | 148191 | [148191-moxina.json](./148191-moxina.json) |
 | Moy 6 | 228897 | [228897-moy-6.json](./228897-moy-6.json) |
