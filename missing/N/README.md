@@ -2747,6 +2747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerd Survivors | 272740 | [272740-nerd-survivors.json](./272740-nerd-survivors.json) |
 | Nerd: Tracing Dayline | 318273 | [318273-nerd-tracing-dayline.json](./318273-nerd-tracing-dayline.json) |
 | Nerd's Guide to Surviving High School | 210369 | [210369-nerds-guide-to-surviving-high-school.json](./210369-nerds-guide-to-surviving-high-school.json) |
+| Nerdland | 155277 | [155277-nerdland.json](./155277-nerdland.json) |
 | Nerdle | 289136 | [289136-nerdle.json](./289136-nerdle.json) |
 | Nerdook Bundle Vol. 1 | 147664 | [147664-nerdook-bundle-vol-1.json](./147664-nerdook-bundle-vol-1.json) |
 | Nerds & Ammo | 391585 | [391585-nerds-and-ammo.json](./391585-nerds-and-ammo.json) |
@@ -4879,6 +4880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niko: Through the Dream | 17323 | [17323-niko-through-the-dream.json](./17323-niko-through-the-dream.json) |
 | Nikoderiko: The Magical World | 305108 | [305108-nikoderiko-the-magical-world.json](./305108-nikoderiko-the-magical-world.json) |
 | Nikoderiko: The Magical World - Director’s Cut | 340988 | [340988-nikoderiko-the-magical-world-director-s-cut.json](./340988-nikoderiko-the-magical-world-director-s-cut.json) |
+| Nikola Tesla: War of the Currents | 155288 | [155288-nikola-tesla-war-of-the-currents.json](./155288-nikola-tesla-war-of-the-currents.json) |
 | Nikola's Fate | 329678 | [329678-nikolas-fate.json](./329678-nikolas-fate.json) |
 | Nikolai in Outer Space | 209394 | [209394-nikolai-in-outer-space.json](./209394-nikolai-in-outer-space.json) |
 | Nikolai's Knights | 205127 | [205127-nikolais-knights.json](./205127-nikolais-knights.json) |
@@ -6001,6 +6003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Trace | 36754 | [36754-no-trace.json](./36754-no-trace.json) |
 | No Transmission | 183070 | [183070-no-transmission.json](./183070-no-transmission.json) |
 | No Turning Back: The Pixel Art Action-Adventure Roguelike | 35547 | [35547-no-turning-back-the-pixel-art-action-adventure-roguelike.json](./35547-no-turning-back-the-pixel-art-action-adventure-roguelike.json) |
+| No Turning Back: The Pixel Art Action-Adventure Roguelike - Potions Starter Pack | 155266 | [155266-no-turning-back-the-pixel-art-action-adventure-roguelike-potions-starter-pack.json](./155266-no-turning-back-the-pixel-art-action-adventure-roguelike-potions-starter-pack.json) |
 | No Umbrellas Allowed | 137436 | [137436-no-umbrellas-allowed.json](./137436-no-umbrellas-allowed.json) |
 | No Vacancy Tonight | 267829 | [267829-no-vacancy-tonight.json](./267829-no-vacancy-tonight.json) |
 | No Vacation for an Executioner | 305539 | [305539-no-vacation-for-an-executioner.json](./305539-no-vacation-for-an-executioner.json) |
