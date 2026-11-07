@@ -4277,6 +4277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat's Cradle | 151471 | [151471-cats-cradle.json](./151471-cats-cradle.json) |
 | Cat's Dream | 325900 | [325900-cats-dream.json](./325900-cats-dream.json) |
 | Cat's Kiss | 152296 | [152296-cats-kiss.json](./152296-cats-kiss.json) |
+| Cat's Life Jigsaw Puzzles | 151352 | [151352-cats-life-jigsaw-puzzles.json](./151352-cats-life-jigsaw-puzzles.json) |
 | Cat's Menace | 166878 | [166878-cats-menace.json](./166878-cats-menace.json) |
 | Cat's Meow Live Wallpaper | 402102 | [402102-cats-meow-live-wallpaper.json](./402102-cats-meow-live-wallpaper.json) |
 | Cat's Princess | 150770 | [150770-cats-princess.json](./150770-cats-princess.json) |
@@ -7816,6 +7817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choco Clicker World | 344547 | [344547-choco-clicker-world.json](./344547-choco-clicker-world.json) |
 | Choco Kiosk Simulator | 363019 | [363019-choco-kiosk-simulator.json](./363019-choco-kiosk-simulator.json) |
 | Choco Pixel 2 | 129452 | [129452-choco-pixel-2.json](./129452-choco-pixel-2.json) |
+| Choco Pixel 3 | 151366 | [151366-choco-pixel-3.json](./151366-choco-pixel-3.json) |
 | Choco Pixel 4 | 157448 | [157448-choco-pixel-4.json](./157448-choco-pixel-4.json) |
 | Choco Pixel 5 | 158104 | [158104-choco-pixel-5.json](./158104-choco-pixel-5.json) |
 | Choco Pixel 6 | 158060 | [158060-choco-pixel-6.json](./158060-choco-pixel-6.json) |
@@ -12308,6 +12310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color.Motif Deluxe | 126198 | [126198-color-motif-deluxe.json](./126198-color-motif-deluxe.json) |
 | Colorace | 402659 | [402659-colorace.json](./402659-colorace.json) |
 | Colorado | 10851 | [10851-colorado.json](./10851-colorado.json) |
+| Colorado Cocoa Club | 151351 | [151351-colorado-cocoa-club.json](./151351-colorado-cocoa-club.json) |
 | Colorado Rail Game | 390682 | [390682-colorado-rail-game.json](./390682-colorado-rail-game.json) |
 | Colorama Cubes | 308302 | [308302-colorama-cubes.json](./308302-colorama-cubes.json) |
 | Coloramba! | 200036 | [200036-coloramba.json](./200036-coloramba.json) |
@@ -12374,6 +12377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Book - Travel MAX | 95296 | [95296-coloring-book-travel-max.json](./95296-coloring-book-travel-max.json) |
 | Coloring Book - Yummies | 89528 | [89528-coloring-book-yummies.json](./89528-coloring-book-yummies.json) |
 | Coloring Book - ZOO MAX | 100656 | [100656-coloring-book-zoo-max.json](./100656-coloring-book-zoo-max.json) |
+| Coloring Book for Adults | 151330 | [151330-coloring-book-for-adults.json](./151330-coloring-book-for-adults.json) |
 | Coloring Book for Adults 2 | 323674 | [323674-coloring-book-for-adults-2.json](./323674-coloring-book-for-adults-2.json) |
 | Coloring Book for Adults 2: Full Version | 323676 | [323676-coloring-book-for-adults-2-full-version.json](./323676-coloring-book-for-adults-2-full-version.json) |
 | Coloring Book for Kids | 162618 | [162618-coloring-book-for-kids.json](./162618-coloring-book-for-kids.json) |
@@ -15862,6 +15866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covenant of Solitude | 200936 | [200936-covenant-of-solitude.json](./200936-covenant-of-solitude.json) |
 | Covenant: Project Zero | 236368 | [236368-covenant-project-zero.json](./236368-covenant-project-zero.json) |
 | Covenanted | 157155 | [157155-covenanted.json](./157155-covenanted.json) |
+| Coveneth | 151373 | [151373-coveneth.json](./151373-coveneth.json) |
 | Coveny Town | 386061 | [386061-coveny-town.json](./386061-coveny-town.json) |
 | Cover Fire | 38954 | [38954-cover-fire.json](./38954-cover-fire.json) |
 | Cover Fire: Shooter vs Sniper | 103855 | [103855-cover-fire-shooter-vs-sniper.json](./103855-cover-fire-shooter-vs-sniper.json) |
@@ -20843,6 +20848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberfield | 258614 | [258614-cyberfield.json](./258614-cyberfield.json) |
 | Cyberflight | 152497 | [152497-cyberflight.json](./152497-cyberflight.json) |
 | Cyberflow | 61679 | [61679-cyberflow.json](./61679-cyberflow.json) |
+| Cyberforge: First Light | 151340 | [151340-cyberforge-first-light.json](./151340-cyberforge-first-light.json) |
 | Cyberfrags '69 | 185885 | [185885-cyberfrags-69.json](./185885-cyberfrags-69.json) |
 | CyberFuck 2069 | 216401 | [216401-cyberfuck-2069.json](./216401-cyberfuck-2069.json) |
 | Cybergeist | 156537 | [156537-cybergeist.json](./156537-cybergeist.json) |
@@ -20976,6 +20982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberSex 2069 | 170891 | [170891-cybersex-2069.json](./170891-cybersex-2069.json) |
 | Cybersex Chronicles [18+] | 368068 | [368068-cybersex-chronicles-18.json](./368068-cybersex-chronicles-18.json) |
 | Cybersex: Lust Story | 295356 | [295356-cybersex-lust-story.json](./295356-cybersex-lust-story.json) |
+| Cybershift | 151347 | [151347-cybershift.json](./151347-cybershift.json) |
 | Cybershock: Future Parkour | 143885 | [143885-cybershock-future-parkour.json](./143885-cybershock-future-parkour.json) |
 | Cybershow | 141762 | [141762-cybershow.json](./141762-cybershow.json) |
 | Cyberside Picnic | 252249 | [252249-cyberside-picnic.json](./252249-cyberside-picnic.json) |
@@ -21085,6 +21092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cycle Race: Road Man | 48532 | [48532-cycle-race-road-man.json](./48532-cycle-race-road-man.json) |
 | Cycle Warriors | 39828 | [39828-cycle-warriors.json](./39828-cycle-warriors.json) |
 | Cycle Warz | 93204 | [93204-cycle-warz.json](./93204-cycle-warz.json) |
+| Cycled | 151337 | [151337-cycled.json](./151337-cycled.json) |
 | Cyclemania | 71912 | [71912-cyclemania.json](./71912-cyclemania.json) |
 | CycleQuest | 393747 | [393747-cyclequest.json](./393747-cyclequest.json) |
 | Cycles of Aylorea | 168613 | [168613-cycles-of-aylorea.json](./168613-cycles-of-aylorea.json) |
