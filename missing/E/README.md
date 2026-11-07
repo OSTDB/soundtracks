@@ -5323,6 +5323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from the Cannibal Family | 301246 | [301246-escape-from-the-cannibal-family.json](./301246-escape-from-the-cannibal-family.json) |
 | Escape From the Castle of Sad Ghosts | 181775 | [181775-escape-from-the-castle-of-sad-ghosts.json](./181775-escape-from-the-castle-of-sad-ghosts.json) |
 | Escape from the Catacombs | 268866 | [268866-escape-from-the-catacombs.json](./268866-escape-from-the-catacombs.json) |
+| Escape From the Chaotic City | 169508 | [169508-escape-from-the-chaotic-city.json](./169508-escape-from-the-chaotic-city.json) |
 | Escape from the Collector | 262488 | [262488-escape-from-the-collector.json](./262488-escape-from-the-collector.json) |
 | Escape From The Core | 329046 | [329046-escape-from-the-core.json](./329046-escape-from-the-core.json) |
 | Escape From the Cosmic Abyss | 137236 | [137236-escape-from-the-cosmic-abyss.json](./137236-escape-from-the-cosmic-abyss.json) |
@@ -5570,6 +5571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape The Ayuwoki Horror Fort | 242011 | [242011-escape-the-ayuwoki-horror-fort.json](./242011-escape-the-ayuwoki-horror-fort.json) |
 | Escape the Ayuwoki: The Summoning | 171347 | [171347-escape-the-ayuwoki-the-summoning.json](./171347-escape-the-ayuwoki-the-summoning.json) |
 | Escape the Backrooms Bodycam | 360006 | [360006-escape-the-backrooms-bodycam.json](./360006-escape-the-backrooms-bodycam.json) |
+| Escape the Barn | 169509 | [169509-escape-the-barn.json](./169509-escape-the-barn.json) |
 | Escape the Boardgame | 336719 | [336719-escape-the-boardgame.json](./336719-escape-the-boardgame.json) |
 | Escape the Bunker | 30086 | [30086-escape-the-bunker.json](./30086-escape-the-bunker.json) |
 | Escape the Challenge | 120973 | [120973-escape-the-challenge.json](./120973-escape-the-challenge.json) |
@@ -7973,6 +7975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Experience | 114836 | [114836-experience.json](./114836-experience.json) |
 | Experience | 36599 | [36599-experience.json](./36599-experience.json) |
 | eXperience 112 | 17873 | [17873-experience-112.json](./17873-experience-112.json) |
+| Experience the Energy: Take the Challenge | 169535 | [169535-experience-the-energy-take-the-challenge.json](./169535-experience-the-energy-take-the-challenge.json) |
 | Experience: Colorblindness | 112363 | [112363-experience-colorblindness.json](./112363-experience-colorblindness.json) |
 | Experiment | 247279 | [247279-experiment.json](./247279-experiment.json) |
 | Experiment | 357738 | [357738-experiment.json](./357738-experiment.json) |
