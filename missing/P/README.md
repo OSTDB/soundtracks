@@ -16033,6 +16033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Hunt: HTR .338 Big Game Access Pack | 395085 | [395085-project-hunt-htr-338-big-game-access-pack.json](./395085-project-hunt-htr-338-big-game-access-pack.json) |
 | Project Hunt: Lone Star Hunting Ranch | 395084 | [395084-project-hunt-lone-star-hunting-ranch.json](./395084-project-hunt-lone-star-hunting-ranch.json) |
 | Project Hunt: Trophy Sanctuary | 395086 | [395086-project-hunt-trophy-sanctuary.json](./395086-project-hunt-trophy-sanctuary.json) |
+| Project Hunter | 167418 | [167418-project-hunter.json](./167418-project-hunter.json) |
 | Project Hybrid | 269223 | [269223-project-hybrid.json](./269223-project-hybrid.json) |
 | Project Hypnagogia | 250405 | [250405-project-hypnagogia.json](./250405-project-hypnagogia.json) |
 | Project Hyrax: Beyond Time | 197728 | [197728-project-hyrax-beyond-time.json](./197728-project-hyrax-beyond-time.json) |
@@ -17473,6 +17474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pum | 119053 | [119053-pum.json](./119053-pum.json) |
 | Puma: The Cat | 270158 | [270158-puma-the-cat.json](./270158-puma-the-cat.json) |
 | Pumkin: Digital English Education | 241768 | [241768-pumkin-digital-english-education.json](./241768-pumkin-digital-english-education.json) |
+| Pummel Paladins | 167439 | [167439-pummel-paladins.json](./167439-pummel-paladins.json) |
 | Pummel Party | 105322 | [105322-pummel-party.json](./105322-pummel-party.json) |
 | Pump | 179688 | [179688-pump.json](./179688-pump.json) |
 | Pump It Up | 79307 | [79307-pump-it-up.json](./79307-pump-it-up.json) |
