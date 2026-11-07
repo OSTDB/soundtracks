@@ -9887,6 +9887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anika's Odyssey: Land of the Taniwha | 316761 | [316761-anikas-odyssey-land-of-the-taniwha.json](./316761-anikas-odyssey-land-of-the-taniwha.json) |
 | Anilife: An Animal Survival Adventure | 156991 | [156991-anilife-an-animal-survival-adventure.json](./156991-anilife-an-animal-survival-adventure.json) |
 | Anima | 122217 | [122217-anima.json](./122217-anima.json) |
+| Anima | 188205 | [188205-anima.json](./188205-anima.json) |
 | Anima | 193433 | [193433-anima.json](./193433-anima.json) |
 | Anima | 337817 | [337817-anima.json](./337817-anima.json) |
 | Anima ARPG | 142331 | [142331-anima-arpg.json](./142331-anima-arpg.json) |
@@ -12000,6 +12001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquapazza: Aquaplus Dream Match | 7272 | [7272-aquapazza-aquaplus-dream-match.json](./7272-aquapazza-aquaplus-dream-match.json) |
 | Aquaphobia | 241299 | [241299-aquaphobia.json](./241299-aquaphobia.json) |
 | Aquaphobia | 46655 | [46655-aquaphobia.json](./46655-aquaphobia.json) |
+| AquaPhobia | 188176 | [188176-aquaphobia.json](./188176-aquaphobia.json) |
 | Aquaplane | 94575 | [94575-aquaplane.json](./94575-aquaplane.json) |
 | Aquapolis SOS | 267398 | [267398-aquapolis-sos.json](./267398-aquapolis-sos.json) |
 | Aquarelle | 156573 | [156573-aquarelle.json](./156573-aquarelle.json) |
@@ -14662,7 +14664,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artists of Fortune: Distant Worlds - Ferrum Planet | 148350 | [148350-artists-of-fortune-distant-worlds-ferrum-planet.json](./148350-artists-of-fortune-distant-worlds-ferrum-planet.json) |
 | Artists of Fortune: Distant Worlds - Fulgur Planet | 148348 | [148348-artists-of-fortune-distant-worlds-fulgur-planet.json](./148348-artists-of-fortune-distant-worlds-fulgur-planet.json) |
 | Artists of Fortune: Distant Worlds - Lacerta Planet | 148347 | [148347-artists-of-fortune-distant-worlds-lacerta-planet.json](./148347-artists-of-fortune-distant-worlds-lacerta-planet.json) |
+| Artists of Fortune: Paint by Numbers! | 188220 | [188220-artists-of-fortune-paint-by-numbers.json](./188220-artists-of-fortune-paint-by-numbers.json) |
 | Artists of Fortune: Paint by Numbers! - Aquaris Planet | 191235 | [191235-artists-of-fortune-paint-by-numbers-aquaris-planet.json](./191235-artists-of-fortune-paint-by-numbers-aquaris-planet.json) |
+| Artists of Fortune: Paint by Numbers! - New Voyager Ep. 1 | 188221 | [188221-artists-of-fortune-paint-by-numbers-new-voyager-ep-1.json](./188221-artists-of-fortune-paint-by-numbers-new-voyager-ep-1.json) |
 | Artists of Fortune: Paint by Numbers! - New Voyager Ep. 2 | 188222 | [188222-artists-of-fortune-paint-by-numbers-new-voyager-ep-2.json](./188222-artists-of-fortune-paint-by-numbers-new-voyager-ep-2.json) |
 | Artists of Fortune: Paint by Numbers! - New Voyager Ep. 3 | 188223 | [188223-artists-of-fortune-paint-by-numbers-new-voyager-ep-3.json](./188223-artists-of-fortune-paint-by-numbers-new-voyager-ep-3.json) |
 | Artists of Fortune: Paint by Numbers! - New Voyager Ep. 4 | 188224 | [188224-artists-of-fortune-paint-by-numbers-new-voyager-ep-4.json](./188224-artists-of-fortune-paint-by-numbers-new-voyager-ep-4.json) |
@@ -15350,6 +15354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Valhalla: Forgotten Saga | 211296 | [211296-assassins-creed-valhalla-forgotten-saga.json](./211296-assassins-creed-valhalla-forgotten-saga.json) |
 | Assassin's Creed Valhalla: Limited Edition | 136108 | [136108-assassins-creed-valhalla-limited-edition.json](./136108-assassins-creed-valhalla-limited-edition.json) |
 | Assassin's Creed Valhalla: Mastery Challenge | 222815 | [222815-assassins-creed-valhalla-mastery-challenge.json](./222815-assassins-creed-valhalla-mastery-challenge.json) |
+| Assassin's Creed Valhalla: Ragnarök Edition | 188167 | [188167-assassins-creed-valhalla-ragnarok-edition.json](./188167-assassins-creed-valhalla-ragnarok-edition.json) |
 | Assassin's Creed Valhalla: River Raids | 228704 | [228704-assassins-creed-valhalla-river-raids.json](./228704-assassins-creed-valhalla-river-raids.json) |
 | Assassin's Creed Valhalla: Season Pass | 293717 | [293717-assassins-creed-valhalla-season-pass.json](./293717-assassins-creed-valhalla-season-pass.json) |
 | Assassin's Creed Valhalla: Shared History | 325329 | [325329-assassins-creed-valhalla-shared-history.json](./325329-assassins-creed-valhalla-shared-history.json) |
@@ -16690,7 +16695,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
