@@ -1779,6 +1779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanity Protocol | 355029 | [355029-sanity-protocol.json](./355029-sanity-protocol.json) |
 | Sanity: Aiken's Artifact | 90142 | [90142-sanity-aikens-artifact.json](./90142-sanity-aikens-artifact.json) |
 | Sanity's Shroud | 279503 | [279503-sanitys-shroud.json](./279503-sanitys-shroud.json) |
+| Sanjijukugo Flash | 141348 | [141348-sanjijukugo-flash.json](./141348-sanjijukugo-flash.json) |
 | Sankai: Another World | 193868 | [193868-sankai-another-world.json](./193868-sankai-another-world.json) |
 | SankakkuDoku | 320456 | [320456-sankakkudoku.json](./320456-sankakkudoku.json) |
 | Sankaku Renai: Love Triangle Trouble | 110870 | [110870-sankaku-renai-love-triangle-trouble.json](./110870-sankaku-renai-love-triangle-trouble.json) |
@@ -17082,6 +17083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solune | 272359 | [272359-solune.json](./272359-solune.json) |
 | Solus | 137016 | [137016-solus.json](./137016-solus.json) |
 | Solus Machina | 348340 | [348340-solus-machina.json](./348340-solus-machina.json) |
+| Solus Sector: Tactics | 141347 | [141347-solus-sector-tactics.json](./141347-solus-sector-tactics.json) |
 | Solvalou | 39805 | [39805-solvalou.json](./39805-solvalou.json) |
 | Solve & Roll | 259552 | [259552-solve-and-roll.json](./259552-solve-and-roll.json) |
 | Solve et Coagula | 280910 | [280910-solve-et-coagula.json](./280910-solve-et-coagula.json) |
@@ -22298,6 +22300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinwave Survivors | 388002 | [388002-spinwave-survivors.json](./388002-spinwave-survivors.json) |
 | SpinWhisker | 407178 | [407178-spinwhisker.json](./407178-spinwhisker.json) |
 | Spinword | 69567 | [69567-spinword.json](./69567-spinword.json) |
+| Spinworld | 141356 | [141356-spinworld.json](./141356-spinworld.json) |
 | Spiny & Chilly | 355034 | [355034-spiny-and-chilly.json](./355034-spiny-and-chilly.json) |
 | SpinZap | 133469 | [133469-spinzap.json](./133469-spinzap.json) |
 | Spinzer.io | 55164 | [55164-spinzer-io.json](./55164-spinzer-io.json) |
@@ -30411,6 +30414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer's Gone: Season 2 - Constellations | 402138 | [402138-summers-gone-season-2-constellations.json](./402138-summers-gone-season-2-constellations.json) |
 | Summerhill | 252498 | [252498-summerhill.json](./252498-summerhill.json) |
 | Summerhouse | 261688 | [261688-summerhouse.json](./261688-summerhouse.json) |
+| Summerland | 141339 | [141339-summerland.json](./141339-summerland.json) |
 | Summertime Madness | 144935 | [144935-summertime-madness.json](./144935-summertime-madness.json) |
 | Summertime Sadness | 376635 | [376635-summertime-sadness.json](./376635-summertime-sadness.json) |
 | Summertime Saga | 112257 | [112257-summertime-saga.json](./112257-summertime-saga.json) |
@@ -34767,6 +34771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive - Wilderness Survival | 58795 | [58795-survive-wilderness-survival.json](./58795-survive-wilderness-survival.json) |
 | Survive & Craft | 223520 | [223520-survive-and-craft.json](./223520-survive-and-craft.json) |
 | Survive 10 Minutes Please | 201323 | [201323-survive-10-minutes-please.json](./201323-survive-10-minutes-please.json) |
+| Survive 2 Thrive | 141375 | [141375-survive-2-thrive.json](./141375-survive-2-thrive.json) |
 | Survive 4 Pleasure | 193554 | [193554-survive-4-pleasure.json](./193554-survive-4-pleasure.json) |
 | Survive after hell | 160068 | [160068-survive-after-hell.json](./160068-survive-after-hell.json) |
 | Survive and Revenge | 236285 | [236285-survive-and-revenge.json](./236285-survive-and-revenge.json) |
