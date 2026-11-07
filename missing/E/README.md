@@ -6468,6 +6468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis III: Heir to the Throne | 743 | [743-europa-universalis-iii-heir-to-the-throne.json](./743-europa-universalis-iii-heir-to-the-throne.json) |
 | Europa Universalis III: In Nomine | 684 | [684-europa-universalis-iii-in-nomine.json](./684-europa-universalis-iii-in-nomine.json) |
 | Europa Universalis IV Collection | 52968 | [52968-europa-universalis-iv-collection.json](./52968-europa-universalis-iv-collection.json) |
+| Europa Universalis IV: American Dream | 170118 | [170118-europa-universalis-iv-american-dream.json](./170118-europa-universalis-iv-american-dream.json) |
 | Europa Universalis IV: Call-to-Arms Pack | 227864 | [227864-europa-universalis-iv-call-to-arms-pack.json](./227864-europa-universalis-iv-call-to-arms-pack.json) |
 | Europa Universalis IV: Catholic League Unit Pack | 155329 | [155329-europa-universalis-iv-catholic-league-unit-pack.json](./155329-europa-universalis-iv-catholic-league-unit-pack.json) |
 | Europa Universalis IV: Catholic Majors Unit Pack | 227865 | [227865-europa-universalis-iv-catholic-majors-unit-pack.json](./227865-europa-universalis-iv-catholic-majors-unit-pack.json) |
@@ -6491,6 +6492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis IV: Emperor | 133911 | [133911-europa-universalis-iv-emperor.json](./133911-europa-universalis-iv-emperor.json) |
 | Europa Universalis IV: Emperor Content Pack | 227344 | [227344-europa-universalis-iv-emperor-content-pack.json](./227344-europa-universalis-iv-emperor-content-pack.json) |
 | Europa Universalis IV: Empire Bundle | 186359 | [186359-europa-universalis-iv-empire-bundle.json](./186359-europa-universalis-iv-empire-bundle.json) |
+| Europa Universalis IV: Evangelical Majors Unit Pack | 170117 | [170117-europa-universalis-iv-evangelical-majors-unit-pack.json](./170117-europa-universalis-iv-evangelical-majors-unit-pack.json) |
 | Europa Universalis IV: Evangelical Union Unit Pack | 155316 | [155316-europa-universalis-iv-evangelical-union-unit-pack.json](./155316-europa-universalis-iv-evangelical-union-unit-pack.json) |
 | Europa Universalis IV: Extreme Edition | 53008 | [53008-europa-universalis-iv-extreme-edition.json](./53008-europa-universalis-iv-extreme-edition.json) |
 | Europa Universalis IV: Golden Century - Immersion Pack | 169310 | [169310-europa-universalis-iv-golden-century-immersion-pack.json](./169310-europa-universalis-iv-golden-century-immersion-pack.json) |
