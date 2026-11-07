@@ -620,6 +620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dame Tu Cosita | 334917 | [334917-dame-tu-cosita.json](./334917-dame-tu-cosita.json) |
 | Dami & Flo | 179461 | [179461-dami-and-flo.json](./179461-dami-and-flo.json) |
 | Dami and Secret Library | 375507 | [375507-dami-and-secret-library.json](./375507-dami-and-secret-library.json) |
+| Damien | 164113 | [164113-damien.json](./164113-damien.json) |
 | Damien Crawford's Golf Experience 2022 | 212590 | [212590-damien-crawfords-golf-experience-2022.json](./212590-damien-crawfords-golf-experience-2022.json) |
 | Damien Crawford's Golf Experience 2024 | 318344 | [318344-damien-crawfords-golf-experience-2024.json](./318344-damien-crawfords-golf-experience-2024.json) |
 | Damien: The Game | 239538 | [239538-damien-the-game.json](./239538-damien-the-game.json) |
@@ -2014,6 +2015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Theme Bundle | 265191 | [265191-dark-theme-bundle.json](./265191-dark-theme-bundle.json) |
 | Dark Things | 335174 | [335174-dark-things.json](./335174-dark-things.json) |
 | Dark Thoughts | 427274 | [427274-dark-thoughts.json](./427274-dark-thoughts.json) |
+| Dark Threads | 164137 | [164137-dark-threads.json](./164137-dark-threads.json) |
 | Dark Throne | 29597 | [29597-dark-throne.json](./29597-dark-throne.json) |
 | Dark Throne | 303074 | [303074-dark-throne.json](./303074-dark-throne.json) |
 | Dark Throne: The Queen Rises | 220587 | [220587-dark-throne-the-queen-rises.json](./220587-dark-throne-the-queen-rises.json) |
@@ -3945,6 +3947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Synchronicity: Tomorrow Comes Today | 194216 | [194216-dead-synchronicity-tomorrow-comes-today.json](./194216-dead-synchronicity-tomorrow-comes-today.json) |
 | Dead Take | 347032 | [347032-dead-take.json](./347032-dead-take.json) |
 | Dead Target VR: Zombie Intensified | 80955 | [80955-dead-target-vr-zombie-intensified.json](./80955-dead-target-vr-zombie-intensified.json) |
+| Dead TD | 164117 | [164117-dead-td.json](./164117-dead-td.json) |
 | Dead to Rights | 194267 | [194267-dead-to-rights.json](./194267-dead-to-rights.json) |
 | Dead to Rights | 3872 | [3872-dead-to-rights.json](./3872-dead-to-rights.json) |
 | Dead to Rights II | 5810 | [5810-dead-to-rights-ii.json](./5810-dead-to-rights-ii.json) |
@@ -4689,6 +4692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Swap: End As One | 231350 | [231350-death-swap-end-as-one.json](./231350-death-swap-end-as-one.json) |
 | Death Sword | 4639 | [4639-death-sword.json](./4639-death-sword.json) |
 | Death Sword Spirit | 310146 | [310146-death-sword-spirit.json](./310146-death-sword-spirit.json) |
+| Death Tale Pandora's Box | 164131 | [164131-death-tale-pandoras-box.json](./164131-death-tale-pandoras-box.json) |
 | Death Tales | 61517 | [61517-death-tales.json](./61517-death-tales.json) |
 | Death Tank | 21259 | [21259-death-tank.json](./21259-death-tank.json) |
 | Death Taxi 3000 | 155901 | [155901-death-taxi-3000.json](./155901-death-taxi-3000.json) |
@@ -11778,6 +11782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog-a-Boo | 90623 | [90623-dog-a-boo.json](./90623-dog-a-boo.json) |
 | Dog-O | 125798 | [125798-dog-o.json](./125798-dog-o.json) |
 | Dog! | 183362 | [183362-dog.json](./183362-dog.json) |
+| Dog's Donuts | 164155 | [164155-dogs-donuts.json](./164155-dogs-donuts.json) |
 | Dog's Garden | 188009 | [188009-dogs-garden.json](./188009-dogs-garden.json) |
 | Dog's Life | 22251 | [22251-dogs-life.json](./22251-dogs-life.json) |
 | Dog's Muck Island | 203216 | [203216-dogs-muck-island.json](./203216-dogs-muck-island.json) |
@@ -14631,6 +14636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Age: Origins - Witch Hunt | 17464 | [17464-dragon-age-origins-witch-hunt.json](./17464-dragon-age-origins-witch-hunt.json) |
 | Dragon Age: Origins Collector's Edition | 21765 | [21765-dragon-age-origins-collectors-edition.json](./21765-dragon-age-origins-collectors-edition.json) |
 | Dragon Age: The Veilguard - Deluxe Edition | 321666 | [321666-dragon-age-the-veilguard-deluxe-edition.json](./321666-dragon-age-the-veilguard-deluxe-edition.json) |
+| Dragon and Home | 164129 | [164129-dragon-and-home.json](./164129-dragon-and-home.json) |
 | Dragon and Mahjong | 402371 | [402371-dragon-and-mahjong.json](./402371-dragon-and-mahjong.json) |
 | Dragon and Phoenix | 330503 | [330503-dragon-and-phoenix.json](./330503-dragon-and-phoenix.json) |
 | Dragon and Weed: Origins OB - Dual Edges | 132686 | [132686-dragon-and-weed-origins-ob-dual-edges.json](./132686-dragon-and-weed-origins-ob-dual-edges.json) |
@@ -16812,6 +16818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Your Car | 199629 | [199629-drive-your-car.json](./199629-drive-your-car.json) |
 | Drive Zone Online | 269096 | [269096-drive-zone-online.json](./269096-drive-zone-online.json) |
 | Drive-By | 138696 | [138696-drive-by.json](./138696-drive-by.json) |
+| Drive-By Cop | 164110 | [164110-drive-by-cop.json](./164110-drive-by-cop.json) |
 | Drive-In | 25134 | [25134-drive-in.json](./25134-drive-in.json) |
 | Drive! | 269164 | [269164-drive.json](./269164-drive.json) |
 | Drive!Drive!Drive! | 13231 | [13231-drive-drive-drive.json](./13231-drive-drive-drive.json) |
