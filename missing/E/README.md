@@ -8193,6 +8193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extra Mario Bros. | 219115 | [219115-extra-mario-bros.json](./219115-extra-mario-bros.json) |
 | Extra Ordinary | 305228 | [305228-extra-ordinary.json](./305228-extra-ordinary.json) |
 | Extra Story of God's One Day World | 162853 | [162853-extra-story-of-gods-one-day-world.json](./162853-extra-story-of-gods-one-day-world.json) |
+| Extra Terrestrial Nation | 167440 | [167440-extra-terrestrial-nation.json](./167440-extra-terrestrial-nation.json) |
 | Extra Terrestrial Perception | 44615 | [44615-extra-terrestrial-perception.json](./44615-extra-terrestrial-perception.json) |
 | Extra Terrestrials | 40778 | [40778-extra-terrestrials.json](./40778-extra-terrestrials.json) |
 | Extract Game | 380154 | [380154-extract-game.json](./380154-extract-game.json) |
