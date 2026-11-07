@@ -8079,6 +8079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkest Tales | 138874 | [138874-the-darkest-tales.json](./138874-the-darkest-tales.json) |
 | The Darkest Tales: Extended Edition | 221630 | [221630-the-darkest-tales-extended-edition.json](./221630-the-darkest-tales-extended-edition.json) |
 | The Darkest Tales: Into the Nightmare | 195889 | [195889-the-darkest-tales-into-the-nightmare.json](./195889-the-darkest-tales-into-the-nightmare.json) |
+| The Darkest Tower Defense | 188209 | [188209-the-darkest-tower-defense.json](./188209-the-darkest-tower-defense.json) |
 | The Darkest Woods | 103762 | [103762-the-darkest-woods.json](./103762-the-darkest-woods.json) |
 | The Darkest Woods 2 | 111711 | [111711-the-darkest-woods-2.json](./111711-the-darkest-woods-2.json) |
 | The Darklight Chronicles | 387286 | [387286-the-darklight-chronicles.json](./387286-the-darklight-chronicles.json) |
@@ -11569,6 +11570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Keisatsu 24-ji | 365665 | [365665-the-keisatsu-24-ji.json](./365665-the-keisatsu-24-ji.json) |
 | The Kendama Challenge: 100 Players | 389736 | [389736-the-kendama-challenge-100-players.json](./389736-the-kendama-challenge-100-players.json) |
 | The Kepler Experiment | 376527 | [376527-the-kepler-experiment.json](./376527-the-kepler-experiment.json) |
+| The Ketchup Story | 188204 | [188204-the-ketchup-story.json](./188204-the-ketchup-story.json) |
 | The Key | 183213 | [183213-the-key.json](./183213-the-key.json) |
 | The Key | 330293 | [330293-the-key.json](./330293-the-key.json) |
 | The Key 1: Flight From Arcadia | 99112 | [99112-the-key-1-flight-from-arcadia.json](./99112-the-key-1-flight-from-arcadia.json) |
@@ -11972,6 +11974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Crystal | 124138 | [124138-the-last-crystal.json](./124138-the-last-crystal.json) |
 | The Last Curse | 415996 | [415996-the-last-curse.json](./415996-the-last-curse.json) |
 | The Last Dance | 50358 | [50358-the-last-dance.json](./50358-the-last-dance.json) |
+| The Last Dance Saloon | 188175 | [188175-the-last-dance-saloon.json](./188175-the-last-dance-saloon.json) |
 | The Last Day | 40336 | [40336-the-last-day.json](./40336-the-last-day.json) |
 | The Last Day of Adolf | 388884 | [388884-the-last-day-of-adolf.json](./388884-the-last-day-of-adolf.json) |
 | The Last day of Han Dynasty | 284602 | [284602-the-last-day-of-han-dynasty.json](./284602-the-last-day-of-han-dynasty.json) |
@@ -16946,6 +16949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Song of the Nightrider | 244874 | [244874-the-song-of-the-nightrider.json](./244874-the-song-of-the-nightrider.json) |
 | The Song of the Stars II | 284328 | [284328-the-song-of-the-stars-ii.json](./284328-the-song-of-the-stars-ii.json) |
 | The Song Of Will | 400543 | [400543-the-song-of-will.json](./400543-the-song-of-will.json) |
+| The Song Out of Space | 188157 | [188157-the-song-out-of-space.json](./188157-the-song-out-of-space.json) |
 | The Songbird Guild | 215721 | [215721-the-songbird-guild.json](./215721-the-songbird-guild.json) |
 | The Sophisticated Art of Friendship | 255469 | [255469-the-sophisticated-art-of-friendship.json](./255469-the-sophisticated-art-of-friendship.json) |
 | The Sophomore: Hartfeld Horror Story | 313618 | [313618-the-sophomore-hartfeld-horror-story.json](./313618-the-sophomore-hartfeld-horror-story.json) |
@@ -24784,6 +24788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six 3: Raven Shield | 908 | [908-tom-clancys-rainbow-six-3-raven-shield.json](./908-tom-clancys-rainbow-six-3-raven-shield.json) |
 | Tom Clancy's Rainbow Six Collection | 53802 | [53802-tom-clancys-rainbow-six-collection.json](./53802-tom-clancys-rainbow-six-collection.json) |
 | Tom Clancy's Rainbow Six Extraction | 119262 | [119262-tom-clancys-rainbow-six-extraction.json](./119262-tom-clancys-rainbow-six-extraction.json) |
+| Tom Clancy's Rainbow Six Extraction United Bundle | 188168 | [188168-tom-clancys-rainbow-six-extraction-united-bundle.json](./188168-tom-clancys-rainbow-six-extraction-united-bundle.json) |
 | Tom Clancy's Rainbow Six Extraction: Deluxe Edition | 152335 | [152335-tom-clancys-rainbow-six-extraction-deluxe-edition.json](./152335-tom-clancys-rainbow-six-extraction-deluxe-edition.json) |
 | Tom Clancy's Rainbow Six Extraction: Limited Edition | 152336 | [152336-tom-clancys-rainbow-six-extraction-limited-edition.json](./152336-tom-clancys-rainbow-six-extraction-limited-edition.json) |
 | Tom Clancy’s Rainbow Six Extraction: React Strike Pack | 255858 | [255858-tom-clancy-s-rainbow-six-extraction-react-strike-pack.json](./255858-tom-clancy-s-rainbow-six-extraction-react-strike-pack.json) |
@@ -33268,6 +33273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Dollar Suits | 390753 | [390753-two-dollar-suits.json](./390753-two-dollar-suits.json) |
 | Two Doors | 305928 | [305928-two-doors.json](./305928-two-doors.json) |
 | Two Dots | 14047 | [14047-two-dots.json](./14047-two-dots.json) |
+| Two Envelopes | 188165 | [188165-two-envelopes.json](./188165-two-envelopes.json) |
 | Two Escapes | 55286 | [55286-two-escapes.json](./55286-two-escapes.json) |
 | Two Eyes | 175271 | [175271-two-eyes.json](./175271-two-eyes.json) |
 | Two Eyes: Nonogram | 292820 | [292820-two-eyes-nonogram.json](./292820-two-eyes-nonogram.json) |
