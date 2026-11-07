@@ -546,6 +546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yet Another Fantasy Title | 209469 | [209469-yet-another-fantasy-title.json](./209469-yet-another-fantasy-title.json) |
 | Yet Another FireRed Hack | 377801 | [377801-yet-another-firered-hack.json](./377801-yet-another-firered-hack.json) |
 | Yet Another Godzilla Game | 184973 | [184973-yet-another-godzilla-game.json](./184973-yet-another-godzilla-game.json) |
+| Yet Another Hard Game | 166888 | [166888-yet-another-hard-game.json](./166888-yet-another-hard-game.json) |
 | Yet Another Hentai Puzzle | 295323 | [295323-yet-another-hentai-puzzle.json](./295323-yet-another-hentai-puzzle.json) |
 | Yet Another Hentai Puzzle: PTSD | 245846 | [245846-yet-another-hentai-puzzle-ptsd.json](./245846-yet-another-hentai-puzzle-ptsd.json) |
 | Yet Another Hero Legend | 118988 | [118988-yet-another-hero-legend.json](./118988-yet-another-hero-legend.json) |
@@ -2039,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yupi | 153394 | [153394-yupi.json](./153394-yupi.json) |
 | Yupitergrad | 142438 | [142438-yupitergrad.json](./142438-yupitergrad.json) |
 | Yupitergrad 2: The Lost Station | 202106 | [202106-yupitergrad-2-the-lost-station.json](./202106-yupitergrad-2-the-lost-station.json) |
+| Yupitergrad: Sneaki Peaki | 166892 | [166892-yupitergrad-sneaki-peaki.json](./166892-yupitergrad-sneaki-peaki.json) |
 | Yuppie Psycho: Collector's Edition | 198132 | [198132-yuppie-psycho-collectors-edition.json](./198132-yuppie-psycho-collectors-edition.json) |
 | Yuppie Psycho: Executive Edition | 147268 | [147268-yuppie-psycho-executive-edition.json](./147268-yuppie-psycho-executive-edition.json) |
 | Yuppy's Adventure | 148694 | [148694-yuppys-adventure.json](./148694-yuppys-adventure.json) |
