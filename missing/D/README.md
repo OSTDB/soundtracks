@@ -331,6 +331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DaGeDar | 47924 | [47924-dagedar.json](./47924-dagedar.json) |
 | Dagestan Technology Anthology | 52844 | [52844-dagestan-technology-anthology.json](./52844-dagestan-technology-anthology.json) |
 | Dagga | 329462 | [329462-dagga.json](./329462-dagga.json) |
+| Daggan | 173377 | [173377-daggan.json](./173377-daggan.json) |
 | Dagger Directive | 264207 | [264207-dagger-directive.json](./264207-dagger-directive.json) |
 | Dagger Froggy | 315354 | [315354-dagger-froggy.json](./315354-dagger-froggy.json) |
 | Dagger of heroes | 211664 | [211664-dagger-of-heroes.json](./211664-dagger-of-heroes.json) |
@@ -10015,6 +10016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Texts: Melissa's Secret | 263271 | [263271-dirty-texts-melissas-secret.json](./263271-dirty-texts-melissas-secret.json) |
 | Dirty Texts: New Intern | 263273 | [263273-dirty-texts-new-intern.json](./263273-dirty-texts-new-intern.json) |
 | Dirty Vampires: An RPG Tower Defence Adventure | 241297 | [241297-dirty-vampires-an-rpg-tower-defence-adventure.json](./241297-dirty-vampires-an-rpg-tower-defence-adventure.json) |
+| Dirty Wars: September 11 | 173370 | [173370-dirty-wars-september-11.json](./173370-dirty-wars-september-11.json) |
 | Dirty Work | 412884 | [412884-dirty-work.json](./412884-dirty-work.json) |
 | Dirtyblock | 195374 | [195374-dirtyblock.json](./195374-dirtyblock.json) |
 | Dis Assemble | 183977 | [183977-dis-assemble.json](./183977-dis-assemble.json) |
@@ -18785,6 +18787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DungeonTop: Spell Sword Cards | 127610 | [127610-dungeontop-spell-sword-cards.json](./127610-dungeontop-spell-sword-cards.json) |
 | DungeonTracks: In Charms Way | 184626 | [184626-dungeontracks-in-charms-way.json](./184626-dungeontracks-in-charms-way.json) |
 | DungeonUp | 34808 | [34808-dungeonup.json](./34808-dungeonup.json) |
+| Dungescape! | 173354 | [173354-dungescape.json](./173354-dungescape.json) |
 | Dungetris | 32981 | [32981-dungetris.json](./32981-dungetris.json) |
 | Dungeum | 310793 | [310793-dungeum.json](./310793-dungeum.json) |
 | Dungholes | 145959 | [145959-dungholes.json](./145959-dungholes.json) |
