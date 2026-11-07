@@ -16798,7 +16798,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -17528,6 +17527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Island | 159798 | [159798-auto-island.json](./159798-auto-island.json) |
 | Auto Jurassic Knights | 370866 | [370866-auto-jurassic-knights.json](./370866-auto-jurassic-knights.json) |
 | Auto Kingdom Crunch | 194913 | [194913-auto-kingdom-crunch.json](./194913-auto-kingdom-crunch.json) |
+| Auto Kitchen | 166905 | [166905-auto-kitchen.json](./166905-auto-kitchen.json) |
 | Auto Legends | 312257 | [312257-auto-legends.json](./312257-auto-legends.json) |
 | Auto Mechanic | 167164 | [167164-auto-mechanic.json](./167164-auto-mechanic.json) |
 | Auto Mechanic Sim | 246865 | [246865-auto-mechanic-sim.json](./246865-auto-mechanic-sim.json) |
