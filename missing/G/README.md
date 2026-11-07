@@ -8108,6 +8108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrandMa Badass | 150914 | [150914-grandma-badass.json](./150914-grandma-badass.json) |
 | Grandma Cleaning Simulator: Family Business Tycoon | 308510 | [308510-grandma-cleaning-simulator-family-business-tycoon.json](./308510-grandma-cleaning-simulator-family-business-tycoon.json) |
 | Grandma Don't Click That! | 292938 | [292938-grandma-dont-click-that.json](./292938-grandma-dont-click-that.json) |
+| Grandma Eugenia's Foolproof Plum Pudding for the Holidays | 187623 | [187623-grandma-eugenias-foolproof-plum-pudding-for-the-holidays.json](./187623-grandma-eugenias-foolproof-plum-pudding-for-the-holidays.json) |
 | Grandma Green | 249353 | [249353-grandma-green.json](./249353-grandma-green.json) |
 | Grandma Left Me A Building | 410584 | [410584-grandma-left-me-a-building.json](./410584-grandma-left-me-a-building.json) |
 | Grandma With A Gun | 335276 | [335276-grandma-with-a-gun.json](./335276-grandma-with-a-gun.json) |
