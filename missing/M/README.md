@@ -1531,6 +1531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Hop | 133623 | [133623-magical-hop.json](./133623-magical-hop.json) |
 | Magical Houshin | 248471 | [248471-magical-houshin.json](./248471-magical-houshin.json) |
 | Magical Houshin | 49707 | [49707-magical-houshin.json](./49707-magical-houshin.json) |
+| Magical Inspector Momo | 173350 | [173350-magical-inspector-momo.json](./173350-magical-inspector-momo.json) |
 | Magical Jewelry | 48670 | [48670-magical-jewelry.json](./48670-magical-jewelry.json) |
 | Magical Journey | 196482 | [196482-magical-journey.json](./196482-magical-journey.json) |
 | Magical Kid Wiz | 41695 | [41695-magical-kid-wiz.json](./41695-magical-kid-wiz.json) |
@@ -18885,6 +18886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr.DomusMundi | 173904 | [173904-mr-domusmundi.json](./173904-mr-domusmundi.json) |
 | Mr.Egg: Adventure | 211647 | [211647-mr-egg-adventure.json](./211647-mr-egg-adventure.json) |
 | Mr.Jezko | 86579 | [86579-mr-jezko.json](./86579-mr-jezko.json) |
+| Mr.King Luo! Don't Be Kidding: Chapter 2 | 173369 | [173369-mr-king-luo-dont-be-kidding-chapter-2.json](./173369-mr-king-luo-dont-be-kidding-chapter-2.json) |
 | Mr.Knight | 164595 | [164595-mr-knight.json](./164595-mr-knight.json) |
 | MR.KungFu | 174737 | [174737-mr-kungfu.json](./174737-mr-kungfu.json) |
 | Mr.Mag: The Dark Side Within | 414535 | [414535-mr-mag-the-dark-side-within.json](./414535-mr-mag-the-dark-side-within.json) |
@@ -20770,6 +20772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Incubi Harem | 235348 | [235348-my-incubi-harem.json](./235348-my-incubi-harem.json) |
 | My Incubi Harem | 296736 | [296736-my-incubi-harem.json](./296736-my-incubi-harem.json) |
 | My Infamous Dungeon | 365537 | [365537-my-infamous-dungeon.json](./365537-my-infamous-dungeon.json) |
+| My Inner Darkness is a Hot Anime Girl! | 173356 | [173356-my-inner-darkness-is-a-hot-anime-girl.json](./173356-my-inner-darkness-is-a-hot-anime-girl.json) |
 | My Insect Girl Can't Be This Cute | 220683 | [220683-my-insect-girl-cant-be-this-cute.json](./220683-my-insect-girl-cant-be-this-cute.json) |
 | My Interstellar Inn | 285568 | [285568-my-interstellar-inn.json](./285568-my-interstellar-inn.json) |
 | My Isekai After Life is an RPG!? | 153392 | [153392-my-isekai-after-life-is-an-rpg.json](./153392-my-isekai-after-life-is-an-rpg.json) |
