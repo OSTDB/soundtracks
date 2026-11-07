@@ -2479,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Expert 2017: Hard Terrain | 174133 | [174133-farm-expert-2017-hard-terrain.json](./174133-farm-expert-2017-hard-terrain.json) |
 | Farm Expert 2019 | 112334 | [112334-farm-expert-2019.json](./112334-farm-expert-2019.json) |
 | Farm Factory Simulator | 406934 | [406934-farm-factory-simulator.json](./406934-farm-factory-simulator.json) |
+| Farm Fatale | 154159 | [154159-farm-fatale.json](./154159-farm-fatale.json) |
 | Farm For A Wife | 217281 | [217281-farm-for-a-wife.json](./217281-farm-for-a-wife.json) |
 | Farm for your Life | 30248 | [30248-farm-for-your-life.json](./30248-farm-for-your-life.json) |
 | Farm Frenzy | 16090 | [16090-farm-frenzy.json](./16090-farm-frenzy.json) |
@@ -8772,6 +8773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Pengy | 31530 | [31530-flying-pengy.json](./31530-flying-pengy.json) |
 | Flying Pigs | 415013 | [415013-flying-pigs.json](./415013-flying-pigs.json) |
 | Flying Propeller | 161777 | [161777-flying-propeller.json](./161777-flying-propeller.json) |
+| Flying Pudding | 154150 | [154150-flying-pudding.json](./154150-flying-pudding.json) |
 | Flying PuPu | 125926 | [125926-flying-pupu.json](./125926-flying-pupu.json) |
 | Flying Red Barrel: The Diary of a Little Aviator | 50841 | [50841-flying-red-barrel-the-diary-of-a-little-aviator.json](./50841-flying-red-barrel-the-diary-of-a-little-aviator.json) |
 | Flying Rock: Arena | 41927 | [41927-flying-rock-arena.json](./41927-flying-rock-arena.json) |
@@ -13844,6 +13846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Heroes | 150431 | [150431-furry-heroes.json](./150431-furry-heroes.json) |
 | Furry Hitler | 205664 | [205664-furry-hitler.json](./205664-furry-hitler.json) |
 | Furry Holes | 280662 | [280662-furry-holes.json](./280662-furry-holes.json) |
+| Furry House | 154127 | [154127-furry-house.json](./154127-furry-house.json) |
 | Furry Immersion | 227608 | [227608-furry-immersion.json](./227608-furry-immersion.json) |
 | Furry Killer | 226143 | [226143-furry-killer.json](./226143-furry-killer.json) |
 | Furry Knight Break | 221479 | [221479-furry-knight-break.json](./221479-furry-knight-break.json) |
