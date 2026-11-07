@@ -1110,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamster Playground: Spooky Hamster House | 226708 | [226708-hamster-playground-spooky-hamster-house.json](./226708-hamster-playground-spooky-hamster-house.json) |
 | Hamster Quest | 385346 | [385346-hamster-quest.json](./385346-hamster-quest.json) |
 | Hamster Scramble | 125655 | [125655-hamster-scramble.json](./125655-hamster-scramble.json) |
+| Hamster Squad | 177654 | [177654-hamster-squad.json](./177654-hamster-squad.json) |
 | Hamster Survival | 228898 | [228898-hamster-survival.json](./228898-hamster-survival.json) |
 | Hamster Town | 222833 | [222833-hamster-town.json](./222833-hamster-town.json) |
 | Hamster Tycoon: Cake Maker | 294037 | [294037-hamster-tycoon-cake-maker.json](./294037-hamster-tycoon-cake-maker.json) |
@@ -4912,11 +4913,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Clicker: Valentine Is Streaming | 389612 | [389612-hentai-clicker-valentine-is-streaming.json](./389612-hentai-clicker-valentine-is-streaming.json) |
 | Hentai Clicker: Yumi Is Streaming | 389618 | [389618-hentai-clicker-yumi-is-streaming.json](./389618-hentai-clicker-yumi-is-streaming.json) |
 | Hentai Climber | 365418 | [365418-hentai-climber.json](./365418-hentai-climber.json) |
+| Hentai Clouds | 177629 | [177629-hentai-clouds.json](./177629-hentai-clouds.json) |
 | Hentai Collection 4-in-1 | 394392 | [394392-hentai-collection-4-in-1.json](./394392-hentai-collection-4-in-1.json) |
 | Hentai Coloring Game | 161257 | [161257-hentai-coloring-game.json](./161257-hentai-coloring-game.json) |
 | Hentai Cookie | 365419 | [365419-hentai-cookie.json](./365419-hentai-cookie.json) |
 | Hentai Cosplay Elf | 286442 | [286442-hentai-cosplay-elf.json](./286442-hentai-cosplay-elf.json) |
 | Hentai Cosplay USSR | 286486 | [286486-hentai-cosplay-ussr.json](./286486-hentai-cosplay-ussr.json) |
+| Hentai Cowgirl | 177630 | [177630-hentai-cowgirl.json](./177630-hentai-cowgirl.json) |
 | Hentai Crazy Girls | 202203 | [202203-hentai-crazy-girls.json](./202203-hentai-crazy-girls.json) |
 | Hentai Crush | 136424 | [136424-hentai-crush.json](./136424-hentai-crush.json) |
 | Hentai Crystals | 257003 | [257003-hentai-crystals.json](./257003-hentai-crystals.json) |
@@ -12377,6 +12380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hynpytol | 261397 | [261397-hynpytol.json](./261397-hynpytol.json) |
 | Hyokkori Hyoutan-jima: Hyoutan-jima no Daikoukai | 46312 | [46312-hyokkori-hyoutan-jima-hyoutan-jima-no-daikoukai.json](./46312-hyokkori-hyoutan-jima-hyoutan-jima-no-daikoukai.json) |
 | Hyokkori Hyoutan-jima: Takaramono Tocchae! | 346028 | [346028-hyokkori-hyoutan-jima-takaramono-tocchae.json](./346028-hyokkori-hyoutan-jima-takaramono-tocchae.json) |
+| Hyouhon Shoujo | 177647 | [177647-hyouhon-shoujo.json](./177647-hyouhon-shoujo.json) |
 | Hyouji Gazou Henkou Kanou Typing | 301609 | [301609-hyouji-gazou-henkou-kanou-typing.json](./301609-hyouji-gazou-henkou-kanou-typing.json) |
 | Hyoukin Kyoushitsu | 385741 | [385741-hyoukin-kyoushitsu.json](./385741-hyoukin-kyoushitsu.json) |
 | Hyouryuu | 402900 | [402900-hyouryuu.json](./402900-hyouryuu.json) |
