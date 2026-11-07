@@ -912,6 +912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lansbury's SneakOut | 335606 | [335606-lansburys-sneakout.json](./335606-lansburys-sneakout.json) |
 | Lansquenet | 109443 | [109443-lansquenet.json](./109443-lansquenet.json) |
 | Lantern | 25952 | [25952-lantern.json](./25952-lantern.json) |
+| Lantern Bearer | 164114 | [164114-lantern-bearer.json](./164114-lantern-bearer.json) |
 | Lantern Fish | 385561 | [385561-lantern-fish.json](./385561-lantern-fish.json) |
 | Lantern Forge | 36263 | [36263-lantern-forge.json](./36263-lantern-forge.json) |
 | Lantern Lagoon | 221837 | [221837-lantern-lagoon.json](./221837-lantern-lagoon.json) |
@@ -5133,6 +5134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lila's Atelier | 391450 | [391450-lilas-atelier.json](./391450-lilas-atelier.json) |
 | Lila's Sky Ark | 144552 | [144552-lilas-sky-ark.json](./144552-lilas-sky-ark.json) |
 | Lila's Synthetic Shadows | 297119 | [297119-lilas-synthetic-shadows.json](./297119-lilas-synthetic-shadows.json) |
+| Lila's Tale and the Hidden Forest | 164132 | [164132-lilas-tale-and-the-hidden-forest.json](./164132-lilas-tale-and-the-hidden-forest.json) |
 | Lilac & Her Light | 178919 | [178919-lilac-and-her-light.json](./178919-lilac-and-her-light.json) |
 | Lilac 0 | 329466 | [329466-lilac-0.json](./329466-lilac-0.json) |
 | Lilac: Side Witch | 397190 | [397190-lilac-side-witch.json](./397190-lilac-side-witch.json) |
@@ -6732,6 +6734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lobby Loitering | 244006 | [244006-lobby-loitering.json](./244006-lobby-loitering.json) |
 | Lober Lobe | 311475 | [311475-lober-lobe.json](./311475-lober-lobe.json) |
 | Lobi y la Caza del Tesoro | 323770 | [323770-lobi-y-la-caza-del-tesoro.json](./323770-lobi-y-la-caza-del-tesoro.json) |
+| LoBlocks | 164144 | [164144-loblocks.json](./164144-loblocks.json) |
 | Lobo | 274668 | [274668-lobo.json](./274668-lobo.json) |
 | Lobo | 86130 | [86130-lobo.json](./86130-lobo.json) |
 | Lobo with Shotguns | 58585 | [58585-lobo-with-shotguns.json](./58585-lobo-with-shotguns.json) |
@@ -7207,6 +7210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Londonian Gothics: Meikyuu no Lolita | 122996 | [122996-londonian-gothics-meikyuu-no-lolita.json](./122996-londonian-gothics-meikyuu-no-lolita.json) |
 | Lone | 181160 | [181160-lone.json](./181160-lone.json) |
 | Lone & Vita | 143306 | [143306-lone-and-vita.json](./143306-lone-and-vita.json) |
+| Lone Archer | 164154 | [164154-lone-archer.json](./164154-lone-archer.json) |
 | Lone Bastion | 199322 | [199322-lone-bastion.json](./199322-lone-bastion.json) |
 | Lone Bird in the Tree | 374438 | [374438-lone-bird-in-the-tree.json](./374438-lone-bird-in-the-tree.json) |
 | Lone Chef | 388208 | [388208-lone-chef.json](./388208-lone-chef.json) |
@@ -7405,6 +7409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Longmen | 352317 | [352317-longmen.json](./352317-longmen.json) |
 | Lóngmíng Punk | 154411 | [154411-longming-punk.json](./154411-longming-punk.json) |
 | LongPath | 150436 | [150436-longpath.json](./150436-longpath.json) |
+| Longphort | 164112 | [164112-longphort.json](./164112-longphort.json) |
 | LongStory | 74495 | [74495-longstory.json](./74495-longstory.json) |
 | LongStory 2 | 253480 | [253480-longstory-2.json](./253480-longstory-2.json) |
 | Longsword Tabletop Tactics | 41045 | [41045-longsword-tabletop-tactics.json](./41045-longsword-tabletop-tactics.json) |
