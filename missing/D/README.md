@@ -4511,6 +4511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Below | 212744 | [212744-death-below.json](./212744-death-below.json) |
 | Death Bind | 207782 | [207782-death-bind.json](./207782-death-bind.json) |
 | Death Blade | 170338 | [170338-death-blade.json](./170338-death-blade.json) |
+| Death Blonde | 139530 | [139530-death-blonde.json](./139530-death-blonde.json) |
 | Death Bowl | 208598 | [208598-death-bowl.json](./208598-death-bowl.json) |
 | Death Box | 151511 | [151511-death-box.json](./151511-death-box.json) |
 | Death Box | 160302 | [160302-death-box.json](./160302-death-box.json) |
@@ -7513,6 +7514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desolate Echoes | 337666 | [337666-desolate-echoes.json](./337666-desolate-echoes.json) |
 | Desolate Hope | 383593 | [383593-desolate-hope.json](./383593-desolate-hope.json) |
 | Desolate Realms | 276847 | [276847-desolate-realms.json](./276847-desolate-realms.json) |
+| Desolate Roads | 139523 | [139523-desolate-roads.json](./139523-desolate-roads.json) |
 | Desolate Sands | 109697 | [109697-desolate-sands.json](./109697-desolate-sands.json) |
 | Desolate Shores | 200015 | [200015-desolate-shores.json](./200015-desolate-shores.json) |
 | Desolate Wastes: Vendor Chronicles | 30314 | [30314-desolate-wastes-vendor-chronicles.json](./30314-desolate-wastes-vendor-chronicles.json) |
