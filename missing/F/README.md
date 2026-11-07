@@ -1897,6 +1897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Beauties: Selene Level Pack | 312106 | [312106-fantasy-beauties-selene-level-pack.json](./312106-fantasy-beauties-selene-level-pack.json) |
 | Fantasy Beauties: Sigrún Level Pack | 312107 | [312107-fantasy-beauties-sigrun-level-pack.json](./312107-fantasy-beauties-sigrun-level-pack.json) |
 | Fantasy Blacksmith Simulator | 410333 | [410333-fantasy-blacksmith-simulator.json](./410333-fantasy-blacksmith-simulator.json) |
+| Fantasy Blacksmith: Escape from the Forge | 148627 | [148627-fantasy-blacksmith-escape-from-the-forge.json](./148627-fantasy-blacksmith-escape-from-the-forge.json) |
 | Fantasy Blade | 188393 | [188393-fantasy-blade.json](./188393-fantasy-blade.json) |
 | Fantasy Boy | 240828 | [240828-fantasy-boy.json](./240828-fantasy-boy.json) |
 | Fantasy Brothel Manager | 359037 | [359037-fantasy-brothel-manager.json](./359037-fantasy-brothel-manager.json) |
@@ -3349,6 +3350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fateful Dealings | 182868 | [182868-fateful-dealings.json](./182868-fateful-dealings.json) |
 | Fateful Destiny | 323504 | [323504-fateful-destiny.json](./323504-fateful-destiny.json) |
 | Fateful Mages | 242968 | [242968-fateful-mages.json](./242968-fateful-mages.json) |
+| Fateholder Quest | 148625 | [148625-fateholder-quest.json](./148625-fateholder-quest.json) |
 | Fateholders of Tetsoidea | 43158 | [43158-fateholders-of-tetsoidea.json](./43158-fateholders-of-tetsoidea.json) |
 | Fatekeeper | 358769 | [358769-fatekeeper.json](./358769-fatekeeper.json) |
 | Fateless Night | 207621 | [207621-fateless-night.json](./207621-fateless-night.json) |
