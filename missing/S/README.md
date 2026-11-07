@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabbat of the Witch | 105342 | [105342-sabbat-of-the-witch.json](./105342-sabbat-of-the-witch.json) |
 | Sabbat: Director's Kvt | 128873 | [128873-sabbat-directors-kvt.json](./128873-sabbat-directors-kvt.json) |
 | Sabbath | 275548 | [275548-sabbath.json](./275548-sabbath.json) |
+| Sabbuth | 188737 | [188737-sabbuth.json](./188737-sabbuth.json) |
 | Saber Ball | 247836 | [247836-saber-ball.json](./247836-saber-ball.json) |
 | Saber Fight VR | 127529 | [127529-saber-fight-vr.json](./127529-saber-fight-vr.json) |
 | Saber Marionette J: Battle Sabers | 44821 | [44821-saber-marionette-j-battle-sabers.json](./44821-saber-marionette-j-battle-sabers.json) |
@@ -12099,6 +12100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skelly Selest | 96277 | [96277-skelly-selest.json](./96277-skelly-selest.json) |
 | Skelly Selest & Straimium Immortaly Double Pack | 146996 | [146996-skelly-selest-and-straimium-immortaly-double-pack.json](./146996-skelly-selest-and-straimium-immortaly-double-pack.json) |
 | Skelter+Heaven | 229003 | [229003-skelter-heaven.json](./229003-skelter-heaven.json) |
+| Skelton Zone Traveler Emergence | 188732 | [188732-skelton-zone-traveler-emergence.json](./188732-skelton-zone-traveler-emergence.json) |
 | Skepixel | 75154 | [75154-skepixel.json](./75154-skepixel.json) |
 | Skeppskatten går iland | 327005 | [327005-skeppskatten-gar-iland.json](./327005-skeppskatten-gar-iland.json) |
 | Sker Ritual: Bloody Night | 279012 | [279012-sker-ritual-bloody-night.json](./279012-sker-ritual-bloody-night.json) |
@@ -23876,6 +23878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stand and Fight | 259448 | [259448-stand-and-fight.json](./259448-stand-and-fight.json) |
 | Stand By Me | 145432 | [145432-stand-by-me.json](./145432-stand-by-me.json) |
 | Stand by Me: Otome Isekai Rpg | 346477 | [346477-stand-by-me-otome-isekai-rpg.json](./346477-stand-by-me-otome-isekai-rpg.json) |
+| Stand Firm | 188734 | [188734-stand-firm.json](./188734-stand-firm.json) |
 | Stand My Heroes | 197377 | [197377-stand-my-heroes.json](./197377-stand-my-heroes.json) |
 | Stand O'Food | 66976 | [66976-stand-ofood.json](./66976-stand-ofood.json) |
 | Stand O'Food 3 | 87189 | [87189-stand-ofood-3.json](./87189-stand-ofood-3.json) |
@@ -27679,6 +27682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Things | 75775 | [75775-strange-things.json](./75775-strange-things.json) |
 | Strange Toilet | 294975 | [294975-strange-toilet.json](./294975-strange-toilet.json) |
 | Strange Toilet: The Forgotten Shit | 300051 | [300051-strange-toilet-the-forgotten-shit.json](./300051-strange-toilet-the-forgotten-shit.json) |
+| Strange Town | 188762 | [188762-strange-town.json](./188762-strange-town.json) |
 | Strange Winds | 383637 | [383637-strange-winds.json](./383637-strange-winds.json) |
 | Strange World | 274966 | [274966-strange-world.json](./274966-strange-world.json) |
 | Strange World | 311937 | [311937-strange-world.json](./311937-strange-world.json) |
@@ -32912,6 +32916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Shoot | 246176 | [246176-super-shoot.json](./246176-super-shoot.json) |
 | Super Shoot Owl | 75664 | [75664-super-shoot-owl.json](./75664-super-shoot-owl.json) |
 | Super Shoot: Red Hot | 216100 | [216100-super-shoot-red-hot.json](./216100-super-shoot-red-hot.json) |
+| Super Shooter | 188756 | [188756-super-shooter.json](./188756-super-shooter.json) |
 | Super Shootin Star | 378241 | [378241-super-shootin-star.json](./378241-super-shootin-star.json) |
 | Super Shootout | 360582 | [360582-super-shootout.json](./360582-super-shootout.json) |
 | Super Shopper | 107809 | [107809-super-shopper.json](./107809-super-shopper.json) |
