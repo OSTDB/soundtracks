@@ -425,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factorio: Space Age | 263344 | [263344-factorio-space-age.json](./263344-factorio-space-age.json) |
 | Factorio: Space Exploration | 314004 | [314004-factorio-space-exploration.json](./314004-factorio-space-exploration.json) |
 | Factorio: UltraCube | 326050 | [326050-factorio-ultracube.json](./326050-factorio-ultracube.json) |
+| Factorization | 166873 | [166873-factorization.json](./166873-factorization.json) |
 | Factorized | 421349 | [421349-factorized.json](./421349-factorized.json) |
 | Factory | 400736 | [400736-factory.json](./400736-factory.json) |
 | Factory & Roof Collection | 328529 | [328529-factory-and-roof-collection.json](./328529-factory-and-roof-collection.json) |
@@ -7683,6 +7684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleeting JKT | 183048 | [183048-fleeting-jkt.json](./183048-fleeting-jkt.json) |
 | Fleeting Shores | 392220 | [392220-fleeting-shores.json](./392220-fleeting-shores.json) |
 | Fleeting Summer's End | 371121 | [371121-fleeting-summers-end.json](./371121-fleeting-summers-end.json) |
+| Fleeting World | 166891 | [166891-fleeting-world.json](./166891-fleeting-world.json) |
 | FleetMaster | 234060 | [234060-fleetmaster.json](./234060-fleetmaster.json) |
 | Fleetoad Mac | 184928 | [184928-fleetoad-mac.json](./184928-fleetoad-mac.json) |
 | Fleets of Ascendancy | 86444 | [86444-fleets-of-ascendancy.json](./86444-fleets-of-ascendancy.json) |
@@ -8721,6 +8723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Frogs | 209462 | [209462-flying-frogs.json](./209462-flying-frogs.json) |
 | Flying Frogs | 301991 | [301991-flying-frogs.json](./301991-flying-frogs.json) |
 | Flying Fu | 109912 | [109912-flying-fu.json](./109912-flying-fu.json) |
+| Flying Fury | 166874 | [166874-flying-fury.json](./166874-flying-fury.json) |
 | Flying Girls | 149869 | [149869-flying-girls.json](./149869-flying-girls.json) |
 | Flying Gorilla | 201968 | [201968-flying-gorilla.json](./201968-flying-gorilla.json) |
 | Flying Guy | 116004 | [116004-flying-guy.json](./116004-flying-guy.json) |
@@ -13288,6 +13291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Moon Rush | 243294 | [243294-full-moon-rush.json](./243294-full-moon-rush.json) |
 | Full of Crap | 288838 | [288838-full-of-crap.json](./288838-full-of-crap.json) |
 | Full of Love | 116259 | [116259-full-of-love.json](./116259-full-of-love.json) |
+| Full Pawer | 166918 | [166918-full-pawer.json](./166918-full-pawer.json) |
 | Full Pipe | 28982 | [28982-full-pipe.json](./28982-full-pipe.json) |
 | Full Pitch | 115685 | [115685-full-pitch.json](./115685-full-pitch.json) |
 | Full Spectrum Gradient | 342717 | [342717-full-spectrum-gradient.json](./342717-full-spectrum-gradient.json) |
