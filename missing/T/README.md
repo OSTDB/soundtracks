@@ -2673,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tatakae RX! | 218246 | [218246-tatakae-rx.json](./218246-tatakae-rx.json) |
 | Tatakae! Draft Redder | 385811 | [385811-tatakae-draft-redder.json](./385811-tatakae-draft-redder.json) |
 | Tatakae! Harmonia Ongaku-tai | 173909 | [173909-tatakae-harmonia-ongaku-tai.json](./173909-tatakae-harmonia-ongaku-tai.json) |
+| Tatakae! Harmonia Ongakutai | 171671 | [171671-tatakae-harmonia-ongakutai.json](./171671-tatakae-harmonia-ongakutai.json) |
 | Tatakae! Juohmaru | 218243 | [218243-tatakae-juohmaru.json](./218243-tatakae-juohmaru.json) |
 | Tatakae! KitadeMan | 173078 | [173078-tatakae-kitademan.json](./173078-tatakae-kitademan.json) |
 | Tatakae! Pro Yakyuu Twin League | 209780 | [209780-tatakae-pro-yakyuu-twin-league.json](./209780-tatakae-pro-yakyuu-twin-league.json) |
@@ -6762,6 +6763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The book by the blue | 288723 | [288723-the-book-by-the-blue.json](./288723-the-book-by-the-blue.json) |
 | The Book of Aaru | 214267 | [214267-the-book-of-aaru.json](./214267-the-book-of-aaru.json) |
 | The Book of Blood | 392172 | [392172-the-book-of-blood.json](./392172-the-book-of-blood.json) |
+| The Book of Bondmaids | 171672 | [171672-the-book-of-bondmaids.json](./171672-the-book-of-bondmaids.json) |
 | The Book of Buja | 305248 | [305248-the-book-of-buja.json](./305248-the-book-of-buja.json) |
 | The Book of Commands: Lost Symbol | 32894 | [32894-the-book-of-commands-lost-symbol.json](./32894-the-book-of-commands-lost-symbol.json) |
 | The Book of Death for Dummies | 273643 | [273643-the-book-of-death-for-dummies.json](./273643-the-book-of-death-for-dummies.json) |
@@ -11018,6 +11020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Huntsman: Winter's Curse (Book 4) | 164439 | [164439-the-huntsman-winters-curse-book-4.json](./164439-the-huntsman-winters-curse-book-4.json) |
 | The Huntsman: Winter's Curse (Book 5) | 164440 | [164440-the-huntsman-winters-curse-book-5.json](./164440-the-huntsman-winters-curse-book-5.json) |
 | The Hurricane of the Varstray: Collateral hazard | 34088 | [34088-the-hurricane-of-the-varstray-collateral-hazard.json](./34088-the-hurricane-of-the-varstray-collateral-hazard.json) |
+| The Hurricane of the Varstray: Threat of Third Force | 171717 | [171717-the-hurricane-of-the-varstray-threat-of-third-force.json](./171717-the-hurricane-of-the-varstray-threat-of-third-force.json) |
 | The Hurt in Secret | 369550 | [369550-the-hurt-in-secret.json](./369550-the-hurt-in-secret.json) |
 | The Hust Banhmi | 410628 | [410628-the-hust-banhmi.json](./410628-the-hust-banhmi.json) |
 | The Hustle | 216516 | [216516-the-hustle.json](./216516-the-hustle.json) |
@@ -33315,6 +33318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Toys | 373226 | [373226-twisted-toys.json](./373226-twisted-toys.json) |
 | Twisted Waters | 295283 | [295283-twisted-waters.json](./295283-twisted-waters.json) |
 | Twisted Worlds | 32918 | [32918-twisted-worlds.json](./32918-twisted-worlds.json) |
+| Twisted: A Dark Fairytale | 171685 | [171685-twisted-a-dark-fairytale.json](./171685-twisted-a-dark-fairytale.json) |
 | Twisted: A Haunted Carol | 65879 | [65879-twisted-a-haunted-carol.json](./65879-twisted-a-haunted-carol.json) |
 | Twisted: Enhanced Edition | 54335 | [54335-twisted-enhanced-edition.json](./54335-twisted-enhanced-edition.json) |
 | Twisted: The Game Show | 4321 | [4321-twisted-the-game-show.json](./4321-twisted-the-game-show.json) |
