@@ -3788,6 +3788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VoxelScaper | 272879 | [272879-voxelscaper.json](./272879-voxelscaper.json) |
 | Voxelstein 3D | 64768 | [64768-voxelstein-3d.json](./64768-voxelstein-3d.json) |
 | Voxenvale | 404900 | [404900-voxenvale.json](./404900-voxenvale.json) |
+| VoxFox | 156772 | [156772-voxfox.json](./156772-voxfox.json) |
 | Voxie Survivor | 407861 | [407861-voxie-survivor.json](./407861-voxie-survivor.json) |
 | Voxie Tactics | 178092 | [178092-voxie-tactics.json](./178092-voxie-tactics.json) |
 | Voxile | 272585 | [272585-voxile.json](./272585-voxile.json) |
@@ -4118,6 +4119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vradark's Revenge | 231823 | [231823-vradarks-revenge.json](./231823-vradarks-revenge.json) |
 | VRAdventure | 124156 | [124156-vradventure.json](./124156-vradventure.json) |
 | VRAmp | 33766 | [33766-vramp.json](./33766-vramp.json) |
+| VRandish | 156797 | [156797-vrandish.json](./156797-vrandish.json) |
 | Vranygrai | 235766 | [235766-vranygrai.json](./235766-vranygrai.json) |
 | VRC Pro | 36141 | [36141-vrc-pro.json](./36141-vrc-pro.json) |
 | VRC Pro: Deluxe Americas On-Road Tracks | 161763 | [161763-vrc-pro-deluxe-americas-on-road-tracks.json](./161763-vrc-pro-deluxe-americas-on-road-tracks.json) |
