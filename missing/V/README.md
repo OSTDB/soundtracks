@@ -4269,6 +4269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vulgaria | 207471 | [207471-vulgaria.json](./207471-vulgaria.json) |
 | Vulgord's Tower | 151292 | [151292-vulgords-tower.json](./151292-vulgords-tower.json) |
 | Vulgus | 25886 | [25886-vulgus.json](./25886-vulgus.json) |
+| Vulkan: Lost Planet | 190782 | [190782-vulkan-lost-planet.json](./190782-vulkan-lost-planet.json) |
 | Vulnerable | 196933 | [196933-vulnerable.json](./196933-vulnerable.json) |
 | Vulpin Adventures | 299360 | [299360-vulpin-adventures.json](./299360-vulpin-adventures.json) |
 | Vulpine | 82477 | [82477-vulpine.json](./82477-vulpine.json) |
