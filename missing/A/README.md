@@ -7806,6 +7806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Mission | 8911 | [8911-alpha-mission.json](./8911-alpha-mission.json) |
 | Alpha Mission II | 13681 | [13681-alpha-mission-ii.json](./13681-alpha-mission-ii.json) |
 | Alpha Nomos | 303133 | [303133-alpha-nomos.json](./303133-alpha-nomos.json) |
+| Alpha One | 173333 | [173333-alpha-one.json](./173333-alpha-one.json) |
 | Alpha One | 249644 | [249644-alpha-one.json](./249644-alpha-one.json) |
 | Alpha Pairs | 203854 | [203854-alpha-pairs.json](./203854-alpha-pairs.json) |
 | Alpha Point | 361730 | [361730-alpha-point.json](./361730-alpha-point.json) |
@@ -9448,6 +9449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andara: Rise for Rebellion | 255986 | [255986-andara-rise-for-rebellion.json](./255986-andara-rise-for-rebellion.json) |
 | Andarigas | 132767 | [132767-andarigas.json](./132767-andarigas.json) |
 | Andarilho | 33289 | [33289-andarilho.json](./33289-andarilho.json) |
+| Andarilho: Aliens | 173358 | [173358-andarilho-aliens.json](./173358-andarilho-aliens.json) |
 | Andarilho: Zombies | 170686 | [170686-andarilho-zombies.json](./170686-andarilho-zombies.json) |
 | Andarin Weppes | 257888 | [257888-andarin-weppes.json](./257888-andarin-weppes.json) |
 | Andarin Weppes: Pre-Dementia | 289811 | [289811-andarin-weppes-pre-dementia.json](./289811-andarin-weppes-pre-dementia.json) |
