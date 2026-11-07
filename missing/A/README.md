@@ -3020,6 +3020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Strike: Heroes | 196429 | [196429-action-strike-heroes.json](./196429-action-strike-heroes.json) |
 | Action Study Runner | 379472 | [379472-action-study-runner.json](./379472-action-study-runner.json) |
 | Action Supercross | 50393 | [50393-action-supercross.json](./50393-action-supercross.json) |
+| Action SuperCross | 174453 | [174453-action-supercross.json](./174453-action-supercross.json) |
 | Action Turnip | 242896 | [242896-action-turnip.json](./242896-action-turnip.json) |
 | Action-Strategy Baseball | 72966 | [72966-action-strategy-baseball.json](./72966-action-strategy-baseball.json) |
 | Action: Source | 192032 | [192032-action-source.json](./192032-action-source.json) |
@@ -12972,6 +12973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcana: Card Arena | 391414 | [391414-arcana-card-arena.json](./391414-arcana-card-arena.json) |
 | Arcana: Heat and Cold - Season 2 | 191241 | [191241-arcana-heat-and-cold-season-2.json](./191241-arcana-heat-and-cold-season-2.json) |
 | Arcana: Heat and Cold - Season 3 | 384903 | [384903-arcana-heat-and-cold-season-3.json](./384903-arcana-heat-and-cold-season-3.json) |
+| Arcana: Heat and Cold. Season 1 | 174423 | [174423-arcana-heat-and-cold-season-1.json](./174423-arcana-heat-and-cold-season-1.json) |
 | Arcana: Heat and Cold. Stories | 252233 | [252233-arcana-heat-and-cold-stories.json](./252233-arcana-heat-and-cold-stories.json) |
 | Arcana: Seal of Rimsala | 312351 | [312351-arcana-seal-of-rimsala.json](./312351-arcana-seal-of-rimsala.json) |
 | Arcanamals | 274477 | [274477-arcanamals.json](./274477-arcanamals.json) |
@@ -16602,6 +16604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - Great Adventures in New Worlds Vol. 2 | 171342 | [171342-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-great-adventures-in-new-worlds-vol-2.json](./171342-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-great-adventures-in-new-worlds-vol-2.json) |
 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - Ilmeria | 238146 | [238146-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-ilmeria.json](./238146-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-ilmeria.json) |
 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - Lucia | 238145 | [238145-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-lucia.json](./238145-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-lucia.json) |
+| Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - New Area: Claudel Prairie | 174414 | [174414-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-new-area-claudel-prairie.json](./174414-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-new-area-claudel-prairie.json) |
 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - New Quest: Loads of Exp Quest | 238143 | [238143-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-new-quest-loads-of-exp-quest.json](./238143-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-new-quest-loads-of-exp-quest.json) |
 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings - New Quest: Piles of Coll Quest | 238142 | [238142-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-new-quest-piles-of-coll-quest.json](./238142-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-new-quest-piles-of-coll-quest.json) |
 | Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings DX | 143279 | [143279-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-dx.json](./143279-atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-dx.json) |
