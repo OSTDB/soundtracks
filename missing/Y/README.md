@@ -12,6 +12,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Y. Village: The Visitors | 272873 | [272873-y-village-the-visitors.json](./272873-y-village-the-visitors.json) |
 | Y.A.S.G | 84935 | [84935-y-a-s-g.json](./84935-y-a-s-g.json) |
 | Y.A.W: You Are Weaponized | 140939 | [140939-y-a-w-you-are-weaponized.json](./140939-y-a-w-you-are-weaponized.json) |
+| Y.E.T.I | 148646 | [148646-y-e-t-i.json](./148646-y-e-t-i.json) |
 | Y.M.C.A. | 333632 | [333632-y-m-c-a.json](./333632-y-m-c-a.json) |
 | Y'Ryando | 309723 | [309723-yryando.json](./309723-yryando.json) |
 | Y2K Directive | 278245 | [278245-y2k-directive.json](./278245-y2k-directive.json) |
