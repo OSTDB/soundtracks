@@ -2995,6 +2995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Ninja | 295093 | [295093-path-of-ninja.json](./295093-path-of-ninja.json) |
 | Path of Ra | 211974 | [211974-path-of-ra.json](./211974-path-of-ra.json) |
 | Path of Redemption | 128270 | [128270-path-of-redemption.json](./128270-path-of-redemption.json) |
+| Path of Sacrifice | 152555 | [152555-path-of-sacrifice.json](./152555-path-of-sacrifice.json) |
 | Path of Shadows | 184949 | [184949-path-of-shadows.json](./184949-path-of-shadows.json) |
 | Path of Sin: Greed | 107734 | [107734-path-of-sin-greed.json](./107734-path-of-sin-greed.json) |
 | Path of Soul | 258768 | [258768-path-of-soul.json](./258768-path-of-soul.json) |
@@ -9820,6 +9821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play & Learn Kids' Mini-Game Collection | 345995 | [345995-play-and-learn-kids-mini-game-collection.json](./345995-play-and-learn-kids-mini-game-collection.json) |
 | Play & Learn My First Katakana | 420696 | [420696-play-and-learn-my-first-katakana.json](./420696-play-and-learn-my-first-katakana.json) |
 | Play & Learn Spanish | 84722 | [84722-play-and-learn-spanish.json](./84722-play-and-learn-spanish.json) |
+| Play a ball | 152959 | [152959-play-a-ball.json](./152959-play-a-ball.json) |
 | Play Abalone | 374615 | [374615-play-abalone.json](./374615-play-abalone.json) |
 | Play Action Football | 217682 | [217682-play-action-football.json](./217682-play-action-football.json) |
 | Play Action Football | 49052 | [49052-play-action-football.json](./49052-play-action-football.json) |
@@ -10707,6 +10709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poetry, wine and sword | 158186 | [158186-poetry-wine-and-sword.json](./158186-poetry-wine-and-sword.json) |
 | Pog | 168510 | [168510-pog.json](./168510-pog.json) |
 | Pog 2 | 157503 | [157503-pog-2.json](./157503-pog-2.json) |
+| Pog 3 | 152961 | [152961-pog-3.json](./152961-pog-3.json) |
 | Pog 4 | 158497 | [158497-pog-4.json](./158497-pog-4.json) |
 | Pog 5 | 165705 | [165705-pog-5.json](./165705-pog-5.json) |
 | Pog 6 | 188853 | [188853-pog-6.json](./188853-pog-6.json) |
@@ -11981,6 +11984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polda 5.5 | 422789 | [422789-polda-5-5.json](./422789-polda-5-5.json) |
 | Polda 7 | 205730 | [205730-polda-7.json](./205730-polda-7.json) |
 | Polders | 388320 | [388320-polders.json](./388320-polders.json) |
+| Pole | 152965 | [152965-pole.json](./152965-pole.json) |
 | Pole Chudes 2015 | 251143 | [251143-pole-chudes-2015.json](./251143-pole-chudes-2015.json) |
 | Pole Chudes: Capital Show | 194912 | [194912-pole-chudes-capital-show.json](./194912-pole-chudes-capital-show.json) |
 | Pole Dancers XXX | 249041 | [249041-pole-dancers-xxx.json](./249041-pole-dancers-xxx.json) |
@@ -14675,6 +14679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princes of Qing | 402961 | [402961-princes-of-qing.json](./402961-princes-of-qing.json) |
 | Princesa das Nuvens | 259458 | [259458-princesa-das-nuvens.json](./259458-princesa-das-nuvens.json) |
 | Princess | 187431 | [187431-princess.json](./187431-princess.json) |
+| Princess & Blade | 152944 | [152944-princess-and-blade.json](./152944-princess-and-blade.json) |
 | Princess & Conquest | 128008 | [128008-princess-and-conquest.json](./128008-princess-and-conquest.json) |
 | Princess & Goblin | 193874 | [193874-princess-and-goblin.json](./193874-princess-and-goblin.json) |
 | Princess Amelia's World | 299221 | [299221-princess-amelias-world.json](./299221-princess-amelias-world.json) |
@@ -16548,6 +16553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project: Mist | 272348 | [272348-project-mist.json](./272348-project-mist.json) |
 | Project: Name | 205756 | [205756-project-name.json](./205756-project-name.json) |
 | Project: Neo | 276618 | [276618-project-neo.json](./276618-project-neo.json) |
+| Project: New Light City | 152558 | [152558-project-new-light-city.json](./152558-project-new-light-city.json) |
 | Project: Nightlight | 224650 | [224650-project-nightlight.json](./224650-project-nightlight.json) |
 | Project: Nitro | 172060 | [172060-project-nitro.json](./172060-project-nitro.json) |
 | Project: Nova | 304652 | [304652-project-nova.json](./304652-project-nova.json) |
