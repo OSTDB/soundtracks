@@ -521,6 +521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fading Star Melody | 328098 | [328098-fading-star-melody.json](./328098-fading-star-melody.json) |
 | Fading Visage | 101622 | [101622-fading-visage.json](./101622-fading-visage.json) |
 | Fadó | 124188 | [124188-fado.json](./124188-fado.json) |
+| Fadry | 187636 | [187636-fadry.json](./187636-fadry.json) |
 | Fae & Fauna | 244566 | [244566-fae-and-fauna.json](./244566-fae-and-fauna.json) |
 | Fae Farm: Coasts of Croakia | 278681 | [278681-fae-farm-coasts-of-croakia.json](./278681-fae-farm-coasts-of-croakia.json) |
 | Fae Farm: Skies of Azoria | 331464 | [331464-fae-farm-skies-of-azoria.json](./331464-fae-farm-skies-of-azoria.json) |
@@ -8637,6 +8638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Angel | 151002 | [151002-flying-angel.json](./151002-flying-angel.json) |
 | Flying Arrow! | 96920 | [96920-flying-arrow.json](./96920-flying-arrow.json) |
 | Flying Arrow!. | 100789 | [100789-flying-arrow.json](./100789-flying-arrow.json) |
+| Flying Axe | 187626 | [187626-flying-axe.json](./187626-flying-axe.json) |
 | Flying Bacon: Ukrainian Air Force | 81964 | [81964-flying-bacon-ukrainian-air-force.json](./81964-flying-bacon-ukrainian-air-force.json) |
 | Flying Baron 1916 | 31607 | [31607-flying-baron-1916.json](./31607-flying-baron-1916.json) |
 | Flying Body Parts | 64328 | [64328-flying-body-parts.json](./64328-flying-body-parts.json) |
