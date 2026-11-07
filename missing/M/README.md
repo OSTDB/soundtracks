@@ -5958,6 +5958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -15560,6 +15561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly Plus and Monopoly Madness | 182497 | [182497-monopoly-plus-and-monopoly-madness.json](./182497-monopoly-plus-and-monopoly-madness.json) |
 | Monopoly Plus: My Little Pony | 242953 | [242953-monopoly-plus-my-little-pony.json](./242953-monopoly-plus-my-little-pony.json) |
 | Monopoly Poker | 191623 | [191623-monopoly-poker.json](./191623-monopoly-poker.json) |
+| Monopoly Solitaire | 183134 | [183134-monopoly-solitaire.json](./183134-monopoly-solitaire.json) |
 | Monopoly Streets | 21574 | [21574-monopoly-streets.json](./21574-monopoly-streets.json) |
 | Monopoly Sudoku | 292005 | [292005-monopoly-sudoku.json](./292005-monopoly-sudoku.json) |
 | Monopoly Tycoon | 197249 | [197249-monopoly-tycoon.json](./197249-monopoly-tycoon.json) |
@@ -22195,6 +22197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythic Defender | 195616 | [195616-mythic-defender.json](./195616-mythic-defender.json) |
 | Mythic Dreams | 276759 | [276759-mythic-dreams.json](./276759-mythic-dreams.json) |
 | Mythic Glory | 98531 | [98531-mythic-glory.json](./98531-mythic-glory.json) |
+| Mythic Heroes | 183142 | [183142-mythic-heroes.json](./183142-mythic-heroes.json) |
 | Mythic Kart Maker | 381580 | [381580-mythic-kart-maker.json](./381580-mythic-kart-maker.json) |
 | Mythic Legends | 201617 | [201617-mythic-legends.json](./201617-mythic-legends.json) |
 | Mythic Love: Iberian Legends | 386288 | [386288-mythic-love-iberian-legends.json](./386288-mythic-love-iberian-legends.json) |
