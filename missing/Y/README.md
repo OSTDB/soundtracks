@@ -1287,6 +1287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You're Gonna Miss the Bus! | 271385 | [271385-youre-gonna-miss-the-bus.json](./271385-youre-gonna-miss-the-bus.json) |
 | You're Gonna Miss the Bus! | 271683 | [271683-youre-gonna-miss-the-bus.json](./271683-youre-gonna-miss-the-bus.json) |
 | You're Grounded! | 322355 | [322355-youre-grounded.json](./322355-youre-grounded.json) |
+| You're in Space and Everyone Wants You Dead | 145150 | [145150-youre-in-space-and-everyone-wants-you-dead.json](./145150-youre-in-space-and-everyone-wants-you-dead.json) |
 | You're in the Movies | 7258 | [7258-youre-in-the-movies.json](./7258-youre-in-the-movies.json) |
 | You're Just Imagining It | 294666 | [294666-youre-just-imagining-it.json](./294666-youre-just-imagining-it.json) |
 | You're Mine! | 303275 | [303275-youre-mine.json](./303275-youre-mine.json) |
