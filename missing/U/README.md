@@ -3209,6 +3209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uprush | 266239 | [266239-uprush.json](./266239-uprush.json) |
 | Upscale Studio: Logic Bundle: 5 in 1 | 379360 | [379360-upscale-studio-logic-bundle-5-in-1.json](./379360-upscale-studio-logic-bundle-5-in-1.json) |
 | Upscale Studio: Ultimate Bundle 15 in 1 | 385127 | [385127-upscale-studio-ultimate-bundle-15-in-1.json](./385127-upscale-studio-ultimate-bundle-15-in-1.json) |
+| Upset Crab | 182634 | [182634-upset-crab.json](./182634-upset-crab.json) |
 | Upshift StrikeRacer | 375395 | [375395-upshift-strikeracer.json](./375395-upshift-strikeracer.json) |
 | Upside | 151489 | [151489-upside.json](./151489-upside.json) |
 | Upside Down | 90487 | [90487-upside-down.json](./90487-upside-down.json) |
