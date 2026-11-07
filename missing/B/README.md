@@ -972,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4725,6 +4726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be a Bee | 386357 | [386357-be-a-bee.json](./386357-be-a-bee.json) |
 | Be A Bee | 351090 | [351090-be-a-bee.json](./351090-be-a-bee.json) |
 | Be a King | 80245 | [80245-be-a-king.json](./80245-be-a-king.json) |
+| Be a King 2 | 141970 | [141970-be-a-king-2.json](./141970-be-a-king-2.json) |
 | Be a King: Golden Empire | 52452 | [52452-be-a-king-golden-empire.json](./52452-be-a-king-golden-empire.json) |
 | Be A Lord | 114293 | [114293-be-a-lord.json](./114293-be-a-lord.json) |
 | Be a Maid in the Demon World: The Secret Cafe of the Demon Angel Hero | 171960 | [171960-be-a-maid-in-the-demon-world-the-secret-cafe-of-the-demon-angel-hero.json](./171960-be-a-maid-in-the-demon-world-the-secret-cafe-of-the-demon-angel-hero.json) |
@@ -6002,6 +6004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beetle Barrage | 369466 | [369466-beetle-barrage.json](./369466-beetle-barrage.json) |
 | Beetle Bomp | 52632 | [52632-beetle-bomp.json](./52632-beetle-bomp.json) |
 | Beetle Buggin' | 205959 | [205959-beetle-buggin.json](./205959-beetle-buggin.json) |
+| Beetle Bunt | 142010 | [142010-beetle-bunt.json](./142010-beetle-bunt.json) |
 | Beetle Hunter | 126245 | [126245-beetle-hunter.json](./126245-beetle-hunter.json) |
 | Beetle Ju | 117668 | [117668-beetle-ju.json](./117668-beetle-ju.json) |
 | Beetle Ju 2 | 239500 | [239500-beetle-ju-2.json](./239500-beetle-ju-2.json) |
@@ -7863,6 +7866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikkuri Nekketsu Shinkiroku: Dokodemo Kin Medal | 49108 | [49108-bikkuri-nekketsu-shinkiroku-dokodemo-kin-medal.json](./49108-bikkuri-nekketsu-shinkiroku-dokodemo-kin-medal.json) |
 | Bikkuri Pachinko: Ashita no Joe Kyoraku Collection Vol. 1 | 65561 | [65561-bikkuri-pachinko-ashita-no-joe-kyoraku-collection-vol-1.json](./65561-bikkuri-pachinko-ashita-no-joe-kyoraku-collection-vol-1.json) |
 | Bikkuri Pro Wrestling | 264252 | [264252-bikkuri-pro-wrestling.json](./264252-bikkuri-pro-wrestling.json) |
+| Bikkuri! Tobidasu! Mahou no Pen | 141987 | [141987-bikkuri-tobidasu-mahou-no-pen.json](./141987-bikkuri-tobidasu-mahou-no-pen.json) |
 | Bikkuriman 2000 Kamereon Zantei no Inbou | 376733 | [376733-bikkuriman-2000-kamereon-zantei-no-inbou.json](./376733-bikkuriman-2000-kamereon-zantei-no-inbou.json) |
 | Bikkuriman 2000: Charging Card GB | 228492 | [228492-bikkuriman-2000-charging-card-gb.json](./228492-bikkuriman-2000-charging-card-gb.json) |
 | Bikkuriman 2000: Viva! Pocket Festival! | 43971 | [43971-bikkuriman-2000-viva-pocket-festival.json](./43971-bikkuriman-2000-viva-pocket-festival.json) |
