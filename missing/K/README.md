@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kalpa: The Sign of Omen | 238918 | [238918-kalpa-the-sign-of-omen.json](./238918-kalpa-the-sign-of-omen.json) |
 | Kalt | 219871 | [219871-kalt.json](./219871-kalt.json) |
 | Kalterkrieg | 356057 | [356057-kalterkrieg.json](./356057-kalterkrieg.json) |
+| Kalyskah | 140112 | [140112-kalyskah.json](./140112-kalyskah.json) |
 | Kalyskah: Jungle Trouble! | 219489 | [219489-kalyskah-jungle-trouble.json](./219489-kalyskah-jungle-trouble.json) |
 | Kalyzmyr | 191807 | [191807-kalyzmyr.json](./191807-kalyzmyr.json) |
 | Kalzoon | 226450 | [226450-kalzoon.json](./226450-kalzoon.json) |
