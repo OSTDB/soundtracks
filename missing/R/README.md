@@ -5573,6 +5573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reshape | 255729 | [255729-reshape.json](./255729-reshape.json) |
 | Reshape | 293634 | [293634-reshape.json](./293634-reshape.json) |
 | Reshaper | 183838 | [183838-reshaper.json](./183838-reshaper.json) |
+| Reshaping Mars | 149676 | [149676-reshaping-mars.json](./149676-reshaping-mars.json) |
 | Reshine | 399078 | [399078-reshine.json](./399078-reshine.json) |
 | Reshoot Proxima 3 | 284122 | [284122-reshoot-proxima-3.json](./284122-reshoot-proxima-3.json) |
 | ReShot | 364646 | [364646-reshot.json](./364646-reshot.json) |
@@ -8072,6 +8073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Empires 2 | 176623 | [176623-rising-empires-2.json](./176623-rising-empires-2.json) |
 | Rising Evil VR | 112176 | [112176-rising-evil-vr.json](./112176-rising-evil-vr.json) |
 | Rising Fire | 112515 | [112515-rising-fire.json](./112515-rising-fire.json) |
+| Rising Front | 149679 | [149679-rising-front.json](./149679-rising-front.json) |
 | Rising Hazard | 180405 | [180405-rising-hazard.json](./180405-rising-hazard.json) |
 | Rising Heat | 319372 | [319372-rising-heat.json](./319372-rising-heat.json) |
 | Rising Hell | 108409 | [108409-rising-hell.json](./108409-rising-hell.json) |
@@ -9428,6 +9430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock, the Tree Hugger | 34732 | [34732-rock-the-tree-hugger.json](./34732-rock-the-tree-hugger.json) |
 | Rock: Paper - Death | 392934 | [392934-rock-paper-death.json](./392934-rock-paper-death.json) |
 | Rock'n Bark | 171853 | [171853-rockn-bark.json](./171853-rockn-bark.json) |
+| Rock'n Cow | 149674 | [149674-rockn-cow.json](./149674-rockn-cow.json) |
 | Rock'n Tread | 369814 | [369814-rockn-tread.json](./369814-rockn-tread.json) |
 | Rock'n Wrestle | 39146 | [39146-rockn-wrestle.json](./39146-rockn-wrestle.json) |
 | Rock'n' Ball | 48206 | [48206-rockn-ball.json](./48206-rockn-ball.json) |
