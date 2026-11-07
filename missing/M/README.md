@@ -5979,6 +5979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8757,6 +8758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memoir En Code | 18990 | [18990-memoir-en-code.json](./18990-memoir-en-code.json) |
 | Memoir of Phantom's Fortitude | 134852 | [134852-memoir-of-phantoms-fortitude.json](./134852-memoir-of-phantoms-fortitude.json) |
 | Mémoire 0079 | 257276 | [257276-memoire-0079.json](./257276-memoire-0079.json) |
+| Mémoire d'Arumac | 167983 | [167983-memoire-darumac.json](./167983-memoire-darumac.json) |
 | Memoirium | 365108 | [365108-memoirium.json](./365108-memoirium.json) |
 | Memoirs of an Angel | 308283 | [308283-memoirs-of-an-angel.json](./308283-memoirs-of-an-angel.json) |
 | Memoirs of Murder: Behind the Scenes | 322580 | [322580-memoirs-of-murder-behind-the-scenes.json](./322580-memoirs-of-murder-behind-the-scenes.json) |
@@ -19180,6 +19182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mulk & Swank: Great Adventure in Magic World | 209289 | [209289-mulk-and-swank-great-adventure-in-magic-world.json](./209289-mulk-and-swank-great-adventure-in-magic-world.json) |
 | Mullet Hell | 233596 | [233596-mullet-hell.json](./233596-mullet-hell.json) |
 | Mullet Madjack: Deluxe Edition | 318218 | [318218-mullet-madjack-deluxe-edition.json](./318218-mullet-madjack-deluxe-edition.json) |
+| Mülltrennungssimulator 2021 | 167992 | [167992-mulltrennungssimulator-2021.json](./167992-mulltrennungssimulator-2021.json) |
 | Multi Cheetah Speed hero Vs Wild Animals | 95795 | [95795-multi-cheetah-speed-hero-vs-wild-animals.json](./95795-multi-cheetah-speed-hero-vs-wild-animals.json) |
 | Multi Deck Hero | 346617 | [346617-multi-deck-hero.json](./346617-multi-deck-hero.json) |
 | Multi Do Sort | 331368 | [331368-multi-do-sort.json](./331368-multi-do-sort.json) |
