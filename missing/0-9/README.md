@@ -733,6 +733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100-Level Dungeon | 156577 | [156577-100-level-dungeon.json](./156577-100-level-dungeon.json) |
 | 100-man-nin no Nobunaga no Yabou | 208243 | [208243-100-man-nin-no-nobunaga-no-yabou.json](./208243-100-man-nin-no-nobunaga-no-yabou.json) |
 | 100-oku-hiki no Mona | 297640 | [297640-100-oku-hiki-no-mona.json](./297640-100-oku-hiki-no-mona.json) |
+| 100-Player Twitch Chat Party Pack | 146456 | [146456-100-player-twitch-chat-party-pack.json](./146456-100-player-twitch-chat-party-pack.json) |
 | 100,000 Games | 67177 | [67177-100-000-games.json](./67177-100-000-games.json) |
 | 100! | 99089 | [99089-100.json](./99089-100.json) |
 | 100% Accurate Youtuber Simulator | 376884 | [376884-100-accurate-youtuber-simulator.json](./376884-100-accurate-youtuber-simulator.json) |
@@ -2978,6 +2979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 500 Saints | 400752 | [400752-500-saints.json](./400752-500-saints.json) |
 | 500 Second Challenge | 219514 | [219514-500-second-challenge.json](./219514-500-second-challenge.json) |
 | 500 Years Act 1 | 35587 | [35587-500-years-act-1.json](./35587-500-years-act-1.json) |
+| 500,000 Games 3.0 | 146423 | [146423-500-000-games-3-0.json](./146423-500-000-games-3-0.json) |
 | 5001 Games the Ultimate Games Pack | 147280 | [147280-5001-games-the-ultimate-games-pack.json](./147280-5001-games-the-ultimate-games-pack.json) |
 | 502's Arcade | 179444 | [179444-502s-arcade.json](./179444-502s-arcade.json) |
 | 505 Game Collection | 266324 | [266324-505-game-collection.json](./266324-505-game-collection.json) |
