@@ -1717,6 +1717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Shakespeare: To Date or Not to Date? - The Merry War | 174148 | [174148-paper-shakespeare-to-date-or-not-to-date-the-merry-war.json](./174148-paper-shakespeare-to-date-or-not-to-date-the-merry-war.json) |
 | Paper Shakespeare: To Date or Not to Date? 2 | 127208 | [127208-paper-shakespeare-to-date-or-not-to-date-2.json](./127208-paper-shakespeare-to-date-or-not-to-date-2.json) |
 | Paper Shakespeare: Very Naked Hamlet | 171577 | [171577-paper-shakespeare-very-naked-hamlet.json](./171577-paper-shakespeare-very-naked-hamlet.json) |
+| Paper Shooter! | 159997 | [159997-paper-shooter.json](./159997-paper-shooter.json) |
 | Paper Sky | 280094 | [280094-paper-sky.json](./280094-paper-sky.json) |
 | Paper Snakes | 196808 | [196808-paper-snakes.json](./196808-paper-snakes.json) |
 | Paper Snow | 241977 | [241977-paper-snow.json](./241977-paper-snow.json) |
@@ -3811,6 +3812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pecking Order | 337778 | [337778-pecking-order.json](./337778-pecking-order.json) |
 | Peckout | 420222 | [420222-peckout.json](./420222-peckout.json) |
 | Pecky Clicker | 391192 | [391192-pecky-clicker.json](./391192-pecky-clicker.json) |
+| Peco | 159949 | [159949-peco.json](./159949-peco.json) |
 | Peco Peco | 184793 | [184793-peco-peco.json](./184793-peco-peco.json) |
 | Pecos Bill | 210008 | [210008-pecos-bill.json](./210008-pecos-bill.json) |
 | Peculiar Fables: The Werebed | 186731 | [186731-peculiar-fables-the-werebed.json](./186731-peculiar-fables-the-werebed.json) |
@@ -6083,6 +6085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pickomino | 175466 | [175466-pickomino.json](./175466-pickomino.json) |
 | Pickup 'N' Packup! | 323260 | [323260-pickup-n-packup.json](./323260-pickup-n-packup.json) |
 | Pickup Artist Trouble | 245765 | [245765-pickup-artist-trouble.json](./245765-pickup-artist-trouble.json) |
+| Pickup Basketball VR | 159964 | [159964-pickup-basketball-vr.json](./159964-pickup-basketball-vr.json) |
 | PickUp Express | 72956 | [72956-pickup-express.json](./72956-pickup-express.json) |
 | Pickup One | 202753 | [202753-pickup-one.json](./202753-pickup-one.json) |
 | Pickup Point Simulator | 304613 | [304613-pickup-point-simulator.json](./304613-pickup-point-simulator.json) |
@@ -6375,6 +6378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pieter Both Village | 212643 | [212643-pieter-both-village.json](./212643-pieter-both-village.json) |
 | Pif Paf | 105323 | [105323-pif-paf.json](./105323-pif-paf.json) |
 | Piffle: The Great Dessert | 238031 | [238031-piffle-the-great-dessert.json](./238031-piffle-the-great-dessert.json) |
+| Piffsy | 159990 | [159990-piffsy.json](./159990-piffsy.json) |
 | Pig | 367569 | [367569-pig.json](./367569-pig.json) |
 | Pig & Chikin | 341576 | [341576-pig-and-chikin.json](./341576-pig-and-chikin.json) |
 | Pig Bros Adventure | 214729 | [214729-pig-bros-adventure.json](./214729-pig-bros-adventure.json) |
