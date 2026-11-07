@@ -5076,6 +5076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Farmer | 233205 | [233205-beast-farmer.json](./233205-beast-farmer.json) |
 | Beast Fists | 211096 | [211096-beast-fists.json](./211096-beast-fists.json) |
 | Beast Gang | 368824 | [368824-beast-gang.json](./368824-beast-gang.json) |
+| Beast Hour | 151329 | [151329-beast-hour.json](./151329-beast-hour.json) |
 | Beast Hunt | 425545 | [425545-beast-hunt.json](./425545-beast-hunt.json) |
 | Beast King | 113488 | [113488-beast-king.json](./113488-beast-king.json) |
 | Beast League | 251206 | [251206-beast-league.json](./251206-beast-league.json) |
@@ -13213,6 +13214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Boom Tower | 118063 | [118063-boom-boom-tower.json](./118063-boom-boom-tower.json) |
 | Boom Boom Volleyball | 263470 | [263470-boom-boom-volleyball.json](./263470-boom-boom-volleyball.json) |
 | Boom Boomerang | 127683 | [127683-boom-boomerang.json](./127683-boom-boomerang.json) |
+| Boom Bound | 151342 | [151342-boom-bound.json](./151342-boom-bound.json) |
 | Boom Box Blue! | 74496 | [74496-boom-box-blue.json](./74496-boom-box-blue.json) |
 | Boom Buddies | 417200 | [417200-boom-buddies.json](./417200-boom-buddies.json) |
 | Boom Buddy | 368491 | [368491-boom-buddy.json](./368491-boom-buddy.json) |
@@ -17030,6 +17032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggerworld | 165928 | [165928-buggerworld.json](./165928-buggerworld.json) |
 | Buggish | 184786 | [184786-buggish.json](./184786-buggish.json) |
 | Buggle Blast | 255721 | [255721-buggle-blast.json](./255721-buggle-blast.json) |
+| Buggos | 151331 | [151331-buggos.json](./151331-buggos.json) |
 | Buggos 2 | 342787 | [342787-buggos-2.json](./342787-buggos-2.json) |
 | Buggotchi | 323604 | [323604-buggotchi.json](./323604-buggotchi.json) |
 | Buggy | 35080 | [35080-buggy.json](./35080-buggy.json) |
