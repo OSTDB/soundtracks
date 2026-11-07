@@ -5494,6 +5494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lines: A Gift for Mom | 391139 | [391139-lines-a-gift-for-mom.json](./391139-lines-a-gift-for-mom.json) |
 | Linesgo | 326092 | [326092-linesgo.json](./326092-linesgo.json) |
 | LineVox | 159489 | [159489-linevox.json](./159489-linevox.json) |
+| LineVox 2: Forward to the Past | 173360 | [173360-linevox-2-forward-to-the-past.json](./173360-linevox-2-forward-to-the-past.json) |
 | LineWars II | 69230 | [69230-linewars-ii.json](./69230-linewars-ii.json) |
 | LineWay | 307291 | [307291-lineway.json](./307291-lineway.json) |
 | Lineweight | 204984 | [204984-lineweight.json](./204984-lineweight.json) |
