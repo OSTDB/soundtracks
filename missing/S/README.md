@@ -2114,6 +2114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satebo's Word Game | 265176 | [265176-satebos-word-game.json](./265176-satebos-word-game.json) |
 | Sated | 405122 | [405122-sated.json](./405122-sated.json) |
 | Satella 2 1 | 178952 | [178952-satella-2-1.json](./178952-satella-2-1.json) |
+| Satella de Picross | 151877 | [151877-satella-de-picross.json](./151877-satella-de-picross.json) |
 | Satella X | 178953 | [178953-satella-x.json](./178953-satella-x.json) |
 | Satella-Q | 67026 | [67026-satella-q.json](./67026-satella-q.json) |
 | Satella-Q: 1QQQ Q-nenjuu ha O-sewa ni Narimashita. Kotoshi mo Yoroshi Quiz! | 179245 | [179245-satella-q-1qqq-q-nenjuu-ha-o-sewa-ni-narimashita-kotoshi-mo-yoroshi-quiz.json](./179245-satella-q-1qqq-q-nenjuu-ha-o-sewa-ni-narimashita-kotoshi-mo-yoroshi-quiz.json) |
@@ -7680,6 +7681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SharpShooter3D | 103189 | [103189-sharpshooter3d.json](./103189-sharpshooter3d.json) |
 | SharpShooter3D | 336568 | [336568-sharpshooter3d.json](./336568-sharpshooter3d.json) |
 | Shàshí Qíngyīn | 107401 | [107401-shashi-qingyin.json](./107401-shashi-qingyin.json) |
+| Shashingo: Learn Japanese With Photography | 151903 | [151903-shashingo-learn-japanese-with-photography.json](./151903-shashingo-learn-japanese-with-photography.json) |
 | Shashingo: Learn Japanese with Photography - Additional Camera Filters | 298044 | [298044-shashingo-learn-japanese-with-photography-additional-camera-filters.json](./298044-shashingo-learn-japanese-with-photography-additional-camera-filters.json) |
 | Shatter | 13101 | [13101-shatter.json](./13101-shatter.json) |
 | Shatter | 137083 | [137083-shatter.json](./137083-shatter.json) |
@@ -9110,6 +9112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoku Pain | 415986 | [415986-shoku-pain.json](./415986-shoku-pain.json) |
 | Shokugeki no Soma: Yuujou to Kizuna no Hitosara | 222523 | [222523-shokugeki-no-soma-yuujou-to-kizuna-no-hitosara.json](./222523-shokugeki-no-soma-yuujou-to-kizuna-no-hitosara.json) |
 | Shokuho | 356163 | [356163-shokuho.json](./356163-shokuho.json) |
+| Shokujinki | 151908 | [151908-shokujinki.json](./151908-shokujinki.json) |
 | Shokuma Gaiden 3 | 97375 | [97375-shokuma-gaiden-3.json](./97375-shokuma-gaiden-3.json) |
 | Shokuo Shoujo | 158152 | [158152-shokuo-shoujo.json](./158152-shokuo-shoujo.json) |
 | Shokutama | 97828 | [97828-shokutama.json](./97828-shokutama.json) |
@@ -13923,6 +13926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slimepocalypse | 340362 | [340362-slimepocalypse.json](./340362-slimepocalypse.json) |
 | Slimer | 184489 | [184489-slimer.json](./184489-slimer.json) |
 | Slimeria | 259497 | [259497-slimeria.json](./259497-slimeria.json) |
+| Slimes | 151879 | [151879-slimes.json](./151879-slimes.json) |
 | Slimes & Dusters TO | 273800 | [273800-slimes-and-dusters-to.json](./273800-slimes-and-dusters-to.json) |
 | Slimes RPG | 110782 | [110782-slimes-rpg.json](./110782-slimes-rpg.json) |
 | Slimes: Cannon Combat | 250841 | [250841-slimes-cannon-combat.json](./250841-slimes-cannon-combat.json) |
@@ -16214,6 +16218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SOCOM: U.S. Navy SEALs Fireteam Bravo 2 | 19431 | [19431-socom-u-s-navy-seals-fireteam-bravo-2.json](./19431-socom-u-s-navy-seals-fireteam-bravo-2.json) |
 | SOCOM: U.S. Navy SEALs Fireteam Bravo 3 | 21665 | [21665-socom-u-s-navy-seals-fireteam-bravo-3.json](./21665-socom-u-s-navy-seals-fireteam-bravo-3.json) |
 | SOCOM: US Navy SEALs | 22238 | [22238-socom-us-navy-seals.json](./22238-socom-us-navy-seals.json) |
+| Socrates Chess 3 | 151916 | [151916-socrates-chess-3.json](./151916-socrates-chess-3.json) |
 | Socrates Jones: Pro Philosopher | 122894 | [122894-socrates-jones-pro-philosopher.json](./122894-socrates-jones-pro-philosopher.json) |
 | Soctics League | 208623 | [208623-soctics-league.json](./208623-soctics-league.json) |
 | Socxel | 180049 | [180049-socxel.json](./180049-socxel.json) |
@@ -16505,6 +16510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Core | 68683 | [68683-solar-core.json](./68683-solar-core.json) |
 | Solar Cram School | 122393 | [122393-solar-cram-school.json](./122393-solar-cram-school.json) |
 | Solar Crusade | 45908 | [45908-solar-crusade.json](./45908-solar-crusade.json) |
+| Solar Danmaku | 151917 | [151917-solar-danmaku.json](./151917-solar-danmaku.json) |
 | Solar Derby | 385799 | [385799-solar-derby.json](./385799-solar-derby.json) |
 | Solar Descent | 251316 | [251316-solar-descent.json](./251316-solar-descent.json) |
 | Solar Dominion | 306177 | [306177-solar-dominion.json](./306177-solar-dominion.json) |
@@ -17598,6 +17604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Colors: Ultimate - 30th Anniversary Pack | 150157 | [150157-sonic-colors-ultimate-30th-anniversary-pack.json](./150157-sonic-colors-ultimate-30th-anniversary-pack.json) |
 | Sonic Colors: Ultimate - Day One Edition | 227941 | [227941-sonic-colors-ultimate-day-one-edition.json](./227941-sonic-colors-ultimate-day-one-edition.json) |
 | Sonic Colors: Ultimate - Digital Deluxe | 169201 | [169201-sonic-colors-ultimate-digital-deluxe.json](./169201-sonic-colors-ultimate-digital-deluxe.json) |
+| Sonic Colors: Ultimate - Launch Edition | 151924 | [151924-sonic-colors-ultimate-launch-edition.json](./151924-sonic-colors-ultimate-launch-edition.json) |
 | Sonic Colors: Ultimate Online Puzzle | 237491 | [237491-sonic-colors-ultimate-online-puzzle.json](./237491-sonic-colors-ultimate-online-puzzle.json) |
 | Sonic Continuity Distortion | 316337 | [316337-sonic-continuity-distortion.json](./316337-sonic-continuity-distortion.json) |
 | Sonic Core | 130038 | [130038-sonic-core.json](./130038-sonic-core.json) |
@@ -36095,6 +36102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swordsman | 86195 | [86195-swordsman.json](./86195-swordsman.json) |
 | Swordsman 3: Xiè Yúnliú Zhuán | 171531 | [171531-swordsman-3-xie-yunliu-zhuan.json](./171531-swordsman-3-xie-yunliu-zhuan.json) |
 | Swordsman Night King | 401619 | [401619-swordsman-night-king.json](./401619-swordsman-night-king.json) |
+| Swordsman of Persia: Ancient Story | 151896 | [151896-swordsman-of-persia-ancient-story.json](./151896-swordsman-of-persia-ancient-story.json) |
 | Swordsman on the Eternal Journey | 298811 | [298811-swordsman-on-the-eternal-journey.json](./298811-swordsman-on-the-eternal-journey.json) |
 | Swordsman Online | 9738 | [9738-swordsman-online.json](./9738-swordsman-online.json) |
 | Swordsman VR | 149881 | [149881-swordsman-vr.json](./149881-swordsman-vr.json) |
