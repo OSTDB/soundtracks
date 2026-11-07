@@ -16189,6 +16189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bromeliad | 158053 | [158053-bromeliad.json](./158053-bromeliad.json) |
 | Brominion | 335637 | [335637-brominion.json](./335637-brominion.json) |
 | BROMS: Battle Royale Management Simulator | 410877 | [410877-broms-battle-royale-management-simulator.json](./410877-broms-battle-royale-management-simulator.json) |
+| Bron's Quest | 140113 | [140113-brons-quest.json](./140113-brons-quest.json) |
 | Bronana | 320441 | [320441-bronana.json](./320441-bronana.json) |
 | Bronk's Jungle Adventure | 143679 | [143679-bronks-jungle-adventure.json](./143679-bronks-jungle-adventure.json) |
 | Bronk's Skyglide Challenge | 143553 | [143553-bronks-skyglide-challenge.json](./143553-bronks-skyglide-challenge.json) |
