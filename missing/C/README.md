@@ -11224,6 +11224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoBots | 62707 | [62707-cobots.json](./62707-cobots.json) |
 | Cobra | 12945 | [12945-cobra.json](./12945-cobra.json) |
 | Cobra | 74748 | [74748-cobra.json](./74748-cobra.json) |
+| Cobra Club | 141387 | [141387-cobra-club.json](./141387-cobra-club.json) |
 | Cobra Command | 290272 | [290272-cobra-command.json](./290272-cobra-command.json) |
 | Cobra Command | 69496 | [69496-cobra-command.json](./69496-cobra-command.json) |
 | Cobra Force | 13500 | [13500-cobra-force.json](./13500-cobra-force.json) |
@@ -13977,6 +13978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conspiration: Le défi des derniers rois | 386328 | [386328-conspiration-le-defi-des-derniers-rois.json](./386328-conspiration-le-defi-des-derniers-rois.json) |
 | Conspirocracy | 90230 | [90230-conspirocracy.json](./90230-conspirocracy.json) |
 | Conspyration | 272635 | [272635-conspyration.json](./272635-conspyration.json) |
+| Constance | 141355 | [141355-constance.json](./141355-constance.json) |
 | ConsTance | 323524 | [323524-constance.json](./323524-constance.json) |
 | Constance the Barbarian | 320050 | [320050-constance-the-barbarian.json](./320050-constance-the-barbarian.json) |
 | Constancia | 177326 | [177326-constancia.json](./177326-constancia.json) |
@@ -19727,6 +19729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cue Room | 388903 | [388903-cue-room.json](./388903-cue-room.json) |
 | Cue Sports | 192039 | [192039-cue-sports.json](./192039-cue-sports.json) |
 | Cue to Fall in Love with You | 404871 | [404871-cue-to-fall-in-love-with-you.json](./404871-cue-to-fall-in-love-with-you.json) |
+| CUE! -See You Everyday- | 141344 | [141344-cue-see-you-everyday.json](./141344-cue-see-you-everyday.json) |
 | Cueist | 108701 | [108701-cueist.json](./108701-cueist.json) |
 | Cueist 2 | 213145 | [213145-cueist-2.json](./213145-cueist-2.json) |
 | Cuentos Inconclusos | 320138 | [320138-cuentos-inconclusos.json](./320138-cuentos-inconclusos.json) |
