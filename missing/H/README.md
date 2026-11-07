@@ -3328,6 +3328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart of Homunculus | 362237 | [362237-heart-of-homunculus.json](./362237-heart-of-homunculus.json) |
 | Heart of Ice by Dave Morris | 359334 | [359334-heart-of-ice-by-dave-morris.json](./359334-heart-of-ice-by-dave-morris.json) |
 | Heart of Iona | 255239 | [255239-heart-of-iona.json](./255239-heart-of-iona.json) |
+| Heart of Metal | 157287 | [157287-heart-of-metal.json](./157287-heart-of-metal.json) |
 | Heart of Mithras | 156003 | [156003-heart-of-mithras.json](./156003-heart-of-mithras.json) |
 | Heart of Mobius | 255702 | [255702-heart-of-mobius.json](./255702-heart-of-mobius.json) |
 | Heart of Moon: The Mask of Seasons | 112484 | [112484-heart-of-moon-the-mask-of-seasons.json](./112484-heart-of-moon-the-mask-of-seasons.json) |
@@ -5764,6 +5765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Here Comes the Swarm | 361846 | [361846-here-comes-the-swarm.json](./361846-here-comes-the-swarm.json) |
 | Here Comes the Wiji Waji | 197622 | [197622-here-comes-the-wiji-waji.json](./197622-here-comes-the-wiji-waji.json) |
 | Here For Sweethearts | 184036 | [184036-here-for-sweethearts.json](./184036-here-for-sweethearts.json) |
+| Here I Come | 157279 | [157279-here-i-come.json](./157279-here-i-come.json) |
 | Here Is Where I Carve My Heart | 272053 | [272053-here-is-where-i-carve-my-heart.json](./272053-here-is-where-i-carve-my-heart.json) |
 | Here Nya | 108054 | [108054-here-nya.json](./108054-here-nya.json) |
 | Here There Be Bears | 247993 | [247993-here-there-be-bears.json](./247993-here-there-be-bears.json) |
@@ -11563,6 +11565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Huáng Dì: Zhuōlù zhī Zhàn | 319611 | [319611-huang-di-zhuolu-zhi-zhan.json](./319611-huang-di-zhuolu-zhi-zhan.json) |
 | Huang Quan Dream | 355194 | [355194-huang-quan-dream.json](./355194-huang-quan-dream.json) |
 | Huang Ye Ri Ji | 283417 | [283417-huang-ye-ri-ji.json](./283417-huang-ye-ri-ji.json) |
+| Huáng Yì Qúnxiá Zhuàn M | 157281 | [157281-huang-yi-qunxia-zhuan-m.json](./157281-huang-yi-qunxia-zhuan-m.json) |
 | Huang Zhu Qian Kun | 308872 | [308872-huang-zhu-qian-kun.json](./308872-huang-zhu-qian-kun.json) |
 | Huāngdǎo Qiúshēng | 123555 | [123555-huangdao-qiusheng.json](./123555-huangdao-qiusheng.json) |
 | Huāngyě Rìjì: Gūdǎo | 283413 | [283413-huangye-riji-gudao.json](./283413-huangye-riji-gudao.json) |
