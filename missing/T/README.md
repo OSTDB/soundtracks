@@ -5065,6 +5065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetris X | 43727 | [43727-tetris-x.json](./43727-tetris-x.json) |
 | Tetris Zone | 78032 | [78032-tetris-zone.json](./78032-tetris-zone.json) |
 | Tetris-Retro | 380368 | [380368-tetris-retro.json](./380368-tetris-retro.json) |
+| Tetris: Featuring Madilyn Bailey | 145807 | [145807-tetris-featuring-madilyn-bailey.json](./145807-tetris-featuring-madilyn-bailey.json) |
 | Tetris: Flower Garden | 195739 | [195739-tetris-flower-garden.json](./195739-tetris-flower-garden.json) |
 | Tetris: Rosy Retrospection | 247519 | [247519-tetris-rosy-retrospection.json](./247519-tetris-rosy-retrospection.json) |
 | Tetris: The Absolute - The Grand Master 2 | 25023 | [25023-tetris-the-absolute-the-grand-master-2.json](./25023-tetris-the-absolute-the-grand-master-2.json) |
@@ -5147,6 +5148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Texas Butcher | 125257 | [125257-texas-butcher.json](./125257-texas-butcher.json) |
 | Texas Chainsaw Dodge | 307613 | [307613-texas-chainsaw-dodge.json](./307613-texas-chainsaw-dodge.json) |
 | Texas Cheat 'Em | 92652 | [92652-texas-cheat-em.json](./92652-texas-cheat-em.json) |
+| Texas Hold 'em | 145836 | [145836-texas-hold-em.json](./145836-texas-hold-em.json) |
 | Texas Hold 'Em Poker | 131511 | [131511-texas-hold-em-poker.json](./131511-texas-hold-em-poker.json) |
 | Texas Hold 'Em Poker | 18051 | [18051-texas-hold-em-poker.json](./18051-texas-hold-em-poker.json) |
 | Texas Hold 'em Tournament | 21293 | [21293-texas-hold-em-tournament.json](./21293-texas-hold-em-tournament.json) |
@@ -5193,6 +5195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Textreme 2 | 168084 | [168084-textreme-2.json](./168084-textreme-2.json) |
 | Textris | 62713 | [62713-textris.json](./62713-textris.json) |
 | Texts from HSS | 319755 | [319755-texts-from-hss.json](./319755-texts-from-hss.json) |
+| TextSpaced | 145808 | [145808-textspaced.json](./145808-textspaced.json) |
 | TextTwist 2 | 92504 | [92504-texttwist-2.json](./92504-texttwist-2.json) |
 | Textula | 382403 | [382403-textula.json](./382403-textula.json) |
 | Textures Not Found | 405524 | [405524-textures-not-found.json](./405524-textures-not-found.json) |
@@ -24385,6 +24388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Hell and Back | 306327 | [306327-to-hell-and-back.json](./306327-to-hell-and-back.json) |
 | To Hell and Back | 363142 | [363142-to-hell-and-back.json](./363142-to-hell-and-back.json) |
 | To Hell in a Hamper | 60019 | [60019-to-hell-in-a-hamper.json](./60019-to-hell-in-a-hamper.json) |
+| To Hell With It | 145803 | [145803-to-hell-with-it.json](./145803-to-hell-with-it.json) |
 | To Hell With the Ugly | 158137 | [158137-to-hell-with-the-ugly.json](./158137-to-hell-with-the-ugly.json) |
 | To Infinity | 274805 | [274805-to-infinity.json](./274805-to-infinity.json) |
 | To Kill A Black Swan | 183371 | [183371-to-kill-a-black-swan.json](./183371-to-kill-a-black-swan.json) |
@@ -25312,6 +25316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomato Adventure | 49844 | [49844-tomato-adventure.json](./49844-tomato-adventure.json) |
 | Tomato Blaster | 68423 | [68423-tomato-blaster.json](./68423-tomato-blaster.json) |
 | Tomato Bounce | 262212 | [262212-tomato-bounce.json](./262212-tomato-bounce.json) |
+| Tomato Clinic | 145772 | [145772-tomato-clinic.json](./145772-tomato-clinic.json) |
 | Tomato Dealer | 396579 | [396579-tomato-dealer.json](./396579-tomato-dealer.json) |
 | Tomato Flip | 292356 | [292356-tomato-flip.json](./292356-tomato-flip.json) |
 | Tomato Jones | 32370 | [32370-tomato-jones.json](./32370-tomato-jones.json) |
@@ -33456,6 +33461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twenty, in Total | 204424 | [204424-twenty-in-total.json](./204424-twenty-in-total.json) |
 | Twenty48 Solitaire | 103097 | [103097-twenty48-solitaire.json](./103097-twenty48-solitaire.json) |
 | TwentyOne | 386904 | [386904-twentyone.json](./386904-twentyone.json) |
+| Twerk Hero | 145793 | [145793-twerk-hero.json](./145793-twerk-hero.json) |
 | Twerk Hero: Lil Nas X | 284730 | [284730-twerk-hero-lil-nas-x.json](./284730-twerk-hero-lil-nas-x.json) |
 | Twerk it Girl! | 238510 | [238510-twerk-it-girl.json](./238510-twerk-it-girl.json) |
 | Twerk Race 3D | 282421 | [282421-twerk-race-3d.json](./282421-twerk-race-3d.json) |
