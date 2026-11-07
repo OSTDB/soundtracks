@@ -1242,6 +1242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railway Mogul | 91548 | [91548-railway-mogul.json](./91548-railway-mogul.json) |
 | Railway Operation Simulator | 214615 | [214615-railway-operation-simulator.json](./214615-railway-operation-simulator.json) |
 | Railway Routes | 406520 | [406520-railway-routes.json](./406520-railway-routes.json) |
+| Railway Simulator | 145119 | [145119-railway-simulator.json](./145119-railway-simulator.json) |
 | Railway Yard Master | 110007 | [110007-railway-yard-master.json](./110007-railway-yard-master.json) |
 | Railway: Koko ni Aru Yume | 271418 | [271418-railway-koko-ni-aru-yume.json](./271418-railway-koko-ni-aru-yume.json) |
 | Railways: Train Simulator | 240650 | [240650-railways-train-simulator.json](./240650-railways-train-simulator.json) |
@@ -8816,6 +8817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robin of Sherwood: The Touchstones of Rhiannon | 73825 | [73825-robin-of-sherwood-the-touchstones-of-rhiannon.json](./73825-robin-of-sherwood-the-touchstones-of-rhiannon.json) |
 | Robin of the Wood | 26434 | [26434-robin-of-the-wood.json](./26434-robin-of-the-wood.json) |
 | Robin to the Rescue | 60058 | [60058-robin-to-the-rescue.json](./60058-robin-to-the-rescue.json) |
+| Robin: Race! | 145133 | [145133-robin-race.json](./145133-robin-race.json) |
 | Robin: The Twisted Timber Trail | 309934 | [309934-robin-the-twisted-timber-trail.json](./309934-robin-the-twisted-timber-trail.json) |
 | Robin's Island Adventure | 17844 | [17844-robins-island-adventure.json](./17844-robins-island-adventure.json) |
 | Robin's Quest: A Legend Born | 17223 | [17223-robins-quest-a-legend-born.json](./17223-robins-quest-a-legend-born.json) |
@@ -9983,6 +9985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rodent and Plank: Secret Origin | 139588 | [139588-rodent-and-plank-secret-origin.json](./139588-rodent-and-plank-secret-origin.json) |
 | Rodent Company | 387587 | [387587-rodent-company.json](./387587-rodent-company.json) |
 | Rodent Mafia | 340690 | [340690-rodent-mafia.json](./340690-rodent-mafia.json) |
+| Rodent People: Origins | 145164 | [145164-rodent-people-origins.json](./145164-rodent-people-origins.json) |
 | Rodent Rampage | 393127 | [393127-rodent-rampage.json](./393127-rodent-rampage.json) |
 | Rodent Retribution | 275707 | [275707-rodent-retribution.json](./275707-rodent-retribution.json) |
 | Rodent Road Rage | 409128 | [409128-rodent-road-rage.json](./409128-rodent-road-rage.json) |
