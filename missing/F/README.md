@@ -1496,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famicom Mukashibanashi: Yuuyuuki - Zenpen | 41274 | [41274-famicom-mukashibanashi-yuuyuuki-zenpen.json](./41274-famicom-mukashibanashi-yuuyuuki-zenpen.json) |
 | Famicom Shogi: Ryuu-Ou-Sen | 48713 | [48713-famicom-shogi-ryuu-ou-sen.json](./48713-famicom-shogi-ryuu-ou-sen.json) |
 | Famicom Study Box | 48908 | [48908-famicom-study-box.json](./48908-famicom-study-box.json) |
+| Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo | 148062 | [148062-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo.json](./148062-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo.json) |
 | Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo - Kouhen | 47249 | [47249-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo-kouhen.json](./47249-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo-kouhen.json) |
 | Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo - Zenpen | 41415 | [41415-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo-zenpen.json](./41415-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo-zenpen.json) |
 | Famicom Tantei Club: Kieta Koukeisha - Kouhen | 41381 | [41381-famicom-tantei-club-kieta-koukeisha-kouhen.json](./41381-famicom-tantei-club-kieta-koukeisha-kouhen.json) |
@@ -7864,6 +7865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight of Light | 52771 | [52771-flight-of-light.json](./52771-flight-of-light.json) |
 | Flight of Pigarus | 144017 | [144017-flight-of-pigarus.json](./144017-flight-of-pigarus.json) |
 | Flight of the Amazon Queen | 8789 | [8789-flight-of-the-amazon-queen.json](./8789-flight-of-the-amazon-queen.json) |
+| Flight of the Amazon Queen: 25th Anniversary Edition | 148105 | [148105-flight-of-the-amazon-queen-25th-anniversary-edition.json](./148105-flight-of-the-amazon-queen-25th-anniversary-edition.json) |
 | Flight of the Amazon Queen: Legacy Edition | 155254 | [155254-flight-of-the-amazon-queen-legacy-edition.json](./155254-flight-of-the-amazon-queen-legacy-edition.json) |
 | Flight of the Asteroid Field | 359449 | [359449-flight-of-the-asteroid-field.json](./359449-flight-of-the-asteroid-field.json) |
 | Flight of the Athena | 76317 | [76317-flight-of-the-athena.json](./76317-flight-of-the-athena.json) |
@@ -11145,6 +11147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxo's Fun Schoolhouse | 310685 | [310685-foxos-fun-schoolhouse.json](./310685-foxos-fun-schoolhouse.json) |
 | FoxRun | 340241 | [340241-foxrun.json](./340241-foxrun.json) |
 | Foxtale | 328900 | [328900-foxtale.json](./328900-foxtale.json) |
+| Foxtrot | 148077 | [148077-foxtrot.json](./148077-foxtrot.json) |
 | Foxtrot Creamery | 419877 | [419877-foxtrot-creamery.json](./419877-foxtrot-creamery.json) |
 | FoxTrotte | 239627 | [239627-foxtrotte.json](./239627-foxtrotte.json) |
 | Foxus | 79741 | [79741-foxus.json](./79741-foxus.json) |
