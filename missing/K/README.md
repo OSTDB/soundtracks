@@ -1514,6 +1514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep in touch | 75652 | [75652-keep-in-touch.json](./75652-keep-in-touch.json) |
 | Keep It Alive | 186217 | [186217-keep-it-alive.json](./186217-keep-it-alive.json) |
 | Keep It Alive | 408427 | [408427-keep-it-alive.json](./408427-keep-it-alive.json) |
+| Keep IT Alive | 183699 | [183699-keep-it-alive.json](./183699-keep-it-alive.json) |
 | Keep it alive! | 311680 | [311680-keep-it-alive.json](./311680-keep-it-alive.json) |
 | Keep It Contained | 390028 | [390028-keep-it-contained.json](./390028-keep-it-contained.json) |
 | Keep it Cool, Man | 202625 | [202625-keep-it-cool-man.json](./202625-keep-it-cool-man.json) |
@@ -2831,6 +2832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -6337,6 +6339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuu | 334533 | [334533-kuu.json](./334533-kuu.json) |
 | Kuubo Senki | 166657 | [166657-kuubo-senki.json](./166657-kuubo-senki.json) |
 | Kuudere Funk | 287742 | [287742-kuudere-funk.json](./287742-kuudere-funk.json) |
+| Kuukiyomi | 183651 | [183651-kuukiyomi.json](./183651-kuukiyomi.json) |
 | Kuukiyomi 1 2 3+ | 170791 | [170791-kuukiyomi-1-2-3.json](./170791-kuukiyomi-1-2-3.json) |
 | Kuukiyomi 2: Consider It More! - New Era | 135640 | [135640-kuukiyomi-2-consider-it-more-new-era.json](./135640-kuukiyomi-2-consider-it-more-new-era.json) |
 | Kuukiyomi 3: Consider It More and More!! - Father to Son | 147060 | [147060-kuukiyomi-3-consider-it-more-and-more-father-to-son.json](./147060-kuukiyomi-3-consider-it-more-and-more-father-to-son.json) |
