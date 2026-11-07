@@ -1309,6 +1309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Cooking | 155665 | [155665-samurai-cooking.json](./155665-samurai-cooking.json) |
 | Samurai Crawler | 189868 | [189868-samurai-crawler.json](./189868-samurai-crawler.json) |
 | Samurai Daisuke | 233502 | [233502-samurai-daisuke.json](./233502-samurai-daisuke.json) |
+| Samurai Deeper Kyo | 185741 | [185741-samurai-deeper-kyo.json](./185741-samurai-deeper-kyo.json) |
 | Samurai Defender | 84903 | [84903-samurai-defender.json](./84903-samurai-defender.json) |
 | Samurai Defender: Ninja Warfare | 104127 | [104127-samurai-defender-ninja-warfare.json](./104127-samurai-defender-ninja-warfare.json) |
 | Samurai Elemental | 329098 | [329098-samurai-elemental.json](./329098-samurai-elemental.json) |
@@ -11951,6 +11952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate or Die 2: The Search for Double Trouble | 48181 | [48181-skate-or-die-2-the-search-for-double-trouble.json](./48181-skate-or-die-2-the-search-for-double-trouble.json) |
 | Skate or Die: Bad 'N Rad | 128440 | [128440-skate-or-die-bad-n-rad.json](./128440-skate-or-die-bad-n-rad.json) |
 | Skate or Die: Tour de Thrash | 49020 | [49020-skate-or-die-tour-de-thrash.json](./49020-skate-or-die-tour-de-thrash.json) |
+| Skate or Don't! | 185755 | [185755-skate-or-dont.json](./185755-skate-or-dont.json) |
 | Skate Out! | 58995 | [58995-skate-out.json](./58995-skate-out.json) |
 | Skate Rush: 90s Retro Arcade | 404771 | [404771-skate-rush-90s-retro-arcade.json](./404771-skate-rush-90s-retro-arcade.json) |
 | Skate Samurai | 185096 | [185096-skate-samurai.json](./185096-skate-samurai.json) |
@@ -13392,6 +13394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepy in Saigon | 131929 | [131929-sleepy-in-saigon.json](./131929-sleepy-in-saigon.json) |
 | Sleepy Meadow | 350053 | [350053-sleepy-meadow.json](./350053-sleepy-meadow.json) |
 | Sleepy Racers | 414107 | [414107-sleepy-racers.json](./414107-sleepy-racers.json) |
+| Sleepy Sheep | 185780 | [185780-sleepy-sheep.json](./185780-sleepy-sheep.json) |
 | Sleepy Squares | 243726 | [243726-sleepy-squares.json](./243726-sleepy-squares.json) |
 | Sleepy Sunday | 152834 | [152834-sleepy-sunday.json](./152834-sleepy-sunday.json) |
 | Sleepy Time Jack: Digital Talking Body Pillow | 259116 | [259116-sleepy-time-jack-digital-talking-body-pillow.json](./259116-sleepy-time-jack-digital-talking-body-pillow.json) |
@@ -19479,6 +19482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Dingus | 351387 | [351387-space-dingus.json](./351387-space-dingus.json) |
 | Space Disco Outlaw | 425851 | [425851-space-disco-outlaw.json](./425851-space-disco-outlaw.json) |
 | Space Diva | 318151 | [318151-space-diva.json](./318151-space-diva.json) |
+| Space Docker VR | 185769 | [185769-space-docker-vr.json](./185769-space-docker-vr.json) |
 | Space Dodge'm | 94471 | [94471-space-dodgem.json](./94471-space-dodgem.json) |
 | Space Dodger 2019: Arcade Wars | 249730 | [249730-space-dodger-2019-arcade-wars.json](./249730-space-dodger-2019-arcade-wars.json) |
 | Space Dog Run | 201093 | [201093-space-dog-run.json](./201093-space-dog-run.json) |
@@ -21544,6 +21548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speyarranoth | 168615 | [168615-speyarranoth.json](./168615-speyarranoth.json) |
 | SPGP Super Polygon Grand Prix | 274542 | [274542-spgp-super-polygon-grand-prix.json](./274542-spgp-super-polygon-grand-prix.json) |
 | Sphaera | 103771 | [103771-sphaera.json](./103771-sphaera.json) |
+| Sphaze | 185747 | [185747-sphaze.json](./185747-sphaze.json) |
 | Sphera Turris | 87950 | [87950-sphera-turris.json](./87950-sphera-turris.json) |
 | Sphera: The Inner Journey | 208787 | [208787-sphera-the-inner-journey.json](./208787-sphera-the-inner-journey.json) |
 | Spherakill | 97717 | [97717-spherakill.json](./97717-spherakill.json) |
@@ -25833,6 +25838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State Railroad | 214327 | [214327-state-railroad.json](./214327-state-railroad.json) |
 | State Your Business | 336620 | [336620-state-your-business.json](./336620-state-your-business.json) |
 | State Z | 406836 | [406836-state-z.json](./406836-state-z.json) |
+| State: Burial | 185786 | [185786-state-burial.json](./185786-state-burial.json) |
 | State.io | 304954 | [304954-state-io.json](./304954-state-io.json) |
 | Statecraft | 365852 | [365852-statecraft.json](./365852-statecraft.json) |
 | Statecraft: Corrupted Democracy | 289660 | [289660-statecraft-corrupted-democracy.json](./289660-statecraft-corrupted-democracy.json) |
@@ -28819,6 +28825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuck in the Dark | 184359 | [184359-stuck-in-the-dark.json](./184359-stuck-in-the-dark.json) |
 | Stuck in the Present | 348763 | [348763-stuck-in-the-present.json](./348763-stuck-in-the-present.json) |
 | Stuck in the Sewers | 406508 | [406508-stuck-in-the-sewers.json](./406508-stuck-in-the-sewers.json) |
+| Stuck in Time | 185744 | [185744-stuck-in-time.json](./185744-stuck-in-time.json) |
 | Stuck Inside | 329404 | [329404-stuck-inside.json](./329404-stuck-inside.json) |
 | Stuck Like a Stone | 276731 | [276731-stuck-like-a-stone.json](./276731-stuck-like-a-stone.json) |
 | Stuck Together | 159562 | [159562-stuck-together.json](./159562-stuck-together.json) |
