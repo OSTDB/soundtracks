@@ -2991,6 +2991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Idle: Old Gods Rising | 388087 | [388087-path-of-idle-old-gods-rising.json](./388087-path-of-idle-old-gods-rising.json) |
 | Path of Immortals | 194027 | [194027-path-of-immortals.json](./194027-path-of-immortals.json) |
 | Path of Insanity | 156796 | [156796-path-of-insanity.json](./156796-path-of-insanity.json) |
+| Path of Kami | 143237 | [143237-path-of-kami.json](./143237-path-of-kami.json) |
 | Path of Kung Fu | 266573 | [266573-path-of-kung-fu.json](./266573-path-of-kung-fu.json) |
 | Path of Legends | 368766 | [368766-path-of-legends.json](./368766-path-of-legends.json) |
 | Path of Light | 344839 | [344839-path-of-light.json](./344839-path-of-light.json) |
@@ -5741,6 +5742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Wright: Ace Attorney - Spirit of Justice: Phoenix Wright - Asinine Attorney | 78463 | [78463-phoenix-wright-ace-attorney-spirit-of-justice-phoenix-wright-asinine-attorney.json](./78463-phoenix-wright-ace-attorney-spirit-of-justice-phoenix-wright-asinine-attorney.json) |
 | Phoenix Wright: Ace Attorney - Spirit of Justice: Special Episode - Turnabout Time Traveler | 78462 | [78462-phoenix-wright-ace-attorney-spirit-of-justice-special-episode-turnabout-time-traveler.json](./78462-phoenix-wright-ace-attorney-spirit-of-justice-special-episode-turnabout-time-traveler.json) |
 | Phoenix Wright: Ace Attorney - Tails Abuse In Court | 303756 | [303756-phoenix-wright-ace-attorney-tails-abuse-in-court.json](./303756-phoenix-wright-ace-attorney-tails-abuse-in-court.json) |
+| Phoenix Wright: Ace Attorney - The Contempt of Court | 143227 | [143227-phoenix-wright-ace-attorney-the-contempt-of-court.json](./143227-phoenix-wright-ace-attorney-the-contempt-of-court.json) |
 | Phoenix Wright: Ace Attorney - The Contempt of Court HD | 327686 | [327686-phoenix-wright-ace-attorney-the-contempt-of-court-hd.json](./327686-phoenix-wright-ace-attorney-the-contempt-of-court-hd.json) |
 | Phoenix Wright: Ace Attorney - The Contempt of Court: Refined Edition | 376867 | [376867-phoenix-wright-ace-attorney-the-contempt-of-court-refined-edition.json](./376867-phoenix-wright-ace-attorney-the-contempt-of-court-refined-edition.json) |
 | Phoenix Wright: Ace Attorney - The Jakkid Series | 302601 | [302601-phoenix-wright-ace-attorney-the-jakkid-series.json](./302601-phoenix-wright-ace-attorney-the-jakkid-series.json) |
@@ -10345,6 +10347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plushie from the Sky | 168705 | [168705-plushie-from-the-sky.json](./168705-plushie-from-the-sky.json) |
 | Plushiemon | 344009 | [344009-plushiemon.json](./344009-plushiemon.json) |
 | PlushiePet | 383326 | [383326-plushiepet.json](./383326-plushiepet.json) |
+| Plushies Restaurant | 143226 | [143226-plushies-restaurant.json](./143226-plushies-restaurant.json) |
 | Plushy Store Tidy Up | 414042 | [414042-plushy-store-tidy-up.json](./414042-plushy-store-tidy-up.json) |
 | Plushy's Playground: Into the Slide | 413207 | [413207-plushys-playground-into-the-slide.json](./413207-plushys-playground-into-the-slide.json) |
 | Plusris | 316074 | [316074-plusris.json](./316074-plusris.json) |
@@ -10890,6 +10893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Abismal | 314717 | [314717-pokemon-abismal.json](./314717-pokemon-abismal.json) |
 | Pokémon Academy Life | 266562 | [266562-pokemon-academy-life.json](./266562-pokemon-academy-life.json) |
 | Pokémon Advanced: Cyber Poké Ball 2 | 245422 | [245422-pokemon-advanced-cyber-poke-ball-2.json](./245422-pokemon-advanced-cyber-poke-ball-2.json) |
+| Pokémon Adventure | 143190 | [143190-pokemon-adventure.json](./143190-pokemon-adventure.json) |
 | Pokémon Adventures: Red Chapter | 145931 | [145931-pokemon-adventures-red-chapter.json](./145931-pokemon-adventures-red-chapter.json) |
 | Pokémon Africanus | 298010 | [298010-pokemon-africanus.json](./298010-pokemon-africanus.json) |
 | Pokémon Ageless | 360182 | [360182-pokemon-ageless.json](./360182-pokemon-ageless.json) |
@@ -16386,6 +16390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Space Hunter | 143252 | [143252-project-space-hunter.json](./143252-project-space-hunter.json) |
 | Project Spaghetti | 60002 | [60002-project-spaghetti.json](./60002-project-spaghetti.json) |
 | Project Spark | 2742 | [2742-project-spark.json](./2742-project-spark.json) |
+| Project Sparrow | 143224 | [143224-project-sparrow.json](./143224-project-sparrow.json) |
 | Project Spectrum | 361889 | [361889-project-spectrum.json](./361889-project-spectrum.json) |
 | Project Speed 2 | 188681 | [188681-project-speed-2.json](./188681-project-speed-2.json) |
 | Project Speed: Njarovik | 253212 | [253212-project-speed-njarovik.json](./253212-project-speed-njarovik.json) |
