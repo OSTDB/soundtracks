@@ -15505,6 +15505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Madhouse | 98732 | [98732-professor-madhouse.json](./98732-professor-madhouse.json) |
 | Professor Neely and the Death Ray of Doom | 171532 | [171532-professor-neely-and-the-death-ray-of-doom.json](./171532-professor-neely-and-the-death-ray-of-doom.json) |
 | Professor Neumann's Adult Certification Test | 409548 | [409548-professor-neumanns-adult-certification-test.json](./409548-professor-neumanns-adult-certification-test.json) |
+| Professor of Magical Studies | 173349 | [173349-professor-of-magical-studies.json](./173349-professor-of-magical-studies.json) |
 | Professor Pemda's Puzzle Pyramid | 362794 | [362794-professor-pemdas-puzzle-pyramid.json](./362794-professor-pemdas-puzzle-pyramid.json) |
 | Professor Quackerton in: The Locked Birdhouse | 299116 | [299116-professor-quackerton-in-the-locked-birdhouse.json](./299116-professor-quackerton-in-the-locked-birdhouse.json) |
 | Professor Rubik's Brain Fitness | 139058 | [139058-professor-rubiks-brain-fitness.json](./139058-professor-rubiks-brain-fitness.json) |
@@ -18069,6 +18070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pussy | 381536 | [381536-pussy.json](./381536-pussy.json) |
 | Pussy 2 | 381539 | [381539-pussy-2.json](./381539-pussy-2.json) |
 | Pussy 3 | 381542 | [381542-pussy-3.json](./381542-pussy-3.json) |
+| Pussy 4 | 173357 | [173357-pussy-4.json](./173357-pussy-4.json) |
 | Pussy 5 | 203579 | [203579-pussy-5.json](./203579-pussy-5.json) |
 | Pussy 6 | 213547 | [213547-pussy-6.json](./213547-pussy-6.json) |
 | Pussy Cum with Me | 370631 | [370631-pussy-cum-with-me.json](./370631-pussy-cum-with-me.json) |
@@ -18277,6 +18279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Arcade | 74420 | [74420-puzzle-arcade.json](./74420-puzzle-arcade.json) |
 | Puzzle Arena Toshinden | 44824 | [44824-puzzle-arena-toshinden.json](./44824-puzzle-arena-toshinden.json) |
 | Puzzle Art: Birds | 175645 | [175645-puzzle-art-birds.json](./175645-puzzle-art-birds.json) |
+| Puzzle Art: Cats | 173344 | [173344-puzzle-art-cats.json](./173344-puzzle-art-cats.json) |
 | Puzzle Art: Dogs | 173043 | [173043-puzzle-art-dogs.json](./173043-puzzle-art-dogs.json) |
 | Puzzle Art: Horses | 191207 | [191207-puzzle-art-horses.json](./191207-puzzle-art-horses.json) |
 | Puzzle Art: Primates | 189963 | [189963-puzzle-art-primates.json](./189963-puzzle-art-primates.json) |
