@@ -1745,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Moon Motel | 219650 | [219650-dark-moon-motel.json](./219650-dark-moon-motel.json) |
 | Dark Mountain | 268603 | [268603-dark-mountain.json](./268603-dark-mountain.json) |
 | Dark Mountain II | 268626 | [268626-dark-mountain-ii.json](./268626-dark-mountain-ii.json) |
+| Dark Mysteries 4 Play Collection | 145144 | [145144-dark-mysteries-4-play-collection.json](./145144-dark-mysteries-4-play-collection.json) |
 | Dark Mysteries: The Soul Keeper - Collector's Edition | 88202 | [88202-dark-mysteries-the-soul-keeper-collectors-edition.json](./88202-dark-mysteries-the-soul-keeper-collectors-edition.json) |
 | Dark Mystery | 44252 | [44252-dark-mystery.json](./44252-dark-mystery.json) |
 | Dark Mystery Bundle | 397884 | [397884-dark-mystery-bundle.json](./397884-dark-mystery-bundle.json) |
@@ -2215,6 +2216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness and Flame: Missing Memories | 75079 | [75079-darkness-and-flame-missing-memories.json](./75079-darkness-and-flame-missing-memories.json) |
 | Darkness and Flame: The Dark Side | 113410 | [113410-darkness-and-flame-the-dark-side.json](./113410-darkness-and-flame-the-dark-side.json) |
 | Darkness and Light | 159152 | [159152-darkness-and-light.json](./159152-darkness-and-light.json) |
+| Darkness and Sorrow 5 Game Pack Hidden Object | 145115 | [145115-darkness-and-sorrow-5-game-pack-hidden-object.json](./145115-darkness-and-sorrow-5-game-pack-hidden-object.json) |
 | Darkness Anomaly | 57351 | [57351-darkness-anomaly.json](./57351-darkness-anomaly.json) |
 | Darkness Arrives | 151122 | [151122-darkness-arrives.json](./151122-darkness-arrives.json) |
 | Darkness Eternal | 150312 | [150312-darkness-eternal.json](./150312-darkness-eternal.json) |
@@ -17004,6 +17006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving School Original | 120065 | [120065-driving-school-original.json](./120065-driving-school-original.json) |
 | Driving School Sim | 410826 | [410826-driving-school-sim.json](./410826-driving-school-sim.json) |
 | Driving School Simulator: EVO | 383520 | [383520-driving-school-simulator-evo.json](./383520-driving-school-simulator-evo.json) |
+| Driving Simulations Collection | 145121 | [145121-driving-simulations-collection.json](./145121-driving-simulations-collection.json) |
 | Driving Simulator | 159645 | [159645-driving-simulator.json](./159645-driving-simulator.json) |
 | Driving Simulator | 326442 | [326442-driving-simulator.json](./326442-driving-simulator.json) |
 | Driving Simulator 2009 | 27484 | [27484-driving-simulator-2009.json](./27484-driving-simulator-2009.json) |
