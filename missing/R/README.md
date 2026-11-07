@@ -7328,6 +7328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ride: 2015 Top Bikes Pack 1 | 156115 | [156115-ride-2015-top-bikes-pack-1.json](./156115-ride-2015-top-bikes-pack-1.json) |
 | Ride: 2015 Top Bikes Pack 2 | 170691 | [170691-ride-2015-top-bikes-pack-2.json](./170691-ride-2015-top-bikes-pack-2.json) |
 | Ride: Yamaha 2015 Bike Models | 170688 | [170688-ride-yamaha-2015-bike-models.json](./170688-ride-yamaha-2015-bike-models.json) |
+| Ride: Yamaha Historical Bikes | 168487 | [168487-ride-yamaha-historical-bikes.json](./168487-ride-yamaha-historical-bikes.json) |
 | Ridegear Guybrave | 70904 | [70904-ridegear-guybrave.json](./70904-ridegear-guybrave.json) |
 | Ridegear Guybrave II | 70903 | [70903-ridegear-guybrave-ii.json](./70903-ridegear-guybrave-ii.json) |
 | RideOp | 72415 | [72415-rideop.json](./72415-rideop.json) |
