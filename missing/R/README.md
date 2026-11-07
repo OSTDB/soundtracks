@@ -2024,6 +2024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapture Island | 331106 | [331106-rapture-island.json](./331106-rapture-island.json) |
 | Rapture Recovery Squad | 304654 | [304654-rapture-recovery-squad.json](./304654-rapture-recovery-squad.json) |
 | Rapture Rejects | 103327 | [103327-rapture-rejects.json](./103327-rapture-rejects.json) |
+| Rapture: The Beginning | 187598 | [187598-rapture-the-beginning.json](./187598-rapture-the-beginning.json) |
 | Rapture: World Conquest | 47163 | [47163-rapture-world-conquest.json](./47163-rapture-world-conquest.json) |
 | Rapunzel | 398265 | [398265-rapunzel.json](./398265-rapunzel.json) |
 | Rapunzel & Thumbelina: The Tiny Adventure | 404536 | [404536-rapunzel-and-thumbelina-the-tiny-adventure.json](./404536-rapunzel-and-thumbelina-the-tiny-adventure.json) |
