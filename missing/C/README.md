@@ -106,6 +106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caball: Sunset Hour | 332366 | [332366-caball-sunset-hour.json](./332366-caball-sunset-hour.json) |
 | Cabals: Card Blitz | 30330 | [30330-cabals-card-blitz.json](./30330-cabals-card-blitz.json) |
 | Cabals: Magic & Battle Cards | 33107 | [33107-cabals-magic-and-battle-cards.json](./33107-cabals-magic-and-battle-cards.json) |
+| Cabbage | 176033 | [176033-cabbage.json](./176033-cabbage.json) |
 | Cabbage Crop | 290838 | [290838-cabbage-crop.json](./290838-cabbage-crop.json) |
 | Cabbage Patch Kids | 311019 | [311019-cabbage-patch-kids.json](./311019-cabbage-patch-kids.json) |
 | Cabbage Patch Kids: Adventures in the Park | 11144 | [11144-cabbage-patch-kids-adventures-in-the-park.json](./11144-cabbage-patch-kids-adventures-in-the-park.json) |
@@ -5335,6 +5336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cell to Singularity | 112925 | [112925-cell-to-singularity.json](./112925-cell-to-singularity.json) |
 | Cell to Singularity: Evolution | 259562 | [259562-cell-to-singularity-evolution.json](./259562-cell-to-singularity-evolution.json) |
 | Cell Tune | 134618 | [134618-cell-tune.json](./134618-cell-tune.json) |
+| Cell War | 176074 | [176074-cell-war.json](./176074-cell-war.json) |
 | Cell Wars | 249077 | [249077-cell-wars.json](./249077-cell-wars.json) |
 | Cell: Emergence | 22326 | [22326-cell-emergence.json](./22326-cell-emergence.json) |
 | Cell: Idle Factory Incremental | 248150 | [248150-cell-idle-factory-incremental.json](./248150-cell-idle-factory-incremental.json) |
