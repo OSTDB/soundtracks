@@ -2818,6 +2818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Net Versus Shogi | 78078 | [78078-net-versus-shogi.json](./78078-net-versus-shogi.json) |
 | Net Worthless | 410971 | [410971-net-worthless.json](./410971-net-worthless.json) |
 | Net Yaroze: 2014 Collection | 285248 | [285248-net-yaroze-2014-collection.json](./285248-net-yaroze-2014-collection.json) |
+| Net_Defender | 186356 | [186356-net-defender.json](./186356-net-defender.json) |
 | Net-tac-toe | 276723 | [276723-net-tac-toe.json](./276723-net-tac-toe.json) |
 | NET:Zone | 92924 | [92924-net-zone.json](./92924-net-zone.json) |
 | Net.Attack(): Code or Die! | 315353 | [315353-net-attack-code-or-die.json](./315353-net-attack-code-or-die.json) |
