@@ -6397,6 +6397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle of Polytopia+ | 357407 | [357407-the-battle-of-polytopia.json](./357407-the-battle-of-polytopia.json) |
 | The Battle of Sacred Heart | 239700 | [239700-the-battle-of-sacred-heart.json](./239700-the-battle-of-sacred-heart.json) |
 | The Battle of Sol | 36416 | [36416-the-battle-of-sol.json](./36416-the-battle-of-sol.json) |
+| The Battle of Visby | 164139 | [164139-the-battle-of-visby.json](./164139-the-battle-of-visby.json) |
 | The Battle of YuYu Hakusho: Shitou! Ankoku Bujutsukai! 120% | 79148 | [79148-the-battle-of-yuyu-hakusho-shitou-ankoku-bujutsukai-120.json](./79148-the-battle-of-yuyu-hakusho-shitou-ankoku-bujutsukai-120.json) |
 | The Battle Orks | 339986 | [339986-the-battle-orks.json](./339986-the-battle-orks.json) |
 | The Battle Road | 39617 | [39617-the-battle-road.json](./39617-the-battle-road.json) |
@@ -9971,6 +9972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life: Path to Success | 207002 | [207002-the-game-of-life-path-to-success.json](./207002-the-game-of-life-path-to-success.json) |
 | The Game of Life: RPG Jinsei Game | 48819 | [48819-the-game-of-life-rpg-jinsei-game.json](./48819-the-game-of-life-rpg-jinsei-game.json) |
 | The Game of Life: SpongeBob SquarePants Edition | 207003 | [207003-the-game-of-life-spongebob-squarepants-edition.json](./207003-the-game-of-life-spongebob-squarepants-edition.json) |
+| The Game of Nothing | 164125 | [164125-the-game-of-nothing.json](./164125-the-game-of-nothing.json) |
 | The Game of Robot | 69716 | [69716-the-game-of-robot.json](./69716-the-game-of-robot.json) |
 | The Game of Sisyphus | 294183 | [294183-the-game-of-sisyphus.json](./294183-the-game-of-sisyphus.json) |
 | The Game of Squids: Ultimate Parody Game | 181000 | [181000-the-game-of-squids-ultimate-parody-game.json](./181000-the-game-of-squids-ultimate-parody-game.json) |
@@ -16193,6 +16195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret of Rooms | 207518 | [207518-the-secret-of-rooms.json](./207518-the-secret-of-rooms.json) |
 | The Secret of St. Brides | 12965 | [12965-the-secret-of-st-brides.json](./12965-the-secret-of-st-brides.json) |
 | The Secret of the Four Winds | 388965 | [388965-the-secret-of-the-four-winds.json](./388965-the-secret-of-the-four-winds.json) |
+| The secret of the stone | 164150 | [164150-the-secret-of-the-stone.json](./164150-the-secret-of-the-stone.json) |
 | The Secret of Timberland | 278361 | [278361-the-secret-of-timberland.json](./278361-the-secret-of-timberland.json) |
 | The Secret of Varonis | 244780 | [244780-the-secret-of-varonis.json](./244780-the-secret-of-varonis.json) |
 | The Secret of Weepstone | 360921 | [360921-the-secret-of-weepstone.json](./360921-the-secret-of-weepstone.json) |
@@ -17603,6 +17606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tarkiff Transfer Incident | 231370 | [231370-the-tarkiff-transfer-incident.json](./231370-the-tarkiff-transfer-incident.json) |
 | The Tarnishing of Juxtia | 138535 | [138535-the-tarnishing-of-juxtia.json](./138535-the-tarnishing-of-juxtia.json) |
 | The Tarot Experience VR | 257684 | [257684-the-tarot-experience-vr.json](./257684-the-tarot-experience-vr.json) |
+| The Tartarus Key | 164157 | [164157-the-tartarus-key.json](./164157-the-tartarus-key.json) |
 | The Tartarus Loop | 410449 | [410449-the-tartarus-loop.json](./410449-the-tartarus-loop.json) |
 | The Tartine's Show | 263657 | [263657-the-tartines-show.json](./263657-the-tartines-show.json) |
 | The Tau Ceti Terminus | 154895 | [154895-the-tau-ceti-terminus.json](./154895-the-tau-ceti-terminus.json) |
@@ -19716,6 +19720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ThePoliticalUnderground | 285488 | [285488-thepoliticalunderground.json](./285488-thepoliticalunderground.json) |
 | Thera 1 | 225796 | [225796-thera-1.json](./225796-thera-1.json) |
 | Thera: Legacy of Great Torment | 356250 | [356250-thera-legacy-of-great-torment.json](./356250-thera-legacy-of-great-torment.json) |
+| Therais Book | 164151 | [164151-therais-book.json](./164151-therais-book.json) |
 | Theralite | 329770 | [329770-theralite.json](./329770-theralite.json) |
 | Therapist Simulator | 336378 | [336378-therapist-simulator.json](./336378-therapist-simulator.json) |
 | Therapist: Mind Manager | 246116 | [246116-therapist-mind-manager.json](./246116-therapist-mind-manager.json) |
@@ -27021,6 +27026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower 6: Last Signal | 425883 | [425883-tower-6-last-signal.json](./425883-tower-6-last-signal.json) |
 | Tower Accelerator | 379404 | [379404-tower-accelerator.json](./379404-tower-accelerator.json) |
 | Tower Alchemist: Defend Khaldoria | 237161 | [237161-tower-alchemist-defend-khaldoria.json](./237161-tower-alchemist-defend-khaldoria.json) |
+| Tower Alchemy | 164159 | [164159-tower-alchemy.json](./164159-tower-alchemy.json) |
 | Tower and Guardian | 54466 | [54466-tower-and-guardian.json](./54466-tower-and-guardian.json) |
 | Tower Arena | 118019 | [118019-tower-arena.json](./118019-tower-arena.json) |
 | Tower Arena Survive | 348022 | [348022-tower-arena-survive.json](./348022-tower-arena-survive.json) |
