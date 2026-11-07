@@ -1335,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Dragons | 218973 | [218973-game-of-dragons.json](./218973-game-of-dragons.json) |
 | Game of Dragons | 43179 | [43179-game-of-dragons.json](./43179-game-of-dragons.json) |
 | Game of Dragons: Deluxe Edition | 222100 | [222100-game-of-dragons-deluxe-edition.json](./222100-game-of-dragons-deluxe-edition.json) |
+| Game of Drones | 151334 | [151334-game-of-drones.json](./151334-game-of-drones.json) |
 | Game of Earth: Build Your City | 243073 | [243073-game-of-earth-build-your-city.json](./243073-game-of-earth-build-your-city.json) |
 | Game of Emperors | 47166 | [47166-game-of-emperors.json](./47166-game-of-emperors.json) |
 | Game of Empires: Warring Realms | 230294 | [230294-game-of-empires-warring-realms.json](./230294-game-of-empires-warring-realms.json) |
@@ -2860,6 +2861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GeneRally 2 | 233559 | [233559-generally-2.json](./233559-generally-2.json) |
 | Generals | 141672 | [141672-generals.json](./141672-generals.json) |
 | Generals & Rulers | 118117 | [118117-generals-and-rulers.json](./118117-generals-and-rulers.json) |
+| Generals. Positional Warfare | 151350 | [151350-generals-positional-warfare.json](./151350-generals-positional-warfare.json) |
 | Generals.io | 56290 | [56290-generals-io.json](./56290-generals-io.json) |
 | Generalskie kotly | 404781 | [404781-generalskie-kotly.json](./404781-generalskie-kotly.json) |
 | Generation Exile | 305182 | [305182-generation-exile.json](./305182-generation-exile.json) |
@@ -4627,6 +4629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Gym | 237483 | [237483-girls-gym.json](./237483-girls-gym.json) |
 | Girls Hair Salon | 88026 | [88026-girls-hair-salon.json](./88026-girls-hair-salon.json) |
 | Girls Hobby in Love | 278922 | [278922-girls-hobby-in-love.json](./278922-girls-hobby-in-love.json) |
+| Girls in Glasses | 151326 | [151326-girls-in-glasses.json](./151326-girls-in-glasses.json) |
 | Girls in Pajamas | 259067 | [259067-girls-in-pajamas.json](./259067-girls-in-pajamas.json) |
 | Girls Legend | 196303 | [196303-girls-legend.json](./196303-girls-legend.json) |
 | Girls Life: Beauty Experience | 68072 | [68072-girls-life-beauty-experience.json](./68072-girls-life-beauty-experience.json) |
