@@ -226,6 +226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack's Gang | 29159 | [29159-jacks-gang.json](./29159-jacks-gang.json) |
 | Jack's House | 210126 | [210126-jacks-house.json](./210126-jacks-house.json) |
 | Jack's House | 88314 | [88314-jacks-house.json](./88314-jacks-house.json) |
+| Jack's Labyrinth | 159969 | [159969-jacks-labyrinth.json](./159969-jacks-labyrinth.json) |
 | Jack's Pea | 230694 | [230694-jacks-pea.json](./230694-jacks-pea.json) |
 | Jack*Bot | 92155 | [92155-jack-bot.json](./92155-jack-bot.json) |
 | Jackal | 14133 | [14133-jackal.json](./14133-jackal.json) |
@@ -2403,6 +2404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jogo dos 10 | 242905 | [242905-jogo-dos-10.json](./242905-jogo-dos-10.json) |
 | Jogo Justo on the Taxes Island | 65342 | [65342-jogo-justo-on-the-taxes-island.json](./65342-jogo-justo-on-the-taxes-island.json) |
 | Jogo Satanista para Praticar o Mal | 178443 | [178443-jogo-satanista-para-praticar-o-mal.json](./178443-jogo-satanista-para-praticar-o-mal.json) |
+| Jogward | 159970 | [159970-jogward.json](./159970-jogward.json) |
 | Johan | 403561 | [403561-johan.json](./403561-johan.json) |
 | Johan: The Archer & The Witch | 133116 | [133116-johan-the-archer-and-the-witch.json](./133116-johan-the-archer-and-the-witch.json) |
 | Johann Sebastian Joust | 65370 | [65370-johann-sebastian-joust.json](./65370-johann-sebastian-joust.json) |
