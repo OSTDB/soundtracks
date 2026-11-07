@@ -2696,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eliza | 345129 | [345129-eliza.json](./345129-eliza.json) |
 | Elizabeth | 130081 | [130081-elizabeth.json](./130081-elizabeth.json) |
 | Elizabeth Find M.D.: Diagnosis Mystery - Season 2 | 14968 | [14968-elizabeth-find-m-d-diagnosis-mystery-season-2.json](./14968-elizabeth-find-m-d-diagnosis-mystery-season-2.json) |
+| Elizabeth's Score | 150329 | [150329-elizabeths-score.json](./150329-elizabeths-score.json) |
 | Elizord's Tale | 250478 | [250478-elizords-tale.json](./250478-elizords-tale.json) |
 | Elk Attack | 282714 | [282714-elk-attack.json](./282714-elk-attack.json) |
 | Elk Simulator | 158565 | [158565-elk-simulator.json](./158565-elk-simulator.json) |
@@ -3669,6 +3670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endgame | 23774 | [23774-endgame.json](./23774-endgame.json) |
 | EndGame | 303514 | [303514-endgame.json](./303514-endgame.json) |
 | Endgame of Devil | 259945 | [259945-endgame-of-devil.json](./259945-endgame-of-devil.json) |
+| Endgame: Road to Salvation | 150319 | [150319-endgame-road-to-salvation.json](./150319-endgame-road-to-salvation.json) |
 | Endhall | 111176 | [111176-endhall.json](./111176-endhall.json) |
 | Endhop | 383631 | [383631-endhop.json](./383631-endhop.json) |
 | Endica VII: The Dream King | 35924 | [35924-endica-vii-the-dream-king.json](./35924-endica-vii-the-dream-king.json) |
@@ -3682,6 +3684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endix | 396999 | [396999-endix.json](./396999-endix.json) |
 | Endlanders | 192502 | [192502-endlanders.json](./192502-endlanders.json) |
 | Endlanders: First Encounter | 210357 | [210357-endlanders-first-encounter.json](./210357-endlanders-first-encounter.json) |
+| Endless | 150302 | [150302-endless.json](./150302-endless.json) |
 | Endless | 74796 | [74796-endless.json](./74796-endless.json) |
 | Endless Adventure | 200287 | [200287-endless-adventure.json](./200287-endless-adventure.json) |
 | Endless Ages | 69777 | [69777-endless-ages.json](./69777-endless-ages.json) |
