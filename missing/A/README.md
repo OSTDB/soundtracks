@@ -4893,6 +4893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ageod's American Civil War: The Blue and the Gray | 21451 | [21451-ageods-american-civil-war-the-blue-and-the-gray.json](./21451-ageods-american-civil-war-the-blue-and-the-gray.json) |
 | AgeOfDarkness | 81072 | [81072-ageofdarkness.json](./81072-ageofdarkness.json) |
 | Agerasia | 377756 | [377756-agerasia.json](./377756-agerasia.json) |
+| Ages of Cataria | 189233 | [189233-ages-of-cataria.json](./189233-ages-of-cataria.json) |
 | Ages of Conflict: World War Simulator | 223829 | [223829-ages-of-conflict-world-war-simulator.json](./223829-ages-of-conflict-world-war-simulator.json) |
 | Ages of Mages: The Last Keeper | 98755 | [98755-ages-of-mages-the-last-keeper.json](./98755-ages-of-mages-the-last-keeper.json) |
 | Aggelos | 103517 | [103517-aggelos.json](./103517-aggelos.json) |
@@ -8003,6 +8004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alula | 185428 | [185428-alula.json](./185428-alula.json) |
 | Alum | 26873 | [26873-alum.json](./26873-alum.json) |
 | Alum | 28576 | [28576-alum.json](./28576-alum.json) |
+| Aluminium | 189234 | [189234-aluminium.json](./189234-aluminium.json) |
 | Aluminium City | 395819 | [395819-aluminium-city.json](./395819-aluminium-city.json) |
 | Alumni | 199763 | [199763-alumni.json](./199763-alumni.json) |
 | Aluna Rift | 203511 | [203511-aluna-rift.json](./203511-aluna-rift.json) |
