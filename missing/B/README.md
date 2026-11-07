@@ -1200,6 +1200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baki: King of Souls | 194155 | [194155-baki-king-of-souls.json](./194155-baki-king-of-souls.json) |
 | Baking Bad | 372028 | [372028-baking-bad.json](./372028-baking-bad.json) |
 | Baking Bustle | 158536 | [158536-baking-bustle.json](./158536-baking-bustle.json) |
+| Baking Bustle: Ashley's Dream | 172896 | [172896-baking-bustle-ashleys-dream.json](./172896-baking-bustle-ashleys-dream.json) |
 | Baking Bustle: Ashley's Dream - Collector's Edition | 339607 | [339607-baking-bustle-ashleys-dream-collectors-edition.json](./339607-baking-bustle-ashleys-dream-collectors-edition.json) |
 | Baking Fun | 359405 | [359405-baking-fun.json](./359405-baking-fun.json) |
 | Baking Time | 300771 | [300771-baking-time.json](./300771-baking-time.json) |
@@ -3257,6 +3258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bat Attack | 13810 | [13810-bat-attack.json](./13810-bat-attack.json) |
 | Bat Blast! | 275880 | [275880-bat-blast.json](./275880-bat-blast.json) |
 | Bat Blitz | 248323 | [248323-bat-blitz.json](./248323-bat-blitz.json) |
+| Bat Boy | 172891 | [172891-bat-boy.json](./172891-bat-boy.json) |
 | Bat Cage | 319570 | [319570-bat-cage.json](./319570-bat-cage.json) |
 | Bat Castle | 125592 | [125592-bat-castle.json](./125592-bat-castle.json) |
 | Bat Egg | 165556 | [165556-bat-egg.json](./165556-bat-egg.json) |
