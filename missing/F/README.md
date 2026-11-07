@@ -600,6 +600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faircroft's Antiques: Home for Christmas | 150943 | [150943-faircrofts-antiques-home-for-christmas.json](./150943-faircrofts-antiques-home-for-christmas.json) |
 | Faircroft's Antiques: Home for Christmas - Collector's Edition | 147755 | [147755-faircrofts-antiques-home-for-christmas-collectors-edition.json](./147755-faircrofts-antiques-home-for-christmas-collectors-edition.json) |
 | Faircroft's Antiques: The Forbidden Crypt | 182361 | [182361-faircrofts-antiques-the-forbidden-crypt.json](./182361-faircrofts-antiques-the-forbidden-crypt.json) |
+| Faircroft's Antiques: The Forbidden Crypt - Collector's Edition | 186948 | [186948-faircrofts-antiques-the-forbidden-crypt-collectors-edition.json](./186948-faircrofts-antiques-the-forbidden-crypt-collectors-edition.json) |
 | Faircroft's Antiques: The Heir of Glen Kinnoch | 148993 | [148993-faircrofts-antiques-the-heir-of-glen-kinnoch.json](./148993-faircrofts-antiques-the-heir-of-glen-kinnoch.json) |
 | Faircroft's Antiques: The Heir of Glen Kinnoch - Collector's Edition | 147754 | [147754-faircrofts-antiques-the-heir-of-glen-kinnoch-collectors-edition.json](./147754-faircrofts-antiques-the-heir-of-glen-kinnoch-collectors-edition.json) |
 | Faircroft's Antiques: The Mountaineer's Legacy | 197413 | [197413-faircrofts-antiques-the-mountaineers-legacy.json](./197413-faircrofts-antiques-the-mountaineers-legacy.json) |
@@ -6957,6 +6958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Ethans | 194614 | [194614-five-nights-at-ethans.json](./194614-five-nights-at-ethans.json) |
 | Five Nights at F***boy's 2: Final Mix | 170335 | [170335-five-nights-at-f-boys-2-final-mix.json](./170335-five-nights-at-f-boys-2-final-mix.json) |
 | Five Nights at F***boy's 3: Final Mix | 171894 | [171894-five-nights-at-f-boys-3-final-mix.json](./171894-five-nights-at-f-boys-3-final-mix.json) |
+| Five Nights at F***boy's: Complete Collection | 186978 | [186978-five-nights-at-f-boys-complete-collection.json](./186978-five-nights-at-f-boys-complete-collection.json) |
 | Five Nights at F***boy's: Dancing All Night | 374328 | [374328-five-nights-at-f-boys-dancing-all-night.json](./374328-five-nights-at-f-boys-dancing-all-night.json) |
 | Five Nights at F***boy's: Final Mix | 170035 | [170035-five-nights-at-f-boys-final-mix.json](./170035-five-nights-at-f-boys-final-mix.json) |
 | Five Nights at F***boy's: Golden Edition | 374324 | [374324-five-nights-at-f-boys-golden-edition.json](./374324-five-nights-at-f-boys-golden-edition.json) |
@@ -7079,6 +7081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Sonic's 3 Reburned | 182216 | [182216-five-nights-at-sonics-3-reburned.json](./182216-five-nights-at-sonics-3-reburned.json) |
 | Five Nights at Sonic's 4 | 274069 | [274069-five-nights-at-sonics-4.json](./274069-five-nights-at-sonics-4.json) |
 | Five Nights at Sonic's 4: Halloween Edition | 413155 | [413155-five-nights-at-sonics-4-halloween-edition.json](./413155-five-nights-at-sonics-4-halloween-edition.json) |
+| Five Nights at Sonic's Collection | 186992 | [186992-five-nights-at-sonics-collection.json](./186992-five-nights-at-sonics-collection.json) |
 | Five Nights at Sonic's Remastered | 333960 | [333960-five-nights-at-sonics-remastered.json](./333960-five-nights-at-sonics-remastered.json) |
 | Five Nights at Sonic's Side Story Act 1 | 335149 | [335149-five-nights-at-sonics-side-story-act-1.json](./335149-five-nights-at-sonics-side-story-act-1.json) |
 | Five Nights at Sonic's World | 359012 | [359012-five-nights-at-sonics-world.json](./359012-five-nights-at-sonics-world.json) |
@@ -8122,6 +8125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floigan Bros. | 22050 | [22050-floigan-bros.json](./22050-floigan-bros.json) |
 | Flong: Directors Cut | 377746 | [377746-flong-directors-cut.json](./377746-flong-directors-cut.json) |
 | Flood | 12104 | [12104-flood.json](./12104-flood.json) |
+| Flood | 186966 | [186966-flood.json](./186966-flood.json) |
 | Flood | 320187 | [320187-flood.json](./320187-flood.json) |
 | Flood Descendance | 355024 | [355024-flood-descendance.json](./355024-flood-descendance.json) |
 | Flood Escape | 369683 | [369683-flood-escape.json](./369683-flood-escape.json) |
@@ -9307,6 +9311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Referee Simulator | 307975 | [307975-football-referee-simulator.json](./307975-football-referee-simulator.json) |
 | Football Rising: Zero to Hero | 406285 | [406285-football-rising-zero-to-hero.json](./406285-football-rising-zero-to-hero.json) |
 | Football Rivals | 247307 | [247307-football-rivals.json](./247307-football-rivals.json) |
+| Football Run | 186957 | [186957-football-run.json](./186957-football-run.json) |
 | Football Russian 20!8 | 86306 | [86306-football-russian-20-8.json](./86306-football-russian-20-8.json) |
 | Football Saga Fantasista | 244801 | [244801-football-saga-fantasista.json](./244801-football-saga-fantasista.json) |
 | Football School | 120084 | [120084-football-school.json](./120084-football-school.json) |
