@@ -4540,6 +4540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marsport | 45327 | [45327-marsport.json](./45327-marsport.json) |
 | Marsupilami | 18142 | [18142-marsupilami.json](./18142-marsupilami.json) |
 | Marsupilami: Hoobadventure | 150008 | [150008-marsupilami-hoobadventure.json](./150008-marsupilami-hoobadventure.json) |
+| Marsupilami: Hoobadventure - Collector's Edition | 151923 | [151923-marsupilami-hoobadventure-collectors-edition.json](./151923-marsupilami-hoobadventure-collectors-edition.json) |
 | Marsupilami: Hoobadventure - Tropical Edition | 152337 | [152337-marsupilami-hoobadventure-tropical-edition.json](./152337-marsupilami-hoobadventure-tropical-edition.json) |
 | Marswar | 257423 | [257423-marswar.json](./257423-marswar.json) |
 | Marswar TD | 169465 | [169465-marswar-td.json](./169465-marswar-td.json) |
@@ -9255,6 +9256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MeowWare | 344511 | [344511-meowware.json](./344511-meowware.json) |
 | Mepekyon Racing | 416668 | [416668-mepekyon-racing.json](./416668-mepekyon-racing.json) |
 | Mephisto | 133692 | [133692-mephisto.json](./133692-mephisto.json) |
+| Mephisto Genius 2 | 151913 | [151913-mephisto-genius-2.json](./151913-mephisto-genius-2.json) |
 | MER Adventure Climbing | 370687 | [370687-mer-adventure-climbing.json](./370687-mer-adventure-climbing.json) |
 | MER Innebandy | 186661 | [186661-mer-innebandy.json](./186661-mer-innebandy.json) |
 | Mer Wars | 264310 | [264310-mer-wars.json](./264310-mer-wars.json) |
@@ -16949,6 +16951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonscape | 203252 | [203252-moonscape.json](./203252-moonscape.json) |
 | Moonscars | 194507 | [194507-moonscars.json](./194507-moonscars.json) |
 | MoonScavenger | 239720 | [239720-moonscavenger.json](./239720-moonscavenger.json) |
+| Moonshades | 151880 | [151880-moonshades.json](./151880-moonshades.json) |
 | Moonshadow | 70161 | [70161-moonshadow.json](./70161-moonshadow.json) |
 | Moonshine | 144799 | [144799-moonshine.json](./144799-moonshine.json) |
 | Moonshine and I: Sansevieria | 178525 | [178525-moonshine-and-i-sansevieria.json](./178525-moonshine-and-i-sansevieria.json) |
