@@ -3189,6 +3189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SciFi Racer Simulator | 286885 | [286885-scifi-racer-simulator.json](./286885-scifi-racer-simulator.json) |
 | Scifi Racing Team | 332864 | [332864-scifi-racing-team.json](./332864-scifi-racing-team.json) |
 | Scifi Zombie | 316151 | [316151-scifi-zombie.json](./316151-scifi-zombie.json) |
+| SciGirl: The Internship | 143859 | [143859-scigirl-the-internship.json](./143859-scigirl-the-internship.json) |
 | Scikor Final Scale | 121743 | [121743-scikor-final-scale.json](./121743-scikor-final-scale.json) |
 | Scila e il Drago Diamante | 380387 | [380387-scila-e-il-drago-diamante.json](./380387-scila-e-il-drago-diamante.json) |
 | Scimitar | 273721 | [273721-scimitar.json](./273721-scimitar.json) |
@@ -7016,6 +7017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShadoWave | 212188 | [212188-shadowave.json](./212188-shadowave.json) |
 | Shadowbane: The Rise of Chaos | 70972 | [70972-shadowbane-the-rise-of-chaos.json](./70972-shadowbane-the-rise-of-chaos.json) |
 | Shadowbane: Throne of Oblivion | 66366 | [66366-shadowbane-throne-of-oblivion.json](./66366-shadowbane-throne-of-oblivion.json) |
+| Shadowbender | 143848 | [143848-shadowbender.json](./143848-shadowbender.json) |
 | Shadowblade Knight Symphony | 313154 | [313154-shadowblade-knight-symphony.json](./313154-shadowblade-knight-symphony.json) |
 | Shadowblade Odyssey | 259513 | [259513-shadowblade-odyssey.json](./259513-shadowblade-odyssey.json) |
 | Shadowblood | 97477 | [97477-shadowblood.json](./97477-shadowblood.json) |
@@ -19835,6 +19837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Girls | 258820 | [258820-space-girls.json](./258820-space-girls.json) |
 | Space Girls | 68894 | [68894-space-girls.json](./68894-space-girls.json) |
 | Space Girls Band | 293215 | [293215-space-girls-band.json](./293215-space-girls-band.json) |
+| Space Gladiators | 143871 | [143871-space-gladiators.json](./143871-space-gladiators.json) |
 | Space Gladiators: The Hole | 148776 | [148776-space-gladiators-the-hole.json](./148776-space-gladiators-the-hole.json) |
 | Space Gliders | 188819 | [188819-space-gliders.json](./188819-space-gliders.json) |
 | Space Gnomes | 407315 | [407315-space-gnomes.json](./407315-space-gnomes.json) |
@@ -19921,6 +19924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -30561,6 +30565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunberry Valley | 356846 | [356846-sunberry-valley.json](./356846-sunberry-valley.json) |
 | Sunberry Village | 384778 | [384778-sunberry-village.json](./384778-sunberry-village.json) |
 | Sunbirds | 89007 | [89007-sunbirds.json](./89007-sunbirds.json) |
+| Sunblaze | 143870 | [143870-sunblaze.json](./143870-sunblaze.json) |
 | SunBlockers | 388538 | [388538-sunblockers.json](./388538-sunblockers.json) |
 | Sunbreak War | 373759 | [373759-sunbreak-war.json](./373759-sunbreak-war.json) |
 | Sunburnt | 183681 | [183681-sunburnt.json](./183681-sunburnt.json) |
@@ -32634,6 +32639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mega Extreme Cyber Ortek Flier 2005 X | 62552 | [62552-super-mega-extreme-cyber-ortek-flier-2005-x.json](./62552-super-mega-extreme-cyber-ortek-flier-2005-x.json) |
 | Super Mega Hentai Collection! | 215248 | [215248-super-mega-hentai-collection.json](./215248-super-mega-hentai-collection.json) |
 | Super Mega Lucky Box | 234599 | [234599-super-mega-lucky-box.json](./234599-super-mega-lucky-box.json) |
+| Super Mega Mini Party | 143820 | [143820-super-mega-mini-party.json](./143820-super-mega-mini-party.json) |
 | Super Mega Runners | 365137 | [365137-super-mega-runners.json](./365137-super-mega-runners.json) |
 | Super Mega Space Blaster Special | 119009 | [119009-super-mega-space-blaster-special.json](./119009-super-mega-space-blaster-special.json) |
 | Super Mega Space Blaster Special Turbo | 125387 | [125387-super-mega-space-blaster-special-turbo.json](./125387-super-mega-space-blaster-special-turbo.json) |
