@@ -11512,6 +11512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Maker | 178886 | [178886-coffee-maker.json](./178886-coffee-maker.json) |
 | Coffee Mania | 302220 | [302220-coffee-mania.json](./302220-coffee-mania.json) |
 | Coffee Noir | 27795 | [27795-coffee-noir.json](./27795-coffee-noir.json) |
+| Coffee Noir: Business Detective Game | 174440 | [174440-coffee-noir-business-detective-game.json](./174440-coffee-noir-business-detective-game.json) |
 | Coffee Pack | 324419 | [324419-coffee-pack.json](./324419-coffee-pack.json) |
 | Coffee Pixes | 75060 | [75060-coffee-pixes.json](./75060-coffee-pixes.json) |
 | Coffee Please | 322016 | [322016-coffee-please.json](./322016-coffee-please.json) |
@@ -15182,6 +15183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Cruncher | 59448 | [59448-cosmic-cruncher.json](./59448-cosmic-cruncher.json) |
 | Cosmic Crusader | 14494 | [14494-cosmic-crusader.json](./14494-cosmic-crusader.json) |
 | Cosmic Crusader | 413237 | [413237-cosmic-crusader.json](./413237-cosmic-crusader.json) |
+| Cosmic Cube | 174439 | [174439-cosmic-cube.json](./174439-cosmic-cube.json) |
 | Cosmic Cursor | 272781 | [272781-cosmic-cursor.json](./272781-cosmic-cursor.json) |
 | Cosmic Dawn | 141183 | [141183-cosmic-dawn.json](./141183-cosmic-dawn.json) |
 | Cosmic Decode | 338889 | [338889-cosmic-decode.json](./338889-cosmic-decode.json) |
@@ -18877,6 +18879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal core | 124212 | [124212-crystal-core.json](./124212-crystal-core.json) |
 | Crystal Corruption: Reclamation | 275741 | [275741-crystal-corruption-reclamation.json](./275741-crystal-corruption-reclamation.json) |
 | Crystal Cosmos | 32244 | [32244-crystal-cosmos.json](./32244-crystal-cosmos.json) |
+| Crystal Cove | 174470 | [174470-crystal-cove.json](./174470-crystal-cove.json) |
 | Crystal Crepes: Tales of Food and Magic | 379426 | [379426-crystal-crepes-tales-of-food-and-magic.json](./379426-crystal-crepes-tales-of-food-and-magic.json) |
 | Crystal Crisis | 101152 | [101152-crystal-crisis.json](./101152-crystal-crisis.json) |
 | Crystal Crush | 70620 | [70620-crystal-crush.json](./70620-crystal-crush.json) |
