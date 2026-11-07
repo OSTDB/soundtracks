@@ -1566,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Farm Seaside | 104104 | [104104-family-farm-seaside.json](./104104-family-farm-seaside.json) |
 | Family Farm: Goodfolks | 245177 | [245177-family-farm-goodfolks.json](./245177-family-farm-goodfolks.json) |
 | Family Fest Presents Movie Games | 70671 | [70671-family-fest-presents-movie-games.json](./70671-family-fest-presents-movie-games.json) |
+| Family Feud | 145825 | [145825-family-feud.json](./145825-family-feud.json) |
 | Family Feud | 159244 | [159244-family-feud.json](./159244-family-feud.json) |
 | Family Feud | 163161 | [163161-family-feud.json](./163161-family-feud.json) |
 | Family Feud | 175630 | [175630-family-feud.json](./175630-family-feud.json) |
@@ -14135,6 +14136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futbol Plus | 332746 | [332746-futbol-plus.json](./332746-futbol-plus.json) |
 | Futbolín Revolution | 138020 | [138020-futbolin-revolution.json](./138020-futbolin-revolution.json) |
 | Futebol | 92984 | [92984-futebol.json](./92984-futebol.json) |
+| Futebol brasileiro '96 | 145765 | [145765-futebol-brasileiro-96.json](./145765-futebol-brasileiro-96.json) |
 | Futebol de Tampinhas | 290090 | [290090-futebol-de-tampinhas.json](./290090-futebol-de-tampinhas.json) |
 | Futile | 398663 | [398663-futile.json](./398663-futile.json) |
 | Futilitris | 138152 | [138152-futilitris.json](./138152-futilitris.json) |
@@ -14245,6 +14247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuuraiki 4 | 142398 | [142398-fuuraiki-4.json](./142398-fuuraiki-4.json) |
 | Fuuraiki 5 | 335573 | [335573-fuuraiki-5.json](./335573-fuuraiki-5.json) |
 | Fuuu...! | 390168 | [390168-fuuu.json](./390168-fuuu.json) |
+| Fuuun Gokuu Ninden | 145764 | [145764-fuuun-gokuu-ninden.json](./145764-fuuun-gokuu-ninden.json) |
 | Fuuun Gokuu Ninjin | 43865 | [43865-fuuun-gokuu-ninjin.json](./43865-fuuun-gokuu-ninjin.json) |
 | Fuuun Shaolin Ken | 376690 | [376690-fuuun-shaolin-ken.json](./376690-fuuun-shaolin-ken.json) |
 | Fuuun Shaolin Kyo: Ankoku no Maou | 74011 | [74011-fuuun-shaolin-kyo-ankoku-no-maou.json](./74011-fuuun-shaolin-kyo-ankoku-no-maou.json) |
