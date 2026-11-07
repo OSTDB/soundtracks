@@ -968,7 +968,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -10660,6 +10659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockbuster World Video Game Championship II | 210600 | [210600-blockbuster-world-video-game-championship-ii.json](./210600-blockbuster-world-video-game-championship-ii.json) |
 | Blockbusters | 12940 | [12940-blockbusters.json](./12940-blockbusters.json) |
 | Blockbusters | 153814 | [153814-blockbusters.json](./153814-blockbusters.json) |
+| Blockbusters | 174978 | [174978-blockbusters.json](./174978-blockbusters.json) |
 | Blockbusters: Gold Run | 13408 | [13408-blockbusters-gold-run.json](./13408-blockbusters-gold-run.json) |
 | BlockBustersVR | 150862 | [150862-blockbustersvr.json](./150862-blockbustersvr.json) |
 | Blockchain Brawlers | 225754 | [225754-blockchain-brawlers.json](./225754-blockchain-brawlers.json) |
@@ -11911,6 +11911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BMX Air Master | 40588 | [40588-bmx-air-master.json](./40588-bmx-air-master.json) |
 | BMX Backflip King | 255173 | [255173-bmx-backflip-king.json](./255173-bmx-backflip-king.json) |
 | BMX Bastards | 273834 | [273834-bmx-bastards.json](./273834-bmx-bastards.json) |
+| BMX Boy | 174969 | [174969-bmx-boy.json](./174969-bmx-boy.json) |
 | BMX Burner | 349261 | [349261-bmx-burner.json](./349261-bmx-burner.json) |
 | BMX Challenge | 220189 | [220189-bmx-challenge.json](./220189-bmx-challenge.json) |
 | BMX Champions Cartoon Network | 232329 | [232329-bmx-champions-cartoon-network.json](./232329-bmx-champions-cartoon-network.json) |
@@ -17283,6 +17284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Noir | 317536 | [317536-bullet-noir.json](./317536-bullet-noir.json) |
 | Bullet Ouroboros | 391646 | [391646-bullet-ouroboros.json](./391646-bullet-ouroboros.json) |
 | Bullet Party | 43075 | [43075-bullet-party.json](./43075-bullet-party.json) |
+| Bullet Party 2 | 174999 | [174999-bullet-party-2.json](./174999-bullet-party-2.json) |
 | Bullet Priest | 219732 | [219732-bullet-priest.json](./219732-bullet-priest.json) |
 | Bullet Quest | 199461 | [199461-bullet-quest.json](./199461-bullet-quest.json) |
 | Bullet Race | 281975 | [281975-bullet-race.json](./281975-bullet-race.json) |
