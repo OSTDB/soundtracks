@@ -2050,6 +2050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Void Zero | 10166 | [10166-dark-void-zero.json](./10166-dark-void-zero.json) |
 | Dark Walk | 241873 | [241873-dark-walk.json](./241873-dark-walk.json) |
 | Dark War | 30813 | [30813-dark-war.json](./30813-dark-war.json) |
+| Dark War Online | 155783 | [155783-dark-war-online.json](./155783-dark-war-online.json) |
 | Dark War: Survival | 329651 | [329651-dark-war-survival.json](./329651-dark-war-survival.json) |
 | Dark Watcher | 258586 | [258586-dark-watcher.json](./258586-dark-watcher.json) |
 | Dark Watching: Chapter 1 | 383633 | [383633-dark-watching-chapter-1.json](./383633-dark-watching-chapter-1.json) |
@@ -3661,6 +3662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Hope | 156802 | [156802-dead-hope.json](./156802-dead-hope.json) |
 | Dead Horizon | 268886 | [268886-dead-horizon.json](./268886-dead-horizon.json) |
 | Dead Horizon | 52772 | [52772-dead-horizon.json](./52772-dead-horizon.json) |
+| Dead Hospital | 155812 | [155812-dead-hospital.json](./155812-dead-hospital.json) |
 | Dead Hospital | 406174 | [406174-dead-hospital.json](./406174-dead-hospital.json) |
 | Dead Hourz | 342016 | [342016-dead-hourz.json](./342016-dead-hourz.json) |
 | Dead House: Saisei | 218972 | [218972-dead-house-saisei.json](./218972-dead-house-saisei.json) |
@@ -7265,6 +7267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Lost | 202200 | [202200-desert-lost.json](./202200-desert-lost.json) |
 | Desert Magic Adventures | 175771 | [175771-desert-magic-adventures.json](./175771-desert-magic-adventures.json) |
 | Desert Mirage | 420492 | [420492-desert-mirage.json](./420492-desert-mirage.json) |
+| Desert Mystery | 155787 | [155787-desert-mystery.json](./155787-desert-mystery.json) |
 | Desert of Ash: a Post-Apocalyptic Gay Sex Simulator | 326457 | [326457-desert-of-ash-a-post-apocalyptic-gay-sex-simulator.json](./326457-desert-of-ash-a-post-apocalyptic-gay-sex-simulator.json) |
 | Desert of Doitjma | 128437 | [128437-desert-of-doitjma.json](./128437-desert-of-doitjma.json) |
 | Desert Of The Undead New Frontiers | 296364 | [296364-desert-of-the-undead-new-frontiers.json](./296364-desert-of-the-undead-new-frontiers.json) |
@@ -10978,6 +10981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distorted: The Living Manor | 395640 | [395640-distorted-the-living-manor.json](./395640-distorted-the-living-manor.json) |
 | DistortedCode: Seija no Nokoriga | 318893 | [318893-distortedcode-seija-no-nokoriga.json](./318893-distortedcode-seija-no-nokoriga.json) |
 | Distortion Nation | 135048 | [135048-distortion-nation.json](./135048-distortion-nation.json) |
+| Distortion VR | 155811 | [155811-distortion-vr.json](./155811-distortion-vr.json) |
 | Distraction Machine | 204226 | [204226-distraction-machine.json](./204226-distraction-machine.json) |
 | Distractor | 347986 | [347986-distractor.json](./347986-distractor.json) |
 | Distraint | 13664 | [13664-distraint.json](./13664-distraint.json) |
