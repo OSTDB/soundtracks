@@ -18429,6 +18429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Warriors | 165727 | [165727-dungeon-warriors.json](./165727-dungeon-warriors.json) |
 | Dungeon Watchers | 319213 | [319213-dungeon-watchers.json](./319213-dungeon-watchers.json) |
 | Dungeon Weiqi | 348843 | [348843-dungeon-weiqi.json](./348843-dungeon-weiqi.json) |
+| Dungeon Witches | 182638 | [182638-dungeon-witches.json](./182638-dungeon-witches.json) |
 | Dungeon With Girl | 346171 | [346171-dungeon-with-girl.json](./346171-dungeon-with-girl.json) |
 | Dungeon Within | 400992 | [400992-dungeon-within.json](./400992-dungeon-within.json) |
 | Dungeon Wizards | 188760 | [188760-dungeon-wizards.json](./188760-dungeon-wizards.json) |
