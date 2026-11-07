@@ -98,6 +98,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.U.G.S. | 59919 | [59919-b-u-g-s.json](./59919-b-u-g-s.json) |
 | B.U.T.T.O.N. | 16235 | [16235-b-u-t-t-o-n.json](./16235-b-u-t-t-o-n.json) |
 | B.U.T.T.O.N. (Brutally Unfair Tactics Totally OK Now) | 92526 | [92526-b-u-t-t-o-n-brutally-unfair-tactics-totally-ok-now.json](./92526-b-u-t-t-o-n-brutally-unfair-tactics-totally-ok-now.json) |
+| B.Y.O.O.L.: Best Years of Our Lives | 169538 | [169538-b-y-o-o-l-best-years-of-our-lives.json](./169538-b-y-o-o-l-best-years-of-our-lives.json) |
 | B's-LOG Party | 45989 | [45989-bs-log-party.json](./45989-bs-log-party.json) |
 | B&F 1: The Dark Corridor | 393478 | [393478-b-and-f-1-the-dark-corridor.json](./393478-b-and-f-1-the-dark-corridor.json) |
 | B048 | 278235 | [278235-b048.json](./278235-b048.json) |
@@ -968,7 +969,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -15714,6 +15714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge to Another World: Gulliver Syndrome | 188031 | [188031-bridge-to-another-world-gulliver-syndrome.json](./188031-bridge-to-another-world-gulliver-syndrome.json) |
 | Bridge to Another World: Gulliver Syndrome - Collector's Edition | 397102 | [397102-bridge-to-another-world-gulliver-syndrome-collectors-edition.json](./397102-bridge-to-another-world-gulliver-syndrome-collectors-edition.json) |
 | Bridge to Another World: Secrets of the Nutcracker | 236819 | [236819-bridge-to-another-world-secrets-of-the-nutcracker.json](./236819-bridge-to-another-world-secrets-of-the-nutcracker.json) |
+| Bridge to Another World: Secrets of the Nutcracker - Collector's Edition | 169530 | [169530-bridge-to-another-world-secrets-of-the-nutcracker-collectors-edition.json](./169530-bridge-to-another-world-secrets-of-the-nutcracker-collectors-edition.json) |
 | Bridge to Another World: The Christmas Curse | 397116 | [397116-bridge-to-another-world-the-christmas-curse.json](./397116-bridge-to-another-world-the-christmas-curse.json) |
 | Bridge to Another World: The Others | 140289 | [140289-bridge-to-another-world-the-others.json](./140289-bridge-to-another-world-the-others.json) |
 | Bridge to Another World: The Others - Collector's Edition | 75655 | [75655-bridge-to-another-world-the-others-collectors-edition.json](./75655-bridge-to-another-world-the-others-collectors-edition.json) |
