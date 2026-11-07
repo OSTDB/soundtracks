@@ -3608,6 +3608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recon Control | 156914 | [156914-recon-control.json](./156914-recon-control.json) |
 | Recon Quest | 291578 | [291578-recon-quest.json](./291578-recon-quest.json) |
 | Reconciliation | 309536 | [309536-reconciliation.json](./309536-reconciliation.json) |
+| Recondite: The Phantasm Emporium | 176606 | [176606-recondite-the-phantasm-emporium.json](./176606-recondite-the-phantasm-emporium.json) |
 | Reconditus | 309206 | [309206-reconditus.json](./309206-reconditus.json) |
 | Recondo | 215888 | [215888-recondo.json](./215888-recondo.json) |
 | Reconnect | 161395 | [161395-reconnect.json](./161395-reconnect.json) |
@@ -11862,6 +11863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubber Sharks | 305980 | [305980-rubber-sharks.json](./305980-rubber-sharks.json) |
 | Rubber Toys | 38776 | [38776-rubber-toys.json](./38776-rubber-toys.json) |
 | Rubberduck Wave Racer | 245716 | [245716-rubberduck-wave-racer.json](./245716-rubberduck-wave-racer.json) |
+| Rubbing them again | 176602 | [176602-rubbing-them-again.json](./176602-rubbing-them-again.json) |
 | Rubbings | 289671 | [289671-rubbings.json](./289671-rubbings.json) |
 | Rubbish | 340684 | [340684-rubbish.json](./340684-rubbish.json) |
 | Rubbish Blazon | 64059 | [64059-rubbish-blazon.json](./64059-rubbish-blazon.json) |
