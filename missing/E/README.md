@@ -3566,6 +3566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Encounter Bar | 385258 | [385258-encounter-bar.json](./385258-encounter-bar.json) |
 | Encounter Dinosaurs | 327696 | [327696-encounter-dinosaurs.json](./327696-encounter-dinosaurs.json) |
 | Encounter of Galaxies | 28931 | [28931-encounter-of-galaxies.json](./28931-encounter-of-galaxies.json) |
+| Encounter the Light | 150802 | [150802-encounter-the-light.json](./150802-encounter-the-light.json) |
 | Encounter: A 8-Bit Noir Adventure | 371192 | [371192-encounter-a-8-bit-noir-adventure.json](./371192-encounter-a-8-bit-noir-adventure.json) |
 | Encounter: The Lost Cards | 354540 | [354540-encounter-the-lost-cards.json](./354540-encounter-the-lost-cards.json) |
 | Encounters | 311181 | [311181-encounters.json](./311181-encounters.json) |
@@ -5191,6 +5192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Deathmark Dungeon | 195695 | [195695-escape-from-deathmark-dungeon.json](./195695-escape-from-deathmark-dungeon.json) |
 | Escape from Demon Island | 262794 | [262794-escape-from-demon-island.json](./262794-escape-from-demon-island.json) |
 | Escape From Dimension-3 | 236722 | [236722-escape-from-dimension-3.json](./236722-escape-from-dimension-3.json) |
+| Escape from Dinosaur Island | 150815 | [150815-escape-from-dinosaur-island.json](./150815-escape-from-dinosaur-island.json) |
 | Escape From Docy | 189875 | [189875-escape-from-docy.json](./189875-escape-from-docy.json) |
 | Escape From Duck | 394564 | [394564-escape-from-duck.json](./394564-escape-from-duck.json) |
 | Escape From Duckness | 395218 | [395218-escape-from-duckness.json](./395218-escape-from-duckness.json) |
