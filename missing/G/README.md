@@ -10352,6 +10352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of Greyrock: Card Pack - Traps And Treasure | 335314 | [335314-guardians-of-greyrock-card-pack-traps-and-treasure.json](./335314-guardians-of-greyrock-card-pack-traps-and-treasure.json) |
 | Guardians of Gridvale | 217113 | [217113-guardians-of-gridvale.json](./217113-guardians-of-gridvale.json) |
 | Guardians of Lodino Forest | 138672 | [138672-guardians-of-lodino-forest.json](./138672-guardians-of-lodino-forest.json) |
+| Guardians of Lumen | 149140 | [149140-guardians-of-lumen.json](./149140-guardians-of-lumen.json) |
 | Guardians of Magic: Amanda's Awakening | 19315 | [19315-guardians-of-magic-amandas-awakening.json](./19315-guardians-of-magic-amandas-awakening.json) |
 | Guardians of Middle Earth: Mithril Edition | 53068 | [53068-guardians-of-middle-earth-mithril-edition.json](./53068-guardians-of-middle-earth-mithril-edition.json) |
 | Guardians of Middle-earth | 7892 | [7892-guardians-of-middle-earth.json](./7892-guardians-of-middle-earth.json) |
