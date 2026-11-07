@@ -9175,6 +9175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestling | 217707 | [217707-wrestling.json](./217707-wrestling.json) |
 | Wrestling Empire | 142449 | [142449-wrestling-empire.json](./142449-wrestling-empire.json) |
 | Wrestling Empire Forever | 270163 | [270163-wrestling-empire-forever.json](./270163-wrestling-empire-forever.json) |
+| Wrestling GM | 145800 | [145800-wrestling-gm.json](./145800-wrestling-gm.json) |
 | Wrestling Manager 2023 | 226116 | [226116-wrestling-manager-2023.json](./226116-wrestling-manager-2023.json) |
 | Wrestling Mpire 2008 | 79374 | [79374-wrestling-mpire-2008.json](./79374-wrestling-mpire-2008.json) |
 | Wrestling MPire Remix: Career Edition | 186430 | [186430-wrestling-mpire-remix-career-edition.json](./186430-wrestling-mpire-remix-career-edition.json) |
