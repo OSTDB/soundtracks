@@ -5156,6 +5156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sei Monmusu Festival!! Omatsuri da yo Zen'in Shuugou! | 77370 | [77370-sei-monmusu-festival-omatsuri-da-yo-zenin-shuugou.json](./77370-sei-monmusu-festival-omatsuri-da-yo-zenin-shuugou.json) |
 | Sei Monmusu Gakuen | 77606 | [77606-sei-monmusu-gakuen.json](./77606-sei-monmusu-gakuen.json) |
 | Sei no Shoujo: Bishoujo Gakuen 3 | 194623 | [194623-sei-no-shoujo-bishoujo-gakuen-3.json](./194623-sei-no-shoujo-bishoujo-gakuen-3.json) |
+| Sei Shoujo Sentai Lakers | 165230 | [165230-sei-shoujo-sentai-lakers.json](./165230-sei-shoujo-sentai-lakers.json) |
 | Sei Shoujo Sentai Lakers II | 264323 | [264323-sei-shoujo-sentai-lakers-ii.json](./264323-sei-shoujo-sentai-lakers-ii.json) |
 | Sei Shoujo Sentai Lakers III | 264324 | [264324-sei-shoujo-sentai-lakers-iii.json](./264324-sei-shoujo-sentai-lakers-iii.json) |
 | Sei-Romance Gakuen: Koi no Toki-meki Daisakusen | 283538 | [283538-sei-romance-gakuen-koi-no-toki-meki-daisakusen.json](./283538-sei-romance-gakuen-koi-no-toki-meki-daisakusen.json) |
@@ -19826,6 +19827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -23588,6 +23590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squares Rage | 151508 | [151508-squares-rage.json](./151508-squares-rage.json) |
 | Squares Rage: Character - Crying Chris | 170120 | [170120-squares-rage-character-crying-chris.json](./170120-squares-rage-character-crying-chris.json) |
 | Squares Story | 143944 | [143944-squares-story.json](./143944-squares-story.json) |
+| Squares: Brain Game | 165214 | [165214-squares-brain-game.json](./165214-squares-brain-game.json) |
 | Squaretrail: Lines of The Frame | 305393 | [305393-squaretrail-lines-of-the-frame.json](./305393-squaretrail-lines-of-the-frame.json) |
 | Squareverse | 390664 | [390664-squareverse.json](./390664-squareverse.json) |
 | Squarewave Maker | 90139 | [90139-squarewave-maker.json](./90139-squarewave-maker.json) |
@@ -33424,6 +33427,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Stacey World | 223025 | [223025-super-stacey-world.json](./223025-super-stacey-world.json) |
 | Super Stacker | 282478 | [282478-super-stacker.json](./282478-super-stacker.json) |
 | Super Stacker | 52894 | [52894-super-stacker.json](./52894-super-stacker.json) |
+| Super Stacker 2 | 165262 | [165262-super-stacker-2.json](./165262-super-stacker-2.json) |
+| Super Stacker 3 | 165263 | [165263-super-stacker-3.json](./165263-super-stacker-3.json) |
 | Super Stadia | 355884 | [355884-super-stadia.json](./355884-super-stadia.json) |
 | Super Star | 32027 | [32027-super-star.json](./32027-super-star.json) |
 | Super Star Adventure | 385286 | [385286-super-star-adventure.json](./385286-super-star-adventure.json) |
