@@ -1630,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamma64 | 221989 | [221989-gamma64.json](./221989-gamma64.json) |
 | Gamocracy One: Legend of Robo7 | 354719 | [354719-gamocracy-one-legend-of-robo7.json](./354719-gamocracy-one-legend-of-robo7.json) |
 | Gamp | 25717 | [25717-gamp.json](./25717-gamp.json) |
+| Gamshal: The Forsaken Monk | 184156 | [184156-gamshal-the-forsaken-monk.json](./184156-gamshal-the-forsaken-monk.json) |
 | Gamshara | 269943 | [269943-gamshara.json](./269943-gamshara.json) |
 | Gan-gan Gan-chan | 38023 | [38023-gan-gan-gan-chan.json](./38023-gan-gan-gan-chan.json) |
 | Gan! Gan! Pirates | 1366 | [1366-gan-gan-pirates.json](./1366-gan-gan-pirates.json) |
@@ -10831,6 +10832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Mayhem Redux | 102021 | [102021-gun-mayhem-redux.json](./102021-gun-mayhem-redux.json) |
 | Gun Monkey! | 406559 | [406559-gun-monkey.json](./406559-gun-monkey.json) |
 | Gun Monkeys | 16541 | [16541-gun-monkeys.json](./16541-gun-monkeys.json) |
+| Gun Mountain | 184154 | [184154-gun-mountain.json](./184154-gun-mountain.json) |
 | Gun Mute | 79644 | [79644-gun-mute.json](./79644-gun-mute.json) |
 | Gun Nose | 390152 | [390152-gun-nose.json](./390152-gun-nose.json) |
 | Gun of Fate: The Silver Gun of Ylia | 373149 | [373149-gun-of-fate-the-silver-gun-of-ylia.json](./373149-gun-of-fate-the-silver-gun-of-ylia.json) |
