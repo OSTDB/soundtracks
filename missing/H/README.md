@@ -711,6 +711,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Chronicles: Cursed Family - Collector's Edition | 186015 | [186015-halloween-chronicles-cursed-family-collectors-edition.json](./186015-halloween-chronicles-cursed-family-collectors-edition.json) |
 | Halloween Chronicles: Evil Behind a Mask | 139197 | [139197-halloween-chronicles-evil-behind-a-mask.json](./139197-halloween-chronicles-evil-behind-a-mask.json) |
 | Halloween Chronicles: Evil Behind a Mask - Collector's Edition | 126665 | [126665-halloween-chronicles-evil-behind-a-mask-collectors-edition.json](./126665-halloween-chronicles-evil-behind-a-mask-collectors-edition.json) |
+| Halloween Chronicles: Monsters Among Us | 185805 | [185805-halloween-chronicles-monsters-among-us.json](./185805-halloween-chronicles-monsters-among-us.json) |
+| Halloween Chronicles: Monsters Among Us - Collector's Edition | 185806 | [185806-halloween-chronicles-monsters-among-us-collectors-edition.json](./185806-halloween-chronicles-monsters-among-us-collectors-edition.json) |
 | Halloween Decoration Sandbox | 148548 | [148548-halloween-decoration-sandbox.json](./148548-halloween-decoration-sandbox.json) |
 | Halloween Defense | 269008 | [269008-halloween-defense.json](./269008-halloween-defense.json) |
 | Halloween Escape | 160159 | [160159-halloween-escape.json](./160159-halloween-escape.json) |
@@ -8774,6 +8776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoleShot Drag Racing | 212997 | [212997-holeshot-drag-racing.json](./212997-holeshot-drag-racing.json) |
 | Holey | 408181 | [408181-holey.json](./408181-holey.json) |
 | Holey Dungeon Horidan! | 59009 | [59009-holey-dungeon-horidan.json](./59009-holey-dungeon-horidan.json) |
+| Holey Hell | 185753 | [185753-holey-hell.json](./185753-holey-hell.json) |
 | Holey Moley | 270409 | [270409-holey-moley.json](./270409-holey-moley.json) |
 | Holey Moley | 40670 | [40670-holey-moley.json](./40670-holey-moley.json) |
 | Holey Moley | 58637 | [58637-holey-moley.json](./58637-holey-moley.json) |
