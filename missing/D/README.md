@@ -7810,6 +7810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destructor Tanks | 192609 | [192609-destructor-tanks.json](./192609-destructor-tanks.json) |
 | Destructor2D | 404984 | [404984-destructor2d.json](./404984-destructor2d.json) |
 | Destructure: Among Debris | 189006 | [189006-destructure-among-debris.json](./189006-destructure-among-debris.json) |
+| Destrux | 142531 | [142531-destrux.json](./142531-destrux.json) |
 | Desvelado | 295592 | [295592-desvelado.json](./295592-desvelado.json) |
 | Desync | 20918 | [20918-desync.json](./20918-desync.json) |
 | Desynced | 230222 | [230222-desynced.json](./230222-desynced.json) |
@@ -12482,6 +12483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domus Abscondita | 312765 | [312765-domus-abscondita.json](./312765-domus-abscondita.json) |
 | Domus Monstra | 184694 | [184694-domus-monstra.json](./184694-domus-monstra.json) |
 | Domynyo | 171302 | [171302-domynyo.json](./171302-domynyo.json) |
+| Don 2: The Game | 142554 | [142554-don-2-the-game.json](./142554-don-2-the-game.json) |
 | Don Bluth Presents Dragon's Lair 20th Anniversary Special Edition | 84222 | [84222-don-bluth-presents-dragons-lair-20th-anniversary-special-edition.json](./84222-don-bluth-presents-dragons-lair-20th-anniversary-special-edition.json) |
 | Don Bradman Cricket 14 | 6967 | [6967-don-bradman-cricket-14.json](./6967-don-bradman-cricket-14.json) |
 | Don Dim Dum | 248899 | [248899-don-dim-dum.json](./248899-don-dim-dum.json) |
@@ -17171,6 +17173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drongo's Festive Adventures | 261685 | [261685-drongos-festive-adventures.json](./261685-drongos-festive-adventures.json) |
 | Dronihilation VR | 67928 | [67928-dronihilation-vr.json](./67928-dronihilation-vr.json) |
 | Droning On | 334562 | [334562-droning-on.json](./334562-droning-on.json) |
+| Drool of the Killer | 142582 | [142582-drool-of-the-killer.json](./142582-drool-of-the-killer.json) |
 | Droom | 296874 | [296874-droom.json](./296874-droom.json) |
 | Droom | 320299 | [320299-droom.json](./320299-droom.json) |
 | Droopy Balls Simulator 2021 | 168684 | [168684-droopy-balls-simulator-2021.json](./168684-droopy-balls-simulator-2021.json) |
