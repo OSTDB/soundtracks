@@ -3840,6 +3840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Island: The Dinosaur Zoo | 14745 | [14745-jurassic-island-the-dinosaur-zoo.json](./14745-jurassic-island-the-dinosaur-zoo.json) |
 | Jurassic Knights: Tactics | 311898 | [311898-jurassic-knights-tactics.json](./311898-jurassic-knights-tactics.json) |
 | Jurassic Lab: Dinosarium DNA | 211780 | [211780-jurassic-lab-dinosarium-dna.json](./211780-jurassic-lab-dinosarium-dna.json) |
+| Jurassic Mahjong | 148060 | [148060-jurassic-mahjong.json](./148060-jurassic-mahjong.json) |
 | Jurassic Monster World | 141508 | [141508-jurassic-monster-world.json](./141508-jurassic-monster-world.json) |
 | Jurassic Park | 128888 | [128888-jurassic-park.json](./128888-jurassic-park.json) |
 | Jurassic Park | 134299 | [134299-jurassic-park.json](./134299-jurassic-park.json) |
