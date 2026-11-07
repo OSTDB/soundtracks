@@ -6133,6 +6133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Sins: Academic Version | 112933 | [112933-seven-sins-academic-version.json](./112933-seven-sins-academic-version.json) |
 | Seven Skies to Paradise | 219601 | [219601-seven-skies-to-paradise.json](./219601-seven-skies-to-paradise.json) |
 | Seven Souls Online | 166033 | [166033-seven-souls-online.json](./166033-seven-souls-online.json) |
+| Seven Sphere | 174977 | [174977-seven-sphere.json](./174977-seven-sphere.json) |
 | Seven Spirits | 224720 | [224720-seven-spirits.json](./224720-seven-spirits.json) |
 | Seven Squad | 353616 | [353616-seven-squad.json](./353616-seven-squad.json) |
 | Seven Stars 3D | 381261 | [381261-seven-stars-3d.json](./381261-seven-stars-3d.json) |
@@ -19780,6 +19781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -27111,6 +27113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Still Alive DS | 270389 | [270389-still-alive-ds.json](./270389-still-alive-ds.json) |
 | Still Alive: Hollowed Horizon | 355075 | [355075-still-alive-hollowed-horizon.json](./355075-still-alive-hollowed-horizon.json) |
 | Still Alive: Idle | 417604 | [417604-still-alive-idle.json](./417604-still-alive-idle.json) |
+| Still Alive: The Clan Battle | 174954 | [174954-still-alive-the-clan-battle.json](./174954-still-alive-the-clan-battle.json) |
 | Still Be a Human | 192088 | [192088-still-be-a-human.json](./192088-still-be-a-human.json) |
 | Still Breathing | 418545 | [418545-still-breathing.json](./418545-still-breathing.json) |
 | Still Dark at Dawn | 111028 | [111028-still-dark-at-dawn.json](./111028-still-dark-at-dawn.json) |
@@ -27269,6 +27272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Age Assassin | 407826 | [407826-stone-age-assassin.json](./407826-stone-age-assassin.json) |
 | Stone Age Dinosaurs | 217690 | [217690-stone-age-dinosaurs.json](./217690-stone-age-dinosaurs.json) |
 | Stone Age Meteor Rush | 337981 | [337981-stone-age-meteor-rush.json](./337981-stone-age-meteor-rush.json) |
+| Stone Age Simulator | 174975 | [174975-stone-age-simulator.json](./174975-stone-age-simulator.json) |
 | Stone Age Storeys | 181426 | [181426-stone-age-storeys.json](./181426-stone-age-storeys.json) |
 | Stone Age Taxi | 146897 | [146897-stone-age-taxi.json](./146897-stone-age-taxi.json) |
 | Stone Age: Digital Edition | 237210 | [237210-stone-age-digital-edition.json](./237210-stone-age-digital-edition.json) |
