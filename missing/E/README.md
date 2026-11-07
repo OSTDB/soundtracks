@@ -602,6 +602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Quiz | 171495 | [171495-easy-quiz.json](./171495-easy-quiz.json) |
 | Easy Quiz: This One Is Free | 196034 | [196034-easy-quiz-this-one-is-free.json](./196034-easy-quiz-this-one-is-free.json) |
 | Easy Red | 75944 | [75944-easy-red.json](./75944-easy-red.json) |
+| Easy Red 2 | 166920 | [166920-easy-red-2.json](./166920-easy-red-2.json) |
 | Easy Red 2: Normandy | 268595 | [268595-easy-red-2-normandy.json](./268595-easy-red-2-normandy.json) |
 | Easy Red 2: Stalingrad | 231286 | [231286-easy-red-2-stalingrad.json](./231286-easy-red-2-stalingrad.json) |
 | Easy RTS | 303502 | [303502-easy-rts.json](./303502-easy-rts.json) |
@@ -3033,6 +3034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emerald Hunter | 330961 | [330961-emerald-hunter.json](./330961-emerald-hunter.json) |
 | Emerald Isle | 13635 | [13635-emerald-isle.json](./13635-emerald-isle.json) |
 | Emerald Isle | 318995 | [318995-emerald-isle.json](./318995-emerald-isle.json) |
+| Emerald Lake | 166916 | [166916-emerald-lake.json](./166916-emerald-lake.json) |
 | Emerald Mine | 37100 | [37100-emerald-mine.json](./37100-emerald-mine.json) |
 | Emerald Mine 3: Professional | 137558 | [137558-emerald-mine-3-professional.json](./137558-emerald-mine-3-professional.json) |
 | Emerald Mine II | 37105 | [37105-emerald-mine-ii.json](./37105-emerald-mine-ii.json) |
