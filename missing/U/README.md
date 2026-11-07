@@ -3512,6 +3512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | USA Racer | 62146 | [62146-usa-racer.json](./62146-usa-racer.json) |
 | USA Today Crossword Challenge | 92335 | [92335-usa-today-crossword-challenge.json](./92335-usa-today-crossword-challenge.json) |
 | USA Today: Puzzle Craze | 206213 | [206213-usa-today-puzzle-craze.json](./206213-usa-today-puzzle-craze.json) |
+| USA Truck Simulator | 150807 | [150807-usa-truck-simulator.json](./150807-usa-truck-simulator.json) |
 | Usa-Jong: Haja-ou no Fukkatsu | 410409 | [410409-usa-jong-haja-ou-no-fukkatsu.json](./410409-usa-jong-haja-ou-no-fukkatsu.json) |
 | USAC: Code Breach | 211445 | [211445-usac-code-breach.json](./211445-usac-code-breach.json) |
 | UsadaMaze | 384004 | [384004-usadamaze.json](./384004-usadamaze.json) |
