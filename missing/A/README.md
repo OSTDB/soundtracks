@@ -1459,6 +1459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Villain's Twisted Heart | 299006 | [299006-a-villains-twisted-heart.json](./299006-a-villains-twisted-heart.json) |
 | A Violent Revelry | 215469 | [215469-a-violent-revelry.json](./215469-a-violent-revelry.json) |
 | A Virus Named Tom | 3040 | [3040-a-virus-named-tom.json](./3040-a-virus-named-tom.json) |
+| A Vision of the Sublime | 139536 | [139536-a-vision-of-the-sublime.json](./139536-a-vision-of-the-sublime.json) |
 | A Visit to Friends | 173058 | [173058-a-visit-to-friends.json](./173058-a-visit-to-friends.json) |
 | A Visit to Sesame Street: Letters | 45945 | [45945-a-visit-to-sesame-street-letters.json](./45945-a-visit-to-sesame-street-letters.json) |
 | A Visit to Sesame Street: Numbers | 46558 | [46558-a-visit-to-sesame-street-numbers.json](./46558-a-visit-to-sesame-street-numbers.json) |
@@ -13953,6 +13954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkana Senki Ludo | 166163 | [166163-arkana-senki-ludo.json](./166163-arkana-senki-ludo.json) |
 | Arkandian Legends 1: Crusade | 385964 | [385964-arkandian-legends-1-crusade.json](./385964-arkandian-legends-1-crusade.json) |
 | ArkanDOS | 82486 | [82486-arkandos.json](./82486-arkandos.json) |
+| Arkane 20th Anniversary Collection | 139569 | [139569-arkane-20th-anniversary-collection.json](./139569-arkane-20th-anniversary-collection.json) |
 | Arkane Rush | 110662 | [110662-arkane-rush.json](./110662-arkane-rush.json) |
 | Arkane Rush Multiverse Mayhem | 114163 | [114163-arkane-rush-multiverse-mayhem.json](./114163-arkane-rush-multiverse-mayhem.json) |
 | Arkanoid | 273037 | [273037-arkanoid.json](./273037-arkanoid.json) |
@@ -16902,7 +16904,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
