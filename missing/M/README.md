@@ -17387,6 +17387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Blitz: Combat Arena | 218536 | [218536-mortal-blitz-combat-arena.json](./218536-mortal-blitz-combat-arena.json) |
 | Mortal box | 84057 | [84057-mortal-box.json](./84057-mortal-box.json) |
 | Mortal Coil | 321942 | [321942-mortal-coil.json](./321942-mortal-coil.json) |
+| Mortal Crusade: Sword of Knight | 146981 | [146981-mortal-crusade-sword-of-knight.json](./146981-mortal-crusade-sword-of-knight.json) |
 | Mortal Crux | 217445 | [217445-mortal-crux.json](./217445-mortal-crux.json) |
 | Mortal Cultivation Biography | 368504 | [368504-mortal-cultivation-biography.json](./368504-mortal-cultivation-biography.json) |
 | Mortal Dark | 215069 | [215069-mortal-dark.json](./215069-mortal-dark.json) |
