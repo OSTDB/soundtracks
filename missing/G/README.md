@@ -9002,6 +9002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green Breach | 416833 | [416833-green-breach.json](./416833-green-breach.json) |
 | Green Button | 309270 | [309270-green-button.json](./309270-green-button.json) |
 | Green Cat | 36722 | [36722-green-cat.json](./36722-green-cat.json) |
+| Green City | 146462 | [146462-green-city.json](./146462-green-city.json) |
 | Green Crab Grab | 336166 | [336166-green-crab-grab.json](./336166-green-crab-grab.json) |
 | Green Crust | 184799 | [184799-green-crust.json](./184799-green-crust.json) |
 | Green Day Revenge | 66074 | [66074-green-day-revenge.json](./66074-green-day-revenge.json) |
@@ -11104,6 +11105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GunDress | 213042 | [213042-gundress.json](./213042-gundress.json) |
 | Gundroid | 249799 | [249799-gundroid.json](./249799-gundroid.json) |
 | Gunducky Industries | 54455 | [54455-gunducky-industries.json](./54455-gunducky-industries.json) |
+| Gunducky Industries++ | 146426 | [146426-gunducky-industries.json](./146426-gunducky-industries.json) |
 | Gunfield | 245876 | [245876-gunfield.json](./245876-gunfield.json) |
 | Gunfight | 251307 | [251307-gunfight.json](./251307-gunfight.json) |
 | Gunfight | 40656 | [40656-gunfight.json](./40656-gunfight.json) |
@@ -11212,6 +11214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunner 3 | 87808 | [87808-gunner-3.json](./87808-gunner-3.json) |
 | Gunner Deadly Expedition | 190907 | [190907-gunner-deadly-expedition.json](./190907-gunner-deadly-expedition.json) |
 | Gunner-chan! | 331898 | [331898-gunner-chan.json](./331898-gunner-chan.json) |
+| Gunner, Heat, PC! | 146417 | [146417-gunner-heat-pc.json](./146417-gunner-heat-pc.json) |
 | Gunners Heart | 54072 | [54072-gunners-heart.json](./54072-gunners-heart.json) |
 | Gunnheim | 20207 | [20207-gunnheim.json](./20207-gunnheim.json) |
 | Gunnhildr | 141072 | [141072-gunnhildr.json](./141072-gunnhildr.json) |
