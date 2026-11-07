@@ -1110,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Can't Save Her | 320410 | [320410-you-cant-save-her.json](./320410-you-cant-save-her.json) |
 | You Can't Win This Game | 361263 | [361263-you-cant-win-this-game.json](./361263-you-cant-win-this-game.json) |
 | You Cannot Go Back! | 201990 | [201990-you-cannot-go-back.json](./201990-you-cannot-go-back.json) |
+| You Cans Do It! | 183680 | [183680-you-cans-do-it.json](./183680-you-cans-do-it.json) |
 | You Complete Me | 123466 | [123466-you-complete-me.json](./123466-you-complete-me.json) |
 | You Contain Multitudes | 184674 | [184674-you-contain-multitudes.json](./184674-you-contain-multitudes.json) |
 | You Deserve | 32036 | [32036-you-deserve.json](./32036-you-deserve.json) |
@@ -1625,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys V Expert | 42316 | [42316-ys-v-expert.json](./42316-ys-v-expert.json) |
 | Ys V: Lost Kefin, Kingdom of Sand | 168535 | [168535-ys-v-lost-kefin-kingdom-of-sand.json](./168535-ys-v-lost-kefin-kingdom-of-sand.json) |
 | Ys VI: The Ark of Napishtim | 200897 | [200897-ys-vi-the-ark-of-napishtim.json](./200897-ys-vi-the-ark-of-napishtim.json) |
+| Ys VIII & IX Super Price Set | 183660 | [183660-ys-viii-and-ix-super-price-set.json](./183660-ys-viii-and-ix-super-price-set.json) |
 | YS VIII Mobile | 139223 | [139223-ys-viii-mobile.json](./139223-ys-viii-mobile.json) |
 | Ys VIII: Lacrimosa of Dana | 27304 | [27304-ys-viii-lacrimosa-of-dana.json](./27304-ys-viii-lacrimosa-of-dana.json) |
 | Ys VIII: Lacrimosa of Dana - Christmas Gift Package | 212316 | [212316-ys-viii-lacrimosa-of-dana-christmas-gift-package.json](./212316-ys-viii-lacrimosa-of-dana-christmas-gift-package.json) |
