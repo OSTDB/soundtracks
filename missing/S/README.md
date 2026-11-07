@@ -6527,6 +6527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SGS Battle For: Madrid | 275833 | [275833-sgs-battle-for-madrid.json](./275833-sgs-battle-for-madrid.json) |
 | SGS Battle For: Stalingrad | 244900 | [244900-sgs-battle-for-stalingrad.json](./244900-sgs-battle-for-stalingrad.json) |
 | SGS Fall Weiss | 197271 | [197271-sgs-fall-weiss.json](./197271-sgs-fall-weiss.json) |
+| SGS Glory Recalled | 186979 | [186979-sgs-glory-recalled.json](./186979-sgs-glory-recalled.json) |
 | SGS Halls of Montezuma | 148274 | [148274-sgs-halls-of-montezuma.json](./148274-sgs-halls-of-montezuma.json) |
 | SGS Korean War | 202653 | [202653-sgs-korean-war.json](./202653-sgs-korean-war.json) |
 | SGS NATO's Nightmare | 212166 | [212166-sgs-natos-nightmare.json](./212166-sgs-natos-nightmare.json) |
@@ -15321,6 +15322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper Tactical | 35143 | [35143-sniper-tactical.json](./35143-sniper-tactical.json) |
 | Sniper Tanks | 105187 | [105187-sniper-tanks.json](./105187-sniper-tanks.json) |
 | Sniper Team 2 | 270504 | [270504-sniper-team-2.json](./270504-sniper-team-2.json) |
+| Sniper Time: The Shooting Range | 186944 | [186944-sniper-time-the-shooting-range.json](./186944-sniper-time-the-shooting-range.json) |
 | Sniper Warrior Elite | 345119 | [345119-sniper-warrior-elite.json](./345119-sniper-warrior-elite.json) |
 | Sniper Wild West Shooting Simulator | 264214 | [264214-sniper-wild-west-shooting-simulator.json](./264214-sniper-wild-west-shooting-simulator.json) |
 | Sniper X with Jason Statham | 59597 | [59597-sniper-x-with-jason-statham.json](./59597-sniper-x-with-jason-statham.json) |
