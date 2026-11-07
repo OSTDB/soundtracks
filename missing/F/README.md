@@ -3010,6 +3010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fastest Dialler | 105027 | [105027-fastest-dialler.json](./105027-fastest-dialler.json) |
 | Fastest Fantasy Life Simulator | 211022 | [211022-fastest-fantasy-life-simulator.json](./211022-fastest-fantasy-life-simulator.json) |
 | Fastest Finger First! 3 Hint Quiz | 283287 | [283287-fastest-finger-first-3-hint-quiz.json](./283287-fastest-finger-first-3-hint-quiz.json) |
+| Fastest Gun in the West | 177664 | [177664-fastest-gun-in-the-west.json](./177664-fastest-gun-in-the-west.json) |
 | Fastest Hands in the Wasd | 167922 | [167922-fastest-hands-in-the-wasd.json](./167922-fastest-hands-in-the-wasd.json) |
 | Fastest on the Buzzer | 254630 | [254630-fastest-on-the-buzzer.json](./254630-fastest-on-the-buzzer.json) |
 | Fastest on the Buzzer | 256025 | [256025-fastest-on-the-buzzer.json](./256025-fastest-on-the-buzzer.json) |
