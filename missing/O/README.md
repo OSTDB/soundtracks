@@ -128,6 +128,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oath of the Necromancer | 328330 | [328330-oath-of-the-necromancer.json](./328330-oath-of-the-necromancer.json) |
 | Oath: There is a You That Remains | 375414 | [375414-oath-there-is-a-you-that-remains.json](./375414-oath-there-is-a-you-that-remains.json) |
 | Oathbound: Arena | 236445 | [236445-oathbound-arena.json](./236445-oathbound-arena.json) |
+| Oathbreaker | 178754 | [178754-oathbreaker.json](./178754-oathbreaker.json) |
+| Oathbreaker: Season 2 | 178745 | [178745-oathbreaker-season-2.json](./178745-oathbreaker-season-2.json) |
 | Oathbreakers | 221072 | [221072-oathbreakers.json](./221072-oathbreakers.json) |
 | Oathwood Realms | 389368 | [389368-oathwood-realms.json](./389368-oathwood-realms.json) |
 | Oatmeal | 159257 | [159257-oatmeal.json](./159257-oatmeal.json) |
@@ -343,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obsurity | 121322 | [121322-obsurity.json](./121322-obsurity.json) |
 | Obulis | 14856 | [14856-obulis.json](./14856-obulis.json) |
 | Obunga | 213225 | [213225-obunga.json](./213225-obunga.json) |
+| Obusite | 178743 | [178743-obusite.json](./178743-obusite.json) |
 | Obverse | 398105 | [398105-obverse.json](./398105-obverse.json) |
 | Obversion | 120388 | [120388-obversion.json](./120388-obversion.json) |
 | Obzen | 272046 | [272046-obzen.json](./272046-obzen.json) |
