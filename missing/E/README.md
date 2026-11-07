@@ -664,6 +664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EatToFight | 185611 | [185611-eattofight.json](./185611-eattofight.json) |
 | Eatventure | 208978 | [208978-eatventure.json](./208978-eatventure.json) |
 | Eatvolve | 146481 | [146481-eatvolve.json](./146481-eatvolve.json) |
+| EB Worlds | 153618 | [153618-eb-worlds.json](./153618-eb-worlds.json) |
 | Eba & Egg: A Hatch Trip | 54967 | [54967-eba-and-egg-a-hatch-trip.json](./54967-eba-and-egg-a-hatch-trip.json) |
 | eBall | 117546 | [117546-eball.json](./117546-eball.json) |
 | eBall 2 | 238523 | [238523-eball-2.json](./238523-eball-2.json) |
@@ -4388,6 +4389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Envyus | 269967 | [269967-envyus.json](./269967-envyus.json) |
 | Enworden | 211713 | [211713-enworden.json](./211713-enworden.json) |
 | Enyla X | 149598 | [149598-enyla-x.json](./149598-enyla-x.json) |
+| Enyo | 153625 | [153625-enyo.json](./153625-enyo.json) |
 | Enyo Arcade | 17802 | [17802-enyo-arcade.json](./17802-enyo-arcade.json) |
 | Enypnion | 167511 | [167511-enypnion.json](./167511-enypnion.json) |
 | Enypnion Redreamed | 249812 | [249812-enypnion-redreamed.json](./249812-enypnion-redreamed.json) |
@@ -6007,6 +6009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Estranged Family | 381954 | [381954-estranged-family.json](./381954-estranged-family.json) |
 | Estranged: The Departure | 147260 | [147260-estranged-the-departure.json](./147260-estranged-the-departure.json) |
 | Estresamente | 241257 | [241257-estresamente.json](./241257-estresamente.json) |
+| Estress | 153583 | [153583-estress.json](./153583-estress.json) |
 | Estrus Princess | 203599 | [203599-estrus-princess.json](./203599-estrus-princess.json) |
 | eSudoku 15K | 268915 | [268915-esudoku-15k.json](./268915-esudoku-15k.json) |
 | Esukoto Makai Youhei-dan | 206449 | [206449-esukoto-makai-youhei-dan.json](./206449-esukoto-makai-youhei-dan.json) |
