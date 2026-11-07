@@ -3683,7 +3683,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junior Fitness Trainer | 268182 | [268182-junior-fitness-trainer.json](./268182-junior-fitness-trainer.json) |
 | Junior Island Adventure | 209853 | [209853-junior-island-adventure.json](./209853-junior-island-adventure.json) |
 | Junior League Sports | 50984 | [50984-junior-league-sports.json](./50984-junior-league-sports.json) |
+| Junior League Sports 3-in-1 Collection | 188163 | [188163-junior-league-sports-3-in-1-collection.json](./188163-junior-league-sports-3-in-1-collection.json) |
 | Junior League: Sports - Soccer | 187245 | [187245-junior-league-sports-soccer.json](./187245-junior-league-sports-soccer.json) |
+| Junior League: Sports Basketball | 188179 | [188179-junior-league-sports-basketball.json](./188179-junior-league-sports-basketball.json) |
+| Junior League: Sports Ice Hockey | 188182 | [188182-junior-league-sports-ice-hockey.json](./188182-junior-league-sports-ice-hockey.json) |
 | Junior MithulBlox | 318495 | [318495-junior-mithulblox.json](./318495-junior-mithulblox.json) |
 | Junior Mystery Quest | 78609 | [78609-junior-mystery-quest.json](./78609-junior-mystery-quest.json) |
 | Junior Solutions | 204129 | [204129-junior-solutions.json](./204129-junior-solutions.json) |
