@@ -6005,6 +6005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Changeable Guardian Estique | 283375 | [283375-changeable-guardian-estique.json](./283375-changeable-guardian-estique.json) |
 | Changeling | 113896 | [113896-changeling.json](./113896-changeling.json) |
 | Changeling Charade | 234413 | [234413-changeling-charade.json](./234413-changeling-charade.json) |
+| Changeling Tale | 161472 | [161472-changeling-tale.json](./161472-changeling-tale.json) |
 | Changeling VR | 370158 | [370158-changeling-vr.json](./370158-changeling-vr.json) |
 | Changelog | 360569 | [360569-changelog.json](./360569-changelog.json) |
 | Changeover: Decisions | 96244 | [96244-changeover-decisions.json](./96244-changeover-decisions.json) |
@@ -15457,6 +15458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmorists | 265386 | [265386-cosmorists.json](./265386-cosmorists.json) |
 | Cosmorons | 325211 | [325211-cosmorons.json](./325211-cosmorons.json) |
 | Cosmos | 127861 | [127861-cosmos.json](./127861-cosmos.json) |
+| Cosmos | 161477 | [161477-cosmos.json](./161477-cosmos.json) |
 | Cosmos | 281862 | [281862-cosmos.json](./281862-cosmos.json) |
 | Cosmos | 76611 | [76611-cosmos.json](./76611-cosmos.json) |
 | Cosmos Bit | 182231 | [182231-cosmos-bit.json](./182231-cosmos-bit.json) |
