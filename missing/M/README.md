@@ -2862,6 +2862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mamizou's Mimic Check | 338698 | [338698-mamizous-mimic-check.json](./338698-mamizous-mimic-check.json) |
 | Mammon: Devil Help | 216637 | [216637-mammon-devil-help.json](./216637-mammon-devil-help.json) |
 | Mammon’s Wager | 405820 | [405820-mammon-s-wager.json](./405820-mammon-s-wager.json) |
+| Mammoth | 141979 | [141979-mammoth.json](./141979-mammoth.json) |
 | Mammoth Mini Golf AR | 87202 | [87202-mammoth-mini-golf-ar.json](./87202-mammoth-mini-golf-ar.json) |
 | Mammy Talk DS | 130391 | [130391-mammy-talk-ds.json](./130391-mammy-talk-ds.json) |
 | MamoBall | 208365 | [208365-mamoball.json](./208365-mamoball.json) |
@@ -5998,7 +5999,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -14266,6 +14266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mitsumete Knight | 92966 | [92966-mitsumete-knight.json](./92966-mitsumete-knight.json) |
 | Mitsumete Knight R: Daibouken-hen | 166164 | [166164-mitsumete-knight-r-daibouken-hen.json](./166164-mitsumete-knight-r-daibouken-hen.json) |
 | Mitsurugi Kamui Hikae | 8822 | [8822-mitsurugi-kamui-hikae.json](./8822-mitsurugi-kamui-hikae.json) |
+| Mitt and the Doll | 141980 | [141980-mitt-and-the-doll.json](./141980-mitt-and-the-doll.json) |
 | Mitt Babyzoo | 288106 | [288106-mitt-babyzoo.json](./288106-mitt-babyzoo.json) |
 | Mittelamerika-Krise | 125589 | [125589-mittelamerika-krise.json](./125589-mittelamerika-krise.json) |
 | Mittelland AD: Origins | 408533 | [408533-mittelland-ad-origins.json](./408533-mittelland-ad-origins.json) |
@@ -16640,6 +16641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Montreal Mobility | 394345 | [394345-montreal-mobility.json](./394345-montreal-mobility.json) |
 | Monty is Innocent | 26279 | [26279-monty-is-innocent.json](./26279-monty-is-innocent.json) |
 | Monty Kong | 158336 | [158336-monty-kong.json](./158336-monty-kong.json) |
+| Monty Mole and the Temple of Lost Souls | 142018 | [142018-monty-mole-and-the-temple-of-lost-souls.json](./142018-monty-mole-and-the-temple-of-lost-souls.json) |
 | Monty Mole Island | 282731 | [282731-monty-mole-island.json](./282731-monty-mole-island.json) |
 | Monty on the Norm | 71243 | [71243-monty-on-the-norm.json](./71243-monty-on-the-norm.json) |
 | Monty on the Run | 23058 | [23058-monty-on-the-run.json](./23058-monty-on-the-run.json) |
@@ -16654,6 +16656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monty Python's the Meaning of Life | 8555 | [8555-monty-pythons-the-meaning-of-life.json](./8555-monty-pythons-the-meaning-of-life.json) |
 | Monty the Komodo Dragon | 324505 | [324505-monty-the-komodo-dragon.json](./324505-monty-the-komodo-dragon.json) |
 | Monty's Backyard Adventure | 104229 | [104229-montys-backyard-adventure.json](./104229-montys-backyard-adventure.json) |
+| Monty's Honey Run | 142017 | [142017-montys-honey-run.json](./142017-montys-honey-run.json) |
 | Monument | 260138 | [260138-monument.json](./260138-monument.json) |
 | Monument | 35059 | [35059-monument.json](./35059-monument.json) |
 | Monument Builders: Alcatraz | 10556 | [10556-monument-builders-alcatraz.json](./10556-monument-builders-alcatraz.json) |
