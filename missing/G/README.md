@@ -2383,6 +2383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gazza II | 41000 | [41000-gazza-ii.json](./41000-gazza-ii.json) |
 | Gazza's Electronic Football Game | 217945 | [217945-gazzas-electronic-football-game.json](./217945-gazzas-electronic-football-game.json) |
 | Gazzel Quest: The Five Magic Stones | 32110 | [32110-gazzel-quest-the-five-magic-stones.json](./32110-gazzel-quest-the-five-magic-stones.json) |
+| Gazzlers | 173897 | [173897-gazzlers.json](./173897-gazzlers.json) |
 | GB Basketball | 49084 | [49084-gb-basketball.json](./49084-gb-basketball.json) |
 | GB Corp. | 218086 | [218086-gb-corp.json](./218086-gb-corp.json) |
 | GB Dash | 393094 | [393094-gb-dash.json](./393094-gb-dash.json) |
@@ -5783,6 +5784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gobbo's Gambit | 253952 | [253952-gobbos-gambit.json](./253952-gobbos-gambit.json) |
 | Gobby Island | 195383 | [195383-gobby-island.json](./195383-gobby-island.json) |
 | Gobby McGobblenutz Presents: The Art of the Dad Joke - Chapter 1 | 193179 | [193179-gobby-mcgobblenutz-presents-the-art-of-the-dad-joke-chapter-1.json](./193179-gobby-mcgobblenutz-presents-the-art-of-the-dad-joke-chapter-1.json) |
+| Gobby McGobblenutz Presents: The Questionably Quirky Quiz Show | 173936 | [173936-gobby-mcgobblenutz-presents-the-questionably-quirky-quiz-show.json](./173936-gobby-mcgobblenutz-presents-the-questionably-quirky-quiz-show.json) |
 | GobelinsRPG | 177284 | [177284-gobelinsrpg.json](./177284-gobelinsrpg.json) |
 | Gobelinus: The Cursed Deck | 391718 | [391718-gobelinus-the-cursed-deck.json](./391718-gobelinus-the-cursed-deck.json) |
 | Gobernators: Parodia Política Peruana | 90570 | [90570-gobernators-parodia-politica-peruana.json](./90570-gobernators-parodia-politica-peruana.json) |
@@ -7731,6 +7733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grammar Fun 2nd Grade | 89081 | [89081-grammar-fun-2nd-grade.json](./89081-grammar-fun-2nd-grade.json) |
 | Grammar Monsters | 56981 | [56981-grammar-monsters.json](./56981-grammar-monsters.json) |
 | Grammar Nazi | 93417 | [93417-grammar-nazi.json](./93417-grammar-nazi.json) |
+| Grammarian Ltd | 173917 | [173917-grammarian-ltd.json](./173917-grammarian-ltd.json) |
 | Grampage: Life at 67 | 415315 | [415315-grampage-life-at-67.json](./415315-grampage-life-at-67.json) |
 | Grampy Katz in: The Big Date | 131793 | [131793-grampy-katz-in-the-big-date.json](./131793-grampy-katz-in-the-big-date.json) |
 | Gran Carismo | 277008 | [277008-gran-carismo.json](./277008-gran-carismo.json) |
@@ -9424,6 +9427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: Bloody Mary - Collector's Edition | 111510 | [111510-grim-tales-bloody-mary-collectors-edition.json](./111510-grim-tales-bloody-mary-collectors-edition.json) |
 | Grim Tales: Color of Fright | 83152 | [83152-grim-tales-color-of-fright.json](./83152-grim-tales-color-of-fright.json) |
 | Grim Tales: Crimson Hollow | 188013 | [188013-grim-tales-crimson-hollow.json](./188013-grim-tales-crimson-hollow.json) |
+| Grim Tales: Crimson Hollow - Collector's Edition | 173905 | [173905-grim-tales-crimson-hollow-collectors-edition.json](./173905-grim-tales-crimson-hollow-collectors-edition.json) |
 | Grim Tales: Dual Disposition - Collector's Edition | 247737 | [247737-grim-tales-dual-disposition-collectors-edition.json](./247737-grim-tales-dual-disposition-collectors-edition.json) |
 | Grim Tales: Echo of the Past | 188002 | [188002-grim-tales-echo-of-the-past.json](./188002-grim-tales-echo-of-the-past.json) |
 | Grim Tales: Echo of the Past - Collector's Edition | 181113 | [181113-grim-tales-echo-of-the-past-collectors-edition.json](./181113-grim-tales-echo-of-the-past-collectors-edition.json) |
