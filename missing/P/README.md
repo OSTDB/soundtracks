@@ -5154,6 +5154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA Championship Golf 2000: Titanium Edition | 70960 | [70960-pga-championship-golf-2000-titanium-edition.json](./70960-pga-championship-golf-2000-titanium-edition.json) |
 | PGA Championship Golf Collecter's Edition | 209985 | [209985-pga-championship-golf-collecters-edition.json](./209985-pga-championship-golf-collecters-edition.json) |
 | PGA European Tour | 12713 | [12713-pga-european-tour.json](./12713-pga-european-tour.json) |
+| PGA European Tour | 176028 | [176028-pga-european-tour.json](./176028-pga-european-tour.json) |
 | PGA European Tour | 209984 | [209984-pga-european-tour.json](./209984-pga-european-tour.json) |
 | PGA European Tour Golf | 209983 | [209983-pga-european-tour-golf.json](./209983-pga-european-tour-golf.json) |
 | PGA Tour '98 | 43734 | [43734-pga-tour-98.json](./43734-pga-tour-98.json) |
