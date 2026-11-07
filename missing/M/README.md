@@ -5989,6 +5989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -13546,6 +13547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Snack Shop: Philia After Story | 172342 | [172342-miracle-snack-shop-philia-after-story.json](./172342-miracle-snack-shop-philia-after-story.json) |
 | Miracle Space Race | 43779 | [43779-miracle-space-race.json](./43779-miracle-space-race.json) |
 | Miracle Squirrel Club | 339110 | [339110-miracle-squirrel-club.json](./339110-miracle-squirrel-club.json) |
+| Miracle Sudoku | 153573 | [153573-miracle-sudoku.json](./153573-miracle-sudoku.json) |
 | Miracle Sweeper | 235492 | [235492-miracle-sweeper.json](./235492-miracle-sweeper.json) |
 | Miracle Tunes! Game de Tune Up! Da Pun! | 222544 | [222544-miracle-tunes-game-de-tune-up-da-pun.json](./222544-miracle-tunes-game-de-tune-up-da-pun.json) |
 | Miracle Warrior of Mountains and Seas | 153345 | [153345-miracle-warrior-of-mountains-and-seas.json](./153345-miracle-warrior-of-mountains-and-seas.json) |
@@ -19925,6 +19927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MusicVR Episode 1: Tr3s Lunas | 70978 | [70978-musicvr-episode-1-tr3s-lunas.json](./70978-musicvr-episode-1-tr3s-lunas.json) |
 | MusicVR Episode 2: Maestro | 71447 | [71447-musicvr-episode-2-maestro.json](./71447-musicvr-episode-2-maestro.json) |
 | MusicWave | 133660 | [133660-musicwave.json](./133660-musicwave.json) |
+| Musiic Party: Rock the House | 153564 | [153564-musiic-party-rock-the-house.json](./153564-musiic-party-rock-the-house.json) |
 | Musika | 94641 | [94641-musika.json](./94641-musika.json) |
 | Musings in Nonograms | 418592 | [418592-musings-in-nonograms.json](./418592-musings-in-nonograms.json) |
 | Musiverse | 245189 | [245189-musiverse.json](./245189-musiverse.json) |
