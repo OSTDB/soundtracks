@@ -379,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valis: The Fantasm Soldier | 194750 | [194750-valis-the-fantasm-soldier.json](./194750-valis-the-fantasm-soldier.json) |
 | Valis: The Fantasm Soldier | 278476 | [278476-valis-the-fantasm-soldier.json](./278476-valis-the-fantasm-soldier.json) |
 | Valis: The Fantasm Soldier | 278478 | [278478-valis-the-fantasm-soldier.json](./278478-valis-the-fantasm-soldier.json) |
+| Valis: The Fantasm Soldier Collection | 165235 | [165235-valis-the-fantasm-soldier-collection.json](./165235-valis-the-fantasm-soldier-collection.json) |
 | Valis: The Fantasm Soldier Collection II | 221583 | [221583-valis-the-fantasm-soldier-collection-ii.json](./221583-valis-the-fantasm-soldier-collection-ii.json) |
 | Valis: The Fantasm Soldier Collection III | 276457 | [276457-valis-the-fantasm-soldier-collection-iii.json](./276457-valis-the-fantasm-soldier-collection-iii.json) |
 | Valis: The Fantasm Soldier II | 278810 | [278810-valis-the-fantasm-soldier-ii.json](./278810-valis-the-fantasm-soldier-ii.json) |
@@ -2383,6 +2384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vine Realms | 135907 | [135907-vine-realms.json](./135907-vine-realms.json) |
 | Vine Runners | 185514 | [185514-vine-runners.json](./185514-vine-runners.json) |
 | Vine Time | 317424 | [317424-vine-time.json](./317424-vine-time.json) |
+| Vine Worlds | 165259 | [165259-vine-worlds.json](./165259-vine-worlds.json) |
 | Vinecard | 272566 | [272566-vinecard.json](./272566-vinecard.json) |
 | Vinegar Mutter | 386237 | [386237-vinegar-mutter.json](./386237-vinegar-mutter.json) |
 | Vinemon: Sauce Edition | 201897 | [201897-vinemon-sauce-edition.json](./201897-vinemon-sauce-edition.json) |
@@ -4166,6 +4168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vroom Racing | 230156 | [230156-vroom-racing.json](./230156-vroom-racing.json) |
 | Vroom Vroom !!! | 87527 | [87527-vroom-vroom.json](./87527-vroom-vroom.json) |
 | Vroom Vroom Valley | 253444 | [253444-vroom-vroom-valley.json](./253444-vroom-vroom-valley.json) |
+| Vroom! | 165215 | [165215-vroom.json](./165215-vroom.json) |
 | Vroomies | 296734 | [296734-vroomies.json](./296734-vroomies.json) |
 | Vroomist | 32915 | [32915-vroomist.json](./32915-vroomist.json) |
 | VRosty | 258363 | [258363-vrosty.json](./258363-vrosty.json) |
