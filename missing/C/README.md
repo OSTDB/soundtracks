@@ -8641,6 +8641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronostrike | 332409 | [332409-chronostrike.json](./332409-chronostrike.json) |
 | Chronosurge: Echoes of the Void | 371855 | [371855-chronosurge-echoes-of-the-void.json](./371855-chronosurge-echoes-of-the-void.json) |
 | ChronoTecture: The Eprologue | 167350 | [167350-chronotecture-the-eprologue.json](./167350-chronotecture-the-eprologue.json) |
+| Chronotopia: Second Skin | 170661 | [170661-chronotopia-second-skin.json](./170661-chronotopia-second-skin.json) |
 | Chronotopophobia | 139014 | [139014-chronotopophobia.json](./139014-chronotopophobia.json) |
 | Chronotron | 212779 | [212779-chronotron.json](./212779-chronotron.json) |
 | Chronotura | 180393 | [180393-chronotura.json](./180393-chronotura.json) |
@@ -13305,6 +13306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Components | 179930 | [179930-components.json](./179930-components.json) |
 | Componut | 174195 | [174195-componut.json](./174195-componut.json) |
 | Composer | 187316 | [187316-composer.json](./187316-composer.json) |
+| Compost | 170638 | [170638-compost.json](./170638-compost.json) |
 | Compound | 28927 | [28927-compound.json](./28927-compound.json) |
 | Compound Fracture | 143560 | [143560-compound-fracture.json](./143560-compound-fracture.json) |
 | Compound Word Puzzles 2 | 359997 | [359997-compound-word-puzzles-2.json](./359997-compound-word-puzzles-2.json) |
@@ -15864,6 +15866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Covid-19 Epidemic Prevention | 157108 | [157108-covid-19-epidemic-prevention.json](./157108-covid-19-epidemic-prevention.json) |
 | Covid-19: Corona Clicker | 165003 | [165003-covid-19-corona-clicker.json](./165003-covid-19-corona-clicker.json) |
 | COVID-29 | 346869 | [346869-covid-29.json](./346869-covid-29.json) |
+| Covid-Racing | 170650 | [170650-covid-racing.json](./170650-covid-racing.json) |
 | Covid: Survive the PlanDemic | 168085 | [168085-covid-survive-the-plandemic.json](./168085-covid-survive-the-plandemic.json) |
 | Covid: The Outbreak | 133007 | [133007-covid-the-outbreak.json](./133007-covid-the-outbreak.json) |
 | Covid19: Toilet Paper Run | 285531 | [285531-covid19-toilet-paper-run.json](./285531-covid19-toilet-paper-run.json) |
@@ -16200,6 +16203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cradle of Egypt / Cradle of Persia | 201861 | [201861-cradle-of-egypt-cradle-of-persia.json](./201861-cradle-of-egypt-cradle-of-persia.json) |
 | Cradle of Egypt: Collector's Edition | 355549 | [355549-cradle-of-egypt-collectors-edition.json](./355549-cradle-of-egypt-collectors-edition.json) |
 | Cradle of Empires | 88749 | [88749-cradle-of-empires.json](./88749-cradle-of-empires.json) |
+| Cradle of Links | 170654 | [170654-cradle-of-links.json](./170654-cradle-of-links.json) |
 | Cradle of Links VR | 109527 | [109527-cradle-of-links-vr.json](./109527-cradle-of-links-vr.json) |
 | Cradle of Nightmare : Flowers to you | 339333 | [339333-cradle-of-nightmare-flowers-to-you.json](./339333-cradle-of-nightmare-flowers-to-you.json) |
 | Cradle of Nightmares: Chapter 1 | 323502 | [323502-cradle-of-nightmares-chapter-1.json](./323502-cradle-of-nightmares-chapter-1.json) |
@@ -19154,6 +19158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuadro | 84444 | [84444-cuadro.json](./84444-cuadro.json) |
 | Cuana | 227879 | [227879-cuana.json](./227879-cuana.json) |
 | Cub Gym | 150701 | [150701-cub-gym.json](./150701-cub-gym.json) |
+| Cuba2077 | 170669 | [170669-cuba2077.json](./170669-cuba2077.json) |
 | Cubactory | 346345 | [346345-cubactory.json](./346345-cubactory.json) |
 | Cubage | 93924 | [93924-cubage.json](./93924-cubage.json) |
 | Cuban Missile Crisis: Ice Crusade | 24721 | [24721-cuban-missile-crisis-ice-crusade.json](./24721-cuban-missile-crisis-ice-crusade.json) |
@@ -19919,6 +19924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Darkness | 360880 | [360880-curse-of-darkness.json](./360880-curse-of-darkness.json) |
 | Curse of Deflection | 404204 | [404204-curse-of-deflection.json](./404204-curse-of-deflection.json) |
 | Curse of Destiny | 82728 | [82728-curse-of-destiny.json](./82728-curse-of-destiny.json) |
+| Curse of Disaster Spirit: Anecdotes of Mansion | 170643 | [170643-curse-of-disaster-spirit-anecdotes-of-mansion.json](./170643-curse-of-disaster-spirit-anecdotes-of-mansion.json) |
 | Curse of Dominion | 366886 | [366886-curse-of-dominion.json](./366886-curse-of-dominion.json) |
 | Curse of Elmwood | 279262 | [279262-curse-of-elmwood.json](./279262-curse-of-elmwood.json) |
 | Curse of Enchantia | 12021 | [12021-curse-of-enchantia.json](./12021-curse-of-enchantia.json) |
@@ -20332,6 +20338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Diana | 402493 | [402493-cute-diana.json](./402493-cute-diana.json) |
 | Cute Dog Caring | 90339 | [90339-cute-dog-caring.json](./90339-cute-dog-caring.json) |
 | Cute Dogs Slide | 305936 | [305936-cute-dogs-slide.json](./305936-cute-dogs-slide.json) |
+| Cute Dragon Yongyong | 170631 | [170631-cute-dragon-yongyong.json](./170631-cute-dragon-yongyong.json) |
 | Cute Fame Highschool Days | 367992 | [367992-cute-fame-highschool-days.json](./367992-cute-fame-highschool-days.json) |
 | Cute Fame: Halloween Bash | 270610 | [270610-cute-fame-halloween-bash.json](./270610-cute-fame-halloween-bash.json) |
 | Cute Fames Adventure | 261214 | [261214-cute-fames-adventure.json](./261214-cute-fames-adventure.json) |
@@ -20736,6 +20743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybercore Leap | 279893 | [279893-cybercore-leap.json](./279893-cybercore-leap.json) |
 | CyberCorp | 120697 | [120697-cybercorp.json](./120697-cybercorp.json) |
 | Cybercube | 68709 | [68709-cybercube.json](./68709-cybercube.json) |
+| Cybercube Battle | 170656 | [170656-cybercube-battle.json](./170656-cybercube-battle.json) |
 | Cybercum 2069 | 305763 | [305763-cybercum-2069.json](./305763-cybercum-2069.json) |
 | CyberCum: Pussy Attack! | 243164 | [243164-cybercum-pussy-attack.json](./243164-cybercum-pussy-attack.json) |
 | Cyberdad | 173908 | [173908-cyberdad.json](./173908-cyberdad.json) |
