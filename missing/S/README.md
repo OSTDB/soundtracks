@@ -4044,6 +4044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Fatness | 74129 | [74129-sea-of-fatness.json](./74129-sea-of-fatness.json) |
 | Sea of Fire | 348116 | [348116-sea-of-fire.json](./348116-sea-of-fire.json) |
 | Sea of Giants: Monument Island | 96046 | [96046-sea-of-giants-monument-island.json](./96046-sea-of-giants-monument-island.json) |
+| Sea of Graves | 183108 | [183108-sea-of-graves.json](./183108-sea-of-graves.json) |
 | Sea of Intrigue | 395800 | [395800-sea-of-intrigue.json](./395800-sea-of-intrigue.json) |
 | Sea of Leaves | 128275 | [128275-sea-of-leaves.json](./128275-sea-of-leaves.json) |
 | Sea of Legends | 183803 | [183803-sea-of-legends.json](./183803-sea-of-legends.json) |
@@ -4097,6 +4098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Thieves: Season 14 | 320297 | [320297-sea-of-thieves-season-14.json](./320297-sea-of-thieves-season-14.json) |
 | Sea of Thieves: Season 2 | 158941 | [158941-sea-of-thieves-season-2.json](./158941-sea-of-thieves-season-2.json) |
 | Sea of Thieves: Season 3 | 158945 | [158945-sea-of-thieves-season-3.json](./158945-sea-of-thieves-season-3.json) |
+| Sea of Thieves: Season 5 | 183119 | [183119-sea-of-thieves-season-5.json](./183119-sea-of-thieves-season-5.json) |
 | Sea of Thieves: Season 8 | 227961 | [227961-sea-of-thieves-season-8.json](./227961-sea-of-thieves-season-8.json) |
 | Sea of Thieves: Season 9 | 240906 | [240906-sea-of-thieves-season-9.json](./240906-sea-of-thieves-season-9.json) |
 | Sea of Thieves: Smuggler's Tide - Season 17 | 348213 | [348213-sea-of-thieves-smugglers-tide-season-17.json](./348213-sea-of-thieves-smugglers-tide-season-17.json) |
@@ -9555,6 +9557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Showa Candy Shop | 153669 | [153669-showa-candy-shop.json](./153669-showa-candy-shop.json) |
 | Showa Candy Shop 2 | 90380 | [90380-showa-candy-shop-2.json](./90380-showa-candy-shop-2.json) |
 | Showa Candy Shop 3 | 153671 | [153671-showa-candy-shop-3.json](./153671-showa-candy-shop-3.json) |
+| Showa Summer Festival Story | 183154 | [183154-showa-summer-festival-story.json](./183154-showa-summer-festival-story.json) |
 | Showbiz Tycoon | 189069 | [189069-showbiz-tycoon.json](./189069-showbiz-tycoon.json) |
 | Showcar Simulator: German Lowriders | 59341 | [59341-showcar-simulator-german-lowriders.json](./59341-showcar-simulator-german-lowriders.json) |
 | Showdown | 142025 | [142025-showdown.json](./142025-showdown.json) |
@@ -19725,6 +19728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21374,6 +21378,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellbound! | 318020 | [318020-spellbound.json](./318020-spellbound.json) |
 | Spellbound! | 318021 | [318021-spellbound.json](./318021-spellbound.json) |
 | SpellBounders 2 | 223296 | [223296-spellbounders-2.json](./223296-spellbounders-2.json) |
+| Spellbreak: Chapter 1 - The Spellstorm | 183141 | [183141-spellbreak-chapter-1-the-spellstorm.json](./183141-spellbreak-chapter-1-the-spellstorm.json) |
+| Spellbreak: Chapter 2 - The Fracture | 183140 | [183140-spellbreak-chapter-2-the-fracture.json](./183140-spellbreak-chapter-2-the-fracture.json) |
 | Spellbreak: Chapter 3 - The Wardens | 182495 | [182495-spellbreak-chapter-3-the-wardens.json](./182495-spellbreak-chapter-3-the-wardens.json) |
 | Spellbreaker | 1949 | [1949-spellbreaker.json](./1949-spellbreaker.json) |
 | Spellbrew Express | 296361 | [296361-spellbrew-express.json](./296361-spellbrew-express.json) |
