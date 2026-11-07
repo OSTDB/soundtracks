@@ -3199,6 +3199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manor Dynasty Strategy | 397065 | [397065-manor-dynasty-strategy.json](./397065-manor-dynasty-strategy.json) |
 | Manor Madness | 282946 | [282946-manor-madness.json](./282946-manor-madness.json) |
 | Manor Mania | 337846 | [337846-manor-mania.json](./337846-manor-mania.json) |
+| Manor Matters | 181997 | [181997-manor-matters.json](./181997-manor-matters.json) |
 | Manor Maze | 235927 | [235927-manor-maze.json](./235927-manor-maze.json) |
 | Manor of Mysteries | 265149 | [265149-manor-of-mysteries.json](./265149-manor-of-mysteries.json) |
 | Manor of Mystic Courtesans | 291072 | [291072-manor-of-mystic-courtesans.json](./291072-manor-of-mystic-courtesans.json) |
@@ -3513,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marcella Moon: Secret on the Hill | 172088 | [172088-marcella-moon-secret-on-the-hill.json](./172088-marcella-moon-secret-on-the-hill.json) |
 | Marcella Moon: The Phantom of Harvest Grove | 373762 | [373762-marcella-moon-the-phantom-of-harvest-grove.json](./373762-marcella-moon-the-phantom-of-harvest-grove.json) |
 | March Forward | 123936 | [123936-march-forward.json](./123936-march-forward.json) |
+| March of Empires: War of Lords | 181988 | [181988-march-of-empires-war-of-lords.json](./181988-march-of-empires-war-of-lords.json) |
 | March of Giants | 363900 | [363900-march-of-giants.json](./363900-march-of-giants.json) |
 | March of History | 116432 | [116432-march-of-history.json](./116432-march-of-history.json) |
 | March of Industry | 35152 | [35152-march-of-industry.json](./35152-march-of-industry.json) |
@@ -5498,6 +5500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matching Moments | 398817 | [398817-matching-moments.json](./398817-matching-moments.json) |
 | Matching With Friends | 64889 | [64889-matching-with-friends.json](./64889-matching-with-friends.json) |
 | Matchkey | 180623 | [180623-matchkey.json](./180623-matchkey.json) |
+| Matchland | 181986 | [181986-matchland.json](./181986-matchland.json) |
 | Matchmaker Agency | 263782 | [263782-matchmaker-agency.json](./263782-matchmaker-agency.json) |
 | Matchmaker Millie | 239229 | [239229-matchmaker-millie.json](./239229-matchmaker-millie.json) |
 | Matchmaker Simulator | 390790 | [390790-matchmaker-simulator.json](./390790-matchmaker-simulator.json) |
@@ -5958,7 +5961,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9433,6 +9435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merged Gravity Redux | 241790 | [241790-merged-gravity-redux.json](./241790-merged-gravity-redux.json) |
 | Merger 3D | 31338 | [31338-merger-3d.json](./31338-merger-3d.json) |
 | Mergery | 358354 | [358354-mergery.json](./358354-mergery.json) |
+| Mergest Kingdom | 182012 | [182012-mergest-kingdom.json](./182012-mergest-kingdom.json) |
 | MergeVille | 380500 | [380500-mergeville.json](./380500-mergeville.json) |
 | MergeZ | 300849 | [300849-mergez.json](./300849-mergez.json) |
 | Mergical Fun: Match Island | 220199 | [220199-mergical-fun-match-island.json](./220199-mergical-fun-match-island.json) |
@@ -21769,6 +21772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Gold | 55862 | [55862-mystery-gold.json](./55862-mystery-gold.json) |
 | Mystery Horror Bundle: Saint Kotar & Charon's Staircase | 380703 | [380703-mystery-horror-bundle-saint-kotar-and-charons-staircase.json](./380703-mystery-horror-bundle-saint-kotar-and-charons-staircase.json) |
 | Mystery Hotel: Hidden Object Detective Game | 151452 | [151452-mystery-hotel-hidden-object-detective-game.json](./151452-mystery-hotel-hidden-object-detective-game.json) |
+| Mystery Hotel: Hidden Object Puzzle | 182009 | [182009-mystery-hotel-hidden-object-puzzle.json](./182009-mystery-hotel-hidden-object-puzzle.json) |
 | Mystery Hotel: Hidden Objects | 353583 | [353583-mystery-hotel-hidden-objects.json](./353583-mystery-hotel-hidden-objects.json) |
 | Mystery House | 229793 | [229793-mystery-house.json](./229793-mystery-house.json) |
 | Mystery House | 2479 | [2479-mystery-house.json](./2479-mystery-house.json) |
