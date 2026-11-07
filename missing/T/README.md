@@ -11970,6 +11970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Cell | 181020 | [181020-the-last-cell.json](./181020-the-last-cell.json) |
 | The Last Chance | 357116 | [357116-the-last-chance.json](./357116-the-last-chance.json) |
 | The Last Chapter of Man | 62055 | [62055-the-last-chapter-of-man.json](./62055-the-last-chapter-of-man.json) |
+| The Last Chicken | 181451 | [181451-the-last-chicken.json](./181451-the-last-chicken.json) |
 | The Last Child | 289998 | [289998-the-last-child.json](./289998-the-last-child.json) |
 | The Last Chronomancer | 146352 | [146352-the-last-chronomancer.json](./146352-the-last-chronomancer.json) |
 | The Last City | 202724 | [202724-the-last-city.json](./202724-the-last-city.json) |
@@ -13829,6 +13830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Milked Busty Stepsister | 246760 | [246760-the-milked-busty-stepsister.json](./246760-the-milked-busty-stepsister.json) |
 | The Mill: Nine Men's Morris | 351062 | [351062-the-mill-nine-mens-morris.json](./351062-the-mill-nine-mens-morris.json) |
 | The Milliner | 317974 | [317974-the-milliner.json](./317974-the-milliner.json) |
+| The Mimic | 181460 | [181460-the-mimic.json](./181460-the-mimic.json) |
 | The Mimic | 74254 | [74254-the-mimic.json](./74254-the-mimic.json) |
 | The Mims 5 | 97294 | [97294-the-mims-5.json](./97294-the-mims-5.json) |
 | The Mind of Marlo | 74238 | [74238-the-mind-of-marlo.json](./74238-the-mind-of-marlo.json) |
@@ -29753,6 +29755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transfer of Essence | 156031 | [156031-transfer-of-essence.json](./156031-transfer-of-essence.json) |
 | Transfer Point | 395064 | [395064-transfer-point.json](./395064-transfer-point.json) |
 | Transference | 37064 | [37064-transference.json](./37064-transference.json) |
+| Transformagician | 181457 | [181457-transformagician.json](./181457-transformagician.json) |
 | Transformation Tycoon | 192646 | [192646-transformation-tycoon.json](./192646-transformation-tycoon.json) |
 | Transformer | 40500 | [40500-transformer.json](./40500-transformer.json) |
 | Transformers | 241501 | [241501-transformers.json](./241501-transformers.json) |
