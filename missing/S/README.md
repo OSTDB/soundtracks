@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saiyuuki World | 48403 | [48403-saiyuuki-world.json](./48403-saiyuuki-world.json) |
 | Saiyuuki World 2: Tenjoukai no Majin | 19669 | [19669-saiyuuki-world-2-tenjoukai-no-majin.json](./19669-saiyuuki-world-2-tenjoukai-no-majin.json) |
 | Sak'd | 115786 | [115786-sakd.json](./115786-sakd.json) |
+| Sakaagari Hurricane Portable: Complete Limited Edition | 154713 | [154713-sakaagari-hurricane-portable-complete-limited-edition.json](./154713-sakaagari-hurricane-portable-complete-limited-edition.json) |
 | Sakai Burai Kaiji: Death or Survival | 61394 | [61394-sakai-burai-kaiji-death-or-survival.json](./61394-sakai-burai-kaiji-death-or-survival.json) |
 | Sakamoto Dangerous Barrage | 331884 | [331884-sakamoto-dangerous-barrage.json](./331884-sakamoto-dangerous-barrage.json) |
 | Sakamoto Days Dangerous Puzzle | 341289 | [341289-sakamoto-days-dangerous-puzzle.json](./341289-sakamoto-days-dangerous-puzzle.json) |
@@ -839,6 +840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakuna Chronicles: Kokorowa and the Gears of Creation | 322093 | [322093-sakuna-chronicles-kokorowa-and-the-gears-of-creation.json](./322093-sakuna-chronicles-kokorowa-and-the-gears-of-creation.json) |
 | Sakuna: Hinuka Junreitan | 359480 | [359480-sakuna-hinuka-junreitan.json](./359480-sakuna-hinuka-junreitan.json) |
 | Sakuna: Of Rice and Ruin | 36595 | [36595-sakuna-of-rice-and-ruin.json](./36595-sakuna-of-rice-and-ruin.json) |
+| Sakuna: Of Rice and Ruin - Artbook Limited Edition | 154712 | [154712-sakuna-of-rice-and-ruin-artbook-limited-edition.json](./154712-sakuna-of-rice-and-ruin-artbook-limited-edition.json) |
 | Sakuna: Of Rice and Ruin - Collector's Edition | 139843 | [139843-sakuna-of-rice-and-ruin-collectors-edition.json](./139843-sakuna-of-rice-and-ruin-collectors-edition.json) |
 | Sakuna: Of Rice and Ruin - Digital Deluxe Edition | 169184 | [169184-sakuna-of-rice-and-ruin-digital-deluxe-edition.json](./169184-sakuna-of-rice-and-ruin-digital-deluxe-edition.json) |
 | Sakuna: Of Rice and Ruin - Divine Edition | 139978 | [139978-sakuna-of-rice-and-ruin-divine-edition.json](./139978-sakuna-of-rice-and-ruin-divine-edition.json) |
@@ -19862,7 +19864,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -33910,6 +33911,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superhero Cats | 295493 | [295493-superhero-cats.json](./295493-superhero-cats.json) |
 | Superhero Fight | 193333 | [193333-superhero-fight.json](./193333-superhero-fight.json) |
 | Superhero Fighting Game | 59875 | [59875-superhero-fighting-game.json](./59875-superhero-fighting-game.json) |
+| Superhero Fruit Premium: Robot Wars Future Battles | 154730 | [154730-superhero-fruit-premium-robot-wars-future-battles.json](./154730-superhero-fruit-premium-robot-wars-future-battles.json) |
+| Superhero Fruit: Robot War | 154731 | [154731-superhero-fruit-robot-war.json](./154731-superhero-fruit-robot-war.json) |
 | Superhero Girl Salon: Kids Makeup and Dressup Game | 88037 | [88037-superhero-girl-salon-kids-makeup-and-dressup-game.json](./88037-superhero-girl-salon-kids-makeup-and-dressup-game.json) |
 | Superhero Girls | 368052 | [368052-superhero-girls.json](./368052-superhero-girls.json) |
 | Superhero Market | 325970 | [325970-superhero-market.json](./325970-superhero-market.json) |
