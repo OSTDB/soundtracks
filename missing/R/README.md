@@ -7001,6 +7001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Producer | 275708 | [275708-rhythm-producer.json](./275708-rhythm-producer.json) |
 | Rhythm Quest | 178876 | [178876-rhythm-quest.json](./178876-rhythm-quest.json) |
 | Rhythm Quest | 201439 | [201439-rhythm-quest.json](./201439-rhythm-quest.json) |
+| Rhythm Race | 139527 | [139527-rhythm-race.json](./139527-rhythm-race.json) |
 | Rhythm Racer | 406108 | [406108-rhythm-racer.json](./406108-rhythm-racer.json) |
 | Rhythm Racer 2 | 235075 | [235075-rhythm-racer-2.json](./235075-rhythm-racer-2.json) |
 | Rhythm Rat Rampage | 361864 | [361864-rhythm-rat-rampage.json](./361864-rhythm-rat-rampage.json) |
@@ -10613,6 +10614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Gauntlet | 33697 | [33697-rolling-gauntlet.json](./33697-rolling-gauntlet.json) |
 | Rolling Gunner | 119445 | [119445-rolling-gunner.json](./119445-rolling-gunner.json) |
 | Rolling Gunner Over Power | 142846 | [142846-rolling-gunner-over-power.json](./142846-rolling-gunner-over-power.json) |
+| Rolling Hamster | 139528 | [139528-rolling-hamster.json](./139528-rolling-hamster.json) |
 | Rolling Hare | 359904 | [359904-rolling-hare.json](./359904-rolling-hare.json) |
 | Rolling Hare 2 | 359905 | [359905-rolling-hare-2.json](./359905-rolling-hare-2.json) |
 | Rolling Hero | 404338 | [404338-rolling-hero.json](./404338-rolling-hero.json) |
