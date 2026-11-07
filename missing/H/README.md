@@ -4577,6 +4577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Pollution! | 102145 | [102145-hello-pollution.json](./102145-hello-pollution.json) |
 | Hello Princess | 242679 | [242679-hello-princess.json](./242679-hello-princess.json) |
 | Hello Puppets: Midnight Show | 159805 | [159805-hello-puppets-midnight-show.json](./159805-hello-puppets-midnight-show.json) |
+| Hello Puppets! VR | 155776 | [155776-hello-puppets-vr.json](./155776-hello-puppets-vr.json) |
 | Hello Racoon Neighbor | 102723 | [102723-hello-racoon-neighbor.json](./102723-hello-racoon-neighbor.json) |
 | Hello Shrek. Stinky Neighbor 3D | 101091 | [101091-hello-shrek-stinky-neighbor-3d.json](./101091-hello-shrek-stinky-neighbor-3d.json) |
 | Hello Space | 348342 | [348342-hello-space.json](./348342-hello-space.json) |
