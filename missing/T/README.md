@@ -5077,6 +5077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetsudou Nippon! Rosen Tabi: Aizu Tetsudou‑hen | 221946 | [221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json](./221946-tetsudou-nippon-rosen-tabi-aizu-tetsudou-hen.json) |
 | Tetsudou Nippon! Rosen Tabi: Akechi Tetsudou-hen | 241971 | [241971-tetsudou-nippon-rosen-tabi-akechi-tetsudou-hen.json](./241971-tetsudou-nippon-rosen-tabi-akechi-tetsudou-hen.json) |
 | Tetsudou Nippon! Rosen Tabi: Kikansha Thomas-hen - Ooigawa Tetsudou wo Hashirou! | 221731 | [221731-tetsudou-nippon-rosen-tabi-kikansha-thomas-hen-ooigawa-tetsudou-wo-hashirou.json](./221731-tetsudou-nippon-rosen-tabi-kikansha-thomas-hen-ooigawa-tetsudou-wo-hashirou.json) |
+| Tetsudou Nippon! Rosen Tabi: Sangi Tetsudou-hen | 178171 | [178171-tetsudou-nippon-rosen-tabi-sangi-tetsudou-hen.json](./178171-tetsudou-nippon-rosen-tabi-sangi-tetsudou-hen.json) |
 | Tetsudou Seminar: Oote Shitetsu-hen | 222711 | [222711-tetsudou-seminar-oote-shitetsu-hen.json](./222711-tetsudou-seminar-oote-shitetsu-hen.json) |
 | Tetsudou-ou | 48880 | [48880-tetsudou-ou.json](./48880-tetsudou-ou.json) |
 | Tetsudou-ou '96: Ikuze Okuban Chouja | 62953 | [62953-tetsudou-ou-96-ikuze-okuban-chouja.json](./62953-tetsudou-ou-96-ikuze-okuban-chouja.json) |
@@ -7527,6 +7528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Conduit | 4769 | [4769-the-conduit.json](./4769-the-conduit.json) |
 | The Conduit: Special Edition | 50985 | [50985-the-conduit-special-edition.json](./50985-the-conduit-special-edition.json) |
 | The Cone Game | 182692 | [182692-the-cone-game.json](./182692-the-cone-game.json) |
+| The Coneflower Dilemma | 178130 | [178130-the-coneflower-dilemma.json](./178130-the-coneflower-dilemma.json) |
 | The Confession | 133365 | [133365-the-confession.json](./133365-the-confession.json) |
 | The Confined: Basement | 406899 | [406899-the-confined-basement.json](./406899-the-confined-basement.json) |
 | The Confinement | 332413 | [332413-the-confinement.json](./332413-the-confinement.json) |
@@ -27699,6 +27701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tracks: Toybox Edition | 139928 | [139928-tracks-toybox-edition.json](./139928-tracks-toybox-edition.json) |
 | Tracksuit Manager | 74027 | [74027-tracksuit-manager.json](./74027-tracksuit-manager.json) |
 | Tracktopia | 333628 | [333628-tracktopia.json](./333628-tracktopia.json) |
+| Trackwars | 178162 | [178162-trackwars.json](./178162-trackwars.json) |
 | Tracky Train | 58241 | [58241-tracky-train.json](./58241-tracky-train.json) |
 | Tracon!2012:SE | 86735 | [86735-tracon-2012-se.json](./86735-tracon-2012-se.json) |
 | Tractage aux Portes 2: Mob a la Cafeteria | 120979 | [120979-tractage-aux-portes-2-mob-a-la-cafeteria.json](./120979-tractage-aux-portes-2-mob-a-la-cafeteria.json) |
