@@ -6558,6 +6558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexceed: Flavum Pack | 295124 | [295124-hexceed-flavum-pack.json](./295124-hexceed-flavum-pack.json) |
 | Hexceed: Glacialis Pack | 275961 | [275961-hexceed-glacialis-pack.json](./275961-hexceed-glacialis-pack.json) |
 | Hexceed: Ignis Pack | 246837 | [246837-hexceed-ignis-pack.json](./246837-hexceed-ignis-pack.json) |
+| hexceed: Illumina Pack | 174461 | [174461-hexceed-illumina-pack.json](./174461-hexceed-illumina-pack.json) |
 | Hexceed: Incipiam | 224228 | [224228-hexceed-incipiam.json](./224228-hexceed-incipiam.json) |
 | Hexceed: Insulam | 201595 | [201595-hexceed-insulam.json](./201595-hexceed-insulam.json) |
 | hexceed: Inventa Pack | 155691 | [155691-hexceed-inventa-pack.json](./155691-hexceed-inventa-pack.json) |
@@ -11143,6 +11144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoven the Sages Spinel | 34529 | [34529-hoven-the-sages-spinel.json](./34529-hoven-the-sages-spinel.json) |
 | Hover 2030 | 32897 | [32897-hover-2030.json](./32897-hover-2030.json) |
 | Hover Ace | 54103 | [54103-hover-ace.json](./54103-hover-ace.json) |
+| Hover Attack | 174457 | [174457-hover-attack.json](./174457-hover-attack.json) |
 | Hover Attack | 62586 | [62586-hover-attack.json](./62586-hover-attack.json) |
 | Hover Biker | 243846 | [243846-hover-biker.json](./243846-hover-biker.json) |
 | Hover Bots VR | 47134 | [47134-hover-bots-vr.json](./47134-hover-bots-vr.json) |
