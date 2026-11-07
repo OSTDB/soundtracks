@@ -5304,6 +5304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selenwald | 190988 | [190988-selenwald.json](./190988-selenwald.json) |
 | Seleos | 334443 | [334443-seleos.json](./334443-seleos.json) |
 | Self | 118430 | [118430-self.json](./118430-self.json) |
+| Self | 177635 | [177635-self.json](./177635-self.json) |
 | Self Defense Kinda... | 258468 | [258468-self-defense-kinda.json](./258468-self-defense-kinda.json) |
 | Self Deleted | 412985 | [412985-self-deleted.json](./412985-self-deleted.json) |
 | Self Destruct | 358635 | [358635-self-destruct.json](./358635-self-destruct.json) |
@@ -5650,6 +5651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sentinel Worlds I: Future Magic | 55155 | [55155-sentinel-worlds-i-future-magic.json](./55155-sentinel-worlds-i-future-magic.json) |
 | Sentinel: Cursed Knight | 153354 | [153354-sentinel-cursed-knight.json](./153354-sentinel-cursed-knight.json) |
 | Sentinel: Descendants in Time | 24260 | [24260-sentinel-descendants-in-time.json](./24260-sentinel-descendants-in-time.json) |
+| Sentinel: Holiday Special | 177639 | [177639-sentinel-holiday-special.json](./177639-sentinel-holiday-special.json) |
 | Sentinel: Mars Defense | 63201 | [63201-sentinel-mars-defense.json](./63201-sentinel-mars-defense.json) |
 | Sentinel: Stones of Disruption | 267797 | [267797-sentinel-stones-of-disruption.json](./267797-sentinel-stones-of-disruption.json) |
 | Sentinels | 258334 | [258334-sentinels.json](./258334-sentinels.json) |
@@ -32678,6 +32680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pinball Adventure | 365250 | [365250-super-pinball-adventure.json](./365250-super-pinball-adventure.json) |
 | Super Pinball Arcade | 238875 | [238875-super-pinball-arcade.json](./238875-super-pinball-arcade.json) |
 | Super Pinball II: The Amazing Odyssey | 38272 | [38272-super-pinball-ii-the-amazing-odyssey.json](./38272-super-pinball-ii-the-amazing-odyssey.json) |
+| Super Pinball Maker | 177661 | [177661-super-pinball-maker.json](./177661-super-pinball-maker.json) |
 | Super Pinball: Behind the Mask | 42455 | [42455-super-pinball-behind-the-mask.json](./42455-super-pinball-behind-the-mask.json) |
 | Super Ping Pong Trick Shot | 54959 | [54959-super-ping-pong-trick-shot.json](./54959-super-ping-pong-trick-shot.json) |
 | Super Pink Gold Peach 64 | 250086 | [250086-super-pink-gold-peach-64.json](./250086-super-pink-gold-peach-64.json) |
