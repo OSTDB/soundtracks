@@ -667,6 +667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halfway | 178445 | [178445-halfway.json](./178445-halfway.json) |
 | Halfway | 377170 | [377170-halfway.json](./377170-halfway.json) |
 | Halfway | 8800 | [8800-halfway.json](./8800-halfway.json) |
+| Halfway House | 140726 | [140726-halfway-house.json](./140726-halfway-house.json) |
 | Halfway to Dawn | 249362 | [249362-halfway-to-dawn.json](./249362-halfway-to-dawn.json) |
 | Haligen Zero | 405135 | [405135-haligen-zero.json](./405135-haligen-zero.json) |
 | Halite AI | 77817 | [77817-halite-ai.json](./77817-halite-ai.json) |
@@ -9331,6 +9332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Home In Alien | 285566 | [285566-home-in-alien.json](./285566-home-in-alien.json) |
 | Home Invaders | 393975 | [393975-home-invaders.json](./393975-home-invaders.json) |
 | Home Invasion | 415491 | [415491-home-invasion.json](./415491-home-invasion.json) |
+| Home is a Snow Globe | 140707 | [140707-home-is-a-snow-globe.json](./140707-home-is-a-snow-globe.json) |
 | Home Is Where Chip Is | 128804 | [128804-home-is-where-chip-is.json](./128804-home-is-where-chip-is.json) |
 | Home Is Where the Haunt Is | 362881 | [362881-home-is-where-the-haunt-is.json](./362881-home-is-where-the-haunt-is.json) |
 | Home is Where the Heart is | 318704 | [318704-home-is-where-the-heart-is.json](./318704-home-is-where-the-heart-is.json) |
