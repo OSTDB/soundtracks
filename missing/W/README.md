@@ -6222,6 +6222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wire | 195755 | [195755-wire.json](./195755-wire.json) |
 | Wire | 196541 | [196541-wire.json](./196541-wire.json) |
 | Wire Flying Maid | 129236 | [129236-wire-flying-maid.json](./129236-wire-flying-maid.json) |
+| Wire Flying Maid 2 | 157301 | [157301-wire-flying-maid-2.json](./157301-wire-flying-maid-2.json) |
 | Wire Lips | 128017 | [128017-wire-lips.json](./128017-wire-lips.json) |
 | Wire Throne | 312545 | [312545-wire-throne.json](./312545-wire-throne.json) |
 | Wire up! | 132694 | [132694-wire-up.json](./132694-wire-up.json) |
@@ -8426,6 +8427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Pole Gaiden Rise! Mark of the Deck 2: Sanguine & Melancholia | 278461 | [278461-world-pole-gaiden-rise-mark-of-the-deck-2-sanguine-and-melancholia.json](./278461-world-pole-gaiden-rise-mark-of-the-deck-2-sanguine-and-melancholia.json) |
 | World Pole Stone Dusk: Diadem of the Pole | 327904 | [327904-world-pole-stone-dusk-diadem-of-the-pole.json](./327904-world-pole-stone-dusk-diadem-of-the-pole.json) |
 | World Process | 156600 | [156600-world-process.json](./156600-world-process.json) |
+| World Puzzle | 157290 | [157290-world-puzzle.json](./157290-world-puzzle.json) |
 | World Quest | 265764 | [265764-world-quest.json](./265764-world-quest.json) |
 | World Quiz | 153018 | [153018-world-quiz.json](./153018-world-quiz.json) |
 | World Racing | 205843 | [205843-world-racing.json](./205843-world-racing.json) |
