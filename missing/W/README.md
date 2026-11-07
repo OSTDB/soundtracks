@@ -3108,6 +3108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Webkinz Friends | 246163 | [246163-webkinz-friends.json](./246163-webkinz-friends.json) |
 | Webkinz Jr. | 318830 | [318830-webkinz-jr.json](./318830-webkinz-jr.json) |
 | Webkinz Next | 246158 | [246158-webkinz-next.json](./246158-webkinz-next.json) |
+| WebLiero | 146430 | [146430-webliero.json](./146430-webliero.json) |
 | Webmaster - Fantastic Adventures in the World of the Internet | 127121 | [127121-webmaster-fantastic-adventures-in-the-world-of-the-internet.json](./127121-webmaster-fantastic-adventures-in-the-world-of-the-internet.json) |
 | Webosaurs | 245971 | [245971-webosaurs.json](./245971-webosaurs.json) |
 | WebRiot | 79889 | [79889-webriot.json](./79889-webriot.json) |
@@ -8437,6 +8438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Wizards | 82030 | [82030-world-of-wizards.json](./82030-world-of-wizards.json) |
 | World of Wonder | 147396 | [147396-world-of-wonder.json](./147396-world-of-wonder.json) |
 | World of Yggdrasil | 270054 | [270054-world-of-yggdrasil.json](./270054-world-of-yggdrasil.json) |
+| World of Zellians | 146467 | [146467-world-of-zellians.json](./146467-world-of-zellians.json) |
 | World of Zombies | 99900 | [99900-world-of-zombies.json](./99900-world-of-zombies.json) |
 | World of Zoo | 5287 | [5287-world-of-zoo.json](./5287-world-of-zoo.json) |
 | World on Fire | 117171 | [117171-world-on-fire.json](./117171-world-on-fire.json) |
@@ -9544,6 +9546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWI: The First DogFighters | 179130 | [179130-wwi-the-first-dogfighters.json](./179130-wwi-the-first-dogfighters.json) |
 | WWI: The Great War | 71540 | [71540-wwi-the-great-war.json](./71540-wwi-the-great-war.json) |
 | WWII Aces | 5301 | [5301-wwii-aces.json](./5301-wwii-aces.json) |
+| WWII Aerial Dogfight | 146448 | [146448-wwii-aerial-dogfight.json](./146448-wwii-aerial-dogfight.json) |
 | WWII Airplane Fight: Battle War Squad | 292928 | [292928-wwii-airplane-fight-battle-war-squad.json](./292928-wwii-airplane-fight-battle-war-squad.json) |
 | WWII Airplane Fight: Battle War Squad - Cash Injection | 317287 | [317287-wwii-airplane-fight-battle-war-squad-cash-injection.json](./317287-wwii-airplane-fight-battle-war-squad-cash-injection.json) |
 | WWII Airplane Fight: Battle War Squad - Master | 317288 | [317288-wwii-airplane-fight-battle-war-squad-master.json](./317288-wwii-airplane-fight-battle-war-squad-master.json) |
