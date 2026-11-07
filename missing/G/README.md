@@ -9412,6 +9412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: Graywitch - Collector's Edition | 146519 | [146519-grim-tales-graywitch-collectors-edition.json](./146519-grim-tales-graywitch-collectors-edition.json) |
 | Grim Tales: Guest from the Future | 140219 | [140219-grim-tales-guest-from-the-future.json](./140219-grim-tales-guest-from-the-future.json) |
 | Grim Tales: Guest from the Future - Collector's Edition | 122390 | [122390-grim-tales-guest-from-the-future-collectors-edition.json](./122390-grim-tales-guest-from-the-future-collectors-edition.json) |
+| Grim Tales: Heritage | 181995 | [181995-grim-tales-heritage.json](./181995-grim-tales-heritage.json) |
 | Grim Tales: Horizon of Wishes | 239219 | [239219-grim-tales-horizon-of-wishes.json](./239219-grim-tales-horizon-of-wishes.json) |
 | Grim Tales: Horizon of Wishes - Collector's Edition | 214724 | [214724-grim-tales-horizon-of-wishes-collectors-edition.json](./214724-grim-tales-horizon-of-wishes-collectors-edition.json) |
 | Grim Tales: Light in the Darkness - Collector's Edition | 362838 | [362838-grim-tales-light-in-the-darkness-collectors-edition.json](./362838-grim-tales-light-in-the-darkness-collectors-edition.json) |
