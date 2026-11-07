@@ -628,6 +628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire Skills | 316939 | [316939-vampire-skills.json](./316939-vampire-skills.json) |
 | Vampire Skuf | 345378 | [345378-vampire-skuf.json](./345378-vampire-skuf.json) |
 | Vampire Slasher Hero | 208955 | [208955-vampire-slasher-hero.json](./208955-vampire-slasher-hero.json) |
+| Vampire Slave: A Yaoi Visual Novel | 154122 | [154122-vampire-slave-a-yaoi-visual-novel.json](./154122-vampire-slave-a-yaoi-visual-novel.json) |
 | Vampire Slayer | 229227 | [229227-vampire-slayer.json](./229227-vampire-slayer.json) |
 | Vampire Slayer: New Blood | 192618 | [192618-vampire-slayer-new-blood.json](./192618-vampire-slayer-new-blood.json) |
 | Vampire Slayer: The Resurrection | 231065 | [231065-vampire-slayer-the-resurrection.json](./231065-vampire-slayer-the-resurrection.json) |
@@ -4169,6 +4170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRLab Academy: Anatomy VR | 115011 | [115011-vrlab-academy-anatomy-vr.json](./115011-vrlab-academy-anatomy-vr.json) |
 | VRLife | 116931 | [116931-vrlife.json](./116931-vrlife.json) |
 | VRNinja | 22041 | [22041-vrninja.json](./22041-vrninja.json) |
+| VRnoid | 154165 | [154165-vrnoid.json](./154165-vrnoid.json) |
 | VRobot: VR Giant Robot Destruction Simulator | 29572 | [29572-vrobot-vr-giant-robot-destruction-simulator.json](./29572-vrobot-vr-giant-robot-destruction-simulator.json) |
 | VRock | 187439 | [187439-vrock.json](./187439-vrock.json) |
 | VRog | 29545 | [29545-vrog.json](./29545-vrog.json) |
