@@ -3660,6 +3660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peach Territory | 378438 | [378438-peach-territory.json](./378438-peach-territory.json) |
 | Peach Up | 338831 | [338831-peach-up.json](./338831-peach-up.json) |
 | Peach Up 2-Gou | 122931 | [122931-peach-up-2-gou.json](./122931-peach-up-2-gou.json) |
+| Peach vodka | 178721 | [178721-peach-vodka.json](./178721-peach-vodka.json) |
 | Peach's Christmas Invitation | 135215 | [135215-peachs-christmas-invitation.json](./135215-peachs-christmas-invitation.json) |
 | Peach's Fury | 191373 | [191373-peachs-fury.json](./191373-peachs-fury.json) |
 | Peach's Journey | 331229 | [331229-peachs-journey.json](./331229-peachs-journey.json) |
