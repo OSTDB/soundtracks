@@ -3924,6 +3924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic World Revealed | 104259 | [104259-jurassic-world-revealed.json](./104259-jurassic-world-revealed.json) |
 | Jurassic World Tamagotchi | 230077 | [230077-jurassic-world-tamagotchi.json](./230077-jurassic-world-tamagotchi.json) |
 | Jurassic World VRSE | 315071 | [315071-jurassic-world-vrse.json](./315071-jurassic-world-vrse.json) |
+| Jurassic World: Aftermath | 141986 | [141986-jurassic-world-aftermath.json](./141986-jurassic-world-aftermath.json) |
 | Jurassic World: Aftermath - Part 2 | 165398 | [165398-jurassic-world-aftermath-part-2.json](./165398-jurassic-world-aftermath-part-2.json) |
 | Jurassic World: Camp Cretaceous - Escape the Enclosure | 148378 | [148378-jurassic-world-camp-cretaceous-escape-the-enclosure.json](./148378-jurassic-world-camp-cretaceous-escape-the-enclosure.json) |
 | Jurassic World: Camp Cretaceous - Gyrosphere Minigame | 148379 | [148379-jurassic-world-camp-cretaceous-gyrosphere-minigame.json](./148379-jurassic-world-camp-cretaceous-gyrosphere-minigame.json) |
