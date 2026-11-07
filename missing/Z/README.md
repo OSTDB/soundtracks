@@ -2602,6 +2602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zusi 3 Hobby | 112236 | [112236-zusi-3-hobby.json](./112236-zusi-3-hobby.json) |
 | Zusi 3: Aerosoft Edition | 117612 | [117612-zusi-3-aerosoft-edition.json](./117612-zusi-3-aerosoft-edition.json) |
 | Zutto Atai no Turn! | 216458 | [216458-zutto-atai-no-turn.json](./216458-zutto-atai-no-turn.json) |
+| Zutto Issho: With Me Everytime | 166389 | [166389-zutto-issho-with-me-everytime.json](./166389-zutto-issho-with-me-everytime.json) |
 | Zutto Tsukushite Ageru no! | 410951 | [410951-zutto-tsukushite-ageru-no.json](./410951-zutto-tsukushite-ageru-no.json) |
 | Zuumtype | 361110 | [361110-zuumtype.json](./361110-zuumtype.json) |
 | Zuwaka | 231996 | [231996-zuwaka.json](./231996-zuwaka.json) |
