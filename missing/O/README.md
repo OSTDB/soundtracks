@@ -3981,6 +3981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orc Hunter VR | 32275 | [32275-orc-hunter-vr.json](./32275-orc-hunter-vr.json) |
 | Orc Incremental | 399030 | [399030-orc-incremental.json](./399030-orc-incremental.json) |
 | Orc Incursion | 292754 | [292754-orc-incursion.json](./292754-orc-incursion.json) |
+| Orc Invasion | 157299 | [157299-orc-invasion.json](./157299-orc-invasion.json) |
 | Orc Invasion Tower | 219266 | [219266-orc-invasion-tower.json](./219266-orc-invasion-tower.json) |
 | Orc Massage | 127920 | [127920-orc-massage.json](./127920-orc-massage.json) |
 | Orc Raid | 117328 | [117328-orc-raid.json](./117328-orc-raid.json) |
