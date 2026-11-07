@@ -540,6 +540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easter Hunting | 419635 | [419635-easter-hunting.json](./419635-easter-hunting.json) |
 | Easter Jewels HD | 87068 | [87068-easter-jewels-hd.json](./87068-easter-jewels-hd.json) |
 | Easter Journey | 296080 | [296080-easter-journey.json](./296080-easter-journey.json) |
+| Easter Riddles | 149678 | [149678-easter-riddles.json](./149678-easter-riddles.json) |
 | Easter Squad VR | 101054 | [101054-easter-squad-vr.json](./101054-easter-squad-vr.json) |
 | Easter Swap - Coloring Holiday | 90215 | [90215-easter-swap-coloring-holiday.json](./90215-easter-swap-coloring-holiday.json) |
 | Easter Sweeper | 89618 | [89618-easter-sweeper.json](./89618-easter-sweeper.json) |
@@ -3765,6 +3766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Furry Killer 2020 | 351648 | [351648-endless-furry-killer-2020.json](./351648-endless-furry-killer-2020.json) |
 | Endless Furry Killer 3D | 155351 | [155351-endless-furry-killer-3d.json](./155351-endless-furry-killer-3d.json) |
 | Endless Furry Pinball 2D | 351662 | [351662-endless-furry-pinball-2d.json](./351662-endless-furry-pinball-2d.json) |
+| Endless Furry Ping-Pong | 149755 | [149755-endless-furry-ping-pong.json](./149755-endless-furry-ping-pong.json) |
 | Endless Furry Slayer | 385981 | [385981-endless-furry-slayer.json](./385981-endless-furry-slayer.json) |
 | Endless Furry Tower Defense | 275553 | [275553-endless-furry-tower-defense.json](./275553-endless-furry-tower-defense.json) |
 | Endless Futanari | 83317 | [83317-endless-futanari.json](./83317-endless-futanari.json) |
@@ -4504,6 +4506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Conquest | 129606 | [129606-epic-conquest.json](./129606-epic-conquest.json) |
 | Epic Conquest 2 | 133011 | [133011-epic-conquest-2.json](./133011-epic-conquest-2.json) |
 | Epic Crime Wars | 67168 | [67168-epic-crime-wars.json](./67168-epic-crime-wars.json) |
+| Epic Diavolo | 149668 | [149668-epic-diavolo.json](./149668-epic-diavolo.json) |
 | Epic Drag Puzools | 101632 | [101632-epic-drag-puzools.json](./101632-epic-drag-puzools.json) |
 | Epic Dragon | 236352 | [236352-epic-dragon.json](./236352-epic-dragon.json) |
 | Epic Dragons | 316063 | [316063-epic-dragons.json](./316063-epic-dragons.json) |
@@ -6942,6 +6945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evernight | 300714 | [300714-evernight.json](./300714-evernight.json) |
 | Everpath: A pixel art roguelite | 113516 | [113516-everpath-a-pixel-art-roguelite.json](./113516-everpath-a-pixel-art-roguelite.json) |
 | Everpixel Tactics | 156726 | [156726-everpixel-tactics.json](./156726-everpixel-tactics.json) |
+| Everpixel Valley | 149746 | [149746-everpixel-valley.json](./149746-everpixel-valley.json) |
 | Everplant | 185021 | [185021-everplant.json](./185021-everplant.json) |
 | Everplast | 191819 | [191819-everplast.json](./191819-everplast.json) |
 | EverQuest | 282 | [282-everquest.json](./282-everquest.json) |
