@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Circle of Charity | 237474 | [237474-a-circle-of-charity.json](./237474-a-circle-of-charity.json) |
 | A City Sleeps | 17702 | [17702-a-city-sleeps.json](./17702-a-city-sleeps.json) |
 | A Clareira | 379469 | [379469-a-clareira.json](./379469-a-clareira.json) |
+| A Classical Kickabout | 186355 | [186355-a-classical-kickabout.json](./186355-a-classical-kickabout.json) |
 | A Clever Label | 152849 | [152849-a-clever-label.json](./152849-a-clever-label.json) |
 | A Clockwork Ley-Line: Daybreak of Remnants Shadow | 195795 | [195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json](./195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json) |
 | A Clockwork Ley-Line: Flowers Falling in the Morning Mist | 54772 | [54772-a-clockwork-ley-line-flowers-falling-in-the-morning-mist.json](./54772-a-clockwork-ley-line-flowers-falling-in-the-morning-mist.json) |
@@ -1368,6 +1369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Total War Saga: Troy - Mythic Edition | 169186 | [169186-a-total-war-saga-troy-mythic-edition.json](./169186-a-total-war-saga-troy-mythic-edition.json) |
 | A Total War Saga: Troy - Mythos | 165388 | [165388-a-total-war-saga-troy-mythos.json](./165388-a-total-war-saga-troy-mythos.json) |
 | A Total War Saga: Troy - Rhesus & Memnon | 196061 | [196061-a-total-war-saga-troy-rhesus-and-memnon.json](./196061-a-total-war-saga-troy-rhesus-and-memnon.json) |
+| A Total War Saga: Troy - Ultimate Edition | 186366 | [186366-a-total-war-saga-troy-ultimate-edition.json](./186366-a-total-war-saga-troy-ultimate-edition.json) |
 | A Totally Realistic Stealth Game | 310264 | [310264-a-totally-realistic-stealth-game.json](./310264-a-totally-realistic-stealth-game.json) |
 | A Touch of Magic | 273966 | [273966-a-touch-of-magic.json](./273966-a-touch-of-magic.json) |
 | A Tough Sell | 58083 | [58083-a-tough-sell.json](./58083-a-tough-sell.json) |
@@ -4086,6 +4088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeterna Lucis | 280572 | [280572-aeterna-lucis.json](./280572-aeterna-lucis.json) |
 | Aeterna Noctis | 144380 | [144380-aeterna-noctis.json](./144380-aeterna-noctis.json) |
 | Aeterna Noctis: Caos Edition | 191962 | [191962-aeterna-noctis-caos-edition.json](./191962-aeterna-noctis-caos-edition.json) |
+| Aeterna Noctis: Deluxe Edition | 186369 | [186369-aeterna-noctis-deluxe-edition.json](./186369-aeterna-noctis-deluxe-edition.json) |
 | Aeterna Noctis: Virtuoso | 270860 | [270860-aeterna-noctis-virtuoso.json](./270860-aeterna-noctis-virtuoso.json) |
 | Aeterna: Curse of The First King | 424050 | [424050-aeterna-curse-of-the-first-king.json](./424050-aeterna-curse-of-the-first-king.json) |
 | Aeterna: Rubra Plena | 233579 | [233579-aeterna-rubra-plena.json](./233579-aeterna-rubra-plena.json) |
@@ -17895,6 +17898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aveyond: Rhen's Quest | 52435 | [52435-aveyond-rhens-quest.json](./52435-aveyond-rhens-quest.json) |
 | Aveyond: The Darkthrop Prophecy | 17821 | [17821-aveyond-the-darkthrop-prophecy.json](./17821-aveyond-the-darkthrop-prophecy.json) |
 | Aveyond: The Lost Orb | 17820 | [17820-aveyond-the-lost-orb.json](./17820-aveyond-the-lost-orb.json) |
+| AVGN: Game Over | 186374 | [186374-avgn-game-over.json](./186374-avgn-game-over.json) |
 | Avia Corporation | 240756 | [240756-avia-corporation.json](./240756-avia-corporation.json) |
 | Avia: Tropic Edition | 393432 | [393432-avia-tropic-edition.json](./393432-avia-tropic-edition.json) |
 | Avian | 177440 | [177440-avian.json](./177440-avian.json) |
