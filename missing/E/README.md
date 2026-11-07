@@ -3335,8 +3335,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empires & Allies | 60553 | [60553-empires-and-allies.json](./60553-empires-and-allies.json) |
 | Empires and Tribes | 130634 | [130634-empires-and-tribes.json](./130634-empires-and-tribes.json) |
 | Empires Apart | 27694 | [27694-empires-apart.json](./27694-empires-apart.json) |
+| Empires Apart: Arab Civilization | 171167 | [171167-empires-apart-arab-civilization.json](./171167-empires-apart-arab-civilization.json) |
 | Empires Apart: Aztec Civilization Pack | 226809 | [226809-empires-apart-aztec-civilization-pack.json](./226809-empires-apart-aztec-civilization-pack.json) |
 | Empires Apart: Chinese Civilization Pack | 169311 | [169311-empires-apart-chinese-civilization-pack.json](./169311-empires-apart-chinese-civilization-pack.json) |
+| Empires Apart: French Civilization | 171169 | [171169-empires-apart-french-civilization.json](./171169-empires-apart-french-civilization.json) |
+| Empires Apart: Korean Civilization | 171166 | [171166-empires-apart-korean-civilization.json](./171166-empires-apart-korean-civilization.json) |
+| Empires Apart: Mongol Civilization | 171168 | [171168-empires-apart-mongol-civilization.json](./171168-empires-apart-mongol-civilization.json) |
 | Empires II | 223619 | [223619-empires-ii.json](./223619-empires-ii.json) |
 | Empires II: What Would You Risk for World Conquest? | 100215 | [100215-empires-ii-what-would-you-risk-for-world-conquest.json](./100215-empires-ii-what-would-you-risk-for-world-conquest.json) |
 | Empires in Arms | 215076 | [215076-empires-in-arms.json](./215076-empires-in-arms.json) |
