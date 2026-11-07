@@ -1339,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Fish Goes to College | 305138 | [305138-rainbow-fish-goes-to-college.json](./305138-rainbow-fish-goes-to-college.json) |
 | Rainbow Fish: The Most beautiful Fish in the Ocean | 235358 | [235358-rainbow-fish-the-most-beautiful-fish-in-the-ocean.json](./235358-rainbow-fish-the-most-beautiful-fish-in-the-ocean.json) |
 | Rainbow Friends: Hide 'N Seek | 262695 | [262695-rainbow-friends-hide-n-seek.json](./262695-rainbow-friends-hide-n-seek.json) |
+| Rainbow Fuego | 158819 | [158819-rainbow-fuego.json](./158819-rainbow-fuego.json) |
 | Rainbow Gate | 388404 | [388404-rainbow-gate.json](./388404-rainbow-gate.json) |
 | Rainbow Heart Farewell | 181693 | [181693-rainbow-heart-farewell.json](./181693-rainbow-heart-farewell.json) |
 | Rainbow Heights Academy: Year 1 | 212141 | [212141-rainbow-heights-academy-year-1.json](./212141-rainbow-heights-academy-year-1.json) |
@@ -1452,6 +1453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainy Blue: 6 Gatsu no Ame | 371955 | [371955-rainy-blue-6-gatsu-no-ame.json](./371955-rainy-blue-6-gatsu-no-ame.json) |
 | Rainy Boba Cafe | 233981 | [233981-rainy-boba-cafe.json](./233981-rainy-boba-cafe.json) |
 | Rainy Butcher | 211937 | [211937-rainy-butcher.json](./211937-rainy-butcher.json) |
+| Rainy City: Pandemic | 158837 | [158837-rainy-city-pandemic.json](./158837-rainy-city-pandemic.json) |
 | Rainy Day | 179673 | [179673-rainy-day.json](./179673-rainy-day.json) |
 | Rainy Day | 246764 | [246764-rainy-day.json](./246764-rainy-day.json) |
 | Rainy Day | 341312 | [341312-rainy-day.json](./341312-rainy-day.json) |
@@ -5462,6 +5464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Mary: Manor Renovation | 227949 | [227949-rescue-mary-manor-renovation.json](./227949-rescue-mary-manor-renovation.json) |
 | Rescue Mission | 18140 | [18140-rescue-mission.json](./18140-rescue-mission.json) |
 | Rescue my Queen! | 140998 | [140998-rescue-my-queen.json](./140998-rescue-my-queen.json) |
+| Rescue Operation | 158856 | [158856-rescue-operation.json](./158856-rescue-operation.json) |
 | Rescue Operations Simulator | 216537 | [216537-rescue-operations-simulator.json](./216537-rescue-operations-simulator.json) |
 | Rescue Ops: Wildfire | 349412 | [349412-rescue-ops-wildfire.json](./349412-rescue-ops-wildfire.json) |
 | Rescue Pets | 359221 | [359221-rescue-pets.json](./359221-rescue-pets.json) |
