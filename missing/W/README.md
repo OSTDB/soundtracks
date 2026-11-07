@@ -3285,6 +3285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Elite Cafe | 403033 | [403033-welcome-to-elite-cafe.json](./403033-welcome-to-elite-cafe.json) |
 | Welcome to Elk | 131566 | [131566-welcome-to-elk.json](./131566-welcome-to-elk.json) |
 | Welcome to Emba | 150624 | [150624-welcome-to-emba.json](./150624-welcome-to-emba.json) |
+| Welcome to Empyreum | 189240 | [189240-welcome-to-empyreum.json](./189240-welcome-to-empyreum.json) |
 | Welcome to Erin's Story in the World of Our Church and Halloween: Visual Novel | 223064 | [223064-welcome-to-erins-story-in-the-world-of-our-church-and-halloween-visual-novel.json](./223064-welcome-to-erins-story-in-the-world-of-our-church-and-halloween-visual-novel.json) |
 | Welcome to Everdell | 304887 | [304887-welcome-to-everdell.json](./304887-welcome-to-everdell.json) |
 | Welcome to Factus | 362796 | [362796-welcome-to-factus.json](./362796-welcome-to-factus.json) |
