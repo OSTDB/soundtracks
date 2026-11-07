@@ -5192,6 +5192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tezotopia | 215019 | [215019-tezotopia.json](./215019-tezotopia.json) |
 | Tezuka World: Astro Crunch | 233542 | [233542-tezuka-world-astro-crunch.json](./233542-tezuka-world-astro-crunch.json) |
 | Tezz | 149262 | [149262-tezz.json](./149262-tezz.json) |
+| Tezz: Portals | 155249 | [155249-tezz-portals.json](./155249-tezz-portals.json) |
 | Tezzel: The Tilemaker's Tale | 344923 | [344923-tezzel-the-tilemakers-tale.json](./344923-tezzel-the-tilemakers-tale.json) |
 | TFX | 44874 | [44874-tfx.json](./44874-tfx.json) |
 | TFX | 76187 | [76187-tfx.json](./76187-tfx.json) |
@@ -8347,6 +8348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Designer's Curse Chapter 2: Forgotten Horrors | 338329 | [338329-the-designers-curse-chapter-2-forgotten-horrors.json](./338329-the-designers-curse-chapter-2-forgotten-horrors.json) |
 | The Desire of the Amazons | 272279 | [272279-the-desire-of-the-amazons.json](./272279-the-desire-of-the-amazons.json) |
 | The Desolate Hope | 17351 | [17351-the-desolate-hope.json](./17351-the-desolate-hope.json) |
+| The Desolate Hospital | 155252 | [155252-the-desolate-hospital.json](./155252-the-desolate-hospital.json) |
 | The Desolation | 179293 | [179293-the-desolation.json](./179293-the-desolation.json) |
 | The Desolation | 277081 | [277081-the-desolation.json](./277081-the-desolation.json) |
 | The Desperate Flight of Hand Solo | 293923 | [293923-the-desperate-flight-of-hand-solo.json](./293923-the-desperate-flight-of-hand-solo.json) |
@@ -11204,6 +11206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible Adventures of Van Helsing II: Pigasus | 10970 | [10970-the-incredible-adventures-of-van-helsing-ii-pigasus.json](./10970-the-incredible-adventures-of-van-helsing-ii-pigasus.json) |
 | The Incredible Adventures of Van Helsing III | 11703 | [11703-the-incredible-adventures-of-van-helsing-iii.json](./11703-the-incredible-adventures-of-van-helsing-iii.json) |
 | The Incredible Adventures of Van Helsing: Blue Blood | 10968 | [10968-the-incredible-adventures-of-van-helsing-blue-blood.json](./10968-the-incredible-adventures-of-van-helsing-blue-blood.json) |
+| The Incredible Adventures of Van Helsing: Complete Pack | 155256 | [155256-the-incredible-adventures-of-van-helsing-complete-pack.json](./155256-the-incredible-adventures-of-van-helsing-complete-pack.json) |
 | The Incredible Adventures of Van Helsing: Extended Edition | 27680 | [27680-the-incredible-adventures-of-van-helsing-extended-edition.json](./27680-the-incredible-adventures-of-van-helsing-extended-edition.json) |
 | The Incredible Adventures of Van Helsing: Final Cut | 26129 | [26129-the-incredible-adventures-of-van-helsing-final-cut.json](./26129-the-incredible-adventures-of-van-helsing-final-cut.json) |
 | The Incredible Adventures of Van Helsing: The Complete Trilogy | 115460 | [115460-the-incredible-adventures-of-van-helsing-the-complete-trilogy.json](./115460-the-incredible-adventures-of-van-helsing-the-complete-trilogy.json) |
@@ -18138,6 +18141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of TigerQiuQiu: Ninja Tiger - QiuQiu | 157659 | [157659-the-tower-of-tigerqiuqiu-ninja-tiger-qiuqiu.json](./157659-the-tower-of-tigerqiuqiu-ninja-tiger-qiuqiu.json) |
 | The Tower of TigerQiuQiu: Ninja W | 157649 | [157649-the-tower-of-tigerqiuqiu-ninja-w.json](./157649-the-tower-of-tigerqiuqiu-ninja-w.json) |
 | The Tower of TigerQiuQiu: Ninja Zeta | 157670 | [157670-the-tower-of-tigerqiuqiu-ninja-zeta.json](./157670-the-tower-of-tigerqiuqiu-ninja-zeta.json) |
+| The Tower of TigerQiuQiu: Nyaa Invaders 1 | 155296 | [155296-the-tower-of-tigerqiuqiu-nyaa-invaders-1.json](./155296-the-tower-of-tigerqiuqiu-nyaa-invaders-1.json) |
 | The Tower of TigerQiuQiu: Nyaa Invaders 2 | 157657 | [157657-the-tower-of-tigerqiuqiu-nyaa-invaders-2.json](./157657-the-tower-of-tigerqiuqiu-nyaa-invaders-2.json) |
 | The Tower of TigerQiuQiu: Nyaa Invaders 3 | 157650 | [157650-the-tower-of-tigerqiuqiu-nyaa-invaders-3.json](./157650-the-tower-of-tigerqiuqiu-nyaa-invaders-3.json) |
 | The Tower of TigerQiuQiu: Nyaa Invaders 4 | 157608 | [157608-the-tower-of-tigerqiuqiu-nyaa-invaders-4.json](./157608-the-tower-of-tigerqiuqiu-nyaa-invaders-4.json) |
@@ -30019,6 +30023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz: A New Era - PRR T1 | 162633 | [162633-trainz-a-new-era-prr-t1.json](./162633-trainz-a-new-era-prr-t1.json) |
 | Trainz: A New Era - PRR X23 Boxcar | 162652 | [162652-trainz-a-new-era-prr-x23-boxcar.json](./162652-trainz-a-new-era-prr-x23-boxcar.json) |
 | Trainz: A New Era - QJ Steam Locomotive | 162666 | [162666-trainz-a-new-era-qj-steam-locomotive.json](./162666-trainz-a-new-era-qj-steam-locomotive.json) |
+| Trainz: A New Era - Quinnimont Coal Drag | 155268 | [155268-trainz-a-new-era-quinnimont-coal-drag.json](./155268-trainz-a-new-era-quinnimont-coal-drag.json) |
 | Trainz: A New Era - Rheingold 1962 | 162655 | [162655-trainz-a-new-era-rheingold-1962.json](./162655-trainz-a-new-era-rheingold-1962.json) |
 | Trainz: A New Era - Route: Appen | 153307 | [153307-trainz-a-new-era-route-appen.json](./153307-trainz-a-new-era-route-appen.json) |
 | Trainz: A New Era - Route: Balezino Mosti | 153303 | [153303-trainz-a-new-era-route-balezino-mosti.json](./153303-trainz-a-new-era-route-balezino-mosti.json) |
