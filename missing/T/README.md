@@ -1741,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamer: King of Dinosaurs | 305702 | [305702-tamer-king-of-dinosaurs.json](./305702-tamer-king-of-dinosaurs.json) |
 | Tamerlane | 233633 | [233633-tamerlane.json](./233633-tamerlane.json) |
 | Tameshi | 197497 | [197497-tameshi.json](./197497-tameshi.json) |
+| Tamestorm's Virus | 146465 | [146465-tamestorms-virus.json](./146465-tamestorms-virus.json) |
 | Tametsi | 72423 | [72423-tametsi.json](./72423-tametsi.json) |
 | Tamiigi and the War O' Bunnies | 337106 | [337106-tamiigi-and-the-war-o-bunnies.json](./337106-tamiigi-and-the-war-o-bunnies.json) |
 | Tamiku | 140952 | [140952-tamiku.json](./140952-tamiku.json) |
@@ -5151,6 +5152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Texas Hold 'em Tournament | 21293 | [21293-texas-hold-em-tournament.json](./21293-texas-hold-em-tournament.json) |
 | Texas Hold'em | 137058 | [137058-texas-holdem.json](./137058-texas-holdem.json) |
 | Texas Hold'Em | 246381 | [246381-texas-holdem.json](./246381-texas-holdem.json) |
+| Texas Hold'em 3D | 146446 | [146446-texas-holdem-3d.json](./146446-texas-holdem-3d.json) |
 | Texas Hold'em Poker DS | 208344 | [208344-texas-holdem-poker-ds.json](./208344-texas-holdem-poker-ds.json) |
 | Texas Hold'em Poker: Pokerist+ | 355985 | [355985-texas-holdem-poker-pokerist.json](./355985-texas-holdem-poker-pokerist.json) |
 | Texas Hold'em: Daily Poke it! | 87154 | [87154-texas-holdem-daily-poke-it.json](./87154-texas-holdem-daily-poke-it.json) |
@@ -7644,6 +7646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Corpse | 376714 | [376714-the-corpse.json](./376714-the-corpse.json) |
 | The Corpse Below | 417779 | [417779-the-corpse-below.json](./417779-the-corpse-below.json) |
 | The Corpse Crusade | 207711 | [207711-the-corpse-crusade.json](./207711-the-corpse-crusade.json) |
+| The Corpsmen | 146460 | [146460-the-corpsmen.json](./146460-the-corpsmen.json) |
 | The Corral | 271787 | [271787-the-corral.json](./271787-the-corral.json) |
 | The Corridor | 148443 | [148443-the-corridor.json](./148443-the-corridor.json) |
 | The Corridor: On Behalf of the Dead | 107587 | [107587-the-corridor-on-behalf-of-the-dead.json](./107587-the-corridor-on-behalf-of-the-dead.json) |
@@ -18370,6 +18373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The True Tales of Bloodstreet 13 | 112848 | [112848-the-true-tales-of-bloodstreet-13.json](./112848-the-true-tales-of-bloodstreet-13.json) |
 | The Trump | 124087 | [124087-the-trump.json](./124087-the-trump.json) |
 | The Truth About 9th Company | 158978 | [158978-the-truth-about-9th-company.json](./158978-the-truth-about-9th-company.json) |
+| The Truth is Out There - Mystery Adventure Pack | 146441 | [146441-the-truth-is-out-there-mystery-adventure-pack.json](./146441-the-truth-is-out-there-mystery-adventure-pack.json) |
 | The Truth Is Up There | 397424 | [397424-the-truth-is-up-there.json](./397424-the-truth-is-up-there.json) |
 | The Truth of a Snowy Night | 340955 | [340955-the-truth-of-a-snowy-night.json](./340955-the-truth-of-a-snowy-night.json) |
 | The Tsar's Secret | 209475 | [209475-the-tsars-secret.json](./209475-the-tsars-secret.json) |
@@ -28065,6 +28069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trade Em Up: TCG Empire Shop | 324995 | [324995-trade-em-up-tcg-empire-shop.json](./324995-trade-em-up-tcg-empire-shop.json) |
 | Trade Empire | 391786 | [391786-trade-empire.json](./391786-trade-empire.json) |
 | Trade Empires | 70113 | [70113-trade-empires.json](./70113-trade-empires.json) |
+| Trade Mania | 146466 | [146466-trade-mania.json](./146466-trade-mania.json) |
 | Trade Mania 2 | 255047 | [255047-trade-mania-2.json](./255047-trade-mania-2.json) |
 | Trade Nations | 38891 | [38891-trade-nations.json](./38891-trade-nations.json) |
 | Trade Post Forest | 258986 | [258986-trade-post-forest.json](./258986-trade-post-forest.json) |
