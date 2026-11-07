@@ -2229,6 +2229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Bullet - Flip the gun | 103553 | [103553-one-bullet-flip-the-gun.json](./103553-one-bullet-flip-the-gun.json) |
 | One Bullet left | 28888 | [28888-one-bullet-left.json](./28888-one-bullet-left.json) |
 | One Button Defense | 365252 | [365252-one-button-defense.json](./365252-one-button-defense.json) |
+| One Button Duel | 176584 | [176584-one-button-duel.json](./176584-one-button-duel.json) |
 | One Button Dungeon | 386734 | [386734-one-button-dungeon.json](./386734-one-button-dungeon.json) |
 | One Button Games 5-in-1 | 259133 | [259133-one-button-games-5-in-1.json](./259133-one-button-games-5-in-1.json) |
 | One Button Games 5-in-1 Vol. 2 | 349818 | [349818-one-button-games-5-in-1-vol-2.json](./349818-one-button-games-5-in-1-vol-2.json) |
@@ -5254,6 +5255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outfolded | 57950 | [57950-outfolded.json](./57950-outfolded.json) |
 | Outfoxed | 179165 | [179165-outfoxed.json](./179165-outfoxed.json) |
 | Outgrown | 188001 | [188001-outgrown.json](./188001-outgrown.json) |
+| Outgun Online | 176579 | [176579-outgun-online.json](./176579-outgun-online.json) |
 | Outhold | 345514 | [345514-outhold.json](./345514-outhold.json) |
 | Outhouse | 342063 | [342063-outhouse.json](./342063-outhouse.json) |
 | Outl1ned | 341522 | [341522-outl1ned.json](./341522-outl1ned.json) |
