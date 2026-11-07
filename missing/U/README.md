@@ -1519,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Legions II | 106353 | [106353-undead-legions-ii.json](./106353-undead-legions-ii.json) |
 | Undead Line | 46178 | [46178-undead-line.json](./46178-undead-line.json) |
 | Undead Mayhem | 277614 | [277614-undead-mayhem.json](./277614-undead-mayhem.json) |
+| Undead Menace | 190311 | [190311-undead-menace.json](./190311-undead-menace.json) |
 | Undead Night Crew | 376065 | [376065-undead-night-crew.json](./376065-undead-night-crew.json) |
 | Undead Onslaught | 302193 | [302193-undead-onslaught.json](./302193-undead-onslaught.json) |
 | Undead Overlord | 36363 | [36363-undead-overlord.json](./36363-undead-overlord.json) |
@@ -2073,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unfair Flips | 367451 | [367451-unfair-flips.json](./367451-unfair-flips.json) |
 | Unfair Mario | 225008 | [225008-unfair-mario.json](./225008-unfair-mario.json) |
 | Unfair Rampage: Knightfall | 317293 | [317293-unfair-rampage-knightfall.json](./317293-unfair-rampage-knightfall.json) |
+| Unfair Souls: Darkest Grind | 190303 | [190303-unfair-souls-darkest-grind.json](./190303-unfair-souls-darkest-grind.json) |
 | Unfair War: Survivors | 398394 | [398394-unfair-war-survivors.json](./398394-unfair-war-survivors.json) |
 | Unfamiliar | 118284 | [118284-unfamiliar.json](./118284-unfamiliar.json) |
 | Unfamiliar | 275214 | [275214-unfamiliar.json](./275214-unfamiliar.json) |
