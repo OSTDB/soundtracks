@@ -1487,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Warmer Shade of Summer | 151192 | [151192-a-warmer-shade-of-summer.json](./151192-a-warmer-shade-of-summer.json) |
 | A Wave of Enemies | 154084 | [154084-a-wave-of-enemies.json](./154084-a-wave-of-enemies.json) |
 | A Wave of Lights | 175838 | [175838-a-wave-of-lights.json](./175838-a-wave-of-lights.json) |
+| A Way Back | 164138 | [164138-a-way-back.json](./164138-a-way-back.json) |
 | A Way Home Uzy's Journey | 339258 | [339258-a-way-home-uzys-journey.json](./339258-a-way-home-uzys-journey.json) |
 | A Way to be Dead | 150426 | [150426-a-way-to-be-dead.json](./150426-a-way-to-be-dead.json) |
 | A Way to Die | 159854 | [159854-a-way-to-die.json](./159854-a-way-to-die.json) |
@@ -2878,6 +2879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acroball | 97254 | [97254-acroball.json](./97254-acroball.json) |
 | Acrobat Mission | 46770 | [46770-acrobat-mission.json](./46770-acrobat-mission.json) |
 | Acrobat Star Show | 108440 | [108440-acrobat-star-show.json](./108440-acrobat-star-show.json) |
+| Acrobatic Car | 164124 | [164124-acrobatic-car.json](./164124-acrobatic-car.json) |
 | Acrobatic Dog-Fight | 39971 | [39971-acrobatic-dog-fight.json](./39971-acrobatic-dog-fight.json) |
 | Acrobots | 226556 | [226556-acrobots.json](./226556-acrobots.json) |
 | AcroChallenge | 367506 | [367506-acrochallenge.json](./367506-acrochallenge.json) |
@@ -8453,6 +8455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ambien | 222596 | [222596-ambien.json](./222596-ambien.json) |
 | Ambien | 254122 | [254122-ambien.json](./254122-ambien.json) |
 | Ambience | 414497 | [414497-ambience.json](./414497-ambience.json) |
+| Ambient Channels | 164140 | [164140-ambient-channels.json](./164140-ambient-channels.json) |
 | Ambient Channels: Abandoned Town - Farmhouse | 170709 | [170709-ambient-channels-abandoned-town-farmhouse.json](./170709-ambient-channels-abandoned-town-farmhouse.json) |
 | Ambient Channels: American Retro - Cozy Café After Hours | 170706 | [170706-ambient-channels-american-retro-cozy-cafe-after-hours.json](./170706-ambient-channels-american-retro-cozy-cafe-after-hours.json) |
 | Ambient Channels: Desolate Space - Contaminated Vessel | 170703 | [170703-ambient-channels-desolate-space-contaminated-vessel.json](./170703-ambient-channels-desolate-space-contaminated-vessel.json) |
@@ -10496,6 +10499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Wave Simulator | 156668 | [156668-anime-wave-simulator.json](./156668-anime-wave-simulator.json) |
 | Anime World | 167886 | [167886-anime-world.json](./167886-anime-world.json) |
 | Anime World Bundle 4 in 1 | 398190 | [398190-anime-world-bundle-4-in-1.json](./398190-anime-world-bundle-4-in-1.json) |
+| Anime Zodiac | 164149 | [164149-anime-zodiac.json](./164149-anime-zodiac.json) |
 | Anime-dle | 337089 | [337089-anime-dle.json](./337089-anime-dle.json) |
 | Anime: Fantasy Uni | 378746 | [378746-anime-fantasy-uni.json](./378746-anime-fantasy-uni.json) |
 | Anime: Fantasy Uni | 393625 | [393625-anime-fantasy-uni.json](./393625-anime-fantasy-uni.json) |
@@ -15807,6 +15811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Girl | 83977 | [83977-asteroid-girl.json](./83977-asteroid-girl.json) |
 | Asteroid Hideout | 115945 | [115945-asteroid-hideout.json](./115945-asteroid-hideout.json) |
 | Asteroid Hunter | 67932 | [67932-asteroid-hunter.json](./67932-asteroid-hunter.json) |
+| Asteroid Impact Survival | 164130 | [164130-asteroid-impact-survival.json](./164130-asteroid-impact-survival.json) |
 | Asteroid Invaders | 120375 | [120375-asteroid-invaders.json](./120375-asteroid-invaders.json) |
 | Asteroid Jungle | 297790 | [297790-asteroid-jungle.json](./297790-asteroid-jungle.json) |
 | Asteroid King | 276700 | [276700-asteroid-king.json](./276700-asteroid-king.json) |
@@ -16805,6 +16810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
