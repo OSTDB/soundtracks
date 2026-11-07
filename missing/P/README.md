@@ -3179,6 +3179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patolli | 70280 | [70280-patolli.json](./70280-patolli.json) |
 | Patou | 253376 | [253376-patou.json](./253376-patou.json) |
 | Patricia | 138541 | [138541-patricia.json](./138541-patricia.json) |
+| Patrician 1+2 | 155259 | [155259-patrician-1-2.json](./155259-patrician-1-2.json) |
 | Patrician II: Quest for Power | 7409 | [7409-patrician-ii-quest-for-power.json](./7409-patrician-ii-quest-for-power.json) |
 | Patrician III | 287 | [287-patrician-iii.json](./287-patrician-iii.json) |
 | Patrician IV | 7506 | [7506-patrician-iv.json](./7506-patrician-iv.json) |
@@ -7121,6 +7122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX3: Zen Classics | 151055 | [151055-pinball-fx3-zen-classics.json](./151055-pinball-fx3-zen-classics.json) |
 | Pinball Gardener | 185001 | [185001-pinball-gardener.json](./185001-pinball-gardener.json) |
 | Pinball Girlfriend | 207187 | [207187-pinball-girlfriend.json](./207187-pinball-girlfriend.json) |
+| Pinball Gold Pack | 155278 | [155278-pinball-gold-pack.json](./155278-pinball-gold-pack.json) |
 | Pinball Graffiti | 176691 | [176691-pinball-graffiti.json](./176691-pinball-graffiti.json) |
 | Pinball Groupies | 192627 | [192627-pinball-groupies.json](./192627-pinball-groupies.json) |
 | Pinball Hall of Fame: The Gottlieb Collection | 4067 | [4067-pinball-hall-of-fame-the-gottlieb-collection.json](./4067-pinball-hall-of-fame-the-gottlieb-collection.json) |
