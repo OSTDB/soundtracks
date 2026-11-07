@@ -13100,6 +13100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal: Bagley | 259145 | [259145-portal-bagley.json](./259145-portal-bagley.json) |
 | Portal: Companion Collection | 191406 | [191406-portal-companion-collection.json](./191406-portal-companion-collection.json) |
 | Portal: Divinity | 358821 | [358821-portal-divinity.json](./358821-portal-divinity.json) |
+| Portal: Epic Edition | 179260 | [179260-portal-epic-edition.json](./179260-portal-epic-edition.json) |
 | Portal: Forbidden Testing Tracks | 276750 | [276750-portal-forbidden-testing-tracks.json](./276750-portal-forbidden-testing-tracks.json) |
 | Portal: Forever Testing | 208407 | [208407-portal-forever-testing.json](./208407-portal-forever-testing.json) |
 | Portal: Google Translate Edition | 313478 | [313478-portal-google-translate-edition.json](./313478-portal-google-translate-edition.json) |
@@ -16317,6 +16318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Unknown | 244240 | [244240-project-unknown.json](./244240-project-unknown.json) |
 | Project Unknown Designation | 309881 | [309881-project-unknown-designation.json](./309881-project-unknown-designation.json) |
 | Project Unseek | 217466 | [217466-project-unseek.json](./217466-project-unseek.json) |
+| Project User | 179285 | [179285-project-user.json](./179285-project-user.json) |
 | Project Utgardr | 196608 | [196608-project-utgardr.json](./196608-project-utgardr.json) |
 | Project V: Origins | 304717 | [304717-project-v-origins.json](./304717-project-v-origins.json) |
 | Project Valkyrie | 192204 | [192204-project-valkyrie.json](./192204-project-valkyrie.json) |
