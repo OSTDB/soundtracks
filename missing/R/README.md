@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rachel's Game Pack | 208431 | [208431-rachels-game-pack.json](./208431-rachels-game-pack.json) |
 | Rachel's Journal | 360459 | [360459-rachels-journal.json](./360459-rachels-journal.json) |
 | Rachel's Retreat | 54313 | [54313-rachels-retreat.json](./54313-rachels-retreat.json) |
+| Racine | 188211 | [188211-racine.json](./188211-racine.json) |
 | Racing | 139247 | [139247-racing.json](./139247-racing.json) |
 | Racing | 217831 | [217831-racing.json](./217831-racing.json) |
 | Racing | 247068 | [247068-racing.json](./247068-racing.json) |
