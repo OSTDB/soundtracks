@@ -3107,6 +3107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juice Fresh: Fruit Elimination | 187901 | [187901-juice-fresh-fruit-elimination.json](./187901-juice-fresh-fruit-elimination.json) |
 | Juice Fruity Splash | 106467 | [106467-juice-fruity-splash.json](./106467-juice-fruity-splash.json) |
 | Juice Galaxy | 142940 | [142940-juice-galaxy.json](./142940-juice-galaxy.json) |
+| Juice Jam | 140748 | [140748-juice-jam.json](./140748-juice-jam.json) |
 | Juice Mania | 129379 | [129379-juice-mania.json](./129379-juice-mania.json) |
 | Juice! | 8405 | [8405-juice.json](./8405-juice.json) |
 | Juiced | 248738 | [248738-juiced.json](./248738-juiced.json) |
