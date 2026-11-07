@@ -1833,6 +1833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Bumper | 71779 | [71779-captain-bumper.json](./71779-captain-bumper.json) |
 | Captain Buttface | 258093 | [258093-captain-buttface.json](./258093-captain-buttface.json) |
 | Captain Cat | 119294 | [119294-captain-cat.json](./119294-captain-cat.json) |
+| Captain CigArrr | 192498 | [192498-captain-cigarrr.json](./192498-captain-cigarrr.json) |
 | Captain Clive: Danger From Dione | 138413 | [138413-captain-clive-danger-from-dione.json](./138413-captain-clive-danger-from-dione.json) |
 | Captain Coffer 2D | 157474 | [157474-captain-coffer-2d.json](./157474-captain-coffer-2d.json) |
 | Captain CoinCoin | 289281 | [289281-captain-coincoin.json](./289281-captain-coincoin.json) |
@@ -13211,6 +13212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Complex Doom: Clusterfuck | 200979 | [200979-complex-doom-clusterfuck.json](./200979-complex-doom-clusterfuck.json) |
 | Complex Hero | 265626 | [265626-complex-hero.json](./265626-complex-hero.json) |
 | Complex Loop | 244599 | [244599-complex-loop.json](./244599-complex-loop.json) |
+| Complex Relations | 192537 | [192537-complex-relations.json](./192537-complex-relations.json) |
 | Complex Sky | 144097 | [144097-complex-sky.json](./144097-complex-sky.json) |
 | Complex X | 301911 | [301911-complex-x.json](./301911-complex-x.json) |
 | Complexia: A Ballet of Blades | 400486 | [400486-complexia-a-ballet-of-blades.json](./400486-complexia-a-ballet-of-blades.json) |
@@ -20913,6 +20915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cynderfall Cycle | 298268 | [298268-cynderfall-cycle.json](./298268-cynderfall-cycle.json) |
 | Cyndy | 425202 | [425202-cyndy.json](./425202-cyndy.json) |
 | Cynoclept: The Game | 55351 | [55351-cynoclept-the-game.json](./55351-cynoclept-the-game.json) |
+| Cynoroid Forsaken | 192538 | [192538-cynoroid-forsaken.json](./192538-cynoroid-forsaken.json) |
 | Cynoroid Gaiden | 150167 | [150167-cynoroid-gaiden.json](./150167-cynoroid-gaiden.json) |
 | Cynoroid: Gentagelse | 120678 | [120678-cynoroid-gentagelse.json](./120678-cynoroid-gentagelse.json) |
 | Cynostone | 252248 | [252248-cynostone.json](./252248-cynostone.json) |
