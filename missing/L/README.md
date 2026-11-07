@@ -3454,6 +3454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Len'en Tasouken: Earthen Miraculous Sword | 125796 | [125796-lenen-tasouken-earthen-miraculous-sword.json](./125796-lenen-tasouken-earthen-miraculous-sword.json) |
 | Len'en Ten'eisenki: Brilliant Pagoda or Haze Castle | 125794 | [125794-lenen-teneisenki-brilliant-pagoda-or-haze-castle.json](./125794-lenen-teneisenki-brilliant-pagoda-or-haze-castle.json) |
 | Lendarios: Limits Breakers 1 | 393450 | [393450-lendarios-limits-breakers-1.json](./393450-lendarios-limits-breakers-1.json) |
+| Lendas | 190291 | [190291-lendas.json](./190291-lendas.json) |
 | Lendas da Amazônia | 381287 | [381287-lendas-da-amazonia.json](./381287-lendas-da-amazonia.json) |
 | Lendas do Pebol: Mythic Football | 231180 | [231180-lendas-do-pebol-mythic-football.json](./231180-lendas-do-pebol-mythic-football.json) |
 | Lendele | 182744 | [182744-lendele.json](./182744-lendele.json) |
@@ -9868,6 +9869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar New Year | 305680 | [305680-lunar-new-year.json](./305680-lunar-new-year.json) |
 | Lunar New Year Lanterns | 369879 | [369879-lunar-new-year-lanterns.json](./369879-lunar-new-year-lanterns.json) |
 | Lunar Nightmare | 309927 | [309927-lunar-nightmare.json](./309927-lunar-nightmare.json) |
+| Lunar Odyssey | 190276 | [190276-lunar-odyssey.json](./190276-lunar-odyssey.json) |
 | Lunar Outpost | 317545 | [317545-lunar-outpost.json](./317545-lunar-outpost.json) |
 | Lunar Pulse | 399416 | [399416-lunar-pulse.json](./399416-lunar-pulse.json) |
 | Lunar Racer | 259246 | [259246-lunar-racer.json](./259246-lunar-racer.json) |
