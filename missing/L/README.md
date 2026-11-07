@@ -1525,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Soul | 343776 | [343776-last-soul.json](./343776-last-soul.json) |
 | Last Souls | 195971 | [195971-last-souls.json](./195971-last-souls.json) |
 | Last Space Guardian | 188740 | [188740-last-space-guardian.json](./188740-last-space-guardian.json) |
+| Last Space Mission | 151359 | [151359-last-space-mission.json](./151359-last-space-mission.json) |
 | Last Spartan: Glory Over Madness | 261594 | [261594-last-spartan-glory-over-madness.json](./261594-last-spartan-glory-over-madness.json) |
 | Last Spirit PBT | 326250 | [326250-last-spirit-pbt.json](./326250-last-spirit-pbt.json) |
 | Last Stance: A JuVentures Game | 244716 | [244716-last-stance-a-juventures-game.json](./244716-last-stance-a-juventures-game.json) |
@@ -3509,6 +3510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lenrual | 380692 | [380692-lenrual.json](./380692-lenrual.json) |
 | Lens | 349181 | [349181-lens.json](./349181-lens.json) |
 | Lens Gloss | 272236 | [272236-lens-gloss.json](./272236-lens-gloss.json) |
+| Lens Life | 151345 | [151345-lens-life.json](./151345-lens-life.json) |
 | Lens Of Fear | 361040 | [361040-lens-of-fear.json](./361040-lens-of-fear.json) |
 | Lens Of Horror | 268267 | [268267-lens-of-horror.json](./268267-lens-of-horror.json) |
 | LenscraftCube | 373907 | [373907-lenscraftcube.json](./373907-lenscraftcube.json) |
@@ -3525,6 +3527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leo The Lost Kitten | 298807 | [298807-leo-the-lost-kitten.json](./298807-leo-the-lost-kitten.json) |
 | LEO: Low Earth Orbit | 351582 | [351582-leo-low-earth-orbit.json](./351582-leo-low-earth-orbit.json) |
 | Leo: The Square | 303626 | [303626-leo-the-square.json](./303626-leo-the-square.json) |
+| Leo: The Unexpected Journey | 151361 | [151361-leo-the-unexpected-journey.json](./151361-leo-the-unexpected-journey.json) |
 | Leo's Fortune | 19489 | [19489-leos-fortune.json](./19489-leos-fortune.json) |
 | Leo's Fortune HD Edition | 24042 | [24042-leos-fortune-hd-edition.json](./24042-leos-fortune-hd-edition.json) |
 | Leo's RC Simulator | 380543 | [380543-leos-rc-simulator.json](./380543-leos-rc-simulator.json) |
@@ -8912,6 +8915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love My Pegasus | 239871 | [239871-love-my-pegasus.json](./239871-love-my-pegasus.json) |
 | Love Mystery Club | 155669 | [155669-love-mystery-club.json](./155669-love-mystery-club.json) |
 | Love Mythos: Sanctuary Island | 116309 | [116309-love-mythos-sanctuary-island.json](./116309-love-mythos-sanctuary-island.json) |
+| Love n Dream | 151328 | [151328-love-n-dream.json](./151328-love-n-dream.json) |
 | Love n Dream: Virtual Happiness | 160252 | [160252-love-n-dream-virtual-happiness.json](./160252-love-n-dream-virtual-happiness.json) |
 | Love N Life: Happy Student | 360633 | [360633-love-n-life-happy-student.json](./360633-love-n-life-happy-student.json) |
 | Love n Life: Lucky Teacher | 253901 | [253901-love-n-life-lucky-teacher.json](./253901-love-n-life-lucky-teacher.json) |
