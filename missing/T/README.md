@@ -4417,6 +4417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Termite | 112748 | [112748-termite.json](./112748-termite.json) |
 | Termite | 377177 | [377177-termite.json](./377177-termite.json) |
 | Termite Man | 327380 | [327380-termite-man.json](./327380-termite-man.json) |
+| Termo | 187631 | [187631-termo.json](./187631-termo.json) |
 | Termo99 | 417342 | [417342-termo99.json](./417342-termo99.json) |
 | TermoVerse Chronicles | 228827 | [228827-termoverse-chronicles.json](./228827-termoverse-chronicles.json) |
 | Terms and Conditions | 128815 | [128815-terms-and-conditions.json](./128815-terms-and-conditions.json) |
