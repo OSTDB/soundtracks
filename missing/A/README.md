@@ -10571,6 +10571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anne's Doll Studio: Lolita Collection | 84751 | [84751-annes-doll-studio-lolita-collection.json](./84751-annes-doll-studio-lolita-collection.json) |
 | Anne's Doll Studio: Princess Collection | 84752 | [84752-annes-doll-studio-princess-collection.json](./84752-annes-doll-studio-princess-collection.json) |
 | Anne's Doll Studio: Tokyo Collection | 84753 | [84753-annes-doll-studio-tokyo-collection.json](./84753-annes-doll-studio-tokyo-collection.json) |
+| Anne's Garden | 174958 | [174958-annes-garden.json](./174958-annes-garden.json) |
 | Anne's Zombie Odyssey | 328574 | [328574-annes-zombie-odyssey.json](./328574-annes-zombie-odyssey.json) |
 | Annelids | 57118 | [57118-annelids.json](./57118-annelids.json) |
 | Annexation | 404838 | [404838-annexation.json](./404838-annexation.json) |
@@ -16764,7 +16765,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
