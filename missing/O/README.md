@@ -1503,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Old Skool Racer | 156609 | [156609-old-skool-racer.json](./156609-old-skool-racer.json) |
 | Old Spice Nature Adventure | 137392 | [137392-old-spice-nature-adventure.json](./137392-old-spice-nature-adventure.json) |
 | Old Still Life | 262552 | [262552-old-still-life.json](./262552-old-still-life.json) |
+| Old Stories: Fireheart | 191993 | [191993-old-stories-fireheart.json](./191993-old-stories-fireheart.json) |
 | Old Thiess: The Werewolf’s Trial | 349899 | [349899-old-thiess-the-werewolf-s-trial.json](./349899-old-thiess-the-werewolf-s-trial.json) |
 | Old Time Baseball | 94671 | [94671-old-time-baseball.json](./94671-old-time-baseball.json) |
 | Old Time Hockey | 85318 | [85318-old-time-hockey.json](./85318-old-time-hockey.json) |
@@ -3026,6 +3027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Down! | 257379 | [257379-only-down.json](./257379-only-down.json) |
 | Only Drive | 279105 | [279105-only-drive.json](./279105-only-drive.json) |
 | Only Dwarves Dig Proper Holes | 347425 | [347425-only-dwarves-dig-proper-holes.json](./347425-only-dwarves-dig-proper-holes.json) |
+| Only Evil Remains | 192001 | [192001-only-evil-remains.json](./192001-only-evil-remains.json) |
 | Only Faces Remain | 382917 | [382917-only-faces-remain.json](./382917-only-faces-remain.json) |
 | Only False | 330674 | [330674-only-false.json](./330674-only-false.json) |
 | Only Fans | 377029 | [377029-only-fans.json](./377029-only-fans.json) |
