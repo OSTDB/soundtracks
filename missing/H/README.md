@@ -2145,6 +2145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harold and the Gameover | 228986 | [228986-harold-and-the-gameover.json](./228986-harold-and-the-gameover.json) |
 | Harold Rabbit 2: The Case of the Pastry Pirate | 371448 | [371448-harold-rabbit-2-the-case-of-the-pastry-pirate.json](./371448-harold-rabbit-2-the-case-of-the-pastry-pirate.json) |
 | Harold Rabbit: Finder of Lost Things | 333141 | [333141-harold-rabbit-finder-of-lost-things.json](./333141-harold-rabbit-finder-of-lost-things.json) |
+| Harold Reborn | 148092 | [148092-harold-reborn.json](./148092-harold-reborn.json) |
 | Harold's Bad Day | 396709 | [396709-harolds-bad-day.json](./396709-harolds-bad-day.json) |
 | Harold's Mission | 330388 | [330388-harolds-mission.json](./330388-harolds-mission.json) |
 | Harold's Walk | 147151 | [147151-harolds-walk.json](./147151-harolds-walk.json) |
@@ -11462,6 +11463,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Was Your Day? | 334902 | [334902-how-was-your-day.json](./334902-how-was-your-day.json) |
 | How We Die | 133191 | [133191-how-we-die.json](./133191-how-we-die.json) |
 | How We Die | 304492 | [304492-how-we-die.json](./304492-how-we-die.json) |
+| How We Got Here | 148085 | [148085-how-we-got-here.json](./148085-how-we-got-here.json) |
+| How We Know We're Alive | 148066 | [148066-how-we-know-were-alive.json](./148066-how-we-know-were-alive.json) |
 | How We Soar | 19592 | [19592-how-we-soar.json](./19592-how-we-soar.json) |
 | How Would You Survive? | 305381 | [305381-how-would-you-survive.json](./305381-how-would-you-survive.json) |
 | How Your Package Gets Delivered | 363437 | [363437-how-your-package-gets-delivered.json](./363437-how-your-package-gets-delivered.json) |
@@ -11724,6 +11727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hui-shuo | 349081 | [349081-hui-shuo.json](./349081-hui-shuo.json) |
 | Huíwén Píngtái Tiàoyuè | 156136 | [156136-huiwen-pingtai-tiaoyue.json](./156136-huiwen-pingtai-tiaoyue.json) |
 | Huíwén Zhànqí | 415511 | [415511-huiwen-zhanqi.json](./415511-huiwen-zhanqi.json) |
+| Hújù 101 | 148174 | [148174-huju-101.json](./148174-huju-101.json) |
 | Hula Wii: Hula de Hajimeru - Bi to Kenkou! | 141473 | [141473-hula-wii-hula-de-hajimeru-bi-to-kenkou.json](./141473-hula-wii-hula-de-hajimeru-bi-to-kenkou.json) |
 | Hula Wii: Minna de Fura Oodorou! | 70679 | [70679-hula-wii-minna-de-fura-oodorou.json](./70679-hula-wii-minna-de-fura-oodorou.json) |
 | Hulabear | 56394 | [56394-hulabear.json](./56394-hulabear.json) |
