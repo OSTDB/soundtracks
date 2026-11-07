@@ -278,6 +278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco Museum Virtual Arcade | 7097 | [7097-namco-museum-virtual-arcade.json](./7097-namco-museum-virtual-arcade.json) |
 | Namco Museum Vol. 1 | 20611 | [20611-namco-museum-vol-1.json](./20611-namco-museum-vol-1.json) |
 | Namco Museum Vol. 1 | 229451 | [229451-namco-museum-vol-1.json](./229451-namco-museum-vol-1.json) |
+| Namco Museum Vol. 2 | 191991 | [191991-namco-museum-vol-2.json](./191991-namco-museum-vol-2.json) |
 | Namco Museum Vol. 2 | 20259 | [20259-namco-museum-vol-2.json](./20259-namco-museum-vol-2.json) |
 | Namco Museum Vol. 3 | 20613 | [20613-namco-museum-vol-3.json](./20613-namco-museum-vol-3.json) |
 | Namco Museum Vol. 4 | 39934 | [39934-namco-museum-vol-4.json](./39934-namco-museum-vol-4.json) |
