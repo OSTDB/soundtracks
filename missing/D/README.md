@@ -1762,6 +1762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Nights with Poe and Munro | 118668 | [118668-dark-nights-with-poe-and-munro.json](./118668-dark-nights-with-poe-and-munro.json) |
 | Dark Nights: Reflections | 397602 | [397602-dark-nights-reflections.json](./397602-dark-nights-reflections.json) |
 | Dark Noid | 81779 | [81779-dark-noid.json](./81779-dark-noid.json) |
+| Dark North | 151327 | [151327-dark-north.json](./151327-dark-north.json) |
 | Dark Notes | 212088 | [212088-dark-notes.json](./212088-dark-notes.json) |
 | Dark Odyssey | 266426 | [266426-dark-odyssey.json](./266426-dark-odyssey.json) |
 | Dark Old Sun | 81112 | [81112-dark-old-sun.json](./81112-dark-old-sun.json) |
@@ -7023,6 +7024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Der Anzeigenhauptmeister | 293959 | [293959-der-anzeigenhauptmeister.json](./293959-der-anzeigenhauptmeister.json) |
 | Der Atom Nazi | 116177 | [116177-der-atom-nazi.json](./116177-der-atom-nazi.json) |
 | Der Bauernhof | 268111 | [268111-der-bauernhof.json](./268111-der-bauernhof.json) |
+| Der Blaue Diamant | 151358 | [151358-der-blaue-diamant.json](./151358-der-blaue-diamant.json) |
 | Der Blaue Diamant: Additional mission | 213031 | [213031-der-blaue-diamant-additional-mission.json](./213031-der-blaue-diamant-additional-mission.json) |
 | Der blaue Kristall | 125956 | [125956-der-blaue-kristall.json](./125956-der-blaue-kristall.json) |
 | Der Böse Mann | 411966 | [411966-der-bose-mann.json](./411966-der-bose-mann.json) |
@@ -19239,6 +19241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DVG Survivors | 391975 | [391975-dvg-survivors.json](./391975-dvg-survivors.json) |
 | DvG: Conquering Giants | 163768 | [163768-dvg-conquering-giants.json](./163768-dvg-conquering-giants.json) |
 | Dvor | 414122 | [414122-dvor.json](./414122-dvor.json) |
+| DVR Simulator | 151374 | [151374-dvr-simulator.json](./151374-dvr-simulator.json) |
 | DW | 168616 | [168616-dw.json](./168616-dw.json) |
 | Dwango5 | 143038 | [143038-dwango5.json](./143038-dwango5.json) |
 | Dwarf | 292069 | [292069-dwarf.json](./292069-dwarf.json) |
