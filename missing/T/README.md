@@ -23816,6 +23816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tip & Tumble | 232384 | [232384-tip-and-tumble.json](./232384-tip-and-tumble.json) |
 | Tip of the Tongue | 387756 | [387756-tip-of-the-tongue.json](./387756-tip-of-the-tongue.json) |
 | Tip Off | 12798 | [12798-tip-off.json](./12798-tip-off.json) |
+| Tip Top | 166914 | [166914-tip-top.json](./166914-tip-top.json) |
 | Tip Top Deluxe | 206219 | [206219-tip-top-deluxe.json](./206219-tip-top-deluxe.json) |
 | Tip Top Table Tennis | 301537 | [301537-tip-top-table-tennis.json](./301537-tip-top-table-tennis.json) |
 | Tip Top: Don't Fall! | 217814 | [217814-tip-top-dont-fall.json](./217814-tip-top-dont-fall.json) |
@@ -25917,6 +25918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torment: Tides of Numenera - Day One Edition | 26538 | [26538-torment-tides-of-numenera-day-one-edition.json](./26538-torment-tides-of-numenera-day-one-edition.json) |
 | Torment: Tides of Numenera - Immortal Edition | 51802 | [51802-torment-tides-of-numenera-immortal-edition.json](./51802-torment-tides-of-numenera-immortal-edition.json) |
 | Torment: Tides of Numenera - Legacy Edition | 51801 | [51801-torment-tides-of-numenera-legacy-edition.json](./51801-torment-tides-of-numenera-legacy-edition.json) |
+| Tormenta do Tempo | 166896 | [166896-tormenta-do-tempo.json](./166896-tormenta-do-tempo.json) |
 | Tormenta: Memórias da Tempestade | 231322 | [231322-tormenta-memorias-da-tempestade.json](./231322-tormenta-memorias-da-tempestade.json) |
 | Tormentarium | 271730 | [271730-tormentarium.json](./271730-tormentarium.json) |
 | Tormented 12 | 34730 | [34730-tormented-12.json](./34730-tormented-12.json) |
