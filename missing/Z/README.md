@@ -1314,6 +1314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | zMahjong Super Solitaire | 88451 | [88451-zmahjong-super-solitaire.json](./88451-zmahjong-super-solitaire.json) |
 | ZMR: Zombies Monsters Robots | 7424 | [7424-zmr-zombies-monsters-robots.json](./7424-zmr-zombies-monsters-robots.json) |
 | Znake | 306038 | [306038-znake.json](./306038-znake.json) |
+| Znax | 183682 | [183682-znax.json](./183682-znax.json) |
 | Znkl: 177 | 83582 | [83582-znkl-177.json](./83582-znkl-177.json) |
 | ZOA: The Zone of Avoidance | 339228 | [339228-zoa-the-zone-of-avoidance.json](./339228-zoa-the-zone-of-avoidance.json) |
 | Zoar | 39307 | [39307-zoar.json](./39307-zoar.json) |
