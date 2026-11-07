@@ -754,6 +754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Night Archery | 84529 | [84529-halloween-night-archery.json](./84529-halloween-night-archery.json) |
 | Halloween Night II | 209448 | [209448-halloween-night-ii.json](./209448-halloween-night-ii.json) |
 | Halloween Night Mahjong | 156831 | [156831-halloween-night-mahjong.json](./156831-halloween-night-mahjong.json) |
+| Halloween Night(Mare) | 145165 | [145165-halloween-night-mare.json](./145165-halloween-night-mare.json) |
 | Halloween Online Horror Night | 274764 | [274764-halloween-online-horror-night.json](./274764-halloween-online-horror-night.json) |
 | Halloween Panic! | 359458 | [359458-halloween-panic.json](./359458-halloween-panic.json) |
 | Halloween Party | 178915 | [178915-halloween-party.json](./178915-halloween-party.json) |
@@ -1351,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hands of Time | 49927 | [49927-hands-of-time.json](./49927-hands-of-time.json) |
 | Hands of Victory | 380801 | [380801-hands-of-victory.json](./380801-hands-of-victory.json) |
 | Hands of War | 387927 | [387927-hands-of-war.json](./387927-hands-of-war.json) |
+| Hands of Wisp | 145126 | [145126-hands-of-wisp.json](./145126-hands-of-wisp.json) |
 | Hands On! Pattern Blocks | 92156 | [92156-hands-on-pattern-blocks.json](./92156-hands-on-pattern-blocks.json) |
 | Hands On! Tangrams | 48043 | [48043-hands-on-tangrams.json](./48043-hands-on-tangrams.json) |
 | Hands Over | 403826 | [403826-hands-over.json](./403826-hands-over.json) |
