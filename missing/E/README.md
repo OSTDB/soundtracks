@@ -5210,6 +5210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Life Inc | 125739 | [125739-escape-from-life-inc.json](./125739-escape-from-life-inc.json) |
 | Escape From Lighthouse | 257341 | [257341-escape-from-lighthouse.json](./257341-escape-from-lighthouse.json) |
 | Escape From Lost Island | 206653 | [206653-escape-from-lost-island.json](./206653-escape-from-lost-island.json) |
+| Escape from Mandrillia | 182590 | [182590-escape-from-mandrillia.json](./182590-escape-from-mandrillia.json) |
 | Escape from Manimal Island | 272395 | [272395-escape-from-manimal-island.json](./272395-escape-from-manimal-island.json) |
 | Escape from Mars | 183949 | [183949-escape-from-mars.json](./183949-escape-from-mars.json) |
 | Escape From Meat City | 215877 | [215877-escape-from-meat-city.json](./215877-escape-from-meat-city.json) |
