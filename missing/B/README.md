@@ -2154,6 +2154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjax | 15660 | [15660-banjax.json](./15660-banjax.json) |
 | Banjo Kazooie: Tooty Adventure | 274841 | [274841-banjo-kazooie-tooty-adventure.json](./274841-banjo-kazooie-tooty-adventure.json) |
 | Banjo X | 194643 | [194643-banjo-x.json](./194643-banjo-x.json) |
+| Banjo-Dreamie | 146983 | [146983-banjo-dreamie.json](./146983-banjo-dreamie.json) |
 | Banjo-Kazooie & The Quest for Cake | 294713 | [294713-banjo-kazooie-and-the-quest-for-cake.json](./294713-banjo-kazooie-and-the-quest-for-cake.json) |
 | Banjo-Kazooie 4: Quest for Kurkoins | 313060 | [313060-banjo-kazooie-4-quest-for-kurkoins.json](./313060-banjo-kazooie-4-quest-for-kurkoins.json) |
 | Banjo-Kazooie and the NightBear Before Christmas | 165155 | [165155-banjo-kazooie-and-the-nightbear-before-christmas.json](./165155-banjo-kazooie-and-the-nightbear-before-christmas.json) |
@@ -2177,6 +2178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo-Kazooie: Nostalgia 64 | 154990 | [154990-banjo-kazooie-nostalgia-64.json](./154990-banjo-kazooie-nostalgia-64.json) |
 | Banjo-Kazooie: Nuts & Bolts | 3008 | [3008-banjo-kazooie-nuts-and-bolts.json](./3008-banjo-kazooie-nuts-and-bolts.json) |
 | Banjo-Kazooie: Nuts & Bolts - L.O.G.'s Lost Challenges | 229855 | [229855-banjo-kazooie-nuts-and-bolts-l-o-g-s-lost-challenges.json](./229855-banjo-kazooie-nuts-and-bolts-l-o-g-s-lost-challenges.json) |
+| Banjo-Kazooie: Smash Bros. Temple | 146984 | [146984-banjo-kazooie-smash-bros-temple.json](./146984-banjo-kazooie-smash-bros-temple.json) |
 | Banjo-Kazooie: Stay at Home | 147221 | [147221-banjo-kazooie-stay-at-home.json](./147221-banjo-kazooie-stay-at-home.json) |
 | Banjo-Kazooie: The Cave of Dreams | 307517 | [307517-banjo-kazooie-the-cave-of-dreams.json](./307517-banjo-kazooie-the-cave-of-dreams.json) |
 | Banjo-Kazooie: The Corrupted Jiggys | 313063 | [313063-banjo-kazooie-the-corrupted-jiggys.json](./313063-banjo-kazooie-the-corrupted-jiggys.json) |
@@ -6025,6 +6027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before Arriving at the Terminal | 123942 | [123942-before-arriving-at-the-terminal.json](./123942-before-arriving-at-the-terminal.json) |
 | Before Began | 157363 | [157363-before-began.json](./157363-before-began.json) |
 | Before Closure | 369925 | [369925-before-closure.json](./369925-before-closure.json) |
+| Before Crisis: Remake | 146943 | [146943-before-crisis-remake.json](./146943-before-crisis-remake.json) |
 | Before Dark | 149858 | [149858-before-dark.json](./149858-before-dark.json) |
 | Before Dawn | 229101 | [229101-before-dawn.json](./229101-before-dawn.json) |
 | Before Exit: Gas Station | 349038 | [349038-before-exit-gas-station.json](./349038-before-exit-gas-station.json) |
@@ -11857,6 +11860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Wednesday | 216668 | [216668-blue-wednesday.json](./216668-blue-wednesday.json) |
 | Blue Wednesday: Deluxe Edition | 280633 | [280633-blue-wednesday-deluxe-edition.json](./280633-blue-wednesday-deluxe-edition.json) |
 | Blue Whale | 75320 | [75320-blue-whale.json](./75320-blue-whale.json) |
+| Blue Wish | 146988 | [146988-blue-wish.json](./146988-blue-wish.json) |
 | Blue Wish Desire | 178236 | [178236-blue-wish-desire.json](./178236-blue-wish-desire.json) |
 | Blue Wish Resurrection Plus | 122850 | [122850-blue-wish-resurrection-plus.json](./122850-blue-wish-resurrection-plus.json) |
 | Blue World | 417809 | [417809-blue-world.json](./417809-blue-world.json) |
@@ -12090,6 +12094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob Don't Sleep! | 369201 | [369201-bob-dont-sleep.json](./369201-bob-dont-sleep.json) |
 | Bob et Bobette: Les Dompteurs du Temps | 93967 | [93967-bob-et-bobette-les-dompteurs-du-temps.json](./93967-bob-et-bobette-les-dompteurs-du-temps.json) |
 | Bob Fight | 303347 | [303347-bob-fight.json](./303347-bob-fight.json) |
+| Bob Help Them | 146949 | [146949-bob-help-them.json](./146949-bob-help-them.json) |
 | Bob Invasion | 294693 | [294693-bob-invasion.json](./294693-bob-invasion.json) |
 | Bob Mazzolini Racing | 151428 | [151428-bob-mazzolini-racing.json](./151428-bob-mazzolini-racing.json) |
 | Bob Morane: Chevalerie 1 | 55094 | [55094-bob-morane-chevalerie-1.json](./55094-bob-morane-chevalerie-1.json) |
@@ -15667,6 +15672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricks Breaker: Manga Girls | 205575 | [205575-bricks-breaker-manga-girls.json](./205575-bricks-breaker-manga-girls.json) |
 | Bricks Crusher Breaker Ball | 249020 | [249020-bricks-crusher-breaker-ball.json](./249020-bricks-crusher-breaker-ball.json) |
 | Bricks Defender | 147572 | [147572-bricks-defender.json](./147572-bricks-defender.json) |
+| Bricks Defender 4 | 146948 | [146948-bricks-defender-4.json](./146948-bricks-defender-4.json) |
 | Bricks King | 255756 | [255756-bricks-king.json](./255756-bricks-king.json) |
 | Bricks Kingdom | 321510 | [321510-bricks-kingdom.json](./321510-bricks-kingdom.json) |
 | Bricks n Balls | 89246 | [89246-bricks-n-balls.json](./89246-bricks-n-balls.json) |
@@ -18591,6 +18597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | By the Pier | 207290 | [207290-by-the-pier.json](./207290-by-the-pier.json) |
 | By the World's Wind | 210323 | [210323-by-the-worlds-wind.json](./210323-by-the-worlds-wind.json) |
 | By Your Side | 134864 | [134864-by-your-side.json](./134864-by-your-side.json) |
+| Byakko-tai Samurai Boys | 146942 | [146942-byakko-tai-samurai-boys.json](./146942-byakko-tai-samurai-boys.json) |
 | Byakko: Shijin Butai Enrenki | 342755 | [342755-byakko-shijin-butai-enrenki.json](./342755-byakko-shijin-butai-enrenki.json) |
 | Byakuya Monogatari: Winchester-ke no Matsuei | 287633 | [287633-byakuya-monogatari-winchester-ke-no-matsuei.json](./287633-byakuya-monogatari-winchester-ke-no-matsuei.json) |
 | Byakuya Museum | 249723 | [249723-byakuya-museum.json](./249723-byakuya-museum.json) |
