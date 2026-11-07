@@ -2272,6 +2272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darksiders III: Collector's Edition | 45985 | [45985-darksiders-iii-collectors-edition.json](./45985-darksiders-iii-collectors-edition.json) |
 | Darksiders III: DLC Bundle | 227112 | [227112-darksiders-iii-dlc-bundle.json](./227112-darksiders-iii-dlc-bundle.json) |
 | Darksiders III: The Crucible | 115645 | [115645-darksiders-iii-the-crucible.json](./115645-darksiders-iii-the-crucible.json) |
+| Darksiders: Blades & Whip Franchise Pack | 155255 | [155255-darksiders-blades-and-whip-franchise-pack.json](./155255-darksiders-blades-and-whip-franchise-pack.json) |
 | Darksiders: Fury's Collection - War and Death | 28408 | [28408-darksiders-furys-collection-war-and-death.json](./28408-darksiders-furys-collection-war-and-death.json) |
 | Darksiders: Genesis - Nephilim Edition | 121201 | [121201-darksiders-genesis-nephilim-edition.json](./121201-darksiders-genesis-nephilim-edition.json) |
 | Darksiders: Warmastered Edition | 25081 | [25081-darksiders-warmastered-edition.json](./25081-darksiders-warmastered-edition.json) |
@@ -8545,6 +8546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond Hollow II | 286650 | [286650-diamond-hollow-ii.json](./286650-diamond-hollow-ii.json) |
 | Diamond Hunt | 108926 | [108926-diamond-hunt.json](./108926-diamond-hunt.json) |
 | Diamond Hunt | 371575 | [371575-diamond-hunt.json](./371575-diamond-hunt.json) |
+| Diamond Hunter | 155269 | [155269-diamond-hunter.json](./155269-diamond-hunter.json) |
 | Diamond Joyce and the Secrets of Crystal Cave | 31960 | [31960-diamond-joyce-and-the-secrets-of-crystal-cave.json](./31960-diamond-joyce-and-the-secrets-of-crystal-cave.json) |
 | Diamond Lady | 81359 | [81359-diamond-lady.json](./81359-diamond-lady.json) |
 | Diamond love | 111496 | [111496-diamond-love.json](./111496-diamond-love.json) |
@@ -12639,6 +12641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Mind Liam | 317066 | [317066-dont-mind-liam.json](./317066-dont-mind-liam.json) |
 | Don't Mind the Robots | 356596 | [356596-dont-mind-the-robots.json](./356596-dont-mind-the-robots.json) |
 | Don't Miss | 184222 | [184222-dont-miss.json](./184222-dont-miss.json) |
+| Don't Miss the King | 155263 | [155263-dont-miss-the-king.json](./155263-dont-miss-the-king.json) |
 | Don't Move | 346726 | [346726-dont-move.json](./346726-dont-move.json) |
 | Don't Move | 36126 | [36126-dont-move.json](./36126-dont-move.json) |
 | Don't Not Live | 259508 | [259508-dont-not-live.json](./259508-dont-not-live.json) |
@@ -14472,6 +14475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr.Tool Mathe Trainer und Nonogram | 91619 | [91619-dr-tool-mathe-trainer-und-nonogram.json](./91619-dr-tool-mathe-trainer-und-nonogram.json) |
 | Dr.Tool Toy Factory | 78928 | [78928-dr-tool-toy-factory.json](./78928-dr-tool-toy-factory.json) |
 | DR2 Night Janki | 247502 | [247502-dr2-night-janki.json](./247502-dr2-night-janki.json) |
+| Drabidiboo | 155264 | [155264-drabidiboo.json](./155264-drabidiboo.json) |
 | DraBot | 401475 | [401475-drabot.json](./401475-drabot.json) |
 | Drac is Back | 285298 | [285298-drac-is-back.json](./285298-drac-is-back.json) |
 | Drac's Night Out | 48643 | [48643-dracs-night-out.json](./48643-dracs-night-out.json) |
@@ -16207,6 +16211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Sports Platform | 291793 | [291793-dream-sports-platform.json](./291793-dream-sports-platform.json) |
 | Dream Square: Hinagata Akiko | 216418 | [216418-dream-square-hinagata-akiko.json](./216418-dream-square-hinagata-akiko.json) |
 | Dream Station | 318820 | [318820-dream-station.json](./318820-dream-station.json) |
+| Dream Stone 2 | 155292 | [155292-dream-stone-2.json](./155292-dream-stone-2.json) |
 | Dream Storm | 189047 | [189047-dream-storm.json](./189047-dream-storm.json) |
 | Dream Story: Origin | 116012 | [116012-dream-story-origin.json](./116012-dream-story-origin.json) |
 | Dream Survivors | 297085 | [297085-dream-survivors.json](./297085-dream-survivors.json) |
@@ -18291,6 +18296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Fighter Live: Fall of Hendon Myre | 65266 | [65266-dungeon-fighter-live-fall-of-hendon-myre.json](./65266-dungeon-fighter-live-fall-of-hendon-myre.json) |
 | Dungeon Fighter Online | 26606 | [26606-dungeon-fighter-online.json](./26606-dungeon-fighter-online.json) |
 | Dungeon Fighter Online M | 194079 | [194079-dungeon-fighter-online-m.json](./194079-dungeon-fighter-online-m.json) |
+| Dungeon Fighter Online: Dynasty Guardian Pack | 155267 | [155267-dungeon-fighter-online-dynasty-guardian-pack.json](./155267-dungeon-fighter-online-dynasty-guardian-pack.json) |
 | Dungeon Flowy | 320612 | [320612-dungeon-flowy.json](./320612-dungeon-flowy.json) |
 | Dungeon Forge | 373181 | [373181-dungeon-forge.json](./373181-dungeon-forge.json) |
 | Dungeon Frontier | 130294 | [130294-dungeon-frontier.json](./130294-dungeon-frontier.json) |
@@ -18876,6 +18882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Dreadrock | 194009 | [194009-dungeons-of-dreadrock.json](./194009-dungeons-of-dreadrock.json) |
 | Dungeons of Dreadrock 2: The Dead King´s Secret | 314393 | [314393-dungeons-of-dreadrock-2-the-dead-king-s-secret.json](./314393-dungeons-of-dreadrock-2-the-dead-king-s-secret.json) |
 | Dungeons of Dredmor: Conquest of the Wizardlands | 172164 | [172164-dungeons-of-dredmor-conquest-of-the-wizardlands.json](./172164-dungeons-of-dredmor-conquest-of-the-wizardlands.json) |
+| Dungeons of Dredmor: Realm of the Diggle Gods | 155251 | [155251-dungeons-of-dredmor-realm-of-the-diggle-gods.json](./155251-dungeons-of-dredmor-realm-of-the-diggle-gods.json) |
 | Dungeons of Dredmor: You Have to Name the Expansion Pack | 169334 | [169334-dungeons-of-dredmor-you-have-to-name-the-expansion-pack.json](./169334-dungeons-of-dredmor-you-have-to-name-the-expansion-pack.json) |
 | Dungeons of Dusk | 380425 | [380425-dungeons-of-dusk.json](./380425-dungeons-of-dusk.json) |
 | Dungeons of Edera | 121986 | [121986-dungeons-of-edera.json](./121986-dungeons-of-edera.json) |
