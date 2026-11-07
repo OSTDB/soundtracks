@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earthworm Jim 4 | 78268 | [78268-earthworm-jim-4.json](./78268-earthworm-jim-4.json) |
 | Earthworm Jim Collection | 237402 | [237402-earthworm-jim-collection.json](./237402-earthworm-jim-collection.json) |
 | Earthworm Jim HD | 20420 | [20420-earthworm-jim-hd.json](./20420-earthworm-jim-hd.json) |
+| Earthworm Jim PSP | 140104 | [140104-earthworm-jim-psp.json](./140104-earthworm-jim-psp.json) |
 | Earthworm Jim: Menace 2 the Galaxy | 3482 | [3482-earthworm-jim-menace-2-the-galaxy.json](./3482-earthworm-jim-menace-2-the-galaxy.json) |
 | Earthworm Jim: Special Edition | 19769 | [19769-earthworm-jim-special-edition.json](./19769-earthworm-jim-special-edition.json) |
 | EarthWorms | 51952 | [51952-earthworms.json](./51952-earthworms.json) |
