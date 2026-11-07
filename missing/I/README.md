@@ -1482,6 +1482,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Empires | 99913 | [99913-idle-empires.json](./99913-idle-empires.json) |
 | Idle Exorcism Hero | 270167 | [270167-idle-exorcism-hero.json](./270167-idle-exorcism-hero.json) |
 | Idle Expanse | 138599 | [138599-idle-expanse.json](./138599-idle-expanse.json) |
+| Idle Expanse: Chronoscope Technology | 171200 | [171200-idle-expanse-chronoscope-technology.json](./171200-idle-expanse-chronoscope-technology.json) |
+| Idle Expanse: Reality Shifter | 171199 | [171199-idle-expanse-reality-shifter.json](./171199-idle-expanse-reality-shifter.json) |
 | Idle Factory | 211625 | [211625-idle-factory.json](./211625-idle-factory.json) |
 | Idle Factory Tycoon | 99142 | [99142-idle-factory-tycoon.json](./99142-idle-factory-tycoon.json) |
 | Idle Farming Business | 340062 | [340062-idle-farming-business.json](./340062-idle-farming-business.json) |
@@ -2662,6 +2664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperium: Galactic War Classic | 244922 | [244922-imperium-galactic-war-classic.json](./244922-imperium-galactic-war-classic.json) |
 | Imperiums: Greek Wars - Age of Alexander | 174162 | [174162-imperiums-greek-wars-age-of-alexander.json](./174162-imperiums-greek-wars-age-of-alexander.json) |
 | Imperiums: Rome vs. Carthage | 214277 | [214277-imperiums-rome-vs-carthage.json](./214277-imperiums-rome-vs-carthage.json) |
+| Imperiums: Troy | 171149 | [171149-imperiums-troy.json](./171149-imperiums-troy.json) |
 | Imperius | 195640 | [195640-imperius.json](./195640-imperius.json) |
 | Imperivm III: Great Battles of Rome | 290 | [290-imperivm-iii-great-battles-of-rome.json](./290-imperivm-iii-great-battles-of-rome.json) |
 | Imperivm: Great Battles of Rome - HD Edition | 165540 | [165540-imperivm-great-battles-of-rome-hd-edition.json](./165540-imperivm-great-battles-of-rome-hd-edition.json) |
