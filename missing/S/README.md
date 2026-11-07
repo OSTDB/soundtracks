@@ -28815,6 +28815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | String Tyrant | 135701 | [135701-string-tyrant.json](./135701-string-tyrant.json) |
 | String.io | 108445 | [108445-string-io.json](./108445-string-io.json) |
 | Strings | 128297 | [128297-strings.json](./128297-strings.json) |
+| Strings of Divinity: The Spell Plague | 163584 | [163584-strings-of-divinity-the-spell-plague.json](./163584-strings-of-divinity-the-spell-plague.json) |
 | Strings of Fate XI: Magic Dream | 327008 | [327008-strings-of-fate-xi-magic-dream.json](./327008-strings-of-fate-xi-magic-dream.json) |
 | Strings of Light | 180601 | [180601-strings-of-light.json](./180601-strings-of-light.json) |
 | Strings Theory | 139218 | [139218-strings-theory.json](./139218-strings-theory.json) |
