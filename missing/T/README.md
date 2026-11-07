@@ -27354,6 +27354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Traceability | 242955 | [242955-tower-of-traceability.json](./242955-tower-of-traceability.json) |
 | Tower of Trample | 346168 | [346168-tower-of-trample.json](./346168-tower-of-trample.json) |
 | Tower of unlife | 180831 | [180831-tower-of-unlife.json](./180831-tower-of-unlife.json) |
+| Tower of Waifus | 158318 | [158318-tower-of-waifus.json](./158318-tower-of-waifus.json) |
 | Tower of Waifus 2 | 148565 | [148565-tower-of-waifus-2.json](./148565-tower-of-waifus-2.json) |
 | Tower of Whispers | 288578 | [288578-tower-of-whispers.json](./288578-tower-of-whispers.json) |
 | Tower of Winter | 240885 | [240885-tower-of-winter.json](./240885-tower-of-winter.json) |
