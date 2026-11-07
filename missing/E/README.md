@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E-Police | 341531 | [341531-e-police.json](./341531-e-police.json) |
 | E-Reader 5-Card Sample Pack | 355538 | [355538-e-reader-5-card-sample-pack.json](./355538-e-reader-5-card-sample-pack.json) |
 | e-River Cabin Journal | 32452 | [32452-e-river-cabin-journal.json](./32452-e-river-cabin-journal.json) |
+| E-scape | 186962 | [186962-e-scape.json](./186962-e-scape.json) |
 | E-Shop Tycoon | 293624 | [293624-e-shop-tycoon.json](./293624-e-shop-tycoon.json) |
 | E-Shop Tycoon | 390034 | [390034-e-shop-tycoon.json](./390034-e-shop-tycoon.json) |
 | E-Startup | 96707 | [96707-e-startup.json](./96707-e-startup.json) |
@@ -66,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E's Laf++ | 135903 | [135903-es-laf.json](./135903-es-laf.json) |
 | E'tude Prologue: Yureugoku Kokoro no Katachi | 204482 | [204482-etude-prologue-yureugoku-kokoro-no-katachi.json](./204482-etude-prologue-yureugoku-kokoro-no-katachi.json) |
 | E'tude Prologue: Yureugoku Kokoro no Katachi Portable | 127143 | [127143-etude-prologue-yureugoku-kokoro-no-katachi-portable.json](./127143-etude-prologue-yureugoku-kokoro-no-katachi-portable.json) |
+| E>scape Nature Simulator | 186963 | [186963-e-scape-nature-simulator.json](./186963-e-scape-nature-simulator.json) |
 | E008 | 153129 | [153129-e008.json](./153129-e008.json) |
 | E06-Anomaly | 118616 | [118616-e06-anomaly.json](./118616-e06-anomaly.json) |
 | E13ven Minute Train Ride | 340546 | [340546-e13ven-minute-train-ride.json](./340546-e13ven-minute-train-ride.json) |
@@ -5207,6 +5209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Mars | 183949 | [183949-escape-from-mars.json](./183949-escape-from-mars.json) |
 | Escape From Meat City | 215877 | [215877-escape-from-meat-city.json](./215877-escape-from-meat-city.json) |
 | Escape from Mental Hospital | 377217 | [377217-escape-from-mental-hospital.json](./377217-escape-from-mental-hospital.json) |
+| Escape from Mirrorland: The Adventures of Nyanzou & Kumakichi - Escape Game Series | 186947 | [186947-escape-from-mirrorland-the-adventures-of-nyanzou-and-kumakichi-escape-game-series.json](./186947-escape-from-mirrorland-the-adventures-of-nyanzou-and-kumakichi-escape-game-series.json) |
 | Escape from MLC | 211531 | [211531-escape-from-mlc.json](./211531-escape-from-mlc.json) |
 | Escape from Monkey Island | 63 | [63-escape-from-monkey-island.json](./63-escape-from-monkey-island.json) |
 | Escape From Monster | 163294 | [163294-escape-from-monster.json](./163294-escape-from-monster.json) |
