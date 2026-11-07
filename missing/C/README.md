@@ -1993,6 +1993,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Underpants' Mischievous Mazemaster 2001 | 425853 | [425853-captain-underpants-mischievous-mazemaster-2001.json](./425853-captain-underpants-mischievous-mazemaster-2001.json) |
 | Captain Velvet Meteor: The Jump+ Dimensions | 194946 | [194946-captain-velvet-meteor-the-jump-dimensions.json](./194946-captain-velvet-meteor-the-jump-dimensions.json) |
 | Captain Verdeterre's Plunder | 216438 | [216438-captain-verdeterres-plunder.json](./216438-captain-verdeterres-plunder.json) |
+| Captain vs. Sky Pirates: Evil Village | 171178 | [171178-captain-vs-sky-pirates-evil-village.json](./171178-captain-vs-sky-pirates-evil-village.json) |
+| Captain vs. Sky Pirates: Forest | 171176 | [171176-captain-vs-sky-pirates-forest.json](./171176-captain-vs-sky-pirates-forest.json) |
+| Captain vs. Sky Pirates: Moon Base | 171177 | [171177-captain-vs-sky-pirates-moon-base.json](./171177-captain-vs-sky-pirates-moon-base.json) |
+| Captain vs. Sky Pirates: Post Apocalyptic City | 171175 | [171175-captain-vs-sky-pirates-post-apocalyptic-city.json](./171175-captain-vs-sky-pirates-post-apocalyptic-city.json) |
 | Captain Wayne: Vacation Desperation | 241378 | [241378-captain-wayne-vacation-desperation.json](./241378-captain-wayne-vacation-desperation.json) |
 | Captain Whiskers: Incremental Seas | 386443 | [386443-captain-whiskers-incremental-seas.json](./386443-captain-whiskers-incremental-seas.json) |
 | Captain Willie | 285033 | [285033-captain-willie.json](./285033-captain-willie.json) |
@@ -6442,6 +6446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chat Arena | 115424 | [115424-chat-arena.json](./115424-chat-arena.json) |
 | Chat Guess Games | 280857 | [280857-chat-guess-games.json](./280857-chat-guess-games.json) |
 | Chat is Real | 329453 | [329453-chat-is-real.json](./329453-chat-is-real.json) |
+| Chat Millions: Stream Quiz Game | 171152 | [171152-chat-millions-stream-quiz-game.json](./171152-chat-millions-stream-quiz-game.json) |
 | Chat Noir | 319438 | [319438-chat-noir.json](./319438-chat-noir.json) |
 | Chat Ragdoll Racing | 332288 | [332288-chat-ragdoll-racing.json](./332288-chat-ragdoll-racing.json) |
 | Chat Showdown - A twitch streamer's game! | 81261 | [81261-chat-showdown-a-twitch-streamers-game.json](./81261-chat-showdown-a-twitch-streamers-game.json) |
@@ -15827,6 +15832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoverQuest | 294456 | [294456-coverquest.json](./294456-coverquest.json) |
 | Covert | 112736 | [112736-covert.json](./112736-covert.json) |
 | Covert Command | 65507 | [65507-covert-command.json](./65507-covert-command.json) |
+| Covert Commando | 171179 | [171179-covert-commando.json](./171179-covert-commando.json) |
 | Covert Crew | 303740 | [303740-covert-crew.json](./303740-covert-crew.json) |
 | Covert Critter | 212300 | [212300-covert-critter.json](./212300-covert-critter.json) |
 | Covert Front | 213617 | [213617-covert-front.json](./213617-covert-front.json) |
