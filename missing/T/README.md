@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taisen Net Gimmick: Capcom & Psikyo All Stars | 79738 | [79738-taisen-net-gimmick-capcom-and-psikyo-all-stars.json](./79738-taisen-net-gimmick-capcom-and-psikyo-all-stars.json) |
 | Taisen Panic Bomber | 198031 | [198031-taisen-panic-bomber.json](./198031-taisen-panic-bomber.json) |
 | Taisen Panic Bomber + | 198205 | [198205-taisen-panic-bomber.json](./198205-taisen-panic-bomber.json) |
+| Taisen Renai Simulation: Trifels Mahou Gakuen | 166384 | [166384-taisen-renai-simulation-trifels-mahou-gakuen.json](./166384-taisen-renai-simulation-trifels-mahou-gakuen.json) |
 | Taisen Reversi | 198209 | [198209-taisen-reversi.json](./198209-taisen-reversi.json) |
 | Taisen Reversi Cross | 198210 | [198210-taisen-reversi-cross.json](./198210-taisen-reversi-cross.json) |
 | Taisen Tokkae Dama | 283394 | [283394-taisen-tokkae-dama.json](./283394-taisen-tokkae-dama.json) |
@@ -3157,6 +3158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teazle 2 | 206609 | [206609-teazle-2.json](./206609-teazle-2.json) |
 | Tebb And The Chistorbes | 232961 | [232961-tebb-and-the-chistorbes.json](./232961-tebb-and-the-chistorbes.json) |
 | Tebeo | 215147 | [215147-tebeo.json](./215147-tebeo.json) |
+| Tec | 166352 | [166352-tec.json](./166352-tec.json) |
 | Tech and Blood | 181864 | [181864-tech-and-blood.json](./181864-tech-and-blood.json) |
 | Tech Annihilation | 58405 | [58405-tech-annihilation.json](./58405-tech-annihilation.json) |
 | Tech Bike Freestyle | 206610 | [206610-tech-bike-freestyle.json](./206610-tech-bike-freestyle.json) |
@@ -5988,6 +5990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Architect | 35128 | [35128-the-architect.json](./35128-the-architect.json) |
 | The Architect Pack | 348520 | [348520-the-architect-pack.json](./348520-the-architect-pack.json) |
 | The Architect: Paris | 74414 | [74414-the-architect-paris.json](./74414-the-architect-paris.json) |
+| The Architect's Game | 166356 | [166356-the-architects-game.json](./166356-the-architects-game.json) |
 | The Architects of the Universe: The Orbital Wars | 402294 | [402294-the-architects-of-the-universe-the-orbital-wars.json](./402294-the-architects-of-the-universe-the-orbital-wars.json) |
 | The Architects of the Universe: The Orphans | 294022 | [294022-the-architects-of-the-universe-the-orphans.json](./294022-the-architects-of-the-universe-the-orphans.json) |
 | The Archive | 387637 | [387637-the-archive.json](./387637-the-archive.json) |
@@ -31935,6 +31938,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Love For Her | 297042 | [297042-true-love-for-her.json](./297042-true-love-for-her.json) |
 | True Love Story | 137873 | [137873-true-love-story.json](./137873-true-love-story.json) |
 | True Love Story 3 | 138012 | [138012-true-love-story-3.json](./138012-true-love-story-3.json) |
+| True Love Story F - Fan Disc | 166380 | [166380-true-love-story-f-fan-disc.json](./166380-true-love-story-f-fan-disc.json) |
+| True Love Story: Remember My Heart | 166378 | [166378-true-love-story-remember-my-heart.json](./166378-true-love-story-remember-my-heart.json) |
 | True Love Story: Summer Days, and yet... | 137979 | [137979-true-love-story-summer-days-and-yet.json](./137979-true-love-story-summer-days-and-yet.json) |
 | True Love Sweet Lies | 238887 | [238887-true-love-sweet-lies.json](./238887-true-love-sweet-lies.json) |
 | True Love: Confide to the Maple | 32266 | [32266-true-love-confide-to-the-maple.json](./32266-true-love-confide-to-the-maple.json) |
