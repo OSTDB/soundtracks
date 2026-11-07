@@ -1927,6 +1927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underverse Battles | 261870 | [261870-underverse-battles.json](./261870-underverse-battles.json) |
 | Underward | 329494 | [329494-underward.json](./329494-underward.json) |
 | Underwater | 148361 | [148361-underwater.json](./148361-underwater.json) |
+| Underwater | 152958 | [152958-underwater.json](./152958-underwater.json) |
 | Underwater | 156217 | [156217-underwater.json](./156217-underwater.json) |
 | Underwater | 385399 | [385399-underwater.json](./385399-underwater.json) |
 | Underwater Abyss | 324264 | [324264-underwater-abyss.json](./324264-underwater-abyss.json) |
