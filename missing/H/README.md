@@ -1441,6 +1441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangman | 388282 | [388282-hangman.json](./388282-hangman.json) |
 | Hangman | 74168 | [74168-hangman.json](./74168-hangman.json) |
 | Hangman 2 | 181652 | [181652-hangman-2.json](./181652-hangman-2.json) |
+| Hangman Adventure | 141330 | [141330-hangman-adventure.json](./141330-hangman-adventure.json) |
 | Hangman for Windows | 83452 | [83452-hangman-for-windows.json](./83452-hangman-for-windows.json) |
 | Hangman Hijinks | 366435 | [366435-hangman-hijinks.json](./366435-hangman-hijinks.json) |
 | Hangman II | 248920 | [248920-hangman-ii.json](./248920-hangman-ii.json) |
@@ -5997,6 +5998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Planter | 244929 | [244929-hero-planter.json](./244929-hero-planter.json) |
 | Hero Plus | 76444 | [76444-hero-plus.json](./76444-hero-plus.json) |
 | Hero Pop | 151603 | [151603-hero-pop.json](./151603-hero-pop.json) |
+| Hero Puzzle | 141384 | [141384-hero-puzzle.json](./141384-hero-puzzle.json) |
 | Hero Quest | 331670 | [331670-hero-quest.json](./331670-hero-quest.json) |
 | Hero Quest: Tower Conflict | 33248 | [33248-hero-quest-tower-conflict.json](./33248-hero-quest-tower-conflict.json) |
 | Hero Raging Fire | 164180 | [164180-hero-raging-fire.json](./164180-hero-raging-fire.json) |
@@ -6095,6 +6097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's Realm | 122883 | [122883-heros-realm.json](./122883-heros-realm.json) |
 | Hero's Saga Laevatein Tactics | 21034 | [21034-heros-saga-laevatein-tactics.json](./21034-heros-saga-laevatein-tactics.json) |
 | Hero's Song | 25870 | [25870-heros-song.json](./25870-heros-song.json) |
+| Hero's Spirit | 141380 | [141380-heros-spirit.json](./141380-heros-spirit.json) |
 | Hero's Story | 91220 | [91220-heros-story.json](./91220-heros-story.json) |
 | Hero's War | 224214 | [224214-heros-war.json](./224214-heros-war.json) |
 | Hero's Warband | 297913 | [297913-heros-warband.json](./297913-heros-warband.json) |
