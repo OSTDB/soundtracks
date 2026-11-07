@@ -12574,6 +12574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Kitten | 212432 | [212432-hyper-kitten.json](./212432-hyper-kitten.json) |
 | Hyper Knights | 29410 | [29410-hyper-knights.json](./29410-hyper-knights.json) |
 | Hyper Knights: Battles | 75829 | [75829-hyper-knights-battles.json](./75829-hyper-knights-battles.json) |
+| Hyper Knights: Challenges | 155285 | [155285-hyper-knights-challenges.json](./155285-hyper-knights-challenges.json) |
 | Hyper Light Breaker | 194965 | [194965-hyper-light-breaker.json](./194965-hyper-light-breaker.json) |
 | Hyper Light Drifter: Special Edition | 107295 | [107295-hyper-light-drifter-special-edition.json](./107295-hyper-light-drifter-special-edition.json) |
 | Hyper Light Knight | 140222 | [140222-hyper-light-knight.json](./140222-hyper-light-knight.json) |
