@@ -2240,6 +2240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanx | 296009 | [296009-tanx.json](./296009-tanx.json) |
 | Tanx | 71058 | [71058-tanx.json](./71058-tanx.json) |
 | Tanxl | 412622 | [412622-tanxl.json](./412622-tanxl.json) |
+| Tanxy | 173946 | [173946-tanxy.json](./173946-tanxy.json) |
 | Tanya Grotter And Magic Double Bass | 366377 | [366377-tanya-grotter-and-magic-double-bass.json](./366377-tanya-grotter-and-magic-double-bass.json) |
 | Tanzanite Crush | 282548 | [282548-tanzanite-crush.json](./282548-tanzanite-crush.json) |
 | TanZen HD | 100144 | [100144-tanzen-hd.json](./100144-tanzen-hd.json) |
@@ -2669,6 +2670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tatakae Butasan | 221579 | [221579-tatakae-butasan.json](./221579-tatakae-butasan.json) |
 | Tatakae RX! | 218246 | [218246-tatakae-rx.json](./218246-tatakae-rx.json) |
 | Tatakae! Draft Redder | 385811 | [385811-tatakae-draft-redder.json](./385811-tatakae-draft-redder.json) |
+| Tatakae! Harmonia Ongaku-tai | 173909 | [173909-tatakae-harmonia-ongaku-tai.json](./173909-tatakae-harmonia-ongaku-tai.json) |
 | Tatakae! Juohmaru | 218243 | [218243-tatakae-juohmaru.json](./218243-tatakae-juohmaru.json) |
 | Tatakae! KitadeMan | 173078 | [173078-tatakae-kitademan.json](./173078-tatakae-kitademan.json) |
 | Tatakae! Pro Yakyuu Twin League | 209780 | [209780-tatakae-pro-yakyuu-twin-league.json](./209780-tatakae-pro-yakyuu-twin-league.json) |
@@ -8200,6 +8202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deal | 30118 | [30118-the-deal.json](./30118-the-deal.json) |
 | The Dealer | 234805 | [234805-the-dealer.json](./234805-the-dealer.json) |
 | The Dearest Person | 301630 | [301630-the-dearest-person.json](./301630-the-dearest-person.json) |
+| The Death | 173939 | [173939-the-death.json](./173939-the-death.json) |
 | The Death and Return of Superman | 453 | [453-the-death-and-return-of-superman.json](./453-the-death-and-return-of-superman.json) |
 | The Death and the Vampire | 409818 | [409818-the-death-and-the-vampire.json](./409818-the-death-and-the-vampire.json) |
 | The Death Focal | 277448 | [277448-the-death-focal.json](./277448-the-death-focal.json) |
@@ -16983,6 +16986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sokoban | 175811 | [175811-the-sokoban.json](./175811-the-sokoban.json) |
 | The Sokpop Collection | 131559 | [131559-the-sokpop-collection.json](./131559-the-sokpop-collection.json) |
 | The SOL Device | 104524 | [104524-the-sol-device.json](./104524-the-sol-device.json) |
+| The Sol Device 2 | 173921 | [173921-the-sol-device-2.json](./173921-the-sol-device-2.json) |
 | The Solace of Flowers | 376691 | [376691-the-solace-of-flowers.json](./376691-the-solace-of-flowers.json) |
 | The Solace Paradox | 258303 | [258303-the-solace-paradox.json](./258303-the-solace-paradox.json) |
 | The Solar Queen | 262838 | [262838-the-solar-queen.json](./262838-the-solar-queen.json) |
@@ -19606,6 +19610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Call of the Wild - Yukon Valley | 153079 | [153079-thehunter-call-of-the-wild-yukon-valley.json](./153079-thehunter-call-of-the-wild-yukon-valley.json) |
 | TheHunter: Call of the Wild - Yukon Valley Cosmetic Pack | 280374 | [280374-thehunter-call-of-the-wild-yukon-valley-cosmetic-pack.json](./280374-thehunter-call-of-the-wild-yukon-valley-cosmetic-pack.json) |
 | TheHunter: Primal | 10347 | [10347-thehunter-primal.json](./10347-thehunter-primal.json) |
+| Theiaology | 173918 | [173918-theiaology.json](./173918-theiaology.json) |
 | Their Aftermath | 364386 | [364386-their-aftermath.json](./364386-their-aftermath.json) |
 | Their Eyes | 166000 | [166000-their-eyes.json](./166000-their-eyes.json) |
 | Their Finest Hour: The Battle of Britain | 208 | [208-their-finest-hour-the-battle-of-britain.json](./208-their-finest-hour-the-battle-of-britain.json) |
