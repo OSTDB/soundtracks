@@ -5627,6 +5627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aironauts | 43750 | [43750-aironauts.json](./43750-aironauts.json) |
 | AironBall: The Floating Lands | 44225 | [44225-aironball-the-floating-lands.json](./44225-aironball-the-floating-lands.json) |
 | Airplane | 303327 | [303327-airplane.json](./303327-airplane.json) |
+| Airplane Arena | 192509 | [192509-airplane-arena.json](./192509-airplane-arena.json) |
 | Airplane Attack | 358847 | [358847-airplane-attack.json](./358847-airplane-attack.json) |
 | Airplane Chefs | 142762 | [142762-airplane-chefs.json](./142762-airplane-chefs.json) |
 | Airplane Delivery Simulator 2024: Realistic Geographical | 300962 | [300962-airplane-delivery-simulator-2024-realistic-geographical.json](./300962-airplane-delivery-simulator-2024-realistic-geographical.json) |
