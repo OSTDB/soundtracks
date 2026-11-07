@@ -16735,6 +16735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crawler | 166933 | [166933-crawler.json](./166933-crawler.json) |
 | Crawler | 293038 | [293038-crawler.json](./293038-crawler.json) |
 | Crawler | 380096 | [380096-crawler.json](./380096-crawler.json) |
+| Crawlerphobia | 142573 | [142573-crawlerphobia.json](./142573-crawlerphobia.json) |
 | Crawlies | 181840 | [181840-crawlies.json](./181840-crawlies.json) |
 | Crawlies Re-Hatched | 418719 | [418719-crawlies-re-hatched.json](./418719-crawlies-re-hatched.json) |
 | Crawling Angels | 374864 | [374864-crawling-angels.json](./374864-crawling-angels.json) |
