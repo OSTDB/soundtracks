@@ -398,6 +398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zball VI | 158574 | [158574-zball-vi.json](./158574-zball-vi.json) |
 | ZBloody Hell | 195858 | [195858-zbloody-hell.json](./195858-zbloody-hell.json) |
 | Zbuki Zoo Strategic Comedy | 265259 | [265259-zbuki-zoo-strategic-comedy.json](./265259-zbuki-zoo-strategic-comedy.json) |
+| ZCB Simulator | 179812 | [179812-zcb-simulator.json](./179812-zcb-simulator.json) |
 | ZCrew | 141739 | [141739-zcrew.json](./141739-zcrew.json) |
 | Zcrew: The Void Realm | 246757 | [246757-zcrew-the-void-realm.json](./246757-zcrew-the-void-realm.json) |
 | ZCurse | 348757 | [348757-zcurse.json](./348757-zcurse.json) |
