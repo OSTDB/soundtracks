@@ -7533,6 +7533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excavator Master 3D | 224053 | [224053-excavator-master-3d.json](./224053-excavator-master-3d.json) |
 | Excavator Simulator | 195369 | [195369-excavator-simulator.json](./195369-excavator-simulator.json) |
 | Excavator Simulator 2018 | 100865 | [100865-excavator-simulator-2018.json](./100865-excavator-simulator-2018.json) |
+| Excavator Simulator VR | 151339 | [151339-excavator-simulator-vr.json](./151339-excavator-simulator-vr.json) |
 | Excavatorrr | 242574 | [242574-excavatorrr.json](./242574-excavatorrr.json) |
 | Excave | 82595 | [82595-excave.json](./82595-excave.json) |
 | eXceed 2nd: Vampire | 229550 | [229550-exceed-2nd-vampire.json](./229550-exceed-2nd-vampire.json) |
