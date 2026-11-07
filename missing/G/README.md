@@ -2939,6 +2939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genesis of Destiny | 57539 | [57539-genesis-of-destiny.json](./57539-genesis-of-destiny.json) |
 | Genesis of Drones | 35422 | [35422-genesis-of-drones.json](./35422-genesis-of-drones.json) |
 | Genesis Online | 34281 | [34281-genesis-online.json](./34281-genesis-online.json) |
+| Genesis Quest | 142000 | [142000-genesis-quest.json](./142000-genesis-quest.json) |
 | Genesis Relic: Idle Sandbox Simulator | 374396 | [374396-genesis-relic-idle-sandbox-simulator.json](./374396-genesis-relic-idle-sandbox-simulator.json) |
 | Genesis Rising | 10358 | [10358-genesis-rising.json](./10358-genesis-rising.json) |
 | Genesis Rising: The Universal Crusade | 50391 | [50391-genesis-rising-the-universal-crusade.json](./50391-genesis-rising-the-universal-crusade.json) |
