@@ -792,11 +792,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maestro Mario | 328592 | [328592-maestro-mario.json](./328592-maestro-mario.json) |
 | Maestro VR | 174017 | [174017-maestro-vr.json](./174017-maestro-vr.json) |
 | Maestro: Attack on Titan | 414808 | [414808-maestro-attack-on-titan.json](./414808-maestro-attack-on-titan.json) |
+| Maestro: Dark Talent | 140137 | [140137-maestro-dark-talent.json](./140137-maestro-dark-talent.json) |
 | Maestro: Dark Talent - Collector's Edition | 114065 | [114065-maestro-dark-talent-collectors-edition.json](./114065-maestro-dark-talent-collectors-edition.json) |
 | Maestro: Duel of the Fates | 344161 | [344161-maestro-duel-of-the-fates.json](./344161-maestro-duel-of-the-fates.json) |
 | Maestro: La Crème de la Crème | 371280 | [371280-maestro-la-creme-de-la-creme.json](./371280-maestro-la-creme-de-la-creme.json) |
+| Maestro: Music from the Void | 140138 | [140138-maestro-music-from-the-void.json](./140138-maestro-music-from-the-void.json) |
 | Maestro: Music from the Void - Collector's Edition | 104804 | [104804-maestro-music-from-the-void-collectors-edition.json](./104804-maestro-music-from-the-void-collectors-edition.json) |
+| Maestro: Music of Death | 140139 | [140139-maestro-music-of-death.json](./140139-maestro-music-of-death.json) |
 | Maestro: Music of Death - Collector's Edition | 37012 | [37012-maestro-music-of-death-collectors-edition.json](./37012-maestro-music-of-death-collectors-edition.json) |
+| Maestro: Notes of Life | 140140 | [140140-maestro-notes-of-life.json](./140140-maestro-notes-of-life.json) |
 | Maestro: Notes of Life - Collector's Edition | 84029 | [84029-maestro-notes-of-life-collectors-edition.json](./84029-maestro-notes-of-life-collectors-edition.json) |
 | Maestro! Green Groove | 67080 | [67080-maestro-green-groove.json](./67080-maestro-green-groove.json) |
 | Maestro! Jump in Music | 22980 | [22980-maestro-jump-in-music.json](./22980-maestro-jump-in-music.json) |
@@ -11366,6 +11370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Outlaw: Illegal Street Drag | 71990 | [71990-midnight-outlaw-illegal-street-drag.json](./71990-midnight-outlaw-illegal-street-drag.json) |
 | Midnight Outlaw: Illegal Street Drag - Nitro Edition | 73194 | [73194-midnight-outlaw-illegal-street-drag-nitro-edition.json](./73194-midnight-outlaw-illegal-street-drag-nitro-edition.json) |
 | Midnight Overtime | 385445 | [385445-midnight-overtime.json](./385445-midnight-overtime.json) |
+| Midnight Paradise | 140111 | [140111-midnight-paradise.json](./140111-midnight-paradise.json) |
 | Midnight Play! Pack | 123355 | [123355-midnight-play-pack.json](./123355-midnight-play-pack.json) |
 | Midnight Pool | 21800 | [21800-midnight-pool.json](./21800-midnight-pool.json) |
 | Midnight Pool | 239485 | [239485-midnight-pool.json](./239485-midnight-pool.json) |
