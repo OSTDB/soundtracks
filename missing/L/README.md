@@ -5532,6 +5532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lingotopia | 102359 | [102359-lingotopia.json](./102359-lingotopia.json) |
 | LingTian 2: Your Destined Prince | 334525 | [334525-lingtian-2-your-destined-prince.json](./334525-lingtian-2-your-destined-prince.json) |
 | LingTian1 | 292995 | [292995-lingtian1.json](./292995-lingtian1.json) |
+| Língua | 172873 | [172873-lingua.json](./172873-lingua.json) |
 | Lingua Fleur: Lily | 112700 | [112700-lingua-fleur-lily.json](./112700-lingua-fleur-lily.json) |
 | Lingua Franca | 371920 | [371920-lingua-franca.json](./371920-lingua-franca.json) |
 | Linguist FPS: The Language Learning FPS | 202108 | [202108-linguist-fps-the-language-learning-fps.json](./202108-linguist-fps-the-language-learning-fps.json) |
@@ -7751,6 +7752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of the Click 3 | 197410 | [197410-lord-of-the-click-3.json](./197410-lord-of-the-click-3.json) |
 | Lord of the Click 4 | 331469 | [331469-lord-of-the-click-4.json](./331469-lord-of-the-click-4.json) |
 | Lord of the Click 5 | 347778 | [347778-lord-of-the-click-5.json](./347778-lord-of-the-click-5.json) |
+| Lord of the Click II | 172857 | [172857-lord-of-the-click-ii.json](./172857-lord-of-the-click-ii.json) |
 | Lord of the Click: Interstellar Wars | 250546 | [250546-lord-of-the-click-interstellar-wars.json](./250546-lord-of-the-click-interstellar-wars.json) |
 | Lord of the Cyberdemons | 263364 | [263364-lord-of-the-cyberdemons.json](./263364-lord-of-the-cyberdemons.json) |
 | Lord of the Dark Castle | 35761 | [35761-lord-of-the-dark-castle.json](./35761-lord-of-the-dark-castle.json) |
@@ -8727,6 +8729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Exalt 8372 | 237566 | [237566-love-exalt-8372.json](./237566-love-exalt-8372.json) |
 | Love Fantasy | 164064 | [164064-love-fantasy.json](./164064-love-fantasy.json) |
 | Love Fashion and Friends | 70598 | [70598-love-fashion-and-friends.json](./70598-love-fashion-and-friends.json) |
+| Love Flute | 172868 | [172868-love-flute.json](./172868-love-flute.json) |
 | Love FMV | 286972 | [286972-love-fmv.json](./286972-love-fmv.json) |
 | Love Football | 7059 | [7059-love-football.json](./7059-love-football.json) |
 | Love Furry Boys: Zodiac Dating App | 330238 | [330238-love-furry-boys-zodiac-dating-app.json](./330238-love-furry-boys-zodiac-dating-app.json) |
