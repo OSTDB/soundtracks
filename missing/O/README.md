@@ -2071,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On the Bubble | 295214 | [295214-on-the-bubble.json](./295214-on-the-bubble.json) |
 | On the Earth Shift | 163241 | [163241-on-the-earth-shift.json](./163241-on-the-earth-shift.json) |
 | On the Fly | 100560 | [100560-on-the-fly.json](./100560-on-the-fly.json) |
+| On the Go | 165251 | [165251-on-the-go.json](./165251-on-the-go.json) |
 | On The Hook | 415951 | [415951-on-the-hook.json](./415951-on-the-hook.json) |
 | On the Hunt | 160065 | [160065-on-the-hunt.json](./160065-on-the-hunt.json) |
 | On the Island of Falling Stars: Chapter 1 | 261074 | [261074-on-the-island-of-falling-stars-chapter-1.json](./261074-on-the-island-of-falling-stars-chapter-1.json) |
@@ -2212,6 +2213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oncoming Death Steam Edition | 36377 | [36377-oncoming-death-steam-edition.json](./36377-oncoming-death-steam-edition.json) |
 | OncPangTzu Man | 116341 | [116341-oncpangtzu-man.json](./116341-oncpangtzu-man.json) |
 | Ondal | 345022 | [345022-ondal.json](./345022-ondal.json) |
+| Onde | 165276 | [165276-onde.json](./165276-onde.json) |
 | Ondeh Ondeh Kaya's Tasty Tale | 417173 | [417173-ondeh-ondeh-kayas-tasty-tale.json](./417173-ondeh-ondeh-kayas-tasty-tale.json) |
 | Ondeki | 148410 | [148410-ondeki.json](./148410-ondeki.json) |
 | Onder | 159781 | [159781-onder.json](./159781-onder.json) |
@@ -2804,6 +2806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One, Two, Three Fiancées?! | 269471 | [269471-one-two-three-fiancees.json](./269471-one-two-three-fiancees.json) |
 | One: Kagayaku Kisetsu he | 72705 | [72705-one-kagayaku-kisetsu-he.json](./72705-one-kagayaku-kisetsu-he.json) |
 | One: Secret Empire | 298657 | [298657-one-secret-empire.json](./298657-one-secret-empire.json) |
+| One: The Card Game | 165223 | [165223-one-the-card-game.json](./165223-one-the-card-game.json) |
 | One's Lonesome, Two's Company | 212804 | [212804-ones-lonesome-twos-company.json](./212804-ones-lonesome-twos-company.json) |
 | One's Own Exile | 344011 | [344011-ones-own-exile.json](./344011-ones-own-exile.json) |
 | One/Iro | 363666 | [363666-one-iro.json](./363666-one-iro.json) |
@@ -3558,6 +3561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Nova | 394793 | [394793-operation-nova.json](./394793-operation-nova.json) |
 | Operation Obliteration 2 | 394113 | [394113-operation-obliteration-2.json](./394113-operation-obliteration-2.json) |
 | Operation Osam Bin Laden | 107370 | [107370-operation-osam-bin-laden.json](./107370-operation-osam-bin-laden.json) |
+| Operation Outsmart | 165242 | [165242-operation-outsmart.json](./165242-operation-outsmart.json) |
 | Operation Pig | 111911 | [111911-operation-pig.json](./111911-operation-pig.json) |
 | Operation Pill | 199098 | [199098-operation-pill.json](./199098-operation-pill.json) |
 | Operation Purge | 374381 | [374381-operation-purge.json](./374381-operation-purge.json) |
@@ -5088,6 +5092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of This World | 343397 | [343397-out-of-this-world.json](./343397-out-of-this-world.json) |
 | Out of This World | 343405 | [343405-out-of-this-world.json](./343405-out-of-this-world.json) |
 | Out of This World | 343451 | [343451-out-of-this-world.json](./343451-out-of-this-world.json) |
+| Out of This World! / Helicopter Rescue! | 165255 | [165255-out-of-this-world-helicopter-rescue.json](./165255-out-of-this-world-helicopter-rescue.json) |
 | Out of Time | 122135 | [122135-out-of-time.json](./122135-out-of-time.json) |
 | Out of Time | 356712 | [356712-out-of-time.json](./356712-out-of-time.json) |
 | Out of Time | 388932 | [388932-out-of-time.json](./388932-out-of-time.json) |
