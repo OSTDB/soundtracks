@@ -765,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echidna Wars DX | 382894 | [382894-echidna-wars-dx.json](./382894-echidna-wars-dx.json) |
 | Echo | 136715 | [136715-echo.json](./136715-echo.json) |
 | Echo | 177546 | [177546-echo.json](./177546-echo.json) |
+| Echo | 185189 | [185189-echo.json](./185189-echo.json) |
 | Echo | 19448 | [19448-echo.json](./19448-echo.json) |
 | Echo | 201975 | [201975-echo.json](./201975-echo.json) |
 | Echo | 245135 | [245135-echo.json](./245135-echo.json) |
@@ -1481,6 +1482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Hunt Truck | 97143 | [97143-egg-hunt-truck.json](./97143-egg-hunt-truck.json) |
 | Egg Hunt VR | 28784 | [28784-egg-hunt-vr.json](./28784-egg-hunt-vr.json) |
 | Egg Journey Pro | 175107 | [175107-egg-journey-pro.json](./175107-egg-journey-pro.json) |
+| Egg King | 185220 | [185220-egg-king.json](./185220-egg-king.json) |
 | Egg Knight | 119425 | [119425-egg-knight.json](./119425-egg-knight.json) |
 | Egg Maiden | 380779 | [380779-egg-maiden.json](./380779-egg-maiden.json) |
 | Egg Maker | 317361 | [317361-egg-maker.json](./317361-egg-maker.json) |
@@ -2448,6 +2450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elephantasy | 143407 | [143407-elephantasy.json](./143407-elephantasy.json) |
 | Elephantasy: Flipside | 235706 | [235706-elephantasy-flipside.json](./235706-elephantasy-flipside.json) |
 | Elephants and Snakes and Crocodiles | 303198 | [303198-elephants-and-snakes-and-crocodiles.json](./303198-elephants-and-snakes-and-crocodiles.json) |
+| Elephants Remember | 185201 | [185201-elephants-remember.json](./185201-elephants-remember.json) |
 | Elepong | 69367 | [69367-elepong.json](./69367-elepong.json) |
 | Elerena | 153855 | [153855-elerena.json](./153855-elerena.json) |
 | Eleria | 107082 | [107082-eleria.json](./107082-eleria.json) |
