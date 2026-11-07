@@ -1622,6 +1622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sands of Sodis | 231380 | [231380-sands-of-sodis.json](./231380-sands-of-sodis.json) |
 | Sands of Solaris | 255490 | [255490-sands-of-solaris.json](./255490-sands-of-solaris.json) |
 | Sands of the Coliseum | 95941 | [95941-sands-of-the-coliseum.json](./95941-sands-of-the-coliseum.json) |
+| SandShifter | 181463 | [181463-sandshifter.json](./181463-sandshifter.json) |
 | Sandspiel | 146869 | [146869-sandspiel.json](./146869-sandspiel.json) |
 | Sandstorm | 30707 | [30707-sandstorm.json](./30707-sandstorm.json) |
 | Sandstorm Strike Force | 288294 | [288294-sandstorm-strike-force.json](./288294-sandstorm-strike-force.json) |
@@ -2193,6 +2194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturn Quest: Shadow of Planetus | 132792 | [132792-saturn-quest-shadow-of-planetus.json](./132792-saturn-quest-shadow-of-planetus.json) |
 | Saturn Quest: The Loneliness Of Captain Navigator | 361109 | [361109-saturn-quest-the-loneliness-of-captain-navigator.json](./361109-saturn-quest-the-loneliness-of-captain-navigator.json) |
 | Saturn Slalom | 413157 | [413157-saturn-slalom.json](./413157-saturn-slalom.json) |
+| Saturn Smash | 181430 | [181430-saturn-smash.json](./181430-saturn-smash.json) |
 | Saturn V | 148403 | [148403-saturn-v.json](./148403-saturn-v.json) |
 | Saturn Valley Online | 323764 | [323764-saturn-valley-online.json](./323764-saturn-valley-online.json) |
 | Saturn. Legacy | 403688 | [403688-saturn-legacy.json](./403688-saturn-legacy.json) |
@@ -10553,6 +10555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Rooms: Chapter 1 | 293474 | [293474-silent-rooms-chapter-1.json](./293474-silent-rooms-chapter-1.json) |
 | Silent Ruins | 183520 | [183520-silent-ruins.json](./183520-silent-ruins.json) |
 | Silent Sadie | 319040 | [319040-silent-sadie.json](./319040-silent-sadie.json) |
+| Silent Santicado | 181442 | [181442-silent-santicado.json](./181442-silent-santicado.json) |
 | Silent Scale | 265846 | [265846-silent-scale.json](./265846-silent-scale.json) |
 | Silent Scope | 248779 | [248779-silent-scope.json](./248779-silent-scope.json) |
 | Silent Scope | 49182 | [49182-silent-scope.json](./49182-silent-scope.json) |
@@ -18329,6 +18332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sophont | 99431 | [99431-sophont.json](./99431-sophont.json) |
 | Sophstar | 157973 | [157973-sophstar.json](./157973-sophstar.json) |
 | Soporfall | 328374 | [328374-soporfall.json](./328374-soporfall.json) |
+| Soporific: A Bedtime Story | 181470 | [181470-soporific-a-bedtime-story.json](./181470-soporific-a-bedtime-story.json) |
 | Soppel | 203585 | [203585-soppel.json](./203585-soppel.json) |
 | Sopwith VR | 113601 | [113601-sopwith-vr.json](./113601-sopwith-vr.json) |
 | Sopwith: The Author's Edition | 73126 | [73126-sopwith-the-authors-edition.json](./73126-sopwith-the-authors-edition.json) |
@@ -27213,6 +27217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Age Assassin | 407826 | [407826-stone-age-assassin.json](./407826-stone-age-assassin.json) |
 | Stone Age Dinosaurs | 217690 | [217690-stone-age-dinosaurs.json](./217690-stone-age-dinosaurs.json) |
 | Stone Age Meteor Rush | 337981 | [337981-stone-age-meteor-rush.json](./337981-stone-age-meteor-rush.json) |
+| Stone Age Storeys | 181426 | [181426-stone-age-storeys.json](./181426-stone-age-storeys.json) |
 | Stone Age Taxi | 146897 | [146897-stone-age-taxi.json](./146897-stone-age-taxi.json) |
 | Stone Age: Digital Edition | 237210 | [237210-stone-age-digital-edition.json](./237210-stone-age-digital-edition.json) |
 | Stone Age: The Board Game | 89702 | [89702-stone-age-the-board-game.json](./89702-stone-age-the-board-game.json) |
@@ -28862,6 +28867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stuck in Time | 185744 | [185744-stuck-in-time.json](./185744-stuck-in-time.json) |
 | Stuck Inside | 329404 | [329404-stuck-inside.json](./329404-stuck-inside.json) |
 | Stuck Like a Stone | 276731 | [276731-stuck-like-a-stone.json](./276731-stuck-like-a-stone.json) |
+| Stuck Recoil | 181428 | [181428-stuck-recoil.json](./181428-stuck-recoil.json) |
 | Stuck Together | 159562 | [159562-stuck-together.json](./159562-stuck-together.json) |
 | Stuck! | 177537 | [177537-stuck.json](./177537-stuck.json) |
 | Stuck? | 176967 | [176967-stuck.json](./176967-stuck.json) |
