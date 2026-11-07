@@ -2367,6 +2367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Dogs: Legion - Resistance Edition | 142847 | [142847-watch-dogs-legion-resistance-edition.json](./142847-watch-dogs-legion-resistance-edition.json) |
 | Watch Dogs: Legion - Season Pass | 142845 | [142845-watch-dogs-legion-season-pass.json](./142845-watch-dogs-legion-season-pass.json) |
 | Watch Dogs: Legion - Ultimate Edition | 119574 | [119574-watch-dogs-legion-ultimate-edition.json](./119574-watch-dogs-legion-ultimate-edition.json) |
+| Watch Dogs: Season Pass | 143197 | [143197-watch-dogs-season-pass.json](./143197-watch-dogs-season-pass.json) |
 | Watch Eye | 389832 | [389832-watch-eye.json](./389832-watch-eye.json) |
 | Watch Grass Grow Simulator | 384224 | [384224-watch-grass-grow-simulator.json](./384224-watch-grass-grow-simulator.json) |
 | Watch Mario | 278623 | [278623-watch-mario.json](./278623-watch-mario.json) |
