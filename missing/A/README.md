@@ -1550,6 +1550,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Workplace With No People | 146096 | [146096-a-workplace-with-no-people.json](./146096-a-workplace-with-no-people.json) |
 | A World Alive | 62936 | [62936-a-world-alive.json](./62936-a-world-alive.json) |
 | A World At War Tactics | 379452 | [379452-a-world-at-war-tactics.json](./379452-a-world-at-war-tactics.json) |
+| A World in Strife 2: Absolute Order | 145153 | [145153-a-world-in-strife-2-absolute-order.json](./145153-a-world-in-strife-2-absolute-order.json) |
+| A World in Strife: Raiding the Dam | 145152 | [145152-a-world-in-strife-raiding-the-dam.json](./145152-a-world-in-strife-raiding-the-dam.json) |
 | A World of Ice and Fire | 356195 | [356195-a-world-of-ice-and-fire.json](./356195-a-world-of-ice-and-fire.json) |
 | A World of Keflings: Sugar, Spice and Not So Nice | 377854 | [377854-a-world-of-keflings-sugar-spice-and-not-so-nice.json](./377854-a-world-of-keflings-sugar-spice-and-not-so-nice.json) |
 | A World of Keflings: The Curse of the Zombiesaurus | 375530 | [375530-a-world-of-keflings-the-curse-of-the-zombiesaurus.json](./375530-a-world-of-keflings-the-curse-of-the-zombiesaurus.json) |
@@ -3596,6 +3598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Galaxy | 126585 | [126585-adventure-galaxy.json](./126585-adventure-galaxy.json) |
 | Adventure Game | 264411 | [264411-adventure-game.json](./264411-adventure-game.json) |
 | Adventure Game | 86332 | [86332-adventure-game.json](./86332-adventure-game.json) |
+| Adventure Game Pack Volume 1 | 145140 | [145140-adventure-game-pack-volume-1.json](./145140-adventure-game-pack-volume-1.json) |
 | Adventure Guild Receptionist | 379484 | [379484-adventure-guild-receptionist.json](./379484-adventure-guild-receptionist.json) |
 | Adventure Hall of Fame | 70169 | [70169-adventure-hall-of-fame.json](./70169-adventure-hall-of-fame.json) |
 | Adventure Hero | 105310 | [105310-adventure-hero.json](./105310-adventure-hero.json) |
@@ -16878,6 +16881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
