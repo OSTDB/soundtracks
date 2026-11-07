@@ -2214,6 +2214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness and Light | 159152 | [159152-darkness-and-light.json](./159152-darkness-and-light.json) |
 | Darkness Anomaly | 57351 | [57351-darkness-anomaly.json](./57351-darkness-anomaly.json) |
 | Darkness Arrives | 151122 | [151122-darkness-arrives.json](./151122-darkness-arrives.json) |
+| Darkness Eternal | 150312 | [150312-darkness-eternal.json](./150312-darkness-eternal.json) |
 | Darkness Flaw | 262286 | [262286-darkness-flaw.json](./262286-darkness-flaw.json) |
 | Darkness Has Eyes | 406857 | [406857-darkness-has-eyes.json](./406857-darkness-has-eyes.json) |
 | Darkness Hour | 116159 | [116159-darkness-hour.json](./116159-darkness-hour.json) |
@@ -3049,6 +3050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days of Despair | 217246 | [217246-days-of-despair.json](./217246-days-of-despair.json) |
 | Days of Discord | 59654 | [59654-days-of-discord.json](./59654-days-of-discord.json) |
 | Days of Doom | 251728 | [251728-days-of-doom.json](./251728-days-of-doom.json) |
+| Days of Heroes: D-Day | 150336 | [150336-days-of-heroes-d-day.json](./150336-days-of-heroes-d-day.json) |
 | Days of Memories | 61486 | [61486-days-of-memories.json](./61486-days-of-memories.json) |
 | Days of Memories 2 | 61484 | [61484-days-of-memories-2.json](./61484-days-of-memories-2.json) |
 | Days of Memories 3 | 69175 | [69175-days-of-memories-3.json](./69175-days-of-memories-3.json) |
@@ -3750,6 +3752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Man's Journey | 58314 | [58314-dead-mans-journey.json](./58314-dead-mans-journey.json) |
 | Dead Man's Political Party | 71454 | [71454-dead-mans-political-party.json](./71454-dead-mans-political-party.json) |
 | Dead Man's Quest | 271937 | [271937-dead-mans-quest.json](./271937-dead-mans-quest.json) |
+| Dead Man's Rest | 150322 | [150322-dead-mans-rest.json](./150322-dead-mans-rest.json) |
 | Dead Man's Trail | 81669 | [81669-dead-mans-trail.json](./81669-dead-mans-trail.json) |
 | Dead Matter | 102806 | [102806-dead-matter.json](./102806-dead-matter.json) |
 | Dead Mayhem | 105305 | [105305-dead-mayhem.json](./105305-dead-mayhem.json) |
@@ -9662,6 +9665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Dino | 287770 | [287770-dino-dino.json](./287770-dino-dino.json) |
 | Dino Domination | 212428 | [212428-dino-domination.json](./212428-dino-domination.json) |
 | Dino Domino | 360022 | [360022-dino-domino.json](./360022-dino-domino.json) |
+| Dino Dungeon | 150326 | [150326-dino-dungeon.json](./150326-dino-dungeon.json) |
 | Dino Eggs | 23928 | [23928-dino-eggs.json](./23928-dino-eggs.json) |
 | Dino Eggs: Rebirth | 33336 | [33336-dino-eggs-rebirth.json](./33336-dino-eggs-rebirth.json) |
 | Dino Eruption | 142658 | [142658-dino-eruption.json](./142658-dino-eruption.json) |
@@ -10988,6 +10992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distantquest: An Ancestral Fansim | 184206 | [184206-distantquest-an-ancestral-fansim.json](./184206-distantquest-an-ancestral-fansim.json) |
 | Distill, My Beating Heart! | 292019 | [292019-distill-my-beating-heart.json](./292019-distill-my-beating-heart.json) |
 | Distillery & Tavern Duo: Moonshine Inc. + Crossroads Inn: A Fantasy Tavern Sim | 328549 | [328549-distillery-and-tavern-duo-moonshine-inc-crossroads-inn-a-fantasy-tavern-sim.json](./328549-distillery-and-tavern-duo-moonshine-inc-crossroads-inn-a-fantasy-tavern-sim.json) |
+| Distorted | 150314 | [150314-distorted.json](./150314-distorted.json) |
 | Distorted | 372143 | [372143-distorted.json](./372143-distorted.json) |
 | Distorted Echos | 217323 | [217323-distorted-echos.json](./217323-distorted-echos.json) |
 | Distorted Minds | 414409 | [414409-distorted-minds.json](./414409-distorted-minds.json) |
@@ -18049,6 +18054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dumpster Divers | 366903 | [366903-dumpster-divers.json](./366903-dumpster-divers.json) |
 | Dumpster Diving Simulator | 424639 | [424639-dumpster-diving-simulator.json](./424639-dumpster-diving-simulator.json) |
 | Dumpster Gang | 415120 | [415120-dumpster-gang.json](./415120-dumpster-gang.json) |
+| Dumpy & Bumpy | 150310 | [150310-dumpy-and-bumpy.json](./150310-dumpy-and-bumpy.json) |
 | Dumpy: Going Elephants! | 229806 | [229806-dumpy-going-elephants.json](./229806-dumpy-going-elephants.json) |
 | Dùn | 367443 | [367443-dun.json](./367443-dun.json) |
 | Dun Dam: Dungeons & Dam | 69298 | [69298-dun-dam-dungeons-and-dam.json](./69298-dun-dam-dungeons-and-dam.json) |
@@ -19360,6 +19366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyhard Infinity | 92310 | [92310-dyhard-infinity.json](./92310-dyhard-infinity.json) |
 | Dyin to Live | 261394 | [261394-dyin-to-live.json](./261394-dyin-to-live.json) |
 | Dying Breed | 240798 | [240798-dying-breed.json](./240798-dying-breed.json) |
+| Dying Byte Survival | 150335 | [150335-dying-byte-survival.json](./150335-dying-byte-survival.json) |
 | Dying Flame | 144976 | [144976-dying-flame.json](./144976-dying-flame.json) |
 | Dying for Daylight | 79904 | [79904-dying-for-daylight.json](./79904-dying-for-daylight.json) |
 | Dying For Treasure | 141007 | [141007-dying-for-treasure.json](./141007-dying-for-treasure.json) |
