@@ -6795,6 +6795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess | 128646 | [128646-chess.json](./128646-chess.json) |
 | Chess | 131469 | [131469-chess.json](./131469-chess.json) |
 | Chess | 158998 | [158998-chess.json](./158998-chess.json) |
+| Chess | 178133 | [178133-chess.json](./178133-chess.json) |
 | Chess | 237288 | [237288-chess.json](./237288-chess.json) |
 | Chess | 247071 | [247071-chess.json](./247071-chess.json) |
 | Chess | 25126 | [25126-chess.json](./25126-chess.json) |
@@ -10538,6 +10539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clock Tower Madness | 386273 | [386273-clock-tower-madness.json](./386273-clock-tower-madness.json) |
 | Clock Tower: Ready for the Next | 214969 | [214969-clock-tower-ready-for-the-next.json](./214969-clock-tower-ready-for-the-next.json) |
 | Clock Tower: Rewind | 256465 | [256465-clock-tower-rewind.json](./256465-clock-tower-rewind.json) |
+| Clock Tower: The First Fear | 178158 | [178158-clock-tower-the-first-fear.json](./178158-clock-tower-the-first-fear.json) |
 | Clock World | 398579 | [398579-clock-world.json](./398579-clock-world.json) |
 | Clock Zero: Shuuen no Ichibyou - Devote | 202593 | [202593-clock-zero-shuuen-no-ichibyou-devote.json](./202593-clock-zero-shuuen-no-ichibyou-devote.json) |
 | Clock Zero: Shuuen no Ichibyou - ExTime | 202592 | [202592-clock-zero-shuuen-no-ichibyou-extime.json](./202592-clock-zero-shuuen-no-ichibyou-extime.json) |
@@ -15111,6 +15113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Buddies Town | 80948 | [80948-cosmic-buddies-town.json](./80948-cosmic-buddies-town.json) |
 | Cosmic Bugs | 72161 | [72161-cosmic-bugs.json](./72161-cosmic-bugs.json) |
 | Cosmic Call | 319212 | [319212-cosmic-call.json](./319212-cosmic-call.json) |
+| Cosmic Camouflage | 178134 | [178134-cosmic-camouflage.json](./178134-cosmic-camouflage.json) |
 | Cosmic Cannon | 327195 | [327195-cosmic-cannon.json](./327195-cosmic-cannon.json) |
 | Cosmic Cargo | 385348 | [385348-cosmic-cargo.json](./385348-cosmic-cargo.json) |
 | Cosmic Carnage | 253342 | [253342-cosmic-carnage.json](./253342-cosmic-carnage.json) |
