@@ -2504,6 +2504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears Story | 292471 | [292471-gears-story.json](./292471-gears-story.json) |
 | Gears Triple Bundle | 161180 | [161180-gears-triple-bundle.json](./161180-gears-triple-bundle.json) |
 | Gears Unchained: The Rise of Revolution | 309380 | [309380-gears-unchained-the-rise-of-revolution.json](./309380-gears-unchained-the-rise-of-revolution.json) |
+| Gearshifters | 157821 | [157821-gearshifters.json](./157821-gearshifters.json) |
 | Gearshifters: Collector's Edition | 159021 | [159021-gearshifters-collectors-edition.json](./159021-gearshifters-collectors-edition.json) |
 | Gearspark | 385450 | [385450-gearspark.json](./385450-gearspark.json) |
 | GearStorm | 117651 | [117651-gearstorm.json](./117651-gearstorm.json) |
