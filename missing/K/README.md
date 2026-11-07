@@ -2142,6 +2142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick Challenger Air Foot Yasai no Kuni no Ashi Senshi | 41261 | [41261-kick-challenger-air-foot-yasai-no-kuni-no-ashi-senshi.json](./41261-kick-challenger-air-foot-yasai-no-kuni-no-ashi-senshi.json) |
 | Kick Club | 318716 | [318716-kick-club.json](./318716-kick-club.json) |
 | Kick Goal | 40341 | [40341-kick-goal.json](./40341-kick-goal.json) |
+| Kick It | 170069 | [170069-kick-it.json](./170069-kick-it.json) |
 | Kick It | 94198 | [94198-kick-it.json](./94198-kick-it.json) |
 | Kick It to Stickman | 385094 | [385094-kick-it-to-stickman.json](./385094-kick-it-to-stickman.json) |
 | Kick it, Bunny! | 143109 | [143109-kick-it-bunny.json](./143109-kick-it-bunny.json) |
@@ -2840,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5573,6 +5575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koshien Story | 57915 | [57915-koshien-story.json](./57915-koshien-story.json) |
 | Koshka | 157145 | [157145-koshka.json](./157145-koshka.json) |
 | Koshka's Kofe | 135683 | [135683-koshkas-kofe.json](./135683-koshkas-kofe.json) |
+| Koshmar | 170084 | [170084-koshmar.json](./170084-koshmar.json) |
 | Koshmar: The Last Reverie | 397836 | [397836-koshmar-the-last-reverie.json](./397836-koshmar-the-last-reverie.json) |
 | Koshotengai no Hashihime Noma | 103176 | [103176-koshotengai-no-hashihime-noma.json](./103176-koshotengai-no-hashihime-noma.json) |
 | Kosmic Kanga | 306802 | [306802-kosmic-kanga.json](./306802-kosmic-kanga.json) |
