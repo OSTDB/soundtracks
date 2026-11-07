@@ -1066,6 +1066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raiders of the Broken Planet: Council Apocalypse | 57004 | [57004-raiders-of-the-broken-planet-council-apocalypse.json](./57004-raiders-of-the-broken-planet-council-apocalypse.json) |
 | Raiders of the Broken Planet: Hades Betrayal | 57003 | [57003-raiders-of-the-broken-planet-hades-betrayal.json](./57003-raiders-of-the-broken-planet-hades-betrayal.json) |
 | Raiders of the Broken Planet: Wardog Fury | 57002 | [57002-raiders-of-the-broken-planet-wardog-fury.json](./57002-raiders-of-the-broken-planet-wardog-fury.json) |
+| Raiders of the Icepeak Mountains | 189231 | [189231-raiders-of-the-icepeak-mountains.json](./189231-raiders-of-the-icepeak-mountains.json) |
 | Raiders of the Lost Ark | 18036 | [18036-raiders-of-the-lost-ark.json](./18036-raiders-of-the-lost-ark.json) |
 | Raiders of the Lost Ark | 326023 | [326023-raiders-of-the-lost-ark.json](./326023-raiders-of-the-lost-ark.json) |
 | Raiders of the Lost Ark: Tanis | 326028 | [326028-raiders-of-the-lost-ark-tanis.json](./326028-raiders-of-the-lost-ark-tanis.json) |
@@ -3461,6 +3462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reborn Protocol | 249088 | [249088-reborn-protocol.json](./249088-reborn-protocol.json) |
 | Reborn Souls | 201589 | [201589-reborn-souls.json](./201589-reborn-souls.json) |
 | Reborn to Veer | 236244 | [236244-reborn-to-veer.json](./236244-reborn-to-veer.json) |
+| Reborn Tribe | 189253 | [189253-reborn-tribe.json](./189253-reborn-tribe.json) |
 | Reborn: Dragona PH | 296412 | [296412-reborn-dragona-ph.json](./296412-reborn-dragona-ph.json) |
 | Reborn: Examine Again | 357812 | [357812-reborn-examine-again.json](./357812-reborn-examine-again.json) |
 | Reborn: Fate of Gods | 216953 | [216953-reborn-fate-of-gods.json](./216953-reborn-fate-of-gods.json) |
