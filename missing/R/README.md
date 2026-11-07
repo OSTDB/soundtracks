@@ -7182,6 +7182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddle of the Sphinx | 174286 | [174286-riddle-of-the-sphinx.json](./174286-riddle-of-the-sphinx.json) |
 | Riddle of the Sphinx | 18480 | [18480-riddle-of-the-sphinx.json](./18480-riddle-of-the-sphinx.json) |
 | Riddle of the Sphinx: Moonlight Exploration | 169930 | [169930-riddle-of-the-sphinx-moonlight-exploration.json](./169930-riddle-of-the-sphinx-moonlight-exploration.json) |
+| Riddle of the Sphinx: The Awakening - Gil's Secret Library | 164632 | [164632-riddle-of-the-sphinx-the-awakening-gils-secret-library.json](./164632-riddle-of-the-sphinx-the-awakening-gils-secret-library.json) |
 | Riddle School | 56438 | [56438-riddle-school.json](./56438-riddle-school.json) |
 | Riddle School 2 | 178160 | [178160-riddle-school-2.json](./178160-riddle-school-2.json) |
 | Riddle School 2: Legacy Edition | 180004 | [180004-riddle-school-2-legacy-edition.json](./180004-riddle-school-2-legacy-edition.json) |
@@ -8067,6 +8068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Star: The Horse Game | 220707 | [220707-rising-star-the-horse-game.json](./220707-rising-star-the-horse-game.json) |
 | Rising Storm | 2609 | [2609-rising-storm.json](./2609-rising-storm.json) |
 | Rising Storm 2: Vietnam | 18166 | [18166-rising-storm-2-vietnam.json](./18166-rising-storm-2-vietnam.json) |
+| Rising Storm 2: Vietnam - Green Army Men | 164648 | [164648-rising-storm-2-vietnam-green-army-men.json](./164648-rising-storm-2-vietnam-green-army-men.json) |
 | Rising Storm/Red Orchestra 2 Multiplayer | 93834 | [93834-rising-storm-red-orchestra-2-multiplayer.json](./93834-rising-storm-red-orchestra-2-multiplayer.json) |
 | Rising Sun | 850 | [850-rising-sun.json](./850-rising-sun.json) |
 | Rising Sun Mahjong | 257079 | [257079-rising-sun-mahjong.json](./257079-rising-sun-mahjong.json) |
@@ -13055,6 +13057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rust: Console Edition - Day One | 146116 | [146116-rust-console-edition-day-one.json](./146116-rust-console-edition-day-one.json) |
 | Rust: Console Edition - Deluxe | 164705 | [164705-rust-console-edition-deluxe.json](./164705-rust-console-edition-deluxe.json) |
 | Rust: Console Edition - New Cobalt Employee Welcome Pack | 259752 | [259752-rust-console-edition-new-cobalt-employee-welcome-pack.json](./259752-rust-console-edition-new-cobalt-employee-welcome-pack.json) |
+| Rust: Console Edition - Ultimate | 164658 | [164658-rust-console-edition-ultimate.json](./164658-rust-console-edition-ultimate.json) |
 | Rust: Console Edition - Warhammer 40,000 Pack | 402506 | [402506-rust-console-edition-warhammer-40-000-pack.json](./402506-rust-console-edition-warhammer-40-000-pack.json) |
 | Rust: Instruments Pack | 351516 | [351516-rust-instruments-pack.json](./351516-rust-instruments-pack.json) |
 | Rust: Sunburn Pack | 401308 | [401308-rust-sunburn-pack.json](./401308-rust-sunburn-pack.json) |
