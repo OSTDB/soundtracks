@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe Mahjongg | 52720 | [52720-cafe-mahjongg.json](./52720-cafe-mahjongg.json) |
 | Cafe Maid | 243764 | [243764-cafe-maid.json](./243764-cafe-maid.json) |
 | Cafe Maid Girls: Cute Kemono Lifeguard DLC | 298359 | [298359-cafe-maid-girls-cute-kemono-lifeguard-dlc.json](./298359-cafe-maid-girls-cute-kemono-lifeguard-dlc.json) |
+| Cafe Maid: Hentai Edition | 167412 | [167412-cafe-maid-hentai-edition.json](./167412-cafe-maid-hentai-edition.json) |
 | Cafe Maid: Hentai Edition - Medic | 311403 | [311403-cafe-maid-hentai-edition-medic.json](./311403-cafe-maid-hentai-edition-medic.json) |
 | Café Manager | 297862 | [297862-cafe-manager.json](./297862-cafe-manager.json) |
 | Café Mania | 262209 | [262209-cafe-mania.json](./262209-cafe-mania.json) |
@@ -7610,6 +7611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chindouchuu!! Pole no Daibouken | 79654 | [79654-chindouchuu-pole-no-daibouken.json](./79654-chindouchuu-pole-no-daibouken.json) |
 | Chinese Ancient Poetry Matching Game | 274576 | [274576-chinese-ancient-poetry-matching-game.json](./274576-chinese-ancient-poetry-matching-game.json) |
 | Chinese Brush Simulator | 129077 | [129077-chinese-brush-simulator.json](./129077-chinese-brush-simulator.json) |
+| Chinese Bull | 167445 | [167445-chinese-bull.json](./167445-chinese-bull.json) |
 | Chinese Characters | 223507 | [223507-chinese-characters.json](./223507-chinese-characters.json) |
 | Chinese Checkers | 100228 | [100228-chinese-checkers.json](./100228-chinese-checkers.json) |
 | Chinese Checkers | 71190 | [71190-chinese-checkers.json](./71190-chinese-checkers.json) |
@@ -17839,6 +17841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critter Town | 323597 | [323597-critter-town.json](./323597-critter-town.json) |
 | Critterball Derby | 293594 | [293594-critterball-derby.json](./293594-critterball-derby.json) |
 | CritterGarden | 273766 | [273766-crittergarden.json](./273766-crittergarden.json) |
+| Critterland | 167458 | [167458-critterland.json](./167458-critterland.json) |
 | Critters Breakout | 373355 | [373355-critters-breakout.json](./373355-critters-breakout.json) |
 | Critters for Sale | 123420 | [123420-critters-for-sale.json](./123420-critters-for-sale.json) |
 | Critters for Sale: Snake | 158055 | [158055-critters-for-sale-snake.json](./158055-critters-for-sale-snake.json) |
@@ -20711,6 +20714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber-Assassin | 269272 | [269272-cyber-assassin.json](./269272-cyber-assassin.json) |
 | Cyber-Cat | 151477 | [151477-cyber-cat.json](./151477-cyber-cat.json) |
 | Cyber-Cop | 80869 | [80869-cyber-cop.json](./80869-cyber-cop.json) |
+| Cyber-doge 2077: Meme runner | 167422 | [167422-cyber-doge-2077-meme-runner.json](./167422-cyber-doge-2077-meme-runner.json) |
 | Cyber-Wing | 130654 | [130654-cyber-wing.json](./130654-cyber-wing.json) |
 | Cyber: Mind Dive | 255482 | [255482-cyber-mind-dive.json](./255482-cyber-mind-dive.json) |
 | Cyber.one: Trans Car Racing | 126985 | [126985-cyber-one-trans-car-racing.json](./126985-cyber-one-trans-car-racing.json) |
