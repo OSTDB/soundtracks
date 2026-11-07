@@ -8423,6 +8423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Melody | 211195 | [211195-lost-melody.json](./211195-lost-melody.json) |
 | Lost Memories | 224779 | [224779-lost-memories.json](./224779-lost-memories.json) |
 | Lost Memories 3 Side Stories | 369569 | [369569-lost-memories-3-side-stories.json](./369569-lost-memories-3-side-stories.json) |
+| Lost Memories Dot Net | 139539 | [139539-lost-memories-dot-net.json](./139539-lost-memories-dot-net.json) |
 | Lost Memories: Romance You Choose | 299456 | [299456-lost-memories-romance-you-choose.json](./299456-lost-memories-romance-you-choose.json) |
 | Lost Meow | 295619 | [295619-lost-meow.json](./295619-lost-meow.json) |
 | Lost Meridian | 270491 | [270491-lost-meridian.json](./270491-lost-meridian.json) |
