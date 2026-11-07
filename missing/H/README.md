@@ -5003,6 +5003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Fetish Tycoon | 177707 | [177707-hentai-fetish-tycoon.json](./177707-hentai-fetish-tycoon.json) |
 | Hentai Fetishes: Yuri | 379548 | [379548-hentai-fetishes-yuri.json](./379548-hentai-fetishes-yuri.json) |
 | Hentai Fight Club | 163011 | [163011-hentai-fight-club.json](./163011-hentai-fight-club.json) |
+| Hentai Fight Club: Jigsaw | 162992 | [162992-hentai-fight-club-jigsaw.json](./162992-hentai-fight-club-jigsaw.json) |
 | Hentai Fighter | 155333 | [155333-hentai-fighter.json](./155333-hentai-fighter.json) |
 | Hentai Foot Fetish | 404940 | [404940-hentai-foot-fetish.json](./404940-hentai-foot-fetish.json) |
 | Hentai Forest | 110681 | [110681-hentai-forest.json](./110681-hentai-forest.json) |
@@ -5168,6 +5169,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Hina | 384694 | [384694-hentai-hina.json](./384694-hentai-hina.json) |
 | Hentai Homewrecker | 297799 | [297799-hentai-homewrecker.json](./297799-hentai-homewrecker.json) |
 | Hentai Honeys Jigsaw | 163013 | [163013-hentai-honeys-jigsaw.json](./163013-hentai-honeys-jigsaw.json) |
+| Hentai Honeys Jigsaw: Geisya | 162991 | [162991-hentai-honeys-jigsaw-geisya.json](./162991-hentai-honeys-jigsaw-geisya.json) |
+| Hentai Honeys Jigsaw: Wife | 162990 | [162990-hentai-honeys-jigsaw-wife.json](./162990-hentai-honeys-jigsaw-wife.json) |
 | Hentai Honeys Slider | 365437 | [365437-hentai-honeys-slider.json](./365437-hentai-honeys-slider.json) |
 | Hentai Horny Elf | 389168 | [389168-hentai-horny-elf.json](./389168-hentai-horny-elf.json) |
 | Hentai Horny Furry | 384703 | [384703-hentai-horny-furry.json](./384703-hentai-horny-furry.json) |
@@ -5190,6 +5193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Jigsaw Alison | 162998 | [162998-hentai-jigsaw-alison.json](./162998-hentai-jigsaw-alison.json) |
 | Hentai Jigsaw Emma | 162997 | [162997-hentai-jigsaw-emma.json](./162997-hentai-jigsaw-emma.json) |
 | Hentai Jigsaw Flora | 162994 | [162994-hentai-jigsaw-flora.json](./162994-hentai-jigsaw-flora.json) |
+| Hentai Jigsaw Girls | 162989 | [162989-hentai-jigsaw-girls.json](./162989-hentai-jigsaw-girls.json) |
 | Hentai Jigsaw Girls 2 | 162840 | [162840-hentai-jigsaw-girls-2.json](./162840-hentai-jigsaw-girls-2.json) |
 | Hentai Jigsaw Girls 3 | 165825 | [165825-hentai-jigsaw-girls-3.json](./165825-hentai-jigsaw-girls-3.json) |
 | Hentai Jigsaw Photo Studio: Fruit Girls | 153062 | [153062-hentai-jigsaw-photo-studio-fruit-girls.json](./153062-hentai-jigsaw-photo-studio-fruit-girls.json) |
@@ -5478,6 +5482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Summer | 112739 | [112739-hentai-summer.json](./112739-hentai-summer.json) |
 | Hentai Survive Island | 366518 | [366518-hentai-survive-island.json](./366518-hentai-survive-island.json) |
 | Hentai Survivors | 366519 | [366519-hentai-survivors.json](./366519-hentai-survivors.json) |
+| Hentai Sushi Jigsaw | 162987 | [162987-hentai-sushi-jigsaw.json](./162987-hentai-sushi-jigsaw.json) |
 | Hentai Swapy Puzzle | 271022 | [271022-hentai-swapy-puzzle.json](./271022-hentai-swapy-puzzle.json) |
 | Hentai Sweet Girls | 284238 | [284238-hentai-sweet-girls.json](./284238-hentai-sweet-girls.json) |
 | Hentai Swimming Club | 150530 | [150530-hentai-swimming-club.json](./150530-hentai-swimming-club.json) |
@@ -5601,6 +5606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai World: Ultra Ultimate | 309050 | [309050-hentai-world-ultra-ultimate.json](./309050-hentai-world-ultra-ultimate.json) |
 | Hentai X Thief | 384687 | [384687-hentai-x-thief.json](./384687-hentai-x-thief.json) |
 | Hentai XXX Plus: Jigsaws Vol 1 | 288317 | [288317-hentai-xxx-plus-jigsaws-vol-1.json](./288317-hentai-xxx-plus-jigsaws-vol-1.json) |
+| Hentai XXX Plus: Jigsaws Vol 2 | 162988 | [162988-hentai-xxx-plus-jigsaws-vol-2.json](./162988-hentai-xxx-plus-jigsaws-vol-2.json) |
 | Hentai Yuri Wet Adventure | 112002 | [112002-hentai-yuri-wet-adventure.json](./112002-hentai-yuri-wet-adventure.json) |
 | Hentai Zarhuna | 384690 | [384690-hentai-zarhuna.json](./384690-hentai-zarhuna.json) |
 | Hentai Zodiac Puzzle | 213723 | [213723-hentai-zodiac-puzzle.json](./213723-hentai-zodiac-puzzle.json) |
