@@ -1583,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Chess | 56569 | [56569-happy-chess.json](./56569-happy-chess.json) |
 | Happy Circus | 84490 | [84490-happy-circus.json](./84490-happy-circus.json) |
 | Happy Clinic | 294802 | [294802-happy-clinic.json](./294802-happy-clinic.json) |
+| Happy Color | 187630 | [187630-happy-color.json](./187630-happy-color.json) |
 | Happy Color Links | 277834 | [277834-happy-color-links.json](./277834-happy-color-links.json) |
 | Happy Cook | 200118 | [200118-happy-cook.json](./200118-happy-cook.json) |
 | Happy Cookies | 365261 | [365261-happy-cookies.json](./365261-happy-cookies.json) |
@@ -8621,6 +8622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hogi's Adventure | 27212 | [27212-hogis-adventure.json](./27212-hogis-adventure.json) |
 | Hoglands | 231651 | [231651-hoglands.json](./231651-hoglands.json) |
 | Hogogeist | 157005 | [157005-hogogeist.json](./157005-hogogeist.json) |
+| Hogoworm Dungeon | 187586 | [187586-hogoworm-dungeon.json](./187586-hogoworm-dungeon.json) |
 | Hogs of War | 8877 | [8877-hogs-of-war.json](./8877-hogs-of-war.json) |
 | Hogtie | 348335 | [348335-hogtie.json](./348335-hogtie.json) |
 | HoGuru Presents: The House With Too Many Zombies In It | 195840 | [195840-hoguru-presents-the-house-with-too-many-zombies-in-it.json](./195840-hoguru-presents-the-house-with-too-many-zombies-in-it.json) |
