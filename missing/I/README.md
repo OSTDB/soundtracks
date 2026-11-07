@@ -578,6 +578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Wanna Be The SuperTux 2 | 240947 | [240947-i-wanna-be-the-supertux-2.json](./240947-i-wanna-be-the-supertux-2.json) |
 | I wanna be the Yin-Yang orb | 132451 | [132451-i-wanna-be-the-yin-yang-orb.json](./132451-i-wanna-be-the-yin-yang-orb.json) |
 | I Wanna Brother | 121314 | [121314-i-wanna-brother.json](./121314-i-wanna-brother.json) |
+| I Wanna Build a Robot | 142557 | [142557-i-wanna-build-a-robot.json](./142557-i-wanna-build-a-robot.json) |
 | I Wanna Commit Crimes So I Can Go to Prison Then Commit Super Crimes So I Can Go to Super Prison 64 | 266416 | [266416-i-wanna-commit-crimes-so-i-can-go-to-prison-then-commit-super-crimes-so-i-can-go-to-super-prison-64.json](./266416-i-wanna-commit-crimes-so-i-can-go-to-prison-then-commit-super-crimes-so-i-can-go-to-super-prison-64.json) |
 | I Wanna Eat the Lemon | 191263 | [191263-i-wanna-eat-the-lemon.json](./191263-i-wanna-eat-the-lemon.json) |
 | I Wanna Escape Into My Mind | 355175 | [355175-i-wanna-escape-into-my-mind.json](./355175-i-wanna-escape-into-my-mind.json) |
@@ -1267,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Id Action Pack Vol. 4 | 276330 | [276330-id-action-pack-vol-4.json](./276330-id-action-pack-vol-4.json) |
 | Id Mindstate Machine | 335059 | [335059-id-mindstate-machine.json](./335059-id-mindstate-machine.json) |
 | ID-Ego | 125359 | [125359-id-ego.json](./125359-id-ego.json) |
+| Id: Rebirth Session | 142564 | [142564-id-rebirth-session.json](./142564-id-rebirth-session.json) |
 | ID4 Mission Disk 2: Alien Science Officer | 78005 | [78005-id4-mission-disk-2-alien-science-officer.json](./78005-id4-mission-disk-2-alien-science-officer.json) |
 | iDate Reborn | 384190 | [384190-idate-reborn.json](./384190-idate-reborn.json) |
 | iDate: ReVibe | 393418 | [393418-idate-revibe.json](./393418-idate-revibe.json) |
@@ -3013,6 +3015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Loop | 364678 | [364678-in-the-loop.json](./364678-in-the-loop.json) |
 | In The Middle Of | 371500 | [371500-in-the-middle-of.json](./371500-in-the-middle-of.json) |
 | In the Middle of Ages | 383334 | [383334-in-the-middle-of-ages.json](./383334-in-the-middle-of-ages.json) |
+| In the Middle of the Night | 142542 | [142542-in-the-middle-of-the-night.json](./142542-in-the-middle-of-the-night.json) |
 | In the Midnight Light | 200350 | [200350-in-the-midnight-light.json](./200350-in-the-midnight-light.json) |
 | In the Midst of a Neverending Season | 369052 | [369052-in-the-midst-of-a-neverending-season.json](./369052-in-the-midst-of-a-neverending-season.json) |
 | In the Midst of Ratings | 66749 | [66749-in-the-midst-of-ratings.json](./66749-in-the-midst-of-ratings.json) |
@@ -3936,7 +3939,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -6804,6 +6806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Too Rainy Day | 116057 | [116057-its-too-rainy-day.json](./116057-its-too-rainy-day.json) |
 | It's Vegetable | 295972 | [295972-its-vegetable.json](./295972-its-vegetable.json) |
 | It's Walky! Resurrection | 60470 | [60470-its-walky-resurrection.json](./60470-its-walky-resurrection.json) |
+| It's Way Past Bed Time | 142543 | [142543-its-way-past-bed-time.json](./142543-its-way-past-bed-time.json) |
 | It's Wiggle Time | 92679 | [92679-its-wiggle-time.json](./92679-its-wiggle-time.json) |
 | It's Winter | 115591 | [115591-its-winter.json](./115591-its-winter.json) |
 | It's You: A Breakup Story | 105097 | [105097-its-you-a-breakup-story.json](./105097-its-you-a-breakup-story.json) |
