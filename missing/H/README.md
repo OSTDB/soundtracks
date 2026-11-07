@@ -7663,6 +7663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higher Than Mush | 371000 | [371000-higher-than-mush.json](./371000-higher-than-mush.json) |
 | HigherLower | 353627 | [353627-higherlower.json](./353627-higherlower.json) |
 | HighFleet | 157439 | [157439-highfleet.json](./157439-highfleet.json) |
+| Highgrounds | 179824 | [179824-highgrounds.json](./179824-highgrounds.json) |
 | HighKing | 320036 | [320036-highking.json](./320036-highking.json) |
 | Highland Games | 417472 | [417472-highland-games.json](./417472-highland-games.json) |
 | Highland Haven | 402725 | [402725-highland-haven.json](./402725-highland-haven.json) |
