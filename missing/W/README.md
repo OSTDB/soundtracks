@@ -4839,6 +4839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Made this Art? Human or AI | 286652 | [286652-who-made-this-art-human-or-ai.json](./286652-who-made-this-art-human-or-ai.json) |
 | Who Murdered My Empress? | 291705 | [291705-who-murdered-my-empress.json](./291705-who-murdered-my-empress.json) |
 | Who Must Die | 33112 | [33112-who-must-die.json](./33112-who-must-die.json) |
+| Who Needs a Hero? | 140731 | [140731-who-needs-a-hero.json](./140731-who-needs-a-hero.json) |
 | Who Needs to Study? | 371209 | [371209-who-needs-to-study.json](./371209-who-needs-to-study.json) |
 | Who owns the kangaroo? | 71215 | [71215-who-owns-the-kangaroo.json](./71215-who-owns-the-kangaroo.json) |
 | Who Run the City | 237748 | [237748-who-run-the-city.json](./237748-who-run-the-city.json) |
