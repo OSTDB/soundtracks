@@ -1562,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OldWar | 118039 | [118039-oldwar.json](./118039-oldwar.json) |
 | OldWar 2 | 120583 | [120583-oldwar-2.json](./120583-oldwar-2.json) |
 | Olé, Toro | 93445 | [93445-ole-toro.json](./93445-ole-toro.json) |
+| Ole: Card Game | 169003 | [169003-ole-card-game.json](./169003-ole-card-game.json) |
 | Ole! | 93045 | [93045-ole.json](./93045-ole.json) |
 | Olea's Descent | 112678 | [112678-oleas-descent.json](./112678-oleas-descent.json) |
 | Olea's Messenger | 110501 | [110501-oleas-messenger.json](./110501-oleas-messenger.json) |
@@ -4547,6 +4548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osyaberi! Horijyo! Gekihori: Anna Holinski Saves the Universe, Alright?! | 222425 | [222425-osyaberi-horijyo-gekihori-anna-holinski-saves-the-universe-alright.json](./222425-osyaberi-horijyo-gekihori-anna-holinski-saves-the-universe-alright.json) |
 | Osyaberi! Horijyo! Holin Slash | 147841 | [147841-osyaberi-horijyo-holin-slash.json](./147841-osyaberi-horijyo-holin-slash.json) |
 | Osyaberi! Puzzle Chigatan: Spot the Differences with Everyone | 147824 | [147824-osyaberi-puzzle-chigatan-spot-the-differences-with-everyone.json](./147824-osyaberi-puzzle-chigatan-spot-the-differences-with-everyone.json) |
+| Osylla | 169026 | [169026-osylla.json](./169026-osylla.json) |
 | Otaku and Bubbly Girl | 392312 | [392312-otaku-and-bubbly-girl.json](./392312-otaku-and-bubbly-girl.json) |
 | Otaku Club | 156924 | [156924-otaku-club.json](./156924-otaku-club.json) |
 | Otaku Miracles | 333067 | [333067-otaku-miracles.json](./333067-otaku-miracles.json) |
