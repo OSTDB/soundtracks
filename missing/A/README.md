@@ -1923,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abcdef | 330374 | [330374-abcdef.json](./330374-abcdef.json) |
 | ABCs with Dally Dino: Preschool Kids Learn the Alphabet with A Fun Dinosaur Friend | 88854 | [88854-abcs-with-dally-dino-preschool-kids-learn-the-alphabet-with-a-fun-dinosaur-friend.json](./88854-abcs-with-dally-dino-preschool-kids-learn-the-alphabet-with-a-fun-dinosaur-friend.json) |
 | ABD: A Beautiful Day | 34900 | [34900-abd-a-beautiful-day.json](./34900-abd-a-beautiful-day.json) |
+| Abda Redeemer: Space Alien Invasion | 167451 | [167451-abda-redeemer-space-alien-invasion.json](./167451-abda-redeemer-space-alien-invasion.json) |
 | Abdicate | 377428 | [377428-abdicate.json](./377428-abdicate.json) |
 | Abdogtion | 287439 | [287439-abdogtion.json](./287439-abdogtion.json) |
 | Abducidos | 312868 | [312868-abducidos.json](./312868-abducidos.json) |
@@ -10298,6 +10299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime & Manga Color by Number: Sandbox Pixel Art | 102551 | [102551-anime-and-manga-color-by-number-sandbox-pixel-art.json](./102551-anime-and-manga-color-by-number-sandbox-pixel-art.json) |
 | Anime and Your Life | 111778 | [111778-anime-and-your-life.json](./111778-anime-and-your-life.json) |
 | Anime Angels feat. Tomozero | 275439 | [275439-anime-angels-feat-tomozero.json](./275439-anime-angels-feat-tomozero.json) |
+| Anime Arena: Infinite War | 167453 | [167453-anime-arena-infinite-war.json](./167453-anime-arena-infinite-war.json) |
 | Anime Armpits | 202646 | [202646-anime-armpits.json](./202646-anime-armpits.json) |
 | Anime Artist | 280177 | [280177-anime-artist.json](./280177-anime-artist.json) |
 | Anime Artist 2: Lovely Danya | 129685 | [129685-anime-artist-2-lovely-danya.json](./129685-anime-artist-2-lovely-danya.json) |
@@ -16796,6 +16798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
