@@ -3289,6 +3289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ooze: Creepy Nights | 57695 | [57695-ooze-creepy-nights.json](./57695-ooze-creepy-nights.json) |
 | Ooze: Creepy Nites | 71746 | [71746-ooze-creepy-nites.json](./71746-ooze-creepy-nites.json) |
 | Ooze: The Great and Powerful | 265315 | [265315-ooze-the-great-and-powerful.json](./265315-ooze-the-great-and-powerful.json) |
+| Oozescape | 191331 | [191331-oozescape.json](./191331-oozescape.json) |
 | Oozi: Earth Adventure | 16738 | [16738-oozi-earth-adventure.json](./16738-oozi-earth-adventure.json) |
 | Oozin' in Space! | 179552 | [179552-oozin-in-space.json](./179552-oozin-in-space.json) |
 | Oozing Blasphemy | 271241 | [271241-oozing-blasphemy.json](./271241-oozing-blasphemy.json) |
@@ -4646,6 +4647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otoko Cross: Pretty Boys Mahjong Solitaire | 199569 | [199569-otoko-cross-pretty-boys-mahjong-solitaire.json](./199569-otoko-cross-pretty-boys-mahjong-solitaire.json) |
 | Otoko Dogeza Zigoku | 63870 | [63870-otoko-dogeza-zigoku.json](./63870-otoko-dogeza-zigoku.json) |
 | Otokonoko Fishing | 283848 | [283848-otokonoko-fishing.json](./283848-otokonoko-fishing.json) |
+| Otomaid @ Cafe | 191361 | [191361-otomaid-cafe.json](./191361-otomaid-cafe.json) |
 | Otome Chat Connection | 199051 | [199051-otome-chat-connection.json](./199051-otome-chat-connection.json) |
 | Otome Daoshi Fighting For Love | 391856 | [391856-otome-daoshi-fighting-for-love.json](./391856-otome-daoshi-fighting-for-love.json) |
 | Otome Daoshi: Fighting for Love | 274883 | [274883-otome-daoshi-fighting-for-love.json](./274883-otome-daoshi-fighting-for-love.json) |
@@ -4908,6 +4910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ourlands | 317152 | [317152-ourlands.json](./317152-ourlands.json) |
 | Ourmaze | 26367 | [26367-ourmaze.json](./26367-ourmaze.json) |
 | Ourobolos | 378376 | [378376-ourobolos.json](./378376-ourobolos.json) |
+| Ouroboros | 191342 | [191342-ouroboros.json](./191342-ouroboros.json) |
 | Ouroboros | 230408 | [230408-ouroboros.json](./230408-ouroboros.json) |
 | Ouroboros | 308155 | [308155-ouroboros.json](./308155-ouroboros.json) |
 | Ouroboros | 340969 | [340969-ouroboros.json](./340969-ouroboros.json) |
