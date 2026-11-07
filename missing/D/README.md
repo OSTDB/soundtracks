@@ -10077,6 +10077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirty Aim Trainer VR | 266752 | [266752-dirty-aim-trainer-vr.json](./266752-dirty-aim-trainer-vr.json) |
 | Dirty Beastly Muscles | 379650 | [379650-dirty-beastly-muscles.json](./379650-dirty-beastly-muscles.json) |
 | Dirty Birdy: An Evil Minded Rhyme Game | 101429 | [101429-dirty-birdy-an-evil-minded-rhyme-game.json](./101429-dirty-birdy-an-evil-minded-rhyme-game.json) |
+| Dirty Blood | 150822 | [150822-dirty-blood.json](./150822-dirty-blood.json) |
 | Dirty Bomb | 1902 | [1902-dirty-bomb.json](./1902-dirty-bomb.json) |
 | Dirty Business | 398532 | [398532-dirty-business.json](./398532-dirty-business.json) |
 | Dirty Cop | 323807 | [323807-dirty-cop.json](./323807-dirty-cop.json) |
@@ -11268,6 +11269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dizzy Rogues | 224615 | [224615-dizzy-rogues.json](./224615-dizzy-rogues.json) |
 | Dizzy Sheep Disaster: EX | 395755 | [395755-dizzy-sheep-disaster-ex.json](./395755-dizzy-sheep-disaster-ex.json) |
 | Dizzy the Adventurer | 48672 | [48672-dizzy-the-adventurer.json](./48672-dizzy-the-adventurer.json) |
+| Dizzy Two | 150824 | [150824-dizzy-two.json](./150824-dizzy-two.json) |
 | Dizzy Wizard | 15217 | [15217-dizzy-wizard.json](./15217-dizzy-wizard.json) |
 | Dizzy: Crash Edition | 45241 | [45241-dizzy-crash-edition.json](./45241-dizzy-crash-edition.json) |
 | Dizzy: Prince of the Yolkfolk | 12049 | [12049-dizzy-prince-of-the-yolkfolk.json](./12049-dizzy-prince-of-the-yolkfolk.json) |
@@ -17848,6 +17850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duels+ | 398635 | [398635-duels.json](./398635-duels.json) |
 | Duelstar | 213146 | [213146-duelstar.json](./213146-duelstar.json) |
 | DuelVox | 155574 | [155574-duelvox.json](./155574-duelvox.json) |
+| DuelVox: Max Quality | 150843 | [150843-duelvox-max-quality.json](./150843-duelvox-max-quality.json) |
 | Duelyst | 19853 | [19853-duelyst.json](./19853-duelyst.json) |
 | Duelyst GG | 232452 | [232452-duelyst-gg.json](./232452-duelyst-gg.json) |
 | Duelyst II | 215867 | [215867-duelyst-ii.json](./215867-duelyst-ii.json) |
