@@ -11204,6 +11204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rose Guns Days: The Best | 274250 | [274250-rose-guns-days-the-best.json](./274250-rose-guns-days-the-best.json) |
 | Rose Hips | 395037 | [395037-rose-hips.json](./395037-rose-hips.json) |
 | Rose in the Embers | 238910 | [238910-rose-in-the-embers.json](./238910-rose-in-the-embers.json) |
+| Rose Knight and Thorn Witch | 166359 | [166359-rose-knight-and-thorn-witch.json](./166359-rose-knight-and-thorn-witch.json) |
 | Rose O'Neill Kewpie Bomberman | 198036 | [198036-rose-oneill-kewpie-bomberman.json](./198036-rose-oneill-kewpie-bomberman.json) |
 | Rose of Longevity | 326822 | [326822-rose-of-longevity.json](./326822-rose-of-longevity.json) |
 | Rose of Meat | 392161 | [392161-rose-of-meat.json](./392161-rose-of-meat.json) |
