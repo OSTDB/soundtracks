@@ -4509,6 +4509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afterslave | 210857 | [210857-afterslave.json](./210857-afterslave.json) |
 | Aftertaste | 295437 | [295437-aftertaste.json](./295437-aftertaste.json) |
 | Aftertaste | 419845 | [419845-aftertaste.json](./419845-aftertaste.json) |
+| AfterTheCloud | 159950 | [159950-afterthecloud.json](./159950-afterthecloud.json) |
 | AfterTheDawn | 81753 | [81753-afterthedawn.json](./81753-afterthedawn.json) |
 | Afterthought | 154755 | [154755-afterthought.json](./154755-afterthought.json) |
 | Aftertime | 211420 | [211420-aftertime.json](./211420-aftertime.json) |
@@ -9884,6 +9885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Dog | 399631 | [399631-angry-dog.json](./399631-angry-dog.json) |
 | Angry Emoji the Game | 169927 | [169927-angry-emoji-the-game.json](./169927-angry-emoji-the-game.json) |
 | Angry Fugu | 144993 | [144993-angry-fugu.json](./144993-angry-fugu.json) |
+| Angry Giant | 159979 | [159979-angry-giant.json](./159979-angry-giant.json) |
 | Angry Girl | 120821 | [120821-angry-girl.json](./120821-angry-girl.json) |
 | Angry Golf | 122209 | [122209-angry-golf.json](./122209-angry-golf.json) |
 | Angry Golf 2 | 340803 | [340803-angry-golf-2.json](./340803-angry-golf-2.json) |
@@ -9978,6 +9980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anima Keeper | 291355 | [291355-anima-keeper.json](./291355-anima-keeper.json) |
 | Anima Mundi | 350000 | [350000-anima-mundi.json](./350000-anima-mundi.json) |
 | Anima of Quantmix | 200731 | [200731-anima-of-quantmix.json](./200731-anima-of-quantmix.json) |
+| Anima Reaver | 159953 | [159953-anima-reaver.json](./159953-anima-reaver.json) |
 | Anima Reprise | 242542 | [242542-anima-reprise.json](./242542-anima-reprise.json) |
 | Anima Shin Gun | 367943 | [367943-anima-shin-gun.json](./367943-anima-shin-gun.json) |
 | Anima: Ark of Sinners | 51096 | [51096-anima-ark-of-sinners.json](./51096-anima-ark-of-sinners.json) |
