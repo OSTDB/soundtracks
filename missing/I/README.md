@@ -4334,6 +4334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inline: Out of Time | 290706 | [290706-inline-out-of-time.json](./290706-inline-out-of-time.json) |
 | Inma Nemu no Chu-chu Seieki Tanken-ki | 114904 | [114904-inma-nemu-no-chu-chu-seieki-tanken-ki.json](./114904-inma-nemu-no-chu-chu-seieki-tanken-ki.json) |
 | Inmates | 27779 | [27779-inmates.json](./27779-inmates.json) |
+| InMaze | 171700 | [171700-inmaze.json](./171700-inmaze.json) |
 | InMind 2 VR | 31466 | [31466-inmind-2-vr.json](./31466-inmind-2-vr.json) |
 | InMind VR | 19024 | [19024-inmind-vr.json](./19024-inmind-vr.json) |
 | InMomentum | 10435 | [10435-inmomentum.json](./10435-inmomentum.json) |
@@ -5998,6 +5999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironsand | 312749 | [312749-ironsand.json](./312749-ironsand.json) |
 | Ironscale | 349647 | [349647-ironscale.json](./349647-ironscale.json) |
 | Ironseed 2: Consensus | 353800 | [353800-ironseed-2-consensus.json](./353800-ironseed-2-consensus.json) |
+| Ironseed 25th Anniversary Edition | 171706 | [171706-ironseed-25th-anniversary-edition.json](./171706-ironseed-25th-anniversary-edition.json) |
 | Ironsmith Medieval Simulator | 122862 | [122862-ironsmith-medieval-simulator.json](./122862-ironsmith-medieval-simulator.json) |
 | Ironsmith Simulator | 111975 | [111975-ironsmith-simulator.json](./111975-ironsmith-simulator.json) |
 | IronStorm - World War Zero | 44641 | [44641-ironstorm-world-war-zero.json](./44641-ironstorm-world-war-zero.json) |
