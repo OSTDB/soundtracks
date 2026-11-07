@@ -661,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamo | 121465 | [121465-lamo.json](./121465-lamo.json) |
 | Lamoneo | 201362 | [201362-lamoneo.json](./201362-lamoneo.json) |
 | Lamp and Vamp | 240111 | [240111-lamp-and-vamp.json](./240111-lamp-and-vamp.json) |
+| Lamp Chronicle | 143840 | [143840-lamp-chronicle.json](./143840-lamp-chronicle.json) |
 | Lamp Head | 29284 | [29284-lamp-head.json](./29284-lamp-head.json) |
 | Lamp Man Down | 109379 | [109379-lamp-man-down.json](./109379-lamp-man-down.json) |
 | Lamp of Aladdin | 23922 | [23922-lamp-of-aladdin.json](./23922-lamp-of-aladdin.json) |
@@ -9144,6 +9145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely Girls Puzzle | 163540 | [163540-lovely-girls-puzzle.json](./163540-lovely-girls-puzzle.json) |
 | Lovely Goddess | 155019 | [155019-lovely-goddess.json](./155019-lovely-goddess.json) |
 | Lovely Hentai | 126391 | [126391-lovely-hentai.json](./126391-lovely-hentai.json) |
+| Lovely Hero | 143863 | [143863-lovely-hero.json](./143863-lovely-hero.json) |
 | Lovely Heroines | 123879 | [123879-lovely-heroines.json](./123879-lovely-heroines.json) |
 | Lovely Horror: Ochame na Yuurei | 269414 | [269414-lovely-horror-ochame-na-yuurei.json](./269414-lovely-horror-ochame-na-yuurei.json) |
 | Lovely Island | 109620 | [109620-lovely-island.json](./109620-lovely-island.json) |
