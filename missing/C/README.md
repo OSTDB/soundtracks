@@ -2946,6 +2946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carpet Capers | 379613 | [379613-carpet-capers.json](./379613-carpet-capers.json) |
 | Carpet Cleaning Master | 409989 | [409989-carpet-cleaning-master.json](./409989-carpet-cleaning-master.json) |
 | Carpet Cleaning Simulator | 407474 | [407474-carpet-cleaning-simulator.json](./407474-carpet-cleaning-simulator.json) |
+| Carpet Diem | 176604 | [176604-carpet-diem.json](./176604-carpet-diem.json) |
 | Carpet Gallery | 320314 | [320314-carpet-gallery.json](./320314-carpet-gallery.json) |
 | Carpet Kitty | 238295 | [238295-carpet-kitty.json](./238295-carpet-kitty.json) |
 | Carpet Shark | 214513 | [214513-carpet-shark.json](./214513-carpet-shark.json) |
@@ -13710,6 +13711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquer Online | 84455 | [84455-conquer-online.json](./84455-conquer-online.json) |
 | Conquer Online 2.0 | 18820 | [18820-conquer-online-2-0.json](./18820-conquer-online-2-0.json) |
 | Conquer or Die | 187289 | [187289-conquer-or-die.json](./187289-conquer-or-die.json) |
+| Conquer Space | 176613 | [176613-conquer-space.json](./176613-conquer-space.json) |
 | Conquer the Dungeon | 190720 | [190720-conquer-the-dungeon.json](./190720-conquer-the-dungeon.json) |
 | Conquer the Islands | 224085 | [224085-conquer-the-islands.json](./224085-conquer-the-islands.json) |
 | Conquer the Labyrinth | 422462 | [422462-conquer-the-labyrinth.json](./422462-conquer-the-labyrinth.json) |
@@ -14236,6 +14238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Control: Ultimate Asia Limited Edition | 167088 | [167088-control-ultimate-asia-limited-edition.json](./167088-control-ultimate-asia-limited-edition.json) |
 | Control: Ultimate Edition | 136604 | [136604-control-ultimate-edition.json](./136604-control-ultimate-edition.json) |
 | Control: Ultimate Edition - Cloud Version | 140503 | [140503-control-ultimate-edition-cloud-version.json](./140503-control-ultimate-edition-cloud-version.json) |
+| Control(s) | 176600 | [176600-control-s.json](./176600-control-s.json) |
 | Controlled Climate Chaos | 282130 | [282130-controlled-climate-chaos.json](./282130-controlled-climate-chaos.json) |
 | Controlled Death | 302065 | [302065-controlled-death.json](./302065-controlled-death.json) |
 | Controller | 18765 | [18765-controller.json](./18765-controller.json) |
@@ -14924,6 +14927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corporation Master | 55889 | [55889-corporation-master.json](./55889-corporation-master.json) |
 | Corporeal | 321258 | [321258-corporeal.json](./321258-corporeal.json) |
 | Corporeal | 365138 | [365138-corporeal.json](./365138-corporeal.json) |
+| Corpse Box Racers | 176586 | [176586-corpse-box-racers.json](./176586-corpse-box-racers.json) |
 | Corpse Burger | 420595 | [420595-corpse-burger.json](./420595-corpse-burger.json) |
 | Corpse Carnival | 321302 | [321302-corpse-carnival.json](./321302-corpse-carnival.json) |
 | Corpse Castle | 138671 | [138671-corpse-castle.json](./138671-corpse-castle.json) |
