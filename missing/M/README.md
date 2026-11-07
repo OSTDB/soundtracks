@@ -16416,6 +16416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Truck Rumble | 61924 | [61924-monster-truck-rumble.json](./61924-monster-truck-rumble.json) |
 | Monster Truck Soccer | 197648 | [197648-monster-truck-soccer.json](./197648-monster-truck-soccer.json) |
 | Monster Truck Story | 179924 | [179924-monster-truck-story.json](./179924-monster-truck-story.json) |
+| Monster Truck Stunt Rally | 146435 | [146435-monster-truck-stunt-rally.json](./146435-monster-truck-stunt-rally.json) |
 | Monster Truck Trip 2 | 337224 | [337224-monster-truck-trip-2.json](./337224-monster-truck-trip-2.json) |
 | Monster Truck Wars | 19783 | [19783-monster-truck-wars.json](./19783-monster-truck-wars.json) |
 | Monster Truck XT Airport Derby | 86784 | [86784-monster-truck-xt-airport-derby.json](./86784-monster-truck-xt-airport-derby.json) |
@@ -16949,6 +16950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonrakers: Luminor | 208559 | [208559-moonrakers-luminor.json](./208559-moonrakers-luminor.json) |
 | Moonray | 133362 | [133362-moonray.json](./133362-moonray.json) |
 | Moonray: Battle Lands | 368045 | [368045-moonray-battle-lands.json](./368045-moonray-battle-lands.json) |
+| Moonrider | 146450 | [146450-moonrider.json](./146450-moonrider.json) |
 | Moonring | 266774 | [266774-moonring.json](./266774-moonring.json) |
 | Moonring DX | 334849 | [334849-moonring-dx.json](./334849-moonring-dx.json) |
 | Moonripple Lake | 392888 | [392888-moonripple-lake.json](./392888-moonripple-lake.json) |
@@ -19452,6 +19454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munch Planet | 286878 | [286878-munch-planet.json](./286878-munch-planet.json) |
 | Munchees | 319588 | [319588-munchees.json](./319588-munchees.json) |
 | Muncher | 80219 | [80219-muncher.json](./80219-muncher.json) |
+| Muncher Mania Classic | 146445 | [146445-muncher-mania-classic.json](./146445-muncher-mania-classic.json) |
 | Munchie Strikers | 258421 | [258421-munchie-strikers.json](./258421-munchie-strikers.json) |
 | Munchies | 195973 | [195973-munchies.json](./195973-munchies.json) |
 | Munchies! | 78261 | [78261-munchies.json](./78261-munchies.json) |
