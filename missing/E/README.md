@@ -2881,6 +2881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elvira: The Arcade Game | 39035 | [39035-elvira-the-arcade-game.json](./39035-elvira-the-arcade-game.json) |
 | Elvira's Horror Bundle | 186542 | [186542-elviras-horror-bundle.json](./186542-elviras-horror-bundle.json) |
 | Elvira's Horror Pack | 71476 | [71476-elviras-horror-pack.json](./71476-elviras-horror-pack.json) |
+| Elwick | 159468 | [159468-elwick.json](./159468-elwick.json) |
 | Elya Richi vs Blackstone: Nuclear War | 384570 | [384570-elya-richi-vs-blackstone-nuclear-war.json](./384570-elya-richi-vs-blackstone-nuclear-war.json) |
 | Elyndor | 402563 | [402563-elyndor.json](./402563-elyndor.json) |
 | Elyon | 75567 | [75567-elyon.json](./75567-elyon.json) |
@@ -3524,6 +3525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchantment 2: Sun's Tear - Collector's Edition | 385110 | [385110-enchantment-2-suns-tear-collectors-edition.json](./385110-enchantment-2-suns-tear-collectors-edition.json) |
 | Enchantment Siege | 253966 | [253966-enchantment-siege.json](./253966-enchantment-siege.json) |
 | Enchantment: Secret Hideaway - Collector's Edition | 395948 | [395948-enchantment-secret-hideaway-collectors-edition.json](./395948-enchantment-secret-hideaway-collectors-edition.json) |
+| Enchantress | 159462 | [159462-enchantress.json](./159462-enchantress.json) |
 | Enchantress of the Sea | 322014 | [322014-enchantress-of-the-sea.json](./322014-enchantress-of-the-sea.json) |
 | Encircled | 319977 | [319977-encircled.json](./319977-encircled.json) |
 | Enclave HD | 169240 | [169240-enclave-hd.json](./169240-enclave-hd.json) |
@@ -6067,6 +6069,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Destinies | 88056 | [88056-eternal-destinies.json](./88056-eternal-destinies.json) |
 | Eternal Destiny | 251215 | [251215-eternal-destiny.json](./251215-eternal-destiny.json) |
 | Eternal Destiny | 35045 | [35045-eternal-destiny.json](./35045-eternal-destiny.json) |
+| Eternal Destiny: Angel's Ladder - Next Manhattan Project | 159446 | [159446-eternal-destiny-angels-ladder-next-manhattan-project.json](./159446-eternal-destiny-angels-ladder-next-manhattan-project.json) |
+| Eternal Destiny: Demon Slayer - Turmoil of Tohno | 159443 | [159443-eternal-destiny-demon-slayer-turmoil-of-tohno.json](./159443-eternal-destiny-demon-slayer-turmoil-of-tohno.json) |
+| Eternal Destiny: Demon's Casket - The Seven Sins | 159445 | [159445-eternal-destiny-demons-casket-the-seven-sins.json](./159445-eternal-destiny-demons-casket-the-seven-sins.json) |
+| Eternal Destiny: Dragon's Dawn - Revenge of Tiamat | 159442 | [159442-eternal-destiny-dragons-dawn-revenge-of-tiamat.json](./159442-eternal-destiny-dragons-dawn-revenge-of-tiamat.json) |
+| Eternal Destiny: The Attribute Sanctuaries | 159444 | [159444-eternal-destiny-the-attribute-sanctuaries.json](./159444-eternal-destiny-the-attribute-sanctuaries.json) |
+| Eternal Destiny: The Salem Witches - Those Who Devour Fear | 159441 | [159441-eternal-destiny-the-salem-witches-those-who-devour-fear.json](./159441-eternal-destiny-the-salem-witches-those-who-devour-fear.json) |
 | Eternal Diary | 212860 | [212860-eternal-diary.json](./212860-eternal-diary.json) |
 | Eternal Doom | 140521 | [140521-eternal-doom.json](./140521-eternal-doom.json) |
 | Eternal Doom IV: Return from Oblivion | 256891 | [256891-eternal-doom-iv-return-from-oblivion.json](./256891-eternal-doom-iv-return-from-oblivion.json) |
@@ -7914,6 +7922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ExoTanks MOBA | 119528 | [119528-exotanks-moba.json](./119528-exotanks-moba.json) |
 | Exoterra: A Space Journey | 383102 | [383102-exoterra-a-space-journey.json](./383102-exoterra-a-space-journey.json) |
 | Exotic | 186847 | [186847-exotic.json](./186847-exotic.json) |
+| Exotic Cars VI | 159463 | [159463-exotic-cars-vi.json](./159463-exotic-cars-vi.json) |
 | Exotic Kosmos | 258971 | [258971-exotic-kosmos.json](./258971-exotic-kosmos.json) |
 | Exotic Match | 212526 | [212526-exotic-match.json](./212526-exotic-match.json) |
 | Exotic Matter | 75107 | [75107-exotic-matter.json](./75107-exotic-matter.json) |
