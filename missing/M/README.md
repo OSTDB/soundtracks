@@ -2132,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahou no Shoujo: Silky Lip | 46389 | [46389-mahou-no-shoujo-silky-lip.json](./46389-mahou-no-shoujo-silky-lip.json) |
 | Mahou no Tenshi Creamy Mami: Futatsu no Sekai no Monogatari | 131375 | [131375-mahou-no-tenshi-creamy-mami-futatsu-no-sekai-no-monogatari.json](./131375-mahou-no-tenshi-creamy-mami-futatsu-no-sekai-no-monogatari.json) |
 | Mahou Poi-poi Poitto! | 42377 | [42377-mahou-poi-poi-poitto.json](./42377-mahou-poi-poi-poitto.json) |
+| Mahou Shojo ha Jiyuu ni Henshin Dekinai. | 167423 | [167423-mahou-shojo-ha-jiyuu-ni-henshin-dekinai.json](./167423-mahou-shojo-ha-jiyuu-ni-henshin-dekinai.json) |
 | Mahou Shoujo Dai Shippai | 395496 | [395496-mahou-shoujo-dai-shippai.json](./395496-mahou-shoujo-dai-shippai.json) |
 | Mahou Shoujo Desu ga, Dungeon de Mugen ni Tsuyoku Natte mo Ii Desu ka | 187152 | [187152-mahou-shoujo-desu-ga-dungeon-de-mugen-ni-tsuyoku-natte-mo-ii-desu-ka.json](./187152-mahou-shoujo-desu-ga-dungeon-de-mugen-ni-tsuyoku-natte-mo-ii-desu-ka.json) |
 | Mahou Shoujo Escape | 348019 | [348019-mahou-shoujo-escape.json](./348019-mahou-shoujo-escape.json) |
@@ -5979,7 +5980,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9132,6 +9132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mental Hospital III HD | 212783 | [212783-mental-hospital-iii-hd.json](./212783-mental-hospital-iii-hd.json) |
 | Mental Hospital IV | 292817 | [292817-mental-hospital-iv.json](./292817-mental-hospital-iv.json) |
 | Mental Hospital V | 200030 | [200030-mental-hospital-v.json](./200030-mental-hospital-v.json) |
+| Mental Hospital VR | 167430 | [167430-mental-hospital-vr.json](./167430-mental-hospital-vr.json) |
 | Mental Hospital: Child of Evil | 173968 | [173968-mental-hospital-child-of-evil.json](./173968-mental-hospital-child-of-evil.json) |
 | Mental House | 121945 | [121945-mental-house.json](./121945-mental-house.json) |
 | Mental Math Madness | 301869 | [301869-mental-math-madness.json](./301869-mental-math-madness.json) |
@@ -11222,6 +11223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Kun | 280114 | [280114-midnight-kun.json](./280114-midnight-kun.json) |
 | Midnight Lane | 296976 | [296976-midnight-lane.json](./296976-midnight-lane.json) |
 | Midnight Launch: A GameShop Sim | 362938 | [362938-midnight-launch-a-gameshop-sim.json](./362938-midnight-launch-a-gameshop-sim.json) |
+| Midnight Legends | 167425 | [167425-midnight-legends.json](./167425-midnight-legends.json) |
 | Midnight Lights | 276751 | [276751-midnight-lights.json](./276751-midnight-lights.json) |
 | Midnight Looters | 392121 | [392121-midnight-looters.json](./392121-midnight-looters.json) |
 | Midnight Magic | 41109 | [41109-midnight-magic.json](./41109-midnight-magic.json) |
