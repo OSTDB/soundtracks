@@ -970,7 +970,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1121,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bahnfrei | 398409 | [398409-bahnfrei.json](./398409-bahnfrei.json) |
 | Bahnsen Knights | 210566 | [210566-bahnsen-knights.json](./210566-bahnsen-knights.json) |
 | Bahnsim Pro | 145284 | [145284-bahnsim-pro.json](./145284-bahnsim-pro.json) |
+| Bǎi Jí Guàiyì yǔ Jīnyú | 149740 | [149740-bai-ji-guaiyi-yu-jinyu.json](./149740-bai-ji-guaiyi-yu-jinyu.json) |
 | Bai Qu: Hundreds of Melodies | 154325 | [154325-bai-qu-hundreds-of-melodies.json](./154325-bai-qu-hundreds-of-melodies.json) |
 | Bái Xiǎo | 195266 | [195266-bai-xiao.json](./195266-bai-xiao.json) |
 | Baia | 334498 | [334498-baia.json](./334498-baia.json) |
@@ -4522,6 +4522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlestations: Midway | 4223 | [4223-battlestations-midway.json](./4223-battlestations-midway.json) |
 | Battlestations: Pacific | 4222 | [4222-battlestations-pacific.json](./4222-battlestations-pacific.json) |
 | BattleStick | 34635 | [34635-battlestick.json](./34635-battlestick.json) |
+| BattleStick 2 | 149744 | [149744-battlestick-2.json](./149744-battlestick-2.json) |
 | Battlestone | 63084 | [63084-battlestone.json](./63084-battlestone.json) |
 | BattleStones | 90851 | [90851-battlestones.json](./90851-battlestones.json) |
 | BattleStorm | 33774 | [33774-battlestorm.json](./33774-battlestorm.json) |
@@ -10155,6 +10156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blessing of Mokosh | 176749 | [176749-blessing-of-mokosh.json](./176749-blessing-of-mokosh.json) |
 | Blessing of the Flower Goddess | 358641 | [358641-blessing-of-the-flower-goddess.json](./358641-blessing-of-the-flower-goddess.json) |
 | Blessing: Part I | 398166 | [398166-blessing-part-i.json](./398166-blessing-part-i.json) |
+| Blessings of No-more | 149752 | [149752-blessings-of-no-more.json](./149752-blessings-of-no-more.json) |
 | Blest | 367534 | [367534-blest.json](./367534-blest.json) |
 | Bleu | 187169 | [187169-bleu.json](./187169-bleu.json) |
 | Bleu Bayou | 349836 | [349836-bleu-bayou.json](./349836-bleu-bayou.json) |
@@ -10389,6 +10391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blob Dash | 205619 | [205619-blob-dash.json](./205619-blob-dash.json) |
 | Blob Factory | 407300 | [407300-blob-factory.json](./407300-blob-factory.json) |
 | Blob King | 124762 | [124762-blob-king.json](./124762-blob-king.json) |
+| Blob Lander | 149762 | [149762-blob-lander.json](./149762-blob-lander.json) |
 | Blob Life | 270482 | [270482-blob-life.json](./270482-blob-life.json) |
 | Blob Man | 287493 | [287493-blob-man.json](./287493-blob-man.json) |
 | Blob Person | 149715 | [149715-blob-person.json](./149715-blob-person.json) |
@@ -13647,6 +13650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bosstack | 296725 | [296725-bosstack.json](./296725-bosstack.json) |
 | Bostilda | 39882 | [39882-bostilda.json](./39882-bostilda.json) |
 | Bostin Voyage | 409362 | [409362-bostin-voyage.json](./409362-bostin-voyage.json) |
+| Boston AInamics | 149742 | [149742-boston-ainamics.json](./149742-boston-ainamics.json) |
 | Boston Bomb Club | 10865 | [10865-boston-bomb-club.json](./10865-boston-bomb-club.json) |
 | Boston Nursing Home | 157174 | [157174-boston-nursing-home.json](./157174-boston-nursing-home.json) |
 | Bot Arena 3 | 261917 | [261917-bot-arena-3.json](./261917-bot-arena-3.json) |
@@ -17779,6 +17783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buran | 13455 | [13455-buran.json](./13455-buran.json) |
 | Burari Sekai Untei | 295914 | [295914-burari-sekai-untei.json](./295914-burari-sekai-untei.json) |
 | Burasagatte Iru Kiji | 261809 | [261809-burasagatte-iru-kiji.json](./261809-burasagatte-iru-kiji.json) |
+| Buratino | 149734 | [149734-buratino.json](./149734-buratino.json) |
 | Burd. | 184836 | [184836-burd.json](./184836-burd.json) |
 | Burden | 83484 | [83484-burden.json](./83484-burden.json) |
 | Burden 2: Remnants | 229643 | [229643-burden-2-remnants.json](./229643-burden-2-remnants.json) |
