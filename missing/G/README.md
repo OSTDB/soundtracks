@@ -1121,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gallows Choice | 108052 | [108052-gallows-choice.json](./108052-gallows-choice.json) |
 | GallowsHill | 265529 | [265529-gallowshill.json](./265529-gallowshill.json) |
 | Galmedes | 40147 | [40147-galmedes.json](./40147-galmedes.json) |
+| Galmon Folklore: Monster Girl Galore! | 156791 | [156791-galmon-folklore-monster-girl-galore.json](./156791-galmon-folklore-monster-girl-galore.json) |
 | Galo's Strife | 374360 | [374360-galos-strife.json](./374360-galos-strife.json) |
 | Galosphere | 341045 | [341045-galosphere.json](./341045-galosphere.json) |
 | Galpa the no limbs guy | 195367 | [195367-galpa-the-no-limbs-guy.json](./195367-galpa-the-no-limbs-guy.json) |
@@ -11271,6 +11272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns of Mercy | 114176 | [114176-guns-of-mercy.json](./114176-guns-of-mercy.json) |
 | Guns of Mercy: Rangers Edition | 115297 | [115297-guns-of-mercy-rangers-edition.json](./115297-guns-of-mercy-rangers-edition.json) |
 | Guns of Midnight | 118362 | [118362-guns-of-midnight.json](./118362-guns-of-midnight.json) |
+| Guns of Succubus | 156795 | [156795-guns-of-succubus.json](./156795-guns-of-succubus.json) |
 | Guns of Succubus 2 | 271031 | [271031-guns-of-succubus-2.json](./271031-guns-of-succubus-2.json) |
 | Guns of Survivor | 193829 | [193829-guns-of-survivor.json](./193829-guns-of-survivor.json) |
 | Guns on Wheels | 343618 | [343618-guns-on-wheels.json](./343618-guns-on-wheels.json) |
