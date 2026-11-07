@@ -7292,6 +7292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meg's Monster: Lost Memories | 376429 | [376429-megs-monster-lost-memories.json](./376429-megs-monster-lost-memories.json) |
 | Mega | 215615 | [215615-mega.json](./215615-mega.json) |
 | Mega 99Vidas | 274000 | [274000-mega-99vidas.json](./274000-mega-99vidas.json) |
+| Mega Alberto Cousins | 181467 | [181467-mega-alberto-cousins.json](./181467-mega-alberto-cousins.json) |
 | Mega Alien Destroyer | 266565 | [266565-mega-alien-destroyer.json](./266565-mega-alien-destroyer.json) |
 | Mega Babies | 209532 | [209532-mega-babies.json](./209532-mega-babies.json) |
 | Mega Blaster | 311664 | [311664-mega-blaster.json](./311664-mega-blaster.json) |
@@ -10691,6 +10692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroFab | 397661 | [397661-microfab.json](./397661-microfab.json) |
 | MicroFactory | 145627 | [145627-microfactory.json](./145627-microfactory.json) |
 | Microfisher | 346914 | [346914-microfisher.json](./346914-microfisher.json) |
+| Microgame Mosaic | 181450 | [181450-microgame-mosaic.json](./181450-microgame-mosaic.json) |
 | Microgames Jam Pack | 267222 | [267222-microgames-jam-pack.json](./267222-microgames-jam-pack.json) |
 | MicroGo | 61359 | [61359-microgo.json](./61359-microgo.json) |
 | MicroGradient | 311072 | [311072-microgradient.json](./311072-microgradient.json) |
@@ -13213,6 +13215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ministry of Pandemic | 157469 | [157469-ministry-of-pandemic.json](./157469-ministry-of-pandemic.json) |
 | Ministry of Sound: Club Manager | 57933 | [57933-ministry-of-sound-club-manager.json](./57933-ministry-of-sound-club-manager.json) |
 | Ministry of Stoic | 373310 | [373310-ministry-of-stoic.json](./373310-ministry-of-stoic.json) |
+| Ministry of Synthesis | 181478 | [181478-ministry-of-synthesis.json](./181478-ministry-of-synthesis.json) |
 | Ministry of Truth: False Memory | 346204 | [346204-ministry-of-truth-false-memory.json](./346204-ministry-of-truth-false-memory.json) |
 | Minisweeper | 91195 | [91195-minisweeper.json](./91195-minisweeper.json) |
 | Minit Man | 293669 | [293669-minit-man.json](./293669-minit-man.json) |
