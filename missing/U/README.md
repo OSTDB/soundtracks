@@ -2358,6 +2358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unitystation | 82365 | [82365-unitystation.json](./82365-unitystation.json) |
 | Unium | 35532 | [35532-unium.json](./35532-unium.json) |
 | UniverCity | 106455 | [106455-univercity.json](./106455-univercity.json) |
+| Univers | 149745 | [149745-univers.json](./149745-univers.json) |
 | Univers 11: Under the Sky | 195721 | [195721-univers-11-under-the-sky.json](./195721-univers-11-under-the-sky.json) |
 | Universal Boxing Manager | 70942 | [70942-universal-boxing-manager.json](./70942-universal-boxing-manager.json) |
 | Universal Car Ball | 345030 | [345030-universal-car-ball.json](./345030-universal-car-ball.json) |
