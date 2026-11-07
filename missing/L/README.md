@@ -4635,6 +4635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life's Too Short: On Reflection | 329912 | [329912-lifes-too-short-on-reflection.json](./329912-lifes-too-short-on-reflection.json) |
 | Life's Too Short! | 259139 | [259139-lifes-too-short.json](./259139-lifes-too-short.json) |
 | LifeAfter | 115660 | [115660-lifeafter.json](./115660-lifeafter.json) |
+| LifeAfter: Night Falls | 174990 | [174990-lifeafter-night-falls.json](./174990-lifeafter-night-falls.json) |
 | LifeBase | 29521 | [29521-lifebase.json](./29521-lifebase.json) |
 | Lifeblood | 103357 | [103357-lifeblood.json](./103357-lifeblood.json) |
 | Lifeboat | 145218 | [145218-lifeboat.json](./145218-lifeboat.json) |
