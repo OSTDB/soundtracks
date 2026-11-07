@@ -2575,6 +2575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatsune Miku: Project Diva 2nd - The Idolm@ster Collaboration Pack #2 | 294734 | [294734-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-2.json](./294734-hatsune-miku-project-diva-2nd-the-idolm-ster-collaboration-pack-2.json) |
 | Hatsune Miku: Project Diva 2nd# | 320649 | [320649-hatsune-miku-project-diva-2nd.json](./320649-hatsune-miku-project-diva-2nd.json) |
 | Hatsune Miku: Project Diva Arcade | 11771 | [11771-hatsune-miku-project-diva-arcade.json](./11771-hatsune-miku-project-diva-arcade.json) |
+| Hatsune Miku: Project Diva Arcade Future Tone | 178136 | [178136-hatsune-miku-project-diva-arcade-future-tone.json](./178136-hatsune-miku-project-diva-arcade-future-tone.json) |
 | Hatsune Miku: Project Diva Dreamy Theater | 65422 | [65422-hatsune-miku-project-diva-dreamy-theater.json](./65422-hatsune-miku-project-diva-dreamy-theater.json) |
 | Hatsune Miku: Project Diva Dreamy Theater 2nd | 65408 | [65408-hatsune-miku-project-diva-dreamy-theater-2nd.json](./65408-hatsune-miku-project-diva-dreamy-theater-2nd.json) |
 | Hatsune Miku: Project Diva Dreamy Theater Extend | 79220 | [79220-hatsune-miku-project-diva-dreamy-theater-extend.json](./79220-hatsune-miku-project-diva-dreamy-theater-extend.json) |
@@ -9010,9 +9011,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holodeck Arena | 211020 | [211020-holodeck-arena.json](./211020-holodeck-arena.json) |
 | Holodrive | 20365 | [20365-holodrive.json](./20365-holodrive.json) |
 | HoloDungeon: Koyori vs HollowLive in Honsha Tower | 410033 | [410033-holodungeon-koyori-vs-hollowlive-in-honsha-tower.json](./410033-holodungeon-koyori-vs-hollowlive-in-honsha-tower.json) |
+| Holoearth | 178144 | [178144-holoearth.json](./178144-holoearth.json) |
 | Holoemblem: The Search for Seiso | 273550 | [273550-holoemblem-the-search-for-seiso.json](./273550-holoemblem-the-search-for-seiso.json) |
 | HoloExpo20XX | 401775 | [401775-holoexpo20xx.json](./401775-holoexpo20xx.json) |
 | HoloFist | 117485 | [117485-holofist.json](./117485-holofist.json) |
+| HoloFunk: Hololive Funkin' | 178138 | [178138-holofunk-hololive-funkin.json](./178138-holofunk-hololive-funkin.json) |
 | Hologram | 190961 | [190961-hologram.json](./190961-hologram.json) |
 | Hologram | 307095 | [307095-hologram.json](./307095-hologram.json) |
 | Hologram Heroes | 137812 | [137812-hologram-heroes.json](./137812-hologram-heroes.json) |
