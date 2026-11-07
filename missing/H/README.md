@@ -8367,10 +8367,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman 2 Christmas Game | 336886 | [336886-hitman-2-christmas-game.json](./336886-hitman-2-christmas-game.json) |
 | HITMAN 2: Collector's Edition | 136111 | [136111-hitman-2-collectors-edition.json](./136111-hitman-2-collectors-edition.json) |
 | Hitman 2: Gold Edition | 112643 | [112643-hitman-2-gold-edition.json](./112643-hitman-2-gold-edition.json) |
+| Hitman 2: GOTY Legacy Pack | 167968 | [167968-hitman-2-goty-legacy-pack.json](./167968-hitman-2-goty-legacy-pack.json) |
 | Hitman 2: Haven Island | 122645 | [122645-hitman-2-haven-island.json](./122645-hitman-2-haven-island.json) |
+| Hitman 2: Hawke's Bay | 167961 | [167961-hitman-2-hawkes-bay.json](./167961-hitman-2-hawkes-bay.json) |
+| Hitman 2: Himmelstein | 167966 | [167966-hitman-2-himmelstein.json](./167966-hitman-2-himmelstein.json) |
+| Hitman 2: Isle of Sgàil | 167964 | [167964-hitman-2-isle-of-sgail.json](./167964-hitman-2-isle-of-sgail.json) |
 | Hitman 2: Miami Pack | 118173 | [118173-hitman-2-miami-pack.json](./118173-hitman-2-miami-pack.json) |
+| Hitman 2: Mumbai | 167963 | [167963-hitman-2-mumbai.json](./167963-hitman-2-mumbai.json) |
 | Hitman 2: New York | 122644 | [122644-hitman-2-new-york.json](./122644-hitman-2-new-york.json) |
+| Hitman 2: Santa Fortuna | 167962 | [167962-hitman-2-santa-fortuna.json](./167962-hitman-2-santa-fortuna.json) |
 | Hitman 2: Silver Edition | 112644 | [112644-hitman-2-silver-edition.json](./112644-hitman-2-silver-edition.json) |
+| Hitman 2: Special Assignments Pack 1 | 167967 | [167967-hitman-2-special-assignments-pack-1.json](./167967-hitman-2-special-assignments-pack-1.json) |
+| Hitman 2: Whittleton Creek | 167965 | [167965-hitman-2-whittleton-creek.json](./167965-hitman-2-whittleton-creek.json) |
 | Hitman 3 | 134595 | [134595-hitman-3.json](./134595-hitman-3.json) |
 | Hitman 3 Access Pass: Hitman - Complete First Season | 238853 | [238853-hitman-3-access-pass-hitman-complete-first-season.json](./238853-hitman-3-access-pass-hitman-complete-first-season.json) |
 | Hitman 3 Access Pass: Hitman 1 GOTY Edition | 233574 | [233574-hitman-3-access-pass-hitman-1-goty-edition.json](./233574-hitman-3-access-pass-hitman-1-goty-edition.json) |
