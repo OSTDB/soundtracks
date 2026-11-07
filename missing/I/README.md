@@ -3958,6 +3958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinitum: Legends | 26967 | [26967-infinitum-legends.json](./26967-infinitum-legends.json) |
 | Infinitum: The Backrooms Story | 258179 | [258179-infinitum-the-backrooms-story.json](./258179-infinitum-the-backrooms-story.json) |
 | Infinity | 13729 | [13729-infinity.json](./13729-infinity.json) |
+| Infinity | 176046 | [176046-infinity.json](./176046-infinity.json) |
 | Infinity | 313865 | [313865-infinity.json](./313865-infinity.json) |
 | Infinity | 319919 | [319919-infinity.json](./319919-infinity.json) |
 | Infinity | 382380 | [382380-infinity.json](./382380-infinity.json) |
@@ -6653,6 +6654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's A Wipe! | 17982 | [17982-its-a-wipe.json](./17982-its-a-wipe.json) |
 | It's a Wrap! | 167573 | [167573-its-a-wrap.json](./167573-its-a-wrap.json) |
 | It's About the Journey | 121548 | [121548-its-about-the-journey.json](./121548-its-about-the-journey.json) |
+| It's Adoorable | 176069 | [176069-its-adoorable.json](./176069-its-adoorable.json) |
 | It's All About the Journey | 176162 | [176162-its-all-about-the-journey.json](./176162-its-all-about-the-journey.json) |
 | It's All Connected | 276654 | [276654-its-all-connected.json](./276654-its-all-connected.json) |
 | It's All In Your Head | 226043 | [226043-its-all-in-your-head.json](./226043-its-all-in-your-head.json) |
