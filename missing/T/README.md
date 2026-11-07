@@ -4511,6 +4511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terracotta | 271235 | [271235-terracotta.json](./271235-terracotta.json) |
 | Terracotta | 419350 | [419350-terracotta.json](./419350-terracotta.json) |
 | Terracotta: Collector's Edition | 300479 | [300479-terracotta-collectors-edition.json](./300479-terracotta-collectors-edition.json) |
+| TerraCraft | 179813 | [179813-terracraft.json](./179813-terracraft.json) |
 | Terracrest | 317330 | [317330-terracrest.json](./317330-terracrest.json) |
 | TerraCube | 361690 | [361690-terracube.json](./361690-terracube.json) |
 | Terradune | 346347 | [346347-terradune.json](./346347-terradune.json) |
@@ -23147,6 +23148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeless: The Lost Castle | 74248 | [74248-timeless-the-lost-castle.json](./74248-timeless-the-lost-castle.json) |
 | Timelie: Game of the Year Edition | 169192 | [169192-timelie-game-of-the-year-edition.json](./169192-timelie-game-of-the-year-edition.json) |
 | Timelie: Hell Loop | 154185 | [154185-timelie-hell-loop.json](./154185-timelie-hell-loop.json) |
+| Timeline | 179783 | [179783-timeline.json](./179783-timeline.json) |
 | Timeline | 197554 | [197554-timeline.json](./197554-timeline.json) |
 | Timeline Traveler | 136401 | [136401-timeline-traveler.json](./136401-timeline-traveler.json) |
 | Timeline Traveler II: Dream | 170518 | [170518-timeline-traveler-ii-dream.json](./170518-timeline-traveler-ii-dream.json) |
