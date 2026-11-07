@@ -2759,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gems Of Evolution | 278917 | [278917-gems-of-evolution.json](./278917-gems-of-evolution.json) |
 | Gems of Fate: the Charmed King | 133426 | [133426-gems-of-fate-the-charmed-king.json](./133426-gems-of-fate-the-charmed-king.json) |
 | Gems of Magic: Double Pack | 242051 | [242051-gems-of-magic-double-pack.json](./242051-gems-of-magic-double-pack.json) |
+| Gems of Magic: Father's Day | 154166 | [154166-gems-of-magic-fathers-day.json](./154166-gems-of-magic-fathers-day.json) |
 | Gems of Magic: Lost Family | 116367 | [116367-gems-of-magic-lost-family.json](./116367-gems-of-magic-lost-family.json) |
 | Gems of the Aztecs | 33868 | [33868-gems-of-the-aztecs.json](./33868-gems-of-the-aztecs.json) |
 | Gems of War | 9531 | [9531-gems-of-war.json](./9531-gems-of-war.json) |
@@ -4952,6 +4953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glides | 100610 | [100610-glides.json](./100610-glides.json) |
 | Gliding Square | 207893 | [207893-gliding-square.json](./207893-gliding-square.json) |
 | Glight | 86559 | [86559-glight.json](./86559-glight.json) |
+| Glim | 154157 | [154157-glim.json](./154157-glim.json) |
 | Glimby | 246412 | [246412-glimby.json](./246412-glimby.json) |
 | Glimmer | 222726 | [222726-glimmer.json](./222726-glimmer.json) |
 | Glimmer | 381053 | [381053-glimmer.json](./381053-glimmer.json) |
@@ -6869,6 +6871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golfamania | 45673 | [45673-golfamania.json](./45673-golfamania.json) |
 | Golfaria | 318470 | [318470-golfaria.json](./318470-golfaria.json) |
 | GolfGurus | 88104 | [88104-golfgurus.json](./88104-golfgurus.json) |
+| Golfie | 154147 | [154147-golfie.json](./154147-golfie.json) |
 | Golfie: Supporter Pack | 293441 | [293441-golfie-supporter-pack.json](./293441-golfie-supporter-pack.json) |
 | Golfing Around | 108442 | [108442-golfing-around.json](./108442-golfing-around.json) |
 | Golfing Greats 2 | 222908 | [222908-golfing-greats-2.json](./222908-golfing-greats-2.json) |
@@ -7317,6 +7320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goosebumps: The Game | 23472 | [23472-goosebumps-the-game.json](./23472-goosebumps-the-game.json) |
 | GooseGame.io | 327946 | [327946-goosegame-io.json](./327946-goosegame-io.json) |
 | GooseGogs | 92290 | [92290-goosegogs.json](./92290-goosegogs.json) |
+| Goosen't: Run or Die | 154137 | [154137-goosent-run-or-die.json](./154137-goosent-run-or-die.json) |
 | Goosey Guess | 250984 | [250984-goosey-guess.json](./250984-goosey-guess.json) |
 | Goospace | 240812 | [240812-goospace.json](./240812-goospace.json) |
 | Goosthetic | 337210 | [337210-goosthetic.json](./337210-goosthetic.json) |
@@ -8209,6 +8213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandslam Gamer Gold Collection | 379589 | [379589-grandslam-gamer-gold-collection.json](./379589-grandslam-gamer-gold-collection.json) |
 | Grandslam: The Tennis Tournament | 81410 | [81410-grandslam-the-tennis-tournament.json](./81410-grandslam-the-tennis-tournament.json) |
 | GrandTraveler | 227660 | [227660-grandtraveler.json](./227660-grandtraveler.json) |
+| Granduck | 154119 | [154119-granduck.json](./154119-granduck.json) |
 | Grandzenka | 208972 | [208972-grandzenka.json](./208972-grandzenka.json) |
 | Granew-Tou! Daibouken | 269940 | [269940-granew-tou-daibouken.json](./269940-granew-tou-daibouken.json) |
 | Grange Hill | 37299 | [37299-grange-hill.json](./37299-grange-hill.json) |
