@@ -2651,6 +2651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cards of Heart | 296029 | [296029-cards-of-heart.json](./296029-cards-of-heart.json) |
 | Cards of Knight | 110149 | [110149-cards-of-knight.json](./110149-cards-of-knight.json) |
 | Cards of Lust | 392896 | [392896-cards-of-lust.json](./392896-cards-of-lust.json) |
+| Cards of Patience | 189255 | [189255-cards-of-patience.json](./189255-cards-of-patience.json) |
 | Cards of Terra | 174258 | [174258-cards-of-terra.json](./174258-cards-of-terra.json) |
 | Cards of the Abyss | 364832 | [364832-cards-of-the-abyss.json](./364832-cards-of-the-abyss.json) |
 | Cards of the Bog | 182862 | [182862-cards-of-the-bog.json](./182862-cards-of-the-bog.json) |
@@ -7826,6 +7827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choice of the Viking | 220000 | [220000-choice-of-the-viking.json](./220000-choice-of-the-viking.json) |
 | Choice of Zombies | 48012 | [48012-choice-of-zombies.json](./48012-choice-of-zombies.json) |
 | Choice or Fate | 114404 | [114404-choice-or-fate.json](./114404-choice-or-fate.json) |
+| Choice: Texas | 189279 | [189279-choice-texas.json](./189279-choice-texas.json) |
 | Choiceline Brawl | 389538 | [389538-choiceline-brawl.json](./389538-choiceline-brawl.json) |
 | Choices | 181725 | [181725-choices.json](./181725-choices.json) |
 | Choices & Chances | 373801 | [373801-choices-and-chances.json](./373801-choices-and-chances.json) |
@@ -9264,6 +9266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City 2048 | 57448 | [57448-city-2048.json](./57448-city-2048.json) |
 | City 7: Toronto Conflict | 281410 | [281410-city-7-toronto-conflict.json](./281410-city-7-toronto-conflict.json) |
 | City Adventure Touch: Mystery of Triangle | 48315 | [48315-city-adventure-touch-mystery-of-triangle.json](./48315-city-adventure-touch-mystery-of-triangle.json) |
+| City Air Battle | 189271 | [189271-city-air-battle.json](./189271-city-air-battle.json) |
 | City Ambulance Car Driving | 265731 | [265731-city-ambulance-car-driving.json](./265731-city-ambulance-car-driving.json) |
 | City Ambulance: Rescue Express | 277018 | [277018-city-ambulance-rescue-express.json](./277018-city-ambulance-rescue-express.json) |
 | City Arena: Hero Legends | 275015 | [275015-city-arena-hero-legends.json](./275015-city-arena-hero-legends.json) |
