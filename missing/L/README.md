@@ -7593,6 +7593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looping Bravery | 197442 | [197442-looping-bravery.json](./197442-looping-bravery.json) |
 | Looping Doors: Diner | 342487 | [342487-looping-doors-diner.json](./342487-looping-doors-diner.json) |
 | Looping Doors: Subway | 342488 | [342488-looping-doors-subway.json](./342488-looping-doors-subway.json) |
+| Looping World | 159465 | [159465-looping-world.json](./159465-looping-world.json) |
 | Looplash | 400209 | [400209-looplash.json](./400209-looplash.json) |
 | Loopmancer | 151934 | [151934-loopmancer.json](./151934-loopmancer.json) |
 | Loopmayor | 334295 | [334295-loopmayor.json](./334295-loopmayor.json) |
@@ -8903,6 +8904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love N Life: Happy Student | 360633 | [360633-love-n-life-happy-student.json](./360633-love-n-life-happy-student.json) |
 | Love n Life: Lucky Teacher | 253901 | [253901-love-n-life-lucky-teacher.json](./253901-love-n-life-lucky-teacher.json) |
 | Love n War: Hero by Chance II | 152666 | [152666-love-n-war-hero-by-chance-ii.json](./152666-love-n-war-hero-by-chance-ii.json) |
+| Love n War: Warlord by Chance | 159448 | [159448-love-n-war-warlord-by-chance.json](./159448-love-n-war-warlord-by-chance.json) |
 | Love n War: Warlord by Chance II | 220431 | [220431-love-n-war-warlord-by-chance-ii.json](./220431-love-n-war-warlord-by-chance-ii.json) |
 | Love Never Dies: Ikemen of the Marsh | 268666 | [268666-love-never-dies-ikemen-of-the-marsh.json](./268666-love-never-dies-ikemen-of-the-marsh.json) |
 | Love Nikki: Dress Up Queen | 56001 | [56001-love-nikki-dress-up-queen.json](./56001-love-nikki-dress-up-queen.json) |
