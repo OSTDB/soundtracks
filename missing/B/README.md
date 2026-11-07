@@ -5168,6 +5168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Ball 2 | 345615 | [345615-beat-ball-2.json](./345615-beat-ball-2.json) |
 | Beat Banger | 253039 | [253039-beat-banger.json](./253039-beat-banger.json) |
 | Beat Battle | 302796 | [302796-beat-battle.json](./302796-beat-battle.json) |
+| Beat Biome | 158321 | [158321-beat-biome.json](./158321-beat-biome.json) |
 | Beat Blade: Dash Dance | 182317 | [182317-beat-blade-dash-dance.json](./182317-beat-blade-dash-dance.json) |
 | Beat Blaster | 114817 | [114817-beat-blaster.json](./114817-beat-blaster.json) |
 | Beat Blitz | 217028 | [217028-beat-blitz.json](./217028-beat-blitz.json) |
@@ -12489,6 +12490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolt Runner | 298094 | [298094-bolt-runner.json](./298094-bolt-runner.json) |
 | Bolt: Be-Awesome Edition | 269667 | [269667-bolt-be-awesome-edition.json](./269667-bolt-be-awesome-edition.json) |
 | Bolt'n'Punch | 288258 | [288258-boltnpunch.json](./288258-boltnpunch.json) |
+| BoltBreak | 158323 | [158323-boltbreak.json](./158323-boltbreak.json) |
 | BoltBreak 2 | 276281 | [276281-boltbreak-2.json](./276281-boltbreak-2.json) |
 | BoltBreak: Powers and Maps Pack | 252595 | [252595-boltbreak-powers-and-maps-pack.json](./252595-boltbreak-powers-and-maps-pack.json) |
 | Boltcraft | 203914 | [203914-boltcraft.json](./203914-boltcraft.json) |
