@@ -2919,6 +2919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embarrassed Shina-chan: The Naked Wandering College Girl | 240630 | [240630-embarrassed-shina-chan-the-naked-wandering-college-girl.json](./240630-embarrassed-shina-chan-the-naked-wandering-college-girl.json) |
 | Embassy Assault | 12935 | [12935-embassy-assault.json](./12935-embassy-assault.json) |
 | Embattled | 261872 | [261872-embattled.json](./261872-embattled.json) |
+| Embedded VR | 183686 | [183686-embedded-vr.json](./183686-embedded-vr.json) |
 | Ember & Blade | 340741 | [340741-ember-and-blade.json](./340741-ember-and-blade.json) |
 | Ember Crusade IV | 188880 | [188880-ember-crusade-iv.json](./188880-ember-crusade-iv.json) |
 | Ember Island | 391189 | [391189-ember-island.json](./391189-ember-island.json) |
@@ -6665,6 +6666,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EVE: Dust 514 | 1320 | [1320-eve-dust-514.json](./1320-eve-dust-514.json) |
 | Eve: Echoes | 111187 | [111187-eve-echoes.json](./111187-eve-echoes.json) |
 | Eve: Galaxy Conquest | 317843 | [317843-eve-galaxy-conquest.json](./317843-eve-galaxy-conquest.json) |
+| Eve: Ghost Enemies | 183658 | [183658-eve-ghost-enemies.json](./183658-eve-ghost-enemies.json) |
+| Eve: Ghost Enemies - Limited Edition | 183659 | [183659-eve-ghost-enemies-limited-edition.json](./183659-eve-ghost-enemies-limited-edition.json) |
 | EVE: New Generation | 70779 | [70779-eve-new-generation.json](./70779-eve-new-generation.json) |
 | Eve: Rebirth Terror | 112911 | [112911-eve-rebirth-terror.json](./112911-eve-rebirth-terror.json) |
 | Eve: The Fatal Attraction | 44730 | [44730-eve-the-fatal-attraction.json](./44730-eve-the-fatal-attraction.json) |
