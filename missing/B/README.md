@@ -972,7 +972,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3138,6 +3137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball 2 | 245559 | [245559-basketball-2.json](./245559-basketball-2.json) |
 | Basketball Arcade | 278491 | [278491-basketball-arcade.json](./278491-basketball-arcade.json) |
 | Basketball Arcade Stars | 250660 | [250660-basketball-arcade-stars.json](./250660-basketball-arcade-stars.json) |
+| Basketball Arena | 143827 | [143827-basketball-arena.json](./143827-basketball-arena.json) |
 | Basketball Baby | 186838 | [186838-basketball-baby.json](./186838-basketball-baby.json) |
 | Basketball Battle | 89288 | [89288-basketball-battle.json](./89288-basketball-battle.json) |
 | Basketball Challenge | 14498 | [14498-basketball-challenge.json](./14498-basketball-challenge.json) |
@@ -6680,6 +6680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berry Berry Mew Mew | 289359 | [289359-berry-berry-mew-mew.json](./289359-berry-berry-mew-mew.json) |
 | Berry Brother | 257662 | [257662-berry-brother.json](./257662-berry-brother.json) |
 | Berry Couple | 334799 | [334799-berry-couple.json](./334799-berry-couple.json) |
+| Berry Fall | 143836 | [143836-berry-fall.json](./143836-berry-fall.json) |
 | Berry Hunt Survivors | 247779 | [247779-berry-hunt-survivors.json](./247779-berry-hunt-survivors.json) |
 | Berry Madness | 235180 | [235180-berry-madness.json](./235180-berry-madness.json) |
 | Berry Mayhem | 158546 | [158546-berry-mayhem.json](./158546-berry-mayhem.json) |
@@ -11015,6 +11016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Bowl: Kerrunch | 34380 | [34380-blood-bowl-kerrunch.json](./34380-blood-bowl-kerrunch.json) |
 | Blood Bowl: Legendary Edition | 10055 | [10055-blood-bowl-legendary-edition.json](./10055-blood-bowl-legendary-edition.json) |
 | Blood Branched Sakura | 129754 | [129754-blood-branched-sakura.json](./129754-blood-branched-sakura.json) |
+| Blood Breed | 143849 | [143849-blood-breed.json](./143849-blood-breed.json) |
 | Blood Broker | 113304 | [113304-blood-broker.json](./113304-blood-broker.json) |
 | Blood Bros. | 39612 | [39612-blood-bros.json](./39612-blood-bros.json) |
 | Blood Brothers | 120125 | [120125-blood-brothers.json](./120125-blood-brothers.json) |
