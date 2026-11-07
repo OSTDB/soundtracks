@@ -13809,6 +13809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Maze VR | 130289 | [130289-the-maze-vr.json](./130289-the-maze-vr.json) |
 | The Maze Wars | 365285 | [365285-the-maze-wars.json](./365285-the-maze-wars.json) |
 | The Maze X: The First Chapter | 342539 | [342539-the-maze-x-the-first-chapter.json](./342539-the-maze-x-the-first-chapter.json) |
+| The Maze: Humanity | 150308 | [150308-the-maze-humanity.json](./150308-the-maze-humanity.json) |
 | The Maze: L'ultimo soldato | 381333 | [381333-the-maze-lultimo-soldato.json](./381333-the-maze-lultimo-soldato.json) |
 | The McCarthy Chronicles: Episode 1 | 171983 | [171983-the-mccarthy-chronicles-episode-1.json](./171983-the-mccarthy-chronicles-episode-1.json) |
 | The McMilian Tree Lot | 378451 | [378451-the-mcmilian-tree-lot.json](./378451-the-mcmilian-tree-lot.json) |
@@ -13825,6 +13826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Meating | 141111 | [141111-the-meating.json](./141111-the-meating.json) |
 | The Mech is on Fire | 184823 | [184823-the-mech-is-on-fire.json](./184823-the-mech-is-on-fire.json) |
 | The Mechsmith Run=Dim | 227976 | [227976-the-mechsmith-run-dim.json](./227976-the-mechsmith-run-dim.json) |
+| The Medic | 150306 | [150306-the-medic.json](./150306-the-medic.json) |
 | The Medical Examination Diary: The Exciting Days of Me and My Senpai | 199680 | [199680-the-medical-examination-diary-the-exciting-days-of-me-and-my-senpai.json](./199680-the-medical-examination-diary-the-exciting-days-of-me-and-my-senpai.json) |
 | The Medieval Doctor | 416825 | [416825-the-medieval-doctor.json](./416825-the-medieval-doctor.json) |
 | The Medieval Journey | 414755 | [414755-the-medieval-journey.json](./414755-the-medieval-journey.json) |
@@ -15018,6 +15020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Phantom | 344314 | [344314-the-phantom.json](./344314-the-phantom.json) |
 | The Phantom Agent | 313873 | [313873-the-phantom-agent.json](./313873-the-phantom-agent.json) |
 | The Phantom Fable: Steven Universe | 126875 | [126875-the-phantom-fable-steven-universe.json](./126875-the-phantom-fable-steven-universe.json) |
+| The Phantom Fellows | 150313 | [150313-the-phantom-fellows.json](./150313-the-phantom-fellows.json) |
 | The Phantom Forest | 278909 | [278909-the-phantom-forest.json](./278909-the-phantom-forest.json) |
 | The Phantom Inheritance | 71171 | [71171-the-phantom-inheritance.json](./71171-the-phantom-inheritance.json) |
 | The Phantom of the City | 112837 | [112837-the-phantom-of-the-city.json](./112837-the-phantom-of-the-city.json) |
@@ -26829,6 +26832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Genso Wanderer: Momiji Inubashiri | 206962 | [206962-touhou-genso-wanderer-momiji-inubashiri.json](./206962-touhou-genso-wanderer-momiji-inubashiri.json) |
 | Touhou Genso Wanderer: Mononobe no Futo to Nanatsu no Shiren - Fushigi no Gensoukyou TOD Another Story | 206960 | [206960-touhou-genso-wanderer-mononobe-no-futo-to-nanatsu-no-shiren-fushigi-no-gensoukyou-tod-another-story.json](./206960-touhou-genso-wanderer-mononobe-no-futo-to-nanatsu-no-shiren-fushigi-no-gensoukyou-tod-another-story.json) |
 | Touhou Genso Wanderer: The Bullet Reporter | 206961 | [206961-touhou-genso-wanderer-the-bullet-reporter.json](./206961-touhou-genso-wanderer-the-bullet-reporter.json) |
+| Touhou Gensokyo Visitor | 150311 | [150311-touhou-gensokyo-visitor.json](./150311-touhou-gensokyo-visitor.json) |
 | Touhou Gensou Clicker | 135277 | [135277-touhou-gensou-clicker.json](./135277-touhou-gensou-clicker.json) |
 | Touhou Gensou Eclipse | 266899 | [266899-touhou-gensou-eclipse.json](./266899-touhou-gensou-eclipse.json) |
 | Touhou Gensou Mahjong | 117744 | [117744-touhou-gensou-mahjong.json](./117744-touhou-gensou-mahjong.json) |
