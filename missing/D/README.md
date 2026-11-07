@@ -9781,6 +9781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaurily | 242511 | [242511-dinosaurily.json](./242511-dinosaurily.json) |
 | DinosaurIsland | 55601 | [55601-dinosaurisland.json](./55601-dinosaurisland.json) |
 | Dinosaurium | 395865 | [395865-dinosaurium.json](./395865-dinosaurium.json) |
+| Dinosaurs | 175481 | [175481-dinosaurs.json](./175481-dinosaurs.json) |
 | Dinosaurs | 198726 | [198726-dinosaurs.json](./198726-dinosaurs.json) |
 | Dinosaurs - Connect the Dots and Add Colors | 86725 | [86725-dinosaurs-connect-the-dots-and-add-colors.json](./86725-dinosaurs-connect-the-dots-and-add-colors.json) |
 | Dinosaurs A Prehistoric Adventure | 57128 | [57128-dinosaurs-a-prehistoric-adventure.json](./57128-dinosaurs-a-prehistoric-adventure.json) |
@@ -10065,6 +10066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disc Dimension | 278153 | [278153-disc-dimension.json](./278153-disc-dimension.json) |
 | Disc Drivin' | 92398 | [92398-disc-drivin.json](./92398-disc-drivin.json) |
 | Disc Drivin' 2 | 87366 | [87366-disc-drivin-2.json](./87366-disc-drivin-2.json) |
+| Disc Drivin' HD | 175452 | [175452-disc-drivin-hd.json](./175452-disc-drivin-hd.json) |
 | Disc Frenzy | 296720 | [296720-disc-frenzy.json](./296720-disc-frenzy.json) |
 | Disc Golf | 273694 | [273694-disc-golf.json](./273694-disc-golf.json) |
 | Disc Golf | 67809 | [67809-disc-golf.json](./67809-disc-golf.json) |
@@ -16277,6 +16279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreampunk | 248798 | [248798-dreampunk.json](./248798-dreampunk.json) |
 | Dreampunk: Virtual Unreality | 278316 | [278316-dreampunk-virtual-unreality.json](./278316-dreampunk-virtual-unreality.json) |
 | DreamPusher | 368047 | [368047-dreampusher.json](./368047-dreampusher.json) |
+| DreamRace 4x4 | 175492 | [175492-dreamrace-4x4.json](./175492-dreamrace-4x4.json) |
 | Dreamrealm's Tower of Despair | 353379 | [353379-dreamrealms-tower-of-despair.json](./353379-dreamrealms-tower-of-despair.json) |
 | Dreams | 286686 | [286686-dreams.json](./286686-dreams.json) |
 | Dreams and Bubbles | 296878 | [296878-dreams-and-bubbles.json](./296878-dreams-and-bubbles.json) |
@@ -18325,6 +18328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Party | 296233 | [296233-dungeon-party.json](./296233-dungeon-party.json) |
 | Dungeon Peplum | 379880 | [379880-dungeon-peplum.json](./379880-dungeon-peplum.json) |
 | Dungeon Pizza | 365096 | [365096-dungeon-pizza.json](./365096-dungeon-pizza.json) |
+| Dungeon Plunder | 175463 | [175463-dungeon-plunder.json](./175463-dungeon-plunder.json) |
 | Dungeon Princess 2 | 299197 | [299197-dungeon-princess-2.json](./299197-dungeon-princess-2.json) |
 | Dungeon Prospector | 50865 | [50865-dungeon-prospector.json](./50865-dungeon-prospector.json) |
 | Dungeon Punks | 32021 | [32021-dungeon-punks.json](./32021-dungeon-punks.json) |
