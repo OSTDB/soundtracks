@@ -3435,6 +3435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Yankee 7: Deer Hunters | 117426 | [117426-new-yankee-7-deer-hunters.json](./117426-new-yankee-7-deer-hunters.json) |
 | New Yankee 8: Journey of Odysseus | 132546 | [132546-new-yankee-8-journey-of-odysseus.json](./132546-new-yankee-8-journey-of-odysseus.json) |
 | New Yankee 8: Journey of Odysseus - Collector’s Edition | 186970 | [186970-new-yankee-8-journey-of-odysseus-collector-s-edition.json](./186970-new-yankee-8-journey-of-odysseus-collector-s-edition.json) |
+| New Yankee 9: The Evil Spellbook | 166921 | [166921-new-yankee-9-the-evil-spellbook.json](./166921-new-yankee-9-the-evil-spellbook.json) |
 | New Yankee 9: The Evil Spellbook - Collector's Edition | 186975 | [186975-new-yankee-9-the-evil-spellbook-collectors-edition.json](./186975-new-yankee-9-the-evil-spellbook-collectors-edition.json) |
 | New Yankee in King Arthur's Court | 32989 | [32989-new-yankee-in-king-arthurs-court.json](./32989-new-yankee-in-king-arthurs-court.json) |
 | New Yankee in King Arthur's Court 2 | 31855 | [31855-new-yankee-in-king-arthurs-court-2.json](./31855-new-yankee-in-king-arthurs-court-2.json) |
