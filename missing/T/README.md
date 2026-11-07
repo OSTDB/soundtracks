@@ -3159,6 +3159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tech Executive Tycoon | 17036 | [17036-tech-executive-tycoon.json](./17036-tech-executive-tycoon.json) |
 | Tech Glitch | 140949 | [140949-tech-glitch.json](./140949-tech-glitch.json) |
 | Tech Invaders TD | 219568 | [219568-tech-invaders-td.json](./219568-tech-invaders-td.json) |
+| Tech Jump Remastered | 176583 | [176583-tech-jump-remastered.json](./176583-tech-jump-remastered.json) |
 | Tech Market Simulator | 326339 | [326339-tech-market-simulator.json](./326339-tech-market-simulator.json) |
 | Tech Romancer | 227751 | [227751-tech-romancer.json](./227751-tech-romancer.json) |
 | Tech Romancer | 39313 | [39313-tech-romancer.json](./39313-tech-romancer.json) |
@@ -4615,6 +4616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraTech: Warriors of Future Past | 230144 | [230144-terratech-warriors-of-future-past.json](./230144-terratech-warriors-of-future-past.json) |
 | TerraTech: Weapons of War Pack | 230143 | [230143-terratech-weapons-of-war-pack.json](./230143-terratech-weapons-of-war-pack.json) |
 | Terratopia: March of The Demon King | 315631 | [315631-terratopia-march-of-the-demon-king.json](./315631-terratopia-march-of-the-demon-king.json) |
+| Terravale | 176570 | [176570-terravale.json](./176570-terravale.json) |
 | Terrawars: NY Invasion | 70467 | [70467-terrawars-ny-invasion.json](./70467-terrawars-ny-invasion.json) |
 | Terre Scramble! | 260427 | [260427-terre-scramble.json](./260427-terre-scramble.json) |
 | Terrela | 27672 | [27672-terrela.json](./27672-terrela.json) |
@@ -5960,6 +5962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Arcana | 124469 | [124469-the-arcana.json](./124469-the-arcana.json) |
 | The Arcana: Dark Tarot & Kings of Madness | 389075 | [389075-the-arcana-dark-tarot-and-kings-of-madness.json](./389075-the-arcana-dark-tarot-and-kings-of-madness.json) |
 | The Arcana: Dark Tarot & Queens of Madness | 389077 | [389077-the-arcana-dark-tarot-and-queens-of-madness.json](./389077-the-arcana-dark-tarot-and-queens-of-madness.json) |
+| The Arcane Relics | 176561 | [176561-the-arcane-relics.json](./176561-the-arcane-relics.json) |
 | The Arcane Tower | 166744 | [166744-the-arcane-tower.json](./166744-the-arcane-tower.json) |
 | The Archaic: Unauthorized | 348695 | [348695-the-archaic-unauthorized.json](./348695-the-archaic-unauthorized.json) |
 | The Archer | 287646 | [287646-the-archer.json](./287646-the-archer.json) |
@@ -14881,6 +14884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The People of Sea, Sun & Salt | 359040 | [359040-the-people-of-sea-sun-and-salt.json](./359040-the-people-of-sea-sun-and-salt.json) |
 | The People's House | 396900 | [396900-the-peoples-house.json](./396900-the-peoples-house.json) |
 | The People's Sky | 408256 | [408256-the-peoples-sky.json](./408256-the-peoples-sky.json) |
+| The People's Tree | 176568 | [176568-the-peoples-tree.json](./176568-the-peoples-tree.json) |
 | The People's Tree 2021 | 394783 | [394783-the-peoples-tree-2021.json](./394783-the-peoples-tree-2021.json) |
 | The Pepper Prince: Episode 1 - Red Hot Chili Wedding | 113532 | [113532-the-pepper-prince-episode-1-red-hot-chili-wedding.json](./113532-the-pepper-prince-episode-1-red-hot-chili-wedding.json) |
 | The Pepper Prince: Episode 2 - The Sadness | 174493 | [174493-the-pepper-prince-episode-2-the-sadness.json](./174493-the-pepper-prince-episode-2-the-sadness.json) |
@@ -24072,6 +24076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Fight | 274116 | [274116-to-fight.json](./274116-to-fight.json) |
 | To Fight The Sea | 333704 | [333704-to-fight-the-sea.json](./333704-to-fight-the-sea.json) |
 | To Find Her | 341715 | [341715-to-find-her.json](./341715-to-find-her.json) |
+| To Gather | 176589 | [176589-to-gather.json](./176589-to-gather.json) |
 | To Get There | 348828 | [348828-to-get-there.json](./348828-to-get-there.json) |
 | To Give Is To Force | 376162 | [376162-to-give-is-to-force.json](./376162-to-give-is-to-force.json) |
 | To Grant a Wish | 350889 | [350889-to-grant-a-wish.json](./350889-to-grant-a-wish.json) |
@@ -33129,6 +33134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Soul | 96113 | [96113-twin-soul.json](./96113-twin-soul.json) |
 | Twin Souls | 395344 | [395344-twin-souls.json](./395344-twin-souls.json) |
 | Twin Souls: The Path of Shadows | 110233 | [110233-twin-souls-the-path-of-shadows.json](./110233-twin-souls-the-path-of-shadows.json) |
+| Twin Sprouts | 176594 | [176594-twin-sprouts.json](./176594-twin-sprouts.json) |
 | Twin Squash | 40490 | [40490-twin-squash.json](./40490-twin-squash.json) |
 | Twin Stick | 278345 | [278345-twin-stick.json](./278345-twin-stick.json) |
 | Twin Stick Heroes | 141875 | [141875-twin-stick-heroes.json](./141875-twin-stick-heroes.json) |
