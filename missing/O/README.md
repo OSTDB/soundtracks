@@ -2020,6 +2020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Duty | 130378 | [130378-on-duty.json](./130378-on-duty.json) |
 | On Earth as in Hell: Woytons Plague | 218739 | [218739-on-earth-as-in-hell-woytons-plague.json](./218739-on-earth-as-in-hell-woytons-plague.json) |
 | On Earth As It Is In Heaven | 75427 | [75427-on-earth-as-it-is-in-heaven.json](./75427-on-earth-as-it-is-in-heaven.json) |
+| On Fire | 184549 | [184549-on-fire.json](./184549-on-fire.json) |
 | On Guard | 185535 | [185535-on-guard.json](./185535-on-guard.json) |
 | On Him Their Lives Depend 01 | 271996 | [271996-on-him-their-lives-depend-01.json](./271996-on-him-their-lives-depend-01.json) |
 | On Key Up: A Game for Keyboards | 164949 | [164949-on-key-up-a-game-for-keyboards.json](./164949-on-key-up-a-game-for-keyboards.json) |
@@ -2520,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One of Everything | 401471 | [401471-one-of-everything.json](./401471-one-of-everything.json) |
 | One of the Victims | 195100 | [195100-one-of-the-victims.json](./195100-one-of-the-victims.json) |
 | One of Them | 306088 | [306088-one-of-them.json](./306088-one-of-them.json) |
+| One of These People is a Vampire | 184663 | [184663-one-of-these-people-is-a-vampire.json](./184663-one-of-these-people-is-a-vampire.json) |
 | One On One | 295981 | [295981-one-on-one.json](./295981-one-on-one.json) |
 | One on One: Dr. J vs. Larry Bird | 69833 | [69833-one-on-one-dr-j-vs-larry-bird.json](./69833-one-on-one-dr-j-vs-larry-bird.json) |
 | One Paradox | 341507 | [341507-one-paradox.json](./341507-one-paradox.json) |
