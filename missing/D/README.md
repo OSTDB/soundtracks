@@ -4851,6 +4851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeathTrap | 249528 | [249528-deathtrap.json](./249528-deathtrap.json) |
 | Deathtrap Dungeon | 8470 | [8470-deathtrap-dungeon.json](./8470-deathtrap-dungeon.json) |
 | Deathtrap Dungeon Trilogy | 126494 | [126494-deathtrap-dungeon-trilogy.json](./126494-deathtrap-dungeon-trilogy.json) |
+| Deathtrap Dungeon: The Golden Room | 161492 | [161492-deathtrap-dungeon-the-golden-room.json](./161492-deathtrap-dungeon-the-golden-room.json) |
 | Deathtrap Dungeon: The Interactive Video Adventure | 129936 | [129936-deathtrap-dungeon-the-interactive-video-adventure.json](./129936-deathtrap-dungeon-the-interactive-video-adventure.json) |
 | Deathtrip | 297872 | [297872-deathtrip.json](./297872-deathtrip.json) |
 | Deathtroopers: The Outpost | 298391 | [298391-deathtroopers-the-outpost.json](./298391-deathtroopers-the-outpost.json) |
@@ -7316,6 +7317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desk Top Racer | 412731 | [412731-desk-top-racer.json](./412731-desk-top-racer.json) |
 | Deskape | 371304 | [371304-deskape.json](./371304-deskape.json) |
 | Deskeroes | 348424 | [348424-deskeroes.json](./348424-deskeroes.json) |
+| Deskmate Girl | 161485 | [161485-deskmate-girl.json](./161485-deskmate-girl.json) |
 | Desktop Agents: Covid-999 | 264449 | [264449-desktop-agents-covid-999.json](./264449-desktop-agents-covid-999.json) |
 | Desktop Aquarium | 348834 | [348834-desktop-aquarium.json](./348834-desktop-aquarium.json) |
 | Desktop Aquarium | 383742 | [383742-desktop-aquarium.json](./383742-desktop-aquarium.json) |
