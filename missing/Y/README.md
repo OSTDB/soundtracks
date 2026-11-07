@@ -275,6 +275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yandere: Love & Madness | 338643 | [338643-yandere-love-and-madness.json](./338643-yandere-love-and-madness.json) |
 | Yanderella | 125858 | [125858-yanderella.json](./125858-yanderella.json) |
 | Yanderella Death Harem | 314805 | [314805-yanderella-death-harem.json](./314805-yanderella-death-harem.json) |
+| Yanderetale | 145771 | [145771-yanderetale.json](./145771-yanderetale.json) |
 | Yang2020: Path to Presidency | 127468 | [127468-yang2020-path-to-presidency.json](./127468-yang2020-path-to-presidency.json) |
 | Yangshuo Invasion | 321368 | [321368-yangshuo-invasion.json](./321368-yangshuo-invasion.json) |
 | Yánhuáng Dàlù | 130150 | [130150-yanhuang-dalu.json](./130150-yanhuang-dalu.json) |
