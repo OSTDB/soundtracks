@@ -2333,6 +2333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeoGeo Online Collection Complete Box: Joukan | 381224 | [381224-neogeo-online-collection-complete-box-joukan.json](./381224-neogeo-online-collection-complete-box-joukan.json) |
 | Neogeo Pocket Color Selection Vol. 2: Steelbook Bundle | 284482 | [284482-neogeo-pocket-color-selection-vol-2-steelbook-bundle.json](./284482-neogeo-pocket-color-selection-vol-2-steelbook-bundle.json) |
 | Neogeo Pocket Color Selection Vol.1 | 147661 | [147661-neogeo-pocket-color-selection-vol-1.json](./147661-neogeo-pocket-color-selection-vol-1.json) |
+| Neogeo Pocket Color Selection vol.1: Steam Edition | 174456 | [174456-neogeo-pocket-color-selection-vol-1-steam-edition.json](./174456-neogeo-pocket-color-selection-vol-1-steam-edition.json) |
 | Neogeo Pocket Color Selection Vol.2 | 225497 | [225497-neogeo-pocket-color-selection-vol-2.json](./225497-neogeo-pocket-color-selection-vol-2.json) |
 | NeoGeometry | 113176 | [113176-neogeometry.json](./113176-neogeometry.json) |
 | NeoHack | 373830 | [373830-neohack.json](./373830-neohack.json) |
@@ -3119,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverseas | 301808 | [301808-neverseas.json](./301808-neverseas.json) |
 | Neversong & Pinstripe | 144728 | [144728-neversong-and-pinstripe.json](./144728-neversong-and-pinstripe.json) |
 | Neversong: Collector's Edition | 139840 | [139840-neversong-collectors-edition.json](./139840-neversong-collectors-edition.json) |
+| Neversong: Coma HD | 174462 | [174462-neversong-coma-hd.json](./174462-neversong-coma-hd.json) |
 | Neverspring Chronicles | 188894 | [188894-neverspring-chronicles.json](./188894-neverspring-chronicles.json) |
 | NeverSynth | 225878 | [225878-neversynth.json](./225878-neversynth.json) |
 | Nevertales: Faryon | 187926 | [187926-nevertales-faryon.json](./187926-nevertales-faryon.json) |
@@ -6424,6 +6426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nom Nom: Cozy Forest Café | 258535 | [258535-nom-nom-cozy-forest-cafe.json](./258535-nom-nom-cozy-forest-cafe.json) |
 | Nom Plant | 328943 | [328943-nom-plant.json](./328943-nom-plant.json) |
 | Nom: Billion Year Timequest | 343566 | [343566-nom-billion-year-timequest.json](./343566-nom-billion-year-timequest.json) |
+| Nomad | 174444 | [174444-nomad.json](./174444-nomad.json) |
 | Nomad | 403796 | [403796-nomad.json](./403796-nomad.json) |
 | Nomad Defender | 278951 | [278951-nomad-defender.json](./278951-nomad-defender.json) |
 | Nomad Drive | 340570 | [340570-nomad-drive.json](./340570-nomad-drive.json) |
