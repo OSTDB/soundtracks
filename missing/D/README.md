@@ -5413,6 +5413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Reflections | 116398 | [116398-deep-space-reflections.json](./116398-deep-space-reflections.json) |
 | Deep Space RPG: Origins | 110502 | [110502-deep-space-rpg-origins.json](./110502-deep-space-rpg-origins.json) |
 | Deep Space Rush | 125189 | [125189-deep-space-rush.json](./125189-deep-space-rush.json) |
+| Deep Space Salvage Crew VR | 173899 | [173899-deep-space-salvage-crew-vr.json](./173899-deep-space-salvage-crew-vr.json) |
 | Deep Space Scoundrel | 241936 | [241936-deep-space-scoundrel.json](./241936-deep-space-scoundrel.json) |
 | Deep Space Settlement | 59305 | [59305-deep-space-settlement.json](./59305-deep-space-settlement.json) |
 | Deep Space Shooter | 111731 | [111731-deep-space-shooter.json](./111731-deep-space-shooter.json) |
