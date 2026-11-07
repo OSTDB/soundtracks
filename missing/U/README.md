@@ -3650,6 +3650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Utopia No.8 | 244416 | [244416-utopia-no-8.json](./244416-utopia-no-8.json) |
 | Utopia Process | 153390 | [153390-utopia-process.json](./153390-utopia-process.json) |
 | Utopia Syndrome | 110738 | [110738-utopia-syndrome.json](./110738-utopia-syndrome.json) |
+| Utopia, an Essay | 139554 | [139554-utopia-an-essay.json](./139554-utopia-an-essay.json) |
 | Utopia: Birth of The Heroes | 388394 | [388394-utopia-birth-of-the-heroes.json](./388394-utopia-birth-of-the-heroes.json) |
 | Utopia: Origin | 182176 | [182176-utopia-origin.json](./182176-utopia-origin.json) |
 | Utopia: The Creation of a Nation | 12231 | [12231-utopia-the-creation-of-a-nation.json](./12231-utopia-the-creation-of-a-nation.json) |
