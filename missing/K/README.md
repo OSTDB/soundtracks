@@ -1156,6 +1156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kashiri Kyoufu no Shashin | 261374 | [261374-kashiri-kyoufu-no-shashin.json](./261374-kashiri-kyoufu-no-shashin.json) |
 | Kashiwa-Mochi Kai | 82575 | [82575-kashiwa-mochi-kai.json](./82575-kashiwa-mochi-kai.json) |
 | Kashiwagi Shigetaka no Top Water Bassing | 37967 | [37967-kashiwagi-shigetaka-no-top-water-bassing.json](./37967-kashiwagi-shigetaka-no-top-water-bassing.json) |
+| Kasi | 141388 | [141388-kasi.json](./141388-kasi.json) |
 | Kasiori | 146821 | [146821-kasiori.json](./146821-kasiori.json) |
 | Kaskade | 351782 | [351782-kaskade.json](./351782-kaskade.json) |
 | Kasmo | 156824 | [156824-kasmo.json](./156824-kasmo.json) |
@@ -2710,6 +2711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killer Watt | 25864 | [25864-killer-watt.json](./25864-killer-watt.json) |
 | Killer Worm 2 | 187253 | [187253-killer-worm-2.json](./187253-killer-worm-2.json) |
 | Killer Zombie Hunt | 276484 | [276484-killer-zombie-hunt.json](./276484-killer-zombie-hunt.json) |
+| Killer: Infected One of Us | 141382 | [141382-killer-infected-one-of-us.json](./141382-killer-infected-one-of-us.json) |
 | Killer: Rewind | 345018 | [345018-killer-rewind.json](./345018-killer-rewind.json) |
 | Killer7 | 3966 | [3966-killer7.json](./3966-killer7.json) |
 | Killerball | 84211 | [84211-killerball.json](./84211-killerball.json) |
@@ -2852,6 +2854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -2913,6 +2916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinaman vs Gray Elephant | 96457 | [96457-kinaman-vs-gray-elephant.json](./96457-kinaman-vs-gray-elephant.json) |
 | Kinanaki no Mori | 392643 | [392643-kinanaki-no-mori.json](./392643-kinanaki-no-mori.json) |
 | Kinap | 374366 | [374366-kinap.json](./374366-kinap.json) |
+| Kinasai! | 141390 | [141390-kinasai.json](./141390-kinasai.json) |
 | Kind () Station | 357438 | [357438-kind-station.json](./357438-kind-station.json) |
 | Kind Gals | 41325 | [41325-kind-gals.json](./41325-kind-gals.json) |
 | Kind Heart | 166439 | [166439-kind-heart.json](./166439-kind-heart.json) |
@@ -5096,6 +5100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi Suru Kanojo no Bukiyou na Butai | 77888 | [77888-koi-suru-kanojo-no-bukiyou-na-butai.json](./77888-koi-suru-kanojo-no-bukiyou-na-butai.json) |
 | Koi Suru Kimochi no Kasanekata: Kasaneta Omoi o Zutto | 82498 | [82498-koi-suru-kimochi-no-kasanekata-kasaneta-omoi-o-zutto.json](./82498-koi-suru-kimochi-no-kasanekata-kasaneta-omoi-o-zutto.json) |
 | Koi Suru Otome to Shugo no Tate: Re:boot the "Shield-9" | 139985 | [139985-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9.json](./139985-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9.json) |
+| Koi Suru Otome to Shugo no Tate: Re:boot the "Shield-9" - Adult Version | 141345 | [141345-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9-adult-version.json](./141345-koi-suru-otome-to-shugo-no-tate-re-boot-the-shield-9-adult-version.json) |
 | Koi Suru! Brother-kun | 301691 | [301691-koi-suru-brother-kun.json](./301691-koi-suru-brother-kun.json) |
 | Koi to H Shika Shiteinai! | 396673 | [396673-koi-to-h-shika-shiteinai.json](./396673-koi-to-h-shika-shiteinai.json) |
 | Koi Unleashed | 121342 | [121342-koi-unleashed.json](./121342-koi-unleashed.json) |
