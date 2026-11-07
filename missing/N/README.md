@@ -487,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanosaur Extreme! | 57658 | [57658-nanosaur-extreme.json](./57658-nanosaur-extreme.json) |
 | Nanosaur II: Hatchling | 63257 | [63257-nanosaur-ii-hatchling.json](./63257-nanosaur-ii-hatchling.json) |
 | Nanoscape | 55774 | [55774-nanoscape.json](./55774-nanoscape.json) |
+| Nanoscape VR | 153029 | [153029-nanoscape-vr.json](./153029-nanoscape-vr.json) |
 | Nanosmiles | 295669 | [295669-nanosmiles.json](./295669-nanosmiles.json) |
 | Nanospace | 27661 | [27661-nanospace.json](./27661-nanospace.json) |
 | Nanostray 2 | 20992 | [20992-nanostray-2.json](./20992-nanostray-2.json) |
@@ -3919,6 +3920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHRA Drag Racing: Pro Stock Cars & Trucks | 210034 | [210034-nhra-drag-racing-pro-stock-cars-and-trucks.json](./210034-nhra-drag-racing-pro-stock-cars-and-trucks.json) |
 | NHRA Drag Racing: Quarter Mile Showdown | 210033 | [210033-nhra-drag-racing-quarter-mile-showdown.json](./210033-nhra-drag-racing-quarter-mile-showdown.json) |
 | NHRA: Speed for All | 204906 | [204906-nhra-speed-for-all.json](./204906-nhra-speed-for-all.json) |
+| Nǐ de Nǚpéngyǒu | 152970 | [152970-ni-de-nupengyou.json](./152970-ni-de-nupengyou.json) |
 | Ni Hao Kai-lan: Super Game Day | 50715 | [50715-ni-hao-kai-lan-super-game-day.json](./50715-ni-hao-kai-lan-super-game-day.json) |
 | Ni Hao, Kai-lan: Beach Day | 109052 | [109052-ni-hao-kai-lan-beach-day.json](./109052-ni-hao-kai-lan-beach-day.json) |
 | Ni Hao, Kai-Lan: New Year's Celebration | 97371 | [97371-ni-hao-kai-lan-new-years-celebration.json](./97371-ni-hao-kai-lan-new-years-celebration.json) |
