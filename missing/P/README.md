@@ -1253,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pang.date | 205097 | [205097-pang-date.json](./205097-pang-date.json) |
 | Panga's Kaizo Kindergarten (For Dummies) | 145479 | [145479-pangas-kaizo-kindergarten-for-dummies.json](./145479-pangas-kaizo-kindergarten-for-dummies.json) |
 | Pangaroids | 190345 | [190345-pangaroids.json](./190345-pangaroids.json) |
+| Pangea | 171157 | [171157-pangea.json](./171157-pangea.json) |
 | Pangea 1/2 | 325660 | [325660-pangea-1-2.json](./325660-pangea-1-2.json) |
 | Pangea Arcade | 96286 | [96286-pangea-arcade.json](./96286-pangea-arcade.json) |
 | Pangemic | 30818 | [30818-pangemic.json](./30818-pangemic.json) |
