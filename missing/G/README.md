@@ -3497,6 +3497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get In Get Out | 376434 | [376434-get-in-get-out.json](./376434-get-in-get-out.json) |
 | Get In Shape | 184733 | [184733-get-in-shape.json](./184733-get-in-shape.json) |
 | Get in the Car, Loser! | 107601 | [107601-get-in-the-car-loser.json](./107601-get-in-the-car-loser.json) |
+| Get in the Car, Loser!: Battle on the Big Boardwalk | 173374 | [173374-get-in-the-car-loser-battle-on-the-big-boardwalk.json](./173374-get-in-the-car-loser-battle-on-the-big-boardwalk.json) |
 | Get in the Car, Loser!: The Fate of Another World | 226411 | [226411-get-in-the-car-loser-the-fate-of-another-world.json](./226411-get-in-the-car-loser-the-fate-of-another-world.json) |
 | get in the hole | 381049 | [381049-get-in-the-hole.json](./381049-get-in-the-hole.json) |
 | Get in the Hole | 59188 | [59188-get-in-the-hole.json](./59188-get-in-the-hole.json) |
@@ -8684,6 +8685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Snake | 160050 | [160050-gravity-snake.json](./160050-gravity-snake.json) |
 | Gravity Sphere | 309870 | [309870-gravity-sphere.json](./309870-gravity-sphere.json) |
 | Gravity Spin | 110948 | [110948-gravity-spin.json](./110948-gravity-spin.json) |
+| Gravity Square | 173372 | [173372-gravity-square.json](./173372-gravity-square.json) |
 | Gravity Station | 382333 | [382333-gravity-station.json](./382333-gravity-station.json) |
 | Gravity Still Sucks! | 251210 | [251210-gravity-still-sucks.json](./251210-gravity-still-sucks.json) |
 | Gravity Storm: First Mission | 329586 | [329586-gravity-storm-first-mission.json](./329586-gravity-storm-first-mission.json) |
@@ -9252,6 +9254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Runner | 20738 | [20738-grid-runner.json](./20738-grid-runner.json) |
 | Grid Runner | 258951 | [258951-grid-runner.json](./258951-grid-runner.json) |
 | Grid Seeker: Project Storm Hammer | 39866 | [39866-grid-seeker-project-storm-hammer.json](./39866-grid-seeker-project-storm-hammer.json) |
+| Grid Slayer | 173345 | [173345-grid-slayer.json](./173345-grid-slayer.json) |
 | Grid Start | 55992 | [55992-grid-start.json](./55992-grid-start.json) |
 | Grid Tactics: Duel | 402063 | [402063-grid-tactics-duel.json](./402063-grid-tactics-duel.json) |
 | Grid Tycoon | 392970 | [392970-grid-tycoon.json](./392970-grid-tycoon.json) |
