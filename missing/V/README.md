@@ -763,6 +763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanakan | 423958 | [423958-vanakan.json](./423958-vanakan.json) |
 | Vanakan 405 | 382291 | [382291-vanakan-405.json](./382291-vanakan-405.json) |
 | Vanakatu | 302066 | [302066-vanakatu.json](./302066-vanakatu.json) |
+| Vanaris Tactics | 186371 | [186371-vanaris-tactics.json](./186371-vanaris-tactics.json) |
 | Vanark | 44997 | [44997-vanark.json](./44997-vanark.json) |
 | VanBay: Mosh it Up | 268935 | [268935-vanbay-mosh-it-up.json](./268935-vanbay-mosh-it-up.json) |
 | Vancouver 2010 | 2709 | [2709-vancouver-2010.json](./2709-vancouver-2010.json) |
