@@ -7083,6 +7083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Sonic's 4 | 274069 | [274069-five-nights-at-sonics-4.json](./274069-five-nights-at-sonics-4.json) |
 | Five Nights at Sonic's 4: Halloween Edition | 413155 | [413155-five-nights-at-sonics-4-halloween-edition.json](./413155-five-nights-at-sonics-4-halloween-edition.json) |
 | Five Nights at Sonic's Collection | 186992 | [186992-five-nights-at-sonics-collection.json](./186992-five-nights-at-sonics-collection.json) |
+| Five Nights at Sonic's Maniac Mania | 185803 | [185803-five-nights-at-sonics-maniac-mania.json](./185803-five-nights-at-sonics-maniac-mania.json) |
 | Five Nights at Sonic's Remastered | 333960 | [333960-five-nights-at-sonics-remastered.json](./333960-five-nights-at-sonics-remastered.json) |
 | Five Nights at Sonic's Side Story Act 1 | 335149 | [335149-five-nights-at-sonics-side-story-act-1.json](./335149-five-nights-at-sonics-side-story-act-1.json) |
 | Five Nights at Sonic's World | 359012 | [359012-five-nights-at-sonics-world.json](./359012-five-nights-at-sonics-world.json) |
@@ -9009,6 +9010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Food Fight Fiesta: Multi-Use Cards | 333500 | [333500-food-fight-fiesta-multi-use-cards.json](./333500-food-fight-fiesta-multi-use-cards.json) |
 | Food Fight: Culinary Combat | 325901 | [325901-food-fight-culinary-combat.json](./325901-food-fight-culinary-combat.json) |
 | Food Fighter Clicker Games | 262505 | [262505-food-fighter-clicker-games.json](./262505-food-fighter-clicker-games.json) |
+| Food Flinger VR | 185764 | [185764-food-flinger-vr.json](./185764-food-flinger-vr.json) |
 | Food for Frog | 385224 | [385224-food-for-frog.json](./385224-food-for-frog.json) |
 | Food For Pigs | 235308 | [235308-food-for-pigs.json](./235308-food-for-pigs.json) |
 | Food Force | 70363 | [70363-food-force.json](./70363-food-force.json) |
@@ -11122,6 +11124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractal Craft | 364635 | [364635-fractal-craft.json](./364635-fractal-craft.json) |
 | Fractal Evolution | 190453 | [190453-fractal-evolution.json](./190453-fractal-evolution.json) |
 | Fractal Factory | 302163 | [302163-fractal-factory.json](./302163-fractal-factory.json) |
+| Fractal Fighter | 185751 | [185751-fractal-fighter.json](./185751-fractal-fighter.json) |
 | Fractal Fly | 196135 | [196135-fractal-fly.json](./196135-fractal-fly.json) |
 | Fractal Gallery VR | 372217 | [372217-fractal-gallery-vr.json](./372217-fractal-gallery-vr.json) |
 | Fractal Glide | 263503 | [263503-fractal-glide.json](./263503-fractal-glide.json) |
