@@ -2525,6 +2525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geeks vs Gangsters | 54903 | [54903-geeks-vs-gangsters.json](./54903-geeks-vs-gangsters.json) |
 | Geekwords: Game of Words | 156971 | [156971-geekwords-game-of-words.json](./156971-geekwords-game-of-words.json) |
 | Geenius: Cupid Dough | 395196 | [395196-geenius-cupid-dough.json](./395196-geenius-cupid-dough.json) |
+| Geep Simulator | 191309 | [191309-geep-simulator.json](./191309-geep-simulator.json) |
 | Geese and Gats | 219335 | [219335-geese-and-gats.json](./219335-geese-and-gats.json) |
 | Geese vs. Cthulhu | 123915 | [123915-geese-vs-cthulhu.json](./123915-geese-vs-cthulhu.json) |
 | Geeste | 99667 | [99667-geeste.json](./99667-geeste.json) |
@@ -3686,6 +3687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghalad Online | 176192 | [176192-ghalad-online.json](./176192-ghalad-online.json) |
 | Ghana Bwana | 97474 | [97474-ghana-bwana.json](./97474-ghana-bwana.json) |
 | Gharp | 192438 | [192438-gharp.json](./192438-gharp.json) |
+| Ghastly Goodies | 191305 | [191305-ghastly-goodies.json](./191305-ghastly-goodies.json) |
 | Ghastly Mask Shop | 391332 | [391332-ghastly-mask-shop.json](./391332-ghastly-mask-shop.json) |
 | Ghatika | 405286 | [405286-ghatika.json](./405286-ghatika.json) |
 | GHD | 171320 | [171320-ghd.json](./171320-ghd.json) |
@@ -4125,6 +4127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostwire | 91724 | [91724-ghostwire.json](./91724-ghostwire.json) |
 | Ghostwire Tokyo: Spider's Thread | 246125 | [246125-ghostwire-tokyo-spiders-thread.json](./246125-ghostwire-tokyo-spiders-thread.json) |
 | Ghostwire: Tokyo - Deluxe Edition | 192309 | [192309-ghostwire-tokyo-deluxe-edition.json](./192309-ghostwire-tokyo-deluxe-edition.json) |
+| GhostWire: Tokyo - Metal Plate Edition | 191322 | [191322-ghostwire-tokyo-metal-plate-edition.json](./191322-ghostwire-tokyo-metal-plate-edition.json) |
 | Ghostwire: Tokyo - Prelude: The Corrupted Casefile | 194210 | [194210-ghostwire-tokyo-prelude-the-corrupted-casefile.json](./194210-ghostwire-tokyo-prelude-the-corrupted-casefile.json) |
 | Ghostwire: Tokyo 2 | 267309 | [267309-ghostwire-tokyo-2.json](./267309-ghostwire-tokyo-2.json) |
 | Ghostwriter Workshop | 330950 | [330950-ghostwriter-workshop.json](./330950-ghostwriter-workshop.json) |
@@ -7073,6 +7076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodbye | 365456 | [365456-goodbye.json](./365456-goodbye.json) |
 | Goodbye Cendrillon | 285991 | [285991-goodbye-cendrillon.json](./285991-goodbye-cendrillon.json) |
 | Goodbye Deponia: Premium Edition | 54069 | [54069-goodbye-deponia-premium-edition.json](./54069-goodbye-deponia-premium-edition.json) |
+| Goodbye Dr. Sanchez | 191318 | [191318-goodbye-dr-sanchez.json](./191318-goodbye-dr-sanchez.json) |
 | Goodbye Dreaming | 132666 | [132666-goodbye-dreaming.json](./132666-goodbye-dreaming.json) |
 | Goodbye Eternity | 260469 | [260469-goodbye-eternity.json](./260469-goodbye-eternity.json) |
 | Goodbye Gordon | 184322 | [184322-goodbye-gordon.json](./184322-goodbye-gordon.json) |
