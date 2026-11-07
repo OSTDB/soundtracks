@@ -4530,6 +4530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Refuse: Home Sweep Home | 210816 | [210816-refuse-home-sweep-home.json](./210816-refuse-home-sweep-home.json) |
 | Refuted Wind | 319343 | [319343-refuted-wind.json](./319343-refuted-wind.json) |
 | Regain Earth: First Strike | 139229 | [139229-regain-earth-first-strike.json](./139229-regain-earth-first-strike.json) |
+| Regal Tails | 177122 | [177122-regal-tails.json](./177122-regal-tails.json) |
 | Regalia: Of Men and Monarchs - Paragons and Pajamas | 172162 | [172162-regalia-of-men-and-monarchs-paragons-and-pajamas.json](./172162-regalia-of-men-and-monarchs-paragons-and-pajamas.json) |
 | Regalia: Of Men and Monarchs - The Unending Grimoire | 84829 | [84829-regalia-of-men-and-monarchs-the-unending-grimoire.json](./84829-regalia-of-men-and-monarchs-the-unending-grimoire.json) |
 | Regalia: Royal Edition | 78118 | [78118-regalia-royal-edition.json](./78118-regalia-royal-edition.json) |
@@ -5876,6 +5877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restless Soul | 192398 | [192398-restless-soul.json](./192398-restless-soul.json) |
 | Restless Spirit | 99468 | [99468-restless-spirit.json](./99468-restless-spirit.json) |
 | Restless Voronezh | 267058 | [267058-restless-voronezh.json](./267058-restless-voronezh.json) |
+| Restless Wing Syndrome | 177125 | [177125-restless-wing-syndrome.json](./177125-restless-wing-syndrome.json) |
 | Restless World | 74719 | [74719-restless-world.json](./74719-restless-world.json) |
 | Restlos | 400708 | [400708-restlos.json](./400708-restlos.json) |
 | Restock | 316414 | [316414-restock.json](./316414-restock.json) |
@@ -8953,6 +8955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roboquest VR | 313774 | [313774-roboquest-vr.json](./313774-roboquest-vr.json) |
 | Roboquest: Deluxe Edition | 335623 | [335623-roboquest-deluxe-edition.json](./335623-roboquest-deluxe-edition.json) |
 | RoboRancher | 259182 | [259182-roborancher.json](./259182-roborancher.json) |
+| Roborazzi | 177124 | [177124-roborazzi.json](./177124-roborazzi.json) |
 | Roborne | 265508 | [265508-roborne.json](./265508-roborne.json) |
 | Roborobi | 357808 | [357808-roborobi.json](./357808-roborobi.json) |
 | RoBoRumble | 26485 | [26485-roborumble.json](./26485-roborumble.json) |
@@ -9602,6 +9605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocketmen: It Came from Uranus | 41588 | [41588-rocketmen-it-came-from-uranus.json](./41588-rocketmen-it-came-from-uranus.json) |
 | RocketPack Kid | 109219 | [109219-rocketpack-kid.json](./109219-rocketpack-kid.json) |
 | RocketPods | 127975 | [127975-rocketpods.json](./127975-rocketpods.json) |
+| Rocketpult | 177128 | [177128-rocketpult.json](./177128-rocketpult.json) |
 | Rocketpult Mini | 339170 | [339170-rocketpult-mini.json](./339170-rocketpult-mini.json) |
 | RocketRecoil | 296254 | [296254-rocketrecoil.json](./296254-rocketrecoil.json) |
 | Rockets | 108514 | [108514-rockets.json](./108514-rockets.json) |
@@ -11423,6 +11427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoundUrbs | 350413 | [350413-roundurbs.json](./350413-roundurbs.json) |
 | Roundy | 38919 | [38919-roundy.json](./38919-roundy.json) |
 | RoundZ | 371910 | [371910-roundz.json](./371910-roundz.json) |
+| Roushigumi | 177143 | [177143-roushigumi.json](./177143-roushigumi.json) |
 | Route | 408971 | [408971-route.json](./408971-route.json) |
 | Route 13 | 253864 | [253864-route-13.json](./253864-route-13.json) |
 | Route 401 Motel | 90224 | [90224-route-401-motel.json](./90224-route-401-motel.json) |
