@@ -9137,6 +9137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ever-Changing Jianghu | 280080 | [280080-the-ever-changing-jianghu.json](./280080-the-ever-changing-jianghu.json) |
 | The Everlasting Lovestory at the Windcap | 322019 | [322019-the-everlasting-lovestory-at-the-windcap.json](./322019-the-everlasting-lovestory-at-the-windcap.json) |
 | The Everloom | 377901 | [377901-the-everloom.json](./377901-the-everloom.json) |
+| The Eviction Game | 142559 | [142559-the-eviction-game.json](./142559-the-eviction-game.json) |
 | The Evidence | 209567 | [209567-the-evidence.json](./209567-the-evidence.json) |
 | The Evil Church | 179319 | [179319-the-evil-church.json](./179319-the-evil-church.json) |
 | The Evil D | 330047 | [330047-the-evil-d.json](./330047-the-evil-d.json) |
@@ -26077,6 +26078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topps Kick | 137686 | [137686-topps-kick.json](./137686-topps-kick.json) |
 | Topps NHL Skate | 280023 | [280023-topps-nhl-skate.json](./280023-topps-nhl-skate.json) |
 | TopShot: Darkness | 89251 | [89251-topshot-darkness.json](./89251-topshot-darkness.json) |
+| Topsoil | 142590 | [142590-topsoil.json](./142590-topsoil.json) |
 | Topspace | 274468 | [274468-topspace.json](./274468-topspace.json) |
 | TopSpin 2K25 | 282959 | [282959-topspin-2k25.json](./282959-topspin-2k25.json) |
 | TopSpin 2K25: Deluxe Edition | 292137 | [292137-topspin-2k25-deluxe-edition.json](./292137-topspin-2k25-deluxe-edition.json) |
@@ -32378,6 +32380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truly Kryptic | 75418 | [75418-truly-kryptic.json](./75418-truly-kryptic.json) |
 | Trump and Virus | 393451 | [393451-trump-and-virus.json](./393451-trump-and-virus.json) |
 | Trump Anthology Episode 1: A Link to the Past | 111858 | [111858-trump-anthology-episode-1-a-link-to-the-past.json](./111858-trump-anthology-episode-1-a-link-to-the-past.json) |
+| Trump Boy | 142572 | [142572-trump-boy.json](./142572-trump-boy.json) |
 | Trump Boy II | 334278 | [334278-trump-boy-ii.json](./334278-trump-boy-ii.json) |
 | Trump Breakout | 330480 | [330480-trump-breakout.json](./330480-trump-breakout.json) |
 | Trump Cake Mania | 328910 | [328910-trump-cake-mania.json](./328910-trump-cake-mania.json) |
@@ -32964,6 +32967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel B1 | 12900 | [12900-tunnel-b1.json](./12900-tunnel-b1.json) |
 | Tunnel Ball 3D | 257362 | [257362-tunnel-ball-3d.json](./257362-tunnel-ball-3d.json) |
 | Tunnel Bird | 143979 | [143979-tunnel-bird.json](./143979-tunnel-bird.json) |
+| Tunnel Blast | 142568 | [142568-tunnel-blast.json](./142568-tunnel-blast.json) |
 | Tunnel Boat Terror | 258544 | [258544-tunnel-boat-terror.json](./258544-tunnel-boat-terror.json) |
 | Tunnel Divers | 41953 | [41953-tunnel-divers.json](./41953-tunnel-divers.json) |
 | Tunnel Escape | 302803 | [302803-tunnel-escape.json](./302803-tunnel-escape.json) |
