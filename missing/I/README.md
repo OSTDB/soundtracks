@@ -3891,6 +3891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4185,6 +4186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initial Drift Online: Car Pack | 243067 | [243067-initial-drift-online-car-pack.json](./243067-initial-drift-online-car-pack.json) |
 | Initial Prospect | 178844 | [178844-initial-prospect.json](./178844-initial-prospect.json) |
 | Initial Unity | 342282 | [342282-initial-unity.json](./342282-initial-unity.json) |
+| Initial Wave | 176565 | [176565-initial-wave.json](./176565-initial-wave.json) |
 | Initializing Maintenance Run: We're Good to Go. | 187049 | [187049-initializing-maintenance-run-were-good-to-go.json](./187049-initializing-maintenance-run-were-good-to-go.json) |
 | Initiate | 180890 | [180890-initiate.json](./180890-initiate.json) |
 | Initiating Station Plus | 374225 | [374225-initiating-station-plus.json](./374225-initiating-station-plus.json) |
@@ -5341,6 +5343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intrepid | 297485 | [297485-intrepid.json](./297485-intrepid.json) |
 | Intrepid Izzy | 135822 | [135822-intrepid-izzy.json](./135822-intrepid-izzy.json) |
 | Intrepid Lepid | 179041 | [179041-intrepid-lepid.json](./179041-intrepid-lepid.json) |
+| Intricacy | 176574 | [176574-intricacy.json](./176574-intricacy.json) |
 | Intrigue At Oakhaven | 377771 | [377771-intrigue-at-oakhaven.json](./377771-intrigue-at-oakhaven.json) |
 | Intrigue At Oakhaven Plantation | 66352 | [66352-intrigue-at-oakhaven-plantation.json](./66352-intrigue-at-oakhaven-plantation.json) |
 | Intrigue Inc.: Raven's Flight | 311751 | [311751-intrigue-inc-ravens-flight.json](./311751-intrigue-inc-ravens-flight.json) |
