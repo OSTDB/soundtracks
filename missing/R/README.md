@@ -3128,6 +3128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reality Rifts | 320517 | [320517-reality-rifts.json](./320517-reality-rifts.json) |
 | Reality Rivals: The First Season | 374637 | [374637-reality-rivals-the-first-season.json](./374637-reality-rivals-the-first-season.json) |
 | Reality Runner | 68451 | [68451-reality-runner.json](./68451-reality-runner.json) |
+| Reality Show: Fatal Shot | 140141 | [140141-reality-show-fatal-shot.json](./140141-reality-show-fatal-shot.json) |
 | Reality Show: Fatal Shot - Collector's Edition | 126176 | [126176-reality-show-fatal-shot-collectors-edition.json](./126176-reality-show-fatal-shot-collectors-edition.json) |
 | Reality Stability Office | 401086 | [401086-reality-stability-office.json](./401086-reality-stability-office.json) |
 | Reality-On-The-Norm: The Affair of the Weirdo | 58048 | [58048-reality-on-the-norm-the-affair-of-the-weirdo.json](./58048-reality-on-the-norm-the-affair-of-the-weirdo.json) |
@@ -4478,6 +4479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflections of Life: Dark Architect | 57718 | [57718-reflections-of-life-dark-architect.json](./57718-reflections-of-life-dark-architect.json) |
 | Reflections of Life: Dark Architect - Collector's Edition | 53498 | [53498-reflections-of-life-dark-architect-collectors-edition.json](./53498-reflections-of-life-dark-architect-collectors-edition.json) |
 | Reflections of Life: Dream Box - Collector's Edition | 362833 | [362833-reflections-of-life-dream-box-collectors-edition.json](./362833-reflections-of-life-dream-box-collectors-edition.json) |
+| Reflections of Life: Equilibrium | 140142 | [140142-reflections-of-life-equilibrium.json](./140142-reflections-of-life-equilibrium.json) |
 | Reflections of Life: Equilibrium - Collector's Edition | 117813 | [117813-reflections-of-life-equilibrium-collectors-edition.json](./117813-reflections-of-life-equilibrium-collectors-edition.json) |
 | Reflections of Life: Gone but not Forgotten | 385229 | [385229-reflections-of-life-gone-but-not-forgotten.json](./385229-reflections-of-life-gone-but-not-forgotten.json) |
 | Reflections of Life: Gone but not Forgotten - Collector's Edition | 383558 | [383558-reflections-of-life-gone-but-not-forgotten-collectors-edition.json](./383558-reflections-of-life-gone-but-not-forgotten-collectors-edition.json) |
@@ -4491,6 +4493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflections of Life: Spindle of Fate - Collector's Edition | 226541 | [226541-reflections-of-life-spindle-of-fate-collectors-edition.json](./226541-reflections-of-life-spindle-of-fate-collectors-edition.json) |
 | Reflections of Life: The Shattered Timeline - Collector's Edition | 307752 | [307752-reflections-of-life-the-shattered-timeline-collectors-edition.json](./307752-reflections-of-life-the-shattered-timeline-collectors-edition.json) |
 | Reflections of Life: Tree of Dreams - Collector's Edition | 107703 | [107703-reflections-of-life-tree-of-dreams-collectors-edition.json](./107703-reflections-of-life-tree-of-dreams-collectors-edition.json) |
+| Reflections of Life: Utopia | 140143 | [140143-reflections-of-life-utopia.json](./140143-reflections-of-life-utopia.json) |
 | Reflections of Life: Utopia - Collector's Edition | 132632 | [132632-reflections-of-life-utopia-collectors-edition.json](./132632-reflections-of-life-utopia-collectors-edition.json) |
 | Reflections of the Void | 343148 | [343148-reflections-of-the-void.json](./343148-reflections-of-the-void.json) |
 | Reflections on the River | 124681 | [124681-reflections-on-the-river.json](./124681-reflections-on-the-river.json) |
@@ -5964,6 +5967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resurrection of mind | 193038 | [193038-resurrection-of-mind.json](./193038-resurrection-of-mind.json) |
 | Resurrection of Santiago | 349385 | [349385-resurrection-of-santiago.json](./349385-resurrection-of-santiago.json) |
 | Resurrection of Soul Drain | 187902 | [187902-resurrection-of-soul-drain.json](./187902-resurrection-of-soul-drain.json) |
+| Resurrection: New Mexico | 140146 | [140146-resurrection-new-mexico.json](./140146-resurrection-new-mexico.json) |
 | Resurrection: New Mexico - Collector's Edition | 125310 | [125310-resurrection-new-mexico-collectors-edition.json](./125310-resurrection-new-mexico-collectors-edition.json) |
 | Resurrection: Nuke Island | 291889 | [291889-resurrection-nuke-island.json](./291889-resurrection-nuke-island.json) |
 | Resurrection: Nuke island - Weapons Pack | 317093 | [317093-resurrection-nuke-island-weapons-pack.json](./317093-resurrection-nuke-island-weapons-pack.json) |
@@ -7240,6 +7244,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddler's Den | 26211 | [26211-riddlers-den.json](./26211-riddlers-den.json) |
 | Riddles And Sieges | 243867 | [243867-riddles-and-sieges.json](./243867-riddles-and-sieges.json) |
 | Riddles of Egypt | 108139 | [108139-riddles-of-egypt.json](./108139-riddles-of-egypt.json) |
+| Riddles of Fate: Into Oblivion | 140145 | [140145-riddles-of-fate-into-oblivion.json](./140145-riddles-of-fate-into-oblivion.json) |
+| Riddles of Fate: Memento Mori | 140148 | [140148-riddles-of-fate-memento-mori.json](./140148-riddles-of-fate-memento-mori.json) |
+| Riddles of Fate: Wild Hunt | 140149 | [140149-riddles-of-fate-wild-hunt.json](./140149-riddles-of-fate-wild-hunt.json) |
 | Riddles of Fate: Wild Hunt - Collector's Edition | 30538 | [30538-riddles-of-fate-wild-hunt-collectors-edition.json](./30538-riddles-of-fate-wild-hunt-collectors-edition.json) |
 | Riddles of the Owls Kingdom | 105370 | [105370-riddles-of-the-owls-kingdom.json](./105370-riddles-of-the-owls-kingdom.json) |
 | Riddles of the Past | 32090 | [32090-riddles-of-the-past.json](./32090-riddles-of-the-past.json) |
@@ -8219,7 +8226,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rite of Passage: Hide and Seek | 98377 | [98377-rite-of-passage-hide-and-seek.json](./98377-rite-of-passage-hide-and-seek.json) |
 | Rite of Passage: Hide and Seek - Collector's Edition | 84028 | [84028-rite-of-passage-hide-and-seek-collectors-edition.json](./84028-rite-of-passage-hide-and-seek-collectors-edition.json) |
 | Rite of Passage: Hide and Seek HD | 104215 | [104215-rite-of-passage-hide-and-seek-hd.json](./104215-rite-of-passage-hide-and-seek-hd.json) |
+| Rite of Passage: The Lost Tides | 140151 | [140151-rite-of-passage-the-lost-tides.json](./140151-rite-of-passage-the-lost-tides.json) |
 | Rite of Passage: The Lost Tides HD | 100231 | [100231-rite-of-passage-the-lost-tides-hd.json](./100231-rite-of-passage-the-lost-tides-hd.json) |
+| Rite of Passage: The Perfect Show | 140152 | [140152-rite-of-passage-the-perfect-show.json](./140152-rite-of-passage-the-perfect-show.json) |
 | Rite of Passage: The Perfect Show - Collector's Edition | 30628 | [30628-rite-of-passage-the-perfect-show-collectors-edition.json](./30628-rite-of-passage-the-perfect-show-collectors-edition.json) |
 | Rite of Red Snow | 387961 | [387961-rite-of-red-snow.json](./387961-rite-of-red-snow.json) |
 | Rite of the Dealer | 369613 | [369613-rite-of-the-dealer.json](./369613-rite-of-the-dealer.json) |
@@ -11662,7 +11671,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Detective: Incident at Ashford | 355553 | [355553-royal-detective-incident-at-ashford.json](./355553-royal-detective-incident-at-ashford.json) |
 | Royal Detective: Legend of the Golem | 102694 | [102694-royal-detective-legend-of-the-golem.json](./102694-royal-detective-legend-of-the-golem.json) |
 | Royal Detective: Lord of Statues | 57968 | [57968-royal-detective-lord-of-statues.json](./57968-royal-detective-lord-of-statues.json) |
+| Royal Detective: Queen of Shadows | 140153 | [140153-royal-detective-queen-of-shadows.json](./140153-royal-detective-queen-of-shadows.json) |
+| Royal Detective: The Last Charm | 140154 | [140154-royal-detective-the-last-charm.json](./140154-royal-detective-the-last-charm.json) |
 | Royal Detective: The Last Charm - Collector's Edition | 126790 | [126790-royal-detective-the-last-charm-collectors-edition.json](./126790-royal-detective-the-last-charm-collectors-edition.json) |
+| Royal Detective: The Lord of Statues | 140155 | [140155-royal-detective-the-lord-of-statues.json](./140155-royal-detective-the-lord-of-statues.json) |
 | Royal Detective: The Lord of Statues - Collector's Edition | 30431 | [30431-royal-detective-the-lord-of-statues-collectors-edition.json](./30431-royal-detective-the-lord-of-statues-collectors-edition.json) |
 | Royal Diamonds | 246556 | [246556-royal-diamonds.json](./246556-royal-diamonds.json) |
 | Royal Dice: Random Defense | 174810 | [174810-royal-dice-random-defense.json](./174810-royal-dice-random-defense.json) |
@@ -11671,6 +11683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Edoma Engine | 130583 | [130583-royal-edoma-engine.json](./130583-royal-edoma-engine.json) |
 | Royal Envoy 2 | 63401 | [63401-royal-envoy-2.json](./63401-royal-envoy-2.json) |
 | Royal Envoy 2: Collector's Edition | 201855 | [201855-royal-envoy-2-collectors-edition.json](./201855-royal-envoy-2-collectors-edition.json) |
+| Royal Envoy 3 | 140156 | [140156-royal-envoy-3.json](./140156-royal-envoy-3.json) |
 | Royal Envoy 3: Collector's Edition | 132804 | [132804-royal-envoy-3-collectors-edition.json](./132804-royal-envoy-3-collectors-edition.json) |
 | Royal Envoy Super Pack | 356994 | [356994-royal-envoy-super-pack.json](./356994-royal-envoy-super-pack.json) |
 | Royal Envoy: Campaign for the Crown - Collector's Edition | 356131 | [356131-royal-envoy-campaign-for-the-crown-collectors-edition.json](./356131-royal-envoy-campaign-for-the-crown-collectors-edition.json) |
