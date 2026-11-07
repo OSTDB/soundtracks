@@ -941,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night Train to the Forest Zone | 138054 | [138054-a-night-train-to-the-forest-zone.json](./138054-a-night-train-to-the-forest-zone.json) |
 | A Night Walk | 176236 | [176236-a-night-walk.json](./176236-a-night-walk.json) |
 | A Night Was Had on the Town | 178944 | [178944-a-night-was-had-on-the-town.json](./178944-a-night-was-had-on-the-town.json) |
+| A Night With A Bat Girl | 140718 | [140718-a-night-with-a-bat-girl.json](./140718-a-night-with-a-bat-girl.json) |
 | A Night With Angel | 266280 | [266280-a-night-with-angel.json](./266280-a-night-with-angel.json) |
 | A Night With Gigsjaw VR | 374226 | [374226-a-night-with-gigsjaw-vr.json](./374226-a-night-with-gigsjaw-vr.json) |
 | A Night with Laverne | 379953 | [379953-a-night-with-laverne.json](./379953-a-night-with-laverne.json) |
@@ -4457,6 +4458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AfterFall: Insanity - Dirty Arena Edition | 50832 | [50832-afterfall-insanity-dirty-arena-edition.json](./50832-afterfall-insanity-dirty-arena-edition.json) |
 | Afterfall: Reconquest | 18961 | [18961-afterfall-reconquest.json](./18961-afterfall-reconquest.json) |
 | Afterglitch | 189933 | [189933-afterglitch.json](./189933-afterglitch.json) |
+| Afterglow | 140719 | [140719-afterglow.json](./140719-afterglow.json) |
 | Afterglow | 168117 | [168117-afterglow.json](./168117-afterglow.json) |
 | Afterglow Bytes: Reverie by the Shore | 382378 | [382378-afterglow-bytes-reverie-by-the-shore.json](./382378-afterglow-bytes-reverie-by-the-shore.json) |
 | Afterglow; The Scent | 272128 | [272128-afterglow-the-scent.json](./272128-afterglow-the-scent.json) |
@@ -5268,6 +5270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aikagi with After Days | 127937 | [127937-aikagi-with-after-days.json](./127937-aikagi-with-after-days.json) |
 | Aikagi: Hidamari to Kanojo no Heyagi | 58098 | [58098-aikagi-hidamari-to-kanojo-no-heyagi.json](./58098-aikagi-hidamari-to-kanojo-no-heyagi.json) |
 | Aikagi: Kimi to Issho ni Pack | 127938 | [127938-aikagi-kimi-to-issho-ni-pack.json](./127938-aikagi-kimi-to-issho-ni-pack.json) |
+| Aikano: Yukizora no Triangle | 140744 | [140744-aikano-yukizora-no-triangle.json](./140744-aikano-yukizora-no-triangle.json) |
 | Aikano: Yukizora no Triangle - Premium Limited Edition | 166992 | [166992-aikano-yukizora-no-triangle-premium-limited-edition.json](./166992-aikano-yukizora-no-triangle-premium-limited-edition.json) |
 | Aikatsu On Parade! | 320311 | [320311-aikatsu-on-parade.json](./320311-aikatsu-on-parade.json) |
 | Aikatsu Stars! First Appeal | 222422 | [222422-aikatsu-stars-first-appeal.json](./222422-aikatsu-stars-first-appeal.json) |
@@ -17495,6 +17498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AuraTitan | 417677 | [417677-auratitan.json](./417677-auratitan.json) |
 | Aurcus Online | 132715 | [132715-aurcus-online.json](./132715-aurcus-online.json) |
 | Aure | 349251 | [349251-aure.json](./349251-aure.json) |
+| Aurelia | 140721 | [140721-aurelia.json](./140721-aurelia.json) |
 | Aurelia: Stellar Arising | 201806 | [201806-aurelia-stellar-arising.json](./201806-aurelia-stellar-arising.json) |
 | Aurelune: Seven Eclipses | 425196 | [425196-aurelune-seven-eclipses.json](./425196-aurelune-seven-eclipses.json) |
 | Aurendor | 246006 | [246006-aurendor.json](./246006-aurendor.json) |
