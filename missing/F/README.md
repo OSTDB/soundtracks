@@ -1776,6 +1776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasia Sango 5 | 107868 | [107868-fantasia-sango-5.json](./107868-fantasia-sango-5.json) |
 | Fantasia Sango Mysteria | 188637 | [188637-fantasia-sango-mysteria.json](./188637-fantasia-sango-mysteria.json) |
 | Fantasia: Music Evolved | 83509 | [83509-fantasia-music-evolved.json](./83509-fantasia-music-evolved.json) |
+| Fantasia: Requiem of The Abyss | 184020 | [184020-fantasia-requiem-of-the-abyss.json](./184020-fantasia-requiem-of-the-abyss.json) |
 | Fantasia: Surreal Cosmic Progeny | 133391 | [133391-fantasia-surreal-cosmic-progeny.json](./133391-fantasia-surreal-cosmic-progeny.json) |
 | Fantasia: The Realm of Thanos | 243964 | [243964-fantasia-the-realm-of-thanos.json](./243964-fantasia-the-realm-of-thanos.json) |
 | Fantasian | 116588 | [116588-fantasian.json](./116588-fantasian.json) |
@@ -12715,6 +12716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frost | 32851 | [32851-frost.json](./32851-frost.json) |
 | Frost | 88972 | [88972-frost.json](./88972-frost.json) |
 | Frost & Flame: King of Avalon | 271382 | [271382-frost-and-flame-king-of-avalon.json](./271382-frost-and-flame-king-of-avalon.json) |
+| Frost Bite | 184159 | [184159-frost-bite.json](./184159-frost-bite.json) |
 | Frost Bite | 272661 | [272661-frost-bite.json](./272661-frost-bite.json) |
 | Frost Bite | 317454 | [317454-frost-bite.json](./317454-frost-bite.json) |
 | Frost Bite 2 | 315974 | [315974-frost-bite-2.json](./315974-frost-bite-2.json) |
@@ -13295,6 +13297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FUMBBL Fantasy Football | 143348 | [143348-fumbbl-fantasy-football.json](./143348-fumbbl-fantasy-football.json) |
 | Fumble Fiesta | 292557 | [292557-fumble-fiesta.json](./292557-fumble-fiesta.json) |
 | Fumble Freaks | 337295 | [337295-fumble-freaks.json](./337295-fumble-freaks.json) |
+| Fume | 184016 | [184016-fume.json](./184016-fume.json) |
 | Fumehead | 333282 | [333282-fumehead.json](./333282-fumehead.json) |
 | Fumes | 177689 | [177689-fumes.json](./177689-fumes.json) |
 | Fumiko! | 27194 | [27194-fumiko.json](./27194-fumiko.json) |
