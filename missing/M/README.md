@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.U.D.S.: Mean Ugly Dirty Sport | 70199 | [70199-m-u-d-s-mean-ugly-dirty-sport.json](./70199-m-u-d-s-mean-ugly-dirty-sport.json) |
 | M.U.L.E. | 23895 | [23895-m-u-l-e.json](./23895-m-u-l-e.json) |
 | M.U.S.E. | 61136 | [61136-m-u-s-e.json](./61136-m-u-s-e.json) |
+| M.U.S.T. Repeat | 150317 | [150317-m-u-s-t-repeat.json](./150317-m-u-s-t-repeat.json) |
 | M.V.P. | 197957 | [197957-m-v-p.json](./197957-m-v-p.json) |
 | M's Cases: Chapter 1 - Vanishing of Melisma | 327097 | [327097-ms-cases-chapter-1-vanishing-of-melisma.json](./327097-ms-cases-chapter-1-vanishing-of-melisma.json) |
 | M(ae)rry-go-round | 255565 | [255565-m-ae-rry-go-round.json](./255565-m-ae-rry-go-round.json) |
@@ -9639,6 +9640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Messages From The Universe Graveyard | 304986 | [304986-messages-from-the-universe-graveyard.json](./304986-messages-from-the-universe-graveyard.json) |
 | Messiah | 9282 | [9282-messiah.json](./9282-messiah.json) |
 | Messiah: The Road of Conviction | 145602 | [145602-messiah-the-road-of-conviction.json](./145602-messiah-the-road-of-conviction.json) |
+| MessiahEnd Refrain | 150320 | [150320-messiahend-refrain.json](./150320-messiahend-refrain.json) |
 | Messier111 | 169363 | [169363-messier111.json](./169363-messier111.json) |
 | Messticulous | 319935 | [319935-messticulous.json](./319935-messticulous.json) |
 | Messy Desktop 98 | 184614 | [184614-messy-desktop-98.json](./184614-messy-desktop-98.json) |
@@ -10765,6 +10767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroMacro: Downtown Detective | 387475 | [387475-micromacro-downtown-detective.json](./387475-micromacro-downtown-detective.json) |
 | MicroMan | 24760 | [24760-microman.json](./24760-microman.json) |
 | MicroMan's Crazy Computers | 62650 | [62650-micromans-crazy-computers.json](./62650-micromans-crazy-computers.json) |
+| Micromanagement | 150321 | [150321-micromanagement.json](./150321-micromanagement.json) |
 | Micromancer | 365948 | [365948-micromancer.json](./365948-micromancer.json) |
 | MicroMechanica | 379714 | [379714-micromechanica.json](./379714-micromechanica.json) |
 | Micromega | 341944 | [341944-micromega.json](./341944-micromega.json) |
@@ -19329,6 +19332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multimedia Dinosaurs | 98941 | [98941-multimedia-dinosaurs.json](./98941-multimedia-dinosaurs.json) |
 | Multimedia Shinsho: Driving School - Futsu Menkyoka-hen | 245253 | [245253-multimedia-shinsho-driving-school-futsu-menkyoka-hen.json](./245253-multimedia-shinsho-driving-school-futsu-menkyoka-hen.json) |
 | Multimind | 322244 | [322244-multimind.json](./322244-multimind.json) |
+| MultiMind Challengers | 150316 | [150316-multimind-challengers.json](./150316-multimind-challengers.json) |
 | MultiMino 2: Polyform | 337569 | [337569-multimino-2-polyform.json](./337569-multimino-2-polyform.json) |
 | Multimirror | 31090 | [31090-multimirror.json](./31090-multimirror.json) |
 | MultiPlanetary | 348137 | [348137-multiplanetary.json](./348137-multiplanetary.json) |
