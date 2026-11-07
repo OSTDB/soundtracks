@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Queen's Quest Bundle | 280418 | [280418-queens-quest-bundle.json](./280418-queens-quest-bundle.json) |
 | Queen's Quest Collection | 53489 | [53489-queens-quest-collection.json](./53489-queens-quest-collection.json) |
 | Queen's Quest: Tower of Darkness | 34747 | [34747-queens-quest-tower-of-darkness.json](./34747-queens-quest-tower-of-darkness.json) |
+| Queen's Revolution: The Romance in Upheavals | 170628 | [170628-queens-revolution-the-romance-in-upheavals.json](./170628-queens-revolution-the-romance-in-upheavals.json) |
 | Queen's River | 344559 | [344559-queens-river.json](./344559-queens-river.json) |
 | Queen's Tales: Sins of the Past | 98522 | [98522-queens-tales-sins-of-the-past.json](./98522-queens-tales-sins-of-the-past.json) |
 | Queen's Tales: Sins of the Past - Collector's Edition | 81835 | [81835-queens-tales-sins-of-the-past-collectors-edition.json](./81835-queens-tales-sins-of-the-past-collectors-edition.json) |
