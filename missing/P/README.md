@@ -1037,6 +1037,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pam's House: An Escape Game | 183212 | [183212-pams-house-an-escape-game.json](./183212-pams-house-an-escape-game.json) |
 | Pam's Room | 183149 | [183149-pams-room.json](./183149-pams-room.json) |
 | Pamali: Indonesian Folklore Horror | 102339 | [102339-pamali-indonesian-folklore-horror.json](./102339-pamali-indonesian-folklore-horror.json) |
+| Pamali: Indonesian Folklore Horror - The Hungry Witch | 168471 | [168471-pamali-indonesian-folklore-horror-the-hungry-witch.json](./168471-pamali-indonesian-folklore-horror-the-hungry-witch.json) |
+| Pamali: Indonesian Folklore Horror - The Little Devil | 168472 | [168472-pamali-indonesian-folklore-horror-the-little-devil.json](./168472-pamali-indonesian-folklore-horror-the-little-devil.json) |
 | Pamali: Indonesian Folklore Horror - The Tied Corpse | 117737 | [117737-pamali-indonesian-folklore-horror-the-tied-corpse.json](./117737-pamali-indonesian-folklore-horror-the-tied-corpse.json) |
 | Pamali: The Vengeful Mother | 274761 | [274761-pamali-the-vengeful-mother.json](./274761-pamali-the-vengeful-mother.json) |
 | Pamina vs. Slimes | 341598 | [341598-pamina-vs-slimes.json](./341598-pamina-vs-slimes.json) |
@@ -1707,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Soldiers | 383743 | [383743-paper-soldiers.json](./383743-paper-soldiers.json) |
 | Paper Sorcerer | 9205 | [9205-paper-sorcerer.json](./9205-paper-sorcerer.json) |
 | Paper Sounds | 99382 | [99382-paper-sounds.json](./99382-paper-sounds.json) |
+| Paper Tales: Catch Up Games | 168486 | [168486-paper-tales-catch-up-games.json](./168486-paper-tales-catch-up-games.json) |
 | Paper Tanks | 127810 | [127810-paper-tanks.json](./127810-paper-tanks.json) |
 | Paper Toss | 259632 | [259632-paper-toss.json](./259632-paper-toss.json) |
 | Paper Toss | 67692 | [67692-paper-toss.json](./67692-paper-toss.json) |
@@ -10652,6 +10655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poetry of Blood: Eclipse | 247614 | [247614-poetry-of-blood-eclipse.json](./247614-poetry-of-blood-eclipse.json) |
 | Poetry Pigeon | 309604 | [309604-poetry-pigeon.json](./309604-poetry-pigeon.json) |
 | Poetry, wine and sword | 158186 | [158186-poetry-wine-and-sword.json](./158186-poetry-wine-and-sword.json) |
+| Pog | 168510 | [168510-pog.json](./168510-pog.json) |
 | Pog 2 | 157503 | [157503-pog-2.json](./157503-pog-2.json) |
 | Pog 4 | 158497 | [158497-pog-4.json](./158497-pog-4.json) |
 | Pog 5 | 165705 | [165705-pog-5.json](./165705-pog-5.json) |
@@ -18724,6 +18728,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle: Nature 2 | 213980 | [213980-puzzle-nature-2.json](./213980-puzzle-nature-2.json) |
 | Puzzle: Ocean | 116941 | [116941-puzzle-ocean.json](./116941-puzzle-ocean.json) |
 | Puzzle: Stone Blocks | 163555 | [163555-puzzle-stone-blocks.json](./163555-puzzle-stone-blocks.json) |
+| Puzzle: Stone Blocks - Levels Pack 1 Greece | 168482 | [168482-puzzle-stone-blocks-levels-pack-1-greece.json](./168482-puzzle-stone-blocks-levels-pack-1-greece.json) |
+| Puzzle: Stone Blocks - Levels Pack 2 Persia | 168483 | [168483-puzzle-stone-blocks-levels-pack-2-persia.json](./168483-puzzle-stone-blocks-levels-pack-2-persia.json) |
+| Puzzle: Stone Blocks - Levels Pack 3 Rome | 168479 | [168479-puzzle-stone-blocks-levels-pack-3-rome.json](./168479-puzzle-stone-blocks-levels-pack-3-rome.json) |
+| Puzzle: Stone Blocks - Levels Pack 4 Mayan | 168480 | [168480-puzzle-stone-blocks-levels-pack-4-mayan.json](./168480-puzzle-stone-blocks-levels-pack-4-mayan.json) |
+| Puzzle: Stone Blocks - Levels Pack 5 BigMix 1 | 168481 | [168481-puzzle-stone-blocks-levels-pack-5-bigmix-1.json](./168481-puzzle-stone-blocks-levels-pack-5-bigmix-1.json) |
 | Puzzle: Triangles | 220475 | [220475-puzzle-triangles.json](./220475-puzzle-triangles.json) |
 | Puzzle: Ultimate | 118102 | [118102-puzzle-ultimate.json](./118102-puzzle-ultimate.json) |
 | Puzzle: Ultimate - Puzzle Pack: Castles | 163433 | [163433-puzzle-ultimate-puzzle-pack-castles.json](./163433-puzzle-ultimate-puzzle-pack-castles.json) |
