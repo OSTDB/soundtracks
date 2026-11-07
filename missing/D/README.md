@@ -11869,6 +11869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogs of War | 74307 | [74307-dogs-of-war.json](./74307-dogs-of-war.json) |
 | Dogs of War Online | 15391 | [15391-dogs-of-war-online.json](./15391-dogs-of-war-online.json) |
 | Dogs Organized Neatly | 154011 | [154011-dogs-organized-neatly.json](./154011-dogs-organized-neatly.json) |
+| Dogs.Io | 170075 | [170075-dogs-io.json](./170075-dogs-io.json) |
 | Dogs++ | 180814 | [180814-dogs.json](./180814-dogs.json) |
 | Dogsbody | 13600 | [13600-dogsbody.json](./13600-dogsbody.json) |
 | DogStation | 59441 | [59441-dogstation.json](./59441-dogstation.json) |
@@ -13088,6 +13089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom & Destiny Worlds: Randomicity | 208831 | [208831-doom-and-destiny-worlds-randomicity.json](./208831-doom-and-destiny-worlds-randomicity.json) |
 | Doom & Destiny Worlds: Survival of the Nerdiest | 171949 | [171949-doom-and-destiny-worlds-survival-of-the-nerdiest.json](./171949-doom-and-destiny-worlds-survival-of-the-nerdiest.json) |
 | Doom & Destiny Worlds: Ultimate Supporter Edition | 255260 | [255260-doom-and-destiny-worlds-ultimate-supporter-edition.json](./255260-doom-and-destiny-worlds-ultimate-supporter-edition.json) |
+| Doom & Destiny Worlds: Unbreakable | 170092 | [170092-doom-and-destiny-worlds-unbreakable.json](./170092-doom-and-destiny-worlds-unbreakable.json) |
 | Doom + Doom II | 313126 | [313126-doom-doom-ii.json](./313126-doom-doom-ii.json) |
 | Doom 2 In City Only | 299447 | [299447-doom-2-in-city-only.json](./299447-doom-2-in-city-only.json) |
 | Doom 2 In Name Only | 294749 | [294749-doom-2-in-name-only.json](./294749-doom-2-in-name-only.json) |
