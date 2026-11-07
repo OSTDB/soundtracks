@@ -7542,6 +7542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chimes: A Kinetic Novel | 184102 | [184102-chimes-a-kinetic-novel.json](./184102-chimes-a-kinetic-novel.json) |
 | Chimken | 338514 | [338514-chimken.json](./338514-chimken.json) |
 | Chimney Presents | 134406 | [134406-chimney-presents.json](./134406-chimney-presents.json) |
+| Chimney Prowler | 185210 | [185210-chimney-prowler.json](./185210-chimney-prowler.json) |
 | Chimp Chase | 211594 | [211594-chimp-chase.json](./211594-chimp-chase.json) |
 | Chimp Memory | 319391 | [319391-chimp-memory.json](./319391-chimp-memory.json) |
 | Chimp Quest: Spirit Isle | 277335 | [277335-chimp-quest-spirit-isle.json](./277335-chimp-quest-spirit-isle.json) |
