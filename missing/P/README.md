@@ -2191,6 +2191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Files: Chaos Weekend | 416704 | [416704-paranormal-files-chaos-weekend.json](./416704-paranormal-files-chaos-weekend.json) |
 | Paranormal Files: Chaos Weekend - Collector's Edition | 358094 | [358094-paranormal-files-chaos-weekend-collectors-edition.json](./358094-paranormal-files-chaos-weekend-collectors-edition.json) |
 | Paranormal Files: Counterpart - Collector's Edition | 337238 | [337238-paranormal-files-counterpart-collectors-edition.json](./337238-paranormal-files-counterpart-collectors-edition.json) |
+| Paranormal Files: Enjoy the Shopping | 142012 | [142012-paranormal-files-enjoy-the-shopping.json](./142012-paranormal-files-enjoy-the-shopping.json) |
 | Paranormal Files: Fatal Flaw - Collector's Edition | 355018 | [355018-paranormal-files-fatal-flaw-collectors-edition.json](./355018-paranormal-files-fatal-flaw-collectors-edition.json) |
 | Paranormal Files: Fellow Traveler | 143017 | [143017-paranormal-files-fellow-traveler.json](./143017-paranormal-files-fellow-traveler.json) |
 | Paranormal Files: Fellow Traveler - Collector's Edition | 143274 | [143274-paranormal-files-fellow-traveler-collectors-edition.json](./143274-paranormal-files-fellow-traveler-collectors-edition.json) |
@@ -4971,6 +4972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petal Crash 2 | 329600 | [329600-petal-crash-2.json](./329600-petal-crash-2.json) |
 | Petal Crash Online | 149973 | [149973-petal-crash-online.json](./149973-petal-crash-online.json) |
 | Petal Quest | 404038 | [404038-petal-quest.json](./404038-petal-quest.json) |
+| Petal to the Metal | 141957 | [141957-petal-to-the-metal.json](./141957-petal-to-the-metal.json) |
 | Petals | 222614 | [222614-petals.json](./222614-petals.json) |
 | Petals Around the Rose | 282378 | [282378-petals-around-the-rose.json](./282378-petals-around-the-rose.json) |
 | Petals of Doom | 133682 | [133682-petals-of-doom.json](./133682-petals-of-doom.json) |
@@ -5534,6 +5536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharaoh's Tomb | 35505 | [35505-pharaohs-tomb.json](./35505-pharaohs-tomb.json) |
 | Pharaonic | 19068 | [19068-pharaonic.json](./19068-pharaonic.json) |
 | Pharaonic: Deluxe Edition | 166187 | [166187-pharaonic-deluxe-edition.json](./166187-pharaonic-deluxe-edition.json) |
+| Pharm Pharaoh | 142011 | [142011-pharm-pharaoh.json](./142011-pharm-pharaoh.json) |
 | Pharma Dealer Simulator | 365563 | [365563-pharma-dealer-simulator.json](./365563-pharma-dealer-simulator.json) |
 | Pharma Inc Simulator | 357038 | [357038-pharma-inc-simulator.json](./357038-pharma-inc-simulator.json) |
 | Pharmacist Jones | 325706 | [325706-pharmacist-jones.json](./325706-pharmacist-jones.json) |
