@@ -1417,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Man Standing Coop: A Doom 3 Coop Mod | 301959 | [301959-last-man-standing-coop-a-doom-3-coop-mod.json](./301959-last-man-standing-coop-a-doom-3-coop-mod.json) |
 | Last Meadow Online | 396989 | [396989-last-meadow-online.json](./396989-last-meadow-online.json) |
 | Last Meal | 125999 | [125999-last-meal.json](./125999-last-meal.json) |
+| Last Meal at Cafe Mori | 165232 | [165232-last-meal-at-cafe-mori.json](./165232-last-meal-at-cafe-mori.json) |
 | Last Mech Standing | 310880 | [310880-last-mech-standing.json](./310880-last-mech-standing.json) |
 | Last Memories | 236385 | [236385-last-memories.json](./236385-last-memories.json) |
 | Last Memory | 155693 | [155693-last-memory.json](./155693-last-memory.json) |
@@ -4778,6 +4779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light House | 57746 | [57746-light-house.json](./57746-light-house.json) |
 | Light House Puzzle | 110969 | [110969-light-house-puzzle.json](./110969-light-house-puzzle.json) |
 | Light Hunters: Battalion of Darkness | 126515 | [126515-light-hunters-battalion-of-darkness.json](./126515-light-hunters-battalion-of-darkness.json) |
+| Light Ignite | 165240 | [165240-light-ignite.json](./165240-light-ignite.json) |
 | Light In Blood | 277003 | [277003-light-in-blood.json](./277003-light-in-blood.json) |
 | Light in the Dark | 21684 | [21684-light-in-the-dark.json](./21684-light-in-the-dark.json) |
 | Light in the Dark | 81041 | [81041-light-in-the-dark.json](./81041-light-in-the-dark.json) |
@@ -5008,6 +5010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightseekers | 76550 | [76550-lightseekers.json](./76550-lightseekers.json) |
 | Lightslayer | 127784 | [127784-lightslayer.json](./127784-lightslayer.json) |
 | LightSlinger Heroes | 100363 | [100363-lightslinger-heroes.json](./100363-lightslinger-heroes.json) |
+| Lightsmith | 165280 | [165280-lightsmith.json](./165280-lightsmith.json) |
 | LightsOut | 282379 | [282379-lightsout.json](./282379-lightsout.json) |
 | Lightspeed | 71049 | [71049-lightspeed.json](./71049-lightspeed.json) |
 | Lightspeed | 77325 | [77325-lightspeed.json](./77325-lightspeed.json) |
@@ -9484,6 +9487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Tlhalerwa: Super Incursion | 190059 | [190059-lucky-tlhalerwa-super-incursion.json](./190059-lucky-tlhalerwa-super-incursion.json) |
 | Lucky Tlhalerwa's Cybernetic Titan | 173204 | [173204-lucky-tlhalerwas-cybernetic-titan.json](./173204-lucky-tlhalerwas-cybernetic-titan.json) |
 | Lucky Tower | 219067 | [219067-lucky-tower.json](./219067-lucky-tower.json) |
+| Lucky Tower Ultimate | 165270 | [165270-lucky-tower-ultimate.json](./165270-lucky-tower-ultimate.json) |
 | Lucky VS Aliens | 95221 | [95221-lucky-vs-aliens.json](./95221-lucky-vs-aliens.json) |
 | Lucky Zombie Survival | 348560 | [348560-lucky-zombie-survival.json](./348560-lucky-zombie-survival.json) |
 | Luckyest | 376124 | [376124-luckyest.json](./376124-luckyest.json) |
