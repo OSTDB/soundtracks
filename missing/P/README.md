@@ -4165,6 +4165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penta Terra | 297180 | [297180-penta-terra.json](./297180-penta-terra.json) |
 | Pentaball | 286766 | [286766-pentaball.json](./286766-pentaball.json) |
 | PentaBlox | 188581 | [188581-pentablox.json](./188581-pentablox.json) |
+| Pentabrawl | 185213 | [185213-pentabrawl.json](./185213-pentabrawl.json) |
 | Pentacore | 211187 | [211187-pentacore.json](./211187-pentacore.json) |
 | Pentacorn Quest | 360117 | [360117-pentacorn-quest.json](./360117-pentacorn-quest.json) |
 | Pentaction: Medieval | 174247 | [174247-pentaction-medieval.json](./174247-pentaction-medieval.json) |
@@ -12532,6 +12533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool of Madness | 295749 | [295749-pool-of-madness.json](./295749-pool-of-madness.json) |
 | Pool Paradise | 4073 | [4073-pool-paradise.json](./4073-pool-paradise.json) |
 | Pool Paradise: International Edition | 43295 | [43295-pool-paradise-international-edition.json](./43295-pool-paradise-international-edition.json) |
+| Pool Party | 185196 | [185196-pool-party.json](./185196-pool-party.json) |
 | Pool Party | 226713 | [226713-pool-party.json](./226713-pool-party.json) |
 | Pool Party | 5103 | [5103-pool-party.json](./5103-pool-party.json) |
 | Pool Party Boys: Splash Guys | 411139 | [411139-pool-party-boys-splash-guys.json](./411139-pool-party-boys-splash-guys.json) |
@@ -13229,6 +13231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Postal: Special Delivery | 73074 | [73074-postal-special-delivery.json](./73074-postal-special-delivery.json) |
 | PostApo | 386421 | [386421-postapo.json](./386421-postapo.json) |
 | Postapo Mechanic Simulator | 211632 | [211632-postapo-mechanic-simulator.json](./211632-postapo-mechanic-simulator.json) |
+| Postbird in Provence | 185225 | [185225-postbird-in-provence.json](./185225-postbird-in-provence.json) |
 | Postbound! | 291581 | [291581-postbound.json](./291581-postbound.json) |
 | Postcard Through Time | 417581 | [417581-postcard-through-time.json](./417581-postcard-through-time.json) |
 | Postcards from the Apocalypse | 386552 | [386552-postcards-from-the-apocalypse.json](./386552-postcards-from-the-apocalypse.json) |
