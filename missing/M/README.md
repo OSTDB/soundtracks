@@ -12190,6 +12190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindless Breakpoint | 236440 | [236440-mindless-breakpoint.json](./236440-mindless-breakpoint.json) |
 | Mindless Running | 33533 | [33533-mindless-running.json](./33533-mindless-running.json) |
 | Mindlock: The Apartment | 275333 | [275333-mindlock-the-apartment.json](./275333-mindlock-the-apartment.json) |
+| MindLoop | 182613 | [182613-mindloop.json](./182613-mindloop.json) |
 | MindLoop | 365195 | [365195-mindloop.json](./365195-mindloop.json) |
 | Mindmazer | 180646 | [180646-mindmazer.json](./180646-mindmazer.json) |
 | MindMessenger | 342156 | [342156-mindmessenger.json](./342156-mindmessenger.json) |
@@ -13221,6 +13222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minitroid | 228960 | [228960-minitroid.json](./228960-minitroid.json) |
 | MiniTurn | 133127 | [133127-miniturn.json](./133127-miniturn.json) |
 | Minivader | 308008 | [308008-minivader.json](./308008-minivader.json) |
+| Minivania | 182610 | [182610-minivania.json](./182610-minivania.json) |
 | Miniverse | 179059 | [179059-miniverse.json](./179059-miniverse.json) |
 | Miniverse Minigolf | 93383 | [93383-miniverse-minigolf.json](./93383-miniverse-minigolf.json) |
 | Miniverse Wars | 125709 | [125709-miniverse-wars.json](./125709-miniverse-wars.json) |
@@ -16399,6 +16401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monstrocity | 179554 | [179554-monstrocity.json](./179554-monstrocity.json) |
 | MonstroCity: Rampage! | 56395 | [56395-monstrocity-rampage.json](./56395-monstrocity-rampage.json) |
 | Monstromania | 19343 | [19343-monstromania.json](./19343-monstromania.json) |
+| Monstronome | 182589 | [182589-monstronome.json](./182589-monstronome.json) |
 | Monstronomy | 264653 | [264653-monstronomy.json](./264653-monstronomy.json) |
 | Monstropoly | 215012 | [215012-monstropoly.json](./215012-monstropoly.json) |
 | Monstrosity | 252047 | [252047-monstrosity.json](./252047-monstrosity.json) |
