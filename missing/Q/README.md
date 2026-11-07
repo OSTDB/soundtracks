@@ -1017,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quickboy | 348759 | [348759-quickboy.json](./348759-quickboy.json) |
 | QuickCalculation | 387520 | [387520-quickcalculation.json](./387520-quickcalculation.json) |
 | Quickclaw | 257848 | [257848-quickclaw.json](./257848-quickclaw.json) |
+| Quickdraw | 173926 | [173926-quickdraw.json](./173926-quickdraw.json) |
 | Quickerflak | 186860 | [186860-quickerflak.json](./186860-quickerflak.json) |
 | Quickerflak 2 | 296857 | [296857-quickerflak-2.json](./296857-quickerflak-2.json) |
 | Quickerflak_Ruthlessmod | 203628 | [203628-quickerflak-ruthlessmod.json](./203628-quickerflak-ruthlessmod.json) |
