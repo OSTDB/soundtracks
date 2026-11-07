@@ -682,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ebola 3 | 216312 | [216312-ebola-3.json](./216312-ebola-3.json) |
 | Ebola 4 | 251945 | [251945-ebola-4.json](./251945-ebola-4.json) |
 | Ebola VI Corp | 111537 | [111537-ebola-vi-corp.json](./111537-ebola-vi-corp.json) |
+| EbonSide | 189251 | [189251-ebonside.json](./189251-ebonside.json) |
 | Ebonstar | 57627 | [57627-ebonstar.json](./57627-ebonstar.json) |
 | Ebontale | 179184 | [179184-ebontale.json](./179184-ebontale.json) |
 | Ebony Spire: Heresy | 74239 | [74239-ebony-spire-heresy.json](./74239-ebony-spire-heresy.json) |
@@ -4123,6 +4124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigmo 2 | 66614 | [66614-enigmo-2.json](./66614-enigmo-2.json) |
 | EnigmOn | 174328 | [174328-enigmon.json](./174328-enigmon.json) |
 | Enigmoon | 261257 | [261257-enigmoon.json](./261257-enigmoon.json) |
+| Eniko: Ghosts of Grace | 189266 | [189266-eniko-ghosts-of-grace.json](./189266-eniko-ghosts-of-grace.json) |
 | Enionax | 206298 | [206298-enionax.json](./206298-enionax.json) |
 | Enishia and the Binding Brand | 275520 | [275520-enishia-and-the-binding-brand.json](./275520-enishia-and-the-binding-brand.json) |
 | Enjaulados | 361285 | [361285-enjaulados.json](./361285-enjaulados.json) |
@@ -4573,6 +4575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Survivors | 219252 | [219252-epic-survivors.json](./219252-epic-survivors.json) |
 | Epic Survivors | 339084 | [339084-epic-survivors.json](./339084-epic-survivors.json) |
 | Epic Tavern | 25644 | [25644-epic-tavern.json](./25644-epic-tavern.json) |
+| Epic Tower for Tireless Lovers | 189256 | [189256-epic-tower-for-tireless-lovers.json](./189256-epic-tower-for-tireless-lovers.json) |
 | Epic Trains 4 | 260256 | [260256-epic-trains-4.json](./260256-epic-trains-4.json) |
 | Epic Transport | 379913 | [379913-epic-transport.json](./379913-epic-transport.json) |
 | Epic Truck | 89796 | [89796-epic-truck.json](./89796-epic-truck.json) |
