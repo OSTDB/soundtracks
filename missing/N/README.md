@@ -2610,6 +2610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Warfare: CyberArena | 399664 | [399664-neon-warfare-cyberarena.json](./399664-neon-warfare-cyberarena.json) |
 | Neon Warfield | 349213 | [349213-neon-warfield.json](./349213-neon-warfield.json) |
 | Neon Warp | 32458 | [32458-neon-warp.json](./32458-neon-warp.json) |
+| Neon Warrior | 150811 | [150811-neon-warrior.json](./150811-neon-warrior.json) |
 | Neon Wars | 312925 | [312925-neon-wars.json](./312925-neon-wars.json) |
 | Neon Wasteland | 331768 | [331768-neon-wasteland.json](./331768-neon-wasteland.json) |
 | Neon Wings: Air Race | 147090 | [147090-neon-wings-air-race.json](./147090-neon-wings-air-race.json) |
@@ -4841,6 +4842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NiHonGoToKi | 116088 | [116088-nihongotoki.json](./116088-nihongotoki.json) |
 | Nihonkai Daikaisen | 60737 | [60737-nihonkai-daikaisen.json](./60737-nihonkai-daikaisen.json) |
 | Niiikotopia: Sky Fall | 191169 | [191169-niiikotopia-sky-fall.json](./191169-niiikotopia-sky-fall.json) |
+| Niinamigota | 150816 | [150816-niinamigota.json](./150816-niinamigota.json) |
 | Niizuma ha Tifa | 83385 | [83385-niizuma-ha-tifa.json](./83385-niizuma-ha-tifa.json) |
 | Niizuma wa Mahou Shoujo | 77902 | [77902-niizuma-wa-mahou-shoujo.json](./77902-niizuma-wa-mahou-shoujo.json) |
 | Niizuma wa Sailor Fuku | 72717 | [72717-niizuma-wa-sailor-fuku.json](./72717-niizuma-wa-sailor-fuku.json) |
@@ -5735,6 +5737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Frills Cross Sums | 68559 | [68559-no-frills-cross-sums.json](./68559-no-frills-cross-sums.json) |
 | No Frills Sudoku | 70619 | [70619-no-frills-sudoku.json](./70619-no-frills-sudoku.json) |
 | No Fuel Odyssey | 178983 | [178983-no-fuel-odyssey.json](./178983-no-fuel-odyssey.json) |
+| No Game No Life | 150848 | [150848-no-game-no-life.json](./150848-no-game-no-life.json) |
 | No Gasoline | 291527 | [291527-no-gasoline.json](./291527-no-gasoline.json) |
 | No Ghost in Circus Caravan | 311999 | [311999-no-ghost-in-circus-caravan.json](./311999-no-ghost-in-circus-caravan.json) |
 | No Ghost in Sky Elevator | 249011 | [249011-no-ghost-in-sky-elevator.json](./249011-no-ghost-in-sky-elevator.json) |
