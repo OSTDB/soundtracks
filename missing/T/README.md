@@ -10293,6 +10293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grand Guignol | 271733 | [271733-the-grand-guignol.json](./271733-the-grand-guignol.json) |
 | The Grand Heist | 121222 | [121222-the-grand-heist.json](./121222-the-grand-heist.json) |
 | The Grand Jump 5 | 99416 | [99416-the-grand-jump-5.json](./99416-the-grand-jump-5.json) |
+| The Grand Lord | 148643 | [148643-the-grand-lord.json](./148643-the-grand-lord.json) |
 | The Grand Mafia | 212519 | [212519-the-grand-mafia.json](./212519-the-grand-mafia.json) |
 | The Grand Prismatic | 411613 | [411613-the-grand-prismatic.json](./411613-the-grand-prismatic.json) |
 | The Grand Tap Tournament | 38640 | [38640-the-grand-tap-tournament.json](./38640-the-grand-tap-tournament.json) |
@@ -13676,6 +13677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mall Explodes! | 412999 | [412999-the-mall-explodes.json](./412999-the-mall-explodes.json) |
 | The Mammoth: A Cave Painting | 75768 | [75768-the-mammoth-a-cave-painting.json](./75768-the-mammoth-a-cave-painting.json) |
 | The Man Called Merc | 55045 | [55045-the-man-called-merc.json](./55045-the-man-called-merc.json) |
+| The Man Came Around | 148730 | [148730-the-man-came-around.json](./148730-the-man-came-around.json) |
 | The Man From Fugue State | 171847 | [171847-the-man-from-fugue-state.json](./171847-the-man-from-fugue-state.json) |
 | The Man From the Window | 222700 | [222700-the-man-from-the-window.json](./222700-the-man-from-the-window.json) |
 | The Man from the Window 2 | 272352 | [272352-the-man-from-the-window-2.json](./272352-the-man-from-the-window-2.json) |
@@ -19143,6 +19145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wild Eternal | 20991 | [20991-the-wild-eternal.json](./20991-the-wild-eternal.json) |
 | The Wild Life - The Game | 106874 | [106874-the-wild-life-the-game.json](./106874-the-wild-life-the-game.json) |
 | The Wild Science Arcade | 72038 | [72038-the-wild-science-arcade.json](./72038-the-wild-science-arcade.json) |
+| The Wild Thornberrys Movie | 148631 | [148631-the-wild-thornberrys-movie.json](./148631-the-wild-thornberrys-movie.json) |
 | The Wild Thornberrys Movie | 49372 | [49372-the-wild-thornberrys-movie.json](./49372-the-wild-thornberrys-movie.json) |
 | The Wild Thornberrys: Chimp Chase | 49373 | [49373-the-wild-thornberrys-chimp-chase.json](./49373-the-wild-thornberrys-chimp-chase.json) |
 | The Wild Thornberrys' Animal Adventures | 8014 | [8014-the-wild-thornberrys-animal-adventures.json](./8014-the-wild-thornberrys-animal-adventures.json) |
@@ -19638,6 +19641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheGunRunner | 89952 | [89952-thegunrunner.json](./89952-thegunrunner.json) |
 | TheHunter Call of the Wild: 2022 Edition | 175497 | [175497-thehunter-call-of-the-wild-2022-edition.json](./175497-thehunter-call-of-the-wild-2022-edition.json) |
 | TheHunter Classic | 23636 | [23636-thehunter-classic.json](./23636-thehunter-classic.json) |
+| TheHunter Classic: Duck Hunter | 148632 | [148632-thehunter-classic-duck-hunter.json](./148632-thehunter-classic-duck-hunter.json) |
 | TheHunter: Call of the Wild | 26381 | [26381-thehunter-call-of-the-wild.json](./26381-thehunter-call-of-the-wild.json) |
 | TheHunter: Call of the Wild - 2019 Edition | 109242 | [109242-thehunter-call-of-the-wild-2019-edition.json](./109242-thehunter-call-of-the-wild-2019-edition.json) |
 | TheHunter: Call of the Wild - 2021 Edition | 140946 | [140946-thehunter-call-of-the-wild-2021-edition.json](./140946-thehunter-call-of-the-wild-2021-edition.json) |
@@ -21122,6 +21126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ticket to Nowhere | 412807 | [412807-ticket-to-nowhere.json](./412807-ticket-to-nowhere.json) |
 | Ticket to Ride | 267278 | [267278-ticket-to-ride.json](./267278-ticket-to-ride.json) |
 | Ticket to Ride Deluxe Edition | 310363 | [310363-ticket-to-ride-deluxe-edition.json](./310363-ticket-to-ride-deluxe-edition.json) |
+| Ticket to Ride: Europe | 148622 | [148622-ticket-to-ride-europe.json](./148622-ticket-to-ride-europe.json) |
 | Ticket to Ride: Europe Expansion | 276595 | [276595-ticket-to-ride-europe-expansion.json](./276595-ticket-to-ride-europe-expansion.json) |
 | Ticket To Ride: First Class Pack | 292038 | [292038-ticket-to-ride-first-class-pack.json](./292038-ticket-to-ride-first-class-pack.json) |
 | Ticket to Ride: First Journey | 69654 | [69654-ticket-to-ride-first-journey.json](./69654-ticket-to-ride-first-journey.json) |
@@ -27187,6 +27192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tout Savoir: CE2 | 148735 | [148735-tout-savoir-ce2.json](./148735-tout-savoir-ce2.json) |
 | Tout Savoir: CM1 | 147346 | [147346-tout-savoir-cm1.json](./147346-tout-savoir-cm1.json) |
 | Tout Savoir: CM2 | 124105 | [124105-tout-savoir-cm2.json](./124105-tout-savoir-cm2.json) |
+| Tout Savoir: CP | 148659 | [148659-tout-savoir-cp.json](./148659-tout-savoir-cp.json) |
 | Toute l'Aventure 2 | 94662 | [94662-toute-laventure-2.json](./94662-toute-laventure-2.json) |
 | Touzoku to 1000-biki no Pokémon | 61693 | [61693-touzoku-to-1000-biki-no-pokemon.json](./61693-touzoku-to-1000-biki-no-pokemon.json) |
 | Tover | 24994 | [24994-tover.json](./24994-tover.json) |
@@ -30409,6 +30415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapformer | 361310 | [361310-trapformer.json](./361310-trapformer.json) |
 | Trapmania | 151152 | [151152-trapmania.json](./151152-trapmania.json) |
 | Trapnoid 2 | 109743 | [109743-trapnoid-2.json](./109743-trapnoid-2.json) |
+| Trapped | 148725 | [148725-trapped.json](./148725-trapped.json) |
 | Trapped | 305360 | [305360-trapped.json](./305360-trapped.json) |
 | Trapped | 360621 | [360621-trapped.json](./360621-trapped.json) |
 | Trapped 2 | 84296 | [84296-trapped-2.json](./84296-trapped-2.json) |
