@@ -1343,6 +1343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panoptique | 274279 | [274279-panoptique.json](./274279-panoptique.json) |
 | Panoptique | 377192 | [377192-panoptique.json](./377192-panoptique.json) |
 | Panorama | 125901 | [125901-panorama.json](./125901-panorama.json) |
+| Panorama Cotton | 182014 | [182014-panorama-cotton.json](./182014-panorama-cotton.json) |
 | Panorama Cotton | 45715 | [45715-panorama-cotton.json](./45715-panorama-cotton.json) |
 | Panorama Toh | 61938 | [61938-panorama-toh.json](./61938-panorama-toh.json) |
 | Panoramical | 12976 | [12976-panoramical.json](./12976-panoramical.json) |
@@ -1596,6 +1597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Flight: Super Speed Dash | 204161 | [204161-paper-flight-super-speed-dash.json](./204161-paper-flight-super-speed-dash.json) |
 | Paper Flights | 235224 | [235224-paper-flights.json](./235224-paper-flights.json) |
 | Paper Florist | 381361 | [381361-paper-florist.json](./381361-paper-florist.json) |
+| Paper Fold | 181993 | [181993-paper-fold.json](./181993-paper-fold.json) |
 | Paper Football | 89501 | [89501-paper-football.json](./89501-paper-football.json) |
 | Paper Front | 108355 | [108355-paper-front.json](./108355-paper-front.json) |
 | Paper Galaxy | 64129 | [64129-paper-galaxy.json](./64129-paper-galaxy.json) |
@@ -18910,6 +18912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid Magic III | 45750 | [45750-pyramid-magic-iii.json](./45750-pyramid-magic-iii.json) |
 | Pyramid Magic Special | 4428 | [4428-pyramid-magic-special.json](./4428-pyramid-magic-special.json) |
 | Pyramid of Doom | 18521 | [18521-pyramid-of-doom.json](./18521-pyramid-of-doom.json) |
+| Pyramid of Mahjong | 182019 | [182019-pyramid-of-mahjong.json](./182019-pyramid-of-mahjong.json) |
 | Pyramid of Ra | 338816 | [338816-pyramid-of-ra.json](./338816-pyramid-of-ra.json) |
 | Pyramid Patrol | 94715 | [94715-pyramid-patrol.json](./94715-pyramid-patrol.json) |
 | Pyramid Peril | 343174 | [343174-pyramid-peril.json](./343174-pyramid-peril.json) |
