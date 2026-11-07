@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacrifice for Sale | 290733 | [290733-sacrifice-for-sale.json](./290733-sacrifice-for-sale.json) |
 | Sacrifice Girl: The Curse of Demon Snake | 112222 | [112222-sacrifice-girl-the-curse-of-demon-snake.json](./112222-sacrifice-girl-the-curse-of-demon-snake.json) |
 | Sacrifice of the Beloved | 115318 | [115318-sacrifice-of-the-beloved.json](./115318-sacrifice-of-the-beloved.json) |
+| Sacrifice of The Spirit | 167438 | [167438-sacrifice-of-the-spirit.json](./167438-sacrifice-of-the-spirit.json) |
 | Sacrifice Villains | 314808 | [314808-sacrifice-villains.json](./314808-sacrifice-villains.json) |
 | Sacrifice Your Friends | 121552 | [121552-sacrifice-your-friends.json](./121552-sacrifice-your-friends.json) |
 | Sacrifices | 279897 | [279897-sacrifices.json](./279897-sacrifices.json) |
@@ -7986,6 +7987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheltering With You | 148944 | [148944-sheltering-with-you.json](./148944-sheltering-with-you.json) |
 | Shelved | 422069 | [422069-shelved.json](./422069-shelved.json) |
 | Shelves and Sorcery: Tidy Up the Enchanted Shop | 411566 | [411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json](./411566-shelves-and-sorcery-tidy-up-the-enchanted-shop.json) |
+| Shem Ha Mephorash | 167435 | [167435-shem-ha-mephorash.json](./167435-shem-ha-mephorash.json) |
 | Shén Guǐ Dìguó zhī Èmó Chéng | 404075 | [404075-shen-gui-diguo-zhi-emo-cheng.json](./404075-shen-gui-diguo-zhi-emo-cheng.json) |
 | Shén Mó Qìyuē | 164591 | [164591-shen-mo-qiyue.json](./164591-shen-mo-qiyue.json) |
 | Shenanigans | 216736 | [216736-shenanigans.json](./216736-shenanigans.json) |
@@ -10365,6 +10367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sigma Theory: Global Cold War - Brazil | 155089 | [155089-sigma-theory-global-cold-war-brazil.json](./155089-sigma-theory-global-cold-war-brazil.json) |
 | Sigma Theory: Global Cold War - Deluxe Edition | 124827 | [124827-sigma-theory-global-cold-war-deluxe-edition.json](./124827-sigma-theory-global-cold-war-deluxe-edition.json) |
 | Sigma War Notes | 309833 | [309833-sigma-war-notes.json](./309833-sigma-war-notes.json) |
+| Sigma World Online | 167434 | [167434-sigma-world-online.json](./167434-sigma-world-online.json) |
 | Sigma-X | 256914 | [256914-sigma-x.json](./256914-sigma-x.json) |
 | Sigmatica | 276487 | [276487-sigmatica.json](./276487-sigmatica.json) |
 | Sigmund the Mouse | 184877 | [184877-sigmund-the-mouse.json](./184877-sigmund-the-mouse.json) |
@@ -11232,6 +11235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Series Vol. 5: The Judo | 409012 | [409012-simple-series-vol-5-the-judo.json](./409012-simple-series-vol-5-the-judo.json) |
 | Simple Sighmon | 102546 | [102546-simple-sighmon.json](./102546-simple-sighmon.json) |
 | Simple Simulation | 202663 | [202663-simple-simulation.json](./202663-simple-simulation.json) |
+| Simple Sky | 167421 | [167421-simple-sky.json](./167421-simple-sky.json) |
 | Simple Snooker | 264617 | [264617-simple-snooker.json](./264617-simple-snooker.json) |
 | Simple Solitaire | 239545 | [239545-simple-solitaire.json](./239545-simple-solitaire.json) |
 | Simple Solitaire | 264616 | [264616-simple-solitaire.json](./264616-simple-solitaire.json) |
@@ -19256,6 +19260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soviet Bear Uni Adventure | 125094 | [125094-soviet-bear-uni-adventure.json](./125094-soviet-bear-uni-adventure.json) |
 | Soviet Challenge: Javelin 1980 | 174329 | [174329-soviet-challenge-javelin-1980.json](./174329-soviet-challenge-javelin-1980.json) |
 | Soviet City | 19866 | [19866-soviet-city.json](./19866-soviet-city.json) |
+| Soviet Hentai | 167409 | [167409-soviet-hentai.json](./167409-soviet-hentai.json) |
 | Soviet Jump Game | 127188 | [127188-soviet-jump-game.json](./127188-soviet-jump-game.json) |
 | Soviet Lunapark VR | 97018 | [97018-soviet-lunapark-vr.json](./97018-soviet-lunapark-vr.json) |
 | Soviet Monsters: Ekranoplans | 35193 | [35193-soviet-monsters-ekranoplans.json](./35193-soviet-monsters-ekranoplans.json) |
@@ -19815,7 +19820,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -22146,6 +22150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinshot Party | 275830 | [275830-spinshot-party.json](./275830-spinshot-party.json) |
 | SpinShuffle | 413752 | [413752-spinshuffle.json](./413752-spinshuffle.json) |
 | SpinSling | 74405 | [74405-spinsling.json](./74405-spinsling.json) |
+| Spinstar | 167442 | [167442-spinstar.json](./167442-spinstar.json) |
 | SpinSweep | 301277 | [301277-spinsweep.json](./301277-spinsweep.json) |
 | Spintales | 204136 | [204136-spintales.json](./204136-spintales.json) |
 | Spintires | 7347 | [7347-spintires.json](./7347-spintires.json) |
@@ -27334,6 +27339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Flower | 61594 | [61594-stone-flower.json](./61594-stone-flower.json) |
 | Stone Gate | 296005 | [296005-stone-gate.json](./296005-stone-gate.json) |
 | Stone Giant | 95852 | [95852-stone-giant.json](./95852-stone-giant.json) |
+| Stone Guardian | 167447 | [167447-stone-guardian.json](./167447-stone-guardian.json) |
 | Stone Harbor | 57494 | [57494-stone-harbor.json](./57494-stone-harbor.json) |
 | Stone House Orphanage | 153127 | [153127-stone-house-orphanage.json](./153127-stone-house-orphanage.json) |
 | Stone In Galaxy | 112796 | [112796-stone-in-galaxy.json](./112796-stone-in-galaxy.json) |
@@ -36386,6 +36392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthetic Dreams | 51977 | [51977-synthetic-dreams.json](./51977-synthetic-dreams.json) |
 | Synthetic Dreams: Falling | 344102 | [344102-synthetic-dreams-falling.json](./344102-synthetic-dreams-falling.json) |
 | Synthetic Fantasy; | 277581 | [277581-synthetic-fantasy.json](./277581-synthetic-fantasy.json) |
+| Synthetic Hazard | 167436 | [167436-synthetic-hazard.json](./167436-synthetic-hazard.json) |
 | Synthetic Hopes | 345112 | [345112-synthetic-hopes.json](./345112-synthetic-hopes.json) |
 | Synthetic Love | 110720 | [110720-synthetic-love.json](./110720-synthetic-love.json) |
 | Synthetic Orders | 383095 | [383095-synthetic-orders.json](./383095-synthetic-orders.json) |
