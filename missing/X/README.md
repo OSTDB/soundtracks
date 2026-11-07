@@ -729,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xeroes | 312527 | [312527-xeroes.json](./312527-xeroes.json) |
 | Xerxes | 295671 | [295671-xerxes.json](./295671-xerxes.json) |
 | Xerxesia | 267998 | [267998-xerxesia.json](./267998-xerxesia.json) |
+| Xess | 165253 | [165253-xess.json](./165253-xess.json) |
 | Xess: The New Revolution | 39933 | [39933-xess-the-new-revolution.json](./39933-xess-the-new-revolution.json) |
 | Xeta | 274283 | [274283-xeta.json](./274283-xeta.json) |
 | Xetanon | 289685 | [289685-xetanon.json](./289685-xetanon.json) |
