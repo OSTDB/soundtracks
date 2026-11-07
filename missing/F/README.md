@@ -7060,6 +7060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's Franchise Bundle | 241461 | [241461-five-nights-at-freddys-franchise-bundle.json](./241461-five-nights-at-freddys-franchise-bundle.json) |
 | Five Nights at Freddy's Gameboy | 305749 | [305749-five-nights-at-freddys-gameboy.json](./305749-five-nights-at-freddys-gameboy.json) |
 | Five Nights At Freddy's Pixel Edition | 338143 | [338143-five-nights-at-freddys-pixel-edition.json](./338143-five-nights-at-freddys-pixel-edition.json) |
+| Five Nights at Freddy's Plus | 153599 | [153599-five-nights-at-freddys-plus.json](./153599-five-nights-at-freddys-plus.json) |
 | Five Nights at Freddy's Plus | 241125 | [241125-five-nights-at-freddys-plus.json](./241125-five-nights-at-freddys-plus.json) |
 | Five Nights at Freddy's Remake | 241732 | [241732-five-nights-at-freddys-remake.json](./241732-five-nights-at-freddys-remake.json) |
 | Five Nights at Freddy's Simulator | 263637 | [263637-five-nights-at-freddys-simulator.json](./263637-five-nights-at-freddys-simulator.json) |
@@ -8448,6 +8449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowering Nightshade | 158400 | [158400-flowering-nightshade.json](./158400-flowering-nightshade.json) |
 | Flowering Void | 380217 | [380217-flowering-void.json](./380217-flowering-void.json) |
 | Flowerless Gardenia | 118629 | [118629-flowerless-gardenia.json](./118629-flowerless-gardenia.json) |
+| Flowerpatch | 153579 | [153579-flowerpatch.json](./153579-flowerpatch.json) |
 | Flowerpeer | 253667 | [253667-flowerpeer.json](./253667-flowerpeer.json) |
 | FlowerRock | 301227 | [301227-flowerrock.json](./301227-flowerrock.json) |
 | Flowers 2 by Powgi | 140419 | [140419-flowers-2-by-powgi.json](./140419-flowers-2-by-powgi.json) |
