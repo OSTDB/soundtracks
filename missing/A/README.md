@@ -11565,6 +11565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aperture Hand Lab | 120607 | [120607-aperture-hand-lab.json](./120607-aperture-hand-lab.json) |
 | Aperture Ireland | 284363 | [284363-aperture-ireland.json](./284363-aperture-ireland.json) |
 | Aperture Narbacular | 341038 | [341038-aperture-narbacular.json](./341038-aperture-narbacular.json) |
+| Aperture Science DS | 165245 | [165245-aperture-science-ds.json](./165245-aperture-science-ds.json) |
 | Aperture: Salt Mines | 284366 | [284366-aperture-salt-mines.json](./284366-aperture-salt-mines.json) |
 | Apes At Sea | 254022 | [254022-apes-at-sea.json](./254022-apes-at-sea.json) |
 | Apes vs. Zombies | 314596 | [314596-apes-vs-zombies.json](./314596-apes-vs-zombies.json) |
@@ -16800,7 +16801,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
