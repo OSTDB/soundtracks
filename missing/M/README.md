@@ -5957,7 +5957,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -13656,6 +13655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Misfits | 296984 | [296984-misfits.json](./296984-misfits.json) |
 | Misfitz | 375350 | [375350-misfitz.json](./375350-misfitz.json) |
 | Misfolded | 109579 | [109579-misfolded.json](./109579-misfolded.json) |
+| Misfortunate Tadpole | 184675 | [184675-misfortunate-tadpole.json](./184675-misfortunate-tadpole.json) |
 | Misfortune | 323937 | [323937-misfortune.json](./323937-misfortune.json) |
 | Misfortune Advance | 203222 | [203222-misfortune-advance.json](./203222-misfortune-advance.json) |
 | Misfortune Possession | 282476 | [282476-misfortune-possession.json](./282476-misfortune-possession.json) |
@@ -15053,6 +15053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momentum Missile Mayhem 3 | 388202 | [388202-momentum-missile-mayhem-3.json](./388202-momentum-missile-mayhem-3.json) |
 | Momentum Missile Mayhem 4 | 388203 | [388203-momentum-missile-mayhem-4.json](./388203-momentum-missile-mayhem-4.json) |
 | Momentum Mod | 58157 | [58157-momentum-mod.json](./58157-momentum-mod.json) |
+| Momentum Tenebris | 184678 | [184678-momentum-tenebris.json](./184678-momentum-tenebris.json) |
 | Momibosu | 151726 | [151726-momibosu.json](./151726-momibosu.json) |
 | Momiji From Purgatory | 152490 | [152490-momiji-from-purgatory.json](./152490-momiji-from-purgatory.json) |
 | Mominesweeper | 224005 | [224005-mominesweeper.json](./224005-mominesweeper.json) |
@@ -16941,6 +16942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moraff's MoreJongg | 209193 | [209193-moraffs-morejongg.json](./209193-moraffs-morejongg.json) |
 | Moraff's Revenge | 71841 | [71841-moraffs-revenge.json](./71841-moraffs-revenge.json) |
 | Moraff's World | 74053 | [74053-moraffs-world.json](./74053-moraffs-world.json) |
+| Moral Conflict | 184679 | [184679-moral-conflict.json](./184679-moral-conflict.json) |
 | Moral King | 107413 | [107413-moral-king.json](./107413-moral-king.json) |
 | Morals Are Optional | 58641 | [58641-morals-are-optional.json](./58641-morals-are-optional.json) |
 | Morana Online | 358221 | [358221-morana-online.json](./358221-morana-online.json) |
