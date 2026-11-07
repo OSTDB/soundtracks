@@ -20543,6 +20543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three of a Fish | 123546 | [123546-three-of-a-fish.json](./123546-three-of-a-fish.json) |
 | Three of Cards | 159564 | [159564-three-of-cards.json](./159564-three-of-cards.json) |
 | Three of Us | 181753 | [181753-three-of-us.json](./181753-three-of-us.json) |
+| Three Pigeons in a Trench Coat | 170088 | [170088-three-pigeons-in-a-trench-coat.json](./170088-three-pigeons-in-a-trench-coat.json) |
 | Three Quarters Space Station | 220518 | [220518-three-quarters-space-station.json](./220518-three-quarters-space-station.json) |
 | Three Random Archives | 265114 | [265114-three-random-archives.json](./265114-three-random-archives.json) |
 | Three Sisters | 337389 | [337389-three-sisters.json](./337389-three-sisters.json) |
@@ -31483,6 +31484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tron Run/r | 19978 | [19978-tron-run-r.json](./19978-tron-run-r.json) |
 | Tron Run/r: Cycle Extender Bundle | 170985 | [170985-tron-run-r-cycle-extender-bundle.json](./170985-tron-run-r-cycle-extender-bundle.json) |
 | Tron Run/r: Deluxe Edition | 53853 | [53853-tron-run-r-deluxe-edition.json](./53853-tron-run-r-deluxe-edition.json) |
+| Tron Run/r: Disc Extender Bundle | 170093 | [170093-tron-run-r-disc-extender-bundle.json](./170093-tron-run-r-disc-extender-bundle.json) |
 | Tron Run/r: Outlands | 170984 | [170984-tron-run-r-outlands.json](./170984-tron-run-r-outlands.json) |
 | Tron Run/r: Ultimate Edition | 53852 | [53852-tron-run-r-ultimate-edition.json](./53852-tron-run-r-ultimate-edition.json) |
 | Tron: Catalyst | 319717 | [319717-tron-catalyst.json](./319717-tron-catalyst.json) |
