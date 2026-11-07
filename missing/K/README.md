@@ -2007,6 +2007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keycap Keycap! | 420975 | [420975-keycap-keycap.json](./420975-keycap-keycap.json) |
 | Keychain | 305294 | [305294-keychain.json](./305294-keychain.json) |
 | Keyclash | 386420 | [386420-keyclash.json](./386420-keyclash.json) |
+| Keydungeon | 182635 | [182635-keydungeon.json](./182635-keydungeon.json) |
 | Keyfall | 217375 | [217375-keyfall.json](./217375-keyfall.json) |
 | KeyFortress | 406294 | [406294-keyfortress.json](./406294-keyfortress.json) |
 | Keyframes | 309185 | [309185-keyframes.json](./309185-keyframes.json) |
@@ -2832,7 +2833,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4232,6 +4232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty's Last Adventure | 295372 | [295372-kittys-last-adventure.json](./295372-kittys-last-adventure.json) |
 | Kitty's Venture | 214123 | [214123-kittys-venture.json](./214123-kittys-venture.json) |
 | Kittycat Couture | 399419 | [399419-kittycat-couture.json](./399419-kittycat-couture.json) |
+| KittyClinic | 182594 | [182594-kittyclinic.json](./182594-kittyclinic.json) |
 | KittyKart | 256972 | [256972-kittykart.json](./256972-kittykart.json) |
 | Kittypocalypse | 23870 | [23870-kittypocalypse.json](./23870-kittypocalypse.json) |
 | Kittypocalypse: Ungoggled | 31278 | [31278-kittypocalypse-ungoggled.json](./31278-kittypocalypse-ungoggled.json) |
@@ -4595,6 +4596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knightfall: Rivals | 29595 | [29595-knightfall-rivals.json](./29595-knightfall-rivals.json) |
 | Knighthood | 130678 | [130678-knighthood.json](./130678-knighthood.json) |
 | Knightica | 331608 | [331608-knightica.json](./331608-knightica.json) |
+| Knightin' | 182627 | [182627-knightin.json](./182627-knightin.json) |
 | Knightin'+ | 120481 | [120481-knightin.json](./120481-knightin.json) |
 | Knightlife | 190427 | [190427-knightlife.json](./190427-knightlife.json) |
 | KnightLight | 312999 | [312999-knightlight.json](./312999-knightlight.json) |
