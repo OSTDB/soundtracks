@@ -13655,6 +13655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slide Stars | 138045 | [138045-slide-stars.json](./138045-slide-stars.json) |
 | Slide Stories: Bonds & Memories | 168061 | [168061-slide-stories-bonds-and-memories.json](./168061-slide-stories-bonds-and-memories.json) |
 | Slide Stories: Bucky's Quest | 189265 | [189265-slide-stories-buckys-quest.json](./189265-slide-stories-buckys-quest.json) |
+| Slide Stories: Neko's Journey | 157272 | [157272-slide-stories-nekos-journey.json](./157272-slide-stories-nekos-journey.json) |
 | Slide the Shakes | 96893 | [96893-slide-the-shakes.json](./96893-slide-the-shakes.json) |
 | Slide the Signs | 234509 | [234509-slide-the-signs.json](./234509-slide-the-signs.json) |
 | Slide to finish | 111477 | [111477-slide-to-finish.json](./111477-slide-to-finish.json) |
@@ -19850,7 +19851,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20151,6 +20151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pong! | 178927 | [178927-space-pong.json](./178927-space-pong.json) |
 | Space Pop: Bubble Shooter | 239705 | [239705-space-pop-bubble-shooter.json](./239705-space-pop-bubble-shooter.json) |
 | Space Pope | 58613 | [58613-space-pope.json](./58613-space-pope.json) |
+| Space Porter | 157296 | [157296-space-porter.json](./157296-space-porter.json) |
 | Space Postman Story | 180647 | [180647-space-postman-story.json](./180647-space-postman-story.json) |
 | Space Prevention Force | 179110 | [179110-space-prevention-force.json](./179110-space-prevention-force.json) |
 | Space Pricks | 248641 | [248641-space-pricks.json](./248641-space-pricks.json) |
