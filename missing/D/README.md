@@ -2171,6 +2171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkHouse | 189237 | [189237-darkhouse.json](./189237-darkhouse.json) |
 | DarkHouse | 371887 | [371887-darkhouse.json](./371887-darkhouse.json) |
 | Darkilson | 149480 | [149480-darkilson.json](./149480-darkilson.json) |
+| Darkin.Space | 153627 | [153627-darkin-space.json](./153627-darkin-space.json) |
 | Darkion | 212813 | [212813-darkion.json](./212813-darkion.json) |
 | Darkiss: Chapter 1 - The Awakening | 59720 | [59720-darkiss-chapter-1-the-awakening.json](./59720-darkiss-chapter-1-the-awakening.json) |
 | Darkiss! Wrath of the Vampire Chapter 2: Journey to Hell | 57509 | [57509-darkiss-wrath-of-the-vampire-chapter-2-journey-to-hell.json](./57509-darkiss-wrath-of-the-vampire-chapter-2-journey-to-hell.json) |
@@ -8780,6 +8781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicey Dungeons Reunion | 208403 | [208403-dicey-dungeons-reunion.json](./208403-dicey-dungeons-reunion.json) |
 | Dicey Dungeons: Halloween Special | 266909 | [266909-dicey-dungeons-halloween-special.json](./266909-dicey-dungeons-halloween-special.json) |
 | Dicey Dungeons+ | 296793 | [296793-dicey-dungeons.json](./296793-dicey-dungeons.json) |
+| Dicey Elementalist | 153623 | [153623-dicey-elementalist.json](./153623-dicey-elementalist.json) |
 | Dicey Hacker 1999 | 350387 | [350387-dicey-hacker-1999.json](./350387-dicey-hacker-1999.json) |
 | Dicey Heroes | 346176 | [346176-dicey-heroes.json](./346176-dicey-heroes.json) |
 | Dicey Jump | 287444 | [287444-dicey-jump.json](./287444-dicey-jump.json) |
@@ -16817,6 +16819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drink Bar Maid: Regression | 134609 | [134609-drink-bar-maid-regression.json](./134609-drink-bar-maid-regression.json) |
 | Drink Beer, Neglect Family | 185673 | [185673-drink-beer-neglect-family.json](./185673-drink-beer-neglect-family.json) |
 | Drink Clicker: Idle Tycoon | 233384 | [233384-drink-clicker-idle-tycoon.json](./233384-drink-clicker-idle-tycoon.json) |
+| Drink Drank Drunk | 153578 | [153578-drink-drank-drunk.json](./153578-drink-drank-drunk.json) |
 | Drink Human Beans | 274571 | [274571-drink-human-beans.json](./274571-drink-human-beans.json) |
 | Drink Inc. | 90280 | [90280-drink-inc.json](./90280-drink-inc.json) |
 | Drink it Bitter | 341262 | [341262-drink-it-bitter.json](./341262-drink-it-bitter.json) |
@@ -18203,6 +18206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Crusher Kiritan | 138640 | [138640-dungeon-crusher-kiritan.json](./138640-dungeon-crusher-kiritan.json) |
 | Dungeon Crusher: Soul Hunters | 142999 | [142999-dungeon-crusher-soul-hunters.json](./142999-dungeon-crusher-soul-hunters.json) |
 | Dungeon Crystal | 322851 | [322851-dungeon-crystal.json](./322851-dungeon-crystal.json) |
+| Dungeon Cube | 153585 | [153585-dungeon-cube.json](./153585-dungeon-cube.json) |
 | Dungeon D14 | 163573 | [163573-dungeon-d14.json](./163573-dungeon-d14.json) |
 | Dungeon Dad | 191832 | [191832-dungeon-dad.json](./191832-dungeon-dad.json) |
 | Dungeon Dan | 156028 | [156028-dungeon-dan.json](./156028-dungeon-dan.json) |
