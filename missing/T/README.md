@@ -4242,6 +4242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tentacles Party With Nuns Chibi Stickers | 337653 | [337653-tentacles-party-with-nuns-chibi-stickers.json](./337653-tentacles-party-with-nuns-chibi-stickers.json) |
 | Tentacles: Enter the dolphin | 19504 | [19504-tentacles-enter-the-dolphin.json](./19504-tentacles-enter-the-dolphin.json) |
 | Tentacles: Enter the Mind | 106258 | [106258-tentacles-enter-the-mind.json](./106258-tentacles-enter-the-mind.json) |
+| Tentaclescape | 184022 | [184022-tentaclescape.json](./184022-tentaclescape.json) |
 | Tentacuddle | 294159 | [294159-tentacuddle.json](./294159-tentacuddle.json) |
 | Tentaculon | 57487 | [57487-tentaculon.json](./57487-tentaculon.json) |
 | Tentacult! | 32872 | [32872-tentacult.json](./32872-tentacult.json) |
@@ -6974,6 +6975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cabbage Effect | 134953 | [134953-the-cabbage-effect.json](./134953-the-cabbage-effect.json) |
 | The Cabin | 161627 | [161627-the-cabin.json](./161627-the-cabin.json) |
 | The Cabin | 171837 | [171837-the-cabin.json](./171837-the-cabin.json) |
+| The Cabin | 184140 | [184140-the-cabin.json](./184140-the-cabin.json) |
 | The Cabin Factory | 325273 | [325273-the-cabin-factory.json](./325273-the-cabin-factory.json) |
 | The Cabin Game | 398960 | [398960-the-cabin-game.json](./398960-the-cabin-game.json) |
 | The Cabin: VR Escape the Room | 30389 | [30389-the-cabin-vr-escape-the-room.json](./30389-the-cabin-vr-escape-the-room.json) |
@@ -7246,6 +7248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chick C | 191265 | [191265-the-chick-c.json](./191265-the-chick-c.json) |
 | The Chicken Bandit | 61117 | [61117-the-chicken-bandit.json](./61117-the-chicken-bandit.json) |
 | The Chicken Game | 229603 | [229603-the-chicken-game.json](./229603-the-chicken-game.json) |
+| The Chicken, the Ghost and the Mountain | 184157 | [184157-the-chicken-the-ghost-and-the-mountain.json](./184157-the-chicken-the-ghost-and-the-mountain.json) |
 | The Chicken's Fall | 172910 | [172910-the-chickens-fall.json](./172910-the-chickens-fall.json) |
 | The Chickenator | 25381 | [25381-the-chickenator.json](./25381-the-chickenator.json) |
 | The Chikafag and Chika | 165133 | [165133-the-chikafag-and-chika.json](./165133-the-chikafag-and-chika.json) |
@@ -10777,6 +10780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Holy Gosh Darn | 240644 | [240644-the-holy-gosh-darn.json](./240644-the-holy-gosh-darn.json) |
 | The Holy Grail | 24677 | [24677-the-holy-grail.json](./24677-the-holy-grail.json) |
 | The Holy Orange | 167513 | [167513-the-holy-orange.json](./167513-the-holy-orange.json) |
+| The Holy Order of the Myxogastrian Knights | 184030 | [184030-the-holy-order-of-the-myxogastrian-knights.json](./184030-the-holy-order-of-the-myxogastrian-knights.json) |
 | The Holy Silence | 169746 | [169746-the-holy-silence.json](./169746-the-holy-silence.json) |
 | The Holyburn Witches | 273783 | [273783-the-holyburn-witches.json](./273783-the-holyburn-witches.json) |
 | The Home County | 359924 | [359924-the-home-county.json](./359924-the-home-county.json) |
@@ -14434,8 +14438,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Object | 316182 | [316182-the-object.json](./316182-the-object.json) |
 | The Obligatory Undertale Yellow Sans fight | 307553 | [307553-the-obligatory-undertale-yellow-sans-fight.json](./307553-the-obligatory-undertale-yellow-sans-fight.json) |
 | The Oblivion Asylum | 117676 | [117676-the-oblivion-asylum.json](./117676-the-oblivion-asylum.json) |
+| The Oblivion Parable | 184023 | [184023-the-oblivion-parable.json](./184023-the-oblivion-parable.json) |
 | The Obscura Experiment | 239652 | [239652-the-obscura-experiment.json](./239652-the-obscura-experiment.json) |
 | The Observed | 182555 | [182555-the-observed.json](./182555-the-observed.json) |
+| The Obsessive Hunter: an OSR class | 184026 | [184026-the-obsessive-hunter-an-osr-class.json](./184026-the-obsessive-hunter-an-osr-class.json) |
 | The Obsessive Shadow | 211809 | [211809-the-obsessive-shadow.json](./211809-the-obsessive-shadow.json) |
 | The Obsessive Shadow: Chapter 2 | 406179 | [406179-the-obsessive-shadow-chapter-2.json](./406179-the-obsessive-shadow-chapter-2.json) |
 | The Occluder | 110749 | [110749-the-occluder.json](./110749-the-occluder.json) |
@@ -18825,6 +18831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wastes | 59604 | [59604-the-wastes.json](./59604-the-wastes.json) |
 | The Watch | 286875 | [286875-the-watch.json](./286875-the-watch.json) |
 | The Watch | 377135 | [377135-the-watch.json](./377135-the-watch.json) |
+| The Watcher | 184139 | [184139-the-watcher.json](./184139-the-watcher.json) |
 | The Watcher | 238515 | [238515-the-watcher.json](./238515-the-watcher.json) |
 | The Watcher | 413734 | [413734-the-watcher.json](./413734-the-watcher.json) |
 | The Watcher's Curse | 304497 | [304497-the-watchers-curse.json](./304497-the-watchers-curse.json) |
