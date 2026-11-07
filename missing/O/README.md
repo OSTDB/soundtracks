@@ -3494,6 +3494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Deep Magic: Cryptanalysis | 128258 | [128258-operation-deep-magic-cryptanalysis.json](./128258-operation-deep-magic-cryptanalysis.json) |
 | Operation Defensive! | 204051 | [204051-operation-defensive.json](./204051-operation-defensive.json) |
 | Operation Desert Road | 74234 | [74234-operation-desert-road.json](./74234-operation-desert-road.json) |
+| Operation Desolate Void | 168493 | [168493-operation-desolate-void.json](./168493-operation-desolate-void.json) |
 | Operation DogFight | 95396 | [95396-operation-dogfight.json](./95396-operation-dogfight.json) |
 | Operation Echo | 228919 | [228919-operation-echo.json](./228919-operation-echo.json) |
 | Operation Eco-Nightmare | 210686 | [210686-operation-eco-nightmare.json](./210686-operation-eco-nightmare.json) |
