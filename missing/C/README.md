@@ -7296,6 +7296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken of the Farm | 124612 | [124612-chicken-of-the-farm.json](./124612-chicken-of-the-farm.json) |
 | Chicken Outbreak | 96850 | [96850-chicken-outbreak.json](./96850-chicken-outbreak.json) |
 | Chicken Party: Animal Farm | 314873 | [314873-chicken-party-animal-farm.json](./314873-chicken-party-animal-farm.json) |
+| Chicken Ranch | 150813 | [150813-chicken-ranch.json](./150813-chicken-ranch.json) |
 | Chicken Range | 84572 | [84572-chicken-range.json](./84572-chicken-range.json) |
 | Chicken Range Bundle | 139947 | [139947-chicken-range-bundle.json](./139947-chicken-range-bundle.json) |
 | Chicken Rescue | 213048 | [213048-chicken-rescue.json](./213048-chicken-rescue.json) |
@@ -19377,6 +19378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Runk | 166913 | [166913-cube-runk.json](./166913-cube-runk.json) |
 | Cube Runner | 30128 | [30128-cube-runner.json](./30128-cube-runner.json) |
 | Cube Runner | 72964 | [72964-cube-runner.json](./72964-cube-runner.json) |
+| Cube Runner 2 | 150847 | [150847-cube-runner-2.json](./150847-cube-runner-2.json) |
 | Cube Rush | 112340 | [112340-cube-rush.json](./112340-cube-rush.json) |
 | Cube Samurai: Run Squared | 172852 | [172852-cube-samurai-run-squared.json](./172852-cube-samurai-run-squared.json) |
 | Cube Samurai: RUN! | 36290 | [36290-cube-samurai-run.json](./36290-cube-samurai-run.json) |
