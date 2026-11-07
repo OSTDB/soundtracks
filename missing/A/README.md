@@ -4082,6 +4082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aery: Dream Land | 332491 | [332491-aery-dream-land.json](./332491-aery-dream-land.json) |
 | Aery: Dreamscape | 187142 | [187142-aery-dreamscape.json](./187142-aery-dreamscape.json) |
 | Aery: Flow of Time | 260480 | [260480-aery-flow-of-time.json](./260480-aery-flow-of-time.json) |
+| Aery: Little Bird Adventure | 173928 | [173928-aery-little-bird-adventure.json](./173928-aery-little-bird-adventure.json) |
 | Aery: Midnight Hour | 288376 | [288376-aery-midnight-hour.json](./288376-aery-midnight-hour.json) |
 | Aery: Path of Corruption | 213427 | [213427-aery-path-of-corruption.json](./213427-aery-path-of-corruption.json) |
 | Aery: Peace of Mind | 296628 | [296628-aery-peace-of-mind.json](./296628-aery-peace-of-mind.json) |
@@ -5082,6 +5083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai Ai Kissaten | 364221 | [364221-ai-ai-kissaten.json](./364221-ai-ai-kissaten.json) |
 | AI Alpha Cat | 129524 | [129524-ai-alpha-cat.json](./129524-ai-alpha-cat.json) |
 | AI Apocalypse | 402749 | [402749-ai-apocalypse.json](./402749-ai-apocalypse.json) |
+| AI Arcade | 173927 | [173927-ai-arcade.json](./173927-ai-arcade.json) |
 | AI Asylum | 329034 | [329034-ai-asylum.json](./329034-ai-asylum.json) |
 | AI Battle Royale Generator | 148364 | [148364-ai-battle-royale-generator.json](./148364-ai-battle-royale-generator.json) |
 | Ai Chou Aniki | 6475 | [6475-ai-chou-aniki.json](./6475-ai-chou-aniki.json) |
@@ -13119,6 +13121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arch Rivals | 242784 | [242784-arch-rivals.json](./242784-arch-rivals.json) |
 | Arch Rivals | 264540 | [264540-arch-rivals.json](./264540-arch-rivals.json) |
 | Arch Rivals | 4515 | [4515-arch-rivals.json](./4515-arch-rivals.json) |
+| Arch Stone vs. The Zombie Specters | 173925 | [173925-arch-stone-vs-the-zombie-specters.json](./173925-arch-stone-vs-the-zombie-specters.json) |
 | Arch Virtual HQ | 105888 | [105888-arch-virtual-hq.json](./105888-arch-virtual-hq.json) |
 | Archa | 342117 | [342117-archa.json](./342117-archa.json) |
 | Archaeogem | 219060 | [219060-archaeogem.json](./219060-archaeogem.json) |
@@ -16768,6 +16771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
