@@ -4741,6 +4741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terrorist Takedown: Covert Operations | 47049 | [47049-terrorist-takedown-covert-operations.json](./47049-terrorist-takedown-covert-operations.json) |
 | Terrorist Takedown: Payback | 54430 | [54430-terrorist-takedown-payback.json](./54430-terrorist-takedown-payback.json) |
 | Terrorist Takedown: War in Colombia | 70122 | [70122-terrorist-takedown-war-in-colombia.json](./70122-terrorist-takedown-war-in-colombia.json) |
+| Terrorists! | 141999 | [141999-terrorists.json](./141999-terrorists.json) |
 | TerrorMario! | 323754 | [323754-terrormario.json](./323754-terrormario.json) |
 | Terrormolinos | 26246 | [26246-terrormolinos.json](./26246-terrormolinos.json) |
 | Terroro | 318493 | [318493-terroro.json](./318493-terroro.json) |
@@ -10692,6 +10693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hauntings: Dark Passenger | 269986 | [269986-the-hauntings-dark-passenger.json](./269986-the-hauntings-dark-passenger.json) |
 | The Hauntings: Surveillance | 202367 | [202367-the-hauntings-surveillance.json](./202367-the-hauntings-surveillance.json) |
 | The Hauntings: Surveillance | 310872 | [310872-the-hauntings-surveillance.json](./310872-the-hauntings-surveillance.json) |
+| The Hayseed Knight | 141961 | [141961-the-hayseed-knight.json](./141961-the-hayseed-knight.json) |
 | The HD Adventures of Rotating Octopus Character | 52912 | [52912-the-hd-adventures-of-rotating-octopus-character.json](./52912-the-hd-adventures-of-rotating-octopus-character.json) |
 | The Headlands | 389687 | [389687-the-headlands.json](./389687-the-headlands.json) |
 | The Headmaster | 321293 | [321293-the-headmaster.json](./321293-the-headmaster.json) |
@@ -11394,6 +11396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Irem Skins Game | 44452 | [44452-the-irem-skins-game.json](./44452-the-irem-skins-game.json) |
 | The Iron Age | 223151 | [223151-the-iron-age.json](./223151-the-iron-age.json) |
 | The Iron Forge | 262181 | [262181-the-iron-forge.json](./262181-the-iron-forge.json) |
+| The Iron Hand in the Velvet Glove | 141973 | [141973-the-iron-hand-in-the-velvet-glove.json](./141973-the-iron-hand-in-the-velvet-glove.json) |
 | The Iron Oath | 55966 | [55966-the-iron-oath.json](./55966-the-iron-oath.json) |
 | The Iron Union | 224716 | [224716-the-iron-union.json](./224716-the-iron-union.json) |
 | The Irony | 324952 | [324952-the-irony.json](./324952-the-irony.json) |
@@ -16216,6 +16219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seasons Collection: Spring | 156576 | [156576-the-seasons-collection-spring.json](./156576-the-seasons-collection-spring.json) |
 | The Second Chance Strip Club | 392926 | [392926-the-second-chance-strip-club.json](./392926-the-second-chance-strip-club.json) |
 | The Second Circle | 333107 | [333107-the-second-circle.json](./333107-the-second-circle.json) |
+| The Second Circle: A Helltaker fan game | 141995 | [141995-the-second-circle-a-helltaker-fan-game.json](./141995-the-second-circle-a-helltaker-fan-game.json) |
 | The Second Floor | 179896 | [179896-the-second-floor.json](./179896-the-second-floor.json) |
 | The Second Guest | 93494 | [93494-the-second-guest.json](./93494-the-second-guest.json) |
 | The Second Kids' World Almanac Adventure | 71531 | [71531-the-second-kids-world-almanac-adventure.json](./71531-the-second-kids-world-almanac-adventure.json) |
@@ -16342,6 +16346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sequencer | 393950 | [393950-the-sequencer.json](./393950-the-sequencer.json) |
 | The Serf's Tale | 72640 | [72640-the-serfs-tale.json](./72640-the-serfs-tale.json) |
 | The Serial Adventures of Dick Jack BB! | 176441 | [176441-the-serial-adventures-of-dick-jack-bb.json](./176441-the-serial-adventures-of-dick-jack-bb.json) |
+| The Series Finale of Supernatural | 141978 | [141978-the-series-finale-of-supernatural.json](./141978-the-series-finale-of-supernatural.json) |
 | The Serious Sam Collection | 23414 | [23414-the-serious-sam-collection.json](./23414-the-serious-sam-collection.json) |
 | The Serpent | 234184 | [234184-the-serpent.json](./234184-the-serpent.json) |
 | The Serpent and the Crow | 352473 | [352473-the-serpent-and-the-crow.json](./352473-the-serpent-and-the-crow.json) |
@@ -24223,6 +24228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titanium Hound | 217386 | [217386-titanium-hound.json](./217386-titanium-hound.json) |
 | Titanium Nephilim | 341367 | [341367-titanium-nephilim.json](./341367-titanium-nephilim.json) |
 | Titankin: Prologue | 165111 | [165111-titankin-prologue.json](./165111-titankin-prologue.json) |
+| TitanReach | 141958 | [141958-titanreach.json](./141958-titanreach.json) |
 | titanRose | 145318 | [145318-titanrose.json](./145318-titanrose.json) |
 | Titans Black Ops | 165596 | [165596-titans-black-ops.json](./165596-titans-black-ops.json) |
 | Titans Clinic | 329062 | [329062-titans-clinic.json](./329062-titans-clinic.json) |
