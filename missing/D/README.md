@@ -1315,6 +1315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dariusburst: Chronicle Saviours - Varth: Operation Thunderstorm | 168183 | [168183-dariusburst-chronicle-saviours-varth-operation-thunderstorm.json](./168183-dariusburst-chronicle-saviours-varth-operation-thunderstorm.json) |
 | Dariusburst: Second Prologue | 22340 | [22340-dariusburst-second-prologue.json](./22340-dariusburst-second-prologue.json) |
 | Dark | 380231 | [380231-dark.json](./380231-dark.json) |
+| Dark & Cold: A Bitsy game | 176605 | [176605-dark-and-cold-a-bitsy-game.json](./176605-dark-and-cold-a-bitsy-game.json) |
 | Dark & Quispy | 303457 | [303457-dark-and-quispy.json](./303457-dark-and-quispy.json) |
 | Dark & Under | 144371 | [144371-dark-and-under.json](./144371-dark-and-under.json) |
 | Dark 4799 | 359673 | [359673-dark-4799.json](./359673-dark-4799.json) |
@@ -9513,6 +9514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Adventure Legend | 288130 | [288130-dino-adventure-legend.json](./288130-dino-adventure-legend.json) |
 | Dino and Aliens | 93434 | [93434-dino-and-aliens.json](./93434-dino-and-aliens.json) |
 | Dino Attack | 343258 | [343258-dino-attack.json](./343258-dino-attack.json) |
+| Dino Battle Royale | 176559 | [176559-dino-battle-royale.json](./176559-dino-battle-royale.json) |
 | Dino Battle: Jungle Adventure | 235166 | [235166-dino-battle-jungle-adventure.json](./235166-dino-battle-jungle-adventure.json) |
 | Dino Bibo | 221899 | [221899-dino-bibo.json](./221899-dino-bibo.json) |
 | Dino Blitz | 340129 | [340129-dino-blitz.json](./340129-dino-blitz.json) |
@@ -17289,6 +17291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drymir Cave under Richmordnom | 108032 | [108032-drymir-cave-under-richmordnom.json](./108032-drymir-cave-under-richmordnom.json) |
 | Drymouth | 340339 | [340339-drymouth.json](./340339-drymouth.json) |
 | Drynk: Board and Drinking Game | 180146 | [180146-drynk-board-and-drinking-game.json](./180146-drynk-board-and-drinking-game.json) |
+| Drytown | 176596 | [176596-drytown.json](./176596-drytown.json) |
 | Drywall Eating Simulator | 347597 | [347597-drywall-eating-simulator.json](./347597-drywall-eating-simulator.json) |
 | DS Bimoji Training | 306436 | [306436-ds-bimoji-training.json](./306436-ds-bimoji-training.json) |
 | DS Bungaku Zenshuu | 287372 | [287372-ds-bungaku-zenshuu.json](./287372-ds-bungaku-zenshuu.json) |
