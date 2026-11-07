@@ -1912,6 +1912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Mienai: Pocket Version | 225425 | [225425-yume-mienai-pocket-version.json](./225425-yume-mienai-pocket-version.json) |
 | Yume Mitai | 201152 | [201152-yume-mitai.json](./201152-yume-mitai.json) |
 | Yume ni made Mita Idol | 375342 | [375342-yume-ni-made-mita-idol.json](./375342-yume-ni-made-mita-idol.json) |
+| Yume Nichiroku | 166360 | [166360-yume-nichiroku.json](./166360-yume-nichiroku.json) |
 | Yume Nikki | 18689 | [18689-yume-nikki.json](./18689-yume-nikki.json) |
 | Yume Nikki | 380590 | [380590-yume-nikki.json](./380590-yume-nikki.json) |
 | Yume Nikki 3D | 177808 | [177808-yume-nikki-3d.json](./177808-yume-nikki-3d.json) |
@@ -1938,6 +1939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume no Office | 255546 | [255546-yume-no-office.json](./255546-yume-no-office.json) |
 | Yume no Pro Yakyuu | 141425 | [141425-yume-no-pro-yakyuu.json](./141425-yume-no-pro-yakyuu.json) |
 | Yume no Tamakura | 370778 | [370778-yume-no-tamakura.json](./370778-yume-no-tamakura.json) |
+| Yume no Tsubasa | 166390 | [166390-yume-no-tsubasa.json](./166390-yume-no-tsubasa.json) |
 | Yume Noroi | 166426 | [166426-yume-noroi.json](./166426-yume-noroi.json) |
 | Yume Nyaki | 201639 | [201639-yume-nyaki.json](./201639-yume-nyaki.json) |
 | Yume Otoshi | 205964 | [205964-yume-otoshi.json](./205964-yume-otoshi.json) |
