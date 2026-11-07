@@ -970,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -11405,6 +11406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Moon | 271072 | [271072-bloody-moon.json](./271072-bloody-moon.json) |
 | Bloody Night Cult | 336446 | [336446-bloody-night-cult.json](./336446-bloody-night-cult.json) |
 | Bloody Nightshift | 176743 | [176743-bloody-nightshift.json](./176743-bloody-nightshift.json) |
+| Bloody Paws Unleashed | 159994 | [159994-bloody-paws-unleashed.json](./159994-bloody-paws-unleashed.json) |
 | Bloody Pigs 1996 | 199236 | [199236-bloody-pigs-1996.json](./199236-bloody-pigs-1996.json) |
 | Bloody Pulp Fiction | 142685 | [142685-bloody-pulp-fiction.json](./142685-bloody-pulp-fiction.json) |
 | Bloody Ragdoll : Fort Escape | 87857 | [87857-bloody-ragdoll-fort-escape.json](./87857-bloody-ragdoll-fort-escape.json) |
@@ -12885,6 +12887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boned Again: Survivors | 362185 | [362185-boned-again-survivors.json](./362185-boned-again-survivors.json) |
 | Bonedle | 379170 | [379170-bonedle.json](./379170-bonedle.json) |
 | BoneField: Bodycam Horror | 275414 | [275414-bonefield-bodycam-horror.json](./275414-bonefield-bodycam-horror.json) |
+| Bonegard | 159952 | [159952-bonegard.json](./159952-bonegard.json) |
 | Bonehammer | 331791 | [331791-bonehammer.json](./331791-bonehammer.json) |
 | Bonehearts | 395147 | [395147-bonehearts.json](./395147-bonehearts.json) |
 | Bonehold | 366910 | [366910-bonehold.json](./366910-bonehold.json) |
@@ -13595,6 +13598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss Monster | 35459 | [35459-boss-monster.json](./35459-boss-monster.json) |
 | Boss of FCs | 348418 | [348418-boss-of-fcs.json](./348418-boss-of-fcs.json) |
 | Boss of the Mafia | 189290 | [189290-boss-of-the-mafia.json](./189290-boss-of-the-mafia.json) |
+| Boss of This Gym | 159981 | [159981-boss-of-this-gym.json](./159981-boss-of-this-gym.json) |
 | Boss Pit | 394823 | [394823-boss-pit.json](./394823-boss-pit.json) |
 | Boss Rally | 8431 | [8431-boss-rally.json](./8431-boss-rally.json) |
 | Boss Rush Apocalypse | 386071 | [386071-boss-rush-apocalypse.json](./386071-boss-rush-apocalypse.json) |
@@ -15848,6 +15852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brinefall | 190220 | [190220-brinefall.json](./190220-brinefall.json) |
 | Brinemegeddon | 278277 | [278277-brinemegeddon.json](./278277-brinemegeddon.json) |
 | Bring Back the Sun | 141671 | [141671-bring-back-the-sun.json](./141671-bring-back-the-sun.json) |
+| Bring Dad Home | 159992 | [159992-bring-dad-home.json](./159992-bring-dad-home.json) |
 | Bring Death | 211217 | [211217-bring-death.json](./211217-bring-death.json) |
 | Bring Her Home | 103045 | [103045-bring-her-home.json](./103045-bring-her-home.json) |
 | Bring Honey Home | 150635 | [150635-bring-honey-home.json](./150635-bring-honey-home.json) |
