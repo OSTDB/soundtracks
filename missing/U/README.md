@@ -1985,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underzone | 132460 | [132460-underzone.json](./132460-underzone.json) |
 | Undesirable Elements | 272129 | [272129-undesirable-elements.json](./272129-undesirable-elements.json) |
 | Undesired Catch | 316947 | [316947-undesired-catch.json](./316947-undesired-catch.json) |
+| Undestroyed | 174995 | [174995-undestroyed.json](./174995-undestroyed.json) |
 | Undetected | 193334 | [193334-undetected.json](./193334-undetected.json) |
 | Undiscovered | 416167 | [416167-undiscovered.json](./416167-undiscovered.json) |
 | Undiscovered House | 149698 | [149698-undiscovered-house.json](./149698-undiscovered-house.json) |
