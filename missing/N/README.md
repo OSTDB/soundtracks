@@ -2029,6 +2029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Hacker Plus | 169779 | [169779-neko-hacker-plus.json](./169779-neko-hacker-plus.json) |
 | Neko Hentai Girl: Beach Match-3 | 241280 | [241280-neko-hentai-girl-beach-match-3.json](./241280-neko-hentai-girl-beach-match-3.json) |
 | Neko Journey | 190462 | [190462-neko-journey.json](./190462-neko-journey.json) |
+| Neko Jump | 148640 | [148640-neko-jump.json](./148640-neko-jump.json) |
 | Neko Kitchen | 359552 | [359552-neko-kitchen.json](./359552-neko-kitchen.json) |
 | Neko Loop | 230100 | [230100-neko-loop.json](./230100-neko-loop.json) |
 | Neko Michi | 385601 | [385601-neko-michi.json](./385601-neko-michi.json) |
@@ -5151,6 +5152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden: Hurricane Pack I | 215249 | [215249-ninja-gaiden-hurricane-pack-i.json](./215249-ninja-gaiden-hurricane-pack-i.json) |
 | Ninja Gaiden: Master Collection | 143619 | [143619-ninja-gaiden-master-collection.json](./143619-ninja-gaiden-master-collection.json) |
 | Ninja Gaiden: Master Collection - Version D | 222501 | [222501-ninja-gaiden-master-collection-version-d.json](./222501-ninja-gaiden-master-collection-version-d.json) |
+| Ninja Gaiden: Master Collection Deluxe Edition | 148633 | [148633-ninja-gaiden-master-collection-deluxe-edition.json](./148633-ninja-gaiden-master-collection-deluxe-edition.json) |
 | Ninja Gainyk 2 | 46485 | [46485-ninja-gainyk-2.json](./46485-ninja-gainyk-2.json) |
 | Ninja Game | 376639 | [376639-ninja-game.json](./376639-ninja-game.json) |
 | Ninja Games | 360175 | [360175-ninja-games.json](./360175-ninja-games.json) |
@@ -7299,6 +7301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nowhere | 283550 | [283550-nowhere.json](./283550-nowhere.json) |
 | Nowhere | 386841 | [386841-nowhere.json](./386841-nowhere.json) |
 | Nowhere Belonging | 376043 | [376043-nowhere-belonging.json](./376043-nowhere-belonging.json) |
+| Nowhere Else and Beyond | 148721 | [148721-nowhere-else-and-beyond.json](./148721-nowhere-else-and-beyond.json) |
 | Nowhere Girl | 110627 | [110627-nowhere-girl.json](./110627-nowhere-girl.json) |
 | Nowhere Highway | 385678 | [385678-nowhere-highway.json](./385678-nowhere-highway.json) |
 | Nowhere House | 208183 | [208183-nowhere-house.json](./208183-nowhere-house.json) |
@@ -7476,6 +7479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear War Simulator | 154350 | [154350-nuclear-war-simulator.json](./154350-nuclear-war-simulator.json) |
 | Nuclear Wasteland 2030 | 91787 | [91787-nuclear-wasteland-2030.json](./91787-nuclear-wasteland-2030.json) |
 | Nuclear Winter | 221663 | [221663-nuclear-winter.json](./221663-nuclear-winter.json) |
+| Nuclear Wipeout | 148624 | [148624-nuclear-wipeout.json](./148624-nuclear-wipeout.json) |
 | NuclearDanger | 180806 | [180806-nucleardanger.json](./180806-nucleardanger.json) |
 | Nuclearphobia | 385624 | [385624-nuclearphobia.json](./385624-nuclearphobia.json) |
 | NuclearRifle | 384527 | [384527-nuclearrifle.json](./384527-nuclearrifle.json) |
