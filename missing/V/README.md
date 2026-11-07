@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valor & Victory: Shield of Cholm | 207788 | [207788-valor-and-victory-shield-of-cholm.json](./207788-valor-and-victory-shield-of-cholm.json) |
 | Valor & Victory: Stalingrad | 191004 | [191004-valor-and-victory-stalingrad.json](./191004-valor-and-victory-stalingrad.json) |
 | Valor and Glory: Napoleonic Wars | 153484 | [153484-valor-and-glory-napoleonic-wars.json](./153484-valor-and-glory-napoleonic-wars.json) |
+| Valor Legends: Eternity | 171164 | [171164-valor-legends-eternity.json](./171164-valor-legends-eternity.json) |
 | Valor Mortis | 361833 | [361833-valor-mortis.json](./361833-valor-mortis.json) |
 | Valor of Man | 326576 | [326576-valor-of-man.json](./326576-valor-of-man.json) |
 | Valor Time | 107911 | [107911-valor-time.json](./107911-valor-time.json) |
