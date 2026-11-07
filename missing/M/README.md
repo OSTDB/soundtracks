@@ -9088,6 +9088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mensch Ärger' Dich Nicht! | 98971 | [98971-mensch-arger-dich-nicht.json](./98971-mensch-arger-dich-nicht.json) |
 | Mensch Ärgere Dich! | 85713 | [85713-mensch-argere-dich.json](./85713-mensch-argere-dich.json) |
 | Menseki Genius | 192068 | [192068-menseki-genius.json](./192068-menseki-genius.json) |
+| Menseki: Area Maze puzzles | 186956 | [186956-menseki-area-maze-puzzles.json](./186956-menseki-area-maze-puzzles.json) |
 | Menseki: Area Maze Search | 247485 | [247485-menseki-area-maze-search.json](./247485-menseki-area-maze-search.json) |
 | Mentai Uncensored | 110608 | [110608-mentai-uncensored.json](./110608-mentai-uncensored.json) |
 | Mental | 130347 | [130347-mental.json](./130347-mental.json) |
@@ -15092,7 +15093,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momotaro Collection 2 | 64417 | [64417-momotaro-collection-2.json](./64417-momotaro-collection-2.json) |
 | Momotaro Densetsu | 64411 | [64411-momotaro-densetsu.json](./64411-momotaro-densetsu.json) |
 | Momotaro Densetsu 1-2 | 64413 | [64413-momotaro-densetsu-1-2.json](./64413-momotaro-densetsu-1-2.json) |
+| Momotaro Densetsu Gaiden | 186961 | [186961-momotaro-densetsu-gaiden.json](./186961-momotaro-densetsu-gaiden.json) |
 | Momotaro Densetsu Gaiden | 37673 | [37673-momotaro-densetsu-gaiden.json](./37673-momotaro-densetsu-gaiden.json) |
+| Momotaro Densetsu Gaiden: Dai-1-Shu | 186960 | [186960-momotaro-densetsu-gaiden-dai-1-shu.json](./186960-momotaro-densetsu-gaiden-dai-1-shu.json) |
 | Momotaro Densetsu Mobile | 186765 | [186765-momotaro-densetsu-mobile.json](./186765-momotaro-densetsu-mobile.json) |
 | Momotaro Densetsu Turbo | 42049 | [42049-momotaro-densetsu-turbo.json](./42049-momotaro-densetsu-turbo.json) |
 | Momotaro Dentetsu | 48771 | [48771-momotaro-dentetsu.json](./48771-momotaro-dentetsu.json) |
@@ -19349,6 +19352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Detective: Jack the Ripper | 114535 | [114535-murder-detective-jack-the-ripper.json](./114535-murder-detective-jack-the-ripper.json) |
 | Murder Diaries | 153948 | [153948-murder-diaries.json](./153948-murder-diaries.json) |
 | Murder Diaries 2 | 166830 | [166830-murder-diaries-2.json](./166830-murder-diaries-2.json) |
+| Murder Diaries 3: Santa's Trail of Blood | 186949 | [186949-murder-diaries-3-santas-trail-of-blood.json](./186949-murder-diaries-3-santas-trail-of-blood.json) |
 | Murder Diaries: Ankara | 88185 | [88185-murder-diaries-ankara.json](./88185-murder-diaries-ankara.json) |
 | Murder Generation: Cream City Chaos | 255276 | [255276-murder-generation-cream-city-chaos.json](./255276-murder-generation-cream-city-chaos.json) |
 | Murder Gods Play Pachinko | 325293 | [325293-murder-gods-play-pachinko.json](./325293-murder-gods-play-pachinko.json) |
