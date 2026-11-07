@@ -2341,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caramella Girls | 174357 | [174357-caramella-girls.json](./174357-caramella-girls.json) |
 | Caravan | 19290 | [19290-caravan.json](./19290-caravan.json) |
 | Caravan Boomer | 266911 | [266911-caravan-boomer.json](./266911-caravan-boomer.json) |
+| Caravan Chaos | 139526 | [139526-caravan-chaos.json](./139526-caravan-chaos.json) |
 | Caravan Journey | 225957 | [225957-caravan-journey.json](./225957-caravan-journey.json) |
 | Caravan Journey: Nitro | 226089 | [226089-caravan-journey-nitro.json](./226089-caravan-journey-nitro.json) |
 | Caravan Manager | 420495 | [420495-caravan-manager.json](./420495-caravan-manager.json) |
@@ -3678,6 +3679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of Void | 264713 | [264713-castle-of-void.json](./264713-castle-of-void.json) |
 | Castle of White Night | 197853 | [197853-castle-of-white-night.json](./197853-castle-of-white-night.json) |
 | Castle on Crimson Rock | 348967 | [348967-castle-on-crimson-rock.json](./348967-castle-on-crimson-rock.json) |
+| Castle on the Coast | 139565 | [139565-castle-on-the-coast.json](./139565-castle-on-the-coast.json) |
 | Castle Pals | 101182 | [101182-castle-pals.json](./101182-castle-pals.json) |
 | Castle Push | 259856 | [259856-castle-push.json](./259856-castle-push.json) |
 | Castle Puzzlefort | 271814 | [271814-castle-puzzlefort.json](./271814-castle-puzzlefort.json) |
@@ -12950,6 +12952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comet | 28105 | [28105-comet.json](./28105-comet.json) |
 | Comet | 288689 | [288689-comet.json](./288689-comet.json) |
 | Comet | 91155 | [91155-comet.json](./91155-comet.json) |
+| Comet 64 | 139564 | [139564-comet-64.json](./139564-comet-64.json) |
 | Comet Alpha Rescue | 313538 | [313538-comet-alpha-rescue.json](./313538-comet-alpha-rescue.json) |
 | Comet Angel | 303736 | [303736-comet-angel.json](./303736-comet-angel.json) |
 | Comet Busters! | 74014 | [74014-comet-busters.json](./74014-comet-busters.json) |
