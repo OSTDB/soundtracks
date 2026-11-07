@@ -942,6 +942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iCarly: Groovy Foodie! | 25187 | [25187-icarly-groovy-foodie.json](./25187-icarly-groovy-foodie.json) |
 | iCarly: iDream in Toons | 210060 | [210060-icarly-idream-in-toons.json](./210060-icarly-idream-in-toons.json) |
 | ICarly: Isock it to 'Em | 210076 | [210076-icarly-isock-it-to-em.json](./210076-icarly-isock-it-to-em.json) |
+| Icarus | 174438 | [174438-icarus.json](./174438-icarus.json) |
 | Icarus | 179781 | [179781-icarus.json](./179781-icarus.json) |
 | Icarus | 245054 | [245054-icarus.json](./245054-icarus.json) |
 | Icarus | 274674 | [274674-icarus.json](./274674-icarus.json) |
@@ -5391,6 +5392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inumeda | 263113 | [263113-inumeda.json](./263113-inumeda.json) |
 | Inunaki Tunnel | 126348 | [126348-inunaki-tunnel.json](./126348-inunaki-tunnel.json) |
 | Inure Coffee | 143539 | [143539-inure-coffee.json](./143539-inure-coffee.json) |
+| Inuwashi: Ikebukuro Ghost Festival | 174437 | [174437-inuwashi-ikebukuro-ghost-festival.json](./174437-inuwashi-ikebukuro-ghost-festival.json) |
 | Inuwashi: Urabure Tantei to Ojou-sama Keiji no Ikebukuro Jiken File | 130237 | [130237-inuwashi-urabure-tantei-to-ojou-sama-keiji-no-ikebukuro-jiken-file.json](./130237-inuwashi-urabure-tantei-to-ojou-sama-keiji-no-ikebukuro-jiken-file.json) |
 | Inuyasha | 100268 | [100268-inuyasha.json](./100268-inuyasha.json) |
 | Inuyasha Awakening | 174825 | [174825-inuyasha-awakening.json](./174825-inuyasha-awakening.json) |
