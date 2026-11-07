@@ -4295,6 +4295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeadOS | 158207 | [158207-deados.json](./158207-deados.json) |
 | Deadpact | 407818 | [407818-deadpact.json](./407818-deadpact.json) |
 | Deadpoint | 265115 | [265115-deadpoint.json](./265115-deadpoint.json) |
+| Deadpool | 141334 | [141334-deadpool.json](./141334-deadpool.json) |
 | Deadpool | 1919 | [1919-deadpool.json](./1919-deadpool.json) |
 | Deadpool Hardcore Edition | 338851 | [338851-deadpool-hardcore-edition.json](./338851-deadpool-hardcore-edition.json) |
 | Deadrigger | 13837 | [13837-deadrigger.json](./13837-deadrigger.json) |
@@ -8635,6 +8636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diary of a Zomboni Driver | 286321 | [286321-diary-of-a-zomboni-driver.json](./286321-diary-of-a-zomboni-driver.json) |
 | Diary of Broken Dreams | 193327 | [193327-diary-of-broken-dreams.json](./193327-diary-of-broken-dreams.json) |
 | Diary of Defender | 104800 | [104800-diary-of-defender.json](./104800-diary-of-defender.json) |
+| Diary of Lucie | 141337 | [141337-diary-of-lucie.json](./141337-diary-of-lucie.json) |
 | Diary of Lucie: Hammer Weapon Pack | 264506 | [264506-diary-of-lucie-hammer-weapon-pack.json](./264506-diary-of-lucie-hammer-weapon-pack.json) |
 | Diaspora | 139764 | [139764-diaspora.json](./139764-diaspora.json) |
 | Diaspora | 191125 | [191125-diaspora.json](./191125-diaspora.json) |
@@ -12408,6 +12410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino Clicker | 295802 | [295802-domino-clicker.json](./295802-domino-clicker.json) |
 | Domino Club | 275266 | [275266-domino-club.json](./275266-domino-club.json) |
 | Domino Craft VR | 30071 | [30071-domino-craft-vr.json](./30071-domino-craft-vr.json) |
+| Domino Day | 141352 | [141352-domino-day.json](./141352-domino-day.json) |
 | Domino Draw | 271270 | [271270-domino-draw.json](./271270-domino-draw.json) |
 | Domino Dreams | 315772 | [315772-domino-dreams.json](./315772-domino-dreams.json) |
 | Domino Drop | 87620 | [87620-domino-drop.json](./87620-domino-drop.json) |
