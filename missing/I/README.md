@@ -5292,6 +5292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Emberlands | 304726 | [304726-into-the-emberlands.json](./304726-into-the-emberlands.json) |
 | Into the Emberlands: Supporter Pack | 321161 | [321161-into-the-emberlands-supporter-pack.json](./321161-into-the-emberlands-supporter-pack.json) |
 | Into the End (Of the World) | 410711 | [410711-into-the-end-of-the-world.json](./410711-into-the-end-of-the-world.json) |
+| Into the Eternal | 167431 | [167431-into-the-eternal.json](./167431-into-the-eternal.json) |
 | Into the Evernight | 356798 | [356798-into-the-evernight.json](./356798-into-the-evernight.json) |
 | Into the Farlands | 226437 | [226437-into-the-farlands.json](./226437-into-the-farlands.json) |
 | Into the Fire | 322703 | [322703-into-the-fire.json](./322703-into-the-fire.json) |
