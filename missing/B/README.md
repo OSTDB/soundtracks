@@ -3485,6 +3485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batsu! | 160215 | [160215-batsu.json](./160215-batsu.json) |
 | Batsugun | 16126 | [16126-batsugun.json](./16126-batsugun.json) |
 | Batsugun | 292117 | [292117-batsugun.json](./292117-batsugun.json) |
+| Batsugun: Special Version | 140737 | [140737-batsugun-special-version.json](./140737-batsugun-special-version.json) |
 | Batsumaru | 191511 | [191511-batsumaru.json](./191511-batsumaru.json) |
 | Batta Batta: Kampen mod Ultra | 127974 | [127974-batta-batta-kampen-mod-ultra.json](./127974-batta-batta-kampen-mod-ultra.json) |
 | Batta Batta: Kejserens Gave | 129773 | [129773-batta-batta-kejserens-gave.json](./129773-batta-batta-kejserens-gave.json) |
@@ -7380,6 +7381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bid Battle: Auction War Simulator Storage Hunter | 310459 | [310459-bid-battle-auction-war-simulator-storage-hunter.json](./310459-bid-battle-auction-war-simulator-storage-hunter.json) |
 | Bid King | 390605 | [390605-bid-king.json](./390605-bid-king.json) |
 | Bid War: Auction Simulator Storage Hunter | 254007 | [254007-bid-war-auction-simulator-storage-hunter.json](./254007-bid-war-auction-simulator-storage-hunter.json) |
+| Bid Whist Plus | 140742 | [140742-bid-whist-plus.json](./140742-bid-whist-plus.json) |
 | Bid Whist: Card Game | 220817 | [220817-bid-whist-card-game.json](./220817-bid-whist-card-game.json) |
 | Bidding Contest | 99312 | [99312-bidding-contest.json](./99312-bidding-contest.json) |
 | Biden My Time: A Joe Biden Garfield-Reading Simulator | 176737 | [176737-biden-my-time-a-joe-biden-garfield-reading-simulator.json](./176737-biden-my-time-a-joe-biden-garfield-reading-simulator.json) |
@@ -7570,6 +7572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Farm Story: Peaceful Nature Pack | 225070 | [225070-big-farm-story-peaceful-nature-pack.json](./225070-big-farm-story-peaceful-nature-pack.json) |
 | Big Farm Story: Pet Paradise Pack | 225068 | [225068-big-farm-story-pet-paradise-pack.json](./225068-big-farm-story-pet-paradise-pack.json) |
 | Big Farm Story: Shiver Night Pack | 225066 | [225066-big-farm-story-shiver-night-pack.json](./225066-big-farm-story-shiver-night-pack.json) |
+| Big Farm: Mobile Harvest | 140761 | [140761-big-farm-mobile-harvest.json](./140761-big-farm-mobile-harvest.json) |
 | Big Fat Awesome House Party | 204639 | [204639-big-fat-awesome-house-party.json](./204639-big-fat-awesome-house-party.json) |
 | Big Fat Battle | 244771 | [244771-big-fat-battle.json](./244771-big-fat-battle.json) |
 | Big Fat Battle: Big Pack | 280568 | [280568-big-fat-battle-big-pack.json](./280568-big-fat-battle-big-pack.json) |
@@ -18648,6 +18651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bylina: Lure of the Sorceress | 298720 | [298720-bylina-lure-of-the-sorceress.json](./298720-bylina-lure-of-the-sorceress.json) |
 | Bylista: Vasna | 188774 | [188774-bylista-vasna.json](./188774-bylista-vasna.json) |
 | ByLo | 234721 | [234721-bylo.json](./234721-bylo.json) |
+| Byod | 140711 | [140711-byod.json](./140711-byod.json) |
 | Byouin Sodom | 59070 | [59070-byouin-sodom.json](./59070-byouin-sodom.json) |
 | Byouki na Generation: Crane Catcher no Bourei | 383043 | [383043-byouki-na-generation-crane-catcher-no-bourei.json](./383043-byouki-na-generation-crane-catcher-no-bourei.json) |
 | Byoutai Seiri DS: Image Dekiru! Shikkan, Shoujou to Care | 269672 | [269672-byoutai-seiri-ds-image-dekiru-shikkan-shoujou-to-care.json](./269672-byoutai-seiri-ds-image-dekiru-shikkan-shoujou-to-care.json) |
