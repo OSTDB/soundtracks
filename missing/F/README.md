@@ -7850,6 +7850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight of Light | 52771 | [52771-flight-of-light.json](./52771-flight-of-light.json) |
 | Flight of Pigarus | 144017 | [144017-flight-of-pigarus.json](./144017-flight-of-pigarus.json) |
 | Flight of the Amazon Queen | 8789 | [8789-flight-of-the-amazon-queen.json](./8789-flight-of-the-amazon-queen.json) |
+| Flight of the Amazon Queen: Legacy Edition | 155254 | [155254-flight-of-the-amazon-queen-legacy-edition.json](./155254-flight-of-the-amazon-queen-legacy-edition.json) |
 | Flight of the Asteroid Field | 359449 | [359449-flight-of-the-asteroid-field.json](./359449-flight-of-the-asteroid-field.json) |
 | Flight of the Athena | 76317 | [76317-flight-of-the-athena.json](./76317-flight-of-the-athena.json) |
 | Flight of the Baby Princess | 134842 | [134842-flight-of-the-baby-princess.json](./134842-flight-of-the-baby-princess.json) |
