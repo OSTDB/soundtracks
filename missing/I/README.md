@@ -69,6 +69,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Fish V | 237654 | [237654-i-am-fish-v.json](./237654-i-am-fish-v.json) |
 | I Am Fly | 166714 | [166714-i-am-fly.json](./166714-i-am-fly.json) |
 | I am Future | 204508 | [204508-i-am-future.json](./204508-i-am-future.json) |
+| I Am Gangster | 188754 | [188754-i-am-gangster.json](./188754-i-am-gangster.json) |
 | I Am Giraffe | 313176 | [313176-i-am-giraffe.json](./313176-i-am-giraffe.json) |
 | I am God of the Forestland | 82580 | [82580-i-am-god-of-the-forestland.json](./82580-i-am-god-of-the-forestland.json) |
 | I Am Going for a Beer | 360843 | [360843-i-am-going-for-a-beer.json](./360843-i-am-going-for-a-beer.json) |
@@ -3873,6 +3874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5177,6 +5179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into Sandy's Cities | 314149 | [314149-into-sandys-cities.json](./314149-into-sandys-cities.json) |
 | Into the Abyss | 159729 | [159729-into-the-abyss.json](./159729-into-the-abyss.json) |
 | Into the Abyss | 191130 | [191130-into-the-abyss.json](./191130-into-the-abyss.json) |
+| Into the Backrooms | 188730 | [188730-into-the-backrooms.json](./188730-into-the-backrooms.json) |
 | Into The Backrooms | 345753 | [345753-into-the-backrooms.json](./345753-into-the-backrooms.json) |
 | Into the Backrooms: Last Tape | 285726 | [285726-into-the-backrooms-last-tape.json](./285726-into-the-backrooms-last-tape.json) |
 | Into the Belly of the Beast | 33890 | [33890-into-the-belly-of-the-beast.json](./33890-into-the-belly-of-the-beast.json) |
