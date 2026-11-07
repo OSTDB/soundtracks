@@ -2143,6 +2143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Fear | 223004 | [223004-darkest-fear.json](./223004-darkest-fear.json) |
 | Darkest Fear 2: Grim Oak | 223005 | [223005-darkest-fear-2-grim-oak.json](./223005-darkest-fear-2-grim-oak.json) |
 | Darkest Fear 3: Nightmare | 223006 | [223006-darkest-fear-3-nightmare.json](./223006-darkest-fear-3-nightmare.json) |
+| Darkest Hour | 148107 | [148107-darkest-hour.json](./148107-darkest-hour.json) |
 | Darkest Hour: A Hearts of Iron Game | 2012 | [2012-darkest-hour-a-hearts-of-iron-game.json](./2012-darkest-hour-a-hearts-of-iron-game.json) |
 | Darkest Hunters | 115409 | [115409-darkest-hunters.json](./115409-darkest-hunters.json) |
 | Darkest Light | 294127 | [294127-darkest-light.json](./294127-darkest-light.json) |
@@ -2795,6 +2796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Andromeda: Subterfuge | 172120 | [172120-dawn-of-andromeda-subterfuge.json](./172120-dawn-of-andromeda-subterfuge.json) |
 | Dawn of Arba | 220007 | [220007-dawn-of-arba.json](./220007-dawn-of-arba.json) |
 | Dawn of China: Rise of Qin | 109372 | [109372-dawn-of-china-rise-of-qin.json](./109372-dawn-of-china-rise-of-qin.json) |
+| Dawn of Corruption | 148108 | [148108-dawn-of-corruption.json](./148108-dawn-of-corruption.json) |
 | Dawn of Dark Blood | 229210 | [229210-dawn-of-dark-blood.json](./229210-dawn-of-dark-blood.json) |
 | Dawn of Darkness | 275204 | [275204-dawn-of-darkness.json](./275204-dawn-of-darkness.json) |
 | Dawn of Decay | 322616 | [322616-dawn-of-decay.json](./322616-dawn-of-decay.json) |
@@ -16873,6 +16875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive | 366908 | [366908-drive.json](./366908-drive.json) |
 | Drive | 94414 | [94414-drive.json](./94414-drive.json) |
 | Drive 'n' Park | 132025 | [132025-drive-n-park.json](./132025-drive-n-park.json) |
+| Drive & Drift | 148110 | [148110-drive-and-drift.json](./148110-drive-and-drift.json) |
 | Drive 21 | 157501 | [157501-drive-21.json](./157501-drive-21.json) |
 | Drive 4 Survival | 139390 | [139390-drive-4-survival.json](./139390-drive-4-survival.json) |
 | Drive a Steam Train | 65894 | [65894-drive-a-steam-train.json](./65894-drive-a-steam-train.json) |
@@ -17001,6 +17004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving Speed Pro | 261946 | [261946-driving-speed-pro.json](./261946-driving-speed-pro.json) |
 | Driving Theory Training | 72620 | [72620-driving-theory-training.json](./72620-driving-theory-training.json) |
 | Driving World Collection | 283206 | [283206-driving-world-collection.json](./283206-driving-world-collection.json) |
+| Driving World: Aspen | 148096 | [148096-driving-world-aspen.json](./148096-driving-world-aspen.json) |
 | Driving World: Italian Job | 186951 | [186951-driving-world-italian-job.json](./186951-driving-world-italian-job.json) |
 | Driving World: Nordic Challenge | 147750 | [147750-driving-world-nordic-challenge.json](./147750-driving-world-nordic-challenge.json) |
 | Driving Zone 2 | 100860 | [100860-driving-zone-2.json](./100860-driving-zone-2.json) |
@@ -17448,6 +17452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drunken Wrestlers | 127803 | [127803-drunken-wrestlers.json](./127803-drunken-wrestlers.json) |
 | Drunken Wrestlers 2 | 111223 | [111223-drunken-wrestlers-2.json](./111223-drunken-wrestlers-2.json) |
 | Drunkenpants | 80934 | [80934-drunkenpants.json](./80934-drunkenpants.json) |
+| Drunki! | 148061 | [148061-drunki.json](./148061-drunki.json) |
 | DrunKing | 378399 | [378399-drunking.json](./378399-drunking.json) |
 | Drunkknight | 195689 | [195689-drunkknight.json](./195689-drunkknight.json) |
 | Drunkle Ted's Wet and Wreckless | 226819 | [226819-drunkle-teds-wet-and-wreckless.json](./226819-drunkle-teds-wet-and-wreckless.json) |
