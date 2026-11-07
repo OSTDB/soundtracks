@@ -16447,6 +16447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Tower | 235578 | [235578-project-tower.json](./235578-project-tower.json) |
 | Project Treasure | 94761 | [94761-project-treasure.json](./94761-project-treasure.json) |
 | Project Trek | 193941 | [193941-project-trek.json](./193941-project-trek.json) |
+| Project Tristars | 142563 | [142563-project-tristars.json](./142563-project-tristars.json) |
 | Project TurboBlast | 327357 | [327357-project-turboblast.json](./327357-project-turboblast.json) |
 | Project U | 283564 | [283564-project-u.json](./283564-project-u.json) |
 | Project U-Ta-Hi-Me | 133722 | [133722-project-u-ta-hi-me.json](./133722-project-u-ta-hi-me.json) |
