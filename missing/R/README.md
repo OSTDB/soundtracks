@@ -8279,6 +8279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rival Knights | 22393 | [22393-rival-knights.json](./22393-rival-knights.json) |
 | Rival Nation Wars | 115039 | [115039-rival-nation-wars.json](./115039-rival-nation-wars.json) |
 | Rival Party | 258478 | [258478-rival-party.json](./258478-rival-party.json) |
+| Rival Peak | 141364 | [141364-rival-peak.json](./141364-rival-peak.json) |
 | Rival Realms | 70472 | [70472-rival-realms.json](./70472-rival-realms.json) |
 | Rival Regions | 91082 | [91082-rival-regions.json](./91082-rival-regions.json) |
 | Rival Rides | 201608 | [201608-rival-rides.json](./201608-rival-rides.json) |
@@ -11287,6 +11288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rosenkreuzstilette Freudenstachel | 76865 | [76865-rosenkreuzstilette-freudenstachel.json](./76865-rosenkreuzstilette-freudenstachel.json) |
 | Rosepine Hotel | 390991 | [390991-rosepine-hotel.json](./390991-rosepine-hotel.json) |
 | Roses and Gems | 34359 | [34359-roses-and-gems.json](./34359-roses-and-gems.json) |
+| Roses of Love | 141360 | [141360-roses-of-love.json](./141360-roses-of-love.json) |
 | Roses Shoot Red, Violets Shoot Blue | 334167 | [334167-roses-shoot-red-violets-shoot-blue.json](./334167-roses-shoot-red-violets-shoot-blue.json) |
 | Roses Will Rise | 202903 | [202903-roses-will-rise.json](./202903-roses-will-rise.json) |
 | Roses&Heart | 104262 | [104262-roses-and-heart.json](./104262-roses-and-heart.json) |
@@ -11738,6 +11740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Wars: Farm TD | 329229 | [329229-royal-wars-farm-td.json](./329229-royal-wars-farm-td.json) |
 | Royal Watch: The Throne's Duty | 379976 | [379976-royal-watch-the-thrones-duty.json](./379976-royal-watch-the-thrones-duty.json) |
 | Royal's Gambit | 347568 | [347568-royals-gambit.json](./347568-royals-gambit.json) |
+| Royale Age: Battle of Kings | 141336 | [141336-royale-age-battle-of-kings.json](./141336-royale-age-battle-of-kings.json) |
 | Royale Archer VR | 142036 | [142036-royale-archer-vr.json](./142036-royale-archer-vr.json) |
 | Royale Battle: Warzone | 237170 | [237170-royale-battle-warzone.json](./237170-royale-battle-warzone.json) |
 | Royale Island Showdown | 167590 | [167590-royale-island-showdown.json](./167590-royale-island-showdown.json) |
