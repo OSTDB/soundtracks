@@ -4375,6 +4375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Fishing: Road Trip Adventure | 116686 | [116686-reel-fishing-road-trip-adventure.json](./116686-reel-fishing-road-trip-adventure.json) |
 | Reel Fishing: The Great Outdoors | 74717 | [74717-reel-fishing-the-great-outdoors.json](./74717-reel-fishing-the-great-outdoors.json) |
 | Reel Fishing: Wild | 45836 | [45836-reel-fishing-wild.json](./45836-reel-fishing-wild.json) |
+| Réel Futur | 161506 | [161506-reel-futur.json](./161506-reel-futur.json) |
 | Reel Gold | 263473 | [263473-reel-gold.json](./263473-reel-gold.json) |
 | Reel Greed | 401749 | [401749-reel-greed.json](./401749-reel-greed.json) |
 | Reel Horror | 386387 | [386387-reel-horror.json](./386387-reel-horror.json) |
@@ -9039,6 +9040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Female Hero 2 | 120939 | [120939-robot-female-hero-2.json](./120939-robot-female-hero-2.json) |
 | Robot Female Hero 3 | 157508 | [157508-robot-female-hero-3.json](./157508-robot-female-hero-3.json) |
 | Robot Female Hero Remastered | 313003 | [313003-robot-female-hero-remastered.json](./313003-robot-female-hero-remastered.json) |
+| Robot Fight | 161474 | [161474-robot-fight.json](./161474-robot-fight.json) |
 | Robot Fight | 274888 | [274888-robot-fight.json](./274888-robot-fight.json) |
 | Robot Fighter | 216762 | [216762-robot-fighter.json](./216762-robot-fighter.json) |
 | Robot Fighter: Epic Battles | 378407 | [378407-robot-fighter-epic-battles.json](./378407-robot-fighter-epic-battles.json) |
@@ -9659,6 +9661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockin' Night Crusade | 128777 | [128777-rockin-night-crusade.json](./128777-rockin-night-crusade.json) |
 | Rockin' Pretty | 69155 | [69155-rockin-pretty.json](./69155-rockin-pretty.json) |
 | Rockin' Rabbit | 317444 | [317444-rockin-rabbit.json](./317444-rockin-rabbit.json) |
+| Rockin' Road | 161462 | [161462-rockin-road.json](./161462-rockin-road.json) |
 | Rockin'Space | 178633 | [178633-rockinspace.json](./178633-rockinspace.json) |
 | Rocking Legend | 132357 | [132357-rocking-legend.json](./132357-rocking-legend.json) |
 | Rocking on Heaven's Door | 176479 | [176479-rocking-on-heavens-door.json](./176479-rocking-on-heavens-door.json) |
