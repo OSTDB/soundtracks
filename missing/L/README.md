@@ -1403,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Mage Survivors | 257498 | [257498-last-mage-survivors.json](./257498-last-mage-survivors.json) |
 | Last Man | 149160 | [149160-last-man.json](./149160-last-man.json) |
 | Last Man | 273462 | [273462-last-man.json](./273462-last-man.json) |
+| Last Man Kicking | 185195 | [185195-last-man-kicking.json](./185195-last-man-kicking.json) |
 | Last Man Running | 424653 | [424653-last-man-running.json](./424653-last-man-running.json) |
 | Last Man Sitting | 76091 | [76091-last-man-sitting.json](./76091-last-man-sitting.json) |
 | Last Man Standing Coop: A Doom 3 Coop Mod | 301959 | [301959-last-man-standing-coop-a-doom-3-coop-mod.json](./301959-last-man-standing-coop-a-doom-3-coop-mod.json) |
@@ -2392,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left Alive: Day One Edition | 119066 | [119066-left-alive-day-one-edition.json](./119066-left-alive-day-one-edition.json) |
 | Left Alive: Mech Edition | 111022 | [111022-left-alive-mech-edition.json](./111022-left-alive-mech-edition.json) |
 | Left Alone | 26527 | [26527-left-alone.json](./26527-left-alone.json) |
+| Left Among Dead in Space | 185190 | [185190-left-among-dead-in-space.json](./185190-left-among-dead-in-space.json) |
 | Left at Home | 241488 | [241488-left-at-home.json](./241488-left-at-home.json) |
 | Left Behind | 290729 | [290729-left-behind.json](./290729-left-behind.json) |
 | Left Behind 3: Rise of the Antichrist | 65727 | [65727-left-behind-3-rise-of-the-antichrist.json](./65727-left-behind-3-rise-of-the-antichrist.json) |
