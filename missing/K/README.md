@@ -1785,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kena: Bridge of Spirits - Premium Edition | 324768 | [324768-kena-bridge-of-spirits-premium-edition.json](./324768-kena-bridge-of-spirits-premium-edition.json) |
 | Kena: Scars of Kosmora | 389419 | [389419-kena-scars-of-kosmora.json](./389419-kena-scars-of-kosmora.json) |
 | Kenas-unarpe | 299130 | [299130-kenas-unarpe.json](./299130-kenas-unarpe.json) |
+| Kenbo | 155295 | [155295-kenbo.json](./155295-kenbo.json) |
 | Kenchana: Oath of a Magical Spear | 238756 | [238756-kenchana-oath-of-a-magical-spear.json](./238756-kenchana-oath-of-a-magical-spear.json) |
 | Kendall and Kylie | 133708 | [133708-kendall-and-kylie.json](./133708-kendall-and-kylie.json) |
 | KendamVR: Virtual Reality Kendama | 63721 | [63721-kendamvr-virtual-reality-kendama.json](./63721-kendamvr-virtual-reality-kendama.json) |
@@ -2848,7 +2849,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
