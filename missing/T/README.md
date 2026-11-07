@@ -3763,6 +3763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple and Secrets | 231773 | [231773-temple-and-secrets.json](./231773-temple-and-secrets.json) |
 | Temple Crawler | 276810 | [276810-temple-crawler.json](./276810-temple-crawler.json) |
 | Temple Dash: Jungle Adventure | 218497 | [218497-temple-dash-jungle-adventure.json](./218497-temple-dash-jungle-adventure.json) |
+| Temple Endless Runner 2 | 181970 | [181970-temple-endless-runner-2.json](./181970-temple-endless-runner-2.json) |
 | Temple Escape | 63717 | [63717-temple-escape.json](./63717-temple-escape.json) |
 | Temple Guy: Quest for Chest | 274532 | [274532-temple-guy-quest-for-chest.json](./274532-temple-guy-quest-for-chest.json) |
 | Temple Hunters | 150915 | [150915-temple-hunters.json](./150915-temple-hunters.json) |
@@ -14770,6 +14771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Parallax Effect | 28811 | [28811-the-parallax-effect.json](./28811-the-parallax-effect.json) |
 | The Parallel Worlds | 271302 | [271302-the-parallel-worlds.json](./271302-the-parallel-worlds.json) |
 | The Paranoia Complex | 69494 | [69494-the-paranoia-complex.json](./69494-the-paranoia-complex.json) |
+| The Paranormal Society | 181973 | [181973-the-paranormal-society.json](./181973-the-paranormal-society.json) |
 | The Parasites | 211638 | [211638-the-parasites.json](./211638-the-parasites.json) |
 | The Parcel | 236257 | [236257-the-parcel.json](./236257-the-parcel.json) |
 | The Parchment: For the Realm | 110691 | [110691-the-parchment-for-the-realm.json](./110691-the-parchment-for-the-realm.json) |
@@ -24293,6 +24295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toca Builders | 373243 | [373243-toca-builders.json](./373243-toca-builders.json) |
 | Toca Cars | 401919 | [401919-toca-cars.json](./401919-toca-cars.json) |
 | TOCA Championship Racing | 8000 | [8000-toca-championship-racing.json](./8000-toca-championship-racing.json) |
+| Toca Hair Salon 2 | 181967 | [181967-toca-hair-salon-2.json](./181967-toca-hair-salon-2.json) |
 | Toca Hair Salon 3 | 301546 | [301546-toca-hair-salon-3.json](./301546-toca-hair-salon-3.json) |
 | Toca Hair Salon: Christmas Gift | 351756 | [351756-toca-hair-salon-christmas-gift.json](./351756-toca-hair-salon-christmas-gift.json) |
 | Toca Kitchen | 181589 | [181589-toca-kitchen.json](./181589-toca-kitchen.json) |
@@ -27305,6 +27308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Town & Country Surf Designs II: Thrilla's Surfari | 48177 | [48177-town-and-country-surf-designs-ii-thrillas-surfari.json](./48177-town-and-country-surf-designs-ii-thrillas-surfari.json) |
 | Town & Country Surf Designs: Wood & Water Rage | 48119 | [48119-town-and-country-surf-designs-wood-and-water-rage.json](./48119-town-and-country-surf-designs-wood-and-water-rage.json) |
 | Town Adventures | 284784 | [284784-town-adventures.json](./284784-town-adventures.json) |
+| Town City | 182005 | [182005-town-city.json](./182005-town-city.json) |
 | Town Defence | 126350 | [126350-town-defence.json](./126350-town-defence.json) |
 | Town Diggers | 379060 | [379060-town-diggers.json](./379060-town-diggers.json) |
 | Town Diner | 214122 | [214122-town-diner.json](./214122-town-diner.json) |
@@ -27412,6 +27416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Box | 325235 | [325235-toy-box.json](./325235-toy-box.json) |
 | Toy Box | 423238 | [423238-toy-box.json](./423238-toy-box.json) |
 | Toy Box Metropolis | 185298 | [185298-toy-box-metropolis.json](./185298-toy-box-metropolis.json) |
+| Toy Brick Crush | 181974 | [181974-toy-brick-crush.json](./181974-toy-brick-crush.json) |
 | Toy Car Extreme Racing: RC Driver Simulator | 309082 | [309082-toy-car-extreme-racing-rc-driver-simulator.json](./309082-toy-car-extreme-racing-rc-driver-simulator.json) |
 | Toy Car Race | 391353 | [391353-toy-car-race.json](./391353-toy-car-race.json) |
 | Toy Chase | 156912 | [156912-toy-chase.json](./156912-toy-chase.json) |
@@ -27442,6 +27447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Kingdom 3 | 189897 | [189897-toy-kingdom-3.json](./189897-toy-kingdom-3.json) |
 | Toy Land Adventure | 371406 | [371406-toy-land-adventure.json](./371406-toy-land-adventure.json) |
 | Toy Monsters | 293375 | [293375-toy-monsters.json](./293375-toy-monsters.json) |
+| Toy Paradise | 181976 | [181976-toy-paradise.json](./181976-toy-paradise.json) |
 | Toy Party - Dazzling Puzzle | 87098 | [87098-toy-party-dazzling-puzzle.json](./87098-toy-party-dazzling-puzzle.json) |
 | Toy Party: Match 3 Hexa Blast! | 99920 | [99920-toy-party-match-3-hexa-blast.json](./99920-toy-party-match-3-hexa-blast.json) |
 | Toy Pop | 38037 | [38037-toy-pop.json](./38037-toy-pop.json) |
@@ -31454,6 +31460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropical Liquor | 87764 | [87764-tropical-liquor.json](./87764-tropical-liquor.json) |
 | Tropical Lost Island | 394417 | [394417-tropical-lost-island.json](./394417-tropical-lost-island.json) |
 | Tropical Lost Island | 394420 | [394420-tropical-lost-island.json](./394420-tropical-lost-island.json) |
+| Tropical Paradise: Town Island | 182013 | [182013-tropical-paradise-town-island.json](./182013-tropical-paradise-town-island.json) |
 | Tropical Princess - Makeup and Dressup Salon Game | 86855 | [86855-tropical-princess-makeup-and-dressup-salon-game.json](./86855-tropical-princess-makeup-and-dressup-salon-game.json) |
 | Tropical Resort Story | 208026 | [208026-tropical-resort-story.json](./208026-tropical-resort-story.json) |
 | Tropical Stormfront | 9442 | [9442-tropical-stormfront.json](./9442-tropical-stormfront.json) |
@@ -33055,6 +33062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Mind: Murderous Jealousy - Collector's Edition | 170197 | [170197-twin-mind-murderous-jealousy-collectors-edition.json](./170197-twin-mind-murderous-jealousy-collectors-edition.json) |
 | Twin Mind: Nobody's Here | 228076 | [228076-twin-mind-nobodys-here.json](./228076-twin-mind-nobodys-here.json) |
 | Twin Mind: Nobody's Here - Collector's Edition | 226582 | [226582-twin-mind-nobodys-here-collectors-edition.json](./226582-twin-mind-nobodys-here-collectors-edition.json) |
+| Twin Mind: Power of Love - Collector's Edition | 181998 | [181998-twin-mind-power-of-love-collectors-edition.json](./181998-twin-mind-power-of-love-collectors-edition.json) |
 | Twin Mind: The Deathly Trick | 416169 | [416169-twin-mind-the-deathly-trick.json](./416169-twin-mind-the-deathly-trick.json) |
 | Twin Mind: The Deathly Trick - Collector's Edition | 337223 | [337223-twin-mind-the-deathly-trick-collectors-edition.json](./337223-twin-mind-the-deathly-trick-collectors-edition.json) |
 | Twin Moons | 88303 | [88303-twin-moons.json](./88303-twin-moons.json) |
