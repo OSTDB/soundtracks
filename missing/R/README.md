@@ -7391,6 +7391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rift | 368036 | [368036-rift.json](./368036-rift.json) |
 | Rift | 489 | [489-rift.json](./489-rift.json) |
 | Rift Adventure | 153958 | [153958-rift-adventure.json](./153958-rift-adventure.json) |
+| Rift Blade | 192000 | [192000-rift-blade.json](./192000-rift-blade.json) |
 | Rift Breach | 232693 | [232693-rift-breach.json](./232693-rift-breach.json) |
 | Rift Coaster HD Remastered VR | 52259 | [52259-rift-coaster-hd-remastered-vr.json](./52259-rift-coaster-hd-remastered-vr.json) |
 | Rift Core | 184828 | [184828-rift-core.json](./184828-rift-core.json) |
@@ -12138,6 +12139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rules of The Mafia: Trade & Blood | 113856 | [113856-rules-of-the-mafia-trade-and-blood.json](./113856-rules-of-the-mafia-trade-and-blood.json) |
 | Rules of War | 320048 | [320048-rules-of-war.json](./320048-rules-of-war.json) |
 | Rules: Motel Horizon | 392128 | [392128-rules-motel-horizon.json](./392128-rules-motel-horizon.json) |
+| Rules: Politically Incorrect | 191978 | [191978-rules-politically-incorrect.json](./191978-rules-politically-incorrect.json) |
 | Rules! | 80537 | [80537-rules.json](./80537-rules.json) |
 | Ruling Horsestown | 357858 | [357858-ruling-horsestown.json](./357858-ruling-horsestown.json) |
 | Rulue's Iron-Fist Spring Break | 253719 | [253719-rulues-iron-fist-spring-break.json](./253719-rulues-iron-fist-spring-break.json) |
