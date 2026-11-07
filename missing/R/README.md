@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabi X Laby: Episode 2 | 56186 | [56186-rabi-x-laby-episode-2.json](./56186-rabi-x-laby-episode-2.json) |
 | Rabi X Laby: Episode 3 | 56183 | [56183-rabi-x-laby-episode-3.json](./56183-rabi-x-laby-episode-3.json) |
 | Rabi-Ribi: Cicini's Halloween! | 171360 | [171360-rabi-ribi-cicinis-halloween.json](./171360-rabi-ribi-cicinis-halloween.json) |
+| Rabi-Ribi: Cocoa Mode & Before Next Adventure | 171713 | [171713-rabi-ribi-cocoa-mode-and-before-next-adventure.json](./171713-rabi-ribi-cocoa-mode-and-before-next-adventure.json) |
 | Rabi-Ribi: Is the order a DLC? | 171637 | [171637-rabi-ribi-is-the-order-a-dlc.json](./171637-rabi-ribi-is-the-order-a-dlc.json) |
 | Rabi-Ribi: Platinum Edition DLC Pack | 324392 | [324392-rabi-ribi-platinum-edition-dlc-pack.json](./324392-rabi-ribi-platinum-edition-dlc-pack.json) |
 | Rabid Helix | 257656 | [257656-rabid-helix.json](./257656-rabid-helix.json) |
