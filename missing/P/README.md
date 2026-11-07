@@ -5786,6 +5786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phrase Master | 93332 | [93332-phrase-master.json](./93332-phrase-master.json) |
 | Phrase Party! | 95916 | [95916-phrase-party.json](./95916-phrase-party.json) |
 | Phrase Passport Japan A Travel Japanese Quiz | 407270 | [407270-phrase-passport-japan-a-travel-japanese-quiz.json](./407270-phrase-passport-japan-a-travel-japanese-quiz.json) |
+| Phrased Out | 185740 | [185740-phrased-out.json](./185740-phrased-out.json) |
 | Phrasefight | 106115 | [106115-phrasefight.json](./106115-phrasefight.json) |
 | Phraze Craze | 307911 | [307911-phraze-craze.json](./307911-phraze-craze.json) |
 | Phraze Daze: Famous Quotes Word Game | 68742 | [68742-phraze-daze-famous-quotes-word-game.json](./68742-phraze-daze-famous-quotes-word-game.json) |
@@ -6158,6 +6159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross S2 | 106275 | [106275-picross-s2.json](./106275-picross-s2.json) |
 | Picross S3 | 117501 | [117501-picross-s3.json](./117501-picross-s3.json) |
 | Picross S4 | 132828 | [132828-picross-s4.json](./132828-picross-s4.json) |
+| Picross S7 | 185788 | [185788-picross-s7.json](./185788-picross-s7.json) |
 | Picross S8 | 219032 | [219032-picross-s8.json](./219032-picross-s8.json) |
 | Picross Touch | 32580 | [32580-picross-touch.json](./32580-picross-touch.json) |
 | Picross X: Picbits vs. Uzboross | 210672 | [210672-picross-x-picbits-vs-uzboross.json](./210672-picross-x-picbits-vs-uzboross.json) |
@@ -15707,6 +15709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Blur | 372086 | [372086-project-blur.json](./372086-project-blur.json) |
 | Project Bob | 293013 | [293013-project-bob.json](./293013-project-bob.json) |
 | Project Bonsai | 247920 | [247920-project-bonsai.json](./247920-project-bonsai.json) |
+| Project Bore | 185784 | [185784-project-bore.json](./185784-project-bore.json) |
 | Project Borealis: Prologue | 321863 | [321863-project-borealis-prologue.json](./321863-project-borealis-prologue.json) |
 | Project Box | 124399 | [124399-project-box.json](./124399-project-box.json) |
 | Project Breach Online | 208965 | [208965-project-breach-online.json](./208965-project-breach-online.json) |
