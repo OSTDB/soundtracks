@@ -7514,6 +7514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flash Memory | 230692 | [230692-flash-memory.json](./230692-flash-memory.json) |
 | Flash Motor Karen | 58570 | [58570-flash-motor-karen.json](./58570-flash-motor-karen.json) |
 | Flash of the Blade X | 282527 | [282527-flash-of-the-blade-x.json](./282527-flash-of-the-blade-x.json) |
+| Flash Party | 162519 | [162519-flash-party.json](./162519-flash-party.json) |
 | Flash Party: 2023 Hero Pack | 295122 | [295122-flash-party-2023-hero-pack.json](./295122-flash-party-2023-hero-pack.json) |
 | Flash Point | 114159 | [114159-flash-point.json](./114159-flash-point.json) |
 | Flash Point | 46793 | [46793-flash-point.json](./46793-flash-point.json) |
