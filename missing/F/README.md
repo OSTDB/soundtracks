@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 2019: Legends Edition | 125192 | [125192-f1-2019-legends-edition.json](./125192-f1-2019-legends-edition.json) |
 | F1 2020 | 132205 | [132205-f1-2020.json](./132205-f1-2020.json) |
 | F1 2021 | 145838 | [145838-f1-2021.json](./145838-f1-2021.json) |
+| F1 2021: Deluxe Edition | 154715 | [154715-f1-2021-deluxe-edition.json](./154715-f1-2021-deluxe-edition.json) |
 | F1 22: Champions Content Bundle | 226843 | [226843-f1-22-champions-content-bundle.json](./226843-f1-22-champions-content-bundle.json) |
 | F1 22: Champions Edition | 198261 | [198261-f1-22-champions-edition.json](./198261-f1-22-champions-edition.json) |
 | F1 23: Champions Edition | 248192 | [248192-f1-23-champions-edition.json](./248192-f1-23-champions-edition.json) |
@@ -3498,6 +3499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fe | 19525 | [19525-fe.json](./19525-fe.json) |
 | Fealty | 175213 | [175213-fealty.json](./175213-fealty.json) |
 | Fealty | 195559 | [195559-fealty.json](./195559-fealty.json) |
+| Fear | 154699 | [154699-fear.json](./154699-fear.json) |
 | Fear & Fury | 238716 | [238716-fear-and-fury.json](./238716-fear-and-fury.json) |
 | Fear & Hope | 292415 | [292415-fear-and-hope.json](./292415-fear-and-hope.json) |
 | Fear & Hunger | 114110 | [114110-fear-and-hunger.json](./114110-fear-and-hunger.json) |
@@ -9512,14 +9514,26 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Prince Yi – Tiandi Hero Skin | 408968 | [408968-for-honor-prince-yi-tiandi-hero-skin.json](./408968-for-honor-prince-yi-tiandi-hero-skin.json) |
 | For Honor: Queen Kalliopi Gladiator Hero Skin | 367114 | [367114-for-honor-queen-kalliopi-gladiator-hero-skin.json](./367114-for-honor-queen-kalliopi-gladiator-hero-skin.json) |
 | For Honor: Raider Hero Skin | 227315 | [227315-for-honor-raider-hero-skin.json](./227315-for-honor-raider-hero-skin.json) |
+| For Honor: Season 10 - Sakura | 154723 | [154723-for-honor-season-10-sakura.json](./154723-for-honor-season-10-sakura.json) |
+| For Honor: Season 11 - Hulda | 154724 | [154724-for-honor-season-11-hulda.json](./154724-for-honor-season-11-hulda.json) |
+| For Honor: Season 12 - Sun Da | 154725 | [154725-for-honor-season-12-sun-da.json](./154725-for-honor-season-12-sun-da.json) |
+| For Honor: Season 13 - Hope | 154734 | [154734-for-honor-season-13-hope.json](./154734-for-honor-season-13-hope.json) |
+| For Honor: Season 14 - Tyranny | 154735 | [154735-for-honor-season-14-tyranny.json](./154735-for-honor-season-14-tyranny.json) |
 | For Honor: Season 15 - Resistance | 154736 | [154736-for-honor-season-15-resistance.json](./154736-for-honor-season-15-resistance.json) |
 | For Honor: Season 16 - Mayhem | 154739 | [154739-for-honor-season-16-mayhem.json](./154739-for-honor-season-16-mayhem.json) |
 | For Honor: Season 17 - Asunder | 154740 | [154740-for-honor-season-17-asunder.json](./154740-for-honor-season-17-asunder.json) |
 | For Honor: Season 18 - Mirage | 154741 | [154741-for-honor-season-18-mirage.json](./154741-for-honor-season-18-mirage.json) |
 | For Honor: Season 19 - Tempest | 183116 | [183116-for-honor-season-19-tempest.json](./183116-for-honor-season-19-tempest.json) |
+| For Honor: Season 2 - Shadow and Might | 154716 | [154716-for-honor-season-2-shadow-and-might.json](./154716-for-honor-season-2-shadow-and-might.json) |
 | For Honor: Season 22 - Curse of the Scarab | 217523 | [217523-for-honor-season-22-curse-of-the-scarab.json](./217523-for-honor-season-22-curse-of-the-scarab.json) |
 | For Honor: Season 23 - The Demon Dagger | 217524 | [217524-for-honor-season-23-the-demon-dagger.json](./217524-for-honor-season-23-the-demon-dagger.json) |
+| For Honor: Season 3 - Grudge & Glory | 154717 | [154717-for-honor-season-3-grudge-and-glory.json](./154717-for-honor-season-3-grudge-and-glory.json) |
+| For Honor: Season 4 - Order & Havoc | 154718 | [154718-for-honor-season-4-order-and-havoc.json](./154718-for-honor-season-4-order-and-havoc.json) |
+| For Honor: Season 5 - Age of Wolves | 154719 | [154719-for-honor-season-5-age-of-wolves.json](./154719-for-honor-season-5-age-of-wolves.json) |
+| For Honor: Season 6 - Hero's March | 154720 | [154720-for-honor-season-6-heros-march.json](./154720-for-honor-season-6-heros-march.json) |
+| For Honor: Season 7 - Storm and Fury | 154721 | [154721-for-honor-season-7-storm-and-fury.json](./154721-for-honor-season-7-storm-and-fury.json) |
 | For Honor: Season 8 - Marching Fire | 103318 | [103318-for-honor-season-8-marching-fire.json](./103318-for-honor-season-8-marching-fire.json) |
+| For Honor: Season 9 - Vortiger | 154722 | [154722-for-honor-season-9-vortiger.json](./154722-for-honor-season-9-vortiger.json) |
 | For Honor: Sohei - Hero | 367110 | [367110-for-honor-sohei-hero.json](./367110-for-honor-sohei-hero.json) |
 | For Honor: Starter Edition | 216232 | [216232-for-honor-starter-edition.json](./216232-for-honor-starter-edition.json) |
 | For Honor: The Crucible Lord – Centurion Hero Skin | 360851 | [360851-for-honor-the-crucible-lord-centurion-hero-skin.json](./360851-for-honor-the-crucible-lord-centurion-hero-skin.json) |
