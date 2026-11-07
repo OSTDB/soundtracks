@@ -2110,6 +2110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vigil | 185032 | [185032-vigil.json](./185032-vigil.json) |
 | Vigil in the Mist | 409755 | [409755-vigil-in-the-mist.json](./409755-vigil-in-the-mist.json) |
 | Vigil of Glory - Part I | 130255 | [130255-vigil-of-glory-part-i.json](./130255-vigil-of-glory-part-i.json) |
+| Vigil RPG | 175491 | [175491-vigil-rpg.json](./175491-vigil-rpg.json) |
 | Vigil: Blood Bitterness | 15625 | [15625-vigil-blood-bitterness.json](./15625-vigil-blood-bitterness.json) |
 | Vigilance | 93480 | [93480-vigilance.json](./93480-vigilance.json) |
 | Vigilance 2099 | 168541 | [168541-vigilance-2099.json](./168541-vigilance-2099.json) |
@@ -2701,6 +2702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual High School Life Sim | 296740 | [296740-virtual-high-school-life-sim.json](./296740-virtual-high-school-life-sim.json) |
 | Virtual Hiryu Ver. 1.5 | 351534 | [351534-virtual-hiryu-ver-1-5.json](./351534-virtual-hiryu-ver-1-5.json) |
 | Virtual Hiryuu no Ken | 61162 | [61162-virtual-hiryuu-no-ken.json](./61162-virtual-hiryuu-no-ken.json) |
+| Virtual Horse Racing 3D | 175464 | [175464-virtual-horse-racing-3d.json](./175464-virtual-horse-racing-3d.json) |
 | Virtual Horse Ranch II | 73250 | [73250-virtual-horse-ranch-ii.json](./73250-virtual-horse-ranch-ii.json) |
 | Virtual Hunter | 173207 | [173207-virtual-hunter.json](./173207-virtual-hunter.json) |
 | Virtual Hunting Experience | 200406 | [200406-virtual-hunting-experience.json](./200406-virtual-hunting-experience.json) |
