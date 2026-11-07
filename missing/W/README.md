@@ -2834,6 +2834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are OFK | 152177 | [152177-we-are-ofk.json](./152177-we-are-ofk.json) |
 | We Are One | 200815 | [200815-we-are-one.json](./200815-we-are-one.json) |
 | We Are Only Moving Towards Each Other | 299117 | [299117-we-are-only-moving-towards-each-other.json](./299117-we-are-only-moving-towards-each-other.json) |
+| We Are Open | 151332 | [151332-we-are-open.json](./151332-we-are-open.json) |
 | We Are Out of Food, Milton. | 250323 | [250323-we-are-out-of-food-milton.json](./250323-we-are-out-of-food-milton.json) |
 | We Are Poems | 243833 | [243833-we-are-poems.json](./243833-we-are-poems.json) |
 | We Are Prophet | 400864 | [400864-we-are-prophet.json](./400864-we-are-prophet.json) |
@@ -3855,6 +3856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What the Hell | 263096 | [263096-what-the-hell.json](./263096-what-the-hell.json) |
 | What the hen! | 120244 | [120244-what-the-hen.json](./120244-what-the-hen.json) |
 | What the Luck? | 382857 | [382857-what-the-luck.json](./382857-what-the-luck.json) |
+| What the Maze | 151369 | [151369-what-the-maze.json](./151369-what-the-maze.json) |
 | What The Pak?! | 292350 | [292350-what-the-pak.json](./292350-what-the-pak.json) |
 | What the Pho: restaurant startup stories | 132799 | [132799-what-the-pho-restaurant-startup-stories.json](./132799-what-the-pho-restaurant-startup-stories.json) |
 | What the Stars Forgot | 375983 | [375983-what-the-stars-forgot.json](./375983-what-the-stars-forgot.json) |
@@ -3898,6 +3900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What's Inside?? | 149467 | [149467-whats-inside.json](./149467-whats-inside.json) |
 | What's it? Flags | 241194 | [241194-whats-it-flags.json](./241194-whats-it-flags.json) |
 | What's Left | 126209 | [126209-whats-left.json](./126209-whats-left.json) |
+| What's Left Behind | 151354 | [151354-whats-left-behind.json](./151354-whats-left-behind.json) |
 | What's left of Rave Rough | 316468 | [316468-whats-left-of-rave-rough.json](./316468-whats-left-of-rave-rough.json) |
 | What's Michael? | 91763 | [91763-whats-michael.json](./91763-whats-michael.json) |
 | What's Missing? | 204981 | [204981-whats-missing.json](./204981-whats-missing.json) |
@@ -7124,6 +7127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woman Guerrillero | 298516 | [298516-woman-guerrillero.json](./298516-woman-guerrillero.json) |
 | Woman Simulator | 378548 | [378548-woman-simulator.json](./378548-woman-simulator.json) |
 | Woman's Body | 112458 | [112458-womans-body.json](./112458-womans-body.json) |
+| Woman's Prison | 151343 | [151343-womans-prison.json](./151343-womans-prison.json) |
 | Womanizer | 274688 | [274688-womanizer.json](./274688-womanizer.json) |
 | Womb | 262595 | [262595-womb.json](./262595-womb.json) |
 | Womb Defense Force | 311575 | [311575-womb-defense-force.json](./311575-womb-defense-force.json) |
@@ -8055,6 +8059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World End | 40746 | [40746-world-end.json](./40746-world-end.json) |
 | World End Coed | 159763 | [159763-world-end-coed.json](./159763-world-end-coed.json) |
 | World End Diner | 152715 | [152715-world-end-diner.json](./152715-world-end-diner.json) |
+| World End Echo | 151356 | [151356-world-end-echo.json](./151356-world-end-echo.json) |
 | World End Economica | 23438 | [23438-world-end-economica.json](./23438-world-end-economica.json) |
 | World End Economica Complete | 145966 | [145966-world-end-economica-complete.json](./145966-world-end-economica-complete.json) |
 | World End Economica: Episode.02 | 35327 | [35327-world-end-economica-episode-02.json](./35327-world-end-economica-episode-02.json) |
