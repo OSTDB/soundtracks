@@ -3562,6 +3562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get the Heck Out | 248347 | [248347-get-the-heck-out.json](./248347-get-the-heck-out.json) |
 | Get Them Boats: Orca Revenge | 261930 | [261930-get-them-boats-orca-revenge.json](./261930-get-them-boats-orca-revenge.json) |
 | Get Them To Safety | 374053 | [374053-get-them-to-safety.json](./374053-get-them-to-safety.json) |
+| Get Those Bugs | 191953 | [191953-get-those-bugs.json](./191953-get-those-bugs.json) |
 | Get Tilted! :) | 304819 | [304819-get-tilted.json](./304819-get-tilted.json) |
 | Get to a Gun | 110511 | [110511-get-to-a-gun.json](./110511-get-to-a-gun.json) |
 | Get to Amkonius | 74185 | [74185-get-to-amkonius.json](./74185-get-to-amkonius.json) |
@@ -11149,6 +11150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns and Lords | 196537 | [196537-guns-and-lords.json](./196537-guns-and-lords.json) |
 | Guns and Nuns: Storming Hell | 381085 | [381085-guns-and-nuns-storming-hell.json](./381085-guns-and-nuns-storming-hell.json) |
 | Guns and Robots | 10384 | [10384-guns-and-robots.json](./10384-guns-and-robots.json) |
+| Guns and Roses | 191970 | [191970-guns-and-roses.json](./191970-guns-and-roses.json) |
 | Guns and Spookies | 348151 | [348151-guns-and-spookies.json](./348151-guns-and-spookies.json) |
 | Guns and Spurs | 50372 | [50372-guns-and-spurs.json](./50372-guns-and-spurs.json) |
 | Guns and Spurs 2 | 174869 | [174869-guns-and-spurs-2.json](./174869-guns-and-spurs-2.json) |
