@@ -2148,6 +2148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Tower Defense | 357834 | [357834-fantasy-tower-defense.json](./357834-fantasy-tower-defense.json) |
 | Fantasy Tower Defense Ultimate | 289764 | [289764-fantasy-tower-defense-ultimate.json](./289764-fantasy-tower-defense-ultimate.json) |
 | Fantasy Town | 206450 | [206450-fantasy-town.json](./206450-fantasy-town.json) |
+| Fantasy Town Regional Manager | 165246 | [165246-fantasy-town-regional-manager.json](./165246-fantasy-town-regional-manager.json) |
 | Fantasy Trader | 338749 | [338749-fantasy-trader.json](./338749-fantasy-trader.json) |
 | Fantasy Triple Mahjong | 216416 | [216416-fantasy-triple-mahjong.json](./216416-fantasy-triple-mahjong.json) |
 | Fantasy Up | 259286 | [259286-fantasy-up.json](./259286-fantasy-up.json) |
@@ -6221,6 +6222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fires At Midnight | 133350 | [133350-fires-at-midnight.json](./133350-fires-at-midnight.json) |
 | Firescape | 342731 | [342731-firescape.json](./342731-firescape.json) |
 | Firescout | 142874 | [142874-firescout.json](./142874-firescout.json) |
+| Fireside | 165273 | [165273-fireside.json](./165273-fireside.json) |
 | Fireside Fables | 354895 | [354895-fireside-fables.json](./354895-fireside-fables.json) |
 | Fireside Feelings | 345597 | [345597-fireside-feelings.json](./345597-fireside-feelings.json) |
 | Fireside Hero | 191854 | [191854-fireside-hero.json](./191854-fireside-hero.json) |
