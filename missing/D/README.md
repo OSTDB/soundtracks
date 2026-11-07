@@ -7084,6 +7084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descension | 352183 | [352183-descension.json](./352183-descension.json) |
 | Descensus | 291499 | [291499-descensus.json](./291499-descensus.json) |
 | Descent | 110983 | [110983-descent.json](./110983-descent.json) |
+| Descent | 180904 | [180904-descent.json](./180904-descent.json) |
 | Descent | 201122 | [201122-descent.json](./201122-descent.json) |
 | Descent | 242692 | [242692-descent.json](./242692-descent.json) |
 | Descent | 282010 | [282010-descent.json](./282010-descent.json) |
@@ -10179,6 +10180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discouraged Workers: Teen Version | 33792 | [33792-discouraged-workers-teen-version.json](./33792-discouraged-workers-teen-version.json) |
 | Discover girl | 158395 | [158395-discover-girl.json](./158395-discover-girl.json) |
 | Discover My Body | 153577 | [153577-discover-my-body.json](./153577-discover-my-body.json) |
+| Discover Our Bodies | 180896 | [180896-discover-our-bodies.json](./180896-discover-our-bodies.json) |
 | Discover the Dinosaurs | 384484 | [384484-discover-the-dinosaurs.json](./384484-discover-the-dinosaurs.json) |
 | Discover the Ocean | 229220 | [229220-discover-the-ocean.json](./229220-discover-the-ocean.json) |
 | Discover The World | 375321 | [375321-discover-the-world.json](./375321-discover-the-world.json) |
@@ -10941,6 +10943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diver Dash | 241872 | [241872-diver-dash.json](./241872-diver-dash.json) |
 | Diver Dogs | 252323 | [252323-diver-dogs.json](./252323-diver-dogs.json) |
 | Diver Down | 104988 | [104988-diver-down.json](./104988-diver-down.json) |
+| Diver Down | 180888 | [180888-diver-down.json](./180888-diver-down.json) |
 | Diver Down | 334030 | [334030-diver-down.json](./334030-diver-down.json) |
 | Diver, Catch & Cook Simulator | 386212 | [386212-diver-catch-and-cook-simulator.json](./386212-diver-catch-and-cook-simulator.json) |
 | Diver: Deep Water Adventures | 63282 | [63282-diver-deep-water-adventures.json](./63282-diver-deep-water-adventures.json) |
@@ -13515,6 +13518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemontchi | 229868 | [229868-doraemontchi.json](./229868-doraemontchi.json) |
 | Doraijin | 129674 | [129674-doraijin.json](./129674-doraijin.json) |
 | DoraKone | 116849 | [116849-dorakone.json](./116849-dorakone.json) |
+| Doraleous & Associates: The Video Game | 180905 | [180905-doraleous-and-associates-the-video-game.json](./180905-doraleous-and-associates-the-video-game.json) |
 | Doramitchi | 229869 | [229869-doramitchi.json](./229869-doramitchi.json) |
 | DoraMoji: Nobita no Kanji Daisakusen | 222467 | [222467-doramoji-nobita-no-kanji-daisakusen.json](./222467-doramoji-nobita-no-kanji-daisakusen.json) |
 | Dorapan | 66753 | [66753-dorapan.json](./66753-dorapan.json) |
