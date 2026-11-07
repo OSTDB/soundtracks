@@ -19251,6 +19251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sovereign's Will | 129035 | [129035-sovereigns-will.json](./129035-sovereigns-will.json) |
 | Soviet | 93441 | [93441-soviet.json](./93441-soviet.json) |
 | Soviet Anomaly 7 | 304506 | [304506-soviet-anomaly-7.json](./304506-soviet-anomaly-7.json) |
+| Soviet Arcade Machine Basketball | 168468 | [168468-soviet-arcade-machine-basketball.json](./168468-soviet-arcade-machine-basketball.json) |
 | Soviet Bear Uni Adventure | 125094 | [125094-soviet-bear-uni-adventure.json](./125094-soviet-bear-uni-adventure.json) |
 | Soviet Challenge: Javelin 1980 | 174329 | [174329-soviet-challenge-javelin-1980.json](./174329-soviet-challenge-javelin-1980.json) |
 | Soviet City | 19866 | [19866-soviet-city.json](./19866-soviet-city.json) |
@@ -25903,6 +25904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starward | 301139 | [301139-starward.json](./301139-starward.json) |
 | Starward Rogue + Moonshine Inc.: Galactic Spirit Bundle | 286971 | [286971-starward-rogue-moonshine-inc-galactic-spirit-bundle.json](./286971-starward-rogue-moonshine-inc-galactic-spirit-bundle.json) |
 | Starward Rogue + Moonshine Inc.: Galactic Spirit Deluxe Bundle | 286970 | [286970-starward-rogue-moonshine-inc-galactic-spirit-deluxe-bundle.json](./286970-starward-rogue-moonshine-inc-galactic-spirit-deluxe-bundle.json) |
+| Starward Rogue: Augmented | 168473 | [168473-starward-rogue-augmented.json](./168473-starward-rogue-augmented.json) |
 | Starward Rogue: Complete Edition | 283159 | [283159-starward-rogue-complete-edition.json](./283159-starward-rogue-complete-edition.json) |
 | Starwatchers: The Search for Cosmic Jam | 178923 | [178923-starwatchers-the-search-for-cosmic-jam.json](./178923-starwatchers-the-search-for-cosmic-jam.json) |
 | Starwave | 306943 | [306943-starwave.json](./306943-starwave.json) |
@@ -26485,8 +26487,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steep Slopes | 158167 | [158167-steep-slopes.json](./158167-steep-slopes.json) |
 | Steep Town | 262305 | [262305-steep-town.json](./262305-steep-town.json) |
 | Steep X Games: Gold Edition | 164854 | [164854-steep-x-games-gold-edition.json](./164854-steep-x-games-gold-edition.json) |
+| Steep: Extreme Pack | 168476 | [168476-steep-extreme-pack.json](./168476-steep-extreme-pack.json) |
 | Steep: Gold Edition | 53668 | [53668-steep-gold-edition.json](./53668-steep-gold-edition.json) |
+| Steep: Rocket Wings DLC | 168475 | [168475-steep-rocket-wings-dlc.json](./168475-steep-rocket-wings-dlc.json) |
 | Steep: Winter Games Edition | 83776 | [83776-steep-winter-games-edition.json](./83776-steep-winter-games-edition.json) |
+| Steep: Winterfest Pack | 168474 | [168474-steep-winterfest-pack.json](./168474-steep-winterfest-pack.json) |
 | Steep: X Games Pack | 251643 | [251643-steep-x-games-pack.json](./251643-steep-x-games-pack.json) |
 | Steeple Chase | 40693 | [40693-steeple-chase.json](./40693-steeple-chase.json) |
 | Steeplechase | 18204 | [18204-steeplechase.json](./18204-steeplechase.json) |
