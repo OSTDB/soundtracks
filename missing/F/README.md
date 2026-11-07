@@ -13033,6 +13033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruit Splash Mania | 359218 | [359218-fruit-splash-mania.json](./359218-fruit-splash-mania.json) |
 | Fruit Stand Fortune | 330980 | [330980-fruit-stand-fortune.json](./330980-fruit-stand-fortune.json) |
 | Fruit Strike! | 277439 | [277439-fruit-strike.json](./277439-fruit-strike.json) |
+| Fruit Sudoku | 156810 | [156810-fruit-sudoku.json](./156810-fruit-sudoku.json) |
 | Fruit Sudoku | 334750 | [334750-fruit-sudoku.json](./334750-fruit-sudoku.json) |
 | Fruit Switch | 265599 | [265599-fruit-switch.json](./265599-fruit-switch.json) |
 | Fruit Thieves | 183548 | [183548-fruit-thieves.json](./183548-fruit-thieves.json) |
@@ -14052,6 +14053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futanari Girls 3D | 368125 | [368125-futanari-girls-3d.json](./368125-futanari-girls-3d.json) |
 | Futanari Have a Heart Too | 384722 | [384722-futanari-have-a-heart-too.json](./384722-futanari-have-a-heart-too.json) |
 | Futanari Jigsaw Puzzle | 212728 | [212728-futanari-jigsaw-puzzle.json](./212728-futanari-jigsaw-puzzle.json) |
+| Futanari of the Amazon | 156778 | [156778-futanari-of-the-amazon.json](./156778-futanari-of-the-amazon.json) |
 | Futanari Quest | 99592 | [99592-futanari-quest.json](./99592-futanari-quest.json) |
 | Futanari Sex | 417816 | [417816-futanari-sex.json](./417816-futanari-sex.json) |
 | Futanari Sex - The New Boss | 202534 | [202534-futanari-sex-the-new-boss.json](./202534-futanari-sex-the-new-boss.json) |
