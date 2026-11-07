@@ -1324,6 +1324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Game of the Decade 2019 | 229630 | [229630-last-game-of-the-decade-2019.json](./229630-last-game-of-the-decade-2019.json) |
 | Last Gang Standing | 159843 | [159843-last-gang-standing.json](./159843-last-gang-standing.json) |
 | Last Gary | 188739 | [188739-last-gary.json](./188739-last-gary.json) |
+| Last Generation: Survival | 155817 | [155817-last-generation-survival.json](./155817-last-generation-survival.json) |
 | Last Genesis | 175851 | [175851-last-genesis.json](./175851-last-genesis.json) |
 | Last Gleam | 182073 | [182073-last-gleam.json](./182073-last-gleam.json) |
 | Last God's Bidding | 272956 | [272956-last-gods-bidding.json](./272956-last-gods-bidding.json) |
@@ -5900,6 +5901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Brick Out | 56411 | [56411-little-brick-out.json](./56411-little-brick-out.json) |
 | Little Britain: The Video Game | 8557 | [8557-little-britain-the-video-game.json](./8557-little-britain-the-video-game.json) |
 | Little Brother Jim | 121056 | [121056-little-brother-jim.json](./121056-little-brother-jim.json) |
+| Little Brother's Turn | 155814 | [155814-little-brothers-turn.json](./155814-little-brothers-turn.json) |
 | Little Buddy | 384329 | [384329-little-buddy.json](./384329-little-buddy.json) |
 | Little Bug | 28318 | [28318-little-bug.json](./28318-little-bug.json) |
 | Little Bunny | 380619 | [380619-little-bunny.json](./380619-little-bunny.json) |
