@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Namco History Vol. 4 | 220250 | [220250-namco-history-vol-4.json](./220250-namco-history-vol-4.json) |
 | Namco Logic | 343342 | [343342-namco-logic.json](./343342-namco-logic.json) |
 | Namco Museum | 131507 | [131507-namco-museum.json](./131507-namco-museum.json) |
+| Namco Museum | 177623 | [177623-namco-museum.json](./177623-namco-museum.json) |
 | Namco Museum | 28445 | [28445-namco-museum.json](./28445-namco-museum.json) |
 | Namco Museum | 85608 | [85608-namco-museum.json](./85608-namco-museum.json) |
 | Namco Museum 50th Anniversary | 202112 | [202112-namco-museum-50th-anniversary.json](./202112-namco-museum-50th-anniversary.json) |
@@ -2989,6 +2990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neutralized: Dark moon | 368680 | [368680-neutralized-dark-moon.json](./368680-neutralized-dark-moon.json) |
 | Neutrino | 212826 | [212826-neutrino.json](./212826-neutrino.json) |
 | Neutrois | 183580 | [183580-neutrois.json](./183580-neutrois.json) |
+| Neutron | 177665 | [177665-neutron.json](./177665-neutron.json) |
 | Neutron and the Tri-Spark | 166635 | [166635-neutron-and-the-tri-spark.json](./166635-neutron-and-the-tri-spark.json) |
 | Neutron Base: The Arrival | 272133 | [272133-neutron-base-the-arrival.json](./272133-neutron-base-the-arrival.json) |
 | Neutron Star | 41562 | [41562-neutron-star.json](./41562-neutron-star.json) |
