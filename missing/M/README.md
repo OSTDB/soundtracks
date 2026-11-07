@@ -37,6 +37,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.A.D. Cows and D.U.M.B. Ducks Bundle | 331533 | [331533-m-a-d-cows-and-d-u-m-b-ducks-bundle.json](./331533-m-a-d-cows-and-d-u-m-b-ducks-bundle.json) |
 | M.A.I.D.s | 148360 | [148360-m-a-i-d-s.json](./148360-m-a-i-d-s.json) |
 | M.A.L.M.O: Scorched Earth | 358346 | [358346-m-a-l-m-o-scorched-earth.json](./358346-m-a-l-m-o-scorched-earth.json) |
+| M.A.R.S. | 141374 | [141374-m-a-r-s.json](./141374-m-a-r-s.json) |
 | M.A.R.S.S | 148230 | [148230-m-a-r-s-s.json](./148230-m-a-r-s-s.json) |
 | M.A.S.S. Builder | 78063 | [78063-m-a-s-s-builder.json](./78063-m-a-s-s-builder.json) |
 | M.A.T | 47018 | [47018-m-a-t.json](./47018-m-a-t.json) |
@@ -10542,6 +10543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mice Crisis | 386900 | [386900-mice-crisis.json](./386900-mice-crisis.json) |
 | Mice Tea | 223528 | [223528-mice-tea.json](./223528-mice-tea.json) |
 | Micegard | 250492 | [250492-micegard.json](./250492-micegard.json) |
+| Micetopia | 141343 | [141343-micetopia.json](./141343-micetopia.json) |
 | Michael Andretti's Indy Car Challenge | 42496 | [42496-michael-andrettis-indy-car-challenge.json](./42496-michael-andrettis-indy-car-challenge.json) |
 | Michael Andretti's World GP | 48279 | [48279-michael-andrettis-world-gp.json](./48279-michael-andrettis-world-gp.json) |
 | Michael English Daibouken | 41292 | [41292-michael-english-daibouken.json](./41292-michael-english-daibouken.json) |
@@ -13972,6 +13974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Missing Coordinates | 308272 | [308272-missing-coordinates.json](./308272-missing-coordinates.json) |
 | Missing Critters | 249903 | [249903-missing-critters.json](./249903-missing-critters.json) |
 | Missing Dots Matrix | 94702 | [94702-missing-dots-matrix.json](./94702-missing-dots-matrix.json) |
+| Missing Features: 2D | 141331 | [141331-missing-features-2d.json](./141331-missing-features-2d.json) |
 | Missing Friend: Icky Mr Fox | 299262 | [299262-missing-friend-icky-mr-fox.json](./299262-missing-friend-icky-mr-fox.json) |
 | Missing Hearts: Crimson Cruise | 416625 | [416625-missing-hearts-crimson-cruise.json](./416625-missing-hearts-crimson-cruise.json) |
 | Missing Hearts: Сrimson Cruise - Collector's Edition | 362590 | [362590-missing-hearts-rimson-cruise-collectors-edition.json](./362590-missing-hearts-rimson-cruise-collectors-edition.json) |
@@ -17299,6 +17302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morkull: Ascend to the Gods | 390674 | [390674-morkull-ascend-to-the-gods.json](./390674-morkull-ascend-to-the-gods.json) |
 | Morkull: Ragast's Rage - Collector's Edition | 324770 | [324770-morkull-ragasts-rage-collectors-edition.json](./324770-morkull-ragasts-rage-collectors-edition.json) |
 | Morky | 125619 | [125619-morky.json](./125619-morky.json) |
+| Morlequariat: The Final Chronicle of the House of Plifk | 141361 | [141361-morlequariat-the-final-chronicle-of-the-house-of-plifk.json](./141361-morlequariat-the-final-chronicle-of-the-house-of-plifk.json) |
 | Morlush | 203563 | [203563-morlush.json](./203563-morlush.json) |
 | Mormonoids From The Deep | 246414 | [246414-mormonoids-from-the-deep.json](./246414-mormonoids-from-the-deep.json) |
 | Morn | 292313 | [292313-morn.json](./292313-morn.json) |
@@ -19069,6 +19073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mrs. Estacion | 375347 | [375347-mrs-estacion.json](./375347-mrs-estacion.json) |
 | Mrs. Fantastic's Freaky Figurine Shop | 166702 | [166702-mrs-fantastics-freaky-figurine-shop.json](./166702-mrs-fantastics-freaky-figurine-shop.json) |
 | Mrs. Mopp | 354578 | [354578-mrs-mopp.json](./354578-mrs-mopp.json) |
+| Mrs. Santa's Gift Hunt | 141358 | [141358-mrs-santas-gift-hunt.json](./141358-mrs-santas-gift-hunt.json) |
 | Mrs.Cat Between Worlds | 231032 | [231032-mrs-cat-between-worlds.json](./231032-mrs-cat-between-worlds.json) |
 | Mrs.Cat In Mars | 154885 | [154885-mrs-cat-in-mars.json](./154885-mrs-cat-in-mars.json) |
 | MrToilet | 401824 | [401824-mrtoilet.json](./401824-mrtoilet.json) |
