@@ -2610,6 +2610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joker w Coat Physics | 342188 | [342188-joker-w-coat-physics.json](./342188-joker-w-coat-physics.json) |
 | Joker's Knock | 422671 | [422671-jokers-knock.json](./422671-jokers-knock.json) |
 | Joking Hazard | 340819 | [340819-joking-hazard.json](./340819-joking-hazard.json) |
+| Jokull | 184149 | [184149-jokull.json](./184149-jokull.json) |
 | Jollibae | 355173 | [355173-jollibae.json](./355173-jollibae.json) |
 | Jollibee's: Phase 1 | 185847 | [185847-jollibees-phase-1.json](./185847-jollibees-phase-1.json) |
 | Jollibee's: Phase 2 | 185848 | [185848-jollibees-phase-2.json](./185848-jollibees-phase-2.json) |
