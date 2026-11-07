@@ -1698,6 +1698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laughing to Die | 267571 | [267571-laughing-to-die.json](./267571-laughing-to-die.json) |
 | Laughingstock Apocalypse Redux | 364491 | [364491-laughingstock-apocalypse-redux.json](./364491-laughingstock-apocalypse-redux.json) |
 | LaughterLost | 303622 | [303622-laughterlost.json](./303622-laughterlost.json) |
+| Laugsh! | 190814 | [190814-laugsh.json](./190814-laugsh.json) |
 | Launch & Loot | 340902 | [340902-launch-and-loot.json](./340902-launch-and-loot.json) |
 | Launch & Merge : Hexa Puzzle | 100014 | [100014-launch-and-merge-hexa-puzzle.json](./100014-launch-and-merge-hexa-puzzle.json) |
 | Launch Ball | 369744 | [369744-launch-ball.json](./369744-launch-ball.json) |
