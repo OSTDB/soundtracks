@@ -1372,6 +1372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handyman Fantasy | 368078 | [368078-handyman-fantasy.json](./368078-handyman-fantasy.json) |
 | Handyman Legend | 220032 | [220032-handyman-legend.json](./220032-handyman-legend.json) |
 | Handyman: House Repair and Flip | 378758 | [378758-handyman-house-repair-and-flip.json](./378758-handyman-house-repair-and-flip.json) |
+| Handyworker's Tale | 176590 | [176590-handyworkers-tale.json](./176590-handyworkers-tale.json) |
 | Haneda Girl | 222901 | [222901-haneda-girl.json](./222901-haneda-girl.json) |
 | Hanefield Asylum | 159502 | [159502-hanefield-asylum.json](./159502-hanefield-asylum.json) |
 | HaneHolo! | 372619 | [372619-haneholo.json](./372619-haneholo.json) |
@@ -6059,6 +6060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes and Monsters | 180403 | [180403-heroes-and-monsters.json](./180403-heroes-and-monsters.json) |
 | Heroes and Monsters II | 382848 | [382848-heroes-and-monsters-ii.json](./382848-heroes-and-monsters-ii.json) |
 | Heroes and Test of Succubus | 294165 | [294165-heroes-and-test-of-succubus.json](./294165-heroes-and-test-of-succubus.json) |
+| Heroes and Titans 2: Era of Legends | 176575 | [176575-heroes-and-titans-2-era-of-legends.json](./176575-heroes-and-titans-2-era-of-legends.json) |
 | Heroes and Titans: Online | 286432 | [286432-heroes-and-titans-online.json](./286432-heroes-and-titans-online.json) |
 | Heroes Arena | 103040 | [103040-heroes-arena.json](./103040-heroes-arena.json) |
 | Heroes Arena | 75553 | [75553-heroes-arena.json](./75553-heroes-arena.json) |
@@ -6248,6 +6250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Rally | 199693 | [199693-heroes-rally.json](./199693-heroes-rally.json) |
 | Heroes Ravage | 114433 | [114433-heroes-ravage.json](./114433-heroes-ravage.json) |
 | Heroes Reborn: Enigma | 59663 | [59663-heroes-reborn-enigma.json](./59663-heroes-reborn-enigma.json) |
+| Heroes Revolution | 176581 | [176581-heroes-revolution.json](./176581-heroes-revolution.json) |
 | Heroes Rise Trilogy | 53192 | [53192-heroes-rise-trilogy.json](./53192-heroes-rise-trilogy.json) |
 | Heroes Rise: The Hero Project | 17490 | [17490-heroes-rise-the-hero-project.json](./17490-heroes-rise-the-hero-project.json) |
 | Heroes Rise: The Hero Project - Warning System | 170711 | [170711-heroes-rise-the-hero-project-warning-system.json](./170711-heroes-rise-the-hero-project-warning-system.json) |
@@ -11601,6 +11604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo: Wild River | 210623 | [210623-hugo-wild-river.json](./210623-hugo-wild-river.json) |
 | Hugo: Winter Games | 337756 | [337756-hugo-winter-games.json](./337756-hugo-winter-games.json) |
 | Hugo's House of Horrors | 8881 | [8881-hugos-house-of-horrors.json](./8881-hugos-house-of-horrors.json) |
+| Hugs | 176567 | [176567-hugs.json](./176567-hugs.json) |
 | Hugs | 179542 | [179542-hugs.json](./179542-hugs.json) |
 | Hugungui Beopchik | 212858 | [212858-hugungui-beopchik.json](./212858-hugungui-beopchik.json) |
 | Huh?: and the Adventures of Something | 367123 | [367123-huh-and-the-adventures-of-something.json](./367123-huh-and-the-adventures-of-something.json) |
@@ -12365,6 +12369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydrosphere | 257291 | [257291-hydrosphere.json](./257291-hydrosphere.json) |
 | Hydrostation | 273173 | [273173-hydrostation.json](./273173-hydrostation.json) |
 | Hydrosub: 2021 | 64037 | [64037-hydrosub-2021.json](./64037-hydrosub-2021.json) |
+| Hydrotopia | 176585 | [176585-hydrotopia.json](./176585-hydrotopia.json) |
 | Hyena Simulator | 86848 | [86848-hyena-simulator.json](./86848-hyena-simulator.json) |
 | Hyena Squad | 175206 | [175206-hyena-squad.json](./175206-hyena-squad.json) |
 | Hyena: Dogs of War | 128172 | [128172-hyena-dogs-of-war.json](./128172-hyena-dogs-of-war.json) |
