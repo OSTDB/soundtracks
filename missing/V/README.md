@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valiant Tactics EX | 290665 | [290665-valiant-tactics-ex.json](./290665-valiant-tactics-ex.json) |
 | Valiant: Or, Val's guide to having a broken vag | 249441 | [249441-valiant-or-vals-guide-to-having-a-broken-vag.json](./249441-valiant-or-vals-guide-to-having-a-broken-vag.json) |
 | Valiant: Resurrection | 35281 | [35281-valiant-resurrection.json](./35281-valiant-resurrection.json) |
+| Valiantia | 149760 | [149760-valiantia.json](./149760-valiantia.json) |
 | Valiants: Arena | 351369 | [351369-valiants-arena.json](./351369-valiants-arena.json) |
 | ValiDate: Struggling Singles in your Area | 139144 | [139144-validate-struggling-singles-in-your-area.json](./139144-validate-struggling-singles-in-your-area.json) |
 | Validus Mortis | 262245 | [262245-validus-mortis.json](./262245-validus-mortis.json) |
