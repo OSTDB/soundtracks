@@ -4899,6 +4899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Masquerade 3: Honeylines - Wings & Tunes | 274640 | [274640-glass-masquerade-3-honeylines-wings-and-tunes.json](./274640-glass-masquerade-3-honeylines-wings-and-tunes.json) |
 | Glass Masquerade 4: Constellations | 362786 | [362786-glass-masquerade-4-constellations.json](./362786-glass-masquerade-4-constellations.json) |
 | Glass Masquerade 4: Constellations - Celestials | 403633 | [403633-glass-masquerade-4-constellations-celestials.json](./403633-glass-masquerade-4-constellations-celestials.json) |
+| Glass Masquerade Double Pack | 146995 | [146995-glass-masquerade-double-pack.json](./146995-glass-masquerade-double-pack.json) |
 | Glass Masquerade: Halloween Puzzle Pack | 155413 | [155413-glass-masquerade-halloween-puzzle-pack.json](./155413-glass-masquerade-halloween-puzzle-pack.json) |
 | Glass Road | 58662 | [58662-glass-road.json](./58662-glass-road.json) |
 | Glass Rose | 43441 | [43441-glass-rose.json](./43441-glass-rose.json) |
@@ -8198,6 +8199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandmaster Chess | 166075 | [166075-grandmaster-chess.json](./166075-grandmaster-chess.json) |
 | Grandmaster Chess (CD-ROM Edition) | 98911 | [98911-grandmaster-chess-cd-rom-edition.json](./98911-grandmaster-chess-cd-rom-edition.json) |
 | Grandmaster Chess Tournament | 24711 | [24711-grandmaster-chess-tournament.json](./24711-grandmaster-chess-tournament.json) |
+| Grandmaster Sudoku | 146994 | [146994-grandmaster-sudoku.json](./146994-grandmaster-sudoku.json) |
 | Grandmaster's Gambit | 255832 | [255832-grandmasters-gambit.json](./255832-grandmasters-gambit.json) |
 | Grandmaster's Revenge | 215355 | [215355-grandmasters-revenge.json](./215355-grandmasters-revenge.json) |
 | Grandmasters Ascent | 266100 | [266100-grandmasters-ascent.json](./266100-grandmasters-ascent.json) |
