@@ -6924,6 +6924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dependium | 411617 | [411617-dependium.json](./411617-dependium.json) |
 | Deperson | 291190 | [291190-deperson.json](./291190-deperson.json) |
 | Depersonalization | 205111 | [205111-depersonalization.json](./205111-depersonalization.json) |
+| Depersonated | 154129 | [154129-depersonated.json](./154129-depersonated.json) |
 | Depict | 66761 | [66761-depict.json](./66761-depict.json) |
 | Depict the City | 212462 | [212462-depict-the-city.json](./212462-depict-the-city.json) |
 | Depict1 | 186635 | [186635-depict1.json](./186635-depict1.json) |
@@ -8621,6 +8622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice | 309457 | [309457-dice.json](./309457-dice.json) |
 | Dice | 87320 | [87320-dice.json](./87320-dice.json) |
 | Dice 'n Goblins | 302395 | [302395-dice-n-goblins.json](./302395-dice-n-goblins.json) |
+| Dice & Dungeons | 154156 | [154156-dice-and-dungeons.json](./154156-dice-and-dungeons.json) |
 | Dice & Fighter | 126388 | [126388-dice-and-fighter.json](./126388-dice-and-fighter.json) |
 | Dice & Fold | 276684 | [276684-dice-and-fold.json](./276684-dice-and-fold.json) |
 | Dice & Sword | 286063 | [286063-dice-and-sword.json](./286063-dice-and-sword.json) |
@@ -18583,6 +18585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Sweeper KiKi | 299396 | [299396-dungeon-sweeper-kiki.json](./299396-dungeon-sweeper-kiki.json) |
 | Dungeon Sweeper Plus | 401058 | [401058-dungeon-sweeper-plus.json](./401058-dungeon-sweeper-plus.json) |
 | Dungeon Synths | 261464 | [261464-dungeon-synths.json](./261464-dungeon-synths.json) |
+| Dungeon Tactics | 154148 | [154148-dungeon-tactics.json](./154148-dungeon-tactics.json) |
 | Dungeon Tails | 114735 | [114735-dungeon-tails.json](./114735-dungeon-tails.json) |
 | Dungeon Tale | 260006 | [260006-dungeon-tale.json](./260006-dungeon-tale.json) |
 | Dungeon Tales: RPG Card Game | 121732 | [121732-dungeon-tales-rpg-card-game.json](./121732-dungeon-tales-rpg-card-game.json) |
