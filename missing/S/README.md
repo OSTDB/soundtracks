@@ -3634,6 +3634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrapped | 243402 | [243402-scrapped.json](./243402-scrapped.json) |
 | Scrapper | 82399 | [82399-scrapper.json](./82399-scrapper.json) |
 | Scrappers | 132114 | [132114-scrappers.json](./132114-scrappers.json) |
+| Scrapping Simulator | 146968 | [146968-scrapping-simulator.json](./146968-scrapping-simulator.json) |
 | Scrappy Craft | 392723 | [392723-scrappy-craft.json](./392723-scrappy-craft.json) |
 | Scrappy Stinks! | 307954 | [307954-scrappy-stinks.json](./307954-scrappy-stinks.json) |
 | Scraps | 60740 | [60740-scraps.json](./60740-scraps.json) |
@@ -19834,6 +19835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Goose | 92309 | [92309-space-goose.json](./92309-space-goose.json) |
 | Space Gourmet: Delivery | 238504 | [238504-space-gourmet-delivery.json](./238504-space-gourmet-delivery.json) |
 | Space Gray X | 304861 | [304861-space-gray-x.json](./304861-space-gray-x.json) |
+| Space Grid Tournament | 146991 | [146991-space-grid-tournament.json](./146991-space-grid-tournament.json) |
 | Space Griffon | 20661 | [20661-space-griffon.json](./20661-space-griffon.json) |
 | Space Griffon VF-9 | 45833 | [45833-space-griffon-vf-9.json](./45833-space-griffon-vf-9.json) |
 | Space Grind | 181182 | [181182-space-grind.json](./181182-space-grind.json) |
@@ -26587,6 +26589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Torrent | 369132 | [369132-steel-torrent.json](./369132-steel-torrent.json) |
 | Steel Tower Swordmaster | 211943 | [211943-steel-tower-swordmaster.json](./211943-steel-tower-swordmaster.json) |
 | Steel Vampire | 111415 | [111415-steel-vampire.json](./111415-steel-vampire.json) |
+| Steel Walker | 146952 | [146952-steel-walker.json](./146952-steel-walker.json) |
 | Steel Warrior | 324272 | [324272-steel-warrior.json](./324272-steel-warrior.json) |
 | Steel Wars Royale | 148368 | [148368-steel-wars-royale.json](./148368-steel-wars-royale.json) |
 | Steel Wolverines: Modern Armored Combat | 418233 | [418233-steel-wolverines-modern-armored-combat.json](./418233-steel-wolverines-modern-armored-combat.json) |
@@ -33818,6 +33821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Wolfenstein HD | 50279 | [50279-super-wolfenstein-hd.json](./50279-super-wolfenstein-hd.json) |
 | Super Wonder Boy in Monster Land | 327845 | [327845-super-wonder-boy-in-monster-land.json](./327845-super-wonder-boy-in-monster-land.json) |
 | Super Word Challenge | 208351 | [208351-super-word-challenge.json](./208351-super-word-challenge.json) |
+| Super Word Games 10,000 | 146961 | [146961-super-word-games-10-000.json](./146961-super-word-games-10-000.json) |
 | Super Words | 258216 | [258216-super-words.json](./258216-super-words.json) |
 | Super World of Goo | 316963 | [316963-super-world-of-goo.json](./316963-super-world-of-goo.json) |
 | Super World Run: Bosses | 253004 | [253004-super-world-run-bosses.json](./253004-super-world-run-bosses.json) |
