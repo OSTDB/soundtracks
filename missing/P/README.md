@@ -1306,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Palette Portable | 204391 | [204391-panic-palette-portable.json](./204391-panic-palette-portable.json) |
 | Panic Park | 62238 | [62238-panic-park.json](./62238-panic-park.json) |
 | Panic Party | 134631 | [134631-panic-party.json](./134631-panic-party.json) |
+| Panic Party | 183675 | [183675-panic-party.json](./183675-panic-party.json) |
 | Panic Porcupine | 197510 | [197510-panic-porcupine.json](./197510-panic-porcupine.json) |
 | Panic Protocol | 390769 | [390769-panic-protocol.json](./390769-panic-protocol.json) |
 | Panic Road | 268003 | [268003-panic-road.json](./268003-panic-road.json) |
@@ -9995,6 +9996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Bang My Wife | 57550 | [57550-please-bang-my-wife.json](./57550-please-bang-my-wife.json) |
 | Please Be Happy | 152183 | [152183-please-be-happy.json](./152183-please-be-happy.json) |
 | Please Be Kind to the Chickens | 258080 | [258080-please-be-kind-to-the-chickens.json](./258080-please-be-kind-to-the-chickens.json) |
+| Please Care Over Stories: PCOS | 183679 | [183679-please-care-over-stories-pcos.json](./183679-please-care-over-stories-pcos.json) |
 | Please close the doors | 81639 | [81639-please-close-the-doors.json](./81639-please-close-the-doors.json) |
 | Please Come to The Castle | 349906 | [349906-please-come-to-the-castle.json](./349906-please-come-to-the-castle.json) |
 | Please Do Not Climb on the Dinosaurs | 383970 | [383970-please-do-not-climb-on-the-dinosaurs.json](./383970-please-do-not-climb-on-the-dinosaurs.json) |
