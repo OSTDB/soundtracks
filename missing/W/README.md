@@ -431,6 +431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walkie Talkie | 176203 | [176203-walkie-talkie.json](./176203-walkie-talkie.json) |
 | Walkies | 238474 | [238474-walkies.json](./238474-walkies.json) |
 | Walking | 186108 | [186108-walking.json](./186108-walking.json) |
+| Walking Girl: Dead Parking | 149130 | [149130-walking-girl-dead-parking.json](./149130-walking-girl-dead-parking.json) |
 | Walking Heavy | 61597 | [61597-walking-heavy.json](./61597-walking-heavy.json) |
 | Walking In | 407810 | [407810-walking-in.json](./407810-walking-in.json) |
 | Walking in the Abyss: Definitive Edition | 221175 | [221175-walking-in-the-abyss-definitive-edition.json](./221175-walking-in-the-abyss-definitive-edition.json) |
@@ -1862,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warp Destroyer | 234775 | [234775-warp-destroyer.json](./234775-warp-destroyer.json) |
 | Warp Drive | 143530 | [143530-warp-drive.json](./143530-warp-drive.json) |
 | Warp Factor | 131830 | [131830-warp-factor.json](./131830-warp-factor.json) |
+| Warp Factory | 149127 | [149127-warp-factory.json](./149127-warp-factory.json) |
 | Warp Frontier | 149117 | [149117-warp-frontier.json](./149117-warp-frontier.json) |
 | Warp Gate World Kingdom Tales | 254653 | [254653-warp-gate-world-kingdom-tales.json](./254653-warp-gate-world-kingdom-tales.json) |
 | Warp Glider | 112073 | [112073-warp-glider.json](./112073-warp-glider.json) |
@@ -5316,6 +5318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild West Gringos | 195105 | [195105-wild-west-gringos.json](./195105-wild-west-gringos.json) |
 | Wild West Guns | 21805 | [21805-wild-west-guns.json](./21805-wild-west-guns.json) |
 | Wild West Guns | 239478 | [239478-wild-west-guns.json](./239478-wild-west-guns.json) |
+| Wild West Legacy | 149118 | [149118-wild-west-legacy.json](./149118-wild-west-legacy.json) |
 | Wild West Miner Simulator | 391233 | [391233-wild-west-miner-simulator.json](./391233-wild-west-miner-simulator.json) |
 | Wild West Miner Simulator: First Gun | 405094 | [405094-wild-west-miner-simulator-first-gun.json](./405094-wild-west-miner-simulator-first-gun.json) |
 | Wild West Online | 29139 | [29139-wild-west-online.json](./29139-wild-west-online.json) |
@@ -6965,6 +6968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WobblyStack for Arcore | 95762 | [95762-wobblystack-for-arcore.json](./95762-wobblystack-for-arcore.json) |
 | Wobbuffet's Puzzle Pack | 233984 | [233984-wobbuffets-puzzle-pack.json](./233984-wobbuffets-puzzle-pack.json) |
 | Wobolob Classic | 180477 | [180477-wobolob-classic.json](./180477-wobolob-classic.json) |
+| Woden GP | 149111 | [149111-woden-gp.json](./149111-woden-gp.json) |
 | Wodopom | 315677 | [315677-wodopom.json](./315677-wodopom.json) |
 | Woe | 211577 | [211577-woe.json](./211577-woe.json) |
 | Woe Reigns Unending | 397272 | [397272-woe-reigns-unending.json](./397272-woe-reigns-unending.json) |
