@@ -573,6 +573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100 Days | 164599 | [164599-100-days.json](./164599-100-days.json) |
 | 100 Days | 231985 | [231985-100-days.json](./231985-100-days.json) |
 | 100 Days Without Delays | 188757 | [188757-100-days-without-delays.json](./188757-100-days-without-delays.json) |
+| 100 Degrees | 184119 | [184119-100-degrees.json](./184119-100-degrees.json) |
 | 100 Demon Cats | 347752 | [347752-100-demon-cats.json](./347752-100-demon-cats.json) |
 | 100 Demon Fantasia | 280598 | [280598-100-demon-fantasia.json](./280598-100-demon-fantasia.json) |
 | 100 Dino Cats | 284395 | [284395-100-dino-cats.json](./284395-100-dino-cats.json) |
