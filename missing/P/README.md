@@ -2816,6 +2816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Past the Moon; Towards the Sun | 303946 | [303946-past-the-moon-towards-the-sun.json](./303946-past-the-moon-towards-the-sun.json) |
 | Pasta La Vista Super Mario Bros. | 392840 | [392840-pasta-la-vista-super-mario-bros.json](./392840-pasta-la-vista-super-mario-bros.json) |
 | Pasta Master | 160263 | [160263-pasta-master.json](./160263-pasta-master.json) |
+| Pastaghi | 187611 | [187611-pastaghi.json](./187611-pastaghi.json) |
 | Pastel | 136629 | [136629-pastel.json](./136629-pastel.json) |
 | Pastel Chime Continue | 68121 | [68121-pastel-chime-continue.json](./68121-pastel-chime-continue.json) |
 | Pastel Chime: Koi no Skill Up | 90927 | [90927-pastel-chime-koi-no-skill-up.json](./90927-pastel-chime-koi-no-skill-up.json) |
