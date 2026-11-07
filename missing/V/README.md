@@ -4082,6 +4082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Walking Simulator | 150688 | [150688-vr-walking-simulator.json](./150688-vr-walking-simulator.json) |
 | VR War Lab | 216488 | [216488-vr-war-lab.json](./216488-vr-war-lab.json) |
 | VR Wilderness Survival | 334598 | [334598-vr-wilderness-survival.json](./334598-vr-wilderness-survival.json) |
+| VR Wonderland 2: Adventures in a Fruit Boat | 173919 | [173919-vr-wonderland-2-adventures-in-a-fruit-boat.json](./173919-vr-wonderland-2-adventures-in-a-fruit-boat.json) |
 | VR Wonderland: mini civilizations in a forest | 168082 | [168082-vr-wonderland-mini-civilizations-in-a-forest.json](./168082-vr-wonderland-mini-civilizations-in-a-forest.json) |
 | VR World of Pandas | 224651 | [224651-vr-world-of-pandas.json](./224651-vr-world-of-pandas.json) |
 | VR Zombies Survival | 395517 | [395517-vr-zombies-survival.json](./395517-vr-zombies-survival.json) |
