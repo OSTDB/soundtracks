@@ -1155,6 +1155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eddie’s Last Shift | 414537 | [414537-eddie-s-last-shift.json](./414537-eddie-s-last-shift.json) |
 | Eddie’s Puzzle Time | 242304 | [242304-eddie-s-puzzle-time.json](./242304-eddie-s-puzzle-time.json) |
 | Eddie's World | 250037 | [250037-eddies-world.json](./250037-eddies-world.json) |
+| Eddsworld: The Masquerade | 184673 | [184673-eddsworld-the-masquerade.json](./184673-eddsworld-the-masquerade.json) |
 | Eddy Violet | 59581 | [59581-eddy-violet.json](./59581-eddy-violet.json) |
 | Edegard: Puqq | 244833 | [244833-edegard-puqq.json](./244833-edegard-puqq.json) |
 | Edel Blume | 214807 | [214807-edel-blume.json](./214807-edel-blume.json) |
