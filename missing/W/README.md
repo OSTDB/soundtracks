@@ -6473,6 +6473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witches Legacy: The Charleston Curse | 60302 | [60302-witches-legacy-the-charleston-curse.json](./60302-witches-legacy-the-charleston-curse.json) |
 | Witches of the Fourth | 417344 | [417344-witches-of-the-fourth.json](./417344-witches-of-the-fourth.json) |
 | Witches Tavern | 223318 | [223318-witches-tavern.json](./223318-witches-tavern.json) |
+| Witches vs. Demons | 173347 | [173347-witches-vs-demons.json](./173347-witches-vs-demons.json) |
 | Witches Weed | 268497 | [268497-witches-weed.json](./268497-witches-weed.json) |
 | Witches X Warlocks | 142023 | [142023-witches-x-warlocks.json](./142023-witches-x-warlocks.json) |
 | Witches X Warlocks: Lawrence's Route | 252913 | [252913-witches-x-warlocks-lawrences-route.json](./252913-witches-x-warlocks-lawrences-route.json) |
@@ -8242,6 +8243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Solitaire: Deluxe Edition | 304777 | [304777-world-of-solitaire-deluxe-edition.json](./304777-world-of-solitaire-deluxe-edition.json) |
 | World of Speed | 8733 | [8733-world-of-speed.json](./8733-world-of-speed.json) |
 | World Of Sports | 370756 | [370756-world-of-sports.json](./370756-world-of-sports.json) |
+| World Of Stalkers | 173331 | [173331-world-of-stalkers.json](./173331-world-of-stalkers.json) |
 | World of Submarines | 255764 | [255764-world-of-submarines.json](./255764-world-of-submarines.json) |
 | World of Subways Vol.3: Circle Line | 79924 | [79924-world-of-subways-vol-3-circle-line.json](./79924-world-of-subways-vol-3-circle-line.json) |
 | World of Subways: Volume 1 - The Path | 36284 | [36284-world-of-subways-volume-1-the-path.json](./36284-world-of-subways-volume-1-the-path.json) |
@@ -8396,6 +8398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Zoo | 5287 | [5287-world-of-zoo.json](./5287-world-of-zoo.json) |
 | World on Fire | 117171 | [117171-world-on-fire.json](./117171-world-on-fire.json) |
 | World on Paper | 307572 | [307572-world-on-paper.json](./307572-world-on-paper.json) |
+| World Order | 173340 | [173340-world-order.json](./173340-world-order.json) |
 | World Party Games | 50931 | [50931-world-party-games.json](./50931-world-party-games.json) |
 | World Peace Simulator 2019 | 115170 | [115170-world-peace-simulator-2019.json](./115170-world-peace-simulator-2019.json) |
 | World Piece and Peace | 191335 | [191335-world-piece-and-peace.json](./191335-world-piece-and-peace.json) |
