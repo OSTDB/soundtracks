@@ -1673,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Under the Red Sky | 358253 | [358253-under-the-red-sky.json](./358253-under-the-red-sky.json) |
 | Under the River | 391026 | [391026-under-the-river.json](./391026-under-the-river.json) |
 | Under the Sand | 117364 | [117364-under-the-sand.json](./117364-under-the-sand.json) |
+| Under the Sea | 166877 | [166877-under-the-sea.json](./166877-under-the-sea.json) |
 | Under the Sea: A Hidden World of Wonders | 330222 | [330222-under-the-sea-a-hidden-world-of-wonders.json](./330222-under-the-sea-a-hidden-world-of-wonders.json) |
 | Under the Sea: Swim | 233740 | [233740-under-the-sea-swim.json](./233740-under-the-sea-swim.json) |
 | Under the Shack | 223237 | [223237-under-the-shack.json](./223237-under-the-shack.json) |
@@ -2265,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Union of Gnomes | 213004 | [213004-union-of-gnomes.json](./213004-union-of-gnomes.json) |
 | Union of Koi Musubi | 53879 | [53879-union-of-koi-musubi.json](./53879-union-of-koi-musubi.json) |
 | Union of Rivals | 414845 | [414845-union-of-rivals.json](./414845-union-of-rivals.json) |
+| Unionatic | 166904 | [166904-unionatic.json](./166904-unionatic.json) |
 | UniOne | 47994 | [47994-unione.json](./47994-unione.json) |
 | Unionism Quartet | 399196 | [399196-unionism-quartet.json](./399196-unionism-quartet.json) |
 | Unionism Quartet A3-Days | 399197 | [399197-unionism-quartet-a3-days.json](./399197-unionism-quartet-a3-days.json) |
