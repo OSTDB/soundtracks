@@ -2433,6 +2433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TapGame - Knife Up | 101088 | [101088-tapgame-knife-up.json](./101088-tapgame-knife-up.json) |
 | Tapgym | 261515 | [261515-tapgym.json](./261515-tapgym.json) |
 | Taphouse VR | 59865 | [59865-taphouse-vr.json](./59865-taphouse-vr.json) |
+| Tapiei Mahjongg 25,000 | 146962 | [146962-tapiei-mahjongg-25-000.json](./146962-tapiei-mahjongg-25-000.json) |
 | Tapioca Rider | 108193 | [108193-tapioca-rider.json](./108193-tapioca-rider.json) |
 | Tapioka Panic | 259829 | [259829-tapioka-panic.json](./259829-tapioka-panic.json) |
 | TapKO | 336323 | [336323-tapko.json](./336323-tapko.json) |
@@ -15567,6 +15568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rake: Red Forest | 30531 | [30531-the-rake-red-forest.json](./30531-the-rake-red-forest.json) |
 | The Rake: Rust Dead Survival | 276050 | [276050-the-rake-rust-dead-survival.json](./276050-the-rake-rust-dead-survival.json) |
 | The Ramen Prince | 171800 | [171800-the-ramen-prince.json](./171800-the-ramen-prince.json) |
+| The Ramen Sensei | 146944 | [146944-the-ramen-sensei.json](./146944-the-ramen-sensei.json) |
 | The Ramen Sensei 2 | 335757 | [335757-the-ramen-sensei-2.json](./335757-the-ramen-sensei-2.json) |
 | The Ramen Shop | 378366 | [378366-the-ramen-shop.json](./378366-the-ramen-shop.json) |
 | The Ramen Stand | 298626 | [298626-the-ramen-stand.json](./298626-the-ramen-stand.json) |
@@ -17040,6 +17042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs' Nightmare | 8085 | [8085-the-smurfs-nightmare.json](./8085-the-smurfs-nightmare.json) |
 | The Smurfs' Village and the Magical Meadow | 109158 | [109158-the-smurfs-village-and-the-magical-meadow.json](./109158-the-smurfs-village-and-the-magical-meadow.json) |
 | The Snack World: TreJarers | 26501 | [26501-the-snack-world-trejarers.json](./26501-the-snack-world-trejarers.json) |
+| The Snake King | 146947 | [146947-the-snake-king.json](./146947-the-snake-king.json) |
 | The Snake Kingdom of Gennibar-Six | 337649 | [337649-the-snake-kingdom-of-gennibar-six.json](./337649-the-snake-kingdom-of-gennibar-six.json) |
 | The Snake that Wanted to Climb a Tree | 184704 | [184704-the-snake-that-wanted-to-climb-a-tree.json](./184704-the-snake-that-wanted-to-climb-a-tree.json) |
 | The Snaplock | 409740 | [409740-the-snaplock.json](./409740-the-snaplock.json) |
@@ -21092,6 +21095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic Tac Toe World Championship HD | 87291 | [87291-tic-tac-toe-world-championship-hd.json](./87291-tic-tac-toe-world-championship-hd.json) |
 | Tic Tac Toe: Speed Tapping | 264063 | [264063-tic-tac-toe-speed-tapping.json](./264063-tic-tac-toe-speed-tapping.json) |
 | Tic Tac Toe: The Ultimate Board Game | 193804 | [193804-tic-tac-toe-the-ultimate-board-game.json](./193804-tic-tac-toe-the-ultimate-board-game.json) |
+| Tic Tac Together | 146980 | [146980-tic-tac-together.json](./146980-tic-tac-together.json) |
 | Tic Tactic | 324528 | [324528-tic-tactic.json](./324528-tic-tactic.json) |
 | Tic Toc Shoc for Playdate | 276727 | [276727-tic-toc-shoc-for-playdate.json](./276727-tic-toc-shoc-for-playdate.json) |
 | Tic-a-Tac Royale | 206787 | [206787-tic-a-tac-royale.json](./206787-tic-a-tac-royale.json) |
@@ -23640,6 +23644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tintin in Tibet | 249148 | [249148-tintin-in-tibet.json](./249148-tintin-in-tibet.json) |
 | Tintin in Tibet | 249149 | [249149-tintin-in-tibet.json](./249149-tintin-in-tibet.json) |
 | Tintin in Tibet | 46493 | [46493-tintin-in-tibet.json](./46493-tintin-in-tibet.json) |
+| Tintin Match | 146977 | [146977-tintin-match.json](./146977-tintin-match.json) |
 | Tintin on the Moon | 12797 | [12797-tintin-on-the-moon.json](./12797-tintin-on-the-moon.json) |
 | Tintin on the Moon | 316928 | [316928-tintin-on-the-moon.json](./316928-tintin-on-the-moon.json) |
 | Tintin Reporter: Cigars of the Pharaoh | 223863 | [223863-tintin-reporter-cigars-of-the-pharaoh.json](./223863-tintin-reporter-cigars-of-the-pharaoh.json) |
@@ -25808,6 +25813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toon Roads: Race & Drift | 288315 | [288315-toon-roads-race-and-drift.json](./288315-toon-roads-race-and-drift.json) |
 | Toon Roads: Superbike | 308490 | [308490-toon-roads-superbike.json](./308490-toon-roads-superbike.json) |
 | Toon Shift | 416936 | [416936-toon-shift.json](./416936-toon-shift.json) |
+| Toon Shooters 2: The Freelancers | 146950 | [146950-toon-shooters-2-the-freelancers.json](./146950-toon-shooters-2-the-freelancers.json) |
 | Toon Shooters the Freelancers | 57193 | [57193-toon-shooters-the-freelancers.json](./57193-toon-shooters-the-freelancers.json) |
 | Toon Siege | 348038 | [348038-toon-siege.json](./348038-toon-siege.json) |
 | Toon Skate: True Freedom Racing | 232577 | [232577-toon-skate-true-freedom-racing.json](./232577-toon-skate-true-freedom-racing.json) |
@@ -28169,6 +28175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trago | 104066 | [104066-trago.json](./104066-trago.json) |
 | Traha Infinity | 188374 | [188374-traha-infinity.json](./188374-traha-infinity.json) |
 | Trail & Error | 401495 | [401495-trail-and-error.json](./401495-trail-and-error.json) |
+| Trail Boss BMX | 146945 | [146945-trail-boss-bmx.json](./146945-trail-boss-bmx.json) |
 | Trail Breaking | 99439 | [99439-trail-breaking.json](./99439-trail-breaking.json) |
 | Trail Master 3D | 245266 | [245266-trail-master-3d.json](./245266-trail-master-3d.json) |
 | Trail Mix | 176318 | [176318-trail-mix.json](./176318-trail-mix.json) |
@@ -33254,6 +33261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turok: Evolution | 146695 | [146695-turok-evolution.json](./146695-turok-evolution.json) |
 | Turok: Origins | 325600 | [325600-turok-origins.json](./325600-turok-origins.json) |
 | Turok: Rage Wars | 1327 | [1327-turok-rage-wars.json](./1327-turok-rage-wars.json) |
+| Turok: Rage Wars | 146987 | [146987-turok-rage-wars.json](./146987-turok-rage-wars.json) |
 | Turovero: The Celestial Tower | 218278 | [218278-turovero-the-celestial-tower.json](./218278-turovero-the-celestial-tower.json) |
 | Turpedo | 188420 | [188420-turpedo.json](./188420-turpedo.json) |
 | Turpin | 42138 | [42138-turpin.json](./42138-turpin.json) |
