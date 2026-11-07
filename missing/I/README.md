@@ -3925,6 +3925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5873,6 +5874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Defense | 40499 | [40499-iron-defense.json](./40499-iron-defense.json) |
 | Iron Diamond | 236300 | [236300-iron-diamond.json](./236300-iron-diamond.json) |
 | Iron Dice | 352145 | [352145-iron-dice.json](./352145-iron-dice.json) |
+| Iron Disco | 158328 | [158328-iron-disco.json](./158328-iron-disco.json) |
 | Iron Dome | 228141 | [228141-iron-dome.json](./228141-iron-dome.json) |
 | Iron Door | 306310 | [306310-iron-door.json](./306310-iron-door.json) |
 | Iron Dungeon | 217096 | [217096-iron-dungeon.json](./217096-iron-dungeon.json) |
