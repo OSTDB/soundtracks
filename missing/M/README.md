@@ -9199,6 +9199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meow Path | 305962 | [305962-meow-path.json](./305962-meow-path.json) |
 | Meow Path 2 | 360741 | [360741-meow-path-2.json](./360741-meow-path-2.json) |
 | Meow Playground | 168543 | [168543-meow-playground.json](./168543-meow-playground.json) |
+| Meow Pow | 156790 | [156790-meow-pow.json](./156790-meow-pow.json) |
 | Meow Star Archives | 415223 | [415223-meow-star-archives.json](./415223-meow-star-archives.json) |
 | Meow Survivors | 389579 | [389579-meow-survivors.json](./389579-meow-survivors.json) |
 | Meow Sushi Night | 183310 | [183310-meow-sushi-night.json](./183310-meow-sushi-night.json) |
@@ -11288,6 +11289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Kun | 280114 | [280114-midnight-kun.json](./280114-midnight-kun.json) |
 | Midnight Lane | 296976 | [296976-midnight-lane.json](./296976-midnight-lane.json) |
 | Midnight Launch: A GameShop Sim | 362938 | [362938-midnight-launch-a-gameshop-sim.json](./362938-midnight-launch-a-gameshop-sim.json) |
+| Midnight Laundry | 156798 | [156798-midnight-laundry.json](./156798-midnight-laundry.json) |
 | Midnight Legends | 167425 | [167425-midnight-legends.json](./167425-midnight-legends.json) |
 | Midnight Lights | 276751 | [276751-midnight-lights.json](./276751-midnight-lights.json) |
 | Midnight Looters | 392121 | [392121-midnight-looters.json](./392121-midnight-looters.json) |
@@ -12842,6 +12844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Blaster | 175611 | [175611-mini-blaster.json](./175611-mini-blaster.json) |
 | Mini Boxing | 243721 | [243721-mini-boxing.json](./243721-mini-boxing.json) |
 | Mini Car Coin Collector | 390609 | [390609-mini-car-coin-collector.json](./390609-mini-car-coin-collector.json) |
+| Mini Car Money Chase | 156768 | [156768-mini-car-money-chase.json](./156768-mini-car-money-chase.json) |
 | Mini Car Racing | 148355 | [148355-mini-car-racing.json](./148355-mini-car-racing.json) |
 | Mini Car Racing 2 | 172864 | [172864-mini-car-racing-2.json](./172864-mini-car-racing-2.json) |
 | Mini Car Racing: Tiny Split Screen Tournament | 169157 | [169157-mini-car-racing-tiny-split-screen-tournament.json](./169157-mini-car-racing-tiny-split-screen-tournament.json) |
@@ -19716,6 +19719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Museum of Parallel Art | 182871 | [182871-museum-of-parallel-art.json](./182871-museum-of-parallel-art.json) |
 | Museum of Sweet Potatoes | 390984 | [390984-museum-of-sweet-potatoes.json](./390984-museum-of-sweet-potatoes.json) |
 | Museum of Symmetry | 104076 | [104076-museum-of-symmetry.json](./104076-museum-of-symmetry.json) |
+| Museum of War | 156766 | [156766-museum-of-war.json](./156766-museum-of-war.json) |
 | Museum Simulator | 349824 | [349824-museum-simulator.json](./349824-museum-simulator.json) |
 | Museums of History | 339921 | [339921-museums-of-history.json](./339921-museums-of-history.json) |
 | Musgro Farm | 303098 | [303098-musgro-farm.json](./303098-musgro-farm.json) |
@@ -21456,6 +21460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Taxi Company | 335812 | [335812-my-taxi-company.json](./335812-my-taxi-company.json) |
 | My Teacher | 365366 | [365366-my-teacher.json](./365366-my-teacher.json) |
 | My Teacher is an Alien | 148515 | [148515-my-teacher-is-an-alien.json](./148515-my-teacher-is-an-alien.json) |
+| My Ten-day Girlfriend | 156783 | [156783-my-ten-day-girlfriend.json](./156783-my-ten-day-girlfriend.json) |
 | My Thai Boyfriend | 291078 | [291078-my-thai-boyfriend.json](./291078-my-thai-boyfriend.json) |
 | My Therapy | 207540 | [207540-my-therapy.json](./207540-my-therapy.json) |
 | My Time | 235617 | [235617-my-time.json](./235617-my-time.json) |
