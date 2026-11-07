@@ -4546,6 +4546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caterpillar Royale | 115466 | [115466-caterpillar-royale.json](./115466-caterpillar-royale.json) |
 | Caterpillar: Adventures in Time | 206094 | [206094-caterpillar-adventures-in-time.json](./206094-caterpillar-adventures-in-time.json) |
 | Caterra | 224079 | [224079-caterra.json](./224079-caterra.json) |
+| Caterva | 158322 | [158322-caterva.json](./158322-caterva.json) |
 | Caterva: Outsider Dreams | 412535 | [412535-caterva-outsider-dreams.json](./412535-caterva-outsider-dreams.json) |
 | Caterwaul | 184347 | [184347-caterwaul.json](./184347-caterwaul.json) |
 | Caterzillar | 82950 | [82950-caterzillar.json](./82950-caterzillar.json) |
@@ -11031,6 +11032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clumsy Fighting | 104613 | [104613-clumsy-fighting.json](./104613-clumsy-fighting.json) |
 | Clumsy Fish | 240836 | [240836-clumsy-fish.json](./240836-clumsy-fish.json) |
 | Clumsy Fred | 43103 | [43103-clumsy-fred.json](./43103-clumsy-fred.json) |
+| Clumsy Knight 2 | 158316 | [158316-clumsy-knight-2.json](./158316-clumsy-knight-2.json) |
 | Clumsy Knight vs. Skeletons R | 200065 | [200065-clumsy-knight-vs-skeletons-r.json](./200065-clumsy-knight-vs-skeletons-r.json) |
 | Clumsy Knights : Threats of Dragon | 81717 | [81717-clumsy-knights-threats-of-dragon.json](./81717-clumsy-knights-threats-of-dragon.json) |
 | Clumsy Moose Season | 34314 | [34314-clumsy-moose-season.json](./34314-clumsy-moose-season.json) |
