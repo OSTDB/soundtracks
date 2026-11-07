@@ -4458,6 +4458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oscar's Trash Race | 40714 | [40714-oscars-trash-race.json](./40714-oscars-trash-race.json) |
 | Oscar's World Tour | 65749 | [65749-oscars-world-tour.json](./65749-oscars-world-tour.json) |
 | Oscarzinho e o Bug do Esporte | 218411 | [218411-oscarzinho-e-o-bug-do-esporte.json](./218411-oscarzinho-e-o-bug-do-esporte.json) |
+| Oscillate | 149110 | [149110-oscillate.json](./149110-oscillate.json) |
 | Oscillation | 262313 | [262313-oscillation.json](./262313-oscillation.json) |
 | Oscillatron: Alien Frequency | 96118 | [96118-oscillatron-alien-frequency.json](./96118-oscillatron-alien-frequency.json) |
 | Oscura | 61937 | [61937-oscura.json](./61937-oscura.json) |
@@ -5812,6 +5813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overseer: Field Trials | 315127 | [315127-overseer-field-trials.json](./315127-overseer-field-trials.json) |
 | Overserved: Food Fighters! | 398995 | [398995-overserved-food-fighters.json](./398995-overserved-food-fighters.json) |
 | Oversexed Landlady | 389763 | [389763-oversexed-landlady.json](./389763-oversexed-landlady.json) |
+| Overshadow | 149104 | [149104-overshadow.json](./149104-overshadow.json) |
 | Overshift | 196856 | [196856-overshift.json](./196856-overshift.json) |
 | Overshoot | 414281 | [414281-overshoot.json](./414281-overshoot.json) |
 | OverShoot Battle Race | 163025 | [163025-overshoot-battle-race.json](./163025-overshoot-battle-race.json) |
