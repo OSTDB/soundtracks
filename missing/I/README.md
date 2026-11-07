@@ -4964,6 +4964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intergalactic Juice Bar | 389848 | [389848-intergalactic-juice-bar.json](./389848-intergalactic-juice-bar.json) |
 | Intergalactic Mystery | 258913 | [258913-intergalactic-mystery.json](./258913-intergalactic-mystery.json) |
 | Intergalactic Panic!! | 236967 | [236967-intergalactic-panic.json](./236967-intergalactic-panic.json) |
+| Intergalactic Pawn Shop | 143214 | [143214-intergalactic-pawn-shop.json](./143214-intergalactic-pawn-shop.json) |
 | Intergalactic Rescue | 147235 | [147235-intergalactic-rescue.json](./147235-intergalactic-rescue.json) |
 | Intergalactic Space Rescue | 85517 | [85517-intergalactic-space-rescue.json](./85517-intergalactic-space-rescue.json) |
 | Intergalactic Storage Clearance | 311889 | [311889-intergalactic-storage-clearance.json](./311889-intergalactic-storage-clearance.json) |
