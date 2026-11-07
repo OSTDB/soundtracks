@@ -4929,6 +4929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek Wife | 154402 | [154402-seek-wife.json](./154402-seek-wife.json) |
 | Seekboss | 285513 | [285513-seekboss.json](./285513-seekboss.json) |
 | Seeker | 114385 | [114385-seeker.json](./114385-seeker.json) |
+| Seeker 2 | 158319 | [158319-seeker-2.json](./158319-seeker-2.json) |
 | Seeker 3 | 394077 | [394077-seeker-3.json](./394077-seeker-3.json) |
 | Seeker Eye | 413757 | [413757-seeker-eye.json](./413757-seeker-eye.json) |
 | Seeker Neeko | 359853 | [359853-seeker-neeko.json](./359853-seeker-neeko.json) |
@@ -5334,6 +5335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Self Shot | 117806 | [117806-self-shot.json](./117806-self-shot.json) |
 | Self-Comb Women: Home Left Behind | 351380 | [351380-self-comb-women-home-left-behind.json](./351380-self-comb-women-home-left-behind.json) |
 | Self-Defense Training Camp | 8545 | [8545-self-defense-training-camp.json](./8545-self-defense-training-camp.json) |
+| Self-Delusion | 158325 | [158325-self-delusion.json](./158325-self-delusion.json) |
 | Self-indulgence | 273784 | [273784-self-indulgence.json](./273784-self-indulgence.json) |
 | Self-Isolation | 139644 | [139644-self-isolation.json](./139644-self-isolation.json) |
 | Self-knowledge VR | 114373 | [114373-self-knowledge-vr.json](./114373-self-knowledge-vr.json) |
@@ -16416,6 +16418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sol Cresta: Wing Galiber II | 231236 | [231236-sol-cresta-wing-galiber-ii.json](./231236-sol-cresta-wing-galiber-ii.json) |
 | SOL Cycling | 151407 | [151407-sol-cycling.json](./151407-sol-cycling.json) |
 | Sol Divide | 35026 | [35026-sol-divide.json](./35026-sol-divide.json) |
+| Sol Dorado Heist | 158331 | [158331-sol-dorado-heist.json](./158331-sol-dorado-heist.json) |
 | SOL Exodus | 10886 | [10886-sol-exodus.json](./10886-sol-exodus.json) |
 | Sol Frontiers | 317033 | [317033-sol-frontiers.json](./317033-sol-frontiers.json) |
 | Sol Galaxy Defender | 82337 | [82337-sol-galaxy-defender.json](./82337-sol-galaxy-defender.json) |
@@ -27328,6 +27331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stolen Dolls | 226430 | [226430-stolen-dolls.json](./226430-stolen-dolls.json) |
 | Stolen Eggs | 172264 | [172264-stolen-eggs.json](./172264-stolen-eggs.json) |
 | Stolen Heart | 397673 | [397673-stolen-heart.json](./397673-stolen-heart.json) |
+| Stolen Hearts | 158330 | [158330-stolen-hearts.json](./158330-stolen-hearts.json) |
 | Stolen Hearts: Wolf Knight | 285860 | [285860-stolen-hearts-wolf-knight.json](./285860-stolen-hearts-wolf-knight.json) |
 | Stolen in 60 Seconds | 65229 | [65229-stolen-in-60-seconds.json](./65229-stolen-in-60-seconds.json) |
 | Stolen Life | 338615 | [338615-stolen-life.json](./338615-stolen-life.json) |
@@ -27859,6 +27863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Investigations: Two for Solitaire - Collector's Edition | 207087 | [207087-strange-investigations-two-for-solitaire-collectors-edition.json](./207087-strange-investigations-two-for-solitaire-collectors-edition.json) |
 | Strange Keyworld | 182612 | [182612-strange-keyworld.json](./182612-strange-keyworld.json) |
 | Strange Labyrinth | 310096 | [310096-strange-labyrinth.json](./310096-strange-labyrinth.json) |
+| Strange Lands | 158320 | [158320-strange-lands.json](./158320-strange-lands.json) |
 | Strange Loop | 26433 | [26433-strange-loop.json](./26433-strange-loop.json) |
 | Strange Love: Vampire Boyfriends | 63676 | [63676-strange-love-vampire-boyfriends.json](./63676-strange-love-vampire-boyfriends.json) |
 | Strange Memo | 201842 | [201842-strange-memo.json](./201842-strange-memo.json) |
@@ -33583,6 +33588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Tank Battle | 175369 | [175369-super-tank-battle.json](./175369-super-tank-battle.json) |
 | Super Tank Rumble | 185695 | [185695-super-tank-rumble.json](./185695-super-tank-rumble.json) |
 | Super Tank Simulator | 92780 | [92780-super-tank-simulator.json](./92780-super-tank-simulator.json) |
+| Super tanks RPG | 158312 | [158312-super-tanks-rpg.json](./158312-super-tanks-rpg.json) |
 | Super Tanooki Goomba | 323180 | [323180-super-tanooki-goomba.json](./323180-super-tanooki-goomba.json) |
 | Super Teacher: The Crazy School | 209856 | [209856-super-teacher-the-crazy-school.json](./209856-super-teacher-the-crazy-school.json) |
 | Super Team Games | 48232 | [48232-super-team-games.json](./48232-super-team-games.json) |
@@ -34097,6 +34103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supernova | 198095 | [198095-supernova.json](./198095-supernova.json) |
 | SuperNova | 410006 | [410006-supernova.json](./410006-supernova.json) |
 | Supernova Tactics | 211287 | [211287-supernova-tactics.json](./211287-supernova-tactics.json) |
+| Supernova TD | 158333 | [158333-supernova-td.json](./158333-supernova-td.json) |
 | Supernova: Galactic Wars | 347063 | [347063-supernova-galactic-wars.json](./347063-supernova-galactic-wars.json) |
 | Superola and the Lost Burgers | 87475 | [87475-superola-and-the-lost-burgers.json](./87475-superola-and-the-lost-burgers.json) |
 | Superorbit.io | 58285 | [58285-superorbit-io.json](./58285-superorbit-io.json) |
@@ -35739,6 +35746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword and Space | 164085 | [164085-sword-and-space.json](./164085-sword-and-space.json) |
 | Sword and Spirit | 158175 | [158175-sword-and-spirit.json](./158175-sword-and-spirit.json) |
 | Sword and Spoon | 101746 | [101746-sword-and-spoon.json](./101746-sword-and-spoon.json) |
+| Sword and Stone | 158309 | [158309-sword-and-stone.json](./158309-sword-and-stone.json) |
 | Sword Art Online Arcade: Deep Explorer | 110791 | [110791-sword-art-online-arcade-deep-explorer.json](./110791-sword-art-online-arcade-deep-explorer.json) |
 | Sword Art Online Eron | 342589 | [342589-sword-art-online-eron.json](./342589-sword-art-online-eron.json) |
 | Sword Art Online Re: Hollow Fragment | 11839 | [11839-sword-art-online-re-hollow-fragment.json](./11839-sword-art-online-re-hollow-fragment.json) |
