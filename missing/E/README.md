@@ -2756,6 +2756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elnark no Zaihou | 48507 | [48507-elnark-no-zaihou.json](./48507-elnark-no-zaihou.json) |
 | Elo 1100 Chess | 192404 | [192404-elo-1100-chess.json](./192404-elo-1100-chess.json) |
 | Elo Hell | 105744 | [105744-elo-hell.json](./105744-elo-hell.json) |
+| Elo Hell: Episodes 1-5 | 174429 | [174429-elo-hell-episodes-1-5.json](./174429-elo-hell-episodes-1-5.json) |
 | ELOA: Elite Lord of Alliance | 26535 | [26535-eloa-elite-lord-of-alliance.json](./26535-eloa-elite-lord-of-alliance.json) |
 | Elodya | 271087 | [271087-elodya.json](./271087-elodya.json) |
 | Elohim Eternal: Exodus | 339741 | [339741-elohim-eternal-exodus.json](./339741-elohim-eternal-exodus.json) |
@@ -3619,6 +3620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | End Up Alone | 261396 | [261396-end-up-alone.json](./261396-end-up-alone.json) |
 | End War RTS | 105711 | [105711-end-war-rts.json](./105711-end-war-rts.json) |
 | End War RTS 2 | 160234 | [160234-end-war-rts-2.json](./160234-end-war-rts-2.json) |
+| End War RTS: Alien invasion | 174463 | [174463-end-war-rts-alien-invasion.json](./174463-end-war-rts-alien-invasion.json) |
 | End's beginning | 310715 | [310715-ends-beginning.json](./310715-ends-beginning.json) |
 | End's Reach | 325331 | [325331-ends-reach.json](./325331-ends-reach.json) |
 | Endangered | 32077 | [32077-endangered.json](./32077-endangered.json) |
@@ -4378,6 +4380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eolia | 204347 | [204347-eolia.json](./204347-eolia.json) |
 | Eon Altar | 19867 | [19867-eon-altar.json](./19867-eon-altar.json) |
 | Eon Altar: Episode 2 - Whispers in the Catacombs | 24875 | [24875-eon-altar-episode-2-whispers-in-the-catacombs.json](./24875-eon-altar-episode-2-whispers-in-the-catacombs.json) |
+| Eon Altar: Episode 3 - The Watcher in the Dark | 174425 | [174425-eon-altar-episode-3-the-watcher-in-the-dark.json](./174425-eon-altar-episode-3-the-watcher-in-the-dark.json) |
 | Eon Altar: Episode I - The Battle for Tarnum | 24874 | [24874-eon-altar-episode-i-the-battle-for-tarnum.json](./24874-eon-altar-episode-i-the-battle-for-tarnum.json) |
 | Eon Empires | 406576 | [406576-eon-empires.json](./406576-eon-empires.json) |
 | Eon Fighter | 219251 | [219251-eon-fighter.json](./219251-eon-fighter.json) |
