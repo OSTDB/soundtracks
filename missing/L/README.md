@@ -4558,6 +4558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of Kanji Island | 303628 | [303628-life-of-kanji-island.json](./303628-life-of-kanji-island.json) |
 | Life of Lon | 36995 | [36995-life-of-lon.json](./36995-life-of-lon.json) |
 | Life of Mellow | 174702 | [174702-life-of-mellow.json](./174702-life-of-mellow.json) |
+| Life of Pepe | 189797 | [189797-life-of-pepe.json](./189797-life-of-pepe.json) |
 | Life of Pi | 246766 | [246766-life-of-pi.json](./246766-life-of-pi.json) |
 | Life of Pixel | 10514 | [10514-life-of-pixel.json](./10514-life-of-pixel.json) |
 | Life of Slime | 242057 | [242057-life-of-slime.json](./242057-life-of-slime.json) |
