@@ -5654,6 +5654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Cortarás a tu Hermana con el Filo de Esta Espada | 135690 | [135690-no-cortaras-a-tu-hermana-con-el-filo-de-esta-espada.json](./135690-no-cortaras-a-tu-hermana-con-el-filo-de-esta-espada.json) |
 | No Creeps Were Harmed TD | 244937 | [244937-no-creeps-were-harmed-td.json](./244937-no-creeps-were-harmed-td.json) |
 | No Crime | 244298 | [244298-no-crime.json](./244298-no-crime.json) |
+| No Crooks on Christmas | 184537 | [184537-no-crooks-on-christmas.json](./184537-no-crooks-on-christmas.json) |
 | No Crossing | 111855 | [111855-no-crossing.json](./111855-no-crossing.json) |
 | No Crying in Baseball | 180514 | [180514-no-crying-in-baseball.json](./180514-no-crying-in-baseball.json) |
 | No Cure 2 | 158195 | [158195-no-cure-2.json](./158195-no-cure-2.json) |
@@ -5668,6 +5669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Escape | 45769 | [45769-no-escape.json](./45769-no-escape.json) |
 | No Escape from Madness | 332456 | [332456-no-escape-from-madness.json](./332456-no-escape-from-madness.json) |
 | No Escape Saga | 146540 | [146540-no-escape-saga.json](./146540-no-escape-saga.json) |
+| No Excavation Needed | 184552 | [184552-no-excavation-needed.json](./184552-no-excavation-needed.json) |
 | No Exit | 370749 | [370749-no-exit.json](./370749-no-exit.json) |
 | No Exit | 374356 | [374356-no-exit.json](./374356-no-exit.json) |
 | No Exit | 93334 | [93334-no-exit.json](./93334-no-exit.json) |
@@ -5797,6 +5799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Mans Land | 225972 | [225972-no-mans-land.json](./225972-no-mans-land.json) |
 | No Mario's Sky | 23328 | [23328-no-marios-sky.json](./23328-no-marios-sky.json) |
 | No Me: The Future is Ours | 276753 | [276753-no-me-the-future-is-ours.json](./276753-no-me-the-future-is-ours.json) |
+| No Means No | 184688 | [184688-no-means-no.json](./184688-no-means-no.json) |
 | No Means Nothing | 380677 | [380677-no-means-nothing.json](./380677-no-means-nothing.json) |
 | No Mechs Allowed | 362246 | [362246-no-mechs-allowed.json](./362246-no-mechs-allowed.json) |
 | No Men in This House | 223347 | [223347-no-men-in-this-house.json](./223347-no-men-in-this-house.json) |
