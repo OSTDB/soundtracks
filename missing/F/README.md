@@ -6039,6 +6039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Pro Wrestling Z | 67040 | [67040-fire-pro-wrestling-z.json](./67040-fire-pro-wrestling-z.json) |
 | Fire Pro Wrestling: Combination Tag | 38087 | [38087-fire-pro-wrestling-combination-tag.json](./38087-fire-pro-wrestling-combination-tag.json) |
 | Fire Pro Wrestling: Iron Slam '96 | 44762 | [44762-fire-pro-wrestling-iron-slam-96.json](./44762-fire-pro-wrestling-iron-slam-96.json) |
+| Fire Protection Training Simulator | 161456 | [161456-fire-protection-training-simulator.json](./161456-fire-protection-training-simulator.json) |
 | Fire ProWrestling Z | 23718 | [23718-fire-prowrestling-z.json](./23718-fire-prowrestling-z.json) |
 | Fire Quest | 58421 | [58421-fire-quest.json](./58421-fire-quest.json) |
 | Fire Race | 287473 | [287473-fire-race.json](./287473-fire-race.json) |
@@ -10299,6 +10300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Realms: Vahrin's Call | 110939 | [110939-forsaken-realms-vahrins-call.json](./110939-forsaken-realms-vahrins-call.json) |
 | Forsaken Remastered | 106102 | [106102-forsaken-remastered.json](./106102-forsaken-remastered.json) |
 | Forsaken Shadows | 306419 | [306419-forsaken-shadows.json](./306419-forsaken-shadows.json) |
+| Forsaken Spire | 161461 | [161461-forsaken-spire.json](./161461-forsaken-spire.json) |
 | Forsaken Struggle | 372139 | [372139-forsaken-struggle.json](./372139-forsaken-struggle.json) |
 | Forsaken Universe | 166771 | [166771-forsaken-universe.json](./166771-forsaken-universe.json) |
 | Forsaken Uprising | 13385 | [13385-forsaken-uprising.json](./13385-forsaken-uprising.json) |
@@ -14088,6 +14090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futsal: 5 on 5 Mini Soccer | 75464 | [75464-futsal-5-on-5-mini-soccer.json](./75464-futsal-5-on-5-mini-soccer.json) |
 | FutSim | 276783 | [276783-futsim.json](./276783-futsim.json) |
 | Futsuma Shoujo Charlotte | 203846 | [203846-futsuma-shoujo-charlotte.json](./203846-futsuma-shoujo-charlotte.json) |
+| Futuball: Future Football Manager Game | 161480 | [161480-futuball-future-football-manager-game.json](./161480-futuball-future-football-manager-game.json) |
 | Futuclass Chemistry VR | 153324 | [153324-futuclass-chemistry-vr.json](./153324-futuclass-chemistry-vr.json) |
 | Futuclass: Hydrogen & Oxygen | 170492 | [170492-futuclass-hydrogen-and-oxygen.json](./170492-futuclass-hydrogen-and-oxygen.json) |
 | Futuclass: Oxygen Escape Room | 170493 | [170493-futuclass-oxygen-escape-room.json](./170493-futuclass-oxygen-escape-room.json) |
@@ -14117,6 +14120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Flash | 280952 | [280952-future-flash.json](./280952-future-flash.json) |
 | Future Football Manager | 214110 | [214110-future-football-manager.json](./214110-future-football-manager.json) |
 | Future Fortune | 173194 | [173194-future-fortune.json](./173194-future-fortune.json) |
+| Future Fragments | 161486 | [161486-future-fragments.json](./161486-future-fragments.json) |
 | Future Front | 241283 | [241283-future-front.json](./241283-future-front.json) |
 | Future Futures - Command Z | 116320 | [116320-future-futures-command-z.json](./116320-future-futures-command-z.json) |
 | Future Games | 28471 | [28471-future-games.json](./28471-future-games.json) |
