@@ -1232,6 +1232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dapithapon | 341088 | [341088-dapithapon.json](./341088-dapithapon.json) |
 | Dappervolk | 130667 | [130667-dappervolk.json](./130667-dappervolk.json) |
 | Dappou Undead Factory | 206544 | [206544-dappou-undead-factory.json](./206544-dappou-undead-factory.json) |
+| Daraku Gear | 186391 | [186391-daraku-gear.json](./186391-daraku-gear.json) |
 | Darby the Dragon | 72931 | [72931-darby-the-dragon.json](./72931-darby-the-dragon.json) |
 | Darcade | 28447 | [28447-darcade.json](./28447-darcade.json) |
 | Darco: Reign of Elements | 90092 | [90092-darco-reign-of-elements.json](./90092-darco-reign-of-elements.json) |
@@ -13983,6 +13984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down the Dungeon | 393545 | [393545-down-the-dungeon.json](./393545-down-the-dungeon.json) |
 | Down the Eye of the Tiger | 257195 | [257195-down-the-eye-of-the-tiger.json](./257195-down-the-eye-of-the-tiger.json) |
 | Down the Gutter | 271335 | [271335-down-the-gutter.json](./271335-down-the-gutter.json) |
+| Down the Hill | 186384 | [186384-down-the-hill.json](./186384-down-the-hill.json) |
 | Down the Hill! | 259239 | [259239-down-the-hill.json](./259239-down-the-hill.json) |
 | Down the Hole | 133813 | [133813-down-the-hole.json](./133813-down-the-hole.json) |
 | Down The Mountain | 307338 | [307338-down-the-mountain.json](./307338-down-the-mountain.json) |
