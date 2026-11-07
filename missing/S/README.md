@@ -4478,6 +4478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Agent | 264045 | [264045-secret-agent.json](./264045-secret-agent.json) |
 | Secret Agent | 8485 | [8485-secret-agent.json](./8485-secret-agent.json) |
 | Secret Agent 001 | 224621 | [224621-secret-agent-001.json](./224621-secret-agent-001.json) |
+| Secret Agent Allan Martin in ... Phoenix Erupting | 169002 | [169002-secret-agent-allan-martin-in-phoenix-erupting.json](./169002-secret-agent-allan-martin-in-phoenix-erupting.json) |
 | Secret Agent Barbie | 71927 | [71927-secret-agent-barbie.json](./71927-secret-agent-barbie.json) |
 | Secret Agent Barbie: Royal Jewels Mission | 45170 | [45170-secret-agent-barbie-royal-jewels-mission.json](./45170-secret-agent-barbie-royal-jewels-mission.json) |
 | Secret Agent Cinder | 58702 | [58702-secret-agent-cinder.json](./58702-secret-agent-cinder.json) |
@@ -19392,6 +19393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Battle Arena | 60231 | [60231-space-battle-arena.json](./60231-space-battle-arena.json) |
 | Space Battle Core | 33651 | [33651-space-battle-core.json](./33651-space-battle-core.json) |
 | Space Battle Royale | 264000 | [264000-space-battle-royale.json](./264000-space-battle-royale.json) |
+| Space Battle SVF | 169023 | [169023-space-battle-svf.json](./169023-space-battle-svf.json) |
 | Space Battle VR | 112626 | [112626-space-battle-vr.json](./112626-space-battle-vr.json) |
 | Space Battle: Humanity | 51507 | [51507-space-battle-humanity.json](./51507-space-battle-humanity.json) |
 | Space Battle: Mayhem | 293519 | [293519-space-battle-mayhem.json](./293519-space-battle-mayhem.json) |
@@ -36503,6 +36505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Syvalion | 40249 | [40249-syvalion.json](./40249-syvalion.json) |
 | Syvnta: Sovereignty | 343952 | [343952-syvnta-sovereignty.json](./343952-syvnta-sovereignty.json) |
 | Syyrah: The Warp Hunter | 73434 | [73434-syyrah-the-warp-hunter.json](./73434-syyrah-the-warp-hunter.json) |
+| Syystem: The Phantom Train | 168980 | [168980-syystem-the-phantom-train.json](./168980-syystem-the-phantom-train.json) |
 | Syzgy | 178018 | [178018-syzgy.json](./178018-syzgy.json) |
 | Syzygy | 123068 | [123068-syzygy.json](./123068-syzygy.json) |
 | Syzygy | 137299 | [137299-syzygy.json](./137299-syzygy.json) |
