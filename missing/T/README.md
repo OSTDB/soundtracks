@@ -3355,6 +3355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Blob: Paperperson - The First Single | 170868 | [170868-teenage-blob-paperperson-the-first-single.json](./170868-teenage-blob-paperperson-the-first-single.json) |
 | Teenage Crush Love Story Games | 255046 | [255046-teenage-crush-love-story-games.json](./255046-teenage-crush-love-story-games.json) |
 | Teenage Demon Slayer Society | 261217 | [261217-teenage-demon-slayer-society.json](./261217-teenage-demon-slayer-society.json) |
+| Teenage Dirtbag | 191316 | [191316-teenage-dirtbag.json](./191316-teenage-dirtbag.json) |
 | Teenage Lawnmower | 308559 | [308559-teenage-lawnmower.json](./308559-teenage-lawnmower.json) |
 | Teenage Mutant Ninja Puppets | 404440 | [404440-teenage-mutant-ninja-puppets.json](./404440-teenage-mutant-ninja-puppets.json) |
 | Teenage Mutant Ninja Turtles | 146004 | [146004-teenage-mutant-ninja-turtles.json](./146004-teenage-mutant-ninja-turtles.json) |
@@ -14447,6 +14448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Office Rooms | 373305 | [373305-the-office-rooms.json](./373305-the-office-rooms.json) |
 | The Office Simulation | 148319 | [148319-the-office-simulation.json](./148319-the-office-simulation.json) |
 | The Office: Dirty Secrets | 411243 | [411243-the-office-dirty-secrets.json](./411243-the-office-dirty-secrets.json) |
+| The Office: Somehow We Manage | 191302 | [191302-the-office-somehow-we-manage.json](./191302-the-office-somehow-we-manage.json) |
 | The Official Everton FC Intelligensia | 314965 | [314965-the-official-everton-fc-intelligensia.json](./314965-the-official-everton-fc-intelligensia.json) |
 | The Official Father Christmas | 71350 | [71350-the-official-father-christmas.json](./71350-the-official-father-christmas.json) |
 | The Official GamingTaylor Game, Great Job! | 104346 | [104346-the-official-gamingtaylor-game-great-job.json](./104346-the-official-gamingtaylor-game-great-job.json) |
@@ -15912,6 +15914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Salma World | 346148 | [346148-the-salma-world.json](./346148-the-salma-world.json) |
 | The Salt Fortress | 28860 | [28860-the-salt-fortress.json](./28860-the-salt-fortress.json) |
 | The Salt Keep | 237000 | [237000-the-salt-keep.json](./237000-the-salt-keep.json) |
+| The Salt Order | 191310 | [191310-the-salt-order.json](./191310-the-salt-order.json) |
 | The Salvation Project | 177977 | [177977-the-salvation-project.json](./177977-the-salvation-project.json) |
 | The Samaritan Paradox | 18642 | [18642-the-samaritan-paradox.json](./18642-the-samaritan-paradox.json) |
 | The Same World 2 | 214022 | [214022-the-same-world-2.json](./214022-the-same-world-2.json) |
@@ -17792,6 +17795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tournament of Zulula | 63383 | [63383-the-tournament-of-zulula.json](./63383-the-tournament-of-zulula.json) |
 | The Touryst | 121748 | [121748-the-touryst.json](./121748-the-touryst.json) |
 | The Touryst: Deluxe | 368773 | [368773-the-touryst-deluxe.json](./368773-the-touryst-deluxe.json) |
+| The Tousou Highway: Nagoya-Tokyo | 191352 | [191352-the-tousou-highway-nagoya-tokyo.json](./191352-the-tousou-highway-nagoya-tokyo.json) |
 | The Tovanian Stones | 361249 | [361249-the-tovanian-stones.json](./361249-the-tovanian-stones.json) |
 | The Tower | 117455 | [117455-the-tower.json](./117455-the-tower.json) |
 | The Tower | 138180 | [138180-the-tower.json](./138180-the-tower.json) |
@@ -23865,6 +23869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TMNT: Ninja Adventures | 64469 | [64469-tmnt-ninja-adventures.json](./64469-tmnt-ninja-adventures.json) |
 | TMNT: Splintered Fate Heroes Bundle | 370828 | [370828-tmnt-splintered-fate-heroes-bundle.json](./370828-tmnt-splintered-fate-heroes-bundle.json) |
 | TMNT: The Power of 4 | 146241 | [146241-tmnt-the-power-of-4.json](./146241-tmnt-the-power-of-4.json) |
+| tmOD | 191311 | [191311-tmod.json](./191311-tmod.json) |
 | tModLoader | 134157 | [134157-tmodloader.json](./134157-tmodloader.json) |
 | tModLoader 64Bit | 229438 | [229438-tmodloader-64bit.json](./229438-tmodloader-64bit.json) |
 | TModLoader: Metroid Mod | 332466 | [332466-tmodloader-metroid-mod.json](./332466-tmodloader-metroid-mod.json) |
