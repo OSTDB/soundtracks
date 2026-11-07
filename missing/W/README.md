@@ -161,7 +161,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wai-wai Check! | 345492 | [345492-wai-wai-check.json](./345492-wai-wai-check.json) |
 | Wai-wai de Q | 233979 | [233979-wai-wai-de-q.json](./233979-wai-wai-de-q.json) |
 | Wai-wai de Q: Aki no Daikansha Matsuri! | 233980 | [233980-wai-wai-de-q-aki-no-daikansha-matsuri.json](./233980-wai-wai-de-q-aki-no-daikansha-matsuri.json) |
+| Wai-wai de Q: Aki no Daikansha Matsuri! - Dai-1-kai | 179251 | [179251-wai-wai-de-q-aki-no-daikansha-matsuri-dai-1-kai.json](./179251-wai-wai-de-q-aki-no-daikansha-matsuri-dai-1-kai.json) |
+| Wai-wai de Q: Aki no Daikansha Matsuri! - Dai-2-kai | 179252 | [179252-wai-wai-de-q-aki-no-daikansha-matsuri-dai-2-kai.json](./179252-wai-wai-de-q-aki-no-daikansha-matsuri-dai-2-kai.json) |
+| Wai-wai de Q: Aki no Daikansha Matsuri! - Dai-3-kai | 179253 | [179253-wai-wai-de-q-aki-no-daikansha-matsuri-dai-3-kai.json](./179253-wai-wai-de-q-aki-no-daikansha-matsuri-dai-3-kai.json) |
+| Wai-wai de Q: Aki no Daikansha Matsuri! - Dai-4-kai | 179254 | [179254-wai-wai-de-q-aki-no-daikansha-matsuri-dai-4-kai.json](./179254-wai-wai-de-q-aki-no-daikansha-matsuri-dai-4-kai.json) |
+| Wai-wai de Q: Aki no Daikansha Matsuri! - Dai-5-kai | 179255 | [179255-wai-wai-de-q-aki-no-daikansha-matsuri-dai-5-kai.json](./179255-wai-wai-de-q-aki-no-daikansha-matsuri-dai-5-kai.json) |
+| Wai-wai de Q: Dai-1-kai | 179247 | [179247-wai-wai-de-q-dai-1-kai.json](./179247-wai-wai-de-q-dai-1-kai.json) |
+| Wai-wai de Q: Dai-2-kai | 179248 | [179248-wai-wai-de-q-dai-2-kai.json](./179248-wai-wai-de-q-dai-2-kai.json) |
+| Wai-wai de Q: Dai-3-kai | 179249 | [179249-wai-wai-de-q-dai-3-kai.json](./179249-wai-wai-de-q-dai-3-kai.json) |
+| Wai-wai de Q: Dai-4-kai | 179250 | [179250-wai-wai-de-q-dai-4-kai.json](./179250-wai-wai-de-q-dai-4-kai.json) |
 | Wai-wai de Q: Haru no Saiten Special | 233977 | [233977-wai-wai-de-q-haru-no-saiten-special.json](./233977-wai-wai-de-q-haru-no-saiten-special.json) |
+| Wai-wai de Q: Haru no Saiten Special - Dai-1-kai | 179256 | [179256-wai-wai-de-q-haru-no-saiten-special-dai-1-kai.json](./179256-wai-wai-de-q-haru-no-saiten-special-dai-1-kai.json) |
+| Wai-wai de Q: Haru no Saiten Special - Dai-2-kai | 179257 | [179257-wai-wai-de-q-haru-no-saiten-special-dai-2-kai.json](./179257-wai-wai-de-q-haru-no-saiten-special-dai-2-kai.json) |
+| Wai-wai de Q: Haru no Saiten Special - Dai-3-kai | 179258 | [179258-wai-wai-de-q-haru-no-saiten-special-dai-3-kai.json](./179258-wai-wai-de-q-haru-no-saiten-special-dai-3-kai.json) |
+| Wai-wai de Q: Haru no Saiten Special - Dai-4-kai | 179259 | [179259-wai-wai-de-q-haru-no-saiten-special-dai-4-kai.json](./179259-wai-wai-de-q-haru-no-saiten-special-dai-4-kai.json) |
 | Wai-Wai Monster Land | 292845 | [292845-wai-wai-monster-land.json](./292845-wai-wai-monster-land.json) |
 | Wai-wai World 2: SOS!! Parsley-jou | 48547 | [48547-wai-wai-world-2-sos-parsley-jou.json](./48547-wai-wai-world-2-sos-parsley-jou.json) |
 | Wai-wai! Minna de Challenge | 220355 | [220355-wai-wai-minna-de-challenge.json](./220355-wai-wai-minna-de-challenge.json) |
@@ -5990,6 +6003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Clothing | 333968 | [333968-winter-clothing.json](./333968-winter-clothing.json) |
 | Winter Cold | 52297 | [52297-winter-cold.json](./52297-winter-cold.json) |
 | Winter Cometh | 122400 | [122400-winter-cometh.json](./122400-winter-cometh.json) |
+| Winter Dream | 179264 | [179264-winter-dream.json](./179264-winter-dream.json) |
 | Winter Ember | 124002 | [124002-winter-ember.json](./124002-winter-ember.json) |
 | Winter Events | 41012 | [41012-winter-events.json](./41012-winter-events.json) |
 | Winter Falling: Battle Tactics | 173251 | [173251-winter-falling-battle-tactics.json](./173251-winter-falling-battle-tactics.json) |
