@@ -19077,6 +19077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Durarara!! 3way Standoff: Alley V | 336109 | [336109-durarara-3way-standoff-alley-v.json](./336109-durarara-3way-standoff-alley-v.json) |
 | Durarara!! Relay | 61661 | [61661-durarara-relay.json](./61661-durarara-relay.json) |
 | Durations | 5633 | [5633-durations.json](./5633-durations.json) |
+| Durdanto | 149662 | [149662-durdanto.json](./149662-durdanto.json) |
 | Durga: The Lionhearted | 352203 | [352203-durga-the-lionhearted.json](./352203-durga-the-lionhearted.json) |
 | Duriano | 311483 | [311483-duriano.json](./311483-duriano.json) |
 | During Before and After Covid-19 | 150766 | [150766-during-before-and-after-covid-19.json](./150766-during-before-and-after-covid-19.json) |
