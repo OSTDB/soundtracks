@@ -2128,6 +2128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electra | 78377 | [78377-electra.json](./78377-electra.json) |
 | Electracy: Signal Lost | 418596 | [418596-electracy-signal-lost.json](./418596-electracy-signal-lost.json) |
 | Electranoid | 94324 | [94324-electranoid.json](./94324-electranoid.json) |
+| ElectraPlanet | 190815 | [190815-electraplanet.json](./190815-electraplanet.json) |
 | Electrial | 339731 | [339731-electrial.json](./339731-electrial.json) |
 | ElectriarCode | 210220 | [210220-electriarcode.json](./210220-electriarcode.json) |
 | Electric | 187162 | [187162-electric.json](./187162-electric.json) |
@@ -7043,6 +7044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everything Is Crab | 363945 | [363945-everything-is-crab.json](./363945-everything-is-crab.json) |
 | Everything is Crab: Supporter Pack | 400873 | [400873-everything-is-crab-supporter-pack.json](./400873-everything-is-crab-supporter-pack.json) |
 | Everything is Fine | 180819 | [180819-everything-is-fine.json](./180819-everything-is-fine.json) |
+| Everything Is For Humanity | 190810 | [190810-everything-is-for-humanity.json](./190810-everything-is-for-humanity.json) |
 | Everything is Garbage | 140390 | [140390-everything-is-garbage.json](./140390-everything-is-garbage.json) |
 | Everything is Going to be OK | 75861 | [75861-everything-is-going-to-be-ok.json](./75861-everything-is-going-to-be-ok.json) |
 | Everything Is Gun! | 403363 | [403363-everything-is-gun.json](./403363-everything-is-gun.json) |
