@@ -768,6 +768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galago | 338052 | [338052-galago.json](./338052-galago.json) |
 | Galah Galah | 228958 | [228958-galah-galah.json](./228958-galah-galah.json) |
 | Galahad | 46595 | [46595-galahad.json](./46595-galahad.json) |
+| Galahad 3093 | 141324 | [141324-galahad-3093.json](./141324-galahad-3093.json) |
 | Galaia | 211910 | [211910-galaia.json](./211910-galaia.json) |
 | Galak Zed | 116874 | [116874-galak-zed.json](./116874-galak-zed.json) |
 | Galak-Z: The Dimensional | 11203 | [11203-galak-z-the-dimensional.json](./11203-galak-z-the-dimensional.json) |
