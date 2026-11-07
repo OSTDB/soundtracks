@@ -3045,6 +3045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fastraq | 223416 | [223416-fastraq.json](./223416-fastraq.json) |
 | Fastro Dude | 365234 | [365234-fastro-dude.json](./365234-fastro-dude.json) |
 | Fastro Dude 2 | 371849 | [371849-fastro-dude-2.json](./371849-fastro-dude-2.json) |
+| Fat & Furious | 167426 | [167426-fat-and-furious.json](./167426-fat-and-furious.json) |
 | Fat 2 Fit! | 152289 | [152289-fat-2-fit.json](./152289-fat-2-fit.json) |
 | Fat Albert | 320981 | [320981-fat-albert.json](./320981-fat-albert.json) |
 | Fat Baby | 186036 | [186036-fat-baby.json](./186036-fat-baby.json) |
@@ -8488,6 +8489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fluffy Alchemist | 414690 | [414690-fluffy-alchemist.json](./414690-fluffy-alchemist.json) |
 | Fluffy Alien | 104373 | [104373-fluffy-alien.json](./104373-fluffy-alien.json) |
 | Fluffy Autumn | 342157 | [342157-fluffy-autumn.json](./342157-fluffy-autumn.json) |
+| Fluffy Bastards | 167456 | [167456-fluffy-bastards.json](./167456-fluffy-bastards.json) |
 | Fluffy Bear | 79308 | [79308-fluffy-bear.json](./79308-fluffy-bear.json) |
 | Fluffy Chef | 382889 | [382889-fluffy-chef.json](./382889-fluffy-chef.json) |
 | Fluffy Creatures vs. The World | 28808 | [28808-fluffy-creatures-vs-the-world.json](./28808-fluffy-creatures-vs-the-world.json) |
