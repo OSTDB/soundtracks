@@ -5980,7 +5980,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -19878,6 +19877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MustScream | 357139 | [357139-mustscream.json](./357139-mustscream.json) |
 | Musuko to Oyome-sama: Wakeari Tsuma ha Jirai-kei Doronuma Story | 240229 | [240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json](./240229-musuko-to-oyome-sama-wakeari-tsuma-ha-jirai-kei-doronuma-story.json) |
 | Musume | 329463 | [329463-musume.json](./329463-musume.json) |
+| Musuu | 166358 | [166358-musuu.json](./166358-musuu.json) |
 | Musya: The Classic Japanese Tale of Horror | 36740 | [36740-musya-the-classic-japanese-tale-of-horror.json](./36740-musya-the-classic-japanese-tale-of-horror.json) |
 | Musynx | 75992 | [75992-musynx.json](./75992-musynx.json) |
 | Musynx: House Theme | 255749 | [255749-musynx-house-theme.json](./255749-musynx-house-theme.json) |
