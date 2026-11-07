@@ -3098,6 +3098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Evidence: Art of Murder - Collector's Edition | 170207 | [170207-fatal-evidence-art-of-murder-collectors-edition.json](./170207-fatal-evidence-art-of-murder-collectors-edition.json) |
 | Fatal Evidence: Cursed Island | 139773 | [139773-fatal-evidence-cursed-island.json](./139773-fatal-evidence-cursed-island.json) |
 | Fatal Evidence: Cursed Island - Collector's Edition | 119038 | [119038-fatal-evidence-cursed-island-collectors-edition.json](./119038-fatal-evidence-cursed-island-collectors-edition.json) |
+| Fatal Evidence: The Cursed Island - Collector's Edition | 171186 | [171186-fatal-evidence-the-cursed-island-collectors-edition.json](./171186-fatal-evidence-the-cursed-island-collectors-edition.json) |
 | Fatal Evidence: The Missing | 139774 | [139774-fatal-evidence-the-missing.json](./139774-fatal-evidence-the-missing.json) |
 | Fatal Evidence: The Missing - Collector's Edition | 132447 | [132447-fatal-evidence-the-missing-collectors-edition.json](./132447-fatal-evidence-the-missing-collectors-edition.json) |
 | Fatal Falls | 295825 | [295825-fatal-falls.json](./295825-fatal-falls.json) |
