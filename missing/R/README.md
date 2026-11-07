@@ -5521,6 +5521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescued | 337545 | [337545-rescued.json](./337545-rescued.json) |
 | Rescuer | 163181 | [163181-rescuer.json](./163181-rescuer.json) |
 | Rescues | 202027 | [202027-rescues.json](./202027-rescues.json) |
+| RescueTeam | 172289 | [172289-rescueteam.json](./172289-rescueteam.json) |
 | Rescuing Ralph | 182043 | [182043-rescuing-ralph.json](./182043-rescuing-ralph.json) |
 | Research and Destroy | 154274 | [154274-research-and-destroy.json](./154274-research-and-destroy.json) |
 | Research and Development | 182643 | [182643-research-and-development.json](./182643-research-and-development.json) |
