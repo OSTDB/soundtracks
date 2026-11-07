@@ -1985,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Tsubasa: Rise of New Champions - Tsubasa Ozora Mission | 214544 | [214544-captain-tsubasa-rise-of-new-champions-tsubasa-ozora-mission.json](./214544-captain-tsubasa-rise-of-new-champions-tsubasa-ozora-mission.json) |
 | Captain Tsubasa: Rise of New Champions - Ultimate Edition | 268552 | [268552-captain-tsubasa-rise-of-new-champions-ultimate-edition.json](./268552-captain-tsubasa-rise-of-new-champions-ultimate-edition.json) |
 | Captain Tsubasa: Zero - Showdown! Miracle Shoot | 233414 | [233414-captain-tsubasa-zero-showdown-miracle-shoot.json](./233414-captain-tsubasa-zero-showdown-miracle-shoot.json) |
+| Captain U | 186940 | [186940-captain-u.json](./186940-captain-u.json) |
 | Captain Underpants: Epic Choice-o-rama | 256837 | [256837-captain-underpants-epic-choice-o-rama.json](./256837-captain-underpants-epic-choice-o-rama.json) |
 | Captain Underpants' Mischievous Mazemaster 2001 | 425853 | [425853-captain-underpants-mischievous-mazemaster-2001.json](./425853-captain-underpants-mischievous-mazemaster-2001.json) |
 | Captain Velvet Meteor: The Jump+ Dimensions | 194946 | [194946-captain-velvet-meteor-the-jump-dimensions.json](./194946-captain-velvet-meteor-the-jump-dimensions.json) |
@@ -2462,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Slay | 415345 | [415345-card-slay.json](./415345-card-slay.json) |
 | Card Smash: Tribes at War | 114706 | [114706-card-smash-tribes-at-war.json](./114706-card-smash-tribes-at-war.json) |
 | Card Solitaire Z | 88603 | [88603-card-solitaire-z.json](./88603-card-solitaire-z.json) |
+| Card Storm Idle | 186968 | [186968-card-storm-idle.json](./186968-card-storm-idle.json) |
 | Card story | 120851 | [120851-card-story.json](./120851-card-story.json) |
 | Card Streamer Simulator | 343218 | [343218-card-streamer-simulator.json](./343218-card-streamer-simulator.json) |
 | Card Summoner | 309445 | [309445-card-summoner.json](./309445-card-summoner.json) |
@@ -5746,6 +5748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenging Land | 357824 | [357824-challenging-land.json](./357824-challenging-land.json) |
 | Chalo Chalo | 34292 | [34292-chalo-chalo.json](./34292-chalo-chalo.json) |
 | Chalvo 55: Super Puzzle Action | 7821 | [7821-chalvo-55-super-puzzle-action.json](./7821-chalvo-55-super-puzzle-action.json) |
+| Cham the Cat Adventure | 187000 | [187000-cham-the-cat-adventure.json](./187000-cham-the-cat-adventure.json) |
 | Chambara | 21933 | [21933-chambara.json](./21933-chambara.json) |
 | Chamber | 182693 | [182693-chamber.json](./182693-chamber.json) |
 | Chamber 19 | 32543 | [32543-chamber-19.json](./32543-chamber-19.json) |
@@ -19288,6 +19291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubes | 241707 | [241707-cubes.json](./241707-cubes.json) |
 | Cubes | 247072 | [247072-cubes.json](./247072-cubes.json) |
 | Cubes | 84030 | [84030-cubes.json](./84030-cubes.json) |
+| Cubes and Knights | 186983 | [186983-cubes-and-knights.json](./186983-cubes-and-knights.json) |
 | Cubes and More Cubes | 180221 | [180221-cubes-and-more-cubes.json](./180221-cubes-and-more-cubes.json) |
 | Cubes Control | 256167 | [256167-cubes-control.json](./256167-cubes-control.json) |
 | Cubes Crush Legend | 174819 | [174819-cubes-crush-legend.json](./174819-cubes-crush-legend.json) |
