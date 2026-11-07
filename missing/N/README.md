@@ -4835,6 +4835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikakudori Solitaire | 89851 | [89851-nikakudori-solitaire.json](./89851-nikakudori-solitaire.json) |
 | Nike+ Kinect Training | 21010 | [21010-nike-kinect-training.json](./21010-nike-kinect-training.json) |
 | Nikhil Murthy's Syphilisation | 165742 | [165742-nikhil-murthys-syphilisation.json](./165742-nikhil-murthys-syphilisation.json) |
+| Nikhoj | 183166 | [183166-nikhoj.json](./183166-nikhoj.json) |
 | Niki in the Ship | 172916 | [172916-niki-in-the-ship.json](./172916-niki-in-the-ship.json) |
 | Nikita: Speedy Pirates | 253732 | [253732-nikita-speedy-pirates.json](./253732-nikita-speedy-pirates.json) |
 | Nikka: Rise | 235486 | [235486-nikka-rise.json](./235486-nikka-rise.json) |
