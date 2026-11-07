@@ -4169,6 +4169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seagull Kart Racing | 258240 | [258240-seagull-kart-racing.json](./258240-seagull-kart-racing.json) |
 | Seagulls: Crappy Situation | 290755 | [290755-seagulls-crappy-situation.json](./290755-seagulls-crappy-situation.json) |
 | Seahaven Towers Solitaire | 83465 | [83465-seahaven-towers-solitaire.json](./83465-seahaven-towers-solitaire.json) |
+| Seaking Hunter | 188183 | [188183-seaking-hunter.json](./188183-seaking-hunter.json) |
 | Seal Breaker | 181202 | [181202-seal-breaker.json](./181202-seal-breaker.json) |
 | Seal Electric Railway | 147668 | [147668-seal-electric-railway.json](./147668-seal-electric-railway.json) |
 | Seal Game's | 389608 | [389608-seal-games.json](./389608-seal-games.json) |
@@ -7006,6 +7007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowrun Trilogy | 154181 | [154181-shadowrun-trilogy.json](./154181-shadowrun-trilogy.json) |
 | Shadowrun: Dragonfall - Director's Cut | 8864 | [8864-shadowrun-dragonfall-directors-cut.json](./8864-shadowrun-dragonfall-directors-cut.json) |
 | Shadowrun: Hong Kong - Extended Edition | 35842 | [35842-shadowrun-hong-kong-extended-edition.json](./35842-shadowrun-hong-kong-extended-edition.json) |
+| Shadows | 188162 | [188162-shadows.json](./188162-shadows.json) |
 | Shadows | 318203 | [318203-shadows.json](./318203-shadows.json) |
 | Shadows 2: Perfidia | 29178 | [29178-shadows-2-perfidia.json](./29178-shadows-2-perfidia.json) |
 | Shadows and Dust | 122625 | [122625-shadows-and-dust.json](./122625-shadows-and-dust.json) |
@@ -13871,6 +13873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SlingSkull Zombies: Graveyard Shift | 55571 | [55571-slingskull-zombies-graveyard-shift.json](./55571-slingskull-zombies-graveyard-shift.json) |
 | SlingSkull Zombies: The Dawn | 55665 | [55665-slingskull-zombies-the-dawn.json](./55665-slingskull-zombies-the-dawn.json) |
 | Slingstar | 80640 | [80640-slingstar.json](./80640-slingstar.json) |
+| SlingStar | 188216 | [188216-slingstar.json](./188216-slingstar.json) |
 | Slingy Snow | 175168 | [175168-slingy-snow.json](./175168-slingy-snow.json) |
 | Slink & Snatch: Tales of Thievery | 220666 | [220666-slink-and-snatch-tales-of-thievery.json](./220666-slink-and-snatch-tales-of-thievery.json) |
 | Slink.io | 227540 | [227540-slink-io.json](./227540-slink-io.json) |
@@ -14453,6 +14456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Simulator | 391550 | [391550-smash-simulator.json](./391550-smash-simulator.json) |
 | Smash Slug | 194877 | [194877-smash-slug.json](./194877-smash-slug.json) |
 | Smash Splat Deluxe Set | 231788 | [231788-smash-splat-deluxe-set.json](./231788-smash-splat-deluxe-set.json) |
+| Smash Star | 188158 | [188158-smash-star.json](./188158-smash-star.json) |
 | Smash T.V. | 20504 | [20504-smash-t-v.json](./20504-smash-t-v.json) |
 | Smash T.V. | 218326 | [218326-smash-t-v.json](./218326-smash-t-v.json) |
 | Smash Table Tennis | 84880 | [84880-smash-table-tennis.json](./84880-smash-table-tennis.json) |
@@ -19699,6 +19703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -23606,6 +23611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squonker 3 | 260663 | [260663-squonker-3.json](./260663-squonker-3.json) |
 | Sqvishy | 117451 | [117451-sqvishy.json](./117451-sqvishy.json) |
 | Sqwark! A Nutty Adventure | 169478 | [169478-sqwark-a-nutty-adventure.json](./169478-sqwark-a-nutty-adventure.json) |
+| Sr. Empatia | 188174 | [188174-sr-empatia.json](./188174-sr-empatia.json) |
 | Sram | 131904 | [131904-sram.json](./131904-sram.json) |
 | SRB2 Heroes | 326954 | [326954-srb2-heroes.json](./326954-srb2-heroes.json) |
 | SRG Mixtape Volume #1 | 209948 | [209948-srg-mixtape-volume-1.json](./209948-srg-mixtape-volume-1.json) |
@@ -28757,6 +28763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold: Warlords - Rise of the Shogun Campaign | 186877 | [186877-stronghold-warlords-rise-of-the-shogun-campaign.json](./186877-stronghold-warlords-rise-of-the-shogun-campaign.json) |
 | Stronghold: Warlords - Special Edition | 154182 | [154182-stronghold-warlords-special-edition.json](./154182-stronghold-warlords-special-edition.json) |
 | Stronghold: Warlords - The Mongol Empire Campaign | 186879 | [186879-stronghold-warlords-the-mongol-empire-campaign.json](./186879-stronghold-warlords-the-mongol-empire-campaign.json) |
+| Stronghold: Warlords - The Warrior Queen Campaign | 188219 | [188219-stronghold-warlords-the-warrior-queen-campaign.json](./188219-stronghold-warlords-the-warrior-queen-campaign.json) |
 | Stronghold's Dungeon | 212035 | [212035-strongholds-dungeon.json](./212035-strongholds-dungeon.json) |
 | Stronghold2D | 183858 | [183858-stronghold2d.json](./183858-stronghold2d.json) |
 | Strongloween: The Escape | 192424 | [192424-strongloween-the-escape.json](./192424-strongloween-the-escape.json) |
@@ -30782,6 +30789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Captain 3D | 111485 | [111485-super-captain-3d.json](./111485-super-captain-3d.json) |
 | Super Captain Falcon 64 | 165286 | [165286-super-captain-falcon-64.json](./165286-super-captain-falcon-64.json) |
 | Super Captain Flying Robot City Rescue Mission | 96008 | [96008-super-captain-flying-robot-city-rescue-mission.json](./96008-super-captain-flying-robot-city-rescue-mission.json) |
+| Super Car | 188177 | [188177-super-car.json](./188177-super-car.json) |
 | Super Car Driver | 196383 | [196383-super-car-driver.json](./196383-super-car-driver.json) |
 | Super Car Driving Bugatti Divo | 296781 | [296781-super-car-driving-bugatti-divo.json](./296781-super-car-driving-bugatti-divo.json) |
 | Super Caronaut | 178626 | [178626-super-caronaut.json](./178626-super-caronaut.json) |
