@@ -4609,6 +4609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Free | 127940 | [127940-girls-free.json](./127940-girls-free.json) |
 | Girls Girls Girls VR (create + pose in vr) | 103809 | [103809-girls-girls-girls-vr-create-pose-in-vr.json](./103809-girls-girls-girls-vr-create-pose-in-vr.json) |
 | Girls Go Fashion Party | 358589 | [358589-girls-go-fashion-party.json](./358589-girls-go-fashion-party.json) |
+| Girls Guns and Zombies | 169532 | [169532-girls-guns-and-zombies.json](./169532-girls-guns-and-zombies.json) |
 | Girls Gym | 237483 | [237483-girls-gym.json](./237483-girls-gym.json) |
 | Girls Hair Salon | 88026 | [88026-girls-hair-salon.json](./88026-girls-hair-salon.json) |
 | Girls Hobby in Love | 278922 | [278922-girls-hobby-in-love.json](./278922-girls-hobby-in-love.json) |
@@ -8565,6 +8566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravitwist | 277443 | [277443-gravitwist.json](./277443-gravitwist.json) |
 | Gravity | 109175 | [109175-gravity.json](./109175-gravity.json) |
 | Gravity | 12125 | [12125-gravity.json](./12125-gravity.json) |
+| Gravity | 169531 | [169531-gravity.json](./169531-gravity.json) |
 | Gravity | 177540 | [177540-gravity.json](./177540-gravity.json) |
 | Gravity | 234147 | [234147-gravity.json](./234147-gravity.json) |
 | Gravity | 250540 | [250540-gravity.json](./250540-gravity.json) |
