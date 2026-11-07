@@ -2092,6 +2092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darken VR | 106334 | [106334-darken-vr.json](./106334-darken-vr.json) |
 | Darkend | 331684 | [331684-darkend.json](./331684-darkend.json) |
 | DarkEnd | 17217 | [17217-darkend.json](./17217-darkend.json) |
+| Darkened Glory | 172269 | [172269-darkened-glory.json](./172269-darkened-glory.json) |
 | Darkened Skye | 3870 | [3870-darkened-skye.json](./3870-darkened-skye.json) |
 | Darkenstein 3D | 235996 | [235996-darkenstein-3d.json](./235996-darkenstein-3d.json) |
 | Darker | 77807 | [77807-darker.json](./77807-darker.json) |
