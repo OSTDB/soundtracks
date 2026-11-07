@@ -4076,6 +4076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Hotel | 324506 | [324506-penguin-hotel.json](./324506-penguin-hotel.json) |
 | Penguin Hotel 2: Snake Penguin Ambition | 333533 | [333533-penguin-hotel-2-snake-penguin-ambition.json](./333533-penguin-hotel-2-snake-penguin-ambition.json) |
 | Penguin Hunting | 192282 | [192282-penguin-hunting.json](./192282-penguin-hunting.json) |
+| Penguin Isle | 165238 | [165238-penguin-isle.json](./165238-penguin-isle.json) |
 | Penguin Land | 305468 | [305468-penguin-land.json](./305468-penguin-land.json) |
 | Penguin Land | 363310 | [363310-penguin-land.json](./363310-penguin-land.json) |
 | Penguin Land | 365677 | [365677-penguin-land.json](./365677-penguin-land.json) |
@@ -11497,6 +11498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Reminiscencia | 280747 | [280747-pokemon-reminiscencia.json](./280747-pokemon-reminiscencia.json) |
 | Pokémon Renegade Platinum | 127564 | [127564-pokemon-renegade-platinum.json](./127564-pokemon-renegade-platinum.json) |
 | Pokémon RenHERgade Platinum | 387603 | [387603-pokemon-renhergade-platinum.json](./387603-pokemon-renhergade-platinum.json) |
+| Pokémon Resolute | 165254 | [165254-pokemon-resolute.json](./165254-pokemon-resolute.json) |
 | Pokémon Revelation | 226211 | [226211-pokemon-revelation.json](./226211-pokemon-revelation.json) |
 | Pokémon Revolution Online | 129561 | [129561-pokemon-revolution-online.json](./129561-pokemon-revolution-online.json) |
 | Pokémon Rising Ruby | 309184 | [309184-pokemon-rising-ruby.json](./309184-pokemon-rising-ruby.json) |
@@ -11643,6 +11645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Vanishing Point | 318563 | [318563-pokemon-vanishing-point.json](./318563-pokemon-vanishing-point.json) |
 | Pokémon Velvet: Special Hatenna Edition | 337422 | [337422-pokemon-velvet-special-hatenna-edition.json](./337422-pokemon-velvet-special-hatenna-edition.json) |
 | Pokémon Version Violette | 401803 | [401803-pokemon-version-violette.json](./401803-pokemon-version-violette.json) |
+| Pokémon Victory Fire | 165252 | [165252-pokemon-victory-fire.json](./165252-pokemon-victory-fire.json) |
 | Pokémon Villain Jam | 354642 | [354642-pokemon-villain-jam.json](./354642-pokemon-villain-jam.json) |
 | Pokémon Vintage White | 213154 | [213154-pokemon-vintage-white.json](./213154-pokemon-vintage-white.json) |
 | Pokémon Violet + The Hidden Treasure of Area Zero | 240084 | [240084-pokemon-violet-the-hidden-treasure-of-area-zero.json](./240084-pokemon-violet-the-hidden-treasure-of-area-zero.json) |
