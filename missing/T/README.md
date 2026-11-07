@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tachyon Flow | 394582 | [394582-tachyon-flow.json](./394582-tachyon-flow.json) |
 | Tachyon Project | 19976 | [19976-tachyon-project.json](./19976-tachyon-project.json) |
 | Tachyon Project: Limited Edition | 166235 | [166235-tachyon-project-limited-edition.json](./166235-tachyon-project-limited-edition.json) |
+| Tachyon Wars | 157269 | [157269-tachyon-wars.json](./157269-tachyon-wars.json) |
 | Tachyon: The Fringe | 357 | [357-tachyon-the-fringe.json](./357-tachyon-the-fringe.json) |
 | Tachyonest | 259686 | [259686-tachyonest.json](./259686-tachyonest.json) |
 | Tachyons | 176425 | [176425-tachyons.json](./176425-tachyons.json) |
@@ -1597,6 +1598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tall Bagel 2: Avocado Hardtack | 186377 | [186377-tall-bagel-2-avocado-hardtack.json](./186377-tall-bagel-2-avocado-hardtack.json) |
 | Tall Infinity | 45062 | [45062-tall-infinity.json](./45062-tall-infinity.json) |
 | Tall Man Run | 208953 | [208953-tall-man-run.json](./208953-tall-man-run.json) |
+| Tall Order | 157271 | [157271-tall-order.json](./157271-tall-order.json) |
 | Tall Poppy | 172550 | [172550-tall-poppy.json](./172550-tall-poppy.json) |
 | Tall Poppy 2 | 212006 | [212006-tall-poppy-2.json](./212006-tall-poppy-2.json) |
 | Tall Ships: Age of Sail | 256537 | [256537-tall-ships-age-of-sail.json](./256537-tall-ships-age-of-sail.json) |
@@ -9121,6 +9123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Evilslayer Maiden | 82639 | [82639-the-evilslayer-maiden.json](./82639-the-evilslayer-maiden.json) |
 | The Evolution of Trust | 176068 | [176068-the-evolution-of-trust.json](./176068-the-evolution-of-trust.json) |
 | The Evolving Forest | 252891 | [252891-the-evolving-forest.json](./252891-the-evolving-forest.json) |
+| The Evolving World: Catalyst Wake | 157280 | [157280-the-evolving-world-catalyst-wake.json](./157280-the-evolving-world-catalyst-wake.json) |
 | The exact moment | 144790 | [144790-the-exact-moment.json](./144790-the-exact-moment.json) |
 | The Exaggerated Epoch of Edward O'Hare | 147378 | [147378-the-exaggerated-epoch-of-edward-ohare.json](./147378-the-exaggerated-epoch-of-edward-ohare.json) |
 | The eXceed Collection | 64895 | [64895-the-exceed-collection.json](./64895-the-exceed-collection.json) |
@@ -10600,6 +10603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hardest Game in the Universe: Super Douglinhas | 174516 | [174516-the-hardest-game-in-the-universe-super-douglinhas.json](./174516-the-hardest-game-in-the-universe-super-douglinhas.json) |
 | The Hardest Quiz - Impossible | 96054 | [96054-the-hardest-quiz-impossible.json](./96054-the-hardest-quiz-impossible.json) |
 | The Hardest Thing | 81911 | [81911-the-hardest-thing.json](./81911-the-hardest-thing.json) |
+| The Hardest Thing Ever | 157306 | [157306-the-hardest-thing-ever.json](./157306-the-hardest-thing-ever.json) |
 | The Hardy Boys: The Hidden Theft | 4903 | [4903-the-hardy-boys-the-hidden-theft.json](./4903-the-hardy-boys-the-hidden-theft.json) |
 | The Hardy Boys: The Perfect Crime | 66340 | [66340-the-hardy-boys-the-perfect-crime.json](./66340-the-hardy-boys-the-perfect-crime.json) |
 | The Hardy Boys: Treasure on the Tracks | 21105 | [21105-the-hardy-boys-treasure-on-the-tracks.json](./21105-the-hardy-boys-treasure-on-the-tracks.json) |
@@ -12451,6 +12455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Late D. Flate's Great Estate | 188090 | [188090-the-late-d-flates-great-estate.json](./188090-the-late-d-flates-great-estate.json) |
 | The Lattice Grimoire | 120396 | [120396-the-lattice-grimoire.json](./120396-the-lattice-grimoire.json) |
 | The Launching Section | 275825 | [275825-the-launching-section.json](./275825-the-launching-section.json) |
+| The Laundry | 157304 | [157304-the-laundry.json](./157304-the-laundry.json) |
 | The Laundry That Won’t Open | 404664 | [404664-the-laundry-that-won-t-open.json](./404664-the-laundry-that-won-t-open.json) |
 | The Lavarish Facility | 341647 | [341647-the-lavarish-facility.json](./341647-the-lavarish-facility.json) |
 | The Law | 186173 | [186173-the-law.json](./186173-the-law.json) |
@@ -16513,6 +16518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Siege of Brimir | 231394 | [231394-the-siege-of-brimir.json](./231394-the-siege-of-brimir.json) |
 | The Siege of Jeomdo | 258199 | [258199-the-siege-of-jeomdo.json](./258199-the-siege-of-jeomdo.json) |
 | The Siege of Khe Sanh | 66412 | [66412-the-siege-of-khe-sanh.json](./66412-the-siege-of-khe-sanh.json) |
+| The Sight in a Mirror | 157263 | [157263-the-sight-in-a-mirror.json](./157263-the-sight-in-a-mirror.json) |
 | The Sigil Engine | 390096 | [390096-the-sigil-engine.json](./390096-the-sigil-engine.json) |
 | The Sign | 239235 | [239235-the-sign.json](./239235-the-sign.json) |
 | The Sign | 241634 | [241634-the-sign.json](./241634-the-sign.json) |
@@ -18957,6 +18963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Waters of Fertility | 147312 | [147312-the-waters-of-fertility.json](./147312-the-waters-of-fertility.json) |
 | The Watson-Scott Test | 110737 | [110737-the-watson-scott-test.json](./110737-the-watson-scott-test.json) |
 | The Wave of Monké | 215729 | [215729-the-wave-of-monke.json](./215729-the-wave-of-monke.json) |
+| The Wave Story | 157307 | [157307-the-wave-story.json](./157307-the-wave-story.json) |
 | The Wavy Tube Man Chronicles | 316737 | [316737-the-wavy-tube-man-chronicles.json](./316737-the-wavy-tube-man-chronicles.json) |
 | The Wavy Tube Man Chronicles | 64172 | [64172-the-wavy-tube-man-chronicles.json](./64172-the-wavy-tube-man-chronicles.json) |
 | The Way | 19480 | [19480-the-way.json](./19480-the-way.json) |
@@ -26022,6 +26029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torchr Runners: Demastered | 321908 | [321908-torchr-runners-demastered.json](./321908-torchr-runners-demastered.json) |
 | Torchure | 180183 | [180183-torchure.json](./180183-torchure.json) |
 | Torchure | 352262 | [352262-torchure.json](./352262-torchure.json) |
+| Torchway | 157303 | [157303-torchway.json](./157303-torchway.json) |
 | Torden | 196948 | [196948-torden.json](./196948-torden.json) |
 | Tore World | 127522 | [127522-tore-world.json](./127522-tore-world.json) |
 | Torebia: Island Odyssey | 392386 | [392386-torebia-island-odyssey.json](./392386-torebia-island-odyssey.json) |
