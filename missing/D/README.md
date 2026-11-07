@@ -6235,6 +6235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deme Game | 300338 | [300338-deme-game.json](./300338-deme-game.json) |
 | Demegraunt | 265865 | [265865-demegraunt.json](./265865-demegraunt.json) |
 | Demelia's Isle | 149872 | [149872-demelias-isle.json](./149872-demelias-isle.json) |
+| Dememorize | 191986 | [191986-dememorize.json](./191986-dememorize.json) |
 | Demencia | 202352 | [202352-demencia.json](./202352-demencia.json) |
 | Dement | 120712 | [120712-dement.json](./120712-dement.json) |
 | Demented | 34070 | [34070-demented.json](./34070-demented.json) |
@@ -16607,6 +16608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drinlan Yellow | 254979 | [254979-drinlan-yellow.json](./254979-drinlan-yellow.json) |
 | Drip Drip | 10247 | [10247-drip-drip.json](./10247-drip-drip.json) |
 | Drip Drip | 86203 | [86203-drip-drip.json](./86203-drip-drip.json) |
+| Drip Drop | 191997 | [191997-drip-drop.json](./191997-drip-drop.json) |
 | Drip Feed | 262178 | [262178-drip-feed.json](./262178-drip-feed.json) |
 | DripDrip | 391005 | [391005-dripdrip.json](./391005-dripdrip.json) |
 | Driv3r | 194978 | [194978-driv3r.json](./194978-driv3r.json) |
