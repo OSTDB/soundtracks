@@ -1720,6 +1720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Miasma | 121328 | [121328-dark-miasma.json](./121328-dark-miasma.json) |
 | Dark Mine | 233440 | [233440-dark-mine.json](./233440-dark-mine.json) |
 | Dark Mine | 343210 | [343210-dark-mine.json](./343210-dark-mine.json) |
+| Dark Minute: Kira's Adventure | 171681 | [171681-dark-minute-kiras-adventure.json](./171681-dark-minute-kiras-adventure.json) |
 | Dark Mirror | 270084 | [270084-dark-mirror.json](./270084-dark-mirror.json) |
 | Dark Mist | 200289 | [200289-dark-mist.json](./200289-dark-mist.json) |
 | Dark Mist | 21818 | [21818-dark-mist.json](./21818-dark-mist.json) |
@@ -7276,6 +7277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desiigner's Panda Rush | 99354 | [99354-desiigners-panda-rush.json](./99354-desiigners-panda-rush.json) |
 | Desinformator | 365803 | [365803-desinformator.json](./365803-desinformator.json) |
 | Desirable Deals | 279671 | [279671-desirable-deals.json](./279671-desirable-deals.json) |
+| Desirable: Dream Hotel | 171687 | [171687-desirable-dream-hotel.json](./171687-desirable-dream-hotel.json) |
 | Désiré | 88080 | [88080-desire.json](./88080-desire.json) |
 | Desire & Decorum: Book 1 | 313713 | [313713-desire-and-decorum-book-1.json](./313713-desire-and-decorum-book-1.json) |
 | Desire & Decorum: Book 2 | 313714 | [313714-desire-and-decorum-book-2.json](./313714-desire-and-decorum-book-2.json) |
@@ -7476,6 +7478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destabilized | 417361 | [417361-destabilized.json](./417361-destabilized.json) |
 | Desterium | 246736 | [246736-desterium.json](./246736-desterium.json) |
 | Destinata | 128186 | [128186-destinata.json](./128186-destinata.json) |
+| Destinata: Full Red Edition | 171675 | [171675-destinata-full-red-edition.json](./171675-destinata-full-red-edition.json) |
 | Destination | 322576 | [322576-destination.json](./322576-destination.json) |
 | Destination Ares | 25813 | [25813-destination-ares.json](./25813-destination-ares.json) |
 | Destination Bangkok | 214756 | [214756-destination-bangkok.json](./214756-destination-bangkok.json) |
@@ -10803,6 +10806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diss Diss Discussion | 415444 | [415444-diss-diss-discussion.json](./415444-diss-diss-discussion.json) |
 | Dissecting Love | 291373 | [291373-dissecting-love.json](./291373-dissecting-love.json) |
 | Dissection Simulator: Dogfish Edition | 171575 | [171575-dissection-simulator-dogfish-edition.json](./171575-dissection-simulator-dogfish-edition.json) |
+| Dissection Simulator: Frog Edition | 171707 | [171707-dissection-simulator-frog-edition.json](./171707-dissection-simulator-frog-edition.json) |
 | Dissension | 202720 | [202720-dissension.json](./202720-dissension.json) |
 | Dissent | 202751 | [202751-dissent.json](./202751-dissent.json) |
 | Dissent on Mars | 262829 | [262829-dissent-on-mars.json](./262829-dissent-on-mars.json) |
@@ -16972,6 +16976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone: Modern Warfare | 348001 | [348001-drone-modern-warfare.json](./348001-drone-modern-warfare.json) |
 | Drone: Remote Tactical Warfare | 43173 | [43173-drone-remote-tactical-warfare.json](./43173-drone-remote-tactical-warfare.json) |
 | Droned | 207738 | [207738-droned.json](./207738-droned.json) |
+| DroneGlitch | 171702 | [171702-droneglitch.json](./171702-droneglitch.json) |
 | Dronelord Hyperviber | 384615 | [384615-dronelord-hyperviber.json](./384615-dronelord-hyperviber.json) |
 | DroneRidge | 172860 | [172860-droneridge.json](./172860-droneridge.json) |
 | Dronerush | 414065 | [414065-dronerush.json](./414065-dronerush.json) |
