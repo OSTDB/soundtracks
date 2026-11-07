@@ -4909,6 +4909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glassy Stare | 358463 | [358463-glassy-stare.json](./358463-glassy-stare.json) |
 | Glaxxons | 92945 | [92945-glaxxons.json](./92945-glaxxons.json) |
 | Glay: Complete Works | 286588 | [286588-glay-complete-works.json](./286588-glay-complete-works.json) |
+| Glaze Cup: Journey to the West | 164156 | [164156-glaze-cup-journey-to-the-west.json](./164156-glaze-cup-journey-to-the-west.json) |
 | Glazed Mirror: Myriad Cards | 417338 | [417338-glazed-mirror-myriad-cards.json](./417338-glazed-mirror-myriad-cards.json) |
 | Gleam of Fire | 105817 | [105817-gleam-of-fire.json](./105817-gleam-of-fire.json) |
 | Gleamlight | 127304 | [127304-gleamlight.json](./127304-gleamlight.json) |
@@ -8734,6 +8735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravityscape DX | 287590 | [287590-gravityscape-dx.json](./287590-gravityscape-dx.json) |
 | GravityTunnelVR | 52773 | [52773-gravitytunnelvr.json](./52773-gravitytunnelvr.json) |
 | Gravix | 196980 | [196980-gravix.json](./196980-gravix.json) |
+| GravKitten | 164160 | [164160-gravkitten.json](./164160-gravkitten.json) |
 | Gravlist | 234279 | [234279-gravlist.json](./234279-gravlist.json) |
 | GravMetal | 335736 | [335736-gravmetal.json](./335736-gravmetal.json) |
 | GravNewton | 52249 | [52249-gravnewton.json](./52249-gravnewton.json) |
