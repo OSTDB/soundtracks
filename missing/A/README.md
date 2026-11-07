@@ -863,6 +863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Moment of Bliss | 393582 | [393582-a-moment-of-bliss.json](./393582-a-moment-of-bliss.json) |
 | A Monster's Expedition | 131845 | [131845-a-monsters-expedition.json](./131845-a-monsters-expedition.json) |
 | A Monster's Insight | 178813 | [178813-a-monsters-insight.json](./178813-a-monsters-insight.json) |
+| A Month to Look at the Moon | 179779 | [179779-a-month-to-look-at-the-moon.json](./179779-a-month-to-look-at-the-moon.json) |
 | A Moon for the Sky | 9974 | [9974-a-moon-for-the-sky.json](./9974-a-moon-for-the-sky.json) |
 | A More Beautiful World: A Visual Novel | 33679 | [33679-a-more-beautiful-world-a-visual-novel.json](./33679-a-more-beautiful-world-a-visual-novel.json) |
 | A Morte | 268898 | [268898-a-morte.json](./268898-a-morte.json) |
@@ -3754,6 +3755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventurers Guild Inc. | 325334 | [325334-adventurers-guild-inc.json](./325334-adventurers-guild-inc.json) |
 | Adventurers of Tamora | 151377 | [151377-adventurers-of-tamora.json](./151377-adventurers-of-tamora.json) |
 | Adventurers Shop | 386860 | [386860-adventurers-shop.json](./386860-adventurers-shop.json) |
+| Adventures | 179815 | [179815-adventures.json](./179815-adventures.json) |
 | Adventures at the North Pole | 203865 | [203865-adventures-at-the-north-pole.json](./203865-adventures-at-the-north-pole.json) |
 | Adventures Diary of Merchant | 115579 | [115579-adventures-diary-of-merchant.json](./115579-adventures-diary-of-merchant.json) |
 | Adventures in Adventureland | 98320 | [98320-adventures-in-adventureland.json](./98320-adventures-in-adventureland.json) |
@@ -11440,6 +11442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apartment Filled With Cats | 333868 | [333868-apartment-filled-with-cats.json](./333868-apartment-filled-with-cats.json) |
 | Apartment Life to Cuck and Impregnate Neighboring Busty Married Women | 98450 | [98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json](./98450-apartment-life-to-cuck-and-impregnate-neighboring-busty-married-women.json) |
 | Apartment No 129 | 294293 | [294293-apartment-no-129.json](./294293-apartment-no-129.json) |
+| Apartment No.9: GxB Version | 179804 | [179804-apartment-no-9-gxb-version.json](./179804-apartment-no-9-gxb-version.json) |
 | Apartment of Death | 291504 | [291504-apartment-of-death.json](./291504-apartment-of-death.json) |
 | Apartment of Love | 83803 | [83803-apartment-of-love.json](./83803-apartment-of-love.json) |
 | Apartment Story | 314709 | [314709-apartment-story.json](./314709-apartment-story.json) |
@@ -16164,6 +16167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AstroFire | 82500 | [82500-astrofire.json](./82500-astrofire.json) |
 | Astroflux | 32875 | [32875-astroflux.json](./32875-astroflux.json) |
 | AstroForge: Space Pirates | 283968 | [283968-astroforge-space-pirates.json](./283968-astroforge-space-pirates.json) |
+| Astrofrog | 179788 | [179788-astrofrog.json](./179788-astrofrog.json) |
 | AstroGenesis | 111498 | [111498-astrogenesis.json](./111498-astrogenesis.json) |
 | AstroGenesis: Boss Rush | 121041 | [121041-astrogenesis-boss-rush.json](./121041-astrogenesis-boss-rush.json) |
 | Astrogeo | 393544 | [393544-astrogeo.json](./393544-astrogeo.json) |
