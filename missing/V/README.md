@@ -909,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vargverse | 228293 | [228293-vargverse.json](./228293-vargverse.json) |
 | Vari Dungeon | 220869 | [220869-vari-dungeon.json](./220869-vari-dungeon.json) |
 | Varia Metal | 40518 | [40518-varia-metal.json](./40518-varia-metal.json) |
+| Variable | 157266 | [157266-variable.json](./157266-variable.json) |
 | Variable Barricade | 69345 | [69345-variable-barricade.json](./69345-variable-barricade.json) |
 | Variable Chaser Valchase | 298751 | [298751-variable-chaser-valchase.json](./298751-variable-chaser-valchase.json) |
 | Variable Geo vs. Asuka 120% | 316595 | [316595-variable-geo-vs-asuka-120.json](./316595-variable-geo-vs-asuka-120.json) |
@@ -4139,6 +4140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRchaeology: Prologue | 30697 | [30697-vrchaeology-prologue.json](./30697-vrchaeology-prologue.json) |
 | VRChat | 33615 | [33615-vrchat.json](./33615-vrchat.json) |
 | VRcher | 137462 | [137462-vrcher.json](./137462-vrcher.json) |
+| VRDJ | 157292 | [157292-vrdj.json](./157292-vrdj.json) |
 | VReady | 182587 | [182587-vready.json](./182587-vready.json) |
 | VReakout | 33150 | [33150-vreakout.json](./33150-vreakout.json) |
 | Vreal | 103915 | [103915-vreal.json](./103915-vreal.json) |
