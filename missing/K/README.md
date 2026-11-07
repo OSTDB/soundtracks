@@ -4970,6 +4970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KoboldAI | 198695 | [198695-koboldai.json](./198695-koboldai.json) |
 | KoboldKare | 344381 | [344381-koboldkare.json](./344381-koboldkare.json) |
 | KoboldKroniken | 258939 | [258939-koboldkroniken.json](./258939-koboldkroniken.json) |
+| Kobolok | 167450 | [167450-kobolok.json](./167450-kobolok.json) |
 | Koboo: The Tree Spirit | 152679 | [152679-koboo-the-tree-spirit.json](./152679-koboo-the-tree-spirit.json) |
 | Koboomballs | 112845 | [112845-koboomballs.json](./112845-koboomballs.json) |
 | Kobuta Survivor | 373254 | [373254-kobuta-survivor.json](./373254-kobuta-survivor.json) |
