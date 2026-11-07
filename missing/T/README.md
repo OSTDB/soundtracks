@@ -1433,6 +1433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Yokai Harmony | 379425 | [379425-tales-of-yokai-harmony.json](./379425-tales-of-yokai-harmony.json) |
 | Tales of Yore | 186162 | [186162-tales-of-yore.json](./186162-tales-of-yore.json) |
 | Tales of Zestiria | 6452 | [6452-tales-of-zestiria.json](./6452-tales-of-zestiria.json) |
+| Tales of Zestiria: Additional Chapter - Alisha's Story | 167990 | [167990-tales-of-zestiria-additional-chapter-alishas-story.json](./167990-tales-of-zestiria-additional-chapter-alishas-story.json) |
 | Tales of Zizada | 379440 | [379440-tales-of-zizada.json](./379440-tales-of-zizada.json) |
 | Tales of: Sena | 238649 | [238649-tales-of-sena.json](./238649-tales-of-sena.json) |
 | Tales of: Vesperia + Berseria + Zestiria Bundle | 136127 | [136127-tales-of-vesperia-berseria-zestiria-bundle.json](./136127-tales-of-vesperia-berseria-zestiria-bundle.json) |
