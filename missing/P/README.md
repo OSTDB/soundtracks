@@ -6238,6 +6238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross S2 | 106275 | [106275-picross-s2.json](./106275-picross-s2.json) |
 | Picross S3 | 117501 | [117501-picross-s3.json](./117501-picross-s3.json) |
 | Picross S4 | 132828 | [132828-picross-s4.json](./132828-picross-s4.json) |
+| Picross S5 | 141323 | [141323-picross-s5.json](./141323-picross-s5.json) |
 | Picross S6 | 145821 | [145821-picross-s6.json](./145821-picross-s6.json) |
 | Picross S7 | 185788 | [185788-picross-s7.json](./185788-picross-s7.json) |
 | Picross S8 | 219032 | [219032-picross-s8.json](./219032-picross-s8.json) |
@@ -10466,6 +10467,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Crystal League | 202258 | [202258-pocket-crystal-league.json](./202258-pocket-crystal-league.json) |
 | Pocket Cuisine | 277504 | [277504-pocket-cuisine.json](./277504-pocket-cuisine.json) |
 | Pocket Densha 2 | 282418 | [282418-pocket-densha-2.json](./282418-pocket-densha-2.json) |
+| Pocket Digimon World: Cool & Nature Battle Disc | 141342 | [141342-pocket-digimon-world-cool-and-nature-battle-disc.json](./141342-pocket-digimon-world-cool-and-nature-battle-disc.json) |
+| Pocket Digimon World: Wind Battle Disc | 141341 | [141341-pocket-digimon-world-wind-battle-disc.json](./141341-pocket-digimon-world-wind-battle-disc.json) |
 | Pocket Dinosaurs to the Moon | 233182 | [233182-pocket-dinosaurs-to-the-moon.json](./233182-pocket-dinosaurs-to-the-moon.json) |
 | Pocket Dogfights | 96224 | [96224-pocket-dogfights.json](./96224-pocket-dogfights.json) |
 | Pocket Dogs | 49357 | [49357-pocket-dogs.json](./49357-pocket-dogs.json) |
@@ -11495,6 +11498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Pinball Mini | 66030 | [66030-pokemon-pinball-mini.json](./66030-pokemon-pinball-mini.json) |
 | Pokémon Pinball: Ruby & Sapphire | 4069 | [4069-pokemon-pinball-ruby-and-sapphire.json](./4069-pokemon-pinball-ruby-and-sapphire.json) |
 | Pokémon Pink | 231706 | [231706-pokemon-pink.json](./231706-pokemon-pink.json) |
+| Pokémon Pink Version | 141333 | [141333-pokemon-pink-version.json](./141333-pokemon-pink-version.json) |
 | Pokémon Pisces Version | 313075 | [313075-pokemon-pisces-version.json](./313075-pokemon-pisces-version.json) |
 | Pokémon Plasma | 415074 | [415074-pokemon-plasma.json](./415074-pokemon-plasma.json) |
 | Pokémon Plastic Pyrite | 409024 | [409024-pokemon-plastic-pyrite.json](./409024-pokemon-plastic-pyrite.json) |
@@ -15826,6 +15830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Arrow | 307881 | [307881-project-arrow.json](./307881-project-arrow.json) |
 | Project Ascension | 281271 | [281271-project-ascension.json](./281271-project-ascension.json) |
 | Project Asteroids | 250734 | [250734-project-asteroids.json](./250734-project-asteroids.json) |
+| Project Astra | 141351 | [141351-project-astra.json](./141351-project-astra.json) |
 | Project Astra Dominium | 228506 | [228506-project-astra-dominium.json](./228506-project-astra-dominium.json) |
 | Project Astrid | 306184 | [306184-project-astrid.json](./306184-project-astrid.json) |
 | Project Athenia | 369281 | [369281-project-athenia.json](./369281-project-athenia.json) |
