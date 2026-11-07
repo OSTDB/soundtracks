@@ -4380,6 +4380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellkid: Hook & Jump | 184071 | [184071-hellkid-hook-and-jump.json](./184071-hellkid-hook-and-jump.json) |
 | Hellkranye | 417982 | [417982-hellkranye.json](./417982-hellkranye.json) |
 | Helllllcafeeeee | 350979 | [350979-helllllcafeeeee.json](./350979-helllllcafeeeee.json) |
+| Hellmall | 173944 | [173944-hellmall.json](./173944-hellmall.json) |
 | Hellmart | 351155 | [351155-hellmart.json](./351155-hellmart.json) |
 | Hellmaster: The Legend of Dante | 349182 | [349182-hellmaster-the-legend-of-dante.json](./349182-hellmaster-the-legend-of-dante.json) |
 | Hellmate | 338725 | [338725-hellmate.json](./338725-hellmate.json) |
@@ -6466,6 +6467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexachampions | 316186 | [316186-hexachampions.json](./316186-hexachampions.json) |
 | Hexachess | 374634 | [374634-hexachess.json](./374634-hexachess.json) |
 | HexaCycle | 115643 | [115643-hexacycle.json](./115643-hexacycle.json) |
+| Hexad | 173912 | [173912-hexad.json](./173912-hexad.json) |
 | Hexadecordle | 194882 | [194882-hexadecordle.json](./194882-hexadecordle.json) |
 | Hexadel | 374921 | [374921-hexadel.json](./374921-hexadel.json) |
 | Hexadrift | 126918 | [126918-hexadrift.json](./126918-hexadrift.json) |
@@ -6772,6 +6774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hi On Rhythm | 267459 | [267459-hi-on-rhythm.json](./267459-hi-on-rhythm.json) |
 | Hi Pai Paradise | 309599 | [309599-hi-pai-paradise.json](./309599-hi-pai-paradise.json) |
 | Hi Pizza | 233870 | [233870-hi-pizza.json](./233870-hi-pizza.json) |
+| Hi Poker 3D: Texas Holdem | 173911 | [173911-hi-poker-3d-texas-holdem.json](./173911-hi-poker-3d-texas-holdem.json) |
 | Hi Rev Racer | 217671 | [217671-hi-rev-racer.json](./217671-hi-rev-racer.json) |
 | Hi Rise | 39153 | [39153-hi-rise.json](./39153-hi-rise.json) |
 | Hi There | 293996 | [293996-hi-there.json](./293996-hi-there.json) |
