@@ -12975,6 +12975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian World | 95284 | [95284-russian-world.json](./95284-russian-world.json) |
 | Russian World Cub Battlegrounds | 334807 | [334807-russian-world-cub-battlegrounds.json](./334807-russian-world-cub-battlegrounds.json) |
 | RussianPunk 2007 | 157070 | [157070-russianpunk-2007.json](./157070-russianpunk-2007.json) |
+| Russiaphobia | 182605 | [182605-russiaphobia.json](./182605-russiaphobia.json) |
 | Russki Duck | 282102 | [282102-russki-duck.json](./282102-russki-duck.json) |
 | Russpuppy Kid Books | 256051 | [256051-russpuppy-kid-books.json](./256051-russpuppy-kid-books.json) |
 | Russpuppy Kid Games | 107522 | [107522-russpuppy-kid-games.json](./107522-russpuppy-kid-games.json) |
