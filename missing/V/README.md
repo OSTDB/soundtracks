@@ -3302,6 +3302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Eclipse | 126372 | [126372-void-eclipse.json](./126372-void-eclipse.json) |
 | Void Encounter | 172185 | [172185-void-encounter.json](./172185-void-encounter.json) |
 | Void Excursion | 79130 | [79130-void-excursion.json](./79130-void-excursion.json) |
+| Void Explorer | 152560 | [152560-void-explorer.json](./152560-void-explorer.json) |
 | Void Fate | 412916 | [412916-void-fate.json](./412916-void-fate.json) |
 | Void Fighters | 403667 | [403667-void-fighters.json](./403667-void-fighters.json) |
 | Void Flesh | 362168 | [362168-void-flesh.json](./362168-void-flesh.json) |
