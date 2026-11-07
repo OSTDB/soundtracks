@@ -21709,6 +21709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Castle | 19889 | [19889-mystery-castle.json](./19889-mystery-castle.json) |
 | Mystery Castle: The Mirror's Secret | 33873 | [33873-mystery-castle-the-mirrors-secret.json](./33873-mystery-castle-the-mirrors-secret.json) |
 | Mystery Cat | 257519 | [257519-mystery-cat.json](./257519-mystery-cat.json) |
+| Mystery Chamber 2015 Forever | 190306 | [190306-mystery-chamber-2015-forever.json](./190306-mystery-chamber-2015-forever.json) |
 | Mystery Channel | 269502 | [269502-mystery-channel.json](./269502-mystery-channel.json) |
 | Mystery Chronicles: Betrayals of Love | 421574 | [421574-mystery-chronicles-betrayals-of-love.json](./421574-mystery-chronicles-betrayals-of-love.json) |
 | Mystery Chronicles: Murder Among Friends | 64727 | [64727-mystery-chronicles-murder-among-friends.json](./64727-mystery-chronicles-murder-among-friends.json) |
