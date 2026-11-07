@@ -1973,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sapo Xulé: S.O.S. Lagoa Poluída | 84282 | [84282-sapo-xule-s-o-s-lagoa-poluida.json](./84282-sapo-xule-s-o-s-lagoa-poluida.json) |
 | Saposo Supimpa | 372173 | [372173-saposo-supimpa.json](./372173-saposo-supimpa.json) |
 | Sapper | 127519 | [127519-sapper.json](./127519-sapper.json) |
+| Sapper | 172297 | [172297-sapper.json](./172297-sapper.json) |
 | Sapper boom! | 102958 | [102958-sapper-boom.json](./102958-sapper-boom.json) |
 | Sapper Robot | 211657 | [211657-sapper-robot.json](./211657-sapper-robot.json) |
 | Sapper Simulator | 169123 | [169123-sapper-simulator.json](./169123-sapper-simulator.json) |
@@ -4800,6 +4801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sedecordle | 194881 | [194881-sedecordle.json](./194881-sedecordle.json) |
 | Sediment | 420957 | [420957-sediment.json](./420957-sediment.json) |
 | Seditionis: Crutarch Royale | 178201 | [178201-seditionis-crutarch-royale.json](./178201-seditionis-crutarch-royale.json) |
+| Seditionis: Tower Defense | 172280 | [172280-seditionis-tower-defense.json](./172280-seditionis-tower-defense.json) |
 | Sedomairi | 159706 | [159706-sedomairi.json](./159706-sedomairi.json) |
 | Seduce a SuicideGirl | 245176 | [245176-seduce-a-suicidegirl.json](./245176-seduce-a-suicidegirl.json) |
 | Seduce Her Harem | 257865 | [257865-seduce-her-harem.json](./257865-seduce-her-harem.json) |
@@ -19677,6 +19679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Force: Rogue Universe | 10259 | [10259-space-force-rogue-universe.json](./10259-space-force-rogue-universe.json) |
 | Space Fox Kimi | 107843 | [107843-space-fox-kimi.json](./107843-space-fox-kimi.json) |
 | Space Fox Kimi and the Interstellar Fortress | 171589 | [171589-space-fox-kimi-and-the-interstellar-fortress.json](./171589-space-fox-kimi-and-the-interstellar-fortress.json) |
+| Space Fox Kimi: A Very Kimi Christmas | 172278 | [172278-space-fox-kimi-a-very-kimi-christmas.json](./172278-space-fox-kimi-a-very-kimi-christmas.json) |
 | Space Fox Kimi: The Battle of Mochi Prime | 171563 | [171563-space-fox-kimi-the-battle-of-mochi-prime.json](./171563-space-fox-kimi-the-battle-of-mochi-prime.json) |
 | Space Freeks | 60060 | [60060-space-freeks.json](./60060-space-freeks.json) |
 | Space Frenzy | 46511 | [46511-space-frenzy.json](./46511-space-frenzy.json) |
@@ -19794,6 +19797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -26344,6 +26348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Division 2: Tribute to Normandy '44 | 293542 | [293542-steel-division-2-tribute-to-normandy-44.json](./293542-steel-division-2-tribute-to-normandy-44.json) |
 | Steel Division 2: Tribute to the Liberation of Italy | 191036 | [191036-steel-division-2-tribute-to-the-liberation-of-italy.json](./191036-steel-division-2-tribute-to-the-liberation-of-italy.json) |
 | Steel Division: Normandy 44 | 27475 | [27475-steel-division-normandy-44.json](./27475-steel-division-normandy-44.json) |
+| Steel Division: Normandy 44 - Back to Hell | 172283 | [172283-steel-division-normandy-44-back-to-hell.json](./172283-steel-division-normandy-44-back-to-hell.json) |
 | Steel Division: Normandy 44 - Deluxe Edition | 53667 | [53667-steel-division-normandy-44-deluxe-edition.json](./53667-steel-division-normandy-44-deluxe-edition.json) |
 | Steel Dragon Ex | 43341 | [43341-steel-dragon-ex.json](./43341-steel-dragon-ex.json) |
 | Steel Driver | 307989 | [307989-steel-driver.json](./307989-steel-driver.json) |
@@ -27254,6 +27259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stolen Blood | 341452 | [341452-stolen-blood.json](./341452-stolen-blood.json) |
 | Stolen Crown | 190359 | [190359-stolen-crown.json](./190359-stolen-crown.json) |
 | Stolen Dolls | 226430 | [226430-stolen-dolls.json](./226430-stolen-dolls.json) |
+| Stolen Eggs | 172264 | [172264-stolen-eggs.json](./172264-stolen-eggs.json) |
 | Stolen Heart | 397673 | [397673-stolen-heart.json](./397673-stolen-heart.json) |
 | Stolen Hearts: Wolf Knight | 285860 | [285860-stolen-hearts-wolf-knight.json](./285860-stolen-hearts-wolf-knight.json) |
 | Stolen in 60 Seconds | 65229 | [65229-stolen-in-60-seconds.json](./65229-stolen-in-60-seconds.json) |
