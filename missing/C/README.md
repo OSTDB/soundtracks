@@ -3437,6 +3437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cast Outs | 380165 | [380165-cast-outs.json](./380165-cast-outs.json) |
 | Cast Piercer | 170879 | [170879-cast-piercer.json](./170879-cast-piercer.json) |
 | Cast VR | 132206 | [132206-cast-vr.json](./132206-cast-vr.json) |
+| Cast-n-Blast | 182621 | [182621-cast-n-blast.json](./182621-cast-n-blast.json) |
 | Castan | 197116 | [197116-castan.json](./197116-castan.json) |
 | Castanea | 387733 | [387733-castanea.json](./387733-castanea.json) |
 | Castaside | 348270 | [348270-castaside.json](./348270-castaside.json) |
@@ -10728,6 +10729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud JourneyVR | 424669 | [424669-cloud-journeyvr.json](./424669-cloud-journeyvr.json) |
 | Cloud Jump | 262110 | [262110-cloud-jump.json](./262110-cloud-jump.json) |
 | Cloud Jumper | 140817 | [140817-cloud-jumper.json](./140817-cloud-jumper.json) |
+| Cloud Jumpers | 182636 | [182636-cloud-jumpers.json](./182636-cloud-jumpers.json) |
 | Cloud Keeper: Shrine of Dal | 356039 | [356039-cloud-keeper-shrine-of-dal.json](./356039-cloud-keeper-shrine-of-dal.json) |
 | Cloud Knights | 83324 | [83324-cloud-knights.json](./83324-cloud-knights.json) |
 | Cloud Master | 386335 | [386335-cloud-master.json](./386335-cloud-master.json) |
@@ -11624,6 +11626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coin Treasures | 171226 | [171226-coin-treasures.json](./171226-coin-treasures.json) |
 | Coin World | 94347 | [94347-coin-world.json](./94347-coin-world.json) |
 | Coin X Union | 339312 | [339312-coin-x-union.json](./339312-coin-x-union.json) |
+| Coin-Op Kid | 182607 | [182607-coin-op-kid.json](./182607-coin-op-kid.json) |
 | Coin-Op Kingdom | 98766 | [98766-coin-op-kingdom.json](./98766-coin-op-kingdom.json) |
 | Coin-Op Vice | 289816 | [289816-coin-op-vice.json](./289816-coin-op-vice.json) |
 | Coin$ Pusher Ltd | 408089 | [408089-coin-pusher-ltd.json](./408089-coin-pusher-ltd.json) |
@@ -14587,6 +14590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooly Skunk | 132647 | [132647-cooly-skunk.json](./132647-cooly-skunk.json) |
 | Coonwood | 215010 | [215010-coonwood.json](./215010-coonwood.json) |
 | Coop Catacombs | 293895 | [293895-coop-catacombs.json](./293895-coop-catacombs.json) |
+| Coop Crawler | 182633 | [182633-coop-crawler.json](./182633-coop-crawler.json) |
 | Coop Tank War | 111008 | [111008-coop-tank-war.json](./111008-coop-tank-war.json) |
 | Coop TD | 339385 | [339385-coop-td.json](./339385-coop-td.json) |
 | Coopbots | 272862 | [272862-coopbots.json](./272862-coopbots.json) |
