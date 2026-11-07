@@ -1128,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Zone | 421413 | [421413-war-zone.json](./421413-war-zone.json) |
 | War Zone II | 421414 | [421414-war-zone-ii.json](./421414-war-zone-ii.json) |
 | War Zone Soldier: Battle Royale Shooter | 273303 | [273303-war-zone-soldier-battle-royale-shooter.json](./273303-war-zone-soldier-battle-royale-shooter.json) |
+| War-Gene | 156776 | [156776-war-gene.json](./156776-war-gene.json) |
 | War-Torn | 344913 | [344913-war-torn.json](./344913-war-torn.json) |
 | War, the Game | 17838 | [17838-war-the-game.json](./17838-war-the-game.json) |
 | War: 13th Day | 75221 | [75221-war-13th-day.json](./75221-war-13th-day.json) |
@@ -8939,6 +8940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wotheguel | 155680 | [155680-wotheguel.json](./155680-wotheguel.json) |
 | Would You Call Him a Bad Man? | 337932 | [337932-would-you-call-him-a-bad-man.json](./337932-would-you-call-him-a-bad-man.json) |
 | Would You Lie with Me and Just Forget the World | 382582 | [382582-would-you-lie-with-me-and-just-forget-the-world.json](./382582-would-you-lie-with-me-and-just-forget-the-world.json) |
+| Would You Like to Run an Idol Café? | 156789 | [156789-would-you-like-to-run-an-idol-cafe.json](./156789-would-you-like-to-run-an-idol-cafe.json) |
 | Would You Like to Run an Idol Café? 2 | 173902 | [173902-would-you-like-to-run-an-idol-cafe-2.json](./173902-would-you-like-to-run-an-idol-cafe-2.json) |
 | Would You Like to Run an Idol Café? 3 | 192650 | [192650-would-you-like-to-run-an-idol-cafe-3.json](./192650-would-you-like-to-run-an-idol-cafe-3.json) |
 | Would You Like to Run an Idol Café? 3 | 259531 | [259531-would-you-like-to-run-an-idol-cafe-3.json](./259531-would-you-like-to-run-an-idol-cafe-3.json) |
