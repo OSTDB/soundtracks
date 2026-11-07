@@ -3254,6 +3254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7Komada | 423287 | [423287-7komada.json](./423287-7komada.json) |
 | 7n7 | 169446 | [169446-7n7.json](./169446-7n7.json) |
 | 7Swordsman | 197394 | [197394-7swordsman.json](./197394-7swordsman.json) |
+| 7th Chance | 152897 | [152897-7th-chance.json](./152897-7th-chance.json) |
 | 7th Deep | 88084 | [88084-7th-deep.json](./88084-7th-deep.json) |
 | 7th Domain | 253471 | [253471-7th-domain.json](./253471-7th-domain.json) |
 | 7th Domain: Tree of Chaos | 308917 | [308917-7th-domain-tree-of-chaos.json](./308917-7th-domain-tree-of-chaos.json) |
