@@ -1113,6 +1113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12-ji no Kane to Cinderella Cinderella Series Triple All Series Pack | 60348 | [60348-12-ji-no-kane-to-cinderella-cinderella-series-triple-all-series-pack.json](./60348-12-ji-no-kane-to-cinderella-cinderella-series-triple-all-series-pack.json) |
 | 12-Sai: Honto no Kimochi | 59212 | [59212-12-sai-honto-no-kimochi.json](./59212-12-sai-honto-no-kimochi.json) |
 | 12-sai: Koi Suru Diary | 98417 | [98417-12-sai-koi-suru-diary.json](./98417-12-sai-koi-suru-diary.json) |
+| 12-Sai: Torokeru Puzzle Futari no Harmony | 148733 | [148733-12-sai-torokeru-puzzle-futari-no-harmony.json](./148733-12-sai-torokeru-puzzle-futari-no-harmony.json) |
 | 12, Memory Lane | 379392 | [379392-12-memory-lane.json](./379392-12-memory-lane.json) |
 | 12.12.25 | 339078 | [339078-12-12-25.json](./339078-12-12-25.json) |
 | 1201 | 252993 | [252993-1201.json](./252993-1201.json) |
@@ -3025,6 +3026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 6 Day Assassin | 171790 | [171790-6-day-assassin.json](./171790-6-day-assassin.json) |
 | 6 Days a Sacrifice | 71502 | [71502-6-days-a-sacrifice.json](./71502-6-days-a-sacrifice.json) |
 | 6 Differences | 261077 | [261077-6-differences.json](./261077-6-differences.json) |
+| 6 Feet Behind | 148729 | [148729-6-feet-behind.json](./148729-6-feet-behind.json) |
 | 6 Feet Under | 177938 | [177938-6-feet-under.json](./177938-6-feet-under.json) |
 | 6 ft Blunder | 307231 | [307231-6-ft-blunder.json](./307231-6-ft-blunder.json) |
 | 6 Games | 319562 | [319562-6-games.json](./319562-6-games.json) |
