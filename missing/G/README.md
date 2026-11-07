@@ -9217,6 +9217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid 2: Reloaded Edition | 26185 | [26185-grid-2-reloaded-edition.json](./26185-grid-2-reloaded-edition.json) |
 | Grid 2: Spa-Francorchamps Track Pack | 166434 | [166434-grid-2-spa-francorchamps-track-pack.json](./166434-grid-2-spa-francorchamps-track-pack.json) |
 | Grid 32 | 274128 | [274128-grid-32.json](./274128-grid-32.json) |
+| Grid Autosport: Custom Edition | 175499 | [175499-grid-autosport-custom-edition.json](./175499-grid-autosport-custom-edition.json) |
 | Grid Battles | 370427 | [370427-grid-battles.json](./370427-grid-battles.json) |
 | Grid Clash | 392830 | [392830-grid-clash.json](./392830-grid-clash.json) |
 | Grid Creeps | 122813 | [122813-grid-creeps.json](./122813-grid-creeps.json) |
