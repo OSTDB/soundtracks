@@ -3061,6 +3061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hazuki Makimura's Love Story | 221265 | [221265-hazuki-makimuras-love-story.json](./221265-hazuki-makimuras-love-story.json) |
 | Hazuki Makimura's Love Story | 255108 | [255108-hazuki-makimuras-love-story.json](./255108-hazuki-makimuras-love-story.json) |
 | Hazumino | 267326 | [267326-hazumino.json](./267326-hazumino.json) |
+| Hazy | 150820 | [150820-hazy.json](./150820-hazy.json) |
 | Hazy Days | 184729 | [184729-hazy-days.json](./184729-hazy-days.json) |
 | Hazy Hollow | 260188 | [260188-hazy-hollow.json](./260188-hazy-hollow.json) |
 | Hazy Maze | 113462 | [113462-hazy-maze.json](./113462-hazy-maze.json) |
