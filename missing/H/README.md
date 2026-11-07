@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack Match | 143035 | [143035-hack-match.json](./143035-hack-match.json) |
 | Hack n Slash | 8438 | [8438-hack-n-slash.json](./8438-hack-n-slash.json) |
 | Hack n Slash Prototype | 352243 | [352243-hack-n-slash-prototype.json](./352243-hack-n-slash-prototype.json) |
+| Hack or Die! | 161469 | [161469-hack-or-die.json](./161469-hack-or-die.json) |
 | Hack Run | 16323 | [16323-hack-run.json](./16323-hack-run.json) |
 | Hack Run Zero | 34898 | [34898-hack-run-zero.json](./34898-hack-run-zero.json) |
 | Hack Slash Crawl | 387926 | [387926-hack-slash-crawl.json](./387926-hack-slash-crawl.json) |
@@ -10117,6 +10118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horned Knight | 139586 | [139586-horned-knight.json](./139586-horned-knight.json) |
 | Horned Monster | 188339 | [188339-horned-monster.json](./188339-horned-monster.json) |
 | Hornet the Vanguard | 303572 | [303572-hornet-the-vanguard.json](./303572-hornet-the-vanguard.json) |
+| Hornet Virus: Steel Alcimus II | 161470 | [161470-hornet-virus-steel-alcimus-ii.json](./161470-hornet-virus-steel-alcimus-ii.json) |
 | Hornets | 202613 | [202613-hornets.json](./202613-hornets.json) |
 | Horns of Fear | 74436 | [74436-horns-of-fear.json](./74436-horns-of-fear.json) |
 | Horns of Justice | 211290 | [211290-horns-of-justice.json](./211290-horns-of-justice.json) |
@@ -10345,6 +10347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horse Racing Simulator | 384548 | [384548-horse-racing-simulator.json](./384548-horse-racing-simulator.json) |
 | Horse Riding Classic | 391814 | [391814-horse-riding-classic.json](./391814-horse-riding-classic.json) |
 | Horse Riding Deluxe | 81654 | [81654-horse-riding-deluxe.json](./81654-horse-riding-deluxe.json) |
+| Horse Riding Deluxe 2 | 161457 | [161457-horse-riding-deluxe-2.json](./161457-horse-riding-deluxe-2.json) |
 | Horse Riding Tales | 116716 | [116716-horse-riding-tales.json](./116716-horse-riding-tales.json) |
 | Horse Riding Tales | 235160 | [235160-horse-riding-tales.json](./235160-horse-riding-tales.json) |
 | Horse Riding: Breakthrough Gaming Arcade | 207074 | [207074-horse-riding-breakthrough-gaming-arcade.json](./207074-horse-riding-breakthrough-gaming-arcade.json) |
