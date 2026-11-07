@@ -6231,6 +6231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross S2 | 106275 | [106275-picross-s2.json](./106275-picross-s2.json) |
 | Picross S3 | 117501 | [117501-picross-s3.json](./117501-picross-s3.json) |
 | Picross S4 | 132828 | [132828-picross-s4.json](./132828-picross-s4.json) |
+| Picross S6 | 145821 | [145821-picross-s6.json](./145821-picross-s6.json) |
 | Picross S7 | 185788 | [185788-picross-s7.json](./185788-picross-s7.json) |
 | Picross S8 | 219032 | [219032-picross-s8.json](./219032-picross-s8.json) |
 | Picross Touch | 32580 | [32580-picross-touch.json](./32580-picross-touch.json) |
@@ -9439,6 +9440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Zoo: North America Animal Pack | 174129 | [174129-planet-zoo-north-america-animal-pack.json](./174129-planet-zoo-north-america-animal-pack.json) |
 | Planet Zoo: Oceania Pack | 266381 | [266381-planet-zoo-oceania-pack.json](./266381-planet-zoo-oceania-pack.json) |
 | Planet Zoo: South America Pack | 226994 | [226994-planet-zoo-south-america-pack.json](./226994-planet-zoo-south-america-pack.json) |
+| Planet Zoo: Southeast Asia Animal Pack | 145769 | [145769-planet-zoo-southeast-asia-animal-pack.json](./145769-planet-zoo-southeast-asia-animal-pack.json) |
 | Planet Zoo: Tropical Pack | 243535 | [243535-planet-zoo-tropical-pack.json](./243535-planet-zoo-tropical-pack.json) |
 | Planet Zoo: Twilight Pack | 263073 | [263073-planet-zoo-twilight-pack.json](./263073-planet-zoo-twilight-pack.json) |
 | Planet Zoo: Wetlands Animal Pack | 197558 | [197558-planet-zoo-wetlands-animal-pack.json](./197558-planet-zoo-wetlands-animal-pack.json) |
@@ -11611,6 +11613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Stadium Fusion | 262412 | [262412-pokemon-stadium-fusion.json](./262412-pokemon-stadium-fusion.json) |
 | Pokémon Star Sapphire | 288074 | [288074-pokemon-star-sapphire.json](./288074-pokemon-star-sapphire.json) |
 | Pokémon Starwish | 394849 | [394849-pokemon-starwish.json](./394849-pokemon-starwish.json) |
+| Pokémon Steam | 145809 | [145809-pokemon-steam.json](./145809-pokemon-steam.json) |
 | Pokémon Stranded | 252122 | [252122-pokemon-stranded.json](./252122-pokemon-stranded.json) |
 | Pokémon Strike! Yellow Version | 308708 | [308708-pokemon-strike-yellow-version.json](./308708-pokemon-strike-yellow-version.json) |
 | Pokémon Study: Hikaruze! Pokémon Typing PC | 327714 | [327714-pokemon-study-hikaruze-pokemon-typing-pc.json](./327714-pokemon-study-hikaruze-pokemon-typing-pc.json) |
@@ -13962,6 +13965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prado Car Stunts Arena | 27993 | [27993-prado-car-stunts-arena.json](./27993-prado-car-stunts-arena.json) |
 | PraeBot | 115168 | [115168-praebot.json](./115168-praebot.json) |
 | Praecantor Lila: Bell Spell | 192655 | [192655-praecantor-lila-bell-spell.json](./192655-praecantor-lila-bell-spell.json) |
+| Praesidium | 145758 | [145758-praesidium.json](./145758-praesidium.json) |
 | Praetorians HD Remaster | 119382 | [119382-praetorians-hd-remaster.json](./119382-praetorians-hd-remaster.json) |
 | Praey for the Gods | 14378 | [14378-praey-for-the-gods.json](./14378-praey-for-the-gods.json) |
 | Pragma | 178245 | [178245-pragma.json](./178245-pragma.json) |
@@ -17232,6 +17236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychroma | 204534 | [204534-psychroma.json](./204534-psychroma.json) |
 | PsychWorld | 250791 | [250791-psychworld.json](./250791-psychworld.json) |
 | PsycoCat | 118774 | [118774-psycocat.json](./118774-psycocat.json) |
+| Psycologico | 145774 | [145774-psycologico.json](./145774-psycologico.json) |
 | Psycorp | 422677 | [422677-psycorp.json](./422677-psycorp.json) |
 | Psycron | 145676 | [145676-psycron.json](./145676-psycron.json) |
 | Psycutlery | 135137 | [135137-psycutlery.json](./135137-psycutlery.json) |
@@ -17424,6 +17429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puffins: Let's Roll | 66695 | [66695-puffins-lets-roll.json](./66695-puffins-lets-roll.json) |
 | Puffle Launch App | 118716 | [118716-puffle-launch-app.json](./118716-puffle-launch-app.json) |
 | Puffle Paddle 3DS | 253797 | [253797-puffle-paddle-3ds.json](./253797-puffle-paddle-3ds.json) |
+| Puffle Wild | 145768 | [145768-puffle-wild.json](./145768-puffle-wild.json) |
 | Pufflings: Journey Through a Fantasy World | 397921 | [397921-pufflings-journey-through-a-fantasy-world.json](./397921-pufflings-journey-through-a-fantasy-world.json) |
 | Puffmin Quest | 313354 | [313354-puffmin-quest.json](./313354-puffmin-quest.json) |
 | PuffPals: Island Skies | 198621 | [198621-puffpals-island-skies.json](./198621-puffpals-island-skies.json) |
