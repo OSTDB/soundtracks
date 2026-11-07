@@ -3507,6 +3507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9000 Years Ago | 283074 | [283074-9000-years-ago.json](./283074-9000-years-ago.json) |
 | 90FX | 377126 | [377126-90fx.json](./377126-90fx.json) |
 | 90s Extreme Skiing | 328091 | [328091-90s-extreme-skiing.json](./328091-90s-extreme-skiing.json) |
+| 90s Video Pokers | 175477 | [175477-90s-video-pokers.json](./175477-90s-video-pokers.json) |
 | 911 Dispatcher: Unknown Caller | 415465 | [415465-911-dispatcher-unknown-caller.json](./415465-911-dispatcher-unknown-caller.json) |
 | 911 Emergency Manager | 377412 | [377412-911-emergency-manager.json](./377412-911-emergency-manager.json) |
 | 911 Fire Rescue | 71612 | [71612-911-fire-rescue.json](./71612-911-fire-rescue.json) |
