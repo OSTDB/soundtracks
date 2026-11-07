@@ -3808,6 +3808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirakira Slimes | 300408 | [300408-kirakira-slimes.json](./300408-kirakira-slimes.json) |
 | Kirakira Stars Idol Project Ai | 129493 | [129493-kirakira-stars-idol-project-ai.json](./129493-kirakira-stars-idol-project-ai.json) |
 | Kirakira Stars Idol Project Ai | 151604 | [151604-kirakira-stars-idol-project-ai.json](./151604-kirakira-stars-idol-project-ai.json) |
+| Kirakira Stars Idol Project Memories | 172851 | [172851-kirakira-stars-idol-project-memories.json](./172851-kirakira-stars-idol-project-memories.json) |
 | Kirakira Stars Idol Project Nagisa | 152614 | [152614-kirakira-stars-idol-project-nagisa.json](./152614-kirakira-stars-idol-project-nagisa.json) |
 | Kirakira Stars Idol Project Reika | 153830 | [153830-kirakira-stars-idol-project-reika.json](./153830-kirakira-stars-idol-project-reika.json) |
 | Kirameki Paradise | 225372 | [225372-kirameki-paradise.json](./225372-kirameki-paradise.json) |
@@ -4706,6 +4707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of Frontier Valley | 216695 | [216695-knights-of-frontier-valley.json](./216695-knights-of-frontier-valley.json) |
 | Knights of Galiveth | 28426 | [28426-knights-of-galiveth.json](./28426-knights-of-galiveth.json) |
 | Knights of Grumthorr | 149444 | [149444-knights-of-grumthorr.json](./149444-knights-of-grumthorr.json) |
+| Knights of Grumthorr 2 | 172893 | [172893-knights-of-grumthorr-2.json](./172893-knights-of-grumthorr-2.json) |
 | Knights of Honor | 2040 | [2040-knights-of-honor.json](./2040-knights-of-honor.json) |
 | Knights of Honor II: Sovereign | 121919 | [121919-knights-of-honor-ii-sovereign.json](./121919-knights-of-honor-ii-sovereign.json) |
 | Knights of Legend | 47224 | [47224-knights-of-legend.json](./47224-knights-of-legend.json) |
