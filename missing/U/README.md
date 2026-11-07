@@ -3030,6 +3030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untold Stories 7: Nova Arcana | 355139 | [355139-untold-stories-7-nova-arcana.json](./355139-untold-stories-7-nova-arcana.json) |
 | Untold Stories 8: Burnout Fantasy | 355141 | [355141-untold-stories-8-burnout-fantasy.json](./355141-untold-stories-8-burnout-fantasy.json) |
 | Untold Stories 9: Castlemania | 355146 | [355146-untold-stories-9-castlemania.json](./355146-untold-stories-9-castlemania.json) |
+| Untold Story | 143205 | [143205-untold-story.json](./143205-untold-story.json) |
 | Untold Story | 311636 | [311636-untold-story.json](./311636-untold-story.json) |
 | Untold Tales Adventure & Story-Rich Bundle | 401783 | [401783-untold-tales-adventure-and-story-rich-bundle.json](./401783-untold-tales-adventure-and-story-rich-bundle.json) |
 | Untold Tales of Citadale: The Shadow Maker | 272228 | [272228-untold-tales-of-citadale-the-shadow-maker.json](./272228-untold-tales-of-citadale-the-shadow-maker.json) |
@@ -3445,6 +3446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urchins and Ink | 207609 | [207609-urchins-and-ink.json](./207609-urchins-and-ink.json) |
 | Urcicus | 391836 | [391836-urcicus.json](./391836-urcicus.json) |
 | Urd Monster | 179535 | [179535-urd-monster.json](./179535-urd-monster.json) |
+| URG | 143202 | [143202-urg.json](./143202-urg.json) |
 | Urge | 133065 | [133065-urge.json](./133065-urge.json) |
 | Urgent Message | 343232 | [343232-urgent-message.json](./343232-urgent-message.json) |
 | Uridium 2 | 12808 | [12808-uridium-2.json](./12808-uridium-2.json) |
