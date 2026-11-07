@@ -673,6 +673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddnose | 247351 | [247351-oddnose.json](./247351-oddnose.json) |
 | OddPlanet | 32782 | [32782-oddplanet.json](./32782-oddplanet.json) |
 | Oddroom | 337021 | [337021-oddroom.json](./337021-oddroom.json) |
+| Odds and Ends | 179798 | [179798-odds-and-ends.json](./179798-odds-and-ends.json) |
 | Odds at Oddity | 389986 | [389986-odds-at-oddity.json](./389986-odds-at-oddity.json) |
 | Oddsmaker | 255718 | [255718-oddsmaker.json](./255718-oddsmaker.json) |
 | Oddsparks: An Automation Adventure | 261144 | [261144-oddsparks-an-automation-adventure.json](./261144-oddsparks-an-automation-adventure.json) |
@@ -5016,6 +5017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out of Sync: Complete Cherry Bomb Edition | 397166 | [397166-out-of-sync-complete-cherry-bomb-edition.json](./397166-out-of-sync-complete-cherry-bomb-edition.json) |
 | Out of Sync: Crescendo | 397169 | [397169-out-of-sync-crescendo.json](./397169-out-of-sync-crescendo.json) |
 | Out of the Blocks | 62723 | [62723-out-of-the-blocks.json](./62723-out-of-the-blocks.json) |
+| Out of the Blue | 179826 | [179826-out-of-the-blue.json](./179826-out-of-the-blue.json) |
 | Out of the Blue | 210336 | [210336-out-of-the-blue.json](./210336-out-of-the-blue.json) |
 | Out of the Cube | 219626 | [219626-out-of-the-cube.json](./219626-out-of-the-cube.json) |
 | Out of the Deathmount | 231505 | [231505-out-of-the-deathmount.json](./231505-out-of-the-deathmount.json) |
