@@ -2288,6 +2288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage Bliss | 23919 | [23919-savage-bliss.json](./23919-savage-bliss.json) |
 | Savage Gears | 319685 | [319685-savage-gears.json](./319685-savage-gears.json) |
 | Savage Girls | 272940 | [272940-savage-girls.json](./272940-savage-girls.json) |
+| Savage Halloween | 145826 | [145826-savage-halloween.json](./145826-savage-halloween.json) |
 | Savage Hunt: Dragon's Prophet | 71582 | [71582-savage-hunt-dragons-prophet.json](./71582-savage-hunt-dragons-prophet.json) |
 | Savage Island | 18523 | [18523-savage-island.json](./18523-savage-island.json) |
 | Savage Island Series | 68961 | [68961-savage-island-series.json](./68961-savage-island-series.json) |
@@ -5313,6 +5314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekure Fuumin no Omocha Hako | 254500 | [254500-sekure-fuumin-no-omocha-hako.json](./254500-sekure-fuumin-no-omocha-hako.json) |
 | Sel Mounta: Siege the Demon Castle | 259732 | [259732-sel-mounta-siege-the-demon-castle.json](./259732-sel-mounta-siege-the-demon-castle.json) |
 | Sel Quinta: The Six City Quest | 192239 | [192239-sel-quinta-the-six-city-quest.json](./192239-sel-quinta-the-six-city-quest.json) |
+| Selaco | 145828 | [145828-selaco.json](./145828-selaco.json) |
 | Selanìa | 363329 | [363329-selania.json](./363329-selania.json) |
 | Sélas | 335224 | [335224-selas.json](./335224-selas.json) |
 | Selatria | 166217 | [166217-selatria.json](./166217-selatria.json) |
@@ -8464,6 +8466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Devil Collection | 147169 | [147169-shin-megami-tensei-devil-collection.json](./147169-shin-megami-tensei-devil-collection.json) |
 | Shin Megami Tensei: Devil Hunter Zero | 139762 | [139762-shin-megami-tensei-devil-hunter-zero.json](./139762-shin-megami-tensei-devil-hunter-zero.json) |
 | Shin Megami Tensei: Devil Summoner | 357453 | [357453-shin-megami-tensei-devil-summoner.json](./357453-shin-megami-tensei-devil-summoner.json) |
+| Shin Megami Tensei: Devil Summoner - Akuma Zensho | 145827 | [145827-shin-megami-tensei-devil-summoner-akuma-zensho.json](./145827-shin-megami-tensei-devil-summoner-akuma-zensho.json) |
 | Shin Megami Tensei: Devil Summoner - Raidou Kuzunoha vs. the Fiefdom of Death | 386457 | [386457-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-fiefdom-of-death.json](./386457-shin-megami-tensei-devil-summoner-raidou-kuzunoha-vs-the-fiefdom-of-death.json) |
 | Shin Megami Tensei: Devil Summoner - Soul Hackers | 281414 | [281414-shin-megami-tensei-devil-summoner-soul-hackers.json](./281414-shin-megami-tensei-devil-summoner-soul-hackers.json) |
 | Shin Megami Tensei: Devil Summoner 2 - Raidou Kuzunoha vs King Abaddon | 21192 | [21192-shin-megami-tensei-devil-summoner-2-raidou-kuzunoha-vs-king-abaddon.json](./21192-shin-megami-tensei-devil-summoner-2-raidou-kuzunoha-vs-king-abaddon.json) |
@@ -18836,6 +18839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Journey | 202115 | [202115-soul-journey.json](./202115-soul-journey.json) |
 | Soul King | 213453 | [213453-soul-king.json](./213453-soul-king.json) |
 | Soul King: Out of the Box | 298109 | [298109-soul-king-out-of-the-box.json](./298109-soul-king-out-of-the-box.json) |
+| Soul Kingdoms | 145767 | [145767-soul-kingdoms.json](./145767-soul-kingdoms.json) |
 | Soul Knight | 122346 | [122346-soul-knight.json](./122346-soul-knight.json) |
 | Soul Knight Prequel | 277857 | [277857-soul-knight-prequel.json](./277857-soul-knight-prequel.json) |
 | Soul Knight: The Forest of Spirits | 237296 | [237296-soul-knight-the-forest-of-spirits.json](./237296-soul-knight-the-forest-of-spirits.json) |
@@ -19915,6 +19919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20605,6 +20610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space/Mech/Pilot | 139924 | [139924-space-mech-pilot.json](./139924-space-mech-pilot.json) |
 | SpaceAttack | 68428 | [68428-spaceattack.json](./68428-spaceattack.json) |
 | Spaceball | 112177 | [112177-spaceball.json](./112177-spaceball.json) |
+| Spaceball | 145763 | [145763-spaceball.json](./145763-spaceball.json) |
 | Spaceball Revolution | 21059 | [21059-spaceball-revolution.json](./21059-spaceball-revolution.json) |
 | Spaceballs: The Sequel: The Search For More DBP Maps | 257161 | [257161-spaceballs-the-sequel-the-search-for-more-dbp-maps.json](./257161-spaceballs-the-sequel-the-search-for-more-dbp-maps.json) |
 | Spacebar | 177733 | [177733-spacebar.json](./177733-spacebar.json) |
@@ -26808,6 +26814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Warrior | 83604 | [83604-stellar-warrior.json](./83604-stellar-warrior.json) |
 | Stellar Warrior: Master Levels | 171929 | [171929-stellar-warrior-master-levels.json](./171929-stellar-warrior-master-levels.json) |
 | Stellar Watch | 207596 | [207596-stellar-watch.json](./207596-stellar-watch.json) |
+| Stellar Winds | 145830 | [145830-stellar-winds.json](./145830-stellar-winds.json) |
 | Stellar Wreck | 399421 | [399421-stellar-wreck.json](./399421-stellar-wreck.json) |
 | Stellar-Fire | 14515 | [14515-stellar-fire.json](./14515-stellar-fire.json) |
 | Stellar!: Infinity defense | 299453 | [299453-stellar-infinity-defense.json](./299453-stellar-infinity-defense.json) |
@@ -33852,6 +33859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Yakyuudou '93 - 94 Nendo Data Kaiteiban | 66198 | [66198-super-yakyuudou-93-94-nendo-data-kaiteiban.json](./66198-super-yakyuudou-93-94-nendo-data-kaiteiban.json) |
 | Super Yakyuudou 2 | 66208 | [66208-super-yakyuudou-2.json](./66208-super-yakyuudou-2.json) |
 | Super Yakyuudou Limited | 91655 | [91655-super-yakyuudou-limited.json](./91655-super-yakyuudou-limited.json) |
+| Super Yandere 64 | 145770 | [145770-super-yandere-64.json](./145770-super-yandere-64.json) |
 | Super Yodelland: Legend of the Katzenbär | 192564 | [192564-super-yodelland-legend-of-the-katzenbar.json](./192564-super-yodelland-legend-of-the-katzenbar.json) |
 | Super Yoshi no Tamago | 319823 | [319823-super-yoshi-no-tamago.json](./319823-super-yoshi-no-tamago.json) |
 | Super Yuki Onna-chan | 154423 | [154423-super-yuki-onna-chan.json](./154423-super-yuki-onna-chan.json) |
@@ -35497,6 +35505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Office | 343597 | [343597-sweet-office.json](./343597-sweet-office.json) |
 | Sweet Office 2 | 306303 | [306303-sweet-office-2.json](./306303-sweet-office-2.json) |
 | Sweet Orgasm | 418840 | [418840-sweet-orgasm.json](./418840-sweet-orgasm.json) |
+| Sweet Pea | 145823 | [145823-sweet-pea.json](./145823-sweet-pea.json) |
 | Sweet Pensiveness Christmas | 176257 | [176257-sweet-pensiveness-christmas.json](./176257-sweet-pensiveness-christmas.json) |
 | Sweet Pet | 392913 | [392913-sweet-pet.json](./392913-sweet-pet.json) |
 | Sweet Pirate | 382397 | [382397-sweet-pirate.json](./382397-sweet-pirate.json) |
@@ -35635,6 +35644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swevens | 403124 | [403124-swevens.json](./403124-swevens.json) |
 | Sweyet Dreaming Emulator the Familiar Discomfort of the Unpredictable | 328371 | [328371-sweyet-dreaming-emulator-the-familiar-discomfort-of-the-unpredictable.json](./328371-sweyet-dreaming-emulator-the-familiar-discomfort-of-the-unpredictable.json) |
 | Swibble Dibble | 69913 | [69913-swibble-dibble.json](./69913-swibble-dibble.json) |
+| Swift | 145802 | [145802-swift.json](./145802-swift.json) |
 | Swift | 33871 | [33871-swift.json](./33871-swift.json) |
 | Swift Attack | 195481 | [195481-swift-attack.json](./195481-swift-attack.json) |
 | Swift Blocks | 26892 | [26892-swift-blocks.json](./26892-swift-blocks.json) |
