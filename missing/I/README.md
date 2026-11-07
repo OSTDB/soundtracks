@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love You Freddy | 277010 | [277010-i-love-you-freddy.json](./277010-i-love-you-freddy.json) |
 | I Love You like a Fat Lady Loves Apples | 239451 | [239451-i-love-you-like-a-fat-lady-loves-apples.json](./239451-i-love-you-like-a-fat-lady-loves-apples.json) |
 | I Love You, Colonel Sanders! A Finger Lickin' Good Dating Simulator | 122318 | [122318-i-love-you-colonel-sanders-a-finger-lickin-good-dating-simulator.json](./122318-i-love-you-colonel-sanders-a-finger-lickin-good-dating-simulator.json) |
+| I Love You! | 144457 | [144457-i-love-you.json](./144457-i-love-you.json) |
 | I Ludicrus | 14987 | [14987-i-ludicrus.json](./14987-i-ludicrus.json) |
 | I Luv House Pets | 210081 | [210081-i-luv-house-pets.json](./210081-i-luv-house-pets.json) |
 | I made a ... | 158368 | [158368-i-made-a.json](./158368-i-made-a.json) |
@@ -2539,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Rising | 216102 | [216102-immortal-rising.json](./216102-immortal-rising.json) |
 | Immortal Road Battle | 284266 | [284266-immortal-road-battle.json](./284266-immortal-road-battle.json) |
 | Immortal Rogue | 113638 | [113638-immortal-rogue.json](./113638-immortal-rogue.json) |
+| Immortal Saga | 144484 | [144484-immortal-saga.json](./144484-immortal-saga.json) |
 | Immortal Seeker | 370882 | [370882-immortal-seeker.json](./370882-immortal-seeker.json) |
 | Immortal Sins | 22029 | [22029-immortal-sins.json](./22029-immortal-sins.json) |
 | Immortal Snake Nest | 282845 | [282845-immortal-snake-nest.json](./282845-immortal-snake-nest.json) |
@@ -4713,6 +4715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insomnis: Enhanced Edition | 198395 | [198395-insomnis-enhanced-edition.json](./198395-insomnis-enhanced-edition.json) |
 | InSomnus | 229265 | [229265-insomnus.json](./229265-insomnus.json) |
 | Inspace 2980 | 109645 | [109645-inspace-2980.json](./109645-inspace-2980.json) |
+| Inspecteur Banaan en de ontvoering van Mabella | 144462 | [144462-inspecteur-banaan-en-de-ontvoering-van-mabella.json](./144462-inspecteur-banaan-en-de-ontvoering-van-mabella.json) |
 | Inspecteur Gadget | 218244 | [218244-inspecteur-gadget.json](./218244-inspecteur-gadget.json) |
 | Inspection | 294188 | [294188-inspection.json](./294188-inspection.json) |
 | Inspection Report | 309923 | [309923-inspection-report.json](./309923-inspection-report.json) |
@@ -5684,6 +5687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invisible Sun | 77692 | [77692-invisible-sun.json](./77692-invisible-sun.json) |
 | Invisible Wall | 348884 | [348884-invisible-wall.json](./348884-invisible-wall.json) |
 | Invisible War Revised | 404339 | [404339-invisible-war-revised.json](./404339-invisible-war-revised.json) |
+| Invisible Wings: Chapter One | 144466 | [144466-invisible-wings-chapter-one.json](./144466-invisible-wings-chapter-one.json) |
 | Invisible X | 261654 | [261654-invisible-x.json](./261654-invisible-x.json) |
 | Invisible: Story Extension | 168364 | [168364-invisible-story-extension.json](./168364-invisible-story-extension.json) |
 | InvisibleHand | 319407 | [319407-invisiblehand.json](./319407-invisiblehand.json) |
