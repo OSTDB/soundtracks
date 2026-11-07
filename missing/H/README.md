@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ha-ha-ho-ho-horror | 343911 | [343911-ha-ha-ho-ho-horror.json](./343911-ha-ha-ho-ho-horror.json) |
 | Ha*co | 210226 | [210226-ha-co.json](./210226-ha-co.json) |
 | Ha/ck | 113710 | [113710-ha-ck.json](./113710-ha-ck.json) |
+| HaachamaWare | 177127 | [177127-haachamaware.json](./177127-haachamaware.json) |
 | Haak | 138242 | [138242-haak.json](./138242-haak.json) |
 | Habanero | 360476 | [360476-habanero.json](./360476-habanero.json) |
 | Habanero-tan House | 279758 | [279758-habanero-tan-house.json](./279758-habanero-tan-house.json) |
@@ -8751,6 +8752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hole Digging Game | 251719 | [251719-hole-digging-game.json](./251719-hole-digging-game.json) |
 | Hole Digging Master | 339150 | [339150-hole-digging-master.json](./339150-hole-digging-master.json) |
 | Hole Dweller | 333200 | [333200-hole-dweller.json](./333200-hole-dweller.json) |
+| Hole in Clone | 177135 | [177135-hole-in-clone.json](./177135-hole-in-clone.json) |
 | Hole in One | 41794 | [41794-hole-in-one.json](./41794-hole-in-one.json) |
 | Hole in One Golf | 49924 | [49924-hole-in-one-golf.json](./49924-hole-in-one-golf.json) |
 | Hole in One Professional | 41795 | [41795-hole-in-one-professional.json](./41795-hole-in-one-professional.json) |
@@ -9371,6 +9373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hometown Farm | 208191 | [208191-hometown-farm.json](./208191-hometown-farm.json) |
 | Hometown Hero | 212015 | [212015-hometown-hero.json](./212015-hometown-hero.json) |
 | Hometown Poker Hero | 54085 | [54085-hometown-poker-hero.json](./54085-hometown-poker-hero.json) |
+| Hometown Poker Hero: Platinum Edition | 177105 | [177105-hometown-poker-hero-platinum-edition.json](./177105-hometown-poker-hero-platinum-edition.json) |
 | Hometown Store | 385637 | [385637-hometown-store.json](./385637-hometown-store.json) |
 | Hometown Story | 6808 | [6808-hometown-story.json](./6808-hometown-story.json) |
 | Hometown War | 140833 | [140833-hometown-war.json](./140833-hometown-war.json) |
