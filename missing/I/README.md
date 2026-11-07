@@ -1575,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Magic School | 281449 | [281449-idle-magic-school.json](./281449-idle-magic-school.json) |
 | Idle Mall Tycoon | 276650 | [276650-idle-mall-tycoon.json](./276650-idle-mall-tycoon.json) |
 | Idle Mars Colony | 233621 | [233621-idle-mars-colony.json](./233621-idle-mars-colony.json) |
+| Idle Master Hunter: Steam Edition | 170119 | [170119-idle-master-hunter-steam-edition.json](./170119-idle-master-hunter-steam-edition.json) |
 | Idle Medieval Tavern | 250743 | [250743-idle-medieval-tavern.json](./250743-idle-medieval-tavern.json) |
 | Idle Meteor | 295211 | [295211-idle-meteor.json](./295211-idle-meteor.json) |
 | Idle Military Factory Tycoon | 251443 | [251443-idle-military-factory-tycoon.json](./251443-idle-military-factory-tycoon.json) |
@@ -2118,12 +2119,35 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IL-2 Sturmovik: 1946 | 5563 | [5563-il-2-sturmovik-1946.json](./5563-il-2-sturmovik-1946.json) |
 | IL-2 Sturmovik: Battle of Stalingrad | 17995 | [17995-il-2-sturmovik-battle-of-stalingrad.json](./17995-il-2-sturmovik-battle-of-stalingrad.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Battle of Bodenplatte | 139045 | [139045-il-2-sturmovik-battle-of-stalingrad-battle-of-bodenplatte.json](./139045-il-2-sturmovik-battle-of-stalingrad-battle-of-bodenplatte.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - Battle of Kuban | 170098 | [170098-il-2-sturmovik-battle-of-stalingrad-battle-of-kuban.json](./170098-il-2-sturmovik-battle-of-stalingrad-battle-of-kuban.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - Battle of Moscow | 170101 | [170101-il-2-sturmovik-battle-of-stalingrad-battle-of-moscow.json](./170101-il-2-sturmovik-battle-of-stalingrad-battle-of-moscow.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - Bf 109 G-6 Collector Plane | 170105 | [170105-il-2-sturmovik-battle-of-stalingrad-bf-109-g-6-collector-plane.json](./170105-il-2-sturmovik-battle-of-stalingrad-bf-109-g-6-collector-plane.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - Blazing Steppe Campaign | 170110 | [170110-il-2-sturmovik-battle-of-stalingrad-blazing-steppe-campaign.json](./170110-il-2-sturmovik-battle-of-stalingrad-blazing-steppe-campaign.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - Desert Wings - Tobruk | 170116 | [170116-il-2-sturmovik-battle-of-stalingrad-desert-wings-tobruk.json](./170116-il-2-sturmovik-battle-of-stalingrad-desert-wings-tobruk.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Flying Circus - Volume II | 243161 | [243161-il-2-sturmovik-battle-of-stalingrad-flying-circus-volume-ii.json](./243161-il-2-sturmovik-battle-of-stalingrad-flying-circus-volume-ii.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - Flying Circus: Volume I | 170104 | [170104-il-2-sturmovik-battle-of-stalingrad-flying-circus-volume-i.json](./170104-il-2-sturmovik-battle-of-stalingrad-flying-circus-volume-i.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - Fortress on the Volga Campaign | 170102 | [170102-il-2-sturmovik-battle-of-stalingrad-fortress-on-the-volga-campaign.json](./170102-il-2-sturmovik-battle-of-stalingrad-fortress-on-the-volga-campaign.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - Fw 190 D-9 Collector Plane | 170106 | [170106-il-2-sturmovik-battle-of-stalingrad-fw-190-d-9-collector-plane.json](./170106-il-2-sturmovik-battle-of-stalingrad-fw-190-d-9-collector-plane.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - GAZ-MM 72-K Anti-Aircraft Gun | 170103 | [170103-il-2-sturmovik-battle-of-stalingrad-gaz-mm-72-k-anti-aircraft-gun.json](./170103-il-2-sturmovik-battle-of-stalingrad-gaz-mm-72-k-anti-aircraft-gun.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Havoc Over the Kuban Campaign | 321950 | [321950-il-2-sturmovik-battle-of-stalingrad-havoc-over-the-kuban-campaign.json](./321950-il-2-sturmovik-battle-of-stalingrad-havoc-over-the-kuban-campaign.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - Hs 129 B-2 Collector Plane | 170111 | [170111-il-2-sturmovik-battle-of-stalingrad-hs-129-b-2-collector-plane.json](./170111-il-2-sturmovik-battle-of-stalingrad-hs-129-b-2-collector-plane.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - Hurricane Mk.II Collector Plane | 170113 | [170113-il-2-sturmovik-battle-of-stalingrad-hurricane-mk-ii-collector-plane.json](./170113-il-2-sturmovik-battle-of-stalingrad-hurricane-mk-ii-collector-plane.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - I.A.R. 80-A and 80-B Collector Planes | 295399 | [295399-il-2-sturmovik-battle-of-stalingrad-i-a-r-80-a-and-80-b-collector-planes.json](./295399-il-2-sturmovik-battle-of-stalingrad-i-a-r-80-a-and-80-b-collector-planes.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - Ice Ring Campaign | 170096 | [170096-il-2-sturmovik-battle-of-stalingrad-ice-ring-campaign.json](./170096-il-2-sturmovik-battle-of-stalingrad-ice-ring-campaign.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - Ju 52/3m Collector Plane | 170099 | [170099-il-2-sturmovik-battle-of-stalingrad-ju-52-3m-collector-plane.json](./170099-il-2-sturmovik-battle-of-stalingrad-ju-52-3m-collector-plane.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - La-5FN series 2 Collector Plane | 170097 | [170097-il-2-sturmovik-battle-of-stalingrad-la-5fn-series-2-collector-plane.json](./170097-il-2-sturmovik-battle-of-stalingrad-la-5fn-series-2-collector-plane.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - MC.202 Series VIII Collector Plane | 170108 | [170108-il-2-sturmovik-battle-of-stalingrad-mc-202-series-viii-collector-plane.json](./170108-il-2-sturmovik-battle-of-stalingrad-mc-202-series-viii-collector-plane.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - P-38J-25 Collector Plane | 170112 | [170112-il-2-sturmovik-battle-of-stalingrad-p-38j-25-collector-plane.json](./170112-il-2-sturmovik-battle-of-stalingrad-p-38j-25-collector-plane.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - P-40E-1 Collector Plane | 170095 | [170095-il-2-sturmovik-battle-of-stalingrad-p-40e-1-collector-plane.json](./170095-il-2-sturmovik-battle-of-stalingrad-p-40e-1-collector-plane.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - Polikarpov U-2VS | 170094 | [170094-il-2-sturmovik-battle-of-stalingrad-polikarpov-u-2vs.json](./170094-il-2-sturmovik-battle-of-stalingrad-polikarpov-u-2vs.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - Spitfire Mk.VB Collector Plane | 170107 | [170107-il-2-sturmovik-battle-of-stalingrad-spitfire-mk-vb-collector-plane.json](./170107-il-2-sturmovik-battle-of-stalingrad-spitfire-mk-vb-collector-plane.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Spitfire Mk.XIVe with Teardrop Canopy | 243160 | [243160-il-2-sturmovik-battle-of-stalingrad-spitfire-mk-xive-with-teardrop-canopy.json](./243160-il-2-sturmovik-battle-of-stalingrad-spitfire-mk-xive-with-teardrop-canopy.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Steel Birds Campaign | 227633 | [227633-il-2-sturmovik-battle-of-stalingrad-steel-birds-campaign.json](./227633-il-2-sturmovik-battle-of-stalingrad-steel-birds-campaign.json) |
 | IL-2 Sturmovik: Battle of Stalingrad - Ta 152 H-1 Collector Plane | 321944 | [321944-il-2-sturmovik-battle-of-stalingrad-ta-152-h-1-collector-plane.json](./321944-il-2-sturmovik-battle-of-stalingrad-ta-152-h-1-collector-plane.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - Tank Crew: Clash at Prokhorovka | 170100 | [170100-il-2-sturmovik-battle-of-stalingrad-tank-crew-clash-at-prokhorovka.json](./170100-il-2-sturmovik-battle-of-stalingrad-tank-crew-clash-at-prokhorovka.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - Yak-1b Collector Plane | 170115 | [170115-il-2-sturmovik-battle-of-stalingrad-yak-1b-collector-plane.json](./170115-il-2-sturmovik-battle-of-stalingrad-yak-1b-collector-plane.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - Yak-9 Series 1 Collector Plane | 170114 | [170114-il-2-sturmovik-battle-of-stalingrad-yak-9-series-1-collector-plane.json](./170114-il-2-sturmovik-battle-of-stalingrad-yak-9-series-1-collector-plane.json) |
+| IL-2 Sturmovik: Battle of Stalingrad - Yak-9T Series 1 Collector Plane | 170109 | [170109-il-2-sturmovik-battle-of-stalingrad-yak-9t-series-1-collector-plane.json](./170109-il-2-sturmovik-battle-of-stalingrad-yak-9t-series-1-collector-plane.json) |
 | IL-2 Sturmovik: Battle of Stalingrad Deluxe Edition | 300968 | [300968-il-2-sturmovik-battle-of-stalingrad-deluxe-edition.json](./300968-il-2-sturmovik-battle-of-stalingrad-deluxe-edition.json) |
 | IL-2 Sturmovik: Birds of Prey | 193298 | [193298-il-2-sturmovik-birds-of-prey.json](./193298-il-2-sturmovik-birds-of-prey.json) |
 | IL-2 Sturmovik: Birds of Prey | 7016 | [7016-il-2-sturmovik-birds-of-prey.json](./7016-il-2-sturmovik-birds-of-prey.json) |
@@ -3899,6 +3923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
