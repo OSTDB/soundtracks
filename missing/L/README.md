@@ -1570,6 +1570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Train Home | 131385 | [131385-last-train-home.json](./131385-last-train-home.json) |
 | Last Train Home: Digital Deluxe Edition | 278580 | [278580-last-train-home-digital-deluxe-edition.json](./278580-last-train-home-digital-deluxe-edition.json) |
 | Last Train Outta' Wormtown | 244593 | [244593-last-train-outta-wormtown.json](./244593-last-train-outta-wormtown.json) |
+| Last Train to Tranz-Central | 153595 | [153595-last-train-to-tranz-central.json](./153595-last-train-to-tranz-central.json) |
 | Last Ultima | 269088 | [269088-last-ultima.json](./269088-last-ultima.json) |
 | Last Upload | 419136 | [419136-last-upload.json](./419136-last-upload.json) |
 | Last Vanguard | 199290 | [199290-last-vanguard.json](./199290-last-vanguard.json) |
@@ -6515,6 +6516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Livers Ikusei Card Game | 320815 | [320815-livers-ikusei-card-game.json](./320815-livers-ikusei-card-game.json) |
 | Lives and Death | 65341 | [65341-lives-and-death.json](./65341-lives-and-death.json) |
 | Lives so Sweet | 124199 | [124199-lives-so-sweet.json](./124199-lives-so-sweet.json) |
+| LiveScream | 153596 | [153596-livescream.json](./153596-livescream.json) |
 | LiveStream | 394170 | [394170-livestream.json](./394170-livestream.json) |
 | Livestream 2: Escape from Togaezuka Happy Place | 264210 | [264210-livestream-2-escape-from-togaezuka-happy-place.json](./264210-livestream-2-escape-from-togaezuka-happy-place.json) |
 | Livestream: Escape from Hotel Izanami | 146928 | [146928-livestream-escape-from-hotel-izanami.json](./146928-livestream-escape-from-hotel-izanami.json) |
@@ -7448,6 +7450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Look to the Birds | 414434 | [414434-look-to-the-birds.json](./414434-look-to-the-birds.json) |
 | Look Twice | 417974 | [417974-look-twice.json](./417974-look-twice.json) |
 | Look_in_Dark | 304061 | [304061-look-in-dark.json](./304061-look-in-dark.json) |
+| Look, Your Loot! | 153624 | [153624-look-your-loot.json](./153624-look-your-loot.json) |
 | Looking | 178031 | [178031-looking.json](./178031-looking.json) |
 | Looking Back | 120506 | [120506-looking-back.json](./120506-looking-back.json) |
 | Looking for Aliens | 186530 | [186530-looking-for-aliens.json](./186530-looking-for-aliens.json) |
@@ -10342,6 +10345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lyser | 118982 | [118982-lyser.json](./118982-lyser.json) |
 | Lyset Core | 377911 | [377911-lyset-core.json](./377911-lyset-core.json) |
 | Lysfanga: The Time Shift Warrior | 252491 | [252491-lysfanga-the-time-shift-warrior.json](./252491-lysfanga-the-time-shift-warrior.json) |
+| Lysfangha | 153575 | [153575-lysfangha.json](./153575-lysfangha.json) |
 | Lysium: Stardiver | 314505 | [314505-lysium-stardiver.json](./314505-lysium-stardiver.json) |
 | Lysogenesis | 203638 | [203638-lysogenesis.json](./203638-lysogenesis.json) |
 | Lyssa | 260122 | [260122-lyssa.json](./260122-lyssa.json) |
