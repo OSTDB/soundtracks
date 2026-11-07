@@ -5451,6 +5451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find El Chupacabra | 359393 | [359393-find-el-chupacabra.json](./359393-find-el-chupacabra.json) |
 | Find Exit | 190024 | [190024-find-exit.json](./190024-find-exit.json) |
 | Find Food | 246329 | [246329-find-food.json](./246329-find-food.json) |
+| Find Girl | 157276 | [157276-find-girl.json](./157276-find-girl.json) |
 | Find Her in Dungeon | 195841 | [195841-find-her-in-dungeon.json](./195841-find-her-in-dungeon.json) |
 | Find Hidden Objects - Spot It! | 387469 | [387469-find-hidden-objects-spot-it.json](./387469-find-hidden-objects-spot-it.json) |
 | Find Him | 292771 | [292771-find-him.json](./292771-find-him.json) |
@@ -6860,6 +6861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fistful of Frags | 8584 | [8584-fistful-of-frags.json](./8584-fistful-of-frags.json) |
 | Fistful of Nothing | 150591 | [150591-fistful-of-nothing.json](./150591-fistful-of-nothing.json) |
 | Fisti-Fluffs | 139673 | [139673-fisti-fluffs.json](./139673-fisti-fluffs.json) |
+| Fisticubes | 157259 | [157259-fisticubes.json](./157259-fisticubes.json) |
 | Fisticuffs: An Arcade Boxing Game | 240193 | [240193-fisticuffs-an-arcade-boxing-game.json](./240193-fisticuffs-an-arcade-boxing-game.json) |
 | Fists For Fighting Fx3 | 212305 | [212305-fists-for-fighting-fx3.json](./212305-fists-for-fighting-fx3.json) |
 | Fists of Invokers | 199500 | [199500-fists-of-invokers.json](./199500-fists-of-invokers.json) |
