@@ -1512,6 +1512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Girl: Final Pink Star | 389715 | [389715-magical-girl-final-pink-star.json](./389715-magical-girl-final-pink-star.json) |
 | Magical Girl: Taboo Village | 362038 | [362038-magical-girl-taboo-village.json](./362038-magical-girl-taboo-village.json) |
 | Magical girl's labyrinth | 105332 | [105332-magical-girls-labyrinth.json](./105332-magical-girls-labyrinth.json) |
+| Magical Girls | 187621 | [187621-magical-girls.json](./187621-magical-girls.json) |
 | Magical Girls | 378775 | [378775-magical-girls.json](./378775-magical-girls.json) |
 | Magical Girls Second Magic | 165607 | [165607-magical-girls-second-magic.json](./165607-magical-girls-second-magic.json) |
 | Magical Girls vs. Cat Aliens | 325847 | [325847-magical-girls-vs-cat-aliens.json](./325847-magical-girls-vs-cat-aliens.json) |
@@ -5603,6 +5604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math for Kids | 89519 | [89519-math-for-kids.json](./89519-math-for-kids.json) |
 | Math for the Real World | 301358 | [301358-math-for-the-real-world.json](./301358-math-for-the-real-world.json) |
 | Math Fun | 105640 | [105640-math-fun.json](./105640-math-fun.json) |
+| Math Game | 187599 | [187599-math-game.json](./187599-math-game.json) |
 | Math Game | 188491 | [188491-math-game.json](./188491-math-game.json) |
 | Math Games PRO | 105956 | [105956-math-games-pro.json](./105956-math-games-pro.json) |
 | Math Genius King of Arithmetic | 233753 | [233753-math-genius-king-of-arithmetic.json](./233753-math-genius-king-of-arithmetic.json) |
@@ -5953,7 +5955,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9112,6 +9113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mentis Cohorts | 41538 | [41538-mentis-cohorts.json](./41538-mentis-cohorts.json) |
 | Mentori Puzzle | 113471 | [113471-mentori-puzzle.json](./113471-mentori-puzzle.json) |
 | Mentula Macanus: Apocolocyntosis | 22420 | [22420-mentula-macanus-apocolocyntosis.json](./22420-mentula-macanus-apocolocyntosis.json) |
+| Menu Please! | 187584 | [187584-menu-please.json](./187584-menu-please.json) |
 | Menyr | 260638 | [260638-menyr.json](./260638-menyr.json) |
 | Menzoberranzan | 2515 | [2515-menzoberranzan.json](./2515-menzoberranzan.json) |
 | Meo+ | 249363 | [249363-meo.json](./249363-meo.json) |
@@ -9302,6 +9304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mercury Elopement Syndrome | 395237 | [395237-mercury-elopement-syndrome.json](./395237-mercury-elopement-syndrome.json) |
 | Mercury Fallen | 69385 | [69385-mercury-fallen.json](./69385-mercury-fallen.json) |
 | Mercury Hg | 20142 | [20142-mercury-hg.json](./20142-mercury-hg.json) |
+| Mercury Island | 187609 | [187609-mercury-island.json](./187609-mercury-island.json) |
 | Mercury Meltdown Remix | 20628 | [20628-mercury-meltdown-remix.json](./20628-mercury-meltdown-remix.json) |
 | Mercury Meltdown Revolution | 5003 | [5003-mercury-meltdown-revolution.json](./5003-mercury-meltdown-revolution.json) |
 | Mercury no Aoi Suna | 150125 | [150125-mercury-no-aoi-suna.json](./150125-mercury-no-aoi-suna.json) |
@@ -13938,6 +13941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: It's Complicated | 128929 | [128929-mission-its-complicated.json](./128929-mission-its-complicated.json) |
 | Mission: Mars | 298646 | [298646-mission-mars.json](./298646-mission-mars.json) |
 | Mission: Rift Seeker | 295539 | [295539-mission-rift-seeker.json](./295539-mission-rift-seeker.json) |
+| Mission: Santa | 187588 | [187588-mission-santa.json](./187588-mission-santa.json) |
 | Mission: Scarlet Stars | 341114 | [341114-mission-scarlet-stars.json](./341114-mission-scarlet-stars.json) |
 | Mission: Space | 264028 | [264028-mission-space.json](./264028-mission-space.json) |
 | Mission: Thunderbolt | 103044 | [103044-mission-thunderbolt.json](./103044-mission-thunderbolt.json) |
@@ -14254,6 +14258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB 9 Innings 19 | 304065 | [304065-mlb-9-innings-19.json](./304065-mlb-9-innings-19.json) |
 | MLB 9 Innings 20 | 304070 | [304070-mlb-9-innings-20.json](./304070-mlb-9-innings-20.json) |
 | MLB 9 Innings 21 | 145538 | [145538-mlb-9-innings-21.json](./145538-mlb-9-innings-21.json) |
+| MLB 9 Innings 22 | 187603 | [187603-mlb-9-innings-22.json](./187603-mlb-9-innings-22.json) |
 | MLB 9 Innings 23 | 243137 | [243137-mlb-9-innings-23.json](./243137-mlb-9-innings-23.json) |
 | MLB 9 Innings 24 | 303182 | [303182-mlb-9-innings-24.json](./303182-mlb-9-innings-24.json) |
 | MLB 98 | 28190 | [28190-mlb-98.json](./28190-mlb-98.json) |
@@ -21248,6 +21253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sweet Summer Oni | 213279 | [213279-my-sweet-summer-oni.json](./213279-my-sweet-summer-oni.json) |
 | My Sweet Waifu | 88120 | [88120-my-sweet-waifu.json](./88120-my-sweet-waifu.json) |
 | My Sweet Washing Machine! | 156654 | [156654-my-sweet-washing-machine.json](./156654-my-sweet-washing-machine.json) |
+| My Sweet Zombie! | 187580 | [187580-my-sweet-zombie.json](./187580-my-sweet-zombie.json) |
 | My Sweet! Housemate | 330596 | [330596-my-sweet-housemate.json](./330596-my-sweet-housemate.json) |
 | My Swordsman | 230899 | [230899-my-swordsman.json](./230899-my-swordsman.json) |
 | My Talking Angela | 87017 | [87017-my-talking-angela.json](./87017-my-talking-angela.json) |
