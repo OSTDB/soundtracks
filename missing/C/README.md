@@ -8062,6 +8062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choppin' Wood | 405712 | [405712-choppin-wood.json](./405712-choppin-wood.json) |
 | Chopping Together | 389581 | [389581-chopping-together.json](./389581-chopping-together.json) |
 | Choppy Cuts | 349383 | [349383-choppy-cuts.json](./349383-choppy-cuts.json) |
+| Choppy Orc | 141994 | [141994-choppy-orc.json](./141994-choppy-orc.json) |
 | Choppy Waters | 350765 | [350765-choppy-waters.json](./350765-choppy-waters.json) |
 | Choppy Waves | 402724 | [402724-choppy-waves.json](./402724-choppy-waves.json) |
 | Chopsticks Online | 364451 | [364451-chopsticks-online.json](./364451-chopsticks-online.json) |
@@ -8659,6 +8660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronomon | 244487 | [244487-chronomon.json](./244487-chronomon.json) |
 | Chronon | 109896 | [109896-chronon.json](./109896-chronon.json) |
 | Chronon | 314983 | [314983-chronon.json](./314983-chronon.json) |
+| Chrononauts | 141965 | [141965-chrononauts.json](./141965-chrononauts.json) |
 | Chronophobia | 122341 | [122341-chronophobia.json](./122341-chronophobia.json) |
 | Chronophobia | 344430 | [344430-chronophobia.json](./344430-chronophobia.json) |
 | Chronophoto | 237530 | [237530-chronophoto.json](./237530-chronophoto.json) |
@@ -14543,7 +14545,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Craze: Starter Pack | 295118 | [295118-cooking-craze-starter-pack.json](./295118-cooking-craze-starter-pack.json) |
 | Cooking Crew | 262954 | [262954-cooking-crew.json](./262954-cooking-crew.json) |
 | Cooking Dash | 16068 | [16068-cooking-dash.json](./16068-cooking-dash.json) |
+| Cooking Dash 3: Thrills & Spills | 142005 | [142005-cooking-dash-3-thrills-and-spills.json](./142005-cooking-dash-3-thrills-and-spills.json) |
 | Cooking Dash Deluxe | 361999 | [361999-cooking-dash-deluxe.json](./361999-cooking-dash-deluxe.json) |
+| Cooking Dash: DinerTown Studios | 142003 | [142003-cooking-dash-dinertown-studios.json](./142003-cooking-dash-dinertown-studios.json) |
 | Cooking Dash: Thrills & Spills Deluxe | 362000 | [362000-cooking-dash-thrills-and-spills-deluxe.json](./362000-cooking-dash-thrills-and-spills-deluxe.json) |
 | Cooking Diary: Welcome to Tasty Hills | 106991 | [106991-cooking-diary-welcome-to-tasty-hills.json](./106991-cooking-diary-welcome-to-tasty-hills.json) |
 | Cooking Dream | 227455 | [227455-cooking-dream.json](./227455-cooking-dream.json) |
