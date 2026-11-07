@@ -2974,6 +2974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teacher Certification Hell | 248222 | [248222-teacher-certification-hell.json](./248222-teacher-certification-hell.json) |
 | Teacher Lady | 286441 | [286441-teacher-lady.json](./286441-teacher-lady.json) |
 | Teacher Seduction | 276160 | [276160-teacher-seduction.json](./276160-teacher-seduction.json) |
+| Teacher Simulator | 143235 | [143235-teacher-simulator.json](./143235-teacher-simulator.json) |
 | Teachers Secrets | 298069 | [298069-teachers-secrets.json](./298069-teachers-secrets.json) |
 | Teachers. With Love and Passion | 250441 | [250441-teachers-with-love-and-passion.json](./250441-teachers-with-love-and-passion.json) |
 | Teachers. With Love and Passion. | 390717 | [390717-teachers-with-love-and-passion.json](./390717-teachers-with-love-and-passion.json) |
@@ -8772,6 +8773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Edge of Forever | 280957 | [280957-the-edge-of-forever.json](./280957-the-edge-of-forever.json) |
 | The Edge of the Backrooms | 420958 | [420958-the-edge-of-the-backrooms.json](./420958-the-edge-of-the-backrooms.json) |
 | The Edge of The World Z Will Shock You | 212827 | [212827-the-edge-of-the-world-z-will-shock-you.json](./212827-the-edge-of-the-world-z-will-shock-you.json) |
+| The Edge of Time | 143216 | [143216-the-edge-of-time.json](./143216-the-edge-of-time.json) |
 | The Edge of Water | 399144 | [399144-the-edge-of-water.json](./399144-the-edge-of-water.json) |
 | The Edgelands | 28217 | [28217-the-edgelands.json](./28217-the-edgelands.json) |
 | The Edibles | 273416 | [273416-the-edibles.json](./273416-the-edibles.json) |
@@ -9113,6 +9115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Essential Selection: Sport | 73538 | [73538-the-essential-selection-sport.json](./73538-the-essential-selection-sport.json) |
 | The Eternal Adventure | 73679 | [73679-the-eternal-adventure.json](./73679-the-eternal-adventure.json) |
 | The Eternal Castle: Remastered | 112074 | [112074-the-eternal-castle-remastered.json](./112074-the-eternal-castle-remastered.json) |
+| The Eternal City | 143241 | [143241-the-eternal-city.json](./143241-the-eternal-city.json) |
 | The Eternal Cylinder | 121715 | [121715-the-eternal-cylinder.json](./121715-the-eternal-cylinder.json) |
 | The Eternal Fool | 217496 | [217496-the-eternal-fool.json](./217496-the-eternal-fool.json) |
 | The Eternal Hunt | 348399 | [348399-the-eternal-hunt.json](./348399-the-eternal-hunt.json) |
@@ -23940,6 +23943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Talents | 221487 | [221487-tiny-talents.json](./221487-tiny-talents.json) |
 | Tiny Tales: Heart of the Forest | 36951 | [36951-tiny-tales-heart-of-the-forest.json](./36951-tiny-tales-heart-of-the-forest.json) |
 | Tiny Tales: Hidden Objects | 285523 | [285523-tiny-tales-hidden-objects.json](./285523-tiny-tales-hidden-objects.json) |
+| Tiny Talos | 143191 | [143191-tiny-talos.json](./143191-tiny-talos.json) |
 | Tiny Tank | 189962 | [189962-tiny-tank.json](./189962-tiny-tank.json) |
 | Tiny Tank Showdown | 420658 | [420658-tiny-tank-showdown.json](./420658-tiny-tank-showdown.json) |
 | Tiny Tanks | 306392 | [306392-tiny-tanks.json](./306392-tiny-tanks.json) |
