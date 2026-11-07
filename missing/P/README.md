@@ -12874,6 +12874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n Music Jam&Fizz | 364468 | [364468-popn-music-jam-and-fizz.json](./364468-popn-music-jam-and-fizz.json) |
 | Pop'n Music Kaimei Riddles | 155387 | [155387-popn-music-kaimei-riddles.json](./155387-popn-music-kaimei-riddles.json) |
 | Pop'n Music Lapistoria | 79936 | [79936-popn-music-lapistoria.json](./79936-popn-music-lapistoria.json) |
+| pop'n music Lively | 140732 | [140732-popn-music-lively.json](./140732-popn-music-lively.json) |
 | Pop'n music peace | 130015 | [130015-popn-music-peace.json](./130015-popn-music-peace.json) |
 | Pop'n Music Portable | 67314 | [67314-popn-music-portable.json](./67314-popn-music-portable.json) |
 | Pop'n Music Portable 2 | 64472 | [64472-popn-music-portable-2.json](./64472-popn-music-portable-2.json) |
@@ -14837,6 +14838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Quest 3D | 325942 | [325942-princess-quest-3d.json](./325942-princess-quest-3d.json) |
 | Princess Quest Part 1 | 250055 | [250055-princess-quest-part-1.json](./250055-princess-quest-part-1.json) |
 | Princess Quest R | 255416 | [255416-princess-quest-r.json](./255416-princess-quest-r.json) |
+| Princess Quest: Shroom Civil War | 140706 | [140706-princess-quest-shroom-civil-war.json](./140706-princess-quest-shroom-civil-war.json) |
 | Princess Rapunzel: The Kingdom's Legacy | 320461 | [320461-princess-rapunzel-the-kingdoms-legacy.json](./320461-princess-rapunzel-the-kingdoms-legacy.json) |
 | Princess Remedy in a World of Hurt | 15890 | [15890-princess-remedy-in-a-world-of-hurt.json](./15890-princess-remedy-in-a-world-of-hurt.json) |
 | Princess Remedy: In A Heap of Trouble | 31463 | [31463-princess-remedy-in-a-heap-of-trouble.json](./31463-princess-remedy-in-a-heap-of-trouble.json) |
@@ -16703,6 +16705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prologue For A Vacant Kingdom | 116206 | [116206-prologue-for-a-vacant-kingdom.json](./116206-prologue-for-a-vacant-kingdom.json) |
 | Prologue: Go Wayback! | 324576 | [324576-prologue-go-wayback.json](./324576-prologue-go-wayback.json) |
 | Prom Dreams: A High School Love Story | 336332 | [336332-prom-dreams-a-high-school-love-story.json](./336332-prom-dreams-a-high-school-love-story.json) |
+| Prom Night | 140704 | [140704-prom-night.json](./140704-prom-night.json) |
 | Prom Queen | 25439 | [25439-prom-queen.json](./25439-prom-queen.json) |
 | Promesa | 139174 | [139174-promesa.json](./139174-promesa.json) |
 | Promessa | 329677 | [329677-promessa.json](./329677-promessa.json) |
