@@ -3681,6 +3681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed | 411077 | [411077-feed.json](./411077-feed.json) |
 | Feed A Titanosaur | 117069 | [117069-feed-a-titanosaur.json](./117069-feed-a-titanosaur.json) |
 | Feed and Battle: Grow Fish | 88930 | [88930-feed-and-battle-grow-fish.json](./88930-feed-and-battle-grow-fish.json) |
+| Feed and Grow Survival Fish | 174957 | [174957-feed-and-grow-survival-fish.json](./174957-feed-and-grow-survival-fish.json) |
 | Feed and Grow: Crazy Fish | 193799 | [193799-feed-and-grow-crazy-fish.json](./193799-feed-and-grow-crazy-fish.json) |
 | Feed and Grow: Fish | 19876 | [19876-feed-and-grow-fish.json](./19876-feed-and-grow-fish.json) |
 | Feed Da King | 308139 | [308139-feed-da-king.json](./308139-feed-da-king.json) |
@@ -11143,6 +11144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractal Chicken | 105220 | [105220-fractal-chicken.json](./105220-fractal-chicken.json) |
 | Fractal City | 200933 | [200933-fractal-city.json](./200933-fractal-city.json) |
 | Fractal Combat | 227721 | [227721-fractal-combat.json](./227721-fractal-combat.json) |
+| Fractal Combat X | 174964 | [174964-fractal-combat-x.json](./174964-fractal-combat-x.json) |
 | Fractal Craft | 364635 | [364635-fractal-craft.json](./364635-fractal-craft.json) |
 | Fractal Evolution | 190453 | [190453-fractal-evolution.json](./190453-fractal-evolution.json) |
 | Fractal Factory | 302163 | [302163-fractal-factory.json](./302163-fractal-factory.json) |
