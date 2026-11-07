@@ -2603,6 +2603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elifoot 18 | 104499 | [104499-elifoot-18.json](./104499-elifoot-18.json) |
 | Elifoot 2 | 91632 | [91632-elifoot-2.json](./91632-elifoot-2.json) |
 | Elifoot 98 | 398966 | [398966-elifoot-98.json](./398966-elifoot-98.json) |
+| Elijah and the Out of this World Adventure | 171679 | [171679-elijah-and-the-out-of-this-world-adventure.json](./171679-elijah-and-the-out-of-this-world-adventure.json) |
 | Eliminate Drips | 172275 | [172275-eliminate-drips.json](./172275-eliminate-drips.json) |
 | Elimination | 207732 | [207732-elimination.json](./207732-elimination.json) |
 | Elimination Games | 220840 | [220840-elimination-games.json](./220840-elimination-games.json) |
@@ -7229,6 +7230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Resistance: Morning of the Dead | 55183 | [55183-evil-resistance-morning-of-the-dead.json](./55183-evil-resistance-morning-of-the-dead.json) |
 | Evil Returns | 299768 | [299768-evil-returns.json](./299768-evil-returns.json) |
 | Evil Rise: Zombie Resident | 180355 | [180355-evil-rise-zombie-resident.json](./180355-evil-rise-zombie-resident.json) |
+| Evil Ritual | 171703 | [171703-evil-ritual.json](./171703-evil-ritual.json) |
 | Evil Robot Traffic Jam HD | 34407 | [34407-evil-robot-traffic-jam-hd.json](./34407-evil-robot-traffic-jam-hd.json) |
 | Evil Robots | 121556 | [121556-evil-robots.json](./121556-evil-robots.json) |
 | Evil Robots From N1M | 31844 | [31844-evil-robots-from-n1m.json](./31844-evil-robots-from-n1m.json) |
