@@ -1644,6 +1644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertical Quest | 249209 | [249209-vertical-quest.json](./249209-vertical-quest.json) |
 | Vertical Ramp Impossible 3D | 100894 | [100894-vertical-ramp-impossible-3d.json](./100894-vertical-ramp-impossible-3d.json) |
 | Vertical Runner | 388329 | [388329-vertical-runner.json](./388329-vertical-runner.json) |
+| Vertical Shift | 144475 | [144475-vertical-shift.json](./144475-vertical-shift.json) |
 | Vertical Slice | 144755 | [144755-vertical-slice.json](./144755-vertical-slice.json) |
 | Vertical Slice: A Game Dev Story | 157310 | [157310-vertical-slice-a-game-dev-story.json](./157310-vertical-slice-a-game-dev-story.json) |
 | Vertical Strike Endless Challenge | 28293 | [28293-vertical-strike-endless-challenge.json](./28293-vertical-strike-endless-challenge.json) |
