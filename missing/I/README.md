@@ -436,6 +436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love My Pets | 47691 | [47691-i-love-my-pets.json](./47691-i-love-my-pets.json) |
 | I Love My Pony | 85190 | [85190-i-love-my-pony.json](./85190-i-love-my-pony.json) |
 | I Love Pasta | 252567 | [252567-i-love-pasta.json](./252567-i-love-pasta.json) |
+| I Love Potatoes | 153613 | [153613-i-love-potatoes.json](./153613-i-love-potatoes.json) |
 | I Love Puppies! | 210080 | [210080-i-love-puppies.json](./210080-i-love-puppies.json) |
 | I Love Puppies! | 70274 | [70274-i-love-puppies.json](./70274-i-love-puppies.json) |
 | I Love Science! | 403999 | [403999-i-love-science.json](./403999-i-love-science.json) |
@@ -3308,6 +3309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Independence Day | 19789 | [19789-independence-day.json](./19789-independence-day.json) |
 | Independence Day | 198765 | [198765-independence-day.json](./198765-independence-day.json) |
 | Independence Day | 205748 | [205748-independence-day.json](./205748-independence-day.json) |
+| Independence Day Break | 153593 | [153593-independence-day-break.json](./153593-independence-day-break.json) |
 | Independence Day Resurgence: Battle Heroes | 354411 | [354411-independence-day-resurgence-battle-heroes.json](./354411-independence-day-resurgence-battle-heroes.json) |
 | Independence Day Run | 229039 | [229039-independence-day-run.json](./229039-independence-day-run.json) |
 | Independence War 2: Edge of Chaos | 758 | [758-independence-war-2-edge-of-chaos.json](./758-independence-war-2-edge-of-chaos.json) |
@@ -3926,7 +3928,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
