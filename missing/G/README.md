@@ -535,7 +535,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Civilizations II: Twilight of the Arnor | 723 | [723-galactic-civilizations-ii-twilight-of-the-arnor.json](./723-galactic-civilizations-ii-twilight-of-the-arnor.json) |
 | Galactic Civilizations II: Ultimate Edition | 154946 | [154946-galactic-civilizations-ii-ultimate-edition.json](./154946-galactic-civilizations-ii-ultimate-edition.json) |
 | Galactic Civilizations III Gold | 53087 | [53087-galactic-civilizations-iii-gold.json](./53087-galactic-civilizations-iii-gold.json) |
+| Galactic Civilizations III: Altarian Prophecy | 155245 | [155245-galactic-civilizations-iii-altarian-prophecy.json](./155245-galactic-civilizations-iii-altarian-prophecy.json) |
 | Galactic Civilizations III: Crusade | 27054 | [27054-galactic-civilizations-iii-crusade.json](./27054-galactic-civilizations-iii-crusade.json) |
+| Galactic Civilizations III: Heroes of Star Control - Origins | 155246 | [155246-galactic-civilizations-iii-heroes-of-star-control-origins.json](./155246-galactic-civilizations-iii-heroes-of-star-control-origins.json) |
 | Galactic Civilizations III: Intrigue | 83809 | [83809-galactic-civilizations-iii-intrigue.json](./83809-galactic-civilizations-iii-intrigue.json) |
 | Galactic Civilizations III: Lost Treasures DLC | 163371 | [163371-galactic-civilizations-iii-lost-treasures-dlc.json](./163371-galactic-civilizations-iii-lost-treasures-dlc.json) |
 | Galactic Civilizations III: Map Pack DLC | 163374 | [163374-galactic-civilizations-iii-map-pack-dlc.json](./163374-galactic-civilizations-iii-map-pack-dlc.json) |
@@ -8310,6 +8312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grass Cutter | 277648 | [277648-grass-cutter.json](./277648-grass-cutter.json) |
 | Grass Cutter 9000: Director's Cut | 414763 | [414763-grass-cutter-9000-directors-cut.json](./414763-grass-cutter-9000-directors-cut.json) |
 | Grass Cutter: Mutated Lawns | 120257 | [120257-grass-cutter-mutated-lawns.json](./120257-grass-cutter-mutated-lawns.json) |
+| Grass Cutters Academy | 155290 | [155290-grass-cutters-academy.json](./155290-grass-cutters-academy.json) |
 | Grass Life Sim | 328450 | [328450-grass-life-sim.json](./328450-grass-life-sim.json) |
 | Grass Life Sim 2 | 374910 | [374910-grass-life-sim-2.json](./374910-grass-life-sim-2.json) |
 | Grass Max | 33831 | [33831-grass-max.json](./33831-grass-max.json) |
@@ -9605,6 +9608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimoire: Heralds of the Winged Exemplar | 43487 | [43487-grimoire-heralds-of-the-winged-exemplar.json](./43487-grimoire-heralds-of-the-winged-exemplar.json) |
 | Grimoire: Manastorm - Earth Class | 170331 | [170331-grimoire-manastorm-earth-class.json](./170331-grimoire-manastorm-earth-class.json) |
 | Grimoire: Manastorm - Fire Class | 170329 | [170329-grimoire-manastorm-fire-class.json](./170329-grimoire-manastorm-fire-class.json) |
+| Grimoire: Manastorm - Ice Class | 155257 | [155257-grimoire-manastorm-ice-class.json](./155257-grimoire-manastorm-ice-class.json) |
 | Grimoire: Manastorm - Lightning Class | 170330 | [170330-grimoire-manastorm-lightning-class.json](./170330-grimoire-manastorm-lightning-class.json) |
 | Grimoire: Manastorm - Nature Class | 170328 | [170328-grimoire-manastorm-nature-class.json](./170328-grimoire-manastorm-nature-class.json) |
 | Grimoire: Manastorm - Nether Class | 169916 | [169916-grimoire-manastorm-nether-class.json](./169916-grimoire-manastorm-nether-class.json) |
@@ -10483,6 +10487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild of Dungeoneering: Deluxe Ice Cream Edition | 51828 | [51828-guild-of-dungeoneering-deluxe-ice-cream-edition.json](./51828-guild-of-dungeoneering-deluxe-ice-cream-edition.json) |
 | Guild of Dungeoneering: Ice Cream Headaches | 51827 | [51827-guild-of-dungeoneering-ice-cream-headaches.json](./51827-guild-of-dungeoneering-ice-cream-headaches.json) |
 | Guild of Dungeoneering: Pirate's Cove | 174519 | [174519-guild-of-dungeoneering-pirates-cove.json](./174519-guild-of-dungeoneering-pirates-cove.json) |
+| Guild of Dungeoneering: Pirates Cove Adventure Pack | 155287 | [155287-guild-of-dungeoneering-pirates-cove-adventure-pack.json](./155287-guild-of-dungeoneering-pirates-cove-adventure-pack.json) |
 | Guild of Dungeoneering: Ultimate Edition | 152105 | [152105-guild-of-dungeoneering-ultimate-edition.json](./152105-guild-of-dungeoneering-ultimate-edition.json) |
 | Guild of Greats | 137024 | [137024-guild-of-greats.json](./137024-guild-of-greats.json) |
 | Guild of Heroes | 58462 | [58462-guild-of-heroes.json](./58462-guild-of-heroes.json) |
