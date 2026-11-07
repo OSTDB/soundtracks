@@ -3054,6 +3054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Batman 3: Beyond Gotham - Batman 75th Anniversary | 168791 | [168791-lego-batman-3-beyond-gotham-batman-75th-anniversary.json](./168791-lego-batman-3-beyond-gotham-batman-75th-anniversary.json) |
 | LEGO Batman 3: Beyond Gotham - Bizarro | 238827 | [238827-lego-batman-3-beyond-gotham-bizarro.json](./238827-lego-batman-3-beyond-gotham-bizarro.json) |
 | LEGO Batman 3: Beyond Gotham - Dark Knight | 266232 | [266232-lego-batman-3-beyond-gotham-dark-knight.json](./266232-lego-batman-3-beyond-gotham-dark-knight.json) |
+| LEGO Batman 3: Beyond Gotham - Deluxe Edition | 164684 | [164684-lego-batman-3-beyond-gotham-deluxe-edition.json](./164684-lego-batman-3-beyond-gotham-deluxe-edition.json) |
 | LEGO Batman 3: Beyond Gotham - Heroines and Villainesses Character Pack | 168790 | [168790-lego-batman-3-beyond-gotham-heroines-and-villainesses-character-pack.json](./168790-lego-batman-3-beyond-gotham-heroines-and-villainesses-character-pack.json) |
 | LEGO Batman 3: Beyond Gotham - Man of Steel | 168789 | [168789-lego-batman-3-beyond-gotham-man-of-steel.json](./168789-lego-batman-3-beyond-gotham-man-of-steel.json) |
 | LEGO Batman 3: Beyond Gotham - Premium Edition | 118897 | [118897-lego-batman-3-beyond-gotham-premium-edition.json](./118897-lego-batman-3-beyond-gotham-premium-edition.json) |
@@ -3944,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing and Dance | 51664 | [51664-lets-sing-and-dance.json](./51664-lets-sing-and-dance.json) |
 | Let's Sing Collection | 118850 | [118850-lets-sing-collection.json](./118850-lets-sing-collection.json) |
 | Let's Sing Country | 125017 | [125017-lets-sing-country.json](./125017-lets-sing-country.json) |
+| Let's Sing Country: Platinum Edition | 164676 | [164676-lets-sing-country-platinum-edition.json](./164676-lets-sing-country-platinum-edition.json) |
 | Let's Sing Queen | 138761 | [138761-lets-sing-queen.json](./138761-lets-sing-queen.json) |
 | Let's Sing: Radio Italia | 268190 | [268190-lets-sing-radio-italia.json](./268190-lets-sing-radio-italia.json) |
 | Let's Sing! The World of Karaoke | 386314 | [386314-lets-sing-the-world-of-karaoke.json](./386314-lets-sing-the-world-of-karaoke.json) |
@@ -7713,6 +7715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LooWarVR | 31838 | [31838-loowarvr.json](./31838-loowarvr.json) |
 | Looxi | 343248 | [343248-looxi.json](./343248-looxi.json) |
 | Lop: Whitefall | 404633 | [404633-lop-whitefall.json](./404633-lop-whitefall.json) |
+| Lophead Adventure World | 164661 | [164661-lophead-adventure-world.json](./164661-lophead-adventure-world.json) |
 | Lophis Roguelike-Card RPG game: Darkest Dungeon | 147138 | [147138-lophis-roguelike-card-rpg-game-darkest-dungeon.json](./147138-lophis-roguelike-card-rpg-game-darkest-dungeon.json) |
 | Loplight | 208210 | [208210-loplight.json](./208210-loplight.json) |
 | Lopp | 81648 | [81648-lopp.json](./81648-lopp.json) |
