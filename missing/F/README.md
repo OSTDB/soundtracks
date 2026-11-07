@@ -222,6 +222,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Pole Position 64 | 3494 | [3494-f1-pole-position-64.json](./3494-f1-pole-position-64.json) |
 | F1 Race | 11689 | [11689-f1-race.json](./11689-f1-race.json) |
 | F1 Race Stars | 5311 | [5311-f1-race-stars.json](./5311-f1-race-stars.json) |
+| F1 Race Stars: Canada Track | 167969 | [167969-f1-race-stars-canada-track.json](./167969-f1-race-stars-canada-track.json) |
+| F1 Race Stars: China Track | 167970 | [167970-f1-race-stars-china-track.json](./167970-f1-race-stars-china-track.json) |
+| F1 Race Stars: Europe Track | 167971 | [167971-f1-race-stars-europe-track.json](./167971-f1-race-stars-europe-track.json) |
 | F1 Race Stars: Powered Up Edition | 85134 | [85134-f1-race-stars-powered-up-edition.json](./85134-f1-race-stars-powered-up-edition.json) |
 | F1 Racers | 187969 | [187969-f1-racers.json](./187969-f1-racers.json) |
 | F1 Racing Championship | 249118 | [249118-f1-racing-championship.json](./249118-f1-racing-championship.json) |
@@ -8911,6 +8914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foggy Rainfall Escapade | 267265 | [267265-foggy-rainfall-escapade.json](./267265-foggy-rainfall-escapade.json) |
 | Foghorns Drown | 382273 | [382273-foghorns-drown.json](./382273-foghorns-drown.json) |
 | Foglight | 150367 | [150367-foglight.json](./150367-foglight.json) |
+| Foglight Online | 167982 | [167982-foglight-online.json](./167982-foglight-online.json) |
 | Fogline Protocol | 397277 | [397277-fogline-protocol.json](./397277-fogline-protocol.json) |
 | Fogpiercer | 325365 | [325365-fogpiercer.json](./325365-fogpiercer.json) |
 | Fogreaver | 335211 | [335211-fogreaver.json](./335211-fogreaver.json) |
