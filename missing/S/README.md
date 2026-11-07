@@ -4117,6 +4117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Thieves: Season 14 | 320297 | [320297-sea-of-thieves-season-14.json](./320297-sea-of-thieves-season-14.json) |
 | Sea of Thieves: Season 2 | 158941 | [158941-sea-of-thieves-season-2.json](./158941-sea-of-thieves-season-2.json) |
 | Sea of Thieves: Season 3 | 158945 | [158945-sea-of-thieves-season-3.json](./158945-sea-of-thieves-season-3.json) |
+| Sea of Thieves: Season 4 | 171154 | [171154-sea-of-thieves-season-4.json](./171154-sea-of-thieves-season-4.json) |
 | Sea of Thieves: Season 5 | 183119 | [183119-sea-of-thieves-season-5.json](./183119-sea-of-thieves-season-5.json) |
 | Sea of Thieves: Season 8 | 227961 | [227961-sea-of-thieves-season-8.json](./227961-sea-of-thieves-season-8.json) |
 | Sea of Thieves: Season 9 | 240906 | [240906-sea-of-thieves-season-9.json](./240906-sea-of-thieves-season-9.json) |
@@ -5507,6 +5508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senki Zesshou Symphogear XD Unlimited | 142616 | [142616-senki-zesshou-symphogear-xd-unlimited.json](./142616-senki-zesshou-symphogear-xd-unlimited.json) |
 | Senko no Ronde 2 | 29137 | [29137-senko-no-ronde-2.json](./29137-senko-no-ronde-2.json) |
 | Senko no Ronde 2: Limited Edition | 212315 | [212315-senko-no-ronde-2-limited-edition.json](./212315-senko-no-ronde-2-limited-edition.json) |
+| Senko no Ronde 2: Rounder Karel | 171145 | [171145-senko-no-ronde-2-rounder-karel.json](./171145-senko-no-ronde-2-rounder-karel.json) |
 | Senko no Ronde SP | 393832 | [393832-senko-no-ronde-sp.json](./393832-senko-no-ronde-sp.json) |
 | Senkou | 358499 | [358499-senkou.json](./358499-senkou.json) |
 | Senkou no Clarias | 180766 | [180766-senkou-no-clarias.json](./180766-senkou-no-clarias.json) |
@@ -14188,6 +14190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slumberfish!: Catching Z's | 288677 | [288677-slumberfish-catching-zs.json](./288677-slumberfish-catching-zs.json) |
 | Slumbering Feline | 318336 | [318336-slumbering-feline.json](./318336-slumbering-feline.json) |
 | Slumbering Woods | 323688 | [323688-slumbering-woods.json](./323688-slumbering-woods.json) |
+| Slumhack | 171198 | [171198-slumhack.json](./171198-slumhack.json) |
 | Slumlord Simulator | 75629 | [75629-slumlord-simulator.json](./75629-slumlord-simulator.json) |
 | Slumpunk | 382505 | [382505-slumpunk.json](./382505-slumpunk.json) |
 | Slums of Tetsoidea | 186820 | [186820-slums-of-tetsoidea.json](./186820-slums-of-tetsoidea.json) |
@@ -15930,6 +15933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soar | 306951 | [306951-soar.json](./306951-soar.json) |
 | Soar Up The Charts | 310068 | [310068-soar-up-the-charts.json](./310068-soar-up-the-charts.json) |
 | Soar: Pillars of Tasneem | 293476 | [293476-soar-pillars-of-tasneem.json](./293476-soar-pillars-of-tasneem.json) |
+| Soaring | 171187 | [171187-soaring.json](./171187-soaring.json) |
 | Soaring Machinariae | 152643 | [152643-soaring-machinariae.json](./152643-soaring-machinariae.json) |
 | Soaring Perl Tom | 120752 | [120752-soaring-perl-tom.json](./120752-soaring-perl-tom.json) |
 | Soarocity | 169838 | [169838-soarocity.json](./169838-soarocity.json) |
@@ -33743,6 +33747,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superdeluxe | 297000 | [297000-superdeluxe.json](./297000-superdeluxe.json) |
 | Superdetektiverne | 131918 | [131918-superdetektiverne.json](./131918-superdetektiverne.json) |
 | Superdimension Neptune vs. Sega Hard Girls | 11366 | [11366-superdimension-neptune-vs-sega-hard-girls.json](./11366-superdimension-neptune-vs-sega-hard-girls.json) |
+| Superdimension Neptune vs. Sega Hard Girls: Exp Expert | 171192 | [171192-superdimension-neptune-vs-sega-hard-girls-exp-expert.json](./171192-superdimension-neptune-vs-sega-hard-girls-exp-expert.json) |
+| Superdimension Neptune vs. Sega Hard Girls: Fever Gauge Plus | 171190 | [171190-superdimension-neptune-vs-sega-hard-girls-fever-gauge-plus.json](./171190-superdimension-neptune-vs-sega-hard-girls-fever-gauge-plus.json) |
+| Superdimension Neptune vs. Sega Hard Girls: If's Gust of Wind | 171191 | [171191-superdimension-neptune-vs-sega-hard-girls-ifs-gust-of-wind.json](./171191-superdimension-neptune-vs-sega-hard-girls-ifs-gust-of-wind.json) |
+| Superdimension Neptune vs. Sega Hard Girls: Segami's Astral Brave | 171193 | [171193-superdimension-neptune-vs-sega-hard-girls-segamis-astral-brave.json](./171193-superdimension-neptune-vs-sega-hard-girls-segamis-astral-brave.json) |
 | Superdimensional | 181381 | [181381-superdimensional.json](./181381-superdimensional.json) |
 | SuperDog | 409683 | [409683-superdog.json](./409683-superdog.json) |
 | SuperDoom | 198358 | [198358-superdoom.json](./198358-superdoom.json) |
