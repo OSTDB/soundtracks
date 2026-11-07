@@ -9334,6 +9334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension Omega | 263818 | [263818-dimension-omega.json](./263818-dimension-omega.json) |
 | Dimension Painter | 256183 | [256183-dimension-painter.json](./256183-dimension-painter.json) |
 | Dimension Pirates | 304505 | [304505-dimension-pirates.json](./304505-dimension-pirates.json) |
+| Dimension Quest Pinball | 188765 | [188765-dimension-quest-pinball.json](./188765-dimension-quest-pinball.json) |
 | Dimension Ranger | 349330 | [349330-dimension-ranger.json](./349330-dimension-ranger.json) |
 | Dimension Reign | 129484 | [129484-dimension-reign.json](./129484-dimension-reign.json) |
 | Dimension Rift Zero | 149271 | [149271-dimension-rift-zero.json](./149271-dimension-rift-zero.json) |
@@ -11511,6 +11512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge Everything | 381367 | [381367-dodge-everything.json](./381367-dodge-everything.json) |
 | Dodge It | 369805 | [369805-dodge-it.json](./369805-dodge-it.json) |
 | Dodge It! | 165736 | [165736-dodge-it.json](./165736-dodge-it.json) |
+| Dodge It! 2 | 188724 | [188724-dodge-it-2.json](./188724-dodge-it-2.json) |
 | Dodge It! Online | 233305 | [233305-dodge-it-online.json](./233305-dodge-it-online.json) |
 | Dodge Mania | 211151 | [211151-dodge-mania.json](./211151-dodge-mania.json) |
 | Dodge Master | 30120 | [30120-dodge-master.json](./30120-dodge-master.json) |
@@ -17782,6 +17784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dummb | 249040 | [249040-dummb.json](./249040-dummb.json) |
 | Dummy Defense | 223627 | [223627-dummy-defense.json](./223627-dummy-defense.json) |
 | Dummy Dungeon | 219763 | [219763-dummy-dungeon.json](./219763-dummy-dungeon.json) |
+| Dummy Falls | 188745 | [188745-dummy-falls.json](./188745-dummy-falls.json) |
 | Dummy Guyz | 303493 | [303493-dummy-guyz.json](./303493-dummy-guyz.json) |
 | Dummy Life | 68372 | [68372-dummy-life.json](./68372-dummy-life.json) |
 | Dummy Never Fails | 234902 | [234902-dummy-never-fails.json](./234902-dummy-never-fails.json) |
@@ -18394,6 +18397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Weiqi | 348843 | [348843-dungeon-weiqi.json](./348843-dungeon-weiqi.json) |
 | Dungeon With Girl | 346171 | [346171-dungeon-with-girl.json](./346171-dungeon-with-girl.json) |
 | Dungeon Within | 400992 | [400992-dungeon-within.json](./400992-dungeon-within.json) |
+| Dungeon Wizards | 188760 | [188760-dungeon-wizards.json](./188760-dungeon-wizards.json) |
 | Dungeon World | 304886 | [304886-dungeon-world.json](./304886-dungeon-world.json) |
 | Dungeon X Dungeon | 104118 | [104118-dungeon-x-dungeon.json](./104118-dungeon-x-dungeon.json) |
 | Dungeon X Pixel Hero VIP | 107164 | [107164-dungeon-x-pixel-hero-vip.json](./107164-dungeon-x-pixel-hero-vip.json) |
