@@ -2104,6 +2104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Realm TD | 133197 | [133197-fantasy-realm-td.json](./133197-fantasy-realm-td.json) |
 | Fantasy Realm: A Land Torn Asunder | 97278 | [97278-fantasy-realm-a-land-torn-asunder.json](./97278-fantasy-realm-a-land-torn-asunder.json) |
 | Fantasy Rivals | 63299 | [63299-fantasy-rivals.json](./63299-fantasy-rivals.json) |
+| Fantasy Royal VR | 150839 | [150839-fantasy-royal-vr.json](./150839-fantasy-royal-vr.json) |
 | Fantasy RPG Bundle | 368771 | [368771-fantasy-rpg-bundle.json](./368771-fantasy-rpg-bundle.json) |
 | Fantasy RPG: Raid Legends | 342396 | [342396-fantasy-rpg-raid-legends.json](./342396-fantasy-rpg-raid-legends.json) |
 | Fantasy Saga Frenzy | 308642 | [308642-fantasy-saga-frenzy.json](./308642-fantasy-saga-frenzy.json) |
@@ -2439,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farlands: Tiny Harvest | 378287 | [378287-farlands-tiny-harvest.json](./378287-farlands-tiny-harvest.json) |
 | Farlife | 192545 | [192545-farlife.json](./192545-farlife.json) |
 | Farlight 84 | 142862 | [142862-farlight-84.json](./142862-farlight-84.json) |
+| Farlight Commanders | 150805 | [150805-farlight-commanders.json](./150805-farlight-commanders.json) |
 | Farlight Explorers | 35681 | [35681-farlight-explorers.json](./35681-farlight-explorers.json) |
 | Farm | 328533 | [328533-farm.json](./328533-farm.json) |
 | Farm | 364085 | [364085-farm.json](./364085-farm.json) |
@@ -3114,6 +3116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Curse | 156901 | [156901-fatal-curse.json](./156901-fatal-curse.json) |
 | Fatal Delivery | 323530 | [323530-fatal-delivery.json](./323530-fatal-delivery.json) |
 | Fatal Dopamine | 336840 | [336840-fatal-dopamine.json](./336840-fatal-dopamine.json) |
+| Fatal Error | 150806 | [150806-fatal-error.json](./150806-fatal-error.json) |
 | Fatal Escape | 60485 | [60485-fatal-escape.json](./60485-fatal-escape.json) |
 | Fatal Evidence: Art of Murder | 323847 | [323847-fatal-evidence-art-of-murder.json](./323847-fatal-evidence-art-of-murder.json) |
 | Fatal Evidence: Art of Murder - Collector's Edition | 170207 | [170207-fatal-evidence-art-of-murder-collectors-edition.json](./170207-fatal-evidence-art-of-murder-collectors-edition.json) |
@@ -6369,6 +6372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Racer | 158822 | [158822-first-racer.json](./158822-first-racer.json) |
 | First Report: Unreal | 236106 | [236106-first-report-unreal.json](./236106-first-report-unreal.json) |
 | First Responder VR | 241516 | [241516-first-responder-vr.json](./241516-first-responder-vr.json) |
+| First Response | 150831 | [150831-first-response.json](./150831-first-response.json) |
 | First Samurai | 71214 | [71214-first-samurai.json](./71214-first-samurai.json) |
 | First Samurai 64 | 356291 | [356291-first-samurai-64.json](./356291-first-samurai-64.json) |
 | First Sexy Night 2: Second Date | 235760 | [235760-first-sexy-night-2-second-date.json](./235760-first-sexy-night-2-second-date.json) |
