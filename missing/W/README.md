@@ -2228,6 +2228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Washeteria | 353965 | [353965-washeteria.json](./353965-washeteria.json) |
 | Washington Prime | 387589 | [387589-washington-prime.json](./387589-washington-prime.json) |
 | Washout | 343684 | [343684-washout.json](./343684-washout.json) |
+| Washout Spire | 176050 | [176050-washout-spire.json](./176050-washout-spire.json) |
 | WashWash | 178422 | [178422-washwash.json](./178422-washwash.json) |
 | Wasm4nia | 307615 | [307615-wasm4nia.json](./307615-wasm4nia.json) |
 | Wasps | 355164 | [355164-wasps.json](./355164-wasps.json) |
@@ -2805,6 +2806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Football: National Teams | 226881 | [226881-we-are-football-national-teams.json](./226881-we-are-football-national-teams.json) |
 | We Are Gladiators | 258445 | [258445-we-are-gladiators.json](./258445-we-are-gladiators.json) |
 | We Are Gum | 374054 | [374054-we-are-gum.json](./374054-we-are-gum.json) |
+| We Are Here Because of Those That Are Not | 176065 | [176065-we-are-here-because-of-those-that-are-not.json](./176065-we-are-here-because-of-those-that-are-not.json) |
 | We Are Illuminati | 120333 | [120333-we-are-illuminati.json](./120333-we-are-illuminati.json) |
 | We Are Infinity | 283744 | [283744-we-are-infinity.json](./283744-we-are-infinity.json) |
 | We are kings | 183925 | [183925-we-are-kings.json](./183925-we-are-kings.json) |
