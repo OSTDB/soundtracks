@@ -9948,6 +9948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoFish: Prelude | 217471 | [217471-rofish-prelude.json](./217471-rofish-prelude.json) |
 | ROFL | 260451 | [260451-rofl.json](./260451-rofl.json) |
 | Rog & Roll | 139401 | [139401-rog-and-roll.json](./139401-rog-and-roll.json) |
+| Rog Citadel XV | 173934 | [173934-rog-citadel-xv.json](./173934-rog-citadel-xv.json) |
 | Rog n' Mon | 211588 | [211588-rog-n-mon.json](./211588-rog-n-mon.json) |
 | Rogalia | 31300 | [31300-rogalia.json](./31300-rogalia.json) |
 | Rogalik | 99654 | [99654-rogalik.json](./99654-rogalik.json) |
@@ -12463,6 +12464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run! Run! Lancer: Fate/Stay Night - Heaven's Feel | 316879 | [316879-run-run-lancer-fate-stay-night-heavens-feel.json](./316879-run-run-lancer-fate-stay-night-heavens-feel.json) |
 | Run! Run! Run! | 356426 | [356426-run-run-run.json](./356426-run-run-run.json) |
 | Run!!! | 148492 | [148492-run.json](./148492-run.json) |
+| Run!!! | 173922 | [173922-run.json](./173922-run.json) |
 | Run!!! | 87729 | [87729-run.json](./87729-run.json) |
 | Run!ZombieFoods! | 51425 | [51425-run-zombiefoods.json](./51425-run-zombiefoods.json) |
 | Run'N'Get | 109884 | [109884-runnget.json](./109884-runnget.json) |
