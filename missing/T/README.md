@@ -365,6 +365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Strike: Special Forces Shooter | 310710 | [310710-tactical-strike-special-forces-shooter.json](./310710-tactical-strike-special-forces-shooter.json) |
 | Tactical Vanguard Saga | 167522 | [167522-tactical-vanguard-saga.json](./167522-tactical-vanguard-saga.json) |
 | Tactical Vengeance: Play the Game | 230924 | [230924-tactical-vengeance-play-the-game.json](./230924-tactical-vengeance-play-the-game.json) |
+| Tactical Warfare Simulator | 161501 | [161501-tactical-warfare-simulator.json](./161501-tactical-warfare-simulator.json) |
 | Tactical Warrior | 208388 | [208388-tactical-warrior.json](./208388-tactical-warrior.json) |
 | Tactical Zone | 261641 | [261641-tactical-zone.json](./261641-tactical-zone.json) |
 | Tactical2 | 364781 | [364781-tactical2.json](./364781-tactical2.json) |
@@ -18481,6 +18482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The United Space of America | 201594 | [201594-the-united-space-of-america.json](./201594-the-united-space-of-america.json) |
 | The Universal Equalizer | 71242 | [71242-the-universal-equalizer.json](./71242-the-universal-equalizer.json) |
 | The Universal Symphony | 398460 | [398460-the-universal-symphony.json](./398460-the-universal-symphony.json) |
+| The Universe | 161482 | [161482-the-universe.json](./161482-the-universe.json) |
 | The Universe of Red Hope | 294377 | [294377-the-universe-of-red-hope.json](./294377-the-universe-of-red-hope.json) |
 | The Universe Soldiers | 48323 | [48323-the-universe-soldiers.json](./48323-the-universe-soldiers.json) |
 | The Universim | 9943 | [9943-the-universim.json](./9943-the-universim.json) |
