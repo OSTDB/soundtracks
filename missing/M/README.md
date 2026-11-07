@@ -1562,6 +1562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Otoge Iris | 144809 | [144809-magical-otoge-iris.json](./144809-magical-otoge-iris.json) |
 | Magical Pachinko Cotton | 43285 | [43285-magical-pachinko-cotton.json](./43285-magical-pachinko-cotton.json) |
 | Magical Paradise Train | 252990 | [252990-magical-paradise-train.json](./252990-magical-paradise-train.json) |
+| Magical Paws | 144502 | [144502-magical-paws.json](./144502-magical-paws.json) |
 | Magical Paws 2: Heart Wishes | 143990 | [143990-magical-paws-2-heart-wishes.json](./143990-magical-paws-2-heart-wishes.json) |
 | Magical Pool | 64040 | [64040-magical-pool.json](./64040-magical-pool.json) |
 | Magical Pop'n | 9671 | [9671-magical-popn.json](./9671-magical-popn.json) |
