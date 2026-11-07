@@ -972,7 +972,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6061,6 +6060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Before the Ash | 337365 | [337365-before-the-ash.json](./337365-before-the-ash.json) |
 | Before the Battery's Over | 148986 | [148986-before-the-batterys-over.json](./148986-before-the-batterys-over.json) |
 | Before the Blood | 93790 | [93790-before-the-blood.json](./93790-before-the-blood.json) |
+| Before the Dawn | 142560 | [142560-before-the-dawn.json](./142560-before-the-dawn.json) |
 | Before the Dawn | 235362 | [235362-before-the-dawn.json](./235362-before-the-dawn.json) |
 | Before the Echo | 9780 | [9780-before-the-echo.json](./9780-before-the-echo.json) |
 | Before the End | 309412 | [309412-before-the-end.json](./309412-before-the-end.json) |
@@ -13673,6 +13673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bosses Forever 2.Bro | 94039 | [94039-bosses-forever-2-bro.json](./94039-bosses-forever-2-bro.json) |
 | Bossfall | 414157 | [414157-bossfall.json](./414157-bossfall.json) |
 | Bossfight Tactics | 346141 | [346141-bossfight-tactics.json](./346141-bossfight-tactics.json) |
+| Bossgame: The Final Boss is My Heart | 142558 | [142558-bossgame-the-final-boss-is-my-heart.json](./142558-bossgame-the-final-boss-is-my-heart.json) |
 | Bossleft | 408913 | [408913-bossleft.json](./408913-bossleft.json) |
 | Bosslife Office Manager | 349028 | [349028-bosslife-office-manager.json](./349028-bosslife-office-manager.json) |
 | Bosslords | 167563 | [167563-bosslords.json](./167563-bosslords.json) |
