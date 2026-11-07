@@ -983,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakurairo Prism: Beyond the Bloom | 419611 | [419611-sakurairo-prism-beyond-the-bloom.json](./419611-sakurairo-prism-beyond-the-bloom.json) |
 | Sakurazaka Shouboutai | 137323 | [137323-sakurazaka-shouboutai.json](./137323-sakurazaka-shouboutai.json) |
 | Sakuya Izayoi Gives You Advice and Dabs | 129389 | [129389-sakuya-izayoi-gives-you-advice-and-dabs.json](./129389-sakuya-izayoi-gives-you-advice-and-dabs.json) |
+| Sakuya Izayoi Gives You Advice and Dabs: Nitori Kawashiro Offers You Advice in Exchange for Cucumbers and Eats the Cucumbers | 150236 | [150236-sakuya-izayoi-gives-you-advice-and-dabs-nitori-kawashiro-offers-you-advice-in-exchange-for-cucumbers-and-eats-the-cucumbers.json](./150236-sakuya-izayoi-gives-you-advice-and-dabs-nitori-kawashiro-offers-you-advice-in-exchange-for-cucumbers-and-eats-the-cucumbers.json) |
 | Sakuya-san Crisis & SakuTaku | 210549 | [210549-sakuya-san-crisis-and-sakutaku.json](./210549-sakuya-san-crisis-and-sakutaku.json) |
 | Sakuya-san Crisis 2: The Linkage Of Servant Trial | 210553 | [210553-sakuya-san-crisis-2-the-linkage-of-servant-trial.json](./210553-sakuya-san-crisis-2-the-linkage-of-servant-trial.json) |
 | Sakuya-san Crisis: The Perfect Elegant Skill | 210534 | [210534-sakuya-san-crisis-the-perfect-elegant-skill.json](./210534-sakuya-san-crisis-the-perfect-elegant-skill.json) |
@@ -2066,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sasaeng | 361982 | [361982-sasaeng.json](./361982-sasaeng.json) |
 | Sasami Kisscomi | 92424 | [92424-sasami-kisscomi.json](./92424-sasami-kisscomi.json) |
 | Sasayu Meshiki | 357807 | [357807-sasayu-meshiki.json](./357807-sasayu-meshiki.json) |
+| Sasel RPG | 150323 | [150323-sasel-rpg.json](./150323-sasel-rpg.json) |
 | Sasha Darko's Sacred Line | 45682 | [45682-sasha-darkos-sacred-line.json](./45682-sasha-darkos-sacred-line.json) |
 | Sasha's Stupid Coffee Shop | 268963 | [268963-sashas-stupid-coffee-shop.json](./268963-sashas-stupid-coffee-shop.json) |
 | Sashimi Slayer | 395795 | [395795-sashimi-slayer.json](./395795-sashimi-slayer.json) |
@@ -2362,6 +2364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save me Mr Tako: Tasukete Tako-San | 55175 | [55175-save-me-mr-tako-tasukete-tako-san.json](./55175-save-me-mr-tako-tasukete-tako-san.json) |
 | Save Me My Hero | 330081 | [330081-save-me-my-hero.json](./330081-save-me-my-hero.json) |
 | Save Me, Dad! | 181169 | [181169-save-me-dad.json](./181169-save-me-dad.json) |
+| Save Me, Sakuya-san! | 150235 | [150235-save-me-sakuya-san.json](./150235-save-me-sakuya-san.json) |
 | Save Me, Sakuya-san!: Remilia Scarlet's Coin and Glass Game | 165948 | [165948-save-me-sakuya-san-remilia-scarlets-coin-and-glass-game.json](./165948-save-me-sakuya-san-remilia-scarlets-coin-and-glass-game.json) |
 | Save Mom | 366369 | [366369-save-mom.json](./366369-save-mom.json) |
 | Save My Human | 258900 | [258900-save-my-human.json](./258900-save-my-human.json) |
@@ -7824,6 +7827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Sees Red | 118645 | [118645-she-sees-red.json](./118645-she-sees-red.json) |
 | She Sings, but She’s Not a Skylark, Not Even a Nightingale. | 412445 | [412445-she-sings-but-she-s-not-a-skylark-not-even-a-nightingale.json](./412445-she-sings-but-she-s-not-a-skylark-not-even-a-nightingale.json) |
 | She Tells Her Story | 383592 | [383592-she-tells-her-story.json](./383592-she-tells-her-story.json) |
+| She Turned Me Into a Newt! | 150333 | [150333-she-turned-me-into-a-newt.json](./150333-she-turned-me-into-a-newt.json) |
 | She Vomited Guns | 234237 | [234237-she-vomited-guns.json](./234237-she-vomited-guns.json) |
 | She Wants Me Dead | 32718 | [32718-she-wants-me-dead.json](./32718-she-wants-me-dead.json) |
 | She Wants Me Dead + Clumsy Rush | 237572 | [237572-she-wants-me-dead-clumsy-rush.json](./237572-she-wants-me-dead-clumsy-rush.json) |
@@ -22519,6 +22523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splash Adventure: The Maze of Morla | 83524 | [83524-splash-adventure-the-maze-of-morla.json](./83524-splash-adventure-the-maze-of-morla.json) |
 | Splash Basketball Online | 116443 | [116443-splash-basketball-online.json](./116443-splash-basketball-online.json) |
 | Splash Carnival | 290210 | [290210-splash-carnival.json](./290210-splash-carnival.json) |
+| Splash Cars | 150307 | [150307-splash-cars.json](./150307-splash-cars.json) |
 | Splash Damage: Survive if you can | 41504 | [41504-splash-damage-survive-if-you-can.json](./41504-splash-damage-survive-if-you-can.json) |
 | Splash Dance | 194063 | [194063-splash-dance.json](./194063-splash-dance.json) |
 | Splash Dino | 297839 | [297839-splash-dino.json](./297839-splash-dino.json) |
@@ -36176,6 +36181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sylph | 395193 | [395193-sylph.json](./395193-sylph.json) |
 | Sylphia | 37598 | [37598-sylphia.json](./37598-sylphia.json) |
 | Sylphine | 155275 | [155275-sylphine.json](./155275-sylphine.json) |
+| Sylphy and the Sleepless Island | 150328 | [150328-sylphy-and-the-sleepless-island.json](./150328-sylphy-and-the-sleepless-island.json) |
 | Sylv and the Ancient Tree | 417782 | [417782-sylv-and-the-ancient-tree.json](./417782-sylv-and-the-ancient-tree.json) |
 | Sylva: Curse of the Demon Woods | 392245 | [392245-sylva-curse-of-the-demon-woods.json](./392245-sylva-curse-of-the-demon-woods.json) |
 | Sylvan Disappearance | 260974 | [260974-sylvan-disappearance.json](./260974-sylvan-disappearance.json) |
