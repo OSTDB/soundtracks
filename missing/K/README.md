@@ -1577,6 +1577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep Watering | 406930 | [406930-keep-watering.json](./406930-keep-watering.json) |
 | Keep Your Eyes Open | 320616 | [320616-keep-your-eyes-open.json](./320616-keep-your-eyes-open.json) |
 | Keep Yourself Alive | 124720 | [124720-keep-yourself-alive.json](./124720-keep-yourself-alive.json) |
+| Keep Zom Coming | 180350 | [180350-keep-zom-coming.json](./180350-keep-zom-coming.json) |
 | Keeper | 152141 | [152141-keeper.json](./152141-keeper.json) |
 | Keeper | 154354 | [154354-keeper.json](./154354-keeper.json) |
 | Keeper | 213347 | [213347-keeper.json](./213347-keeper.json) |
@@ -2834,6 +2835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
