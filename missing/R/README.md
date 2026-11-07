@@ -2528,6 +2528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raziel | 174742 | [174742-raziel.json](./174742-raziel.json) |
 | Raziel Dungeon Arena | 225689 | [225689-raziel-dungeon-arena.json](./225689-raziel-dungeon-arena.json) |
 | Razing Core | 417176 | [417176-razing-core.json](./417176-razing-core.json) |
+| Razion EX | 154695 | [154695-razion-ex.json](./154695-razion-ex.json) |
 | Razor Freestyle Scooter | 249123 | [249123-razor-freestyle-scooter.json](./249123-razor-freestyle-scooter.json) |
 | Razor Freestyle Scooter | 249124 | [249124-razor-freestyle-scooter.json](./249124-razor-freestyle-scooter.json) |
 | Razor Global Domination Pro Tour | 62076 | [62076-razor-global-domination-pro-tour.json](./62076-razor-global-domination-pro-tour.json) |
@@ -6709,6 +6710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revline Online | 411689 | [411689-revline-online.json](./411689-revline-online.json) |
 | Revload | 298188 | [298188-revload.json](./298188-revload.json) |
 | Revn | 131342 | [131342-revn.json](./131342-revn.json) |
+| Revo | 154694 | [154694-revo.json](./154694-revo.json) |
 | Revoke | 93726 | [93726-revoke.json](./93726-revoke.json) |
 | Revoland | 210661 | [210661-revoland.json](./210661-revoland.json) |
 | Revolgear II | 124390 | [124390-revolgear-ii.json](./124390-revolgear-ii.json) |
@@ -7651,6 +7653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RimWorld: Console Edition | 210525 | [210525-rimworld-console-edition.json](./210525-rimworld-console-edition.json) |
 | RimWorld: Console Edition - Digital Deluxe | 211246 | [211246-rimworld-console-edition-digital-deluxe.json](./211246-rimworld-console-edition-digital-deluxe.json) |
 | RimWorld: Console Edition - Ideology | 312014 | [312014-rimworld-console-edition-ideology.json](./312014-rimworld-console-edition-ideology.json) |
+| RimWorld: Ideology | 154706 | [154706-rimworld-ideology.json](./154706-rimworld-ideology.json) |
 | RimWorld: Odyssey | 349256 | [349256-rimworld-odyssey.json](./349256-rimworld-odyssey.json) |
 | RimWorld: P-Music | 370333 | [370333-rimworld-p-music.json](./370333-rimworld-p-music.json) |
 | RimWorld: Royalty | 131676 | [131676-rimworld-royalty.json](./131676-rimworld-royalty.json) |
