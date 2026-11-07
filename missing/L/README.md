@@ -4600,6 +4600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of A Yandere Simp | 155933 | [155933-life-of-a-yandere-simp.json](./155933-life-of-a-yandere-simp.json) |
 | Life of an NPC | 381128 | [381128-life-of-an-npc.json](./381128-life-of-an-npc.json) |
 | Life of Black Tiger | 56892 | [56892-life-of-black-tiger.json](./56892-life-of-black-tiger.json) |
+| Life of Boris: Super Slav | 146974 | [146974-life-of-boris-super-slav.json](./146974-life-of-boris-super-slav.json) |
 | Life of D. Duck | 68260 | [68260-life-of-d-duck.json](./68260-life-of-d-duck.json) |
 | Life of D. Duck II | 70643 | [70643-life-of-d-duck-ii.json](./70643-life-of-d-duck-ii.json) |
 | Life of Delivery | 392246 | [392246-life-of-delivery.json](./392246-life-of-delivery.json) |
