@@ -773,6 +773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairyfail | 152598 | [152598-fairyfail.json](./152598-fairyfail.json) |
 | FairyLand | 413711 | [413711-fairyland.json](./413711-fairyland.json) |
 | Fairyland Melody Magic | 68055 | [68055-fairyland-melody-magic.json](./68055-fairyland-melody-magic.json) |
+| Fairyland Online | 165835 | [165835-fairyland-online.json](./165835-fairyland-online.json) |
 | Fairyland Solitaire | 271083 | [271083-fairyland-solitaire.json](./271083-fairyland-solitaire.json) |
 | Fairyland: Chronicle | 95266 | [95266-fairyland-chronicle.json](./95266-fairyland-chronicle.json) |
 | Fairyland: Fairy Power | 30518 | [30518-fairyland-fairy-power.json](./30518-fairyland-fairy-power.json) |
@@ -1966,6 +1967,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Island | 114925 | [114925-fantasy-island.json](./114925-fantasy-island.json) |
 | Fantasy Island | 181578 | [181578-fantasy-island.json](./181578-fantasy-island.json) |
 | Fantasy Item Company | 216158 | [216158-fantasy-item-company.json](./216158-fantasy-item-company.json) |
+| Fantasy Jigsaw Puzzle | 165814 | [165814-fantasy-jigsaw-puzzle.json](./165814-fantasy-jigsaw-puzzle.json) |
+| Fantasy Jigsaw Puzzle 2 | 165818 | [165818-fantasy-jigsaw-puzzle-2.json](./165818-fantasy-jigsaw-puzzle-2.json) |
+| Fantasy Jigsaw Puzzle 3 | 165826 | [165826-fantasy-jigsaw-puzzle-3.json](./165826-fantasy-jigsaw-puzzle-3.json) |
 | Fantasy Jigsaw Puzzle 4 | 169146 | [169146-fantasy-jigsaw-puzzle-4.json](./169146-fantasy-jigsaw-puzzle-4.json) |
 | Fantasy Jigsaw Puzzle 5 | 174118 | [174118-fantasy-jigsaw-puzzle-5.json](./174118-fantasy-jigsaw-puzzle-5.json) |
 | Fantasy Jigsaw Puzzles | 231992 | [231992-fantasy-jigsaw-puzzles.json](./231992-fantasy-jigsaw-puzzles.json) |
@@ -2906,6 +2910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast & Furious: Adrenaline | 66427 | [66427-fast-and-furious-adrenaline.json](./66427-fast-and-furious-adrenaline.json) |
 | Fast & Furious: Arcade Edition | 360917 | [360917-fast-and-furious-arcade-edition.json](./360917-fast-and-furious-arcade-edition.json) |
 | Fast & Furious: Crossroads | 127356 | [127356-fast-and-furious-crossroads.json](./127356-fast-and-furious-crossroads.json) |
+| Fast & Furious: Crossroads - Deluxe Edition | 165857 | [165857-fast-and-furious-crossroads-deluxe-edition.json](./165857-fast-and-furious-crossroads-deluxe-edition.json) |
 | Fast & Furious: Crossroads - Pack 1 | 224293 | [224293-fast-and-furious-crossroads-pack-1.json](./224293-fast-and-furious-crossroads-pack-1.json) |
 | Fast & Furious: Crossroads - Pack 2 | 224294 | [224294-fast-and-furious-crossroads-pack-2.json](./224294-fast-and-furious-crossroads-pack-2.json) |
 | Fast & Furious: Crossroads - Pack 3 | 224295 | [224295-fast-and-furious-crossroads-pack-3.json](./224295-fast-and-furious-crossroads-pack-3.json) |
