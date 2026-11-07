@@ -1616,6 +1616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NecroAttack! | 261676 | [261676-necroattack.json](./261676-necroattack.json) |
 | Necrobarista | 26870 | [26870-necrobarista.json](./26870-necrobarista.json) |
 | Necroblade | 217282 | [217282-necroblade.json](./217282-necroblade.json) |
+| NecroBouncer | 189242 | [189242-necrobouncer.json](./189242-necrobouncer.json) |
 | NecroBoy: Path to Evilship | 153006 | [153006-necroboy-path-to-evilship.json](./153006-necroboy-path-to-evilship.json) |
 | Necrobrood | 270845 | [270845-necrobrood.json](./270845-necrobrood.json) |
 | Necrocage Year: Ep1 | 181599 | [181599-necrocage-year-ep1.json](./181599-necrocage-year-ep1.json) |
