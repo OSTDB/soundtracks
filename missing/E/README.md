@@ -833,6 +833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Tokyo: Phoenix | 33788 | [33788-echo-tokyo-phoenix.json](./33788-echo-tokyo-phoenix.json) |
 | Echo Tokyo: Reaper | 75757 | [75757-echo-tokyo-reaper.json](./75757-echo-tokyo-reaper.json) |
 | Echo Tower | 395535 | [395535-echo-tower.json](./395535-echo-tower.json) |
+| Echo VR | 141378 | [141378-echo-vr.json](./141378-echo-vr.json) |
 | Echo Wars: Road Rage | 215896 | [215896-echo-wars-road-rage.json](./215896-echo-wars-road-rage.json) |
 | Echo Weaver | 290107 | [290107-echo-weaver.json](./290107-echo-weaver.json) |
 | Echo Wisp | 208638 | [208638-echo-wisp.json](./208638-echo-wisp.json) |
@@ -1466,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EGE DistantPlanet NonXXX | 74127 | [74127-ege-distantplanet-nonxxx.json](./74127-ege-distantplanet-nonxxx.json) |
 | Eger | 200974 | [200974-eger.json](./200974-eger.json) |
 | Egg | 108799 | [108799-egg.json](./108799-egg.json) |
+| Egg | 141325 | [141325-egg.json](./141325-egg.json) |
 | Egg | 231737 | [231737-egg.json](./231737-egg.json) |
 | Egg | 285669 | [285669-egg.json](./285669-egg.json) |
 | Egg | 305447 | [305447-egg.json](./305447-egg.json) |
@@ -5539,6 +5541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape PS3 Hagrid | 284234 | [284234-escape-ps3-hagrid.json](./284234-escape-ps3-hagrid.json) |
 | Escape Purgatory | 197021 | [197021-escape-purgatory.json](./197021-escape-purgatory.json) |
 | Escape Qinglong Mountain Re | 295150 | [295150-escape-qinglong-mountain-re.json](./295150-escape-qinglong-mountain-re.json) |
+| Escape Quest | 141367 | [141367-escape-quest.json](./141367-escape-quest.json) |
 | Escape Quest 8:Peace Keeper | 99171 | [99171-escape-quest-8-peace-keeper.json](./99171-escape-quest-8-peace-keeper.json) |
 | Escape Reality | 183208 | [183208-escape-reality.json](./183208-escape-reality.json) |
 | Escape Rebooted | 128902 | [128902-escape-rebooted.json](./128902-escape-rebooted.json) |
