@@ -3036,6 +3036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maneater | 46800 | [46800-maneater.json](./46800-maneater.json) |
 | Maneater 2 | 416101 | [416101-maneater-2.json](./416101-maneater-2.json) |
 | Maneater and the Golden Teacher | 199394 | [199394-maneater-and-the-golden-teacher.json](./199394-maneater-and-the-golden-teacher.json) |
+| Maneater: Apex Edition | 165854 | [165854-maneater-apex-edition.json](./165854-maneater-apex-edition.json) |
 | Maneater: Truth Quest | 162622 | [162622-maneater-truth-quest.json](./162622-maneater-truth-quest.json) |
 | Maneki Mania | 411088 | [411088-maneki-mania.json](./411088-maneki-mania.json) |
 | Maneki's Curse | 33384 | [33384-manekis-curse.json](./33384-manekis-curse.json) |
@@ -4814,6 +4815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel: Ultimate Alliance Bundle | 22400 | [22400-marvel-ultimate-alliance-bundle.json](./22400-marvel-ultimate-alliance-bundle.json) |
 | Marvel's Avengers Definitive Edition | 259466 | [259466-marvels-avengers-definitive-edition.json](./259466-marvels-avengers-definitive-edition.json) |
 | Marvel's Avengers: Black Panther - War for Wakanda | 144774 | [144774-marvels-avengers-black-panther-war-for-wakanda.json](./144774-marvels-avengers-black-panther-war-for-wakanda.json) |
+| Marvel's Avengers: Endgame Edition | 165868 | [165868-marvels-avengers-endgame-edition.json](./165868-marvels-avengers-endgame-edition.json) |
 | Marvel's Avengers: Exclusive Digital Edition | 133844 | [133844-marvels-avengers-exclusive-digital-edition.json](./133844-marvels-avengers-exclusive-digital-edition.json) |
 | Marvel's Avengers: Hawkeye - Future Imperfect | 138181 | [138181-marvels-avengers-hawkeye-future-imperfect.json](./138181-marvels-avengers-hawkeye-future-imperfect.json) |
 | Marvel's Avengers: Kate Bishop - Taking AIM | 138179 | [138179-marvels-avengers-kate-bishop-taking-aim.json](./138179-marvels-avengers-kate-bishop-taking-aim.json) |
@@ -5416,6 +5418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match & Merge | 232372 | [232372-match-and-merge.json](./232372-match-and-merge.json) |
 | Match 10 Puzzle | 99404 | [99404-match-10-puzzle.json](./99404-match-10-puzzle.json) |
 | Match 22 | 86042 | [86042-match-22.json](./86042-match-22.json) |
+| Match 3 Adventure Collection | 165847 | [165847-match-3-adventure-collection.json](./165847-match-3-adventure-collection.json) |
 | Match 3 Amazon | 95823 | [95823-match-3-amazon.json](./95823-match-3-amazon.json) |
 | Match 3 Bundle of 3 | 218716 | [218716-match-3-bundle-of-3.json](./218716-match-3-bundle-of-3.json) |
 | Match 3 Fantasy | 197389 | [197389-match-3-fantasy.json](./197389-match-3-fantasy.json) |
@@ -8005,6 +8008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Monkey Brawl | 374002 | [374002-mega-monkey-brawl.json](./374002-mega-monkey-brawl.json) |
 | Mega Monster | 217678 | [217678-mega-monster.json](./217678-mega-monster.json) |
 | Mega Monster Mania | 51659 | [51659-mega-monster-mania.json](./51659-mega-monster-mania.json) |
+| Mega Monster Party | 165840 | [165840-mega-monster-party.json](./165840-mega-monster-party.json) |
 | Mega Mosaic | 298374 | [298374-mega-mosaic.json](./298374-mega-mosaic.json) |
 | Mega Museum | 108294 | [108294-mega-museum.json](./108294-mega-museum.json) |
 | Mega Mutant Escape: Hulk Edition | 187070 | [187070-mega-mutant-escape-hulk-edition.json](./187070-mega-mutant-escape-hulk-edition.json) |
@@ -11731,6 +11735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mile High Pinball | 6266 | [6266-mile-high-pinball.json](./6266-mile-high-pinball.json) |
 | Mile High Taxi | 217387 | [217387-mile-high-taxi.json](./217387-mile-high-taxi.json) |
 | Mile's Legacy | 330462 | [330462-miles-legacy.json](./330462-miles-legacy.json) |
+| Milena's manor house | 165817 | [165817-milenas-manor-house.json](./165817-milenas-manor-house.json) |
 | Milenay | 369323 | [369323-milenay.json](./369323-milenay.json) |
 | Miles & Kilo | 76041 | [76041-miles-and-kilo.json](./76041-miles-and-kilo.json) |
 | Miles 27: Look Like You | 413765 | [413765-miles-27-look-like-you.json](./413765-miles-27-look-like-you.json) |
@@ -14172,6 +14177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mix a Monster | 340841 | [340841-mix-a-monster.json](./340841-mix-a-monster.json) |
 | Mix AI Animal Ultimate | 320369 | [320369-mix-ai-animal-ultimate.json](./320369-mix-ai-animal-ultimate.json) |
 | Mix Dunk: King of Basketball | 274884 | [274884-mix-dunk-king-of-basketball.json](./274884-mix-dunk-king-of-basketball.json) |
+| Mix Hentai Girls | 165830 | [165830-mix-hentai-girls.json](./165830-mix-hentai-girls.json) |
 | Mix Superstar | 262371 | [262371-mix-superstar.json](./262371-mix-superstar.json) |
 | Mix the Forgotten | 247872 | [247872-mix-the-forgotten.json](./247872-mix-the-forgotten.json) |
 | Mix TV Presents: Eminem | 176686 | [176686-mix-tv-presents-eminem.json](./176686-mix-tv-presents-eminem.json) |
@@ -20598,6 +20604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Furry Dictator | 168512 | [168512-my-furry-dictator.json](./168512-my-furry-dictator.json) |
 | My Furry Girlfriend | 244196 | [244196-my-furry-girlfriend.json](./244196-my-furry-girlfriend.json) |
 | My Furry Maid | 199472 | [199472-my-furry-maid.json](./199472-my-furry-maid.json) |
+| My Furry Neighbour | 165831 | [165831-my-furry-neighbour.json](./165831-my-furry-neighbour.json) |
 | My Furry Protogen | 204165 | [204165-my-furry-protogen.json](./204165-my-furry-protogen.json) |
 | My Furry Protogen: 18+ Adult Only Patch | 213447 | [213447-my-furry-protogen-18-adult-only-patch.json](./213447-my-furry-protogen-18-adult-only-patch.json) |
 | My Furry Stepmom | 393374 | [393374-my-furry-stepmom.json](./393374-my-furry-stepmom.json) |
