@@ -7398,6 +7398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinkie | 77426 | [77426-pinkie.json](./77426-pinkie.json) |
 | Pinkman | 31643 | [31643-pinkman.json](./31643-pinkman.json) |
 | PinkMan Adventure | 185492 | [185492-pinkman-adventure.json](./185492-pinkman-adventure.json) |
+| Pinkman+ | 144495 | [144495-pinkman.json](./144495-pinkman.json) |
 | Pinko Linko's School | 310675 | [310675-pinko-linkos-school.json](./310675-pinko-linkos-school.json) |
 | Pinku Kult: Hex Mortis | 168696 | [168696-pinku-kult-hex-mortis.json](./168696-pinku-kult-hex-mortis.json) |
 | Pinky | 249094 | [249094-pinky.json](./249094-pinky.json) |
