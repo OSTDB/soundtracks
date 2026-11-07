@@ -1921,6 +1921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC Super Solitaire | 89857 | [89857-abc-super-solitaire.json](./89857-abc-super-solitaire.json) |
 | ABC Tangou Game | 345919 | [345919-abc-tangou-game.json](./345919-abc-tangou-game.json) |
 | ABC World | 285864 | [285864-abc-world.json](./285864-abc-world.json) |
+| ABC z Reksiem | 146953 | [146953-abc-z-reksiem.json](./146953-abc-z-reksiem.json) |
 | ABC: Audioreactive Beat Circle | 138623 | [138623-abc-audioreactive-beat-circle.json](./138623-abc-audioreactive-beat-circle.json) |
 | ABC's & 123's | 231685 | [231685-abcs-and-123s.json](./231685-abcs-and-123s.json) |
 | ABC's Featuring the Jungle Jukebox | 392413 | [392413-abcs-featuring-the-jungle-jukebox.json](./392413-abcs-featuring-the-jungle-jukebox.json) |
