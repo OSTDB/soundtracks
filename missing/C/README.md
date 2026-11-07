@@ -5303,6 +5303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestial Decks | 380466 | [380466-celestial-decks.json](./380466-celestial-decks.json) |
 | Celestial Descends | 284810 | [284810-celestial-descends.json](./284810-celestial-descends.json) |
 | Celestial Drift | 391244 | [391244-celestial-drift.json](./391244-celestial-drift.json) |
+| Celestial Empire | 149756 | [149756-celestial-empire.json](./149756-celestial-empire.json) |
 | Celestial Fall | 376224 | [376224-celestial-fall.json](./376224-celestial-fall.json) |
 | Celestial Fate | 208083 | [208083-celestial-fate.json](./208083-celestial-fate.json) |
 | Celestial Force: Magical Mayhem | 238495 | [238495-celestial-force-magical-mayhem.json](./238495-celestial-force-magical-mayhem.json) |
@@ -9153,6 +9154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citadale Resurrection: Prelude to War | 250358 | [250358-citadale-resurrection-prelude-to-war.json](./250358-citadale-resurrection-prelude-to-war.json) |
 | Citadale: Gate of Souls | 56152 | [56152-citadale-gate-of-souls.json](./56152-citadale-gate-of-souls.json) |
 | Citadale: The Accursed Seal | 318212 | [318212-citadale-the-accursed-seal.json](./318212-citadale-the-accursed-seal.json) |
+| Citadale: The Awakened Spirit | 149677 | [149677-citadale-the-awakened-spirit.json](./149677-citadale-the-awakened-spirit.json) |
 | Citadale: The Legends Trilogy | 56151 | [56151-citadale-the-legends-trilogy.json](./56151-citadale-the-legends-trilogy.json) |
 | Citadel | 131861 | [131861-citadel.json](./131861-citadel.json) |
 | Citadel | 13704 | [13704-citadel.json](./13704-citadel.json) |
@@ -10861,6 +10863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clouds No More | 172137 | [172137-clouds-no-more.json](./172137-clouds-no-more.json) |
 | Clouds of Farfisa | 182542 | [182542-clouds-of-farfisa.json](./182542-clouds-of-farfisa.json) |
 | Clouds of Fire: Blazing Skies | 134899 | [134899-clouds-of-fire-blazing-skies.json](./134899-clouds-of-fire-blazing-skies.json) |
+| Clouds of Rain | 149667 | [149667-clouds-of-rain.json](./149667-clouds-of-rain.json) |
 | Cloudscrapers | 354887 | [354887-cloudscrapers.json](./354887-cloudscrapers.json) |
 | Cloudsea | 196871 | [196871-cloudsea.json](./196871-cloudsea.json) |
 | Cloudsea Frontier | 406268 | [406268-cloudsea-frontier.json](./406268-cloudsea-frontier.json) |
@@ -12021,6 +12024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collision System Test | 369007 | [369007-collision-system-test.json](./369007-collision-system-test.json) |
 | Collisions | 34756 | [34756-collisions.json](./34756-collisions.json) |
 | Collisions: Cosmic Geometry | 346925 | [346925-collisions-cosmic-geometry.json](./346925-collisions-cosmic-geometry.json) |
+| Collisus | 149736 | [149736-collisus.json](./149736-collisus.json) |
 | Colloc | 120424 | [120424-colloc.json](./120424-colloc.json) |
 | Colmen's Quest | 175955 | [175955-colmens-quest.json](./175955-colmens-quest.json) |
 | Colo Grid Zation | 110543 | [110543-colo-grid-zation.json](./110543-colo-grid-zation.json) |
@@ -18541,6 +18545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crumble's Crisis | 159269 | [159269-crumbles-crisis.json](./159269-crumbles-crisis.json) |
 | Crumbled World | 30751 | [30751-crumbled-world.json](./30751-crumbled-world.json) |
 | Crumbling | 192499 | [192499-crumbling.json](./192499-crumbling.json) |
+| Crumbling City | 149741 | [149741-crumbling-city.json](./149741-crumbling-city.json) |
 | Crumbling Construction, Inc. | 184375 | [184375-crumbling-construction-inc.json](./184375-crumbling-construction-inc.json) |
 | Crumbling World | 115386 | [115386-crumbling-world.json](./115386-crumbling-world.json) |
 | Crumbs | 362799 | [362799-crumbs.json](./362799-crumbs.json) |
