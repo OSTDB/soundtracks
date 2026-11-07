@@ -5674,6 +5674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defenders Chronicles II: Heroes of Athelia | 19206 | [19206-defenders-chronicles-ii-heroes-of-athelia.json](./19206-defenders-chronicles-ii-heroes-of-athelia.json) |
 | Defenders Glory | 195638 | [195638-defenders-glory.json](./195638-defenders-glory.json) |
 | Defenders Guild | 271078 | [271078-defenders-guild.json](./271078-defenders-guild.json) |
+| Defenders of Annadale | 188172 | [188172-defenders-of-annadale.json](./188172-defenders-of-annadale.json) |
 | Defenders of Ardania: The Conjurer's Tricks | 52862 | [52862-defenders-of-ardania-the-conjurers-tricks.json](./52862-defenders-of-ardania-the-conjurers-tricks.json) |
 | Defenders of Asteria | 207537 | [207537-defenders-of-asteria.json](./207537-defenders-of-asteria.json) |
 | Defenders of Cardom | 257959 | [257959-defenders-of-cardom.json](./257959-defenders-of-cardom.json) |
@@ -8317,6 +8318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Di Gi Charat RPG | 270602 | [270602-di-gi-charat-rpg.json](./270602-di-gi-charat-rpg.json) |
 | Di-Gata Defenders | 47956 | [47956-di-gata-defenders.json](./47956-di-gata-defenders.json) |
 | Di-Lithium Lift | 137482 | [137482-di-lithium-lift.json](./137482-di-lithium-lift.json) |
+| Dì-Yīqiān Líng Èr Yè de Tónghuà | 188186 | [188186-di-yiqian-ling-er-ye-de-tonghua.json](./188186-di-yiqian-ling-er-ye-de-tonghua.json) |
 | DI: Debt is Inevitable | 285805 | [285805-di-debt-is-inevitable.json](./285805-di-debt-is-inevitable.json) |
 | Di[c]E | 132619 | [132619-di-c-e.json](./132619-di-c-e.json) |
 | Dia | 182440 | [182440-dia.json](./182440-dia.json) |
@@ -8911,6 +8913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Difficult times | 327826 | [327826-difficult-times.json](./327826-difficult-times.json) |
 | Difficult Times 2 | 360879 | [360879-difficult-times-2.json](./360879-difficult-times-2.json) |
 | Difficult? Punch-Out!! | 410279 | [410279-difficult-punch-out.json](./410279-difficult-punch-out.json) |
+| Difficulty | 188207 | [188207-difficulty.json](./188207-difficulty.json) |
 | Difficulty Spike | 130575 | [130575-difficulty-spike.json](./130575-difficulty-spike.json) |
 | Diffraction | 207247 | [207247-diffraction.json](./207247-diffraction.json) |
 | Diffusion | 316771 | [316771-diffusion.json](./316771-diffusion.json) |
@@ -9014,6 +9017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digerati Best Sellers | 147885 | [147885-digerati-best-sellers.json](./147885-digerati-best-sellers.json) |
 | Digerati Couch Co-Op Bundle Vol.1 | 83745 | [83745-digerati-couch-co-op-bundle-vol-1.json](./83745-digerati-couch-co-op-bundle-vol-1.json) |
 | Digerati Couch Co-op Vol. 2 | 166688 | [166688-digerati-couch-co-op-vol-2.json](./166688-digerati-couch-co-op-vol-2.json) |
+| Digerati Horror Bundle | 188178 | [188178-digerati-horror-bundle.json](./188178-digerati-horror-bundle.json) |
 | Digerati Pixel Art Bundle Part 1 | 90663 | [90663-digerati-pixel-art-bundle-part-1.json](./90663-digerati-pixel-art-bundle-part-1.json) |
 | Digerati Presents: If You Don't Have Xbox Game Pass Bundle | 200513 | [200513-digerati-presents-if-you-dont-have-xbox-game-pass-bundle.json](./200513-digerati-presents-if-you-dont-have-xbox-game-pass-bundle.json) |
 | Digerati Presents: Indie Darling Bundle Vol. 5 | 204275 | [204275-digerati-presents-indie-darling-bundle-vol-5.json](./204275-digerati-presents-indie-darling-bundle-vol-5.json) |
@@ -11353,6 +11357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dobraminhos | 246932 | [246932-dobraminhos.json](./246932-dobraminhos.json) |
 | Dobro Goranku | 372136 | [372136-dobro-goranku.json](./372136-dobro-goranku.json) |
 | Dobro Love Fantasy Quest | 274531 | [274531-dobro-love-fantasy-quest.json](./274531-dobro-love-fantasy-quest.json) |
+| Dobrynya Nikitich i Zmey Gorynych | 188212 | [188212-dobrynya-nikitich-i-zmey-gorynych.json](./188212-dobrynya-nikitich-i-zmey-gorynych.json) |
 | Dobuki's Epic Journey | 253706 | [253706-dobukis-epic-journey.json](./253706-dobukis-epic-journey.json) |
 | Dobutsu Shogi World | 120260 | [120260-dobutsu-shogi-world.json](./120260-dobutsu-shogi-world.json) |
 | Doc Apocalypse | 75677 | [75677-doc-apocalypse.json](./75677-doc-apocalypse.json) |
@@ -14008,6 +14013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DownFall BattleGrounds | 159099 | [159099-downfall-battlegrounds.json](./159099-downfall-battlegrounds.json) |
 | Downfall Hearts | 258487 | [258487-downfall-hearts.json](./258487-downfall-hearts.json) |
 | Downfall MMORPG | 351043 | [351043-downfall-mmorpg.json](./351043-downfall-mmorpg.json) |
+| Downfall of Krynto | 188214 | [188214-downfall-of-krynto.json](./188214-downfall-of-krynto.json) |
 | Downfall to the Turnabout | 303757 | [303757-downfall-to-the-turnabout.json](./303757-downfall-to-the-turnabout.json) |
 | Downfall: A Slay the Spire Fan Expansion | 198469 | [198469-downfall-a-slay-the-spire-fan-expansion.json](./198469-downfall-a-slay-the-spire-fan-expansion.json) |
 | Downfall: Redux | 51750 | [51750-downfall-redux.json](./51750-downfall-redux.json) |
@@ -15873,6 +15879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Football Club | 220843 | [220843-dream-football-club.json](./220843-dream-football-club.json) |
 | Dream Frontier | 301902 | [301902-dream-frontier.json](./301902-dream-frontier.json) |
 | Dream Fruit Farm | 186412 | [186412-dream-fruit-farm.json](./186412-dream-fruit-farm.json) |
+| Dream Gallery | 188188 | [188188-dream-gallery.json](./188188-dream-gallery.json) |
 | Dream Game | 411416 | [411416-dream-game.json](./411416-dream-game.json) |
 | Dream Garden | 339968 | [339968-dream-garden.json](./339968-dream-garden.json) |
 | Dream Gate | 45234 | [45234-dream-gate.json](./45234-dream-gate.json) |
