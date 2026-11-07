@@ -835,6 +835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm Pregnant at 16 | 336639 | [336639-im-pregnant-at-16.json](./336639-im-pregnant-at-16.json) |
 | I'm Prop | 205925 | [205925-im-prop.json](./205925-im-prop.json) |
 | I'm Ready for Kindergarten: Huggly's Sleepover | 398121 | [398121-im-ready-for-kindergarten-hugglys-sleepover.json](./398121-im-ready-for-kindergarten-hugglys-sleepover.json) |
+| I'm Russia | 155772 | [155772-im-russia.json](./155772-im-russia.json) |
 | I'm Scared of Girls | 139697 | [139697-im-scared-of-girls.json](./139697-im-scared-of-girls.json) |
 | I'm Scared of My Girlfriend | 247580 | [247580-im-scared-of-my-girlfriend.json](./247580-im-scared-of-my-girlfriend.json) |
 | I'm Sorry | 40053 | [40053-im-sorry.json](./40053-im-sorry.json) |
@@ -3925,7 +3926,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4292,6 +4292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Injustice: Gods Among Us - Zatanna | 75465 | [75465-injustice-gods-among-us-zatanna.json](./75465-injustice-gods-among-us-zatanna.json) |
 | Injustice: Gods Among Us - Zombie Mode | 75455 | [75455-injustice-gods-among-us-zombie-mode.json](./75455-injustice-gods-among-us-zombie-mode.json) |
 | Ink | 14580 | [14580-ink.json](./14580-ink.json) |
+| Ink | 155774 | [155774-ink.json](./155774-ink.json) |
 | Ink & Paper: DoodleCut - Animals DLC | 385181 | [385181-ink-and-paper-doodlecut-animals-dlc.json](./385181-ink-and-paper-doodlecut-animals-dlc.json) |
 | Ink & Paper: DoodleCut - Complete Edition | 385202 | [385202-ink-and-paper-doodlecut-complete-edition.json](./385202-ink-and-paper-doodlecut-complete-edition.json) |
 | Ink & Paper: DoodleCut - Space DLC | 385180 | [385180-ink-and-paper-doodlecut-space-dlc.json](./385180-ink-and-paper-doodlecut-space-dlc.json) |
@@ -4314,6 +4315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ink Sans Phase 3: Shanghaivania | 332887 | [332887-ink-sans-phase-3-shanghaivania.json](./332887-ink-sans-phase-3-shanghaivania.json) |
 | Ink Shapes: Book One | 161392 | [161392-ink-shapes-book-one.json](./161392-ink-shapes-book-one.json) |
 | Ink Splash | 411815 | [411815-ink-splash.json](./411815-ink-splash.json) |
+| Ink Studio: Tattoo Artist Simulator | 155769 | [155769-ink-studio-tattoo-artist-simulator.json](./155769-ink-studio-tattoo-artist-simulator.json) |
 | Ink Wars | 57359 | [57359-ink-wars.json](./57359-ink-wars.json) |
 | Ink World | 202758 | [202758-ink-world.json](./202758-ink-world.json) |
 | Ink. | 169442 | [169442-ink.json](./169442-ink.json) |
@@ -6516,6 +6518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isometric & Karate Exercise: Wii de Kotsuban Fitness | 134478 | [134478-isometric-and-karate-exercise-wii-de-kotsuban-fitness.json](./134478-isometric-and-karate-exercise-wii-de-kotsuban-fitness.json) |
 | Isometric Epilepsy | 108775 | [108775-isometric-epilepsy.json](./108775-isometric-epilepsy.json) |
 | Isometric Factories | 391647 | [391647-isometric-factories.json](./391647-isometric-factories.json) |
+| Isometric Nonogram | 155818 | [155818-isometric-nonogram.json](./155818-isometric-nonogram.json) |
 | Isometric Squares | 175356 | [175356-isometric-squares.json](./175356-isometric-squares.json) |
 | Isometric World | 204279 | [204279-isometric-world.json](./204279-isometric-world.json) |
 | Isometric World: Frame of Mind | 150922 | [150922-isometric-world-frame-of-mind.json](./150922-isometric-world-frame-of-mind.json) |
