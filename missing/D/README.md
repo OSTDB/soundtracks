@@ -8495,6 +8495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diario: Rebirth Moon Legend | 6965 | [6965-diario-rebirth-moon-legend.json](./6965-diario-rebirth-moon-legend.json) |
 | Diarrhea Don | 159891 | [159891-diarrhea-don.json](./159891-diarrhea-don.json) |
 | Diary Girl | 67992 | [67992-diary-girl.json](./67992-diary-girl.json) |
+| Diary of a certain A: Chapter I | 180365 | [180365-diary-of-a-certain-a-chapter-i.json](./180365-diary-of-a-certain-a-chapter-i.json) |
 | Diary of a Step-Sister | 239880 | [239880-diary-of-a-step-sister.json](./239880-diary-of-a-step-sister.json) |
 | Diary of a Witch | 196329 | [196329-diary-of-a-witch.json](./196329-diary-of-a-witch.json) |
 | Diary of a Zomboni Driver | 286321 | [286321-diary-of-a-zomboni-driver.json](./286321-diary-of-a-zomboni-driver.json) |
