@@ -1150,6 +1150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lasertron | 157350 | [157350-lasertron.json](./157350-lasertron.json) |
 | Laservasion | 121454 | [121454-laservasion.json](./121454-laservasion.json) |
 | Laserwars | 70799 | [70799-laserwars.json](./70799-laserwars.json) |
+| Laserwave | 177134 | [177134-laserwave.json](./177134-laserwave.json) |
 | Laserworks | 184316 | [184316-laserworks.json](./184316-laserworks.json) |
 | LaserZone | 133356 | [133356-laserzone.json](./133356-laserzone.json) |
 | Lashek | 149157 | [149157-lashek.json](./149157-lashek.json) |
@@ -2519,6 +2520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy Quest | 58659 | [58659-legacy-quest.json](./58659-legacy-quest.json) |
 | Legacy Quest 2 | 192446 | [192446-legacy-quest-2.json](./192446-legacy-quest-2.json) |
 | Legacy Tales: Mercy of the Gallows | 10508 | [10508-legacy-tales-mercy-of-the-gallows.json](./10508-legacy-tales-mercy-of-the-gallows.json) |
+| Legacy Tales: Mercy of the Gallows - Collector's Edition | 177104 | [177104-legacy-tales-mercy-of-the-gallows-collectors-edition.json](./177104-legacy-tales-mercy-of-the-gallows-collectors-edition.json) |
 | Legacy: Dark Shadows | 24248 | [24248-legacy-dark-shadows.json](./24248-legacy-dark-shadows.json) |
 | Legacy: Reawakening | 343222 | [343222-legacy-reawakening.json](./343222-legacy-reawakening.json) |
 | Legacy: The Last Pure Heart | 191045 | [191045-legacy-the-last-pure-heart.json](./191045-legacy-the-last-pure-heart.json) |
@@ -2777,6 +2779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend's Duty: The Rifted World | 397265 | [397265-legends-duty-the-rifted-world.json](./397265-legends-duty-the-rifted-world.json) |
 | Legend's World | 90058 | [90058-legends-world.json](./90058-legends-world.json) |
 | Legendarium Online | 190890 | [190890-legendarium-online.json](./190890-legendarium-online.json) |
+| Legendary Arcane 2 | 177114 | [177114-legendary-arcane-2.json](./177114-legendary-arcane-2.json) |
 | Legendary Arcane 2 Universe | 129750 | [129750-legendary-arcane-2-universe.json](./129750-legendary-arcane-2-universe.json) |
 | Legendary Archer: Rebirth | 224029 | [224029-legendary-archer-rebirth.json](./224029-legendary-archer-rebirth.json) |
 | Legendary Armory | 347475 | [347475-legendary-armory.json](./347475-legendary-armory.json) |
