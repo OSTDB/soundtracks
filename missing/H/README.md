@@ -7902,6 +7902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hikaru no Go: Heian Gensou Ibunroku | 62377 | [62377-hikaru-no-go-heian-gensou-ibunroku.json](./62377-hikaru-no-go-heian-gensou-ibunroku.json) |
 | Hikaru no Go: Insei Choujou Kessen | 62378 | [62378-hikaru-no-go-insei-choujou-kessen.json](./62378-hikaru-no-go-insei-choujou-kessen.json) |
 | Hike | 147703 | [147703-hike.json](./147703-hike.json) |
+| Hike | 184152 | [184152-hike.json](./184152-hike.json) |
 | Hike Adventures | 287164 | [287164-hike-adventures.json](./287164-hike-adventures.json) |
 | Hike Haven | 333735 | [333735-hike-haven.json](./333735-hike-haven.json) |
 | Hike Isle | 231166 | [231166-hike-isle.json](./231166-hike-isle.json) |
@@ -8289,6 +8290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit the Ice | 72923 | [72923-hit-the-ice.json](./72923-hit-the-ice.json) |
 | Hit the Ice: The Video Hockey League | 46208 | [46208-hit-the-ice-the-video-hockey-league.json](./46208-hit-the-ice-the-video-hockey-league.json) |
 | Hit the Light: Neon Shooter | 129165 | [129165-hit-the-light-neon-shooter.json](./129165-hit-the-light-neon-shooter.json) |
+| Hit the Motherlode | 184137 | [184137-hit-the-motherlode.json](./184137-hit-the-motherlode.json) |
 | Hit the Pillar | 232339 | [232339-hit-the-pillar.json](./232339-hit-the-pillar.json) |
 | HIT: Heroes of Incredible Tales | 79317 | [79317-hit-heroes-of-incredible-tales.json](./79317-hit-heroes-of-incredible-tales.json) |
 | Hit: Reboot | 224397 | [224397-hit-reboot.json](./224397-hit-reboot.json) |
@@ -10848,6 +10850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hototogisu Tairan 1553: Ryuuko Aiutsu | 85835 | [85835-hototogisu-tairan-1553-ryuuko-aiutsu.json](./85835-hototogisu-tairan-1553-ryuuko-aiutsu.json) |
 | Hotpot Defense | 348245 | [348245-hotpot-defense.json](./348245-hotpot-defense.json) |
 | HotPuzzle: Video | 368518 | [368518-hotpuzzle-video.json](./368518-hotpuzzle-video.json) |
+| HOTS: Heart of the Sand | 184019 | [184019-hots-heart-of-the-sand.json](./184019-hots-heart-of-the-sand.json) |
 | Hotshot | 313805 | [313805-hotshot.json](./313805-hotshot.json) |
 | Hotshot | 94623 | [94623-hotshot.json](./94623-hotshot.json) |
 | Hotshots | 390116 | [390116-hotshots.json](./390116-hotshots.json) |
