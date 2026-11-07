@@ -15912,6 +15912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Hard | 184912 | [184912-dream-hard.json](./184912-dream-hard.json) |
 | Dream Hearts Dream | 212765 | [212765-dream-hearts-dream.json](./212765-dream-hearts-dream.json) |
 | Dream Heights | 333053 | [333053-dream-heights.json](./333053-dream-heights.json) |
+| Dream Hero | 184144 | [184144-dream-hero.json](./184144-dream-hero.json) |
 | Dream Hike | 420684 | [420684-dream-hike.json](./420684-dream-hike.json) |
 | Dream Hills: Captured Magic | 74670 | [74670-dream-hills-captured-magic.json](./74670-dream-hills-captured-magic.json) |
 | Dream Hollow | 350416 | [350416-dream-hollow.json](./350416-dream-hollow.json) |
