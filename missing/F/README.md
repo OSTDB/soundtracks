@@ -3532,6 +3532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear of the Dark | 155403 | [155403-fear-of-the-dark.json](./155403-fear-of-the-dark.json) |
 | Fear of the Dark | 186487 | [186487-fear-of-the-dark.json](./186487-fear-of-the-dark.json) |
 | Fear Of The Dark | 308244 | [308244-fear-of-the-dark.json](./308244-fear-of-the-dark.json) |
+| Fear of the Darkness | 192511 | [192511-fear-of-the-darkness.json](./192511-fear-of-the-darkness.json) |
 | Fear of The Undead: Rise of Evil | 231158 | [231158-fear-of-the-undead-rise-of-evil.json](./231158-fear-of-the-undead-rise-of-evil.json) |
 | Fear of The Unknown | 169810 | [169810-fear-of-the-unknown.json](./169810-fear-of-the-unknown.json) |
 | Fear of Traffic | 103564 | [103564-fear-of-traffic.json](./103564-fear-of-traffic.json) |
