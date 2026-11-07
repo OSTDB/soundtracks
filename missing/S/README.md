@@ -13171,6 +13171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaughter 2: Prison Assault | 102856 | [102856-slaughter-2-prison-assault.json](./102856-slaughter-2-prison-assault.json) |
 | Slaughter 3: The Rebels | 128942 | [128942-slaughter-3-the-rebels.json](./128942-slaughter-3-the-rebels.json) |
 | Slaughter Bots | 216887 | [216887-slaughter-bots.json](./216887-slaughter-bots.json) |
+| Slaughter Cannon | 186385 | [186385-slaughter-cannon.json](./186385-slaughter-cannon.json) |
 | Slaughter Cannon 2 | 200566 | [200566-slaughter-cannon-2.json](./200566-slaughter-cannon-2.json) |
 | Slaughter Cats | 235354 | [235354-slaughter-cats.json](./235354-slaughter-cats.json) |
 | Slaughter Horse 2 | 211133 | [211133-slaughter-horse-2.json](./211133-slaughter-horse-2.json) |
@@ -33877,6 +33878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superpix | 311702 | [311702-superpix.json](./311702-superpix.json) |
 | Superpoke! Pets | 299538 | [299538-superpoke-pets.json](./299538-superpoke-pets.json) |
 | Superpopular | 127308 | [127308-superpopular.json](./127308-superpopular.json) |
+| Superposition | 186288 | [186288-superposition.json](./186288-superposition.json) |
 | Superposition | 414401 | [414401-superposition.json](./414401-superposition.json) |
 | SuperPosition | 318946 | [318946-superposition.json](./318946-superposition.json) |
 | SuperPower | 23466 | [23466-superpower.json](./23466-superpower.json) |
