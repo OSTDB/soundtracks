@@ -9499,6 +9499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shotgun Symphony | 144262 | [144262-shotgun-symphony.json](./144262-shotgun-symphony.json) |
 | Shotgun Wedding | 182655 | [182655-shotgun-wedding.json](./182655-shotgun-wedding.json) |
 | Shotgun Witch | 140451 | [140451-shotgun-witch.json](./140451-shotgun-witch.json) |
+| Shotgun, Dungeons, Laser Traps | 166909 | [166909-shotgun-dungeons-laser-traps.json](./166909-shotgun-dungeons-laser-traps.json) |
 | Shothop | 396417 | [396417-shothop.json](./396417-shothop.json) |
 | ShotKill | 110618 | [110618-shotkill.json](./110618-shotkill.json) |
 | Shotrun | 414283 | [414283-shotrun.json](./414283-shotrun.json) |
@@ -19820,6 +19821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20805,6 +20807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark Quest | 348145 | [348145-spark-quest.json](./348145-spark-quest.json) |
 | Spark Rising | 16892 | [16892-spark-rising.json](./16892-spark-rising.json) |
 | Spark Spark | 284255 | [284255-spark-spark.json](./284255-spark-spark.json) |
+| Spark the Battle Dog | 166919 | [166919-spark-the-battle-dog.json](./166919-spark-the-battle-dog.json) |
 | Spark the Electric Jester 2 | 118119 | [118119-spark-the-electric-jester-2.json](./118119-spark-the-electric-jester-2.json) |
 | Spark the Electric Jester: Recharged | 337175 | [337175-spark-the-electric-jester-recharged.json](./337175-spark-the-electric-jester-recharged.json) |
 | Spark: Hero Tactics | 335596 | [335596-spark-hero-tactics.json](./335596-spark-hero-tactics.json) |
@@ -21128,6 +21131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectrum: First Light | 35827 | [35827-spectrum-first-light.json](./35827-spectrum-first-light.json) |
 | SpectrumGames | 195813 | [195813-spectrumgames.json](./195813-spectrumgames.json) |
 | SpectrumTap | 41501 | [41501-spectrumtap.json](./41501-spectrumtap.json) |
+| Specular Stranded | 166875 | [166875-specular-stranded.json](./166875-specular-stranded.json) |
 | Speculum Mortis | 69531 | [69531-speculum-mortis.json](./69531-speculum-mortis.json) |
 | Speculum Mortis: Regret | 159222 | [159222-speculum-mortis-regret.json](./159222-speculum-mortis-regret.json) |
 | Specvaders | 137557 | [137557-specvaders.json](./137557-specvaders.json) |
@@ -21708,6 +21712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spheria | 83875 | [83875-spheria.json](./83875-spheria.json) |
 | Spheric Bombs | 294095 | [294095-spheric-bombs.json](./294095-spheric-bombs.json) |
 | Spherical | 12771 | [12771-spherical.json](./12771-spherical.json) |
+| Spherical alliance | 166899 | [166899-spherical-alliance.json](./166899-spherical-alliance.json) |
 | Spherical Soccer | 184173 | [184173-spherical-soccer.json](./184173-spherical-soccer.json) |
 | Spheritis | 17647 | [17647-spheritis.json](./17647-spheritis.json) |
 | Spheriums | 189883 | [189883-spheriums.json](./189883-spheriums.json) |
@@ -25900,6 +25905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starve.io | 79268 | [79268-starve-io.json](./79268-starve-io.json) |
 | Starvedge | 349454 | [349454-starvedge.json](./349454-starvedge.json) |
 | Starveil | 258582 | [258582-starveil.json](./258582-starveil.json) |
+| Starveling Way | 166897 | [166897-starveling-way.json](./166897-starveling-way.json) |
 | Starverse: Requiem Aeternam Eden | 342543 | [342543-starverse-requiem-aeternam-eden.json](./342543-starverse-requiem-aeternam-eden.json) |
 | Starvester | 382810 | [382810-starvester.json](./382810-starvester.json) |
 | Starving | 28754 | [28754-starving.json](./28754-starving.json) |
@@ -28527,6 +28533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Sk8er 2 | 45033 | [45033-street-sk8er-2.json](./45033-street-sk8er-2.json) |
 | Street Skater City | 180484 | [180484-street-skater-city.json](./180484-street-skater-city.json) |
 | Street Smart | 41084 | [41084-street-smart.json](./41084-street-smart.json) |
+| Street Sniper | 166895 | [166895-street-sniper.json](./166895-street-sniper.json) |
 | Street Soccer Online | 345087 | [345087-street-soccer-online.json](./345087-street-soccer-online.json) |
 | Street Soccer Simulator | 391342 | [391342-street-soccer-simulator.json](./391342-street-soccer-simulator.json) |
 | Street Sports Baseball | 52201 | [52201-street-sports-baseball.json](./52201-street-sports-baseball.json) |
@@ -28943,6 +28950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Struggle For Survival VR | 98757 | [98757-struggle-for-survival-vr.json](./98757-struggle-for-survival-vr.json) |
 | Struggle For Talyria | 148920 | [148920-struggle-for-talyria.json](./148920-struggle-for-talyria.json) |
 | Struggle for the Iliac Bay | 356168 | [356168-struggle-for-the-iliac-bay.json](./356168-struggle-for-the-iliac-bay.json) |
+| Struggle Offensive | 166910 | [166910-struggle-offensive.json](./166910-struggle-offensive.json) |
 | Struggle Weapon Girl | 410899 | [410899-struggle-weapon-girl.json](./410899-struggle-weapon-girl.json) |
 | Struggle: Antaresian Legacy | 141565 | [141565-struggle-antaresian-legacy.json](./141565-struggle-antaresian-legacy.json) |
 | Struggler | 347056 | [347056-struggler.json](./347056-struggler.json) |
@@ -35275,6 +35283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet God | 385611 | [385611-sweet-god.json](./385611-sweet-god.json) |
 | Sweet Gym | 339461 | [339461-sweet-gym.json](./339461-sweet-gym.json) |
 | Sweet Half-Life | 221652 | [221652-sweet-half-life.json](./221652-sweet-half-life.json) |
+| Sweet Halloween | 166876 | [166876-sweet-halloween.json](./166876-sweet-halloween.json) |
 | Sweet Hamster Days | 368802 | [368802-sweet-hamster-days.json](./368802-sweet-hamster-days.json) |
 | Sweet Hazard | 316815 | [316815-sweet-hazard.json](./316815-sweet-hazard.json) |
 | Sweet Hearts Match 3 | 86800 | [86800-sweet-hearts-match-3.json](./86800-sweet-hearts-match-3.json) |
