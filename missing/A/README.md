@@ -7035,6 +7035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Shooter in Space Cradle: Virtual Reality | 120576 | [120576-alien-shooter-in-space-cradle-virtual-reality.json](./120576-alien-shooter-in-space-cradle-virtual-reality.json) |
 | Alien Shooter TD | 26812 | [26812-alien-shooter-td.json](./26812-alien-shooter-td.json) |
 | Alien Shooter: Fight for Life | 11089 | [11089-alien-shooter-fight-for-life.json](./11089-alien-shooter-fight-for-life.json) |
+| Alien Shooter: Last Hope | 143861 | [143861-alien-shooter-last-hope.json](./143861-alien-shooter-last-hope.json) |
 | Alien Shooter: Revisited | 16016 | [16016-alien-shooter-revisited.json](./16016-alien-shooter-revisited.json) |
 | Alien Shooter: Revisted | 50844 | [50844-alien-shooter-revisted.json](./50844-alien-shooter-revisted.json) |
 | Alien Shooter: The Beginning | 105436 | [105436-alien-shooter-the-beginning.json](./105436-alien-shooter-the-beginning.json) |
@@ -14429,6 +14430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arondight | 375993 | [375993-arondight.json](./375993-arondight.json) |
 | Arosia | 150954 | [150954-arosia.json](./150954-arosia.json) |
 | Around the Block | 390791 | [390791-around-the-block.json](./390791-around-the-block.json) |
+| Around the Clock at Bikini Bottom | 143872 | [143872-around-the-clock-at-bikini-bottom.json](./143872-around-the-clock-at-bikini-bottom.json) |
 | Around the Fire | 157166 | [157166-around-the-fire.json](./157166-around-the-fire.json) |
 | Around the Moon | 90103 | [90103-around-the-moon.json](./90103-around-the-moon.json) |
 | Around the Words | 52092 | [52092-around-the-words.json](./52092-around-the-words.json) |
@@ -16883,7 +16885,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
