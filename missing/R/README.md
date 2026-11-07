@@ -535,6 +535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rack | 140574 | [140574-rack.json](./140574-rack.json) |
 | Rack 'Em | 94961 | [94961-rack-em.json](./94961-rack-em.json) |
 | Rack 'Em Up | 66717 | [66717-rack-em-up.json](./66717-rack-em-up.json) |
+| Rack 2: Furry Science | 148660 | [148660-rack-2-furry-science.json](./148660-rack-2-furry-science.json) |
 | Rack and Run | 338805 | [338805-rack-and-run.json](./338805-rack-and-run.json) |
 | Rack and Slay | 245289 | [245289-rack-and-slay.json](./245289-rack-and-slay.json) |
 | Rack Attack! | 342613 | [342613-rack-attack.json](./342613-rack-attack.json) |
@@ -824,6 +825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Training Center | 319884 | [319884-ragdoll-training-center.json](./319884-ragdoll-training-center.json) |
 | Ragdoll Universe | 311516 | [311516-ragdoll-universe.json](./311516-ragdoll-universe.json) |
 | Ragdoll Wreckage: Zombie Farts | 285688 | [285688-ragdoll-wreckage-zombie-farts.json](./285688-ragdoll-wreckage-zombie-farts.json) |
+| Ragdoll: Fall Simulator | 148644 | [148644-ragdoll-fall-simulator.json](./148644-ragdoll-fall-simulator.json) |
 | RagDollJoe | 115788 | [115788-ragdolljoe.json](./115788-ragdolljoe.json) |
 | Ragdolls Playground: The Sandbox | 188908 | [188908-ragdolls-playground-the-sandbox.json](./188908-ragdolls-playground-the-sandbox.json) |
 | Ragdore | 364027 | [364027-ragdore.json](./364027-ragdore.json) |
@@ -6016,6 +6018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReTrace | 401045 | [401045-retrace.json](./401045-retrace.json) |
 | Retrace the Light | 224693 | [224693-retrace-the-light.json](./224693-retrace-the-light.json) |
 | Retract: Battle Royale | 175675 | [175675-retract-battle-royale.json](./175675-retract-battle-royale.json) |
+| Retreat to Enen | 148645 | [148645-retreat-to-enen.json](./148645-retreat-to-enen.json) |
 | Retribution | 324966 | [324966-retribution.json](./324966-retribution.json) |
 | Retribution | 94404 | [94404-retribution.json](./94404-retribution.json) |
 | Retribution Revisited | 271572 | [271572-retribution-revisited.json](./271572-retribution-revisited.json) |
@@ -10342,6 +10345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rohan: Blood Feud | 79227 | [79227-rohan-blood-feud.json](./79227-rohan-blood-feud.json) |
 | Rohga: Armor Force | 40260 | [40260-rohga-armor-force.json](./40260-rohga-armor-force.json) |
 | Rohgah Armor Force | 94756 | [94756-rohgah-armor-force.json](./94756-rohgah-armor-force.json) |
+| Rohoen Rumble | 148637 | [148637-rohoen-rumble.json](./148637-rohoen-rumble.json) |
 | Roid Chimp | 366297 | [366297-roid-chimp.json](./366297-roid-chimp.json) |
 | Roid Rage | 113366 | [113366-roid-rage.json](./113366-roid-rage.json) |
 | Roiders | 302340 | [302340-roiders.json](./302340-roiders.json) |
