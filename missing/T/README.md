@@ -5225,6 +5225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Dam Level redux | 33698 | [33698-that-dam-level-redux.json](./33698-that-dam-level-redux.json) |
 | That Damn Fox | 381538 | [381538-that-damn-fox.json](./381538-that-damn-fox.json) |
 | That Damn Goat | 267815 | [267815-that-damn-goat.json](./267815-that-damn-goat.json) |
+| That Dream | 183665 | [183665-that-dream.json](./183665-that-dream.json) |
 | That Endless Night: 1931 | 240259 | [240259-that-endless-night-1931.json](./240259-that-endless-night-1931.json) |
 | That Flipping Mountain | 119987 | [119987-that-flipping-mountain.json](./119987-that-flipping-mountain.json) |
 | That Friday Again | 391720 | [391720-that-friday-again.json](./391720-that-friday-again.json) |
@@ -24441,6 +24442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toilet Management Simulator | 138586 | [138586-toilet-management-simulator.json](./138586-toilet-management-simulator.json) |
 | Toilet Ninjas | 129963 | [129963-toilet-ninjas.json](./129963-toilet-ninjas.json) |
 | Toilet of the Gods | 140874 | [140874-toilet-of-the-gods.json](./140874-toilet-of-the-gods.json) |
+| Toilet paper Hoarder | 183674 | [183674-toilet-paper-hoarder.json](./183674-toilet-paper-hoarder.json) |
 | Toilet Paper Please | 297332 | [297332-toilet-paper-please.json](./297332-toilet-paper-please.json) |
 | Toilet Paper Simulator | 248890 | [248890-toilet-paper-simulator.json](./248890-toilet-paper-simulator.json) |
 | Toilet Paper Unleashed | 169670 | [169670-toilet-paper-unleashed.json](./169670-toilet-paper-unleashed.json) |
