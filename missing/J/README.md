@@ -1967,6 +1967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw-Land | 264174 | [264174-jigsaw-land.json](./264174-jigsaw-land.json) |
 | Jigsaw's Test | 393090 | [393090-jigsaws-test.json](./393090-jigsaws-test.json) |
 | JigsawMania | 75710 | [75710-jigsawmania.json](./75710-jigsawmania.json) |
+| JigsawPuzzles.io | 139546 | [139546-jigsawpuzzles-io.json](./139546-jigsawpuzzles-io.json) |
 | Jigsaws Galore | 86684 | [86684-jigsaws-galore.json](./86684-jigsaws-galore.json) |
 | Jigsawship | 255760 | [255760-jigsawship.json](./255760-jigsawship.json) |
 | Jigsort Journey: Puzzle Blend | 309725 | [309725-jigsort-journey-puzzle-blend.json](./309725-jigsort-journey-puzzle-blend.json) |
