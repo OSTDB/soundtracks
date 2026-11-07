@@ -8576,6 +8576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EZ2on Reboot: R - DJMAX Collaboration DLC | 269015 | [269015-ez2on-reboot-r-djmax-collaboration-dlc.json](./269015-ez2on-reboot-r-djmax-collaboration-dlc.json) |
 | EZ2on Reboot: R - Fortress Collaboration DLC | 256004 | [256004-ez2on-reboot-r-fortress-collaboration-dlc.json](./256004-ez2on-reboot-r-fortress-collaboration-dlc.json) |
 | EZ2on Reboot: R - Hardcore Tano*C Music Pack vol.1 | 295121 | [295121-ez2on-reboot-r-hardcore-tano-c-music-pack-vol-1.json](./295121-ez2on-reboot-r-hardcore-tano-c-music-pack-vol-1.json) |
+| EZ2on: Reboot | 146955 | [146955-ez2on-reboot.json](./146955-ez2on-reboot.json) |
 | Eza | 176836 | [176836-eza.json](./176836-eza.json) |
 | Ezalm : Magic's Memory | 419955 | [419955-ezalm-magics-memory.json](./419955-ezalm-magics-memory.json) |
 | Ezamur | 240974 | [240974-ezamur.json](./240974-ezamur.json) |
