@@ -7461,6 +7461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Up | 20312 | [20312-shape-up.json](./20312-shape-up.json) |
 | Shape Up Battle Run | 364454 | [364454-shape-up-battle-run.json](./364454-shape-up-battle-run.json) |
 | Shape Up: Gold Edition | 227178 | [227178-shape-up-gold-edition.json](./227178-shape-up-gold-edition.json) |
+| Shape VS Shapes | 155794 | [155794-shape-vs-shapes.json](./155794-shape-vs-shapes.json) |
 | Shape Wars | 414440 | [414440-shape-wars.json](./414440-shape-wars.json) |
 | Shape Warzone | 345098 | [345098-shape-warzone.json](./345098-shape-warzone.json) |
 | Shape World Level up Lite | 390342 | [390342-shape-world-level-up-lite.json](./390342-shape-world-level-up-lite.json) |
@@ -18400,6 +18401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonyc | 269934 | [269934-sonyc.json](./269934-sonyc.json) |
 | Sonyeojeonjaeng: Hwansangui Cheonhatongil-jeon | 233548 | [233548-sonyeojeonjaeng-hwansangui-cheonhatongil-jeon.json](./233548-sonyeojeonjaeng-hwansangui-cheonhatongil-jeon.json) |
 | Sonzai | 138210 | [138210-sonzai.json](./138210-sonzai.json) |
+| Soobmarinno | 155792 | [155792-soobmarinno.json](./155792-soobmarinno.json) |
 | Soon Shine | 85389 | [85389-soon-shine.json](./85389-soon-shine.json) |
 | Soon We'll Be No One | 415789 | [415789-soon-well-be-no-one.json](./415789-soon-well-be-no-one.json) |
 | Soon, Only the Ocean | 412938 | [412938-soon-only-the-ocean.json](./412938-soon-only-the-ocean.json) |
@@ -19857,6 +19859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20105,6 +20108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space of One Drama | 101304 | [101304-space-of-one-drama.json](./101304-space-of-one-drama.json) |
 | Space of Retaliation | 150870 | [150870-space-of-retaliation.json](./150870-space-of-retaliation.json) |
 | Space on the Case | 310961 | [310961-space-on-the-case.json](./310961-space-on-the-case.json) |
+| Space One | 155806 | [155806-space-one.json](./155806-space-one.json) |
 | Space One: Ascendant | 167226 | [167226-space-one-ascendant.json](./167226-space-one-ascendant.json) |
 | Space Operation | 273661 | [273661-space-operation.json](./273661-space-operation.json) |
 | Space Operators | 310892 | [310892-space-operators.json](./310892-space-operators.json) |
@@ -20211,6 +20215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rangers: Legacy | 275805 | [275805-space-rangers-legacy.json](./275805-space-rangers-legacy.json) |
 | Space Rangers: Quest | 25617 | [25617-space-rangers-quest.json](./25617-space-rangers-quest.json) |
 | Space Rangers: Quest and Space Rangers HD | 53647 | [53647-space-rangers-quest-and-space-rangers-hd.json](./53647-space-rangers-quest-and-space-rangers-hd.json) |
+| Space Rats | 155767 | [155767-space-rats.json](./155767-space-rats.json) |
 | Space raven quest - Tiny planet | 120965 | [120965-space-raven-quest-tiny-planet.json](./120965-space-raven-quest-tiny-planet.json) |
 | Space Rebellion | 66930 | [66930-space-rebellion.json](./66930-space-rebellion.json) |
 | Space Recall | 250275 | [250275-space-recall.json](./250275-space-recall.json) |
@@ -26917,6 +26922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stevo Life | 341016 | [341016-stevo-life.json](./341016-stevo-life.json) |
 | Stewart the Fox | 231552 | [231552-stewart-the-fox.json](./231552-stewart-the-fox.json) |
 | Stewie Talking Electronic Pinball | 218441 | [218441-stewie-talking-electronic-pinball.json](./218441-stewie-talking-electronic-pinball.json) |
+| STG Become on Immortal: Opening Chapter | 155788 | [155788-stg-become-on-immortal-opening-chapter.json](./155788-stg-become-on-immortal-opening-chapter.json) |
 | STG Football | 222769 | [222769-stg-football.json](./222769-stg-football.json) |
 | STG01 | 296004 | [296004-stg01.json](./296004-stg01.json) |
 | Sthell | 152768 | [152768-sthell.json](./152768-sthell.json) |
@@ -34671,6 +34677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive the Backrooms! | 192961 | [192961-survive-the-backrooms.json](./192961-survive-the-backrooms.json) |
 | Survive the Blackout | 116184 | [116184-survive-the-blackout.json](./116184-survive-the-blackout.json) |
 | Survive the Cards | 360721 | [360721-survive-the-cards.json](./360721-survive-the-cards.json) |
+| Survive the Dark | 155803 | [155803-survive-the-dark.json](./155803-survive-the-dark.json) |
 | Survive the Descent | 357696 | [357696-survive-the-descent.json](./357696-survive-the-descent.json) |
 | Survive the Fall | 216900 | [216900-survive-the-fall.json](./216900-survive-the-fall.json) |
 | Survive the Fog | 235781 | [235781-survive-the-fog.json](./235781-survive-the-fog.json) |
