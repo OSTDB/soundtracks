@@ -3522,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear in Hospital | 120067 | [120067-fear-in-hospital.json](./120067-fear-in-hospital.json) |
 | Fear in the Facts Farms | 332791 | [332791-fear-in-the-facts-farms.json](./332791-fear-in-the-facts-farms.json) |
 | Fear in the Modern House: Ch.2 | 148670 | [148670-fear-in-the-modern-house-ch-2.json](./148670-fear-in-the-modern-house-ch-2.json) |
+| Fear in the Modern House: Ch.3 | 173914 | [173914-fear-in-the-modern-house-ch-3.json](./173914-fear-in-the-modern-house-ch-3.json) |
 | Fear Is in the Mind | 179168 | [179168-fear-is-in-the-mind.json](./179168-fear-is-in-the-mind.json) |
 | Fear Is In The Mind | 302943 | [302943-fear-is-in-the-mind.json](./302943-fear-is-in-the-mind.json) |
 | Fear Less! | 60552 | [60552-fear-less.json](./60552-fear-less.json) |
@@ -5393,6 +5394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find AI Parking Spot | 397187 | [397187-find-ai-parking-spot.json](./397187-find-ai-parking-spot.json) |
 | Find All | 151614 | [151614-find-all.json](./151614-find-all.json) |
 | Find All 10: Greece | 416977 | [416977-find-all-10-greece.json](./416977-find-all-10-greece.json) |
+| Find All 2: Middle Ages | 173931 | [173931-find-all-2-middle-ages.json](./173931-find-all-2-middle-ages.json) |
 | Find All 4: Magic | 226805 | [226805-find-all-4-magic.json](./226805-find-all-4-magic.json) |
 | Find All 5: Vikings | 317026 | [317026-find-all-5-vikings.json](./317026-find-all-5-vikings.json) |
 | Find All 7: Japan | 344688 | [344688-find-all-7-japan.json](./344688-find-all-7-japan.json) |
@@ -5617,6 +5619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Lake Chewaucan | 410689 | [410689-finding-lake-chewaucan.json](./410689-finding-lake-chewaucan.json) |
 | Finding Light | 110390 | [110390-finding-light.json](./110390-finding-light.json) |
 | Finding Love at the Right Place and the Right Time | 419774 | [419774-finding-love-at-the-right-place-and-the-right-time.json](./419774-finding-love-at-the-right-place-and-the-right-time.json) |
+| Finding Lulu: Global Challenge One | 173947 | [173947-finding-lulu-global-challenge-one.json](./173947-finding-lulu-global-challenge-one.json) |
 | Finding Mosey | 214158 | [214158-finding-mosey.json](./214158-finding-mosey.json) |
 | Finding Nemo | 210734 | [210734-finding-nemo.json](./210734-finding-nemo.json) |
 | Finding Nemo | 230428 | [230428-finding-nemo.json](./230428-finding-nemo.json) |
@@ -13370,6 +13373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Pack | 319790 | [319790-fun-pack.json](./319790-fun-pack.json) |
 | Fun Pack Series Edition | 331816 | [331816-fun-pack-series-edition.json](./331816-fun-pack-series-edition.json) |
 | Fun Park Simulator | 394165 | [394165-fun-park-simulator.json](./394165-fun-park-simulator.json) |
+| Fun Platformer | 173943 | [173943-fun-platformer.json](./173943-fun-platformer.json) |
 | Fun Puzzles Bundle | 331544 | [331544-fun-puzzles-bundle.json](./331544-fun-puzzles-bundle.json) |
 | Fun Puzzles Premium Bundle | 331545 | [331545-fun-puzzles-premium-bundle.json](./331545-fun-puzzles-premium-bundle.json) |
 | Fun Quest | 195702 | [195702-fun-quest.json](./195702-fun-quest.json) |
