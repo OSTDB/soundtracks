@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2202,6 +2203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BankBank | 98057 | [98057-bankbank.json](./98057-bankbank.json) |
 | Banker HD | 213789 | [213789-banker-hd.json](./213789-banker-hd.json) |
 | Banker Simulator | 333328 | [333328-banker-simulator.json](./333328-banker-simulator.json) |
+| Bankers & Bonkers | 167454 | [167454-bankers-and-bonkers.json](./167454-bankers-and-bonkers.json) |
 | Bankfeest | 359689 | [359689-bankfeest.json](./359689-bankfeest.json) |
 | Banking Dream | 84776 | [84776-banking-dream.json](./84776-banking-dream.json) |
 | BankingSim | 359690 | [359690-bankingsim.json](./359690-bankingsim.json) |
@@ -5002,6 +5004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bearbushkas | 86653 | [86653-bearbushkas.json](./86653-bearbushkas.json) |
 | Bearcycle | 197125 | [197125-bearcycle.json](./197125-bearcycle.json) |
 | Beard Blade | 24517 | [24517-beard-blade.json](./24517-beard-blade.json) |
+| Beard of Stone | 167424 | [167424-beard-of-stone.json](./167424-beard-of-stone.json) |
 | Beardbarians | 317900 | [317900-beardbarians.json](./317900-beardbarians.json) |
 | Bearded Dragons | 133475 | [133475-bearded-dragons.json](./133475-bearded-dragons.json) |
 | Beards & Beaks | 79095 | [79095-beards-and-beaks.json](./79095-beards-and-beaks.json) |
@@ -9354,6 +9357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackjack Fever | 89589 | [89589-blackjack-fever.json](./89589-blackjack-fever.json) |
 | Blackjack In Space | 88200 | [88200-blackjack-in-space.json](./88200-blackjack-in-space.json) |
 | Blackjack Master | 86689 | [86689-blackjack-master.json](./86689-blackjack-master.json) |
+| BlackJack Math | 167427 | [167427-blackjack-math.json](./167427-blackjack-math.json) |
 | BlackJack Math Cross Numbers | 238877 | [238877-blackjack-math-cross-numbers.json](./238877-blackjack-math-cross-numbers.json) |
 | Blackjack of Strip | 111340 | [111340-blackjack-of-strip.json](./111340-blackjack-of-strip.json) |
 | Blackjack Player | 88437 | [88437-blackjack-player.json](./88437-blackjack-player.json) |
