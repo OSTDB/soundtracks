@@ -5694,6 +5694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Willy Beamish | 2205 | [2205-the-adventures-of-willy-beamish.json](./2205-the-adventures-of-willy-beamish.json) |
 | The Adventures of Wolf and Hood: A Jigsaw Tale | 154971 | [154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json](./154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json) |
 | The Adventures of Zomboy | 323281 | [323281-the-adventures-of-zomboy.json](./323281-the-adventures-of-zomboy.json) |
+| The Advisor: Episode 1 - Royal Pain | 171189 | [171189-the-advisor-episode-1-royal-pain.json](./171189-the-advisor-episode-1-royal-pain.json) |
 | The Aegis Saga | 131749 | [131749-the-aegis-saga.json](./131749-the-aegis-saga.json) |
 | The Aeon Fall | 398188 | [398188-the-aeon-fall.json](./398188-the-aeon-fall.json) |
 | The Aeronautics Quiz MK 2 | 69766 | [69766-the-aeronautics-quiz-mk-2.json](./69766-the-aeronautics-quiz-mk-2.json) |
@@ -13737,6 +13738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mayor of Sanctuary | 228510 | [228510-the-mayor-of-sanctuary.json](./228510-the-mayor-of-sanctuary.json) |
 | The Maze | 107158 | [107158-the-maze.json](./107158-the-maze.json) |
 | The Maze | 169859 | [169859-the-maze.json](./169859-the-maze.json) |
+| The Maze | 171148 | [171148-the-maze.json](./171148-the-maze.json) |
 | The Maze | 253333 | [253333-the-maze.json](./253333-the-maze.json) |
 | The Maze | 377305 | [377305-the-maze.json](./377305-the-maze.json) |
 | The Maze : Endless nightmare | 29763 | [29763-the-maze-endless-nightmare.json](./29763-the-maze-endless-nightmare.json) |
@@ -17438,6 +17440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Survival Horror Bundle | 301767 | [301767-the-survival-horror-bundle.json](./301767-the-survival-horror-bundle.json) |
 | The Survivalists | 127305 | [127305-the-survivalists.json](./127305-the-survivalists.json) |
 | The Survivalists: Deluxe Edition | 173159 | [173159-the-survivalists-deluxe-edition.json](./173159-the-survivalists-deluxe-edition.json) |
+| The Survivalists: Monkey Business | 171180 | [171180-the-survivalists-monkey-business.json](./171180-the-survivalists-monkey-business.json) |
 | The Survivor | 123491 | [123491-the-survivor.json](./123491-the-survivor.json) |
 | The Survivor | 334450 | [334450-the-survivor.json](./334450-the-survivor.json) |
 | The Survivor After | 152879 | [152879-the-survivor-after.json](./152879-the-survivor-after.json) |
@@ -20659,6 +20662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through Blocks | 74213 | [74213-through-blocks.json](./74213-through-blocks.json) |
 | Through Death's Door | 391852 | [391852-through-deaths-door.json](./391852-through-deaths-door.json) |
 | Through Hell and Back | 372541 | [372541-through-hell-and-back.json](./372541-through-hell-and-back.json) |
+| Through Hell to Heaven | 171150 | [171150-through-hell-to-heaven.json](./171150-through-hell-to-heaven.json) |
 | Through His Eyes | 348188 | [348188-through-his-eyes.json](./348188-through-his-eyes.json) |
 | Through Rust We Are Returned | 147360 | [147360-through-rust-we-are-returned.json](./147360-through-rust-we-are-returned.json) |
 | Through Space | 414297 | [414297-through-space.json](./414297-through-space.json) |
@@ -27186,6 +27190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Tactics II | 374368 | [374368-tower-tactics-ii.json](./374368-tower-tactics-ii.json) |
 | Tower Tactics: Astral Siege | 336624 | [336624-tower-tactics-astral-siege.json](./336624-tower-tactics-astral-siege.json) |
 | Tower Tactics: Celestial Dawn | 247699 | [247699-tower-tactics-celestial-dawn.json](./247699-tower-tactics-celestial-dawn.json) |
+| Tower Tactics: Liberation | 171196 | [171196-tower-tactics-liberation.json](./171196-tower-tactics-liberation.json) |
 | Tower Tank: TD Reversal | 113396 | [113396-tower-tank-td-reversal.json](./113396-tower-tank-td-reversal.json) |
 | Tower to Heaven | 173313 | [173313-tower-to-heaven.json](./173313-tower-to-heaven.json) |
 | Tower Up | 254631 | [254631-tower-up.json](./254631-tower-up.json) |
@@ -30105,6 +30110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trash Battle | 369795 | [369795-trash-battle.json](./369795-trash-battle.json) |
 | Trash Bunny House | 248983 | [248983-trash-bunny-house.json](./248983-trash-bunny-house.json) |
 | Trash can Army | 278243 | [278243-trash-can-army.json](./278243-trash-can-army.json) |
+| Trash Can Dungeon: Battle Against the Zoo | 171151 | [171151-trash-can-dungeon-battle-against-the-zoo.json](./171151-trash-can-dungeon-battle-against-the-zoo.json) |
 | Trash Can Tactics | 303114 | [303114-trash-can-tactics.json](./303114-trash-can-tactics.json) |
 | Trash Card Adventure | 373794 | [373794-trash-card-adventure.json](./373794-trash-card-adventure.json) |
 | Trash Coin | 410697 | [410697-trash-coin.json](./410697-trash-coin.json) |
