@@ -1297,6 +1297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Epoch: Tombs of the Erased | 341008 | [341008-last-epoch-tombs-of-the-erased.json](./341008-last-epoch-tombs-of-the-erased.json) |
 | Last Epoch: Twilight Fox | 286563 | [286563-last-epoch-twilight-fox.json](./286563-last-epoch-twilight-fox.json) |
 | Last Equinox: Winds of Change | 255388 | [255388-last-equinox-winds-of-change.json](./255388-last-equinox-winds-of-change.json) |
+| Last Escape | 167457 | [167457-last-escape.json](./167457-last-escape.json) |
 | Last Escape: Dead Complex | 276553 | [276553-last-escape-dead-complex.json](./276553-last-escape-dead-complex.json) |
 | Last Escort 2: Shin'ya no Amai Ibara | 220570 | [220570-last-escort-2-shinya-no-amai-ibara.json](./220570-last-escort-2-shinya-no-amai-ibara.json) |
 | Last Escort: Kokuchou Special Night | 220567 | [220567-last-escort-kokuchou-special-night.json](./220567-last-escort-kokuchou-special-night.json) |
@@ -2518,6 +2519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legacy of the Times | 59964 | [59964-legacy-of-the-times.json](./59964-legacy-of-the-times.json) |
 | Legacy of the Wizard | 320850 | [320850-legacy-of-the-wizard.json](./320850-legacy-of-the-wizard.json) |
 | Legacy of Valyria | 356036 | [356036-legacy-of-valyria.json](./356036-legacy-of-valyria.json) |
+| Legacy of Vane | 167437 | [167437-legacy-of-vane.json](./167437-legacy-of-vane.json) |
 | Legacy of YanHuang | 28755 | [28755-legacy-of-yanhuang.json](./28755-legacy-of-yanhuang.json) |
 | Legacy Online | 23711 | [23711-legacy-online.json](./23711-legacy-online.json) |
 | Legacy Quest | 109289 | [109289-legacy-quest.json](./109289-legacy-quest.json) |
