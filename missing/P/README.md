@@ -953,6 +953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pale Moon Crisis | 29977 | [29977-pale-moon-crisis.json](./29977-pale-moon-crisis.json) |
 | Pale Night | 142811 | [142811-pale-night.json](./142811-pale-night.json) |
 | Pale Peril | 277091 | [277091-pale-peril.json](./277091-pale-peril.json) |
+| Pale Roots | 172888 | [172888-pale-roots.json](./172888-pale-roots.json) |
 | Pale Sand, Dark Skies | 179508 | [179508-pale-sand-dark-skies.json](./179508-pale-sand-dark-skies.json) |
 | Pale Spectrum - Part Two of the Book of Gray Magic | 56689 | [56689-pale-spectrum-part-two-of-the-book-of-gray-magic.json](./56689-pale-spectrum-part-two-of-the-book-of-gray-magic.json) |
 | Pale Tide | 403823 | [403823-pale-tide.json](./403823-pale-tide.json) |
@@ -1574,6 +1575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Bride 5 Two Lifetimes | 267828 | [267828-paper-bride-5-two-lifetimes.json](./267828-paper-bride-5-two-lifetimes.json) |
 | Paper Bride 6: Nightmare | 326046 | [326046-paper-bride-6-nightmare.json](./326046-paper-bride-6-nightmare.json) |
 | Paper Bride 7: Lethal Bond | 383172 | [383172-paper-bride-7-lethal-bond.json](./383172-paper-bride-7-lethal-bond.json) |
+| Paper Bum | 172895 | [172895-paper-bum.json](./172895-paper-bum.json) |
 | Paper Cages | 178670 | [178670-paper-cages.json](./178670-paper-cages.json) |
 | Paper Can't Fly | 258760 | [258760-paper-cant-fly.json](./258760-paper-cant-fly.json) |
 | Paper Cannon | 362775 | [362775-paper-cannon.json](./362775-paper-cannon.json) |
@@ -9110,6 +9112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plan 9 From Outer Space | 12717 | [12717-plan-9-from-outer-space.json](./12717-plan-9-from-outer-space.json) |
 | Plan 9 From Planet Kr1x | 301114 | [301114-plan-9-from-planet-kr1x.json](./301114-plan-9-from-planet-kr1x.json) |
 | Plan B | 372956 | [372956-plan-b.json](./372956-plan-b.json) |
+| Plan B from Outer Space: A Bavarian Odyssey | 172894 | [172894-plan-b-from-outer-space-a-bavarian-odyssey.json](./172894-plan-b-from-outer-space-a-bavarian-odyssey.json) |
 | Plan B: Goddess's cards | 215700 | [215700-plan-b-goddesss-cards.json](./215700-plan-b-goddesss-cards.json) |
 | Plan B: Terraform | 226719 | [226719-plan-b-terraform.json](./226719-plan-b-terraform.json) |
 | Plan Bee | 278842 | [278842-plan-bee.json](./278842-plan-bee.json) |
@@ -12584,6 +12587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool Pro Gold | 147914 | [147914-pool-pro-gold.json](./147914-pool-pro-gold.json) |
 | Pool Pro Online 3 | 25371 | [25371-pool-pro-online-3.json](./25371-pool-pro-online-3.json) |
 | Pool Protocol: Loop | 346456 | [346456-pool-protocol-loop.json](./346456-pool-protocol-loop.json) |
+| Pool Puzzles | 172861 | [172861-pool-puzzles.json](./172861-pool-puzzles.json) |
 | Pool Quiz | 246477 | [246477-pool-quiz.json](./246477-pool-quiz.json) |
 | Pool Revolution: Cue Sports | 70649 | [70649-pool-revolution-cue-sports.json](./70649-pool-revolution-cue-sports.json) |
 | Pool Room Billiard | 386785 | [386785-pool-room-billiard.json](./386785-pool-room-billiard.json) |
