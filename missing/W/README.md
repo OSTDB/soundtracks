@@ -3128,6 +3128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wedding Dash | 77878 | [77878-wedding-dash.json](./77878-wedding-dash.json) |
 | Wedding Dash 2: Rings Around the World | 16074 | [16074-wedding-dash-2-rings-around-the-world.json](./16074-wedding-dash-2-rings-around-the-world.json) |
 | Wedding Dash 4-Ever | 87327 | [87327-wedding-dash-4-ever.json](./87327-wedding-dash-4-ever.json) |
+| Wedding Dash: Ready, Aim, Love! | 142001 | [142001-wedding-dash-ready-aim-love.json](./142001-wedding-dash-ready-aim-love.json) |
 | Wedding Day | 311441 | [311441-wedding-day.json](./311441-wedding-day.json) |
 | Wedding Designer | 121340 | [121340-wedding-designer.json](./121340-wedding-designer.json) |
 | Wedding Fiasco - The Race for the Perfect Dress | 101562 | [101562-wedding-fiasco-the-race-for-the-perfect-dress.json](./101562-wedding-fiasco-the-race-for-the-perfect-dress.json) |
@@ -4506,6 +4507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whismie | 394472 | [394472-whismie.json](./394472-whismie.json) |
 | Whisper | 132706 | [132706-whisper.json](./132706-whisper.json) |
 | Whisper | 345953 | [345953-whisper.json](./345953-whisper.json) |
+| Whisper Beyond the Hollow | 141996 | [141996-whisper-beyond-the-hollow.json](./141996-whisper-beyond-the-hollow.json) |
 | Whisper Books | 201500 | [201500-whisper-books.json](./201500-whisper-books.json) |
 | Whisper Forest | 304611 | [304611-whisper-forest.json](./304611-whisper-forest.json) |
 | Whisper in the Dark | 177349 | [177349-whisper-in-the-dark.json](./177349-whisper-in-the-dark.json) |
