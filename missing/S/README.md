@@ -19831,6 +19831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -29616,6 +29617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoki | 219089 | [219089-sudoki.json](./219089-sudoki.json) |
 | Sudokiller | 417211 | [417211-sudokiller.json](./417211-sudokiller.json) |
 | Sudokku Elite Collection | 58256 | [58256-sudokku-elite-collection.json](./58256-sudokku-elite-collection.json) |
+| Sudokolorful | 162524 | [162524-sudokolorful.json](./162524-sudokolorful.json) |
 | Sudoku | 131490 | [131490-sudoku.json](./131490-sudoku.json) |
 | Sudoku | 131505 | [131505-sudoku.json](./131505-sudoku.json) |
 | Sudoku | 224170 | [224170-sudoku.json](./224170-sudoku.json) |
