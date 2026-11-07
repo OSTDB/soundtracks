@@ -10797,6 +10797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romance of the Three Kingdoms: The Legend of CaoCao | 121225 | [121225-romance-of-the-three-kingdoms-the-legend-of-caocao.json](./121225-romance-of-the-three-kingdoms-the-legend-of-caocao.json) |
 | Romance Protocol | 399380 | [399380-romance-protocol.json](./399380-romance-protocol.json) |
 | Romance with Chocolate - Hidden Objects | 55794 | [55794-romance-with-chocolate-hidden-objects.json](./55794-romance-with-chocolate-hidden-objects.json) |
+| Romancelvania | 141964 | [141964-romancelvania.json](./141964-romancelvania.json) |
 | Romancelvania: Deluxe Edition | 241314 | [241314-romancelvania-deluxe-edition.json](./241314-romancelvania-deluxe-edition.json) |
 | Romancia: Another Legend | 71968 | [71968-romancia-another-legend.json](./71968-romancia-another-legend.json) |
 | Romancia: Dragon Slayer Jr. | 41727 | [41727-romancia-dragon-slayer-jr.json](./41727-romancia-dragon-slayer-jr.json) |
