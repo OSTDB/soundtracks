@@ -8639,6 +8639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Lost | 363963 | [363963-bit-lost.json](./363963-bit-lost.json) |
 | Bit Maze | 406319 | [406319-bit-maze.json](./406319-bit-maze.json) |
 | Bit Odyssey | 17943 | [17943-bit-odyssey.json](./17943-bit-odyssey.json) |
+| Bit of War | 185807 | [185807-bit-of-war.json](./185807-bit-of-war.json) |
 | Bit Orchard | 148250 | [148250-bit-orchard.json](./148250-bit-orchard.json) |
 | Bit Orchard: Animal Valley | 199892 | [199892-bit-orchard-animal-valley.json](./199892-bit-orchard-animal-valley.json) |
 | Bit Orchard: Animal Valley - Amazing Edition | 256762 | [256762-bit-orchard-animal-valley-amazing-edition.json](./256762-bit-orchard-animal-valley-amazing-edition.json) |
@@ -8685,6 +8686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bitbird | 348586 | [348586-bitbird.json](./348586-bitbird.json) |
 | BitBreaker | 97927 | [97927-bitbreaker.json](./97927-bitbreaker.json) |
 | BitBug | 181315 | [181315-bitbug.json](./181315-bitbug.json) |
+| Bitburner | 185750 | [185750-bitburner.json](./185750-bitburner.json) |
 | Bitch Government | 187150 | [187150-bitch-government.json](./187150-bitch-government.json) |
 | Bitch Hell | 197891 | [197891-bitch-hell.json](./197891-bitch-hell.json) |
 | Bitch Shop Simulator | 389114 | [389114-bitch-shop-simulator.json](./389114-bitch-shop-simulator.json) |
