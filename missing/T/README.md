@@ -8315,6 +8315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Detectorist Guild | 373609 | [373609-the-detectorist-guild.json](./373609-the-detectorist-guild.json) |
 | The Detractor | 405326 | [405326-the-detractor.json](./405326-the-detractor.json) |
 | The Detroit After | 199123 | [199123-the-detroit-after.json](./199123-the-detroit-after.json) |
+| The Dev Can't Beat This | 180903 | [180903-the-dev-cant-beat-this.json](./180903-the-dev-cant-beat-this.json) |
 | The Dev: Enter The Blockchain | 372075 | [372075-the-dev-enter-the-blockchain.json](./372075-the-dev-enter-the-blockchain.json) |
 | The DeviantArt Grind | 369464 | [369464-the-deviantart-grind.json](./369464-the-deviantart-grind.json) |
 | The Devil | 177806 | [177806-the-devil.json](./177806-the-devil.json) |
@@ -14946,6 +14947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Picture of Cafe au Lait | 248442 | [248442-the-picture-of-cafe-au-lait.json](./248442-the-picture-of-cafe-au-lait.json) |
 | The Piece | 276812 | [276812-the-piece.json](./276812-the-piece.json) |
 | The Pig Cow: Horizons of the New Valley | 362189 | [362189-the-pig-cow-horizons-of-the-new-valley.json](./362189-the-pig-cow-horizons-of-the-new-valley.json) |
+| The Pig D | 180895 | [180895-the-pig-d.json](./180895-the-pig-d.json) |
 | The Pig D: Deluxe Edition | 225960 | [225960-the-pig-d-deluxe-edition.json](./225960-the-pig-d-deluxe-edition.json) |
 | The Pig Quiz | 213089 | [213089-the-pig-quiz.json](./213089-the-pig-quiz.json) |
 | The Pig: Money Is Time | 186183 | [186183-the-pig-money-is-time.json](./186183-the-pig-money-is-time.json) |
@@ -17494,6 +17496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tale of Relm | 333396 | [333396-the-tale-of-relm.json](./333396-the-tale-of-relm.json) |
 | The Tale of Spring City | 391004 | [391004-the-tale-of-spring-city.json](./391004-the-tale-of-spring-city.json) |
 | The Tale of the ADHD Dinosaur | 179621 | [179621-the-tale-of-the-adhd-dinosaur.json](./179621-the-tale-of-the-adhd-dinosaur.json) |
+| The Tale of the Greenhouse | 180912 | [180912-the-tale-of-the-greenhouse.json](./180912-the-tale-of-the-greenhouse.json) |
 | The Tale of Treasonous Tom | 207752 | [207752-the-tale-of-treasonous-tom.json](./207752-the-tale-of-treasonous-tom.json) |
 | The Tale of Two Nekos | 310201 | [310201-the-tale-of-two-nekos.json](./310201-the-tale-of-two-nekos.json) |
 | The Tales of Bayun | 200111 | [200111-the-tales-of-bayun.json](./200111-the-tales-of-bayun.json) |
@@ -30942,6 +30945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trifling | 315531 | [315531-trifling.json](./315531-trifling.json) |
 | Trifoil | 312574 | [312574-trifoil.json](./312574-trifoil.json) |
 | Trifolium: The Adventures of Gary Pretzelneck | 345793 | [345793-trifolium-the-adventures-of-gary-pretzelneck.json](./345793-trifolium-the-adventures-of-gary-pretzelneck.json) |
+| Triforce: The Topologies of Zelda | 180897 | [180897-triforce-the-topologies-of-zelda.json](./180897-triforce-the-topologies-of-zelda.json) |
 | TriFute | 260278 | [260278-trifute.json](./260278-trifute.json) |
 | Triga | 199652 | [199652-triga.json](./199652-triga.json) |
 | Trigaea | 227914 | [227914-trigaea.json](./227914-trigaea.json) |
