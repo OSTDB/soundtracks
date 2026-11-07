@@ -8964,6 +8964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinnabar Nights | 314682 | [314682-cinnabar-nights.json](./314682-cinnabar-nights.json) |
 | Cinnabunny | 295008 | [295008-cinnabunny.json](./295008-cinnabunny.json) |
 | Cinnamon Ball: Kuru-kuru Sweets Paradise | 123299 | [123299-cinnamon-ball-kuru-kuru-sweets-paradise.json](./123299-cinnamon-ball-kuru-kuru-sweets-paradise.json) |
+| Cinnamon fight | 150298 | [150298-cinnamon-fight.json](./150298-cinnamon-fight.json) |
 | Cinnamon Tea | 57513 | [57513-cinnamon-tea.json](./57513-cinnamon-tea.json) |
 | Cinnamon: Yume no Daibouken | 49558 | [49558-cinnamon-yume-no-daibouken.json](./49558-cinnamon-yume-no-daibouken.json) |
 | Cinnamoroll: Cafe Cinnamon de o-Tetsudai | 327568 | [327568-cinnamoroll-cafe-cinnamon-de-o-tetsudai.json](./327568-cinnamoroll-cafe-cinnamon-de-o-tetsudai.json) |
@@ -20692,6 +20693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Protocol + Clumsy Rush + Brawl Chess | 215558 | [215558-cyber-protocol-clumsy-rush-brawl-chess.json](./215558-cyber-protocol-clumsy-rush-brawl-chess.json) |
 | Cyber Protocol Prologue | 213340 | [213340-cyber-protocol-prologue.json](./213340-cyber-protocol-prologue.json) |
 | Cyber Protocol: Retro Arcade | 219467 | [219467-cyber-protocol-retro-arcade.json](./219467-cyber-protocol-retro-arcade.json) |
+| Cyber Psychosis | 150301 | [150301-cyber-psychosis.json](./150301-cyber-psychosis.json) |
 | Cyber Puncake | 276680 | [276680-cyber-puncake.json](./276680-cyber-puncake.json) |
 | Cyber Quest | 318464 | [318464-cyber-quest.json](./318464-cyber-quest.json) |
 | Cyber Racer | 120151 | [120151-cyber-racer.json](./120151-cyber-racer.json) |
@@ -20959,6 +20961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk Samurai VR | 192003 | [192003-cyberpunk-samurai-vr.json](./192003-cyberpunk-samurai-vr.json) |
 | Cyberpunk Sex | 277366 | [277366-cyberpunk-sex.json](./277366-cyberpunk-sex.json) |
 | CyberPunk Sex Tower | 171604 | [171604-cyberpunk-sex-tower.json](./171604-cyberpunk-sex-tower.json) |
+| Cyberpunk SFX | 150294 | [150294-cyberpunk-sfx.json](./150294-cyberpunk-sfx.json) |
 | Cyberpunk Speed Assassin | 315905 | [315905-cyberpunk-speed-assassin.json](./315905-cyberpunk-speed-assassin.json) |
 | Cyberpunk Women for Cyberpunk Sex | 288246 | [288246-cyberpunk-women-for-cyberpunk-sex.json](./288246-cyberpunk-women-for-cyberpunk-sex.json) |
 | Cyberpunk Women for Fuck in Police | 294085 | [294085-cyberpunk-women-for-fuck-in-police.json](./294085-cyberpunk-women-for-fuck-in-police.json) |
