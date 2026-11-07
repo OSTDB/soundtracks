@@ -2027,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unearned Bounty | 25715 | [25715-unearned-bounty.json](./25715-unearned-bounty.json) |
 | Unearth | 255974 | [255974-unearth.json](./255974-unearth.json) |
 | Unearth Your Gays | 179880 | [179880-unearth-your-gays.json](./179880-unearth-your-gays.json) |
+| Unearthed | 179795 | [179795-unearthed.json](./179795-unearthed.json) |
 | Unearthed | 323765 | [323765-unearthed.json](./323765-unearthed.json) |
 | Unearthed | 75400 | [75400-unearthed.json](./75400-unearthed.json) |
 | Unearthed Arsenal | 80237 | [80237-unearthed-arsenal.json](./80237-unearthed-arsenal.json) |
@@ -3021,6 +3022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Untrue New World | 164858 | [164858-untrue-new-world.json](./164858-untrue-new-world.json) |
 | Untrusted | 133237 | [133237-untrusted.json](./133237-untrusted.json) |
 | Untrusted: Hackers at Large | 264532 | [264532-untrusted-hackers-at-large.json](./264532-untrusted-hackers-at-large.json) |
+| Untrusted: Web of Cybercrime | 179807 | [179807-untrusted-web-of-cybercrime.json](./179807-untrusted-web-of-cybercrime.json) |
 | Unturned | 7878 | [7878-unturned.json](./7878-unturned.json) |
 | Unusual and Not Safe Experiments | 368488 | [368488-unusual-and-not-safe-experiments.json](./368488-unusual-and-not-safe-experiments.json) |
 | Unusual End | 348981 | [348981-unusual-end.json](./348981-unusual-end.json) |
