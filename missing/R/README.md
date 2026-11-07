@@ -687,6 +687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radio Ball 3D | 248407 | [248407-radio-ball-3d.json](./248407-radio-ball-3d.json) |
 | Radio Cars | 275682 | [275682-radio-cars.json](./275682-radio-cars.json) |
 | Radio Commander | 107875 | [107875-radio-commander.json](./107875-radio-commander.json) |
+| Radio Commander VR | 149123 | [149123-radio-commander-vr.json](./149123-radio-commander-vr.json) |
 | Radio Commander: Battle of Britain ’40 | 418701 | [418701-radio-commander-battle-of-britain-40.json](./418701-radio-commander-battle-of-britain-40.json) |
 | Radio Commander: Complete Edition | 154538 | [154538-radio-commander-complete-edition.json](./154538-radio-commander-complete-edition.json) |
 | Radio Commander: Pacific '41 | 212140 | [212140-radio-commander-pacific-41.json](./212140-radio-commander-pacific-41.json) |
