@@ -1326,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetix Puzzle Buzzle | 56233 | [56233-jetix-puzzle-buzzle.json](./56233-jetix-puzzle-buzzle.json) |
 | Jetlad | 117786 | [117786-jetlad.json](./117786-jetlad.json) |
 | Jetman | 92852 | [92852-jetman.json](./92852-jetman.json) |
+| Jetman Fly Adventure | 169549 | [169549-jetman-fly-adventure.json](./169549-jetman-fly-adventure.json) |
 | JetMan Galactic | 241874 | [241874-jetman-galactic.json](./241874-jetman-galactic.json) |
 | Jetman Hero: Jetpack Shooter | 223553 | [223553-jetman-hero-jetpack-shooter.json](./223553-jetman-hero-jetpack-shooter.json) |
 | JetmanGo | 68467 | [68467-jetmango.json](./68467-jetmango.json) |
