@@ -1683,6 +1683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Very Normal Rail Game | 392597 | [392597-very-normal-rail-game.json](./392597-very-normal-rail-game.json) |
 | Very Pink Game | 151580 | [151580-very-pink-game.json](./151580-very-pink-game.json) |
 | Very Real Chess | 31371 | [31371-very-real-chess.json](./31371-very-real-chess.json) |
+| Very Retrouvaille | 142584 | [142584-very-retrouvaille.json](./142584-very-retrouvaille.json) |
 | Very Safe Dino Park | 408586 | [408586-very-safe-dino-park.json](./408586-very-safe-dino-park.json) |
 | Very Scary Backrooms Game | 274336 | [274336-very-scary-backrooms-game.json](./274336-very-scary-backrooms-game.json) |
 | Very Scary Game | 420657 | [420657-very-scary-game.json](./420657-very-scary-game.json) |
