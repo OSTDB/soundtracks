@@ -2385,6 +2385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Bard | 293971 | [293971-card-bard.json](./293971-card-bard.json) |
 | Card Battle Simulator | 268312 | [268312-card-battle-simulator.json](./268312-card-battle-simulator.json) |
 | Card Battle Spirit Link | 107742 | [107742-card-battle-spirit-link.json](./107742-card-battle-spirit-link.json) |
+| Card Battle Spirit Link: Mini Expansion 1 | 169528 | [169528-card-battle-spirit-link-mini-expansion-1.json](./169528-card-battle-spirit-link-mini-expansion-1.json) |
 | Card Blast | 204966 | [204966-card-blast.json](./204966-card-blast.json) |
 | Card Blitz: WWII | 133235 | [133235-card-blitz-wwii.json](./133235-card-blitz-wwii.json) |
 | Card Brawl | 113712 | [113712-card-brawl.json](./113712-card-brawl.json) |
@@ -9973,6 +9974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Journey: Nitro | 219175 | [219175-classic-journey-nitro.json](./219175-classic-journey-nitro.json) |
 | Classic Kakuro | 206972 | [206972-classic-kakuro.json](./206972-classic-kakuro.json) |
 | Classic Kong | 134306 | [134306-classic-kong.json](./134306-classic-kong.json) |
+| Classic Logical Bundle | 169545 | [169545-classic-logical-bundle.json](./169545-classic-logical-bundle.json) |
 | Classic Mario World 2: The Great Alliance | 260812 | [260812-classic-mario-world-2-the-great-alliance.json](./260812-classic-mario-world-2-the-great-alliance.json) |
 | Classic Mario World 3: The Finale | 260813 | [260813-classic-mario-world-3-the-finale.json](./260813-classic-mario-world-3-the-finale.json) |
 | Classic Mario World: The Magic Crystals | 191909 | [191909-classic-mario-world-the-magic-crystals.json](./191909-classic-mario-world-the-magic-crystals.json) |
@@ -16868,6 +16870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Cursed Grandma's House | 272393 | [272393-crazy-cursed-grandmas-house.json](./272393-crazy-cursed-grandmas-house.json) |
 | Crazy Defense Heroes | 95092 | [95092-crazy-defense-heroes.json](./95092-crazy-defense-heroes.json) |
 | Crazy Demolition Derby Car 2022 | 220827 | [220827-crazy-demolition-derby-car-2022.json](./220827-crazy-demolition-derby-car-2022.json) |
+| Crazy Derby Racing | 169522 | [169522-crazy-derby-racing.json](./169522-crazy-derby-racing.json) |
 | Crazy Designer | 239789 | [239789-crazy-designer.json](./239789-crazy-designer.json) |
 | Crazy Dessert Maker | 98928 | [98928-crazy-dessert-maker.json](./98928-crazy-dessert-maker.json) |
 | Crazy Digger | 407508 | [407508-crazy-digger.json](./407508-crazy-digger.json) |
