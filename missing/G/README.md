@@ -4973,6 +4973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glimmer | 381053 | [381053-glimmer.json](./381053-glimmer.json) |
 | Glimmer and the Dark Halloween Pumpkin | 323105 | [323105-glimmer-and-the-dark-halloween-pumpkin.json](./323105-glimmer-and-the-dark-halloween-pumpkin.json) |
 | Glimmer Chain | 239727 | [239727-glimmer-chain.json](./239727-glimmer-chain.json) |
+| Glimmer in Mirror | 139576 | [139576-glimmer-in-mirror.json](./139576-glimmer-in-mirror.json) |
 | Glimmerati | 6263 | [6263-glimmerati.json](./6263-glimmerati.json) |
 | Glimmers of the Past | 409774 | [409774-glimmers-of-the-past.json](./409774-glimmers-of-the-past.json) |
 | Glimpo | 414380 | [414380-glimpo.json](./414380-glimpo.json) |
@@ -11638,6 +11639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gym Simulator 24 | 263793 | [263793-gym-simulator-24.json](./263793-gym-simulator-24.json) |
 | Gym Simulator 26 | 397070 | [397070-gym-simulator-26.json](./397070-gym-simulator-26.json) |
 | Gym Simulator Ultimate | 312441 | [312441-gym-simulator-ultimate.json](./312441-gym-simulator-ultimate.json) |
+| Gym Tycoon | 139532 | [139532-gym-tycoon.json](./139532-gym-tycoon.json) |
 | GymBeasts | 194836 | [194836-gymbeasts.json](./194836-gymbeasts.json) |
 | GymBro | 309954 | [309954-gymbro.json](./309954-gymbro.json) |
 | Gymnastics Girl | 90349 | [90349-gymnastics-girl.json](./90349-gymnastics-girl.json) |
