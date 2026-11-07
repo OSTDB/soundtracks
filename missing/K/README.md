@@ -4612,6 +4612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knightcore Kingdom | 227514 | [227514-knightcore-kingdom.json](./227514-knightcore-kingdom.json) |
 | Knightcore Universal | 188257 | [188257-knightcore-universal.json](./188257-knightcore-universal.json) |
 | Knightczech: The beginning | 145446 | [145446-knightczech-the-beginning.json](./145446-knightczech-the-beginning.json) |
+| Knighted | 148079 | [148079-knighted.json](./148079-knighted.json) |
 | Knightess | 262943 | [262943-knightess.json](./262943-knightess.json) |
 | Knightess Layla: The Humiliating Life of a Seed Bed | 82687 | [82687-knightess-layla-the-humiliating-life-of-a-seed-bed.json](./82687-knightess-layla-the-humiliating-life-of-a-seed-bed.json) |
 | Knightess Leticia | 82685 | [82685-knightess-leticia.json](./82685-knightess-leticia.json) |
