@@ -8381,6 +8381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Slasherman | 176656 | [176656-extreme-slasherman.json](./176656-extreme-slasherman.json) |
 | Extreme Snow Break | 43791 | [43791-extreme-snow-break.json](./43791-extreme-snow-break.json) |
 | Extreme Snowboard | 228110 | [228110-extreme-snowboard.json](./228110-extreme-snowboard.json) |
+| Extreme Soccer | 143208 | [143208-extreme-soccer.json](./143208-extreme-soccer.json) |
 | Extreme Social Distancing | 163761 | [163761-extreme-social-distancing.json](./163761-extreme-social-distancing.json) |
 | Extreme Speed Bundle: Go! Fish Go! Adrenaline Rush, Jet Ski Rush | 196823 | [196823-extreme-speed-bundle-go-fish-go-adrenaline-rush-jet-ski-rush.json](./196823-extreme-speed-bundle-go-fish-go-adrenaline-rush-jet-ski-rush.json) |
 | Extreme Sports with the Berenstain Bears | 49932 | [49932-extreme-sports-with-the-berenstain-bears.json](./49932-extreme-sports-with-the-berenstain-bears.json) |
