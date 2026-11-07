@@ -7938,6 +7938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Ridelle | 235406 | [235406-detective-ridelle.json](./235406-detective-ridelle.json) |
 | Detective Ridley and the Mysterious Enigma | 239465 | [239465-detective-ridley-and-the-mysterious-enigma.json](./239465-detective-ridley-and-the-mysterious-enigma.json) |
 | Detective Rosie Morgan: Death at a Dinner Party | 236827 | [236827-detective-rosie-morgan-death-at-a-dinner-party.json](./236827-detective-rosie-morgan-death-at-a-dinner-party.json) |
+| Detective Rosie Morgan: Murder on the River Thames | 147556 | [147556-detective-rosie-morgan-murder-on-the-river-thames.json](./147556-detective-rosie-morgan-murder-on-the-river-thames.json) |
 | Detective Ross: Episode 1 - A PI in Paris | 418435 | [418435-detective-ross-episode-1-a-pi-in-paris.json](./418435-detective-ross-episode-1-a-pi-in-paris.json) |
 | Detective S | 159089 | [159089-detective-s.json](./159089-detective-s.json) |
 | Detective S. Harkins | 184820 | [184820-detective-s-harkins.json](./184820-detective-s-harkins.json) |
@@ -15801,6 +15802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw in the Tray | 380627 | [380627-draw-in-the-tray.json](./380627-draw-in-the-tray.json) |
 | Draw it | 415304 | [415304-draw-it.json](./415304-draw-it.json) |
 | Draw It! | 99473 | [99473-draw-it.json](./99473-draw-it.json) |
+| Draw IT! | 147541 | [147541-draw-it.json](./147541-draw-it.json) |
 | Draw It! 2 | 107753 | [107753-draw-it-2.json](./107753-draw-it-2.json) |
 | Draw King | 388068 | [388068-draw-king.json](./388068-draw-king.json) |
 | Draw li | 322427 | [322427-draw-li.json](./322427-draw-li.json) |
