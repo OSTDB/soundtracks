@@ -7966,6 +7966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Driver Championship | 3642 | [3642-world-driver-championship.json](./3642-world-driver-championship.json) |
 | World Eater | 367531 | [367531-world-eater.json](./367531-world-eater.json) |
 | World Election | 143515 | [143515-world-election.json](./143515-world-election.json) |
+| World Empire 2027 | 190773 | [190773-world-empire-2027.json](./190773-world-empire-2027.json) |
 | World Empire III | 79578 | [79578-world-empire-iii.json](./79578-world-empire-iii.json) |
 | World Empire IV | 73753 | [73753-world-empire-iv.json](./73753-world-empire-iv.json) |
 | World End | 40746 | [40746-world-end.json](./40746-world-end.json) |
@@ -9104,6 +9105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Writer Rumble | 92514 | [92514-writer-rumble.json](./92514-writer-rumble.json) |
 | Writer Tycoon | 346580 | [346580-writer-tycoon.json](./346580-writer-tycoon.json) |
 | Writer: Chapter 1 | 327616 | [327616-writer-chapter-1.json](./327616-writer-chapter-1.json) |
+| Writer's Block | 190795 | [190795-writers-block.json](./190795-writers-block.json) |
 | Writer's Block | 391020 | [391020-writers-block.json](./391020-writers-block.json) |
 | Writer's Block | 80234 | [80234-writers-block.json](./80234-writers-block.json) |
 | Writers | 75105 | [75105-writers.json](./75105-writers.json) |
