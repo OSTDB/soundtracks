@@ -6833,8 +6833,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Cartographer | 374594 | [374594-alien-cartographer.json](./374594-alien-cartographer.json) |
 | Alien Caseno | 26571 | [26571-alien-caseno.json](./26571-alien-caseno.json) |
 | Alien Cat | 130159 | [130159-alien-cat.json](./130159-alien-cat.json) |
+| Alien Cat 2 | 157291 | [157291-alien-cat-2.json](./157291-alien-cat-2.json) |
 | Alien Cat 2: Retro Collection | 405912 | [405912-alien-cat-2-retro-collection.json](./405912-alien-cat-2-retro-collection.json) |
 | Alien Cat 3 | 169493 | [169493-alien-cat-3.json](./169493-alien-cat-3.json) |
+| Alien Cat 4 | 157268 | [157268-alien-cat-4.json](./157268-alien-cat-4.json) |
 | Alien Cat 5 | 158658 | [158658-alien-cat-5.json](./158658-alien-cat-5.json) |
 | Alien Cat 6 | 157475 | [157475-alien-cat-6.json](./157475-alien-cat-6.json) |
 | Alien Cat 7 | 151391 | [151391-alien-cat-7.json](./151391-alien-cat-7.json) |
@@ -7887,6 +7889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlphaBlue | 219992 | [219992-alphablue.json](./219992-alphablue.json) |
 | AlphaBounce | 66781 | [66781-alphabounce.json](./66781-alphabounce.json) |
 | Alphacity | 270722 | [270722-alphacity.json](./270722-alphacity.json) |
+| Alphadeck | 157270 | [157270-alphadeck.json](./157270-alphadeck.json) |
 | Alphadia | 19872 | [19872-alphadia.json](./19872-alphadia.json) |
 | Alphadia 2 | 38964 | [38964-alphadia-2.json](./38964-alphadia-2.json) |
 | Alphadia F | 423385 | [423385-alphadia-f.json](./423385-alphadia-f.json) |
@@ -9247,6 +9250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anatidae | 149472 | [149472-anatidae.json](./149472-anatidae.json) |
 | Anatomic Man | 11900 | [11900-anatomic-man.json](./11900-anatomic-man.json) |
 | Anatomy | 57353 | [57353-anatomy.json](./57353-anatomy.json) |
+| Anatomy of Fear | 157258 | [157258-anatomy-of-fear.json](./157258-anatomy-of-fear.json) |
 | Anatomy of the Terrible | 347741 | [347741-anatomy-of-the-terrible.json](./347741-anatomy-of-the-terrible.json) |
 | Anaza Aku Yatsu: Another World | 67353 | [67353-anaza-aku-yatsu-another-world.json](./67353-anaza-aku-yatsu-another-world.json) |
 | Anaza: Kaleidoscope Special | 47537 | [47537-anaza-kaleidoscope-special.json](./47537-anaza-kaleidoscope-special.json) |
@@ -9909,6 +9913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Piggies Space | 281332 | [281332-angry-piggies-space.json](./281332-angry-piggies-space.json) |
 | Angry Pigs | 194980 | [194980-angry-pigs.json](./194980-angry-pigs.json) |
 | Angry Punisher | 113288 | [113288-angry-punisher.json](./113288-angry-punisher.json) |
+| Angry Putin | 157308 | [157308-angry-putin.json](./157308-angry-putin.json) |
 | Angry Robot Girlfriend | 290508 | [290508-angry-robot-girlfriend.json](./290508-angry-robot-girlfriend.json) |
 | Angry Rock | 171448 | [171448-angry-rock.json](./171448-angry-rock.json) |
 | Angry Rocketeer Frenzy | 190018 | [190018-angry-rocketeer-frenzy.json](./190018-angry-rocketeer-frenzy.json) |
@@ -13624,6 +13629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArenaWar | 275109 | [275109-arenawar.json](./275109-arenawar.json) |
 | Arengius | 132653 | [132653-arengius.json](./132653-arengius.json) |
 | Arenion | 303674 | [303674-arenion.json](./303674-arenion.json) |
+| Arenix | 157282 | [157282-arenix.json](./157282-arenix.json) |
 | Arenum | 324897 | [324897-arenum.json](./324897-arenum.json) |
 | Ares | 287446 | [287446-ares.json](./287446-ares.json) |
 | Ares | 343693 | [343693-ares.json](./343693-ares.json) |
@@ -16820,6 +16826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
