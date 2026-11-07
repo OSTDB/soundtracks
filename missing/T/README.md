@@ -10690,6 +10690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hero We Need | 159023 | [159023-the-hero-we-need.json](./159023-the-hero-we-need.json) |
 | The Hero with a Thousand Arms | 242399 | [242399-the-hero-with-a-thousand-arms.json](./242399-the-hero-with-a-thousand-arms.json) |
 | The Hero's After-Ending | 180380 | [180380-the-heros-after-ending.json](./180380-the-heros-after-ending.json) |
+| The Hero's Journey | 178722 | [178722-the-heros-journey.json](./178722-the-heros-journey.json) |
 | The Hero's Journey Through Time | 236466 | [236466-the-heros-journey-through-time.json](./236466-the-heros-journey-through-time.json) |
 | The Hero's Way | 248079 | [248079-the-heros-way.json](./248079-the-heros-way.json) |
 | The Herobrine Mod | 232684 | [232684-the-herobrine-mod.json](./232684-the-herobrine-mod.json) |
@@ -10904,6 +10905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The House on Holland Hill | 134886 | [134886-the-house-on-holland-hill.json](./134886-the-house-on-holland-hill.json) |
 | The House on Ninth Avenue | 260625 | [260625-the-house-on-ninth-avenue.json](./260625-the-house-on-ninth-avenue.json) |
 | The House on the Hill | 387555 | [387555-the-house-on-the-hill.json](./387555-the-house-on-the-hill.json) |
+| The House on the Left | 178731 | [178731-the-house-on-the-left.json](./178731-the-house-on-the-left.json) |
 | The House Remembers | 372752 | [372752-the-house-remembers.json](./372752-the-house-remembers.json) |
 | The House Sitter's 5 Nights | 344270 | [344270-the-house-sitters-5-nights.json](./344270-the-house-sitters-5-nights.json) |
 | The House Swich Places | 180463 | [180463-the-house-swich-places.json](./180463-the-house-swich-places.json) |
@@ -11867,6 +11869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lady Knight and The Three Princes | 349797 | [349797-the-lady-knight-and-the-three-princes.json](./349797-the-lady-knight-and-the-three-princes.json) |
 | The Lady Puppet | 148385 | [148385-the-lady-puppet.json](./148385-the-lady-puppet.json) |
 | The Lady, The Mage, & The Knight | 317560 | [317560-the-lady-the-mage-and-the-knight.json](./317560-the-lady-the-mage-and-the-knight.json) |
+| The Lady's Choice | 178747 | [178747-the-ladys-choice.json](./178747-the-ladys-choice.json) |
 | The Lair of DOOMestic Animals | 271487 | [271487-the-lair-of-doomestic-animals.json](./271487-the-lair-of-doomestic-animals.json) |
 | The Lair of Nekro Neko | 307695 | [307695-the-lair-of-nekro-neko.json](./307695-the-lair-of-nekro-neko.json) |
 | The Lake House: Children of Silence | 54299 | [54299-the-lake-house-children-of-silence.json](./54299-the-lake-house-children-of-silence.json) |
@@ -17808,6 +17811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tiny Train Driver | 179591 | [179591-the-tiny-train-driver.json](./179591-the-tiny-train-driver.json) |
 | The Tipping Point | 286961 | [286961-the-tipping-point.json](./286961-the-tipping-point.json) |
 | The Titan's Grave | 141032 | [141032-the-titans-grave.json](./141032-the-titans-grave.json) |
+| The Tithe | 178737 | [178737-the-tithe.json](./178737-the-tithe.json) |
 | The Titty-Fucking Hot Spring Ryokan Ghost | 385827 | [385827-the-titty-fucking-hot-spring-ryokan-ghost.json](./385827-the-titty-fucking-hot-spring-ryokan-ghost.json) |
 | The Toho Datsui Hanafuda | 95157 | [95157-the-toho-datsui-hanafuda.json](./95157-the-toho-datsui-hanafuda.json) |
 | The toilet zone | 395962 | [395962-the-toilet-zone.json](./395962-the-toilet-zone.json) |
@@ -20474,6 +20478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdoms: Zhuge Liang | 311712 | [311712-three-kingdoms-zhuge-liang.json](./311712-three-kingdoms-zhuge-liang.json) |
 | Three Legions: Erosion of the Abyss | 346569 | [346569-three-legions-erosion-of-the-abyss.json](./346569-three-legions-erosion-of-the-abyss.json) |
 | Three Lesbians in a Barrow | 134524 | [134524-three-lesbians-in-a-barrow.json](./134524-three-lesbians-in-a-barrow.json) |
+| Three Lesbians in a Winter Special | 178719 | [178719-three-lesbians-in-a-winter-special.json](./178719-three-lesbians-in-a-winter-special.json) |
 | Three life | 106399 | [106399-three-life.json](./106399-three-life.json) |
 | Three Lilies and Their Ghost Stories | 240016 | [240016-three-lilies-and-their-ghost-stories.json](./240016-three-lilies-and-their-ghost-stories.json) |
 | Three Lions | 249151 | [249151-three-lions.json](./249151-three-lions.json) |
@@ -26343,6 +26348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch Rummy HD | 96539 | [96539-touch-rummy-hd.json](./96539-touch-rummy-hd.json) |
 | Touch Screen Backgammon | 280661 | [280661-touch-screen-backgammon.json](./280661-touch-screen-backgammon.json) |
 | Touch Selections | 57058 | [57058-touch-selections.json](./57058-touch-selections.json) |
+| Touch Shark | 178734 | [178734-touch-shark.json](./178734-touch-shark.json) |
 | Touch Solitaire | 78757 | [78757-touch-solitaire.json](./78757-touch-solitaire.json) |
 | Touch Some Grass | 195146 | [195146-touch-some-grass.json](./195146-touch-some-grass.json) |
 | Touch Sudoku | 259416 | [259416-touch-sudoku.json](./259416-touch-sudoku.json) |
