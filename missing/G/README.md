@@ -2604,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekko and Luna Girl's Moths | 359430 | [359430-gekko-and-luna-girls-moths.json](./359430-gekko-and-luna-girls-moths.json) |
 | Gekko Episode of Yurihime | 340296 | [340296-gekko-episode-of-yurihime.json](./340296-gekko-episode-of-yurihime.json) |
 | Gekko: Episode of Amelia | 243564 | [243564-gekko-episode-of-amelia.json](./243564-gekko-episode-of-amelia.json) |
+| Gekko: Episode of Minato | 188215 | [188215-gekko-episode-of-minato.json](./188215-gekko-episode-of-minato.json) |
 | Gekko's Super Strength | 359431 | [359431-gekkos-super-strength.json](./359431-gekkos-super-strength.json) |
 | Gekkou no Carnevale | 137102 | [137102-gekkou-no-carnevale.json](./137102-gekkou-no-carnevale.json) |
 | Geko: Entering The Pipe | 239757 | [239757-geko-entering-the-pipe.json](./239757-geko-entering-the-pipe.json) |
@@ -7903,6 +7904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Monster Slam | 12123 | [12123-grand-monster-slam.json](./12123-grand-monster-slam.json) |
 | Grand Mountain Adventure | 112144 | [112144-grand-mountain-adventure.json](./112144-grand-mountain-adventure.json) |
 | Grand Mountain Adventure 2 | 324130 | [324130-grand-mountain-adventure-2.json](./324130-grand-mountain-adventure-2.json) |
+| Grand Mountain Adventure: Wonderlands - Limited Edition | 188166 | [188166-grand-mountain-adventure-wonderlands-limited-edition.json](./188166-grand-mountain-adventure-wonderlands-limited-edition.json) |
 | Grand National | 94329 | [94329-grand-national.json](./94329-grand-national.json) |
 | Grand Ore Deal | 260103 | [260103-grand-ore-deal.json](./260103-grand-ore-deal.json) |
 | Grand Piano Keys | 200552 | [200552-grand-piano-keys.json](./200552-grand-piano-keys.json) |
