@@ -3252,6 +3252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Healer's Quest | 29380 | [29380-healers-quest.json](./29380-healers-quest.json) |
 | Healer's Quest: Pocket Wand | 197759 | [197759-healers-quest-pocket-wand.json](./197759-healers-quest-pocket-wand.json) |
 | Healer's Yell | 374038 | [374038-healers-yell.json](./374038-healers-yell.json) |
+| Healing Animal | 149663 | [149663-healing-animal.json](./149663-healing-animal.json) |
 | Healing Days: Toshi no Sa Kanojo to no Ama Ama Seikatsu | 402719 | [402719-healing-days-toshi-no-sa-kanojo-to-no-ama-ama-seikatsu.json](./402719-healing-days-toshi-no-sa-kanojo-to-no-ama-ama-seikatsu.json) |
 | Healing Hearts | 337702 | [337702-healing-hearts.json](./337702-healing-hearts.json) |
 | Healing Simulator | 195000 | [195000-healing-simulator.json](./195000-healing-simulator.json) |
@@ -11769,6 +11770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Human or Not | 212126 | [212126-human-or-not.json](./212126-human-or-not.json) |
 | Human or Not? | 251534 | [251534-human-or-not.json](./251534-human-or-not.json) |
 | Human or Virus | 142263 | [142263-human-or-virus.json](./142263-human-or-virus.json) |
+| Human Origin | 149764 | [149764-human-origin.json](./149764-human-origin.json) |
 | Human Parking Simulator | 363063 | [363063-human-parking-simulator.json](./363063-human-parking-simulator.json) |
 | Human Phobia | 273812 | [273812-human-phobia.json](./273812-human-phobia.json) |
 | Human Pinball: Iceage | 116084 | [116084-human-pinball-iceage.json](./116084-human-pinball-iceage.json) |
