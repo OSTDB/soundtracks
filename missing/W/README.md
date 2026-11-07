@@ -1301,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warforged | 114193 | [114193-warforged.json](./114193-warforged.json) |
 | Warfork | 121290 | [121290-warfork.json](./121290-warfork.json) |
 | WarForwards | 119531 | [119531-warforwards.json](./119531-warforwards.json) |
+| Warframe Mobile | 174982 | [174982-warframe-mobile.json](./174982-warframe-mobile.json) |
 | Warframe: 1999 | 263563 | [263563-warframe-1999.json](./263563-warframe-1999.json) |
 | Warframe: Abyss of Dagath | 263531 | [263531-warframe-abyss-of-dagath.json](./263531-warframe-abyss-of-dagath.json) |
 | Warframe: Angels of the Zariman | 198689 | [198689-warframe-angels-of-the-zariman.json](./198689-warframe-angels-of-the-zariman.json) |
@@ -6018,6 +6019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Falling: Survival Strategy | 176591 | [176591-winter-falling-survival-strategy.json](./176591-winter-falling-survival-strategy.json) |
 | Winter Fox | 177762 | [177762-winter-fox.json](./177762-winter-fox.json) |
 | Winter Fragments | 285045 | [285045-winter-fragments.json](./285045-winter-fragments.json) |
+| Winter Fruit Mania | 174962 | [174962-winter-fruit-mania.json](./174962-winter-fruit-mania.json) |
 | Winter Games | 12268 | [12268-winter-games.json](./12268-winter-games.json) |
 | Winter Games | 281634 | [281634-winter-games.json](./281634-winter-games.json) |
 | Winter Games | 281636 | [281636-winter-games.json](./281636-winter-games.json) |
@@ -8244,6 +8246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Subways: Volume 2 - U7 Berlin | 17999 | [17999-world-of-subways-volume-2-u7-berlin.json](./17999-world-of-subways-volume-2-u7-berlin.json) |
 | World of Subways: Volume 3 - London Underground Circle Line | 18000 | [18000-world-of-subways-volume-3-london-underground-circle-line.json](./18000-world-of-subways-volume-3-london-underground-circle-line.json) |
 | World of Subways: Volume 4 - New York Line 7 | 18001 | [18001-world-of-subways-volume-4-new-york-line-7.json](./18001-world-of-subways-volume-4-new-york-line-7.json) |
+| World of Sword 2 | 174985 | [174985-world-of-sword-2.json](./174985-world-of-sword-2.json) |
 | World of Sword 3 | 174527 | [174527-world-of-sword-3.json](./174527-world-of-sword-3.json) |
 | World of Talesworth: Idle MMO Simulator | 212897 | [212897-world-of-talesworth-idle-mmo-simulator.json](./212897-world-of-talesworth-idle-mmo-simulator.json) |
 | World of Tanks - Panther/M10 Pack (VII German Medium Tank) | 398326 | [398326-world-of-tanks-panther-m10-pack-vii-german-medium-tank.json](./398326-world-of-tanks-panther-m10-pack-vii-german-medium-tank.json) |
