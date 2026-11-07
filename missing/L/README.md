@@ -1495,6 +1495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Rites | 71124 | [71124-last-rites.json](./71124-last-rites.json) |
 | Last Rites 1347 | 323574 | [323574-last-rites-1347.json](./323574-last-rites-1347.json) |
 | Last Rollbug | 319613 | [319613-last-rollbug.json](./319613-last-rollbug.json) |
+| Last Room | 150804 | [150804-last-room.json](./150804-last-room.json) |
 | Last Rose | 125800 | [125800-last-rose.json](./125800-last-rose.json) |
 | Last Round | 260522 | [260522-last-round.json](./260522-last-round.json) |
 | Last Round at the End of the World | 404087 | [404087-last-round-at-the-end-of-the-world.json](./404087-last-round-at-the-end-of-the-world.json) |
@@ -7433,6 +7434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lontra-Metragem | 237326 | [237326-lontra-metragem.json](./237326-lontra-metragem.json) |
 | Loofy | 157010 | [157010-loofy.json](./157010-loofy.json) |
 | Look / Don't | 419599 | [419599-look-dont.json](./419599-look-dont.json) |
+| Look Alive | 150817 | [150817-look-alive.json](./150817-look-alive.json) |
 | Look and Find: Curiosity | 170297 | [170297-look-and-find-curiosity.json](./170297-look-and-find-curiosity.json) |
 | Look and Find: Elmo on Sesame Street | 88402 | [88402-look-and-find-elmo-on-sesame-street.json](./88402-look-and-find-elmo-on-sesame-street.json) |
 | Look and Guess a Word! | 108198 | [108198-look-and-guess-a-word.json](./108198-look-and-guess-a-word.json) |
@@ -9160,6 +9162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovely x Cation | 135501 | [135501-lovely-x-cation.json](./135501-lovely-x-cation.json) |
 | Lovely x Cation 1 & 2 | 79306 | [79306-lovely-x-cation-1-and-2.json](./79306-lovely-x-cation-1-and-2.json) |
 | Lovelydoll/Wildmachine | 188559 | [188559-lovelydoll-wildmachine.json](./188559-lovelydoll-wildmachine.json) |
+| Lovengrad | 150809 | [150809-lovengrad.json](./150809-lovengrad.json) |
 | LovePlus | 6850 | [6850-loveplus.json](./6850-loveplus.json) |
 | LovePlus Every | 70861 | [70861-loveplus-every.json](./70861-loveplus-every.json) |
 | LovePlus+ | 124475 | [124475-loveplus.json](./124475-loveplus.json) |
