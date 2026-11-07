@@ -11215,6 +11215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Fury | 313910 | [313910-midnight-fury.json](./313910-midnight-fury.json) |
 | Midnight Garden | 333882 | [333882-midnight-garden.json](./333882-midnight-garden.json) |
 | Midnight Ghost Hunt | 108048 | [108048-midnight-ghost-hunt.json](./108048-midnight-ghost-hunt.json) |
+| Midnight Girl | 164647 | [164647-midnight-girl.json](./164647-midnight-girl.json) |
 | Midnight Grove | 323602 | [323602-midnight-grove.json](./323602-midnight-grove.json) |
 | Midnight Grub Session | 120098 | [120098-midnight-grub-session.json](./120098-midnight-grub-session.json) |
 | Midnight Havoc | 258966 | [258966-midnight-havoc.json](./258966-midnight-havoc.json) |
