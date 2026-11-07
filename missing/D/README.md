@@ -3464,6 +3464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Tokyo Ghoul - Cosmetic Pack | 338124 | [338124-dead-by-daylight-tokyo-ghoul-cosmetic-pack.json](./338124-dead-by-daylight-tokyo-ghoul-cosmetic-pack.json) |
 | Dead by Daylight: Tokyo Ghoul Edition | 338127 | [338127-dead-by-daylight-tokyo-ghoul-edition.json](./338127-dead-by-daylight-tokyo-ghoul-edition.json) |
 | Dead by Daylight: Tools of Torment Chapter | 241319 | [241319-dead-by-daylight-tools-of-torment-chapter.json](./241319-dead-by-daylight-tools-of-torment-chapter.json) |
+| Dead by Daylight: Ultimate Edition | 164671 | [164671-dead-by-daylight-ultimate-edition.json](./164671-dead-by-daylight-ultimate-edition.json) |
 | Dead by Death | 105024 | [105024-dead-by-death.json](./105024-dead-by-death.json) |
 | Dead By Murder | 74144 | [74144-dead-by-murder.json](./74144-dead-by-murder.json) |
 | Dead by Skill Check | 341609 | [341609-dead-by-skill-check.json](./341609-dead-by-skill-check.json) |
@@ -9071,9 +9072,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digerati Couch Co-Op Bundle Vol.1 | 83745 | [83745-digerati-couch-co-op-bundle-vol-1.json](./83745-digerati-couch-co-op-bundle-vol-1.json) |
 | Digerati Couch Co-op Vol. 2 | 166688 | [166688-digerati-couch-co-op-vol-2.json](./166688-digerati-couch-co-op-vol-2.json) |
 | Digerati Horror Bundle | 188178 | [188178-digerati-horror-bundle.json](./188178-digerati-horror-bundle.json) |
+| Digerati Horror Bundle Vol. 2 | 164683 | [164683-digerati-horror-bundle-vol-2.json](./164683-digerati-horror-bundle-vol-2.json) |
 | Digerati Pixel Art Bundle Part 1 | 90663 | [90663-digerati-pixel-art-bundle-part-1.json](./90663-digerati-pixel-art-bundle-part-1.json) |
 | Digerati Presents: If You Don't Have Xbox Game Pass Bundle | 200513 | [200513-digerati-presents-if-you-dont-have-xbox-game-pass-bundle.json](./200513-digerati-presents-if-you-dont-have-xbox-game-pass-bundle.json) |
 | Digerati Presents: Indie Darling Bundle Vol. 5 | 204275 | [204275-digerati-presents-indie-darling-bundle-vol-5.json](./204275-digerati-presents-indie-darling-bundle-vol-5.json) |
+| Digerati Presents: RPG Bundle Vol. 1 | 164686 | [164686-digerati-presents-rpg-bundle-vol-1.json](./164686-digerati-presents-rpg-bundle-vol-1.json) |
 | Digerati Presents: The Dungeon Crawl Vol. 1 | 147884 | [147884-digerati-presents-the-dungeon-crawl-vol-1.json](./147884-digerati-presents-the-dungeon-crawl-vol-1.json) |
 | Digested | 278255 | [278255-digested.json](./278255-digested.json) |
 | Digfender | 109064 | [109064-digfender.json](./109064-digfender.json) |
@@ -9607,6 +9610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Island Adventure | 188795 | [188795-dino-island-adventure.json](./188795-dino-island-adventure.json) |
 | Dino Island: The Four Crystals | 194859 | [194859-dino-island-the-four-crystals.json](./194859-dino-island-the-four-crystals.json) |
 | Dino Jnr. in Canyon Capers | 57167 | [57167-dino-jnr-in-canyon-capers.json](./57167-dino-jnr-in-canyon-capers.json) |
+| Dino journey | 164655 | [164655-dino-journey.json](./164655-dino-journey.json) |
 | Dino Jump | 310886 | [310886-dino-jump.json](./310886-dino-jump.json) |
 | Dino King Battle: Taiko Kara no Hyouryuusha | 269741 | [269741-dino-king-battle-taiko-kara-no-hyouryuusha.json](./269741-dino-king-battle-taiko-kara-no-hyouryuusha.json) |
 | Dino Kingdom | 115545 | [115545-dino-kingdom.json](./115545-dino-kingdom.json) |
