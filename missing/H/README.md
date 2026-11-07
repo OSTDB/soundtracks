@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hailey | 109738 | [109738-hailey.json](./109738-hailey.json) |
 | Hailey's Aesop | 303696 | [303696-haileys-aesop.json](./303696-haileys-aesop.json) |
 | Hailing from the Abyss | 190262 | [190262-hailing-from-the-abyss.json](./190262-hailing-from-the-abyss.json) |
+| Hailpath MV | 181447 | [181447-hailpath-mv.json](./181447-hailpath-mv.json) |
 | Hailstorm | 363955 | [363955-hailstorm.json](./363955-hailstorm.json) |
 | Hailstorm | 68171 | [68171-hailstorm.json](./68171-hailstorm.json) |
 | Haimrik | 32349 | [32349-haimrik.json](./32349-haimrik.json) |
@@ -2487,6 +2488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatch Catch | 40175 | [40175-hatch-catch.json](./40175-hatch-catch.json) |
 | Hatch Dragons | 381848 | [381848-hatch-dragons.json](./381848-hatch-dragons.json) |
 | Hatch Tales: A Heroic Hookshot Adventure | 319936 | [319936-hatch-tales-a-heroic-hookshot-adventure.json](./319936-hatch-tales-a-heroic-hookshot-adventure.json) |
+| Hatch This! | 181456 | [181456-hatch-this.json](./181456-hatch-this.json) |
 | Hatchball | 137961 | [137961-hatchball.json](./137961-hatchball.json) |
 | Hatchepsout: The Hell Temple | 277092 | [277092-hatchepsout-the-hell-temple.json](./277092-hatchepsout-the-hell-temple.json) |
 | Hatchi: A Retro Virtual Pet | 102517 | [102517-hatchi-a-retro-virtual-pet.json](./102517-hatchi-a-retro-virtual-pet.json) |
@@ -3575,6 +3577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heave Ho + Heave Ho 2 Bundle | 412952 | [412952-heave-ho-heave-ho-2-bundle.json](./412952-heave-ho-heave-ho-2-bundle.json) |
 | Heave Ho 2 | 393563 | [393563-heave-ho-2.json](./393563-heave-ho-2.json) |
 | Heave-Ho: Uphill | 402349 | [402349-heave-ho-uphill.json](./402349-heave-ho-uphill.json) |
+| Heaven | 181459 | [181459-heaven.json](./181459-heaven.json) |
 | Heaven | 78071 | [78071-heaven.json](./78071-heaven.json) |
 | Heaven & Earth | 145329 | [145329-heaven-and-earth.json](./145329-heaven-and-earth.json) |
 | Heaven & Hell | 113031 | [113031-heaven-and-hell.json](./113031-heaven-and-hell.json) |
