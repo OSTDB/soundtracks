@@ -5393,6 +5393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnarly Hike | 274362 | [274362-gnarly-hike.json](./274362-gnarly-hike.json) |
 | Gnaughty Gnomes | 346030 | [346030-gnaughty-gnomes.json](./346030-gnaughty-gnomes.json) |
 | Gnaw | 372037 | [372037-gnaw.json](./372037-gnaw.json) |
+| Gniffel | 144479 | [144479-gniffel.json](./144479-gniffel.json) |
 | Gnilley | 261307 | [261307-gnilley.json](./261307-gnilley.json) |
 | Gninja Pig | 237129 | [237129-gninja-pig.json](./237129-gninja-pig.json) |
 | GnollHack | 199058 | [199058-gnollhack.json](./199058-gnollhack.json) |
@@ -6663,6 +6664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Yoshi's Island | 276880 | [276880-golden-yoshis-island.json](./276880-golden-yoshis-island.json) |
 | Goldene Zeiten | 94234 | [94234-goldene-zeiten.json](./94234-goldene-zeiten.json) |
 | GoldenEye | 176045 | [176045-goldeneye.json](./176045-goldeneye.json) |
+| GoldenEye 007 | 144476 | [144476-goldeneye-007.json](./144476-goldeneye-007.json) |
 | GoldenEye 007 | 1647 | [1647-goldeneye-007.json](./1647-goldeneye-007.json) |
 | GoldenEye 007 | 350140 | [350140-goldeneye-007.json](./350140-goldeneye-007.json) |
 | GoldenEye 007: Recompiled | 406470 | [406470-goldeneye-007-recompiled.json](./406470-goldeneye-007-recompiled.json) |
