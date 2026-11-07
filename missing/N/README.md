@@ -3942,6 +3942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nice de Shot: World Course Selections | 37907 | [37907-nice-de-shot-world-course-selections.json](./37907-nice-de-shot-world-course-selections.json) |
 | Nice Dice - 3D dice roller | 102724 | [102724-nice-dice-3d-dice-roller.json](./102724-nice-dice-3d-dice-roller.json) |
 | Nice Disc: The Last Hot Blood | 205218 | [205218-nice-disc-the-last-hot-blood.json](./205218-nice-disc-the-last-hot-blood.json) |
+| Nice Girl Like Me | 187587 | [187587-nice-girl-like-me.json](./187587-nice-girl-like-me.json) |
 | Nice Jumper | 121280 | [121280-nice-jumper.json](./121280-nice-jumper.json) |
 | Nice Mario 75 | 294791 | [294791-nice-mario-75.json](./294791-nice-mario-75.json) |
 | Nice On | 37563 | [37563-nice-on.json](./37563-nice-on.json) |
@@ -5719,6 +5720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No King No Kingdom VR | 110684 | [110684-no-king-no-kingdom-vr.json](./110684-no-king-no-kingdom-vr.json) |
 | No Kings Tiny Defenders | 376455 | [376455-no-kings-tiny-defenders.json](./376455-no-kings-tiny-defenders.json) |
 | No Law | 381205 | [381205-no-law.json](./381205-no-law.json) |
+| No Leg Lenny | 187612 | [187612-no-leg-lenny.json](./187612-no-leg-lenny.json) |
 | No Legs? No Problem! | 249374 | [249374-no-legs-no-problem.json](./249374-no-legs-no-problem.json) |
 | No Life: Zombie Survivor | 293872 | [293872-no-life-zombie-survivor.json](./293872-no-life-zombie-survivor.json) |
 | No Light | 150684 | [150684-no-light.json](./150684-no-light.json) |
@@ -6740,6 +6742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northanda Chronicles | 277294 | [277294-northanda-chronicles.json](./277294-northanda-chronicles.json) |
 | Northbound: Long Road Ahead | 133014 | [133014-northbound-long-road-ahead.json](./133014-northbound-long-road-ahead.json) |
 | Northbury Grove | 112217 | [112217-northbury-grove.json](./112217-northbury-grove.json) |
+| Northbury Grove: Entity | 187605 | [187605-northbury-grove-entity.json](./187605-northbury-grove-entity.json) |
 | Northbury Grove: Walls Closing In | 183062 | [183062-northbury-grove-walls-closing-in.json](./183062-northbury-grove-walls-closing-in.json) |
 | Northeast Past | 407787 | [407787-northeast-past.json](./407787-northeast-past.json) |
 | Northend Tower Defense | 159733 | [159733-northend-tower-defense.json](./159733-northend-tower-defense.json) |
