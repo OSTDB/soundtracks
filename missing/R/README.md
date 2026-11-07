@@ -11688,6 +11688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royalty Free-For-All | 321417 | [321417-royalty-free-for-all.json](./321417-royalty-free-for-all.json) |
 | Royelles - Gaming For Girls | 255629 | [255629-royelles-gaming-for-girls.json](./255629-royelles-gaming-for-girls.json) |
 | Rozalin and the Palace of Flowers | 150669 | [150669-rozalin-and-the-palace-of-flowers.json](./150669-rozalin-and-the-palace-of-flowers.json) |
+| Roze Blud | 167995 | [167995-roze-blud.json](./167995-roze-blud.json) |
 | Rozen Maiden AliBat: Record of Rozen War | 124736 | [124736-rozen-maiden-alibat-record-of-rozen-war.json](./124736-rozen-maiden-alibat-record-of-rozen-war.json) |
 | Rozen Maiden: Duellwalzer | 84311 | [84311-rozen-maiden-duellwalzer.json](./84311-rozen-maiden-duellwalzer.json) |
 | Rozen Maiden: Gebetgarten | 84310 | [84310-rozen-maiden-gebetgarten.json](./84310-rozen-maiden-gebetgarten.json) |
@@ -12966,6 +12967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Front | 34908 | [34908-russian-front.json](./34908-russian-front.json) |
 | Russian Front II: The Kursk Campaign | 79128 | [79128-russian-front-ii-the-kursk-campaign.json](./79128-russian-front-ii-the-kursk-campaign.json) |
 | Russian Gangsta in Hell | 99063 | [99063-russian-gangsta-in-hell.json](./99063-russian-gangsta-in-hell.json) |
+| Russian Hentai | 167978 | [167978-russian-hentai.json](./167978-russian-hentai.json) |
 | Russian Hentai 2 | 158342 | [158342-russian-hentai-2.json](./158342-russian-hentai-2.json) |
 | Russian Hentai 3 | 155461 | [155461-russian-hentai-3.json](./155461-russian-hentai-3.json) |
 | Russian Horror Story | 34761 | [34761-russian-horror-story.json](./34761-russian-horror-story.json) |
