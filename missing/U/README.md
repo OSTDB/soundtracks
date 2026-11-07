@@ -1186,6 +1186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Umineko no Naku Koro ni: Valentine Paper | 272539 | [272539-umineko-no-naku-koro-ni-valentine-paper.json](./272539-umineko-no-naku-koro-ni-valentine-paper.json) |
 | Umineko no Naku Koro ni: Warera no Kokuhaku | 272534 | [272534-umineko-no-naku-koro-ni-warera-no-kokuhaku.json](./272534-umineko-no-naku-koro-ni-warera-no-kokuhaku.json) |
 | Umineko Project | 282953 | [282953-umineko-project.json](./282953-umineko-project.json) |
+| Umineko Redacted: Some Kind of Sunny Little Dream | 180366 | [180366-umineko-redacted-some-kind-of-sunny-little-dream.json](./180366-umineko-redacted-some-kind-of-sunny-little-dream.json) |
 | Umineko When They Cry: Answer Arcs | 75081 | [75081-umineko-when-they-cry-answer-arcs.json](./75081-umineko-when-they-cry-answer-arcs.json) |
 | Umineko When They Cry: Episode 1 - Legend of the Golden Witch | 272309 | [272309-umineko-when-they-cry-episode-1-legend-of-the-golden-witch.json](./272309-umineko-when-they-cry-episode-1-legend-of-the-golden-witch.json) |
 | Umineko When They Cry: Episode 2 - Turn of the Golden Witch | 272310 | [272310-umineko-when-they-cry-episode-2-turn-of-the-golden-witch.json](./272310-umineko-when-they-cry-episode-2-turn-of-the-golden-witch.json) |
@@ -2411,6 +2412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universe999999 | 150259 | [150259-universe999999.json](./150259-universe999999.json) |
 | UniverseV: Star Domination | 207967 | [207967-universev-star-domination.json](./207967-universev-star-domination.json) |
 | University | 252205 | [252205-university.json](./252205-university.json) |
+| University between the streets | 180369 | [180369-university-between-the-streets.json](./180369-university-between-the-streets.json) |
 | University Days: Season 1 | 303060 | [303060-university-days-season-1.json](./303060-university-days-season-1.json) |
 | University Life Visual Novel | 371921 | [371921-university-life-visual-novel.json](./371921-university-life-visual-novel.json) |
 | University Love Affair | 235883 | [235883-university-love-affair.json](./235883-university-love-affair.json) |
@@ -2771,6 +2773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unrushed Defence | 236342 | [236342-unrushed-defence.json](./236342-unrushed-defence.json) |
 | Unsacrifice | 111517 | [111517-unsacrifice.json](./111517-unsacrifice.json) |
 | Unsafe Express | 173282 | [173282-unsafe-express.json](./173282-unsafe-express.json) |
+| Unsanctioned | 180354 | [180354-unsanctioned.json](./180354-unsanctioned.json) |
 | Unsane 2 | 258342 | [258342-unsane-2.json](./258342-unsane-2.json) |
 | Unscramble | 88656 | [88656-unscramble.json](./88656-unscramble.json) |
 | Unscramble Heroes | 218108 | [218108-unscramble-heroes.json](./218108-unscramble-heroes.json) |
