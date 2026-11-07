@@ -2419,6 +2419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Cats | 316936 | [316936-dash-cats.json](./316936-dash-cats.json) |
 | Dash Connect 2 | 368577 | [368577-dash-connect-2.json](./368577-dash-connect-2.json) |
 | Dash Cup Kickers | 190333 | [190333-dash-cup-kickers.json](./190333-dash-cup-kickers.json) |
+| Dash Dash Attack | 177666 | [177666-dash-dash-attack.json](./177666-dash-dash-attack.json) |
 | Dash Dash Dead | 361455 | [361455-dash-dash-dead.json](./361455-dash-dash-dead.json) |
 | Dash Dash Delivery | 160264 | [160264-dash-dash-delivery.json](./160264-dash-dash-delivery.json) |
 | Dash Dash Run! | 54505 | [54505-dash-dash-run.json](./54505-dash-dash-run.json) |
@@ -3065,6 +3066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daytona Racing | 92623 | [92623-daytona-racing.json](./92623-daytona-racing.json) |
 | Daytona Rush | 233194 | [233194-daytona-rush.json](./233194-daytona-rush.json) |
 | Daytona USA | 17245 | [17245-daytona-usa.json](./17245-daytona-usa.json) |
+| Daytona USA | 177622 | [177622-daytona-usa.json](./177622-daytona-usa.json) |
 | Daytona USA | 198613 | [198613-daytona-usa.json](./198613-daytona-usa.json) |
 | Daytona USA | 22007 | [22007-daytona-usa.json](./22007-daytona-usa.json) |
 | Daytona USA 2: Battle on the Edge | 39291 | [39291-daytona-usa-2-battle-on-the-edge.json](./39291-daytona-usa-2-battle-on-the-edge.json) |
@@ -7073,6 +7075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desafio Quiz | 357376 | [357376-desafio-quiz.json](./357376-desafio-quiz.json) |
 | Desastre Colectivo | 135077 | [135077-desastre-colectivo.json](./135077-desastre-colectivo.json) |
 | Desaturation Point | 195472 | [195472-desaturation-point.json](./195472-desaturation-point.json) |
+| Descend | 177641 | [177641-descend.json](./177641-descend.json) |
 | Descend | 264044 | [264044-descend.json](./264044-descend.json) |
 | Descend | 400828 | [400828-descend.json](./400828-descend.json) |
 | Descend into Madness | 162837 | [162837-descend-into-madness.json](./162837-descend-into-madness.json) |
@@ -13717,6 +13720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Breakout II | 56196 | [56196-double-breakout-ii.json](./56196-double-breakout-ii.json) |
 | Double Bubble Blaster Madness VR | 112989 | [112989-double-bubble-blaster-madness-vr.json](./112989-double-bubble-blaster-madness-vr.json) |
 | Double Bubble Trouble | 104709 | [104709-double-bubble-trouble.json](./104709-double-bubble-trouble.json) |
+| Double Cheeseburger, Medium Fries | 177668 | [177668-double-cheeseburger-medium-fries.json](./177668-double-cheeseburger-medium-fries.json) |
 | Double Clue: Solitaire Stories | 36501 | [36501-double-clue-solitaire-stories.json](./36501-double-clue-solitaire-stories.json) |
 | Double Clutch | 45710 | [45710-double-clutch.json](./45710-double-clutch.json) |
 | Double Cross | 96135 | [96135-double-cross.json](./96135-double-cross.json) |
@@ -13998,6 +14002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down Beneath | 179725 | [179725-down-beneath.json](./179725-down-beneath.json) |
 | Down Fall | 203246 | [203246-down-fall.json](./203246-down-fall.json) |
 | Down Fast VR | 203937 | [203937-down-fast-vr.json](./203937-down-fast-vr.json) |
+| Down for a Cross | 177624 | [177624-down-for-a-cross.json](./177624-down-for-a-cross.json) |
 | Down Forward | 374391 | [374391-down-forward.json](./374391-down-forward.json) |
 | Down Hole | 294811 | [294811-down-hole.json](./294811-down-hole.json) |
 | Down in Bermuda | 124396 | [124396-down-in-bermuda.json](./124396-down-in-bermuda.json) |
