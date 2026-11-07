@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babysitting Mama | 4686 | [4686-babysitting-mama.json](./4686-babysitting-mama.json) |
 | Babysitting Mania | 47979 | [47979-babysitting-mania.json](./47979-babysitting-mania.json) |
 | Babysitting Party | 92669 | [92669-babysitting-party.json](./92669-babysitting-party.json) |
+| BabyType | 144497 | [144497-babytype.json](./144497-babytype.json) |
 | BabyUp: Butterflies | 96576 | [96576-babyup-butterflies.json](./96576-babyup-butterflies.json) |
 | BabyUp: Dinos | 102638 | [102638-babyup-dinos.json](./102638-babyup-dinos.json) |
 | Babyz | 205899 | [205899-babyz.json](./205899-babyz.json) |
@@ -3645,6 +3646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Chess | 280808 | [280808-battle-chess.json](./280808-battle-chess.json) |
 | Battle Chess | 283606 | [283606-battle-chess.json](./283606-battle-chess.json) |
 | Battle Chess 4000 | 11099 | [11099-battle-chess-4000.json](./11099-battle-chess-4000.json) |
+| Battle Chess Enhanced | 144453 | [144453-battle-chess-enhanced.json](./144453-battle-chess-enhanced.json) |
 | Battle Chess II: Chinese Chess | 11098 | [11098-battle-chess-ii-chinese-chess.json](./11098-battle-chess-ii-chinese-chess.json) |
 | Battle Chess: Special Edition | 51707 | [51707-battle-chess-special-edition.json](./51707-battle-chess-special-edition.json) |
 | Battle Chopper | 38542 | [38542-battle-chopper.json](./38542-battle-chopper.json) |
@@ -4802,6 +4804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Buggy Blitz | 21622 | [21622-beach-buggy-blitz.json](./21622-beach-buggy-blitz.json) |
 | Beach Buggy Racing 2 | 110044 | [110044-beach-buggy-racing-2.json](./110044-beach-buggy-racing-2.json) |
 | Beach Buggy Racing 2: Hot Wheels Edition | 164743 | [164743-beach-buggy-racing-2-hot-wheels-edition.json](./164743-beach-buggy-racing-2-hot-wheels-edition.json) |
+| Beach Buggy Racing 2: Island Adventure | 144485 | [144485-beach-buggy-racing-2-island-adventure.json](./144485-beach-buggy-racing-2-island-adventure.json) |
 | Beach Buggy Racing 2: Island Adventure - Oddball Car Pack | 174494 | [174494-beach-buggy-racing-2-island-adventure-oddball-car-pack.json](./174494-beach-buggy-racing-2-island-adventure-oddball-car-pack.json) |
 | Beach Buggy Racing 2: Tesla Edition | 341009 | [341009-beach-buggy-racing-2-tesla-edition.json](./341009-beach-buggy-racing-2-tesla-edition.json) |
 | Beach Buggy Simulator | 13388 | [13388-beach-buggy-simulator.json](./13388-beach-buggy-simulator.json) |
@@ -8615,6 +8618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bishojo Battlefield | 174646 | [174646-bishojo-battlefield.json](./174646-bishojo-battlefield.json) |
 | Bishojou Mahjong Club | 41339 | [41339-bishojou-mahjong-club.json](./41339-bishojou-mahjong-club.json) |
 | Bishook. | 250117 | [250117-bishook.json](./250117-bishook.json) |
+| Bishoujo Battle Cyber Panic! | 144501 | [144501-bishoujo-battle-cyber-panic.json](./144501-bishoujo-battle-cyber-panic.json) |
 | Bishoujo Battle Hanafuda Koi-Koi | 133146 | [133146-bishoujo-battle-hanafuda-koi-koi.json](./133146-bishoujo-battle-hanafuda-koi-koi.json) |
 | Bishoujo Battle: Double Strike! | 195525 | [195525-bishoujo-battle-double-strike.json](./195525-bishoujo-battle-double-strike.json) |
 | Bishoujo Control | 41253 | [41253-bishoujo-control.json](./41253-bishoujo-control.json) |
