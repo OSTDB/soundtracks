@@ -1849,6 +1849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Cook: Word Puzzle | 126253 | [126253-captain-cook-word-puzzle.json](./126253-captain-cook-word-puzzle.json) |
 | Captain Corgi: Planetary Problem Solver | 369090 | [369090-captain-corgi-planetary-problem-solver.json](./369090-captain-corgi-planetary-problem-solver.json) |
 | Captain Cowboy | 114668 | [114668-captain-cowboy.json](./114668-captain-cowboy.json) |
+| Captain Diarrhea and the Shartening | 190285 | [190285-captain-diarrhea-and-the-shartening.json](./190285-captain-diarrhea-and-the-shartening.json) |
 | Captain DinoHater | 180848 | [180848-captain-dinohater.json](./180848-captain-dinohater.json) |
 | Captain Disaster and the Two Worlds of Riskara | 235664 | [235664-captain-disaster-and-the-two-worlds-of-riskara.json](./235664-captain-disaster-and-the-two-worlds-of-riskara.json) |
 | Captain Disaster in: Death Has A Million Stomping Boots | 133978 | [133978-captain-disaster-in-death-has-a-million-stomping-boots.json](./133978-captain-disaster-in-death-has-a-million-stomping-boots.json) |
@@ -2846,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnage | 399041 | [399041-carnage.json](./399041-carnage.json) |
 | Carnage Cliff | 357688 | [357688-carnage-cliff.json](./357688-carnage-cliff.json) |
 | Carnage Contest | 395407 | [395407-carnage-contest.json](./395407-carnage-contest.json) |
+| Carnage Cross | 190296 | [190296-carnage-cross.json](./190296-carnage-cross.json) |
 | Carnage Cuisine | 258808 | [258808-carnage-cuisine.json](./258808-carnage-cuisine.json) |
 | Carnage Heart | 20733 | [20733-carnage-heart.json](./20733-carnage-heart.json) |
 | Carnage Heart EXA | 46589 | [46589-carnage-heart-exa.json](./46589-carnage-heart-exa.json) |
@@ -3105,6 +3107,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartel Tycoon: Lieutenants Pack - Guerilla | 226298 | [226298-cartel-tycoon-lieutenants-pack-guerilla.json](./226298-cartel-tycoon-lieutenants-pack-guerilla.json) |
 | Cartel Tycoon: Lieutenants Pack - La Familia | 243673 | [243673-cartel-tycoon-lieutenants-pack-la-familia.json](./243673-cartel-tycoon-lieutenants-pack-la-familia.json) |
 | Cartel Tycoon: San Rafaela | 252371 | [252371-cartel-tycoon-san-rafaela.json](./252371-cartel-tycoon-san-rafaela.json) |
+| Cartels | 190300 | [190300-cartels.json](./190300-cartels.json) |
 | Cartels & Cutthroats | 22497 | [22497-cartels-and-cutthroats.json](./22497-cartels-and-cutthroats.json) |
 | Carter Story | 202637 | [202637-carter-story.json](./202637-carter-story.json) |
 | Cartesian | 29392 | [29392-cartesian.json](./29392-cartesian.json) |
@@ -16520,6 +16523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crate Fang | 349830 | [349830-crate-fang.json](./349830-crate-fang.json) |
 | Crate Knight | 207532 | [207532-crate-knight.json](./207532-crate-knight.json) |
 | Crate Man | 61568 | [61568-crate-man.json](./61568-crate-man.json) |
+| Crate Mates | 190264 | [190264-crate-mates.json](./190264-crate-mates.json) |
 | Crate Punks | 31543 | [31543-crate-punks.json](./31543-crate-punks.json) |
 | Crate Punks: Dada is Dead | 136098 | [136098-crate-punks-dada-is-dead.json](./136098-crate-punks-dada-is-dead.json) |
 | Crate Wars | 150402 | [150402-crate-wars.json](./150402-crate-wars.json) |
