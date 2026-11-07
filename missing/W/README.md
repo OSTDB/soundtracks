@@ -7803,6 +7803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Work Girl | 378359 | [378359-work-girl.json](./378359-work-girl.json) |
 | Work In Progress | 326171 | [326171-work-in-progress.json](./326171-work-in-progress.json) |
 | Work Inc. | 393821 | [393821-work-inc.json](./393821-work-inc.json) |
+| Work It Out! Job Challenge | 186941 | [186941-work-it-out-job-challenge.json](./186941-work-it-out-job-challenge.json) |
 | Work Life Balance | 372470 | [372470-work-life-balance.json](./372470-work-life-balance.json) |
 | Work Sucks, Let’s Play Dou Dizhu! | 373315 | [373315-work-sucks-let-s-play-dou-dizhu.json](./373315-work-sucks-let-s-play-dou-dizhu.json) |
 | Work Till Die | 391060 | [391060-work-till-die.json](./391060-work-till-die.json) |
