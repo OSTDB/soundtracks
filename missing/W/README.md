@@ -5499,6 +5499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildwood: Graveyard Defense | 217539 | [217539-wildwood-graveyard-defense.json](./217539-wildwood-graveyard-defense.json) |
 | Wildwood: Hearth & Horizon | 287693 | [287693-wildwood-hearth-and-horizon.json](./287693-wildwood-hearth-and-horizon.json) |
 | WildWorlds: Zyxaranth's Domain | 418738 | [418738-wildworlds-zyxaranths-domain.json](./418738-wildworlds-zyxaranths-domain.json) |
+| Wildzone | 148638 | [148638-wildzone.json](./148638-wildzone.json) |
 | Wile E's Revenge | 214982 | [214982-wile-es-revenge.json](./214982-wile-es-revenge.json) |
 | Wilful Kitty | 241816 | [241816-wilful-kitty.json](./241816-wilful-kitty.json) |
 | Wilhelm Gustloff's Death | 168580 | [168580-wilhelm-gustloffs-death.json](./168580-wilhelm-gustloffs-death.json) |
@@ -8579,6 +8580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War 1945 | 109534 | [109534-world-war-1945.json](./109534-world-war-1945.json) |
 | World War 2 | 206615 | [206615-world-war-2.json](./206615-world-war-2.json) |
 | World War 2 Agenda | 302417 | [302417-world-war-2-agenda.json](./302417-world-war-2-agenda.json) |
+| World War 2 Craft | 148723 | [148723-world-war-2-craft.json](./148723-world-war-2-craft.json) |
 | World War 2 Sniper | 53107 | [53107-world-war-2-sniper.json](./53107-world-war-2-sniper.json) |
 | World War 2 Winter Gun Range VR Simulator | 125096 | [125096-world-war-2-winter-gun-range-vr-simulator.json](./125096-world-war-2-winter-gun-range-vr-simulator.json) |
 | World War 2: Operation Husky | 154592 | [154592-world-war-2-operation-husky.json](./154592-world-war-2-operation-husky.json) |
