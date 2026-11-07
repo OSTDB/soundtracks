@@ -2756,6 +2756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pasajeros | 192426 | [192426-pasajeros.json](./192426-pasajeros.json) |
 | Pasapalabra | 302728 | [302728-pasapalabra.json](./302728-pasapalabra.json) |
 | Pascal's Wager | 125912 | [125912-pascals-wager.json](./125912-pascals-wager.json) |
+| Pascal's Wager: Definitive Edition | 143830 | [143830-pascals-wager-definitive-edition.json](./143830-pascals-wager-definitive-edition.json) |
 | Pascal's Wager: The Tides of Oblivion | 139084 | [139084-pascals-wager-the-tides-of-oblivion.json](./139084-pascals-wager-the-tides-of-oblivion.json) |
 | Pasha Planet: Reborn | 234186 | [234186-pasha-planet-reborn.json](./234186-pasha-planet-reborn.json) |
 | Pashah to Henshin: Beauty Academy | 327622 | [327622-pashah-to-henshin-beauty-academy.json](./327622-pashah-to-henshin-beauty-academy.json) |
@@ -6272,6 +6273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pictoword: Fun Word Pics Games | 87361 | [87361-pictoword-fun-word-pics-games.json](./87361-pictoword-fun-word-pics-games.json) |
 | Pictura | 164072 | [164072-pictura.json](./164072-pictura.json) |
 | Picture Builder | 288850 | [288850-picture-builder.json](./288850-picture-builder.json) |
+| Picture Cards Online | 143855 | [143855-picture-cards-online.json](./143855-picture-cards-online.json) |
 | Picture Challenge | 358733 | [358733-picture-challenge.json](./358733-picture-challenge.json) |
 | Picture Cross Color | 345132 | [345132-picture-cross-color.json](./345132-picture-cross-color.json) |
 | Picture Cross Towns | 246721 | [246721-picture-cross-towns.json](./246721-picture-cross-towns.json) |
@@ -14527,6 +14529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primary Earth | 176194 | [176194-primary-earth.json](./176194-primary-earth.json) |
 | Primary Exit | 371541 | [371541-primary-exit.json](./371541-primary-exit.json) |
 | Primary School: English Grade 1 & 2 | 413369 | [413369-primary-school-english-grade-1-and-2.json](./413369-primary-school-english-grade-1-and-2.json) |
+| Primate Signal | 143851 | [143851-primate-signal.json](./143851-primate-signal.json) |
 | Primate: Father of Universe | 215329 | [215329-primate-father-of-universe.json](./215329-primate-father-of-universe.json) |
 | Primavera Lihbor | 295538 | [295538-primavera-lihbor.json](./295538-primavera-lihbor.json) |
 | Prime | 214977 | [214977-prime.json](./214977-prime.json) |
