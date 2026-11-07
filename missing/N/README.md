@@ -2195,6 +2195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NemoSphere | 385086 | [385086-nemosphere.json](./385086-nemosphere.json) |
 | Nemoto Harumi Eizou Play | 243288 | [243288-nemoto-harumi-eizou-play.json](./243288-nemoto-harumi-eizou-play.json) |
 | Nemu Neko Puzzle demo Neteimasu | 222375 | [222375-nemu-neko-puzzle-demo-neteimasu.json](./222375-nemu-neko-puzzle-demo-neteimasu.json) |
+| Nemulesis | 181433 | [181433-nemulesis.json](./181433-nemulesis.json) |
 | Nemunai | 374824 | [374824-nemunai.json](./374824-nemunai.json) |
 | Nemurenai Yoru, Kimi wo Sagashite | 395494 | [395494-nemurenai-yoru-kimi-wo-sagashite.json](./395494-nemurenai-yoru-kimi-wo-sagashite.json) |
 | Nemurenu Yoru no Chiisana Ohanashi | 254494 | [254494-nemurenu-yoru-no-chiisana-ohanashi.json](./254494-nemurenu-yoru-no-chiisana-ohanashi.json) |
@@ -7006,6 +7007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Without My Poop | 83525 | [83525-not-without-my-poop.json](./83525-not-without-my-poop.json) |
 | Not Without You | 65389 | [65389-not-without-you.json](./65389-not-without-you.json) |
 | Not Yet | 405941 | [405941-not-yet.json](./405941-not-yet.json) |
+| Not You Mary Lu | 181455 | [181455-not-you-mary-lu.json](./181455-not-you-mary-lu.json) |
 | Not Your Eyes | 156660 | [156660-not-your-eyes.json](./156660-not-your-eyes.json) |
 | Not Your Mama's Autobattler | 212079 | [212079-not-your-mamas-autobattler.json](./212079-not-your-mamas-autobattler.json) |
 | Not Your Mind | 201104 | [201104-not-your-mind.json](./201104-not-your-mind.json) |
