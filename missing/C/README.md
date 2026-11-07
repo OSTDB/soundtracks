@@ -11228,6 +11228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cocoto Platform Jumper | 3861 | [3861-cocoto-platform-jumper.json](./3861-cocoto-platform-jumper.json) |
 | Cocoto Surprise | 50983 | [50983-cocoto-surprise.json](./50983-cocoto-surprise.json) |
 | Cocoto Tennis Master | 80476 | [80476-cocoto-tennis-master.json](./80476-cocoto-tennis-master.json) |
+| Cocotte Adventure | 181465 | [181465-cocotte-adventure.json](./181465-cocotte-adventure.json) |
 | Cod Quest! | 323673 | [323673-cod-quest.json](./323673-cod-quest.json) |
 | Coda | 252211 | [252211-coda.json](./252211-coda.json) |
 | Coda | 338681 | [338681-coda.json](./338681-coda.json) |
@@ -13295,6 +13296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Circus Maximus | 72039 | [72039-computer-circus-maximus.json](./72039-computer-circus-maximus.json) |
 | Computer Club | 211646 | [211646-computer-club.json](./211646-computer-club.json) |
 | Computer Conflict | 278781 | [278781-computer-conflict.json](./278781-computer-conflict.json) |
+| Computer Crisis | 181471 | [181471-computer-crisis.json](./181471-computer-crisis.json) |
 | Computer Diplomacy | 72163 | [72163-computer-diplomacy.json](./72163-computer-diplomacy.json) |
 | Computer Donjara | 385533 | [385533-computer-donjara.json](./385533-computer-donjara.json) |
 | Computer Facts in Five | 94156 | [94156-computer-facts-in-five.json](./94156-computer-facts-in-five.json) |
@@ -14599,6 +14601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coop TD | 339385 | [339385-coop-td.json](./339385-coop-td.json) |
 | Coopbots | 272862 | [272862-coopbots.json](./272862-coopbots.json) |
 | Cooped Up | 242071 | [242071-cooped-up.json](./242071-cooped-up.json) |
+| Cooped Up! | 181429 | [181429-cooped-up.json](./181429-cooped-up.json) |
 | Cooper's Cleanup | 208666 | [208666-coopers-cleanup.json](./208666-coopers-cleanup.json) |
 | Cooperacing | 207910 | [207910-cooperacing.json](./207910-cooperacing.json) |
 | Cooperate with Yourself | 371338 | [371338-cooperate-with-yourself.json](./371338-cooperate-with-yourself.json) |
@@ -15300,6 +15303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Angel | 92148 | [92148-cosmo-angel.json](./92148-cosmo-angel.json) |
 | Cosmo Arena | 418412 | [418412-cosmo-arena.json](./418412-cosmo-arena.json) |
 | Cosmo Battle XXX | 222124 | [222124-cosmo-battle-xxx.json](./222124-cosmo-battle-xxx.json) |
+| Cosmo Beat | 181472 | [181472-cosmo-beat.json](./181472-cosmo-beat.json) |
 | Cosmo Blaster | 236073 | [236073-cosmo-blaster.json](./236073-cosmo-blaster.json) |
 | Cosmo Cargo | 394499 | [394499-cosmo-cargo.json](./394499-cosmo-cargo.json) |
 | Cosmo Cats | 291360 | [291360-cosmo-cats.json](./291360-cosmo-cats.json) |
@@ -15342,6 +15346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo's Quickstop | 54676 | [54676-cosmos-quickstop.json](./54676-cosmos-quickstop.json) |
 | Cosmo's Rocket | 208795 | [208795-cosmos-rocket.json](./208795-cosmos-rocket.json) |
 | Cosmoblaster Exodia | 192939 | [192939-cosmoblaster-exodia.json](./192939-cosmoblaster-exodia.json) |
+| Cosmocade: The Arcade of Tomorrow | 181436 | [181436-cosmocade-the-arcade-of-tomorrow.json](./181436-cosmocade-the-arcade-of-tomorrow.json) |
 | Cosmochoria | 17230 | [17230-cosmochoria.json](./17230-cosmochoria.json) |
 | Cosmodread | 144994 | [144994-cosmodread.json](./144994-cosmodread.json) |
 | CosmoDreamer | 151677 | [151677-cosmodreamer.json](./151677-cosmodreamer.json) |
@@ -18887,6 +18892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Path | 107821 | [107821-crystal-path.json](./107821-crystal-path.json) |
 | Crystal Pixels | 68904 | [68904-crystal-pixels.json](./68904-crystal-pixels.json) |
 | Crystal Plague | 152454 | [152454-crystal-plague.json](./152454-crystal-plague.json) |
+| Crystal Project | 181444 | [181444-crystal-project.json](./181444-crystal-project.json) |
 | Crystal Project II | 403382 | [403382-crystal-project-ii.json](./403382-crystal-project-ii.json) |
 | Crystal Project: Mod Pack 1 - Quality Fun | 300934 | [300934-crystal-project-mod-pack-1-quality-fun.json](./300934-crystal-project-mod-pack-1-quality-fun.json) |
 | Crystal Project: Mod Pack 2 - New Challenges | 314886 | [314886-crystal-project-mod-pack-2-new-challenges.json](./314886-crystal-project-mod-pack-2-new-challenges.json) |
