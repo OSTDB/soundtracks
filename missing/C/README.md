@@ -3033,6 +3033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrot Track | 397857 | [397857-carrot-track.json](./397857-carrot-track.json) |
 | Carrot: Pancakes and Waffles | 201676 | [201676-carrot-pancakes-and-waffles.json](./201676-carrot-pancakes-and-waffles.json) |
 | Carrot: The First Seed | 248918 | [248918-carrot-the-first-seed.json](./248918-carrot-the-first-seed.json) |
+| Carrot&Islands | 164123 | [164123-carrot-and-islands.json](./164123-carrot-and-islands.json) |
 | Carrotour | 334407 | [334407-carrotour.json](./334407-carrotour.json) |
 | Carrots and Cream | 22414 | [22414-carrots-and-cream.json](./22414-carrots-and-cream.json) |
 | Carrotting Brain | 34418 | [34418-carrotting-brain.json](./34418-carrotting-brain.json) |
@@ -5426,6 +5427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cemetery Warrior 4 | 122576 | [122576-cemetery-warrior-4.json](./122576-cemetery-warrior-4.json) |
 | Cemetery Warrior 6 | 338506 | [338506-cemetery-warrior-6.json](./338506-cemetery-warrior-6.json) |
 | Cemetery Warrior 7 Boss Rush | 338507 | [338507-cemetery-warrior-7-boss-rush.json](./338507-cemetery-warrior-7-boss-rush.json) |
+| Cemetery Warrior V | 164146 | [164146-cemetery-warrior-v.json](./164146-cemetery-warrior-v.json) |
 | Cendovia Uprising | 346664 | [346664-cendovia-uprising.json](./346664-cendovia-uprising.json) |
 | Cendric | 81045 | [81045-cendric.json](./81045-cendric.json) |
 | Cendric's Quest | 118212 | [118212-cendrics-quest.json](./118212-cendrics-quest.json) |
@@ -8479,6 +8481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Albian: The Magic Convention | 232567 | [232567-chronicles-of-albian-the-magic-convention.json](./232567-chronicles-of-albian-the-magic-convention.json) |
 | Chronicles of Arcadia | 123541 | [123541-chronicles-of-arcadia.json](./123541-chronicles-of-arcadia.json) |
 | Chronicles of Ash | 169608 | [169608-chronicles-of-ash.json](./169608-chronicles-of-ash.json) |
+| Chronicles of Cascadia | 164135 | [164135-chronicles-of-cascadia.json](./164135-chronicles-of-cascadia.json) |
 | Chronicles of Childhood | 372411 | [372411-chronicles-of-childhood.json](./372411-chronicles-of-childhood.json) |
 | Chronicles Of Crystal: Turn-Basde Epoch | 297367 | [297367-chronicles-of-crystal-turn-basde-epoch.json](./297367-chronicles-of-crystal-turn-basde-epoch.json) |
 | Chronicles of cyberpunk | 75931 | [75931-chronicles-of-cyberpunk.json](./75931-chronicles-of-cyberpunk.json) |
