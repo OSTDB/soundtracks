@@ -1965,6 +1965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Operations: Diary of the War | 342845 | [342845-tank-operations-diary-of-the-war.json](./342845-tank-operations-diary-of-the-war.json) |
 | Tank Operations: European Campaign - Remastered | 107717 | [107717-tank-operations-european-campaign-remastered.json](./107717-tank-operations-european-campaign-remastered.json) |
 | Tank POV | 402526 | [402526-tank-pov.json](./402526-tank-pov.json) |
+| Tank Quest | 144504 | [144504-tank-quest.json](./144504-tank-quest.json) |
 | Tank Racer | 11779 | [11779-tank-racer.json](./11779-tank-racer.json) |
 | Tank Rampage | 168116 | [168116-tank-rampage.json](./168116-tank-rampage.json) |
 | Tank Rectangle | 359142 | [359142-tank-rectangle.json](./359142-tank-rectangle.json) |
@@ -5282,7 +5283,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Lava Escape Game | 128015 | [128015-that-lava-escape-game.json](./128015-that-lava-escape-game.json) |
 | That Level Again | 113962 | [113962-that-level-again.json](./113962-that-level-again.json) |
 | That Level Again 2 | 144491 | [144491-that-level-again-2.json](./144491-that-level-again-2.json) |
+| That Level Again 3 | 144492 | [144492-that-level-again-3.json](./144492-that-level-again-3.json) |
 | That Level Again 3D | 320092 | [320092-that-level-again-3d.json](./320092-that-level-again-3d.json) |
+| That Level Again 4 | 144494 | [144494-that-level-again-4.json](./144494-that-level-again-4.json) |
 | That Lonesome Valley | 240569 | [240569-that-lonesome-valley.json](./240569-that-lonesome-valley.json) |
 | That New Diner | 327900 | [327900-that-new-diner.json](./327900-that-new-diner.json) |
 | That Night | 218733 | [218733-that-night.json](./218733-that-night.json) |
@@ -9236,6 +9239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eyes of Mars | 236217 | [236217-the-eyes-of-mars.json](./236217-the-eyes-of-mars.json) |
 | The F.A. Premier League Football Manager 2000 | 70974 | [70974-the-f-a-premier-league-football-manager-2000.json](./70974-the-f-a-premier-league-football-manager-2000.json) |
 | The F.A. Premier League Football Manager 2001 | 66505 | [66505-the-f-a-premier-league-football-manager-2001.json](./66505-the-f-a-premier-league-football-manager-2001.json) |
+| The F.A. Premier League Football Manager 99 | 144464 | [144464-the-f-a-premier-league-football-manager-99.json](./144464-the-f-a-premier-league-football-manager-99.json) |
 | The F.A. Premier League Manager 2002 | 62041 | [62041-the-f-a-premier-league-manager-2002.json](./62041-the-f-a-premier-league-manager-2002.json) |
 | The F.A. Premier League Stars | 43790 | [43790-the-f-a-premier-league-stars.json](./43790-the-f-a-premier-league-stars.json) |
 | The Fab-Phonics 'Up, Up and Away' | 175546 | [175546-the-fab-phonics-up-up-and-away.json](./175546-the-fab-phonics-up-up-and-away.json) |
@@ -9473,6 +9477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fidgetts | 49000 | [49000-the-fidgetts.json](./49000-the-fidgetts.json) |
 | The Field | 176649 | [176649-the-field.json](./176649-the-field.json) |
 | The Field Between | 370732 | [370732-the-field-between.json](./370732-the-field-between.json) |
+| The Field of Miracles | 144498 | [144498-the-field-of-miracles.json](./144498-the-field-of-miracles.json) |
 | The Field Trip Murders | 231460 | [231460-the-field-trip-murders.json](./231460-the-field-trip-murders.json) |
 | The Fielder's Choice | 89005 | [89005-the-fielders-choice.json](./89005-the-fielders-choice.json) |
 | The Fielder's Choice | 89409 | [89409-the-fielders-choice.json](./89409-the-fielders-choice.json) |
@@ -15853,6 +15858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ripping Friends: The World's Most Manly Men! | 49179 | [49179-the-ripping-friends-the-worlds-most-manly-men.json](./49179-the-ripping-friends-the-worlds-most-manly-men.json) |
 | The Rise | 289958 | [289958-the-rise.json](./289958-the-rise.json) |
 | The Rise and Fall of Odysseus Kent | 218992 | [218992-the-rise-and-fall-of-odysseus-kent.json](./218992-the-rise-and-fall-of-odysseus-kent.json) |
+| The Rise of Atlantis | 144509 | [144509-the-rise-of-atlantis.json](./144509-the-rise-of-atlantis.json) |
 | The Rise of Captain Longbeard | 31158 | [31158-the-rise-of-captain-longbeard.json](./31158-the-rise-of-captain-longbeard.json) |
 | The Rise of Chubtan | 34631 | [34631-the-rise-of-chubtan.json](./34631-the-rise-of-chubtan.json) |
 | The Rise of Dracula | 183162 | [183162-the-rise-of-dracula.json](./183162-the-rise-of-dracula.json) |
@@ -31822,6 +31828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troll & Armor | 91856 | [91856-troll-and-armor.json](./91856-troll-and-armor.json) |
 | Troll Control | 125146 | [125146-troll-control.json](./125146-troll-control.json) |
 | Troll Face Clicker Quest | 105860 | [105860-troll-face-clicker-quest.json](./105860-troll-face-clicker-quest.json) |
+| Troll Face Horror Quest 2: Halloween Special | 144488 | [144488-troll-face-horror-quest-2-halloween-special.json](./144488-troll-face-horror-quest-2-halloween-special.json) |
 | Troll Face Quest Classic | 398752 | [398752-troll-face-quest-classic.json](./398752-troll-face-quest-classic.json) |
 | Troll Face Quest Horror | 351627 | [351627-troll-face-quest-horror.json](./351627-troll-face-quest-horror.json) |
 | Troll Face Quest Video Games 2 | 89622 | [89622-troll-face-quest-video-games-2.json](./89622-troll-face-quest-video-games-2.json) |
@@ -32071,6 +32078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troubleshooter | 84113 | [84113-troubleshooter.json](./84113-troubleshooter.json) |
 | Troubleshooter: Abandoned Children | 80002 | [80002-troubleshooter-abandoned-children.json](./80002-troubleshooter-abandoned-children.json) |
 | Troubleshooter: Abandoned Children - Crimson Crow | 224997 | [224997-troubleshooter-abandoned-children-crimson-crow.json](./224997-troubleshooter-abandoned-children-crimson-crow.json) |
+| Troubleshooter: Abandoned Children - White Lion and Black Witch | 144452 | [144452-troubleshooter-abandoned-children-white-lion-and-black-witch.json](./144452-troubleshooter-abandoned-children-white-lion-and-black-witch.json) |
 | Troubleshooting | 221195 | [221195-troubleshooting.json](./221195-troubleshooting.json) |
 | Trough the lab | 232024 | [232024-trough-the-lab.json](./232024-trough-the-lab.json) |
 | Troupe | 139594 | [139594-troupe.json](./139594-troupe.json) |
