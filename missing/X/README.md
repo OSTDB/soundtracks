@@ -631,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenobreakers: Classic Tower Defense | 337065 | [337065-xenobreakers-classic-tower-defense.json](./337065-xenobreakers-classic-tower-defense.json) |
 | XenoCave | 97072 | [97072-xenocave.json](./97072-xenocave.json) |
 | Xenochamber | 110976 | [110976-xenochamber.json](./110976-xenochamber.json) |
+| Xenocide | 176612 | [176612-xenocide.json](./176612-xenocide.json) |
 | Xenocide | 2393 | [2393-xenocide.json](./2393-xenocide.json) |
 | Xenociders | 126240 | [126240-xenociders.json](./126240-xenociders.json) |
 | Xenocite Clad | 64694 | [64694-xenocite-clad.json](./64694-xenocite-clad.json) |
