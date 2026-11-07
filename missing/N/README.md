@@ -4290,6 +4290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night House | 57503 | [57503-night-house.json](./57503-night-house.json) |
 | Night Hunter | 173380 | [173380-night-hunter.json](./173380-night-hunter.json) |
 | Night in Delirium | 372725 | [372725-night-in-delirium.json](./372725-night-in-delirium.json) |
+| Night in Riverager | 143203 | [143203-night-in-riverager.json](./143203-night-in-riverager.json) |
 | Night in the Countryside | 176400 | [176400-night-in-the-countryside.json](./176400-night-in-the-countryside.json) |
 | Night in the Storm | 134494 | [134494-night-in-the-storm.json](./134494-night-in-the-storm.json) |
 | Night in the Unpleasant House | 227837 | [227837-night-in-the-unpleasant-house.json](./227837-night-in-the-unpleasant-house.json) |
@@ -6908,6 +6909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NostalDoom | 269559 | [269559-nostaldoom.json](./269559-nostaldoom.json) |
 | NosTale | 55220 | [55220-nostale.json](./55220-nostale.json) |
 | Nostalgia | 135469 | [135469-nostalgia.json](./135469-nostalgia.json) |
+| Nostalgia | 143195 | [143195-nostalgia.json](./143195-nostalgia.json) |
 | Nostalgia | 21904 | [21904-nostalgia.json](./21904-nostalgia.json) |
 | Nostalgia | 242864 | [242864-nostalgia.json](./242864-nostalgia.json) |
 | Nostalgia | 360584 | [360584-nostalgia.json](./360584-nostalgia.json) |
