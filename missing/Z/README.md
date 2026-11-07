@@ -264,6 +264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zako Slayer | 228073 | [228073-zako-slayer.json](./228073-zako-slayer.json) |
 | Zakon | 212177 | [212177-zakon.json](./212177-zakon.json) |
 | Zaku | 62001 | [62001-zaku.json](./62001-zaku.json) |
+| Zakumba: Astraia | 155798 | [155798-zakumba-astraia.json](./155798-zakumba-astraia.json) |
 | Zakuro | 250246 | [250246-zakuro.json](./250246-zakuro.json) |
 | Zakuro no Aji | 37748 | [37748-zakuro-no-aji.json](./37748-zakuro-no-aji.json) |
 | Zakuzaku Actors | 201615 | [201615-zakuzaku-actors.json](./201615-zakuzaku-actors.json) |
@@ -759,6 +760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zenethics Lab : Outbreak | 54889 | [54889-zenethics-lab-outbreak.json](./54889-zenethics-lab-outbreak.json) |
 | Zenfar Battlegrounds | 25401 | [25401-zenfar-battlegrounds.json](./25401-zenfar-battlegrounds.json) |
 | Zenfar: The Adventure | 73599 | [73599-zenfar-the-adventure.json](./73599-zenfar-the-adventure.json) |
+| ZenFarm | 155804 | [155804-zenfarm.json](./155804-zenfarm.json) |
 | ZenFire | 292268 | [292268-zenfire.json](./292268-zenfire.json) |
 | Zenfit | 240183 | [240183-zenfit.json](./240183-zenfit.json) |
 | Zenforms: Protectors | 96043 | [96043-zenforms-protectors.json](./96043-zenforms-protectors.json) |
