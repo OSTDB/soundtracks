@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T-Shrek | 183321 | [183321-t-shrek.json](./183321-t-shrek.json) |
 | T-Zer0 | 69588 | [69588-t-zer0.json](./69588-t-zer0.json) |
 | T:ME Salvo | 308987 | [308987-t-me-salvo.json](./308987-t-me-salvo.json) |
+| T. B. P. | 156809 | [156809-t-b-p.json](./156809-t-b-p.json) |
 | T. N. T. Bomb Bomb | 92142 | [92142-t-n-t-bomb-bomb.json](./92142-t-n-t-bomb-bomb.json) |
 | T.A.L.E.S. | 265496 | [265496-t-a-l-e-s.json](./265496-t-a-l-e-s.json) |
 | T.A.P. | 114329 | [114329-t-a-p.json](./114329-t-a-p.json) |
@@ -2713,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tattered Sails | 298164 | [298164-tattered-sails.json](./298164-tattered-sails.json) |
 | Tatters of The King | 387710 | [387710-tatters-of-the-king.json](./387710-tatters-of-the-king.json) |
 | Tattletail | 26665 | [26665-tattletail.json](./26665-tattletail.json) |
+| Tattoo and Girls | 156769 | [156769-tattoo-and-girls.json](./156769-tattoo-and-girls.json) |
 | Tattoo Artist | 284725 | [284725-tattoo-artist.json](./284725-tattoo-artist.json) |
 | Tattoo Artist 2: Full Timer | 331457 | [331457-tattoo-artist-2-full-timer.json](./331457-tattoo-artist-2-full-timer.json) |
 | Tattoo Artist 3: On The Job | 331459 | [331459-tattoo-artist-3-on-the-job.json](./331459-tattoo-artist-3-on-the-job.json) |
@@ -3176,6 +3178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tech Glitch | 140949 | [140949-tech-glitch.json](./140949-tech-glitch.json) |
 | Tech Invaders TD | 219568 | [219568-tech-invaders-td.json](./219568-tech-invaders-td.json) |
 | Tech Jump Remastered | 176583 | [176583-tech-jump-remastered.json](./176583-tech-jump-remastered.json) |
+| Tech Madness | 156800 | [156800-tech-madness.json](./156800-tech-madness.json) |
 | Tech Market Simulator | 326339 | [326339-tech-market-simulator.json](./326339-tech-market-simulator.json) |
 | Tech Romancer | 227751 | [227751-tech-romancer.json](./227751-tech-romancer.json) |
 | Tech Romancer | 39313 | [39313-tech-romancer.json](./39313-tech-romancer.json) |
@@ -17138,6 +17141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Specter Chronicles: Episode 1 - The False Prophet | 236376 | [236376-the-specter-chronicles-episode-1-the-false-prophet.json](./236376-the-specter-chronicles-episode-1-the-false-prophet.json) |
 | The Specter's Desire | 301824 | [301824-the-specters-desire.json](./301824-the-specters-desire.json) |
 | The Spectral Web: Hitodama | 264575 | [264575-the-spectral-web-hitodama.json](./264575-the-spectral-web-hitodama.json) |
+| The Spectre Files: Deathstalker | 156774 | [156774-the-spectre-files-deathstalker.json](./156774-the-spectre-files-deathstalker.json) |
 | The Spectrum Retreat | 96065 | [96065-the-spectrum-retreat.json](./96065-the-spectrum-retreat.json) |
 | The Spectrum Soup | 183342 | [183342-the-spectrum-soup.json](./183342-the-spectrum-soup.json) |
 | The Spell | 113759 | [113759-the-spell.json](./113759-the-spell.json) |
@@ -23461,6 +23465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeTrade | 177782 | [177782-timetrade.json](./177782-timetrade.json) |
 | TimeTrain | 328629 | [328629-timetrain.json](./328629-timetrain.json) |
 | TimeTravelers | 74925 | [74925-timetravelers.json](./74925-timetravelers.json) |
+| Timewalk Tower Defense | 156771 | [156771-timewalk-tower-defense.json](./156771-timewalk-tower-defense.json) |
 | TimeWalker | 117607 | [117607-timewalker.json](./117607-timewalker.json) |
 | TimeWarp | 240909 | [240909-timewarp.json](./240909-timewarp.json) |
 | TimeWatch | 130909 | [130909-timewatch.json](./130909-timewatch.json) |
@@ -25234,6 +25239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TomaDo! | 391137 | [391137-tomado.json](./391137-tomado.json) |
 | Tomahawk | 26474 | [26474-tomahawk.json](./26474-tomahawk.json) |
 | Tomahawk Missile | 277897 | [277897-tomahawk-missile.json](./277897-tomahawk-missile.json) |
+| Tomai | 156793 | [156793-tomai.json](./156793-tomai.json) |
 | Tomak: Save the Earth - Love Story | 59697 | [59697-tomak-save-the-earth-love-story.json](./59697-tomak-save-the-earth-love-story.json) |
 | Tomak: Save the Earth, Again | 65310 | [65310-tomak-save-the-earth-again.json](./65310-tomak-save-the-earth-again.json) |
 | Tomarc the Barbarian | 23840 | [23840-tomarc-the-barbarian.json](./23840-tomarc-the-barbarian.json) |
@@ -30524,6 +30530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Träumerei: Chapter 2 | 137465 | [137465-traumerei-chapter-2.json](./137465-traumerei-chapter-2.json) |
 | Träumerei: Chapter 3 | 137447 | [137447-traumerei-chapter-3.json](./137447-traumerei-chapter-3.json) |
 | Träumerei: Chapter 4 | 137448 | [137448-traumerei-chapter-4.json](./137448-traumerei-chapter-4.json) |
+| Traumermaid | 156782 | [156782-traumermaid.json](./156782-traumermaid.json) |
 | Traumruf | 229737 | [229737-traumruf.json](./229737-traumruf.json) |
 | Travel Adventures with Hello Kitty | 62658 | [62658-travel-adventures-with-hello-kitty.json](./62658-travel-adventures-with-hello-kitty.json) |
 | Travel Along | 272905 | [272905-travel-along.json](./272905-travel-along.json) |
@@ -30621,6 +30628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travelling to the Moon | 259352 | [259352-travelling-to-the-moon.json](./259352-travelling-to-the-moon.json) |
 | Travelogue 360: Paris | 65182 | [65182-travelogue-360-paris.json](./65182-travelogue-360-paris.json) |
 | Traveloot | 392163 | [392163-traveloot.json](./392163-traveloot.json) |
+| TravelRacer | 156780 | [156780-travelracer.json](./156780-travelracer.json) |
 | Travelrama USA | 206078 | [206078-travelrama-usa.json](./206078-travelrama-usa.json) |
 | Travels in Od | 184744 | [184744-travels-in-od.json](./184744-travels-in-od.json) |
 | Travels of a Merchant's | 288567 | [288567-travels-of-a-merchants.json](./288567-travels-of-a-merchants.json) |
@@ -33991,6 +33999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Type: Unstable Vampire | 180822 | [180822-type-unstable-vampire.json](./180822-type-unstable-vampire.json) |
 | Typecast | 269911 | [269911-typecast.json](./269911-typecast.json) |
 | TypeCaster | 374215 | [374215-typecaster.json](./374215-typecaster.json) |
+| Typed82 | 156765 | [156765-typed82.json](./156765-typed82.json) |
 | Typeds | 181542 | [181542-typeds.json](./181542-typeds.json) |
 | Typefighters | 18956 | [18956-typefighters.json](./18956-typefighters.json) |
 | Typefighters: Steam Edition | 90589 | [90589-typefighters-steam-edition.json](./90589-typefighters-steam-edition.json) |
