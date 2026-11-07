@@ -8998,6 +8998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath of the Demon | 12832 | [12832-wrath-of-the-demon.json](./12832-wrath-of-the-demon.json) |
 | Wrath of the Gods | 73492 | [73492-wrath-of-the-gods.json](./73492-wrath-of-the-gods.json) |
 | Wrath of the Goliaths: Dinosaurs | 108634 | [108634-wrath-of-the-goliaths-dinosaurs.json](./108634-wrath-of-the-goliaths-dinosaurs.json) |
+| Wrath of the Goliaths: Dinosaurs - Pentaceratops License | 170071 | [170071-wrath-of-the-goliaths-dinosaurs-pentaceratops-license.json](./170071-wrath-of-the-goliaths-dinosaurs-pentaceratops-license.json) |
 | Wrath of the Roothless | 288454 | [288454-wrath-of-the-roothless.json](./288454-wrath-of-the-roothless.json) |
 | Wrath of the Samurai | 119494 | [119494-wrath-of-the-samurai.json](./119494-wrath-of-the-samurai.json) |
 | Wrath of the Sea King | 69905 | [69905-wrath-of-the-sea-king.json](./69905-wrath-of-the-sea-king.json) |
