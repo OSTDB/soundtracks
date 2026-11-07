@@ -6995,6 +6995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShadowPlay | 67109 | [67109-shadowplay.json](./67109-shadowplay.json) |
 | Shadowplay: Darkness Incarnate - Collector's Edition | 228244 | [228244-shadowplay-darkness-incarnate-collectors-edition.json](./228244-shadowplay-darkness-incarnate-collectors-edition.json) |
 | Shadowplay: Harrowstead Mystery - Collector's Edition | 228247 | [228247-shadowplay-harrowstead-mystery-collectors-edition.json](./228247-shadowplay-harrowstead-mystery-collectors-edition.json) |
+| Shadowplay: Journey to Wonderland | 183696 | [183696-shadowplay-journey-to-wonderland.json](./183696-shadowplay-journey-to-wonderland.json) |
 | Shadowplay: Metropolis Foe | 125722 | [125722-shadowplay-metropolis-foe.json](./125722-shadowplay-metropolis-foe.json) |
 | Shadowplay: The Forsaken Island - Collector’s Edition | 228246 | [228246-shadowplay-the-forsaken-island-collector-s-edition.json](./228246-shadowplay-the-forsaken-island-collector-s-edition.json) |
 | Shadowplay: Whispers of the Past - Collector's Edition | 228245 | [228245-shadowplay-whispers-of-the-past-collectors-edition.json](./228245-shadowplay-whispers-of-the-past-collectors-edition.json) |
@@ -7099,6 +7100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows: Awakening | 54775 | [54775-shadows-awakening.json](./54775-shadows-awakening.json) |
 | Shadows: Awakening - Necrophage's Curse | 155327 | [155327-shadows-awakening-necrophages-curse.json](./155327-shadows-awakening-necrophages-curse.json) |
 | Shadows: Awakening - The Chromaton Chronicles | 155328 | [155328-shadows-awakening-the-chromaton-chronicles.json](./155328-shadows-awakening-the-chromaton-chronicles.json) |
+| Shadows: Room Escape | 183697 | [183697-shadows-room-escape.json](./183697-shadows-room-escape.json) |
 | Shadowsense. | 207510 | [207510-shadowsense.json](./207510-shadowsense.json) |
 | ShadowSide | 81194 | [81194-shadowside.json](./81194-shadowside.json) |
 | Shadowspear Knight’s Quest | 248431 | [248431-shadowspear-knight-s-quest.json](./248431-shadowspear-knight-s-quest.json) |
@@ -13375,6 +13377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepless Night | 172485 | [172485-sleepless-night.json](./172485-sleepless-night.json) |
 | Sleepless Night | 267252 | [267252-sleepless-night.json](./267252-sleepless-night.json) |
 | Sleepless Night 2: Ladies' Night(mare) | 262020 | [262020-sleepless-night-2-ladies-night-mare.json](./262020-sleepless-night-2-ladies-night-mare.json) |
+| Sleepless Nights at Freddy's | 183678 | [183678-sleepless-nights-at-freddys.json](./183678-sleepless-nights-at-freddys.json) |
 | Sleepless: A Midsummer Night's Dream | 153779 | [153779-sleepless-a-midsummer-nights-dream.json](./153779-sleepless-a-midsummer-nights-dream.json) |
 | Sleepover | 113709 | [113709-sleepover.json](./113709-sleepover.json) |
 | Sleepover | 145908 | [145908-sleepover.json](./145908-sleepover.json) |
@@ -16114,6 +16117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sodden | 301236 | [301236-sodden.json](./301236-sodden.json) |
 | Sodium One | 45282 | [45282-sodium-one.json](./45282-sodium-one.json) |
 | Sodomy Fatale | 402679 | [402679-sodomy-fatale.json](./402679-sodomy-fatale.json) |
+| Sodsud | 183664 | [183664-sodsud.json](./183664-sodsud.json) |
 | SOE 64 | 401866 | [401866-soe-64.json](./401866-soe-64.json) |
 | Soer Dolls | 153906 | [153906-soer-dolls.json](./153906-soer-dolls.json) |
 | SOF: Enemy from the future | 305955 | [305955-sof-enemy-from-the-future.json](./305955-sof-enemy-from-the-future.json) |
@@ -19721,7 +19725,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -22459,6 +22462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Split Tactics | 386281 | [386281-split-tactics.json](./386281-split-tactics.json) |
 | Split the Ball | 256753 | [256753-split-the-ball.json](./256753-split-the-ball.json) |
 | Split Times | 368502 | [368502-split-times.json](./368502-split-times.json) |
+| Split-Second Samurai | 183670 | [183670-split-second-samurai.json](./183670-split-second-samurai.json) |
 | Split/Second | 2150 | [2150-split-second.json](./2150-split-second.json) |
 | Splitgate | 114684 | [114684-splitgate.json](./114684-splitgate.json) |
 | Splitgate 2: Meridian Founders Pack | 373469 | [373469-splitgate-2-meridian-founders-pack.json](./373469-splitgate-2-meridian-founders-pack.json) |
@@ -24958,6 +24962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbeard | 313952 | [313952-starbeard.json](./313952-starbeard.json) |
 | Starbeast | 64709 | [64709-starbeast.json](./64709-starbeast.json) |
 | Starbike | 70288 | [70288-starbike.json](./70288-starbike.json) |
+| Starbinder | 183677 | [183677-starbinder.json](./183677-starbinder.json) |
 | Starbirds | 73292 | [73292-starbirds.json](./73292-starbirds.json) |
 | Starbites | 235475 | [235475-starbites.json](./235475-starbites.json) |
 | Starblade | 138827 | [138827-starblade.json](./138827-starblade.json) |
@@ -30259,6 +30264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunbirds | 89007 | [89007-sunbirds.json](./89007-sunbirds.json) |
 | SunBlockers | 388538 | [388538-sunblockers.json](./388538-sunblockers.json) |
 | Sunbreak War | 373759 | [373759-sunbreak-war.json](./373759-sunbreak-war.json) |
+| Sunburnt | 183681 | [183681-sunburnt.json](./183681-sunburnt.json) |
 | Sunburnt | 86483 | [86483-sunburnt.json](./86483-sunburnt.json) |
 | Sunchaser | 322611 | [322611-sunchaser.json](./322611-sunchaser.json) |
 | Suncore Chronicles: The Tower | 90533 | [90533-suncore-chronicles-the-tower.json](./90533-suncore-chronicles-the-tower.json) |
