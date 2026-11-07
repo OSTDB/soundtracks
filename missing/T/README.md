@@ -14687,6 +14687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Only Wise | 157977 | [157977-the-only-wise.json](./157977-the-only-wise.json) |
 | The Oogieloves: Milkshake Mayhem | 307511 | [307511-the-oogieloves-milkshake-mayhem.json](./307511-the-oogieloves-milkshake-mayhem.json) |
 | The Ooze | 46251 | [46251-the-ooze.json](./46251-the-ooze.json) |
+| The Open House | 141389 | [141389-the-open-house.json](./141389-the-open-house.json) |
 | The Open League | 367999 | [367999-the-open-league.json](./367999-the-open-league.json) |
 | The Open Sky | 181135 | [181135-the-open-sky.json](./181135-the-open-sky.json) |
 | The Open World Survival Craft Hunters | 235819 | [235819-the-open-world-survival-craft-hunters.json](./235819-the-open-world-survival-craft-hunters.json) |
