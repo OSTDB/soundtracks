@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I-Xera | 60306 | [60306-i-xera.json](./60306-i-xera.json) |
 | I・S・U | 96236 | [96236-i-s-u.json](./96236-i-s-u.json) |
 | I, AI | 143897 | [143897-i-ai.json](./143897-i-ai.json) |
+| I, Bag | 187601 | [187601-i-bag.json](./187601-i-bag.json) |
 | I, Ball | 15232 | [15232-i-ball.json](./15232-i-ball.json) |
 | I, Ball II | 38927 | [38927-i-ball-ii.json](./38927-i-ball-ii.json) |
 | I, Chatbot: Aisylum | 290511 | [290511-i-chatbot-aisylum.json](./290511-i-chatbot-aisylum.json) |
@@ -3908,6 +3909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Versus | 143697 | [143697-infinite-versus.json](./143697-infinite-versus.json) |
 | Infinite Void | 294868 | [294868-infinite-void.json](./294868-infinite-void.json) |
 | Infinite Void | 311202 | [311202-infinite-void.json](./311202-infinite-void.json) |
+| Infinite Voyager | 187639 | [187639-infinite-voyager.json](./187639-infinite-voyager.json) |
 | Infinite Warrior | 175317 | [175317-infinite-warrior.json](./175317-infinite-warrior.json) |
 | Infinite Waves TD | 224707 | [224707-infinite-waves-td.json](./224707-infinite-waves-td.json) |
 | Infinite Way | 161508 | [161508-infinite-way.json](./161508-infinite-way.json) |
@@ -4928,6 +4930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Affairs | 116947 | [116947-international-affairs.json](./116947-international-affairs.json) |
 | International Athletics | 20321 | [20321-international-athletics.json](./20321-international-athletics.json) |
 | International Athletics | 272847 | [272847-international-athletics.json](./272847-international-athletics.json) |
+| International Basketball | 187624 | [187624-international-basketball.json](./187624-international-basketball.json) |
 | International Basketball 2009 | 54124 | [54124-international-basketball-2009.json](./54124-international-basketball-2009.json) |
 | International Basketball Manager | 106559 | [106559-international-basketball-manager.json](./106559-international-basketball-manager.json) |
 | International Basketball Manager 23 | 224551 | [224551-international-basketball-manager-23.json](./224551-international-basketball-manager-23.json) |
@@ -5472,6 +5475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invector: Rhythm Galaxy - Spinnin' Song Pack | 272743 | [272743-invector-rhythm-galaxy-spinnin-song-pack.json](./272743-invector-rhythm-galaxy-spinnin-song-pack.json) |
 | InVein | 402487 | [402487-invein.json](./402487-invein.json) |
 | Invention 2 | 31667 | [31667-invention-2.json](./31667-invention-2.json) |
+| Invention 3 | 187591 | [187591-invention-3.json](./187591-invention-3.json) |
 | Invention 4 | 261778 | [261778-invention-4.json](./261778-invention-4.json) |
 | Invention 5 | 336699 | [336699-invention-5.json](./336699-invention-5.json) |
 | Invention 6 | 340759 | [340759-invention-6.json](./340759-invention-6.json) |
