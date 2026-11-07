@@ -6292,6 +6292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Baseball 2003: Shuuki-gou | 269389 | [269389-the-baseball-2003-shuuki-gou.json](./269389-the-baseball-2003-shuuki-gou.json) |
 | The Baseball T | 217912 | [217912-the-baseball-t.json](./217912-the-baseball-t.json) |
 | The Based Turnabout | 308419 | [308419-the-based-turnabout.json](./308419-the-based-turnabout.json) |
+| The Basement | 183153 | [183153-the-basement.json](./183153-the-basement.json) |
 | The Basement | 274942 | [274942-the-basement.json](./274942-the-basement.json) |
 | The Basement | 282493 | [282493-the-basement.json](./282493-the-basement.json) |
 | The Basement | 326942 | [326942-the-basement.json](./326942-the-basement.json) |
@@ -11843,6 +11844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lab and Dungeons | 275403 | [275403-the-lab-and-dungeons.json](./275403-the-lab-and-dungeons.json) |
 | The Lab Thing | 267813 | [267813-the-lab-thing.json](./267813-the-lab-thing.json) |
 | The Lab: Escape Room | 204847 | [204847-the-lab-escape-room.json](./204847-the-lab-escape-room.json) |
+| The Labyrinth | 183148 | [183148-the-labyrinth.json](./183148-the-labyrinth.json) |
 | The Labyrinth | 239979 | [239979-the-labyrinth.json](./239979-the-labyrinth.json) |
 | The Labyrinth | 312740 | [312740-the-labyrinth.json](./312740-the-labyrinth.json) |
 | The Labyrinth | 37407 | [37407-the-labyrinth.json](./37407-the-labyrinth.json) |
@@ -15715,6 +15717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rise and Fall of Odysseus Kent | 218992 | [218992-the-rise-and-fall-of-odysseus-kent.json](./218992-the-rise-and-fall-of-odysseus-kent.json) |
 | The Rise of Captain Longbeard | 31158 | [31158-the-rise-of-captain-longbeard.json](./31158-the-rise-of-captain-longbeard.json) |
 | The Rise of Chubtan | 34631 | [34631-the-rise-of-chubtan.json](./34631-the-rise-of-chubtan.json) |
+| The Rise of Dracula | 183162 | [183162-the-rise-of-dracula.json](./183162-the-rise-of-dracula.json) |
 | The Rise of the Dough | 301901 | [301901-the-rise-of-the-dough.json](./301901-the-rise-of-the-dough.json) |
 | The Rise of the Golden Idol | 279614 | [279614-the-rise-of-the-golden-idol.json](./279614-the-rise-of-the-golden-idol.json) |
 | The Rise of the Hero | 369186 | [369186-the-rise-of-the-hero.json](./369186-the-rise-of-the-hero.json) |
@@ -16658,6 +16661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sims 4: Lovestruck | 307067 | [307067-the-sims-4-lovestruck.json](./307067-the-sims-4-lovestruck.json) |
 | The Sims 4: Mean Girls Capsule Kit | 421340 | [421340-the-sims-4-mean-girls-capsule-kit.json](./421340-the-sims-4-mean-girls-capsule-kit.json) |
 | The Sims 4: Modern Luxe Kit | 265706 | [265706-the-sims-4-modern-luxe-kit.json](./265706-the-sims-4-modern-luxe-kit.json) |
+| The Sims 4: Modern Menswear Kit | 183145 | [183145-the-sims-4-modern-menswear-kit.json](./183145-the-sims-4-modern-menswear-kit.json) |
 | The Sims 4: Modern Retreat Kit | 377759 | [377759-the-sims-4-modern-retreat-kit.json](./377759-the-sims-4-modern-retreat-kit.json) |
 | The Sims 4: Moonlight Chic Kit | 202254 | [202254-the-sims-4-moonlight-chic-kit.json](./202254-the-sims-4-moonlight-chic-kit.json) |
 | The Sims 4: Moschino Stuff | 136182 | [136182-the-sims-4-moschino-stuff.json](./136182-the-sims-4-moschino-stuff.json) |
@@ -24826,8 +24830,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege X | 349484 | [349484-tom-clancys-rainbow-six-siege-x.json](./349484-tom-clancys-rainbow-six-siege-x.json) |
 | Tom Clancy's Rainbow Six Siege: Complete Edition | 53820 | [53820-tom-clancys-rainbow-six-siege-complete-edition.json](./53820-tom-clancys-rainbow-six-siege-complete-edition.json) |
 | Tom Clancy's Rainbow Six Siege: Crimson Heist | 144049 | [144049-tom-clancys-rainbow-six-siege-crimson-heist.json](./144049-tom-clancys-rainbow-six-siege-crimson-heist.json) |
+| Tom Clancy's Rainbow Six Siege: Crystal Guard | 183112 | [183112-tom-clancys-rainbow-six-siege-crystal-guard.json](./183112-tom-clancys-rainbow-six-siege-crystal-guard.json) |
 | Tom Clancy's Rainbow Six Siege: Deluxe Edition | 118882 | [118882-tom-clancys-rainbow-six-siege-deluxe-edition.json](./118882-tom-clancys-rainbow-six-siege-deluxe-edition.json) |
 | Tom Clancy's Rainbow Six Siege: Demon Veil | 198266 | [198266-tom-clancys-rainbow-six-siege-demon-veil.json](./198266-tom-clancys-rainbow-six-siege-demon-veil.json) |
+| Tom Clancy's Rainbow Six Siege: High Calibre | 183114 | [183114-tom-clancys-rainbow-six-siege-high-calibre.json](./183114-tom-clancys-rainbow-six-siege-high-calibre.json) |
 | Tom Clancy's Rainbow Six Siege: North Star | 158944 | [158944-tom-clancys-rainbow-six-siege-north-star.json](./158944-tom-clancys-rainbow-six-siege-north-star.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Black Ice | 24499 | [24499-tom-clancys-rainbow-six-siege-operation-black-ice.json](./24499-tom-clancys-rainbow-six-siege-operation-black-ice.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Blood Orchid | 55167 | [55167-tom-clancys-rainbow-six-siege-operation-blood-orchid.json](./55167-tom-clancys-rainbow-six-siege-operation-blood-orchid.json) |
@@ -29970,6 +29976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped in the Kanal | 259538 | [259538-trapped-in-the-kanal.json](./259538-trapped-in-the-kanal.json) |
 | Trapped in The Kanal | 259706 | [259706-trapped-in-the-kanal.json](./259706-trapped-in-the-kanal.json) |
 | Trapped in the Omniverse | 392113 | [392113-trapped-in-the-omniverse.json](./392113-trapped-in-the-omniverse.json) |
+| Trapped in the Station Late at Night | 183110 | [183110-trapped-in-the-station-late-at-night.json](./183110-trapped-in-the-station-late-at-night.json) |
 | Trapped in The Tricky Prison | 270478 | [270478-trapped-in-the-tricky-prison.json](./270478-trapped-in-the-tricky-prison.json) |
 | Trapped Inside a Train (And There's Nothing You Can Do About It) | 299304 | [299304-trapped-inside-a-train-and-theres-nothing-you-can-do-about-it.json](./299304-trapped-inside-a-train-and-theres-nothing-you-can-do-about-it.json) |
 | Trapped on Monster Island | 116507 | [116507-trapped-on-monster-island.json](./116507-trapped-on-monster-island.json) |
