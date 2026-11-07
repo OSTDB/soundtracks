@@ -10840,6 +10840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Trigger 64 | 184693 | [184693-silver-trigger-64.json](./184693-silver-trigger-64.json) |
 | Silver Valley | 267976 | [267976-silver-valley.json](./267976-silver-valley.json) |
 | Silver Vault | 164066 | [164066-silver-vault.json](./164066-silver-vault.json) |
+| Silver Whistle | 161499 | [161499-silver-whistle.json](./161499-silver-whistle.json) |
 | Silver Wire | 205033 | [205033-silver-wire.json](./205033-silver-wire.json) |
 | Silver's Adventure | 326552 | [326552-silvers-adventure.json](./326552-silvers-adventure.json) |
 | Silverball | 76466 | [76466-silverball.json](./76466-silverball.json) |
@@ -14605,6 +14606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashmuck Champions | 15323 | [15323-smashmuck-champions.json](./15323-smashmuck-champions.json) |
 | Smashometry | 378902 | [378902-smashometry.json](./378902-smashometry.json) |
 | Smashpunks | 178088 | [178088-smashpunks.json](./178088-smashpunks.json) |
+| Smashroom | 161458 | [161458-smashroom.json](./161458-smashroom.json) |
 | Smashtastic Cricket | 241549 | [241549-smashtastic-cricket.json](./241549-smashtastic-cricket.json) |
 | Smashteroid | 170262 | [170262-smashteroid.json](./170262-smashteroid.json) |
 | Smashteroids | 418389 | [418389-smashteroids.json](./418389-smashteroids.json) |
@@ -16449,6 +16451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar | 68427 | [68427-solar.json](./68427-solar.json) |
 | Solar 2 | 6342 | [6342-solar-2.json](./6342-solar-2.json) |
 | Solar Assault | 1485 | [1485-solar-assault.json](./1485-solar-assault.json) |
+| Solar Baron | 161490 | [161490-solar-baron.json](./161490-solar-baron.json) |
 | Solar Battalion | 99600 | [99600-solar-battalion.json](./99600-solar-battalion.json) |
 | Solar Battle Glargaz | 86766 | [86766-solar-battle-glargaz.json](./86766-solar-battle-glargaz.json) |
 | Solar Blast | 147648 | [147648-solar-blast.json](./147648-solar-blast.json) |
@@ -19237,6 +19240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Southbound | 391602 | [391602-southbound.json](./391602-southbound.json) |
 | Southern Belle | 10744 | [10744-southern-belle.json](./10744-southern-belle.json) |
 | Southern Command | 24796 | [24796-southern-command.json](./24796-southern-command.json) |
+| Southern Cross Battle Force | 161494 | [161494-southern-cross-battle-force.json](./161494-southern-cross-battle-force.json) |
 | Southern Legends: The Temple Defenders | 236382 | [236382-southern-legends-the-temple-defenders.json](./236382-southern-legends-the-temple-defenders.json) |
 | Southern Lights: Broken Frequency | 410943 | [410943-southern-lights-broken-frequency.json](./410943-southern-lights-broken-frequency.json) |
 | Southern Monsters | 139315 | [139315-southern-monsters.json](./139315-southern-monsters.json) |
@@ -20400,6 +20404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Trader | 9469 | [9469-space-trader.json](./9469-space-trader.json) |
 | Space Trader: Merchant Marine | 29191 | [29191-space-trader-merchant-marine.json](./29191-space-trader-merchant-marine.json) |
 | Space Trail Fireworks | 304858 | [304858-space-trail-fireworks.json](./304858-space-trail-fireworks.json) |
+| Space Train | 161489 | [161489-space-train.json](./161489-space-train.json) |
 | Space Trains | 149327 | [149327-space-trains.json](./149327-space-trains.json) |
 | Space Transfer | 109887 | [109887-space-transfer.json](./109887-space-transfer.json) |
 | Space Transport Tycoon | 152737 | [152737-space-transport-tycoon.json](./152737-space-transport-tycoon.json) |
@@ -23038,6 +23043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot It! Challenge | 64619 | [64619-spot-it-challenge.json](./64619-spot-it-challenge.json) |
 | Spot It! Mean Machines | 23679 | [23679-spot-it-mean-machines.json](./23679-spot-it-mean-machines.json) |
 | Spot Pool | 94717 | [94717-spot-pool.json](./94717-spot-pool.json) |
+| Spot Sample Witness Simulator | 161491 | [161491-spot-sample-witness-simulator.json](./161491-spot-sample-witness-simulator.json) |
 | Spot the Cat | 378285 | [378285-spot-the-cat.json](./378285-spot-the-cat.json) |
 | Spot the Cat: Cat's Stories | 386797 | [386797-spot-the-cat-cats-stories.json](./386797-spot-the-cat-cats-stories.json) |
 | Spot the Cat: Stories Edition | 386803 | [386803-spot-the-cat-stories-edition.json](./386803-spot-the-cat-stories-edition.json) |
@@ -30398,6 +30404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun Lotion On My Curvy Asscheeks | 262269 | [262269-sun-lotion-on-my-curvy-asscheeks.json](./262269-sun-lotion-on-my-curvy-asscheeks.json) |
 | Sun Meadow | 385076 | [385076-sun-meadow.json](./385076-sun-meadow.json) |
 | Sun Meiqi Mystery: Yuer Hutong | 154922 | [154922-sun-meiqi-mystery-yuer-hutong.json](./154922-sun-meiqi-mystery-yuer-hutong.json) |
+| Sūn Měiqí Yí'àn: Dì-èr Jì | 161466 | [161466-sun-meiqi-yian-di-er-ji.json](./161466-sun-meiqi-yian-di-er-ji.json) |
 | Sūn Měiqí Yí'àn: Dì-sān Jì | 149468 | [149468-sun-meiqi-yian-di-san-ji.json](./149468-sun-meiqi-yian-di-san-ji.json) |
 | Sun Rush | 244517 | [244517-sun-rush.json](./244517-sun-rush.json) |
 | Sun Scorcher | 356781 | [356781-sun-scorcher.json](./356781-sun-scorcher.json) |
