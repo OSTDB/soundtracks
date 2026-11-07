@@ -4719,6 +4719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror-Daktil 4D | 147211 | [147211-terror-daktil-4d.json](./147211-terror-daktil-4d.json) |
 | Terror: Endless Night | 196955 | [196955-terror-endless-night.json](./196955-terror-endless-night.json) |
 | Terrorarium | 115014 | [115014-terrorarium.json](./115014-terrorarium.json) |
+| Terrorbane | 152966 | [152966-terrorbane.json](./152966-terrorbane.json) |
 | Terrorbytes | 319843 | [319843-terrorbytes.json](./319843-terrorbytes.json) |
 | Terrordrome: Reign of the Legends | 103050 | [103050-terrordrome-reign-of-the-legends.json](./103050-terrordrome-reign-of-the-legends.json) |
 | Terrordrome: Rise of the Boogeymen | 47036 | [47036-terrordrome-rise-of-the-boogeymen.json](./47036-terrordrome-rise-of-the-boogeymen.json) |
@@ -12409,6 +12410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Survivors Harem | 379007 | [379007-the-last-survivors-harem.json](./379007-the-last-survivors-harem.json) |
 | The Last Sword | 235808 | [235808-the-last-sword.json](./235808-the-last-sword.json) |
 | The Last Tale | 403004 | [403004-the-last-tale.json](./403004-the-last-tale.json) |
+| The last tank fight | 152948 | [152948-the-last-tank-fight.json](./152948-the-last-tank-fight.json) |
 | The Last Tape | 334841 | [334841-the-last-tape.json](./334841-the-last-tape.json) |
 | The Last Tape: Before the Mine | 372973 | [372973-the-last-tape-before-the-mine.json](./372973-the-last-tape-before-the-mine.json) |
 | The Last Tater | 200346 | [200346-the-last-tater.json](./200346-the-last-tater.json) |
@@ -12461,6 +12463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last World | 275821 | [275821-the-last-world.json](./275821-the-last-world.json) |
 | The Last Worlds: Crossed Souls | 374130 | [374130-the-last-worlds-crossed-souls.json](./374130-the-last-worlds-crossed-souls.json) |
 | The Last Wulin | 156148 | [156148-the-last-wulin.json](./156148-the-last-wulin.json) |
+| The Last Yandere: Cursed Dark | 152556 | [152556-the-last-yandere-cursed-dark.json](./152556-the-last-yandere-cursed-dark.json) |
 | The Last Z VR | 247610 | [247610-the-last-z-vr.json](./247610-the-last-z-vr.json) |
 | The Last Zeppelin | 418575 | [418575-the-last-zeppelin.json](./418575-the-last-zeppelin.json) |
 | The Last Zone | 369123 | [369123-the-last-zone.json](./369123-the-last-zone.json) |
@@ -13168,6 +13171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Slime | 83536 | [83536-the-little-slime.json](./83536-the-little-slime.json) |
 | The Little Star Spirit | 199998 | [199998-the-little-star-spirit.json](./199998-the-little-star-spirit.json) |
 | The Little Tales of Alexandria | 304757 | [304757-the-little-tales-of-alexandria.json](./304757-the-little-tales-of-alexandria.json) |
+| The Little Tank Hunter | 152940 | [152940-the-little-tank-hunter.json](./152940-the-little-tank-hunter.json) |
 | The Little Tomb: The Maholova Club and the Search for a Dead Body | 325103 | [325103-the-little-tomb-the-maholova-club-and-the-search-for-a-dead-body.json](./325103-the-little-tomb-the-maholova-club-and-the-search-for-a-dead-body.json) |
 | The Little Trashmaid Puzzletime | 147428 | [147428-the-little-trashmaid-puzzletime.json](./147428-the-little-trashmaid-puzzletime.json) |
 | The Little Uni | 330731 | [330731-the-little-uni.json](./330731-the-little-uni.json) |
@@ -17335,6 +17339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Story of Mikagoyama | 390661 | [390661-the-story-of-mikagoyama.json](./390661-the-story-of-mikagoyama.json) |
 | The Story of Miss Mouse | 306026 | [306026-the-story-of-miss-mouse.json](./306026-the-story-of-miss-mouse.json) |
 | The Story of My Life | 114774 | [114774-the-story-of-my-life.json](./114774-the-story-of-my-life.json) |
+| The Story of Qingzhi Town | 152963 | [152963-the-story-of-qingzhi-town.json](./152963-the-story-of-qingzhi-town.json) |
 | The Story of Red Cloud | 361223 | [361223-the-story-of-red-cloud.json](./361223-the-story-of-red-cloud.json) |
 | The Story of the Flood | 164171 | [164171-the-story-of-the-flood.json](./164171-the-story-of-the-flood.json) |
 | The Story of the Goddess Ankhanessa: Journey to the East | 181193 | [181193-the-story-of-the-goddess-ankhanessa-journey-to-the-east.json](./181193-the-story-of-the-goddess-ankhanessa-journey-to-the-east.json) |
@@ -20219,6 +20224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thirty Monsters Challenge | 260506 | [260506-thirty-monsters-challenge.json](./260506-thirty-monsters-challenge.json) |
 | Thirty Monsters Challenge 2: Thirty Aliens | 313964 | [313964-thirty-monsters-challenge-2-thirty-aliens.json](./313964-thirty-monsters-challenge-2-thirty-aliens.json) |
 | Thirty One Rummy | 87545 | [87545-thirty-one-rummy.json](./87545-thirty-one-rummy.json) |
+| Thirty Two HardMod | 152967 | [152967-thirty-two-hardmod.json](./152967-thirty-two-hardmod.json) |
 | Thirty Years' War | 32550 | [32550-thirty-years-war.json](./32550-thirty-years-war.json) |
 | Thirty-One 3D Premium | 189790 | [189790-thirty-one-3d-premium.json](./189790-thirty-one-3d-premium.json) |
 | This & Cats | 189330 | [189330-this-and-cats.json](./189330-this-and-cats.json) |
