@@ -3603,6 +3603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Margo: On The Brink | 223373 | [223373-margo-on-the-brink.json](./223373-margo-on-the-brink.json) |
 | Margo: The Bean Adventure | 174305 | [174305-margo-the-bean-adventure.json](./174305-margo-the-bean-adventure.json) |
 | Margonem | 58835 | [58835-margonem.json](./58835-margonem.json) |
+| Margonem 2 | 165264 | [165264-margonem-2.json](./165264-margonem-2.json) |
 | Margonem Adventures | 237638 | [237638-margonem-adventures.json](./237638-margonem-adventures.json) |
 | Margoq's Lair | 270559 | [270559-margoqs-lair.json](./270559-margoqs-lair.json) |
 | Margot's Bepuzzled | 210042 | [210042-margots-bepuzzled.json](./210042-margots-bepuzzled.json) |
@@ -3737,6 +3738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario 3 Oasis | 241160 | [241160-mario-3-oasis.json](./241160-mario-3-oasis.json) |
 | Mario 3: Vokrug Svyeta | 202673 | [202673-mario-3-vokrug-svyeta.json](./202673-mario-3-vokrug-svyeta.json) |
 | Mario 4: Kosmichyeskaya Odissyeya | 200539 | [200539-mario-4-kosmichyeskaya-odissyeya.json](./200539-mario-4-kosmichyeskaya-odissyeya.json) |
+| Mario 64 and Yoshi | 165257 | [165257-mario-64-and-yoshi.json](./165257-mario-64-and-yoshi.json) |
 | Mario 64 x Banjo Kazooie | 134018 | [134018-mario-64-x-banjo-kazooie.json](./134018-mario-64-x-banjo-kazooie.json) |
 | Mario 7-in-1 | 242230 | [242230-mario-7-in-1.json](./242230-mario-7-in-1.json) |
 | Mario a Plumber in Time Re-Mastered | 294773 | [294773-mario-a-plumber-in-time-re-mastered.json](./294773-mario-a-plumber-in-time-re-mastered.json) |
@@ -5983,6 +5985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -14684,6 +14687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Model City | 149188 | [149188-model-city.json](./149188-model-city.json) |
 | Model de Fight | 103767 | [103767-model-de-fight.json](./103767-model-de-fight.json) |
 | Model Debut #Nicola | 121361 | [121361-model-debut-nicola.json](./121361-model-debut-nicola.json) |
+| Model Debut 2: Nicola | 165234 | [165234-model-debut-2-nicola.json](./165234-model-debut-2-nicola.json) |
 | Model Debut 4 | 378505 | [378505-model-debut-4.json](./378505-model-debut-4.json) |
 | Model Debut3 #Nicola | 320463 | [320463-model-debut3-nicola.json](./320463-model-debut3-nicola.json) |
 | Model Eight | 245750 | [245750-model-eight.json](./245750-model-eight.json) |
