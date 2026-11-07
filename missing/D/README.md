@@ -4176,6 +4176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Broadcast | 153878 | [153878-deadly-broadcast.json](./153878-deadly-broadcast.json) |
 | Deadly Burrito | 111506 | [111506-deadly-burrito.json](./111506-deadly-burrito.json) |
 | Deadly Contagion | 275130 | [275130-deadly-contagion.json](./275130-deadly-contagion.json) |
+| Deadly Cosmic | 146956 | [146956-deadly-cosmic.json](./146956-deadly-cosmic.json) |
 | Deadly Cryptids | 87966 | [87966-deadly-cryptids.json](./87966-deadly-cryptids.json) |
 | Deadly Curse | 107683 | [107683-deadly-curse.json](./107683-deadly-curse.json) |
 | Deadly Dainosaur: Hunting Safari | 147289 | [147289-deadly-dainosaur-hunting-safari.json](./147289-deadly-dainosaur-hunting-safari.json) |
@@ -9166,6 +9167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digerati Pixel Art Bundle Part 1 | 90663 | [90663-digerati-pixel-art-bundle-part-1.json](./90663-digerati-pixel-art-bundle-part-1.json) |
 | Digerati Presents: If You Don't Have Xbox Game Pass Bundle | 200513 | [200513-digerati-presents-if-you-dont-have-xbox-game-pass-bundle.json](./200513-digerati-presents-if-you-dont-have-xbox-game-pass-bundle.json) |
 | Digerati Presents: Indie Darling Bundle Vol. 5 | 204275 | [204275-digerati-presents-indie-darling-bundle-vol-5.json](./204275-digerati-presents-indie-darling-bundle-vol-5.json) |
+| Digerati Presents: Make It Quick Bundle Vol. 1 | 146946 | [146946-digerati-presents-make-it-quick-bundle-vol-1.json](./146946-digerati-presents-make-it-quick-bundle-vol-1.json) |
 | Digerati Presents: RPG Bundle Vol. 1 | 164686 | [164686-digerati-presents-rpg-bundle-vol-1.json](./164686-digerati-presents-rpg-bundle-vol-1.json) |
 | Digerati Presents: The Dungeon Crawl Vol. 1 | 147884 | [147884-digerati-presents-the-dungeon-crawl-vol-1.json](./147884-digerati-presents-the-dungeon-crawl-vol-1.json) |
 | Digested | 278255 | [278255-digested.json](./278255-digested.json) |
@@ -9698,6 +9700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Hunt | 150081 | [150081-dino-hunt.json](./150081-dino-hunt.json) |
 | Dino Hunt | 265089 | [265089-dino-hunt.json](./265089-dino-hunt.json) |
 | Dino Hunt 2 | 265090 | [265090-dino-hunt-2.json](./265090-dino-hunt-2.json) |
+| Dino Invasion | 146966 | [146966-dino-invasion.json](./146966-dino-invasion.json) |
 | Dino Island Adventure | 188795 | [188795-dino-island-adventure.json](./188795-dino-island-adventure.json) |
 | Dino Island: The Four Crystals | 194859 | [194859-dino-island-the-four-crystals.json](./194859-dino-island-the-four-crystals.json) |
 | Dino Jnr. in Canyon Capers | 57167 | [57167-dino-jnr-in-canyon-capers.json](./57167-dino-jnr-in-canyon-capers.json) |
