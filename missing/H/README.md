@@ -770,6 +770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Sex Party | 175794 | [175794-halloween-sex-party.json](./175794-halloween-sex-party.json) |
 | Halloween Shooter | 222395 | [222395-halloween-shooter.json](./222395-halloween-shooter.json) |
 | Halloween Sinister Trivia | 274488 | [274488-halloween-sinister-trivia.json](./274488-halloween-sinister-trivia.json) |
+| Halloween Snowball Bubble | 172862 | [172862-halloween-snowball-bubble.json](./172862-halloween-snowball-bubble.json) |
 | Halloween Store Simulator | 216625 | [216625-halloween-store-simulator.json](./216625-halloween-store-simulator.json) |
 | Halloween Stories: Black Book | 345764 | [345764-halloween-stories-black-book.json](./345764-halloween-stories-black-book.json) |
 | Halloween Stories: Black Book - Collector's Edition | 271028 | [271028-halloween-stories-black-book-collectors-edition.json](./271028-halloween-stories-black-book-collectors-edition.json) |
@@ -2796,6 +2797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted School: The Presence Behind You | 313639 | [313639-haunted-school-the-presence-behind-you.json](./313639-haunted-school-the-presence-behind-you.json) |
 | Haunted Science: Welcome To I.R.H.I.A. | 359003 | [359003-haunted-science-welcome-to-i-r-h-i-a.json](./359003-haunted-science-welcome-to-i-r-h-i-a.json) |
 | Haunted Service | 387601 | [387601-haunted-service.json](./387601-haunted-service.json) |
+| Haunted Shores | 172898 | [172898-haunted-shores.json](./172898-haunted-shores.json) |
 | Haunted Space Hotel: Vacancy | 330508 | [330508-haunted-space-hotel-vacancy.json](./330508-haunted-space-hotel-vacancy.json) |
 | Haunted Starbase | 317360 | [317360-haunted-starbase.json](./317360-haunted-starbase.json) |
 | Haunted Stories | 188751 | [188751-haunted-stories.json](./188751-haunted-stories.json) |
@@ -12433,6 +12435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Blob | 54779 | [54779-hyper-blob.json](./54779-hyper-blob.json) |
 | Hyper Bounce Blast | 34328 | [34328-hyper-bounce-blast.json](./34328-hyper-bounce-blast.json) |
 | Hyper Box | 33599 | [33599-hyper-box.json](./33599-hyper-box.json) |
+| Hyper Bullet | 172881 | [172881-hyper-bullet.json](./172881-hyper-bullet.json) |
 | Hyper Bullet | 402564 | [402564-hyper-bullet.json](./402564-hyper-bullet.json) |
 | Hyper Bun Buster: Rocket Hammer Action | 368624 | [368624-hyper-bun-buster-rocket-hammer-action.json](./368624-hyper-bun-buster-rocket-hammer-action.json) |
 | Hyper Button | 76180 | [76180-hyper-button.json](./76180-hyper-button.json) |
