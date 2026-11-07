@@ -1142,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13 Cycles | 102927 | [102927-13-cycles.json](./102927-13-cycles.json) |
 | 13 Days In Hell | 387294 | [387294-13-days-in-hell.json](./387294-13-days-in-hell.json) |
 | 13 Floors: Anomalies | 292243 | [292243-13-floors-anomalies.json](./292243-13-floors-anomalies.json) |
+| 13 Gates | 178741 | [178741-13-gates.json](./178741-13-gates.json) |
 | 13 Jellyfish | 176793 | [176793-13-jellyfish.json](./176793-13-jellyfish.json) |
 | 13 Laurel Road | 177834 | [177834-13-laurel-road.json](./177834-13-laurel-road.json) |
 | 13 Letters | 98416 | [98416-13-letters.json](./98416-13-letters.json) |
