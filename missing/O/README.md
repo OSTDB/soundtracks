@@ -2304,6 +2304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Drunken Knight | 211969 | [211969-one-drunken-knight.json](./211969-one-drunken-knight.json) |
 | One Dumb Wizard | 402970 | [402970-one-dumb-wizard.json](./402970-one-dumb-wizard.json) |
 | One Eleven | 211694 | [211694-one-eleven.json](./211694-one-eleven.json) |
+| One Endless Night At Dhar Mann's | 162518 | [162518-one-endless-night-at-dhar-manns.json](./162518-one-endless-night-at-dhar-manns.json) |
 | One Epic Game | 52641 | [52641-one-epic-game.json](./52641-one-epic-game.json) |
 | One Epic Knight | 63137 | [63137-one-epic-knight.json](./63137-one-epic-knight.json) |
 | One Escape | 146041 | [146041-one-escape.json](./146041-one-escape.json) |
