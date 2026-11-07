@@ -13020,6 +13020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcanorum 231 | 359601 | [359601-arcanorum-231.json](./359601-arcanorum-231.json) |
 | Arcanox | 253200 | [253200-arcanox.json](./253200-arcanox.json) |
 | Arcante | 140486 | [140486-arcante.json](./140486-arcante.json) |
+| Arcante: Definitive Edition | 189791 | [189791-arcante-definitive-edition.json](./189791-arcante-definitive-edition.json) |
 | Arcanterra | 303346 | [303346-arcanterra.json](./303346-arcanterra.json) |
 | Arcanum | 258506 | [258506-arcanum.json](./258506-arcanum.json) |
 | Arcanum Echo: Sorairo no Elexia | 130595 | [130595-arcanum-echo-sorairo-no-elexia.json](./130595-arcanum-echo-sorairo-no-elexia.json) |
