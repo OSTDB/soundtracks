@@ -9183,6 +9183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LowPoly Towerdefense | 295009 | [295009-lowpoly-towerdefense.json](./295009-lowpoly-towerdefense.json) |
 | LowPolyExplorer | 163019 | [163019-lowpolyexplorer.json](./163019-lowpolyexplorer.json) |
 | LowRes Collection | 223632 | [223632-lowres-collection.json](./223632-lowres-collection.json) |
+| Lowrez dungeon | 180900 | [180900-lowrez-dungeon.json](./180900-lowrez-dungeon.json) |
 | Lowrider | 43550 | [43550-lowrider.json](./43550-lowrider.json) |
 | Lowrider Hopping | 287087 | [287087-lowrider-hopping.json](./287087-lowrider-hopping.json) |
 | Lowriders Comeback 2: Cruising | 103759 | [103759-lowriders-comeback-2-cruising.json](./103759-lowriders-comeback-2-cruising.json) |
