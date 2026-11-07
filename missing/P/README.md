@@ -7603,6 +7603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Fishing | 200173 | [200173-pirate-fishing.json](./200173-pirate-fishing.json) |
 | Pirate Flight | 100601 | [100601-pirate-flight.json](./100601-pirate-flight.json) |
 | Pirate Fox Detective: The Case of The Conspicuous Klawz Crew | 153658 | [153658-pirate-fox-detective-the-case-of-the-conspicuous-klawz-crew.json](./153658-pirate-fox-detective-the-case-of-the-conspicuous-klawz-crew.json) |
+| Pirate Galaxy | 169518 | [169518-pirate-galaxy.json](./169518-pirate-galaxy.json) |
 | Pirate Ghost Ship | 390793 | [390793-pirate-ghost-ship.json](./390793-pirate-ghost-ship.json) |
 | Pirate Go: Bravo | 348445 | [348445-pirate-go-bravo.json](./348445-pirate-go-bravo.json) |
 | Pirate Gold | 92460 | [92460-pirate-gold.json](./92460-pirate-gold.json) |
@@ -17428,6 +17429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulse Shift | 32104 | [32104-pulse-shift.json](./32104-pulse-shift.json) |
 | Pulse Sweep | 397838 | [397838-pulse-sweep.json](./397838-pulse-sweep.json) |
 | Pulse Warrior | 72376 | [72376-pulse-warrior.json](./72376-pulse-warrior.json) |
+| Pulseball | 169536 | [169536-pulseball.json](./169536-pulseball.json) |
 | Pulsebreaker | 353643 | [353643-pulsebreaker.json](./353643-pulsebreaker.json) |
 | PulseCharge | 33610 | [33610-pulsecharge.json](./33610-pulsecharge.json) |
 | PulseChaser | 112320 | [112320-pulsechaser.json](./112320-pulsechaser.json) |
@@ -18030,6 +18032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push-Cars | 175752 | [175752-push-cars.json](./175752-push-cars.json) |
 | Push-Cars 2: On Europe Streets | 350462 | [350462-push-cars-2-on-europe-streets.json](./350462-push-cars-2-on-europe-streets.json) |
 | Push-Up T-Rex | 243709 | [243709-push-up-t-rex.json](./243709-push-up-t-rex.json) |
+| Push-Ups Workout | 169543 | [169543-push-ups-workout.json](./169543-push-ups-workout.json) |
 | Push: A Duolingo Horror | 301322 | [301322-push-a-duolingo-horror.json](./301322-push-a-duolingo-horror.json) |
 | Push: Griefing Made Legal | 142935 | [142935-push-griefing-made-legal.json](./142935-push-griefing-made-legal.json) |
 | Push:Block | 118951 | [118951-push-block.json](./118951-push-block.json) |
