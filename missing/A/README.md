@@ -904,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A New Zero | 63157 | [63157-a-new-zero.json](./63157-a-new-zero.json) |
 | A Next Level Adventure | 362868 | [362868-a-next-level-adventure.json](./362868-a-next-level-adventure.json) |
 | A Night Alone | 179859 | [179859-a-night-alone.json](./179859-a-night-alone.json) |
+| A Night At Andy's | 184620 | [184620-a-night-at-andys.json](./184620-a-night-at-andys.json) |
 | A Night at Manster Mansion | 178826 | [178826-a-night-at-manster-mansion.json](./178826-a-night-at-manster-mansion.json) |
 | A Night at Moka Efti: A Babylon Berlin Story | 409210 | [409210-a-night-at-moka-efti-a-babylon-berlin-story.json](./409210-a-night-at-moka-efti-a-babylon-berlin-story.json) |
 | A Night at Sea | 228996 | [228996-a-night-at-sea.json](./228996-a-night-at-sea.json) |
@@ -9860,6 +9861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Zombies | 88844 | [88844-angry-zombies.json](./88844-angry-zombies.json) |
 | Angrymals | 178364 | [178364-angrymals.json](./178364-angrymals.json) |
 | Angst | 216203 | [216203-angst.json](./216203-angst.json) |
+| Angst-Rom's RAM Page | 184553 | [184553-angst-roms-ram-page.json](./184553-angst-roms-ram-page.json) |
 | Angst: A Game of Urban Survival | 222743 | [222743-angst-a-game-of-urban-survival.json](./222743-angst-a-game-of-urban-survival.json) |
 | Angst: A Tale of Survival | 320716 | [320716-angst-a-tale-of-survival.json](./320716-angst-a-tale-of-survival.json) |
 | Angst: Rahz's Revenge | 18999 | [18999-angst-rahzs-revenge.json](./18999-angst-rahzs-revenge.json) |
@@ -12045,6 +12047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarium Land: Platinum Edition | 385193 | [385193-aquarium-land-platinum-edition.json](./385193-aquarium-land-platinum-edition.json) |
 | Aquarium Land: Puppy | 303338 | [303338-aquarium-land-puppy.json](./303338-aquarium-land-puppy.json) |
 | Aquarium Land: Puppy Edition | 280599 | [280599-aquarium-land-puppy-edition.json](./280599-aquarium-land-puppy-edition.json) |
+| Aquarium Life | 184546 | [184546-aquarium-life.json](./184546-aquarium-life.json) |
 | Aquarium Match3 Mania | 235017 | [235017-aquarium-match3-mania.json](./235017-aquarium-match3-mania.json) |
 | Aquarium Pairs | 96578 | [96578-aquarium-pairs.json](./96578-aquarium-pairs.json) |
 | Aquarium Shop | 146919 | [146919-aquarium-shop.json](./146919-aquarium-shop.json) |
@@ -16708,6 +16711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
