@@ -471,6 +471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jam Scrapz Collection: Valentide! II | 289920 | [289920-jam-scrapz-collection-valentide-ii.json](./289920-jam-scrapz-collection-valentide-ii.json) |
 | Jam Session VR | 75822 | [75822-jam-session-vr.json](./75822-jam-session-vr.json) |
 | JAM sessions | 47925 | [47925-jam-sessions.json](./47925-jam-sessions.json) |
+| Jam Smasher | 176566 | [176566-jam-smasher.json](./176566-jam-smasher.json) |
 | Jam Space: PocketStudio | 85199 | [85199-jam-space-pocketstudio.json](./85199-jam-space-pocketstudio.json) |
 | Jam Studio VR | 59580 | [59580-jam-studio-vr.json](./59580-jam-studio-vr.json) |
 | Jam Talk | 299386 | [299386-jam-talk.json](./299386-jam-talk.json) |
