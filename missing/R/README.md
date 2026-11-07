@@ -8310,6 +8310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RivenTails Defense | 99080 | [99080-riventails-defense.json](./99080-riventails-defense.json) |
 | RivenWorld: The First Era | 236937 | [236937-rivenworld-the-first-era.json](./236937-rivenworld-the-first-era.json) |
 | River and Lake Knights | 99423 | [99423-river-and-lake-knights.json](./99423-river-and-lake-knights.json) |
+| River Attack | 155807 | [155807-river-attack.json](./155807-river-attack.json) |
 | River Attack | 291574 | [291574-river-attack.json](./291574-river-attack.json) |
 | River Bones | 204342 | [204342-river-bones.json](./204342-river-bones.json) |
 | River City Girls 1, 2, and Zero + Double Dragon DLC Bundle | 346009 | [346009-river-city-girls-1-2-and-zero-double-dragon-dlc-bundle.json](./346009-river-city-girls-1-2-and-zero-double-dragon-dlc-bundle.json) |
@@ -11915,6 +11916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubbish Island | 378890 | [378890-rubbish-island.json](./378890-rubbish-island.json) |
 | Rubblar | 238661 | [238661-rubblar.json](./238661-rubblar.json) |
 | Rubble | 223250 | [223250-rubble.json](./223250-rubble.json) |
+| Rubble Bubble | 155816 | [155816-rubble-bubble.json](./155816-rubble-bubble.json) |
 | Rubble Eats the World | 372954 | [372954-rubble-eats-the-world.json](./372954-rubble-eats-the-world.json) |
 | Rubble Rampage | 413127 | [413127-rubble-rampage.json](./413127-rubble-rampage.json) |
 | Rubble Rush | 118069 | [118069-rubble-rush.json](./118069-rubble-rush.json) |
