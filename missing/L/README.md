@@ -9959,6 +9959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Laser | 241990 | [241990-lunar-laser.json](./241990-lunar-laser.json) |
 | Lunar Legacy | 248041 | [248041-lunar-legacy.json](./248041-lunar-legacy.json) |
 | Lunar Legend | 13907 | [13907-lunar-legend.json](./13907-lunar-legend.json) |
+| Lunar Lich | 155274 | [155274-lunar-lich.json](./155274-lunar-lich.json) |
 | Lunar Loot | 289692 | [289692-lunar-loot.json](./289692-lunar-loot.json) |
 | Lunar Magic School | 46093 | [46093-lunar-magic-school.json](./46093-lunar-magic-school.json) |
 | Lunar maiden, River-side Angel, and the Godlike Moment | 258884 | [258884-lunar-maiden-river-side-angel-and-the-godlike-moment.json](./258884-lunar-maiden-river-side-angel-and-the-godlike-moment.json) |
