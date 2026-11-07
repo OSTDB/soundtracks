@@ -6331,6 +6331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island of Sacrifice | 326008 | [326008-island-of-sacrifice.json](./326008-island-of-sacrifice.json) |
 | Island of the Ancients | 154368 | [154368-island-of-the-ancients.json](./154368-island-of-the-ancients.json) |
 | Island of the Damned | 185469 | [185469-island-of-the-damned.json](./185469-island-of-the-damned.json) |
+| Island of the Lost | 159429 | [159429-island-of-the-lost.json](./159429-island-of-the-lost.json) |
 | Island of Winds | 171529 | [171529-island-of-winds.json](./171529-island-of-winds.json) |
 | Island Off Outer Darkness | 352349 | [352349-island-off-outer-darkness.json](./352349-island-off-outer-darkness.json) |
 | Island Paradise | 296939 | [296939-island-paradise.json](./296939-island-paradise.json) |
