@@ -440,6 +440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuoki: Edo Blossoms | 74563 | [74563-hakuoki-edo-blossoms.json](./74563-hakuoki-edo-blossoms.json) |
 | Hakuoki: Edo Blossoms - Deluxe Edition | 186545 | [186545-hakuoki-edo-blossoms-deluxe-edition.json](./186545-hakuoki-edo-blossoms-deluxe-edition.json) |
 | Hakuoki: Edo Blossoms - DLC Bundle | 186544 | [186544-hakuoki-edo-blossoms-dlc-bundle.json](./186544-hakuoki-edo-blossoms-dlc-bundle.json) |
+| Hakuoki: Edo Blossoms - Edo Treasure Box | 171153 | [171153-hakuoki-edo-blossoms-edo-treasure-box.json](./171153-hakuoki-edo-blossoms-edo-treasure-box.json) |
 | Hakuoki: Kyoto Winds - Deluxe Edition | 243920 | [243920-hakuoki-kyoto-winds-deluxe-edition.json](./243920-hakuoki-kyoto-winds-deluxe-edition.json) |
 | Hakuoki: Kyoto Winds - Winds Treasure Box | 168905 | [168905-hakuoki-kyoto-winds-winds-treasure-box.json](./168905-hakuoki-kyoto-winds-winds-treasure-box.json) |
 | Hakuoki: Memories of the Shinsengumi | 22148 | [22148-hakuoki-memories-of-the-shinsengumi.json](./22148-hakuoki-memories-of-the-shinsengumi.json) |
@@ -5947,6 +5948,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Siege Complete | 53188 | [53188-hero-siege-complete.json](./53188-hero-siege-complete.json) |
 | Hero Siege: Bifröst Jötunn Skin | 316383 | [316383-hero-siege-bifrost-jotunn-skin.json](./316383-hero-siege-bifrost-jotunn-skin.json) |
 | Hero Siege: Bifröst Viking Skin | 316382 | [316382-hero-siege-bifrost-viking-skin.json](./316382-hero-siege-bifrost-viking-skin.json) |
+| Hero Siege: Class - Amazon | 171183 | [171183-hero-siege-class-amazon.json](./171183-hero-siege-class-amazon.json) |
+| Hero Siege: Class - Marauder | 171184 | [171184-hero-siege-class-marauder.json](./171184-hero-siege-class-marauder.json) |
+| Hero Siege: Class - Samurai | 171181 | [171181-hero-siege-class-samurai.json](./171181-hero-siege-class-samurai.json) |
+| Hero Siege: Class - Shaman | 171182 | [171182-hero-siege-class-shaman.json](./171182-hero-siege-class-shaman.json) |
 | Hero Siege: Class - Shield Lancer | 170734 | [170734-hero-siege-class-shield-lancer.json](./170734-hero-siege-class-shield-lancer.json) |
 | Hero Siege: Companion Bundle | 224234 | [224234-hero-siege-companion-bundle.json](./224234-hero-siege-companion-bundle.json) |
 | Hero Siege: Gates of Valhalla | 204957 | [204957-hero-siege-gates-of-valhalla.json](./204957-hero-siege-gates-of-valhalla.json) |
@@ -6326,6 +6331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroines Fantasy Inherit | 284290 | [284290-heroines-fantasy-inherit.json](./284290-heroines-fantasy-inherit.json) |
 | Heroines of Swords & Spells | 130129 | [130129-heroines-of-swords-and-spells.json](./130129-heroines-of-swords-and-spells.json) |
 | Heroines of Swords & Spells 2 | 349065 | [349065-heroines-of-swords-and-spells-2.json](./349065-heroines-of-swords-and-spells-2.json) |
+| Heroines of Swords & Spells: Green Furies | 171144 | [171144-heroines-of-swords-and-spells-green-furies.json](./171144-heroines-of-swords-and-spells-green-furies.json) |
 | Heroines Paradox | 408539 | [408539-heroines-paradox.json](./408539-heroines-paradox.json) |
 | Heroines Through My Lens | 381971 | [381971-heroines-through-my-lens.json](./381971-heroines-through-my-lens.json) |
 | Heroines' Chord | 422068 | [422068-heroines-chord.json](./422068-heroines-chord.json) |
