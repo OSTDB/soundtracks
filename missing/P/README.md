@@ -1615,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Knights | 55552 | [55552-paper-knights.json](./55552-paper-knights.json) |
 | Paper Lily: Chapter 1 | 227213 | [227213-paper-lily-chapter-1.json](./227213-paper-lily-chapter-1.json) |
 | Paper Luigi's Mansion | 323901 | [323901-paper-luigis-mansion.json](./323901-paper-luigis-mansion.json) |
+| Paper Mages | 190775 | [190775-paper-mages.json](./190775-paper-mages.json) |
 | Paper Mall | 334934 | [334934-paper-mall.json](./334934-paper-mall.json) |
 | Paper Man 3D | 103970 | [103970-paper-man-3d.json](./103970-paper-man-3d.json) |
 | Paper Mario | 323287 | [323287-paper-mario.json](./323287-paper-mario.json) |
@@ -6728,6 +6729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pin Test Party Psychology | 386204 | [386204-pin-test-party-psychology.json](./386204-pin-test-party-psychology.json) |
 | Pin The Guardian Spirit | 419097 | [419097-pin-the-guardian-spirit.json](./419097-pin-the-guardian-spirit.json) |
 | Pin The Pangolin | 326495 | [326495-pin-the-pangolin.json](./326495-pin-the-pangolin.json) |
+| Pin Them | 190780 | [190780-pin-them.json](./190780-pin-them.json) |
 | Pin Tiki Ball | 87552 | [87552-pin-tiki-ball.json](./87552-pin-tiki-ball.json) |
 | Pin To Win | 302351 | [302351-pin-to-win.json](./302351-pin-to-win.json) |
 | Pin Zhi | 304893 | [304893-pin-zhi.json](./304893-pin-zhi.json) |
@@ -7174,6 +7176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pineapple Smash Crew | 16330 | [16330-pineapple-smash-crew.json](./16330-pineapple-smash-crew.json) |
 | Pineapple: A Bittersweet Revenge | 290748 | [290748-pineapple-a-bittersweet-revenge.json](./290748-pineapple-a-bittersweet-revenge.json) |
 | PineapplePizza | 28159 | [28159-pineapplepizza.json](./28159-pineapplepizza.json) |
+| Pinecone Game | 190820 | [190820-pinecone-game.json](./190820-pinecone-game.json) |
 | Pinecone Grove | 420513 | [420513-pinecone-grove.json](./420513-pinecone-grove.json) |
 | Pinedrop Vale | 358655 | [358655-pinedrop-vale.json](./358655-pinedrop-vale.json) |
 | Pineford: Part I | 302120 | [302120-pineford-part-i.json](./302120-pineford-part-i.json) |
@@ -12194,6 +12197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polyfuru feat. Asano Ruri | 122215 | [122215-polyfuru-feat-asano-ruri.json](./122215-polyfuru-feat-asano-ruri.json) |
 | Polyfuru feat. Marinasu β | 127179 | [127179-polyfuru-feat-marinasu.json](./127179-polyfuru-feat-marinasu.json) |
 | Polyfuru feat. Miya Kamino | 118290 | [118290-polyfuru-feat-miya-kamino.json](./118290-polyfuru-feat-miya-kamino.json) |
+| Polyfury | 190807 | [190807-polyfury.json](./190807-polyfury.json) |
 | Polygeddon: Survive | 248035 | [248035-polygeddon-survive.json](./248035-polygeddon-survive.json) |
 | Polyglock | 348400 | [348400-polyglock.json](./348400-polyglock.json) |
 | Polyglot Language Learning Quiz | 370760 | [370760-polyglot-language-learning-quiz.json](./370760-polyglot-language-learning-quiz.json) |
@@ -12861,6 +12865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poppy Playtime: Chapter 3 - Deep Sleep | 258842 | [258842-poppy-playtime-chapter-3-deep-sleep.json](./258842-poppy-playtime-chapter-3-deep-sleep.json) |
 | Poppy Playtime: Chapter 4 - Safe Haven | 318284 | [318284-poppy-playtime-chapter-4-safe-haven.json](./318284-poppy-playtime-chapter-4-safe-haven.json) |
 | Poppy Sanctum | 396891 | [396891-poppy-sanctum.json](./396891-poppy-sanctum.json) |
+| Poppy Toast | 190776 | [190776-poppy-toast.json](./190776-poppy-toast.json) |
 | Poppy's Nightmare | 121577 | [121577-poppys-nightmare.json](./121577-poppys-nightmare.json) |
 | PopSauce | 186044 | [186044-popsauce.json](./186044-popsauce.json) |
 | Popscene (Backstage Pass) | 91988 | [91988-popscene-backstage-pass.json](./91988-popscene-backstage-pass.json) |
@@ -13900,6 +13905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Precognition Dream's Greenhouse | 392240 | [392240-precognition-dreams-greenhouse.json](./392240-precognition-dreams-greenhouse.json) |
 | Precrna Rupa | 408598 | [408598-precrna-rupa.json](./408598-precrna-rupa.json) |
 | PreCure All Stars: Zenin Shuugou - Let's Dance! | 56462 | [56462-precure-all-stars-zenin-shuugou-lets-dance.json](./56462-precure-all-stars-zenin-shuugou-lets-dance.json) |
+| Precursors: Armored Angels | 190813 | [190813-precursors-armored-angels.json](./190813-precursors-armored-angels.json) |
 | Predator | 15345 | [15345-predator.json](./15345-predator.json) |
 | Predator | 298432 | [298432-predator.json](./298432-predator.json) |
 | Predator | 74422 | [74422-predator.json](./74422-predator.json) |
