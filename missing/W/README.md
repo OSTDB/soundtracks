@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall of Taiji | 178248 | [178248-wall-of-taiji.json](./178248-wall-of-taiji.json) |
 | Wall Pipe | 344040 | [344040-wall-pipe.json](./344040-wall-pipe.json) |
 | Wall protection | 256943 | [256943-wall-protection.json](./256943-wall-protection.json) |
+| Wall Roller | 184689 | [184689-wall-roller.json](./184689-wall-roller.json) |
 | Wall Shooter | 244864 | [244864-wall-shooter.json](./244864-wall-shooter.json) |
 | Wall Simulator 2017 | 53882 | [53882-wall-simulator-2017.json](./53882-wall-simulator-2017.json) |
 | Wall Street | 261989 | [261989-wall-street.json](./261989-wall-street.json) |
@@ -4869,6 +4870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WhoIs | 374005 | [374005-whois.json](./374005-whois.json) |
 | Whole | 323619 | [323619-whole.json](./323619-whole.json) |
 | Whole Lotta Lies | 255536 | [255536-whole-lotta-lies.json](./255536-whole-lotta-lies.json) |
+| Whole Lotta Red | 184665 | [184665-whole-lotta-red.json](./184665-whole-lotta-red.json) |
 | Whole New Ball Game | 304313 | [304313-whole-new-ball-game.json](./304313-whole-new-ball-game.json) |
 | Whole Note | 322037 | [322037-whole-note.json](./322037-whole-note.json) |
 | Whole Record of Wife Whose Clitoris Is Finally Dissected | 131136 | [131136-whole-record-of-wife-whose-clitoris-is-finally-dissected.json](./131136-whole-record-of-wife-whose-clitoris-is-finally-dissected.json) |
