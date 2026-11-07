@@ -7932,6 +7932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billionaire Banshee | 141026 | [141026-billionaire-banshee.json](./141026-billionaire-banshee.json) |
 | Billionaire Dad Luxury Life Real Family Games | 102851 | [102851-billionaire-dad-luxury-life-real-family-games.json](./102851-billionaire-dad-luxury-life-real-family-games.json) |
 | Billionaire Life Simulator | 411583 | [411583-billionaire-life-simulator.json](./411583-billionaire-life-simulator.json) |
+| Billionaire Lovers | 154155 | [154155-billionaire-lovers.json](./154155-billionaire-lovers.json) |
 | Billionaire Simulator | 403074 | [403074-billionaire-simulator.json](./403074-billionaire-simulator.json) |
 | Billionworlds : Kingdoms | 153437 | [153437-billionworlds-kingdoms.json](./153437-billionworlds-kingdoms.json) |
 | Billo-Bricks | 291509 | [291509-billo-bricks.json](./291509-billo-bricks.json) |
@@ -11353,6 +11354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodthirsty Kingdom: Vampire War | 181308 | [181308-bloodthirsty-kingdom-vampire-war.json](./181308-bloodthirsty-kingdom-vampire-war.json) |
 | Bloodthirsty Sword | 373723 | [373723-bloodthirsty-sword.json](./373723-bloodthirsty-sword.json) |
 | BloodTrail | 113465 | [113465-bloodtrail.json](./113465-bloodtrail.json) |
+| BloodType | 154134 | [154134-bloodtype.json](./154134-bloodtype.json) |
 | Bloodvane | 130591 | [130591-bloodvane.json](./130591-bloodvane.json) |
 | Bloodville | 373129 | [373129-bloodville.json](./373129-bloodville.json) |
 | BloodWarrior | 47982 | [47982-bloodwarrior.json](./47982-bloodwarrior.json) |
