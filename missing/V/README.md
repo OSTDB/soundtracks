@@ -3784,6 +3784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxelgram + Voxelgram 2 | 407275 | [407275-voxelgram-voxelgram-2.json](./407275-voxelgram-voxelgram-2.json) |
 | Voxelgram 2 | 335067 | [335067-voxelgram-2.json](./335067-voxelgram-2.json) |
 | Voxelgram: DLC #1 | 306803 | [306803-voxelgram-dlc-1.json](./306803-voxelgram-dlc-1.json) |
+| Voxelia Defenders | 151344 | [151344-voxelia-defenders.json](./151344-voxelia-defenders.json) |
 | Voxeliens | 53153 | [53153-voxeliens.json](./53153-voxeliens.json) |
 | Voxella | 186249 | [186249-voxella.json](./186249-voxella.json) |
 | VoxelMaker | 85481 | [85481-voxelmaker.json](./85481-voxelmaker.json) |
@@ -3940,6 +3941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR GirlFriend | 30291 | [30291-vr-girlfriend.json](./30291-vr-girlfriend.json) |
 | VR Girls' Room in Darkness | 160139 | [160139-vr-girls-room-in-darkness.json](./160139-vr-girls-room-in-darkness.json) |
 | VR Gorodki | 313980 | [313980-vr-gorodki.json](./313980-vr-gorodki.json) |
+| VR Graffiti World | 151371 | [151371-vr-graffiti-world.json](./151371-vr-graffiti-world.json) |
 | VR Great Rome City | 172934 | [172934-vr-great-rome-city.json](./172934-vr-great-rome-city.json) |
 | VR Ground: Crazy Farm | 105311 | [105311-vr-ground-crazy-farm.json](./105311-vr-ground-crazy-farm.json) |
 | VR Guardians | 164234 | [164234-vr-guardians.json](./164234-vr-guardians.json) |
