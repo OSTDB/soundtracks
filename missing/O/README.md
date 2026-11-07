@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocero 3D | 341497 | [341497-ocero-3d.json](./341497-ocero-3d.json) |
 | Och Noe: Thegame | 305719 | [305719-och-noe-thegame.json](./305719-och-noe-thegame.json) |
 | Ocha no Ma Battle | 299030 | [299030-ocha-no-ma-battle.json](./299030-ocha-no-ma-battle.json) |
+| Ocha-Ken to Itsumo na Kayoshi | 148647 | [148647-ocha-ken-to-itsumo-na-kayoshi.json](./148647-ocha-ken-to-itsumo-na-kayoshi.json) |
 | Ochakai he no Shoutaijou | 246092 | [246092-ochakai-he-no-shoutaijou.json](./246092-ochakai-he-no-shoutaijou.json) |
 | Ochaken Kururin: Honwaka Puzzle de Ho~ttoshiyou? | 49744 | [49744-ochaken-kururin-honwaka-puzzle-de-ho-ttoshiyou.json](./49744-ochaken-kururin-honwaka-puzzle-de-ho-ttoshiyou.json) |
 | Ochaken no Bouken-jima: Honwaka Yume no Island | 49743 | [49743-ochaken-no-bouken-jima-honwaka-yume-no-island.json](./49743-ochaken-no-bouken-jima-honwaka-yume-no-island.json) |
@@ -3771,6 +3772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oracle: Threads of Fate | 89260 | [89260-oracle-threads-of-fate.json](./89260-oracle-threads-of-fate.json) |
 | Oracles Cave | 45365 | [45365-oracles-cave.json](./45365-oracles-cave.json) |
 | Oraga Land Shusai: Best Farmer Shuukaku-Sai | 44382 | [44382-oraga-land-shusai-best-farmer-shuukaku-sai.json](./44382-oraga-land-shusai-best-farmer-shuukaku-sai.json) |
+| Oraiah | 148628 | [148628-oraiah.json](./148628-oraiah.json) |
 | Orake | 19434 | [19434-orake.json](./19434-orake.json) |
 | Orake 2D MMORPG | 31634 | [31634-orake-2d-mmorpg.json](./31634-orake-2d-mmorpg.json) |
 | Orakyubu | 165076 | [165076-orakyubu.json](./165076-orakyubu.json) |
