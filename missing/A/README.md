@@ -1049,6 +1049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Promise Best Left Unkept: Aya Edition | 385835 | [385835-a-promise-best-left-unkept-aya-edition.json](./385835-a-promise-best-left-unkept-aya-edition.json) |
 | A Proper Cup of Tea | 294537 | [294537-a-proper-cup-of-tea.json](./294537-a-proper-cup-of-tea.json) |
 | A Purrtato Tail: By the Light of the Elderstar | 89482 | [89482-a-purrtato-tail-by-the-light-of-the-elderstar.json](./89482-a-purrtato-tail-by-the-light-of-the-elderstar.json) |
+| A Puzzling Combination | 177145 | [177145-a-puzzling-combination.json](./177145-a-puzzling-combination.json) |
 | A Q Serial Gun | 298514 | [298514-a-q-serial-gun.json](./298514-a-q-serial-gun.json) |
 | A Quest That Became Legend | 217294 | [217294-a-quest-that-became-legend.json](./217294-a-quest-that-became-legend.json) |
 | A Quest to Be the Best | 392242 | [392242-a-quest-to-be-the-best.json](./392242-a-quest-to-be-the-best.json) |
@@ -1402,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Traveler's Photo Album | 155301 | [155301-a-travelers-photo-album.json](./155301-a-travelers-photo-album.json) |
 | A Treat and Some Tricks | 312852 | [312852-a-treat-and-some-tricks.json](./312852-a-treat-and-some-tricks.json) |
 | A Trench Tale | 301461 | [301461-a-trench-tale.json](./301461-a-trench-tale.json) |
+| A Triangle Game | 177131 | [177131-a-triangle-game.json](./177131-a-triangle-game.json) |
 | A Tribute to the Rolling Boulder (from Raiders of the Lost Ark) | 92796 | [92796-a-tribute-to-the-rolling-boulder-from-raiders-of-the-lost-ark.json](./92796-a-tribute-to-the-rolling-boulder-from-raiders-of-the-lost-ark.json) |
 | A Trip down Market Street | 175587 | [175587-a-trip-down-market-street.json](./175587-a-trip-down-market-street.json) |
 | A Trip to the Mall at Night | 359054 | [359054-a-trip-to-the-mall-at-night.json](./359054-a-trip-to-the-mall-at-night.json) |
@@ -1501,6 +1503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Weekend at Villa Apate | 177893 | [177893-a-weekend-at-villa-apate.json](./177893-a-weekend-at-villa-apate.json) |
 | A Weekend in Puzzleburg | 201680 | [201680-a-weekend-in-puzzleburg.json](./201680-a-weekend-in-puzzleburg.json) |
 | A Weird Game About Sausage | 405185 | [405185-a-weird-game-about-sausage.json](./405185-a-weird-game-about-sausage.json) |
+| A Welcome Shower | 177119 | [177119-a-welcome-shower.json](./177119-a-welcome-shower.json) |
 | A Western Drama | 161706 | [161706-a-western-drama.json](./161706-a-western-drama.json) |
 | A western love story but with no horse | 176961 | [176961-a-western-love-story-but-with-no-horse.json](./176961-a-western-love-story-but-with-no-horse.json) |
 | A Whale's Journey | 314383 | [314383-a-whales-journey.json](./314383-a-whales-journey.json) |
@@ -7576,6 +7579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Allkpop Allstar | 59657 | [59657-allkpop-allstar.json](./59657-allkpop-allstar.json) |
 | Allkvam Merchant | 115319 | [115319-allkvam-merchant.json](./115319-allkvam-merchant.json) |
 | AlllCall | 266366 | [266366-alllcall.json](./266366-alllcall.json) |
+| Allocation | 177123 | [177123-allocation.json](./177123-allocation.json) |
 | Allods Online | 13157 | [13157-allods-online.json](./13157-allods-online.json) |
 | Allogloom | 277935 | [277935-allogloom.json](./277935-allogloom.json) |
 | Allon3 | 224937 | [224937-allon3.json](./224937-allon3.json) |
@@ -11770,6 +11774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apostle: Rebellion | 173199 | [173199-apostle-rebellion.json](./173199-apostle-rebellion.json) |
 | Apoth | 238509 | [238509-apoth.json](./238509-apoth.json) |
 | Apothecarium: The Renaissance of Evil | 59907 | [59907-apothecarium-the-renaissance-of-evil.json](./59907-apothecarium-the-renaissance-of-evil.json) |
+| Apothecarium: The Renaissance of Evil - Collector's Edition | 177106 | [177106-apothecarium-the-renaissance-of-evil-collectors-edition.json](./177106-apothecarium-the-renaissance-of-evil-collectors-edition.json) |
 | Apothecarium: The Renaissance of Evil - Premium Edition | 35136 | [35136-apothecarium-the-renaissance-of-evil-premium-edition.json](./35136-apothecarium-the-renaissance-of-evil-premium-edition.json) |
 | Apothecary | 264227 | [264227-apothecary.json](./264227-apothecary.json) |
 | Apothecary Grounds | 409188 | [409188-apothecary-grounds.json](./409188-apothecary-grounds.json) |
