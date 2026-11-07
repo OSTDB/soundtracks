@@ -12062,6 +12062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunters: Relic of Stars - Stage 6 | 395492 | [395492-hunters-relic-of-stars-stage-6.json](./395492-hunters-relic-of-stars-stage-6.json) |
 | Hunters: Uprising | 265530 | [265530-hunters-uprising.json](./265530-hunters-uprising.json) |
 | Hunters' Moon | 214032 | [214032-hunters-moon.json](./214032-hunters-moon.json) |
+| Hunters' Path: Rebirth | 191955 | [191955-hunters-path-rebirth.json](./191955-hunters-path-rebirth.json) |
 | HunterX | 196262 | [196262-hunterx.json](./196262-hunterx.json) |
 | HunterX: Code Name T | 277836 | [277836-hunterx-code-name-t.json](./277836-hunterx-code-name-t.json) |
 | HunterxHunter | 175695 | [175695-hunterxhunter.json](./175695-hunterxhunter.json) |
