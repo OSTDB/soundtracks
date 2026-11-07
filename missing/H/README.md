@@ -5875,6 +5875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermitage Strange Case Files | 99435 | [99435-hermitage-strange-case-files.json](./99435-hermitage-strange-case-files.json) |
 | Hermitage: Strange Case Files | 130256 | [130256-hermitage-strange-case-files.json](./130256-hermitage-strange-case-files.json) |
 | Hermitcraft TCG | 240552 | [240552-hermitcraft-tcg.json](./240552-hermitcraft-tcg.json) |
+| Hernhand | 145792 | [145792-hernhand.json](./145792-hernhand.json) |
 | Hero | 313746 | [313746-hero.json](./313746-hero.json) |
 | Hero | 32462 | [32462-hero.json](./32462-hero.json) |
 | Hero | 345952 | [345952-hero.json](./345952-hero.json) |
@@ -6032,6 +6033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Sword | 299399 | [299399-hero-sword.json](./299399-hero-sword.json) |
 | Hero Syndrome | 129522 | [129522-hero-syndrome.json](./129522-hero-syndrome.json) |
 | Hero Tactics | 181921 | [181921-hero-tactics.json](./181921-hero-tactics.json) |
+| Hero Tails | 145805 | [145805-hero-tails.json](./145805-hero-tails.json) |
 | Hero Tale | 208192 | [208192-hero-tale.json](./208192-hero-tale.json) |
 | Hero Team | 158918 | [158918-hero-team.json](./158918-hero-team.json) |
 | Hero Tower | 132746 | [132746-hero-tower.json](./132746-hero-tower.json) |
