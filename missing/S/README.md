@@ -5214,6 +5214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sekai de Ichiban Dame na Koi | 413382 | [413382-sekai-de-ichiban-dame-na-koi.json](./413382-sekai-de-ichiban-dame-na-koi.json) |
 | Sekai de Ichiban Kimi ga Suki! | 270691 | [270691-sekai-de-ichiban-kimi-ga-suki.json](./270691-sekai-de-ichiban-kimi-ga-suki.json) |
 | Sekai no Chuushin de Mawaru | 260687 | [260687-sekai-no-chuushin-de-mawaru.json](./260687-sekai-no-chuushin-de-mawaru.json) |
+| Sekai no Chuushin de, AI ha Tatakau | 187622 | [187622-sekai-no-chuushin-de-ai-ha-tatakau.json](./187622-sekai-no-chuushin-de-ai-ha-tatakau.json) |
 | Sekai no Gohan Shaberu! DS O-Ryouri Navi | 81255 | [81255-sekai-no-gohan-shaberu-ds-o-ryouri-navi.json](./81255-sekai-no-gohan-shaberu-ds-o-ryouri-navi.json) |
 | Sekai no Hate Made Itte Q! Chinjuu Hunter Imoto no Daibouken | 133797 | [133797-sekai-no-hate-made-itte-q-chinjuu-hunter-imoto-no-daibouken.json](./133797-sekai-no-hate-made-itte-q-chinjuu-hunter-imoto-no-daibouken.json) |
 | Sekai no Omoshiro Party Game | 408999 | [408999-sekai-no-omoshiro-party-game.json](./408999-sekai-no-omoshiro-party-game.json) |
@@ -7399,6 +7400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape World Level up Lite | 390342 | [390342-shape-world-level-up-lite.json](./390342-shape-world-level-up-lite.json) |
 | Shapebreaker | 197590 | [197590-shapebreaker.json](./197590-shapebreaker.json) |
 | ShapeBreaker | 422515 | [422515-shapebreaker.json](./422515-shapebreaker.json) |
+| Shaped Beats | 187637 | [187637-shaped-beats.json](./187637-shaped-beats.json) |
 | Shaped Touches | 154311 | [154311-shaped-touches.json](./154311-shaped-touches.json) |
 | Shapefall | 295554 | [295554-shapefall.json](./295554-shapefall.json) |
 | Shapefighter | 333401 | [333401-shapefighter.json](./333401-shapefighter.json) |
@@ -10724,6 +10726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Creek Falls: Chapter 3 | 33534 | [33534-silver-creek-falls-chapter-3.json](./33534-silver-creek-falls-chapter-3.json) |
 | Silver Daze | 337847 | [337847-silver-daze.json](./337847-silver-daze.json) |
 | Silver Edge | 261107 | [261107-silver-edge.json](./261107-silver-edge.json) |
+| Silver Falls Episode Prelude | 187620 | [187620-silver-falls-episode-prelude.json](./187620-silver-falls-episode-prelude.json) |
 | Silver Falls Mini: Monsters In North Island | 307177 | [307177-silver-falls-mini-monsters-in-north-island.json](./307177-silver-falls-mini-monsters-in-north-island.json) |
 | Silver Falls Miracle Makeout Mania | 307179 | [307179-silver-falls-miracle-makeout-mania.json](./307179-silver-falls-miracle-makeout-mania.json) |
 | Silver Falls: 3 Down Stars | 129511 | [129511-silver-falls-3-down-stars.json](./129511-silver-falls-3-down-stars.json) |
@@ -19703,7 +19706,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -23127,6 +23129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spunky | 307609 | [307609-spunky.json](./307609-spunky.json) |
 | Spunky Dungeon | 341997 | [341997-spunky-dungeon.json](./341997-spunky-dungeon.json) |
 | Spunky: Gangster Simulator | 164993 | [164993-spunky-gangster-simulator.json](./164993-spunky-gangster-simulator.json) |
+| Spunner | 187596 | [187596-spunner.json](./187596-spunner.json) |
 | Spur.world | 401190 | [401190-spur-world.json](./401190-spur-world.json) |
 | Spurdo :D | 237140 | [237140-spurdo-d.json](./237140-spurdo-d.json) |
 | Sputnik | 168701 | [168701-sputnik.json](./168701-sputnik.json) |
@@ -23828,6 +23831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stairs | 88902 | [88902-stairs.json](./88902-stairs.json) |
 | Stairs of Basically | 259839 | [259839-stairs-of-basically.json](./259839-stairs-of-basically.json) |
 | Stairway | 301845 | [301845-stairway.json](./301845-stairway.json) |
+| Stairway to Heaven's Gate | 187583 | [187583-stairway-to-heavens-gate.json](./187583-stairway-to-heavens-gate.json) |
 | Stairway to Tavern | 293680 | [293680-stairway-to-tavern.json](./293680-stairway-to-tavern.json) |
 | Stak Atak | 158519 | [158519-stak-atak.json](./158519-stak-atak.json) |
 | Stakeholder Game | 190069 | [190069-stakeholder-game.json](./190069-stakeholder-game.json) |
@@ -34182,6 +34186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surreal Experience | 191454 | [191454-surreal-experience.json](./191454-surreal-experience.json) |
 | Surreal Farm | 316418 | [316418-surreal-farm.json](./316418-surreal-farm.json) |
 | Surreal House | 260186 | [260186-surreal-house.json](./260186-surreal-house.json) |
+| Surreal Nightmare | 187638 | [187638-surreal-nightmare.json](./187638-surreal-nightmare.json) |
 | SurReal Subway | 113762 | [113762-surreal-subway.json](./113762-surreal-subway.json) |
 | Surrealidade: Dadaist Remix | 257279 | [257279-surrealidade-dadaist-remix.json](./257279-surrealidade-dadaist-remix.json) |
 | Surrealidade: Definitive Edition | 235770 | [235770-surrealidade-definitive-edition.json](./235770-surrealidade-definitive-edition.json) |
