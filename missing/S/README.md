@@ -2017,6 +2017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarcophag | 94875 | [94875-sarcophag.json](./94875-sarcophag.json) |
 | Sarcophaser | 54719 | [54719-sarcophaser.json](./54719-sarcophaser.json) |
 | Sare Inception | 120931 | [120931-sare-inception.json](./120931-sare-inception.json) |
+| Sargasso | 185202 | [185202-sargasso.json](./185202-sargasso.json) |
 | Sargasso | 261544 | [261544-sargasso.json](./261544-sargasso.json) |
 | Sarge | 258840 | [258840-sarge.json](./258840-sarge.json) |
 | Sargon 4 | 68874 | [68874-sargon-4.json](./68874-sargon-4.json) |
@@ -19713,6 +19714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -24721,6 +24723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Droids - The Adventures of R2-D2 and C-3PO | 61864 | [61864-star-wars-droids-the-adventures-of-r2-d2-and-c-3po.json](./61864-star-wars-droids-the-adventures-of-r2-d2-and-c-3po.json) |
 | Star Wars: DroidWorks | 95480 | [95480-star-wars-droidworks.json](./95480-star-wars-droidworks.json) |
 | Star Wars: Early Learning Activity Center | 185865 | [185865-star-wars-early-learning-activity-center.json](./185865-star-wars-early-learning-activity-center.json) |
+| Star Wars: Eclipse | 185244 | [185244-star-wars-eclipse.json](./185244-star-wars-eclipse.json) |
 | Star Wars: Empire at War | 144 | [144-star-wars-empire-at-war.json](./144-star-wars-empire-at-war.json) |
 | Star Wars: Empire at War - Forces of Corruption | 174 | [174-star-wars-empire-at-war-forces-of-corruption.json](./174-star-wars-empire-at-war-forces-of-corruption.json) |
 | Star Wars: Empire at War - Gold Pack | 93832 | [93832-star-wars-empire-at-war-gold-pack.json](./93832-star-wars-empire-at-war-gold-pack.json) |
@@ -26671,6 +26674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steredenn: Binary Stars | 87197 | [87197-steredenn-binary-stars.json](./87197-steredenn-binary-stars.json) |
 | Stereo Aereo | 31143 | [31143-stereo-aereo.json](./31143-stereo-aereo.json) |
 | Stereo Boy | 211115 | [211115-stereo-boy.json](./211115-stereo-boy.json) |
+| Stereo Driver | 185208 | [185208-stereo-driver.json](./185208-stereo-driver.json) |
 | Stereo Life | 97479 | [97479-stereo-life.json](./97479-stereo-life.json) |
 | StereoPaint | 192425 | [192425-stereopaint.json](./192425-stereopaint.json) |
 | Stereophyta | 185004 | [185004-stereophyta.json](./185004-stereophyta.json) |
@@ -26779,6 +26783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Knight Takes Over the Universe | 138657 | [138657-stick-knight-takes-over-the-universe.json](./138657-stick-knight-takes-over-the-universe.json) |
 | Stick man Flipper | 112742 | [112742-stick-man-flipper.json](./112742-stick-man-flipper.json) |
 | Stick Man Rescue | 44501 | [44501-stick-man-rescue.json](./44501-stick-man-rescue.json) |
+| Stick Match | 185219 | [185219-stick-match.json](./185219-stick-match.json) |
 | Stick Match 2 | 179439 | [179439-stick-match-2.json](./179439-stick-match-2.json) |
 | Stick Mountain | 412503 | [412503-stick-mountain.json](./412503-stick-mountain.json) |
 | Stick N' Sheep | 403072 | [403072-stick-n-sheep.json](./403072-stick-n-sheep.json) |
@@ -29988,6 +29993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Games II | 298834 | [298834-summer-games-ii.json](./298834-summer-games-ii.json) |
 | Summer Games II | 300243 | [300243-summer-games-ii.json](./300243-summer-games-ii.json) |
 | Summer Garden | 82183 | [82183-summer-garden.json](./82183-summer-garden.json) |
+| Summer Gems | 185242 | [185242-summer-gems.json](./185242-summer-gems.json) |
 | Summer Haze/Glory Days | 309718 | [309718-summer-haze-glory-days.json](./309718-summer-haze-glory-days.json) |
 | Summer Heat | 278092 | [278092-summer-heat.json](./278092-summer-heat.json) |
 | Summer Heat Beach Volleyball | 22242 | [22242-summer-heat-beach-volleyball.json](./22242-summer-heat-beach-volleyball.json) |
