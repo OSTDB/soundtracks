@@ -648,6 +648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eat This | 299468 | [299468-eat-this.json](./299468-eat-this.json) |
 | Eat this! | 120004 | [120004-eat-this.json](./120004-eat-this.json) |
 | Eat Your Fucking Soup | 239774 | [239774-eat-your-fucking-soup.json](./239774-eat-your-fucking-soup.json) |
+| Eat your letters | 148073 | [148073-eat-your-letters.json](./148073-eat-your-letters.json) |
 | Eat Your Vegetables! | 265754 | [265754-eat-your-vegetables.json](./265754-eat-your-vegetables.json) |
 | Eat Your Words | 104798 | [104798-eat-your-words.json](./104798-eat-your-words.json) |
 | Eat Your Words: Word Puzzles | 232125 | [232125-eat-your-words-word-puzzles.json](./232125-eat-your-words-word-puzzles.json) |
@@ -3765,6 +3766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Furry Clicker | 170817 | [170817-endless-furry-clicker.json](./170817-endless-furry-clicker.json) |
 | Endless Furry Killer 2020 | 351648 | [351648-endless-furry-killer-2020.json](./351648-endless-furry-killer-2020.json) |
 | Endless Furry Killer 3D | 155351 | [155351-endless-furry-killer-3d.json](./155351-endless-furry-killer-3d.json) |
+| Endless Furry Killer Infinity | 148082 | [148082-endless-furry-killer-infinity.json](./148082-endless-furry-killer-infinity.json) |
 | Endless Furry Pinball 2D | 351662 | [351662-endless-furry-pinball-2d.json](./351662-endless-furry-pinball-2d.json) |
 | Endless Furry Ping-Pong | 149755 | [149755-endless-furry-ping-pong.json](./149755-endless-furry-ping-pong.json) |
 | Endless Furry Slayer | 385981 | [385981-endless-furry-slayer.json](./385981-endless-furry-slayer.json) |
@@ -7825,6 +7827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodus | 330604 | [330604-exodus.json](./330604-exodus.json) |
 | Exodus | 379592 | [379592-exodus.json](./379592-exodus.json) |
 | Exodus | 388931 | [388931-exodus.json](./388931-exodus.json) |
+| Exodus Borealis | 148065 | [148065-exodus-borealis.json](./148065-exodus-borealis.json) |
 | Exodus Checkmate | 216398 | [216398-exodus-checkmate.json](./216398-exodus-checkmate.json) |
 | Exodus Core | 347750 | [347750-exodus-core.json](./347750-exodus-core.json) |
 | Exodus Flight | 297070 | [297070-exodus-flight.json](./297070-exodus-flight.json) |
