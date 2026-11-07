@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Clever Label | 152849 | [152849-a-clever-label.json](./152849-a-clever-label.json) |
 | A Clockwork Ley-Line: Daybreak of Remnants Shadow | 195795 | [195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json](./195795-a-clockwork-ley-line-daybreak-of-remnants-shadow.json) |
 | A Clockwork Ley-Line: Flowers Falling in the Morning Mist | 54772 | [54772-a-clockwork-ley-line-flowers-falling-in-the-morning-mist.json](./54772-a-clockwork-ley-line-flowers-falling-in-the-morning-mist.json) |
+| A Clockwork Ley-Line: Kagerou ni Samayou Majo | 148655 | [148655-a-clockwork-ley-line-kagerou-ni-samayou-majo.json](./148655-a-clockwork-ley-line-kagerou-ni-samayou-majo.json) |
 | A Clockwork Ley-Line: Tasogaredoki no Kyoukaisen | 68699 | [68699-a-clockwork-ley-line-tasogaredoki-no-kyoukaisen.json](./68699-a-clockwork-ley-line-tasogaredoki-no-kyoukaisen.json) |
 | A Clockwork Ley-Line: Zanei no Yoru ga Akeru Toki | 54750 | [54750-a-clockwork-ley-line-zanei-no-yoru-ga-akeru-toki.json](./54750-a-clockwork-ley-line-zanei-no-yoru-ga-akeru-toki.json) |
 | A Clumsy Adventure | 8627 | [8627-a-clumsy-adventure.json](./8627-a-clumsy-adventure.json) |
@@ -16859,7 +16860,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
