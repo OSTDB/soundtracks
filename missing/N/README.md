@@ -1019,6 +1019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 6 | 262818 | [262818-nature-and-wildlife-jigsaw-puzzle-expansion-pack-6.json](./262818-nature-and-wildlife-jigsaw-puzzle-expansion-pack-6.json) |
 | Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 7 | 263276 | [263276-nature-and-wildlife-jigsaw-puzzle-expansion-pack-7.json](./263276-nature-and-wildlife-jigsaw-puzzle-expansion-pack-7.json) |
 | Nature & Wildlife: Jigsaw Puzzle - Expansion Pack 8 | 262830 | [262830-nature-and-wildlife-jigsaw-puzzle-expansion-pack-8.json](./262830-nature-and-wildlife-jigsaw-puzzle-expansion-pack-8.json) |
+| Nature and Girls | 165815 | [165815-nature-and-girls.json](./165815-nature-and-girls.json) |
 | Nature Atelier | 368520 | [368520-nature-atelier.json](./368520-nature-atelier.json) |
 | Nature Challenge | 316017 | [316017-nature-challenge.json](./316017-nature-challenge.json) |
 | Nature Defenders | 33833 | [33833-nature-defenders.json](./33833-nature-defenders.json) |
