@@ -2313,6 +2313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wastelander | 178100 | [178100-wastelander.json](./178100-wastelander.json) |
 | Wastelanders | 362823 | [362823-wastelanders.json](./362823-wastelanders.json) |
 | Wastelands | 79221 | [79221-wastelands.json](./79221-wastelands.json) |
+| Wastenauts | 143819 | [143819-wastenauts.json](./143819-wastenauts.json) |
 | Wastepaperbin VR | 182658 | [182658-wastepaperbin-vr.json](./182658-wastepaperbin-vr.json) |
 | WastePunk | 258430 | [258430-wastepunk.json](./258430-wastepunk.json) |
 | Wasting Away | 190842 | [190842-wasting-away.json](./190842-wasting-away.json) |
@@ -3419,7 +3420,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to your Life | 403672 | [403672-welcome-to-your-life.json](./403672-welcome-to-your-life.json) |
 | Welcome to: Doki Doki Literature Club, Player! | 336089 | [336089-welcome-to-doki-doki-literature-club-player.json](./336089-welcome-to-doki-doki-literature-club-player.json) |
 | Welcome To... Chicheser OVN 3 : The Mysterious Affair At The Violet Hotel | 131587 | [131587-welcome-to-chicheser-ovn-3-the-mysterious-affair-at-the-violet-hotel.json](./131587-welcome-to-chicheser-ovn-3-the-mysterious-affair-at-the-violet-hotel.json) |
+| Welcome To... Chichester 1 : The Spy Of America And The Long Vacation | 143821 | [143821-welcome-to-chichester-1-the-spy-of-america-and-the-long-vacation.json](./143821-welcome-to-chichester-1-the-spy-of-america-and-the-long-vacation.json) |
 | Welcome To... Chichester 2 : The Spy Of America And The Eager Tourist Guide | 180090 | [180090-welcome-to-chichester-2-the-spy-of-america-and-the-eager-tourist-guide.json](./180090-welcome-to-chichester-2-the-spy-of-america-and-the-eager-tourist-guide.json) |
+| Welcome To... Chichester 2: Part I - The Spy Of Chichester And The Eager Tourist Guide | 143822 | [143822-welcome-to-chichester-2-part-i-the-spy-of-chichester-and-the-eager-tourist-guide.json](./143822-welcome-to-chichester-2-part-i-the-spy-of-chichester-and-the-eager-tourist-guide.json) |
 | Welcome to... Chichester 2: Part II - No Extra Regrets For the Future | 170400 | [170400-welcome-to-chichester-2-part-ii-no-extra-regrets-for-the-future.json](./170400-welcome-to-chichester-2-part-ii-no-extra-regrets-for-the-future.json) |
 | Welcome to... Chichester 2: Part II - No Regrets For the Future | 119985 | [119985-welcome-to-chichester-2-part-ii-no-regrets-for-the-future.json](./119985-welcome-to-chichester-2-part-ii-no-regrets-for-the-future.json) |
 | Welcome To... Chichester 2: Part III - NightFall | 130712 | [130712-welcome-to-chichester-2-part-iii-nightfall.json](./130712-welcome-to-chichester-2-part-iii-nightfall.json) |
