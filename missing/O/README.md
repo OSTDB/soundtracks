@@ -520,6 +520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ochimono Puzzle King | 82582 | [82582-ochimono-puzzle-king.json](./82582-ochimono-puzzle-king.json) |
 | Ochin ni Toshi Puzzle Tonjan!? | 48798 | [48798-ochin-ni-toshi-puzzle-tonjan.json](./48798-ochin-ni-toshi-puzzle-tonjan.json) |
 | Ochiru Part Tsuma: Toshishita Otoko to no Jouji ni Oboreta Hate ni... | 413706 | [413706-ochiru-part-tsuma-toshishita-otoko-to-no-jouji-ni-oboreta-hate-ni.json](./413706-ochiru-part-tsuma-toshishita-otoko-to-no-jouji-ni-oboreta-hate-ni.json) |
+| Ochitsubaki | 151918 | [151918-ochitsubaki.json](./151918-ochitsubaki.json) |
 | Ochkarik | 105634 | [105634-ochkarik.json](./105634-ochkarik.json) |
 | Ochre | 400963 | [400963-ochre.json](./400963-ochre.json) |
 | Ocnus Theory | 216602 | [216602-ocnus-theory.json](./216602-ocnus-theory.json) |
@@ -3226,6 +3227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OnSpace | 111076 | [111076-onspace.json](./111076-onspace.json) |
 | Onsui | 278256 | [278256-onsui.json](./278256-onsui.json) |
 | Ontamarama | 21509 | [21509-ontamarama.json](./21509-ontamarama.json) |
+| Ontei no Ein: Mahou Shikake no Chouritsushi | 151905 | [151905-ontei-no-ein-mahou-shikake-no-chouritsushi.json](./151905-ontei-no-ein-mahou-shikake-no-chouritsushi.json) |
 | OnTheFrontLine | 30734 | [30734-onthefrontline.json](./30734-onthefrontline.json) |
 | Onto Maizilind Unto Infinity | 372176 | [372176-onto-maizilind-unto-infinity.json](./372176-onto-maizilind-unto-infinity.json) |
 | Onto Maizilind Unto Infinity: Act I - Destruction's Wake | 252536 | [252536-onto-maizilind-unto-infinity-act-i-destructions-wake.json](./252536-onto-maizilind-unto-infinity-act-i-destructions-wake.json) |
