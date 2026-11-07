@@ -19116,6 +19116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyrates! | 176742 | [176742-pyrates.json](./176742-pyrates.json) |
 | Pyrax | 120020 | [120020-pyrax.json](./120020-pyrax.json) |
 | Pyre | 18822 | [18822-pyre.json](./18822-pyre.json) |
+| Pyre on Fire: Ten Pages | 148072 | [148072-pyre-on-fire-ten-pages.json](./148072-pyre-on-fire-ten-pages.json) |
 | Pyrene | 260275 | [260275-pyrene.json](./260275-pyrene.json) |
 | Pyreside Waltz | 236117 | [236117-pyreside-waltz.json](./236117-pyreside-waltz.json) |
 | Pyrite Heart | 17860 | [17860-pyrite-heart.json](./17860-pyrite-heart.json) |
