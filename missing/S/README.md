@@ -1442,6 +1442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Warriors 4-II: Scenario Set | 225941 | [225941-samurai-warriors-4-ii-scenario-set.json](./225941-samurai-warriors-4-ii-scenario-set.json) |
 | Samurai Warriors 4: Empires | 12280 | [12280-samurai-warriors-4-empires.json](./12280-samurai-warriors-4-empires.json) |
 | Samurai Warriors 4: Special Anime Pack | 178296 | [178296-samurai-warriors-4-special-anime-pack.json](./178296-samurai-warriors-4-special-anime-pack.json) |
+| Samurai Warriors 5: Digital Deluxe Edition | 164665 | [164665-samurai-warriors-5-digital-deluxe-edition.json](./164665-samurai-warriors-5-digital-deluxe-edition.json) |
 | Samurai Warriors 5: Ikkitousen Box | 146037 | [146037-samurai-warriors-5-ikkitousen-box.json](./146037-samurai-warriors-5-ikkitousen-box.json) |
 | Samurai Warriors 5: Treasure Box | 146035 | [146035-samurai-warriors-5-treasure-box.json](./146035-samurai-warriors-5-treasure-box.json) |
 | Samurai Warriors Chronicles 3 | 19964 | [19964-samurai-warriors-chronicles-3.json](./19964-samurai-warriors-chronicles-3.json) |
@@ -13026,6 +13027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyrift: Aratirí | 337407 | [337407-skyrift-aratiri.json](./337407-skyrift-aratiri.json) |
 | SkyRig | 348286 | [348286-skyrig.json](./348286-skyrig.json) |
 | Skyrim Anniversary Edition + Fallout 4 G.O.T.Y. Bundle | 342531 | [342531-skyrim-anniversary-edition-fallout-4-g-o-t-y-bundle.json](./342531-skyrim-anniversary-edition-fallout-4-g-o-t-y-bundle.json) |
+| Skyrim Special Edition + Fallout 4 G.O.T.Y Bundle | 164666 | [164666-skyrim-special-edition-fallout-4-g-o-t-y-bundle.json](./164666-skyrim-special-edition-fallout-4-g-o-t-y-bundle.json) |
 | SkyRoads X-mas Special | 19236 | [19236-skyroads-x-mas-special.json](./19236-skyroads-x-mas-special.json) |
 | Skyrogue | 184017 | [184017-skyrogue.json](./184017-skyrogue.json) |
 | SkyRunner | 357114 | [357114-skyrunner.json](./357114-skyrunner.json) |
@@ -27836,6 +27838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Loop | 26433 | [26433-strange-loop.json](./26433-strange-loop.json) |
 | Strange Love: Vampire Boyfriends | 63676 | [63676-strange-love-vampire-boyfriends.json](./63676-strange-love-vampire-boyfriends.json) |
 | Strange Memo | 201842 | [201842-strange-memo.json](./201842-strange-memo.json) |
+| Strange Midnight | 164649 | [164649-strange-midnight.json](./164649-strange-midnight.json) |
 | Strange New Tides | 339660 | [339660-strange-new-tides.json](./339660-strange-new-tides.json) |
 | Strange Night | 32248 | [32248-strange-night.json](./32248-strange-night.json) |
 | Strange Night ll | 81778 | [81778-strange-night-ll.json](./81778-strange-night-ll.json) |
