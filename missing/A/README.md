@@ -2074,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absence Request | 76618 | [76618-absence-request.json](./76618-absence-request.json) |
 | Absence: Verdict of Silence | 185002 | [185002-absence-verdict-of-silence.json](./185002-absence-verdict-of-silence.json) |
 | Absent II | 58073 | [58073-absent-ii.json](./58073-absent-ii.json) |
+| Absent in the Rain | 187581 | [187581-absent-in-the-rain.json](./187581-absent-in-the-rain.json) |
 | Absent Mind | 29381 | [29381-absent-mind.json](./29381-absent-mind.json) |
 | AbsentedAge 2: Ghostbound | 363570 | [363570-absentedage-2-ghostbound.json](./363570-absentedage-2-ghostbound.json) |
 | Absentis | 189193 | [189193-absentis.json](./189193-absentis.json) |
@@ -2772,6 +2773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achromatic | 107840 | [107840-achromatic.json](./107840-achromatic.json) |
 | Achromatic | 191950 | [191950-achromatic.json](./191950-achromatic.json) |
 | Achromatic | 203807 | [203807-achromatic.json](./203807-achromatic.json) |
+| Achromira | 187635 | [187635-achromira.json](./187635-achromira.json) |
 | Achron | 16264 | [16264-achron.json](./16264-achron.json) |
 | Achtung die Kugel! | 110927 | [110927-achtung-die-kugel.json](./110927-achtung-die-kugel.json) |
 | Achtung Franz: Quest for Wine | 314993 | [314993-achtung-franz-quest-for-wine.json](./314993-achtung-franz-quest-for-wine.json) |
@@ -16652,6 +16654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atham Battle Simulator | 240626 | [240626-atham-battle-simulator.json](./240626-atham-battle-simulator.json) |
 | Athamuff | 370303 | [370303-athamuff.json](./370303-athamuff.json) |
 | Athanasia | 202129 | [202129-athanasia.json](./202129-athanasia.json) |
+| Athanasy | 187595 | [187595-athanasy.json](./187595-athanasy.json) |
 | Athanasy + Ceiba Bundle | 284946 | [284946-athanasy-ceiba-bundle.json](./284946-athanasy-ceiba-bundle.json) |
 | Athar: Echoes of Time | 387657 | [387657-athar-echoes-of-time.json](./387657-athar-echoes-of-time.json) |
 | Athelan Battlegrounds | 377989 | [377989-athelan-battlegrounds.json](./377989-athelan-battlegrounds.json) |
@@ -16695,6 +16698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
