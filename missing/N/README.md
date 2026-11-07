@@ -2686,6 +2686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeoTrap | 184112 | [184112-neotrap.json](./184112-neotrap.json) |
 | Neotrie VR | 112706 | [112706-neotrie-vr.json](./112706-neotrie-vr.json) |
 | Neoverse | 113750 | [113750-neoverse.json](./113750-neoverse.json) |
+| Neoverse Trinity Edition | 144451 | [144451-neoverse-trinity-edition.json](./144451-neoverse-trinity-edition.json) |
 | NEP League DS | 61403 | [61403-nep-league-ds.json](./61403-nep-league-ds.json) |
 | Nepenthe | 100600 | [100600-nepenthe.json](./100600-nepenthe.json) |
 | Nephelem: A Path of Vice and Virtue | 342653 | [342653-nephelem-a-path-of-vice-and-virtue.json](./342653-nephelem-a-path-of-vice-and-virtue.json) |
