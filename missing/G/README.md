@@ -4634,6 +4634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls on Campus, from Freshmen to Faculty, All Fall for Me! | 313536 | [313536-girls-on-campus-from-freshmen-to-faculty-all-fall-for-me.json](./313536-girls-on-campus-from-freshmen-to-faculty-all-fall-for-me.json) |
 | Girls on puzzle | 156625 | [156625-girls-on-puzzle.json](./156625-girls-on-puzzle.json) |
 | Girls on puzzle 2 | 156842 | [156842-girls-on-puzzle-2.json](./156842-girls-on-puzzle-2.json) |
+| Girls on puzzle 3 | 159988 | [159988-girls-on-puzzle-3.json](./159988-girls-on-puzzle-3.json) |
 | Girls on puzzle 4 | 156622 | [156622-girls-on-puzzle-4.json](./156622-girls-on-puzzle-4.json) |
 | Girls on Tanks | 98504 | [98504-girls-on-tanks.json](./98504-girls-on-tanks.json) |
 | Girls Only | 209752 | [209752-girls-only.json](./209752-girls-only.json) |
@@ -10866,6 +10867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Games 3D Offline Fps Games | 296769 | [296769-gun-games-3d-offline-fps-games.json](./296769-gun-games-3d-offline-fps-games.json) |
 | Gun Glade | 397627 | [397627-gun-glade.json](./397627-gun-glade.json) |
 | Gun Gladiator | 287749 | [287749-gun-gladiator.json](./287749-gun-gladiator.json) |
+| Gun Gun Create | 159962 | [159962-gun-gun-create.json](./159962-gun-gun-create.json) |
 | Gun Gun Pixies | 27281 | [27281-gun-gun-pixies.json](./27281-gun-gun-pixies.json) |
 | Gun Gun Pixies H H | 222105 | [222105-gun-gun-pixies-h-h.json](./222105-gun-gun-pixies-h-h.json) |
 | Gun Head Shot | 231935 | [231935-gun-head-shot.json](./231935-gun-head-shot.json) |
