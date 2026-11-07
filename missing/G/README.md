@@ -2869,6 +2869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation of Chaos | 24274 | [24274-generation-of-chaos.json](./24274-generation-of-chaos.json) |
 | Generation of Chaos Exceed | 3930 | [3930-generation-of-chaos-exceed.json](./3930-generation-of-chaos-exceed.json) |
 | Generation of Chaos: Pandora's Reflection | 21018 | [21018-generation-of-chaos-pandoras-reflection.json](./21018-generation-of-chaos-pandoras-reflection.json) |
+| Generation Ship | 152950 | [152950-generation-ship.json](./152950-generation-ship.json) |
 | Generation Streets | 110088 | [110088-generation-streets.json](./110088-generation-streets.json) |
 | Generation Zero: Action Hero Bundle | 331540 | [331540-generation-zero-action-hero-bundle.json](./331540-generation-zero-action-hero-bundle.json) |
 | Generation Zero: Advanced Intelligence Cosmetics Pack | 276062 | [276062-generation-zero-advanced-intelligence-cosmetics-pack.json](./276062-generation-zero-advanced-intelligence-cosmetics-pack.json) |
@@ -2946,6 +2947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genetic | 270663 | [270663-genetic.json](./270663-genetic.json) |
 | Genetic Disaster | 68324 | [68324-genetic-disaster.json](./68324-genetic-disaster.json) |
 | Genetic Drift | 24831 | [24831-genetic-drift.json](./24831-genetic-drift.json) |
+| Genetic Fluff | 152941 | [152941-genetic-fluff.json](./152941-genetic-fluff.json) |
 | Genetic Species | 73458 | [73458-genetic-species.json](./73458-genetic-species.json) |
 | Genetica: Extinction | 390476 | [390476-genetica-extinction.json](./390476-genetica-extinction.json) |
 | Geneticognito | 44173 | [44173-geneticognito.json](./44173-geneticognito.json) |
@@ -8292,6 +8294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapple the Abyss! | 182974 | [182974-grapple-the-abyss.json](./182974-grapple-the-abyss.json) |
 | Grapple Up! | 312648 | [312648-grapple-up.json](./312648-grapple-up.json) |
 | Grapple Whip | 120360 | [120360-grapple-whip.json](./120360-grapple-whip.json) |
+| Grapple! | 152960 | [152960-grapple.json](./152960-grapple.json) |
 | GrappleApp | 107002 | [107002-grappleapp.json](./107002-grappleapp.json) |
 | GrappleBurger | 374383 | [374383-grappleburger.json](./374383-grappleburger.json) |
 | Grappledrome | 36453 | [36453-grappledrome.json](./36453-grappledrome.json) |
@@ -9633,6 +9636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimshire | 284411 | [284411-grimshire.json](./284411-grimshire.json) |
 | Grimslair | 391587 | [391587-grimslair.json](./391587-grimslair.json) |
 | Grimsonland | 112765 | [112765-grimsonland.json](./112765-grimsonland.json) |
+| Grimstar: Crystals are the New Oil! | 152563 | [152563-grimstar-crystals-are-the-new-oil.json](./152563-grimstar-crystals-are-the-new-oil.json) |
 | Grimstar: Welcome to the savage planet | 211528 | [211528-grimstar-welcome-to-the-savage-planet.json](./211528-grimstar-welcome-to-the-savage-planet.json) |
 | Grimstone | 318307 | [318307-grimstone.json](./318307-grimstone.json) |
 | Grimstone Valley | 340326 | [340326-grimstone-valley.json](./340326-grimstone-valley.json) |
