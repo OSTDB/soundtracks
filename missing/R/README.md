@@ -594,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radarjam | 132758 | [132758-radarjam.json](./132758-radarjam.json) |
 | Radballs | 64633 | [64633-radballs.json](./64633-radballs.json) |
 | RadCity: a post-apocalyptic adventure | 381608 | [381608-radcity-a-post-apocalyptic-adventure.json](./381608-radcity-a-post-apocalyptic-adventure.json) |
+| Raddio | 181454 | [181454-raddio.json](./181454-raddio.json) |
 | Raddle | 345510 | [345510-raddle.json](./345510-raddle.json) |
 | Raddoll | 262109 | [262109-raddoll.json](./262109-raddoll.json) |
 | Radia Senki: Reimeihen | 48686 | [48686-radia-senki-reimeihen.json](./48686-radia-senki-reimeihen.json) |
@@ -7027,6 +7028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ribbon Racer | 110664 | [110664-ribbon-racer.json](./110664-ribbon-racer.json) |
 | Ribbon Racer Next | 115178 | [115178-ribbon-racer-next.json](./115178-ribbon-racer-next.json) |
 | Ribby Rocket | 149599 | [149599-ribby-rocket.json](./149599-ribby-rocket.json) |
+| Ribby: The Game | 181439 | [181439-ribby-the-game.json](./181439-ribby-the-game.json) |
 | Ribeye Charlie's | 183170 | [183170-ribeye-charlies.json](./183170-ribeye-charlies.json) |
 | Ribon: Sabukseong Gyeoljeon | 215838 | [215838-ribon-sabukseong-gyeoljeon.json](./215838-ribon-sabukseong-gyeoljeon.json) |
 | Riboud and Fairies | 234518 | [234518-riboud-and-fairies.json](./234518-riboud-and-fairies.json) |
