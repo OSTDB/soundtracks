@@ -5035,6 +5035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erudite with friends | 387456 | [387456-erudite-with-friends.json](./387456-erudite-with-friends.json) |
 | Erulean Angel: Fantasy Commander | 351136 | [351136-erulean-angel-fantasy-commander.json](./351136-erulean-angel-fantasy-commander.json) |
 | Erumani | 301550 | [301550-erumani.json](./301550-erumani.json) |
+| Eruption | 147552 | [147552-eruption.json](./147552-eruption.json) |
 | Eruption | 54341 | [54341-eruption.json](./54341-eruption.json) |
 | Eruptle | 320769 | [320769-eruptle.json](./320769-eruptle.json) |
 | EruruAdventure | 97281 | [97281-eruruadventure.json](./97281-eruruadventure.json) |
