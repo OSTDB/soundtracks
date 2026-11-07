@@ -3500,6 +3500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Eventide | 392457 | [392457-operation-eventide.json](./392457-operation-eventide.json) |
 | Operation Eventide: Dolorosa | 365815 | [365815-operation-eventide-dolorosa.json](./365815-operation-eventide-dolorosa.json) |
 | Operation F.A.T.E. | 152865 | [152865-operation-f-a-t-e.json](./152865-operation-f-a-t-e.json) |
+| Operation February | 174972 | [174972-operation-february.json](./174972-operation-february.json) |
 | Operation Fireball | 293744 | [293744-operation-fireball.json](./293744-operation-fireball.json) |
 | Operation Flashpoint: Cold War Crisis | 288 | [288-operation-flashpoint-cold-war-crisis.json](./288-operation-flashpoint-cold-war-crisis.json) |
 | Operation Flashpoint: Dragon Rising | 451 | [451-operation-flashpoint-dragon-rising.json](./451-operation-flashpoint-dragon-rising.json) |
@@ -4119,6 +4120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore no Shikabane wo Koete Yuke | 305799 | [305799-ore-no-shikabane-wo-koete-yuke.json](./305799-ore-no-shikabane-wo-koete-yuke.json) |
 | Ore no Shikabane wo Koete Yuke | 65905 | [65905-ore-no-shikabane-wo-koete-yuke.json](./65905-ore-no-shikabane-wo-koete-yuke.json) |
 | Ore no Shita de Agake | 205643 | [205643-ore-no-shita-de-agake.json](./205643-ore-no-shita-de-agake.json) |
+| Ore no Stalker | 174974 | [174974-ore-no-stalker.json](./174974-ore-no-stalker.json) |
 | Ore no Yacht: Ganbare Nippon Challenge | 378439 | [378439-ore-no-yacht-ganbare-nippon-challenge.json](./378439-ore-no-yacht-ganbare-nippon-challenge.json) |
 | Ore no Yome VR | 304892 | [304892-ore-no-yome-vr.json](./304892-ore-no-yome-vr.json) |
 | Ore no Yuukyuu Koi Monogatari | 259614 | [259614-ore-no-yuukyuu-koi-monogatari.json](./259614-ore-no-yuukyuu-koi-monogatari.json) |
