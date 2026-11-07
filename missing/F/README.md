@@ -2926,6 +2926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast Cars Small Islands | 284912 | [284912-fast-cars-small-islands.json](./284912-fast-cars-small-islands.json) |
 | Fast Cubes | 166818 | [166818-fast-cubes.json](./166818-fast-cubes.json) |
 | Fast Delivery | 192672 | [192672-fast-delivery.json](./192672-fast-delivery.json) |
+| Fast Detect | 174443 | [174443-fast-detect.json](./174443-fast-detect.json) |
 | Fast Diamonds | 260770 | [260770-fast-diamonds.json](./260770-fast-diamonds.json) |
 | Fast Draw Showdown | 8927 | [8927-fast-draw-showdown.json](./8927-fast-draw-showdown.json) |
 | Fast Drive: Extreme Race & Drift | 88002 | [88002-fast-drive-extreme-race-and-drift.json](./88002-fast-drive-extreme-race-and-drift.json) |
@@ -6509,7 +6510,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisher Haven | 338405 | [338405-fisher-haven.json](./338405-fisher-haven.json) |
 | Fisher Idle | 333488 | [333488-fisher-idle.json](./333488-fisher-idle.json) |
 | Fisher Man | 367491 | [367491-fisher-man.json](./367491-fisher-man.json) |
+| Fisher Online | 174441 | [174441-fisher-online.json](./174441-fisher-online.json) |
 | Fisher Online: China | 238416 | [238416-fisher-online-china.json](./238416-fisher-online-china.json) |
+| Fisher Online: Siberia - Enisey | 174427 | [174427-fisher-online-siberia-enisey.json](./174427-fisher-online-siberia-enisey.json) |
+| Fisher Online: USA/Canada - Ontario | 174426 | [174426-fisher-online-usa-canada-ontario.json](./174426-fisher-online-usa-canada-ontario.json) |
 | Fisher-Price Dream Dollhouse | 228449 | [228449-fisher-price-dream-dollhouse.json](./228449-fisher-price-dream-dollhouse.json) |
 | Fisher-Price Little People Christmas Activity Center | 337173 | [337173-fisher-price-little-people-christmas-activity-center.json](./337173-fisher-price-little-people-christmas-activity-center.json) |
 | Fisher-Price Outdoor Adventures: Ranger Trail | 79595 | [79595-fisher-price-outdoor-adventures-ranger-trail.json](./79595-fisher-price-outdoor-adventures-ranger-trail.json) |
@@ -13800,6 +13804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Sex: Poker | 212192 | [212192-furry-sex-poker.json](./212192-furry-sex-poker.json) |
 | Furry Sexy Girls | 375951 | [375951-furry-sexy-girls.json](./375951-furry-sexy-girls.json) |
 | Furry Shades of Gay | 165025 | [165025-furry-shades-of-gay.json](./165025-furry-shades-of-gay.json) |
+| Furry Shades of Gay 2: A Shade Gayer - Love Stories Episodes | 174459 | [174459-furry-shades-of-gay-2-a-shade-gayer-love-stories-episodes.json](./174459-furry-shades-of-gay-2-a-shade-gayer-love-stories-episodes.json) |
 | Furry Shades of Gay 3: Still Gayer | 199703 | [199703-furry-shades-of-gay-3-still-gayer.json](./199703-furry-shades-of-gay-3-still-gayer.json) |
 | Furry Shakespeare: Dashing Dinosaurs & Sexy Centaurs | 240137 | [240137-furry-shakespeare-dashing-dinosaurs-and-sexy-centaurs.json](./240137-furry-shakespeare-dashing-dinosaurs-and-sexy-centaurs.json) |
 | Furry Shakespeare: Dashing Dinosaurs & Sexy Centaurs - The Meerkats from Arkham | 169040 | [169040-furry-shakespeare-dashing-dinosaurs-and-sexy-centaurs-the-meerkats-from-arkham.json](./169040-furry-shakespeare-dashing-dinosaurs-and-sexy-centaurs-the-meerkats-from-arkham.json) |
