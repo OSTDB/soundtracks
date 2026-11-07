@@ -13472,6 +13472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleeping Prince | 77966 | [77966-sleeping-prince.json](./77966-sleeping-prince.json) |
 | Sleeping Tanuki | 202008 | [202008-sleeping-tanuki.json](./202008-sleeping-tanuki.json) |
 | Sleeping Valley | 24960 | [24960-sleeping-valley.json](./24960-sleeping-valley.json) |
+| Sleeping With Death | 151355 | [151355-sleeping-with-death.json](./151355-sleeping-with-death.json) |
 | Sleeping With Sakuya Izayoi | 284849 | [284849-sleeping-with-sakuya-izayoi.json](./284849-sleeping-with-sakuya-izayoi.json) |
 | Sleeping With Sakuya Izayoi: ASMR DLC | 298255 | [298255-sleeping-with-sakuya-izayoi-asmr-dlc.json](./298255-sleeping-with-sakuya-izayoi-asmr-dlc.json) |
 | Sleeping With the Phish | 391178 | [391178-sleeping-with-the-phish.json](./391178-sleeping-with-the-phish.json) |
@@ -14253,6 +14254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slumpunk | 382505 | [382505-slumpunk.json](./382505-slumpunk.json) |
 | Slums of Tetsoidea | 186820 | [186820-slums-of-tetsoidea.json](./186820-slums-of-tetsoidea.json) |
 | slurdgery | 307523 | [307523-slurdgery.json](./307523-slurdgery.json) |
+| Slurkum | 151348 | [151348-slurkum.json](./151348-slurkum.json) |
 | Slurpee x Tetris Handheld Game | 365005 | [365005-slurpee-x-tetris-handheld-game.json](./365005-slurpee-x-tetris-handheld-game.json) |
 | Slurpies Free | 216528 | [216528-slurpies-free.json](./216528-slurpies-free.json) |
 | Slurpy | 25712 | [25712-slurpy.json](./25712-slurpy.json) |
@@ -36520,6 +36522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthetic Hazard | 167436 | [167436-synthetic-hazard.json](./167436-synthetic-hazard.json) |
 | Synthetic Hopes | 345112 | [345112-synthetic-hopes.json](./345112-synthetic-hopes.json) |
 | Synthetic Love | 110720 | [110720-synthetic-love.json](./110720-synthetic-love.json) |
+| Synthetic Lover | 151325 | [151325-synthetic-lover.json](./151325-synthetic-lover.json) |
 | Synthetic Orders | 383095 | [383095-synthetic-orders.json](./383095-synthetic-orders.json) |
 | Synthetic Paradox | 334596 | [334596-synthetic-paradox.json](./334596-synthetic-paradox.json) |
 | Synthetic Soul | 276159 | [276159-synthetic-soul.json](./276159-synthetic-soul.json) |
