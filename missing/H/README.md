@@ -10368,6 +10368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hostile Makeover | 10416 | [10416-hostile-makeover.json](./10416-hostile-makeover.json) |
 | Hostile Mars | 151031 | [151031-hostile-mars.json](./151031-hostile-mars.json) |
 | Hostile Paths | 419770 | [419770-hostile-paths.json](./419770-hostile-paths.json) |
+| Hostile Planet: Survival | 189789 | [189789-hostile-planet-survival.json](./189789-hostile-planet-survival.json) |
 | Hostile Skies | 273687 | [273687-hostile-skies.json](./273687-hostile-skies.json) |
 | Hostile Space Revived | 97973 | [97973-hostile-space-revived.json](./97973-hostile-space-revived.json) |
 | Hostile Takeover | 143533 | [143533-hostile-takeover.json](./143533-hostile-takeover.json) |
