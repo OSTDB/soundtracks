@@ -2101,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkenstein 3D | 235996 | [235996-darkenstein-3d.json](./235996-darkenstein-3d.json) |
 | Darker | 77807 | [77807-darker.json](./77807-darker.json) |
 | Darker Ride Escape | 310578 | [310578-darker-ride-escape.json](./310578-darker-ride-escape.json) |
+| Darker Skies | 165839 | [165839-darker-skies.json](./165839-darker-skies.json) |
 | Darker Than Space | 204921 | [204921-darker-than-space.json](./204921-darker-than-space.json) |
 | Darker Tides | 238603 | [238603-darker-tides.json](./238603-darker-tides.json) |
 | Darker: Episode I | 163759 | [163759-darker-episode-i.json](./163759-darker-episode-i.json) |
@@ -2169,6 +2170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkiss: Chapter 1 - The Awakening | 59720 | [59720-darkiss-chapter-1-the-awakening.json](./59720-darkiss-chapter-1-the-awakening.json) |
 | Darkiss! Wrath of the Vampire Chapter 2: Journey to Hell | 57509 | [57509-darkiss-wrath-of-the-vampire-chapter-2-journey-to-hell.json](./57509-darkiss-wrath-of-the-vampire-chapter-2-journey-to-hell.json) |
 | Darkland | 134439 | [134439-darkland.json](./134439-darkland.json) |
+| Darkland II | 165838 | [165838-darkland-ii.json](./165838-darkland-ii.json) |
 | Darklands | 2467 | [2467-darklands.json](./2467-darklands.json) |
 | Darklands | 278369 | [278369-darklands.json](./278369-darklands.json) |
 | Darklands: Awakening | 164520 | [164520-darklands-awakening.json](./164520-darklands-awakening.json) |
@@ -7532,6 +7534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Legacy Collection | 192302 | [192302-destiny-2-legacy-collection.json](./192302-destiny-2-legacy-collection.json) |
 | Destiny 2: Legacy Collection | 240099 | [240099-destiny-2-legacy-collection.json](./240099-destiny-2-legacy-collection.json) |
 | Destiny 2: Legacy Collection | 304472 | [304472-destiny-2-legacy-collection.json](./304472-destiny-2-legacy-collection.json) |
+| Destiny 2: Legendary Edition | 165853 | [165853-destiny-2-legendary-edition.json](./165853-destiny-2-legendary-edition.json) |
 | Destiny 2: Lightfall - Season of Defiance | 240059 | [240059-destiny-2-lightfall-season-of-defiance.json](./240059-destiny-2-lightfall-season-of-defiance.json) |
 | Destiny 2: Lightfall - Season of the Deep | 250021 | [250021-destiny-2-lightfall-season-of-the-deep.json](./250021-destiny-2-lightfall-season-of-the-deep.json) |
 | Destiny 2: Lightfall - Season of the Wish | 278312 | [278312-destiny-2-lightfall-season-of-the-wish.json](./278312-destiny-2-lightfall-season-of-the-wish.json) |
@@ -14870,6 +14873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball: Xenoverse 2 - Ultra Pack Set | 164822 | [164822-dragon-ball-xenoverse-2-ultra-pack-set.json](./164822-dragon-ball-xenoverse-2-ultra-pack-set.json) |
 | Dragon Ball: Xenoverse 2: Special Edition | 271831 | [271831-dragon-ball-xenoverse-2-special-edition.json](./271831-dragon-ball-xenoverse-2-special-edition.json) |
 | Dragon Ball: Xenoverse 3 | 387020 | [387020-dragon-ball-xenoverse-3.json](./387020-dragon-ball-xenoverse-3.json) |
+| Dragon Ball: Xenoverse Super Bundle | 165861 | [165861-dragon-ball-xenoverse-super-bundle.json](./165861-dragon-ball-xenoverse-super-bundle.json) |
 | Dragon Ball: Zenkai Battle Royale | 2573 | [2573-dragon-ball-zenkai-battle-royale.json](./2573-dragon-ball-zenkai-battle-royale.json) |
 | Dragon Banner | 130162 | [130162-dragon-banner.json](./130162-dragon-banner.json) |
 | Dragon Battle | 102165 | [102165-dragon-battle.json](./102165-dragon-battle.json) |
@@ -16001,6 +16005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Girlfriend | 208979 | [208979-dream-girlfriend.json](./208979-dream-girlfriend.json) |
 | Dream Girlfriend: Doomer Girl | 272208 | [272208-dream-girlfriend-doomer-girl.json](./272208-dream-girlfriend-doomer-girl.json) |
 | Dream Girlfriend: Twitch Thot | 368106 | [368106-dream-girlfriend-twitch-thot.json](./368106-dream-girlfriend-twitch-thot.json) |
+| Dream Girls Collection | 165833 | [165833-dream-girls-collection.json](./165833-dream-girls-collection.json) |
 | Dream Girls VR | 111725 | [111725-dream-girls-vr.json](./111725-dream-girls-vr.json) |
 | Dream Golf VR | 74441 | [74441-dream-golf-vr.json](./74441-dream-golf-vr.json) |
 | Dream Golf VR: Infinity Towers | 170886 | [170886-dream-golf-vr-infinity-towers.json](./170886-dream-golf-vr-infinity-towers.json) |
