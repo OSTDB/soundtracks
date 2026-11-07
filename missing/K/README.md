@@ -201,6 +201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaguya-hime Densetsu | 48447 | [48447-kaguya-hime-densetsu.json](./48447-kaguya-hime-densetsu.json) |
 | Kaguya-sama: Love Is War | 239005 | [239005-kaguya-sama-love-is-war.json](./239005-kaguya-sama-love-is-war.json) |
 | Kahen Soukou Gunbike | 44756 | [44756-kahen-soukou-gunbike.json](./44756-kahen-soukou-gunbike.json) |
+| Kahi | 180921 | [180921-kahi.json](./180921-kahi.json) |
 | Kahmate | 207992 | [207992-kahmate.json](./207992-kahmate.json) |
 | Kahogo de Ecchi na Boku no Ane | 97449 | [97449-kahogo-de-ecchi-na-boku-no-ane.json](./97449-kahogo-de-ecchi-na-boku-no-ane.json) |
 | Kai | 302610 | [302610-kai.json](./302610-kai.json) |
@@ -2833,7 +2834,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3348,6 +3348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Chronicles | 89714 | [89714-kingdom-chronicles.json](./89714-kingdom-chronicles.json) |
 | Kingdom Chronicles HD | 102651 | [102651-kingdom-chronicles-hd.json](./102651-kingdom-chronicles-hd.json) |
 | Kingdom City Drowning Ep1 - The Champion | 55463 | [55463-kingdom-city-drowning-ep1-the-champion.json](./55463-kingdom-city-drowning-ep1-the-champion.json) |
+| Kingdom Clicker | 180926 | [180926-kingdom-clicker.json](./180926-kingdom-clicker.json) |
 | Kingdom Clicker | 91157 | [91157-kingdom-clicker.json](./91157-kingdom-clicker.json) |
 | Kingdom Coins - Dozer of Coins Arcade Game | 88707 | [88707-kingdom-coins-dozer-of-coins-arcade-game.json](./88707-kingdom-coins-dozer-of-coins-arcade-game.json) |
 | Kingdom Coins Lucky Vegas - Dozer of Coins Arcade Game | 87080 | [87080-kingdom-coins-lucky-vegas-dozer-of-coins-arcade-game.json](./87080-kingdom-coins-lucky-vegas-dozer-of-coins-arcade-game.json) |
