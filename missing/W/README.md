@@ -791,6 +791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War | 288640 | [288640-war.json](./288640-war.json) |
 | War | 330313 | [330313-war.json](./330313-war.json) |
 | War | 54931 | [54931-war.json](./54931-war.json) |
+| War & Romance | 188187 | [188187-war-and-romance.json](./188187-war-and-romance.json) |
 | War 2: Victory | 254168 | [254168-war-2-victory.json](./254168-war-2-victory.json) |
 | War 2020: A Fight Against CoronaVirus | 178451 | [178451-war-2020-a-fight-against-coronavirus.json](./178451-war-2020-a-fight-against-coronavirus.json) |
 | War 2410 | 38398 | [38398-war-2410.json](./38398-war-2410.json) |
@@ -9316,6 +9317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K22: Clowning Around Pack | 226572 | [226572-wwe-2k22-clowning-around-pack.json](./226572-wwe-2k22-clowning-around-pack.json) |
 | WWE 2K22: Deluxe Edition | 188127 | [188127-wwe-2k22-deluxe-edition.json](./188127-wwe-2k22-deluxe-edition.json) |
 | WWE 2K22: Most Wanted Pack | 230986 | [230986-wwe-2k22-most-wanted-pack.json](./230986-wwe-2k22-most-wanted-pack.json) |
+| WWE 2K22: NWO 4 - Life Edition | 188169 | [188169-wwe-2k22-nwo-4-life-edition.json](./188169-wwe-2k22-nwo-4-life-edition.json) |
 | WWE 2K22: nWo 4-Life - Bonus Pack | 226115 | [226115-wwe-2k22-nwo-4-life-bonus-pack.json](./226115-wwe-2k22-nwo-4-life-bonus-pack.json) |
 | WWE 2K22: Season Pass | 293720 | [293720-wwe-2k22-season-pass.json](./293720-wwe-2k22-season-pass.json) |
 | WWE 2K22: Stand Back Pack | 231764 | [231764-wwe-2k22-stand-back-pack.json](./231764-wwe-2k22-stand-back-pack.json) |
