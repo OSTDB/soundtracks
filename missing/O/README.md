@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obsolete | 142804 | [142804-obsolete.json](./142804-obsolete.json) |
 | Obsolete | 184488 | [184488-obsolete.json](./184488-obsolete.json) |
 | Obsolete Friends | 403151 | [403151-obsolete-friends.json](./403151-obsolete-friends.json) |
+| Obsolete Souls | 166902 | [166902-obsolete-souls.json](./166902-obsolete-souls.json) |
 | Obsolete Souls Episode 0: Operation Haiti | 292939 | [292939-obsolete-souls-episode-0-operation-haiti.json](./292939-obsolete-souls-episode-0-operation-haiti.json) |
 | Obsolete: After the Accident | 319891 | [319891-obsolete-after-the-accident.json](./319891-obsolete-after-the-accident.json) |
 | Obsta-Loop | 238477 | [238477-obsta-loop.json](./238477-obsta-loop.json) |
