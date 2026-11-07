@@ -2783,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Service | 387601 | [387601-haunted-service.json](./387601-haunted-service.json) |
 | Haunted Space Hotel: Vacancy | 330508 | [330508-haunted-space-hotel-vacancy.json](./330508-haunted-space-hotel-vacancy.json) |
 | Haunted Starbase | 317360 | [317360-haunted-starbase.json](./317360-haunted-starbase.json) |
+| Haunted Stories | 188751 | [188751-haunted-stories.json](./188751-haunted-stories.json) |
 | Haunted Streamer | 331236 | [331236-haunted-streamer.json](./331236-haunted-streamer.json) |
 | Haunted Theme Park Hidden Object | 99503 | [99503-haunted-theme-park-hidden-object.json](./99503-haunted-theme-park-hidden-object.json) |
 | Haunted Things | 271034 | [271034-haunted-things.json](./271034-haunted-things.json) |
@@ -4197,6 +4198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell's 8th Avenue: Miori's Mysterious Notebook | 348699 | [348699-hells-8th-avenue-mioris-mysterious-notebook.json](./348699-hells-8th-avenue-mioris-mysterious-notebook.json) |
 | Hell's Bell | 295861 | [295861-hells-bell.json](./295861-hells-bell.json) |
 | Hell's Cooking Joy | 339107 | [339107-hells-cooking-joy.json](./339107-hells-cooking-joy.json) |
+| Hell's Delivery | 188747 | [188747-hells-delivery.json](./188747-hells-delivery.json) |
 | Hell's Descent | 318764 | [318764-hells-descent.json](./318764-hells-descent.json) |
 | Hell's Eventide | 263487 | [263487-hells-eventide.json](./263487-hells-eventide.json) |
 | Hell's Farthest Shore | 261452 | [261452-hells-farthest-shore.json](./261452-hells-farthest-shore.json) |
@@ -4638,6 +4640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helly-Drop | 354758 | [354758-helly-drop.json](./354758-helly-drop.json) |
 | Hellycoaster | 177453 | [177453-hellycoaster.json](./177453-hellycoaster.json) |
 | Helm Knight 2 | 108702 | [108702-helm-knight-2.json](./108702-helm-knight-2.json) |
+| Helm or High Water | 188722 | [188722-helm-or-high-water.json](./188722-helm-or-high-water.json) |
 | Helm Realm | 126497 | [126497-helm-realm.json](./126497-helm-realm.json) |
 | Helm Space Corps | 95753 | [95753-helm-space-corps.json](./95753-helm-space-corps.json) |
 | Helmet | 231727 | [231727-helmet.json](./231727-helmet.json) |
@@ -11905,6 +11908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt them | 113473 | [113473-hunt-them.json](./113473-hunt-them.json) |
 | Hunt Together | 279395 | [279395-hunt-together.json](./279395-hunt-together.json) |
 | Hunt Zombies Together | 413135 | [413135-hunt-zombies-together.json](./413135-hunt-zombies-together.json) |
+| Hunt-or-Haunt | 188735 | [188735-hunt-or-haunt.json](./188735-hunt-or-haunt.json) |
 | Hunt, Hunter, Hunted | 177751 | [177751-hunt-hunter-hunted.json](./177751-hunt-hunter-hunted.json) |
 | Hunt: Showdown - Bayou Wraith | 166067 | [166067-hunt-showdown-bayou-wraith.json](./166067-hunt-showdown-bayou-wraith.json) |
 | Hunt: Showdown - Bridgewater's Honor | 241834 | [241834-hunt-showdown-bridgewaters-honor.json](./241834-hunt-showdown-bridgewaters-honor.json) |
