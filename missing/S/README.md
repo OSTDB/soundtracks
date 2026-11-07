@@ -5967,6 +5967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street Pals Around Town | 213177 | [213177-sesame-street-pals-around-town.json](./213177-sesame-street-pals-around-town.json) |
 | Sesame Street Sports | 49916 | [49916-sesame-street-sports.json](./49916-sesame-street-sports.json) |
 | Sesame Street: 1-2-3 | 78035 | [78035-sesame-street-1-2-3.json](./78035-sesame-street-1-2-3.json) |
+| Sesame Street: Alphabet Avenue | 176058 | [176058-sesame-street-alphabet-avenue.json](./176058-sesame-street-alphabet-avenue.json) |
 | Sesame Street: Cookie Monster’s Cookie Factory | 421421 | [421421-sesame-street-cookie-monster-s-cookie-factory.json](./421421-sesame-street-cookie-monster-s-cookie-factory.json) |
 | Sesame Street: Cookie's Counting Carnival | 50709 | [50709-sesame-street-cookies-counting-carnival.json](./50709-sesame-street-cookies-counting-carnival.json) |
 | Sesame Street: Elmo and Abby Nature Explorers | 231465 | [231465-sesame-street-elmo-and-abby-nature-explorers.json](./231465-sesame-street-elmo-and-abby-nature-explorers.json) |
@@ -16183,6 +16184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soft Kitten Experience | 267533 | [267533-soft-kitten-experience.json](./267533-soft-kitten-experience.json) |
 | Soft Ruin | 415324 | [415324-soft-ruin.json](./415324-soft-ruin.json) |
 | Soft Serve | 252811 | [252811-soft-serve.json](./252811-soft-serve.json) |
+| Soft Underbelly | 176019 | [176019-soft-underbelly.json](./176019-soft-underbelly.json) |
 | Soft Wind | 169092 | [169092-soft-wind.json](./169092-soft-wind.json) |
 | Soft(A)ware | 370123 | [370123-soft-a-ware.json](./370123-soft-a-ware.json) |
 | SoftAid | 94480 | [94480-softaid.json](./94480-softaid.json) |
@@ -23918,6 +23920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stakes Winner 2 | 39625 | [39625-stakes-winner-2.json](./39625-stakes-winner-2.json) |
 | Stalag 1 | 306223 | [306223-stalag-1.json](./306223-stalag-1.json) |
 | Stalagflight | 108861 | [108861-stalagflight.json](./108861-stalagflight.json) |
+| StalakMiner | 176073 | [176073-stalakminer.json](./176073-stalakminer.json) |
 | Stalart | 399139 | [399139-stalart.json](./399139-stalart.json) |
 | Stalcraft | 321393 | [321393-stalcraft.json](./321393-stalcraft.json) |
 | Stalcraft: X - Operations | 325586 | [325586-stalcraft-x-operations.json](./325586-stalcraft-x-operations.json) |
@@ -34126,6 +34129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Earth Champion | 73257 | [73257-supreme-earth-champion.json](./73257-supreme-earth-champion.json) |
 | Supreme Experiment | 380454 | [380454-supreme-experiment.json](./380454-supreme-experiment.json) |
 | Supreme Fighters: Javan Havan the Drunken Fist | 293865 | [293865-supreme-fighters-javan-havan-the-drunken-fist.json](./293865-supreme-fighters-javan-havan-the-drunken-fist.json) |
+| Supreme God Revelations | 176030 | [176030-supreme-god-revelations.json](./176030-supreme-god-revelations.json) |
 | Supreme Heroes | 369687 | [369687-supreme-heroes.json](./369687-supreme-heroes.json) |
 | Supreme Kung Fu | 339474 | [339474-supreme-kung-fu.json](./339474-supreme-kung-fu.json) |
 | Supreme League of Patriots | 8970 | [8970-supreme-league-of-patriots.json](./8970-supreme-league-of-patriots.json) |
