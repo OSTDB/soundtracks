@@ -6401,6 +6401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chase | 85997 | [85997-chase.json](./85997-chase.json) |
 | Chase & Escape | 355215 | [355215-chase-and-escape.json](./355215-chase-and-escape.json) |
 | Chase 1929 | 39444 | [39444-chase-1929.json](./39444-chase-1929.json) |
+| Chase Ace 2 | 153610 | [153610-chase-ace-2.json](./153610-chase-ace-2.json) |
 | Chase Ace Sole Survivor | 281992 | [281992-chase-ace-sole-survivor.json](./281992-chase-ace-sole-survivor.json) |
 | Chase Bombers | 39490 | [39490-chase-bombers.json](./39490-chase-bombers.json) |
 | Chase Chase Jokers | 269298 | [269298-chase-chase-jokers.json](./269298-chase-chase-jokers.json) |
@@ -9801,6 +9802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clarent Saga: Chronicles | 189023 | [189023-clarent-saga-chronicles.json](./189023-clarent-saga-chronicles.json) |
 | Clarent Saga: Mana Chapter 0 | 264767 | [264767-clarent-saga-mana-chapter-0.json](./264767-clarent-saga-mana-chapter-0.json) |
 | Clarent Saga: Tactics | 135271 | [135271-clarent-saga-tactics.json](./135271-clarent-saga-tactics.json) |
+| Clarevoyance | 153589 | [153589-clarevoyance.json](./153589-clarevoyance.json) |
 | Clarice Clairvoyage | 210995 | [210995-clarice-clairvoyage.json](./210995-clarice-clairvoyage.json) |
 | Clarice: The Storyteller | 216597 | [216597-clarice-the-storyteller.json](./216597-clarice-the-storyteller.json) |
 | Clarisse | 56425 | [56425-clarisse.json](./56425-clarisse.json) |
