@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo! Walk the Line | 96324 | [96324-yo-walk-the-line.json](./96324-yo-walk-the-line.json) |
 | Yo' Bro | 42023 | [42023-yo-bro.json](./42023-yo-bro.json) |
 | Yoake Mae yori Ruri Iro na | 60801 | [60801-yoake-mae-yori-ruri-iro-na.json](./60801-yoake-mae-yori-ruri-iro-na.json) |
+| Yoake Mae yori Ruri-iro na: Brighter than Dawning Blue | 165844 | [165844-yoake-mae-yori-ruri-iro-na-brighter-than-dawning-blue.json](./165844-yoake-mae-yori-ruri-iro-na-brighter-than-dawning-blue.json) |
 | Yoake no Mariko | 65455 | [65455-yoake-no-mariko.json](./65455-yoake-no-mariko.json) |
 | Yoake no Mariko 2nd Act | 55858 | [55858-yoake-no-mariko-2nd-act.json](./55858-yoake-no-mariko-2nd-act.json) |
 | Yobarai Detective: Miasma Breaker | 324241 | [324241-yobarai-detective-miasma-breaker.json](./324241-yobarai-detective-miasma-breaker.json) |
