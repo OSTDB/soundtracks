@@ -2984,6 +2984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Hero. Story of Dartes | 310216 | [310216-path-of-hero-story-of-dartes.json](./310216-path-of-hero-story-of-dartes.json) |
 | Path of Idle: Old Gods Rising | 388087 | [388087-path-of-idle-old-gods-rising.json](./388087-path-of-idle-old-gods-rising.json) |
 | Path of Immortals | 194027 | [194027-path-of-immortals.json](./194027-path-of-immortals.json) |
+| Path of Insanity | 156796 | [156796-path-of-insanity.json](./156796-path-of-insanity.json) |
 | Path of Kung Fu | 266573 | [266573-path-of-kung-fu.json](./266573-path-of-kung-fu.json) |
 | Path of Legends | 368766 | [368766-path-of-legends.json](./368766-path-of-legends.json) |
 | Path of Light | 344839 | [344839-path-of-light.json](./344839-path-of-light.json) |
