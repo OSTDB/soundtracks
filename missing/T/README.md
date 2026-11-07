@@ -6706,6 +6706,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blue and the Grey | 47013 | [47013-the-blue-and-the-grey.json](./47013-the-blue-and-the-grey.json) |
 | The Blue Bedroom | 180847 | [180847-the-blue-bedroom.json](./180847-the-blue-bedroom.json) |
 | The Blue Box | 99686 | [99686-the-blue-box.json](./99686-the-blue-box.json) |
+| The Blue Box: BBA Slam | 169019 | [169019-the-blue-box-bba-slam.json](./169019-the-blue-box-bba-slam.json) |
+| The Blue Box: BurgerGame | 169015 | [169015-the-blue-box-burgergame.json](./169015-the-blue-box-burgergame.json) |
+| The Blue Box: DDAFPST Ostriches | 169017 | [169017-the-blue-box-ddafpst-ostriches.json](./169017-the-blue-box-ddafpst-ostriches.json) |
+| The Blue Box: Llama Goes to Market | 169018 | [169018-the-blue-box-llama-goes-to-market.json](./169018-the-blue-box-llama-goes-to-market.json) |
+| The Blue Box: Oligocene Snapshot | 169014 | [169014-the-blue-box-oligocene-snapshot.json](./169014-the-blue-box-oligocene-snapshot.json) |
+| The Blue Box: YWDH (You Will Die Here) | 169016 | [169016-the-blue-box-ywdh-you-will-die-here.json](./169016-the-blue-box-ywdh-you-will-die-here.json) |
 | The Blue Cat | 216513 | [216513-the-blue-cat.json](./216513-the-blue-cat.json) |
 | The Blue Chamber | 247540 | [247540-the-blue-chamber.json](./247540-the-blue-chamber.json) |
 | The Blue Contestant | 124530 | [124530-the-blue-contestant.json](./124530-the-blue-contestant.json) |
@@ -11131,6 +11137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Imperial Gatekeeper | 146764 | [146764-the-imperial-gatekeeper.json](./146764-the-imperial-gatekeeper.json) |
 | The Imperial Realm: Miranda | 27254 | [27254-the-imperial-realm-miranda.json](./27254-the-imperial-realm-miranda.json) |
 | The Implant | 289991 | [289991-the-implant.json](./289991-the-implant.json) |
+| The Importance of Choosing: Second Chance | 168984 | [168984-the-importance-of-choosing-second-chance.json](./168984-the-importance-of-choosing-second-chance.json) |
 | The Impossible | 174012 | [174012-the-impossible.json](./174012-the-impossible.json) |
 | The Impossible Bottle | 216323 | [216323-the-impossible-bottle.json](./216323-the-impossible-bottle.json) |
 | The Impossible Dungeon | 65376 | [65376-the-impossible-dungeon.json](./65376-the-impossible-dungeon.json) |
@@ -23141,6 +23148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Twist: Rekishi no Katasumi de... - Kouhen | 41360 | [41360-time-twist-rekishi-no-katasumi-de-kouhen.json](./41360-time-twist-rekishi-no-katasumi-de-kouhen.json) |
 | Time Twist: Rekishi no Katasumi de... - Zenpen | 41361 | [41361-time-twist-rekishi-no-katasumi-de-zenpen.json](./41361-time-twist-rekishi-no-katasumi-de-zenpen.json) |
 | Time Up | 68597 | [68597-time-up.json](./68597-time-up.json) |
+| Time Voyeur | 169027 | [169027-time-voyeur.json](./169027-time-voyeur.json) |
 | Time Walker: Dark World | 220520 | [220520-time-walker-dark-world.json](./220520-time-walker-dark-world.json) |
 | Time Warp | 116770 | [116770-time-warp.json](./116770-time-warp.json) |
 | Time Warp | 40597 | [40597-time-warp.json](./40597-time-warp.json) |
@@ -27136,6 +27144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Myraglen | 57381 | [57381-tower-of-myraglen.json](./57381-tower-of-myraglen.json) |
 | Tower of Mystery | 371140 | [371140-tower-of-mystery.json](./371140-tower-of-mystery.json) |
 | Tower of Nod | 313308 | [313308-tower-of-nod.json](./313308-tower-of-nod.json) |
+| Tower of Origin 2: Worm's Nest | 169021 | [169021-tower-of-origin-2-worms-nest.json](./169021-tower-of-origin-2-worms-nest.json) |
 | Tower of Osiris | 211621 | [211621-tower-of-osiris.json](./211621-tower-of-osiris.json) |
 | Tower of Pain | 228393 | [228393-tower-of-pain.json](./228393-tower-of-pain.json) |
 | Tower of Pandemonium | 253416 | [253416-tower-of-pandemonium.json](./253416-tower-of-pandemonium.json) |
@@ -28125,12 +28134,22 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World 2: West Somerset Railway Route Add-On | 156514 | [156514-train-sim-world-2-west-somerset-railway-route-add-on.json](./156514-train-sim-world-2-west-somerset-railway-route-add-on.json) |
 | Train Sim World 2020 | 136069 | [136069-train-sim-world-2020.json](./136069-train-sim-world-2020.json) |
 | Train Sim World 2020: Amtrak SW1000R Loco | 162255 | [162255-train-sim-world-2020-amtrak-sw1000r-loco.json](./162255-train-sim-world-2020-amtrak-sw1000r-loco.json) |
+| Train Sim World 2020: BR Class 20 'Chopper' Loco | 169004 | [169004-train-sim-world-2020-br-class-20-chopper-loco.json](./169004-train-sim-world-2020-br-class-20-chopper-loco.json) |
+| Train Sim World 2020: BR Class 31 Loco | 169012 | [169012-train-sim-world-2020-br-class-31-loco.json](./169012-train-sim-world-2020-br-class-31-loco.json) |
+| Train Sim World 2020: BR Class 33 Loco | 169009 | [169009-train-sim-world-2020-br-class-33-loco.json](./169009-train-sim-world-2020-br-class-33-loco.json) |
+| Train Sim World 2020: BR Class 52 'Western' Loco | 169008 | [169008-train-sim-world-2020-br-class-52-western-loco.json](./169008-train-sim-world-2020-br-class-52-western-loco.json) |
+| Train Sim World 2020: BR Heavy Freight Pack Loco | 169013 | [169013-train-sim-world-2020-br-heavy-freight-pack-loco.json](./169013-train-sim-world-2020-br-heavy-freight-pack-loco.json) |
 | Train Sim World 2020: Caltrain MP15DC Diesel Switcher Loco | 161736 | [161736-train-sim-world-2020-caltrain-mp15dc-diesel-switcher-loco.json](./161736-train-sim-world-2020-caltrain-mp15dc-diesel-switcher-loco.json) |
 | Train Sim World 2020: Caltrain MP36PH-3C ‘Baby Bullet’ Loco | 161733 | [161733-train-sim-world-2020-caltrain-mp36ph-3c-baby-bullet-loco.json](./161733-train-sim-world-2020-caltrain-mp36ph-3c-baby-bullet-loco.json) |
 | Train Sim World 2020: Canadian National Oakville Subdivision - Hamilton: Oakville Route | 156871 | [156871-train-sim-world-2020-canadian-national-oakville-subdivision-hamilton-oakville-route.json](./156871-train-sim-world-2020-canadian-national-oakville-subdivision-hamilton-oakville-route.json) |
 | Train Sim World 2020: Collector's Edition | 136070 | [136070-train-sim-world-2020-collectors-edition.json](./136070-train-sim-world-2020-collectors-edition.json) |
+| Train Sim World 2020: CSX GP40-2 Loco | 169007 | [169007-train-sim-world-2020-csx-gp40-2-loco.json](./169007-train-sim-world-2020-csx-gp40-2-loco.json) |
+| Train Sim World 2020: DB BR 155 Loco | 169011 | [169011-train-sim-world-2020-db-br-155-loco.json](./169011-train-sim-world-2020-db-br-155-loco.json) |
+| Train Sim World 2020: DB BR 182 Loco | 169006 | [169006-train-sim-world-2020-db-br-182-loco.json](./169006-train-sim-world-2020-db-br-182-loco.json) |
+| Train Sim World 2020: DB BR 204 Loco | 169010 | [169010-train-sim-world-2020-db-br-204-loco.json](./169010-train-sim-world-2020-db-br-204-loco.json) |
 | Train Sim World 2020: East Coastway - Brighton: Eastbourne & Seaford Route | 156873 | [156873-train-sim-world-2020-east-coastway-brighton-eastbourne-and-seaford-route.json](./156873-train-sim-world-2020-east-coastway-brighton-eastbourne-and-seaford-route.json) |
 | Train Sim World 2020: Hauptstrecke Rhein-Ruhr - Duisburg: Bochum Route | 156868 | [156868-train-sim-world-2020-hauptstrecke-rhein-ruhr-duisburg-bochum-route.json](./156868-train-sim-world-2020-hauptstrecke-rhein-ruhr-duisburg-bochum-route.json) |
+| Train Sim World 2020: LIRR M3 EMU Loco | 169005 | [169005-train-sim-world-2020-lirr-m3-emu-loco.json](./169005-train-sim-world-2020-lirr-m3-emu-loco.json) |
 | Train Sim World 2020: Long Island Rail Road - New York: Hicksville Route | 156862 | [156862-train-sim-world-2020-long-island-rail-road-new-york-hicksville-route.json](./156862-train-sim-world-2020-long-island-rail-road-new-york-hicksville-route.json) |
 | Train Sim World 2020: Main Spessart Bahn - Aschaffenburg: Gemünden Route | 156867 | [156867-train-sim-world-2020-main-spessart-bahn-aschaffenburg-gemunden-route.json](./156867-train-sim-world-2020-main-spessart-bahn-aschaffenburg-gemunden-route.json) |
 | Train Sim World 2020: Northeast Corridor New York | 156866 | [156866-train-sim-world-2020-northeast-corridor-new-york.json](./156866-train-sim-world-2020-northeast-corridor-new-york.json) |
