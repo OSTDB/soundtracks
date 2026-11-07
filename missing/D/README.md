@@ -2965,6 +2965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day R | 82855 | [82855-day-r.json](./82855-day-r.json) |
 | Day R Premium | 87200 | [87200-day-r-premium.json](./87200-day-r-premium.json) |
 | Day R Survival | 175678 | [175678-day-r-survival.json](./175678-day-r-survival.json) |
+| Day Repeat Day | 148626 | [148626-day-repeat-day.json](./148626-day-repeat-day.json) |
 | Day Seven | 125268 | [125268-day-seven.json](./125268-day-seven.json) |
 | Day Trader Tycoon | 386890 | [386890-day-trader-tycoon.json](./386890-day-trader-tycoon.json) |
 | Day Trading Simulator | 357195 | [357195-day-trading-simulator.json](./357195-day-trading-simulator.json) |
@@ -5579,6 +5580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeepOne | 242521 | [242521-deepone.json](./242521-deepone.json) |
 | Deepophobia | 275417 | [275417-deepophobia.json](./275417-deepophobia.json) |
 | Deeprealm Odyssey: Adventure game | 208917 | [208917-deeprealm-odyssey-adventure-game.json](./208917-deeprealm-odyssey-adventure-game.json) |
+| DeepSea | 148623 | [148623-deepsea.json](./148623-deepsea.json) |
 | Deepsea Salvor | 128375 | [128375-deepsea-salvor.json](./128375-deepsea-salvor.json) |
 | DeepSea Serenity: VR Underwater Trip | 288786 | [288786-deepsea-serenity-vr-underwater-trip.json](./288786-deepsea-serenity-vr-underwater-trip.json) |
 | Deepspace | 278007 | [278007-deepspace.json](./278007-deepspace.json) |
@@ -6498,6 +6500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Driver: Time to Burn Rubber | 49274 | [49274-demon-driver-time-to-burn-rubber.json](./49274-demon-driver-time-to-burn-rubber.json) |
 | Demon Dust | 327819 | [327819-demon-dust.json](./327819-demon-dust.json) |
 | Demon Eclipse | 141138 | [141138-demon-eclipse.json](./141138-demon-eclipse.json) |
+| Demon Engines | 148728 | [148728-demon-engines.json](./148728-demon-engines.json) |
 | Demon Escape: Shadow Realm | 119946 | [119946-demon-escape-shadow-realm.json](./119946-demon-escape-shadow-realm.json) |
 | Demon Eye | 391666 | [391666-demon-eye.json](./391666-demon-eye.json) |
 | Demon Gate: Crown Defense | 114412 | [114412-demon-gate-crown-defense.json](./114412-demon-gate-crown-defense.json) |
@@ -9817,6 +9820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinos | 311257 | [311257-dinos.json](./311257-dinos.json) |
 | Dinos In Space | 135463 | [135463-dinos-in-space.json](./135463-dinos-in-space.json) |
 | Dinos Jump | 96754 | [96754-dinos-jump.json](./96754-dinos-jump.json) |
+| Dinos Reborn | 148634 | [148634-dinos-reborn.json](./148634-dinos-reborn.json) |
 | Dinos vs. Robots | 287924 | [287924-dinos-vs-robots.json](./287924-dinos-vs-robots.json) |
 | Dinosaur | 139327 | [139327-dinosaur.json](./139327-dinosaur.json) |
 | Dinosaur | 139988 | [139988-dinosaur.json](./139988-dinosaur.json) |
