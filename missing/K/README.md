@@ -2620,6 +2620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Killed by Love 99 Times | 368015 | [368015-killed-by-love-99-times.json](./368015-killed-by-love-99-times.json) |
 | Killed Until Dead | 12358 | [12358-killed-until-dead.json](./12358-killed-until-dead.json) |
 | Killego | 384097 | [384097-killego.json](./384097-killego.json) |
+| Killer | 173932 | [173932-killer.json](./173932-killer.json) |
 | Killer | 195331 | [195331-killer.json](./195331-killer.json) |
 | Killer 19 | 147023 | [147023-killer-19.json](./147023-killer-19.json) |
 | Killer 3D Pool | 49187 | [49187-killer-3d-pool.json](./49187-killer-3d-pool.json) |
