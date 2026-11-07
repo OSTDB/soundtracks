@@ -1738,6 +1738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veteran | 65004 | [65004-veteran.json](./65004-veteran.json) |
 | Veteran Combat | 35710 | [35710-veteran-combat.json](./35710-veteran-combat.json) |
 | Veterans: Napoleonic Wars | 390282 | [390282-veterans-napoleonic-wars.json](./390282-veterans-napoleonic-wars.json) |
+| Veterinary Clinic Simulator | 171721 | [171721-veterinary-clinic-simulator.json](./171721-veterinary-clinic-simulator.json) |
 | Veterum | 211815 | [211815-veterum.json](./211815-veterum.json) |
 | Vetica | 94192 | [94192-vetica.json](./94192-vetica.json) |
 | Vetitum_VRC | 319868 | [319868-vetitum-vrc.json](./319868-vetitum-vrc.json) |
