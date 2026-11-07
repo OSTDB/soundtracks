@@ -7694,6 +7694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exmortis | 196724 | [196724-exmortis.json](./196724-exmortis.json) |
 | Exmortis 2 | 242164 | [242164-exmortis-2.json](./242164-exmortis-2.json) |
 | Exmortis 3 | 242163 | [242163-exmortis-3.json](./242163-exmortis-3.json) |
+| Exo | 185737 | [185737-exo.json](./185737-exo.json) |
 | Exo | 398008 | [398008-exo.json](./398008-exo.json) |
 | Exo Digger | 407813 | [407813-exo-digger.json](./407813-exo-digger.json) |
 | EXO Encounter 667 | 179188 | [179188-exo-encounter-667.json](./179188-exo-encounter-667.json) |
