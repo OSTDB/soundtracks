@@ -3207,6 +3207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pattaya | 233365 | [233365-pattaya.json](./233365-pattaya.json) |
 | Pattaya Bar Simulator | 402118 | [402118-pattaya-bar-simulator.json](./402118-pattaya-bar-simulator.json) |
 | Patter | 310696 | [310696-patter.json](./310696-patter.json) |
+| Patter Warrior | 157822 | [157822-patter-warrior.json](./157822-patter-warrior.json) |
 | Pattern | 112449 | [112449-pattern.json](./112449-pattern.json) |
 | Pattern Pulse | 415233 | [415233-pattern-pulse.json](./415233-pattern-pulse.json) |
 | Pattern Shapes and Colors | 103073 | [103073-pattern-shapes-and-colors.json](./103073-pattern-shapes-and-colors.json) |
