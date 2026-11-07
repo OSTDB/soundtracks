@@ -3673,6 +3673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peachy Derby: Saori - Grey Investigator | 333745 | [333745-peachy-derby-saori-grey-investigator.json](./333745-peachy-derby-saori-grey-investigator.json) |
 | Peachy Derby: Yuko - Black Investigator | 333744 | [333744-peachy-derby-yuko-black-investigator.json](./333744-peachy-derby-yuko-black-investigator.json) |
 | Peadle X Oligator | 417661 | [417661-peadle-x-oligator.json](./417661-peadle-x-oligator.json) |
+| Peak | 184150 | [184150-peak.json](./184150-peak.json) |
 | Peak | 349524 | [349524-peak.json](./349524-peak.json) |
 | Peak | 360757 | [360757-peak.json](./360757-peak.json) |
 | Peak Angle: Drift Online | 30815 | [30815-peak-angle-drift-online.json](./30815-peak-angle-drift-online.json) |
@@ -3707,6 +3708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pear Potion | 142726 | [142726-pear-potion.json](./142726-pear-potion.json) |
 | Pear Quest | 129562 | [129562-pear-quest.json](./129562-pear-quest.json) |
 | Pearl Fishery: Quest for the Mega Pearl | 296372 | [296372-pearl-fishery-quest-for-the-mega-pearl.json](./296372-pearl-fishery-quest-for-the-mega-pearl.json) |
+| Pearl Grabber | 184029 | [184029-pearl-grabber.json](./184029-pearl-grabber.json) |
 | Pearl Harbor Attack! Attack! | 71730 | [71730-pearl-harbor-attack-attack.json](./71730-pearl-harbor-attack-attack.json) |
 | Pearl Harbor Trilogy: 1941 - Red Sun Rising | 66506 | [66506-pearl-harbor-trilogy-1941-red-sun-rising.json](./66506-pearl-harbor-trilogy-1941-red-sun-rising.json) |
 | Pearl Harbor: Defend the Fleet | 69574 | [69574-pearl-harbor-defend-the-fleet.json](./69574-pearl-harbor-defend-the-fleet.json) |
@@ -4279,6 +4281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peppered | 129445 | [129445-peppered.json](./129445-peppered.json) |
 | Peppered: An Existential Platformer | 170018 | [170018-peppered-an-existential-platformer.json](./170018-peppered-an-existential-platformer.json) |
 | Peppermint Falls | 290527 | [290527-peppermint-falls.json](./290527-peppermint-falls.json) |
+| PepperTown | 184146 | [184146-peppertown.json](./184146-peppertown.json) |
 | Peppy | 93575 | [93575-peppy.json](./93575-peppy.json) |
 | Peppy Elephant | 100696 | [100696-peppy-elephant.json](./100696-peppy-elephant.json) |
 | Peppy Mario | 228887 | [228887-peppy-mario.json](./228887-peppy-mario.json) |
@@ -5502,6 +5505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phases | 398280 | [398280-phases.json](./398280-phases.json) |
 | Phaseshift | 175621 | [175621-phaseshift.json](./175621-phaseshift.json) |
 | PhaseWorm | 132477 | [132477-phaseworm.json](./132477-phaseworm.json) |
+| Phasing | 184136 | [184136-phasing.json](./184136-phasing.json) |
 | Phasmonauts | 310730 | [310730-phasmonauts.json](./310730-phasmonauts.json) |
 | Phasmophobia: Ascension | 268059 | [268059-phasmophobia-ascension.json](./268059-phasmophobia-ascension.json) |
 | Phasmos | 419122 | [419122-phasmos.json](./419122-phasmos.json) |
@@ -10142,6 +10146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plug for Terraria | 87343 | [87343-plug-for-terraria.json](./87343-plug-for-terraria.json) |
 | Plug It In | 288232 | [288232-plug-it-in.json](./288232-plug-it-in.json) |
 | Plug Priority | 386894 | [386894-plug-priority.json](./386894-plug-priority.json) |
+| Plug the Man | 184148 | [184148-plug-the-man.json](./184148-plug-the-man.json) |
 | Plug Wars: The Game | 148476 | [148476-plug-wars-the-game.json](./148476-plug-wars-the-game.json) |
 | Plug-in PET | 352783 | [352783-plug-in-pet.json](./352783-plug-in-pet.json) |
 | Plugged | 148777 | [148777-plugged.json](./148777-plugged.json) |
@@ -12395,6 +12400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pongémon | 285035 | [285035-pongemon.json](./285035-pongemon.json) |
 | Pongeon | 184641 | [184641-pongeon.json](./184641-pongeon.json) |
 | Pongerground | 379132 | [379132-pongerground.json](./379132-pongerground.json) |
+| PongIdle | 184138 | [184138-pongidle.json](./184138-pongidle.json) |
 | Pongis | 98223 | [98223-pongis.json](./98223-pongis.json) |
 | Pongis 2 | 416654 | [416654-pongis-2.json](./416654-pongis-2.json) |
 | Pongis Golf | 143258 | [143258-pongis-golf.json](./143258-pongis-golf.json) |
@@ -14176,6 +14182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pretend Dead Friend | 271308 | [271308-pretend-dead-friend.json](./271308-pretend-dead-friend.json) |
 | Pretend it's not There | 324689 | [324689-pretend-its-not-there.json](./324689-pretend-its-not-there.json) |
 | Pretend You're Xyzzy | 306207 | [306207-pretend-youre-xyzzy.json](./306207-pretend-youre-xyzzy.json) |
+| Pretender to the Crown | 184151 | [184151-pretender-to-the-crown.json](./184151-pretender-to-the-crown.json) |
 | Pretentious Game | 10719 | [10719-pretentious-game.json](./10719-pretentious-game.json) |
 | Preternatural Candy Shop | 179417 | [179417-preternatural-candy-shop.json](./179417-preternatural-candy-shop.json) |
 | Pretinders | 184705 | [184705-pretinders.json](./184705-pretinders.json) |
@@ -15909,6 +15916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Green | 286050 | [286050-project-green.json](./286050-project-green.json) |
 | Project Green | 313340 | [313340-project-green.json](./313340-project-green.json) |
 | Project Green Beat | 36017 | [36017-project-green-beat.json](./36017-project-green-beat.json) |
+| Project Green Tea Latte | 184027 | [184027-project-green-tea-latte.json](./184027-project-green-tea-latte.json) |
 | Project Guard | 84805 | [84805-project-guard.json](./84805-project-guard.json) |
 | Project GunGame | 101903 | [101903-project-gungame.json](./101903-project-gungame.json) |
 | Project Gunship | 202549 | [202549-project-gunship.json](./202549-project-gunship.json) |
