@@ -1228,6 +1228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Chick | 131827 | [131827-last-chick.json](./131827-last-chick.json) |
 | Last Chickenburg | 121447 | [121447-last-chickenburg.json](./121447-last-chickenburg.json) |
 | Last Christmas | 220542 | [220542-last-christmas.json](./220542-last-christmas.json) |
+| Last Colony | 177633 | [177633-last-colony.json](./177633-last-colony.json) |
 | Last Colossus | 198014 | [198014-last-colossus.json](./198014-last-colossus.json) |
 | Last Command | 148673 | [148673-last-command.json](./148673-last-command.json) |
 | Last Command: B-Side | 376749 | [376749-last-command-b-side.json](./376749-last-command-b-side.json) |
@@ -2974,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leggite Luta Livre | 198482 | [198482-leggite-luta-livre.json](./198482-leggite-luta-livre.json) |
 | Legie | 81407 | [81407-legie.json](./81407-legie.json) |
 | Legio | 91523 | [91523-legio.json](./91523-legio.json) |
+| Legion | 177636 | [177636-legion.json](./177636-legion.json) |
 | Legion | 18839 | [18839-legion.json](./18839-legion.json) |
 | Legion | 319203 | [319203-legion.json](./319203-legion.json) |
 | Legion | 348510 | [348510-legion.json](./348510-legion.json) |
@@ -6842,6 +6844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loco Loco | 58326 | [58326-loco-loco.json](./58326-loco-loco.json) |
 | Loco Looper | 207999 | [207999-loco-looper.json](./207999-loco-looper.json) |
 | Loco Mania | 61477 | [61477-loco-mania.json](./61477-loco-mania.json) |
+| Loco Motion | 177669 | [177669-loco-motion.json](./177669-loco-motion.json) |
 | LOCO Online | 361771 | [361771-loco-online.json](./361771-loco-online.json) |
 | Loco Parentis | 117810 | [117810-loco-parentis.json](./117810-loco-parentis.json) |
 | Loco Railroad | 123361 | [123361-loco-railroad.json](./123361-loco-railroad.json) |
