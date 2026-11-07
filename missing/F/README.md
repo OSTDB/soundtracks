@@ -3746,6 +3746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed: Fish and Grow | 193856 | [193856-feed-fish-and-grow.json](./193856-feed-fish-and-grow.json) |
 | Feed’em Burger | 248276 | [248276-feed-em-burger.json](./248276-feed-em-burger.json) |
 | FeedBack | 381012 | [381012-feedback.json](./381012-feedback.json) |
+| Feeder | 183692 | [183692-feeder.json](./183692-feeder.json) |
 | Feeding Frenzy 2: Shipwreck Showdown | 8321 | [8321-feeding-frenzy-2-shipwreck-showdown.json](./8321-feeding-frenzy-2-shipwreck-showdown.json) |
 | Feeding Kimunakji 2 | 122924 | [122924-feeding-kimunakji-2.json](./122924-feeding-kimunakji-2.json) |
 | Feeding My Ducks | 390995 | [390995-feeding-my-ducks.json](./390995-feeding-my-ducks.json) |
@@ -10836,6 +10837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fotress S | 245985 | [245985-fotress-s.json](./245985-fotress-s.json) |
 | Foturians: Myth and Reality | 399697 | [399697-foturians-myth-and-reality.json](./399697-foturians-myth-and-reality.json) |
 | Foul | 302898 | [302898-foul.json](./302898-foul.json) |
+| Foul Airs | 183673 | [183673-foul-airs.json](./183673-foul-airs.json) |
 | Foul Play | 160072 | [160072-foul-play.json](./160072-foul-play.json) |
 | Foul Play | 5895 | [5895-foul-play.json](./5895-foul-play.json) |
 | Foul Play - Mystery at Awkward Manor | 127783 | [127783-foul-play-mystery-at-awkward-manor.json](./127783-foul-play-mystery-at-awkward-manor.json) |
@@ -10985,6 +10987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox Girls Never Play Dirty | 150366 | [150366-fox-girls-never-play-dirty.json](./150366-fox-girls-never-play-dirty.json) |
 | Fox Goes Hunting | 172929 | [172929-fox-goes-hunting.json](./172929-fox-goes-hunting.json) |
 | Fox Golf | 289720 | [289720-fox-golf.json](./289720-fox-golf.json) |
+| Fox has two lives | 183666 | [183666-fox-has-two-lives.json](./183666-fox-has-two-lives.json) |
 | Fox Hime | 90144 | [90144-fox-hime.json](./90144-fox-hime.json) |
 | Fox Hime Zero | 102325 | [102325-fox-hime-zero.json](./102325-fox-hime-zero.json) |
 | Fox Hunt | 44984 | [44984-fox-hunt.json](./44984-fox-hunt.json) |
