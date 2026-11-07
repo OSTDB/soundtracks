@@ -936,6 +936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PalaDog HD | 235148 | [235148-paladog-hd.json](./235148-paladog-hd.json) |
 | Paladog! | 198003 | [198003-paladog.json](./198003-paladog.json) |
 | Palais de Reine | 130397 | [130397-palais-de-reine.json](./130397-palais-de-reine.json) |
+| Palallel | 161460 | [161460-palallel.json](./161460-palallel.json) |
 | Palamedes | 40563 | [40563-palamedes.json](./40563-palamedes.json) |
 | Palamedes II: Star Twinkles | 48808 | [48808-palamedes-ii-star-twinkles.json](./48808-palamedes-ii-star-twinkles.json) |
 | Palavras Cruzadas: O Globo | 252063 | [252063-palavras-cruzadas-o-globo.json](./252063-palavras-cruzadas-o-globo.json) |
@@ -15796,6 +15797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Beksinski | 251137 | [251137-project-beksinski.json](./251137-project-beksinski.json) |
 | Project Below | 248843 | [248843-project-below.json](./248843-project-below.json) |
 | Project Bengal | 341555 | [341555-project-bengal.json](./341555-project-bengal.json) |
+| Project BioRisk | 161487 | [161487-project-biorisk.json](./161487-project-biorisk.json) |
 | Project Black Sun | 54280 | [54280-project-black-sun.json](./54280-project-black-sun.json) |
 | Project Blari | 150948 | [150948-project-blari.json](./150948-project-blari.json) |
 | Project Blind | 297193 | [297193-project-blind.json](./297193-project-blind.json) |
@@ -17668,6 +17670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punishment Special Edition | 341434 | [341434-punishment-special-edition.json](./341434-punishment-special-edition.json) |
 | PuniTy | 26508 | [26508-punity.json](./26508-punity.json) |
 | Punji VR | 192962 | [192962-punji-vr.json](./192962-punji-vr.json) |
+| Punk A.F. | 161467 | [161467-punk-a-f.json](./161467-punk-a-f.json) |
 | Punk Girl | 363660 | [363660-punk-girl.json](./363660-punk-girl.json) |
 | Punk Juice | 285892 | [285892-punk-juice.json](./285892-punk-juice.json) |
 | Punk Plush Panic | 395157 | [395157-punk-plush-panic.json](./395157-punk-plush-panic.json) |
