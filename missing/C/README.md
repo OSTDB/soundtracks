@@ -91,6 +91,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C64 Direct-to-TV | 281683 | [281683-c64-direct-to-tv.json](./281683-c64-direct-to-tv.json) |
 | C64 Quiz | 134400 | [134400-c64-quiz.json](./134400-c64-quiz.json) |
 | C64anabalt | 41017 | [41017-c64anabalt.json](./41017-c64anabalt.json) |
+| C7010 Video Chess Module | 165256 | [165256-c7010-video-chess-module.json](./165256-c7010-video-chess-module.json) |
 | C99 Games | 421188 | [421188-c99-games.json](./421188-c99-games.json) |
 | Cá Trê | 320632 | [320632-ca-tre.json](./320632-ca-tre.json) |
 | Caaahr! | 405654 | [405654-caaahr.json](./405654-caaahr.json) |
@@ -6614,6 +6615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chees | 390362 | [390362-chees.json](./390362-chees.json) |
 | Cheese Banquet Advanced | 294695 | [294695-cheese-banquet-advanced.json](./294695-cheese-banquet-advanced.json) |
 | Cheese Bit | 412971 | [412971-cheese-bit.json](./412971-cheese-bit.json) |
+| Cheese Board | 165249 | [165249-cheese-board.json](./165249-cheese-board.json) |
 | Cheese Cat-Astrophe starring Speedy Gonzales | 4460 | [4460-cheese-cat-astrophe-starring-speedy-gonzales.json](./4460-cheese-cat-astrophe-starring-speedy-gonzales.json) |
 | Cheese Co-op Clicker Simulator | 312453 | [312453-cheese-co-op-clicker-simulator.json](./312453-cheese-co-op-clicker-simulator.json) |
 | Cheese Collector | 309394 | [309394-cheese-collector.json](./309394-cheese-collector.json) |
@@ -11485,6 +11487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CodeStrike | 368500 | [368500-codestrike.json](./368500-codestrike.json) |
 | CodeWalkers | 158363 | [158363-codewalkers.json](./158363-codewalkers.json) |
 | CodeWordPlay | 228096 | [228096-codewordplay.json](./228096-codewordplay.json) |
+| Codex | 165224 | [165224-codex.json](./165224-codex.json) |
 | Codex | 184542 | [184542-codex.json](./184542-codex.json) |
 | CodeX | 276671 | [276671-codex.json](./276671-codex.json) |
 | Codex Arcana: Grimoire of Monsters | 386832 | [386832-codex-arcana-grimoire-of-monsters.json](./386832-codex-arcana-grimoire-of-monsters.json) |
@@ -17872,6 +17875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Croakspire | 361224 | [361224-croakspire.json](./361224-croakspire.json) |
 | Croakwood | 305069 | [305069-croakwood.json](./305069-croakwood.json) |
 | Croc | 143008 | [143008-croc.json](./143008-croc.json) |
+| Croc 2 | 165236 | [165236-croc-2.json](./165236-croc-2.json) |
 | Croc 2 | 7902 | [7902-croc-2.json](./7902-croc-2.json) |
 | Croc 2: Kingdom of the Gobbos | 411706 | [411706-croc-2-kingdom-of-the-gobbos.json](./411706-croc-2-kingdom-of-the-gobbos.json) |
 | Croc Cannon | 317435 | [317435-croc-cannon.json](./317435-croc-cannon.json) |
@@ -20155,6 +20159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursedville | 306277 | [306277-cursedville.json](./306277-cursedville.json) |
 | Cursery: The Crooked Man and the Crooked Cat | 139772 | [139772-cursery-the-crooked-man-and-the-crooked-cat.json](./139772-cursery-the-crooked-man-and-the-crooked-cat.json) |
 | Cursery: The Crooked Man and the Crooked Cat - Collector's Edition | 28676 | [28676-cursery-the-crooked-man-and-the-crooked-cat-collectors-edition.json](./28676-cursery-the-crooked-man-and-the-crooked-cat-collectors-edition.json) |
+| Curses | 165279 | [165279-curses.json](./165279-curses.json) |
 | Curses | 346510 | [346510-curses.json](./346510-curses.json) |
 | Curses | 92940 | [92940-curses.json](./92940-curses.json) |
 | Curses 'N Chaos | 16470 | [16470-curses-n-chaos.json](./16470-curses-n-chaos.json) |
