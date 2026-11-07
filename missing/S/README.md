@@ -1121,6 +1121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvation of the soul | 224686 | [224686-salvation-of-the-soul.json](./224686-salvation-of-the-soul.json) |
 | Salvation Plan: Spirit Evil | 284336 | [284336-salvation-plan-spirit-evil.json](./284336-salvation-plan-spirit-evil.json) |
 | Salvation: Echoes of War | 407766 | [407766-salvation-echoes-of-war.json](./407766-salvation-echoes-of-war.json) |
+| Salvation: Shadows of the Faceless | 190309 | [190309-salvation-shadows-of-the-faceless.json](./190309-salvation-shadows-of-the-faceless.json) |
 | Salvationland | 189805 | [189805-salvationland.json](./189805-salvationland.json) |
 | Salvator | 86530 | [86530-salvator.json](./86530-salvator.json) |
 | Salvatorem | 298714 | [298714-salvatorem.json](./298714-salvatorem.json) |
@@ -14064,6 +14065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sludge & Sorcery | 183005 | [183005-sludge-and-sorcery.json](./183005-sludge-and-sorcery.json) |
 | Sludge Department | 406197 | [406197-sludge-department.json](./406197-sludge-department.json) |
 | Sludge Factory | 271782 | [271782-sludge-factory.json](./271782-sludge-factory.json) |
+| Sludge Fighters | 190288 | [190288-sludge-fighters.json](./190288-sludge-fighters.json) |
 | Sludge Life | 131705 | [131705-sludge-life.json](./131705-sludge-life.json) |
 | Sludge Life: The Big Mud Sessions | 254974 | [254974-sludge-life-the-big-mud-sessions.json](./254974-sludge-life-the-big-mud-sessions.json) |
 | Sludge Plunge | 308311 | [308311-sludge-plunge.json](./308311-sludge-plunge.json) |
@@ -20412,6 +20414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacecraft | 204652 | [204652-spacecraft.json](./204652-spacecraft.json) |
 | Spacecraft | 55389 | [55389-spacecraft.json](./55389-spacecraft.json) |
 | SpaceCraft | 324574 | [324574-spacecraft.json](./324574-spacecraft.json) |
+| SpaceCraft Brawl | 190295 | [190295-spacecraft-brawl.json](./190295-spacecraft-brawl.json) |
 | Spacecraft Tactics | 274038 | [274038-spacecraft-tactics.json](./274038-spacecraft-tactics.json) |
 | Spacecraft War | 109879 | [109879-spacecraft-war.json](./109879-spacecraft-war.json) |
 | SpaceCrash | 171438 | [171438-spacecrash.json](./171438-spacecrash.json) |
