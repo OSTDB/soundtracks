@@ -16480,6 +16480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Zeta | 333777 | [333777-project-zeta.json](./333777-project-zeta.json) |
 | Project ZipZap | 341443 | [341443-project-zipzap.json](./341443-project-zipzap.json) |
 | Project Zircon | 416136 | [416136-project-zircon.json](./416136-project-zircon.json) |
+| Project ZM | 153581 | [153581-project-zm.json](./153581-project-zm.json) |
 | Project Zombie | 345672 | [345672-project-zombie.json](./345672-project-zombie.json) |
 | Project Zomboid | 3189 | [3189-project-zomboid.json](./3189-project-zomboid.json) |
 | Project_03 | 264197 | [264197-project-03.json](./264197-project-03.json) |
@@ -18837,6 +18838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzlemazed | 303663 | [303663-puzzlemazed.json](./303663-puzzlemazed.json) |
 | Puzzlement | 81935 | [81935-puzzlement.json](./81935-puzzlement.json) |
 | PuzzlePet: Feed Your Cat | 163561 | [163561-puzzlepet-feed-your-cat.json](./163561-puzzlepet-feed-your-cat.json) |
+| PuzzlePolygons | 153605 | [153605-puzzlepolygons.json](./153605-puzzlepolygons.json) |
 | Puzzlepops! Plus | 244171 | [244171-puzzlepops-plus.json](./244171-puzzlepops-plus.json) |
 | Puzzler | 104252 | [104252-puzzler.json](./104252-puzzler.json) |
 | Puzzler - Arrowwords , Crosswords & Wordsearch Volume One | 25451 | [25451-puzzler-arrowwords-crosswords-and-wordsearch-volume-one.json](./25451-puzzler-arrowwords-crosswords-and-wordsearch-volume-one.json) |
