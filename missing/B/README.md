@@ -972,7 +972,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1693,6 +1692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon | 84094 | [84094-balloon.json](./84094-balloon.json) |
 | Balloon Azuna | 167589 | [167589-balloon-azuna.json](./167589-balloon-azuna.json) |
 | Balloon Bash | 413495 | [413495-balloon-bash.json](./413495-balloon-bash.json) |
+| Balloon Blast | 139571 | [139571-balloon-blast.json](./139571-balloon-blast.json) |
 | Balloon Blast | 339612 | [339612-balloon-blast.json](./339612-balloon-blast.json) |
 | Balloon Blowout | 30742 | [30742-balloon-blowout.json](./30742-balloon-blowout.json) |
 | Balloon Bomber | 39294 | [39294-balloon-bomber.json](./39294-balloon-bomber.json) |
@@ -11940,6 +11940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blues Brothers 2023 | 281314 | [281314-blues-brothers-2023.json](./281314-blues-brothers-2023.json) |
 | Blues Brothers 2025 | 375502 | [375502-blues-brothers-2025.json](./375502-blues-brothers-2025.json) |
 | Blues Brothers S | 330865 | [330865-blues-brothers-s.json](./330865-blues-brothers-s.json) |
+| Blues for Mittavinda | 139540 | [139540-blues-for-mittavinda.json](./139540-blues-for-mittavinda.json) |
 | Blues of War | 322437 | [322437-blues-of-war.json](./322437-blues-of-war.json) |
 | Blueshift | 30267 | [30267-blueshift.json](./30267-blueshift.json) |
 | BlueSkies | 250907 | [250907-blueskies.json](./250907-blueskies.json) |
