@@ -9560,6 +9560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plasma Attack | 158650 | [158650-plasma-attack.json](./158650-plasma-attack.json) |
 | Plasma Ball | 294223 | [294223-plasma-ball.json](./294223-plasma-ball.json) |
 | Plasma Drone | 243512 | [243512-plasma-drone.json](./243512-plasma-drone.json) |
+| Plasma Fist | 191945 | [191945-plasma-fist.json](./191945-plasma-fist.json) |
 | Plasma Orb | 293880 | [293880-plasma-orb.json](./293880-plasma-orb.json) |
 | Plasma Sky | 61137 | [61137-plasma-sky.json](./61137-plasma-sky.json) |
 | Plasma Spheres | 69162 | [69162-plasma-spheres.json](./69162-plasma-spheres.json) |
@@ -10714,6 +10715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poison Selection | 394551 | [394551-poison-selection.json](./394551-poison-selection.json) |
 | Poisoner | 110532 | [110532-poisoner.json](./110532-poisoner.json) |
 | Poisonous Abyss | 324271 | [324271-poisonous-abyss.json](./324271-poisonous-abyss.json) |
+| Poizoned Mind | 191949 | [191949-poizoned-mind.json](./191949-poizoned-mind.json) |
 | Pojangmacha: Korean Street Food Management Simulator | 398115 | [398115-pojangmacha-korean-street-food-management-simulator.json](./398115-pojangmacha-korean-street-food-management-simulator.json) |
 | Pòjìng Kǒngjù | 160187 | [160187-pojing-kongju.json](./160187-pojing-kongju.json) |
 | Pok The Little Artiste | 279557 | [279557-pok-the-little-artiste.json](./279557-pok-the-little-artiste.json) |
@@ -11159,6 +11161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Existence | 314730 | [314730-pokemon-existence.json](./314730-pokemon-existence.json) |
 | Pokémon Factory Adventure | 231683 | [231683-pokemon-factory-adventure.json](./231683-pokemon-factory-adventure.json) |
 | Pokémon Fairies | 272077 | [272077-pokemon-fairies.json](./272077-pokemon-fairies.json) |
+| Pokémon Fat Kid | 191987 | [191987-pokemon-fat-kid.json](./191987-pokemon-fat-kid.json) |
 | Pokémon Feuergrün Edition | 205126 | [205126-pokemon-feuergrun-edition.json](./205126-pokemon-feuergrun-edition.json) |
 | Pokemon Find The Alphabets | 324527 | [324527-pokemon-find-the-alphabets.json](./324527-pokemon-find-the-alphabets.json) |
 | Pokémon Fire Ash | 135871 | [135871-pokemon-fire-ash.json](./135871-pokemon-fire-ash.json) |
