@@ -1071,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiet Thoughts | 157488 | [157488-quiet-thoughts.json](./157488-quiet-thoughts.json) |
 | Quiet Town | 220478 | [220478-quiet-town.json](./220478-quiet-town.json) |
 | Quiet us | 184606 | [184606-quiet-us.json](./184606-quiet-us.json) |
+| Quiet Valley | 149105 | [149105-quiet-valley.json](./149105-quiet-valley.json) |
 | Quiet Valley 2 | 154409 | [154409-quiet-valley-2.json](./154409-quiet-valley-2.json) |
 | Quiet, Please! | 61294 | [61294-quiet-please.json](./61294-quiet-please.json) |
 | Quietcar | 179460 | [179460-quietcar.json](./179460-quietcar.json) |
