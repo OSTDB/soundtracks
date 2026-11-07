@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Corgi | 236434 | [236434-magic-corgi.json](./236434-magic-corgi.json) |
 | Magic Craft: The Hero of Fantasy Kingdom | 175227 | [175227-magic-craft-the-hero-of-fantasy-kingdom.json](./175227-magic-craft-the-hero-of-fantasy-kingdom.json) |
 | Magic Crayon | 57649 | [57649-magic-crayon.json](./57649-magic-crayon.json) |
+| Magic Crayons | 176056 | [176056-magic-crayons.json](./176056-magic-crayons.json) |
 | Magic Crystals | 192810 | [192810-magic-crystals.json](./192810-magic-crystals.json) |
 | Magic Cube | 48622 | [48622-magic-cube.json](./48622-magic-cube.json) |
 | Magic Cube in Strange World! | 306367 | [306367-magic-cube-in-strange-world.json](./306367-magic-cube-in-strange-world.json) |
@@ -8437,6 +8438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meian | 97673 | [97673-meian.json](./97673-meian.json) |
 | MeiaUm: Escaping the Pix | 329373 | [329373-meiaum-escaping-the-pix.json](./329373-meiaum-escaping-the-pix.json) |
 | MeiErWo Plan | 385987 | [385987-meierwo-plan.json](./385987-meierwo-plan.json) |
+| Meifumado | 176026 | [176026-meifumado.json](./176026-meifumado.json) |
 | Meiga to Tanoshimu Otona no Machigai Sagashi | 222476 | [222476-meiga-to-tanoshimu-otona-no-machigai-sagashi.json](./222476-meiga-to-tanoshimu-otona-no-machigai-sagashi.json) |
 | Meiji Ishin | 48781 | [48781-meiji-ishin.json](./48781-meiji-ishin.json) |
 | Meiji Katsugeki Haikara Ryuuseigumi: Seibai Shimaseu, Yonaoshi Kagyou | 136827 | [136827-meiji-katsugeki-haikara-ryuuseigumi-seibai-shimaseu-yonaoshi-kagyou.json](./136827-meiji-katsugeki-haikara-ryuuseigumi-seibai-shimaseu-yonaoshi-kagyou.json) |
@@ -15549,6 +15551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monopoly | 131463 | [131463-monopoly.json](./131463-monopoly.json) |
 | Monopoly | 131548 | [131548-monopoly.json](./131548-monopoly.json) |
 | Monopoly | 171236 | [171236-monopoly.json](./171236-monopoly.json) |
+| Monopoly | 176024 | [176024-monopoly.json](./176024-monopoly.json) |
 | Monopoly | 186723 | [186723-monopoly.json](./186723-monopoly.json) |
 | Monopoly | 199430 | [199430-monopoly.json](./199430-monopoly.json) |
 | Monopoly | 228550 | [228550-monopoly.json](./228550-monopoly.json) |
@@ -16417,6 +16420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monstir Iradicator | 221121 | [221121-monstir-iradicator.json](./221121-monstir-iradicator.json) |
 | Monstopia: Chronicle of Jade's | 201076 | [201076-monstopia-chronicle-of-jades.json](./201076-monstopia-chronicle-of-jades.json) |
 | Monstrata | 351403 | [351403-monstrata.json](./351403-monstrata.json) |
+| Monstrata Fracture | 176017 | [176017-monstrata-fracture.json](./176017-monstrata-fracture.json) |
 | Monstre de Coiffure | 207822 | [207822-monstre-de-coiffure.json](./207822-monstre-de-coiffure.json) |
 | Monstress Academy | 83802 | [83802-monstress-academy.json](./83802-monstress-academy.json) |
 | Monstrix TCG Card Shop | 334083 | [334083-monstrix-tcg-card-shop.json](./334083-monstrix-tcg-card-shop.json) |
