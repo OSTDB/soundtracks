@@ -5233,6 +5233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interview | 178936 | [178936-interview.json](./178936-interview.json) |
 | Interview | 80233 | [80233-interview.json](./80233-interview.json) |
 | Interview With The Horny Ghost | 301640 | [301640-interview-with-the-horny-ghost.json](./301640-interview-with-the-horny-ghost.json) |
+| Interview With the Whisperer | 141366 | [141366-interview-with-the-whisperer.json](./141366-interview-with-the-whisperer.json) |
 | Intervoid | 380166 | [380166-intervoid.json](./380166-intervoid.json) |
 | Interweaver | 296682 | [296682-interweaver.json](./296682-interweaver.json) |
 | Interworlds | 74220 | [74220-interworlds.json](./74220-interworlds.json) |
