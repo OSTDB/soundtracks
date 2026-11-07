@@ -819,6 +819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Along the Mohawk | 62246 | [62246-war-along-the-mohawk.json](./62246-war-along-the-mohawk.json) |
 | War and Empires | 187264 | [187264-war-and-empires.json](./187264-war-and-empires.json) |
 | War and Magic | 125354 | [125354-war-and-magic.json](./125354-war-and-magic.json) |
+| War and Magic: Kingdom Reborn | 165237 | [165237-war-and-magic-kingdom-reborn.json](./165237-war-and-magic-kingdom-reborn.json) |
 | War and Peace | 220528 | [220528-war-and-peace.json](./220528-war-and-peace.json) |
 | War and Peace | 253332 | [253332-war-and-peace.json](./253332-war-and-peace.json) |
 | War and Peace: 1796 - 1815 | 205915 | [205915-war-and-peace-1796-1815.json](./205915-war-and-peace-1796-1815.json) |
@@ -3716,6 +3717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whale's Voyage II: Die Übermacht | 94397 | [94397-whales-voyage-ii-die-ubermacht.json](./94397-whales-voyage-ii-die-ubermacht.json) |
 | Whale's Waldo | 180452 | [180452-whales-waldo.json](./180452-whales-waldo.json) |
 | Whalefall Haven | 349400 | [349400-whalefall-haven.json](./349400-whalefall-haven.json) |
+| Whalien: Unexpected Guests | 165277 | [165277-whalien-unexpected-guests.json](./165277-whalien-unexpected-guests.json) |
 | Wham the Music Box | 45314 | [45314-wham-the-music-box.json](./45314-wham-the-music-box.json) |
 | Wham-o Frisbee Golf | 209571 | [209571-wham-o-frisbee-golf.json](./209571-wham-o-frisbee-golf.json) |
 | Whamble | 268812 | [268812-whamble.json](./268812-whamble.json) |
