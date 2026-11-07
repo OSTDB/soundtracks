@@ -1230,6 +1230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Remembered | 388668 | [388668-you-remembered.json](./388668-you-remembered.json) |
 | You See a Monster Smoking in the Parking Lot | 377666 | [377666-you-see-a-monster-smoking-in-the-parking-lot.json](./377666-you-see-a-monster-smoking-in-the-parking-lot.json) |
 | You Shall Not Break! | 111397 | [111397-you-shall-not-break.json](./111397-you-shall-not-break.json) |
+| You Shall Not Jump | 140150 | [140150-you-shall-not-jump.json](./140150-you-shall-not-jump.json) |
 | You Shall Not Jump: PC Master Race Edition | 41967 | [41967-you-shall-not-jump-pc-master-race-edition.json](./41967-you-shall-not-jump-pc-master-race-edition.json) |
 | You Should Eat Breakfast | 176515 | [176515-you-should-eat-breakfast.json](./176515-you-should-eat-breakfast.json) |
 | You Shouldn't Be Here | 336878 | [336878-you-shouldnt-be-here.json](./336878-you-shouldnt-be-here.json) |
