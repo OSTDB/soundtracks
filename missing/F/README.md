@@ -2636,6 +2636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmers 2050 | 249667 | [249667-farmers-2050.json](./249667-farmers-2050.json) |
 | Farmers Co-op: Out of This World | 165609 | [165609-farmers-co-op-out-of-this-world.json](./165609-farmers-co-op-out-of-this-world.json) |
 | Farmers Rebellion | 40137 | [40137-farmers-rebellion.json](./40137-farmers-rebellion.json) |
+| Farmers' Market | 172882 | [172882-farmers-market.json](./172882-farmers-market.json) |
 | FarmersMahJongg | 92917 | [92917-farmersmahjongg.json](./92917-farmersmahjongg.json) |
 | FarmFury! | 62576 | [62576-farmfury.json](./62576-farmfury.json) |
 | Farmhand Go! | 223171 | [223171-farmhand-go.json](./223171-farmhand-go.json) |
