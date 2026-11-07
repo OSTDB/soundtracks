@@ -7409,6 +7409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riding Hero | 39961 | [39961-riding-hero.json](./39961-riding-hero.json) |
 | Riding Horse School | 239753 | [239753-riding-horse-school.json](./239753-riding-horse-school.json) |
 | Riding Rhodri | 51164 | [51164-riding-rhodri.json](./51164-riding-rhodri.json) |
+| Riding Seas | 163624 | [163624-riding-seas.json](./163624-riding-seas.json) |
 | Riding Shotgun | 157430 | [157430-riding-shotgun.json](./157430-riding-shotgun.json) |
 | Riding Shotgun | 402431 | [402431-riding-shotgun.json](./402431-riding-shotgun.json) |
 | Riding Spirits | 23761 | [23761-riding-spirits.json](./23761-riding-spirits.json) |
