@@ -8523,6 +8523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Doomsday Crisis Line | 176763 | [176763-the-doomsday-crisis-line.json](./176763-the-doomsday-crisis-line.json) |
 | The Doomsland: Survivors | 245202 | [245202-the-doomsland-survivors.json](./245202-the-doomsland-survivors.json) |
 | The Door | 150501 | [150501-the-door.json](./150501-the-door.json) |
+| The Door | 151894 | [151894-the-door.json](./151894-the-door.json) |
 | The Door | 246123 | [246123-the-door.json](./246123-the-door.json) |
 | The Door | 284286 | [284286-the-door.json](./284286-the-door.json) |
 | The Door | 339212 | [339212-the-door.json](./339212-the-door.json) |
@@ -12583,6 +12584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Akatsuki no Kiseki Mobile | 199963 | [199963-the-legend-of-heroes-akatsuki-no-kiseki-mobile.json](./199963-the-legend-of-heroes-akatsuki-no-kiseki-mobile.json) |
 | The Legend of Heroes: Ao no Kiseki Evolution | 202822 | [202822-the-legend-of-heroes-ao-no-kiseki-evolution.json](./202822-the-legend-of-heroes-ao-no-kiseki-evolution.json) |
 | The Legend of Heroes: Hajimari no Kiseki - Platinum Master Box | 136782 | [136782-the-legend-of-heroes-hajimari-no-kiseki-platinum-master-box.json](./136782-the-legend-of-heroes-hajimari-no-kiseki-platinum-master-box.json) |
+| The Legend of Heroes: Kuro no Kiseki - Spriggan Edition | 151925 | [151925-the-legend-of-heroes-kuro-no-kiseki-spriggan-edition.json](./151925-the-legend-of-heroes-kuro-no-kiseki-spriggan-edition.json) |
 | The Legend of Heroes: Kuro no Kiseki II: Crimson Sin - Limited Edition | 205272 | [205272-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-limited-edition.json](./205272-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-limited-edition.json) |
 | The Legend of Heroes: Kuro no Kiseki II: Crimson Sin - Scenario Book Limited Edition | 205256 | [205256-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-scenario-book-limited-edition.json](./205256-the-legend-of-heroes-kuro-no-kiseki-ii-crimson-sin-scenario-book-limited-edition.json) |
 | The Legend of Heroes: Sen no Kiseki I KAI - Thors Military Academy 1204 | 172274 | [172274-the-legend-of-heroes-sen-no-kiseki-i-kai-thors-military-academy-1204.json](./172274-the-legend-of-heroes-sen-no-kiseki-i-kai-thors-military-academy-1204.json) |
@@ -13456,6 +13458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Mystic Ornament | 220194 | [220194-the-lost-mystic-ornament.json](./220194-the-lost-mystic-ornament.json) |
 | The Lost Myth | 340573 | [340573-the-lost-myth.json](./340573-the-lost-myth.json) |
 | The Lost Mythologies | 17022 | [17022-the-lost-mythologies.json](./17022-the-lost-mythologies.json) |
+| The Lost Night | 151881 | [151881-the-lost-night.json](./151881-the-lost-night.json) |
 | The Lost Oregon City Gold | 193174 | [193174-the-lost-oregon-city-gold.json](./193174-the-lost-oregon-city-gold.json) |
 | The Lost Painter | 386120 | [386120-the-lost-painter.json](./386120-the-lost-painter.json) |
 | The Lost Penguin | 302038 | [302038-the-lost-penguin.json](./302038-the-lost-penguin.json) |
@@ -32850,6 +32853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunebound | 418296 | [418296-tunebound.json](./418296-tunebound.json) |
 | Tuned Heart | 45971 | [45971-tuned-heart.json](./45971-tuned-heart.json) |
 | Tuned to Your Heart | 225562 | [225562-tuned-to-your-heart.json](./225562-tuned-to-your-heart.json) |
+| Tuned Turtle | 151890 | [151890-tuned-turtle.json](./151890-tuned-turtle.json) |
 | Tuneland | 91693 | [91693-tuneland.json](./91693-tuneland.json) |
 | Tuneria | 140025 | [140025-tuneria.json](./140025-tuneria.json) |
 | Tunescape | 81991 | [81991-tunescape.json](./81991-tunescape.json) |
