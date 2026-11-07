@@ -19393,6 +19393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multris | 190786 | [190786-multris.json](./190786-multris.json) |
 | Muma Rope | 226678 | [226678-muma-rope.json](./226678-muma-rope.json) |
 | Mumba IV: Egypt Jewels | 156636 | [156636-mumba-iv-egypt-jewels.json](./156636-mumba-iv-egypt-jewels.json) |
+| Mumbai Gullies | 154126 | [154126-mumbai-gullies.json](./154126-mumbai-gullies.json) |
 | Mumble Pines: The Arrival | 371032 | [371032-mumble-pines-the-arrival.json](./371032-mumble-pines-the-arrival.json) |
 | Mumbo Shuffle | 398547 | [398547-mumbo-shuffle.json](./398547-mumbo-shuffle.json) |
 | Mummies Rising | 59733 | [59733-mummies-rising.json](./59733-mummies-rising.json) |
@@ -20423,6 +20424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Cool Diner | 200150 | [200150-my-cool-diner.json](./200150-my-cool-diner.json) |
 | My Corp Cargo Simulator | 290744 | [290744-my-corp-cargo-simulator.json](./290744-my-corp-cargo-simulator.json) |
 | My Cosmic Sweetheart | 210370 | [210370-my-cosmic-sweetheart.json](./210370-my-cosmic-sweetheart.json) |
+| My Countless Worlds: Enchanted Cape | 154158 | [154158-my-countless-worlds-enchanted-cape.json](./154158-my-countless-worlds-enchanted-cape.json) |
 | My Cousin the Rogue | 160062 | [160062-my-cousin-the-rogue.json](./160062-my-cousin-the-rogue.json) |
 | My Coworker is an Idiot | 223241 | [223241-my-coworker-is-an-idiot.json](./223241-my-coworker-is-an-idiot.json) |
 | My Coworkers Are Made Of Static | 401490 | [401490-my-coworkers-are-made-of-static.json](./401490-my-coworkers-are-made-of-static.json) |
