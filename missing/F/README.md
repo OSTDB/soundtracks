@@ -8143,6 +8143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floating Frontiers | 390988 | [390988-floating-frontiers.json](./390988-floating-frontiers.json) |
 | Floating Girl | 147391 | [147391-floating-girl.json](./147391-floating-girl.json) |
 | Floating Girl | 270156 | [270156-floating-girl.json](./270156-floating-girl.json) |
+| Floating Islands of Nucifera | 159434 | [159434-floating-islands-of-nucifera.json](./159434-floating-islands-of-nucifera.json) |
 | Floating Isle Days | 379015 | [379015-floating-isle-days.json](./379015-floating-isle-days.json) |
 | Floating Life 2 | 216788 | [216788-floating-life-2.json](./216788-floating-life-2.json) |
 | Floating Life in Other-World | 156531 | [156531-floating-life-in-other-world.json](./156531-floating-life-in-other-world.json) |
@@ -12355,6 +12356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Space | 133468 | [133468-frog-space.json](./133468-frog-space.json) |
 | Frog Sqwad | 381087 | [381087-frog-sqwad.json](./381087-frog-sqwad.json) |
 | Frog Stack | 229278 | [229278-frog-stack.json](./229278-frog-stack.json) |
+| Frog Story | 159452 | [159452-frog-story.json](./159452-frog-story.json) |
 | Frog Story: The Power Tongue | 289451 | [289451-frog-story-the-power-tongue.json](./289451-frog-story-the-power-tongue.json) |
 | Frog Street A-Z | 100818 | [100818-frog-street-a-z.json](./100818-frog-street-a-z.json) |
 | Frog Struggles | 129432 | [129432-frog-struggles.json](./129432-frog-struggles.json) |
