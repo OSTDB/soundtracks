@@ -8613,6 +8613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronus Arc | 38512 | [38512-chronus-arc.json](./38512-chronus-arc.json) |
 | Chrs 143 | 162430 | [162430-chrs-143.json](./162430-chrs-143.json) |
 | Chrysalis | 113559 | [113559-chrysalis.json](./113559-chrysalis.json) |
+| Chrysalis | 185791 | [185791-chrysalis.json](./185791-chrysalis.json) |
 | Chrysalis | 321638 | [321638-chrysalis.json](./321638-chrysalis.json) |
 | Chrysalis | 57122 | [57122-chrysalis.json](./57122-chrysalis.json) |
 | Chrysalis Inc. | 199351 | [199351-chrysalis-inc.json](./199351-chrysalis-inc.json) |
