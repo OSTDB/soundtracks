@@ -1209,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Song in Elyel Nalore | 348123 | [348123-a-song-in-elyel-nalore.json](./348123-a-song-in-elyel-nalore.json) |
 | A song in the void | 76325 | [76325-a-song-in-the-void.json](./76325-a-song-in-the-void.json) |
 | A Song of Sunlight | 265534 | [265534-a-song-of-sunlight.json](./265534-a-song-of-sunlight.json) |
+| A Soul of Clay | 181469 | [181469-a-soul-of-clay.json](./181469-a-soul-of-clay.json) |
 | A Sound of Thunder | 49271 | [49271-a-sound-of-thunder.json](./49271-a-sound-of-thunder.json) |
 | A Soup of Mind | 382278 | [382278-a-soup-of-mind.json](./382278-a-soup-of-mind.json) |
 | A South Sea Tale | 311961 | [311961-a-south-sea-tale.json](./311961-a-south-sea-tale.json) |
@@ -4120,6 +4121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether Brew | 357788 | [357788-aether-brew.json](./357788-aether-brew.json) |
 | Aether Collector | 316456 | [316456-aether-collector.json](./316456-aether-collector.json) |
 | Aether Crown | 405616 | [405616-aether-crown.json](./405616-aether-crown.json) |
+| Aether Crypt | 181466 | [181466-aether-crypt.json](./181466-aether-crypt.json) |
 | Aether Delight | 348590 | [348590-aether-delight.json](./348590-aether-delight.json) |
 | Aether Diving | 314598 | [314598-aether-diving.json](./314598-aether-diving.json) |
 | Aether Drift | 108046 | [108046-aether-drift.json](./108046-aether-drift.json) |
@@ -11092,6 +11094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anthropocene Epoch | 186806 | [186806-anthropocene-epoch.json](./186806-anthropocene-epoch.json) |
 | Anthropoda Power Fantasy | 330034 | [330034-anthropoda-power-fantasy.json](./330034-anthropoda-power-fantasy.json) |
 | Anthropomachy | 118050 | [118050-anthropomachy.json](./118050-anthropomachy.json) |
+| Anthropomorphic Suspect | 181458 | [181458-anthropomorphic-suspect.json](./181458-anthropomorphic-suspect.json) |
 | Anti Aircraft Artillery | 292018 | [292018-anti-aircraft-artillery.json](./292018-anti-aircraft-artillery.json) |
 | Anti Chess | 56434 | [56434-anti-chess.json](./56434-anti-chess.json) |
 | Anti Frank's Wrath | 173255 | [173255-anti-franks-wrath.json](./173255-anti-franks-wrath.json) |
@@ -11733,6 +11736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apolysis | 191304 | [191304-apolysis.json](./191304-apolysis.json) |
 | Apomo District | 301062 | [301062-apomo-district.json](./301062-apomo-district.json) |
 | Aponasi Gals Olympos | 45433 | [45433-aponasi-gals-olympos.json](./45433-aponasi-gals-olympos.json) |
+| Apoocklypse | 181452 | [181452-apoocklypse.json](./181452-apoocklypse.json) |
 | Apophis | 136490 | [136490-apophis.json](./136490-apophis.json) |
 | Apophis Rising | 8641 | [8641-apophis-rising.json](./8641-apophis-rising.json) |
 | Apopia | 159680 | [159680-apopia.json](./159680-apopia.json) |
