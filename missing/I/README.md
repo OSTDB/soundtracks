@@ -5767,6 +5767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iris and the Giant | 121390 | [121390-iris-and-the-giant.json](./121390-iris-and-the-giant.json) |
 | Iris and the Giant: Deluxe Soundtrack Edition | 240337 | [240337-iris-and-the-giant-deluxe-soundtrack-edition.json](./240337-iris-and-the-giant-deluxe-soundtrack-edition.json) |
 | Iris Blade | 420006 | [420006-iris-blade.json](./420006-iris-blade.json) |
+| Iris Covenant: Song of the Forgotten Heroes | 173352 | [173352-iris-covenant-song-of-the-forgotten-heroes.json](./173352-iris-covenant-song-of-the-forgotten-heroes.json) |
 | Iris Dissolution | 337116 | [337116-iris-dissolution.json](./337116-iris-dissolution.json) |
 | Iris In Fantasy | 120701 | [120701-iris-in-fantasy.json](./120701-iris-in-fantasy.json) |
 | Iris Odyssey | 345070 | [345070-iris-odyssey.json](./345070-iris-odyssey.json) |
