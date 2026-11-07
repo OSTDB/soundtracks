@@ -4437,6 +4437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Rapid Transit | 294194 | [294194-mars-rapid-transit.json](./294194-mars-rapid-transit.json) |
 | Mars Red: Edge of the Nightmare | 153384 | [153384-mars-red-edge-of-the-nightmare.json](./153384-mars-red-edge-of-the-nightmare.json) |
 | Mars Rising | 77029 | [77029-mars-rising.json](./77029-mars-rising.json) |
+| Mars Rover Simulator | 189794 | [189794-mars-rover-simulator.json](./189794-mars-rover-simulator.json) |
 | Mars Saga | 70980 | [70980-mars-saga.json](./70980-mars-saga.json) |
 | Mars Simulator: Red Planet | 29591 | [29591-mars-simulator-red-planet.json](./29591-mars-simulator-red-planet.json) |
 | Mars Survivor | 324204 | [324204-mars-survivor.json](./324204-mars-survivor.json) |
