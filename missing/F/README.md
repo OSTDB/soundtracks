@@ -6780,6 +6780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fist | 79787 | [79787-fist.json](./79787-fist.json) |
 | Fist 2 Face | 323559 | [323559-fist-2-face.json](./323559-fist-2-face.json) |
 | Fist 2: The Legend Continues | 28473 | [28473-fist-2-the-legend-continues.json](./28473-fist-2-the-legend-continues.json) |
+| Fist Bump | 182615 | [182615-fist-bump.json](./182615-fist-bump.json) |
 | Fist Fighter | 41007 | [41007-fist-fighter.json](./41007-fist-fighter.json) |
 | Fist Food | 285557 | [285557-fist-food.json](./285557-fist-food.json) |
 | Fist Hell | 318602 | [318602-fist-hell.json](./318602-fist-hell.json) |
@@ -7266,6 +7267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flak | 170893 | [170893-flak.json](./170893-flak.json) |
 | Flakboy | 264480 | [264480-flakboy.json](./264480-flakboy.json) |
 | Flake: The Legend of Snowblind | 287195 | [287195-flake-the-legend-of-snowblind.json](./287195-flake-the-legend-of-snowblind.json) |
+| Flaklypa Grand Prix | 182603 | [182603-flaklypa-grand-prix.json](./182603-flaklypa-grand-prix.json) |
 | Flaky Bakery | 117790 | [117790-flaky-bakery.json](./117790-flaky-bakery.json) |
 | Flaky Love | 310039 | [310039-flaky-love.json](./310039-flaky-love.json) |
 | Flam the Purge of the Century | 201088 | [201088-flam-the-purge-of-the-century.json](./201088-flam-the-purge-of-the-century.json) |
