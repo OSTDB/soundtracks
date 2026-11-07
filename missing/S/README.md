@@ -812,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saiyuuki World | 48403 | [48403-saiyuuki-world.json](./48403-saiyuuki-world.json) |
 | Saiyuuki World 2: Tenjoukai no Majin | 19669 | [19669-saiyuuki-world-2-tenjoukai-no-majin.json](./19669-saiyuuki-world-2-tenjoukai-no-majin.json) |
 | Sak'd | 115786 | [115786-sakd.json](./115786-sakd.json) |
+| Sakaagari Hurricane Portable | 140114 | [140114-sakaagari-hurricane-portable.json](./140114-sakaagari-hurricane-portable.json) |
 | Sakaagari Hurricane Portable: Complete Limited Edition | 154713 | [154713-sakaagari-hurricane-portable-complete-limited-edition.json](./154713-sakaagari-hurricane-portable-complete-limited-edition.json) |
 | Sakai Burai Kaiji: Death or Survival | 61394 | [61394-sakai-burai-kaiji-death-or-survival.json](./61394-sakai-burai-kaiji-death-or-survival.json) |
 | Sakamoto Dangerous Barrage | 331884 | [331884-sakamoto-dangerous-barrage.json](./331884-sakamoto-dangerous-barrage.json) |
@@ -5170,6 +5171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Segagaga | 28151 | [28151-segagaga.json](./28151-segagaga.json) |
 | Segapede | 227784 | [227784-segapede.json](./227784-segapede.json) |
 | SegaSonic Bros. | 200448 | [200448-segasonic-bros.json](./200448-segasonic-bros.json) |
+| SegaSonic Popcorn Shop | 140103 | [140103-segasonic-popcorn-shop.json](./140103-segasonic-popcorn-shop.json) |
 | SegaSonic the Hedgehog | 198602 | [198602-segasonic-the-hedgehog.json](./198602-segasonic-the-hedgehog.json) |
 | Segatakai | 57386 | [57386-segatakai.json](./57386-segatakai.json) |
 | Segfault | 75430 | [75430-segfault.json](./75430-segfault.json) |
@@ -14894,6 +14896,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smuggler's Guild | 8987 | [8987-smugglers-guild.json](./8987-smugglers-guild.json) |
 | Smuggler's Run | 248594 | [248594-smugglers-run.json](./248594-smugglers-run.json) |
 | Smuggler's Run | 4154 | [4154-smugglers-run.json](./4154-smugglers-run.json) |
+| Smugglers | 140106 | [140106-smugglers.json](./140106-smugglers.json) |
+| Smugglers 2 | 140105 | [140105-smugglers-2.json](./140105-smugglers-2.json) |
 | Smugglers 5: Invasion | 36209 | [36209-smugglers-5-invasion.json](./36209-smugglers-5-invasion.json) |
 | Smugglers 5: Invasion - Warrior Within | 170285 | [170285-smugglers-5-invasion-warrior-within.json](./170285-smugglers-5-invasion-warrior-within.json) |
 | Smugglers IV: Doomsday | 54377 | [54377-smugglers-iv-doomsday.json](./54377-smugglers-iv-doomsday.json) |
