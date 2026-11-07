@@ -12661,6 +12661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of The Black Wizard | 157471 | [157471-the-legend-of-the-black-wizard.json](./157471-the-legend-of-the-black-wizard.json) |
 | The Legend of the Blue Sword | 307980 | [307980-the-legend-of-the-blue-sword.json](./307980-the-legend-of-the-blue-sword.json) |
 | The Legend of the Chao | 331776 | [331776-the-legend-of-the-chao.json](./331776-the-legend-of-the-chao.json) |
+| The Legend of the Darkest Night | 179265 | [179265-the-legend-of-the-darkest-night.json](./179265-the-legend-of-the-darkest-night.json) |
 | The Legend of the Dragonflame High School | 54849 | [54849-the-legend-of-the-dragonflame-high-school.json](./54849-the-legend-of-the-dragonflame-high-school.json) |
 | The Legend of the Dragonflame High School 2 | 115380 | [115380-the-legend-of-the-dragonflame-high-school-2.json](./115380-the-legend-of-the-dragonflame-high-school-2.json) |
 | The Legend of the Dragonflame High School 3 | 309289 | [309289-the-legend-of-the-dragonflame-high-school-3.json](./309289-the-legend-of-the-dragonflame-high-school-3.json) |
