@@ -2806,6 +2806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elusive | 336540 | [336540-elusive.json](./336540-elusive.json) |
 | Elusive People | 228607 | [228607-elusive-people.json](./228607-elusive-people.json) |
 | Elusive Verge | 144587 | [144587-elusive-verge.json](./144587-elusive-verge.json) |
+| Elusive World | 190279 | [190279-elusive-world.json](./190279-elusive-world.json) |
 | Eluxia Enigma | 153847 | [153847-eluxia-enigma.json](./153847-eluxia-enigma.json) |
 | Elva the Eco Dragon | 187503 | [187503-elva-the-eco-dragon.json](./187503-elva-the-eco-dragon.json) |
 | Elvandia Story | 43276 | [43276-elvandia-story.json](./43276-elvandia-story.json) |
@@ -6589,6 +6590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evangelion: Breaking Dawn | 382795 | [382795-evangelion-breaking-dawn.json](./382795-evangelion-breaking-dawn.json) |
 | Evangelion: Jo | 67657 | [67657-evangelion-jo.json](./67657-evangelion-jo.json) |
 | Evard the Hermit: Through Fears | 221152 | [221152-evard-the-hermit-through-fears.json](./221152-evard-the-hermit-through-fears.json) |
+| Evasilix | 190266 | [190266-evasilix.json](./190266-evasilix.json) |
 | Evasion | 346055 | [346055-evasion.json](./346055-evasion.json) |
 | Evasion | 74968 | [74968-evasion.json](./74968-evasion.json) |
 | Evasion from Cluster 42 | 259283 | [259283-evasion-from-cluster-42.json](./259283-evasion-from-cluster-42.json) |
@@ -6795,6 +6797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverGirl | 6399 | [6399-evergirl.json](./6399-evergirl.json) |
 | Everglen | 368993 | [368993-everglen.json](./368993-everglen.json) |
 | Everglory | 163911 | [163911-everglory.json](./163911-everglory.json) |
+| Everglow | 190301 | [190301-everglow.json](./190301-everglow.json) |
 | Evergreen | 142995 | [142995-evergreen.json](./142995-evergreen.json) |
 | Evergreen | 59933 | [59933-evergreen.json](./59933-evergreen.json) |
 | Evergreen Avenue | 63578 | [63578-evergreen-avenue.json](./63578-evergreen-avenue.json) |
@@ -8048,6 +8051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exquisite Amethyst | 261170 | [261170-exquisite-amethyst.json](./261170-exquisite-amethyst.json) |
 | Exquisite Corpse | 273568 | [273568-exquisite-corpse.json](./273568-exquisite-corpse.json) |
 | Exquisite Fishing | 235874 | [235874-exquisite-fishing.json](./235874-exquisite-fishing.json) |
+| Exquisite Ghorpse Story | 190293 | [190293-exquisite-ghorpse-story.json](./190293-exquisite-ghorpse-story.json) |
 | Exquisite Girls | 372121 | [372121-exquisite-girls.json](./372121-exquisite-girls.json) |
 | EXR | 288980 | [288980-exr.json](./288980-exr.json) |
 | EXS1 EthnologySister: Cultural functionalism | 166171 | [166171-exs1-ethnologysister-cultural-functionalism.json](./166171-exs1-ethnologysister-cultural-functionalism.json) |
