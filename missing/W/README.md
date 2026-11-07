@@ -7485,6 +7485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Choices | 233052 | [233052-word-choices.json](./233052-word-choices.json) |
 | Word Chums | 91135 | [91135-word-chums.json](./91135-word-chums.json) |
 | Word Club: Word Puzzle Game | 106358 | [106358-word-club-word-puzzle-game.json](./106358-word-club-word-puzzle-game.json) |
+| Word Colors | 174468 | [174468-word-colors.json](./174468-word-colors.json) |
 | Word Connect | 88761 | [88761-word-connect.json](./88761-word-connect.json) |
 | Word Connect 2 | 105965 | [105965-word-connect-2.json](./105965-word-connect-2.json) |
 | Word Connect HD | 96069 | [96069-word-connect-hd.json](./96069-word-connect-hd.json) |
@@ -9265,6 +9266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wunderheilung | 128560 | [128560-wunderheilung.json](./128560-wunderheilung.json) |
 | Wunderling | 102807 | [102807-wunderling.json](./102807-wunderling.json) |
 | Wunderling DX | 219755 | [219755-wunderling-dx.json](./219755-wunderling-dx.json) |
+| Wunderling: Kohlrabi's Ruin | 174424 | [174424-wunderling-kohlrabis-ruin.json](./174424-wunderling-kohlrabis-ruin.json) |
 | Wünderpack | 360702 | [360702-wunderpack.json](./360702-wunderpack.json) |
 | Wunderverse | 106359 | [106359-wunderverse.json](./106359-wunderverse.json) |
 | Wunderwaffe | 105654 | [105654-wunderwaffe.json](./105654-wunderwaffe.json) |
