@@ -4869,6 +4869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LightCells | 368582 | [368582-lightcells.json](./368582-lightcells.json) |
 | Lightclusters | 289552 | [289552-lightclusters.json](./289552-lightclusters.json) |
 | Lightcore Guardians | 357147 | [357147-lightcore-guardians.json](./357147-lightcore-guardians.json) |
+| LightCube | 182631 | [182631-lightcube.json](./182631-lightcube.json) |
 | Lightdancer | 289176 | [289176-lightdancer.json](./289176-lightdancer.json) |
 | LightEaters! | 233910 | [233910-lighteaters.json](./233910-lighteaters.json) |
 | Lighted Knights | 123525 | [123525-lighted-knights.json](./123525-lighted-knights.json) |
