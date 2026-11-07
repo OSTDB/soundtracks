@@ -6573,6 +6573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Benny Bash | 330973 | [330973-benny-bash.json](./330973-benny-bash.json) |
 | Benny the Blob | 322614 | [322614-benny-the-blob.json](./322614-benny-the-blob.json) |
 | Benny's Backrooms | 303109 | [303109-bennys-backrooms.json](./303109-bennys-backrooms.json) |
+| Bēnpǎo ba Qiúqiú | 163582 | [163582-benpao-ba-qiuqiu.json](./163582-benpao-ba-qiuqiu.json) |
 | Bent Oak Island | 240719 | [240719-bent-oak-island.json](./240719-bent-oak-island.json) |
 | Bent on Destruction | 195648 | [195648-bent-on-destruction.json](./195648-bent-on-destruction.json) |
 | BenTen Puzzle | 118883 | [118883-benten-puzzle.json](./118883-benten-puzzle.json) |
