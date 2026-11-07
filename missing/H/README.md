@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hailborn: UFO Stole My Egg! | 337292 | [337292-hailborn-ufo-stole-my-egg.json](./337292-hailborn-ufo-stole-my-egg.json) |
 | Hailey | 109738 | [109738-hailey.json](./109738-hailey.json) |
 | Hailey's Aesop | 303696 | [303696-haileys-aesop.json](./303696-haileys-aesop.json) |
+| Hailing from the Abyss | 190262 | [190262-hailing-from-the-abyss.json](./190262-hailing-from-the-abyss.json) |
 | Hailstorm | 363955 | [363955-hailstorm.json](./363955-hailstorm.json) |
 | Hailstorm | 68171 | [68171-hailstorm.json](./68171-hailstorm.json) |
 | Haimrik | 32349 | [32349-haimrik.json](./32349-haimrik.json) |
