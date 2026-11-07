@@ -6318,6 +6318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Kiss | 177741 | [177741-first-kiss.json](./177741-first-kiss.json) |
 | First Kiss at a Spooky Soiree | 144233 | [144233-first-kiss-at-a-spooky-soiree.json](./144233-first-kiss-at-a-spooky-soiree.json) |
 | First Kiss Stories | 384644 | [384644-first-kiss-stories.json](./384644-first-kiss-stories.json) |
+| First Kiss Story | 166382 | [166382-first-kiss-story.json](./166382-first-kiss-story.json) |
 | First Kiss Story II | 125206 | [125206-first-kiss-story-ii.json](./125206-first-kiss-story-ii.json) |
 | First Land | 166515 | [166515-first-land.json](./166515-first-land.json) |
 | First Law | 303931 | [303931-first-law.json](./303931-first-law.json) |
