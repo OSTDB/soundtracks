@@ -4520,6 +4520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terradune | 346347 | [346347-terradune.json](./346347-terradune.json) |
 | Terrafactor | 368990 | [368990-terrafactor.json](./368990-terrafactor.json) |
 | Terrafactory: Idle Planet | 384154 | [384154-terrafactory-idle-planet.json](./384154-terrafactory-idle-planet.json) |
+| Terrafarmers HD | 175489 | [175489-terrafarmers-hd.json](./175489-terrafarmers-hd.json) |
 | Terrafarmers Inc. | 370399 | [370399-terrafarmers-inc.json](./370399-terrafarmers-inc.json) |
 | TerraFire | 69334 | [69334-terrafire.json](./69334-terrafire.json) |
 | TerraFirmaCraft | 296225 | [296225-terrafirmacraft.json](./296225-terrafirmacraft.json) |
@@ -19524,6 +19525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theft Ride Legacy: Extended Edition | 253220 | [253220-theft-ride-legacy-extended-edition.json](./253220-theft-ride-legacy-extended-edition.json) |
 | Theft Ride Legacy: Gold Edition | 283160 | [283160-theft-ride-legacy-gold-edition.json](./283160-theft-ride-legacy-gold-edition.json) |
 | TheGunRunner | 89952 | [89952-thegunrunner.json](./89952-thegunrunner.json) |
+| TheHunter Call of the Wild: 2022 Edition | 175497 | [175497-thehunter-call-of-the-wild-2022-edition.json](./175497-thehunter-call-of-the-wild-2022-edition.json) |
 | TheHunter Classic | 23636 | [23636-thehunter-classic.json](./23636-thehunter-classic.json) |
 | TheHunter: Call of the Wild | 26381 | [26381-thehunter-call-of-the-wild.json](./26381-thehunter-call-of-the-wild.json) |
 | TheHunter: Call of the Wild - 2019 Edition | 109242 | [109242-thehunter-call-of-the-wild-2019-edition.json](./109242-thehunter-call-of-the-wild-2019-edition.json) |
@@ -21141,6 +21143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiffy's Magical Tales: Pinocchio | 323976 | [323976-tiffys-magical-tales-pinocchio.json](./323976-tiffys-magical-tales-pinocchio.json) |
 | Tiger & Bunny: Hero's Day | 63842 | [63842-tiger-and-bunny-heros-day.json](./63842-tiger-and-bunny-heros-day.json) |
 | Tiger & Bunny: On Air Jack! | 64861 | [64861-tiger-and-bunny-on-air-jack.json](./64861-tiger-and-bunny-on-air-jack.json) |
+| Tiger & Elpho | 175479 | [175479-tiger-and-elpho.json](./175479-tiger-and-elpho.json) |
 | Tiger Blade | 266362 | [266362-tiger-blade.json](./266362-tiger-blade.json) |
 | Tiger Burger | 394217 | [394217-tiger-burger.json](./394217-tiger-burger.json) |
 | Tiger Casino | 131276 | [131276-tiger-casino.json](./131276-tiger-casino.json) |
@@ -27450,6 +27453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toxtli & The Moon Jar | 349834 | [349834-toxtli-and-the-moon-jar.json](./349834-toxtli-and-the-moon-jar.json) |
 | Toy Army Men: Defense | 196348 | [196348-toy-army-men-defense.json](./196348-toy-army-men-defense.json) |
 | Toy Attack | 96915 | [96915-toy-attack.json](./96915-toy-attack.json) |
+| Toy Balls HD | 175454 | [175454-toy-balls-hd.json](./175454-toy-balls-hd.json) |
 | Toy Bizarre | 24685 | [24685-toy-bizarre.json](./24685-toy-bizarre.json) |
 | Toy Blast | 54986 | [54986-toy-blast.json](./54986-toy-blast.json) |
 | Toy Bot Diaries | 69260 | [69260-toy-bot-diaries.json](./69260-toy-bot-diaries.json) |
@@ -32615,6 +32619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbocar | 70723 | [70723-turbocar.json](./70723-turbocar.json) |
 | Turboflex | 315720 | [315720-turboflex.json](./315720-turboflex.json) |
 | TurboFly 3D | 38698 | [38698-turbofly-3d.json](./38698-turbofly-3d.json) |
+| TurboFly HD | 175470 | [175470-turbofly-hd.json](./175470-turbofly-hd.json) |
 | TurboJoy | 409828 | [409828-turbojoy.json](./409828-turbojoy.json) |
 | TurboMania Fog Racers | 370265 | [370265-turbomania-fog-racers.json](./370265-turbomania-fog-racers.json) |
 | TurboRaketti II | 94239 | [94239-turboraketti-ii.json](./94239-turboraketti-ii.json) |
