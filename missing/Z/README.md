@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zap Zone | 30111 | [30111-zap-zone.json](./30111-zap-zone.json) |
 | Zap, Blast, Loot | 105272 | [105272-zap-blast-loot.json](./105272-zap-blast-loot.json) |
 | Zap! | 94483 | [94483-zap.json](./94483-zap.json) |
+| Zap! Retro Arcade Collection | 159430 | [159430-zap-retro-arcade-collection.json](./159430-zap-retro-arcade-collection.json) |
 | Zap'em | 25157 | [25157-zapem.json](./25157-zapem.json) |
 | Zap't'Balls | 95464 | [95464-zaptballs.json](./95464-zaptballs.json) |
 | Zap't'Balls: The Advanced Edition | 72002 | [72002-zaptballs-the-advanced-edition.json](./72002-zaptballs-the-advanced-edition.json) |
@@ -1855,6 +1856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Run HD | 250387 | [250387-zombie-run-hd.json](./250387-zombie-run-hd.json) |
 | Zombie Rush | 179536 | [179536-zombie-rush.json](./179536-zombie-rush.json) |
 | Zombie Rush : Extinction | 119977 | [119977-zombie-rush-extinction.json](./119977-zombie-rush-extinction.json) |
+| Zombie Rush: Heroes | 159427 | [159427-zombie-rush-heroes.json](./159427-zombie-rush-heroes.json) |
 | Zombie Sanctuary: Arelia | 260529 | [260529-zombie-sanctuary-arelia.json](./260529-zombie-sanctuary-arelia.json) |
 | Zombie Sanctuary: Ash | 260605 | [260605-zombie-sanctuary-ash.json](./260605-zombie-sanctuary-ash.json) |
 | Zombie Sanctuary: Juliet | 277372 | [277372-zombie-sanctuary-juliet.json](./277372-zombie-sanctuary-juliet.json) |
@@ -1915,6 +1917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Solitaire 2 Chapter 2 | 54828 | [54828-zombie-solitaire-2-chapter-2.json](./54828-zombie-solitaire-2-chapter-2.json) |
 | Zombie Soup | 123792 | [123792-zombie-soup.json](./123792-zombie-soup.json) |
 | Zombie Space Shooter II | 228119 | [228119-zombie-space-shooter-ii.json](./228119-zombie-space-shooter-ii.json) |
+| Zombie Spectre | 159458 | [159458-zombie-spectre.json](./159458-zombie-spectre.json) |
 | Zombie Spree: The Dawn | 211957 | [211957-zombie-spree-the-dawn.json](./211957-zombie-spree-the-dawn.json) |
 | Zombie Squad | 235460 | [235460-zombie-squad.json](./235460-zombie-squad.json) |
 | Zombie Squad | 251145 | [251145-zombie-squad.json](./251145-zombie-squad.json) |
@@ -2318,6 +2321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Tycoon: RSN Complete Collection | 280044 | [280044-zoo-tycoon-rsn-complete-collection.json](./280044-zoo-tycoon-rsn-complete-collection.json) |
 | Zoo Tycoon: Ultimate Animal Collection | 74712 | [74712-zoo-tycoon-ultimate-animal-collection.json](./74712-zoo-tycoon-ultimate-animal-collection.json) |
 | Zoo Vet | 79929 | [79929-zoo-vet.json](./79929-zoo-vet.json) |
+| Zoo War | 159449 | [159449-zoo-war.json](./159449-zoo-war.json) |
 | Zoo World VR | 142197 | [142197-zoo-world-vr.json](./142197-zoo-world-vr.json) |
 | Zoo-ika | 314581 | [314581-zoo-ika.json](./314581-zoo-ika.json) |
 | Zoo-phonics 10: The Zoo Kitchen | 101477 | [101477-zoo-phonics-10-the-zoo-kitchen.json](./101477-zoo-phonics-10-the-zoo-kitchen.json) |
