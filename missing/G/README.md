@@ -2156,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gas vs. Dwarves | 185112 | [185112-gas-vs-dwarves.json](./185112-gas-vs-dwarves.json) |
 | Gasbound | 418611 | [418611-gasbound.json](./418611-gasbound.json) |
 | GasCraft | 255157 | [255157-gascraft.json](./255157-gascraft.json) |
+| Gaserb | 188718 | [188718-gaserb.json](./188718-gaserb.json) |
 | Gash | 126421 | [126421-gash.json](./126421-gash.json) |
 | Gash | 260484 | [260484-gash.json](./260484-gash.json) |
 | Gash And the Ultimate Boner | 292613 | [292613-gash-and-the-ultimate-boner.json](./292613-gash-and-the-ultimate-boner.json) |
@@ -6167,6 +6168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gods of Havoc: Into the Void | 120650 | [120650-gods-of-havoc-into-the-void.json](./120650-gods-of-havoc-into-the-void.json) |
 | Gods of Havoc: Into the Void - Rise of the AI | 171412 | [171412-gods-of-havoc-into-the-void-rise-of-the-ai.json](./171412-gods-of-havoc-into-the-void-rise-of-the-ai.json) |
 | Gods of Hellas VR | 190168 | [190168-gods-of-hellas-vr.json](./190168-gods-of-hellas-vr.json) |
+| Gods of Isekai | 188749 | [188749-gods-of-isekai.json](./188749-gods-of-isekai.json) |
 | Gods of Love: An Otome Visual Novel | 126830 | [126830-gods-of-love-an-otome-visual-novel.json](./126830-gods-of-love-an-otome-visual-novel.json) |
 | Gods of Nowhere | 387040 | [387040-gods-of-nowhere.json](./387040-gods-of-nowhere.json) |
 | Gods of Olympus | 57416 | [57416-gods-of-olympus.json](./57416-gods-of-olympus.json) |
@@ -9302,6 +9304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grief: How to say goodbye | 182851 | [182851-grief-how-to-say-goodbye.json](./182851-grief-how-to-say-goodbye.json) |
 | Griefhelm | 125762 | [125762-griefhelm.json](./125762-griefhelm.json) |
 | Grievance | 135614 | [135614-grievance.json](./135614-grievance.json) |
+| Grieve | 188736 | [188736-grieve.json](./188736-grieve.json) |
 | Grieving: Berduka | 372674 | [372674-grieving-berduka.json](./372674-grieving-berduka.json) |
 | Grievous Onslaught | 245966 | [245966-grievous-onslaught.json](./245966-grievous-onslaught.json) |
 | Grievous Survivors | 235680 | [235680-grievous-survivors.json](./235680-grievous-survivors.json) |
