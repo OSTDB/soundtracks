@@ -11020,6 +11020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon Scoop: Ace Attorney | 308551 | [308551-simon-scoop-ace-attorney.json](./308551-simon-scoop-ace-attorney.json) |
 | Simon Sees | 317438 | [317438-simon-sees.json](./317438-simon-sees.json) |
 | Simon Shotgun Arms | 302377 | [302377-simon-shotgun-arms.json](./302377-simon-shotgun-arms.json) |
+| Simon T Hockey Simulator | 142533 | [142533-simon-t-hockey-simulator.json](./142533-simon-t-hockey-simulator.json) |
 | Simon Tatham's Portable Puzzle Collection | 135292 | [135292-simon-tathams-portable-puzzle-collection.json](./135292-simon-tathams-portable-puzzle-collection.json) |
 | Simon the Seahorse The Animated Adventure Game | 275714 | [275714-simon-the-seahorse-the-animated-adventure-game.json](./275714-simon-the-seahorse-the-animated-adventure-game.json) |
 | Simon the Sorcerer | 459 | [459-simon-the-sorcerer.json](./459-simon-the-sorcerer.json) |
@@ -12416,6 +12417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SkiFree | 11681 | [11681-skifree.json](./11681-skifree.json) |
 | SkifY | 75075 | [75075-skify.json](./75075-skify.json) |
 | Skiiiiiiiiiiiiiiid | 164170 | [164170-skiiiiiiiiiiiiiiid.json](./164170-skiiiiiiiiiiiiiiid.json) |
+| Skiing | 142577 | [142577-skiing.json](./142577-skiing.json) |
 | Skiing | 359299 | [359299-skiing.json](./359299-skiing.json) |
 | Skiing | 55104 | [55104-skiing.json](./55104-skiing.json) |
 | Skiing | 5686 | [5686-skiing.json](./5686-skiing.json) |
@@ -19931,7 +19933,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
+| Space Hunter | 142578 | [142578-space-hunter.json](./142578-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
 | Space Hunter | 271175 | [271175-space-hunter.json](./271175-space-hunter.json) |
@@ -21328,6 +21332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Limit | 117106 | [117106-speed-limit.json](./117106-speed-limit.json) |
 | Speed Limit: Stage 2 | 79144 | [79144-speed-limit-stage-2.json](./79144-speed-limit-stage-2.json) |
 | Speed Liner | 379878 | [379878-speed-liner.json](./379878-speed-liner.json) |
+| Speed Machines | 142566 | [142566-speed-machines.json](./142566-speed-machines.json) |
 | Speed Madness | 236136 | [236136-speed-madness.json](./236136-speed-madness.json) |
 | Speed Master | 211977 | [211977-speed-master.json](./211977-speed-master.json) |
 | Speed Master | 274136 | [274136-speed-master.json](./274136-speed-master.json) |
@@ -22274,6 +22279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinny Fan Zone | 309142 | [309142-spinny-fan-zone.json](./309142-spinny-fan-zone.json) |
 | Spinny Path | 233245 | [233245-spinny-path.json](./233245-spinny-path.json) |
 | Spinny-Roly 64 | 417550 | [417550-spinny-roly-64.json](./417550-spinny-roly-64.json) |
+| Spinny's Journey | 142591 | [142591-spinnys-journey.json](./142591-spinnys-journey.json) |
 | Spinochet | 372030 | [372030-spinochet.json](./372030-spinochet.json) |
 | SpinOff | 199054 | [199054-spinoff.json](./199054-spinoff.json) |
 | Spinout Drifter | 219649 | [219649-spinout-drifter.json](./219649-spinout-drifter.json) |
@@ -29932,6 +29938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SudokuNexus | 344706 | [344706-sudokunexus.json](./344706-sudokunexus.json) |
 | Sudokuro | 123454 | [123454-sudokuro.json](./123454-sudokuro.json) |
 | Sudokuro: Sudoku & Kakuro Games | 337677 | [337677-sudokuro-sudoku-and-kakuro-games.json](./337677-sudokuro-sudoku-and-kakuro-games.json) |
+| Sudoky | 142586 | [142586-sudoky.json](./142586-sudoky.json) |
 | SudoQi | 241557 | [241557-sudoqi.json](./241557-sudoqi.json) |
 | Sudoqube | 204853 | [204853-sudoqube.json](./204853-sudoqube.json) |
 | Suds | 247656 | [247656-suds.json](./247656-suds.json) |
