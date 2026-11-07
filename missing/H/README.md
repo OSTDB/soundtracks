@@ -948,6 +948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halos: React and Match Arcade Game | 59773 | [59773-halos-react-and-match-arcade-game.json](./59773-halos-react-and-match-arcade-game.json) |
 | Halp! | 32467 | [32467-halp.json](./32467-halp.json) |
 | Halt | 219493 | [219493-halt.json](./219493-halt.json) |
+| Halt the Heist! | 185193 | [185193-halt-the-heist.json](./185193-halt-the-heist.json) |
 | Haluz | 322784 | [322784-haluz.json](./322784-haluz.json) |
 | Haluz 2 | 322787 | [322787-haluz-2.json](./322787-haluz-2.json) |
 | HALVA Studio 2023 Bundle | 308618 | [308618-halva-studio-2023-bundle.json](./308618-halva-studio-2023-bundle.json) |
@@ -1322,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handless show | 235580 | [235580-handless-show.json](./235580-handless-show.json) |
 | Handlime | 402439 | [402439-handlime.json](./402439-handlime.json) |
 | Handmancers | 260587 | [260587-handmancers.json](./260587-handmancers.json) |
+| Handoru Island | 185204 | [185204-handoru-island.json](./185204-handoru-island.json) |
 | Handpan | 178786 | [178786-handpan.json](./178786-handpan.json) |
 | HandPass VR | 30755 | [30755-handpass-vr.json](./30755-handpass-vr.json) |
 | Hands | 265999 | [265999-hands.json](./265999-hands.json) |
@@ -3243,6 +3245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart & Soul | 173319 | [173319-heart-and-soul.json](./173319-heart-and-soul.json) |
 | Heart a La Mode | 178784 | [178784-heart-a-la-mode.json](./178784-heart-a-la-mode.json) |
 | Heart Abyss | 197240 | [197240-heart-abyss.json](./197240-heart-abyss.json) |
+| Heart Agency | 185191 | [185191-heart-agency.json](./185191-heart-agency.json) |
 | Heart and Core | 295598 | [295598-heart-and-core.json](./295598-heart-and-core.json) |
 | Heart and Seoul | 30833 | [30833-heart-and-seoul.json](./30833-heart-and-seoul.json) |
 | Heart attack | 195820 | [195820-heart-attack.json](./195820-heart-attack.json) |
