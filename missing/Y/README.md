@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yachoukitan | 321818 | [321818-yachoukitan.json](./321818-yachoukitan.json) |
 | Yacht | 201986 | [201986-yacht.json](./201986-yacht.json) |
 | Yacht | 376676 | [376676-yacht.json](./376676-yacht.json) |
+| Yacht Dice | 173341 | [173341-yacht-dice.json](./173341-yacht-dice.json) |
 | Yacht Dice Family | 360497 | [360497-yacht-dice-family.json](./360497-yacht-dice-family.json) |
 | Yacht Dice: Global League | 187262 | [187262-yacht-dice-global-league.json](./187262-yacht-dice-global-league.json) |
 | Yacht Haven Tycoon: Marina Port Parking Simulator | 300828 | [300828-yacht-haven-tycoon-marina-port-parking-simulator.json](./300828-yacht-haven-tycoon-marina-port-parking-simulator.json) |
