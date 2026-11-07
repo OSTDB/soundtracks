@@ -5611,6 +5611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phi: The Broken Strings | 332599 | [332599-phi-the-broken-strings.json](./332599-phi-the-broken-strings.json) |
 | Phi's Star Challenge | 393099 | [393099-phis-star-challenge.json](./393099-phis-star-challenge.json) |
 | Phibos | 243394 | [243394-phibos.json](./243394-phibos.json) |
+| Phigros | 139534 | [139534-phigros.json](./139534-phigros.json) |
 | Phil | 199371 | [199371-phil.json](./199371-phil.json) |
 | Phil Alone | 222828 | [222828-phil-alone.json](./222828-phil-alone.json) |
 | Phil in the Mirror | 373336 | [373336-phil-in-the-mirror.json](./373336-phil-in-the-mirror.json) |
