@@ -14268,6 +14268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sluggish Morss: A Delicate Time in History | 103237 | [103237-sluggish-morss-a-delicate-time-in-history.json](./103237-sluggish-morss-a-delicate-time-in-history.json) |
 | Sluggish Morss: Ad Infinitum | 103236 | [103236-sluggish-morss-ad-infinitum.json](./103236-sluggish-morss-ad-infinitum.json) |
 | Sluggish Morss: Days of the Purple Sun | 30831 | [30831-sluggish-morss-days-of-the-purple-sun.json](./30831-sluggish-morss-days-of-the-purple-sun.json) |
+| Sluggish Morss: Pattern Circus | 139541 | [139541-sluggish-morss-pattern-circus.json](./139541-sluggish-morss-pattern-circus.json) |
 | Sluggy Jean Takes a Hike | 169365 | [169365-sluggy-jean-takes-a-hike.json](./169365-sluggy-jean-takes-a-hike.json) |
 | Sluggy's Fruit Emporium | 33401 | [33401-sluggys-fruit-emporium.json](./33401-sluggys-fruit-emporium.json) |
 | Slugmania | 225098 | [225098-slugmania.json](./225098-slugmania.json) |
@@ -19947,6 +19948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 142578 | [142578-space-hunter.json](./142578-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
@@ -23896,6 +23898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squishy Bird | 373241 | [373241-squishy-bird.json](./373241-squishy-bird.json) |
 | Squishy League | 407883 | [407883-squishy-league.json](./407883-squishy-league.json) |
 | Squishy Pastries | 300052 | [300052-squishy-pastries.json](./300052-squishy-pastries.json) |
+| Squishy Sports | 139573 | [139573-squishy-sports.json](./139573-squishy-sports.json) |
 | Squishy Tank | 68088 | [68088-squishy-tank.json](./68088-squishy-tank.json) |
 | Squishy the Suicidal Pig | 9874 | [9874-squishy-the-suicidal-pig.json](./9874-squishy-the-suicidal-pig.json) |
 | Squishys Revenge | 256197 | [256197-squishys-revenge.json](./256197-squishys-revenge.json) |
@@ -24385,6 +24388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Discord | 196621 | [196621-star-discord.json](./196621-star-discord.json) |
 | Star Diver Jelly | 340160 | [340160-star-diver-jelly.json](./340160-star-diver-jelly.json) |
 | Star Dream Journey | 337396 | [337396-star-dream-journey.json](./337396-star-dream-journey.json) |
+| Star Drift Evolution | 139529 | [139529-star-drift-evolution.json](./139529-star-drift-evolution.json) |
 | Star Drifter | 13761 | [13761-star-drifter.json](./13761-star-drifter.json) |
 | Star Drifter | 32473 | [32473-star-drifter.json](./32473-star-drifter.json) |
 | Star Driver: Kagayaki no Takuto - Ginga Bishounen Densetsu | 269504 | [269504-star-driver-kagayaki-no-takuto-ginga-bishounen-densetsu.json](./269504-star-driver-kagayaki-no-takuto-ginga-bishounen-densetsu.json) |
@@ -30568,6 +30572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun Haven: Trick or Treat Pack | 272917 | [272917-sun-haven-trick-or-treat-pack.json](./272917-sun-haven-trick-or-treat-pack.json) |
 | Sun Is Dead | 294274 | [294274-sun-is-dead.json](./294274-sun-is-dead.json) |
 | Sun Lotion On My Curvy Asscheeks | 262269 | [262269-sun-lotion-on-my-curvy-asscheeks.json](./262269-sun-lotion-on-my-curvy-asscheeks.json) |
+| Sun Machine | 139538 | [139538-sun-machine.json](./139538-sun-machine.json) |
 | Sun Meadow | 385076 | [385076-sun-meadow.json](./385076-sun-meadow.json) |
 | Sun Meiqi Mystery: Yuer Hutong | 154922 | [154922-sun-meiqi-mystery-yuer-hutong.json](./154922-sun-meiqi-mystery-yuer-hutong.json) |
 | Sūn Měiqí Yí'àn: Dì-èr Jì | 161466 | [161466-sun-meiqi-yian-di-er-ji.json](./161466-sun-meiqi-yian-di-er-ji.json) |
