@@ -1861,6 +1861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | If Platformers Were Rpgs | 181796 | [181796-if-platformers-were-rpgs.json](./181796-if-platformers-were-rpgs.json) |
 | If Red Then Stop | 382241 | [382241-if-red-then-stop.json](./382241-if-red-then-stop.json) |
 | If Solitaire | 417476 | [417476-if-solitaire.json](./417476-if-solitaire.json) |
+| If the Dream of Star | 191999 | [191999-if-the-dream-of-star.json](./191999-if-the-dream-of-star.json) |
 | If U Seek Amy | 327415 | [327415-if-u-seek-amy.json](./327415-if-u-seek-amy.json) |
 | If We Make It Home | 347790 | [347790-if-we-make-it-home.json](./347790-if-we-make-it-home.json) |
 | If we meet after the ending | 283029 | [283029-if-we-meet-after-the-ending.json](./283029-if-we-meet-after-the-ending.json) |
