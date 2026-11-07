@@ -6058,6 +6058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Setup Savior | 350448 | [350448-setup-savior.json](./350448-setup-savior.json) |
 | Setvr | 164185 | [164185-setvr.json](./164185-setvr.json) |
 | Seul (Alone): The entrée | 107863 | [107863-seul-alone-the-entree.json](./107863-seul-alone-the-entree.json) |
+| Seul Alone: The Entrée - Cyoa | 175490 | [175490-seul-alone-the-entree-cyoa.json](./175490-seul-alone-the-entree-cyoa.json) |
 | Seum: The Drunk Side of the Moon | 104676 | [104676-seum-the-drunk-side-of-the-moon.json](./104676-seum-the-drunk-side-of-the-moon.json) |
 | Sev Zero | 21650 | [21650-sev-zero.json](./21650-sev-zero.json) |
 | Seven | 271811 | [271811-seven.json](./271811-seven.json) |
@@ -10229,6 +10230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege! | 28494 | [28494-siege.json](./28494-siege.json) |
 | Siegebreaker | 276967 | [276967-siegebreaker.json](./276967-siegebreaker.json) |
 | Siegecaster | 331169 | [331169-siegecaster.json](./331169-siegecaster.json) |
+| Siegecraft | 175493 | [175493-siegecraft.json](./175493-siegecraft.json) |
 | Siegecraft Commander | 26810 | [26810-siegecraft-commander.json](./26810-siegecraft-commander.json) |
 | Siegecraft Defender | 175525 | [175525-siegecraft-defender.json](./175525-siegecraft-defender.json) |
 | Siegecraft TD | 39212 | [39212-siegecraft-td.json](./39212-siegecraft-td.json) |
@@ -13898,6 +13900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingo Quest Hawaii | 73807 | [73807-slingo-quest-hawaii.json](./73807-slingo-quest-hawaii.json) |
 | Slingo Ricochet | 366449 | [366449-slingo-ricochet.json](./366449-slingo-ricochet.json) |
 | Slingo Supreme | 59471 | [59471-slingo-supreme.json](./59471-slingo-supreme.json) |
+| Slingo Supreme HD | 175456 | [175456-slingo-supreme-hd.json](./175456-slingo-supreme-hd.json) |
 | Slingoween | 338940 | [338940-slingoween.json](./338940-slingoween.json) |
 | Slingray | 62494 | [62494-slingray.json](./62494-slingray.json) |
 | Slingshell, by Muno! | 245729 | [245729-slingshell-by-muno.json](./245729-slingshell-by-muno.json) |
@@ -20964,8 +20967,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Mission | 360512 | [360512-special-mission.json](./360512-special-mission.json) |
 | Special Operation 85: Hostage Rescue | 191673 | [191673-special-operation-85-hostage-rescue.json](./191673-special-operation-85-hostage-rescue.json) |
 | Special Operations | 131865 | [131865-special-operations.json](./131865-special-operations.json) |
+| Special Ops | 175473 | [175473-special-ops.json](./175473-special-ops.json) |
 | Special Ops | 223908 | [223908-special-ops.json](./223908-special-ops.json) |
 | Special Ops | 271266 | [271266-special-ops.json](./271266-special-ops.json) |
+| Special Ops for iPad | 175503 | [175503-special-ops-for-ipad.json](./175503-special-ops-for-ipad.json) |
 | Special Permit for Cabela's Big Game Hunter | 69687 | [69687-special-permit-for-cabelas-big-game-hunter.json](./69687-special-permit-for-cabelas-big-game-hunter.json) |
 | Special Sampler | 55925 | [55925-special-sampler.json](./55925-special-sampler.json) |
 | Special Squad vs. Zombies | 244942 | [244942-special-squad-vs-zombies.json](./244942-special-squad-vs-zombies.json) |
@@ -22361,6 +22366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirulena Interceptor | 291231 | [291231-spirulena-interceptor.json](./291231-spirulena-interceptor.json) |
 | Spish | 169421 | [169421-spish.json](./169421-spish.json) |
 | Spitball Sparky | 145236 | [145236-spitball-sparky.json](./145236-spitball-sparky.json) |
+| Spite & Malice | 175485 | [175485-spite-and-malice.json](./175485-spite-and-malice.json) |
 | Spite and Malice | 145282 | [145282-spite-and-malice.json](./145282-spite-and-malice.json) |
 | Spiteful Lovers in a Perfect World | 308539 | [308539-spiteful-lovers-in-a-perfect-world.json](./308539-spiteful-lovers-in-a-perfect-world.json) |
 | Spitfire | 282629 | [282629-spitfire.json](./282629-spitfire.json) |
@@ -30707,6 +30713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Baby | 97678 | [97678-super-baby.json](./97678-super-baby.json) |
 | Super Back to the Future II | 8520 | [8520-super-back-to-the-future-ii.json](./8520-super-back-to-the-future-ii.json) |
 | Super Bad Hero | 296504 | [296504-super-bad-hero.json](./296504-super-bad-hero.json) |
+| Super Badminton 2010 HD | 175483 | [175483-super-badminton-2010-hd.json](./175483-super-badminton-2010-hd.json) |
 | Super Bafo Championship | 306784 | [306784-super-bafo-championship.json](./306784-super-bafo-championship.json) |
 | Super Bagman | 40003 | [40003-super-bagman.json](./40003-super-bagman.json) |
 | Super Baldy Kart | 268355 | [268355-super-baldy-kart.json](./268355-super-baldy-kart.json) |
