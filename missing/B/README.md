@@ -4976,6 +4976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear With Me: The Complete Collection | 116990 | [116990-bear-with-me-the-complete-collection.json](./116990-bear-with-me-the-complete-collection.json) |
 | Bear With Me: The Lost Robots | 117105 | [117105-bear-with-me-the-lost-robots.json](./117105-bear-with-me-the-lost-robots.json) |
 | Bear-ly There | 134971 | [134971-bear-ly-there.json](./134971-bear-ly-there.json) |
+| Bear-Truck Trucker | 177144 | [177144-bear-truck-trucker.json](./177144-bear-truck-trucker.json) |
 | Bear, Vodka, Balalaika: Cyberpunk | 168768 | [168768-bear-vodka-balalaika-cyberpunk.json](./168768-bear-vodka-balalaika-cyberpunk.json) |
 | Bear, Vodka, Fall of Berlin! | 131836 | [131836-bear-vodka-fall-of-berlin.json](./131836-bear-vodka-fall-of-berlin.json) |
 | Bear, Vodka, Stalingrad! | 182601 | [182601-bear-vodka-stalingrad.json](./182601-bear-vodka-stalingrad.json) |
@@ -5885,6 +5886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beel the Pollinator | 401372 | [401372-beel-the-pollinator.json](./401372-beel-the-pollinator.json) |
 | Beeline | 15669 | [15669-beeline.json](./15669-beeline.json) |
 | Beellionaire Idle | 422147 | [422147-beellionaire-idle.json](./422147-beellionaire-idle.json) |
+| Beemis: The Curse of God | 177130 | [177130-beemis-the-curse-of-god.json](./177130-beemis-the-curse-of-god.json) |
 | Beena Town he Youkoso | 300416 | [300416-beena-town-he-youkoso.json](./300416-beena-town-he-youkoso.json) |
 | Beencremental | 408434 | [408434-beencremental.json](./408434-beencremental.json) |
 | Beeny | 219462 | [219462-beeny.json](./219462-beeny.json) |
@@ -17370,6 +17372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullwagon Business | 278554 | [278554-bullwagon-business.json](./278554-bullwagon-business.json) |
 | Bully Ball Brigade | 347727 | [347727-bully-ball-brigade.json](./347727-bully-ball-brigade.json) |
 | Bully Ball Soccer | 296653 | [296653-bully-ball-soccer.json](./296653-bully-ball-soccer.json) |
+| Bully Billy | 177146 | [177146-bully-billy.json](./177146-bully-billy.json) |
 | Bully Breaker | 377738 | [377738-bully-breaker.json](./377738-bully-breaker.json) |
 | Bully Mobile | 85796 | [85796-bully-mobile.json](./85796-bully-mobile.json) |
 | Bully Online | 381884 | [381884-bully-online.json](./381884-bully-online.json) |
