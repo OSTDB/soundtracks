@@ -503,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Manager | 390198 | [390198-racing-manager.json](./390198-racing-manager.json) |
 | Racing Manager 2014 | 9419 | [9419-racing-manager-2014.json](./9419-racing-manager-2014.json) |
 | Racing Mania 2 | 71722 | [71722-racing-mania-2.json](./71722-racing-mania-2.json) |
+| Racing Master | 174988 | [174988-racing-master.json](./174988-racing-master.json) |
 | Racing Master | 212547 | [212547-racing-master.json](./212547-racing-master.json) |
 | Racing Megapack | 317964 | [317964-racing-megapack.json](./317964-racing-megapack.json) |
 | Racing Moto | 350770 | [350770-racing-moto.json](./350770-racing-moto.json) |
@@ -2994,6 +2995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Racing 2 | 11652 | [11652-real-racing-2.json](./11652-real-racing-2.json) |
 | Real Racing 2 HD | 90669 | [90669-real-racing-2-hd.json](./90669-real-racing-2-hd.json) |
 | Real Racing GTI | 343794 | [343794-real-racing-gti.json](./343794-real-racing-gti.json) |
+| Real Racing Next | 174956 | [174956-real-racing-next.json](./174956-real-racing-next.json) |
 | Real Rage | 207716 | [207716-real-rage.json](./207716-real-rage.json) |
 | Real Rally | 240493 | [240493-real-rally.json](./240493-real-rally.json) |
 | Real Rash Flying Copter | 100328 | [100328-real-rash-flying-copter.json](./100328-real-rash-flying-copter.json) |
