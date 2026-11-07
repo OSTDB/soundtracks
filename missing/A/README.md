@@ -10501,6 +10501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Squad | 159518 | [159518-anime-squad.json](./159518-anime-squad.json) |
 | Anime Standing | 142969 | [142969-anime-standing.json](./142969-anime-standing.json) |
 | Anime Story Otome Game: Comino | 298878 | [298878-anime-story-otome-game-comino.json](./298878-anime-story-otome-game-comino.json) |
+| Anime Street Fight | 150851 | [150851-anime-street-fight.json](./150851-anime-street-fight.json) |
 | Anime Studio Saga | 287237 | [287237-anime-studio-saga.json](./287237-anime-studio-saga.json) |
 | Anime Sudoku | 263324 | [263324-anime-sudoku.json](./263324-anime-sudoku.json) |
 | Anime Sunset Ride | 153014 | [153014-anime-sunset-ride.json](./153014-anime-sunset-ride.json) |
@@ -18536,6 +18537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azooma Escape | 311549 | [311549-azooma-escape.json](./311549-azooma-escape.json) |
 | Azorius | 261729 | [261729-azorius.json](./261729-azorius.json) |
 | Azoth | 338723 | [338723-azoth.json](./338723-azoth.json) |
+| Azrael | 150850 | [150850-azrael.json](./150850-azrael.json) |
 | Azrael | 192457 | [192457-azrael.json](./192457-azrael.json) |
 | Azrael | 206572 | [206572-azrael.json](./206572-azrael.json) |
 | Azrael | 209697 | [209697-azrael.json](./209697-azrael.json) |
