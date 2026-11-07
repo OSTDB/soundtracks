@@ -5964,7 +5964,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -15806,6 +15805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl Therapy | 399575 | [399575-monster-girl-therapy.json](./399575-monster-girl-therapy.json) |
 | Monster Girl's Labyrinth | 210470 | [210470-monster-girls-labyrinth.json](./210470-monster-girls-labyrinth.json) |
 | Monster Girls and the Mysterious Adventure 2 | 195290 | [195290-monster-girls-and-the-mysterious-adventure-2.json](./195290-monster-girls-and-the-mysterious-adventure-2.json) |
+| Monster Girls Gaynerations: Ghoulfriends For Life | 178727 | [178727-monster-girls-gaynerations-ghoulfriends-for-life.json](./178727-monster-girls-gaynerations-ghoulfriends-for-life.json) |
 | Monster Girls Salon Dress Up | 106895 | [106895-monster-girls-salon-dress-up.json](./106895-monster-girls-salon-dress-up.json) |
 | Monster Girls Survival & Craft 2040 | 421361 | [421361-monster-girls-survival-and-craft-2040.json](./421361-monster-girls-survival-and-craft-2040.json) |
 | Monster Girls You-Ki Chan | 131748 | [131748-monster-girls-you-ki-chan.json](./131748-monster-girls-you-ki-chan.json) |
@@ -16139,6 +16139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Prom: Second Term | 155070 | [155070-monster-prom-second-term.json](./155070-monster-prom-second-term.json) |
 | Monster Prom: XXL | 132997 | [132997-monster-prom-xxl.json](./132997-monster-prom-xxl.json) |
 | Monster Pub | 100561 | [100561-monster-pub.json](./100561-monster-pub.json) |
+| Monster Pub: Chapter 1 | 178740 | [178740-monster-pub-chapter-1.json](./178740-monster-pub-chapter-1.json) |
 | Monster Pub: Chapter 2 | 178827 | [178827-monster-pub-chapter-2.json](./178827-monster-pub-chapter-2.json) |
 | Monster Pub: Chapter 3 | 347078 | [347078-monster-pub-chapter-3.json](./347078-monster-pub-chapter-3.json) |
 | Monster Punish | 419627 | [419627-monster-punish.json](./419627-monster-punish.json) |
