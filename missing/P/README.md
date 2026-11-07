@@ -3589,10 +3589,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Building Nightmare | 389603 | [389603-pc-building-nightmare.json](./389603-pc-building-nightmare.json) |
 | PC Building Simulator | 27792 | [27792-pc-building-simulator.json](./27792-pc-building-simulator.json) |
 | PC Building Simulator 2 | 194247 | [194247-pc-building-simulator-2.json](./194247-pc-building-simulator-2.json) |
+| PC Building Simulator: Aorus Workshop | 154681 | [154681-pc-building-simulator-aorus-workshop.json](./154681-pc-building-simulator-aorus-workshop.json) |
 | PC Building Simulator: Deadstick Case | 124783 | [124783-pc-building-simulator-deadstick-case.json](./124783-pc-building-simulator-deadstick-case.json) |
+| PC Building Simulator: Esports Expansion | 154683 | [154683-pc-building-simulator-esports-expansion.json](./154683-pc-building-simulator-esports-expansion.json) |
+| PC Building Simulator: Evga Workshop | 154685 | [154685-pc-building-simulator-evga-workshop.json](./154685-pc-building-simulator-evga-workshop.json) |
 | PC Building Simulator: Fractal Workshop | 159688 | [159688-pc-building-simulator-fractal-workshop.json](./159688-pc-building-simulator-fractal-workshop.json) |
+| PC Building Simulator: GOG Galaxy Edition Case | 154684 | [154684-pc-building-simulator-gog-galaxy-edition-case.json](./154684-pc-building-simulator-gog-galaxy-edition-case.json) |
 | PC Building Simulator: Good Company Case | 124811 | [124811-pc-building-simulator-good-company-case.json](./124811-pc-building-simulator-good-company-case.json) |
 | PC Building Simulator: IT Expansion | 250032 | [250032-pc-building-simulator-it-expansion.json](./250032-pc-building-simulator-it-expansion.json) |
+| PC Building Simulator: Nzxt Workshop | 154682 | [154682-pc-building-simulator-nzxt-workshop.json](./154682-pc-building-simulator-nzxt-workshop.json) |
+| PC Building Simulator: Overclockers UK Workshop | 154686 | [154686-pc-building-simulator-overclockers-uk-workshop.json](./154686-pc-building-simulator-overclockers-uk-workshop.json) |
 | PC Calciatori 2004 | 71304 | [71304-pc-calciatori-2004.json](./71304-pc-calciatori-2004.json) |
 | PC Calciatori 2005 | 100036 | [100036-pc-calciatori-2005.json](./100036-pc-calciatori-2005.json) |
 | PC Calcio 7.0 | 298779 | [298779-pc-calcio-7-0.json](./298779-pc-calcio-7-0.json) |
@@ -14093,6 +14099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prehistoric Warcraft | 235703 | [235703-prehistoric-warcraft.json](./235703-prehistoric-warcraft.json) |
 | PrehistoricBound | 354908 | [354908-prehistoricbound.json](./354908-prehistoricbound.json) |
 | Prehistorik | 10717 | [10717-prehistorik.json](./10717-prehistorik.json) |
+| Prehistorik 1+2 | 154702 | [154702-prehistorik-1-2.json](./154702-prehistorik-1-2.json) |
 | Prehistorik Man | 159266 | [159266-prehistorik-man.json](./159266-prehistorik-man.json) |
 | Prehistorik Man | 49030 | [49030-prehistorik-man.json](./49030-prehistorik-man.json) |
 | Prehistorik Man | 85589 | [85589-prehistorik-man.json](./85589-prehistorik-man.json) |
