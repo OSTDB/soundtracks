@@ -7243,6 +7243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Portals: Eternal Balance - Collector's Edition | 349476 | [349476-hidden-portals-eternal-balance-collectors-edition.json](./349476-hidden-portals-eternal-balance-collectors-edition.json) |
 | Hidden Post-Apocalyptic 2 Top-Down 3D | 237811 | [237811-hidden-post-apocalyptic-2-top-down-3d.json](./237811-hidden-post-apocalyptic-2-top-down-3d.json) |
 | Hidden Post-Apocalyptic 4 Top-Down 3D | 231718 | [231718-hidden-post-apocalyptic-4-top-down-3d.json](./231718-hidden-post-apocalyptic-4-top-down-3d.json) |
+| Hidden Post-Apocalyptic Top-Down 3D | 192486 | [192486-hidden-post-apocalyptic-top-down-3d.json](./192486-hidden-post-apocalyptic-top-down-3d.json) |
 | Hidden Protector | 112714 | [112714-hidden-protector.json](./112714-hidden-protector.json) |
 | Hidden Rabbit | 397033 | [397033-hidden-rabbit.json](./397033-hidden-rabbit.json) |
 | Hidden Rabbit 2 | 412386 | [412386-hidden-rabbit-2.json](./412386-hidden-rabbit-2.json) |
@@ -9429,6 +9430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honey Trap Escape: Family of Villains and the Cage | 366110 | [366110-honey-trap-escape-family-of-villains-and-the-cage.json](./366110-honey-trap-escape-family-of-villains-and-the-cage.json) |
 | Honey Twigs | 185376 | [185376-honey-twigs.json](./185376-honey-twigs.json) |
 | Honey Vibes | 287894 | [287894-honey-vibes.json](./287894-honey-vibes.json) |
+| Honey Villa | 192504 | [192504-honey-villa.json](./192504-honey-villa.json) |
 | Honey, I Joined a Cult | 99634 | [99634-honey-i-joined-a-cult.json](./99634-honey-i-joined-a-cult.json) |
 | Honey's Sweet Revenge | 265441 | [265441-honeys-sweet-revenge.json](./265441-honeys-sweet-revenge.json) |
 | Honeyblaster | 95436 | [95436-honeyblaster.json](./95436-honeyblaster.json) |
@@ -12112,6 +12114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Yankee | 55159 | [55159-hunting-yankee.json](./55159-hunting-yankee.json) |
 | Huntloween | 395953 | [395953-huntloween.json](./395953-huntloween.json) |
 | HuntNPrey | 326181 | [326181-huntnprey.json](./326181-huntnprey.json) |
+| Huntress: The Cursed Village | 192528 | [192528-huntress-the-cursed-village.json](./192528-huntress-the-cursed-village.json) |
 | Huntscape | 219692 | [219692-huntscape.json](./219692-huntscape.json) |
 | Huntsman | 337368 | [337368-huntsman.json](./337368-huntsman.json) |
 | Huntsman Against Darkness | 408937 | [408937-huntsman-against-darkness.json](./408937-huntsman-against-darkness.json) |
@@ -12509,6 +12512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperaction | 152478 | [152478-hyperaction.json](./152478-hyperaction.json) |
 | Hyperacusis | 310327 | [310327-hyperacusis.json](./310327-hyperacusis.json) |
 | Hyperbahn | 236993 | [236993-hyperbahn.json](./236993-hyperbahn.json) |
+| Hyperball Tachyon | 192533 | [192533-hyperball-tachyon.json](./192533-hyperball-tachyon.json) |
 | Hyperballoid 2: Time Rider | 90499 | [90499-hyperballoid-2-time-rider.json](./90499-hyperballoid-2-time-rider.json) |
 | Hyperballoid Deluxe: Survival Pack | 130846 | [130846-hyperballoid-deluxe-survival-pack.json](./130846-hyperballoid-deluxe-survival-pack.json) |
 | Hyperbaroque | 186759 | [186759-hyperbaroque.json](./186759-hyperbaroque.json) |
