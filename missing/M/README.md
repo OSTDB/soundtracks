@@ -19097,6 +19097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ms. Splosion Man | 15140 | [15140-ms-splosion-man.json](./15140-ms-splosion-man.json) |
 | Ms. Squeaker's Home for the Sick | 109402 | [109402-ms-squeakers-home-for-the-sick.json](./109402-ms-squeakers-home-for-the-sick.json) |
 | Ms. Terry's Pleasure Mansion | 395060 | [395060-ms-terrys-pleasure-mansion.json](./395060-ms-terrys-pleasure-mansion.json) |
+| Ms.Director | 148080 | [148080-ms-director.json](./148080-ms-director.json) |
 | Ms.Lemons | 240156 | [240156-ms-lemons.json](./240156-ms-lemons.json) |
 | MSCR | 310930 | [310930-mscr.json](./310930-mscr.json) |
 | MSI Electric City | 32177 | [32177-msi-electric-city.json](./32177-msi-electric-city.json) |
@@ -19213,6 +19214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muffles' Life Sentence: Episode 3 | 344658 | [344658-muffles-life-sentence-episode-3.json](./344658-muffles-life-sentence-episode-3.json) |
 | Muffy Boy | 61271 | [61271-muffy-boy.json](./61271-muffy-boy.json) |
 | Mug | 322830 | [322830-mug.json](./322830-mug.json) |
+| Mug Smashers | 148075 | [148075-mug-smashers.json](./148075-mug-smashers.json) |
 | Muga | 202889 | [202889-muga.json](./202889-muga.json) |
 | Mugalon Poker | 232351 | [232351-mugalon-poker.json](./232351-mugalon-poker.json) |
 | Mugamuchuu | 150166 | [150166-mugamuchuu.json](./150166-mugamuchuu.json) |
