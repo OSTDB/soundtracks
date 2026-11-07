@@ -7010,6 +7010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess: The Lost Pieces | 216702 | [216702-chess-the-lost-pieces.json](./216702-chess-the-lost-pieces.json) |
 | Chess! | 249932 | [249932-chess.json](./249932-chess.json) |
 | Chess.com | 121957 | [121957-chess-com.json](./121957-chess-com.json) |
+| Chess'Extra | 140733 | [140733-chessextra.json](./140733-chessextra.json) |
 | Chess+ | 102828 | [102828-chess.json](./102828-chess.json) |
 | Chess++ | 163679 | [163679-chess.json](./163679-chess.json) |
 | Chess10 | 337544 | [337544-chess10.json](./337544-chess10.json) |
@@ -14463,6 +14464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookie Game | 266299 | [266299-cookie-game.json](./266299-cookie-game.json) |
 | Cookie Gluttons TD | 213334 | [213334-cookie-gluttons-td.json](./213334-cookie-gluttons-td.json) |
 | Cookie Invaders | 133124 | [133124-cookie-invaders.json](./133124-cookie-invaders.json) |
+| Cookie Jam | 140739 | [140739-cookie-jam.json](./140739-cookie-jam.json) |
 | Cookie Jam Blast | 86780 | [86780-cookie-jam-blast.json](./86780-cookie-jam-blast.json) |
 | Cookie Match: Enhanced Edition | 232451 | [232451-cookie-match-enhanced-edition.json](./232451-cookie-match-enhanced-edition.json) |
 | Cookie Monster Munch | 40587 | [40587-cookie-monster-munch.json](./40587-cookie-monster-munch.json) |
@@ -16862,6 +16864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Bunny | 52320 | [52320-crazy-bunny.json](./52320-crazy-bunny.json) |
 | Crazy Burger | 208796 | [208796-crazy-burger.json](./208796-crazy-burger.json) |
 | Crazy Bus | 268477 | [268477-crazy-bus.json](./268477-crazy-bus.json) |
+| Crazy Cake Swap | 140740 | [140740-crazy-cake-swap.json](./140740-crazy-cake-swap.json) |
 | Crazy Cakes | 366415 | [366415-crazy-cakes.json](./366415-crazy-cakes.json) |
 | Crazy Cakes 2 | 354969 | [354969-crazy-cakes-2.json](./354969-crazy-cakes-2.json) |
 | Crazy Candy | 318528 | [318528-crazy-candy.json](./318528-crazy-candy.json) |
@@ -17045,6 +17048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Kickers | 57615 | [57615-crazy-kickers.json](./57615-crazy-kickers.json) |
 | Crazy Killer | 144678 | [144678-crazy-killer.json](./144678-crazy-killer.json) |
 | Crazy Kings | 114734 | [114734-crazy-kings.json](./114734-crazy-kings.json) |
+| Crazy Kitchen | 140741 | [140741-crazy-kitchen.json](./140741-crazy-kitchen.json) |
 | Crazy Kitchen | 265675 | [265675-crazy-kitchen.json](./265675-crazy-kitchen.json) |
 | Crazy Kong | 130753 | [130753-crazy-kong.json](./130753-crazy-kong.json) |
 | Crazy Kong | 13833 | [13833-crazy-kong.json](./13833-crazy-kong.json) |
