@@ -1751,6 +1751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangster City Cruise - Mobster Crime Shooter | 88636 | [88636-gangster-city-cruise-mobster-crime-shooter.json](./88636-gangster-city-cruise-mobster-crime-shooter.json) |
 | Gangster City: Mafia Car Driving | 234645 | [234645-gangster-city-mafia-car-driving.json](./234645-gangster-city-mafia-car-driving.json) |
 | Gangster Coin Pusher | 255236 | [255236-gangster-coin-pusher.json](./255236-gangster-coin-pusher.json) |
+| Gangster Empire: Vendetta | 150821 | [150821-gangster-empire-vendetta.json](./150821-gangster-empire-vendetta.json) |
 | Gangster Granny | 38894 | [38894-gangster-granny.json](./38894-gangster-granny.json) |
 | Gangster Granny 3 | 196606 | [196606-gangster-granny-3.json](./196606-gangster-granny-3.json) |
 | Gangster Life: Criminal Untold , Cars, Theft, Police | 241889 | [241889-gangster-life-criminal-untold-cars-theft-police.json](./241889-gangster-life-criminal-untold-cars-theft-police.json) |
@@ -9079,6 +9080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Green vs Tan | 416834 | [416834-green-vs-tan.json](./416834-green-vs-tan.json) |
 | Green Wave | 397088 | [397088-green-wave.json](./397088-green-wave.json) |
 | Green Wind | 209638 | [209638-green-wind.json](./209638-green-wind.json) |
+| Green With Energy | 150841 | [150841-green-with-energy.json](./150841-green-with-energy.json) |
 | Green World: Catharsis | 169744 | [169744-green-world-catharsis.json](./169744-green-world-catharsis.json) |
 | Green Wounds | 197190 | [197190-green-wounds.json](./197190-green-wounds.json) |
 | Green Zone | 254768 | [254768-green-zone.json](./254768-green-zone.json) |
