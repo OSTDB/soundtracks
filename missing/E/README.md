@@ -830,6 +830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Weaver | 290107 | [290107-echo-weaver.json](./290107-echo-weaver.json) |
 | Echo Wisp | 208638 | [208638-echo-wisp.json](./208638-echo-wisp.json) |
 | Echo_Squadrons | 256138 | [256138-echo-squadrons.json](./256138-echo-squadrons.json) |
+| Echo: An Indie Tale | 173381 | [173381-echo-an-indie-tale.json](./173381-echo-an-indie-tale.json) |
 | Echo: Benefits | 141823 | [141823-echo-benefits.json](./141823-echo-benefits.json) |
 | Echo: Defy Death | 303500 | [303500-echo-defy-death.json](./303500-echo-defy-death.json) |
 | Echo: Digital Deluxe Edition | 212910 | [212910-echo-digital-deluxe-edition.json](./212910-echo-digital-deluxe-edition.json) |
@@ -6063,6 +6064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal End | 295369 | [295369-eternal-end.json](./295369-eternal-end.json) |
 | Eternal Escape: Castle of Shadows | 307108 | [307108-eternal-escape-castle-of-shadows.json](./307108-eternal-escape-castle-of-shadows.json) |
 | Eternal Essence | 126383 | [126383-eternal-essence.json](./126383-eternal-essence.json) |
+| Eternal Evil | 173337 | [173337-eternal-evil.json](./173337-eternal-evil.json) |
 | Eternal Evolution | 197358 | [197358-eternal-evolution.json](./197358-eternal-evolution.json) |
 | Eternal Ex Machina: Hawz Krarace | 369309 | [369309-eternal-ex-machina-hawz-krarace.json](./369309-eternal-ex-machina-hawz-krarace.json) |
 | Eternal Exile: Beneath the Darkness | 345842 | [345842-eternal-exile-beneath-the-darkness.json](./345842-eternal-exile-beneath-the-darkness.json) |
