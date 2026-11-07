@@ -10708,6 +10708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Romancia: Another Legend | 71968 | [71968-romancia-another-legend.json](./71968-romancia-another-legend.json) |
 | Romancia: Dragon Slayer Jr. | 41727 | [41727-romancia-dragon-slayer-jr.json](./41727-romancia-dragon-slayer-jr.json) |
 | Romancing Flesh | 199074 | [199074-romancing-flesh.json](./199074-romancing-flesh.json) |
+| Romancing Kanon: Eien no Shoujo Densetsu | 183117 | [183117-romancing-kanon-eien-no-shoujo-densetsu.json](./183117-romancing-kanon-eien-no-shoujo-densetsu.json) |
 | Romancing Mario | 268107 | [268107-romancing-mario.json](./268107-romancing-mario.json) |
 | Romancing Monarchy | 105137 | [105137-romancing-monarchy.json](./105137-romancing-monarchy.json) |
 | Romancing of Heroes: Boys' Side | 180406 | [180406-romancing-of-heroes-boys-side.json](./180406-romancing-of-heroes-boys-side.json) |
@@ -10933,6 +10934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room Map | 254937 | [254937-room-map.json](./254937-room-map.json) |
 | Room No. 9 | 156575 | [156575-room-no-9.json](./156575-room-no-9.json) |
 | Room of 1000 Snakes | 62436 | [62436-room-of-1000-snakes.json](./62436-room-of-1000-snakes.json) |
+| Room of Batik | 183161 | [183161-room-of-batik.json](./183161-room-of-batik.json) |
 | Room of Depression | 216572 | [216572-room-of-depression.json](./216572-room-of-depression.json) |
 | Room of Doom | 18533 | [18533-room-of-doom.json](./18533-room-of-doom.json) |
 | Room of Halloween | 229153 | [229153-room-of-halloween.json](./229153-room-of-halloween.json) |
