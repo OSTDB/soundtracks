@@ -6303,6 +6303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wisp Catacombs | 244690 | [244690-wisp-catacombs.json](./244690-wisp-catacombs.json) |
 | Wisp Child | 265257 | [265257-wisp-child.json](./265257-wisp-child.json) |
 | Wisper | 119223 | [119223-wisper.json](./119223-wisper.json) |
+| Wisper | 171155 | [171155-wisper.json](./171155-wisper.json) |
 | Wispera | 216825 | [216825-wispera.json](./216825-wispera.json) |
 | Wisplight | 248008 | [248008-wisplight.json](./248008-wisplight.json) |
 | Wisps of the Elements | 312544 | [312544-wisps-of-the-elements.json](./312544-wisps-of-the-elements.json) |
