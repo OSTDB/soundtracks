@@ -57,6 +57,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.A.S.E | 80395 | [80395-b-a-s-e.json](./80395-b-a-s-e.json) |
 | B.A.S.E. Jumping | 137095 | [137095-b-a-s-e-jumping.json](./137095-b-a-s-e-jumping.json) |
 | B.A.S.E. Jumping Game | 60786 | [60786-b-a-s-e-jumping-game.json](./60786-b-a-s-e-jumping-game.json) |
+| B.A.T. | 180919 | [180919-b-a-t.json](./180919-b-a-t.json) |
 | B.A.T. | 185657 | [185657-b-a-t.json](./185657-b-a-t.json) |
 | B.A.T. | 2314 | [2314-b-a-t.json](./2314-b-a-t.json) |
 | B.A.T. II: The Koshan Conspiracy | 2315 | [2315-b-a-t-ii-the-koshan-conspiracy.json](./2315-b-a-t-ii-the-koshan-conspiracy.json) |
@@ -965,7 +966,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -12289,6 +12289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bok | 187149 | [187149-bok.json](./187149-bok.json) |
 | Bok-Bok: A Chicken Dating Sim | 148930 | [148930-bok-bok-a-chicken-dating-sim.json](./148930-bok-bok-a-chicken-dating-sim.json) |
 | Bok-Bok: Hen Tie Club | 196401 | [196401-bok-bok-hen-tie-club.json](./196401-bok-bok-hen-tie-club.json) |
+| Bokdown | 180901 | [180901-bokdown.json](./180901-bokdown.json) |
 | BoKe Travelog | 292128 | [292128-boke-travelog.json](./292128-boke-travelog.json) |
 | Bokeh Adventure | 342561 | [342561-bokeh-adventure.json](./342561-bokeh-adventure.json) |
 | Bokehme | 201761 | [201761-bokehme.json](./201761-bokehme.json) |
@@ -13014,6 +13015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Book Collector | 212688 | [212688-book-collector.json](./212688-book-collector.json) |
 | Book End | 221419 | [221419-book-end.json](./221419-book-end.json) |
 | Book Head Monster | 359695 | [359695-book-head-monster.json](./359695-book-head-monster.json) |
+| Book Hunter | 180882 | [180882-book-hunter.json](./180882-book-hunter.json) |
 | Book Hunter | 190930 | [190930-book-hunter.json](./190930-book-hunter.json) |
 | Book Inside | 392921 | [392921-book-inside.json](./392921-book-inside.json) |
 | Book Nook | 404843 | [404843-book-nook.json](./404843-book-nook.json) |
@@ -15177,6 +15179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakers Revenge Chicago | 406501 | [406501-breakers-revenge-chicago.json](./406501-breakers-revenge-chicago.json) |
 | BreakEven: Idle | 409865 | [409865-breakeven-idle.json](./409865-breakeven-idle.json) |
 | Breakfall: Nuclear Winter | 342616 | [342616-breakfall-nuclear-winter.json](./342616-breakfall-nuclear-winter.json) |
+| Breakfast at Cemetery | 180910 | [180910-breakfast-at-cemetery.json](./180910-breakfast-at-cemetery.json) |
 | Breakfast at Twilight | 271771 | [271771-breakfast-at-twilight.json](./271771-breakfast-at-twilight.json) |
 | Breakfast Bar Tycoon | 144578 | [144578-breakfast-bar-tycoon.json](./144578-breakfast-bar-tycoon.json) |
 | Breakfast Bar Tycoon + Expansion pack | 238015 | [238015-breakfast-bar-tycoon-expansion-pack.json](./238015-breakfast-bar-tycoon-expansion-pack.json) |
