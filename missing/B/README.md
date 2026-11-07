@@ -969,7 +969,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7588,6 +7587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Mess | 176354 | [176354-big-mess.json](./176354-big-mess.json) |
 | Big Mountain 2000 | 3367 | [3367-big-mountain-2000.json](./3367-big-mountain-2000.json) |
 | Big Mountain Snowboarding | 88322 | [88322-big-mountain-snowboarding.json](./88322-big-mountain-snowboarding.json) |
+| Big Mushroom RPG | 166915 | [166915-big-mushroom-rpg.json](./166915-big-mushroom-rpg.json) |
 | Big Mutha Truckers | 248456 | [248456-big-mutha-truckers.json](./248456-big-mutha-truckers.json) |
 | Big Mutha Truckers | 248457 | [248457-big-mutha-truckers.json](./248457-big-mutha-truckers.json) |
 | Big Mutha Truckers | 3809 | [3809-big-mutha-truckers.json](./3809-big-mutha-truckers.json) |
@@ -10689,6 +10689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockdown | 157204 | [157204-blockdown.json](./157204-blockdown.json) |
 | Blocked and Loaded | 81890 | [81890-blocked-and-loaded.json](./81890-blocked-and-loaded.json) |
 | Blocked In | 278559 | [278559-blocked-in.json](./278559-blocked-in.json) |
+| Blocked Out: Red V Blue | 166881 | [166881-blocked-out-red-v-blue.json](./166881-blocked-out-red-v-blue.json) |
 | Blocked Up | 183897 | [183897-blocked-up.json](./183897-blocked-up.json) |
 | Blocked Zona | 200565 | [200565-blocked-zona.json](./200565-blocked-zona.json) |
 | Blocked-Out! | 305805 | [305805-blocked-out.json](./305805-blocked-out.json) |
