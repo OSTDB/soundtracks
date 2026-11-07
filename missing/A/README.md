@@ -6220,6 +6220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alarm for Cobra 11: Hot Pursuit | 68263 | [68263-alarm-for-cobra-11-hot-pursuit.json](./68263-alarm-for-cobra-11-hot-pursuit.json) |
 | Alarm für Cobra 11: Das Spiel zur RTL-Erfolgsserie | 125961 | [125961-alarm-fur-cobra-11-das-spiel-zur-rtl-erfolgsserie.json](./125961-alarm-fur-cobra-11-das-spiel-zur-rtl-erfolgsserie.json) |
 | Alarm für Cobra 11: Vol. III | 81170 | [81170-alarm-fur-cobra-11-vol-iii.json](./81170-alarm-fur-cobra-11-vol-iii.json) |
+| Alarm! Großeinsatz für Laura und Alex | 146455 | [146455-alarm-gro-einsatz-fur-laura-und-alex.json](./146455-alarm-gro-einsatz-fur-laura-und-alex.json) |
 | Alarmy | 423412 | [423412-alarmy.json](./423412-alarmy.json) |
 | Alaryia | 400691 | [400691-alaryia.json](./400691-alaryia.json) |
 | Alas Astra | 150928 | [150928-alas-astra.json](./150928-alas-astra.json) |
@@ -7848,6 +7849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha One | 173333 | [173333-alpha-one.json](./173333-alpha-one.json) |
 | Alpha One | 249644 | [249644-alpha-one.json](./249644-alpha-one.json) |
 | Alpha Pairs | 203854 | [203854-alpha-pairs.json](./203854-alpha-pairs.json) |
+| Alpha Particle | 146439 | [146439-alpha-particle.json](./146439-alpha-particle.json) |
 | Alpha Point | 361730 | [361730-alpha-point.json](./361730-alpha-point.json) |
 | Alpha Polaris | 14199 | [14199-alpha-polaris.json](./14199-alpha-polaris.json) |
 | Alpha Prime | 9173 | [9173-alpha-prime.json](./9173-alpha-prime.json) |
@@ -13705,6 +13707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argh! | 235835 | [235835-argh.json](./235835-argh.json) |
 | Argh! Earthlings! | 175435 | [175435-argh-earthlings.json](./175435-argh-earthlings.json) |
 | Arghh, There's a Killer Chasing Me! | 188114 | [188114-arghh-theres-a-killer-chasing-me.json](./188114-arghh-theres-a-killer-chasing-me.json) |
+| Argo | 146451 | [146451-argo.json](./146451-argo.json) |
 | Argo | 272353 | [272353-argo.json](./272353-argo.json) |
 | Argo | 36607 | [36607-argo.json](./36607-argo.json) |
 | Argo Adventure | 120885 | [120885-argo-adventure.json](./120885-argo-adventure.json) |
