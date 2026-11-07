@@ -5703,6 +5703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Crooks on Christmas | 184537 | [184537-no-crooks-on-christmas.json](./184537-no-crooks-on-christmas.json) |
 | No Crossing | 111855 | [111855-no-crossing.json](./111855-no-crossing.json) |
 | No Crying in Baseball | 180514 | [180514-no-crying-in-baseball.json](./180514-no-crying-in-baseball.json) |
+| No Cure | 150291 | [150291-no-cure.json](./150291-no-cure.json) |
 | No Cure 2 | 158195 | [158195-no-cure-2.json](./158195-no-cure-2.json) |
 | No Death in Wild West | 349516 | [349516-no-death-in-wild-west.json](./349516-no-death-in-wild-west.json) |
 | No Deck? No Dice? | 184471 | [184471-no-deck-no-dice.json](./184471-no-deck-no-dice.json) |
@@ -6251,6 +6252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noclip VR | 242984 | [242984-noclip-vr.json](./242984-noclip-vr.json) |
 | Noclipped | 212080 | [212080-noclipped.json](./212080-noclipped.json) |
 | Noct | 12978 | [12978-noct.json](./12978-noct.json) |
+| Noctambulant | 150289 | [150289-noctambulant.json](./150289-noctambulant.json) |
 | Noctambulo | 363279 | [363279-noctambulo.json](./363279-noctambulo.json) |
 | Noctem | 169754 | [169754-noctem.json](./169754-noctem.json) |
 | Noctemis | 85314 | [85314-noctemis.json](./85314-noctemis.json) |
