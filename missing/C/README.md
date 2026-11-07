@@ -1924,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Sharkbait: Voyage for Treasure | 380493 | [380493-captain-sharkbait-voyage-for-treasure.json](./380493-captain-sharkbait-voyage-for-treasure.json) |
 | Captain Skyhawk | 48071 | [48071-captain-skyhawk.json](./48071-captain-skyhawk.json) |
 | Captain Slog | 60636 | [60636-captain-slog.json](./60636-captain-slog.json) |
+| Captain Soda | 191974 | [191974-captain-soda.json](./191974-captain-soda.json) |
 | Captain Speedfin | 391071 | [391071-captain-speedfin.json](./391071-captain-speedfin.json) |
 | Captain StarOne | 114939 | [114939-captain-starone.json](./114939-captain-starone.json) |
 | Captain Strike | 60851 | [60851-captain-strike.json](./60851-captain-strike.json) |
@@ -5583,6 +5584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Blaster | 84578 | [84578-chain-blaster.json](./84578-chain-blaster.json) |
 | Chain Break | 159355 | [159355-chain-break.json](./159355-chain-break.json) |
 | Chain Car Stunt Simulator: 3D Extreme Highway Car Driving Games | 233680 | [233680-chain-car-stunt-simulator-3d-extreme-highway-car-driving-games.json](./233680-chain-car-stunt-simulator-3d-extreme-highway-car-driving-games.json) |
+| Chain Champ | 191947 | [191947-chain-champ.json](./191947-chain-champ.json) |
 | Chain Champs | 177011 | [177011-chain-champs.json](./177011-chain-champs.json) |
 | Chain Chronicle | 20061 | [20061-chain-chronicle.json](./20061-chain-chronicle.json) |
 | Chain Chronicle V | 222657 | [222657-chain-chronicle-v.json](./222657-chain-chronicle-v.json) |
@@ -10118,6 +10120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleaning Up! | 360587 | [360587-cleaning-up.json](./360587-cleaning-up.json) |
 | CleanPlay | 333524 | [333524-cleanplay.json](./333524-cleanplay.json) |
 | Cleansed | 405295 | [405295-cleansed.json](./405295-cleansed.json) |
+| CleanSheet | 191967 | [191967-cleansheet.json](./191967-cleansheet.json) |
 | CleanSheet 2 | 404382 | [404382-cleansheet-2.json](./404382-cleansheet-2.json) |
 | Cleansuit | 74460 | [74460-cleansuit.json](./74460-cleansuit.json) |
 | CleanTwin | 346462 | [346462-cleantwin.json](./346462-cleantwin.json) |
@@ -19291,6 +19294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubey vs. the Universe | 244370 | [244370-cubey-vs-the-universe.json](./244370-cubey-vs-the-universe.json) |
 | Cubey: Blockbyte | 361383 | [361383-cubey-blockbyte.json](./361383-cubey-blockbyte.json) |
 | Cubey: Hexfall | 379315 | [379315-cubey-hexfall.json](./379315-cubey-hexfall.json) |
+| Cubey's Adventure | 191971 | [191971-cubeys-adventure.json](./191971-cubeys-adventure.json) |
 | Cubey's Adventures Classic | 200805 | [200805-cubeys-adventures-classic.json](./200805-cubeys-adventures-classic.json) |
 | Cubey's Adventures Rewritten | 200808 | [200808-cubeys-adventures-rewritten.json](./200808-cubeys-adventures-rewritten.json) |
 | CubeyCollect | 387741 | [387741-cubeycollect.json](./387741-cubeycollect.json) |
