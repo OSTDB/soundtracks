@@ -812,6 +812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Bird and Cage | 117848 | [117848-of-bird-and-cage.json](./117848-of-bird-and-cage.json) |
 | Of Blades & Tails | 187655 | [187655-of-blades-and-tails.json](./187655-of-blades-and-tails.json) |
 | Of Blood and Descent | 317601 | [317601-of-blood-and-descent.json](./317601-of-blood-and-descent.json) |
+| Of Blood and Shadows | 183109 | [183109-of-blood-and-shadows.json](./183109-of-blood-and-shadows.json) |
 | Of Carrots and Blood | 33604 | [33604-of-carrots-and-blood.json](./33604-of-carrots-and-blood.json) |
 | Of Crowns & Chains | 377546 | [377546-of-crowns-and-chains.json](./377546-of-crowns-and-chains.json) |
 | Of Dice and Minions | 420800 | [420800-of-dice-and-minions.json](./420800-of-dice-and-minions.json) |
@@ -1659,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympus Rising | 408496 | [408496-olympus-rising.json](./408496-olympus-rising.json) |
 | Olympus Rising: Hero Defense | 106964 | [106964-olympus-rising-hero-defense.json](./106964-olympus-rising-hero-defense.json) |
 | Olympus Rising: Ragnarok | 408499 | [408499-olympus-rising-ragnarok.json](./408499-olympus-rising-ragnarok.json) |
+| Om Nom Idle Candy Factory | 183135 | [183135-om-nom-idle-candy-factory.json](./183135-om-nom-idle-candy-factory.json) |
 | Om Nom Solitaire | 183608 | [183608-om-nom-solitaire.json](./183608-om-nom-solitaire.json) |
 | Om Nom: Candy Flick | 343993 | [343993-om-nom-candy-flick.json](./343993-om-nom-candy-flick.json) |
 | Om Nom: Coloring, Toons & Puzzle | 194255 | [194255-om-nom-coloring-toons-and-puzzle.json](./194255-om-nom-coloring-toons-and-puzzle.json) |
@@ -2229,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Button Ninja Mayhem! | 184702 | [184702-one-button-ninja-mayhem.json](./184702-one-button-ninja-mayhem.json) |
 | One Button Nipple Golf | 176769 | [176769-one-button-nipple-golf.json](./176769-one-button-nipple-golf.json) |
 | One Button Travel | 113980 | [113980-one-button-travel.json](./113980-one-button-travel.json) |
+| One by One | 183121 | [183121-one-by-one.json](./183121-one-by-one.json) |
 | One by One | 184631 | [184631-one-by-one.json](./184631-one-by-one.json) |
 | One by One | 190261 | [190261-one-by-one.json](./190261-one-by-one.json) |
 | One by One | 379645 | [379645-one-by-one.json](./379645-one-by-one.json) |
