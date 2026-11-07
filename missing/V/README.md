@@ -2833,6 +2833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Temple: Order of the Golden Dawn | 51919 | [51919-virtual-temple-order-of-the-golden-dawn.json](./51919-virtual-temple-order-of-the-golden-dawn.json) |
 | Virtual Ties Isekaijoucho Träumerei | 376085 | [376085-virtual-ties-isekaijoucho-traumerei.json](./376085-virtual-ties-isekaijoucho-traumerei.json) |
 | Virtual Towers Online | 112273 | [112273-virtual-towers-online.json](./112273-virtual-towers-online.json) |
+| Virtual Town | 151906 | [151906-virtual-town.json](./151906-virtual-town.json) |
 | Virtual Vacation Zone | 165167 | [165167-virtual-vacation-zone.json](./165167-virtual-vacation-zone.json) |
 | Virtual Valerie | 280645 | [280645-virtual-valerie.json](./280645-virtual-valerie.json) |
 | Virtual Valerie 2 | 280646 | [280646-virtual-valerie-2.json](./280646-virtual-valerie-2.json) |
@@ -3543,6 +3544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volgarr the Viking II | 304741 | [304741-volgarr-the-viking-ii.json](./304741-volgarr-the-viking-ii.json) |
 | Volguard | 85934 | [85934-volguard.json](./85934-volguard.json) |
 | Volguard II | 48551 | [48551-volguard-ii.json](./48551-volguard-ii.json) |
+| Volk-san: Egg&Catch | 151921 | [151921-volk-san-egg-and-catch.json](./151921-volk-san-egg-and-catch.json) |
 | Volkolak: The Will of Gods | 274802 | [274802-volkolak-the-will-of-gods.json](./274802-volkolak-the-will-of-gods.json) |
 | Volkstein | 90150 | [90150-volkstein.json](./90150-volkstein.json) |
 | Vollema | 289911 | [289911-vollema.json](./289911-vollema.json) |
