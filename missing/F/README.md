@@ -9451,6 +9451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For Honor: Season 16 - Mayhem | 154739 | [154739-for-honor-season-16-mayhem.json](./154739-for-honor-season-16-mayhem.json) |
 | For Honor: Season 17 - Asunder | 154740 | [154740-for-honor-season-17-asunder.json](./154740-for-honor-season-17-asunder.json) |
 | For Honor: Season 18 - Mirage | 154741 | [154741-for-honor-season-18-mirage.json](./154741-for-honor-season-18-mirage.json) |
+| For Honor: Season 19 - Tempest | 183116 | [183116-for-honor-season-19-tempest.json](./183116-for-honor-season-19-tempest.json) |
 | For Honor: Season 22 - Curse of the Scarab | 217523 | [217523-for-honor-season-22-curse-of-the-scarab.json](./217523-for-honor-season-22-curse-of-the-scarab.json) |
 | For Honor: Season 23 - The Demon Dagger | 217524 | [217524-for-honor-season-23-the-demon-dagger.json](./217524-for-honor-season-23-the-demon-dagger.json) |
 | For Honor: Season 8 - Marching Fire | 103318 | [103318-for-honor-season-8-marching-fire.json](./103318-for-honor-season-8-marching-fire.json) |
