@@ -4170,6 +4170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption Cemetery: Clock of Fate - Collector's Edition | 83553 | [83553-redemption-cemetery-clock-of-fate-collectors-edition.json](./83553-redemption-cemetery-clock-of-fate-collectors-edition.json) |
 | Redemption Cemetery: Curse of the Raven | 63089 | [63089-redemption-cemetery-curse-of-the-raven.json](./63089-redemption-cemetery-curse-of-the-raven.json) |
 | Redemption Cemetery: Dead Park | 187929 | [187929-redemption-cemetery-dead-park.json](./187929-redemption-cemetery-dead-park.json) |
+| Redemption Cemetery: Dead Park - Collector's Edition | 188717 | [188717-redemption-cemetery-dead-park-collectors-edition.json](./188717-redemption-cemetery-dead-park-collectors-edition.json) |
 | Redemption Cemetery: Evil | 95096 | [95096-redemption-cemetery-evil.json](./95096-redemption-cemetery-evil.json) |
 | Redemption Cemetery: Grave Testimony | 61078 | [61078-redemption-cemetery-grave-testimony.json](./61078-redemption-cemetery-grave-testimony.json) |
 | Redemption Cemetery: Grave Testimony - Collector's Edition | 102189 | [102189-redemption-cemetery-grave-testimony-collectors-edition.json](./102189-redemption-cemetery-grave-testimony-collectors-edition.json) |
@@ -12652,6 +12653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runner Heroes: The Curse of Night and Day | 127001 | [127001-runner-heroes-the-curse-of-night-and-day.json](./127001-runner-heroes-the-curse-of-night-and-day.json) |
 | Runner Party | 193306 | [193306-runner-party.json](./193306-runner-party.json) |
 | Runner Roy | 250396 | [250396-runner-roy.json](./250396-runner-roy.json) |
+| Runner Rtx | 188721 | [188721-runner-rtx.json](./188721-runner-rtx.json) |
 | Runner: Dark Pulse | 53562 | [53562-runner-dark-pulse.json](./53562-runner-dark-pulse.json) |
 | Runner: Preamble | 219907 | [219907-runner-preamble.json](./219907-runner-preamble.json) |
 | Runner's High | 266281 | [266281-runners-high.json](./266281-runners-high.json) |
