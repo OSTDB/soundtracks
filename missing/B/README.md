@@ -490,6 +490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon | 152338 | [152338-backgammon.json](./152338-backgammon.json) |
 | Backgammon | 15656 | [15656-backgammon.json](./15656-backgammon.json) |
 | Backgammon | 17254 | [17254-backgammon.json](./17254-backgammon.json) |
+| Backgammon | 191992 | [191992-backgammon.json](./191992-backgammon.json) |
 | Backgammon | 214045 | [214045-backgammon.json](./214045-backgammon.json) |
 | Backgammon | 339276 | [339276-backgammon.json](./339276-backgammon.json) |
 | Backgammon | 54874 | [54874-backgammon.json](./54874-backgammon.json) |
@@ -2898,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Base Defense VR | 167804 | [167804-base-defense-vr.json](./167804-base-defense-vr.json) |
 | Base Defense! | 208909 | [208909-base-defense.json](./208909-base-defense.json) |
 | Base Dominators | 334815 | [334815-base-dominators.json](./334815-base-dominators.json) |
+| Base Dune | 191996 | [191996-base-dune.json](./191996-base-dune.json) |
 | Base Jump | 153323 | [153323-base-jump.json](./153323-base-jump.json) |
 | Base Jump: Wing Suit Flying | 199114 | [199114-base-jump-wing-suit-flying.json](./199114-base-jump-wing-suit-flying.json) |
 | Base Jumpers | 12349 | [12349-base-jumpers.json](./12349-base-jumpers.json) |
@@ -16861,6 +16863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugdom | 50343 | [50343-bugdom.json](./50343-bugdom.json) |
 | Bugged | 182679 | [182679-bugged.json](./182679-bugged.json) |
 | Bugged | 195115 | [195115-bugged.json](./195115-bugged.json) |
+| Bugged Dungeon | 191979 | [191979-bugged-dungeon.json](./191979-bugged-dungeon.json) |
 | Bugged Out | 266619 | [266619-bugged-out.json](./266619-bugged-out.json) |
 | Bugged Out | 391880 | [391880-bugged-out.json](./391880-bugged-out.json) |
 | Bugger Off! | 278712 | [278712-bugger-off.json](./278712-bugger-off.json) |
