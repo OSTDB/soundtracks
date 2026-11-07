@@ -89,6 +89,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.O.B. | 84774 | [84774-b-o-b.json](./84774-b-o-b.json) |
 | B.O.B.2 | 303812 | [303812-b-o-b-2.json](./303812-b-o-b-2.json) |
 | B.O.D.A.: Send the Plant Home | 183967 | [183967-b-o-d-a-send-the-plant-home.json](./183967-b-o-d-a-send-the-plant-home.json) |
+| B.O.O.L: Master labyrinth puzzles | 147565 | [147565-b-o-o-l-master-labyrinth-puzzles.json](./147565-b-o-o-l-master-labyrinth-puzzles.json) |
 | B.o.o.o. | 178676 | [178676-b-o-o-o.json](./178676-b-o-o-o.json) |
 | B.O.T.S. and the Robofriends | 129982 | [129982-b-o-t-s-and-the-robofriends.json](./129982-b-o-t-s-and-the-robofriends.json) |
 | B.O.T.S.S.: Battle of the Solar System | 254972 | [254972-b-o-t-s-s-battle-of-the-solar-system.json](./254972-b-o-t-s-s-battle-of-the-solar-system.json) |
@@ -970,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5428,6 +5430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Survival | 264541 | [264541-beat-survival.json](./264541-beat-survival.json) |
 | Beat Survival: Expansion | 261047 | [261047-beat-survival-expansion.json](./261047-beat-survival-expansion.json) |
 | Beat the Art Breaker | 96564 | [96564-beat-the-art-breaker.json](./96564-beat-the-art-breaker.json) |
+| Beat the Beat Up! | 147555 | [147555-beat-the-beat-up.json](./147555-beat-the-beat-up.json) |
 | Beat the Beat! | 262376 | [262376-beat-the-beat.json](./262376-beat-the-beat.json) |
 | Beat the Beats | 281956 | [281956-beat-the-beats.json](./281956-beat-the-beats.json) |
 | Beat the Bird | 247076 | [247076-beat-the-bird.json](./247076-beat-the-bird.json) |
@@ -11602,6 +11605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blow it up | 150867 | [150867-blow-it-up.json](./150867-blow-it-up.json) |
 | Blow Out | 312823 | [312823-blow-out.json](./312823-blow-out.json) |
 | Blow the Hen Down | 177152 | [177152-blow-the-hen-down.json](./177152-blow-the-hen-down.json) |
+| Blow Up Monsters | 147568 | [147568-blow-up-monsters.json](./147568-blow-up-monsters.json) |
 | Blow Up Pieces: Unleashed | 116791 | [116791-blow-up-pieces-unleashed.json](./116791-blow-up-pieces-unleashed.json) |
 | Blow Up! | 47556 | [47556-blow-up.json](./47556-blow-up.json) |
 | Blow-Up: Avenge Humanity | 345096 | [345096-blow-up-avenge-humanity.json](./345096-blow-up-avenge-humanity.json) |
@@ -15187,12 +15191,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Bounds: Exile | 190741 | [190741-break-bounds-exile.json](./190741-break-bounds-exile.json) |
 | Break Brick Out | 175742 | [175742-break-brick-out.json](./175742-break-brick-out.json) |
 | Break Chance Memento | 33789 | [33789-break-chance-memento.json](./33789-break-chance-memento.json) |
+| Break Dot | 147574 | [147574-break-dot.json](./147574-break-dot.json) |
 | Break Everything: Living room | 230922 | [230922-break-everything-living-room.json](./230922-break-everything-living-room.json) |
 | Break Everything: Park | 232522 | [232522-break-everything-park.json](./232522-break-everything-park.json) |
 | Break Free | 192595 | [192595-break-free.json](./192595-break-free.json) |
 | Break Free | 304334 | [304334-break-free.json](./304334-break-free.json) |
 | Break Free | 377886 | [377886-break-free.json](./377886-break-free.json) |
 | Break Games | 304844 | [304844-break-games.json](./304844-break-games.json) |
+| Break in | 147562 | [147562-break-in.json](./147562-break-in.json) |
 | Break In | 70097 | [70097-break-in.json](./70097-break-in.json) |
 | Break Into Zatwor | 27775 | [27775-break-into-zatwor.json](./27775-break-into-zatwor.json) |
 | Break It | 199730 | [199730-break-it.json](./199730-break-it.json) |
@@ -15545,6 +15551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick | 356655 | [356655-brick.json](./356655-brick.json) |
 | Brick | 416129 | [416129-brick.json](./416129-brick.json) |
 | Brick | 92294 | [92294-brick.json](./92294-brick.json) |
+| Brick Bat Crazy | 147576 | [147576-brick-bat-crazy.json](./147576-brick-bat-crazy.json) |
 | Brick Battalion | 32208 | [32208-brick-battalion.json](./32208-brick-battalion.json) |
 | Brick BiuBiu | 154924 | [154924-brick-biubiu.json](./154924-brick-biubiu.json) |
 | Brick Blast | 376107 | [376107-brick-blast.json](./376107-brick-blast.json) |
@@ -15659,6 +15666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricks Breaker Shot | 96821 | [96821-bricks-breaker-shot.json](./96821-bricks-breaker-shot.json) |
 | Bricks Breaker: Manga Girls | 205575 | [205575-bricks-breaker-manga-girls.json](./205575-bricks-breaker-manga-girls.json) |
 | Bricks Crusher Breaker Ball | 249020 | [249020-bricks-crusher-breaker-ball.json](./249020-bricks-crusher-breaker-ball.json) |
+| Bricks Defender | 147572 | [147572-bricks-defender.json](./147572-bricks-defender.json) |
 | Bricks King | 255756 | [255756-bricks-king.json](./255756-bricks-king.json) |
 | Bricks Kingdom | 321510 | [321510-bricks-kingdom.json](./321510-bricks-kingdom.json) |
 | Bricks n Balls | 89246 | [89246-bricks-n-balls.json](./89246-bricks-n-balls.json) |
@@ -15666,6 +15674,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricks of Camelot | 72267 | [72267-bricks-of-camelot.json](./72267-bricks-of-camelot.json) |
 | Bricks of Egypt 2: Tears of the Pharaohs | 71353 | [71353-bricks-of-egypt-2-tears-of-the-pharaohs.json](./71353-bricks-of-egypt-2-tears-of-the-pharaohs.json) |
 | Bricks of Rome | 254699 | [254699-bricks-of-rome.json](./254699-bricks-of-rome.json) |
+| Bricks Pinball V | 147573 | [147573-bricks-pinball-v.json](./147573-bricks-pinball-v.json) |
+| Bricks Pinball VI | 147575 | [147575-bricks-pinball-vi.json](./147575-bricks-pinball-vi.json) |
 | Bricks Survivors | 320640 | [320640-bricks-survivors.json](./320640-bricks-survivors.json) |
 | Bricks: Block Puzzle Game | 87924 | [87924-bricks-block-puzzle-game.json](./87924-bricks-block-puzzle-game.json) |
 | Bricks4ever | 79569 | [79569-bricks4ever.json](./79569-bricks4ever.json) |
@@ -15906,6 +15916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bring Your Eh! Game | 60847 | [60847-bring-your-eh-game.json](./60847-bring-your-eh-game.json) |
 | Bring Your Own Class | 311942 | [311942-bring-your-own-class.json](./311942-bring-your-own-class.json) |
 | Bring Your Own Oxygen | 186216 | [186216-bring-your-own-oxygen.json](./186216-bring-your-own-oxygen.json) |
+| BringIt to MOM | 147577 | [147577-bringit-to-mom.json](./147577-bringit-to-mom.json) |
 | Bringris | 174191 | [174191-bringris.json](./174191-bringris.json) |
 | Brink | 502 | [502-brink.json](./502-brink.json) |
 | Brink Complete Pack | 25050 | [25050-brink-complete-pack.json](./25050-brink-complete-pack.json) |
@@ -16608,6 +16619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Breaking | 168337 | [168337-bubble-breaking.json](./168337-bubble-breaking.json) |
 | Bubble Breeze Pop | 76633 | [76633-bubble-breeze-pop.json](./76633-bubble-breeze-pop.json) |
 | Bubble Bubble Ball | 169610 | [169610-bubble-bubble-ball.json](./169610-bubble-bubble-ball.json) |
+| Bubble Bubble Ocean | 147579 | [147579-bubble-bubble-ocean.json](./147579-bubble-bubble-ocean.json) |
 | Bubble Bubbling | 246114 | [246114-bubble-bubbling.json](./246114-bubble-bubbling.json) |
 | Bubble Bunny | 294840 | [294840-bubble-bunny.json](./294840-bubble-bunny.json) |
 | Bubble Burst | 113274 | [113274-bubble-burst.json](./113274-bubble-burst.json) |
@@ -17400,6 +17412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Time Agent | 388999 | [388999-bullet-time-agent.json](./388999-bullet-time-agent.json) |
 | Bullet Time Battle | 247995 | [247995-bullet-time-battle.json](./247995-bullet-time-battle.json) |
 | Bullet Town | 258720 | [258720-bullet-town.json](./258720-bullet-town.json) |
+| Bullet Trail | 147582 | [147582-bullet-trail.json](./147582-bullet-trail.json) |
 | Bullet Train Simulator: Euro Train Driver | 104611 | [104611-bullet-train-simulator-euro-train-driver.json](./104611-bullet-train-simulator-euro-train-driver.json) |
 | Bullet Trap | 68640 | [68640-bullet-trap.json](./68640-bullet-trap.json) |
 | Bullet Vendetta | 414588 | [414588-bullet-vendetta.json](./414588-bullet-vendetta.json) |
@@ -17863,6 +17876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Maker | 285160 | [285160-burger-maker.json](./285160-burger-maker.json) |
 | Burger Maker | 364156 | [364156-burger-maker.json](./364156-burger-maker.json) |
 | Burger Man | 320647 | [320647-burger-man.json](./320647-burger-man.json) |
+| Burger Master | 147581 | [147581-burger-master.json](./147581-burger-master.json) |
 | Burger Memory Game | 240919 | [240919-burger-memory-game.json](./240919-burger-memory-game.json) |
 | Burger Night | 158708 | [158708-burger-night.json](./158708-burger-night.json) |
 | Burger Patrol | 189928 | [189928-burger-patrol.json](./189928-burger-patrol.json) |
