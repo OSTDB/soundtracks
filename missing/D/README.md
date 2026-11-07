@@ -13814,6 +13814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dot Connect | 363651 | [363651-dot-connect.json](./363651-dot-connect.json) |
 | Dot Dash Defense | 400361 | [400361-dot-dash-defense.json](./400361-dot-dash-defense.json) |
 | Dot Dash Dot | 167619 | [167619-dot-dash-dot.json](./167619-dot-dash-dot.json) |
+| Dot Debugger | 141983 | [141983-dot-debugger.json](./141983-dot-debugger.json) |
 | Dot Eater New Pick Dan | 222180 | [222180-dot-eater-new-pick-dan.json](./222180-dot-eater-new-pick-dan.json) |
 | Dot Fighters | 234832 | [234832-dot-fighters.json](./234832-dot-fighters.json) |
 | Dot Gobbler | 64817 | [64817-dot-gobbler.json](./64817-dot-gobbler.json) |
