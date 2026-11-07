@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth Eternal | 187898 | [187898-labyrinth-eternal.json](./187898-labyrinth-eternal.json) |
 | Labyrinth Flowers | 315135 | [315135-labyrinth-flowers.json](./315135-labyrinth-flowers.json) |
 | Labyrinth Flowers | 315136 | [315136-labyrinth-flowers.json](./315136-labyrinth-flowers.json) |
+| Labyrinth Hearts | 149120 | [149120-labyrinth-hearts.json](./149120-labyrinth-hearts.json) |
 | Labyrinth Hotel | 302887 | [302887-labyrinth-hotel.json](./302887-labyrinth-hotel.json) |
 | Labyrinth Inf | 181104 | [181104-labyrinth-inf.json](./181104-labyrinth-inf.json) |
 | Labyrinth Legend | 158874 | [158874-labyrinth-legend.json](./158874-labyrinth-legend.json) |
@@ -4725,6 +4726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liftoff Inc. | 410396 | [410396-liftoff-inc.json](./410396-liftoff-inc.json) |
 | Liftoff: Drone Racing | 138528 | [138528-liftoff-drone-racing.json](./138528-liftoff-drone-racing.json) |
 | Liftoff: Drone Racing - Deluxe Edition | 139829 | [139829-liftoff-drone-racing-deluxe-edition.json](./139829-liftoff-drone-racing-deluxe-edition.json) |
+| Liftoff: Micro Drones | 149151 | [149151-liftoff-micro-drones.json](./149151-liftoff-micro-drones.json) |
 | Liftopia: One more! | 228042 | [228042-liftopia-one-more.json](./228042-liftopia-one-more.json) |
 | Lifty! | 113581 | [113581-lifty.json](./113581-lifty.json) |
 | Liga | 210341 | [210341-liga.json](./210341-liga.json) |
@@ -6687,6 +6689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LLMxQuiz | 369911 | [369911-llmxquiz.json](./369911-llmxquiz.json) |
 | Llorona | 177313 | [177313-llorona.json](./177313-llorona.json) |
 | Lloyd the Monkey | 266214 | [266214-lloyd-the-monkey.json](./266214-lloyd-the-monkey.json) |
+| Lloyd the Monkey 2 | 149121 | [149121-lloyd-the-monkey-2.json](./149121-lloyd-the-monkey-2.json) |
 | Lloyd the Monkey 3 Expansion: The Warrior Once Called Prince | 369198 | [369198-lloyd-the-monkey-3-expansion-the-warrior-once-called-prince.json](./369198-lloyd-the-monkey-3-expansion-the-warrior-once-called-prince.json) |
 | Lloyd the Monkey 3: Judgement Day | 266221 | [266221-lloyd-the-monkey-3-judgement-day.json](./266221-lloyd-the-monkey-3-judgement-day.json) |
 | Lloyd the Monkey: Remastered | 266216 | [266216-lloyd-the-monkey-remastered.json](./266216-lloyd-the-monkey-remastered.json) |
