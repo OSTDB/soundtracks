@@ -9046,6 +9046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Escaper | 129688 | [129688-the-escaper.json](./129688-the-escaper.json) |
 | The Escapist | 10794 | [10794-the-escapist.json](./10794-the-escapist.json) |
 | The Escapists | 9241 | [9241-the-escapists.json](./9241-the-escapists.json) |
+| The Escapists & The Escapists: The Walking Dead | 164669 | [164669-the-escapists-and-the-escapists-the-walking-dead.json](./164669-the-escapists-and-the-escapists-the-walking-dead.json) |
 | The Escapists + The Escapists 2 | 138193 | [138193-the-escapists-the-escapists-2.json](./138193-the-escapists-the-escapists-2.json) |
 | The Escapists 2: Big Top Breakout | 155177 | [155177-the-escapists-2-big-top-breakout.json](./155177-the-escapists-2-big-top-breakout.json) |
 | The Escapists 2: Complete Edition | 220926 | [220926-the-escapists-2-complete-edition.json](./220926-the-escapists-2-complete-edition.json) |
@@ -33311,6 +33312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twinship | 115365 | [115365-twinship.json](./115365-twinship.json) |
 | Twinstack | 76312 | [76312-twinstack.json](./76312-twinstack.json) |
 | Twinstick Arcade | 149464 | [149464-twinstick-arcade.json](./149464-twinstick-arcade.json) |
+| Twinstick Classics Bundle | 164685 | [164685-twinstick-classics-bundle.json](./164685-twinstick-classics-bundle.json) |
 | TwinStick: This Ain't No Picnic | 77259 | [77259-twinstick-this-aint-no-picnic.json](./77259-twinstick-this-aint-no-picnic.json) |
 | Twintris | 396767 | [396767-twintris.json](./396767-twintris.json) |
 | Twinworld Survivor | 304386 | [304386-twinworld-survivor.json](./304386-twinworld-survivor.json) |
