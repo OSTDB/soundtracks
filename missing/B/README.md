@@ -963,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3071,6 +3072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basil the Great Mouse Detective | 13379 | [13379-basil-the-great-mouse-detective.json](./13379-basil-the-great-mouse-detective.json) |
 | Basileia Romaion 1736 | 356264 | [356264-basileia-romaion-1736.json](./356264-basileia-romaion-1736.json) |
 | Basilica | 353634 | [353634-basilica.json](./353634-basilica.json) |
+| Basilisk | 190790 | [190790-basilisk.json](./190790-basilisk.json) |
 | Basilisk | 266975 | [266975-basilisk.json](./266975-basilisk.json) |
 | Basilisk 2000 | 243390 | [243390-basilisk-2000.json](./243390-basilisk-2000.json) |
 | Basilisk! | 297782 | [297782-basilisk.json](./297782-basilisk.json) |
@@ -9766,6 +9768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaster | 282971 | [282971-blaster.json](./282971-blaster.json) |
 | Blaster | 345949 | [345949-blaster.json](./345949-blaster.json) |
 | Blaster | 38540 | [38540-blaster.json](./38540-blaster.json) |
+| Blaster Alert | 190808 | [190808-blaster-alert.json](./190808-blaster-alert.json) |
 | Blaster Arcade | 248975 | [248975-blaster-arcade.json](./248975-blaster-arcade.json) |
 | Blaster Boy | 348547 | [348547-blaster-boy.json](./348547-blaster-boy.json) |
 | Blaster Bunny + | 135014 | [135014-blaster-bunny.json](./135014-blaster-bunny.json) |
@@ -11665,6 +11668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Oddities: The Final Chapter | 238429 | [238429-blue-oddities-the-final-chapter.json](./238429-blue-oddities-the-final-chapter.json) |
 | Blue Omen Operation | 76237 | [76237-blue-omen-operation.json](./76237-blue-omen-operation.json) |
 | Blue Orchid: Interactive Story | 222730 | [222730-blue-orchid-interactive-story.json](./222730-blue-orchid-interactive-story.json) |
+| Blue Pill Glitch | 190774 | [190774-blue-pill-glitch.json](./190774-blue-pill-glitch.json) |
 | Blue Portals | 219156 | [219156-blue-portals.json](./219156-blue-portals.json) |
 | Blue Powder Grey Smoke | 362429 | [362429-blue-powder-grey-smoke.json](./362429-blue-powder-grey-smoke.json) |
 | Blue Print | 216550 | [216550-blue-print.json](./216550-blue-print.json) |
