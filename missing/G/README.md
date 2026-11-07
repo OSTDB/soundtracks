@@ -9306,6 +9306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Griddler | 242208 | [242208-griddler.json](./242208-griddler.json) |
 | Griddlers Legend of the Pirates | 106891 | [106891-griddlers-legend-of-the-pirates.json](./106891-griddlers-legend-of-the-pirates.json) |
 | Griddlers Plus | 227824 | [227824-griddlers-plus.json](./227824-griddlers-plus.json) |
+| Griddlers Ted and Pet 2 | 157260 | [157260-griddlers-ted-and-pet-2.json](./157260-griddlers-ted-and-pet-2.json) |
 | Griddlers Victorian Picnic | 94878 | [94878-griddlers-victorian-picnic.json](./94878-griddlers-victorian-picnic.json) |
 | Griddlers: Beach Season | 190816 | [190816-griddlers-beach-season.json](./190816-griddlers-beach-season.json) |
 | Griddy | 213318 | [213318-griddy.json](./213318-griddy.json) |
@@ -10639,6 +10640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear: Strive - Ultimate Edition 2022 | 255116 | [255116-guilty-gear-strive-ultimate-edition-2022.json](./255116-guilty-gear-strive-ultimate-edition-2022.json) |
 | Guilty Gear: Strive - Ultimate Edition Contents Kit | 255113 | [255113-guilty-gear-strive-ultimate-edition-contents-kit.json](./255113-guilty-gear-strive-ultimate-edition-contents-kit.json) |
 | Guilty Gear: Strive + Season Pass 1 | 254965 | [254965-guilty-gear-strive-season-pass-1.json](./254965-guilty-gear-strive-season-pass-1.json) |
+| Guilty Guardians | 157278 | [157278-guilty-guardians.json](./157278-guilty-guardians.json) |
 | Guilty Me | 254433 | [254433-guilty-me.json](./254433-guilty-me.json) |
 | Guilty Parade | 123766 | [123766-guilty-parade.json](./123766-guilty-parade.json) |
 | Guilty Parade: Episode 3 | 196050 | [196050-guilty-parade-episode-3.json](./196050-guilty-parade-episode-3.json) |
