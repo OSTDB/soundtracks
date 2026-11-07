@@ -5955,6 +5955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter | 194559 | [194559-winter.json](./194559-winter.json) |
 | Winter | 226686 | [226686-winter.json](./226686-winter.json) |
 | Winter and Luig | 398153 | [398153-winter-and-luig.json](./398153-winter-and-luig.json) |
+| Winter and People | 191980 | [191980-winter-and-people.json](./191980-winter-and-people.json) |
 | Winter and People | 195534 | [195534-winter-and-people.json](./195534-winter-and-people.json) |
 | Winter Blast: 9 Snow & Ice Games | 51027 | [51027-winter-blast-9-snow-and-ice-games.json](./51027-winter-blast-9-snow-and-ice-games.json) |
 | Winter Bundle: 20 games | 332364 | [332364-winter-bundle-20-games.json](./332364-winter-bundle-20-games.json) |
@@ -6273,6 +6274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch & Hero III | 68449 | [68449-witch-and-hero-iii.json](./68449-witch-and-hero-iii.json) |
 | Witch & Lilies | 222784 | [222784-witch-and-lilies.json](./222784-witch-and-lilies.json) |
 | Witch Amelia | 219670 | [219670-witch-amelia.json](./219670-witch-amelia.json) |
+| Witch and Council | 191981 | [191981-witch-and-council.json](./191981-witch-and-council.json) |
 | Witch and Spirit | 149909 | [149909-witch-and-spirit.json](./149909-witch-and-spirit.json) |
 | Witch Arcana | 223893 | [223893-witch-arcana.json](./223893-witch-arcana.json) |
 | Witch Blood | 107831 | [107831-witch-blood.json](./107831-witch-blood.json) |
