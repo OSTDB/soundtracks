@@ -4116,6 +4116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat N Can | 223366 | [223366-cat-n-can.json](./223366-cat-n-can.json) |
 | Cat Named Mojave | 342774 | [342774-cat-named-mojave.json](./342774-cat-named-mojave.json) |
 | Cat Named Spirit | 254567 | [254567-cat-named-spirit.json](./254567-cat-named-spirit.json) |
+| Cat Nap | 180881 | [180881-cat-nap.json](./180881-cat-nap.json) |
 | Cat Nap | 380061 | [380061-cat-nap.json](./380061-cat-nap.json) |
 | Cat Needs | 244768 | [244768-cat-needs.json](./244768-cat-needs.json) |
 | Cat Nightmares: The Key | 315800 | [315800-cat-nightmares-the-key.json](./315800-cat-nightmares-the-key.json) |
@@ -9324,6 +9325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Centurian | 73737 | [73737-city-centurian.json](./73737-city-centurian.json) |
 | City Cleaning | 408540 | [408540-city-cleaning.json](./408540-city-cleaning.json) |
 | City Cleaning 2 | 413455 | [413455-city-cleaning-2.json](./413455-city-cleaning-2.json) |
+| City Clickers | 180930 | [180930-city-clickers.json](./180930-city-clickers.json) |
 | City Climber | 27546 | [27546-city-climber.json](./27546-city-climber.json) |
 | City Coach Bus Simulator: Bus Games 2021 | 175685 | [175685-city-coach-bus-simulator-bus-games-2021.json](./175685-city-coach-bus-simulator-bus-games-2021.json) |
 | City Connection | 288842 | [288842-city-connection.json](./288842-city-connection.json) |
@@ -10561,6 +10563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClockWork | 217480 | [217480-clockwork.json](./217480-clockwork.json) |
 | Clockwork Apple | 182934 | [182934-clockwork-apple.json](./182934-clockwork-apple.json) |
 | Clockwork Blackout | 400649 | [400649-clockwork-blackout.json](./400649-clockwork-blackout.json) |
+| Clockwork Calamity in Mushroom World | 180886 | [180886-clockwork-calamity-in-mushroom-world.json](./180886-clockwork-calamity-in-mushroom-world.json) |
 | Clockwork Calamity in Mushroom World: What would you do if the time stopped ticking? | 153424 | [153424-clockwork-calamity-in-mushroom-world-what-would-you-do-if-the-time-stopped-ticking.json](./153424-clockwork-calamity-in-mushroom-world-what-would-you-do-if-the-time-stopped-ticking.json) |
 | Clockwork Cat | 128868 | [128868-clockwork-cat.json](./128868-clockwork-cat.json) |
 | Clockwork Cleanup | 382941 | [382941-clockwork-cleanup.json](./382941-clockwork-cleanup.json) |
