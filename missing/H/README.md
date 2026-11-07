@@ -740,6 +740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Makeover: Spa, Makeup & Dressup Salon | 90374 | [90374-halloween-makeover-spa-makeup-and-dressup-salon.json](./90374-halloween-makeover-spa-makeup-and-dressup-salon.json) |
 | Halloween Makeup | 101194 | [101194-halloween-makeup.json](./101194-halloween-makeup.json) |
 | Halloween Memory Quest | 321488 | [321488-halloween-memory-quest.json](./321488-halloween-memory-quest.json) |
+| Halloween Memory: Reborn | 170087 | [170087-halloween-memory-reborn.json](./170087-halloween-memory-reborn.json) |
 | Halloween Mysteries | 30806 | [30806-halloween-mysteries.json](./30806-halloween-mysteries.json) |
 | Halloween Mystery: 100 Hidden Object Fruits | 390468 | [390468-halloween-mystery-100-hidden-object-fruits.json](./390468-halloween-mystery-100-hidden-object-fruits.json) |
 | Halloween Naughty Girls | 266081 | [266081-halloween-naughty-girls.json](./266081-halloween-naughty-girls.json) |
@@ -8751,6 +8752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold the Line: The American Revolution | 55518 | [55518-hold-the-line-the-american-revolution.json](./55518-hold-the-line-the-american-revolution.json) |
 | Hold the Mine | 362284 | [362284-hold-the-mine.json](./362284-hold-the-mine.json) |
 | Hold The Noise | 292286 | [292286-hold-the-noise.json](./292286-hold-the-noise.json) |
+| Hold the Plates | 170073 | [170073-hold-the-plates.json](./170073-hold-the-plates.json) |
 | Hold Your Breadth DX | 374640 | [374640-hold-your-breadth-dx.json](./374640-hold-your-breadth-dx.json) |
 | Hold Your Fire: A Game About Responsibility | 20029 | [20029-hold-your-fire-a-game-about-responsibility.json](./20029-hold-your-fire-a-game-about-responsibility.json) |
 | Hold Your Ground | 126909 | [126909-hold-your-ground.json](./126909-hold-your-ground.json) |
