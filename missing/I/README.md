@@ -6507,6 +6507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isolation | 331609 | [331609-isolation.json](./331609-isolation.json) |
 | Isolation Instinct: Farming, Craft, Survival | 312980 | [312980-isolation-instinct-farming-craft-survival.json](./312980-isolation-instinct-farming-craft-survival.json) |
 | Isolation One | 274385 | [274385-isolation-one.json](./274385-isolation-one.json) |
+| Isolation Simulator | 156773 | [156773-isolation-simulator.json](./156773-isolation-simulator.json) |
 | Isolation Story | 135021 | [135021-isolation-story.json](./135021-isolation-story.json) |
 | Isolationist Nightclub Simulator | 148523 | [148523-isolationist-nightclub-simulator.json](./148523-isolationist-nightclub-simulator.json) |
 | Isolomus | 141814 | [141814-isolomus.json](./141814-isolomus.json) |
