@@ -3166,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emlith | 94957 | [94957-emlith.json](./94957-emlith.json) |
 | Emlyn Hughes Arcade Quiz | 13636 | [13636-emlyn-hughes-arcade-quiz.json](./13636-emlyn-hughes-arcade-quiz.json) |
 | Emlyn Hughes International Soccer | 13637 | [13637-emlyn-hughes-international-soccer.json](./13637-emlyn-hughes-international-soccer.json) |
+| Emma Adventure | 164111 | [164111-emma-adventure.json](./164111-emma-adventure.json) |
 | Emma at the Farm | 70599 | [70599-emma-at-the-farm.json](./70599-emma-at-the-farm.json) |
 | Emma in the Mountains | 70608 | [70608-emma-in-the-mountains.json](./70608-emma-in-the-mountains.json) |
 | Emma the Cat: Fruit Mania | 260472 | [260472-emma-the-cat-fruit-mania.json](./260472-emma-the-cat-fruit-mania.json) |
