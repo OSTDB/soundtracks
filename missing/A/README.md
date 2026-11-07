@@ -15063,6 +15063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashen Vow | 373852 | [373852-ashen-vow.json](./373852-ashen-vow.json) |
 | Ashen Will | 211044 | [211044-ashen-will.json](./211044-ashen-will.json) |
 | Ashen World | 379451 | [379451-ashen-world.json](./379451-ashen-world.json) |
+| Ashen: Definitive Edition | 165871 | [165871-ashen-definitive-edition.json](./165871-ashen-definitive-edition.json) |
 | Ashen: Nightstorm Isle | 133044 | [133044-ashen-nightstorm-isle.json](./133044-ashen-nightstorm-isle.json) |
 | Ashentia Hauntings | 386822 | [386822-ashentia-hauntings.json](./386822-ashentia-hauntings.json) |
 | Asher | 184726 | [184726-asher.json](./184726-asher.json) |
@@ -18215,6 +18216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awesome Tank | 78076 | [78076-awesome-tank.json](./78076-awesome-tank.json) |
 | Awesome Tanks | 313503 | [313503-awesome-tanks.json](./313503-awesome-tanks.json) |
 | Awesome Tanks 2 | 313506 | [313506-awesome-tanks-2.json](./313506-awesome-tanks-2.json) |
+| Awesome Zombie Games Bundle | 165865 | [165865-awesome-zombie-games-bundle.json](./165865-awesome-zombie-games-bundle.json) |
 | Awesome: The Game | 313359 | [313359-awesome-the-game.json](./313359-awesome-the-game.json) |
 | Awesomenauts Assemble! | 5595 | [5595-awesomenauts-assemble.json](./5595-awesomenauts-assemble.json) |
 | Awesomenauts Assemble!: Fully Loaded Pack | 90661 | [90661-awesomenauts-assemble-fully-loaded-pack.json](./90661-awesomenauts-assemble-fully-loaded-pack.json) |
