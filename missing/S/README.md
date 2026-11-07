@@ -2377,6 +2377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Scream and Run | 319279 | [319279-save-scream-and-run.json](./319279-save-scream-and-run.json) |
 | Save Scummer | 228313 | [228313-save-scummer.json](./228313-save-scummer.json) |
 | Save Snegurochka | 99021 | [99021-save-snegurochka.json](./99021-save-snegurochka.json) |
+| Save the Astronaut | 155270 | [155270-save-the-astronaut.json](./155270-save-the-astronaut.json) |
 | Save The Babies | 335260 | [335260-save-the-babies.json](./335260-save-the-babies.json) |
 | Save The Bear Cubs | 367564 | [367564-save-the-bear-cubs.json](./367564-save-the-bear-cubs.json) |
 | Save the Body | 190466 | [190466-save-the-body.json](./190466-save-the-body.json) |
@@ -10035,6 +10036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Ace Patrol: Pacific Skies | 9022 | [9022-sid-meiers-ace-patrol-pacific-skies.json](./9022-sid-meiers-ace-patrol-pacific-skies.json) |
 | Sid Meier's Alien Crossfire | 9197 | [9197-sid-meiers-alien-crossfire.json](./9197-sid-meiers-alien-crossfire.json) |
 | Sid Meier's Alpha Centauri | 863 | [863-sid-meiers-alpha-centauri.json](./863-sid-meiers-alpha-centauri.json) |
+| Sid Meier's Alpha Centauri Planetary Pack | 155248 | [155248-sid-meiers-alpha-centauri-planetary-pack.json](./155248-sid-meiers-alpha-centauri-planetary-pack.json) |
 | Sid Meier's Antietam! | 864 | [864-sid-meiers-antietam.json](./864-sid-meiers-antietam.json) |
 | Sid Meier's C.P.U. Bach | 38818 | [38818-sid-meiers-c-p-u-bach.json](./38818-sid-meiers-c-p-u-bach.json) |
 | Sid Meier's Civil War Collection | 208996 | [208996-sid-meiers-civil-war-collection.json](./208996-sid-meiers-civil-war-collection.json) |
@@ -15975,6 +15977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soaring | 171187 | [171187-soaring.json](./171187-soaring.json) |
 | Soaring Machinariae | 152643 | [152643-soaring-machinariae.json](./152643-soaring-machinariae.json) |
 | Soaring Perl Tom | 120752 | [120752-soaring-perl-tom.json](./120752-soaring-perl-tom.json) |
+| Soaring Tales of Skylines | 155286 | [155286-soaring-tales-of-skylines.json](./155286-soaring-tales-of-skylines.json) |
 | Soarocity | 169838 | [169838-soarocity.json](./169838-soarocity.json) |
 | Soba's Gunpaw | 358227 | [358227-sobas-gunpaw.json](./358227-sobas-gunpaw.json) |
 | SobokoSnake | 216529 | [216529-sobokosnake.json](./216529-sobokosnake.json) |
@@ -36132,6 +36135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sylox | 357388 | [357388-sylox.json](./357388-sylox.json) |
 | Sylph | 395193 | [395193-sylph.json](./395193-sylph.json) |
 | Sylphia | 37598 | [37598-sylphia.json](./37598-sylphia.json) |
+| Sylphine | 155275 | [155275-sylphine.json](./155275-sylphine.json) |
 | Sylv and the Ancient Tree | 417782 | [417782-sylv-and-the-ancient-tree.json](./417782-sylv-and-the-ancient-tree.json) |
 | Sylva: Curse of the Demon Woods | 392245 | [392245-sylva-curse-of-the-demon-woods.json](./392245-sylva-curse-of-the-demon-woods.json) |
 | Sylvan Disappearance | 260974 | [260974-sylvan-disappearance.json](./260974-sylvan-disappearance.json) |
