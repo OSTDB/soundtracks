@@ -684,6 +684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Would Like a Snack | 397377 | [397377-i-would-like-a-snack.json](./397377-i-would-like-a-snack.json) |
 | I Would Love to Wish You Good Morning | 372970 | [372970-i-would-love-to-wish-you-good-morning.json](./372970-i-would-love-to-wish-you-good-morning.json) |
 | I Write Games Not Tragedies | 342299 | [342299-i-write-games-not-tragedies.json](./342299-i-write-games-not-tragedies.json) |
+| I x She Tell | 150327 | [150327-i-x-she-tell.json](./150327-i-x-she-tell.json) |
 | I x She Tell: Limited Edition | 167022 | [167022-i-x-she-tell-limited-edition.json](./167022-i-x-she-tell-limited-edition.json) |
 | I_Darkness | 150356 | [150356-i-darkness.json](./150356-i-darkness.json) |
 | I-0: Jailbait on Interstate Zero | 69879 | [69879-i-0-jailbait-on-interstate-zero.json](./69879-i-0-jailbait-on-interstate-zero.json) |
