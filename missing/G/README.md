@@ -2753,6 +2753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gems of the Aztecs | 33868 | [33868-gems-of-the-aztecs.json](./33868-gems-of-the-aztecs.json) |
 | Gems of War | 9531 | [9531-gems-of-war.json](./9531-gems-of-war.json) |
 | Gems Rush | 319964 | [319964-gems-rush.json](./319964-gems-rush.json) |
+| Gems Witch | 174986 | [174986-gems-witch.json](./174986-gems-witch.json) |
 | Gems With Friends | 60469 | [60469-gems-with-friends.json](./60469-gems-with-friends.json) |
 | Gemsa | 243966 | [243966-gemsa.json](./243966-gemsa.json) |
 | Gemscape | 234280 | [234280-gemscape.json](./234280-gemscape.json) |
@@ -5074,6 +5075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Gladiators | 6828 | [6828-global-gladiators.json](./6828-global-gladiators.json) |
 | Global Hero | 390155 | [390155-global-hero.json](./390155-global-hero.json) |
 | Global Infection | 117433 | [117433-global-infection.json](./117433-global-infection.json) |
+| Global Offensive Mobile | 175005 | [175005-global-offensive-mobile.json](./175005-global-offensive-mobile.json) |
 | Global Operations | 8744 | [8744-global-operations.json](./8744-global-operations.json) |
 | Global Ops: Commando Libya | 10365 | [10365-global-ops-commando-libya.json](./10365-global-ops-commando-libya.json) |
 | Global Outbreak | 16853 | [16853-global-outbreak.json](./16853-global-outbreak.json) |
@@ -7884,6 +7886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand City Car Driving | 219808 | [219808-grand-city-car-driving.json](./219808-grand-city-car-driving.json) |
 | Grand Classes | 313415 | [313415-grand-classes.json](./313415-grand-classes.json) |
 | Grand Crime Miami | 366950 | [366950-grand-crime-miami.json](./366950-grand-crime-miami.json) |
+| Grand Criminal Online | 174987 | [174987-grand-criminal-online.json](./174987-grand-criminal-online.json) |
 | Grand Cross | 40124 | [40124-grand-cross.json](./40124-grand-cross.json) |
 | Grand Cross S | 194109 | [194109-grand-cross-s.json](./194109-grand-cross-s.json) |
 | Grand Cross W | 193860 | [193860-grand-cross-w.json](./193860-grand-cross-w.json) |
