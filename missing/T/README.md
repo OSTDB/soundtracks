@@ -6030,6 +6030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Artist: Act One | 245732 | [245732-the-artist-act-one.json](./245732-the-artist-act-one.json) |
 | The Arys Expedition: Special Edition | 53714 | [53714-the-arys-expedition-special-edition.json](./53714-the-arys-expedition-special-edition.json) |
 | The Asafo Journey | 220672 | [220672-the-asafo-journey.json](./220672-the-asafo-journey.json) |
+| The Ascended Kingdom | 180362 | [180362-the-ascended-kingdom.json](./180362-the-ascended-kingdom.json) |
 | The Ascension of the Lamb | 287452 | [287452-the-ascension-of-the-lamb.json](./287452-the-ascension-of-the-lamb.json) |
 | The Ascent of the Gothic Tower | 228967 | [228967-the-ascent-of-the-gothic-tower.json](./228967-the-ascent-of-the-gothic-tower.json) |
 | The Ascent: Cyber Edition | 193530 | [193530-the-ascent-cyber-edition.json](./193530-the-ascent-cyber-edition.json) |
@@ -7652,6 +7653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crazy Cookies! | 112869 | [112869-the-crazy-cookies.json](./112869-the-crazy-cookies.json) |
 | The Crazy Hyper-Dungeon Chronicles | 266427 | [266427-the-crazy-hyper-dungeon-chronicles.json](./266427-the-crazy-hyper-dungeon-chronicles.json) |
 | The Crazy Journalist | 199056 | [199056-the-crazy-journalist.json](./199056-the-crazy-journalist.json) |
+| The Creation | 180356 | [180356-the-creation.json](./180356-the-creation.json) |
 | The Creation of a Self | 149033 | [149033-the-creation-of-a-self.json](./149033-the-creation-of-a-self.json) |
 | The Creation of Sylebrium | 212054 | [212054-the-creation-of-sylebrium.json](./212054-the-creation-of-sylebrium.json) |
 | The Creativest Love Doll | 82747 | [82747-the-creativest-love-doll.json](./82747-the-creativest-love-doll.json) |
@@ -10686,6 +10688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hero Unmasked! | 52274 | [52274-the-hero-unmasked.json](./52274-the-hero-unmasked.json) |
 | The Hero We Need | 159023 | [159023-the-hero-we-need.json](./159023-the-hero-we-need.json) |
 | The Hero with a Thousand Arms | 242399 | [242399-the-hero-with-a-thousand-arms.json](./242399-the-hero-with-a-thousand-arms.json) |
+| The Hero's After-Ending | 180380 | [180380-the-heros-after-ending.json](./180380-the-heros-after-ending.json) |
 | The Hero's Journey Through Time | 236466 | [236466-the-heros-journey-through-time.json](./236466-the-heros-journey-through-time.json) |
 | The Hero's Way | 248079 | [248079-the-heros-way.json](./248079-the-heros-way.json) |
 | The Herobrine Mod | 232684 | [232684-the-herobrine-mod.json](./232684-the-herobrine-mod.json) |
@@ -13184,6 +13187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Looter | 126817 | [126817-the-looter.json](./126817-the-looter.json) |
 | The Lorax: Truffula Shuffula | 271068 | [271068-the-lorax-truffula-shuffula.json](./271068-the-lorax-truffula-shuffula.json) |
 | The Lord of Hexa | 288839 | [288839-the-lord-of-hexa.json](./288839-the-lord-of-hexa.json) |
+| The Lord of Hunger | 180353 | [180353-the-lord-of-hunger.json](./180353-the-lord-of-hunger.json) |
 | The Lord of Lightning | 241843 | [241843-the-lord-of-lightning.json](./241843-the-lord-of-lightning.json) |
 | The Lord of the Creatures | 137641 | [137641-the-lord-of-the-creatures.json](./137641-the-lord-of-the-creatures.json) |
 | The Lord of the Parties | 169751 | [169751-the-lord-of-the-parties.json](./169751-the-lord-of-the-parties.json) |
@@ -13383,6 +13387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lost Shrine: Escape Room | 149606 | [149606-the-lost-shrine-escape-room.json](./149606-the-lost-shrine-escape-room.json) |
 | The Lost Sky | 102928 | [102928-the-lost-sky.json](./102928-the-lost-sky.json) |
 | The Lost Skywhales | 182976 | [182976-the-lost-skywhales.json](./182976-the-lost-skywhales.json) |
+| The Lost Smile | 180379 | [180379-the-lost-smile.json](./180379-the-lost-smile.json) |
 | The Lost Son | 261886 | [261886-the-lost-son.json](./261886-the-lost-son.json) |
 | The Lost Song | 365931 | [365931-the-lost-song.json](./365931-the-lost-song.json) |
 | The Lost Soul | 345781 | [345781-the-lost-soul.json](./345781-the-lost-soul.json) |
@@ -13540,6 +13545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magister | 137351 | [137351-the-magister.json](./137351-the-magister.json) |
 | The Magistrate | 247750 | [247750-the-magistrate.json](./247750-the-magistrate.json) |
 | The Magnet: First Night | 181299 | [181299-the-magnet-first-night.json](./181299-the-magnet-first-night.json) |
+| The magnet: Second night | 180359 | [180359-the-magnet-second-night.json](./180359-the-magnet-second-night.json) |
 | The Magnetic Scrolls Collection | 69623 | [69623-the-magnetic-scrolls-collection.json](./69623-the-magnetic-scrolls-collection.json) |
 | The Magnets | 148534 | [148534-the-magnets.json](./148534-the-magnets.json) |
 | The Magnificent Five | 257168 | [257168-the-magnificent-five.json](./257168-the-magnificent-five.json) |
@@ -14273,6 +14279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The New Order: Last Days of Europe | 194463 | [194463-the-new-order-last-days-of-europe.json](./194463-the-new-order-last-days-of-europe.json) |
 | The New Queen | 30623 | [30623-the-new-queen.json](./30623-the-new-queen.json) |
 | The New Quincy's Adventure | 266629 | [266629-the-new-quincys-adventure.json](./266629-the-new-quincys-adventure.json) |
+| The New Resident | 180384 | [180384-the-new-resident.json](./180384-the-new-resident.json) |
 | The New Resistance | 196234 | [196234-the-new-resistance.json](./196234-the-new-resistance.json) |
 | The New Sheriff | 316796 | [316796-the-new-sheriff.json](./316796-the-new-sheriff.json) |
 | The New Tetris | 3339 | [3339-the-new-tetris.json](./3339-the-new-tetris.json) |
@@ -14290,6 +14297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Next Jianghu I | 155867 | [155867-the-next-jianghu-i.json](./155867-the-next-jianghu-i.json) |
 | The Next Journey of Life | 364773 | [364773-the-next-journey-of-life.json](./364773-the-next-journey-of-life.json) |
 | The Next Kingpin | 292569 | [292569-the-next-kingpin.json](./292569-the-next-kingpin.json) |
+| The Next Night | 180337 | [180337-the-next-night.json](./180337-the-next-night.json) |
 | The Next Penelope: Race to Odysseus | 61538 | [61538-the-next-penelope-race-to-odysseus.json](./61538-the-next-penelope-race-to-odysseus.json) |
 | The Next Space | 21703 | [21703-the-next-space.json](./21703-the-next-space.json) |
 | The Next Stop | 364026 | [364026-the-next-stop.json](./364026-the-next-stop.json) |
@@ -16162,6 +16170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secrets of Skellig | 260264 | [260264-the-secrets-of-skellig.json](./260264-the-secrets-of-skellig.json) |
 | The Secrets of the Forest | 336562 | [336562-the-secrets-of-the-forest.json](./336562-the-secrets-of-the-forest.json) |
 | The Secrets of the Forest | 99451 | [99451-the-secrets-of-the-forest.json](./99451-the-secrets-of-the-forest.json) |
+| The Secrets We Burn: Act 1 | 180371 | [180371-the-secrets-we-burn-act-1.json](./180371-the-secrets-we-burn-act-1.json) |
 | The Secrets We Grow | 362483 | [362483-the-secrets-we-grow.json](./362483-the-secrets-we-grow.json) |
 | The Seduction of Shaqeera | 113135 | [113135-the-seduction-of-shaqeera.json](./113135-the-seduction-of-shaqeera.json) |
 | The Seduction of Shaqeera VR | 344438 | [344438-the-seduction-of-shaqeera-vr.json](./344438-the-seduction-of-shaqeera-vr.json) |
@@ -24082,6 +24091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Pixelia | 239780 | [239780-to-pixelia.json](./239780-to-pixelia.json) |
 | To Put Your Childhood Sweetheart Into A Refrigerator | 364818 | [364818-to-put-your-childhood-sweetheart-into-a-refrigerator.json](./364818-to-put-your-childhood-sweetheart-into-a-refrigerator.json) |
 | To Save Humanity From Virus | 159816 | [159816-to-save-humanity-from-virus.json](./159816-to-save-humanity-from-virus.json) |
+| To Support Frida | 180349 | [180349-to-support-frida.json](./180349-to-support-frida.json) |
 | To Swat A Fly | 378212 | [378212-to-swat-a-fly.json](./378212-to-swat-a-fly.json) |
 | To Take Root Among the Stars | 234778 | [234778-to-take-root-among-the-stars.json](./234778-to-take-root-among-the-stars.json) |
 | To Tell the Truth | 282570 | [282570-to-tell-the-truth.json](./282570-to-tell-the-truth.json) |
