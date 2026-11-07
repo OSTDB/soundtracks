@@ -6189,6 +6189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Style: Pixel Art Jigsaw Puzzles - Expansion Pack 1 | 239970 | [239970-retro-style-pixel-art-jigsaw-puzzles-expansion-pack-1.json](./239970-retro-style-pixel-art-jigsaw-puzzles-expansion-pack-1.json) |
 | Retro Synthesis | 109715 | [109715-retro-synthesis.json](./109715-retro-synthesis.json) |
 | Retro Tank Arcade | 231563 | [231563-retro-tank-arcade.json](./231563-retro-tank-arcade.json) |
+| Retro Tank Party | 144512 | [144512-retro-tank-party.json](./144512-retro-tank-party.json) |
 | Retro Tanks | 130960 | [130960-retro-tanks.json](./130960-retro-tanks.json) |
 | Retro Three Kingdoms | 173202 | [173202-retro-three-kingdoms.json](./173202-retro-three-kingdoms.json) |
 | Retro Three Kingdoms: Special edition | 195251 | [195251-retro-three-kingdoms-special-edition.json](./195251-retro-three-kingdoms-special-edition.json) |
@@ -8315,6 +8316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivals of Aether: Speedrunner Mario | 300355 | [300355-rivals-of-aether-speedrunner-mario.json](./300355-rivals-of-aether-speedrunner-mario.json) |
 | Rivals of Aether: Steampunk Skin Pack | 382507 | [382507-rivals-of-aether-steampunk-skin-pack.json](./382507-rivals-of-aether-steampunk-skin-pack.json) |
 | Rivals of Aether: Summit Skin Pack | 382514 | [382514-rivals-of-aether-summit-skin-pack.json](./382514-rivals-of-aether-summit-skin-pack.json) |
+| Rivals Squad | 144461 | [144461-rivals-squad.json](./144461-rivals-squad.json) |
 | Rivals with Benefits | 313803 | [313803-rivals-with-benefits.json](./313803-rivals-with-benefits.json) |
 | Rivals: Esports Manager | 327799 | [327799-rivals-esports-manager.json](./327799-rivals-esports-manager.json) |
 | Rivals' Duel | 277611 | [277611-rivals-duel.json](./277611-rivals-duel.json) |
