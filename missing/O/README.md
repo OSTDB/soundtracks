@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Official AFL: The Interactive DVD Trivia Game - West Coast Eagles Super Quiz | 275587 | [275587-official-afl-the-interactive-dvd-trivia-game-west-coast-eagles-super-quiz.json](./275587-official-afl-the-interactive-dvd-trivia-game-west-coast-eagles-super-quiz.json) |
 | Official Formula One Racing | 77790 | [77790-official-formula-one-racing.json](./77790-official-formula-one-racing.json) |
 | Official Spacefarer Card Game | 279863 | [279863-official-spacefarer-card-game.json](./279863-official-spacefarer-card-game.json) |
+| Official Wicked Vixen Silicone Scramble | 169537 | [169537-official-wicked-vixen-silicone-scramble.json](./169537-official-wicked-vixen-silicone-scramble.json) |
 | Offline | 216977 | [216977-offline.json](./216977-offline.json) |
 | Offline | 390174 | [390174-offline.json](./390174-offline.json) |
 | Offline Games | 330924 | [330924-offline-games.json](./330924-offline-games.json) |
