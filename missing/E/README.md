@@ -515,6 +515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | East vs. West: A Hearts of Iron Game | 2007 | [2007-east-vs-west-a-hearts-of-iron-game.json](./2007-east-vs-west-a-hearts-of-iron-game.json) |
 | East Wind | 226811 | [226811-east-wind.json](./226811-east-wind.json) |
 | East Wood Carnival | 308037 | [308037-east-wood-carnival.json](./308037-east-wood-carnival.json) |
+| Eastasiasoft Indie Shmup Bundle | 165856 | [165856-eastasiasoft-indie-shmup-bundle.json](./165856-eastasiasoft-indie-shmup-bundle.json) |
 | EastEnders | 79304 | [79304-eastenders.json](./79304-eastenders.json) |
 | Easter | 130733 | [130733-easter.json](./130733-easter.json) |
 | Easter 2024 Memory | 289787 | [289787-easter-2024-memory.json](./289787-easter-2024-memory.json) |
@@ -3807,6 +3808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Onslaught | 311179 | [311179-endless-onslaught.json](./311179-endless-onslaught.json) |
 | Endless Pinball | 243573 | [243573-endless-pinball.json](./243573-endless-pinball.json) |
 | Endless Pursuit | 183532 | [183532-endless-pursuit.json](./183532-endless-pursuit.json) |
+| Endless Puzzle Fun Collection | 165846 | [165846-endless-puzzle-fun-collection.json](./165846-endless-puzzle-fun-collection.json) |
 | Endless Q | 180649 | [180649-endless-q.json](./180649-endless-q.json) |
 | Endless Quest | 200294 | [200294-endless-quest.json](./200294-endless-quest.json) |
 | Endless Racing | 393574 | [393574-endless-racing.json](./393574-endless-racing.json) |
