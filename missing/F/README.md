@@ -1367,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout: Dust | 243647 | [243647-fallout-dust.json](./243647-fallout-dust.json) |
 | Fallout: Empire Wastes | 322274 | [322274-fallout-empire-wastes.json](./322274-fallout-empire-wastes.json) |
 | Fallout: Legacy Collection | 122725 | [122725-fallout-legacy-collection.json](./122725-fallout-legacy-collection.json) |
+| Fallout: Miami | 189281 | [189281-fallout-miami.json](./189281-fallout-miami.json) |
 | Fallout: Nevada | 237830 | [237830-fallout-nevada.json](./237830-fallout-nevada.json) |
 | Fallout: New California | 142745 | [142745-fallout-new-california.json](./142745-fallout-new-california.json) |
 | Fallout: New Vegas - Collector's Edition | 45129 | [45129-fallout-new-vegas-collectors-edition.json](./45129-fallout-new-vegas-collectors-edition.json) |
@@ -5471,6 +5472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Birds | 230912 | [230912-find-the-birds.json](./230912-find-the-birds.json) |
 | Find the Bug | 234076 | [234076-find-the-bug.json](./234076-find-the-bug.json) |
 | Find The Candy | 245645 | [245645-find-the-candy.json](./245645-find-the-candy.json) |
+| Find the Cat | 189274 | [189274-find-the-cat.json](./189274-find-the-cat.json) |
 | Find the Cat | 321200 | [321200-find-the-cat.json](./321200-find-the-cat.json) |
 | Find The Cat | 310438 | [310438-find-the-cat.json](./310438-find-the-cat.json) |
 | Find the Cat: Nightmare | 391604 | [391604-find-the-cat-nightmare.json](./391604-find-the-cat-nightmare.json) |
