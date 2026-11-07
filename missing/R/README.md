@@ -1874,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Randungeon | 326073 | [326073-randungeon.json](./326073-randungeon.json) |
 | RanDungeon | 338856 | [338856-randungeon.json](./338856-randungeon.json) |
 | Randy & Manilla | 291327 | [291327-randy-and-manilla.json](./291327-randy-and-manilla.json) |
+| Randy and Teddy Adventure Road | 173336 | [173336-randy-and-teddy-adventure-road.json](./173336-randy-and-teddy-adventure-road.json) |
 | Randy Blaster 3D | 220480 | [220480-randy-blaster-3d.json](./220480-randy-blaster-3d.json) |
 | Randy in Sokobanland | 364357 | [364357-randy-in-sokobanland.json](./364357-randy-in-sokobanland.json) |
 | Randy the Racoon | 345061 | [345061-randy-the-racoon.json](./345061-randy-the-racoon.json) |
@@ -2576,6 +2577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC: Car Maniacs | 311130 | [311130-rc-car-maniacs.json](./311130-rc-car-maniacs.json) |
 | RCPG | 220799 | [220799-rcpg.json](./220799-rcpg.json) |
 | RCRacer VR | 112463 | [112463-rcracer-vr.json](./112463-rcracer-vr.json) |
+| Rd Mars | 173343 | [173343-rd-mars.json](./173343-rd-mars.json) |
 | RD's Adventure Mini Golf | 113569 | [113569-rds-adventure-mini-golf.json](./113569-rds-adventure-mini-golf.json) |
 | RDF 1985 | 23838 | [23838-rdf-1985.json](./23838-rdf-1985.json) |
 | RDomino | 419067 | [419067-rdomino.json](./419067-rdomino.json) |
@@ -3524,6 +3526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recall | 232638 | [232638-recall.json](./232638-recall.json) |
 | Recall | 309570 | [309570-recall.json](./309570-recall.json) |
 | Recall News | 372978 | [372978-recall-news.json](./372978-recall-news.json) |
+| Recall: Empty wishes | 173330 | [173330-recall-empty-wishes.json](./173330-recall-empty-wishes.json) |
 | Recant | 268607 | [268607-recant.json](./268607-recant.json) |
 | ReCaptcha V4 | 241161 | [241161-recaptcha-v4.json](./241161-recaptcha-v4.json) |
 | Recapture the Castle | 173062 | [173062-recapture-the-castle.json](./173062-recapture-the-castle.json) |
