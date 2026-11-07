@@ -968,7 +968,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3304,6 +3303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bathtime Toys | 192206 | [192206-bathtime-toys.json](./192206-bathtime-toys.json) |
 | Bathysphere | 415144 | [415144-bathysphere.json](./415144-bathysphere.json) |
 | Batla | 36058 | [36058-batla.json](./36058-batla.json) |
+| Batla: Tank | 172260 | [172260-batla-tank.json](./172260-batla-tank.json) |
 | Batloff: Cyprus | 123391 | [123391-batloff-cyprus.json](./123391-batloff-cyprus.json) |
 | Batman | 131462 | [131462-batman.json](./131462-batman.json) |
 | Batman | 131964 | [131964-batman.json](./131964-batman.json) |
@@ -3537,6 +3537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Arena Toshinden 2 Plus | 225276 | [225276-battle-arena-toshinden-2-plus.json](./225276-battle-arena-toshinden-2-plus.json) |
 | Battle Arena Toshinden 3 | 1415 | [1415-battle-arena-toshinden-3.json](./1415-battle-arena-toshinden-3.json) |
 | Battle Arena Toshinden URA: Ultimate Revenge Attack | 77987 | [77987-battle-arena-toshinden-ura-ultimate-revenge-attack.json](./77987-battle-arena-toshinden-ura-ultimate-revenge-attack.json) |
+| Battle Arena VR | 172302 | [172302-battle-arena-vr.json](./172302-battle-arena-vr.json) |
 | Battle Arena: Euro Wars | 110620 | [110620-battle-arena-euro-wars.json](./110620-battle-arena-euro-wars.json) |
 | Battle Arena: Robot Apocalypse | 148886 | [148886-battle-arena-robot-apocalypse.json](./148886-battle-arena-robot-apocalypse.json) |
 | Battle Army | 81212 | [81212-battle-army.json](./81212-battle-army.json) |
@@ -17326,6 +17327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Trap | 68640 | [68640-bullet-trap.json](./68640-bullet-trap.json) |
 | Bullet Vendetta | 414588 | [414588-bullet-vendetta.json](./414588-bullet-vendetta.json) |
 | Bullet Waltz | 223658 | [223658-bullet-waltz.json](./223658-bullet-waltz.json) |
+| Bullet Wave | 172299 | [172299-bullet-wave.json](./172299-bullet-wave.json) |
 | Bullet Witch | 6928 | [6928-bullet-witch.json](./6928-bullet-witch.json) |
 | Bullet Yeeters | 338894 | [338894-bullet-yeeters.json](./338894-bullet-yeeters.json) |
 | Bullet'n Surf | 97359 | [97359-bulletn-surf.json](./97359-bulletn-surf.json) |
@@ -18377,6 +18379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Button City | 136980 | [136980-button-city.json](./136980-button-city.json) |
 | Button City: Soccer Days | 252771 | [252771-button-city-soccer-days.json](./252771-button-city-soccer-days.json) |
 | Button Game: 10 Minutes War | 368484 | [368484-button-game-10-minutes-war.json](./368484-button-game-10-minutes-war.json) |
+| Button Lock | 172304 | [172304-button-lock.json](./172304-button-lock.json) |
 | Button Lock 2: Star Carrier | 201355 | [201355-button-lock-2-star-carrier.json](./201355-button-lock-2-star-carrier.json) |
 | Button Man | 295280 | [295280-button-man.json](./295280-button-man.json) |
 | Button Men Online | 56173 | [56173-button-men-online.json](./56173-button-men-online.json) |
