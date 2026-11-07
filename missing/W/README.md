@@ -2067,6 +2067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars Across the World: Expanded Collection | 53922 | [53922-wars-across-the-world-expanded-collection.json](./53922-wars-across-the-world-expanded-collection.json) |
 | Wars Across the World: Finland 1808 | 226539 | [226539-wars-across-the-world-finland-1808.json](./226539-wars-across-the-world-finland-1808.json) |
 | Wars Across the World: Finland 1918 | 159600 | [159600-wars-across-the-world-finland-1918.json](./159600-wars-across-the-world-finland-1918.json) |
+| Wars Across the World: Fornovo 1495 | 155291 | [155291-wars-across-the-world-fornovo-1495.json](./155291-wars-across-the-world-fornovo-1495.json) |
 | Wars Across the World: Franche-Comté 1636 | 155180 | [155180-wars-across-the-world-franche-comte-1636.json](./155180-wars-across-the-world-franche-comte-1636.json) |
 | Wars Across the World: Galicia 1914 | 155184 | [155184-wars-across-the-world-galicia-1914.json](./155184-wars-across-the-world-galicia-1914.json) |
 | Wars Across the World: Gandamak1842 | 159630 | [159630-wars-across-the-world-gandamak1842.json](./159630-wars-across-the-world-gandamak1842.json) |
@@ -6083,6 +6084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Resort Simulator 2: Riedstein | 216826 | [216826-winter-resort-simulator-2-riedstein.json](./216826-winter-resort-simulator-2-riedstein.json) |
 | Winter Resort Simulator Season 2: Content Pack | 226882 | [226882-winter-resort-simulator-season-2-content-pack.json](./226882-winter-resort-simulator-season-2-content-pack.json) |
 | Winter Resort Simulator Season 2: TechnoAlpin - Snow Expert Pack | 226883 | [226883-winter-resort-simulator-season-2-technoalpin-snow-expert-pack.json](./226883-winter-resort-simulator-season-2-technoalpin-snow-expert-pack.json) |
+| Winter Resort Simulator: TechnoAlpin - Snow Expert Pack | 155253 | [155253-winter-resort-simulator-technoalpin-snow-expert-pack.json](./155253-winter-resort-simulator-technoalpin-snow-expert-pack.json) |
 | Winter Sadness Simulator | 366953 | [366953-winter-sadness-simulator.json](./366953-winter-sadness-simulator.json) |
 | Winter Shard | 125413 | [125413-winter-shard.json](./125413-winter-shard.json) |
 | Winter Ski Park: Snow Driver | 96611 | [96611-winter-ski-park-snow-driver.json](./96611-winter-ski-park-snow-driver.json) |
