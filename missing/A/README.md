@@ -500,6 +500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Ghost Story | 307700 | [307700-a-ghost-story.json](./307700-a-ghost-story.json) |
 | A Ghost Story for Christmas | 135779 | [135779-a-ghost-story-for-christmas.json](./135779-a-ghost-story-for-christmas.json) |
 | A Ghostly Journey | 393470 | [393470-a-ghostly-journey.json](./393470-a-ghostly-journey.json) |
+| A Ghostly Rose | 191943 | [191943-a-ghostly-rose.json](./191943-a-ghostly-rose.json) |
 | A Ghostly Tale | 123834 | [123834-a-ghostly-tale.json](./123834-a-ghostly-tale.json) |
 | A Gift of War | 189341 | [189341-a-gift-of-war.json](./189341-a-gift-of-war.json) |
 | A Girl A Rain | 415766 | [415766-a-girl-a-rain.json](./415766-a-girl-a-rain.json) |
@@ -2766,6 +2767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Achilles: Legends Untold | 160293 | [160293-achilles-legends-untold.json](./160293-achilles-legends-untold.json) |
 | Achilles: Survivor | 319802 | [319802-achilles-survivor.json](./319802-achilles-survivor.json) |
 | Achromatic | 107840 | [107840-achromatic.json](./107840-achromatic.json) |
+| Achromatic | 191950 | [191950-achromatic.json](./191950-achromatic.json) |
 | Achromatic | 203807 | [203807-achromatic.json](./203807-achromatic.json) |
 | Achron | 16264 | [16264-achron.json](./16264-achron.json) |
 | Achtung die Kugel! | 110927 | [110927-achtung-die-kugel.json](./110927-achtung-die-kugel.json) |
@@ -4076,6 +4078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aestik | 218138 | [218138-aestik.json](./218138-aestik.json) |
 | Aeterna Lucis | 280572 | [280572-aeterna-lucis.json](./280572-aeterna-lucis.json) |
 | Aeterna Noctis | 144380 | [144380-aeterna-noctis.json](./144380-aeterna-noctis.json) |
+| Aeterna Noctis: Caos Edition | 191962 | [191962-aeterna-noctis-caos-edition.json](./191962-aeterna-noctis-caos-edition.json) |
 | Aeterna Noctis: Virtuoso | 270860 | [270860-aeterna-noctis-virtuoso.json](./270860-aeterna-noctis-virtuoso.json) |
 | Aeterna: Curse of The First King | 424050 | [424050-aeterna-curse-of-the-first-king.json](./424050-aeterna-curse-of-the-first-king.json) |
 | Aeterna: Rubra Plena | 233579 | [233579-aeterna-rubra-plena.json](./233579-aeterna-rubra-plena.json) |
@@ -5790,8 +5793,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aivx Push | 372791 | [372791-aivx-push.json](./372791-aivx-push.json) |
 | Aixin: Goddess' Love | 373064 | [373064-aixin-goddess-love.json](./373064-aixin-goddess-love.json) |
 | Aiyana | 211415 | [211415-aiyana.json](./211415-aiyana.json) |
+| Aiyoku no Eustia | 191958 | [191958-aiyoku-no-eustia.json](./191958-aiyoku-no-eustia.json) |
 | Aiyoku no Eustia: Angel's Blessing | 62075 | [62075-aiyoku-no-eustia-angels-blessing.json](./62075-aiyoku-no-eustia-angels-blessing.json) |
 | Aiyoku no Eustia: Angel's Blessing | 8631 | [8631-aiyoku-no-eustia-angels-blessing.json](./8631-aiyoku-no-eustia-angels-blessing.json) |
+| Aiyoku no Eustia: Limited Edition | 191959 | [191959-aiyoku-no-eustia-limited-edition.json](./191959-aiyoku-no-eustia-limited-edition.json) |
 | Aiyra | 255772 | [255772-aiyra.json](./255772-aiyra.json) |
 | Aiza: New Generation | 228339 | [228339-aiza-new-generation.json](./228339-aiza-new-generation.json) |
 | Aizasia | 389015 | [389015-aizasia.json](./389015-aizasia.json) |
@@ -7757,6 +7762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha Roid | 47558 | [47558-alpha-roid.json](./47558-alpha-roid.json) |
 | Alpha Runner 2 | 369206 | [369206-alpha-runner-2.json](./369206-alpha-runner-2.json) |
 | Alpha Sea | 147448 | [147448-alpha-sea.json](./147448-alpha-sea.json) |
+| Alpha Shark | 191998 | [191998-alpha-shark.json](./191998-alpha-shark.json) |
 | Alpha Shield | 59837 | [59837-alpha-shield.json](./59837-alpha-shield.json) |
 | Alpha Sorcerer | 245996 | [245996-alpha-sorcerer.json](./245996-alpha-sorcerer.json) |
 | Alpha Spectrum | 400493 | [400493-alpha-spectrum.json](./400493-alpha-spectrum.json) |
