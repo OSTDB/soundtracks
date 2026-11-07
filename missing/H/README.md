@@ -11242,6 +11242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Party: Winter Holiday Pack | 281265 | [281265-house-party-winter-holiday-pack.json](./281265-house-party-winter-holiday-pack.json) |
 | House Quest 2 | 322834 | [322834-house-quest-2.json](./322834-house-quest-2.json) |
 | House Renovator Simulator | 350052 | [350052-house-renovator-simulator.json](./350052-house-renovator-simulator.json) |
+| House Sitter | 142002 | [142002-house-sitter.json](./142002-house-sitter.json) |
 | House Sitter Escape Game | 241290 | [241290-house-sitter-escape-game.json](./241290-house-sitter-escape-game.json) |
 | House Spider Survival Simulator 3D | 103917 | [103917-house-spider-survival-simulator-3d.json](./103917-house-spider-survival-simulator-3d.json) |
 | House spirit cat | 279768 | [279768-house-spirit-cat.json](./279768-house-spirit-cat.json) |
