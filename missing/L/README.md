@@ -3181,6 +3181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Duplo World | 356220 | [356220-lego-duplo-world.json](./356220-lego-duplo-world.json) |
 | LEGO Exo-Force: Deep Jungle | 343214 | [343214-lego-exo-force-deep-jungle.json](./343214-lego-exo-force-deep-jungle.json) |
 | LEGO Exo-Force: Sentai Showdown | 343211 | [343211-lego-exo-force-sentai-showdown.json](./343211-lego-exo-force-sentai-showdown.json) |
+| LEGO Fever | 146459 | [146459-lego-fever.json](./146459-lego-fever.json) |
 | LEGO Five Nights at Freddy's | 280050 | [280050-lego-five-nights-at-freddys.json](./280050-lego-five-nights-at-freddys.json) |
 | LEGO Fortnite: Brick Life | 325544 | [325544-lego-fortnite-brick-life.json](./325544-lego-fortnite-brick-life.json) |
 | LEGO Fortnite: Expeditions | 387000 | [387000-lego-fortnite-expeditions.json](./387000-lego-fortnite-expeditions.json) |
@@ -6347,6 +6348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Town Hero | 109459 | [109459-little-town-hero.json](./109459-little-town-hero.json) |
 | Little Town Secrets | 350307 | [350307-little-town-secrets.json](./350307-little-town-secrets.json) |
 | Little Toys | 393216 | [393216-little-toys.json](./393216-little-toys.json) |
+| Little Traveler | 146429 | [146429-little-traveler.json](./146429-little-traveler.json) |
 | Little Treasures | 383639 | [383639-little-treasures.json](./383639-little-treasures.json) |
 | Little Tree Kingdom | 381625 | [381625-little-tree-kingdom.json](./381625-little-tree-kingdom.json) |
 | Little Triangle | 29985 | [29985-little-triangle.json](./29985-little-triangle.json) |
@@ -6894,6 +6896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loco Loco | 58326 | [58326-loco-loco.json](./58326-loco-loco.json) |
 | Loco Looper | 207999 | [207999-loco-looper.json](./207999-loco-looper.json) |
 | Loco Mania | 61477 | [61477-loco-mania.json](./61477-loco-mania.json) |
+| Loco Mogul | 146463 | [146463-loco-mogul.json](./146463-loco-mogul.json) |
 | Loco Motion | 177669 | [177669-loco-motion.json](./177669-loco-motion.json) |
 | LOCO Online | 361771 | [361771-loco-online.json](./361771-loco-online.json) |
 | Loco Parentis | 117810 | [117810-loco-parentis.json](./117810-loco-parentis.json) |
@@ -9612,6 +9615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luft: Onward and Upward | 96307 | [96307-luft-onward-and-upward.json](./96307-luft-onward-and-upward.json) |
 | Luftrausers | 5628 | [5628-luftrausers.json](./5628-luftrausers.json) |
 | LuftrauserZ | 196370 | [196370-luftrauserz.json](./196370-luftrauserz.json) |
+| Luftwaffe Airstrike | 146433 | [146433-luftwaffe-airstrike.json](./146433-luftwaffe-airstrike.json) |
 | Luftwaffe Commander | 22840 | [22840-luftwaffe-commander.json](./22840-luftwaffe-commander.json) |
 | Luftwaffe: Doitsu Kuugun o Shiki Seyo | 66014 | [66014-luftwaffe-doitsu-kuugun-o-shiki-seyo.json](./66014-luftwaffe-doitsu-kuugun-o-shiki-seyo.json) |
 | Lufulus' Creatures | 129000 | [129000-lufulus-creatures.json](./129000-lufulus-creatures.json) |
