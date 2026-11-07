@@ -7563,6 +7563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Guru - Puzzle Word Game | 89233 | [89233-word-guru-puzzle-word-game.json](./89233-word-guru-puzzle-word-game.json) |
 | Word Harmony | 52130 | [52130-word-harmony.json](./52130-word-harmony.json) |
 | Word Home - Cat Puzzle Game | 108689 | [108689-word-home-cat-puzzle-game.json](./108689-word-home-cat-puzzle-game.json) |
+| Word Hunt Fever | 147538 | [147538-word-hunt-fever.json](./147538-word-hunt-fever.json) |
 | Word Hunter | 83438 | [83438-word-hunter.json](./83438-word-hunter.json) |
 | Word Invaders! | 232479 | [232479-word-invaders.json](./232479-word-invaders.json) |
 | Word Invasion | 44363 | [44363-word-invasion.json](./44363-word-invasion.json) |
