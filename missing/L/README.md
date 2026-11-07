@@ -8130,6 +8130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Ember: VR Edition | 193626 | [193626-lost-ember-vr-edition.json](./193626-lost-ember-vr-edition.json) |
 | Lost Empire 2977 | 123771 | [123771-lost-empire-2977.json](./123771-lost-empire-2977.json) |
 | Lost Empire: Immortals | 21470 | [21470-lost-empire-immortals.json](./21470-lost-empire-immortals.json) |
+| Lost End | 152953 | [152953-lost-end.json](./152953-lost-end.json) |
 | Lost Entry | 395746 | [395746-lost-entry.json](./395746-lost-entry.json) |
 | Lost Epic | 150168 | [150168-lost-epic.json](./150168-lost-epic.json) |
 | Lost Epic: Premium Edition | 244049 | [244049-lost-epic-premium-edition.json](./244049-lost-epic-premium-edition.json) |
