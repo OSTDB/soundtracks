@@ -1222,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ziggy the Chaser | 138410 | [138410-ziggy-the-chaser.json](./138410-ziggy-the-chaser.json) |
 | Ziggy Zaggy | 276120 | [276120-ziggy-zaggy.json](./276120-ziggy-zaggy.json) |
 | Ziggy's Chase | 27400 | [27400-ziggys-chase.json](./27400-ziggys-chase.json) |
+| Ziggy's Cosmic Adventures | 143816 | [143816-ziggys-cosmic-adventures.json](./143816-ziggys-cosmic-adventures.json) |
 | Ziggy's Labyrinth | 286573 | [286573-ziggys-labyrinth.json](./286573-ziggys-labyrinth.json) |
 | ZigZag | 185221 | [185221-zigzag.json](./185221-zigzag.json) |
 | ZigZag | 231998 | [231998-zigzag.json](./231998-zigzag.json) |
