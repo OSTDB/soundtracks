@@ -1933,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ignite | 16144 | [16144-ignite.json](./16144-ignite.json) |
 | Ignite: Dying Flame | 138126 | [138126-ignite-dying-flame.json](./138126-ignite-dying-flame.json) |
 | Ignited in Cavern | 285690 | [285690-ignited-in-cavern.json](./285690-ignited-in-cavern.json) |
+| Ignited Steel: Mech Tactics | 191320 | [191320-ignited-steel-mech-tactics.json](./191320-ignited-steel-mech-tactics.json) |
 | Ignitement | 407440 | [407440-ignitement.json](./407440-ignitement.json) |
 | Igniter | 307543 | [307543-igniter.json](./307543-igniter.json) |
 | Ignition | 180309 | [180309-ignition.json](./180309-ignition.json) |
@@ -3872,7 +3873,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4014,6 +4014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Runner Bot | 297639 | [297639-infinity-runner-bot.json](./297639-infinity-runner-bot.json) |
 | Infinity Saga | 33358 | [33358-infinity-saga.json](./33358-infinity-saga.json) |
 | Infinity Ship | 401818 | [401818-infinity-ship.json](./401818-infinity-ship.json) |
+| Infinity Skies | 191317 | [191317-infinity-skies.json](./191317-infinity-skies.json) |
 | Infinity Sky | 275534 | [275534-infinity-sky.json](./275534-infinity-sky.json) |
 | Infinity Slime Dungeon | 321754 | [321754-infinity-slime-dungeon.json](./321754-infinity-slime-dungeon.json) |
 | Infinity Souls | 196576 | [196576-infinity-souls.json](./196576-infinity-souls.json) |
@@ -4520,6 +4521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insects in Space | 12613 | [12613-insects-in-space.json](./12613-insects-in-space.json) |
 | Insects Runner | 75670 | [75670-insects-runner.json](./75670-insects-runner.json) |
 | Insectum: Epic Battles of Bugs | 303585 | [303585-insectum-epic-battles-of-bugs.json](./303585-insectum-epic-battles-of-bugs.json) |
+| Insecure: The Come Up Game | 191365 | [191365-insecure-the-come-up-game.json](./191365-insecure-the-come-up-game.json) |
 | Inseedious | 292989 | [292989-inseedious.json](./292989-inseedious.json) |
 | Inselnova | 405707 | [405707-inselnova.json](./405707-inselnova.json) |
 | Insemination Diary of Milk, a Bursting Busty Cow Girl | 83293 | [83293-insemination-diary-of-milk-a-bursting-busty-cow-girl.json](./83293-insemination-diary-of-milk-a-bursting-busty-cow-girl.json) |
@@ -4701,6 +4703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instant Indie Collection: Vol. 4 | 82455 | [82455-instant-indie-collection-vol-4.json](./82455-instant-indie-collection-vol-4.json) |
 | Instant Indie Collection: Vol. 5 | 82454 | [82454-instant-indie-collection-vol-5.json](./82454-instant-indie-collection-vol-5.json) |
 | Instant Sports | 123331 | [123331-instant-sports.json](./123331-instant-sports.json) |
+| Instant Sports + | 191350 | [191350-instant-sports.json](./191350-instant-sports.json) |
 | Instant Sports Paradise | 154788 | [154788-instant-sports-paradise.json](./154788-instant-sports-paradise.json) |
 | Instant Sports Summer + Winter | 269299 | [269299-instant-sports-summer-winter.json](./269299-instant-sports-summer-winter.json) |
 | Instant Sports Summer Games | 139969 | [139969-instant-sports-summer-games.json](./139969-instant-sports-summer-games.json) |
