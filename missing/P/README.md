@@ -11149,6 +11149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Broken Circuit | 239197 | [239197-pokemon-broken-circuit.json](./239197-pokemon-broken-circuit.json) |
 | Pokémon Bronze | 129585 | [129585-pokemon-bronze.json](./129585-pokemon-bronze.json) |
 | Pokémon Brown | 129586 | [129586-pokemon-brown.json](./129586-pokemon-brown.json) |
+| Pokémon Bushido | 146979 | [146979-pokemon-bushido.json](./146979-pokemon-bushido.json) |
 | Pokémon Café Mix | 135233 | [135233-pokemon-cafe-mix.json](./135233-pokemon-cafe-mix.json) |
 | Pokémon Café ReMix | 178359 | [178359-pokemon-cafe-remix.json](./178359-pokemon-cafe-remix.json) |
 | Pokémon Card Game: Asobikata DS | 131316 | [131316-pokemon-card-game-asobikata-ds.json](./131316-pokemon-card-game-asobikata-ds.json) |
@@ -11603,6 +11604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Soulstones | 221276 | [221276-pokemon-soulstones.json](./221276-pokemon-soulstones.json) |
 | Pokémon Soulstones 2: Time Wardens | 334001 | [334001-pokemon-soulstones-2-time-wardens.json](./334001-pokemon-soulstones-2-time-wardens.json) |
 | Pokémon Spirits of the Storm | 397766 | [397766-pokemon-spirits-of-the-storm.json](./397766-pokemon-spirits-of-the-storm.json) |
+| Pokémon Splice | 146982 | [146982-pokemon-splice.json](./146982-pokemon-splice.json) |
 | Pokémon Stadium | 163098 | [163098-pokemon-stadium.json](./163098-pokemon-stadium.json) |
 | Pokémon Stadium 2 | 2290 | [2290-pokemon-stadium-2.json](./2290-pokemon-stadium-2.json) |
 | Pokémon Stadium Club | 357347 | [357347-pokemon-stadium-club.json](./357347-pokemon-stadium-club.json) |
@@ -12250,6 +12252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poly Plaza | 307204 | [307204-poly-plaza.json](./307204-poly-plaza.json) |
 | Poly Plaza 2 | 377755 | [377755-poly-plaza-2.json](./377755-poly-plaza-2.json) |
 | Poly Plaza: Farmer Pack | 317724 | [317724-poly-plaza-farmer-pack.json](./317724-poly-plaza-farmer-pack.json) |
+| Poly Puzzle | 146992 | [146992-poly-puzzle.json](./146992-poly-puzzle.json) |
 | Poly Puzzle: Animals | 235619 | [235619-poly-puzzle-animals.json](./235619-poly-puzzle-animals.json) |
 | Poly Puzzle: Birds | 367665 | [367665-poly-puzzle-birds.json](./367665-poly-puzzle-birds.json) |
 | Poly Puzzle: Butterflies | 231140 | [231140-poly-puzzle-butterflies.json](./231140-poly-puzzle-butterflies.json) |
