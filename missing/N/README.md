@@ -1549,6 +1549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebs' Island Adventure | 349496 | [349496-nebs-island-adventure.json](./349496-nebs-island-adventure.json) |
 | Nebuchadnezzar | 126806 | [126806-nebuchadnezzar.json](./126806-nebuchadnezzar.json) |
 | Nebuchadnezzar: The Adventures of Sargon | 226718 | [226718-nebuchadnezzar-the-adventures-of-sargon.json](./226718-nebuchadnezzar-the-adventures-of-sargon.json) |
+| Nebula | 179786 | [179786-nebula.json](./179786-nebula.json) |
 | Nebula | 197412 | [197412-nebula.json](./197412-nebula.json) |
 | Nebula | 212962 | [212962-nebula.json](./212962-nebula.json) |
 | Nebula | 32712 | [32712-nebula.json](./32712-nebula.json) |
@@ -4921,6 +4922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nin2-Jump | 92226 | [92226-nin2-jump.json](./92226-nin2-jump.json) |
 | Nina & Yuri | 316365 | [316365-nina-and-yuri.json](./316365-nina-and-yuri.json) |
 | Nina Aquila: Legal Eagle | 134657 | [134657-nina-aquila-legal-eagle.json](./134657-nina-aquila-legal-eagle.json) |
+| Nina Aquila: Legal Eagle - Chapter III: "Legal Stage" | 179809 | [179809-nina-aquila-legal-eagle-chapter-iii-legal-stage.json](./179809-nina-aquila-legal-eagle-chapter-iii-legal-stage.json) |
 | Nina Aquila: Legal Eagle, Chapter II - Broken Wings | 134658 | [134658-nina-aquila-legal-eagle-chapter-ii-broken-wings.json](./134658-nina-aquila-legal-eagle-chapter-ii-broken-wings.json) |
 | Nina Aquila: Legal Eagle, Chapter IV - Sacred Feathers | 220450 | [220450-nina-aquila-legal-eagle-chapter-iv-sacred-feathers.json](./220450-nina-aquila-legal-eagle-chapter-iv-sacred-feathers.json) |
 | Nina Aquila: Legal Eagle, Season One | 152936 | [152936-nina-aquila-legal-eagle-season-one.json](./152936-nina-aquila-legal-eagle-season-one.json) |
