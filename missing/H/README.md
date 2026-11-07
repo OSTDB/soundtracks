@@ -2005,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardwire | 267763 | [267763-hardwire.json](./267763-hardwire.json) |
 | Hardwired | 346551 | [346551-hardwired.json](./346551-hardwired.json) |
 | Hardwood Backgammon | 20501 | [20501-hardwood-backgammon.json](./20501-hardwood-backgammon.json) |
+| Hardwood Euchre | 181992 | [181992-hardwood-euchre.json](./181992-hardwood-euchre.json) |
 | Hardwood Hearts | 20507 | [20507-hardwood-hearts.json](./20507-hardwood-hearts.json) |
 | Hardwood Rivals | 246260 | [246260-hardwood-rivals.json](./246260-hardwood-rivals.json) |
 | Hardwood Solitaire III | 209792 | [209792-hardwood-solitaire-iii.json](./209792-hardwood-solitaire-iii.json) |
@@ -3252,6 +3253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart attack | 195820 | [195820-heart-attack.json](./195820-heart-attack.json) |
 | Heart Attack | 252376 | [252376-heart-attack.json](./252376-heart-attack.json) |
 | Heart Beat Clue | 291808 | [291808-heart-beat-clue.json](./291808-heart-beat-clue.json) |
+| Heart Box | 182008 | [182008-heart-box.json](./182008-heart-box.json) |
 | Heart Cage | 266875 | [266875-heart-cage.json](./266875-heart-cage.json) |
 | Heart Chain Kitty: All Screwed Up | 261969 | [261969-heart-chain-kitty-all-screwed-up.json](./261969-heart-chain-kitty-all-screwed-up.json) |
 | Heart Clicker | 304868 | [304868-heart-clicker.json](./304868-heart-clicker.json) |
