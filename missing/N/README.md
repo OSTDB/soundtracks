@@ -6484,6 +6484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nomad: Steppeborn Saga | 340957 | [340957-nomad-steppeborn-saga.json](./340957-nomad-steppeborn-saga.json) |
 | Nomadica | 292430 | [292430-nomadica.json](./292430-nomadica.json) |
 | Nomads in the Dust | 296479 | [296479-nomads-in-the-dust.json](./296479-nomads-in-the-dust.json) |
+| Nomads of Driftland | 141381 | [141381-nomads-of-driftland.json](./141381-nomads-of-driftland.json) |
 | Nomads of Driftland: The Forgotten Passage | 144556 | [144556-nomads-of-driftland-the-forgotten-passage.json](./144556-nomads-of-driftland-the-forgotten-passage.json) |
 | Nomads of the Fallen Star | 113640 | [113640-nomads-of-the-fallen-star.json](./113640-nomads-of-the-fallen-star.json) |
 | NoMaKo | 139261 | [139261-nomako.json](./139261-nomako.json) |
