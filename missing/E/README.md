@@ -5978,6 +5978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Essence Hunt | 177512 | [177512-essence-hunt.json](./177512-essence-hunt.json) |
 | Essence of Illumination: The Beginning | 89672 | [89672-essence-of-illumination-the-beginning.json](./89672-essence-of-illumination-the-beginning.json) |
 | Essence of the Tjikko | 191491 | [191491-essence-of-the-tjikko.json](./191491-essence-of-the-tjikko.json) |
+| Essence of Time | 149115 | [149115-essence-of-time.json](./149115-essence-of-time.json) |
 | Essence of Waluigi | 250044 | [250044-essence-of-waluigi.json](./250044-essence-of-waluigi.json) |
 | Essence of Waluigi II: Eternal Awakening | 307404 | [307404-essence-of-waluigi-ii-eternal-awakening.json](./307404-essence-of-waluigi-ii-eternal-awakening.json) |
 | Essence//Structure | 269151 | [269151-essence-structure.json](./269151-essence-structure.json) |
