@@ -5746,6 +5746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Because The World Died | 303707 | [303707-because-the-world-died.json](./303707-because-the-world-died.json) |
 | Because We're Here: Act I | 176797 | [176797-because-were-here-act-i.json](./176797-because-were-here-act-i.json) |
 | Because We're Here: Mohnblume und Blauerose | 105298 | [105298-because-were-here-mohnblume-und-blauerose.json](./105298-because-were-here-mohnblume-und-blauerose.json) |
+| Because We're Here: Mohnblume und Blaurose - Act II | 174447 | [174447-because-were-here-mohnblume-und-blaurose-act-ii.json](./174447-because-were-here-mohnblume-und-blaurose-act-ii.json) |
 | Becca | 265104 | [265104-becca.json](./265104-becca.json) |
 | Becher's Dream | 72292 | [72292-bechers-dream.json](./72292-bechers-dream.json) |
 | Becherov | 50316 | [50316-becherov.json](./50316-becherov.json) |
@@ -9520,6 +9521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade II: The Return of Evil | 57547 | [57547-blade-ii-the-return-of-evil.json](./57547-blade-ii-the-return-of-evil.json) |
 | Blade Jumper | 215486 | [215486-blade-jumper.json](./215486-blade-jumper.json) |
 | Blade Kitten: Dirty Angels | 62089 | [62089-blade-kitten-dirty-angels.json](./62089-blade-kitten-dirty-angels.json) |
+| Blade Kitten: Episode 2 | 174433 | [174433-blade-kitten-episode-2.json](./174433-blade-kitten-episode-2.json) |
 | Blade Knight | 420577 | [420577-blade-knight.json](./420577-blade-knight.json) |
 | Blade Lords | 41719 | [41719-blade-lords.json](./41719-blade-lords.json) |
 | Blade Man's Less Successful Business Ventures | 421196 | [421196-blade-mans-less-successful-business-ventures.json](./421196-blade-mans-less-successful-business-ventures.json) |
@@ -14608,6 +14610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrainBread 2 | 35823 | [35823-brainbread-2.json](./35823-brainbread-2.json) |
 | BrainBurst! | 71278 | [71278-brainburst.json](./71278-brainburst.json) |
 | brainCloud Bombers | 120400 | [120400-braincloud-bombers.json](./120400-braincloud-bombers.json) |
+| BrainConnect | 174466 | [174466-brainconnect.json](./174466-brainconnect.json) |
 | Braindead | 345660 | [345660-braindead.json](./345660-braindead.json) |
 | Braindead, Your Majesty | 108827 | [108827-braindead-your-majesty.json](./108827-braindead-your-majesty.json) |
 | Brainfuck | 110888 | [110888-brainfuck.json](./110888-brainfuck.json) |
@@ -15569,6 +15572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricknosis | 391615 | [391615-bricknosis.json](./391615-bricknosis.json) |
 | Brickoid | 357167 | [357167-brickoid.json](./357167-brickoid.json) |
 | BrickOps | 417825 | [417825-brickops.json](./417825-brickops.json) |
+| BrickOut | 174452 | [174452-brickout.json](./174452-brickout.json) |
 | Brickout Kings | 108402 | [108402-brickout-kings.json](./108402-brickout-kings.json) |
 | Bricks | 292111 | [292111-bricks.json](./292111-bricks.json) |
 | Bricks | 93476 | [93476-bricks.json](./93476-bricks.json) |
@@ -16549,6 +16553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Fighter | 58095 | [58095-bubble-fighter.json](./58095-bubble-fighter.json) |
 | Bubble Fire Story | 233179 | [233179-bubble-fire-story.json](./233179-bubble-fire-story.json) |
 | Bubble Fish | 344131 | [344131-bubble-fish.json](./344131-bubble-fish.json) |
+| Bubble Fish Party | 174464 | [174464-bubble-fish-party.json](./174464-bubble-fish-party.json) |
 | Bubble Fresh Fruits | 289376 | [289376-bubble-fresh-fruits.json](./289376-bubble-fresh-fruits.json) |
 | Bubble Frog | 290337 | [290337-bubble-frog.json](./290337-bubble-frog.json) |
 | Bubble Frog DX | 339711 | [339711-bubble-frog-dx.json](./339711-bubble-frog-dx.json) |
