@@ -3746,6 +3746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Ball Adventure 3D | 102778 | [102778-red-ball-adventure-3d.json](./102778-red-ball-adventure-3d.json) |
 | Red Ball Escape | 150633 | [150633-red-ball-escape.json](./150633-red-ball-escape.json) |
 | Red Ball Escape Adventure | 218477 | [218477-red-ball-escape-adventure.json](./218477-red-ball-escape-adventure.json) |
+| Red Ball Evolved | 186351 | [186351-red-ball-evolved.json](./186351-red-ball-evolved.json) |
 | Red Ball Super Run | 228711 | [228711-red-ball-super-run.json](./228711-red-ball-super-run.json) |
 | Red Ball vs Green King | 28184 | [28184-red-ball-vs-green-king.json](./28184-red-ball-vs-green-king.json) |
 | Red Baron | 148139 | [148139-red-baron.json](./148139-red-baron.json) |
@@ -6436,6 +6437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenant: Through the Veil | 352288 | [352288-revenant-through-the-veil.json](./352288-revenant-through-the-veil.json) |
 | Revenant's Reach | 130518 | [130518-revenants-reach.json](./130518-revenants-reach.json) |
 | Revenant's Reach | 385405 | [385405-revenants-reach.json](./385405-revenants-reach.json) |
+| Revenants | 186223 | [186223-revenants.json](./186223-revenants.json) |
 | Revenants: Spirit & Mind | 190154 | [190154-revenants-spirit-and-mind.json](./190154-revenants-spirit-and-mind.json) |
 | RevenBlade | 133588 | [133588-revenblade.json](./133588-revenblade.json) |
 | Revengate | 398012 | [398012-revengate.json](./398012-revengate.json) |
@@ -7594,6 +7596,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rims Racing | 135668 | [135668-rims-racing.json](./135668-rims-racing.json) |
 | RiMS Racing x WRC 10 | 218414 | [218414-rims-racing-x-wrc-10.json](./218414-rims-racing-x-wrc-10.json) |
 | Rims Racing: Bahrain International Circuit | 174477 | [174477-rims-racing-bahrain-international-circuit.json](./174477-rims-racing-bahrain-international-circuit.json) |
+| RiMS Racing: European Manufacturers Deluxe Edition | 186363 | [186363-rims-racing-european-manufacturers-deluxe-edition.json](./186363-rims-racing-european-manufacturers-deluxe-edition.json) |
+| RiMS Racing: Japanese Manufacturers Deluxe Edition | 186362 | [186362-rims-racing-japanese-manufacturers-deluxe-edition.json](./186362-rims-racing-japanese-manufacturers-deluxe-edition.json) |
 | Rims Racing: Ultimate Edition | 165880 | [165880-rims-racing-ultimate-edition.json](./165880-rims-racing-ultimate-edition.json) |
 | Rimward Basilisk | 367758 | [367758-rimward-basilisk.json](./367758-rimward-basilisk.json) |
 | RimWorld: Anomaly | 291070 | [291070-rimworld-anomaly.json](./291070-rimworld-anomaly.json) |
