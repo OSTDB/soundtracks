@@ -5957,6 +5957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -18171,6 +18172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain's Memory | 341450 | [341450-mountains-memory.json](./341450-mountains-memory.json) |
 | Mountain's Secret | 345440 | [345440-mountains-secret.json](./345440-mountains-secret.json) |
 | Mountaincore | 245932 | [245932-mountaincore.json](./245932-mountaincore.json) |
+| Mountaineer | 184162 | [184162-mountaineer.json](./184162-mountaineer.json) |
 | Mountaineer | 55712 | [55712-mountaineer.json](./55712-mountaineer.json) |
 | Mountains and Rivers scroll | 158100 | [158100-mountains-and-rivers-scroll.json](./158100-mountains-and-rivers-scroll.json) |
 | Mountains of Ket | 71424 | [71424-mountains-of-ket.json](./71424-mountains-of-ket.json) |
