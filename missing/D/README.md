@@ -1089,6 +1089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Dave's Risky Rescue | 11388 | [11388-dangerous-daves-risky-rescue.json](./11388-dangerous-daves-risky-rescue.json) |
 | Dangerous Degrees | 163755 | [163755-dangerous-degrees.json](./163755-dangerous-degrees.json) |
 | Dangerous Derek's Livestream | 315975 | [315975-dangerous-dereks-livestream.json](./315975-dangerous-dereks-livestream.json) |
+| Dangerous Descent | 179282 | [179282-dangerous-descent.json](./179282-dangerous-descent.json) |
 | Dangerous Drift | 190272 | [190272-dangerous-drift.json](./190272-dangerous-drift.json) |
 | Dangerous Driving | 104232 | [104232-dangerous-driving.json](./104232-dangerous-driving.json) |
 | Dangerous Duels | 134509 | [134509-dangerous-duels.json](./134509-dangerous-duels.json) |
@@ -4584,6 +4585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death of Marionette | 274342 | [274342-death-of-marionette.json](./274342-death-of-marionette.json) |
 | Death of the Artificer | 299727 | [299727-death-of-the-artificer.json](./299727-death-of-the-artificer.json) |
 | Death of the Augnob | 251198 | [251198-death-of-the-augnob.json](./251198-death-of-the-augnob.json) |
+| Death of the Diseased | 179283 | [179283-death-of-the-diseased.json](./179283-death-of-the-diseased.json) |
 | Death of the King | 314040 | [314040-death-of-the-king.json](./314040-death-of-the-king.json) |
 | Death of the Reprobate | 217250 | [217250-death-of-the-reprobate.json](./217250-death-of-the-reprobate.json) |
 | Death off the Cuff: Remastered | 174021 | [174021-death-off-the-cuff-remastered.json](./174021-death-off-the-cuff-remastered.json) |
@@ -9085,6 +9087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digging Together | 372405 | [372405-digging-together.json](./372405-digging-together.json) |
 | Digging Town | 364219 | [364219-digging-town.json](./364219-digging-town.json) |
 | Diggles: The Myth of Fenris | 9521 | [9521-diggles-the-myth-of-fenris.json](./9521-diggles-the-myth-of-fenris.json) |
+| Diggy | 179271 | [179271-diggy.json](./179271-diggy.json) |
 | Diggy Diggy Dwarf | 269388 | [269388-diggy-diggy-dwarf.json](./269388-diggy-diggy-dwarf.json) |
 | Diggy: Gold Rush | 248098 | [248098-diggy-gold-rush.json](./248098-diggy-gold-rush.json) |
 | Digi Fighters | 392428 | [392428-digi-fighters.json](./392428-digi-fighters.json) |
@@ -11115,6 +11118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DIY Paper Doll: Complete Edition | 280604 | [280604-diy-paper-doll-complete-edition.json](./280604-diy-paper-doll-complete-edition.json) |
 | DIY Slime Maker! Squishy ASMR | 106593 | [106593-diy-slime-maker-squishy-asmr.json](./106593-diy-slime-maker-squishy-asmr.json) |
 | DIY Tour: Indie Rock Simulator | 197552 | [197552-diy-tour-indie-rock-simulator.json](./197552-diy-tour-indie-rock-simulator.json) |
+| DIYCraft2D | 179287 | [179287-diycraft2d.json](./179287-diycraft2d.json) |
 | Dizzel | 379403 | [379403-dizzel.json](./379403-dizzel.json) |
 | Dizzel | 63687 | [63687-dizzel.json](./63687-dizzel.json) |
 | Dizziness | 181375 | [181375-dizziness.json](./181375-dizziness.json) |
