@@ -1363,6 +1363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldi's Basics The Ancient Save | 321294 | [321294-baldis-basics-the-ancient-save.json](./321294-baldis-basics-the-ancient-save.json) |
 | Baldi's Basics: Encounter Doors | 353384 | [353384-baldis-basics-encounter-doors.json](./353384-baldis-basics-encounter-doors.json) |
 | Baldi's Farm! | 263665 | [263665-baldis-farm.json](./263665-baldis-farm.json) |
+| Baldi's Fun New School: Remastered | 179810 | [179810-baldis-fun-new-school-remastered.json](./179810-baldis-fun-new-school-remastered.json) |
 | Baldies | 90071 | [90071-baldies.json](./90071-baldies.json) |
 | Baldimore's Highschool | 183230 | [183230-baldimores-highschool.json](./183230-baldimores-highschool.json) |
 | Baldis Advanced 3D Math Class | 372196 | [372196-baldis-advanced-3d-math-class.json](./372196-baldis-advanced-3d-math-class.json) |
@@ -7608,6 +7609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Sky Country: Book 1 | 313717 | [313717-big-sky-country-book-1.json](./313717-big-sky-country-book-1.json) |
 | Big Sky Country: Book 2 | 313718 | [313718-big-sky-country-book-2.json](./313718-big-sky-country-book-2.json) |
 | Big Sky Trooper | 42640 | [42640-big-sky-trooper.json](./42640-big-sky-trooper.json) |
+| Big snail doesn't solve a murder | 179808 | [179808-big-snail-doesnt-solve-a-murder.json](./179808-big-snail-doesnt-solve-a-murder.json) |
 | Big Sports 12 | 41194 | [41194-big-sports-12.json](./41194-big-sports-12.json) |
 | Big Story Little Heroes | 62741 | [62741-big-story-little-heroes.json](./62741-big-story-little-heroes.json) |
 | Big Strike Bowling | 43892 | [43892-big-strike-bowling.json](./43892-big-strike-bowling.json) |
@@ -16292,6 +16294,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS Dragon Quest: Dai-4-wa | 179910 | [179910-bs-dragon-quest-dai-4-wa.json](./179910-bs-dragon-quest-dai-4-wa.json) |
 | BS F-Zero Deluxe | 286625 | [286625-bs-f-zero-deluxe.json](./286625-bs-f-zero-deluxe.json) |
 | BS F-Zero Grand Prix 2 | 151577 | [151577-bs-f-zero-grand-prix-2.json](./151577-bs-f-zero-grand-prix-2.json) |
+| BS F-Zero Grand Prix 2: Dai-1-shuu | 179782 | [179782-bs-f-zero-grand-prix-2-dai-1-shuu.json](./179782-bs-f-zero-grand-prix-2-dai-1-shuu.json) |
+| BS F-Zero Grand Prix 2: Dai-2-shuu | 179785 | [179785-bs-f-zero-grand-prix-2-dai-2-shuu.json](./179785-bs-f-zero-grand-prix-2-dai-2-shuu.json) |
 | BS F-Zero Grand Prix 2: Practice | 38348 | [38348-bs-f-zero-grand-prix-2-practice.json](./38348-bs-f-zero-grand-prix-2-practice.json) |
 | BS F-Zero Grand Prix: Dai-1-shuu - Knight League | 179903 | [179903-bs-f-zero-grand-prix-dai-1-shuu-knight-league.json](./179903-bs-f-zero-grand-prix-dai-1-shuu-knight-league.json) |
 | BS F-Zero Grand Prix: Dai-2-shuu - Queen League | 179904 | [179904-bs-f-zero-grand-prix-dai-2-shuu-queen-league.json](./179904-bs-f-zero-grand-prix-dai-2-shuu-queen-league.json) |
@@ -16326,6 +16330,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BS Marvelous: Time Athletic - Course 3 | 178389 | [178389-bs-marvelous-time-athletic-course-3.json](./178389-bs-marvelous-time-athletic-course-3.json) |
 | BS Marvelous: Time Athletic - Course 4 | 178390 | [178390-bs-marvelous-time-athletic-course-4.json](./178390-bs-marvelous-time-athletic-course-4.json) |
 | BS Monopoly: Kouza Boardwalk he no Michi | 134495 | [134495-bs-monopoly-kouza-boardwalk-he-no-michi.json](./134495-bs-monopoly-kouza-boardwalk-he-no-michi.json) |
+| BS Monopoly: Kouza Boardwalk he no Michi - Dai-1-kai | 179820 | [179820-bs-monopoly-kouza-boardwalk-he-no-michi-dai-1-kai.json](./179820-bs-monopoly-kouza-boardwalk-he-no-michi-dai-1-kai.json) |
+| BS Monopoly: Kouza Boardwalk he no Michi - Dai-2-kai | 179821 | [179821-bs-monopoly-kouza-boardwalk-he-no-michi-dai-2-kai.json](./179821-bs-monopoly-kouza-boardwalk-he-no-michi-dai-2-kai.json) |
+| BS Monopoly: Kouza Boardwalk he no Michi - Dai-3-kai | 179822 | [179822-bs-monopoly-kouza-boardwalk-he-no-michi-dai-3-kai.json](./179822-bs-monopoly-kouza-boardwalk-he-no-michi-dai-3-kai.json) |
+| BS Monopoly: Kouza Boardwalk he no Michi - Dai-4-kai | 179823 | [179823-bs-monopoly-kouza-boardwalk-he-no-michi-dai-4-kai.json](./179823-bs-monopoly-kouza-boardwalk-he-no-michi-dai-4-kai.json) |
 | BS Nichibutsu Mahjong | 98197 | [98197-bs-nichibutsu-mahjong.json](./98197-bs-nichibutsu-mahjong.json) |
 | BS Nichibutsu Mahjong: Renshuu Mahjong - Ichimantou | 179911 | [179911-bs-nichibutsu-mahjong-renshuu-mahjong-ichimantou.json](./179911-bs-nichibutsu-mahjong-renshuu-mahjong-ichimantou.json) |
 | BS Nichibutsu Mahjong: Renshuu Mahjong - Nimantou | 179912 | [179912-bs-nichibutsu-mahjong-renshuu-mahjong-nimantou.json](./179912-bs-nichibutsu-mahjong-renshuu-mahjong-nimantou.json) |
