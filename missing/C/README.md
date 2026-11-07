@@ -2339,6 +2339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caravanners | 320126 | [320126-caravanners.json](./320126-caravanners.json) |
 | Caravanserail | 33387 | [33387-caravanserail.json](./33387-caravanserail.json) |
 | Caravel: Deadly Rooms of Death | 69705 | [69705-caravel-deadly-rooms-of-death.json](./69705-caravel-deadly-rooms-of-death.json) |
+| Caravella's Critical Crisis | 184669 | [184669-caravellas-critical-crisis.json](./184669-caravellas-critical-crisis.json) |
 | Carbage | 130766 | [130766-carbage.json](./130766-carbage.json) |
 | Carball 360 | 267747 | [267747-carball-360.json](./267747-carball-360.json) |
 | Carbon | 304533 | [304533-carbon.json](./304533-carbon.json) |
@@ -2999,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carrom Friends | 240205 | [240205-carrom-friends.json](./240205-carrom-friends.json) |
 | Carrom Pool: Disc Game | 174772 | [174772-carrom-pool-disc-game.json](./174772-carrom-pool-disc-game.json) |
 | Carroñero | 385939 | [385939-carronero.json](./385939-carronero.json) |
+| Carrot | 184539 | [184539-carrot.json](./184539-carrot.json) |
 | Carrot Cake | 340810 | [340810-carrot-cake.json](./340810-carrot-cake.json) |
 | Carrot Catcher | 382766 | [382766-carrot-catcher.json](./382766-carrot-catcher.json) |
 | Carrot Clicker | 281536 | [281536-carrot-clicker.json](./281536-carrot-clicker.json) |
@@ -11424,6 +11426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CodeStrike | 368500 | [368500-codestrike.json](./368500-codestrike.json) |
 | CodeWalkers | 158363 | [158363-codewalkers.json](./158363-codewalkers.json) |
 | CodeWordPlay | 228096 | [228096-codewordplay.json](./228096-codewordplay.json) |
+| Codex | 184542 | [184542-codex.json](./184542-codex.json) |
 | CodeX | 276671 | [276671-codex.json](./276671-codex.json) |
 | Codex Arcana: Grimoire of Monsters | 386832 | [386832-codex-arcana-grimoire-of-monsters.json](./386832-codex-arcana-grimoire-of-monsters.json) |
 | Codex Combat | 392180 | [392180-codex-combat.json](./392180-codex-combat.json) |
