@@ -6916,6 +6916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gomoku | 274865 | [274865-gomoku.json](./274865-gomoku.json) |
 | Gomoku | 413065 | [413065-gomoku.json](./413065-gomoku.json) |
 | Gomoku | 88700 | [88700-gomoku.json](./88700-gomoku.json) |
+| Gomoku AI: Line Five In A Row | 164672 | [164672-gomoku-ai-line-five-in-a-row.json](./164672-gomoku-ai-line-five-in-a-row.json) |
 | Gomoku and Renju | 44350 | [44350-gomoku-and-renju.json](./44350-gomoku-and-renju.json) |
 | Gomoku HD | 106453 | [106453-gomoku-hd.json](./106453-gomoku-hd.json) |
 | Gomoku Let's Go | 173252 | [173252-gomoku-lets-go.json](./173252-gomoku-lets-go.json) |
@@ -8447,6 +8448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graveyard Keeper: Collector's Edition | 134367 | [134367-graveyard-keeper-collectors-edition.json](./134367-graveyard-keeper-collectors-edition.json) |
 | Graveyard Keeper: Last Journey Edition | 246261 | [246261-graveyard-keeper-last-journey-edition.json](./246261-graveyard-keeper-last-journey-edition.json) |
 | Graveyard Keeper: Stranger Sins | 124879 | [124879-graveyard-keeper-stranger-sins.json](./124879-graveyard-keeper-stranger-sins.json) |
+| Graveyard Keeper: Ultimate Collector's Edition | 164670 | [164670-graveyard-keeper-ultimate-collectors-edition.json](./164670-graveyard-keeper-ultimate-collectors-edition.json) |
 | Graveyard Keeper: Undead Edition | 350798 | [350798-graveyard-keeper-undead-edition.json](./350798-graveyard-keeper-undead-edition.json) |
 | Graveyard Miner | 255800 | [255800-graveyard-miner.json](./255800-graveyard-miner.json) |
 | Graveyard Orbit | 407329 | [407329-graveyard-orbit.json](./407329-graveyard-orbit.json) |
@@ -9304,6 +9306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GridEnergy | 416665 | [416665-gridenergy.json](./416665-gridenergy.json) |
 | Gridfall | 373119 | [373119-gridfall.json](./373119-gridfall.json) |
 | Gridfire | 84226 | [84226-gridfire.json](./84226-gridfire.json) |
+| Gridform | 164650 | [164650-gridform.json](./164650-gridform.json) |
 | Gridhack | 325507 | [325507-gridhack.json](./325507-gridhack.json) |
 | Gridheart | 198047 | [198047-gridheart.json](./198047-gridheart.json) |
 | Gridiron | 85968 | [85968-gridiron.json](./85968-gridiron.json) |
