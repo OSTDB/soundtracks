@@ -5986,7 +5986,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -10139,6 +10138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteorite's Journey | 55146 | [55146-meteorites-journey.json](./55146-meteorites-journey.json) |
 | Meteorites | 24787 | [24787-meteorites.json](./24787-meteorites.json) |
 | Meteoroids | 307592 | [307592-meteoroids.json](./307592-meteoroids.json) |
+| Meteoroids 3D | 159961 | [159961-meteoroids-3d.json](./159961-meteoroids-3d.json) |
 | Meteors | 13737 | [13737-meteors.json](./13737-meteors.json) |
 | Meteors | 80993 | [80993-meteors.json](./80993-meteors.json) |
 | Meteorus: O Universo em Conflito | 296190 | [296190-meteorus-o-universo-em-conflito.json](./296190-meteorus-o-universo-em-conflito.json) |
@@ -13489,6 +13489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Tunes! Game de Tune Up! Da Pun! | 222544 | [222544-miracle-tunes-game-de-tune-up-da-pun.json](./222544-miracle-tunes-game-de-tune-up-da-pun.json) |
 | Miracle Warrior of Mountains and Seas | 153345 | [153345-miracle-warrior-of-mountains-and-seas.json](./153345-miracle-warrior-of-mountains-and-seas.json) |
 | Miracle Warriors: Seal of the Dark Lord | 47526 | [47526-miracle-warriors-seal-of-the-dark-lord.json](./47526-miracle-warriors-seal-of-the-dark-lord.json) |
+| Miracle World | 159973 | [159973-miracle-world.json](./159973-miracle-world.json) |
 | Miracle World: Fushigi no Kuni no IQ Meiro | 256638 | [256638-miracle-world-fushigi-no-kuni-no-iq-meiro.json](./256638-miracle-world-fushigi-no-kuni-no-iq-meiro.json) |
 | Miracle! Panzou Uchu Daisakusen | 339044 | [339044-miracle-panzou-uchu-daisakusen.json](./339044-miracle-panzou-uchu-daisakusen.json) |
 | Miracle! Panzou: 7-tsu no Hoshi no Uchuu Kaizoku | 49723 | [49723-miracle-panzou-7-tsu-no-hoshi-no-uchuu-kaizoku.json](./49723-miracle-panzou-7-tsu-no-hoshi-no-uchuu-kaizoku.json) |
@@ -14140,6 +14141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mite | 235424 | [235424-mite.json](./235424-mite.json) |
 | Mite ha Ikenai | 300344 | [300344-mite-ha-ikenai.json](./300344-mite-ha-ikenai.json) |
 | Mite Kiite Nou de Kanjite Crossword Tengoku | 269440 | [269440-mite-kiite-nou-de-kanjite-crossword-tengoku.json](./269440-mite-kiite-nou-de-kanjite-crossword-tengoku.json) |
+| Mithos | 159980 | [159980-mithos.json](./159980-mithos.json) |
 | Mithra | 285485 | [285485-mithra.json](./285485-mithra.json) |
 | Mithra - Episode 1, Chapter 1 | 68555 | [68555-mithra-episode-1-chapter-1.json](./68555-mithra-episode-1-chapter-1.json) |
 | Mithra Dream Battle | 227741 | [227741-mithra-dream-battle.json](./227741-mithra-dream-battle.json) |
@@ -15347,6 +15349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mongrel | 57197 | [57197-mongrel.json](./57197-mongrel.json) |
 | Mongrel Games Minigames | 211636 | [211636-mongrel-games-minigames.json](./211636-mongrel-games-minigames.json) |
 | Mónǐ Jiā Zhuāngxiū | 117471 | [117471-moni-jia-zhuangxiu.json](./117471-moni-jia-zhuangxiu.json) |
+| Mónǐ Liànqiāng | 159986 | [159986-moni-lianqiang.json](./159986-moni-lianqiang.json) |
 | Monica Bunny Bashings | 56193 | [56193-monica-bunny-bashings.json](./56193-monica-bunny-bashings.json) |
 | Mônica Dentuça | 216273 | [216273-monica-dentuca.json](./216273-monica-dentuca.json) |
 | Mônica e a Guarda dos Coelhos | 112669 | [112669-monica-e-a-guarda-dos-coelhos.json](./112669-monica-e-a-guarda-dos-coelhos.json) |
@@ -18466,6 +18469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mowing Mazes | 299615 | [299615-mowing-mazes.json](./299615-mowing-mazes.json) |
 | Mowit: Grass Cutting Simulator | 373044 | [373044-mowit-grass-cutting-simulator.json](./373044-mowit-grass-cutting-simulator.json) |
 | Mówù Diàocházhě | 154027 | [154027-mowu-diaochazhe.json](./154027-mowu-diaochazhe.json) |
+| Mówù Jǐngjiè | 159946 | [159946-mowu-jingjie.json](./159946-mowu-jingjie.json) |
 | Mówùniáng Wùyǔ | 100540 | [100540-mowuniang-wuyu.json](./100540-mowuniang-wuyu.json) |
 | Mowy Lawn | 92096 | [92096-mowy-lawn.json](./92096-mowy-lawn.json) |
 | Mowzie's Mobs | 331346 | [331346-mowzies-mobs.json](./331346-mowzies-mobs.json) |
