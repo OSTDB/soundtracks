@@ -3266,6 +3266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump Malcolm Jump | 265344 | [265344-jump-malcolm-jump.json](./265344-jump-malcolm-jump.json) |
 | Jump Man | 332528 | [332528-jump-man.json](./332528-jump-man.json) |
 | Jump Mechanic | 258113 | [258113-jump-mechanic.json](./258113-jump-mechanic.json) |
+| Jump Movement | 190779 | [190779-jump-movement.json](./190779-jump-movement.json) |
 | Jump N Shooters | 244374 | [244374-jump-n-shooters.json](./244374-jump-n-shooters.json) |
 | Jump Now | 359348 | [359348-jump-now.json](./359348-jump-now.json) |
 | Jump O'Clock | 65226 | [65226-jump-oclock.json](./65226-jump-oclock.json) |
