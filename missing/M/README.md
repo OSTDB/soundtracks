@@ -5986,7 +5986,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -20054,6 +20053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muyagangho | 224405 | [224405-muyagangho.json](./224405-muyagangho.json) |
 | Muyuu | 166437 | [166437-muyuu.json](./166437-muyuu.json) |
 | Muzan: Chiniku no Ikenie | 67230 | [67230-muzan-chiniku-no-ikenie.json](./67230-muzan-chiniku-no-ikenie.json) |
+| Muzegate | 158845 | [158845-muzegate.json](./158845-muzegate.json) |
 | Muzzle Flash | 62073 | [62073-muzzle-flash.json](./62073-muzzle-flash.json) |
 | Muzzle Run | 247304 | [247304-muzzle-run.json](./247304-muzzle-run.json) |
 | Muzzle Velocity | 70947 | [70947-muzzle-velocity.json](./70947-muzzle-velocity.json) |
@@ -21106,6 +21106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Neighbour Mr.Ghost | 265591 | [265591-my-neighbour-mr-ghost.json](./265591-my-neighbour-mr-ghost.json) |
 | My Nemesis and Hero | 186849 | [186849-my-nemesis-and-hero.json](./186849-my-nemesis-and-hero.json) |
 | My New Classmate is a Dragon?! | 261120 | [261120-my-new-classmate-is-a-dragon.json](./261120-my-new-classmate-is-a-dragon.json) |
+| My New Memories | 158825 | [158825-my-new-memories.json](./158825-my-new-memories.json) |
 | My New Memories: The Beginning | 311191 | [311191-my-new-memories-the-beginning.json](./311191-my-new-memories-the-beginning.json) |
 | My new neighbor is a Futa | 266608 | [266608-my-new-neighbor-is-a-futa.json](./266608-my-new-neighbor-is-a-futa.json) |
 | My New Room | 358591 | [358591-my-new-room.json](./358591-my-new-room.json) |
