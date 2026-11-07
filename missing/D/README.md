@@ -9352,6 +9352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diluted | 382739 | [382739-diluted.json](./382739-diluted.json) |
 | Diluvian Ultra | 162254 | [162254-diluvian-ultra.json](./162254-diluvian-ultra.json) |
 | Diluvian Ultra: Awakening | 316989 | [316989-diluvian-ultra-awakening.json](./316989-diluvian-ultra-awakening.json) |
+| Diluvian Winds | 165278 | [165278-diluvian-winds.json](./165278-diluvian-winds.json) |
 | Diluvium | 64890 | [64890-diluvium.json](./64890-diluvium.json) |
 | Dim | 329686 | [329686-dim.json](./329686-dim.json) |
 | Dim Glow | 158193 | [158193-dim-glow.json](./158193-dim-glow.json) |
