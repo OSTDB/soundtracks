@@ -4392,6 +4392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Games Neighbor | 101101 | [101101-hello-games-neighbor.json](./101101-hello-games-neighbor.json) |
 | Hello Girl | 257343 | [257343-hello-girl.json](./257343-hello-girl.json) |
 | Hello Girl | 333668 | [333668-hello-girl.json](./333668-hello-girl.json) |
+| Hello Goodboy | 190789 | [190789-hello-goodboy.json](./190789-hello-goodboy.json) |
 | Hello Goodboy + To The Rescue! | 357024 | [357024-hello-goodboy-to-the-rescue.json](./357024-hello-goodboy-to-the-rescue.json) |
 | Hello Ground | 185016 | [185016-hello-ground.json](./185016-hello-ground.json) |
 | Hello Guest | 140605 | [140605-hello-guest.json](./140605-hello-guest.json) |
@@ -5326,6 +5327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Sakura | 286453 | [286453-hentai-sakura.json](./286453-hentai-sakura.json) |
 | Hentai Sally | 340449 | [340449-hentai-sally.json](./340449-hentai-sally.json) |
 | Hentai Saves Australia | 366513 | [366513-hentai-saves-australia.json](./366513-hentai-saves-australia.json) |
+| Hentai Sea Battle | 190793 | [190793-hentai-sea-battle.json](./190793-hentai-sea-battle.json) |
 | Hentai Secrets | 237563 | [237563-hentai-secrets.json](./237563-hentai-secrets.json) |
 | Hentai Secrets | 286392 | [286392-hentai-secrets.json](./286392-hentai-secrets.json) |
 | Hentai Seek | 366514 | [366514-hentai-seek.json](./366514-hentai-seek.json) |
@@ -5863,6 +5865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of Sparta | 21690 | [21690-hero-of-sparta.json](./21690-hero-of-sparta.json) |
 | Hero of Sparta II | 21691 | [21691-hero-of-sparta-ii.json](./21691-hero-of-sparta-ii.json) |
 | Hero of Sunset | 364375 | [364375-hero-of-sunset.json](./364375-hero-of-sunset.json) |
+| Hero of the Day | 190806 | [190806-hero-of-the-day.json](./190806-hero-of-the-day.json) |
 | Hero of the Demon | 156917 | [156917-hero-of-the-demon.json](./156917-hero-of-the-demon.json) |
 | Hero of the Forest | 122818 | [122818-hero-of-the-forest.json](./122818-hero-of-the-forest.json) |
 | Hero of the Galactic Core | 55512 | [55512-hero-of-the-galactic-core.json](./55512-hero-of-the-galactic-core.json) |
@@ -12323,6 +12326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hymn | 183937 | [183937-hymn.json](./183937-hymn.json) |
 | Hymn to the Earless God | 263959 | [263959-hymn-to-the-earless-god.json](./263959-hymn-to-the-earless-god.json) |
 | Hymn: A Heretic Community Project | 262180 | [262180-hymn-a-heretic-community-project.json](./262180-hymn-a-heretic-community-project.json) |
+| Hymns of Resurrection | 190785 | [190785-hymns-of-resurrection.json](./190785-hymns-of-resurrection.json) |
 | Hynpytol | 261397 | [261397-hynpytol.json](./261397-hynpytol.json) |
 | Hyokkori Hyoutan-jima: Hyoutan-jima no Daikoukai | 46312 | [46312-hyokkori-hyoutan-jima-hyoutan-jima-no-daikoukai.json](./46312-hyokkori-hyoutan-jima-hyoutan-jima-no-daikoukai.json) |
 | Hyokkori Hyoutan-jima: Takaramono Tocchae! | 346028 | [346028-hyokkori-hyoutan-jima-takaramono-tocchae.json](./346028-hyokkori-hyoutan-jima-takaramono-tocchae.json) |
