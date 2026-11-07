@@ -9196,6 +9196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foodslingers | 344837 | [344837-foodslingers.json](./344837-foodslingers.json) |
 | FoodStars.io | 388131 | [388131-foodstars-io.json](./388131-foodstars-io.json) |
 | Foodtruck Arena | 126982 | [126982-foodtruck-arena.json](./126982-foodtruck-arena.json) |
+| Foodtruck Arena | 139531 | [139531-foodtruck-arena.json](./139531-foodtruck-arena.json) |
 | FooFee | 277423 | [277423-foofee.json](./277423-foofee.json) |
 | Fool King | 356724 | [356724-fool-king.json](./356724-fool-king.json) |
 | Fool! | 118345 | [118345-fool.json](./118345-fool.json) |
