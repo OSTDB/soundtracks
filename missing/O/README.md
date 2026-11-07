@@ -364,6 +364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Occult Cleanup Agency | 420488 | [420488-occult-cleanup-agency.json](./420488-occult-cleanup-agency.json) |
 | Occult Crime Police | 178899 | [178899-occult-crime-police.json](./178899-occult-crime-police.json) |
 | Occult Crime Police: Medium at Large | 280005 | [280005-occult-crime-police-medium-at-large.json](./280005-occult-crime-police-medium-at-large.json) |
+| Occult Defence Agency Budgeting Simulator | 181479 | [181479-occult-defence-agency-budgeting-simulator.json](./181479-occult-defence-agency-budgeting-simulator.json) |
 | Occult Maiden | 59011 | [59011-occult-maiden.json](./59011-occult-maiden.json) |
 | Occult Mingle | 290193 | [290193-occult-mingle.json](./290193-occult-mingle.json) |
 | Occult Office: Lofi Rituals | 381517 | [381517-occult-office-lofi-rituals.json](./381517-occult-office-lofi-rituals.json) |
@@ -1315,6 +1316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oil Panic | 228397 | [228397-oil-panic.json](./228397-oil-panic.json) |
 | Oil Panic | 231724 | [231724-oil-panic.json](./231724-oil-panic.json) |
 | Oil Patch Simulations | 110366 | [110366-oil-patch-simulations.json](./110366-oil-patch-simulations.json) |
+| Oil Patrol | 181474 | [181474-oil-patrol.json](./181474-oil-patrol.json) |
 | Oil Platform Simulator | 65265 | [65265-oil-platform-simulator.json](./65265-oil-platform-simulator.json) |
 | Oil Platform Simulator 2013 | 144680 | [144680-oil-platform-simulator-2013.json](./144680-oil-platform-simulator-2013.json) |
 | Oil Refinery: The Simulation | 344242 | [344242-oil-refinery-the-simulation.json](./344242-oil-refinery-the-simulation.json) |
