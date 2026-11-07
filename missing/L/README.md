@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lab Escape | 358037 | [358037-lab-escape.json](./358037-lab-escape.json) |
 | Lab Escape! | 299450 | [299450-lab-escape.json](./299450-lab-escape.json) |
 | Lab Inspect | 226141 | [226141-lab-inspect.json](./226141-lab-inspect.json) |
+| Lab Rags | 145824 | [145824-lab-rags.json](./145824-lab-rags.json) |
 | Lab Rat | 94244 | [94244-lab-rat.json](./94244-lab-rat.json) |
 | Lab Rat Escape | 323541 | [323541-lab-rat-escape.json](./323541-lab-rat-escape.json) |
 | Lab Remnants | 188367 | [188367-lab-remnants.json](./188367-lab-remnants.json) |
@@ -4579,6 +4580,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life Is Strange: Limited Edition | 41610 | [41610-life-is-strange-limited-edition.json](./41610-life-is-strange-limited-edition.json) |
 | Life is Strange: True Colors | 144765 | [144765-life-is-strange-true-colors.json](./144765-life-is-strange-true-colors.json) |
 | Life is Strange: True Colors - Alex Outfit Pack | 312108 | [312108-life-is-strange-true-colors-alex-outfit-pack.json](./312108-life-is-strange-true-colors-alex-outfit-pack.json) |
+| Life is Strange: True Colors - Deluxe Edition | 145814 | [145814-life-is-strange-true-colors-deluxe-edition.json](./145814-life-is-strange-true-colors-deluxe-edition.json) |
+| Life is Strange: True Colors - Ultimate Edition | 145812 | [145812-life-is-strange-true-colors-ultimate-edition.json](./145812-life-is-strange-true-colors-ultimate-edition.json) |
 | Life is Strange: Wavelengths | 144873 | [144873-life-is-strange-wavelengths.json](./144873-life-is-strange-wavelengths.json) |
 | Life Jigsaw Puzzles | 106913 | [106913-life-jigsaw-puzzles.json](./106913-life-jigsaw-puzzles.json) |
 | Life Lessons | 97189 | [97189-life-lessons.json](./97189-life-lessons.json) |
