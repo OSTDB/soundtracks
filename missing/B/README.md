@@ -970,6 +970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2314,6 +2315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bara Beach Bear | 207166 | [207166-bara-beach-bear.json](./207166-bara-beach-bear.json) |
 | Bara Blackjack | 207169 | [207169-bara-blackjack.json](./207169-bara-blackjack.json) |
 | Bara Boarders | 183046 | [183046-bara-boarders.json](./183046-bara-boarders.json) |
+| Bara Giants | 149108 | [149108-bara-giants.json](./149108-bara-giants.json) |
 | Bara ni Kakusareshi Verite | 12642 | [12642-bara-ni-kakusareshi-verite.json](./12642-bara-ni-kakusareshi-verite.json) |
 | Bara no Ki ni Bara no Hanasaku Fandisk | 218954 | [218954-bara-no-ki-ni-bara-no-hanasaku-fandisk.json](./218954-bara-no-ki-ni-bara-no-hanasaku-fandisk.json) |
 | Bara no Ki ni: Bara no Hanasaku | 56522 | [56522-bara-no-ki-ni-bara-no-hanasaku.json](./56522-bara-no-ki-ni-bara-no-hanasaku.json) |
@@ -16037,6 +16039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Dimensions | 350640 | [350640-broken-dimensions.json](./350640-broken-dimensions.json) |
 | Broken Dreams | 33495 | [33495-broken-dreams.json](./33495-broken-dreams.json) |
 | Broken Drive | 416958 | [416958-broken-drive.json](./416958-broken-drive.json) |
+| Broken Dungeon | 149116 | [149116-broken-dungeon.json](./149116-broken-dungeon.json) |
 | Broken Ecchi Gallery | 280748 | [280748-broken-ecchi-gallery.json](./280748-broken-ecchi-gallery.json) |
 | Broken Edge | 204335 | [204335-broken-edge.json](./204335-broken-edge.json) |
 | Broken Egg | 183712 | [183712-broken-egg.json](./183712-broken-egg.json) |
@@ -16120,6 +16123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Ties | 96684 | [96684-broken-ties.json](./96684-broken-ties.json) |
 | Broken Universe + Brawl Chess | 231362 | [231362-broken-universe-brawl-chess.json](./231362-broken-universe-brawl-chess.json) |
 | Broken Universe + Clumsy Rush | 228938 | [228938-broken-universe-clumsy-rush.json](./228938-broken-universe-clumsy-rush.json) |
+| Broken Veil | 149154 | [149154-broken-veil.json](./149154-broken-veil.json) |
 | Broken Voyage | 405471 | [405471-broken-voyage.json](./405471-broken-voyage.json) |
 | Broken War | 309136 | [309136-broken-war.json](./309136-broken-war.json) |
 | Broken Wizard | 101920 | [101920-broken-wizard.json](./101920-broken-wizard.json) |
