@@ -158,6 +158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | @ Home Mate | 22467 | [22467-home-mate.json](./22467-home-mate.json) |
 | @Card SD Gundam Gaiden | 130888 | [130888-card-sd-gundam-gaiden.json](./130888-card-sd-gundam-gaiden.json) |
 | @Field | 8615 | [8615-field.json](./8615-field.json) |
+| @Simple V Series Vol. 2: The Tousou Highway Full Boost - Nagoya-Tokyo Gekisou 4-Jikan | 143832 | [143832-simple-v-series-vol-2-the-tousou-highway-full-boost-nagoya-tokyo-gekisou-4-jikan.json](./143832-simple-v-series-vol-2-the-tousou-highway-full-boost-nagoya-tokyo-gekisou-4-jikan.json) |
 | @Simple V Series Vol.1 - The Docodemo Gal Mahjong | 141475 | [141475-simple-v-series-vol-1-the-docodemo-gal-mahjong.json](./141475-simple-v-series-vol-1-the-docodemo-gal-mahjong.json) |
 | *** | 419797 | [419797-.json](./419797-.json) |
 | *Hello, Planet. | 142744 | [142744-hello-planet.json](./142744-hello-planet.json) |
@@ -2300,6 +2301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Battle Zone | 67681 | [67681-3d-battle-zone.json](./67681-3d-battle-zone.json) |
 | 3D Beee | 60722 | [60722-3d-beee.json](./60722-3d-beee.json) |
 | 3D Billiards & 3D MiniGolf Bundle | 99724 | [99724-3d-billiards-and-3d-minigolf-bundle.json](./99724-3d-billiards-and-3d-minigolf-bundle.json) |
+| 3D Billiards: Pool & Snooker Remastered | 143828 | [143828-3d-billiards-pool-and-snooker-remastered.json](./143828-3d-billiards-pool-and-snooker-remastered.json) |
 | 3D Blade Skating | 217723 | [217723-3d-blade-skating.json](./217723-3d-blade-skating.json) |
 | 3D Blitz | 245388 | [245388-3d-blitz.json](./245388-3d-blitz.json) |
 | 3D Block | 48905 | [48905-3d-block.json](./48905-3d-block.json) |
