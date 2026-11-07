@@ -4721,6 +4721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be A Lord | 114293 | [114293-be-a-lord.json](./114293-be-a-lord.json) |
 | Be a Maid in the Demon World: The Secret Cafe of the Demon Angel Hero | 171960 | [171960-be-a-maid-in-the-demon-world-the-secret-cafe-of-the-demon-angel-hero.json](./171960-be-a-maid-in-the-demon-world-the-secret-cafe-of-the-demon-angel-hero.json) |
 | Be a Pirate | 143746 | [143746-be-a-pirate.json](./143746-be-a-pirate.json) |
+| Be a Poker Champion! Texas Hold'em | 148102 | [148102-be-a-poker-champion-texas-holdem.json](./148102-be-a-poker-champion-texas-holdem.json) |
 | Be A Rock | 245356 | [245356-be-a-rock.json](./245356-be-a-rock.json) |
 | Be Brave, Barb | 331143 | [331143-be-brave-barb.json](./331143-be-brave-barb.json) |
 | Be dog do borks | 181606 | [181606-be-dog-do-borks.json](./181606-be-dog-do-borks.json) |
@@ -13409,6 +13410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bopp File | 309537 | [309537-bopp-file.json](./309537-bopp-file.json) |
 | Boppin' | 14333 | [14333-boppin.json](./14333-boppin.json) |
 | Bopping Drive | 185868 | [185868-bopping-drive.json](./185868-bopping-drive.json) |
+| Boppio | 148171 | [148171-boppio.json](./148171-boppio.json) |
 | Bopscotch | 60884 | [60884-bopscotch.json](./60884-bopscotch.json) |
 | BOPZ.io | 304751 | [304751-bopz-io.json](./304751-bopz-io.json) |
 | Bor Dungeon | 248005 | [248005-bor-dungeon.json](./248005-bor-dungeon.json) |
@@ -16318,6 +16320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Chase Turbo | 211461 | [211461-brutal-chase-turbo.json](./211461-brutal-chase-turbo.json) |
 | Brutal Company Plus | 285940 | [285940-brutal-company-plus.json](./285940-brutal-company-plus.json) |
 | Brutal Complex | 262183 | [262183-brutal-complex.json](./262183-brutal-complex.json) |
+| Brutal Dinosaur | 148074 | [148074-brutal-dinosaur.json](./148074-brutal-dinosaur.json) |
 | Brutal Doom | 126295 | [126295-brutal-doom.json](./126295-brutal-doom.json) |
 | Brutal Doom 64 | 25583 | [25583-brutal-doom-64.json](./25583-brutal-doom-64.json) |
 | Brutal Doom: Ali Jr's Challenge | 199067 | [199067-brutal-doom-ali-jrs-challenge.json](./199067-brutal-doom-ali-jrs-challenge.json) |
