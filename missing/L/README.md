@@ -3773,6 +3773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Make a Pro Baseball Team! 2 | 138100 | [138100-lets-make-a-pro-baseball-team-2.json](./138100-lets-make-a-pro-baseball-team-2.json) |
 | Let's Make a Soccer Team! | 91708 | [91708-lets-make-a-soccer-team.json](./91708-lets-make-a-soccer-team.json) |
 | Let's Mangaka DS Style | 77036 | [77036-lets-mangaka-ds-style.json](./77036-lets-mangaka-ds-style.json) |
+| Let's Meat Adam | 179780 | [179780-lets-meat-adam.json](./179780-lets-meat-adam.json) |
 | Let's Meat Adam 2 | 180134 | [180134-lets-meat-adam-2.json](./180134-lets-meat-adam-2.json) |
 | Let's Meet Tomorrow | 342091 | [342091-lets-meet-tomorrow.json](./342091-lets-meet-tomorrow.json) |
 | Let's Meow Meow | 71949 | [71949-lets-meow-meow.json](./71949-lets-meow-meow.json) |
