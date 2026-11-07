@@ -2525,6 +2525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gedaria | 176022 | [176022-gedaria.json](./176022-gedaria.json) |
 | Gedaria: Fairytale Forest | 207781 | [207781-gedaria-fairytale-forest.json](./207781-gedaria-fairytale-forest.json) |
 | Gedda Cake | 180286 | [180286-gedda-cake.json](./180286-gedda-cake.json) |
+| Gedel Escape | 171699 | [171699-gedel-escape.json](./171699-gedel-escape.json) |
 | Gedonia | 121179 | [121179-gedonia.json](./121179-gedonia.json) |
 | Gee Bee | 2752 | [2752-gee-bee.json](./2752-gee-bee.json) |
 | Gee Bee Air Rally | 12115 | [12115-gee-bee-air-rally.json](./12115-gee-bee-air-rally.json) |
