@@ -493,6 +493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Game You Can Afford In This Economy | 226102 | [226102-a-game-you-can-afford-in-this-economy.json](./226102-a-game-you-can-afford-in-this-economy.json) |
 | A Game's Tale | 298889 | [298889-a-games-tale.json](./298889-a-games-tale.json) |
 | A Gang of Weirdos | 299124 | [299124-a-gang-of-weirdos.json](./299124-a-gang-of-weirdos.json) |
+| A Garden on the Sea | 185236 | [185236-a-garden-on-the-sea.json](./185236-a-garden-on-the-sea.json) |
 | A Gay Dragon | 114634 | [114634-a-gay-dragon.json](./114634-a-gay-dragon.json) |
 | A Gay Love Story About Gay Love | 158674 | [158674-a-gay-love-story-about-gay-love.json](./158674-a-gay-love-story-about-gay-love.json) |
 | A Gay's Life | 129939 | [129939-a-gays-life.json](./129939-a-gays-life.json) |
@@ -9756,6 +9757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Birds Heikki | 408794 | [408794-angry-birds-heikki.json](./408794-angry-birds-heikki.json) |
 | Angry Birds Hot Wheels Smashup | 195093 | [195093-angry-birds-hot-wheels-smashup.json](./195093-angry-birds-hot-wheels-smashup.json) |
 | Angry Birds in Ultrabook Adventure | 408781 | [408781-angry-birds-in-ultrabook-adventure.json](./408781-angry-birds-in-ultrabook-adventure.json) |
+| Angry Birds Journey | 185229 | [185229-angry-birds-journey.json](./185229-angry-birds-journey.json) |
 | Angry Birds Kingdom | 240247 | [240247-angry-birds-kingdom.json](./240247-angry-birds-kingdom.json) |
 | Angry Birds Legends | 199980 | [199980-angry-birds-legends.json](./199980-angry-birds-legends.json) |
 | Angry Birds Match | 56590 | [56590-angry-birds-match.json](./56590-angry-birds-match.json) |
@@ -13661,6 +13663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ariborne: Trials | 127106 | [127106-ariborne-trials.json](./127106-ariborne-trials.json) |
 | Arid Arnold | 318202 | [318202-arid-arnold.json](./318202-arid-arnold.json) |
 | Arid Jared | 217268 | [217268-arid-jared.json](./217268-arid-jared.json) |
+| Arid Puzzle | 185200 | [185200-arid-puzzle.json](./185200-arid-puzzle.json) |
 | Arida 2: Rise of the Brave | 127734 | [127734-arida-2-rise-of-the-brave.json](./127734-arida-2-rise-of-the-brave.json) |
 | Arida: Backland's Awakening | 106433 | [106433-arida-backlands-awakening.json](./106433-arida-backlands-awakening.json) |
 | Arida: Backland's Awakening - Definitive Edition | 322655 | [322655-arida-backlands-awakening-definitive-edition.json](./322655-arida-backlands-awakening-definitive-edition.json) |
@@ -16705,7 +16708,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -17486,6 +17488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AutoChess Moba | 219104 | [219104-autochess-moba.json](./219104-autochess-moba.json) |
 | AutoChess of Gensokyo | 153142 | [153142-autochess-of-gensokyo.json](./153142-autochess-of-gensokyo.json) |
 | AutoCompete | 233099 | [233099-autocompete.json](./233099-autocompete.json) |
+| Autoconfim | 185223 | [185223-autoconfim.json](./185223-autoconfim.json) |
 | Autocracy | 84243 | [84243-autocracy.json](./84243-autocracy.json) |
 | Autocraft | 17178 | [17178-autocraft.json](./17178-autocraft.json) |
 | Autocraft | 265563 | [265563-autocraft.json](./265563-autocraft.json) |
