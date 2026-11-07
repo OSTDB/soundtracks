@@ -1626,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Late For Work | 43064 | [43064-late-for-work.json](./43064-late-for-work.json) |
 | Late Homework | 313188 | [313188-late-homework.json](./313188-late-homework.json) |
 | Late Hours | 383559 | [383559-late-hours.json](./383559-late-hours.json) |
+| Late Last Nite | 184683 | [184683-late-last-nite.json](./184683-late-last-nite.json) |
 | Late Laundry | 312858 | [312858-late-laundry.json](./312858-late-laundry.json) |
 | Late Metro Drive | 374965 | [374965-late-metro-drive.json](./374965-late-metro-drive.json) |
 | Late Ming Dynasty | 379101 | [379101-late-ming-dynasty.json](./379101-late-ming-dynasty.json) |
@@ -5347,6 +5348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LindaBee | 179313 | [179313-lindabee.json](./179313-lindabee.json) |
 | Lindsi Luna Blast | 62215 | [62215-lindsi-luna-blast.json](./62215-lindsi-luna-blast.json) |
 | Lindwyrm | 262827 | [262827-lindwyrm.json](./262827-lindwyrm.json) |
+| Line | 184685 | [184685-line.json](./184685-line.json) |
 | Line / Dash | 32187 | [32187-line-dash.json](./32187-line-dash.json) |
 | Line 88 | 240472 | [240472-line-88.json](./240472-line-88.json) |
 | Line Attack Heroes | 4971 | [4971-line-attack-heroes.json](./4971-line-attack-heroes.json) |
@@ -7560,6 +7562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loose Nozzles | 219915 | [219915-loose-nozzles.json](./219915-loose-nozzles.json) |
 | Loose or Escape | 279017 | [279017-loose-or-escape.json](./279017-loose-or-escape.json) |
 | Loose the Moose | 225290 | [225290-loose-the-moose.json](./225290-loose-the-moose.json) |
+| Loosepo | 184538 | [184538-loosepo.json](./184538-loosepo.json) |
 | Loot & Ledger | 373055 | [373055-loot-and-ledger.json](./373055-loot-and-ledger.json) |
 | Loot & Legends | 22354 | [22354-loot-and-legends.json](./22354-loot-and-legends.json) |
 | Loot & Looter | 184209 | [184209-loot-and-looter.json](./184209-loot-and-looter.json) |
@@ -9733,6 +9736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminous Arc 3 | 25100 | [25100-luminous-arc-3.json](./25100-luminous-arc-3.json) |
 | Luminous Arc Infinity | 25101 | [25101-luminous-arc-infinity.json](./25101-luminous-arc-infinity.json) |
 | Luminous Combat | 95607 | [95607-luminous-combat.json](./95607-luminous-combat.json) |
+| Luminous Corridor 2 | 184677 | [184677-luminous-corridor-2.json](./184677-luminous-corridor-2.json) |
 | Luminous Crusader | 296961 | [296961-luminous-crusader.json](./296961-luminous-crusader.json) |
 | Luminous Kingdom | 386291 | [386291-luminous-kingdom.json](./386291-luminous-kingdom.json) |
 | Luminous Nights | 224725 | [224725-luminous-nights.json](./224725-luminous-nights.json) |
