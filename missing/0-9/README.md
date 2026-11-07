@@ -1419,6 +1419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1Dreamboy | 266154 | [266154-1dreamboy.json](./266154-1dreamboy.json) |
 | 1Dreamboy 2 | 264978 | [264978-1dreamboy-2.json](./264978-1dreamboy-2.json) |
 | 1Heart | 16316 | [16316-1heart.json](./16316-1heart.json) |
+| 1HourPet | 180347 | [180347-1hourpet.json](./180347-1hourpet.json) |
 | 1K Games | 319533 | [319533-1k-games.json](./319533-1k-games.json) |
 | 1K ZX Chess | 391019 | [391019-1k-zx-chess.json](./391019-1k-zx-chess.json) |
 | 1Key Rocket Launcher | 70099 | [70099-1key-rocket-launcher.json](./70099-1key-rocket-launcher.json) |
