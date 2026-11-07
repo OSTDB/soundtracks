@@ -7208,6 +7208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Reap | 196170 | [196170-evil-reap.json](./196170-evil-reap.json) |
 | Evil Resistance: Morning of the Dead | 55183 | [55183-evil-resistance-morning-of-the-dead.json](./55183-evil-resistance-morning-of-the-dead.json) |
 | Evil Returns | 299768 | [299768-evil-returns.json](./299768-evil-returns.json) |
+| Evil Rise: Zombie Resident | 180355 | [180355-evil-rise-zombie-resident.json](./180355-evil-rise-zombie-resident.json) |
 | Evil Robot Traffic Jam HD | 34407 | [34407-evil-robot-traffic-jam-hd.json](./34407-evil-robot-traffic-jam-hd.json) |
 | Evil Robots | 121556 | [121556-evil-robots.json](./121556-evil-robots.json) |
 | Evil Robots From N1M | 31844 | [31844-evil-robots-from-n1m.json](./31844-evil-robots-from-n1m.json) |
