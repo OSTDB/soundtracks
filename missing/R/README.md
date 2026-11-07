@@ -6307,6 +6307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Heartbreak Land | 334430 | [334430-return-to-heartbreak-land.json](./334430-return-to-heartbreak-land.json) |
 | Return to Krondor | 8827 | [8827-return-to-krondor.json](./8827-return-to-krondor.json) |
 | Return to Kroz | 71789 | [71789-return-to-kroz.json](./71789-return-to-kroz.json) |
+| Return to Kurgansk | 190267 | [190267-return-to-kurgansk.json](./190267-return-to-kurgansk.json) |
 | Return to Long Shadows | 406091 | [406091-return-to-long-shadows.json](./406091-return-to-long-shadows.json) |
 | Return to Melanat | 171785 | [171785-return-to-melanat.json](./171785-return-to-melanat.json) |
 | Return to Mysterious Island | 17052 | [17052-return-to-mysterious-island.json](./17052-return-to-mysterious-island.json) |
@@ -10576,6 +10577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ROM: Remember of Majesty | 288993 | [288993-rom-remember-of-majesty.json](./288993-rom-remember-of-majesty.json) |
 | Rom's Truffle Trail | 56587 | [56587-roms-truffle-trail.json](./56587-roms-truffle-trail.json) |
 | Roma Incognita | 248034 | [248034-roma-incognita.json](./248034-roma-incognita.json) |
+| Roma Invicta | 190269 | [190269-roma-invicta.json](./190269-roma-invicta.json) |
 | Roma Victor | 67955 | [67955-roma-victor.json](./67955-roma-victor.json) |
 | Roma VR: Domus | 191037 | [191037-roma-vr-domus.json](./191037-roma-vr-domus.json) |
 | Romace | 297572 | [297572-romace.json](./297572-romace.json) |
@@ -12543,6 +12545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runefall 2: Collector's Edition | 221696 | [221696-runefall-2-collectors-edition.json](./221696-runefall-2-collectors-edition.json) |
 | Runeflame | 303991 | [303991-runeflame.json](./303991-runeflame.json) |
 | Runeflame: Legacy of the Druids | 340558 | [340558-runeflame-legacy-of-the-druids.json](./340558-runeflame-legacy-of-the-druids.json) |
+| Runeforge | 190290 | [190290-runeforge.json](./190290-runeforge.json) |
 | Runeforged: Monolith | 389856 | [389856-runeforged-monolith.json](./389856-runeforged-monolith.json) |
 | Runehaven | 275366 | [275366-runehaven.json](./275366-runehaven.json) |
 | RuneKeeper | 396664 | [396664-runekeeper.json](./396664-runekeeper.json) |
