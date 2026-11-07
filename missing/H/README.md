@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakosan | 228336 | [228336-hakosan.json](./228336-hakosan.json) |
 | Hakou Watcher | 253936 | [253936-hakou-watcher.json](./253936-hakou-watcher.json) |
 | Hakuba School! Hunting Prey | 271029 | [271029-hakuba-school-hunting-prey.json](./271029-hakuba-school-hunting-prey.json) |
+| Hakuchuumu no Aojashin | 153598 | [153598-hakuchuumu-no-aojashin.json](./153598-hakuchuumu-no-aojashin.json) |
 | Hakuchuumu no Bibouroku | 376630 | [376630-hakuchuumu-no-bibouroku.json](./376630-hakuchuumu-no-bibouroku.json) |
 | Hakuda's Wife Visiting | 151695 | [151695-hakudas-wife-visiting.json](./151695-hakudas-wife-visiting.json) |
 | Hakuga | 280179 | [280179-hakuga.json](./280179-hakuga.json) |
@@ -2527,6 +2528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hate Wave | 159975 | [159975-hate-wave.json](./159975-hate-wave.json) |
 | Hate You | 346394 | [346394-hate-you.json](./346394-hate-you.json) |
 | Hate.net | 346496 | [346496-hate-net.json](./346496-hate-net.json) |
+| Hateful Chris: Never Say Buy | 153616 | [153616-hateful-chris-never-say-buy.json](./153616-hateful-chris-never-say-buy.json) |
 | Hateful Days | 292424 | [292424-hateful-days.json](./292424-hateful-days.json) |
 | Hatena Satena | 6431 | [6431-hatena-satena.json](./6431-hatena-satena.json) |
 | Haters | 149263 | [149263-haters.json](./149263-haters.json) |
