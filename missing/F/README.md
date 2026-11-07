@@ -2544,6 +2544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Machines Championships 2013 | 10314 | [10314-farm-machines-championships-2013.json](./10314-farm-machines-championships-2013.json) |
 | Farm Manager | 394602 | [394602-farm-manager.json](./394602-farm-manager.json) |
 | Farm Manager 2018 | 55308 | [55308-farm-manager-2018.json](./55308-farm-manager-2018.json) |
+| Farm Manager 2018: Brewing & Winemaking DLC | 164652 | [164652-farm-manager-2018-brewing-and-winemaking-dlc.json](./164652-farm-manager-2018-brewing-and-winemaking-dlc.json) |
 | Farm Manager 2021 | 139459 | [139459-farm-manager-2021.json](./139459-farm-manager-2021.json) |
 | Farm Manager 2021: Agrotourism | 187436 | [187436-farm-manager-2021-agrotourism.json](./187436-farm-manager-2021-agrotourism.json) |
 | Farm Manager 2021: Brewing & Winemaking | 171606 | [171606-farm-manager-2021-brewing-and-winemaking.json](./171606-farm-manager-2021-brewing-and-winemaking.json) |
@@ -7066,6 +7067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's: Killer Night | 240312 | [240312-five-nights-at-freddys-killer-night.json](./240312-five-nights-at-freddys-killer-night.json) |
 | Five Nights at Freddy's: NES | 366102 | [366102-five-nights-at-freddys-nes.json](./366102-five-nights-at-freddys-nes.json) |
 | Five Nights At Freddy's: Nightshift | 275905 | [275905-five-nights-at-freddys-nightshift.json](./275905-five-nights-at-freddys-nightshift.json) |
+| Five Nights at Freddy's: Original Series | 164662 | [164662-five-nights-at-freddys-original-series.json](./164662-five-nights-at-freddys-original-series.json) |
 | Five Nights at Freddy's: Pocket Horror | 275568 | [275568-five-nights-at-freddys-pocket-horror.json](./275568-five-nights-at-freddys-pocket-horror.json) |
 | Five Nights at Freddy's: Rewritten | 239962 | [239962-five-nights-at-freddys-rewritten.json](./239962-five-nights-at-freddys-rewritten.json) |
 | Five Nights at Freddy's: Rewritten - 87' | 239963 | [239963-five-nights-at-freddys-rewritten-87.json](./239963-five-nights-at-freddys-rewritten-87.json) |
