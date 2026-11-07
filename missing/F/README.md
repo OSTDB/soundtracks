@@ -958,6 +958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Jo! | 232047 | [232047-fall-jo.json](./232047-fall-jo.json) |
 | Fall Minamo | 214847 | [214847-fall-minamo.json](./214847-fall-minamo.json) |
 | Fall Ninja | 268450 | [268450-fall-ninja.json](./268450-fall-ninja.json) |
+| Fall of an Empire | 190278 | [190278-fall-of-an-empire.json](./190278-fall-of-an-empire.json) |
 | Fall of Bali | 224296 | [224296-fall-of-bali.json](./224296-fall-of-bali.json) |
 | Fall of Gods | 240763 | [240763-fall-of-gods.json](./240763-fall-of-gods.json) |
 | Fall of Gorithia: Nym's Fate | 342597 | [342597-fall-of-gorithia-nyms-fate.json](./342597-fall-of-gorithia-nyms-fate.json) |
