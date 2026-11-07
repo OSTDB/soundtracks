@@ -5303,6 +5303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Loop | 372523 | [372523-deep-loop.json](./372523-deep-loop.json) |
 | Deep Loot | 271930 | [271930-deep-loot.json](./271930-deep-loot.json) |
 | Deep Madness | 165630 | [165630-deep-madness.json](./165630-deep-madness.json) |
+| Deep Madness | 177109 | [177109-deep-madness.json](./177109-deep-madness.json) |
 | Deep Maze | 262832 | [262832-deep-maze.json](./262832-deep-maze.json) |
 | Deep Mine | 274024 | [274024-deep-mine.json](./274024-deep-mine.json) |
 | Deep Nest | 262950 | [262950-deep-nest.json](./262950-deep-nest.json) |
@@ -5448,6 +5449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeepBubbles | 358890 | [358890-deepbubbles.json](./358890-deepbubbles.json) |
 | DeepCover | 317998 | [317998-deepcover.json](./317998-deepcover.json) |
 | Deepcut | 275386 | [275386-deepcut.json](./275386-deepcut.json) |
+| Deepdive | 177118 | [177118-deepdive.json](./177118-deepdive.json) |
 | Deepening Fire | 208854 | [208854-deepening-fire.json](./208854-deepening-fire.json) |
 | Deeper | 104650 | [104650-deeper.json](./104650-deeper.json) |
 | Deeper | 223440 | [223440-deeper.json](./223440-deeper.json) |
@@ -5973,6 +5975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delicards: A Delicious Card Game | 265379 | [265379-delicards-a-delicious-card-game.json](./265379-delicards-a-delicious-card-game.json) |
 | DeliCat | 256533 | [256533-delicat.json](./256533-delicat.json) |
 | Delicatte | 151575 | [151575-delicatte.json](./151575-delicatte.json) |
+| Delicious 2 | 177111 | [177111-delicious-2.json](./177111-delicious-2.json) |
 | Delicious 2 Deluxe | 61382 | [61382-delicious-2-deluxe.json](./61382-delicious-2-deluxe.json) |
 | Delicious Burger | 274027 | [274027-delicious-burger.json](./274027-delicious-burger.json) |
 | Delicious Donut | 290516 | [290516-delicious-donut.json](./290516-delicious-donut.json) |
@@ -16241,6 +16244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamland Solitaire | 123824 | [123824-dreamland-solitaire.json](./123824-dreamland-solitaire.json) |
 | Dreamland Solitaire Bundle | 309631 | [309631-dreamland-solitaire-bundle.json](./309631-dreamland-solitaire-bundle.json) |
 | Dreamland Solitaire: Dark Prophecy | 138478 | [138478-dreamland-solitaire-dark-prophecy.json](./138478-dreamland-solitaire-dark-prophecy.json) |
+| Dreamland Solitaire: Dark Prophecy - Collector’s Edition | 177099 | [177099-dreamland-solitaire-dark-prophecy-collector-s-edition.json](./177099-dreamland-solitaire-dark-prophecy-collector-s-edition.json) |
 | Dreamland Solitaire: Dragon's Fury | 122819 | [122819-dreamland-solitaire-dragons-fury.json](./122819-dreamland-solitaire-dragons-fury.json) |
 | Dreamland: Chapter 2 | 296722 | [296722-dreamland-chapter-2.json](./296722-dreamland-chapter-2.json) |
 | Dreamland: Village Life | 208446 | [208446-dreamland-village-life.json](./208446-dreamland-village-life.json) |
@@ -16853,6 +16857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droid Death VR | 219762 | [219762-droid-death-vr.json](./219762-droid-death-vr.json) |
 | Droid Dreams | 133442 | [133442-droid-dreams.json](./133442-droid-dreams.json) |
 | Droid Escape | 192930 | [192930-droid-escape.json](./192930-droid-escape.json) |
+| Droid Game 3D | 177142 | [177142-droid-game-3d.json](./177142-droid-game-3d.json) |
 | Droid Invaders | 100546 | [100546-droid-invaders.json](./100546-droid-invaders.json) |
 | Droid Invasion | 245964 | [245964-droid-invasion.json](./245964-droid-invasion.json) |
 | Droid Must Deliver | 386092 | [386092-droid-must-deliver.json](./386092-droid-must-deliver.json) |
