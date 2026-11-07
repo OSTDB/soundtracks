@@ -3187,6 +3187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WEGO World War II: Overlord | 412244 | [412244-wego-world-war-ii-overlord.json](./412244-wego-world-war-ii-overlord.json) |
 | WEGO World War II: Stalingrad | 357819 | [357819-wego-world-war-ii-stalingrad.json](./357819-wego-world-war-ii-stalingrad.json) |
 | Wehrschach | 139335 | [139335-wehrschach.json](./139335-wehrschach.json) |
+| Weightless | 183689 | [183689-weightless.json](./183689-weightless.json) |
 | WeightWare | 334162 | [334162-weightware.json](./334162-weightware.json) |
 | Weihnachtsquiz | 98946 | [98946-weihnachtsquiz.json](./98946-weihnachtsquiz.json) |
 | Weinende Rose | 140584 | [140584-weinende-rose.json](./140584-weinende-rose.json) |
