@@ -252,6 +252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UFO Simulator Control Master | 114127 | [114127-ufo-simulator-control-master.json](./114127-ufo-simulator-control-master.json) |
 | UFO Slide Racing | 265744 | [265744-ufo-slide-racing.json](./265744-ufo-slide-racing.json) |
 | Ufo snowboard | 288702 | [288702-ufo-snowboard.json](./288702-ufo-snowboard.json) |
+| UFO Stalker | 156811 | [156811-ufo-stalker.json](./156811-ufo-stalker.json) |
 | UFO Stomper | 348013 | [348013-ufo-stomper.json](./348013-ufo-stomper.json) |
 | UFO Swamp Odyssey | 134308 | [134308-ufo-swamp-odyssey.json](./134308-ufo-swamp-odyssey.json) |
 | UFO Taxi | 295576 | [295576-ufo-taxi.json](./295576-ufo-taxi.json) |
@@ -3530,6 +3531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Use Your Words 2 | 317179 | [317179-use-your-words-2.json](./317179-use-your-words-2.json) |
 | Used Car Tycoon Game | 362066 | [362066-used-car-tycoon-game.json](./362066-used-car-tycoon-game.json) |
 | Used Cars Simulator | 276584 | [276584-used-cars-simulator.json](./276584-used-cars-simulator.json) |
+| Useful Cat | 156781 | [156781-useful-cat.json](./156781-useful-cat.json) |
 | Useless Box | 109608 | [109608-useless-box.json](./109608-useless-box.json) |
 | Useless Box: The Game | 126615 | [126615-useless-box-the-game.json](./126615-useless-box-the-game.json) |
 | Useless Demon Lord | 264351 | [264351-useless-demon-lord.json](./264351-useless-demon-lord.json) |
