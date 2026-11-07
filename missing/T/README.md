@@ -859,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take a Break! Crosswords | 76557 | [76557-take-a-break-crosswords.json](./76557-take-a-break-crosswords.json) |
 | Take a Break! Pinball | 73688 | [73688-take-a-break-pinball.json](./73688-take-a-break-pinball.json) |
 | Take a Break's Puzzle Bonanza | 371457 | [371457-take-a-breaks-puzzle-bonanza.json](./371457-take-a-breaks-puzzle-bonanza.json) |
+| Take a Hike! | 154729 | [154729-take-a-hike.json](./154729-take-a-hike.json) |
 | Take a Hint | 393928 | [393928-take-a-hint.json](./393928-take-a-hint.json) |
 | Take A Leak | 267424 | [267424-take-a-leak.json](./267424-take-a-leak.json) |
 | Take a Little | 238737 | [238737-take-a-little.json](./238737-take-a-little.json) |
@@ -10438,6 +10439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Greatest Chef | 322098 | [322098-the-greatest-chef.json](./322098-the-greatest-chef.json) |
 | The Greatest Game in the World | 182975 | [182975-the-greatest-game-in-the-world.json](./182975-the-greatest-game-in-the-world.json) |
 | The Greatest Hero | 28459 | [28459-the-greatest-hero.json](./28459-the-greatest-hero.json) |
+| The Greatest Penguin Heist of All Time | 154732 | [154732-the-greatest-penguin-heist-of-all-time.json](./154732-the-greatest-penguin-heist-of-all-time.json) |
 | The Greatest Survival | 176149 | [176149-the-greatest-survival.json](./176149-the-greatest-survival.json) |
 | The Greedy Cave 2: Time Gate | 208123 | [208123-the-greedy-cave-2-time-gate.json](./208123-the-greedy-cave-2-time-gate.json) |
 | The Greedy MaxCoon | 96658 | [96658-the-greedy-maxcoon.json](./96658-the-greedy-maxcoon.json) |
@@ -13869,6 +13871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Metronomicon: Slay the Dance Floor - Chiptune Challenge Pack 2 | 225231 | [225231-the-metronomicon-slay-the-dance-floor-chiptune-challenge-pack-2.json](./225231-the-metronomicon-slay-the-dance-floor-chiptune-challenge-pack-2.json) |
 | The Metronomicon: Slay the Dance Floor - Indie Game Challenge Pack 1 | 224485 | [224485-the-metronomicon-slay-the-dance-floor-indie-game-challenge-pack-1.json](./224485-the-metronomicon-slay-the-dance-floor-indie-game-challenge-pack-1.json) |
 | The Metronomicon: Slay the Dance Floor - J-Punch Challenge Pack | 225233 | [225233-the-metronomicon-slay-the-dance-floor-j-punch-challenge-pack.json](./225233-the-metronomicon-slay-the-dance-floor-j-punch-challenge-pack.json) |
+| The Metronomicon: Slay the Dance Floor - J-Punch Pack | 154690 | [154690-the-metronomicon-slay-the-dance-floor-j-punch-pack.json](./154690-the-metronomicon-slay-the-dance-floor-j-punch-pack.json) |
 | The Metronomicon: Slay the Dance Floor - The End Records Challenge Pack | 225580 | [225580-the-metronomicon-slay-the-dance-floor-the-end-records-challenge-pack.json](./225580-the-metronomicon-slay-the-dance-floor-the-end-records-challenge-pack.json) |
 | The Metronomicon: Slay The Dance Floor - The End Records Challenge Pack | 225234 | [225234-the-metronomicon-slay-the-dance-floor-the-end-records-challenge-pack.json](./225234-the-metronomicon-slay-the-dance-floor-the-end-records-challenge-pack.json) |
 | The Mexican Dream | 55622 | [55622-the-mexican-dream.json](./55622-the-mexican-dream.json) |
@@ -25297,6 +25300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb of the Forbidden Falcon | 298980 | [298980-tomb-of-the-forbidden-falcon.json](./298980-tomb-of-the-forbidden-falcon.json) |
 | Tomb of the Golden Relic | 411082 | [411082-tomb-of-the-golden-relic.json](./411082-tomb-of-the-golden-relic.json) |
 | Tomb of the Mask | 58348 | [58348-tomb-of-the-mask.json](./58348-tomb-of-the-mask.json) |
+| Tomb of the Mask: Color | 154691 | [154691-tomb-of-the-mask-color.json](./154691-tomb-of-the-mask-color.json) |
 | Tomb of the Old Lords | 262556 | [262556-tomb-of-the-old-lords.json](./262556-tomb-of-the-old-lords.json) |
 | Tomb of the Overlord | 341529 | [341529-tomb-of-the-overlord.json](./341529-tomb-of-the-overlord.json) |
 | Tomb of the TaskMaker | 66906 | [66906-tomb-of-the-taskmaker.json](./66906-tomb-of-the-taskmaker.json) |
