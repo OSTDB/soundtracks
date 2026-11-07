@@ -2757,6 +2757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One-Eyed Jak | 34603 | [34603-one-eyed-jak.json](./34603-one-eyed-jak.json) |
 | One-Eyed Lee and the Dinner Party | 127382 | [127382-one-eyed-lee-and-the-dinner-party.json](./127382-one-eyed-lee-and-the-dinner-party.json) |
 | One-Eyed Likho | 250955 | [250955-one-eyed-likho.json](./250955-one-eyed-likho.json) |
+| One-Eyed Ripper | 185232 | [185232-one-eyed-ripper.json](./185232-one-eyed-ripper.json) |
 | One-Hit Slayer! Swordog | 367963 | [367963-one-hit-slayer-swordog.json](./367963-one-hit-slayer-swordog.json) |
 | One-Hit Wonder | 191369 | [191369-one-hit-wonder.json](./191369-one-hit-wonder.json) |
 | One-inch Tactics | 301574 | [301574-one-inch-tactics.json](./301574-one-inch-tactics.json) |
