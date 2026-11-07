@@ -5766,6 +5766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire & Maneuver | 159490 | [159490-fire-and-maneuver.json](./159490-fire-and-maneuver.json) |
 | Fire & Maneuver: American Civil War | 211899 | [211899-fire-and-maneuver-american-civil-war.json](./211899-fire-and-maneuver-american-civil-war.json) |
 | Fire & Reign | 195959 | [195959-fire-and-reign.json](./195959-fire-and-reign.json) |
+| Fire & Steel | 186289 | [186289-fire-and-steel.json](./186289-fire-and-steel.json) |
 | Fire & Water | 147997 | [147997-fire-and-water.json](./147997-fire-and-water.json) |
 | Fire All Humans | 211134 | [211134-fire-all-humans.json](./211134-fire-all-humans.json) |
 | Fire All Weapons | 257973 | [257973-fire-all-weapons.json](./257973-fire-all-weapons.json) |
@@ -10243,6 +10244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsan El Majd | 316820 | [316820-forsan-el-majd.json](./316820-forsan-el-majd.json) |
 | Forsen's Vacation | 371842 | [371842-forsens-vacation.json](./371842-forsens-vacation.json) |
 | Forsisted: The Sacred Souls | 274569 | [274569-forsisted-the-sacred-souls.json](./274569-forsisted-the-sacred-souls.json) |
+| Forspoken: Digital Deluxe Edition | 186365 | [186365-forspoken-digital-deluxe-edition.json](./186365-forspoken-digital-deluxe-edition.json) |
 | Forspoken: In Tanta We Trust | 240953 | [240953-forspoken-in-tanta-we-trust.json](./240953-forspoken-in-tanta-we-trust.json) |
 | Forsworn | 334316 | [334316-forsworn.json](./334316-forsworn.json) |
 | Fort | 106499 | [106499-fort.json](./106499-fort.json) |
