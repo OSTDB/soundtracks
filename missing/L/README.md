@@ -4683,6 +4683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lifespace Traveler | 226482 | [226482-lifespace-traveler.json](./226482-lifespace-traveler.json) |
 | Lifespan | 173419 | [173419-lifespan.json](./173419-lifespan.json) |
 | Lifespan 5seconds | 107701 | [107701-lifespan-5seconds.json](./107701-lifespan-5seconds.json) |
+| Lifespawn | 169534 | [169534-lifespawn.json](./169534-lifespawn.json) |
 | Lifespeed | 27386 | [27386-lifespeed.json](./27386-lifespeed.json) |
 | Lifestream - A Haunting Text Adventure | 31344 | [31344-lifestream-a-haunting-text-adventure.json](./31344-lifestream-a-haunting-text-adventure.json) |
 | Lifetakers & Heartbreakers | 340917 | [340917-lifetakers-and-heartbreakers.json](./340917-lifetakers-and-heartbreakers.json) |
@@ -5686,6 +5687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lionkiller | 138256 | [138256-lionkiller.json](./138256-lionkiller.json) |
 | Liono IceCape | 364240 | [364240-liono-icecape.json](./364240-liono-icecape.json) |
 | Lions of the Universe | 70215 | [70215-lions-of-the-universe.json](./70215-lions-of-the-universe.json) |
+| Lip! Lewd Idol Project Vol. 1 | 169553 | [169553-lip-lewd-idol-project-vol-1.json](./169553-lip-lewd-idol-project-vol-1.json) |
 | LIP! Lewd Idol Project Vol. 2 | 193266 | [193266-lip-lewd-idol-project-vol-2.json](./193266-lip-lewd-idol-project-vol-2.json) |
 | LIP! Lewd Idol Project Vol. 2: Hot Springs and Beach Episodes | 254576 | [254576-lip-lewd-idol-project-vol-2-hot-springs-and-beach-episodes.json](./254576-lip-lewd-idol-project-vol-2-hot-springs-and-beach-episodes.json) |
 | LIP! Lewd Idol Project Vol. 3 | 244620 | [244620-lip-lewd-idol-project-vol-3.json](./244620-lip-lewd-idol-project-vol-3.json) |
@@ -8695,6 +8697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Clear | 136757 | [136757-love-clear.json](./136757-love-clear.json) |
 | Love Clear: Limited Edition | 165957 | [165957-love-clear-limited-edition.json](./165957-love-clear-limited-edition.json) |
 | Love Collection 4-in-1 | 404259 | [404259-love-collection-4-in-1.json](./404259-love-collection-4-in-1.json) |
+| Love Colors | 169544 | [169544-love-colors.json](./169544-love-colors.json) |
 | Love Colors: All in One | 171312 | [171312-love-colors-all-in-one.json](./171312-love-colors-all-in-one.json) |
 | Love Colors: Everyday Pixels | 195230 | [195230-love-colors-everyday-pixels.json](./195230-love-colors-everyday-pixels.json) |
 | Love Colors: Happy Pixels | 171311 | [171311-love-colors-happy-pixels.json](./171311-love-colors-happy-pixels.json) |
