@@ -3738,6 +3738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghetto Zombies: Graffiti Squad | 255711 | [255711-ghetto-zombies-graffiti-squad.json](./255711-ghetto-zombies-graffiti-squad.json) |
 | GHGuessr | 294541 | [294541-ghguessr.json](./294541-ghguessr.json) |
 | Ghlobot Shift | 366113 | [366113-ghlobot-shift.json](./366113-ghlobot-shift.json) |
+| Gholazon X | 143837 | [143837-gholazon-x.json](./143837-gholazon-x.json) |
 | Ghone is gone | 128219 | [128219-ghone-is-gone.json](./128219-ghone-is-gone.json) |
 | Ghost | 188440 | [188440-ghost.json](./188440-ghost.json) |
 | Ghost 1.0 | 32969 | [32969-ghost-1-0.json](./32969-ghost-1-0.json) |
@@ -5799,6 +5800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gob | 214834 | [214834-gob.json](./214834-gob.json) |
 | Gob | 320129 | [320129-gob.json](./320129-gob.json) |
 | Gob | 415231 | [415231-gob.json](./415231-gob.json) |
+| GoB 2020 | 143877 | [143877-gob-2020.json](./143877-gob-2020.json) |
 | Gob Johnson's Downhill Marmalade | 333169 | [333169-gob-johnsons-downhill-marmalade.json](./333169-gob-johnsons-downhill-marmalade.json) |
 | Gob! | 257447 | [257447-gob.json](./257447-gob.json) |
 | Goban | 95567 | [95567-goban.json](./95567-goban.json) |
@@ -7705,6 +7707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grade Sword | 245883 | [245883-grade-sword.json](./245883-grade-sword.json) |
 | Grader Simulator: Road Work | 231948 | [231948-grader-simulator-road-work.json](./231948-grader-simulator-road-work.json) |
 | Gradient | 237809 | [237809-gradient.json](./237809-gradient.json) |
+| Gradient Addiction | 143853 | [143853-gradient-addiction.json](./143853-gradient-addiction.json) |
 | Gradient Flow | 273827 | [273827-gradient-flow.json](./273827-gradient-flow.json) |
 | Gradiently | 142702 | [142702-gradiently.json](./142702-gradiently.json) |
 | Gradiently 2 | 385106 | [385106-gradiently-2.json](./385106-gradiently-2.json) |
