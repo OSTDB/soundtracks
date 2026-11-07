@@ -5285,6 +5285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Online 2 -Ragol Edition- | 132155 | [132155-phantasy-star-online-2-ragol-edition.json](./132155-phantasy-star-online-2-ragol-edition.json) |
 | Phantasy Star Online 2 New Genesis | 136042 | [136042-phantasy-star-online-2-new-genesis.json](./136042-phantasy-star-online-2-new-genesis.json) |
 | Phantasy Star Online 2 New Genesis: Aelio Nadar Deluxe Edition | 165879 | [165879-phantasy-star-online-2-new-genesis-aelio-nadar-deluxe-edition.json](./165879-phantasy-star-online-2-new-genesis-aelio-nadar-deluxe-edition.json) |
+| Phantasy Star Online 2 New Genesis: Aelio Nager Deluxe Edition | 165859 | [165859-phantasy-star-online-2-new-genesis-aelio-nager-deluxe-edition.json](./165859-phantasy-star-online-2-new-genesis-aelio-nager-deluxe-edition.json) |
 | Phantasy Star Online 2 New Genesis: Cloud Version | 222058 | [222058-phantasy-star-online-2-new-genesis-cloud-version.json](./222058-phantasy-star-online-2-new-genesis-cloud-version.json) |
 | Phantasy Star Online 2 New Genesis: Limited Edition | 146336 | [146336-phantasy-star-online-2-new-genesis-limited-edition.json](./146336-phantasy-star-online-2-new-genesis-limited-edition.json) |
 | Phantasy Star Online 2 New Genesis: Sonic Collab - Suits/C-Space Pack | 252612 | [252612-phantasy-star-online-2-new-genesis-sonic-collab-suits-c-space-pack.json](./252612-phantasy-star-online-2-new-genesis-sonic-collab-suits-c-space-pack.json) |
@@ -16380,6 +16381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project V: Origins | 304717 | [304717-project-v-origins.json](./304717-project-v-origins.json) |
 | Project Valkyrie | 192204 | [192204-project-valkyrie.json](./192204-project-valkyrie.json) |
 | Project Velocity | 86675 | [86675-project-velocity.json](./86675-project-velocity.json) |
+| Project Venus.RP | 165823 | [165823-project-venus-rp.json](./165823-project-venus-rp.json) |
 | Project Veritex | 74839 | [74839-project-veritex.json](./74839-project-veritex.json) |
 | Project Vesperi | 260010 | [260010-project-vesperi.json](./260010-project-vesperi.json) |
 | Project Vic | 280885 | [280885-project-vic.json](./280885-project-vic.json) |
