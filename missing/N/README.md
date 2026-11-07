@@ -1600,6 +1600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neco Drop 2 | 145351 | [145351-neco-drop-2.json](./145351-neco-drop-2.json) |
 | Necogram | 243384 | [243384-necogram.json](./243384-necogram.json) |
 | Necomen | 359550 | [359550-necomen.json](./359550-necomen.json) |
+| Necore Tower: Redux Edition | 176076 | [176076-necore-tower-redux-edition.json](./176076-necore-tower-redux-edition.json) |
 | Necore Warriors | 197171 | [197171-necore-warriors.json](./197171-necore-warriors.json) |
 | NECR: Chain Reaction Physics | 395779 | [395779-necr-chain-reaction-physics.json](./395779-necr-chain-reaction-physics.json) |
 | Necris Dome | 12956 | [12956-necris-dome.json](./12956-necris-dome.json) |
@@ -4008,6 +4009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nick Neaker | 97811 | [97811-nick-neaker.json](./97811-nick-neaker.json) |
 | Nick News with Linda Ellerbee Word Search | 325083 | [325083-nick-news-with-linda-ellerbee-word-search.json](./325083-nick-news-with-linda-ellerbee-word-search.json) |
 | Nick of Time | 176225 | [176225-nick-of-time.json](./176225-nick-of-time.json) |
+| Nick Quest | 176032 | [176032-nick-quest.json](./176032-nick-quest.json) |
 | Nick Racers Revolution 3D | 259986 | [259986-nick-racers-revolution-3d.json](./259986-nick-racers-revolution-3d.json) |
 | Nick Racing Stars | 259984 | [259984-nick-racing-stars.json](./259984-nick-racing-stars.json) |
 | Nick SpongeBob SquarePants: Snowball Showdown | 243825 | [243825-nick-spongebob-squarepants-snowball-showdown.json](./243825-nick-spongebob-squarepants-snowball-showdown.json) |
