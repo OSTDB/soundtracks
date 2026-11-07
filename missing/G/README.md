@@ -9282,6 +9282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Creeps | 122813 | [122813-grid-creeps.json](./122813-grid-creeps.json) |
 | Grid Crypt | 398466 | [398466-grid-crypt.json](./398466-grid-crypt.json) |
 | Grid Empire | 347843 | [347843-grid-empire.json](./347843-grid-empire.json) |
+| Grid Force: Mask of the Goddess | 145777 | [145777-grid-force-mask-of-the-goddess.json](./145777-grid-force-mask-of-the-goddess.json) |
 | Grid Gladiators | 343310 | [343310-grid-gladiators.json](./343310-grid-gladiators.json) |
 | Grid Glyphs | 316281 | [316281-grid-glyphs.json](./316281-grid-glyphs.json) |
 | Grid Gunner | 105179 | [105179-grid-gunner.json](./105179-grid-gunner.json) |
