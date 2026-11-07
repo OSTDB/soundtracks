@@ -2266,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sauve le Shérif | 403945 | [403945-sauve-le-sherif.json](./403945-sauve-le-sherif.json) |
 | Savage | 129527 | [129527-savage.json](./129527-savage.json) |
 | Savage | 15361 | [15361-savage.json](./15361-savage.json) |
+| Savage | 171714 | [171714-savage.json](./171714-savage.json) |
 | Savage 2: A Tortured Soul | 2243 | [2243-savage-2-a-tortured-soul.json](./2243-savage-2-a-tortured-soul.json) |
 | Savage Age | 294839 | [294839-savage-age.json](./294839-savage-age.json) |
 | Savage Arena | 68895 | [68895-savage-arena.json](./68895-savage-arena.json) |
@@ -4426,6 +4427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Earth | 128800 | [128800-second-earth.json](./128800-second-earth.json) |
 | Second Extinction | 133309 | [133309-second-extinction.json](./133309-second-extinction.json) |
 | Second Final | 120381 | [120381-second-final.json](./120381-second-final.json) |
+| Second Front | 171669 | [171669-second-front.json](./171669-second-front.json) |
 | Second Front: Germany Turns East | 74107 | [74107-second-front-germany-turns-east.json](./74107-second-front-germany-turns-east.json) |
 | Second Galaxy | 120308 | [120308-second-galaxy.json](./120308-second-galaxy.json) |
 | Second Grade Learning Games | 89083 | [89083-second-grade-learning-games.json](./89083-second-grade-learning-games.json) |
@@ -6021,6 +6023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Set 'N Det | 186861 | [186861-set-n-det.json](./186861-set-n-det.json) |
 | Set a Watch: Digital Edition | 341982 | [341982-set-a-watch-digital-edition.json](./341982-set-a-watch-digital-edition.json) |
 | Set Adrift | 374027 | [374027-set-adrift.json](./374027-set-adrift.json) |
+| Set for the Battle | 171691 | [171691-set-for-the-battle.json](./171691-set-for-the-battle.json) |
 | Set Off Fireworks Together | 268242 | [268242-set-off-fireworks-together.json](./268242-set-off-fireworks-together.json) |
 | Set Sail | 192458 | [192458-set-sail.json](./192458-set-sail.json) |
 | Set Sail: Caribbean | 124991 | [124991-set-sail-caribbean.json](./124991-set-sail-caribbean.json) |
@@ -6043,6 +6046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Setsuna no Tsumami Gui | 231665 | [231665-setsuna-no-tsumami-gui.json](./231665-setsuna-no-tsumami-gui.json) |
 | Setsunai | 77677 | [77677-setsunai.json](./77677-setsunai.json) |
 | Setteeh | 312883 | [312883-setteeh.json](./312883-setteeh.json) |
+| Setting Sun | 171690 | [171690-setting-sun.json](./171690-setting-sun.json) |
 | Settlands | 271593 | [271593-settlands.json](./271593-settlands.json) |
 | Settle | 397075 | [397075-settle.json](./397075-settle.json) |
 | Settle and Battle: New Empires | 324295 | [324295-settle-and-battle-new-empires.json](./324295-settle-and-battle-new-empires.json) |
@@ -12884,6 +12888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyewood | 274218 | [274218-skyewood.json](./274218-skyewood.json) |
 | SkyFactory 3 | 360610 | [360610-skyfactory-3.json](./360610-skyfactory-3.json) |
 | SkyFactory 4 | 204695 | [204695-skyfactory-4.json](./204695-skyfactory-4.json) |
+| Skyfall | 171720 | [171720-skyfall.json](./171720-skyfall.json) |
 | Skyfall | 50514 | [50514-skyfall.json](./50514-skyfall.json) |
 | Skyfall Chasers | 219811 | [219811-skyfall-chasers.json](./219811-skyfall-chasers.json) |
 | SkyFall Slime: Freefall Feast | 252309 | [252309-skyfall-slime-freefall-feast.json](./252309-skyfall-slime-freefall-feast.json) |
@@ -16644,6 +16649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solheim | 397830 | [397830-solheim.json](./397830-solheim.json) |
 | Soli-tair-ror | 382969 | [382969-soli-tair-ror.json](./382969-soli-tair-ror.json) |
 | Solicheck | 68426 | [68426-solicheck.json](./68426-solicheck.json) |
+| Solicitude Wake-up | 171668 | [171668-solicitude-wake-up.json](./171668-solicitude-wake-up.json) |
 | Solid Aether | 107763 | [107763-solid-aether.json](./107763-solid-aether.json) |
 | Solid Boat Adventure | 420801 | [420801-solid-boat-adventure.json](./420801-solid-boat-adventure.json) |
 | Solid Body Picross | 124053 | [124053-solid-body-picross.json](./124053-solid-body-picross.json) |
@@ -33791,6 +33797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superhero Girl Salon: Kids Makeup and Dressup Game | 88037 | [88037-superhero-girl-salon-kids-makeup-and-dressup-game.json](./88037-superhero-girl-salon-kids-makeup-and-dressup-game.json) |
 | Superhero Girls | 368052 | [368052-superhero-girls.json](./368052-superhero-girls.json) |
 | Superhero Market | 325970 | [325970-superhero-market.json](./325970-superhero-market.json) |
+| Superhero Recruitment Simulator | 171680 | [171680-superhero-recruitment-simulator.json](./171680-superhero-recruitment-simulator.json) |
 | Superhero Robot Merge Master | 214167 | [214167-superhero-robot-merge-master.json](./214167-superhero-robot-merge-master.json) |
 | Superhero Simulator | 349234 | [349234-superhero-simulator.json](./349234-superhero-simulator.json) |
 | Superhero Workout | 58489 | [58489-superhero-workout.json](./58489-superhero-workout.json) |
