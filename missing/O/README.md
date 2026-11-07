@@ -3339,6 +3339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ooze Odyssey | 260231 | [260231-ooze-odyssey.json](./260231-ooze-odyssey.json) |
 | Ooze: Creepy Nights | 57695 | [57695-ooze-creepy-nights.json](./57695-ooze-creepy-nights.json) |
 | Ooze: Creepy Nites | 71746 | [71746-ooze-creepy-nites.json](./71746-ooze-creepy-nites.json) |
+| Ooze: The Escape | 142019 | [142019-ooze-the-escape.json](./142019-ooze-the-escape.json) |
 | Ooze: The Great and Powerful | 265315 | [265315-ooze-the-great-and-powerful.json](./265315-ooze-the-great-and-powerful.json) |
 | Oozescape | 191331 | [191331-oozescape.json](./191331-oozescape.json) |
 | Oozi: Earth Adventure | 16738 | [16738-oozi-earth-adventure.json](./16738-oozi-earth-adventure.json) |
