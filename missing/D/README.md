@@ -14947,6 +14947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Hills 2 | 89540 | [89540-dragon-hills-2.json](./89540-dragon-hills-2.json) |
 | Dragon History | 66746 | [66746-dragon-history.json](./66746-dragon-history.json) |
 | Dragon Hop | 272396 | [272396-dragon-hop.json](./272396-dragon-hop.json) |
+| Dragon Hopper | 176044 | [176044-dragon-hopper.json](./176044-dragon-hopper.json) |
 | Dragon Hound | 119241 | [119241-dragon-hound.json](./119241-dragon-hound.json) |
 | Dragon Hunt | 69236 | [69236-dragon-hunt.json](./69236-dragon-hunt.json) |
 | Dragon Hunt Adventure | 204201 | [204201-dragon-hunt-adventure.json](./204201-dragon-hunt-adventure.json) |
