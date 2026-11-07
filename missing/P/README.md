@@ -3090,6 +3090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinders | 134450 | [134450-pathfinders.json](./134450-pathfinders.json) |
 | Pathfinders: Lost at Sea | 222718 | [222718-pathfinders-lost-at-sea.json](./222718-pathfinders-lost-at-sea.json) |
 | Pathfinders: Memories | 133051 | [133051-pathfinders-memories.json](./133051-pathfinders-memories.json) |
+| Pathfinders: Mini Words | 158830 | [158830-pathfinders-mini-words.json](./158830-pathfinders-mini-words.json) |
 | Pathless Maze TD | 352293 | [352293-pathless-maze-td.json](./352293-pathless-maze-td.json) |
 | Pathless Woods | 172705 | [172705-pathless-woods.json](./172705-pathless-woods.json) |
 | Pathmaker | 170316 | [170316-pathmaker.json](./170316-pathmaker.json) |
@@ -7779,6 +7780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates Slayer | 336666 | [336666-pirates-slayer.json](./336666-pirates-slayer.json) |
 | Pirates Things | 204118 | [204118-pirates-things.json](./204118-pirates-things.json) |
 | Pirates Treasure II | 128312 | [128312-pirates-treasure-ii.json](./128312-pirates-treasure-ii.json) |
+| Pirates VR: Jolly Roger | 158805 | [158805-pirates-vr-jolly-roger.json](./158805-pirates-vr-jolly-roger.json) |
 | Pirates vs Corsairs: Davy Jones's Gold | 35613 | [35613-pirates-vs-corsairs-davy-joness-gold.json](./35613-pirates-vs-corsairs-davy-joness-gold.json) |
 | Pirates vs monkeys | 162851 | [162851-pirates-vs-monkeys.json](./162851-pirates-vs-monkeys.json) |
 | Pirates vs. Ninjas vs. Zombies vs. Pandas | 65709 | [65709-pirates-vs-ninjas-vs-zombies-vs-pandas.json](./65709-pirates-vs-ninjas-vs-zombies-vs-pandas.json) |
@@ -7829,6 +7831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PISTA Motorsport | 251855 | [251855-pista-motorsport.json](./251855-pista-motorsport.json) |
 | Pistol Cat | 404895 | [404895-pistol-cat.json](./404895-pistol-cat.json) |
 | Pistol Daimyo no Bouken | 40089 | [40089-pistol-daimyo-no-bouken.json](./40089-pistol-daimyo-no-bouken.json) |
+| Pistol Dancer | 158824 | [158824-pistol-dancer.json](./158824-pistol-dancer.json) |
 | Pistol Master! | 155841 | [155841-pistol-master.json](./155841-pistol-master.json) |
 | Pistol shooting: Realistic gun simulator | 164074 | [164074-pistol-shooting-realistic-gun-simulator.json](./164074-pistol-shooting-realistic-gun-simulator.json) |
 | Pistol Whip | 119341 | [119341-pistol-whip.json](./119341-pistol-whip.json) |
