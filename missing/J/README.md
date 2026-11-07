@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Love | 349864 | [349864-japanese-love.json](./349864-japanese-love.json) |
 | Japanese Mah-jongg | 100711 | [100711-japanese-mah-jongg.json](./100711-japanese-mah-jongg.json) |
 | Japanese Milf | 275436 | [275436-japanese-milf.json](./275436-japanese-milf.json) |
+| Japanese Money Simulator | 182596 | [182596-japanese-money-simulator.json](./182596-japanese-money-simulator.json) |
 | Japanese Neko-sama Escape: The Local Train | 207889 | [207889-japanese-neko-sama-escape-the-local-train.json](./207889-japanese-neko-sama-escape-the-local-train.json) |
 | Japanese Nekosama Escape: Neko-sama no Amamidokoro no Dasshutsu | 222209 | [222209-japanese-nekosama-escape-neko-sama-no-amamidokoro-no-dasshutsu.json](./222209-japanese-nekosama-escape-neko-sama-no-amamidokoro-no-dasshutsu.json) |
 | Japanese Nekosama Escape: The Mountain Cottage | 200460 | [200460-japanese-nekosama-escape-the-mountain-cottage.json](./200460-japanese-nekosama-escape-the-mountain-cottage.json) |
@@ -2307,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Job Hunting 9000 Dehlux | 385936 | [385936-job-hunting-9000-dehlux.json](./385936-job-hunting-9000-dehlux.json) |
 | Job Interview | 295508 | [295508-job-interview.json](./295508-job-interview.json) |
 | Job Joust | 293226 | [293226-job-joust.json](./293226-job-joust.json) |
+| Job Lozenge | 182626 | [182626-job-lozenge.json](./182626-job-lozenge.json) |
 | Job Simulator: Human Relations | 413169 | [413169-job-simulator-human-relations.json](./413169-job-simulator-human-relations.json) |
 | Job Simulator: The 2050 Archives | 12596 | [12596-job-simulator-the-2050-archives.json](./12596-job-simulator-the-2050-archives.json) |
 | Job the Leprechaun | 210435 | [210435-job-the-leprechaun.json](./210435-job-the-leprechaun.json) |
