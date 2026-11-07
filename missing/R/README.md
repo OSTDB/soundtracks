@@ -1452,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainmaker: Ultimate Trading Game | 233215 | [233215-rainmaker-ultimate-trading-game.json](./233215-rainmaker-ultimate-trading-game.json) |
 | Rainman | 264582 | [264582-rainman.json](./264582-rainman.json) |
 | Rainshade | 204491 | [204491-rainshade.json](./204491-rainshade.json) |
+| Rainstorm EP | 146418 | [146418-rainstorm-ep.json](./146418-rainstorm-ep.json) |
 | Rainy | 164172 | [164172-rainy.json](./164172-rainy.json) |
 | Rainy attic room | 143090 | [143090-rainy-attic-room.json](./143090-rainy-attic-room.json) |
 | Rainy Blue: 6 Gatsu no Ame | 371955 | [371955-rainy-blue-6-gatsu-no-ame.json](./371955-rainy-blue-6-gatsu-no-ame.json) |
