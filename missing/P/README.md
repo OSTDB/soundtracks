@@ -1875,6 +1875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Para Bellum | 139658 | [139658-para-bellum.json](./139658-para-bellum.json) |
 | Para Bellum | 297877 | [297877-para-bellum.json](./297877-para-bellum.json) |
 | Para Bellum: Hold the Line | 195914 | [195914-para-bellum-hold-the-line.json](./195914-para-bellum-hold-the-line.json) |
+| Para Bellum: The Unknown Soldiers | 184557 | [184557-para-bellum-the-unknown-soldiers.json](./184557-para-bellum-the-unknown-soldiers.json) |
 | Para Eyes | 201525 | [201525-para-eyes.json](./201525-para-eyes.json) |
 | Para Para Paradise | 395996 | [395996-para-para-paradise.json](./395996-para-para-paradise.json) |
 | Para-Lax | 211144 | [211144-para-lax.json](./211144-para-lax.json) |
@@ -17420,6 +17421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Attack! | 298934 | [298934-pumpkin-attack.json](./298934-pumpkin-attack.json) |
 | Pumpkin Breaker | 126609 | [126609-pumpkin-breaker.json](./126609-pumpkin-breaker.json) |
 | Pumpkin Clicker | 341436 | [341436-pumpkin-clicker.json](./341436-pumpkin-clicker.json) |
+| Pumpkin Curse | 184671 | [184671-pumpkin-curse.json](./184671-pumpkin-curse.json) |
 | Pumpkin Dash | 314814 | [314814-pumpkin-dash.json](./314814-pumpkin-dash.json) |
 | Pumpkin Days | 115514 | [115514-pumpkin-days.json](./115514-pumpkin-days.json) |
 | Pumpkin Death Garden | 110936 | [110936-pumpkin-death-garden.json](./110936-pumpkin-death-garden.json) |
