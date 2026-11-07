@@ -13933,6 +13933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PPAP: The Game | 291922 | [291922-ppap-the-game.json](./291922-ppap-the-game.json) |
 | PPD | 380180 | [380180-ppd.json](./380180-ppd.json) |
 | PPDD | 121266 | [121266-ppdd.json](./121266-ppdd.json) |
+| ppL: The Animated Adventures | 151920 | [151920-ppl-the-animated-adventures.json](./151920-ppl-the-animated-adventures.json) |
 | Ppoi: Hitonatsu no Keiken | 203373 | [203373-ppoi-hitonatsu-no-keiken.json](./203373-ppoi-hitonatsu-no-keiken.json) |
 | Pporite | 240599 | [240599-pporite.json](./240599-pporite.json) |
 | PPP | 259093 | [259093-ppp.json](./259093-ppp.json) |
@@ -16255,6 +16256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Ptocheia | 179573 | [179573-project-ptocheia.json](./179573-project-ptocheia.json) |
 | Project Pulsation | 53482 | [53482-project-pulsation.json](./53482-project-pulsation.json) |
 | Project Pulse | 166946 | [166946-project-pulse.json](./166946-project-pulse.json) |
+| Project QT | 151897 | [151897-project-qt.json](./151897-project-qt.json) |
 | Project Queen's Meadow | 180898 | [180898-project-queens-meadow.json](./180898-project-queens-meadow.json) |
 | Project R | 220661 | [220661-project-r.json](./220661-project-r.json) |
 | Project R | 313104 | [313104-project-r.json](./313104-project-r.json) |
@@ -18074,6 +18076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push Corgi | 379156 | [379156-push-corgi.json](./379156-push-corgi.json) |
 | Push Defense | 360842 | [360842-push-defense.json](./360842-push-defense.json) |
 | Push For Emor | 32468 | [32468-push-for-emor.json](./32468-push-for-emor.json) |
+| Push It In | 151914 | [151914-push-it-in.json](./151914-push-it-in.json) |
 | Push IT: Sokoban Puzzle | 232386 | [232386-push-it-sokoban-puzzle.json](./232386-push-it-sokoban-puzzle.json) |
 | Push Me | 152677 | [152677-push-me.json](./152677-push-me.json) |
 | Push Me Pull You | 19863 | [19863-push-me-pull-you.json](./19863-push-me-pull-you.json) |
