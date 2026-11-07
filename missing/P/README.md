@@ -3675,6 +3675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peak Angle: Drift Online - Japan Cars Pack | 225903 | [225903-peak-angle-drift-online-japan-cars-pack.json](./225903-peak-angle-drift-online-japan-cars-pack.json) |
 | Peak Bleak Blues (And Other Moods) | 120657 | [120657-peak-bleak-blues-and-other-moods.json](./120657-peak-bleak-blues-and-other-moods.json) |
 | Peak Climb | 372041 | [372041-peak-climb.json](./372041-peak-climb.json) |
+| Peak Darkness | 189258 | [189258-peak-darkness.json](./189258-peak-darkness.json) |
 | Peak Entertainment Casinos | 131280 | [131280-peak-entertainment-casinos.json](./131280-peak-entertainment-casinos.json) |
 | Peak Item Randomizer | 363315 | [363315-peak-item-randomizer.json](./363315-peak-item-randomizer.json) |
 | Peak or Die | 382886 | [382886-peak-or-die.json](./382886-peak-or-die.json) |
@@ -7858,6 +7859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pitty Meaty | 368657 | [368657-pitty-meaty.json](./368657-pitty-meaty.json) |
 | Pity Party | 183229 | [183229-pity-party.json](./183229-pity-party.json) |
 | Pity Pit | 132769 | [132769-pity-pit.json](./132769-pity-pit.json) |
+| Pity Please! | 189243 | [189243-pity-please.json](./189243-pity-please.json) |
 | Pity This Busy Monster | 345587 | [345587-pity-this-busy-monster.json](./345587-pity-this-busy-monster.json) |
 | Piui Seoyak | 220285 | [220285-piui-seoyak.json](./220285-piui-seoyak.json) |
 | Piverantum | 261752 | [261752-piverantum.json](./261752-piverantum.json) |
@@ -8915,6 +8917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Maker | 325889 | [325889-pizza-maker.json](./325889-pizza-maker.json) |
 | Pizza Maker | 95300 | [95300-pizza-maker.json](./95300-pizza-maker.json) |
 | Pizza Maker Game | 261034 | [261034-pizza-maker-game.json](./261034-pizza-maker-game.json) |
+| Pizza Man | 189239 | [189239-pizza-man.json](./189239-pizza-man.json) |
 | Pizza Man Simulator | 407375 | [407375-pizza-man-simulator.json](./407375-pizza-man-simulator.json) |
 | Pizza Master VR | 131642 | [131642-pizza-master-vr.json](./131642-pizza-master-vr.json) |
 | Pizza Morgana | 70427 | [70427-pizza-morgana.json](./70427-pizza-morgana.json) |
@@ -9042,6 +9045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plague Inc: Aliens & Anti-Vaxxers | 398971 | [398971-plague-inc-aliens-and-anti-vaxxers.json](./398971-plague-inc-aliens-and-anti-vaxxers.json) |
 | Plague Inc: Evolved | 7601 | [7601-plague-inc-evolved.json](./7601-plague-inc-evolved.json) |
 | Plague Inc: The Cure | 170560 | [170560-plague-inc-the-cure.json](./170560-plague-inc-the-cure.json) |
+| Plague Infection | 189273 | [189273-plague-infection.json](./189273-plague-infection.json) |
 | Plague Lords: Witch Hunt | 189884 | [189884-plague-lords-witch-hunt.json](./189884-plague-lords-witch-hunt.json) |
 | Plague M.D. | 140631 | [140631-plague-m-d.json](./140631-plague-m-d.json) |
 | Plague Masters | 154012 | [154012-plague-masters.json](./154012-plague-masters.json) |
@@ -12836,6 +12840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popoposan | 329555 | [329555-popoposan.json](./329555-popoposan.json) |
 | PoPoRoGue | 79937 | [79937-poporogue.json](./79937-poporogue.json) |
 | Popotinho's Adventures | 325885 | [325885-popotinhos-adventures.json](./325885-popotinhos-adventures.json) |
+| Popped Up | 189276 | [189276-popped-up.json](./189276-popped-up.json) |
 | Popper | 288146 | [288146-popper.json](./288146-popper.json) |
 | Popper | 60878 | [60878-popper.json](./60878-popper.json) |
 | Popper Lands Colony | 271606 | [271606-popper-lands-colony.json](./271606-popper-lands-colony.json) |
@@ -16975,6 +16980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho | 320238 | [320238-psycho.json](./320238-psycho.json) |
 | Psycho | 378393 | [378393-psycho.json](./378393-psycho.json) |
 | Psycho | 85904 | [85904-psycho.json](./85904-psycho.json) |
+| Psycho Bathroom | 189245 | [189245-psycho-bathroom.json](./189245-psycho-bathroom.json) |
 | Psycho Boy: Dasshutsu Game | 223968 | [223968-psycho-boy-dasshutsu-game.json](./223968-psycho-boy-dasshutsu-game.json) |
 | Psycho Boys | 241407 | [241407-psycho-boys.json](./241407-psycho-boys.json) |
 | Psycho Casket | 408287 | [408287-psycho-casket.json](./408287-psycho-casket.json) |
