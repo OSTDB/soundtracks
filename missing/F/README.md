@@ -518,6 +518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fading Reality | 415729 | [415729-fading-reality.json](./415729-fading-reality.json) |
 | Fading Remnants | 326844 | [326844-fading-remnants.json](./326844-fading-remnants.json) |
 | Fading Serenades | 348512 | [348512-fading-serenades.json](./348512-fading-serenades.json) |
+| Fading Shades | 169510 | [169510-fading-shades.json](./169510-fading-shades.json) |
 | Fading Shadows | 42880 | [42880-fading-shadows.json](./42880-fading-shadows.json) |
 | Fading Skies | 291768 | [291768-fading-skies.json](./291768-fading-skies.json) |
 | Fading Star Melody | 328098 | [328098-fading-star-melody.json](./328098-fading-star-melody.json) |
@@ -1191,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Seeds II | 372171 | [372171-fallen-seeds-ii.json](./372171-fallen-seeds-ii.json) |
 | Fallen Shadows | 60779 | [60779-fallen-shadows.json](./60779-fallen-shadows.json) |
 | Fallen Sky Online | 110655 | [110655-fallen-sky-online.json](./110655-fallen-sky-online.json) |
+| Fallen Soldier | 169511 | [169511-fallen-soldier.json](./169511-fallen-soldier.json) |
 | Fallen Spirit | 188518 | [188518-fallen-spirit.json](./188518-fallen-spirit.json) |
 | Fallen Star | 202892 | [202892-fallen-star.json](./202892-fallen-star.json) |
 | Fallen Star | 322177 | [322177-fallen-star.json](./322177-fallen-star.json) |
@@ -2888,6 +2890,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion_Weak | 181755 | [181755-fashion-weak.json](./181755-fashion-weak.json) |
 | Fashioning Little Miss Lonesome | 55538 | [55538-fashioning-little-miss-lonesome.json](./55538-fashioning-little-miss-lonesome.json) |
 | FashionVerse | 296068 | [296068-fashionverse.json](./296068-fashionverse.json) |
+| Fasmo | 169512 | [169512-fasmo.json](./169512-fasmo.json) |
+| Fasmo 2: Fasmo Goes West | 169513 | [169513-fasmo-2-fasmo-goes-west.json](./169513-fasmo-2-fasmo-goes-west.json) |
 | Fast | 267210 | [267210-fast.json](./267210-fast.json) |
 | Fast & Blast | 368687 | [368687-fast-and-blast.json](./368687-fast-and-blast.json) |
 | Fast & Fractured | 390642 | [390642-fast-and-fractured.json](./390642-fast-and-fractured.json) |
@@ -3650,6 +3654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Featherfall | 129442 | [129442-featherfall.json](./129442-featherfall.json) |
 | Featherpunk Prime | 18404 | [18404-featherpunk-prime.json](./18404-featherpunk-prime.json) |
 | Feathers & All | 406446 | [406446-feathers-and-all.json](./406446-feathers-and-all.json) |
+| Featherweight | 169514 | [169514-featherweight.json](./169514-featherweight.json) |
 | Feathery Ears | 122140 | [122140-feathery-ears.json](./122140-feathery-ears.json) |
 | Febilis | 255578 | [255578-febilis.json](./255578-febilis.json) |
 | February 2003 | 252076 | [252076-february-2003.json](./252076-february-2003.json) |
@@ -7607,6 +7612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flavor Rave | 401310 | [401310-flavor-rave.json](./401310-flavor-rave.json) |
 | Flavors of Fortune | 301882 | [301882-flavors-of-fortune.json](./301882-flavors-of-fortune.json) |
 | Flavors of Spain | 407542 | [407542-flavors-of-spain.json](./407542-flavors-of-spain.json) |
+| Flavortown | 169555 | [169555-flavortown.json](./169555-flavortown.json) |
 | Flavortown:VR | 118142 | [118142-flavortown-vr.json](./118142-flavortown-vr.json) |
 | Flavour Fare | 416514 | [416514-flavour-fare.json](./416514-flavour-fare.json) |
 | Flavoured Cats | 85140 | [85140-flavoured-cats.json](./85140-flavoured-cats.json) |
@@ -8959,6 +8965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Folktale Fury | 379422 | [379422-folktale-fury.json](./379422-folktale-fury.json) |
 | Folletti | 321321 | [321321-folletti.json](./321321-folletti.json) |
 | Follia: Dear Father | 118671 | [118671-follia-dear-father.json](./118671-follia-dear-father.json) |
+| Follia: Dear Father VR | 169540 | [169540-follia-dear-father-vr.json](./169540-follia-dear-father-vr.json) |
 | Follow Dalian | 377070 | [377070-follow-dalian.json](./377070-follow-dalian.json) |
 | Follow Dream | 296591 | [296591-follow-dream.json](./296591-follow-dream.json) |
 | Follow JC Go | 111329 | [111329-follow-jc-go.json](./111329-follow-jc-go.json) |
@@ -9843,6 +9850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever In The Backrooms | 246831 | [246831-forever-in-the-backrooms.json](./246831-forever-in-the-backrooms.json) |
 | Forever Indy | 256924 | [256924-forever-indy.json](./256924-forever-indy.json) |
 | Forever Kingdom | 10907 | [10907-forever-kingdom.json](./10907-forever-kingdom.json) |
+| Forever Legend | 169515 | [169515-forever-legend.json](./169515-forever-legend.json) |
 | Forever Loot | 184216 | [184216-forever-loot.json](./184216-forever-loot.json) |
 | Forever Lost | 207739 | [207739-forever-lost.json](./207739-forever-lost.json) |
 | Forever Lost in the Never Ending Museum of Still Life | 129603 | [129603-forever-lost-in-the-never-ending-museum-of-still-life.json](./129603-forever-lost-in-the-never-ending-museum-of-still-life.json) |
@@ -11391,6 +11399,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frank Hawk | 180678 | [180678-frank-hawk.json](./180678-frank-hawk.json) |
 | Frank Herbert's Dune | 88 | [88-frank-herberts-dune.json](./88-frank-herberts-dune.json) |
 | Frank N Stein | 79118 | [79118-frank-n-stein.json](./79118-frank-n-stein.json) |
+| Frank the Farmhand Part 1 | 169516 | [169516-frank-the-farmhand-part-1.json](./169516-frank-the-farmhand-part-1.json) |
+| Frank the Farmhand Part 2 | 169517 | [169517-frank-the-farmhand-part-2.json](./169517-frank-the-farmhand-part-2.json) |
 | Frank the Fruit Fly | 218078 | [218078-frank-the-fruit-fly.json](./218078-frank-the-fruit-fly.json) |
 | Frank the Miner | 88088 | [88088-frank-the-miner.json](./88088-frank-the-miner.json) |
 | Frank Thomas Big Hurt Baseball | 138072 | [138072-frank-thomas-big-hurt-baseball.json](./138072-frank-thomas-big-hurt-baseball.json) |
