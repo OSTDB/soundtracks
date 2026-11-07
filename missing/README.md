@@ -35,8 +35,8 @@ The most popular games still missing a soundtrack. Click **Add it**, fill in the
 | 21 | **Pokémon Snap** | [🔎 Find on Spotify](https://open.spotify.com/search/Pok%C3%A9mon%20Snap%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/P/2324-pokemon-snap.json) |
 | 22 | **Company of Heroes** | [🔎 Find on Spotify](https://open.spotify.com/search/Company%20of%20Heroes%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/654-company-of-heroes.json) |
 | 23 | **Star Wars: The Old Republic** | [🔎 Find on Spotify](https://open.spotify.com/search/Star%20Wars%3A%20The%20Old%20Republic%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/S/114-star-wars-the-old-republic.json) |
-| 24 | **Crysis Warhead** | [🔎 Find on Spotify](https://open.spotify.com/search/Crysis%20Warhead%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/336-crysis-warhead.json) |
-| 25 | **Dragon Ball FighterZ** | [🔎 Find on Spotify](https://open.spotify.com/search/Dragon%20Ball%20FighterZ%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/36911-dragon-ball-fighterz.json) |
+| 24 | **Dragon Ball FighterZ** | [🔎 Find on Spotify](https://open.spotify.com/search/Dragon%20Ball%20FighterZ%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/36911-dragon-ball-fighterz.json) |
+| 25 | **Crysis Warhead** | [🔎 Find on Spotify](https://open.spotify.com/search/Crysis%20Warhead%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/336-crysis-warhead.json) |
 | 26 | **Sniper Elite V2** | [🔎 Find on Spotify](https://open.spotify.com/search/Sniper%20Elite%20V2%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/S/3078-sniper-elite-v2.json) |
 | 27 | **Grim Fandango Remastered** | [🔎 Find on Spotify](https://open.spotify.com/search/Grim%20Fandango%20Remastered%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/G/8682-grim-fandango-remastered.json) |
 | 28 | **Vanquish** | [🔎 Find on Spotify](https://open.spotify.com/search/Vanquish%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/V/3218-vanquish.json) |
@@ -67,20 +67,20 @@ The most popular games still missing a soundtrack. Click **Add it**, fill in the
 
 | **[A](./A/README.md)** | **[B](./B/README.md)** | **[C](./C/README.md)** | **[D](./D/README.md)** | **[E](./E/README.md)** | **[F](./F/README.md)** | **[G](./G/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 18521 games | 18508 games | 21082 games | 19448 games | 8502 games | 14200 games | 11585 games |
+| 18522 games | 18519 games | 21086 games | 19453 games | 8503 games | 14201 games | 11588 games |
 
 | **[H](./H/README.md)** | **[I](./I/README.md)** | **[J](./J/README.md)** | **[K](./K/README.md)** | **[L](./L/README.md)** | **[M](./M/README.md)** | **[N](./N/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 12846 games | 6972 games | 4317 games | 6504 games | 10276 games | 22340 games | 7851 games |
+| 12850 games | 6972 games | 4317 games | 6504 games | 10279 games | 22342 games | 7853 games |
 
 | **[O](./O/README.md)** | **[P](./P/README.md)** | **[Q](./Q/README.md)** | **[R](./R/README.md)** | **[S](./S/README.md)** | **[T](./T/README.md)** | **[U](./U/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 5985 games | 19020 games | 1300 games | 13218 games | 36434 games | 33697 games | 3695 games |
+| 5986 games | 19023 games | 1300 games | 13218 games | 36437 games | 33700 games | 3696 games |
 
 | **[V](./V/README.md)** | **[W](./W/README.md)** | **[X](./X/README.md)** | **[Y](./Y/README.md)** | **[Z](./Z/README.md)** | **[0-9](./0-9/README.md)** |
 | --- | --- | --- | --- | --- | --- |
-| 4324 games | 9546 games | 1091 games | 2174 games | 2646 games | 3631 games |
+| 4324 games | 9546 games | 1091 games | 2174 games | 2647 games | 3632 games |
 
 ---
 
-_319713 games missing a soundtrack · last updated 2026-11-07T06:35:48.777Z_
+_319763 games missing a soundtrack · last updated 2026-11-07T06:48:23.476Z_
