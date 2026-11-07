@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred 3 - Orcland Story | 53566 | [53566-sacred-3-orcland-story.json](./53566-sacred-3-orcland-story.json) |
 | Sacred 3: First Edition | 51287 | [51287-sacred-3-first-edition.json](./51287-sacred-3-first-edition.json) |
 | Sacred 3: Gold Edition | 53567 | [53567-sacred-3-gold-edition.json](./53567-sacred-3-gold-edition.json) |
+| Sacred Adventure Group: Shining Stars | 181987 | [181987-sacred-adventure-group-shining-stars.json](./181987-sacred-adventure-group-shining-stars.json) |
 | Sacred Almanac Traces of Greed | 30915 | [30915-sacred-almanac-traces-of-greed.json](./30915-sacred-almanac-traces-of-greed.json) |
 | Sacred Blade | 53568 | [53568-sacred-blade.json](./53568-sacred-blade.json) |
 | Sacred Chasm: Silent Utopia | 297814 | [297814-sacred-chasm-silent-utopia.json](./297814-sacred-chasm-silent-utopia.json) |
@@ -19733,7 +19734,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -27436,6 +27436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm of Darkness | 233500 | [233500-storm-of-darkness.json](./233500-storm-of-darkness.json) |
 | Storm of Idigidragon | 58503 | [58503-storm-of-idigidragon.json](./58503-storm-of-idigidragon.json) |
 | Storm of Jigsaw Puzzles | 109654 | [109654-storm-of-jigsaw-puzzles.json](./109654-storm-of-jigsaw-puzzles.json) |
+| Storm of Wars | 181969 | [181969-storm-of-wars.json](./181969-storm-of-wars.json) |
 | Storm Over the Desert | 245095 | [245095-storm-over-the-desert.json](./245095-storm-over-the-desert.json) |
 | Storm over the Pacific | 17420 | [17420-storm-over-the-pacific.json](./17420-storm-over-the-pacific.json) |
 | Storm over Thyrion | 386849 | [386849-storm-over-thyrion.json](./386849-storm-over-thyrion.json) |
@@ -29671,6 +29672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugar Bear | 255121 | [255121-sugar-bear.json](./255121-sugar-bear.json) |
 | Sugar Box | 81227 | [81227-sugar-box.json](./81227-sugar-box.json) |
 | Sugar Bunnies DS: Yume no Sweets Koubou | 68038 | [68038-sugar-bunnies-ds-yume-no-sweets-koubou.json](./68038-sugar-bunnies-ds-yume-no-sweets-koubou.json) |
+| Sugar Burst Mania | 181999 | [181999-sugar-burst-mania.json](./181999-sugar-burst-mania.json) |
 | Sugar Coat Freaks | 60401 | [60401-sugar-coat-freaks.json](./60401-sugar-coat-freaks.json) |
 | Sugar Cookie | 396209 | [396209-sugar-cookie.json](./396209-sugar-cookie.json) |
 | Sugar Cookie Mountain! | 412911 | [412911-sugar-cookie-mountain.json](./412911-sugar-cookie-mountain.json) |
@@ -33850,6 +33852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermarket Mania | 206995 | [206995-supermarket-mania.json](./206995-supermarket-mania.json) |
 | Supermarket Mania | 23664 | [23664-supermarket-mania.json](./23664-supermarket-mania.json) |
 | Supermarket Mania HD | 24271 | [24271-supermarket-mania-hd.json](./24271-supermarket-mania-hd.json) |
+| Supermarket Mania Journey | 182006 | [182006-supermarket-mania-journey.json](./182006-supermarket-mania-journey.json) |
 | Supermarket Mania: Match 3 | 334007 | [334007-supermarket-mania-match-3.json](./334007-supermarket-mania-match-3.json) |
 | Supermarket Security Simulator | 275234 | [275234-supermarket-security-simulator.json](./275234-supermarket-security-simulator.json) |
 | Supermarket Shopping Simulator | 298437 | [298437-supermarket-shopping-simulator.json](./298437-supermarket-shopping-simulator.json) |
@@ -34145,6 +34148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surface: Alone in the Mist - Collector's Edition | 89943 | [89943-surface-alone-in-the-mist-collectors-edition.json](./89943-surface-alone-in-the-mist-collectors-edition.json) |
 | Surface: Game of Gods | 139746 | [139746-surface-game-of-gods.json](./139746-surface-game-of-gods.json) |
 | Surface: Game of Gods - Collector's Edition | 55661 | [55661-surface-game-of-gods-collectors-edition.json](./55661-surface-game-of-gods-collectors-edition.json) |
+| Surface: Lost Tales | 182010 | [182010-surface-lost-tales.json](./182010-surface-lost-tales.json) |
 | Surface: Lost Tales - Collector's Edition | 170122 | [170122-surface-lost-tales-collectors-edition.json](./170122-surface-lost-tales-collectors-edition.json) |
 | Surface: Project Dawn | 102812 | [102812-surface-project-dawn.json](./102812-surface-project-dawn.json) |
 | Surface: Project Dawn - Collector's Edition | 345775 | [345775-surface-project-dawn-collectors-edition.json](./345775-surface-project-dawn-collectors-edition.json) |
