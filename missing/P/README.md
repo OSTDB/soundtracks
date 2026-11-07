@@ -1264,6 +1264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pango Kumo | 197731 | [197731-pango-kumo.json](./197731-pango-kumo.json) |
 | Pangolick Quest | 417350 | [417350-pangolick-quest.json](./417350-pangolick-quest.json) |
 | Pangolin Cassowary | 266181 | [266181-pangolin-cassowary.json](./266181-pangolin-cassowary.json) |
+| Pangolin Love | 178143 | [178143-pangolin-love.json](./178143-pangolin-love.json) |
 | Pangolin Love: Day 1 - Ghana | 375812 | [375812-pangolin-love-day-1-ghana.json](./375812-pangolin-love-day-1-ghana.json) |
 | Pangolin Love: Day 2 - India | 375813 | [375813-pangolin-love-day-2-india.json](./375813-pangolin-love-day-2-india.json) |
 | Pangolin Love: Day 3 - China | 375814 | [375814-pangolin-love-day-3-china.json](./375814-pangolin-love-day-3-china.json) |
@@ -16002,6 +16003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Jump Scare | 60769 | [60769-project-jump-scare.json](./60769-project-jump-scare.json) |
 | Project Justice | 13096 | [13096-project-justice.json](./13096-project-justice.json) |
 | Project K1 | 264009 | [264009-project-k1.json](./264009-project-k1.json) |
+| Project Kafka | 178137 | [178137-project-kafka.json](./178137-project-kafka.json) |
 | Project Kat: Paper Lily Prologue | 131945 | [131945-project-kat-paper-lily-prologue.json](./131945-project-kat-paper-lily-prologue.json) |
 | Project Kepler: Delivery Included! | 363050 | [363050-project-kepler-delivery-included.json](./363050-project-kepler-delivery-included.json) |
 | Project Killdance | 383017 | [383017-project-killdance.json](./383017-project-killdance.json) |
@@ -16977,6 +16979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psyche Metal: The Bleeding | 141070 | [141070-psyche-metal-the-bleeding.json](./141070-psyche-metal-the-bleeding.json) |
 | Psyche Soldier VR | 30097 | [30097-psyche-soldier-vr.json](./30097-psyche-soldier-vr.json) |
 | Psyche60s | 264170 | [264170-psyche60s.json](./264170-psyche60s.json) |
+| Psychedelia | 178129 | [178129-psychedelia.json](./178129-psychedelia.json) |
 | Psychedelia: The Psychonaut | 220473 | [220473-psychedelia-the-psychonaut.json](./220473-psychedelia-the-psychonaut.json) |
 | Psychedelic Dream | 359154 | [359154-psychedelic-dream.json](./359154-psychedelic-dream.json) |
 | Psychedelica of the Ashen Hawk | 41824 | [41824-psychedelica-of-the-ashen-hawk.json](./41824-psychedelica-of-the-ashen-hawk.json) |
