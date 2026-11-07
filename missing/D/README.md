@@ -8326,6 +8326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dezaemon DD | 182337 | [182337-dezaemon-dd.json](./182337-dezaemon-dd.json) |
 | Dezaemon Kids! | 98463 | [98463-dezaemon-kids.json](./98463-dezaemon-kids.json) |
 | Dezaemon Plus | 65770 | [65770-dezaemon-plus.json](./65770-dezaemon-plus.json) |
+| Dezinsector | 170665 | [170665-dezinsector.json](./170665-dezinsector.json) |
 | Dezlooca Anthology | 186498 | [186498-dezlooca-anthology.json](./186498-dezlooca-anthology.json) |
 | Dezzan | 117118 | [117118-dezzan.json](./117118-dezzan.json) |
 | DF-41 Simulator | 169609 | [169609-df-41-simulator.json](./169609-df-41-simulator.json) |
@@ -17409,6 +17410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duality | 112786 | [112786-duality.json](./112786-duality.json) |
 | Duality | 301334 | [301334-duality.json](./301334-duality.json) |
 | Duality | 305337 | [305337-duality.json](./305337-duality.json) |
+| Duality of Doodles | 170641 | [170641-duality-of-doodles.json](./170641-duality-of-doodles.json) |
 | Duality Paradox | 385566 | [385566-duality-paradox.json](./385566-duality-paradox.json) |
 | Duality Shift | 373109 | [373109-duality-shift.json](./373109-duality-shift.json) |
 | Duality ZF | 92062 | [92062-duality-zf.json](./92062-duality-zf.json) |
