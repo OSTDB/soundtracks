@@ -2057,6 +2057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Nights of Terror | 366184 | [366184-3-nights-of-terror.json](./366184-3-nights-of-terror.json) |
 | 3 Ninjas Kick Back | 5337 | [5337-3-ninjas-kick-back.json](./5337-3-ninjas-kick-back.json) |
 | 3 Ninjas Kick Back / Hook | 409773 | [409773-3-ninjas-kick-back-hook.json](./409773-3-ninjas-kick-back-hook.json) |
+| 3 O'clock Horror | 157261 | [157261-3-oclock-horror.json](./157261-3-oclock-horror.json) |
 | 3 on 3 Dunk Madness | 406696 | [406696-3-on-3-dunk-madness.json](./406696-3-on-3-dunk-madness.json) |
 | 3 on 3 NHL Arcade | 21258 | [21258-3-on-3-nhl-arcade.json](./21258-3-on-3-nhl-arcade.json) |
 | 3 on 3 Soccer | 351237 | [351237-3-on-3-soccer.json](./351237-3-on-3-soccer.json) |
