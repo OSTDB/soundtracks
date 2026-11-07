@@ -1919,6 +1919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warplanes: Battles over Pacific | 195395 | [195395-warplanes-battles-over-pacific.json](./195395-warplanes-battles-over-pacific.json) |
 | Warplanes: WW1 + Space Commander Bundle | 325402 | [325402-warplanes-ww1-space-commander-bundle.json](./325402-warplanes-ww1-space-commander-bundle.json) |
 | Warplanes: WW1 + WW2 + Space Commander Bundle | 325401 | [325401-warplanes-ww1-ww2-space-commander-bundle.json](./325401-warplanes-ww1-ww2-space-commander-bundle.json) |
+| Warplanes: WW1 Fighters | 145163 | [145163-warplanes-ww1-fighters.json](./145163-warplanes-ww1-fighters.json) |
 | Warplanes: WW1 Sky Aces | 123569 | [123569-warplanes-ww1-sky-aces.json](./123569-warplanes-ww1-sky-aces.json) |
 | Warplanes: WW2 + Space Commander Bundle | 325403 | [325403-warplanes-ww2-space-commander-bundle.json](./325403-warplanes-ww2-space-commander-bundle.json) |
 | Warplanes: WW2 Dogfight | 112929 | [112929-warplanes-ww2-dogfight.json](./112929-warplanes-ww2-dogfight.json) |
@@ -4347,6 +4348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's My What? | 31201 | [31201-wheres-my-what.json](./31201-wheres-my-what.json) |
 | Where's Oswald? | 207124 | [207124-wheres-oswald.json](./207124-wheres-oswald.json) |
 | Where's Our Ouis? | 408927 | [408927-wheres-our-ouis.json](./408927-wheres-our-ouis.json) |
+| Where's Samantha? | 145131 | [145131-wheres-samantha.json](./145131-wheres-samantha.json) |
 | Where's Tess | 298869 | [298869-wheres-tess.json](./298869-wheres-tess.json) |
 | Where's That Clown?! | 367487 | [367487-wheres-that-clown.json](./367487-wheres-that-clown.json) |
 | Where's the Bathroom!?! | 215651 | [215651-wheres-the-bathroom.json](./215651-wheres-the-bathroom.json) |
