@@ -5948,6 +5948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -7209,6 +7210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meet me at Noon | 197148 | [197148-meet-me-at-noon.json](./197148-meet-me-at-noon.json) |
 | Meet Me at the Apple Garden | 374608 | [374608-meet-me-at-the-apple-garden.json](./374608-meet-me-at-the-apple-garden.json) |
 | Meet Me at The Workers' Club | 302426 | [302426-meet-me-at-the-workers-club.json](./302426-meet-me-at-the-workers-club.json) |
+| Meet Me in the Parking Lot! | 191312 | [191312-meet-me-in-the-parking-lot.json](./191312-meet-me-in-the-parking-lot.json) |
 | Meet Me in the Well | 423874 | [423874-meet-me-in-the-well.json](./423874-meet-me-in-the-well.json) |
 | Meet Me on the Mountain | 268990 | [268990-meet-me-on-the-mountain.json](./268990-meet-me-on-the-mountain.json) |
 | Meet Media Band | 209533 | [209533-meet-media-band.json](./209533-meet-media-band.json) |
@@ -17526,6 +17528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moses Prince of Egypt | 43783 | [43783-moses-prince-of-egypt.json](./43783-moses-prince-of-egypt.json) |
 | Moses: From Egypt to the Promised Land | 216595 | [216595-moses-from-egypt-to-the-promised-land.json](./216595-moses-from-egypt-to-the-promised-land.json) |
 | Moses: Old Testament Adventure #1 | 100018 | [100018-moses-old-testament-adventure-1.json](./100018-moses-old-testament-adventure-1.json) |
+| Mosey the Pirate | 191354 | [191354-mosey-the-pirate.json](./191354-mosey-the-pirate.json) |
 | MosGhost | 337362 | [337362-mosghost.json](./337362-mosghost.json) |
 | Mosh Lift | 283798 | [283798-mosh-lift.json](./283798-mosh-lift.json) |
 | Mosh Pit | 121982 | [121982-mosh-pit.json](./121982-mosh-pit.json) |
@@ -18568,6 +18571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Blob's Honey-Do List | 342639 | [342639-mr-blobs-honey-do-list.json](./342639-mr-blobs-honey-do-list.json) |
 | Mr. Blobby | 74042 | [74042-mr-blobby.json](./74042-mr-blobby.json) |
 | Mr. Bloopy Saves the World | 42659 | [42659-mr-bloopy-saves-the-world.json](./42659-mr-bloopy-saves-the-world.json) |
+| Mr. Bommels Teacats | 191362 | [191362-mr-bommels-teacats.json](./191362-mr-bommels-teacats.json) |
 | Mr. Bones | 25804 | [25804-mr-bones.json](./25804-mr-bones.json) |
 | Mr. Boom | 46621 | [46621-mr-boom.json](./46621-mr-boom.json) |
 | Mr. Boston Clean Sweep | 72611 | [72611-mr-boston-clean-sweep.json](./72611-mr-boston-clean-sweep.json) |
