@@ -6036,6 +6036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Breaker | 76597 | [76597-chaos-breaker.json](./76597-chaos-breaker.json) |
 | Chaos Caster | 314990 | [314990-chaos-caster.json](./314990-chaos-caster.json) |
 | Chaos Caves | 113680 | [113680-chaos-caves.json](./113680-chaos-caves.json) |
+| Chaos Chain | 188726 | [188726-chaos-chain.json](./188726-chaos-chain.json) |
 | Chaos Chain: Supporter Cosmetic Pack 3 | 302592 | [302592-chaos-chain-supporter-cosmetic-pack-3.json](./302592-chaos-chain-supporter-cosmetic-pack-3.json) |
 | Chaos Chronicle | 57893 | [57893-chaos-chronicle.json](./57893-chaos-chronicle.json) |
 | Chaos Chronicles | 63923 | [63923-chaos-chronicles.json](./63923-chaos-chronicles.json) |
@@ -11620,6 +11621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coinon | 104014 | [104014-coinon.json](./104014-coinon.json) |
 | Coins | 312027 | [312027-coins.json](./312027-coins.json) |
 | Coins Challenge | 75386 | [75386-coins-challenge.json](./75386-coins-challenge.json) |
+| Coins Collector Simulator | 188752 | [188752-coins-collector-simulator.json](./188752-coins-collector-simulator.json) |
 | Coins Collector Sport Car | 213027 | [213027-coins-collector-sport-car.json](./213027-coins-collector-sport-car.json) |
 | Coins Invaders | 188936 | [188936-coins-invaders.json](./188936-coins-invaders.json) |
 | Coins Muncher | 196610 | [196610-coins-muncher.json](./196610-coins-muncher.json) |
@@ -12652,6 +12654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Kart | 265522 | [265522-combat-kart.json](./265522-combat-kart.json) |
 | Combat Labs | 155843 | [155843-combat-labs.json](./155843-combat-labs.json) |
 | Combat Leader | 24914 | [24914-combat-leader.json](./24914-combat-leader.json) |
+| Combat League | 188720 | [188720-combat-league.json](./188720-combat-league.json) |
 | Combat Lynx | 12946 | [12946-combat-lynx.json](./12946-combat-lynx.json) |
 | Combat Magic: Spells and Swords | 171767 | [171767-combat-magic-spells-and-swords.json](./171767-combat-magic-spells-and-swords.json) |
 | Combat Martial Boss Edition | 104573 | [104573-combat-martial-boss-edition.json](./104573-combat-martial-boss-edition.json) |
@@ -14233,6 +14236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Converse Hardcore Hoops | 208790 | [208790-converse-hardcore-hoops.json](./208790-converse-hardcore-hoops.json) |
 | Convertible Wop | 104442 | [104442-convertible-wop.json](./104442-convertible-wop.json) |
 | Convextrix | 64789 | [64789-convextrix.json](./64789-convextrix.json) |
+| Conveyance | 188731 | [188731-conveyance.json](./188731-conveyance.json) |
 | Conveyor Belt Sushi Simulator | 334129 | [334129-conveyor-belt-sushi-simulator.json](./334129-conveyor-belt-sushi-simulator.json) |
 | Conveyor Con-fusion | 302166 | [302166-conveyor-con-fusion.json](./302166-conveyor-con-fusion.json) |
 | Conveyor VR | 112970 | [112970-conveyor-vr.json](./112970-conveyor-vr.json) |
