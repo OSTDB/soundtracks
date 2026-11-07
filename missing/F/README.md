@@ -5730,6 +5730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fingernail Floss | 257917 | [257917-fingernail-floss.json](./257917-fingernail-floss.json) |
 | Fingers Malone | 330014 | [330014-fingers-malone.json](./330014-fingers-malone.json) |
 | Fingers of Fury | 195508 | [195508-fingers-of-fury.json](./195508-fingers-of-fury.json) |
+| Fingers: Mini Games | 158314 | [158314-fingers-mini-games.json](./158314-fingers-mini-games.json) |
 | Fingers' Dating | 232971 | [232971-fingers-dating.json](./232971-fingers-dating.json) |
 | Fingerspelling Unleashed: BANZSL Edition | 238726 | [238726-fingerspelling-unleashed-banzsl-edition.json](./238726-fingerspelling-unleashed-banzsl-edition.json) |
 | Fingertip Balance | 254440 | [254440-fingertip-balance.json](./254440-fingertip-balance.json) |
