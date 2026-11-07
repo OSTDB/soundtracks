@@ -1565,6 +1565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yqriel | 229565 | [229565-yqriel.json](./229565-yqriel.json) |
 | YRek Lost In Portals | 166757 | [166757-yrek-lost-in-portals.json](./166757-yrek-lost-in-portals.json) |
 | Yrkkey's Paradise | 279712 | [279712-yrkkeys-paradise.json](./279712-yrkkeys-paradise.json) |
+| Yrsa Major | 178752 | [178752-yrsa-major.json](./178752-yrsa-major.json) |
 | Ys | 206128 | [206128-ys.json](./206128-ys.json) |
 | Ys | 206826 | [206826-ys.json](./206826-ys.json) |
 | Ys 2 Special | 146536 | [146536-ys-2-special.json](./146536-ys-2-special.json) |
@@ -1812,6 +1813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuki Onna | 126993 | [126993-yuki-onna.json](./126993-yuki-onna.json) |
 | Yuki-iro Sign | 240708 | [240708-yuki-iro-sign.json](./240708-yuki-iro-sign.json) |
 | Yuki: Space Ranger | 159032 | [159032-yuki-space-ranger.json](./159032-yuki-space-ranger.json) |
+| Yuki’s Palpitating, Passionate, Phenomenal, and Quite Frankly Proficient Quest for a Hot Girlfriend!!! | 178770 | [178770-yuki-s-palpitating-passionate-phenomenal-and-quite-frankly-proficient-quest-for-a-hot-girlfriend.json](./178770-yuki-s-palpitating-passionate-phenomenal-and-quite-frankly-proficient-quest-for-a-hot-girlfriend.json) |
 | Yuki's Symphony | 362751 | [362751-yukis-symphony.json](./362751-yukis-symphony.json) |
 | Yuki's Tale | 114834 | [114834-yukis-tale.json](./114834-yukis-tale.json) |
 | Yuki's Vacation | 73119 | [73119-yukis-vacation.json](./73119-yukis-vacation.json) |
