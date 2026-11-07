@@ -6463,6 +6463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis IV: Dharma | 149956 | [149956-europa-universalis-iv-dharma.json](./149956-europa-universalis-iv-dharma.json) |
 | Europa Universalis IV: Dharma Content Pack | 227342 | [227342-europa-universalis-iv-dharma-content-pack.json](./227342-europa-universalis-iv-dharma-content-pack.json) |
 | Europa Universalis IV: Digital Extreme Edition | 53009 | [53009-europa-universalis-iv-digital-extreme-edition.json](./53009-europa-universalis-iv-digital-extreme-edition.json) |
+| Europa Universalis IV: Digital Extreme Edition Upgrade Pack | 178157 | [178157-europa-universalis-iv-digital-extreme-edition-upgrade-pack.json](./178157-europa-universalis-iv-digital-extreme-edition-upgrade-pack.json) |
 | Europa Universalis IV: Domination | 240892 | [240892-europa-universalis-iv-domination.json](./240892-europa-universalis-iv-domination.json) |
 | Europa Universalis IV: El Dorado Content Pack | 227343 | [227343-europa-universalis-iv-el-dorado-content-pack.json](./227343-europa-universalis-iv-el-dorado-content-pack.json) |
 | Europa Universalis IV: Emperor | 133911 | [133911-europa-universalis-iv-emperor.json](./133911-europa-universalis-iv-emperor.json) |
