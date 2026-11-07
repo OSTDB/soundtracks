@@ -8022,6 +8022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AlterEgo City | 306643 | [306643-alterego-city.json](./306643-alterego-city.json) |
 | Alterhavoc | 283904 | [283904-alterhavoc.json](./283904-alterhavoc.json) |
 | Alteric | 32358 | [32358-alteric.json](./32358-alteric.json) |
+| Alterium Shift | 155773 | [155773-alterium-shift.json](./155773-alterium-shift.json) |
 | AlterLife | 352860 | [352860-alterlife.json](./352860-alterlife.json) |
 | Alterlight | 256705 | [256705-alterlight.json](./256705-alterlight.json) |
 | AlterMage | 388878 | [388878-altermage.json](./388878-altermage.json) |
@@ -10126,6 +10127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Kostume | 249878 | [249878-animal-kostume.json](./249878-animal-kostume.json) |
 | Animal Land Satsujin Jiken | 131910 | [131910-animal-land-satsujin-jiken.json](./131910-animal-land-satsujin-jiken.json) |
 | Animal Learning Puzzle for Toddlers and Kids | 147939 | [147939-animal-learning-puzzle-for-toddlers-and-kids.json](./147939-animal-learning-puzzle-for-toddlers-and-kids.json) |
+| Animal Liberation Squad | 155777 | [155777-animal-liberation-squad.json](./155777-animal-liberation-squad.json) |
 | Animal Life: Africa | 122744 | [122744-animal-life-africa.json](./122744-animal-life-africa.json) |
 | Animal Life: Dinosaurs | 269552 | [269552-animal-life-dinosaurs.json](./269552-animal-life-dinosaurs.json) |
 | Animal Life: Eurasia | 269553 | [269553-animal-life-eurasia.json](./269553-animal-life-eurasia.json) |
@@ -12326,6 +12328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc Aquarium | 387076 | [387076-arc-aquarium.json](./387076-arc-aquarium.json) |
 | Arc Arena: Monster Tournament | 66015 | [66015-arc-arena-monster-tournament.json](./66015-arc-arena-monster-tournament.json) |
 | ARC Continuum | 27671 | [27671-arc-continuum.json](./27671-arc-continuum.json) |
+| Arc Defence | 155785 | [155785-arc-defence.json](./155785-arc-defence.json) |
 | Arc Doors | 281344 | [281344-arc-doors.json](./281344-arc-doors.json) |
 | Arc Intelligence | 212905 | [212905-arc-intelligence.json](./212905-arc-intelligence.json) |
 | Arc Nova Base | 308358 | [308358-arc-nova-base.json](./308358-arc-nova-base.json) |
@@ -14646,6 +14649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artful Balancer | 103046 | [103046-artful-balancer.json](./103046-artful-balancer.json) |
 | Artful Escape | 109982 | [109982-artful-escape.json](./109982-artful-escape.json) |
 | Arth Island | 202428 | [202428-arth-island.json](./202428-arth-island.json) |
+| Artha | 155779 | [155779-artha.json](./155779-artha.json) |
 | Arthas 2 | 262729 | [262729-arthas-2.json](./262729-arthas-2.json) |
 | Arthas: The Game | 238581 | [238581-arthas-the-game.json](./238581-arthas-the-game.json) |
 | Arthdal Chronicles | 194153 | [194153-arthdal-chronicles.json](./194153-arthdal-chronicles.json) |
@@ -16828,7 +16832,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
