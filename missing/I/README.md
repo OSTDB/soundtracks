@@ -3882,6 +3882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5254,6 +5255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Haze | 203159 | [203159-into-the-haze.json](./203159-into-the-haze.json) |
 | Into the Haze | 54121 | [54121-into-the-haze.json](./54121-into-the-haze.json) |
 | Into the Hive | 276749 | [276749-into-the-hive.json](./276749-into-the-hive.json) |
+| Into the Holoverse | 183671 | [183671-into-the-holoverse.json](./183671-into-the-holoverse.json) |
 | Into the Ice: Nazis of Neuschwabenland | 38802 | [38802-into-the-ice-nazis-of-neuschwabenland.json](./38802-into-the-ice-nazis-of-neuschwabenland.json) |
 | Into the Inferno | 258629 | [258629-into-the-inferno.json](./258629-into-the-inferno.json) |
 | Into the Inferno | 347981 | [347981-into-the-inferno.json](./347981-into-the-inferno.json) |
