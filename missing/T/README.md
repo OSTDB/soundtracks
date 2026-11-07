@@ -5321,6 +5321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The $100,000 Pyramid | 12372 | [12372-the-100-000-pyramid.json](./12372-the-100-000-pyramid.json) |
 | The 10th Planet | 200421 | [200421-the-10th-planet.json](./200421-the-10th-planet.json) |
 | The 10x10 Project | 257285 | [257285-the-10x10-project.json](./257285-the-10x10-project.json) |
+| The 11th Annual Vanilla Level Design Contest: Collaboration Hack | 191942 | [191942-the-11th-annual-vanilla-level-design-contest-collaboration-hack.json](./191942-the-11th-annual-vanilla-level-design-contest-collaboration-hack.json) |
 | The 11th Hour | 2203 | [2203-the-11th-hour.json](./2203-the-11th-hour.json) |
 | The 11th Power | 405364 | [405364-the-11th-power.json](./405364-the-11th-power.json) |
 | The 11th Snood | 137256 | [137256-the-11th-snood.json](./137256-the-11th-snood.json) |
@@ -12151,6 +12152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last of Anime | 159476 | [159476-the-last-of-anime.json](./159476-the-last-of-anime.json) |
 | The Last of Hero | 181583 | [181583-the-last-of-hero.json](./181583-the-last-of-hero.json) |
 | The Last of RAM | 406498 | [406498-the-last-of-ram.json](./406498-the-last-of-ram.json) |
+| The Last of Samual | 191972 | [191972-the-last-of-samual.json](./191972-the-last-of-samual.json) |
 | The Last of the 9 Lives | 319179 | [319179-the-last-of-the-9-lives.json](./319179-the-last-of-the-9-lives.json) |
 | The Last of The Core | 241850 | [241850-the-last-of-the-core.json](./241850-the-last-of-the-core.json) |
 | The Last of the Summer Tank | 286014 | [286014-the-last-of-the-summer-tank.json](./286014-the-last-of-the-summer-tank.json) |
@@ -17415,6 +17417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tabung | 196310 | [196310-the-tabung.json](./196310-the-tabung.json) |
 | The Tactics of War | 109881 | [109881-the-tactics-of-war.json](./109881-the-tactics-of-war.json) |
 | The Tag-along Obsession | 317158 | [317158-the-tag-along-obsession.json](./317158-the-tag-along-obsession.json) |
+| The Taidon History | 191944 | [191944-the-taidon-history.json](./191944-the-taidon-history.json) |
 | THE Taikan! Sports Pack: Tennis, Bowling, Golf, Billiard | 136638 | [136638-the-taikan-sports-pack-tennis-bowling-golf-billiard.json](./136638-the-taikan-sports-pack-tennis-bowling-golf-billiard.json) |
 | The Tail Of Beta Lyrae | 23578 | [23578-the-tail-of-beta-lyrae.json](./23578-the-tail-of-beta-lyrae.json) |
 | The Tail of CatPat | 246698 | [246698-the-tail-of-catpat.json](./246698-the-tail-of-catpat.json) |
