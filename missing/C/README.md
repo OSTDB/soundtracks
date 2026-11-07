@@ -3969,6 +3969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Architect | 182875 | [182875-cat-architect.json](./182875-cat-architect.json) |
 | Cat Astro Phi | 314672 | [314672-cat-astro-phi.json](./314672-cat-astro-phi.json) |
 | Cat at Home | 260592 | [260592-cat-at-home.json](./260592-cat-at-home.json) |
+| Cat Attack | 162523 | [162523-cat-attack.json](./162523-cat-attack.json) |
 | Cat Attack | 267855 | [267855-cat-attack.json](./267855-cat-attack.json) |
 | Cat Attack | 56882 | [56882-cat-attack.json](./56882-cat-attack.json) |
 | Cat Bait | 310418 | [310418-cat-bait.json](./310418-cat-bait.json) |
@@ -17186,6 +17187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | creak, Creak | 58706 | [58706-creak-creak.json](./58706-creak-creak.json) |
 | Creaks: Collector's Edition | 154553 | [154553-creaks-collectors-edition.json](./154553-creaks-collectors-edition.json) |
 | Cream and Cheese in Sonic the Hedgehog | 201287 | [201287-cream-and-cheese-in-sonic-the-hedgehog.json](./201287-cream-and-cheese-in-sonic-the-hedgehog.json) |
+| Cream Flower Catch | 162522 | [162522-cream-flower-catch.json](./162522-cream-flower-catch.json) |
 | Cream Lemon: Star Trap | 270728 | [270728-cream-lemon-star-trap.json](./270728-cream-lemon-star-trap.json) |
 | Cream Me | 158397 | [158397-cream-me.json](./158397-cream-me.json) |
 | Cream Soda Club | 249940 | [249940-cream-soda-club.json](./249940-cream-soda-club.json) |
