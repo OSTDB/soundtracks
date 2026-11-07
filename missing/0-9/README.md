@@ -1654,6 +1654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2001 Alien Combat | 71756 | [71756-2001-alien-combat.json](./71756-2001-alien-combat.json) |
 | 2001 TetRize | 266568 | [266568-2001-tetrize.json](./266568-2001-tetrize.json) |
 | 2001: A Space Odyssey | 238083 | [238083-2001-a-space-odyssey.json](./238083-2001-a-space-odyssey.json) |
+| 2002 A Doom Odyssey | 140698 | [140698-2002-a-doom-odyssey.json](./140698-2002-a-doom-odyssey.json) |
 | 2002 FIFA World Cup | 240360 | [240360-2002-fifa-world-cup.json](./240360-2002-fifa-world-cup.json) |
 | 2002 FIFA World Cup | 583 | [583-2002-fifa-world-cup.json](./583-2002-fifa-world-cup.json) |
 | 2002XX | 345748 | [345748-2002xx.json](./345748-2002xx.json) |
