@@ -6931,6 +6931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Warrior 2 | 11064 | [11064-shadow-warrior-2.json](./11064-shadow-warrior-2.json) |
 | Shadow Warrior 2 Deluxe | 51915 | [51915-shadow-warrior-2-deluxe.json](./51915-shadow-warrior-2-deluxe.json) |
 | Shadow Warrior 2: Bounty Hunt Part 1 | 27876 | [27876-shadow-warrior-2-bounty-hunt-part-1.json](./27876-shadow-warrior-2-bounty-hunt-part-1.json) |
+| Shadow Warrior 2: Bounty Hunt Part 2 | 167991 | [167991-shadow-warrior-2-bounty-hunt-part-2.json](./167991-shadow-warrior-2-bounty-hunt-part-2.json) |
 | Shadow Warrior 2: Special Reserve Collector's Edition | 25772 | [25772-shadow-warrior-2-special-reserve-collectors-edition.json](./25772-shadow-warrior-2-special-reserve-collectors-edition.json) |
 | Shadow Warrior 2: The Way of the Wang | 26295 | [26295-shadow-warrior-2-the-way-of-the-wang.json](./26295-shadow-warrior-2-the-way-of-the-wang.json) |
 | Shadow Warrior 3: Definitive Edition | 237681 | [237681-shadow-warrior-3-definitive-edition.json](./237681-shadow-warrior-3-definitive-edition.json) |
@@ -19814,6 +19815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -21413,6 +21415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Something | 328682 | [328682-spell-something.json](./328682-spell-something.json) |
 | Spell Spiral | 321343 | [321343-spell-spiral.json](./321343-spell-spiral.json) |
 | Spell Strike | 395350 | [395350-spell-strike.json](./395350-spell-strike.json) |
+| Spell Swap | 167994 | [167994-spell-swap.json](./167994-spell-swap.json) |
 | Spell Sweeper | 192598 | [192598-spell-sweeper.json](./192598-spell-sweeper.json) |
 | Spell Tonaeru | 319150 | [319150-spell-tonaeru.json](./319150-spell-tonaeru.json) |
 | Spell Trigger | 370367 | [370367-spell-trigger.json](./370367-spell-trigger.json) |
@@ -35933,6 +35936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swords and Sandals 5 Redux | 81817 | [81817-swords-and-sandals-5-redux.json](./81817-swords-and-sandals-5-redux.json) |
 | Swords and Sandals Classic Collection | 117173 | [117173-swords-and-sandals-classic-collection.json](./117173-swords-and-sandals-classic-collection.json) |
 | Swords and Sandals Crusader | 321862 | [321862-swords-and-sandals-crusader.json](./321862-swords-and-sandals-crusader.json) |
+| Swords and Sandals Crusader Redux | 167984 | [167984-swords-and-sandals-crusader-redux.json](./167984-swords-and-sandals-crusader-redux.json) |
 | Swords and Sandals I: Gladiator | 259783 | [259783-swords-and-sandals-i-gladiator.json](./259783-swords-and-sandals-i-gladiator.json) |
 | Swords and Sandals II | 58874 | [58874-swords-and-sandals-ii.json](./58874-swords-and-sandals-ii.json) |
 | Swords and Sandals III | 192892 | [192892-swords-and-sandals-iii.json](./192892-swords-and-sandals-iii.json) |
