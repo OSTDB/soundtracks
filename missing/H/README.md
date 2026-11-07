@@ -2490,6 +2490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hasit | 273141 | [273141-hasit.json](./273141-hasit.json) |
 | Hasmoh | 420919 | [420919-hasmoh.json](./420919-hasmoh.json) |
 | Hasshaku-sama to Love Come Suru | 395499 | [395499-hasshaku-sama-to-love-come-suru.json](./395499-hasshaku-sama-to-love-come-suru.json) |
+| Hassle 1977 | 140132 | [140132-hassle-1977.json](./140132-hassle-1977.json) |
 | Hassle Online | 208166 | [208166-hassle-online.json](./208166-hassle-online.json) |
 | HassleHeart | 35732 | [35732-hassleheart.json](./35732-hassleheart.json) |
 | Hastafa Invaders | 305392 | [305392-hastafa-invaders.json](./305392-hastafa-invaders.json) |
