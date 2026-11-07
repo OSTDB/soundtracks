@@ -10617,6 +10617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hardy Boys: The Hidden Theft | 4903 | [4903-the-hardy-boys-the-hidden-theft.json](./4903-the-hardy-boys-the-hidden-theft.json) |
 | The Hardy Boys: The Perfect Crime | 66340 | [66340-the-hardy-boys-the-perfect-crime.json](./66340-the-hardy-boys-the-perfect-crime.json) |
 | The Hardy Boys: Treasure on the Tracks | 21105 | [21105-the-hardy-boys-treasure-on-the-tracks.json](./21105-the-hardy-boys-treasure-on-the-tracks.json) |
+| The Harem Life of the Violent Swordsman! | 154149 | [154149-the-harem-life-of-the-violent-swordsman.json](./154149-the-harem-life-of-the-violent-swordsman.json) |
 | The Harlem Shake Dance Video Game | 200876 | [200876-the-harlem-shake-dance-video-game.json](./200876-the-harlem-shake-dance-video-game.json) |
 | The Harlem Shake vs. Gangnam Dance Game | 264355 | [264355-the-harlem-shake-vs-gangnam-dance-game.json](./264355-the-harlem-shake-vs-gangnam-dance-game.json) |
 | The Harmony Chronicles: Cat Out of the Bag | 416708 | [416708-the-harmony-chronicles-cat-out-of-the-bag.json](./416708-the-harmony-chronicles-cat-out-of-the-bag.json) |
@@ -13130,6 +13131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Little Ball That Could | 55231 | [55231-the-little-ball-that-could.json](./55231-the-little-ball-that-could.json) |
 | The Little Big Crisis | 217793 | [217793-the-little-big-crisis.json](./217793-the-little-big-crisis.json) |
 | The Little Black Bestiary: A Midsummer Night's Barcrawl | 151498 | [151498-the-little-black-bestiary-a-midsummer-nights-barcrawl.json](./151498-the-little-black-bestiary-a-midsummer-nights-barcrawl.json) |
+| The Little Black Bestiary: The Salted Cookies of Carthaginia | 154130 | [154130-the-little-black-bestiary-the-salted-cookies-of-carthaginia.json](./154130-the-little-black-bestiary-the-salted-cookies-of-carthaginia.json) |
 | The Little Cars in the Great Race | 371296 | [371296-the-little-cars-in-the-great-race.json](./371296-the-little-cars-in-the-great-race.json) |
 | The Little Crane That Could | 35441 | [35441-the-little-crane-that-could.json](./35441-the-little-crane-that-could.json) |
 | The Little Crane That Could | 88696 | [88696-the-little-crane-that-could.json](./88696-the-little-crane-that-could.json) |
@@ -14891,6 +14893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pasture | 426426 | [426426-the-pasture.json](./426426-the-pasture.json) |
 | The Patagonians | 160042 | [160042-the-patagonians.json](./160042-the-patagonians.json) |
 | The Patashnik Parable | 176434 | [176434-the-patashnik-parable.json](./176434-the-patashnik-parable.json) |
+| The Patcher | 154141 | [154141-the-patcher.json](./154141-the-patcher.json) |
 | The Patchmaker's Workshop | 313089 | [313089-the-patchmakers-workshop.json](./313089-the-patchmakers-workshop.json) |
 | The Path | 10199 | [10199-the-path.json](./10199-the-path.json) |
 | The Path | 398120 | [398120-the-path.json](./398120-the-path.json) |
@@ -17655,6 +17658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Technomancer | 9919 | [9919-the-technomancer.json](./9919-the-technomancer.json) |
 | The Teeth | 210650 | [210650-the-teeth.json](./210650-the-teeth.json) |
 | The Telephone | 256647 | [256647-the-telephone.json](./256647-the-telephone.json) |
+| The Teleport | 154133 | [154133-the-teleport.json](./154133-the-teleport.json) |
 | The Teletransport Smurf | 135833 | [135833-the-teletransport-smurf.json](./135833-the-teletransport-smurf.json) |
 | The Telltale Batman Bundle | 118722 | [118722-the-telltale-batman-bundle.json](./118722-the-telltale-batman-bundle.json) |
 | The Telltale Games Collection | 99799 | [99799-the-telltale-games-collection.json](./99799-the-telltale-games-collection.json) |
@@ -17949,6 +17953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tovanian Stones | 361249 | [361249-the-tovanian-stones.json](./361249-the-tovanian-stones.json) |
 | The Tower | 117455 | [117455-the-tower.json](./117455-the-tower.json) |
 | The Tower | 138180 | [138180-the-tower.json](./138180-the-tower.json) |
+| The Tower | 154142 | [154142-the-tower.json](./154142-the-tower.json) |
 | The Tower | 206923 | [206923-the-tower.json](./206923-the-tower.json) |
 | The Tower | 224892 | [224892-the-tower.json](./224892-the-tower.json) |
 | The Tower | 238604 | [238604-the-tower.json](./238604-the-tower.json) |
@@ -31267,6 +31272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricking 0 | 195187 | [195187-tricking-0.json](./195187-tricking-0.json) |
 | Trickle Greenweed | 291030 | [291030-trickle-greenweed.json](./291030-trickle-greenweed.json) |
 | Tricks and Treats | 81048 | [81048-tricks-and-treats.json](./81048-tricks-and-treats.json) |
+| Tricks Magician | 154118 | [154118-tricks-magician.json](./154118-tricks-magician.json) |
 | Tricks N Treats | 140922 | [140922-tricks-n-treats.json](./140922-tricks-n-treats.json) |
 | Tricks of Light in the Forest | 312873 | [312873-tricks-of-light-in-the-forest.json](./312873-tricks-of-light-in-the-forest.json) |
 | Tricks, Treats and Mirrors: An EoG Side Story | 348126 | [348126-tricks-treats-and-mirrors-an-eog-side-story.json](./348126-tricks-treats-and-mirrors-an-eog-side-story.json) |
