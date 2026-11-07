@@ -5977,6 +5977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -11298,6 +11299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Scenes: Among Graves | 378524 | [378524-midnight-scenes-among-graves.json](./378524-midnight-scenes-among-graves.json) |
 | Midnight Scenes: From the Woods | 226475 | [226475-midnight-scenes-from-the-woods.json](./226475-midnight-scenes-from-the-woods.json) |
 | Midnight Scenes: The Highway | 75153 | [75153-midnight-scenes-the-highway.json](./75153-midnight-scenes-the-highway.json) |
+| Midnight Scenes: The Highway - Special Edition | 171710 | [171710-midnight-scenes-the-highway-special-edition.json](./171710-midnight-scenes-the-highway-special-edition.json) |
 | Midnight Scenes: The Nanny | 178317 | [178317-midnight-scenes-the-nanny.json](./178317-midnight-scenes-the-nanny.json) |
 | Midnight School Walk | 211649 | [211649-midnight-school-walk.json](./211649-midnight-school-walk.json) |
 | Midnight Scour | 409752 | [409752-midnight-scour.json](./409752-midnight-scour.json) |
