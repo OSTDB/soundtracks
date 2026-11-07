@@ -2786,6 +2786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4ever Transit Authority | 95773 | [95773-4ever-transit-authority.json](./95773-4ever-transit-authority.json) |
 | 4evolve: Deep Stars | 23505 | [23505-4evolve-deep-stars.json](./23505-4evolve-deep-stars.json) |
 | 4Fools1 | 349958 | [349958-4fools1.json](./349958-4fools1.json) |
+| 4ife | 164127 | [164127-4ife.json](./164127-4ife.json) |
 | 4in1: Bomb Disposer/Armour Force/Black Forest Tale/2nd Space | 77296 | [77296-4in1-bomb-disposer-armour-force-black-forest-tale-2nd-space.json](./77296-4in1-bomb-disposer-armour-force-black-forest-tale-2nd-space.json) |
 | 4Islands | 124190 | [124190-4islands.json](./124190-4islands.json) |
 | 4K Adventure | 140624 | [140624-4k-adventure.json](./140624-4k-adventure.json) |
