@@ -8421,6 +8421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dig | 207 | [207-the-dig.json](./207-the-dig.json) |
 | The Digital Asset Inquisition | 311007 | [311007-the-digital-asset-inquisition.json](./311007-the-digital-asset-inquisition.json) |
 | The Dilemma | 296317 | [296317-the-dilemma.json](./296317-the-dilemma.json) |
+| The Dilma | 153603 | [153603-the-dilma.json](./153603-the-dilma.json) |
 | The Dime Birthday Level Collection | 312901 | [312901-the-dime-birthday-level-collection.json](./312901-the-dime-birthday-level-collection.json) |
 | The Dimension of Anaconda | 360101 | [360101-the-dimension-of-anaconda.json](./360101-the-dimension-of-anaconda.json) |
 | The Diner | 250537 | [250537-the-diner.json](./250537-the-diner.json) |
@@ -17793,6 +17794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Textorcist: The Story of Ray Bibbia | 107178 | [107178-the-textorcist-the-story-of-ray-bibbia.json](./107178-the-textorcist-the-story-of-ray-bibbia.json) |
 | The Textorcist: The Village | 194985 | [194985-the-textorcist-the-village.json](./194985-the-textorcist-the-village.json) |
 | The Thaumaturge: Deluxe Edition | 322282 | [322282-the-thaumaturge-deluxe-edition.json](./322282-the-thaumaturge-deluxe-edition.json) |
+| The Theater | 153622 | [153622-the-theater.json](./153622-the-theater.json) |
 | The Theater | 183077 | [183077-the-theater.json](./183077-the-theater.json) |
 | The Theodore Adventures | 44175 | [44175-the-theodore-adventures.json](./44175-the-theodore-adventures.json) |
 | The Therapist Impostor | 409414 | [409414-the-therapist-impostor.json](./409414-the-therapist-impostor.json) |
@@ -19509,6 +19511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Zium Museum | 177658 | [177658-the-zium-museum.json](./177658-the-zium-museum.json) |
 | The Zium Railway | 417676 | [417676-the-zium-railway.json](./417676-the-zium-railway.json) |
 | The Zodiac Mystery | 392122 | [392122-the-zodiac-mystery.json](./392122-the-zodiac-mystery.json) |
+| The Zodiac Trial | 153586 | [153586-the-zodiac-trial.json](./153586-the-zodiac-trial.json) |
 | The Zombie Fortress | 327861 | [327861-the-zombie-fortress.json](./327861-the-zombie-fortress.json) |
 | The Zombie Neighborhood | 336962 | [336962-the-zombie-neighborhood.json](./336962-the-zombie-neighborhood.json) |
 | The Zombie Shotgun Massacre 2 | 54705 | [54705-the-zombie-shotgun-massacre-2.json](./54705-the-zombie-shotgun-massacre-2.json) |
@@ -26751,6 +26754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Eiyashou: Imperishable Night | 27162 | [27162-touhou-eiyashou-imperishable-night.json](./27162-touhou-eiyashou-imperishable-night.json) |
 | Touhou Emblem | 315050 | [315050-touhou-emblem.json](./315050-touhou-emblem.json) |
 | Touhou Emblem 2 | 315051 | [315051-touhou-emblem-2.json](./315051-touhou-emblem-2.json) |
+| Touhou Endless Dream | 153621 | [153621-touhou-endless-dream.json](./153621-touhou-endless-dream.json) |
 | Touhou Eternal Frontier | 371124 | [371124-touhou-eternal-frontier.json](./371124-touhou-eternal-frontier.json) |
 | Touhou Eternal Spell Cards | 289936 | [289936-touhou-eternal-spell-cards.json](./289936-touhou-eternal-spell-cards.json) |
 | Touhou Fairy Knockout: One Fairy to Rule Them All | 203849 | [203849-touhou-fairy-knockout-one-fairy-to-rule-them-all.json](./203849-touhou-fairy-knockout-one-fairy-to-rule-them-all.json) |
