@@ -9497,6 +9497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dingletopia: Nation Under Siege (by Orcs) | 133410 | [133410-dingletopia-nation-under-siege-by-orcs.json](./133410-dingletopia-nation-under-siege-by-orcs.json) |
 | Dingo | 39339 | [39339-dingo.json](./39339-dingo.json) |
 | Dininho Adventures | 129463 | [129463-dininho-adventures.json](./129463-dininho-adventures.json) |
+| Dininho Adventures: Definitive Edition | 169533 | [169533-dininho-adventures-definitive-edition.json](./169533-dininho-adventures-definitive-edition.json) |
 | Dininho Space Adventure | 142043 | [142043-dininho-space-adventure.json](./142043-dininho-space-adventure.json) |
 | Dink or Die | 181448 | [181448-dink-or-die.json](./181448-dink-or-die.json) |
 | Dink Smallwood | 11345 | [11345-dink-smallwood.json](./11345-dink-smallwood.json) |
