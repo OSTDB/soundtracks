@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory idle | 95942 | [95942-factory-idle.json](./95942-factory-idle.json) |
 | Factory Inc. | 251230 | [251230-factory-inc.json](./251230-factory-inc.json) |
 | Factory Islands | 288797 | [288797-factory-islands.json](./288797-factory-islands.json) |
+| Factory Magnate | 142569 | [142569-factory-magnate.json](./142569-factory-magnate.json) |
 | Factory Manager | 106317 | [106317-factory-manager.json](./106317-factory-manager.json) |
 | Factory Manager Simulator | 164053 | [164053-factory-manager-simulator.json](./164053-factory-manager-simulator.json) |
 | Factory missions | 101744 | [101744-factory-missions.json](./101744-factory-missions.json) |
@@ -11956,6 +11957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freight Tycoon Inc. | 10335 | [10335-freight-tycoon-inc.json](./10335-freight-tycoon-inc.json) |
 | Freiwillig | 151072 | [151072-freiwillig.json](./151072-freiwillig.json) |
 | Freja | 268280 | [268280-freja.json](./268280-freja.json) |
+| Freja and the False Prophecy | 142532 | [142532-freja-and-the-false-prophecy.json](./142532-freja-and-the-false-prophecy.json) |
 | Fremd Wagen: Mod Chaos | 391960 | [391960-fremd-wagen-mod-chaos.json](./391960-fremd-wagen-mod-chaos.json) |
 | Fremdganger: The Cheating Demon | 240297 | [240297-fremdganger-the-cheating-demon.json](./240297-fremdganger-the-cheating-demon.json) |
 | French Baker | 245075 | [245075-french-baker.json](./245075-french-baker.json) |
@@ -13304,6 +13306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Bet: Fighting Casino | 392189 | [392189-full-bet-fighting-casino.json](./392189-full-bet-fighting-casino.json) |
 | Full Blast Hitchhike | 344479 | [344479-full-blast-hitchhike.json](./344479-full-blast-hitchhike.json) |
 | Full Bloom | 275561 | [275561-full-bloom.json](./275561-full-bloom.json) |
+| Full Body Rhythm VR | 142538 | [142538-full-body-rhythm-vr.json](./142538-full-body-rhythm-vr.json) |
 | Full Bokko Heroes X | 59972 | [59972-full-bokko-heroes-x.json](./59972-full-bokko-heroes-x.json) |
 | Full Bore | 10339 | [10339-full-bore.json](./10339-full-bore.json) |
 | Full Circle | 143517 | [143517-full-circle.json](./143517-full-circle.json) |
