@@ -329,6 +329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Chronicle | 96515 | [96515-tactical-chronicle.json](./96515-tactical-chronicle.json) |
 | Tactical Combat Department | 164059 | [164059-tactical-combat-department.json](./164059-tactical-combat-department.json) |
 | Tactical Command | 232640 | [232640-tactical-command.json](./232640-tactical-command.json) |
+| Tactical Control: Impossible Missions | 174448 | [174448-tactical-control-impossible-missions.json](./174448-tactical-control-impossible-missions.json) |
 | Tactical Craft Online | 34125 | [34125-tactical-craft-online.json](./34125-tactical-craft-online.json) |
 | Tactical Dual Pack: Necromunda - Underhive Wars & Space Hulk: Tactics | 223872 | [223872-tactical-dual-pack-necromunda-underhive-wars-and-space-hulk-tactics.json](./223872-tactical-dual-pack-necromunda-underhive-wars-and-space-hulk-tactics.json) |
 | Tactical Fighter | 56947 | [56947-tactical-fighter.json](./56947-tactical-fighter.json) |
@@ -9693,6 +9694,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fold: Ingression | 133625 | [133625-the-fold-ingression.json](./133625-the-fold-ingression.json) |
 | The Folk | 379417 | [379417-the-folk.json](./379417-the-folk.json) |
 | The FOO Show | 34193 | [34193-the-foo-show.json](./34193-the-foo-show.json) |
+| The FOO Show: Episode 1 - Quadrilateral Cowboy | 174428 | [174428-the-foo-show-episode-1-quadrilateral-cowboy.json](./174428-the-foo-show-episode-1-quadrilateral-cowboy.json) |
+| The FOO Show: Episode 3 - Making Nanomachines from DNA | 174432 | [174432-the-foo-show-episode-3-making-nanomachines-from-dna.json](./174432-the-foo-show-episode-3-making-nanomachines-from-dna.json) |
 | The Food Run | 22180 | [22180-the-food-run.json](./22180-the-food-run.json) |
 | The Food Run: Extra 64 Levels | 165947 | [165947-the-food-run-extra-64-levels.json](./165947-the-food-run-extra-64-levels.json) |
 | The Fool | 302676 | [302676-the-fool.json](./302676-the-fool.json) |
@@ -13213,6 +13216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Parties x Kokonoe Yukari | 235733 | [235733-the-lord-of-the-parties-x-kokonoe-yukari.json](./235733-the-lord-of-the-parties-x-kokonoe-yukari.json) |
 | The Lord of the Parties: AmamaNia | 225185 | [225185-the-lord-of-the-parties-amamania.json](./225185-the-lord-of-the-parties-amamania.json) |
 | The Lord of the Parties: Byakko Akine | 225186 | [225186-the-lord-of-the-parties-byakko-akine.json](./225186-the-lord-of-the-parties-byakko-akine.json) |
+| The Lord of The Rings ACG: The Shadow's Fall Expansion | 174415 | [174415-the-lord-of-the-rings-acg-the-shadows-fall-expansion.json](./174415-the-lord-of-the-rings-acg-the-shadows-fall-expansion.json) |
 | The Lord of the Rings Online Trading Card Game | 131347 | [131347-the-lord-of-the-rings-online-trading-card-game.json](./131347-the-lord-of-the-rings-online-trading-card-game.json) |
 | The Lord of the Rings Online: Before the Shadow | 275927 | [275927-the-lord-of-the-rings-online-before-the-shadow.json](./275927-the-lord-of-the-rings-online-before-the-shadow.json) |
 | The Lord of the Rings Online: Corsairs of Umbar | 275928 | [275928-the-lord-of-the-rings-online-corsairs-of-umbar.json](./275928-the-lord-of-the-rings-online-corsairs-of-umbar.json) |
@@ -13245,6 +13249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings: Heroes of Middle Earth | 209924 | [209924-the-lord-of-the-rings-heroes-of-middle-earth.json](./209924-the-lord-of-the-rings-heroes-of-middle-earth.json) |
 | The Lord of the Rings: Journey to Rivendell | 46888 | [46888-the-lord-of-the-rings-journey-to-rivendell.json](./46888-the-lord-of-the-rings-journey-to-rivendell.json) |
 | The Lord of the Rings: Journeys in Middle-earth | 115329 | [115329-the-lord-of-the-rings-journeys-in-middle-earth.json](./115329-the-lord-of-the-rings-journeys-in-middle-earth.json) |
+| The Lord of the Rings: Journeys in Middle-earth - Haunting of Dale | 174416 | [174416-the-lord-of-the-rings-journeys-in-middle-earth-haunting-of-dale.json](./174416-the-lord-of-the-rings-journeys-in-middle-earth-haunting-of-dale.json) |
 | The Lord of the Rings: Legends | 353610 | [353610-the-lord-of-the-rings-legends.json](./353610-the-lord-of-the-rings-legends.json) |
 | The Lord of the Rings: Return to Moria - Ent-craft Pack | 336898 | [336898-the-lord-of-the-rings-return-to-moria-ent-craft-pack.json](./336898-the-lord-of-the-rings-return-to-moria-ent-craft-pack.json) |
 | The Lord of the Rings: Rise to War | 174867 | [174867-the-lord-of-the-rings-rise-to-war.json](./174867-the-lord-of-the-rings-rise-to-war.json) |
@@ -15087,6 +15092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pointless Car Chase: Refueled | 193607 | [193607-the-pointless-car-chase-refueled.json](./193607-the-pointless-car-chase-refueled.json) |
 | The Poisoned Roots | 151929 | [151929-the-poisoned-roots.json](./151929-the-poisoned-roots.json) |
 | The Poisoner | 118825 | [118825-the-poisoner.json](./118825-the-poisoner.json) |
+| The Poisoner: Complete Story | 174431 | [174431-the-poisoner-complete-story.json](./174431-the-poisoner-complete-story.json) |
 | The Polar Explorer: Hokkyoku he no VR Soriasobi | 308903 | [308903-the-polar-explorer-hokkyoku-he-no-vr-soriasobi.json](./308903-the-polar-explorer-hokkyoku-he-no-vr-soriasobi.json) |
 | The Polar Express | 210732 | [210732-the-polar-express.json](./210732-the-polar-express.json) |
 | The Polar Express | 4071 | [4071-the-polar-express.json](./4071-the-polar-express.json) |
@@ -28485,6 +28491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator 2021: Western Maryland Railway Retro Pack | 162395 | [162395-train-simulator-2021-western-maryland-railway-retro-pack.json](./162395-train-simulator-2021-western-maryland-railway-retro-pack.json) |
 | Train Simulator 2021: Western Sichuan Pass: Dujiangyan - Maoxian & Mashancun Route Add-On | 155342 | [155342-train-simulator-2021-western-sichuan-pass-dujiangyan-maoxian-and-mashancun-route-add-on.json](./155342-train-simulator-2021-western-sichuan-pass-dujiangyan-maoxian-and-mashancun-route-add-on.json) |
 | Train Simulator 2021: Wutachtalbahn - Lauchringen: Immendingen Route | 156427 | [156427-train-simulator-2021-wutachtalbahn-lauchringen-immendingen-route.json](./156427-train-simulator-2021-wutachtalbahn-lauchringen-immendingen-route.json) |
+| Train Simulator 2022: BR Standard Class 4MT Loco | 174460 | [174460-train-simulator-2022-br-standard-class-4mt-loco.json](./174460-train-simulator-2022-br-standard-class-4mt-loco.json) |
 | Train Simulator 2022: Salzburg - Wels Route Add-On | 174142 | [174142-train-simulator-2022-salzburg-wels-route-add-on.json](./174142-train-simulator-2022-salzburg-wels-route-add-on.json) |
 | Train Simulator 3: Thameslink BR Class 700/0 EMU | 257017 | [257017-train-simulator-3-thameslink-br-class-700-0-emu.json](./257017-train-simulator-3-thameslink-br-class-700-0-emu.json) |
 | Train Simulator Bangladesh | 375890 | [375890-train-simulator-bangladesh.json](./375890-train-simulator-bangladesh.json) |
