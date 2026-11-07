@@ -218,6 +218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lab 7: Cold Nights | 126895 | [126895-lab-7-cold-nights.json](./126895-lab-7-cold-nights.json) |
 | Lab 77 | 319988 | [319988-lab-77.json](./319988-lab-77.json) |
 | Lab 83 | 277985 | [277985-lab-83.json](./277985-lab-83.json) |
+| Lab Bio-Terror | 192513 | [192513-lab-bio-terror.json](./192513-lab-bio-terror.json) |
 | Lab Boom | 290087 | [290087-lab-boom.json](./290087-lab-boom.json) |
 | Lab BreakOut | 158533 | [158533-lab-breakout.json](./158533-lab-breakout.json) |
 | Lab Cat | 298782 | [298782-lab-cat.json](./298782-lab-cat.json) |
@@ -8136,6 +8137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Paradise | 20528 | [20528-lost-in-paradise.json](./20528-lost-in-paradise.json) |
 | Lost in Paradise | 416689 | [416689-lost-in-paradise.json](./416689-lost-in-paradise.json) |
 | Lost In Parallels | 216631 | [216631-lost-in-parallels.json](./216631-lost-in-parallels.json) |
+| Lost in Place | 192495 | [192495-lost-in-place.json](./192495-lost-in-place.json) |
 | Lost in Prayer | 291445 | [291445-lost-in-prayer.json](./291445-lost-in-prayer.json) |
 | Lost In Purple | 54338 | [54338-lost-in-purple.json](./54338-lost-in-purple.json) |
 | Lost in Random | 119285 | [119285-lost-in-random.json](./119285-lost-in-random.json) |
@@ -8897,6 +8899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Villa: Choose Your Story | 299336 | [299336-love-villa-choose-your-story.json](./299336-love-villa-choose-your-story.json) |
 | Love wish | 129344 | [129344-love-wish.json](./129344-love-wish.json) |
 | Love Wish 2 | 213726 | [213726-love-wish-2.json](./213726-love-wish-2.json) |
+| Love with Furry | 192505 | [192505-love-with-furry.json](./192505-love-with-furry.json) |
 | Love with Kadyrov | 383525 | [383525-love-with-kadyrov.json](./383525-love-with-kadyrov.json) |
 | Love WMC | 395140 | [395140-love-wmc.json](./395140-love-wmc.json) |
 | Love x Fantasy: Horny Elf | 385057 | [385057-love-x-fantasy-horny-elf.json](./385057-love-x-fantasy-horny-elf.json) |
