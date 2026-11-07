@@ -7421,6 +7421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All of Us Are Dead | 193833 | [193833-all-of-us-are-dead.json](./193833-all-of-us-are-dead.json) |
 | All of Us: Her Story | 313877 | [313877-all-of-us-her-story.json](./313877-all-of-us-her-story.json) |
 | All of Us: His Story | 313878 | [313878-all-of-us-his-story.json](./313878-all-of-us-his-story.json) |
+| All of You | 145789 | [145789-all-of-you.json](./145789-all-of-you.json) |
 | All of Zhem | 112694 | [112694-all-of-zhem.json](./112694-all-of-zhem.json) |
 | All On Board! | 305146 | [305146-all-on-board.json](./305146-all-on-board.json) |
 | All On Board!: Aye, Dark Overlord! | 374700 | [374700-all-on-board-aye-dark-overlord.json](./374700-all-on-board-aye-dark-overlord.json) |
@@ -12562,6 +12563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Flipull | 202800 | [202800-arcade-archives-flipull.json](./202800-arcade-archives-flipull.json) |
 | Arcade Archives: Football Champ | 309045 | [309045-arcade-archives-football-champ.json](./309045-arcade-archives-football-champ.json) |
 | Arcade Archives: Formation Z | 147105 | [147105-arcade-archives-formation-z.json](./147105-arcade-archives-formation-z.json) |
+| Arcade Archives: Frisky Tom | 145810 | [145810-arcade-archives-frisky-tom.json](./145810-arcade-archives-frisky-tom.json) |
 | Arcade Archives: Front Line | 99472 | [99472-arcade-archives-front-line.json](./99472-arcade-archives-front-line.json) |
 | Arcade Archives: Galactic Warriors | 378778 | [378778-arcade-archives-galactic-warriors.json](./378778-arcade-archives-galactic-warriors.json) |
 | Arcade Archives: Galaga | 230364 | [230364-arcade-archives-galaga.json](./230364-arcade-archives-galaga.json) |
@@ -14909,6 +14911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | As Dusk Falls: Special Edition | 324757 | [324757-as-dusk-falls-special-edition.json](./324757-as-dusk-falls-special-edition.json) |
 | As Duty Demands | 383103 | [383103-as-duty-demands.json](./383103-as-duty-demands.json) |
 | As Far as the Eye | 129107 | [129107-as-far-as-the-eye.json](./129107-as-far-as-the-eye.json) |
+| As Fast As Possible | 145819 | [145819-as-fast-as-possible.json](./145819-as-fast-as-possible.json) |
 | As Guilty As the Moon | 236453 | [236453-as-guilty-as-the-moon.json](./236453-as-guilty-as-the-moon.json) |
 | As If Dreaming When You're Wide Awake | 98326 | [98326-as-if-dreaming-when-youre-wide-awake.json](./98326-as-if-dreaming-when-youre-wide-awake.json) |
 | As If Through Glass | 395339 | [395339-as-if-through-glass.json](./395339-as-if-through-glass.json) |
@@ -16875,7 +16878,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
