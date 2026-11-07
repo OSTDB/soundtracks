@@ -14711,6 +14711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Painscreek Killings | 68682 | [68682-the-painscreek-killings.json](./68682-the-painscreek-killings.json) |
 | The Paint Gunner | 187211 | [187211-the-paint-gunner.json](./187211-the-paint-gunner.json) |
 | The Painted Forest | 132705 | [132705-the-painted-forest.json](./132705-the-painted-forest.json) |
+| The Painter of Devil's Fangs | 184666 | [184666-the-painter-of-devils-fangs.json](./184666-the-painter-of-devils-fangs.json) |
 | The Painter's Playground | 75604 | [75604-the-painters-playground.json](./75604-the-painters-playground.json) |
 | The Painting | 319557 | [319557-the-painting.json](./319557-the-painting.json) |
 | The Painting of Gustavo Repaintend | 383167 | [383167-the-painting-of-gustavo-repaintend.json](./383167-the-painting-of-gustavo-repaintend.json) |
@@ -18112,6 +18113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Trap 2: Mindlock | 194222 | [194222-the-trap-2-mindlock.json](./194222-the-trap-2-mindlock.json) |
 | The Trap: Remake - Winter | 351098 | [351098-the-trap-remake-winter.json](./351098-the-trap-remake-winter.json) |
 | The Trap: Remastered | 170871 | [170871-the-trap-remastered.json](./170871-the-trap-remastered.json) |
+| The Trapped Heart | 184558 | [184558-the-trapped-heart.json](./184558-the-trapped-heart.json) |
 | The Trasamire Campaigns | 213418 | [213418-the-trasamire-campaigns.json](./213418-the-trasamire-campaigns.json) |
 | The Trash Collector | 180395 | [180395-the-trash-collector.json](./180395-the-trash-collector.json) |
 | The Trash Pack | 138505 | [138505-the-trash-pack.json](./138505-the-trash-pack.json) |
@@ -19165,6 +19167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wolf's Den | 154082 | [154082-the-wolfs-den.json](./154082-the-wolfs-den.json) |
 | The Wolf's Girl | 160070 | [160070-the-wolfs-girl.json](./160070-the-wolfs-girl.json) |
 | The Wolf's Hunt | 288619 | [288619-the-wolfs-hunt.json](./288619-the-wolfs-hunt.json) |
+| The Wolf's Shepherd | 184680 | [184680-the-wolfs-shepherd.json](./184680-the-wolfs-shepherd.json) |
 | The Woman Above | 398476 | [398476-the-woman-above.json](./398476-the-woman-above.json) |
 | The Wonder Pets!: Save the Animals! | 124088 | [124088-the-wonder-pets-save-the-animals.json](./124088-the-wonder-pets-save-the-animals.json) |
 | The Wonder Stone | 208137 | [208137-the-wonder-stone.json](./208137-the-wonder-stone.json) |
@@ -33592,6 +33595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typoman Mobile | 194082 | [194082-typoman-mobile.json](./194082-typoman-mobile.json) |
 | Typoman: Revised | 52993 | [52993-typoman-revised.json](./52993-typoman-revised.json) |
 | Typomancer in the Feather's Way | 174261 | [174261-typomancer-in-the-feathers-way.json](./174261-typomancer-in-the-feathers-way.json) |
+| Typomania guestbook | 184555 | [184555-typomania-guestbook.json](./184555-typomania-guestbook.json) |
 | Typos and Brains | 179893 | [179893-typos-and-brains.json](./179893-typos-and-brains.json) |
 | Tyr | 371867 | [371867-tyr.json](./371867-tyr.json) |
 | Tyr: Chains of Valhalla | 96750 | [96750-tyr-chains-of-valhalla.json](./96750-tyr-chains-of-valhalla.json) |
