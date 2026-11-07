@@ -15437,6 +15437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosplay Love!: Enchanted Princess | 195410 | [195410-cosplay-love-enchanted-princess.json](./195410-cosplay-love-enchanted-princess.json) |
 | Cosplay Relaxation | 275137 | [275137-cosplay-relaxation.json](./275137-cosplay-relaxation.json) |
 | Cosplay Relaxation | 276323 | [276323-cosplay-relaxation.json](./276323-cosplay-relaxation.json) |
+| Cosplay Therapy | 180372 | [180372-cosplay-therapy.json](./180372-cosplay-therapy.json) |
 | Cosplayer's Quest | 380465 | [380465-cosplayers-quest.json](./380465-cosplayers-quest.json) |
 | Cosplaying in Costalia: The Tororo Sisters! | 411787 | [411787-cosplaying-in-costalia-the-tororo-sisters.json](./411787-cosplaying-in-costalia-the-tororo-sisters.json) |
 | Cossack and Magic | 164187 | [164187-cossack-and-magic.json](./164187-cossack-and-magic.json) |
@@ -15766,6 +15767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coveny Town | 386061 | [386061-coveny-town.json](./386061-coveny-town.json) |
 | Cover Fire | 38954 | [38954-cover-fire.json](./38954-cover-fire.json) |
 | Cover Fire: Shooter vs Sniper | 103855 | [103855-cover-fire-shooter-vs-sniper.json](./103855-cover-fire-shooter-vs-sniper.json) |
+| Cover Letter: The Game | 180383 | [180383-cover-letter-the-game.json](./180383-cover-letter-the-game.json) |
 | Cover Orange | 403224 | [403224-cover-orange.json](./403224-cover-orange.json) |
 | Cover Orange | 86862 | [86862-cover-orange.json](./86862-cover-orange.json) |
 | Cover Orange | 90090 | [90090-cover-orange.json](./90090-cover-orange.json) |
