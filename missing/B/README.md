@@ -2834,6 +2834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barro 2026 | 411266 | [411266-barro-2026.json](./411266-barro-2026.json) |
 | Barro 22 | 181008 | [181008-barro-22.json](./181008-barro-22.json) |
 | Barro F | 130225 | [130225-barro-f.json](./130225-barro-f.json) |
+| Barro F: Cars Pack | 171161 | [171161-barro-f-cars-pack.json](./171161-barro-f-cars-pack.json) |
 | Barro F22 | 249694 | [249694-barro-f22.json](./249694-barro-f22.json) |
 | Barro F22: Pack #1 | 298414 | [298414-barro-f22-pack-1.json](./298414-barro-f22-pack-1.json) |
 | Barro F22: Pack #2 | 322730 | [322730-barro-f22-pack-2.json](./322730-barro-f22-pack-2.json) |
@@ -2849,6 +2850,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barro T23 | 246957 | [246957-barro-t23.json](./246957-barro-t23.json) |
 | Barro T23: Pack #1 | 298339 | [298339-barro-t23-pack-1.json](./298339-barro-t23-pack-1.json) |
 | Barro T23: Pack #2 | 322732 | [322732-barro-t23-pack-2.json](./322732-barro-t23-pack-2.json) |
+| Barro: Track Pack 1 | 171162 | [171162-barro-track-pack-1.json](./171162-barro-track-pack-1.json) |
+| Barro: Track Pack 2 | 171159 | [171159-barro-track-pack-2.json](./171159-barro-track-pack-2.json) |
 | Barrok | 309877 | [309877-barrok.json](./309877-barrok.json) |
 | Barrok 2 | 382290 | [382290-barrok-2.json](./382290-barrok-2.json) |
 | Barrow Hill: Curse of the Ancient Circle | 10023 | [10023-barrow-hill-curse-of-the-ancient-circle.json](./10023-barrow-hill-curse-of-the-ancient-circle.json) |
@@ -7467,6 +7470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Burger Tower | 357830 | [357830-big-burger-tower.json](./357830-big-burger-tower.json) |
 | Big Business | 14300 | [14300-big-business.json](./14300-big-business.json) |
 | Big Butt Bobby | 236190 | [236190-big-butt-bobby.json](./236190-big-butt-bobby.json) |
+| Big Byz Wars | 171188 | [171188-big-byz-wars.json](./171188-big-byz-wars.json) |
 | Big Cat from Hell | 165586 | [165586-big-cat-from-hell.json](./165586-big-cat-from-hell.json) |
 | Big Cat Jigsaw Quest | 338236 | [338236-big-cat-jigsaw-quest.json](./338236-big-cat-jigsaw-quest.json) |
 | Big Cat Jigsaw Quest: Expansion Pack 1 | 338237 | [338237-big-cat-jigsaw-quest-expansion-pack-1.json](./338237-big-cat-jigsaw-quest-expansion-pack-1.json) |
