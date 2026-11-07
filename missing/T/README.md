@@ -1237,6 +1237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Hearts R: Link Edition | 89865 | [89865-tales-of-hearts-r-link-edition.json](./89865-tales-of-hearts-r-link-edition.json) |
 | Tales of Hearts: Anime Movie Edition | 1210 | [1210-tales-of-hearts-anime-movie-edition.json](./1210-tales-of-hearts-anime-movie-edition.json) |
 | Tales of Hearts: CG Movie Edition | 222922 | [222922-tales-of-hearts-cg-movie-edition.json](./222922-tales-of-hearts-cg-movie-edition.json) |
+| Tales of Herring Lake | 149753 | [149753-tales-of-herring-lake.json](./149753-tales-of-herring-lake.json) |
 | Tales of Hongyuan | 90995 | [90995-tales-of-hongyuan.json](./90995-tales-of-hongyuan.json) |
 | Tales of Howl Town | 221773 | [221773-tales-of-howl-town.json](./221773-tales-of-howl-town.json) |
 | Tales of Inca: Lost Land | 68873 | [68873-tales-of-inca-lost-land.json](./68873-tales-of-inca-lost-land.json) |
@@ -4563,6 +4564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terraformers + Starward Rogue: Mechs and Colonizers Deluxe Bundle | 292616 | [292616-terraformers-starward-rogue-mechs-and-colonizers-deluxe-bundle.json](./292616-terraformers-starward-rogue-mechs-and-colonizers-deluxe-bundle.json) |
 | Terraformers + Tin Can: To Infinity, and Beyond Bundle! | 271124 | [271124-terraformers-tin-can-to-infinity-and-beyond-bundle.json](./271124-terraformers-tin-can-to-infinity-and-beyond-bundle.json) |
 | Terraformers: Deluxe Bundle | 331493 | [331493-terraformers-deluxe-bundle.json](./331493-terraformers-deluxe-bundle.json) |
+| Terraformers: First Steps on Mars | 149757 | [149757-terraformers-first-steps-on-mars.json](./149757-terraformers-first-steps-on-mars.json) |
 | Terraformers: Megastructures | 318782 | [318782-terraformers-megastructures.json](./318782-terraformers-megastructures.json) |
 | Terraformers: Megastructures Bundle | 331492 | [331492-terraformers-megastructures-bundle.json](./331492-terraformers-megastructures-bundle.json) |
 | Terraformers: New Frontiers Bundle | 293763 | [293763-terraformers-new-frontiers-bundle.json](./293763-terraformers-new-frontiers-bundle.json) |
@@ -18326,6 +18328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tribloos 3 | 105746 | [105746-the-tribloos-3.json](./105746-the-tribloos-3.json) |
 | The Tribulation Entanglement | 190189 | [190189-the-tribulation-entanglement.json](./190189-the-tribulation-entanglement.json) |
 | The Trickster's Domain | 282619 | [282619-the-tricksters-domain.json](./282619-the-tricksters-domain.json) |
+| The Trigger | 149664 | [149664-the-trigger.json](./149664-the-trigger.json) |
 | The Trip | 287216 | [287216-the-trip.json](./287216-the-trip.json) |
 | The Trip Adventure | 66636 | [66636-the-trip-adventure.json](./66636-the-trip-adventure.json) |
 | The Tripods | 72927 | [72927-the-tripods.json](./72927-the-tripods.json) |
@@ -25276,6 +25279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomak: Save the Earth, Again | 65310 | [65310-tomak-save-the-earth-again.json](./65310-tomak-save-the-earth-again.json) |
 | Tomarc the Barbarian | 23840 | [23840-tomarc-the-barbarian.json](./23840-tomarc-the-barbarian.json) |
 | Tómate un Descanso | 327435 | [327435-tomate-un-descanso.json](./327435-tomate-un-descanso.json) |
+| Tomatenquark | 149670 | [149670-tomatenquark.json](./149670-tomatenquark.json) |
 | Tomato Adventure | 49844 | [49844-tomato-adventure.json](./49844-tomato-adventure.json) |
 | Tomato Blaster | 68423 | [68423-tomato-blaster.json](./68423-tomato-blaster.json) |
 | Tomato Bounce | 262212 | [262212-tomato-bounce.json](./262212-tomato-bounce.json) |
@@ -26311,6 +26315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Fucking Psychopath | 346639 | [346639-total-fucking-psychopath.json](./346639-total-fucking-psychopath.json) |
 | Total Funpak | 77890 | [77890-total-funpak.json](./77890-total-funpak.json) |
 | Total Gravity | 271565 | [271565-total-gravity.json](./271565-total-gravity.json) |
+| Total Havoc | 149750 | [149750-total-havoc.json](./149750-total-havoc.json) |
 | Total Immersion Racing | 6212 | [6212-total-immersion-racing.json](./6212-total-immersion-racing.json) |
 | Total Incremental Battle | 390134 | [390134-total-incremental-battle.json](./390134-total-incremental-battle.json) |
 | Total Infiltration | 273229 | [273229-total-infiltration.json](./273229-total-infiltration.json) |
