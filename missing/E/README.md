@@ -2105,6 +2105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elebits | 2747 | [2747-elebits.json](./2747-elebits.json) |
 | Elebits: The Adventures of Kai and Zero | 2748 | [2748-elebits-the-adventures-of-kai-and-zero.json](./2748-elebits-the-adventures-of-kai-and-zero.json) |
 | Elec | 163793 | [163793-elec.json](./163793-elec.json) |
+| Elec Dude | 192493 | [192493-elec-dude.json](./192493-elec-dude.json) |
 | Elecade | 400907 | [400907-elecade.json](./400907-elecade.json) |
 | ElecHead | 129518 | [129518-elechead.json](./129518-elechead.json) |
 | Elect | 331720 | [331720-elect.json](./331720-elect.json) |
@@ -2606,6 +2607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eliosi's Hunt | 32277 | [32277-eliosis-hunt.json](./32277-eliosis-hunt.json) |
 | EliosM: Red Battlefield | 174802 | [174802-eliosm-red-battlefield.json](./174802-eliosm-red-battlefield.json) |
 | Elis in Winterland | 261657 | [261657-elis-in-winterland.json](./261657-elis-in-winterland.json) |
+| Elisa Dragon Hunter | 192527 | [192527-elisa-dragon-hunter.json](./192527-elisa-dragon-hunter.json) |
 | Elisa: Seduce the Innkeeper | 63734 | [63734-elisa-seduce-the-innkeeper.json](./63734-elisa-seduce-the-innkeeper.json) |
 | Elisa: the Innkeeper | 29916 | [29916-elisa-the-innkeeper.json](./29916-elisa-the-innkeeper.json) |
 | Elisa: The Innkeeper - Prequel | 32622 | [32622-elisa-the-innkeeper-prequel.json](./32622-elisa-the-innkeeper-prequel.json) |
@@ -3640,6 +3642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ending Way | 189198 | [189198-ending-way.json](./189198-ending-way.json) |
 | Endings | 165668 | [165668-endings.json](./165668-endings.json) |
 | Endix | 396999 | [396999-endix.json](./396999-endix.json) |
+| Endlanders | 192502 | [192502-endlanders.json](./192502-endlanders.json) |
 | Endlanders: First Encounter | 210357 | [210357-endlanders-first-encounter.json](./210357-endlanders-first-encounter.json) |
 | Endless | 74796 | [74796-endless.json](./74796-endless.json) |
 | Endless Adventure | 200287 | [200287-endless-adventure.json](./200287-endless-adventure.json) |
@@ -4031,6 +4034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Engine Room | 305449 | [305449-engine-room.json](./305449-engine-room.json) |
 | Engine Room | 47266 | [47266-engine-room.json](./47266-engine-room.json) |
 | Engine Sentai Go-Onger: Mach de Oboeru! Aiueo!! | 123618 | [123618-engine-sentai-go-onger-mach-de-oboeru-aiueo.json](./123618-engine-sentai-go-onger-mach-de-oboeru-aiueo.json) |
+| Engineer Alpha | 192521 | [192521-engineer-alpha.json](./192521-engineer-alpha.json) |
 | Engineer Arena | 121269 | [121269-engineer-arena.json](./121269-engineer-arena.json) |
 | Engineer Humpty | 14054 | [14054-engineer-humpty.json](./14054-engineer-humpty.json) |
 | Engineer's Last Stand | 257335 | [257335-engineers-last-stand.json](./257335-engineers-last-stand.json) |
@@ -6655,6 +6659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evel Knievel Evel-ution | 23533 | [23533-evel-knievel-evel-ution.json](./23533-evel-knievel-evel-ution.json) |
 | Eveline | 416057 | [416057-eveline.json](./416057-eveline.json) |
 | Evelone Wrath | 260032 | [260032-evelone-wrath.json](./260032-evelone-wrath.json) |
+| Evelyn's Adventure | 192526 | [192526-evelyns-adventure.json](./192526-evelyns-adventure.json) |
 | Evelyn's Farm | 186589 | [186589-evelyns-farm.json](./186589-evelyns-farm.json) |
 | Evelynn | 265371 | [265371-evelynn.json](./265371-evelynn.json) |
 | Even Cowgirls Bleed | 62473 | [62473-even-cowgirls-bleed.json](./62473-even-cowgirls-bleed.json) |
