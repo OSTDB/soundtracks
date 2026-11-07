@@ -5245,6 +5245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape from Nowhere | 158499 | [158499-escape-from-nowhere.json](./158499-escape-from-nowhere.json) |
 | Escape from Omicron | 14056 | [14056-escape-from-omicron.json](./14056-escape-from-omicron.json) |
 | Escape from Peruácru Island | 388911 | [388911-escape-from-peruacru-island.json](./388911-escape-from-peruacru-island.json) |
+| Escape From Planet Aelea | 172870 | [172870-escape-from-planet-aelea.json](./172870-escape-from-planet-aelea.json) |
 | Escape from Playtime | 415180 | [415180-escape-from-playtime.json](./415180-escape-from-playtime.json) |
 | Escape from Pleasure Planet | 32138 | [32138-escape-from-pleasure-planet.json](./32138-escape-from-pleasure-planet.json) |
 | Escape from Poalet | 157376 | [157376-escape-from-poalet.json](./157376-escape-from-poalet.json) |
@@ -7363,6 +7364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution Snowboarding | 3909 | [3909-evolution-snowboarding.json](./3909-evolution-snowboarding.json) |
 | Evolution Soccer | 137690 | [137690-evolution-soccer.json](./137690-evolution-soccer.json) |
 | Evolution Survival | 271638 | [271638-evolution-survival.json](./271638-evolution-survival.json) |
+| Evolution Tag 2 | 172886 | [172886-evolution-tag-2.json](./172886-evolution-tag-2.json) |
 | Evolution Tale | 236900 | [236900-evolution-tale.json](./236900-evolution-tale.json) |
 | Evolution VR | 30688 | [30688-evolution-vr.json](./30688-evolution-vr.json) |
 | Evolution Worlds | 3910 | [3910-evolution-worlds.json](./3910-evolution-worlds.json) |
