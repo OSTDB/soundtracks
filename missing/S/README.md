@@ -5739,6 +5739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ser Jorryn | 379867 | [379867-ser-jorryn.json](./379867-ser-jorryn.json) |
 | Sera Dion: Survivor | 344879 | [344879-sera-dion-survivor.json](./344879-sera-dion-survivor.json) |
 | Serafina's Crown | 33338 | [33338-serafinas-crown.json](./33338-serafinas-crown.json) |
+| Serafina's Saga | 182640 | [182640-serafinas-saga.json](./182640-serafinas-saga.json) |
 | Serafina's Saga: Awakened | 252012 | [252012-serafinas-saga-awakened.json](./252012-serafinas-saga-awakened.json) |
 | Serania: Path of the Scion | 258008 | [258008-serania-path-of-the-scion.json](./258008-serania-path-of-the-scion.json) |
 | Seranu | 216534 | [216534-seranu.json](./216534-seranu.json) |
@@ -12417,6 +12418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skramble | 40928 | [40928-skramble.json](./40928-skramble.json) |
 | Skramble | 420523 | [420523-skramble.json](./420523-skramble.json) |
 | Skramble | 420524 | [420524-skramble.json](./420524-skramble.json) |
+| Skreleton's Hotdog Kitchen | 182588 | [182588-skreletons-hotdog-kitchen.json](./182588-skreletons-hotdog-kitchen.json) |
 | Skribbl.io | 76565 | [76565-skribbl-io.json](./76565-skribbl-io.json) |
 | Skrillex Quest | 64231 | [64231-skrillex-quest.json](./64231-skrillex-quest.json) |
 | Skroll | 408714 | [408714-skroll.json](./408714-skroll.json) |
@@ -18450,6 +18452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soreyuke Ebisumaru: Karakuri Meiro - Kieta Goemon no Nazo | 44446 | [44446-soreyuke-ebisumaru-karakuri-meiro-kieta-goemon-no-nazo.json](./44446-soreyuke-ebisumaru-karakuri-meiro-kieta-goemon-no-nazo.json) |
 | Soreyuke!! Kid: Go! Go! Kid | 64507 | [64507-soreyuke-kid-go-go-kid.json](./64507-soreyuke-kid-go-go-kid.json) |
 | Sorgina: A Tale of Witches | 36460 | [36460-sorgina-a-tale-of-witches.json](./36460-sorgina-a-tale-of-witches.json) |
+| Soria | 182632 | [182632-soria.json](./182632-soria.json) |
 | Soro: The Stolen Crystals | 325198 | [325198-soro-the-stolen-crystals.json](./325198-soro-the-stolen-crystals.json) |
 | Soroban Anzan Flash Anzan Kanzenban | 222472 | [222472-soroban-anzan-flash-anzan-kanzenban.json](./222472-soroban-anzan-flash-anzan-kanzenban.json) |
 | Soroban Gu | 37318 | [37318-soroban-gu.json](./37318-soroban-gu.json) |
@@ -18674,6 +18677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Knight Prequel | 277857 | [277857-soul-knight-prequel.json](./277857-soul-knight-prequel.json) |
 | Soul Knight: The Forest of Spirits | 237296 | [237296-soul-knight-the-forest-of-spirits.json](./237296-soul-knight-the-forest-of-spirits.json) |
 | Soul Knights RPG | 53624 | [53624-soul-knights-rpg.json](./53624-soul-knights-rpg.json) |
+| Soul Labyrinth | 182637 | [182637-soul-labyrinth.json](./182637-soul-labyrinth.json) |
 | Soul Land Reloaded | 174651 | [174651-soul-land-reloaded.json](./174651-soul-land-reloaded.json) |
 | Soul Land: Advent of the Gods | 194020 | [194020-soul-land-advent-of-the-gods.json](./194020-soul-land-advent-of-the-gods.json) |
 | Soul Land: Hunting World | 354242 | [354242-soul-land-hunting-world.json](./354242-soul-land-hunting-world.json) |
@@ -18929,6 +18933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SoulSet | 29508 | [29508-soulset.json](./29508-soulset.json) |
 | SoulSet: Necromancer Edition | 53623 | [53623-soulset-necromancer-edition.json](./53623-soulset-necromancer-edition.json) |
 | SoulShake | 295597 | [295597-soulshake.json](./295597-soulshake.json) |
+| Soulshape | 182614 | [182614-soulshape.json](./182614-soulshape.json) |
 | SoulShards Arena | 197223 | [197223-soulshards-arena.json](./197223-soulshards-arena.json) |
 | SoulSide | 190703 | [190703-soulside.json](./190703-soulside.json) |
 | Soulsland | 180014 | [180014-soulsland.json](./180014-soulsland.json) |
@@ -27696,6 +27701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Investigations: Secrets Can be Deadly - Collector's Edition | 256713 | [256713-strange-investigations-secrets-can-be-deadly-collectors-edition.json](./256713-strange-investigations-secrets-can-be-deadly-collectors-edition.json) |
 | Strange Investigations: Truth Will Out - Collector's Edition | 356764 | [356764-strange-investigations-truth-will-out-collectors-edition.json](./356764-strange-investigations-truth-will-out-collectors-edition.json) |
 | Strange Investigations: Two for Solitaire - Collector's Edition | 207087 | [207087-strange-investigations-two-for-solitaire-collectors-edition.json](./207087-strange-investigations-two-for-solitaire-collectors-edition.json) |
+| Strange Keyworld | 182612 | [182612-strange-keyworld.json](./182612-strange-keyworld.json) |
 | Strange Labyrinth | 310096 | [310096-strange-labyrinth.json](./310096-strange-labyrinth.json) |
 | Strange Loop | 26433 | [26433-strange-loop.json](./26433-strange-loop.json) |
 | Strange Love: Vampire Boyfriends | 63676 | [63676-strange-love-vampire-boyfriends.json](./63676-strange-love-vampire-boyfriends.json) |
