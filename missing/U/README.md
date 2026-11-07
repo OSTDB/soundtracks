@@ -640,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate NES Remix | 20054 | [20054-ultimate-nes-remix.json](./20054-ultimate-nes-remix.json) |
 | Ultimate Neural Network | 168657 | [168657-ultimate-neural-network.json](./168657-ultimate-neural-network.json) |
 | Ultimate NFL Coaches Club Football | 81470 | [81470-ultimate-nfl-coaches-club-football.json](./81470-ultimate-nfl-coaches-club-football.json) |
+| Ultimate Ninja Blazing | 140750 | [140750-ultimate-ninja-blazing.json](./140750-ultimate-ninja-blazing.json) |
 | Ultimate Ninja: Hayate | 88901 | [88901-ultimate-ninja-hayate.json](./88901-ultimate-ninja-hayate.json) |
 | Ultimate Ninja: Ninja King | 99410 | [99410-ultimate-ninja-ninja-king.json](./99410-ultimate-ninja-ninja-king.json) |
 | Ultimate Ninja:Ninja King | 108107 | [108107-ultimate-ninja-ninja-king.json](./108107-ultimate-ninja-ninja-king.json) |
@@ -1335,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbreachable | 399831 | [399831-unbreachable.json](./399831-unbreachable.json) |
 | Unbreakable Kimmy Schmidt: Kimmy vs. the Reverend | 256848 | [256848-unbreakable-kimmy-schmidt-kimmy-vs-the-reverend.json](./256848-unbreakable-kimmy-schmidt-kimmy-vs-the-reverend.json) |
 | Unbreakable Vr Runner | 32314 | [32314-unbreakable-vr-runner.json](./32314-unbreakable-vr-runner.json) |
+| Unbridled Dungeon | 140702 | [140702-unbridled-dungeon.json](./140702-unbridled-dungeon.json) |
 | Unbridled Horror | 181896 | [181896-unbridled-horror.json](./181896-unbridled-horror.json) |
 | Unbridled: An Untameable Story | 313801 | [313801-unbridled-an-untameable-story.json](./313801-unbridled-an-untameable-story.json) |
 | Unbridled: That Horse Game | 217136 | [217136-unbridled-that-horse-game.json](./217136-unbridled-that-horse-game.json) |
