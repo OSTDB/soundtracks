@@ -4706,6 +4706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Fear: The Quick and The Dead | 297766 | [297766-age-of-fear-the-quick-and-the-dead.json](./297766-age-of-fear-the-quick-and-the-dead.json) |
 | Age of Fear: The Undead King | 9952 | [9952-age-of-fear-the-undead-king.json](./9952-age-of-fear-the-undead-king.json) |
 | Age of Fear: The Undead King Gold | 110714 | [110714-age-of-fear-the-undead-king-gold.json](./110714-age-of-fear-the-undead-king-gold.json) |
+| Age of Fear: The Undead King Gold - Pirates! Expansion | 169526 | [169526-age-of-fear-the-undead-king-gold-pirates-expansion.json](./169526-age-of-fear-the-undead-king-gold-pirates-expansion.json) |
 | Age of Fear: The Undead King Gold - The Quest for Immortality | 171429 | [171429-age-of-fear-the-undead-king-gold-the-quest-for-immortality.json](./171429-age-of-fear-the-undead-king-gold-the-quest-for-immortality.json) |
 | Age of Fear: Total | 249875 | [249875-age-of-fear-total.json](./249875-age-of-fear-total.json) |
 | Age of Fear: War Machine | 297767 | [297767-age-of-fear-war-machine.json](./297767-age-of-fear-war-machine.json) |
@@ -8923,6 +8924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Us 3D | 332784 | [332784-among-us-3d.json](./332784-among-us-3d.json) |
 | Among Us 3D: VR | 185254 | [185254-among-us-3d-vr.json](./185254-among-us-3d-vr.json) |
 | Among Us 3D: VR - The Tracker | 377655 | [377655-among-us-3d-vr-the-tracker.json](./377655-among-us-3d-vr-the-tracker.json) |
+| Among Us Arena | 169505 | [169505-among-us-arena.json](./169505-among-us-arena.json) |
 | Among Us Arena: Ultimate | 216295 | [216295-among-us-arena-ultimate.json](./216295-among-us-arena-ultimate.json) |
 | Among Us Story: On Guard | 404707 | [404707-among-us-story-on-guard.json](./404707-among-us-story-on-guard.json) |
 | Among Us VR: Glove Pack - Catch Deez Hands | 316401 | [316401-among-us-vr-glove-pack-catch-deez-hands.json](./316401-among-us-vr-glove-pack-catch-deez-hands.json) |
@@ -16790,7 +16792,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
