@@ -1820,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harapeko Einya | 368239 | [368239-harapeko-einya.json](./368239-harapeko-einya.json) |
 | Harapeko Pakkun | 97795 | [97795-harapeko-pakkun.json](./97795-harapeko-pakkun.json) |
 | Harassment ni Ki wo Tsukete | 251609 | [251609-harassment-ni-ki-wo-tsukete.json](./251609-harassment-ni-ki-wo-tsukete.json) |
+| Harbin | 142581 | [142581-harbin.json](./142581-harbin.json) |
 | Harbinger | 315204 | [315204-harbinger.json](./315204-harbinger.json) |
 | Harbinger | 51230 | [51230-harbinger.json](./51230-harbinger.json) |
 | Harbinger: Legacy Edition | 370406 | [370406-harbinger-legacy-edition.json](./370406-harbinger-legacy-edition.json) |
@@ -6390,6 +6391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroic Tale | 180364 | [180364-heroic-tale.json](./180364-heroic-tale.json) |
 | Heroic Tale Value!+ | 259152 | [259152-heroic-tale-value.json](./259152-heroic-tale-value.json) |
 | Heroica: Fortaan | 342868 | [342868-heroica-fortaan.json](./342868-heroica-fortaan.json) |
+| Heroics | 142574 | [142574-heroics.json](./142574-heroics.json) |
 | Heroine Anthem XP: The Angel of Sarem | 85760 | [85760-heroine-anthem-xp-the-angel-of-sarem.json](./85760-heroine-anthem-xp-the-angel-of-sarem.json) |
 | Heroine Anthem Zero: Episode 1 | 99465 | [99465-heroine-anthem-zero-episode-1.json](./99465-heroine-anthem-zero-episode-1.json) |
 | Heroine Dream | 61566 | [61566-heroine-dream.json](./61566-heroine-dream.json) |
@@ -8222,6 +8224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HipWitch | 172985 | [172985-hipwitch.json](./172985-hipwitch.json) |
 | HiQ Ace | 115771 | [115771-hiq-ace.json](./115771-hiq-ace.json) |
 | HiQ Ace Deluxe | 234267 | [234267-hiq-ace-deluxe.json](./234267-hiq-ace-deluxe.json) |
+| HIQ Ace Unlimited | 142548 | [142548-hiq-ace-unlimited.json](./142548-hiq-ace-unlimited.json) |
 | Hira Hira Hihiru | 221418 | [221418-hira-hira-hihiru.json](./221418-hira-hira-hihiru.json) |
 | Hiraeth | 182591 | [182591-hiraeth.json](./182591-hiraeth.json) |
 | Hiraeth | 280264 | [280264-hiraeth.json](./280264-hiraeth.json) |
@@ -9079,6 +9082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollywood Fame: Hidden Object Adventure | 84517 | [84517-hollywood-fame-hidden-object-adventure.json](./84517-hollywood-fame-hidden-object-adventure.json) |
 | Hollywood Files: Deadly Intrigues | 269631 | [269631-hollywood-files-deadly-intrigues.json](./269631-hollywood-files-deadly-intrigues.json) |
 | Hollywood Hero | 161701 | [161701-hollywood-hero.json](./161701-hollywood-hero.json) |
+| Hollywood Hero: Comeback | 142576 | [142576-hollywood-hero-comeback.json](./142576-hollywood-hero-comeback.json) |
 | Hollywood Hijinx | 12144 | [12144-hollywood-hijinx.json](./12144-hollywood-hijinx.json) |
 | Hollywood Hustle: A Prop Collector Simulator | 416134 | [416134-hollywood-hustle-a-prop-collector-simulator.json](./416134-hollywood-hustle-a-prop-collector-simulator.json) |
 | Hollywood Mogul | 94389 | [94389-hollywood-mogul.json](./94389-hollywood-mogul.json) |
@@ -9982,6 +9986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope's Peak | 134985 | [134985-hopes-peak.json](./134985-hopes-peak.json) |
 | Hopebringers | 143898 | [143898-hopebringers.json](./143898-hopebringers.json) |
 | Hopeful Day Inside Room | 325382 | [325382-hopeful-day-inside-room.json](./325382-hopeful-day-inside-room.json) |
+| Hopefully Good Reads | 142579 | [142579-hopefully-good-reads.json](./142579-hopefully-good-reads.json) |
 | Hopeguard | 340480 | [340480-hopeguard.json](./340480-hopeguard.json) |
 | HopeLand | 211205 | [211205-hopeland.json](./211205-hopeland.json) |
 | Hopeless | 210985 | [210985-hopeless.json](./210985-hopeless.json) |
