@@ -2709,6 +2709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aces of the Luftwaffe: Squadron | 84731 | [84731-aces-of-the-luftwaffe-squadron.json](./84731-aces-of-the-luftwaffe-squadron.json) |
 | Aces of the Luftwaffe: Squadron - Extended Edition | 119084 | [119084-aces-of-the-luftwaffe-squadron-extended-edition.json](./119084-aces-of-the-luftwaffe-squadron-extended-edition.json) |
 | Aces of the Luftwaffe: Squadron - The Nebelgeschwader | 111543 | [111543-aces-of-the-luftwaffe-squadron-the-nebelgeschwader.json](./111543-aces-of-the-luftwaffe-squadron-the-nebelgeschwader.json) |
+| Aces of the Multiverse | 178165 | [178165-aces-of-the-multiverse.json](./178165-aces-of-the-multiverse.json) |
 | Aces of the Pacific | 12385 | [12385-aces-of-the-pacific.json](./12385-aces-of-the-pacific.json) |
 | Aces of War | 45294 | [45294-aces-of-war.json](./45294-aces-of-war.json) |
 | Aces of World War 1 | 205967 | [205967-aces-of-world-war-1.json](./205967-aces-of-world-war-1.json) |
@@ -4473,6 +4474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afternoon in the House of Secrets | 221820 | [221820-afternoon-in-the-house-of-secrets.json](./221820-afternoon-in-the-house-of-secrets.json) |
 | Afternoon Paralysis | 381330 | [381330-afternoon-paralysis.json](./381330-afternoon-paralysis.json) |
 | Afternoon Spaghetti | 179840 | [179840-afternoon-spaghetti.json](./179840-afternoon-spaghetti.json) |
+| Afternoon, a story | 178175 | [178175-afternoon-a-story.json](./178175-afternoon-a-story.json) |
 | AfternoonEmpire | 86330 | [86330-afternoonempire.json](./86330-afternoonempire.json) |
 | Afterplace | 232032 | [232032-afterplace.json](./232032-afterplace.json) |
 | Afterpulse | 58625 | [58625-afterpulse.json](./58625-afterpulse.json) |
@@ -12153,6 +12155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AR-K: The Great Escape | 24334 | [24334-ar-k-the-great-escape.json](./24334-ar-k-the-great-escape.json) |
 | Ar'Kritz the Intruder | 86028 | [86028-arkritz-the-intruder.json](./86028-arkritz-the-intruder.json) |
 | Ar3na | 257937 | [257937-ar3na.json](./257937-ar3na.json) |
+| Ara and the Empty Universe | 178155 | [178155-ara-and-the-empty-universe.json](./178155-ara-and-the-empty-universe.json) |
 | Ara Fell | 19406 | [19406-ara-fell.json](./19406-ara-fell.json) |
 | Ara Fell & Rise of the Third Power | 272453 | [272453-ara-fell-and-rise-of-the-third-power.json](./272453-ara-fell-and-rise-of-the-third-power.json) |
 | Ara Fell: Enhanced Edition | 131981 | [131981-ara-fell-enhanced-edition.json](./131981-ara-fell-enhanced-edition.json) |
@@ -16746,7 +16749,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
