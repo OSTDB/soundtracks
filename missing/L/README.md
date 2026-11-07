@@ -10264,6 +10264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lycoris: Underworld | 413834 | [413834-lycoris-underworld.json](./413834-lycoris-underworld.json) |
 | Lydia: Sweet Dreams | 33409 | [33409-lydia-sweet-dreams.json](./33409-lydia-sweet-dreams.json) |
 | Lydia's Labyrinth | 318537 | [318537-lydias-labyrinth.json](./318537-lydias-labyrinth.json) |
+| Lying Souls | 168508 | [168508-lying-souls.json](./168508-lying-souls.json) |
 | Lykia: The Lost Island | 261625 | [261625-lykia-the-lost-island.json](./261625-lykia-the-lost-island.json) |
 | Lyle in Cube Sector | 137520 | [137520-lyle-in-cube-sector.json](./137520-lyle-in-cube-sector.json) |
 | Lyle in Cube Sector MD | 312307 | [312307-lyle-in-cube-sector-md.json](./312307-lyle-in-cube-sector-md.json) |
