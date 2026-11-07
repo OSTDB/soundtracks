@@ -5829,6 +5829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Birds | 2244 | [2244-fire-birds.json](./2244-fire-birds.json) |
 | Fire Blade | 3916 | [3916-fire-blade.json](./3916-fire-blade.json) |
 | Fire Boat | 106471 | [106471-fire-boat.json](./106471-fire-boat.json) |
+| Fire Boy | 157810 | [157810-fire-boy.json](./157810-fire-boy.json) |
 | Fire Breakout | 264735 | [264735-fire-breakout.json](./264735-fire-breakout.json) |
 | Fire Breathers | 243935 | [243935-fire-breathers.json](./243935-fire-breathers.json) |
 | Fire Burning City | 346676 | [346676-fire-burning-city.json](./346676-fire-burning-city.json) |
