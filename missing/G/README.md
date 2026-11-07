@@ -6962,6 +6962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gone with the Demon | 31244 | [31244-gone-with-the-demon.json](./31244-gone-with-the-demon.json) |
 | GONE: Game of Necromancy Education | 364989 | [364989-gone-game-of-necromancy-education.json](./364989-gone-game-of-necromancy-education.json) |
 | Gone: Survival | 132473 | [132473-gone-survival.json](./132473-gone-survival.json) |
+| Goner | 155808 | [155808-goner.json](./155808-goner.json) |
 | Goner In The Town | 320037 | [320037-goner-in-the-town.json](./320037-goner-in-the-town.json) |
 | Goners | 401074 | [401074-goners.json](./401074-goners.json) |
 | Gong | 280356 | [280356-gong.json](./280356-gong.json) |
