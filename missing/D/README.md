@@ -5234,6 +5234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Down & Dark | 263592 | [263592-deep-down-and-dark.json](./263592-deep-down-and-dark.json) |
 | Deep Down 2 | 203492 | [203492-deep-down-2.json](./203492-deep-down-2.json) |
 | Deep Down Below | 373157 | [373157-deep-down-below.json](./373157-deep-down-below.json) |
+| Deep Dreams | 181473 | [181473-deep-dreams.json](./181473-deep-dreams.json) |
 | Deep Duck Trouble Starring Donald Duck | 8447 | [8447-deep-duck-trouble-starring-donald-duck.json](./8447-deep-duck-trouble-starring-donald-duck.json) |
 | Deep Dungeon | 177860 | [177860-deep-dungeon.json](./177860-deep-dungeon.json) |
 | Deep Dungeon | 219235 | [219235-deep-dungeon.json](./219235-deep-dungeon.json) |
@@ -9467,6 +9468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dingo | 39339 | [39339-dingo.json](./39339-dingo.json) |
 | Dininho Adventures | 129463 | [129463-dininho-adventures.json](./129463-dininho-adventures.json) |
 | Dininho Space Adventure | 142043 | [142043-dininho-space-adventure.json](./142043-dininho-space-adventure.json) |
+| Dink or Die | 181448 | [181448-dink-or-die.json](./181448-dink-or-die.json) |
 | Dink Smallwood | 11345 | [11345-dink-smallwood.json](./11345-dink-smallwood.json) |
 | Dink Smallwood HD | 272807 | [272807-dink-smallwood-hd.json](./272807-dink-smallwood-hd.json) |
 | Dinkie Dino | 284450 | [284450-dinkie-dino.json](./284450-dinkie-dino.json) |
@@ -13376,6 +13378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doppelpass | 94402 | [94402-doppelpass.json](./94402-doppelpass.json) |
 | Doppelscape | 288228 | [288228-doppelscape.json](./288228-doppelscape.json) |
 | DoppelTest | 352746 | [352746-doppeltest.json](./352746-doppeltest.json) |
+| Dopple Trouble | 181449 | [181449-dopple-trouble.json](./181449-dopple-trouble.json) |
 | Doppleganger | 13606 | [13606-doppleganger.json](./13606-doppleganger.json) |
 | Doppleganger | 393558 | [393558-doppleganger.json](./393558-doppleganger.json) |
 | Doppyun Donpisha | 230224 | [230224-doppyun-donpisha.json](./230224-doppyun-donpisha.json) |
