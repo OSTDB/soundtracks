@@ -7166,6 +7166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddle of the Sphinx | 18480 | [18480-riddle-of-the-sphinx.json](./18480-riddle-of-the-sphinx.json) |
 | Riddle of the Sphinx: Moonlight Exploration | 169930 | [169930-riddle-of-the-sphinx-moonlight-exploration.json](./169930-riddle-of-the-sphinx-moonlight-exploration.json) |
 | Riddle School | 56438 | [56438-riddle-school.json](./56438-riddle-school.json) |
+| Riddle School 2 | 178160 | [178160-riddle-school-2.json](./178160-riddle-school-2.json) |
 | Riddle School 2: Legacy Edition | 180004 | [180004-riddle-school-2-legacy-edition.json](./180004-riddle-school-2-legacy-edition.json) |
 | Riddle School 3 | 178234 | [178234-riddle-school-3.json](./178234-riddle-school-3.json) |
 | Riddle School 3: Legacy Edition | 180006 | [180006-riddle-school-3-legacy-edition.json](./180006-riddle-school-3-legacy-edition.json) |
@@ -8331,6 +8332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rivers Mahjong: China HD | 175556 | [175556-rivers-mahjong-china-hd.json](./175556-rivers-mahjong-china-hd.json) |
 | Rivers of Blood | 274789 | [274789-rivers-of-blood.json](./274789-rivers-of-blood.json) |
 | Rivers of Chaos | 296343 | [296343-rivers-of-chaos.json](./296343-rivers-of-chaos.json) |
+| Rivers of Rain | 178148 | [178148-rivers-of-rain.json](./178148-rivers-of-rain.json) |
 | Riverside | 84838 | [84838-riverside.json](./84838-riverside.json) |
 | Riverside Gals | 294099 | [294099-riverside-gals.json](./294099-riverside-gals.json) |
 | Riverside Town | 272102 | [272102-riverside-town.json](./272102-riverside-town.json) |
