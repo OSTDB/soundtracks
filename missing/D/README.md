@@ -1872,16 +1872,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Romance: Ashville | 139798 | [139798-dark-romance-ashville.json](./139798-dark-romance-ashville.json) |
 | Dark Romance: Ashville - Collector's Edition | 132432 | [132432-dark-romance-ashville-collectors-edition.json](./132432-dark-romance-ashville-collectors-edition.json) |
 | Dark Romance: Curse of Bluebeard - Collector's Edition | 146516 | [146516-dark-romance-curse-of-bluebeard-collectors-edition.json](./146516-dark-romance-curse-of-bluebeard-collectors-edition.json) |
+| Dark Romance: Heart of the Beast | 140116 | [140116-dark-romance-heart-of-the-beast.json](./140116-dark-romance-heart-of-the-beast.json) |
 | Dark Romance: Heart of the Beast - Collector's Edition | 95242 | [95242-dark-romance-heart-of-the-beast-collectors-edition.json](./95242-dark-romance-heart-of-the-beast-collectors-edition.json) |
 | Dark Romance: Heart of the Beast HD | 88814 | [88814-dark-romance-heart-of-the-beast-hd.json](./88814-dark-romance-heart-of-the-beast-hd.json) |
+| Dark Romance: Hunchback of Notre-Dame | 140117 | [140117-dark-romance-hunchback-of-notre-dame.json](./140117-dark-romance-hunchback-of-notre-dame.json) |
 | Dark Romance: Hunchback of Notre-Dame - Collector's Edition | 116108 | [116108-dark-romance-hunchback-of-notre-dame-collectors-edition.json](./116108-dark-romance-hunchback-of-notre-dame-collectors-edition.json) |
 | Dark Romance: Kingdom of Death HD | 88810 | [88810-dark-romance-kingdom-of-death-hd.json](./88810-dark-romance-kingdom-of-death-hd.json) |
 | Dark Romance: Monster Within | 101486 | [101486-dark-romance-monster-within.json](./101486-dark-romance-monster-within.json) |
 | Dark Romance: Sleepy Hollow | 181647 | [181647-dark-romance-sleepy-hollow.json](./181647-dark-romance-sleepy-hollow.json) |
 | Dark Romance: Sleepy Hollow - Collector's Edition | 151433 | [151433-dark-romance-sleepy-hollow-collectors-edition.json](./151433-dark-romance-sleepy-hollow-collectors-edition.json) |
+| Dark Romance: The Ethereal Gardens | 140118 | [140118-dark-romance-the-ethereal-gardens.json](./140118-dark-romance-the-ethereal-gardens.json) |
 | Dark Romance: The Ethereal Gardens - Collector's Edition | 123522 | [123522-dark-romance-the-ethereal-gardens-collectors-edition.json](./123522-dark-romance-the-ethereal-gardens-collectors-edition.json) |
+| Dark Romance: The Swan Sonata | 140119 | [140119-dark-romance-the-swan-sonata.json](./140119-dark-romance-the-swan-sonata.json) |
 | Dark Romance: The Swan Sonata - Collector's Edition | 110345 | [110345-dark-romance-the-swan-sonata-collectors-edition.json](./110345-dark-romance-the-swan-sonata-collectors-edition.json) |
 | Dark Romance: The Swan Sonata HD | 88812 | [88812-dark-romance-the-swan-sonata-hd.json](./88812-dark-romance-the-swan-sonata-hd.json) |
+| Dark Romance: Vampire in Love | 140120 | [140120-dark-romance-vampire-in-love.json](./140120-dark-romance-vampire-in-love.json) |
 | Dark Romance: Vampire in Love - Collector's Edition | 52511 | [52511-dark-romance-vampire-in-love-collectors-edition.json](./52511-dark-romance-vampire-in-love-collectors-edition.json) |
 | Dark Romance: Vampire Origins - Collector's Edition | 209716 | [209716-dark-romance-vampire-origins-collectors-edition.json](./209716-dark-romance-vampire-origins-collectors-edition.json) |
 | Dark Room | 129640 | [129640-dark-room.json](./129640-dark-room.json) |
@@ -1981,6 +1986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Stream | 406849 | [406849-dark-stream.json](./406849-dark-stream.json) |
 | Dark Strokes: Sins of the Fathers | 52839 | [52839-dark-strokes-sins-of-the-fathers.json](./52839-dark-strokes-sins-of-the-fathers.json) |
 | Dark Strokes: Sins of the Fathers - Collector's Edition | 52838 | [52838-dark-strokes-sins-of-the-fathers-collectors-edition.json](./52838-dark-strokes-sins-of-the-fathers-collectors-edition.json) |
+| Dark Strokes: The Legend of the Snow Kingdom | 140121 | [140121-dark-strokes-the-legend-of-the-snow-kingdom.json](./140121-dark-strokes-the-legend-of-the-snow-kingdom.json) |
 | Dark Strokes: The Legend of the Snow Kingdom - Collector's Edition | 81726 | [81726-dark-strokes-the-legend-of-the-snow-kingdom-collectors-edition.json](./81726-dark-strokes-the-legend-of-the-snow-kingdom-collectors-edition.json) |
 | Dark Succubus | 417401 | [417401-dark-succubus.json](./417401-dark-succubus.json) |
 | Dark Summit | 3869 | [3869-dark-summit.json](./3869-dark-summit.json) |
@@ -1999,6 +2005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Table CCG | 255869 | [255869-dark-table-ccg.json](./255869-dark-table-ccg.json) |
 | Dark Tales from México: Prelude. Just a Dream... with the Sack Man | 222845 | [222845-dark-tales-from-mexico-prelude-just-a-dream-with-the-sack-man.json](./222845-dark-tales-from-mexico-prelude-just-a-dream-with-the-sack-man.json) |
 | Dark Tales: Edgar Allan Poe's Lenore - Collector's Edition | 370676 | [370676-dark-tales-edgar-allan-poes-lenore-collectors-edition.json](./370676-dark-tales-edgar-allan-poes-lenore-collectors-edition.json) |
+| Dark Tales: Edgar Allan Poe's Ligeia | 140122 | [140122-dark-tales-edgar-allan-poes-ligeia.json](./140122-dark-tales-edgar-allan-poes-ligeia.json) |
 | Dark Tales: Edgar Allan Poe's Ligeia - Collector's Edition | 121318 | [121318-dark-tales-edgar-allan-poes-ligeia-collectors-edition.json](./121318-dark-tales-edgar-allan-poes-ligeia-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's Morella - Collector's Edition | 370677 | [370677-dark-tales-edgar-allan-poes-morella-collectors-edition.json](./370677-dark-tales-edgar-allan-poes-morella-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's Murders in the Rue Morgue | 120626 | [120626-dark-tales-edgar-allan-poes-murders-in-the-rue-morgue.json](./120626-dark-tales-edgar-allan-poes-murders-in-the-rue-morgue.json) |
@@ -2009,7 +2016,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tales: Edgar Allan Poe's The Black Cat | 257823 | [257823-dark-tales-edgar-allan-poes-the-black-cat.json](./257823-dark-tales-edgar-allan-poes-the-black-cat.json) |
 | Dark Tales: Edgar Allan Poe's The Black Cat - Collector's Edition | 201826 | [201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json](./201826-dark-tales-edgar-allan-poes-the-black-cat-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Devil in the Belfry | 153506 | [153506-dark-tales-edgar-allan-poes-the-devil-in-the-belfry.json](./153506-dark-tales-edgar-allan-poes-the-devil-in-the-belfry.json) |
+| Dark Tales: Edgar Allan Poe's The Fall of the House of Usher | 140123 | [140123-dark-tales-edgar-allan-poes-the-fall-of-the-house-of-usher.json](./140123-dark-tales-edgar-allan-poes-the-fall-of-the-house-of-usher.json) |
 | Dark Tales: Edgar Allan Poe's The Fall of the House of Usher - Collector's Edition | 81158 | [81158-dark-tales-edgar-allan-poes-the-fall-of-the-house-of-usher-collectors-edition.json](./81158-dark-tales-edgar-allan-poes-the-fall-of-the-house-of-usher-collectors-edition.json) |
+| Dark Tales: Edgar Allan Poe's The Gold Bug | 140124 | [140124-dark-tales-edgar-allan-poes-the-gold-bug.json](./140124-dark-tales-edgar-allan-poes-the-gold-bug.json) |
 | Dark Tales: Edgar Allan Poe's The Gold Bug - Collector's Edition | 32780 | [32780-dark-tales-edgar-allan-poes-the-gold-bug-collectors-edition.json](./32780-dark-tales-edgar-allan-poes-the-gold-bug-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Masque of the Red Death - Collector's Edition | 31688 | [31688-dark-tales-edgar-allan-poes-the-masque-of-the-red-death-collectors-edition.json](./31688-dark-tales-edgar-allan-poes-the-masque-of-the-red-death-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Mystery of Marie Roget | 68392 | [68392-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget.json](./68392-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget.json) |
@@ -2017,8 +2026,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tales: Edgar Allan Poe's The Mystery of Marie Roget HD | 108964 | [108964-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-hd.json](./108964-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-hd.json) |
 | Dark Tales: Edgar Allan Poe's The Oval Portrait - Collector's Edition | 370681 | [370681-dark-tales-edgar-allan-poes-the-oval-portrait-collectors-edition.json](./370681-dark-tales-edgar-allan-poes-the-oval-portrait-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Pit and the Pendulum - Collector's Edition | 370679 | [370679-dark-tales-edgar-allan-poes-the-pit-and-the-pendulum-collectors-edition.json](./370679-dark-tales-edgar-allan-poes-the-pit-and-the-pendulum-collectors-edition.json) |
+| Dark Tales: Edgar Allan Poe's The Premature Burial | 140125 | [140125-dark-tales-edgar-allan-poes-the-premature-burial.json](./140125-dark-tales-edgar-allan-poes-the-premature-burial.json) |
 | Dark Tales: Edgar Allan Poe's The Premature Burial - Collector's Edition | 115260 | [115260-dark-tales-edgar-allan-poes-the-premature-burial-collectors-edition.json](./115260-dark-tales-edgar-allan-poes-the-premature-burial-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Raven - Collector's Edition | 222282 | [222282-dark-tales-edgar-allan-poes-the-raven-collectors-edition.json](./222282-dark-tales-edgar-allan-poes-the-raven-collectors-edition.json) |
+| Dark Tales: Edgar Allan Poe's The Tell-Tale Heart | 140126 | [140126-dark-tales-edgar-allan-poes-the-tell-tale-heart.json](./140126-dark-tales-edgar-allan-poes-the-tell-tale-heart.json) |
 | Dark Tales: Edgar Allan Poe's The Tell-Tale Heart - Collector's Edition | 105224 | [105224-dark-tales-edgar-allan-poes-the-tell-tale-heart-collectors-edition.json](./105224-dark-tales-edgar-allan-poes-the-tell-tale-heart-collectors-edition.json) |
 | Dark Tales: Lenore | 100642 | [100642-dark-tales-lenore.json](./100642-dark-tales-lenore.json) |
 | Dark Tales: Mirror and Mad Princess | 252034 | [252034-dark-tales-mirror-and-mad-princess.json](./252034-dark-tales-mirror-and-mad-princess.json) |
@@ -3908,10 +3919,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Reckoning: Brassfield Manor - Collector's Edition | 55782 | [55782-dead-reckoning-brassfield-manor-collectors-edition.json](./55782-dead-reckoning-brassfield-manor-collectors-edition.json) |
 | Dead Reckoning: Knowledge | 101957 | [101957-dead-reckoning-knowledge.json](./101957-dead-reckoning-knowledge.json) |
 | Dead Reckoning: Lethal Knowledge | 145298 | [145298-dead-reckoning-lethal-knowledge.json](./145298-dead-reckoning-lethal-knowledge.json) |
+| Dead Reckoning: Silvermoon Isle | 140127 | [140127-dead-reckoning-silvermoon-isle.json](./140127-dead-reckoning-silvermoon-isle.json) |
 | Dead Reckoning: Silvermoon Isle - Collector's Edition | 29616 | [29616-dead-reckoning-silvermoon-isle-collectors-edition.json](./29616-dead-reckoning-silvermoon-isle-collectors-edition.json) |
 | Dead Reckoning: Sleight | 87872 | [87872-dead-reckoning-sleight.json](./87872-dead-reckoning-sleight.json) |
 | Dead Reckoning: Sleight of Murder - Collector's Edition | 418425 | [418425-dead-reckoning-sleight-of-murder-collectors-edition.json](./418425-dead-reckoning-sleight-of-murder-collectors-edition.json) |
 | Dead Reckoning: Snowbird's Creek - Collector's Edition | 418426 | [418426-dead-reckoning-snowbirds-creek-collectors-edition.json](./418426-dead-reckoning-snowbirds-creek-collectors-edition.json) |
+| Dead Reckoning: The Brassfield Manor | 140128 | [140128-dead-reckoning-the-brassfield-manor.json](./140128-dead-reckoning-the-brassfield-manor.json) |
 | Dead Reckoning: The Brassfield Manor - Collector's Edition | 22077 | [22077-dead-reckoning-the-brassfield-manor-collectors-edition.json](./22077-dead-reckoning-the-brassfield-manor-collectors-edition.json) |
 | Dead Reckoning: The Crescent Case | 100050 | [100050-dead-reckoning-the-crescent-case.json](./100050-dead-reckoning-the-crescent-case.json) |
 | Dead Reckoning: The Crescent Case - Collector's Edition | 89944 | [89944-dead-reckoning-the-crescent-case-collectors-edition.json](./89944-dead-reckoning-the-crescent-case-collectors-edition.json) |
@@ -4476,6 +4489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death a Live | 388516 | [388516-death-a-live.json](./388516-death-a-live.json) |
 | Death Again | 185123 | [185123-death-again.json](./185123-death-again.json) |
 | Death Alley | 179681 | [179681-death-alley.json](./179681-death-alley.json) |
+| Death and Betrayal in Romania: A Dana Knightstone Novel | 140129 | [140129-death-and-betrayal-in-romania-a-dana-knightstone-novel.json](./140129-death-and-betrayal-in-romania-a-dana-knightstone-novel.json) |
 | Death and Betrayal in Romania: A Dana Knightstone Novel - Collector's Edition | 107838 | [107838-death-and-betrayal-in-romania-a-dana-knightstone-novel-collectors-edition.json](./107838-death-and-betrayal-in-romania-a-dana-knightstone-novel-collectors-edition.json) |
 | Death and Ladders | 333301 | [333301-death-and-ladders.json](./333301-death-and-ladders.json) |
 | Death and Tactics | 353364 | [353364-death-and-tactics.json](./353364-death-and-tactics.json) |
@@ -7493,6 +7507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desmond's Dungeon | 294474 | [294474-desmonds-dungeon.json](./294474-desmonds-dungeon.json) |
 | Desohunter | 156524 | [156524-desohunter.json](./156524-desohunter.json) |
 | Desolate City: Last Show | 277440 | [277440-desolate-city-last-show.json](./277440-desolate-city-last-show.json) |
+| Desolate City: The Bloody Dawn | 140134 | [140134-desolate-city-the-bloody-dawn.json](./140134-desolate-city-the-bloody-dawn.json) |
 | Desolate City: The Bloody Dawn - Enhanced Edition | 113731 | [113731-desolate-city-the-bloody-dawn-enhanced-edition.json](./113731-desolate-city-the-bloody-dawn-enhanced-edition.json) |
 | Desolate Dusk | 336660 | [336660-desolate-dusk.json](./336660-desolate-dusk.json) |
 | Desolate Echoes | 337666 | [337666-desolate-echoes.json](./337666-desolate-echoes.json) |
@@ -7996,6 +8011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detectiveland | 57516 | [57516-detectiveland.json](./57516-detectiveland.json) |
 | Detectives United II: The Darkest Shrine | 187930 | [187930-detectives-united-ii-the-darkest-shrine.json](./187930-detectives-united-ii-the-darkest-shrine.json) |
 | Detectives United II: The Darkest Shrine - Collector's Edition | 252685 | [252685-detectives-united-ii-the-darkest-shrine-collectors-edition.json](./252685-detectives-united-ii-the-darkest-shrine-collectors-edition.json) |
+| Detectives United III: Timeless Voyage | 140135 | [140135-detectives-united-iii-timeless-voyage.json](./140135-detectives-united-iii-timeless-voyage.json) |
 | Detectives United III: Timeless Voyage - Collector's Edition | 129708 | [129708-detectives-united-iii-timeless-voyage-collectors-edition.json](./129708-detectives-united-iii-timeless-voyage-collectors-edition.json) |
 | Detectives United: Beyond Time - Collector's Edition | 336316 | [336316-detectives-united-beyond-time-collectors-edition.json](./336316-detectives-united-beyond-time-collectors-edition.json) |
 | Detectives United: Deadly Debt - Collector's Edition | 193651 | [193651-detectives-united-deadly-debt-collectors-edition.json](./193651-detectives-united-deadly-debt-collectors-edition.json) |
@@ -14010,6 +14026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Hawk | 45659 | [45659-double-hawk.json](./45659-double-hawk.json) |
 | Double Header: Complete Onside Soccer and Power Slide | 294415 | [294415-double-header-complete-onside-soccer-and-power-slide.json](./294415-double-header-complete-onside-soccer-and-power-slide.json) |
 | Double Hits | 130302 | [130302-double-hits.json](./130302-double-hits.json) |
+| Double Homework | 140108 | [140108-double-homework.json](./140108-double-homework.json) |
 | Double Hooked | 317431 | [317431-double-hooked.json](./317431-double-hooked.json) |
 | Double Impact | 135886 | [135886-double-impact.json](./135886-double-impact.json) |
 | Double Invasion!! | 123811 | [123811-double-invasion.json](./123811-double-invasion.json) |
@@ -16499,6 +16516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreams of Another | 331205 | [331205-dreams-of-another.json](./331205-dreams-of-another.json) |
 | Dreams of Being | 170002 | [170002-dreams-of-being.json](./170002-dreams-of-being.json) |
 | Dreams of Dead | 202249 | [202249-dreams-of-dead.json](./202249-dreams-of-dead.json) |
+| Dreams of Desire | 140110 | [140110-dreams-of-desire.json](./140110-dreams-of-desire.json) |
 | Dreams of Greatness | 51583 | [51583-dreams-of-greatness.json](./51583-dreams-of-greatness.json) |
 | Dreams of Joy Departed | 317581 | [317581-dreams-of-joy-departed.json](./317581-dreams-of-joy-departed.json) |
 | Dreams of Literature: Noir | 334822 | [334822-dreams-of-literature-noir.json](./334822-dreams-of-literature-noir.json) |
