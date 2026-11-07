@@ -17374,6 +17374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Dungeons Heroes | 226744 | [226744-creepy-dungeons-heroes.json](./226744-creepy-dungeons-heroes.json) |
 | Creepy Fishing | 370740 | [370740-creepy-fishing.json](./370740-creepy-fishing.json) |
 | Creepy Forest | 224613 | [224613-creepy-forest.json](./224613-creepy-forest.json) |
+| Creepy Girls | 156764 | [156764-creepy-girls.json](./156764-creepy-girls.json) |
 | Creepy Halloween Differences | 234172 | [234172-creepy-halloween-differences.json](./234172-creepy-halloween-differences.json) |
 | Creepy Mahjong | 179284 | [179284-creepy-mahjong.json](./179284-creepy-mahjong.json) |
 | Creepy Nights at Freddy's | 241729 | [241729-creepy-nights-at-freddys.json](./241729-creepy-nights-at-freddys.json) |
