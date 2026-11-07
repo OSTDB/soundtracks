@@ -1906,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kero Kero Keroppi: Uki Uki Party Land | 270162 | [270162-kero-kero-keroppi-uki-uki-party-land.json](./270162-kero-kero-keroppi-uki-uki-party-land.json) |
 | Kero Kero King | 54969 | [54969-kero-kero-king.json](./54969-kero-kero-king.json) |
 | Kero Quest 64 | 326620 | [326620-kero-quest-64.json](./326620-kero-quest-64.json) |
+| Kero-Go! | 151878 | [151878-kero-go.json](./151878-kero-go.json) |
 | Kerogen | 399667 | [399667-kerogen.json](./399667-kerogen.json) |
 | Keroppi to Keroriinu no Splash Bomb! | 48441 | [48441-keroppi-to-keroriinu-no-splash-bomb.json](./48441-keroppi-to-keroriinu-no-splash-bomb.json) |
 | Keroro Gunsou Taiketsu! Keroro Cart de Arimasu!! | 49646 | [49646-keroro-gunsou-taiketsu-keroro-cart-de-arimasu.json](./49646-keroro-gunsou-taiketsu-keroro-cart-de-arimasu.json) |
