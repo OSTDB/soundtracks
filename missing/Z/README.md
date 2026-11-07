@@ -1860,6 +1860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Shooting Star | 209713 | [209713-zombie-shooting-star.json](./209713-zombie-shooting-star.json) |
 | Zombie Shooting Star: Arcade | 227758 | [227758-zombie-shooting-star-arcade.json](./227758-zombie-shooting-star-arcade.json) |
 | Zombie Shot | 285581 | [285581-zombie-shot.json](./285581-zombie-shot.json) |
+| Zombie Shotgun Rampage | 188743 | [188743-zombie-shotgun-rampage.json](./188743-zombie-shotgun-rampage.json) |
 | Zombie Siege | 420653 | [420653-zombie-siege.json](./420653-zombie-siege.json) |
 | Zombie Siege City | 337750 | [337750-zombie-siege-city.json](./337750-zombie-siege-city.json) |
 | Zombie Simulator | 150278 | [150278-zombie-simulator.json](./150278-zombie-simulator.json) |
