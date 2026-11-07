@@ -4497,6 +4497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Category Challenge | 246955 | [246955-category-challenge.json](./246955-category-challenge.json) |
 | Category I: Shisenjou no Survivor | 218981 | [218981-category-i-shisenjou-no-survivor.json](./218981-category-i-shisenjou-no-survivor.json) |
 | Category I: Shisenjou no Survivor | 221682 | [221682-category-i-shisenjou-no-survivor.json](./221682-category-i-shisenjou-no-survivor.json) |
+| Catellite-609: Feline Space Adventure | 189788 | [189788-catellite-609-feline-space-adventure.json](./189788-catellite-609-feline-space-adventure.json) |
 | Catellite-609: Feline Space Adventure - Mysterious Sphere | 219224 | [219224-catellite-609-feline-space-adventure-mysterious-sphere.json](./219224-catellite-609-feline-space-adventure-mysterious-sphere.json) |
 | Caten Village | 392313 | [392313-caten-village.json](./392313-caten-village.json) |
 | Catena | 342033 | [342033-catena.json](./342033-catena.json) |
@@ -10076,6 +10077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clea | 112617 | [112617-clea.json](./112617-clea.json) |
 | Clean Adventure | 185273 | [185273-clean-adventure.json](./185273-clean-adventure.json) |
 | Clean and Bridge | 233425 | [233425-clean-and-bridge.json](./233425-clean-and-bridge.json) |
+| Clean Art | 189792 | [189792-clean-art.json](./189792-clean-art.json) |
 | Clean Asia! | 92811 | [92811-clean-asia.json](./92811-clean-asia.json) |
 | Clean Attack! | 135025 | [135025-clean-attack.json](./135025-clean-attack.json) |
 | Clean Break | 360469 | [360469-clean-break.json](./360469-clean-break.json) |
