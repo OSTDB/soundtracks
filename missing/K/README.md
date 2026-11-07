@@ -2855,7 +2855,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3801,6 +3800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kipidon: We Will Always Love You | 337455 | [337455-kipidon-we-will-always-love-you.json](./337455-kipidon-we-will-always-love-you.json) |
 | KIPP: Untouched | 225632 | [225632-kipp-untouched.json](./225632-kipp-untouched.json) |
 | Kipper no Eigo Kyoushitsu: Floppy's Phonics Vol. 1 - Kipper-Hen | 140933 | [140933-kipper-no-eigo-kyoushitsu-floppys-phonics-vol-1-kipper-hen.json](./140933-kipper-no-eigo-kyoushitsu-floppys-phonics-vol-1-kipper-hen.json) |
+| Kipper no Eigo Kyoushitsu: Floppy's Phonics Vol. 2 | 139568 | [139568-kipper-no-eigo-kyoushitsu-floppys-phonics-vol-2.json](./139568-kipper-no-eigo-kyoushitsu-floppys-phonics-vol-2.json) |
 | Kipper no Eigo Kyoushitsu: Floppy's Phonics Vol. 3 - Chip-Hen | 140932 | [140932-kipper-no-eigo-kyoushitsu-floppys-phonics-vol-3-chip-hen.json](./140932-kipper-no-eigo-kyoushitsu-floppys-phonics-vol-3-chip-hen.json) |
 | Kira | 29151 | [29151-kira.json](./29151-kira.json) |
 | Kira and the Life Stone | 170901 | [170901-kira-and-the-life-stone.json](./170901-kira-and-the-life-stone.json) |
@@ -4338,6 +4338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klasztor: Das Kloster | 398813 | [398813-klasztor-das-kloster.json](./398813-klasztor-das-kloster.json) |
 | Klątwa | 78573 | [78573-klatwa.json](./78573-klatwa.json) |
 | Klaus | 15488 | [15488-klaus.json](./15488-klaus.json) |
+| Klaus Lee Thunder in Down Under | 139567 | [139567-klaus-lee-thunder-in-down-under.json](./139567-klaus-lee-thunder-in-down-under.json) |
 | Klaus Lee: Thunderballs | 193201 | [193201-klaus-lee-thunderballs.json](./193201-klaus-lee-thunderballs.json) |
 | Klavia | 343315 | [343315-klavia.json](./343315-klavia.json) |
 | Klaws | 382877 | [382877-klaws.json](./382877-klaws.json) |
