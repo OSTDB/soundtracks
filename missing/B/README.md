@@ -970,7 +970,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3711,6 +3710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle For Embolia | 123390 | [123390-battle-for-embolia.json](./123390-battle-for-embolia.json) |
 | Battle For Embolia | 380016 | [380016-battle-for-embolia.json](./380016-battle-for-embolia.json) |
 | Battle for Ercaton: Robot Uprising | 291437 | [291437-battle-for-ercaton-robot-uprising.json](./291437-battle-for-ercaton-robot-uprising.json) |
+| Battle for Esturia | 157812 | [157812-battle-for-esturia.json](./157812-battle-for-esturia.json) |
 | Battle for Gaming | 110081 | [110081-battle-for-gaming.json](./110081-battle-for-gaming.json) |
 | Battle for Graxia | 50814 | [50814-battle-for-graxia.json](./50814-battle-for-graxia.json) |
 | Battle For It All | 87192 | [87192-battle-for-it-all.json](./87192-battle-for-it-all.json) |
