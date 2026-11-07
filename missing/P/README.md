@@ -14854,6 +14854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prison Life RPG | 59736 | [59736-prison-life-rpg.json](./59736-prison-life-rpg.json) |
 | Prison Life Simulator 2022: World Fight Battle GTA Ultimate | 204875 | [204875-prison-life-simulator-2022-world-fight-battle-gta-ultimate.json](./204875-prison-life-simulator-2022-world-fight-battle-gta-ultimate.json) |
 | Prison Life Simulator Jail: Glove Pack Expansion | 317676 | [317676-prison-life-simulator-jail-glove-pack-expansion.json](./317676-prison-life-simulator-jail-glove-pack-expansion.json) |
+| Prison Life Simulator: The Legend of Navalny | 190268 | [190268-prison-life-simulator-the-legend-of-navalny.json](./190268-prison-life-simulator-the-legend-of-navalny.json) |
 | Prison Life: Idle Game | 408750 | [408750-prison-life-idle-game.json](./408750-prison-life-idle-game.json) |
 | Prison Loop | 300350 | [300350-prison-loop.json](./300350-prison-loop.json) |
 | Prison Manager 2 | 194002 | [194002-prison-manager-2.json](./194002-prison-manager-2.json) |
@@ -17387,6 +17388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pump It Up Zero | 316095 | [316095-pump-it-up-zero.json](./316095-pump-it-up-zero.json) |
 | Pump It Up: Exceed | 43313 | [43313-pump-it-up-exceed.json](./43313-pump-it-up-exceed.json) |
 | Pump It Up: Exceed Portable | 60087 | [60087-pump-it-up-exceed-portable.json](./60087-pump-it-up-exceed-portable.json) |
+| Pump King | 190284 | [190284-pump-king.json](./190284-pump-king.json) |
 | Pump Press | 277299 | [277299-pump-press.json](./277299-pump-press.json) |
 | Pump-Action Captain | 35053 | [35053-pump-action-captain.json](./35053-pump-action-captain.json) |
 | Pumped BMX 2 | 59751 | [59751-pumped-bmx-2.json](./59751-pumped-bmx-2.json) |
@@ -17944,6 +17946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pushcat | 17562 | [17562-pushcat.json](./17562-pushcat.json) |
 | Pushed a 'Bot! | 369026 | [369026-pushed-a-bot.json](./369026-pushed-a-bot.json) |
 | Pusheen's Place | 417166 | [417166-pusheens-place.json](./417166-pusheens-place.json) |
+| Pusheep | 190283 | [190283-pusheep.json](./190283-pusheep.json) |
 | Pusher | 193439 | [193439-pusher.json](./193439-pusher.json) |
 | Pusher | 54276 | [54276-pusher.json](./54276-pusher.json) |
 | Pusher: Drug Tycoon | 259167 | [259167-pusher-drug-tycoon.json](./259167-pusher-drug-tycoon.json) |
