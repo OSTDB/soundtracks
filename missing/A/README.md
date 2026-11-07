@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Story In Space | 158612 | [158612-a-story-in-space.json](./158612-a-story-in-space.json) |
 | A Story of a Band | 103227 | [103227-a-story-of-a-band.json](./103227-a-story-of-a-band.json) |
 | A Story of Distress | 86606 | [86606-a-story-of-distress.json](./86606-a-story-of-distress.json) |
+| A Story of Merchant | 172294 | [172294-a-story-of-merchant.json](./172294-a-story-of-merchant.json) |
 | A Story of Paradise Lost | 276040 | [276040-a-story-of-paradise-lost.json](./276040-a-story-of-paradise-lost.json) |
 | A Story of Questions | 348271 | [348271-a-story-of-questions.json](./348271-a-story-of-questions.json) |
 | A Story of the End: Revere | 57152 | [57152-a-story-of-the-end-revere.json](./57152-a-story-of-the-end-revere.json) |
@@ -2447,6 +2448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Academy of Drift | 268336 | [268336-academy-of-drift.json](./268336-academy-of-drift.json) |
 | Academy of Magic: A New Beginning | 365802 | [365802-academy-of-magic-a-new-beginning.json](./365802-academy-of-magic-a-new-beginning.json) |
 | Academy of Magic: Dark Possession | 153877 | [153877-academy-of-magic-dark-possession.json](./153877-academy-of-magic-dark-possession.json) |
+| Academy of Magic: Lair of the Beast | 172263 | [172263-academy-of-magic-lair-of-the-beast.json](./172263-academy-of-magic-lair-of-the-beast.json) |
 | Academy of Magic: Ring of Darkness | 329302 | [329302-academy-of-magic-ring-of-darkness.json](./329302-academy-of-magic-ring-of-darkness.json) |
 | Academy of Magic: The Great Dark Wizard's Curse | 190304 | [190304-academy-of-magic-the-great-dark-wizards-curse.json](./190304-academy-of-magic-the-great-dark-wizards-curse.json) |
 | Academy Quest | 193248 | [193248-academy-quest.json](./193248-academy-quest.json) |
@@ -3932,6 +3934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeon Wars Rogue | 223483 | [223483-aeon-wars-rogue.json](./223483-aeon-wars-rogue.json) |
 | Aeon's End | 119854 | [119854-aeons-end.json](./119854-aeons-end.json) |
 | Aeon's End: The Depths | 148507 | [148507-aeons-end-the-depths.json](./148507-aeons-end-the-depths.json) |
+| Aeon's End: The Nameless | 172300 | [172300-aeons-end-the-nameless.json](./172300-aeons-end-the-nameless.json) |
 | Aeon's End: The New Age | 193138 | [193138-aeons-end-the-new-age.json](./193138-aeons-end-the-new-age.json) |
 | Aeonfall | 415912 | [415912-aeonfall.json](./415912-aeonfall.json) |
 | Aeonic | 330486 | [330486-aeonic.json](./330486-aeonic.json) |
@@ -8851,6 +8854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amnesia: Rebirth | 131785 | [131785-amnesia-rebirth.json](./131785-amnesia-rebirth.json) |
 | Amnesia: The Great Work | 196001 | [196001-amnesia-the-great-work.json](./196001-amnesia-the-great-work.json) |
 | Amnios | 14254 | [14254-amnios.json](./14254-amnios.json) |
+| Amnon's Beginning | 172266 | [172266-amnons-beginning.json](./172266-amnons-beginning.json) |
 | Amnork | 62239 | [62239-amnork.json](./62239-amnork.json) |
 | Amnyam | 345280 | [345280-amnyam.json](./345280-amnyam.json) |
 | Amo | 293087 | [293087-amo.json](./293087-amo.json) |
@@ -14904,6 +14908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascendrix | 326005 | [326005-ascendrix.json](./326005-ascendrix.json) |
 | Ascendshaft | 214060 | [214060-ascendshaft.json](./214060-ascendshaft.json) |
 | Ascendshaft and Endless Shaft | 144174 | [144174-ascendshaft-and-endless-shaft.json](./144174-ascendshaft-and-endless-shaft.json) |
+| Ascendum | 172290 | [172290-ascendum.json](./172290-ascendum.json) |
 | Ascension | 247838 | [247838-ascension.json](./247838-ascension.json) |
 | Ascension | 349051 | [349051-ascension.json](./349051-ascension.json) |
 | Ascension | 387441 | [387441-ascension.json](./387441-ascension.json) |
@@ -16774,7 +16779,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
