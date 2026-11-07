@@ -5672,6 +5672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airmen | 37402 | [37402-airmen.json](./37402-airmen.json) |
 | Aironauts | 43750 | [43750-aironauts.json](./43750-aironauts.json) |
 | AironBall: The Floating Lands | 44225 | [44225-aironball-the-floating-lands.json](./44225-aironball-the-floating-lands.json) |
+| Airplane | 176572 | [176572-airplane.json](./176572-airplane.json) |
 | Airplane | 303327 | [303327-airplane.json](./303327-airplane.json) |
 | Airplane Arena | 192509 | [192509-airplane-arena.json](./192509-airplane-arena.json) |
 | Airplane Attack | 358847 | [358847-airplane-attack.json](./358847-airplane-attack.json) |
@@ -8940,6 +8941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amour Libre: Free Love | 129794 | [129794-amour-libre-free-love.json](./129794-amour-libre-free-love.json) |
 | AmourVortex | 83846 | [83846-amourvortex.json](./83846-amourvortex.json) |
 | Amp | 266577 | [266577-amp.json](./266577-amp.json) |
+| Amp! | 176563 | [176563-amp.json](./176563-amp.json) |
 | Amparito: En Busca del Nabo Dorado | 366987 | [366987-amparito-en-busca-del-nabo-dorado.json](./366987-amparito-en-busca-del-nabo-dorado.json) |
 | Amped 2 | 5725 | [5725-amped-2.json](./5725-amped-2.json) |
 | Amped 3 | 5483 | [5483-amped-3.json](./5483-amped-3.json) |
@@ -11100,6 +11102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anthèse | 371591 | [371591-anthese.json](./371591-anthese.json) |
 | Anthesis | 83146 | [83146-anthesis.json](./83146-anthesis.json) |
 | Anthill | 179919 | [179919-anthill.json](./179919-anthill.json) |
+| Anthill Conquer | 176562 | [176562-anthill-conquer.json](./176562-anthill-conquer.json) |
 | Anthill Village | 343048 | [343048-anthill-village.json](./343048-anthill-village.json) |
 | Anthology | 38204 | [38204-anthology.json](./38204-anthology.json) |
 | Anthology of Fear | 120686 | [120686-anthology-of-fear.json](./120686-anthology-of-fear.json) |
@@ -16755,6 +16758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
