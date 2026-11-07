@@ -2148,6 +2148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DarkHill: Book of Shadow | 97214 | [97214-darkhill-book-of-shadow.json](./97214-darkhill-book-of-shadow.json) |
 | Darkhorn: Realm of the Warlords | 36696 | [36696-darkhorn-realm-of-the-warlords.json](./36696-darkhorn-realm-of-the-warlords.json) |
 | DarkHospital | 285009 | [285009-darkhospital.json](./285009-darkhospital.json) |
+| DarkHouse | 189237 | [189237-darkhouse.json](./189237-darkhouse.json) |
 | DarkHouse | 371887 | [371887-darkhouse.json](./371887-darkhouse.json) |
 | Darkilson | 149480 | [149480-darkilson.json](./149480-darkilson.json) |
 | Darkion | 212813 | [212813-darkion.json](./212813-darkion.json) |
@@ -5244,6 +5245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Fear | 46057 | [46057-deep-fear.json](./46057-deep-fear.json) |
 | Deep Fighter | 8230 | [8230-deep-fighter.json](./8230-deep-fighter.json) |
 | Deep Fishing | 188091 | [188091-deep-fishing.json](./188091-deep-fishing.json) |
+| Deep Fog | 189267 | [189267-deep-fog.json](./189267-deep-fog.json) |
 | Deep Forest | 131770 | [131770-deep-forest.json](./131770-deep-forest.json) |
 | Deep Forest | 41780 | [41780-deep-forest.json](./41780-deep-forest.json) |
 | Deep Forest Chapter 2 | 362931 | [362931-deep-forest-chapter-2.json](./362931-deep-forest-chapter-2.json) |
@@ -15925,6 +15927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Life | 206922 | [206922-dream-life.json](./206922-dream-life.json) |
 | Dream Life in the Country Side | 333010 | [333010-dream-life-in-the-country-side.json](./333010-dream-life-in-the-country-side.json) |
 | Dream Logic | 214119 | [214119-dream-logic.json](./214119-dream-logic.json) |
+| Dream Loop | 189247 | [189247-dream-loop.json](./189247-dream-loop.json) |
 | Dream Loser | 399263 | [399263-dream-loser.json](./399263-dream-loser.json) |
 | Dream Machine: The Game | 57434 | [57434-dream-machine-the-game.json](./57434-dream-machine-the-game.json) |
 | Dream Magic Will | 207272 | [207272-dream-magic-will.json](./207272-dream-magic-will.json) |
@@ -18123,6 +18126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Kitty | 107832 | [107832-dungeon-kitty.json](./107832-dungeon-kitty.json) |
 | Dungeon Knight | 218680 | [218680-dungeon-knight.json](./218680-dungeon-knight.json) |
 | Dungeon Knight | 252600 | [252600-dungeon-knight.json](./252600-dungeon-knight.json) |
+| Dungeon Lad | 189269 | [189269-dungeon-lad.json](./189269-dungeon-lad.json) |
 | Dungeon Land | 66059 | [66059-dungeon-land.json](./66059-dungeon-land.json) |
 | Dungeon Legend | 242491 | [242491-dungeon-legend.json](./242491-dungeon-legend.json) |
 | Dungeon Legend Party | 348373 | [348373-dungeon-legend-party.json](./348373-dungeon-legend-party.json) |
