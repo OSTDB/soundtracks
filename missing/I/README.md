@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Coin | 388739 | [388739-i-am-coin.json](./388739-i-am-coin.json) |
 | I Am Data | 121538 | [121538-i-am-data.json](./121538-i-am-data.json) |
 | I am Dave | 255716 | [255716-i-am-dave.json](./255716-i-am-dave.json) |
+| I am dead where are my keys | 185209 | [185209-i-am-dead-where-are-my-keys.json](./185209-i-am-dead-where-are-my-keys.json) |
 | I am Dictator | 149911 | [149911-i-am-dictator.json](./149911-i-am-dictator.json) |
 | I Am Die | 217381 | [217381-i-am-die.json](./217381-i-am-die.json) |
 | I Am Dog | 296918 | [296918-i-am-dog.json](./296918-i-am-dog.json) |
@@ -3557,6 +3558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infamous 18 | 378396 | [378396-infamous-18.json](./378396-infamous-18.json) |
 | Infamous 2: Hero Edition | 139698 | [139698-infamous-2-hero-edition.json](./139698-infamous-2-hero-edition.json) |
 | Infamous Collection | 23828 | [23828-infamous-collection.json](./23828-infamous-collection.json) |
+| Infamous Duck Ball | 185198 | [185198-infamous-duck-ball.json](./185198-infamous-duck-ball.json) |
 | Infamous Keepers | 398591 | [398591-infamous-keepers.json](./398591-infamous-keepers.json) |
 | Infamous Machine | 99896 | [99896-infamous-machine.json](./99896-infamous-machine.json) |
 | Infamous PC | 424593 | [424593-infamous-pc.json](./424593-infamous-pc.json) |
@@ -3877,7 +3879,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
