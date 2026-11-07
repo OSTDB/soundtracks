@@ -5996,7 +5996,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8851,6 +8850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories of a Vagabond | 17534 | [17534-memories-of-a-vagabond.json](./17534-memories-of-a-vagabond.json) |
 | Memories of Bust | 303796 | [303796-memories-of-bust.json](./303796-memories-of-bust.json) |
 | Memories of Castlemouse | 346793 | [346793-memories-of-castlemouse.json](./346793-memories-of-castlemouse.json) |
+| Memories of East Coast | 145135 | [145135-memories-of-east-coast.json](./145135-memories-of-east-coast.json) |
 | Memories of Fireflies | 139596 | [139596-memories-of-fireflies.json](./139596-memories-of-fireflies.json) |
 | Memories of Home | 51568 | [51568-memories-of-home.json](./51568-memories-of-home.json) |
 | Memories of Hyrule | 381769 | [381769-memories-of-hyrule.json](./381769-memories-of-hyrule.json) |
@@ -10584,6 +10584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey Mania: The Timeless Adventures of Mickey Mouse | 256366 | [256366-mickey-mania-the-timeless-adventures-of-mickey-mouse.json](./256366-mickey-mania-the-timeless-adventures-of-mickey-mouse.json) |
 | Mickey Mania: The Timeless Adventures of Mickey Mouse | 256367 | [256367-mickey-mania-the-timeless-adventures-of-mickey-mouse.json](./256367-mickey-mania-the-timeless-adventures-of-mickey-mouse.json) |
 | Mickey Mauser: The Wrath of the Rat | 324150 | [324150-mickey-mauser-the-wrath-of-the-rat.json](./324150-mickey-mauser-the-wrath-of-the-rat.json) |
+| Mickey Mouse | 145162 | [145162-mickey-mouse.json](./145162-mickey-mouse.json) |
 | Mickey Mouse | 153449 | [153449-mickey-mouse.json](./153449-mickey-mouse.json) |
 | Mickey Mouse | 175636 | [175636-mickey-mouse.json](./175636-mickey-mouse.json) |
 | Mickey Mouse | 198817 | [198817-mickey-mouse.json](./198817-mickey-mouse.json) |
@@ -12327,6 +12328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindnight | 52260 | [52260-mindnight.json](./52260-mindnight.json) |
 | Mindread | 293992 | [293992-mindread.json](./293992-mindread.json) |
 | MindRover: The Europa Project | 73569 | [73569-mindrover-the-europa-project.json](./73569-mindrover-the-europa-project.json) |
+| Minds and Mystery 5 | 145141 | [145141-minds-and-mystery-5.json](./145141-minds-and-mystery-5.json) |
 | Minds Define Us | 414511 | [414511-minds-define-us.json](./414511-minds-define-us.json) |
 | Minds of Nations | 128985 | [128985-minds-of-nations.json](./128985-minds-of-nations.json) |
 | Mindscape | 185293 | [185293-mindscape.json](./185293-mindscape.json) |
@@ -15341,6 +15343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monarch: The Tainted Kingdom | 410962 | [410962-monarch-the-tainted-kingdom.json](./410962-monarch-the-tainted-kingdom.json) |
 | Monarchies.io | 183415 | [183415-monarchies-io.json](./183415-monarchies-io.json) |
 | Monarchs at Play | 381206 | [381206-monarchs-at-play.json](./381206-monarchs-at-play.json) |
+| Monarchs Dawn | 145146 | [145146-monarchs-dawn.json](./145146-monarchs-dawn.json) |
 | Monari Station | 395567 | [395567-monari-station.json](./395567-monari-station.json) |
 | Monark | 151159 | [151159-monark.json](./151159-monark.json) |
 | Monark: Deluxe Edition | 153017 | [153017-monark-deluxe-edition.json](./153017-monark-deluxe-edition.json) |
@@ -22092,6 +22095,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Phantoms: Ghostly Secrets | 416489 | [416489-mystery-phantoms-ghostly-secrets.json](./416489-mystery-phantoms-ghostly-secrets.json) |
 | Mystery Phantoms: Ghostly Secrets - Collector's Edition | 413147 | [413147-mystery-phantoms-ghostly-secrets-collectors-edition.json](./413147-mystery-phantoms-ghostly-secrets-collectors-edition.json) |
 | Mystery PI: The Vegas Heist | 28976 | [28976-mystery-pi-the-vegas-heist.json](./28976-mystery-pi-the-vegas-heist.json) |
+| Mystery Place: The Secret of Hildegards | 145120 | [145120-mystery-place-the-secret-of-hildegards.json](./145120-mystery-place-the-secret-of-hildegards.json) |
+| Mystery Places: The Curse of Midnight Manor | 145117 | [145117-mystery-places-the-curse-of-midnight-manor.json](./145117-mystery-places-the-curse-of-midnight-manor.json) |
+| Mystery Places: The Town with no Name | 145118 | [145118-mystery-places-the-town-with-no-name.json](./145118-mystery-places-the-town-with-no-name.json) |
 | Mystery Quest | 369818 | [369818-mystery-quest.json](./369818-mystery-quest.json) |
 | Mystery Quest | 48195 | [48195-mystery-quest.json](./48195-mystery-quest.json) |
 | Mystery Quest: Curse of the Ancient Spirits | 65918 | [65918-mystery-quest-curse-of-the-ancient-spirits.json](./65918-mystery-quest-curse-of-the-ancient-spirits.json) |
@@ -22243,6 +22249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Gals | 304826 | [304826-mystic-gals.json](./304826-mystic-gals.json) |
 | Mystic Garden | 175519 | [175519-mystic-garden.json](./175519-mystic-garden.json) |
 | Mystic Gate | 212005 | [212005-mystic-gate.json](./212005-mystic-gate.json) |
+| Mystic Gateways: The Celestial Quest Hidden Object | 145143 | [145143-mystic-gateways-the-celestial-quest-hidden-object.json](./145143-mystic-gateways-the-celestial-quest-hidden-object.json) |
 | Mystic Guardian | 129611 | [129611-mystic-guardian.json](./129611-mystic-guardian.json) |
 | Mystic Guardians Slide | 295368 | [295368-mystic-guardians-slide.json](./295368-mystic-guardians-slide.json) |
 | Mystic Gunner | 175351 | [175351-mystic-gunner.json](./175351-mystic-gunner.json) |
@@ -22256,6 +22263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Kingdoms | 328456 | [328456-mystic-kingdoms.json](./328456-mystic-kingdoms.json) |
 | Mystic Labyrinth | 295408 | [295408-mystic-labyrinth.json](./295408-mystic-labyrinth.json) |
 | Mystic Land: The search for Maphaldo | 270967 | [270967-mystic-land-the-search-for-maphaldo.json](./270967-mystic-land-the-search-for-maphaldo.json) |
+| Mystic Legacy : The Great Ring | 145114 | [145114-mystic-legacy-the-great-ring.json](./145114-mystic-legacy-the-great-ring.json) |
 | Mystic Marathon | 38579 | [38579-mystic-marathon.json](./38579-mystic-marathon.json) |
 | Mystic Mayhem | 64647 | [64647-mystic-mayhem.json](./64647-mystic-mayhem.json) |
 | Mystic Mayhem Unleashed | 121398 | [121398-mystic-mayhem-unleashed.json](./121398-mystic-mayhem-unleashed.json) |
