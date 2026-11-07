@@ -3393,6 +3393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles SNES | 377744 | [377744-teenage-mutant-ninja-turtles-snes.json](./377744-teenage-mutant-ninja-turtles-snes.json) |
 | Teenage Mutant Ninja Turtles VS Power Rangers: Ultimate Hero Clash! | 58455 | [58455-teenage-mutant-ninja-turtles-vs-power-rangers-ultimate-hero-clash.json](./58455-teenage-mutant-ninja-turtles-vs-power-rangers-ultimate-hero-clash.json) |
 | Teenage Mutant Ninja Turtles x Hello Kitty and Friends | 362718 | [362718-teenage-mutant-ninja-turtles-x-hello-kitty-and-friends.json](./362718-teenage-mutant-ninja-turtles-x-hello-kitty-and-friends.json) |
+| Teenage Mutant Ninja Turtles X Justice League Turbo | 176027 | [176027-teenage-mutant-ninja-turtles-x-justice-league-turbo.json](./176027-teenage-mutant-ninja-turtles-x-justice-league-turbo.json) |
 | Teenage Mutant Ninja Turtles: Arcade Attack | 21156 | [21156-teenage-mutant-ninja-turtles-arcade-attack.json](./21156-teenage-mutant-ninja-turtles-arcade-attack.json) |
 | Teenage Mutant Ninja Turtles: Battle Match | 59375 | [59375-teenage-mutant-ninja-turtles-battle-match.json](./59375-teenage-mutant-ninja-turtles-battle-match.json) |
 | Teenage Mutant Ninja Turtles: Battle of the City | 146105 | [146105-teenage-mutant-ninja-turtles-battle-of-the-city.json](./146105-teenage-mutant-ninja-turtles-battle-of-the-city.json) |
@@ -9083,6 +9084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Evil Within: The Executioner | 21592 | [21592-the-evil-within-the-executioner.json](./21592-the-evil-within-the-executioner.json) |
 | The Evil's Nest | 362009 | [362009-the-evils-nest.json](./362009-the-evils-nest.json) |
 | The Evilslayer Maiden | 82639 | [82639-the-evilslayer-maiden.json](./82639-the-evilslayer-maiden.json) |
+| The Evolution of Trust | 176068 | [176068-the-evolution-of-trust.json](./176068-the-evolution-of-trust.json) |
 | The Evolving Forest | 252891 | [252891-the-evolving-forest.json](./252891-the-evolving-forest.json) |
 | The exact moment | 144790 | [144790-the-exact-moment.json](./144790-the-exact-moment.json) |
 | The Exaggerated Epoch of Edward O'Hare | 147378 | [147378-the-exaggerated-epoch-of-edward-ohare.json](./147378-the-exaggerated-epoch-of-edward-ohare.json) |
@@ -9241,6 +9243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fall of Magic Castle | 378368 | [378368-the-fall-of-magic-castle.json](./378368-the-fall-of-magic-castle.json) |
 | The Fall of Nemesis: Clash of the Kaijujin | 62681 | [62681-the-fall-of-nemesis-clash-of-the-kaijujin.json](./62681-the-fall-of-nemesis-clash-of-the-kaijujin.json) |
 | The Fall of Porcupine: Last Days of Summer | 257281 | [257281-the-fall-of-porcupine-last-days-of-summer.json](./257281-the-fall-of-porcupine-last-days-of-summer.json) |
+| The Fall of Prometheus | 176029 | [176029-the-fall-of-prometheus.json](./176029-the-fall-of-prometheus.json) |
 | The Fall Of Rallys Factory: Episode 1- The Fallen Hopes | 179402 | [179402-the-fall-of-rallys-factory-episode-1-the-fallen-hopes.json](./179402-the-fall-of-rallys-factory-episode-1-the-fallen-hopes.json) |
 | The Fall of Rallys Factory: Episode 2 - It's for Science | 186347 | [186347-the-fall-of-rallys-factory-episode-2-its-for-science.json](./186347-the-fall-of-rallys-factory-episode-2-its-for-science.json) |
 | The Fall of Rome | 262401 | [262401-the-fall-of-rome.json](./262401-the-fall-of-rome.json) |
@@ -17356,6 +17359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sun Shines Over Us | 267022 | [267022-the-sun-shines-over-us.json](./267022-the-sun-shines-over-us.json) |
 | The Sun Will Rise | 31833 | [31833-the-sun-will-rise.json](./31833-the-sun-will-rise.json) |
 | The Sun Will Rise Again | 183413 | [183413-the-sun-will-rise-again.json](./183413-the-sun-will-rise-again.json) |
+| The Sun Will Set | 176023 | [176023-the-sun-will-set.json](./176023-the-sun-will-set.json) |
 | The Sun: Evaluation | 174761 | [174761-the-sun-evaluation.json](./174761-the-sun-evaluation.json) |
 | The Sun: Key Of Heaven | 300645 | [300645-the-sun-key-of-heaven.json](./300645-the-sun-key-of-heaven.json) |
 | The Sun: Origin | 102763 | [102763-the-sun-origin.json](./102763-the-sun-origin.json) |
@@ -18835,6 +18839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ward | 70348 | [70348-the-ward.json](./70348-the-ward.json) |
 | The Warden | 271533 | [271533-the-warden.json](./271533-the-warden.json) |
 | The Warden | 34149 | [34149-the-warden.json](./34149-the-warden.json) |
+| The Warden Game | 176077 | [176077-the-warden-game.json](./176077-the-warden-game.json) |
 | The Warden's Paradise | 289951 | [289951-the-wardens-paradise.json](./289951-the-wardens-paradise.json) |
 | The Wardrobe | 22818 | [22818-the-wardrobe.json](./22818-the-wardrobe.json) |
 | The Wardrobe: Even Better Edition | 119400 | [119400-the-wardrobe-even-better-edition.json](./119400-the-wardrobe-even-better-edition.json) |
@@ -19159,6 +19164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witches' Tea Party | 51383 | [51383-the-witches-tea-party.json](./51383-the-witches-tea-party.json) |
 | The Witches' Whisk | 304257 | [304257-the-witches-whisk.json](./304257-the-witches-whisk.json) |
 | The Witching Hour | 394223 | [394223-the-witching-hour.json](./394223-the-witching-hour.json) |
+| The Witchling Marjolaine | 176025 | [176025-the-witchling-marjolaine.json](./176025-the-witchling-marjolaine.json) |
 | The Witchmade Shop | 189865 | [189865-the-witchmade-shop.json](./189865-the-witchmade-shop.json) |
 | The Withering | 33907 | [33907-the-withering.json](./33907-the-withering.json) |
 | The Witness | 7425 | [7425-the-witness.json](./7425-the-witness.json) |
@@ -33711,6 +33717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyto Online | 30789 | [30789-tyto-online.json](./30789-tyto-online.json) |
 | Tz Mini Stg Collection | 376417 | [376417-tz-mini-stg-collection.json](./376417-tz-mini-stg-collection.json) |
 | Tzakol in Exile | 189112 | [189112-tzakol-in-exile.json](./189112-tzakol-in-exile.json) |
+| Tzar: Gold Edition | 176020 | [176020-tzar-gold-edition.json](./176020-tzar-gold-edition.json) |
 | Tzar: The Burden of the Crown | 9691 | [9691-tzar-the-burden-of-the-crown.json](./9691-tzar-the-burden-of-the-crown.json) |
 | Tzared | 145882 | [145882-tzared.json](./145882-tzared.json) |
 | Tzimtzum | 343856 | [343856-tzimtzum.json](./343856-tzimtzum.json) |
