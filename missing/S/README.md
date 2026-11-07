@@ -5219,6 +5219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seize The Elixir | 377941 | [377941-seize-the-elixir.json](./377941-seize-the-elixir.json) |
 | Seize the Night | 193812 | [193812-seize-the-night.json](./193812-seize-the-night.json) |
 | Seizure of Territories | 240802 | [240802-seizure-of-territories.json](./240802-seizure-of-territories.json) |
+| Seja Como Eu | 179829 | [179829-seja-como-eu.json](./179829-seja-como-eu.json) |
 | Sejm The Game | 341051 | [341051-sejm-the-game.json](./341051-sejm-the-game.json) |
 | Seka II | 292323 | [292323-seka-ii.json](./292323-seka-ii.json) |
 | Sekai de Ichiban Dame na Koi | 413068 | [413068-sekai-de-ichiban-dame-na-koi.json](./413068-sekai-de-ichiban-dame-na-koi.json) |
@@ -11174,6 +11175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Ray tracing Mini Game 10 | 152899 | [152899-simple-ray-tracing-mini-game-10.json](./152899-simple-ray-tracing-mini-game-10.json) |
 | Simple Rockets | 10997 | [10997-simple-rockets.json](./10997-simple-rockets.json) |
 | Simple Rolling | 236931 | [236931-simple-rolling.json](./236931-simple-rolling.json) |
+| Simple RTS | 179819 | [179819-simple-rts.json](./179819-simple-rts.json) |
 | Simple RTS | 38768 | [38768-simple-rts.json](./38768-simple-rts.json) |
 | Simple Sandwich | 118376 | [118376-simple-sandwich.json](./118376-simple-sandwich.json) |
 | Simple Series 2000 Vol. 90: The Oneechanbara 2 | 73012 | [73012-simple-series-2000-vol-90-the-oneechanbara-2.json](./73012-simple-series-2000-vol-90-the-oneechanbara-2.json) |
@@ -16382,6 +16384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Battalion | 99600 | [99600-solar-battalion.json](./99600-solar-battalion.json) |
 | Solar Battle Glargaz | 86766 | [86766-solar-battle-glargaz.json](./86766-solar-battle-glargaz.json) |
 | Solar Blast | 147648 | [147648-solar-blast.json](./147648-solar-blast.json) |
+| Solar Blaster: Challenge Stage | 179800 | [179800-solar-blaster-challenge-stage.json](./179800-solar-blaster-challenge-stage.json) |
 | Solar Cage | 189038 | [189038-solar-cage.json](./189038-solar-cage.json) |
 | Solar Candy | 180849 | [180849-solar-candy.json](./180849-solar-candy.json) |
 | Solar Collector | 75034 | [75034-solar-collector.json](./75034-solar-collector.json) |
@@ -16975,6 +16978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Some Some Convenience Store: After Stories Pass | 316254 | [316254-some-some-convenience-store-after-stories-pass.json](./316254-some-some-convenience-store-after-stories-pass.json) |
 | Some Some Convenience Store: Soohee After Story | 316252 | [316252-some-some-convenience-store-soohee-after-story.json](./316252-some-some-convenience-store-soohee-after-story.json) |
 | Some Some Convenience Store: Yena After Story | 316251 | [316251-some-some-convenience-store-yena-after-story.json](./316251-some-some-convenience-store-yena-after-story.json) |
+| Some Space | 179790 | [179790-some-space.json](./179790-some-space.json) |
 | Some Spring Days | 242540 | [242540-some-spring-days.json](./242540-some-spring-days.json) |
 | Some Sword, Some Play | 215774 | [215774-some-sword-some-play.json](./215774-some-sword-some-play.json) |
 | Some Synergy | 210883 | [210883-some-synergy.json](./210883-some-synergy.json) |
@@ -20057,6 +20061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Quest I: Roger Wilco in the Sarien Encounter | 77194 | [77194-space-quest-i-roger-wilco-in-the-sarien-encounter.json](./77194-space-quest-i-roger-wilco-in-the-sarien-encounter.json) |
 | Space Quest II: Roger Wilco in Vohaul's Revenge | 84150 | [84150-space-quest-ii-roger-wilco-in-vohauls-revenge.json](./84150-space-quest-ii-roger-wilco-in-vohauls-revenge.json) |
 | Space Quest III: The Pirates Of Pestulon | 30 | [30-space-quest-iii-the-pirates-of-pestulon.json](./30-space-quest-iii-the-pirates-of-pestulon.json) |
+| Space Quest: 2099 | 179814 | [179814-space-quest-2099.json](./179814-space-quest-2099.json) |
 | Space Quest: Collector's Edition | 213260 | [213260-space-quest-collectors-edition.json](./213260-space-quest-collectors-edition.json) |
 | Space Quest: Incinerations | 265067 | [265067-space-quest-incinerations.json](./265067-space-quest-incinerations.json) |
 | Space Quest: The Lost Chapter | 349896 | [349896-space-quest-the-lost-chapter.json](./349896-space-quest-the-lost-chapter.json) |
@@ -20153,6 +20158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Salvage | 192601 | [192601-space-salvage.json](./192601-space-salvage.json) |
 | Space Salvage: Ship Happens | 377617 | [377617-space-salvage-ship-happens.json](./377617-space-salvage-ship-happens.json) |
 | Space Salvager | 17760 | [17760-space-salvager.json](./17760-space-salvager.json) |
+| Space Samurai | 179787 | [179787-space-samurai.json](./179787-space-samurai.json) |
 | Space Savory | 412084 | [412084-space-savory.json](./412084-space-savory.json) |
 | Space Scaven | 33156 | [33156-space-scaven.json](./33156-space-scaven.json) |
 | Space Scavenger | 113597 | [113597-space-scavenger.json](./113597-space-scavenger.json) |
@@ -33732,6 +33738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superhot Shooter 3D | 223902 | [223902-superhot-shooter-3d.json](./223902-superhot-shooter-3d.json) |
 | SuperHot VR | 25632 | [25632-superhot-vr.json](./25632-superhot-vr.json) |
 | Superhot: One of Us Bundle | 155188 | [155188-superhot-one-of-us-bundle.json](./155188-superhot-one-of-us-bundle.json) |
+| Superhotline Miami Deluxe | 179802 | [179802-superhotline-miami-deluxe.json](./179802-superhotline-miami-deluxe.json) |
 | Superhuman | 330798 | [330798-superhuman.json](./330798-superhuman.json) |
 | Superhuman Industrial and Immaterial, Incorporated | 183237 | [183237-superhuman-industrial-and-immaterial-incorporated.json](./183237-superhuman-industrial-and-immaterial-incorporated.json) |
 | SuperHyperCube | 20332 | [20332-superhypercube.json](./20332-superhypercube.json) |
