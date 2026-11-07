@@ -9455,6 +9455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimante | 83975 | [83975-grimante.json](./83975-grimante.json) |
 | Grimbound | 273775 | [273775-grimbound.json](./273775-grimbound.json) |
 | Grimchester Needs A Doctor | 416830 | [416830-grimchester-needs-a-doctor.json](./416830-grimchester-needs-a-doctor.json) |
+| Grimcurse | 185211 | [185211-grimcurse.json](./185211-grimcurse.json) |
 | Grimdark Survivors | 223291 | [223291-grimdark-survivors.json](./223291-grimdark-survivors.json) |
 | Grimdoria | 278135 | [278135-grimdoria.json](./278135-grimdoria.json) |
 | Grime | 260887 | [260887-grime.json](./260887-grime.json) |
