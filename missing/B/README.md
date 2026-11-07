@@ -966,7 +966,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6556,6 +6555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bento no Subarashisa wo Ano 2-do 3-do: Nama-ham to Yaki-udon Hen | 336179 | [336179-bento-no-subarashisa-wo-ano-2-do-3-do-nama-ham-to-yaki-udon-hen.json](./336179-bento-no-subarashisa-wo-ano-2-do-3-do-nama-ham-to-yaki-udon-hen.json) |
 | BentoBlox | 108913 | [108913-bentoblox.json](./108913-bentoblox.json) |
 | BentoBot | 102084 | [102084-bentobot.json](./102084-bentobot.json) |
+| Beodara | 178128 | [178128-beodara.json](./178128-beodara.json) |
 | Beowulf Classic | 323805 | [323805-beowulf-classic.json](./323805-beowulf-classic.json) |
 | Beowulf: The Mobile Game | 23488 | [23488-beowulf-the-mobile-game.json](./23488-beowulf-the-mobile-game.json) |
 | Beppo's Hole in One Golf | 185932 | [185932-beppos-hole-in-one-golf.json](./185932-beppos-hole-in-one-golf.json) |
@@ -11236,10 +11236,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodplague Lockdown | 373721 | [373721-bloodplague-lockdown.json](./373721-bloodplague-lockdown.json) |
 | Bloodpunished: No Time Por Patience | 351373 | [351373-bloodpunished-no-time-por-patience.json](./351373-bloodpunished-no-time-por-patience.json) |
 | BloodRayne | 1015 | [1015-bloodrayne.json](./1015-bloodrayne.json) |
+| Bloodrayne 1 & 2: Revamped Dual Pack | 178178 | [178178-bloodrayne-1-and-2-revamped-dual-pack.json](./178178-bloodrayne-1-and-2-revamped-dual-pack.json) |
 | BloodRayne 2 | 1016 | [1016-bloodrayne-2.json](./1016-bloodrayne-2.json) |
+| BloodRayne 2: ReVamped | 178177 | [178177-bloodrayne-2-revamped.json](./178177-bloodrayne-2-revamped.json) |
 | BloodRayne Absolute Bundle | 186537 | [186537-bloodrayne-absolute-bundle.json](./186537-bloodrayne-absolute-bundle.json) |
 | BloodRayne Complete Bundle | 154184 | [154184-bloodrayne-complete-bundle.json](./154184-bloodrayne-complete-bundle.json) |
 | BloodRayne: Definitive Collection | 400996 | [400996-bloodrayne-definitive-collection.json](./400996-bloodrayne-definitive-collection.json) |
+| BloodRayne: ReVamped | 178176 | [178176-bloodrayne-revamped.json](./178176-bloodrayne-revamped.json) |
 | BloodRayne: Terminal Cut | 140689 | [140689-bloodrayne-terminal-cut.json](./140689-bloodrayne-terminal-cut.json) |
 | BloodRayne: Terminal Cut Bundle | 154186 | [154186-bloodrayne-terminal-cut-bundle.json](./154186-bloodrayne-terminal-cut-bundle.json) |
 | BloodRayne: The Shroud | 77344 | [77344-bloodrayne-the-shroud.json](./77344-bloodrayne-the-shroud.json) |
@@ -14972,6 +14975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brawlers of Duality | 310500 | [310500-brawlers-of-duality.json](./310500-brawlers-of-duality.json) |
 | Brawlerz Zombies | 239437 | [239437-brawlerz-zombies.json](./239437-brawlerz-zombies.json) |
 | Brawlerz: Nitro | 28433 | [28433-brawlerz-nitro.json](./28433-brawlerz-nitro.json) |
+| Brawlforming | 178159 | [178159-brawlforming.json](./178159-brawlforming.json) |
 | Brawlhalla BCX 2022 Pack | 230714 | [230714-brawlhalla-bcx-2022-pack.json](./230714-brawlhalla-bcx-2022-pack.json) |
 | Brawlhalla x Guacamelee Crossover | 342146 | [342146-brawlhalla-x-guacamelee-crossover.json](./342146-brawlhalla-x-guacamelee-crossover.json) |
 | Brawlhalla X Lara Croft Bundle | 381166 | [381166-brawlhalla-x-lara-croft-bundle.json](./381166-brawlhalla-x-lara-croft-bundle.json) |
@@ -15501,6 +15505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Force: Black Knight | 155573 | [155573-brick-force-black-knight.json](./155573-brick-force-black-knight.json) |
 | Brick Force: Navy Soldier | 155572 | [155572-brick-force-navy-soldier.json](./155572-brick-force-navy-soldier.json) |
 | Brick Game | 106202 | [106202-brick-game.json](./106202-brick-game.json) |
+| Brick Game | 178164 | [178164-brick-game.json](./178164-brick-game.json) |
 | Brick Game | 288262 | [288262-brick-game.json](./288262-brick-game.json) |
 | Brick Hero Clash | 259627 | [259627-brick-hero-clash.json](./259627-brick-hero-clash.json) |
 | Brick Kick | 40757 | [40757-brick-kick.json](./40757-brick-kick.json) |
@@ -15674,6 +15679,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge to Another World: The Others HD | 100518 | [100518-bridge-to-another-world-the-others-hd.json](./100518-bridge-to-another-world-the-others-hd.json) |
 | Bridge to Another World: Through the Looking Glass | 397099 | [397099-bridge-to-another-world-through-the-looking-glass.json](./397099-bridge-to-another-world-through-the-looking-glass.json) |
 | Bridge to Another World: Through the Looking Glass - Collector's Edition | 397098 | [397098-bridge-to-another-world-through-the-looking-glass-collectors-edition.json](./397098-bridge-to-another-world-through-the-looking-glass-collectors-edition.json) |
+| Bridge to the East | 178132 | [178132-bridge-to-the-east.json](./178132-bridge-to-the-east.json) |
 | Bridge Training | 206493 | [206493-bridge-training.json](./206493-bridge-training.json) |
 | Bridge-It | 12983 | [12983-bridge-it.json](./12983-bridge-it.json) |
 | Bridge! | 36304 | [36304-bridge.json](./36304-bridge.json) |
