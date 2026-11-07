@@ -2049,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ikeelya | 379329 | [379329-ikeelya.json](./379329-ikeelya.json) |
 | Ikemen Bakumatsu: Unmei no Koi Hana no Miyako to Koi no Ran | 226082 | [226082-ikemen-bakumatsu-unmei-no-koi-hana-no-miyako-to-koi-no-ran.json](./226082-ikemen-bakumatsu-unmei-no-koi-hana-no-miyako-to-koi-no-ran.json) |
 | Ikemen Genjiden Ayakashi Koi Enishi | 184284 | [184284-ikemen-genjiden-ayakashi-koi-enishi.json](./184284-ikemen-genjiden-ayakashi-koi-enishi.json) |
+| Ikemen Live: Koi no Uta wo Kimi ni | 175002 | [175002-ikemen-live-koi-no-uta-wo-kimi-ni.json](./175002-ikemen-live-koi-no-uta-wo-kimi-ni.json) |
 | Ikemen Oukoku Joou to Shinjitsu no Kiss | 229030 | [229030-ikemen-oukoku-joou-to-shinjitsu-no-kiss.json](./229030-ikemen-oukoku-joou-to-shinjitsu-no-kiss.json) |
 | Ikemen Prince: Beauty and Her Beast | 229032 | [229032-ikemen-prince-beauty-and-her-beast.json](./229032-ikemen-prince-beauty-and-her-beast.json) |
 | Ikemen Rensen: Taira no Kiyomori | 227422 | [227422-ikemen-rensen-taira-no-kiyomori.json](./227422-ikemen-rensen-taira-no-kiyomori.json) |
@@ -3891,7 +3892,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
