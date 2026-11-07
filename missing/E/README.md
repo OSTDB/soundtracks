@@ -688,6 +688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EbiKore+ Amagami | 8636 | [8636-ebikore-amagami.json](./8636-ebikore-amagami.json) |
 | EbiTapes | 238731 | [238731-ebitapes.json](./238731-ebitapes.json) |
 | Ebola | 119556 | [119556-ebola.json](./119556-ebola.json) |
+| Ebola 2 | 142565 | [142565-ebola-2.json](./142565-ebola-2.json) |
 | Ebola 3 | 216312 | [216312-ebola-3.json](./216312-ebola-3.json) |
 | Ebola 4 | 251945 | [251945-ebola-4.json](./251945-ebola-4.json) |
 | Ebola VI Corp | 111537 | [111537-ebola-vi-corp.json](./111537-ebola-vi-corp.json) |
@@ -6251,6 +6252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Vigil | 263972 | [263972-eternal-vigil.json](./263972-eternal-vigil.json) |
 | Eternal Void | 294117 | [294117-eternal-void.json](./294117-eternal-void.json) |
 | Eternal Voyager | 374644 | [374644-eternal-voyager.json](./374644-eternal-voyager.json) |
+| Eternal War: Shadows of Light | 142540 | [142540-eternal-war-shadows-of-light.json](./142540-eternal-war-shadows-of-light.json) |
 | Eternal Warfare | 166617 | [166617-eternal-warfare.json](./166617-eternal-warfare.json) |
 | Eternal Wheel | 64961 | [64961-eternal-wheel.json](./64961-eternal-wheel.json) |
 | Eternal Winter | 246538 | [246538-eternal-winter.json](./246538-eternal-winter.json) |
