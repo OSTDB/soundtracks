@@ -2852,7 +2852,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5071,6 +5070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koi ga Saku Koro Sakura Doki | 60939 | [60939-koi-ga-saku-koro-sakura-doki.json](./60939-koi-ga-saku-koro-sakura-doki.json) |
 | Koi Garden | 290851 | [290851-koi-garden.json](./290851-koi-garden.json) |
 | Koi ha Balance: Tatoeba K-kun no Tabou na Ichinichi-hen | 134463 | [134463-koi-ha-balance-tatoeba-k-kun-no-tabou-na-ichinichi-hen.json](./134463-koi-ha-balance-tatoeba-k-kun-no-tabou-na-ichinichi-hen.json) |
+| Koi ha Kakehiki | 142550 | [142550-koi-ha-kakehiki.json](./142550-koi-ha-kakehiki.json) |
 | Koi Hai Tunnel | 280878 | [280878-koi-hai-tunnel.json](./280878-koi-hai-tunnel.json) |
 | Koi hi Kogaruru Kamikakushi | 215959 | [215959-koi-hi-kogaruru-kamikakushi.json](./215959-koi-hi-kogaruru-kamikakushi.json) |
 | Koi Iro Rabian Doll | 191693 | [191693-koi-iro-rabian-doll.json](./191693-koi-iro-rabian-doll.json) |
