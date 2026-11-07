@@ -391,6 +391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima Online: Third Dawn | 71942 | [71942-ultima-online-third-dawn.json](./71942-ultima-online-third-dawn.json) |
 | Ultima Ratio Regum | 142341 | [142341-ultima-ratio-regum.json](./142341-ultima-ratio-regum.json) |
 | Ultima TD | 236261 | [236261-ultima-td.json](./236261-ultima-td.json) |
+| Ultima Underworld 1+2 | 164631 | [164631-ultima-underworld-1-2.json](./164631-ultima-underworld-1-2.json) |
 | Ultima Underworld II: Labyrinth of Worlds | 2530 | [2530-ultima-underworld-ii-labyrinth-of-worlds.json](./2530-ultima-underworld-ii-labyrinth-of-worlds.json) |
 | Ultima Underworld: The Stygian Abyss | 321879 | [321879-ultima-underworld-the-stygian-abyss.json](./321879-ultima-underworld-the-stygian-abyss.json) |
 | Ultima V: Warriors of Destiny | 12229 | [12229-ultima-v-warriors-of-destiny.json](./12229-ultima-v-warriors-of-destiny.json) |
