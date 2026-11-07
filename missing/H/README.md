@@ -8103,6 +8103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HiQ Ace | 115771 | [115771-hiq-ace.json](./115771-hiq-ace.json) |
 | HiQ Ace Deluxe | 234267 | [234267-hiq-ace-deluxe.json](./234267-hiq-ace-deluxe.json) |
 | Hira Hira Hihiru | 221418 | [221418-hira-hira-hihiru.json](./221418-hira-hira-hihiru.json) |
+| Hiraeth | 182591 | [182591-hiraeth.json](./182591-hiraeth.json) |
 | Hiraeth | 280264 | [280264-hiraeth.json](./280264-hiraeth.json) |
 | Hiraeth | 291584 | [291584-hiraeth.json](./291584-hiraeth.json) |
 | Hiragana Flashcards | 391533 | [391533-hiragana-flashcards.json](./391533-hiragana-flashcards.json) |
@@ -8531,6 +8532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoard: Dynamite Roll! | 171075 | [171075-hoard-dynamite-roll.json](./171075-hoard-dynamite-roll.json) |
 | Hoard: Flame-Broiled Sandwich | 171076 | [171076-hoard-flame-broiled-sandwich.json](./171076-hoard-flame-broiled-sandwich.json) |
 | Hoard's LLC: Limited Labyrinth Corporation | 344494 | [344494-hoards-llc-limited-labyrinth-corporation.json](./344494-hoards-llc-limited-labyrinth-corporation.json) |
+| Hoarder's Cloud | 182585 | [182585-hoarders-cloud.json](./182585-hoarders-cloud.json) |
 | Hoarding Simulator | 126367 | [126367-hoarding-simulator.json](./126367-hoarding-simulator.json) |
 | Hoarding Simulator 2.0 | 329443 | [329443-hoarding-simulator-2-0.json](./329443-hoarding-simulator-2-0.json) |
 | Hoards of Glory | 156688 | [156688-hoards-of-glory.json](./156688-hoards-of-glory.json) |
@@ -9488,6 +9490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hong Lou Meng: Lin Daiyu yu Bei Jing Wang | 394801 | [394801-hong-lou-meng-lin-daiyu-yu-bei-jing-wang.json](./394801-hong-lou-meng-lin-daiyu-yu-bei-jing-wang.json) |
 | HongKong Noir | 255283 | [255283-hongkong-noir.json](./255283-hongkong-noir.json) |
 | Honjou Rendoku to Ushinawareta Nachlass | 398976 | [398976-honjou-rendoku-to-ushinawareta-nachlass.json](./398976-honjou-rendoku-to-ushinawareta-nachlass.json) |
+| Honk | 182625 | [182625-honk.json](./182625-honk.json) |
 | Honk II | 182648 | [182648-honk-ii.json](./182648-honk-ii.json) |
 | Honk III | 180779 | [180779-honk-iii.json](./180779-honk-iii.json) |
 | Honk of Heroes | 293641 | [293641-honk-of-heroes.json](./293641-honk-of-heroes.json) |
