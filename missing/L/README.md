@@ -465,6 +465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady Hunt | 192660 | [192660-lady-hunt.json](./192660-lady-hunt.json) |
 | Lady in a Leotard With a Gun | 178308 | [178308-lady-in-a-leotard-with-a-gun.json](./178308-lady-in-a-leotard-with-a-gun.json) |
 | Lady in Midnight | 303534 | [303534-lady-in-midnight.json](./303534-lady-in-midnight.json) |
+| Lady in Mystery | 147548 | [147548-lady-in-mystery.json](./147548-lady-in-mystery.json) |
 | Lady in tomb: Beneath the ocean | 220749 | [220749-lady-in-tomb-beneath-the-ocean.json](./220749-lady-in-tomb-beneath-the-ocean.json) |
 | Lady In Wading | 40649 | [40649-lady-in-wading.json](./40649-lady-in-wading.json) |
 | Lady Killer | 40338 | [40338-lady-killer.json](./40338-lady-killer.json) |
@@ -6512,6 +6513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Wire! | 122569 | [122569-live-wire.json](./122569-live-wire.json) |
 | Live with Mary | 247830 | [247830-live-with-mary.json](./247830-live-with-mary.json) |
 | Live x Evil | 220245 | [220245-live-x-evil.json](./220245-live-x-evil.json) |
+| Live/Wire | 147542 | [147542-live-wire.json](./147542-live-wire.json) |
 | LiveGame.Show | 131349 | [131349-livegame-show.json](./131349-livegame-show.json) |
 | Livelock | 16982 | [16982-livelock.json](./16982-livelock.json) |
 | Lively Chair Simulator | 273118 | [273118-lively-chair-simulator.json](./273118-lively-chair-simulator.json) |
