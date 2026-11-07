@@ -2138,6 +2138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Tactics | 334923 | [334923-fantasy-tactics.json](./334923-fantasy-tactics.json) |
 | Fantasy Tavern Sextet -Vol.3 Postlude Days- | 147402 | [147402-fantasy-tavern-sextet-vol-3-postlude-days.json](./147402-fantasy-tavern-sextet-vol-3-postlude-days.json) |
 | Fantasy Tavern Sextet Vol. 2: Adventurer's Days | 144071 | [144071-fantasy-tavern-sextet-vol-2-adventurers-days.json](./144071-fantasy-tavern-sextet-vol-2-adventurers-days.json) |
+| Fantasy Tavern Sextet: Vol.1 New World Days | 143857 | [143857-fantasy-tavern-sextet-vol-1-new-world-days.json](./143857-fantasy-tavern-sextet-vol-1-new-world-days.json) |
 | Fantasy Tavern Simulator | 237088 | [237088-fantasy-tavern-simulator.json](./237088-fantasy-tavern-simulator.json) |
 | Fantasy TD Battles | 311224 | [311224-fantasy-td-battles.json](./311224-fantasy-td-battles.json) |
 | Fantasy Tea Generator | 177359 | [177359-fantasy-tea-generator.json](./177359-fantasy-tea-generator.json) |
@@ -8403,6 +8404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flow: Last Origins | 267471 | [267471-flow-last-origins.json](./267471-flow-last-origins.json) |
 | Flow: Syn x Vertue | 278265 | [278265-flow-syn-x-vertue.json](./278265-flow-syn-x-vertue.json) |
 | Flow: The Sliding | 41934 | [41934-flow-the-sliding.json](./41934-flow-the-sliding.json) |
+| Flow's Island | 143868 | [143868-flows-island.json](./143868-flows-island.json) |
 | Flowars | 269439 | [269439-flowars.json](./269439-flowars.json) |
 | Flowball | 248797 | [248797-flowball.json](./248797-flowball.json) |
 | Flowcubes | 164972 | [164972-flowcubes.json](./164972-flowcubes.json) |
@@ -11158,6 +11160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxnox | 247969 | [247969-foxnox.json](./247969-foxnox.json) |
 | Foxo | 372039 | [372039-foxo.json](./372039-foxo.json) |
 | Foxo's Fun Schoolhouse | 310685 | [310685-foxos-fun-schoolhouse.json](./310685-foxos-fun-schoolhouse.json) |
+| FoxPaww | 143817 | [143817-foxpaww.json](./143817-foxpaww.json) |
 | FoxRun | 340241 | [340241-foxrun.json](./340241-foxrun.json) |
 | Foxtale | 328900 | [328900-foxtale.json](./328900-foxtale.json) |
 | Foxtrot | 148077 | [148077-foxtrot.json](./148077-foxtrot.json) |
@@ -11955,6 +11958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | French Crime | 132048 | [132048-french-crime.json](./132048-french-crime.json) |
 | French Fries Pusher Friends | 285937 | [285937-french-fries-pusher-friends.json](./285937-french-fries-pusher-friends.json) |
 | French Meat | 143290 | [143290-french-meat.json](./143290-french-meat.json) |
+| French Meat 2 | 143838 | [143838-french-meat-2.json](./143838-french-meat-2.json) |
 | French Tarot | 100488 | [100488-french-tarot.json](./100488-french-tarot.json) |
 | French with Rayman | 193346 | [193346-french-with-rayman.json](./193346-french-with-rayman.json) |
 | FrenchConnection | 364774 | [364774-frenchconnection.json](./364774-frenchconnection.json) |
