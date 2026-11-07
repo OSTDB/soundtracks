@@ -5736,6 +5736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windwalkers | 9185 | [9185-windwalkers.json](./9185-windwalkers.json) |
 | Windward | 17902 | [17902-windward.json](./17902-windward.json) |
 | Windward Horizon | 298621 | [298621-windward-horizon.json](./298621-windward-horizon.json) |
+| Windward Rush | 176560 | [176560-windward-rush.json](./176560-windward-rush.json) |
 | Windweaver | 368724 | [368724-windweaver.json](./368724-windweaver.json) |
 | WindWind | 187665 | [187665-windwind.json](./187665-windwind.json) |
 | WindWord | 104641 | [104641-windword.json](./104641-windword.json) |
@@ -6012,6 +6013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Events | 41012 | [41012-winter-events.json](./41012-winter-events.json) |
 | Winter Falling: Battle Tactics | 173251 | [173251-winter-falling-battle-tactics.json](./173251-winter-falling-battle-tactics.json) |
 | Winter Falling: Price of Life | 176352 | [176352-winter-falling-price-of-life.json](./176352-winter-falling-price-of-life.json) |
+| Winter Falling: Survival Strategy | 176591 | [176591-winter-falling-survival-strategy.json](./176591-winter-falling-survival-strategy.json) |
 | Winter Fox | 177762 | [177762-winter-fox.json](./177762-winter-fox.json) |
 | Winter Fragments | 285045 | [285045-winter-fragments.json](./285045-winter-fragments.json) |
 | Winter Games | 12268 | [12268-winter-games.json](./12268-winter-games.json) |
