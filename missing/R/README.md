@@ -9289,6 +9289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Gods Tap Tour | 58140 | [58140-rock-gods-tap-tour.json](./58140-rock-gods-tap-tour.json) |
 | Rock Gunner | 356621 | [356621-rock-gunner.json](./356621-rock-gunner.json) |
 | Rock Hero EXE 5 | 343008 | [343008-rock-hero-exe-5.json](./343008-rock-hero-exe-5.json) |
+| Rock Hopper | 180893 | [180893-rock-hopper.json](./180893-rock-hopper.json) |
 | Rock Hoppers | 210119 | [210119-rock-hoppers.json](./210119-rock-hoppers.json) |
 | Rock in Code | 104142 | [104142-rock-in-code.json](./104142-rock-in-code.json) |
 | Rock Island | 334317 | [334317-rock-island.json](./334317-rock-island.json) |
@@ -10234,6 +10235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoguePG | 193573 | [193573-roguepg.json](./193573-roguepg.json) |
 | RoguePool | 392751 | [392751-roguepool.json](./392751-roguepool.json) |
 | Rogueria: Roguelikes X Tactics | 143585 | [143585-rogueria-roguelikes-x-tactics.json](./143585-rogueria-roguelikes-x-tactics.json) |
+| RogueRis | 180908 | [180908-rogueris.json](./180908-rogueris.json) |
 | Roguerooms New Management | 420934 | [420934-roguerooms-new-management.json](./420934-roguerooms-new-management.json) |
 | Rogues & Fate | 411255 | [411255-rogues-and-fate.json](./411255-rogues-and-fate.json) |
 | Rogues Adventure | 155401 | [155401-rogues-adventure.json](./155401-rogues-adventure.json) |
@@ -10911,6 +10913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room and a Half | 326559 | [326559-room-and-a-half.json](./326559-room-and-a-half.json) |
 | Room and a Half 2 | 326560 | [326560-room-and-a-half-2.json](./326560-room-and-a-half-2.json) |
 | Room Box | 195701 | [195701-room-box.json](./195701-room-box.json) |
+| Room Builder | 180913 | [180913-room-builder.json](./180913-room-builder.json) |
 | Room by Room | 410932 | [410932-room-by-room.json](./410932-room-by-room.json) |
 | Room Cleaning | 264988 | [264988-room-cleaning.json](./264988-room-cleaning.json) |
 | Room Cleaning 2 | 272939 | [272939-room-cleaning-2.json](./272939-room-cleaning-2.json) |
@@ -11063,6 +11066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rootmare | 327164 | [327164-rootmare.json](./327164-rootmare.json) |
 | Rootnote | 402529 | [402529-rootnote.json](./402529-rootnote.json) |
 | Rootown | 244626 | [244626-rootown.json](./244626-rootown.json) |
+| Roots | 180891 | [180891-roots.json](./180891-roots.json) |
 | Roots | 249440 | [249440-roots.json](./249440-roots.json) |
 | Roots | 409376 | [409376-roots.json](./409376-roots.json) |
 | Roots and Recipes: Farm and Restaurant Simulator | 326368 | [326368-roots-and-recipes-farm-and-restaurant-simulator.json](./326368-roots-and-recipes-farm-and-restaurant-simulator.json) |
@@ -13073,6 +13077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty: Island Survival Pro | 306876 | [306876-rusty-island-survival-pro.json](./306876-rusty-island-survival-pro.json) |
 | Rusty's Adventure | 365257 | [365257-rustys-adventure.json](./365257-rustys-adventure.json) |
 | Rusty's Day Off: Episode One - Janitor on Duty | 249225 | [249225-rustys-day-off-episode-one-janitor-on-duty.json](./249225-rustys-day-off-episode-one-janitor-on-duty.json) |
+| Rusty's Rail | 180929 | [180929-rustys-rail.json](./180929-rustys-rail.json) |
 | Rusty's Real Deal Baseball: Bat & Switch | 258715 | [258715-rustys-real-deal-baseball-bat-and-switch.json](./258715-rustys-real-deal-baseball-bat-and-switch.json) |
 | Rusty's Real Deal Baseball: Bat Master | 258781 | [258781-rustys-real-deal-baseball-bat-master.json](./258781-rustys-real-deal-baseball-bat-master.json) |
 | Rusty's Real Deal Baseball: Cage Match | 258739 | [258739-rustys-real-deal-baseball-cage-match.json](./258739-rustys-real-deal-baseball-cage-match.json) |
