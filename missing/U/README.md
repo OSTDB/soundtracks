@@ -1556,6 +1556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead's Building | 117972 | [117972-undeads-building.json](./117972-undeads-building.json) |
 | Undeadly | 152564 | [152564-undeadly.json](./152564-undeadly.json) |
 | Undeads | 281913 | [281913-undeads.json](./281913-undeads.json) |
+| Undeads vs. Humans | 192497 | [192497-undeads-vs-humans.json](./192497-undeads-vs-humans.json) |
 | Undeadworld | 223663 | [223663-undeadworld.json](./223663-undeadworld.json) |
 | Undeadz! | 35886 | [35886-undeadz.json](./35886-undeadz.json) |
 | Undeclaration of Human Rights | 370441 | [370441-undeclaration-of-human-rights.json](./370441-undeclaration-of-human-rights.json) |
@@ -1933,6 +1934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underwater Rescue | 189374 | [189374-underwater-rescue.json](./189374-underwater-rescue.json) |
 | Underwater Submarine Rush | 344123 | [344123-underwater-submarine-rush.json](./344123-underwater-submarine-rush.json) |
 | Underwater Wars | 132425 | [132425-underwater-wars.json](./132425-underwater-wars.json) |
+| Underwater World | 192524 | [192524-underwater-world.json](./192524-underwater-world.json) |
 | Underwater World | 204924 | [204924-underwater-world.json](./204924-underwater-world.json) |
 | Underwater World: DLC Pack | 263150 | [263150-underwater-world-dlc-pack.json](./263150-underwater-world-dlc-pack.json) |
 | Underwater: Stay Alive | 114194 | [114194-underwater-stay-alive.json](./114194-underwater-stay-alive.json) |
