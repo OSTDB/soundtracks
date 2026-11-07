@@ -862,6 +862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Capybara | 410831 | [410831-bad-capybara.json](./410831-bad-capybara.json) |
 | Bad Cards | 360446 | [360446-bad-cards.json](./360446-bad-cards.json) |
 | Bad Cat | 12398 | [12398-bad-cat.json](./12398-bad-cat.json) |
+| Bad Cat | 192490 | [192490-bad-cat.json](./192490-bad-cat.json) |
 | Bad Cat Angry Granny | 391256 | [391256-bad-cat-angry-granny.json](./391256-bad-cat-angry-granny.json) |
 | Bad Cat Good Dog Alien Force | 310879 | [310879-bad-cat-good-dog-alien-force.json](./310879-bad-cat-good-dog-alien-force.json) |
 | Bad Cat Sam | 233372 | [233372-bad-cat-sam.json](./233372-bad-cat-sam.json) |
