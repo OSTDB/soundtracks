@@ -6131,6 +6131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos in the Harem | 383909 | [383909-chaos-in-the-harem.json](./383909-chaos-in-the-harem.json) |
 | Chaos Islands | 296395 | [296395-chaos-islands.json](./296395-chaos-islands.json) |
 | Chaos Journey | 295021 | [295021-chaos-journey.json](./295021-chaos-journey.json) |
+| Chaos Kart | 157295 | [157295-chaos-kart.json](./157295-chaos-kart.json) |
 | Chaos Law | 196422 | [196422-chaos-law.json](./196422-chaos-law.json) |
 | Chaos League | 50120 | [50120-chaos-league.json](./50120-chaos-league.json) |
 | Chaos League: Sudden Death | 70068 | [70068-chaos-league-sudden-death.json](./70068-chaos-league-sudden-death.json) |
@@ -17350,6 +17351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepshow | 272838 | [272838-creepshow.json](./272838-creepshow.json) |
 | Creepslore | 195165 | [195165-creepslore.json](./195165-creepslore.json) |
 | Creepsy - Monsters Never Have Enough | 52325 | [52325-creepsy-monsters-never-have-enough.json](./52325-creepsy-monsters-never-have-enough.json) |
+| CreepWars TD | 157265 | [157265-creepwars-td.json](./157265-creepwars-td.json) |
 | Creepy | 270744 | [270744-creepy.json](./270744-creepy.json) |
 | Creepy & Cute Pixel Plushy Craft | 336900 | [336900-creepy-and-cute-pixel-plushy-craft.json](./336900-creepy-and-cute-pixel-plushy-craft.json) |
 | Creepy Ball Pixel | 208193 | [208193-creepy-ball-pixel.json](./208193-creepy-ball-pixel.json) |
@@ -19336,6 +19338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Monster 3D | 108244 | [108244-cube-monster-3d.json](./108244-cube-monster-3d.json) |
 | Cube Ninja | 364789 | [364789-cube-ninja.json](./364789-cube-ninja.json) |
 | Cube on a Leash | 415855 | [415855-cube-on-a-leash.json](./415855-cube-on-a-leash.json) |
+| Cube Paradox | 157274 | [157274-cube-paradox.json](./157274-cube-paradox.json) |
 | Cube Paste | 146231 | [146231-cube-paste.json](./146231-cube-paste.json) |
 | Cube Projection | 143911 | [143911-cube-projection.json](./143911-cube-projection.json) |
 | Cube Quest | 25818 | [25818-cube-quest.json](./25818-cube-quest.json) |
@@ -19355,6 +19358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Samurai: RUN! | 36290 | [36290-cube-samurai-run.json](./36290-cube-samurai-run.json) |
 | Cube School | 408905 | [408905-cube-school.json](./408905-cube-school.json) |
 | Cube Shift | 182715 | [182715-cube-shift.json](./182715-cube-shift.json) |
+| Cube Shifter | 157267 | [157267-cube-shifter.json](./157267-cube-shifter.json) |
 | Cube Shifu | 174492 | [174492-cube-shifu.json](./174492-cube-shifu.json) |
 | Cube Smash | 129087 | [129087-cube-smash.json](./129087-cube-smash.json) |
 | Cube Snake | 318968 | [318968-cube-snake.json](./318968-cube-snake.json) |
