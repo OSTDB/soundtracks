@@ -963,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8467,6 +8468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birds vs. Dragons | 283998 | [283998-birds-vs-dragons.json](./283998-birds-vs-dragons.json) |
 | Birds Watching | 391179 | [391179-birds-watching.json](./391179-birds-watching.json) |
 | Birds With Feelings | 118177 | [118177-birds-with-feelings.json](./118177-birds-with-feelings.json) |
+| Birds With Guns | 187613 | [187613-birds-with-guns.json](./187613-birds-with-guns.json) |
 | Birds'n'Blocks | 88843 | [88843-birdsnblocks.json](./88843-birdsnblocks.json) |
 | Birds'n'Blocks 2 | 87694 | [87694-birdsnblocks-2.json](./87694-birdsnblocks-2.json) |
 | BirdsBorough: Town of Alchemy | 214368 | [214368-birdsborough-town-of-alchemy.json](./214368-birdsborough-town-of-alchemy.json) |
