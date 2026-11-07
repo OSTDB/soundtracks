@@ -9689,6 +9689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angels | 246124 | [246124-angels.json](./246124-angels.json) |
 | Angels & Demons | 262767 | [262767-angels-and-demons.json](./262767-angels-and-demons.json) |
 | Angels Blue Collection | 52579 | [52579-angels-blue-collection.json](./52579-angels-blue-collection.json) |
+| Angels Cove | 172879 | [172879-angels-cove.json](./172879-angels-cove.json) |
 | Angels Fall First | 17279 | [17279-angels-fall-first.json](./17279-angels-fall-first.json) |
 | Angels in Orbit | 389021 | [389021-angels-in-orbit.json](./389021-angels-in-orbit.json) |
 | Angels of Amsterdam | 223488 | [223488-angels-of-amsterdam.json](./223488-angels-of-amsterdam.json) |
