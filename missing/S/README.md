@@ -2705,6 +2705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scaredom | 199187 | [199187-scaredom.json](./199187-scaredom.json) |
 | Scaredy Cat | 296348 | [296348-scaredy-cat.json](./296348-scaredy-cat.json) |
 | Scaredy Cat | 364862 | [364862-scaredy-cat.json](./364862-scaredy-cat.json) |
+| Scarenoid | 170633 | [170633-scarenoid.json](./170633-scarenoid.json) |
 | Scares on Halloween | 123601 | [123601-scares-on-halloween.json](./123601-scares-on-halloween.json) |
 | Scarf | 106836 | [106836-scarf.json](./106836-scarf.json) |
 | Scarf | 343774 | [343774-scarf.json](./343774-scarf.json) |
@@ -12149,6 +12150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skeletons and Skulls | 232237 | [232237-skeletons-and-skulls.json](./232237-skeletons-and-skulls.json) |
 | Skeletons Uprising | 265153 | [265153-skeletons-uprising.json](./265153-skeletons-uprising.json) |
 | Skeletons vs Nadia | 203756 | [203756-skeletons-vs-nadia.json](./203756-skeletons-vs-nadia.json) |
+| Skeletoon: Forgotten Memories | 170621 | [170621-skeletoon-forgotten-memories.json](./170621-skeletoon-forgotten-memories.json) |
 | Skeletos Sword | 320054 | [320054-skeletos-sword.json](./320054-skeletos-sword.json) |
 | Skeletris | 134701 | [134701-skeletris.json](./134701-skeletris.json) |
 | Skelets | 140620 | [140620-skelets.json](./140620-skelets.json) |
@@ -17185,6 +17187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonder | 182153 | [182153-sonder.json](./182153-sonder.json) |
 | Sonder | 296200 | [296200-sonder.json](./296200-sonder.json) |
 | Sonder: Lights of Little Tokyo | 219589 | [219589-sonder-lights-of-little-tokyo.json](./219589-sonder-lights-of-little-tokyo.json) |
+| Sondro Gomez: A Sunova Story | 170662 | [170662-sondro-gomez-a-sunova-story.json](./170662-sondro-gomez-a-sunova-story.json) |
 | Song Animals | 116101 | [116101-song-animals.json](./116101-song-animals.json) |
 | Song Beater: Quite My Tempo! | 119993 | [119993-song-beater-quite-my-tempo.json](./119993-song-beater-quite-my-tempo.json) |
 | Song by the Sea | 207238 | [207238-song-by-the-sea.json](./207238-song-by-the-sea.json) |
@@ -19291,6 +19294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space | 305641 | [305641-space.json](./305641-space.json) |
 | Space | 421842 | [421842-space.json](./421842-space.json) |
 | Space - The Return Of The Pixxelfrazzer | 34883 | [34883-space-the-return-of-the-pixxelfrazzer.json](./34883-space-the-return-of-the-pixxelfrazzer.json) |
+| Space 'n Lasers | 170644 | [170644-space-n-lasers.json](./170644-space-n-lasers.json) |
 | Space #2: The Gallery of Unfulfilled Dreams | 352762 | [352762-space-2-the-gallery-of-unfulfilled-dreams.json](./352762-space-2-the-gallery-of-unfulfilled-dreams.json) |
 | Space 1889 | 73866 | [73866-space-1889.json](./73866-space-1889.json) |
 | Space 2: Breakthrough Gaming Arcade | 145669 | [145669-space-2-breakthrough-gaming-arcade.json](./145669-space-2-breakthrough-gaming-arcade.json) |
@@ -24498,6 +24502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ruler 2: Wake of the Heralds | 19204 | [19204-star-ruler-2-wake-of-the-heralds.json](./19204-star-ruler-2-wake-of-the-heralds.json) |
 | Star Run!: Rainbow Galaxy | 241820 | [241820-star-run-rainbow-galaxy.json](./241820-star-run-rainbow-galaxy.json) |
 | Star Runaway | 367087 | [367087-star-runaway.json](./367087-star-runaway.json) |
+| Star Runner | 170632 | [170632-star-runner.json](./170632-star-runner.json) |
 | Star Runner | 174275 | [174275-star-runner.json](./174275-star-runner.json) |
 | Star Rush: Stack & Jump | 329432 | [329432-star-rush-stack-and-jump.json](./329432-star-rush-stack-and-jump.json) |
 | Star Saga: One - Beyond the Boundary | 2894 | [2894-star-saga-one-beyond-the-boundary.json](./2894-star-saga-one-beyond-the-boundary.json) |
@@ -31496,6 +31501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hunchback | 157211 | [157211-super-hunchback.json](./157211-super-hunchback.json) |
 | Super Hyper Hippo | 315889 | [315889-super-hyper-hippo.json](./315889-super-hyper-hippo.json) |
 | Super Hyperactive Ninja | 68358 | [68358-super-hyperactive-ninja.json](./68358-super-hyperactive-ninja.json) |
+| Super Hyperspace Avenger | 170646 | [170646-super-hyperspace-avenger.json](./170646-super-hyperspace-avenger.json) |
 | Super Icarus | 291599 | [291599-super-icarus.json](./291599-super-icarus.json) |
 | Super Ice Cream Maker | 87323 | [87323-super-ice-cream-maker.json](./87323-super-ice-cream-maker.json) |
 | Super Ice Hockey | 38196 | [38196-super-ice-hockey.json](./38196-super-ice-hockey.json) |
@@ -34003,6 +34009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermurgitroid | 270884 | [270884-supermurgitroid.json](./270884-supermurgitroid.json) |
 | Supernatural | 135124 | [135124-supernatural.json](./135124-supernatural.json) |
 | Supernatural | 303936 | [303936-supernatural.json](./303936-supernatural.json) |
+| SuperNatural Duels | 170660 | [170660-supernatural-duels.json](./170660-supernatural-duels.json) |
 | Supernatural Investigations | 299531 | [299531-supernatural-investigations.json](./299531-supernatural-investigations.json) |
 | SuperNatural Market: Sell or Die | 289820 | [289820-supernatural-market-sell-or-die.json](./289820-supernatural-market-sell-or-die.json) |
 | Supernatural Nightlife Lovers | 298923 | [298923-supernatural-nightlife-lovers.json](./298923-supernatural-nightlife-lovers.json) |
@@ -34483,6 +34490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Raft Simulator: Lost at Sea | 282142 | [282142-survival-raft-simulator-lost-at-sea.json](./282142-survival-raft-simulator-lost-at-sea.json) |
 | Survival Revelation: End of Days | 253842 | [253842-survival-revelation-end-of-days.json](./253842-survival-revelation-end-of-days.json) |
 | Survival RPG 2: The Temple Ruins | 169463 | [169463-survival-rpg-2-the-temple-ruins.json](./169463-survival-rpg-2-the-temple-ruins.json) |
+| Survival RPG 3: Lost in Time | 170642 | [170642-survival-rpg-3-lost-in-time.json](./170642-survival-rpg-3-lost-in-time.json) |
 | Survival RPG 4: Haunted Manor | 264332 | [264332-survival-rpg-4-haunted-manor.json](./264332-survival-rpg-4-haunted-manor.json) |
 | Survival RPG: The Lost Treasure | 167295 | [167295-survival-rpg-the-lost-treasure.json](./167295-survival-rpg-the-lost-treasure.json) |
 | Survival Run | 18773 | [18773-survival-run.json](./18773-survival-run.json) |
