@@ -3991,6 +3991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orc vs. Undead | 191062 | [191062-orc-vs-undead.json](./191062-orc-vs-undead.json) |
 | Orc Warchief: Strategy City Builder | 216966 | [216966-orc-warchief-strategy-city-builder.json](./216966-orc-warchief-strategy-city-builder.json) |
 | Orc's Bride | 367196 | [367196-orcs-bride.json](./367196-orcs-bride.json) |
+| Orc's Civil War | 158335 | [158335-orcs-civil-war.json](./158335-orcs-civil-war.json) |
 | Orca | 301336 | [301336-orca.json](./301336-orca.json) |
 | Orca 2: O Mistério de Wakkita | 261950 | [261950-orca-2-o-misterio-de-wakkita.json](./261950-orca-2-o-misterio-de-wakkita.json) |
 | Orca 3: A Maldição dos Barbatantes | 261951 | [261951-orca-3-a-maldicao-dos-barbatantes.json](./261951-orca-3-a-maldicao-dos-barbatantes.json) |
@@ -4500,6 +4501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osiris | 224954 | [224954-osiris.json](./224954-osiris.json) |
 | Osiris: New Dawn | 23732 | [23732-osiris-new-dawn.json](./23732-osiris-new-dawn.json) |
 | Oslo: 2084 | 253890 | [253890-oslo-2084.json](./253890-oslo-2084.json) |
+| Osman Gazi | 158311 | [158311-osman-gazi.json](./158311-osman-gazi.json) |
 | Osman Ghazi: Ottoman Rising | 382297 | [382297-osman-ghazi-ottoman-rising.json](./382297-osman-ghazi-ottoman-rising.json) |
 | Osmanli'nin Onuru | 108130 | [108130-osmanlinin-onuru.json](./108130-osmanlinin-onuru.json) |
 | Osmathus Falling | 399430 | [399430-osmathus-falling.json](./399430-osmathus-falling.json) |
