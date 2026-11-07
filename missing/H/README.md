@@ -78,6 +78,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HaberDashers | 155907 | [155907-haberdashers.json](./155907-haberdashers.json) |
 | Habilis | 313898 | [313898-habilis.json](./313898-habilis.json) |
 | Habitat | 10387 | [10387-habitat.json](./10387-habitat.json) |
+| Habitat | 173361 | [173361-habitat.json](./173361-habitat.json) |
 | Habitat | 181243 | [181243-habitat.json](./181243-habitat.json) |
 | Habitat | 192111 | [192111-habitat.json](./192111-habitat.json) |
 | Habitat | 28717 | [28717-habitat.json](./28717-habitat.json) |
@@ -2634,6 +2635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunt or Heist | 291514 | [291514-haunt-or-heist.json](./291514-haunt-or-heist.json) |
 | Haunt the House: Terrortown | 16942 | [16942-haunt-the-house-terrortown.json](./16942-haunt-the-house-terrortown.json) |
 | Hauntasy | 412730 | [412730-hauntasy.json](./412730-hauntasy.json) |
+| HaunTD | 173364 | [173364-hauntd.json](./173364-hauntd.json) |
 | Haunted | 16799 | [16799-haunted.json](./16799-haunted.json) |
 | Haunted | 377571 | [377571-haunted.json](./377571-haunted.json) |
 | Haunted Abbey | 13725 | [13725-haunted-abbey.json](./13725-haunted-abbey.json) |
@@ -8829,6 +8831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Adventures: Hawaii | 296819 | [296819-holiday-adventures-hawaii.json](./296819-holiday-adventures-hawaii.json) |
 | Holiday After Special | 310965 | [310965-holiday-after-special.json](./310965-holiday-after-special.json) |
 | Holiday Bonus Gold | 29929 | [29929-holiday-bonus-gold.json](./29929-holiday-bonus-gold.json) |
+| Holiday Cheer 3 | 173332 | [173332-holiday-cheer-3.json](./173332-holiday-cheer-3.json) |
 | Holiday Dash! | 251357 | [251357-holiday-dash.json](./251357-holiday-dash.json) |
 | Holiday Express | 54088 | [54088-holiday-express.json](./54088-holiday-express.json) |
 | Holiday Eye Spy | 332177 | [332177-holiday-eye-spy.json](./332177-holiday-eye-spy.json) |
