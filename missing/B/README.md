@@ -11019,6 +11019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Drift | 86566 | [86566-blood-drift.json](./86566-blood-drift.json) |
 | Blood Drive | 380025 | [380025-blood-drive.json](./380025-blood-drive.json) |
 | Blood Drive | 6922 | [6922-blood-drive.json](./6922-blood-drive.json) |
+| Blood Drop | 151911 | [151911-blood-drop.json](./151911-blood-drop.json) |
 | Blood Engine | 284013 | [284013-blood-engine.json](./284013-blood-engine.json) |
 | Blood Exile | 226106 | [226106-blood-exile.json](./226106-blood-exile.json) |
 | Blood Expedition | 384638 | [384638-blood-expedition.json](./384638-blood-expedition.json) |
