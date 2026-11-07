@@ -3882,7 +3882,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4137,6 +4136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inherent Evil: The Haunted Hotel | 71951 | [71951-inherent-evil-the-haunted-hotel.json](./71951-inherent-evil-the-haunted-hotel.json) |
 | Inherit the Earth | 143532 | [143532-inherit-the-earth.json](./143532-inherit-the-earth.json) |
 | Inherit the Earth: Quest for the Orb | 16726 | [16726-inherit-the-earth-quest-for-the-orb.json](./16726-inherit-the-earth-quest-for-the-orb.json) |
+| Inheritance | 183164 | [183164-inheritance.json](./183164-inheritance.json) |
 | Inheritance | 323997 | [323997-inheritance.json](./323997-inheritance.json) |
 | Inheritance | 365746 | [365746-inheritance.json](./365746-inheritance.json) |
 | Inheritance of Ash | 322793 | [322793-inheritance-of-ash.json](./322793-inheritance-of-ash.json) |
