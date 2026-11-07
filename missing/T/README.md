@@ -13703,6 +13703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Medical Examination Diary: The Exciting Days of Me and My Senpai | 199680 | [199680-the-medical-examination-diary-the-exciting-days-of-me-and-my-senpai.json](./199680-the-medical-examination-diary-the-exciting-days-of-me-and-my-senpai.json) |
 | The Medieval Doctor | 416825 | [416825-the-medieval-doctor.json](./416825-the-medieval-doctor.json) |
 | The Medieval Journey | 414755 | [414755-the-medieval-journey.json](./414755-the-medieval-journey.json) |
+| The Medieval Psychologist | 190294 | [190294-the-medieval-psychologist.json](./190294-the-medieval-psychologist.json) |
 | The Medium + Observer: System Redux + Darq: Complete Edition Bundle | 166687 | [166687-the-medium-observer-system-redux-darq-complete-edition-bundle.json](./166687-the-medium-observer-system-redux-darq-complete-edition-bundle.json) |
 | The Medium: Cloud Version | 255226 | [255226-the-medium-cloud-version.json](./255226-the-medium-cloud-version.json) |
 | The Medium: Deluxe Edition | 154537 | [154537-the-medium-deluxe-edition.json](./154537-the-medium-deluxe-edition.json) |
@@ -18372,6 +18373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unknown Planet | 270684 | [270684-the-unknown-planet.json](./270684-the-unknown-planet.json) |
 | The Unknown Strain | 292444 | [292444-the-unknown-strain.json](./292444-the-unknown-strain.json) |
 | The Unlife of Gorlak | 271391 | [271391-the-unlife-of-gorlak.json](./271391-the-unlife-of-gorlak.json) |
+| The Unlikely Prometheus | 190275 | [190275-the-unlikely-prometheus.json](./190275-the-unlikely-prometheus.json) |
 | The Unlit Sun | 336737 | [336737-the-unlit-sun.json](./336737-the-unlit-sun.json) |
 | The Unluckiest Man | 216505 | [216505-the-unluckiest-man.json](./216505-the-unluckiest-man.json) |
 | The UnMaking | 191722 | [191722-the-unmaking.json](./191722-the-unmaking.json) |
@@ -18480,6 +18482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Vaults of Minos | 213311 | [213311-the-vaults-of-minos.json](./213311-the-vaults-of-minos.json) |
 | The Veil of Mystery: Seven Little Gnomes | 185935 | [185935-the-veil-of-mystery-seven-little-gnomes.json](./185935-the-veil-of-mystery-seven-little-gnomes.json) |
 | The Veiled Ones | 318799 | [318799-the-veiled-ones.json](./318799-the-veiled-ones.json) |
+| The Vellescian Gambit | 190287 | [190287-the-vellescian-gambit.json](./190287-the-vellescian-gambit.json) |
 | The Velvet Green Witch: A Quiet Life | 407701 | [407701-the-velvet-green-witch-a-quiet-life.json](./407701-the-velvet-green-witch-a-quiet-life.json) |
 | The Vending Machine | 355890 | [355890-the-vending-machine.json](./355890-the-vending-machine.json) |
 | The Vengeance Of Lady Witch | 250964 | [250964-the-vengeance-of-lady-witch.json](./250964-the-vengeance-of-lady-witch.json) |
@@ -20354,6 +20357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Days of the Rabbit | 183831 | [183831-three-days-of-the-rabbit.json](./183831-three-days-of-the-rabbit.json) |
 | Three Days to Chicago | 259716 | [259716-three-days-to-chicago.json](./259716-three-days-to-chicago.json) |
 | Three Dead Zed | 36364 | [36364-three-dead-zed.json](./36364-three-dead-zed.json) |
+| Three Defilements | 190307 | [190307-three-defilements.json](./190307-three-defilements.json) |
 | Three Digits | 24037 | [24037-three-digits.json](./24037-three-digits.json) |
 | Three Dimension | 189183 | [189183-three-dimension.json](./189183-three-dimension.json) |
 | Three Fairies' Hoppin' Flappin' Great Journey! | 165726 | [165726-three-fairies-hoppin-flappin-great-journey.json](./165726-three-fairies-hoppin-flappin-great-journey.json) |
