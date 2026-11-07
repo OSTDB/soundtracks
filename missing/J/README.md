@@ -2542,6 +2542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoiLab VR | 309755 | [309755-joilab-vr.json](./309755-joilab-vr.json) |
 | Join 4 | 232301 | [232301-join-4.json](./232301-join-4.json) |
 | Join It | 256246 | [256246-join-it.json](./256246-join-it.json) |
+| Join Now! | 180928 | [180928-join-now.json](./180928-join-now.json) |
 | Join Rush Attack | 172945 | [172945-join-rush-attack.json](./172945-join-rush-attack.json) |
 | Join the Pack | 207988 | [207988-join-the-pack.json](./207988-join-the-pack.json) |
 | Join Tiles: Anatolian Game to Play | 260720 | [260720-join-tiles-anatolian-game-to-play.json](./260720-join-tiles-anatolian-game-to-play.json) |
