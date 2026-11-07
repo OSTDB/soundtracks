@@ -9864,6 +9864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoppenhelm | 95130 | [95130-hoppenhelm.json](./95130-hoppenhelm.json) |
 | Hopper | 13726 | [13726-hopper.json](./13726-hopper.json) |
 | Hopper | 144374 | [144374-hopper.json](./144374-hopper.json) |
+| Hopper | 186215 | [186215-hopper.json](./186215-hopper.json) |
 | Hopper (bounce bounce bounce) | 98794 | [98794-hopper-bounce-bounce-bounce.json](./98794-hopper-bounce-bounce-bounce.json) |
 | Hopper Cat | 234596 | [234596-hopper-cat.json](./234596-hopper-cat.json) |
 | Hopper Copper | 14117 | [14117-hopper-copper.json](./14117-hopper-copper.json) |
@@ -10926,6 +10927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Flipper 2: Sakura DLC | 389511 | [389511-house-flipper-2-sakura-dlc.json](./389511-house-flipper-2-sakura-dlc.json) |
 | House Flipper 2: Scooby-Doo | 347894 | [347894-house-flipper-2-scooby-doo.json](./347894-house-flipper-2-scooby-doo.json) |
 | House Flipper 2: Special Edition | 282056 | [282056-house-flipper-2-special-edition.json](./282056-house-flipper-2-special-edition.json) |
+| House Flipper Bundle | 186361 | [186361-house-flipper-bundle.json](./186361-house-flipper-bundle.json) |
 | House Flipper Hairdreser Bundle | 312839 | [312839-house-flipper-hairdreser-bundle.json](./312839-house-flipper-hairdreser-bundle.json) |
 | House Flipper Pets VR | 230153 | [230153-house-flipper-pets-vr.json](./230153-house-flipper-pets-vr.json) |
 | House Flipper Simulator | 174666 | [174666-house-flipper-simulator.json](./174666-house-flipper-simulator.json) |
@@ -10940,6 +10942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Flipper: Garden DLC | 116384 | [116384-house-flipper-garden-dlc.json](./116384-house-flipper-garden-dlc.json) |
 | House Flipper: HGTV DLC | 145529 | [145529-house-flipper-hgtv-dlc.json](./145529-house-flipper-hgtv-dlc.json) |
 | House Flipper: Home Design | 102846 | [102846-house-flipper-home-design.json](./102846-house-flipper-home-design.json) |
+| House Flipper: Luxury DLC | 186370 | [186370-house-flipper-luxury-dlc.json](./186370-house-flipper-luxury-dlc.json) |
 | House Flipper: Mega Pack | 255223 | [255223-house-flipper-mega-pack.json](./255223-house-flipper-mega-pack.json) |
 | House Flipper: Party Furniture Pack | 375537 | [375537-house-flipper-party-furniture-pack.json](./375537-house-flipper-party-furniture-pack.json) |
 | House Flipper: Pets | 171462 | [171462-house-flipper-pets.json](./171462-house-flipper-pets.json) |
