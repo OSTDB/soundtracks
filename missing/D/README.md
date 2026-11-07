@@ -5432,6 +5432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Exodus | 384511 | [384511-deep-space-exodus.json](./384511-deep-space-exodus.json) |
 | Deep Space Expedition 47 | 190895 | [190895-deep-space-expedition-47.json](./190895-deep-space-expedition-47.json) |
 | Deep Space Exploitation | 346545 | [346545-deep-space-exploitation.json](./346545-deep-space-exploitation.json) |
+| Deep Space Gardening | 157817 | [157817-deep-space-gardening.json](./157817-deep-space-gardening.json) |
 | Deep Space Reflections | 116398 | [116398-deep-space-reflections.json](./116398-deep-space-reflections.json) |
 | Deep Space RPG: Origins | 110502 | [110502-deep-space-rpg-origins.json](./110502-deep-space-rpg-origins.json) |
 | Deep Space Rush | 125189 | [125189-deep-space-rush.json](./125189-deep-space-rush.json) |
@@ -15011,6 +15012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Front: Adventures | 318316 | [318316-dragon-front-adventures.json](./318316-dragon-front-adventures.json) |
 | Dragon Fun Classic | 221974 | [221974-dragon-fun-classic.json](./221974-dragon-fun-classic.json) |
 | Dragon Fury | 231046 | [231046-dragon-fury.json](./231046-dragon-fury.json) |
+| Dragon Fury VR | 157815 | [157815-dragon-fury-vr.json](./157815-dragon-fury-vr.json) |
 | Dragon Gal: Shura no Yabou | 58692 | [58692-dragon-gal-shura-no-yabou.json](./58692-dragon-gal-shura-no-yabou.json) |
 | Dragon Gate | 180603 | [180603-dragon-gate.json](./180603-dragon-gate.json) |
 | Dragon Girl | 328416 | [328416-dragon-girl.json](./328416-dragon-girl.json) |
