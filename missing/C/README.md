@@ -13424,6 +13424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conan Exiles: Deluxe Edition | 118697 | [118697-conan-exiles-deluxe-edition.json](./118697-conan-exiles-deluxe-edition.json) |
 | Conan Exiles: Isle of Siptah | 167762 | [167762-conan-exiles-isle-of-siptah.json](./167762-conan-exiles-isle-of-siptah.json) |
 | Conan Exiles: Isle of Siptah Edition | 164809 | [164809-conan-exiles-isle-of-siptah-edition.json](./164809-conan-exiles-isle-of-siptah-edition.json) |
+| Conan Exiles: Jewel of the West Pack | 164675 | [164675-conan-exiles-jewel-of-the-west-pack.json](./164675-conan-exiles-jewel-of-the-west-pack.json) |
 | Conan Exiles: People of the Dragon Pack | 227159 | [227159-conan-exiles-people-of-the-dragon-pack.json](./227159-conan-exiles-people-of-the-dragon-pack.json) |
 | Conan Exiles: Riders of Hyboria | 127253 | [127253-conan-exiles-riders-of-hyboria.json](./127253-conan-exiles-riders-of-hyboria.json) |
 | Conan Exiles: Riders of Hyboria Pack | 164794 | [164794-conan-exiles-riders-of-hyboria-pack.json](./164794-conan-exiles-riders-of-hyboria-pack.json) |
@@ -13432,6 +13433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conan Exiles: Seekers of the Dawn Pack | 164775 | [164775-conan-exiles-seekers-of-the-dawn-pack.json](./164775-conan-exiles-seekers-of-the-dawn-pack.json) |
 | Conan Exiles: The Imperial East Pack | 164708 | [164708-conan-exiles-the-imperial-east-pack.json](./164708-conan-exiles-the-imperial-east-pack.json) |
 | Conan Exiles: The Riddle of Steel | 164720 | [164720-conan-exiles-the-riddle-of-steel.json](./164720-conan-exiles-the-riddle-of-steel.json) |
+| Conan Exiles: The Savage Frontier Pack | 164660 | [164660-conan-exiles-the-savage-frontier-pack.json](./164660-conan-exiles-the-savage-frontier-pack.json) |
 | Conan Exiles: Treasures of Turan | 117416 | [117416-conan-exiles-treasures-of-turan.json](./117416-conan-exiles-treasures-of-turan.json) |
 | Conan Exiles: Treasures of Turan Pack | 164779 | [164779-conan-exiles-treasures-of-turan-pack.json](./164779-conan-exiles-treasures-of-turan-pack.json) |
 | Conan Room | 194321 | [194321-conan-room.json](./194321-conan-room.json) |
