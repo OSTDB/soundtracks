@@ -2192,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 303 Logic, Action & Arcade Games | 228411 | [228411-303-logic-action-and-arcade-games.json](./228411-303-logic-action-and-arcade-games.json) |
 | 303 Squadron: Battle of Britain | 90654 | [90654-303-squadron-battle-of-britain.json](./90654-303-squadron-battle-of-britain.json) |
 | 3030 | 262985 | [262985-3030.json](./262985-3030.json) |
+| 3030 Deathwar | 170080 | [170080-3030-deathwar.json](./170080-3030-deathwar.json) |
 | 3030 Deathwar Redux | 32952 | [32952-3030-deathwar-redux.json](./32952-3030-deathwar-redux.json) |
 | 304 Seconds | 262835 | [262835-304-seconds.json](./262835-304-seconds.json) |
 | 3059 | 300002 | [300002-3059.json](./300002-3059.json) |
