@@ -2321,6 +2321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Villainous Contraptions | 182671 | [182671-villainous-contraptions.json](./182671-villainous-contraptions.json) |
 | Villainous Valentine | 313750 | [313750-villainous-valentine.json](./313750-villainous-valentine.json) |
 | Villains Corp. | 252136 | [252136-villains-corp.json](./252136-villains-corp.json) |
+| Villains inside | 184133 | [184133-villains-inside.json](./184133-villains-inside.json) |
 | Villains: Robot Battle Royale | 378613 | [378613-villains-robot-battle-royale.json](./378613-villains-robot-battle-royale.json) |
 | Villainville | 347447 | [347447-villainville.json](./347447-villainville.json) |
 | Villainy | 370562 | [370562-villainy.json](./370562-villainy.json) |
