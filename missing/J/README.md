@@ -129,6 +129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jacaranda Jim | 93463 | [93463-jacaranda-jim.json](./93463-jacaranda-jim.json) |
 | Jack | 369658 | [369658-jack.json](./369658-jack.json) |
 | Jack 'n' Hat | 149790 | [149790-jack-n-hat.json](./149790-jack-n-hat.json) |
+| Jack & Beans | 176040 | [176040-jack-and-beans.json](./176040-jack-and-beans.json) |
 | Jack & Bob Remastered | 316308 | [316308-jack-and-bob-remastered.json](./316308-jack-and-bob-remastered.json) |
 | Jack & Detective | 197468 | [197468-jack-and-detective.json](./197468-jack-and-detective.json) |
 | Jack & Detectives: Black Magic Expansion | 364562 | [364562-jack-and-detectives-black-magic-expansion.json](./364562-jack-and-detectives-black-magic-expansion.json) |
@@ -3612,6 +3613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle Defence | 116208 | [116208-jungle-defence.json](./116208-jungle-defence.json) |
 | Jungle Defenders | 391623 | [391623-jungle-defenders.json](./391623-jungle-defenders.json) |
 | Jungle Drummer | 305139 | [305139-jungle-drummer.json](./305139-jungle-drummer.json) |
+| Jungle Emperor Leo | 176031 | [176031-jungle-emperor-leo.json](./176031-jungle-emperor-leo.json) |
 | Jungle Fever | 14141 | [14141-jungle-fever.json](./14141-jungle-fever.json) |
 | Jungle Gems VR | 250845 | [250845-jungle-gems-vr.json](./250845-jungle-gems-vr.json) |
 | Jungle Gin HD | 209859 | [209859-jungle-gin-hd.json](./209859-jungle-gin-hd.json) |
