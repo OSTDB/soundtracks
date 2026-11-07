@@ -6513,6 +6513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HexaWars | 260151 | [260151-hexawars.json](./260151-hexawars.json) |
 | Hexaword | 386725 | [386725-hexaword.json](./386725-hexaword.json) |
 | HexBat | 250814 | [250814-hexbat.json](./250814-hexbat.json) |
+| Hexblade | 183150 | [183150-hexblade.json](./183150-hexblade.json) |
 | Hexborn | 366729 | [366729-hexborn.json](./366729-hexborn.json) |
 | Hexbot Colony | 279848 | [279848-hexbot-colony.json](./279848-hexbot-colony.json) |
 | Hexbotica | 345814 | [345814-hexbotica.json](./345814-hexbotica.json) |
