@@ -7801,6 +7801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riptide GP2 | 16735 | [16735-riptide-gp2.json](./16735-riptide-gp2.json) |
 | Riptoff | 142367 | [142367-riptoff.json](./142367-riptoff.json) |
 | Ripukisu | 136692 | [136692-ripukisu.json](./136692-ripukisu.json) |
+| RiQa | 176034 | [176034-riqa.json](./176034-riqa.json) |
 | Riri & Coco | 240560 | [240560-riri-and-coco.json](./240560-riri-and-coco.json) |
 | Riri: Origin of Surabaya | 293341 | [293341-riri-origin-of-surabaya.json](./293341-riri-origin-of-surabaya.json) |
 | Ririka von Lustveil | 398912 | [398912-ririka-von-lustveil.json](./398912-ririka-von-lustveil.json) |
@@ -11093,6 +11094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roots of Insanity | 19570 | [19570-roots-of-insanity.json](./19570-roots-of-insanity.json) |
 | Roots of Rebirth | 239644 | [239644-roots-of-rebirth.json](./239644-roots-of-rebirth.json) |
 | Roots of the Mind | 250708 | [250708-roots-of-the-mind.json](./250708-roots-of-the-mind.json) |
+| Roots of Tomorrow | 176066 | [176066-roots-of-tomorrow.json](./176066-roots-of-tomorrow.json) |
 | Roots of Tomorrow: Additional Characters | 201097 | [201097-roots-of-tomorrow-additional-characters.json](./201097-roots-of-tomorrow-additional-characters.json) |
 | Roots of Tomorrow: Beekeeping | 201098 | [201098-roots-of-tomorrow-beekeeping.json](./201098-roots-of-tomorrow-beekeeping.json) |
 | Roots of Tomorrow: Urban Agriculture | 244361 | [244361-roots-of-tomorrow-urban-agriculture.json](./244361-roots-of-tomorrow-urban-agriculture.json) |
