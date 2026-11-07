@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lakatos | 240662 | [240662-lakatos.json](./240662-lakatos.json) |
 | Lake Adventure | 279780 | [279780-lake-adventure.json](./279780-lake-adventure.json) |
 | Lake Facade: Director's Cut | 193584 | [193584-lake-facade-directors-cut.json](./193584-lake-facade-directors-cut.json) |
+| Lake Haven: Chrysalis | 170625 | [170625-lake-haven-chrysalis.json](./170625-lake-haven-chrysalis.json) |
 | Lake Hero | 412959 | [412959-lake-hero.json](./412959-lake-hero.json) |
 | Lake House: Children of Silence | 40967 | [40967-lake-house-children-of-silence.json](./40967-lake-house-children-of-silence.json) |
 | Lake Masters | 67302 | [67302-lake-masters.json](./67302-lake-masters.json) |
@@ -2343,6 +2344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leave No One Behind: la Drang VR | 203745 | [203745-leave-no-one-behind-la-drang-vr.json](./203745-leave-no-one-behind-la-drang-vr.json) |
 | Leave Panda Away | 268262 | [268262-leave-panda-away.json](./268262-leave-panda-away.json) |
 | Leave the Nest | 32662 | [32662-leave-the-nest.json](./32662-leave-the-nest.json) |
+| Leave the Red | 170657 | [170657-leave-the-red.json](./170657-leave-the-red.json) |
 | Leave the Room | 180408 | [180408-leave-the-room.json](./180408-leave-the-room.json) |
 | Leave! | 169795 | [169795-leave.json](./169795-leave.json) |
 | Leavers Rift | 351416 | [351416-leavers-rift.json](./351416-leavers-rift.json) |
