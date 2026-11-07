@@ -7355,6 +7355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Hams on Deck! | 185835 | [185835-all-hams-on-deck.json](./185835-all-hams-on-deck.json) |
 | All Hands on Deck | 216465 | [216465-all-hands-on-deck.json](./216465-all-hands-on-deck.json) |
 | All Hell Unleashed | 340581 | [340581-all-hell-unleashed.json](./340581-all-hell-unleashed.json) |
+| All Hit All Her | 148089 | [148089-all-hit-all-her.json](./148089-all-hit-all-her.json) |
 | All Hit All Her: Western City | 193230 | [193230-all-hit-all-her-western-city.json](./193230-all-hit-all-her-western-city.json) |
 | All Humans Must Die! | 183557 | [183557-all-humans-must-die.json](./183557-all-humans-must-die.json) |
 | All I Do Is Dream | 57519 | [57519-all-i-do-is-dream.json](./57519-all-i-do-is-dream.json) |
@@ -11656,6 +11657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apex Legends: Lifeline Edition | 136063 | [136063-apex-legends-lifeline-edition.json](./136063-apex-legends-lifeline-edition.json) |
 | Apex Legends: Loba Edition | 179296 | [179296-apex-legends-loba-edition.json](./179296-apex-legends-loba-edition.json) |
 | Apex Legends: Marked | 412314 | [412314-apex-legends-marked.json](./412314-apex-legends-marked.json) |
+| Apex Legends: Mirage Edition | 148173 | [148173-apex-legends-mirage-edition.json](./148173-apex-legends-mirage-edition.json) |
 | Apex Legends: Octane Edition | 136188 | [136188-apex-legends-octane-edition.json](./136188-apex-legends-octane-edition.json) |
 | Apex Legends: Pathfinder Edition | 136187 | [136187-apex-legends-pathfinder-edition.json](./136187-apex-legends-pathfinder-edition.json) |
 | Apex Legends: PlayStation Plus Play Pack | 304299 | [304299-apex-legends-playstation-plus-play-pack.json](./304299-apex-legends-playstation-plus-play-pack.json) |
@@ -12216,6 +12218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquium | 290553 | [290553-aquium.json](./290553-aquium.json) |
 | Aqumana | 175376 | [175376-aqumana.json](./175376-aqumana.json) |
 | Aquor | 335790 | [335790-aquor.json](./335790-aquor.json) |
+| Aquris | 148076 | [148076-aquris.json](./148076-aquris.json) |
 | AR Basketball | 63247 | [63247-ar-basketball.json](./63247-ar-basketball.json) |
 | AR Butterflies and Flowers | 105773 | [105773-ar-butterflies-and-flowers.json](./105773-ar-butterflies-and-flowers.json) |
 | AR Combat DigiQ: Tomodachi Senshatai | 64772 | [64772-ar-combat-digiq-tomodachi-senshatai.json](./64772-ar-combat-digiq-tomodachi-senshatai.json) |
@@ -12570,6 +12573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Gun & Frontier | 213342 | [213342-arcade-archives-gun-and-frontier.json](./213342-arcade-archives-gun-and-frontier.json) |
 | Arcade Archives: GunNail | 187463 | [187463-arcade-archives-gunnail.json](./187463-arcade-archives-gunnail.json) |
 | Arcade Archives: Guttang Gottong | 271477 | [271477-arcade-archives-guttang-gottong.json](./271477-arcade-archives-guttang-gottong.json) |
+| Arcade Archives: Guzzler | 148093 | [148093-arcade-archives-guzzler.json](./148093-arcade-archives-guzzler.json) |
 | Arcade Archives: Hacha Mecha Fighter | 151164 | [151164-arcade-archives-hacha-mecha-fighter.json](./151164-arcade-archives-hacha-mecha-fighter.json) |
 | Arcade Archives: Halley's Comet | 147111 | [147111-arcade-archives-halleys-comet.json](./147111-arcade-archives-halleys-comet.json) |
 | Arcade Archives: Haunted Castle | 99487 | [99487-arcade-archives-haunted-castle.json](./99487-arcade-archives-haunted-castle.json) |
