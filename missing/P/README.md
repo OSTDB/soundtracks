@@ -5896,6 +5896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Physics Sandbox VR | 168047 | [168047-physics-sandbox-vr.json](./168047-physics-sandbox-vr.json) |
 | Physics World | 158144 | [158144-physics-world.json](./158144-physics-world.json) |
 | Physics World: Evolution | 373306 | [373306-physics-world-evolution.json](./373306-physics-world-evolution.json) |
+| Physics: Optics Table | 151349 | [151349-physics-optics-table.json](./151349-physics-optics-table.json) |
 | Physics! Fun | 297236 | [297236-physics-fun.json](./297236-physics-fun.json) |
 | PhysicsN | 74941 | [74941-physicsn.json](./74941-physicsn.json) |
 | Physicus: Save the World with Science! | 79825 | [79825-physicus-save-the-world-with-science.json](./79825-physicus-save-the-world-with-science.json) |
@@ -13806,6 +13807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Vacuum | 251987 | [251987-power-vacuum.json](./251987-power-vacuum.json) |
 | Power Virtual TableTop | 54975 | [54975-power-virtual-tabletop.json](./54975-power-virtual-tabletop.json) |
 | Power Volleyball | 332477 | [332477-power-volleyball.json](./332477-power-volleyball.json) |
+| Power Washer Hero | 151365 | [151365-power-washer-hero.json](./151365-power-washer-hero.json) |
 | Power, Corruption & Lies | 57646 | [57646-power-corruption-and-lies.json](./57646-power-corruption-and-lies.json) |
 | Power: The Game | 122275 | [122275-power-the-game.json](./122275-power-the-game.json) |
 | Power's Out | 142150 | [142150-powers-out.json](./142150-powers-out.json) |
@@ -15838,6 +15840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Blur | 372086 | [372086-project-blur.json](./372086-project-blur.json) |
 | Project Bob | 293013 | [293013-project-bob.json](./293013-project-bob.json) |
 | Project Bonsai | 247920 | [247920-project-bonsai.json](./247920-project-bonsai.json) |
+| Project Boost | 151357 | [151357-project-boost.json](./151357-project-boost.json) |
 | Project Bore | 185784 | [185784-project-bore.json](./185784-project-bore.json) |
 | Project Borealis: Prologue | 321863 | [321863-project-borealis-prologue.json](./321863-project-borealis-prologue.json) |
 | Project Box | 124399 | [124399-project-box.json](./124399-project-box.json) |
