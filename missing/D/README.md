@@ -14522,6 +14522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: Pro Basketball 2019 | 111623 | [111623-draft-day-sports-pro-basketball-2019.json](./111623-draft-day-sports-pro-basketball-2019.json) |
 | Draft Day Sports: Pro Basketball 2020 | 126983 | [126983-draft-day-sports-pro-basketball-2020.json](./126983-draft-day-sports-pro-basketball-2020.json) |
 | Draft Day Sports: Pro Basketball 2021 | 137868 | [137868-draft-day-sports-pro-basketball-2021.json](./137868-draft-day-sports-pro-basketball-2021.json) |
+| Draft Day Sports: Pro Basketball 2022 | 163625 | [163625-draft-day-sports-pro-basketball-2022.json](./163625-draft-day-sports-pro-basketball-2022.json) |
 | Draft Day Sports: Pro Basketball 2023 | 226201 | [226201-draft-day-sports-pro-basketball-2023.json](./226201-draft-day-sports-pro-basketball-2023.json) |
 | Draft Day Sports: Pro Basketball 2024 | 273791 | [273791-draft-day-sports-pro-basketball-2024.json](./273791-draft-day-sports-pro-basketball-2024.json) |
 | Draft Day Sports: Pro Basketball 26 | 375553 | [375553-draft-day-sports-pro-basketball-26.json](./375553-draft-day-sports-pro-basketball-26.json) |
