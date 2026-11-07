@@ -3342,6 +3342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Waves | 195565 | [195565-geometry-waves.json](./195565-geometry-waves.json) |
 | Geometry World | 55575 | [55575-geometry-world.json](./55575-geometry-world.json) |
 | Geometry Worlds 2 | 208180 | [208180-geometry-worlds-2.json](./208180-geometry-worlds-2.json) |
+| GeometryBricks | 166917 | [166917-geometrybricks.json](./166917-geometrybricks.json) |
 | Geomeun Jeonseol | 220282 | [220282-geomeun-jeonseol.json](./220282-geomeun-jeonseol.json) |
 | Geomoth Boot Sequence | 289312 | [289312-geomoth-boot-sequence.json](./289312-geomoth-boot-sequence.json) |
 | Geon | 381050 | [381050-geon.json](./381050-geon.json) |
