@@ -2018,6 +2018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unduhagge | 229658 | [229658-unduhagge.json](./229658-unduhagge.json) |
 | Undulations | 285686 | [285686-undulations.json](./285686-undulations.json) |
 | UnDune II: The Demaking of a Dynasty | 275676 | [275676-undune-ii-the-demaking-of-a-dynasty.json](./275676-undune-ii-the-demaking-of-a-dynasty.json) |
+| Undungeon Arena | 141971 | [141971-undungeon-arena.json](./141971-undungeon-arena.json) |
 | Undusted: Letters from the Past | 295734 | [295734-undusted-letters-from-the-past.json](./295734-undusted-letters-from-the-past.json) |
 | UnDuster | 281911 | [281911-unduster.json](./281911-unduster.json) |
 | Undying | 119360 | [119360-undying.json](./119360-undying.json) |
