@@ -5373,6 +5373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Sexy Nurse | 411074 | [411074-hentai-sexy-nurse.json](./411074-hentai-sexy-nurse.json) |
 | Hentai Sexy Nurses | 222284 | [222284-hentai-sexy-nurses.json](./222284-hentai-sexy-nurses.json) |
 | Hentai Shadow | 112839 | [112839-hentai-shadow.json](./112839-hentai-shadow.json) |
+| Hentai Sherlock | 179262 | [179262-hentai-sherlock.json](./179262-hentai-sherlock.json) |
 | Hentai Shibari | 371359 | [371359-hentai-shibari.json](./371359-hentai-shibari.json) |
 | Hentai Shion | 411066 | [411066-hentai-shion.json](./411066-hentai-shion.json) |
 | Hentai Shiri | 368007 | [368007-hentai-shiri.json](./368007-hentai-shiri.json) |
