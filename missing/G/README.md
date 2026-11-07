@@ -5977,6 +5977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Eater: Resonant Ops | 74176 | [74176-god-eater-resonant-ops.json](./74176-god-eater-resonant-ops.json) |
 | God Edge | 202484 | [202484-god-edge.json](./202484-god-edge.json) |
 | GoD Factory: Wingmen | 12514 | [12514-god-factory-wingmen.json](./12514-god-factory-wingmen.json) |
+| God Field | 153571 | [153571-god-field.json](./153571-god-field.json) |
 | God Fishing | 358872 | [358872-god-fishing.json](./358872-god-fishing.json) |
 | God For A Day | 277267 | [277267-god-for-a-day.json](./277267-god-for-a-day.json) |
 | God Forsaken | 375213 | [375213-god-forsaken.json](./375213-god-forsaken.json) |
