@@ -742,6 +742,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare - Season Six | 140977 | [140977-call-of-duty-modern-warfare-season-six.json](./140977-call-of-duty-modern-warfare-season-six.json) |
 | Call of Duty: Modern Warfare - Season Three | 135219 | [135219-call-of-duty-modern-warfare-season-three.json](./135219-call-of-duty-modern-warfare-season-three.json) |
 | Call of Duty: Modern Warfare 2 - Force Recon | 135298 | [135298-call-of-duty-modern-warfare-2-force-recon.json](./135298-call-of-duty-modern-warfare-2-force-recon.json) |
+| Call of Duty: Modern Warfare 2 - Hardened Edition | 154705 | [154705-call-of-duty-modern-warfare-2-hardened-edition.json](./154705-call-of-duty-modern-warfare-2-hardened-edition.json) |
+| Call of Duty: Modern Warfare 2 - Prestige Edition | 154704 | [154704-call-of-duty-modern-warfare-2-prestige-edition.json](./154704-call-of-duty-modern-warfare-2-prestige-edition.json) |
+| Call of Duty: Modern Warfare 2 - Resurgence Pack | 154697 | [154697-call-of-duty-modern-warfare-2-resurgence-pack.json](./154697-call-of-duty-modern-warfare-2-resurgence-pack.json) |
+| Call of Duty: Modern Warfare 2 - Veteran Package | 154707 | [154707-call-of-duty-modern-warfare-2-veteran-package.json](./154707-call-of-duty-modern-warfare-2-veteran-package.json) |
 | Call of Duty: Modern Warfare 2 Campaign Remastered | 95062 | [95062-call-of-duty-modern-warfare-2-campaign-remastered.json](./95062-call-of-duty-modern-warfare-2-campaign-remastered.json) |
 | Call of Duty: Modern Warfare 3 | 287021 | [287021-call-of-duty-modern-warfare-3.json](./287021-call-of-duty-modern-warfare-3.json) |
 | Call of Duty: Modern Warfare 3 - Collection 1 | 194363 | [194363-call-of-duty-modern-warfare-3-collection-1.json](./194363-call-of-duty-modern-warfare-3-collection-1.json) |
@@ -19767,6 +19771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cultist Simulator | 26878 | [26878-cultist-simulator.json](./26878-cultist-simulator.json) |
 | Cultist Simulator: Anthology Edition | 117948 | [117948-cultist-simulator-anthology-edition.json](./117948-cultist-simulator-anthology-edition.json) |
 | Cultist Simulator: Initiate Edition | 142313 | [142313-cultist-simulator-initiate-edition.json](./142313-cultist-simulator-initiate-edition.json) |
+| Cultist Simulator: The Exile | 154687 | [154687-cultist-simulator-the-exile.json](./154687-cultist-simulator-the-exile.json) |
 | Cultist Simulator: The Lady Afterwards | 196087 | [196087-cultist-simulator-the-lady-afterwards.json](./196087-cultist-simulator-the-lady-afterwards.json) |
 | Cultists & Compounds | 133617 | [133617-cultists-and-compounds.json](./133617-cultists-and-compounds.json) |
 | Cultivating Happiness | 229218 | [229218-cultivating-happiness.json](./229218-cultivating-happiness.json) |
