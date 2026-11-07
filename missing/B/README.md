@@ -972,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4214,6 +4215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlecruiser Generations | 174031 | [174031-battlecruiser-generations.json](./174031-battlecruiser-generations.json) |
 | Battlecruiser Millennium | 61898 | [61898-battlecruiser-millennium.json](./61898-battlecruiser-millennium.json) |
 | Battlecruiser Millennium: Gold Edition | 205907 | [205907-battlecruiser-millennium-gold-edition.json](./205907-battlecruiser-millennium-gold-edition.json) |
+| Battlecruisers | 143207 | [143207-battlecruisers.json](./143207-battlecruisers.json) |
 | BattleCry | 7210 | [7210-battlecry.json](./7210-battlecry.json) |
 | BattleCry | 85794 | [85794-battlecry.json](./85794-battlecry.json) |
 | Battlecry Berserkers | 277288 | [277288-battlecry-berserkers.json](./277288-battlecry-berserkers.json) |
@@ -5573,6 +5575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania IIDX 7th style | 72914 | [72914-beatmania-iidx-7th-style.json](./72914-beatmania-iidx-7th-style.json) |
 | Beatmania IIDX 8th style | 94024 | [94024-beatmania-iidx-8th-style.json](./94024-beatmania-iidx-8th-style.json) |
 | Beatmania IIDX Club Version | 141046 | [141046-beatmania-iidx-club-version.json](./141046-beatmania-iidx-club-version.json) |
+| Beatmania IIDX Infinitas | 143204 | [143204-beatmania-iidx-infinitas.json](./143204-beatmania-iidx-infinitas.json) |
 | Beatmania IIDX Ultimate Mobile | 137264 | [137264-beatmania-iidx-ultimate-mobile.json](./137264-beatmania-iidx-ultimate-mobile.json) |
 | beatmania III -The latest evolution machine- | 61017 | [61017-beatmania-iii-the-latest-evolution-machine.json](./61017-beatmania-iii-the-latest-evolution-machine.json) |
 | Beatmania III The Final | 61022 | [61022-beatmania-iii-the-final.json](./61022-beatmania-iii-the-final.json) |
@@ -10230,6 +10233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind Deadly Love | 185537 | [185537-blind-deadly-love.json](./185537-blind-deadly-love.json) |
 | Blind Descent | 150271 | [150271-blind-descent.json](./150271-blind-descent.json) |
 | Blind Dreams | 192831 | [192831-blind-dreams.json](./192831-blind-dreams.json) |
+| Blind Drive | 143231 | [143231-blind-drive.json](./143231-blind-drive.json) |
 | Blind Exposure | 320736 | [320736-blind-exposure.json](./320736-blind-exposure.json) |
 | Blind Fate: Edo no Yami | 138812 | [138812-blind-fate-edo-no-yami.json](./138812-blind-fate-edo-no-yami.json) |
 | Blind Fishes | 252002 | [252002-blind-fishes.json](./252002-blind-fishes.json) |
