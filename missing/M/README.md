@@ -1585,6 +1585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Stock Princess | 157066 | [157066-magical-stock-princess.json](./157066-magical-stock-princess.json) |
 | Magical Strings | 157719 | [157719-magical-strings.json](./157719-magical-strings.json) |
 | Magical Swirl | 259693 | [259693-magical-swirl.json](./259693-magical-swirl.json) |
+| Magical Swordmaiden: Riru's Grand Adventure | 161463 | [161463-magical-swordmaiden-rirus-grand-adventure.json](./161463-magical-swordmaiden-rirus-grand-adventure.json) |
 | Magical Taluluto-kun | 180301 | [180301-magical-taluluto-kun.json](./180301-magical-taluluto-kun.json) |
 | Magical Taluluto-kun | 49074 | [49074-magical-taluluto-kun.json](./49074-magical-taluluto-kun.json) |
 | Magical Taluluto-kun 2: Magical Adventure | 48432 | [48432-magical-taluluto-kun-2-magical-adventure.json](./48432-magical-taluluto-kun-2-magical-adventure.json) |
@@ -5985,6 +5986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -10155,6 +10157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Methods 5: The Last Stage | 335807 | [335807-methods-5-the-last-stage.json](./335807-methods-5-the-last-stage.json) |
 | Methods: Detective Competition | 319558 | [319558-methods-detective-competition.json](./319558-methods-detective-competition.json) |
 | Methods: The Canada Files | 224567 | [224567-methods-the-canada-files.json](./224567-methods-the-canada-files.json) |
+| Methods: The Detective Competition | 161484 | [161484-methods-the-detective-competition.json](./161484-methods-the-detective-competition.json) |
 | Methods: The Illusion Murders | 272598 | [272598-methods-the-illusion-murders.json](./272598-methods-the-illusion-murders.json) |
 | Meticulous | 237085 | [237085-meticulous.json](./237085-meticulous.json) |
 | Meticulous: Meet All Your Needs | 215614 | [215614-meticulous-meet-all-your-needs.json](./215614-meticulous-meet-all-your-needs.json) |
@@ -11373,6 +11376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MidnightKing | 231565 | [231565-midnightking.json](./231565-midnightking.json) |
 | Midnightland | 81940 | [81940-midnightland.json](./81940-midnightland.json) |
 | MidnightNears | 344342 | [344342-midnightnears.json](./344342-midnightnears.json) |
+| MidNights of Desperado | 161479 | [161479-midnights-of-desperado.json](./161479-midnights-of-desperado.json) |
 | Mido and Di | 171194 | [171194-mido-and-di.json](./171194-mido-and-di.json) |
 | Midora | 61307 | [61307-midora.json](./61307-midora.json) |
 | Midori Budou-den | 339121 | [339121-midori-budou-den.json](./339121-midori-budou-den.json) |
@@ -13784,6 +13788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miss Mister World '96 | 39954 | [39954-miss-mister-world-96.json](./39954-miss-mister-world-96.json) |
 | Miss Moonlight | 305354 | [305354-miss-moonlight.json](./305354-miss-moonlight.json) |
 | Miss Neko | 127915 | [127915-miss-neko.json](./127915-miss-neko.json) |
+| Miss Neko 2 | 161488 | [161488-miss-neko-2.json](./161488-miss-neko-2.json) |
 | Miss Neko 3 | 207620 | [207620-miss-neko-3.json](./207620-miss-neko-3.json) |
 | Miss Neko: Pirates | 277783 | [277783-miss-neko-pirates.json](./277783-miss-neko-pirates.json) |
 | Miss Paint | 285565 | [285565-miss-paint.json](./285565-miss-paint.json) |
@@ -19739,6 +19744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushrooman | 226362 | [226362-mushrooman.json](./226362-mushrooman.json) |
 | Mushrooming | 378550 | [378550-mushrooming.json](./378550-mushrooming.json) |
 | MushroomJump | 311273 | [311273-mushroomjump.json](./311273-mushroomjump.json) |
+| MushrooMonster | 161502 | [161502-mushroomonster.json](./161502-mushroomonster.json) |
 | Mushrooms vs Engineers | 402068 | [402068-mushrooms-vs-engineers.json](./402068-mushrooms-vs-engineers.json) |
 | Mushrooms vs. Goombas | 294534 | [294534-mushrooms-vs-goombas.json](./294534-mushrooms-vs-goombas.json) |
 | Mushrooms: Forest Walker | 81792 | [81792-mushrooms-forest-walker.json](./81792-mushrooms-forest-walker.json) |
@@ -21575,6 +21581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mycocosm | 350559 | [350559-mycocosm.json](./350559-mycocosm.json) |
 | Mycofall | 391726 | [391726-mycofall.json](./391726-mycofall.json) |
 | MyCoke | 64136 | [64136-mycoke.json](./64136-mycoke.json) |
+| MyCompany996 | 161493 | [161493-mycompany996.json](./161493-mycompany996.json) |
 | Mycopsychosys | 342662 | [342662-mycopsychosys.json](./342662-mycopsychosys.json) |
 | Mycopsychosys: Project Jupiter | 373683 | [373683-mycopsychosys-project-jupiter.json](./373683-mycopsychosys-project-jupiter.json) |
 | Mycopsychosys: Remastered | 360493 | [360493-mycopsychosys-remastered.json](./360493-mycopsychosys-remastered.json) |
