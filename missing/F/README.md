@@ -13793,6 +13793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Necromancer | 270046 | [270046-furry-necromancer.json](./270046-furry-necromancer.json) |
 | Furry Nights | 201585 | [201585-furry-nights.json](./201585-furry-nights.json) |
 | Furry No Revolution | 402070 | [402070-furry-no-revolution.json](./402070-furry-no-revolution.json) |
+| Furry Nya | 170664 | [170664-furry-nya.json](./170664-furry-nya.json) |
 | Furry Orgasm | 208830 | [208830-furry-orgasm.json](./208830-furry-orgasm.json) |
 | Furry Orgy | 302001 | [302001-furry-orgy.json](./302001-furry-orgy.json) |
 | Furry OwO | 236936 | [236936-furry-owo.json](./236936-furry-owo.json) |
