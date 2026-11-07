@@ -3549,6 +3549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Out! | 163708 | [163708-get-out.json](./163708-get-out.json) |
 | Get Out! | 381048 | [381048-get-out.json](./381048-get-out.json) |
 | Get Out! 2 | 226741 | [226741-get-out-2.json](./226741-get-out-2.json) |
+| Get Out! Snakes! | 159473 | [159473-get-out-snakes.json](./159473-get-out-snakes.json) |
 | Get Out... | 161505 | [161505-get-out.json](./161505-get-out.json) |
 | Get Outta My Gut | 417608 | [417608-get-outta-my-gut.json](./417608-get-outta-my-gut.json) |
 | Get Over Here | 34715 | [34715-get-over-here.json](./34715-get-over-here.json) |
@@ -9472,6 +9473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: The Final Suspect - Collector's Edition | 151438 | [151438-grim-tales-the-final-suspect-collectors-edition.json](./151438-grim-tales-the-final-suspect-collectors-edition.json) |
 | Grim Tales: The Generous Gift | 140220 | [140220-grim-tales-the-generous-gift.json](./140220-grim-tales-the-generous-gift.json) |
 | Grim Tales: The Heir | 99996 | [99996-grim-tales-the-heir.json](./99996-grim-tales-the-heir.json) |
+| Grim Tales: The Heir - Collector's Edition | 159440 | [159440-grim-tales-the-heir-collectors-edition.json](./159440-grim-tales-the-heir-collectors-edition.json) |
 | Grim Tales: The Hunger | 250595 | [250595-grim-tales-the-hunger.json](./250595-grim-tales-the-hunger.json) |
 | Grim Tales: The Hunger - Collector's Edition | 250596 | [250596-grim-tales-the-hunger-collectors-edition.json](./250596-grim-tales-the-hunger-collectors-edition.json) |
 | Grim Tales: The Legacy | 80522 | [80522-grim-tales-the-legacy.json](./80522-grim-tales-the-legacy.json) |
