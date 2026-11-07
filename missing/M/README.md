@@ -22155,6 +22155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythgard | 105679 | [105679-mythgard.json](./105679-mythgard.json) |
 | MythGotchi | 419974 | [419974-mythgotchi.json](./419974-mythgotchi.json) |
 | Mythia | 299866 | [299866-mythia.json](./299866-mythia.json) |
+| Mythic | 189264 | [189264-mythic.json](./189264-mythic.json) |
 | Mythic Battle | 419969 | [419969-mythic-battle.json](./419969-mythic-battle.json) |
 | Mythic Battlegrounds: Demonic Siege | 328857 | [328857-mythic-battlegrounds-demonic-siege.json](./328857-mythic-battlegrounds-demonic-siege.json) |
 | Mythic Blades | 72740 | [72740-mythic-blades.json](./72740-mythic-blades.json) |
