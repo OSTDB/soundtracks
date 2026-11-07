@@ -5731,6 +5731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seraph | 18717 | [18717-seraph.json](./18717-seraph.json) |
 | Seraph of the End: The Origin of Fate | 13638 | [13638-seraph-of-the-end-the-origin-of-fate.json](./13638-seraph-of-the-end-the-origin-of-fate.json) |
 | Seraph: In the Darkness | 277875 | [277875-seraph-in-the-darkness.json](./277875-seraph-in-the-darkness.json) |
+| Seraph's Last Stand | 191984 | [191984-seraphs-last-stand.json](./191984-seraphs-last-stand.json) |
 | Seraphic Blue | 124552 | [124552-seraphic-blue.json](./124552-seraphic-blue.json) |
 | Seraphic Destroyer | 126343 | [126343-seraphic-destroyer.json](./126343-seraphic-destroyer.json) |
 | Seraphic Destroyer: Puzzles | 163419 | [163419-seraphic-destroyer-puzzles.json](./163419-seraphic-destroyer-puzzles.json) |
@@ -6683,6 +6684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Island | 239335 | [239335-shadow-island.json](./239335-shadow-island.json) |
 | Shadow Jump | 219603 | [219603-shadow-jump.json](./219603-shadow-jump.json) |
 | Shadow Keep | 171244 | [171244-shadow-keep.json](./171244-shadow-keep.json) |
+| Shadow Killer | 191995 | [191995-shadow-killer.json](./191995-shadow-killer.json) |
 | Shadow King | 267329 | [267329-shadow-king.json](./267329-shadow-king.json) |
 | Shadow Kings | 344450 | [344450-shadow-kings.json](./344450-shadow-kings.json) |
 | Shadow Knight | 227519 | [227519-shadow-knight.json](./227519-shadow-knight.json) |
@@ -8584,6 +8586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinobi Slash | 264055 | [264055-shinobi-slash.json](./264055-shinobi-slash.json) |
 | Shinobi Spirits S: Legend of Heroes | 121046 | [121046-shinobi-spirits-s-legend-of-heroes.json](./121046-shinobi-spirits-s-legend-of-heroes.json) |
 | Shinobi Story | 165447 | [165447-shinobi-story.json](./165447-shinobi-story.json) |
+| Shinobi Warfare | 191977 | [191977-shinobi-warfare.json](./191977-shinobi-warfare.json) |
 | Shinobi, Koi Utsutsu | 61665 | [61665-shinobi-koi-utsutsu.json](./61665-shinobi-koi-utsutsu.json) |
 | Shinobi, Koi Utsutsu for Nintendo Switch | 253739 | [253739-shinobi-koi-utsutsu-for-nintendo-switch.json](./253739-shinobi-koi-utsutsu-for-nintendo-switch.json) |
 | Shinobi, Koi Utsutsu: Banka Aya Emaki | 76232 | [76232-shinobi-koi-utsutsu-banka-aya-emaki.json](./76232-shinobi-koi-utsutsu-banka-aya-emaki.json) |
@@ -22116,6 +22119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit of Revenge: Florry's Well - Collector's Edition | 426448 | [426448-spirit-of-revenge-florrys-well-collectors-edition.json](./426448-spirit-of-revenge-florrys-well-collectors-edition.json) |
 | Spirit of Revenge: Gem Fury | 53652 | [53652-spirit-of-revenge-gem-fury.json](./53652-spirit-of-revenge-gem-fury.json) |
 | Spirit of Revenge: Gem Fury - Collector's Edition | 416510 | [416510-spirit-of-revenge-gem-fury-collectors-edition.json](./416510-spirit-of-revenge-gem-fury-collectors-edition.json) |
+| Spirit of Shotgun | 191985 | [191985-spirit-of-shotgun.json](./191985-spirit-of-shotgun.json) |
 | Spirit of the Ancient Forest | 43081 | [43081-spirit-of-the-ancient-forest.json](./43081-spirit-of-the-ancient-forest.json) |
 | Spirit of the Backwaters | 248076 | [248076-spirit-of-the-backwaters.json](./248076-spirit-of-the-backwaters.json) |
 | Spirit of the Blade | 151480 | [151480-spirit-of-the-blade.json](./151480-spirit-of-the-blade.json) |
@@ -31649,6 +31653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 16: Land of Crisis | 296050 | [296050-super-mario-16-land-of-crisis.json](./296050-super-mario-16-land-of-crisis.json) |
 | Super Mario 256 | 270377 | [270377-super-mario-256.json](./270377-super-mario-256.json) |
 | Super Mario 2D Land | 269114 | [269114-super-mario-2d-land.json](./269114-super-mario-2d-land.json) |
+| Super Mario 2D World Deluxe | 191964 | [191964-super-mario-2d-world-deluxe.json](./191964-super-mario-2d-world-deluxe.json) |
 | Super Mario 3D All-Stars | 138225 | [138225-super-mario-3d-all-stars.json](./138225-super-mario-3d-all-stars.json) |
 | Super Mario 3D All-Stars Deluxe | 372760 | [372760-super-mario-3d-all-stars-deluxe.json](./372760-super-mario-3d-all-stars-deluxe.json) |
 | Super Mario 3D Kart Deluxe | 265843 | [265843-super-mario-3d-kart-deluxe.json](./265843-super-mario-3d-kart-deluxe.json) |
