@@ -5336,6 +5336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Nightmare | 212120 | [212120-into-the-nightmare.json](./212120-into-the-nightmare.json) |
 | Into The Noid | 276651 | [276651-into-the-noid.json](./276651-into-the-noid.json) |
 | Into the Planet's Flesh | 401626 | [401626-into-the-planets-flesh.json](./401626-into-the-planets-flesh.json) |
+| Into the Pyramid | 155262 | [155262-into-the-pyramid.json](./155262-into-the-pyramid.json) |
 | Into the Radius 2 | 279128 | [279128-into-the-radius-2.json](./279128-into-the-radius-2.json) |
 | Into the Restless Ruins | 295885 | [295885-into-the-restless-ruins.json](./295885-into-the-restless-ruins.json) |
 | Into the Rhythm VR | 56620 | [56620-into-the-rhythm-vr.json](./56620-into-the-rhythm-vr.json) |
@@ -6451,6 +6452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isles | 209323 | [209323-isles.json](./209323-isles.json) |
 | Isles Above | 337082 | [337082-isles-above.json](./337082-isles-above.json) |
 | Isles of Arcana | 422652 | [422652-isles-of-arcana.json](./422652-isles-of-arcana.json) |
+| Isles of Cubes | 155276 | [155276-isles-of-cubes.json](./155276-isles-of-cubes.json) |
 | Isles of Derek | 73726 | [73726-isles-of-derek.json](./73726-isles-of-derek.json) |
 | Isles of Etherion | 187874 | [187874-isles-of-etherion.json](./187874-isles-of-etherion.json) |
 | Isles of Limbo | 153670 | [153670-isles-of-limbo.json](./153670-isles-of-limbo.json) |
