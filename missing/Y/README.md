@@ -798,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoiyami Densetsu: The Legend of Twilight | 203077 | [203077-yoiyami-densetsu-the-legend-of-twilight.json](./203077-yoiyami-densetsu-the-legend-of-twilight.json) |
 | Yoiyami Dreamer: Voice of the Dreambringer | 69353 | [69353-yoiyami-dreamer-voice-of-the-dreambringer.json](./69353-yoiyami-dreamer-voice-of-the-dreambringer.json) |
 | Yoiyo Mori no Hime | 293326 | [293326-yoiyo-mori-no-hime.json](./293326-yoiyo-mori-no-hime.json) |
+| Yojijukugo Flash | 141329 | [141329-yojijukugo-flash.json](./141329-yojijukugo-flash.json) |
 | Yojimbrawl | 87819 | [87819-yojimbrawl.json](./87819-yojimbrawl.json) |
 | Yoka | 401197 | [401197-yoka.json](./401197-yoka.json) |
 | Yokai | 413403 | [413403-yokai.json](./413403-yokai.json) |
@@ -885,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yomi 2 | 223376 | [223376-yomi-2.json](./223376-yomi-2.json) |
 | Yomi 2: Complete edition | 399830 | [399830-yomi-2-complete-edition.json](./399830-yomi-2-complete-edition.json) |
 | Yomi 2: Renegades | 289877 | [289877-yomi-2-renegades.json](./289877-yomi-2-renegades.json) |
+| Yomi Domini | 141346 | [141346-yomi-domini.json](./141346-yomi-domini.json) |
 | Yomi Kikase Asobi Wii | 409082 | [409082-yomi-kikase-asobi-wii.json](./409082-yomi-kikase-asobi-wii.json) |
 | Yomi No Kuni | 400387 | [400387-yomi-no-kuni.json](./400387-yomi-no-kuni.json) |
 | Yomi: Expansion Characters | 169329 | [169329-yomi-expansion-characters.json](./169329-yomi-expansion-characters.json) |
