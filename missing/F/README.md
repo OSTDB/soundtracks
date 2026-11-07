@@ -2657,6 +2657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmers 2050 | 249667 | [249667-farmers-2050.json](./249667-farmers-2050.json) |
 | Farmers Co-op: Out of This World | 165609 | [165609-farmers-co-op-out-of-this-world.json](./165609-farmers-co-op-out-of-this-world.json) |
 | Farmers Rebellion | 40137 | [40137-farmers-rebellion.json](./40137-farmers-rebellion.json) |
+| Farmers vs Zombies | 146442 | [146442-farmers-vs-zombies.json](./146442-farmers-vs-zombies.json) |
 | Farmers' Market | 172882 | [172882-farmers-market.json](./172882-farmers-market.json) |
 | FarmersMahJongg | 92917 | [92917-farmersmahjongg.json](./92917-farmersmahjongg.json) |
 | FarmFury! | 62576 | [62576-farmfury.json](./62576-farmfury.json) |
@@ -6459,6 +6460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Flash | 310798 | [310798-fish-flash.json](./310798-fish-flash.json) |
 | Fish Flop | 272770 | [272770-fish-flop.json](./272770-fish-flop.json) |
 | Fish Fly Fever | 134685 | [134685-fish-fly-fever.json](./134685-fish-fly-fever.json) |
+| Fish Food! | 146431 | [146431-fish-food.json](./146431-fish-food.json) |
 | Fish for gold | 51584 | [51584-fish-for-gold.json](./51584-fish-for-gold.json) |
 | Fish For Reel | 87185 | [87185-fish-for-reel.json](./87185-fish-for-reel.json) |
 | Fish Game | 269021 | [269021-fish-game.json](./269021-fish-game.json) |
@@ -9202,6 +9204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foosball | 95332 | [95332-foosball.json](./95332-foosball.json) |
 | Foosball - Street Edition | 17113 | [17113-foosball-street-edition.json](./17113-foosball-street-edition.json) |
 | Foosball 2012 | 52219 | [52219-foosball-2012.json](./52219-foosball-2012.json) |
+| Foosball Champ 3D | 146415 | [146415-foosball-champ-3d.json](./146415-foosball-champ-3d.json) |
 | Foosball Cup World | 237957 | [237957-foosball-cup-world.json](./237957-foosball-cup-world.json) |
 | Foosball For Two | 68627 | [68627-foosball-for-two.json](./68627-foosball-for-two.json) |
 | Foosball HD | 175508 | [175508-foosball-hd.json](./175508-foosball-hd.json) |
@@ -11035,6 +11038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Squares | 233149 | [233149-four-squares.json](./233149-four-squares.json) |
 | Four Stories Below | 101308 | [101308-four-stories-below.json](./101308-four-stories-below.json) |
 | Four Trax | 46864 | [46864-four-trax.json](./46864-four-trax.json) |
+| Four Up! | 146422 | [146422-four-up.json](./146422-four-up.json) |
 | Four Ways | 129702 | [129702-four-ways.json](./129702-four-ways.json) |
 | Four Ways: Block Puzzle | 131554 | [131554-four-ways-block-puzzle.json](./131554-four-ways-block-puzzle.json) |
 | Four Weeks of Pain | 268895 | [268895-four-weeks-of-pain.json](./268895-four-weeks-of-pain.json) |
