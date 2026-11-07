@@ -9371,6 +9371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE 2K18: Deluxe Edition | 99116 | [99116-wwe-2k18-deluxe-edition.json](./99116-wwe-2k18-deluxe-edition.json) |
 | WWE 2K19 | 102805 | [102805-wwe-2k19.json](./102805-wwe-2k19.json) |
 | WWE 2K19: Deluxe Edition | 136359 | [136359-wwe-2k19-deluxe-edition.json](./136359-wwe-2k19-deluxe-edition.json) |
+| WWE 2K19: Digital Deluxe Edition | 164677 | [164677-wwe-2k19-digital-deluxe-edition.json](./164677-wwe-2k19-digital-deluxe-edition.json) |
 | WWE 2K19: New Moves | 167892 | [167892-wwe-2k19-new-moves.json](./167892-wwe-2k19-new-moves.json) |
 | WWE 2K19: Rey Mysterio & Ronda Rousey | 167891 | [167891-wwe-2k19-rey-mysterio-and-ronda-rousey.json](./167891-wwe-2k19-rey-mysterio-and-ronda-rousey.json) |
 | WWE 2K19: Rising Stars | 165939 | [165939-wwe-2k19-rising-stars.json](./165939-wwe-2k19-rising-stars.json) |
