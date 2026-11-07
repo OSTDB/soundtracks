@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Journey's End | 291182 | [291182-a-journeys-end.json](./291182-a-journeys-end.json) |
 | A Juggler's Tale | 122050 | [122050-a-jugglers-tale.json](./122050-a-jugglers-tale.json) |
 | A Kappa's Trail | 66681 | [66681-a-kappas-trail.json](./66681-a-kappas-trail.json) |
+| A Key(s) Path | 182617 | [182617-a-key-s-path.json](./182617-a-key-s-path.json) |
 | A Killer Chat! Christmas | 370876 | [370876-a-killer-chat-christmas.json](./370876-a-killer-chat-christmas.json) |
 | A Killer's Dream | 91625 | [91625-a-killers-dream.json](./91625-a-killers-dream.json) |
 | A Killer's Sorrow | 110926 | [110926-a-killers-sorrow.json](./110926-a-killers-sorrow.json) |
@@ -11290,6 +11291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anxiety | 263257 | [263257-anxiety.json](./263257-anxiety.json) |
 | Anxiety | 51572 | [51572-anxiety.json](./51572-anxiety.json) |
 | Anxiety Arcade | 381576 | [381576-anxiety-arcade.json](./381576-anxiety-arcade.json) |
+| Anxiety Attacks | 182598 | [182598-anxiety-attacks.json](./182598-anxiety-attacks.json) |
 | Anxiety Puppy | 347827 | [347827-anxiety-puppy.json](./347827-anxiety-puppy.json) |
 | Anxiety Treatment with Relaxation | 187252 | [187252-anxiety-treatment-with-relaxation.json](./187252-anxiety-treatment-with-relaxation.json) |
 | Anxiety: Lost Night | 179490 | [179490-anxiety-lost-night.json](./179490-anxiety-lost-night.json) |
@@ -14820,6 +14822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascape | 229046 | [229046-ascape.json](./229046-ascape.json) |
 | Ascend | 119486 | [119486-ascend.json](./119486-ascend.json) |
 | Ascend | 120794 | [120794-ascend.json](./120794-ascend.json) |
+| Ascend | 182628 | [182628-ascend.json](./182628-ascend.json) |
 | Ascend | 341279 | [341279-ascend.json](./341279-ascend.json) |
 | Ascend | 425840 | [425840-ascend.json](./425840-ascend.json) |
 | Ascend From Nine Mountains | 374310 | [374310-ascend-from-nine-mountains.json](./374310-ascend-from-nine-mountains.json) |
@@ -17361,6 +17364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurorae Equitas | 310915 | [310915-aurorae-equitas.json](./310915-aurorae-equitas.json) |
 | AuroraRL | 33607 | [33607-aurorarl.json](./33607-aurorarl.json) |
 | AuroraRL: Special Edition | 52622 | [52622-aurorarl-special-edition.json](./52622-aurorarl-special-edition.json) |
+| Aurore | 182616 | [182616-aurore.json](./182616-aurore.json) |
 | Aurore: Five Princes | 115316 | [115316-aurore-five-princes.json](./115316-aurore-five-princes.json) |
 | Auroria | 274799 | [274799-auroria.json](./274799-auroria.json) |
 | Aurrery | 74871 | [74871-aurrery.json](./74871-aurrery.json) |
