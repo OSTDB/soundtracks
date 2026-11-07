@@ -38,6 +38,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yabba Dabba Dinosaurs: Jigsaw Puzzle | 278777 | [278777-yabba-dabba-dinosaurs-jigsaw-puzzle.json](./278777-yabba-dabba-dinosaurs-jigsaw-puzzle.json) |
 | Yabba Dabba Dinosaurs: Matching Pairs | 278778 | [278778-yabba-dabba-dinosaurs-matching-pairs.json](./278778-yabba-dabba-dinosaurs-matching-pairs.json) |
 | Yabba Dabba Doo! | 26344 | [26344-yabba-dabba-doo.json](./26344-yabba-dabba-doo.json) |
+| Yabgits: Haunted Cemetery | 151341 | [151341-yabgits-haunted-cemetery.json](./151341-yabgits-haunted-cemetery.json) |
 | Yachoukitan | 321818 | [321818-yachoukitan.json](./321818-yachoukitan.json) |
 | Yacht | 201986 | [201986-yacht.json](./201986-yacht.json) |
 | Yacht | 376676 | [376676-yacht.json](./376676-yacht.json) |
