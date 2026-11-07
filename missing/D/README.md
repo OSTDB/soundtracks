@@ -9959,9 +9959,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Racing Mobile 3D | 101493 | [101493-dirt-racing-mobile-3d.json](./101493-dirt-racing-mobile-3d.json) |
 | Dirt Rally | 9928 | [9928-dirt-rally.json](./9928-dirt-rally.json) |
 | Dirt Rally 2.0 | 110411 | [110411-dirt-rally-2-0.json](./110411-dirt-rally-2-0.json) |
+| Dirt Rally 2.0: Bikernieki, Latvia (Rallycross Track) | 166342 | [166342-dirt-rally-2-0-bikernieki-latvia-rallycross-track.json](./166342-dirt-rally-2-0-bikernieki-latvia-rallycross-track.json) |
 | DiRT Rally 2.0: Digital Deluxe Edition | 122656 | [122656-dirt-rally-2-0-digital-deluxe-edition.json](./122656-dirt-rally-2-0-digital-deluxe-edition.json) |
+| Dirt Rally 2.0: Estering, Germany (Rallycross Track) | 166347 | [166347-dirt-rally-2-0-estering-germany-rallycross-track.json](./166347-dirt-rally-2-0-estering-germany-rallycross-track.json) |
+| Dirt Rally 2.0: Finland (Rally Location) | 166346 | [166346-dirt-rally-2-0-finland-rally-location.json](./166346-dirt-rally-2-0-finland-rally-location.json) |
 | Dirt Rally 2.0: Game of the Year Edition | 136055 | [136055-dirt-rally-2-0-game-of-the-year-edition.json](./136055-dirt-rally-2-0-game-of-the-year-edition.json) |
+| Dirt Rally 2.0: Germany (Rally Location) | 166345 | [166345-dirt-rally-2-0-germany-rally-location.json](./166345-dirt-rally-2-0-germany-rally-location.json) |
+| Dirt Rally 2.0: Greece (Rally Location) | 166343 | [166343-dirt-rally-2-0-greece-rally-location.json](./166343-dirt-rally-2-0-greece-rally-location.json) |
+| Dirt Rally 2.0: Killarney International Raceway, South Africa (Rallycross Track) | 166344 | [166344-dirt-rally-2-0-killarney-international-raceway-south-africa-rallycross-track.json](./166344-dirt-rally-2-0-killarney-international-raceway-south-africa-rallycross-track.json) |
 | DiRT Rally 2.0: Super Deluxe Edition | 122657 | [122657-dirt-rally-2-0-super-deluxe-edition.json](./122657-dirt-rally-2-0-super-deluxe-edition.json) |
+| Dirt Rally 2.0: Sweden (Rally Location) | 166348 | [166348-dirt-rally-2-0-sweden-rally-location.json](./166348-dirt-rally-2-0-sweden-rally-location.json) |
 | Dirt Rally Driver HD | 116383 | [116383-dirt-rally-driver-hd.json](./116383-dirt-rally-driver-hd.json) |
 | DiRT Rally: VR Edition | 136176 | [136176-dirt-rally-vr-edition.json](./136176-dirt-rally-vr-edition.json) |
 | Dirt Reborn | 200054 | [200054-dirt-reborn.json](./200054-dirt-reborn.json) |
