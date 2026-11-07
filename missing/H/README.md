@@ -4795,6 +4795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Henry the Hamster Handler VR | 101187 | [101187-henry-the-hamster-handler-vr.json](./101187-henry-the-hamster-handler-vr.json) |
 | Henry, What Have You Done? | 180751 | [180751-henry-what-have-you-done.json](./180751-henry-what-have-you-done.json) |
 | Henry's Adventure | 268188 | [268188-henrys-adventure.json](./268188-henrys-adventure.json) |
+| Henry's Day | 164118 | [164118-henrys-day.json](./164118-henrys-day.json) |
 | Henry's Escape: Prison | 280327 | [280327-henrys-escape-prison.json](./280327-henrys-escape-prison.json) |
 | Henry's Forgotten Performance | 295778 | [295778-henrys-forgotten-performance.json](./295778-henrys-forgotten-performance.json) |
 | Henry's Hoard | 354568 | [354568-henrys-hoard.json](./354568-henrys-hoard.json) |
