@@ -152,6 +152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naishitai: The parts I'm missing. | 373483 | [373483-naishitai-the-parts-im-missing.json](./373483-naishitai-the-parts-im-missing.json) |
 | NaissanceE | 8116 | [8116-naissancee.json](./8116-naissancee.json) |
 | Naisu Gaisu Survivors | 305871 | [305871-naisu-gaisu-survivors.json](./305871-naisu-gaisu-survivors.json) |
+| Naitei! Syukatsu Kanzen Taisaku (ES SPI Mensetsu) | 141991 | [141991-naitei-syukatsu-kanzen-taisaku-es-spi-mensetsu.json](./141991-naitei-syukatsu-kanzen-taisaku-es-spi-mensetsu.json) |
 | Naive Boy Super Lash | 309751 | [309751-naive-boy-super-lash.json](./309751-naive-boy-super-lash.json) |
 | Naive Novel | 297744 | [297744-naive-novel.json](./297744-naive-novel.json) |
 | Naive Riri | 236511 | [236511-naive-riri.json](./236511-naive-riri.json) |
@@ -424,6 +425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanny | 188976 | [188976-nanny.json](./188976-nanny.json) |
 | Nanny - Best Babysitter Game | 105855 | [105855-nanny-best-babysitter-game.json](./105855-nanny-best-babysitter-game.json) |
 | Nanny 911 | 206783 | [206783-nanny-911.json](./206783-nanny-911.json) |
+| Nanny Mania | 142006 | [142006-nanny-mania.json](./142006-nanny-mania.json) |
 | Nanny Mania 2 | 202184 | [202184-nanny-mania-2.json](./202184-nanny-mania-2.json) |
 | Nanny's Journey | 288028 | [288028-nannys-journey.json](./288028-nannys-journey.json) |
 | Nannys Nightmare | 53397 | [53397-nannys-nightmare.json](./53397-nannys-nightmare.json) |
@@ -2067,6 +2069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Tissue | 370105 | [370105-neko-tissue.json](./370105-neko-tissue.json) |
 | Neko to Sakana | 188601 | [188601-neko-to-sakana.json](./188601-neko-to-sakana.json) |
 | Neko Tomo | 104255 | [104255-neko-tomo.json](./104255-neko-tomo.json) |
+| Neko Tomo: Smile Mashimashi | 141993 | [141993-neko-tomo-smile-mashimashi.json](./141993-neko-tomo-smile-mashimashi.json) |
 | Neko Waifu | 367033 | [367033-neko-waifu.json](./367033-neko-waifu.json) |
 | Neko Yume | 166503 | [166503-neko-yume.json](./166503-neko-yume.json) |
 | Neko Yume Douchuuki | 213094 | [213094-neko-yume-douchuuki.json](./213094-neko-yume-douchuuki.json) |
@@ -5660,6 +5663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nixxsz Maids Blazing | 292303 | [292303-nixxsz-maids-blazing.json](./292303-nixxsz-maids-blazing.json) |
 | Nixy and the Seeds of Doom | 142021 | [142021-nixy-and-the-seeds-of-doom.json](./142021-nixy-and-the-seeds-of-doom.json) |
 | Nixy and the Seeds of Doom | 363459 | [363459-nixy-and-the-seeds-of-doom.json](./363459-nixy-and-the-seeds-of-doom.json) |
+| Nixy The Glade Sprite | 142020 | [142020-nixy-the-glade-sprite.json](./142020-nixy-the-glade-sprite.json) |
 | Nizero Shogi | 361584 | [361584-nizero-shogi.json](./361584-nizero-shogi.json) |
 | Nizhan Future | 290372 | [290372-nizhan-future.json](./290372-nizhan-future.json) |
 | Njorun's Will | 200930 | [200930-njoruns-will.json](./200930-njoruns-will.json) |
