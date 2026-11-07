@@ -2409,6 +2409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left Alive: Day One Edition | 119066 | [119066-left-alive-day-one-edition.json](./119066-left-alive-day-one-edition.json) |
 | Left Alive: Mech Edition | 111022 | [111022-left-alive-mech-edition.json](./111022-left-alive-mech-edition.json) |
 | Left Alone | 26527 | [26527-left-alone.json](./26527-left-alone.json) |
+| Left Alone: Rebirth | 156762 | [156762-left-alone-rebirth.json](./156762-left-alone-rebirth.json) |
 | Left Among Dead in Space | 185190 | [185190-left-among-dead-in-space.json](./185190-left-among-dead-in-space.json) |
 | Left at Home | 241488 | [241488-left-at-home.json](./241488-left-at-home.json) |
 | Left Behind | 290729 | [290729-left-behind.json](./290729-left-behind.json) |
@@ -5152,6 +5153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lilian: The beginning of the end | 183038 | [183038-lilian-the-beginning-of-the-end.json](./183038-lilian-the-beginning-of-the-end.json) |
 | Lilifel | 423882 | [423882-lilifel.json](./423882-lilifel.json) |
 | Lilim Wants to Lv Up | 275138 | [275138-lilim-wants-to-lv-up.json](./275138-lilim-wants-to-lv-up.json) |
+| Lìlìnà de Qíhuàn zhī Lǚ | 156805 | [156805-lilina-de-qihuan-zhi-lu.json](./156805-lilina-de-qihuan-zhi-lu.json) |
 | Lilitales | 122199 | [122199-lilitales.json](./122199-lilitales.json) |
 | Lilith | 413898 | [413898-lilith.json](./413898-lilith.json) |
 | Lilith + Eve | 257837 | [257837-lilith-eve.json](./257837-lilith-eve.json) |
@@ -8744,6 +8746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love D3ath Love | 412296 | [412296-love-d3ath-love.json](./412296-love-d3ath-love.json) |
 | Love Date | 119669 | [119669-love-date.json](./119669-love-date.json) |
 | Love Death | 259259 | [259259-love-death.json](./259259-love-death.json) |
+| Love Decision | 156775 | [156775-love-decision.json](./156775-love-decision.json) |
 | Love Delivery | 185632 | [185632-love-delivery.json](./185632-love-delivery.json) |
 | Love Delivery2 | 274014 | [274014-love-delivery2.json](./274014-love-delivery2.json) |
 | Love Dots | 88160 | [88160-love-dots.json](./88160-love-dots.json) |
