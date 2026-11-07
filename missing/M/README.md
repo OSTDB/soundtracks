@@ -1232,6 +1232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Masks | 99685 | [99685-magic-masks.json](./99685-magic-masks.json) |
 | Magic Match Adventures | 146478 | [146478-magic-match-adventures.json](./146478-magic-match-adventures.json) |
 | Magic matchstick | 68580 | [68580-magic-matchstick.json](./68580-magic-matchstick.json) |
+| Magic Matchup | 140722 | [140722-magic-matchup.json](./140722-magic-matchup.json) |
 | Magic Math | 267551 | [267551-magic-math.json](./267551-magic-math.json) |
 | Magic Math | 299266 | [299266-magic-math.json](./299266-magic-math.json) |
 | Magic Maycabs | 85913 | [85913-magic-maycabs.json](./85913-magic-maycabs.json) |
@@ -7978,6 +7979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man ZX Advent | 1780 | [1780-mega-man-zx-advent.json](./1780-mega-man-zx-advent.json) |
 | Mega Man ZX Prequel | 311210 | [311210-mega-man-zx-prequel.json](./311210-mega-man-zx-prequel.json) |
 | Mega Man ZX Zeta | 334149 | [334149-mega-man-zx-zeta.json](./334149-mega-man-zx-zeta.json) |
+| Mega Man: Another Mayday | 140736 | [140736-mega-man-another-mayday.json](./140736-mega-man-another-mayday.json) |
 | Mega Man: Day in the Limelight | 261435 | [261435-mega-man-day-in-the-limelight.json](./261435-mega-man-day-in-the-limelight.json) |
 | Mega Man: Day in the Limelight 2 | 209262 | [209262-mega-man-day-in-the-limelight-2.json](./209262-mega-man-day-in-the-limelight-2.json) |
 | Mega Man: Day in the Limelight 3 | 323040 | [323040-mega-man-day-in-the-limelight-3.json](./323040-mega-man-day-in-the-limelight-3.json) |
@@ -9454,6 +9456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Jelly | 208935 | [208935-merge-jelly.json](./208935-merge-jelly.json) |
 | Merge Kuya Island | 208157 | [208157-merge-kuya-island.json](./208157-merge-kuya-island.json) |
 | Merge Magic! | 139297 | [139297-merge-magic.json](./139297-merge-magic.json) |
+| Merge Magic! | 140763 | [140763-merge-magic.json](./140763-merge-magic.json) |
 | Merge Mansion | 196866 | [196866-merge-mansion.json](./196866-merge-mansion.json) |
 | Merge Marbles | 309337 | [309337-merge-marbles.json](./309337-merge-marbles.json) |
 | Merge Master | 269367 | [269367-merge-master.json](./269367-merge-master.json) |
