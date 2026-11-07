@@ -915,6 +915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Girls | 92432 | [92432-bad-girls.json](./92432-bad-girls.json) |
 | Bad Girls Tough Love | 228874 | [228874-bad-girls-tough-love.json](./228874-bad-girls-tough-love.json) |
 | Bad Girls: Sweet Trouble | 401105 | [401105-bad-girls-sweet-trouble.json](./401105-bad-girls-sweet-trouble.json) |
+| Bad Gobelet | 185233 | [185233-bad-gobelet.json](./185233-bad-gobelet.json) |
 | Bad Government | 55499 | [55499-bad-government.json](./55499-bad-government.json) |
 | Bad Guy Adventure | 151136 | [151136-bad-guy-adventure.json](./151136-bad-guy-adventure.json) |
 | Bad Guy: Neighborhood | 193494 | [193494-bad-guy-neighborhood.json](./193494-bad-guy-neighborhood.json) |
@@ -963,7 +964,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
