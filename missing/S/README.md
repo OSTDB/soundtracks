@@ -4806,6 +4806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sector Zero | 35783 | [35783-sector-zero.json](./35783-sector-zero.json) |
 | SectorA23 | 182552 | [182552-sectora23.json](./182552-sectora23.json) |
 | Sectron | 401629 | [401629-sectron.json](./401629-sectron.json) |
+| Séculos | 144459 | [144459-seculos.json](./144459-seculos.json) |
 | Secure | 176815 | [176815-secure.json](./176815-secure.json) |
 | Secure the Skies | 164927 | [164927-secure-the-skies.json](./164927-secure-the-skies.json) |
 | Security 51 | 386228 | [386228-security-51.json](./386228-security-51.json) |
@@ -21499,6 +21500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spell Alchemist | 402132 | [402132-spell-alchemist.json](./402132-spell-alchemist.json) |
 | Spell Bandit | 114747 | [114747-spell-bandit.json](./114747-spell-bandit.json) |
 | Spell Beat | 358598 | [358598-spell-beat.json](./358598-spell-beat.json) |
+| Spell Beats | 144493 | [144493-spell-beats.json](./144493-spell-beats.json) |
 | Spell Blaster | 157808 | [157808-spell-blaster.json](./157808-spell-blaster.json) |
 | Spell Blitz | 241558 | [241558-spell-blitz.json](./241558-spell-blitz.json) |
 | Spell Blocks | 182968 | [182968-spell-blocks.json](./182968-spell-blocks.json) |
@@ -27579,6 +27581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stop Slapping Tenshi! | 330364 | [330364-stop-slapping-tenshi.json](./330364-stop-slapping-tenshi.json) |
 | Stop Stress: A Day of Fury | 67253 | [67253-stop-stress-a-day-of-fury.json](./67253-stop-stress-a-day-of-fury.json) |
 | Stop the Blight | 338748 | [338748-stop-the-blight.json](./338748-stop-the-blight.json) |
+| Stop the Bus | 144454 | [144454-stop-the-bus.json](./144454-stop-the-bus.json) |
 | Stop the Bus | 83464 | [83464-stop-the-bus.json](./83464-stop-the-bus.json) |
 | Stop the Bus! | 187701 | [187701-stop-the-bus.json](./187701-stop-the-bus.json) |
 | Stop the Cult | 189913 | [189913-stop-the-cult.json](./189913-stop-the-cult.json) |
@@ -31192,6 +31195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cloud Fight | 279476 | [279476-super-cloud-fight.json](./279476-super-cloud-fight.json) |
 | Super Cloudbuilt | 27396 | [27396-super-cloudbuilt.json](./27396-super-cloudbuilt.json) |
 | Super Clown 3: Revenge | 223179 | [223179-super-clown-3-revenge.json](./223179-super-clown-3-revenge.json) |
+| Super Clown Adventures | 144515 | [144515-super-clown-adventures.json](./144515-super-clown-adventures.json) |
 | Super Clown Puzzles | 412996 | [412996-super-clown-puzzles.json](./412996-super-clown-puzzles.json) |
 | Super Clown Ultimatum | 365930 | [365930-super-clown-ultimatum.json](./365930-super-clown-ultimatum.json) |
 | Super Clown: Lost Diamonds | 190445 | [190445-super-clown-lost-diamonds.json](./190445-super-clown-lost-diamonds.json) |
@@ -34681,6 +34685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Overgrowth | 106729 | [106729-survival-overgrowth.json](./106729-survival-overgrowth.json) |
 | Survival Project | 65002 | [65002-survival-project.json](./65002-survival-project.json) |
 | Survival Prototype X | 302354 | [302354-survival-prototype-x.json](./302354-survival-prototype-x.json) |
+| Survival Quiz City | 144486 | [144486-survival-quiz-city.json](./144486-survival-quiz-city.json) |
 | Survival Quiz City: Festival Edition | 266714 | [266714-survival-quiz-city-festival-edition.json](./266714-survival-quiz-city-festival-edition.json) |
 | Survival Raft Simulator: Lost at Sea | 282142 | [282142-survival-raft-simulator-lost-at-sea.json](./282142-survival-raft-simulator-lost-at-sea.json) |
 | Survival Revelation: End of Days | 253842 | [253842-survival-revelation-end-of-days.json](./253842-survival-revelation-end-of-days.json) |
