@@ -7167,6 +7167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens: Fireteam Elite - Hardened Marine Pack | 247755 | [247755-aliens-fireteam-elite-hardened-marine-pack.json](./247755-aliens-fireteam-elite-hardened-marine-pack.json) |
 | Aliens: Fireteam Elite - Into the Hive Edition | 201027 | [201027-aliens-fireteam-elite-into-the-hive-edition.json](./201027-aliens-fireteam-elite-into-the-hive-edition.json) |
 | Aliens: Fireteam Elite - Pathogen | 204435 | [204435-aliens-fireteam-elite-pathogen.json](./204435-aliens-fireteam-elite-pathogen.json) |
+| Aliens: Fireteam Elite - Season 1: Phalanx | 168470 | [168470-aliens-fireteam-elite-season-1-phalanx.json](./168470-aliens-fireteam-elite-season-1-phalanx.json) |
 | Aliens: Fireteam Elite - UACM Frontline Pack | 223833 | [223833-aliens-fireteam-elite-uacm-frontline-pack.json](./223833-aliens-fireteam-elite-uacm-frontline-pack.json) |
 | Aliens: Fireteam Elite - Ultimate Edition | 215559 | [215559-aliens-fireteam-elite-ultimate-edition.json](./215559-aliens-fireteam-elite-ultimate-edition.json) |
 | Aliens: Fireteam Elite 2 | 400824 | [400824-aliens-fireteam-elite-2.json](./400824-aliens-fireteam-elite-2.json) |
@@ -9749,6 +9750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angle Me | 232390 | [232390-angle-me.json](./232390-angle-me.json) |
 | Angle of Attack | 16064 | [16064-angle-of-attack.json](./16064-angle-of-attack.json) |
 | Angle of Attack | 377098 | [377098-angle-of-attack.json](./377098-angle-of-attack.json) |
+| Angle Soccer | 168494 | [168494-angle-soccer.json](./168494-angle-soccer.json) |
 | Angle Wars | 132598 | [132598-angle-wars.json](./132598-angle-wars.json) |
 | Angle. | 261162 | [261162-angle.json](./261162-angle.json) |
 | Angleball | 41697 | [41697-angleball.json](./41697-angleball.json) |
@@ -13969,6 +13971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arm Champs II | 67876 | [67876-arm-champs-ii.json](./67876-arm-champs-ii.json) |
 | Arm Joe | 130876 | [130876-arm-joe.json](./130876-arm-joe.json) |
 | Arm Joe: Les Misérables | 50366 | [50366-arm-joe-les-miserables.json](./50366-arm-joe-les-miserables.json) |
+| Arm of Revenge Re-Edition | 168490 | [168490-arm-of-revenge-re-edition.json](./168490-arm-of-revenge-re-edition.json) |
 | Arm of Satan | 254021 | [254021-arm-of-satan.json](./254021-arm-of-satan.json) |
 | Arm of the Prince | 398107 | [398107-arm-of-the-prince.json](./398107-arm-of-the-prince.json) |
 | Arm Spirit | 68403 | [68403-arm-spirit.json](./68403-arm-spirit.json) |
@@ -16792,6 +16795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -17395,6 +17399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurium 2 | 317062 | [317062-aurium-2.json](./317062-aurium-2.json) |
 | Auro the Bunny | 188848 | [188848-auro-the-bunny.json](./188848-auro-the-bunny.json) |
 | Auro: A Monster-Bumping Adventure | 33099 | [33099-auro-a-monster-bumping-adventure.json](./33099-auro-a-monster-bumping-adventure.json) |
+| Aurora | 168509 | [168509-aurora.json](./168509-aurora.json) |
 | Aurora | 170459 | [170459-aurora.json](./170459-aurora.json) |
 | Aurora | 171522 | [171522-aurora.json](./171522-aurora.json) |
 | Aurora | 387688 | [387688-aurora.json](./387688-aurora.json) |
