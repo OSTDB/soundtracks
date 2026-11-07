@@ -10179,6 +10179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SideShow | 70364 | [70364-sideshow.json](./70364-sideshow.json) |
 | Sideswipe | 383536 | [383536-sideswipe.json](./383536-sideswipe.json) |
 | Sideswiped | 91666 | [91666-sideswiped.json](./91666-sideswiped.json) |
+| SideTracked! | 173339 | [173339-sidetracked.json](./173339-sidetracked.json) |
 | Sidewalk Fighter II | 60912 | [60912-sidewalk-fighter-ii.json](./60912-sidewalk-fighter-ii.json) |
 | Sidewalk Sidestep | 183233 | [183233-sidewalk-sidestep.json](./183233-sidewalk-sidestep.json) |
 | Sidewalk Simulator | 324294 | [324294-sidewalk-simulator.json](./324294-sidewalk-simulator.json) |
@@ -14568,6 +14569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smashing the Battle | 19439 | [19439-smashing-the-battle.json](./19439-smashing-the-battle.json) |
 | Smashing the Battle Ghost Soul | 165617 | [165617-smashing-the-battle-ghost-soul.json](./165617-smashing-the-battle-ghost-soul.json) |
 | Smashing the Battle VR | 41029 | [41029-smashing-the-battle-vr.json](./41029-smashing-the-battle-vr.json) |
+| Smashing time | 173346 | [173346-smashing-time.json](./173346-smashing-time.json) |
 | Smashing Toys | 25413 | [25413-smashing-toys.json](./25413-smashing-toys.json) |
 | Smashmak | 396422 | [396422-smashmak.json](./396422-smashmak.json) |
 | Smashmons: Spirit Red | 313342 | [313342-smashmons-spirit-red.json](./313342-smashmons-spirit-red.json) |
@@ -14607,6 +14609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smelly Bubbles | 411679 | [411679-smelly-bubbles.json](./411679-smelly-bubbles.json) |
 | Smelly Cat | 421598 | [421598-smelly-cat.json](./421598-smelly-cat.json) |
 | Smelogs Playground | 182270 | [182270-smelogs-playground.json](./182270-smelogs-playground.json) |
+| Smelted Kin | 173359 | [173359-smelted-kin.json](./173359-smelted-kin.json) |
 | Smelter | 119191 | [119191-smelter.json](./119191-smelter.json) |
 | Smelter | 150757 | [150757-smelter.json](./150757-smelter.json) |
 | Smelter: Collector's Edition | 205263 | [205263-smelter-collectors-edition.json](./205263-smelter-collectors-edition.json) |
@@ -18682,6 +18685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Devourer | 259853 | [259853-soul-devourer.json](./259853-soul-devourer.json) |
 | Soul Dimension | 99732 | [99732-soul-dimension.json](./99732-soul-dimension.json) |
 | Soul Dog TD | 215958 | [215958-soul-dog-td.json](./215958-soul-dog-td.json) |
+| Soul Dream: Undesired Shift | 173329 | [173329-soul-dream-undesired-shift.json](./173329-soul-dream-undesired-shift.json) |
 | Soul Drifter | 265476 | [265476-soul-drifter.json](./265476-soul-drifter.json) |
 | Soul Eater | 292399 | [292399-soul-eater.json](./292399-soul-eater.json) |
 | Soul Eater: Battle Resonance | 44527 | [44527-soul-eater-battle-resonance.json](./44527-soul-eater-battle-resonance.json) |
@@ -28430,6 +28434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Legal | 73757 | [73757-street-legal.json](./73757-street-legal.json) |
 | Street Legal Racing: Redline | 77346 | [77346-street-legal-racing-redline.json](./77346-street-legal-racing-redline.json) |
 | Street Legal Racing: Redline v2.3.1 | 32221 | [32221-street-legal-racing-redline-v2-3-1.json](./32221-street-legal-racing-redline-v2-3-1.json) |
+| Street Legal: Revision | 173363 | [173363-street-legal-revision.json](./173363-street-legal-revision.json) |
 | Street Level: Android Edition | 100752 | [100752-street-level-android-edition.json](./100752-street-level-android-edition.json) |
 | Street Level: Windows Edition | 101624 | [101624-street-level-windows-edition.json](./101624-street-level-windows-edition.json) |
 | Street Life Simulator | 374347 | [374347-street-life-simulator.json](./374347-street-life-simulator.json) |
