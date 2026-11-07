@@ -3975,6 +3975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Mercenary | 129127 | [129127-red-mercenary.json](./129127-red-mercenary.json) |
 | Red Metal | 280745 | [280745-red-metal.json](./280745-red-metal.json) |
 | Red Mist | 131993 | [131993-red-mist.json](./131993-red-mist.json) |
+| Red Mist: Rivers of Blood | 167417 | [167417-red-mist-rivers-of-blood.json](./167417-red-mist-rivers-of-blood.json) |
 | Red Moon | 28457 | [28457-red-moon.json](./28457-red-moon.json) |
 | Red Moon | 382317 | [382317-red-moon.json](./382317-red-moon.json) |
 | Red Moon Kingdom | 366606 | [366606-red-moon-kingdom.json](./366606-red-moon-kingdom.json) |
@@ -4096,6 +4097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Titans | 259638 | [259638-red-titans.json](./259638-red-titans.json) |
 | Red Tower | 207704 | [207704-red-tower.json](./207704-red-tower.json) |
 | Red Tractor Tycoon | 114070 | [114070-red-tractor-tycoon.json](./114070-red-tractor-tycoon.json) |
+| Red Trains | 167444 | [167444-red-trains.json](./167444-red-trains.json) |
 | Red Trees Rail. CO | 305925 | [305925-red-trees-rail-co.json](./305925-red-trees-rail-co.json) |
 | Red Triangle Super Collection | 192154 | [192154-red-triangle-super-collection.json](./192154-red-triangle-super-collection.json) |
 | Red Trigger 2 | 216538 | [216538-red-trigger-2.json](./216538-red-trigger-2.json) |
