@@ -1626,6 +1626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NecroArcher | 199359 | [199359-necroarcher.json](./199359-necroarcher.json) |
 | NecroAttack! | 261676 | [261676-necroattack.json](./261676-necroattack.json) |
 | Necrobarista | 26870 | [26870-necrobarista.json](./26870-necrobarista.json) |
+| Necrobarista: Final Pour | 163630 | [163630-necrobarista-final-pour.json](./163630-necrobarista-final-pour.json) |
 | Necrobius | 178181 | [178181-necrobius.json](./178181-necrobius.json) |
 | Necroblade | 217282 | [217282-necroblade.json](./217282-necroblade.json) |
 | NecroBouncer | 189242 | [189242-necrobouncer.json](./189242-necrobouncer.json) |
@@ -6447,6 +6448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nomad Idle | 323533 | [323533-nomad-idle.json](./323533-nomad-idle.json) |
 | Nomad Knight: Blunt Blade Theory | 419985 | [419985-nomad-knight-blunt-blade-theory.json](./419985-nomad-knight-blunt-blade-theory.json) |
 | Nomad of Time | 12957 | [12957-nomad-of-time.json](./12957-nomad-of-time.json) |
+| Nomad Revisited | 163583 | [163583-nomad-revisited.json](./163583-nomad-revisited.json) |
 | Nomad Station | 247608 | [247608-nomad-station.json](./247608-nomad-station.json) |
 | Nomad Survival | 197874 | [197874-nomad-survival.json](./197874-nomad-survival.json) |
 | Nomad: Last Blade | 420014 | [420014-nomad-last-blade.json](./420014-nomad-last-blade.json) |
