@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daioh | 39863 | [39863-daioh.json](./39863-daioh.json) |
 | DaiPyooon | 252155 | [252155-daipyooon.json](./252155-daipyooon.json) |
 | Dair | 259764 | [259764-dair.json](./259764-dair.json) |
+| Dairansou Dash or Dasshu!! | 143833 | [143833-dairansou-dash-or-dasshu.json](./143833-dairansou-dash-or-dasshu.json) |
 | Dairanto!! Mario Bros. DDX | 321670 | [321670-dairanto-mario-bros-ddx.json](./321670-dairanto-mario-bros-ddx.json) |
 | Dairantou Kanoair Smash 2002 | 196867 | [196867-dairantou-kanoair-smash-2002.json](./196867-dairantou-kanoair-smash-2002.json) |
 | Dairojo! Samurai Defenders | 85067 | [85067-dairojo-samurai-defenders.json](./85067-dairojo-samurai-defenders.json) |
@@ -1096,6 +1097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Dave in Copyright Infringement | 176080 | [176080-dangerous-dave-in-copyright-infringement.json](./176080-dangerous-dave-in-copyright-infringement.json) |
 | Dangerous Dave in the Deserted Pirate's Hideout | 11384 | [11384-dangerous-dave-in-the-deserted-pirates-hideout.json](./11384-dangerous-dave-in-the-deserted-pirates-hideout.json) |
 | Dangerous Dave in the Haunted Mansion | 11386 | [11386-dangerous-dave-in-the-haunted-mansion.json](./11386-dangerous-dave-in-the-haunted-mansion.json) |
+| Dangerous Dave Pack | 143845 | [143845-dangerous-dave-pack.json](./143845-dangerous-dave-pack.json) |
 | Dangerous Dave Returns | 11387 | [11387-dangerous-dave-returns.json](./11387-dangerous-dave-returns.json) |
 | Dangerous Dave's Risky Rescue | 11388 | [11388-dangerous-daves-risky-rescue.json](./11388-dangerous-daves-risky-rescue.json) |
 | Dangerous Degrees | 163755 | [163755-dangerous-degrees.json](./163755-dangerous-degrees.json) |
@@ -1743,6 +1745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Moon | 69681 | [69681-dark-moon.json](./69681-dark-moon.json) |
 | Dark Moon Deities | 339366 | [339366-dark-moon-deities.json](./339366-dark-moon-deities.json) |
 | Dark Moon Motel | 219650 | [219650-dark-moon-motel.json](./219650-dark-moon-motel.json) |
+| Dark Moonlight | 143869 | [143869-dark-moonlight.json](./143869-dark-moonlight.json) |
 | Dark Mountain | 268603 | [268603-dark-mountain.json](./268603-dark-mountain.json) |
 | Dark Mountain II | 268626 | [268626-dark-mountain-ii.json](./268626-dark-mountain-ii.json) |
 | Dark Mysteries 4 Play Collection | 145144 | [145144-dark-mysteries-4-play-collection.json](./145144-dark-mysteries-4-play-collection.json) |
@@ -5871,6 +5874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense Task Force | 83619 | [83619-defense-task-force.json](./83619-defense-task-force.json) |
 | Defense Technica | 10178 | [10178-defense-technica.json](./10178-defense-technica.json) |
 | Defense Tower Simulator | 152775 | [152775-defense-tower-simulator.json](./152775-defense-tower-simulator.json) |
+| Defense War: Destiny Child | 143856 | [143856-defense-war-destiny-child.json](./143856-defense-war-destiny-child.json) |
 | Defense Warfare | 76387 | [76387-defense-warfare.json](./76387-defense-warfare.json) |
 | Defense Witches | 199787 | [199787-defense-witches.json](./199787-defense-witches.json) |
 | Defense X | 366130 | [366130-defense-x.json](./366130-defense-x.json) |
@@ -12509,6 +12513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Blame You | 229809 | [229809-dont-blame-you.json](./229809-dont-blame-you.json) |
 | Don't Bleed | 76949 | [76949-dont-bleed.json](./76949-dont-bleed.json) |
 | Don't Blink | 155980 | [155980-dont-blink.json](./155980-dont-blink.json) |
+| Don't Boop My Booper | 143843 | [143843-dont-boop-my-booper.json](./143843-dont-boop-my-booper.json) |
 | Don't Bow | 224330 | [224330-dont-bow.json](./224330-dont-bow.json) |
 | Don't Break | 354772 | [354772-dont-break.json](./354772-dont-break.json) |
 | Don't Break My Heart | 273911 | [273911-dont-break-my-heart.json](./273911-dont-break-my-heart.json) |
@@ -14218,6 +14223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Down the Rabbit Hole | 174560 | [174560-down-the-rabbit-hole.json](./174560-down-the-rabbit-hole.json) |
 | Down the Rabbit Hole Flattened | 349763 | [349763-down-the-rabbit-hole-flattened.json](./349763-down-the-rabbit-hole-flattened.json) |
 | Down the Ratbit Hole | 271371 | [271371-down-the-ratbit-hole.json](./271371-down-the-ratbit-hole.json) |
+| Down the River | 143841 | [143841-down-the-river.json](./143841-down-the-river.json) |
 | Down the Shaft | 305176 | [305176-down-the-shaft.json](./305176-down-the-shaft.json) |
 | Down the Trench | 169269 | [169269-down-the-trench.json](./169269-down-the-trench.json) |
 | Down the World: Mervil's Ambition | 42513 | [42513-down-the-world-mervils-ambition.json](./42513-down-the-world-mervils-ambition.json) |
