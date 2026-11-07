@@ -1205,6 +1205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ziggy Zaggy | 276120 | [276120-ziggy-zaggy.json](./276120-ziggy-zaggy.json) |
 | Ziggy's Chase | 27400 | [27400-ziggys-chase.json](./27400-ziggys-chase.json) |
 | Ziggy's Labyrinth | 286573 | [286573-ziggys-labyrinth.json](./286573-ziggys-labyrinth.json) |
+| ZigZag | 185221 | [185221-zigzag.json](./185221-zigzag.json) |
 | ZigZag | 231998 | [231998-zigzag.json](./231998-zigzag.json) |
 | ZigZag | 26920 | [26920-zigzag.json](./26920-zigzag.json) |
 | ZigZag Drifter | 302392 | [302392-zigzag-drifter.json](./302392-zigzag-drifter.json) |
