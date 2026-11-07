@@ -3549,6 +3549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Purge | 374381 | [374381-operation-purge.json](./374381-operation-purge.json) |
 | Operation Red Dragon | 75665 | [75665-operation-red-dragon.json](./75665-operation-red-dragon.json) |
 | Operation Remode | 333354 | [333354-operation-remode.json](./333354-operation-remode.json) |
+| Operation Rescue: Bunnies | 170663 | [170663-operation-rescue-bunnies.json](./170663-operation-rescue-bunnies.json) |
 | Operation S | 186805 | [186805-operation-s.json](./186805-operation-s.json) |
 | Operation Satoshi | 223278 | [223278-operation-satoshi.json](./223278-operation-satoshi.json) |
 | Operation Save Anna | 369551 | [369551-operation-save-anna.json](./369551-operation-save-anna.json) |
