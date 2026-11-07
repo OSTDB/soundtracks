@@ -6458,6 +6458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis IV: El Dorado Content Pack | 227343 | [227343-europa-universalis-iv-el-dorado-content-pack.json](./227343-europa-universalis-iv-el-dorado-content-pack.json) |
 | Europa Universalis IV: Emperor | 133911 | [133911-europa-universalis-iv-emperor.json](./133911-europa-universalis-iv-emperor.json) |
 | Europa Universalis IV: Emperor Content Pack | 227344 | [227344-europa-universalis-iv-emperor-content-pack.json](./227344-europa-universalis-iv-emperor-content-pack.json) |
+| Europa Universalis IV: Empire Bundle | 186359 | [186359-europa-universalis-iv-empire-bundle.json](./186359-europa-universalis-iv-empire-bundle.json) |
 | Europa Universalis IV: Evangelical Union Unit Pack | 155316 | [155316-europa-universalis-iv-evangelical-union-unit-pack.json](./155316-europa-universalis-iv-evangelical-union-unit-pack.json) |
 | Europa Universalis IV: Extreme Edition | 53008 | [53008-europa-universalis-iv-extreme-edition.json](./53008-europa-universalis-iv-extreme-edition.json) |
 | Europa Universalis IV: Golden Century - Immersion Pack | 169310 | [169310-europa-universalis-iv-golden-century-immersion-pack.json](./169310-europa-universalis-iv-golden-century-immersion-pack.json) |
@@ -6489,6 +6490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis IV: The El Dorado Collection | 52997 | [52997-europa-universalis-iv-the-el-dorado-collection.json](./52997-europa-universalis-iv-the-el-dorado-collection.json) |
 | Europa Universalis IV: Third Rome | 52996 | [52996-europa-universalis-iv-third-rome.json](./52996-europa-universalis-iv-third-rome.json) |
 | Europa Universalis IV: Trade Nations Unit Pack | 155314 | [155314-europa-universalis-iv-trade-nations-unit-pack.json](./155314-europa-universalis-iv-trade-nations-unit-pack.json) |
+| Europa Universalis IV: Ultimate Bundle | 186358 | [186358-europa-universalis-iv-ultimate-bundle.json](./186358-europa-universalis-iv-ultimate-bundle.json) |
 | Europa Universalis IV: Ultimate Sprite Pack | 284902 | [284902-europa-universalis-iv-ultimate-sprite-pack.json](./284902-europa-universalis-iv-ultimate-sprite-pack.json) |
 | Europa Universalis IV: Ultimate Unit Pack | 155309 | [155309-europa-universalis-iv-ultimate-unit-pack.json](./155309-europa-universalis-iv-ultimate-unit-pack.json) |
 | Europa Universalis IV: Utopia Holy Roman Empire Music Pack | 285108 | [285108-europa-universalis-iv-utopia-holy-roman-empire-music-pack.json](./285108-europa-universalis-iv-utopia-holy-roman-empire-music-pack.json) |
