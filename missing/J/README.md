@@ -4180,6 +4180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Shoot | 191433 | [191433-just-shoot.json](./191433-just-shoot.json) |
 | Just Shoot: Slimes | 219651 | [219651-just-shoot-slimes.json](./219651-just-shoot-slimes.json) |
 | Just Shovel It! | 422666 | [422666-just-shovel-it.json](./422666-just-shovel-it.json) |
+| Just Shut Up and Drive | 185205 | [185205-just-shut-up-and-drive.json](./185205-just-shut-up-and-drive.json) |
 | Just Sign! | 207297 | [207297-just-sign.json](./207297-just-sign.json) |
 | Just Sing | 23386 | [23386-just-sing.json](./23386-just-sing.json) |
 | Just Sing! | 81460 | [81460-just-sing.json](./81460-just-sing.json) |
