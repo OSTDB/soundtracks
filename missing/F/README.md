@@ -8699,6 +8699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Felix | 165905 | [165905-flying-felix.json](./165905-flying-felix.json) |
 | Flying Ferret | 295834 | [295834-flying-ferret.json](./295834-flying-ferret.json) |
 | Flying Fish Quest | 192313 | [192313-flying-fish-quest.json](./192313-flying-fish-quest.json) |
+| Flying Flogger | 171678 | [171678-flying-flogger.json](./171678-flying-flogger.json) |
 | Flying Fortress | 113993 | [113993-flying-fortress.json](./113993-flying-fortress.json) |
 | Flying Fortress II | 172651 | [172651-flying-fortress-ii.json](./172651-flying-fortress-ii.json) |
 | Flying Frags World Tour | 156070 | [156070-flying-frags-world-tour.json](./156070-flying-frags-world-tour.json) |
