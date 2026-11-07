@@ -2593,6 +2593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Runner | 39794 | [39794-wave-runner.json](./39794-wave-runner.json) |
 | Wave Scanner | 352836 | [352836-wave-scanner.json](./352836-wave-scanner.json) |
 | Wave Shark | 142397 | [142397-wave-shark.json](./142397-wave-shark.json) |
+| Wave Shooter | 164109 | [164109-wave-shooter.json](./164109-wave-shooter.json) |
 | Wave to the People | 134943 | [134943-wave-to-the-people.json](./134943-wave-to-the-people.json) |
 | Wave Trip | 22174 | [22174-wave-trip.json](./22174-wave-trip.json) |
 | Wave Wave | 62018 | [62018-wave-wave.json](./62018-wave-wave.json) |
