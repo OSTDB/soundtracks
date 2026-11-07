@@ -5514,6 +5514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senninha GP Racing | 203290 | [203290-senninha-gp-racing.json](./203290-senninha-gp-racing.json) |
 | Sennou Millennium | 37488 | [37488-sennou-millennium.json](./37488-sennou-millennium.json) |
 | Senora | 136231 | [136231-senora.json](./136231-senora.json) |
+| Senpa.io | 173933 | [173933-senpa-io.json](./173933-senpa-io.json) |
 | Senpai and the Mysterious Dungeon | 211563 | [211563-senpai-and-the-mysterious-dungeon.json](./211563-senpai-and-the-mysterious-dungeon.json) |
 | Senpai and the Mysterious Island | 325686 | [325686-senpai-and-the-mysterious-island.json](./325686-senpai-and-the-mysterious-island.json) |
 | Senpai Arena | 254039 | [254039-senpai-arena.json](./254039-senpai-arena.json) |
@@ -13510,6 +13511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slenderman vs. Freddy the Fazbear | 241740 | [241740-slenderman-vs-freddy-the-fazbear.json](./241740-slenderman-vs-freddy-the-fazbear.json) |
 | Slenderman: Shadow of the Forest | 340551 | [340551-slenderman-shadow-of-the-forest.json](./340551-slenderman-shadow-of-the-forest.json) |
 | Slenderman: The Game | 79818 | [79818-slenderman-the-game.json](./79818-slenderman-the-game.json) |
+| Slenderman: Unbecoming | 173907 | [173907-slenderman-unbecoming.json](./173907-slenderman-unbecoming.json) |
 | SlenderMan's Forest | 99338 | [99338-slendermans-forest.json](./99338-slendermans-forest.json) |
 | Slenderman's Shadow | 177282 | [177282-slendermans-shadow.json](./177282-slendermans-shadow.json) |
 | Slenderman's Shadow 7th Street | 50163 | [50163-slendermans-shadow-7th-street.json](./50163-slendermans-shadow-7th-street.json) |
@@ -13739,6 +13741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Jumper Adventure | 203748 | [203748-slime-jumper-adventure.json](./203748-slime-jumper-adventure.json) |
 | Slime Killer | 163910 | [163910-slime-killer.json](./163910-slime-killer.json) |
 | Slime Kingdom | 102192 | [102192-slime-kingdom.json](./102192-slime-kingdom.json) |
+| Slime Kingdom: An Unlikely Adventure! | 173924 | [173924-slime-kingdom-an-unlikely-adventure.json](./173924-slime-kingdom-an-unlikely-adventure.json) |
 | Slime Knight | 246785 | [246785-slime-knight.json](./246785-slime-knight.json) |
 | Slime Knight | 364041 | [364041-slime-knight.json](./364041-slime-knight.json) |
 | Slime Knight | 412203 | [412203-slime-knight.json](./412203-slime-knight.json) |
@@ -19205,6 +19208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souvenir | 181561 | [181561-souvenir.json](./181561-souvenir.json) |
 | Souvenir | 295509 | [295509-souvenir.json](./295509-souvenir.json) |
 | Souvenirs | 308222 | [308222-souvenirs.json](./308222-souvenirs.json) |
+| Souwan no Soldat: The Soldat with Twin Arms | 173916 | [173916-souwan-no-soldat-the-soldat-with-twin-arms.json](./173916-souwan-no-soldat-the-soldat-with-twin-arms.json) |
 | Souzou Cliff | 181400 | [181400-souzou-cliff.json](./181400-souzou-cliff.json) |
 | Souzou no Memoria | 396936 | [396936-souzou-no-memoria.json](./396936-souzou-no-memoria.json) |
 | Soverain: An Eternal Legend | 377176 | [377176-soverain-an-eternal-legend.json](./377176-soverain-an-eternal-legend.json) |
@@ -19783,7 +19787,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -20509,6 +20512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacecraft | 55389 | [55389-spacecraft.json](./55389-spacecraft.json) |
 | SpaceCraft | 324574 | [324574-spacecraft.json](./324574-spacecraft.json) |
 | SpaceCraft Brawl | 190295 | [190295-spacecraft-brawl.json](./190295-spacecraft-brawl.json) |
+| Spacecraft speed | 173935 | [173935-spacecraft-speed.json](./173935-spacecraft-speed.json) |
 | Spacecraft Tactics | 274038 | [274038-spacecraft-tactics.json](./274038-spacecraft-tactics.json) |
 | Spacecraft War | 109879 | [109879-spacecraft-war.json](./109879-spacecraft-war.json) |
 | SpaceCrash | 171438 | [171438-spacecrash.json](./171438-spacecrash.json) |
