@@ -1304,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darius the Mailman | 294799 | [294799-darius-the-mailman.json](./294799-darius-the-mailman.json) |
 | Darius Twin | 6660 | [6660-darius-twin.json](./6660-darius-twin.json) |
 | Darius: Cozmic Revelation - Collector's Edition | 139993 | [139993-darius-cozmic-revelation-collectors-edition.json](./139993-darius-cozmic-revelation-collectors-edition.json) |
+| Darius: Extra Version | 145801 | [145801-darius-extra-version.json](./145801-darius-extra-version.json) |
 | Darius+ | 99336 | [99336-darius.json](./99336-darius.json) |
 | Dariusburst | 18193 | [18193-dariusburst.json](./18193-dariusburst.json) |
 | Dariusburst: Another Chronicle EX | 138014 | [138014-dariusburst-another-chronicle-ex.json](./138014-dariusburst-another-chronicle-ex.json) |
@@ -6872,6 +6873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densha de GO! | 146907 | [146907-densha-de-go.json](./146907-densha-de-go.json) |
 | Densha de GO! | 43850 | [43850-densha-de-go.json](./43850-densha-de-go.json) |
 | Densha de Go! 2 | 37286 | [37286-densha-de-go-2.json](./37286-densha-de-go-2.json) |
+| Densha de GO! 2 | 145766 | [145766-densha-de-go-2.json](./145766-densha-de-go-2.json) |
 | Densha de GO! 2 3000 | 80270 | [80270-densha-de-go-2-3000.json](./80270-densha-de-go-2-3000.json) |
 | Densha de GO! 3 Tsuukinhen | 63706 | [63706-densha-de-go-3-tsuukinhen.json](./63706-densha-de-go-3-tsuukinhen.json) |
 | Densha de Go! 3 Tsuukinhen: Daiyakaisei | 146532 | [146532-densha-de-go-3-tsuukinhen-daiyakaisei.json](./146532-densha-de-go-3-tsuukinhen-daiyakaisei.json) |
