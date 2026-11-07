@@ -11696,6 +11696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apollyon: River of Life | 158365 | [158365-apollyon-river-of-life.json](./158365-apollyon-river-of-life.json) |
 | Apology Video | 406316 | [406316-apology-video.json](./406316-apology-video.json) |
 | Apolune 2 | 149511 | [149511-apolune-2.json](./149511-apolune-2.json) |
+| Apolysis | 191304 | [191304-apolysis.json](./191304-apolysis.json) |
 | Apomo District | 301062 | [301062-apomo-district.json](./301062-apomo-district.json) |
 | Aponasi Gals Olympos | 45433 | [45433-aponasi-gals-olympos.json](./45433-aponasi-gals-olympos.json) |
 | Apophis | 136490 | [136490-apophis.json](./136490-apophis.json) |
@@ -15135,6 +15136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asonde Mahjong ga Tsuyoku Naru! Ginsei Mahjong DX | 222372 | [222372-asonde-mahjong-ga-tsuyoku-naru-ginsei-mahjong-dx.json](./222372-asonde-mahjong-ga-tsuyoku-naru-ginsei-mahjong-dx.json) |
 | Asonde Poker ga Tsuyoku Naru! Texas Hold 'Em | 144998 | [144998-asonde-poker-ga-tsuyoku-naru-texas-hold-em.json](./144998-asonde-poker-ga-tsuyoku-naru-texas-hold-em.json) |
 | Asonde Shogi ga Tsuyoku Naru! Ginsei Shogi DX | 83460 | [83460-asonde-shogi-ga-tsuyoku-naru-ginsei-shogi-dx.json](./83460-asonde-shogi-ga-tsuyoku-naru-ginsei-shogi-dx.json) |
+| Asonde Shogi ga Tsuyoku Naru! Ginsei Shogi DX2 | 191351 | [191351-asonde-shogi-ga-tsuyoku-naru-ginsei-shogi-dx2.json](./191351-asonde-shogi-ga-tsuyoku-naru-ginsei-shogi-dx2.json) |
 | Asonde Shogi ga Tsuyoku Naru!! Ginsei Shogi DS | 83443 | [83443-asonde-shogi-ga-tsuyoku-naru-ginsei-shogi-ds.json](./83443-asonde-shogi-ga-tsuyoku-naru-ginsei-shogi-ds.json) |
 | Asou Youichi no Jikenbo: Dochiraka ga Kanojo wo Koroshita | 299681 | [299681-asou-youichi-no-jikenbo-dochiraka-ga-kanojo-wo-koroshita.json](./299681-asou-youichi-no-jikenbo-dochiraka-ga-kanojo-wo-koroshita.json) |
 | Aspect | 112059 | [112059-aspect.json](./112059-aspect.json) |
@@ -16678,7 +16680,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
