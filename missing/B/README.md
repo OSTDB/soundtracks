@@ -3562,6 +3562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Beaster | 77563 | [77563-battle-beaster.json](./77563-battle-beaster.json) |
 | Battle Beaster 2 | 376728 | [376728-battle-beaster-2.json](./376728-battle-beaster-2.json) |
 | Battle Beat | 395762 | [395762-battle-beat.json](./395762-battle-beat.json) |
+| Battle Bees Royale | 190302 | [190302-battle-bees-royale.json](./190302-battle-bees-royale.json) |
 | Battle Beyond the Stars | 57395 | [57395-battle-beyond-the-stars.json](./57395-battle-beyond-the-stars.json) |
 | Battle Bits | 333392 | [333392-battle-bits.json](./333392-battle-bits.json) |
 | Battle Blaze | 42629 | [42629-battle-blaze.json](./42629-battle-blaze.json) |
@@ -5961,6 +5962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beetlejuice: Horrific Hijinx from the Neitherworld! | 80889 | [80889-beetlejuice-horrific-hijinx-from-the-neitherworld.json](./80889-beetlejuice-horrific-hijinx-from-the-neitherworld.json) |
 | Beetlenaut | 62197 | [62197-beetlenaut.json](./62197-beetlenaut.json) |
 | BeetleQuest | 167391 | [167391-beetlequest.json](./167391-beetlequest.json) |
+| BeetleQuest 2 | 190270 | [190270-beetlequest-2.json](./190270-beetlequest-2.json) |
 | BeetleQuest 2023 | 271289 | [271289-beetlequest-2023.json](./271289-beetlequest-2023.json) |
 | BeetleQuest: The Puzzle Game | 358449 | [358449-beetlequest-the-puzzle-game.json](./358449-beetlequest-the-puzzle-game.json) |
 | Beetles | 163819 | [163819-beetles.json](./163819-beetles.json) |
@@ -11045,6 +11047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Rage: Digital Edition | 130062 | [130062-blood-rage-digital-edition.json](./130062-blood-rage-digital-edition.json) |
 | Blood Reaver | 298237 | [298237-blood-reaver.json](./298237-blood-reaver.json) |
 | Blood Red | 237137 | [237137-blood-red.json](./237137-blood-red.json) |
+| Blood Red Fists | 190292 | [190292-blood-red-fists.json](./190292-blood-red-fists.json) |
 | Blood Red Rebirth | 384313 | [384313-blood-red-rebirth.json](./384313-blood-red-rebirth.json) |
 | Blood Rising | 338257 | [338257-blood-rising.json](./338257-blood-rising.json) |
 | Blood Rite | 238505 | [238505-blood-rite.json](./238505-blood-rite.json) |
@@ -13173,6 +13176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boomerang Of Destruction | 325882 | [325882-boomerang-of-destruction.json](./325882-boomerang-of-destruction.json) |
 | Boomerang RPG | 297248 | [297248-boomerang-rpg.json](./297248-boomerang-rpg.json) |
 | Boomerang Survivor 3 | 386550 | [386550-boomerang-survivor-3.json](./386550-boomerang-survivor-3.json) |
+| Boomerang Woman | 190299 | [190299-boomerang-woman.json](./190299-boomerang-woman.json) |
 | Boomeraxe | 258522 | [258522-boomeraxe.json](./258522-boomeraxe.json) |
 | Boomies | 307256 | [307256-boomies.json](./307256-boomies.json) |
 | Booming Boy | 41732 | [41732-booming-boy.json](./41732-booming-boy.json) |
@@ -15071,6 +15075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Point | 94456 | [94456-break-point.json](./94456-break-point.json) |
 | Break Point: Brace & Breach | 405567 | [405567-break-point-brace-and-breach.json](./405567-break-point-brace-and-breach.json) |
 | Break Protocol | 384490 | [384490-break-protocol.json](./384490-break-protocol.json) |
+| Break Robots VR | 190308 | [190308-break-robots-vr.json](./190308-break-robots-vr.json) |
 | Break Siege | 333321 | [333321-break-siege.json](./333321-break-siege.json) |
 | Break Sky | 168717 | [168717-break-sky.json](./168717-break-sky.json) |
 | Break Space: Out of Bounds | 158694 | [158694-break-space-out-of-bounds.json](./158694-break-space-out-of-bounds.json) |
