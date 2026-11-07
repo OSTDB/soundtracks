@@ -1933,6 +1933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Empires | 70451 | [70451-fantasy-empires.json](./70451-fantasy-empires.json) |
 | Fantasy ERA | 54463 | [54463-fantasy-era.json](./54463-fantasy-era.json) |
 | Fantasy Fairways | 30629 | [30629-fantasy-fairways.json](./30629-fantasy-fairways.json) |
+| Fantasy Fight Live! | 141962 | [141962-fantasy-fight-live.json](./141962-fantasy-fight-live.json) |
 | Fantasy Fighters | 200945 | [200945-fantasy-fighters.json](./200945-fantasy-fighters.json) |
 | Fantasy Fighters | 246771 | [246771-fantasy-fighters.json](./246771-fantasy-fighters.json) |
 | Fantasy Fighters: Historic Fighters | 209132 | [209132-fantasy-fighters-historic-fighters.json](./209132-fantasy-fighters-historic-fighters.json) |
@@ -6153,6 +6154,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firefight | 21411 | [21411-firefight.json](./21411-firefight.json) |
 | Firefight Bro. | 246446 | [246446-firefight-bro.json](./246446-firefight-bro.json) |
 | Firefight Reloaded | 59293 | [59293-firefight-reloaded.json](./59293-firefight-reloaded.json) |
+| Firefight: Descent | 141997 | [141997-firefight-descent.json](./141997-firefight-descent.json) |
+| Firefight: Descent Quarantine | 141998 | [141998-firefight-descent-quarantine.json](./141998-firefight-descent-quarantine.json) |
 | Firefight! | 128251 | [128251-firefight.json](./128251-firefight.json) |
 | Firefighter | 154875 | [154875-firefighter.json](./154875-firefighter.json) |
 | Firefighter Command: Raging Inferno | 22631 | [22631-firefighter-command-raging-inferno.json](./22631-firefighter-command-raging-inferno.json) |
