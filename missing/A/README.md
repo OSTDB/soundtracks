@@ -4040,6 +4040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerofly RC 10: Expansion Pack 2 | 272741 | [272741-aerofly-rc-10-expansion-pack-2.json](./272741-aerofly-rc-10-expansion-pack-2.json) |
 | Aerofly RC 10: RC Flight Simulator | 272642 | [272642-aerofly-rc-10-rc-flight-simulator.json](./272642-aerofly-rc-10-rc-flight-simulator.json) |
 | aerofly RC 7 | 17839 | [17839-aerofly-rc-7.json](./17839-aerofly-rc-7.json) |
+| Aerofly RC 7: Professional Edition | 171709 | [171709-aerofly-rc-7-professional-edition.json](./171709-aerofly-rc-7-professional-edition.json) |
 | AeroGauge | 3329 | [3329-aerogauge.json](./3329-aerogauge.json) |
 | Aerolicious | 416623 | [416623-aerolicious.json](./416623-aerolicious.json) |
 | Aerolitos | 40160 | [40160-aerolitos.json](./40160-aerolitos.json) |
@@ -10309,6 +10310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Codex: Shy Girls | 411808 | [411808-anime-codex-shy-girls.json](./411808-anime-codex-shy-girls.json) |
 | Anime Codex: Triple Pleasure | 412566 | [412566-anime-codex-triple-pleasure.json](./412566-anime-codex-triple-pleasure.json) |
 | Anime Codex: Whispered Lips | 411150 | [411150-anime-codex-whispered-lips.json](./411150-anime-codex-whispered-lips.json) |
+| Anime Collector: Evo | 171705 | [171705-anime-collector-evo.json](./171705-anime-collector-evo.json) |
 | Anime Dance-Off: Around the World | 325009 | [325009-anime-dance-off-around-the-world.json](./325009-anime-dance-off-around-the-world.json) |
 | Anime Dance-Off: Dungeons and Dancers | 336410 | [336410-anime-dance-off-dungeons-and-dancers.json](./336410-anime-dance-off-dungeons-and-dancers.json) |
 | Anime Dance-Off: Ghost Party | 319781 | [319781-anime-dance-off-ghost-party.json](./319781-anime-dance-off-ghost-party.json) |
@@ -10594,6 +10596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annihilate | 215553 | [215553-annihilate.json](./215553-annihilate.json) |
 | Annihilate the Spance | 192985 | [192985-annihilate-the-spance.json](./192985-annihilate-the-spance.json) |
 | Annihilated | 291331 | [291331-annihilated.json](./291331-annihilated.json) |
+| Annihilation | 171673 | [171673-annihilation.json](./171673-annihilation.json) |
 | Annihilation | 289380 | [289380-annihilation.json](./289380-annihilation.json) |
 | Annihilation Mobile | 173408 | [173408-annihilation-mobile.json](./173408-annihilation-mobile.json) |
 | Annihilation Plan | 308866 | [308866-annihilation-plan.json](./308866-annihilation-plan.json) |
@@ -17117,13 +17120,21 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack on Time | 193848 | [193848-attack-on-time.json](./193848-attack-on-time.json) |
 | Attack on Titan | 14879 | [14879-attack-on-titan.json](./14879-attack-on-titan.json) |
 | Attack on Titan 2 | 55028 | [55028-attack-on-titan-2.json](./55028-attack-on-titan-2.json) |
+| Attack on Titan 2: A Cornered Rat | 171692 | [171692-attack-on-titan-2-a-cornered-rat.json](./171692-attack-on-titan-2-a-cornered-rat.json) |
+| Attack on Titan 2: A Sudden Rain | 171697 | [171697-attack-on-titan-2-a-sudden-rain.json](./171697-attack-on-titan-2-a-sudden-rain.json) |
+| Attack on Titan 2: A Titan Worth a Thousand | 171698 | [171698-attack-on-titan-2-a-titan-worth-a-thousand.json](./171698-attack-on-titan-2-a-titan-worth-a-thousand.json) |
 | Attack on Titan 2: Biological Research Scout Mission | 170146 | [170146-attack-on-titan-2-biological-research-scout-mission.json](./170146-attack-on-titan-2-biological-research-scout-mission.json) |
 | Attack on Titan 2: Deluxe Edition | 118888 | [118888-attack-on-titan-2-deluxe-edition.json](./118888-attack-on-titan-2-deluxe-edition.json) |
+| Attack on Titan 2: Discouragement and the Leaning Tower | 171693 | [171693-attack-on-titan-2-discouragement-and-the-leaning-tower.json](./171693-attack-on-titan-2-discouragement-and-the-leaning-tower.json) |
 | Attack on Titan 2: Final Battle Upgrade Pack | 121928 | [121928-attack-on-titan-2-final-battle-upgrade-pack.json](./121928-attack-on-titan-2-final-battle-upgrade-pack.json) |
 | Attack on Titan 2: Future Coordinates | 36663 | [36663-attack-on-titan-2-future-coordinates.json](./36663-attack-on-titan-2-future-coordinates.json) |
+| Attack on Titan 2: Goddess Salvation | 171695 | [171695-attack-on-titan-2-goddess-salvation.json](./171695-attack-on-titan-2-goddess-salvation.json) |
+| Attack on Titan 2: Proof of Expertise | 171674 | [171674-attack-on-titan-2-proof-of-expertise.json](./171674-attack-on-titan-2-proof-of-expertise.json) |
 | Attack on Titan 2: Second Victory | 170829 | [170829-attack-on-titan-2-second-victory.json](./170829-attack-on-titan-2-second-victory.json) |
 | Attack on Titan 2: Singular Target | 200426 | [200426-attack-on-titan-2-singular-target.json](./200426-attack-on-titan-2-singular-target.json) |
+| Attack on Titan 2: Skill Demonstration | 171696 | [171696-attack-on-titan-2-skill-demonstration.json](./171696-attack-on-titan-2-skill-demonstration.json) |
 | Attack on Titan 2: Treasure Box - Limited Edition | 212312 | [212312-attack-on-titan-2-treasure-box-limited-edition.json](./212312-attack-on-titan-2-treasure-box-limited-edition.json) |
+| Attack on Titan 2: White Out | 171694 | [171694-attack-on-titan-2-white-out.json](./171694-attack-on-titan-2-white-out.json) |
 | Attack on Titan Tactics | 117518 | [117518-attack-on-titan-tactics.json](./117518-attack-on-titan-tactics.json) |
 | Attack on Titan the Game | 405643 | [405643-attack-on-titan-the-game.json](./405643-attack-on-titan-the-game.json) |
 | Attack on Titan Tribute Game 2 | 316810 | [316810-attack-on-titan-tribute-game-2.json](./316810-attack-on-titan-tribute-game-2.json) |
