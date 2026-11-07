@@ -3009,6 +3009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Alone: Foxtales | 14549 | [14549-never-alone-foxtales.json](./14549-never-alone-foxtales.json) |
 | Never Alone: Ki Edition | 39251 | [39251-never-alone-ki-edition.json](./39251-never-alone-ki-edition.json) |
 | Never Alone: Kisima Ingitchuna | 7618 | [7618-never-alone-kisima-ingitchuna.json](./7618-never-alone-kisima-ingitchuna.json) |
+| Never Apart | 178744 | [178744-never-apart.json](./178744-never-apart.json) |
 | Never be Afraid: Slam Dunk! | 277132 | [277132-never-be-afraid-slam-dunk.json](./277132-never-be-afraid-slam-dunk.json) |
 | Never Breakup | 107968 | [107968-never-breakup.json](./107968-never-breakup.json) |
 | Never Clean | 392782 | [392782-never-clean.json](./392782-never-clean.json) |
@@ -4871,10 +4872,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikoli no Puzzle 4: Sudoku | 62164 | [62164-nikoli-no-puzzle-4-sudoku.json](./62164-nikoli-no-puzzle-4-sudoku.json) |
 | Nikoli no Puzzle 4: Yajilin | 218897 | [218897-nikoli-no-puzzle-4-yajilin.json](./218897-nikoli-no-puzzle-4-yajilin.json) |
 | Nikoli no Puzzle V: Akari | 64934 | [64934-nikoli-no-puzzle-v-akari.json](./64934-nikoli-no-puzzle-v-akari.json) |
+| Nikoli no Puzzle V: Hashi wo kakero | 178755 | [178755-nikoli-no-puzzle-v-hashi-wo-kakero.json](./178755-nikoli-no-puzzle-v-hashi-wo-kakero.json) |
 | Nikoli no Puzzle V: Heyawake | 64937 | [64937-nikoli-no-puzzle-v-heyawake.json](./64937-nikoli-no-puzzle-v-heyawake.json) |
 | Nikoli no Puzzle V: Hitori ni Shitekure | 64935 | [64935-nikoli-no-puzzle-v-hitori-ni-shitekure.json](./64935-nikoli-no-puzzle-v-hitori-ni-shitekure.json) |
 | Nikoli no Puzzle V: Kakuro | 83880 | [83880-nikoli-no-puzzle-v-kakuro.json](./83880-nikoli-no-puzzle-v-kakuro.json) |
 | Nikoli no Puzzle V: Masyu | 64933 | [64933-nikoli-no-puzzle-v-masyu.json](./64933-nikoli-no-puzzle-v-masyu.json) |
+| Nikoli no Puzzle V: Numberlink | 178757 | [178757-nikoli-no-puzzle-v-numberlink.json](./178757-nikoli-no-puzzle-v-numberlink.json) |
+| Nikoli no Puzzle V: Shikaku ni Kire | 178756 | [178756-nikoli-no-puzzle-v-shikaku-ni-kire.json](./178756-nikoli-no-puzzle-v-shikaku-ni-kire.json) |
+| Nikoli no Puzzle V: Yajilin | 178758 | [178758-nikoli-no-puzzle-v-yajilin.json](./178758-nikoli-no-puzzle-v-yajilin.json) |
 | Nikoli no Sudoku 3D Dai-ni-Shuu: 8-tsu no Puzzle de 1000-Mon | 222475 | [222475-nikoli-no-sudoku-3d-dai-ni-shuu-8-tsu-no-puzzle-de-1000-mon.json](./222475-nikoli-no-sudoku-3d-dai-ni-shuu-8-tsu-no-puzzle-de-1000-mon.json) |
 | Nikoli no Sudoku 3D: 8-tsu no Puzzle de 1000-mon | 222458 | [222458-nikoli-no-sudoku-3d-8-tsu-no-puzzle-de-1000-mon.json](./222458-nikoli-no-sudoku-3d-8-tsu-no-puzzle-de-1000-mon.json) |
 | Nikoli no Sudoku Lite Dai-San-Shuu | 269519 | [269519-nikoli-no-sudoku-lite-dai-san-shuu.json](./269519-nikoli-no-sudoku-lite-dai-san-shuu.json) |
@@ -7068,6 +7073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nothing To Declare | 366945 | [366945-nothing-to-declare.json](./366945-nothing-to-declare.json) |
 | Nothing to God | 88138 | [88138-nothing-to-god.json](./88138-nothing-to-god.json) |
 | Nothing to Lose | 237620 | [237620-nothing-to-lose.json](./237620-nothing-to-lose.json) |
+| Nothing to Say | 178748 | [178748-nothing-to-say.json](./178748-nothing-to-say.json) |
 | Nothing Together | 285162 | [285162-nothing-together.json](./285162-nothing-together.json) |
 | Nothing Together: Banana Theme | 290219 | [290219-nothing-together-banana-theme.json](./290219-nothing-together-banana-theme.json) |
 | Nothing Together: Cute Theme | 290224 | [290224-nothing-together-cute-theme.json](./290224-nothing-together-cute-theme.json) |
