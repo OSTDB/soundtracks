@@ -7134,6 +7134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi-Robo! | 3856 | [3856-chibi-robo.json](./3856-chibi-robo.json) |
 | Chibi-Robo! Zip Lash | 11216 | [11216-chibi-robo-zip-lash.json](./11216-chibi-robo-zip-lash.json) |
 | Chibi-Robo!: Photo Finder | 23516 | [23516-chibi-robo-photo-finder.json](./23516-chibi-robo-photo-finder.json) |
+| ChibiClubTD | 170083 | [170083-chibiclubtd.json](./170083-chibiclubtd.json) |
 | Chibikko Club | 289737 | [289737-chibikko-club.json](./289737-chibikko-club.json) |
 | ChibiTama | 211224 | [211224-chibitama.json](./211224-chibitama.json) |
 | Chibits | 150471 | [150471-chibits.json](./150471-chibits.json) |
@@ -19098,6 +19099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CT Special Forces: Back to Hell | 45103 | [45103-ct-special-forces-back-to-hell.json](./45103-ct-special-forces-back-to-hell.json) |
 | CTcity | 174088 | [174088-ctcity.json](./174088-ctcity.json) |
 | Ctesiphon | 349420 | [349420-ctesiphon.json](./349420-ctesiphon.json) |
+| Ctfs | 170078 | [170078-ctfs.json](./170078-ctfs.json) |
 | CTGP Deluxe | 311038 | [311038-ctgp-deluxe.json](./311038-ctgp-deluxe.json) |
 | CTGP Nitro | 213104 | [213104-ctgp-nitro.json](./213104-ctgp-nitro.json) |
 | CTGP-7 | 209549 | [209549-ctgp-7.json](./209549-ctgp-7.json) |
@@ -19926,6 +19928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Destiny | 82728 | [82728-curse-of-destiny.json](./82728-curse-of-destiny.json) |
 | Curse of Disaster Spirit: Anecdotes of Mansion | 170643 | [170643-curse-of-disaster-spirit-anecdotes-of-mansion.json](./170643-curse-of-disaster-spirit-anecdotes-of-mansion.json) |
 | Curse of Dominion | 366886 | [366886-curse-of-dominion.json](./366886-curse-of-dominion.json) |
+| Curse of Dragor | 170076 | [170076-curse-of-dragor.json](./170076-curse-of-dragor.json) |
 | Curse of Elmwood | 279262 | [279262-curse-of-elmwood.json](./279262-curse-of-elmwood.json) |
 | Curse of Enchantia | 12021 | [12021-curse-of-enchantia.json](./12021-curse-of-enchantia.json) |
 | Curse of Eternity | 133075 | [133075-curse-of-eternity.json](./133075-curse-of-eternity.json) |
