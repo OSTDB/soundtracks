@@ -572,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarantine Zone: The Last Check | 342760 | [342760-quarantine-zone-the-last-check.json](./342760-quarantine-zone-the-last-check.json) |
 | Quarantine-Z | 258541 | [258541-quarantine-z.json](./258541-quarantine-z.json) |
 | Quarantine: Global Pandemic | 164047 | [164047-quarantine-global-pandemic.json](./164047-quarantine-global-pandemic.json) |
+| Quarantineer | 189787 | [189787-quarantineer.json](./189787-quarantineer.json) |
 | Quarantini | 134923 | [134923-quarantini.json](./134923-quarantini.json) |
 | Quarked up Omnibus: Clean - Fix - Escape | 372600 | [372600-quarked-up-omnibus-clean-fix-escape.json](./372600-quarked-up-omnibus-clean-fix-escape.json) |
 | Quarky & Quaysoo's Turbo Science | 46981 | [46981-quarky-and-quaysoos-turbo-science.json](./46981-quarky-and-quaysoos-turbo-science.json) |
