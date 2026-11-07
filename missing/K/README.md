@@ -591,6 +591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamigami no Asobi: Ludere Deorum | 125461 | [125461-kamigami-no-asobi-ludere-deorum.json](./125461-kamigami-no-asobi-ludere-deorum.json) |
 | Kamigami: Clash of the Gods | 190378 | [190378-kamigami-clash-of-the-gods.json](./190378-kamigami-clash-of-the-gods.json) |
 | Kamigami: Spirits of the Nature | 258004 | [258004-kamigami-spirits-of-the-nature.json](./258004-kamigami-spirits-of-the-nature.json) |
+| Kamigawa: A Visual Novel | 191327 | [191327-kamigawa-a-visual-novel.json](./191327-kamigawa-a-visual-novel.json) |
 | Kamihi yori: Tokiori-hen | 288827 | [288827-kamihi-yori-tokiori-hen.json](./288827-kamihi-yori-tokiori-hen.json) |
 | Kamihime Project R | 98529 | [98529-kamihime-project-r.json](./98529-kamihime-project-r.json) |
 | Kamiji | 264056 | [264056-kamiji.json](./264056-kamiji.json) |
@@ -2828,7 +2829,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
