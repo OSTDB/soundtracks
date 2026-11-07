@@ -1743,6 +1743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AA Touch Gun! | 112618 | [112618-aa-touch-gun.json](./112618-aa-touch-gun.json) |
 | Aa! Megami-sama | 78087 | [78087-aa-megami-sama.json](./78087-aa-megami-sama.json) |
 | AAA | 377417 | [377417-aaa.json](./377417-aaa.json) |
+| AAA Clock | 176072 | [176072-aaa-clock.json](./176072-aaa-clock.json) |
 | AAA Clock 2 | 314522 | [314522-aaa-clock-2.json](./314522-aaa-clock-2.json) |
 | AAA Clock 2: Color Set 1 | 314584 | [314584-aaa-clock-2-color-set-1.json](./314584-aaa-clock-2-color-set-1.json) |
 | AAA Clock 2: Color Set 2 | 314523 | [314523-aaa-clock-2-color-set-2.json](./314523-aaa-clock-2-color-set-2.json) |
@@ -4592,6 +4593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Adventure: Playing the Hero | 52361 | [52361-age-of-adventure-playing-the-hero.json](./52361-age-of-adventure-playing-the-hero.json) |
 | Age of AI: North America | 96931 | [96931-age-of-ai-north-america.json](./96931-age-of-ai-north-america.json) |
 | Age of Albuvia | 169486 | [169486-age-of-albuvia.json](./169486-age-of-albuvia.json) |
+| Age of Alexander | 176062 | [176062-age-of-alexander.json](./176062-age-of-alexander.json) |
 | Age of Anthemius | 356226 | [356226-age-of-anthemius.json](./356226-age-of-anthemius.json) |
 | Age of Ants | 275672 | [275672-age-of-ants.json](./275672-age-of-ants.json) |
 | Age of Armor | 64269 | [64269-age-of-armor.json](./64269-age-of-armor.json) |
@@ -14579,6 +14581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artemishea | 150617 | [150617-artemishea.json](./150617-artemishea.json) |
 | Artery Gear: Fusion | 152111 | [152111-artery-gear-fusion.json](./152111-artery-gear-fusion.json) |
 | Artesnaut | 419371 | [419371-artesnaut.json](./419371-artesnaut.json) |
+| ArtFormer: Ancient Stories | 176064 | [176064-artformer-ancient-stories.json](./176064-artformer-ancient-stories.json) |
 | Artful Balancer | 103046 | [103046-artful-balancer.json](./103046-artful-balancer.json) |
 | Artful Escape | 109982 | [109982-artful-escape.json](./109982-artful-escape.json) |
 | Arth Island | 202428 | [202428-arth-island.json](./202428-arth-island.json) |
