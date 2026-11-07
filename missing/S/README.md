@@ -7374,6 +7374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shaolin vs. Wutang Legends | 365774 | [365774-shaolin-vs-wutang-legends.json](./365774-shaolin-vs-wutang-legends.json) |
 | Shaolin's Road | 45909 | [45909-shaolins-road.json](./45909-shaolins-road.json) |
 | Shaolin5 | 135432 | [135432-shaolin5.json](./135432-shaolin5.json) |
+| Shàonián Měngjiàng Zhuán | 178764 | [178764-shaonian-mengjiang-zhuan.json](./178764-shaonian-mengjiang-zhuan.json) |
 | Shaoye | 113612 | [113612-shaoye.json](./113612-shaoye.json) |
 | Shape | 161603 | [161603-shape.json](./161603-shape.json) |
 | Shape | 323834 | [323834-shape.json](./323834-shape.json) |
@@ -19763,7 +19764,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -27633,6 +27633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storyteller | 383135 | [383135-storyteller.json](./383135-storyteller.json) |
 | Storyteller Special Edition | 415776 | [415776-storyteller-special-edition.json](./415776-storyteller-special-edition.json) |
 | Storyteller: Devilish Update | 269078 | [269078-storyteller-devilish-update.json](./269078-storyteller-devilish-update.json) |
+| Storytime | 178723 | [178723-storytime.json](./178723-storytime.json) |
 | Storytime Cats: Meows and Mistletoes | 420769 | [420769-storytime-cats-meows-and-mistletoes.json](./420769-storytime-cats-meows-and-mistletoes.json) |
 | Storyvale | 57464 | [57464-storyvale.json](./57464-storyvale.json) |
 | Stötnisse Åker Hiss | 187026 | [187026-stotnisse-aker-hiss.json](./187026-stotnisse-aker-hiss.json) |
