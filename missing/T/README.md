@@ -4473,6 +4473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Avoider | 278508 | [278508-terra-avoider.json](./278508-terra-avoider.json) |
 | Terra Battle | 20060 | [20060-terra-battle.json](./20060-terra-battle.json) |
 | Terra Battle 2 | 38658 | [38658-terra-battle-2.json](./38658-terra-battle-2.json) |
+| Terra Bomber | 143826 | [143826-terra-bomber.json](./143826-terra-bomber.json) |
 | Terra Centauri: Last Stand | 184815 | [184815-terra-centauri-last-stand.json](./184815-terra-centauri-last-stand.json) |
 | Terra Cognita | 29037 | [29037-terra-cognita.json](./29037-terra-cognita.json) |
 | Terra Cresta 3D | 58549 | [58549-terra-cresta-3d.json](./58549-terra-cresta-3d.json) |
@@ -12381,6 +12382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Shape | 199798 | [199798-the-last-shape.json](./199798-the-last-shape.json) |
 | The Last Shelter | 349844 | [349844-the-last-shelter.json](./349844-the-last-shelter.json) |
 | The Last Shift | 186461 | [186461-the-last-shift.json](./186461-the-last-shift.json) |
+| The Last Shot | 143860 | [143860-the-last-shot.json](./143860-the-last-shot.json) |
 | The Last Shot: Arcades | 351723 | [351723-the-last-shot-arcades.json](./351723-the-last-shot-arcades.json) |
 | The Last Show | 399035 | [399035-the-last-show.json](./399035-the-last-show.json) |
 | The Last Show | 404387 | [404387-the-last-show.json](./404387-the-last-show.json) |
@@ -18470,6 +18472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate FMV Bundle | 247132 | [247132-the-ultimate-fmv-bundle.json](./247132-the-ultimate-fmv-bundle.json) |
 | The Ultimate FMV Bundle 2 | 213046 | [213046-the-ultimate-fmv-bundle-2.json](./213046-the-ultimate-fmv-bundle-2.json) |
 | The Ultimate G | 356515 | [356515-the-ultimate-g.json](./356515-the-ultimate-g.json) |
+| The Ultimate Game | 143818 | [143818-the-ultimate-game.json](./143818-the-ultimate-game.json) |
 | The Ultimate Gamer Challenge | 407833 | [407833-the-ultimate-gamer-challenge.json](./407833-the-ultimate-gamer-challenge.json) |
 | The Ultimate Haunted House | 12140 | [12140-the-ultimate-haunted-house.json](./12140-the-ultimate-haunted-house.json) |
 | The Ultimate Heist | 76928 | [76928-the-ultimate-heist.json](./76928-the-ultimate-heist.json) |
@@ -24362,6 +24365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Be or Not to Be | 224929 | [224929-to-be-or-not-to-be.json](./224929-to-be-or-not-to-be.json) |
 | To Be Seen is To Be Loved | 397947 | [397947-to-be-seen-is-to-be-loved.json](./397947-to-be-seen-is-to-be-loved.json) |
 | To Be With You | 138677 | [138677-to-be-with-you.json](./138677-to-be-with-you.json) |
+| To Be With You | 143823 | [143823-to-be-with-you.json](./143823-to-be-with-you.json) |
 | To Be With You | 152890 | [152890-to-be-with-you.json](./152890-to-be-with-you.json) |
 | To Become a Tengu | 207133 | [207133-to-become-a-tengu.json](./207133-to-become-a-tengu.json) |
 | To Bee Jazz | 404537 | [404537-to-bee-jazz.json](./404537-to-bee-jazz.json) |
@@ -24623,6 +24627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobii Horizon | 236870 | [236870-tobii-horizon.json](./236870-tobii-horizon.json) |
 | Tobimarisa | 97511 | [97511-tobimarisa.json](./97511-tobimarisa.json) |
 | Tobin's Tale | 211018 | [211018-tobins-tale.json](./211018-tobins-tale.json) |
+| Tobira no Densetsu: Kaze no Tsubasa | 143862 | [143862-tobira-no-densetsu-kaze-no-tsubasa.json](./143862-tobira-no-densetsu-kaze-no-tsubasa.json) |
 | Tobit | 114851 | [114851-tobit.json](./114851-tobit.json) |
 | Tobitaro | 391152 | [391152-tobitaro.json](./391152-tobitaro.json) |
 | Tobla: Divine Path | 279132 | [279132-tobla-divine-path.json](./279132-tobla-divine-path.json) |
