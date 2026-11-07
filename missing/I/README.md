@@ -1529,6 +1529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Hunter | 107885 | [107885-idle-hunter.json](./107885-idle-hunter.json) |
 | Idle Huntress: Adventure | 202250 | [202250-idle-huntress-adventure.json](./202250-idle-huntress-adventure.json) |
 | Idle Idle | 366093 | [366093-idle-idle.json](./366093-idle-idle.json) |
+| Idle Idol | 180916 | [180916-idle-idol.json](./180916-idle-idol.json) |
 | Idle Immortal | 409663 | [409663-idle-immortal.json](./409663-idle-immortal.json) |
 | Idle Immortal: Daughter of Fate | 410849 | [410849-idle-immortal-daughter-of-fate.json](./410849-idle-immortal-daughter-of-fate.json) |
 | Idle Immortal: Deluxe Edition | 410846 | [410846-idle-immortal-deluxe-edition.json](./410846-idle-immortal-deluxe-edition.json) |
@@ -3884,7 +3885,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4180,6 +4180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Initial Prospect | 178844 | [178844-initial-prospect.json](./178844-initial-prospect.json) |
 | Initial Unity | 342282 | [342282-initial-unity.json](./342282-initial-unity.json) |
 | Initializing Maintenance Run: We're Good to Go. | 187049 | [187049-initializing-maintenance-run-were-good-to-go.json](./187049-initializing-maintenance-run-were-good-to-go.json) |
+| Initiate | 180890 | [180890-initiate.json](./180890-initiate.json) |
 | Initiating Station Plus | 374225 | [374225-initiating-station-plus.json](./374225-initiating-station-plus.json) |
 | Initiation | 418189 | [418189-initiation.json](./418189-initiation.json) |
 | Initiation | 81027 | [81027-initiation.json](./81027-initiation.json) |
