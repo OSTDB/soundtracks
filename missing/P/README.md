@@ -1170,6 +1170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandemic Heart | 165010 | [165010-pandemic-heart.json](./165010-pandemic-heart.json) |
 | Pandemic II | 66527 | [66527-pandemic-ii.json](./66527-pandemic-ii.json) |
 | Pandemic Isolation | 151076 | [151076-pandemic-isolation.json](./151076-pandemic-isolation.json) |
+| Pandemic Love | 150826 | [150826-pandemic-love.json](./150826-pandemic-love.json) |
 | Pandemic of the Forgotten Virus | 185593 | [185593-pandemic-of-the-forgotten-virus.json](./185593-pandemic-of-the-forgotten-virus.json) |
 | Pandemic Pandemonium | 167191 | [167191-pandemic-pandemonium.json](./167191-pandemic-pandemonium.json) |
 | Pandemic Pop | 138446 | [138446-pandemic-pop.json](./138446-pandemic-pop.json) |
@@ -1700,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Plane Arena: Shamans | 288222 | [288222-paper-plane-arena-shamans.json](./288222-paper-plane-arena-shamans.json) |
 | Paper Planes | 238636 | [238636-paper-planes.json](./238636-paper-planes.json) |
 | Paper Planes Plus | 261765 | [261765-paper-planes-plus.json](./261765-paper-planes-plus.json) |
+| Paper Planet | 150837 | [150837-paper-planet.json](./150837-paper-planet.json) |
 | Paper Play VR | 298117 | [298117-paper-play-vr.json](./298117-paper-play-vr.json) |
 | Paper Protocol | 311851 | [311851-paper-protocol.json](./311851-paper-protocol.json) |
 | Paper Pusher | 347452 | [347452-paper-pusher.json](./347452-paper-pusher.json) |
@@ -2775,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pass the Time 2 | 68746 | [68746-pass-the-time-2.json](./68746-pass-the-time-2.json) |
 | Pass the wall | 107497 | [107497-pass-the-wall.json](./107497-pass-the-wall.json) |
 | Pass Tiger Cage | 374599 | [374599-pass-tiger-cage.json](./374599-pass-tiger-cage.json) |
+| Pass to Hell | 150842 | [150842-pass-to-hell.json](./150842-pass-to-hell.json) |
 | Pass Your Driving Theory Test | 69205 | [69205-pass-your-driving-theory-test.json](./69205-pass-your-driving-theory-test.json) |
 | Passa ou Repassa | 248782 | [248782-passa-ou-repassa.json](./248782-passa-ou-repassa.json) |
 | Passage | 103641 | [103641-passage.json](./103641-passage.json) |
@@ -9516,6 +9519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planets 2048 | 375443 | [375443-planets-2048.json](./375443-planets-2048.json) |
 | Planets 3 | 137026 | [137026-planets-3.json](./137026-planets-3.json) |
 | Planets Ambrosia | 351538 | [351538-planets-ambrosia.json](./351538-planets-ambrosia.json) |
+| Planets Battle | 150836 | [150836-planets-battle.json](./150836-planets-battle.json) |
 | Planets of War | 37426 | [37426-planets-of-war.json](./37426-planets-of-war.json) |
 | Planets Under Attack | 16408 | [16408-planets-under-attack.json](./16408-planets-under-attack.json) |
 | Planets: The life of normalcy has ended! | 124678 | [124678-planets-the-life-of-normalcy-has-ended.json](./124678-planets-the-life-of-normalcy-has-ended.json) |
@@ -12807,6 +12811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop This Pop-It | 163189 | [163189-pop-this-pop-it.json](./163189-pop-this-pop-it.json) |
 | Pop Top Adventure | 195538 | [195538-pop-top-adventure.json](./195538-pop-top-adventure.json) |
 | Pop Town | 26561 | [26561-pop-town.json](./26561-pop-town.json) |
+| Pop up Blaster | 150844 | [150844-pop-up-blaster.json](./150844-pop-up-blaster.json) |
 | Pop Up Computer | 285034 | [285034-pop-up-computer.json](./285034-pop-up-computer.json) |
 | Pop Up Story: Mahou no Hon to Seiju no Gakuen | 290668 | [290668-pop-up-story-mahou-no-hon-to-seiju-no-gakuen.json](./290668-pop-up-story-mahou-no-hon-to-seiju-no-gakuen.json) |
 | Pop-a-Chick | 232043 | [232043-pop-a-chick.json](./232043-pop-a-chick.json) |
