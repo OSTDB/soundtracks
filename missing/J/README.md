@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janitron | 376596 | [376596-janitron.json](./376596-janitron.json) |
 | Jank Cube VR | 260568 | [260568-jank-cube-vr.json](./260568-jank-cube-vr.json) |
 | Janka | 97804 | [97804-janka.json](./97804-janka.json) |
+| JankBrain | 142583 | [142583-jankbrain.json](./142583-jankbrain.json) |
 | JanKen Battle Arena | 245051 | [245051-janken-battle-arena.json](./245051-janken-battle-arena.json) |
 | Janken Disk Shiro | 41368 | [41368-janken-disk-shiro.json](./41368-janken-disk-shiro.json) |
 | Janken Game Acchi Muite Hoi! | 269938 | [269938-janken-game-acchi-muite-hoi.json](./269938-janken-game-acchi-muite-hoi.json) |
@@ -1274,6 +1275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Set Radio | 279629 | [279629-jet-set-radio.json](./279629-jet-set-radio.json) |
 | Jet Set Radio | 398453 | [398453-jet-set-radio.json](./398453-jet-set-radio.json) |
 | Jet Set Radio Future | 1570 | [1570-jet-set-radio-future.json](./1570-jet-set-radio-future.json) |
+| Jet Set Radio Future Multiplayer | 142580 | [142580-jet-set-radio-future-multiplayer.json](./142580-jet-set-radio-future-multiplayer.json) |
 | Jet Set Radio: MiniMix | 306027 | [306027-jet-set-radio-minimix.json](./306027-jet-set-radio-minimix.json) |
 | Jet Set Sekiro | 401647 | [401647-jet-set-sekiro.json](./401647-jet-set-sekiro.json) |
 | Jet Set Solitaire | 354975 | [354975-jet-set-solitaire.json](./354975-jet-set-solitaire.json) |
