@@ -3648,6 +3648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peaceful Fishing Story | 390502 | [390502-peaceful-fishing-story.json](./390502-peaceful-fishing-story.json) |
 | Peaceful Gunner | 153389 | [153389-peaceful-gunner.json](./153389-peaceful-gunner.json) |
 | Peaceful Lands | 236866 | [236866-peaceful-lands.json](./236866-peaceful-lands.json) |
+| Peaceful Soul | 171701 | [171701-peaceful-soul.json](./171701-peaceful-soul.json) |
 | Peacekeeper | 62088 | [62088-peacekeeper.json](./62088-peacekeeper.json) |
 | Peacely Online | 308185 | [308185-peacely-online.json](./308185-peacely-online.json) |
 | Peacemaker | 21433 | [21433-peacemaker.json](./21433-peacemaker.json) |
@@ -11855,6 +11856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polandball: Can into Space! | 19679 | [19679-polandball-can-into-space.json](./19679-polandball-can-into-space.json) |
 | Polandball: The Black Apocalypse | 374345 | [374345-polandball-the-black-apocalypse.json](./374345-polandball-the-black-apocalypse.json) |
 | Polanie | 50460 | [50460-polanie.json](./50460-polanie.json) |
+| Polar | 171689 | [171689-polar.json](./171689-polar.json) |
 | Polar Bear Cub: games for kids | 90028 | [90028-polar-bear-cub-games-for-kids.json](./90028-polar-bear-cub-games-for-kids.json) |
 | Polar Bear Game | 234574 | [234574-polar-bear-game.json](./234574-polar-bear-game.json) |
 | Polar Bear in Space! | 250934 | [250934-polar-bear-in-space.json](./250934-polar-bear-in-space.json) |
