@@ -4289,6 +4289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liar Moon Shangri-La | 209478 | [209478-liar-moon-shangri-la.json](./209478-liar-moon-shangri-la.json) |
 | Liar Notes | 376634 | [376634-liar-notes.json](./376634-liar-notes.json) |
 | Liar Trick: Psychological Crime Mystery | 163961 | [163961-liar-trick-psychological-crime-mystery.json](./163961-liar-trick-psychological-crime-mystery.json) |
+| Liar, Lioness | 184028 | [184028-liar-lioness.json](./184028-liar-lioness.json) |
 | Liar: Legend of the Sword | 65223 | [65223-liar-legend-of-the-sword.json](./65223-liar-legend-of-the-sword.json) |
 | Liar: Legend of the Sword 2 | 65222 | [65222-liar-legend-of-the-sword-2.json](./65222-liar-legend-of-the-sword-2.json) |
 | Liar! Office Deception | 203201 | [203201-liar-office-deception.json](./203201-liar-office-deception.json) |
@@ -5706,6 +5707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liquor and Wine Shop Simulator: Store Simulator | 326398 | [326398-liquor-and-wine-shop-simulator-store-simulator.json](./326398-liquor-and-wine-shop-simulator-store-simulator.json) |
 | Liquor Love Lady | 345807 | [345807-liquor-love-lady.json](./345807-liquor-love-lady.json) |
 | Liquor Store Simulator | 326399 | [326399-liquor-store-simulator.json](./326399-liquor-store-simulator.json) |
+| Liquorice | 184134 | [184134-liquorice.json](./184134-liquorice.json) |
 | Lirai: Heir Of Darkness | 383597 | [383597-lirai-heir-of-darkness.json](./383597-lirai-heir-of-darkness.json) |
 | LIRE | 145018 | [145018-lire.json](./145018-lire.json) |
 | Lirica | 190347 | [190347-lirica.json](./190347-lirica.json) |
