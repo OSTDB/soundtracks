@@ -19811,7 +19811,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -29285,6 +29284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submarine Survivor | 318350 | [318350-submarine-survivor.json](./318350-submarine-survivor.json) |
 | Submarine Terror | 269205 | [269205-submarine-terror.json](./269205-submarine-terror.json) |
 | Submarine Titans | 93354 | [93354-submarine-titans.json](./93354-submarine-titans.json) |
+| Submarine VR | 170086 | [170086-submarine-vr.json](./170086-submarine-vr.json) |
 | Submarine war | 195296 | [195296-submarine-war.json](./195296-submarine-war.json) |
 | Submarine War | 154007 | [154007-submarine-war.json](./154007-submarine-war.json) |
 | Submarine Wars | 198651 | [198651-submarine-wars.json](./198651-submarine-wars.json) |
