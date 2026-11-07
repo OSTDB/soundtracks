@@ -5377,6 +5377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sen no Hatou, Tsukisome no Kouki | 54909 | [54909-sen-no-hatou-tsukisome-no-kouki.json](./54909-sen-no-hatou-tsukisome-no-kouki.json) |
 | Sen no Hatou, Tsukisome no Kouki: Hana Akari | 374662 | [374662-sen-no-hatou-tsukisome-no-kouki-hana-akari.json](./374662-sen-no-hatou-tsukisome-no-kouki-hana-akari.json) |
 | Sen no Inori no Paradox | 295928 | [295928-sen-no-inori-no-paradox.json](./295928-sen-no-inori-no-paradox.json) |
+| Sen-Know | 178163 | [178163-sen-know.json](./178163-sen-know.json) |
 | SEN: Seven Eight Nine | 129943 | [129943-sen-seven-eight-nine.json](./129943-sen-seven-eight-nine.json) |
 | Sen.Tur. | 166043 | [166043-sen-tur.json](./166043-sen-tur.json) |
 | Senalux: Level Pack 3 | 168755 | [168755-senalux-level-pack-3.json](./168755-senalux-level-pack-3.json) |
@@ -17094,6 +17095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somniphobia | 340940 | [340940-somniphobia.json](./340940-somniphobia.json) |
 | Somnis: Rumble Rush | 332441 | [332441-somnis-rumble-rush.json](./332441-somnis-rumble-rush.json) |
 | Somnium | 166502 | [166502-somnium.json](./166502-somnium.json) |
+| Somnium | 178152 | [178152-somnium.json](./178152-somnium.json) |
 | Somnium | 201329 | [201329-somnium.json](./201329-somnium.json) |
 | Somnium | 302810 | [302810-somnium.json](./302810-somnium.json) |
 | Somnium Angelus | 212567 | [212567-somnium-angelus.json](./212567-somnium-angelus.json) |
@@ -19764,6 +19766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -30024,6 +30027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Clover | 258943 | [258943-summer-clover.json](./258943-summer-clover.json) |
 | Summer Color Boi | 128805 | [128805-summer-color-boi.json](./128805-summer-color-boi.json) |
 | Summer Dash: Our Track Team's Summer Training Trip | 412765 | [412765-summer-dash-our-track-teams-summer-training-trip.json](./412765-summer-dash-our-track-teams-summer-training-trip.json) |
+| Summer Days | 178140 | [178140-summer-days.json](./178140-summer-days.json) |
 | Summer Daze at Hero-U | 123754 | [123754-summer-daze-at-hero-u.json](./123754-summer-daze-at-hero-u.json) |
 | Summer Daze: Tilly's Tale | 250360 | [250360-summer-daze-tillys-tale.json](./250360-summer-daze-tillys-tale.json) |
 | Summer Delicous Simulator | 377021 | [377021-summer-delicous-simulator.json](./377021-summer-delicous-simulator.json) |
