@@ -2977,6 +2977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daydreamer 2 | 192369 | [192369-daydreamer-2.json](./192369-daydreamer-2.json) |
 | Daydreamer: Awakened Edition | 20751 | [20751-daydreamer-awakened-edition.json](./20751-daydreamer-awakened-edition.json) |
 | Daydreaming in the Oval Office | 73524 | [73524-daydreaming-in-the-oval-office.json](./73524-daydreaming-in-the-oval-office.json) |
+| Daydreams in Red | 187625 | [187625-daydreams-in-red.json](./187625-daydreams-in-red.json) |
 | Daydreamy | 268319 | [268319-daydreamy.json](./268319-daydreamy.json) |
 | Daylife in Japan: Pixel Art Jigsaw Puzzle | 147966 | [147966-daylife-in-japan-pixel-art-jigsaw-puzzle.json](./147966-daylife-in-japan-pixel-art-jigsaw-puzzle.json) |
 | Daylight | 5593 | [5593-daylight.json](./5593-daylight.json) |
