@@ -786,6 +786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanted Corp. | 19211 | [19211-wanted-corp.json](./19211-wanted-corp.json) |
 | Wanted Corps | 51643 | [51643-wanted-corps.json](./51643-wanted-corps.json) |
 | Wanted Dead or Alive | 72524 | [72524-wanted-dead-or-alive.json](./72524-wanted-dead-or-alive.json) |
+| Wanted Guns: Gold. Greed. Gunfire | 144468 | [144468-wanted-guns-gold-greed-gunfire.json](./144468-wanted-guns-gold-greed-gunfire.json) |
 | Wanted Raccoon | 144087 | [144087-wanted-raccoon.json](./144087-wanted-raccoon.json) |
 | Wanted Shadows | 267679 | [267679-wanted-shadows.json](./267679-wanted-shadows.json) |
 | Wanted Shadows: Unchained | 373076 | [373076-wanted-shadows-unchained.json](./373076-wanted-shadows-unchained.json) |
@@ -1237,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wardens of Avalon | 405146 | [405146-wardens-of-avalon.json](./405146-wardens-of-avalon.json) |
 | Wardens of Chaos | 288477 | [288477-wardens-of-chaos.json](./288477-wardens-of-chaos.json) |
 | Wardens of the Amber Cage | 103477 | [103477-wardens-of-the-amber-cage.json](./103477-wardens-of-the-amber-cage.json) |
+| Wardens Rising | 144514 | [144514-wardens-rising.json](./144514-wardens-rising.json) |
 | WarDevil: Unleash the Beast Within | 72988 | [72988-wardevil-unleash-the-beast-within.json](./72988-wardevil-unleash-the-beast-within.json) |
 | Wardialler | 118141 | [118141-wardialler.json](./118141-wardialler.json) |
 | Warding Witches | 335253 | [335253-warding-witches.json](./335253-warding-witches.json) |
