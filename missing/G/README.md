@@ -164,6 +164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G-Stream G2020 | 83425 | [83425-g-stream-g2020.json](./83425-g-stream-g2020.json) |
 | G-Surfers | 43624 | [43624-g-surfers.json](./43624-g-surfers.json) |
 | G-Switch 3 | 101770 | [101770-g-switch-3.json](./101770-g-switch-3.json) |
+| G-Switch 3+ | 186352 | [186352-g-switch-3.json](./186352-g-switch-3.json) |
 | G-Switch 4: Creator | 321440 | [321440-g-switch-4-creator.json](./321440-g-switch-4-creator.json) |
 | G-Type | 241496 | [241496-g-type.json](./241496-g-type.json) |
 | G-ump | 260398 | [260398-g-ump.json](./260398-g-ump.json) |
@@ -9859,6 +9860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grooveyard | 321347 | [321347-grooveyard.json](./321347-grooveyard.json) |
 | Groovin' Blocks | 4898 | [4898-groovin-blocks.json](./4898-groovin-blocks.json) |
 | Groovity | 347791 | [347791-groovity.json](./347791-groovity.json) |
+| GrooVR: Air Drumming | 186389 | [186389-groovr-air-drumming.json](./186389-groovr-air-drumming.json) |
 | Groovy | 201709 | [201709-groovy.json](./201709-groovy.json) |
 | Groovy | 35203 | [35203-groovy.json](./35203-groovy.json) |
 | Groovy Labs | 336861 | [336861-groovy-labs.json](./336861-groovy-labs.json) |
