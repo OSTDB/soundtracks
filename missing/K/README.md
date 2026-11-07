@@ -3635,6 +3635,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingmaker | 80171 | [80171-kingmaker.json](./80171-kingmaker.json) |
 | Kingmaker Academy: Warrior's Duels | 249571 | [249571-kingmaker-academy-warriors-duels.json](./249571-kingmaker-academy-warriors-duels.json) |
 | Kingmakers | 287671 | [287671-kingmakers.json](./287671-kingmakers.json) |
+| KingMania | 144481 | [144481-kingmania.json](./144481-kingmania.json) |
+| KingMania: North Kingdom | 144511 | [144511-kingmania-north-kingdom.json](./144511-kingmania-north-kingdom.json) |
 | Kingpin Bowling | 96290 | [96290-kingpin-bowling.json](./96290-kingpin-bowling.json) |
 | Kingpin: Arcade Sports Bowling | 37110 | [37110-kingpin-arcade-sports-bowling.json](./37110-kingpin-arcade-sports-bowling.json) |
 | Kingpin: Life of Crime | 8565 | [8565-kingpin-life-of-crime.json](./8565-kingpin-life-of-crime.json) |
@@ -4461,6 +4463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KnifeBoy: Rebooted | 225880 | [225880-knifeboy-rebooted.json](./225880-knifeboy-rebooted.json) |
 | KnifePlayground: Horror Battle Royale | 277927 | [277927-knifeplayground-horror-battle-royale.json](./277927-knifeplayground-horror-battle-royale.json) |
 | Kniffelix | 122301 | [122301-kniffelix.json](./122301-kniffelix.json) |
+| KniffiKult | 144510 | [144510-kniffikult.json](./144510-kniffikult.json) |
 | KnighShift | 50458 | [50458-knighshift.json](./50458-knighshift.json) |
 | Knight 'n' Grail | 41118 | [41118-knight-n-grail.json](./41118-knight-n-grail.json) |
 | Knight & Damsel | 24023 | [24023-knight-and-damsel.json](./24023-knight-and-damsel.json) |
