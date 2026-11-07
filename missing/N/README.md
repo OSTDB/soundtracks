@@ -4813,6 +4813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NightStone | 86211 | [86211-nightstone.json](./86211-nightstone.json) |
 | Nightswimming | 300820 | [300820-nightswimming.json](./300820-nightswimming.json) |
 | Nighttime Terror VR: Dessert Defender | 19041 | [19041-nighttime-terror-vr-dessert-defender.json](./19041-nighttime-terror-vr-dessert-defender.json) |
+| Nightvision: Drive Forever | 139525 | [139525-nightvision-drive-forever.json](./139525-nightvision-drive-forever.json) |
 | Nightwalk | 117447 | [117447-nightwalk.json](./117447-nightwalk.json) |
 | Nightwalk Simulator | 312445 | [312445-nightwalk-simulator.json](./312445-nightwalk-simulator.json) |
 | Nightwalker | 163946 | [163946-nightwalker.json](./163946-nightwalker.json) |
@@ -6542,6 +6543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nonetheless | 294362 | [294362-nonetheless.json](./294362-nonetheless.json) |
 | NonFullControl | 370988 | [370988-nonfullcontrol.json](./370988-nonfullcontrol.json) |
 | Nongon Alpha | 56305 | [56305-nongon-alpha.json](./56305-nongon-alpha.json) |
+| Nongunz: Doppelganger Edition | 139575 | [139575-nongunz-doppelganger-edition.json](./139575-nongunz-doppelganger-edition.json) |
 | Nonlinear Door | 273450 | [273450-nonlinear-door.json](./273450-nonlinear-door.json) |
 | Nonno Lorenzo | 216983 | [216983-nonno-lorenzo.json](./216983-nonno-lorenzo.json) |
 | Nonno's Legend | 243834 | [243834-nonnos-legend.json](./243834-nonnos-legend.json) |
