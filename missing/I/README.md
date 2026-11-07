@@ -3893,6 +3893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -6803,6 +6804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itrill | 260769 | [260769-itrill.json](./260769-itrill.json) |
 | Itro: In the Right Order | 59668 | [59668-itro-in-the-right-order.json](./59668-itro-in-the-right-order.json) |
 | ITRP: Aero Star | 236857 | [236857-itrp-aero-star.json](./236857-itrp-aero-star.json) |
+| Itrp: Gas Prison | 173938 | [173938-itrp-gas-prison.json](./173938-itrp-gas-prison.json) |
 | Itrp: Vacuum Bless | 372441 | [372441-itrp-vacuum-bless.json](./372441-itrp-vacuum-bless.json) |
 | ITRP: Volatile Vertex | 192199 | [192199-itrp-volatile-vertex.json](./192199-itrp-volatile-vertex.json) |
 | Its a Pirate-Game! | 176303 | [176303-its-a-pirate-game.json](./176303-its-a-pirate-game.json) |
