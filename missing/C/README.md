@@ -3894,6 +3894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castrol Honda: World Superbike Team - Superbike Racing | 139243 | [139243-castrol-honda-world-superbike-team-superbike-racing.json](./139243-castrol-honda-world-superbike-team-superbike-racing.json) |
 | Castrum Novum VR: Life in a Roman Colony | 224930 | [224930-castrum-novum-vr-life-in-a-roman-colony.json](./224930-castrum-novum-vr-life-in-a-roman-colony.json) |
 | Casual Birder | 151962 | [151962-casual-birder.json](./151962-casual-birder.json) |
+| Casual Challenge Players' Club | 173920 | [173920-casual-challenge-players-club.json](./173920-casual-challenge-players-club.json) |
 | Casual Coins | 197687 | [197687-casual-coins.json](./197687-casual-coins.json) |
 | Casual Combo Collection | 206902 | [206902-casual-combo-collection.json](./206902-casual-combo-collection.json) |
 | Casual Commando | 157714 | [157714-casual-commando.json](./157714-casual-commando.json) |
@@ -19360,6 +19361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CubeRace | 114953 | [114953-cuberace.json](./114953-cuberace.json) |
 | Cuberio | 390081 | [390081-cuberio.json](./390081-cuberio.json) |
 | CuberPunk 2089 | 139031 | [139031-cuberpunk-2089.json](./139031-cuberpunk-2089.json) |
+| CuberPunk 2090 | 173942 | [173942-cuberpunk-2090.json](./173942-cuberpunk-2090.json) |
 | Cuberun | 336954 | [336954-cuberun.json](./336954-cuberun.json) |
 | CubeRun | 89268 | [89268-cuberun.json](./89268-cuberun.json) |
 | CubeRun 2 | 242444 | [242444-cuberun-2.json](./242444-cuberun-2.json) |
@@ -20711,6 +20713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybercube | 68709 | [68709-cybercube.json](./68709-cybercube.json) |
 | Cybercum 2069 | 305763 | [305763-cybercum-2069.json](./305763-cybercum-2069.json) |
 | CyberCum: Pussy Attack! | 243164 | [243164-cybercum-pussy-attack.json](./243164-cybercum-pussy-attack.json) |
+| Cyberdad | 173908 | [173908-cyberdad.json](./173908-cyberdad.json) |
 | CyberDeck: The Cyberpunk Roguelike Deckbuilder | 406742 | [406742-cyberdeck-the-cyberpunk-roguelike-deckbuilder.json](./406742-cyberdeck-the-cyberpunk-roguelike-deckbuilder.json) |
 | Cyberdekay | 203493 | [203493-cyberdekay.json](./203493-cyberdekay.json) |
 | Cyberdelic | 275757 | [275757-cyberdelic.json](./275757-cyberdelic.json) |
