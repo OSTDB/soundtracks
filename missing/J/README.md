@@ -3815,6 +3815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juraroid | 370551 | [370551-juraroid.json](./370551-juraroid.json) |
 | Jurassic Architect | 210980 | [210980-jurassic-architect.json](./210980-jurassic-architect.json) |
 | Jurassic Arena | 89060 | [89060-jurassic-arena.json](./89060-jurassic-arena.json) |
+| Jurassic Attack | 146970 | [146970-jurassic-attack.json](./146970-jurassic-attack.json) |
 | Jurassic Boy | 56800 | [56800-jurassic-boy.json](./56800-jurassic-boy.json) |
 | Jurassic Boy 2 | 48578 | [48578-jurassic-boy-2.json](./48578-jurassic-boy-2.json) |
 | Jurassic City Walk | 99030 | [99030-jurassic-city-walk.json](./99030-jurassic-city-walk.json) |
@@ -3853,6 +3854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Park | 4519 | [4519-jurassic-park.json](./4519-jurassic-park.json) |
 | Jurassic Park | 75526 | [75526-jurassic-park.json](./75526-jurassic-park.json) |
 | Jurassic Park : Aftermath | 8367 | [8367-jurassic-park-aftermath.json](./8367-jurassic-park-aftermath.json) |
+| Jurassic Park II | 146972 | [146972-jurassic-park-ii.json](./146972-jurassic-park-ii.json) |
 | Jurassic Park III | 40093 | [40093-jurassic-park-iii.json](./40093-jurassic-park-iii.json) |
 | Jurassic Park III: Dino Defender | 74091 | [74091-jurassic-park-iii-dino-defender.json](./74091-jurassic-park-iii-dino-defender.json) |
 | Jurassic Park III: Island Attack | 6482 | [6482-jurassic-park-iii-island-attack.json](./6482-jurassic-park-iii-island-attack.json) |
