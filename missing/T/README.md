@@ -20514,6 +20514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Kingdoms Heroes | 382485 | [382485-three-kingdoms-heroes.json](./382485-three-kingdoms-heroes.json) |
 | Three Kingdoms Mushouden | 333827 | [333827-three-kingdoms-mushouden.json](./333827-three-kingdoms-mushouden.json) |
 | Three Kingdoms Origin | 245821 | [245821-three-kingdoms-origin.json](./245821-three-kingdoms-origin.json) |
+| Three Kingdoms Simulator | 168478 | [168478-three-kingdoms-simulator.json](./168478-three-kingdoms-simulator.json) |
 | Three Kingdoms Story: Conussia | 233858 | [233858-three-kingdoms-story-conussia.json](./233858-three-kingdoms-story-conussia.json) |
 | Three Kingdoms VR - Jade Knight | 75820 | [75820-three-kingdoms-vr-jade-knight.json](./75820-three-kingdoms-vr-jade-knight.json) |
 | Three Kingdoms Written Words | 157538 | [157538-three-kingdoms-written-words.json](./157538-three-kingdoms-written-words.json) |
@@ -24915,6 +24916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Extraction: Limited Edition | 152336 | [152336-tom-clancys-rainbow-six-extraction-limited-edition.json](./152336-tom-clancys-rainbow-six-extraction-limited-edition.json) |
 | Tom Clancy’s Rainbow Six Extraction: React Strike Pack | 255858 | [255858-tom-clancy-s-rainbow-six-extraction-react-strike-pack.json](./255858-tom-clancy-s-rainbow-six-extraction-react-strike-pack.json) |
 | Tom Clancy's Rainbow Six Mission Pack: Eagle Watch | 1841 | [1841-tom-clancys-rainbow-six-mission-pack-eagle-watch.json](./1841-tom-clancys-rainbow-six-mission-pack-eagle-watch.json) |
+| Tom Clancy's Rainbow Six Siege - Ash Watch_Dogs Set | 168492 | [168492-tom-clancys-rainbow-six-siege-ash-watch-dogs-set.json](./168492-tom-clancys-rainbow-six-siege-ash-watch-dogs-set.json) |
 | Tom Clancy's Rainbow Six Siege - Pro League Clash Set | 224422 | [224422-tom-clancys-rainbow-six-siege-pro-league-clash-set.json](./224422-tom-clancys-rainbow-six-siege-pro-league-clash-set.json) |
 | Tom Clancy's Rainbow Six Siege + The Division Double Pack | 144734 | [144734-tom-clancys-rainbow-six-siege-the-division-double-pack.json](./144734-tom-clancys-rainbow-six-siege-the-division-double-pack.json) |
 | Tom Clancy's Rainbow Six Siege X | 349484 | [349484-tom-clancys-rainbow-six-siege-x.json](./349484-tom-clancys-rainbow-six-siege-x.json) |
