@@ -1704,6 +1704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Lore Mysteries: The Hunt For Truth | 36381 | [36381-dark-lore-mysteries-the-hunt-for-truth.json](./36381-dark-lore-mysteries-the-hunt-for-truth.json) |
 | Dark Lovers: Extended Edition | 264770 | [264770-dark-lovers-extended-edition.json](./264770-dark-lovers-extended-edition.json) |
 | Dark Mage | 40687 | [40687-dark-mage.json](./40687-dark-mage.json) |
+| Dark Magic | 159470 | [159470-dark-magic.json](./159470-dark-magic.json) |
 | Dark Magic 2 | 192387 | [192387-dark-magic-2.json](./192387-dark-magic-2.json) |
 | Dark Magician | 192380 | [192380-dark-magician.json](./192380-dark-magician.json) |
 | Dark Maidens | 212594 | [212594-dark-maidens.json](./212594-dark-maidens.json) |
@@ -3609,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Heat Riders | 288175 | [288175-dead-heat-riders.json](./288175-dead-heat-riders.json) |
 | Dead Heat Scramble | 48950 | [48950-dead-heat-scramble.json](./48950-dead-heat-scramble.json) |
 | Dead Heat Unleashed | 327007 | [327007-dead-heat-unleashed.json](./327007-dead-heat-unleashed.json) |
+| Dead Herring VR | 159464 | [159464-dead-herring-vr.json](./159464-dead-herring-vr.json) |
 | Dead Hook | 252209 | [252209-dead-hook.json](./252209-dead-hook.json) |
 | Dead Horizon | 268886 | [268886-dead-horizon.json](./268886-dead-horizon.json) |
 | Dead Horizon | 52772 | [52772-dead-horizon.json](./52772-dead-horizon.json) |
@@ -17477,6 +17479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dualspace | 419634 | [419634-dualspace.json](./419634-dualspace.json) |
 | Dualsus | 62655 | [62655-dualsus.json](./62655-dualsus.json) |
 | DualVerse86 | 373175 | [373175-dualverse86.json](./373175-dualverse86.json) |
+| Duamo | 159461 | [159461-duamo.json](./159461-duamo.json) |
 | Duàndāo Kè | 166674 | [166674-duandao-ke.json](./166674-duandao-ke.json) |
 | Duas Vidas | 259450 | [259450-duas-vidas.json](./259450-duas-vidas.json) |
 | Duat Wayfarer | 390042 | [390042-duat-wayfarer.json](./390042-duat-wayfarer.json) |
@@ -17692,6 +17695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duder | 89599 | [89599-duder.json](./89599-duder.json) |
 | Dudes with Attitude | 48063 | [48063-dudes-with-attitude.json](./48063-dudes-with-attitude.json) |
 | Dudeski | 187799 | [187799-dudeski.json](./187799-dudeski.json) |
+| DuDu Kingdom | 159456 | [159456-dudu-kingdom.json](./159456-dudu-kingdom.json) |
 | Dudu Monkey | 165077 | [165077-dudu-monkey.json](./165077-dudu-monkey.json) |
 | Due | 327285 | [327285-due.json](./327285-due.json) |
 | Due Date | 240367 | [240367-due-date.json](./240367-due-date.json) |
