@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack And Slash Fury: Sorcerer Armor | 334522 | [334522-hack-and-slash-fury-sorcerer-armor.json](./334522-hack-and-slash-fury-sorcerer-armor.json) |
 | Hack And Slash Fury: War Armor | 334523 | [334523-hack-and-slash-fury-war-armor.json](./334523-hack-and-slash-fury-war-armor.json) |
 | Hack And Slash Fury: Warrior Armor | 334524 | [334524-hack-and-slash-fury-warrior-armor.json](./334524-hack-and-slash-fury-warrior-armor.json) |
+| Hack and Slime | 189235 | [189235-hack-and-slime.json](./189235-hack-and-slime.json) |
 | Hack Back | 353760 | [353760-hack-back.json](./353760-hack-back.json) |
 | Hack Bomb Boma-ye | 153058 | [153058-hack-bomb-boma-ye.json](./153058-hack-bomb-boma-ye.json) |
 | Hack Deep | 291711 | [291711-hack-deep.json](./291711-hack-deep.json) |
@@ -1016,6 +1017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammer of Fury | 38971 | [38971-hammer-of-fury.json](./38971-hammer-of-fury.json) |
 | Hammer of Pain | 258770 | [258770-hammer-of-pain.json](./258770-hammer-of-pain.json) |
 | Hammer of the Gods | 19703 | [19703-hammer-of-the-gods.json](./19703-hammer-of-the-gods.json) |
+| Hammer of Virtue | 189252 | [189252-hammer-of-virtue.json](./189252-hammer-of-virtue.json) |
 | Hammer Penguins | 340563 | [340563-hammer-penguins.json](./340563-hammer-penguins.json) |
 | Hammer time! | 178089 | [178089-hammer-time.json](./178089-hammer-time.json) |
 | Hammer vs. Evil D. in Soulfire | 201166 | [201166-hammer-vs-evil-d-in-soulfire.json](./201166-hammer-vs-evil-d-in-soulfire.json) |
@@ -3050,6 +3052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | He Watches Me | 264342 | [264342-he-watches-me.json](./264342-he-watches-me.json) |
 | He Who Tied The Bell | 335785 | [335785-he-who-tied-the-bell.json](./335785-he-who-tied-the-bell.json) |
 | He Who Watches | 239828 | [239828-he-who-watches.json](./239828-he-who-watches.json) |
+| He Will Shoot | 189248 | [189248-he-will-shoot.json](./189248-he-will-shoot.json) |
 | He-162 Volksjäger: Tour of Duty | 182 | [182-he-162-volksjager-tour-of-duty.json](./182-he-162-volksjager-tour-of-duty.json) |
 | He-Man | 198343 | [198343-he-man.json](./198343-he-man.json) |
 | He-Man and the Masters of the Universe: Dragon Pearl of Destruction | 361830 | [361830-he-man-and-the-masters-of-the-universe-dragon-pearl-of-destruction.json](./361830-he-man-and-the-masters-of-the-universe-dragon-pearl-of-destruction.json) |
