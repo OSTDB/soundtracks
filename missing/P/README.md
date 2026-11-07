@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pam's Fantastic Escape | 243723 | [243723-pams-fantastic-escape.json](./243723-pams-fantastic-escape.json) |
 | Pam's HarvestCraft | 232682 | [232682-pams-harvestcraft.json](./232682-pams-harvestcraft.json) |
 | Pam's House: An Escape Game | 183212 | [183212-pams-house-an-escape-game.json](./183212-pams-house-an-escape-game.json) |
+| Pam's Room | 183149 | [183149-pams-room.json](./183149-pams-room.json) |
 | Pamali: Indonesian Folklore Horror | 102339 | [102339-pamali-indonesian-folklore-horror.json](./102339-pamali-indonesian-folklore-horror.json) |
 | Pamali: Indonesian Folklore Horror - The Tied Corpse | 117737 | [117737-pamali-indonesian-folklore-horror-the-tied-corpse.json](./117737-pamali-indonesian-folklore-horror-the-tied-corpse.json) |
 | Pamali: The Vengeful Mother | 274761 | [274761-pamali-the-vengeful-mother.json](./274761-pamali-the-vengeful-mother.json) |
@@ -8041,6 +8042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Cup Soccer 16 | 39001 | [39001-pixel-cup-soccer-16.json](./39001-pixel-cup-soccer-16.json) |
 | Pixel Cup Soccer 17 | 32354 | [32354-pixel-cup-soccer-17.json](./32354-pixel-cup-soccer-17.json) |
 | Pixel Cup Soccer: Ultimate Edition | 158544 | [158544-pixel-cup-soccer-ultimate-edition.json](./158544-pixel-cup-soccer-ultimate-edition.json) |
+| Pixel Dash | 183131 | [183131-pixel-dash.json](./183131-pixel-dash.json) |
 | Pixel Dash | 265778 | [265778-pixel-dash.json](./265778-pixel-dash.json) |
 | Pixel Dash: Toast of Destiny | 347444 | [347444-pixel-dash-toast-of-destiny.json](./347444-pixel-dash-toast-of-destiny.json) |
 | Pixel Defender | 298078 | [298078-pixel-defender.json](./298078-pixel-defender.json) |
@@ -17151,6 +17153,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PUBG Mobile: Season 18 | 158951 | [158951-pubg-mobile-season-18.json](./158951-pubg-mobile-season-18.json) |
 | PUBG Mobile: Season 19 | 158952 | [158952-pubg-mobile-season-19.json](./158952-pubg-mobile-season-19.json) |
 | PUBG Mobile: Season 20 | 158953 | [158953-pubg-mobile-season-20.json](./158953-pubg-mobile-season-20.json) |
+| PUBG: Battlegrounds - Season 13 | 183120 | [183120-pubg-battlegrounds-season-13.json](./183120-pubg-battlegrounds-season-13.json) |
+| PUBG: Battlegrounds - Season 14 | 183123 | [183123-pubg-battlegrounds-season-14.json](./183123-pubg-battlegrounds-season-14.json) |
+| PUBG: Battlegrounds - Season 15 | 183124 | [183124-pubg-battlegrounds-season-15.json](./183124-pubg-battlegrounds-season-15.json) |
 | PUBG: Battlegrounds - Season 16 | 198264 | [198264-pubg-battlegrounds-season-16.json](./198264-pubg-battlegrounds-season-16.json) |
 | PUBG: Battlegrounds - Season 17 | 198265 | [198265-pubg-battlegrounds-season-17.json](./198265-pubg-battlegrounds-season-17.json) |
 | PUBG: Battlegrounds - Season 18 | 217520 | [217520-pubg-battlegrounds-season-18.json](./217520-pubg-battlegrounds-season-18.json) |
