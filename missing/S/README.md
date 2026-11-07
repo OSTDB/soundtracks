@@ -2105,7 +2105,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satella 2 1 | 178952 | [178952-satella-2-1.json](./178952-satella-2-1.json) |
 | Satella X | 178953 | [178953-satella-x.json](./178953-satella-x.json) |
 | Satella-Q | 67026 | [67026-satella-q.json](./67026-satella-q.json) |
+| Satella-Q: 1QQQ Q-nenjuu ha O-sewa ni Narimashita. Kotoshi mo Yoroshi Quiz! | 179245 | [179245-satella-q-1qqq-q-nenjuu-ha-o-sewa-ni-narimashita-kotoshi-mo-yoroshi-quiz.json](./179245-satella-q-1qqq-q-nenjuu-ha-o-sewa-ni-narimashita-kotoshi-mo-yoroshi-quiz.json) |
+| Satella-Q: Cho-Q! Henka-Q! | 179238 | [179238-satella-q-cho-q-henka-q.json](./179238-satella-q-cho-q-henka-q.json) |
+| Satella-Q: Kokumin no Q-jitsu | 179237 | [179237-satella-q-kokumin-no-q-jitsu.json](./179237-satella-q-kokumin-no-q-jitsu.json) |
+| Satella-Q: Mou Sugu Haru desu ne - Chotto Sate-Q Shimasen ka? | 179243 | [179243-satella-q-mou-sugu-haru-desu-ne-chotto-sate-q-shimasen-ka.json](./179243-satella-q-mou-sugu-haru-desu-ne-chotto-sate-q-shimasen-ka.json) |
+| Satella-Q: MusiQ Fair | 179242 | [179242-satella-q-musiq-fair.json](./179242-satella-q-musiq-fair.json) |
 | Satella-Q: Nenmatsu Jumbo Takara Quiz | 234040 | [234040-satella-q-nenmatsu-jumbo-takara-quiz.json](./234040-satella-q-nenmatsu-jumbo-takara-quiz.json) |
+| Satella-Q: Nenmatsu Jumbo Takara Quiz - Dai-4-shuu | 179236 | [179236-satella-q-nenmatsu-jumbo-takara-quiz-dai-4-shuu.json](./179236-satella-q-nenmatsu-jumbo-takara-quiz-dai-4-shuu.json) |
+| Satella-Q: Nihon Series Q-kaiura 2 Out Manrui! Naze ka Squeeze! | 179240 | [179240-satella-q-nihon-series-q-kaiura-2-out-manrui-naze-ka-squeeze.json](./179240-satella-q-nihon-series-q-kaiura-2-out-manrui-naze-ka-squeeze.json) |
+| Satella-Q: Q-1 Grand Prix Manatsu no Revenge | 179244 | [179244-satella-q-q-1-grand-prix-manatsu-no-revenge.json](./179244-satella-q-q-1-grand-prix-manatsu-no-revenge.json) |
+| Satella-Q: Qko-tachi no Koushien | 179239 | [179239-satella-q-qko-tachi-no-koushien.json](./179239-satella-q-qko-tachi-no-koushien.json) |
+| Satella-Q: Sayonara Heisei Q-nen Nenmatsu Soukessan! | 179241 | [179241-satella-q-sayonara-heisei-q-nen-nenmatsu-soukessan.json](./179241-satella-q-sayonara-heisei-q-nen-nenmatsu-soukessan.json) |
+| Satella-Q: Shin Q Omedetou Pika-pika no Q Ninsei | 179246 | [179246-satella-q-shin-q-omedetou-pika-pika-no-q-ninsei.json](./179246-satella-q-shin-q-omedetou-pika-pika-no-q-ninsei.json) |
 | SatellaWalker | 134468 | [134468-satellawalker.json](./134468-satellawalker.json) |
 | SatellaWalker 2 | 134469 | [134469-satellawalker-2.json](./134469-satellawalker-2.json) |
 | SatellaWalker 2: Bottom de Battle | 151637 | [151637-satellawalker-2-bottom-de-battle.json](./151637-satellawalker-2-bottom-de-battle.json) |
@@ -12489,6 +12500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skulldiggery | 80394 | [80394-skulldiggery.json](./80394-skulldiggery.json) |
 | Skulldude | 181220 | [181220-skulldude.json](./181220-skulldude.json) |
 | Skullforge: The Hunt | 110272 | [110272-skullforge-the-hunt.json](./110272-skullforge-the-hunt.json) |
+| Skullfracture | 179268 | [179268-skullfracture.json](./179268-skullfracture.json) |
 | Skullgirls | 9425 | [9425-skullgirls.json](./9425-skullgirls.json) |
 | Skullgirls 2nd Encore: Upgrade | 379059 | [379059-skullgirls-2nd-encore-upgrade.json](./379059-skullgirls-2nd-encore-upgrade.json) |
 | Skullgirls Encore | 85703 | [85703-skullgirls-encore.json](./85703-skullgirls-encore.json) |
@@ -13207,6 +13219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slaughterfest 3 | 140892 | [140892-slaughterfest-3.json](./140892-slaughterfest-3.json) |
 | Slaughterhouse | 149596 | [149596-slaughterhouse.json](./149596-slaughterhouse.json) |
 | Slaughterhouse | 376815 | [376815-slaughterhouse.json](./376815-slaughterhouse.json) |
+| Slaughterhouse Escape | 179277 | [179277-slaughterhouse-escape.json](./179277-slaughterhouse-escape.json) |
 | Slaughtertrain | 179457 | [179457-slaughtertrain.json](./179457-slaughtertrain.json) |
 | Slaughtra | 344408 | [344408-slaughtra.json](./344408-slaughtra.json) |
 | Slav Dangerous | 166931 | [166931-slav-dangerous.json](./166931-slav-dangerous.json) |
@@ -13771,6 +13784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Survivors | 304878 | [304878-slime-survivors.json](./304878-slime-survivors.json) |
 | Slime Tactics | 113592 | [113592-slime-tactics.json](./113592-slime-tactics.json) |
 | Slime Tales | 372427 | [372427-slime-tales.json](./372427-slime-tales.json) |
+| Slime Time | 179274 | [179274-slime-time.json](./179274-slime-time.json) |
 | Slime Time | 377347 | [377347-slime-time.json](./377347-slime-time.json) |
 | Slime Time TD | 153404 | [153404-slime-time-td.json](./153404-slime-time-td.json) |
 | Slime Time! | 106591 | [106591-slime-time.json](./106591-slime-time.json) |
@@ -16682,6 +16696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire Card Games | 147883 | [147883-solitaire-card-games.json](./147883-solitaire-card-games.json) |
 | Solitaire Central | 384790 | [384790-solitaire-central.json](./384790-solitaire-central.json) |
 | Solitaire Christmas: Match 2 Cards | 33879 | [33879-solitaire-christmas-match-2-cards.json](./33879-solitaire-christmas-match-2-cards.json) |
+| Solitaire Chronicles: Wild Guns | 179278 | [179278-solitaire-chronicles-wild-guns.json](./179278-solitaire-chronicles-wild-guns.json) |
 | Solitaire City | 76589 | [76589-solitaire-city.json](./76589-solitaire-city.json) |
 | Solitaire City Classic | 99103 | [99103-solitaire-city-classic.json](./99103-solitaire-city-classic.json) |
 | Solitaire City Deluxe | 88581 | [88581-solitaire-city-deluxe.json](./88581-solitaire-city-deluxe.json) |
@@ -19748,6 +19763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
 | Space Hunter | 26416 | [26416-space-hunter.json](./26416-space-hunter.json) |
@@ -26841,6 +26857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Robot Puzzle | 303665 | [303665-stick-robot-puzzle.json](./303665-stick-robot-puzzle.json) |
 | Stick Royale | 117373 | [117373-stick-royale.json](./117373-stick-royale.json) |
 | Stick RPG | 97975 | [97975-stick-rpg.json](./97975-stick-rpg.json) |
+| Stick RPG 2: Director's Cut | 179279 | [179279-stick-rpg-2-directors-cut.json](./179279-stick-rpg-2-directors-cut.json) |
 | Stick Run | 57176 | [57176-stick-run.json](./57176-stick-run.json) |
 | Stick Runner: Operation Europe | 105763 | [105763-stick-runner-operation-europe.json](./105763-stick-runner-operation-europe.json) |
 | Stick Saiyan: Fight | 104266 | [104266-stick-saiyan-fight.json](./104266-stick-saiyan-fight.json) |
