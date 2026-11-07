@@ -13628,6 +13628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirastell | 132782 | [132782-mirastell.json](./132782-mirastell.json) |
 | Mirax | 39592 | [39592-mirax.json](./39592-mirax.json) |
 | Mirax Force | 55208 | [55208-mirax-force.json](./55208-mirax-force.json) |
+| Miray | 150845 | [150845-miray.json](./150845-miray.json) |
 | Mircea | 320739 | [320739-mircea.json](./320739-mircea.json) |
 | Mircron Wars XR | 51726 | [51726-mircron-wars-xr.json](./51726-mircron-wars-xr.json) |
 | Mire | 199393 | [199393-mire.json](./199393-mire.json) |
