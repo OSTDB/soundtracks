@@ -14762,6 +14762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess.Loot.Pixel.Again | 34129 | [34129-princess-loot-pixel-again.json](./34129-princess-loot-pixel-again.json) |
 | Princess.Loot.Pixel.Again x2 | 79101 | [79101-princess-loot-pixel-again-x2.json](./79101-princess-loot-pixel-again-x2.json) |
 | Princess's Peak | 367083 | [367083-princesss-peak.json](./367083-princesss-peak.json) |
+| PrincessCliffhouse | 170082 | [170082-princesscliffhouse.json](./170082-princesscliffhouse.json) |
 | Princesses Lylop: Royal Puzzle Challenge | 328495 | [328495-princesses-lylop-royal-puzzle-challenge.json](./328495-princesses-lylop-royal-puzzle-challenge.json) |
 | Princesses Never Lose! | 117701 | [117701-princesses-never-lose.json](./117701-princesses-never-lose.json) |
 | Princesses vs Dragons: Royal Rumble | 121187 | [121187-princesses-vs-dragons-royal-rumble.json](./121187-princesses-vs-dragons-royal-rumble.json) |
