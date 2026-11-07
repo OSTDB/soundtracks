@@ -7813,6 +7813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nym: Path of the Skycaster | 164224 | [164224-nym-path-of-the-skycaster.json](./164224-nym-path-of-the-skycaster.json) |
 | Nymble | 178815 | [178815-nymble.json](./178815-nymble.json) |
 | Nymble 2 | 408495 | [408495-nymble-2.json](./408495-nymble-2.json) |
+| Nymph's Tower | 183647 | [183647-nymphs-tower.json](./183647-nymphs-tower.json) |
 | Nympho Wife | 163789 | [163789-nympho-wife.json](./163789-nympho-wife.json) |
 | Nympho's Path | 208450 | [208450-nymphos-path.json](./208450-nymphos-path.json) |
 | Nymphomania Paradox | 82784 | [82784-nymphomania-paradox.json](./82784-nymphomania-paradox.json) |
