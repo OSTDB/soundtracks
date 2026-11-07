@@ -7070,6 +7070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessmate | 413719 | [413719-chessmate.json](./413719-chessmate.json) |
 | Chessmates | 163690 | [163690-chessmates.json](./163690-chessmates.json) |
 | Chessplode | 233376 | [233376-chessplode.json](./233376-chessplode.json) |
+| Chessplosion | 148661 | [148661-chessplosion.json](./148661-chessplosion.json) |
 | Chessplosion | 417253 | [417253-chessplosion.json](./417253-chessplosion.json) |
 | ChessRogue | 319280 | [319280-chessrogue.json](./319280-chessrogue.json) |
 | ChessRogue | 93479 | [93479-chessrogue.json](./93479-chessrogue.json) |
