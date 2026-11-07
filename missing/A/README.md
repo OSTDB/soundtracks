@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Bit of Tactics | 221112 | [221112-a-bit-of-tactics.json](./221112-a-bit-of-tactics.json) |
 | A Blackout Protocol Report | 344237 | [344237-a-blackout-protocol-report.json](./344237-a-blackout-protocol-report.json) |
 | A Blast from the Past | 233566 | [233566-a-blast-from-the-past.json](./233566-a-blast-from-the-past.json) |
+| A Blastastic Love Story: KiriBaku | 178750 | [178750-a-blastastic-love-story-kiribaku.json](./178750-a-blastastic-love-story-kiribaku.json) |
 | A Bleaker Predicklement | 106014 | [106014-a-bleaker-predicklement.json](./106014-a-bleaker-predicklement.json) |
 | A Blind Legend | 33641 | [33641-a-blind-legend.json](./33641-a-blind-legend.json) |
 | A Blocc World | 293077 | [293077-a-blocc-world.json](./293077-a-blocc-world.json) |
@@ -249,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dash of Color | 296567 | [296567-a-dash-of-color.json](./296567-a-dash-of-color.json) |
 | A Date for the Ages | 260648 | [260648-a-date-for-the-ages.json](./260648-a-date-for-the-ages.json) |
 | A Date in the Park | 32670 | [32670-a-date-in-the-park.json](./32670-a-date-in-the-park.json) |
+| A Date in Time | 178771 | [178771-a-date-in-time.json](./178771-a-date-in-time.json) |
 | A Date With Chester 2 | 383186 | [383186-a-date-with-chester-2.json](./383186-a-date-with-chester-2.json) |
 | A Date with Death | 253544 | [253544-a-date-with-death.json](./253544-a-date-with-death.json) |
 | A Date with Death 2: Remnants | 380972 | [380972-a-date-with-death-2-remnants.json](./380972-a-date-with-death-2-remnants.json) |
@@ -907,6 +909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A New World: Kingdoms | 68474 | [68474-a-new-world-kingdoms.json](./68474-a-new-world-kingdoms.json) |
 | A New Zero | 63157 | [63157-a-new-zero.json](./63157-a-new-zero.json) |
 | A Next Level Adventure | 362868 | [362868-a-next-level-adventure.json](./362868-a-next-level-adventure.json) |
+| A nice date | 178749 | [178749-a-nice-date.json](./178749-a-nice-date.json) |
 | A Night Alone | 179859 | [179859-a-night-alone.json](./179859-a-night-alone.json) |
 | A Night At Andy's | 184620 | [184620-a-night-at-andys.json](./184620-a-night-at-andys.json) |
 | A Night at Manster Mansion | 178826 | [178826-a-night-at-manster-mansion.json](./178826-a-night-at-manster-mansion.json) |
@@ -1301,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Tale of Caos: Overture - Act III | 170820 | [170820-a-tale-of-caos-overture-act-iii.json](./170820-a-tale-of-caos-overture-act-iii.json) |
 | A Tale of Caos: Prelude | 58086 | [58086-a-tale-of-caos-prelude.json](./58086-a-tale-of-caos-prelude.json) |
 | A Tale of Colours | 413679 | [413679-a-tale-of-colours.json](./413679-a-tale-of-colours.json) |
+| A Tale of Crowns | 178751 | [178751-a-tale-of-crowns.json](./178751-a-tale-of-crowns.json) |
 | A Tale of Dirty Whiskers | 353795 | [353795-a-tale-of-dirty-whiskers.json](./353795-a-tale-of-dirty-whiskers.json) |
 | A Tale of Fortunate Lust | 401531 | [401531-a-tale-of-fortunate-lust.json](./401531-a-tale-of-fortunate-lust.json) |
 | A Tale of Little Berry Forest | 186419 | [186419-a-tale-of-little-berry-forest.json](./186419-a-tale-of-little-berry-forest.json) |
@@ -3090,6 +3094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AD Blocker: An Action Puzzle Game | 357970 | [357970-ad-blocker-an-action-puzzle-game.json](./357970-ad-blocker-an-action-puzzle-game.json) |
 | Ad Exitum | 33466 | [33466-ad-exitum.json](./33466-ad-exitum.json) |
 | Ad Fundum | 273626 | [273626-ad-fundum.json](./273626-ad-fundum.json) |
+| Ad Infinitum | 178733 | [178733-ad-infinitum.json](./178733-ad-infinitum.json) |
 | Ad Infinitum | 47222 | [47222-ad-infinitum.json](./47222-ad-infinitum.json) |
 | Ad Infinitum: Supporter Edition | 336136 | [336136-ad-infinitum-supporter-edition.json](./336136-ad-infinitum-supporter-edition.json) |
 | Ad Iterum | 380377 | [380377-ad-iterum.json](./380377-ad-iterum.json) |
@@ -5030,6 +5035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ah, Love! | 109720 | [109720-ah-love.json](./109720-ah-love.json) |
 | Ah, Love! Season 3 | 384577 | [384577-ah-love-season-3.json](./384577-ah-love-season-3.json) |
 | Ah! Heaven | 84737 | [84737-ah-heaven.json](./84737-ah-heaven.json) |
+| Ah!! My Roommate is a Succubus Hellbent on World Conquest!! | 178738 | [178738-ah-my-roommate-is-a-succubus-hellbent-on-world-conquest.json](./178738-ah-my-roommate-is-a-succubus-hellbent-on-world-conquest.json) |
 | Ah. Ah. Ah. | 406654 | [406654-ah-ah-ah.json](./406654-ah-ah-ah.json) |
 | AH3AD: Retrowave Runner | 191583 | [191583-ah3ad-retrowave-runner.json](./191583-ah3ad-retrowave-runner.json) |
 | Aha Hit tile 3D | 101321 | [101321-aha-hit-tile-3d.json](./101321-aha-hit-tile-3d.json) |
@@ -15130,6 +15136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashura: Dark Reign | 326818 | [326818-ashura-dark-reign.json](./326818-ashura-dark-reign.json) |
 | Ashwake | 346481 | [346481-ashwake.json](./346481-ashwake.json) |
 | Ashwalkers: A Survival Journey | 138669 | [138669-ashwalkers-a-survival-journey.json](./138669-ashwalkers-a-survival-journey.json) |
+| Ashwalkers: A Survival Journey - Survivor's Edition | 178768 | [178768-ashwalkers-a-survival-journey-survivors-edition.json](./178768-ashwalkers-a-survival-journey-survivors-edition.json) |
 | Ashwood Conspiracy | 336696 | [336696-ashwood-conspiracy.json](./336696-ashwood-conspiracy.json) |
 | Ashwood Valley | 344121 | [344121-ashwood-valley.json](./344121-ashwood-valley.json) |
 | Ashworld | 43120 | [43120-ashworld.json](./43120-ashworld.json) |
@@ -16739,6 +16746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -17497,6 +17505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autobahn | 92868 | [92868-autobahn.json](./92868-autobahn.json) |
 | Autobahn Chaos | 179138 | [179138-autobahn-chaos.json](./179138-autobahn-chaos.json) |
 | Autobahn Police Simulator 2 | 76616 | [76616-autobahn-police-simulator-2.json](./76616-autobahn-police-simulator-2.json) |
+| Autobahn Police Simulator 2: Switch Edition | 178766 | [178766-autobahn-police-simulator-2-switch-edition.json](./178766-autobahn-police-simulator-2-switch-edition.json) |
 | Autobahn Police Simulator 3 | 153975 | [153975-autobahn-police-simulator-3.json](./153975-autobahn-police-simulator-3.json) |
 | Autobahn Police Simulator 3: Off-Road DLC | 253666 | [253666-autobahn-police-simulator-3-off-road-dlc.json](./253666-autobahn-police-simulator-3-off-road-dlc.json) |
 | Autobahn Police Simulator 3: Police Motorcycle | 370386 | [370386-autobahn-police-simulator-3-police-motorcycle.json](./370386-autobahn-police-simulator-3-police-motorcycle.json) |
