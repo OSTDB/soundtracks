@@ -5001,6 +5001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Wonders | 195032 | [195032-cave-wonders.json](./195032-cave-wonders.json) |
 | Cave! Cave! Deus Videt. | 388940 | [388940-cave-cave-deus-videt.json](./388940-cave-cave-deus-videt.json) |
 | Caveblazers | 33269 | [33269-caveblazers.json](./33269-caveblazers.json) |
+| Caveblazers: Arena Mode | 155279 | [155279-caveblazers-arena-mode.json](./155279-caveblazers-arena-mode.json) |
 | Caveblazers: Together | 170909 | [170909-caveblazers-together.json](./170909-caveblazers-together.json) |
 | Cavebound | 155897 | [155897-cavebound.json](./155897-cavebound.json) |
 | CaveBugBoy | 128145 | [128145-cavebugboy.json](./128145-cavebugboy.json) |
@@ -20784,6 +20785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberbike | 50967 | [50967-cyberbike.json](./50967-cyberbike.json) |
 | Cyberbike 2 | 65423 | [65423-cyberbike-2.json](./65423-cyberbike-2.json) |
 | Cyberblock Metal Orange | 232631 | [232631-cyberblock-metal-orange.json](./232631-cyberblock-metal-orange.json) |
+| CyberBorn | 155260 | [155260-cyberborn.json](./155260-cyberborn.json) |
 | Cyberbots: Fullmetal Madness | 43820 | [43820-cyberbots-fullmetal-madness.json](./43820-cyberbots-fullmetal-madness.json) |
 | CyberBrick | 226427 | [226427-cyberbrick.json](./226427-cyberbrick.json) |
 | Cybercar | 392452 | [392452-cybercar.json](./392452-cybercar.json) |
