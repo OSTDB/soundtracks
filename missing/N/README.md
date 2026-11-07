@@ -1059,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naufrago | 133610 | [133610-naufrago.json](./133610-naufrago.json) |
 | Naught | 117751 | [117751-naught.json](./117751-naught.json) |
 | Naught | 150502 | [150502-naught.json](./150502-naught.json) |
+| Naught Bots | 148088 | [148088-naught-bots.json](./148088-naught-bots.json) |
 | Naught Reawakening | 35798 | [35798-naught-reawakening.json](./35798-naught-reawakening.json) |
 | Naught: Edahi & Dohai | 238215 | [238215-naught-edahi-and-dohai.json](./238215-naught-edahi-and-dohai.json) |
 | Naught: Extended Edition | 139911 | [139911-naught-extended-edition.json](./139911-naught-extended-edition.json) |
@@ -3600,6 +3601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Backgammon | 88796 | [88796-next-backgammon.json](./88796-next-backgammon.json) |
 | Next Business Trip | 347054 | [347054-next-business-trip.json](./347054-next-business-trip.json) |
 | Next Day: Survival | 51495 | [51495-next-day-survival.json](./51495-next-day-survival.json) |
+| Next Door | 148067 | [148067-next-door.json](./148067-next-door.json) |
 | Next Door: An Eternal World | 188411 | [188411-next-door-an-eternal-world.json](./188411-next-door-an-eternal-world.json) |
 | Next Earth: The Journey Trilogy | 149568 | [149568-next-earth-the-journey-trilogy.json](./149568-next-earth-the-journey-trilogy.json) |
 | Next Floor | 276974 | [276974-next-floor.json](./276974-next-floor.json) |
