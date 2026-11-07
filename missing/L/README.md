@@ -2747,6 +2747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Utorepia | 216678 | [216678-legend-of-utorepia.json](./216678-legend-of-utorepia.json) |
 | Legend of Vengeancev | 156685 | [156685-legend-of-vengeancev.json](./156685-legend-of-vengeancev.json) |
 | Legend of Vikings | 100793 | [100793-legend-of-vikings.json](./100793-legend-of-vikings.json) |
+| Legend of Warship | 181985 | [181985-legend-of-warship.json](./181985-legend-of-warship.json) |
 | Legend of Warships | 119436 | [119436-legend-of-warships.json](./119436-legend-of-warships.json) |
 | Legend of Wukong | 360656 | [360656-legend-of-wukong.json](./360656-legend-of-wukong.json) |
 | Legend of Wulin Heroes | 328358 | [328358-legend-of-wulin-heroes.json](./328358-legend-of-wulin-heroes.json) |
