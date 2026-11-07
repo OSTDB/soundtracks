@@ -5913,6 +5913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Animation Classics Pack | 85708 | [85708-the-animation-classics-pack.json](./85708-the-animation-classics-pack.json) |
 | The Animator vs. Animation Game | 388095 | [388095-the-animator-vs-animation-game.json](./388095-the-animator-vs-animation-game.json) |
 | The Anime Super Remix: Kyojin no Hoshi | 268391 | [268391-the-anime-super-remix-kyojin-no-hoshi.json](./268391-the-anime-super-remix-kyojin-no-hoshi.json) |
+| The Annoying Game | 150803 | [150803-the-annoying-game.json](./150803-the-annoying-game.json) |
 | The Annoying Thing: 3-in-1 | 224320 | [224320-the-annoying-thing-3-in-1.json](./224320-the-annoying-thing-3-in-1.json) |
 | The Annoying Thing: Chaser Racer | 224319 | [224319-the-annoying-thing-chaser-racer.json](./224319-the-annoying-thing-chaser-racer.json) |
 | The Annoying Thing: Disco Mania | 224316 | [224316-the-annoying-thing-disco-mania.json](./224316-the-annoying-thing-disco-mania.json) |
@@ -17454,6 +17455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sunday | 311572 | [311572-the-sunday.json](./311572-the-sunday.json) |
 | The Sunday Museum | 191562 | [191562-the-sunday-museum.json](./191562-the-sunday-museum.json) |
 | The Sundew | 151150 | [151150-the-sundew.json](./151150-the-sundew.json) |
+| The Sunken Hero | 150833 | [150833-the-sunken-hero.json](./150833-the-sunken-hero.json) |
 | The Sunny Day | 104959 | [104959-the-sunny-day.json](./104959-the-sunny-day.json) |
 | The Sunny Life | 210217 | [210217-the-sunny-life.json](./210217-the-sunny-life.json) |
 | The Sunset | 32107 | [32107-the-sunset.json](./32107-the-sunset.json) |
@@ -34081,6 +34083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typing Haou: Hokuto no Ken Gekiuchi 2 | 64190 | [64190-typing-haou-hokuto-no-ken-gekiuchi-2.json](./64190-typing-haou-hokuto-no-ken-gekiuchi-2.json) |
 | Typing Hearts | 149091 | [149091-typing-hearts.json](./149091-typing-hearts.json) |
 | Typing Hero | 126428 | [126428-typing-hero.json](./126428-typing-hero.json) |
+| Typing Instructor for Kids Platinum 5 | 150830 | [150830-typing-instructor-for-kids-platinum-5.json](./150830-typing-instructor-for-kids-platinum-5.json) |
 | Typing Jet | 316927 | [316927-typing-jet.json](./316927-typing-jet.json) |
 | Typing Karaoke | 64362 | [64362-typing-karaoke.json](./64362-typing-karaoke.json) |
 | Typing Land | 189901 | [189901-typing-land.json](./189901-typing-land.json) |
@@ -34095,6 +34098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typing Tales | 373004 | [373004-typing-tales.json](./373004-typing-tales.json) |
 | Typing Warrior | 134563 | [134563-typing-warrior.json](./134563-typing-warrior.json) |
 | Typing with Jester | 32239 | [32239-typing-with-jester.json](./32239-typing-with-jester.json) |
+| Typing with Sharks | 150832 | [150832-typing-with-sharks.json](./150832-typing-with-sharks.json) |
 | Typingcommand | 317412 | [317412-typingcommand.json](./317412-typingcommand.json) |
 | Typingmania 5 Odyssey | 64194 | [64194-typingmania-5-odyssey.json](./64194-typingmania-5-odyssey.json) |
 | TypingTube | 133701 | [133701-typingtube.json](./133701-typingtube.json) |
