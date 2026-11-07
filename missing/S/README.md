@@ -5214,6 +5214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seiken Densetsu: Final Fantasy Gaiden | 306594 | [306594-seiken-densetsu-final-fantasy-gaiden.json](./306594-seiken-densetsu-final-fantasy-gaiden.json) |
 | Seiken Densetsu: Friends of Mana | 287438 | [287438-seiken-densetsu-friends-of-mana.json](./287438-seiken-densetsu-friends-of-mana.json) |
 | Seiken Densetsu: Rise of Mana | 62078 | [62078-seiken-densetsu-rise-of-mana.json](./62078-seiken-densetsu-rise-of-mana.json) |
+| Seiken Psycho Caliber: Maju no Mori Densetsu | 146454 | [146454-seiken-psycho-caliber-maju-no-mori-densetsu.json](./146454-seiken-psycho-caliber-maju-no-mori-densetsu.json) |
 | Seiki: Ryoujoku no Kamen | 66052 | [66052-seiki-ryoujoku-no-kamen.json](./66052-seiki-ryoujoku-no-kamen.json) |
 | Seikima II: Akuma no Gyakushuu! | 48399 | [48399-seikima-ii-akuma-no-gyakushuu.json](./48399-seikima-ii-akuma-no-gyakushuu.json) |
 | Seikimatsu Days: Our Era's End | 96405 | [96405-seikimatsu-days-our-eras-end.json](./96405-seikimatsu-days-our-eras-end.json) |
@@ -12225,6 +12226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skelly Screamer | 351276 | [351276-skelly-screamer.json](./351276-skelly-screamer.json) |
 | Skelly Selest | 96277 | [96277-skelly-selest.json](./96277-skelly-selest.json) |
 | Skelly Selest & Straimium Immortaly Double Pack | 146996 | [146996-skelly-selest-and-straimium-immortaly-double-pack.json](./146996-skelly-selest-and-straimium-immortaly-double-pack.json) |
+| Skelost | 146419 | [146419-skelost.json](./146419-skelost.json) |
 | Skelter+Heaven | 229003 | [229003-skelter-heaven.json](./229003-skelter-heaven.json) |
 | Skelton Zone Traveler Emergence | 188732 | [188732-skelton-zone-traveler-emergence.json](./188732-skelton-zone-traveler-emergence.json) |
 | Skepixel | 75154 | [75154-skepixel.json](./75154-skepixel.json) |
@@ -15801,6 +15803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowdrop the Blade Master | 265629 | [265629-snowdrop-the-blade-master.json](./265629-snowdrop-the-blade-master.json) |
 | SnowDropRock | 249529 | [249529-snowdroprock.json](./249529-snowdroprock.json) |
 | Snowed In | 421605 | [421605-snowed-in.json](./421605-snowed-in.json) |
+| Snowed IN | 146458 | [146458-snowed-in.json](./146458-snowed-in.json) |
 | Snower's New Clothes | 116923 | [116923-snowers-new-clothes.json](./116923-snowers-new-clothes.json) |
 | Snowfall | 180386 | [180386-snowfall.json](./180386-snowfall.json) |
 | Snowfall | 303208 | [303208-snowfall.json](./303208-snowfall.json) |
@@ -22534,6 +22537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spitting Image | 13081 | [13081-spitting-image.json](./13081-spitting-image.json) |
 | Spitting Z | 156517 | [156517-spitting-z.json](./156517-spitting-z.json) |
 | Spl-t | 59279 | [59279-spl-t.json](./59279-spl-t.json) |
+| SPL: Skilled Pilots Live | 146444 | [146444-spl-skilled-pilots-live.json](./146444-spl-skilled-pilots-live.json) |
 | Splait Rage | 203588 | [203588-splait-rage.json](./203588-splait-rage.json) |
 | Splash | 170363 | [170363-splash.json](./170363-splash.json) |
 | Splash | 224940 | [224940-splash.json](./224940-splash.json) |
@@ -23347,6 +23351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SproutBound | 368152 | [368152-sproutbound.json](./368152-sproutbound.json) |
 | Sprouting Depths | 358932 | [358932-sprouting-depths.json](./358932-sprouting-depths.json) |
 | Sproutmart: Farm & Grocery Sim | 356298 | [356298-sproutmart-farm-and-grocery-sim.json](./356298-sproutmart-farm-and-grocery-sim.json) |
+| Sprouts Adventure | 146464 | [146464-sprouts-adventure.json](./146464-sprouts-adventure.json) |
 | Spruce Falls | 397615 | [397615-spruce-falls.json](./397615-spruce-falls.json) |
 | Sprucerio | 257408 | [257408-sprucerio.json](./257408-sprucerio.json) |
 | Sprung | 20209 | [20209-sprung.json](./20209-sprung.json) |
@@ -25255,6 +25260,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starcom: Nexus | 107854 | [107854-starcom-nexus.json](./107854-starcom-nexus.json) |
 | Starcom: Unknown Space | 211207 | [211207-starcom-unknown-space.json](./211207-starcom-unknown-space.json) |
 | StarCore Legacy | 246759 | [246759-starcore-legacy.json](./246759-starcore-legacy.json) |
+| Starcosmic Bustout | 146436 | [146436-starcosmic-bustout.json](./146436-starcosmic-bustout.json) |
+| Starcosmic Invaders | 146437 | [146437-starcosmic-invaders.json](./146437-starcosmic-invaders.json) |
 | Starcraft | 417642 | [417642-starcraft.json](./417642-starcraft.json) |
 | StarCraft 64 | 9067 | [9067-starcraft-64.json](./9067-starcraft-64.json) |
 | StarCraft II: Battle Chest | 136312 | [136312-starcraft-ii-battle-chest.json](./136312-starcraft-ii-battle-chest.json) |
@@ -28586,6 +28593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Girls | 296991 | [296991-street-girls.json](./296991-street-girls.json) |
 | Street Gods | 360774 | [360774-street-gods.json](./360774-street-gods.json) |
 | Street Gol: Gold Edition | 120520 | [120520-street-gol-gold-edition.json](./120520-street-gol-gold-edition.json) |
+| Street Hacker | 146457 | [146457-street-hacker.json](./146457-street-hacker.json) |
 | Street Harrier | 266328 | [266328-street-harrier.json](./266328-street-harrier.json) |
 | Street Hawk | 26215 | [26215-street-hawk.json](./26215-street-hawk.json) |
 | Street Heat | 40434 | [40434-street-heat.json](./40434-street-heat.json) |
