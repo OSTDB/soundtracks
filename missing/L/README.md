@@ -1602,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LasTar | 395162 | [395162-lastar.json](./395162-lastar.json) |
 | Lastbane | 348773 | [348773-lastbane.json](./348773-lastbane.json) |
 | LastByteStanding | 105600 | [105600-lastbytestanding.json](./105600-lastbytestanding.json) |
+| LastCall | 180346 | [180346-lastcall.json](./180346-lastcall.json) |
 | LastDitch | 296529 | [296529-lastditch.json](./296529-lastditch.json) |
 | Lastfight | 19250 | [19250-lastfight.json](./19250-lastfight.json) |
 | Lasting Moonlight | 245866 | [245866-lasting-moonlight.json](./245866-lasting-moonlight.json) |
@@ -5943,6 +5944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Elf Tanks | 244563 | [244563-little-elf-tanks.json](./244563-little-elf-tanks.json) |
 | Little Fairy Dress Up | 332496 | [332496-little-fairy-dress-up.json](./332496-little-fairy-dress-up.json) |
 | Little Farm Island | 385326 | [385326-little-farm-island.json](./385326-little-farm-island.json) |
+| Little Favors | 180348 | [180348-little-favors.json](./180348-little-favors.json) |
 | Little Fiefdom: Medieval | 390259 | [390259-little-fiefdom-medieval.json](./390259-little-fiefdom-medieval.json) |
 | Little fight | 84477 | [84477-little-fight.json](./84477-little-fight.json) |
 | Little Fighter 2 | 8700 | [8700-little-fighter-2.json](./8700-little-fighter-2.json) |
