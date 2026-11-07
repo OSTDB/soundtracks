@@ -10284,6 +10284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Valley | 348860 | [348860-forsaken-valley.json](./348860-forsaken-valley.json) |
 | Forsaken Woods | 26386 | [26386-forsaken-woods.json](./26386-forsaken-woods.json) |
 | Forsaken World Mobile | 27046 | [27046-forsaken-world-mobile.json](./27046-forsaken-world-mobile.json) |
+| Forsaken World: Gods and Demons | 169020 | [169020-forsaken-world-gods-and-demons.json](./169020-forsaken-world-gods-and-demons.json) |
 | Forsaker: DingDing&Blade | 347020 | [347020-forsaker-dingding-and-blade.json](./347020-forsaker-dingding-and-blade.json) |
 | Forsaker: ​Innocent Paws | 392311 | [392311-forsaker-innocent-paws.json](./392311-forsaker-innocent-paws.json) |
 | Forsan El Majd | 316820 | [316820-forsan-el-majd.json](./316820-forsan-el-majd.json) |
