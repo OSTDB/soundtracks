@@ -2605,6 +2605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Shooter | 164109 | [164109-wave-shooter.json](./164109-wave-shooter.json) |
 | Wave to the People | 134943 | [134943-wave-to-the-people.json](./134943-wave-to-the-people.json) |
 | Wave Trip | 22174 | [22174-wave-trip.json](./22174-wave-trip.json) |
+| Wave War One | 146990 | [146990-wave-war-one.json](./146990-wave-war-one.json) |
 | Wave Wave | 62018 | [62018-wave-wave.json](./62018-wave-wave.json) |
 | Wave Weaver | 289899 | [289899-wave-weaver.json](./289899-wave-weaver.json) |
 | Wave_Machine | 186055 | [186055-wave-machine.json](./186055-wave-machine.json) |
@@ -5732,6 +5733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windows 95 Spiele | 323647 | [323647-windows-95-spiele.json](./323647-windows-95-spiele.json) |
 | Windows Doors | 348381 | [348381-windows-doors.json](./348381-windows-doors.json) |
 | Windows Mario World | 256297 | [256297-windows-mario-world.json](./256297-windows-mario-world.json) |
+| Windows Strip Poker | 146964 | [146964-windows-strip-poker.json](./146964-windows-strip-poker.json) |
 | Windows XP Meteorite Covenant | 237516 | [237516-windows-xp-meteorite-covenant.json](./237516-windows-xp-meteorite-covenant.json) |
 | Windpunk | 313807 | [313807-windpunk.json](./313807-windpunk.json) |
 | Windrose | 380441 | [380441-windrose.json](./380441-windrose.json) |
