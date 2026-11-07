@@ -991,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Palland | 358611 | [358611-palland.json](./358611-palland.json) |
 | Pallanda | 60335 | [60335-pallanda.json](./60335-pallanda.json) |
 | Pallas of Vines | 129762 | [129762-pallas-of-vines.json](./129762-pallas-of-vines.json) |
+| Palle wird pralle! | 177637 | [177637-palle-wird-pralle.json](./177637-palle-wird-pralle.json) |
 | Pallet | 250971 | [250971-pallet.json](./250971-pallet.json) |
 | Pallet Panic | 273786 | [273786-pallet-panic.json](./273786-pallet-panic.json) |
 | Palliative: Reach for an Angel | 191194 | [191194-palliative-reach-for-an-angel.json](./191194-palliative-reach-for-an-angel.json) |
@@ -12107,6 +12108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poltergeist Watcher | 298661 | [298661-poltergeist-watcher.json](./298661-poltergeist-watcher.json) |
 | Poltergeist: A Pixelated Horror | 17855 | [17855-poltergeist-a-pixelated-horror.json](./17855-poltergeist-a-pixelated-horror.json) |
 | Poltergirl | 196377 | [196377-poltergirl.json](./196377-poltergirl.json) |
+| Polterguns | 177655 | [177655-polterguns.json](./177655-polterguns.json) |
 | Polterguys | 217098 | [217098-polterguys.json](./217098-polterguys.json) |
 | Polterheist | 29421 | [29421-polterheist.json](./29421-polterheist.json) |
 | Polterparty | 374768 | [374768-polterparty.json](./374768-polterparty.json) |
@@ -16069,6 +16071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Missionary: The Reckoning of Hizzokahpolis | 319074 | [319074-project-missionary-the-reckoning-of-hizzokahpolis.json](./319074-project-missionary-the-reckoning-of-hizzokahpolis.json) |
 | Project Mix | 266039 | [266039-project-mix.json](./266039-project-mix.json) |
 | Project Mnemosyne | 370706 | [370706-project-mnemosyne.json](./370706-project-mnemosyne.json) |
+| Project Mod | 177631 | [177631-project-mod.json](./177631-project-mod.json) |
 | Project Monarch | 70422 | [70422-project-monarch.json](./70422-project-monarch.json) |
 | Project Moonborn | 284904 | [284904-project-moonborn.json](./284904-project-moonborn.json) |
 | Project Morph | 211239 | [211239-project-morph.json](./211239-project-morph.json) |
