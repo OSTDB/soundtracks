@@ -277,6 +277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 0Space | 62542 | [62542-0space.json](./62542-0space.json) |
 | 0th floor.: The Cursed Elevator To Floor Zero | 292535 | [292535-0th-floor-the-cursed-elevator-to-floor-zero.json](./292535-0th-floor-the-cursed-elevator-to-floor-zero.json) |
 | 0x0 | 294768 | [294768-0x0.json](./294768-0x0.json) |
+| 0x0 Minimalist | 186946 | [186946-0x0-minimalist.json](./186946-0x0-minimalist.json) |
 | 0x10c | 1898 | [1898-0x10c.json](./1898-0x10c.json) |
 | 0X13 | 375995 | [375995-0x13.json](./375995-0x13.json) |
 | 0xFF | 242303 | [242303-0xff.json](./242303-0xff.json) |
@@ -3250,6 +3251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7x7 | 98850 | [98850-7x7.json](./98850-7x7.json) |
 | 7Years | 311157 | [311157-7years.json](./311157-7years.json) |
 | 8 | 131206 | [131206-8.json](./131206-8.json) |
+| 8 & 9 Ball Pocket | 186943 | [186943-8-and-9-ball-pocket.json](./186943-8-and-9-ball-pocket.json) |
 | 8 & 9 Ballpocket | 278239 | [278239-8-and-9-ballpocket.json](./278239-8-and-9-ballpocket.json) |
 | 8 Ball | 14150 | [14150-8-ball.json](./14150-8-ball.json) |
 | 8 Ball | 90860 | [90860-8-ball.json](./90860-8-ball.json) |
