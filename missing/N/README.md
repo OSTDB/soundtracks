@@ -5825,6 +5825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Light | 151479 | [151479-no-more-light.json](./151479-no-more-light.json) |
 | No More Money | 232233 | [232233-no-more-money.json](./232233-no-more-money.json) |
 | No More Noise | 345402 | [345402-no-more-noise.json](./345402-no-more-noise.json) |
+| No More Papers Please | 185237 | [185237-no-more-papers-please.json](./185237-no-more-papers-please.json) |
 | No More Pesticide | 389928 | [389928-no-more-pesticide.json](./389928-no-more-pesticide.json) |
 | No More Pop Music - Annihilation | 113145 | [113145-no-more-pop-music-annihilation.json](./113145-no-more-pop-music-annihilation.json) |
 | No More Rainbows | 168672 | [168672-no-more-rainbows.json](./168672-no-more-rainbows.json) |
