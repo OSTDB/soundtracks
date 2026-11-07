@@ -5327,6 +5327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Paradox | 280351 | [280351-final-paradox.json](./280351-final-paradox.json) |
 | Final Passage | 370844 | [370844-final-passage.json](./370844-final-passage.json) |
 | Final Payload | 394502 | [394502-final-payload.json](./394502-final-payload.json) |
+| Final Pilot | 152559 | [152559-final-pilot.json](./152559-final-pilot.json) |
 | Final Profit: A Shop RPG | 196721 | [196721-final-profit-a-shop-rpg.json](./196721-final-profit-a-shop-rpg.json) |
 | Final Project | 249676 | [249676-final-project.json](./249676-final-project.json) |
 | Final Quest | 31732 | [31732-final-quest.json](./31732-final-quest.json) |
