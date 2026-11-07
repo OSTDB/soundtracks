@@ -919,6 +919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night in Berry | 171253 | [171253-a-night-in-berry.json](./171253-a-night-in-berry.json) |
 | A Night in Crazytown | 58084 | [58084-a-night-in-crazytown.json](./58084-a-night-in-crazytown.json) |
 | A Night In Kyosaka | 154086 | [154086-a-night-in-kyosaka.json](./154086-a-night-in-kyosaka.json) |
+| A Night in Nowhere | 184043 | [184043-a-night-in-nowhere.json](./184043-a-night-in-nowhere.json) |
 | A Night in Omar's Burger | 249928 | [249928-a-night-in-omars-burger.json](./249928-a-night-in-omars-burger.json) |
 | A Night in Prison | 258896 | [258896-a-night-in-prison.json](./258896-a-night-in-prison.json) |
 | A Night in Vanet Manor | 147243 | [147243-a-night-in-vanet-manor.json](./147243-a-night-in-vanet-manor.json) |
@@ -1259,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Study in Blue | 386249 | [386249-a-study-in-blue.json](./386249-a-study-in-blue.json) |
 | A Study in Steampunk: Choice by Gaslight | 34030 | [34030-a-study-in-steampunk-choice-by-gaslight.json](./34030-a-study-in-steampunk-choice-by-gaslight.json) |
 | A Stupid Game About Pouring Drinks for the P.T.A. | 387502 | [387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json](./387502-a-stupid-game-about-pouring-drinks-for-the-p-t-a.json) |
+| A Subtle Kind of Murder: A Murder Simulator | 184018 | [184018-a-subtle-kind-of-murder-a-murder-simulator.json](./184018-a-subtle-kind-of-murder-a-murder-simulator.json) |
 | A Summer in Our Hearts | 338171 | [338171-a-summer-in-our-hearts.json](./338171-a-summer-in-our-hearts.json) |
 | A Summer To Die For | 422847 | [422847-a-summer-to-die-for.json](./422847-a-summer-to-die-for.json) |
 | A Summer with the Shiba Inu | 119229 | [119229-a-summer-with-the-shiba-inu.json](./119229-a-summer-with-the-shiba-inu.json) |
@@ -3861,6 +3863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advisor: Elderly Paradigm | 383081 | [383081-advisor-elderly-paradigm.json](./383081-advisor-elderly-paradigm.json) |
 | Advisors at the End of the Universe | 122184 | [122184-advisors-at-the-end-of-the-universe.json](./122184-advisors-at-the-end-of-the-universe.json) |
 | AdvLite | 223282 | [223282-advlite.json](./223282-advlite.json) |
+| Ae | 184042 | [184042-ae.json](./184042-ae.json) |
 | AE Mini Game Collection | 279599 | [279599-ae-mini-game-collection.json](./279599-ae-mini-game-collection.json) |
 | AE Supernatural | 165774 | [165774-ae-supernatural.json](./165774-ae-supernatural.json) |
 | AE86 Eurobeat Drift | 154284 | [154284-ae86-eurobeat-drift.json](./154284-ae86-eurobeat-drift.json) |
@@ -4128,6 +4131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aether Wars | 115288 | [115288-aether-wars.json](./115288-aether-wars.json) |
 | Aether Way | 113506 | [113506-aether-way.json](./113506-aether-way.json) |
 | Aether-07 | 403317 | [403317-aether-07.json](./403317-aether-07.json) |
+| Aether: A Heroic Fantasy RPG | 184062 | [184062-aether-a-heroic-fantasy-rpg.json](./184062-aether-a-heroic-fantasy-rpg.json) |
 | Aether: Wizard Life | 235487 | [235487-aether-wizard-life.json](./235487-aether-wizard-life.json) |
 | Aether’s Echo: Yazid’s Paradox | 379569 | [379569-aether-s-echo-yazid-s-paradox.json](./379569-aether-s-echo-yazid-s-paradox.json) |
 | Aetherbound | 357789 | [357789-aetherbound.json](./357789-aetherbound.json) |
@@ -15095,6 +15099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashley: The Story Of Survival | 93754 | [93754-ashley-the-story-of-survival.json](./93754-ashley-the-story-of-survival.json) |
 | Ashley's Adventure: Get a Job or Die Trying | 378209 | [378209-ashleys-adventure-get-a-job-or-die-trying.json](./378209-ashleys-adventure-get-a-job-or-die-trying.json) |
 | Ashmedai: Queen of Lust | 160019 | [160019-ashmedai-queen-of-lust.json](./160019-ashmedai-queen-of-lust.json) |
+| Ashore | 184024 | [184024-ashore.json](./184024-ashore.json) |
 | Ashram Online | 419128 | [419128-ashram-online.json](./419128-ashram-online.json) |
 | Ashrun Survivors | 410416 | [410416-ashrun-survivors.json](./410416-ashrun-survivors.json) |
 | Ashton's Family Resort | 52420 | [52420-ashtons-family-resort.json](./52420-ashtons-family-resort.json) |
@@ -16671,6 +16676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athanasy + Ceiba Bundle | 284946 | [284946-athanasy-ceiba-bundle.json](./284946-athanasy-ceiba-bundle.json) |
 | Athar: Echoes of Time | 387657 | [387657-athar-echoes-of-time.json](./387657-athar-echoes-of-time.json) |
 | Athelan Battlegrounds | 377989 | [377989-athelan-battlegrounds.json](./377989-athelan-battlegrounds.json) |
+| Athemore | 184147 | [184147-athemore.json](./184147-athemore.json) |
 | Athena | 273076 | [273076-athena.json](./273076-athena.json) |
 | Athena | 273077 | [273077-athena.json](./273077-athena.json) |
 | Athena | 273078 | [273078-athena.json](./273078-athena.json) |
@@ -16711,7 +16717,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
