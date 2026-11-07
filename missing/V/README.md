@@ -924,6 +924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Variance | 344812 | [344812-variance.json](./344812-variance.json) |
 | Variant 22 | 234674 | [234674-variant-22.json](./234674-variant-22.json) |
 | Variant: Limits | 69317 | [69317-variant-limits.json](./69317-variant-limits.json) |
+| Variations on Coda to Yellow Sky (Im/Perfect Dawn: Repeat) | 140136 | [140136-variations-on-coda-to-yellow-sky-im-perfect-dawn-repeat.json](./140136-variations-on-coda-to-yellow-sky-im-perfect-dawn-repeat.json) |
 | Variator | 400703 | [400703-variator.json](./400703-variator.json) |
 | Varicella | 9519 | [9519-varicella.json](./9519-varicella.json) |
 | VariDungeon | 307350 | [307350-varidungeon.json](./307350-varidungeon.json) |
