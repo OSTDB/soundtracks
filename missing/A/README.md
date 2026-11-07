@@ -5193,6 +5193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI: The Somnium Files - Double Pack | 237754 | [237754-ai-the-somnium-files-double-pack.json](./237754-ai-the-somnium-files-double-pack.json) |
 | AI: The Somnium Files - Limited Edition | 136219 | [136219-ai-the-somnium-files-limited-edition.json](./136219-ai-the-somnium-files-limited-edition.json) |
 | AI: The Somnium Files - Nirvana Initiative | 153808 | [153808-ai-the-somnium-files-nirvana-initiative.json](./153808-ai-the-somnium-files-nirvana-initiative.json) |
+| AI: The Somnium Files - Nirvana Initiative: Collector's Edition | 154708 | [154708-ai-the-somnium-files-nirvana-initiative-collectors-edition.json](./154708-ai-the-somnium-files-nirvana-initiative-collectors-edition.json) |
 | AI.Cybercraft | 254031 | [254031-ai-cybercraft.json](./254031-ai-cybercraft.json) |
 | AI.Gears: Team Tag Battle | 277312 | [277312-ai-gears-team-tag-battle.json](./277312-ai-gears-team-tag-battle.json) |
 | AI.VI | 303258 | [303258-ai-vi.json](./303258-ai-vi.json) |
@@ -7175,6 +7176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens: Colonial Marines - Sawed-off Double Barrel Shotgun | 118186 | [118186-aliens-colonial-marines-sawed-off-double-barrel-shotgun.json](./118186-aliens-colonial-marines-sawed-off-double-barrel-shotgun.json) |
 | Aliens: Colonial Marines - Sharp Sticks | 118187 | [118187-aliens-colonial-marines-sharp-sticks.json](./118187-aliens-colonial-marines-sharp-sticks.json) |
 | Aliens: Dark Descent - Lethe Recon Pack | 367093 | [367093-aliens-dark-descent-lethe-recon-pack.json](./367093-aliens-dark-descent-lethe-recon-pack.json) |
+| Aliens: Fireteam Elite - Deluxe Edition | 154709 | [154709-aliens-fireteam-elite-deluxe-edition.json](./154709-aliens-fireteam-elite-deluxe-edition.json) |
 | Aliens: Fireteam Elite - Endeavor Veteran Pack | 223832 | [223832-aliens-fireteam-elite-endeavor-veteran-pack.json](./223832-aliens-fireteam-elite-endeavor-veteran-pack.json) |
 | Aliens: Fireteam Elite - Frontier Freelancer Pack | 223831 | [223831-aliens-fireteam-elite-frontier-freelancer-pack.json](./223831-aliens-fireteam-elite-frontier-freelancer-pack.json) |
 | Aliens: Fireteam Elite - Hardened Marine Pack | 247755 | [247755-aliens-fireteam-elite-hardened-marine-pack.json](./247755-aliens-fireteam-elite-hardened-marine-pack.json) |
@@ -15007,6 +15009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ASCII Survivors | 398448 | [398448-ascii-survivors.json](./398448-ascii-survivors.json) |
 | Ascii the Brave Cat | 143752 | [143752-ascii-the-brave-cat.json](./143752-ascii-the-brave-cat.json) |
 | ASCII Tower Defense | 302097 | [302097-ascii-tower-defense.json](./302097-ascii-tower-defense.json) |
+| Asciicker | 154693 | [154693-asciicker.json](./154693-asciicker.json) |
 | Asciident | 126536 | [126536-asciident.json](./126536-asciident.json) |
 | Asciill | 192976 | [192976-asciill.json](./192976-asciill.json) |
 | Ascribe | 235990 | [235990-ascribe.json](./235990-ascribe.json) |
@@ -16837,6 +16840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -17367,6 +17371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auf Abwegen | 116058 | [116058-auf-abwegen.json](./116058-auf-abwegen.json) |
 | Auf Wiedersehen Monty | 13350 | [13350-auf-wiedersehen-monty.json](./13350-auf-wiedersehen-monty.json) |
 | Aufschwung Ost | 12395 | [12395-aufschwung-ost.json](./12395-aufschwung-ost.json) |
+| Auger;Zenith | 154728 | [154728-auger-zenith.json](./154728-auger-zenith.json) |
 | AUGG | 145902 | [145902-augg.json](./145902-augg.json) |
 | Augie Doggie and Doggie Daddy | 67274 | [67274-augie-doggie-and-doggie-daddy.json](./67274-augie-doggie-and-doggie-daddy.json) |
 | Augma II Arc I | 143309 | [143309-augma-ii-arc-i.json](./143309-augma-ii-arc-i.json) |
