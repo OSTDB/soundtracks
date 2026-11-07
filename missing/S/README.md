@@ -6532,6 +6532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexy Elf | 226199 | [226199-sexy-elf.json](./226199-sexy-elf.json) |
 | Sexy Erotic Xtreme Club | 362363 | [362363-sexy-erotic-xtreme-club.json](./362363-sexy-erotic-xtreme-club.json) |
 | Sexy Exile | 195610 | [195610-sexy-exile.json](./195610-sexy-exile.json) |
+| Sexy Fighter | 140716 | [140716-sexy-fighter.json](./140716-sexy-fighter.json) |
 | Sexy Fitness Girl | 286395 | [286395-sexy-fitness-girl.json](./286395-sexy-fitness-girl.json) |
 | Sexy Furry Puzzle | 335305 | [335305-sexy-furry-puzzle.json](./335305-sexy-furry-puzzle.json) |
 | Sexy Futa: Mecha Battles of Islands | 310424 | [310424-sexy-futa-mecha-battles-of-islands.json](./310424-sexy-futa-mecha-battles-of-islands.json) |
@@ -8914,6 +8915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiraha Kirameku Koi Shirabe | 194531 | [194531-shiraha-kirameku-koi-shirabe.json](./194531-shiraha-kirameku-koi-shirabe.json) |
 | Shiraha Kirameku Koi Shirabe | 268335 | [268335-shiraha-kirameku-koi-shirabe.json](./268335-shiraha-kirameku-koi-shirabe.json) |
 | Shirahana no Ori - Hiiro no Kakera 4 | 139109 | [139109-shirahana-no-ori-hiiro-no-kakera-4.json](./139109-shirahana-no-ori-hiiro-no-kakera-4.json) |
+| Shirahana no Ori: Hiiro no Kakera 4 - Shiki no Uta | 140757 | [140757-shirahana-no-ori-hiiro-no-kakera-4-shiki-no-uta.json](./140757-shirahana-no-ori-hiiro-no-kakera-4-shiki-no-uta.json) |
 | Shiratsuyu no Kai | 222121 | [222121-shiratsuyu-no-kai.json](./222121-shiratsuyu-no-kai.json) |
 | Shirazu Yama | 196886 | [196886-shirazu-yama.json](./196886-shirazu-yama.json) |
 | Shire Scopes | 255126 | [255126-shire-scopes.json](./255126-shire-scopes.json) |
@@ -10872,6 +10874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Millennium | 40251 | [40251-silver-millennium.json](./40251-silver-millennium.json) |
 | Silver Moon | 371952 | [371952-silver-moon.json](./371952-silver-moon.json) |
 | Silver Moonlight | 267133 | [267133-silver-moonlight.json](./267133-silver-moonlight.json) |
+| Silver Night's Crusaders | 140697 | [140697-silver-nights-crusaders.json](./140697-silver-nights-crusaders.json) |
 | Silver Nights: Browser edition | 184327 | [184327-silver-nights-browser-edition.json](./184327-silver-nights-browser-edition.json) |
 | Silver Nornir | 68990 | [68990-silver-nornir.json](./68990-silver-nornir.json) |
 | Silver Palace | 343335 | [343335-silver-palace.json](./343335-silver-palace.json) |
@@ -11497,6 +11500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sine Die | 256856 | [256856-sine-die.json](./256856-sine-die.json) |
 | Sine Mora | 10832 | [10832-sine-mora.json](./10832-sine-mora.json) |
 | Sine Mora EX | 27666 | [27666-sine-mora-ex.json](./27666-sine-mora-ex.json) |
+| Sine the Game | 140730 | [140730-sine-the-game.json](./140730-sine-the-game.json) |
 | Sine Wave City | 129393 | [129393-sine-wave-city.json](./129393-sine-wave-city.json) |
 | Sinemareul Butakae | 215846 | [215846-sinemareul-butakae.json](./215846-sinemareul-butakae.json) |
 | Sinergy | 268964 | [268964-sinergy.json](./268964-sinergy.json) |
@@ -15520,6 +15524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snipers vs Thieves: FPS Clash | 87513 | [87513-snipers-vs-thieves-fps-clash.json](./87513-snipers-vs-thieves-fps-clash.json) |
 | Snipers: Invisible, Silent, Deadly | 83883 | [83883-snipers-invisible-silent-deadly.json](./83883-snipers-invisible-silent-deadly.json) |
 | Snipes | 25147 | [25147-snipes.json](./25147-snipes.json) |
+| Snips & Snails | 140754 | [140754-snips-and-snails.json](./140754-snips-and-snails.json) |
 | SnipZ | 30729 | [30729-snipz.json](./30729-snipz.json) |
 | SNK 40th Anniversary Collection | 96198 | [96198-snk-40th-anniversary-collection.json](./96198-snk-40th-anniversary-collection.json) |
 | SNK Allstar | 139008 | [139008-snk-allstar.json](./139008-snk-allstar.json) |
