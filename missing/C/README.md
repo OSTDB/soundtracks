@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe Owner Simulator | 191851 | [191851-cafe-owner-simulator.json](./191851-cafe-owner-simulator.json) |
 | Cafe Owner Simulator: Farm DLC | 296632 | [296632-cafe-owner-simulator-farm-dlc.json](./296632-cafe-owner-simulator-farm-dlc.json) |
 | Cafe Panic | 296075 | [296075-cafe-panic.json](./296075-cafe-panic.json) |
+| Cafe Paris | 158803 | [158803-cafe-paris.json](./158803-cafe-paris.json) |
 | Cafe Rosa | 289269 | [289269-cafe-rosa.json](./289269-cafe-rosa.json) |
 | Café Rouge | 46950 | [46950-cafe-rouge.json](./46950-cafe-rouge.json) |
 | Cafe Simulator | 171741 | [171741-cafe-simulator.json](./171741-cafe-simulator.json) |
@@ -1250,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canasta Junction | 87215 | [87215-canasta-junction.json](./87215-canasta-junction.json) |
 | Canasta Royale | 87318 | [87318-canasta-royale.json](./87318-canasta-royale.json) |
 | Canasta: Pro | 88530 | [88530-canasta-pro.json](./88530-canasta-pro.json) |
+| CanCan the Game | 158810 | [158810-cancan-the-game.json](./158810-cancan-the-game.json) |
 | Cancel Subscription Simulator | 418418 | [418418-cancel-subscription-simulator.json](./418418-cancel-subscription-simulator.json) |
 | Canceled! Super Puzzles Dream | 192034 | [192034-canceled-super-puzzles-dream.json](./192034-canceled-super-puzzles-dream.json) |
 | Cancelled Christmas | 399267 | [399267-cancelled-christmas.json](./399267-cancelled-christmas.json) |
@@ -4943,6 +4945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Escape | 83949 | [83949-cave-escape.json](./83949-cave-escape.json) |
 | Cave Escape With FNIA Chica | 280909 | [280909-cave-escape-with-fnia-chica.json](./280909-cave-escape-with-fnia-chica.json) |
 | Cave Explorer | 165675 | [165675-cave-explorer.json](./165675-cave-explorer.json) |
+| Cave Explorers | 158852 | [158852-cave-explorers.json](./158852-cave-explorers.json) |
 | Cave Explorers | 374916 | [374916-cave-explorers.json](./374916-cave-explorers.json) |
 | Cave Fighter | 7898 | [7898-cave-fighter.json](./7898-cave-fighter.json) |
 | Cave Flying | 27878 | [27878-cave-flying.json](./27878-cave-flying.json) |
@@ -12266,6 +12269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color TV-Game Racing 112 | 220550 | [220550-color-tv-game-racing-112.json](./220550-color-tv-game-racing-112.json) |
 | Color Valley: The Lost Balloon Adventure | 360049 | [360049-color-valley-the-lost-balloon-adventure.json](./360049-color-valley-the-lost-balloon-adventure.json) |
 | Color Vision Deficiency Test | 318641 | [318641-color-vision-deficiency-test.json](./318641-color-vision-deficiency-test.json) |
+| Color War | 158846 | [158846-color-war.json](./158846-color-war.json) |
 | Color Wars | 99908 | [99908-color-wars.json](./99908-color-wars.json) |
 | Color Water Sort: Complete Edition | 308798 | [308798-color-water-sort-complete-edition.json](./308798-color-water-sort-complete-edition.json) |
 | Color Water Sort: Gold Edition | 385195 | [385195-color-water-sort-gold-edition.json](./385195-color-water-sort-gold-edition.json) |
