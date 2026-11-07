@@ -285,6 +285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Doesn't Exist | 177812 | [177812-i-doesnt-exist.json](./177812-i-doesnt-exist.json) |
 | I Doll U | 61171 | [61171-i-doll-u.json](./61171-i-doll-u.json) |
 | I Don't Belong | 186159 | [186159-i-dont-belong.json](./186159-i-dont-belong.json) |
+| I Don't Care: About Your Cliché Scene Vampire Bullshit | 184682 | [184682-i-dont-care-about-your-cliche-scene-vampire-bullshit.json](./184682-i-dont-care-about-your-cliche-scene-vampire-bullshit.json) |
 | I Don't Know How to Have Hotpot Alone | 129601 | [129601-i-dont-know-how-to-have-hotpot-alone.json](./129601-i-dont-know-how-to-have-hotpot-alone.json) |
 | I Don't Know Which Name I Should Give This Game | 159048 | [159048-i-dont-know-which-name-i-should-give-this-game.json](./159048-i-dont-know-which-name-i-should-give-this-game.json) |
 | I Don't Think I've Walked This Stretch of Road Before | 188442 | [188442-i-dont-think-ive-walked-this-stretch-of-road-before.json](./188442-i-dont-think-ive-walked-this-stretch-of-road-before.json) |
@@ -3879,6 +3880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
