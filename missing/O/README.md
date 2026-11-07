@@ -114,6 +114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oasis of Lilies | 412276 | [412276-oasis-of-lilies.json](./412276-oasis-of-lilies.json) |
 | Oasis Road | 138987 | [138987-oasis-road.json](./138987-oasis-road.json) |
 | Oasis Shooting Ops | 120579 | [120579-oasis-shooting-ops.json](./120579-oasis-shooting-ops.json) |
+| Oasis the Great | 173906 | [173906-oasis-the-great.json](./173906-oasis-the-great.json) |
 | Oasis VR | 140520 | [140520-oasis-vr.json](./140520-oasis-vr.json) |
 | Oasis: Dark Forest | 189348 | [189348-oasis-dark-forest.json](./189348-oasis-dark-forest.json) |
 | OAsys | 368597 | [368597-oasys.json](./368597-oasys.json) |
@@ -3351,6 +3352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Hunting XL | 265313 | [265313-open-hunting-xl.json](./265313-open-hunting-xl.json) |
 | Open Kart | 61979 | [61979-open-kart.json](./61979-open-kart.json) |
 | Open Me! | 64291 | [64291-open-me.json](./64291-open-me.json) |
+| Open Mod | 173929 | [173929-open-mod.json](./173929-open-mod.json) |
 | Open Mortal | 113539 | [113539-open-mortal.json](./113539-open-mortal.json) |
 | Open Nectar | 416628 | [416628-open-nectar.json](./416628-open-nectar.json) |
 | Open Net Battle | 343861 | [343861-open-net-battle.json](./343861-open-net-battle.json) |
