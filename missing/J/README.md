@@ -1532,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Run | 223830 | [223830-jewel-run.json](./223830-jewel-run.json) |
 | Jewel Shooter | 10477 | [10477-jewel-shooter.json](./10477-jewel-shooter.json) |
 | Jewel Spirits | 347733 | [347733-jewel-spirits.json](./347733-jewel-spirits.json) |
+| Jewel Sweets | 181968 | [181968-jewel-sweets.json](./181968-jewel-sweets.json) |
 | Jewel Thief | 78923 | [78923-jewel-thief.json](./78923-jewel-thief.json) |
 | Jewel Time Deluxe | 110322 | [110322-jewel-time-deluxe.json](./110322-jewel-time-deluxe.json) |
 | Jewel Train | 230382 | [230382-jewel-train.json](./230382-jewel-train.json) |
@@ -1567,6 +1568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewels of Darkness: Adventure Quest | 39160 | [39160-jewels-of-darkness-adventure-quest.json](./39160-jewels-of-darkness-adventure-quest.json) |
 | Jewels of Darkness: Colossal Adventure | 39159 | [39159-jewels-of-darkness-colossal-adventure.json](./39159-jewels-of-darkness-colossal-adventure.json) |
 | Jewels of Darkness: Dungeon Adventure | 39158 | [39158-jewels-of-darkness-dungeon-adventure.json](./39158-jewels-of-darkness-dungeon-adventure.json) |
+| Jewels of Egypt | 182017 | [182017-jewels-of-egypt.json](./182017-jewels-of-egypt.json) |
 | Jewels of Rome | 181644 | [181644-jewels-of-rome.json](./181644-jewels-of-rome.json) |
 | Jewels of Sinai | 209986 | [209986-jewels-of-sinai.json](./209986-jewels-of-sinai.json) |
 | Jewels of the Ages | 130308 | [130308-jewels-of-the-ages.json](./130308-jewels-of-the-ages.json) |
