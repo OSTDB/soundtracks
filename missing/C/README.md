@@ -19521,6 +19521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubeverse | 109397 | [109397-cubeverse.json](./109397-cubeverse.json) |
 | CubeWorks | 61890 | [61890-cubeworks.json](./61890-cubeworks.json) |
 | Cubex | 361575 | [361575-cubex.json](./361575-cubex.json) |
+| Cubey | 143850 | [143850-cubey.json](./143850-cubey.json) |
 | Cubey Quarry | 339352 | [339352-cubey-quarry.json](./339352-cubey-quarry.json) |
 | Cubey vs. the Universe | 244370 | [244370-cubey-vs-the-universe.json](./244370-cubey-vs-the-universe.json) |
 | Cubey: Blockbyte | 361383 | [361383-cubey-blockbyte.json](./361383-cubey-blockbyte.json) |
