@@ -16626,6 +16626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proof-O: Super Godotrio | 334739 | [334739-proof-o-super-godotrio.json](./334739-proof-o-super-godotrio.json) |
 | Prop and Seek | 126865 | [126865-prop-and-seek.json](./126865-prop-and-seek.json) |
 | Prop Cycle | 40395 | [40395-prop-cycle.json](./40395-prop-cycle.json) |
+| Prop Factory | 169025 | [169025-prop-factory.json](./169025-prop-factory.json) |
 | Prop Game | 256000 | [256000-prop-game.json](./256000-prop-game.json) |
 | Prop Haunt | 330537 | [330537-prop-haunt.json](./330537-prop-haunt.json) |
 | Prop Hunt | 142924 | [142924-prop-hunt.json](./142924-prop-hunt.json) |
