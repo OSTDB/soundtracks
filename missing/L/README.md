@@ -8102,6 +8102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Epic: Premium Edition | 244049 | [244049-lost-epic-premium-edition.json](./244049-lost-epic-premium-edition.json) |
 | Lost Episodes Alone | 388365 | [388365-lost-episodes-alone.json](./388365-lost-episodes-alone.json) |
 | Lost Ethereal | 177930 | [177930-lost-ethereal.json](./177930-lost-ethereal.json) |
+| Lost Eve | 166886 | [166886-lost-eve.json](./166886-lost-eve.json) |
 | Lost Everything: Chapter 1 | 299161 | [299161-lost-everything-chapter-1.json](./299161-lost-everything-chapter-1.json) |
 | Lost Existence | 126912 | [126912-lost-existence.json](./126912-lost-existence.json) |
 | Lost Faces. | 388358 | [388358-lost-faces.json](./388358-lost-faces.json) |
