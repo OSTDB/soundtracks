@@ -1480,6 +1480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Fights in 2 Tight Spaces | 405126 | [405126-2-fights-in-2-tight-spaces.json](./405126-2-fights-in-2-tight-spaces.json) |
 | 2 For 2 | 88545 | [88545-2-for-2.json](./88545-2-for-2.json) |
 | 2 For 2: Connect the Numbers Puzzle | 101112 | [101112-2-for-2-connect-the-numbers-puzzle.json](./101112-2-for-2-connect-the-numbers-puzzle.json) |
+| 2 for one 1 Power Pack I Kawasaki Jet Ski / Summer Sports 2: Island Sports Party | 141969 | [141969-2-for-one-1-power-pack-i-kawasaki-jet-ski-summer-sports-2-island-sports-party.json](./141969-2-for-one-1-power-pack-i-kawasaki-jet-ski-summer-sports-2-island-sports-party.json) |
 | 2 Foxes and the Puzzling Forest | 185095 | [185095-2-foxes-and-the-puzzling-forest.json](./185095-2-foxes-and-the-puzzling-forest.json) |
 | 2 Game Collector Pack: 99 Action Arcade & Ultimate Riders | 365018 | [365018-2-game-collector-pack-99-action-arcade-and-ultimate-riders.json](./365018-2-game-collector-pack-99-action-arcade-and-ultimate-riders.json) |
 | 2 Game Pack I Hallowed Legends: Samhain & Hallowed Legends: Templar | 209789 | [209789-2-game-pack-i-hallowed-legends-samhain-and-hallowed-legends-templar.json](./209789-2-game-pack-i-hallowed-legends-samhain-and-hallowed-legends-templar.json) |
