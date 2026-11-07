@@ -2937,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path Builder | 318244 | [318244-path-builder.json](./318244-path-builder.json) |
 | Path Defenders | 420910 | [420910-path-defenders.json](./420910-path-defenders.json) |
 | Path for the Seeker | 305695 | [305695-path-for-the-seeker.json](./305695-path-for-the-seeker.json) |
+| Path Maker | 159433 | [159433-path-maker.json](./159433-path-maker.json) |
 | Path of Achra | 222738 | [222738-path-of-achra.json](./222738-path-of-achra.json) |
 | Path of Adventure | 126174 | [126174-path-of-adventure.json](./126174-path-of-adventure.json) |
 | Path of Ambition: The Sun Rise | 295375 | [295375-path-of-ambition-the-sun-rise.json](./295375-path-of-ambition-the-sun-rise.json) |
