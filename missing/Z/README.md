@@ -2079,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZombieRush | 32767 | [32767-zombierush.json](./32767-zombierush.json) |
 | Zombies | 196006 | [196006-zombies.json](./196006-zombies.json) |
 | Zombies | 218976 | [218976-zombies.json](./218976-zombies.json) |
+| Zombies | 95507 | [95507-zombies.json](./95507-zombies.json) |
 | Zombies & Bullets | 372638 | [372638-zombies-and-bullets.json](./372638-zombies-and-bullets.json) |
 | Zombies & Love | 296987 | [296987-zombies-and-love.json](./296987-zombies-and-love.json) |
 | Zombies & Survivors | 345403 | [345403-zombies-and-survivors.json](./345403-zombies-and-survivors.json) |
