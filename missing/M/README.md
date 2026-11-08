@@ -6064,6 +6064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -11359,6 +11360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Calling: Valeria - Collector's Edition | 166059 | [166059-midnight-calling-valeria-collectors-edition.json](./166059-midnight-calling-valeria-collectors-edition.json) |
 | Midnight Calling: Wise Dragon | 95917 | [95917-midnight-calling-wise-dragon.json](./95917-midnight-calling-wise-dragon.json) |
 | Midnight Calling: Wise Dragon - Collector's Edition | 221136 | [221136-midnight-calling-wise-dragon-collectors-edition.json](./221136-midnight-calling-wise-dragon-collectors-edition.json) |
+| Midnight Caravan | 104278 | [104278-midnight-caravan.json](./104278-midnight-caravan.json) |
 | Midnight Carnival | 30851 | [30851-midnight-carnival.json](./30851-midnight-carnival.json) |
 | Midnight Cartridge | 178823 | [178823-midnight-cartridge.json](./178823-midnight-cartridge.json) |
 | Midnight Castle | 294462 | [294462-midnight-castle.json](./294462-midnight-castle.json) |
@@ -19523,6 +19525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multi-Users in Middle-earth | 136790 | [136790-multi-users-in-middle-earth.json](./136790-multi-users-in-middle-earth.json) |
 | Multi's Going Out | 300271 | [300271-multis-going-out.json](./300271-multis-going-out.json) |
 | Multia Space Program | 165913 | [165913-multia-space-program.json](./165913-multia-space-program.json) |
+| MultiBall | 104180 | [104180-multiball.json](./104180-multiball.json) |
 | Multibombers | 107507 | [107507-multibombers.json](./107507-multibombers.json) |
 | Multibowl | 239313 | [239313-multibowl.json](./239313-multibowl.json) |
 | Multicellular | 107905 | [107905-multicellular.json](./107905-multicellular.json) |
@@ -20546,6 +20549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Baby: First Steps | 144073 | [144073-my-baby-first-steps.json](./144073-my-baby-first-steps.json) |
 | My Baby: First Steps | 47910 | [47910-my-baby-first-steps.json](./47910-my-baby-first-steps.json) |
 | My Bakery Empire | 87373 | [87373-my-bakery-empire.json](./87373-my-bakery-empire.json) |
+| My Bakery Empire - Bake, Decorate & Serve Cakes | 104204 | [104204-my-bakery-empire-bake-decorate-and-serve-cakes.json](./104204-my-bakery-empire-bake-decorate-and-serve-cakes.json) |
 | My Bakery Empire: Bake With Style | 280614 | [280614-my-bakery-empire-bake-with-style.json](./280614-my-bakery-empire-bake-with-style.json) |
 | My Bakery Empire: Bake With Taste | 280615 | [280615-my-bakery-empire-bake-with-taste.json](./280615-my-bakery-empire-bake-with-taste.json) |
 | My Bakery Empire: Complete Edition | 284503 | [284503-my-bakery-empire-complete-edition.json](./284503-my-bakery-empire-complete-edition.json) |
