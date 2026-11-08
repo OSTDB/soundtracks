@@ -450,10 +450,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ladies and Gentlemen, It's the Turnabout Show! | 318803 | [318803-ladies-and-gentlemen-its-the-turnabout-show.json](./318803-ladies-and-gentlemen-its-the-turnabout-show.json) |
 | Ladies I'm Ready | 333058 | [333058-ladies-im-ready.json](./333058-ladies-im-ready.json) |
 | Ladies of Sorrow: Night One | 323551 | [323551-ladies-of-sorrow-night-one.json](./323551-ladies-of-sorrow-night-one.json) |
+| Ladies Orders | 121839 | [121839-ladies-orders.json](./121839-ladies-orders.json) |
 | Ladies, Don't Tempt My Immortality | 384297 | [384297-ladies-dont-tempt-my-immortality.json](./384297-ladies-dont-tempt-my-immortality.json) |
 | Ladra | 34769 | [34769-ladra.json](./34769-ladra.json) |
 | Ladrão de Corpos | 293560 | [293560-ladrao-de-corpos.json](./293560-ladrao-de-corpos.json) |
 | Lady & Lonely Boy: Ojou-sama to Bocchi-kun | 308619 | [308619-lady-and-lonely-boy-ojou-sama-to-bocchi-kun.json](./308619-lady-and-lonely-boy-ojou-sama-to-bocchi-kun.json) |
+| Lady and Blade | 121869 | [121869-lady-and-blade.json](./121869-lady-and-blade.json) |
 | Lady At The Costco Gave Me Her Extra Hot Dog Soda Combo | 399751 | [399751-lady-at-the-costco-gave-me-her-extra-hot-dog-soda-combo.json](./399751-lady-at-the-costco-gave-me-her-extra-hot-dog-soda-combo.json) |
 | Lady Blue | 376688 | [376688-lady-blue.json](./376688-lady-blue.json) |
 | Lady Bono!! Dynamites | 242339 | [242339-lady-bono-dynamites.json](./242339-lady-bono-dynamites.json) |
