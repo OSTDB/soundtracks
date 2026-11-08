@@ -5009,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glider Classic | 128791 | [128791-glider-classic.json](./128791-glider-classic.json) |
 | Glider Island | 32109 | [32109-glider-island.json](./32109-glider-island.json) |
 | Glider Pilot | 262115 | [262115-glider-pilot.json](./262115-glider-pilot.json) |
+| Glider Pro | 92749 | [92749-glider-pro.json](./92749-glider-pro.json) |
 | Glider Rider | 13002 | [13002-glider-rider.json](./13002-glider-rider.json) |
 | Glider Sim | 160085 | [160085-glider-sim.json](./160085-glider-sim.json) |
 | Glider Simulator | 326413 | [326413-glider-simulator.json](./326413-glider-simulator.json) |
@@ -8077,6 +8078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Mountain Adventure: Wonderlands - Limited Edition | 188166 | [188166-grand-mountain-adventure-wonderlands-limited-edition.json](./188166-grand-mountain-adventure-wonderlands-limited-edition.json) |
 | Grand National | 94329 | [94329-grand-national.json](./94329-grand-national.json) |
 | Grand Ore Deal | 260103 | [260103-grand-ore-deal.json](./260103-grand-ore-deal.json) |
+| Grand Ouvert | 93106 | [93106-grand-ouvert.json](./93106-grand-ouvert.json) |
 | Grand Piano Keys | 200552 | [200552-grand-piano-keys.json](./200552-grand-piano-keys.json) |
 | Grand Piano Simulator | 312440 | [312440-grand-piano-simulator.json](./312440-grand-piano-simulator.json) |
 | Grand Pigeon's Duty | 33346 | [33346-grand-pigeons-duty.json](./33346-grand-pigeons-duty.json) |
