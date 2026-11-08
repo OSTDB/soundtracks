@@ -3433,6 +3433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel! | 259138 | [259138-rebel.json](./259138-rebel.json) |
 | Rebel! Pure Love Fighters! | 153027 | [153027-rebel-pure-love-fighters.json](./153027-rebel-pure-love-fighters.json) |
 | Rebellion | 223359 | [223359-rebellion.json](./223359-rebellion.json) |
+| Rebellion Again | 113920 | [113920-rebellion-again.json](./113920-rebellion-again.json) |
 | Rebellion Against Rebellion | 296402 | [296402-rebellion-against-rebellion.json](./296402-rebellion-against-rebellion.json) |
 | Rebellion Anthology | 53492 | [53492-rebellion-anthology.json](./53492-rebellion-anthology.json) |
 | Rebellion Corporation | 230970 | [230970-rebellion-corporation.json](./230970-rebellion-corporation.json) |
