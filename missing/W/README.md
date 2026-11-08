@@ -5465,6 +5465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wilderness Survival: The Conservationist | 212895 | [212895-wilderness-survival-the-conservationist.json](./212895-wilderness-survival-the-conservationist.json) |
 | Wilderness: A Survival Adventure | 25888 | [25888-wilderness-a-survival-adventure.json](./25888-wilderness-a-survival-adventure.json) |
 | Wilderness: Survival | 336678 | [336678-wilderness-survival.json](./336678-wilderness-survival.json) |
+| Wildest of the Wild | 111250 | [111250-wildest-of-the-wild.json](./111250-wildest-of-the-wild.json) |
 | WildestDreams | 109204 | [109204-wildestdreams.json](./109204-wildestdreams.json) |
 | Wildfire | 245607 | [245607-wildfire.json](./245607-wildfire.json) |
 | Wildfire | 263518 | [263518-wildfire.json](./263518-wildfire.json) |
@@ -9292,6 +9293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Write Emails At Work | 394102 | [394102-write-emails-at-work.json](./394102-write-emails-at-work.json) |
 | Write Night | 405749 | [405749-write-night.json](./405749-write-night.json) |
 | Write Warz | 297755 | [297755-write-warz.json](./297755-write-warz.json) |
+| Write word | 111132 | [111132-write-word.json](./111132-write-word.json) |
 | Write, Camera, Action! | 70815 | [70815-write-camera-action.json](./70815-write-camera-action.json) |
 | Write'n'Slash | 153769 | [153769-writenslash.json](./153769-writenslash.json) |
 | WriteNor | 381389 | [381389-writenor.json](./381389-writenor.json) |
