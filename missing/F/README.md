@@ -3885,6 +3885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fèitǔ Xiǎohóngmào | 340970 | [340970-feitu-xiaohongmao.json](./340970-feitu-xiaohongmao.json) |
 | Fèitǔ Xiǎohóngmào | 348836 | [348836-feitu-xiaohongmao.json](./348836-feitu-xiaohongmao.json) |
 | Fēizhōu Tànxiǎn | 64046 | [64046-feizhou-tanxian.json](./64046-feizhou-tanxian.json) |
+| FEJ Code | 83008 | [83008-fej-code.json](./83008-fej-code.json) |
 | Felampire | 297844 | [297844-felampire.json](./297844-felampire.json) |
 | Felbound | 295826 | [295826-felbound.json](./295826-felbound.json) |
 | Felicat’s Urban Odyssey | 253958 | [253958-felicat-s-urban-odyssey.json](./253958-felicat-s-urban-odyssey.json) |
@@ -3949,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Female Knight Fllay: Tentacle Party | 97285 | [97285-female-knight-fllay-tentacle-party.json](./97285-female-knight-fllay-tentacle-party.json) |
 | Female Nation Takeover: josei Kokka Nottori Keikaku - Touzoku no Ore ga Ou ni naru | 260696 | [260696-female-nation-takeover-josei-kokka-nottori-keikaku-touzoku-no-ore-ga-ou-ni-naru.json](./260696-female-nation-takeover-josei-kokka-nottori-keikaku-touzoku-no-ore-ga-ou-ni-naru.json) |
 | Female Swordsman | 360573 | [360573-female-swordsman.json](./360573-female-swordsman.json) |
+| Female Warrior Mancas: Troll and The Princess Chained | 83002 | [83002-female-warrior-mancas-troll-and-the-princess-chained.json](./83002-female-warrior-mancas-troll-and-the-princess-chained.json) |
 | Fembot Jigsaw | 292646 | [292646-fembot-jigsaw.json](./292646-fembot-jigsaw.json) |
 | Femboy Aim Trainer | 266180 | [266180-femboy-aim-trainer.json](./266180-femboy-aim-trainer.json) |
 | Femboy Bangers 2 | 219295 | [219295-femboy-bangers-2.json](./219295-femboy-bangers-2.json) |
