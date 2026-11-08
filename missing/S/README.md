@@ -3591,6 +3591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrabble Interactive: 2009 Edition | 51157 | [51157-scrabble-interactive-2009-edition.json](./51157-scrabble-interactive-2009-edition.json) |
 | Scrabble Plus | 209005 | [209005-scrabble-plus.json](./209005-scrabble-plus.json) |
 | Scrabble Premium | 88934 | [88934-scrabble-premium.json](./88934-scrabble-premium.json) |
+| Scrabble Rack Attack | 78829 | [78829-scrabble-rack-attack.json](./78829-scrabble-rack-attack.json) |
 | Scrabble Slam! | 66694 | [66694-scrabble-slam.json](./66694-scrabble-slam.json) |
 | Scrabble Sprint | 191503 | [191503-scrabble-sprint.json](./191503-scrabble-sprint.json) |
 | Scrabble Tetris | 385944 | [385944-scrabble-tetris.json](./385944-scrabble-tetris.json) |
@@ -3983,6 +3984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam G Generation Eternal | 208134 | [208134-sd-gundam-g-generation-eternal.json](./208134-sd-gundam-g-generation-eternal.json) |
 | SD Gundam G Generation Genesis | 75731 | [75731-sd-gundam-g-generation-genesis.json](./75731-sd-gundam-g-generation-genesis.json) |
 | SD Gundam G Generation Neo | 65981 | [65981-sd-gundam-g-generation-neo.json](./65981-sd-gundam-g-generation-neo.json) |
+| SD Gundam G Generation Portable | 78825 | [78825-sd-gundam-g-generation-portable.json](./78825-sd-gundam-g-generation-portable.json) |
 | SD Gundam G Generation Seed | 65982 | [65982-sd-gundam-g-generation-seed.json](./65982-sd-gundam-g-generation-seed.json) |
 | SD Gundam G Generation Touch | 66372 | [66372-sd-gundam-g-generation-touch.json](./66372-sd-gundam-g-generation-touch.json) |
 | SD Gundam G Generation Wars | 69325 | [69325-sd-gundam-g-generation-wars.json](./69325-sd-gundam-g-generation-wars.json) |
@@ -5100,6 +5102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages 2500 Vol. 2: Monaco GP | 98915 | [98915-sega-ages-2500-vol-2-monaco-gp.json](./98915-sega-ages-2500-vol-2-monaco-gp.json) |
 | Sega Ages 2500 Vol. 20: Space Harrier Complete Collection | 140407 | [140407-sega-ages-2500-vol-20-space-harrier-complete-collection.json](./140407-sega-ages-2500-vol-20-space-harrier-complete-collection.json) |
 | Sega Ages 2500 Vol. 21: SDI & Quartet - Sega System 16 Collection | 131265 | [131265-sega-ages-2500-vol-21-sdi-and-quartet-sega-system-16-collection.json](./131265-sega-ages-2500-vol-21-sdi-and-quartet-sega-system-16-collection.json) |
+| Sega Ages 2500 Vol. 22: Advanced Daisenryaku - Deutsch Dengeki Sakusen | 78836 | [78836-sega-ages-2500-vol-22-advanced-daisenryaku-deutsch-dengeki-sakusen.json](./78836-sega-ages-2500-vol-22-advanced-daisenryaku-deutsch-dengeki-sakusen.json) |
 | Sega Ages 2500 Vol. 23: Sega Memorial Selection | 69883 | [69883-sega-ages-2500-vol-23-sega-memorial-selection.json](./69883-sega-ages-2500-vol-23-sega-memorial-selection.json) |
 | Sega Ages 2500 Vol. 24: Last Bronx - Tokyo Bangaichi | 100110 | [100110-sega-ages-2500-vol-24-last-bronx-tokyo-bangaichi.json](./100110-sega-ages-2500-vol-24-last-bronx-tokyo-bangaichi.json) |
 | Sega Ages 2500 Vol. 25: Gunstar Heroes Treasure Box | 43223 | [43223-sega-ages-2500-vol-25-gunstar-heroes-treasure-box.json](./43223-sega-ages-2500-vol-25-gunstar-heroes-treasure-box.json) |
@@ -11293,6 +11296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 2000 Honkaku Shikou Vol.003: The Chess | 203345 | [203345-simple-2000-honkaku-shikou-vol-003-the-chess.json](./203345-simple-2000-honkaku-shikou-vol-003-the-chess.json) |
 | Simple 2000 Honkaku Shikou Vol.004: The Mahjong | 203346 | [203346-simple-2000-honkaku-shikou-vol-004-the-mahjong.json](./203346-simple-2000-honkaku-shikou-vol-004-the-mahjong.json) |
 | Simple 2000 Honkaku Shikou Vol.005: The Kiryoku Kentei | 203347 | [203347-simple-2000-honkaku-shikou-vol-005-the-kiryoku-kentei.json](./203347-simple-2000-honkaku-shikou-vol-005-the-kiryoku-kentei.json) |
+| Simple 2000 Series 2-in-1 Vol. 2: The Bass Fishing & The Bowling Hyper | 78851 | [78851-simple-2000-series-2-in-1-vol-2-the-bass-fishing-and-the-bowling-hyper.json](./78851-simple-2000-series-2-in-1-vol-2-the-bass-fishing-and-the-bowling-hyper.json) |
 | Simple 2000 Series 2-in-1 Vol. 3: The Puzzle Collection 2,000-mon & The Touyou Sandai Uranjustsu | 203394 | [203394-simple-2000-series-2-in-1-vol-3-the-puzzle-collection-2-000-mon-and-the-touyou-sandai-uranjustsu.json](./203394-simple-2000-series-2-in-1-vol-3-the-puzzle-collection-2-000-mon-and-the-touyou-sandai-uranjustsu.json) |
 | Simple 2000 Series 2-in-1 Vol. 4: The Bushido & The Sniper 2 | 57131 | [57131-simple-2000-series-2-in-1-vol-4-the-bushido-and-the-sniper-2.json](./57131-simple-2000-series-2-in-1-vol-4-the-bushido-and-the-sniper-2.json) |
 | Simple 2000 Series Portable Vol. 1: The Mahjong | 82135 | [82135-simple-2000-series-portable-vol-1-the-mahjong.json](./82135-simple-2000-series-portable-vol-1-the-mahjong.json) |
@@ -13383,6 +13387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam Dunk Typing | 108768 | [108768-slam-dunk-typing.json](./108768-slam-dunk-typing.json) |
 | Slam Dunk: Dream Team - Shueisha Limited | 236652 | [236652-slam-dunk-dream-team-shueisha-limited.json](./236652-slam-dunk-dream-team-shueisha-limited.json) |
 | Slam Dunk: Gakeppuchi no Kesshou League | 78516 | [78516-slam-dunk-gakeppuchi-no-kesshou-league.json](./78516-slam-dunk-gakeppuchi-no-kesshou-league.json) |
+| Slam Dunk: I Love Basketball | 78834 | [78834-slam-dunk-i-love-basketball.json](./78834-slam-dunk-i-love-basketball.json) |
 | Slam Dunk: Kyougou Makkou Taiketsu! | 78307 | [78307-slam-dunk-kyougou-makkou-taiketsu.json](./78307-slam-dunk-kyougou-makkou-taiketsu.json) |
 | Slam Dunk: Shouri he no Starting 5 | 282497 | [282497-slam-dunk-shouri-he-no-starting-5.json](./282497-slam-dunk-shouri-he-no-starting-5.json) |
 | Slam Dunk: Super Slams | 130584 | [130584-slam-dunk-super-slams.json](./130584-slam-dunk-super-slams.json) |
@@ -20213,6 +20218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hurricane | 385796 | [385796-space-hurricane.json](./385796-space-hurricane.json) |
 | Space Hurricane Storm | 102388 | [102388-space-hurricane-storm.json](./102388-space-hurricane-storm.json) |
 | Space Hurricane Storm: 2 Edition | 105659 | [105659-space-hurricane-storm-2-edition.json](./105659-space-hurricane-storm-2-edition.json) |
+| Space I | 78821 | [78821-space-i.json](./78821-space-i.json) |
 | Space II | 84202 | [84202-space-ii.json](./84202-space-ii.json) |
 | Space Impact | 282457 | [282457-space-impact.json](./282457-space-impact.json) |
 | Space Impact Glitch | 29762 | [29762-space-impact-glitch.json](./29762-space-impact-glitch.json) |
@@ -30675,6 +30681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumire | 137960 | [137960-sumire.json](./137960-sumire.json) |
 | Sumire's Secret | 403603 | [403603-sumires-secret.json](./403603-sumires-secret.json) |
 | Summa Expeditionis | 216869 | [216869-summa-expeditionis.json](./216869-summa-expeditionis.json) |
+| Summer | 78868 | [78868-summer.json](./78868-summer.json) |
 | Summer & Winter: Olympic Challenge | 154958 | [154958-summer-and-winter-olympic-challenge.json](./154958-summer-and-winter-olympic-challenge.json) |
 | Summer Adventurers: Mediterranean | 374062 | [374062-summer-adventurers-mediterranean.json](./374062-summer-adventurers-mediterranean.json) |
 | Summer After Ten Years: Steam Edition | 263753 | [263753-summer-after-ten-years-steam-edition.json](./263753-summer-after-ten-years-steam-edition.json) |
