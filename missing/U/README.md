@@ -393,6 +393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima Online: Samurai Empire | 70160 | [70160-ultima-online-samurai-empire.json](./70160-ultima-online-samurai-empire.json) |
 | Ultima Online: Stygian Abyss | 68226 | [68226-ultima-online-stygian-abyss.json](./68226-ultima-online-stygian-abyss.json) |
 | Ultima Online: Third Dawn | 71942 | [71942-ultima-online-third-dawn.json](./71942-ultima-online-third-dawn.json) |
+| Ultima Ratio | 109121 | [109121-ultima-ratio.json](./109121-ultima-ratio.json) |
 | Ultima Ratio Regum | 142341 | [142341-ultima-ratio-regum.json](./142341-ultima-ratio-regum.json) |
 | Ultima TD | 236261 | [236261-ultima-td.json](./236261-ultima-td.json) |
 | Ultima Underworld 1+2 | 164631 | [164631-ultima-underworld-1-2.json](./164631-ultima-underworld-1-2.json) |
