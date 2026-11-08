@@ -2281,6 +2281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illusion: Trust Test | 196145 | [196145-illusion-trust-test.json](./196145-illusion-trust-test.json) |
 | Illusions | 40893 | [40893-illusions.json](./40893-illusions.json) |
 | Illusions 360 | 67971 | [67971-illusions-360.json](./67971-illusions-360.json) |
+| Illusions of Loyalty | 125536 | [125536-illusions-of-loyalty.json](./125536-illusions-of-loyalty.json) |
 | Illusive Domain | 354478 | [354478-illusive-domain.json](./354478-illusive-domain.json) |
 | Illusory Dreamlight 1: Deprimerie | 186174 | [186174-illusory-dreamlight-1-deprimerie.json](./186174-illusory-dreamlight-1-deprimerie.json) |
 | Illust Logic DS + Colorful Logic | 61976 | [61976-illust-logic-ds-colorful-logic.json](./61976-illust-logic-ds-colorful-logic.json) |
@@ -3645,6 +3646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infantry Attack: Golden Backup Edition | 371435 | [371435-infantry-attack-golden-backup-edition.json](./371435-infantry-attack-golden-backup-edition.json) |
 | Infantry Attack: Strike from Above | 303579 | [303579-infantry-attack-strike-from-above.json](./303579-infantry-attack-strike-from-above.json) |
 | Infantry Online | 110884 | [110884-infantry-online.json](./110884-infantry-online.json) |
+| InfantryWar | 125552 | [125552-infantrywar.json](./125552-infantrywar.json) |
 | Infasia | 260190 | [260190-infasia.json](./260190-infasia.json) |
 | Infect and Destroy | 17511 | [17511-infect-and-destroy.json](./17511-infect-and-destroy.json) |
 | Infect Cam | 328847 | [328847-infect-cam.json](./328847-infect-cam.json) |
