@@ -2183,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkfall: New Dawn | 57005 | [57005-darkfall-new-dawn.json](./57005-darkfall-new-dawn.json) |
 | Darkfate | 242817 | [242817-darkfate.json](./242817-darkfate.json) |
 | DarkFighter | 163190 | [163190-darkfighter.json](./163190-darkfighter.json) |
+| Darkfire Heroes | 138899 | [138899-darkfire-heroes.json](./138899-darkfire-heroes.json) |
 | Darkflame Survivors | 343121 | [343121-darkflame-survivors.json](./343121-darkflame-survivors.json) |
 | Darkflow | 316363 | [316363-darkflow.json](./316363-darkflow.json) |
 | Darkgate | 319837 | [319837-darkgate.json](./319837-darkgate.json) |
@@ -6405,6 +6406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demeritocracy or the Two Faces of Arias Ruth | 68388 | [68388-demeritocracy-or-the-two-faces-of-arias-ruth.json](./68388-demeritocracy-or-the-two-faces-of-arias-ruth.json) |
 | Demersus | 406473 | [406473-demersus.json](./406473-demersus.json) |
 | Demeter | 280059 | [280059-demeter.json](./280059-demeter.json) |
+| Demeter and Persephone | 138963 | [138963-demeter-and-persephone.json](./138963-demeter-and-persephone.json) |
 | Demeter: The Asklepios Chronicles | 279398 | [279398-demeter-the-asklepios-chronicles.json](./279398-demeter-the-asklepios-chronicles.json) |
 | Demetria Spirit | 166843 | [166843-demetria-spirit.json](./166843-demetria-spirit.json) |
 | Demetrios: The Big Cynical Adventure | 23425 | [23425-demetrios-the-big-cynical-adventure.json](./23425-demetrios-the-big-cynical-adventure.json) |
@@ -13137,6 +13139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Dash | 85096 | [85096-doodle-dash.json](./85096-doodle-dash.json) |
 | Doodle Date | 96632 | [96632-doodle-date.json](./96632-doodle-date.json) |
 | Doodle Defense | 366295 | [366295-doodle-defense.json](./366295-doodle-defense.json) |
+| Doodle Derby | 138895 | [138895-doodle-derby.json](./138895-doodle-derby.json) |
 | Doodle Destroy | 343619 | [343619-doodle-destroy.json](./343619-doodle-destroy.json) |
 | Doodle Devil | 29131 | [29131-doodle-devil.json](./29131-doodle-devil.json) |
 | Doodle Devil HD | 103125 | [103125-doodle-devil-hd.json](./103125-doodle-devil-hd.json) |
