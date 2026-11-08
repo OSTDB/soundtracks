@@ -1293,8 +1293,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 16bit Trader | 26837 | [26837-16bit-trader.json](./26837-16bit-trader.json) |
 | 16bit vs. Reality | 167552 | [167552-16bit-vs-reality.json](./167552-16bit-vs-reality.json) |
 | 16bit-Collection Athena Vol. 01 | 97891 | [97891-16bit-collection-athena-vol-01.json](./97891-16bit-collection-athena-vol-01.json) |
+| 16bit-Collection Culture Brain Vol. 01 | 97893 | [97893-16bit-collection-culture-brain-vol-01.json](./97893-16bit-collection-culture-brain-vol-01.json) |
 | 16bit-Collection Culture Brain Vol. 02 | 97888 | [97888-16bit-collection-culture-brain-vol-02.json](./97888-16bit-collection-culture-brain-vol-02.json) |
+| 16bit-Collection Culture Brain Vol. 03 | 97889 | [97889-16bit-collection-culture-brain-vol-03.json](./97889-16bit-collection-culture-brain-vol-03.json) |
 | 16bit-Collection Data East Vol. 02 | 97894 | [97894-16bit-collection-data-east-vol-02.json](./97894-16bit-collection-data-east-vol-02.json) |
+| 16bit-Collection Data East Vol. 03 | 97887 | [97887-16bit-collection-data-east-vol-03.json](./97887-16bit-collection-data-east-vol-03.json) |
 | 16bit-Collection Data East Vol. 1 | 97892 | [97892-16bit-collection-data-east-vol-1.json](./97892-16bit-collection-data-east-vol-1.json) |
 | 16bit-Collection Jaleco Vol. 01 | 97895 | [97895-16bit-collection-jaleco-vol-01.json](./97895-16bit-collection-jaleco-vol-01.json) |
 | 16BitSurvivors | 358064 | [358064-16bitsurvivors.json](./358064-16bitsurvivors.json) |
@@ -3467,7 +3470,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8bit Ninja | 232005 | [232005-8bit-ninja.json](./232005-8bit-ninja.json) |
 | 8bit Pigeon Hunter | 120590 | [120590-8bit-pigeon-hunter.json](./120590-8bit-pigeon-hunter.json) |
 | 8bit Wars | 277239 | [277239-8bit-wars.json](./277239-8bit-wars.json) |
+| 8bit-Collection Culture Brain Vol. 01 | 97881 | [97881-8bit-collection-culture-brain-vol-01.json](./97881-8bit-collection-culture-brain-vol-01.json) |
+| 8bit-Collection Data East Vol. 01 | 97886 | [97886-8bit-collection-data-east-vol-01.json](./97886-8bit-collection-data-east-vol-01.json) |
 | 8bit-Collection Jaleco Vol. 01 | 97885 | [97885-8bit-collection-jaleco-vol-01.json](./97885-8bit-collection-jaleco-vol-01.json) |
+| 8bit-Collection Jaleco Vol. 02 | 97884 | [97884-8bit-collection-jaleco-vol-02.json](./97884-8bit-collection-jaleco-vol-02.json) |
 | 8BitBoy | 17331 | [17331-8bitboy.json](./17331-8bitboy.json) |
 | 8BitMMO | 30232 | [30232-8bitmmo.json](./30232-8bitmmo.json) |
 | 8bitWar: Apokalyps | 134313 | [134313-8bitwar-apokalyps.json](./134313-8bitwar-apokalyps.json) |
