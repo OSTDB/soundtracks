@@ -799,6 +799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Painter | 262091 | [262091-painter.json](./262091-painter.json) |
 | Painter Blazer | 316368 | [316368-painter-blazer.json](./316368-painter-blazer.json) |
 | Painter Man!! | 342623 | [342623-painter-man.json](./342623-painter-man.json) |
+| Painter Momopie | 136613 | [136613-painter-momopie.json](./136613-painter-momopie.json) |
 | Painter Simulator | 235106 | [235106-painter-simulator.json](./235106-painter-simulator.json) |
 | Painter's Pets | 189951 | [189951-painters-pets.json](./189951-painters-pets.json) |
 | Painterboy | 47198 | [47198-painterboy.json](./47198-painterboy.json) |
@@ -6526,6 +6527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pika Pika Nurse Monogatari 2 | 222443 | [222443-pika-pika-nurse-monogatari-2.json](./222443-pika-pika-nurse-monogatari-2.json) |
 | Pika Pika Nurse Monogatari: Hatsuratsu Nurse Ikusei Game | 49770 | [49770-pika-pika-nurse-monogatari-hatsuratsu-nurse-ikusei-game.json](./49770-pika-pika-nurse-monogatari-hatsuratsu-nurse-ikusei-game.json) |
 | Pika Pika Nurse Monogatari: Shounika ha Itsumo Oosawagi | 136932 | [136932-pika-pika-nurse-monogatari-shounika-ha-itsumo-oosawagi.json](./136932-pika-pika-nurse-monogatari-shounika-ha-itsumo-oosawagi.json) |
+| Pika Pika Nurse Monogatari: Shounika wa Itsumo Oosawagi - for Nintendo Switch | 136608 | [136608-pika-pika-nurse-monogatari-shounika-wa-itsumo-oosawagi-for-nintendo-switch.json](./136608-pika-pika-nurse-monogatari-shounika-wa-itsumo-oosawagi-for-nintendo-switch.json) |
 | Pika Pop | 72165 | [72165-pika-pop.json](./72165-pika-pop.json) |
 | Pikabuu: Stop! | 357230 | [357230-pikabuu-stop.json](./357230-pikabuu-stop.json) |
 | Pikachu | 247269 | [247269-pikachu.json](./247269-pikachu.json) |
