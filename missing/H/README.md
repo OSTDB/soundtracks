@@ -7389,6 +7389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects Fantasy Games | 249315 | [249315-hidden-objects-fantasy-games.json](./249315-hidden-objects-fantasy-games.json) |
 | Hidden Objects Lost Worlds | 70913 | [70913-hidden-objects-lost-worlds.json](./70913-hidden-objects-lost-worlds.json) |
 | Hidden Objects Magical Places | 99397 | [99397-hidden-objects-magical-places.json](./99397-hidden-objects-magical-places.json) |
+| Hidden Objects Mermaids | 99281 | [99281-hidden-objects-mermaids.json](./99281-hidden-objects-mermaids.json) |
 | Hidden Objects Mystic Rain | 106709 | [106709-hidden-objects-mystic-rain.json](./106709-hidden-objects-mystic-rain.json) |
 | Hidden Objects Painted Forest | 415893 | [415893-hidden-objects-painted-forest.json](./415893-hidden-objects-painted-forest.json) |
 | Hidden objects Play peek a boo | 100015 | [100015-hidden-objects-play-peek-a-boo.json](./100015-hidden-objects-play-peek-a-boo.json) |
@@ -8535,6 +8536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman 2: Mumbai | 167963 | [167963-hitman-2-mumbai.json](./167963-hitman-2-mumbai.json) |
 | Hitman 2: New York | 122644 | [122644-hitman-2-new-york.json](./122644-hitman-2-new-york.json) |
 | Hitman 2: Santa Fortuna | 167962 | [167962-hitman-2-santa-fortuna.json](./167962-hitman-2-santa-fortuna.json) |
+| Hitman 2: Silent Assassin HD | 99817 | [99817-hitman-2-silent-assassin-hd.json](./99817-hitman-2-silent-assassin-hd.json) |
 | Hitman 2: Silver Edition | 112644 | [112644-hitman-2-silver-edition.json](./112644-hitman-2-silver-edition.json) |
 | Hitman 2: Special Assignments Pack 1 | 167967 | [167967-hitman-2-special-assignments-pack-1.json](./167967-hitman-2-special-assignments-pack-1.json) |
 | Hitman 2: Whittleton Creek | 167965 | [167965-hitman-2-whittleton-creek.json](./167965-hitman-2-whittleton-creek.json) |
@@ -8602,6 +8604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman: Blood Money Requiem Pack | 76413 | [76413-hitman-blood-money-requiem-pack.json](./76413-hitman-blood-money-requiem-pack.json) |
 | Hitman: Blood Money Vegas | 125150 | [125150-hitman-blood-money-vegas.json](./125150-hitman-blood-money-vegas.json) |
 | Hitman: Collector's Edition | 41619 | [41619-hitman-collectors-edition.json](./41619-hitman-collectors-edition.json) |
+| Hitman: Contracts HD | 99815 | [99815-hitman-contracts-hd.json](./99815-hitman-contracts-hd.json) |
 | Hitman: Episode 2 - Sapienza | 91021 | [91021-hitman-episode-2-sapienza.json](./91021-hitman-episode-2-sapienza.json) |
 | Hitman: Episode 5 - Colorado | 91024 | [91024-hitman-episode-5-colorado.json](./91024-hitman-episode-5-colorado.json) |
 | Hitman: Episode 6 - Hokkaido | 91025 | [91025-hitman-episode-6-hokkaido.json](./91025-hitman-episode-6-hokkaido.json) |
