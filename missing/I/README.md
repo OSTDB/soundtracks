@@ -1142,6 +1142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice-Story | 130886 | [130886-ice-story.json](./130886-ice-story.json) |
 | Ice! | 370207 | [370207-ice.json](./370207-ice.json) |
 | Icebear 2026 | 394404 | [394404-icebear-2026.json](./394404-icebear-2026.json) |
+| Iceberg | 97943 | [97943-iceberg.json](./97943-iceberg.json) |
 | Iceberg Command | 256311 | [256311-iceberg-command.json](./256311-iceberg-command.json) |
 | Iceberg the Game | 232484 | [232484-iceberg-the-game.json](./232484-iceberg-the-game.json) |
 | Icebergs | 180076 | [180076-icebergs.json](./180076-icebergs.json) |
@@ -4309,6 +4310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Injection π23 'Tabula Rasa' | 404706 | [404706-injection-23-tabula-rasa.json](./404706-injection-23-tabula-rasa.json) |
 | Injection π23: Ars Regia | 199166 | [199166-injection-23-ars-regia.json](./199166-injection-23-ars-regia.json) |
 | Injection π23: No Name, No Number - Expansion Events | 274653 | [274653-injection-23-no-name-no-number-expansion-events.json](./274653-injection-23-no-name-no-number-expansion-events.json) |
+| Injoku Densha 2 | 97608 | [97608-injoku-densha-2.json](./97608-injoku-densha-2.json) |
 | Injured by space | 88147 | [88147-injured-by-space.json](./88147-injured-by-space.json) |
 | Injustice 2 Mobile | 76547 | [76547-injustice-2-mobile.json](./76547-injustice-2-mobile.json) |
 | Injustice 2: Black Lightning | 323321 | [323321-injustice-2-black-lightning.json](./323321-injustice-2-black-lightning.json) |
