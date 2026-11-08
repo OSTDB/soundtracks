@@ -2380,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: 2020 Super Baseball | 86816 | [86816-aca-neo-geo-2020-super-baseball.json](./86816-aca-neo-geo-2020-super-baseball.json) |
 | ACA Neo Geo: 3 Count Bout | 118570 | [118570-aca-neo-geo-3-count-bout.json](./118570-aca-neo-geo-3-count-bout.json) |
 | ACA Neo Geo: Aero Fighters 2 | 99495 | [99495-aca-neo-geo-aero-fighters-2.json](./99495-aca-neo-geo-aero-fighters-2.json) |
+| ACA Neo Geo: Aero Fighters 3 | 106071 | [106071-aca-neo-geo-aero-fighters-3.json](./106071-aca-neo-geo-aero-fighters-3.json) |
 | ACA Neo Geo: Aggressors of Dark Kombat | 118215 | [118215-aca-neo-geo-aggressors-of-dark-kombat.json](./118215-aca-neo-geo-aggressors-of-dark-kombat.json) |
 | ACA Neo Geo: Alpha Mission II | 68486 | [68486-aca-neo-geo-alpha-mission-ii.json](./68486-aca-neo-geo-alpha-mission-ii.json) |
 | ACA Neo Geo: Art of Fighting | 99746 | [99746-aca-neo-geo-art-of-fighting.json](./99746-aca-neo-geo-art-of-fighting.json) |
@@ -2430,6 +2431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Puzzled | 68482 | [68482-aca-neo-geo-puzzled.json](./68482-aca-neo-geo-puzzled.json) |
 | ACA Neo Geo: Ragnagard | 113552 | [113552-aca-neo-geo-ragnagard.json](./113552-aca-neo-geo-ragnagard.json) |
 | ACA Neo Geo: Real Bout Fatal Fury | 90199 | [90199-aca-neo-geo-real-bout-fatal-fury.json](./90199-aca-neo-geo-real-bout-fatal-fury.json) |
+| ACA Neo Geo: Real Bout Fatal Fury 2 | 106075 | [106075-aca-neo-geo-real-bout-fatal-fury-2.json](./106075-aca-neo-geo-real-bout-fatal-fury-2.json) |
 | ACA Neo Geo: Real Bout Fatal Fury Special | 78127 | [78127-aca-neo-geo-real-bout-fatal-fury-special.json](./78127-aca-neo-geo-real-bout-fatal-fury-special.json) |
 | ACA Neo Geo: Riding Hero | 103942 | [103942-aca-neo-geo-riding-hero.json](./103942-aca-neo-geo-riding-hero.json) |
 | ACA Neo Geo: Robo Army | 99483 | [99483-aca-neo-geo-robo-army.json](./99483-aca-neo-geo-robo-army.json) |
@@ -2454,6 +2456,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: The King of Fighters '96 | 99496 | [99496-aca-neo-geo-the-king-of-fighters-96.json](./99496-aca-neo-geo-the-king-of-fighters-96.json) |
 | ACA Neo Geo: The King of Fighters '97 | 83769 | [83769-aca-neo-geo-the-king-of-fighters-97.json](./83769-aca-neo-geo-the-king-of-fighters-97.json) |
 | ACA Neo Geo: The King of Fighters '98 | 88907 | [88907-aca-neo-geo-the-king-of-fighters-98.json](./88907-aca-neo-geo-the-king-of-fighters-98.json) |
+| ACA Neo Geo: The King of Fighters '99 | 106073 | [106073-aca-neo-geo-the-king-of-fighters-99.json](./106073-aca-neo-geo-the-king-of-fighters-99.json) |
+| ACA Neo Geo: The King of Fighters 2000 | 106074 | [106074-aca-neo-geo-the-king-of-fighters-2000.json](./106074-aca-neo-geo-the-king-of-fighters-2000.json) |
 | ACA Neo Geo: The King of Fighters 2002 | 118497 | [118497-aca-neo-geo-the-king-of-fighters-2002.json](./118497-aca-neo-geo-the-king-of-fighters-2002.json) |
 | ACA Neo Geo: The King of Fighters 2003 | 115445 | [115445-aca-neo-geo-the-king-of-fighters-2003.json](./115445-aca-neo-geo-the-king-of-fighters-2003.json) |
 | ACA Neo Geo: The Last Blade | 99507 | [99507-aca-neo-geo-the-last-blade.json](./99507-aca-neo-geo-the-last-blade.json) |
@@ -2468,6 +2472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: World Heroes 2 | 99740 | [99740-aca-neo-geo-world-heroes-2.json](./99740-aca-neo-geo-world-heroes-2.json) |
 | ACA Neo Geo: World Heroes 2 Jet | 76576 | [76576-aca-neo-geo-world-heroes-2-jet.json](./76576-aca-neo-geo-world-heroes-2-jet.json) |
 | ACA Neo Geo: World Heroes Perfect | 28418 | [28418-aca-neo-geo-world-heroes-perfect.json](./28418-aca-neo-geo-world-heroes-perfect.json) |
+| ACA Neo Geo: Zed Blade | 106072 | [106072-aca-neo-geo-zed-blade.json](./106072-aca-neo-geo-zed-blade.json) |
 | ACA Neo Geo: Zupapa! | 110583 | [110583-aca-neo-geo-zupapa.json](./110583-aca-neo-geo-zupapa.json) |
 | ACA NeoGeo Selection Vol. 1 | 319735 | [319735-aca-neogeo-selection-vol-1.json](./319735-aca-neogeo-selection-vol-1.json) |
 | ACA NeoGeo Selection Vol. 10 | 376475 | [376475-aca-neogeo-selection-vol-10.json](./376475-aca-neogeo-selection-vol-10.json) |
@@ -5521,6 +5526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Glide | 312323 | [312323-air-glide.json](./312323-air-glide.json) |
 | Air Guardians | 11443 | [11443-air-guardians.json](./11443-air-guardians.json) |
 | Air Guitar Warrior for Kinect | 82375 | [82375-air-guitar-warrior-for-kinect.json](./82375-air-guitar-warrior-for-kinect.json) |
+| Air Guitar Warrior: Gamepad Edition | 106168 | [106168-air-guitar-warrior-gamepad-edition.json](./106168-air-guitar-warrior-gamepad-edition.json) |
 | Air Gun Fighter | 167469 | [167469-air-gun-fighter.json](./167469-air-gun-fighter.json) |
 | Air Hares | 336684 | [336684-air-hares.json](./336684-air-hares.json) |
 | Air Hauler | 68098 | [68098-air-hauler.json](./68098-air-hauler.json) |
@@ -12244,7 +12250,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquanaut | 83910 | [83910-aquanaut.json](./83910-aquanaut.json) |
 | Aquanaut no Kyuujitsu: Memories of Summer 1996 | 123678 | [123678-aquanaut-no-kyuujitsu-memories-of-summer-1996.json](./123678-aquanaut-no-kyuujitsu-memories-of-summer-1996.json) |
 | Aquanaut's Holiday | 20589 | [20589-aquanauts-holiday.json](./20589-aquanauts-holiday.json) |
+| Aquanaut's Holiday 2 | 106041 | [106041-aquanauts-holiday-2.json](./106041-aquanauts-holiday-2.json) |
 | Aquanaut's Holiday: Hidden Memories | 7271 | [7271-aquanauts-holiday-hidden-memories.json](./7271-aquanauts-holiday-hidden-memories.json) |
+| Aquanaut's Holiday: Memories of Summer 1996 | 106040 | [106040-aquanauts-holiday-memories-of-summer-1996.json](./106040-aquanauts-holiday-memories-of-summer-1996.json) |
 | Aquanaute | 58014 | [58014-aquanaute.json](./58014-aquanaute.json) |
 | AquaNautic: Underwater Submarine Simulator | 185339 | [185339-aquanautic-underwater-submarine-simulator.json](./185339-aquanautic-underwater-submarine-simulator.json) |
 | Aquanima | 357313 | [357313-aquanima.json](./357313-aquanima.json) |
