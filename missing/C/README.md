@@ -8981,6 +8981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ciao Nonna | 210329 | [210329-ciao-nonna.json](./210329-ciao-nonna.json) |
 | Ciao Pizza: Cooking Chaos | 415254 | [415254-ciao-pizza-cooking-chaos.json](./415254-ciao-pizza-cooking-chaos.json) |
 | Cibele | 14702 | [14702-cibele.json](./14702-cibele.json) |
+| Cibos | 89324 | [89324-cibos.json](./89324-cibos.json) |
 | Cicada Springs | 248714 | [248714-cicada-springs.json](./248714-cicada-springs.json) |
 | Cicadamata" | 377768 | [377768-cicadamata.json](./377768-cicadamata.json) |
 | Cicadas | 61599 | [61599-cicadas.json](./61599-cicadas.json) |
@@ -12832,6 +12833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colossus Mission | 153651 | [153651-colossus-mission.json](./153651-colossus-mission.json) |
 | Colossus: Eternal Blight | 244913 | [244913-colossus-eternal-blight.json](./244913-colossus-eternal-blight.json) |
 | Colour Bind | 10101 | [10101-colour-bind.json](./10101-colour-bind.json) |
+| Colour Box | 89363 | [89363-colour-box.json](./89363-colour-box.json) |
 | Colour Chain | 314841 | [314841-colour-chain.json](./314841-colour-chain.json) |
 | Colour Clash | 94228 | [94228-colour-clash.json](./94228-colour-clash.json) |
 | Colour My Dreams | 384039 | [384039-colour-my-dreams.json](./384039-colour-my-dreams.json) |
@@ -14743,6 +14745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Festival | 147632 | [147632-cooking-festival.json](./147632-cooking-festival.json) |
 | Cooking Fever | 87046 | [87046-cooking-fever.json](./87046-cooking-fever.json) |
 | Cooking Fist | 417414 | [417414-cooking-fist.json](./417414-cooking-fist.json) |
+| Cooking Food Maker Games | 89316 | [89316-cooking-food-maker-games.json](./89316-cooking-food-maker-games.json) |
 | Cooking for CrabTopia! | 300501 | [300501-cooking-for-crabtopia.json](./300501-cooking-for-crabtopia.json) |
 | Cooking For Ma! | 404941 | [404941-cooking-for-ma.json](./404941-cooking-for-ma.json) |
 | Cooking Game - Valentines Day Menu | 96577 | [96577-cooking-game-valentines-day-menu.json](./96577-cooking-game-valentines-day-menu.json) |
@@ -19457,6 +19460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CTGP-7 | 209549 | [209549-ctgp-7.json](./209549-ctgp-7.json) |
 | CTGP-Universe | 232873 | [232873-ctgp-universe.json](./232873-ctgp-universe.json) |
 | Cthon | 29456 | [29456-cthon.json](./29456-cthon.json) |
+| Cthulhu | 89336 | [89336-cthulhu.json](./89336-cthulhu.json) |
 | Cthulhu 1920 | 386242 | [386242-cthulhu-1920.json](./386242-cthulhu-1920.json) |
 | Cthulhu Clicker | 58162 | [58162-cthulhu-clicker.json](./58162-cthulhu-clicker.json) |
 | Cthulhu Go Teaching | 405091 | [405091-cthulhu-go-teaching.json](./405091-cthulhu-go-teaching.json) |
