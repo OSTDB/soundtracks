@@ -3188,6 +3188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gensou Maden Saiyuuki: Hangyaku no Toshin Taishi | 49606 | [49606-gensou-maden-saiyuuki-hangyaku-no-toshin-taishi.json](./49606-gensou-maden-saiyuuki-hangyaku-no-toshin-taishi.json) |
 | Gensou Makyou Kitan | 388734 | [388734-gensou-makyou-kitan.json](./388734-gensou-makyou-kitan.json) |
 | Gensou Ningyou Embu Gaiden: Yuki-chan no Shugyou | 312327 | [312327-gensou-ningyou-embu-gaiden-yuki-chan-no-shugyou.json](./312327-gensou-ningyou-embu-gaiden-yuki-chan-no-shugyou.json) |
+| Gensou no Artemis: Actress School Mystery Adventure | 138960 | [138960-gensou-no-artemis-actress-school-mystery-adventure.json](./138960-gensou-no-artemis-actress-school-mystery-adventure.json) |
 | Gensou no Avatar | 388225 | [388225-gensou-no-avatar.json](./388225-gensou-no-avatar.json) |
 | Gensou no Idea: Oratorio Phantasm Historia | 137081 | [137081-gensou-no-idea-oratorio-phantasm-historia.json](./137081-gensou-no-idea-oratorio-phantasm-historia.json) |
 | Gensou Rouman Kikou: Phantasmagoria Trues | 321482 | [321482-gensou-rouman-kikou-phantasmagoria-trues.json](./321482-gensou-rouman-kikou-phantasmagoria-trues.json) |
@@ -8315,6 +8316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapple Souls | 388333 | [388333-grapple-souls.json](./388333-grapple-souls.json) |
 | Grapple Tanks | 285700 | [285700-grapple-tanks.json](./285700-grapple-tanks.json) |
 | Grapple the Abyss! | 182974 | [182974-grapple-the-abyss.json](./182974-grapple-the-abyss.json) |
+| Grapple Tournament | 138940 | [138940-grapple-tournament.json](./138940-grapple-tournament.json) |
 | Grapple Up! | 312648 | [312648-grapple-up.json](./312648-grapple-up.json) |
 | Grapple Whip | 120360 | [120360-grapple-whip.json](./120360-grapple-whip.json) |
 | Grapple! | 152960 | [152960-grapple.json](./152960-grapple.json) |
@@ -9490,6 +9492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Seventh | 31829 | [31829-grim-seventh.json](./31829-grim-seventh.json) |
 | Grim Survivor | 213002 | [213002-grim-survivor.json](./213002-grim-survivor.json) |
 | Grim Swarm | 323809 | [323809-grim-swarm.json](./323809-grim-swarm.json) |
+| Grim Tales 14 the Time Traveler | 138944 | [138944-grim-tales-14-the-time-traveler.json](./138944-grim-tales-14-the-time-traveler.json) |
 | Grim Tales 5: Bloody Mary | 57071 | [57071-grim-tales-5-bloody-mary.json](./57071-grim-tales-5-bloody-mary.json) |
 | Grim Tales 8: The Final Suspect | 140299 | [140299-grim-tales-8-the-final-suspect.json](./140299-grim-tales-8-the-final-suspect.json) |
 | Grim Tales: All Shades of Black - Collector's Edition | 337263 | [337263-grim-tales-all-shades-of-black-collectors-edition.json](./337263-grim-tales-all-shades-of-black-collectors-edition.json) |
