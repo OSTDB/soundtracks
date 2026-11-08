@@ -4466,6 +4466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ginga Ninkyouden | 38647 | [38647-ginga-ninkyouden.json](./38647-ginga-ninkyouden.json) |
 | Ginga no San-nin | 48503 | [48503-ginga-no-san-nin.json](./48503-ginga-no-san-nin.json) |
 | Ginga Ojousama Densetsu Collection | 62731 | [62731-ginga-ojousama-densetsu-collection.json](./62731-ginga-ojousama-densetsu-collection.json) |
+| Ginga Tetsudou 999 DS | 122547 | [122547-ginga-tetsudou-999-ds.json](./122547-ginga-tetsudou-999-ds.json) |
 | Ginga Tetsudou no Tabi | 398408 | [398408-ginga-tetsudou-no-tabi.json](./398408-ginga-tetsudou-no-tabi.json) |
 | Gingar Ail | 295847 | [295847-gingar-ail.json](./295847-gingar-ail.json) |
 | Gingateikoku No Gyakushu | 38646 | [38646-gingateikoku-no-gyakushu.json](./38646-gingateikoku-no-gyakushu.json) |
