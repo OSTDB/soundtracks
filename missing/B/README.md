@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.ARK | 131870 | [131870-b-ark.json](./131870-b-ark.json) |
 | B.B. Oh, yes! Jonny! | 83390 | [83390-b-b-oh-yes-jonny.json](./83390-b-b-oh-yes-jonny.json) |
 | B.B. Rider | 331147 | [331147-b-b-rider.json](./331147-b-b-rider.json) |
+| B.C. | 100234 | [100234-b-c.json](./100234-b-c.json) |
 | B.C. Bill | 15655 | [15655-b-c-bill.json](./15655-b-c-bill.json) |
 | B.C. Bow Contest | 318168 | [318168-b-c-bow-contest.json](./318168-b-c-bow-contest.json) |
 | B.C. Dash | 270398 | [270398-b-c-dash.json](./270398-b-c-dash.json) |
@@ -981,7 +982,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1005,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Student Driver: Swing Ride | 259975 | [259975-bad-student-driver-swing-ride.json](./259975-bad-student-driver-swing-ride.json) |
 | Bad Summer | 334074 | [334074-bad-summer.json](./334074-bad-summer.json) |
 | Bad Teams | 348806 | [348806-bad-teams.json](./348806-bad-teams.json) |
+| Bad Teeth Doctor | 100376 | [100376-bad-teeth-doctor.json](./100376-bad-teeth-doctor.json) |
 | Bad Time Bug in Apartment 309 | 378846 | [378846-bad-time-bug-in-apartment-309.json](./378846-bad-time-bug-in-apartment-309.json) |
 | Bad Time Simulator (Sans Fight) | 298723 | [298723-bad-time-simulator-sans-fight.json](./298723-bad-time-simulator-sans-fight.json) |
 | Bad Time Trio | 321532 | [321532-bad-time-trio.json](./321532-bad-time-trio.json) |
@@ -5491,6 +5492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Stickman: Infinity Clones | 112072 | [112072-beat-stickman-infinity-clones.json](./112072-beat-stickman-infinity-clones.json) |
 | Beat Stickman: Infinity Clones - Definitive Edition | 120107 | [120107-beat-stickman-infinity-clones-definitive-edition.json](./120107-beat-stickman-infinity-clones-definitive-edition.json) |
 | Beat Stomper | 57462 | [57462-beat-stomper.json](./57462-beat-stomper.json) |
+| Beat Street | 99879 | [99879-beat-street.json](./99879-beat-street.json) |
 | Beat Survival | 264541 | [264541-beat-survival.json](./264541-beat-survival.json) |
 | Beat Survival: Expansion | 261047 | [261047-beat-survival-expansion.json](./261047-beat-survival-expansion.json) |
 | Beat the Art Breaker | 96564 | [96564-beat-the-art-breaker.json](./96564-beat-the-art-breaker.json) |
@@ -10759,6 +10761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Royale | 30589 | [30589-block-royale.json](./30589-block-royale.json) |
 | Block Run | 400587 | [400587-block-run.json](./400587-block-run.json) |
 | Block Rush 3 | 369015 | [369015-block-rush-3.json](./369015-block-rush-3.json) |
+| Block Sandbox World | 99873 | [99873-block-sandbox-world.json](./99873-block-sandbox-world.json) |
 | Block Shock: The Last Chance | 14321 | [14321-block-shock-the-last-chance.json](./14321-block-shock-the-last-chance.json) |
 | Block Shop | 283387 | [283387-block-shop.json](./283387-block-shop.json) |
 | Block Siege VR | 309482 | [309482-block-siege-vr.json](./309482-block-siege-vr.json) |
@@ -12215,6 +12218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boating Simulator 2022 | 199458 | [199458-boating-simulator-2022.json](./199458-boating-simulator-2022.json) |
 | BoatMan | 169759 | [169759-boatman.json](./169759-boatman.json) |
 | Boats N' Hoes | 298448 | [298448-boats-n-hoes.json](./298448-boats-n-hoes.json) |
+| Boaty McBoatface | 99872 | [99872-boaty-mcboatface.json](./99872-boaty-mcboatface.json) |
 | Boaty McBoatwad | 260662 | [260662-boaty-mcboatwad.json](./260662-boaty-mcboatwad.json) |
 | Boaty Tanks | 261830 | [261830-boaty-tanks.json](./261830-boaty-tanks.json) |
 | Boaty Tanks 2 | 262717 | [262717-boaty-tanks-2.json](./262717-boaty-tanks-2.json) |
@@ -15778,6 +15782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Buddies | 272274 | [272274-brick-buddies.json](./272274-brick-buddies.json) |
 | Brick Building | 166220 | [166220-brick-building.json](./166220-brick-building.json) |
 | Brick Buster | 421387 | [421387-brick-buster.json](./421387-brick-buster.json) |
+| Brick Buster | 99893 | [99893-brick-buster.json](./99893-brick-buster.json) |
 | Brick Buster Blast | 297371 | [297371-brick-buster-blast.json](./297371-brick-buster-blast.json) |
 | Brick by Brick | 389392 | [389392-brick-by-brick.json](./389392-brick-by-brick.json) |
 | Brick by Brick | 418290 | [418290-brick-by-brick.json](./418290-brick-by-brick.json) |
@@ -18701,6 +18706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Button Man | 295280 | [295280-button-man.json](./295280-button-man.json) |
 | Button Men Online | 56173 | [56173-button-men-online.json](./56173-button-men-online.json) |
 | Button Music | 98996 | [98996-button-music.json](./98996-button-music.json) |
+| Button Pop | 99874 | [99874-button-pop.json](./99874-button-pop.json) |
 | Button Pressing Simulator | 156526 | [156526-button-pressing-simulator.json](./156526-button-pressing-simulator.json) |
 | Button Prison | 337526 | [337526-button-prison.json](./337526-button-prison.json) |
 | Button Soccer League | 167500 | [167500-button-soccer-league.json](./167500-button-soccer-league.json) |
