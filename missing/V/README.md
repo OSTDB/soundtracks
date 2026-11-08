@@ -749,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampires: Bloodlust | 68009 | [68009-vampires-bloodlust.json](./68009-vampires-bloodlust.json) |
 | Vampires: Guide Them to Safety! | 17945 | [17945-vampires-guide-them-to-safety.json](./17945-vampires-guide-them-to-safety.json) |
 | Vampires: The New Birth | 184778 | [184778-vampires-the-new-birth.json](./184778-vampires-the-new-birth.json) |
+| Vampires: Todd and Jessica's Story | 119194 | [119194-vampires-todd-and-jessicas-story.json](./119194-vampires-todd-and-jessicas-story.json) |
 | Vampires! | 63616 | [63616-vampires.json](./63616-vampires.json) |
 | Vampires' Melody | 169435 | [169435-vampires-melody.json](./169435-vampires-melody.json) |
 | Vampires' Melody 2 | 266011 | [266011-vampires-melody-2.json](./266011-vampires-melody-2.json) |
