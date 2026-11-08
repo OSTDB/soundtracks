@@ -682,6 +682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Won't Forget Hue | 231156 | [231156-i-wont-forget-hue.json](./231156-i-wont-forget-hue.json) |
 | I Won’t Let You Level up in My Goblin Town | 378424 | [378424-i-won-t-let-you-level-up-in-my-goblin-town.json](./378424-i-won-t-let-you-level-up-in-my-goblin-town.json) |
 | I Won't Slay Dragons for You | 206581 | [206581-i-wont-slay-dragons-for-you.json](./206581-i-wont-slay-dragons-for-you.json) |
+| I wonder... | 138330 | [138330-i-wonder.json](./138330-i-wonder.json) |
 | I Work As An Exorcist | 381980 | [381980-i-work-as-an-exorcist.json](./381980-i-work-as-an-exorcist.json) |
 | I Would Like a Snack | 397377 | [397377-i-would-like-a-snack.json](./397377-i-would-like-a-snack.json) |
 | I Would Love to Wish You Good Morning | 372970 | [372970-i-would-love-to-wish-you-good-morning.json](./372970-i-would-love-to-wish-you-good-morning.json) |
@@ -3939,7 +3940,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
