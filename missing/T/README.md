@@ -3205,6 +3205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tech Blast | 368482 | [368482-tech-blast.json](./368482-tech-blast.json) |
 | Tech Clash | 123796 | [123796-tech-clash.json](./123796-tech-clash.json) |
 | Tech Corp. | 107992 | [107992-tech-corp.json](./107992-tech-corp.json) |
+| Tech Deck Dude Bare Knuckle Grind | 110580 | [110580-tech-deck-dude-bare-knuckle-grind.json](./110580-tech-deck-dude-bare-knuckle-grind.json) |
 | Tech Deck Snowboarding | 206611 | [206611-tech-deck-snowboarding.json](./206611-tech-deck-snowboarding.json) |
 | Tech Disorder | 291258 | [291258-tech-disorder.json](./291258-tech-disorder.json) |
 | Tech Executive Tycoon | 17036 | [17036-tech-executive-tycoon.json](./17036-tech-executive-tycoon.json) |
@@ -16406,6 +16407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret of NecroNancy | 283802 | [283802-the-secret-of-necronancy.json](./283802-the-secret-of-necronancy.json) |
 | The Secret of Pineview Forest | 33267 | [33267-the-secret-of-pineview-forest.json](./33267-the-secret-of-pineview-forest.json) |
 | The Secret of Porta Piratica | 255863 | [255863-the-secret-of-porta-piratica.json](./255863-the-secret-of-porta-piratica.json) |
+| The Secret of Puffin Cove | 110462 | [110462-the-secret-of-puffin-cove.json](./110462-the-secret-of-puffin-cove.json) |
 | The Secret of Raven Rock | 89708 | [89708-the-secret-of-raven-rock.json](./89708-the-secret-of-raven-rock.json) |
 | The Secret of Retropolis | 159767 | [159767-the-secret-of-retropolis.json](./159767-the-secret-of-retropolis.json) |
 | The Secret of Rooms | 207518 | [207518-the-secret-of-rooms.json](./207518-the-secret-of-rooms.json) |
@@ -23831,6 +23833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tinkertown | 133078 | [133078-tinkertown.json](./133078-tinkertown.json) |
 | Tinkertown x Among Us | 222931 | [222931-tinkertown-x-among-us.json](./222931-tinkertown-x-among-us.json) |
 | Tinkle Pit | 59666 | [59666-tinkle-pit.json](./59666-tinkle-pit.json) |
+| Tinkr Garage | 110452 | [110452-tinkr-garage.json](./110452-tinkr-garage.json) |
 | Tinny Strays | 409507 | [409507-tinny-strays.json](./409507-tinny-strays.json) |
 | Tino's Fruit Stand | 327254 | [327254-tinos-fruit-stand.json](./327254-tinos-fruit-stand.json) |
 | Tinselfly | 121312 | [121312-tinselfly.json](./121312-tinselfly.json) |
@@ -32580,6 +32583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Reporter: Mystery of Mistwood | 278000 | [278000-true-reporter-mystery-of-mistwood.json](./278000-true-reporter-mystery-of-mistwood.json) |
 | True Speed | 223880 | [223880-true-speed.json](./223880-true-speed.json) |
 | True Stalker | 280962 | [280962-true-stalker.json](./280962-true-stalker.json) |
+| True Surf | 110577 | [110577-true-surf.json](./110577-true-surf.json) |
 | True Survivor | 131693 | [131693-true-survivor.json](./131693-true-survivor.json) |
 | True Survivors Bundle | 250556 | [250556-true-survivors-bundle.json](./250556-true-survivors-bundle.json) |
 | True Swing Golf | 20493 | [20493-true-swing-golf.json](./20493-true-swing-golf.json) |
@@ -34039,6 +34043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Tower | 269507 | [269507-twisted-tower.json](./269507-twisted-tower.json) |
 | Twisted Toys | 373226 | [373226-twisted-toys.json](./373226-twisted-toys.json) |
 | Twisted Waters | 295283 | [295283-twisted-waters.json](./295283-twisted-waters.json) |
+| Twisted Weapons | 110492 | [110492-twisted-weapons.json](./110492-twisted-weapons.json) |
 | Twisted Worlds | 32918 | [32918-twisted-worlds.json](./32918-twisted-worlds.json) |
 | Twisted: A Dark Fairytale | 171685 | [171685-twisted-a-dark-fairytale.json](./171685-twisted-a-dark-fairytale.json) |
 | Twisted: A Haunted Carol | 65879 | [65879-twisted-a-haunted-carol.json](./65879-twisted-a-haunted-carol.json) |
@@ -34399,6 +34404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typing Haou: Hokuto no Ken Gekiuchi 2 | 64190 | [64190-typing-haou-hokuto-no-ken-gekiuchi-2.json](./64190-typing-haou-hokuto-no-ken-gekiuchi-2.json) |
 | Typing Hearts | 149091 | [149091-typing-hearts.json](./149091-typing-hearts.json) |
 | Typing Hero | 126428 | [126428-typing-hero.json](./126428-typing-hero.json) |
+| Typing Incremental | 110465 | [110465-typing-incremental.json](./110465-typing-incremental.json) |
 | Typing Instructor for Kids Platinum 5 | 150830 | [150830-typing-instructor-for-kids-platinum-5.json](./150830-typing-instructor-for-kids-platinum-5.json) |
 | Typing Jet | 316927 | [316927-typing-jet.json](./316927-typing-jet.json) |
 | Typing Karaoke | 64362 | [64362-typing-karaoke.json](./64362-typing-karaoke.json) |
