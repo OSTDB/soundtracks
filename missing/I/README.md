@@ -3950,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -7057,6 +7058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iyashikei Action Game | 334626 | [334626-iyashikei-action-game.json](./334626-iyashikei-action-game.json) |
 | Iz | 292515 | [292515-iz.json](./292515-iz.json) |
 | Iz and Auggie: Escape from Dimension Q | 64378 | [64378-iz-and-auggie-escape-from-dimension-q.json](./64378-iz-and-auggie-escape-from-dimension-q.json) |
+| IZ*ONE remember Z | 124374 | [124374-iz-one-remember-z.json](./124374-iz-one-remember-z.json) |
 | Iza, Shutsujin! Koi Ikusa | 56796 | [56796-iza-shutsujin-koi-ikusa.json](./56796-iza-shutsujin-koi-ikusa.json) |
 | Izakaya Izakoza | 412931 | [412931-izakaya-izakoza.json](./412931-izakaya-izakoza.json) |
 | Izakaya Rush | 415886 | [415886-izakaya-rush.json](./415886-izakaya-rush.json) |
