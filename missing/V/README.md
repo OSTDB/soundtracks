@@ -2006,6 +2006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victory Heat Rally | 142489 | [142489-victory-heat-rally.json](./142489-victory-heat-rally.json) |
 | Victory is Justice! | 117092 | [117092-victory-is-justice.json](./117092-victory-is-justice.json) |
 | Victory of Seeker | 338570 | [338570-victory-of-seeker.json](./338570-victory-of-seeker.json) |
+| Victory Project | 106159 | [106159-victory-project.json](./106159-victory-project.json) |
 | Victory Race | 114281 | [114281-victory-race.json](./114281-victory-race.json) |
 | Victory Road | 131819 | [131819-victory-road.json](./131819-victory-road.json) |
 | Victory Road | 376836 | [376836-victory-road.json](./376836-victory-road.json) |
