@@ -693,6 +693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vampire: The Masquerade - Bloodlines 2 - Shadows & Silk | 361902 | [361902-vampire-the-masquerade-bloodlines-2-shadows-and-silk.json](./361902-vampire-the-masquerade-bloodlines-2-shadows-and-silk.json) |
 | Vampire: The Masquerade - Bloodlines 2 - The Flower & the Flame | 370208 | [370208-vampire-the-masquerade-bloodlines-2-the-flower-and-the-flame.json](./370208-vampire-the-masquerade-bloodlines-2-the-flower-and-the-flame.json) |
 | Vampire: The Masquerade - Bloodlines 2 Blood Moon Edition | 117153 | [117153-vampire-the-masquerade-bloodlines-2-blood-moon-edition.json](./117153-vampire-the-masquerade-bloodlines-2-blood-moon-edition.json) |
+| Vampire: The Masquerade - Bloodlines 2 Collector’s Edition | 134800 | [134800-vampire-the-masquerade-bloodlines-2-collector-s-edition.json](./134800-vampire-the-masquerade-bloodlines-2-collector-s-edition.json) |
 | Vampire: The Masquerade - Bloodlines 2 Unsanctioned Edition | 117152 | [117152-vampire-the-masquerade-bloodlines-2-unsanctioned-edition.json](./117152-vampire-the-masquerade-bloodlines-2-unsanctioned-edition.json) |
 | Vampire: The Masquerade - Bloodlines 2: Deluxe Edition | 370896 | [370896-vampire-the-masquerade-bloodlines-2-deluxe-edition.json](./370896-vampire-the-masquerade-bloodlines-2-deluxe-edition.json) |
 | Vampire: The Masquerade - Bloodlines 2: Expansion Pass | 406332 | [406332-vampire-the-masquerade-bloodlines-2-expansion-pass.json](./406332-vampire-the-masquerade-bloodlines-2-expansion-pass.json) |
@@ -1257,6 +1258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veil: Tactics | 304619 | [304619-veil-tactics.json](./304619-veil-tactics.json) |
 | Veilborn | 374945 | [374945-veilborn.json](./374945-veilborn.json) |
 | Veilborne Sacrament | 375532 | [375532-veilborne-sacrament.json](./375532-veilborne-sacrament.json) |
+| Veiled | 134795 | [134795-veiled.json](./134795-veiled.json) |
 | Veiled | 172509 | [172509-veiled.json](./172509-veiled.json) |
 | Veiled Basilisk | 153373 | [153373-veiled-basilisk.json](./153373-veiled-basilisk.json) |
 | Veiled Edge | 253596 | [253596-veiled-edge.json](./253596-veiled-edge.json) |
@@ -2383,6 +2385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vincent | 242243 | [242243-vincent.json](./242243-vincent.json) |
 | Vincent | 310751 | [310751-vincent.json](./310751-vincent.json) |
 | Vincent: Phantom of the G4 | 280725 | [280725-vincent-phantom-of-the-g4.json](./280725-vincent-phantom-of-the-g4.json) |
+| Vincent: The Secret of Myers | 134778 | [134778-vincent-the-secret-of-myers.json](./134778-vincent-the-secret-of-myers.json) |
 | Vincent's Chocolate | 301923 | [301923-vincents-chocolate.json](./301923-vincents-chocolate.json) |
 | Vincent's Horror Story | 238650 | [238650-vincents-horror-story.json](./238650-vincents-horror-story.json) |
 | Vincents Dream | 219895 | [219895-vincents-dream.json](./219895-vincents-dream.json) |
