@@ -17641,6 +17641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DrumMania V8 | 60432 | [60432-drummania-v8.json](./60432-drummania-v8.json) |
 | DrumMasterVR | 120035 | [120035-drummastervr.json](./120035-drummastervr.json) |
 | Drummer Talent VR | 29128 | [29128-drummer-talent-vr.json](./29128-drummer-talent-vr.json) |
+| Drumming VR | 81628 | [81628-drumming-vr.json](./81628-drumming-vr.json) |
 | Drump Simulator | 407362 | [407362-drump-simulator.json](./407362-drump-simulator.json) |
 | Drumpf 2: Lost, But Not Forgotten! | 120366 | [120366-drumpf-2-lost-but-not-forgotten.json](./120366-drumpf-2-lost-but-not-forgotten.json) |
 | Drumpf: Rise Up, Libertonia! | 88017 | [88017-drumpf-rise-up-libertonia.json](./88017-drumpf-rise-up-libertonia.json) |
@@ -19667,6 +19668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwelp | 128547 | [128547-dwelp.json](./128547-dwelp.json) |
 | Dwerg Saga | 134764 | [134764-dwerg-saga.json](./134764-dwerg-saga.json) |
 | Dwingle B.O.T | 37387 | [37387-dwingle-b-o-t.json](./37387-dwingle-b-o-t.json) |
+| DWK 5: Hinter dem Horizont | 81577 | [81577-dwk-5-hinter-dem-horizont.json](./81577-dwk-5-hinter-dem-horizont.json) |
 | Dwoemer of the Drill Faced Goddess | 377597 | [377597-dwoemer-of-the-drill-faced-goddess.json](./377597-dwoemer-of-the-drill-faced-goddess.json) |
 | DX Bakenou Z | 57976 | [57976-dx-bakenou-z.json](./57976-dx-bakenou-z.json) |
 | DX Legends | 334319 | [334319-dx-legends.json](./334319-dx-legends.json) |
