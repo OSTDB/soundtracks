@@ -9072,6 +9072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle | 320435 | [320435-circle.json](./320435-circle.json) |
 | Circle = Circle | 293853 | [293853-circle-circle.json](./293853-circle-circle.json) |
 | Circle Bash | 177755 | [177755-circle-bash.json](./177755-circle-bash.json) |
+| Circle Brawl | 115223 | [115223-circle-brawl.json](./115223-circle-brawl.json) |
 | Circle Breakout | 128577 | [128577-circle-breakout.json](./128577-circle-breakout.json) |
 | Circle Dodge | 267770 | [267770-circle-dodge.json](./267770-circle-dodge.json) |
 | Circle Empires | 104937 | [104937-circle-empires.json](./104937-circle-empires.json) |
@@ -12717,6 +12718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColorTris | 178620 | [178620-colortris.json](./178620-colortris.json) |
 | Coloruid | 409892 | [409892-coloruid.json](./409892-coloruid.json) |
 | ColorUs : My Coloring Books | 99401 | [99401-colorus-my-coloring-books.json](./99401-colorus-my-coloring-books.json) |
+| Colorvore | 115245 | [115245-colorvore.json](./115245-colorvore.json) |
 | Colorway Antics | 235796 | [235796-colorway-antics.json](./235796-colorway-antics.json) |
 | Colorwood Sort | 351671 | [351671-colorwood-sort.json](./351671-colorwood-sort.json) |
 | Colorwood Words | 354395 | [354395-colorwood-words.json](./354395-colorwood-words.json) |
@@ -20389,6 +20391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursflip | 380630 | [380630-cursflip.json](./380630-cursflip.json) |
 | Cursifix | 376638 | [376638-cursifix.json](./376638-cursifix.json) |
 | Cursor | 352340 | [352340-cursor.json](./352340-cursor.json) |
+| Cursor - by Mr iLyn. | 115234 | [115234-cursor-by-mr-ilyn.json](./115234-cursor-by-mr-ilyn.json) |
 | Cursor & Meow | 306998 | [306998-cursor-and-meow.json](./306998-cursor-and-meow.json) |
 | Cursor Blast | 348439 | [348439-cursor-blast.json](./348439-cursor-blast.json) |
 | Cursor Camp | 402092 | [402092-cursor-camp.json](./402092-cursor-camp.json) |
