@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Taisen | 71399 | [71399-sakura-taisen.json](./71399-sakura-taisen.json) |
 | Sakura Taisen 1 & 2 | 62140 | [62140-sakura-taisen-1-and-2.json](./62140-sakura-taisen-1-and-2.json) |
 | Sakura Taisen 3: Paris ha Moeteiru ka? | 80143 | [80143-sakura-taisen-3-paris-ha-moeteiru-ka.json](./80143-sakura-taisen-3-paris-ha-moeteiru-ka.json) |
+| Sakura Taisen GB: Geki Hanagumi Nyuutai! | 79482 | [79482-sakura-taisen-gb-geki-hanagumi-nyuutai.json](./79482-sakura-taisen-gb-geki-hanagumi-nyuutai.json) |
 | Sakura Taisen GB2 | 65844 | [65844-sakura-taisen-gb2.json](./65844-sakura-taisen-gb2.json) |
 | Sakura Taisen Hanagumi Tsuushin | 62123 | [62123-sakura-taisen-hanagumi-tsuushin.json](./62123-sakura-taisen-hanagumi-tsuushin.json) |
 | Sakura Taisen Monogatari: Mysterious Paris | 73236 | [73236-sakura-taisen-monogatari-mysterious-paris.json](./73236-sakura-taisen-monogatari-mysterious-paris.json) |
@@ -3194,6 +3195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schwarzesmarken: Junkyousha-tachi | 374377 | [374377-schwarzesmarken-junkyousha-tachi.json](./374377-schwarzesmarken-junkyousha-tachi.json) |
 | Schwarzesmarken: Kouketsu no Monshou | 374363 | [374363-schwarzesmarken-kouketsu-no-monshou.json](./374363-schwarzesmarken-kouketsu-no-monshou.json) |
 | Schwarzschild EX | 94112 | [94112-schwarzschild-ex.json](./94112-schwarzschild-ex.json) |
+| Schwarzschild EX: Tessa no Seigun | 79440 | [79440-schwarzschild-ex-tessa-no-seigun.json](./79440-schwarzschild-ex-tessa-no-seigun.json) |
 | Schwarzschild GX: Sabita Sousei | 91645 | [91645-schwarzschild-gx-sabita-sousei.json](./91645-schwarzschild-gx-sabita-sousei.json) |
 | Schwarzwald | 223331 | [223331-schwarzwald.json](./223331-schwarzwald.json) |
 | Schwebebahn Simulator 2013 | 241490 | [241490-schwebebahn-simulator-2013.json](./241490-schwebebahn-simulator-2013.json) |
@@ -11929,6 +11931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sips and Sonnets | 346739 | [346739-sips-and-sonnets.json](./346739-sips-and-sonnets.json) |
 | Sipssassin | 295228 | [295228-sipssassin.json](./295228-sipssassin.json) |
 | Sir Ababol: Remastered Edition | 194641 | [194641-sir-ababol-remastered-edition.json](./194641-sir-ababol-remastered-edition.json) |
+| Sir AddaLot's "Mini" Math Adventure | 79472 | [79472-sir-addalots-mini-math-adventure.json](./79472-sir-addalots-mini-math-adventure.json) |
 | Sir Basil Pike Public School | 262163 | [262163-sir-basil-pike-public-school.json](./262163-sir-basil-pike-public-school.json) |
 | Sir Bob: Squire for Hire | 275968 | [275968-sir-bob-squire-for-hire.json](./275968-sir-bob-squire-for-hire.json) |
 | Sir Bucket | 295139 | [295139-sir-bucket.json](./295139-sir-bucket.json) |
@@ -15791,6 +15794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snook | 208737 | [208737-snook.json](./208737-snook.json) |
 | Snook | 268780 | [268780-snook.json](./268780-snook.json) |
 | Snooker | 330780 | [330780-snooker.json](./330780-snooker.json) |
+| Snooker | 79490 | [79490-snooker.json](./79490-snooker.json) |
 | Snooker 19 | 111153 | [111153-snooker-19.json](./111153-snooker-19.json) |
 | Snooker 19: Gold Edition | 136015 | [136015-snooker-19-gold-edition.json](./136015-snooker-19-gold-edition.json) |
 | Snooker Blitz | 315913 | [315913-snooker-blitz.json](./315913-snooker-blitz.json) |
@@ -23415,6 +23419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Champions / Medieval Moves: Deadmund's Quest Combo Pack | 268744 | [268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json](./268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json) |
 | Sports Champions 2 | 18238 | [18238-sports-champions-2.json](./18238-sports-champions-2.json) |
 | Sports Club Boyfriend: Secrets of BL Academy | 268657 | [268657-sports-club-boyfriend-secrets-of-bl-academy.json](./268657-sports-club-boyfriend-secrets-of-bl-academy.json) |
+| Sports Collection | 79444 | [79444-sports-collection.json](./79444-sports-collection.json) |
 | Sports Desk with Jim Shortz | 133534 | [133534-sports-desk-with-jim-shortz.json](./133534-sports-desk-with-jim-shortz.json) |
 | Sports Feel Baseball | 218010 | [218010-sports-feel-baseball.json](./218010-sports-feel-baseball.json) |
 | Sports Feel Fishing Champion | 218011 | [218011-sports-feel-fishing-champion.json](./218011-sports-feel-fishing-champion.json) |
