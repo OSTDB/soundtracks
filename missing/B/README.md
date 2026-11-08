@@ -9270,6 +9270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Queen | 13697 | [13697-black-queen.json](./13697-black-queen.json) |
 | Black Rain | 345445 | [345445-black-rain.json](./345445-black-rain.json) |
 | Black Rainbow | 370780 | [370780-black-rainbow.json](./370780-black-rainbow.json) |
+| Black Raven | 119139 | [119139-black-raven.json](./119139-black-raven.json) |
 | Black Raven | 330354 | [330354-black-raven.json](./330354-black-raven.json) |
 | Black Raven: New Missions | 299546 | [299546-black-raven-new-missions.json](./299546-black-raven-new-missions.json) |
 | Black Relic | 227909 | [227909-black-relic.json](./227909-black-relic.json) |
@@ -10848,6 +10849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockour | 184382 | [184382-blockour.json](./184382-blockour.json) |
 | Blockout | 10208 | [10208-blockout.json](./10208-blockout.json) |
 | Blockout | 347672 | [347672-blockout.json](./347672-blockout.json) |
+| Blockout! / Breakdown! | 119154 | [119154-blockout-breakdown.json](./119154-blockout-breakdown.json) |
 | Blockoverse: The Legend of the Pix | 321070 | [321070-blockoverse-the-legend-of-the-pix.json](./321070-blockoverse-the-legend-of-the-pix.json) |
 | Blockpocalypse | 33768 | [33768-blockpocalypse.json](./33768-blockpocalypse.json) |
 | Blockpop Heroes | 219211 | [219211-blockpop-heroes.json](./219211-blockpop-heroes.json) |
@@ -13786,6 +13788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BOT.vinnik Chess: Opening Traps | 163686 | [163686-bot-vinnik-chess-opening-traps.json](./163686-bot-vinnik-chess-opening-traps.json) |
 | BOT.vinnik Chess: Prodigies | 223498 | [223498-bot-vinnik-chess-prodigies.json](./223498-bot-vinnik-chess-prodigies.json) |
 | Bot.vinnik Chess: Winning Patterns | 254119 | [254119-bot-vinnik-chess-winning-patterns.json](./254119-bot-vinnik-chess-winning-patterns.json) |
+| Botafogo | 119140 | [119140-botafogo.json](./119140-botafogo.json) |
 | Botan's Bird Beats | 309968 | [309968-botans-bird-beats.json](./309968-botans-bird-beats.json) |
 | Botanic | 240028 | [240028-botanic.json](./240028-botanic.json) |
 | Botanic Bits | 360872 | [360872-botanic-bits.json](./360872-botanic-bits.json) |
@@ -13846,6 +13849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bottle Cracks | 230497 | [230497-bottle-cracks.json](./230497-bottle-cracks.json) |
 | Bottle Empire | 257249 | [257249-bottle-empire.json](./257249-bottle-empire.json) |
 | Bottle Flip | 90760 | [90760-bottle-flip.json](./90760-bottle-flip.json) |
+| Bottle Flip 3D | 119199 | [119199-bottle-flip-3d.json](./119199-bottle-flip-3d.json) |
 | Bottle Flip Challenge VR | 28798 | [28798-bottle-flip-challenge-vr.json](./28798-bottle-flip-challenge-vr.json) |
 | Bottle Flip VR | 159895 | [159895-bottle-flip-vr.json](./159895-bottle-flip-vr.json) |
 | Bottle Flip! | 97099 | [97099-bottle-flip.json](./97099-bottle-flip.json) |
@@ -16782,6 +16786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Jcat | 183950 | [183950-bubble-jcat.json](./183950-bubble-jcat.json) |
 | Bubble Jungle | 31209 | [31209-bubble-jungle.json](./31209-bubble-jungle.json) |
 | Bubble Labs VR | 31324 | [31324-bubble-labs-vr.json](./31324-bubble-labs-vr.json) |
+| Bubble Land | 119141 | [119141-bubble-land.json](./119141-bubble-land.json) |
 | Bubble Lead | 359371 | [359371-bubble-lead.json](./359371-bubble-lead.json) |
 | Bubble Mags | 90388 | [90388-bubble-mags.json](./90388-bubble-mags.json) |
 | Bubble Melody | 254410 | [254410-bubble-melody.json](./254410-bubble-melody.json) |
@@ -17702,6 +17707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bumper.io | 106376 | [106376-bumper-io.json](./106376-bumper-io.json) |
 | Bumpers & Broadswords | 201117 | [201117-bumpers-and-broadswords.json](./201117-bumpers-and-broadswords.json) |
 | Bumpers & Broadswords Mini | 411357 | [411357-bumpers-and-broadswords-mini.json](./411357-bumpers-and-broadswords-mini.json) |
+| Bumpin' Dungeon | 119211 | [119211-bumpin-dungeon.json](./119211-bumpin-dungeon.json) |
 | Bumpkin & Sprout | 369531 | [369531-bumpkin-and-sprout.json](./369531-bumpkin-and-sprout.json) |
 | Bumpkin and Sprout | 270025 | [270025-bumpkin-and-sprout.json](./270025-bumpkin-and-sprout.json) |
 | Bumps | 21265 | [21265-bumps.json](./21265-bumps.json) |
