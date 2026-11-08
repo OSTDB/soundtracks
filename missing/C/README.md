@@ -4339,6 +4339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacomb Kids | 17692 | [17692-catacomb-kids.json](./17692-catacomb-kids.json) |
 | Catacomb Kitties | 224207 | [224207-catacomb-kitties.json](./224207-catacomb-kitties.json) |
 | Catacomb Master | 246783 | [246783-catacomb-master.json](./246783-catacomb-master.json) |
+| Catacomb Prince | 123150 | [123150-catacomb-prince.json](./123150-catacomb-prince.json) |
 | Catacomb Snatch | 65388 | [65388-catacomb-snatch.json](./65388-catacomb-snatch.json) |
 | Catacomb Towers | 316075 | [316075-catacomb-towers.json](./316075-catacomb-towers.json) |
 | Catacombia | 154913 | [154913-catacombia.json](./154913-catacombia.json) |
@@ -9782,6 +9783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claim the Forest | 366209 | [366209-claim-the-forest.json](./366209-claim-the-forest.json) |
 | Claim the Forest: Settling Peace | 399618 | [399618-claim-the-forest-settling-peace.json](./399618-claim-the-forest-settling-peace.json) |
 | Claim thy Land | 395079 | [395079-claim-thy-land.json](./395079-claim-thy-land.json) |
+| Claim to Power: Der Machtkampf | 123158 | [123158-claim-to-power-der-machtkampf.json](./123158-claim-to-power-der-machtkampf.json) |
 | Claim your Free BitBuddy Today! | 197064 | [197064-claim-your-free-bitbuddy-today.json](./197064-claim-your-free-bitbuddy-today.json) |
 | Claims & Caverns | 414284 | [414284-claims-and-caverns.json](./414284-claims-and-caverns.json) |
 | Clair & Lune | 184768 | [184768-clair-and-lune.json](./184768-clair-and-lune.json) |
@@ -15462,6 +15464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Slime Defense | 287202 | [287202-cosmic-slime-defense.json](./287202-cosmic-slime-defense.json) |
 | Cosmic Smash | 6729 | [6729-cosmic-smash.json](./6729-cosmic-smash.json) |
 | Cosmic Snake 8473/3671 | 101250 | [101250-cosmic-snake-8473-3671.json](./101250-cosmic-snake-8473-3671.json) |
+| Cosmic Soldier | 123166 | [123166-cosmic-soldier.json](./123166-cosmic-soldier.json) |
 | Cosmic Soldier | 7544 | [7544-cosmic-soldier.json](./7544-cosmic-soldier.json) |
 | Cosmic Soldier 2: Psychic War | 62622 | [62622-cosmic-soldier-2-psychic-war.json](./62622-cosmic-soldier-2-psychic-war.json) |
 | Cosmic Spacehead | 12013 | [12013-cosmic-spacehead.json](./12013-cosmic-spacehead.json) |
@@ -15592,6 +15595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmos | 76611 | [76611-cosmos.json](./76611-cosmos.json) |
 | Cosmos Bit | 182231 | [182231-cosmos-bit.json](./182231-cosmos-bit.json) |
 | Cosmos Cat | 265486 | [265486-cosmos-cat.json](./265486-cosmos-cat.json) |
+| Cosmos Chaos! | 123139 | [123139-cosmos-chaos.json](./123139-cosmos-chaos.json) |
 | Cosmos Club | 270747 | [270747-cosmos-club.json](./270747-cosmos-club.json) |
 | Cosmos Conquer | 188451 | [188451-cosmos-conquer.json](./188451-cosmos-conquer.json) |
 | Cosmos Cop | 48314 | [48314-cosmos-cop.json](./48314-cosmos-cop.json) |
@@ -19172,6 +19176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Squad | 236503 | [236503-crystal-squad.json](./236503-crystal-squad.json) |
 | Crystal Stacker | 57452 | [57452-crystal-stacker.json](./57452-crystal-stacker.json) |
 | Crystal Storm | 235194 | [235194-crystal-storm.json](./235194-crystal-storm.json) |
+| Crystal Story | 123183 | [123183-crystal-story.json](./123183-crystal-story.json) |
 | Crystal Story II | 35874 | [35874-crystal-story-ii.json](./35874-crystal-story-ii.json) |
 | Crystal Story: Awakening | 134771 | [134771-crystal-story-awakening.json](./134771-crystal-story-awakening.json) |
 | Crystal Story: Dawn of Dusk | 190972 | [190972-crystal-story-dawn-of-dusk.json](./190972-crystal-story-dawn-of-dusk.json) |
