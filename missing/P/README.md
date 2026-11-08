@@ -2835,6 +2835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passing Wings | 97633 | [97633-passing-wings.json](./97633-passing-wings.json) |
 | Passion Bay | 402148 | [402148-passion-bay.json](./402148-passion-bay.json) |
 | Passion Industry | 385690 | [385690-passion-industry.json](./385690-passion-industry.json) |
+| Passion Puzzle | 119185 | [119185-passion-puzzle.json](./119185-passion-puzzle.json) |
 | Passion Puzzle: Hentai Maidens! | 356527 | [356527-passion-puzzle-hentai-maidens.json](./356527-passion-puzzle-hentai-maidens.json) |
 | Passion Rift | 369776 | [369776-passion-rift.json](./369776-passion-rift.json) |
 | Passioners | 379534 | [379534-passioners.json](./379534-passioners.json) |
@@ -13531,6 +13532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potion Explosion: The Fifth Ingredient | 171463 | [171463-potion-explosion-the-fifth-ingredient.json](./171463-potion-explosion-the-fifth-ingredient.json) |
 | Potion in Motion | 341559 | [341559-potion-in-motion.json](./341559-potion-in-motion.json) |
 | Potion Lore | 56919 | [56919-potion-lore.json](./56919-potion-lore.json) |
+| Potion Maker | 119210 | [119210-potion-maker.json](./119210-potion-maker.json) |
 | Potion Meister | 163834 | [163834-potion-meister.json](./163834-potion-meister.json) |
 | Potion Notions | 176993 | [176993-potion-notions.json](./176993-potion-notions.json) |
 | Potion Panic 2 | 389200 | [389200-potion-panic-2.json](./389200-potion-panic-2.json) |
