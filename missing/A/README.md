@@ -4504,6 +4504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After-H: Legend of Mars | 141799 | [141799-after-h-legend-of-mars.json](./141799-after-h-legend-of-mars.json) |
 | After-H: Moon of the Dead | 362257 | [362257-after-h-moon-of-the-dead.json](./362257-after-h-moon-of-the-dead.json) |
 | After-Image | 362285 | [362285-after-image.json](./362285-after-image.json) |
+| After-school Maihime Club: Girl's Holiday | 97940 | [97940-after-school-maihime-club-girls-holiday.json](./97940-after-school-maihime-club-girls-holiday.json) |
 | After... Prologue | 405063 | [405063-after-prologue.json](./405063-after-prologue.json) |
 | After... Wasureenu Kizuna | 283252 | [283252-after-wasureenu-kizuna.json](./283252-after-wasureenu-kizuna.json) |
 | Afterbeat | 33564 | [33564-afterbeat.json](./33564-afterbeat.json) |
@@ -18718,6 +18719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ayakashigami | 90495 | [90495-ayakashigami.json](./90495-ayakashigami.json) |
 | Ayako's Mission | 254017 | [254017-ayakos-mission.json](./254017-ayakos-mission.json) |
 | Ayame no Machi to Ohime-sama | 194546 | [194546-ayame-no-machi-to-ohime-sama.json](./194546-ayame-no-machi-to-ohime-sama.json) |
+| Ayame: Ningyou Ingi | 97602 | [97602-ayame-ningyou-ingi.json](./97602-ayame-ningyou-ingi.json) |
 | Ayano's Lovesick Labyrinth | 270509 | [270509-ayanos-lovesick-labyrinth.json](./270509-ayanos-lovesick-labyrinth.json) |
 | Ayasa: Shadows of Silence | 319650 | [319650-ayasa-shadows-of-silence.json](./319650-ayasa-shadows-of-silence.json) |
 | Ayatana | 211291 | [211291-ayatana.json](./211291-ayatana.json) |
