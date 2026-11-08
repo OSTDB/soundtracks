@@ -1628,6 +1628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Ressha de Ikou II: 5th Anniversary Special Limited Edition | 285135 | [285135-a-ressha-de-ikou-ii-5th-anniversary-special-limited-edition.json](./285135-a-ressha-de-ikou-ii-5th-anniversary-special-limited-edition.json) |
 | A-Ressha de Ikou II: Shin Map | 285133 | [285133-a-ressha-de-ikou-ii-shin-map.json](./285133-a-ressha-de-ikou-ii-shin-map.json) |
 | A-Ressha de Ikou III | 285141 | [285141-a-ressha-de-ikou-iii.json](./285141-a-ressha-de-ikou-iii.json) |
+| A-Ressha de Ikou MD | 92583 | [92583-a-ressha-de-ikou-md.json](./92583-a-ressha-de-ikou-md.json) |
 | A-Ressha de Ikou Z: Mezase! Tairiku Oudan | 98275 | [98275-a-ressha-de-ikou-z-mezase-tairiku-oudan.json](./98275-a-ressha-de-ikou-z-mezase-tairiku-oudan.json) |
 | A-Ressha de Ikou: The 21st Century | 9999 | [9999-a-ressha-de-ikou-the-21st-century.json](./9999-a-ressha-de-ikou-the-21st-century.json) |
 | A-Ressha de Ikou: The 21st Century - Limited Edition | 272678 | [272678-a-ressha-de-ikou-the-21st-century-limited-edition.json](./272678-a-ressha-de-ikou-the-21st-century-limited-edition.json) |
@@ -11459,6 +11460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antique Dealer Simulator | 382832 | [382832-antique-dealer-simulator.json](./382832-antique-dealer-simulator.json) |
 | Antique Restorer | 236801 | [236801-antique-restorer.json](./236801-antique-restorer.json) |
 | Antique Road Trip 2: Homecoming | 65725 | [65725-antique-road-trip-2-homecoming.json](./65725-antique-road-trip-2-homecoming.json) |
+| Antique Road Trip USA | 92561 | [92561-antique-road-trip-usa.json](./92561-antique-road-trip-usa.json) |
 | Antique Shop | 65011 | [65011-antique-shop.json](./65011-antique-shop.json) |
 | Antiques Roadshow | 52414 | [52414-antiques-roadshow.json](./52414-antiques-roadshow.json) |
 | Antiquia Lost | 39009 | [39009-antiquia-lost.json](./39009-antiquia-lost.json) |
@@ -11686,6 +11688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aozora Stripe | 77722 | [77722-aozora-stripe.json](./77722-aozora-stripe.json) |
 | Aozora Under Girls: Karsome Irony | 119755 | [119755-aozora-under-girls-karsome-irony.json](./119755-aozora-under-girls-karsome-irony.json) |
 | Aozora Under Girls! | 54933 | [54933-aozora-under-girls.json](./54933-aozora-under-girls.json) |
+| Apachacha | 92565 | [92565-apachacha.json](./92565-apachacha.json) |
 | Apache | 245155 | [245155-apache.json](./245155-apache.json) |
 | Apache | 600 | [600-apache.json](./600-apache.json) |
 | Apache 3 | 39322 | [39322-apache-3.json](./39322-apache-3.json) |
@@ -17121,7 +17124,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -18195,6 +18197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Arena | 195022 | [195022-avatar-arena.json](./195022-avatar-arena.json) |
 | Avatar Avenue | 77573 | [77573-avatar-avenue.json](./77573-avatar-avenue.json) |
 | Avatar Boogie | 92429 | [92429-avatar-boogie.json](./92429-avatar-boogie.json) |
+| Avatar Bump! | 92573 | [92573-avatar-bump.json](./92573-avatar-bump.json) |
 | Avatar Bumpercars | 93928 | [93928-avatar-bumpercars.json](./93928-avatar-bumpercars.json) |
 | Avatar Calendar | 92377 | [92377-avatar-calendar.json](./92377-avatar-calendar.json) |
 | Avatar Cannon | 92376 | [92376-avatar-cannon.json](./92376-avatar-cannon.json) |
@@ -18217,6 +18220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Legends: The Fighting Game - Deluxe Edition | 412376 | [412376-avatar-legends-the-fighting-game-deluxe-edition.json](./412376-avatar-legends-the-fighting-game-deluxe-edition.json) |
 | Avatar Life | 151848 | [151848-avatar-life.json](./151848-avatar-life.json) |
 | Avatar Ninja! | 94738 | [94738-avatar-ninja.json](./94738-avatar-ninja.json) |
+| Avatar Ninja! 2 | 92571 | [92571-avatar-ninja-2.json](./92571-avatar-ninja-2.json) |
 | Avatar of the Wolf | 36829 | [36829-avatar-of-the-wolf.json](./36829-avatar-of-the-wolf.json) |
 | Avatar of War: The Dark Lord | 200296 | [200296-avatar-of-war-the-dark-lord.json](./200296-avatar-of-war-the-dark-lord.json) |
 | Avatar Onslaught 2 | 77594 | [77594-avatar-onslaught-2.json](./77594-avatar-onslaught-2.json) |
