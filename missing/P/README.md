@@ -15763,6 +15763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Fishing 2 | 255695 | [255695-professional-fishing-2.json](./255695-professional-fishing-2.json) |
 | Professional Lumberjack 2015 | 9213 | [9213-professional-lumberjack-2015.json](./9213-professional-lumberjack-2015.json) |
 | Professional Lumberjack 2016 | 84807 | [84807-professional-lumberjack-2016.json](./84807-professional-lumberjack-2016.json) |
+| Professional Mahjong | 82274 | [82274-professional-mahjong.json](./82274-professional-mahjong.json) |
 | Professional Mahjong Gokuu | 41394 | [41394-professional-mahjong-gokuu.json](./41394-professional-mahjong-gokuu.json) |
 | Professional Mahjong Kiwame | 97871 | [97871-professional-mahjong-kiwame.json](./97871-professional-mahjong-kiwame.json) |
 | Professional Money Relocator | 410600 | [410600-professional-money-relocator.json](./410600-professional-money-relocator.json) |
