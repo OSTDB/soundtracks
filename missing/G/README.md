@@ -4018,6 +4018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost'n Brothers | 166301 | [166301-ghostn-brothers.json](./166301-ghostn-brothers.json) |
 | Ghost's Timepeices | 235599 | [235599-ghosts-timepeices.json](./235599-ghosts-timepeices.json) |
 | Ghost's Way | 180182 | [180182-ghosts-way.json](./180182-ghosts-way.json) |
+| GHost93 | 133573 | [133573-ghost93.json](./133573-ghost93.json) |
 | Ghostanoid | 142311 | [142311-ghostanoid.json](./142311-ghostanoid.json) |
 | Ghostball | 126881 | [126881-ghostball.json](./126881-ghostball.json) |
 | Ghostbane | 286621 | [286621-ghostbane.json](./286621-ghostbane.json) |
@@ -6660,6 +6661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Tee 2K | 39327 | [39327-golden-tee-2k.json](./39327-golden-tee-2k.json) |
 | Golden Tee Arcade Classics | 350460 | [350460-golden-tee-arcade-classics.json](./350460-golden-tee-arcade-classics.json) |
 | Golden Tee Classic | 39355 | [39355-golden-tee-classic.json](./39355-golden-tee-classic.json) |
+| Golden Tee Fore! | 133536 | [133536-golden-tee-fore.json](./133536-golden-tee-fore.json) |
 | Golden Tee Golf | 17263 | [17263-golden-tee-golf.json](./17263-golden-tee-golf.json) |
 | Golden Tee Golf | 198749 | [198749-golden-tee-golf.json](./198749-golden-tee-golf.json) |
 | Golden Tee Golf | 220538 | [220538-golden-tee-golf.json](./220538-golden-tee-golf.json) |
@@ -9256,6 +9258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grey Lucidity | 154055 | [154055-grey-lucidity.json](./154055-grey-lucidity.json) |
 | Grey Matter | 78518 | [78518-grey-matter.json](./78518-grey-matter.json) |
 | Grey Phobia | 32925 | [32925-grey-phobia.json](./32925-grey-phobia.json) |
+| Grey Plague | 133572 | [133572-grey-plague.json](./133572-grey-plague.json) |
 | Grey Scout | 139213 | [139213-grey-scout.json](./139213-grey-scout.json) |
 | Grey Skies: A War of the Worlds Story | 140628 | [140628-grey-skies-a-war-of-the-worlds-story.json](./140628-grey-skies-a-war-of-the-worlds-story.json) |
 | Grey Tower | 171230 | [171230-grey-tower.json](./171230-grey-tower.json) |
