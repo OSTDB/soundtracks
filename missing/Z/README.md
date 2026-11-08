@@ -319,6 +319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zǎojiào Lèyuán: Wǒ de Tónghuà Huìběn - Xiǎo Hǎitù de Gùshì | 260973 | [260973-zaojiao-leyuan-wo-de-tonghua-huiben-xiao-haitu-de-gushi.json](./260973-zaojiao-leyuan-wo-de-tonghua-huiben-xiao-haitu-de-gushi.json) |
 | Zaos | 141408 | [141408-zaos.json](./141408-zaos.json) |
 | Zap 21 | 78067 | [78067-zap-21.json](./78067-zap-21.json) |
+| Zap Blastum | 113126 | [113126-zap-blastum.json](./113126-zap-blastum.json) |
 | Zap Dem Rats | 195194 | [195194-zap-dem-rats.json](./195194-zap-dem-rats.json) |
 | Zap Line : Connect the Ends Puzzle Game | 105915 | [105915-zap-line-connect-the-ends-puzzle-game.json](./105915-zap-line-connect-the-ends-puzzle-game.json) |
 | Zap to It! | 234893 | [234893-zap-to-it.json](./234893-zap-to-it.json) |
@@ -412,6 +413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zcrew: The Void Realm | 246757 | [246757-zcrew-the-void-realm.json](./246757-zcrew-the-void-realm.json) |
 | ZCurse | 348757 | [348757-zcurse.json](./348757-zcurse.json) |
 | Zday Survival Simulator | 202840 | [202840-zday-survival-simulator.json](./202840-zday-survival-simulator.json) |
+| ZDF History 360°: Tempelhof | 113235 | [113235-zdf-history-360-tempelhof.json](./113235-zdf-history-360-tempelhof.json) |
 | ZDog Hotel Hero Z | 305849 | [305849-zdog-hotel-hero-z.json](./305849-zdog-hotel-hero-z.json) |
 | ZDoom Adventures! | 252215 | [252215-zdoom-adventures.json](./252215-zdoom-adventures.json) |
 | ZDoom Community Map Project II | 312593 | [312593-zdoom-community-map-project-ii.json](./312593-zdoom-community-map-project-ii.json) |
