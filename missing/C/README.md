@@ -953,6 +953,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Callthem | 224853 | [224853-callthem.json](./224853-callthem.json) |
 | Calluna | 173248 | [173248-calluna.json](./173248-calluna.json) |
 | Callus | 387375 | [387375-callus.json](./387375-callus.json) |
+| Cally's Caves | 82287 | [82287-callys-caves.json](./82287-callys-caves.json) |
+| Cally's Caves 2 | 82286 | [82286-callys-caves-2.json](./82286-callys-caves-2.json) |
 | Cally's Caves 3 | 34076 | [34076-callys-caves-3.json](./34076-callys-caves-3.json) |
 | Cally's Caves 4 | 81211 | [81211-callys-caves-4.json](./81211-callys-caves-4.json) |
 | Cally's Caves Definitive Collection | 52714 | [52714-callys-caves-definitive-collection.json](./52714-callys-caves-definitive-collection.json) |
