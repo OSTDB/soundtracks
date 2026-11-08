@@ -11129,6 +11129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunt | 220689 | [220689-the-hunt.json](./220689-the-hunt.json) |
 | The Hunt | 265841 | [265841-the-hunt.json](./265841-the-hunt.json) |
 | The Hunt | 37053 | [37053-the-hunt.json](./37053-the-hunt.json) |
+| The Hunt - Sophie's Journey | 117895 | [117895-the-hunt-sophies-journey.json](./117895-the-hunt-sophies-journey.json) |
 | The Hunt : Rebuilt | 25110 | [25110-the-hunt-rebuilt.json](./25110-the-hunt-rebuilt.json) |
 | The Hunt Begins | 323720 | [323720-the-hunt-begins.json](./323720-the-hunt-begins.json) |
 | The Hunt for My GirlFriend | 176125 | [176125-the-hunt-for-my-girlfriend.json](./176125-the-hunt-for-my-girlfriend.json) |
@@ -15786,6 +15787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Red One: Occultation | 408734 | [408734-the-red-one-occultation.json](./408734-the-red-one-occultation.json) |
 | The Red Pearls of Borneo | 387749 | [387749-the-red-pearls-of-borneo.json](./387749-the-red-pearls-of-borneo.json) |
 | The Red Prison | 117802 | [117802-the-red-prison.json](./117802-the-red-prison.json) |
+| The Red Reactor | 117896 | [117896-the-red-reactor.json](./117896-the-red-reactor.json) |
 | The Red Sea | 202335 | [202335-the-red-sea.json](./202335-the-red-sea.json) |
 | The Red Selene | 247866 | [247866-the-red-selene.json](./247866-the-red-selene.json) |
 | The Red Solstice | 6170 | [6170-the-red-solstice.json](./6170-the-red-solstice.json) |
