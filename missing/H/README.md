@@ -234,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hacknet: Complete Edition | 51826 | [51826-hacknet-complete-edition.json](./51826-hacknet-complete-edition.json) |
 | Hacknet: Ultimate Edition | 51825 | [51825-hacknet-ultimate-edition.json](./51825-hacknet-ultimate-edition.json) |
 | HackOS | 145923 | [145923-hackos.json](./145923-hackos.json) |
+| HackRack | 131721 | [131721-hackrack.json](./131721-hackrack.json) |
 | HackShield | 278798 | [278798-hackshield.json](./278798-hackshield.json) |
 | Hackshot | 173263 | [173263-hackshot.json](./173263-hackshot.json) |
 | HackSlash | 361894 | [361894-hackslash.json](./361894-hackslash.json) |
