@@ -3421,6 +3421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Solomon's Key | 184409 | [184409-open-solomons-key.json](./184409-open-solomons-key.json) |
 | Open Sonic the Hedgehog | 266710 | [266710-open-sonic-the-hedgehog.json](./266710-open-sonic-the-hedgehog.json) |
 | Open Sorcery | 27444 | [27444-open-sorcery.json](./27444-open-sorcery.json) |
+| Open Sorcery: Jingle BEL/S | 134202 | [134202-open-sorcery-jingle-bel-s.json](./134202-open-sorcery-jingle-bel-s.json) |
 | Open Sorcery: Sea++ | 75619 | [75619-open-sorcery-sea.json](./75619-open-sorcery-sea.json) |
 | Open Source Objects: The Game | 361751 | [361751-open-source-objects-the-game.json](./361751-open-source-objects-the-game.json) |
 | Open Space Collection | 196306 | [196306-open-space-collection.json](./196306-open-space-collection.json) |
