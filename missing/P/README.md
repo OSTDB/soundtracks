@@ -6000,6 +6000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piano Magic 2018 Music Tiles 2 | 88903 | [88903-piano-magic-2018-music-tiles-2.json](./88903-piano-magic-2018-music-tiles-2.json) |
 | Piano Monsters | 175373 | [175373-piano-monsters.json](./175373-piano-monsters.json) |
 | Piano Notes! | 89811 | [89811-piano-notes.json](./89811-piano-notes.json) |
+| Piano Pink Tiles 2: Custom Songs | 106031 | [106031-piano-pink-tiles-2-custom-songs.json](./106031-piano-pink-tiles-2-custom-songs.json) |
 | Piano Play 3D | 99031 | [99031-piano-play-3d.json](./99031-piano-play-3d.json) |
 | Piano Rocker | 190002 | [190002-piano-rocker.json](./190002-piano-rocker.json) |
 | Piano Simulator | 98323 | [98323-piano-simulator.json](./98323-piano-simulator.json) |
