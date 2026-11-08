@@ -2280,6 +2280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasted Glory | 276479 | [276479-wasted-glory.json](./276479-wasted-glory.json) |
 | Wasted Pizza | 68594 | [68594-wasted-pizza.json](./68594-wasted-pizza.json) |
 | Wasted Shot | 309407 | [309407-wasted-shot.json](./309407-wasted-shot.json) |
+| Wasted World | 132384 | [132384-wasted-world.json](./132384-wasted-world.json) |
 | Wasted: Will Be Brutal | 271552 | [271552-wasted-will-be-brutal.json](./271552-wasted-will-be-brutal.json) |
 | WastedRoad Reapers | 336673 | [336673-wastedroad-reapers.json](./336673-wastedroad-reapers.json) |
 | WasteFlow | 344116 | [344116-wasteflow.json](./344116-wasteflow.json) |
@@ -3601,6 +3602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Western Riding Academy | 80469 | [80469-western-riding-academy.json](./80469-western-riding-academy.json) |
 | Western Rye | 249967 | [249967-western-rye.json](./249967-western-rye.json) |
 | Western Shadowlands | 362316 | [362316-western-shadowlands.json](./362316-western-shadowlands.json) |
+| Western Sigil | 132363 | [132363-western-sigil.json](./132363-western-sigil.json) |
 | Western Slot Machine | 279254 | [279254-western-slot-machine.json](./279254-western-slot-machine.json) |
 | Western U.S. Scenery Set | 131190 | [131190-western-u-s-scenery-set.json](./131190-western-u-s-scenery-set.json) |
 | Western War | 249754 | [249754-western-war.json](./249754-western-war.json) |
@@ -6264,6 +6266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wira | 412232 | [412232-wira.json](./412232-wira.json) |
 | Wira & Taksa: Against the Master of Gravity | 74221 | [74221-wira-and-taksa-against-the-master-of-gravity.json](./74221-wira-and-taksa-against-the-master-of-gravity.json) |
 | Wiraburut rai Phalang: Khai Tom | 207044 | [207044-wiraburut-rai-phalang-khai-tom.json](./207044-wiraburut-rai-phalang-khai-tom.json) |
+| Wire | 132374 | [132374-wire.json](./132374-wire.json) |
 | Wire | 195755 | [195755-wire.json](./195755-wire.json) |
 | Wire | 196541 | [196541-wire.json](./196541-wire.json) |
 | Wire Flying Maid | 129236 | [129236-wire-flying-maid.json](./129236-wire-flying-maid.json) |
