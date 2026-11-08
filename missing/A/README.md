@@ -14074,6 +14074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arktika.1 | 24833 | [24833-arktika-1.json](./24833-arktika-1.json) |
 | Arktis SCP-RP | 383554 | [383554-arktis-scp-rp.json](./383554-arktis-scp-rp.json) |
 | Arktonis 13 | 183392 | [183392-arktonis-13.json](./183392-arktonis-13.json) |
+| Arktrum | 129916 | [129916-arktrum.json](./129916-arktrum.json) |
 | Arktwend: The Forgotten Realm | 319107 | [319107-arktwend-the-forgotten-realm.json](./319107-arktwend-the-forgotten-realm.json) |
 | Arkwhale | 303681 | [303681-arkwhale.json](./303681-arkwhale.json) |
 | ArkX | 80170 | [80170-arkx.json](./80170-arkx.json) |
@@ -16942,6 +16943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
