@@ -5353,6 +5353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aimee's Cafe | 266520 | [266520-aimees-cafe.json](./266520-aimees-cafe.json) |
 | AimerBall | 68513 | [68513-aimerball.json](./68513-aimerball.json) |
 | Aimi | 157948 | [157948-aimi.json](./157948-aimi.json) |
+| Aiming.Pro | 130504 | [130504-aiming-pro.json](./130504-aiming-pro.json) |
 | AimJJang | 379517 | [379517-aimjjang.json](./379517-aimjjang.json) |
 | Aimlabs | 67902 | [67902-aimlabs.json](./67902-aimlabs.json) |
 | Aimlabs: Elite Edition | 308587 | [308587-aimlabs-elite-edition.json](./308587-aimlabs-elite-edition.json) |
@@ -15369,6 +15370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ASMR Slicing: Nice Cuts DLC | 276944 | [276944-asmr-slicing-nice-cuts-dlc.json](./276944-asmr-slicing-nice-cuts-dlc.json) |
 | ASMR Slicing: Nice Cuts Edition | 284941 | [284941-asmr-slicing-nice-cuts-edition.json](./284941-asmr-slicing-nice-cuts-edition.json) |
 | Asoberu Eigo: Word Magic | 122747 | [122747-asoberu-eigo-word-magic.json](./122747-asoberu-eigo-word-magic.json) |
+| Asoberu Eigo: Word Magic DS | 130497 | [130497-asoberu-eigo-word-magic-ds.json](./130497-asoberu-eigo-word-magic-ds.json) |
 | Asobi ni Iku yo! Chikyuu Pinch no Konyaku Sengen | 269349 | [269349-asobi-ni-iku-yo-chikyuu-pinch-no-konyaku-sengen.json](./269349-asobi-ni-iku-yo-chikyuu-pinch-no-konyaku-sengen.json) |
 | Asobu Rakugaki | 72690 | [72690-asobu-rakugaki.json](./72690-asobu-rakugaki.json) |
 | Asobu Tights | 145964 | [145964-asobu-tights.json](./145964-asobu-tights.json) |
@@ -16940,7 +16942,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
