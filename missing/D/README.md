@@ -7899,6 +7899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destruction Rocks | 186192 | [186192-destruction-rocks.json](./186192-destruction-rocks.json) |
 | Destruction Simulator | 311455 | [311455-destruction-simulator.json](./311455-destruction-simulator.json) |
 | Destruction Time! | 153882 | [153882-destruction-time.json](./153882-destruction-time.json) |
+| Destruction Tuber Simulator | 103687 | [103687-destruction-tuber-simulator.json](./103687-destruction-tuber-simulator.json) |
 | Destructions | 98733 | [98733-destructions.json](./98733-destructions.json) |
 | Destructivator 2 | 127778 | [127778-destructivator-2.json](./127778-destructivator-2.json) |
 | Destructivator SE | 180984 | [180984-destructivator-se.json](./180984-destructivator-se.json) |
@@ -14941,6 +14942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Assault | 360148 | [360148-dragon-assault.json](./360148-dragon-assault.json) |
 | Dragon Atlas | 23635 | [23635-dragon-atlas.json](./23635-dragon-atlas.json) |
 | Dragon Attack | 137784 | [137784-dragon-attack.json](./137784-dragon-attack.json) |
+| Dragon Audit | 103589 | [103589-dragon-audit.json](./103589-dragon-audit.json) |
 | Dragon Audit: Deluxe Edition | 237853 | [237853-dragon-audit-deluxe-edition.json](./237853-dragon-audit-deluxe-edition.json) |
 | Dragon Awaken | 110084 | [110084-dragon-awaken.json](./110084-dragon-awaken.json) |
 | Dragon Ball | 38662 | [38662-dragon-ball.json](./38662-dragon-ball.json) |
@@ -16487,6 +16489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream vs. Dream | 212764 | [212764-dream-vs-dream.json](./212764-dream-vs-dream.json) |
 | Dream Walk: Mortgage | 201391 | [201391-dream-walk-mortgage.json](./201391-dream-walk-mortgage.json) |
 | Dream Walk: Stolen Color | 215871 | [215871-dream-walk-stolen-color.json](./215871-dream-walk-stolen-color.json) |
+| Dream Walker | 103692 | [103692-dream-walker.json](./103692-dream-walker.json) |
 | Dream Walker | 365851 | [365851-dream-walker.json](./365851-dream-walker.json) |
 | Dream Walker | 385395 | [385395-dream-walker.json](./385395-dream-walker.json) |
 | Dream Warrior | 13612 | [13612-dream-warrior.json](./13612-dream-warrior.json) |
