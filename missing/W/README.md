@@ -333,6 +333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waku Waku Sweets | 102782 | [102782-waku-waku-sweets.json](./102782-waku-waku-sweets.json) |
 | Waku Waku Sweets: Happy Sweets Making | 96093 | [96093-waku-waku-sweets-happy-sweets-making.json](./96093-waku-waku-sweets-happy-sweets-making.json) |
 | Waku-waku Doubutsu Land | 101034 | [101034-waku-waku-doubutsu-land.json](./101034-waku-waku-doubutsu-land.json) |
+| Waku-waku Doubutsu Land | 136603 | [136603-waku-waku-doubutsu-land.json](./136603-waku-waku-doubutsu-land.json) |
 | Waku-waku Monster | 62010 | [62010-waku-waku-monster.json](./62010-waku-waku-monster.json) |
 | Waku-waku Puyo Puyo Dungeon | 70934 | [70934-waku-waku-puyo-puyo-dungeon.json](./70934-waku-waku-puyo-puyo-dungeon.json) |
 | Waku-waku Ski Wonder Spur | 37770 | [37770-waku-waku-ski-wonder-spur.json](./37770-waku-waku-ski-wonder-spur.json) |
@@ -6901,6 +6902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizards Spell | 73834 | [73834-wizards-spell.json](./73834-wizards-spell.json) |
 | Wizards Tourney | 109438 | [109438-wizards-tourney.json](./109438-wizards-tourney.json) |
 | Wizards, Knights & Archers | 220719 | [220719-wizards-knights-and-archers.json](./220719-wizards-knights-and-archers.json) |
+| Wizards: Wand of Epicosity | 136566 | [136566-wizards-wand-of-epicosity.json](./136566-wizards-wand-of-epicosity.json) |
 | Wizards' Clash | 35738 | [35738-wizards-clash.json](./35738-wizards-clash.json) |
 | Wizarducks and the Lost Hat | 287683 | [287683-wizarducks-and-the-lost-hat.json](./287683-wizarducks-and-the-lost-hat.json) |
 | WizardWare | 400983 | [400983-wizardware.json](./400983-wizardware.json) |
@@ -8277,6 +8279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Paranoia | 167292 | [167292-world-of-paranoia.json](./167292-world-of-paranoia.json) |
 | World of Pets | 172381 | [172381-world-of-pets.json](./172381-world-of-pets.json) |
 | World of Pets: Multiplayer | 174593 | [174593-world-of-pets-multiplayer.json](./174593-world-of-pets-multiplayer.json) |
+| World of Planes | 136582 | [136582-world-of-planes.json](./136582-world-of-planes.json) |
 | World of Pool | 45995 | [45995-world-of-pool.json](./45995-world-of-pool.json) |
 | World of Radiance: The Girl in the Shadows | 403075 | [403075-world-of-radiance-the-girl-in-the-shadows.json](./403075-world-of-radiance-the-girl-in-the-shadows.json) |
 | World of Reinvention | 267430 | [267430-world-of-reinvention.json](./267430-world-of-reinvention.json) |
