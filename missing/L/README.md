@@ -7950,6 +7950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of the Fallen: Deluxe Edition | 250427 | [250427-lords-of-the-fallen-deluxe-edition.json](./250427-lords-of-the-fallen-deluxe-edition.json) |
 | Lords of the Fallen: Game of the Year Edition | 24728 | [24728-lords-of-the-fallen-game-of-the-year-edition.json](./24728-lords-of-the-fallen-game-of-the-year-edition.json) |
 | Lords of the Fallen: Master of Fate Update | 299144 | [299144-lords-of-the-fallen-master-of-fate-update.json](./299144-lords-of-the-fallen-master-of-fate-update.json) |
+| Lords of the Lockerroom | 117920 | [117920-lords-of-the-lockerroom.json](./117920-lords-of-the-lockerroom.json) |
 | Lords of the Realm | 12669 | [12669-lords-of-the-realm.json](./12669-lords-of-the-realm.json) |
 | Lords of the Realm II | 19124 | [19124-lords-of-the-realm-ii.json](./19124-lords-of-the-realm-ii.json) |
 | Lords of the Realm II: Siege Pack | 80478 | [80478-lords-of-the-realm-ii-siege-pack.json](./80478-lords-of-the-realm-ii-siege-pack.json) |
