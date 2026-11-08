@@ -1587,6 +1587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Feud | 320767 | [320767-family-feud.json](./320767-family-feud.json) |
 | Family Feud | 37112 | [37112-family-feud.json](./37112-family-feud.json) |
 | Family Feud | 68397 | [68397-family-feud.json](./68397-family-feud.json) |
+| Family Feud | 92028 | [92028-family-feud.json](./92028-family-feud.json) |
 | Family Feud & Friends | 86099 | [86099-family-feud-and-friends.json](./86099-family-feud-and-friends.json) |
 | Family Feud & Friends 2 | 83380 | [83380-family-feud-and-friends-2.json](./83380-family-feud-and-friends-2.json) |
 | Family Feud 3: Dream Home | 370725 | [370725-family-feud-3-dream-home.json](./370725-family-feud-3-dream-home.json) |
@@ -10464,6 +10465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaken Ones | 288353 | [288353-forsaken-ones.json](./288353-forsaken-ones.json) |
 | Forsaken Ones | 360008 | [360008-forsaken-ones.json](./360008-forsaken-ones.json) |
 | Forsaken Overlook | 256823 | [256823-forsaken-overlook.json](./256823-forsaken-overlook.json) |
+| Forsaken Patrol | 92048 | [92048-forsaken-patrol.json](./92048-forsaken-patrol.json) |
 | Forsaken Portals | 164258 | [164258-forsaken-portals.json](./164258-forsaken-portals.json) |
 | Forsaken Realm | 130124 | [130124-forsaken-realm.json](./130124-forsaken-realm.json) |
 | Forsaken Realms: Vahrin's Call | 110939 | [110939-forsaken-realms-vahrins-call.json](./110939-forsaken-realms-vahrins-call.json) |
