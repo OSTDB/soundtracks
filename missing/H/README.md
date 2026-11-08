@@ -832,6 +832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hallows' Eve | 74961 | [74961-hallows-eve.json](./74961-hallows-eve.json) |
 | Hallrunner | 135866 | [135866-hallrunner.json](./135866-hallrunner.json) |
 | Halls of Death | 229363 | [229363-halls-of-death.json](./229363-halls-of-death.json) |
+| Halls of Gold | 123142 | [123142-halls-of-gold.json](./123142-halls-of-gold.json) |
 | Halls of Greed | 302422 | [302422-halls-of-greed.json](./302422-halls-of-greed.json) |
 | Halls of Horror | 175191 | [175191-halls-of-horror.json](./175191-halls-of-horror.json) |
 | Halls of Kairos | 15215 | [15215-halls-of-kairos.json](./15215-halls-of-kairos.json) |
@@ -12386,6 +12387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurlements | 174634 | [174634-hurlements.json](./174634-hurlements.json) |
 | Hurling Herman | 392252 | [392252-hurling-herman.json](./392252-hurling-herman.json) |
 | Hurm's Odyssey | 341708 | [341708-hurms-odyssey.json](./341708-hurms-odyssey.json) |
+| Hurra Deutschland | 123167 | [123167-hurra-deutschland.json](./123167-hurra-deutschland.json) |
 | Hurrican | 94360 | [94360-hurrican.json](./94360-hurrican.json) |
 | Hurricane | 25928 | [25928-hurricane.json](./25928-hurricane.json) |
 | Hurricane | 294984 | [294984-hurricane.json](./294984-hurricane.json) |
