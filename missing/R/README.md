@@ -4240,6 +4240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption Cemetery: Bitter Frost | 61076 | [61076-redemption-cemetery-bitter-frost.json](./61076-redemption-cemetery-bitter-frost.json) |
 | Redemption Cemetery: Bitter Frost - Collector's Edition | 30858 | [30858-redemption-cemetery-bitter-frost-collectors-edition.json](./30858-redemption-cemetery-bitter-frost-collectors-edition.json) |
 | Redemption Cemetery: Children's Plight | 61079 | [61079-redemption-cemetery-childrens-plight.json](./61079-redemption-cemetery-childrens-plight.json) |
+| Redemption Cemetery: Children's Plight - Collector's Edition | 114584 | [114584-redemption-cemetery-childrens-plight-collectors-edition.json](./114584-redemption-cemetery-childrens-plight-collectors-edition.json) |
 | Redemption Cemetery: Clock of Fate - Collector's Edition | 83553 | [83553-redemption-cemetery-clock-of-fate-collectors-edition.json](./83553-redemption-cemetery-clock-of-fate-collectors-edition.json) |
 | Redemption Cemetery: Curse of the Raven | 63089 | [63089-redemption-cemetery-curse-of-the-raven.json](./63089-redemption-cemetery-curse-of-the-raven.json) |
 | Redemption Cemetery: Dead Park | 187929 | [187929-redemption-cemetery-dead-park.json](./187929-redemption-cemetery-dead-park.json) |
@@ -7033,6 +7034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhythm Lust Girl 2 | 249786 | [249786-rhythm-lust-girl-2.json](./249786-rhythm-lust-girl-2.json) |
 | Rhythm Mage VR | 122150 | [122150-rhythm-mage-vr.json](./122150-rhythm-mage-vr.json) |
 | Rhythm Maker | 45889 | [45889-rhythm-maker.json](./45889-rhythm-maker.json) |
+| Rhythm Nights | 114589 | [114589-rhythm-nights.json](./114589-rhythm-nights.json) |
 | Rhythm of Annihilation | 358373 | [358373-rhythm-of-annihilation.json](./358373-rhythm-of-annihilation.json) |
 | Rhythm of Earth | 375289 | [375289-rhythm-of-earth.json](./375289-rhythm-of-earth.json) |
 | Rhythm of the Gods | 131832 | [131832-rhythm-of-the-gods.json](./131832-rhythm-of-the-gods.json) |
@@ -12439,6 +12441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run and Jump Little Vico | 152727 | [152727-run-and-jump-little-vico.json](./152727-run-and-jump-little-vico.json) |
 | Run and Retry | 279902 | [279902-run-and-retry.json](./279902-run-and-retry.json) |
 | Run Around | 106510 | [106510-run-around.json](./106510-run-around.json) |
+| Run Away | 114579 | [114579-run-away.json](./114579-run-away.json) |
 | Run Away | 172041 | [172041-run-away.json](./172041-run-away.json) |
 | Run Away | 258881 | [258881-run-away.json](./258881-run-away.json) |
 | Run Away | 285831 | [285831-run-away.json](./285831-run-away.json) |
