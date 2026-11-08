@@ -1690,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark in Light | 392012 | [392012-dark-in-light.json](./392012-dark-in-light.json) |
 | Dark Incursion | 38958 | [38958-dark-incursion.json](./38958-dark-incursion.json) |
 | Dark Inquisition | 278162 | [278162-dark-inquisition.json](./278162-dark-inquisition.json) |
+| Dark Inside | 109830 | [109830-dark-inside.json](./109830-dark-inside.json) |
 | Dark Interval | 185936 | [185936-dark-interval.json](./185936-dark-interval.json) |
 | Dark Invasion VR: Doomsday | 204923 | [204923-dark-invasion-vr-doomsday.json](./204923-dark-invasion-vr-doomsday.json) |
 | Dark Investigation | 296322 | [296322-dark-investigation.json](./296322-dark-investigation.json) |
@@ -2505,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dash Galactic | 58094 | [58094-dash-galactic.json](./58094-dash-galactic.json) |
 | Dash Galaxy in the Alien Asylum | 48140 | [48140-dash-galaxy-in-the-alien-asylum.json](./48140-dash-galaxy-in-the-alien-asylum.json) |
 | Dash Hale | 143377 | [143377-dash-hale.json](./143377-dash-hale.json) |
+| Dash Island | 109837 | [109837-dash-island.json](./109837-dash-island.json) |
 | Dash Kappei | 385531 | [385531-dash-kappei.json](./385531-dash-kappei.json) |
 | Dash King | 240670 | [240670-dash-king.json](./240670-dash-king.json) |
 | Dash Lamb | 154064 | [154064-dash-lamb.json](./154064-dash-lamb.json) |
@@ -7394,6 +7396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Patrol | 275232 | [275232-desert-patrol.json](./275232-desert-patrol.json) |
 | Desert Pirates | 156911 | [156911-desert-pirates.json](./156911-desert-pirates.json) |
 | Desert Quest | 420516 | [420516-desert-quest.json](./420516-desert-quest.json) |
+| Desert Race | 109933 | [109933-desert-race.json](./109933-desert-race.json) |
 | Desert Race Adventures | 296592 | [296592-desert-race-adventures.json](./296592-desert-race-adventures.json) |
 | Desert Racer | 310324 | [310324-desert-racer.json](./310324-desert-racer.json) |
 | Desert Racer | 61646 | [61646-desert-racer.json](./61646-desert-racer.json) |
@@ -8870,6 +8873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Versa | 218406 | [218406-dice-versa.json](./218406-dice-versa.json) |
 | Dice vs Dice | 173269 | [173269-dice-vs-dice.json](./173269-dice-vs-dice.json) |
 | Dice vs. Monsters | 184619 | [184619-dice-vs-monsters.json](./184619-dice-vs-monsters.json) |
+| Dice Warrior | 109846 | [109846-dice-warrior.json](./109846-dice-warrior.json) |
 | Dice Wars | 219918 | [219918-dice-wars.json](./219918-dice-wars.json) |
 | Dice With Buddies | 89010 | [89010-dice-with-buddies.json](./89010-dice-with-buddies.json) |
 | Dice With Death | 328406 | [328406-dice-with-death.json](./328406-dice-with-death.json) |
@@ -18429,6 +18433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Concierge | 377812 | [377812-dungeon-concierge.json](./377812-dungeon-concierge.json) |
 | Dungeon Conqueror | 166172 | [166172-dungeon-conqueror.json](./166172-dungeon-conqueror.json) |
 | Dungeon Construction Co | 96196 | [96196-dungeon-construction-co.json](./96196-dungeon-construction-co.json) |
+| Dungeon Construction Co. | 109931 | [109931-dungeon-construction-co.json](./109931-dungeon-construction-co.json) |
 | Dungeon Consultant | 139648 | [139648-dungeon-consultant.json](./139648-dungeon-consultant.json) |
 | Dungeon Conundrum | 190887 | [190887-dungeon-conundrum.json](./190887-dungeon-conundrum.json) |
 | Dungeon Cooking | 423380 | [423380-dungeon-cooking.json](./423380-dungeon-cooking.json) |
