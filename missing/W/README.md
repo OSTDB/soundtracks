@@ -6604,6 +6604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WitchSpring3 Re:Fine - The Story of Eirudy | 141763 | [141763-witchspring3-re-fine-the-story-of-eirudy.json](./141763-witchspring3-re-fine-the-story-of-eirudy.json) |
 | WitchSpring4 | 147342 | [147342-witchspring4.json](./147342-witchspring4.json) |
 | WitchSwitch | 57181 | [57181-witchswitch.json](./57181-witchswitch.json) |
+| Witchsword Remake | 129342 | [129342-witchsword-remake.json](./129342-witchsword-remake.json) |
 | Witchtastic | 135787 | [135787-witchtastic.json](./135787-witchtastic.json) |
 | WitchWay | 56831 | [56831-witchway.json](./56831-witchway.json) |
 | Witchworker | 405611 | [405611-witchworker.json](./405611-witchworker.json) |
