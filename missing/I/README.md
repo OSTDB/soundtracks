@@ -846,6 +846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I'm on Observation Duty 8 | 369153 | [369153-im-on-observation-duty-8.json](./369153-im-on-observation-duty-8.json) |
 | I'm on Sorority Duty | 372672 | [372672-im-on-sorority-duty.json](./372672-im-on-sorority-duty.json) |
 | I'm Only Sleeping | 71001 | [71001-im-only-sleeping.json](./71001-im-only-sleeping.json) |
+| I'm Ping Pong King | 104753 | [104753-im-ping-pong-king.json](./104753-im-ping-pong-king.json) |
 | I'm Pregnant at 16 | 336639 | [336639-im-pregnant-at-16.json](./336639-im-pregnant-at-16.json) |
 | I'm Prop | 205925 | [205925-im-prop.json](./205925-im-prop.json) |
 | I'm Ready for Kindergarten: Huggly's Sleepover | 398121 | [398121-im-ready-for-kindergarten-hugglys-sleepover.json](./398121-im-ready-for-kindergarten-hugglys-sleepover.json) |
@@ -2754,6 +2755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossible | 272198 | [272198-impossible.json](./272198-impossible.json) |
 | Impossible Bottles | 105407 | [105407-impossible-bottles.json](./105407-impossible-bottles.json) |
 | Impossible Bunny Challenge | 272763 | [272763-impossible-bunny-challenge.json](./272763-impossible-bunny-challenge.json) |
+| Impossible Bus Mega Ramp | 104762 | [104762-impossible-bus-mega-ramp.json](./104762-impossible-bus-mega-ramp.json) |
 | Impossible Car Racing: Stunts | 175089 | [175089-impossible-car-racing-stunts.json](./175089-impossible-car-racing-stunts.json) |
 | Impossible Caves | 105927 | [105927-impossible-caves.json](./105927-impossible-caves.json) |
 | Impossible Challenge | 199700 | [199700-impossible-challenge.json](./199700-impossible-challenge.json) |
@@ -4079,6 +4081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Danger | 54128 | [54128-infinity-danger.json](./54128-infinity-danger.json) |
 | Infinity Dive | 181839 | [181839-infinity-dive.json](./181839-infinity-dive.json) |
 | Infinity Dungeon 2 VIP - Summon girl and Zombie | 95772 | [95772-infinity-dungeon-2-vip-summon-girl-and-zombie.json](./95772-infinity-dungeon-2-vip-summon-girl-and-zombie.json) |
+| Infinity Dungeon! | 104763 | [104763-infinity-dungeon.json](./104763-infinity-dungeon.json) |
 | Infinity Dungeons | 203569 | [203569-infinity-dungeons.json](./203569-infinity-dungeons.json) |
 | Infinity Fury | 401760 | [401760-infinity-fury.json](./401760-infinity-fury.json) |
 | Infinity Girl | 191217 | [191217-infinity-girl.json](./191217-infinity-girl.json) |
