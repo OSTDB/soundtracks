@@ -595,6 +595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Clans: Random Legend Card Pack | 355222 | [355222-call-of-clans-random-legend-card-pack.json](./355222-call-of-clans-random-legend-card-pack.json) |
 | Call of Combat | 69006 | [69006-call-of-combat.json](./69006-call-of-combat.json) |
 | Call of Commander: Zombie Island | 201942 | [201942-call-of-commander-zombie-island.json](./201942-call-of-commander-zombie-island.json) |
+| Call of Corona: Micro Warfare | 137750 | [137750-call-of-corona-micro-warfare.json](./137750-call-of-corona-micro-warfare.json) |
 | Call of Coronga | 148851 | [148851-call-of-coronga.json](./148851-call-of-coronga.json) |
 | Call of Cthulhu | 9176 | [9176-call-of-cthulhu.json](./9176-call-of-cthulhu.json) |
 | Call of Cthulhu: Shadow of the Comet | 34783 | [34783-call-of-cthulhu-shadow-of-the-comet.json](./34783-call-of-cthulhu-shadow-of-the-comet.json) |
@@ -8988,6 +8989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cinnamon: Yume no Daibouken | 49558 | [49558-cinnamon-yume-no-daibouken.json](./49558-cinnamon-yume-no-daibouken.json) |
 | Cinnamoroll: Cafe Cinnamon de o-Tetsudai | 327568 | [327568-cinnamoroll-cafe-cinnamon-de-o-tetsudai.json](./327568-cinnamoroll-cafe-cinnamon-de-o-tetsudai.json) |
 | Cinnamoroll: Ohanashi Shiyo!: Kirakira de Kore Cafe | 240908 | [240908-cinnamoroll-ohanashi-shiyo-kirakira-de-kore-cafe.json](./240908-cinnamoroll-ohanashi-shiyo-kirakira-de-kore-cafe.json) |
+| CinQ | 137743 | [137743-cinq.json](./137743-cinq.json) |
 | Cions of Vega | 149925 | [149925-cions-of-vega.json](./149925-cions-of-vega.json) |
 | Cipher | 178494 | [178494-cipher.json](./178494-cipher.json) |
 | Cipher | 274123 | [274123-cipher.json](./274123-cipher.json) |
@@ -12780,6 +12782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Dungeon | 294163 | [294163-combat-dungeon.json](./294163-combat-dungeon.json) |
 | Combat Elite: WWII Paratroopers | 5784 | [5784-combat-elite-wwii-paratroopers.json](./5784-combat-elite-wwii-paratroopers.json) |
 | Combat Evolved 2D | 311226 | [311226-combat-evolved-2d.json](./311226-combat-evolved-2d.json) |
+| Combat Fire | 137775 | [137775-combat-fire.json](./137775-combat-fire.json) |
 | Combat Force Xex Shooting Battle | 98052 | [98052-combat-force-xex-shooting-battle.json](./98052-combat-force-xex-shooting-battle.json) |
 | Combat Hawk | 40110 | [40110-combat-hawk.json](./40110-combat-hawk.json) |
 | Combat Helicopter VR - Surgical Strike | 117560 | [117560-combat-helicopter-vr-surgical-strike.json](./117560-combat-helicopter-vr-surgical-strike.json) |
