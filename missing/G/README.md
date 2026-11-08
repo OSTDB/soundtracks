@@ -3666,6 +3666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getaway Grand Prix | 310158 | [310158-getaway-grand-prix.json](./310158-getaway-grand-prix.json) |
 | Getaway Island | 29224 | [29224-getaway-island.json](./29224-getaway-island.json) |
 | Getaway Mayhem | 128965 | [128965-getaway-mayhem.json](./128965-getaway-mayhem.json) |
+| Getaway Shootout | 107328 | [107328-getaway-shootout.json](./107328-getaway-shootout.json) |
 | Getaway! | 78981 | [78981-getaway.json](./78981-getaway.json) |
 | GetBackers Dakkanya: Dakkan da yo! Zenin Shuugou!! | 252071 | [252071-getbackers-dakkanya-dakkan-da-yo-zenin-shuugou.json](./252071-getbackers-dakkanya-dakkan-da-yo-zenin-shuugou.json) |
 | GetBackers Dakkanya: Jagan Fuuin! | 49602 | [49602-getbackers-dakkanya-jagan-fuuin.json](./49602-getbackers-dakkanya-jagan-fuuin.json) |
