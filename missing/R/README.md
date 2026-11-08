@@ -3139,6 +3139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realize | 131410 | [131410-realize.json](./131410-realize.json) |
 | Realize Me | 307873 | [307873-realize-me.json](./307873-realize-me.json) |
 | Really Bad Chess | 56131 | [56131-really-bad-chess.json](./56131-really-bad-chess.json) |
+| Really Bad Flying Machine | 137219 | [137219-really-bad-flying-machine.json](./137219-really-bad-flying-machine.json) |
 | Really Big Sky | 10755 | [10755-really-big-sky.json](./10755-really-big-sky.json) |
 | Really Boring Website | 142974 | [142974-really-boring-website.json](./142974-really-boring-website.json) |
 | Really Dog | 276182 | [276182-really-dog.json](./276182-really-dog.json) |
@@ -4887,6 +4888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Relics of ancestors | 161334 | [161334-relics-of-ancestors.json](./161334-relics-of-ancestors.json) |
 | Relics of Aurelia | 322027 | [322027-relics-of-aurelia.json](./322027-relics-of-aurelia.json) |
 | Relics of Cilldrea | 236915 | [236915-relics-of-cilldrea.json](./236915-relics-of-cilldrea.json) |
+| Relics of Deldroneye 1.5: Return to Zantis | 137199 | [137199-relics-of-deldroneye-1-5-return-to-zantis.json](./137199-relics-of-deldroneye-1-5-return-to-zantis.json) |
 | Relics of Deldroneye 2: Island of Debreen | 137454 | [137454-relics-of-deldroneye-2-island-of-debreen.json](./137454-relics-of-deldroneye-2-island-of-debreen.json) |
 | Relics of Fate: A Penny Macey Mystery | 355593 | [355593-relics-of-fate-a-penny-macey-mystery.json](./355593-relics-of-fate-a-penny-macey-mystery.json) |
 | Relics of Gods | 11352 | [11352-relics-of-gods.json](./11352-relics-of-gods.json) |
@@ -12897,6 +12899,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RuPaul's Drag Race: Dragopolis | 133684 | [133684-rupauls-drag-race-dragopolis.json](./133684-rupauls-drag-race-dragopolis.json) |
 | RuPaul's Drag Race: Dragopolis 2.0 | 133685 | [133685-rupauls-drag-race-dragopolis-2-0.json](./133685-rupauls-drag-race-dragopolis-2-0.json) |
 | Rupert and Riley: Shipwrecked | 58482 | [58482-rupert-and-riley-shipwrecked.json](./58482-rupert-and-riley-shipwrecked.json) |
+| Rupert and the Ice Castle | 137223 | [137223-rupert-and-the-ice-castle.json](./137223-rupert-and-the-ice-castle.json) |
+| Rupert and the Toymaker's Party | 137222 | [137222-rupert-and-the-toymakers-party.json](./137222-rupert-and-the-toymakers-party.json) |
 | Rupert Reset | 178890 | [178890-rupert-reset.json](./178890-rupert-reset.json) |
 | Rupture | 261821 | [261821-rupture.json](./261821-rupture.json) |
 | Ruptured | 226438 | [226438-ruptured.json](./226438-ruptured.json) |
