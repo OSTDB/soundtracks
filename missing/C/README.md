@@ -2982,6 +2982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carom Billards | 103118 | [103118-carom-billards.json](./103118-carom-billards.json) |
 | Carom Billiards | 149916 | [149916-carom-billiards.json](./149916-carom-billiards.json) |
 | Carom Billiards | 393764 | [393764-carom-billiards.json](./393764-carom-billiards.json) |
+| Carom3D | 98597 | [98597-carom3d.json](./98597-carom3d.json) |
 | Caromble! | 24655 | [24655-caromble.json](./24655-caromble.json) |
 | Carousel | 13700 | [13700-carousel.json](./13700-carousel.json) |
 | Carousel | 261887 | [261887-carousel.json](./261887-carousel.json) |
@@ -7955,6 +7956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocolate Tycoon | 65880 | [65880-chocolate-tycoon.json](./65880-chocolate-tycoon.json) |
 | Chocolatic Wars | 376685 | [376685-chocolatic-wars.json](./376685-chocolatic-wars.json) |
 | Chocolatier | 85999 | [85999-chocolatier.json](./85999-chocolatier.json) |
+| Chocolatier 3: Decadence by Design | 98152 | [98152-chocolatier-3-decadence-by-design.json](./98152-chocolatier-3-decadence-by-design.json) |
 | Chocolatio | 281996 | [281996-chocolatio.json](./281996-chocolatio.json) |
 | ChocoLot! | 278480 | [278480-chocolot.json](./278480-chocolot.json) |
 | Choconoa | 113639 | [113639-choconoa.json](./113639-choconoa.json) |
@@ -11095,6 +11097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Penguin Dimensions | 319377 | [319377-club-penguin-dimensions.json](./319377-club-penguin-dimensions.json) |
 | Club Penguin Island | 94967 | [94967-club-penguin-island.json](./94967-club-penguin-island.json) |
 | Club Penguin Journey | 312869 | [312869-club-penguin-journey.json](./312869-club-penguin-journey.json) |
+| Club Penguin Rewritten | 98486 | [98486-club-penguin-rewritten.json](./98486-club-penguin-rewritten.json) |
 | Club Penguin: Game Day! | 92058 | [92058-club-penguin-game-day.json](./92058-club-penguin-game-day.json) |
 | Club Pinball | 243691 | [243691-club-pinball.json](./243691-club-pinball.json) |
 | Club Soccer Director 2018 | 55160 | [55160-club-soccer-director-2018.json](./55160-club-soccer-director-2018.json) |
@@ -17174,6 +17177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Fluffy Slime Maker | 106369 | [106369-crazy-fluffy-slime-maker.json](./106369-crazy-fluffy-slime-maker.json) |
 | Crazy Flying Squirrel | 59248 | [59248-crazy-flying-squirrel.json](./59248-crazy-flying-squirrel.json) |
 | Crazy Foods | 152640 | [152640-crazy-foods.json](./152640-crazy-foods.json) |
+| Crazy Foot | 98147 | [98147-crazy-foot.json](./98147-crazy-foot.json) |
 | Crazy Foota | 92936 | [92936-crazy-foota.json](./92936-crazy-foota.json) |
 | Crazy for Speed 2 | 105872 | [105872-crazy-for-speed-2.json](./105872-crazy-for-speed-2.json) |
 | Crazy Forest | 32814 | [32814-crazy-forest.json](./32814-crazy-forest.json) |
