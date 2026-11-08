@@ -17575,6 +17575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Quads Bike Stunt Racing 3D | 296774 | [296774-atv-quads-bike-stunt-racing-3d.json](./296774-atv-quads-bike-stunt-racing-3d.json) |
 | ATV Racers | 62261 | [62261-atv-racers.json](./62261-atv-racers.json) |
 | ATV Racing | 142042 | [142042-atv-racing.json](./142042-atv-racing.json) |
+| ATV Simulator VR | 90158 | [90158-atv-simulator-vr.json](./90158-atv-simulator-vr.json) |
 | ATV Slam | 124433 | [124433-atv-slam.json](./124433-atv-slam.json) |
 | ATV Stand Up Power Sports: Dirt Bike Racing Game | 108907 | [108907-atv-stand-up-power-sports-dirt-bike-racing-game.json](./108907-atv-stand-up-power-sports-dirt-bike-racing-game.json) |
 | ATV Stunt Racing: Extreme Offroad Simulator | 322658 | [322658-atv-stunt-racing-extreme-offroad-simulator.json](./322658-atv-stunt-racing-extreme-offroad-simulator.json) |
