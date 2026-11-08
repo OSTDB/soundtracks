@@ -586,6 +586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octopath Traveler II | 217554 | [217554-octopath-traveler-ii.json](./217554-octopath-traveler-ii.json) |
 | Octopath Traveler II + Various Daylife Bundle | 267153 | [267153-octopath-traveler-ii-various-daylife-bundle.json](./267153-octopath-traveler-ii-various-daylife-bundle.json) |
 | Octopath Traveler II: Steelbook Edition | 243868 | [243868-octopath-traveler-ii-steelbook-edition.json](./243868-octopath-traveler-ii-steelbook-edition.json) |
+| Octopath Traveler: Champions of the Continent | 115861 | [115861-octopath-traveler-champions-of-the-continent.json](./115861-octopath-traveler-champions-of-the-continent.json) |
 | Octopath Traveler: Wayfarer's Edition | 136350 | [136350-octopath-traveler-wayfarers-edition.json](./136350-octopath-traveler-wayfarers-edition.json) |
 | Octopede | 94202 | [94202-octopede.json](./94202-octopede.json) |
 | Octopi: Snow Globe | 240112 | [240112-octopi-snow-globe.json](./240112-octopi-snow-globe.json) |
@@ -5226,6 +5227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outbreak: Heart and Brains Collection | 306486 | [306486-outbreak-heart-and-brains-collection.json](./306486-outbreak-heart-and-brains-collection.json) |
 | Outbreak: Hideous Hallucinations Collection | 331429 | [331429-outbreak-hideous-hallucinations-collection.json](./331429-outbreak-hideous-hallucinations-collection.json) |
 | Outbreak: Loremaker Collection | 331431 | [331431-outbreak-loremaker-collection.json](./331431-outbreak-loremaker-collection.json) |
+| Outbreak: Lost Hope | 115905 | [115905-outbreak-lost-hope.json](./115905-outbreak-lost-hope.json) |
 | Outbreak: Lost Hope - Broken Faith | 261360 | [261360-outbreak-lost-hope-broken-faith.json](./261360-outbreak-lost-hope-broken-faith.json) |
 | Outbreak: Lost Hope - Definitive Edition | 164667 | [164667-outbreak-lost-hope-definitive-edition.json](./164667-outbreak-lost-hope-definitive-edition.json) |
 | Outbreak: Palladium Collection | 196278 | [196278-outbreak-palladium-collection.json](./196278-outbreak-palladium-collection.json) |
