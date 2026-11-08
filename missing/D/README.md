@@ -56,6 +56,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D.A.D.S. | 381572 | [381572-d-a-d-s.json](./381572-d-a-d-s.json) |
 | D.A.M. Champion | 280160 | [280160-d-a-m-champion.json](./280160-d-a-m-champion.json) |
 | D.A.R: Deadly Alien Rogues | 327030 | [327030-d-a-r-deadly-alien-rogues.json](./327030-d-a-r-deadly-alien-rogues.json) |
+| D.A.T.A | 110471 | [110471-d-a-t-a.json](./110471-d-a-t-a.json) |
 | D.Beta | 280162 | [280162-d-beta.json](./280162-d-beta.json) |
 | D.C. Girl's Symphony | 72661 | [72661-d-c-girls-symphony.json](./72661-d-c-girls-symphony.json) |
 | D.C. Girl's Symphony Pocket | 221833 | [221833-d-c-girls-symphony-pocket.json](./221833-d-c-girls-symphony-pocket.json) |
