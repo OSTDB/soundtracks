@@ -13407,6 +13407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Circle | 143517 | [143517-full-circle.json](./143517-full-circle.json) |
 | Full Circle: Rocketeer | 301787 | [301787-full-circle-rocketeer.json](./301787-full-circle-rocketeer.json) |
 | Full Code | 215214 | [215214-full-code.json](./215214-full-code.json) |
+| Full Colour Tiles | 105560 | [105560-full-colour-tiles.json](./105560-full-colour-tiles.json) |
 | Full Contact | 12109 | [12109-full-contact.json](./12109-full-contact.json) |
 | Full Contact | 353613 | [353613-full-contact.json](./353613-full-contact.json) |
 | Full Contact Teams Racing | 241053 | [241053-full-contact-teams-racing.json](./241053-full-contact-teams-racing.json) |
