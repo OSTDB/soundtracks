@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dan Marino's Quarterback Challenge | 198720 | [198720-dan-marinos-quarterback-challenge.json](./198720-dan-marinos-quarterback-challenge.json) |
 | Dan McFox: Head Hunter | 58667 | [58667-dan-mcfox-head-hunter.json](./58667-dan-mcfox-head-hunter.json) |
 | Dan Sisal's 501 Darts Trainer | 168305 | [168305-dan-sisals-501-darts-trainer.json](./168305-dan-sisals-501-darts-trainer.json) |
+| Dan Strikes Back | 125545 | [125545-dan-strikes-back.json](./125545-dan-strikes-back.json) |
 | Dan the Inmortal | 211043 | [211043-dan-the-inmortal.json](./211043-dan-the-inmortal.json) |
 | Dan Vs. This Game | 63879 | [63879-dan-vs-this-game.json](./63879-dan-vs-this-game.json) |
 | Dan-Ku-Ga | 144635 | [144635-dan-ku-ga.json](./144635-dan-ku-ga.json) |
@@ -12283,7 +12284,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dokodemo Crash-kun | 210242 | [210242-dokodemo-crash-kun.json](./210242-dokodemo-crash-kun.json) |
 | Dokodemo Dorayaki Doraemon | 199449 | [199449-dokodemo-dorayaki-doraemon.json](./199449-dokodemo-dorayaki-doraemon.json) |
 | Dokodemo Hamster | 37514 | [37514-dokodemo-hamster.json](./37514-dokodemo-hamster.json) |
+| Dokodemo Hamster 2 | 125565 | [125565-dokodemo-hamster-2.json](./125565-dokodemo-hamster-2.json) |
 | Dokodemo Hamster 3: O Dekake Safuran | 37548 | [37548-dokodemo-hamster-3-o-dekake-safuran.json](./37548-dokodemo-hamster-3-o-dekake-safuran.json) |
+| Dokodemo Hamster 4: Doki-doki Sugoroku Daibouken! | 125566 | [125566-dokodemo-hamster-4-doki-doki-sugoroku-daibouken.json](./125566-dokodemo-hamster-4-doki-doki-sugoroku-daibouken.json) |
 | Dokodemo Mahjong | 43966 | [43966-dokodemo-mahjong.json](./43966-dokodemo-mahjong.json) |
 | Dokodemo Mahjong Color | 75456 | [75456-dokodemo-mahjong-color.json](./75456-dokodemo-mahjong-color.json) |
 | Dokodemo Pop'n Music | 227745 | [227745-dokodemo-popn-music.json](./227745-dokodemo-popn-music.json) |
