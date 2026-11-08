@@ -3951,6 +3951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aegis Online | 103881 | [103881-aegis-online.json](./103881-aegis-online.json) |
 | Aegis Protocol | 373278 | [373278-aegis-protocol.json](./373278-aegis-protocol.json) |
 | Aegis: Guardian of the Fleet | 76146 | [76146-aegis-guardian-of-the-fleet.json](./76146-aegis-guardian-of-the-fleet.json) |
+| Aegis: The First Mission | 124348 | [124348-aegis-the-first-mission.json](./124348-aegis-the-first-mission.json) |
 | Aegyptus | 55466 | [55466-aegyptus.json](./55466-aegyptus.json) |
 | Aeioth | 107782 | [107782-aeioth.json](./107782-aeioth.json) |
 | Aelfric the Wondrous | 299301 | [299301-aelfric-the-wondrous.json](./299301-aelfric-the-wondrous.json) |
@@ -8112,6 +8113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alternative Girls 2 | 216215 | [216215-alternative-girls-2.json](./216215-alternative-girls-2.json) |
 | Alternative Punishment | 193553 | [193553-alternative-punishment.json](./193553-alternative-punishment.json) |
 | Alternative Shemevolution | 404836 | [404836-alternative-shemevolution.json](./404836-alternative-shemevolution.json) |
+| Alternative Sphere | 124381 | [124381-alternative-sphere.json](./124381-alternative-sphere.json) |
 | Alternator: Tactical Stealth Operations | 116881 | [116881-alternator-tactical-stealth-operations.json](./116881-alternator-tactical-stealth-operations.json) |
 | Alterniabound | 210362 | [210362-alterniabound.json](./210362-alterniabound.json) |
 | Alternian Turnabout: Aradia Megido | 383173 | [383173-alternian-turnabout-aradia-megido.json](./383173-alternian-turnabout-aradia-megido.json) |
@@ -13062,6 +13064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcadecraft | 17338 | [17338-arcadecraft.json](./17338-arcadecraft.json) |
 | Arcadegeddon | 154814 | [154814-arcadegeddon.json](./154814-arcadegeddon.json) |
 | Arcadeon VR | 148826 | [148826-arcadeon-vr.json](./148826-arcadeon-vr.json) |
+| ArcadeSearch | 124337 | [124337-arcadesearch.json](./124337-arcadesearch.json) |
 | Arcadia | 16219 | [16219-arcadia.json](./16219-arcadia.json) |
 | Arcadia | 202654 | [202654-arcadia.json](./202654-arcadia.json) |
 | Arcadia | 236852 | [236852-arcadia.json](./236852-arcadia.json) |
@@ -16965,6 +16968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -17614,6 +17618,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurora: Weather Warfare | 129207 | [129207-aurora-weather-warfare.json](./129207-aurora-weather-warfare.json) |
 | Aurora's Awakening | 403798 | [403798-auroras-awakening.json](./403798-auroras-awakening.json) |
 | Aurora's Journey and the Pitiful Lackey | 188964 | [188964-auroras-journey-and-the-pitiful-lackey.json](./188964-auroras-journey-and-the-pitiful-lackey.json) |
+| Aurorablast | 124376 | [124376-aurorablast.json](./124376-aurorablast.json) |
+| Aurorablast 2 | 124377 | [124377-aurorablast-2.json](./124377-aurorablast-2.json) |
+| Aurorablast 3 | 124378 | [124378-aurorablast-3.json](./124378-aurorablast-3.json) |
 | AuroraBound | 263585 | [263585-aurorabound.json](./263585-aurorabound.json) |
 | AuroraBound Deluxe | 74370 | [74370-aurorabound-deluxe.json](./74370-aurorabound-deluxe.json) |
 | Aurorae | 287796 | [287796-aurorae.json](./287796-aurorae.json) |
