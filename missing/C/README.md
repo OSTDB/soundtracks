@@ -1557,6 +1557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CanopySim: Skydive Landing Simulation | 141788 | [141788-canopysim-skydive-landing-simulation.json](./141788-canopysim-skydive-landing-simulation.json) |
 | Cantaloupe Chronicle | 327389 | [327389-cantaloupe-chronicle.json](./327389-cantaloupe-chronicle.json) |
 | Cantarella: Dominion of Qualia | 386219 | [386219-cantarella-dominion-of-qualia.json](./386219-cantarella-dominion-of-qualia.json) |
+| Cantata | 121130 | [121130-cantata.json](./121130-cantata.json) |
 | Canteen's Islander | 386159 | [386159-canteens-islander.json](./386159-canteens-islander.json) |
 | Canter Crossing | 276691 | [276691-canter-crossing.json](./276691-canter-crossing.json) |
 | Canterz Paranormies | 202508 | [202508-canterz-paranormies.json](./202508-canterz-paranormies.json) |
@@ -20306,6 +20307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed New Year | 323512 | [323512-cursed-new-year.json](./323512-cursed-new-year.json) |
 | Cursed Night | 244194 | [244194-cursed-night.json](./244194-cursed-night.json) |
 | Cursed Omelette | 370114 | [370114-cursed-omelette.json](./370114-cursed-omelette.json) |
+| Cursed One | 121168 | [121168-cursed-one.json](./121168-cursed-one.json) |
 | Cursed Order | 284993 | [284993-cursed-order.json](./284993-cursed-order.json) |
 | Cursed Pagoda | 126861 | [126861-cursed-pagoda.json](./126861-cursed-pagoda.json) |
 | Cursed Pantsu | 219234 | [219234-cursed-pantsu.json](./219234-cursed-pantsu.json) |
