@@ -794,6 +794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LandBox | 213164 | [213164-landbox.json](./213164-landbox.json) |
 | LandCombat: Ren | 193243 | [193243-landcombat-ren.json](./193243-landcombat-ren.json) |
 | Landelver | 285970 | [285970-landelver.json](./285970-landelver.json) |
+| Lander | 94300 | [94300-lander.json](./94300-lander.json) |
 | Lander 8009 VR | 37039 | [37039-lander-8009-vr.json](./37039-lander-8009-vr.json) |
 | Lander Odyssey | 199229 | [199229-lander-odyssey.json](./199229-lander-odyssey.json) |
 | Landfall | 56511 | [56511-landfall.json](./56511-landfall.json) |
