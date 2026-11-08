@@ -12712,6 +12712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skulduggery Pleasant Invaders | 335175 | [335175-skulduggery-pleasant-invaders.json](./335175-skulduggery-pleasant-invaders.json) |
 | SkulJagger: Revolt of the Westicans | 42664 | [42664-skuljagger-revolt-of-the-westicans.json](./42664-skuljagger-revolt-of-the-westicans.json) |
 | Skulker | 332999 | [332999-skulker.json](./332999-skulker.json) |
+| Skull | 94309 | [94309-skull.json](./94309-skull.json) |
 | Skull & Crossbones | 12851 | [12851-skull-and-crossbones.json](./12851-skull-and-crossbones.json) |
 | Skull and Bones: Limited Edition | 206676 | [206676-skull-and-bones-limited-edition.json](./206676-skull-and-bones-limited-edition.json) |
 | Skull and Bones: Premium Edition | 208432 | [208432-skull-and-bones-premium-edition.json](./208432-skull-and-bones-premium-edition.json) |
@@ -15766,6 +15767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnookerWorld | 31475 | [31475-snookerworld.json](./31475-snookerworld.json) |
 | Snoop Dogg Boxing | 224503 | [224503-snoop-dogg-boxing.json](./224503-snoop-dogg-boxing.json) |
 | Snoop Dogg Cruisin' | 225651 | [225651-snoop-dogg-cruisin.json](./225651-snoop-dogg-cruisin.json) |
+| Snooper Troops | 94286 | [94286-snooper-troops.json](./94286-snooper-troops.json) |
 | Snooper Troops: Case #2 - The Case of the Disappearing Dolphin | 78945 | [78945-snooper-troops-case-2-the-case-of-the-disappearing-dolphin.json](./78945-snooper-troops-case-2-the-case-of-the-disappearing-dolphin.json) |
 | Snoopy | 145235 | [145235-snoopy.json](./145235-snoopy.json) |
 | Snoopy | 206330 | [206330-snoopy.json](./206330-snoopy.json) |
@@ -22812,6 +22814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splash | 170363 | [170363-splash.json](./170363-splash.json) |
 | Splash | 224940 | [224940-splash.json](./224940-splash.json) |
 | Splash | 384564 | [384564-splash.json](./384564-splash.json) |
+| Splash | 94289 | [94289-splash.json](./94289-splash.json) |
 | Splash Adventure: The Maze of Morla | 83524 | [83524-splash-adventure-the-maze-of-morla.json](./83524-splash-adventure-the-maze-of-morla.json) |
 | Splash Basketball Online | 116443 | [116443-splash-basketball-online.json](./116443-splash-basketball-online.json) |
 | Splash Carnival | 290210 | [290210-splash-carnival.json](./290210-splash-carnival.json) |
@@ -29270,6 +29273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strikers 2020 | 118840 | [118840-strikers-2020.json](./118840-strikers-2020.json) |
 | Strikers Club | 343323 | [343323-strikers-club.json](./343323-strikers-club.json) |
 | Strikers1945: RE | 267316 | [267316-strikers1945-re.json](./267316-strikers1945-re.json) |
+| Strikes 'N' Spares | 94282 | [94282-strikes-n-spares.json](./94282-strikes-n-spares.json) |
 | Strikethrough | 252577 | [252577-strikethrough.json](./252577-strikethrough.json) |
 | Strikevoid | 384041 | [384041-strikevoid.json](./384041-strikevoid.json) |
 | Strikewave: Nightly Underground Fighter | 349945 | [349945-strikewave-nightly-underground-fighter.json](./349945-strikewave-nightly-underground-fighter.json) |
