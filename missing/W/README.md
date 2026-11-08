@@ -934,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Obelisks | 218977 | [218977-war-obelisks.json](./218977-war-obelisks.json) |
 | War of Aero | 39849 | [39849-war-of-aero.json](./39849-war-of-aero.json) |
 | War of Angels | 66400 | [66400-war-of-angels.json](./66400-war-of-angels.json) |
+| War of Ants | 134766 | [134766-war-of-ants.json](./134766-war-of-ants.json) |
 | War of Ashird | 122974 | [122974-war-of-ashird.json](./122974-war-of-ashird.json) |
 | War of Banners | 365049 | [365049-war-of-banners.json](./365049-war-of-banners.json) |
 | War of Being | 260574 | [260574-war-of-being.json](./260574-war-of-being.json) |
@@ -4459,6 +4460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiplash | 95503 | [95503-whiplash.json](./95503-whiplash.json) |
 | Whiplash - Crash Valley | 30652 | [30652-whiplash-crash-valley.json](./30652-whiplash-crash-valley.json) |
 | Whiplash Taxi Co | 293768 | [293768-whiplash-taxi-co.json](./293768-whiplash-taxi-co.json) |
+| Whipped and Steamy: Cosplay Café | 134807 | [134807-whipped-and-steamy-cosplay-cafe.json](./134807-whipped-and-steamy-cosplay-cafe.json) |
 | Whippet At Large | 395728 | [395728-whippet-at-large.json](./395728-whippet-at-large.json) |
 | Whipplu Special | 266486 | [266486-whipplu-special.json](./266486-whipplu-special.json) |
 | Whipseey and the Lost Atlas | 117311 | [117311-whipseey-and-the-lost-atlas.json](./117311-whipseey-and-the-lost-atlas.json) |
