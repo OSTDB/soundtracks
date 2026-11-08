@@ -6509,6 +6509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Herta's Chess Game | 309371 | [309371-hertas-chess-game.json](./309371-hertas-chess-game.json) |
 | HertenHeld | 322183 | [322183-hertenheld.json](./322183-hertenheld.json) |
 | Hertz | 244902 | [244902-hertz.json](./244902-hertz.json) |
+| HerWam | 102987 | [102987-herwam.json](./102987-herwam.json) |
 | Herz von Afrika | 91875 | [91875-herz-von-afrika.json](./91875-herz-von-afrika.json) |
 | Herzog | 93370 | [93370-herzog.json](./93370-herzog.json) |
 | Herzog Zwei | 24073 | [24073-herzog-zwei.json](./24073-herzog-zwei.json) |
