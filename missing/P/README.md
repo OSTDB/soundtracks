@@ -1058,6 +1058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pan | 294980 | [294980-pan.json](./294980-pan.json) |
 | Pan Beats | 311624 | [311624-pan-beats.json](./311624-pan-beats.json) |
 | Pan Galactic Railway | 101447 | [101447-pan-galactic-railway.json](./101447-pan-galactic-railway.json) |
+| Pan Man | 128749 | [128749-pan-man.json](./128749-pan-man.json) |
 | Pan Panda | 110527 | [110527-pan-panda.json](./110527-pan-panda.json) |
 | Pan-Arcade Airlines | 150990 | [150990-pan-arcade-airlines.json](./150990-pan-arcade-airlines.json) |
 | Pan-Dae-Mon-Ium | 421463 | [421463-pan-dae-mon-ium.json](./421463-pan-dae-mon-ium.json) |
@@ -3165,6 +3166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathways | 384918 | [384918-pathways.json](./384918-pathways.json) |
 | Pathways into Darkness | 38747 | [38747-pathways-into-darkness.json](./38747-pathways-into-darkness.json) |
 | Pathz | 240853 | [240853-pathz.json](./240853-pathz.json) |
+| Patience | 128732 | [128732-patience.json](./128732-patience.json) |
 | Patience | 321609 | [321609-patience.json](./321609-patience.json) |
 | Patience Balls | 392789 | [392789-patience-balls.json](./392789-patience-balls.json) |
 | Patience Is a Virtue | 404703 | [404703-patience-is-a-virtue.json](./404703-patience-is-a-virtue.json) |
@@ -5790,6 +5792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phone | 218998 | [218998-phone.json](./218998-phone.json) |
 | Phone Evolution | 194113 | [194113-phone-evolution.json](./194113-phone-evolution.json) |
 | Phone Flipper Simulator | 390787 | [390787-phone-flipper-simulator.json](./390787-phone-flipper-simulator.json) |
+| Phone in Mouth | 128756 | [128756-phone-in-mouth.json](./128756-phone-in-mouth.json) |
 | Phone Seller Simulator | 201893 | [201893-phone-seller-simulator.json](./201893-phone-seller-simulator.json) |
 | Phone Story | 62455 | [62455-phone-story.json](./62455-phone-story.json) |
 | Phonequest | 134694 | [134694-phonequest.json](./134694-phonequest.json) |
@@ -16718,6 +16721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Projection Remains | 182514 | [182514-projection-remains.json](./182514-projection-remains.json) |
 | Projection: First Light | 72374 | [72374-projection-first-light.json](./72374-projection-first-light.json) |
 | Projections | 150775 | [150775-projections.json](./150775-projections.json) |
+| Projective | 128722 | [128722-projective.json](./128722-projective.json) |
 | ProjectL | 63241 | [63241-projectl.json](./63241-projectl.json) |
 | ProjectM : Daydream | 56606 | [56606-projectm-daydream.json](./56606-projectm-daydream.json) |
 | ProjectNimbus | 100205 | [100205-projectnimbus.json](./100205-projectnimbus.json) |
