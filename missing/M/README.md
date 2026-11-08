@@ -2467,6 +2467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majong | 138732 | [138732-majong.json](./138732-majong.json) |
 | Majong | 195047 | [195047-majong.json](./195047-majong.json) |
 | Majong Classic | 87991 | [87991-majong-classic.json](./87991-majong-classic.json) |
+| Majong Classic 2 - World of Travel Pro | 90038 | [90038-majong-classic-2-world-of-travel-pro.json](./90038-majong-classic-2-world-of-travel-pro.json) |
 | MaJong13 | 246419 | [246419-majong13.json](./246419-majong13.json) |
 | MaJong16 | 246420 | [246420-majong16.json](./246420-majong16.json) |
 | Major Blink: Berks 2 | 60525 | [60525-major-blink-berks-2.json](./60525-major-blink-berks-2.json) |
@@ -3229,6 +3230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manitas Kitchen | 250796 | [250796-manitas-kitchen.json](./250796-manitas-kitchen.json) |
 | Manivore | 343398 | [343398-manivore.json](./343398-manivore.json) |
 | Manix | 15256 | [15256-manix.json](./15256-manix.json) |
+| Maniyugi Tokoyo | 90026 | [90026-maniyugi-tokoyo.json](./90026-maniyugi-tokoyo.json) |
 | Manji: PSY Yuuki | 142860 | [142860-manji-psy-yuuki.json](./142860-manji-psy-yuuki.json) |
 | Mankind | 260659 | [260659-mankind.json](./260659-mankind.json) |
 | Mankind | 92824 | [92824-mankind.json](./92824-mankind.json) |
@@ -5503,6 +5505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match | 119019 | [119019-match.json](./119019-match.json) |
 | Match | 313532 | [313532-match.json](./313532-match.json) |
 | Match | 399912 | [399912-match.json](./399912-match.json) |
+| Match | 90021 | [90021-match.json](./90021-match.json) |
 | Match & Mastery | 347910 | [347910-match-and-mastery.json](./347910-match-and-mastery.json) |
 | Match & Merge | 232372 | [232372-match-and-merge.json](./232372-match-and-merge.json) |
 | Match 10 Puzzle | 99404 | [99404-match-10-puzzle.json](./99404-match-10-puzzle.json) |
@@ -9030,6 +9033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorize 2 | 100760 | [100760-memorize-2.json](./100760-memorize-2.json) |
 | Memorize 3 | 100753 | [100753-memorize-3.json](./100753-memorize-3.json) |
 | Memorize Cards | 150859 | [150859-memorize-cards.json](./150859-memorize-cards.json) |
+| Memorize Pi Digits | 90036 | [90036-memorize-pi-digits.json](./90036-memorize-pi-digits.json) |
 | Memorize the Cards | 301382 | [301382-memorize-the-cards.json](./301382-memorize-the-cards.json) |
 | Memorize the Evidence: 1-Minute Memory Mystery | 409540 | [409540-memorize-the-evidence-1-minute-memory-mystery.json](./409540-memorize-the-evidence-1-minute-memory-mystery.json) |
 | Memorize V | 164229 | [164229-memorize-v.json](./164229-memorize-v.json) |
@@ -12989,6 +12993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper: Widget Edition | 175570 | [175570-minesweeper-widget-edition.json](./175570-minesweeper-widget-edition.json) |
 | Minesweeper.io | 176569 | [176569-minesweeper-io.json](./176569-minesweeper-io.json) |
 | MineSweeper.R | 389523 | [389523-minesweeper-r.json](./389523-minesweeper-r.json) |
+| MineSweepVR | 90017 | [90017-minesweepvr.json](./90017-minesweepvr.json) |
 | Mineswifter | 138189 | [138189-mineswifter.json](./138189-mineswifter.json) |
 | Minetic | 349893 | [349893-minetic.json](./349893-minetic.json) |
 | Mineval | 295748 | [295748-mineval.json](./295748-mineval.json) |
@@ -18966,6 +18971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Chin | 409760 | [409760-mr-chin.json](./409760-mr-chin.json) |
 | Mr Constructor | 54226 | [54226-mr-constructor.json](./54226-mr-constructor.json) |
 | Mr Crab | 57146 | [57146-mr-crab.json](./57146-mr-crab.json) |
+| Mr Dirt Poor | 90016 | [90016-mr-dirt-poor.json](./90016-mr-dirt-poor.json) |
 | Mr Donald | 348006 | [348006-mr-donald.json](./348006-mr-donald.json) |
 | Mr Fish's Awful Adventure | 181174 | [181174-mr-fishs-awful-adventure.json](./181174-mr-fishs-awful-adventure.json) |
 | Mr Flap | 214817 | [214817-mr-flap.json](./214817-mr-flap.json) |
