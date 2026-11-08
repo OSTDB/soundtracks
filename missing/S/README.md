@@ -14548,6 +14548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Small Nights | 253397 | [253397-small-nights.json](./253397-small-nights.json) |
 | Small on Top | 245617 | [245617-small-on-top.json](./245617-small-on-top.json) |
 | Small People Defense | 236325 | [236325-small-people-defense.json](./236325-small-people-defense.json) |
+| Small person | 102911 | [102911-small-person.json](./102911-small-person.json) |
 | Small Phrases Great stories | 196905 | [196905-small-phrases-great-stories.json](./196905-small-phrases-great-stories.json) |
 | Small Pile of Gibs | 402797 | [402797-small-pile-of-gibs.json](./402797-small-pile-of-gibs.json) |
 | Small Pixel | 105094 | [105094-small-pixel.json](./105094-small-pixel.json) |
@@ -19781,6 +19782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Codex | 32684 | [32684-space-codex.json](./32684-space-codex.json) |
 | Space Colonies | 153576 | [153576-space-colonies.json](./153576-space-colonies.json) |
 | Space Colonizer | 165930 | [165930-space-colonizer.json](./165930-space-colonizer.json) |
+| Space Colonizers Idle Clicker | 102476 | [102476-space-colonizers-idle-clicker.json](./102476-space-colonizers-idle-clicker.json) |
 | Space Colonizers: The Sandbox | 261425 | [261425-space-colonizers-the-sandbox.json](./261425-space-colonizers-the-sandbox.json) |
 | Space Colony HD | 51901 | [51901-space-colony-hd.json](./51901-space-colony-hd.json) |
 | Space Combat | 294265 | [294265-space-combat.json](./294265-space-combat.json) |
@@ -20076,6 +20078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hero: Intergalactic Titan | 244552 | [244552-space-hero-intergalactic-titan.json](./244552-space-hero-intergalactic-titan.json) |
 | Space Hexcite: Maetel Legend EX | 49808 | [49808-space-hexcite-maetel-legend-ex.json](./49808-space-hexcite-maetel-legend-ex.json) |
 | Space Hitchhiker Stop | 360563 | [360563-space-hitchhiker-stop.json](./360563-space-hitchhiker-stop.json) |
+| Space Hodsola | 102481 | [102481-space-hodsola.json](./102481-space-hodsola.json) |
 | Space Hodsola 2 | 105246 | [105246-space-hodsola-2.json](./105246-space-hodsola-2.json) |
 | Space Hole | 361227 | [361227-space-hole.json](./361227-space-hole.json) |
 | Space Hole 2016 | 32548 | [32548-space-hole-2016.json](./32548-space-hole-2016.json) |
@@ -22499,6 +22502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiral Dystopia | 235857 | [235857-spiral-dystopia.json](./235857-spiral-dystopia.json) |
 | Spiral Helix: Jump down the tower | 104445 | [104445-spiral-helix-jump-down-the-tower.json](./104445-spiral-helix-jump-down-the-tower.json) |
 | Spiral House | 178015 | [178015-spiral-house.json](./178015-spiral-house.json) |
+| Spiral Jump - Spiral Jumping Ball | 102835 | [102835-spiral-jump-spiral-jumping-ball.json](./102835-spiral-jump-spiral-jumping-ball.json) |
 | Spiral Knights: Operation Crimson Hammer | 170877 | [170877-spiral-knights-operation-crimson-hammer.json](./170877-spiral-knights-operation-crimson-hammer.json) |
 | Spiral Memoria: The Summer I Meet Myself | 138386 | [138386-spiral-memoria-the-summer-i-meet-myself.json](./138386-spiral-memoria-the-summer-i-meet-myself.json) |
 | Spiral of War | 270785 | [270785-spiral-of-war.json](./270785-spiral-of-war.json) |
@@ -24156,6 +24160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stab It VR.com | 310022 | [310022-stab-it-vr-com.json](./310022-stab-it-vr-com.json) |
 | Stab! | 396322 | [396322-stab.json](./396322-stab.json) |
 | Stabby Cats | 159734 | [159734-stabby-cats.json](./159734-stabby-cats.json) |
+| Stabby Machine | 102910 | [102910-stabby-machine.json](./102910-stabby-machine.json) |
 | Stabby the Clown | 176774 | [176774-stabby-the-clown.json](./176774-stabby-the-clown.json) |
 | Stabfish 2 | 200190 | [200190-stabfish-2.json](./200190-stabfish-2.json) |
 | Stabfish.io | 276540 | [276540-stabfish-io.json](./276540-stabfish-io.json) |
