@@ -976,6 +976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1894,6 +1895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bamse | 106273 | [106273-bamse.json](./106273-bamse.json) |
 | Bamse i Egypten | 154045 | [154045-bamse-i-egypten.json](./154045-bamse-i-egypten.json) |
 | Bamsing | 18825 | [18825-bamsing.json](./18825-bamsing.json) |
+| Bamzooki | 124368 | [124368-bamzooki.json](./124368-bamzooki.json) |
 | Ban: The Prologue of Gucha Gucha | 302961 | [302961-ban-the-prologue-of-gucha-gucha.json](./302961-ban-the-prologue-of-gucha-gucha.json) |
 | Bana Simulator | 252984 | [252984-bana-simulator.json](./252984-bana-simulator.json) |
 | Banality Wars Carridin | 167538 | [167538-banality-wars-carridin.json](./167538-banality-wars-carridin.json) |
@@ -15228,6 +15230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breach & Clear: Frozen Synapse Pack | 226270 | [226270-breach-and-clear-frozen-synapse-pack.json](./226270-breach-and-clear-frozen-synapse-pack.json) |
 | Breach 2 | 14345 | [14345-breach-2.json](./14345-breach-2.json) |
 | Breach 3 | 57650 | [57650-breach-3.json](./57650-breach-3.json) |
+| Breach and Clean | 124364 | [124364-breach-and-clean.json](./124364-breach-and-clean.json) |
 | Breach in Space | 245820 | [245820-breach-in-space.json](./245820-breach-in-space.json) |
 | Breach It | 29494 | [29494-breach-it.json](./29494-breach-it.json) |
 | Breach of Contract Reloaded | 89947 | [89947-breach-of-contract-reloaded.json](./89947-breach-of-contract-reloaded.json) |
@@ -15722,6 +15725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick: One Block at a Time | 416120 | [416120-brick-one-block-at-a-time.json](./416120-brick-one-block-at-a-time.json) |
 | Brick[BrickSmash]Smash | 128596 | [128596-brick-bricksmash-smash.json](./128596-brick-bricksmash-smash.json) |
 | Brickade | 371899 | [371899-brickade.json](./371899-brickade.json) |
+| Brickadia | 124360 | [124360-brickadia.json](./124360-brickadia.json) |
 | BrickArena | 100345 | [100345-brickarena.json](./100345-brickarena.json) |
 | BrickAttack | 76151 | [76151-brickattack.json](./76151-brickattack.json) |
 | BrickBounce | 273381 | [273381-brickbounce.json](./273381-brickbounce.json) |
@@ -16796,6 +16800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Shooter | 335469 | [335469-bubble-shooter.json](./335469-bubble-shooter.json) |
 | Bubble Shooter | 380041 | [380041-bubble-shooter.json](./380041-bubble-shooter.json) |
 | Bubble Shooter 2 | 299775 | [299775-bubble-shooter-2.json](./299775-bubble-shooter-2.json) |
+| Bubble Shooter 2: Smug the Pug | 124341 | [124341-bubble-shooter-2-smug-the-pug.json](./124341-bubble-shooter-2-smug-the-pug.json) |
 | Bubble Shooter Adventures | 341019 | [341019-bubble-shooter-adventures.json](./341019-bubble-shooter-adventures.json) |
 | Bubble Shooter Blast | 108631 | [108631-bubble-shooter-blast.json](./108631-bubble-shooter-blast.json) |
 | Bubble Shooter DX | 114186 | [114186-bubble-shooter-dx.json](./114186-bubble-shooter-dx.json) |
@@ -18535,6 +18540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butt Sniffin Pugs | 25645 | [25645-butt-sniffin-pugs.json](./25645-butt-sniffin-pugs.json) |
 | Butt Ugly Martians: B.K.M. Battles | 49281 | [49281-butt-ugly-martians-b-k-m-battles.json](./49281-butt-ugly-martians-b-k-m-battles.json) |
 | Butt-Ugly Martians | 198704 | [198704-butt-ugly-martians.json](./198704-butt-ugly-martians.json) |
+| Butt-Ugly Martians: Martian Boot Camp | 124373 | [124373-butt-ugly-martians-martian-boot-camp.json](./124373-butt-ugly-martians-martian-boot-camp.json) |
 | Butt-Ugly Martians: Zoom or Doom | 3841 | [3841-butt-ugly-martians-zoom-or-doom.json](./3841-butt-ugly-martians-zoom-or-doom.json) |
 | Butter & Friends Babysitter Sim | 75148 | [75148-butter-and-friends-babysitter-sim.json](./75148-butter-and-friends-babysitter-sim.json) |
 | ButteredLilly's Random Quotes & Avatar Remote | 303716 | [303716-butteredlillys-random-quotes-and-avatar-remote.json](./303716-butteredlillys-random-quotes-and-avatar-remote.json) |
