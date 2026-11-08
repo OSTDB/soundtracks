@@ -2284,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tao Yuan Shen Chu You Ren Jia | 283374 | [283374-tao-yuan-shen-chu-you-ren-jia.json](./283374-tao-yuan-shen-chu-you-ren-jia.json) |
 | Tao's Adventure: Curse of the Demon Seal | 20495 | [20495-taos-adventure-curse-of-the-demon-seal.json](./20495-taos-adventure-curse-of-the-demon-seal.json) |
 | Taoist Down the Hill | 301621 | [301621-taoist-down-the-hill.json](./301621-taoist-down-the-hill.json) |
+| Taoist immortal | 114574 | [114574-taoist-immortal.json](./114574-taoist-immortal.json) |
 | Taoist Priest Yan | 189028 | [189028-taoist-priest-yan.json](./189028-taoist-priest-yan.json) |
 | Taoist Survivor | 369611 | [369611-taoist-survivor.json](./369611-taoist-survivor.json) |
 | Táolí Dìqiú | 158203 | [158203-taoli-diqiu.json](./158203-taoli-diqiu.json) |
@@ -7382,6 +7383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Children's Friend | 236731 | [236731-the-childrens-friend.json](./236731-the-childrens-friend.json) |
 | The Childs Sight | 115920 | [115920-the-childs-sight.json](./115920-the-childs-sight.json) |
 | The Chilling Moment You Realize It: Creepy Meaning Psychological Test | 410366 | [410366-the-chilling-moment-you-realize-it-creepy-meaning-psychological-test.json](./410366-the-chilling-moment-you-realize-it-creepy-meaning-psychological-test.json) |
+| The Chills | 114594 | [114594-the-chills.json](./114594-the-chills.json) |
 | The Chimba's Adventure | 262144 | [262144-the-chimbas-adventure.json](./262144-the-chimbas-adventure.json) |
 | The Chinese Room | 26699 | [26699-the-chinese-room.json](./26699-the-chinese-room.json) |
 | The Chipmunks | 217948 | [217948-the-chipmunks.json](./217948-the-chipmunks.json) |
@@ -14110,6 +14112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mirror's Edge | 341267 | [341267-the-mirrors-edge.json](./341267-the-mirrors-edge.json) |
 | The Mirror's End | 96189 | [96189-the-mirrors-end.json](./96189-the-mirrors-end.json) |
 | The Mirst | 206707 | [206707-the-mirst.json](./206707-the-mirst.json) |
+| The Mirum | 114582 | [114582-the-mirum.json](./114582-the-mirum.json) |
 | The Misadventure of Melon | 120946 | [120946-the-misadventure-of-melon.json](./120946-the-misadventure-of-melon.json) |
 | The Misadventures of Botsworth | 105651 | [105651-the-misadventures-of-botsworth.json](./105651-the-misadventures-of-botsworth.json) |
 | The Misadventures of Denniz & Diana | 113050 | [113050-the-misadventures-of-denniz-and-diana.json](./113050-the-misadventures-of-denniz-and-diana.json) |
@@ -17815,6 +17818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tartine's Show | 263657 | [263657-the-tartines-show.json](./263657-the-tartines-show.json) |
 | The Tau Ceti Terminus | 154895 | [154895-the-tau-ceti-terminus.json](./154895-the-tau-ceti-terminus.json) |
 | The Tau Experiment | 276144 | [276144-the-tau-experiment.json](./276144-the-tau-experiment.json) |
+| The Tavern | 114607 | [114607-the-tavern.json](./114607-the-tavern.json) |
 | The Tavern | 36596 | [36596-the-tavern.json](./36596-the-tavern.json) |
 | The Tavern In the Woods | 347191 | [347191-the-tavern-in-the-woods.json](./347191-the-tavern-in-the-woods.json) |
 | The Tavern of Magic | 86413 | [86413-the-tavern-of-magic.json](./86413-the-tavern-of-magic.json) |
@@ -30953,6 +30957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trayveler | 179323 | [179323-trayveler.json](./179323-trayveler.json) |
 | TRAZ | 262525 | [262525-traz.json](./262525-traz.json) |
 | Trazz | 173185 | [173185-trazz.json](./173185-trazz.json) |
+| TRE HUN: Unity-Chan x Action | 114602 | [114602-tre-hun-unity-chan-x-action.json](./114602-tre-hun-unity-chan-x-action.json) |
 | Treacherous Journeys | 176207 | [176207-treacherous-journeys.json](./176207-treacherous-journeys.json) |
 | Treacherous Trials | 360456 | [360456-treacherous-trials.json](./360456-treacherous-trials.json) |
 | Treachery | 277292 | [277292-treachery.json](./277292-treachery.json) |
@@ -32068,6 +32073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trolls and Tribulations: Omega | 178554 | [178554-trolls-and-tribulations-omega.json](./178554-trolls-and-tribulations-omega.json) |
 | Trolls de Troy: La Cité de la mort rose | 388737 | [388737-trolls-de-troy-la-cite-de-la-mort-rose.json](./388737-trolls-de-troy-la-cite-de-la-mort-rose.json) |
 | Trolls Remix Rescue | 261537 | [261537-trolls-remix-rescue.json](./261537-trolls-remix-rescue.json) |
+| Trolls Vs. Vikings 2 | 114620 | [114620-trolls-vs-vikings-2.json](./114620-trolls-vs-vikings-2.json) |
 | Trolls vs. Vikings: Reborn | 331285 | [331285-trolls-vs-vikings-reborn.json](./331285-trolls-vs-vikings-reborn.json) |
 | Trollskog | 24834 | [24834-trollskog.json](./24834-trollskog.json) |
 | Trollz: Hair Affair! | 49375 | [49375-trollz-hair-affair.json](./49375-trollz-hair-affair.json) |
