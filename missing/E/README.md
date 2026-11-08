@@ -1336,6 +1336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edingir Odyssey | 249004 | [249004-edingir-odyssey.json](./249004-edingir-odyssey.json) |
 | Editarrr | 270519 | [270519-editarrr.json](./270519-editarrr.json) |
 | Editor in Chief: Beginning 1 | 108594 | [108594-editor-in-chief-beginning-1.json](./108594-editor-in-chief-beginning-1.json) |
+| Editor in Chief: Level 1 | 100967 | [100967-editor-in-chief-level-1.json](./100967-editor-in-chief-level-1.json) |
 | Editor-dle | 249539 | [249539-editor-dle.json](./249539-editor-dle.json) |
 | Editor's Hell | 221176 | [221176-editors-hell.json](./221176-editors-hell.json) |
 | EDM Ballistics | 374021 | [374021-edm-ballistics.json](./374021-edm-ballistics.json) |
@@ -4730,6 +4731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epinephrine Drive! | 422191 | [422191-epinephrine-drive.json](./422191-epinephrine-drive.json) |
 | Epiphany | 181201 | [181201-epiphany.json](./181201-epiphany.json) |
 | Epiphany in Spaaace! | 66356 | [66356-epiphany-in-spaaace.json](./66356-epiphany-in-spaaace.json) |
+| Epiphany! | 100466 | [100466-epiphany.json](./100466-epiphany.json) |
 | Epiphyllum in Love | 216405 | [216405-epiphyllum-in-love.json](./216405-epiphyllum-in-love.json) |
 | Epiplaphobia | 206533 | [206533-epiplaphobia.json](./206533-epiplaphobia.json) |
 | Episode | 369114 | [369114-episode.json](./369114-episode.json) |
@@ -7875,6 +7877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exo Pexo Dots & Diamond | 226740 | [226740-exo-pexo-dots-and-diamond.json](./226740-exo-pexo-dots-and-diamond.json) |
 | Exo Racing | 112827 | [112827-exo-racing.json](./112827-exo-racing.json) |
 | Exo Rally Championship | 252862 | [252862-exo-rally-championship.json](./252862-exo-rally-championship.json) |
+| Exo TD | 100459 | [100459-exo-td.json](./100459-exo-td.json) |
 | Exo Wanderers | 340044 | [340044-exo-wanderers.json](./340044-exo-wanderers.json) |
 | Exo-Adventures | 108232 | [108232-exo-adventures.json](./108232-exo-adventures.json) |
 | Exo-Calibre | 338927 | [338927-exo-calibre.json](./338927-exo-calibre.json) |
@@ -8170,6 +8173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exploration Escape Room Bundle | 378831 | [378831-exploration-escape-room-bundle.json](./378831-exploration-escape-room-bundle.json) |
 | Exploration Master 2 | 104206 | [104206-exploration-master-2.json](./104206-exploration-master-2.json) |
 | Exploration Pro | 103971 | [103971-exploration-pro.json](./103971-exploration-pro.json) |
+| Exploration Pro 2018 | 101123 | [101123-exploration-pro-2018.json](./101123-exploration-pro-2018.json) |
 | Exploration Space | 96846 | [96846-exploration-space.json](./96846-exploration-space.json) |
 | Exploration: Light | 269987 | [269987-exploration-light.json](./269987-exploration-light.json) |
 | Explore | 246441 | [246441-explore.json](./246441-explore.json) |
