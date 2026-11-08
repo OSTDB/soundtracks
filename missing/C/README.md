@@ -7537,6 +7537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children's Jigsaw Puzzles: Fairy Tale | 162220 | [162220-childrens-jigsaw-puzzles-fairy-tale.json](./162220-childrens-jigsaw-puzzles-fairy-tale.json) |
 | Children's Jigsaw Puzzles: Magic Kindergarten | 162222 | [162222-childrens-jigsaw-puzzles-magic-kindergarten.json](./162222-childrens-jigsaw-puzzles-magic-kindergarten.json) |
 | Children's Musical Theatre | 45894 | [45894-childrens-musical-theatre.json](./45894-childrens-musical-theatre.json) |
+| Children's Story | 128755 | [128755-childrens-story.json](./128755-childrens-story.json) |
 | ChildrenBreak | 97239 | [97239-childrenbreak.json](./97239-childrenbreak.json) |
 | Chili Con Carnage | 23111 | [23111-chili-con-carnage.json](./23111-chili-con-carnage.json) |
 | Chili the Chipmunk Pinball Adventure | 116188 | [116188-chili-the-chipmunk-pinball-adventure.json](./116188-chili-the-chipmunk-pinball-adventure.json) |
@@ -20431,6 +20432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cut Content Restored | 390540 | [390540-cut-content-restored.json](./390540-cut-content-restored.json) |
 | Cut Corner Renovations USSR | 401387 | [401387-cut-corner-renovations-ussr.json](./401387-cut-corner-renovations-ussr.json) |
 | Cut Cut Buffet | 29753 | [29753-cut-cut-buffet.json](./29753-cut-cut-buffet.json) |
+| Cut From Shadows Prologue | 128735 | [128735-cut-from-shadows-prologue.json](./128735-cut-from-shadows-prologue.json) |
 | Cut Grass | 188392 | [188392-cut-grass.json](./188392-cut-grass.json) |
 | Cut It | 316716 | [316716-cut-it.json](./316716-cut-it.json) |
 | Cut It: Brain Puzzles | 254325 | [254325-cut-it-brain-puzzles.json](./254325-cut-it-brain-puzzles.json) |
@@ -21245,6 +21247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cymbalism | 285124 | [285124-cymbalism.json](./285124-cymbalism.json) |
 | Cymut x Mutrobo: The Last Cymut | 292326 | [292326-cymut-x-mutrobo-the-last-cymut.json](./292326-cymut-x-mutrobo-the-last-cymut.json) |
 | Cynabre | 371334 | [371334-cynabre.json](./371334-cynabre.json) |
+| Cynanchum | 128721 | [128721-cynanchum.json](./128721-cynanchum.json) |
 | Cyndaria | 132948 | [132948-cyndaria.json](./132948-cyndaria.json) |
 | Cyndefense 2 | 190787 | [190787-cyndefense-2.json](./190787-cyndefense-2.json) |
 | Cyndefense Remastered | 382289 | [382289-cyndefense-remastered.json](./382289-cyndefense-remastered.json) |
