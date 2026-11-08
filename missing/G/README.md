@@ -1239,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game About Jetpack Fly | 320537 | [320537-game-about-jetpack-fly.json](./320537-game-about-jetpack-fly.json) |
 | Game After School | 233446 | [233446-game-after-school.json](./233446-game-after-school.json) |
 | Game Battle Tycoon | 186999 | [186999-game-battle-tycoon.json](./186999-game-battle-tycoon.json) |
+| Game Book DS: Koukaku no Regios | 131059 | [131059-game-book-ds-koukaku-no-regios.json](./131059-game-book-ds-koukaku-no-regios.json) |
 | Game Box Série Corridas | 130839 | [130839-game-box-serie-corridas.json](./130839-game-box-serie-corridas.json) |
 | Game Box Série Esportes | 93173 | [93173-game-box-serie-esportes.json](./93173-game-box-serie-esportes.json) |
 | Game Box Série Esportes Radicais | 96505 | [96505-game-box-serie-esportes-radicais.json](./96505-game-box-serie-esportes-radicais.json) |
@@ -1414,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Party 3 | 76982 | [76982-game-party-3.json](./76982-game-party-3.json) |
 | Game Party: In Motion | 2659 | [2659-game-party-in-motion.json](./2659-game-party-in-motion.json) |
 | Game Quest: The Backlog Battler | 346715 | [346715-game-quest-the-backlog-battler.json](./346715-game-quest-the-backlog-battler.json) |
+| Game Room | 131080 | [131080-game-room.json](./131080-game-room.json) |
 | Game Room | 328212 | [328212-game-room.json](./328212-game-room.json) |
 | Game Room | 360634 | [360634-game-room.json](./360634-game-room.json) |
 | Game Room | 91353 | [91353-game-room.json](./91353-game-room.json) |
@@ -6936,6 +6938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golgo 13: Mienai Guntai | 91930 | [91930-golgo-13-mienai-guntai.json](./91930-golgo-13-mienai-guntai.json) |
 | Golgo 13: Moretti Ichizoku Zansatsu Jiken | 80431 | [80431-golgo-13-moretti-ichizoku-zansatsu-jiken.json](./80431-golgo-13-moretti-ichizoku-zansatsu-jiken.json) |
 | Golgo 13: Top Secret Episode | 48059 | [48059-golgo-13-top-secret-episode.json](./48059-golgo-13-top-secret-episode.json) |
+| Golgo-13 | 131079 | [131079-golgo-13.json](./131079-golgo-13.json) |
 | Golgo-13 2 - Kiseki no Dandou | 91928 | [91928-golgo-13-2-kiseki-no-dandou.json](./91928-golgo-13-2-kiseki-no-dandou.json) |
 | Golgo-13 3 - Juusei no Chinkonka | 91929 | [91929-golgo-13-3-juusei-no-chinkonka.json](./91929-golgo-13-3-juusei-no-chinkonka.json) |
 | Golgol runner | 183320 | [183320-golgol-runner.json](./183320-golgol-runner.json) |
