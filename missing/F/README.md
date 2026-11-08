@@ -14266,6 +14266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Ludo | 174370 | [174370-future-ludo.json](./174370-future-ludo.json) |
 | Future Mirror | 217407 | [217407-future-mirror.json](./217407-future-mirror.json) |
 | Future Ninja | 164756 | [164756-future-ninja.json](./164756-future-ninja.json) |
+| Future Noir | 123671 | [123671-future-noir.json](./123671-future-noir.json) |
 | Future Perfect | 36415 | [36415-future-perfect.json](./36415-future-perfect.json) |
 | Future Pinball | 98912 | [98912-future-pinball.json](./98912-future-pinball.json) |
 | Future Pool | 130857 | [130857-future-pool.json](./130857-future-pool.json) |
