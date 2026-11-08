@@ -3062,6 +3062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hayles Quest | 113546 | [113546-hayles-quest.json](./113546-hayles-quest.json) |
 | Haymaker | 171900 | [171900-haymaker.json](./171900-haymaker.json) |
 | Haymaker | 60898 | [60898-haymaker.json](./60898-haymaker.json) |
+| Haymakers | 83729 | [83729-haymakers.json](./83729-haymakers.json) |
 | Hayo and the Emporium | 342298 | [342298-hayo-and-the-emporium.json](./342298-hayo-and-the-emporium.json) |
 | Haypi Monster 3 | 129610 | [129610-haypi-monster-3.json](./129610-haypi-monster-3.json) |
 | Haypi Monster: The Lost Tower | 392105 | [392105-haypi-monster-the-lost-tower.json](./392105-haypi-monster-the-lost-tower.json) |
@@ -9210,6 +9211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holly's Wedding Salon 2 | 97062 | [97062-hollys-wedding-salon-2.json](./97062-hollys-wedding-salon-2.json) |
 | Hollybound | 262653 | [262653-hollybound.json](./262653-hollybound.json) |
 | Hollywhoot | 107011 | [107011-hollywhoot.json](./107011-hollywhoot.json) |
+| Hollywood | 83723 | [83723-hollywood.json](./83723-hollywood.json) |
 | Hollywood 61 | 78734 | [78734-hollywood-61.json](./78734-hollywood-61.json) |
 | Hollywood Crush | 349252 | [349252-hollywood-crush.json](./349252-hollywood-crush.json) |
 | Hollywood Escape | 70912 | [70912-hollywood-escape.json](./70912-hollywood-escape.json) |
