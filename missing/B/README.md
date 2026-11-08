@@ -2297,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banyu: Reclaiming Hope | 347888 | [347888-banyu-reclaiming-hope.json](./347888-banyu-reclaiming-hope.json) |
 | Banzai Arcade | 19143 | [19143-banzai-arcade.json](./19143-banzai-arcade.json) |
 | Banzai Bat | 188966 | [188966-banzai-bat.json](./188966-banzai-bat.json) |
+| Banzai Bug | 94307 | [94307-banzai-bug.json](./94307-banzai-bug.json) |
 | Banzai Dice | 232367 | [232367-banzai-dice.json](./232367-banzai-dice.json) |
 | Banzai Escape | 33566 | [33566-banzai-escape.json](./33566-banzai-escape.json) |
 | Banzai Escape 2 | 129645 | [129645-banzai-escape-2.json](./129645-banzai-escape-2.json) |
