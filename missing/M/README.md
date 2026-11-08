@@ -1226,6 +1226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Kingdom War DLC-1 | 220609 | [220609-magic-kingdom-war-dlc-1.json](./220609-magic-kingdom-war-dlc-1.json) |
 | Magic Kingdom War DLC-2 | 220610 | [220610-magic-kingdom-war-dlc-2.json](./220610-magic-kingdom-war-dlc-2.json) |
 | Magic Klondike | 232561 | [232561-magic-klondike.json](./232561-magic-klondike.json) |
+| Magic Knight | 92209 | [92209-magic-knight.json](./92209-magic-knight.json) |
 | Magic Knight Grand Charion | 305482 | [305482-magic-knight-grand-charion.json](./305482-magic-knight-grand-charion.json) |
 | Magic Knight Rayearth | 105043 | [105043-magic-knight-rayearth.json](./105043-magic-knight-rayearth.json) |
 | Magic Knight Rayearth | 105045 | [105045-magic-knight-rayearth.json](./105045-magic-knight-rayearth.json) |
@@ -6083,6 +6084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -13179,6 +13181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Party | 83857 | [83857-mini-party.json](./83857-mini-party.json) |
 | Mini Pipes | 195147 | [195147-mini-pipes.json](./195147-mini-pipes.json) |
 | Mini Pistons GT | 359165 | [359165-mini-pistons-gt.json](./359165-mini-pistons-gt.json) |
+| Mini Plane | 92552 | [92552-mini-plane.json](./92552-mini-plane.json) |
 | Mini Pocket Racers | 238394 | [238394-mini-pocket-racers.json](./238394-mini-pocket-racers.json) |
 | Mini Pond Farm: Frogs & Lilypads | 406154 | [406154-mini-pond-farm-frogs-and-lilypads.json](./406154-mini-pond-farm-frogs-and-lilypads.json) |
 | Mini Pool for Kids | 107356 | [107356-mini-pool-for-kids.json](./107356-mini-pool-for-kids.json) |
