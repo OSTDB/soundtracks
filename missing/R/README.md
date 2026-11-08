@@ -313,9 +313,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race & Destroy | 32738 | [32738-race-and-destroy.json](./32738-race-and-destroy.json) |
 | Race 07 | 10380 | [10380-race-07.json](./10380-race-07.json) |
 | Race 07: Formula RaceRoom | 120183 | [120183-race-07-formula-raceroom.json](./120183-race-07-formula-raceroom.json) |
+| Race 07: GT Power Pack | 119179 | [119179-race-07-gt-power-pack.json](./119179-race-07-gt-power-pack.json) |
 | Race 07: GTR Evolution Expansion Pack | 167904 | [167904-race-07-gtr-evolution-expansion-pack.json](./167904-race-07-gtr-evolution-expansion-pack.json) |
+| Race 07: Retro | 119180 | [119180-race-07-retro.json](./119180-race-07-retro.json) |
 | Race 07: STCC - The Game 1 | 164387 | [164387-race-07-stcc-the-game-1.json](./164387-race-07-stcc-the-game-1.json) |
 | Race 07: STCC - The Game 2 | 164386 | [164386-race-07-stcc-the-game-2.json](./164386-race-07-stcc-the-game-2.json) |
+| Race 07: WTCC 2010 | 119181 | [119181-race-07-wtcc-2010.json](./119181-race-07-wtcc-2010.json) |
 | Race Ace | 315274 | [315274-race-ace.json](./315274-race-ace.json) |
 | Race Against a Duck | 343189 | [343189-race-against-a-duck.json](./343189-race-against-a-duck.json) |
 | Race Arcade | 105127 | [105127-race-arcade.json](./105127-race-arcade.json) |
@@ -12611,6 +12614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run!ZombieFoods! | 51425 | [51425-run-zombiefoods.json](./51425-run-zombiefoods.json) |
 | Run'N'Get | 109884 | [109884-runnget.json](./109884-runnget.json) |
 | Run&Brake - Animal Escape | 108195 | [108195-run-and-brake-animal-escape.json](./108195-run-and-brake-animal-escape.json) |
+| Run=Dim as Black Soul | 119205 | [119205-run-dim-as-black-soul.json](./119205-run-dim-as-black-soul.json) |
 | Run=Dim: Return to Earth | 37557 | [37557-run-dim-return-to-earth.json](./37557-run-dim-return-to-earth.json) |
 | Run4Ever | 357137 | [357137-run4ever.json](./357137-run4ever.json) |
 | Run4YourLight | 203761 | [203761-run4yourlight.json](./203761-run4yourlight.json) |
