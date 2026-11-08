@@ -11219,6 +11219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dive Expedition: Sunken Ship DLC | 378970 | [378970-dive-expedition-sunken-ship-dlc.json](./378970-dive-expedition-sunken-ship-dlc.json) |
 | Dive Hard Dave | 211501 | [211501-dive-hard-dave.json](./211501-dive-hard-dave.json) |
 | Dive in the Past | 199911 | [199911-dive-in-the-past.json](./199911-dive-in-the-past.json) |
+| Dive Inside | 106077 | [106077-dive-inside.json](./106077-dive-inside.json) |
 | Dive Into The Survival | 340555 | [340555-dive-into-the-survival.json](./340555-dive-into-the-survival.json) |
 | Dive On | 264069 | [264069-dive-on.json](./264069-dive-on.json) |
 | Dive or Die: Children of Rain | 391055 | [391055-dive-or-die-children-of-rain.json](./391055-dive-or-die-children-of-rain.json) |
@@ -15250,6 +15251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Drive: World D Break | 49174 | [49174-dragon-drive-world-d-break.json](./49174-dragon-drive-world-d-break.json) |
 | Dragon Drop | 159251 | [159251-dragon-drop.json](./159251-dragon-drop.json) |
 | Dragon Drop | 58481 | [58481-dragon-drop.json](./58481-dragon-drop.json) |
+| Dragon Duel | 106052 | [106052-dragon-duel.json](./106052-dragon-duel.json) |
 | Dragon Eclipse | 272997 | [272997-dragon-eclipse.json](./272997-dragon-eclipse.json) |
 | Dragon Egg! | 37722 | [37722-dragon-egg.json](./37722-dragon-egg.json) |
 | Dragon Empires | 91674 | [91674-dragon-empires.json](./91674-dragon-empires.json) |
