@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daikaijuu Monogatari: The Miracle of the Zone | 62071 | [62071-daikaijuu-monogatari-the-miracle-of-the-zone.json](./62071-daikaijuu-monogatari-the-miracle-of-the-zone.json) |
 | Daikaijuu no Gyakushuu | 221042 | [221042-daikaijuu-no-gyakushuu.json](./221042-daikaijuu-no-gyakushuu.json) |
 | Daikatana | 361416 | [361416-daikatana.json](./361416-daikatana.json) |
+| Daikatana | 80764 | [80764-daikatana.json](./80764-daikatana.json) |
 | Daikatana | 8201 | [8201-daikatana.json](./8201-daikatana.json) |
 | Daikon Set | 55911 | [55911-daikon-set.json](./55911-daikon-set.json) |
 | Daikoukai Jidai | 41729 | [41729-daikoukai-jidai.json](./41729-daikoukai-jidai.json) |
@@ -7993,6 +7994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Club: Gallery of Shadows | 416699 | [416699-detective-club-gallery-of-shadows.json](./416699-detective-club-gallery-of-shadows.json) |
 | Detective Club: Gallery of Shadows - Collector's Edition | 362848 | [362848-detective-club-gallery-of-shadows-collectors-edition.json](./362848-detective-club-gallery-of-shadows-collectors-edition.json) |
 | Detective Club: Missing in the Fog - Collector's Edition | 342099 | [342099-detective-club-missing-in-the-fog-collectors-edition.json](./342099-detective-club-missing-in-the-fog-collectors-edition.json) |
+| Detective Conan | 80752 | [80752-detective-conan.json](./80752-detective-conan.json) |
 | Detective Conan Runner: Race for the Truth | 119274 | [119274-detective-conan-runner-race-for-the-truth.json](./119274-detective-conan-runner-race-for-the-truth.json) |
 | Detective Conan Skateboard Run: Kaitou Kid to Shinpi no Hihou | 115712 | [115712-detective-conan-skateboard-run-kaitou-kid-to-shinpi-no-hihou.json](./115712-detective-conan-skateboard-run-kaitou-kid-to-shinpi-no-hihou.json) |
 | Detective Conan: Akatsuki no Monument | 49695 | [49695-detective-conan-akatsuki-no-monument.json](./49695-detective-conan-akatsuki-no-monument.json) |
@@ -8695,6 +8697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamond | 314304 | [314304-diamond.json](./314304-diamond.json) |
 | Diamond | 348530 | [348530-diamond.json](./348530-diamond.json) |
 | Diamond | 35826 | [35826-diamond.json](./35826-diamond.json) |
+| Diamond Adventure | 80728 | [80728-diamond-adventure.json](./80728-diamond-adventure.json) |
 | Diamond Battle | 90385 | [90385-diamond-battle.json](./90385-diamond-battle.json) |
 | Diamond Caves | 111571 | [111571-diamond-caves.json](./111571-diamond-caves.json) |
 | Diamond Caves II | 122631 | [122631-diamond-caves-ii.json](./122631-diamond-caves-ii.json) |
@@ -12440,6 +12443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doll Parts | 347793 | [347793-doll-parts.json](./347793-doll-parts.json) |
 | Doll Recollect | 299737 | [299737-doll-recollect.json](./299737-doll-recollect.json) |
 | Doll Style: Underground Design and Dress | 328733 | [328733-doll-style-underground-design-and-dress.json](./328733-doll-style-underground-design-and-dress.json) |
+| Doll: Ouroboros | 80709 | [80709-doll-ouroboros.json](./80709-doll-ouroboros.json) |
 | Doll's Ingram | 131585 | [131585-dolls-ingram.json](./131585-dolls-ingram.json) |
 | Doll's Liminal | 259467 | [259467-dolls-liminal.json](./259467-dolls-liminal.json) |
 | Dolla World | 82332 | [82332-dolla-world.json](./82332-dolla-world.json) |
