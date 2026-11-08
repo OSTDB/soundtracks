@@ -4150,6 +4150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea of Thieves: 2025 Deluxe Edition | 336884 | [336884-sea-of-thieves-2025-deluxe-edition.json](./336884-sea-of-thieves-2025-deluxe-edition.json) |
 | Sea of Thieves: 2025 Premium Edition | 336883 | [336883-sea-of-thieves-2025-premium-edition.json](./336883-sea-of-thieves-2025-premium-edition.json) |
 | Sea of Thieves: A Pirate's Life | 152294 | [152294-sea-of-thieves-a-pirates-life.json](./152294-sea-of-thieves-a-pirates-life.json) |
+| Sea of Thieves: Anniversary Edition | 118514 | [118514-sea-of-thieves-anniversary-edition.json](./118514-sea-of-thieves-anniversary-edition.json) |
 | Sea of Thieves: Cursed Sails | 103284 | [103284-sea-of-thieves-cursed-sails.json](./103284-sea-of-thieves-cursed-sails.json) |
 | Sea of Thieves: Custom Seas - Season 20 | 405065 | [405065-sea-of-thieves-custom-seas-season-20.json](./405065-sea-of-thieves-custom-seas-season-20.json) |
 | Sea of Thieves: Deluxe Edition | 241859 | [241859-sea-of-thieves-deluxe-edition.json](./241859-sea-of-thieves-deluxe-edition.json) |
@@ -5494,6 +5495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Basara 4 | 63628 | [63628-sengoku-basara-4.json](./63628-sengoku-basara-4.json) |
 | Sengoku Basara 4 Sumeragi | 42976 | [42976-sengoku-basara-4-sumeragi.json](./42976-sengoku-basara-4-sumeragi.json) |
 | Sengoku Basara 4: Sumeragi - Anniversary Edition | 136704 | [136704-sengoku-basara-4-sumeragi-anniversary-edition.json](./136704-sengoku-basara-4-sumeragi-anniversary-edition.json) |
+| Sengoku Basara Battle Party | 118483 | [118483-sengoku-basara-battle-party.json](./118483-sengoku-basara-battle-party.json) |
 | Sengoku Basara Chronicle Heroes | 65896 | [65896-sengoku-basara-chronicle-heroes.json](./65896-sengoku-basara-chronicle-heroes.json) |
 | Sengoku Basara HD Collection | 43054 | [43054-sengoku-basara-hd-collection.json](./43054-sengoku-basara-hd-collection.json) |
 | Sengoku Basara X | 68950 | [68950-sengoku-basara-x.json](./68950-sengoku-basara-x.json) |
@@ -15764,6 +15766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Fortress 2 | 258592 | [258592-snow-fortress-2.json](./258592-snow-fortress-2.json) |
 | Snow Games VR | 29782 | [29782-snow-games-vr.json](./29782-snow-games-vr.json) |
 | Snow Island | 122586 | [122586-snow-island.json](./122586-snow-island.json) |
+| Snow Jewels | 118526 | [118526-snow-jewels.json](./118526-snow-jewels.json) |
 | Snow Jewels Puzzle | 87134 | [87134-snow-jewels-puzzle.json](./87134-snow-jewels-puzzle.json) |
 | Snow Job | 4324 | [4324-snow-job.json](./4324-snow-job.json) |
 | Snow Journey | 211370 | [211370-snow-journey.json](./211370-snow-journey.json) |
@@ -21610,6 +21613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speer DX | 201699 | [201699-speer-dx.json](./201699-speer-dx.json) |
 | Speglar | 291534 | [291534-speglar.json](./291534-speglar.json) |
 | Spek | 123733 | [123733-spek.json](./123733-spek.json) |
+| Spek.Takl | 118481 | [118481-spek-takl.json](./118481-spek-takl.json) |
 | Spekel Sparks | 266237 | [266237-spekel-sparks.json](./266237-spekel-sparks.json) |
 | Spektakl: Banned Edition | 206954 | [206954-spektakl-banned-edition.json](./206954-spektakl-banned-edition.json) |
 | Spel-Ett | 100317 | [100317-spel-ett.json](./100317-spel-ett.json) |
