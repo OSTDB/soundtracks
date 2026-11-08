@@ -1881,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Contraption's Safari Park | 386975 | [386975-captain-contraptions-safari-park.json](./386975-captain-contraptions-safari-park.json) |
 | Captain Cook: Word Puzzle | 126253 | [126253-captain-cook-word-puzzle.json](./126253-captain-cook-word-puzzle.json) |
 | Captain Corgi: Planetary Problem Solver | 369090 | [369090-captain-corgi-planetary-problem-solver.json](./369090-captain-corgi-planetary-problem-solver.json) |
+| Captain Cosmo | 116565 | [116565-captain-cosmo.json](./116565-captain-cosmo.json) |
 | Captain Cowboy | 114668 | [114668-captain-cowboy.json](./114668-captain-cowboy.json) |
 | Captain Diarrhea and the Shartening | 190285 | [190285-captain-diarrhea-and-the-shartening.json](./190285-captain-diarrhea-and-the-shartening.json) |
 | Captain DinoHater | 180848 | [180848-captain-dinohater.json](./180848-captain-dinohater.json) |
@@ -13610,6 +13611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conclave | 80371 | [80371-conclave.json](./80371-conclave.json) |
 | Conclave: Dissension | 244086 | [244086-conclave-dissension.json](./244086-conclave-dissension.json) |
 | Concluse | 95239 | [95239-concluse.json](./95239-concluse.json) |
+| Concluse 2: The Drifting Prefecture | 116553 | [116553-concluse-2-the-drifting-prefecture.json](./116553-concluse-2-the-drifting-prefecture.json) |
 | Conclusion | 32197 | [32197-conclusion.json](./32197-conclusion.json) |
 | Concordia: Digital Edition | 140392 | [140392-concordia-digital-edition.json](./140392-concordia-digital-edition.json) |
 | Concordia: Digital Edition - Aegyptus & Creta | 193169 | [193169-concordia-digital-edition-aegyptus-and-creta.json](./193169-concordia-digital-edition-aegyptus-and-creta.json) |
@@ -17482,6 +17484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creed: Rise to Glory | 102134 | [102134-creed-rise-to-glory.json](./102134-creed-rise-to-glory.json) |
 | Creed: Rise to Glory - Championship Edition | 239419 | [239419-creed-rise-to-glory-championship-edition.json](./239419-creed-rise-to-glory-championship-edition.json) |
 | Creekside Creep Invasion | 30671 | [30671-creekside-creep-invasion.json](./30671-creekside-creep-invasion.json) |
+| Creep | 116571 | [116571-creep.json](./116571-creep.json) |
 | Creep | 133462 | [133462-creep.json](./133462-creep.json) |
 | Creep Kick | 310197 | [310197-creep-kick.json](./310197-creep-kick.json) |
 | Creep Rides | 118759 | [118759-creep-rides.json](./118759-creep-rides.json) |
@@ -17614,6 +17617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CRI Gokan Pack | 299824 | [299824-cri-gokan-pack.json](./299824-cri-gokan-pack.json) |
 | Criaturas de la Noche | 272011 | [272011-criaturas-de-la-noche.json](./272011-criaturas-de-la-noche.json) |
 | Crib | 264749 | [264749-crib.json](./264749-crib.json) |
+| Cribbage | 116572 | [116572-cribbage.json](./116572-cribbage.json) |
 | Cribbage | 83490 | [83490-cribbage.json](./83490-cribbage.json) |
 | Cribbage | 83492 | [83492-cribbage.json](./83492-cribbage.json) |
 | Cribbage Academy | 91279 | [91279-cribbage-academy.json](./91279-cribbage-academy.json) |
@@ -20069,6 +20073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cure for Danmaku Synd | 402089 | [402089-cure-for-danmaku-synd.json](./402089-cure-for-danmaku-synd.json) |
 | Cure for Death | 344526 | [344526-cure-for-death.json](./344526-cure-for-death.json) |
 | Cure Girl | 127963 | [127963-cure-girl.json](./127963-cure-girl.json) |
+| Cure Hunters | 116636 | [116636-cure-hunters.json](./116636-cure-hunters.json) |
 | Cure Mate Club | 63875 | [63875-cure-mate-club.json](./63875-cure-mate-club.json) |
 | Cure Obsession | 168525 | [168525-cure-obsession.json](./168525-cure-obsession.json) |
 | Cure: A Hospital Simulator | 376110 | [376110-cure-a-hospital-simulator.json](./376110-cure-a-hospital-simulator.json) |
