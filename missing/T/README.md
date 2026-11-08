@@ -820,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taito Milestones 2 | 249737 | [249737-taito-milestones-2.json](./249737-taito-milestones-2.json) |
 | Taito Milestones 3 | 319646 | [319646-taito-milestones-3.json](./319646-taito-milestones-3.json) |
 | Taito Milestones 4 | 382959 | [382959-taito-milestones-4.json](./382959-taito-milestones-4.json) |
+| Taito Variety Pack | 79489 | [79489-taito-variety-pack.json](./79489-taito-variety-pack.json) |
 | Taival | 398552 | [398552-taival.json](./398552-taival.json) |
 | Taivas | 139574 | [139574-taivas.json](./139574-taivas.json) |
 | Taiwan 2013 | 291988 | [291988-taiwan-2013.json](./291988-taiwan-2013.json) |
@@ -2250,6 +2251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Jinguji Saburo: Tsubaki no Yukue | 347614 | [347614-tantei-jinguji-saburo-tsubaki-no-yukue.json](./347614-tantei-jinguji-saburo-tsubaki-no-yukue.json) |
 | Tantei Jinguji Saburo: Tsubaki no Yukue & Nazono-Jikenbo | 347299 | [347299-tantei-jinguji-saburo-tsubaki-no-yukue-and-nazono-jikenbo.json](./347299-tantei-jinguji-saburo-tsubaki-no-yukue-and-nazono-jikenbo.json) |
 | Tantei Jinguji Saburo: Yokohama-ko Renzoku Satsujin Jiken | 80147 | [80147-tantei-jinguji-saburo-yokohama-ko-renzoku-satsujin-jiken.json](./80147-tantei-jinguji-saburo-yokohama-ko-renzoku-satsujin-jiken.json) |
+| Tantei Jinguji Saburo: Yume no Owari ni | 79453 | [79453-tantei-jinguji-saburo-yume-no-owari-ni.json](./79453-tantei-jinguji-saburo-yume-no-owari-ni.json) |
 | Tantei Kibukawa Ryosuke Jiken Tan: The Masquerade Lullaby | 124070 | [124070-tantei-kibukawa-ryosuke-jiken-tan-the-masquerade-lullaby.json](./124070-tantei-kibukawa-ryosuke-jiken-tan-the-masquerade-lullaby.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan Kamen Genei Satsujin Jiken Introduction | 298797 | [298797-tantei-kibukawa-ryousuke-jiken-tan-kamen-genei-satsujin-jiken-introduction.json](./298797-tantei-kibukawa-ryousuke-jiken-tan-kamen-genei-satsujin-jiken-introduction.json) |
 | Tantei Kibukawa Ryousuke Jiken-tan Vol. 7: Otonari Keiji no Sousa Memo | 297585 | [297585-tantei-kibukawa-ryousuke-jiken-tan-vol-7-otonari-keiji-no-sousa-memo.json](./297585-tantei-kibukawa-ryousuke-jiken-tan-vol-7-otonari-keiji-no-sousa-memo.json) |
@@ -4919,6 +4921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive: Offroad | 206222 | [206222-test-drive-offroad.json](./206222-test-drive-offroad.json) |
 | Test Dummy Takedown | 345961 | [345961-test-dummy-takedown.json](./345961-test-dummy-takedown.json) |
 | Test Lab Inc. | 264604 | [264604-test-lab-inc.json](./264604-test-lab-inc.json) |
+| Test Match + One Day Cricket | 79465 | [79465-test-match-one-day-cricket.json](./79465-test-match-one-day-cricket.json) |
 | Test of Fear | 350945 | [350945-test-of-fear.json](./350945-test-of-fear.json) |
 | Test Subject | 318778 | [318778-test-subject.json](./318778-test-subject.json) |
 | Test Subject | 325984 | [325984-test-subject.json](./325984-test-subject.json) |
@@ -11295,6 +11298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster 2 | 7014 | [7014-the-idolmaster-2.json](./7014-the-idolmaster-2.json) |
 | The Idolmaster Heardle | 205625 | [205625-the-idolmaster-heardle.json](./205625-the-idolmaster-heardle.json) |
 | The Idolmaster Must Songs: Presented by Taiko no Tatsujin - Aka-ban | 149988 | [149988-the-idolmaster-must-songs-presented-by-taiko-no-tatsujin-aka-ban.json](./149988-the-idolmaster-must-songs-presented-by-taiko-no-tatsujin-aka-ban.json) |
+| The Idolmaster Must Songs: Presented by Taiko no Tatsujin - Ao-ban | 79449 | [79449-the-idolmaster-must-songs-presented-by-taiko-no-tatsujin-ao-ban.json](./79449-the-idolmaster-must-songs-presented-by-taiko-no-tatsujin-ao-ban.json) |
 | The Idolmaster Tours | 241446 | [241446-the-idolmaster-tours.json](./241446-the-idolmaster-tours.json) |
 | The Idolmaster: Cinderella Girls - Gravure for You! Vol. 1 | 97428 | [97428-the-idolmaster-cinderella-girls-gravure-for-you-vol-1.json](./97428-the-idolmaster-cinderella-girls-gravure-for-you-vol-1.json) |
 | The Idolmaster: Cinderella Girls - Gravure for You! Vol. 2 | 97429 | [97429-the-idolmaster-cinderella-girls-gravure-for-you-vol-2.json](./97429-the-idolmaster-cinderella-girls-gravure-for-you-vol-2.json) |
