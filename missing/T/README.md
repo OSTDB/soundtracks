@@ -8458,6 +8458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Detail's in the Devils | 199739 | [199739-the-details-in-the-devils.json](./199739-the-details-in-the-devils.json) |
 | The Detective | 201415 | [201415-the-detective.json](./201415-the-detective.json) |
 | The Detective | 275700 | [275700-the-detective.json](./275700-the-detective.json) |
+| The Detective Chapters: Part One | 112451 | [112451-the-detective-chapters-part-one.json](./112451-the-detective-chapters-part-one.json) |
 | The Detective of the Red Horns | 96710 | [96710-the-detective-of-the-red-horns.json](./96710-the-detective-of-the-red-horns.json) |
 | The Detective Reaper Invites | 265962 | [265962-the-detective-reaper-invites.json](./265962-the-detective-reaper-invites.json) |
 | The Detective's Apprentice | 362239 | [362239-the-detectives-apprentice.json](./362239-the-detectives-apprentice.json) |
@@ -33918,6 +33919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TwinCop | 51594 | [51594-twincop.json](./51594-twincop.json) |
 | Twine3D | 81782 | [81782-twine3d.json](./81782-twine3d.json) |
 | Twinetroid | 306584 | [306584-twinetroid.json](./306584-twinetroid.json) |
+| Twinfold | 112441 | [112441-twinfold.json](./112441-twinfold.json) |
 | TwinForce | 31536 | [31536-twinforce.json](./31536-twinforce.json) |
 | TwinGrip | 373730 | [373730-twingrip.json](./373730-twingrip.json) |
 | Twiniwt | 95630 | [95630-twiniwt.json](./95630-twiniwt.json) |
