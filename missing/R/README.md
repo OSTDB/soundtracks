@@ -3203,6 +3203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Really Unique Space Shooter | 136237 | [136237-really-unique-space-shooter.json](./136237-really-unique-space-shooter.json) |
 | Really Weird Pool | 152554 | [152554-really-weird-pool.json](./152554-really-weird-pool.json) |
 | Really? Really! RiaRiaDS | 330554 | [330554-really-really-riariads.json](./330554-really-really-riariads.json) |
+| ReallyGoodBattle | 83722 | [83722-reallygoodbattle.json](./83722-reallygoodbattle.json) |
 | Realm | 127516 | [127516-realm.json](./127516-realm.json) |
 | Realm | 348391 | [348391-realm.json](./348391-realm.json) |
 | Realm | 361078 | [361078-realm.json](./361078-realm.json) |
@@ -4434,6 +4435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reek | 128094 | [128094-reek.json](./128094-reek.json) |
 | Reek N' Havok | 167254 | [167254-reek-n-havok.json](./167254-reek-n-havok.json) |
 | Reel | 205100 | [205100-reel.json](./205100-reel.json) |
+| Reel 21 | 84347 | [84347-reel-21.json](./84347-reel-21.json) |
 | Reel Deal Card Games | 77387 | [77387-reel-deal-card-games.json](./77387-reel-deal-card-games.json) |
 | Reel Deal Card Games '09 | 77388 | [77388-reel-deal-card-games-09.json](./77388-reel-deal-card-games-09.json) |
 | Reel Deal Card Games 2011 | 77389 | [77389-reel-deal-card-games-2011.json](./77389-reel-deal-card-games-2011.json) |
@@ -9372,6 +9374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RobotWar | 25129 | [25129-robotwar.json](./25129-robotwar.json) |
 | Robotz | 405876 | [405876-robotz.json](./405876-robotz.json) |
 | Robovenger | 192421 | [192421-robovenger.json](./192421-robovenger.json) |
+| RoboVirus | 84288 | [84288-robovirus.json](./84288-robovirus.json) |
 | RoboWar | 171242 | [171242-robowar.json](./171242-robowar.json) |
 | RoboWarrior | 8473 | [8473-robowarrior.json](./8473-robowarrior.json) |
 | RoboWarrior Arena | 266473 | [266473-robowarrior-arena.json](./266473-robowarrior-arena.json) |
@@ -12481,6 +12484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rummy | 370401 | [370401-rummy.json](./370401-rummy.json) |
 | Rummy - classic card game | 88416 | [88416-rummy-classic-card-game.json](./88416-rummy-classic-card-game.json) |
 | Rummy 3D Premium | 118405 | [118405-rummy-3d-premium.json](./118405-rummy-3d-premium.json) |
+| Rummy 500 | 83701 | [83701-rummy-500.json](./83701-rummy-500.json) |
 | Rummy Attack | 416578 | [416578-rummy-attack.json](./416578-rummy-attack.json) |
 | Rummy Club | 223923 | [223923-rummy-club.json](./223923-rummy-club.json) |
 | Rummy Odyssey | 389370 | [389370-rummy-odyssey.json](./389370-rummy-odyssey.json) |
