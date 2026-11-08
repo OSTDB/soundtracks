@@ -7353,6 +7353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Novastride | 244688 | [244688-novastride.json](./244688-novastride.json) |
 | Novastrike | 52614 | [52614-novastrike.json](./52614-novastrike.json) |
 | Novath | 347766 | [347766-novath.json](./347766-novath.json) |
+| Novatron | 93115 | [93115-novatron.json](./93115-novatron.json) |
 | NovaX | 291435 | [291435-novax.json](./291435-novax.json) |
 | Novaxandria Volume 01 | 358447 | [358447-novaxandria-volume-01.json](./358447-novaxandria-volume-01.json) |
 | Novel Haven | 389182 | [389182-novel-haven.json](./389182-novel-haven.json) |
