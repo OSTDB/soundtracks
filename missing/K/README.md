@@ -2869,7 +2869,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3297,6 +3296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Bounty: The Legend | 5039 | [5039-kings-bounty-the-legend.json](./5039-kings-bounty-the-legend.json) |
 | King's Bounty: Ultimate Edition | 53258 | [53258-kings-bounty-ultimate-edition.json](./53258-kings-bounty-ultimate-edition.json) |
 | King's Bounty: Warriors of the North - Complete Edition | 51846 | [51846-kings-bounty-warriors-of-the-north-complete-edition.json](./51846-kings-bounty-warriors-of-the-north-complete-edition.json) |
+| King's Bounty: Warriors of the North - Ice and Fire | 116554 | [116554-kings-bounty-warriors-of-the-north-ice-and-fire.json](./116554-kings-bounty-warriors-of-the-north-ice-and-fire.json) |
 | King's Bounty: Warriors of the North - Valhalla Edition | 54153 | [54153-kings-bounty-warriors-of-the-north-valhalla-edition.json](./54153-kings-bounty-warriors-of-the-north-valhalla-edition.json) |
 | King's Choice | 186308 | [186308-kings-choice.json](./186308-kings-choice.json) |
 | King's Collection: Classic Card Games | 209835 | [209835-kings-collection-classic-card-games.json](./209835-kings-collection-classic-card-games.json) |
