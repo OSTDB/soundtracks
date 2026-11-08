@@ -5627,6 +5627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeepOne | 242521 | [242521-deepone.json](./242521-deepone.json) |
 | Deepophobia | 275417 | [275417-deepophobia.json](./275417-deepophobia.json) |
 | Deeprealm Odyssey: Adventure game | 208917 | [208917-deeprealm-odyssey-adventure-game.json](./208917-deeprealm-odyssey-adventure-game.json) |
+| Deeproot Manor | 132352 | [132352-deeproot-manor.json](./132352-deeproot-manor.json) |
 | DeepSea | 148623 | [148623-deepsea.json](./148623-deepsea.json) |
 | Deepsea Salvor | 128375 | [128375-deepsea-salvor.json](./128375-deepsea-salvor.json) |
 | DeepSea Serenity: VR Underwater Trip | 288786 | [288786-deepsea-serenity-vr-underwater-trip.json](./288786-deepsea-serenity-vr-underwater-trip.json) |
@@ -6861,6 +6862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dengeki Stryker | 64954 | [64954-dengeki-stryker.json](./64954-dengeki-stryker.json) |
 | Dengen Tenshi Taisen Mahjong Shangri-La | 131571 | [131571-dengen-tenshi-taisen-mahjong-shangri-la.json](./131571-dengen-tenshi-taisen-mahjong-shangri-la.json) |
 | Dengenki Days | 287358 | [287358-dengenki-days.json](./287358-dengenki-days.json) |
+| Denial | 132354 | [132354-denial.json](./132354-denial.json) |
 | Denis McCrane's Ski Jumping Challenge: Sarajevo 1983 | 413858 | [413858-denis-mccranes-ski-jumping-challenge-sarajevo-1983.json](./413858-denis-mccranes-ski-jumping-challenge-sarajevo-1983.json) |
 | Denis Through the Drinking Glass | 73823 | [73823-denis-through-the-drinking-glass.json](./73823-denis-through-the-drinking-glass.json) |
 | Denizen | 14028 | [14028-denizen.json](./14028-denizen.json) |
@@ -10425,6 +10427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discovery Yard Investigation | 149368 | [149368-discovery-yard-investigation.json](./149368-discovery-yard-investigation.json) |
 | Discovery: A Seek and Find Adventure | 9386 | [9386-discovery-a-seek-and-find-adventure.json](./9386-discovery-a-seek-and-find-adventure.json) |
 | Discovr Egypt: King Tut's Tomb | 33086 | [33086-discovr-egypt-king-tuts-tomb.json](./33086-discovr-egypt-king-tuts-tomb.json) |
+| Discreet | 132366 | [132366-discreet.json](./132366-discreet.json) |
 | Discremental | 405603 | [405603-discremental.json](./405603-discremental.json) |
 | Discrepant | 32815 | [32815-discrepant.json](./32815-discrepant.json) |
 | Discrete Heart | 285536 | [285536-discrete-heart.json](./285536-discrete-heart.json) |
@@ -11200,6 +11203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divided Ground: Middle East Conflict | 61987 | [61987-divided-ground-middle-east-conflict.json](./61987-divided-ground-middle-east-conflict.json) |
 | Divided Ground: Middle East Conflict 1948-1973 | 24111 | [24111-divided-ground-middle-east-conflict-1948-1973.json](./24111-divided-ground-middle-east-conflict-1948-1973.json) |
 | Divided Kingdoms | 158206 | [158206-divided-kingdoms.json](./158206-divided-kingdoms.json) |
+| Divided Reigns | 132336 | [132336-divided-reigns.json](./132336-divided-reigns.json) |
 | Divided We Fall | 32256 | [32256-divided-we-fall.json](./32256-divided-we-fall.json) |
 | Divided: Soul Theft | 89370 | [89370-divided-soul-theft.json](./89370-divided-soul-theft.json) |
 | Divilethion | 176299 | [176299-divilethion.json](./176299-divilethion.json) |
@@ -14731,6 +14735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draftula | 364615 | [364615-draftula.json](./364615-draftula.json) |
 | Draftycar | 254775 | [254775-draftycar.json](./254775-draftycar.json) |
 | Draftycar 2 | 351666 | [351666-draftycar-2.json](./351666-draftycar-2.json) |
+| Drag | 132351 | [132351-drag.json](./132351-drag.json) |
 | Drag and Drop | 226045 | [226045-drag-and-drop.json](./226045-drag-and-drop.json) |
 | Drag and Drop Medieval | 304865 | [304865-drag-and-drop-medieval.json](./304865-drag-and-drop-medieval.json) |
 | Drag Battle | 249688 | [249688-drag-battle.json](./249688-drag-battle.json) |
