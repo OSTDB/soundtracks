@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quaternion | 277802 | [277802-quaternion.json](./277802-quaternion.json) |
 | Quatocicople | 181665 | [181665-quatocicople.json](./181665-quatocicople.json) |
 | Quatris | 153350 | [153350-quatris.json](./153350-quatris.json) |
+| Quatro | 135397 | [135397-quatro.json](./135397-quatro.json) |
 | Quatro Luzes | 34203 | [34203-quatro-luzes.json](./34203-quatro-luzes.json) |
 | Quatro! | 220476 | [220476-quatro.json](./220476-quatro.json) |
 | Quatro!: Eclipse DLC | 298254 | [298254-quatro-eclipse-dlc.json](./298254-quatro-eclipse-dlc.json) |
