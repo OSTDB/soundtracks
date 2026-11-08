@@ -6530,6 +6530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch's Pranks: Frog's Fortune - Collector's Edition | 35929 | [35929-witchs-pranks-frogs-fortune-collectors-edition.json](./35929-witchs-pranks-frogs-fortune-collectors-edition.json) |
 | Witch's Reign | 153858 | [153858-witchs-reign.json](./153858-witchs-reign.json) |
 | Witch's Rhythm Puzzle | 244594 | [244594-witchs-rhythm-puzzle.json](./244594-witchs-rhythm-puzzle.json) |
+| Witch's Tales | 104743 | [104743-witchs-tales.json](./104743-witchs-tales.json) |
 | Witch's Tower | 355199 | [355199-witchs-tower.json](./355199-witchs-tower.json) |
 | Witch's Weapon | 196331 | [196331-witchs-weapon.json](./196331-witchs-weapon.json) |
 | Witch's Wish | 47703 | [47703-witchs-wish.json](./47703-witchs-wish.json) |
@@ -7423,6 +7424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wood Chipper Truck | 108164 | [108164-wood-chipper-truck.json](./108164-wood-chipper-truck.json) |
 | Wood Clicker | 382868 | [382868-wood-clicker.json](./382868-wood-clicker.json) |
 | Wood Cube Block: Classic Casual Puzzle | 256626 | [256626-wood-cube-block-classic-casual-puzzle.json](./256626-wood-cube-block-classic-casual-puzzle.json) |
+| Wood Cube Puzzle | 104746 | [104746-wood-cube-puzzle.json](./104746-wood-cube-puzzle.json) |
 | Wood Cuter | 201800 | [201800-wood-cuter.json](./201800-wood-cuter.json) |
 | Wood for Nobody Else | 357212 | [357212-wood-for-nobody-else.json](./357212-wood-for-nobody-else.json) |
 | Wood for the Trees | 176958 | [176958-wood-for-the-trees.json](./176958-wood-for-the-trees.json) |
@@ -7636,6 +7638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Games with the Mr. Men | 97796 | [97796-word-games-with-the-mr-men.json](./97796-word-games-with-the-mr-men.json) |
 | Word Gems | 90420 | [90420-word-gems.json](./90420-word-gems.json) |
 | Word Genius by curious.com | 104507 | [104507-word-genius-by-curious-com.json](./104507-word-genius-by-curious-com.json) |
+| Word Go - Cross Word Puzzle Game | 104770 | [104770-word-go-cross-word-puzzle-game.json](./104770-word-go-cross-word-puzzle-game.json) |
 | Word Grid | 324645 | [324645-word-grid.json](./324645-word-grid.json) |
 | Word Guess | 300908 | [300908-word-guess.json](./300908-word-guess.json) |
 | Word Guru - Puzzle Word Game | 89233 | [89233-word-guru-puzzle-word-game.json](./89233-word-guru-puzzle-word-game.json) |
@@ -7668,6 +7671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Monaco | 205881 | [205881-word-monaco.json](./205881-word-monaco.json) |
 | Word Monsters | 241196 | [241196-word-monsters.json](./241196-word-monsters.json) |
 | Word Munchers | 82151 | [82151-word-munchers.json](./82151-word-munchers.json) |
+| Word Nut | 104739 | [104739-word-nut.json](./104739-word-nut.json) |
 | Word of Kitchen | 190702 | [190702-word-of-kitchen.json](./190702-word-of-kitchen.json) |
 | Word of Mouth Stories | 152991 | [152991-word-of-mouth-stories.json](./152991-word-of-mouth-stories.json) |
 | Word of Prey | 232308 | [232308-word-of-prey.json](./232308-word-of-prey.json) |
