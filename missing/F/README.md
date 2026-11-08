@@ -1961,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Girl | 136423 | [136423-fantasy-girl.json](./136423-fantasy-girl.json) |
 | Fantasy Girl Puzzle | 368132 | [368132-fantasy-girl-puzzle.json](./368132-fantasy-girl-puzzle.json) |
 | Fantasy Girls | 310732 | [310732-fantasy-girls.json](./310732-fantasy-girls.json) |
+| Fantasy Gladiators | 121897 | [121897-fantasy-gladiators.json](./121897-fantasy-gladiators.json) |
 | Fantasy Gladiators | 148932 | [148932-fantasy-gladiators.json](./148932-fantasy-gladiators.json) |
 | Fantasy Grounds | 30234 | [30234-fantasy-grounds.json](./30234-fantasy-grounds.json) |
 | Fantasy Grounds: Call of Cthulhu - The House of R'lyeh | 53021 | [53021-fantasy-grounds-call-of-cthulhu-the-house-of-rlyeh.json](./53021-fantasy-grounds-call-of-cthulhu-the-house-of-rlyeh.json) |
@@ -2663,6 +2664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farmer's Dynasty: Potatoes & Beets | 227417 | [227417-farmers-dynasty-potatoes-and-beets.json](./227417-farmers-dynasty-potatoes-and-beets.json) |
 | Farmer's Fairy Tale | 107839 | [107839-farmers-fairy-tale.json](./107839-farmers-fairy-tale.json) |
 | Farmer's Father: Save the Innocence | 211660 | [211660-farmers-father-save-the-innocence.json](./211660-farmers-father-save-the-innocence.json) |
+| Farmer's Life | 121882 | [121882-farmers-life.json](./121882-farmers-life.json) |
 | Farmer's Loop | 335203 | [335203-farmers-loop.json](./335203-farmers-loop.json) |
 | Farmer’s Market Simulator | 348393 | [348393-farmer-s-market-simulator.json](./348393-farmer-s-market-simulator.json) |
 | Farmerama | 92459 | [92459-farmerama.json](./92459-farmerama.json) |
