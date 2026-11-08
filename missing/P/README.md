@@ -19038,6 +19038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzles for smart: Cats | 104017 | [104017-puzzles-for-smart-cats.json](./104017-puzzles-for-smart-cats.json) |
 | Puzzles for smart: Dogs | 107848 | [107848-puzzles-for-smart-dogs.json](./107848-puzzles-for-smart-dogs.json) |
 | Puzzles for smart: Horses | 111492 | [111492-puzzles-for-smart-horses.json](./111492-puzzles-for-smart-horses.json) |
+| Puzzles for smart: Underwater Kingdom | 112453 | [112453-puzzles-for-smart-underwater-kingdom.json](./112453-puzzles-for-smart-underwater-kingdom.json) |
 | Puzzles for Toddlers & Kids: Animals, Cars and more | 147707 | [147707-puzzles-for-toddlers-and-kids-animals-cars-and-more.json](./147707-puzzles-for-toddlers-and-kids-animals-cars-and-more.json) |
 | Puzzles Forest | 414496 | [414496-puzzles-forest.json](./414496-puzzles-forest.json) |
 | Puzzles in Otter Space | 381530 | [381530-puzzles-in-otter-space.json](./381530-puzzles-in-otter-space.json) |
