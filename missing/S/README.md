@@ -1339,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Gunn | 16538 | [16538-samurai-gunn.json](./16538-samurai-gunn.json) |
 | Samurai Heroes | 373189 | [373189-samurai-heroes.json](./373189-samurai-heroes.json) |
 | Samurai II: Vengeance | 54350 | [54350-samurai-ii-vengeance.json](./54350-samurai-ii-vengeance.json) |
+| Samurai in Africa | 113223 | [113223-samurai-in-africa.json](./113223-samurai-in-africa.json) |
 | Samurai Jack | 349782 | [349782-samurai-jack.json](./349782-samurai-jack.json) |
 | Samurai Jack: Battle Through Time | 131687 | [131687-samurai-jack-battle-through-time.json](./131687-samurai-jack-battle-through-time.json) |
 | Samurai Jack: Cavern Raid | 338745 | [338745-samurai-jack-cavern-raid.json](./338745-samurai-jack-cavern-raid.json) |
@@ -3860,6 +3861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scuba Diver | 40766 | [40766-scuba-diver.json](./40766-scuba-diver.json) |
 | Scuba Diver the Simulation | 143399 | [143399-scuba-diver-the-simulation.json](./143399-scuba-diver-the-simulation.json) |
 | Scuba Kidz | 92069 | [92069-scuba-kidz.json](./92069-scuba-kidz.json) |
+| Scuba's Ocean Odyssey VR | 113139 | [113139-scubas-ocean-odyssey-vr.json](./113139-scubas-ocean-odyssey-vr.json) |
 | Scubaman's Quest | 143459 | [143459-scubamans-quest.json](./143459-scubamans-quest.json) |
 | ScubaVenture: The Search For Pirate's Treasure | 77855 | [77855-scubaventure-the-search-for-pirates-treasure.json](./77855-scubaventure-the-search-for-pirates-treasure.json) |
 | Scud Atak | 85766 | [85766-scud-atak.json](./85766-scud-atak.json) |
@@ -10977,6 +10979,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silverfall | 15718 | [15718-silverfall.json](./15718-silverfall.json) |
 | Silverfall: Earth Awakening | 11353 | [11353-silverfall-earth-awakening.json](./11353-silverfall-earth-awakening.json) |
 | SilverFrame | 110100 | [110100-silverframe.json](./110100-silverframe.json) |
+| Silverio Saga Series: Artemis Package | 113205 | [113205-silverio-saga-series-artemis-package.json](./113205-silverio-saga-series-artemis-package.json) |
+| Silverio Trinity | 113204 | [113204-silverio-trinity.json](./113204-silverio-trinity.json) |
+| Silverio Trinity: Beyond the Horizon | 113206 | [113206-silverio-trinity-beyond-the-horizon.json](./113206-silverio-trinity-beyond-the-horizon.json) |
 | Silverio Vendetta | 113202 | [113202-silverio-vendetta.json](./113202-silverio-vendetta.json) |
 | Silverio Vendetta: Verse of Orpheus | 113203 | [113203-silverio-vendetta-verse-of-orpheus.json](./113203-silverio-vendetta-verse-of-orpheus.json) |
 | Silverlicious | 9748 | [9748-silverlicious.json](./9748-silverlicious.json) |
@@ -13636,6 +13641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleepy Time Jack: Digital Talking Body Pillow | 259116 | [259116-sleepy-time-jack-digital-talking-body-pillow.json](./259116-sleepy-time-jack-digital-talking-body-pillow.json) |
 | Sleepytime Village | 212013 | [212013-sleepytime-village.json](./212013-sleepytime-village.json) |
 | Sleeve Shock | 257956 | [257956-sleeve-shock.json](./257956-sleeve-shock.json) |
+| Sleigh Runner | 113216 | [113216-sleigh-runner.json](./113216-sleigh-runner.json) |
 | Sleigh Strikers | 279257 | [279257-sleigh-strikers.json](./279257-sleigh-strikers.json) |
 | Sleigher | 244810 | [244810-sleigher.json](./244810-sleigher.json) |
 | Sleight | 30885 | [30885-sleight.json](./30885-sleight.json) |
@@ -16646,6 +16652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Collector | 75034 | [75034-solar-collector.json](./75034-solar-collector.json) |
 | Solar Collision Control | 319725 | [319725-solar-collision-control.json](./319725-solar-collision-control.json) |
 | Solar Colonies | 191810 | [191810-solar-colonies.json](./191810-solar-colonies.json) |
+| Solar Command | 113130 | [113130-solar-command.json](./113130-solar-command.json) |
 | Solar Conqueror | 170532 | [170532-solar-conqueror.json](./170532-solar-conqueror.json) |
 | Solar Core | 68683 | [68683-solar-core.json](./68683-solar-core.json) |
 | Solar Cram School | 122393 | [122393-solar-cram-school.json](./122393-solar-cram-school.json) |
@@ -17087,6 +17094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire: Victorian Picnic | 99986 | [99986-solitaire-victorian-picnic.json](./99986-solitaire-victorian-picnic.json) |
 | Solitaire: Victorian Picnic 2 | 147031 | [147031-solitaire-victorian-picnic-2.json](./147031-solitaire-victorian-picnic-2.json) |
 | Solitaire: Wild Park | 234426 | [234426-solitaire-wild-park.json](./234426-solitaire-wild-park.json) |
+| Solitaire. Dragon Light | 113246 | [113246-solitaire-dragon-light.json](./113246-solitaire-dragon-light.json) |
 | Solitaire's Journey | 47022 | [47022-solitaires-journey.json](./47022-solitaires-journey.json) |
 | SolitaireX | 388039 | [388039-solitairex.json](./388039-solitairex.json) |
 | Solitairica | 24464 | [24464-solitairica.json](./24464-solitairica.json) |
