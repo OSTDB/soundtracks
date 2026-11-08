@@ -798,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairytale Encore | 59199 | [59199-fairytale-encore.json](./59199-fairytale-encore.json) |
 | Fairytale Encore | 59270 | [59270-fairytale-encore.json](./59270-fairytale-encore.json) |
 | Fairytale Fables | 271637 | [271637-fairytale-fables.json](./271637-fairytale-fables.json) |
+| Fairytale Fiasco - Royal Rescue | 90742 | [90742-fairytale-fiasco-royal-rescue.json](./90742-fairytale-fiasco-royal-rescue.json) |
 | Fairytale Fights | 6991 | [6991-fairytale-fights.json](./6991-fairytale-fights.json) |
 | Fairytale Furnishing | 295560 | [295560-fairytale-furnishing.json](./295560-fairytale-furnishing.json) |
 | Fairytale Kart Race | 188231 | [188231-fairytale-kart-race.json](./188231-fairytale-kart-race.json) |
@@ -2146,6 +2147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Smith VR | 115558 | [115558-fantasy-smith-vr.json](./115558-fantasy-smith-vr.json) |
 | Fantasy Solitaire: Card Match | 232106 | [232106-fantasy-solitaire-card-match.json](./232106-fantasy-solitaire-card-match.json) |
 | Fantasy Soul Revenge | 384288 | [384288-fantasy-soul-revenge.json](./384288-fantasy-soul-revenge.json) |
+| Fantasy Sports | 90864 | [90864-fantasy-sports.json](./90864-fantasy-sports.json) |
 | Fantasy Sports Pro | 209251 | [209251-fantasy-sports-pro.json](./209251-fantasy-sports-pro.json) |
 | Fantasy Sprite Island | 157946 | [157946-fantasy-sprite-island.json](./157946-fantasy-sprite-island.json) |
 | Fantasy Squad W | 109575 | [109575-fantasy-squad-w.json](./109575-fantasy-squad-w.json) |
