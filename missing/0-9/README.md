@@ -3461,6 +3461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8Floor Bundle 4 in 1 part 6 | 334110 | [334110-8floor-bundle-4-in-1-part-6.json](./334110-8floor-bundle-4-in-1-part-6.json) |
 | 8Floor Bundle 4 in 1 Part 7 | 338027 | [338027-8floor-bundle-4-in-1-part-7.json](./338027-8floor-bundle-4-in-1-part-7.json) |
 | 8Floor Bundle 4 in 1 part 8 | 342239 | [342239-8floor-bundle-4-in-1-part-8.json](./342239-8floor-bundle-4-in-1-part-8.json) |
+| 8Floor Strategic Collection | 119912 | [119912-8floor-strategic-collection.json](./119912-8floor-strategic-collection.json) |
 | 8i | 32988 | [32988-8i.json](./32988-8i.json) |
 | 8Infinity | 31366 | [31366-8infinity.json](./31366-8infinity.json) |
 | 8minSurvival | 304669 | [304669-8minsurvival.json](./304669-8minsurvival.json) |
