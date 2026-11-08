@@ -180,6 +180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbids Crazy Rush | 90356 | [90356-rabbids-crazy-rush.json](./90356-rabbids-crazy-rush.json) |
 | Rabbids Go Home | 193295 | [193295-rabbids-go-home.json](./193295-rabbids-go-home.json) |
 | Rabbids Go Home | 2190 | [2190-rabbids-go-home.json](./2190-rabbids-go-home.json) |
+| Rabbids Go Phone | 86172 | [86172-rabbids-go-phone.json](./86172-rabbids-go-phone.json) |
 | Rabbids Hollywood | 125784 | [125784-rabbids-hollywood.json](./125784-rabbids-hollywood.json) |
 | Rabbids Invasion | 131366 | [131366-rabbids-invasion.json](./131366-rabbids-invasion.json) |
 | Rabbids Invasion: Gold Edition | 82425 | [82425-rabbids-invasion-gold-edition.json](./82425-rabbids-invasion-gold-edition.json) |
@@ -3454,6 +3455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Roar | 408736 | [408736-rebel-roar.json](./408736-rebel-roar.json) |
 | Rebel Runner: Operation - Digital Code | 209258 | [209258-rebel-runner-operation-digital-code.json](./209258-rebel-runner-operation-digital-code.json) |
 | Rebel Spirit! | 339156 | [339156-rebel-spirit.json](./339156-rebel-spirit.json) |
+| Rebel Star | 86171 | [86171-rebel-star.json](./86171-rebel-star.json) |
 | Rebel Supplies | 359451 | [359451-rebel-supplies.json](./359451-rebel-supplies.json) |
 | Rebel Tank Solo-Raid | 333131 | [333131-rebel-tank-solo-raid.json](./333131-rebel-tank-solo-raid.json) |
 | Rebel Transmute | 128766 | [128766-rebel-transmute.json](./128766-rebel-transmute.json) |
