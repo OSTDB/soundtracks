@@ -7871,6 +7871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Prix Turbotalina | 193541 | [193541-gran-prix-turbotalina.json](./193541-gran-prix-turbotalina.json) |
 | Gran Saga | 130576 | [130576-gran-saga.json](./130576-gran-saga.json) |
 | Gran Saga Idle: Knights x Knights | 319994 | [319994-gran-saga-idle-knights-x-knights.json](./319994-gran-saga-idle-knights-x-knights.json) |
+| Gran Skrea Online | 97589 | [97589-gran-skrea-online.json](./97589-gran-skrea-online.json) |
 | Gran Text Auto | 60046 | [60046-gran-text-auto.json](./60046-gran-text-auto.json) |
 | Gran Tower: Wild Knights with Crazy Witches | 116460 | [116460-gran-tower-wild-knights-with-crazy-witches.json](./116460-gran-tower-wild-knights-with-crazy-witches.json) |
 | Gran Trak 10 | 7429 | [7429-gran-trak-10.json](./7429-gran-trak-10.json) |
