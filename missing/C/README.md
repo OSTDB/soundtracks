@@ -742,6 +742,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Legends of War | 113383 | [113383-call-of-duty-legends-of-war.json](./113383-call-of-duty-legends-of-war.json) |
 | Call of Duty: Modern Warfare - Dark Edition | 134229 | [134229-call-of-duty-modern-warfare-dark-edition.json](./134229-call-of-duty-modern-warfare-dark-edition.json) |
 | Call of Duty: Modern Warfare - Mobilized | 21198 | [21198-call-of-duty-modern-warfare-mobilized.json](./21198-call-of-duty-modern-warfare-mobilized.json) |
+| Call of Duty: Modern Warfare - Operator Edition | 119894 | [119894-call-of-duty-modern-warfare-operator-edition.json](./119894-call-of-duty-modern-warfare-operator-edition.json) |
+| Call of Duty: Modern Warfare - Operator Enhanced Edition | 119895 | [119895-call-of-duty-modern-warfare-operator-enhanced-edition.json](./119895-call-of-duty-modern-warfare-operator-enhanced-edition.json) |
 | Call of Duty: Modern Warfare - Precision Edition | 136342 | [136342-call-of-duty-modern-warfare-precision-edition.json](./136342-call-of-duty-modern-warfare-precision-edition.json) |
 | Call of Duty: Modern Warfare - Reflex Edition | 21199 | [21199-call-of-duty-modern-warfare-reflex-edition.json](./21199-call-of-duty-modern-warfare-reflex-edition.json) |
 | Call of Duty: Modern Warfare - Season Five | 136976 | [136976-call-of-duty-modern-warfare-season-five.json](./136976-call-of-duty-modern-warfare-season-five.json) |
@@ -4459,6 +4461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch a Cat for 60 Seconds | 149793 | [149793-catch-a-cat-for-60-seconds.json](./149793-catch-a-cat-for-60-seconds.json) |
 | Catch a Coke | 218226 | [218226-catch-a-coke.json](./218226-catch-a-coke.json) |
 | Catch A Dot | 57429 | [57429-catch-a-dot.json](./57429-catch-a-dot.json) |
+| Catch a Duck | 119881 | [119881-catch-a-duck.json](./119881-catch-a-duck.json) |
 | Catch a Falling Star | 33285 | [33285-catch-a-falling-star.json](./33285-catch-a-falling-star.json) |
 | Catch a Lover | 29543 | [29543-catch-a-lover.json](./29543-catch-a-lover.json) |
 | Catch Beshi!! Scooping Game | 322666 | [322666-catch-beshi-scooping-game.json](./322666-catch-beshi-scooping-game.json) |
@@ -11463,6 +11466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code UltraViolet | 406864 | [406864-code-ultraviolet.json](./406864-code-ultraviolet.json) |
 | Code Vein: Blood Thirst Edition | 134244 | [134244-code-vein-blood-thirst-edition.json](./134244-code-vein-blood-thirst-edition.json) |
 | Code Vein: Collector's Edition | 103212 | [103212-code-vein-collectors-edition.json](./103212-code-vein-collectors-edition.json) |
+| Code Vein: Deluxe Edition | 119896 | [119896-code-vein-deluxe-edition.json](./119896-code-vein-deluxe-edition.json) |
 | Code Vein: Frozen Empress | 131710 | [131710-code-vein-frozen-empress.json](./131710-code-vein-frozen-empress.json) |
 | Code Vein: Hellfire Knight | 129134 | [129134-code-vein-hellfire-knight.json](./129134-code-vein-hellfire-knight.json) |
 | Code Vein: Lord of Thunder | 131954 | [131954-code-vein-lord-of-thunder.json](./131954-code-vein-lord-of-thunder.json) |
@@ -13775,6 +13779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conjuntalia | 91002 | [91002-conjuntalia.json](./91002-conjuntalia.json) |
 | Conjuntalia: Overcome the Death of a Loved One | 171400 | [171400-conjuntalia-overcome-the-death-of-a-loved-one.json](./171400-conjuntalia-overcome-the-death-of-a-loved-one.json) |
 | Conjure Cards | 153629 | [153629-conjure-cards.json](./153629-conjure-cards.json) |
+| Conjure Craft | 119928 | [119928-conjure-craft.json](./119928-conjure-craft.json) |
 | Conjurer Andy's Repeatable Dungeon | 135633 | [135633-conjurer-andys-repeatable-dungeon.json](./135633-conjurer-andys-repeatable-dungeon.json) |
 | Conjurers | 328362 | [328362-conjurers.json](./328362-conjurers.json) |
 | Conjuror's Eye | 88069 | [88069-conjurors-eye.json](./88069-conjurors-eye.json) |
@@ -17393,6 +17398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creator's Asteroid | 191191 | [191191-creators-asteroid.json](./191191-creators-asteroid.json) |
 | Creator's Chasm | 148811 | [148811-creators-chasm.json](./148811-creators-chasm.json) |
 | CreatorAdventureLegend | 132458 | [132458-creatoradventurelegend.json](./132458-creatoradventurelegend.json) |
+| CreatorCrate | 119905 | [119905-creatorcrate.json](./119905-creatorcrate.json) |
 | Creators | 284985 | [284985-creators.json](./284985-creators.json) |
 | Creatorverse | 64497 | [64497-creatorverse.json](./64497-creatorverse.json) |
 | Creatura | 82351 | [82351-creatura.json](./82351-creatura.json) |
@@ -21304,6 +21310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cylor vs. the Bullets From Hell | 123612 | [123612-cylor-vs-the-bullets-from-hell.json](./123612-cylor-vs-the-bullets-from-hell.json) |
 | Cylor vs. the Endless Legions | 136238 | [136238-cylor-vs-the-endless-legions.json](./136238-cylor-vs-the-endless-legions.json) |
 | Cylu | 13540 | [13540-cylu.json](./13540-cylu.json) |
+| Cymatically Muffed | 119902 | [119902-cymatically-muffed.json](./119902-cymatically-muffed.json) |
 | Cymbalism | 285124 | [285124-cymbalism.json](./285124-cymbalism.json) |
 | Cymut x Mutrobo: The Last Cymut | 292326 | [292326-cymut-x-mutrobo-the-last-cymut.json](./292326-cymut-x-mutrobo-the-last-cymut.json) |
 | Cynabre | 371334 | [371334-cynabre.json](./371334-cynabre.json) |
