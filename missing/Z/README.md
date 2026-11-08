@@ -1451,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zomb | 120071 | [120071-zomb.json](./120071-zomb.json) |
 | Zomb Bomb | 287679 | [287679-zomb-bomb.json](./287679-zomb-bomb.json) |
 | Zomb Zerro - 999 | 377726 | [377726-zomb-zerro-999.json](./377726-zomb-zerro-999.json) |
+| ZomB: Battlegrounds | 120477 | [120477-zomb-battlegrounds.json](./120477-zomb-battlegrounds.json) |
 | Zombactory | 267021 | [267021-zombactory.json](./267021-zombactory.json) |
 | Zombaliens | 185370 | [185370-zombaliens.json](./185370-zombaliens.json) |
 | Zombapocalypse | 25753 | [25753-zombapocalypse.json](./25753-zombapocalypse.json) |
