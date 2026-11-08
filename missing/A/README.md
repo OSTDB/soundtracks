@@ -6016,6 +6016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akai Hitomi no Serafu | 77915 | [77915-akai-hitomi-no-serafu.json](./77915-akai-hitomi-no-serafu.json) |
 | Akai Ito | 73494 | [73494-akai-ito.json](./73494-akai-ito.json) |
 | Akai Ito & Aoi Shiro HD Remaster | 227974 | [227974-akai-ito-and-aoi-shiro-hd-remaster.json](./227974-akai-ito-and-aoi-shiro-hd-remaster.json) |
+| Akai Ito Destiny DS | 94852 | [94852-akai-ito-destiny-ds.json](./94852-akai-ito-destiny-ds.json) |
 | Akai Ito DS | 206021 | [206021-akai-ito-ds.json](./206021-akai-ito-ds.json) |
 | Akai Ito: HD Remaster | 246870 | [246870-akai-ito-hd-remaster.json](./246870-akai-ito-hd-remaster.json) |
 | Akai Kaidan | 147198 | [147198-akai-kaidan.json](./147198-akai-kaidan.json) |
@@ -6898,6 +6899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Age | 188836 | [188836-alien-age.json](./188836-alien-age.json) |
 | Alien Agent X | 385882 | [385882-alien-agent-x.json](./385882-alien-agent-x.json) |
 | Alien Ambush | 21636 | [21636-alien-ambush.json](./21636-alien-ambush.json) |
+| Alien Ambush | 94832 | [94832-alien-ambush.json](./94832-alien-ambush.json) |
 | Alien Animals: Sandbox | 154463 | [154463-alien-animals-sandbox.json](./154463-alien-animals-sandbox.json) |
 | Alien Ant World | 386067 | [386067-alien-ant-world.json](./386067-alien-ant-world.json) |
 | Alien Apocalypse | 390010 | [390010-alien-apocalypse.json](./390010-alien-apocalypse.json) |
@@ -8452,6 +8454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AmazeBowl | 104070 | [104070-amazebowl.json](./104070-amazebowl.json) |
 | Amazed | 14251 | [14251-amazed.json](./14251-amazed.json) |
 | Amazed | 171573 | [171573-amazed.json](./171573-amazed.json) |
+| Amazed | 94806 | [94806-amazed.json](./94806-amazed.json) |
 | Amazeing adventures | 30633 | [30633-amazeing-adventures.json](./30633-amazeing-adventures.json) |
 | Amazeing Lemons | 75901 | [75901-amazeing-lemons.json](./75901-amazeing-lemons.json) |
 | Amazeing Racer | 372647 | [372647-amazeing-racer.json](./372647-amazeing-racer.json) |
@@ -17556,6 +17559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Stunt Racing: Extreme Offroad Simulator | 322658 | [322658-atv-stunt-racing-extreme-offroad-simulator.json](./322658-atv-stunt-racing-extreme-offroad-simulator.json) |
 | ATV Thunder Ridge Riders | 49369 | [49369-atv-thunder-ridge-riders.json](./49369-atv-thunder-ridge-riders.json) |
 | ATV Track | 250499 | [250499-atv-track.json](./250499-atv-track.json) |
+| ATV Wild Ride | 94807 | [94807-atv-wild-ride.json](./94807-atv-wild-ride.json) |
 | ATV Wild Ride 3D | 23522 | [23522-atv-wild-ride-3d.json](./23522-atv-wild-ride-3d.json) |
 | ATV: Quad Kings | 51012 | [51012-atv-quad-kings.json](./51012-atv-quad-kings.json) |
 | ATV: Thunder Ridge Riders / Monster Trucks Mayhem | 93415 | [93415-atv-thunder-ridge-riders-monster-trucks-mayhem.json](./93415-atv-thunder-ridge-riders-monster-trucks-mayhem.json) |
@@ -18460,6 +18464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awaken: Hentai Dice | 306328 | [306328-awaken-hentai-dice.json](./306328-awaken-hentai-dice.json) |
 | Awaken: Underwater Odyssey | 133951 | [133951-awaken-underwater-odyssey.json](./133951-awaken-underwater-odyssey.json) |
 | Awakened | 261133 | [261133-awakened.json](./261133-awakened.json) |
+| Awakened | 94809 | [94809-awakened.json](./94809-awakened.json) |
 | Awakened Evil | 190077 | [190077-awakened-evil.json](./190077-awakened-evil.json) |
 | Awakened: Dark Space | 141178 | [141178-awakened-dark-space.json](./141178-awakened-dark-space.json) |
 | Awakener | 165513 | [165513-awakener.json](./165513-awakener.json) |
