@@ -1523,6 +1523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Carnival Carnage | 180314 | [180314-undead-carnival-carnage.json](./180314-undead-carnival-carnage.json) |
 | Undead Cave Defence | 338591 | [338591-undead-cave-defence.json](./338591-undead-cave-defence.json) |
 | Undead Chronicles | 394452 | [394452-undead-chronicles.json](./394452-undead-chronicles.json) |
+| Undead Citadel | 115122 | [115122-undead-citadel.json](./115122-undead-citadel.json) |
 | Undead City | 294168 | [294168-undead-city.json](./294168-undead-city.json) |
 | Undead Darlings: No Cure for Love | 80611 | [80611-undead-darlings-no-cure-for-love.json](./80611-undead-darlings-no-cure-for-love.json) |
 | Undead Development | 55406 | [55406-undead-development.json](./55406-undead-development.json) |
@@ -2795,6 +2796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnRequited | 201311 | [201311-unrequited.json](./201311-unrequited.json) |
 | Unrest | 295506 | [295506-unrest.json](./295506-unrest.json) |
 | Unrest | 8831 | [8831-unrest.json](./8831-unrest.json) |
+| Unrest Indigo | 115254 | [115254-unrest-indigo.json](./115254-unrest-indigo.json) |
 | Unrest: Special Edition | 51792 | [51792-unrest-special-edition.json](./51792-unrest-special-edition.json) |
 | Unrested Development | 68579 | [68579-unrested-development.json](./68579-unrested-development.json) |
 | Unrestrained | 231356 | [231356-unrestrained.json](./231356-unrestrained.json) |
