@@ -15808,6 +15808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassins Arena | 348897 | [348897-assassins-arena.json](./348897-assassins-arena.json) |
 | Assassins Guild | 223207 | [223207-assassins-guild.json](./223207-assassins-guild.json) |
 | Assassins of Darkness | 244596 | [244596-assassins-of-darkness.json](./244596-assassins-of-darkness.json) |
+| Assassins of the Sea | 95721 | [95721-assassins-of-the-sea.json](./95721-assassins-of-the-sea.json) |
 | Assassins Unleashed: The Apocalypse | 296492 | [296492-assassins-unleashed-the-apocalypse.json](./296492-assassins-unleashed-the-apocalypse.json) |
 | Assassins vs Pirates | 19176 | [19176-assassins-vs-pirates.json](./19176-assassins-vs-pirates.json) |
 | Assassinvisible | 378604 | [378604-assassinvisible.json](./378604-assassinvisible.json) |
@@ -17081,6 +17082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athenian Rhapsody | 217101 | [217101-athenian-rhapsody.json](./217101-athenian-rhapsody.json) |
 | Athenian Rhapsody: Thunder Goober's Personality Dungeon | 239772 | [239772-athenian-rhapsody-thunder-goobers-personality-dungeon.json](./239772-athenian-rhapsody-thunder-goobers-personality-dungeon.json) |
 | Athenor | 15849 | [15849-athenor.json](./15849-athenor.json) |
+| Ather | 96146 | [96146-ather.json](./96146-ather.json) |
 | Ather: Chapter 1 | 96649 | [96649-ather-chapter-1.json](./96649-ather-chapter-1.json) |
 | Atheris | 389167 | [389167-atheris.json](./389167-atheris.json) |
 | Athletic Ball | 41797 | [41797-athletic-ball.json](./41797-athletic-ball.json) |
