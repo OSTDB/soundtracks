@@ -742,6 +742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint Hit | 102784 | [102784-paint-hit.json](./102784-paint-hit.json) |
 | Paint Hit: Color Blast | 103631 | [103631-paint-hit-color-blast.json](./103631-paint-hit-color-blast.json) |
 | Paint it + My Cute Unicorns Bundle | 400054 | [400054-paint-it-my-cute-unicorns-bundle.json](./400054-paint-it-my-cute-unicorns-bundle.json) |
+| Paint It Black | 89427 | [89427-paint-it-black.json](./89427-paint-it-black.json) |
 | Paint it Doom | 308070 | [308070-paint-it-doom.json](./308070-paint-it-doom.json) |
 | Paint It: Christmas Edition | 278651 | [278651-paint-it-christmas-edition.json](./278651-paint-it-christmas-edition.json) |
 | Paint It: Christmas Pack | 278654 | [278654-paint-it-christmas-pack.json](./278654-paint-it-christmas-pack.json) |
@@ -1291,6 +1292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pango Hide and seek | 90706 | [90706-pango-hide-and-seek.json](./90706-pango-hide-and-seek.json) |
 | Pango Kumo | 197731 | [197731-pango-kumo.json](./197731-pango-kumo.json) |
 | Pango Pirate | 90744 | [90744-pango-pirate.json](./90744-pango-pirate.json) |
+| Pango Playground | 89304 | [89304-pango-playground.json](./89304-pango-playground.json) |
 | Pango Sheep | 101113 | [101113-pango-sheep.json](./101113-pango-sheep.json) |
 | Pangolick Quest | 417350 | [417350-pangolick-quest.json](./417350-pangolick-quest.json) |
 | Pangolin Cassowary | 266181 | [266181-pangolin-cassowary.json](./266181-pangolin-cassowary.json) |
@@ -7079,6 +7081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Dreams | 260726 | [260726-pinball-dreams.json](./260726-pinball-dreams.json) |
 | Pinball Dreams | 3024 | [3024-pinball-dreams.json](./3024-pinball-dreams.json) |
 | Pinball Dreams Deluxe | 250197 | [250197-pinball-dreams-deluxe.json](./250197-pinball-dreams-deluxe.json) |
+| Pinball Dreams HD | 89349 | [89349-pinball-dreams-hd.json](./89349-pinball-dreams-hd.json) |
 | Pinball Dreams II | 50267 | [50267-pinball-dreams-ii.json](./50267-pinball-dreams-ii.json) |
 | Pinball Duel | 66642 | [66642-pinball-duel.json](./66642-pinball-duel.json) |
 | Pinball Dungeon | 177562 | [177562-pinball-dungeon.json](./177562-pinball-dungeon.json) |
