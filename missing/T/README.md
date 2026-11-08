@@ -9834,6 +9834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Flintstones: Bedrock Bowling | 44987 | [44987-the-flintstones-bedrock-bowling.json](./44987-the-flintstones-bedrock-bowling.json) |
 | The Flintstones: Bedrock Jackpot | 396443 | [396443-the-flintstones-bedrock-jackpot.json](./396443-the-flintstones-bedrock-jackpot.json) |
 | The Flintstones: Big Trouble in Bedrock | 49194 | [49194-the-flintstones-big-trouble-in-bedrock.json](./49194-the-flintstones-big-trouble-in-bedrock.json) |
+| The Flintstones: Bring Back Bedrock | 98156 | [98156-the-flintstones-bring-back-bedrock.json](./98156-the-flintstones-bring-back-bedrock.json) |
 | The Flintstones: Burgertime in Bedrock | 49930 | [49930-the-flintstones-burgertime-in-bedrock.json](./49930-the-flintstones-burgertime-in-bedrock.json) |
 | The Flintstones: Dino - Lost in Bedrock | 71541 | [71541-the-flintstones-dino-lost-in-bedrock.json](./71541-the-flintstones-dino-lost-in-bedrock.json) |
 | The Flintstones: Dino to the Rescue | 225618 | [225618-the-flintstones-dino-to-the-rescue.json](./225618-the-flintstones-dino-to-the-rescue.json) |
@@ -23469,6 +23470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Jumper | 157094 | [157094-time-jumper.json](./157094-time-jumper.json) |
 | Time Keeper | 198459 | [198459-time-keeper.json](./198459-time-keeper.json) |
 | Time Killers | 8939 | [8939-time-killers.json](./8939-time-killers.json) |
+| Time Killing of God | 98603 | [98603-time-killing-of-god.json](./98603-time-killing-of-god.json) |
 | Time Kings: Modern War in Medieval Age | 401093 | [401093-time-kings-modern-war-in-medieval-age.json](./401093-time-kings-modern-war-in-medieval-age.json) |
 | Time Knight Adventures | 164322 | [164322-time-knight-adventures.json](./164322-time-knight-adventures.json) |
 | Time Knight vs. Zombies | 253828 | [253828-time-knight-vs-zombies.json](./253828-time-knight-vs-zombies.json) |
@@ -30723,6 +30725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trap of Musk: Arabia Night | 237152 | [237152-trap-of-musk-arabia-night.json](./237152-trap-of-musk-arabia-night.json) |
 | Trap of Musk: Asia Night | 235481 | [235481-trap-of-musk-asia-night.json](./235481-trap-of-musk-asia-night.json) |
 | Trap of Musk: Europe Night | 237046 | [237046-trap-of-musk-europe-night.json](./237046-trap-of-musk-europe-night.json) |
+| Trap of the Alchemy | 98490 | [98490-trap-of-the-alchemy.json](./98490-trap-of-the-alchemy.json) |
 | Trap Roller | 397188 | [397188-trap-roller.json](./397188-trap-roller.json) |
 | Trap Shooting | 245299 | [245299-trap-shooting.json](./245299-trap-shooting.json) |
 | Trap Shrine | 115520 | [115520-trap-shrine.json](./115520-trap-shrine.json) |
@@ -31443,6 +31446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial of Greed | 353971 | [353971-trial-of-greed.json](./353971-trial-of-greed.json) |
 | Trial of Greed VR | 410861 | [410861-trial-of-greed-vr.json](./410861-trial-of-greed-vr.json) |
 | Trial of Sacrifice | 306418 | [306418-trial-of-sacrifice.json](./306418-trial-of-sacrifice.json) |
+| Trial of Temptation | 98604 | [98604-trial-of-temptation.json](./98604-trial-of-temptation.json) |
 | Trial of the Clone | 63670 | [63670-trial-of-the-clone.json](./63670-trial-of-the-clone.json) |
 | Trial of the Demon Hunter | 81136 | [81136-trial-of-the-demon-hunter.json](./81136-trial-of-the-demon-hunter.json) |
 | Trial of the Gods | 102310 | [102310-trial-of-the-gods.json](./102310-trial-of-the-gods.json) |
