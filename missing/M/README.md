@@ -1285,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Potion Destroyer | 55227 | [55227-magic-potion-destroyer.json](./55227-magic-potion-destroyer.json) |
 | Magic Potion Explorer | 33550 | [33550-magic-potion-explorer.json](./33550-magic-potion-explorer.json) |
 | Magic Potion Liberators | 239811 | [239811-magic-potion-liberators.json](./239811-magic-potion-liberators.json) |
+| Magic Potion Millionaire | 135423 | [135423-magic-potion-millionaire.json](./135423-magic-potion-millionaire.json) |
 | Magic Potion Stories | 252666 | [252666-magic-potion-stories.json](./252666-magic-potion-stories.json) |
 | Magic Purple | 251706 | [251706-magic-purple.json](./251706-magic-purple.json) |
 | Magic Pussy: Chapter 1 | 244719 | [244719-magic-pussy-chapter-1.json](./244719-magic-pussy-chapter-1.json) |
@@ -13177,6 +13178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miniature Golf | 18415 | [18415-miniature-golf.json](./18415-miniature-golf.json) |
 | Miniature Golf | 217679 | [217679-miniature-golf.json](./217679-miniature-golf.json) |
 | Miniature Golf | 239511 | [239511-miniature-golf.json](./239511-miniature-golf.json) |
+| Miniature Land 3 | 135424 | [135424-miniature-land-3.json](./135424-miniature-land-3.json) |
 | Miniature Land: Four Seasons | 206391 | [206391-miniature-land-four-seasons.json](./206391-miniature-land-four-seasons.json) |
 | Miniature Legends | 395238 | [395238-miniature-legends.json](./395238-miniature-legends.json) |
 | Miniature Mania | 395709 | [395709-miniature-mania.json](./395709-miniature-mania.json) |
@@ -15349,6 +15351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momoyo to Tsukasa no Dig Dig Adventure | 234513 | [234513-momoyo-to-tsukasa-no-dig-dig-adventure.json](./234513-momoyo-to-tsukasa-no-dig-dig-adventure.json) |
 | Mompreneur: Pizza Cooking Life Sim | 127829 | [127829-mompreneur-pizza-cooking-life-sim.json](./127829-mompreneur-pizza-cooking-life-sim.json) |
 | Mon | 185461 | [185461-mon.json](./185461-mon.json) |
+| Mon Amour | 135425 | [135425-mon-amour.json](./135425-mon-amour.json) |
 | Mon Coach Personnel, J'enrichis Mon Vocabulaire | 149278 | [149278-mon-coach-personnel-jenrichis-mon-vocabulaire.json](./149278-mon-coach-personnel-jenrichis-mon-vocabulaire.json) |
 | Mon Coach Personnel: J'ameliore Mon Anglais | 210124 | [210124-mon-coach-personnel-jameliore-mon-anglais.json](./210124-mon-coach-personnel-jameliore-mon-anglais.json) |
 | Mon Poulain 3D | 147219 | [147219-mon-poulain-3d.json](./147219-mon-poulain-3d.json) |
@@ -19503,6 +19506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mumu's Soup Adventure Samsara | 373041 | [373041-mumus-soup-adventure-samsara.json](./373041-mumus-soup-adventure-samsara.json) |
 | MuMuMu: Mist of Six Dreams | 312590 | [312590-mumumu-mist-of-six-dreams.json](./312590-mumumu-mist-of-six-dreams.json) |
 | Munasawagi no Season | 246104 | [246104-munasawagi-no-season.json](./246104-munasawagi-no-season.json) |
+| Muncell | 135426 | [135426-muncell.json](./135426-muncell.json) |
 | Munch | 304300 | [304300-munch.json](./304300-munch.json) |
 | Munch | 30728 | [30728-munch.json](./30728-munch.json) |
 | Munch & Crunch | 310996 | [310996-munch-and-crunch.json](./310996-munch-and-crunch.json) |
@@ -19528,6 +19532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munchyman | 98234 | [98234-munchyman.json](./98234-munchyman.json) |
 | Mundaun | 101007 | [101007-mundaun.json](./101007-mundaun.json) |
 | Mundial de Fútbol | 86008 | [86008-mundial-de-futbol.json](./86008-mundial-de-futbol.json) |
+| Mundial Ronaldinho Soccer 64 | 135373 | [135373-mundial-ronaldinho-soccer-64.json](./135373-mundial-ronaldinho-soccer-64.json) |
 | Mundo SBT | 249459 | [249459-mundo-sbt.json](./249459-mundo-sbt.json) |
 | Mundus: Impossible Universe | 95572 | [95572-mundus-impossible-universe.json](./95572-mundus-impossible-universe.json) |
 | Mundus: Impossible Universe 2 | 118020 | [118020-mundus-impossible-universe-2.json](./118020-mundus-impossible-universe-2.json) |
