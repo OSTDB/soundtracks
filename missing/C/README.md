@@ -3312,6 +3312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Case of Dungeons | 268808 | [268808-case-of-dungeons.json](./268808-case-of-dungeons.json) |
 | Case of the Canvas | 301475 | [301475-case-of-the-canvas.json](./301475-case-of-the-canvas.json) |
 | Case of the Mysterious Death of Keiko Haraeda | 267862 | [267862-case-of-the-mysterious-death-of-keiko-haraeda.json](./267862-case-of-the-mysterious-death-of-keiko-haraeda.json) |
+| Case Opener Guns | 111934 | [111934-case-opener-guns.json](./111934-case-opener-guns.json) |
 | Case Records: Fear of Abduction | 294017 | [294017-case-records-fear-of-abduction.json](./294017-case-records-fear-of-abduction.json) |
 | Case Records: Lost Night | 334350 | [334350-case-records-lost-night.json](./334350-case-records-lost-night.json) |
 | Case Simulator Weapons and Armors | 111619 | [111619-case-simulator-weapons-and-armors.json](./111619-case-simulator-weapons-and-armors.json) |
@@ -5798,6 +5799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chalice of Souls: Grahan | 268307 | [268307-chalice-of-souls-grahan.json](./268307-chalice-of-souls-grahan.json) |
 | Chalicebound | 300985 | [300985-chalicebound.json](./300985-chalicebound.json) |
 | Chalk | 8625 | [8625-chalk.json](./8625-chalk.json) |
+| Chalk Dash Carnival | 111918 | [111918-chalk-dash-carnival.json](./111918-chalk-dash-carnival.json) |
 | Chalk Gardens | 119437 | [119437-chalk-gardens.json](./119437-chalk-gardens.json) |
 | Chalk River | 322857 | [322857-chalk-river.json](./322857-chalk-river.json) |
 | Chalk Up! | 175184 | [175184-chalk-up.json](./175184-chalk-up.json) |
@@ -9091,6 +9093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle of Nature | 327982 | [327982-circle-of-nature.json](./327982-circle-of-nature.json) |
 | Circle of Orion | 257930 | [257930-circle-of-orion.json](./257930-circle-of-orion.json) |
 | Circle of Sparks | 327093 | [327093-circle-of-sparks.json](./327093-circle-of-sparks.json) |
+| Circle of Sumo | 111916 | [111916-circle-of-sumo.json](./111916-circle-of-sumo.json) |
 | Circle of Sumo: Online Rumble! | 126661 | [126661-circle-of-sumo-online-rumble.json](./126661-circle-of-sumo-online-rumble.json) |
 | Circle of Swords | 276242 | [276242-circle-of-swords.json](./276242-circle-of-swords.json) |
 | Circle Pong | 289388 | [289388-circle-pong.json](./289388-circle-pong.json) |
@@ -10724,6 +10727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clockwork Calamity in Mushroom World: What would you do if the time stopped ticking? | 153424 | [153424-clockwork-calamity-in-mushroom-world-what-would-you-do-if-the-time-stopped-ticking.json](./153424-clockwork-calamity-in-mushroom-world-what-would-you-do-if-the-time-stopped-ticking.json) |
 | Clockwork Cat | 128868 | [128868-clockwork-cat.json](./128868-clockwork-cat.json) |
 | Clockwork Cleanup | 382941 | [382941-clockwork-cleanup.json](./382941-clockwork-cleanup.json) |
+| Clockwork Damage | 111812 | [111812-clockwork-damage.json](./111812-clockwork-damage.json) |
 | Clockwork Dawn | 303414 | [303414-clockwork-dawn.json](./303414-clockwork-dawn.json) |
 | Clockwork Dreams | 169238 | [169238-clockwork-dreams.json](./169238-clockwork-dreams.json) |
 | Clockwork Dungeon | 165682 | [165682-clockwork-dungeon.json](./165682-clockwork-dungeon.json) |
@@ -10926,6 +10930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudburst | 250844 | [250844-cloudburst.json](./250844-cloudburst.json) |
 | Cloudburst | 285057 | [285057-cloudburst.json](./285057-cloudburst.json) |
 | CloudCity VR | 50518 | [50518-cloudcity-vr.json](./50518-cloudcity-vr.json) |
+| Clouded | 111936 | [111936-clouded.json](./111936-clouded.json) |
 | Clouded VR | 211522 | [211522-clouded-vr.json](./211522-clouded-vr.json) |
 | Cloudface | 62601 | [62601-cloudface.json](./62601-cloudface.json) |
 | Cloudgazer: A Game About Watching Clouds | 416005 | [416005-cloudgazer-a-game-about-watching-clouds.json](./416005-cloudgazer-a-game-about-watching-clouds.json) |
@@ -13658,6 +13663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Condemned: Nightfall | 391706 | [391706-condemned-nightfall.json](./391706-condemned-nightfall.json) |
 | Condemned: The Prequel Story | 246202 | [246202-condemned-the-prequel-story.json](./246202-condemned-the-prequel-story.json) |
 | Condition 24 | 159774 | [159774-condition-24.json](./159774-condition-24.json) |
+| Condition Red | 111810 | [111810-condition-red.json](./111810-condition-red.json) |
 | Conditus | 203672 | [203672-conditus.json](./203672-conditus.json) |
 | Condo | 349936 | [349936-condo.json](./349936-condo.json) |
 | Condo Desires | 331093 | [331093-condo-desires.json](./331093-condo-desires.json) |
@@ -15394,6 +15400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Cruncher | 59448 | [59448-cosmic-cruncher.json](./59448-cosmic-cruncher.json) |
 | Cosmic Crusader | 14494 | [14494-cosmic-crusader.json](./14494-cosmic-crusader.json) |
 | Cosmic Crusader | 413237 | [413237-cosmic-crusader.json](./413237-cosmic-crusader.json) |
+| Cosmic Crush | 111922 | [111922-cosmic-crush.json](./111922-cosmic-crush.json) |
 | Cosmic Cube | 174439 | [174439-cosmic-cube.json](./174439-cosmic-cube.json) |
 | Cosmic Cursor | 272781 | [272781-cosmic-cursor.json](./272781-cosmic-cursor.json) |
 | Cosmic Dawn | 141183 | [141183-cosmic-dawn.json](./141183-cosmic-dawn.json) |
@@ -20652,6 +20659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute-ing Gallery | 336661 | [336661-cute-ing-gallery.json](./336661-cute-ing-gallery.json) |
 | Cute, Broke, and Dungeon Bound | 334132 | [334132-cute-broke-and-dungeon-bound.json](./334132-cute-broke-and-dungeon-bound.json) |
 | Cute, Evil & Strange | 116411 | [116411-cute-evil-and-strange.json](./116411-cute-evil-and-strange.json) |
+| Cute(Hard)Puzzle | 111927 | [111927-cute-hard-puzzle.json](./111927-cute-hard-puzzle.json) |
 | CuteBoy.TD | 197765 | [197765-cuteboy-td.json](./197765-cuteboy-td.json) |
 | Cuter Kaizo World | 312344 | [312344-cuter-kaizo-world.json](./312344-cuter-kaizo-world.json) |
 | Cutesy - Quest of the Unicorn | 52333 | [52333-cutesy-quest-of-the-unicorn.json](./52333-cutesy-quest-of-the-unicorn.json) |
