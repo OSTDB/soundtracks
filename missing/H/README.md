@@ -6773,11 +6773,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexelectric | 119689 | [119689-hexelectric.json](./119689-hexelectric.json) |
 | Hexement | 68621 | [68621-hexement.json](./68621-hexement.json) |
 | Hexen | 93641 | [93641-hexen.json](./93641-hexen.json) |
+| Hexen | 93642 | [93642-hexen.json](./93642-hexen.json) |
 | Hexen Badlands | 268920 | [268920-hexen-badlands.json](./268920-hexen-badlands.json) |
 | Hexen II | 6637 | [6637-hexen-ii.json](./6637-hexen-ii.json) |
 | Hexen II Mission Pack: Portal of Praevus | 745 | [745-hexen-ii-mission-pack-portal-of-praevus.json](./745-hexen-ii-mission-pack-portal-of-praevus.json) |
 | Hexen Upstart Mapping Project | 268879 | [268879-hexen-upstart-mapping-project.json](./268879-hexen-upstart-mapping-project.json) |
 | Hexen: Beyond Heretic | 3512 | [3512-hexen-beyond-heretic.json](./3512-hexen-beyond-heretic.json) |
+| Hexen: Beyond Heretic | 93643 | [93643-hexen-beyond-heretic.json](./93643-hexen-beyond-heretic.json) |
 | Hexen: Deathkings of the Dark Citadel | 8851 | [8851-hexen-deathkings-of-the-dark-citadel.json](./8851-hexen-deathkings-of-the-dark-citadel.json) |
 | Hexen: Veil of Darkness | 298754 | [298754-hexen-veil-of-darkness.json](./298754-hexen-veil-of-darkness.json) |
 | HexenHold | 340469 | [340469-hexenhold.json](./340469-hexenhold.json) |
