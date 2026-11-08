@@ -4549,6 +4549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlestations | 13872 | [13872-battlestations.json](./13872-battlestations.json) |
 | Battlestations: Midway | 4223 | [4223-battlestations-midway.json](./4223-battlestations-midway.json) |
 | Battlestations: Pacific | 4222 | [4222-battlestations-pacific.json](./4222-battlestations-pacific.json) |
+| BattleSteam | 121856 | [121856-battlesteam.json](./121856-battlesteam.json) |
 | BattleStick | 34635 | [34635-battlestick.json](./34635-battlestick.json) |
 | BattleStick 2 | 149744 | [149744-battlestick-2.json](./149744-battlestick-2.json) |
 | Battlestone | 63084 | [63084-battlestone.json](./63084-battlestone.json) |
