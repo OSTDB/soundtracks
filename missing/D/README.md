@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D1896 | 126365 | [126365-d1896.json](./126365-d1896.json) |
 | D1AL-ogue+ | 394403 | [394403-d1al-ogue.json](./394403-d1al-ogue.json) |
 | D2 | 36736 | [36736-d2.json](./36736-d2.json) |
+| d20 - an RPG dice roller | 88362 | [88362-d20-an-rpg-dice-roller.json](./88362-d20-an-rpg-dice-roller.json) |
 | D20 Dungeons | 126975 | [126975-d20-dungeons.json](./126975-d20-dungeons.json) |
 | d20: Sweet Roll Club | 36761 | [36761-d20-sweet-roll-club.json](./36761-d20-sweet-roll-club.json) |
 | D2048 | 125915 | [125915-d2048.json](./125915-d2048.json) |
@@ -3194,6 +3195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DC Dual Force | 212690 | [212690-dc-dual-force.json](./212690-dc-dual-force.json) |
 | DC Heroes & Villains | 194123 | [194123-dc-heroes-and-villains.json](./194123-dc-heroes-and-villains.json) |
 | DC Heroes United | 323030 | [323030-dc-heroes-united.json](./323030-dc-heroes-united.json) |
+| DC Legends | 88509 | [88509-dc-legends.json](./88509-dc-legends.json) |
 | DC Super Hero Girls | 58643 | [58643-dc-super-hero-girls.json](./58643-dc-super-hero-girls.json) |
 | DC Super Hero Girls: Blitz | 294679 | [294679-dc-super-hero-girls-blitz.json](./294679-dc-super-hero-girls-blitz.json) |
 | DC Super Hero Girls: Food Fight | 316786 | [316786-dc-super-hero-girls-food-fight.json](./316786-dc-super-hero-girls-food-fight.json) |
@@ -9691,6 +9693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimetrosaur 2 | 157320 | [157320-dimetrosaur-2.json](./157320-dimetrosaur-2.json) |
 | Dimhaven: The Lost Source | 253578 | [253578-dimhaven-the-lost-source.json](./253578-dimhaven-the-lost-source.json) |
 | Diminishing Light: Wheeled Carnage | 294029 | [294029-diminishing-light-wheeled-carnage.json](./294029-diminishing-light-wheeled-carnage.json) |
+| Diminishing see addition block - A good tool that children and pupil happily learn addition | 88341 | [88341-diminishing-see-addition-block-a-good-tool-that-children-and-pupil-happily-learn-addition.json](./88341-diminishing-see-addition-block-a-good-tool-that-children-and-pupil-happily-learn-addition.json) |
 | Diminutive | 100309 | [100309-diminutive.json](./100309-diminutive.json) |
 | Diminutive Abyss | 271578 | [271578-diminutive-abyss.json](./271578-diminutive-abyss.json) |
 | Dimiria: The Agrarian Falls | 64786 | [64786-dimiria-the-agrarian-falls.json](./64786-dimiria-the-agrarian-falls.json) |
@@ -10209,6 +10212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Bike Retro | 147637 | [147637-dirt-bike-retro.json](./147637-dirt-bike-retro.json) |
 | Dirt Bike Unchained | 196432 | [196432-dirt-bike-unchained.json](./196432-dirt-bike-unchained.json) |
 | Dirt Bike: Unlimited Bike Experience | 296895 | [296895-dirt-bike-unlimited-bike-experience.json](./296895-dirt-bike-unlimited-bike-experience.json) |
+| Dirt Bikes Super Racing | 88359 | [88359-dirt-bikes-super-racing.json](./88359-dirt-bikes-super-racing.json) |
 | Dirt Dash | 39827 | [39827-dirt-dash.json](./39827-dirt-dash.json) |
 | Dirt Devils | 39448 | [39448-dirt-devils.json](./39448-dirt-devils.json) |
 | Dirt Fox | 364396 | [364396-dirt-fox.json](./364396-dirt-fox.json) |
@@ -16929,6 +16933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Boom Boom | 296877 | [296877-drift-boom-boom.json](./296877-drift-boom-boom.json) |
 | Drift Boss | 145531 | [145531-drift-boss.json](./145531-drift-boss.json) |
 | Drift Car Driving Simulator | 251336 | [251336-drift-car-driving-simulator.json](./251336-drift-car-driving-simulator.json) |
+| Drift Car Racing Simulator | 88360 | [88360-drift-car-racing-simulator.json](./88360-drift-car-racing-simulator.json) |
 | Drift Cars Zombie Crusher | 263864 | [263864-drift-cars-zombie-crusher.json](./263864-drift-cars-zombie-crusher.json) |
 | Drift Cart | 365239 | [365239-drift-cart.json](./365239-drift-cart.json) |
 | Drift City | 259514 | [259514-drift-city.json](./259514-drift-city.json) |
