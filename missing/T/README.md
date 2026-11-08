@@ -3368,6 +3368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo World Soccer '96 | 39963 | [39963-tecmo-world-soccer-96.json](./39963-tecmo-world-soccer-96.json) |
 | Tecmo World Wrestling | 48083 | [48083-tecmo-world-wrestling.json](./48083-tecmo-world-wrestling.json) |
 | Tecmo's Deception: Invitation to Darkness | 20801 | [20801-tecmos-deception-invitation-to-darkness.json](./20801-tecmos-deception-invitation-to-darkness.json) |
+| Tecno: The Base | 92029 | [92029-tecno-the-base.json](./92029-tecno-the-base.json) |
 | TecnoballZ | 50412 | [50412-tecnoballz.json](./50412-tecnoballz.json) |
 | Tecnology War | 248747 | [248747-tecnology-war.json](./248747-tecnology-war.json) |
 | Tecroroid Assault | 113448 | [113448-tecroroid-assault.json](./113448-tecroroid-assault.json) |
@@ -23297,6 +23298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TiliMili ABC writing for kids | 107345 | [107345-tilimili-abc-writing-for-kids.json](./107345-tilimili-abc-writing-for-kids.json) |
 | Tiling Towers | 249811 | [249811-tiling-towers.json](./249811-tiling-towers.json) |
 | Tiling Town | 381417 | [381417-tiling-town.json](./381417-tiling-town.json) |
+| Tilk | 92108 | [92108-tilk.json](./92108-tilk.json) |
 | Till Checkout Do Us Part | 381156 | [381156-till-checkout-do-us-part.json](./381156-till-checkout-do-us-part.json) |
 | Till Death Rolls Us Apart | 400544 | [400544-till-death-rolls-us-apart.json](./400544-till-death-rolls-us-apart.json) |
 | Till Midnight | 352048 | [352048-till-midnight.json](./352048-till-midnight.json) |
@@ -33335,6 +33337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel Rats | 15996 | [15996-tunnel-rats.json](./15996-tunnel-rats.json) |
 | Tunnel Run | 87226 | [87226-tunnel-run.json](./87226-tunnel-run.json) |
 | Tunnel Runner | 22757 | [22757-tunnel-runner.json](./22757-tunnel-runner.json) |
+| Tunnel Rush | 92037 | [92037-tunnel-rush.json](./92037-tunnel-rush.json) |
 | Tunnel Tail | 64755 | [64755-tunnel-tail.json](./64755-tunnel-tail.json) |
 | Tunnel Terror | 69514 | [69514-tunnel-terror.json](./69514-tunnel-terror.json) |
 | Tunnel Town | 106380 | [106380-tunnel-town.json](./106380-tunnel-town.json) |
