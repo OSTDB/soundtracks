@@ -979,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Kitty Pets | 100264 | [100264-101-kitty-pets.json](./100264-101-kitty-pets.json) |
 | 101 Minigolf World | 84621 | [84621-101-minigolf-world.json](./84621-101-minigolf-world.json) |
 | 101 Okey Plus | 368033 | [368033-101-okey-plus.json](./368033-101-okey-plus.json) |
+| 101 Penguin Pets | 94818 | [94818-101-penguin-pets.json](./94818-101-penguin-pets.json) |
 | 101 Penguin Pets 3D | 84620 | [84620-101-penguin-pets-3d.json](./84620-101-penguin-pets-3d.json) |
 | 101 Pony Pets | 91863 | [91863-101-pony-pets.json](./91863-101-pony-pets.json) |
 | 101 Pony Pets 3D | 84671 | [84671-101-pony-pets-3d.json](./84671-101-pony-pets-3d.json) |
@@ -3576,6 +3577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 90 Seconds | 259237 | [259237-90-seconds.json](./259237-90-seconds.json) |
 | 90'' Soccer | 212342 | [212342-90-soccer.json](./212342-90-soccer.json) |
 | 90's Pool | 84682 | [84682-90s-pool.json](./84682-90s-pool.json) |
+| 900 | 94803 | [94803-900.json](./94803-900.json) |
 | 900 Deep in the Dead | 273736 | [273736-900-deep-in-the-dead.json](./273736-900-deep-in-the-dead.json) |
 | 9000 Years Ago | 283074 | [283074-9000-years-ago.json](./283074-9000-years-ago.json) |
 | 90FX | 377126 | [377126-90fx.json](./377126-90fx.json) |
