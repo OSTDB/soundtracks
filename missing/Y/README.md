@@ -916,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yongbi M | 208061 | [208061-yongbi-m.json](./208061-yongbi-m.json) |
 | Yōngbīng Zhàngē | 127232 | [127232-yongbing-zhange.json](./127232-yongbing-zhange.json) |
 | Yongjiang River | 376275 | [376275-yongjiang-river.json](./376275-yongjiang-river.json) |
+| Yǒngshì Chōng Chōng Chōng | 93675 | [93675-yongshi-chong-chong-chong.json](./93675-yongshi-chong-chong-chong.json) |
 | Yongye Xiezouqu | 411106 | [411106-yongye-xiezouqu.json](./411106-yongye-xiezouqu.json) |
 | Yǒngzhě de Shí Rì Rénshēng | 161573 | [161573-yongzhe-de-shi-ri-rensheng.json](./161573-yongzhe-de-shi-ri-rensheng.json) |
 | Yoobot Vs. Yoonot | 320350 | [320350-yoobot-vs-yoonot.json](./320350-yoobot-vs-yoonot.json) |
