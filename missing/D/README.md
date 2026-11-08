@@ -11429,6 +11429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DIY Slime Maker! Squishy ASMR | 106593 | [106593-diy-slime-maker-squishy-asmr.json](./106593-diy-slime-maker-squishy-asmr.json) |
 | DIY Tour: Indie Rock Simulator | 197552 | [197552-diy-tour-indie-rock-simulator.json](./197552-diy-tour-indie-rock-simulator.json) |
 | DIYCraft2D | 179287 | [179287-diycraft2d.json](./179287-diycraft2d.json) |
+| DiyMachinery | 100456 | [100456-diymachinery.json](./100456-diymachinery.json) |
 | Dizzel | 379403 | [379403-dizzel.json](./379403-dizzel.json) |
 | Dizzel | 63687 | [63687-dizzel.json](./63687-dizzel.json) |
 | Dizziness | 181375 | [181375-dizziness.json](./181375-dizziness.json) |
