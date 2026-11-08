@@ -4210,6 +4210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle-X | 256305 | [256305-battle-x.json](./256305-battle-x.json) |
 | Battle: Los Angeles | 19010 | [19010-battle-los-angeles.json](./19010-battle-los-angeles.json) |
 | BattleBalls | 365156 | [365156-battleballs.json](./365156-battleballs.json) |
+| BattleBeaks | 98483 | [98483-battlebeaks.json](./98483-battlebeaks.json) |
 | BattleBeasts | 99615 | [99615-battlebeasts.json](./99615-battlebeasts.json) |
 | BattleBlade | 108034 | [108034-battleblade.json](./108034-battleblade.json) |
 | BattleBlock Theater | 2605 | [2605-battleblock-theater.json](./2605-battleblock-theater.json) |
@@ -12109,6 +12110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blurry Shopping | 381098 | [381098-blurry-shopping.json](./381098-blurry-shopping.json) |
 | Blush Blush | 115269 | [115269-blush-blush.json](./115269-blush-blush.json) |
 | Blush Blush: Kitsune Bundle | 277085 | [277085-blush-blush-kitsune-bundle.json](./277085-blush-blush-kitsune-bundle.json) |
+| BluStone | 98148 | [98148-blustone.json](./98148-blustone.json) |
 | Blut Club | 229103 | [229103-blut-club.json](./229103-blut-club.json) |
 | Blutkapelle | 420555 | [420555-blutkapelle.json](./420555-blutkapelle.json) |
 | Blym | 108914 | [108914-blym.json](./108914-blym.json) |
