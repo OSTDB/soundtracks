@@ -6471,6 +6471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Euro Club Manager 2003-04 | 94706 | [94706-euro-club-manager-2003-04.json](./94706-euro-club-manager-2003-04.json) |
 | Euro Club Manager 2005-2006 | 80316 | [80316-euro-club-manager-2005-2006.json](./80316-euro-club-manager-2005-2006.json) |
 | Euro Fishing: Bergsee | 170761 | [170761-euro-fishing-bergsee.json](./170761-euro-fishing-bergsee.json) |
+| Euro Fishing: Castle Edition | 118517 | [118517-euro-fishing-castle-edition.json](./118517-euro-fishing-castle-edition.json) |
 | Euro Fishing: Collector's Edition | 173108 | [173108-euro-fishing-collectors-edition.json](./173108-euro-fishing-collectors-edition.json) |
 | Euro Fishing: Foundry Dock | 52980 | [52980-euro-fishing-foundry-dock.json](./52980-euro-fishing-foundry-dock.json) |
 | Euro Fishing: Hunters Lake | 170760 | [170760-euro-fishing-hunters-lake.json](./170760-euro-fishing-hunters-lake.json) |
