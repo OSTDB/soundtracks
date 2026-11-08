@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Bean | 245154 | [245154-magic-bean.json](./245154-magic-bean.json) |
 | Magic Bean | 270997 | [270997-magic-bean.json](./270997-magic-bean.json) |
 | Magic Blast | 174960 | [174960-magic-blast.json](./174960-magic-blast.json) |
+| Magic Blast VR | 109828 | [109828-magic-blast-vr.json](./109828-magic-blast-vr.json) |
 | Magic Block | 48282 | [48282-magic-block.json](./48282-magic-block.json) |
 | Magic Book Auto Battler | 328257 | [328257-magic-book-auto-battler.json](./328257-magic-book-auto-battler.json) |
 | Magic Book Escape | 315673 | [315673-magic-book-escape.json](./315673-magic-book-escape.json) |
@@ -6054,7 +6055,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -15908,6 +15908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Adventure | 194129 | [194129-monster-adventure.json](./194129-monster-adventure.json) |
 | Monster Adventure | 195891 | [195891-monster-adventure.json](./195891-monster-adventure.json) |
 | Monster Adventure | 95732 | [95732-monster-adventure.json](./95732-monster-adventure.json) |
+| Monster Adventurer | 109834 | [109834-monster-adventurer.json](./109834-monster-adventurer.json) |
 | Monster Adventures | 61088 | [61088-monster-adventures.json](./61088-monster-adventures.json) |
 | Monster Adventures Crazy | 239230 | [239230-monster-adventures-crazy.json](./239230-monster-adventures-crazy.json) |
 | Monster Alchemy | 403768 | [403768-monster-alchemy.json](./403768-monster-alchemy.json) |
