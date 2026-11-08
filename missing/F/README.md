@@ -270,6 +270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabble's Adventure | 52988 | [52988-fabbles-adventure.json](./52988-fabbles-adventure.json) |
 | Fabby Golf | 239324 | [239324-fabby-golf.json](./239324-fabby-golf.json) |
 | Fable | 2960 | [2960-fable.json](./2960-fable.json) |
+| Fable | 92550 | [92550-fable.json](./92550-fable.json) |
 | Fable Anniversary | 7658 | [7658-fable-anniversary.json](./7658-fable-anniversary.json) |
 | Fable Anniversary: Heroes and Villains Content Pack | 226844 | [226844-fable-anniversary-heroes-and-villains-content-pack.json](./226844-fable-anniversary-heroes-and-villains-content-pack.json) |
 | Fable Anniversary: Scythe Content Pack | 226845 | [226845-fable-anniversary-scythe-content-pack.json](./226845-fable-anniversary-scythe-content-pack.json) |
@@ -2381,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farathan | 149703 | [149703-farathan.json](./149703-farathan.json) |
 | Faraway | 205868 | [205868-faraway.json](./205868-faraway.json) |
 | Faraway | 325275 | [325275-faraway.json](./325275-faraway.json) |
+| Faraway | 92587 | [92587-faraway.json](./92587-faraway.json) |
 | Faraway 3: Arctic Escape | 102700 | [102700-faraway-3-arctic-escape.json](./102700-faraway-3-arctic-escape.json) |
 | Faraway 4: Ancient Escape | 115052 | [115052-faraway-4-ancient-escape.json](./115052-faraway-4-ancient-escape.json) |
 | Faraway 5: Tropic Escape | 132015 | [132015-faraway-5-tropic-escape.json](./132015-faraway-5-tropic-escape.json) |
@@ -12872,6 +12874,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Page Sports: Ski Racing | 63115 | [63115-front-page-sports-ski-racing.json](./63115-front-page-sports-ski-racing.json) |
 | Front Page Sports: Trophy Bass 2 - Northern Lakes | 68963 | [68963-front-page-sports-trophy-bass-2-northern-lakes.json](./68963-front-page-sports-trophy-bass-2-northern-lakes.json) |
 | Front Page Sports: Trophy Rivers | 69872 | [69872-front-page-sports-trophy-rivers.json](./69872-front-page-sports-trophy-rivers.json) |
+| Front Row | 92582 | [92582-front-row.json](./92582-front-row.json) |
+| Front Runner | 92576 | [92576-front-runner.json](./92576-front-runner.json) |
 | Front Wars | 35279 | [35279-front-wars.json](./35279-front-wars.json) |
 | Front Wars: World War II | 90521 | [90521-front-wars-world-war-ii.json](./90521-front-wars-world-war-ii.json) |
 | Frontal Attack | 116157 | [116157-frontal-attack.json](./116157-frontal-attack.json) |
