@@ -983,7 +983,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5515,6 +5514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat the Boss 3 | 91036 | [91036-beat-the-boss-3.json](./91036-beat-the-boss-3.json) |
 | Beat the Boss 4 | 88144 | [88144-beat-the-boss-4.json](./88144-beat-the-boss-4.json) |
 | Beat The Boss Game | 331699 | [331699-beat-the-boss-game.json](./331699-beat-the-boss-game.json) |
+| Beat the Champ | 92580 | [92580-beat-the-champ.json](./92580-beat-the-champ.json) |
 | Beat the Champions | 392603 | [392603-beat-the-champions.json](./392603-beat-the-champions.json) |
 | Beat the Clock | 196261 | [196261-beat-the-clock.json](./196261-beat-the-clock.json) |
 | Beat the Clock | 291928 | [291928-beat-the-clock.json](./291928-beat-the-clock.json) |
@@ -13766,6 +13766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Born Punk | 128459 | [128459-born-punk.json](./128459-born-punk.json) |
 | Born to Be Big | 228825 | [228825-born-to-be-big.json](./228825-born-to-be-big.json) |
 | Born to Fight | 269598 | [269598-born-to-fight.json](./269598-born-to-fight.json) |
+| Born to Fire | 92575 | [92575-born-to-fire.json](./92575-born-to-fire.json) |
 | Born to Kill | 167460 | [167460-born-to-kill.json](./167460-born-to-kill.json) |
 | Born to Rise | 256335 | [256335-born-to-rise.json](./256335-born-to-rise.json) |
 | Born to Rock | 60765 | [60765-born-to-rock.json](./60765-born-to-rock.json) |
@@ -17290,6 +17291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugdom | 50343 | [50343-bugdom.json](./50343-bugdom.json) |
 | Bugged | 182679 | [182679-bugged.json](./182679-bugged.json) |
 | Bugged | 195115 | [195115-bugged.json](./195115-bugged.json) |
+| Bugged | 92210 | [92210-bugged.json](./92210-bugged.json) |
 | Bugged Dungeon | 191979 | [191979-bugged-dungeon.json](./191979-bugged-dungeon.json) |
 | Bugged Out | 266619 | [266619-bugged-out.json](./266619-bugged-out.json) |
 | Bugged Out | 391880 | [391880-bugged-out.json](./391880-bugged-out.json) |
@@ -18089,6 +18091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Boy | 66986 | [66986-burger-boy.json](./66986-burger-boy.json) |
 | Burger Break | 206310 | [206310-burger-break.json](./206310-burger-break.json) |
 | Burger Break: Head to Head | 199163 | [199163-burger-break-head-to-head.json](./199163-burger-break-head-to-head.json) |
+| Burger Burger | 92545 | [92545-burger-burger.json](./92545-burger-burger.json) |
 | Burger Butt | 216703 | [216703-burger-butt.json](./216703-burger-butt.json) |
 | Burger Cats | 58574 | [58574-burger-cats.json](./58574-burger-cats.json) |
 | Burger Chase | 13826 | [13826-burger-chase.json](./13826-burger-chase.json) |
