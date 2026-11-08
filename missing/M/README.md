@@ -12868,6 +12868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minemaze | 196281 | [196281-minemaze.json](./196281-minemaze.json) |
 | Minepull | 186554 | [186554-minepull.json](./186554-minepull.json) |
 | Miner | 345934 | [345934-miner.json](./345934-miner.json) |
+| Miner 2000er | 80078 | [80078-miner-2000er.json](./80078-miner-2000er.json) |
 | Miner 2019er | 416659 | [416659-miner-2019er.json](./416659-miner-2019er.json) |
 | Miner 2049er | 198821 | [198821-miner-2049er.json](./198821-miner-2049er.json) |
 | Miner 2049er | 293746 | [293746-miner-2049er.json](./293746-miner-2049er.json) |
@@ -19400,6 +19401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MSSP8 | 308262 | [308262-mssp8.json](./308262-mssp8.json) |
 | Mstar | 137518 | [137518-mstar.json](./137518-mstar.json) |
 | MSX Baseball | 94321 | [94321-msx-baseball.json](./94321-msx-baseball.json) |
+| MSX Baseball II | 80059 | [80059-msx-baseball-ii.json](./80059-msx-baseball-ii.json) |
 | MSX Copycat | 352337 | [352337-msx-copycat.json](./352337-msx-copycat.json) |
 | MSX Soccer | 94680 | [94680-msx-soccer.json](./94680-msx-soccer.json) |
 | MSX-21 | 97805 | [97805-msx-21.json](./97805-msx-21.json) |
@@ -20492,6 +20494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX Racing World | 364704 | [364704-mx-racing-world.json](./364704-mx-racing-world.json) |
 | MX Simulator | 21182 | [21182-mx-simulator.json](./21182-mx-simulator.json) |
 | MX Superfly | 4024 | [4024-mx-superfly.json](./4024-mx-superfly.json) |
+| MX Superfly Featuring Ricky Carmichael | 80067 | [80067-mx-superfly-featuring-ricky-carmichael.json](./80067-mx-superfly-featuring-ricky-carmichael.json) |
 | MX vs ATV Legends: Husqvarna Pack 2023 | 285062 | [285062-mx-vs-atv-legends-husqvarna-pack-2023.json](./285062-mx-vs-atv-legends-husqvarna-pack-2023.json) |
 | MX vs ATV: Legends - Yamaha Pack 2023 | 288051 | [288051-mx-vs-atv-legends-yamaha-pack-2023.json](./288051-mx-vs-atv-legends-yamaha-pack-2023.json) |
 | MX vs. ATV All Out: 2011 Honda TRX450R | 169055 | [169055-mx-vs-atv-all-out-2011-honda-trx450r.json](./169055-mx-vs-atv-all-out-2011-honda-trx450r.json) |
