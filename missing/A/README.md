@@ -877,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Most Extraordinary Gnome | 211034 | [211034-a-most-extraordinary-gnome.json](./211034-a-most-extraordinary-gnome.json) |
 | A Most Important Night | 371491 | [371491-a-most-important-night.json](./371491-a-most-important-night.json) |
 | A Moth Argent | 135835 | [135835-a-moth-argent.json](./135835-a-moth-argent.json) |
+| A Moth Batters Against Glass | 138962 | [138962-a-moth-batters-against-glass.json](./138962-a-moth-batters-against-glass.json) |
 | A Mountain Called Hope | 407748 | [407748-a-mountain-called-hope.json](./407748-a-mountain-called-hope.json) |
 | A Mountain of One | 240040 | [240040-a-mountain-of-one.json](./240040-a-mountain-of-one.json) |
 | A Murder in Fairyland | 140176 | [140176-a-murder-in-fairyland.json](./140176-a-murder-in-fairyland.json) |
@@ -981,6 +982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Park Full of Cats: Haunted Ride | 276234 | [276234-a-park-full-of-cats-haunted-ride.json](./276234-a-park-full-of-cats-haunted-ride.json) |
 | A Part of Life | 179360 | [179360-a-part-of-life.json](./179360-a-part-of-life.json) |
 | A part of me | 294229 | [294229-a-part-of-me.json](./294229-a-part-of-me.json) |
+| A Party | 138941 | [138941-a-party.json](./138941-a-party.json) |
 | A Party for a Picky Porridge Picker | 185381 | [185381-a-party-for-a-picky-porridge-picker.json](./185381-a-party-for-a-picky-porridge-picker.json) |
 | A Party of High Tension | 419151 | [419151-a-party-of-high-tension.json](./419151-a-party-of-high-tension.json) |
 | A Passing in the Night | 351792 | [351792-a-passing-in-the-night.json](./351792-a-passing-in-the-night.json) |
@@ -14897,6 +14899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arui ha Koi to Iu Na no Mahou | 416690 | [416690-arui-ha-koi-to-iu-na-no-mahou.json](./416690-arui-ha-koi-to-iu-na-no-mahou.json) |
 | Aruma Ketera | 382787 | [382787-aruma-ketera.json](./382787-aruma-ketera.json) |
 | Aruna | 167889 | [167889-aruna.json](./167889-aruna.json) |
+| Aruna's Adventure | 138954 | [138954-arunas-adventure.json](./138954-arunas-adventure.json) |
 | ARunner | 344687 | [344687-arunner.json](./344687-arunner.json) |
 | Aruruu to Asobo!! | 317805 | [317805-aruruu-to-asobo.json](./317805-aruruu-to-asobo.json) |
 | Arvale | 14787 | [14787-arvale.json](./14787-arvale.json) |
@@ -16904,6 +16907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
