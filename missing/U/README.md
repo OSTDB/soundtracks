@@ -1805,6 +1805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Underground Lords | 197051 | [197051-underground-lords.json](./197051-underground-lords.json) |
 | Underground Miner | 129673 | [129673-underground-miner.json](./129673-underground-miner.json) |
 | Underground Mission | 327641 | [327641-underground-mission.json](./327641-underground-mission.json) |
+| Underground Monster | 123162 | [123162-underground-monster.json](./123162-underground-monster.json) |
 | Underground Nomads | 369094 | [369094-underground-nomads.json](./369094-underground-nomads.json) |
 | Underground Pool | 56893 | [56893-underground-pool.json](./56893-underground-pool.json) |
 | Underground Prisoner | 310178 | [310178-underground-prisoner.json](./310178-underground-prisoner.json) |
@@ -2492,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Signal: Invasion | 290695 | [290695-unknown-signal-invasion.json](./290695-unknown-signal-invasion.json) |
 | Unknown Soldier: Mokuba no Houkou | 267396 | [267396-unknown-soldier-mokuba-no-houkou.json](./267396-unknown-soldier-mokuba-no-houkou.json) |
 | Unknown Soul With Me | 281920 | [281920-unknown-soul-with-me.json](./281920-unknown-soul-with-me.json) |
+| Unknown Space | 123149 | [123149-unknown-space.json](./123149-unknown-space.json) |
 | Unknown Space | 400860 | [400860-unknown-space.json](./400860-unknown-space.json) |
 | Unknown Space | 401892 | [401892-unknown-space.json](./401892-unknown-space.json) |
 | Unknown Surge | 129047 | [129047-unknown-surge.json](./129047-unknown-surge.json) |
