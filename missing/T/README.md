@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T. N. T. Bomb Bomb | 92142 | [92142-t-n-t-bomb-bomb.json](./92142-t-n-t-bomb-bomb.json) |
 | T.A.L.E.S. | 265496 | [265496-t-a-l-e-s.json](./265496-t-a-l-e-s.json) |
 | T.A.P. | 114329 | [114329-t-a-p.json](./114329-t-a-p.json) |
+| T.A.R.S | 129330 | [129330-t-a-r-s.json](./129330-t-a-r-s.json) |
 | T.B.M: The Blueppers Mayhem | 362385 | [362385-t-b-m-the-blueppers-mayhem.json](./362385-t-b-m-the-blueppers-mayhem.json) |
 | T.D.Z. 3: Dark Way of Stalker | 242671 | [242671-t-d-z-3-dark-way-of-stalker.json](./242671-t-d-z-3-dark-way-of-stalker.json) |
 | T.E.C. 3001 | 14646 | [14646-t-e-c-3001.json](./14646-t-e-c-3001.json) |
@@ -5165,6 +5166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tex Murphy: The Pandora Directive | 17424 | [17424-tex-murphy-the-pandora-directive.json](./17424-tex-murphy-the-pandora-directive.json) |
 | Tex Murphy: Under a Killing Moon | 955 | [955-tex-murphy-under-a-killing-moon.json](./955-tex-murphy-under-a-killing-moon.json) |
 | Tex Turbo and the Big Bug Battles | 419114 | [419114-tex-turbo-and-the-big-bug-battles.json](./419114-tex-turbo-and-the-big-bug-battles.json) |
+| Tex-Mechs | 129324 | [129324-tex-mechs.json](./129324-tex-mechs.json) |
 | Tex'em | 253287 | [253287-texem.json](./253287-texem.json) |
 | Texas 42 HD | 101042 | [101042-texas-42-hd.json](./101042-texas-42-hd.json) |
 | Texas Butcher | 125257 | [125257-texas-butcher.json](./125257-texas-butcher.json) |
@@ -5827,6 +5829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Alligator People | 46893 | [46893-the-alligator-people.json](./46893-the-alligator-people.json) |
 | The Almost Gone | 74787 | [74787-the-almost-gone.json](./74787-the-almost-gone.json) |
 | The Almost Heaven Crisis | 124040 | [124040-the-almost-heaven-crisis.json](./124040-the-almost-heaven-crisis.json) |
+| The Aloha Bakery | 129355 | [129355-the-aloha-bakery.json](./129355-the-aloha-bakery.json) |
 | The Alpha 001 | 168369 | [168369-the-alpha-001.json](./168369-the-alpha-001.json) |
 | The Alpha Wolf | 244258 | [244258-the-alpha-wolf.json](./244258-the-alpha-wolf.json) |
 | The Alphax Z | 39969 | [39969-the-alphax-z.json](./39969-the-alphax-z.json) |
@@ -15596,6 +15599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Raccoon Who Lost Their Shape | 218204 | [218204-the-raccoon-who-lost-their-shape.json](./218204-the-raccoon-who-lost-their-shape.json) |
 | The Race | 171802 | [171802-the-race.json](./171802-the-race.json) |
 | The Race Against Time | 39132 | [39132-the-race-against-time.json](./39132-the-race-against-time.json) |
+| The Race Factory | 129302 | [129302-the-race-factory.json](./129302-the-race-factory.json) |
 | The Race for the White House | 9372 | [9372-the-race-for-the-white-house.json](./9372-the-race-for-the-white-house.json) |
 | The Race for the White House 2016 | 31386 | [31386-the-race-for-the-white-house-2016.json](./31386-the-race-for-the-white-house-2016.json) |
 | The Race to Galamax | 147281 | [147281-the-race-to-galamax.json](./147281-the-race-to-galamax.json) |
@@ -19504,6 +19508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World of Nifty Craft | 256263 | [256263-the-world-of-nifty-craft.json](./256263-the-world-of-nifty-craft.json) |
 | The World of Nocrone | 60362 | [60362-the-world-of-nocrone.json](./60362-the-world-of-nocrone.json) |
 | The World of Obert Skye | 249593 | [249593-the-world-of-obert-skye.json](./249593-the-world-of-obert-skye.json) |
+| The World of Others | 129322 | [129322-the-world-of-others.json](./129322-the-world-of-others.json) |
 | The World of Pirates | 243858 | [243858-the-world-of-pirates.json](./243858-the-world-of-pirates.json) |
 | The World of Teo | 60382 | [60382-the-world-of-teo.json](./60382-the-world-of-teo.json) |
 | The World of the Candy Girl | 224538 | [224538-the-world-of-the-candy-girl.json](./224538-the-world-of-the-candy-girl.json) |
