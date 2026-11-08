@@ -27271,6 +27271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Flip Diving | 106523 | [106523-stickman-flip-diving.json](./106523-stickman-flip-diving.json) |
 | Stickman Football | 94775 | [94775-stickman-football.json](./94775-stickman-football.json) |
 | Stickman Fury | 372793 | [372793-stickman-fury.json](./372793-stickman-fury.json) |
+| Stickman go | 126708 | [126708-stickman-go.json](./126708-stickman-go.json) |
 | Stickman Golf | 212420 | [212420-stickman-golf.json](./212420-stickman-golf.json) |
 | Stickman Hero | 227944 | [227944-stickman-hero.json](./227944-stickman-hero.json) |
 | Stickman Hero Fighting Game | 254749 | [254749-stickman-hero-fighting-game.json](./254749-stickman-hero-fighting-game.json) |
@@ -28973,6 +28974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike It! | 40910 | [40910-strike-it.json](./40910-strike-it.json) |
 | Strike Master Apocalypse | 127507 | [127507-strike-master-apocalypse.json](./127507-strike-master-apocalypse.json) |
 | Strike Master Bowling | 295666 | [295666-strike-master-bowling.json](./295666-strike-master-bowling.json) |
+| Strike Mole | 126747 | [126747-strike-mole.json](./126747-strike-mole.json) |
 | Strike of Horror | 112856 | [112856-strike-of-horror.json](./112856-strike-of-horror.json) |
 | Strike of Kings | 56465 | [56465-strike-of-kings.json](./56465-strike-of-kings.json) |
 | Strike of Nations: Empire of Steel | 120238 | [120238-strike-of-nations-empire-of-steel.json](./120238-strike-of-nations-empire-of-steel.json) |
