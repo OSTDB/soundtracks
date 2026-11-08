@@ -8145,6 +8145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Theft Auto: Carcer City | 383392 | [383392-grand-theft-auto-carcer-city.json](./383392-grand-theft-auto-carcer-city.json) |
 | Grand Theft Auto: Chinatown Wars | 3270 | [3270-grand-theft-auto-chinatown-wars.json](./3270-grand-theft-auto-chinatown-wars.json) |
 | Grand Theft Auto: Collector's Edition | 43853 | [43853-grand-theft-auto-collectors-edition.json](./43853-grand-theft-auto-collectors-edition.json) |
+| Grand Theft Auto: Double Pack | 119155 | [119155-grand-theft-auto-double-pack.json](./119155-grand-theft-auto-double-pack.json) |
 | Grand Theft Auto: Episodes from Liberty City | 7003 | [7003-grand-theft-auto-episodes-from-liberty-city.json](./7003-grand-theft-auto-episodes-from-liberty-city.json) |
 | Grand Theft Auto: Forelli Redemption | 268042 | [268042-grand-theft-auto-forelli-redemption.json](./268042-grand-theft-auto-forelli-redemption.json) |
 | Grand Theft Auto: Frosted Winter | 410239 | [410239-grand-theft-auto-frosted-winter.json](./410239-grand-theft-auto-frosted-winter.json) |
