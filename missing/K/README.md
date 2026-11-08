@@ -1777,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemopop! | 309863 | [309863-kemopop.json](./309863-kemopop.json) |
 | Kemotaku | 325527 | [325527-kemotaku.json](./325527-kemotaku.json) |
 | Kemoverse Online | 287992 | [287992-kemoverse-online.json](./287992-kemoverse-online.json) |
+| Kempelen Chess | 93120 | [93120-kempelen-chess.json](./93120-kempelen-chess.json) |
 | Kemps | 258792 | [258792-kemps.json](./258792-kemps.json) |
 | Kemuri | 279625 | [279625-kemuri.json](./279625-kemuri.json) |
 | Ken Follett's The Pillars of the Earth | 19297 | [19297-ken-folletts-the-pillars-of-the-earth.json](./19297-ken-folletts-the-pillars-of-the-earth.json) |
@@ -1840,6 +1841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kenneth Rice: Vampire Detective | 325222 | [325222-kenneth-rice-vampire-detective.json](./325222-kenneth-rice-vampire-detective.json) |
 | Kenney's Zombies | 184224 | [184224-kenneys-zombies.json](./184224-kenneys-zombies.json) |
 | Kenny 7 | 253310 | [253310-kenny-7.json](./253310-kenny-7.json) |
+| Kenny Dalglish Soccer Manager | 93085 | [93085-kenny-dalglish-soccer-manager.json](./93085-kenny-dalglish-soccer-manager.json) |
 | Kenny Dalglish Soccer Match | 69685 | [69685-kenny-dalglish-soccer-match.json](./69685-kenny-dalglish-soccer-match.json) |
 | Kenny vs. Spenny: Best Friends/Worst Enemies | 303697 | [303697-kenny-vs-spenny-best-friends-worst-enemies.json](./303697-kenny-vs-spenny-best-friends-worst-enemies.json) |
 | Kenny vs. Spenny: The Handheld Game | 395002 | [395002-kenny-vs-spenny-the-handheld-game.json](./395002-kenny-vs-spenny-the-handheld-game.json) |
