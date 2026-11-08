@@ -973,6 +973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5724,6 +5725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Warrior Hibiki's Captive Violation Days | 82828 | [82828-beautiful-warrior-hibikis-captive-violation-days.json](./82828-beautiful-warrior-hibikis-captive-violation-days.json) |
 | Beautiful World | 133624 | [133624-beautiful-world.json](./133624-beautiful-world.json) |
 | Beautify Day | 117606 | [117606-beautify-day.json](./117606-beautify-day.json) |
+| Beauty | 137792 | [137792-beauty.json](./137792-beauty.json) |
 | Beauty Academy | 84781 | [84781-beauty-academy.json](./84781-beauty-academy.json) |
 | Beauty Agent | 160123 | [160123-beauty-agent.json](./160123-beauty-agent.json) |
 | Beauty and the Beast | 105383 | [105383-beauty-and-the-beast.json](./105383-beauty-and-the-beast.json) |
@@ -8619,6 +8621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birzzle | 341849 | [341849-birzzle.json](./341849-birzzle.json) |
 | Biscats | 259445 | [259445-biscats.json](./259445-biscats.json) |
 | Biscuit Mafia | 364537 | [364537-biscuit-mafia.json](./364537-biscuit-mafia.json) |
+| Biscuitts | 137793 | [137793-biscuitts.json](./137793-biscuitts.json) |
 | Biscuitts 2 | 156814 | [156814-biscuitts-2.json](./156814-biscuitts-2.json) |
 | Biscuitts 4 | 147364 | [147364-biscuitts-4.json](./147364-biscuitts-4.json) |
 | Biscuitts 5 | 247606 | [247606-biscuitts-5.json](./247606-biscuitts-5.json) |
@@ -12719,6 +12722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Hehhe | 46363 | [46363-bomber-hehhe.json](./46363-bomber-hehhe.json) |
 | Bomber Hero | 101192 | [101192-bomber-hero.json](./101192-bomber-hero.json) |
 | Bomber Hero | 357743 | [357743-bomber-hero.json](./357743-bomber-hero.json) |
+| Bomber League | 137777 | [137777-bomber-league.json](./137777-bomber-league.json) |
 | Bomber Man 2002 | 287648 | [287648-bomber-man-2002.json](./287648-bomber-man-2002.json) |
 | Bomber Man Special | 41799 | [41799-bomber-man-special.json](./41799-bomber-man-special.json) |
 | Bomber Panda | 198165 | [198165-bomber-panda.json](./198165-bomber-panda.json) |
@@ -14829,6 +14833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrasFoot 2007 | 330851 | [330851-brasfoot-2007.json](./330851-brasfoot-2007.json) |
 | BrasFoot 2008 | 330852 | [330852-brasfoot-2008.json](./330852-brasfoot-2008.json) |
 | BrasFoot 2009 | 330853 | [330853-brasfoot-2009.json](./330853-brasfoot-2009.json) |
+| Brasfoot 2020 | 137776 | [137776-brasfoot-2020.json](./137776-brasfoot-2020.json) |
 | Brasfoot 2021 | 144713 | [144713-brasfoot-2021.json](./144713-brasfoot-2021.json) |
 | Brash Monster Simulator | 157419 | [157419-brash-monster-simulator.json](./157419-brash-monster-simulator.json) |
 | Brasil Fusion | 273993 | [273993-brasil-fusion.json](./273993-brasil-fusion.json) |
@@ -15389,6 +15394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaking Up Is Hard To Do | 389660 | [389660-breaking-up-is-hard-to-do.json](./389660-breaking-up-is-hard-to-do.json) |
 | Breaking Wheel | 30857 | [30857-breaking-wheel.json](./30857-breaking-wheel.json) |
 | BreakingPoint | 395095 | [395095-breakingpoint.json](./395095-breakingpoint.json) |
+| Breakless | 137744 | [137744-breakless.json](./137744-breakless.json) |
 | Breakline | 147279 | [147279-breakline.json](./147279-breakline.json) |
 | BreakLoop | 383953 | [383953-breakloop.json](./383953-breakloop.json) |
 | Breakneck | 33751 | [33751-breakneck.json](./33751-breakneck.json) |
