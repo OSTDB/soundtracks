@@ -1422,6 +1422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Party 3 | 76982 | [76982-game-party-3.json](./76982-game-party-3.json) |
 | Game Party: In Motion | 2659 | [2659-game-party-in-motion.json](./2659-game-party-in-motion.json) |
 | Game Quest: The Backlog Battler | 346715 | [346715-game-quest-the-backlog-battler.json](./346715-game-quest-the-backlog-battler.json) |
+| Game Quotes: The Game | 110457 | [110457-game-quotes-the-game.json](./110457-game-quotes-the-game.json) |
 | Game Room | 131080 | [131080-game-room.json](./131080-game-room.json) |
 | Game Room | 328212 | [328212-game-room.json](./328212-game-room.json) |
 | Game Room | 360634 | [360634-game-room.json](./360634-game-room.json) |
@@ -3480,6 +3481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gerrymandering: Red vs Blue | 27865 | [27865-gerrymandering-red-vs-blue.json](./27865-gerrymandering-red-vs-blue.json) |
 | Gertie Goose | 319151 | [319151-gertie-goose.json](./319151-gertie-goose.json) |
 | Gertrude's Secrets | 73521 | [73521-gertrudes-secrets.json](./73521-gertrudes-secrets.json) |
+| Gerty | 110587 | [110587-gerty.json](./110587-gerty.json) |
 | Gerty: Robots In Love | 31638 | [31638-gerty-robots-in-love.json](./31638-gerty-robots-in-love.json) |
 | Gerztron | 78350 | [78350-gerztron.json](./78350-gerztron.json) |
 | Gespalten | 2339 | [2339-gespalten.json](./2339-gespalten.json) |
