@@ -3497,6 +3497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | En Route 66 | 221216 | [221216-en-route-66.json](./221216-en-route-66.json) |
 | En Svensk Tiger | 179469 | [179469-en-svensk-tiger.json](./179469-en-svensk-tiger.json) |
 | En Tactico | 96631 | [96631-en-tactico.json](./96631-en-tactico.json) |
+| En-Eins Perfektewelt | 81612 | [81612-en-eins-perfektewelt.json](./81612-en-eins-perfektewelt.json) |
 | En-Fem-E No. 9: Reborn | 195780 | [195780-en-fem-e-no-9-reborn.json](./195780-en-fem-e-no-9-reborn.json) |
 | En-Fem-E No. 9: The Factory | 288226 | [288226-en-fem-e-no-9-the-factory.json](./288226-en-fem-e-no-9-the-factory.json) |
 | En-thirer pp-slimes adventures | 101226 | [101226-en-thirer-pp-slimes-adventures.json](./101226-en-thirer-pp-slimes-adventures.json) |
@@ -7203,6 +7204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everyday House Tamagotchi | 222427 | [222427-everyday-house-tamagotchi.json](./222427-everyday-house-tamagotchi.json) |
 | Everyday Jigsaw | 87088 | [87088-everyday-jigsaw.json](./87088-everyday-jigsaw.json) |
 | Everyday Life Fragments | 344535 | [344535-everyday-life-fragments.json](./344535-everyday-life-fragments.json) |
+| Everyday Lite | 81603 | [81603-everyday-lite.json](./81603-everyday-lite.json) |
 | Everyday Misanthrope | 176316 | [176316-everyday-misanthrope.json](./176316-everyday-misanthrope.json) |
 | Everyday Puzzles | 247087 | [247087-everyday-puzzles.json](./247087-everyday-puzzles.json) |
 | Everyday Shooter | 14911 | [14911-everyday-shooter.json](./14911-everyday-shooter.json) |
