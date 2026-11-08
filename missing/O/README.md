@@ -569,6 +569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | October Nightmares | 272341 | [272341-october-nightmares.json](./272341-october-nightmares.json) |
 | October Ordeal | 318511 | [318511-october-ordeal.json](./318511-october-ordeal.json) |
 | October Panic | 319283 | [319283-october-panic.json](./319283-october-panic.json) |
+| Octocopter: Double or Squids | 96173 | [96173-octocopter-double-or-squids.json](./96173-octocopter-double-or-squids.json) |
 | Octocopter: Super Sub Squid Escape | 85317 | [85317-octocopter-super-sub-squid-escape.json](./85317-octocopter-super-sub-squid-escape.json) |
 | OctoCraps | 365169 | [365169-octocraps.json](./365169-octocraps.json) |
 | Octodad | 8110 | [8110-octodad.json](./8110-octodad.json) |
@@ -4567,6 +4568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Osmathus Falling | 399430 | [399430-osmathus-falling.json](./399430-osmathus-falling.json) |
 | Osminog Adventures: The Lost Island | 222909 | [222909-osminog-adventures-the-lost-island.json](./222909-osminog-adventures-the-lost-island.json) |
 | Osmium | 60275 | [60275-osmium.json](./60275-osmium.json) |
+| Osmo Coding Awbie | 96181 | [96181-osmo-coding-awbie.json](./96181-osmo-coding-awbie.json) |
 | Osmo Coding Jam | 100164 | [100164-osmo-coding-jam.json](./100164-osmo-coding-jam.json) |
 | Osmo Monster | 104667 | [104667-osmo-monster.json](./104667-osmo-monster.json) |
 | Osmo Newton | 95652 | [95652-osmo-newton.json](./95652-osmo-newton.json) |
