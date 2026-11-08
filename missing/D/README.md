@@ -3635,6 +3635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead City: Red Protocol | 421333 | [421333-dead-city-red-protocol.json](./421333-dead-city-red-protocol.json) |
 | Dead City: Sci-Fi Pack | 254051 | [254051-dead-city-sci-fi-pack.json](./254051-dead-city-sci-fi-pack.json) |
 | Dead City: Street Fighter Pack | 254382 | [254382-dead-city-street-fighter-pack.json](./254382-dead-city-street-fighter-pack.json) |
+| Dead Climb | 90160 | [90160-dead-climb.json](./90160-dead-climb.json) |
 | Dead Containment | 133061 | [133061-dead-containment.json](./133061-dead-containment.json) |
 | Dead County | 126141 | [126141-dead-county.json](./126141-dead-county.json) |
 | Dead Covid-19 in space | 150525 | [150525-dead-covid-19-in-space.json](./150525-dead-covid-19-in-space.json) |
