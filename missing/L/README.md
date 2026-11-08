@@ -642,6 +642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lambo Speed: Drift X | 104515 | [104515-lambo-speed-drift-x.json](./104515-lambo-speed-drift-x.json) |
 | Lamborghini | 201970 | [201970-lamborghini.json](./201970-lamborghini.json) |
 | Lamborghini: American Challenge | 380116 | [380116-lamborghini-american-challenge.json](./380116-lamborghini-american-challenge.json) |
+| Lambs on the Road | 111924 | [111924-lambs-on-the-road.json](./111924-lambs-on-the-road.json) |
 | Lambs on the Road: The Beginning | 152352 | [152352-lambs-on-the-road-the-beginning.json](./152352-lambs-on-the-road-the-beginning.json) |
 | Lame Defenders | 159493 | [159493-lame-defenders.json](./159493-lame-defenders.json) |
 | Lamecraft | 254333 | [254333-lamecraft.json](./254333-lamecraft.json) |
