@@ -3737,6 +3737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead in Time | 103453 | [103453-dead-in-time.json](./103453-dead-in-time.json) |
 | Dead In Vinland | 54820 | [54820-dead-in-vinland.json](./54820-dead-in-vinland.json) |
 | Dead in Vinland: Endless Mode - Battle of the Heodenings | 155312 | [155312-dead-in-vinland-endless-mode-battle-of-the-heodenings.json](./155312-dead-in-vinland-endless-mode-battle-of-the-heodenings.json) |
+| Dead In Vinland: Norse Side Stories | 124922 | [124922-dead-in-vinland-norse-side-stories.json](./124922-dead-in-vinland-norse-side-stories.json) |
 | Dead In Vinland: The Battle of the Heodenings | 114430 | [114430-dead-in-vinland-the-battle-of-the-heodenings.json](./114430-dead-in-vinland-the-battle-of-the-heodenings.json) |
 | Dead In Vinland: The Vallhund | 114431 | [114431-dead-in-vinland-the-vallhund.json](./114431-dead-in-vinland-the-vallhund.json) |
 | Dead in Vinland: True Viking Edition | 122905 | [122905-dead-in-vinland-true-viking-edition.json](./122905-dead-in-vinland-true-viking-edition.json) |
@@ -7487,6 +7488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desktop Dodgeball | 124983 | [124983-desktop-dodgeball.json](./124983-desktop-dodgeball.json) |
 | Desktop Dodgeball 2 | 317224 | [317224-desktop-dodgeball-2.json](./317224-desktop-dodgeball-2.json) |
 | Desktop Driller | 410454 | [410454-desktop-driller.json](./410454-desktop-driller.json) |
+| Desktop Dungeons Goatperson | 124916 | [124916-desktop-dungeons-goatperson.json](./124916-desktop-dungeons-goatperson.json) |
 | Desktop Dungeons: Enhanced Edition | 51752 | [51752-desktop-dungeons-enhanced-edition.json](./51752-desktop-dungeons-enhanced-edition.json) |
 | Desktop Dungeons: Rewind | 213510 | [213510-desktop-dungeons-rewind.json](./213510-desktop-dungeons-rewind.json) |
 | Desktop Dynasties | 111519 | [111519-desktop-dynasties.json](./111519-desktop-dynasties.json) |
@@ -14695,6 +14697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula in London | 71727 | [71727-dracula-in-london.json](./71727-dracula-in-london.json) |
 | Dracula Is Coming | 190447 | [190447-dracula-is-coming.json](./190447-dracula-is-coming.json) |
 | Dracula Solitaire | 386152 | [386152-dracula-solitaire.json](./386152-dracula-solitaire.json) |
+| Dracula Trilogy | 124940 | [124940-dracula-trilogy.json](./124940-dracula-trilogy.json) |
 | Dracula Twins | 19594 | [19594-dracula-twins.json](./19594-dracula-twins.json) |
 | Dracula Unleashed | 5376 | [5376-dracula-unleashed.json](./5376-dracula-unleashed.json) |
 | Dracula vs. Monsters | 298584 | [298584-dracula-vs-monsters.json](./298584-dracula-vs-monsters.json) |
@@ -17155,6 +17158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DRL | 79379 | [79379-drl.json](./79379-drl.json) |
 | DRM: Death Ray Manta | 22197 | [22197-drm-death-ray-manta.json](./22197-drm-death-ray-manta.json) |
 | Drmwrldgrl | 277660 | [277660-drmwrldgrl.json](./277660-drmwrldgrl.json) |
+| Drod 1+2+3 | 124914 | [124914-drod-1-2-3.json](./124914-drod-1-2-3.json) |
 | DROD 4: Gunthro and the Epic Blunder | 8870 | [8870-drod-4-gunthro-and-the-epic-blunder.json](./8870-drod-4-gunthro-and-the-epic-blunder.json) |
 | Drod RPG 2 | 363048 | [363048-drod-rpg-2.json](./363048-drod-rpg-2.json) |
 | DROD RPG: Tendry's Tale | 8991 | [8991-drod-rpg-tendrys-tale.json](./8991-drod-rpg-tendrys-tale.json) |
@@ -18242,6 +18246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dune: Imperium - Immortality | 407850 | [407850-dune-imperium-immortality.json](./407850-dune-imperium-immortality.json) |
 | Dune: Imperium - Rise of Ix | 336856 | [336856-dune-imperium-rise-of-ix.json](./336856-dune-imperium-rise-of-ix.json) |
 | Dune: Imperium - Uprising | 407856 | [407856-dune-imperium-uprising.json](./407856-dune-imperium-uprising.json) |
+| Dune: Keep the Secret | 124912 | [124912-dune-keep-the-secret.json](./124912-dune-keep-the-secret.json) |
 | Dune: Ornithopter Assault | 150594 | [150594-dune-ornithopter-assault.json](./150594-dune-ornithopter-assault.json) |
 | Dune: Spice Wars | 185253 | [185253-dune-spice-wars.json](./185253-dune-spice-wars.json) |
 | Dune: Spice Wars - House Vernius of Ix | 289840 | [289840-dune-spice-wars-house-vernius-of-ix.json](./289840-dune-spice-wars-house-vernius-of-ix.json) |
@@ -19013,6 +19018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons 3 | 27353 | [27353-dungeons-3.json](./27353-dungeons-3.json) |
 | Dungeons 3: A Multitude of Maps | 138060 | [138060-dungeons-3-a-multitude-of-maps.json](./138060-dungeons-3-a-multitude-of-maps.json) |
 | Dungeons 3: An Unexpected DLC | 115420 | [115420-dungeons-3-an-unexpected-dlc.json](./115420-dungeons-3-an-unexpected-dlc.json) |
+| Dungeons 3: Clash of Gods | 124908 | [124908-dungeons-3-clash-of-gods.json](./124908-dungeons-3-clash-of-gods.json) |
 | Dungeons 3: Complete Collection | 136320 | [136320-dungeons-3-complete-collection.json](./136320-dungeons-3-complete-collection.json) |
 | Dungeons 3: DLC Bundle | 227416 | [227416-dungeons-3-dlc-bundle.json](./227416-dungeons-3-dlc-bundle.json) |
 | Dungeons 3: Evil of the Caribbean | 124825 | [124825-dungeons-3-evil-of-the-caribbean.json](./124825-dungeons-3-evil-of-the-caribbean.json) |
@@ -19261,6 +19267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusk Shrouded | 295491 | [295491-dusk-shrouded.json](./295491-dusk-shrouded.json) |
 | Dusk Tactics | 130638 | [130638-dusk-tactics.json](./130638-dusk-tactics.json) |
 | Dusk Warlocks | 128200 | [128200-dusk-warlocks.json](./128200-dusk-warlocks.json) |
+| Dusk: Intruder Edition | 124950 | [124950-dusk-intruder-edition.json](./124950-dusk-intruder-edition.json) |
 | Duskborn | 265095 | [265095-duskborn.json](./265095-duskborn.json) |
 | Duskbound | 258197 | [258197-duskbound.json](./258197-duskbound.json) |
 | DuskBreakers | 194239 | [194239-duskbreakers.json](./194239-duskbreakers.json) |
