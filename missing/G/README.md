@@ -1444,6 +1444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Store Simulator | 346695 | [346695-game-store-simulator.json](./346695-game-store-simulator.json) |
 | Game Studies | 311959 | [311959-game-studies.json](./311959-game-studies.json) |
 | Game Studio Simulator | 115594 | [115594-game-studio-simulator.json](./115594-game-studio-simulator.json) |
+| Game Studio Tycoon 2: Next Gen Developer | 103621 | [103621-game-studio-tycoon-2-next-gen-developer.json](./103621-game-studio-tycoon-2-next-gen-developer.json) |
 | Game Studio Tycoon 3 | 102628 | [102628-game-studio-tycoon-3.json](./102628-game-studio-tycoon-3.json) |
 | Game Tech Simulator | 359153 | [359153-game-tech-simulator.json](./359153-game-tech-simulator.json) |
 | Game Tengoku CruisinMix Special: Clarice | 155341 | [155341-game-tengoku-cruisinmix-special-clarice.json](./155341-game-tengoku-cruisinmix-special-clarice.json) |
@@ -10477,6 +10478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of the Ashes | 127753 | [127753-guardians-of-the-ashes.json](./127753-guardians-of-the-ashes.json) |
 | Guardians of the Forest | 60367 | [60367-guardians-of-the-forest.json](./60367-guardians-of-the-forest.json) |
 | Guardians of the Galaxy Pinball | 83706 | [83706-guardians-of-the-galaxy-pinball.json](./83706-guardians-of-the-galaxy-pinball.json) |
+| Guardians of the Past | 103603 | [103603-guardians-of-the-past.json](./103603-guardians-of-the-past.json) |
 | Guardians of the Rose | 110195 | [110195-guardians-of-the-rose.json](./110195-guardians-of-the-rose.json) |
 | Guardians of the Sanctree | 318201 | [318201-guardians-of-the-sanctree.json](./318201-guardians-of-the-sanctree.json) |
 | Guardians of the Wall | 396884 | [396884-guardians-of-the-wall.json](./396884-guardians-of-the-wall.json) |
