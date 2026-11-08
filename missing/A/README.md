@@ -13819,6 +13819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aria The Origination: Aoi Hoshi no Il Cielo - Motto Dekkai Tsumeawase | 394584 | [394584-aria-the-origination-aoi-hoshi-no-il-cielo-motto-dekkai-tsumeawase.json](./394584-aria-the-origination-aoi-hoshi-no-il-cielo-motto-dekkai-tsumeawase.json) |
 | ARIA: Angelic Realms In Arborea | 255552 | [255552-aria-angelic-realms-in-arborea.json](./255552-aria-angelic-realms-in-arborea.json) |
 | Aria: Aqua Ritmo | 56291 | [56291-aria-aqua-ritmo.json](./56291-aria-aqua-ritmo.json) |
+| Aria: Dragon Eater | 137230 | [137230-aria-dragon-eater.json](./137230-aria-dragon-eater.json) |
 | Aria: Genesis | 234530 | [234530-aria-genesis.json](./234530-aria-genesis.json) |
 | ARia's Legacy | 102795 | [102795-arias-legacy.json](./102795-arias-legacy.json) |
 | Aria's Melody | 210967 | [210967-arias-melody.json](./210967-arias-melody.json) |
@@ -14321,6 +14322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armorines: Project S.W.A.R.M. | 3439 | [3439-armorines-project-s-w-a-r-m.json](./3439-armorines-project-s-w-a-r-m.json) |
 | Armortale | 121572 | [121572-armortale.json](./121572-armortale.json) |
 | Armory & Machine | 137363 | [137363-armory-and-machine.json](./137363-armory-and-machine.json) |
+| Armory & Machine 2 | 137226 | [137226-armory-and-machine-2.json](./137226-armory-and-machine-2.json) |
 | Armory Keeper | 414714 | [414714-armory-keeper.json](./414714-armory-keeper.json) |
 | Armory League | 105278 | [105278-armory-league.json](./105278-armory-league.json) |
 | Armory Simulator | 400663 | [400663-armory-simulator.json](./400663-armory-simulator.json) |
