@@ -2759,6 +2759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unreal II: The Awakening - Special Edition | 46625 | [46625-unreal-ii-the-awakening-special-edition.json](./46625-unreal-ii-the-awakening-special-edition.json) |
 | Unreal Island | 294971 | [294971-unreal-island.json](./294971-unreal-island.json) |
 | Unreal Land | 62220 | [62220-unreal-land.json](./62220-unreal-land.json) |
+| Unreal Life | 119168 | [119168-unreal-life.json](./119168-unreal-life.json) |
 | Unreal Lust Theory | 264533 | [264533-unreal-lust-theory.json](./264533-unreal-lust-theory.json) |
 | Unreal Mashup | 275985 | [275985-unreal-mashup.json](./275985-unreal-mashup.json) |
 | Unreal Match 3 | 308364 | [308364-unreal-match-3.json](./308364-unreal-match-3.json) |
