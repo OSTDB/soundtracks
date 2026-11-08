@@ -748,6 +748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radirgy Noa | 254475 | [254475-radirgy-noa.json](./254475-radirgy-noa.json) |
 | Radirgy Noa Massive | 7152 | [7152-radirgy-noa-massive.json](./7152-radirgy-noa-massive.json) |
 | Radirgy Noa Wii | 254476 | [254476-radirgy-noa-wii.json](./254476-radirgy-noa-wii.json) |
+| Radirgy Swag | 106789 | [106789-radirgy-swag.json](./106789-radirgy-swag.json) |
 | Radish | 122180 | [122180-radish.json](./122180-radish.json) |
 | Radish Field | 277699 | [277699-radish-field.json](./277699-radish-field.json) |
 | Radish Kid Ascension | 180824 | [180824-radish-kid-ascension.json](./180824-radish-kid-ascension.json) |
@@ -2824,6 +2825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reader Rabbit 2nd Grade | 89085 | [89085-reader-rabbit-2nd-grade.json](./89085-reader-rabbit-2nd-grade.json) |
 | Reader Rabbit 2nd Grade: Mis-Cheese-ious Dreamship Adventures! | 209307 | [209307-reader-rabbit-2nd-grade-mis-cheese-ious-dreamship-adventures.json](./209307-reader-rabbit-2nd-grade-mis-cheese-ious-dreamship-adventures.json) |
 | Reader Rabbit 3 | 80272 | [80272-reader-rabbit-3.json](./80272-reader-rabbit-3.json) |
+| Reader Rabbit Kart Racing | 106797 | [106797-reader-rabbit-kart-racing.json](./106797-reader-rabbit-kart-racing.json) |
 | Reader Rabbit Kindergarten | 301429 | [301429-reader-rabbit-kindergarten.json](./301429-reader-rabbit-kindergarten.json) |
 | Reader Rabbit Kindergarten: Bounce Down in Balloon Town | 139350 | [139350-reader-rabbit-kindergarten-bounce-down-in-balloon-town.json](./139350-reader-rabbit-kindergarten-bounce-down-in-balloon-town.json) |
 | Reader Rabbit Math Adventures Ages 4-6 | 313291 | [313291-reader-rabbit-math-adventures-ages-4-6.json](./313291-reader-rabbit-math-adventures-ages-4-6.json) |
