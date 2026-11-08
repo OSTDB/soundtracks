@@ -1869,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballz Drop | 105795 | [105795-ballz-drop.json](./105795-ballz-drop.json) |
 | BallZ DX | 316189 | [316189-ballz-dx.json](./316189-ballz-dx.json) |
 | Ballz Royale | 109355 | [109355-ballz-royale.json](./109355-ballz-royale.json) |
+| Ballz Rush | 88373 | [88373-ballz-rush.json](./88373-ballz-rush.json) |
 | Ballz: Farm | 81063 | [81063-ballz-farm.json](./81063-ballz-farm.json) |
 | Ballz: The Director's Cut | 12303 | [12303-ballz-the-directors-cut.json](./12303-ballz-the-directors-cut.json) |
 | BallzOut | 147941 | [147941-ballzout.json](./147941-ballzout.json) |
@@ -8171,6 +8172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bind Her | 128870 | [128870-bind-her.json](./128870-bind-her.json) |
 | Bind More | 27368 | [27368-bind-more.json](./27368-bind-more.json) |
 | Bind: Brain teaser puzzle game | 88292 | [88292-bind-brain-teaser-puzzle-game.json](./88292-bind-brain-teaser-puzzle-game.json) |
+| Bind+ Brain teaser puzzle game | 88396 | [88396-bind-brain-teaser-puzzle-game.json](./88396-bind-brain-teaser-puzzle-game.json) |
 | Binding of Elements | 249227 | [249227-binding-of-elements.json](./249227-binding-of-elements.json) |
 | Binding of Isaac Bundle | 341547 | [341547-binding-of-isaac-bundle.json](./341547-binding-of-isaac-bundle.json) |
 | Binding Tower | 271785 | [271785-binding-tower.json](./271785-binding-tower.json) |
@@ -11561,6 +11563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodwych | 2434 | [2434-bloodwych.json](./2434-bloodwych.json) |
 | Bloodwych: Data Disks Vol. 1 | 57618 | [57618-bloodwych-data-disks-vol-1.json](./57618-bloodwych-data-disks-vol-1.json) |
 | Bloody Alice Defense | 61997 | [61997-bloody-alice-defense.json](./61997-bloody-alice-defense.json) |
+| Bloody and Cruel Story of Toys | 88335 | [88335-bloody-and-cruel-story-of-toys.json](./88335-bloody-and-cruel-story-of-toys.json) |
 | Bloody Aria | 322000 | [322000-bloody-aria.json](./322000-bloody-aria.json) |
 | Bloody Bar Simulator | 326475 | [326475-bloody-bar-simulator.json](./326475-bloody-bar-simulator.json) |
 | Bloody Barrage | 180419 | [180419-bloody-barrage.json](./180419-bloody-barrage.json) |
