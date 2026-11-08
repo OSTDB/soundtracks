@@ -2896,6 +2896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Designer | 128988 | [128988-fashion-designer.json](./128988-fashion-designer.json) |
 | Fashion Designer: High Fashion | 69106 | [69106-fashion-designer-high-fashion.json](./69106-fashion-designer-high-fashion.json) |
 | Fashion Diva Dress Up - Fashionista World | 103904 | [103904-fashion-diva-dress-up-fashionista-world.json](./103904-fashion-diva-dress-up-fashionista-world.json) |
+| Fashion Doodle | 106706 | [106706-fashion-doodle.json](./106706-fashion-doodle.json) |
 | Fashion Dream | 188115 | [188115-fashion-dream.json](./188115-fashion-dream.json) |
 | Fashion Dreamer | 236659 | [236659-fashion-dreamer.json](./236659-fashion-dreamer.json) |
 | Fashion Forward | 294226 | [294226-fashion-forward.json](./294226-fashion-forward.json) |
@@ -5750,6 +5751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finger Dancing | 246331 | [246331-finger-dancing.json](./246331-finger-dancing.json) |
 | Finger Dash | 253264 | [253264-finger-dash.json](./253264-finger-dash.json) |
 | Finger Derpy | 60418 | [60418-finger-derpy.json](./60418-finger-derpy.json) |
+| Finger Drift - Racing Game | 106714 | [106714-finger-drift-racing-game.json](./106714-finger-drift-racing-game.json) |
 | Finger Driver | 87049 | [87049-finger-driver.json](./87049-finger-driver.json) |
 | Finger Fitness | 187217 | [187217-finger-fitness.json](./187217-finger-fitness.json) |
 | Finger Flashing | 69870 | [69870-finger-flashing.json](./69870-finger-flashing.json) |
@@ -9684,6 +9686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | For the Birds VI | 283796 | [283796-for-the-birds-vi.json](./283796-for-the-birds-vi.json) |
 | For The Cat! Sorcerer's Revenge | 404012 | [404012-for-the-cat-sorcerers-revenge.json](./404012-for-the-cat-sorcerers-revenge.json) |
 | For the Crown | 226007 | [226007-for-the-crown.json](./226007-for-the-crown.json) |
+| For the Culture | 106721 | [106721-for-the-culture.json](./106721-for-the-culture.json) |
 | For The Fatherland | 408123 | [408123-for-the-fatherland.json](./408123-for-the-fatherland.json) |
 | For the Fish in the Bottle | 402919 | [402919-for-the-fish-in-the-bottle.json](./402919-for-the-fish-in-the-bottle.json) |
 | For the Forge | 348403 | [348403-for-the-forge.json](./348403-for-the-forge.json) |
@@ -11111,6 +11114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Mini Kingdoms War | 340240 | [340240-four-mini-kingdoms-war.json](./340240-four-mini-kingdoms-war.json) |
 | Four Nights at Omori | 255560 | [255560-four-nights-at-omori.json](./255560-four-nights-at-omori.json) |
 | Four of a Kind: A Short Horror Anthology | 395831 | [395831-four-of-a-kind-a-short-horror-anthology.json](./395831-four-of-a-kind-a-short-horror-anthology.json) |
+| Four Plus | 106782 | [106782-four-plus.json](./106782-four-plus.json) |
 | Four Realms | 19568 | [19568-four-realms.json](./19568-four-realms.json) |
 | Four Rendezvous | 132474 | [132474-four-rendezvous.json](./132474-four-rendezvous.json) |
 | Four Seals | 117469 | [117469-four-seals.json](./117469-four-seals.json) |
@@ -12334,6 +12338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frigate | 250923 | [250923-frigate.json](./250923-frigate.json) |
 | Frigato: Shadows of the Caribbean | 204842 | [204842-frigato-shadows-of-the-caribbean.json](./204842-frigato-shadows-of-the-caribbean.json) |
 | Fright Animatronics | 391129 | [391129-fright-animatronics.json](./391129-fright-animatronics.json) |
+| Fright Chasers: Dark Exposure | 106704 | [106704-fright-chasers-dark-exposure.json](./106704-fright-chasers-dark-exposure.json) |
 | Fright Chasers: Director's Cut | 312212 | [312212-fright-chasers-directors-cut.json](./312212-fright-chasers-directors-cut.json) |
 | Fright Chasers: Director's Cut - Collector's Edition | 355603 | [355603-fright-chasers-directors-cut-collectors-edition.json](./355603-fright-chasers-directors-cut-collectors-edition.json) |
 | Fright Chasers: Soul Reaper | 312213 | [312213-fright-chasers-soul-reaper.json](./312213-fright-chasers-soul-reaper.json) |
@@ -13880,6 +13885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furidashi: Drift Cyber Sport | 74669 | [74669-furidashi-drift-cyber-sport.json](./74669-furidashi-drift-cyber-sport.json) |
 | Furidashi: Drift Cyber Sport - Premium Cars Pack 1 | 227071 | [227071-furidashi-drift-cyber-sport-premium-cars-pack-1.json](./227071-furidashi-drift-cyber-sport-premium-cars-pack-1.json) |
 | Furidashi: Drift Cyber Sport - Premium Cars Pack 2 | 227070 | [227070-furidashi-drift-cyber-sport-premium-cars-pack-2.json](./227070-furidashi-drift-cyber-sport-premium-cars-pack-2.json) |
+| Furiends | 106691 | [106691-furiends.json](./106691-furiends.json) |
 | Furies & Magazines: Episode 1 | 243563 | [243563-furies-and-magazines-episode-1.json](./243563-furies-and-magazines-episode-1.json) |
 | Furies: Last Escape | 181491 | [181491-furies-last-escape.json](./181491-furies-last-escape.json) |
 | Furikake Spacey | 216461 | [216461-furikake-spacey.json](./216461-furikake-spacey.json) |
@@ -14415,6 +14421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuzzy Flip | 234492 | [234492-fuzzy-flip.json](./234492-fuzzy-flip.json) |
 | Fuzzy McFluffenstein | 337205 | [337205-fuzzy-mcfluffenstein.json](./337205-fuzzy-mcfluffenstein.json) |
 | Fuzzy Road Home | 177878 | [177878-fuzzy-road-home.json](./177878-fuzzy-road-home.json) |
+| Fuzzy Seasons: Animal Forest (Start Pack Edition) | 106717 | [106717-fuzzy-seasons-animal-forest-start-pack-edition.json](./106717-fuzzy-seasons-animal-forest-start-pack-edition.json) |
 | Fuzzy World Cup Qatar 2022 | 312349 | [312349-fuzzy-world-cup-qatar-2022.json](./312349-fuzzy-world-cup-qatar-2022.json) |
 | Fuzzy's Cosmic Space Golf | 262108 | [262108-fuzzys-cosmic-space-golf.json](./262108-fuzzys-cosmic-space-golf.json) |
 | Fuzzy's Quest | 127658 | [127658-fuzzys-quest.json](./127658-fuzzys-quest.json) |
