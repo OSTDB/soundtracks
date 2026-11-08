@@ -11729,6 +11729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Rampage | 370127 | [370127-royal-rampage.json](./370127-royal-rampage.json) |
 | Royal Randomizer | 342162 | [342162-royal-randomizer.json](./342162-royal-randomizer.json) |
 | Royal Rescue | 133201 | [133201-royal-rescue.json](./133201-royal-rescue.json) |
+| Royal Rescue SRPG | 137786 | [137786-royal-rescue-srpg.json](./137786-royal-rescue-srpg.json) |
 | Royal Revolt Survivors | 309810 | [309810-royal-revolt-survivors.json](./309810-royal-revolt-survivors.json) |
 | Royal Revolt! | 336181 | [336181-royal-revolt.json](./336181-royal-revolt.json) |
 | Royal Riders | 190943 | [190943-royal-riders.json](./190943-royal-riders.json) |
@@ -11904,6 +11905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RS Boxing Champions | 233162 | [233162-rs-boxing-champions.json](./233162-rs-boxing-champions.json) |
 | RS3: Racing Simulation Three | 73359 | [73359-rs3-racing-simulation-three.json](./73359-rs3-racing-simulation-three.json) |
 | RSDKv4 Decompilation | 202233 | [202233-rsdkv4-decompilation.json](./202233-rsdkv4-decompilation.json) |
+| RSII: Riding Spirits 2 | 137790 | [137790-rsii-riding-spirits-2.json](./137790-rsii-riding-spirits-2.json) |
 | RSSU: Retro Style Soviet Undies | 298065 | [298065-rssu-retro-style-soviet-undies.json](./298065-rssu-retro-style-soviet-undies.json) |
 | RSVP | 410501 | [410501-rsvp.json](./410501-rsvp.json) |
 | RSweeps | 107081 | [107081-rsweeps.json](./107081-rsweeps.json) |
