@@ -8723,6 +8723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diaspora | 191125 | [191125-diaspora.json](./191125-diaspora.json) |
 | Diaspora: Mass Exodus | 102283 | [102283-diaspora-mass-exodus.json](./102283-diaspora-mass-exodus.json) |
 | Diaspora: Shattered Armistice | 50396 | [50396-diaspora-shattered-armistice.json](./50396-diaspora-shattered-armistice.json) |
+| Diastone: Confusion | 120475 | [120475-diastone-confusion.json](./120475-diastone-confusion.json) |
 | Diastone: Memories | 112828 | [112828-diastone-memories.json](./112828-diastone-memories.json) |
 | Diatomic | 301531 | [301531-diatomic.json](./301531-diatomic.json) |
 | Diatomic | 51119 | [51119-diatomic.json](./51119-diatomic.json) |
@@ -12693,6 +12694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Escape 3 | 123699 | [123699-dont-escape-3.json](./123699-dont-escape-3.json) |
 | Don't Escape Trilogy | 120558 | [120558-dont-escape-trilogy.json](./120558-dont-escape-trilogy.json) |
 | Don't Escape: 4 Days to Survive | 55812 | [55812-dont-escape-4-days-to-survive.json](./55812-dont-escape-4-days-to-survive.json) |
+| Don't Even Think | 120488 | [120488-dont-even-think.json](./120488-dont-even-think.json) |
 | Don't Exist | 295547 | [295547-dont-exist.json](./295547-dont-exist.json) |
 | Don't Explode | 68470 | [68470-dont-explode.json](./68470-dont-explode.json) |
 | Don't Fall | 140024 | [140024-dont-fall.json](./140024-dont-fall.json) |
