@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10S | 134323 | [134323-10s.json](./134323-10s.json) |
 | 10S Forever | 343951 | [343951-10s-forever.json](./343951-10s-forever.json) |
 | 10SII | 143489 | [143489-10sii.json](./143489-10sii.json) |
+| 10Six Online | 94316 | [94316-10six-online.json](./94316-10six-online.json) |
 | 10th Corpse | 172960 | [172960-10th-corpse.json](./172960-10th-corpse.json) |
 | 10th Frame | 2373 | [2373-10th-frame.json](./2373-10th-frame.json) |
 | 10tons Action Puzzle Bundle | 83747 | [83747-10tons-action-puzzle-bundle.json](./83747-10tons-action-puzzle-bundle.json) |
@@ -1432,6 +1433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1991 Du Ma Racing | 22428 | [22428-1991-du-ma-racing.json](./22428-1991-du-ma-racing.json) |
 | 1993 Shenandoah | 137426 | [137426-1993-shenandoah.json](./137426-1993-shenandoah.json) |
 | 1993 Space Machine | 19390 | [19390-1993-space-machine.json](./19390-1993-space-machine.json) |
+| 1993Tris | 94288 | [94288-1993tris.json](./94288-1993tris.json) |
 | 1994 (Ten Years After) | 70295 | [70295-1994-ten-years-after.json](./70295-1994-ten-years-after.json) |
 | 1994 Tune-up Community Project | 326910 | [326910-1994-tune-up-community-project.json](./326910-1994-tune-up-community-project.json) |
 | 1994Pool+ | 2375 | [2375-1994pool.json](./2375-1994pool.json) |
@@ -2961,6 +2963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 5 Points Mall | 276764 | [276764-5-points-mall.json](./276764-5-points-mall.json) |
 | 5 Realms of Cards | 52353 | [52353-5-realms-of-cards.json](./52353-5-realms-of-cards.json) |
 | 5 Red Mickeys | 362723 | [362723-5-red-mickeys.json](./362723-5-red-mickeys.json) |
+| 5 Spots | 94277 | [94277-5-spots.json](./94277-5-spots.json) |
 | 5 Spots Party | 51102 | [51102-5-spots-party.json](./51102-5-spots-party.json) |
 | 5 Star Booker | 415778 | [415778-5-star-booker.json](./415778-5-star-booker.json) |
 | 5 Star Fishy | 245937 | [245937-5-star-fishy.json](./245937-5-star-fishy.json) |
@@ -3651,6 +3654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9pm | 177510 | [177510-9pm.json](./177510-9pm.json) |
 | 9PM Football Managers | 243078 | [243078-9pm-football-managers.json](./243078-9pm-football-managers.json) |
 | 9Shot | 301034 | [301034-9shot.json](./301034-9shot.json) |
+| 9Squares | 94273 | [94273-9squares.json](./94273-9squares.json) |
 | 9th Company: Roots of Terror | 11440 | [11440-9th-company-roots-of-terror.json](./11440-9th-company-roots-of-terror.json) |
 | 9th Dawn | 50404 | [50404-9th-dawn.json](./50404-9th-dawn.json) |
 | 9th Dawn Classic | 55684 | [55684-9th-dawn-classic.json](./55684-9th-dawn-classic.json) |
