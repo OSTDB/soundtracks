@@ -4168,6 +4168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Challenge | 230845 | [230845-tennis-challenge.json](./230845-tennis-challenge.json) |
 | Tennis Challenge | 239563 | [239563-tennis-challenge.json](./239563-tennis-challenge.json) |
 | Tennis Champ! | 180485 | [180485-tennis-champ.json](./180485-tennis-champ.json) |
+| Tennis Champion | 88364 | [88364-tennis-champion.json](./88364-tennis-champion.json) |
 | Tennis Championship | 146578 | [146578-tennis-championship.json](./146578-tennis-championship.json) |
 | Tennis Champs Returns | 58823 | [58823-tennis-champs-returns.json](./58823-tennis-champs-returns.json) |
 | Tennis Clash | 125197 | [125197-tennis-clash.json](./125197-tennis-clash.json) |
@@ -24982,6 +24983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Todd's Adventures in Slime World | 4543 | [4543-todds-adventures-in-slime-world.json](./4543-todds-adventures-in-slime-world.json) |
 | Todd's Spider Dream | 154567 | [154567-todds-spider-dream.json](./154567-todds-spider-dream.json) |
 | Toddler Flashcards HD: Baby Learning Games & Apps | 87576 | [87576-toddler-flashcards-hd-baby-learning-games-and-apps.json](./87576-toddler-flashcards-hd-baby-learning-games-and-apps.json) |
+| Toddler Games and Kids Puzzles | 88510 | [88510-toddler-games-and-kids-puzzles.json](./88510-toddler-games-and-kids-puzzles.json) |
 | Toddler Games: puzzles, shapes | 103747 | [103747-toddler-games-puzzles-shapes.json](./103747-toddler-games-puzzles-shapes.json) |
 | Toddler Learning Game-EduKitty | 86788 | [86788-toddler-learning-game-edukitty.json](./86788-toddler-learning-game-edukitty.json) |
 | Toddler Racing Car Game for Kids. | 100985 | [100985-toddler-racing-car-game-for-kids.json](./100985-toddler-racing-car-game-for-kids.json) |
