@@ -3722,6 +3722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vortex Point: Far Journeys | 95981 | [95981-vortex-point-far-journeys.json](./95981-vortex-point-far-journeys.json) |
 | Vortex Protocol | 385248 | [385248-vortex-protocol.json](./385248-vortex-protocol.json) |
 | Vortex Raider | 416723 | [416723-vortex-raider.json](./416723-vortex-raider.json) |
+| Vortex Rising | 133550 | [133550-vortex-rising.json](./133550-vortex-rising.json) |
 | Vortex Rolling | 152743 | [152743-vortex-rolling.json](./152743-vortex-rolling.json) |
 | Vortex Rush | 98706 | [98706-vortex-rush.json](./98706-vortex-rush.json) |
 | Vortex: The Gateway | 34348 | [34348-vortex-the-gateway.json](./34348-vortex-the-gateway.json) |
