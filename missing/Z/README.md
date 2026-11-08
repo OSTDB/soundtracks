@@ -2420,6 +2420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zooms Rampage | 297754 | [297754-zooms-rampage.json](./297754-zooms-rampage.json) |
 | ZooMumba | 304277 | [304277-zoomumba.json](./304277-zoomumba.json) |
 | Zoonomaly | 223526 | [223526-zoonomaly.json](./223526-zoonomaly.json) |
+| Zoony: World Tour | 114615 | [114615-zoony-world-tour.json](./114615-zoony-world-tour.json) |
 | Zooo | 265196 | [265196-zooo.json](./265196-zooo.json) |
 | Zooo: Action Puzzle Game | 49259 | [49259-zooo-action-puzzle-game.json](./49259-zooo-action-puzzle-game.json) |
 | Zoop | 20615 | [20615-zoop.json](./20615-zoop.json) |
