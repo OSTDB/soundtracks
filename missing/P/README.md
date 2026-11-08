@@ -898,6 +898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pako 3 | 188261 | [188261-pako-3.json](./188261-pako-3.json) |
 | Pako 4 | 339925 | [339925-pako-4.json](./339925-pako-4.json) |
 | Pako Caravan | 147830 | [147830-pako-caravan.json](./147830-pako-caravan.json) |
+| Pako Forever | 111151 | [111151-pako-forever.json](./111151-pako-forever.json) |
 | Pako Highway | 212448 | [212448-pako-highway.json](./212448-pako-highway.json) |
 | Pako: Car Chase Simulator | 30406 | [30406-pako-car-chase-simulator.json](./30406-pako-car-chase-simulator.json) |
 | Pakoombo | 201792 | [201792-pakoombo.json](./201792-pakoombo.json) |
@@ -8985,6 +8986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixlCross | 58765 | [58765-pixlcross.json](./58765-pixlcross.json) |
 | Pixld | 64325 | [64325-pixld.json](./64325-pixld.json) |
 | Pixletters | 356582 | [356582-pixletters.json](./356582-pixletters.json) |
+| PixNautiCraft | 111262 | [111262-pixnauticraft.json](./111262-pixnauticraft.json) |
 | Pixoban | 187790 | [187790-pixoban.json](./187790-pixoban.json) |
 | PixoCities | 120718 | [120718-pixocities.json](./120718-pixocities.json) |
 | Pixoguess | 365628 | [365628-pixoguess.json](./365628-pixoguess.json) |
