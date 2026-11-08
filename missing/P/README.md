@@ -1290,6 +1290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pango Build Safari | 105768 | [105768-pango-build-safari.json](./105768-pango-build-safari.json) |
 | Pango Hide and seek | 90706 | [90706-pango-hide-and-seek.json](./90706-pango-hide-and-seek.json) |
 | Pango Kumo | 197731 | [197731-pango-kumo.json](./197731-pango-kumo.json) |
+| Pango Pirate | 90744 | [90744-pango-pirate.json](./90744-pango-pirate.json) |
 | Pango Sheep | 101113 | [101113-pango-sheep.json](./101113-pango-sheep.json) |
 | Pangolick Quest | 417350 | [417350-pangolick-quest.json](./417350-pangolick-quest.json) |
 | Pangolin Cassowary | 266181 | [266181-pangolin-cassowary.json](./266181-pangolin-cassowary.json) |
@@ -1995,6 +1996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Angel | 278141 | [278141-paradise-angel.json](./278141-paradise-angel.json) |
 | Paradise Architect | 274464 | [274464-paradise-architect.json](./274464-paradise-architect.json) |
 | Paradise Away | 150953 | [150953-paradise-away.json](./150953-paradise-away.json) |
+| Paradise Beach | 90735 | [90735-paradise-beach.json](./90735-paradise-beach.json) |
 | Paradise Beach 2: Around the World | 378589 | [378589-paradise-beach-2-around-the-world.json](./378589-paradise-beach-2-around-the-world.json) |
 | Paradise Beach Girls | 202208 | [202208-paradise-beach-girls.json](./202208-paradise-beach-girls.json) |
 | Paradise checkers | 112946 | [112946-paradise-checkers.json](./112946-paradise-checkers.json) |
