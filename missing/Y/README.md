@@ -1349,6 +1349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Youkai Douchuuki | 48597 | [48597-youkai-douchuuki.json](./48597-youkai-douchuuki.json) |
 | Youkai Hana Asobi | 273748 | [273748-youkai-hana-asobi.json](./273748-youkai-hana-asobi.json) |
 | Youkai Kori Kassen | 291029 | [291029-youkai-kori-kassen.json](./291029-youkai-kori-kassen.json) |
+| Youkai Poetry | 118478 | [118478-youkai-poetry.json](./118478-youkai-poetry.json) |
 | YoukaiMaki | 235370 | [235370-youkaimaki.json](./235370-youkaimaki.json) |
 | Youkashi no Haitokuai: Junshin Tenshi ha Dakarete Iromeku | 416596 | [416596-youkashi-no-haitokuai-junshin-tenshi-ha-dakarete-iromeku.json](./416596-youkashi-no-haitokuai-junshin-tenshi-ha-dakarete-iromeku.json) |
 | Youko to Anata | 66056 | [66056-youko-to-anata.json](./66056-youko-to-anata.json) |
