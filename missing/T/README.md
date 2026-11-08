@@ -6451,6 +6451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bartlett Saga | 387700 | [387700-the-bartlett-saga.json](./387700-the-bartlett-saga.json) |
 | The Baseball 2002: Battle Ball Park Sengen | 267529 | [267529-the-baseball-2002-battle-ball-park-sengen.json](./267529-the-baseball-2002-battle-ball-park-sengen.json) |
 | The Baseball 2003 | 61401 | [61401-the-baseball-2003.json](./61401-the-baseball-2003.json) |
+| The Baseball 2003: Akikigou | 78816 | [78816-the-baseball-2003-akikigou.json](./78816-the-baseball-2003-akikigou.json) |
 | The Baseball 2003: Shuuki-gou | 269389 | [269389-the-baseball-2003-shuuki-gou.json](./269389-the-baseball-2003-shuuki-gou.json) |
 | The Baseball T | 217912 | [217912-the-baseball-t.json](./217912-the-baseball-t.json) |
 | The Based Turnabout | 308419 | [308419-the-based-turnabout.json](./308419-the-based-turnabout.json) |
@@ -12317,6 +12318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Drop | 318194 | [318194-the-last-drop.json](./318194-the-last-drop.json) |
 | The Last Dungeon | 226600 | [226600-the-last-dungeon.json](./226600-the-last-dungeon.json) |
 | The Last Duskreaper | 236927 | [236927-the-last-duskreaper.json](./236927-the-last-duskreaper.json) |
+| The Last Dynasty | 78824 | [78824-the-last-dynasty.json](./78824-the-last-dynasty.json) |
 | The Last Earth Fighter | 371239 | [371239-the-last-earth-fighter.json](./371239-the-last-earth-fighter.json) |
 | The Last Earth Man | 166951 | [166951-the-last-earth-man.json](./166951-the-last-earth-man.json) |
 | The Last Eichhof | 69640 | [69640-the-last-eichhof.json](./69640-the-last-eichhof.json) |
@@ -14920,6 +14922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oregon Trail | 193664 | [193664-the-oregon-trail.json](./193664-the-oregon-trail.json) |
 | The Oregon Trail | 213730 | [213730-the-oregon-trail.json](./213730-the-oregon-trail.json) |
 | The Oregon Trail | 256938 | [256938-the-oregon-trail.json](./256938-the-oregon-trail.json) |
+| The Oregon Trail | 78864 | [78864-the-oregon-trail.json](./78864-the-oregon-trail.json) |
 | The Oregon Trail Deluxe | 83359 | [83359-the-oregon-trail-deluxe.json](./83359-the-oregon-trail-deluxe.json) |
 | The Oregon Trail: 3rd Edition | 73240 | [73240-the-oregon-trail-3rd-edition.json](./73240-the-oregon-trail-3rd-edition.json) |
 | The Oregon Trail: 40th Anniversary Edition | 202693 | [202693-the-oregon-trail-40th-anniversary-edition.json](./202693-the-oregon-trail-40th-anniversary-edition.json) |
@@ -23587,6 +23590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Only Knows | 208411 | [208411-time-only-knows.json](./208411-time-only-knows.json) |
 | Time Out Games | 70470 | [70470-time-out-games.json](./70470-time-out-games.json) |
 | Time Out Sports: Baseball | 57936 | [57936-time-out-sports-baseball.json](./57936-time-out-sports-baseball.json) |
+| Time Out Sports: Basketball | 78859 | [78859-time-out-sports-basketball.json](./78859-time-out-sports-basketball.json) |
 | Time Over | 368658 | [368658-time-over.json](./368658-time-over.json) |
 | Time Parallax: The Burial Vault | 262291 | [262291-time-parallax-the-burial-vault.json](./262291-time-parallax-the-burial-vault.json) |
 | Time Patrol | 165171 | [165171-time-patrol.json](./165171-time-patrol.json) |
@@ -26248,6 +26252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Drives | 88508 | [88508-top-drives.json](./88508-top-drives.json) |
 | Top Duck | 280930 | [280930-top-duck.json](./280930-top-duck.json) |
 | Top Dungeon War | 243717 | [243717-top-dungeon-war.json](./243717-top-dungeon-war.json) |
+| Top Eleven | 78818 | [78818-top-eleven.json](./78818-top-eleven.json) |
 | Top Farm | 254812 | [254812-top-farm.json](./254812-top-farm.json) |
 | Top Fighter 2000 | 45590 | [45590-top-fighter-2000.json](./45590-top-fighter-2000.json) |
 | Top Fighter 2000 MK VIII | 45752 | [45752-top-fighter-2000-mk-viii.json](./45752-top-fighter-2000-mk-viii.json) |
@@ -27025,6 +27030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch My Spinner | 61618 | [61618-touch-my-spinner.json](./61618-touch-my-spinner.json) |
 | Touch of Darkness | 16996 | [16996-touch-of-darkness.json](./16996-touch-of-darkness.json) |
 | Touch of Madness | 307880 | [307880-touch-of-madness.json](./307880-touch-of-madness.json) |
+| Touch Online | 78861 | [78861-touch-online.json](./78861-touch-online.json) |
 | Touch Pets: Dogs | 67947 | [67947-touch-pets-dogs.json](./67947-touch-pets-dogs.json) |
 | Touch Physics 2 | 207981 | [207981-touch-physics-2.json](./207981-touch-physics-2.json) |
 | Touch Point Tennis | 249248 | [249248-touch-point-tennis.json](./249248-touch-point-tennis.json) |
@@ -30401,6 +30407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainz Railroad Simulator 2022: ZecRail 2017 Christmas Train | 205424 | [205424-trainz-railroad-simulator-2022-zecrail-2017-christmas-train.json](./205424-trainz-railroad-simulator-2022-zecrail-2017-christmas-train.json) |
 | Trainz Railroad Simulator 2022: ZecRail V499 Blue & Gold and Christmas 2019 | 205329 | [205329-trainz-railroad-simulator-2022-zecrail-v499-blue-and-gold-and-christmas-2019.json](./205329-trainz-railroad-simulator-2022-zecrail-v499-blue-and-gold-and-christmas-2019.json) |
 | Trainz Railroad Simulator 2022: Znamensk-Svir | 205359 | [205359-trainz-railroad-simulator-2022-znamensk-svir.json](./205359-trainz-railroad-simulator-2022-znamensk-svir.json) |
+| Trainz Railwayz | 78853 | [78853-trainz-railwayz.json](./78853-trainz-railwayz.json) |
 | Trainz Simulator | 88611 | [88611-trainz-simulator.json](./88611-trainz-simulator.json) |
 | Trainz Simulator 12 | 11018 | [11018-trainz-simulator-12.json](./11018-trainz-simulator-12.json) |
 | Trainz Simulator 12: Aerotrain | 161737 | [161737-trainz-simulator-12-aerotrain.json](./161737-trainz-simulator-12-aerotrain.json) |
@@ -32206,6 +32213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trogday Micro Game | 200949 | [200949-trogday-micro-game.json](./200949-trogday-micro-game.json) |
 | Troggle Trouble Math | 93191 | [93191-troggle-trouble-math.json](./93191-troggle-trouble-math.json) |
 | Trogloxene | 178256 | [178256-trogloxene.json](./178256-trogloxene.json) |
+| Troika | 78847 | [78847-troika.json](./78847-troika.json) |
 | Trois Mouvements Perpétuels | 277291 | [277291-trois-mouvements-perpetuels.json](./277291-trois-mouvements-perpetuels.json) |
 | Troisix | 109285 | [109285-troisix.json](./109285-troisix.json) |
 | Trojan | 236835 | [236835-trojan.json](./236835-trojan.json) |
