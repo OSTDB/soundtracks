@@ -1001,6 +1001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa Oldmaid | 411320 | [411320-danganronpa-oldmaid.json](./411320-danganronpa-oldmaid.json) |
 | Danganronpa S: Ultimate Summer Camp | 152366 | [152366-danganronpa-s-ultimate-summer-camp.json](./152366-danganronpa-s-ultimate-summer-camp.json) |
 | Danganronpa Split | 411326 | [411326-danganronpa-split.json](./411326-danganronpa-split.json) |
+| Danganronpa Trilogy | 113207 | [113207-danganronpa-trilogy.json](./113207-danganronpa-trilogy.json) |
 | Danganronpa Twinn | 411332 | [411332-danganronpa-twinn.json](./411332-danganronpa-twinn.json) |
 | Danganronpa V: Friendly Shot | 411341 | [411341-danganronpa-v-friendly-shot.json](./411341-danganronpa-v-friendly-shot.json) |
 | Danganronpa V3: Killing Harmony - Anniversary Edition | 152401 | [152401-danganronpa-v3-killing-harmony-anniversary-edition.json](./152401-danganronpa-v3-killing-harmony-anniversary-edition.json) |
@@ -4586,6 +4587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Circus | 339495 | [339495-death-circus.json](./339495-death-circus.json) |
 | Death Climbing | 332981 | [332981-death-climbing.json](./332981-death-climbing.json) |
 | Death Code | 195950 | [195950-death-code.json](./195950-death-code.json) |
+| Death Collector | 113128 | [113128-death-collector.json](./113128-death-collector.json) |
 | Death Comes Skiing | 362888 | [362888-death-comes-skiing.json](./362888-death-comes-skiing.json) |
 | Death Coming | 77550 | [77550-death-coming.json](./77550-death-coming.json) |
 | Death Connection | 62948 | [62948-death-connection.json](./62948-death-connection.json) |
@@ -5021,6 +5023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debris | 372431 | [372431-debris.json](./372431-debris.json) |
 | Debris | 52017 | [52017-debris.json](./52017-debris.json) |
 | Debris 2x1 Hentai | 345782 | [345782-debris-2x1-hentai.json](./345782-debris-2x1-hentai.json) |
+| Debris Field | 113229 | [113229-debris-field.json](./113229-debris-field.json) |
 | Debris II | 151855 | [151855-debris-ii.json](./151855-debris-ii.json) |
 | Debris Infinity | 76331 | [76331-debris-infinity.json](./76331-debris-infinity.json) |
 | Debris Zone | 409355 | [409355-debris-zone.json](./409355-debris-zone.json) |
