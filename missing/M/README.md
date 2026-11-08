@@ -20290,6 +20290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muv-Luv VR | 33162 | [33162-muv-luv-vr.json](./33162-muv-luv-vr.json) |
 | Muv-Luv: Tactics Kalidasa at Nightmare | 407990 | [407990-muv-luv-tactics-kalidasa-at-nightmare.json](./407990-muv-luv-tactics-kalidasa-at-nightmare.json) |
 | Muyagangho | 224405 | [224405-muyagangho.json](./224405-muyagangho.json) |
+| Muyeon | 121854 | [121854-muyeon.json](./121854-muyeon.json) |
 | Muyuu | 166437 | [166437-muyuu.json](./166437-muyuu.json) |
 | Muzan: Chiniku no Ikenie | 67230 | [67230-muzan-chiniku-no-ikenie.json](./67230-muzan-chiniku-no-ikenie.json) |
 | Muzegate | 158845 | [158845-muzegate.json](./158845-muzegate.json) |
