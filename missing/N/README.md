@@ -4253,6 +4253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Dreamer | 154058 | [154058-night-dreamer.json](./154058-night-dreamer.json) |
 | Night Dreams | 147299 | [147299-night-dreams.json](./147299-night-dreams.json) |
 | Night Dreams | 207374 | [207374-night-dreams.json](./207374-night-dreams.json) |
+| Night Drive | 136554 | [136554-night-drive.json](./136554-night-drive.json) |
 | Night Drive | 323531 | [323531-night-drive.json](./323531-night-drive.json) |
 | Night Drive | 332205 | [332205-night-drive.json](./332205-night-drive.json) |
 | Night Drive VR | 88024 | [88024-night-drive-vr.json](./88024-night-drive-vr.json) |
@@ -5298,6 +5299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Shodown | 194215 | [194215-ninja-shodown.json](./194215-ninja-shodown.json) |
 | Ninja Shurican | 183467 | [183467-ninja-shurican.json](./183467-ninja-shurican.json) |
 | Ninja Shuriken Master | 300855 | [300855-ninja-shuriken-master.json](./300855-ninja-shuriken-master.json) |
+| Ninja Simulator | 136592 | [136592-ninja-simulator.json](./136592-ninja-simulator.json) |
 | Ninja Slayer: Neo-Saitama In Flames | 298395 | [298395-ninja-slayer-neo-saitama-in-flames.json](./298395-ninja-slayer-neo-saitama-in-flames.json) |
 | Ninja Smasher! | 30625 | [30625-ninja-smasher.json](./30625-ninja-smasher.json) |
 | Ninja Sneaking R | 201533 | [201533-ninja-sneaking-r.json](./201533-ninja-sneaking-r.json) |
