@@ -3508,6 +3508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OpenPop | 184869 | [184869-openpop.json](./184869-openpop.json) |
 | OpenQuest | 94550 | [94550-openquest.json](./94550-openquest.json) |
 | OpenQuiz | 246110 | [246110-openquiz.json](./246110-openquiz.json) |
+| OpenRCT2 | 80720 | [80720-openrct2.json](./80720-openrct2.json) |
 | OpenSandbox | 354902 | [354902-opensandbox.json](./354902-opensandbox.json) |
 | OpenSeason | 279154 | [279154-openseason.json](./279154-openseason.json) |
 | OpenSpades | 98371 | [98371-openspades.json](./98371-openspades.json) |
@@ -4040,6 +4041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orc Incursion | 292754 | [292754-orc-incursion.json](./292754-orc-incursion.json) |
 | Orc Invasion | 157299 | [157299-orc-invasion.json](./157299-orc-invasion.json) |
 | Orc Invasion Tower | 219266 | [219266-orc-invasion-tower.json](./219266-orc-invasion-tower.json) |
+| Orc Island | 80742 | [80742-orc-island.json](./80742-orc-island.json) |
 | Orc Massage | 127920 | [127920-orc-massage.json](./127920-orc-massage.json) |
 | Orc Raid | 117328 | [117328-orc-raid.json](./117328-orc-raid.json) |
 | Orc Scrolls | 152665 | [152665-orc-scrolls.json](./152665-orc-scrolls.json) |
