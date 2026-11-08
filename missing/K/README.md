@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kakefu-kun no Jump Tengoku Speed Jigoku | 215129 | [215129-kakefu-kun-no-jump-tengoku-speed-jigoku.json](./215129-kakefu-kun-no-jump-tengoku-speed-jigoku.json) |
 | Kakegae no Nai Kimi he | 396471 | [396471-kakegae-no-nai-kimi-he.json](./396471-kakegae-no-nai-kimi-he.json) |
 | Kakegurui Cheating Allowed | 220311 | [220311-kakegurui-cheating-allowed.json](./220311-kakegurui-cheating-allowed.json) |
+| Kakegurui: Cheating Allowed | 123672 | [123672-kakegurui-cheating-allowed.json](./123672-kakegurui-cheating-allowed.json) |
 | Kakele Online: MMORPG | 151267 | [151267-kakele-online-mmorpg.json](./151267-kakele-online-mmorpg.json) |
 | Kakele Online: MMORPG - Bonanza | 265732 | [265732-kakele-online-mmorpg-bonanza.json](./265732-kakele-online-mmorpg-bonanza.json) |
 | Kakenuke Forward to Our Sparking Youth! | 146793 | [146793-kakenuke-forward-to-our-sparking-youth.json](./146793-kakenuke-forward-to-our-sparking-youth.json) |
@@ -1172,6 +1173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kassei: Road Cycling 2025 | 357207 | [357207-kassei-road-cycling-2025.json](./357207-kassei-road-cycling-2025.json) |
 | Kasshoku no Sei Senshi Aisha | 108119 | [108119-kasshoku-no-sei-senshi-aisha.json](./108119-kasshoku-no-sei-senshi-aisha.json) |
 | Kasso Gaiden: Escape from the Skaterverse | 395634 | [395634-kasso-gaiden-escape-from-the-skaterverse.json](./395634-kasso-gaiden-escape-from-the-skaterverse.json) |
+| Kastle Krush | 123718 | [123718-kastle-krush.json](./123718-kastle-krush.json) |
 | Kasumi | 285383 | [285383-kasumi.json](./285383-kasumi.json) |
 | Kasumi Ninja | 40798 | [40798-kasumi-ninja.json](./40798-kasumi-ninja.json) |
 | Kat Trap: Planet of the Cat-Men | 13010 | [13010-kat-trap-planet-of-the-cat-men.json](./13010-kat-trap-planet-of-the-cat-men.json) |
@@ -3696,6 +3698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kings of Streets | 149402 | [149402-kings-of-streets.json](./149402-kings-of-streets.json) |
 | Kings of the Beach | 198795 | [198795-kings-of-the-beach.json](./198795-kings-of-the-beach.json) |
 | Kings of the Beach | 41117 | [41117-kings-of-the-beach.json](./41117-kings-of-the-beach.json) |
+| Kings of the Castle | 123693 | [123693-kings-of-the-castle.json](./123693-kings-of-the-castle.json) |
 | Kings of the Realm | 344914 | [344914-kings-of-the-realm.json](./344914-kings-of-the-realm.json) |
 | Kings on the Corner | 411290 | [411290-kings-on-the-corner.json](./411290-kings-on-the-corner.json) |
 | Kings Shire | 237073 | [237073-kings-shire.json](./237073-kings-shire.json) |
@@ -5026,6 +5029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kochonland | 126145 | [126145-kochonland.json](./126145-kochonland.json) |
 | Kochu's Dream | 148423 | [148423-kochus-dream.json](./148423-kochus-dream.json) |
 | Koco | 275845 | [275845-koco.json](./275845-koco.json) |
+| Kodai Ouja Kyouryuu King D-Kids Adventure: Dino Slash! Kyouryuu Battle!! | 123675 | [123675-kodai-ouja-kyouryuu-king-d-kids-adventure-dino-slash-kyouryuu-battle.json](./123675-kodai-ouja-kyouryuu-king-d-kids-adventure-dino-slash-kyouryuu-battle.json) |
 | Kodama | 262067 | [262067-kodama.json](./262067-kodama.json) |
 | Kodama | 62050 | [62050-kodama.json](./62050-kodama.json) |
 | Kodama Battles | 233332 | [233332-kodama-battles.json](./233332-kodama-battles.json) |
