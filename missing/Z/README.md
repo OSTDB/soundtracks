@@ -1246,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZikSquare | 124130 | [124130-ziksquare.json](./124130-ziksquare.json) |
 | ZiL Truck RallyCross | 29339 | [29339-zil-truck-rallycross.json](./29339-zil-truck-rallycross.json) |
 | Zilado! | 306789 | [306789-zilado.json](./306789-zilado.json) |
+| Zilant | 102229 | [102229-zilant.json](./102229-zilant.json) |
 | Zilar: Empire of The Underground | 312502 | [312502-zilar-empire-of-the-underground.json](./312502-zilar-empire-of-the-underground.json) |
 | Zill O'll | 94007 | [94007-zill-oll.json](./94007-zill-oll.json) |
 | Zill O'll Infinite | 80486 | [80486-zill-oll-infinite.json](./80486-zill-oll-infinite.json) |
@@ -1495,6 +1496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Age 3: Dead City | 312905 | [312905-zombie-age-3-dead-city.json](./312905-zombie-age-3-dead-city.json) |
 | Zombie Alert | 172069 | [172069-zombie-alert.json](./172069-zombie-alert.json) |
 | Zombie Anarchy | 57088 | [57088-zombie-anarchy.json](./57088-zombie-anarchy.json) |
+| Zombie and Juliet | 101859 | [101859-zombie-and-juliet.json](./101859-zombie-and-juliet.json) |
 | Zombie Ants VR | 250003 | [250003-zombie-ants-vr.json](./250003-zombie-ants-vr.json) |
 | Zombie Ants VR: Definitive Edition | 359219 | [359219-zombie-ants-vr-definitive-edition.json](./359219-zombie-ants-vr-definitive-edition.json) |
 | Zombie Apocalypse | 106306 | [106306-zombie-apocalypse.json](./106306-zombie-apocalypse.json) |
@@ -1693,6 +1695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Football Carnage | 52780 | [52780-zombie-football-carnage.json](./52780-zombie-football-carnage.json) |
 | Zombie Football Simulator | 283720 | [283720-zombie-football-simulator.json](./283720-zombie-football-simulator.json) |
 | Zombie For Real | 410016 | [410016-zombie-for-real.json](./410016-zombie-for-real.json) |
+| Zombie Forest 2 | 102313 | [102313-zombie-forest-2.json](./102313-zombie-forest-2.json) |
 | Zombie Forest 3: Underground | 251231 | [251231-zombie-forest-3-underground.json](./251231-zombie-forest-3-underground.json) |
 | Zombie Freaks | 163963 | [163963-zombie-freaks.json](./163963-zombie-freaks.json) |
 | Zombie frenzy | 191255 | [191255-zombie-frenzy.json](./191255-zombie-frenzy.json) |
@@ -1867,6 +1870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Raid: No One Survives | 195274 | [195274-zombie-raid-no-one-survives.json](./195274-zombie-raid-no-one-survives.json) |
 | Zombie Raider of Ra | 54918 | [54918-zombie-raider-of-ra.json](./54918-zombie-raider-of-ra.json) |
 | Zombie Raiders Beta | 100064 | [100064-zombie-raiders-beta.json](./100064-zombie-raiders-beta.json) |
+| Zombie Rampage | 102400 | [102400-zombie-rampage.json](./102400-zombie-rampage.json) |
 | Zombie Recall VR | 372645 | [372645-zombie-recall-vr.json](./372645-zombie-recall-vr.json) |
 | Zombie Redbox | 112187 | [112187-zombie-redbox.json](./112187-zombie-redbox.json) |
 | Zombie Retro Simulation | 177273 | [177273-zombie-retro-simulation.json](./177273-zombie-retro-simulation.json) |
