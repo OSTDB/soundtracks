@@ -1158,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13 Candles | 228091 | [228091-13-candles.json](./228091-13-candles.json) |
 | 13 Cycles | 102927 | [102927-13-cycles.json](./102927-13-cycles.json) |
 | 13 Days In Hell | 387294 | [387294-13-days-in-hell.json](./387294-13-days-in-hell.json) |
+| 13 Days of Life | 106043 | [106043-13-days-of-life.json](./106043-13-days-of-life.json) |
 | 13 Floors: Anomalies | 292243 | [292243-13-floors-anomalies.json](./292243-13-floors-anomalies.json) |
 | 13 Gates | 178741 | [178741-13-gates.json](./178741-13-gates.json) |
 | 13 Jellyfish | 176793 | [176793-13-jellyfish.json](./176793-13-jellyfish.json) |
@@ -1922,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 256 vs. 256 | 284786 | [284786-256-vs-256.json](./284786-256-vs-256.json) |
 | 25920 | 337614 | [337614-25920.json](./337614-25920.json) |
 | 25th Century Duke | 273131 | [273131-25th-century-duke.json](./273131-25th-century-duke.json) |
+| 26 Rob Plays | 107326 | [107326-26-rob-plays.json](./107326-26-rob-plays.json) |
 | 26AZ: The Enigma of Shadows | 299676 | [299676-26az-the-enigma-of-shadows.json](./299676-26az-the-enigma-of-shadows.json) |
 | 27 Electronic table football | 27219 | [27219-27-electronic-table-football.json](./27219-27-electronic-table-football.json) |
 | 27 Survivors | 410329 | [410329-27-survivors.json](./410329-27-survivors.json) |
@@ -2568,6 +2570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Ultra Lionel Traintown | 10735 | [10735-3d-ultra-lionel-traintown.json](./10735-3d-ultra-lionel-traintown.json) |
 | 3D Ultra Lionel Traintown Deluxe | 205954 | [205954-3d-ultra-lionel-traintown-deluxe.json](./205954-3d-ultra-lionel-traintown-deluxe.json) |
 | 3D Ultra Mini Golf | 77788 | [77788-3d-ultra-mini-golf.json](./77788-3d-ultra-mini-golf.json) |
+| 3D Ultra MiniGolf 2 | 106036 | [106036-3d-ultra-minigolf-2.json](./106036-3d-ultra-minigolf-2.json) |
 | 3D Ultra Minigolf Adventures | 9899 | [9899-3d-ultra-minigolf-adventures.json](./9899-3d-ultra-minigolf-adventures.json) |
 | 3D Ultra Minigolf Adventures 2 | 52039 | [52039-3d-ultra-minigolf-adventures-2.json](./52039-3d-ultra-minigolf-adventures-2.json) |
 | 3D Ultra Minigolf Adventures Deluxe | 29113 | [29113-3d-ultra-minigolf-adventures-deluxe.json](./29113-3d-ultra-minigolf-adventures-deluxe.json) |
@@ -2669,6 +2672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Degrees: Vol 2 | 92655 | [92655-4-degrees-vol-2.json](./92655-4-degrees-vol-2.json) |
 | 4 Elements | 27893 | [27893-4-elements.json](./27893-4-elements.json) |
 | 4 Elements II | 64131 | [64131-4-elements-ii.json](./64131-4-elements-ii.json) |
+| 4 Elements II: Special Edition | 106038 | [106038-4-elements-ii-special-edition.json](./106038-4-elements-ii-special-edition.json) |
 | 4 En Raya | 249251 | [249251-4-en-raya.json](./249251-4-en-raya.json) |
 | 4 Game in One | 268570 | [268570-4-game-in-one.json](./268570-4-game-in-one.json) |
 | 4 Games in 1 Cartridge | 281290 | [281290-4-games-in-1-cartridge.json](./281290-4-games-in-1-cartridge.json) |
