@@ -9880,6 +9880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgotten Halls | 185297 | [185297-the-forgotten-halls.json](./185297-the-forgotten-halls.json) |
 | The Forgotten Island | 368267 | [368267-the-forgotten-island.json](./368267-the-forgotten-island.json) |
 | The Forgotten Journey Through Time | 133641 | [133641-the-forgotten-journey-through-time.json](./133641-the-forgotten-journey-through-time.json) |
+| The Forgotten Land | 126112 | [126112-the-forgotten-land.json](./126112-the-forgotten-land.json) |
 | The Forgotten Level | 271763 | [271763-the-forgotten-level.json](./271763-the-forgotten-level.json) |
 | The Forgotten Nightmare Series | 409390 | [409390-the-forgotten-nightmare-series.json](./409390-the-forgotten-nightmare-series.json) |
 | The Forgotten Ones | 17656 | [17656-the-forgotten-ones.json](./17656-the-forgotten-ones.json) |
