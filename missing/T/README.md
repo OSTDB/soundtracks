@@ -1423,6 +1423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of the World: Summoner's Lineage | 49826 | [49826-tales-of-the-world-summoners-lineage.json](./49826-tales-of-the-world-summoners-lineage.json) |
 | Tales of the World: Tactics Union | 294585 | [294585-tales-of-the-world-tactics-union.json](./294585-tales-of-the-world-tactics-union.json) |
 | Tales of Therapy | 226150 | [226150-tales-of-therapy.json](./226150-tales-of-therapy.json) |
+| Tales of Thorn: Global | 104752 | [104752-tales-of-thorn-global.json](./104752-tales-of-thorn-global.json) |
 | Tales of Three Kingdoms: The Mortal World | 277579 | [277579-tales-of-three-kingdoms-the-mortal-world.json](./277579-tales-of-three-kingdoms-the-mortal-world.json) |
 | Tales of TianYuan Dynasty | 220747 | [220747-tales-of-tianyuan-dynasty.json](./220747-tales-of-tianyuan-dynasty.json) |
 | Tales of Tirunia | 379430 | [379430-tales-of-tirunia.json](./379430-tales-of-tirunia.json) |
@@ -2301,6 +2302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TaoYaoTa | 150354 | [150354-taoyaota.json](./150354-taoyaota.json) |
 | Taoyuan Adventure | 160174 | [160174-taoyuan-adventure.json](./160174-taoyuan-adventure.json) |
 | Tap 'n' Pop 3: Balloon Adventures | 88225 | [88225-tap-n-pop-3-balloon-adventures.json](./88225-tap-n-pop-3-balloon-adventures.json) |
+| Tap & Clapp | 104853 | [104853-tap-and-clapp.json](./104853-tap-and-clapp.json) |
 | Tap 4 Sex | 339416 | [339416-tap-4-sex.json](./339416-tap-4-sex.json) |
 | Tap 4 Sex 2 | 425209 | [425209-tap-4-sex-2.json](./425209-tap-4-sex-2.json) |
 | Tap a Gap | 266548 | [266548-tap-a-gap.json](./266548-tap-a-gap.json) |
@@ -21329,6 +21331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic-Tac-Toe | 421407 | [421407-tic-tac-toe.json](./421407-tic-tac-toe.json) |
 | Tic-Tac-Toe | 88434 | [88434-tic-tac-toe.json](./88434-tic-tac-toe.json) |
 | Tic-Tac-Toe - Two Players | 95561 | [95561-tic-tac-toe-two-players.json](./95561-tic-tac-toe-two-players.json) |
+| Tic-Tac-Toe 3D | 104747 | [104747-tic-tac-toe-3d.json](./104747-tic-tac-toe-3d.json) |
 | Tic-Tac-Toe Bolt | 301538 | [301538-tic-tac-toe-bolt.json](./301538-tic-tac-toe-bolt.json) |
 | Tic-Tac-Toe for Kids | 103678 | [103678-tic-tac-toe-for-kids.json](./103678-tic-tac-toe-for-kids.json) |
 | Tic-Tac-Toe Star | 240187 | [240187-tic-tac-toe-star.json](./240187-tic-tac-toe-star.json) |
@@ -24616,6 +24619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To Hell and Back | 306327 | [306327-to-hell-and-back.json](./306327-to-hell-and-back.json) |
 | To Hell and Back | 363142 | [363142-to-hell-and-back.json](./363142-to-hell-and-back.json) |
 | To Hell in a Hamper | 60019 | [60019-to-hell-in-a-hamper.json](./60019-to-hell-in-a-hamper.json) |
+| To Hell with Hell | 104867 | [104867-to-hell-with-hell.json](./104867-to-hell-with-hell.json) |
 | To Hell With It | 145803 | [145803-to-hell-with-it.json](./145803-to-hell-with-it.json) |
 | To Hell With the Ugly | 158137 | [158137-to-hell-with-the-ugly.json](./158137-to-hell-with-the-ugly.json) |
 | To Infinity | 274805 | [274805-to-infinity.json](./274805-to-infinity.json) |
