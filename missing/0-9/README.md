@@ -3302,6 +3302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 77th: The Game | 283075 | [283075-77th-the-game.json](./283075-77th-the-game.json) |
 | 78 Hour Rain | 179739 | [179739-78-hour-rain.json](./179739-78-hour-rain.json) |
 | 7821 Akuji | 357762 | [357762-7821-akuji.json](./357762-7821-akuji.json) |
+| 78641: A Targ Adventure | 91498 | [91498-78641-a-targ-adventure.json](./91498-78641-a-targ-adventure.json) |
 | 7869 | 280232 | [280232-7869.json](./280232-7869.json) |
 | 79 Pompeii | 195238 | [195238-79-pompeii.json](./195238-79-pompeii.json) |
 | 7D Game | 30816 | [30816-7d-game.json](./30816-7d-game.json) |
