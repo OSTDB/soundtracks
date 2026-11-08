@@ -4899,6 +4899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fimbul Winter VR | 151264 | [151264-fimbul-winter-vr.json](./151264-fimbul-winter-vr.json) |
 | Fin and the Ancient Mystery | 123312 | [123312-fin-and-the-ancient-mystery.json](./123312-fin-and-the-ancient-mystery.json) |
 | Fin Fin: On Teo, the Magic Planet | 172775 | [172775-fin-fin-on-teo-the-magic-planet.json](./172775-fin-fin-on-teo-the-magic-planet.json) |
+| Fin Lapin 3 | 130471 | [130471-fin-lapin-3.json](./130471-fin-lapin-3.json) |
 | Fin-Tastic Battle | 392415 | [392415-fin-tastic-battle.json](./392415-fin-tastic-battle.json) |
 | FIN: The Way Home | 302127 | [302127-fin-the-way-home.json](./302127-fin-the-way-home.json) |
 | Fina | 127981 | [127981-fina.json](./127981-fina.json) |
@@ -5301,6 +5302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Furlong | 28394 | [28394-final-furlong.json](./28394-final-furlong.json) |
 | Final Furlong 2 | 355862 | [355862-final-furlong-2.json](./355862-final-furlong-2.json) |
 | Final Fury | 204336 | [204336-final-fury.json](./204336-final-fury.json) |
+| Final Gear | 130494 | [130494-final-gear.json](./130494-final-gear.json) |
 | Final Goal | 253002 | [253002-final-goal.json](./253002-final-goal.json) |
 | Final Guardian | 233406 | [233406-final-guardian.json](./233406-final-guardian.json) |
 | Final Guardian 2 | 197348 | [197348-final-guardian-2.json](./197348-final-guardian-2.json) |
