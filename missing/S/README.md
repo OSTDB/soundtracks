@@ -3601,6 +3601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scramblies | 58181 | [58181-scramblies.json](./58181-scramblies.json) |
 | Scrandle | 342592 | [342592-scrandle.json](./342592-scrandle.json) |
 | Scranny | 207649 | [207649-scranny.json](./207649-scranny.json) |
+| Scrap | 120503 | [120503-scrap.json](./120503-scrap.json) |
 | Scrap | 84139 | [84139-scrap.json](./84139-scrap.json) |
 | Scrap Age | 280468 | [280468-scrap-age.json](./280468-scrap-age.json) |
 | Scrap Age Survivors | 306498 | [306498-scrap-age-survivors.json](./306498-scrap-age-survivors.json) |
@@ -4356,6 +4357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search for the Titanic | 69849 | [69849-search-for-the-titanic.json](./69849-search-for-the-titanic.json) |
 | Search of Galaxy | 192006 | [192006-search-of-galaxy.json](./192006-search-of-galaxy.json) |
 | Search of the Stolen Crown Jewels | 143048 | [143048-search-of-the-stolen-crown-jewels.json](./143048-search-of-the-stolen-crown-jewels.json) |
+| Search Party | 120489 | [120489-search-party.json](./120489-search-party.json) |
 | Search Party: Director's Cut | 171004 | [171004-search-party-directors-cut.json](./171004-search-party-directors-cut.json) |
 | Searchbar Detective | 258287 | [258287-searchbar-detective.json](./258287-searchbar-detective.json) |
 | Searching | 292389 | [292389-searching.json](./292389-searching.json) |
@@ -8701,6 +8703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Tears | 43663 | [43663-shining-tears.json](./43663-shining-tears.json) |
 | Shining the Holy Ark | 46063 | [46063-shining-the-holy-ark.json](./46063-shining-the-holy-ark.json) |
 | Shining Wind | 72920 | [72920-shining-wind.json](./72920-shining-wind.json) |
+| Shinisagi | 120444 | [120444-shinisagi.json](./120444-shinisagi.json) |
 | Shinjatta Kanojo | 251614 | [251614-shinjatta-kanojo.json](./251614-shinjatta-kanojo.json) |
 | Shinjisougeki Carnival | 368986 | [368986-shinjisougeki-carnival.json](./368986-shinjisougeki-carnival.json) |
 | Shinju | 389337 | [389337-shinju.json](./389337-shinju.json) |
@@ -9526,6 +9529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Circuit | 29036 | [29036-short-circuit.json](./29036-short-circuit.json) |
 | Short Circuit VR | 111616 | [111616-short-circuit-vr.json](./111616-short-circuit-vr.json) |
 | Short Creepy Tales: 7PM | 138420 | [138420-short-creepy-tales-7pm.json](./138420-short-creepy-tales-7pm.json) |
+| Short Fuse | 120476 | [120476-short-fuse.json](./120476-short-fuse.json) |
 | Short Fuse | 296804 | [296804-short-fuse.json](./296804-short-fuse.json) |
 | Short Fuse | 412068 | [412068-short-fuse.json](./412068-short-fuse.json) |
 | Short Hop Laser | 172976 | [172976-short-hop-laser.json](./172976-short-hop-laser.json) |
@@ -11751,6 +11755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinner's Grimoire | 359340 | [359340-sinners-grimoire.json](./359340-sinners-grimoire.json) |
 | Sinner's Tavern | 235623 | [235623-sinners-tavern.json](./235623-sinners-tavern.json) |
 | Sinner's Verdict | 381649 | [381649-sinners-verdict.json](./381649-sinners-verdict.json) |
+| Sinners | 120459 | [120459-sinners.json](./120459-sinners.json) |
 | Sinners Landing | 235771 | [235771-sinners-landing.json](./235771-sinners-landing.json) |
 | Sinners Landing: Bane of Passion | 401889 | [401889-sinners-landing-bane-of-passion.json](./401889-sinners-landing-bane-of-passion.json) |
 | SinoAlice | 27209 | [27209-sinoalice.json](./27209-sinoalice.json) |
@@ -15580,6 +15585,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sniper: Ghost Warrior 2 - Limited Edition | 53636 | [53636-sniper-ghost-warrior-2-limited-edition.json](./53636-sniper-ghost-warrior-2-limited-edition.json) |
 | Sniper: Ghost Warrior 2 - Siberian Strike | 10882 | [10882-sniper-ghost-warrior-2-siberian-strike.json](./10882-sniper-ghost-warrior-2-siberian-strike.json) |
 | Sniper: Ghost Warrior 2 - World Hunter Pack | 156186 | [156186-sniper-ghost-warrior-2-world-hunter-pack.json](./156186-sniper-ghost-warrior-2-world-hunter-pack.json) |
+| Sniper: Ghost Warrior 3 - The Escape of Lydia | 120496 | [120496-sniper-ghost-warrior-3-the-escape-of-lydia.json](./120496-sniper-ghost-warrior-3-the-escape-of-lydia.json) |
+| Sniper: Ghost Warrior 3 - The Sabotage | 120494 | [120494-sniper-ghost-warrior-3-the-sabotage.json](./120494-sniper-ghost-warrior-3-the-sabotage.json) |
 | Sniper: Ghost Warrior Trilogy | 53633 | [53633-sniper-ghost-warrior-trilogy.json](./53633-sniper-ghost-warrior-trilogy.json) |
 | Sniper: Path of Vengeance | 26889 | [26889-sniper-path-of-vengeance.json](./26889-sniper-path-of-vengeance.json) |
 | Sniperbot: The Hype Game | 291954 | [291954-sniperbot-the-hype-game.json](./291954-sniperbot-the-hype-game.json) |
@@ -17371,6 +17378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song in the Smoke | 145450 | [145450-song-in-the-smoke.json](./145450-song-in-the-smoke.json) |
 | Song in the Smoke: Rekindled | 243871 | [243871-song-in-the-smoke-rekindled.json](./243871-song-in-the-smoke-rekindled.json) |
 | Song Master | 42404 | [42404-song-master.json](./42404-song-master.json) |
+| Song of a Spirit | 120465 | [120465-song-of-a-spirit.json](./120465-song-of-a-spirit.json) |
 | Song of Asirra | 140800 | [140800-song-of-asirra.json](./140800-song-of-asirra.json) |
 | Song of Calamity | 142966 | [142966-song-of-calamity.json](./142966-song-of-calamity.json) |
 | Song of Farca | 145773 | [145773-song-of-farca.json](./145773-song-of-farca.json) |
@@ -17454,6 +17462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of the Chalice | 224668 | [224668-songs-of-the-chalice.json](./224668-songs-of-the-chalice.json) |
 | Songs of the Eons | 176614 | [176614-songs-of-the-eons.json](./176614-songs-of-the-eons.json) |
 | Songs of the Hmong | 250243 | [250243-songs-of-the-hmong.json](./250243-songs-of-the-hmong.json) |
+| Songs of the Lost | 120486 | [120486-songs-of-the-lost.json](./120486-songs-of-the-lost.json) |
 | Songs of the Mystics | 175218 | [175218-songs-of-the-mystics.json](./175218-songs-of-the-mystics.json) |
 | Songs of Travel | 298961 | [298961-songs-of-travel.json](./298961-songs-of-travel.json) |
 | Songs of Wuxia | 129448 | [129448-songs-of-wuxia.json](./129448-songs-of-wuxia.json) |
@@ -20768,6 +20777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacedust Defender | 179410 | [179410-spacedust-defender.json](./179410-spacedust-defender.json) |
 | SpaceDweller | 59864 | [59864-spacedweller.json](./59864-spacedweller.json) |
 | SpaceEngine | 7585 | [7585-spaceengine.json](./7585-spaceengine.json) |
+| SpaceEscapeVR | 120449 | [120449-spaceescapevr.json](./120449-spaceescapevr.json) |
 | SpaceEx Commander | 157530 | [157530-spaceex-commander.json](./157530-spaceex-commander.json) |
 | SpaceExcavators | 108304 | [108304-spaceexcavators.json](./108304-spaceexcavators.json) |
 | SpaceExile | 106422 | [106422-spaceexile.json](./106422-spaceexile.json) |
@@ -22169,6 +22179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider-Man: Edge of Time | 249160 | [249160-spider-man-edge-of-time.json](./249160-spider-man-edge-of-time.json) |
 | Spider-Man: Edge of Time | 249161 | [249161-spider-man-edge-of-time.json](./249161-spider-man-edge-of-time.json) |
 | Spider-Man: Edge of Time | 5179 | [5179-spider-man-edge-of-time.json](./5179-spider-man-edge-of-time.json) |
+| Spider-Man: Far From Home - Virtual Reality Experience | 120445 | [120445-spider-man-far-from-home-virtual-reality-experience.json](./120445-spider-man-far-from-home-virtual-reality-experience.json) |
 | Spider-Man: Friend or Foe | 249162 | [249162-spider-man-friend-or-foe.json](./249162-spider-man-friend-or-foe.json) |
 | Spider-Man: Friend or Foe | 249163 | [249163-spider-man-friend-or-foe.json](./249163-spider-man-friend-or-foe.json) |
 | Spider-Man: Friend or Foe | 249164 | [249164-spider-man-friend-or-foe.json](./249164-spider-man-friend-or-foe.json) |
