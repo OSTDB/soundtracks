@@ -2766,6 +2766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Heye Apartment | 245811 | [245811-haunted-heye-apartment.json](./245811-haunted-heye-apartment.json) |
 | Haunted Hill | 245123 | [245123-haunted-hill.json](./245123-haunted-hill.json) |
 | Haunted Hill | 276390 | [276390-haunted-hill.json](./276390-haunted-hill.json) |
+| Haunted Home AR | 82294 | [82294-haunted-home-ar.json](./82294-haunted-home-ar.json) |
 | Haunted Horror Stories: Gone With The Wind | 249544 | [249544-haunted-horror-stories-gone-with-the-wind.json](./249544-haunted-horror-stories-gone-with-the-wind.json) |
 | Haunted Hotel | 146857 | [146857-haunted-hotel.json](./146857-haunted-hotel.json) |
 | Haunted Hotel | 31063 | [31063-haunted-hotel.json](./31063-haunted-hotel.json) |
@@ -9877,6 +9878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Honkaku AI Tousai Daifugo | 144999 | [144999-honkaku-ai-tousai-daifugo.json](./144999-honkaku-ai-tousai-daifugo.json) |
 | Honkaku AI Tousai Ginsei Mahjong | 145000 | [145000-honkaku-ai-tousai-ginsei-mahjong.json](./145000-honkaku-ai-tousai-ginsei-mahjong.json) |
 | Honkaku Hanafuda GB | 281568 | [281568-honkaku-hanafuda-gb.json](./281568-honkaku-hanafuda-gb.json) |
+| Honkaku Pro Mahjong: Tetsuman Special | 82271 | [82271-honkaku-pro-mahjong-tetsuman-special.json](./82271-honkaku-pro-mahjong-tetsuman-special.json) |
 | Honkaku Shogi: Shogi-ou | 228561 | [228561-honkaku-shogi-shogi-ou.json](./228561-honkaku-shogi-shogi-ou.json) |
 | Honkaku Taisen Shogi Ayumu | 97856 | [97856-honkaku-taisen-shogi-ayumu.json](./97856-honkaku-taisen-shogi-ayumu.json) |
 | Honkaku Yon-nin Uchi Mahjong: Mahjong Oh | 228562 | [228562-honkaku-yon-nin-uchi-mahjong-mahjong-oh.json](./228562-honkaku-yon-nin-uchi-mahjong-mahjong-oh.json) |
@@ -12602,6 +12604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyakki Fantasia Mini Game Selection Vol.1 | 396119 | [396119-hyakki-fantasia-mini-game-selection-vol-1.json](./396119-hyakki-fantasia-mini-game-selection-vol-1.json) |
 | Hyakki Rinne | 240566 | [240566-hyakki-rinne.json](./240566-hyakki-rinne.json) |
 | Hyakki Ryouran no Yakata x Kawarazaki-ke no Ichizoku | 77868 | [77868-hyakki-ryouran-no-yakata-x-kawarazaki-ke-no-ichizoku.json](./77868-hyakki-ryouran-no-yakata-x-kawarazaki-ke-no-ichizoku.json) |
+| Hyakki Shachuu | 83007 | [83007-hyakki-shachuu.json](./83007-hyakki-shachuu.json) |
 | Hyakki Yako Survivor | 331332 | [331332-hyakki-yako-survivor.json](./331332-hyakki-yako-survivor.json) |
 | Hyakki Yako: OH&S | 259289 | [259289-hyakki-yako-oh-and-s.json](./259289-hyakki-yako-oh-and-s.json) |
 | Hyakki Yakou | 77706 | [77706-hyakki-yakou.json](./77706-hyakki-yakou.json) |
