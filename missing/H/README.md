@@ -8649,6 +8649,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitotsubashi Animal Chronicles | 358386 | [358386-hitotsubashi-animal-chronicles.json](./358386-hitotsubashi-animal-chronicles.json) |
 | Hitou Dungeon | 283842 | [283842-hitou-dungeon.json](./283842-hitou-dungeon.json) |
 | Hitozuma Dorei Keikaku | 108925 | [108925-hitozuma-dorei-keikaku.json](./108925-hitozuma-dorei-keikaku.json) |
+| Hitozuma Dorei Kissa | 98070 | [98070-hitozuma-dorei-kissa.json](./98070-hitozuma-dorei-kissa.json) |
+| Hitozuma Dorei Kissa 2 | 98069 | [98069-hitozuma-dorei-kissa-2.json](./98069-hitozuma-dorei-kissa-2.json) |
 | Hitozuma Dorei Kyoushi | 98029 | [98029-hitozuma-dorei-kyoushi.json](./98029-hitozuma-dorei-kyoushi.json) |
 | Hitozuma Dorei Kyoushi 2 | 97632 | [97632-hitozuma-dorei-kyoushi-2.json](./97632-hitozuma-dorei-kyoushi-2.json) |
 | Hitozuma Kouzen Chijoku Densha: Ketai Hitotsu de Osawari Soku Hame Shihoudai Tanin no Tsuma o Nenchaku Tanezuke Netori | 59025 | [59025-hitozuma-kouzen-chijoku-densha-ketai-hitotsu-de-osawari-soku-hame-shihoudai-tanin-no-tsuma-o-nenchaku-tanezuke-netori.json](./59025-hitozuma-kouzen-chijoku-densha-ketai-hitotsu-de-osawari-soku-hame-shihoudai-tanin-no-tsuma-o-nenchaku-tanezuke-netori.json) |
