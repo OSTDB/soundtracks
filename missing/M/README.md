@@ -6080,7 +6080,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6867,6 +6866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mechanic Supermarket Simulator | 320436 | [320436-mechanic-supermarket-simulator.json](./320436-mechanic-supermarket-simulator.json) |
 | Mechanica | 129155 | [129155-mechanica.json](./129155-mechanica.json) |
 | Mechanical Anarchy | 356689 | [356689-mechanical-anarchy.json](./356689-mechanical-anarchy.json) |
+| Mechanical Box | 95534 | [95534-mechanical-box.json](./95534-mechanical-box.json) |
 | Mechanical Chess: Real-time | 357309 | [357309-mechanical-chess-real-time.json](./357309-mechanical-chess-real-time.json) |
 | Mechanical Defense Line | 406564 | [406564-mechanical-defense-line.json](./406564-mechanical-defense-line.json) |
 | Mechanical Dynasty | 393973 | [393973-mechanical-dynasty.json](./393973-mechanical-dynasty.json) |
@@ -21202,6 +21202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Keyboard is Full of Ants! | 408597 | [408597-my-keyboard-is-full-of-ants.json](./408597-my-keyboard-is-full-of-ants.json) |
 | My Kindness is Not an Invitation For You to Touch Me | 128743 | [128743-my-kindness-is-not-an-invitation-for-you-to-touch-me.json](./128743-my-kindness-is-not-an-invitation-for-you-to-touch-me.json) |
 | My Kingdom For the Princess | 137037 | [137037-my-kingdom-for-the-princess.json](./137037-my-kingdom-for-the-princess.json) |
+| My Kingdom for the Princess HD | 95536 | [95536-my-kingdom-for-the-princess-hd.json](./95536-my-kingdom-for-the-princess-hd.json) |
 | My Kingdom for the Princess II | 259831 | [259831-my-kingdom-for-the-princess-ii.json](./259831-my-kingdom-for-the-princess-ii.json) |
 | My Kingdom for the Princess II HD | 102140 | [102140-my-kingdom-for-the-princess-ii-hd.json](./102140-my-kingdom-for-the-princess-ii-hd.json) |
 | My Kingdom for the Princess III | 90781 | [90781-my-kingdom-for-the-princess-iii.json](./90781-my-kingdom-for-the-princess-iii.json) |
@@ -22311,6 +22312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of Fortune 2 Refine | 187850 | [187850-mystery-of-fortune-2-refine.json](./187850-mystery-of-fortune-2-refine.json) |
 | Mystery of Fortune 3 | 175263 | [175263-mystery-of-fortune-3.json](./175263-mystery-of-fortune-3.json) |
 | Mystery of Gevaudan | 332448 | [332448-mystery-of-gevaudan.json](./332448-mystery-of-gevaudan.json) |
+| Mystery of Haunted Hollow 2: Point & Click Game | 95546 | [95546-mystery-of-haunted-hollow-2-point-and-click-game.json](./95546-mystery-of-haunted-hollow-2-point-and-click-game.json) |
 | Mystery of Haunted Hollow: Point Click Escape Game | 91066 | [91066-mystery-of-haunted-hollow-point-click-escape-game.json](./91066-mystery-of-haunted-hollow-point-click-escape-game.json) |
 | Mystery of Hidden Book | 99314 | [99314-mystery-of-hidden-book.json](./99314-mystery-of-hidden-book.json) |
 | Mystery of Hidden Inheritance | 95581 | [95581-mystery-of-hidden-inheritance.json](./95581-mystery-of-hidden-inheritance.json) |
