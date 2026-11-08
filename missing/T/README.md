@@ -872,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take a piss like a woman | 330160 | [330160-take-a-piss-like-a-woman.json](./330160-take-a-piss-like-a-woman.json) |
 | Take a Seat! | 202961 | [202961-take-a-seat.json](./202961-take-a-seat.json) |
 | Take a Smile | 246484 | [246484-take-a-smile.json](./246484-take-a-smile.json) |
+| Take a Walk | 123145 | [123145-take-a-walk.json](./123145-take-a-walk.json) |
 | Take a Walk | 329517 | [329517-take-a-walk.json](./329517-take-a-walk.json) |
 | Take As Needed | 190315 | [190315-take-as-needed.json](./190315-take-as-needed.json) |
 | Take Bomb: The Suit Take Off | 280254 | [280254-take-bomb-the-suit-take-off.json](./280254-take-bomb-the-suit-take-off.json) |
@@ -3283,6 +3284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Techtonica | 194465 | [194465-techtonica.json](./194465-techtonica.json) |
 | TechWars | 47562 | [47562-techwars.json](./47562-techwars.json) |
 | Techwars Deathmatch | 96872 | [96872-techwars-deathmatch.json](./96872-techwars-deathmatch.json) |
+| Techwars Global Conflict | 123137 | [123137-techwars-global-conflict.json](./123137-techwars-global-conflict.json) |
 | Techwars Global Conflict: Demigod Legacy Edition | 188028 | [188028-techwars-global-conflict-demigod-legacy-edition.json](./188028-techwars-global-conflict-demigod-legacy-edition.json) |
 | Techwars Global Conflict: Heroic Edition | 188019 | [188019-techwars-global-conflict-heroic-edition.json](./188019-techwars-global-conflict-heroic-edition.json) |
 | Techwars Global Conflict: The Last Emperor From Hell Edition | 188045 | [188045-techwars-global-conflict-the-last-emperor-from-hell-edition.json](./188045-techwars-global-conflict-the-last-emperor-from-hell-edition.json) |
@@ -4536,6 +4538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terra Nil Prototype | 123998 | [123998-terra-nil-prototype.json](./123998-terra-nil-prototype.json) |
 | Terra Nil: Deluxe Edition | 243138 | [243138-terra-nil-deluxe-edition.json](./243138-terra-nil-deluxe-edition.json) |
 | Terra Nil: Heatwave | 360290 | [360290-terra-nil-heatwave.json](./360290-terra-nil-heatwave.json) |
+| Terra Nova | 123182 | [123182-terra-nova.json](./123182-terra-nova.json) |
 | Terra Nova Pinball | 289034 | [289034-terra-nova-pinball.json](./289034-terra-nova-pinball.json) |
 | Terra Nova: Strategy of Survival | 130533 | [130533-terra-nova-strategy-of-survival.json](./130533-terra-nova-strategy-of-survival.json) |
 | Terra Nova: Strike Force Centauri | 70 | [70-terra-nova-strike-force-centauri.json](./70-terra-nova-strike-force-centauri.json) |
@@ -8264,6 +8267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Day They Came | 169832 | [169832-the-day-they-came.json](./169832-the-day-they-came.json) |
 | The Day They Landed | 81681 | [81681-the-day-they-landed.json](./81681-the-day-they-landed.json) |
 | The Day Valentine Died, and So Did I! | 331764 | [331764-the-day-valentine-died-and-so-did-i.json](./331764-the-day-valentine-died-and-so-did-i.json) |
+| The Day We Fought Space | 123185 | [123185-the-day-we-fought-space.json](./123185-the-day-we-fought-space.json) |
 | The Day We Met was a Regular Day in the Infinitely Looping Highschool, is That Normal? | 192953 | [192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json](./192953-the-day-we-met-was-a-regular-day-in-the-infinitely-looping-highschool-is-that-normal.json) |
 | The Days Without Gods | 356826 | [356826-the-days-without-gods.json](./356826-the-days-without-gods.json) |
 | The DBK Holiday Special | 261465 | [261465-the-dbk-holiday-special.json](./261465-the-dbk-holiday-special.json) |
@@ -10374,6 +10378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grand Lord | 148643 | [148643-the-grand-lord.json](./148643-the-grand-lord.json) |
 | The Grand Mafia | 212519 | [212519-the-grand-mafia.json](./212519-the-grand-mafia.json) |
 | The Grand Prismatic | 411613 | [411613-the-grand-prismatic.json](./411613-the-grand-prismatic.json) |
+| The Grand Sumo | 123161 | [123161-the-grand-sumo.json](./123161-the-grand-sumo.json) |
 | The Grand Tap Tournament | 38640 | [38640-the-grand-tap-tournament.json](./38640-the-grand-tap-tournament.json) |
 | The Grand Way | 104462 | [104462-the-grand-way.json](./104462-the-grand-way.json) |
 | The Grandest Fleet | 73182 | [73182-the-grandest-fleet.json](./73182-the-grandest-fleet.json) |
