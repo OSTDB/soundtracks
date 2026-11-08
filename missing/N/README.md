@@ -2998,6 +2998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neuro Nightmare | 340949 | [340949-neuro-nightmare.json](./340949-neuro-nightmare.json) |
 | Neuro Skazka | 142038 | [142038-neuro-skazka.json](./142038-neuro-skazka.json) |
 | Neuroarena: Black Duel Master | 363569 | [363569-neuroarena-black-duel-master.json](./363569-neuroarena-black-duel-master.json) |
+| NeuroBloxs | 112435 | [112435-neurobloxs.json](./112435-neurobloxs.json) |
 | NeuroCorp | 391735 | [391735-neurocorp.json](./391735-neurocorp.json) |
 | Neurocracy | 172662 | [172662-neurocracy.json](./172662-neurocracy.json) |
 | Neurocracy 2.049 | 257097 | [257097-neurocracy-2-049.json](./257097-neurocracy-2-049.json) |
