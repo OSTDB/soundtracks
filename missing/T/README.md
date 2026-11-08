@@ -4416,6 +4416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terminal Sickness | 110396 | [110396-terminal-sickness.json](./110396-terminal-sickness.json) |
 | Terminal Singularity | 158701 | [158701-terminal-singularity.json](./158701-terminal-singularity.json) |
 | Terminal squad: Sentinel | 121320 | [121320-terminal-squad-sentinel.json](./121320-terminal-squad-sentinel.json) |
+| Terminal squad: Swarmites | 128132 | [128132-terminal-squad-swarmites.json](./128132-terminal-squad-swarmites.json) |
 | Terminal Stages of Nostalgia | 259357 | [259357-terminal-stages-of-nostalgia.json](./259357-terminal-stages-of-nostalgia.json) |
 | Terminal Terror | 71762 | [71762-terminal-terror.json](./71762-terminal-terror.json) |
 | Terminal Theatre Soft | 264486 | [264486-terminal-theatre-soft.json](./264486-terminal-theatre-soft.json) |
@@ -6718,6 +6719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Black Whale | 394792 | [394792-the-black-whale.json](./394792-the-black-whale.json) |
 | The Black Widow | 112627 | [112627-the-black-widow.json](./112627-the-black-widow.json) |
 | The Black Within | 244916 | [244916-the-black-within.json](./244916-the-black-within.json) |
+| The Blackbird of Amor | 128130 | [128130-the-blackbird-of-amor.json](./128130-the-blackbird-of-amor.json) |
 | The Blacklist: Conspiracy | 58266 | [58266-the-blacklist-conspiracy.json](./58266-the-blacklist-conspiracy.json) |
 | The Blackout Club | 89562 | [89562-the-blackout-club.json](./89562-the-blackout-club.json) |
 | The Blacksmith | 56819 | [56819-the-blacksmith.json](./56819-the-blacksmith.json) |
@@ -8150,6 +8152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Realm | 194269 | [194269-the-dark-realm.json](./194269-the-dark-realm.json) |
 | The Dark Rites of Arkham | 338552 | [338552-the-dark-rites-of-arkham.json](./338552-the-dark-rites-of-arkham.json) |
 | The Dark Room | 301353 | [301353-the-dark-room.json](./301353-the-dark-room.json) |
+| The Dark Side | 128104 | [128104-the-dark-side.json](./128104-the-dark-side.json) |
 | The Dark Side Of Mars | 233156 | [233156-the-dark-side-of-mars.json](./233156-the-dark-side-of-mars.json) |
 | The Dark Side of the Moon | 144010 | [144010-the-dark-side-of-the-moon.json](./144010-the-dark-side-of-the-moon.json) |
 | The Dark Side of the Moon | 54465 | [54465-the-dark-side-of-the-moon.json](./54465-the-dark-side-of-the-moon.json) |
@@ -9854,6 +9857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Forgers | 352186 | [352186-the-forgers.json](./352186-the-forgers.json) |
 | The Forgettable Dungeon | 35095 | [35095-the-forgettable-dungeon.json](./35095-the-forgettable-dungeon.json) |
 | The Forgoatten Isles | 177749 | [177749-the-forgoatten-isles.json](./177749-the-forgoatten-isles.json) |
+| The Forgotten | 128136 | [128136-the-forgotten.json](./128136-the-forgotten.json) |
 | The Forgotten Apartment | 344832 | [344832-the-forgotten-apartment.json](./344832-the-forgotten-apartment.json) |
 | The Forgotten Boundary | 201485 | [201485-the-forgotten-boundary.json](./201485-the-forgotten-boundary.json) |
 | The Forgotten Castle | 190868 | [190868-the-forgotten-castle.json](./190868-the-forgotten-castle.json) |
@@ -13905,6 +13909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Meaning of Life | 379154 | [379154-the-meaning-of-life.json](./379154-the-meaning-of-life.json) |
 | The Meating | 141111 | [141111-the-meating.json](./141111-the-meating.json) |
 | The Mech is on Fire | 184823 | [184823-the-mech-is-on-fire.json](./184823-the-mech-is-on-fire.json) |
+| The Mechanical World of Dr. Gearbox | 128138 | [128138-the-mechanical-world-of-dr-gearbox.json](./128138-the-mechanical-world-of-dr-gearbox.json) |
 | The Mechsmith Run=Dim | 227976 | [227976-the-mechsmith-run-dim.json](./227976-the-mechsmith-run-dim.json) |
 | The Medic | 150306 | [150306-the-medic.json](./150306-the-medic.json) |
 | The Medical Examination Diary: The Exciting Days of Me and My Senpai | 199680 | [199680-the-medical-examination-diary-the-exciting-days-of-me-and-my-senpai.json](./199680-the-medical-examination-diary-the-exciting-days-of-me-and-my-senpai.json) |
@@ -15480,6 +15485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Putinland: Divide & Conquer | 103774 | [103774-the-putinland-divide-and-conquer.json](./103774-the-putinland-divide-and-conquer.json) |
 | The Putrid Pumps | 271203 | [271203-the-putrid-pumps.json](./271203-the-putrid-pumps.json) |
 | The Puzzle 11 | 90827 | [90827-the-puzzle-11.json](./90827-the-puzzle-11.json) |
+| The Puzzle Box Society | 128129 | [128129-the-puzzle-box-society.json](./128129-the-puzzle-box-society.json) |
 | The Puzzle Factory | 241783 | [241783-the-puzzle-factory.json](./241783-the-puzzle-factory.json) |
 | The Puzzle Maker: Cebba's Odyssey | 275112 | [275112-the-puzzle-maker-cebbas-odyssey.json](./275112-the-puzzle-maker-cebbas-odyssey.json) |
 | The Puzzle of Blocks | 268214 | [268214-the-puzzle-of-blocks.json](./268214-the-puzzle-of-blocks.json) |
@@ -21022,6 +21028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Jaws | 12863 | [12863-thunder-jaws.json](./12863-thunder-jaws.json) |
 | Thunder Jaws | 309189 | [309189-thunder-jaws.json](./309189-thunder-jaws.json) |
 | Thunder Jumper | 268219 | [268219-thunder-jumper.json](./268219-thunder-jumper.json) |
+| Thunder Kid II: Null Mission | 128110 | [128110-thunder-kid-ii-null-mission.json](./128110-thunder-kid-ii-null-mission.json) |
 | Thunder League | 59407 | [59407-thunder-league.json](./59407-thunder-league.json) |
 | Thunder League Online | 195169 | [195169-thunder-league-online.json](./195169-thunder-league-online.json) |
 | Thunder of the DemonKing | 352110 | [352110-thunder-of-the-demonking.json](./352110-thunder-of-the-demonking.json) |
@@ -27499,6 +27506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of God M: The Great Journey | 188404 | [188404-tower-of-god-m-the-great-journey.json](./188404-tower-of-god-m-the-great-journey.json) |
 | Tower of God: Great Journey | 231889 | [231889-tower-of-god-great-journey.json](./231889-tower-of-god-great-journey.json) |
 | Tower of God: New World | 194110 | [194110-tower-of-god-new-world.json](./194110-tower-of-god-new-world.json) |
+| Tower of God: One Wish | 128139 | [128139-tower-of-god-one-wish.json](./128139-tower-of-god-one-wish.json) |
 | Tower of Greed | 216326 | [216326-tower-of-greed.json](./216326-tower-of-greed.json) |
 | Tower of Grimoiria | 285829 | [285829-tower-of-grimoiria.json](./285829-tower-of-grimoiria.json) |
 | Tower of Guardian | 153946 | [153946-tower-of-guardian.json](./153946-tower-of-guardian.json) |
