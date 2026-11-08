@@ -1424,6 +1424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1983, 18th Floor | 406096 | [406096-1983-18th-floor.json](./406096-1983-18th-floor.json) |
 | 1984 | 247611 | [247611-1984.json](./247611-1984.json) |
 | 1984 Rewired | 123940 | [123940-1984-rewired.json](./123940-1984-rewired.json) |
+| 1984: A Game of Government Management | 83716 | [83716-1984-a-game-of-government-management.json](./83716-1984-a-game-of-government-management.json) |
 | 1985: The Day After | 26150 | [26150-1985-the-day-after.json](./26150-1985-the-day-after.json) |
 | 1986 A Long Five Days | 301032 | [301032-1986-a-long-five-days.json](./301032-1986-a-long-five-days.json) |
 | 1986 Scary Mr. Chainsaw Escape | 314699 | [314699-1986-scary-mr-chainsaw-escape.json](./314699-1986-scary-mr-chainsaw-escape.json) |
@@ -2262,6 +2263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30s Quest Tile | 181476 | [181476-30s-quest-tile.json](./181476-30s-quest-tile.json) |
 | 30th Anniversary of Pac-Man | 133878 | [133878-30th-anniversary-of-pac-man.json](./133878-30th-anniversary-of-pac-man.json) |
 | 30XX: Feline Fury | 318700 | [318700-30xx-feline-fury.json](./318700-30xx-feline-fury.json) |
+| 31 | 83702 | [83702-31.json](./83702-31.json) |
 | 31 Full Games for Everyone | 415384 | [415384-31-full-games-for-everyone.json](./415384-31-full-games-for-everyone.json) |
 | 31 Minutos The Game | 298745 | [298745-31-minutos-the-game.json](./298745-31-minutos-the-game.json) |
 | 31 Pixels Later | 315648 | [315648-31-pixels-later.json](./315648-31-pixels-later.json) |
@@ -2708,6 +2710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 hours | 271481 | [271481-4-hours.json](./271481-4-hours.json) |
 | 4 in 1 | 80870 | [80870-4-in-1.json](./80870-4-in-1.json) |
 | 4 in 1 | 80871 | [80871-4-in-1.json](./80871-4-in-1.json) |
+| 4 in 1 Action Pack | 83737 | [83737-4-in-1-action-pack.json](./83737-4-in-1-action-pack.json) |
 | 4 in 1 Bundle | 362183 | [362183-4-in-1-bundle.json](./362183-4-in-1-bundle.json) |
 | 4 In 1 Indie Bundle | 118738 | [118738-4-in-1-indie-bundle.json](./118738-4-in-1-indie-bundle.json) |
 | 4 in 1 Row | 41534 | [41534-4-in-1-row.json](./41534-4-in-1-row.json) |
