@@ -890,6 +890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nathan Jones and The Eternal Myth | 266060 | [266060-nathan-jones-and-the-eternal-myth.json](./266060-nathan-jones-and-the-eternal-myth.json) |
 | Nathan Morgan: Dilemma | 295085 | [295085-nathan-morgan-dilemma.json](./295085-nathan-morgan-dilemma.json) |
 | Nathan Powell's Wild Araz | 182035 | [182035-nathan-powells-wild-araz.json](./182035-nathan-powells-wild-araz.json) |
+| Nation Breakers: Steam Arena | 121134 | [121134-nation-breakers-steam-arena.json](./121134-nation-breakers-steam-arena.json) |
 | Nation Red | 21115 | [21115-nation-red.json](./21115-nation-red.json) |
 | Nation War 2: Chronicle | 169432 | [169432-nation-war-2-chronicle.json](./169432-nation-war-2-chronicle.json) |
 | Nation War: Chronicles | 48008 | [48008-nation-war-chronicles.json](./48008-nation-war-chronicles.json) |
@@ -2559,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Parkour 2 | 253614 | [253614-neon-parkour-2.json](./253614-neon-parkour-2.json) |
 | Neon Phase | 56950 | [56950-neon-phase.json](./56950-neon-phase.json) |
 | Neon Planet | 407055 | [407055-neon-planet.json](./407055-neon-planet.json) |
+| Neon Pong | 121123 | [121123-neon-pong.json](./121123-neon-pong.json) |
 | Neon Prism | 30501 | [30501-neon-prism.json](./30501-neon-prism.json) |
 | Neon Puzzle Ball | 304425 | [304425-neon-puzzle-ball.json](./304425-neon-puzzle-ball.json) |
 | Neon Race | 182946 | [182946-neon-race.json](./182946-neon-race.json) |
@@ -6893,6 +6895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northgard | 18918 | [18918-northgard.json](./18918-northgard.json) |
 | Northgard Battlegrounds | 398523 | [398523-northgard-battlegrounds.json](./398523-northgard-battlegrounds.json) |
 | Northgard: Brundr & Kaelinn, Clan of the Lynx | 154200 | [154200-northgard-brundr-and-kaelinn-clan-of-the-lynx.json](./154200-northgard-brundr-and-kaelinn-clan-of-the-lynx.json) |
+| Northgard: Clan of the Kraken | 121162 | [121162-northgard-clan-of-the-kraken.json](./121162-northgard-clan-of-the-kraken.json) |
 | Northgard: Cross of Vidar Expansion Pack | 230821 | [230821-northgard-cross-of-vidar-expansion-pack.json](./230821-northgard-cross-of-vidar-expansion-pack.json) |
 | Northgard: Dodsvagr, Clan of the Rat | 188083 | [188083-northgard-dodsvagr-clan-of-the-rat.json](./188083-northgard-dodsvagr-clan-of-the-rat.json) |
 | Northgard: Gardariki, Clan of the Hippogriff | 366866 | [366866-northgard-gardariki-clan-of-the-hippogriff.json](./366866-northgard-gardariki-clan-of-the-hippogriff.json) |
