@@ -2118,6 +2118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Khorus' Speedy Shit | 261024 | [261024-khorus-speedy-shit.json](./261024-khorus-speedy-shit.json) |
 | Khospis | 110338 | [110338-khospis.json](./110338-khospis.json) |
 | Khottabych | 251019 | [251019-khottabych.json](./251019-khottabych.json) |
+| Khronos-X | 134181 | [134181-khronos-x.json](./134181-khronos-x.json) |
 | Khufu-ou no Himitsu | 181781 | [181781-khufu-ou-no-himitsu.json](./181781-khufu-ou-no-himitsu.json) |
 | Khufu's Delivery Service | 81149 | [81149-khufus-delivery-service.json](./81149-khufus-delivery-service.json) |
 | Khuga Bash! | 276196 | [276196-khuga-bash.json](./276196-khuga-bash.json) |
@@ -2461,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kikai Shushi: MachinE SeeD | 366021 | [366021-kikai-shushi-machine-seed.json](./366021-kikai-shushi-machine-seed.json) |
 | Kikai: The Silent Cat | 261221 | [261221-kikai-the-silent-cat.json](./261221-kikai-the-silent-cat.json) |
 | Kikaijikake no Merceneria | 386112 | [386112-kikaijikake-no-merceneria.json](./386112-kikaijikake-no-merceneria.json) |
+| Kikaiju Attack | 134182 | [134182-kikaiju-attack.json](./134182-kikaiju-attack.json) |
 | Kikak | 183796 | [183796-kikak.json](./183796-kikak.json) |
 | Kikan Bakumatsu Ibun Last Cavalier | 59912 | [59912-kikan-bakumatsu-ibun-last-cavalier.json](./59912-kikan-bakumatsu-ibun-last-cavalier.json) |
 | Kikansha Thomas: Sodor-tou no Nakama-tachi | 210421 | [210421-kikansha-thomas-sodor-tou-no-nakama-tachi.json](./210421-kikansha-thomas-sodor-tou-no-nakama-tachi.json) |
@@ -2858,6 +2860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -6224,6 +6227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kungfu Cowboy | 145262 | [145262-kungfu-cowboy.json](./145262-kungfu-cowboy.json) |
 | Kungfu Football Captain | 153931 | [153931-kungfu-football-captain.json](./153931-kungfu-football-captain.json) |
 | KungFu Kickball | 121713 | [121713-kungfu-kickball.json](./121713-kungfu-kickball.json) |
+| KungFu King: Martialist | 134164 | [134164-kungfu-king-martialist.json](./134164-kungfu-king-martialist.json) |
 | Kungfu Ragdoll | 214061 | [214061-kungfu-ragdoll.json](./214061-kungfu-ragdoll.json) |
 | KungFu Town VR | 76525 | [76525-kungfu-town-vr.json](./76525-kungfu-town-vr.json) |
 | Kungfucious - VR Kung Fu Wuxia Simulator | 114246 | [114246-kungfucious-vr-kung-fu-wuxia-simulator.json](./114246-kungfucious-vr-kung-fu-wuxia-simulator.json) |
@@ -6255,6 +6259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KunKunNight | 273463 | [273463-kunkunnight.json](./273463-kunkunnight.json) |
 | KunKunPrison | 384772 | [384772-kunkunprison.json](./384772-kunkunprison.json) |
 | Kunlun Fight | 30180 | [30180-kunlun-fight.json](./30180-kunlun-fight.json) |
+| Kunoi | 134183 | [134183-kunoi.json](./134183-kunoi.json) |
 | Kunoichi | 184244 | [184244-kunoichi.json](./184244-kunoichi.json) |
 | Kunoichi Beat | 369589 | [369589-kunoichi-beat.json](./369589-kunoichi-beat.json) |
 | Kunoichi Botan | 82818 | [82818-kunoichi-botan.json](./82818-kunoichi-botan.json) |
