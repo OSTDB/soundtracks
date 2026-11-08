@@ -11549,6 +11549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Router | 68936 | [68936-router.json](./68936-router.json) |
 | Routes | 112509 | [112509-routes.json](./112509-routes.json) |
 | RouteWhom | 394513 | [394513-routewhom.json](./394513-routewhom.json) |
+| Routine | 134160 | [134160-routine.json](./134160-routine.json) |
 | Routine | 308460 | [308460-routine.json](./308460-routine.json) |
 | Routine | 8948 | [8948-routine.json](./8948-routine.json) |
 | Routine Checkup | 245357 | [245357-routine-checkup.json](./245357-routine-checkup.json) |
