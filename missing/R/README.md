@@ -2744,6 +2744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re/terra | 259049 | [259049-re-terra.json](./259049-re-terra.json) |
 | Re≒Connect Exit Loop | 288224 | [288224-re-connect-exit-loop.json](./288224-re-connect-exit-loop.json) |
 | RE0: VTuber Life | 370680 | [370680-re0-vtuber-life.json](./370680-re0-vtuber-life.json) |
+| Reach | 129315 | [129315-reach.json](./129315-reach.json) |
 | Reach | 130790 | [130790-reach.json](./130790-reach.json) |
 | Reach | 212563 | [212563-reach.json](./212563-reach.json) |
 | Reach | 347893 | [347893-reach.json](./347893-reach.json) |
