@@ -5778,6 +5778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defective | 343738 | [343738-defective.json](./343738-defective.json) |
 | Defective | 55730 | [55730-defective.json](./55730-defective.json) |
 | Defective Holiday | 133630 | [133630-defective-holiday.json](./133630-defective-holiday.json) |
+| Defector | 96397 | [96397-defector.json](./96397-defector.json) |
 | Defence Agent Gaya | 82906 | [82906-defence-agent-gaya.json](./82906-defence-agent-gaya.json) |
 | Defence Mission | 246324 | [246324-defence-mission.json](./246324-defence-mission.json) |
 | Defence of the Arcane Realms | 298679 | [298679-defence-of-the-arcane-realms.json](./298679-defence-of-the-arcane-realms.json) |
@@ -18318,6 +18319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dump of the Dead X | 368232 | [368232-dump-of-the-dead-x.json](./368232-dump-of-the-dead-x.json) |
 | Dump The Corpse | 288818 | [288818-dump-the-corpse.json](./288818-dump-the-corpse.json) |
 | Dump Truck Offroad Driver 3D | 104638 | [104638-dump-truck-offroad-driver-3d.json](./104638-dump-truck-offroad-driver-3d.json) |
+| Dump Truck: Skid Loader | 96787 | [96787-dump-truck-skid-loader.json](./96787-dump-truck-skid-loader.json) |
 | Dumpling | 377844 | [377844-dumpling.json](./377844-dumpling.json) |
 | Dumpling Together | 339108 | [339108-dumpling-together.json](./339108-dumpling-together.json) |
 | Dumpster Baby | 350493 | [350493-dumpster-baby.json](./350493-dumpster-baby.json) |
