@@ -1940,6 +1940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzle. Women's Day | 105903 | [105903-jigsaw-puzzle-womens-day.json](./105903-jigsaw-puzzle-womens-day.json) |
 | Jigsaw Puzzles | 357894 | [357894-jigsaw-puzzles.json](./357894-jigsaw-puzzles.json) |
 | Jigsaw Puzzles | 91249 | [91249-jigsaw-puzzles.json](./91249-jigsaw-puzzles.json) |
+| Jigsaw Puzzles - Games for Girls | 90029 | [90029-jigsaw-puzzles-games-for-girls.json](./90029-jigsaw-puzzles-games-for-girls.json) |
 | Jigsaw Puzzles All in One | 239115 | [239115-jigsaw-puzzles-all-in-one.json](./239115-jigsaw-puzzles-all-in-one.json) |
 | Jigsaw Puzzles Epic | 83424 | [83424-jigsaw-puzzles-epic.json](./83424-jigsaw-puzzles-epic.json) |
 | Jigsaw Puzzles for Kids and Adults: Cute | 162232 | [162232-jigsaw-puzzles-for-kids-and-adults-cute.json](./162232-jigsaw-puzzles-for-kids-and-adults-cute.json) |
