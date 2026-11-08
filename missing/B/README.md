@@ -977,7 +977,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4934,6 +4933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beads of orange glass | 205106 | [205106-beads-of-orange-glass.json](./205106-beads-of-orange-glass.json) |
 | BeadsPopper | 258827 | [258827-beadspopper.json](./258827-beadspopper.json) |
 | Beak Island Visitor Center | 339964 | [339964-beak-island-visitor-center.json](./339964-beak-island-visitor-center.json) |
+| Beak Squadron | 113233 | [113233-beak-squadron.json](./113233-beak-squadron.json) |
 | Beaked Buccaneer | 302070 | [302070-beaked-buccaneer.json](./302070-beaked-buccaneer.json) |
 | Beakiez | 94134 | [94134-beakiez.json](./94134-beakiez.json) |
 | Beaks of Rage | 183704 | [183704-beaks-of-rage.json](./183704-beaks-of-rage.json) |
@@ -18592,6 +18592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Butt-Ugly Martians: Martian Boot Camp | 124373 | [124373-butt-ugly-martians-martian-boot-camp.json](./124373-butt-ugly-martians-martian-boot-camp.json) |
 | Butt-Ugly Martians: Zoom or Doom | 3841 | [3841-butt-ugly-martians-zoom-or-doom.json](./3841-butt-ugly-martians-zoom-or-doom.json) |
 | Butter & Friends Babysitter Sim | 75148 | [75148-butter-and-friends-babysitter-sim.json](./75148-butter-and-friends-babysitter-sim.json) |
+| Butterbies | 113214 | [113214-butterbies.json](./113214-butterbies.json) |
 | ButteredLilly's Random Quotes & Avatar Remote | 303716 | [303716-butteredlillys-random-quotes-and-avatar-remote.json](./303716-butteredlillys-random-quotes-and-avatar-remote.json) |
 | Butterflies | 249568 | [249568-butterflies.json](./249568-butterflies.json) |
 | Butterflies Bundle | 164787 | [164787-butterflies-bundle.json](./164787-butterflies-bundle.json) |
