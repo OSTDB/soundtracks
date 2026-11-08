@@ -2226,6 +2226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Home Invaders | 289287 | [289287-paranormal-home-invaders.json](./289287-paranormal-home-invaders.json) |
 | Paranormal Hunter | 216642 | [216642-paranormal-hunter.json](./216642-paranormal-hunter.json) |
 | Paranormal Inc. | 277104 | [277104-paranormal-inc.json](./277104-paranormal-inc.json) |
+| Paranormal Intelligence Bureau | 114618 | [114618-paranormal-intelligence-bureau.json](./114618-paranormal-intelligence-bureau.json) |
 | Paranormal Meatball Simulator | 408008 | [408008-paranormal-meatball-simulator.json](./408008-paranormal-meatball-simulator.json) |
 | Paranormal Mission | 247120 | [247120-paranormal-mission.json](./247120-paranormal-mission.json) |
 | Paranormal Motel | 193401 | [193401-paranormal-motel.json](./193401-paranormal-motel.json) |
@@ -8029,6 +8030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pix Hop | 183359 | [183359-pix-hop.json](./183359-pix-hop.json) |
 | Pix Jungle Adventures | 151602 | [151602-pix-jungle-adventures.json](./151602-pix-jungle-adventures.json) |
 | Pix the Cat | 9374 | [9374-pix-the-cat.json](./9374-pix-the-cat.json) |
+| Pix Tower | 114571 | [114571-pix-tower.json](./114571-pix-tower.json) |
 | Pix! - Virtual Pet Widget Game | 97137 | [97137-pix-virtual-pet-widget-game.json](./97137-pix-virtual-pet-widget-game.json) |
 | Pix'Hard | 320579 | [320579-pixhard.json](./320579-pixhard.json) |
 | Pix'n Love Rush | 42815 | [42815-pixn-love-rush.json](./42815-pixn-love-rush.json) |
@@ -9730,6 +9732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plantverk: Perfectly Plantastic Plant Simulator | 374578 | [374578-plantverk-perfectly-plantastic-plant-simulator.json](./374578-plantverk-perfectly-plantastic-plant-simulator.json) |
 | Planum | 96890 | [96890-planum.json](./96890-planum.json) |
 | Plany Plane | 266545 | [266545-plany-plane.json](./266545-plany-plane.json) |
+| PlanZ | 114588 | [114588-planz.json](./114588-planz.json) |
 | Plaque Attack | 18410 | [18410-plaque-attack.json](./18410-plaque-attack.json) |
 | Plaqueman | 229928 | [229928-plaqueman.json](./229928-plaqueman.json) |
 | Plaquist Simulator | 280140 | [280140-plaquist-simulator.json](./280140-plaquist-simulator.json) |
