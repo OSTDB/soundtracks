@@ -969,6 +969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xplorasi3d 2.0 | 220729 | [220729-xplorasi3d-2-0.json](./220729-xplorasi3d-2-0.json) |
 | Xplore Health | 60391 | [60391-xplore-health.json](./60391-xplore-health.json) |
 | Xplorite | 364273 | [364273-xplorite.json](./364273-xplorite.json) |
+| Xplosiv Top Ten | 94285 | [94285-xplosiv-top-ten.json](./94285-xplosiv-top-ten.json) |
 | Xplosiv Top Ten: Second Edition | 73169 | [73169-xplosiv-top-ten-second-edition.json](./73169-xplosiv-top-ten-second-edition.json) |
 | Xplosive Raccoon | 283861 | [283861-xplosive-raccoon.json](./283861-xplosive-raccoon.json) |
 | XPock | 159775 | [159775-xpock.json](./159775-xpock.json) |
@@ -1017,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xtreme Hover | 103741 | [103741-xtreme-hover.json](./103741-xtreme-hover.json) |
 | Xtreme Paddleball | 89394 | [89394-xtreme-paddleball.json](./89394-xtreme-paddleball.json) |
 | Xtreme Racer | 91106 | [91106-xtreme-racer.json](./91106-xtreme-racer.json) |
+| XTreme Racing | 94272 | [94272-xtreme-racing.json](./94272-xtreme-racing.json) |
 | Xtreme Rally | 28136 | [28136-xtreme-rally.json](./28136-xtreme-rally.json) |
 | Xtreme Speed | 43259 | [43259-xtreme-speed.json](./43259-xtreme-speed.json) |
 | Xtreme Sports | 127512 | [127512-xtreme-sports.json](./127512-xtreme-sports.json) |
