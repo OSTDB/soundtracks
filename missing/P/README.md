@@ -10178,6 +10178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Please Stop Crying | 291230 | [291230-please-stop-crying.json](./291230-please-stop-crying.json) |
 | Please Stop Crying: Terrible Twos | 337110 | [337110-please-stop-crying-terrible-twos.json](./337110-please-stop-crying-terrible-twos.json) |
 | Please Subscribe | 190078 | [190078-please-subscribe.json](./190078-please-subscribe.json) |
+| Please Teach Me Onedari Shogi | 122504 | [122504-please-teach-me-onedari-shogi.json](./122504-please-teach-me-onedari-shogi.json) |
 | Please Tell Me I Love You | 177823 | [177823-please-tell-me-i-love-you.json](./177823-please-tell-me-i-love-you.json) |
 | Please Tell Me You Love Me | 275464 | [275464-please-tell-me-you-love-me.json](./275464-please-tell-me-you-love-me.json) |
 | Please the Gods | 119590 | [119590-please-the-gods.json](./119590-please-the-gods.json) |
@@ -10385,6 +10386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plush Shop Simulator | 349852 | [349852-plush-shop-simulator.json](./349852-plush-shop-simulator.json) |
 | Plush Wars | 88753 | [88753-plush-wars.json](./88753-plush-wars.json) |
 | Plushed | 66532 | [66532-plushed.json](./66532-plushed.json) |
+| Plushees | 122506 | [122506-plushees.json](./122506-plushees.json) |
 | Plushie Bomber | 237083 | [237083-plushie-bomber.json](./237083-plushie-bomber.json) |
 | Plushie Dungeon | 157335 | [157335-plushie-dungeon.json](./157335-plushie-dungeon.json) |
 | Plushie from the Sky | 168705 | [168705-plushie-from-the-sky.json](./168705-plushie-from-the-sky.json) |
@@ -10618,6 +10620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Pandas | 114730 | [114730-pocket-pandas.json](./114730-pocket-pandas.json) |
 | Pocket Penguin: A Game Boy Style Adventure | 157831 | [157831-pocket-penguin-a-game-boy-style-adventure.json](./157831-pocket-penguin-a-game-boy-style-adventure.json) |
 | Pocket Pet | 230730 | [230730-pocket-pet.json](./230730-pocket-pet.json) |
+| Pocket Pets | 122503 | [122503-pocket-pets.json](./122503-pocket-pets.json) |
 | Pocket Ping Pong 2005 | 77092 | [77092-pocket-ping-pong-2005.json](./77092-pocket-ping-pong-2005.json) |
 | Pocket Pioneers | 152388 | [152388-pocket-pioneers.json](./152388-pocket-pioneers.json) |
 | Pocket Pix | 260880 | [260880-pocket-pix.json](./260880-pocket-pix.json) |
@@ -13611,6 +13614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pound of Ground | 16030 | [16030-pound-of-ground.json](./16030-pound-of-ground.json) |
 | Poupée Girl DS | 122303 | [122303-poupee-girl-ds.json](./122303-poupee-girl-ds.json) |
 | Poupée Girl DS 2: Elegant Mint Style | 122302 | [122302-poupee-girl-ds-2-elegant-mint-style.json](./122302-poupee-girl-ds-2-elegant-mint-style.json) |
+| Poupée Girl DS 2: Sweet Pink Style | 122505 | [122505-poupee-girl-ds-2-sweet-pink-style.json](./122505-poupee-girl-ds-2-sweet-pink-style.json) |
 | PoupeIIe of ChimneyTown VR: Into the World | 173997 | [173997-poupeiie-of-chimneytown-vr-into-the-world.json](./173997-poupeiie-of-chimneytown-vr-into-the-world.json) |
 | Poupou's Sausage Shop | 394114 | [394114-poupous-sausage-shop.json](./394114-poupous-sausage-shop.json) |
 | Pour Boy and the Nitro Necromancer | 400895 | [400895-pour-boy-and-the-nitro-necromancer.json](./400895-pour-boy-and-the-nitro-necromancer.json) |
@@ -13911,6 +13915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powered Platformer Bundle | 314861 | [314861-powered-platformer-bundle.json](./314861-powered-platformer-bundle.json) |
 | Powerful Courses | 371123 | [371123-powerful-courses.json](./371123-powerful-courses.json) |
 | Powerful Dabl | 271905 | [271905-powerful-dabl.json](./271905-powerful-dabl.json) |
+| Powerful Golf | 122502 | [122502-powerful-golf.json](./122502-powerful-golf.json) |
 | Powerful Wind, Slicked-back Cabbages | 327360 | [327360-powerful-wind-slicked-back-cabbages.json](./327360-powerful-wind-slicked-back-cabbages.json) |
 | Powerful Wind, Slicked-back Hair, But It’s a Game | 393484 | [393484-powerful-wind-slicked-back-hair-but-it-s-a-game.json](./393484-powerful-wind-slicked-back-hair-but-it-s-a-game.json) |
 | Powerglove | 183459 | [183459-powerglove.json](./183459-powerglove.json) |
@@ -14833,6 +14838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Maker 2 Regeneration | 261795 | [261795-princess-maker-2-regeneration.json](./261795-princess-maker-2-regeneration.json) |
 | Princess Maker 3: Fairy Tales Come True | 43184 | [43184-princess-maker-3-fairy-tales-come-true.json](./43184-princess-maker-3-fairy-tales-come-true.json) |
 | Princess Maker 4 | 72591 | [72591-princess-maker-4.json](./72591-princess-maker-4.json) |
+| Princess Maker 4 DS Special Edition | 122501 | [122501-princess-maker-4-ds-special-edition.json](./122501-princess-maker-4-ds-special-edition.json) |
 | Princess Maker 4 Portable | 205640 | [205640-princess-maker-4-portable.json](./205640-princess-maker-4-portable.json) |
 | Princess Maker Collection | 78302 | [78302-princess-maker-collection.json](./78302-princess-maker-collection.json) |
 | Princess Maker for Kakao | 280048 | [280048-princess-maker-for-kakao.json](./280048-princess-maker-for-kakao.json) |
