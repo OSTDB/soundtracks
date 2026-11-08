@@ -3373,6 +3373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cash Sprint | 384674 | [384674-cash-sprint.json](./384674-cash-sprint.json) |
 | Cash Wash Simulator | 351092 | [351092-cash-wash-simulator.json](./351092-cash-wash-simulator.json) |
 | Cash_Out | 35167 | [35167-cash-out.json](./35167-cash-out.json) |
+| Cash, Inc. Fame & Fortune Game | 87656 | [87656-cash-inc-fame-and-fortune-game.json](./87656-cash-inc-fame-and-fortune-game.json) |
 | Cashand Case | 183822 | [183822-cashand-case.json](./183822-cashand-case.json) |
 | Cashew Clicker | 338493 | [338493-cashew-clicker.json](./338493-cashew-clicker.json) |
 | Cashgrab | 418216 | [418216-cashgrab.json](./418216-cashgrab.json) |
@@ -4068,6 +4069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Clinic Simulator: Vet Hospital | 364075 | [364075-cat-clinic-simulator-vet-hospital.json](./364075-cat-clinic-simulator-vet-hospital.json) |
 | Cat Colony Crisis | 157962 | [157962-cat-colony-crisis.json](./157962-cat-colony-crisis.json) |
 | Cat Commandos | 235009 | [235009-cat-commandos.json](./235009-cat-commandos.json) |
+| Cat Condo | 87500 | [87500-cat-condo.json](./87500-cat-condo.json) |
 | Cat Cosmic Puzzle | 347317 | [347317-cat-cosmic-puzzle.json](./347317-cat-cosmic-puzzle.json) |
 | Cat Couple | 334804 | [334804-cat-couple.json](./334804-cat-couple.json) |
 | Cat Craft | 404190 | [404190-cat-craft.json](./404190-cat-craft.json) |
@@ -5423,6 +5425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cell Command | 323507 | [323507-cell-command.json](./323507-cell-command.json) |
 | Cell Corp | 256163 | [256163-cell-corp.json](./256163-cell-corp.json) |
 | Cell Defender | 343599 | [343599-cell-defender.json](./343599-cell-defender.json) |
+| Cell Fortress | 87502 | [87502-cell-fortress.json](./87502-cell-fortress.json) |
 | Cell HD: emergence | 36137 | [36137-cell-hd-emergence.json](./36137-cell-hd-emergence.json) |
 | Cell Machine | 154821 | [154821-cell-machine.json](./154821-cell-machine.json) |
 | Cell Machine Indev | 250543 | [250543-cell-machine-indev.json](./250543-cell-machine-indev.json) |
@@ -6953,6 +6956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess 2 | 296807 | [296807-chess-2.json](./296807-chess-2.json) |
 | Chess 2 | 399406 | [399406-chess-2.json](./399406-chess-2.json) |
 | Chess 2000 | 286368 | [286368-chess-2000.json](./286368-chess-2000.json) |
+| Chess 2017 | 87454 | [87454-chess-2017.json](./87454-chess-2017.json) |
 | Chess 2048 | 373335 | [373335-chess-2048.json](./373335-chess-2048.json) |
 | Chess 3D Ultimate | 99917 | [99917-chess-3d-ultimate.json](./99917-chess-3d-ultimate.json) |
 | Chess 4 Uzebox | 311361 | [311361-chess-4-uzebox.json](./311361-chess-4-uzebox.json) |
@@ -10287,6 +10291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clay Champ | 60461 | [60461-clay-champ.json](./60461-clay-champ.json) |
 | Clay God | 303753 | [303753-clay-god.json](./303753-clay-god.json) |
 | Clay Hunt | 175235 | [175235-clay-hunt.json](./175235-clay-hunt.json) |
+| Clay Hunt PRO | 87495 | [87495-clay-hunt-pro.json](./87495-clay-hunt-pro.json) |
 | Clay Jam | 299181 | [299181-clay-jam.json](./299181-clay-jam.json) |
 | Clay Knight | 316853 | [316853-clay-knight.json](./316853-clay-knight.json) |
 | Clay Puzzle | 391201 | [391201-clay-puzzle.json](./391201-clay-puzzle.json) |
@@ -12547,6 +12552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring 2 | 108638 | [108638-coloring-2.json](./108638-coloring-2.json) |
 | Coloring Animal Zoo Touch to Color Activity Coloring Book for Kids and Family Preschool Ultimate Edition | 232167 | [232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json](./232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json) |
 | Coloring Book | 338878 | [338878-coloring-book.json](./338878-coloring-book.json) |
+| Coloring Book - Children | 87521 | [87521-coloring-book-children.json](./87521-coloring-book-children.json) |
 | Coloring Book - Dogs | 88337 | [88337-coloring-book-dogs.json](./88337-coloring-book-dogs.json) |
 | Coloring Book - Dogs MAX | 89717 | [89717-coloring-book-dogs-max.json](./89717-coloring-book-dogs-max.json) |
 | Coloring Book - Easter MAX | 104708 | [104708-coloring-book-easter-max.json](./104708-coloring-book-easter-max.json) |
@@ -16564,6 +16570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craftaway | 355032 | [355032-craftaway.json](./355032-craftaway.json) |
 | Craftbound | 216119 | [216119-craftbound.json](./216119-craftbound.json) |
 | CraftCraft: Fantasy Merchant Simulator | 249178 | [249178-craftcraft-fantasy-merchant-simulator.json](./249178-craftcraft-fantasy-merchant-simulator.json) |
+| CraftedBattle | 87469 | [87469-craftedbattle.json](./87469-craftedbattle.json) |
 | Crafter | 326042 | [326042-crafter.json](./326042-crafter.json) |
 | Crafter Game - Incremental Puzzle RPG Game | 25737 | [25737-crafter-game-incremental-puzzle-rpg-game.json](./25737-crafter-game-incremental-puzzle-rpg-game.json) |
 | Crafter's Hollow | 369361 | [369361-crafters-hollow.json](./369361-crafters-hollow.json) |
