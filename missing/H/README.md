@@ -2095,6 +2095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hariti | 406882 | [406882-hariti.json](./406882-hariti.json) |
 | Hark the Ghoul | 318359 | [318359-hark-the-ghoul.json](./318359-hark-the-ghoul.json) |
 | Harker | 79127 | [79127-harker.json](./79127-harker.json) |
+| Harlem Beat: You're the One | 124338 | [124338-harlem-beat-youre-the-one.json](./124338-harlem-beat-youre-the-one.json) |
 | Harlem Blade II: Dark Angel | 249630 | [249630-harlem-blade-ii-dark-angel.json](./249630-harlem-blade-ii-dark-angel.json) |
 | Harlem Blade: The Greatest of All Time | 187208 | [187208-harlem-blade-the-greatest-of-all-time.json](./187208-harlem-blade-the-greatest-of-all-time.json) |
 | Harlem Globetrotters | 245468 | [245468-harlem-globetrotters.json](./245468-harlem-globetrotters.json) |
@@ -3420,6 +3421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart's Medicine: Time to Heal | 32311 | [32311-hearts-medicine-time-to-heal.json](./32311-hearts-medicine-time-to-heal.json) |
 | Heart&Slash | 17911 | [17911-heart-and-slash.json](./17911-heart-and-slash.json) |
 | Heartache | 57687 | [57687-heartache.json](./57687-heartache.json) |
+| Heartache 101: Sour into Sweet | 124365 | [124365-heartache-101-sour-into-sweet.json](./124365-heartache-101-sour-into-sweet.json) |
 | HeartandAxe | 114060 | [114060-heartandaxe.json](./114060-heartandaxe.json) |
 | Heartbaked | 177504 | [177504-heartbaked.json](./177504-heartbaked.json) |
 | Heartbeat | 176978 | [176978-heartbeat.json](./176978-heartbeat.json) |
@@ -6361,6 +6363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Rally | 199693 | [199693-heroes-rally.json](./199693-heroes-rally.json) |
 | Heroes Ravage | 114433 | [114433-heroes-ravage.json](./114433-heroes-ravage.json) |
 | Heroes Reborn: Enigma | 59663 | [59663-heroes-reborn-enigma.json](./59663-heroes-reborn-enigma.json) |
+| Heroes Restaurant | 124352 | [124352-heroes-restaurant.json](./124352-heroes-restaurant.json) |
 | Heroes Revolution | 176581 | [176581-heroes-revolution.json](./176581-heroes-revolution.json) |
 | Heroes Rise Trilogy | 53192 | [53192-heroes-rise-trilogy.json](./53192-heroes-rise-trilogy.json) |
 | Heroes Rise: The Hero Project | 17490 | [17490-heroes-rise-the-hero-project.json](./17490-heroes-rise-the-hero-project.json) |
@@ -11806,6 +11809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hum | 192683 | [192683-hum.json](./192683-hum.json) |
 | Hum Drum Experiences | 109300 | [109300-hum-drum-experiences.json](./109300-hum-drum-experiences.json) |
 | Human | 133865 | [133865-human.json](./133865-human.json) |
+| Human Anatomy VR | 124366 | [124366-human-anatomy-vr.json](./124366-human-anatomy-vr.json) |
 | Human Apocalypse | 193086 | [193086-human-apocalypse.json](./193086-human-apocalypse.json) |
 | Human Baseball | 38342 | [38342-human-baseball.json](./38342-human-baseball.json) |
 | Human Beings' Extinction Day: 2074 | 316673 | [316673-human-beings-extinction-day-2074.json](./316673-human-beings-extinction-day-2074.json) |
