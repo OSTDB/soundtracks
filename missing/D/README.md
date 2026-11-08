@@ -2564,6 +2564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashy Square VR | 32253 | [32253-dashy-square-vr.json](./32253-dashy-square-vr.json) |
 | DaSi | 80637 | [80637-dasi.json](./80637-dasi.json) |
 | Dasra's Cabinet | 139693 | [139693-dasras-cabinet.json](./139693-dasras-cabinet.json) |
+| Dass: Den Haandholdte Troldmann | 114606 | [114606-dass-den-haandholdte-troldmann.json](./114606-dass-den-haandholdte-troldmann.json) |
 | Dasshutsu Adventure: Akumu no Shinigami Ressha | 222386 | [222386-dasshutsu-adventure-akumu-no-shinigami-ressha.json](./222386-dasshutsu-adventure-akumu-no-shinigami-ressha.json) |
 | Dasshutsu Adventure: Dai Nana no Yogen | 222376 | [222376-dasshutsu-adventure-dai-nana-no-yogen.json](./222376-dasshutsu-adventure-dai-nana-no-yogen.json) |
 | Dasshutsu Adventure: Kamioroshi no Uranai-ban | 222378 | [222378-dasshutsu-adventure-kamioroshi-no-uranai-ban.json](./222378-dasshutsu-adventure-kamioroshi-no-uranai-ban.json) |
@@ -2703,6 +2704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Date with Foxgirl | 250007 | [250007-date-with-foxgirl.json](./250007-date-with-foxgirl.json) |
 | Date with Modeus | 314747 | [314747-date-with-modeus.json](./314747-date-with-modeus.json) |
 | Date With the Night | 280293 | [280293-date-with-the-night.json](./280293-date-with-the-night.json) |
+| Date Write | 114601 | [114601-date-write.json](./114601-date-write.json) |
 | Date Z: Hazardous Amour Pack | 316200 | [316200-date-z-hazardous-amour-pack.json](./316200-date-z-hazardous-amour-pack.json) |
 | Date Z: Romance Completionist Pack | 316201 | [316201-date-z-romance-completionist-pack.json](./316201-date-z-romance-completionist-pack.json) |
 | Date Z: Special Report Pack | 316202 | [316202-date-z-special-report-pack.json](./316202-date-z-special-report-pack.json) |
