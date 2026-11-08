@@ -1466,6 +1466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Canis Major | 208659 | [208659-canis-major.json](./208659-canis-major.json) |
 | Canis Major Alpha | 316660 | [316660-canis-major-alpha.json](./316660-canis-major-alpha.json) |
 | Canjin | 345194 | [345194-canjin.json](./345194-canjin.json) |
+| Cannabis | 121862 | [121862-cannabis.json](./121862-cannabis.json) |
 | Cannabis Farmer Strain Master | 159481 | [159481-cannabis-farmer-strain-master.json](./159481-cannabis-farmer-strain-master.json) |
 | Cannabis Store Simulator | 359338 | [359338-cannabis-store-simulator.json](./359338-cannabis-store-simulator.json) |
 | Cannabiz: Weed Shop Owner | 391640 | [391640-cannabiz-weed-shop-owner.json](./391640-cannabiz-weed-shop-owner.json) |
@@ -5826,6 +5827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenger | 176104 | [176104-challenger.json](./176104-challenger.json) |
 | Challenger Tank | 70869 | [70869-challenger-tank.json](./70869-challenger-tank.json) |
 | Challengers of Khalea | 76622 | [76622-challengers-of-khalea.json](./76622-challengers-of-khalea.json) |
+| Challenging Dogfights | 121843 | [121843-challenging-dogfights.json](./121843-challenging-dogfights.json) |
 | Challenging Land | 357824 | [357824-challenging-land.json](./357824-challenging-land.json) |
 | Chalo Chalo | 34292 | [34292-chalo-chalo.json](./34292-chalo-chalo.json) |
 | Chalvo 55: Super Puzzle Action | 7821 | [7821-chalvo-55-super-puzzle-action.json](./7821-chalvo-55-super-puzzle-action.json) |
@@ -12170,6 +12172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColonyShip-4: Survivors | 110378 | [110378-colonyship-4-survivors.json](./110378-colonyship-4-survivors.json) |
 | colopl Cyberpong VR | 110303 | [110303-colopl-cyberpong-vr.json](./110303-colopl-cyberpong-vr.json) |
 | Color | 90638 | [90638-color.json](./90638-color.json) |
+| Color + | 121846 | [121846-color.json](./121846-color.json) |
 | Color 2018 Switch | 105828 | [105828-color-2018-switch.json](./105828-color-2018-switch.json) |
 | Color 360 | 26936 | [26936-color-360.json](./26936-color-360.json) |
 | Color a Dinosaur SNES Port | 377225 | [377225-color-a-dinosaur-snes-port.json](./377225-color-a-dinosaur-snes-port.json) |
@@ -12987,6 +12990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come Home. | 203971 | [203971-come-home.json](./203971-come-home.json) |
 | Come In | 408520 | [408520-come-in.json](./408520-come-in.json) |
 | Come Inside My Inner World | 156615 | [156615-come-inside-my-inner-world.json](./156615-come-inside-my-inner-world.json) |
+| Come on Baby! | 121850 | [121850-come-on-baby.json](./121850-come-on-baby.json) |
 | Come on in! Succubus-san: I'll Have Your Semen Tonight, too Hungry Mere Squeezes Out Your Semen | 385838 | [385838-come-on-in-succubus-san-ill-have-your-semen-tonight-too-hungry-mere-squeezes-out-your-semen.json](./385838-come-on-in-succubus-san-ill-have-your-semen-tonight-too-hungry-mere-squeezes-out-your-semen.json) |
 | Come on Kitty | 214521 | [214521-come-on-kitty.json](./214521-come-on-kitty.json) |
 | Come on Picot | 47559 | [47559-come-on-picot.json](./47559-come-on-picot.json) |
@@ -13866,6 +13870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connie Talbot: Over the Rainbow | 68099 | [68099-connie-talbot-over-the-rainbow.json](./68099-connie-talbot-over-the-rainbow.json) |
 | Conniption: Paranoia | 217392 | [217392-conniption-paranoia.json](./217392-conniption-paranoia.json) |
 | Connor | 218145 | [218145-connor.json](./218145-connor.json) |
+| Connor's Desert Adventure | 121848 | [121848-connors-desert-adventure.json](./121848-connors-desert-adventure.json) |
 | ConOps21: Subversion Protocol | 403782 | [403782-conops21-subversion-protocol.json](./403782-conops21-subversion-protocol.json) |
 | Conor Origins: T Trilogy | 292751 | [292751-conor-origins-t-trilogy.json](./292751-conor-origins-t-trilogy.json) |
 | CONQ: Crown of No Quarter | 416128 | [416128-conq-crown-of-no-quarter.json](./416128-conq-crown-of-no-quarter.json) |
@@ -16945,6 +16950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Bunny | 52320 | [52320-crazy-bunny.json](./52320-crazy-bunny.json) |
 | Crazy Burger | 208796 | [208796-crazy-burger.json](./208796-crazy-burger.json) |
 | Crazy Bus | 268477 | [268477-crazy-bus.json](./268477-crazy-bus.json) |
+| Crazy Cage | 121870 | [121870-crazy-cage.json](./121870-crazy-cage.json) |
 | Crazy Cake Swap | 140740 | [140740-crazy-cake-swap.json](./140740-crazy-cake-swap.json) |
 | Crazy Cakes | 366415 | [366415-crazy-cakes.json](./366415-crazy-cakes.json) |
 | Crazy Cakes 2 | 354969 | [354969-crazy-cakes-2.json](./354969-crazy-cakes-2.json) |
@@ -19860,6 +19866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Culling of Normality | 297105 | [297105-culling-of-normality.json](./297105-culling-of-normality.json) |
 | Culling of the Cows | 52335 | [52335-culling-of-the-cows.json](./52335-culling-of-the-cows.json) |
 | Culot.io | 146486 | [146486-culot-io.json](./146486-culot-io.json) |
+| Cult | 121876 | [121876-cult.json](./121876-cult.json) |
 | Cult | 68774 | [68774-cult.json](./68774-cult.json) |
 | Cult 2112 | 119553 | [119553-cult-2112.json](./119553-cult-2112.json) |
 | Cult Adorable | 276779 | [276779-cult-adorable.json](./276779-cult-adorable.json) |
@@ -20049,6 +20056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cure Obsession | 168525 | [168525-cure-obsession.json](./168525-cure-obsession.json) |
 | Cure: A Hospital Simulator | 376110 | [376110-cure-a-hospital-simulator.json](./376110-cure-a-hospital-simulator.json) |
 | Cureocity | 275979 | [275979-cureocity.json](./275979-cureocity.json) |
+| Cures & Curios | 121841 | [121841-cures-and-curios.json](./121841-cures-and-curios.json) |
 | Curfew | 259148 | [259148-curfew.json](./259148-curfew.json) |
 | Curfuffles | 255036 | [255036-curfuffles.json](./255036-curfuffles.json) |
 | Curilemu | 305090 | [305090-curilemu.json](./305090-curilemu.json) |
@@ -21116,6 +21124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberRoom | 339358 | [339358-cyberroom.json](./339358-cyberroom.json) |
 | Cyberrrevolution | 180211 | [180211-cyberrrevolution.json](./180211-cyberrrevolution.json) |
 | Cyberrunner | 212337 | [212337-cyberrunner.json](./212337-cyberrunner.json) |
+| CyberRunner | 121864 | [121864-cyberrunner.json](./121864-cyberrunner.json) |
 | CyberRunner | 131714 | [131714-cyberrunner.json](./131714-cyberrunner.json) |
 | CyberRush | 276215 | [276215-cyberrush.json](./276215-cyberrush.json) |
 | Cybersaurs: Dinosaurs in Space | 185468 | [185468-cybersaurs-dinosaurs-in-space.json](./185468-cybersaurs-dinosaurs-in-space.json) |
