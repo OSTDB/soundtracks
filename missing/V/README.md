@@ -3160,6 +3160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vivere Retro | 388422 | [388422-vivere-retro.json](./388422-vivere-retro.json) |
 | ViveSpray | 32282 | [32282-vivespray.json](./32282-vivespray.json) |
 | ViveSpray 2 | 83170 | [83170-vivespray-2.json](./83170-vivespray-2.json) |
+| Vivez Versailles | 104854 | [104854-vivez-versailles.json](./104854-vivez-versailles.json) |
 | Vivian and Kyuma | 282021 | [282021-vivian-and-kyuma.json](./282021-vivian-and-kyuma.json) |
 | Vivian Carmine | 247873 | [247873-vivian-carmine.json](./247873-vivian-carmine.json) |
 | Vivian Clark | 63544 | [63544-vivian-clark.json](./63544-vivian-clark.json) |
