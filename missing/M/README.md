@@ -4610,6 +4610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Martian Gothic: Unification | 24120 | [24120-martian-gothic-unification.json](./24120-martian-gothic-unification.json) |
 | Martian Invaders | 223235 | [223235-martian-invaders.json](./223235-martian-invaders.json) |
 | Martian Law | 121987 | [121987-martian-law.json](./121987-martian-law.json) |
+| Martian Middle School Dance | 128734 | [128734-martian-middle-school-dance.json](./128734-martian-middle-school-dance.json) |
 | Martian Panic | 4996 | [4996-martian-panic.json](./4996-martian-panic.json) |
 | Martian Potato | 157041 | [157041-martian-potato.json](./157041-martian-potato.json) |
 | Martian Routine | 302311 | [302311-martian-routine.json](./302311-martian-routine.json) |
@@ -8061,6 +8062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Miracle Force | 114784 | [114784-mega-miracle-force.json](./114784-mega-miracle-force.json) |
 | Mega Monkey Brawl | 374002 | [374002-mega-monkey-brawl.json](./374002-mega-monkey-brawl.json) |
 | Mega Monster | 217678 | [217678-mega-monster.json](./217678-mega-monster.json) |
+| Mega Monster Battle: Ultra Coliseum DX - The Gathering of The Ultra Heroes! | 128724 | [128724-mega-monster-battle-ultra-coliseum-dx-the-gathering-of-the-ultra-heroes.json](./128724-mega-monster-battle-ultra-coliseum-dx-the-gathering-of-the-ultra-heroes.json) |
 | Mega Monster Mania | 51659 | [51659-mega-monster-mania.json](./51659-mega-monster-mania.json) |
 | Mega Monster Party | 165840 | [165840-mega-monster-party.json](./165840-mega-monster-party.json) |
 | Mega Mosaic | 298374 | [298374-mega-mosaic.json](./298374-mega-mosaic.json) |
@@ -21047,6 +21049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Jurassic Farm | 61473 | [61473-my-jurassic-farm.json](./61473-my-jurassic-farm.json) |
 | My Jurassic Farm 2018 | 117979 | [117979-my-jurassic-farm-2018.json](./117979-my-jurassic-farm-2018.json) |
 | My Keyboard is Full of Ants! | 408597 | [408597-my-keyboard-is-full-of-ants.json](./408597-my-keyboard-is-full-of-ants.json) |
+| My Kindness is Not an Invitation For You to Touch Me | 128743 | [128743-my-kindness-is-not-an-invitation-for-you-to-touch-me.json](./128743-my-kindness-is-not-an-invitation-for-you-to-touch-me.json) |
 | My Kingdom For the Princess | 137037 | [137037-my-kingdom-for-the-princess.json](./137037-my-kingdom-for-the-princess.json) |
 | My Kingdom for the Princess II | 259831 | [259831-my-kingdom-for-the-princess-ii.json](./259831-my-kingdom-for-the-princess-ii.json) |
 | My Kingdom for the Princess II HD | 102140 | [102140-my-kingdom-for-the-princess-ii-hd.json](./102140-my-kingdom-for-the-princess-ii-hd.json) |
