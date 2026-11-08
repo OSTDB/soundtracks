@@ -10617,7 +10617,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disintegration | 259396 | [259396-disintegration.json](./259396-disintegration.json) |
 | Disir | 183106 | [183106-disir.json](./183106-disir.json) |
 | Disjoined | 410204 | [410204-disjoined.json](./410204-disjoined.json) |
-| Disjunction | 112005 | [112005-disjunction.json](./112005-disjunction.json) |
 | Disjunction | 313830 | [313830-disjunction.json](./313830-disjunction.json) |
 | Disk Dashers | 244739 | [244739-disk-dashers.json](./244739-disk-dashers.json) |
 | Disk Jockey Boy | 46220 | [46220-disk-jockey-boy.json](./46220-disk-jockey-boy.json) |
