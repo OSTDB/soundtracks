@@ -727,6 +727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paint For Kids | 400062 | [400062-paint-for-kids.json](./400062-paint-for-kids.json) |
 | Paint Fruit Crush | 240854 | [240854-paint-fruit-crush.json](./240854-paint-fruit-crush.json) |
 | Paint Gal Adventures | 388227 | [388227-paint-gal-adventures.json](./388227-paint-gal-adventures.json) |
+| Paint Game | 134793 | [134793-paint-game.json](./134793-paint-game.json) |
 | Paint Gang | 419878 | [419878-paint-gang.json](./419878-paint-gang.json) |
 | Paint Girl | 169663 | [169663-paint-girl.json](./169663-paint-girl.json) |
 | Paint Hit | 102784 | [102784-paint-hit.json](./102784-paint-hit.json) |
@@ -5128,6 +5129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pettson's Inventions 4 | 352523 | [352523-pettsons-inventions-4.json](./352523-pettsons-inventions-4.json) |
 | Pettsons julspel | 286111 | [286111-pettsons-julspel.json](./286111-pettsons-julspel.json) |
 | Petty Officer | 301468 | [301468-petty-officer.json](./301468-petty-officer.json) |
+| Petty Puny Planet | 134788 | [134788-petty-puny-planet.json](./134788-petty-puny-planet.json) |
 | Petty Ungodliness | 411757 | [411757-petty-ungodliness.json](./411757-petty-ungodliness.json) |
 | Petty's Adventure: Desert | 218838 | [218838-pettys-adventure-desert.json](./218838-pettys-adventure-desert.json) |
 | Petty's Adventure: Volcano | 266043 | [266043-pettys-adventure-volcano.json](./266043-pettys-adventure-volcano.json) |
@@ -6821,6 +6823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pin Crasher | 258989 | [258989-pin-crasher.json](./258989-pin-crasher.json) |
 | Pin Hockey: Ice Arena | 140409 | [140409-pin-hockey-ice-arena.json](./140409-pin-hockey-ice-arena.json) |
 | Pin Pong | 18155 | [18155-pin-pong.json](./18155-pin-pong.json) |
+| Pin Puck | 134806 | [134806-pin-puck.json](./134806-pin-puck.json) |
 | Pin Pull | 235022 | [235022-pin-pull.json](./235022-pin-pull.json) |
 | Pin Rescue | 227549 | [227549-pin-rescue.json](./227549-pin-rescue.json) |
 | Pin Strike | 315807 | [315807-pin-strike.json](./315807-pin-strike.json) |
@@ -17664,6 +17667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pumpkin Woods | 293019 | [293019-pumpkin-woods.json](./293019-pumpkin-woods.json) |
 | Pumpkin's Revenge | 341435 | [341435-pumpkins-revenge.json](./341435-pumpkins-revenge.json) |
 | Pumpkinban | 382214 | [382214-pumpkinban.json](./382214-pumpkinban.json) |
+| Pumpking | 134774 | [134774-pumpking.json](./134774-pumpking.json) |
 | Pumpkinman | 266588 | [266588-pumpkinman.json](./266588-pumpkinman.json) |
 | Pumpkins vs. Monsters | 204216 | [204216-pumpkins-vs-monsters.json](./204216-pumpkins-vs-monsters.json) |
 | Pumpomatic | 354764 | [354764-pumpomatic.json](./354764-pumpomatic.json) |
