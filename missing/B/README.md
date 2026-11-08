@@ -5849,6 +5849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Becut | 309665 | [309665-becut.json](./309665-becut.json) |
 | Bed Bounce | 313125 | [313125-bed-bounce.json](./313125-bed-bounce.json) |
 | Bed Bugs! | 15665 | [15665-bed-bugs.json](./15665-bed-bugs.json) |
+| Bed Dream, First Draft | 128740 | [128740-bed-dream-first-draft.json](./128740-bed-dream-first-draft.json) |
 | Bed Hogg | 177698 | [177698-bed-hogg.json](./177698-bed-hogg.json) |
 | Bed Lying Simulator: Girlfriend Experience | 292680 | [292680-bed-lying-simulator-girlfriend-experience.json](./292680-bed-lying-simulator-girlfriend-experience.json) |
 | Bed Survival | 145648 | [145648-bed-survival.json](./145648-bed-survival.json) |
@@ -15268,6 +15269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break Brick Out | 175742 | [175742-break-brick-out.json](./175742-break-brick-out.json) |
 | Break Chance Memento | 33789 | [33789-break-chance-memento.json](./33789-break-chance-memento.json) |
 | Break Dot | 147574 | [147574-break-dot.json](./147574-break-dot.json) |
+| Break Entry | 128754 | [128754-break-entry.json](./128754-break-entry.json) |
 | Break Everything: Living room | 230922 | [230922-break-everything-living-room.json](./230922-break-everything-living-room.json) |
 | Break Everything: Park | 232522 | [232522-break-everything-park.json](./232522-break-everything-park.json) |
 | Break Free | 192595 | [192595-break-free.json](./192595-break-free.json) |
@@ -17638,6 +17640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bump Set Spike! | 13453 | [13453-bump-set-spike.json](./13453-bump-set-spike.json) |
 | Bump Set Spike!: Doubles Volleyball | 83355 | [83355-bump-set-spike-doubles-volleyball.json](./83355-bump-set-spike-doubles-volleyball.json) |
 | Bump Sheep | 253202 | [253202-bump-sheep.json](./253202-bump-sheep.json) |
+| Bump! | 128738 | [128738-bump.json](./128738-bump.json) |
 | BUMP! Superbrawl | 286906 | [286906-bump-superbrawl.json](./286906-bump-superbrawl.json) |
 | Bump.io: Arena of Bumper | 106960 | [106960-bump-io-arena-of-bumper.json](./106960-bump-io-arena-of-bumper.json) |
 | Bump+Smack | 38762 | [38762-bump-smack.json](./38762-bump-smack.json) |
