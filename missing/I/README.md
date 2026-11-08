@@ -1502,6 +1502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Dyson Swarm | 313189 | [313189-idle-dyson-swarm.json](./313189-idle-dyson-swarm.json) |
 | Idle Electro Mage: Item frenzy | 216026 | [216026-idle-electro-mage-item-frenzy.json](./216026-idle-electro-mage-item-frenzy.json) |
 | Idle Elemental | 392446 | [392446-idle-elemental.json](./392446-idle-elemental.json) |
+| Idle Empire 3 | 101712 | [101712-idle-empire-3.json](./101712-idle-empire-3.json) |
 | Idle Empires | 372697 | [372697-idle-empires.json](./372697-idle-empires.json) |
 | Idle Empires | 99913 | [99913-idle-empires.json](./99913-idle-empires.json) |
 | Idle Exorcism Hero | 270167 | [270167-idle-exorcism-hero.json](./270167-idle-exorcism-hero.json) |
@@ -1543,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Hamburgers Save the World | 224215 | [224215-idle-hamburgers-save-the-world.json](./224215-idle-hamburgers-save-the-world.json) |
 | Idle Harem Dungeon | 374907 | [374907-idle-harem-dungeon.json](./374907-idle-harem-dungeon.json) |
 | Idle Heist | 101368 | [101368-idle-heist.json](./101368-idle-heist.json) |
+| Idle Hero Defense | 101713 | [101713-idle-hero-defense.json](./101713-idle-hero-defense.json) |
 | Idle Hero Defense - Fantasy Defense | 109224 | [109224-idle-hero-defense-fantasy-defense.json](./109224-idle-hero-defense-fantasy-defense.json) |
 | Idle Hero TD | 296314 | [296314-idle-hero-td.json](./296314-idle-hero-td.json) |
 | Idle Hero World | 127210 | [127210-idle-hero-world.json](./127210-idle-hero-world.json) |
