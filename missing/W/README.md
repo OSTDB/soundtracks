@@ -462,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walkure Romanze: Shoujo Kishi Monogatari | 194591 | [194591-walkure-romanze-shoujo-kishi-monogatari.json](./194591-walkure-romanze-shoujo-kishi-monogatari.json) |
 | Wall Ball | 282244 | [282244-wall-ball.json](./282244-wall-ball.json) |
 | Wall Ball | 40681 | [40681-wall-ball.json](./40681-wall-ball.json) |
+| Wall Ball | 86140 | [86140-wall-ball.json](./86140-wall-ball.json) |
 | Wall Break | 172658 | [172658-wall-break.json](./172658-wall-break.json) |
 | Wall Clean | 106695 | [106695-wall-clean.json](./106695-wall-clean.json) |
 | Wall Clip | 183028 | [183028-wall-clip.json](./183028-wall-clip.json) |
@@ -3328,6 +3329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weirdshine | 395557 | [395557-weirdshine.json](./395557-weirdshine.json) |
 | Weiss Schwarz Portable: 2nd Turn | 269508 | [269508-weiss-schwarz-portable-2nd-turn.json](./269508-weiss-schwarz-portable-2nd-turn.json) |
 | Weiss Schwarz Portable: Boost Schwarz | 269506 | [269506-weiss-schwarz-portable-boost-schwarz.json](./269506-weiss-schwarz-portable-boost-schwarz.json) |
+| Weiss Schwarz Portable: Boost Weiss | 86166 | [86166-weiss-schwarz-portable-boost-weiss.json](./86166-weiss-schwarz-portable-boost-weiss.json) |
 | Weiter | 190900 | [190900-weiter.json](./190900-weiter.json) |
 | WeJam | 119678 | [119678-wejam.json](./119678-wejam.json) |
 | WekaInvaders | 233320 | [233320-wekainvaders.json](./233320-wekainvaders.json) |
@@ -7223,6 +7225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WolfWars | 10498 | [10498-wolfwars.json](./10498-wolfwars.json) |
 | Wolfy | 131354 | [131354-wolfy.json](./131354-wolfy.json) |
 | Wolley's Dungeon Adventure | 361872 | [361872-wolleys-dungeon-adventure.json](./361872-wolleys-dungeon-adventure.json) |
+| Wòlóng Chuánshuō | 86178 | [86178-wolong-chuanshuo.json](./86178-wolong-chuanshuo.json) |
 | Wolvenrise | 359349 | [359349-wolvenrise.json](./359349-wolvenrise.json) |
 | Wolverine | 365006 | [365006-wolverine.json](./365006-wolverine.json) |
 | Wolverine | 85885 | [85885-wolverine.json](./85885-wolverine.json) |
@@ -8589,6 +8592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Rally 2 | 40571 | [40571-world-rally-2.json](./40571-world-rally-2.json) |
 | World Rally Arcade | 319276 | [319276-world-rally-arcade.json](./319276-world-rally-arcade.json) |
 | World Rally Championship | 8313 | [8313-world-rally-championship.json](./8313-world-rally-championship.json) |
+| World Rally Championship 2011 | 86265 | [86265-world-rally-championship-2011.json](./86265-world-rally-championship-2011.json) |
 | World Rally Fever: Born on the Road | 8494 | [8494-world-rally-fever-born-on-the-road.json](./8494-world-rally-fever-born-on-the-road.json) |
 | World Reborn | 334447 | [334447-world-reborn.json](./334447-world-reborn.json) |
 | World Reborn | 49502 | [49502-world-reborn.json](./49502-world-reborn.json) |
