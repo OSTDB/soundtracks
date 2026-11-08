@@ -7711,6 +7711,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Searcher 3 | 84962 | [84962-word-searcher-3.json](./84962-word-searcher-3.json) |
 | Word Searcher 4 | 84939 | [84939-word-searcher-4.json](./84939-word-searcher-4.json) |
 | Word Searcher Deluxe | 62037 | [62037-word-searcher-deluxe.json](./62037-word-searcher-deluxe.json) |
+| Word Searcher II | 124335 | [124335-word-searcher-ii.json](./124335-word-searcher-ii.json) |
+| Word Searcher III | 124336 | [124336-word-searcher-iii.json](./124336-word-searcher-iii.json) |
+| Word Searcher IV | 124334 | [124334-word-searcher-iv.json](./124334-word-searcher-iv.json) |
 | Word Seek English Unlimited | 103874 | [103874-word-seek-english-unlimited.json](./103874-word-seek-english-unlimited.json) |
 | Word Shaker HD | 97195 | [97195-word-shaker-hd.json](./97195-word-shaker-hd.json) |
 | Word Shop - Brain Puzzle Games | 101487 | [101487-word-shop-brain-puzzle-games.json](./101487-word-shop-brain-puzzle-games.json) |
