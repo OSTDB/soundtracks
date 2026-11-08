@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halcyon | 201627 | [201627-halcyon.json](./201627-halcyon.json) |
 | Halcyon | 383189 | [383189-halcyon.json](./383189-halcyon.json) |
 | Halcyon 6: Starbase Commander Lightspeed Edition | 90955 | [90955-halcyon-6-starbase-commander-lightspeed-edition.json](./90955-halcyon-6-starbase-commander-lightspeed-edition.json) |
+| Halcyon 6: The Precursor Legacy | 124896 | [124896-halcyon-6-the-precursor-legacy.json](./124896-halcyon-6-the-precursor-legacy.json) |
 | Halcyon Days | 274472 | [274472-halcyon-days.json](./274472-halcyon-days.json) |
 | Halcyon Days at Taoyuan | 347560 | [347560-halcyon-days-at-taoyuan.json](./347560-halcyon-days-at-taoyuan.json) |
 | Halcyon Sun: Episodes 1 & 2 | 24172 | [24172-halcyon-sun-episodes-1-and-2.json](./24172-halcyon-sun-episodes-1-and-2.json) |
@@ -1299,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand of Daggers | 398393 | [398393-hand-of-daggers.json](./398393-hand-of-daggers.json) |
 | Hand of Doom | 201681 | [201681-hand-of-doom.json](./201681-hand-of-doom.json) |
 | Hand of Fate 2 | 18645 | [18645-hand-of-fate-2.json](./18645-hand-of-fate-2.json) |
+| Hand of Fate 2: A Cold Hearth | 124931 | [124931-hand-of-fate-2-a-cold-hearth.json](./124931-hand-of-fate-2-a-cold-hearth.json) |
 | Hand of Fate 2: Outlands and Outsiders | 155303 | [155303-hand-of-fate-2-outlands-and-outsiders.json](./155303-hand-of-fate-2-outlands-and-outsiders.json) |
 | Hand of Fate 2: The Servant and the Beast | 111062 | [111062-hand-of-fate-2-the-servant-and-the-beast.json](./111062-hand-of-fate-2-the-servant-and-the-beast.json) |
 | Hand of Fate: Deluxe Edition | 118664 | [118664-hand-of-fate-deluxe-edition.json](./118664-hand-of-fate-deluxe-edition.json) |
@@ -6238,6 +6240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Hammerwatch II | 319818 | [319818-heroes-of-hammerwatch-ii.json](./319818-heroes-of-hammerwatch-ii.json) |
 | Heroes of Hammerwatch II: Celestial Ruins | 411671 | [411671-heroes-of-hammerwatch-ii-celestial-ruins.json](./411671-heroes-of-hammerwatch-ii-celestial-ruins.json) |
 | Heroes of Hammerwatch: Pyramid of Prophecy | 125001 | [125001-heroes-of-hammerwatch-pyramid-of-prophecy.json](./125001-heroes-of-hammerwatch-pyramid-of-prophecy.json) |
+| Heroes of Hammerwatch: Witch Hunter | 124902 | [124902-heroes-of-hammerwatch-witch-hunter.json](./124902-heroes-of-hammerwatch-witch-hunter.json) |
 | Heroes of Havoc: Idle Adventures | 26171 | [26171-heroes-of-havoc-idle-adventures.json](./26171-heroes-of-havoc-idle-adventures.json) |
 | Heroes of Hellas | 54097 | [54097-heroes-of-hellas.json](./54097-heroes-of-hellas.json) |
 | Heroes of Hellas 2: Olympia | 54096 | [54096-heroes-of-hellas-2-olympia.json](./54096-heroes-of-hellas-2-olympia.json) |
