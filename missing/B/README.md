@@ -10268,6 +10268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleeding Code | 328968 | [328968-bleeding-code.json](./328968-bleeding-code.json) |
 | Bleeding Deities | 244407 | [244407-bleeding-deities.json](./244407-bleeding-deities.json) |
 | Bleeding Kansas | 51939 | [51939-bleeding-kansas.json](./51939-bleeding-kansas.json) |
+| Bleeding Knife | 89339 | [89339-bleeding-knife.json](./89339-bleeding-knife.json) |
 | Bleeding Metal Rainbow | 368730 | [368730-bleeding-metal-rainbow.json](./368730-bleeding-metal-rainbow.json) |
 | Bleeding Moons | 109914 | [109914-bleeding-moons.json](./109914-bleeding-moons.json) |
 | Bleeding Neon | 184764 | [184764-bleeding-neon.json](./184764-bleeding-neon.json) |
@@ -16032,6 +16033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge to Another World: Through the Looking Glass - Collector's Edition | 397098 | [397098-bridge-to-another-world-through-the-looking-glass-collectors-edition.json](./397098-bridge-to-another-world-through-the-looking-glass-collectors-edition.json) |
 | Bridge to the East | 178132 | [178132-bridge-to-the-east.json](./178132-bridge-to-the-east.json) |
 | Bridge Training | 206493 | [206493-bridge-training.json](./206493-bridge-training.json) |
+| Bridge Trek | 89328 | [89328-bridge-trek.json](./89328-bridge-trek.json) |
 | Bridge-It | 12983 | [12983-bridge-it.json](./12983-bridge-it.json) |
 | Bridge! | 36304 | [36304-bridge.json](./36304-bridge.json) |
 | Bridge! 2 | 33738 | [33738-bridge-2.json](./33738-bridge-2.json) |
@@ -17992,6 +17994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bunny Garden | 294658 | [294658-bunny-garden.json](./294658-bunny-garden.json) |
 | Bunny Garden 2 | 375379 | [375379-bunny-garden-2.json](./375379-bunny-garden-2.json) |
 | Bunny Girl Story | 201844 | [201844-bunny-girl-story.json](./201844-bunny-girl-story.json) |
+| Bunny Gladiator | 89334 | [89334-bunny-gladiator.json](./89334-bunny-gladiator.json) |
 | Bunny Guntz | 294189 | [294189-bunny-guntz.json](./294189-bunny-guntz.json) |
 | Bunny Guys! | 258361 | [258361-bunny-guys.json](./258361-bunny-guys.json) |
 | Bunny Haven | 383737 | [383737-bunny-haven.json](./383737-bunny-haven.json) |
@@ -18161,6 +18164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Shift: Team Rush | 391583 | [391583-burger-shift-team-rush.json](./391583-burger-shift-team-rush.json) |
 | Burger Shop | 76082 | [76082-burger-shop.json](./76082-burger-shop.json) |
 | Burger Shop 2 | 52673 | [52673-burger-shop-2.json](./52673-burger-shop-2.json) |
+| Burger Shop 2 Deluxe | 89303 | [89303-burger-shop-2-deluxe.json](./89303-burger-shop-2-deluxe.json) |
 | Burger Shop 3 | 265102 | [265102-burger-shop-3.json](./265102-burger-shop-3.json) |
 | Burger Shop HD | 88997 | [88997-burger-shop-hd.json](./88997-burger-shop-hd.json) |
 | Burger Shop Simulator 2024 | 326584 | [326584-burger-shop-simulator-2024.json](./326584-burger-shop-simulator-2024.json) |
