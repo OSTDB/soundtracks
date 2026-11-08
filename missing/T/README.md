@@ -3221,6 +3221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technically Frogs Can Fly | 326217 | [326217-technically-frogs-can-fly.json](./326217-technically-frogs-can-fly.json) |
 | Technically Heroes | 415344 | [415344-technically-heroes.json](./415344-technically-heroes.json) |
 | Technician Ted | 84242 | [84242-technician-ted.json](./84242-technician-ted.json) |
+| Technician Ted: The Megamix | 133533 | [133533-technician-ted-the-megamix.json](./133533-technician-ted-the-megamix.json) |
 | Technicity | 186619 | [186619-technicity.json](./186619-technicity.json) |
 | Technictix | 69252 | [69252-technictix.json](./69252-technictix.json) |
 | Technikiller | 219567 | [219567-technikiller.json](./219567-technikiller.json) |
@@ -3232,6 +3233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Techno Cop | 132021 | [132021-techno-cop.json](./132021-techno-cop.json) |
 | Techno Cop | 22746 | [22746-techno-cop.json](./22746-techno-cop.json) |
 | Techno Drive | 319867 | [319867-techno-drive.json](./319867-techno-drive.json) |
+| Techno Motor | 133574 | [133574-techno-motor.json](./133574-techno-motor.json) |
 | Techno Prank | 345553 | [345553-techno-prank.json](./345553-techno-prank.json) |
 | Techno Tanks | 146223 | [146223-techno-tanks.json](./146223-techno-tanks.json) |
 | Techno Tower Defense | 169101 | [169101-techno-tower-defense.json](./169101-techno-tower-defense.json) |
@@ -3700,6 +3702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teletubbies Come to Play! | 313239 | [313239-teletubbies-come-to-play.json](./313239-teletubbies-come-to-play.json) |
 | Teletubbies get Fucked | 374153 | [374153-teletubbies-get-fucked.json](./374153-teletubbies-get-fucked.json) |
 | Teletubbies Mercy Killing | 321215 | [321215-teletubbies-mercy-killing.json](./321215-teletubbies-mercy-killing.json) |
+| Teletubbies: Favourite Games | 133565 | [133565-teletubbies-favourite-games.json](./133565-teletubbies-favourite-games.json) |
 | Teletubbies: Jigsaw | 325257 | [325257-teletubbies-jigsaw.json](./325257-teletubbies-jigsaw.json) |
 | Teletubbies: Look! - Hide and Seek | 325259 | [325259-teletubbies-look-hide-and-seek.json](./325259-teletubbies-look-hide-and-seek.json) |
 | Teletubbies: My First App | 342650 | [342650-teletubbies-my-first-app.json](./342650-teletubbies-my-first-app.json) |
@@ -9469,6 +9472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fear Business | 293553 | [293553-the-fear-business.json](./293553-the-fear-business.json) |
 | The Fear Island | 153866 | [153866-the-fear-island.json](./153866-the-fear-island.json) |
 | The Fear of The Past | 302015 | [302015-the-fear-of-the-past.json](./302015-the-fear-of-the-past.json) |
+| The Fear: Storm II | 133546 | [133546-the-fear-storm-ii.json](./133546-the-fear-storm-ii.json) |
 | The Feast | 228727 | [228727-the-feast.json](./228727-the-feast.json) |
 | The Feast of Madness: A Night of Drowning in Forbidden Temptation | 308876 | [308876-the-feast-of-madness-a-night-of-drowning-in-forbidden-temptation.json](./308876-the-feast-of-madness-a-night-of-drowning-in-forbidden-temptation.json) |
 | The Feathered Serpent | 238658 | [238658-the-feathered-serpent.json](./238658-the-feathered-serpent.json) |
@@ -22990,6 +22994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiki: The Masked Journey | 163850 | [163850-tiki-the-masked-journey.json](./163850-tiki-the-masked-journey.json) |
 | TikiBar | 25383 | [25383-tikibar.json](./25383-tikibar.json) |
 | Tikrace | 249611 | [249611-tikrace.json](./249611-tikrace.json) |
+| Tiktalec and the Dino Moonbase | 133575 | [133575-tiktalec-and-the-dino-moonbase.json](./133575-tiktalec-and-the-dino-moonbase.json) |
 | Tikus Tales | 211167 | [211167-tikus-tales.json](./211167-tikus-tales.json) |
 | Tikutaku Concert | 148936 | [148936-tikutaku-concert.json](./148936-tikutaku-concert.json) |
 | Til Morning's Light | 18996 | [18996-til-mornings-light.json](./18996-til-mornings-light.json) |
@@ -28402,6 +28407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Runner VR | 75632 | [75632-train-runner-vr.json](./75632-train-runner-vr.json) |
 | Train Rush | 220049 | [220049-train-rush.json](./220049-train-rush.json) |
 | Train Set Code | 407755 | [407755-train-set-code.json](./407755-train-set-code.json) |
+| Train Signalling Simulator | 133562 | [133562-train-signalling-simulator.json](./133562-train-signalling-simulator.json) |
 | Train Sim | 88711 | [88711-train-sim.json](./88711-train-sim.json) |
 | Train Sim World | 105877 | [105877-train-sim-world.json](./105877-train-sim-world.json) |
 | Train Sim World 2 | 136868 | [136868-train-sim-world-2.json](./136868-train-sim-world-2.json) |
