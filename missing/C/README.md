@@ -9661,6 +9661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Pipes | 186574 | [186574-city-pipes.json](./186574-city-pipes.json) |
 | City Pixel Transporters | 409403 | [409403-city-pixel-transporters.json](./409403-city-pixel-transporters.json) |
 | City Play | 33995 | [33995-city-play.json](./33995-city-play.json) |
+| City Police Car Driver Game | 88506 | [88506-city-police-car-driver-game.json](./88506-city-police-car-driver-game.json) |
 | City Police Helicopter Flight Simulator | 100995 | [100995-city-police-helicopter-flight-simulator.json](./100995-city-police-helicopter-flight-simulator.json) |
 | City Quest | 17565 | [17565-city-quest.json](./17565-city-quest.json) |
 | City Racer | 92242 | [92242-city-racer.json](./92242-city-racer.json) |
@@ -12546,6 +12547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring 2 | 108638 | [108638-coloring-2.json](./108638-coloring-2.json) |
 | Coloring Animal Zoo Touch to Color Activity Coloring Book for Kids and Family Preschool Ultimate Edition | 232167 | [232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json](./232167-coloring-animal-zoo-touch-to-color-activity-coloring-book-for-kids-and-family-preschool-ultimate-edition.json) |
 | Coloring Book | 338878 | [338878-coloring-book.json](./338878-coloring-book.json) |
+| Coloring Book - Dogs | 88337 | [88337-coloring-book-dogs.json](./88337-coloring-book-dogs.json) |
 | Coloring Book - Dogs MAX | 89717 | [89717-coloring-book-dogs-max.json](./89717-coloring-book-dogs-max.json) |
 | Coloring Book - Easter MAX | 104708 | [104708-coloring-book-easter-max.json](./104708-coloring-book-easter-max.json) |
 | Coloring Book - Halloween | 87110 | [87110-coloring-book-halloween.json](./87110-coloring-book-halloween.json) |
