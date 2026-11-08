@@ -971,6 +971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Trick: Special Edition | 191564 | [191564-sakura-trick-special-edition.json](./191564-sakura-trick-special-edition.json) |
 | Sakura Tsuushin: Remaking Memories | 209624 | [209624-sakura-tsuushin-remaking-memories.json](./209624-sakura-tsuushin-remaking-memories.json) |
 | Sakura Wars | 96392 | [96392-sakura-wars.json](./96392-sakura-wars.json) |
+| Sakura Wars: Launch Edition | 136013 | [136013-sakura-wars-launch-edition.json](./136013-sakura-wars-launch-edition.json) |
 | Sakura Wars: Limited Edition | 116796 | [116796-sakura-wars-limited-edition.json](./116796-sakura-wars-limited-edition.json) |
 | Sakura Wars: So Long, My Love | 5136 | [5136-sakura-wars-so-long-my-love.json](./5136-sakura-wars-so-long-my-love.json) |
 | Sakura X Clash: Last Millennial Spring | 213603 | [213603-sakura-x-clash-last-millennial-spring.json](./213603-sakura-x-clash-last-millennial-spring.json) |
@@ -1601,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandcastle | 268655 | [268655-sandcastle.json](./268655-sandcastle.json) |
 | Sandcastle Builder | 62457 | [62457-sandcastle-builder.json](./62457-sandcastle-builder.json) |
 | Sandcastles | 134693 | [134693-sandcastles.json](./134693-sandcastles.json) |
+| Sandcastles | 136010 | [136010-sandcastles.json](./136010-sandcastles.json) |
 | SandEEE | 399845 | [399845-sandeee.json](./399845-sandeee.json) |
 | Sandfall | 172923 | [172923-sandfall.json](./172923-sandfall.json) |
 | Sandhill Architectures | 106407 | [106407-sandhill-architectures.json](./106407-sandhill-architectures.json) |
@@ -7933,6 +7935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep Sweep | 302182 | [302182-sheep-sweep.json](./302182-sheep-sweep.json) |
 | Sheep Tag 2 | 141967 | [141967-sheep-tag-2.json](./141967-sheep-tag-2.json) |
 | Sheep Up! | 120247 | [120247-sheep-up.json](./120247-sheep-up.json) |
+| Sheep with Mates | 135997 | [135997-sheep-with-mates.json](./135997-sheep-with-mates.json) |
 | Sheep's Quest | 173403 | [173403-sheeps-quest.json](./173403-sheeps-quest.json) |
 | Sheep's Symphony | 294455 | [294455-sheeps-symphony.json](./294455-sheeps-symphony.json) |
 | Sheep's Territory | 195458 | [195458-sheeps-territory.json](./195458-sheeps-territory.json) |
@@ -8077,6 +8080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shenmue III Enhanced | 361664 | [361664-shenmue-iii-enhanced.json](./361664-shenmue-iii-enhanced.json) |
 | Shenmue III: Battle Rally | 129191 | [129191-shenmue-iii-battle-rally.json](./129191-shenmue-iii-battle-rally.json) |
 | Shenmue III: Collector's Edition | 296044 | [296044-shenmue-iii-collectors-edition.json](./296044-shenmue-iii-collectors-edition.json) |
+| Shenmue III: Day One Edition | 136001 | [136001-shenmue-iii-day-one-edition.json](./136001-shenmue-iii-day-one-edition.json) |
 | Shenmue III: Deluxe Edition | 154513 | [154513-shenmue-iii-deluxe-edition.json](./154513-shenmue-iii-deluxe-edition.json) |
 | Shennong: Taste of Illusion | 113015 | [113015-shennong-taste-of-illusion.json](./113015-shennong-taste-of-illusion.json) |
 | Shénqǐ Shénluò | 152760 | [152760-shenqi-shenluo.json](./152760-shenqi-shenluo.json) |
@@ -15594,6 +15598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snook | 268780 | [268780-snook.json](./268780-snook.json) |
 | Snooker | 330780 | [330780-snooker.json](./330780-snooker.json) |
 | Snooker 19 | 111153 | [111153-snooker-19.json](./111153-snooker-19.json) |
+| Snooker 19: Gold Edition | 136015 | [136015-snooker-19-gold-edition.json](./136015-snooker-19-gold-edition.json) |
 | Snooker Blitz | 315913 | [315913-snooker-blitz.json](./315913-snooker-blitz.json) |
 | Snooker Fever | 328487 | [328487-snooker-fever.json](./328487-snooker-fever.json) |
 | Snooker Fever Rack 'n' Roll | 381807 | [381807-snooker-fever-rack-n-roll.json](./381807-snooker-fever-rack-n-roll.json) |
@@ -19964,7 +19969,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 142578 | [142578-space-hunter.json](./142578-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
@@ -22831,6 +22835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpongeBob SquarePants: Battle for Bikini Bottom | 261266 | [261266-spongebob-squarepants-battle-for-bikini-bottom.json](./261266-spongebob-squarepants-battle-for-bikini-bottom.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom - Beta Mod | 413219 | [413219-spongebob-squarepants-battle-for-bikini-bottom-beta-mod.json](./413219-spongebob-squarepants-battle-for-bikini-bottom-beta-mod.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated | 119239 | [119239-spongebob-squarepants-battle-for-bikini-bottom-rehydrated.json](./119239-spongebob-squarepants-battle-for-bikini-bottom-rehydrated.json) |
+| Spongebob SquarePants: Battle for Bikini Bottom - Rehydrated: F.U.N. Edition | 135988 | [135988-spongebob-squarepants-battle-for-bikini-bottom-rehydrated-f-u-n-edition.json](./135988-spongebob-squarepants-battle-for-bikini-bottom-rehydrated-f-u-n-edition.json) |
 | SpongeBob Squarepants: Battle For Bikini Bottom - Rehydrated: Shiny Edition | 136031 | [136031-spongebob-squarepants-battle-for-bikini-bottom-rehydrated-shiny-edition.json](./136031-spongebob-squarepants-battle-for-bikini-bottom-rehydrated-shiny-edition.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom - Second Strike | 410036 | [410036-spongebob-squarepants-battle-for-bikini-bottom-second-strike.json](./410036-spongebob-squarepants-battle-for-bikini-bottom-second-strike.json) |
 | SpongeBob SquarePants: Battle for Bikini Bottom - Sock Expedition Extreme | 308374 | [308374-spongebob-squarepants-battle-for-bikini-bottom-sock-expedition-extreme.json](./308374-spongebob-squarepants-battle-for-bikini-bottom-sock-expedition-extreme.json) |
@@ -26138,6 +26143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State of Decay 2: Curveball Update | 266858 | [266858-state-of-decay-2-curveball-update.json](./266858-state-of-decay-2-curveball-update.json) |
 | State of Decay 2: Daybreak Pack | 194647 | [194647-state-of-decay-2-daybreak-pack.json](./194647-state-of-decay-2-daybreak-pack.json) |
 | State of Decay 2: Heartland | 119302 | [119302-state-of-decay-2-heartland.json](./119302-state-of-decay-2-heartland.json) |
+| State of Decay 3 | 135993 | [135993-state-of-decay-3.json](./135993-state-of-decay-3.json) |
 | State of Decay: Breakdown | 111845 | [111845-state-of-decay-breakdown.json](./111845-state-of-decay-breakdown.json) |
 | State of Decay: Lifeline | 10894 | [10894-state-of-decay-lifeline.json](./10894-state-of-decay-lifeline.json) |
 | State of Decay: Year-One Survival Edition | 7710 | [7710-state-of-decay-year-one-survival-edition.json](./7710-state-of-decay-year-one-survival-edition.json) |
@@ -33508,6 +33514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Smash Bros. Ultimate: Knuckles Outfit and Hat | 317929 | [317929-super-smash-bros-ultimate-knuckles-outfit-and-hat.json](./317929-super-smash-bros-ultimate-knuckles-outfit-and-hat.json) |
 | Super Smash Bros. Ultimate: Krystal Moveset | 394293 | [394293-super-smash-bros-ultimate-krystal-moveset.json](./394293-super-smash-bros-ultimate-krystal-moveset.json) |
 | Super Smash Bros. Ultimate: Latios/Latias Moveset | 395019 | [395019-super-smash-bros-ultimate-latios-latias-moveset.json](./395019-super-smash-bros-ultimate-latios-latias-moveset.json) |
+| Super Smash Bros. Ultimate: Limited Edition | 136024 | [136024-super-smash-bros-ultimate-limited-edition.json](./136024-super-smash-bros-ultimate-limited-edition.json) |
 | Super Smash Bros. Ultimate: Lloyd Outfit and Wig | 306450 | [306450-super-smash-bros-ultimate-lloyd-outfit-and-wig.json](./306450-super-smash-bros-ultimate-lloyd-outfit-and-wig.json) |
 | Super Smash Bros. Ultimate: Masked Man Moveset | 294524 | [294524-super-smash-bros-ultimate-masked-man-moveset.json](./294524-super-smash-bros-ultimate-masked-man-moveset.json) |
 | Super Smash Bros. Ultimate: Mecha Sonic Moveset | 294522 | [294522-super-smash-bros-ultimate-mecha-sonic-moveset.json](./294522-super-smash-bros-ultimate-mecha-sonic-moveset.json) |
