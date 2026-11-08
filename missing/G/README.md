@@ -3546,6 +3546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get Low, Grandpa! | 392902 | [392902-get-low-grandpa.json](./392902-get-low-grandpa.json) |
 | Get Mazed | 378566 | [378566-get-mazed.json](./378566-get-mazed.json) |
 | Get Me Out, Please | 266108 | [266108-get-me-out-please.json](./266108-get-me-out-please.json) |
+| Get Me Outta Here | 119924 | [119924-get-me-outta-here.json](./119924-get-me-outta-here.json) |
 | Get Me Outta Here: Deluxe/Remastered Edition | 126574 | [126574-get-me-outta-here-deluxe-remastered-edition.json](./126574-get-me-outta-here-deluxe-remastered-edition.json) |
 | Get Medieval | 71795 | [71795-get-medieval.json](./71795-get-medieval.json) |
 | Get Money | 57049 | [57049-get-money.json](./57049-get-money.json) |
@@ -7059,6 +7060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goober Arena | 320378 | [320378-goober-arena.json](./320378-goober-arena.json) |
 | Goober Shooter 2 | 400097 | [400097-goober-shooter-2.json](./400097-goober-shooter-2.json) |
 | Goober Shot | 308065 | [308065-goober-shot.json](./308065-goober-shot.json) |
+| Gooberries | 119865 | [119865-gooberries.json](./119865-gooberries.json) |
 | Goobers | 411751 | [411751-goobers.json](./411751-goobers.json) |
 | Goobies | 244283 | [244283-goobies.json](./244283-goobies.json) |
 | Gooblins | 31593 | [31593-gooblins.json](./31593-gooblins.json) |
@@ -9800,6 +9802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gritz: The Pyramid Adventure | 286581 | [286581-gritz-the-pyramid-adventure.json](./286581-gritz-the-pyramid-adventure.json) |
 | Grix | 384501 | [384501-grix.json](./384501-grix.json) |
 | Grizelda: Lynx and the Nine Lives | 201678 | [201678-grizelda-lynx-and-the-nine-lives.json](./201678-grizelda-lynx-and-the-nine-lives.json) |
+| Grizzland | 119915 | [119915-grizzland.json](./119915-grizzland.json) |
 | Grizzly Adventure | 107829 | [107829-grizzly-adventure.json](./107829-grizzly-adventure.json) |
 | Grizzly Cup Turbo Challenge '92 | 393927 | [393927-grizzly-cup-turbo-challenge-92.json](./393927-grizzly-cup-turbo-challenge-92.json) |
 | Grizzly Gulch Western Extravaganza | 392340 | [392340-grizzly-gulch-western-extravaganza.json](./392340-grizzly-gulch-western-extravaganza.json) |
