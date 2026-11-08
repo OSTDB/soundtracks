@@ -4795,6 +4795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Give Me Your Coins | 112686 | [112686-give-me-your-coins.json](./112686-give-me-your-coins.json) |
 | Give My Regards to Broad Street | 66710 | [66710-give-my-regards-to-broad-street.json](./66710-give-my-regards-to-broad-street.json) |
 | Give the People What They Want | 197189 | [197189-give-the-people-what-they-want.json](./197189-give-the-people-what-they-want.json) |
+| Give the Taste of Defeat to This Loose Goddess! I'll Never Succumb to a Slut's Seduction ADV | 83113 | [83113-give-the-taste-of-defeat-to-this-loose-goddess-ill-never-succumb-to-a-sluts-seduction-adv.json](./83113-give-the-taste-of-defeat-to-this-loose-goddess-ill-never-succumb-to-a-sluts-seduction-adv.json) |
 | Give Up | 200841 | [200841-give-up.json](./200841-give-up.json) |
 | Give Up 2 | 250183 | [250183-give-up-2.json](./250183-give-up-2.json) |
 | Give Up Robot 2 | 281591 | [281591-give-up-robot-2.json](./281591-give-up-robot-2.json) |
@@ -5041,6 +5042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glintland | 355293 | [355293-glintland.json](./355293-glintland.json) |
 | Glintseeker Island | 325975 | [325975-glintseeker-island.json](./325975-glintseeker-island.json) |
 | Gliont Lights | 388260 | [388260-gliont-lights.json](./388260-gliont-lights.json) |
+| Glipp | 83095 | [83095-glipp.json](./83095-glipp.json) |
 | Glista | 84045 | [84045-glista.json](./84045-glista.json) |
 | Glisten to Your Heart: The Courage Within You | 170564 | [170564-glisten-to-your-heart-the-courage-within-you.json](./170564-glisten-to-your-heart-the-courage-within-you.json) |
 | Glistening | 204644 | [204644-glistening.json](./204644-glistening.json) |
