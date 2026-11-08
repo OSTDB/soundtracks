@@ -3715,6 +3715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EndGame | 303514 | [303514-endgame.json](./303514-endgame.json) |
 | Endgame of Devil | 259945 | [259945-endgame-of-devil.json](./259945-endgame-of-devil.json) |
 | Endgame: Road to Salvation | 150319 | [150319-endgame-road-to-salvation.json](./150319-endgame-road-to-salvation.json) |
+| Endgame: Singularity | 92747 | [92747-endgame-singularity.json](./92747-endgame-singularity.json) |
 | Endhall | 111176 | [111176-endhall.json](./111176-endhall.json) |
 | Endhop | 383631 | [383631-endhop.json](./383631-endhop.json) |
 | Endica VII: The Dream King | 35924 | [35924-endica-vii-the-dream-king.json](./35924-endica-vii-the-dream-king.json) |
@@ -4218,6 +4219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigmic: Crime Puzzle Cases | 412060 | [412060-enigmic-crime-puzzle-cases.json](./412060-enigmic-crime-puzzle-cases.json) |
 | Enigmite's Prophecy | 194126 | [194126-enigmites-prophecy.json](./194126-enigmites-prophecy.json) |
 | Enigmo | 377181 | [377181-enigmo.json](./377181-enigmo.json) |
+| Enigmo | 92750 | [92750-enigmo.json](./92750-enigmo.json) |
 | Enigmo 2 | 66614 | [66614-enigmo-2.json](./66614-enigmo-2.json) |
 | EnigmOn | 174328 | [174328-enigmon.json](./174328-enigmon.json) |
 | Enigmoon | 261257 | [261257-enigmoon.json](./261257-enigmoon.json) |
