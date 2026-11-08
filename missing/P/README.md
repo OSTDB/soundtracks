@@ -3669,6 +3669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PC Calciatori 2005 | 100036 | [100036-pc-calciatori-2005.json](./100036-pc-calciatori-2005.json) |
 | PC Calcio 7.0 | 298779 | [298779-pc-calcio-7-0.json](./298779-pc-calcio-7-0.json) |
 | PC Classix | 79018 | [79018-pc-classix.json](./79018-pc-classix.json) |
+| PC Collection | 79443 | [79443-pc-collection.json](./79443-pc-collection.json) |
 | PC Creator: PC Building Simulator | 186329 | [186329-pc-creator-pc-building-simulator.json](./186329-pc-creator-pc-building-simulator.json) |
 | PC Engine Best Collection: Tengai Makyou Collection | 62136 | [62136-pc-engine-best-collection-tengai-makyou-collection.json](./62136-pc-engine-best-collection-tengai-makyou-collection.json) |
 | PC Engine Game Box | 261908 | [261908-pc-engine-game-box.json](./261908-pc-engine-game-box.json) |
@@ -13890,6 +13891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Piggs of the Dark Age | 42471 | [42471-power-piggs-of-the-dark-age.json](./42471-power-piggs-of-the-dark-age.json) |
 | Power Pigskin | 245420 | [245420-power-pigskin.json](./245420-power-pigskin.json) |
 | Power Pinball | 392587 | [392587-power-pinball.json](./392587-power-pinball.json) |
+| Power Pinball | 79463 | [79463-power-pinball.json](./79463-power-pinball.json) |
 | Power Ping Pong | 200031 | [200031-power-ping-pong.json](./200031-power-ping-pong.json) |
 | Power Pipes | 146913 | [146913-power-pipes.json](./146913-power-pipes.json) |
 | Power Planner | 384344 | [384344-power-planner.json](./384344-power-planner.json) |
@@ -15647,6 +15649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu Spirits 2011 | 92232 | [92232-pro-yakyuu-spirits-2011.json](./92232-pro-yakyuu-spirits-2011.json) |
 | Pro Yakyuu Spirits 2012 | 44575 | [44575-pro-yakyuu-spirits-2012.json](./44575-pro-yakyuu-spirits-2012.json) |
 | Pro Yakyuu Spirits 2013 | 63903 | [63903-pro-yakyuu-spirits-2013.json](./63903-pro-yakyuu-spirits-2013.json) |
+| Pro Yakyuu Spirits 2014 | 79483 | [79483-pro-yakyuu-spirits-2014.json](./79483-pro-yakyuu-spirits-2014.json) |
 | Pro Yakyuu Spirits 2015 | 60625 | [60625-pro-yakyuu-spirits-2015.json](./60625-pro-yakyuu-spirits-2015.json) |
 | Pro Yakyuu Spirits 2019 | 109606 | [109606-pro-yakyuu-spirits-2019.json](./109606-pro-yakyuu-spirits-2019.json) |
 | Pro Yakyuu Spirits 2024-2025 | 293324 | [293324-pro-yakyuu-spirits-2024-2025.json](./293324-pro-yakyuu-spirits-2024-2025.json) |
