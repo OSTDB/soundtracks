@@ -4543,6 +4543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dearg | 236410 | [236410-dearg.json](./236410-dearg.json) |
 | DearMyFriend | 285005 | [285005-dearmyfriend.json](./285005-dearmyfriend.json) |
 | DearS | 60880 | [60880-dears.json](./60880-dears.json) |
+| Dearth | 91485 | [91485-dearth.json](./91485-dearth.json) |
 | Death | 123553 | [123553-death.json](./123553-death.json) |
 | Death & Lead | 392968 | [392968-death-and-lead.json](./392968-death-and-lead.json) |
 | Death & Tactics | 274931 | [274931-death-and-tactics.json](./274931-death-and-tactics.json) |
@@ -11428,6 +11429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divorce Chatroom | 328348 | [328348-divorce-chatroom.json](./328348-divorce-chatroom.json) |
 | Dìwáng Chāiqiān Bàn | 367485 | [367485-diwang-chaiqian-ban.json](./367485-diwang-chaiqian-ban.json) |
 | Dìxiàshì | 148693 | [148693-dixiashi.json](./148693-dixiashi.json) |
+| Dixie | 91468 | [91468-dixie.json](./91468-dixie.json) |
 | Dixie Kong Country | 259340 | [259340-dixie-kong-country.json](./259340-dixie-kong-country.json) |
 | Dixit World | 322478 | [322478-dixit-world.json](./322478-dixit-world.json) |
 | Dixotomia | 204836 | [204836-dixotomia.json](./204836-dixotomia.json) |
@@ -12037,6 +12039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog of Dracula 2: Cyber Monogatari | 228436 | [228436-dog-of-dracula-2-cyber-monogatari.json](./228436-dog-of-dracula-2-cyber-monogatari.json) |
 | Dog of Dracula: Barbecue Densetsu | 414686 | [414686-dog-of-dracula-barbecue-densetsu.json](./414686-dog-of-dracula-barbecue-densetsu.json) |
 | Dog Pairs | 98906 | [98906-dog-pairs.json](./98906-dog-pairs.json) |
+| Dog Patch | 91487 | [91487-dog-patch.json](./91487-dog-patch.json) |
 | Dog Petting Simulator | 182237 | [182237-dog-petting-simulator.json](./182237-dog-petting-simulator.json) |
 | Dog Plays in Space Bundle | 230824 | [230824-dog-plays-in-space-bundle.json](./230824-dog-plays-in-space-bundle.json) |
 | Dog Pound Theater | 179391 | [179391-dog-pound-theater.json](./179391-dog-pound-theater.json) |
@@ -12147,6 +12150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doghouse | 191441 | [191441-doghouse.json](./191441-doghouse.json) |
 | Doghouse 2 | 216167 | [216167-doghouse-2.json](./216167-doghouse-2.json) |
 | Doghouse 3 | 374756 | [374756-doghouse-3.json](./374756-doghouse-3.json) |
+| Dogies | 91490 | [91490-dogies.json](./91490-dogies.json) |
 | Dogimegi Inryoku-chan: Love & Peace | 336177 | [336177-dogimegi-inryoku-chan-love-and-peace.json](./336177-dogimegi-inryoku-chan-love-and-peace.json) |
 | Dogistry | 58799 | [58799-dogistry.json](./58799-dogistry.json) |
 | Dogma | 135646 | [135646-dogma.json](./135646-dogma.json) |
@@ -12197,6 +12201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogworld | 142914 | [142914-dogworld.json](./142914-dogworld.json) |
 | DogWorld Premium | 87265 | [87265-dogworld-premium.json](./87265-dogworld-premium.json) |
 | Dogyuun | 294035 | [294035-dogyuun.json](./294035-dogyuun.json) |
+| Dogyuun | 91482 | [91482-dogyuun.json](./91482-dogyuun.json) |
 | Dogz | 131393 | [131393-dogz.json](./131393-dogz.json) |
 | Dogz 3: Your Virtual Petz | 151540 | [151540-dogz-3-your-virtual-petz.json](./151540-dogz-3-your-virtual-petz.json) |
 | Dogz 4 | 151539 | [151539-dogz-4.json](./151539-dogz-4.json) |
@@ -18065,6 +18070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dude World | 59918 | [59918-dude-world.json](./59918-dude-world.json) |
 | Dude, Stop | 29965 | [29965-dude-stop.json](./29965-dude-stop.json) |
 | Dude, Where Is My Beer? | 140482 | [140482-dude-where-is-my-beer.json](./140482-dude-where-is-my-beer.json) |
+| Dudebro: My Shit Is Fucked Up So I Got to Shoot / Slice You II: It's Straight-Up Dawg Time | 91500 | [91500-dudebro-my-shit-is-fucked-up-so-i-got-to-shoot-slice-you-ii-its-straight-up-dawg-time.json](./91500-dudebro-my-shit-is-fucked-up-so-i-got-to-shoot-slice-you-ii-its-straight-up-dawg-time.json) |
 | DudeGo | 292967 | [292967-dudego.json](./292967-dudego.json) |
 | Dudelings: Arcade Sportsball | 287797 | [287797-dudelings-arcade-sportsball.json](./287797-dudelings-arcade-sportsball.json) |
 | Dudeology 1 | 234730 | [234730-dudeology-1.json](./234730-dudeology-1.json) |
