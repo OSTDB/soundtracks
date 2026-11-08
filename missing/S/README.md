@@ -15863,6 +15863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboarding+ | 90527 | [90527-snowboarding.json](./90527-snowboarding.json) |
 | Snowbody | 365354 | [365354-snowbody.json](./365354-snowbody.json) |
 | Snowbound Blood | 177348 | [177348-snowbound-blood.json](./177348-snowbound-blood.json) |
+| Snowbound Blood: A Vast Error Story | 124357 | [124357-snowbound-blood-a-vast-error-story.json](./124357-snowbound-blood-a-vast-error-story.json) |
 | Snowbound: Dead of Winter | 310131 | [310131-snowbound-dead-of-winter.json](./310131-snowbound-dead-of-winter.json) |
 | SnowBrawl | 207685 | [207685-snowbrawl.json](./207685-snowbrawl.json) |
 | Snowbrawll | 235461 | [235461-snowbrawll.json](./235461-snowbrawll.json) |
@@ -26839,6 +26840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Cardworks | 332940 | [332940-stellar-cardworks.json](./332940-stellar-cardworks.json) |
 | Stellar Checkpoint | 311593 | [311593-stellar-checkpoint.json](./311593-stellar-checkpoint.json) |
 | Stellar Code | 326775 | [326775-stellar-code.json](./326775-stellar-code.json) |
+| Stellar Commanders | 124379 | [124379-stellar-commanders.json](./124379-stellar-commanders.json) |
 | Stellar Conflicts | 414045 | [414045-stellar-conflicts.json](./414045-stellar-conflicts.json) |
 | Stellar Conquest | 248595 | [248595-stellar-conquest.json](./248595-stellar-conquest.json) |
 | Stellar Conquest 3: Hostile Takeover | 70092 | [70092-stellar-conquest-3-hostile-takeover.json](./70092-stellar-conquest-3-hostile-takeover.json) |
