@@ -6147,6 +6147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God Sword | 157497 | [157497-god-sword.json](./157497-god-sword.json) |
 | God Trials | 348421 | [348421-god-trials.json](./348421-god-trials.json) |
 | God Vibrations | 176227 | [176227-god-vibrations.json](./176227-god-vibrations.json) |
+| God Vs Zombies | 99057 | [99057-god-vs-zombies.json](./99057-god-vs-zombies.json) |
 | God vs. Sin | 273595 | [273595-god-vs-sin.json](./273595-god-vs-sin.json) |
 | God Wars | 347325 | [347325-god-wars.json](./347325-god-wars.json) |
 | God Wars 2 | 105055 | [105055-god-wars-2.json](./105055-god-wars-2.json) |
@@ -6905,6 +6906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Skies | 188258 | [188258-golf-skies.json](./188258-golf-skies.json) |
 | Golf Solitaire | 366432 | [366432-golf-solitaire.json](./366432-golf-solitaire.json) |
 | Golf Solitaire Cube | 125586 | [125586-golf-solitaire-cube.json](./125586-golf-solitaire-cube.json) |
+| Golf Solitaire Deluxe | 99199 | [99199-golf-solitaire-deluxe.json](./99199-golf-solitaire-deluxe.json) |
 | Golf Solitaire Pro | 88299 | [88299-golf-solitaire-pro.json](./88299-golf-solitaire-pro.json) |
 | Golf Solitaire Simple | 186246 | [186246-golf-solitaire-simple.json](./186246-golf-solitaire-simple.json) |
 | Golf Star | 259554 | [259554-golf-star.json](./259554-golf-star.json) |
@@ -8015,6 +8017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Circuit | 305817 | [305817-grand-circuit.json](./305817-grand-circuit.json) |
 | Grand City Car Driving | 219808 | [219808-grand-city-car-driving.json](./219808-grand-city-car-driving.json) |
 | Grand Classes | 313415 | [313415-grand-classes.json](./313415-grand-classes.json) |
+| Grand Craft: Adventures | 99204 | [99204-grand-craft-adventures.json](./99204-grand-craft-adventures.json) |
 | Grand Crime Miami | 366950 | [366950-grand-crime-miami.json](./366950-grand-crime-miami.json) |
 | Grand Criminal Online | 174987 | [174987-grand-criminal-online.json](./174987-grand-criminal-online.json) |
 | Grand Cross | 40124 | [40124-grand-cross.json](./40124-grand-cross.json) |
