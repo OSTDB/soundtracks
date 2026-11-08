@@ -374,6 +374,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hajikise! | 265155 | [265155-hajikise.json](./265155-hajikise.json) |
 | HajiLove: Making Lovers - Limited Edition | 207915 | [207915-hajilove-making-lovers-limited-edition.json](./207915-hajilove-making-lovers-limited-edition.json) |
 | Hajime no Ippo: The Fighting! | 44778 | [44778-hajime-no-ippo-the-fighting.json](./44778-hajime-no-ippo-the-fighting.json) |
+| Hajime no Ippo: The Fighting! | 80746 | [80746-hajime-no-ippo-the-fighting.json](./80746-hajime-no-ippo-the-fighting.json) |
+| Hajime no Ippo: The Fighting! | 80747 | [80747-hajime-no-ippo-the-fighting.json](./80747-hajime-no-ippo-the-fighting.json) |
 | Hajime no Ippo: The Fighting! 2 - Victorious Road | 61450 | [61450-hajime-no-ippo-the-fighting-2-victorious-road.json](./61450-hajime-no-ippo-the-fighting-2-victorious-road.json) |
 | Hajime no Ippo: The Fighting! DS | 70566 | [70566-hajime-no-ippo-the-fighting-ds.json](./70566-hajime-no-ippo-the-fighting-ds.json) |
 | Hajime no Ippo: The Fighting! Portable - Victorious Spirits | 61447 | [61447-hajime-no-ippo-the-fighting-portable-victorious-spirits.json](./61447-hajime-no-ippo-the-fighting-portable-victorious-spirits.json) |
@@ -4604,6 +4606,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Tamagotchi | 230066 | [230066-hello-kitty-tamagotchi.json](./230066-hello-kitty-tamagotchi.json) |
 | Hello Kitty to Dear Daniel no Dream Adventure | 57558 | [57558-hello-kitty-to-dear-daniel-no-dream-adventure.json](./57558-hello-kitty-to-dear-daniel-no-dream-adventure.json) |
 | Hello Kitty to Issho: Block Crash 1 2 3 | 63041 | [63041-hello-kitty-to-issho-block-crash-1-2-3.json](./63041-hello-kitty-to-issho-block-crash-1-2-3.json) |
+| Hello Kitty to Issho: Block Crash Z | 80708 | [80708-hello-kitty-to-issho-block-crash-z.json](./80708-hello-kitty-to-issho-block-crash-z.json) |
+| Hello Kitty to McDonald de Asobo! | 80707 | [80707-hello-kitty-to-mcdonald-de-asobo.json](./80707-hello-kitty-to-mcdonald-de-asobo.json) |
 | Hello Kitty to Sekai Ryokou! Ironna Kuni he Odekake Shimashou! | 222307 | [222307-hello-kitty-to-sekai-ryokou-ironna-kuni-he-odekake-shimashou.json](./222307-hello-kitty-to-sekai-ryokou-ironna-kuni-he-odekake-shimashou.json) |
 | Hello Kitty World | 246935 | [246935-hello-kitty-world.json](./246935-hello-kitty-world.json) |
 | Hello Kitty World | 48626 | [48626-hello-kitty-world.json](./48626-hello-kitty-world.json) |
@@ -8051,6 +8055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi no Naku Koro ni Kizuna: Tsumihoroboshi-hen | 262978 | [262978-higurashi-no-naku-koro-ni-kizuna-tsumihoroboshi-hen.json](./262978-higurashi-no-naku-koro-ni-kizuna-tsumihoroboshi-hen.json) |
 | Higurashi no Naku Koro ni Kizuna: Watanagashi-hen | 262918 | [262918-higurashi-no-naku-koro-ni-kizuna-watanagashi-hen.json](./262918-higurashi-no-naku-koro-ni-kizuna-watanagashi-hen.json) |
 | Higurashi no Naku Koro ni Kizuna: Yoigoshi-hen | 262984 | [262984-higurashi-no-naku-koro-ni-kizuna-yoigoshi-hen.json](./262984-higurashi-no-naku-koro-ni-kizuna-yoigoshi-hen.json) |
+| Higurashi no Naku Koro ni Matsuri | 80762 | [80762-higurashi-no-naku-koro-ni-matsuri.json](./80762-higurashi-no-naku-koro-ni-matsuri.json) |
 | Higurashi no Naku Koro ni Matsuri: Ch.0 Himatsubushi-hen | 262688 | [262688-higurashi-no-naku-koro-ni-matsuri-ch-0-himatsubushi-hen.json](./262688-higurashi-no-naku-koro-ni-matsuri-ch-0-himatsubushi-hen.json) |
 | Higurashi no Naku Koro ni Matsuri: Ch.1 Taraimawashi-hen | 262680 | [262680-higurashi-no-naku-koro-ni-matsuri-ch-1-taraimawashi-hen.json](./262680-higurashi-no-naku-koro-ni-matsuri-ch-1-taraimawashi-hen.json) |
 | Higurashi no Naku Koro ni Matsuri: Ch.2 Onikakushi-hen | 262682 | [262682-higurashi-no-naku-koro-ni-matsuri-ch-2-onikakushi-hen.json](./262682-higurashi-no-naku-koro-ni-matsuri-ch-2-onikakushi-hen.json) |
