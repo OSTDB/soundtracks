@@ -1416,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzar | 15740 | [15740-panzar.json](./15740-panzar.json) |
 | Panzar: Forged By Chaos | 102572 | [102572-panzar-forged-by-chaos.json](./102572-panzar-forged-by-chaos.json) |
 | PanzenTD | 358262 | [358262-panzentd.json](./358262-panzentd.json) |
+| Panzer Arena | 121140 | [121140-panzer-arena.json](./121140-panzer-arena.json) |
 | Panzer Attack/Red Baron | 95381 | [95381-panzer-attack-red-baron.json](./95381-panzer-attack-red-baron.json) |
 | Panzer Ball | 132338 | [132338-panzer-ball.json](./132338-panzer-ball.json) |
 | Panzer Bandit | 45108 | [45108-panzer-bandit.json](./45108-panzer-bandit.json) |
@@ -12176,6 +12177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Stories: The Academy | 211037 | [211037-police-stories-the-academy.json](./211037-police-stories-the-academy.json) |
 | Police Stories: Zombie Case | 195756 | [195756-police-stories-zombie-case.json](./195756-police-stories-zombie-case.json) |
 | Police Story | 95788 | [95788-police-story.json](./95788-police-story.json) |
+| Police Stunt Cars | 121116 | [121116-police-stunt-cars.json](./121116-police-stunt-cars.json) |
 | Police Tactical Training | 57657 | [57657-police-tactical-training.json](./57657-police-tactical-training.json) |
 | Police Tactics: Imperio | 24210 | [24210-police-tactics-imperio.json](./24210-police-tactics-imperio.json) |
 | Police Train Prison Transport | 88420 | [88420-police-train-prison-transport.json](./88420-police-train-prison-transport.json) |
@@ -17087,6 +17089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proxy Blade | 62825 | [62825-proxy-blade.json](./62825-proxy-blade.json) |
 | Proxy Blade Zero | 17644 | [17644-proxy-blade-zero.json](./17644-proxy-blade-zero.json) |
 | Proxy Comics HD | 62252 | [62252-proxy-comics-hd.json](./62252-proxy-comics-hd.json) |
+| Proxyah | 121170 | [121170-proxyah.json](./121170-proxyah.json) |
 | Proxyma | 362021 | [362021-proxyma.json](./362021-proxyma.json) |
 | Proyecto Huemul | 415746 | [415746-proyecto-huemul.json](./415746-proyecto-huemul.json) |
 | Proyecto infernal | 302892 | [302892-proyecto-infernal.json](./302892-proyecto-infernal.json) |
@@ -17320,6 +17323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychopomp 2 | 375510 | [375510-psychopomp-2.json](./375510-psychopomp-2.json) |
 | Psychopomp Gold | 319765 | [319765-psychopomp-gold.json](./319765-psychopomp-gold.json) |
 | Psychoscopy | 207195 | [207195-psychoscopy.json](./207195-psychoscopy.json) |
+| Psychose | 121141 | [121141-psychose.json](./121141-psychose.json) |
 | Psychosis | 237263 | [237263-psychosis.json](./237263-psychosis.json) |
 | Psychosis: Teaser | 222863 | [222863-psychosis-teaser.json](./222863-psychosis-teaser.json) |
 | Psychosoft Ltd. | 114211 | [114211-psychosoft-ltd.json](./114211-psychosoft-ltd.json) |
