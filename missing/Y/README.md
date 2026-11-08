@@ -1706,6 +1706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yu-Gi-Oh GX: The Beginning of Destiny | 21680 | [21680-yu-gi-oh-gx-the-beginning-of-destiny.json](./21680-yu-gi-oh-gx-the-beginning-of-destiny.json) |
 | Yu-Gi-Oh PokéDuel | 270787 | [270787-yu-gi-oh-pokeduel.json](./270787-yu-gi-oh-pokeduel.json) |
 | Yu-Gi-Oh! 5D's Decade Duels | 66774 | [66774-yu-gi-oh-5ds-decade-duels.json](./66774-yu-gi-oh-5ds-decade-duels.json) |
+| Yu-Gi-Oh! 5D's Decade Duels Plus | 99818 | [99818-yu-gi-oh-5ds-decade-duels-plus.json](./99818-yu-gi-oh-5ds-decade-duels-plus.json) |
 | Yu-Gi-Oh! 5D's Duel Transer | 50716 | [50716-yu-gi-oh-5ds-duel-transer.json](./50716-yu-gi-oh-5ds-duel-transer.json) |
 | Yu-Gi-Oh! 5D's Stardust Accelerator World Championship Tournament 2009 | 21129 | [21129-yu-gi-oh-5ds-stardust-accelerator-world-championship-tournament-2009.json](./21129-yu-gi-oh-5ds-stardust-accelerator-world-championship-tournament-2009.json) |
 | Yu-Gi-Oh! 5D's Tag Force 4 | 42790 | [42790-yu-gi-oh-5ds-tag-force-4.json](./42790-yu-gi-oh-5ds-tag-force-4.json) |
