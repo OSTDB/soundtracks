@@ -4383,6 +4383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiesta | 51217 | [51217-fiesta.json](./51217-fiesta.json) |
 | Fiestas del Pueblo | 214897 | [214897-fiestas-del-pueblo.json](./214897-fiestas-del-pueblo.json) |
 | Fiete Match | 175273 | [175273-fiete-match.json](./175273-fiete-match.json) |
+| Fiete Soccer | 103585 | [103585-fiete-soccer.json](./103585-fiete-soccer.json) |
 | Fiets-Together | 395014 | [395014-fiets-together.json](./395014-fiets-together.json) |
 | FIFA 06: Road to FIFA World Cup | 22342 | [22342-fifa-06-road-to-fifa-world-cup.json](./22342-fifa-06-road-to-fifa-world-cup.json) |
 | FIFA 07 | 240291 | [240291-fifa-07.json](./240291-fifa-07.json) |
@@ -6473,6 +6474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Winter | 97027 | [97027-first-winter.json](./97027-first-winter.json) |
 | First Wonder | 59812 | [59812-first-wonder.json](./59812-first-wonder.json) |
 | First Words Deluxe | 87207 | [87207-first-words-deluxe.json](./87207-first-words-deluxe.json) |
+| First Words Feelings | 103582 | [103582-first-words-feelings.json](./103582-first-words-feelings.json) |
 | First World War | 59322 | [59322-first-world-war.json](./59322-first-world-war.json) |
 | First-Person Bundle | 82545 | [82545-first-person-bundle.json](./82545-first-person-bundle.json) |
 | First-Person Data Explorer | 363622 | [363622-first-person-data-explorer.json](./363622-first-person-data-explorer.json) |
@@ -8232,6 +8234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flo Boarding | 47563 | [47563-flo-boarding.json](./47563-flo-boarding.json) |
 | Floain | 290472 | [290472-floain.json](./290472-floain.json) |
 | Floain Plus | 375978 | [375978-floain-plus.json](./375978-floain-plus.json) |
+| Float | 103581 | [103581-float.json](./103581-float.json) |
 | Float | 245770 | [245770-float.json](./245770-float.json) |
 | Float | 263095 | [263095-float.json](./263095-float.json) |
 | Float Gallery | 51560 | [51560-float-gallery.json](./51560-float-gallery.json) |
@@ -13583,6 +13586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Gus | 310159 | [310159-fun-gus.json](./310159-fun-gus.json) |
 | Fun Hills! | 297517 | [297517-fun-hills.json](./297517-fun-hills.json) |
 | Fun Home | 374298 | [374298-fun-home.json](./374298-fun-home.json) |
+| Fun Hospital | 103615 | [103615-fun-hospital.json](./103615-fun-hospital.json) |
 | Fun Hospital | 241814 | [241814-fun-hospital.json](./241814-fun-hospital.json) |
 | Fun House | 200396 | [200396-fun-house.json](./200396-fun-house.json) |
 | Fun Infused Arcade | 260178 | [260178-fun-infused-arcade.json](./260178-fun-infused-arcade.json) |
