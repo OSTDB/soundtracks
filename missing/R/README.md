@@ -2779,6 +2779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reactor 09 | 123596 | [123596-reactor-09.json](./123596-reactor-09.json) |
 | Reactor Critical | 406651 | [406651-reactor-critical.json](./406651-reactor-critical.json) |
 | Reactor Tech 2 | 163975 | [163975-reactor-tech-2.json](./163975-reactor-tech-2.json) |
+| ReactorX | 138917 | [138917-reactorx.json](./138917-reactorx.json) |
 | ReactorX 3 | 331906 | [331906-reactorx-3.json](./331906-reactorx-3.json) |
 | Reactoryx | 330375 | [330375-reactoryx.json](./330375-reactoryx.json) |
 | Read Only Memories: Double Pack | 323983 | [323983-read-only-memories-double-pack.json](./323983-read-only-memories-double-pack.json) |
@@ -10297,6 +10298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RogueCraft | 345812 | [345812-roguecraft.json](./345812-roguecraft.json) |
 | Roguecraft GB | 391265 | [391265-roguecraft-gb.json](./391265-roguecraft-gb.json) |
 | RogueCraft Squadron | 56507 | [56507-roguecraft-squadron.json](./56507-roguecraft-squadron.json) |
+| RogueCube | 138921 | [138921-roguecube.json](./138921-roguecube.json) |
 | RogueDiceR | 383664 | [383664-roguedicer.json](./383664-roguedicer.json) |
 | Roguefall | 392014 | [392014-roguefall.json](./392014-roguefall.json) |
 | RogueFlip | 385679 | [385679-rogueflip.json](./385679-rogueflip.json) |
@@ -13171,6 +13173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rusty Dudes | 323016 | [323016-rusty-dudes.json](./323016-rusty-dudes.json) |
 | Rusty Dusty | 298105 | [298105-rusty-dusty.json](./298105-rusty-dusty.json) |
 | Rusty Foodies | 347351 | [347351-rusty-foodies.json](./347351-rusty-foodies.json) |
+| Rusty Gun | 138923 | [138923-rusty-gun.json](./138923-rusty-gun.json) |
 | Rusty Hearts | 23524 | [23524-rusty-hearts.json](./23524-rusty-hearts.json) |
 | Rusty Junkyard Simulator | 312429 | [312429-rusty-junkyard-simulator.json](./312429-rusty-junkyard-simulator.json) |
 | Rusty Lines Remastered | 253216 | [253216-rusty-lines-remastered.json](./253216-rusty-lines-remastered.json) |
