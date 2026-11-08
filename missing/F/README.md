@@ -5692,6 +5692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding the Soul Orb | 128099 | [128099-finding-the-soul-orb.json](./128099-finding-the-soul-orb.json) |
 | Finding Xavier | 232928 | [232928-finding-xavier.json](./232928-finding-xavier.json) |
 | Finding Your Way | 370977 | [370977-finding-your-way.json](./370977-finding-your-way.json) |
+| Finding.. | 134163 | [134163-finding.json](./134163-finding.json) |
 | FindIt | 303797 | [303797-findit.json](./303797-findit.json) |
 | FindIt: Bonus Maps 1 | 303798 | [303798-findit-bonus-maps-1.json](./303798-findit-bonus-maps-1.json) |
 | Findme: 30sai no Yume Ooibito | 197204 | [197204-findme-30sai-no-yume-ooibito.json](./197204-findme-30sai-no-yume-ooibito.json) |
