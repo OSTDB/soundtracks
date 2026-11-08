@@ -6101,6 +6101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little House | 341833 | [341833-little-house.json](./341833-little-house.json) |
 | Little Ideology | 134849 | [134849-little-ideology.json](./134849-little-ideology.json) |
 | Little Idle Monsters | 119376 | [119376-little-idle-monsters.json](./119376-little-idle-monsters.json) |
+| Little Imps: A Dungeon Builder | 116583 | [116583-little-imps-a-dungeon-builder.json](./116583-little-imps-a-dungeon-builder.json) |
 | Little Incrementisle | 410039 | [410039-little-incrementisle.json](./410039-little-incrementisle.json) |
 | Little Inferno: Ho Ho Holiday | 224412 | [224412-little-inferno-ho-ho-holiday.json](./224412-little-inferno-ho-ho-holiday.json) |
 | Little Inner Monsters | 193666 | [193666-little-inner-monsters.json](./193666-little-inner-monsters.json) |
