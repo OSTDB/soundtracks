@@ -7970,6 +7970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cube and His Adventure | 53722 | [53722-the-cube-and-his-adventure.json](./53722-the-cube-and-his-adventure.json) |
 | The Cube Factory | 147365 | [147365-the-cube-factory.json](./147365-the-cube-factory.json) |
 | The Cube Hotel: Ning's Wing 2 | 31059 | [31059-the-cube-hotel-nings-wing-2.json](./31059-the-cube-hotel-nings-wing-2.json) |
+| The Cube Is Not Enough | 99890 | [99890-the-cube-is-not-enough.json](./99890-the-cube-is-not-enough.json) |
 | The Cube of Love | 339210 | [339210-the-cube-of-love.json](./339210-the-cube-of-love.json) |
 | The Cube, Save Us | 366870 | [366870-the-cube-save-us.json](./366870-the-cube-save-us.json) |
 | The Cubedex of Boxes and Lines | 158659 | [158659-the-cubedex-of-boxes-and-lines.json](./158659-the-cubedex-of-boxes-and-lines.json) |
@@ -14142,6 +14143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Minesweeper's Tale | 411056 | [411056-the-minesweepers-tale.json](./411056-the-minesweepers-tale.json) |
 | The Mini Crossword | 311756 | [311756-the-mini-crossword.json](./311756-the-mini-crossword.json) |
 | The Mini-Skirt Police | 72595 | [72595-the-mini-skirt-police.json](./72595-the-mini-skirt-police.json) |
+| The Minims - A New Beginning | 100380 | [100380-the-minims-a-new-beginning.json](./100380-the-minims-a-new-beginning.json) |
 | The Minimum Project | 397504 | [397504-the-minimum-project.json](./397504-the-minimum-project.json) |
 | The Minister | 365934 | [365934-the-minister.json](./365934-the-minister.json) |
 | The Ministry for Anomaly Observation | 405582 | [405582-the-ministry-for-anomaly-observation.json](./405582-the-ministry-for-anomaly-observation.json) |
@@ -32422,6 +32424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Driver | 90387 | [90387-truck-driver.json](./90387-truck-driver.json) |
 | Truck Driver + Hidden Places & Damage System DLC Bundle | 164852 | [164852-truck-driver-hidden-places-and-damage-system-dlc-bundle.json](./164852-truck-driver-hidden-places-and-damage-system-dlc-bundle.json) |
 | Truck Driver Go | 320383 | [320383-truck-driver-go.json](./320383-truck-driver-go.json) |
+| Truck Driver: Depot Parking | 99887 | [99887-truck-driver-depot-parking.json](./99887-truck-driver-depot-parking.json) |
 | Truck Driver: French Paint Jobs | 241067 | [241067-truck-driver-french-paint-jobs.json](./241067-truck-driver-french-paint-jobs.json) |
 | Truck Driver: German Paint Jobs | 241068 | [241068-truck-driver-german-paint-jobs.json](./241068-truck-driver-german-paint-jobs.json) |
 | Truck Driver: Gold Edition | 340844 | [340844-truck-driver-gold-edition.json](./340844-truck-driver-gold-edition.json) |
