@@ -4191,6 +4191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Wave | 275376 | [275376-battle-wave.json](./275376-battle-wave.json) |
 | Battle Wave 2323 | 166281 | [166281-battle-wave-2323.json](./166281-battle-wave-2323.json) |
 | Battle Waves | 204809 | [204809-battle-waves.json](./204809-battle-waves.json) |
+| Battle West | 95723 | [95723-battle-west.json](./95723-battle-west.json) |
 | Battle Wizard Attack | 314633 | [314633-battle-wizard-attack.json](./314633-battle-wizard-attack.json) |
 | Battle Wizards | 136284 | [136284-battle-wizards.json](./136284-battle-wizards.json) |
 | Battle World: Kronos - Special Edition | 52455 | [52455-battle-world-kronos-special-edition.json](./52455-battle-world-kronos-special-edition.json) |
@@ -10734,6 +10735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Parkour Craft 3D | 104548 | [104548-block-parkour-craft-3d.json](./104548-block-parkour-craft-3d.json) |
 | Block Party | 259985 | [259985-block-party.json](./259985-block-party.json) |
 | Block Party DX! | 349575 | [349575-block-party-dx.json](./349575-block-party-dx.json) |
+| Block Party Sports | 95719 | [95719-block-party-sports.json](./95719-block-party-sports.json) |
 | Block Pieces | 302025 | [302025-block-pieces.json](./302025-block-pieces.json) |
 | Block Pile | 360562 | [360562-block-pile.json](./360562-block-pile.json) |
 | Block Pong-Pong | 288322 | [288322-block-pong-pong.json](./288322-block-pong-pong.json) |
@@ -11038,6 +11040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlokhedJelli | 292953 | [292953-blokhedjelli.json](./292953-blokhedjelli.json) |
 | Bloki | 276965 | [276965-bloki.json](./276965-bloki.json) |
 | Bloki | 384888 | [384888-bloki.json](./384888-bloki.json) |
+| Bloki | 96143 | [96143-bloki.json](./96143-bloki.json) |
 | Blokin | 102695 | [102695-blokin.json](./102695-blokin.json) |
 | Blokin | 111633 | [111633-blokin.json](./111633-blokin.json) |
 | Blokker | 156585 | [156585-blokker.json](./156585-blokker.json) |
@@ -17131,6 +17134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buddy City Inc. | 383458 | [383458-buddy-city-inc.json](./383458-buddy-city-inc.json) |
 | Buddy Collection | 241521 | [241521-buddy-collection.json](./241521-buddy-collection.json) |
 | Buddy Collection Extra: Kochousou no Kimyou na Go-nin | 222201 | [222201-buddy-collection-extra-kochousou-no-kimyou-na-go-nin.json](./222201-buddy-collection-extra-kochousou-no-kimyou-na-go-nin.json) |
+| Buddy Collection If: Red Thread of Fate | 96157 | [96157-buddy-collection-if-red-thread-of-fate.json](./96157-buddy-collection-if-red-thread-of-fate.json) |
 | Buddy Flip | 90328 | [90328-buddy-flip.json](./90328-buddy-flip.json) |
 | Buddy Garden | 356003 | [356003-buddy-garden.json](./356003-buddy-garden.json) |
 | Buddy Shell | 328071 | [328071-buddy-shell.json](./328071-buddy-shell.json) |
