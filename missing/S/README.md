@@ -15893,6 +15893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow Journey: Nitro | 211371 | [211371-snow-journey-nitro.json](./211371-snow-journey-nitro.json) |
 | Snow Kids | 135888 | [135888-snow-kids.json](./135888-snow-kids.json) |
 | Snow Kingdom | 246544 | [246544-snow-kingdom.json](./246544-snow-kingdom.json) |
+| Snow Leopard Simulator | 89309 | [89309-snow-leopard-simulator.json](./89309-snow-leopard-simulator.json) |
 | Snow Light | 17961 | [17961-snow-light.json](./17961-snow-light.json) |
 | Snow Line | 214887 | [214887-snow-line.json](./214887-snow-line.json) |
 | Snow Madness | 224201 | [224201-snow-madness.json](./224201-snow-madness.json) |
