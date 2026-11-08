@@ -1987,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jiguland | 164964 | [164964-jiguland.json](./164964-jiguland.json) |
 | Jigzo | 363576 | [363576-jigzo.json](./363576-jigzo.json) |
 | JigZone | 254712 | [254712-jigzone.json](./254712-jigzone.json) |
+| Jiji and the Mysterious Forest: Chapter 1 | 122566 | [122566-jiji-and-the-mysterious-forest-chapter-1.json](./122566-jiji-and-the-mysterious-forest-chapter-1.json) |
 | Jiji the Bajillionaire | 366577 | [366577-jiji-the-bajillionaire.json](./366577-jiji-the-bajillionaire.json) |
 | Jiji...Love | 329715 | [329715-jiji-love.json](./329715-jiji-love.json) |
 | Jikai Shounen Mettomag | 41321 | [41321-jikai-shounen-mettomag.json](./41321-jikai-shounen-mettomag.json) |
