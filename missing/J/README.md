@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J. League Pro Striker Final Stage | 45726 | [45726-j-league-pro-striker-final-stage.json](./45726-j-league-pro-striker-final-stage.json) |
 | J. Lo: Fur Bully from the Block | 257407 | [257407-j-lo-fur-bully-from-the-block.json](./257407-j-lo-fur-bully-from-the-block.json) |
 | J.A.O.S.S | 83920 | [83920-j-a-o-s-s.json](./83920-j-a-o-s-s.json) |
+| J.A.W.S | 89331 | [89331-j-a-w-s.json](./89331-j-a-w-s.json) |
 | J.B. Harold 3: D.C. Connection | 74890 | [74890-j-b-harold-3-d-c-connection.json](./74890-j-b-harold-3-d-c-connection.json) |
 | J.B. Harold no Jikenbo: Kiss of Murder | 79622 | [79622-j-b-harold-no-jikenbo-kiss-of-murder.json](./79622-j-b-harold-no-jikenbo-kiss-of-murder.json) |
 | J.B. Harold no Jikenbo: Manhattan Requiem - Yami ni Tobu Tenshi-tachi | 85776 | [85776-j-b-harold-no-jikenbo-manhattan-requiem-yami-ni-tobu-tenshi-tachi.json](./85776-j-b-harold-no-jikenbo-manhattan-requiem-yami-ni-tobu-tenshi-tachi.json) |
