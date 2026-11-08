@@ -4470,6 +4470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Coming: Tactical Training | 35641 | [35641-second-coming-tactical-training.json](./35641-second-coming-tactical-training.json) |
 | Second Death | 32211 | [32211-second-death.json](./32211-second-death.json) |
 | Second Death | 377178 | [377178-second-death.json](./377178-second-death.json) |
+| Second Dimension RetroPak Vol. 1 | 121886 | [121886-second-dimension-retropak-vol-1.json](./121886-second-dimension-retropak-vol-1.json) |
 | Second Dreamer | 245994 | [245994-second-dreamer.json](./245994-second-dreamer.json) |
 | Second Earth | 128800 | [128800-second-earth.json](./128800-second-earth.json) |
 | Second Extinction | 133309 | [133309-second-extinction.json](./133309-second-extinction.json) |
@@ -7173,6 +7174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of Her Past | 86648 | [86648-shadows-of-her-past.json](./86648-shadows-of-her-past.json) |
 | Shadows of Kepler | 125390 | [125390-shadows-of-kepler.json](./125390-shadows-of-kepler.json) |
 | Shadows of Kurgansk | 26581 | [26581-shadows-of-kurgansk.json](./26581-shadows-of-kurgansk.json) |
+| Shadows of Larth | 121884 | [121884-shadows-of-larth.json](./121884-shadows-of-larth.json) |
 | Shadows of Memory Ll | 348912 | [348912-shadows-of-memory-ll.json](./348912-shadows-of-memory-ll.json) |
 | Shadows of Midnight: They Watch Me Sleep | 347366 | [347366-shadows-of-midnight-they-watch-me-sleep.json](./347366-shadows-of-midnight-they-watch-me-sleep.json) |
 | Shadows of Mordor: Game two of Lord of the Rings | 10799 | [10799-shadows-of-mordor-game-two-of-lord-of-the-rings.json](./10799-shadows-of-mordor-game-two-of-lord-of-the-rings.json) |
@@ -27908,6 +27910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Story Hour Adventures | 50713 | [50713-story-hour-adventures.json](./50713-story-hour-adventures.json) |
 | Story Hour: Adventure | 9754 | [9754-story-hour-adventure.json](./9754-story-hour-adventure.json) |
 | Story Hour: Fairy Tales | 9756 | [9756-story-hour-fairy-tales.json](./9756-story-hour-fairy-tales.json) |
+| Story in the Dream World | 121849 | [121849-story-in-the-dream-world.json](./121849-story-in-the-dream-world.json) |
 | Story in the Dream World 3: Sinister Island's Mysterious Mist | 245998 | [245998-story-in-the-dream-world-3-sinister-islands-mysterious-mist.json](./245998-story-in-the-dream-world-3-sinister-islands-mysterious-mist.json) |
 | Story Jar | 228353 | [228353-story-jar.json](./228353-story-jar.json) |
 | Story Machine | 42170 | [42170-story-machine.json](./42170-story-machine.json) |
@@ -35180,6 +35183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushi vs. Burger Race | 347490 | [347490-sushi-vs-burger-race.json](./347490-sushi-vs-burger-race.json) |
 | Sushi vs. Remilia Scarlet | 206739 | [206739-sushi-vs-remilia-scarlet.json](./206739-sushi-vs-remilia-scarlet.json) |
 | Sushi Warrior: Secret Plan | 239805 | [239805-sushi-warrior-secret-plan.json](./239805-sushi-warrior-secret-plan.json) |
+| Sushi Wildlands | 121880 | [121880-sushi-wildlands.json](./121880-sushi-wildlands.json) |
 | Sushi Yummy | 399183 | [399183-sushi-yummy.json](./399183-sushi-yummy.json) |
 | Sushi'd | 56268 | [56268-sushid.json](./56268-sushid.json) |
 | Sushiamo | 400462 | [400462-sushiamo.json](./400462-sushiamo.json) |
