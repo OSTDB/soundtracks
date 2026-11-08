@@ -1954,6 +1954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gardener's Quest | 287235 | [287235-gardeners-quest.json](./287235-gardeners-quest.json) |
 | Gardenia | 173395 | [173395-gardenia.json](./173395-gardenia.json) |
 | Gardenia: Prologue | 402924 | [402924-gardenia-prologue.json](./402924-gardenia-prologue.json) |
+| Gardeniampoule | 135417 | [135417-gardeniampoule.json](./135417-gardeniampoule.json) |
 | Gardening by Choice: Flowers and Foliage | 45886 | [45886-gardening-by-choice-flowers-and-foliage.json](./45886-gardening-by-choice-flowers-and-foliage.json) |
 | Gardening Guide | 67616 | [67616-gardening-guide.json](./67616-gardening-guide.json) |
 | Gardening Mama | 11361 | [11361-gardening-mama.json](./11361-gardening-mama.json) |
@@ -4103,6 +4104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghostnote | 423279 | [423279-ghostnote.json](./423279-ghostnote.json) |
 | Ghostory | 68661 | [68661-ghostory.json](./68661-ghostory.json) |
 | GhostPad | 110267 | [110267-ghostpad.json](./110267-ghostpad.json) |
+| Ghostpia Season One | 135418 | [135418-ghostpia-season-one.json](./135418-ghostpia-season-one.json) |
 | Ghostpia Season Two | 401592 | [401592-ghostpia-season-two.json](./401592-ghostpia-season-two.json) |
 | Ghostprint | 381658 | [381658-ghostprint.json](./381658-ghostprint.json) |
 | Ghostpunk | 407757 | [407757-ghostpunk.json](./407757-ghostpunk.json) |
@@ -4974,6 +4976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glight | 86559 | [86559-glight.json](./86559-glight.json) |
 | Glim | 154157 | [154157-glim.json](./154157-glim.json) |
 | Glimby | 246412 | [246412-glimby.json](./246412-glimby.json) |
+| Glimmer | 135419 | [135419-glimmer.json](./135419-glimmer.json) |
 | Glimmer | 222726 | [222726-glimmer.json](./222726-glimmer.json) |
 | Glimmer | 381053 | [381053-glimmer.json](./381053-glimmer.json) |
 | Glimmer and the Dark Halloween Pumpkin | 323105 | [323105-glimmer-and-the-dark-halloween-pumpkin.json](./323105-glimmer-and-the-dark-halloween-pumpkin.json) |
