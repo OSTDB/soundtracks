@@ -5492,6 +5492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intrigue Inc.: Raven's Flight | 311751 | [311751-intrigue-inc-ravens-flight.json](./311751-intrigue-inc-ravens-flight.json) |
 | Intrigue! | 26452 | [26452-intrigue.json](./26452-intrigue.json) |
 | Intro Fighters | 186161 | [186161-intro-fighters.json](./186161-intro-fighters.json) |
+| Intro Maker | 89353 | [89353-intro-maker.json](./89353-intro-maker.json) |
 | Introducing An Apprentice Incubus | 82640 | [82640-introducing-an-apprentice-incubus.json](./82640-introducing-an-apprentice-incubus.json) |
 | Introspection | 176376 | [176376-introspection.json](./176376-introspection.json) |
 | Introspection | 295884 | [295884-introspection.json](./295884-introspection.json) |
