@@ -2081,6 +2081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harem! Ranch Life | 265357 | [265357-harem-ranch-life.json](./265357-harem-ranch-life.json) |
 | HaremKingdom | 176095 | [176095-haremkingdom.json](./176095-haremkingdom.json) |
 | HaremMate | 22482 | [22482-haremmate.json](./22482-haremmate.json) |
+| Haremon | 127476 | [127476-haremon.json](./127476-haremon.json) |
 | HaremRoid VR | 279668 | [279668-haremroid-vr.json](./279668-haremroid-vr.json) |
 | Hareraiser II | 238889 | [238889-hareraiser-ii.json](./238889-hareraiser-ii.json) |
 | Hareraiser: Finale | 276008 | [276008-hareraiser-finale.json](./276008-hareraiser-finale.json) |
@@ -10888,6 +10889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot-blooded Cheerleading | 324099 | [324099-hot-blooded-cheerleading.json](./324099-hot-blooded-cheerleading.json) |
 | Hot-Pink | 217490 | [217490-hot-pink.json](./217490-hot-pink.json) |
 | Hot, tasty & Armed | 177784 | [177784-hot-tasty-and-armed.json](./177784-hot-tasty-and-armed.json) |
+| Hotaru | 127498 | [127498-hotaru.json](./127498-hotaru.json) |
 | Hotball | 91663 | [91663-hotball.json](./91663-hotball.json) |
 | HotBlood Drift | 233168 | [233168-hotblood-drift.json](./233168-hotblood-drift.json) |
 | HotBunz | 235902 | [235902-hotbunz.json](./235902-hotbunz.json) |
