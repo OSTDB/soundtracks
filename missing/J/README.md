@@ -2926,6 +2926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joust In Love | 176221 | [176221-joust-in-love.json](./176221-joust-in-love.json) |
 | Joust Legend | 60567 | [60567-joust-legend.json](./60567-joust-legend.json) |
 | Joust Pong | 40762 | [40762-joust-pong.json](./40762-joust-pong.json) |
+| Joust VGA | 94280 | [94280-joust-vga.json](./94280-joust-vga.json) |
 | Joust X | 297469 | [297469-joust-x.json](./297469-joust-x.json) |
 | Joust: Joustus Clone for Playdate | 278192 | [278192-joust-joustus-clone-for-playdate.json](./278192-joust-joustus-clone-for-playdate.json) |
 | Joustaposition | 181371 | [181371-joustaposition.json](./181371-joustaposition.json) |
@@ -3248,6 +3249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump | 306229 | [306229-jump.json](./306229-jump.json) |
 | Jump | 363034 | [363034-jump.json](./363034-jump.json) |
 | Jump 'n Bump | 19226 | [19226-jump-n-bump.json](./19226-jump-n-bump.json) |
+| Jump 'N' Roll | 94278 | [94278-jump-n-roll.json](./94278-jump-n-roll.json) |
 | Jump 'n' Run VR | 187768 | [187768-jump-n-run-vr.json](./187768-jump-n-run-vr.json) |
 | Jump & Escape | 179368 | [179368-jump-and-escape.json](./179368-jump-and-escape.json) |
 | Jump & Fall | 369168 | [369168-jump-and-fall.json](./369168-jump-and-fall.json) |
