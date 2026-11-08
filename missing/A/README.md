@@ -7693,6 +7693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Almazy | 170077 | [170077-almazy.json](./170077-almazy.json) |
 | Almazz | 13799 | [13799-almazz.json](./13799-almazz.json) |
 | Almighty: God Idle Clicker | 132013 | [132013-almighty-god-idle-clicker.json](./132013-almighty-god-idle-clicker.json) |
+| Almighty: Kill Your Gods | 134781 | [134781-almighty-kill-your-gods.json](./134781-almighty-kill-your-gods.json) |
 | Almistice | 274010 | [274010-almistice.json](./274010-almistice.json) |
 | Almond Ridge | 270753 | [270753-almond-ridge.json](./270753-almond-ridge.json) |
 | Almora Darkosen | 180955 | [180955-almora-darkosen.json](./180955-almora-darkosen.json) |
@@ -16925,7 +16926,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
