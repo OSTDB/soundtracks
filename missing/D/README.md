@@ -2093,6 +2093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Wizardry: The Road to Gargath | 381341 | [381341-dark-wizardry-the-road-to-gargath.json](./381341-dark-wizardry-the-road-to-gargath.json) |
 | Dark Wonderland | 412293 | [412293-dark-wonderland.json](./412293-dark-wonderland.json) |
 | Dark Woods Haunted Quest: Hidden Objects Game | 197629 | [197629-dark-woods-haunted-quest-hidden-objects-game.json](./197629-dark-woods-haunted-quest-hidden-objects-game.json) |
+| Dark Woods MMO | 136564 | [136564-dark-woods-mmo.json](./136564-dark-woods-mmo.json) |
 | Dark World | 129517 | [129517-dark-world.json](./129517-dark-world.json) |
 | Dark Worlds - Age of Wars | 90343 | [90343-dark-worlds-age-of-wars.json](./90343-dark-worlds-age-of-wars.json) |
 | Dark Wraith | 313999 | [313999-dark-wraith.json](./313999-dark-wraith.json) |
@@ -7123,6 +7124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derby Owners Club | 140282 | [140282-derby-owners-club.json](./140282-derby-owners-club.json) |
 | Derby Owners Club 2 | 68102 | [68102-derby-owners-club-2.json](./68102-derby-owners-club-2.json) |
 | Derby Owners Club 2000 | 68117 | [68117-derby-owners-club-2000.json](./68117-derby-owners-club-2000.json) |
+| Derby Owners Club: World Edition | 136588 | [136588-derby-owners-club-world-edition.json](./136588-derby-owners-club-world-edition.json) |
 | Derby Owners Club: World Edition-EX | 68103 | [68103-derby-owners-club-world-edition-ex.json](./68103-derby-owners-club-world-edition-ex.json) |
 | Derby Quest: Horse Manager HD | 246429 | [246429-derby-quest-horse-manager-hd.json](./246429-derby-quest-horse-manager-hd.json) |
 | Derby Quiz: My Dream Horse | 167093 | [167093-derby-quiz-my-dream-horse.json](./167093-derby-quiz-my-dream-horse.json) |
@@ -13130,6 +13132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doobie | 341112 | [341112-doobie.json](./341112-doobie.json) |
 | Dooblets | 302657 | [302657-dooblets.json](./302657-dooblets.json) |
 | Dood's Big Adventure | 18255 | [18255-doods-big-adventure.json](./18255-doods-big-adventure.json) |
+| Doodle | 136587 | [136587-doodle.json](./136587-doodle.json) |
 | Doodle Adventure of Chameleon | 274317 | [274317-doodle-adventure-of-chameleon.json](./274317-doodle-adventure-of-chameleon.json) |
 | Doodle Adventures | 56770 | [56770-doodle-adventures.json](./56770-doodle-adventures.json) |
 | Doodle Army | 61655 | [61655-doodle-army.json](./61655-doodle-army.json) |
