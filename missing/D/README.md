@@ -3417,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De griezelbus 1 | 98943 | [98943-de-griezelbus-1.json](./98943-de-griezelbus-1.json) |
 | De griezelbus 2 | 78322 | [78322-de-griezelbus-2.json](./78322-de-griezelbus-2.json) |
 | De I Cide | 166589 | [166589-de-i-cide.json](./166589-de-i-cide.json) |
+| De Ja | 126122 | [126122-de-ja.json](./126122-de-ja.json) |
 | De Ontdekker en het mysterie van de Diamanten Scarabee | 268124 | [268124-de-ontdekker-en-het-mysterie-van-de-diamanten-scarabee.json](./268124-de-ontdekker-en-het-mysterie-van-de-diamanten-scarabee.json) |
 | De Profundis | 114257 | [114257-de-profundis.json](./114257-de-profundis.json) |
 | De Schippers van de Kameleon | 349781 | [349781-de-schippers-van-de-kameleon.json](./349781-de-schippers-van-de-kameleon.json) |
@@ -3605,6 +3606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead City: Sci-Fi Pack | 254051 | [254051-dead-city-sci-fi-pack.json](./254051-dead-city-sci-fi-pack.json) |
 | Dead City: Street Fighter Pack | 254382 | [254382-dead-city-street-fighter-pack.json](./254382-dead-city-street-fighter-pack.json) |
 | Dead Containment | 133061 | [133061-dead-containment.json](./133061-dead-containment.json) |
+| Dead County | 126141 | [126141-dead-county.json](./126141-dead-county.json) |
 | Dead Covid-19 in space | 150525 | [150525-dead-covid-19-in-space.json](./150525-dead-covid-19-in-space.json) |
 | Dead Crossway Zompell Survival Zombie | 298441 | [298441-dead-crossway-zompell-survival-zombie.json](./298441-dead-crossway-zompell-survival-zombie.json) |
 | Dead Cubes | 129755 | [129755-dead-cubes.json](./129755-dead-cubes.json) |
@@ -9073,6 +9075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die, Zombie Sausage, Die! | 367151 | [367151-die-zombie-sausage-die.json](./367151-die-zombie-sausage-die.json) |
 | Die!Die!Die! | 62945 | [62945-die-die-die.json](./62945-die-die-die.json) |
 | Die. Respawn. Repeat. | 368468 | [368468-die-respawn-repeat.json](./368468-die-respawn-repeat.json) |
+| Die2Nite | 126127 | [126127-die2nite.json](./126127-die2nite.json) |
 | Dieathlon | 410981 | [410981-dieathlon.json](./410981-dieathlon.json) |
 | Diebrary | 244734 | [244734-diebrary.json](./244734-diebrary.json) |
 | Died | 305915 | [305915-died.json](./305915-died.json) |
@@ -9939,6 +9942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Hunter 2018 | 105858 | [105858-dinosaur-hunter-2018.json](./105858-dinosaur-hunter-2018.json) |
 | Dinosaur Hunter VR | 106448 | [106448-dinosaur-hunter-vr.json](./106448-dinosaur-hunter-vr.json) |
 | Dinosaur Hunting Patrol 3D Jurassic VR | 160142 | [160142-dinosaur-hunting-patrol-3d-jurassic-vr.json](./160142-dinosaur-hunting-patrol-3d-jurassic-vr.json) |
+| Dinosaur Hunting Patrol 3D Multiplayer Online | 126164 | [126164-dinosaur-hunting-patrol-3d-multiplayer-online.json](./126164-dinosaur-hunting-patrol-3d-multiplayer-online.json) |
 | Dinosaur Hunting: Ushinawareta Daichi | 85950 | [85950-dinosaur-hunting-ushinawareta-daichi.json](./85950-dinosaur-hunting-ushinawareta-daichi.json) |
 | Dinosaur Island | 266484 | [266484-dinosaur-island.json](./266484-dinosaur-island.json) |
 | Dinosaur Island | 296309 | [296309-dinosaur-island.json](./296309-dinosaur-island.json) |
@@ -11154,6 +11158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diva Starz: Mall Mania | 49893 | [49893-diva-starz-mall-mania.json](./49893-diva-starz-mall-mania.json) |
 | Diva's Club: Miss Spring | 348048 | [348048-divas-club-miss-spring.json](./348048-divas-club-miss-spring.json) |
 | Divadlo | 271988 | [271988-divadlo.json](./271988-divadlo.json) |
+| Divan Chronicles | 126155 | [126155-divan-chronicles.json](./126155-divan-chronicles.json) |
 | Divan Chronicles: Battle for Dancig - Episode 3 | 172096 | [172096-divan-chronicles-battle-for-dancig-episode-3.json](./172096-divan-chronicles-battle-for-dancig-episode-3.json) |
 | Divarr | 282151 | [282151-divarr.json](./282151-divarr.json) |
 | Dive | 191075 | [191075-dive.json](./191075-dive.json) |
@@ -17965,6 +17970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel Otters | 188264 | [188264-duel-otters.json](./188264-duel-otters.json) |
 | Duel Princess | 186912 | [186912-duel-princess.json](./186912-duel-princess.json) |
 | Duel Puzzle Wars | 114688 | [114688-duel-puzzle-wars.json](./114688-duel-puzzle-wars.json) |
+| Duel Quiz | 126123 | [126123-duel-quiz.json](./126123-duel-quiz.json) |
 | Duel Revolution | 228746 | [228746-duel-revolution.json](./228746-duel-revolution.json) |
 | Duel Savior Destiny | 74838 | [74838-duel-savior-destiny.json](./74838-duel-savior-destiny.json) |
 | Duel School Infinite | 210524 | [210524-duel-school-infinite.json](./210524-duel-school-infinite.json) |
