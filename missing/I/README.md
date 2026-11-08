@@ -3939,6 +3939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5995,6 +5996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Roses | 16063 | [16063-iron-roses.json](./16063-iron-roses.json) |
 | Iron Ruler | 208827 | [208827-iron-ruler.json](./208827-iron-ruler.json) |
 | Iron Runner Robot | 251332 | [251332-iron-runner-robot.json](./251332-iron-runner-robot.json) |
+| Iron Saga | 138898 | [138898-iron-saga.json](./138898-iron-saga.json) |
 | Iron Saga VS | 273641 | [273641-iron-saga-vs.json](./273641-iron-saga-vs.json) |
 | Iron Sea Defenders | 33816 | [33816-iron-sea-defenders.json](./33816-iron-sea-defenders.json) |
 | Iron Sea Frontier Defenders TD | 89015 | [89015-iron-sea-frontier-defenders-td.json](./89015-iron-sea-frontier-defenders-td.json) |
