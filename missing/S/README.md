@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacristan | 425868 | [425868-sacristan.json](./425868-sacristan.json) |
 | Sacritice | 207012 | [207012-sacritice.json](./207012-sacritice.json) |
 | Sacrosanct | 195349 | [195349-sacrosanct.json](./195349-sacrosanct.json) |
+| Sad | 131048 | [131048-sad.json](./131048-sad.json) |
 | Sad | 286771 | [286771-sad.json](./286771-sad.json) |
 | Sad But Ded | 185527 | [185527-sad-but-ded.json](./185527-sad-but-ded.json) |
 | Sad City 42 | 81843 | [81843-sad-city-42.json](./81843-sad-city-42.json) |
@@ -2332,6 +2333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savant: Ascent - Anniversary Edition | 245867 | [245867-savant-ascent-anniversary-edition.json](./245867-savant-ascent-anniversary-edition.json) |
 | Savant: Ascent Remix | 261364 | [261364-savant-ascent-remix.json](./261364-savant-ascent-remix.json) |
 | Savara | 317700 | [317700-savara.json](./317700-savara.json) |
+| Savaş ve Fethet | 131057 | [131057-savas-ve-fethet.json](./131057-savas-ve-fethet.json) |
 | Save | 309827 | [309827-save.json](./309827-save.json) |
 | Save 2020 | 156043 | [156043-save-2020.json](./156043-save-2020.json) |
 | Save 2B Young Man | 367009 | [367009-save-2b-young-man.json](./367009-save-2b-young-man.json) |
@@ -5093,6 +5095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Chess | 19490 | [19490-sega-chess.json](./19490-sega-chess.json) |
 | Sega Classics Arcade Collection 4-in-1 | 5432 | [5432-sega-classics-arcade-collection-4-in-1.json](./5432-sega-classics-arcade-collection-4-in-1.json) |
 | Sega Classics Arcade Collection: Limited Edition | 45864 | [45864-sega-classics-arcade-collection-limited-edition.json](./45864-sega-classics-arcade-collection-limited-edition.json) |
+| Sega Classics for Amazon Fire TV | 131033 | [131033-sega-classics-for-amazon-fire-tv.json](./131033-sega-classics-for-amazon-fire-tv.json) |
 | Sega Clay Challenge | 39432 | [39432-sega-clay-challenge.json](./39432-sega-clay-challenge.json) |
 | Sega Flipper | 308409 | [308409-sega-flipper.json](./308409-sega-flipper.json) |
 | Sega Flipper | 6130 | [6130-sega-flipper.json](./6130-sega-flipper.json) |
@@ -7075,6 +7078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowgrounds Survivor | 9931 | [9931-shadowgrounds-survivor.json](./9931-shadowgrounds-survivor.json) |
 | Shadowgun | 38873 | [38873-shadowgun.json](./38873-shadowgun.json) |
 | Shadowgun Legends | 56060 | [56060-shadowgun-legends.json](./56060-shadowgun-legends.json) |
+| Shadowgun War Games | 131060 | [131060-shadowgun-war-games.json](./131060-shadowgun-war-games.json) |
 | Shadowgun: DeadZone | 39172 | [39172-shadowgun-deadzone.json](./39172-shadowgun-deadzone.json) |
 | Shadowhand | 18690 | [18690-shadowhand.json](./18690-shadowhand.json) |
 | Shadowhand Solitaire | 322568 | [322568-shadowhand-solitaire.json](./322568-shadowhand-solitaire.json) |
@@ -16828,6 +16832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solis | 354927 | [354927-solis.json](./354927-solis.json) |
 | Solis | 375497 | [375497-solis.json](./375497-solis.json) |
 | Solisquare | 294187 | [294187-solisquare.json](./294187-solisquare.json) |
+| Solitaire | 131072 | [131072-solitaire.json](./131072-solitaire.json) |
 | Solitaire | 131096 | [131096-solitaire.json](./131096-solitaire.json) |
 | Solitaire | 131465 | [131465-solitaire.json](./131465-solitaire.json) |
 | Solitaire | 234167 | [234167-solitaire.json](./234167-solitaire.json) |
@@ -19981,7 +19986,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 142578 | [142578-space-hunter.json](./142578-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
@@ -21358,6 +21362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Devils: Online Racing | 46371 | [46371-speed-devils-online-racing.json](./46371-speed-devils-online-racing.json) |
 | Speed Dreams | 65339 | [65339-speed-dreams.json](./65339-speed-dreams.json) |
 | Speed Drifters | 193998 | [193998-speed-drifters.json](./193998-speed-drifters.json) |
+| Speed Driver: Evolution | 131052 | [131052-speed-driver-evolution.json](./131052-speed-driver-evolution.json) |
 | Speed DX | 261254 | [261254-speed-dx.json](./261254-speed-dx.json) |
 | Speed Elixir | 19447 | [19447-speed-elixir.json](./19447-speed-elixir.json) |
 | Speed empire | 156804 | [156804-speed-empire.json](./156804-speed-empire.json) |
@@ -29846,6 +29851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudokiller | 417211 | [417211-sudokiller.json](./417211-sudokiller.json) |
 | Sudokku Elite Collection | 58256 | [58256-sudokku-elite-collection.json](./58256-sudokku-elite-collection.json) |
 | Sudokolorful | 162524 | [162524-sudokolorful.json](./162524-sudokolorful.json) |
+| Sudoku | 131070 | [131070-sudoku.json](./131070-sudoku.json) |
 | Sudoku | 131490 | [131490-sudoku.json](./131490-sudoku.json) |
 | Sudoku | 131505 | [131505-sudoku.json](./131505-sudoku.json) |
 | Sudoku | 224170 | [224170-sudoku.json](./224170-sudoku.json) |
@@ -34447,6 +34453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supipara | 23471 | [23471-supipara.json](./23471-supipara.json) |
 | Supipara: Chapter 1 | 32232 | [32232-supipara-chapter-1.json](./32232-supipara-chapter-1.json) |
 | Supipara: Chapter 2 | 90149 | [90149-supipara-chapter-2.json](./90149-supipara-chapter-2.json) |
+| Suplex | 131036 | [131036-suplex.json](./131036-suplex.json) |
 | Supotto Spot | 379574 | [379574-supotto-spot.json](./379574-supotto-spot.json) |
 | Suppa Ninja | 397833 | [397833-suppa-ninja.json](./397833-suppa-ninja.json) |
 | Supple | 370963 | [370963-supple.json](./370963-supple.json) |
@@ -36165,6 +36172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword vs. Horde | 292947 | [292947-sword-vs-horde.json](./292947-sword-vs-horde.json) |
 | Sword Warriors | 304242 | [304242-sword-warriors.json](./304242-sword-warriors.json) |
 | Sword With Sauce | 29725 | [29725-sword-with-sauce.json](./29725-sword-with-sauce.json) |
+| Sword World 2.0: Game Book DS | 131058 | [131058-sword-world-2-0-game-book-ds.json](./131058-sword-world-2-0-game-book-ds.json) |
 | Sword World PC | 240492 | [240492-sword-world-pc.json](./240492-sword-world-pc.json) |
 | Sword World SFC | 61368 | [61368-sword-world-sfc.json](./61368-sword-world-sfc.json) |
 | Sword World SFC 2: Inishie no Kyojin Densetsu | 37801 | [37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json](./37801-sword-world-sfc-2-inishie-no-kyojin-densetsu.json) |
