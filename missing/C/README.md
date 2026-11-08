@@ -9091,6 +9091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle of Sumo: Online Rumble! | 126661 | [126661-circle-of-sumo-online-rumble.json](./126661-circle-of-sumo-online-rumble.json) |
 | Circle of Swords | 276242 | [276242-circle-of-swords.json](./276242-circle-of-swords.json) |
 | Circle Pong | 289388 | [289388-circle-pong.json](./289388-circle-pong.json) |
+| Circle Rally Party | 113913 | [113913-circle-rally-party.json](./113913-circle-rally-party.json) |
 | Circle Tank | 138658 | [138658-circle-tank.json](./138658-circle-tank.json) |
 | Circle TD: Defence War | 309819 | [309819-circle-td-defence-war.json](./309819-circle-td-defence-war.json) |
 | Circle the Dot | 39200 | [39200-circle-the-dot.json](./39200-circle-the-dot.json) |
@@ -9830,6 +9831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clan Generator | 212244 | [212244-clan-generator.json](./212244-clan-generator.json) |
 | Clan Lord | 63698 | [63698-clan-lord.json](./63698-clan-lord.json) |
 | Clan monsters | 257707 | [257707-clan-monsters.json](./257707-clan-monsters.json) |
+| Clan N | 113915 | [113915-clan-n.json](./113915-clan-n.json) |
 | Clan O'Conall and the Crown of the Stag | 137993 | [137993-clan-oconall-and-the-crown-of-the-stag.json](./137993-clan-oconall-and-the-crown-of-the-stag.json) |
 | Clan of Champions | 16341 | [16341-clan-of-champions.json](./16341-clan-of-champions.json) |
 | Clan of Death | 150430 | [150430-clan-of-death.json](./150430-clan-of-death.json) |
@@ -10384,6 +10386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clic the ABC 123 Laptop | 333121 | [333121-clic-the-abc-123-laptop.json](./333121-clic-the-abc-123-laptop.json) |
 | Cliché Adventure | 159712 | [159712-cliche-adventure.json](./159712-cliche-adventure.json) |
 | Cliché Quest | 397603 | [397603-cliche-quest.json](./397603-cliche-quest.json) |
+| Cliché: Critical Change | 113829 | [113829-cliche-critical-change.json](./113829-cliche-critical-change.json) |
 | Click & Click | 118633 | [118633-click-and-click.json](./118633-click-and-click.json) |
 | Click & Cum | 236100 | [236100-click-and-cum.json](./236100-click-and-cum.json) |
 | Click Adventure | 364144 | [364144-click-adventure.json](./364144-click-adventure.json) |
@@ -11297,6 +11300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cobra Command | 290272 | [290272-cobra-command.json](./290272-cobra-command.json) |
 | Cobra Command | 69496 | [69496-cobra-command.json](./69496-cobra-command.json) |
 | Cobra Force | 13500 | [13500-cobra-force.json](./13500-cobra-force.json) |
+| Cobra Gunship | 113937 | [113937-cobra-gunship.json](./113937-cobra-gunship.json) |
 | Cobra II | 71390 | [71390-cobra-ii.json](./71390-cobra-ii.json) |
 | Cobra Kai 2: Dojos Rising | 208711 | [208711-cobra-kai-2-dojos-rising.json](./208711-cobra-kai-2-dojos-rising.json) |
 | Cobra Kai 2: Dojos Rising - Nemesis Edition | 223808 | [223808-cobra-kai-2-dojos-rising-nemesis-edition.json](./223808-cobra-kai-2-dojos-rising-nemesis-edition.json) |
@@ -14084,6 +14088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constellation Courier | 309127 | [309127-constellation-courier.json](./309127-constellation-courier.json) |
 | Constellation Distantia | 30090 | [30090-constellation-distantia.json](./30090-constellation-distantia.json) |
 | Constellation Tango | 191178 | [191178-constellation-tango.json](./191178-constellation-tango.json) |
+| Constellations | 113926 | [113926-constellations.json](./113926-constellations.json) |
 | Constellations | 397860 | [397860-constellations.json](./397860-constellations.json) |
 | Constellations: Beyond the Edges | 167256 | [167256-constellations-beyond-the-edges.json](./167256-constellations-beyond-the-edges.json) |
 | Constellations: Puzzles in the Sky | 195428 | [195428-constellations-puzzles-in-the-sky.json](./195428-constellations-puzzles-in-the-sky.json) |
