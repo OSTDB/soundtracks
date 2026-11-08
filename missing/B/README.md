@@ -330,6 +330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babysitting Party | 92669 | [92669-babysitting-party.json](./92669-babysitting-party.json) |
 | BabyType | 144497 | [144497-babytype.json](./144497-babytype.json) |
 | BabyUp: Butterflies | 96576 | [96576-babyup-butterflies.json](./96576-babyup-butterflies.json) |
+| BabyUp: Cars | 96813 | [96813-babyup-cars.json](./96813-babyup-cars.json) |
 | BabyUp: Dinos | 102638 | [102638-babyup-dinos.json](./102638-babyup-dinos.json) |
 | Babyz | 205899 | [205899-babyz.json](./205899-babyz.json) |
 | Babyz: Your Virtual Bundle of Joy | 70343 | [70343-babyz-your-virtual-bundle-of-joy.json](./70343-babyz-your-virtual-bundle-of-joy.json) |
@@ -3745,6 +3746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Fleet | 48586 | [48586-battle-fleet.json](./48586-battle-fleet.json) |
 | Battle Fleet | 91333 | [91333-battle-fleet.json](./91333-battle-fleet.json) |
 | Battle Fleet 2 | 36182 | [36182-battle-fleet-2.json](./36182-battle-fleet-2.json) |
+| Battle Fleet: Ground Assault | 96389 | [96389-battle-fleet-ground-assault.json](./96389-battle-fleet-ground-assault.json) |
 | Battle Flip Shot | 39667 | [39667-battle-flip-shot.json](./39667-battle-flip-shot.json) |
 | Battle for Agatharia | 356038 | [356038-battle-for-agatharia.json](./356038-battle-for-agatharia.json) |
 | Battle for Antares | 152942 | [152942-battle-for-antares.json](./152942-battle-for-antares.json) |
@@ -15178,6 +15180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravo Air Race | 18250 | [18250-bravo-air-race.json](./18250-bravo-air-race.json) |
 | Bravo Music: Chou Meikyokuban | 269384 | [269384-bravo-music-chou-meikyokuban.json](./269384-bravo-music-chou-meikyokuban.json) |
 | Bravo Music: Christmas Edition | 86009 | [86009-bravo-music-christmas-edition.json](./86009-bravo-music-christmas-edition.json) |
+| Bravo My Hero | 96826 | [96826-bravo-my-hero.json](./96826-bravo-my-hero.json) |
 | Bravo Romeo Delta | 14344 | [14344-bravo-romeo-delta.json](./14344-bravo-romeo-delta.json) |
 | Bravo Soccer | 197628 | [197628-bravo-soccer.json](./197628-bravo-soccer.json) |
 | Bravo Team | 37143 | [37143-bravo-team.json](./37143-bravo-team.json) |
