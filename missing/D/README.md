@@ -10482,6 +10482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disconsolate | 74167 | [74167-disconsolate.json](./74167-disconsolate.json) |
 | Discontrolled | 299565 | [299565-discontrolled.json](./299565-discontrolled.json) |
 | Discopup | 327986 | [327986-discopup.json](./327986-discopup.json) |
+| Discord Times | 93112 | [93112-discord-times.json](./93112-discord-times.json) |
 | Discordia | 55960 | [55960-discordia.json](./55960-discordia.json) |
 | Discordia by Iron Games | 262343 | [262343-discordia-by-iron-games.json](./262343-discordia-by-iron-games.json) |
 | Discount Nightmares: The Gulch | 391164 | [391164-discount-nightmares-the-gulch.json](./391164-discount-nightmares-the-gulch.json) |
@@ -10499,6 +10500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discovered | 137519 | [137519-discovered.json](./137519-discovered.json) |
 | Discoverer | 123841 | [123841-discoverer.json](./123841-discoverer.json) |
 | Discoveries of the Deep | 69627 | [69627-discoveries-of-the-deep.json](./69627-discoveries-of-the-deep.json) |
+| Discovering America | 93097 | [93097-discovering-america.json](./93097-discovering-america.json) |
 | Discovering Colors - Animals (Coloring Book) | 106572 | [106572-discovering-colors-animals-coloring-book.json](./106572-discovering-colors-animals-coloring-book.json) |
 | Discovering Endangered Wildlife | 262258 | [262258-discovering-endangered-wildlife.json](./262258-discovering-endangered-wildlife.json) |
 | Discovering Galimore | 294154 | [294154-discovering-galimore.json](./294154-discovering-galimore.json) |
@@ -17100,6 +17102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drimsley | 137526 | [137526-drimsley.json](./137526-drimsley.json) |
 | Dringle | 287503 | [287503-dringle.json](./287503-dringle.json) |
 | Drink | 178604 | [178604-drink.json](./178604-drink.json) |
+| Drink & Drown | 93110 | [93110-drink-and-drown.json](./93110-drink-and-drown.json) |
 | Drink and Girls | 243163 | [243163-drink-and-girls.json](./243163-drink-and-girls.json) |
 | Drink Bar Maid | 134608 | [134608-drink-bar-maid.json](./134608-drink-bar-maid.json) |
 | Drink Bar Maid: Regression | 134609 | [134609-drink-bar-maid-regression.json](./134609-drink-bar-maid-regression.json) |
