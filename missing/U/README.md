@@ -1346,6 +1346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unbridled: An Untameable Story | 313801 | [313801-unbridled-an-untameable-story.json](./313801-unbridled-an-untameable-story.json) |
 | Unbridled: That Horse Game | 217136 | [217136-unbridled-that-horse-game.json](./217136-unbridled-that-horse-game.json) |
 | Unbroken | 298600 | [298600-unbroken.json](./298600-unbroken.json) |
+| Unbroken Soul | 119913 | [119913-unbroken-soul.json](./119913-unbroken-soul.json) |
 | Unbroken Valor | 413164 | [413164-unbroken-valor.json](./413164-unbroken-valor.json) |
 | Unbroken Warrior | 104366 | [104366-unbroken-warrior.json](./104366-unbroken-warrior.json) |
 | Unbroken: The Awakening | 247829 | [247829-unbroken-the-awakening.json](./247829-unbroken-the-awakening.json) |
@@ -1472,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnControlled Shooter | 331179 | [331179-uncontrolled-shooter.json](./331179-uncontrolled-shooter.json) |
 | Unconventional Broadcasting Department Mika & Luna | 405948 | [405948-unconventional-broadcasting-department-mika-and-luna.json](./405948-unconventional-broadcasting-department-mika-and-luna.json) |
 | Unconventional Ragdoll Game | 151525 | [151525-unconventional-ragdoll-game.json](./151525-unconventional-ragdoll-game.json) |
+| Unconventional Warfare | 119907 | [119907-unconventional-warfare.json](./119907-unconventional-warfare.json) |
 | Uncopy | 104698 | [104698-uncopy.json](./104698-uncopy.json) |
 | Uncorporeal: Alcatraz Island Lofts | 32089 | [32089-uncorporeal-alcatraz-island-lofts.json](./32089-uncorporeal-alcatraz-island-lofts.json) |
 | Uncorporeal: Fluffy! | 32120 | [32120-uncorporeal-fluffy.json](./32120-uncorporeal-fluffy.json) |
@@ -2914,6 +2916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unsupervised | 247658 | [247658-unsupervised.json](./247658-unsupervised.json) |
 | Unsustainable: a god job | 180842 | [180842-unsustainable-a-god-job.json](./180842-unsustainable-a-god-job.json) |
 | Unswappers | 367289 | [367289-unswappers.json](./367289-unswappers.json) |
+| Unsweet | 119887 | [119887-unsweet.json](./119887-unsweet.json) |
 | Untale: King of Revinia | 140876 | [140876-untale-king-of-revinia.json](./140876-untale-king-of-revinia.json) |
 | Untameable | 313800 | [313800-untameable.json](./313800-untameable.json) |
 | Untamed | 280233 | [280233-untamed.json](./280233-untamed.json) |
