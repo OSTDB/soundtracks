@@ -5717,6 +5717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kotoba no Puzzle: Mojipittan DS | 68083 | [68083-kotoba-no-puzzle-mojipittan-ds.json](./68083-kotoba-no-puzzle-mojipittan-ds.json) |
 | Kotoba no Puzzle: Mojipittan Encore | 122292 | [122292-kotoba-no-puzzle-mojipittan-encore.json](./122292-kotoba-no-puzzle-mojipittan-encore.json) |
 | Kotoba no Puzzle: Mojipittan Wii Deluxe | 68080 | [68080-kotoba-no-puzzle-mojipittan-wii-deluxe.json](./68080-kotoba-no-puzzle-mojipittan-wii-deluxe.json) |
+| Kotobuki | 94311 | [94311-kotobuki.json](./94311-kotobuki.json) |
 | Kotobuki Grand Prix | 133823 | [133823-kotobuki-grand-prix.json](./133823-kotobuki-grand-prix.json) |
 | Kotodama Diary | 152193 | [152193-kotodama-diary.json](./152193-kotodama-diary.json) |
 | Kotoko's a Little Weird | 290687 | [290687-kotokos-a-little-weird.json](./290687-kotokos-a-little-weird.json) |
