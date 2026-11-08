@@ -5936,6 +5936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Awesome | 253255 | [253255-max-awesome.json](./253255-max-awesome.json) |
 | Max Axe | 343970 | [343970-max-axe.json](./343970-max-axe.json) |
 | Max Beyond | 259519 | [259519-max-beyond.json](./259519-max-beyond.json) |
+| Max Blaster and Doris de Lightning Against the Parrot Creatures of Venus | 125576 | [125576-max-blaster-and-doris-de-lightning-against-the-parrot-creatures-of-venus.json](./125576-max-blaster-and-doris-de-lightning-against-the-parrot-creatures-of-venus.json) |
 | Max Bradshaw and the Zombie Invasion | 197250 | [197250-max-bradshaw-and-the-zombie-invasion.json](./197250-max-bradshaw-and-the-zombie-invasion.json) |
 | Max Capacitor | 208258 | [208258-max-capacitor.json](./208258-max-capacitor.json) |
 | Max Capacity | 267300 | [267300-max-capacity.json](./267300-max-capacity.json) |
@@ -11852,6 +11853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mikonote | 188268 | [188268-mikonote.json](./188268-mikonote.json) |
 | Mikoshi | 191200 | [191200-mikoshi.json](./191200-mikoshi.json) |
 | Mikoto Memory | 314832 | [314832-mikoto-memory.json](./314832-mikoto-memory.json) |
+| Mikoto Nikki | 125547 | [125547-mikoto-nikki.json](./125547-mikoto-nikki.json) |
 | MikoVerse | 288148 | [288148-mikoverse.json](./288148-mikoverse.json) |
 | Mikro Mortal Tennis | 73473 | [73473-mikro-mortal-tennis.json](./73473-mikro-mortal-tennis.json) |
 | Mikrocosmos | 232944 | [232944-mikrocosmos.json](./232944-mikrocosmos.json) |
@@ -14351,6 +14353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mix AI Animal Ultimate | 320369 | [320369-mix-ai-animal-ultimate.json](./320369-mix-ai-animal-ultimate.json) |
 | Mix Dunk: King of Basketball | 274884 | [274884-mix-dunk-king-of-basketball.json](./274884-mix-dunk-king-of-basketball.json) |
 | Mix Hentai Girls | 165830 | [165830-mix-hentai-girls.json](./165830-mix-hentai-girls.json) |
+| Mix Ore | 125546 | [125546-mix-ore.json](./125546-mix-ore.json) |
 | Mix Superstar | 262371 | [262371-mix-superstar.json](./262371-mix-superstar.json) |
 | Mix the Forgotten | 247872 | [247872-mix-the-forgotten.json](./247872-mix-the-forgotten.json) |
 | Mix TV Presents: Eminem | 176686 | [176686-mix-tv-presents-eminem.json](./176686-mix-tv-presents-eminem.json) |
@@ -18341,6 +18344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motto Kigaru ni! Oekaki Koubou Plus | 222428 | [222428-motto-kigaru-ni-oekaki-koubou-plus.json](./222428-motto-kigaru-ni-oekaki-koubou-plus.json) |
 | Motto Me de Unou o Kitaeru: Sokudoku Jutsu 3 | 141146 | [141146-motto-me-de-unou-o-kitaeru-sokudoku-jutsu-3.json](./141146-motto-me-de-unou-o-kitaeru-sokudoku-jutsu-3.json) |
 | Motto Nuga-Cel! | 59161 | [59161-motto-nuga-cel.json](./59161-motto-nuga-cel.json) |
+| Motto Pro Yakyuu Team wo Tsukurou | 125557 | [125557-motto-pro-yakyuu-team-wo-tsukurou.json](./125557-motto-pro-yakyuu-team-wo-tsukurou.json) |
 | Motto Shiritai Karada no Hatena | 261370 | [261370-motto-shiritai-karada-no-hatena.json](./261370-motto-shiritai-karada-no-hatena.json) |
 | Motto Shiritai Kodai Egypt | 276471 | [276471-motto-shiritai-kodai-egypt.json](./276471-motto-shiritai-kodai-egypt.json) |
 | Motto Shiritai Nippon no Meijou | 261369 | [261369-motto-shiritai-nippon-no-meijou.json](./261369-motto-shiritai-nippon-no-meijou.json) |
