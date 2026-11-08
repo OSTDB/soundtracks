@@ -7262,6 +7262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens Love Beefs | 132529 | [132529-aliens-love-beefs.json](./132529-aliens-love-beefs.json) |
 | Aliens Must Die | 395869 | [395869-aliens-must-die.json](./395869-aliens-must-die.json) |
 | Aliens Need Redhead | 183322 | [183322-aliens-need-redhead.json](./183322-aliens-need-redhead.json) |
+| Aliens on the Table | 101169 | [101169-aliens-on-the-table.json](./101169-aliens-on-the-table.json) |
 | Aliens Revenge | 332170 | [332170-aliens-revenge.json](./332170-aliens-revenge.json) |
 | Aliens RPG | 84303 | [84303-aliens-rpg.json](./84303-aliens-rpg.json) |
 | Aliens Tower Defense | 248037 | [248037-aliens-tower-defense.json](./248037-aliens-tower-defense.json) |
@@ -8574,6 +8575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amber Alert Total VR | 339722 | [339722-amber-alert-total-vr.json](./339722-amber-alert-total-vr.json) |
 | Amber Battle Royale | 226219 | [226219-amber-battle-royale.json](./226219-amber-battle-royale.json) |
 | Amber City | 210904 | [210904-amber-city.json](./210904-amber-city.json) |
+| Amber Country | 101174 | [101174-amber-country.json](./101174-amber-country.json) |
 | Amber County | 102067 | [102067-amber-county.json](./102067-amber-county.json) |
 | Amber Effect | 174693 | [174693-amber-effect.json](./174693-amber-effect.json) |
 | Amber Eyes | 422836 | [422836-amber-eyes.json](./422836-amber-eyes.json) |
@@ -12329,6 +12331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarium Pairs | 96578 | [96578-aquarium-pairs.json](./96578-aquarium-pairs.json) |
 | Aquarium Sandbox | 111808 | [111808-aquarium-sandbox.json](./111808-aquarium-sandbox.json) |
 | Aquarium Shop | 146919 | [146919-aquarium-shop.json](./146919-aquarium-shop.json) |
+| Aquarium Sim | 101164 | [101164-aquarium-sim.json](./101164-aquarium-sim.json) |
 | Aquarium Travels | 152642 | [152642-aquarium-travels.json](./152642-aquarium-travels.json) |
 | Aquarium. | 91325 | [91325-aquarium.json](./91325-aquarium.json) |
 | Aquariums | 345937 | [345937-aquariums.json](./345937-aquariums.json) |
