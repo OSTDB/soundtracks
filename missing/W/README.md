@@ -3987,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Fortune | 116896 | [116896-wheel-of-fortune.json](./116896-wheel-of-fortune.json) |
 | Wheel of Fortune | 116957 | [116957-wheel-of-fortune.json](./116957-wheel-of-fortune.json) |
 | Wheel of Fortune | 119255 | [119255-wheel-of-fortune.json](./119255-wheel-of-fortune.json) |
+| Wheel of Fortune | 127485 | [127485-wheel-of-fortune.json](./127485-wheel-of-fortune.json) |
 | Wheel of Fortune | 128891 | [128891-wheel-of-fortune.json](./128891-wheel-of-fortune.json) |
 | Wheel of Fortune | 142026 | [142026-wheel-of-fortune.json](./142026-wheel-of-fortune.json) |
 | Wheel of Fortune | 144230 | [144230-wheel-of-fortune.json](./144230-wheel-of-fortune.json) |
@@ -5635,6 +5636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willy Crash | 225626 | [225626-willy-crash.json](./225626-willy-crash.json) |
 | Willy Crash Mini | 225627 | [225627-willy-crash-mini.json](./225627-willy-crash-mini.json) |
 | Willy J Peso Presents: Save the Trees | 102858 | [102858-willy-j-peso-presents-save-the-trees.json](./102858-willy-j-peso-presents-save-the-trees.json) |
+| Willy Jetman: Astromonkey's Revenge | 127437 | [127437-willy-jetman-astromonkeys-revenge.json](./127437-willy-jetman-astromonkeys-revenge.json) |
 | Willy Jetman: Astromonkey's Revenge - Sweeper's Edition | 139831 | [139831-willy-jetman-astromonkeys-revenge-sweepers-edition.json](./139831-willy-jetman-astromonkeys-revenge-sweepers-edition.json) |
 | Willy Morgan and the Curse of Bone Town | 133429 | [133429-willy-morgan-and-the-curse-of-bone-town.json](./133429-willy-morgan-and-the-curse-of-bone-town.json) |
 | Willy the Striker | 114719 | [114719-willy-the-striker.json](./114719-willy-the-striker.json) |
