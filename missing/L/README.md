@@ -1239,6 +1239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Chick | 131827 | [131827-last-chick.json](./131827-last-chick.json) |
 | Last Chickenburg | 121447 | [121447-last-chickenburg.json](./121447-last-chickenburg.json) |
 | Last Christmas | 220542 | [220542-last-christmas.json](./220542-last-christmas.json) |
+| Last Cloudia | 123180 | [123180-last-cloudia.json](./123180-last-cloudia.json) |
 | Last Colony | 177633 | [177633-last-colony.json](./177633-last-colony.json) |
 | Last Colossus | 198014 | [198014-last-colossus.json](./198014-last-colossus.json) |
 | Last Command | 148673 | [148673-last-command.json](./148673-last-command.json) |
@@ -3882,6 +3883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Ride: Horse Club the Saddle Show Mystery | 201916 | [201916-lets-ride-horse-club-the-saddle-show-mystery.json](./201916-lets-ride-horse-club-the-saddle-show-mystery.json) |
 | Let's Ride: Riding Star | 201918 | [201918-lets-ride-riding-star.json](./201918-lets-ride-riding-star.json) |
 | Let's Ride: The Rosemond Hill Collection | 201919 | [201919-lets-ride-the-rosemond-hill-collection.json](./201919-lets-ride-the-rosemond-hill-collection.json) |
+| Let's Ride! | 123159 | [123159-lets-ride.json](./123159-lets-ride.json) |
 | Let's Ride! Best in Breed 3D | 60869 | [60869-lets-ride-best-in-breed-3d.json](./60869-lets-ride-best-in-breed-3d.json) |
 | Let's Ride! Championship Dreams | 72136 | [72136-lets-ride-championship-dreams.json](./72136-lets-ride-championship-dreams.json) |
 | Let's Ride! Friends Forever | 49668 | [49668-lets-ride-friends-forever.json](./49668-lets-ride-friends-forever.json) |
@@ -5716,6 +5718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lion | 9565 | [9565-lion.json](./9565-lion.json) |
 | Lion and the King | 56804 | [56804-lion-and-the-king.json](./56804-lion-and-the-king.json) |
 | Lion and the King 2 | 56805 | [56805-lion-and-the-king-2.json](./56805-lion-and-the-king-2.json) |
+| Lion and the King 3 | 123160 | [123160-lion-and-the-king-3.json](./123160-lion-and-the-king-3.json) |
 | Lion Bubble Tosser: The Queen of the Safari | 259078 | [259078-lion-bubble-tosser-the-queen-of-the-safari.json](./259078-lion-bubble-tosser-the-queen-of-the-safari.json) |
 | Lion Heart Soushuu-hen | 207202 | [207202-lion-heart-soushuu-hen.json](./207202-lion-heart-soushuu-hen.json) |
 | Lion King 3 | 247408 | [247408-lion-king-3.json](./247408-lion-king-3.json) |
@@ -9846,6 +9849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumien | 236409 | [236409-lumien.json](./236409-lumien.json) |
 | Lumiere | 415100 | [415100-lumiere.json](./415100-lumiere.json) |
 | LumiereMagna | 251925 | [251925-lumieremagna.json](./251925-lumieremagna.json) |
+| Lumiette | 123151 | [123151-lumiette.json](./123151-lumiette.json) |
 | Lumiland | 166726 | [166726-lumiland.json](./166726-lumiland.json) |
 | Lumilight: The Fifth Energy | 350555 | [350555-lumilight-the-fifth-energy.json](./350555-lumilight-the-fifth-energy.json) |
 | Lumin: Echo of Spacetime | 423885 | [423885-lumin-echo-of-spacetime.json](./423885-lumin-echo-of-spacetime.json) |
