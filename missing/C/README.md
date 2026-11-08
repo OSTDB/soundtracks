@@ -4356,6 +4356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cataclysm: Even Angels Sin | 307238 | [307238-cataclysm-even-angels-sin.json](./307238-cataclysm-even-angels-sin.json) |
 | Cataclysm: The Last Generation | 351363 | [351363-cataclysm-the-last-generation.json](./351363-cataclysm-the-last-generation.json) |
 | Cataclysmic Bite | 382833 | [382833-cataclysmic-bite.json](./382833-cataclysmic-bite.json) |
+| CataclysmRL | 92564 | [92564-cataclysmrl.json](./92564-cataclysmrl.json) |
 | Cataclysms and Catastrophes | 148682 | [148682-cataclysms-and-catastrophes.json](./148682-cataclysms-and-catastrophes.json) |
 | Catacomb | 11042 | [11042-catacomb.json](./11042-catacomb.json) |
 | Catacomb | 380060 | [380060-catacomb.json](./380060-catacomb.json) |
@@ -5527,6 +5528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Center Court Tennis | 100041 | [100041-center-court-tennis.json](./100041-center-court-tennis.json) |
 | Center Mass: Streets of Ramadi | 344796 | [344796-center-mass-streets-of-ramadi.json](./344796-center-mass-streets-of-ramadi.json) |
 | Center of Gravity | 29158 | [29158-center-of-gravity.json](./29158-center-of-gravity.json) |
+| Center Ring Boxing | 92548 | [92548-center-ring-boxing.json](./92548-center-ring-boxing.json) |
 | Center Shiken Trial: Eigo no Tetsujin | 386523 | [386523-center-shiken-trial-eigo-no-tetsujin.json](./386523-center-shiken-trial-eigo-no-tetsujin.json) |
 | Centerfold Squares | 11996 | [11996-centerfold-squares.json](./11996-centerfold-squares.json) |
 | Centi-Bug | 94568 | [94568-centi-bug.json](./94568-centi-bug.json) |
@@ -14384,6 +14386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Continue?9876543210 | 8725 | [8725-continue-9876543210.json](./8725-continue-9876543210.json) |
 | Continue/Stop/Rise | 222976 | [222976-continue-stop-rise.json](./222976-continue-stop-rise.json) |
 | Continuity | 380088 | [380088-continuity.json](./380088-continuity.json) |
+| Continuity 2 | 92551 | [92551-continuity-2.json](./92551-continuity-2.json) |
 | Continuous Girl | 55558 | [55558-continuous-girl.json](./55558-continuous-girl.json) |
 | Continuum | 229019 | [229019-continuum.json](./229019-continuum.json) |
 | Continuum | 243255 | [243255-continuum.json](./243255-continuum.json) |
