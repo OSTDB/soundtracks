@@ -2141,6 +2141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paramedium: 2 | 179750 | [179750-paramedium-2.json](./179750-paramedium-2.json) |
 | Paramedium: A Noise in the Attic | 82485 | [82485-paramedium-a-noise-in-the-attic.json](./82485-paramedium-a-noise-in-the-attic.json) |
 | Paramelancholia | 332654 | [332654-paramelancholia.json](./332654-paramelancholia.json) |
+| Parameter | 129307 | [129307-parameter.json](./129307-parameter.json) |
 | Parameters | 123277 | [123277-parameters.json](./123277-parameters.json) |
 | Parametric Creature: Lab | 189821 | [189821-parametric-creature-lab.json](./189821-parametric-creature-lab.json) |
 | Parametric Engine | 240698 | [240698-parametric-engine.json](./240698-parametric-engine.json) |
@@ -12124,6 +12125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Quest: SWAT 2 | 311 | [311-police-quest-swat-2.json](./311-police-quest-swat-2.json) |
 | Police Quest: SWAT Generation | 137478 | [137478-police-quest-swat-generation.json](./137478-police-quest-swat-generation.json) |
 | Police Rage | 223985 | [223985-police-rage.json](./223985-police-rage.json) |
+| Police Reponse VR: Disturbance | 129300 | [129300-police-reponse-vr-disturbance.json](./129300-police-reponse-vr-disturbance.json) |
 | Police Response VR: Disturbance | 130319 | [130319-police-response-vr-disturbance.json](./130319-police-response-vr-disturbance.json) |
 | Police Scanner Radio | 212750 | [212750-police-scanner-radio.json](./212750-police-scanner-radio.json) |
 | Police Sentri | 165649 | [165649-police-sentri.json](./165649-police-sentri.json) |
@@ -19146,6 +19148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pyramid Builder | 183276 | [183276-pyramid-builder.json](./183276-pyramid-builder.json) |
 | Pyramid Clicker | 370418 | [370418-pyramid-clicker.json](./370418-pyramid-clicker.json) |
 | Pyramid Curse | 251918 | [251918-pyramid-curse.json](./251918-pyramid-curse.json) |
+| Pyramid Defense | 129348 | [129348-pyramid-defense.json](./129348-pyramid-defense.json) |
 | Pyramid Exit | 378422 | [378422-pyramid-exit.json](./378422-pyramid-exit.json) |
 | Pyramid Game | 310185 | [310185-pyramid-game.json](./310185-pyramid-game.json) |
 | Pyramid Magic | 45751 | [45751-pyramid-magic.json](./45751-pyramid-magic.json) |
