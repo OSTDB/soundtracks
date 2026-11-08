@@ -7030,6 +7030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden & Dangerous: Devil's Bridge | 108 | [108-hidden-and-dangerous-devils-bridge.json](./108-hidden-and-dangerous-devils-bridge.json) |
 | Hidden Agenda | 245669 | [245669-hidden-agenda.json](./245669-hidden-agenda.json) |
 | Hidden Agenda | 37092 | [37092-hidden-agenda.json](./37092-hidden-agenda.json) |
+| Hidden Agenda | 79439 | [79439-hidden-agenda.json](./79439-hidden-agenda.json) |
 | Hidden Alphabets: Wallace & Gromit | 334913 | [334913-hidden-alphabets-wallace-and-gromit.json](./334913-hidden-alphabets-wallace-and-gromit.json) |
 | Hidden Among Thieves | 340470 | [340470-hidden-among-thieves.json](./340470-hidden-among-thieves.json) |
 | Hidden Animals Find : Detective Neko | 289343 | [289343-hidden-animals-find-detective-neko.json](./289343-hidden-animals-find-detective-neko.json) |
