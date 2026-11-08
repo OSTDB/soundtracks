@@ -323,6 +323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zap Dem Rats | 195194 | [195194-zap-dem-rats.json](./195194-zap-dem-rats.json) |
 | Zap Line : Connect the Ends Puzzle Game | 105915 | [105915-zap-line-connect-the-ends-puzzle-game.json](./105915-zap-line-connect-the-ends-puzzle-game.json) |
 | Zap to It! | 234893 | [234893-zap-to-it.json](./234893-zap-to-it.json) |
+| Zap Zap Zombie Cats | 99065 | [99065-zap-zap-zombie-cats.json](./99065-zap-zap-zombie-cats.json) |
 | Zap Zone | 30111 | [30111-zap-zone.json](./30111-zap-zone.json) |
 | Zap, Blast, Loot | 105272 | [105272-zap-blast-loot.json](./105272-zap-blast-loot.json) |
 | Zap! | 94483 | [94483-zap.json](./94483-zap.json) |
