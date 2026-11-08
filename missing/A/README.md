@@ -3342,6 +3342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Admiral: Sea Battles | 74094 | [74094-admiral-sea-battles.json](./74094-admiral-sea-battles.json) |
 | Admirals of Ophiuchus | 379559 | [379559-admirals-of-ophiuchus.json](./379559-admirals-of-ophiuchus.json) |
 | Adohiinage | 345439 | [345439-adohiinage.json](./345439-adohiinage.json) |
+| Adolescent Santa Claus | 103592 | [103592-adolescent-santa-claus.json](./103592-adolescent-santa-claus.json) |
 | Adolf Hitler RPG: Last Minutes of the Millennium Empire | 256060 | [256060-adolf-hitler-rpg-last-minutes-of-the-millennium-empire.json](./256060-adolf-hitler-rpg-last-minutes-of-the-millennium-empire.json) |
 | Adolfish | 185014 | [185014-adolfish.json](./185014-adolfish.json) |
 | ADOM II | 138068 | [138068-adom-ii.json](./138068-adom-ii.json) |
