@@ -5519,6 +5519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match 3x3 Collection | 93972 | [93972-match-3x3-collection.json](./93972-match-3x3-collection.json) |
 | Match 4 | 200399 | [200399-match-4.json](./200399-match-4.json) |
 | Match and Crash | 55567 | [55567-match-and-crash.json](./55567-match-and-crash.json) |
+| Match and Learn | 90773 | [90773-match-and-learn.json](./90773-match-and-learn.json) |
 | Match App! | 347340 | [347340-match-app.json](./347340-match-app.json) |
 | Match Connect Challenge | 99150 | [99150-match-connect-challenge.json](./99150-match-connect-challenge.json) |
 | Match Day | 39123 | [39123-match-day.json](./39123-match-day.json) |
@@ -13333,6 +13334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiniChess by Kasparov | 174239 | [174239-minichess-by-kasparov.json](./174239-minichess-by-kasparov.json) |
 | Minicology | 150771 | [150771-minicology.json](./150771-minicology.json) |
 | Miniconomy | 108966 | [108966-miniconomy.json](./108966-miniconomy.json) |
+| MiniCopter 3D: Takeoff and Landing | 90730 | [90730-minicopter-3d-takeoff-and-landing.json](./90730-minicopter-3d-takeoff-and-landing.json) |
 | MiniCopter: Adventure Flight | 51064 | [51064-minicopter-adventure-flight.json](./51064-minicopter-adventure-flight.json) |
 | Minicraft | 131715 | [131715-minicraft.json](./131715-minicraft.json) |
 | Minicraft | 269923 | [269923-minicraft.json](./269923-minicraft.json) |
@@ -20681,6 +20683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Butler | 32274 | [32274-my-butler.json](./32274-my-butler.json) |
 | My Cabin | 185291 | [185291-my-cabin.json](./185291-my-cabin.json) |
 | My Café Manager Simulator | 326462 | [326462-my-cafe-manager-simulator.json](./326462-my-cafe-manager-simulator.json) |
+| My Cafe: Recipes & Stories | 90874 | [90874-my-cafe-recipes-and-stories.json](./90874-my-cafe-recipes-and-stories.json) |
 | My Cake Shop HD | 104607 | [104607-my-cake-shop-hd.json](./104607-my-cake-shop-hd.json) |
 | My Caligula | 323241 | [323241-my-caligula.json](./323241-my-caligula.json) |
 | My Camp of Memories | 348388 | [348388-my-camp-of-memories.json](./348388-my-camp-of-memories.json) |
@@ -21233,6 +21236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Kingdom for the Princess II HD | 102140 | [102140-my-kingdom-for-the-princess-ii-hd.json](./102140-my-kingdom-for-the-princess-ii-hd.json) |
 | My Kingdom for the Princess III | 90781 | [90781-my-kingdom-for-the-princess-iii.json](./90781-my-kingdom-for-the-princess-iii.json) |
 | My Kingdom for the Princess III HD | 102634 | [102634-my-kingdom-for-the-princess-iii-hd.json](./102634-my-kingdom-for-the-princess-iii-hd.json) |
+| My Kingdom for the Princess IV | 90734 | [90734-my-kingdom-for-the-princess-iv.json](./90734-my-kingdom-for-the-princess-iv.json) |
 | My Kingdom for the Princess IV HD | 106348 | [106348-my-kingdom-for-the-princess-iv-hd.json](./106348-my-kingdom-for-the-princess-iv-hd.json) |
 | My Klutzy Cupid | 248894 | [248894-my-klutzy-cupid.json](./248894-my-klutzy-cupid.json) |
 | My Koi | 88110 | [88110-my-koi.json](./88110-my-koi.json) |
