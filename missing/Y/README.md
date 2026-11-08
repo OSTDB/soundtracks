@@ -1182,7 +1182,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Had a Bad Dream | 405593 | [405593-you-had-a-bad-dream.json](./405593-you-had-a-bad-dream.json) |
 | You Had, Like, So Much Going On | 181751 | [181751-you-had-like-so-much-going-on.json](./181751-you-had-like-so-much-going-on.json) |
 | You Have 1 HP | 269656 | [269656-you-have-1-hp.json](./269656-you-have-1-hp.json) |
-| You Have 10 Seconds | 31909 | [31909-you-have-10-seconds.json](./31909-you-have-10-seconds.json) |
 | You Have 10 Seconds 3 | 112366 | [112366-you-have-10-seconds-3.json](./112366-you-have-10-seconds-3.json) |
 | You Have 10 Seconds: 2023 | 256443 | [256443-you-have-10-seconds-2023.json](./256443-you-have-10-seconds-2023.json) |
 | You Have 293 Keys | 230768 | [230768-you-have-293-keys.json](./230768-you-have-293-keys.json) |
