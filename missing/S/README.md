@@ -2672,6 +2672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scaling the Sky | 128618 | [128618-scaling-the-sky.json](./128618-scaling-the-sky.json) |
 | Scaling Up | 323927 | [323927-scaling-up.json](./323927-scaling-up.json) |
 | Scallion RPG | 315710 | [315710-scallion-rpg.json](./315710-scallion-rpg.json) |
+| Scally's World: Numbers & Sums | 110566 | [110566-scallys-world-numbers-and-sums.json](./110566-scallys-world-numbers-and-sums.json) |
 | Scallywag: In the Lair of the Medusa | 50459 | [50459-scallywag-in-the-lair-of-the-medusa.json](./50459-scallywag-in-the-lair-of-the-medusa.json) |
 | Scallywags | 404605 | [404605-scallywags.json](./404605-scallywags.json) |
 | Scallywags | 73081 | [73081-scallywags.json](./73081-scallywags.json) |
@@ -7017,6 +7018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Tower | 9502 | [9502-shadow-tower.json](./9502-shadow-tower.json) |
 | Shadow Tower: Abyss | 9503 | [9503-shadow-tower-abyss.json](./9503-shadow-tower-abyss.json) |
 | Shadow Trick | 306609 | [306609-shadow-trick.json](./306609-shadow-trick.json) |
+| Shadow Unit | 110455 | [110455-shadow-unit.json](./110455-shadow-unit.json) |
 | Shadow Uprising | 112945 | [112945-shadow-uprising.json](./112945-shadow-uprising.json) |
 | Shadow Vamp | 102737 | [102737-shadow-vamp.json](./102737-shadow-vamp.json) |
 | Shadow Vault | 71963 | [71963-shadow-vault.json](./71963-shadow-vault.json) |
@@ -9890,6 +9892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shroom Editor | 320235 | [320235-shroom-editor.json](./320235-shroom-editor.json) |
 | Shroom Keeper | 258616 | [258616-shroom-keeper.json](./258616-shroom-keeper.json) |
 | Shroom Siege | 247811 | [247811-shroom-siege.json](./247811-shroom-siege.json) |
+| Shroom Snatchers | 110480 | [110480-shroom-snatchers.json](./110480-shroom-snatchers.json) |
 | Shroom Soup | 410074 | [410074-shroom-soup.json](./410074-shroom-soup.json) |
 | Shroom Valley | 314575 | [314575-shroom-valley.json](./314575-shroom-valley.json) |
 | Shroomageddon | 388305 | [388305-shroomageddon.json](./388305-shroomageddon.json) |
@@ -25360,6 +25363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wraith III: Shadows of Orion | 15111 | [15111-star-wraith-iii-shadows-of-orion.json](./15111-star-wraith-iii-shadows-of-orion.json) |
 | Star Wraith IV: Reviction | 15112 | [15112-star-wraith-iv-reviction.json](./15112-star-wraith-iv-reviction.json) |
 | Star Wrath | 391648 | [391648-star-wrath.json](./391648-star-wrath.json) |
+| Star Zeal | 110483 | [110483-star-zeal.json](./110483-star-zeal.json) |
 | Star Zeal 4x | 195975 | [195975-star-zeal-4x.json](./195975-star-zeal-4x.json) |
 | Star Zone | 107033 | [107033-star-zone.json](./107033-star-zone.json) |
 | Star-blaze | 15377 | [15377-star-blaze.json](./15377-star-blaze.json) |
@@ -33225,6 +33229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pork | 182921 | [182921-super-pork.json](./182921-super-pork.json) |
 | Super Portal 64 | 159277 | [159277-super-portal-64.json](./159277-super-portal-64.json) |
 | Super Postal | 375569 | [375569-super-postal.json](./375569-super-postal.json) |
+| Super Potato Bruh | 110463 | [110463-super-potato-bruh.json](./110463-super-potato-bruh.json) |
 | Super POTUS Trump | 51591 | [51591-super-potus-trump.json](./51591-super-potus-trump.json) |
 | Super Power 2 | 53687 | [53687-super-power-2.json](./53687-super-power-2.json) |
 | Super Power League 4 | 44431 | [44431-super-power-league-4.json](./44431-super-power-league-4.json) |
