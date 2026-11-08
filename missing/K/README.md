@@ -1079,6 +1079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karpe Diem | 316132 | [316132-karpe-diem.json](./316132-karpe-diem.json) |
 | Karporam | 291957 | [291957-karporam.json](./291957-karporam.json) |
 | Karpov | 242957 | [242957-karpov.json](./242957-karpov.json) |
+| Karryn's Prison | 127475 | [127475-karryns-prison.json](./127475-karryns-prison.json) |
 | Karryn's Prison: Gym Trainer Side Job | 254050 | [254050-karryns-prison-gym-trainer-side-job.json](./254050-karryns-prison-gym-trainer-side-job.json) |
 | Karsus | 297322 | [297322-karsus.json](./297322-karsus.json) |
 | Karsus | 60620 | [60620-karsus.json](./60620-karsus.json) |
