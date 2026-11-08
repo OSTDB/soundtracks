@@ -14845,6 +14845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Orc Invasion | 237950 | [237950-the-orc-invasion.json](./237950-the-orc-invasion.json) |
 | The Orchard of Stray Sheep | 32474 | [32474-the-orchard-of-stray-sheep.json](./32474-the-orchard-of-stray-sheep.json) |
 | The Orchid's Edge | 231373 | [231373-the-orchids-edge.json](./231373-the-orchids-edge.json) |
+| The Orcs Strike Back! | 108020 | [108020-the-orcs-strike-back.json](./108020-the-orcs-strike-back.json) |
 | The Ord Accord | 289972 | [289972-the-ord-accord.json](./289972-the-ord-accord.json) |
 | The Order of Souls | 60911 | [60911-the-order-of-souls.json](./60911-the-order-of-souls.json) |
 | The Order: 1886 - Blackwater Edition | 62666 | [62666-the-order-1886-blackwater-edition.json](./62666-the-order-1886-blackwater-edition.json) |
@@ -21502,6 +21503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiger Casino & Slot Game | 373625 | [373625-tiger-casino-and-slot-game.json](./373625-tiger-casino-and-slot-game.json) |
 | Tiger Claw | 41176 | [41176-tiger-claw.json](./41176-tiger-claw.json) |
 | Tiger Eye Part I: Curse of the Riddle Box | 206789 | [206789-tiger-eye-part-i-curse-of-the-riddle-box.json](./206789-tiger-eye-part-i-curse-of-the-riddle-box.json) |
+| Tiger Fighter 1931 | 108013 | [108013-tiger-fighter-1931.json](./108013-tiger-fighter-1931.json) |
 | Tiger Fighter 1931 Tora!: MP028 | 173654 | [173654-tiger-fighter-1931-tora-mp028.json](./173654-tiger-fighter-1931-tora-mp028.json) |
 | Tiger Fighter 1931 Tora!: MP098 | 173652 | [173652-tiger-fighter-1931-tora-mp098.json](./173652-tiger-fighter-1931-tora-mp098.json) |
 | Tiger Fighter 1931: MP001 | 161690 | [161690-tiger-fighter-1931-mp001.json](./161690-tiger-fighter-1931-mp001.json) |
@@ -26427,6 +26429,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torn | 60675 | [60675-torn.json](./60675-torn.json) |
 | Torn | 90106 | [90106-torn.json](./90106-torn.json) |
 | Torn | 94720 | [94720-torn.json](./94720-torn.json) |
+| Torn Apart | 108097 | [108097-torn-apart.json](./108097-torn-apart.json) |
+| Torn Asunder | 108018 | [108018-torn-asunder.json](./108018-torn-asunder.json) |
 | Torn Earth | 114803 | [114803-torn-earth.json](./114803-torn-earth.json) |
 | Torn Familjen | 55687 | [55687-torn-familjen.json](./55687-torn-familjen.json) |
 | Torn Sails | 27909 | [27909-torn-sails.json](./27909-torn-sails.json) |
@@ -26926,6 +26930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touch the Floor | 151155 | [151155-touch-the-floor.json](./151155-touch-the-floor.json) |
 | Touch to Fate: Occult Romance | 255171 | [255171-touch-to-fate-occult-romance.json](./255171-touch-to-fate-occult-romance.json) |
 | Touch to Turn | 114031 | [114031-touch-to-turn.json](./114031-touch-to-turn.json) |
+| Touch Type Tale | 107986 | [107986-touch-type-tale.json](./107986-touch-type-tale.json) |
 | Touch Your Eyes | 275695 | [275695-touch-your-eyes.json](./275695-touch-your-eyes.json) |
 | Touch, Shot! Love Application | 65236 | [65236-touch-shot-love-application.json](./65236-touch-shot-love-application.json) |
 | Touch: Man to Man | 66773 | [66773-touch-man-to-man.json](./66773-touch-man-to-man.json) |
