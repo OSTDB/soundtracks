@@ -2069,6 +2069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Manège Enchanté | 165291 | [165291-le-manege-enchante.json](./165291-le-manege-enchante.json) |
 | Le Manoir | 385441 | [385441-le-manoir.json](./385441-le-manoir.json) |
 | Le Manoir de L'Étrange | 25752 | [25752-le-manoir-de-letrange.json](./25752-le-manoir-de-letrange.json) |
+| Le Mans | 113938 | [113938-le-mans.json](./113938-le-mans.json) |
 | Le Mans | 65279 | [65279-le-mans.json](./65279-le-mans.json) |
 | Le Mans 24 | 209261 | [209261-le-mans-24.json](./209261-le-mans-24.json) |
 | Le Mans Ultimate | 253412 | [253412-le-mans-ultimate.json](./253412-le-mans-ultimate.json) |
@@ -8829,6 +8830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Complex: The Black Cat He Loved | 284171 | [284171-love-complex-the-black-cat-he-loved.json](./284171-love-complex-the-black-cat-he-loved.json) |
 | Love Confessions on the Adventure | 349271 | [349271-love-confessions-on-the-adventure.json](./349271-love-confessions-on-the-adventure.json) |
 | Love Connect | 268992 | [268992-love-connect.json](./268992-love-connect.json) |
+| Love Connection | 113958 | [113958-love-connection.json](./113958-love-connection.json) |
 | Love Connection! | 242789 | [242789-love-connection.json](./242789-love-connection.json) |
 | Love Cooking at Home? Turn your Hobby into a Business! | 156122 | [156122-love-cooking-at-home-turn-your-hobby-into-a-business.json](./156122-love-cooking-at-home-turn-your-hobby-into-a-business.json) |
 | Love Criminals | 287471 | [287471-love-criminals.json](./287471-love-criminals.json) |
