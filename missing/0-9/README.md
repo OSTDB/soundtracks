@@ -2467,6 +2467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D MiniGolf | 147887 | [147887-3d-minigolf.json](./147887-3d-minigolf.json) |
 | 3D MiniGolf Remastered | 187270 | [187270-3d-minigolf-remastered.json](./187270-3d-minigolf-remastered.json) |
 | 3D MiniGolf: Makeover-Edition | 327436 | [327436-3d-minigolf-makeover-edition.json](./327436-3d-minigolf-makeover-edition.json) |
+| 3D MMO Villagers & Heroes | 90032 | [90032-3d-mmo-villagers-and-heroes.json](./90032-3d-mmo-villagers-and-heroes.json) |
 | 3D Modern Tower | 357832 | [357832-3d-modern-tower.json](./357832-3d-modern-tower.json) |
 | 3D Morpion | 324513 | [324513-3d-morpion.json](./324513-3d-morpion.json) |
 | 3D Movie Maker | 263635 | [263635-3d-movie-maker.json](./263635-3d-movie-maker.json) |
