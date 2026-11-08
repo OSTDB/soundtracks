@@ -3217,6 +3217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Dimensions: Wonder Woman Fun Pack | 172626 | [172626-lego-dimensions-wonder-woman-fun-pack.json](./172626-lego-dimensions-wonder-woman-fun-pack.json) |
 | LEGO Dimensions: Zane Fun Pack | 172610 | [172610-lego-dimensions-zane-fun-pack.json](./172610-lego-dimensions-zane-fun-pack.json) |
 | LEGO Duplo Town | 106923 | [106923-lego-duplo-town.json](./106923-lego-duplo-town.json) |
+| LEGO Duplo Train | 87463 | [87463-lego-duplo-train.json](./87463-lego-duplo-train.json) |
 | LEGO Duplo World | 356220 | [356220-lego-duplo-world.json](./356220-lego-duplo-world.json) |
 | LEGO Exo-Force: Deep Jungle | 343214 | [343214-lego-exo-force-deep-jungle.json](./343214-lego-exo-force-deep-jungle.json) |
 | LEGO Exo-Force: Sentai Showdown | 343211 | [343211-lego-exo-force-sentai-showdown.json](./343211-lego-exo-force-sentai-showdown.json) |
