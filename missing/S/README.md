@@ -17479,6 +17479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic [Unl] | 308656 | [308656-sonic-unl.json](./308656-sonic-unl.json) |
 | Sonic & All-Stars Racing Transformed | 210448 | [210448-sonic-and-all-stars-racing-transformed.json](./210448-sonic-and-all-stars-racing-transformed.json) |
 | Sonic & All-Stars Racing Transformed: Bonus Edition | 23826 | [23826-sonic-and-all-stars-racing-transformed-bonus-edition.json](./23826-sonic-and-all-stars-racing-transformed-bonus-edition.json) |
+| Sonic & All-Stars Racing Transformed: Metal Sonic & Outrun DLC | 119189 | [119189-sonic-and-all-stars-racing-transformed-metal-sonic-and-outrun-dlc.json](./119189-sonic-and-all-stars-racing-transformed-metal-sonic-and-outrun-dlc.json) |
 | Sonic & All-Stars Racing Transformed: Ryo Hazuki DLC | 139690 | [139690-sonic-and-all-stars-racing-transformed-ryo-hazuki-dlc.json](./139690-sonic-and-all-stars-racing-transformed-ryo-hazuki-dlc.json) |
 | Sonic & All-Stars Racing Transformed: Yogscast DLC | 361488 | [361488-sonic-and-all-stars-racing-transformed-yogscast-dlc.json](./361488-sonic-and-all-stars-racing-transformed-yogscast-dlc.json) |
 | Sonic & Bean in Eggland | 322592 | [322592-sonic-and-bean-in-eggland.json](./322592-sonic-and-bean-in-eggland.json) |
@@ -22758,6 +22759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splatterhouse | 7191 | [7191-splatterhouse.json](./7191-splatterhouse.json) |
 | Splatterhouse 2 | 46248 | [46248-splatterhouse-2.json](./46248-splatterhouse-2.json) |
 | Splatterhouse 3 | 46194 | [46194-splatterhouse-3.json](./46194-splatterhouse-3.json) |
+| Splatterhouse 3D | 119165 | [119165-splatterhouse-3d.json](./119165-splatterhouse-3d.json) |
 | SplatterHouse 3D: Gold Edition | 50376 | [50376-splatterhouse-3d-gold-edition.json](./50376-splatterhouse-3d-gold-edition.json) |
 | Splatterhouse: Wanpaku Graffiti | 48653 | [48653-splatterhouse-wanpaku-graffiti.json](./48653-splatterhouse-wanpaku-graffiti.json) |
 | Splatterpus | 251940 | [251940-splatterpus.json](./251940-splatterpus.json) |
@@ -24020,6 +24022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SS Achilles - Red Alert! | 25798 | [25798-ss-achilles-red-alert.json](./25798-ss-achilles-red-alert.json) |
 | SS.Archives | 253433 | [253433-ss-archives.json](./253433-ss-archives.json) |
 | SSB Scene Creator | 328342 | [328342-ssb-scene-creator.json](./328342-ssb-scene-creator.json) |
+| SSC 2019 | 119213 | [119213-ssc-2019.json](./119213-ssc-2019.json) |
 | Ssen | 286329 | [286329-ssen.json](./286329-ssen.json) |
 | SSGN Covert Cruise Special Attack Strategy | 112159 | [112159-ssgn-covert-cruise-special-attack-strategy.json](./112159-ssgn-covert-cruise-special-attack-strategy.json) |
 | SShield Reborn | 90176 | [90176-sshield-reborn.json](./90176-sshield-reborn.json) |
@@ -25335,6 +25338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starball | 85988 | [85988-starball.json](./85988-starball.json) |
 | StarBall | 159592 | [159592-starball.json](./159592-starball.json) |
 | StarBallMadNess | 51721 | [51721-starballmadness.json](./51721-starballmadness.json) |
+| Starbase | 119157 | [119157-starbase.json](./119157-starbase.json) |
 | Starbase Defence | 60263 | [60263-starbase-defence.json](./60263-starbase-defence.json) |
 | Starbase Gunship | 192772 | [192772-starbase-gunship.json](./192772-starbase-gunship.json) |
 | Starbase Hyperion | 282149 | [282149-starbase-hyperion.json](./282149-starbase-hyperion.json) |
@@ -34006,6 +34010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Wario & The World of Wirio | 259360 | [259360-super-wario-and-the-world-of-wirio.json](./259360-super-wario-and-the-world-of-wirio.json) |
 | Super Wash Simulator | 391040 | [391040-super-wash-simulator.json](./391040-super-wash-simulator.json) |
 | Super Weapon Master | 213044 | [213044-super-weapon-master.json](./213044-super-weapon-master.json) |
+| Super Web Kittens: Act I | 119203 | [119203-super-web-kittens-act-i.json](./119203-super-web-kittens-act-i.json) |
 | Super Weekend Mode | 96642 | [96642-super-weekend-mode.json](./96642-super-weekend-mode.json) |
 | Super Whatever Quest!!! | 277063 | [277063-super-whatever-quest.json](./277063-super-whatever-quest.json) |
 | Super Whiplash | 160077 | [160077-super-whiplash.json](./160077-super-whiplash.json) |
