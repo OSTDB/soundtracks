@@ -1573,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nebula Ball 3D | 335748 | [335748-nebula-ball-3d.json](./335748-nebula-ball-3d.json) |
 | Nebula Cleanup Crew | 373520 | [373520-nebula-cleanup-crew.json](./373520-nebula-cleanup-crew.json) |
 | Nebula Commander | 46509 | [46509-nebula-commander.json](./46509-nebula-commander.json) |
+| Nebula Fighter | 126169 | [126169-nebula-fighter.json](./126169-nebula-fighter.json) |
 | Nebula Invasion | 188845 | [188845-nebula-invasion.json](./188845-nebula-invasion.json) |
 | Nebula Miner | 395112 | [395112-nebula-miner.json](./395112-nebula-miner.json) |
 | Nebula Nuker | 75830 | [75830-nebula-nuker.json](./75830-nebula-nuker.json) |
@@ -4826,6 +4827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nightsoil | 391672 | [391672-nightsoil.json](./391672-nightsoil.json) |
 | Nightsong | 257202 | [257202-nightsong.json](./257202-nightsong.json) |
 | NightSong | 303935 | [303935-nightsong.json](./303935-nightsong.json) |
+| NightStar | 126130 | [126130-nightstar.json](./126130-nightstar.json) |
 | Nightstar: Alliance | 103233 | [103233-nightstar-alliance.json](./103233-nightstar-alliance.json) |
 | Nightstar: Rogue Wings | 29419 | [29419-nightstar-rogue-wings.json](./29419-nightstar-rogue-wings.json) |
 | Nightstar: Starfighter | 31815 | [31815-nightstar-starfighter.json](./31815-nightstar-starfighter.json) |
@@ -5753,6 +5755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No Cure 2 | 158195 | [158195-no-cure-2.json](./158195-no-cure-2.json) |
 | No Death in Wild West | 349516 | [349516-no-death-in-wild-west.json](./349516-no-death-in-wild-west.json) |
 | No Deck? No Dice? | 184471 | [184471-no-deck-no-dice.json](./184471-no-deck-no-dice.json) |
+| No Delivery | 126150 | [126150-no-delivery.json](./126150-no-delivery.json) |
 | No Door Can Not be Opened with a Non-black Key | 355192 | [355192-no-door-can-not-be-opened-with-a-non-black-key.json](./355192-no-door-can-not-be-opened-with-a-non-black-key.json) |
 | No Ducks Given | 317707 | [317707-no-ducks-given.json](./317707-no-ducks-given.json) |
 | No Emotions | 180569 | [180569-no-emotions.json](./180569-no-emotions.json) |
