@@ -7315,6 +7315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeYourCat | 309851 | [309851-beyourcat.json](./309851-beyourcat.json) |
 | Bez-MX | 282097 | [282097-bez-mx.json](./282097-bez-mx.json) |
 | Bezier: Second Edition | 142701 | [142701-bezier-second-edition.json](./142701-bezier-second-edition.json) |
+| Bezique | 104750 | [104750-bezique.json](./104750-bezique.json) |
 | Bezirk | 109876 | [109876-bezirk.json](./109876-bezirk.json) |
 | Bezoff | 284131 | [284131-bezoff.json](./284131-bezoff.json) |
 | BeZombie Anime Invasion | 261825 | [261825-bezombie-anime-invasion.json](./261825-bezombie-anime-invasion.json) |
@@ -15830,6 +15831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bricks Crusher Breaker Ball | 249020 | [249020-bricks-crusher-breaker-ball.json](./249020-bricks-crusher-breaker-ball.json) |
 | Bricks Defender | 147572 | [147572-bricks-defender.json](./147572-bricks-defender.json) |
 | Bricks Defender 4 | 146948 | [146948-bricks-defender-4.json](./146948-bricks-defender-4.json) |
+| Bricks in the Box | 104741 | [104741-bricks-in-the-box.json](./104741-bricks-in-the-box.json) |
 | Bricks King | 255756 | [255756-bricks-king.json](./255756-bricks-king.json) |
 | Bricks Kingdom | 321510 | [321510-bricks-kingdom.json](./321510-bricks-kingdom.json) |
 | Bricks n Balls | 89246 | [89246-bricks-n-balls.json](./89246-bricks-n-balls.json) |
