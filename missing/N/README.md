@@ -1964,6 +1964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neighbors | 312128 | [312128-neighbors.json](./312128-neighbors.json) |
 | Neighbors: Suburban Warfare | 207595 | [207595-neighbors-suburban-warfare.json](./207595-neighbors-suburban-warfare.json) |
 | Neighbourhood Cat | 214510 | [214510-neighbourhood-cat.json](./214510-neighbourhood-cat.json) |
+| Neighbourhood Loot | 126751 | [126751-neighbourhood-loot.json](./126751-neighbourhood-loot.json) |
 | Neighbourhood Necromancer | 36451 | [36451-neighbourhood-necromancer.json](./36451-neighbourhood-necromancer.json) |
 | Neighbours | 12699 | [12699-neighbours.json](./12699-neighbours.json) |
 | Neighbours back From Hell | 139447 | [139447-neighbours-back-from-hell.json](./139447-neighbours-back-from-hell.json) |
