@@ -2341,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Tag | 295955 | [295955-car-tag.json](./295955-car-tag.json) |
 | Car Tehc | 171677 | [171677-car-tehc.json](./171677-car-tehc.json) |
 | Car Thief Simulator 2017 | 74209 | [74209-car-thief-simulator-2017.json](./74209-car-thief-simulator-2017.json) |
+| Car Town | 78819 | [78819-car-town.json](./78819-car-town.json) |
 | Car Trader Simulator | 81162 | [81162-car-trader-simulator.json](./81162-car-trader-simulator.json) |
 | Car Trader Simulator: Welcome to the Business | 171384 | [171384-car-trader-simulator-welcome-to-the-business.json](./171384-car-trader-simulator-welcome-to-the-business.json) |
 | Car Tuner 2020 | 129206 | [129206-car-tuner-2020.json](./129206-car-tuner-2020.json) |
@@ -2487,6 +2488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Girl Army II | 196692 | [196692-card-girl-army-ii.json](./196692-card-girl-army-ii.json) |
 | Card Guardians | 175698 | [175698-card-guardians.json](./175698-card-guardians.json) |
 | Card Guesser: Red or Black | 324160 | [324160-card-guesser-red-or-black.json](./324160-card-guesser-red-or-black.json) |
+| Card Hero Speed Battle Custom | 78832 | [78832-card-hero-speed-battle-custom.json](./78832-card-hero-speed-battle-custom.json) |
 | Card Heroes of Millford | 369797 | [369797-card-heroes-of-millford.json](./369797-card-heroes-of-millford.json) |
 | Card Hog | 126819 | [126819-card-hog.json](./126819-card-hog.json) |
 | Card Homestead | 404614 | [404614-card-homestead.json](./404614-card-homestead.json) |
@@ -15613,6 +15615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Purge | 201224 | [201224-cosmic-purge.json](./201224-cosmic-purge.json) |
 | Cosmic Puzzler | 135505 | [135505-cosmic-puzzler.json](./135505-cosmic-puzzler.json) |
 | Cosmic Quandary | 234067 | [234067-cosmic-quandary.json](./234067-cosmic-quandary.json) |
+| Cosmic Race | 78852 | [78852-cosmic-race.json](./78852-cosmic-race.json) |
 | Cosmic Race: Galactic Showdown | 260267 | [260267-cosmic-race-galactic-showdown.json](./260267-cosmic-race-galactic-showdown.json) |
 | Cosmic Raiders | 170533 | [170533-cosmic-raiders.json](./170533-cosmic-raiders.json) |
 | Cosmic Rain | 301694 | [301694-cosmic-rain.json](./301694-cosmic-rain.json) |
@@ -17025,6 +17028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craymel Check | 294598 | [294598-craymel-check.json](./294598-craymel-check.json) |
 | Crayola Adventures | 291972 | [291972-crayola-adventures.json](./291972-crayola-adventures.json) |
 | Crayola Amazing Art Adventure | 360204 | [360204-crayola-amazing-art-adventure.json](./360204-crayola-amazing-art-adventure.json) |
+| Crayola Arcade | 78854 | [78854-crayola-arcade.json](./78854-crayola-arcade.json) |
 | Crayola Art Adventure | 230360 | [230360-crayola-art-adventure.json](./230360-crayola-art-adventure.json) |
 | Crayola Bubbles | 104173 | [104173-crayola-bubbles.json](./104173-crayola-bubbles.json) |
 | Crayola Colorful Creatures | 225659 | [225659-crayola-colorful-creatures.json](./225659-crayola-colorful-creatures.json) |
@@ -18398,6 +18402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Purposes | 109110 | [109110-cross-purposes.json](./109110-cross-purposes.json) |
 | Cross Reunion | 237652 | [237652-cross-reunion.json](./237652-cross-reunion.json) |
 | Cross Review World | 178951 | [178951-cross-review-world.json](./178951-cross-review-world.json) |
+| Cross Roads: Grüne Welle | 78831 | [78831-cross-roads-grune-welle.json](./78831-cross-roads-grune-welle.json) |
 | Cross Romance: Koi to Mahjong to Hanafuda to | 247346 | [247346-cross-romance-koi-to-mahjong-to-hanafuda-to.json](./247346-cross-romance-koi-to-mahjong-to-hanafuda-to.json) |
 | Cross Seekers | 258987 | [258987-cross-seekers.json](./258987-cross-seekers.json) |
 | Cross Set | 34114 | [34114-cross-set.json](./34114-cross-set.json) |
@@ -18623,6 +18628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossword Jam | 415262 | [415262-crossword-jam.json](./415262-crossword-jam.json) |
 | Crossword Light | 88640 | [88640-crossword-light.json](./88640-crossword-light.json) |
 | Crossword Maker | 208800 | [208800-crossword-maker.json](./208800-crossword-maker.json) |
+| Crossword Mania | 78849 | [78849-crossword-mania.json](./78849-crossword-mania.json) |
 | Crossword Master | 381272 | [381272-crossword-master.json](./381272-crossword-master.json) |
 | Crossword Puzzle | 286096 | [286096-crossword-puzzle.json](./286096-crossword-puzzle.json) |
 | Crossword Puzzle - Redstone | 88992 | [88992-crossword-puzzle-redstone.json](./88992-crossword-puzzle-redstone.json) |
