@@ -4929,6 +4929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightcore Guardians | 357147 | [357147-lightcore-guardians.json](./357147-lightcore-guardians.json) |
 | LightCube | 182631 | [182631-lightcube.json](./182631-lightcube.json) |
 | Lightdancer | 289176 | [289176-lightdancer.json](./289176-lightdancer.json) |
+| LightDread City | 135421 | [135421-lightdread-city.json](./135421-lightdread-city.json) |
 | LightEaters! | 233910 | [233910-lighteaters.json](./233910-lighteaters.json) |
 | Lighted Knights | 123525 | [123525-lighted-knights.json](./123525-lighted-knights.json) |
 | Lighten Up | 223407 | [223407-lighten-up.json](./223407-lighten-up.json) |
@@ -6736,6 +6737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lo-Fi Golf | 360684 | [360684-lo-fi-golf.json](./360684-lo-fi-golf.json) |
 | Lo-Fi Haiku: Coffee and Chill | 287166 | [287166-lo-fi-haiku-coffee-and-chill.json](./287166-lo-fi-haiku-coffee-and-chill.json) |
 | Lo-fi Life | 168075 | [168075-lo-fi-life.json](./168075-lo-fi-life.json) |
+| Lo-Fi Room | 135422 | [135422-lo-fi-room.json](./135422-lo-fi-room.json) |
 | Lo-Fi: Thexnerxxm | 189282 | [189282-lo-fi-thexnerxxm.json](./189282-lo-fi-thexnerxxm.json) |
 | Lo-Friction | 369199 | [369199-lo-friction.json](./369199-lo-friction.json) |
 | LO-OP | 104220 | [104220-lo-op.json](./104220-lo-op.json) |
@@ -9268,6 +9270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Low Poly Flight Simulator | 411572 | [411572-low-poly-flight-simulator.json](./411572-low-poly-flight-simulator.json) |
 | Low Poly Forces | 137241 | [137241-low-poly-forces.json](./137241-low-poly-forces.json) |
 | Low Poly Mouse Game | 381961 | [381961-low-poly-mouse-game.json](./381961-low-poly-mouse-game.json) |
+| Low Poly Racing | 135399 | [135399-low-poly-racing.json](./135399-low-poly-racing.json) |
 | Low Poly Stories: Mist | 325972 | [325972-low-poly-stories-mist.json](./325972-low-poly-stories-mist.json) |
 | Low Story | 156916 | [156916-low-story.json](./156916-low-story.json) |
 | Low Taper Fade 3D | 382534 | [382534-low-taper-fade-3d.json](./382534-low-taper-fade-3d.json) |
