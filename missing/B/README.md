@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -11414,6 +11415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodstained: Ritual of the Night - Succubus Cosmetic Pack | 301214 | [301214-bloodstained-ritual-of-the-night-succubus-cosmetic-pack.json](./301214-bloodstained-ritual-of-the-night-succubus-cosmetic-pack.json) |
 | Bloodstained: Ritual of the Night Complete Edition | 391058 | [391058-bloodstained-ritual-of-the-night-complete-edition.json](./391058-bloodstained-ritual-of-the-night-complete-edition.json) |
 | Bloodstained: The Scarlet Engagement | 347120 | [347120-bloodstained-the-scarlet-engagement.json](./347120-bloodstained-the-scarlet-engagement.json) |
+| Bloodstone | 129929 | [129929-bloodstone.json](./129929-bloodstone.json) |
 | Bloodstone Courtyard | 308465 | [308465-bloodstone-courtyard.json](./308465-bloodstone-courtyard.json) |
 | Bloodstone Rising | 344586 | [344586-bloodstone-rising.json](./344586-bloodstone-rising.json) |
 | BloodStorm | 8937 | [8937-bloodstorm.json](./8937-bloodstorm.json) |
@@ -16112,6 +16114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Boughs | 218993 | [218993-broken-boughs.json](./218993-broken-boughs.json) |
 | Broken Brothers | 146475 | [146475-broken-brothers.json](./146475-broken-brothers.json) |
 | Broken Build Simulator | 217415 | [217415-broken-build-simulator.json](./217415-broken-build-simulator.json) |
+| Broken Cat's Lost Flowers | 129899 | [129899-broken-cats-lost-flowers.json](./129899-broken-cats-lost-flowers.json) |
 | Broken Cavalier | 214052 | [214052-broken-cavalier.json](./214052-broken-cavalier.json) |
 | Broken Colors | 250302 | [250302-broken-colors.json](./250302-broken-colors.json) |
 | Broken Computer's Dream | 178216 | [178216-broken-computers-dream.json](./178216-broken-computers-dream.json) |
@@ -17405,6 +17408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Bash | 205246 | [205246-bullet-bash.json](./205246-bullet-bash.json) |
 | Bullet Battle | 174721 | [174721-bullet-battle.json](./174721-bullet-battle.json) |
 | Bullet Battle: Evolution | 119513 | [119513-bullet-battle-evolution.json](./119513-bullet-battle-evolution.json) |
+| Bullet Beat | 129915 | [129915-bullet-beat.json](./129915-bullet-beat.json) |
 | Bullet Bill | 230752 | [230752-bullet-bill.json](./230752-bullet-bill.json) |
 | Bullet Bill 2 | 370096 | [370096-bullet-bill-2.json](./370096-bullet-bill-2.json) |
 | Bullet Bill 3 | 370097 | [370097-bullet-bill-3.json](./370097-bullet-bill-3.json) |
