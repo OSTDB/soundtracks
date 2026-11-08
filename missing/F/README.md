@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Engineer | 31796 | [31796-factory-engineer.json](./31796-factory-engineer.json) |
 | Factory Escape | 329508 | [329508-factory-escape.json](./329508-factory-escape.json) |
 | Factory Farming | 230737 | [230737-factory-farming.json](./230737-factory-farming.json) |
+| Factory Hiro | 81617 | [81617-factory-hiro.json](./81617-factory-hiro.json) |
 | Factory idle | 95942 | [95942-factory-idle.json](./95942-factory-idle.json) |
 | Factory Inc. | 251230 | [251230-factory-inc.json](./251230-factory-inc.json) |
 | Factory Islands | 288797 | [288797-factory-islands.json](./288797-factory-islands.json) |
