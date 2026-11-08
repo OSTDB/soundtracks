@@ -3070,6 +3070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judgment Day: Angel of God | 245686 | [245686-judgment-day-angel-of-god.json](./245686-judgment-day-angel-of-god.json) |
 | Judgment Day: Pacific Assault | 340777 | [340777-judgment-day-pacific-assault.json](./340777-judgment-day-pacific-assault.json) |
 | Judgment: Apocalypse Survival Simulation | 33153 | [33153-judgment-apocalypse-survival-simulation.json](./33153-judgment-apocalypse-survival-simulation.json) |
+| Judgment: Apocalypse Survival Simulation - Desert Edition | 124936 | [124936-judgment-apocalypse-survival-simulation-desert-edition.json](./124936-judgment-apocalypse-survival-simulation-desert-edition.json) |
 | Judgment: Desert Survival | 120632 | [120632-judgment-desert-survival.json](./120632-judgment-desert-survival.json) |
 | Judie no Atelier: Gramnad no Renkinjutsushi | 26514 | [26514-judie-no-atelier-gramnad-no-renkinjutsushi.json](./26514-judie-no-atelier-gramnad-no-renkinjutsushi.json) |
 | Judies | 125363 | [125363-judies.json](./125363-judies.json) |
