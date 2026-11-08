@@ -1351,6 +1351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oil Wars | 129069 | [129069-oil-wars.json](./129069-oil-wars.json) |
 | Oil.exe | 407889 | [407889-oil-exe.json](./407889-oil-exe.json) |
 | Oil's Well | 40901 | [40901-oils-well.json](./40901-oils-well.json) |
+| Oilcap | 131046 | [131046-oilcap.json](./131046-oilcap.json) |
 | Oiled | 101361 | [101361-oiled.json](./101361-oiled.json) |
 | Oiligarchy | 101735 | [101735-oiligarchy.json](./101735-oiligarchy.json) |
 | Oily Tower | 386982 | [386982-oily-tower.json](./386982-oily-tower.json) |
@@ -3785,6 +3786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oracle Chain | 181241 | [181241-oracle-chain.json](./181241-oracle-chain.json) |
 | Oracle of Askigaga | 124648 | [124648-oracle-of-askigaga.json](./124648-oracle-of-askigaga.json) |
 | Oracle of Meles | 304382 | [304382-oracle-of-meles.json](./304382-oracle-of-meles.json) |
+| Oracle of Tao | 131084 | [131084-oracle-of-tao.json](./131084-oracle-of-tao.json) |
 | Oracle Pine | 181674 | [181674-oracle-pine.json](./181674-oracle-pine.json) |
 | Oracle Trials | 157011 | [157011-oracle-trials.json](./157011-oracle-trials.json) |
 | Oracle: Threads of Fate | 89260 | [89260-oracle-threads-of-fate.json](./89260-oracle-threads-of-fate.json) |
