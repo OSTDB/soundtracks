@@ -5225,6 +5225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glocktopus | 397195 | [397195-glocktopus.json](./397195-glocktopus.json) |
 | Gloctopus | 345682 | [345682-gloctopus.json](./345682-gloctopus.json) |
 | Gloggy | 261697 | [261697-gloggy.json](./261697-gloggy.json) |
+| GloGo | 81611 | [81611-glogo.json](./81611-glogo.json) |
 | Glogwillette | 306968 | [306968-glogwillette.json](./306968-glogwillette.json) |
 | Glompa | 296853 | [296853-glompa.json](./296853-glompa.json) |
 | Gloo Storm | 194864 | [194864-gloo-storm.json](./194864-gloo-storm.json) |
