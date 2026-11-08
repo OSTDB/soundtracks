@@ -4827,6 +4827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Era of Miracles | 124167 | [124167-era-of-miracles.json](./124167-era-of-miracles.json) |
 | Era of Newborns | 113190 | [113190-era-of-newborns.json](./113190-era-of-newborns.json) |
 | Era of Samurai: Code of Love | 163356 | [163356-era-of-samurai-code-of-love.json](./163356-era-of-samurai-code-of-love.json) |
+| Era of Survival | 129311 | [129311-era-of-survival.json](./129311-era-of-survival.json) |
 | Era of War | 187059 | [187059-era-of-war.json](./187059-era-of-war.json) |
 | Era One | 258333 | [258333-era-one.json](./258333-era-one.json) |
 | Era Online: Şeref Savaşı | 415972 | [415972-era-online-seref-savas.json](./415972-era-online-seref-savas.json) |
