@@ -1074,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camp Phantom | 310542 | [310542-camp-phantom.json](./310542-camp-phantom.json) |
 | Camp Pokémon | 52197 | [52197-camp-pokemon.json](./52197-camp-pokemon.json) |
 | Camp Rock | 221995 | [221995-camp-rock.json](./221995-camp-rock.json) |
+| Camp Rock: The Final Jam | 122508 | [122508-camp-rock-the-final-jam.json](./122508-camp-rock-the-final-jam.json) |
 | Camp Slaughter | 405943 | [405943-camp-slaughter.json](./405943-camp-slaughter.json) |
 | Camp Sunshine | 25605 | [25605-camp-sunshine.json](./25605-camp-sunshine.json) |
 | Camp Sunshine: Ultimate Edition | 52713 | [52713-camp-sunshine-ultimate-edition.json](./52713-camp-sunshine-ultimate-edition.json) |
@@ -15760,6 +15761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Countdown to Meltdown | 12947 | [12947-countdown-to-meltdown.json](./12947-countdown-to-meltdown.json) |
 | Countdown to NTR | 380464 | [380464-countdown-to-ntr.json](./380464-countdown-to-ntr.json) |
 | Countdown to Shutdown | 83377 | [83377-countdown-to-shutdown.json](./83377-countdown-to-shutdown.json) |
+| Countdown: The Game | 122532 | [122532-countdown-the-game.json](./122532-countdown-the-game.json) |
 | Countdown: The Game | 393141 | [393141-countdown-the-game.json](./393141-countdown-the-game.json) |
 | Counter Action | 2612 | [2612-counter-action.json](./2612-counter-action.json) |
 | Counter Agents | 26372 | [26372-counter-agents.json](./26372-counter-agents.json) |
@@ -19319,6 +19321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cthulhu Virtual Pet | 19086 | [19086-cthulhu-virtual-pet.json](./19086-cthulhu-virtual-pet.json) |
 | Cthulhu Virtual Pet 2 | 123992 | [123992-cthulhu-virtual-pet-2.json](./123992-cthulhu-virtual-pet-2.json) |
 | Cthulhu: An Unspeakable Mod | 221668 | [221668-cthulhu-an-unspeakable-mod.json](./221668-cthulhu-an-unspeakable-mod.json) |
+| Cthulhu: Books of Ancients | 122520 | [122520-cthulhu-books-of-ancients.json](./122520-cthulhu-books-of-ancients.json) |
 | Cthulhu: Frozen Nightmare | 135269 | [135269-cthulhu-frozen-nightmare.json](./135269-cthulhu-frozen-nightmare.json) |
 | Cthulhu: The Cosmic Abyss - R'lyeh Edition | 402122 | [402122-cthulhu-the-cosmic-abyss-rlyeh-edition.json](./402122-cthulhu-the-cosmic-abyss-rlyeh-edition.json) |
 | Cthulhu: The Cosmic Abyss - Sanity Skin Pack | 402540 | [402540-cthulhu-the-cosmic-abyss-sanity-skin-pack.json](./402540-cthulhu-the-cosmic-abyss-sanity-skin-pack.json) |
