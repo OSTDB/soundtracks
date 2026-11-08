@@ -8009,6 +8009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Unlimited II | 714 | [714-flight-unlimited-ii.json](./714-flight-unlimited-ii.json) |
 | Flight Unlimited III | 715 | [715-flight-unlimited-iii.json](./715-flight-unlimited-iii.json) |
 | Flight Unlimited Las Vegas | 34909 | [34909-flight-unlimited-las-vegas.json](./34909-flight-unlimited-las-vegas.json) |
+| Flight Unlimited Las Vegas - Flight Simulator | 93648 | [93648-flight-unlimited-las-vegas-flight-simulator.json](./93648-flight-unlimited-las-vegas-flight-simulator.json) |
 | Flight World Simulator | 103075 | [103075-flight-world-simulator.json](./103075-flight-world-simulator.json) |
 | Flight? Youth! | 395670 | [395670-flight-youth.json](./395670-flight-youth.json) |
 | FlightChess | 181061 | [181061-flightchess.json](./181061-flightchess.json) |
