@@ -463,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacific Minesweeper | 289242 | [289242-pacific-minesweeper.json](./289242-pacific-minesweeper.json) |
 | Pacific Rim | 3763 | [3763-pacific-rim.json](./3763-pacific-rim.json) |
 | Pacific Storm | 14884 | [14884-pacific-storm.json](./14884-pacific-storm.json) |
+| Pacific Storm 6: Battle for Normandy | 111930 | [111930-pacific-storm-6-battle-for-normandy.json](./111930-pacific-storm-6-battle-for-normandy.json) |
 | Pacific Storm: Allies | 14855 | [14855-pacific-storm-allies.json](./14855-pacific-storm-allies.json) |
 | Pacific Strike | 14562 | [14562-pacific-strike.json](./14562-pacific-strike.json) |
 | Pacific Strike Speech Pack | 137375 | [137375-pacific-strike-speech-pack.json](./137375-pacific-strike-speech-pack.json) |
@@ -6569,6 +6570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pika Pika Nurse Monogatari: Shounika wa Itsumo Oosawagi - for Nintendo Switch | 136608 | [136608-pika-pika-nurse-monogatari-shounika-wa-itsumo-oosawagi-for-nintendo-switch.json](./136608-pika-pika-nurse-monogatari-shounika-wa-itsumo-oosawagi-for-nintendo-switch.json) |
 | Pika Pop | 72165 | [72165-pika-pop.json](./72165-pika-pop.json) |
 | Pikabuu: Stop! | 357230 | [357230-pikabuu-stop.json](./357230-pikabuu-stop.json) |
+| Pikachin-Kit: Game de Pirameki Daisakusen | 111828 | [111828-pikachin-kit-game-de-pirameki-daisakusen.json](./111828-pikachin-kit-game-de-pirameki-daisakusen.json) |
 | Pikachu | 247269 | [247269-pikachu.json](./247269-pikachu.json) |
 | Pikachu Teeth Problem | 380551 | [380551-pikachu-teeth-problem.json](./380551-pikachu-teeth-problem.json) |
 | Pikachu Volleyball | 349641 | [349641-pikachu-volleyball.json](./349641-pikachu-volleyball.json) |
@@ -16978,6 +16980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proto Type | 92885 | [92885-proto-type.json](./92885-proto-type.json) |
 | Proto Zero | 406152 | [406152-proto-zero.json](./406152-proto-zero.json) |
 | Proto_1987_01_IT | 339817 | [339817-proto-1987-01-it.json](./339817-proto-1987-01-it.json) |
+| Proto-G | 111939 | [111939-proto-g.json](./111939-proto-g.json) |
 | Protoball | 104933 | [104933-protoball.json](./104933-protoball.json) |
 | ProtoBlue Tower | 373131 | [373131-protoblue-tower.json](./373131-protoblue-tower.json) |
 | ProtoBound | 333099 | [333099-protobound.json](./333099-protobound.json) |
