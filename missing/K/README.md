@@ -610,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamikaze | 328057 | [328057-kamikaze.json](./328057-kamikaze.json) |
 | Kamikaze Bros. 3 | 214771 | [214771-kamikaze-bros-3.json](./214771-kamikaze-bros-3.json) |
 | Kamikaze cabbie | 39813 | [39813-kamikaze-cabbie.json](./39813-kamikaze-cabbie.json) |
+| Kamikaze Cube 2 | 106160 | [106160-kamikaze-cube-2.json](./106160-kamikaze-cube-2.json) |
 | Kamikaze Empire | 411652 | [411652-kamikaze-empire.json](./411652-kamikaze-empire.json) |
 | Kamikaze Kommittee Ouka 2 | 153536 | [153536-kamikaze-kommittee-ouka-2.json](./153536-kamikaze-kommittee-ouka-2.json) |
 | Kamikaze Lassplanes | 250011 | [250011-kamikaze-lassplanes.json](./250011-kamikaze-lassplanes.json) |
@@ -2410,6 +2411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids on Site | 46426 | [46426-kids-on-site.json](./46426-kids-on-site.json) |
 | Kids on Site: Hard Hat Edition | 209925 | [209925-kids-on-site-hard-hat-edition.json](./209925-kids-on-site-hard-hat-edition.json) |
 | Kids Party Checkers | 231025 | [231025-kids-party-checkers.json](./231025-kids-party-checkers.json) |
+| Kids Preschool | 106053 | [106053-kids-preschool.json](./106053-kids-preschool.json) |
 | Kids Preschool Puzzles | 323152 | [323152-kids-preschool-puzzles.json](./323152-kids-preschool-puzzles.json) |
 | Kids Puzzle - 2 in 1 Bundle | 231048 | [231048-kids-puzzle-2-in-1-bundle.json](./231048-kids-puzzle-2-in-1-bundle.json) |
 | Kids Puzzle Animal Game | 259974 | [259974-kids-puzzle-animal-game.json](./259974-kids-puzzle-animal-game.json) |
@@ -2877,7 +2879,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3007,8 +3008,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinect Fun Labs: I Am Super! | 329734 | [329734-kinect-fun-labs-i-am-super.json](./329734-kinect-fun-labs-i-am-super.json) |
 | Kinect Fun Labs: Junk Fu | 179598 | [179598-kinect-fun-labs-junk-fu.json](./179598-kinect-fun-labs-junk-fu.json) |
 | Kinect Fun Labs: Kinect Googly Eyes | 329729 | [329729-kinect-fun-labs-kinect-googly-eyes.json](./329729-kinect-fun-labs-kinect-googly-eyes.json) |
+| Kinect Fun Labs: Kinect Me | 106174 | [106174-kinect-fun-labs-kinect-me.json](./106174-kinect-fun-labs-kinect-me.json) |
 | Kinect Fun Labs: Kinect Rush Snapshot | 329735 | [329735-kinect-fun-labs-kinect-rush-snapshot.json](./329735-kinect-fun-labs-kinect-rush-snapshot.json) |
 | Kinect Fun Labs: Kinect Sparkler | 329730 | [329730-kinect-fun-labs-kinect-sparkler.json](./329730-kinect-fun-labs-kinect-sparkler.json) |
+| Kinect Fun Labs: Mars Rover Landing | 106173 | [106173-kinect-fun-labs-mars-rover-landing.json](./106173-kinect-fun-labs-mars-rover-landing.json) |
 | Kinect Fun Labs: Musical Feet | 20217 | [20217-kinect-fun-labs-musical-feet.json](./20217-kinect-fun-labs-musical-feet.json) |
 | Kinect Fun Labs: Mutation Station | 329732 | [329732-kinect-fun-labs-mutation-station.json](./329732-kinect-fun-labs-mutation-station.json) |
 | Kinect Joy Ride | 2662 | [2662-kinect-joy-ride.json](./2662-kinect-joy-ride.json) |
