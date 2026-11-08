@@ -5117,6 +5117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caverns: Lost Sky | 113494 | [113494-caverns-lost-sky.json](./113494-caverns-lost-sky.json) |
 | Cavernus | 32611 | [32611-cavernus.json](./32611-cavernus.json) |
 | Caves (Roguelike) | 141828 | [141828-caves-roguelike.json](./141828-caves-roguelike.json) |
+| Caves and Castles: Underworld | 129923 | [129923-caves-and-castles-underworld.json](./129923-caves-and-castles-underworld.json) |
 | Caves of Doom | 13471 | [13471-caves-of-doom.json](./13471-caves-of-doom.json) |
 | Caves of Fear | 302602 | [302602-caves-of-fear.json](./302602-caves-of-fear.json) |
 | Caves of Lore | 232976 | [232976-caves-of-lore.json](./232976-caves-of-lore.json) |
@@ -5305,6 +5306,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celestia: Chain of Fate | 300474 | [300474-celestia-chain-of-fate.json](./300474-celestia-chain-of-fate.json) |
 | Celestiais & Dragões | 240741 | [240741-celestiais-and-dragoes.json](./240741-celestiais-and-dragoes.json) |
 | Celestial | 122031 | [122031-celestial.json](./122031-celestial.json) |
+| Celestial | 129893 | [129893-celestial.json](./129893-celestial.json) |
+| Celestial | 129894 | [129894-celestial.json](./129894-celestial.json) |
 | Celestial Ascend | 387108 | [387108-celestial-ascend.json](./387108-celestial-ascend.json) |
 | Celestial Ascent | 292048 | [292048-celestial-ascent.json](./292048-celestial-ascent.json) |
 | Celestial Breach | 30795 | [30795-celestial-breach.json](./30795-celestial-breach.json) |
@@ -12141,6 +12144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Assembler | 35241 | [35241-color-assembler.json](./35241-color-assembler.json) |
 | Color Attack! | 410095 | [410095-color-attack.json](./410095-color-attack.json) |
 | Color Backgammon | 93328 | [93328-color-backgammon.json](./93328-color-backgammon.json) |
+| Color ball | 129932 | [129932-color-ball.json](./129932-color-ball.json) |
 | Color Ball | 191131 | [191131-color-ball.json](./191131-color-ball.json) |
 | Color Ball | 279063 | [279063-color-ball.json](./279063-color-ball.json) |
 | Color Ball 2018 | 100890 | [100890-color-ball-2018.json](./100890-color-ball-2018.json) |
