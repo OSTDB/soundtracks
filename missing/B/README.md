@@ -1331,6 +1331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balance Balls | 262438 | [262438-balance-balls.json](./262438-balance-balls.json) |
 | Balance Balls 2 | 262442 | [262442-balance-balls-2.json](./262442-balance-balls-2.json) |
 | Balance Board | 254203 | [254203-balance-board.json](./254203-balance-board.json) |
+| Balance Breakers | 106690 | [106690-balance-breakers.json](./106690-balance-breakers.json) |
 | Balance Helicopter | 233887 | [233887-balance-helicopter.json](./233887-balance-helicopter.json) |
 | Balance in the Mountains | 116039 | [116039-balance-in-the-mountains.json](./116039-balance-in-the-mountains.json) |
 | Balance It! | 408294 | [408294-balance-it.json](./408294-balance-it.json) |
@@ -5919,6 +5920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee Careful! | 357674 | [357674-bee-careful.json](./357674-bee-careful.json) |
 | Bee Craft | 215474 | [215474-bee-craft.json](./215474-bee-craft.json) |
 | Bee Eliminator | 247066 | [247066-bee-eliminator.json](./247066-bee-eliminator.json) |
+| Bee Factory! | 106699 | [106699-bee-factory.json](./106699-bee-factory.json) |
 | Bee Farming | 175281 | [175281-bee-farming.json](./175281-bee-farming.json) |
 | Bee Fighting | 247014 | [247014-bee-fighting.json](./247014-bee-fighting.json) |
 | Bee Flowers | 330941 | [330941-bee-flowers.json](./330941-bee-flowers.json) |
@@ -15417,6 +15419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break-It | 339689 | [339689-break-it.json](./339689-break-it.json) |
 | Break, Enter, Repeat | 280552 | [280552-break-enter-repeat.json](./280552-break-enter-repeat.json) |
 | Break.Up | 326288 | [326288-break-up.json](./326288-break-up.json) |
+| Breakable 1.0 | 106712 | [106712-breakable-1-0.json](./106712-breakable-1-0.json) |
 | Breakage | 165521 | [165521-breakage.json](./165521-breakage.json) |
 | Breakaway | 24652 | [24652-breakaway.json](./24652-breakaway.json) |
 | Breakaway Hockey League | 415167 | [415167-breakaway-hockey-league.json](./415167-breakaway-hockey-league.json) |
@@ -16730,6 +16733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Battle Blast 3D | 333051 | [333051-bubble-battle-blast-3d.json](./333051-bubble-battle-blast-3d.json) |
 | Bubble Beacon | 183719 | [183719-bubble-beacon.json](./183719-bubble-beacon.json) |
 | Bubble Bird | 250395 | [250395-bubble-bird.json](./250395-bubble-bird.json) |
+| Bubble Bird 2018 | 106783 | [106783-bubble-bird-2018.json](./106783-bubble-bird-2018.json) |
 | Bubble Blast | 304262 | [304262-bubble-blast.json](./304262-bubble-blast.json) |
 | Bubble Blast Rescue | 89036 | [89036-bubble-blast-rescue.json](./89036-bubble-blast-rescue.json) |
 | Bubble Blaster DX | 314608 | [314608-bubble-blaster-dx.json](./314608-bubble-blaster-dx.json) |
@@ -18413,6 +18417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator Indonesia | 383925 | [383925-bus-simulator-indonesia.json](./383925-bus-simulator-indonesia.json) |
 | Bus Simulator Offroad | 413059 | [413059-bus-simulator-offroad.json](./413059-bus-simulator-offroad.json) |
 | Bus Simulator Pro | 186964 | [186964-bus-simulator-pro.json](./186964-bus-simulator-pro.json) |
+| Bus Simulator PRO 2018 HD | 106715 | [106715-bus-simulator-pro-2018-hd.json](./106715-bus-simulator-pro-2018-hd.json) |
 | Bus Simulator Vietnam | 384614 | [384614-bus-simulator-vietnam.json](./384614-bus-simulator-vietnam.json) |
 | Bus Simulator: Car Driving | 231770 | [231770-bus-simulator-car-driving.json](./231770-bus-simulator-car-driving.json) |
 | Bus Simulator: City Driving Ultimate | 264902 | [264902-bus-simulator-city-driving-ultimate.json](./264902-bus-simulator-city-driving-ultimate.json) |
