@@ -5232,6 +5232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tezz | 149262 | [149262-tezz.json](./149262-tezz.json) |
 | Tezz: Portals | 155249 | [155249-tezz-portals.json](./155249-tezz-portals.json) |
 | Tezzel: The Tilemaker's Tale | 344923 | [344923-tezzel-the-tilemakers-tale.json](./344923-tezzel-the-tilemakers-tale.json) |
+| TFM: The First Men | 125535 | [125535-tfm-the-first-men.json](./125535-tfm-the-first-men.json) |
 | TFX | 44874 | [44874-tfx.json](./44874-tfx.json) |
 | TFX | 76187 | [76187-tfx.json](./76187-tfx.json) |
 | TG Motocross 3 | 222858 | [222858-tg-motocross-3.json](./222858-tg-motocross-3.json) |
@@ -7721,6 +7722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Counting Kingdom | 17435 | [17435-the-counting-kingdom.json](./17435-the-counting-kingdom.json) |
 | The Courage of Cordelia | 332310 | [332310-the-courage-of-cordelia.json](./332310-the-courage-of-cordelia.json) |
 | The Courage to be Disliked | 294967 | [294967-the-courage-to-be-disliked.json](./294967-the-courage-to-be-disliked.json) |
+| The Courier | 125560 | [125560-the-courier.json](./125560-the-courier.json) |
 | The Court of Wanderers | 152793 | [152793-the-court-of-wanderers.json](./152793-the-court-of-wanderers.json) |
 | The Coven | 37114 | [37114-the-coven.json](./37114-the-coven.json) |
 | The Coven of Calahree | 199238 | [199238-the-coven-of-calahree.json](./199238-the-coven-of-calahree.json) |
@@ -8701,6 +8703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Driver's Mission | 121195 | [121195-the-drivers-mission.json](./121195-the-drivers-mission.json) |
 | The Drone Lord | 343308 | [343308-the-drone-lord.json](./343308-the-drone-lord.json) |
 | The Drone Zone | 244905 | [244905-the-drone-zone.json](./244905-the-drone-zone.json) |
+| The Drop | 125578 | [125578-the-drop.json](./125578-the-drop.json) |
 | The Drop | 377315 | [377315-the-drop.json](./377315-the-drop.json) |
 | The Dropper 2 | 200144 | [200144-the-dropper-2.json](./200144-the-dropper-2.json) |
 | The Dropping of the Dead | 55330 | [55330-the-dropping-of-the-dead.json](./55330-the-dropping-of-the-dead.json) |
@@ -19166,6 +19169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Weakened Demon Lord and His Servant's Business: Please Give Me Your White Fluid | 82769 | [82769-the-weakened-demon-lord-and-his-servants-business-please-give-me-your-white-fluid.json](./82769-the-weakened-demon-lord-and-his-servants-business-please-give-me-your-white-fluid.json) |
 | The Weakest Link & Friends | 86100 | [86100-the-weakest-link-and-friends.json](./86100-the-weakest-link-and-friends.json) |
 | The Weald | 153124 | [153124-the-weald.json](./153124-the-weald.json) |
+| The Weapon | 125577 | [125577-the-weapon.json](./125577-the-weapon.json) |
 | The Weapon King | 260761 | [260761-the-weapon-king.json](./260761-the-weapon-king.json) |
 | The Weather Up There | 329335 | [329335-the-weather-up-there.json](./329335-the-weather-up-there.json) |
 | The Weave of Heroes - RPG | 27755 | [27755-the-weave-of-heroes-rpg.json](./27755-the-weave-of-heroes-rpg.json) |
@@ -24330,6 +24334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titeuf | 169133 | [169133-titeuf.json](./169133-titeuf.json) |
 | Titeuf: Le Film | 268430 | [268430-titeuf-le-film.json](./268430-titeuf-le-film.json) |
 | Titeuf: Méga-Compet' | 46494 | [46494-titeuf-mega-compet.json](./46494-titeuf-mega-compet.json) |
+| Titeuf: Ze Gag Machine | 125558 | [125558-titeuf-ze-gag-machine.json](./125558-titeuf-ze-gag-machine.json) |
 | Titi Drop | 356966 | [356966-titi-drop.json](./356966-titi-drop.json) |
 | Titjob Battle | 83363 | [83363-titjob-battle.json](./83363-titjob-battle.json) |
 | Title Fight | 78404 | [78404-title-fight.json](./78404-title-fight.json) |
