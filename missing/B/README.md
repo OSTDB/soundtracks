@@ -986,7 +986,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3939,6 +3938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Britain II: Wings of Victory | 22512 | [22512-battle-of-britain-ii-wings-of-victory.json](./22512-battle-of-britain-ii-wings-of-victory.json) |
 | Battle of Britain, Norway and Atlantic | 226244 | [226244-battle-of-britain-norway-and-atlantic.json](./226244-battle-of-britain-norway-and-atlantic.json) |
 | Battle of Castles | 142760 | [142760-battle-of-castles.json](./142760-battle-of-castles.json) |
+| Battle of Creatures | 83689 | [83689-battle-of-creatures.json](./83689-battle-of-creatures.json) |
 | Battle of Cubes | 90173 | [90173-battle-of-cubes.json](./90173-battle-of-cubes.json) |
 | Battle of Decay: Survival | 217015 | [217015-battle-of-decay-survival.json](./217015-battle-of-decay-survival.json) |
 | Battle of Destiny | 78601 | [78601-battle-of-destiny.json](./78601-battle-of-destiny.json) |
@@ -12697,6 +12697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bolo | 307651 | [307651-bolo.json](./307651-bolo.json) |
 | Bolo | 376750 | [376750-bolo.json](./376750-bolo.json) |
 | Bolo | 95468 | [95468-bolo.json](./95468-bolo.json) |
+| Bolo Adventures I | 84285 | [84285-bolo-adventures-i.json](./84285-bolo-adventures-i.json) |
 | Bolo Ball | 94224 | [94224-bolo-ball.json](./94224-bolo-ball.json) |
 | Bolo Legends: An Epic Adventure | 224903 | [224903-bolo-legends-an-epic-adventure.json](./224903-bolo-legends-an-epic-adventure.json) |
 | Bolsheviktion 2: Yurovsky's Revenge | 412479 | [412479-bolsheviktion-2-yurovskys-revenge.json](./412479-bolsheviktion-2-yurovskys-revenge.json) |
@@ -14842,6 +14843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain In My Head | 30195 | [30195-brain-in-my-head.json](./30195-brain-in-my-head.json) |
 | Brain in Retro Space | 154869 | [154869-brain-in-retro-space.json](./154869-brain-in-retro-space.json) |
 | Brain It On! | 97332 | [97332-brain-it-on.json](./97332-brain-it-on.json) |
+| Brain Jam | 83695 | [83695-brain-jam.json](./83695-brain-jam.json) |
 | Brain Marmelade | 135751 | [135751-brain-marmelade.json](./135751-brain-marmelade.json) |
 | Brain Memory | 224910 | [224910-brain-memory.json](./224910-brain-memory.json) |
 | Brain Memory 2 | 293370 | [293370-brain-memory-2.json](./293370-brain-memory-2.json) |
