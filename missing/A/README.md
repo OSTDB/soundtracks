@@ -904,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A New Don | 183433 | [183433-a-new-don.json](./183433-a-new-don.json) |
 | A New Kaizo Era | 213572 | [213572-a-new-kaizo-era.json](./213572-a-new-kaizo-era.json) |
 | A New Leaf: Memories | 167583 | [167583-a-new-leaf-memories.json](./167583-a-new-leaf-memories.json) |
+| A New Life | 137789 | [137789-a-new-life.json](./137789-a-new-life.json) |
 | A New Life | 304304 | [304304-a-new-life.json](./304304-a-new-life.json) |
 | A New Life. | 133449 | [133449-a-new-life.json](./133449-a-new-life.json) |
 | A New Reckoning | 61707 | [61707-a-new-reckoning.json](./61707-a-new-reckoning.json) |
@@ -5996,6 +5997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akatsuki no Goei: Tsumibukaki Shuumatsuron | 202953 | [202953-akatsuki-no-goei-tsumibukaki-shuumatsuron.json](./202953-akatsuki-no-goei-tsumibukaki-shuumatsuron.json) |
 | Akatsuki no Lily Philia | 83174 | [83174-akatsuki-no-lily-philia.json](./83174-akatsuki-no-lily-philia.json) |
 | Akatsuki no Tenjinroku | 208850 | [208850-akatsuki-no-tenjinroku.json](./208850-akatsuki-no-tenjinroku.json) |
+| Akatsuki Shisei Ichigou | 137781 | [137781-akatsuki-shisei-ichigou.json](./137781-akatsuki-shisei-ichigou.json) |
 | Akatsuki Yureru Koi Akari | 238101 | [238101-akatsuki-yureru-koi-akari.json](./238101-akatsuki-yureru-koi-akari.json) |
 | Akatsuki Yureru Koi Akari SS: Asahi to One Room - Toaru Natsu no Ichinichi | 371589 | [371589-akatsuki-yureru-koi-akari-ss-asahi-to-one-room-toaru-natsu-no-ichinichi.json](./371589-akatsuki-yureru-koi-akari-ss-asahi-to-one-room-toaru-natsu-no-ichinichi.json) |
 | Akatsuki Yureru Koi Akari SS: Momiji to One Room - Toaru Natsu no Ichinichi | 371582 | [371582-akatsuki-yureru-koi-akari-ss-momiji-to-one-room-toaru-natsu-no-ichinichi.json](./371582-akatsuki-yureru-koi-akari-ss-momiji-to-one-room-toaru-natsu-no-ichinichi.json) |
@@ -12407,6 +12409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc Style: Jazzy Billiards 3D Professional | 222187 | [222187-arc-style-jazzy-billiards-3d-professional.json](./222187-arc-style-jazzy-billiards-3d-professional.json) |
 | Arc Style: Sangokushi Pinball | 222188 | [222188-arc-style-sangokushi-pinball.json](./222188-arc-style-sangokushi-pinball.json) |
 | Arc Style: Simple Mahjong 3D | 222186 | [222186-arc-style-simple-mahjong-3d.json](./222186-arc-style-simple-mahjong-3d.json) |
+| Arc Style: Soccer!! 2014 | 137748 | [137748-arc-style-soccer-2014.json](./137748-arc-style-soccer-2014.json) |
 | Arc Surfer | 95155 | [95155-arc-surfer.json](./95155-arc-surfer.json) |
 | Arc Symphony | 74332 | [74332-arc-symphony.json](./74332-arc-symphony.json) |
 | Arc TCG | 290934 | [290934-arc-tcg.json](./290934-arc-tcg.json) |
@@ -15197,6 +15200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of Arcanum: The Witch Pack | 361895 | [361895-ashes-of-arcanum-the-witch-pack.json](./361895-ashes-of-arcanum-the-witch-pack.json) |
 | Ashes of Creation | 27420 | [27420-ashes-of-creation.json](./27420-ashes-of-creation.json) |
 | Ashes of Creation Apocalypse | 122597 | [122597-ashes-of-creation-apocalypse.json](./122597-ashes-of-creation-apocalypse.json) |
+| Ashes of Eden: Survival | 137765 | [137765-ashes-of-eden-survival.json](./137765-ashes-of-eden-survival.json) |
 | Ashes of Empire | 11919 | [11919-ashes-of-empire.json](./11919-ashes-of-empire.json) |
 | Ashes of Equestria | 121722 | [121722-ashes-of-equestria.json](./121722-ashes-of-equestria.json) |
 | Ashes of Idunn: Tales of Fimbulwinter | 309427 | [309427-ashes-of-idunn-tales-of-fimbulwinter.json](./309427-ashes-of-idunn-tales-of-fimbulwinter.json) |
@@ -16910,6 +16914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
