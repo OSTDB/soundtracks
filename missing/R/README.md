@@ -371,6 +371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Race Rally 3D | 90293 | [90293-race-rally-3d.json](./90293-race-rally-3d.json) |
 | Race the Nags | 93379 | [93379-race-the-nags.json](./93379-race-the-nags.json) |
 | Race the Sun | 7876 | [7876-race-the-sun.json](./7876-race-the-sun.json) |
+| Race the Sun: Challenge Edition | 127492 | [127492-race-the-sun-challenge-edition.json](./127492-race-the-sun-challenge-edition.json) |
 | Race the Sun: Sunrise | 77651 | [77651-race-the-sun-sunrise.json](./77651-race-the-sun-sunrise.json) |
 | Race the Traffic Moto | 105540 | [105540-race-the-traffic-moto.json](./105540-race-the-traffic-moto.json) |
 | Race Time | 282517 | [282517-race-time.json](./282517-race-time.json) |
@@ -5915,6 +5916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Restaurant Simulator | 204072 | [204072-restaurant-simulator.json](./204072-restaurant-simulator.json) |
 | Restaurant Simulator 2023 | 252272 | [252272-restaurant-simulator-2023.json](./252272-restaurant-simulator-2023.json) |
 | Restaurant Solitaire: Delicious Lunch | 188923 | [188923-restaurant-solitaire-delicious-lunch.json](./188923-restaurant-solitaire-delicious-lunch.json) |
+| Restaurant Solitaire: Pleasant Dinner | 127447 | [127447-restaurant-solitaire-pleasant-dinner.json](./127447-restaurant-solitaire-pleasant-dinner.json) |
 | Restaurant Story | 343479 | [343479-restaurant-story.json](./343479-restaurant-story.json) |
 | Restaurant Tycoon | 75908 | [75908-restaurant-tycoon.json](./75908-restaurant-tycoon.json) |
 | Restaurant Tycoon: My Cooking Empire | 325893 | [325893-restaurant-tycoon-my-cooking-empire.json](./325893-restaurant-tycoon-my-cooking-empire.json) |
@@ -6704,6 +6706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reversion: The Escape -1st Chapter | 16940 | [16940-reversion-the-escape-1st-chapter.json](./16940-reversion-the-escape-1st-chapter.json) |
 | Reversion: The Meeting | 36412 | [36412-reversion-the-meeting.json](./36412-reversion-the-meeting.json) |
 | Reversion: The Return | 130398 | [130398-reversion-the-return.json](./130398-reversion-the-return.json) |
+| ReversiQuest2 | 127454 | [127454-reversiquest2.json](./127454-reversiquest2.json) |
 | Reverso | 63745 | [63745-reverso.json](./63745-reverso.json) |
 | ReversU | 87902 | [87902-reversu.json](./87902-reversu.json) |
 | Revert | 320242 | [320242-revert.json](./320242-revert.json) |
