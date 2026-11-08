@@ -9154,6 +9154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Epic Might | 23632 | [23632-the-epic-might.json](./23632-the-epic-might.json) |
 | The Epic of Inanna | 147039 | [147039-the-epic-of-inanna.json](./147039-the-epic-of-inanna.json) |
 | The Epic of Jusen | 145598 | [145598-the-epic-of-jusen.json](./145598-the-epic-of-jusen.json) |
+| The epic of legend 1 -The Tower of Lost | 106716 | [106716-the-epic-of-legend-1-the-tower-of-lost.json](./106716-the-epic-of-legend-1-the-tower-of-lost.json) |
 | The Epic Quest of Birdo The Pink Dinosaur | 250662 | [250662-the-epic-quest-of-birdo-the-pink-dinosaur.json](./250662-the-epic-quest-of-birdo-the-pink-dinosaur.json) |
 | The Episodic | 155828 | [155828-the-episodic.json](./155828-the-episodic.json) |
 | The Epoch Turning | 271324 | [271324-the-epoch-turning.json](./271324-the-epoch-turning.json) |
@@ -25189,6 +25190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Crash Mobs | 20171 | [20171-tokyo-crash-mobs.json](./20171-tokyo-crash-mobs.json) |
 | Tokyo Crazy Museum | 255426 | [255426-tokyo-crazy-museum.json](./255426-tokyo-crazy-museum.json) |
 | Tokyo Dark | 27531 | [27531-tokyo-dark.json](./27531-tokyo-dark.json) |
+| Tokyo Dark: Remembrance | 106788 | [106788-tokyo-dark-remembrance.json](./106788-tokyo-dark-remembrance.json) |
 | Tokyo Day | 399166 | [399166-tokyo-day.json](./399166-tokyo-day.json) |
 | Tokyo Debunker | 197035 | [197035-tokyo-debunker.json](./197035-tokyo-debunker.json) |
 | Tokyo Desire: Deck Builders | 292461 | [292461-tokyo-desire-deck-builders.json](./292461-tokyo-desire-deck-builders.json) |
@@ -34470,6 +34472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typomancer in the Feather's Way | 174261 | [174261-typomancer-in-the-feathers-way.json](./174261-typomancer-in-the-feathers-way.json) |
 | Typomania guestbook | 184555 | [184555-typomania-guestbook.json](./184555-typomania-guestbook.json) |
 | Typos and Brains | 179893 | [179893-typos-and-brains.json](./179893-typos-and-brains.json) |
+| Typr | 106723 | [106723-typr.json](./106723-typr.json) |
 | Typrx | 137779 | [137779-typrx.json](./137779-typrx.json) |
 | Tyr | 371867 | [371867-tyr.json](./371867-tyr.json) |
 | Tyr: Chains of Valhalla | 96750 | [96750-tyr-chains-of-valhalla.json](./96750-tyr-chains-of-valhalla.json) |
