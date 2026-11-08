@@ -2540,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eleven Eleven | 118433 | [118433-eleven-eleven.json](./118433-eleven-eleven.json) |
 | Eleven Islands Puzzle | 102640 | [102640-eleven-islands-puzzle.json](./102640-eleven-islands-puzzle.json) |
 | Eleven Pickleball | 341121 | [341121-eleven-pickleball.json](./341121-eleven-pickleball.json) |
+| Eleven Prophecies | 117899 | [117899-eleven-prophecies.json](./117899-eleven-prophecies.json) |
 | Eleven Sunrises | 210962 | [210962-eleven-sunrises.json](./210962-eleven-sunrises.json) |
 | Eleven: Table Tennis VR | 32889 | [32889-eleven-table-tennis-vr.json](./32889-eleven-table-tennis-vr.json) |
 | Eleven's Quest | 245183 | [245183-elevens-quest.json](./245183-elevens-quest.json) |
