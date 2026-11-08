@@ -4645,6 +4645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Racers | 233642 | [233642-epic-racers.json](./233642-epic-racers.json) |
 | Epic Rogue | 288050 | [288050-epic-rogue.json](./288050-epic-rogue.json) |
 | Epic roll | 107491 | [107491-epic-roll.json](./107491-epic-roll.json) |
+| Epic Roller Coasters | 89338 | [89338-epic-roller-coasters.json](./89338-epic-roller-coasters.json) |
 | Epic Roller Coasters: Antarctica | 255133 | [255133-epic-roller-coasters-antarctica.json](./255133-epic-roller-coasters-antarctica.json) |
 | Epic Roller Coasters: Armageddon | 166647 | [166647-epic-roller-coasters-armageddon.json](./166647-epic-roller-coasters-armageddon.json) |
 | Epic Roller Coasters: Brazilian Dunes Rally | 296585 | [296585-epic-roller-coasters-brazilian-dunes-rally.json](./296585-epic-roller-coasters-brazilian-dunes-rally.json) |
