@@ -382,6 +382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad King Redemption | 361874 | [361874-mad-king-redemption.json](./361874-mad-king-redemption.json) |
 | Mad King's Lair: Tome of Destruction | 266755 | [266755-mad-kings-lair-tome-of-destruction.json](./266755-mad-kings-lair-tome-of-destruction.json) |
 | Mad Lab Roulette | 362925 | [362925-mad-lab-roulette.json](./362925-mad-lab-roulette.json) |
+| Mad Libs | 98488 | [98488-mad-libs.json](./98488-mad-libs.json) |
 | Mad Machines | 107156 | [107156-mad-machines.json](./107156-mad-machines.json) |
 | Mad Maestro! | 43634 | [43634-mad-maestro.json](./43634-mad-maestro.json) |
 | Mad Manuel | 103389 | [103389-mad-manuel.json](./103389-mad-manuel.json) |
@@ -1129,6 +1130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Emperor 1 | 148867 | [148867-magic-emperor-1.json](./148867-magic-emperor-1.json) |
 | Magic Encyclopedia: First Story | 175070 | [175070-magic-encyclopedia-first-story.json](./175070-magic-encyclopedia-first-story.json) |
 | Magic Encyclopedia: Illusions | 99383 | [99383-magic-encyclopedia-illusions.json](./99383-magic-encyclopedia-illusions.json) |
+| Magic Encyclopedia: Moon Light | 98153 | [98153-magic-encyclopedia-moon-light.json](./98153-magic-encyclopedia-moon-light.json) |
 | Magic Escape | 273468 | [273468-magic-escape.json](./273468-magic-escape.json) |
 | Magic Exposure 2 | 395658 | [395658-magic-exposure-2.json](./395658-magic-exposure-2.json) |
 | Magic Exposure: Yuri Visual Novel | 152955 | [152955-magic-exposure-yuri-visual-novel.json](./152955-magic-exposure-yuri-visual-novel.json) |
@@ -2148,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MahjongSchool | 158226 | [158226-mahjongschool.json](./158226-mahjongschool.json) |
 | Mahjongus: Mystery of Fortescue | 316192 | [316192-mahjongus-mystery-of-fortescue.json](./316192-mahjongus-mystery-of-fortescue.json) |
 | Mahjongus: The Warlock Within | 405900 | [405900-mahjongus-the-warlock-within.json](./405900-mahjongus-the-warlock-within.json) |
+| Mahlone One | 98481 | [98481-mahlone-one.json](./98481-mahlone-one.json) |
 | Mahluk: Dark demon | 31988 | [31988-mahluk-dark-demon.json](./31988-mahluk-dark-demon.json) |
 | Maho Shojo Ai | 97724 | [97724-maho-shojo-ai.json](./97724-maho-shojo-ai.json) |
 | Maho Shojo Pretty Sammy: Heart no Kimochi | 61330 | [61330-maho-shojo-pretty-sammy-heart-no-kimochi.json](./61330-maho-shojo-pretty-sammy-heart-no-kimochi.json) |
@@ -3102,6 +3105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manga Collection | 92287 | [92287-manga-collection.json](./92287-manga-collection.json) |
 | Manga de Tantei Mystery | 260692 | [260692-manga-de-tantei-mystery.json](./260692-manga-de-tantei-mystery.json) |
 | Manga English Native Phrase Quiz | 409544 | [409544-manga-english-native-phrase-quiz.json](./409544-manga-english-native-phrase-quiz.json) |
+| Manga Kakeru | 98606 | [98606-manga-kakeru.json](./98606-manga-kakeru.json) |
 | Manga Ninja | 358432 | [358432-manga-ninja.json](./358432-manga-ninja.json) |
 | Manga Puzzle | 21463 | [21463-manga-puzzle.json](./21463-manga-puzzle.json) |
 | Manga Solitaire | 73844 | [73844-manga-solitaire.json](./73844-manga-solitaire.json) |
@@ -5587,6 +5591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matchday Manager World Football | 214556 | [214556-matchday-manager-world-football.json](./214556-matchday-manager-world-football.json) |
 | Matched | 253009 | [253009-matched.json](./253009-matched.json) |
 | Matchem | 91737 | [91737-matchem.json](./91737-matchem.json) |
+| Matches and Matrimony: A Pride and Prejudice Tale | 98158 | [98158-matches-and-matrimony-a-pride-and-prejudice-tale.json](./98158-matches-and-matrimony-a-pride-and-prejudice-tale.json) |
 | Matches Puzzle 2: Classic Logic Arcade | 287175 | [287175-matches-puzzle-2-classic-logic-arcade.json](./287175-matches-puzzle-2-classic-logic-arcade.json) |
 | Matches Puzzle Game | 117754 | [117754-matches-puzzle-game.json](./117754-matches-puzzle-game.json) |
 | Matches Puzzle: Classic Logic Arcade | 247484 | [247484-matches-puzzle-classic-logic-arcade.json](./247484-matches-puzzle-classic-logic-arcade.json) |
@@ -6071,7 +6076,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
