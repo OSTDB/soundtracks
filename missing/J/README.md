@@ -3610,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumpy Haha | 367957 | [367957-jumpy-haha.json](./367957-jumpy-haha.json) |
 | Jumpy Horse | 88163 | [88163-jumpy-horse.json](./88163-jumpy-horse.json) |
 | Jumpy Horse Breeding | 87891 | [87891-jumpy-horse-breeding.json](./87891-jumpy-horse-breeding.json) |
+| Jumpy Horse Racing | 100984 | [100984-jumpy-horse-racing.json](./100984-jumpy-horse-racing.json) |
 | Jumpy Horse Racing | 89741 | [89741-jumpy-horse-racing.json](./89741-jumpy-horse-racing.json) |
 | Jumpy Horse Show Jumping | 87510 | [87510-jumpy-horse-show-jumping.json](./87510-jumpy-horse-show-jumping.json) |
 | Jumpy Hunt | 114866 | [114866-jumpy-hunt.json](./114866-jumpy-hunt.json) |
