@@ -1649,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Mysteries 3: Criminal Mindset | 135764 | [135764-family-mysteries-3-criminal-mindset.json](./135764-family-mysteries-3-criminal-mindset.json) |
 | Family Mysteries Collection | 164754 | [164754-family-mysteries-collection.json](./164754-family-mysteries-collection.json) |
 | Family Mysteries: Poisonous Promises | 131986 | [131986-family-mysteries-poisonous-promises.json](./131986-family-mysteries-poisonous-promises.json) |
+| Family of Heroes for Kids | 104174 | [104174-family-of-heroes-for-kids.json](./104174-family-of-heroes-for-kids.json) |
 | Family Park | 113217 | [113217-family-park.json](./113217-family-park.json) |
 | Family Park Tycoon | 123310 | [123310-family-park-tycoon.json](./123310-family-park-tycoon.json) |
 | Family Party: 30 Great Games | 50964 | [50964-family-party-30-great-games.json](./50964-family-party-30-great-games.json) |
@@ -9003,6 +9004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foam Dart Frenzy | 129297 | [129297-foam-dart-frenzy.json](./129297-foam-dart-frenzy.json) |
 | FoamFix | 233698 | [233698-foamfix.json](./233698-foamfix.json) |
 | Foamstars: Season 1 | 284717 | [284717-foamstars-season-1.json](./284717-foamstars-season-1.json) |
+| Fobia | 104177 | [104177-fobia.json](./104177-fobia.json) |
 | Fobia ...Worse Than Fear. | 242593 | [242593-fobia-worse-than-fear.json](./242593-fobia-worse-than-fear.json) |
 | Fobos | 79830 | [79830-fobos.json](./79830-fobos.json) |
 | Foc/us | 223677 | [223677-foc-us.json](./223677-foc-us.json) |
@@ -10855,6 +10857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forward | 99024 | [99024-forward.json](./99024-forward.json) |
 | Forward Assault | 140491 | [140491-forward-assault.json](./140491-forward-assault.json) |
 | Forward Defense | 201372 | [201372-forward-defense.json](./201372-forward-defense.json) |
+| Forward Line | 104191 | [104191-forward-line.json](./104191-forward-line.json) |
 | Forward March: Attack! Deluxe | 25106 | [25106-forward-march-attack-deluxe.json](./25106-forward-march-attack-deluxe.json) |
 | Forward Motion | 366378 | [366378-forward-motion.json](./366378-forward-motion.json) |
 | Forward Team | 215579 | [215579-forward-team.json](./215579-forward-team.json) |
@@ -11076,6 +11079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fountaintale: Chapter 1 | 313436 | [313436-fountaintale-chapter-1.json](./313436-fountaintale-chapter-1.json) |
 | Four | 37306 | [37306-four.json](./37306-four.json) |
 | Four Animals | 189819 | [189819-four-animals.json](./189819-four-animals.json) |
+| Four Atlas | 104194 | [104194-four-atlas.json](./104194-four-atlas.json) |
 | Four Before Midnight | 297560 | [297560-four-before-midnight.json](./297560-four-before-midnight.json) |
 | Four Bombs | 383756 | [383756-four-bombs.json](./383756-four-bombs.json) |
 | Four Bombs | 85158 | [85158-four-bombs.json](./85158-four-bombs.json) |
