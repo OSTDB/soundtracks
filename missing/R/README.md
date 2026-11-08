@@ -1367,6 +1367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Hills | 216742 | [216742-rainbow-hills.json](./216742-rainbow-hills.json) |
 | Rainbow Hippie | 6783 | [6783-rainbow-hippie.json](./6783-rainbow-hippie.json) |
 | Rainbow hotel | 251125 | [251125-rainbow-hotel.json](./251125-rainbow-hotel.json) |
+| Rainbow Hunter | 117255 | [117255-rainbow-hunter.json](./117255-rainbow-hunter.json) |
 | Rainbow Impostor Survivor 3D | 225782 | [225782-rainbow-impostor-survivor-3d.json](./225782-rainbow-impostor-survivor-3d.json) |
 | Rainbow Infinity | 232148 | [232148-rainbow-infinity.json](./232148-rainbow-infinity.json) |
 | Rainbow Invaders | 94958 | [94958-rainbow-invaders.json](./94958-rainbow-invaders.json) |
@@ -10185,6 +10186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Heroes | 61120 | [61120-rogue-heroes.json](./61120-rogue-heroes.json) |
 | Rogue Heroes: Ruins of Tasos | 137985 | [137985-rogue-heroes-ruins-of-tasos.json](./137985-rogue-heroes-ruins-of-tasos.json) |
 | Rogue Hex | 243806 | [243806-rogue-hex.json](./243806-rogue-hex.json) |
+| Rogue in the Void | 117259 | [117259-rogue-in-the-void.json](./117259-rogue-in-the-void.json) |
 | Rogue Inferno | 374783 | [374783-rogue-inferno.json](./374783-rogue-inferno.json) |
 | Rogue Invader | 149462 | [149462-rogue-invader.json](./149462-rogue-invader.json) |
 | Rogue Islands | 32073 | [32073-rogue-islands.json](./32073-rogue-islands.json) |
