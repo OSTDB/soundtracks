@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacuum Story | 204537 | [204537-vacuum-story.json](./204537-vacuum-story.json) |
 | Vacuum Warrior | 238829 | [238829-vacuum-warrior.json](./238829-vacuum-warrior.json) |
 | Vacuumania | 94334 | [94334-vacuumania.json](./94334-vacuumania.json) |
+| VAD | 100453 | [100453-vad.json](./100453-vad.json) |
 | Vade Retro Satana | 366360 | [366360-vade-retro-satana.json](./366360-vade-retro-satana.json) |
 | Vade Retro: Exorcist | 216492 | [216492-vade-retro-exorcist.json](./216492-vade-retro-exorcist.json) |
 | Vader Immortal: A Star Wars VR Series | 125987 | [125987-vader-immortal-a-star-wars-vr-series.json](./125987-vader-immortal-a-star-wars-vr-series.json) |
@@ -1473,6 +1474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ventisette Voci | 328935 | [328935-ventisette-voci.json](./328935-ventisette-voci.json) |
 | Ventomori | 347051 | [347051-ventomori.json](./347051-ventomori.json) |
 | Ventreville: A Cure for Sorrow | 313981 | [313981-ventreville-a-cure-for-sorrow.json](./313981-ventreville-a-cure-for-sorrow.json) |
+| Ventura Inc | 100451 | [100451-ventura-inc.json](./100451-ventura-inc.json) |
 | Venturaka | 381327 | [381327-venturaka.json](./381327-venturaka.json) |
 | Venture | 5703 | [5703-venture.json](./5703-venture.json) |
 | Venture | 94741 | [94741-venture.json](./94741-venture.json) |
@@ -2528,6 +2530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VIP | 210454 | [210454-vip.json](./210454-vip.json) |
 | Vip Anarchy | 87245 | [87245-vip-anarchy.json](./87245-vip-anarchy.json) |
 | VIP Casino Blackjack | 21823 | [21823-vip-casino-blackjack.json](./21823-vip-casino-blackjack.json) |
+| VIP Craft Adventure | 100969 | [100969-vip-craft-adventure.json](./100969-vip-craft-adventure.json) |
 | Vip Em Up - The action movies stars beat em up Ep.0 ( beta ) | 114348 | [114348-vip-em-up-the-action-movies-stars-beat-em-up-ep-0-beta.json](./114348-vip-em-up-the-action-movies-stars-beat-em-up-ep-0-beta.json) |
 | VIP Rebels | 154376 | [154376-vip-rebels.json](./154376-vip-rebels.json) |
 | VIP Shuttle | 116240 | [116240-vip-shuttle.json](./116240-vip-shuttle.json) |
@@ -2744,6 +2747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Families American Dad: Police Family Games | 99419 | [99419-virtual-families-american-dad-police-family-games.json](./99419-virtual-families-american-dad-police-family-games.json) |
 | Virtual Families Cook Off: Chapter 2 - Farm Life | 248660 | [248660-virtual-families-cook-off-chapter-2-farm-life.json](./248660-virtual-families-cook-off-chapter-2-farm-life.json) |
 | Virtual Families: Cook Off | 219278 | [219278-virtual-families-cook-off.json](./219278-virtual-families-cook-off.json) |
+| Virtual Family Working Mom: Virtual Mother Game | 100973 | [100973-virtual-family-working-mom-virtual-mother-game.json](./100973-virtual-family-working-mom-virtual-mother-game.json) |
 | Virtual Family: Happy Mom Care | 108613 | [108613-virtual-family-happy-mom-care.json](./108613-virtual-family-happy-mom-care.json) |
 | Virtual Farm 2 | 53157 | [53157-virtual-farm-2.json](./53157-virtual-farm-2.json) |
 | Virtual Fight World | 311231 | [311231-virtual-fight-world.json](./311231-virtual-fight-world.json) |
