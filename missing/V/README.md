@@ -2458,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vinnie's Shooting Yard 5 | 393427 | [393427-vinnies-shooting-yard-5.json](./393427-vinnies-shooting-yard-5.json) |
 | Vinnie’s Tomb: Chapter One - The Road to Vinnie’s Tomb | 374954 | [374954-vinnie-s-tomb-chapter-one-the-road-to-vinnie-s-tomb.json](./374954-vinnie-s-tomb-chapter-one-the-road-to-vinnie-s-tomb.json) |
 | Vinny Puh | 304985 | [304985-vinny-puh.json](./304985-vinny-puh.json) |
+| Vinny's Origin | 104195 | [104195-vinnys-origin.json](./104195-vinnys-origin.json) |
 | Vintage Flashlight | 136179 | [136179-vintage-flashlight.json](./136179-vintage-flashlight.json) |
 | Vintage Gaming Trivia Challenge | 73689 | [73689-vintage-gaming-trivia-challenge.json](./73689-vintage-gaming-trivia-challenge.json) |
 | Vintage Hero | 46482 | [46482-vintage-hero.json](./46482-vintage-hero.json) |
@@ -2961,6 +2962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus Brotherhood | 387752 | [387752-virus-brotherhood.json](./387752-virus-brotherhood.json) |
 | Virus Crashers | 29654 | [29654-virus-crashers.json](./29654-virus-crashers.json) |
 | Virus Crisis | 115911 | [115911-virus-crisis.json](./115911-virus-crisis.json) |
+| Virus Evolution - Merge & Create Mutant Diseases | 104201 | [104201-virus-evolution-merge-and-create-mutant-diseases.json](./104201-virus-evolution-merge-and-create-mutant-diseases.json) |
 | Virus Explosion | 119250 | [119250-virus-explosion.json](./119250-virus-explosion.json) |
 | Virus Hunter | 323002 | [323002-virus-hunter.json](./323002-virus-hunter.json) |
 | Virus Infinite | 252591 | [252591-virus-infinite.json](./252591-virus-infinite.json) |
