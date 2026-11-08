@@ -1729,6 +1729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egypt Blocks Puzzle | 180038 | [180038-egypt-blocks-puzzle.json](./180038-egypt-blocks-puzzle.json) |
 | Egypt City Builder | 364971 | [364971-egypt-city-builder.json](./364971-egypt-city-builder.json) |
 | Egypt Collection | 195099 | [195099-egypt-collection.json](./195099-egypt-collection.json) |
+| Egypt Curse Pyramid Quest | 108584 | [108584-egypt-curse-pyramid-quest.json](./108584-egypt-curse-pyramid-quest.json) |
 | Egypt Frontiers | 266293 | [266293-egypt-frontiers.json](./266293-egypt-frontiers.json) |
 | Egypt II: The Heliopolis Prophecy | 43781 | [43781-egypt-ii-the-heliopolis-prophecy.json](./43781-egypt-ii-the-heliopolis-prophecy.json) |
 | Egypt in Space | 343998 | [343998-egypt-in-space.json](./343998-egypt-in-space.json) |
@@ -7890,6 +7891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exoder | 98767 | [98767-exoder.json](./98767-exoder.json) |
 | Exodition | 217176 | [217176-exodition.json](./217176-exodition.json) |
 | Exodos | 297069 | [297069-exodos.json](./297069-exodos.json) |
+| Exodus | 108663 | [108663-exodus.json](./108663-exodus.json) |
 | Exodus | 17643 | [17643-exodus.json](./17643-exodus.json) |
 | Exodus | 212237 | [212237-exodus.json](./212237-exodus.json) |
 | Exodus | 244831 | [244831-exodus.json](./244831-exodus.json) |
@@ -8426,6 +8428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Pamplona | 139232 | [139232-extreme-pamplona.json](./139232-extreme-pamplona.json) |
 | Extreme Peg Solitaire | 149375 | [149375-extreme-peg-solitaire.json](./149375-extreme-peg-solitaire.json) |
 | Extreme Pinball | 50462 | [50462-extreme-pinball.json](./50462-extreme-pinball.json) |
+| Extreme Poker | 108659 | [108659-extreme-poker.json](./108659-extreme-poker.json) |
 | Extreme Power | 44727 | [44727-extreme-power.json](./44727-extreme-power.json) |
 | Extreme Power Soccer | 247043 | [247043-extreme-power-soccer.json](./247043-extreme-power-soccer.json) |
 | Extreme QTE | 151747 | [151747-extreme-qte.json](./151747-extreme-qte.json) |
