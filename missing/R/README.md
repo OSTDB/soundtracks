@@ -1519,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rakete | 134897 | [134897-rakete.json](./134897-rakete.json) |
 | Raketenwashmachine | 149439 | [149439-raketenwashmachine.json](./149439-raketenwashmachine.json) |
 | Rakion | 92762 | [92762-rakion.json](./92762-rakion.json) |
+| Rakion Chaos Force | 132390 | [132390-rakion-chaos-force.json](./132390-rakion-chaos-force.json) |
 | Rakka: Wake 01 - Soot | 341302 | [341302-rakka-wake-01-soot.json](./341302-rakka-wake-01-soot.json) |
 | Rakker and the Sinking Cities | 69569 | [69569-rakker-and-the-sinking-cities.json](./69569-rakker-and-the-sinking-cities.json) |
 | Raklem: War on Earth | 73456 | [73456-raklem-war-on-earth.json](./73456-raklem-war-on-earth.json) |
@@ -2039,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raptorfall: Survival | 347456 | [347456-raptorfall-survival.json](./347456-raptorfall-survival.json) |
 | Raptors of SouthEdge | 163786 | [163786-raptors-of-southedge.json](./163786-raptors-of-southedge.json) |
 | Raptors vs. Goblins | 346518 | [346518-raptors-vs-goblins.json](./346518-raptors-vs-goblins.json) |
+| Rapture | 132381 | [132381-rapture.json](./132381-rapture.json) |
 | Rapture Island | 331106 | [331106-rapture-island.json](./331106-rapture-island.json) |
 | Rapture Recovery Squad | 304654 | [304654-rapture-recovery-squad.json](./304654-rapture-recovery-squad.json) |
 | Rapture Rejects | 103327 | [103327-rapture-rejects.json](./103327-rapture-rejects.json) |
@@ -9043,6 +9045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoBoRumble | 26485 | [26485-roborumble.json](./26485-roborumble.json) |
 | RoboSamurai | 333187 | [333187-robosamurai.json](./333187-robosamurai.json) |
 | Robosaurus | 264318 | [264318-robosaurus.json](./264318-robosaurus.json) |
+| Roboshark Rampage | 132345 | [132345-roboshark-rampage.json](./132345-roboshark-rampage.json) |
 | RoboSk8r | 180687 | [180687-robosk8r.json](./180687-robosk8r.json) |
 | RoboSkate | 139437 | [139437-roboskate.json](./139437-roboskate.json) |
 | RoboSnakes: Core Wars Legacy | 113160 | [113160-robosnakes-core-wars-legacy.json](./113160-robosnakes-core-wars-legacy.json) |
