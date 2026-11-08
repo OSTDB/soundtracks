@@ -694,6 +694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Rock Climbing Challenge | 306892 | [306892-ultimate-rock-climbing-challenge.json](./306892-ultimate-rock-climbing-challenge.json) |
 | Ultimate Romance Test | 399794 | [399794-ultimate-romance-test.json](./399794-ultimate-romance-test.json) |
 | Ultimate Royal Battlegrounds | 95311 | [95311-ultimate-royal-battlegrounds.json](./95311-ultimate-royal-battlegrounds.json) |
+| Ultimate Runner | 113234 | [113234-ultimate-runner.json](./113234-ultimate-runner.json) |
 | Ultimate Russian Zombie Rush | 29611 | [29611-ultimate-russian-zombie-rush.json](./29611-ultimate-russian-zombie-rush.json) |
 | Ultimate S | 262476 | [262476-ultimate-s.json](./262476-ultimate-s.json) |
 | Ultimate Sackboy | 232419 | [232419-ultimate-sackboy.json](./232419-ultimate-sackboy.json) |
