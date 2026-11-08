@@ -18766,6 +18766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Rushers: Deluxe Edition | 52933 | [52933-dungeon-rushers-deluxe-edition.json](./52933-dungeon-rushers-deluxe-edition.json) |
 | Dungeon Scale | 157012 | [157012-dungeon-scale.json](./157012-dungeon-scale.json) |
 | Dungeon Scavenger | 117620 | [117620-dungeon-scavenger.json](./117620-dungeon-scavenger.json) |
+| Dungeon Scoundrel | 113942 | [113942-dungeon-scoundrel.json](./113942-dungeon-scoundrel.json) |
 | Dungeon Scroll | 174314 | [174314-dungeon-scroll.json](./174314-dungeon-scroll.json) |
 | Dungeon Scroll | 70458 | [70458-dungeon-scroll.json](./70458-dungeon-scroll.json) |
 | Dungeon Seekers | 249873 | [249873-dungeon-seekers.json](./249873-dungeon-seekers.json) |
