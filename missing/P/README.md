@@ -1171,6 +1171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandara | 123929 | [123929-pandara.json](./123929-pandara.json) |
 | Pandarunium | 291343 | [291343-pandarunium.json](./291343-pandarunium.json) |
 | Pandas Die | 110458 | [110458-pandas-die.json](./110458-pandas-die.json) |
+| Pandas vs Ninjas | 92019 | [92019-pandas-vs-ninjas.json](./92019-pandas-vs-ninjas.json) |
 | PandaSG | 157122 | [157122-pandasg.json](./157122-pandasg.json) |
 | Pandash | 248913 | [248913-pandash.json](./248913-pandash.json) |
 | Pandaty | 215552 | [215552-pandaty.json](./215552-pandaty.json) |
@@ -5198,7 +5199,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PetWorld: Animal Shelter | 97334 | [97334-petworld-animal-shelter.json](./97334-petworld-animal-shelter.json) |
 | Petz 4 | 159039 | [159039-petz-4.json](./159039-petz-4.json) |
 | Petz Beach | 9744 | [9744-petz-beach.json](./9744-petz-beach.json) |
+| Petz Bunnyz | 92018 | [92018-petz-bunnyz.json](./92018-petz-bunnyz.json) |
 | Petz Bunnyz Bunch | 210002 | [210002-petz-bunnyz-bunch.json](./210002-petz-bunnyz-bunch.json) |
+| Petz Catz Clan | 92104 | [92104-petz-catz-clan.json](./92104-petz-catz-clan.json) |
 | Petz Catz Family | 85339 | [85339-petz-catz-family.json](./85339-petz-catz-family.json) |
 | Petz Countryside | 9743 | [9743-petz-countryside.json](./9743-petz-countryside.json) |
 | Petz Crazy Monkeyz | 51111 | [51111-petz-crazy-monkeyz.json](./51111-petz-crazy-monkeyz.json) |
