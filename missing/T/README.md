@@ -479,6 +479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tahdani | 345232 | [345232-tahdani.json](./345232-tahdani.json) |
 | Tahira: Echoes of the Astral Empire | 20753 | [20753-tahira-echoes-of-the-astral-empire.json](./20753-tahira-echoes-of-the-astral-empire.json) |
 | Tahitian Driftin' | 334311 | [334311-tahitian-driftin.json](./334311-tahitian-driftin.json) |
+| Tahko Alpine Ski | 115220 | [115220-tahko-alpine-ski.json](./115220-tahko-alpine-ski.json) |
 | Tahl: Uncover the Evil Within | 145617 | [145617-tahl-uncover-the-evil-within.json](./145617-tahl-uncover-the-evil-within.json) |
 | Tahn | 126046 | [126046-tahn.json](./126046-tahn.json) |
 | Tahoe Dragon: The Beginning | 220861 | [220861-tahoe-dragon-the-beginning.json](./220861-tahoe-dragon-the-beginning.json) |
@@ -1961,6 +1962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Man | 341798 | [341798-tank-man.json](./341798-tank-man.json) |
 | Tank Maniacs | 117710 | [117710-tank-maniacs.json](./117710-tank-maniacs.json) |
 | Tank Master | 200733 | [200733-tank-master.json](./200733-tank-master.json) |
+| Tank Masters | 115191 | [115191-tank-masters.json](./115191-tank-masters.json) |
 | Tank Mayhem | 266424 | [266424-tank-mayhem.json](./266424-tank-mayhem.json) |
 | Tank Maze | 293076 | [293076-tank-maze.json](./293076-tank-maze.json) |
 | Tank Mechanic Simulator | 43115 | [43115-tank-mechanic-simulator.json](./43115-tank-mechanic-simulator.json) |
@@ -6005,6 +6007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Antaresian Spacepond | 267994 | [267994-the-antaresian-spacepond.json](./267994-the-antaresian-spacepond.json) |
 | The Anthurium | 115767 | [115767-the-anthurium.json](./115767-the-anthurium.json) |
 | The Anti-Gravity Machine | 359420 | [359420-the-anti-gravity-machine.json](./359420-the-anti-gravity-machine.json) |
+| The Antidote | 115244 | [115244-the-antidote.json](./115244-the-antidote.json) |
 | The Ants: Underground Kingdom | 196412 | [196412-the-ants-underground-kingdom.json](./196412-the-ants-underground-kingdom.json) |
 | The Anubis Treasure | 372433 | [372433-the-anubis-treasure.json](./372433-the-anubis-treasure.json) |
 | The Anything Gallery | 177029 | [177029-the-anything-gallery.json](./177029-the-anything-gallery.json) |
@@ -16296,6 +16299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sea Lion | 386845 | [386845-the-sea-lion.json](./386845-the-sea-lion.json) |
 | The Sea of Death | 208001 | [208001-the-sea-of-death.json](./208001-the-sea-of-death.json) |
 | The Sea of Glomp | 396568 | [396568-the-sea-of-glomp.json](./396568-the-sea-of-glomp.json) |
+| The Sea of TianGang XinSu | 115249 | [115249-the-sea-of-tiangang-xinsu.json](./115249-the-sea-of-tiangang-xinsu.json) |
 | The Sea Will Claim Everything | 36051 | [36051-the-sea-will-claim-everything.json](./36051-the-sea-will-claim-everything.json) |
 | The Sea-Demon | 371628 | [371628-the-sea-demon.json](./371628-the-sea-demon.json) |
 | The Seabed's Shining Star | 331181 | [331181-the-seabeds-shining-star.json](./331181-the-seabeds-shining-star.json) |
@@ -19407,6 +19411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch's Revenge | 41702 | [41702-the-witchs-revenge.json](./41702-the-witchs-revenge.json) |
 | The Witch's Warehouse Management | 392975 | [392975-the-witchs-warehouse-management.json](./392975-the-witchs-warehouse-management.json) |
 | The Witch's Yarn | 9510 | [9510-the-witchs-yarn.json](./9510-the-witchs-yarn.json) |
+| The Witchcraft of Skysword | 115218 | [115218-the-witchcraft-of-skysword.json](./115218-the-witchcraft-of-skysword.json) |
 | The Witcher 2: Assassins of Kings - Collector's Edition | 16209 | [16209-the-witcher-2-assassins-of-kings-collectors-edition.json](./16209-the-witcher-2-assassins-of-kings-collectors-edition.json) |
 | The Witcher 2: Assassins of Kings - Dark Edition | 22319 | [22319-the-witcher-2-assassins-of-kings-dark-edition.json](./22319-the-witcher-2-assassins-of-kings-dark-edition.json) |
 | The Witcher 2: Assassins of Kings - Premium Edition | 23473 | [23473-the-witcher-2-assassins-of-kings-premium-edition.json](./23473-the-witcher-2-assassins-of-kings-premium-edition.json) |
@@ -23641,6 +23646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TimeOut | 134271 | [134271-timeout.json](./134271-timeout.json) |
 | TimeOut | 385582 | [385582-timeout.json](./385582-timeout.json) |
 | Timeout Bistro | 279534 | [279534-timeout-bistro.json](./279534-timeout-bistro.json) |
+| TimeOver | 115247 | [115247-timeover.json](./115247-timeover.json) |
 | Timepiece Ensemble | 216242 | [216242-timepiece-ensemble.json](./216242-timepiece-ensemble.json) |
 | Timepunk | 220697 | [220697-timepunk.json](./220697-timepunk.json) |
 | TimeQuake | 251370 | [251370-timequake.json](./251370-timequake.json) |
@@ -24491,6 +24497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To a Starling | 191445 | [191445-to-a-starling.json](./191445-to-a-starling.json) |
 | To Aerthen | 222350 | [222350-to-aerthen.json](./222350-to-aerthen.json) |
 | To Akimon | 115462 | [115462-to-akimon.json](./115462-to-akimon.json) |
+| To All of Mankind | 115203 | [115203-to-all-of-mankind.json](./115203-to-all-of-mankind.json) |
 | To Altare | 281418 | [281418-to-altare.json](./281418-to-altare.json) |
 | To and Fro | 312163 | [312163-to-and-fro.json](./312163-to-and-fro.json) |
 | To Arms!! | 207826 | [207826-to-arms.json](./207826-to-arms.json) |
@@ -31225,6 +31232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tremors: The Game | 127959 | [127959-tremors-the-game.json](./127959-tremors-the-game.json) |
 | Tren | 344455 | [344455-tren.json](./344455-tren.json) |
 | Tren0 | 81974 | [81974-tren0.json](./81974-tren0.json) |
+| Trench Assault | 115195 | [115195-trench-assault.json](./115195-trench-assault.json) |
 | Trench Face | 365220 | [365220-trench-face.json](./365220-trench-face.json) |
 | Trench Foot | 148157 | [148157-trench-foot.json](./148157-trench-foot.json) |
 | Trench Foot | 271577 | [271577-trench-foot.json](./271577-trench-foot.json) |
