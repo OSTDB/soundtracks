@@ -886,6 +886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rage Racer PC | 414350 | [414350-rage-racer-pc.json](./414350-rage-racer-pc.json) |
 | Rage Racing 3D | 242799 | [242799-rage-racing-3d.json](./242799-rage-racing-3d.json) |
 | Rage Rally | 204650 | [204650-rage-rally.json](./204650-rage-rally.json) |
+| Rage Realm | 123146 | [123146-rage-realm.json](./123146-rage-realm.json) |
 | Rage Room | 81093 | [81093-rage-room.json](./81093-rage-room.json) |
 | Rage Runner | 9010 | [9010-rage-runner.json](./9010-rage-runner.json) |
 | Rage Simulator | 265612 | [265612-rage-simulator.json](./265612-rage-simulator.json) |
@@ -10191,6 +10192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Monster Rush | 325523 | [325523-rogue-monster-rush.json](./325523-rogue-monster-rush.json) |
 | Rogue Monster Theolodorus | 335283 | [335283-rogue-monster-theolodorus.json](./335283-rogue-monster-theolodorus.json) |
 | Rogue Moon | 50377 | [50377-rogue-moon.json](./50377-rogue-moon.json) |
+| Rogue Naraka | 123168 | [123168-rogue-naraka.json](./123168-rogue-naraka.json) |
 | Rogue Night | 292266 | [292266-rogue-night.json](./292266-rogue-night.json) |
 | Rogue Ninja: Elemental Onslaught | 287053 | [287053-rogue-ninja-elemental-onslaught.json](./287053-rogue-ninja-elemental-onslaught.json) |
 | Rogue Ninjas | 344417 | [344417-rogue-ninjas.json](./344417-rogue-ninjas.json) |
