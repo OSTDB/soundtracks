@@ -977,7 +977,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5281,6 +5280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Rush | 166213 | [166213-beat-rush.json](./166213-beat-rush.json) |
 | Beat Rush | 265414 | [265414-beat-rush.json](./265414-beat-rush.json) |
 | Beat Saber | 257309 | [257309-beat-saber.json](./257309-beat-saber.json) |
+| Beat Saber Origins | 117901 | [117901-beat-saber-origins.json](./117901-beat-saber-origins.json) |
 | Beat Saber: 2Pac - "All Eyez On Me (feat. Big Syke)" | 296579 | [296579-beat-saber-2pac-all-eyez-on-me-feat-big-syke.json](./296579-beat-saber-2pac-all-eyez-on-me-feat-big-syke.json) |
 | Beat Saber: Aero Chord - "Boundless" | 358199 | [358199-beat-saber-aero-chord-boundless.json](./358199-beat-saber-aero-chord-boundless.json) |
 | Beat Saber: Alan Walker - "Wake Up" | 357566 | [357566-beat-saber-alan-walker-wake-up.json](./357566-beat-saber-alan-walker-wake-up.json) |
@@ -9477,6 +9477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacklight: Retribution | 2118 | [2118-blacklight-retribution.json](./2118-blacklight-retribution.json) |
 | Blacklight: Retribution - Evacuation Pack | 226259 | [226259-blacklight-retribution-evacuation-pack.json](./226259-blacklight-retribution-evacuation-pack.json) |
 | Blacklight: Tango Down | 8481 | [8481-blacklight-tango-down.json](./8481-blacklight-tango-down.json) |
+| Blacklist Brigade | 117905 | [117905-blacklist-brigade.json](./117905-blacklist-brigade.json) |
 | Blacklist Mafia | 293098 | [293098-blacklist-mafia.json](./293098-blacklist-mafia.json) |
 | Blacklode | 416674 | [416674-blacklode.json](./416674-blacklode.json) |
 | Blackmail | 97654 | [97654-blackmail.json](./97654-blackmail.json) |
