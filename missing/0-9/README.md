@@ -782,6 +782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100+ Great Games | 273901 | [273901-100-great-games.json](./273901-100-great-games.json) |
 | 100+ Great Games: Volume II | 273902 | [273902-100-great-games-volume-ii.json](./273902-100-great-games-volume-ii.json) |
 | 100$ | 231486 | [231486-100.json](./231486-100.json) |
+| 1000 | 92013 | [92013-1000.json](./92013-1000.json) |
 | 1000 Amps | 6281 | [6281-1000-amps.json](./6281-1000-amps.json) |
 | 1000 Best Solitaire Games | 292004 | [292004-1000-best-solitaire-games.json](./292004-1000-best-solitaire-games.json) |
 | 1000 Bornes: Coups-Fourres et Courses Folles! | 268069 | [268069-1000-bornes-coups-fourres-et-courses-folles.json](./268069-1000-bornes-coups-fourres-et-courses-folles.json) |
@@ -990,6 +991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101-in-1 Explosive Megamix | 23025 | [23025-101-in-1-explosive-megamix.json](./23025-101-in-1-explosive-megamix.json) |
 | 101-in-1 Games Anthology | 273970 | [273970-101-in-1-games-anthology.json](./273970-101-in-1-games-anthology.json) |
 | 101-in-1 Megamix | 42764 | [42764-101-in-1-megamix.json](./42764-101-in-1-megamix.json) |
+| 101-in-1 Sports Megamix | 92045 | [92045-101-in-1-sports-megamix.json](./92045-101-in-1-sports-megamix.json) |
 | 101-in-1 Sports Party Megamix | 4633 | [4633-101-in-1-sports-party-megamix.json](./4633-101-in-1-sports-party-megamix.json) |
 | 1010 | 76492 | [76492-1010.json](./76492-1010.json) |
 | 1010: Block | 58253 | [58253-1010-block.json](./58253-1010-block.json) |
