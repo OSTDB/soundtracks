@@ -2927,6 +2927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Havendock | 208652 | [208652-havendock.json](./208652-havendock.json) |
 | HavenFlower: Regrets Of | 380219 | [380219-havenflower-regrets-of.json](./380219-havenflower-regrets-of.json) |
 | Havenhold | 204445 | [204445-havenhold.json](./204445-havenhold.json) |
+| Havenless | 138385 | [138385-havenless.json](./138385-havenless.json) |
 | Havenview | 219814 | [219814-havenview.json](./219814-havenview.json) |
 | Havker-Man X | 346331 | [346331-havker-man-x.json](./346331-havker-man-x.json) |
 | Havoc | 13873 | [13873-havoc.json](./13873-havoc.json) |
@@ -6683,6 +6684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexcodle | 313472 | [313472-hexcodle.json](./313472-hexcodle.json) |
 | Hexcon | 400591 | [400591-hexcon.json](./400591-hexcon.json) |
 | HexConnect | 235254 | [235254-hexconnect.json](./235254-hexconnect.json) |
+| Hexcraft: Eventide Sigil | 138376 | [138376-hexcraft-eventide-sigil.json](./138376-hexcraft-eventide-sigil.json) |
 | Hexcraft: Harlequin Fair | 153342 | [153342-hexcraft-harlequin-fair.json](./153342-hexcraft-harlequin-fair.json) |
 | Hexcrawl | 413606 | [413606-hexcrawl.json](./413606-hexcrawl.json) |
 | Hexcross | 123806 | [123806-hexcross.json](./123806-hexcross.json) |
@@ -7997,6 +7999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi When They Cry Hou: Question Arcs | 263402 | [263402-higurashi-when-they-cry-hou-question-arcs.json](./263402-higurashi-when-they-cry-hou-question-arcs.json) |
 | Higurashi When They Cry Hou+ | 273086 | [273086-higurashi-when-they-cry-hou.json](./273086-higurashi-when-they-cry-hou.json) |
 | Higurashi When They Cry Hou+: Mehagashi Chapter | 273084 | [273084-higurashi-when-they-cry-hou-mehagashi-chapter.json](./273084-higurashi-when-they-cry-hou-mehagashi-chapter.json) |
+| Higurashi When They Cry Kai | 138348 | [138348-higurashi-when-they-cry-kai.json](./138348-higurashi-when-they-cry-kai.json) |
 | Higurashiki | 229647 | [229647-higurashiki.json](./229647-higurashiki.json) |
 | HiHi | 369913 | [369913-hihi.json](./369913-hihi.json) |
 | Hihou Densetsu Chris no Bouken | 55896 | [55896-hihou-densetsu-chris-no-bouken.json](./55896-hihou-densetsu-chris-no-bouken.json) |
@@ -11528,6 +11531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Card Games 2011 | 210065 | [210065-hoyle-card-games-2011.json](./210065-hoyle-card-games-2011.json) |
 | Hoyle Card Games 2012 | 54107 | [54107-hoyle-card-games-2012.json](./54107-hoyle-card-games-2012.json) |
 | Hoyle Casino | 131506 | [131506-hoyle-casino.json](./131506-hoyle-casino.json) |
+| Hoyle Casino | 138362 | [138362-hoyle-casino.json](./138362-hoyle-casino.json) |
 | Hoyle Casino | 210049 | [210049-hoyle-casino.json](./210049-hoyle-casino.json) |
 | Hoyle Casino 2004 | 100135 | [100135-hoyle-casino-2004.json](./100135-hoyle-casino-2004.json) |
 | Hoyle Casino 2008 | 72924 | [72924-hoyle-casino-2008.json](./72924-hoyle-casino-2008.json) |
@@ -11986,6 +11990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Bunny | 156229 | [156229-hungry-bunny.json](./156229-hungry-bunny.json) |
 | Hungry Burger | 222354 | [222354-hungry-burger.json](./222354-hungry-burger.json) |
 | Hungry Cat | 387690 | [387690-hungry-cat.json](./387690-hungry-cat.json) |
+| Hungry Cat Mahjong HD | 138350 | [138350-hungry-cat-mahjong-hd.json](./138350-hungry-cat-mahjong-hd.json) |
 | Hungry Cat Nonogram | 207862 | [207862-hungry-cat-nonogram.json](./207862-hungry-cat-nonogram.json) |
 | Hungry Cat Picross | 103384 | [103384-hungry-cat-picross.json](./103384-hungry-cat-picross.json) |
 | Hungry Cats | 276646 | [276646-hungry-cats.json](./276646-hungry-cats.json) |
