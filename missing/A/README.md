@@ -325,6 +325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Dog Named Dave Stuck on a Rave | 103280 | [103280-a-dog-named-dave-stuck-on-a-rave.json](./103280-a-dog-named-dave-stuck-on-a-rave.json) |
 | A Dog Named Mato | 159533 | [159533-a-dog-named-mato.json](./159533-a-dog-named-mato.json) |
 | A Dog of Flanders | 258387 | [258387-a-dog-of-flanders.json](./258387-a-dog-of-flanders.json) |
+| A Dog Spirit Tamer and Boys | 83006 | [83006-a-dog-spirit-tamer-and-boys.json](./83006-a-dog-spirit-tamer-and-boys.json) |
 | A Dog Tale | 295872 | [295872-a-dog-tale.json](./295872-a-dog-tale.json) |
 | A Dogs Dream | 378434 | [378434-a-dogs-dream.json](./378434-a-dogs-dream.json) |
 | A Doll in a Dream | 409864 | [409864-a-doll-in-a-dream.json](./409864-a-doll-in-a-dream.json) |
@@ -7600,6 +7601,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Star Pro Wrestling III | 43661 | [43661-all-star-pro-wrestling-iii.json](./43661-all-star-pro-wrestling-iii.json) |
 | All Star Pro-Wrestling | 43646 | [43646-all-star-pro-wrestling.json](./43646-all-star-pro-wrestling.json) |
 | All Star Quarterback | 58210 | [58210-all-star-quarterback.json](./58210-all-star-quarterback.json) |
+| All Star Quarterback 15 | 82250 | [82250-all-star-quarterback-15.json](./82250-all-star-quarterback-15.json) |
+| All Star Quarterback 17 | 82251 | [82251-all-star-quarterback-17.json](./82251-all-star-quarterback-17.json) |
 | All Star Quarterback 22 | 250112 | [250112-all-star-quarterback-22.json](./250112-all-star-quarterback-22.json) |
 | All Star Racing | 43931 | [43931-all-star-racing.json](./43931-all-star-racing.json) |
 | All Star Racing 2 | 43930 | [43930-all-star-racing-2.json](./43930-all-star-racing-2.json) |
