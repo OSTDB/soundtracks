@@ -1602,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olive's Art-Venture | 266049 | [266049-olives-art-venture.json](./266049-olives-art-venture.json) |
 | Oliver & Spike: Dimension Jumpers | 63894 | [63894-oliver-and-spike-dimension-jumpers.json](./63894-oliver-and-spike-dimension-jumpers.json) |
 | Oliver and Spike | 51660 | [51660-oliver-and-spike.json](./51660-oliver-and-spike.json) |
+| Oliver's Crosswords | 133547 | [133547-olivers-crosswords.json](./133547-olivers-crosswords.json) |
 | Oliver's Last Run | 407076 | [407076-olivers-last-run.json](./407076-olivers-last-run.json) |
 | Oliver's Tale | 248502 | [248502-olivers-tale.json](./248502-olivers-tale.json) |
 | Olivers äventyr: Drakens förbannelse | 320948 | [320948-olivers-aventyr-drakens-forbannelse.json](./320948-olivers-aventyr-drakens-forbannelse.json) |
