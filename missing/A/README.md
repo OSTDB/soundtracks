@@ -3152,6 +3152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ada Towers | 83493 | [83493-ada-towers.json](./83493-ada-towers.json) |
 | ADA: Além d' Aventura | 156950 | [156950-ada-alem-d-aventura.json](./156950-ada-alem-d-aventura.json) |
 | Ada: Tainted Soil | 262752 | [262752-ada-tainted-soil.json](./262752-ada-tainted-soil.json) |
+| Adabana Odd Tales | 131707 | [131707-adabana-odd-tales.json](./131707-adabana-odd-tales.json) |
 | ADAC: The Simulation | 76623 | [76623-adac-the-simulation.json](./76623-adac-the-simulation.json) |
 | Adaca | 197542 | [197542-adaca.json](./197542-adaca.json) |
 | Adachi Ballin' | 412453 | [412453-adachi-ballin.json](./412453-adachi-ballin.json) |
@@ -5960,6 +5961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akakliké 1 | 81161 | [81161-akaklike-1.json](./81161-akaklike-1.json) |
 | Akaku Forest | 318123 | [318123-akaku-forest.json](./318123-akaku-forest.json) |
 | Akakuro | 223961 | [223961-akakuro.json](./223961-akakuro.json) |
+| Akalabeth: World of Doom | 131719 | [131719-akalabeth-world-of-doom.json](./131719-akalabeth-world-of-doom.json) |
 | Akalabeth: World of Doom | 2417 | [2417-akalabeth-world-of-doom.json](./2417-akalabeth-world-of-doom.json) |
 | Akalabeth: World of Doom | 378498 | [378498-akalabeth-world-of-doom.json](./378498-akalabeth-world-of-doom.json) |
 | Akanbe Dragon | 71363 | [71363-akanbe-dragon.json](./71363-akanbe-dragon.json) |
@@ -6597,6 +6599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alfred Chicken | 272843 | [272843-alfred-chicken.json](./272843-alfred-chicken.json) |
 | Alfred Chicken | 76821 | [76821-alfred-chicken.json](./76821-alfred-chicken.json) |
 | Alfred Chicken | 7749 | [7749-alfred-chicken.json](./7749-alfred-chicken.json) |
+| Alfred Hitchcock Presents | 131725 | [131725-alfred-hitchcock-presents.json](./131725-alfred-hitchcock-presents.json) |
 | Alfred Hitchcock Presents: The Final Cut | 27392 | [27392-alfred-hitchcock-presents-the-final-cut.json](./27392-alfred-hitchcock-presents-the-final-cut.json) |
 | Alfred Hitchcock: Vertigo | 151844 | [151844-alfred-hitchcock-vertigo.json](./151844-alfred-hitchcock-vertigo.json) |
 | Alfred Hitchcock: Vertigo - Digital Deluxe Edition | 165621 | [165621-alfred-hitchcock-vertigo-digital-deluxe-edition.json](./165621-alfred-hitchcock-vertigo-digital-deluxe-edition.json) |
@@ -16935,7 +16938,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
