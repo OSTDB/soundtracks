@@ -1215,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hàn Mò Bàyè Miǎnfèi Bǎn | 368019 | [368019-han-mo-baye-mianfei-ban.json](./368019-han-mo-baye-mianfei-ban.json) |
 | Hàn Shì Xióngfēng | 154395 | [154395-han-shi-xiongfeng.json](./154395-han-shi-xiongfeng.json) |
 | Hàn Wǔ Dàdì Zhuán | 155708 | [155708-han-wu-dadi-zhuan.json](./155708-han-wu-dadi-zhuan.json) |
+| Han-Gyaku-Sei Million Arthur | 96139 | [96139-han-gyaku-sei-million-arthur.json](./96139-han-gyaku-sei-million-arthur.json) |
 | Han'yo | 212125 | [212125-hanyo.json](./212125-hanyo.json) |
 | Hana | 178033 | [178033-hana.json](./178033-hana.json) |
 | Hana | 369565 | [369565-hana.json](./369565-hana.json) |
