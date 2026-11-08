@@ -222,6 +222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HackeRPG | 280125 | [280125-hackerpg.json](./280125-hackerpg.json) |
 | Hackers | 80455 | [80455-hackers.json](./80455-hackers.json) |
 | Hackerwars.io | 139874 | [139874-hackerwars-io.json](./139874-hackerwars-io.json) |
+| Hackeycat | 128747 | [128747-hackeycat.json](./128747-hackeycat.json) |
 | HackHub: Ultimate Hacker Simulator | 304523 | [304523-hackhub-ultimate-hacker-simulator.json](./304523-hackhub-ultimate-hacker-simulator.json) |
 | Hacking Ball 3D | 193237 | [193237-hacking-ball-3d.json](./193237-hacking-ball-3d.json) |
 | Hacking for Hermann | 199369 | [199369-hacking-for-hermann.json](./199369-hacking-for-hermann.json) |
@@ -1259,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanako's flower shop | 163787 | [163787-hanakos-flower-shop.json](./163787-hanakos-flower-shop.json) |
 | Hanamaru Koumuten | 363672 | [363672-hanamaru-koumuten.json](./363672-hanamaru-koumuten.json) |
 | Hanami | 156806 | [156806-hanami.json](./156806-hanami.json) |
+| Hanamushi | 128762 | [128762-hanamushi.json](./128762-hanamushi.json) |
 | Hananezumi | 200742 | [200742-hananezumi.json](./200742-hananezumi.json) |
 | Hanano | 28828 | [28828-hanano.json](./28828-hanano.json) |
 | Hanano Puzzle | 124570 | [124570-hanano-puzzle.json](./124570-hanano-puzzle.json) |
@@ -11032,6 +11034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotline Miami: Collected Edition | 77985 | [77985-hotline-miami-collected-edition.json](./77985-hotline-miami-collected-edition.json) |
 | Hotline Miami: Redux-Redux | 400935 | [400935-hotline-miami-redux-redux.json](./400935-hotline-miami-redux-redux.json) |
 | Hotline Omsk | 255156 | [255156-hotline-omsk.json](./255156-hotline-omsk.json) |
+| Hotline Trail | 128716 | [128716-hotline-trail.json](./128716-hotline-trail.json) |
 | Hotloop | 235845 | [235845-hotloop.json](./235845-hotloop.json) |
 | Hototogisu | 64355 | [64355-hototogisu.json](./64355-hototogisu.json) |
 | Hototogisu Tairan 1553: Ryuko Aiutsu | 108779 | [108779-hototogisu-tairan-1553-ryuko-aiutsu.json](./108779-hototogisu-tairan-1553-ryuko-aiutsu.json) |
