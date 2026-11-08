@@ -1497,9 +1497,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Gladius - Relics of War: Escalation Pack | 223542 | [223542-warhammer-40-000-gladius-relics-of-war-escalation-pack.json](./223542-warhammer-40-000-gladius-relics-of-war-escalation-pack.json) |
 | Warhammer 40,000: Gladius - Relics of War: Firepower Pack | 250912 | [250912-warhammer-40-000-gladius-relics-of-war-firepower-pack.json](./250912-warhammer-40-000-gladius-relics-of-war-firepower-pack.json) |
 | Warhammer 40,000: Gladius - Relics of War: Fortification Pack | 153084 | [153084-warhammer-40-000-gladius-relics-of-war-fortification-pack.json](./153084-warhammer-40-000-gladius-relics-of-war-fortification-pack.json) |
+| Warhammer 40,000: Gladius - Relics of War: Lord of Skulls | 124937 | [124937-warhammer-40-000-gladius-relics-of-war-lord-of-skulls.json](./124937-warhammer-40-000-gladius-relics-of-war-lord-of-skulls.json) |
 | Warhammer 40,000: Gladius - Relics of War: Reinforcement Pack | 153085 | [153085-warhammer-40-000-gladius-relics-of-war-reinforcement-pack.json](./153085-warhammer-40-000-gladius-relics-of-war-reinforcement-pack.json) |
 | Warhammer 40,000: Gladius - Relics of War: Specialist Pack | 153083 | [153083-warhammer-40-000-gladius-relics-of-war-specialist-pack.json](./153083-warhammer-40-000-gladius-relics-of-war-specialist-pack.json) |
 | Warhammer 40,000: Gladius - T'au | 148958 | [148958-warhammer-40-000-gladius-tau.json](./148958-warhammer-40-000-gladius-tau.json) |
+| Warhammer 40,000: Gladius - Tyranids | 124951 | [124951-warhammer-40-000-gladius-tyranids.json](./124951-warhammer-40-000-gladius-tyranids.json) |
 | Warhammer 40,000: Inquisitor - Martyr | 203272 | [203272-warhammer-40-000-inquisitor-martyr.json](./203272-warhammer-40-000-inquisitor-martyr.json) |
 | Warhammer 40,000: Inquisitor - Martyr Complete Collection | 173158 | [173158-warhammer-40-000-inquisitor-martyr-complete-collection.json](./173158-warhammer-40-000-inquisitor-martyr-complete-collection.json) |
 | Warhammer 40,000: Inquisitor - Martyr Deluxe Edition | 117983 | [117983-warhammer-40-000-inquisitor-martyr-deluxe-edition.json](./117983-warhammer-40-000-inquisitor-martyr-deluxe-edition.json) |
@@ -2728,6 +2730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of the Samurai 2 | 10157 | [10157-way-of-the-samurai-2.json](./10157-way-of-the-samurai-2.json) |
 | Way of the Samurai 3 | 7247 | [7247-way-of-the-samurai-3.json](./7247-way-of-the-samurai-3.json) |
 | Way of the Samurai 3 Plus | 140871 | [140871-way-of-the-samurai-3-plus.json](./140871-way-of-the-samurai-3-plus.json) |
+| Way of the Samurai 3: Deluxe Edition | 124909 | [124909-way-of-the-samurai-3-deluxe-edition.json](./124909-way-of-the-samurai-3-deluxe-edition.json) |
 | Way of the Samurai 4 | 10158 | [10158-way-of-the-samurai-4.json](./10158-way-of-the-samurai-4.json) |
 | Way of the Samurai Portable | 38486 | [38486-way-of-the-samurai-portable.json](./38486-way-of-the-samurai-portable.json) |
 | Way of the Samurai Portable 2 | 59371 | [59371-way-of-the-samurai-portable-2.json](./59371-way-of-the-samurai-portable-2.json) |
@@ -4596,6 +4599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whispers in the Void | 287705 | [287705-whispers-in-the-void.json](./287705-whispers-in-the-void.json) |
 | Whispers in the Wood | 328198 | [328198-whispers-in-the-wood.json](./328198-whispers-in-the-wood.json) |
 | Whispers In The Woods | 410452 | [410452-whispers-in-the-woods.json](./410452-whispers-in-the-woods.json) |
+| Whispers of a Machine: Blue Edition | 124894 | [124894-whispers-of-a-machine-blue-edition.json](./124894-whispers-of-a-machine-blue-edition.json) |
 | Whispers of an Elven Captor | 266015 | [266015-whispers-of-an-elven-captor.json](./266015-whispers-of-an-elven-captor.json) |
 | Whispers of Ancient Stone | 195578 | [195578-whispers-of-ancient-stone.json](./195578-whispers-of-ancient-stone.json) |
 | Whispers of Appalachia | 389925 | [389925-whispers-of-appalachia.json](./389925-whispers-of-appalachia.json) |
@@ -7889,6 +7893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words With Friends Classic | 87350 | [87350-words-with-friends-classic.json](./87350-words-with-friends-classic.json) |
 | Words With Friends Crosswords | 233405 | [233405-words-with-friends-crosswords.json](./233405-words-with-friends-crosswords.json) |
 | Words with Gizmos | 384679 | [384679-words-with-gizmos.json](./384679-words-with-gizmos.json) |
+| Words Worth | 124913 | [124913-words-worth.json](./124913-words-worth.json) |
 | Words-Attack | 40747 | [40747-words-attack.json](./40747-words-attack.json) |
 | Wordscapes | 87056 | [87056-wordscapes.json](./87056-wordscapes.json) |
 | Wordscapes Search | 272562 | [272562-wordscapes-search.json](./272562-wordscapes-search.json) |
