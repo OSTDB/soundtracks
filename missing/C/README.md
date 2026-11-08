@@ -5782,6 +5782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chainworm Kommando | 257350 | [257350-chainworm-kommando.json](./257350-chainworm-kommando.json) |
 | Chainz | 94467 | [94467-chainz.json](./94467-chainz.json) |
 | Chainz 2: Relinked | 10571 | [10571-chainz-2-relinked.json](./10571-chainz-2-relinked.json) |
+| Chainz Galaxy | 106708 | [106708-chainz-galaxy.json](./106708-chainz-galaxy.json) |
 | Chair F*cking Simulator | 178260 | [178260-chair-f-cking-simulator.json](./178260-chair-f-cking-simulator.json) |
 | Chair Is Videogame | 144083 | [144083-chair-is-videogame.json](./144083-chair-is-videogame.json) |
 | Chair Simulator | 146871 | [146871-chair-simulator.json](./146871-chair-simulator.json) |
@@ -8300,6 +8301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Dentist | 107086 | [107086-christmas-dentist.json](./107086-christmas-dentist.json) |
 | Christmas Drift: Delivery Simulator | 325716 | [325716-christmas-drift-delivery-simulator.json](./325716-christmas-drift-delivery-simulator.json) |
 | Christmas Dropini | 352341 | [352341-christmas-dropini.json](./352341-christmas-dropini.json) |
+| Christmas Drops | 106727 | [106727-christmas-drops.json](./106727-christmas-drops.json) |
 | Christmas Elf | 169614 | [169614-christmas-elf.json](./169614-christmas-elf.json) |
 | Christmas Escape | 314046 | [314046-christmas-escape.json](./314046-christmas-escape.json) |
 | Christmas Escape Toy | 317090 | [317090-christmas-escape-toy.json](./317090-christmas-escape-toy.json) |
@@ -9760,6 +9762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civil Engineering Simulator | 62428 | [62428-civil-engineering-simulator.json](./62428-civil-engineering-simulator.json) |
 | Civil Purgatory | 364840 | [364840-civil-purgatory.json](./364840-civil-purgatory.json) |
 | Civil War | 95459 | [95459-civil-war.json](./95459-civil-war.json) |
+| Civil War Battles - Chancellorsville | 106791 | [106791-civil-war-battles-chancellorsville.json](./106791-civil-war-battles-chancellorsville.json) |
 | Civil War Battles: Shiloh | 96560 | [96560-civil-war-battles-shiloh.json](./96560-civil-war-battles-shiloh.json) |
 | Civil War II | 17527 | [17527-civil-war-ii.json](./17527-civil-war-ii.json) |
 | Civil War II: The Bloody Road South | 172111 | [172111-civil-war-ii-the-bloody-road-south.json](./172111-civil-war-ii-the-bloody-road-south.json) |
