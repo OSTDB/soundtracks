@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-08T12:05:51.336Z",
-  "total_soundtracks": 2951,
+  "generated_at": "2026-11-08T12:21:53.945Z",
+  "total_soundtracks": 2970,
   "games": [
     {
       "igdb_id": 7522,
@@ -3547,6 +3547,20 @@
       ]
     },
     {
+      "igdb_id": 26188,
+      "game_name": "Behold the Kickmen",
+      "game_url": "https://ostdb.net/games/behold-the-kickmen",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ae3a7f1df9f14659719ad6c8",
+      "albums": [
+        {
+          "album_name": "Behold the Kickmen (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5h6JTkUGNAUCORd608dPiD",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 3231,
       "game_name": "Below",
       "game_url": "https://ostdb.net/games/below",
@@ -3723,6 +3737,20 @@
         {
           "album_name": "Birthdays the Beginning Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/1U3sW5aNCDDiD4qHXgcvRG",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 24557,
+      "game_name": "Bit Dungeon II",
+      "game_url": "https://ostdb.net/games/bit-dungeon-ii",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731c15e2047d30f2a91ba1f705",
+      "albums": [
+        {
+          "album_name": "Bit Dungeon II (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0ZggYhjvLiQvdLb5k7h8hs",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -3947,6 +3975,20 @@
         {
           "album_name": "Bleeding Edge (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3KZW4dRXly7eniSQK2lYH7",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 18339,
+      "game_name": "Block'hood",
+      "game_url": "https://ostdb.net/games/blockhood",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738fc875492d48277a2504f30b",
+      "albums": [
+        {
+          "album_name": "Block'hood (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3nuEtD80eNyMDNMEVJn3Vv",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -5817,6 +5859,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/cleared-hot-sound-track/1891190047?uo=4",
           "album_link_url": "https://album.link/i/1891190047"
+        }
+      ]
+    },
+    {
+      "igdb_id": 24632,
+      "game_name": "Cloak & Dagger",
+      "game_url": "https://ostdb.net/games/cloak-and-dagger",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27342afd8ef29a0b0d077bfa197",
+      "albums": [
+        {
+          "album_name": "Cloak & Dagger (Original Score)",
+          "spotify_url": "https://open.spotify.com/album/60Pfn5d1CmZuu6mi3k8pn3",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -9085,6 +9141,20 @@
       ]
     },
     {
+      "igdb_id": 38035,
+      "game_name": "Dragon Buster",
+      "game_url": "https://ostdb.net/games/dragon-buster",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273dfaa851573778f9479c6538a",
+      "albums": [
+        {
+          "album_name": "Dragon Buster (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6AK91pIyXJJcu2LBsUGMVV",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 38877,
       "game_name": "Dragon City",
       "game_url": "https://ostdb.net/games/dragon-city",
@@ -9247,6 +9317,20 @@
         {
           "album_name": "Dressmaker (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6fnw6HIwQtMUSDmRN3ci9B",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 17835,
+      "game_name": "Drifting Lands",
+      "game_url": "https://ostdb.net/games/drifting-lands",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27362873a1f9ab339bc2172c037",
+      "albums": [
+        {
+          "album_name": "Drifting Lands (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4vmq1rWbYTxiMEHITGKTfx",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -11653,6 +11737,20 @@
         {
           "album_name": "Flock (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0XpvYZjr8lHD04NdOEcN85",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 55196,
+      "game_name": "Floor Kids",
+      "game_url": "https://ostdb.net/games/floor-kids",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273d1d438769939e17250d9a001",
+      "albums": [
+        {
+          "album_name": "Floor Kids (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4GS7w58zUcco98C1TNlMov",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -15781,6 +15879,20 @@
       ]
     },
     {
+      "igdb_id": 74828,
+      "game_name": "Into the Dead 2",
+      "game_url": "https://ostdb.net/games/into-the-dead-2",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273841c60d44401aec9aa2c638c",
+      "albums": [
+        {
+          "album_name": "Into the Dead 2 (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1iCfqitSyDKFLTA4x2ny8F",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 165318,
       "game_name": "Into the Pit",
       "game_url": "https://ostdb.net/games/into-the-pit",
@@ -17277,6 +17389,20 @@
       ]
     },
     {
+      "igdb_id": 39024,
+      "game_name": "Lethal Weapon",
+      "game_url": "https://ostdb.net/games/lethal-weapon",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2736eee6315773c6bea3c879014",
+      "albums": [
+        {
+          "album_name": "Lethal Weapon (Music from the Motion Pictures)",
+          "spotify_url": "https://open.spotify.com/album/0ffBP32Hv1GYhJ0E59nU4M",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 101245,
       "game_name": "Levelhead",
       "game_url": "https://ostdb.net/games/levelhead",
@@ -17765,6 +17891,20 @@
         {
           "album_name": "Lone Survivor: Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/4pxNf4Rk1q7gi3cOFWNoXD",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 31820,
+      "game_name": "Long Gone Days",
+      "game_url": "https://ostdb.net/games/long-gone-days",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b2b458aa9697310df235a1f4",
+      "albums": [
+        {
+          "album_name": "Long Gone Days (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4BYxOpWTX6T2RvN4rNlpMC",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -22327,6 +22467,20 @@
       ]
     },
     {
+      "igdb_id": 28061,
+      "game_name": "Overwatch: Collector's Edition",
+      "game_url": "https://ostdb.net/games/overwatch-collectors-edition",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27318ef35915e2d654371c9db52",
+      "albums": [
+        {
+          "album_name": "Overwatch Collector's Edition Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/73SENSYPOTAeBUy7LDvBtr",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 7559,
       "game_name": "Pac-Man",
       "game_url": "https://ostdb.net/games/pac-man",
@@ -26359,6 +26513,20 @@
       ]
     },
     {
+      "igdb_id": 19543,
+      "game_name": "Serious Sam VR: The Last Hope",
+      "game_url": "https://ostdb.net/games/serious-sam-vr-the-last-hope",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e35a904c598f8612f9af2a53",
+      "albums": [
+        {
+          "album_name": "Serious Sam VR: the Last Hope (Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2MrVyfNZXk597deE1aBvem",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 187112,
       "game_name": "Serious Sam: Siberian Mayhem",
       "game_url": "https://ostdb.net/games/serious-sam-siberian-mayhem",
@@ -26569,6 +26737,20 @@
       ]
     },
     {
+      "igdb_id": 36370,
+      "game_name": "Shadows on the Vatican Act I: Greed",
+      "game_url": "https://ostdb.net/games/shadows-on-the-vatican-act-i-greed",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738a39c3c33cbfb4bc0d4d0700",
+      "albums": [
+        {
+          "album_name": "Shadows on the Vatican - Act I: Greed (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2dmyoBirfr8zukeUjuxCcj",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 225615,
       "game_name": "Shadows Over Loathing",
       "game_url": "https://ostdb.net/games/shadows-over-loathing",
@@ -26605,6 +26787,20 @@
         {
           "album_name": "Shantae and the Seven Sirens (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2mwCmhrwmzayrQ4M2ilXql",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 54613,
+      "game_name": "Shape of the World",
+      "game_url": "https://ostdb.net/games/shape-of-the-world",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2732a078ad2b64ec25ecb70963f",
+      "albums": [
+        {
+          "album_name": "Shape of the World (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0wJBdF5HmLXdEnIZi6iPZb",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -27987,6 +28183,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/sons-of-the-forest-main-theme-epic-cover-single/1841096732?uo=4",
           "album_link_url": "https://album.link/i/1841096732"
+        }
+      ]
+    },
+    {
+      "igdb_id": 20114,
+      "game_name": "Sorcery",
+      "game_url": "https://ostdb.net/games/sorcery",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733a7d1f321880e96ca5c9f92d",
+      "albums": [
+        {
+          "album_name": "Sorcery (Original Videogame Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6CCMeXwBdj82bkPiK987jC",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -33319,6 +33529,20 @@
       ]
     },
     {
+      "igdb_id": 27265,
+      "game_name": "Timeframe",
+      "game_url": "https://ostdb.net/games/timeframe",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273adf75eba235f4353412c84ca",
+      "albums": [
+        {
+          "album_name": "Timeframe (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1Yu0qZu90NrWAy9lpLlUYv",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 122385,
       "game_name": "Timelie",
       "game_url": "https://ostdb.net/games/timelie",
@@ -33825,6 +34049,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/towa-and-the-guardians-of-the/1843022579?uo=4",
           "album_link_url": "https://album.link/i/1843022579"
+        }
+      ]
+    },
+    {
+      "igdb_id": 28005,
+      "game_name": "Tower of Heaven",
+      "game_url": "https://ostdb.net/games/tower-of-heaven",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c316b95a9396b49efc827f64",
+      "albums": [
+        {
+          "album_name": "Tower of Heaven (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1BhxcmomhUniLCu173Rpn4",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -36057,6 +36295,20 @@
       ]
     },
     {
+      "igdb_id": 27085,
+      "game_name": "We Need to Go Deeper",
+      "game_url": "https://ostdb.net/games/we-need-to-go-deeper",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273148aebe9c8ab206baddf0aa7",
+      "albums": [
+        {
+          "album_name": "We Need To Go Deeper (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7EUxRTTehDGO8X3o5QsK0L",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 5275,
       "game_name": "We Ski",
       "game_url": "https://ostdb.net/games/we-ski",
@@ -37255,6 +37507,20 @@
         {
           "album_name": "Yooka Replaylee (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/4UU4hFrS51YLGo9xQFbYEr",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 31909,
+      "game_name": "You Have 10 Seconds",
+      "game_url": "https://ostdb.net/games/you-have-10-seconds",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731ec069677625eb1a4208c7e6",
+      "albums": [
+        {
+          "album_name": "You Have 10 Seconds Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/5s4rL8zmwf1qcMTTunQIrY",
           "apple_music_url": "",
           "album_link_url": ""
         }
