@@ -6519,6 +6519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Liu Yin | 175728 | [175728-liu-yin.json](./175728-liu-yin.json) |
 | Liú Yǐn | 375417 | [375417-liu-yin.json](./375417-liu-yin.json) |
 | Liùdào Fēng Yān | 398176 | [398176-liudao-feng-yan.json](./398176-liudao-feng-yan.json) |
+| Liúmáng Dú Dàxué | 113222 | [113222-liumang-du-daxue.json](./113222-liumang-du-daxue.json) |
 | Liùmángzhū Chuánshuō | 394185 | [394185-liumangzhu-chuanshuo.json](./394185-liumangzhu-chuanshuo.json) |
 | Liúyán Zhēntàn | 157348 | [157348-liuyan-zhentan.json](./157348-liuyan-zhentan.json) |
 | Liuyin's World | 346566 | [346566-liuyins-world.json](./346566-liuyins-world.json) |
