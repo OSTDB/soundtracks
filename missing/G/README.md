@@ -3064,6 +3064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genius vs. Antichrist 1 | 201530 | [201530-genius-vs-antichrist-1.json](./201530-genius-vs-antichrist-1.json) |
 | Genius: Biology | 70769 | [70769-genius-biology.json](./70769-genius-biology.json) |
 | Genius: Im Zentrum der Macht | 86122 | [86122-genius-im-zentrum-der-macht.json](./86122-genius-im-zentrum-der-macht.json) |
+| Genius! | 129325 | [129325-genius.json](./129325-genius.json) |
 | Genius! Nazi-Girl GoePpels-Chan Ep1 | 114116 | [114116-genius-nazi-girl-goeppels-chan-ep1.json](./114116-genius-nazi-girl-goeppels-chan-ep1.json) |
 | Genius! Nazi-Girl GoePpels-Chan Ep2 | 118018 | [118018-genius-nazi-girl-goeppels-chan-ep2.json](./118018-genius-nazi-girl-goeppels-chan-ep2.json) |
 | Genix Family | 38654 | [38654-genix-family.json](./38654-genix-family.json) |
@@ -4635,6 +4636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls Creation: Shoujo Geijutsu Kitan | 264497 | [264497-girls-creation-shoujo-geijutsu-kitan.json](./264497-girls-creation-shoujo-geijutsu-kitan.json) |
 | Girls Dance | 105691 | [105691-girls-dance.json](./105691-girls-dance.json) |
 | Girls Dance VR | 384632 | [384632-girls-dance-vr.json](./384632-girls-dance-vr.json) |
+| Girls Deffence | 129298 | [129298-girls-deffence.json](./129298-girls-deffence.json) |
 | Girls Divers | 259507 | [259507-girls-divers.json](./259507-girls-divers.json) |
 | Girls don't like me | 182905 | [182905-girls-dont-like-me.json](./182905-girls-dont-like-me.json) |
 | Girls Eliminate | 405336 | [405336-girls-eliminate.json](./405336-girls-eliminate.json) |
