@@ -421,6 +421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saddle Up: Time to Ride | 64114 | [64114-saddle-up-time-to-ride.json](./64114-saddle-up-time-to-ride.json) |
 | Sadey's Sail | 287451 | [287451-sadeys-sail.json](./287451-sadeys-sail.json) |
 | Sadhana | 364598 | [364598-sadhana.json](./364598-sadhana.json) |
+| Sadim Castle | 78242 | [78242-sadim-castle.json](./78242-sadim-castle.json) |
 | Sadist II: Ostatni Krzyk | 404380 | [404380-sadist-ii-ostatni-krzyk.json](./404380-sadist-ii-ostatni-krzyk.json) |
 | SaDistic BlooD | 141395 | [141395-sadistic-blood.json](./141395-sadistic-blood.json) |
 | Sadistic Medicine | 130034 | [130034-sadistic-medicine.json](./130034-sadistic-medicine.json) |
@@ -16916,6 +16917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SolCycle | 349993 | [349993-solcycle.json](./349993-solcycle.json) |
 | Sold Out | 253337 | [253337-sold-out.json](./253337-sold-out.json) |
 | Sold Soul | 261437 | [261437-sold-soul.json](./261437-sold-soul.json) |
+| Soldam | 78225 | [78225-soldam.json](./78225-soldam.json) |
 | Soldam: Drop, Connect, Erase | 36816 | [36816-soldam-drop-connect-erase.json](./36816-soldam-drop-connect-erase.json) |
 | Soldat 2 | 129499 | [129499-soldat-2.json](./129499-soldat-2.json) |
 | Soldier | 150243 | [150243-soldier.json](./150243-soldier.json) |
@@ -37196,6 +37198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System of Souls | 204995 | [204995-system-of-souls.json](./204995-system-of-souls.json) |
 | System Overload | 390218 | [390218-system-overload.json](./390218-system-overload.json) |
 | System Override | 277604 | [277604-system-override.json](./277604-system-override.json) |
+| System Protocol One | 78224 | [78224-system-protocol-one.json](./78224-system-protocol-one.json) |
 | System Purge | 182381 | [182381-system-purge.json](./182381-system-purge.json) |
 | System Purge: Hollow Point | 258822 | [258822-system-purge-hollow-point.json](./258822-system-purge-hollow-point.json) |
 | System Reject | 321959 | [321959-system-reject.json](./321959-system-reject.json) |
