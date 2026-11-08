@@ -4616,6 +4616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agarest Senki Mariage: Limited Edition | 64119 | [64119-agarest-senki-mariage-limited-edition.json](./64119-agarest-senki-mariage-limited-edition.json) |
 | Agarest Senki Zero: Dawn of War | 66468 | [66468-agarest-senki-zero-dawn-of-war.json](./66468-agarest-senki-zero-dawn-of-war.json) |
 | Agarest: Generations of War | 8764 | [8764-agarest-generations-of-war.json](./8764-agarest-generations-of-war.json) |
+| Agarest: Generations of War - Collector's Edition | 124911 | [124911-agarest-generations-of-war-collectors-edition.json](./124911-agarest-generations-of-war-collectors-edition.json) |
 | Agarest: Generations of War 2 | 17620 | [17620-agarest-generations-of-war-2.json](./17620-agarest-generations-of-war-2.json) |
 | Agarest: Generations of War 2 - Collector's Edition | 42991 | [42991-agarest-generations-of-war-2-collectors-edition.json](./42991-agarest-generations-of-war-2-collectors-edition.json) |
 | Agarest: Generations of War Zero - Collector's Edition | 42990 | [42990-agarest-generations-of-war-zero-collectors-edition.json](./42990-agarest-generations-of-war-zero-collectors-edition.json) |
@@ -9342,6 +9343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anceder | 105204 | [105204-anceder.json](./105204-anceder.json) |
 | Ancestor's Legacy: Conqueror's Edition | 202221 | [202221-ancestors-legacy-conquerors-edition.json](./202221-ancestors-legacy-conquerors-edition.json) |
 | Ancestors Legacy Multiplayer Open Beta | 86625 | [86625-ancestors-legacy-multiplayer-open-beta.json](./86625-ancestors-legacy-multiplayer-open-beta.json) |
+| Ancestors Legacy: Complete Edition | 124895 | [124895-ancestors-legacy-complete-edition.json](./124895-ancestors-legacy-complete-edition.json) |
 | Ancestors Legacy: Day One Edition | 139851 | [139851-ancestors-legacy-day-one-edition.json](./139851-ancestors-legacy-day-one-edition.json) |
 | Ancestors Legacy: Saladin's Conquest | 122203 | [122203-ancestors-legacy-saladins-conquest.json](./122203-ancestors-legacy-saladins-conquest.json) |
 | Ancestors Legacy: Special Edition | 124820 | [124820-ancestors-legacy-special-edition.json](./124820-ancestors-legacy-special-edition.json) |
@@ -15275,6 +15277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashes of the Singularity: Escalation - Overlord Scenario Pack | 155284 | [155284-ashes-of-the-singularity-escalation-overlord-scenario-pack.json](./155284-ashes-of-the-singularity-escalation-overlord-scenario-pack.json) |
 | Ashes of the Singularity: Escalation - Secret Missions | 155283 | [155283-ashes-of-the-singularity-escalation-secret-missions.json](./155283-ashes-of-the-singularity-escalation-secret-missions.json) |
 | Ashes of the Singularity: Escalation - Secret Missions | 170300 | [170300-ashes-of-the-singularity-escalation-secret-missions.json](./170300-ashes-of-the-singularity-escalation-secret-missions.json) |
+| Ashes of the Singularity: Escalation - Turtle Wars | 124925 | [124925-ashes-of-the-singularity-escalation-turtle-wars.json](./124925-ashes-of-the-singularity-escalation-turtle-wars.json) |
 | Ashes of the Singularity: Escalation - Turtle Wars | 170298 | [170298-ashes-of-the-singularity-escalation-turtle-wars.json](./170298-ashes-of-the-singularity-escalation-turtle-wars.json) |
 | Ashes of the Singularity: Escalation Gold | 52605 | [52605-ashes-of-the-singularity-escalation-gold.json](./52605-ashes-of-the-singularity-escalation-gold.json) |
 | Ashes of Vaelmoor | 412591 | [412591-ashes-of-vaelmoor.json](./412591-ashes-of-vaelmoor.json) |
@@ -16962,7 +16965,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
