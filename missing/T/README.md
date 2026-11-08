@@ -7619,6 +7619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Confraternity of Toast 2 | 176314 | [176314-the-confraternity-of-toast-2.json](./176314-the-confraternity-of-toast-2.json) |
 | The Conjurer | 53705 | [53705-the-conjurer.json](./53705-the-conjurer.json) |
 | The Conqueror of Battles | 195467 | [195467-the-conqueror-of-battles.json](./195467-the-conqueror-of-battles.json) |
+| The Conquest of Go | 132933 | [132933-the-conquest-of-go.json](./132933-the-conquest-of-go.json) |
 | The Consequences of Gardening | 183026 | [183026-the-consequences-of-gardening.json](./183026-the-consequences-of-gardening.json) |
 | The Consortium: Master Edition | 51699 | [51699-the-consortium-master-edition.json](./51699-the-consortium-master-edition.json) |
 | The Construct | 31388 | [31388-the-construct.json](./31388-the-construct.json) |
@@ -12487,6 +12488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Tree | 211529 | [211529-the-last-tree.json](./211529-the-last-tree.json) |
 | The Last Tree | 38813 | [38813-the-last-tree.json](./38813-the-last-tree.json) |
 | The Last Trooper | 15245 | [15245-the-last-trooper.json](./15245-the-last-trooper.json) |
+| The Last Turret | 132966 | [132966-the-last-turret.json](./132966-the-last-turret.json) |
 | The Last Utopi | 323671 | [323671-the-last-utopi.json](./323671-the-last-utopi.json) |
 | The Last V8 | 26347 | [26347-the-last-v8.json](./26347-the-last-v8.json) |
 | The Last Vagabonds | 237013 | [237013-the-last-vagabonds.json](./237013-the-last-vagabonds.json) |
@@ -15834,6 +15836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Revenants: Corridor of Souls | 66421 | [66421-the-revenants-corridor-of-souls.json](./66421-the-revenants-corridor-of-souls.json) |
 | The Revenge of Johnny Bonasera: Episode 2 | 84068 | [84068-the-revenge-of-johnny-bonasera-episode-2.json](./84068-the-revenge-of-johnny-bonasera-episode-2.json) |
 | The Revenge of Johnny Bonasera: Episode 3 | 114086 | [114086-the-revenge-of-johnny-bonasera-episode-3.json](./114086-the-revenge-of-johnny-bonasera-episode-3.json) |
+| The Revenge of Johnny Bonasera: Episode 4 | 132964 | [132964-the-revenge-of-johnny-bonasera-episode-4.json](./132964-the-revenge-of-johnny-bonasera-episode-4.json) |
 | The Revenge of Mr.Samuel | 199381 | [199381-the-revenge-of-mr-samuel.json](./199381-the-revenge-of-mr-samuel.json) |
 | The Revenge of Shinobi | 10222 | [10222-the-revenge-of-shinobi.json](./10222-the-revenge-of-shinobi.json) |
 | The Revenge of Shinobi | 3327 | [3327-the-revenge-of-shinobi.json](./3327-the-revenge-of-shinobi.json) |
@@ -20869,6 +20872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Through the Murky Water | 342557 | [342557-through-the-murky-water.json](./342557-through-the-murky-water.json) |
 | Through the Nest | 374131 | [374131-through-the-nest.json](./374131-through-the-nest.json) |
 | Through the Night | 208679 | [208679-through-the-night.json](./208679-through-the-night.json) |
+| Through the Nightmares | 132938 | [132938-through-the-nightmares.json](./132938-through-the-nightmares.json) |
 | Through the Panels | 180528 | [180528-through-the-panels.json](./180528-through-the-panels.json) |
 | Through the Thorns and Curses | 288616 | [288616-through-the-thorns-and-curses.json](./288616-through-the-thorns-and-curses.json) |
 | Through the Tomb | 102957 | [102957-through-the-tomb.json](./102957-through-the-tomb.json) |
