@@ -27080,7 +27080,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellaris: Infernals Species Pack | 401938 | [401938-stellaris-infernals-species-pack.json](./401938-stellaris-infernals-species-pack.json) |
 | Stellaris: Leviathans | 25566 | [25566-stellaris-leviathans.json](./25566-stellaris-leviathans.json) |
 | Stellaris: Lithoids | 148795 | [148795-stellaris-lithoids.json](./148795-stellaris-lithoids.json) |
-| Stellaris: MegaCorp | 111331 | [111331-stellaris-megacorp.json](./111331-stellaris-megacorp.json) |
 | Stellaris: Necroids Species Pack | 148799 | [148799-stellaris-necroids-species-pack.json](./148799-stellaris-necroids-species-pack.json) |
 | Stellaris: Nemesis | 148794 | [148794-stellaris-nemesis.json](./148794-stellaris-nemesis.json) |
 | Stellaris: Nomads | 399970 | [399970-stellaris-nomads.json](./399970-stellaris-nomads.json) |
@@ -30607,7 +30606,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Paws | 122378 | [122378-summer-paws.json](./122378-summer-paws.json) |
 | Summer Photo Album | 201440 | [201440-summer-photo-album.json](./201440-summer-photo-album.json) |
 | Summer Pleasure | 210876 | [210876-summer-pleasure.json](./210876-summer-pleasure.json) |
-| Summer Pockets | 87682 | [87682-summer-pockets.json](./87682-summer-pockets.json) |
 | Summer Pop | 296790 | [296790-summer-pop.json](./296790-summer-pop.json) |
 | Summer Pop!+ | 296791 | [296791-summer-pop.json](./296791-summer-pop.json) |
 | Summer Puzzles | 226200 | [226200-summer-puzzles.json](./226200-summer-puzzles.json) |
