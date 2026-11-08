@@ -3194,6 +3194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inca Gold | 97501 | [97501-inca-gold.json](./97501-inca-gold.json) |
 | Inca II | 45925 | [45925-inca-ii.json](./45925-inca-ii.json) |
 | Inca II: Nations of Immortality | 50272 | [50272-inca-ii-nations-of-immortality.json](./50272-inca-ii-nations-of-immortality.json) |
+| Incadia | 94373 | [94373-incadia.json](./94373-incadia.json) |
 | Incandescent | 34997 | [34997-incandescent.json](./34997-incandescent.json) |
 | Incandescent 2 | 113713 | [113713-incandescent-2.json](./113713-incandescent-2.json) |
 | Incandescent X | 408708 | [408708-incandescent-x.json](./408708-incandescent-x.json) |
@@ -5129,6 +5130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Rally Championship | 50210 | [50210-international-rally-championship.json](./50210-international-rally-championship.json) |
 | International Rugby | 45709 | [45709-international-rugby.json](./45709-international-rugby.json) |
 | International Rugby Challenge | 73281 | [73281-international-rugby-challenge.json](./73281-international-rugby-challenge.json) |
+| International Rugby Simulator | 94281 | [94281-international-rugby-simulator.json](./94281-international-rugby-simulator.json) |
 | International Secret Agent | 248958 | [248958-international-secret-agent.json](./248958-international-secret-agent.json) |
 | International Sensible Soccer | 40808 | [40808-international-sensible-soccer.json](./40808-international-sensible-soccer.json) |
 | International Snooker 2009 | 91698 | [91698-international-snooker-2009.json](./91698-international-snooker-2009.json) |
