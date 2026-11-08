@@ -3801,6 +3801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junkyard Space Agency | 356045 | [356045-junkyard-space-agency.json](./356045-junkyard-space-agency.json) |
 | Junkyard Universe | 349753 | [349753-junkyard-universe.json](./349753-junkyard-universe.json) |
 | Junkyard War | 207557 | [207557-junkyard-war.json](./207557-junkyard-war.json) |
+| Junkyard Wizard | 115930 | [115930-junkyard-wizard.json](./115930-junkyard-wizard.json) |
 | Junkybots | 292959 | [292959-junkybots.json](./292959-junkybots.json) |
 | Juno | 150416 | [150416-juno.json](./150416-juno.json) |
 | Juno 06 | 217148 | [217148-juno-06.json](./217148-juno-06.json) |
