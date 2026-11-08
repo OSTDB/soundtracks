@@ -55,6 +55,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacko | 23502 | [23502-wacko.json](./23502-wacko.json) |
 | Wacko Willy | 394128 | [394128-wacko-willy.json](./394128-wacko-willy.json) |
 | Wacktory | 121609 | [121609-wacktory.json](./121609-wacktory.json) |
+| Wacky balls | 96803 | [96803-wacky-balls.json](./96803-wacky-balls.json) |
 | Wacky Bird Hunter | 205942 | [205942-wacky-bird-hunter.json](./205942-wacky-bird-hunter.json) |
 | Wacky Burgers | 291347 | [291347-wacky-burgers.json](./291347-wacky-burgers.json) |
 | Wacky Cars | 102542 | [102542-wacky-cars.json](./102542-wacky-cars.json) |
