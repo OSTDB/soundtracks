@@ -3514,6 +3514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Airsoft | 146587 | [146587-operation-airsoft.json](./146587-operation-airsoft.json) |
 | Operation Apex | 75498 | [75498-operation-apex.json](./75498-operation-apex.json) |
 | Operation Apocalypse | 23991 | [23991-operation-apocalypse.json](./23991-operation-apocalypse.json) |
+| Operation Area 51 | 123694 | [123694-operation-area-51.json](./123694-operation-area-51.json) |
 | Operation Armstrong | 125668 | [125668-operation-armstrong.json](./125668-operation-armstrong.json) |
 | Operation Athena | 292575 | [292575-operation-athena.json](./292575-operation-athena.json) |
 | Operation Babel: New Tokyo Legacy | 25593 | [25593-operation-babel-new-tokyo-legacy.json](./25593-operation-babel-new-tokyo-legacy.json) |
