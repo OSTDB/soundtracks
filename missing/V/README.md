@@ -2832,11 +2832,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Pet Dinosaur: Tyrannosaurus Rex | 90341 | [90341-virtual-pet-dinosaur-tyrannosaurus-rex.json](./90341-virtual-pet-dinosaur-tyrannosaurus-rex.json) |
 | Virtual Pet Dinosaur: Velociraptor | 106774 | [106774-virtual-pet-dinosaur-velociraptor.json](./106774-virtual-pet-dinosaur-velociraptor.json) |
 | Virtual Pet Dog | 101434 | [101434-virtual-pet-dog.json](./101434-virtual-pet-dog.json) |
+| Virtual Pet Dolphin | 90019 | [90019-virtual-pet-dolphin.json](./90019-virtual-pet-dolphin.json) |
 | Virtual Pet Dragon | 89687 | [89687-virtual-pet-dragon.json](./89687-virtual-pet-dragon.json) |
 | Virtual Pet Elephant | 90428 | [90428-virtual-pet-elephant.json](./90428-virtual-pet-elephant.json) |
 | Virtual Pet Great White Shark | 106574 | [106574-virtual-pet-great-white-shark.json](./106574-virtual-pet-great-white-shark.json) |
 | Virtual Pet Horse | 90022 | [90022-virtual-pet-horse.json](./90022-virtual-pet-horse.json) |
 | Virtual Pet Kitty Cat | 89227 | [89227-virtual-pet-kitty-cat.json](./89227-virtual-pet-kitty-cat.json) |
+| Virtual Pet Orca - The Killer Whale | 90039 | [90039-virtual-pet-orca-the-killer-whale.json](./90039-virtual-pet-orca-the-killer-whale.json) |
 | Virtual Pet Robot | 102895 | [102895-virtual-pet-robot.json](./102895-virtual-pet-robot.json) |
 | Virtual Pet Tiger | 105669 | [105669-virtual-pet-tiger.json](./105669-virtual-pet-tiger.json) |
 | Virtual Pet Unicorn | 88151 | [88151-virtual-pet-unicorn.json](./88151-virtual-pet-unicorn.json) |
