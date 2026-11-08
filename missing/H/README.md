@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H-Rescue | 227667 | [227667-h-rescue.json](./227667-h-rescue.json) |
 | H-Sniper: World War II | 173992 | [173992-h-sniper-world-war-ii.json](./173992-h-sniper-world-war-ii.json) |
 | H.A.D.E.S Zero | 346885 | [346885-h-a-d-e-s-zero.json](./346885-h-a-d-e-s-zero.json) |
+| H.A.R.D | 94304 | [94304-h-a-r-d.json](./94304-h-a-r-d.json) |
 | H.A.R.V.E.S.T.E.R | 397586 | [397586-h-a-r-v-e-s-t-e-r.json](./397586-h-a-r-v-e-s-t-e-r.json) |
 | H.A.T.E.: Hostile All Terrain Encounter. | 72444 | [72444-h-a-t-e-hostile-all-terrain-encounter.json](./72444-h-a-t-e-hostile-all-terrain-encounter.json) |
 | H.A.V.E. Online | 137476 | [137476-h-a-v-e-online.json](./137476-h-a-v-e-online.json) |
@@ -4304,6 +4305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Yeah! Pocket Inferno | 78672 | [78672-hell-yeah-pocket-inferno.json](./78672-hell-yeah-pocket-inferno.json) |
 | Hell Yeah! Virtual Rabbit: Missions | 174135 | [174135-hell-yeah-virtual-rabbit-missions.json](./174135-hell-yeah-virtual-rabbit-missions.json) |
 | Hell Yeah! Wrath of the Dead Rabbit | 5618 | [5618-hell-yeah-wrath-of-the-dead-rabbit.json](./5618-hell-yeah-wrath-of-the-dead-rabbit.json) |
+| Hell-Copter | 94302 | [94302-hell-copter.json](./94302-hell-copter.json) |
 | Hell-Hell | 206182 | [206182-hell-hell.json](./206182-hell-hell.json) |
 | Hell-IX | 110238 | [110238-hell-ix.json](./110238-hell-ix.json) |
 | Hell-o | 301963 | [301963-hell-o.json](./301963-hell-o.json) |
