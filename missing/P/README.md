@@ -2809,6 +2809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passageway of the Ancients | 258490 | [258490-passageway-of-the-ancients.json](./258490-passageway-of-the-ancients.json) |
 | Passant: A Chess Roguelike | 323192 | [323192-passant-a-chess-roguelike.json](./323192-passant-a-chess-roguelike.json) |
 | Passatempo Turma da Mônica | 325636 | [325636-passatempo-turma-da-monica.json](./325636-passatempo-turma-da-monica.json) |
+| Passcode Breaker: The Day Before | 123690 | [123690-passcode-breaker-the-day-before.json](./123690-passcode-breaker-the-day-before.json) |
 | Passed Out | 213912 | [213912-passed-out.json](./213912-passed-out.json) |
 | Passenger Camel Taxi Driving | 227217 | [227217-passenger-camel-taxi-driving.json](./227217-passenger-camel-taxi-driving.json) |
 | Passenger Rush | 227956 | [227956-passenger-rush.json](./227956-passenger-rush.json) |
@@ -6750,6 +6751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillar of Gods | 337077 | [337077-pillar-of-gods.json](./337077-pillar-of-gods.json) |
 | Pillar of Rust | 181440 | [181440-pillar-of-rust.json](./181440-pillar-of-rust.json) |
 | Pillar of Salt | 361729 | [361729-pillar-of-salt.json](./361729-pillar-of-salt.json) |
+| Pillars of Dust | 123709 | [123709-pillars-of-dust.json](./123709-pillars-of-dust.json) |
 | Pillars of Eternity II: Deadfire - Deck of Many Things | 124822 | [124822-pillars-of-eternity-ii-deadfire-deck-of-many-things.json](./124822-pillars-of-eternity-ii-deadfire-deck-of-many-things.json) |
 | Pillars of Eternity II: Deadfire - Deluxe Edition | 83894 | [83894-pillars-of-eternity-ii-deadfire-deluxe-edition.json](./83894-pillars-of-eternity-ii-deadfire-deluxe-edition.json) |
 | Pillars of Eternity II: Deadfire - Obsidian Edition | 83895 | [83895-pillars-of-eternity-ii-deadfire-obsidian-edition.json](./83895-pillars-of-eternity-ii-deadfire-obsidian-edition.json) |
@@ -12481,6 +12483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polyslime | 173230 | [173230-polyslime.json](./173230-polyslime.json) |
 | PolySouls | 348017 | [348017-polysouls.json](./348017-polysouls.json) |
 | Polyspell | 211030 | [211030-polyspell.json](./211030-polyspell.json) |
+| Polysphere | 123684 | [123684-polysphere.json](./123684-polysphere.json) |
 | Polystars | 70998 | [70998-polystars.json](./70998-polystars.json) |
 | Polystrike | 414144 | [414144-polystrike.json](./414144-polystrike.json) |
 | PolyTap | 341565 | [341565-polytap.json](./341565-polytap.json) |
