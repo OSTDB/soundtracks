@@ -1883,6 +1883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: V-Rally | 72073 | [72073-need-for-speed-v-rally.json](./72073-need-for-speed-v-rally.json) |
 | Need for Spirit: Drink & Drive Simulator | 107819 | [107819-need-for-spirit-drink-and-drive-simulator.json](./107819-need-for-spirit-drink-and-drive-simulator.json) |
 | Need for Spirit: Drink & Drive Simulator - Off-Road Edition | 115221 | [115221-need-for-spirit-drink-and-drive-simulator-off-road-edition.json](./115221-need-for-spirit-drink-and-drive-simulator-off-road-edition.json) |
+| Need for Synthol | 99679 | [99679-need-for-synthol.json](./99679-need-for-synthol.json) |
 | Need Know What Know | 405970 | [405970-need-know-what-know.json](./405970-need-know-what-know.json) |
 | Need More Speed | 108092 | [108092-need-more-speed.json](./108092-need-more-speed.json) |
 | Need More Troops | 165680 | [165680-need-more-troops.json](./165680-need-more-troops.json) |
