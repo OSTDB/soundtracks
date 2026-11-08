@@ -6045,7 +6045,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -14169,6 +14168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Twentynine | 296983 | [296983-mission-twentynine.json](./296983-mission-twentynine.json) |
 | Mission Veterinaire | 149283 | [149283-mission-veterinaire.json](./149283-mission-veterinaire.json) |
 | Mission Whilkas | 415754 | [415754-mission-whilkas.json](./415754-mission-whilkas.json) |
+| Mission XAM | 117224 | [117224-mission-xam.json](./117224-mission-xam.json) |
 | Mission Z | 157035 | [157035-mission-z.json](./157035-mission-z.json) |
 | Mission Zero | 208159 | [208159-mission-zero.json](./208159-mission-zero.json) |
 | Mission: Caduceus | 128406 | [128406-mission-caduceus.json](./128406-mission-caduceus.json) |
@@ -18339,6 +18339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorsport Manager 4 | 267311 | [267311-motorsport-manager-4.json](./267311-motorsport-manager-4.json) |
 | Motorsport Manager Mobile 2 | 82726 | [82726-motorsport-manager-mobile-2.json](./82726-motorsport-manager-mobile-2.json) |
 | Motorsport Manager Mobile 3 | 105772 | [105772-motorsport-manager-mobile-3.json](./105772-motorsport-manager-mobile-3.json) |
+| Motorsport Manager Racing | 117282 | [117282-motorsport-manager-racing.json](./117282-motorsport-manager-racing.json) |
 | Motorsport Manager: Challenge Pack | 163647 | [163647-motorsport-manager-challenge-pack.json](./163647-motorsport-manager-challenge-pack.json) |
 | Motorsport Manager: Create Your Own Team | 163648 | [163648-motorsport-manager-create-your-own-team.json](./163648-motorsport-manager-create-your-own-team.json) |
 | Motorsport Manager: Endurance Series | 163649 | [163649-motorsport-manager-endurance-series.json](./163649-motorsport-manager-endurance-series.json) |
@@ -19525,6 +19526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multiplayer Wizards | 304820 | [304820-multiplayer-wizards.json](./304820-multiplayer-wizards.json) |
 | Multiplayer.Golf | 205657 | [205657-multiplayer-golf.json](./205657-multiplayer-golf.json) |
 | Multiple Territory War | 419202 | [419202-multiple-territory-war.json](./419202-multiple-territory-war.json) |
+| Multiple Views Objects | 117220 | [117220-multiple-views-objects.json](./117220-multiple-views-objects.json) |
 | MultipleGamePack | 135544 | [135544-multiplegamepack.json](./135544-multiplegamepack.json) |
 | Multiplication Dragons | 103545 | [103545-multiplication-dragons.json](./103545-multiplication-dragons.json) |
 | Multiplication Flash Cards Games Fun Math Problems | 91228 | [91228-multiplication-flash-cards-games-fun-math-problems.json](./91228-multiplication-flash-cards-games-fun-math-problems.json) |
@@ -20775,6 +20777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Factory: Boss Life | 216044 | [216044-my-factory-boss-life.json](./216044-my-factory-boss-life.json) |
 | My Fair Cat: Snow | 298649 | [298649-my-fair-cat-snow.json](./298649-my-fair-cat-snow.json) |
 | My Fair Link: Yousei Byakuya Monogatari | 416555 | [416555-my-fair-link-yousei-byakuya-monogatari.json](./416555-my-fair-link-yousei-byakuya-monogatari.json) |
+| My Fair Princess | 117237 | [117237-my-fair-princess.json](./117237-my-fair-princess.json) |
 | My Fairy Girlfriend | 231424 | [231424-my-fairy-girlfriend.json](./231424-my-fairy-girlfriend.json) |
 | My Fairy Pony | 87180 | [87180-my-fairy-pony.json](./87180-my-fairy-pony.json) |
 | My Fairy Pony - Dress Up Game For Girls | 88045 | [88045-my-fairy-pony-dress-up-game-for-girls.json](./88045-my-fairy-pony-dress-up-game-for-girls.json) |
