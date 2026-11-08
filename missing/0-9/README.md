@@ -148,6 +148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | [Siberia] | 125005 | [125005-siberia.json](./125005-siberia.json) |
 | [Speer] | 134672 | [134672-speer.json](./134672-speer.json) |
 | [Stories to Tell]: The Stoneville Incident | 410259 | [410259-stories-to-tell-the-stoneville-incident.json](./410259-stories-to-tell-the-stoneville-incident.json) |
+| [Temptation Kanojo] Erotic Girl Temumi's Merry Christmas | 83009 | [83009-temptation-kanojo-erotic-girl-temumis-merry-christmas.json](./83009-temptation-kanojo-erotic-girl-temumis-merry-christmas.json) |
 | [This Game Isn’t Fun] | 397003 | [397003-this-game-isn-t-fun.json](./397003-this-game-isn-t-fun.json) |
 | [Untitled] | 261441 | [261441-untitled.json](./261441-untitled.json) |
 | [untitled] 2: chMonika's Revenge | 194691 | [194691-untitled-2-chmonikas-revenge.json](./194691-untitled-2-chmonikas-revenge.json) |
