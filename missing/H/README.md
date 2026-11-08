@@ -5718,6 +5718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HentaiTeachers | 366521 | [366521-hentaiteachers.json](./366521-hentaiteachers.json) |
 | HentaiVerse | 356129 | [356129-hentaiverse.json](./356129-hentaiverse.json) |
 | Hentami: Vendetta | 81148 | [81148-hentami-vendetta.json](./81148-hentami-vendetta.json) |
+| Hentball | 109856 | [109856-hentball.json](./109856-hentball.json) |
 | Hentekorin | 229267 | [229267-hentekorin.json](./229267-hentekorin.json) |
 | Henteria Chronicles: The Peacekeepers | 334495 | [334495-henteria-chronicles-the-peacekeepers.json](./334495-henteria-chronicles-the-peacekeepers.json) |
 | HenTris | 334797 | [334797-hentris.json](./334797-hentris.json) |
