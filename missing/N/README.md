@@ -1905,6 +1905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Negaeba Kitto... | 202938 | [202938-negaeba-kitto.json](./202938-negaeba-kitto.json) |
 | Negaia | 57069 | [57069-negaia.json](./57069-negaia.json) |
 | Negative | 183781 | [183781-negative.json](./183781-negative.json) |
+| Negative Atmosphere | 117273 | [117273-negative-atmosphere.json](./117273-negative-atmosphere.json) |
 | Negative Atmosphere: Emergency Room | 232667 | [232667-negative-atmosphere-emergency-room.json](./232667-negative-atmosphere-emergency-room.json) |
 | Negative Energy | 333320 | [333320-negative-energy.json](./333320-negative-energy.json) |
 | Negative Nancy | 125474 | [125474-negative-nancy.json](./125474-negative-nancy.json) |
