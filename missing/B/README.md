@@ -980,7 +980,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3116,6 +3115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basic Warfare | 127728 | [127728-basic-warfare.json](./127728-basic-warfare.json) |
 | Basics in Airport: Education & Learning | 107127 | [107127-basics-in-airport-education-and-learning.json](./107127-basics-in-airport-education-and-learning.json) |
 | Basics In Intermediate Filmmaking | 258898 | [258898-basics-in-intermediate-filmmaking.json](./258898-basics-in-intermediate-filmmaking.json) |
+| Basics Teacher Adventure | 106033 | [106033-basics-teacher-adventure.json](./106033-basics-teacher-adventure.json) |
 | Basil and the Isles of Spice | 334213 | [334213-basil-and-the-isles-of-spice.json](./334213-basil-and-the-isles-of-spice.json) |
 | Basil Goes O.U.T.S.I.D.E. | 202260 | [202260-basil-goes-o-u-t-s-i-d-e.json](./202260-basil-goes-o-u-t-s-i-d-e.json) |
 | Basil Returns! | 399586 | [399586-basil-returns.json](./399586-basil-returns.json) |
@@ -3139,6 +3139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basket Bowling + | 47309 | [47309-basket-bowling.json](./47309-basket-bowling.json) |
 | Basket Bros | 133727 | [133727-basket-bros.json](./133727-basket-bros.json) |
 | Basket Catch | 206567 | [206567-basket-catch.json](./206567-basket-catch.json) |
+| Basket Fall | 106068 | [106068-basket-fall.json](./106068-basket-fall.json) |
 | Basket Legends | 188017 | [188017-basket-legends.json](./188017-basket-legends.json) |
 | Basket Random | 204351 | [204351-basket-random.json](./204351-basket-random.json) |
 | Basket Wall | 102714 | [102714-basket-wall.json](./102714-basket-wall.json) |
@@ -6273,6 +6274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bejeweled Deluxe | 220074 | [220074-bejeweled-deluxe.json](./220074-bejeweled-deluxe.json) |
 | Bejeweled Deluxe | 27819 | [27819-bejeweled-deluxe.json](./27819-bejeweled-deluxe.json) |
 | Bejeweled Legend | 238253 | [238253-bejeweled-legend.json](./238253-bejeweled-legend.json) |
+| Bejeweled Live + | 106044 | [106044-bejeweled-live.json](./106044-bejeweled-live.json) |
 | Bejeweled Stars | 19941 | [19941-bejeweled-stars.json](./19941-bejeweled-stars.json) |
 | Beki, Do You Copy? | 372731 | [372731-beki-do-you-copy.json](./372731-beki-do-you-copy.json) |
 | Bekkouame | 93708 | [93708-bekkouame.json](./93708-bekkouame.json) |
@@ -16094,6 +16096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brio World: Railway | 374257 | [374257-brio-world-railway.json](./374257-brio-world-railway.json) |
 | Briquette Sprite | 87105 | [87105-briquette-sprite.json](./87105-briquette-sprite.json) |
 | Briquid | 112688 | [112688-briquid.json](./112688-briquid.json) |
+| Briquid Mini | 106169 | [106169-briquid-mini.json](./106169-briquid-mini.json) |
 | Bris de Glace | 171987 | [171987-bris-de-glace.json](./171987-bris-de-glace.json) |
 | Brisca | 359211 | [359211-brisca.json](./359211-brisca.json) |
 | Briscola | 100011 | [100011-briscola.json](./100011-briscola.json) |
@@ -16820,6 +16823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Gun 3D | 150690 | [150690-bubble-gun-3d.json](./150690-bubble-gun-3d.json) |
 | Bubble Guppies | 230336 | [230336-bubble-guppies.json](./230336-bubble-guppies.json) |
 | Bubble Guppies | 230344 | [230344-bubble-guppies.json](./230344-bubble-guppies.json) |
+| Bubble Guriko | 106045 | [106045-bubble-guriko.json](./106045-bubble-guriko.json) |
 | Bubble Hero | 246436 | [246436-bubble-hero.json](./246436-bubble-hero.json) |
 | Bubble Hero 2 | 266327 | [266327-bubble-hero-2.json](./266327-bubble-hero-2.json) |
 | Bubble Heroes Galaxy | 108243 | [108243-bubble-heroes-galaxy.json](./108243-bubble-heroes-galaxy.json) |
