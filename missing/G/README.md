@@ -590,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Defender | 261338 | [261338-galactic-defender.json](./261338-galactic-defender.json) |
 | Galactic Defenders | 263392 | [263392-galactic-defenders.json](./263392-galactic-defenders.json) |
 | Galactic Defense: Automation | 255492 | [255492-galactic-defense-automation.json](./255492-galactic-defense-automation.json) |
+| Galactic Delivery | 90153 | [90153-galactic-delivery.json](./90153-galactic-delivery.json) |
 | Galactic Diner | 199257 | [199257-galactic-diner.json](./199257-galactic-diner.json) |
 | Galactic Disharmony | 423397 | [423397-galactic-disharmony.json](./423397-galactic-disharmony.json) |
 | Galactic Dominion | 107858 | [107858-galactic-dominion.json](./107858-galactic-dominion.json) |
@@ -5573,6 +5574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Ace It | 192198 | [192198-go-ace-it.json](./192198-go-ace-it.json) |
 | Go All Out | 221571 | [221571-go-all-out.json](./221571-go-all-out.json) |
 | Go All Out: Free to Play | 130190 | [130190-go-all-out-free-to-play.json](./130190-go-all-out-free-to-play.json) |
+| Go All Out! | 90015 | [90015-go-all-out.json](./90015-go-all-out.json) |
 | Go Ape Ship! | 376467 | [376467-go-ape-ship.json](./376467-go-ape-ship.json) |
 | Go Away My Fat | 93668 | [93668-go-away-my-fat.json](./93668-go-away-my-fat.json) |
 | Go Away, There's Kumis Over There! | 30893 | [30893-go-away-theres-kumis-over-there.json](./30893-go-away-theres-kumis-over-there.json) |
@@ -9559,6 +9561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Dungeon | 301103 | [301103-grim-dungeon.json](./301103-grim-dungeon.json) |
 | Grim Ember | 149524 | [149524-grim-ember.json](./149524-grim-ember.json) |
 | Grim Facade: A Wealth of Betrayal | 140214 | [140214-grim-facade-a-wealth-of-betrayal.json](./140214-grim-facade-a-wealth-of-betrayal.json) |
+| Grim Facade: A Wealth of Betrayal - Collector's Edition | 90154 | [90154-grim-facade-a-wealth-of-betrayal-collectors-edition.json](./90154-grim-facade-a-wealth-of-betrayal-collectors-edition.json) |
 | Grim Facade: Hidden Sins | 104659 | [104659-grim-facade-hidden-sins.json](./104659-grim-facade-hidden-sins.json) |
 | Grim Facade: Hidden Sins - Collector's Edition | 117552 | [117552-grim-facade-hidden-sins-collectors-edition.json](./117552-grim-facade-hidden-sins-collectors-edition.json) |
 | Grim Facade: Mystery of Venice | 140215 | [140215-grim-facade-mystery-of-venice.json](./140215-grim-facade-mystery-of-venice.json) |
@@ -9665,6 +9668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimalkin: Solar Defense Force | 127669 | [127669-grimalkin-solar-defense-force.json](./127669-grimalkin-solar-defense-force.json) |
 | Grimante | 83975 | [83975-grimante.json](./83975-grimante.json) |
 | Grimbound | 273775 | [273775-grimbound.json](./273775-grimbound.json) |
+| Grimcastle: Battle Tales | 90156 | [90156-grimcastle-battle-tales.json](./90156-grimcastle-battle-tales.json) |
 | Grimchester Needs A Doctor | 416830 | [416830-grimchester-needs-a-doctor.json](./416830-grimchester-needs-a-doctor.json) |
 | Grimcurse | 185211 | [185211-grimcurse.json](./185211-grimcurse.json) |
 | Grimdark Survivors | 223291 | [223291-grimdark-survivors.json](./223291-grimdark-survivors.json) |
