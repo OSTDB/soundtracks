@@ -827,6 +827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloweenistry | 55673 | [55673-halloweenistry.json](./55673-halloweenistry.json) |
 | Halloweenistry 2 | 55776 | [55776-halloweenistry-2.json](./55776-halloweenistry-2.json) |
 | Halloweens | 282396 | [282396-halloweens.json](./282396-halloweens.json) |
+| HalloweenStory | 121893 | [121893-halloweenstory.json](./121893-halloweenstory.json) |
 | Hallowlands | 203674 | [203674-hallowlands.json](./203674-hallowlands.json) |
 | Hallows Hill | 407385 | [407385-hallows-hill.json](./407385-hallows-hill.json) |
 | Hallows' Eve | 74961 | [74961-hallows-eve.json](./74961-hallows-eve.json) |
@@ -853,6 +854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hallway of Adventures | 71713 | [71713-hallway-of-adventures.json](./71713-hallway-of-adventures.json) |
 | Hallway of Horrors | 319804 | [319804-hallway-of-horrors.json](./319804-hallway-of-horrors.json) |
 | Hallway Shot | 346895 | [346895-hallway-shot.json](./346895-hallway-shot.json) |
+| Hallway Simulator 2020 | 121857 | [121857-hallway-simulator-2020.json](./121857-hallway-simulator-2020.json) |
 | Hallways | 280421 | [280421-hallways.json](./280421-hallways.json) |
 | Hallways of Fear | 178812 | [178812-hallways-of-fear.json](./178812-hallways-of-fear.json) |
 | Halma | 102289 | [102289-halma.json](./102289-halma.json) |
@@ -1287,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hancho | 121330 | [121330-hancho.json](./121330-hancho.json) |
 | Hanctt Origins | 253455 | [253455-hanctt-origins.json](./253455-hanctt-origins.json) |
 | Hand Almighty | 393759 | [393759-hand-almighty.json](./393759-hand-almighty.json) |
+| Hand and Stone | 121900 | [121900-hand-and-stone.json](./121900-hand-and-stone.json) |
 | Hand Cannon Virtuoso | 132256 | [132256-hand-cannon-virtuoso.json](./132256-hand-cannon-virtuoso.json) |
 | Hand Cooking Simulator: Multi-Chef | 326403 | [326403-hand-cooking-simulator-multi-chef.json](./326403-hand-cooking-simulator-multi-chef.json) |
 | Hand Craft Prime | 97211 | [97211-hand-craft-prime.json](./97211-hand-craft-prime.json) |
@@ -2807,6 +2810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Legends: The Queen of Spades | 139204 | [139204-haunted-legends-the-queen-of-spades.json](./139204-haunted-legends-the-queen-of-spades.json) |
 | Haunted Legends: The Queen of Spades - Collector's Edition | 31067 | [31067-haunted-legends-the-queen-of-spades-collectors-edition.json](./31067-haunted-legends-the-queen-of-spades-collectors-edition.json) |
 | Haunted Legends: The Scars of Lamia | 139205 | [139205-haunted-legends-the-scars-of-lamia.json](./139205-haunted-legends-the-scars-of-lamia.json) |
+| Haunted Legends: The Scars of Lamia - Collector's Edition | 121845 | [121845-haunted-legends-the-scars-of-lamia-collectors-edition.json](./121845-haunted-legends-the-scars-of-lamia-collectors-edition.json) |
 | Haunted Legends: The Secret of Life | 100007 | [100007-haunted-legends-the-secret-of-life.json](./100007-haunted-legends-the-secret-of-life.json) |
 | Haunted Legends: The Stone Guest | 38660 | [38660-haunted-legends-the-stone-guest.json](./38660-haunted-legends-the-stone-guest.json) |
 | Haunted Legends: The Stone Guest - Collector's Edition | 99621 | [99621-haunted-legends-the-stone-guest-collectors-edition.json](./99621-haunted-legends-the-stone-guest-collectors-edition.json) |
@@ -5989,6 +5993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero of Hoofbeat Hollow | 347458 | [347458-hero-of-hoofbeat-hollow.json](./347458-hero-of-hoofbeat-hollow.json) |
 | Hero of Ideal | 393948 | [393948-hero-of-ideal.json](./393948-hero-of-ideal.json) |
 | Hero of Law | 351679 | [351679-hero-of-law.json](./351679-hero-of-law.json) |
+| Hero of Legend | 121863 | [121863-hero-of-legend.json](./121863-hero-of-legend.json) |
 | Hero of Luxuria | 259105 | [259105-hero-of-luxuria.json](./259105-hero-of-luxuria.json) |
 | Hero of Magic | 254267 | [254267-hero-of-magic.json](./254267-hero-of-magic.json) |
 | Hero of Many | 17339 | [17339-hero-of-many.json](./17339-hero-of-many.json) |
@@ -12957,6 +12962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyperspaced | 356529 | [356529-hyperspaced.json](./356529-hyperspaced.json) |
 | Hyperspacer | 293529 | [293529-hyperspacer.json](./293529-hyperspacer.json) |
 | Hyperspeed - Race with Friends | 115450 | [115450-hyperspeed-race-with-friends.json](./115450-hyperspeed-race-with-friends.json) |
+| Hyperspeed Fragfest | 121891 | [121891-hyperspeed-fragfest.json](./121891-hyperspeed-fragfest.json) |
 | Hyperspin | 402682 | [402682-hyperspin.json](./402682-hyperspin.json) |
 | Hyperstacks | 137604 | [137604-hyperstacks.json](./137604-hyperstacks.json) |
 | Hyperstar | 168649 | [168649-hyperstar.json](./168649-hyperstar.json) |
