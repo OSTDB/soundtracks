@@ -4052,6 +4052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Angel | 224035 | [224035-infinity-angel.json](./224035-infinity-angel.json) |
 | Infinity Attackers | 120415 | [120415-infinity-attackers.json](./120415-infinity-attackers.json) |
 | Infinity Ball | 213575 | [213575-infinity-ball.json](./213575-infinity-ball.json) |
+| Infinity Ball: Space | 108086 | [108086-infinity-ball-space.json](./108086-infinity-ball-space.json) |
 | Infinity BattleSoul | 188516 | [188516-infinity-battlesoul.json](./188516-infinity-battlesoul.json) |
 | Infinity Beats - Endless Rhythm Game | 89026 | [89026-infinity-beats-endless-rhythm-game.json](./89026-infinity-beats-endless-rhythm-game.json) |
 | Infinity Beats Song Edition | 87150 | [87150-infinity-beats-song-edition.json](./87150-infinity-beats-song-edition.json) |
