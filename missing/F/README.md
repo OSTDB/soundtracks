@@ -1873,6 +1873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastical | 131841 | [131841-fantastical.json](./131841-fantastical.json) |
 | Fantastical Mystery ADV: Ultimate Jumbo Jet Murder Case | 289789 | [289789-fantastical-mystery-adv-ultimate-jumbo-jet-murder-case.json](./289789-fantastical-mystery-adv-ultimate-jumbo-jet-murder-case.json) |
 | Fantastyc Murder Mystery | 289797 | [289797-fantastyc-murder-mystery.json](./289797-fantastyc-murder-mystery.json) |
+| Fantasy | 94811 | [94811-fantasy.json](./94811-fantasy.json) |
 | Fantasy '95 | 40111 | [40111-fantasy-95.json](./40111-fantasy-95.json) |
 | Fantasy & Blade | 119021 | [119021-fantasy-and-blade.json](./119021-fantasy-and-blade.json) |
 | Fantasy & Blade II | 124223 | [124223-fantasy-and-blade-ii.json](./124223-fantasy-and-blade-ii.json) |
@@ -10109,6 +10110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forget Your Chains | 261244 | [261244-forget-your-chains.json](./261244-forget-your-chains.json) |
 | Forget-Me-Knot | 186754 | [186754-forget-me-knot.json](./186754-forget-me-knot.json) |
 | Forget-me-not | 196467 | [196467-forget-me-not.json](./196467-forget-me-not.json) |
+| Forget-me-Not | 94814 | [94814-forget-me-not.json](./94814-forget-me-not.json) |
 | Forget-Me-Not | 178672 | [178672-forget-me-not.json](./178672-forget-me-not.json) |
 | Forget-Me-Not | 397079 | [397079-forget-me-not.json](./397079-forget-me-not.json) |
 | Forget-Me-Not | 47269 | [47269-forget-me-not.json](./47269-forget-me-not.json) |
@@ -11752,6 +11754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freckles | 318875 | [318875-freckles.json](./318875-freckles.json) |
 | Fred | 25841 | [25841-fred.json](./25841-fred.json) |
 | Fred | 85866 | [85866-fred.json](./85866-fred.json) |
+| Fred | 94856 | [94856-fred.json](./94856-fred.json) |
 | Fred and Jeff: The Atomic Sulfate | 387396 | [387396-fred-and-jeff-the-atomic-sulfate.json](./387396-fred-and-jeff-the-atomic-sulfate.json) |
 | Fred Couples Golf | 46349 | [46349-fred-couples-golf.json](./46349-fred-couples-golf.json) |
 | Fred Durst Companion | 287487 | [287487-fred-durst-companion.json](./287487-fred-durst-companion.json) |
