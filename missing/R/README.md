@@ -4775,6 +4775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reincarnatio | 260270 | [260270-reincarnatio.json](./260270-reincarnatio.json) |
 | Reincarnation | 247901 | [247901-reincarnation.json](./247901-reincarnation.json) |
 | Reincarnation of Ocean | 160028 | [160028-reincarnation-of-ocean.json](./160028-reincarnation-of-ocean.json) |
+| Reincarnation Shinsengumi! | 92034 | [92034-reincarnation-shinsengumi.json](./92034-reincarnation-shinsengumi.json) |
 | Reincarnation Tower | 289313 | [289313-reincarnation-tower.json](./289313-reincarnation-tower.json) |
 | Reincarnation: A Demon's Day Out | 387952 | [387952-reincarnation-a-demons-day-out.json](./387952-reincarnation-a-demons-day-out.json) |
 | Reincarnation: Hero of the Gun | 371924 | [371924-reincarnation-hero-of-the-gun.json](./371924-reincarnation-hero-of-the-gun.json) |
