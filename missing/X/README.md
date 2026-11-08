@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Morph: Defense - Last Bastion | 170774 | [170774-x-morph-defense-last-bastion.json](./170774-x-morph-defense-last-bastion.json) |
 | X-Morph: Defense - Limited Edition | 166262 | [166262-x-morph-defense-limited-edition.json](./166262-x-morph-defense-limited-edition.json) |
 | X-Morph: Defense - Survival of the Fittest | 170775 | [170775-x-morph-defense-survival-of-the-fittest.json](./170775-x-morph-defense-survival-of-the-fittest.json) |
+| X-Morph: Defense Complete Edition | 111838 | [111838-x-morph-defense-complete-edition.json](./111838-x-morph-defense-complete-edition.json) |
 | X-Moto | 122757 | [122757-x-moto.json](./122757-x-moto.json) |
 | X-Motor Racing | 50110 | [50110-x-motor-racing.json](./50110-x-motor-racing.json) |
 | X-Noir | 124598 | [124598-x-noir.json](./124598-x-noir.json) |
