@@ -8511,6 +8511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Disembodied Hand | 183203 | [183203-the-disembodied-hand.json](./183203-the-disembodied-hand.json) |
 | The Disgaea Triple Play Collection | 43000 | [43000-the-disgaea-triple-play-collection.json](./43000-the-disgaea-triple-play-collection.json) |
 | The Disgraced Prince | 171842 | [171842-the-disgraced-prince.json](./171842-the-disgraced-prince.json) |
+| The Disguiser of Fate | 127471 | [127471-the-disguiser-of-fate.json](./127471-the-disguiser-of-fate.json) |
 | The Disgusting Slaughterman | 126312 | [126312-the-disgusting-slaughterman.json](./126312-the-disgusting-slaughterman.json) |
 | The Dishwasher: Dead Samurai | 21178 | [21178-the-dishwasher-dead-samurai.json](./21178-the-dishwasher-dead-samurai.json) |
 | The Dishwasher: Vampire Smile | 20582 | [20582-the-dishwasher-vampire-smile.json](./20582-the-dishwasher-vampire-smile.json) |
@@ -13731,6 +13732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mahjong Touhai-den | 37935 | [37935-the-mahjong-touhai-den.json](./37935-the-mahjong-touhai-den.json) |
 | The Mahjong: Tsuushin Taikyoku Kinoudzuke | 43046 | [43046-the-mahjong-tsuushin-taikyoku-kinoudzuke.json](./43046-the-mahjong-tsuushin-taikyoku-kinoudzuke.json) |
 | The Maid | 335680 | [335680-the-maid.json](./335680-the-maid.json) |
+| The Maid of Fairewell Heights | 127478 | [127478-the-maid-of-fairewell-heights.json](./127478-the-maid-of-fairewell-heights.json) |
 | The Maid-san's Caving Adventure | 90644 | [90644-the-maid-sans-caving-adventure.json](./90644-the-maid-sans-caving-adventure.json) |
 | The Maiden and the Cow | 349087 | [349087-the-maiden-and-the-cow.json](./349087-the-maiden-and-the-cow.json) |
 | The Maiden, the Butler, and the Witch | 168566 | [168566-the-maiden-the-butler-and-the-witch.json](./168566-the-maiden-the-butler-and-the-witch.json) |
@@ -26998,6 +27000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Gouyoku Ibun: Sunken Fossil World | 144533 | [144533-touhou-gouyoku-ibun-sunken-fossil-world.json](./144533-touhou-gouyoku-ibun-sunken-fossil-world.json) |
 | Touhou Gyakumyouran: Ephemeral Unnatural Balance | 246675 | [246675-touhou-gyakumyouran-ephemeral-unnatural-balance.json](./246675-touhou-gyakumyouran-ephemeral-unnatural-balance.json) |
 | Touhou Hack and Slash | 417458 | [417458-touhou-hack-and-slash.json](./417458-touhou-hack-and-slash.json) |
+| Touhou Hakanai Cards | 127461 | [127461-touhou-hakanai-cards.json](./127461-touhou-hakanai-cards.json) |
 | Touhou Hakujinki: White Names Spoiled Past | 246674 | [246674-touhou-hakujinki-white-names-spoiled-past.json](./246674-touhou-hakujinki-white-names-spoiled-past.json) |
 | Touhou Hangyaku Geki Sakuya's Counterattack | 371271 | [371271-touhou-hangyaku-geki-sakuyas-counterattack.json](./371271-touhou-hangyaku-geki-sakuyas-counterattack.json) |
 | Touhou Haou III | 98454 | [98454-touhou-haou-iii.json](./98454-touhou-haou-iii.json) |
