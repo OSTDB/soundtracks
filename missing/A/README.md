@@ -3311,6 +3311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Admine | 86447 | [86447-admine.json](./86447-admine.json) |
 | Administrators | 196569 | [196569-administrators.json](./196569-administrators.json) |
 | Admiral Nemo | 25428 | [25428-admiral-nemo.json](./25428-admiral-nemo.json) |
+| Admiral Stepinski | 120443 | [120443-admiral-stepinski.json](./120443-admiral-stepinski.json) |
 | Admiral: Battle for Uranium | 261859 | [261859-admiral-battle-for-uranium.json](./261859-admiral-battle-for-uranium.json) |
 | Admiral: Sea Battles | 74094 | [74094-admiral-sea-battles.json](./74094-admiral-sea-battles.json) |
 | Admirals of Ophiuchus | 379559 | [379559-admirals-of-ophiuchus.json](./379559-admirals-of-ophiuchus.json) |
@@ -4952,6 +4953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent MOO: Maximum Overdeath | 66387 | [66387-agent-moo-maximum-overdeath.json](./66387-agent-moo-maximum-overdeath.json) |
 | Agent Murphy | 164260 | [164260-agent-murphy.json](./164260-agent-murphy.json) |
 | Agent of Chaos | 157170 | [157170-agent-of-chaos.json](./157170-agent-of-chaos.json) |
+| Agent of Love | 120464 | [120464-agent-of-love.json](./120464-agent-of-love.json) |
 | Agent of Strange | 355023 | [355023-agent-of-strange.json](./355023-agent-of-strange.json) |
 | Agent of Veil | 346595 | [346595-agent-of-veil.json](./346595-agent-of-veil.json) |
 | Agent P DoofenDash | 339491 | [339491-agent-p-doofendash.json](./339491-agent-p-doofendash.json) |
@@ -11312,6 +11314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anticipating Murder | 316768 | [316768-anticipating-murder.json](./316768-anticipating-murder.json) |
 | Anticitizen: Red | 267738 | [267738-anticitizen-red.json](./267738-anticitizen-red.json) |
 | AnticLove | 299423 | [299423-anticlove.json](./299423-anticlove.json) |
+| Anticorps VR | 120479 | [120479-anticorps-vr.json](./120479-anticorps-vr.json) |
 | Antidote | 114720 | [114720-antidote.json](./114720-antidote.json) |
 | Antidote | 170819 | [170819-antidote.json](./170819-antidote.json) |
 | Antidote | 422526 | [422526-antidote.json](./422526-antidote.json) |
