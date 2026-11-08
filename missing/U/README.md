@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Dungeon: Kurenai | 286788 | [286788-ultimate-dungeon-kurenai.json](./286788-ultimate-dungeon-kurenai.json) |
 | Ultimate Dungeons & Dragons | 73282 | [73282-ultimate-dungeons-and-dragons.json](./73282-ultimate-dungeons-and-dragons.json) |
 | Ultimate Dunk Shooter | 360735 | [360735-ultimate-dunk-shooter.json](./360735-ultimate-dunk-shooter.json) |
+| Ultimate Farm Simulator | 102478 | [102478-ultimate-farm-simulator.json](./102478-ultimate-farm-simulator.json) |
 | Ultimate Fatal Octopus | 289232 | [289232-ultimate-fatal-octopus.json](./289232-ultimate-fatal-octopus.json) |
 | Ultimate Fight Manager 2016 | 33207 | [33207-ultimate-fight-manager-2016.json](./33207-ultimate-fight-manager-2016.json) |
 | Ultimate Fighters | 202435 | [202435-ultimate-fighters.json](./202435-ultimate-fighters.json) |
