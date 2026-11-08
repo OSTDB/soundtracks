@@ -5693,6 +5693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Classroom Challenge | 173144 | [173144-math-classroom-challenge.json](./173144-math-classroom-challenge.json) |
 | Math Climber | 345236 | [345236-math-climber.json](./345236-math-climber.json) |
 | Math Combat Challenge | 55124 | [55124-math-combat-challenge.json](./55124-math-combat-challenge.json) |
+| Math Connect PRO | 106785 | [106785-math-connect-pro.json](./106785-math-connect-pro.json) |
 | Math Duel | 251043 | [251043-math-duel.json](./251043-math-duel.json) |
 | Math Evolve: A Fun Math Game | 175372 | [175372-math-evolve-a-fun-math-game.json](./175372-math-evolve-a-fun-math-game.json) |
 | Math Expressions | 196477 | [196477-math-expressions.json](./196477-math-expressions.json) |
@@ -6049,6 +6050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Fighterz: Direct Offensive Action | 369580 | [369580-maximum-fighterz-direct-offensive-action.json](./369580-maximum-fighterz-direct-offensive-action.json) |
 | Maximum Football | 304344 | [304344-maximum-football.json](./304344-maximum-football.json) |
 | Maximum Football | 66690 | [66690-maximum-football.json](./66690-maximum-football.json) |
+| Maximum Football 2018 | 106685 | [106685-maximum-football-2018.json](./106685-maximum-football-2018.json) |
 | Maximum Football 2019 | 124703 | [124703-maximum-football-2019.json](./124703-maximum-football-2019.json) |
 | Maximum Football 2019: Championship Edition | 136216 | [136216-maximum-football-2019-championship-edition.json](./136216-maximum-football-2019-championship-edition.json) |
 | Maximum Football 2020 | 139233 | [139233-maximum-football-2020.json](./139233-maximum-football-2020.json) |
@@ -14863,6 +14865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobsters | 78608 | [78608-mobsters.json](./78608-mobsters.json) |
 | Mobsters 2: Vendetta | 65949 | [65949-mobsters-2-vendetta.json](./65949-mobsters-2-vendetta.json) |
 | Mobu | 404826 | [404826-mobu.json](./404826-mobu.json) |
+| MoBu - Adventure Begins | 106698 | [106698-mobu-adventure-begins.json](./106698-mobu-adventure-begins.json) |
 | MoBu 2 - Race with Friends | 104627 | [104627-mobu-2-race-with-friends.json](./104627-mobu-2-race-with-friends.json) |
 | Mobula | 311790 | [311790-mobula.json](./311790-mobula.json) |
 | Mobware Minigame Jam! | 202036 | [202036-mobware-minigame-jam.json](./202036-mobware-minigame-jam.json) |
@@ -14940,6 +14943,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Arena | 394359 | [394359-modern-arena.json](./394359-modern-arena.json) |
 | Modern Assault Tanks | 155026 | [155026-modern-assault-tanks.json](./155026-modern-assault-tanks.json) |
 | Modern Attack | 391865 | [391865-modern-attack.json](./391865-modern-attack.json) |
+| Modern Campaigns - Fulda Gap '85 | 106793 | [106793-modern-campaigns-fulda-gap-85.json](./106793-modern-campaigns-fulda-gap-85.json) |
+| Modern Campaigns - North German Plain '85 | 106796 | [106796-modern-campaigns-north-german-plain-85.json](./106796-modern-campaigns-north-german-plain-85.json) |
 | Modern Campaigns: Danube Front '85 | 124738 | [124738-modern-campaigns-danube-front-85.json](./124738-modern-campaigns-danube-front-85.json) |
 | Modern Campaigns: Korea '85 | 66467 | [66467-modern-campaigns-korea-85.json](./66467-modern-campaigns-korea-85.json) |
 | Modern Campaigns: Middle East '67 | 124737 | [124737-modern-campaigns-middle-east-67.json](./124737-modern-campaigns-middle-east-67.json) |
