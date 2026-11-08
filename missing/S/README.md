@@ -1834,7 +1834,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanrio Kawaii Me Live! | 408855 | [408855-sanrio-kawaii-me-live.json](./408855-sanrio-kawaii-me-live.json) |
 | Sanrio Puroland: All-Characters | 49789 | [49789-sanrio-puroland-all-characters.json](./49789-sanrio-puroland-all-characters.json) |
 | Sanrio Timenet World | 302682 | [302682-sanrio-timenet-world.json](./302682-sanrio-timenet-world.json) |
+| Sanrio TimeNet: Kako-hen | 97415 | [97415-sanrio-timenet-kako-hen.json](./97415-sanrio-timenet-kako-hen.json) |
 | Sanrio TimeNet: Mirai-hen | 229080 | [229080-sanrio-timenet-mirai-hen.json](./229080-sanrio-timenet-mirai-hen.json) |
+| Sanrio Uranai Party | 97414 | [97414-sanrio-uranai-party.json](./97414-sanrio-uranai-party.json) |
 | Sanrio World Smash Ball! | 3692 | [3692-sanrio-world-smash-ball.json](./3692-sanrio-world-smash-ball.json) |
 | Sanrio World: Kero Kero Keroppi no Bouken Nikki | 37964 | [37964-sanrio-world-kero-kero-keroppi-no-bouken-nikki.json](./37964-sanrio-world-kero-kero-keroppi-no-bouken-nikki.json) |
 | Sans & Papyrus: Salsa Lesson | 367395 | [367395-sans-and-papyrus-salsa-lesson.json](./367395-sans-and-papyrus-salsa-lesson.json) |
@@ -7678,6 +7680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shards of Titan | 102035 | [102035-shards-of-titan.json](./102035-shards-of-titan.json) |
 | Shards of War | 60565 | [60565-shards-of-war.json](./60565-shards-of-war.json) |
 | Shards Online | 57990 | [57990-shards-online.json](./57990-shards-online.json) |
+| Shards the Deckbuilder | 97413 | [97413-shards-the-deckbuilder.json](./97413-shards-the-deckbuilder.json) |
 | Share | 33417 | [33417-share.json](./33417-share.json) |
 | Sharecare You | 150840 | [150840-sharecare-you.json](./150840-sharecare-you.json) |
 | Shared Beauty | 270760 | [270760-shared-beauty.json](./270760-shared-beauty.json) |
@@ -9674,6 +9677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoujo City | 396329 | [396329-shoujo-city.json](./396329-shoujo-city.json) |
 | Shoujo City | 76920 | [76920-shoujo-city.json](./76920-shoujo-city.json) |
 | Shoujo Gidan | 167130 | [167130-shoujo-gidan.json](./167130-shoujo-gidan.json) |
+| Shoujo Graffiti | 97420 | [97420-shoujo-graffiti.json](./97420-shoujo-graffiti.json) |
 | Shoujo Houkai: Oniichan no Catharsis | 97702 | [97702-shoujo-houkai-oniichan-no-catharsis.json](./97702-shoujo-houkai-oniichan-no-catharsis.json) |
 | Shoujo Kageki Revue Starlight Re Live | 112198 | [112198-shoujo-kageki-revue-starlight-re-live.json](./112198-shoujo-kageki-revue-starlight-re-live.json) |
 | Shoujo Kaisen | 174837 | [174837-shoujo-kaisen.json](./174837-shoujo-kaisen.json) |
@@ -19056,6 +19060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Locus | 35754 | [35754-soul-locus.json](./35754-soul-locus.json) |
 | Soul Machine | 148629 | [148629-soul-machine.json](./148629-soul-machine.json) |
 | Soul Machine | 351707 | [351707-soul-machine.json](./351707-soul-machine.json) |
+| Soul Magic Online | 97422 | [97422-soul-magic-online.json](./97422-soul-magic-online.json) |
 | Soul Master | 180288 | [180288-soul-master.json](./180288-soul-master.json) |
 | Soul Master | 66669 | [66669-soul-master.json](./66669-soul-master.json) |
 | Soul Mates | 297412 | [297412-soul-mates.json](./297412-soul-mates.json) |
@@ -22596,6 +22601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Hunters Inc. | 23587 | [23587-spirit-hunters-inc.json](./23587-spirit-hunters-inc.json) |
 | Spirit Hunters Inc. Shadow/Light | 84895 | [84895-spirit-hunters-inc-shadow-light.json](./84895-spirit-hunters-inc-shadow-light.json) |
 | Spirit Hunters: Infinite Horde | 197480 | [197480-spirit-hunters-infinite-horde.json](./197480-spirit-hunters-infinite-horde.json) |
+| Spirit Island | 97424 | [97424-spirit-island.json](./97424-spirit-island.json) |
 | Spirit Island: Horizons of Spirit Island | 254660 | [254660-spirit-island-horizons-of-spirit-island.json](./254660-spirit-island-horizons-of-spirit-island.json) |
 | Spirit Island: Jagged Earth | 285886 | [285886-spirit-island-jagged-earth.json](./285886-spirit-island-jagged-earth.json) |
 | Spirit Knight | 358815 | [358815-spirit-knight.json](./358815-spirit-knight.json) |
@@ -35395,6 +35401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sushido vs. Zombies | 76523 | [76523-sushido-vs-zombies.json](./76523-sushido-vs-zombies.json) |
 | Sushiman | 227629 | [227629-sushiman.json](./227629-sushiman.json) |
 | Sushininjarobot TD | 345038 | [345038-sushininjarobot-td.json](./345038-sushininjarobot-td.json) |
+| SushiParty | 97020 | [97020-sushiparty.json](./97020-sushiparty.json) |
 | SushiParty2 | 124238 | [124238-sushiparty2.json](./124238-sushiparty2.json) |
 | SushiVR | 158910 | [158910-sushivr.json](./158910-sushivr.json) |
 | Susie's Buttons and Baubles | 246536 | [246536-susies-buttons-and-baubles.json](./246536-susies-buttons-and-baubles.json) |
