@@ -2571,6 +2571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make A Scene: Easter | 96552 | [96552-make-a-scene-easter.json](./96552-make-a-scene-easter.json) |
 | Make A Scene: Farmyard | 232585 | [232585-make-a-scene-farmyard.json](./232585-make-a-scene-farmyard.json) |
 | Make A Scene: Polar Adventure | 103934 | [103934-make-a-scene-polar-adventure.json](./103934-make-a-scene-polar-adventure.json) |
+| Make a Scene: Princess Fairy Tales | 92041 | [92041-make-a-scene-princess-fairy-tales.json](./92041-make-a-scene-princess-fairy-tales.json) |
 | Make A Scene: Safari | 99897 | [99897-make-a-scene-safari.json](./99897-make-a-scene-safari.json) |
 | Make a Scene: Transport | 103120 | [103120-make-a-scene-transport.json](./103120-make-a-scene-transport.json) |
 | Make a Scene: Under the Sea | 101073 | [101073-make-a-scene-under-the-sea.json](./101073-make-a-scene-under-the-sea.json) |
@@ -5795,6 +5796,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math+Sticks: Coffee Break Club | 238874 | [238874-math-sticks-coffee-break-club.json](./238874-math-sticks-coffee-break-club.json) |
 | Mathable | 232533 | [232533-mathable.json](./232533-mathable.json) |
 | Mathbits | 360568 | [360568-mathbits.json](./360568-mathbits.json) |
+| Mathe für Zwerge 1 | 92004 | [92004-mathe-fur-zwerge-1.json](./92004-mathe-fur-zwerge-1.json) |
+| Mathe für Zwerge 2 | 92005 | [92005-mathe-fur-zwerge-2.json](./92005-mathe-fur-zwerge-2.json) |
 | Mathe Pfiffikus | 85859 | [85859-mathe-pfiffikus.json](./85859-mathe-pfiffikus.json) |
 | Mathe Pfiffikus 1 - 1995 | 81404 | [81404-mathe-pfiffikus-1-1995.json](./81404-mathe-pfiffikus-1-1995.json) |
 | Mathe Pfiffikus 2 | 81403 | [81403-mathe-pfiffikus-2.json](./81403-mathe-pfiffikus-2.json) |
@@ -6084,7 +6087,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -17536,6 +17538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moros | 418206 | [418206-moros.json](./418206-moros.json) |
 | Morph | 13053 | [13053-morph.json](./13053-morph.json) |
 | Morph Animals | 266772 | [266772-morph-animals.json](./266772-morph-animals.json) |
+| Morph Chess 3D | 92009 | [92009-morph-chess-3d.json](./92009-morph-chess-3d.json) |
 | Morph Girl | 54443 | [54443-morph-girl.json](./54443-morph-girl.json) |
 | Morph King | 190911 | [190911-morph-king.json](./190911-morph-king.json) |
 | Morph Pong | 114240 | [114240-morph-pong.json](./114240-morph-pong.json) |
@@ -19572,6 +19575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multi Turret Academy | 267131 | [267131-multi-turret-academy.json](./267131-multi-turret-academy.json) |
 | Multi-Path | 310343 | [310343-multi-path.json](./310343-multi-path.json) |
 | Multi-Purpose Arcade Combat Simulator | 38192 | [38192-multi-purpose-arcade-combat-simulator.json](./38192-multi-purpose-arcade-combat-simulator.json) |
+| Multi-User Dungeon 2 | 92106 | [92106-multi-user-dungeon-2.json](./92106-multi-user-dungeon-2.json) |
 | Multi-Users in Middle-earth | 136790 | [136790-multi-users-in-middle-earth.json](./136790-multi-users-in-middle-earth.json) |
 | Multi's Going Out | 300271 | [300271-multis-going-out.json](./300271-multis-going-out.json) |
 | Multia Space Program | 165913 | [165913-multia-space-program.json](./165913-multia-space-program.json) |
@@ -21974,6 +21978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mycelium: The Silent Contract | 343357 | [343357-mycelium-the-silent-contract.json](./343357-mycelium-the-silent-contract.json) |
 | Mychess | 73301 | [73301-mychess.json](./73301-mychess.json) |
 | Mychess II | 59886 | [59886-mychess-ii.json](./59886-mychess-ii.json) |
+| myChristmas | 92043 | [92043-mychristmas.json](./92043-mychristmas.json) |
 | Mycocosm | 350559 | [350559-mycocosm.json](./350559-mycocosm.json) |
 | Mycofall | 391726 | [391726-mycofall.json](./391726-mycofall.json) |
 | MyCoke | 64136 | [64136-mycoke.json](./64136-mycoke.json) |
