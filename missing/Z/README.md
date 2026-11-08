@@ -1484,6 +1484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombicide: Tactics & Shotguns | 207958 | [207958-zombicide-tactics-and-shotguns.json](./207958-zombicide-tactics-and-shotguns.json) |
 | Zombidle | 70384 | [70384-zombidle.json](./70384-zombidle.json) |
 | Zombidle: Remonstered | 36968 | [36968-zombidle-remonstered.json](./36968-zombidle-remonstered.json) |
+| Zombie | 108662 | [108662-zombie.json](./108662-zombie.json) |
 | Zombie | 26894 | [26894-zombie.json](./26894-zombie.json) |
 | Zombie 2018 | 87634 | [87634-zombie-2018.json](./87634-zombie-2018.json) |
 | Zombie Accountant | 66159 | [66159-zombie-accountant.json](./66159-zombie-accountant.json) |
@@ -1900,6 +1901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Shooter: Ares Virus | 151336 | [151336-zombie-shooter-ares-virus.json](./151336-zombie-shooter-ares-virus.json) |
 | Zombie Shooter: Fury of War | 95884 | [95884-zombie-shooter-fury-of-war.json](./95884-zombie-shooter-fury-of-war.json) |
 | Zombie Shooter: Pandemic Unkilled | 174667 | [174667-zombie-shooter-pandemic-unkilled.json](./174667-zombie-shooter-pandemic-unkilled.json) |
+| Zombie Shooting King | 108569 | [108569-zombie-shooting-king.json](./108569-zombie-shooting-king.json) |
 | Zombie Shooting Star | 209713 | [209713-zombie-shooting-star.json](./209713-zombie-shooting-star.json) |
 | Zombie Shooting Star: Arcade | 227758 | [227758-zombie-shooting-star-arcade.json](./227758-zombie-shooting-star-arcade.json) |
 | Zombie Shot | 285581 | [285581-zombie-shot.json](./285581-zombie-shot.json) |
