@@ -509,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safety Driving Simulator: Motorbike | 33312 | [33312-safety-driving-simulator-motorbike.json](./33312-safety-driving-simulator-motorbike.json) |
 | Safety Driving: The Safety Simulation - Car | 10804 | [10804-safety-driving-the-safety-simulation-car.json](./10804-safety-driving-the-safety-simulation-car.json) |
 | Safety First! | 32189 | [32189-safety-first.json](./32189-safety-first.json) |
+| Safety for Kid - Getting Lost | 93651 | [93651-safety-for-kid-getting-lost.json](./93651-safety-for-kid-getting-lost.json) |
 | Safety Instructions | 414290 | [414290-safety-instructions.json](./414290-safety-instructions.json) |
 | SafeZoneVR | 158964 | [158964-safezonevr.json](./158964-safezonevr.json) |
 | Saffron | 384725 | [384725-saffron.json](./384725-saffron.json) |
@@ -3620,6 +3621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrambled Eggs | 309409 | [309409-scrambled-eggs.json](./309409-scrambled-eggs.json) |
 | Scrambled Eggs | 393793 | [393793-scrambled-eggs.json](./393793-scrambled-eggs.json) |
 | Scrambled Egzz | 68524 | [68524-scrambled-egzz.json](./68524-scrambled-egzz.json) |
+| Scrambled Galaxy | 93697 | [93697-scrambled-galaxy.json](./93697-scrambled-galaxy.json) |
 | Scrambled: Syd City | 178896 | [178896-scrambled-syd-city.json](./178896-scrambled-syd-city.json) |
 | Scramblies | 58181 | [58181-scramblies.json](./58181-scramblies.json) |
 | Scrandle | 342592 | [342592-scrandle.json](./342592-scrandle.json) |
@@ -5002,6 +5004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek Love | 111980 | [111980-seek-love.json](./111980-seek-love.json) |
 | Seek Magician | 144924 | [144924-seek-magician.json](./144924-seek-magician.json) |
 | Seek Not a Lighthouse | 75654 | [75654-seek-not-a-lighthouse.json](./75654-seek-not-a-lighthouse.json) |
+| Seek or Die | 93682 | [93682-seek-or-die.json](./93682-seek-or-die.json) |
 | Seek the Discrepancy | 268337 | [268337-seek-the-discrepancy.json](./268337-seek-the-discrepancy.json) |
 | Seek the Resources | 246365 | [246365-seek-the-resources.json](./246365-seek-the-resources.json) |
 | Seek Wife | 154402 | [154402-seek-wife.json](./154402-seek-wife.json) |
@@ -8196,6 +8199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shera and the Three Treasures | 118293 | [118293-shera-and-the-three-treasures.json](./118293-shera-and-the-three-treasures.json) |
 | Sherberia | 190452 | [190452-sherberia.json](./190452-sherberia.json) |
 | Sherbert In A Bottle | 225311 | [225311-sherbert-in-a-bottle.json](./225311-sherbert-in-a-bottle.json) |
+| Sherbet Thieves | 93634 | [93634-sherbet-thieves.json](./93634-sherbet-thieves.json) |
 | Sheriff | 91662 | [91662-sheriff.json](./91662-sheriff.json) |
 | Sheriff Looper | 383344 | [383344-sheriff-looper.json](./383344-sheriff-looper.json) |
 | Sheriff of Mahjong | 182057 | [182057-sheriff-of-mahjong.json](./182057-sheriff-of-mahjong.json) |
@@ -9274,6 +9278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Bubble Deluxe | 312882 | [312882-shoot-bubble-deluxe.json](./312882-shoot-bubble-deluxe.json) |
 | Shoot Coin Yen: Exchange Puzzle | 227495 | [227495-shoot-coin-yen-exchange-puzzle.json](./227495-shoot-coin-yen-exchange-puzzle.json) |
 | Shoot Covid-19 | 161531 | [161531-shoot-covid-19.json](./161531-shoot-covid-19.json) |
+| Shoot Crow | 93698 | [93698-shoot-crow.json](./93698-shoot-crow.json) |
 | Shoot Defense 3D | 220059 | [220059-shoot-defense-3d.json](./220059-shoot-defense-3d.json) |
 | Shoot For Fun's Sake | 263960 | [263960-shoot-for-funs-sake.json](./263960-shoot-for-funs-sake.json) |
 | Shoot For The Stars | 335902 | [335902-shoot-for-the-stars.json](./335902-shoot-for-the-stars.json) |
@@ -25471,6 +25476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star-Crossed Myth: The Department of Wishes - Constellations of Love: Teorus | 238075 | [238075-star-crossed-myth-the-department-of-wishes-constellations-of-love-teorus.json](./238075-star-crossed-myth-the-department-of-wishes-constellations-of-love-teorus.json) |
 | Star-Crossed Myth: The Department of Wishes DLC Pack | 237988 | [237988-star-crossed-myth-the-department-of-wishes-dlc-pack.json](./237988-star-crossed-myth-the-department-of-wishes-dlc-pack.json) |
 | Star-Crosst | 235836 | [235836-star-crosst.json](./235836-star-crosst.json) |
+| Star-Pit Starship | 93671 | [93671-star-pit-starship.json](./93671-star-pit-starship.json) |
 | Star-Rocket Strike | 90616 | [90616-star-rocket-strike.json](./90616-star-rocket-strike.json) |
 | Star-Twine | 30800 | [30800-star-twine.json](./30800-star-twine.json) |
 | Star-Wired | 310939 | [310939-star-wired.json](./310939-star-wired.json) |
@@ -33957,6 +33963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Spy | 59500 | [59500-super-spy.json](./59500-super-spy.json) |
 | Super Spy Academy | 298269 | [298269-super-spy-academy.json](./298269-super-spy-academy.json) |
 | Super Spy Agents 3D | 197879 | [197879-super-spy-agents-3d.json](./197879-super-spy-agents-3d.json) |
+| Super Spy Girl Salon: Spa, Makeup and Dressup Game | 93653 | [93653-super-spy-girl-salon-spa-makeup-and-dressup-game.json](./93653-super-spy-girl-salon-spa-makeup-and-dressup-game.json) |
 | Super Spy Hunter | 6154 | [6154-super-spy-hunter.json](./6154-super-spy-hunter.json) |
 | Super Spy Raccoon | 264196 | [264196-super-spy-raccoon.json](./264196-super-spy-raccoon.json) |
 | Super Spy Violet | 335252 | [335252-super-spy-violet.json](./335252-super-spy-violet.json) |
@@ -35080,6 +35087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival or die | 120585 | [120585-survival-or-die.json](./120585-survival-or-die.json) |
 | Survival Overgrowth | 106729 | [106729-survival-overgrowth.json](./106729-survival-overgrowth.json) |
 | Survival Paint Town Red | 100983 | [100983-survival-paint-town-red.json](./100983-survival-paint-town-red.json) |
+| Survival Planet | 93695 | [93695-survival-planet.json](./93695-survival-planet.json) |
 | Survival Project | 65002 | [65002-survival-project.json](./65002-survival-project.json) |
 | Survival Prototype X | 302354 | [302354-survival-prototype-x.json](./302354-survival-prototype-x.json) |
 | Survival Quiz City | 144486 | [144486-survival-quiz-city.json](./144486-survival-quiz-city.json) |
