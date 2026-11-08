@@ -74,6 +74,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Am Giraffe | 313176 | [313176-i-am-giraffe.json](./313176-i-am-giraffe.json) |
 | I am God of the Forestland | 82580 | [82580-i-am-god-of-the-forestland.json](./82580-i-am-god-of-the-forestland.json) |
 | I Am Going for a Beer | 360843 | [360843-i-am-going-for-a-beer.json](./360843-i-am-going-for-a-beer.json) |
+| I Am Gooey | 121883 | [121883-i-am-gooey.json](./121883-i-am-gooey.json) |
 | I Am Hamster: Simulator | 407583 | [407583-i-am-hamster-simulator.json](./407583-i-am-hamster-simulator.json) |
 | I Am Here, I Won't Disappear. I Am Here, I Won't... | 329547 | [329547-i-am-here-i-wont-disappear-i-am-here-i-wont.json](./329547-i-am-here-i-wont-disappear-i-am-here-i-wont.json) |
 | I Am Hero: AFK Teamfight | 249591 | [249591-i-am-hero-afk-teamfight.json](./249591-i-am-hero-afk-teamfight.json) |
@@ -3951,6 +3952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -3959,6 +3961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite sky | 168115 | [168115-infinite-sky.json](./168115-infinite-sky.json) |
 | Infinite Sky | 150018 | [150018-infinite-sky.json](./150018-infinite-sky.json) |
 | Infinite Skyline | 115175 | [115175-infinite-skyline.json](./115175-infinite-skyline.json) |
+| Infinite Skyline: Superflight | 121865 | [121865-infinite-skyline-superflight.json](./121865-infinite-skyline-superflight.json) |
 | Infinite Soul | 361919 | [361919-infinite-soul.json](./361919-infinite-soul.json) |
 | Infinite Space | 11683 | [11683-infinite-space.json](./11683-infinite-space.json) |
 | Infinite Space III: Sea of Stars | 16930 | [16930-infinite-space-iii-sea-of-stars.json](./16930-infinite-space-iii-sea-of-stars.json) |
