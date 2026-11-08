@@ -1983,6 +1983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rap Simulator | 250303 | [250303-rap-simulator.json](./250303-rap-simulator.json) |
 | Rap Uncle | 317769 | [317769-rap-uncle.json](./317769-rap-uncle.json) |
 | Rapala Fishing Frenzy 2009 | 7155 | [7155-rapala-fishing-frenzy-2009.json](./7155-rapala-fishing-frenzy-2009.json) |
+| Rapala Fishing: Daily Catch | 110569 | [110569-rapala-fishing-daily-catch.json](./110569-rapala-fishing-daily-catch.json) |
 | Rapala Fishing: Pro Series | 68457 | [68457-rapala-fishing-pro-series.json](./68457-rapala-fishing-pro-series.json) |
 | Rapala for Kinect | 20242 | [20242-rapala-for-kinect.json](./20242-rapala-for-kinect.json) |
 | Rapala Pro Bass Fishing | 21740 | [21740-rapala-pro-bass-fishing.json](./21740-rapala-pro-bass-fishing.json) |
@@ -2323,6 +2324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravensburger Puzzle | 25495 | [25495-ravensburger-puzzle.json](./25495-ravensburger-puzzle.json) |
 | Ravensburger Puzzles | 209309 | [209309-ravensburger-puzzles.json](./209309-ravensburger-puzzles.json) |
 | Ravensdale | 47424 | [47424-ravensdale.json](./47424-ravensdale.json) |
+| Ravensgard Arena | 110454 | [110454-ravensgard-arena.json](./110454-ravensgard-arena.json) |
 | Ravenshade Asylum | 411825 | [411825-ravenshade-asylum.json](./411825-ravenshade-asylum.json) |
 | RavenStar | 404613 | [404613-ravenstar.json](./404613-ravenstar.json) |
 | Ravensthorn | 316730 | [316730-ravensthorn.json](./316730-ravensthorn.json) |
