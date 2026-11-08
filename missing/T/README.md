@@ -12305,6 +12305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Oath | 339902 | [339902-the-last-oath.json](./339902-the-last-oath.json) |
 | The Last of Anime | 159476 | [159476-the-last-of-anime.json](./159476-the-last-of-anime.json) |
 | The Last of Hero | 181583 | [181583-the-last-of-hero.json](./181583-the-last-of-hero.json) |
+| The Last of Humans: Awakening | 135402 | [135402-the-last-of-humans-awakening.json](./135402-the-last-of-humans-awakening.json) |
 | The Last of RAM | 406498 | [406498-the-last-of-ram.json](./406498-the-last-of-ram.json) |
 | The Last of Samual | 191972 | [191972-the-last-of-samual.json](./191972-the-last-of-samual.json) |
 | The Last of the 9 Lives | 319179 | [319179-the-last-of-the-9-lives.json](./319179-the-last-of-the-9-lives.json) |
