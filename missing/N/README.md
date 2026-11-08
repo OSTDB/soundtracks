@@ -596,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narcissu: Himeko's Epilogue | 122263 | [122263-narcissu-himekos-epilogue.json](./122263-narcissu-himekos-epilogue.json) |
 | Narcissu: Moshimo Ashita ga Aru Nara | 65349 | [65349-narcissu-moshimo-ashita-ga-aru-nara.json](./65349-narcissu-moshimo-ashita-ga-aru-nara.json) |
 | Narcissu: Zero | 172271 | [172271-narcissu-zero.json](./172271-narcissu-zero.json) |
+| Narcissus | 113943 | [113943-narcissus.json](./113943-narcissus.json) |
 | Narcissus | 335682 | [335682-narcissus.json](./335682-narcissus.json) |
 | Narcissus | 60355 | [60355-narcissus.json](./60355-narcissus.json) |
 | Narco Check | 389518 | [389518-narco-check.json](./389518-narco-check.json) |
@@ -1038,6 +1039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nature Escapes 5 | 292373 | [292373-nature-escapes-5.json](./292373-nature-escapes-5.json) |
 | Nature Escapes 5: Collector's Edition | 385087 | [385087-nature-escapes-5-collectors-edition.json](./385087-nature-escapes-5-collectors-edition.json) |
 | Nature Flight Module | 377997 | [377997-nature-flight-module.json](./377997-nature-flight-module.json) |
+| Nature Hunter | 113917 | [113917-nature-hunter.json](./113917-nature-hunter.json) |
 | Nature Jurassic Module | 377998 | [377998-nature-jurassic-module.json](./377998-nature-jurassic-module.json) |
 | Nature Matters | 149299 | [149299-nature-matters.json](./149299-nature-matters.json) |
 | Nature Minds | 380681 | [380681-nature-minds.json](./380681-nature-minds.json) |
@@ -3600,6 +3602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Newt | 228901 | [228901-newt.json](./228901-newt.json) |
 | Newt One | 98145 | [98145-newt-one.json](./98145-newt-one.json) |
 | Newt's Voyage | 115971 | [115971-newts-voyage.json](./115971-newts-voyage.json) |
+| Newton | 113932 | [113932-newton.json](./113932-newton.json) |
 | Newton | 324251 | [324251-newton.json](./324251-newton.json) |
 | Newton / Apple Tree | 312263 | [312263-newton-apple-tree.json](./312263-newton-apple-tree.json) |
 | Newton and the Apple Tree | 102449 | [102449-newton-and-the-apple-tree.json](./102449-newton-and-the-apple-tree.json) |
