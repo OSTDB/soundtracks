@@ -4944,6 +4944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Barmaid | 389183 | [389183-hentai-barmaid.json](./389183-hentai-barmaid.json) |
 | Hentai Bath | 371039 | [371039-hentai-bath.json](./371039-hentai-bath.json) |
 | Hentai Battle Royale | 105632 | [105632-hentai-battle-royale.json](./105632-hentai-battle-royale.json) |
+| Hentai Battlegrounds | 107447 | [107447-hentai-battlegrounds.json](./107447-hentai-battlegrounds.json) |
 | Hentai BDSM | 365411 | [365411-hentai-bdsm.json](./365411-hentai-bdsm.json) |
 | Hentai Beach | 167413 | [167413-hentai-beach.json](./167413-hentai-beach.json) |
 | Hentai Beach | 343605 | [343605-hentai-beach.json](./343605-hentai-beach.json) |
@@ -10179,6 +10180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hordes of Zendar | 196461 | [196461-hordes-of-zendar.json](./196461-hordes-of-zendar.json) |
 | Hordes.io | 125365 | [125365-hordes-io.json](./125365-hordes-io.json) |
 | Hordia | 415334 | [415334-hordia.json](./415334-hordia.json) |
+| Hordiaz | 107361 | [107361-hordiaz.json](./107361-hordiaz.json) |
 | Hordound | 207764 | [207764-hordound.json](./207764-hordound.json) |
 | Horg's Brewery | 333608 | [333608-horgs-brewery.json](./333608-horgs-brewery.json) |
 | Horgihugh | 118727 | [118727-horgihugh.json](./118727-horgihugh.json) |
