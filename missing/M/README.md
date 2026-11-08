@@ -6045,6 +6045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8847,6 +8848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mémoire d'Arumac | 167983 | [167983-memoire-darumac.json](./167983-memoire-darumac.json) |
 | Memoirium | 365108 | [365108-memoirium.json](./365108-memoirium.json) |
 | Memoirs of an Angel | 308283 | [308283-memoirs-of-an-angel.json](./308283-memoirs-of-an-angel.json) |
+| Memoirs of Magic | 117893 | [117893-memoirs-of-magic.json](./117893-memoirs-of-magic.json) |
 | Memoirs of Murder: Behind the Scenes | 322580 | [322580-memoirs-of-murder-behind-the-scenes.json](./322580-memoirs-of-murder-behind-the-scenes.json) |
 | Memoirs of Murder: Resorting to Revenge | 322579 | [322579-memoirs-of-murder-resorting-to-revenge.json](./322579-memoirs-of-murder-resorting-to-revenge.json) |
 | Memoirs of Murder: Welcome to Hidden Pines | 322578 | [322578-memoirs-of-murder-welcome-to-hidden-pines.json](./322578-memoirs-of-murder-welcome-to-hidden-pines.json) |
@@ -19347,6 +19349,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mudoku: Next Sudoku | 292267 | [292267-mudoku-next-sudoku.json](./292267-mudoku-next-sudoku.json) |
 | MudRunner | 54789 | [54789-mudrunner.json](./54789-mudrunner.json) |
 | MudRunner VR | 299809 | [299809-mudrunner-vr.json](./299809-mudrunner-vr.json) |
+| MudRunner: Old-timers | 117888 | [117888-mudrunner-old-timers.json](./117888-mudrunner-old-timers.json) |
+| MudRunner: The Ridge | 117890 | [117890-mudrunner-the-ridge.json](./117890-mudrunner-the-ridge.json) |
+| MudRunner: The Valley | 117889 | [117889-mudrunner-the-valley.json](./117889-mudrunner-the-valley.json) |
 | Mudventure | 389829 | [389829-mudventure.json](./389829-mudventure.json) |
 | Mue | 257262 | [257262-mue.json](./257262-mue.json) |
 | Mueitou: Shinsou-hen | 261203 | [261203-mueitou-shinsou-hen.json](./261203-mueitou-shinsou-hen.json) |
