@@ -483,6 +483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fade | 148828 | [148828-fade.json](./148828-fade.json) |
 | Fade | 342517 | [342517-fade.json](./342517-fade.json) |
 | Fade Away | 68888 | [68888-fade-away.json](./68888-fade-away.json) |
+| FADE AWAY | 128723 | [128723-fade-away.json](./128723-fade-away.json) |
 | Fade Into Darkness | 63841 | [63841-fade-into-darkness.json](./63841-fade-into-darkness.json) |
 | Fade Master 3D: Barber Shop | 224045 | [224045-fade-master-3d-barber-shop.json](./224045-fade-master-3d-barber-shop.json) |
 | Fade Memory | 236119 | [236119-fade-memory.json](./236119-fade-memory.json) |
