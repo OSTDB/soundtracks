@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fahrenheit | 298555 | [298555-fahrenheit.json](./298555-fahrenheit.json) |
 | Fahrenheit | 6612 | [6612-fahrenheit.json](./6612-fahrenheit.json) |
 | Fahrenheit 451 | 24669 | [24669-fahrenheit-451.json](./24669-fahrenheit-451.json) |
+| Fahrenheit: Indigo Prophecy - Director's Cut | 138337 | [138337-fahrenheit-indigo-prophecy-directors-cut.json](./138337-fahrenheit-indigo-prophecy-directors-cut.json) |
 | Fahrenheit: Indigo Prophecy Remastered | 25009 | [25009-fahrenheit-indigo-prophecy-remastered.json](./25009-fahrenheit-indigo-prophecy-remastered.json) |
 | Fahrenheit: Special Edition | 43281 | [43281-fahrenheit-special-edition.json](./43281-fahrenheit-special-edition.json) |
 | Faif | 128576 | [128576-faif.json](./128576-faif.json) |
@@ -2372,6 +2373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faraway Lands: Rise of Yokai | 139668 | [139668-faraway-lands-rise-of-yokai.json](./139668-faraway-lands-rise-of-yokai.json) |
 | Faraway Proximity | 215566 | [215566-faraway-proximity.json](./215566-faraway-proximity.json) |
 | Faraway Story | 125409 | [125409-faraway-story.json](./125409-faraway-story.json) |
+| Faraway: Director's Cut | 138349 | [138349-faraway-directors-cut.json](./138349-faraway-directors-cut.json) |
 | Faraway: Jungle Escape | 192883 | [192883-faraway-jungle-escape.json](./192883-faraway-jungle-escape.json) |
 | Faraway: On Lost Isles | 320086 | [320086-faraway-on-lost-isles.json](./320086-faraway-on-lost-isles.json) |
 | Faraway: Puzzle Escape | 101737 | [101737-faraway-puzzle-escape.json](./101737-faraway-puzzle-escape.json) |
@@ -4181,6 +4183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FFFF: Fatal Five Finger Fillet | 417258 | [417258-ffff-fatal-five-finger-fillet.json](./417258-ffff-fatal-five-finger-fillet.json) |
 | FFFFFF | 184543 | [184543-ffffff.json](./184543-ffffff.json) |
 | FFFL: Brutalball Manager | 248972 | [248972-fffl-brutalball-manager.json](./248972-fffl-brutalball-manager.json) |
+| Ffflood | 138326 | [138326-ffflood.json](./138326-ffflood.json) |
 | FFS, Another Northern Duke?! | 309876 | [309876-ffs-another-northern-duke.json](./309876-ffs-another-northern-duke.json) |
 | FFS: Football Freekick Simulator | 312436 | [312436-ffs-football-freekick-simulator.json](./312436-ffs-football-freekick-simulator.json) |
 | FFX Runner | 8776 | [8776-ffx-runner.json](./8776-ffx-runner.json) |
@@ -7835,6 +7838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlickBlocks | 182880 | [182880-flickblocks.json](./182880-flickblocks.json) |
 | Flicker | 348871 | [348871-flicker.json](./348871-flicker.json) |
 | Flicker | 381024 | [381024-flicker.json](./381024-flicker.json) |
+| Flicker of Hope | 138345 | [138345-flicker-of-hope.json](./138345-flicker-of-hope.json) |
 | Flicklash | 259540 | [259540-flicklash.json](./259540-flicklash.json) |
 | Flickle | 383393 | [383393-flickle.json](./383393-flickle.json) |
 | FlickSync - Mad Hatter VR | 95260 | [95260-flicksync-mad-hatter-vr.json](./95260-flicksync-mad-hatter-vr.json) |
@@ -10572,6 +10576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortnite: Chapter 2 | 129880 | [129880-fortnite-chapter-2.json](./129880-fortnite-chapter-2.json) |
 | Fortnite: Chapter 2 - Season 2 | 129912 | [129912-fortnite-chapter-2-season-2.json](./129912-fortnite-chapter-2-season-2.json) |
 | Fortnite: Chapter 2 - Season 3 | 135138 | [135138-fortnite-chapter-2-season-3.json](./135138-fortnite-chapter-2-season-3.json) |
+| Fortnite: Chapter 2 - Season 4 | 138342 | [138342-fortnite-chapter-2-season-4.json](./138342-fortnite-chapter-2-season-4.json) |
 | Fortnite: Chapter 2 - Season 5 | 140974 | [140974-fortnite-chapter-2-season-5.json](./140974-fortnite-chapter-2-season-5.json) |
 | Fortnite: Chapter 2 - Season 7 | 151996 | [151996-fortnite-chapter-2-season-7.json](./151996-fortnite-chapter-2-season-7.json) |
 | Fortnite: Chapter 2 - Season 8 | 171971 | [171971-fortnite-chapter-2-season-8.json](./171971-fortnite-chapter-2-season-8.json) |
