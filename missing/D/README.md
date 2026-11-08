@@ -7018,6 +7018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depict1 | 186635 | [186635-depict1.json](./186635-depict1.json) |
 | Depiction of Pleasure | 374340 | [374340-depiction-of-pleasure.json](./374340-depiction-of-pleasure.json) |
 | Depixtion | 119465 | [119465-depixtion.json](./119465-depixtion.json) |
+| Depixtion: Halloween | 121874 | [121874-depixtion-halloween.json](./121874-depixtion-halloween.json) |
 | Depixtion: Halloween Edition | 336909 | [336909-depixtion-halloween-edition.json](./336909-depixtion-halloween-edition.json) |
 | Deplau | 105642 | [105642-deplau.json](./105642-deplau.json) |
 | Deploy and Destroy: Ash vs ED | 103550 | [103550-deploy-and-destroy-ash-vs-ed.json](./103550-deploy-and-destroy-ash-vs-ed.json) |
@@ -16389,6 +16390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Slayer | 271692 | [271692-dream-slayer.json](./271692-dream-slayer.json) |
 | Dream Slayers | 342032 | [342032-dream-slayers.json](./342032-dream-slayers.json) |
 | Dream Soccer '94 | 39627 | [39627-dream-soccer-94.json](./39627-dream-soccer-94.json) |
+| Dream Solutions | 121889 | [121889-dream-solutions.json](./121889-dream-solutions.json) |
 | Dream Sports Platform | 291793 | [291793-dream-sports-platform.json](./291793-dream-sports-platform.json) |
 | Dream Square: Hinagata Akiko | 216418 | [216418-dream-square-hinagata-akiko.json](./216418-dream-square-hinagata-akiko.json) |
 | Dream Station | 318820 | [318820-dream-station.json](./318820-dream-station.json) |
@@ -18861,6 +18863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeoneering | 184432 | [184432-dungeoneering.json](./184432-dungeoneering.json) |
 | Dungeoneers | 154263 | [154263-dungeoneers.json](./154263-dungeoneers.json) |
 | Dungeoneers Academy | 266547 | [266547-dungeoneers-academy.json](./266547-dungeoneers-academy.json) |
+| DungeonEpic | 121852 | [121852-dungeonepic.json](./121852-dungeonepic.json) |
 | Dungeonette for Apple Watch | 197751 | [197751-dungeonette-for-apple-watch.json](./197751-dungeonette-for-apple-watch.json) |
 | Dungeonfall | 176657 | [176657-dungeonfall.json](./176657-dungeonfall.json) |
 | Dungeonfall | 380753 | [380753-dungeonfall.json](./380753-dungeonfall.json) |
