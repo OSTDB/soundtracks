@@ -1131,6 +1131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales From Yeoldeburg | 158360 | [158360-tales-from-yeoldeburg.json](./158360-tales-from-yeoldeburg.json) |
 | Tales from Zilmurik | 157450 | [157450-tales-from-zilmurik.json](./157450-tales-from-zilmurik.json) |
 | Tales In Text: Multiplayer Immersive Adventures | 388281 | [388281-tales-in-text-multiplayer-immersive-adventures.json](./388281-tales-in-text-multiplayer-immersive-adventures.json) |
+| Tales in the Taxi | 131697 | [131697-tales-in-the-taxi.json](./131697-tales-in-the-taxi.json) |
 | Tales Noir | 196591 | [196591-tales-noir.json](./196591-tales-noir.json) |
 | Tales of (Working Title) | 131550 | [131550-tales-of-working-title.json](./131550-tales-of-working-title.json) |
 | Tales of a Spymaster | 113573 | [113573-tales-of-a-spymaster.json](./113573-tales-of-a-spymaster.json) |
@@ -27323,6 +27324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toward The Ice | 335505 | [335505-toward-the-ice.json](./335505-toward-the-ice.json) |
 | Toward the Moon | 288577 | [288577-toward-the-moon.json](./288577-toward-the-moon.json) |
 | Towards a perilous journey | 102333 | [102333-towards-a-perilous-journey.json](./102333-towards-a-perilous-journey.json) |
+| Towards the Enduring Light | 131712 | [131712-towards-the-enduring-light.json](./131712-towards-the-enduring-light.json) |
 | Towards the Light | 407512 | [407512-towards-the-light.json](./407512-towards-the-light.json) |
 | Towards the Pantheon | 25316 | [25316-towards-the-pantheon.json](./25316-towards-the-pantheon.json) |
 | Towards the Pantheon: Escaping Eternity | 59145 | [59145-towards-the-pantheon-escaping-eternity.json](./59145-towards-the-pantheon-escaping-eternity.json) |
@@ -32423,6 +32425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Reporter: Mystery of Mistwood | 278000 | [278000-true-reporter-mystery-of-mistwood.json](./278000-true-reporter-mystery-of-mistwood.json) |
 | True Speed | 223880 | [223880-true-speed.json](./223880-true-speed.json) |
 | True Stalker | 280962 | [280962-true-stalker.json](./280962-true-stalker.json) |
+| True Survivor | 131693 | [131693-true-survivor.json](./131693-true-survivor.json) |
 | True Survivors Bundle | 250556 | [250556-true-survivors-bundle.json](./250556-true-survivors-bundle.json) |
 | True Swing Golf | 20493 | [20493-true-swing-golf.json](./20493-true-swing-golf.json) |
 | True Swing Golf Express | 84482 | [84482-true-swing-golf-express.json](./84482-true-swing-golf-express.json) |
