@@ -2192,6 +2192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nemesis Shock | 346397 | [346397-nemesis-shock.json](./346397-nemesis-shock.json) |
 | Nemesis the Warlock | 37187 | [37187-nemesis-the-warlock.json](./37187-nemesis-the-warlock.json) |
 | Nemesis Z | 287211 | [287211-nemesis-z.json](./287211-nemesis-z.json) |
+| Nemesis: Distress | 135380 | [135380-nemesis-distress.json](./135380-nemesis-distress.json) |
 | Nemesis: Final Dragon Tower | 341364 | [341364-nemesis-final-dragon-tower.json](./341364-nemesis-final-dragon-tower.json) |
 | Nemesis: Lockdown | 201403 | [201403-nemesis-lockdown.json](./201403-nemesis-lockdown.json) |
 | Nemesis: Race Against the Pandemic | 160063 | [160063-nemesis-race-against-the-pandemic.json](./160063-nemesis-race-against-the-pandemic.json) |
@@ -6632,6 +6633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nontan to Issho: Nohara de Asobo | 268519 | [268519-nontan-to-issho-nohara-de-asobo.json](./268519-nontan-to-issho-nohara-de-asobo.json) |
 | Nonterraqueous | 26266 | [26266-nonterraqueous.json](./26266-nonterraqueous.json) |
 | Nonu | 292378 | [292378-nonu.json](./292378-nonu.json) |
+| Nonuple Nine: Asymptote | 135427 | [135427-nonuple-nine-asymptote.json](./135427-nonuple-nine-asymptote.json) |
 | Nonvilia | 168513 | [168513-nonvilia.json](./168513-nonvilia.json) |
 | NonZero | 182657 | [182657-nonzero.json](./182657-nonzero.json) |
 | Noob Hunter | 130053 | [130053-noob-hunter.json](./130053-noob-hunter.json) |
