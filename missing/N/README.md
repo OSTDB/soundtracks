@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nakashima Tetsunari no Othello Seminar | 54943 | [54943-nakashima-tetsunari-no-othello-seminar.json](./54943-nakashima-tetsunari-no-othello-seminar.json) |
 | Nakawak | 68193 | [68193-nakawak.json](./68193-nakawak.json) |
 | Nakayama Miho no Tokimeki High School | 41284 | [41284-nakayama-miho-no-tokimeki-high-school.json](./41284-nakayama-miho-no-tokimeki-high-school.json) |
+| Nakayoshi All-Stars: Mezase Gakuen Idol | 130495 | [130495-nakayoshi-all-stars-mezase-gakuen-idol.json](./130495-nakayoshi-all-stars-mezase-gakuen-idol.json) |
 | Nakayoshi Chao! | 210297 | [210297-nakayoshi-chao.json](./210297-nakayoshi-chao.json) |
 | Nakayoshi Cooking Series 1: Oishii Cake Okusan | 282411 | [282411-nakayoshi-cooking-series-1-oishii-cake-okusan.json](./282411-nakayoshi-cooking-series-1-oishii-cake-okusan.json) |
 | Nakayoshi Cooking Series 2: Oishii Panya-san | 282463 | [282463-nakayoshi-cooking-series-2-oishii-panya-san.json](./282463-nakayoshi-cooking-series-2-oishii-panya-san.json) |
@@ -4961,6 +4962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nil-Ninjahtic: Ronin | 33435 | [33435-nil-ninjahtic-ronin.json](./33435-nil-ninjahtic-ronin.json) |
 | Nila Dhuma | 57184 | [57184-nila-dhuma.json](./57184-nila-dhuma.json) |
 | Nildigo | 347788 | [347788-nildigo.json](./347788-nildigo.json) |
+| Nile Kawa no Yoake | 130470 | [130470-nile-kawa-no-yoake.json](./130470-nile-kawa-no-yoake.json) |
 | Nile: An Ancient Egyptian Quest | 71042 | [71042-nile-an-ancient-egyptian-quest.json](./71042-nile-an-ancient-egyptian-quest.json) |
 | Nilia | 146898 | [146898-nilia.json](./146898-nilia.json) |
 | Nils Holgerssons wunderbare Reise | 325680 | [325680-nils-holgerssons-wunderbare-reise.json](./325680-nils-holgerssons-wunderbare-reise.json) |
