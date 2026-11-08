@@ -2072,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rarity | 307045 | [307045-rarity.json](./307045-rarity.json) |
 | Rasant | 226455 | [226455-rasant.json](./226455-rasant.json) |
 | Rascal | 94445 | [94445-rascal.json](./94445-rascal.json) |
+| Rascal Fight | 116534 | [116534-rascal-fight.json](./116534-rascal-fight.json) |
 | Rascal Racers | 43806 | [43806-rascal-racers.json](./43806-rascal-racers.json) |
 | Rascal Revolt | 153444 | [153444-rascal-revolt.json](./153444-rascal-revolt.json) |
 | Rascal’s Escape | 139017 | [139017-rascal-s-escape.json](./139017-rascal-s-escape.json) |
@@ -6217,6 +6218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Snake | 104012 | [104012-retro-snake.json](./104012-retro-snake.json) |
 | Retro Snake Adventures | 107915 | [107915-retro-snake-adventures.json](./107915-retro-snake-adventures.json) |
 | Retro Sonic | 127903 | [127903-retro-sonic.json](./127903-retro-sonic.json) |
+| Retro Space Ball | 116569 | [116569-retro-space-ball.json](./116569-retro-space-ball.json) |
 | Retro Space Fighter | 147150 | [147150-retro-space-fighter.json](./147150-retro-space-fighter.json) |
 | Retro Space Shooter | 115327 | [115327-retro-space-shooter.json](./115327-retro-space-shooter.json) |
 | Retro Space Shooter | 350356 | [350356-retro-space-shooter.json](./350356-retro-space-shooter.json) |
