@@ -1198,6 +1198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13! | 87045 | [87045-13.json](./87045-13.json) |
 | 13's | 190047 | [190047-13s.json](./190047-13s.json) |
 | 1306 Chapter 1: Reactors & Robots | 343403 | [343403-1306-chapter-1-reactors-and-robots.json](./343403-1306-chapter-1-reactors-and-robots.json) |
+| 1313 : Puzzle Game | 88410 | [88410-1313-puzzle-game.json](./88410-1313-puzzle-game.json) |
 | 1337 Ship Deathmatch | 67074 | [67074-1337-ship-deathmatch.json](./67074-1337-ship-deathmatch.json) |
 | 1337D00m | 109489 | [109489-1337d00m.json](./109489-1337d00m.json) |
 | 1365 | 134937 | [134937-1365.json](./134937-1365.json) |
