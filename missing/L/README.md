@@ -2477,6 +2477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leg It: Don't Stop | 421604 | [421604-leg-it-dont-stop.json](./421604-leg-it-dont-stop.json) |
 | Legacies | 132469 | [132469-legacies.json](./132469-legacies.json) |
 | Legacies of Dondoran | 228999 | [228999-legacies-of-dondoran.json](./228999-legacies-of-dondoran.json) |
+| Legacy | 115204 | [115204-legacy.json](./115204-legacy.json) |
 | Legacy | 159240 | [159240-legacy.json](./159240-legacy.json) |
 | Legacy | 213049 | [213049-legacy.json](./213049-legacy.json) |
 | Legacy | 23896 | [23896-legacy.json](./23896-legacy.json) |
