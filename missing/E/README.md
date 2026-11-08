@@ -2642,6 +2642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eliminator | 354648 | [354648-eliminator.json](./354648-eliminator.json) |
 | Eliminator | 81465 | [81465-eliminator.json](./81465-eliminator.json) |
 | Eliminator Boat Duel | 9158 | [9158-eliminator-boat-duel.json](./9158-eliminator-boat-duel.json) |
+| Eliminator IV | 113934 | [113934-eliminator-iv.json](./113934-eliminator-iv.json) |
 | Eliminator: The Encapsuled Nemesis | 248226 | [248226-eliminator-the-encapsuled-nemesis.json](./248226-eliminator-the-encapsuled-nemesis.json) |
 | Elimora | 326921 | [326921-elimora.json](./326921-elimora.json) |
 | Elin | 221102 | [221102-elin.json](./221102-elin.json) |
@@ -4031,6 +4032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enemy Mind | 17157 | [17157-enemy-mind.json](./17157-enemy-mind.json) |
 | Enemy Nations | 70174 | [70174-enemy-nations.json](./70174-enemy-nations.json) |
 | Enemy of the State | 204545 | [204545-enemy-of-the-state.json](./204545-enemy-of-the-state.json) |
+| Enemy on Board | 113918 | [113918-enemy-on-board.json](./113918-enemy-on-board.json) |
 | Enemy On the Tail! | 320518 | [320518-enemy-on-the-tail.json](./320518-enemy-on-the-tail.json) |
 | Enemy Remains | 144718 | [144718-enemy-remains.json](./144718-enemy-remains.json) |
 | Enemy Star | 267587 | [267587-enemy-star.json](./267587-enemy-star.json) |
@@ -6268,6 +6270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eternal Spectre | 195584 | [195584-eternal-spectre.json](./195584-eternal-spectre.json) |
 | Eternal Spring VR | 290119 | [290119-eternal-spring-vr.json](./290119-eternal-spring-vr.json) |
 | Eternal Starlight | 174548 | [174548-eternal-starlight.json](./174548-eternal-starlight.json) |
+| Eternal Starlight VR | 113944 | [113944-eternal-starlight-vr.json](./113944-eternal-starlight-vr.json) |
 | Eternal Starshine | 182370 | [182370-eternal-starshine.json](./182370-eternal-starshine.json) |
 | Eternal Step | 14388 | [14388-eternal-step.json](./14388-eternal-step.json) |
 | Eternal Struggle | 280081 | [280081-eternal-struggle.json](./280081-eternal-struggle.json) |
@@ -6376,6 +6379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etherrealm | 292248 | [292248-etherrealm.json](./292248-etherrealm.json) |
 | Etherwind | 392387 | [392387-etherwind.json](./392387-etherwind.json) |
 | Ethics Empire | 374008 | [374008-ethics-empire.json](./374008-ethics-empire.json) |
+| Ethics: Journalist's Way | 113939 | [113939-ethics-journalists-way.json](./113939-ethics-journalists-way.json) |
 | EthnoGuessr | 340230 | [340230-ethnoguessr.json](./340230-ethnoguessr.json) |
 | Ethos 2: Fall of Empires | 190433 | [190433-ethos-2-fall-of-empires.json](./190433-ethos-2-fall-of-empires.json) |
 | Ethos Mythos | 419975 | [419975-ethos-mythos.json](./419975-ethos-mythos.json) |
@@ -7079,6 +7083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everstead: Origins | 346498 | [346498-everstead-origins.json](./346498-everstead-origins.json) |
 | Everstill Valley | 394899 | [394899-everstill-valley.json](./394899-everstill-valley.json) |
 | Everstorm | 283100 | [283100-everstorm.json](./283100-everstorm.json) |
+| Evertale | 113924 | [113924-evertale.json](./113924-evertale.json) |
 | Evertales | 23927 | [23927-evertales.json](./23927-evertales.json) |
 | Evertech Sandbox | 102662 | [102662-evertech-sandbox.json](./102662-evertech-sandbox.json) |
 | Evertown | 33782 | [33782-evertown.json](./33782-evertown.json) |
