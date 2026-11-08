@@ -2771,6 +2771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way to Go! Bowling | 205893 | [205893-way-to-go-bowling.json](./205893-way-to-go-bowling.json) |
 | Way to the Cake | 207459 | [207459-way-to-the-cake.json](./207459-way-to-the-cake.json) |
 | Way to the Light | 267786 | [267786-way-to-the-light.json](./267786-way-to-the-light.json) |
+| Way to the Woods | 90012 | [90012-way-to-the-woods.json](./90012-way-to-the-woods.json) |
 | Way to Town | 358466 | [358466-way-to-town.json](./358466-way-to-town.json) |
 | Way to Yaatra | 140604 | [140604-way-to-yaatra.json](./140604-way-to-yaatra.json) |
 | Way Walkers: University | 168695 | [168695-way-walkers-university.json](./168695-way-walkers-university.json) |
@@ -9264,6 +9265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrecking Balls Arena | 61972 | [61972-wrecking-balls-arena.json](./61972-wrecking-balls-arena.json) |
 | Wrecking Balls Arena DX | 61969 | [61969-wrecking-balls-arena-dx.json](./61969-wrecking-balls-arena-dx.json) |
 | Wrecking Crew | 41420 | [41420-wrecking-crew.json](./41420-wrecking-crew.json) |
+| Wrecking Squad | 90031 | [90031-wrecking-squad.json](./90031-wrecking-squad.json) |
 | Wrecking Towers | 68876 | [68876-wrecking-towers.json](./68876-wrecking-towers.json) |
 | Wrecking Wave | 374114 | [374114-wrecking-wave.json](./374114-wrecking-wave.json) |
 | Wreckless Roger | 395820 | [395820-wreckless-roger.json](./395820-wreckless-roger.json) |
