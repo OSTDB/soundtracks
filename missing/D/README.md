@@ -7318,6 +7318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Bus Frontiers | 293222 | [293222-desert-bus-frontiers.json](./293222-desert-bus-frontiers.json) |
 | Desert Bus VR | 76421 | [76421-desert-bus-vr.json](./76421-desert-bus-vr.json) |
 | Desert Child | 91970 | [91970-desert-child.json](./91970-desert-child.json) |
+| Desert coachman | 127448 | [127448-desert-coachman.json](./127448-desert-coachman.json) |
 | Desert Comets | 184923 | [184923-desert-comets.json](./184923-desert-comets.json) |
 | Desert Complex | 272115 | [272115-desert-complex.json](./272115-desert-complex.json) |
 | Desert Craft Exploration | 95888 | [95888-desert-craft-exploration.json](./95888-desert-craft-exploration.json) |
@@ -9545,6 +9546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensi Lain Serena | 301117 | [301117-dimensi-lain-serena.json](./301117-dimensi-lain-serena.json) |
 | Dimension | 355177 | [355177-dimension.json](./355177-dimension.json) |
 | Dimension Ascent | 355596 | [355596-dimension-ascent.json](./355596-dimension-ascent.json) |
+| Dimension C38B | 127490 | [127490-dimension-c38b.json](./127490-dimension-c38b.json) |
 | Dimension Core: Amethyst | 408442 | [408442-dimension-core-amethyst.json](./408442-dimension-core-amethyst.json) |
 | Dimension Dash | 193023 | [193023-dimension-dash.json](./193023-dimension-dash.json) |
 | Dimension Defenders | 405570 | [405570-dimension-defenders.json](./405570-dimension-defenders.json) |
@@ -14508,6 +14510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Kyanta | 372649 | [372649-dr-kyanta.json](./372649-dr-kyanta.json) |
 | Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist | 14872 | [14872-dr-langeskov-the-tiger-and-the-terribly-cursed-emerald-a-whirlwind-heist.json](./14872-dr-langeskov-the-tiger-and-the-terribly-cursed-emerald-a-whirlwind-heist.json) |
 | Dr. Limpeza | 230651 | [230651-dr-limpeza.json](./230651-dr-limpeza.json) |
+| Dr. Livingstone, I Presume? | 127480 | [127480-dr-livingstone-i-presume.json](./127480-dr-livingstone-i-presume.json) |
 | Dr. Lunatic Supreme with Cheese | 79739 | [79739-dr-lunatic-supreme-with-cheese.json](./79739-dr-lunatic-supreme-with-cheese.json) |
 | Dr. Lunatic Supreme With Steam | 264664 | [264664-dr-lunatic-supreme-with-steam.json](./264664-dr-lunatic-supreme-with-steam.json) |
 | Dr. Lynch: Grave Secrets | 64718 | [64718-dr-lynch-grave-secrets.json](./64718-dr-lynch-grave-secrets.json) |
@@ -15112,6 +15115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Blaster | 181553 | [181553-dragon-blaster.json](./181553-dragon-blaster.json) |
 | Dragon Blaze | 272700 | [272700-dragon-blaze.json](./272700-dragon-blaze.json) |
 | Dragon Blaze | 39659 | [39659-dragon-blaze.json](./39659-dragon-blaze.json) |
+| Dragon Blazers | 127452 | [127452-dragon-blazers.json](./127452-dragon-blazers.json) |
 | Dragon Block C | 395101 | [395101-dragon-block-c.json](./395101-dragon-block-c.json) |
 | Dragon Blood | 30315 | [30315-dragon-blood.json](./30315-dragon-blood.json) |
 | Dragon Boar and Lady Rabbit | 81801 | [81801-dragon-boar-and-lady-rabbit.json](./81801-dragon-boar-and-lady-rabbit.json) |
