@@ -2163,6 +2163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuunagi-sou no S-kyuu no Kanojo-tachi | 410605 | [410605-yuunagi-sou-no-s-kyuu-no-kanojo-tachi.json](./410605-yuunagi-sou-no-s-kyuu-no-kanojo-tachi.json) |
 | Yuunagi-sou no S-kyuu no Kanojo-tachi 2 | 410606 | [410606-yuunagi-sou-no-s-kyuu-no-kanojo-tachi-2.json](./410606-yuunagi-sou-no-s-kyuu-no-kanojo-tachi-2.json) |
 | Yuurei Station | 179669 | [179669-yuurei-station.json](./179669-yuurei-station.json) |
+| Yuurei Yashiki no Nijuuyon Jikan | 112541 | [112541-yuurei-yashiki-no-nijuuyon-jikan.json](./112541-yuurei-yashiki-no-nijuuyon-jikan.json) |
 | Yuurei-kun | 141848 | [141848-yuurei-kun.json](./141848-yuurei-kun.json) |
 | Yuuri to Marin ha Iyashite Agetai | 401180 | [401180-yuuri-to-marin-ha-iyashite-agetai.json](./401180-yuuri-to-marin-ha-iyashite-agetai.json) |
 | Yuurou: Transient Sands | 327422 | [327422-yuurou-transient-sands.json](./327422-yuurou-transient-sands.json) |
