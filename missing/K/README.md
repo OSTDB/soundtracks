@@ -2870,7 +2870,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3946,6 +3945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kirby's Puresabe Adventure | 138986 | [138986-kirbys-puresabe-adventure.json](./138986-kirbys-puresabe-adventure.json) |
 | Kirby's Return to Dream Land | 3725 | [3725-kirbys-return-to-dream-land.json](./3725-kirbys-return-to-dream-land.json) |
 | Kirby's Return to Dream Land Deluxe Memory Match-Up | 253707 | [253707-kirbys-return-to-dream-land-deluxe-memory-match-up.json](./253707-kirbys-return-to-dream-land-deluxe-memory-match-up.json) |
+| Kirby's Star Stacker | 113211 | [113211-kirbys-star-stacker.json](./113211-kirbys-star-stacker.json) |
 | Kirby's Star Stacker | 3655 | [3655-kirbys-star-stacker.json](./3655-kirbys-star-stacker.json) |
 | Kirchhoff's Revenge | 89398 | [89398-kirchhoffs-revenge.json](./89398-kirchhoffs-revenge.json) |
 | Kirei Zukin Seikatsu 2 | 325723 | [325723-kirei-zukin-seikatsu-2.json](./325723-kirei-zukin-seikatsu-2.json) |
@@ -4037,6 +4037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss Upload | 156839 | [156839-kiss-upload.json](./156839-kiss-upload.json) |
 | Kiss Yori... | 73766 | [73766-kiss-yori.json](./73766-kiss-yori.json) |
 | Kiss Yori... Seaside Serenade | 37498 | [37498-kiss-yori-seaside-serenade.json](./37498-kiss-yori-seaside-serenade.json) |
+| Kiss-iro | 113251 | [113251-kiss-iro.json](./113251-kiss-iro.json) |
 | Kiss: Psycho Circus - The Nightmare Child | 9096 | [9096-kiss-psycho-circus-the-nightmare-child.json](./9096-kiss-psycho-circus-the-nightmare-child.json) |
 | Kiss/Off | 189994 | [189994-kiss-off.json](./189994-kiss-off.json) |
 | Kissa | 181891 | [181891-kissa.json](./181891-kissa.json) |
