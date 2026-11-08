@@ -944,6 +944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IBowl | 93983 | [93983-ibowl.json](./93983-ibowl.json) |
 | iBowl Deluxe | 197668 | [197668-ibowl-deluxe.json](./197668-ibowl-deluxe.json) |
 | Ibreak! | 103895 | [103895-ibreak.json](./103895-ibreak.json) |
+| iBridge X | 96806 | [96806-ibridge-x.json](./96806-ibridge-x.json) |
 | iBridgeCards | 88586 | [88586-ibridgecards.json](./88586-ibridgecards.json) |
 | iBridgeFun | 105670 | [105670-ibridgefun.json](./105670-ibridgefun.json) |
 | Ibuki | 177693 | [177693-ibuki.json](./177693-ibuki.json) |
