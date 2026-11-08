@@ -1985,6 +1985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank POV | 402526 | [402526-tank-pov.json](./402526-tank-pov.json) |
 | Tank Quest | 144504 | [144504-tank-quest.json](./144504-tank-quest.json) |
 | Tank Racer | 11779 | [11779-tank-racer.json](./11779-tank-racer.json) |
+| Tank raid | 113227 | [113227-tank-raid.json](./113227-tank-raid.json) |
 | Tank Rampage | 168116 | [168116-tank-rampage.json](./168116-tank-rampage.json) |
 | Tank Rectangle | 359142 | [359142-tank-rectangle.json](./359142-tank-rectangle.json) |
 | Tank Riders | 61065 | [61065-tank-riders.json](./61065-tank-riders.json) |
@@ -3692,6 +3693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Telegrum Clicker | 100574 | [100574-telegrum-clicker.json](./100574-telegrum-clicker.json) |
 | Telejogo II | 292228 | [292228-telejogo-ii.json](./292228-telejogo-ii.json) |
 | Telekinesis Kyle | 20116 | [20116-telekinesis-kyle.json](./20116-telekinesis-kyle.json) |
+| Telekinetic | 113228 | [113228-telekinetic.json](./113228-telekinetic.json) |
 | TeleMorpher | 320030 | [320030-telemorpher.json](./320030-telemorpher.json) |
 | Telemount | 413083 | [413083-telemount.json](./413083-telemount.json) |
 | Telenet Shooting Collection | 251524 | [251524-telenet-shooting-collection.json](./251524-telenet-shooting-collection.json) |
@@ -6123,6 +6125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Art of Murder | 91354 | [91354-the-art-of-murder.json](./91354-the-art-of-murder.json) |
 | The Art of Tortoise Walking | 403187 | [403187-the-art-of-tortoise-walking.json](./403187-the-art-of-tortoise-walking.json) |
 | The Art of War: Card Game | 231128 | [231128-the-art-of-war-card-game.json](./231128-the-art-of-war-card-game.json) |
+| The Art Theft by Jay Doherty | 113131 | [113131-the-art-theft-by-jay-doherty.json](./113131-the-art-theft-by-jay-doherty.json) |
 | THE ART: Metamorphosis | 123492 | [123492-the-art-metamorphosis.json](./123492-the-art-metamorphosis.json) |
 | The Artefacts lost in the Galaxy | 128158 | [128158-the-artefacts-lost-in-the-galaxy.json](./128158-the-artefacts-lost-in-the-galaxy.json) |
 | The Artifact of Ancients | 301838 | [301838-the-artifact-of-ancients.json](./301838-the-artifact-of-ancients.json) |
@@ -6757,6 +6760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blades of Ashina | 317519 | [317519-the-blades-of-ashina.json](./317519-the-blades-of-ashina.json) |
 | The Blaggers | 57081 | [57081-the-blaggers.json](./57081-the-blaggers.json) |
 | The Blair Witch Experience | 73541 | [73541-the-blair-witch-experience.json](./73541-the-blair-witch-experience.json) |
+| The Blame | 113215 | [113215-the-blame.json](./113215-the-blame.json) |
 | The Blank Canvas - Hacking Nature | 28600 | [28600-the-blank-canvas-hacking-nature.json](./28600-the-blank-canvas-hacking-nature.json) |
 | The Bleakest Keep | 344344 | [344344-the-bleakest-keep.json](./344344-the-bleakest-keep.json) |
 | The Bleeding Tower Of Pisa | 272924 | [272924-the-bleeding-tower-of-pisa.json](./272924-the-bleeding-tower-of-pisa.json) |
@@ -8467,6 +8471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devil & the Deep Blue Sea | 194434 | [194434-the-devil-and-the-deep-blue-sea.json](./194434-the-devil-and-the-deep-blue-sea.json) |
 | The Devil Ball | 339206 | [339206-the-devil-ball.json](./339206-the-devil-ball.json) |
 | The Devil Game: Action Puzzle Game | 286911 | [286911-the-devil-game-action-puzzle-game.json](./286911-the-devil-game-action-puzzle-game.json) |
+| The Devil Haunts Me | 113225 | [113225-the-devil-haunts-me.json](./113225-the-devil-haunts-me.json) |
 | The Devil Inside | 11786 | [11786-the-devil-inside.json](./11786-the-devil-inside.json) |
 | The Devil on G-String | 26789 | [26789-the-devil-on-g-string.json](./26789-the-devil-on-g-string.json) |
 | The Devil Rais’d the Storm | 349883 | [349883-the-devil-rais-d-the-storm.json](./349883-the-devil-rais-d-the-storm.json) |
@@ -13670,6 +13675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Love of Cooking | 384791 | [384791-the-love-of-cooking.json](./384791-the-love-of-cooking.json) |
 | The Love: Date Simulator with Girls | 271863 | [271863-the-love-date-simulator-with-girls.json](./271863-the-love-date-simulator-with-girls.json) |
 | The Love's Ordeal | 360625 | [360625-the-loves-ordeal.json](./360625-the-loves-ordeal.json) |
+| The Lovebirds | 113226 | [113226-the-lovebirds.json](./113226-the-lovebirds.json) |
 | The Lover of Me | 184328 | [184328-the-lover-of-me.json](./184328-the-lover-of-me.json) |
 | The Lucid Dreamer Bundle | 201012 | [201012-the-lucid-dreamer-bundle.json](./201012-the-lucid-dreamer-bundle.json) |
 | The Luckiest in the Megaverse | 285594 | [285594-the-luckiest-in-the-megaverse.json](./285594-the-luckiest-in-the-megaverse.json) |
@@ -27137,6 +27143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Kourokuen: Glorious and Huge Singer | 377213 | [377213-touhou-kourokuen-glorious-and-huge-singer.json](./377213-touhou-kourokuen-glorious-and-huge-singer.json) |
 | Touhou Kouryuudou: Unconnected Marketeers | 144093 | [144093-touhou-kouryuudou-unconnected-marketeers.json](./144093-touhou-kouryuudou-unconnected-marketeers.json) |
 | Touhou Kouzougi: Flickerframe Shutter Festival | 353646 | [353646-touhou-kouzougi-flickerframe-shutter-festival.json](./353646-touhou-kouzougi-flickerframe-shutter-festival.json) |
+| Touhou KSG Story | 113221 | [113221-touhou-ksg-story.json](./113221-touhou-ksg-story.json) |
 | Touhou Landmine Mahjong | 196162 | [196162-touhou-landmine-mahjong.json](./196162-touhou-landmine-mahjong.json) |
 | Touhou Lensed Night Sky, Kaseigai | 286953 | [286953-touhou-lensed-night-sky-kaseigai.json](./286953-touhou-lensed-night-sky-kaseigai.json) |
 | Touhou Library Survivors | 219544 | [219544-touhou-library-survivors.json](./219544-touhou-library-survivors.json) |
@@ -33132,6 +33139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuna Roll | 325826 | [325826-tuna-roll.json](./325826-tuna-roll.json) |
 | Tuna The Cat | 249184 | [249184-tuna-the-cat.json](./249184-tuna-the-cat.json) |
 | Tunche | 96092 | [96092-tunche.json](./96092-tunche.json) |
+| Tunche: Arena | 113136 | [113136-tunche-arena.json](./113136-tunche-arena.json) |
 | Tundralia: The Frigid Frontier | 192008 | [192008-tundralia-the-frigid-frontier.json](./192008-tundralia-the-frigid-frontier.json) |
 | Tundralia: The Frigid Frontier | 324714 | [324714-tundralia-the-frigid-frontier.json](./324714-tundralia-the-frigid-frontier.json) |
 | Tune Cruiser | 194194 | [194194-tune-cruiser.json](./194194-tune-cruiser.json) |
