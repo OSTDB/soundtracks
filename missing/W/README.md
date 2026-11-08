@@ -7913,6 +7913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Words Scramble: Cities | 245329 | [245329-words-scramble-cities.json](./245329-words-scramble-cities.json) |
 | Words Unleashed | 114715 | [114715-words-unleashed.json](./114715-words-unleashed.json) |
 | Words UP | 104464 | [104464-words-up.json](./104464-words-up.json) |
+| Words Up - Crossword | 106058 | [106058-words-up-crossword.json](./106058-words-up-crossword.json) |
 | Words with AI | 233057 | [233057-words-with-ai.json](./233057-words-with-ai.json) |
 | Words With Foes: Quest for the Lexinomicon | 182843 | [182843-words-with-foes-quest-for-the-lexinomicon.json](./182843-words-with-foes-quest-for-the-lexinomicon.json) |
 | Words With Freds | 192956 | [192956-words-with-freds.json](./192956-words-with-freds.json) |
