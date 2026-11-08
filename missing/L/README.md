@@ -1976,6 +1976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Layover Lovers | 270204 | [270204-layover-lovers.json](./270204-layover-lovers.json) |
 | Laypo Simulator | 188895 | [188895-laypo-simulator.json](./188895-laypo-simulator.json) |
 | Laysara: Summit Kingdom | 186083 | [186083-laysara-summit-kingdom.json](./186083-laysara-summit-kingdom.json) |
+| Layton 7 | 80738 | [80738-layton-7.json](./80738-layton-7.json) |
 | Layton Brothers: Mystery Room | 20912 | [20912-layton-brothers-mystery-room.json](./20912-layton-brothers-mystery-room.json) |
 | Layton's Mystery Journey: Katrielle and the Millionaires' Conspiracy - Deluxe Edition | 120329 | [120329-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition.json](./120329-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition.json) |
 | Layton's Mystery Journey: Katrielle and the Millionaires' Conspiracy - Deluxe Edition Plus | 306201 | [306201-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition-plus.json](./306201-laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition-plus.json) |
@@ -3771,6 +3772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Do Vinery | 354920 | [354920-lets-do-vinery.json](./354920-lets-do-vinery.json) |
 | Let's Draw | 29849 | [29849-lets-draw.json](./29849-lets-draw.json) |
 | Let's Draw A Picture Together! | 68548 | [68548-lets-draw-a-picture-together.json](./68548-lets-draw-a-picture-together.json) |
+| Let's Draw! | 80759 | [80759-lets-draw.json](./80759-lets-draw.json) |
 | Let's Eat! Seaside Cafe | 33465 | [33465-lets-eat-seaside-cafe.json](./33465-lets-eat-seaside-cafe.json) |
 | Let's Explore the Airport | 35469 | [35469-lets-explore-the-airport.json](./35469-lets-explore-the-airport.json) |
 | Let's Explore the Airport | 70323 | [70323-lets-explore-the-airport.json](./70323-lets-explore-the-airport.json) |
