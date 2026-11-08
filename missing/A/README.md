@@ -3825,6 +3825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Trip: New York | 416857 | [416857-adventure-trip-new-york.json](./416857-adventure-trip-new-york.json) |
 | Adventure Trip: New York - Collector's Edition | 212280 | [212280-adventure-trip-new-york-collectors-edition.json](./212280-adventure-trip-new-york-collectors-edition.json) |
 | Adventure Trip: Wonders of the World - Collector's Edition | 357013 | [357013-adventure-trip-wonders-of-the-world-collectors-edition.json](./357013-adventure-trip-wonders-of-the-world-collectors-edition.json) |
+| Adventure Value Pack #1 | 80766 | [80766-adventure-value-pack-1.json](./80766-adventure-value-pack-1.json) |
 | Adventure Value Pack #2 | 77327 | [77327-adventure-value-pack-2.json](./77327-adventure-value-pack-2.json) |
 | Adventure Value Pack #3 | 78679 | [78679-adventure-value-pack-3.json](./78679-adventure-value-pack-3.json) |
 | Adventure Value Pack #4 | 81153 | [81153-adventure-value-pack-4.json](./81153-adventure-value-pack-4.json) |
@@ -9458,6 +9459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anbennar: A Fantasy Total Conversion | 397813 | [397813-anbennar-a-fantasy-total-conversion.json](./397813-anbennar-a-fantasy-total-conversion.json) |
 | Anbot | 419099 | [419099-anbot.json](./419099-anbot.json) |
 | Anceder | 105204 | [105204-anceder.json](./105204-anceder.json) |
+| Ancestor | 80727 | [80727-ancestor.json](./80727-ancestor.json) |
 | Ancestor's Legacy: Conqueror's Edition | 202221 | [202221-ancestors-legacy-conquerors-edition.json](./202221-ancestors-legacy-conquerors-edition.json) |
 | Ancestors Legacy Multiplayer Open Beta | 86625 | [86625-ancestors-legacy-multiplayer-open-beta.json](./86625-ancestors-legacy-multiplayer-open-beta.json) |
 | Ancestors Legacy: Complete Edition | 124895 | [124895-ancestors-legacy-complete-edition.json](./124895-ancestors-legacy-complete-edition.json) |
@@ -13123,6 +13125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Gears: Image Fight & X Multiply | 43756 | [43756-arcade-gears-image-fight-and-x-multiply.json](./43756-arcade-gears-image-fight-and-x-multiply.json) |
 | Arcade Gold featuring Pac-Man | 219420 | [219420-arcade-gold-featuring-pac-man.json](./219420-arcade-gold-featuring-pac-man.json) |
 | Arcade Hero | 358920 | [358920-arcade-hero.json](./358920-arcade-hero.json) |
+| Arcade Hits 2 in 1 | 80749 | [80749-arcade-hits-2-in-1.json](./80749-arcade-hits-2-in-1.json) |
 | Arcade Hits Pack: Gunblade NY and L.A. Machineguns | 6520 | [6520-arcade-hits-pack-gunblade-ny-and-l-a-machineguns.json](./6520-arcade-hits-pack-gunblade-ny-and-l-a-machineguns.json) |
 | Arcade Hole | 208907 | [208907-arcade-hole.json](./208907-arcade-hole.json) |
 | Arcade Hoops Basketball | 47848 | [47848-arcade-hoops-basketball.json](./47848-arcade-hoops-basketball.json) |
