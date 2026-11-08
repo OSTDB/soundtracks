@@ -1240,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Un Petit Noel | 406843 | [406843-un-petit-noel.json](./406843-un-petit-noel.json) |
 | Un Presagio de Huesos | 259751 | [259751-un-presagio-de-huesos.json](./259751-un-presagio-de-huesos.json) |
 | Un Profe | 327561 | [327561-un-profe.json](./327561-un-profe.json) |
+| Un Pueblo de Nada | 131740 | [131740-un-pueblo-de-nada.json](./131740-un-pueblo-de-nada.json) |
 | Un seul jeu | 417815 | [417815-un-seul-jeu.json](./417815-un-seul-jeu.json) |
 | Un-Matching Game | 307293 | [307293-un-matching-game.json](./307293-un-matching-game.json) |
 | Un-Usual Hotline | 352520 | [352520-un-usual-hotline.json](./352520-un-usual-hotline.json) |
