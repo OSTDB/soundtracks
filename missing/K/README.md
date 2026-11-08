@@ -2397,6 +2397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kids Fun Favorites | 89698 | [89698-kids-fun-favorites.json](./89698-kids-fun-favorites.json) |
 | Kids Hair Spa Salon | 95344 | [95344-kids-hair-spa-salon.json](./95344-kids-hair-spa-salon.json) |
 | Kids Halloween Puzzles and Logic Games | 87109 | [87109-kids-halloween-puzzles-and-logic-games.json](./87109-kids-halloween-puzzles-and-logic-games.json) |
+| Kids Hidden Object | 99198 | [99198-kids-hidden-object.json](./99198-kids-hidden-object.json) |
 | Kids in the Kitchen - Cooking Recipes | 95796 | [95796-kids-in-the-kitchen-cooking-recipes.json](./95796-kids-in-the-kitchen-cooking-recipes.json) |
 | Kids Jigsaw Puzzles: Fun Games for Girls & Boys | 232383 | [232383-kids-jigsaw-puzzles-fun-games-for-girls-and-boys.json](./232383-kids-jigsaw-puzzles-fun-games-for-girls-and-boys.json) |
 | Kids Land | 270550 | [270550-kids-land.json](./270550-kids-land.json) |
