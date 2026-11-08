@@ -2039,6 +2039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gargantua | 80241 | [80241-gargantua.json](./80241-gargantua.json) |
 | Gargolite | 183507 | [183507-gargolite.json](./183507-gargolite.json) |
 | Gargouti Simulator | 351775 | [351775-gargouti-simulator.json](./351775-gargouti-simulator.json) |
+| Gargoyle Classics | 137207 | [137207-gargoyle-classics.json](./137207-gargoyle-classics.json) |
 | Gargoyle Garden | 386883 | [386883-gargoyle-garden.json](./386883-gargoyle-garden.json) |
 | Gargoyle Ruins | 175331 | [175331-gargoyle-ruins.json](./175331-gargoyle-ruins.json) |
 | Gargoyle's Quest | 15934 | [15934-gargoyles-quest.json](./15934-gargoyles-quest.json) |
@@ -9819,6 +9820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groove Adventure Rave: Hikari to Yami no Daikessen | 49597 | [49597-groove-adventure-rave-hikari-to-yami-no-daikessen.json](./49597-groove-adventure-rave-hikari-to-yami-no-daikessen.json) |
 | Groove Adventure Rave: Mikan no Hiseki | 69136 | [69136-groove-adventure-rave-mikan-no-hiseki.json](./69136-groove-adventure-rave-mikan-no-hiseki.json) |
 | Groove Adventure Rave: Plue no Daibouken | 69138 | [69138-groove-adventure-rave-plue-no-daibouken.json](./69138-groove-adventure-rave-plue-no-daibouken.json) |
+| Groove Balls | 137180 | [137180-groove-balls.json](./137180-groove-balls.json) |
 | Groove Catch | 194193 | [194193-groove-catch.json](./194193-groove-catch.json) |
 | Groove Catcher | 171583 | [171583-groove-catcher.json](./171583-groove-catcher.json) |
 | Groove Club | 255902 | [255902-groove-club.json](./255902-groove-club.json) |
