@@ -4405,6 +4405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleground Collection 2 | 79377 | [79377-battleground-collection-2.json](./79377-battleground-collection-2.json) |
 | Battleground Fire Strike | 224096 | [224096-battleground-fire-strike.json](./224096-battleground-fire-strike.json) |
 | Battleground Z | 21889 | [21889-battleground-z.json](./21889-battleground-z.json) |
+| Battleground: Ardennes | 80718 | [80718-battleground-ardennes.json](./80718-battleground-ardennes.json) |
 | Battleground: Bulge-Ardennes | 22614 | [22614-battleground-bulge-ardennes.json](./22614-battleground-bulge-ardennes.json) |
 | Battleground's Survivor: Battle Royale | 174853 | [174853-battlegrounds-survivor-battle-royale.json](./174853-battlegrounds-survivor-battle-royale.json) |
 | Battlegrounds | 403592 | [403592-battlegrounds.json](./403592-battlegrounds.json) |
@@ -7691,6 +7692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Fat Neighbor | 83532 | [83532-big-fat-neighbor.json](./83532-big-fat-neighbor.json) |
 | Big Fight: Big Trouble in the Atlantic Ocean | 40233 | [40233-big-fight-big-trouble-in-the-atlantic-ocean.json](./40233-big-fight-big-trouble-in-the-atlantic-ocean.json) |
 | Big Fish | 168488 | [168488-big-fish.json](./168488-big-fish.json) |
+| Big Fish Casino | 80735 | [80735-big-fish-casino.json](./80735-big-fish-casino.json) |
 | Big Fish Legend | 35056 | [35056-big-fish-legend.json](./35056-big-fish-legend.json) |
 | Big Flappy Tower vs. Tiny Square | 166806 | [166806-big-flappy-tower-vs-tiny-square.json](./166806-big-flappy-tower-vs-tiny-square.json) |
 | Big Flying Asteroid | 207675 | [207675-big-flying-asteroid.json](./207675-big-flying-asteroid.json) |
@@ -12398,6 +12400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bobcos | 368479 | [368479-bobcos.json](./368479-bobcos.json) |
 | Bober Bros: The Hole | 306350 | [306350-bober-bros-the-hole.json](./306350-bober-bros-the-hole.json) |
 | Bober Constructions | 330759 | [330759-bober-constructions.json](./330759-bober-constructions.json) |
+| Bobix | 80722 | [80722-bobix.json](./80722-bobix.json) |
 | Böbl | 141431 | [141431-bobl.json](./141431-bobl.json) |
 | Bobls | 185156 | [185156-bobls.json](./185156-bobls.json) |
 | Bobls | 260283 | [260283-bobls.json](./260283-bobls.json) |
@@ -18841,6 +18844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buzludzha VR | 126496 | [126496-buzludzha-vr.json](./126496-buzludzha-vr.json) |
 | Buzz | 232552 | [232552-buzz.json](./232552-buzz.json) |
 | Buzz Aldrin: Cycling Pathways to Mars | 170776 | [170776-buzz-aldrin-cycling-pathways-to-mars.json](./170776-buzz-aldrin-cycling-pathways-to-mars.json) |
+| Buzz Aldrin's Race into Space | 80723 | [80723-buzz-aldrins-race-into-space.json](./80723-buzz-aldrins-race-into-space.json) |
 | Buzz Aldrin's Space Program Manager | 17557 | [17557-buzz-aldrins-space-program-manager.json](./17557-buzz-aldrins-space-program-manager.json) |
 | Buzz Aldrins Race into Space | 50355 | [50355-buzz-aldrins-race-into-space.json](./50355-buzz-aldrins-race-into-space.json) |
 | Buzz Bombers | 356783 | [356783-buzz-bombers.json](./356783-buzz-bombers.json) |
