@@ -11315,6 +11315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House of Shadows | 285695 | [285695-house-of-shadows.json](./285695-house-of-shadows.json) |
 | House of Sin | 189967 | [189967-house-of-sin.json](./189967-house-of-sin.json) |
 | House of Slender-Man | 64425 | [64425-house-of-slender-man.json](./64425-house-of-slender-man.json) |
+| House of Slendrina | 101150 | [101150-house-of-slendrina.json](./101150-house-of-slendrina.json) |
 | House of Snark 6-in-1 Bundle | 32436 | [32436-house-of-snark-6-in-1-bundle.json](./32436-house-of-snark-6-in-1-bundle.json) |
 | House of Specters | 213786 | [213786-house-of-specters.json](./213786-house-of-specters.json) |
 | House of Spikes | 271786 | [271786-house-of-spikes.json](./271786-house-of-spikes.json) |
