@@ -4423,6 +4423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klinok Doblesti 2 | 71791 | [71791-klinok-doblesti-2.json](./71791-klinok-doblesti-2.json) |
 | Klitorax | 221173 | [221173-klitorax.json](./221173-klitorax.json) |
 | Klitter | 390473 | [390473-klitter.json](./390473-klitter.json) |
+| Klix | 91512 | [91512-klix.json](./91512-klix.json) |
 | Klix 2 | 77037 | [77037-klix-2.json](./77037-klix-2.json) |
 | Kloa: Child of the Forest | 209916 | [209916-kloa-child-of-the-forest.json](./209916-kloa-child-of-the-forest.json) |
 | Klock | 126709 | [126709-klock.json](./126709-klock.json) |
@@ -6189,6 +6190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kunai Master | 224024 | [224024-kunai-master.json](./224024-kunai-master.json) |
 | Kunai Strike | 203557 | [203557-kunai-strike.json](./203557-kunai-strike.json) |
 | Kundara: Art of Cards | 381311 | [381311-kundara-art-of-cards.json](./381311-kundara-art-of-cards.json) |
+| Kung Foo! | 91469 | [91469-kung-foo.json](./91469-kung-foo.json) |
 | Kung Food | 12365 | [12365-kung-food.json](./12365-kung-food.json) |
 | Kung Fu | 214458 | [214458-kung-fu.json](./214458-kung-fu.json) |
 | Kung Fu | 359300 | [359300-kung-fu.json](./359300-kung-fu.json) |
