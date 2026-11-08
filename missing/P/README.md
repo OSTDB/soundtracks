@@ -6011,6 +6011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pic Nic do Mickey | 281884 | [281884-pic-nic-do-mickey.json](./281884-pic-nic-do-mickey.json) |
 | Pic Pic | 85344 | [85344-pic-pic.json](./85344-pic-pic.json) |
 | Pic-A-Block | 361462 | [361462-pic-a-block.json](./361462-pic-a-block.json) |
+| Pic-a-Pix Classic | 118533 | [118533-pic-a-pix-classic.json](./118533-pic-a-pix-classic.json) |
 | Pic-a-Pix Classic 2 | 140423 | [140423-pic-a-pix-classic-2.json](./140423-pic-a-pix-classic-2.json) |
 | Pic-a-Pix Color | 82591 | [82591-pic-a-pix-color.json](./82591-pic-a-pix-color.json) |
 | Pic-a-Pix Color 2 | 120799 | [120799-pic-a-pix-color-2.json](./120799-pic-a-pix-color-2.json) |
@@ -9660,6 +9661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs Zombies Expansion | 366941 | [366941-plants-vs-zombies-expansion.json](./366941-plants-vs-zombies-expansion.json) |
 | Plants vs Zombies: DLC Edition Mod | 351501 | [351501-plants-vs-zombies-dlc-edition-mod.json](./351501-plants-vs-zombies-dlc-edition-mod.json) |
 | Plants vs Zombies: Garden Warfare - Garden Variety | 303743 | [303743-plants-vs-zombies-garden-warfare-garden-variety.json](./303743-plants-vs-zombies-garden-warfare-garden-variety.json) |
+| Plants vs Zombies: Garden Warfare 2 - Frosty Deluxe Edition | 118502 | [118502-plants-vs-zombies-garden-warfare-2-frosty-deluxe-edition.json](./118502-plants-vs-zombies-garden-warfare-2-frosty-deluxe-edition.json) |
 | Plants vs Zombies: Neighborhood Defense | 336549 | [336549-plants-vs-zombies-neighborhood-defense.json](./336549-plants-vs-zombies-neighborhood-defense.json) |
 | Plants vs. SiIvaGunner | 308024 | [308024-plants-vs-siivagunner.json](./308024-plants-vs-siivagunner.json) |
 | Plants vs. Zombies | 163213 | [163213-plants-vs-zombies.json](./163213-plants-vs-zombies.json) |
@@ -12953,6 +12955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n Tanks | 43802 | [43802-popn-tanks.json](./43802-popn-tanks.json) |
 | Pop'n TwinBee | 144657 | [144657-popn-twinbee.json](./144657-popn-twinbee.json) |
 | Pop'n Twinbee: Rainbow Bell Adventures | 42473 | [42473-popn-twinbee-rainbow-bell-adventures.json](./42473-popn-twinbee-rainbow-bell-adventures.json) |
+| Pop'n'splat | 118527 | [118527-popnsplat.json](./118527-popnsplat.json) |
 | Pop's | 190425 | [190425-pops.json](./190425-pops.json) |
 | Pop's Gun | 409126 | [409126-pops-gun.json](./409126-pops-gun.json) |
 | Pop's Pipes / Slurp | 206462 | [206462-pops-pipes-slurp.json](./206462-pops-pipes-slurp.json) |
@@ -13260,6 +13263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal Reloaded: The Cooperative Update | 252594 | [252594-portal-reloaded-the-cooperative-update.json](./252594-portal-reloaded-the-cooperative-update.json) |
 | Portal Rescue | 180809 | [180809-portal-rescue.json](./180809-portal-rescue.json) |
 | Portal Returns CE | 285154 | [285154-portal-returns-ce.json](./285154-portal-returns-ce.json) |
+| Portal Runner | 118487 | [118487-portal-runner.json](./118487-portal-runner.json) |
 | Portal Runner | 49954 | [49954-portal-runner.json](./49954-portal-runner.json) |
 | Portal Shooter | 364808 | [364808-portal-shooter.json](./364808-portal-shooter.json) |
 | Portal Shot Gun Teleport | 290436 | [290436-portal-shot-gun-teleport.json](./290436-portal-shot-gun-teleport.json) |
