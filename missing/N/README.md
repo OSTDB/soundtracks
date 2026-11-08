@@ -3182,6 +3182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverwinter Nights 2: Platinum | 28972 | [28972-neverwinter-nights-2-platinum.json](./28972-neverwinter-nights-2-platinum.json) |
 | Neverwinter Nights 2: Storm of Zehir | 3144 | [3144-neverwinter-nights-2-storm-of-zehir.json](./3144-neverwinter-nights-2-storm-of-zehir.json) |
 | Neverwinter Nights: Dark Dreams of Furiae | 155077 | [155077-neverwinter-nights-dark-dreams-of-furiae.json](./155077-neverwinter-nights-dark-dreams-of-furiae.json) |
+| Neverwinter Nights: Darkness Over Daggerford | 124944 | [124944-neverwinter-nights-darkness-over-daggerford.json](./124944-neverwinter-nights-darkness-over-daggerford.json) |
 | Neverwinter Nights: Diamond | 50323 | [50323-neverwinter-nights-diamond.json](./50323-neverwinter-nights-diamond.json) |
 | Neverwinter Nights: Enhanced Edition | 23719 | [23719-neverwinter-nights-enhanced-edition.json](./23719-neverwinter-nights-enhanced-edition.json) |
 | Neverwinter Nights: Enhanced Edition - Doom of Icewind Dale | 332626 | [332626-neverwinter-nights-enhanced-edition-doom-of-icewind-dale.json](./332626-neverwinter-nights-enhanced-edition-doom-of-icewind-dale.json) |
