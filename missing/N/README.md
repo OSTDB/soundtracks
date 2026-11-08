@@ -5104,6 +5104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Akio | 212115 | [212115-ninja-akio.json](./212115-ninja-akio.json) |
 | Ninja Arashi | 264440 | [264440-ninja-arashi.json](./264440-ninja-arashi.json) |
 | Ninja Arashi 2 | 223997 | [223997-ninja-arashi-2.json](./223997-ninja-arashi-2.json) |
+| Ninja Arena | 110571 | [110571-ninja-arena.json](./110571-ninja-arena.json) |
 | Ninja Arena | 376804 | [376804-ninja-arena.json](./376804-ninja-arena.json) |
 | Ninja Assassin | 228138 | [228138-ninja-assassin.json](./228138-ninja-assassin.json) |
 | Ninja Assault | 13901 | [13901-ninja-assault.json](./13901-ninja-assault.json) |
