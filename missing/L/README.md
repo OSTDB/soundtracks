@@ -4648,6 +4648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life on Mars: Genesis | 265456 | [265456-life-on-mars-genesis.json](./265456-life-on-mars-genesis.json) |
 | Life on Mars? | 59700 | [59700-life-on-mars.json](./59700-life-on-mars.json) |
 | Life on the Earth | 175677 | [175677-life-on-the-earth.json](./175677-life-on-the-earth.json) |
+| Life on the Hook | 123731 | [123731-life-on-the-hook.json](./123731-life-on-the-hook.json) |
 | Life One | 114867 | [114867-life-one.json](./114867-life-one.json) |
 | Life or Reach | 293674 | [293674-life-or-reach.json](./293674-life-or-reach.json) |
 | Life Organizer | 214320 | [214320-life-organizer.json](./214320-life-organizer.json) |
