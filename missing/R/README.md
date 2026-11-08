@@ -2196,6 +2196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ratchet & Clank Future: Tools of Destruction | 1792 | [1792-ratchet-and-clank-future-tools-of-destruction.json](./1792-ratchet-and-clank-future-tools-of-destruction.json) |
 | Ratchet & Clank: A Crack in Time - Collector's Edition | 45276 | [45276-ratchet-and-clank-a-crack-in-time-collectors-edition.json](./45276-ratchet-and-clank-a-crack-in-time-collectors-edition.json) |
 | Ratchet & Clank: All 4 One | 1796 | [1796-ratchet-and-clank-all-4-one.json](./1796-ratchet-and-clank-all-4-one.json) |
+| Ratchet & Clank: Before the Nexus | 78234 | [78234-ratchet-and-clank-before-the-nexus.json](./78234-ratchet-and-clank-before-the-nexus.json) |
 | Ratchet & Clank: Clone Home | 225652 | [225652-ratchet-and-clank-clone-home.json](./225652-ratchet-and-clank-clone-home.json) |
 | Ratchet & Clank: Full Frontal Assault | 1797 | [1797-ratchet-and-clank-full-frontal-assault.json](./1797-ratchet-and-clank-full-frontal-assault.json) |
 | Ratchet & Clank: Going Commando | 1770 | [1770-ratchet-and-clank-going-commando.json](./1770-ratchet-and-clank-going-commando.json) |
@@ -10137,6 +10138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rodgerbints: Romance and Scandal in High Society | 328488 | [328488-rodgerbints-romance-and-scandal-in-high-society.json](./328488-rodgerbints-romance-and-scandal-in-high-society.json) |
 | Rodina.doc | 174065 | [174065-rodina-doc.json](./174065-rodina-doc.json) |
 | Rodney's Funscreen 2 Extreme | 257256 | [257256-rodneys-funscreen-2-extreme.json](./257256-rodneys-funscreen-2-extreme.json) |
+| Rodney's Wonder Window | 78226 | [78226-rodneys-wonder-window.json](./78226-rodneys-wonder-window.json) |
 | Rododendron | 370721 | [370721-rododendron.json](./370721-rododendron.json) |
 | Rodolfo Mascarpone y Ramón Cazanuecos: Amenaza en el Molinillo | 262737 | [262737-rodolfo-mascarpone-y-ramon-cazanuecos-amenaza-en-el-molinillo.json](./262737-rodolfo-mascarpone-y-ramon-cazanuecos-amenaza-en-el-molinillo.json) |
 | Rods: Rod Roll | 316152 | [316152-rods-rod-roll.json](./316152-rods-rod-roll.json) |
