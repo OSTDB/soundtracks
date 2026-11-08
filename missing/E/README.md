@@ -2480,6 +2480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elephantasy | 143407 | [143407-elephantasy.json](./143407-elephantasy.json) |
 | Elephantasy: Flipside | 235706 | [235706-elephantasy-flipside.json](./235706-elephantasy-flipside.json) |
 | Elephants and Snakes and Crocodiles | 303198 | [303198-elephants-and-snakes-and-crocodiles.json](./303198-elephants-and-snakes-and-crocodiles.json) |
+| Elephants Can't Jump | 115252 | [115252-elephants-cant-jump.json](./115252-elephants-cant-jump.json) |
 | Elephants Remember | 185201 | [185201-elephants-remember.json](./185201-elephants-remember.json) |
 | Elepong | 69367 | [69367-elepong.json](./69367-elepong.json) |
 | Elerena | 153855 | [153855-elerena.json](./153855-elerena.json) |
@@ -2538,6 +2539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eleven | 361429 | [361429-eleven.json](./361429-eleven.json) |
 | Eleven Beat World Tournament | 299780 | [299780-eleven-beat-world-tournament.json](./299780-eleven-beat-world-tournament.json) |
 | Eleven Eleven | 118433 | [118433-eleven-eleven.json](./118433-eleven-eleven.json) |
+| Eleven Islands | 115222 | [115222-eleven-islands.json](./115222-eleven-islands.json) |
 | Eleven Islands Puzzle | 102640 | [102640-eleven-islands-puzzle.json](./102640-eleven-islands-puzzle.json) |
 | Eleven Pickleball | 341121 | [341121-eleven-pickleball.json](./341121-eleven-pickleball.json) |
 | Eleven Prophecies | 117899 | [117899-eleven-prophecies.json](./117899-eleven-prophecies.json) |
