@@ -4840,6 +4840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel: Ultimate Alliance Bundle | 22400 | [22400-marvel-ultimate-alliance-bundle.json](./22400-marvel-ultimate-alliance-bundle.json) |
 | Marvel's Avengers Definitive Edition | 259466 | [259466-marvels-avengers-definitive-edition.json](./259466-marvels-avengers-definitive-edition.json) |
 | Marvel's Avengers: Black Panther - War for Wakanda | 144774 | [144774-marvels-avengers-black-panther-war-for-wakanda.json](./144774-marvels-avengers-black-panther-war-for-wakanda.json) |
+| Marvel's Avengers: Earth's Mightiest Edition | 135971 | [135971-marvels-avengers-earths-mightiest-edition.json](./135971-marvels-avengers-earths-mightiest-edition.json) |
 | Marvel's Avengers: Endgame Edition | 165868 | [165868-marvels-avengers-endgame-edition.json](./165868-marvels-avengers-endgame-edition.json) |
 | Marvel's Avengers: Exclusive Digital Edition | 133844 | [133844-marvels-avengers-exclusive-digital-edition.json](./133844-marvels-avengers-exclusive-digital-edition.json) |
 | Marvel's Avengers: Hawkeye - Future Imperfect | 138181 | [138181-marvels-avengers-hawkeye-future-imperfect.json](./138181-marvels-avengers-hawkeye-future-imperfect.json) |
@@ -4875,6 +4876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Spider-Man: Miles Morales - Ultimate Launch Edition | 262164 | [262164-marvels-spider-man-miles-morales-ultimate-launch-edition.json](./262164-marvels-spider-man-miles-morales-ultimate-launch-edition.json) |
 | Marvel's Spider-Man: New Game Plus Update | 251543 | [251543-marvels-spider-man-new-game-plus-update.json](./251543-marvels-spider-man-new-game-plus-update.json) |
 | Marvel's Spider-Man: Silver Lining | 109422 | [109422-marvels-spider-man-silver-lining.json](./109422-marvels-spider-man-silver-lining.json) |
+| Marvel's Spider-Man: Special Edition | 136022 | [136022-marvels-spider-man-special-edition.json](./136022-marvels-spider-man-special-edition.json) |
 | Marvel's Spider-Man: The Great Web | 378149 | [378149-marvels-spider-man-the-great-web.json](./378149-marvels-spider-man-the-great-web.json) |
 | Marvel's Spider-Man: The Heist | 109419 | [109419-marvels-spider-man-the-heist.json](./109419-marvels-spider-man-the-heist.json) |
 | Marvel's Spider-Man: Turf Wars | 109421 | [109421-marvels-spider-man-turf-wars.json](./109421-marvels-spider-man-turf-wars.json) |
@@ -6012,7 +6014,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
