@@ -2098,6 +2098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies in City: Apocalypse Survival | 215115 | [215115-zombies-in-city-apocalypse-survival.json](./215115-zombies-in-city-apocalypse-survival.json) |
 | Zombies in Metropolis | 230898 | [230898-zombies-in-metropolis.json](./230898-zombies-in-metropolis.json) |
 | Zombies in Space | 143602 | [143602-zombies-in-space.json](./143602-zombies-in-space.json) |
+| Zombies in the Forest | 115902 | [115902-zombies-in-the-forest.json](./115902-zombies-in-the-forest.json) |
 | Zombies In Valkeala | 369750 | [369750-zombies-in-valkeala.json](./369750-zombies-in-valkeala.json) |
 | Zombies Inc | 104617 | [104617-zombies-inc.json](./104617-zombies-inc.json) |
 | Zombies Invasion | 204899 | [204899-zombies-invasion.json](./204899-zombies-invasion.json) |
