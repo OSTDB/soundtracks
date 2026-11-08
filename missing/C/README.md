@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Big Game Hunter 2012 | 6649 | [6649-cabelas-big-game-hunter-2012.json](./6649-cabelas-big-game-hunter-2012.json) |
 | Cabela's Big Game Hunter 4 | 123687 | [123687-cabelas-big-game-hunter-4.json](./123687-cabelas-big-game-hunter-4.json) |
 | Cabela's Big Game Hunter 6 | 80409 | [80409-cabelas-big-game-hunter-6.json](./80409-cabelas-big-game-hunter-6.json) |
+| Cabela's Big Game Hunter II | 95493 | [95493-cabelas-big-game-hunter-ii.json](./95493-cabelas-big-game-hunter-ii.json) |
 | Cabela's Big Game Hunter II: Open Season | 70190 | [70190-cabelas-big-game-hunter-ii-open-season.json](./70190-cabelas-big-game-hunter-ii-open-season.json) |
 | Cabela's Big Game Hunter III | 73772 | [73772-cabelas-big-game-hunter-iii.json](./73772-cabelas-big-game-hunter-iii.json) |
 | Cabela's Big Game Hunter III: The Next Harvest | 73693 | [73693-cabelas-big-game-hunter-iii-the-next-harvest.json](./73693-cabelas-big-game-hunter-iii-the-next-harvest.json) |
@@ -8366,6 +8367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Mahjong 2 | 109342 | [109342-christmas-mahjong-2.json](./109342-christmas-mahjong-2.json) |
 | Christmas Mansion | 100190 | [100190-christmas-mansion.json](./100190-christmas-mansion.json) |
 | Christmas Mansion | 196116 | [196116-christmas-mansion.json](./196116-christmas-mansion.json) |
+| Christmas Mansion 3 | 95530 | [95530-christmas-mansion-3.json](./95530-christmas-mansion-3.json) |
 | Christmas Massacre | 186281 | [186281-christmas-massacre.json](./186281-christmas-massacre.json) |
 | Christmas Massacre VR | 29952 | [29952-christmas-massacre-vr.json](./29952-christmas-massacre-vr.json) |
 | Christmas Matchup | 92963 | [92963-christmas-matchup.json](./92963-christmas-matchup.json) |
@@ -14941,6 +14943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coppy Tour | 369693 | [369693-coppy-tour.json](./369693-coppy-tour.json) |
 | Cops | 307344 | [307344-cops.json](./307344-cops.json) |
 | Cops | 321871 | [321871-cops.json](./321871-cops.json) |
+| Cops 'n' Robbers | 95488 | [95488-cops-n-robbers.json](./95488-cops-n-robbers.json) |
 | Cops and Robbers Fight | 105917 | [105917-cops-and-robbers-fight.json](./105917-cops-and-robbers-fight.json) |
 | Cops and Robbers! | 251506 | [251506-cops-and-robbers.json](./251506-cops-and-robbers.json) |
 | Cops Kissing Each Other | 118078 | [118078-cops-kissing-each-other.json](./118078-cops-kissing-each-other.json) |
@@ -17275,6 +17278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Mazey | 59902 | [59902-crazy-mazey.json](./59902-crazy-mazey.json) |
 | Crazy Miner | 299841 | [299841-crazy-miner.json](./299841-crazy-miner.json) |
 | Crazy Mini Golf Arcade | 123215 | [123215-crazy-mini-golf-arcade.json](./123215-crazy-mini-golf-arcade.json) |
+| Crazy Minigolf | 95510 | [95510-crazy-minigolf.json](./95510-crazy-minigolf.json) |
 | Crazy Minigolf 3D | 52323 | [52323-crazy-minigolf-3d.json](./52323-crazy-minigolf-3d.json) |
 | Crazy Mob | 61603 | [61603-crazy-mob.json](./61603-crazy-mob.json) |
 | Crazy module | 284986 | [284986-crazy-module.json](./284986-crazy-module.json) |
