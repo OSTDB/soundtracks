@@ -7079,6 +7079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Eden | 37397 | [37397-beyond-eden.json](./37397-beyond-eden.json) |
 | Beyond El Dorado | 58841 | [58841-beyond-el-dorado.json](./58841-beyond-el-dorado.json) |
 | Beyond Enemy Lines 2 | 117082 | [117082-beyond-enemy-lines-2.json](./117082-beyond-enemy-lines-2.json) |
+| Beyond Enemy Lines 2 Online | 128112 | [128112-beyond-enemy-lines-2-online.json](./128112-beyond-enemy-lines-2-online.json) |
 | Beyond Enemy Lines 2: Enhanced Edition | 242371 | [242371-beyond-enemy-lines-2-enhanced-edition.json](./242371-beyond-enemy-lines-2-enhanced-edition.json) |
 | Beyond Enemy Lines: Covert Operations | 115467 | [115467-beyond-enemy-lines-covert-operations.json](./115467-beyond-enemy-lines-covert-operations.json) |
 | Beyond Enemy Lines: Essentials | 147869 | [147869-beyond-enemy-lines-essentials.json](./147869-beyond-enemy-lines-essentials.json) |
@@ -8614,6 +8615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birth of the Empires | 176175 | [176175-birth-of-the-empires.json](./176175-birth-of-the-empires.json) |
 | Birth of X | 358448 | [358448-birth-of-x.json](./358448-birth-of-x.json) |
 | Birth Order | 61071 | [61071-birth-order.json](./61071-birth-order.json) |
+| Birth to Death | 128103 | [128103-birth-to-death.json](./128103-birth-to-death.json) |
 | Birthday Blues | 177881 | [177881-birthday-blues.json](./177881-birthday-blues.json) |
 | Birthday Boy | 399612 | [399612-birthday-boy.json](./399612-birthday-boy.json) |
 | Birthday Boy and Benny | 272646 | [272646-birthday-boy-and-benny.json](./272646-birthday-boy-and-benny.json) |
