@@ -4812,6 +4812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nights at the Clown Maze | 111611 | [111611-nights-at-the-clown-maze.json](./111611-nights-at-the-clown-maze.json) |
 | Nights at the Convenience Store | 408014 | [408014-nights-at-the-convenience-store.json](./408014-nights-at-the-convenience-store.json) |
 | Nights in Endless Dream | 388366 | [388366-nights-in-endless-dream.json](./388366-nights-in-endless-dream.json) |
+| Nights in Pizzeria | 96815 | [96815-nights-in-pizzeria.json](./96815-nights-in-pizzeria.json) |
 | Nights into Dreams | 199025 | [199025-nights-into-dreams.json](./199025-nights-into-dreams.json) |
 | Nights Into Dreams | 19903 | [19903-nights-into-dreams.json](./19903-nights-into-dreams.json) |
 | Nights into Dreams: Pizza Tower | 265072 | [265072-nights-into-dreams-pizza-tower.json](./265072-nights-into-dreams-pizza-tower.json) |
