@@ -405,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daidassou | 237548 | [237548-daidassou.json](./237548-daidassou.json) |
 | Daienkai Buchou | 293138 | [293138-daienkai-buchou.json](./293138-daienkai-buchou.json) |
 | Daifugo F.net | 113590 | [113590-daifugo-f-net.json](./113590-daifugo-f-net.json) |
+| Daigaku Gurashi | 97423 | [97423-daigaku-gurashi.json](./97423-daigaku-gurashi.json) |
 | Daigasso! Band Brothers | 28559 | [28559-daigasso-band-brothers.json](./28559-daigasso-band-brothers.json) |
 | Daigasso! Band Brothers P | 64394 | [64394-daigasso-band-brothers-p.json](./64394-daigasso-band-brothers-p.json) |
 | Daigasso! Band Brothers Request Selection | 69240 | [69240-daigasso-band-brothers-request-selection.json](./69240-daigasso-band-brothers-request-selection.json) |
@@ -3243,6 +3244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DC Worlds Collide | 193782 | [193782-dc-worlds-collide.json](./193782-dc-worlds-collide.json) |
 | DC: Batman Bat-Tech Edition | 309605 | [309605-dc-batman-bat-tech-edition.json](./309605-dc-batman-bat-tech-edition.json) |
 | DC: Dark Legion | 283384 | [283384-dc-dark-legion.json](./283384-dc-dark-legion.json) |
+| DC: Unchained | 97390 | [97390-dc-unchained.json](./97390-dc-unchained.json) |
 | DC's Justice League: Cosmic Chaos | 228740 | [228740-dcs-justice-league-cosmic-chaos.json](./228740-dcs-justice-league-cosmic-chaos.json) |
 | DC3: Viral Menace | 244360 | [244360-dc3-viral-menace.json](./244360-dc3-viral-menace.json) |
 | DCA3 | 327237 | [327237-dca3.json](./327237-dca3.json) |
@@ -4672,6 +4674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Game | 206153 | [206153-death-game.json](./206153-death-game.json) |
 | Death Game Hotel | 251554 | [251554-death-game-hotel.json](./251554-death-game-hotel.json) |
 | Death Game Royale | 231418 | [231418-death-game-royale.json](./231418-death-game-royale.json) |
+| Death Game+ | 97011 | [97011-death-game.json](./97011-death-game.json) |
 | Death Gasp | 120732 | [120732-death-gasp.json](./120732-death-gasp.json) |
 | Death Gasp VR | 129975 | [129975-death-gasp-vr.json](./129975-death-gasp-vr.json) |
 | Death Gate | 2488 | [2488-death-gate.json](./2488-death-gate.json) |
@@ -12430,6 +12433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolls Frontline | 175046 | [175046-dolls-frontline.json](./175046-dolls-frontline.json) |
 | Dolls Made Here | 390082 | [390082-dolls-made-here.json](./390082-dolls-made-here.json) |
 | Dolls Nest | 286376 | [286376-dolls-nest.json](./286376-dolls-nest.json) |
+| Dolls Order | 97406 | [97406-dolls-order.json](./97406-dolls-order.json) |
 | Dolls: The Hunt | 310205 | [310205-dolls-the-hunt.json](./310205-dolls-the-hunt.json) |
 | Dolls' Domain | 305888 | [305888-dolls-domain.json](./305888-dolls-domain.json) |
 | Dollshouse | 381939 | [381939-dollshouse.json](./381939-dollshouse.json) |
@@ -13342,6 +13346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle God: Fantasy World of Magic | 186346 | [186346-doodle-god-fantasy-world-of-magic.json](./186346-doodle-god-fantasy-world-of-magic.json) |
 | Doodle God: Genesis Secrets | 99617 | [99617-doodle-god-genesis-secrets.json](./99617-doodle-god-genesis-secrets.json) |
 | Doodle God: Merge Evolution | 334699 | [334699-doodle-god-merge-evolution.json](./334699-doodle-god-merge-evolution.json) |
+| Doodle God: Mighty Trio | 97030 | [97030-doodle-god-mighty-trio.json](./97030-doodle-god-mighty-trio.json) |
 | Doodle God: Ultimate Edition | 82384 | [82384-doodle-god-ultimate-edition.json](./82384-doodle-god-ultimate-edition.json) |
 | Doodle Harmony | 267284 | [267284-doodle-harmony.json](./267284-doodle-harmony.json) |
 | Doodle Harmony Idle Merge | 303487 | [303487-doodle-harmony-idle-merge.json](./303487-doodle-harmony-idle-merge.json) |
