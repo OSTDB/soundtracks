@@ -2044,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Crystals | 219509 | [219509-3-crystals.json](./219509-3-crystals.json) |
 | 3 Cushion Masters | 153462 | [153462-3-cushion-masters.json](./153462-3-cushion-masters.json) |
 | 3 Day Eventing: The Ultimate Riding Adventure | 205829 | [205829-3-day-eventing-the-ultimate-riding-adventure.json](./205829-3-day-eventing-the-ultimate-riding-adventure.json) |
+| 3 Days in the Abyss | 112450 | [112450-3-days-in-the-abyss.json](./112450-3-days-in-the-abyss.json) |
 | 3 Days of Tactical Farming | 185000 | [185000-3-days-of-tactical-farming.json](./185000-3-days-of-tactical-farming.json) |
 | 3 Days to Live | 379898 | [379898-3-days-to-live.json](./379898-3-days-to-live.json) |
 | 3 Days: Amulet Secret | 25464 | [25464-3-days-amulet-secret.json](./25464-3-days-amulet-secret.json) |
