@@ -2659,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperator: Invictus | 356069 | [356069-imperator-invictus.json](./356069-imperator-invictus.json) |
 | Imperator: Rome | 102060 | [102060-imperator-rome.json](./102060-imperator-rome.json) |
 | Imperator: Rome - Centurion Bundle | 154494 | [154494-imperator-rome-centurion-bundle.json](./154494-imperator-rome-centurion-bundle.json) |
+| Imperator: Rome - Deluxe Edition | 115190 | [115190-imperator-rome-deluxe-edition.json](./115190-imperator-rome-deluxe-edition.json) |
 | Imperator: Rome - Epirus Content Pack | 154498 | [154498-imperator-rome-epirus-content-pack.json](./154498-imperator-rome-epirus-content-pack.json) |
 | Imperator: Rome - Heirs of Alexander Content Pack | 154495 | [154495-imperator-rome-heirs-of-alexander-content-pack.json](./154495-imperator-rome-heirs-of-alexander-content-pack.json) |
 | Imperator: Rome - Magna Graecia Content Pack | 154497 | [154497-imperator-rome-magna-graecia-content-pack.json](./154497-imperator-rome-magna-graecia-content-pack.json) |
