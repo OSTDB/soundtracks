@@ -2705,6 +2705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Escape: Wrath of Victoria | 62759 | [62759-haunted-escape-wrath-of-victoria.json](./62759-haunted-escape-wrath-of-victoria.json) |
 | Haunted Experiment | 171682 | [171682-haunted-experiment.json](./171682-haunted-experiment.json) |
 | Haunted Game | 181026 | [181026-haunted-game.json](./181026-haunted-game.json) |
+| Haunted Garage | 135378 | [135378-haunted-garage.json](./135378-haunted-garage.json) |
 | Haunted Gas Station | 123976 | [123976-haunted-gas-station.json](./123976-haunted-gas-station.json) |
 | Haunted Girls | 212999 | [212999-haunted-girls.json](./212999-haunted-girls.json) |
 | Haunted Graveyard | 399428 | [399428-haunted-graveyard.json](./399428-haunted-graveyard.json) |
@@ -10873,6 +10874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotball | 91663 | [91663-hotball.json](./91663-hotball.json) |
 | HotBlood Drift | 233168 | [233168-hotblood-drift.json](./233168-hotblood-drift.json) |
 | HotBunz | 235902 | [235902-hotbunz.json](./235902-hotbunz.json) |
+| HotCake! | 135420 | [135420-hotcake.json](./135420-hotcake.json) |
 | HotCarts | 339143 | [339143-hotcarts.json](./339143-hotcarts.json) |
 | Hotch Kiss | 148358 | [148358-hotch-kiss.json](./148358-hotch-kiss.json) |
 | Hotch Kiss | 63302 | [63302-hotch-kiss.json](./63302-hotch-kiss.json) |
