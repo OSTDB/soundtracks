@@ -1507,6 +1507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Drop Yurutto | 67846 | [67846-magical-drop-yurutto.json](./67846-magical-drop-yurutto.json) |
 | Magical Error wo Sagase | 268846 | [268846-magical-error-wo-sagase.json](./268846-magical-error-wo-sagase.json) |
 | Magical Escape | 194660 | [194660-magical-escape.json](./194660-magical-escape.json) |
+| Magical Fable: The Princess of Light | 99287 | [99287-magical-fable-the-princess-of-light.json](./99287-magical-fable-the-princess-of-light.json) |
 | Magical Fairy Force: Champion Edition | 220436 | [220436-magical-fairy-force-champion-edition.json](./220436-magical-fairy-force-champion-edition.json) |
 | Magical Fantasista | 289588 | [289588-magical-fantasista.json](./289588-magical-fantasista.json) |
 | Magical Fantasista II | 292071 | [292071-magical-fantasista-ii.json](./292071-magical-fantasista-ii.json) |
@@ -4546,6 +4547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Wars | 117583 | [117583-mars-wars.json](./117583-mars-wars.json) |
 | Mars Xplorer | 239114 | [239114-mars-xplorer.json](./239114-mars-xplorer.json) |
 | Mars: Chaos Menace | 111712 | [111712-mars-chaos-menace.json](./111712-mars-chaos-menace.json) |
+| Mars: Mars | 99293 | [99293-mars-mars.json](./99293-mars-mars.json) |
 | Mars: The Last Exodus | 333035 | [333035-mars-the-last-exodus.json](./333035-mars-the-last-exodus.json) |
 | Mars: The New Eden | 215618 | [215618-mars-the-new-eden.json](./215618-mars-the-new-eden.json) |
 | Mars: War Logs | 1830 | [1830-mars-war-logs.json](./1830-mars-war-logs.json) |
@@ -12940,6 +12942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Puzzle Bomb | 104113 | [104113-minesweeper-puzzle-bomb.json](./104113-minesweeper-puzzle-bomb.json) |
 | Minesweeper Q Premium | 174254 | [174254-minesweeper-q-premium.json](./174254-minesweeper-q-premium.json) |
 | MineSweeper Reloaded | 91089 | [91089-minesweeper-reloaded.json](./91089-minesweeper-reloaded.json) |
+| Minesweeper Retro | 99825 | [99825-minesweeper-retro.json](./99825-minesweeper-retro.json) |
 | Minesweeper Run | 151757 | [151757-minesweeper-run.json](./151757-minesweeper-run.json) |
 | MineSweeper Rush | 362387 | [362387-minesweeper-rush.json](./362387-minesweeper-rush.json) |
 | MineSweeper Tetris | 228952 | [228952-minesweeper-tetris.json](./228952-minesweeper-tetris.json) |
