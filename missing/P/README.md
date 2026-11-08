@@ -579,6 +579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pad Quad | 376144 | [376144-pad-quad.json](./376144-pad-quad.json) |
 | Paddington Bear | 56556 | [56556-paddington-bear.json](./56556-paddington-bear.json) |
 | Paddington Run | 83249 | [83249-paddington-run.json](./83249-paddington-run.json) |
+| Paddington: The World Mystery Tour | 124343 | [124343-paddington-the-world-mystery-tour.json](./124343-paddington-the-world-mystery-tour.json) |
 | Paddington's Early Visit | 83251 | [83251-paddingtons-early-visit.json](./83251-paddingtons-early-visit.json) |
 | Paddington's Garden Game | 83250 | [83250-paddingtons-garden-game.json](./83250-paddingtons-garden-game.json) |
 | Paddle Battle | 172781 | [172781-paddle-battle.json](./172781-paddle-battle.json) |
@@ -9684,6 +9685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plants vs. Zombies Plus | 271938 | [271938-plants-vs-zombies-plus.json](./271938-plants-vs-zombies-plus.json) |
 | Plants vs. Zombies Presents: Talking Zombatar | 284386 | [284386-plants-vs-zombies-presents-talking-zombatar.json](./284386-plants-vs-zombies-presents-talking-zombatar.json) |
 | Plants vs. Zombies Reseeded | 272051 | [272051-plants-vs-zombies-reseeded.json](./272051-plants-vs-zombies-reseeded.json) |
+| Plants vs. Zombies: All Stars | 124371 | [124371-plants-vs-zombies-all-stars.json](./124371-plants-vs-zombies-all-stars.json) |
 | Plants vs. Zombies: Back to the Roots | 228263 | [228263-plants-vs-zombies-back-to-the-roots.json](./228263-plants-vs-zombies-back-to-the-roots.json) |
 | Plants vs. Zombies: Battle for Neighborville | 121618 | [121618-plants-vs-zombies-battle-for-neighborville.json](./121618-plants-vs-zombies-battle-for-neighborville.json) |
 | Plants vs. Zombies: Battle for Neighborville - Complete Edition | 142819 | [142819-plants-vs-zombies-battle-for-neighborville-complete-edition.json](./142819-plants-vs-zombies-battle-for-neighborville-complete-edition.json) |
@@ -15247,6 +15249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prizefighters | 239914 | [239914-prizefighters.json](./239914-prizefighters.json) |
 | Prizefighters 2 | 152668 | [152668-prizefighters-2.json](./152668-prizefighters-2.json) |
 | PrizeMap | 398641 | [398641-prizemap.json](./398641-prizemap.json) |
+| Prizhm: Fantastic Side Scrolling STG | 124383 | [124383-prizhm-fantastic-side-scrolling-stg.json](./124383-prizhm-fantastic-side-scrolling-stg.json) |
 | Prizm | 92899 | [92899-prizm.json](./92899-prizm.json) |
 | Prizma Puzzle Classic | 378184 | [378184-prizma-puzzle-classic.json](./378184-prizma-puzzle-classic.json) |
 | Prizma Puzzle Prime | 234275 | [234275-prizma-puzzle-prime.json](./234275-prizma-puzzle-prime.json) |
