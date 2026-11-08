@@ -4341,6 +4341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gift From God | 411770 | [411770-gift-from-god.json](./411770-gift-from-god.json) |
 | Gift Giving Up | 141746 | [141746-gift-giving-up.json](./141746-gift-giving-up.json) |
 | Gift of Life: Key of Solomon | 88228 | [88228-gift-of-life-key-of-solomon.json](./88228-gift-of-life-key-of-solomon.json) |
+| Gift of Parthax | 96162 | [96162-gift-of-parthax.json](./96162-gift-of-parthax.json) |
 | Gift of Spring | 82189 | [82189-gift-of-spring.json](./82189-gift-of-spring.json) |
 | Gift Quest: Christmas Edition | 255643 | [255643-gift-quest-christmas-edition.json](./255643-gift-quest-christmas-edition.json) |
 | Gift Quest: Valentine's Day | 255655 | [255655-gift-quest-valentines-day.json](./255655-gift-quest-valentines-day.json) |
@@ -11508,6 +11509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunslinger Stratos Reloaded | 60591 | [60591-gunslinger-stratos-reloaded.json](./60591-gunslinger-stratos-reloaded.json) |
 | Gunslinger Trainer | 33158 | [33158-gunslinger-trainer.json](./33158-gunslinger-trainer.json) |
 | Gunslinger Valley | 187387 | [187387-gunslinger-valley.json](./187387-gunslinger-valley.json) |
+| Gunslinger, the first old west duel simulator | 96152 | [96152-gunslinger-the-first-old-west-duel-simulator.json](./96152-gunslinger-the-first-old-west-duel-simulator.json) |
 | Gunslinger: Zombie Survival | 226762 | [226762-gunslinger-zombie-survival.json](./226762-gunslinger-zombie-survival.json) |
 | Gunslinger: Zombie Survival 2019 | 233396 | [233396-gunslinger-zombie-survival-2019.json](./233396-gunslinger-zombie-survival-2019.json) |
 | Gunslingers | 34097 | [34097-gunslingers.json](./34097-gunslingers.json) |
