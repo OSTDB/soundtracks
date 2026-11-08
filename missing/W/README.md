@@ -2615,6 +2615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WattGames | 298138 | [298138-wattgames.json](./298138-wattgames.json) |
 | Wattson the Bulb | 385349 | [385349-wattson-the-bulb.json](./385349-wattson-the-bulb.json) |
 | Wauies | 81760 | [81760-wauies.json](./81760-wauies.json) |
+| Wauies: The Pet Shop Game | 82257 | [82257-wauies-the-pet-shop-game.json](./82257-wauies-the-pet-shop-game.json) |
 | Wave | 113342 | [113342-wave.json](./113342-wave.json) |
 | Wave | 152147 | [152147-wave.json](./152147-wave.json) |
 | Wave 43 | 408124 | [408124-wave-43.json](./408124-wave-43.json) |
@@ -3618,6 +3619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | West Water | 196822 | [196822-west-water.json](./196822-west-water.json) |
 | West-Ward | 126257 | [126257-west-ward.json](./126257-west-ward.json) |
 | Westale: Peelgrimage | 356828 | [356828-westale-peelgrimage.json](./356828-westale-peelgrimage.json) |
+| Westard | 82258 | [82258-westard.json](./82258-westard.json) |
 | Westboro | 28296 | [28296-westboro.json](./28296-westboro.json) |
 | Westbound: Perils Ranch | 323325 | [323325-westbound-perils-ranch.json](./323325-westbound-perils-ranch.json) |
 | Westbound: Pioneer Adventure | 39170 | [39170-westbound-pioneer-adventure.json](./39170-westbound-pioneer-adventure.json) |
