@@ -7000,6 +7000,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loco: Evolution | 23532 | [23532-loco-evolution.json](./23532-loco-evolution.json) |
 | Loco: Rails & Tails | 381632 | [381632-loco-rails-and-tails.json](./381632-loco-rails-and-tails.json) |
 | Loco! | 412525 | [412525-loco.json](./412525-loco.json) |
+| Locodriver | 83127 | [83127-locodriver.json](./83127-locodriver.json) |
+| Locodriver 2 | 83126 | [83126-locodriver-2.json](./83126-locodriver-2.json) |
+| Locodriver 3 | 83125 | [83125-locodriver-3.json](./83125-locodriver-3.json) |
+| Locodriver 4 | 83124 | [83124-locodriver-4.json](./83124-locodriver-4.json) |
+| Locodriver 5 | 83123 | [83123-locodriver-5.json](./83123-locodriver-5.json) |
+| Locodriver 6 | 83122 | [83122-locodriver-6.json](./83122-locodriver-6.json) |
+| Locodriver 7 | 83121 | [83121-locodriver-7.json](./83121-locodriver-7.json) |
+| Locodriver 8 | 83120 | [83120-locodriver-8.json](./83120-locodriver-8.json) |
+| Locodriver 9 | 83119 | [83119-locodriver-9.json](./83119-locodriver-9.json) |
 | Locoland | 35676 | [35676-locoland.json](./35676-locoland.json) |
 | Locomalito Arcade Legends | 278198 | [278198-locomalito-arcade-legends.json](./278198-locomalito-arcade-legends.json) |
 | Locomancer | 32840 | [32840-locomancer.json](./32840-locomancer.json) |
@@ -7022,6 +7031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LocoRoco Remastered | 26234 | [26234-locoroco-remastered.json](./26234-locoroco-remastered.json) |
 | LocoSoccer 2 | 300540 | [300540-locosoccer-2.json](./300540-locosoccer-2.json) |
 | LocoSoccer Classic | 34601 | [34601-locosoccer-classic.json](./34601-locosoccer-classic.json) |
+| Locospotter | 83128 | [83128-locospotter.json](./83128-locospotter.json) |
 | Locotier | 193489 | [193489-locotier.json](./193489-locotier.json) |
 | Locura | 265334 | [265334-locura.json](./265334-locura.json) |
 | Locus | 92844 | [92844-locus.json](./92844-locus.json) |
