@@ -17258,7 +17258,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Some Assembly Required | 343827 | [343827-some-assembly-required.json](./343827-some-assembly-required.json) |
 | Some Birds Help You Escape a Diner | 183225 | [183225-some-birds-help-you-escape-a-diner.json](./183225-some-birds-help-you-escape-a-diner.json) |
 | Some Bullshit | 338116 | [338116-some-bullshit.json](./338116-some-bullshit.json) |
-| Some Distant Memory | 121952 | [121952-some-distant-memory.json](./121952-some-distant-memory.json) |
 | Some Goodbyes We Made | 279465 | [279465-some-goodbyes-we-made.json](./279465-some-goodbyes-we-made.json) |
 | Some Heroines Climb Up a Tower to Ask God Why the Game Has a Name That's So Long | 310001 | [310001-some-heroines-climb-up-a-tower-to-ask-god-why-the-game-has-a-name-thats-so-long.json](./310001-some-heroines-climb-up-a-tower-to-ask-god-why-the-game-has-a-name-thats-so-long.json) |
 | Some Jello and a Hard Place | 360848 | [360848-some-jello-and-a-hard-place.json](./360848-some-jello-and-a-hard-place.json) |
@@ -27378,6 +27377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Battlefields | 39226 | [39226-stickman-battlefields.json](./39226-stickman-battlefields.json) |
 | Stickman Bike: Pro Ride | 378403 | [378403-stickman-bike-pro-ride.json](./378403-stickman-bike-pro-ride.json) |
 | Stickman BMX | 133031 | [133031-stickman-bmx.json](./133031-stickman-bmx.json) |
+| Stickman Bow Mastery: Flying Arrows | 106176 | [106176-stickman-bow-mastery-flying-arrows.json](./106176-stickman-bow-mastery-flying-arrows.json) |
 | Stickman Browser | 296404 | [296404-stickman-browser.json](./296404-stickman-browser.json) |
 | Stickman Clans | 145200 | [145200-stickman-clans.json](./145200-stickman-clans.json) |
 | Stickman Destruction | 75112 | [75112-stickman-destruction.json](./75112-stickman-destruction.json) |
