@@ -12022,6 +12022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RTFM | 397619 | [397619-rtfm.json](./397619-rtfm.json) |
 | Rtisatto City Defender | 192290 | [192290-rtisatto-city-defender.json](./192290-rtisatto-city-defender.json) |
 | RTL Alarm für Cobra 11: Teil II | 144348 | [144348-rtl-alarm-fur-cobra-11-teil-ii.json](./144348-rtl-alarm-fur-cobra-11-teil-ii.json) |
+| RTL Biathlon 2009 | 94853 | [94853-rtl-biathlon-2009.json](./94853-rtl-biathlon-2009.json) |
 | RTL Freestyle Skiing | 175310 | [175310-rtl-freestyle-skiing.json](./175310-rtl-freestyle-skiing.json) |
 | RTL Ski Alpin 2006 | 69865 | [69865-rtl-ski-alpin-2006.json](./69865-rtl-ski-alpin-2006.json) |
 | RTL Ski Jumping 2006 | 80865 | [80865-rtl-ski-jumping-2006.json](./80865-rtl-ski-jumping-2006.json) |
