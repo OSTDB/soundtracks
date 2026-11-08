@@ -7893,6 +7893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of Djinn | 37384 | [37384-lord-of-djinn.json](./37384-lord-of-djinn.json) |
 | Lord of doors | 320955 | [320955-lord-of-doors.json](./320955-lord-of-doors.json) |
 | Lord of Dragons | 234865 | [234865-lord-of-dragons.json](./234865-lord-of-dragons.json) |
+| Lord of Dungeons | 83691 | [83691-lord-of-dungeons.json](./83691-lord-of-dungeons.json) |
 | Lord of Dwarves | 32552 | [32552-lord-of-dwarves.json](./32552-lord-of-dwarves.json) |
 | Lord of Fire & Ice | 211589 | [211589-lord-of-fire-and-ice.json](./211589-lord-of-fire-and-ice.json) |
 | Lord of Gun | 40370 | [40370-lord-of-gun.json](./40370-lord-of-gun.json) |
@@ -8259,6 +8260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Everything: Chapter 1 | 299161 | [299161-lost-everything-chapter-1.json](./299161-lost-everything-chapter-1.json) |
 | Lost Existence | 126912 | [126912-lost-existence.json](./126912-lost-existence.json) |
 | Lost Faces. | 388358 | [388358-lost-faces.json](./388358-lost-faces.json) |
+| Lost Fairy: Spirituality Extincted | 83686 | [83686-lost-fairy-spirituality-extincted.json](./83686-lost-fairy-spirituality-extincted.json) |
 | Lost Fleet | 218589 | [218589-lost-fleet.json](./218589-lost-fleet.json) |
 | Lost Flower | 267577 | [267577-lost-flower.json](./267577-lost-flower.json) |
 | Lost For Swords | 274511 | [274511-lost-for-swords.json](./274511-lost-for-swords.json) |
@@ -8287,6 +8289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Grimoires 1-3 | 185983 | [185983-lost-grimoires-1-3.json](./185983-lost-grimoires-1-3.json) |
 | Lost Grimoires 2: Shard of Mystery | 29961 | [29961-lost-grimoires-2-shard-of-mystery.json](./29961-lost-grimoires-2-shard-of-mystery.json) |
 | Lost Grimoires 3: The Forgotten Well | 76939 | [76939-lost-grimoires-3-the-forgotten-well.json](./76939-lost-grimoires-3-the-forgotten-well.json) |
+| Lost Grimoires Bundle | 83759 | [83759-lost-grimoires-bundle.json](./83759-lost-grimoires-bundle.json) |
 | Lost Grimoires Collection | 125138 | [125138-lost-grimoires-collection.json](./125138-lost-grimoires-collection.json) |
 | Lost Grimoires: Stolen Kingdom | 31120 | [31120-lost-grimoires-stolen-kingdom.json](./31120-lost-grimoires-stolen-kingdom.json) |
 | Lost Group | 291188 | [291188-lost-group.json](./291188-lost-group.json) |
