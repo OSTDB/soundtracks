@@ -17176,6 +17176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proximate | 282108 | [282108-proximate.json](./282108-proximate.json) |
 | Proximity | 324643 | [324643-proximity.json](./324643-proximity.json) |
 | Proximity Shift | 283795 | [283795-proximity-shift.json](./283795-proximity-shift.json) |
+| ProximityMines: Minesweeper Modernized | 95531 | [95531-proximitymines-minesweeper-modernized.json](./95531-proximitymines-minesweeper-modernized.json) |
 | Proxy Adventure: Simulation Room | 346748 | [346748-proxy-adventure-simulation-room.json](./346748-proxy-adventure-simulation-room.json) |
 | Proxy Air Force | 133108 | [133108-proxy-air-force.json](./133108-proxy-air-force.json) |
 | Proxy Blade | 62825 | [62825-proxy-blade.json](./62825-proxy-blade.json) |
@@ -18473,6 +18474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putt.day | 413151 | [413151-putt-day.json](./413151-putt-day.json) |
 | Puttball | 58220 | [58220-puttball.json](./58220-puttball.json) |
 | Putter Golf | 45714 | [45714-putter-golf.json](./45714-putter-golf.json) |
+| Putter Golf | 95509 | [95509-putter-golf.json](./95509-putter-golf.json) |
 | Puttin' Around | 114171 | [114171-puttin-around.json](./114171-puttin-around.json) |
 | Puttium | 216012 | [216012-puttium.json](./216012-puttium.json) |
 | Puttler | 337379 | [337379-puttler.json](./337379-puttler.json) |
