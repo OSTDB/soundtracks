@@ -3964,6 +3964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fenestra: My Focus, Her Future | 415956 | [415956-fenestra-my-focus-her-future.json](./415956-fenestra-my-focus-her-future.json) |
 | Feng Qi Chang'an: Yu Gu Ren | 271674 | [271674-feng-qi-changan-yu-gu-ren.json](./271674-feng-qi-changan-yu-gu-ren.json) |
 | Feng Se Lv Ren | 228259 | [228259-feng-se-lv-ren.json](./228259-feng-se-lv-ren.json) |
+| Fēng Shén Bǎng | 133579 | [133579-feng-shen-bang.json](./133579-feng-shen-bang.json) |
 | Feng Shen Bang 2023 | 267005 | [267005-feng-shen-bang-2023.json](./267005-feng-shen-bang-2023.json) |
 | Fēng Shén Chuánqí | 414120 | [414120-feng-shen-chuanqi.json](./414120-feng-shen-chuanqi.json) |
 | Feng Shui: Meowjong | 348796 | [348796-feng-shui-meowjong.json](./348796-feng-shui-meowjong.json) |
