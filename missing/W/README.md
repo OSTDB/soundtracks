@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waifu Desire | 226577 | [226577-waifu-desire.json](./226577-waifu-desire.json) |
 | Waifu Discovered 2: Medieval Fantasy | 375391 | [375391-waifu-discovered-2-medieval-fantasy.json](./375391-waifu-discovered-2-medieval-fantasy.json) |
 | Waifu Discovered 3: Cyberpunk Fantasy | 409881 | [409881-waifu-discovered-3-cyberpunk-fantasy.json](./409881-waifu-discovered-3-cyberpunk-fantasy.json) |
+| Waifu Fight: Dango Style | 90777 | [90777-waifu-fight-dango-style.json](./90777-waifu-fight-dango-style.json) |
 | Waifu Fighter: Family Friendly | 236311 | [236311-waifu-fighter-family-friendly.json](./236311-waifu-fighter-family-friendly.json) |
 | Waifu Force | 264527 | [264527-waifu-force.json](./264527-waifu-force.json) |
 | Waifu Hunter - Secret of Pirates | 112806 | [112806-waifu-hunter-secret-of-pirates.json](./112806-waifu-hunter-secret-of-pirates.json) |
@@ -819,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War | 288640 | [288640-war.json](./288640-war.json) |
 | War | 330313 | [330313-war.json](./330313-war.json) |
 | War | 54931 | [54931-war.json](./54931-war.json) |
+| War - Card War | 90726 | [90726-war-card-war.json](./90726-war-card-war.json) |
 | War & Romance | 188187 | [188187-war-and-romance.json](./188187-war-and-romance.json) |
 | War 2: Victory | 254168 | [254168-war-2-victory.json](./254168-war-2-victory.json) |
 | War 2020: A Fight Against CoronaVirus | 178451 | [178451-war-2020-a-fight-against-coronavirus.json](./178451-war-2020-a-fight-against-coronavirus.json) |
@@ -3220,6 +3222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weed Store Simulator | 404032 | [404032-weed-store-simulator.json](./404032-weed-store-simulator.json) |
 | Weed Supermarket Simulator | 383739 | [383739-weed-supermarket-simulator.json](./383739-weed-supermarket-simulator.json) |
 | Weed Syndicate Empire | 347066 | [347066-weed-syndicate-empire.json](./347066-weed-syndicate-empire.json) |
+| Weed Tycoon - The Ultimate Marijuana Sim Cannabis Game | 90778 | [90778-weed-tycoon-the-ultimate-marijuana-sim-cannabis-game.json](./90778-weed-tycoon-the-ultimate-marijuana-sim-cannabis-game.json) |
 | Weedcraft Inc | 110486 | [110486-weedcraft-inc.json](./110486-weedcraft-inc.json) |
 | Weedcraft Inc & Big Pharm Pharmacy Tycoon Bundle | 267143 | [267143-weedcraft-inc-and-big-pharm-pharmacy-tycoon-bundle.json](./267143-weedcraft-inc-and-big-pharm-pharmacy-tycoon-bundle.json) |
 | Weedcraft Inc & Moonshine Inc: Risky Business Bundle | 261334 | [261334-weedcraft-inc-and-moonshine-inc-risky-business-bundle.json](./261334-weedcraft-inc-and-moonshine-inc-risky-business-bundle.json) |
