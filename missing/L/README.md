@@ -3642,6 +3642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lesson: The Game | 36669 | [36669-lesson-the-game.json](./36669-lesson-the-game.json) |
 | Lessons in Love | 182472 | [182472-lessons-in-love.json](./182472-lessons-in-love.json) |
 | Lessons learned | 108067 | [108067-lessons-learned.json](./108067-lessons-learned.json) |
+| Lessons With Chii-chan | 126119 | [126119-lessons-with-chii-chan.json](./126119-lessons-with-chii-chan.json) |
 | Lest: Deluxe 24 | 346325 | [346325-lest-deluxe-24.json](./346325-lest-deluxe-24.json) |
 | Lester the Unlikely | 42504 | [42504-lester-the-unlikely.json](./42504-lester-the-unlikely.json) |
 | Let Bions be Bygones | 202860 | [202860-let-bions-be-bygones.json](./202860-let-bions-be-bygones.json) |
@@ -7223,6 +7224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lolita Errand 2 | 83331 | [83331-lolita-errand-2.json](./83331-lolita-errand-2.json) |
 | Lolita Expedition | 370885 | [370885-lolita-expedition.json](./370885-lolita-expedition.json) |
 | Lolita of Labyrinth | 270445 | [270445-lolita-of-labyrinth.json](./270445-lolita-of-labyrinth.json) |
+| LoliTower | 126159 | [126159-lolitower.json](./126159-lolitower.json) |
 | Lollihop | 277811 | [277811-lollihop.json](./277811-lollihop.json) |
 | Lollipop | 198329 | [198329-lollipop.json](./198329-lollipop.json) |
 | Lollipop Chainsaw | 1284 | [1284-lollipop-chainsaw.json](./1284-lollipop-chainsaw.json) |
