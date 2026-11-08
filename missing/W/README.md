@@ -3185,6 +3185,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wedding Preparations | 88691 | [88691-wedding-preparations.json](./88691-wedding-preparations.json) |
 | Wedding Salon | 205910 | [205910-wedding-salon.json](./205910-wedding-salon.json) |
 | Wedding Salon - Girls Makeup, Dressup and Makeover | 89196 | [89196-wedding-salon-girls-makeup-dressup-and-makeover.json](./89196-wedding-salon-girls-makeup-dressup-and-makeover.json) |
+| Wedding VR: Henry | 89346 | [89346-wedding-vr-henry.json](./89346-wedding-vr-henry.json) |
+| Wedding VR: Masamune | 89347 | [89347-wedding-vr-masamune.json](./89347-wedding-vr-masamune.json) |
+| Wedding VR: Yamato | 89345 | [89345-wedding-vr-yamato.json](./89345-wedding-vr-yamato.json) |
 | Wedding Witch | 264522 | [264522-wedding-witch.json](./264522-wedding-witch.json) |
 | WeddingRun | 234001 | [234001-weddingrun.json](./234001-weddingrun.json) |
 | Weddle | 202801 | [202801-weddle.json](./202801-weddle.json) |
@@ -3854,6 +3857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What in the World? | 106266 | [106266-what-in-the-world.json](./106266-what-in-the-world.json) |
 | What Is Death? | 390187 | [390187-what-is-death.json](./390187-what-is-death.json) |
 | What Is in the Black Box? | 326026 | [326026-what-is-in-the-black-box.json](./326026-what-is-in-the-black-box.json) |
+| What is love? | 89355 | [89355-what-is-love.json](./89355-what-is-love.json) |
 | What Is Love?: Vol. 1 | 203921 | [203921-what-is-love-vol-1.json](./203921-what-is-love-vol-1.json) |
 | What is My Name | 305538 | [305538-what-is-my-name.json](./305538-what-is-my-name.json) |
 | What is Older? | 374674 | [374674-what-is-older.json](./374674-what-is-older.json) |
@@ -5264,6 +5268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Earth: African Safari | 50711 | [50711-wild-earth-african-safari.json](./50711-wild-earth-african-safari.json) |
 | Wild Eclipse | 305824 | [305824-wild-eclipse.json](./305824-wild-eclipse.json) |
 | Wild Explorer | 373298 | [373298-wild-explorer.json](./373298-wild-explorer.json) |
+| Wild Faces Jigsaw Puzzle - The Free Animals | 89314 | [89314-wild-faces-jigsaw-puzzle-the-free-animals.json](./89314-wild-faces-jigsaw-puzzle-the-free-animals.json) |
 | Wild Fire | 320598 | [320598-wild-fire.json](./320598-wild-fire.json) |
 | Wild Fishing Simulator | 96083 | [96083-wild-fishing-simulator.json](./96083-wild-fishing-simulator.json) |
 | Wild Frontera | 17972 | [17972-wild-frontera.json](./17972-wild-frontera.json) |
@@ -7642,6 +7647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Crush | 78150 | [78150-word-crush.json](./78150-word-crush.json) |
 | Word Crush Hidden | 154911 | [154911-word-crush-hidden.json](./154911-word-crush-hidden.json) |
 | Word Crystal | 195197 | [195197-word-crystal.json](./195197-word-crystal.json) |
+| Word Defense | 89348 | [89348-word-defense.json](./89348-word-defense.json) |
 | Word Domination | 103094 | [103094-word-domination.json](./103094-word-domination.json) |
 | Word Dungeons | 262368 | [262368-word-dungeons.json](./262368-word-dungeons.json) |
 | Word Escape | 152930 | [152930-word-escape.json](./152930-word-escape.json) |
