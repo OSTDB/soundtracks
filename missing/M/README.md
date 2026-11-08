@@ -3111,6 +3111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manhole-e: Classic Version | 92847 | [92847-manhole-e-classic-version.json](./92847-manhole-e-classic-version.json) |
 | Manhunt | 1971 | [1971-manhunt.json](./1971-manhunt.json) |
 | Manhunt 2 | 1972 | [1972-manhunt-2.json](./1972-manhunt-2.json) |
+| Manhunt 2: Uncut Version | 138336 | [138336-manhunt-2-uncut-version.json](./138336-manhunt-2-uncut-version.json) |
 | Manhunter | 17415 | [17415-manhunter.json](./17415-manhunter.json) |
 | Manhunter | 360618 | [360618-manhunter.json](./360618-manhunter.json) |
 | Manhunter: New York | 7696 | [7696-manhunter-new-york.json](./7696-manhunter-new-york.json) |
@@ -3908,6 +3909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart DS: GameCube Grand Prix | 313347 | [313347-mario-kart-ds-gamecube-grand-prix.json](./313347-mario-kart-ds-gamecube-grand-prix.json) |
 | Mario Kart Fusion | 313943 | [313943-mario-kart-fusion.json](./313943-mario-kart-fusion.json) |
 | Mario Kart Live: Home Circuit | 138251 | [138251-mario-kart-live-home-circuit.json](./138251-mario-kart-live-home-circuit.json) |
+| Mario Kart Live: Home Circuit - Luigi Version | 138340 | [138340-mario-kart-live-home-circuit-luigi-version.json](./138340-mario-kart-live-home-circuit-luigi-version.json) |
 | Mario Kart Midnight | 229509 | [229509-mario-kart-midnight.json](./229509-mario-kart-midnight.json) |
 | Mario Kart Midnight 2 | 326905 | [326905-mario-kart-midnight-2.json](./326905-mario-kart-midnight-2.json) |
 | Mario Kart PC | 294712 | [294712-mario-kart-pc.json](./294712-mario-kart-pc.json) |
@@ -6005,6 +6007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -14710,6 +14713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Silver Phantom | 279407 | [279407-mobile-suit-gundam-silver-phantom.json](./279407-mobile-suit-gundam-silver-phantom.json) |
 | Mobile Suit Gundam: Spirits of Zeon | 320661 | [320661-mobile-suit-gundam-spirits-of-zeon.json](./320661-mobile-suit-gundam-spirits-of-zeon.json) |
 | Mobile Suit Gundam: The One Year War | 43240 | [43240-mobile-suit-gundam-the-one-year-war.json](./43240-mobile-suit-gundam-the-one-year-war.json) |
+| Mobile Suit Z Gundam: Zenpen Zeta no Kodou | 138328 | [138328-mobile-suit-z-gundam-zenpen-zeta-no-kodou.json](./138328-mobile-suit-z-gundam-zenpen-zeta-no-kodou.json) |
 | Mobile Suit Z-Gundam | 77059 | [77059-mobile-suit-z-gundam.json](./77059-mobile-suit-z-gundam.json) |
 | Mobile Suit Zeta Gundam | 66472 | [66472-mobile-suit-zeta-gundam.json](./66472-mobile-suit-zeta-gundam.json) |
 | Mobile Tomodachi | 143671 | [143671-mobile-tomodachi.json](./143671-mobile-tomodachi.json) |
@@ -17915,6 +17919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mother Zina | 404790 | [404790-mother-zina.json](./404790-mother-zina.json) |
 | Mother, Player | 393489 | [393489-mother-player.json](./393489-mother-player.json) |
 | Mother: Beyond Bounds | 315107 | [315107-mother-beyond-bounds.json](./315107-mother-beyond-bounds.json) |
+| Mother: Cognitive Dissonance | 138374 | [138374-mother-cognitive-dissonance.json](./138374-mother-cognitive-dissonance.json) |
 | Mother: Encore | 259272 | [259272-mother-encore.json](./259272-mother-encore.json) |
 | Mother: Invasion from the Unknown | 378199 | [378199-mother-invasion-from-the-unknown.json](./378199-mother-invasion-from-the-unknown.json) |
 | Mother: Photographic Beginnings | 204663 | [204663-mother-photographic-beginnings.json](./204663-mother-photographic-beginnings.json) |
@@ -19770,6 +19775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muse Dash: Muse Plus | 356177 | [356177-muse-dash-muse-plus.json](./356177-muse-dash-muse-plus.json) |
 | Muse: Night Out | 149399 | [149399-muse-night-out.json](./149399-muse-night-out.json) |
 | Museca | 57107 | [57107-museca.json](./57107-museca.json) |
+| Museca 1+1/2 | 138363 | [138363-museca-1-1-2.json](./138363-museca-1-1-2.json) |
 | Museful | 398543 | [398543-museful.json](./398543-museful.json) |
 | Museologist: Tidy Up the Museum! | 414758 | [414758-museologist-tidy-up-the-museum.json](./414758-museologist-tidy-up-the-museum.json) |
 | Musestruck | 330945 | [330945-musestruck.json](./330945-musestruck.json) |
@@ -19870,6 +19876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mushroom Pop | 420190 | [420190-mushroom-pop.json](./420190-mushroom-pop.json) |
 | Mushroom Quest | 104060 | [104060-mushroom-quest.json](./104060-mushroom-quest.json) |
 | Mushroom rain | 107498 | [107498-mushroom-rain.json](./107498-mushroom-rain.json) |
+| Mushroom Savior | 138384 | [138384-mushroom-savior.json](./138384-mushroom-savior.json) |
 | Mushroom Simulator Co-op | 401841 | [401841-mushroom-simulator-co-op.json](./401841-mushroom-simulator-co-op.json) |
 | Mushroom Story | 323973 | [323973-mushroom-story.json](./323973-mushroom-story.json) |
 | Mushroom Survivors | 357709 | [357709-mushroom-survivors.json](./357709-mushroom-survivors.json) |
@@ -20414,6 +20421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Bowling 3D | 89041 | [89041-my-bowling-3d.json](./89041-my-bowling-3d.json) |
 | My Boyfriend | 398812 | [398812-my-boyfriend.json](./398812-my-boyfriend.json) |
 | My Boyfriend is a Martian | 295389 | [295389-my-boyfriend-is-a-martian.json](./295389-my-boyfriend-is-a-martian.json) |
+| My Boyfriend the Necromancer | 138367 | [138367-my-boyfriend-the-necromancer.json](./138367-my-boyfriend-the-necromancer.json) |
 | My Boyfriend, Sonic the Hedgehog | 422465 | [422465-my-boyfriend-sonic-the-hedgehog.json](./422465-my-boyfriend-sonic-the-hedgehog.json) |
 | My Boyfriend: He Loves Me, He Loves Me Not | 29416 | [29416-my-boyfriend-he-loves-me-he-loves-me-not.json](./29416-my-boyfriend-he-loves-me-he-loves-me-not.json) |
 | My Boyfriend's a Werecat! | 169362 | [169362-my-boyfriends-a-werecat.json](./169362-my-boyfriends-a-werecat.json) |
