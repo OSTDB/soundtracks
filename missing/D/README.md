@@ -12865,6 +12865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Smash into Obstacles | 307499 | [307499-dont-smash-into-obstacles.json](./307499-dont-smash-into-obstacles.json) |
 | Don't Spill | 167385 | [167385-dont-spill.json](./167385-dont-spill.json) |
 | Don't Spill Your Coffee! | 176685 | [176685-dont-spill-your-coffee.json](./176685-dont-spill-your-coffee.json) |
+| Don't Split the Party | 119164 | [119164-dont-split-the-party.json](./119164-dont-split-the-party.json) |
 | Don't Stand Out | 90134 | [90134-dont-stand-out.json](./90134-dont-stand-out.json) |
 | Don't Stare | 153936 | [153936-dont-stare.json](./153936-dont-stare.json) |
 | Don't Stare | 385644 | [385644-dont-stare.json](./385644-dont-stare.json) |
