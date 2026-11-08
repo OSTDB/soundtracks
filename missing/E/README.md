@@ -7113,6 +7113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everspace 2: Titans | 315185 | [315185-everspace-2-titans.json](./315185-everspace-2-titans.json) |
 | Everspace 2: Wrath of the Ancients | 329493 | [329493-everspace-2-wrath-of-the-ancients.json](./329493-everspace-2-wrath-of-the-ancients.json) |
 | Everspace: Encounters | 74892 | [74892-everspace-encounters.json](./74892-everspace-encounters.json) |
+| Everspace: Galactic Edition | 90054 | [90054-everspace-galactic-edition.json](./90054-everspace-galactic-edition.json) |
 | Everspace: Stellar Edition | 102126 | [102126-everspace-stellar-edition.json](./102126-everspace-stellar-edition.json) |
 | Everspace: Ultimate Edition | 361101 | [361101-everspace-ultimate-edition.json](./361101-everspace-ultimate-edition.json) |
 | Everstead: Origins | 346498 | [346498-everstead-origins.json](./346498-everstead-origins.json) |
