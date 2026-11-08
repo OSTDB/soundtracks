@@ -1738,6 +1738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gangsta Magic | 156633 | [156633-gangsta-magic.json](./156633-gangsta-magic.json) |
 | Gangsta Paradise | 147252 | [147252-gangsta-paradise.json](./147252-gangsta-paradise.json) |
 | Gangsta Sniper | 112123 | [112123-gangsta-sniper.json](./112123-gangsta-sniper.json) |
+| Gangsta Sniper 2: Revenge | 114580 | [114580-gangsta-sniper-2-revenge.json](./114580-gangsta-sniper-2-revenge.json) |
 | Gangsta Sniper 3: Final Parody | 126903 | [126903-gangsta-sniper-3-final-parody.json](./126903-gangsta-sniper-3-final-parody.json) |
 | Gangsta Style | 369731 | [369731-gangsta-style.json](./369731-gangsta-style.json) |
 | Gangsta Underground: The Poker | 132263 | [132263-gangsta-underground-the-poker.json](./132263-gangsta-underground-the-poker.json) |
@@ -8021,6 +8022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Line Adventures | 148485 | [148485-grand-line-adventures.json](./148485-grand-line-adventures.json) |
 | Grand Lines | 231337 | [231337-grand-lines.json](./231337-grand-lines.json) |
 | Grand Lizard | 92543 | [92543-grand-lizard.json](./92543-grand-lizard.json) |
+| Grand Lord Auto | 114587 | [114587-grand-lord-auto.json](./114587-grand-lord-auto.json) |
 | Grand Mall Simulator | 326231 | [326231-grand-mall-simulator.json](./326231-grand-mall-simulator.json) |
 | Grand Master | 48695 | [48695-grand-master.json](./48695-grand-master.json) |
 | Grand Mech Shooter | 74736 | [74736-grand-mech-shooter.json](./74736-grand-mech-shooter.json) |
@@ -8781,6 +8783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Rider: Space Bike Racing Game Online | 108239 | [108239-gravity-rider-space-bike-racing-game-online.json](./108239-gravity-rider-space-bike-racing-game-online.json) |
 | Gravity Rubik's Cube | 151268 | [151268-gravity-rubiks-cube.json](./151268-gravity-rubiks-cube.json) |
 | Gravity run | 153432 | [153432-gravity-run.json](./153432-gravity-run.json) |
+| Gravity Run | 114612 | [114612-gravity-run.json](./114612-gravity-run.json) |
 | Gravity Runner | 173972 | [173972-gravity-runner.json](./173972-gravity-runner.json) |
 | Gravity Rush | 11701 | [11701-gravity-rush.json](./11701-gravity-rush.json) |
 | Gravity Rush Remastered | 12529 | [12529-gravity-rush-remastered.json](./12529-gravity-rush-remastered.json) |
