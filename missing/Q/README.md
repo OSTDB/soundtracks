@@ -125,6 +125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qīngniǎo no Xūxiàng | 331944 | [331944-qingniao-no-xuxiang.json](./331944-qingniao-no-xuxiang.json) |
 | Qingping Bookstore | 208231 | [208231-qingping-bookstore.json](./208231-qingping-bookstore.json) |
 | Qīngwā Tiào Mónǐqì | 114530 | [114530-qingwa-tiao-moniqi.json](./114530-qingwa-tiao-moniqi.json) |
+| Qinoto | 96130 | [96130-qinoto.json](./96130-qinoto.json) |
 | Qipa World-Hello Big Adventure | 111893 | [111893-qipa-world-hello-big-adventure.json](./111893-qipa-world-hello-big-adventure.json) |
 | Qisah Tactics: Prelude to Deliverance | 421237 | [421237-qisah-tactics-prelude-to-deliverance.json](./421237-qisah-tactics-prelude-to-deliverance.json) |
 | Qisah Tomang: Cycle Ends | 235989 | [235989-qisah-tomang-cycle-ends.json](./235989-qisah-tomang-cycle-ends.json) |
