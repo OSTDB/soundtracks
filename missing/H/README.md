@@ -7246,14 +7246,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Angels and Fairies | 98402 | [98402-hidden-object-angels-and-fairies.json](./98402-hidden-object-angels-and-fairies.json) |
 | Hidden Object: Animal Royalties | 98399 | [98399-hidden-object-animal-royalties.json](./98399-hidden-object-animal-royalties.json) |
 | Hidden Object: Animal Seasons | 98400 | [98400-hidden-object-animal-seasons.json](./98400-hidden-object-animal-seasons.json) |
+| Hidden Object: Autumn Harvest | 98660 | [98660-hidden-object-autumn-harvest.json](./98660-hidden-object-autumn-harvest.json) |
 | Hidden Object: Autumn Splendors | 98590 | [98590-hidden-object-autumn-splendors.json](./98590-hidden-object-autumn-splendors.json) |
 | Hidden Object: Be My Valentine | 98554 | [98554-hidden-object-be-my-valentine.json](./98554-hidden-object-be-my-valentine.json) |
+| Hidden Object: Beautiful Places | 98675 | [98675-hidden-object-beautiful-places.json](./98675-hidden-object-beautiful-places.json) |
 | Hidden Object: Candy Crunch | 82177 | [82177-hidden-object-candy-crunch.json](./82177-hidden-object-candy-crunch.json) |
 | Hidden Object: Candyland Sweet Paradise | 83631 | [83631-hidden-object-candyland-sweet-paradise.json](./83631-hidden-object-candyland-sweet-paradise.json) |
 | Hidden Object: Cat Tailz | 82164 | [82164-hidden-object-cat-tailz.json](./82164-hidden-object-cat-tailz.json) |
 | Hidden Object: Chocolat | 83636 | [83636-hidden-object-chocolat.json](./83636-hidden-object-chocolat.json) |
 | Hidden Object: Christmas in July | 82169 | [82169-hidden-object-christmas-in-july.json](./82169-hidden-object-christmas-in-july.json) |
 | Hidden Object: Christmas Tree | 82163 | [82163-hidden-object-christmas-tree.json](./82163-hidden-object-christmas-tree.json) |
+| Hidden Object: Christmas Wish | 98676 | [98676-hidden-object-christmas-wish.json](./98676-hidden-object-christmas-wish.json) |
 | Hidden Object: Classic Fables | 98391 | [98391-hidden-object-classic-fables.json](./98391-hidden-object-classic-fables.json) |
 | Hidden Object: Coyote the Outlander | 96007 | [96007-hidden-object-coyote-the-outlander.json](./96007-hidden-object-coyote-the-outlander.json) |
 | Hidden Object: Cozy Christmas | 82171 | [82171-hidden-object-cozy-christmas.json](./82171-hidden-object-cozy-christmas.json) |
@@ -7286,10 +7289,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Garden Party | 98357 | [98357-hidden-object-garden-party.json](./98357-hidden-object-garden-party.json) |
 | Hidden Object: Ghost Hunt | 98358 | [98358-hidden-object-ghost-hunt.json](./98358-hidden-object-ghost-hunt.json) |
 | Hidden Object: Ghost of King Black Magic | 200196 | [200196-hidden-object-ghost-of-king-black-magic.json](./200196-hidden-object-ghost-of-king-black-magic.json) |
+| Hidden Object: Ghost of Misty Shore | 98678 | [98678-hidden-object-ghost-of-misty-shore.json](./98678-hidden-object-ghost-of-misty-shore.json) |
 | Hidden Object: Ghostly Night | 98359 | [98359-hidden-object-ghostly-night.json](./98359-hidden-object-ghostly-night.json) |
 | Hidden Object: Golden Trails - Secret of the Princess | 240197 | [240197-hidden-object-golden-trails-secret-of-the-princess.json](./240197-hidden-object-golden-trails-secret-of-the-princess.json) |
 | Hidden Object: Halloween Time | 98360 | [98360-hidden-object-halloween-time.json](./98360-hidden-object-halloween-time.json) |
 | Hidden Object: Hallows Eve | 98591 | [98591-hidden-object-hallows-eve.json](./98591-hidden-object-hallows-eve.json) |
+| Hidden Object: Happy Christmas | 98661 | [98661-hidden-object-happy-christmas.json](./98661-hidden-object-happy-christmas.json) |
 | Hidden Object: Happy Haunts | 98581 | [98581-hidden-object-happy-haunts.json](./98581-hidden-object-happy-haunts.json) |
 | Hidden Object: Happy Valentine's Day | 82173 | [82173-hidden-object-happy-valentines-day.json](./82173-hidden-object-happy-valentines-day.json) |
 | Hidden Object: Haunted House 3 | 98594 | [98594-hidden-object-haunted-house-3.json](./98594-hidden-object-haunted-house-3.json) |
@@ -7329,6 +7334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Mystique Elves | 83623 | [83623-hidden-object-mystique-elves.json](./83623-hidden-object-mystique-elves.json) |
 | Hidden Object: Nether Worlds | 98585 | [98585-hidden-object-nether-worlds.json](./98585-hidden-object-nether-worlds.json) |
 | Hidden Object: NYC Detective Horror Story - Gold Version | 268832 | [268832-hidden-object-nyc-detective-horror-story-gold-version.json](./268832-hidden-object-nyc-detective-horror-story-gold-version.json) |
+| Hidden Object: Ocean Dreams | 98673 | [98673-hidden-object-ocean-dreams.json](./98673-hidden-object-ocean-dreams.json) |
 | Hidden Object: Party 2015 | 98346 | [98346-hidden-object-party-2015.json](./98346-hidden-object-party-2015.json) |
 | Hidden Object: Pot O' Gold | 98589 | [98589-hidden-object-pot-o-gold.json](./98589-hidden-object-pot-o-gold.json) |
 | Hidden Object: Princess Cinderella | 98389 | [98389-hidden-object-princess-cinderella.json](./98389-hidden-object-princess-cinderella.json) |
@@ -7339,6 +7345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Sakura Garden | 98342 | [98342-hidden-object-sakura-garden.json](./98342-hidden-object-sakura-garden.json) |
 | Hidden Object: Scared Sweet | 98340 | [98340-hidden-object-scared-sweet.json](./98340-hidden-object-scared-sweet.json) |
 | Hidden Object: Sherlock | 82166 | [82166-hidden-object-sherlock.json](./82166-hidden-object-sherlock.json) |
+| Hidden Object: Snow White | 98674 | [98674-hidden-object-snow-white.json](./98674-hidden-object-snow-white.json) |
 | Hidden Object: Soulmates | 98341 | [98341-hidden-object-soulmates.json](./98341-hidden-object-soulmates.json) |
 | Hidden Object: St. Patrick's Day | 98568 | [98568-hidden-object-st-patricks-day.json](./98568-hidden-object-st-patricks-day.json) |
 | Hidden Object: Stars & Stripes | 98567 | [98567-hidden-object-stars-and-stripes.json](./98567-hidden-object-stars-and-stripes.json) |
@@ -7529,6 +7536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Wings and Paws | 304620 | [304620-hidden-wings-and-paws.json](./304620-hidden-wings-and-paws.json) |
 | Hidden Winter Cats: Bonus Level | 291353 | [291353-hidden-winter-cats-bonus-level.json](./291353-hidden-winter-cats-bonus-level.json) |
 | Hidden Winter Things | 324242 | [324242-hidden-winter-things.json](./324242-hidden-winter-things.json) |
+| Hidden Witch Talent | 99200 | [99200-hidden-witch-talent.json](./99200-hidden-witch-talent.json) |
 | Hidden Wonders of the Depths 2 | 201915 | [201915-hidden-wonders-of-the-depths-2.json](./201915-hidden-wonders-of-the-depths-2.json) |
 | Hidden Wonders of the Depths 3: Atlantis Adventure | 201917 | [201917-hidden-wonders-of-the-depths-3-atlantis-adventure.json](./201917-hidden-wonders-of-the-depths-3-atlantis-adventure.json) |
 | Hidden Wonders of the Depths II and Hidden Wonders of the Depths III: Atlantis Adventure | 201902 | [201902-hidden-wonders-of-the-depths-ii-and-hidden-wonders-of-the-depths-iii-atlantis-adventure.json](./201902-hidden-wonders-of-the-depths-ii-and-hidden-wonders-of-the-depths-iii-atlantis-adventure.json) |
