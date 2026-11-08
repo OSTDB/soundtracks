@@ -8167,6 +8167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exploration | 94317 | [94317-exploration.json](./94317-exploration.json) |
 | Exploration Adventures | 295689 | [295689-exploration-adventures.json](./295689-exploration-adventures.json) |
 | Exploration Escape Room Bundle | 378831 | [378831-exploration-escape-room-bundle.json](./378831-exploration-escape-room-bundle.json) |
+| Exploration Master 2 | 104206 | [104206-exploration-master-2.json](./104206-exploration-master-2.json) |
 | Exploration Pro | 103971 | [103971-exploration-pro.json](./103971-exploration-pro.json) |
 | Exploration Space | 96846 | [96846-exploration-space.json](./96846-exploration-space.json) |
 | Exploration: Light | 269987 | [269987-exploration-light.json](./269987-exploration-light.json) |
