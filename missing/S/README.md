@@ -4606,6 +4606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Diaries: Royal Wedding | 336974 | [336974-secret-diaries-royal-wedding.json](./336974-secret-diaries-royal-wedding.json) |
 | Secret Dimension | 234103 | [234103-secret-dimension.json](./234103-secret-dimension.json) |
 | Secret Doctrine | 46556 | [46556-secret-doctrine.json](./46556-secret-doctrine.json) |
+| Secret Empires of Magic | 100471 | [100471-secret-empires-of-magic.json](./100471-secret-empires-of-magic.json) |
 | Secret Empires of the Ancient World | 84857 | [84857-secret-empires-of-the-ancient-world.json](./84857-secret-empires-of-the-ancient-world.json) |
 | Secret Files 2: Puritas Cordis | 5146 | [5146-secret-files-2-puritas-cordis.json](./5146-secret-files-2-puritas-cordis.json) |
 | Secret Files: Tunguska | 5145 | [5145-secret-files-tunguska.json](./5145-secret-files-tunguska.json) |
@@ -4617,6 +4618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Habitat | 56176 | [56176-secret-habitat.json](./56176-secret-habitat.json) |
 | Secret HavEat | 352209 | [352209-secret-haveat.json](./352209-secret-haveat.json) |
 | Secret High School 8: 100 Years Love Story Diaries | 95807 | [95807-secret-high-school-8-100-years-love-story-diaries.json](./95807-secret-high-school-8-100-years-love-story-diaries.json) |
+| Secret High School 9: Zac & Bella's Wedding | 100966 | [100966-secret-high-school-9-zac-and-bellas-wedding.json](./100966-secret-high-school-9-zac-and-bellas-wedding.json) |
 | Secret House | 133224 | [133224-secret-house.json](./133224-secret-house.json) |
 | Secret in Flower | 395578 | [395578-secret-in-flower.json](./395578-secret-in-flower.json) |
 | Secret Journeys: Cities of the World | 84901 | [84901-secret-journeys-cities-of-the-world.json](./84901-secret-journeys-cities-of-the-world.json) |
@@ -6760,6 +6762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow at school | 359854 | [359854-shadow-at-school.json](./359854-shadow-at-school.json) |
 | Shadow Bashing | 339862 | [339862-shadow-bashing.json](./339862-shadow-bashing.json) |
 | Shadow Basketball | 145576 | [145576-shadow-basketball.json](./145576-shadow-basketball.json) |
+| Shadow Bike Stunt Race 3d: Moto Bike Games | 100972 | [100972-shadow-bike-stunt-race-3d-moto-bike-games.json](./100972-shadow-bike-stunt-race-3d-moto-bike-games.json) |
 | Shadow Blade | 20932 | [20932-shadow-blade.json](./20932-shadow-blade.json) |
 | Shadow Blade Zero | 174864 | [174864-shadow-blade-zero.json](./174864-shadow-blade-zero.json) |
 | Shadow Blade: Reload | 16953 | [16953-shadow-blade-reload.json](./16953-shadow-blade-reload.json) |
@@ -7534,6 +7537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Puzzle | 199456 | [199456-shape-puzzle.json](./199456-shape-puzzle.json) |
 | Shape Puzzle - Toddler Educational Learning Games | 105434 | [105434-shape-puzzle-toddler-educational-learning-games.json](./105434-shape-puzzle-toddler-educational-learning-games.json) |
 | Shape Puzzle HD - Word Learning Game for Kids | 100619 | [100619-shape-puzzle-hd-word-learning-game-for-kids.json](./100619-shape-puzzle-hd-word-learning-game-for-kids.json) |
+| Shape Puzzle(Deluxe)-Educational Preschool Learn | 101117 | [101117-shape-puzzle-deluxe-educational-preschool-learn.json](./101117-shape-puzzle-deluxe-educational-preschool-learn.json) |
 | Shape Quiz | 263991 | [263991-shape-quiz.json](./263991-shape-quiz.json) |
 | Shape Sender Deluxe | 345843 | [345843-shape-sender-deluxe.json](./345843-shape-sender-deluxe.json) |
 | Shape Shift Shawn: Episode 1 - Tale of the Transmogrified | 171567 | [171567-shape-shift-shawn-episode-1-tale-of-the-transmogrified.json](./171567-shape-shift-shawn-episode-1-tale-of-the-transmogrified.json) |
@@ -16932,6 +16936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solidarność | 318229 | [318229-solidarnosc.json](./318229-solidarnosc.json) |
 | Solider AutoChess | 412490 | [412490-solider-autochess.json](./412490-solider-autochess.json) |
 | Solidify | 145921 | [145921-solidify.json](./145921-solidify.json) |
+| Solids | 101121 | [101121-solids.json](./101121-solids.json) |
 | Solidus | 100745 | [100745-solidus.json](./100745-solidus.json) |
 | Soliloquy | 246021 | [246021-soliloquy.json](./246021-soliloquy.json) |
 | Soliopop | 288985 | [288985-soliopop.json](./288985-soliopop.json) |
@@ -19701,6 +19706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Blade | 266598 | [266598-space-blade.json](./266598-space-blade.json) |
 | Space Blast Zom A Matching Game | 147642 | [147642-space-blast-zom-a-matching-game.json](./147642-space-blast-zom-a-matching-game.json) |
 | Space Blaster (Lines) | 169881 | [169881-space-blaster-lines.json](./169881-space-blaster-lines.json) |
+| Space Blaster 8 Bit | 100478 | [100478-space-blaster-8-bit.json](./100478-space-blaster-8-bit.json) |
 | Space Blasters | 346769 | [346769-space-blasters.json](./346769-space-blasters.json) |
 | Space Blaze | 127182 | [127182-space-blaze.json](./127182-space-blaze.json) |
 | Space Block Buster | 127508 | [127508-space-block-buster.json](./127508-space-block-buster.json) |
@@ -24358,6 +24364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stalker | 161511 | [161511-stalker.json](./161511-stalker.json) |
 | Stalker 1: Path of Fire | 63351 | [63351-stalker-1-path-of-fire.json](./63351-stalker-1-path-of-fire.json) |
 | Stalker 2 | 314379 | [314379-stalker-2.json](./314379-stalker-2.json) |
+| Stalker Crab Simulator | 100461 | [100461-stalker-crab-simulator.json](./100461-stalker-crab-simulator.json) |
 | Stalker Defender Bunker 3D | 89238 | [89238-stalker-defender-bunker-3d.json](./89238-stalker-defender-bunker-3d.json) |
 | Stalker Girl | 250839 | [250839-stalker-girl.json](./250839-stalker-girl.json) |
 | Stalker Together | 327831 | [327831-stalker-together.json](./327831-stalker-together.json) |
@@ -25030,6 +25037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Borg Assimilator | 65373 | [65373-star-trek-borg-assimilator.json](./65373-star-trek-borg-assimilator.json) |
 | Star Trek: Bridge Commander | 9571 | [9571-star-trek-bridge-commander.json](./9571-star-trek-bridge-commander.json) |
 | Star Trek: Bridge Crew | 19519 | [19519-star-trek-bridge-crew.json](./19519-star-trek-bridge-crew.json) |
+| Star Trek: Bridge Crew - The Next Generation | 101122 | [101122-star-trek-bridge-crew-the-next-generation.json](./101122-star-trek-bridge-crew-the-next-generation.json) |
 | Star Trek: Conquest | 5193 | [5193-star-trek-conquest.json](./5193-star-trek-conquest.json) |
 | Star Trek: ConQuest Online | 69780 | [69780-star-trek-conquest-online.json](./69780-star-trek-conquest-online.json) |
 | Star Trek: D-A-C | 21195 | [21195-star-trek-d-a-c.json](./21195-star-trek-d-a-c.json) |
@@ -27484,6 +27492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Warriors | 260057 | [260057-stickman-warriors.json](./260057-stickman-warriors.json) |
 | Stickman Warriors | 323203 | [323203-stickman-warriors.json](./323203-stickman-warriors.json) |
 | Stickman Warriors Craft | 100834 | [100834-stickman-warriors-craft.json](./100834-stickman-warriors-craft.json) |
+| Stickman Warriors Fnaf Vs Sans | 100978 | [100978-stickman-warriors-fnaf-vs-sans.json](./100978-stickman-warriors-fnaf-vs-sans.json) |
 | Stickman Warriors: Super Dragon Shadow Fight | 216101 | [216101-stickman-warriors-super-dragon-shadow-fight.json](./216101-stickman-warriors-super-dragon-shadow-fight.json) |
 | Stickman Wars | 51987 | [51987-stickman-wars.json](./51987-stickman-wars.json) |
 | Stickman World | 87250 | [87250-stickman-world.json](./87250-stickman-world.json) |
@@ -34338,6 +34347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superhero-X | 138032 | [138032-superhero-x.json](./138032-superhero-x.json) |
 | Superheroes | 93446 | [93446-superheroes.json](./93446-superheroes.json) |
 | Superheroes Academy | 191167 | [191167-superheroes-academy.json](./191167-superheroes-academy.json) |
+| Superheroes Battleground | 100970 | [100970-superheroes-battleground.json](./100970-superheroes-battleground.json) |
 | Superheroes Fast Highway Racing Challenges | 100869 | [100869-superheroes-fast-highway-racing-challenges.json](./100869-superheroes-fast-highway-racing-challenges.json) |
 | Superheroes Fighting 3D | 108215 | [108215-superheroes-fighting-3d.json](./108215-superheroes-fighting-3d.json) |
 | Superheroes: Power of New Horizons Legacy | 324124 | [324124-superheroes-power-of-new-horizons-legacy.json](./324124-superheroes-power-of-new-horizons-legacy.json) |
@@ -35013,6 +35023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival on Raft in the Ocean | 106126 | [106126-survival-on-raft-in-the-ocean.json](./106126-survival-on-raft-in-the-ocean.json) |
 | Survival or die | 120585 | [120585-survival-or-die.json](./120585-survival-or-die.json) |
 | Survival Overgrowth | 106729 | [106729-survival-overgrowth.json](./106729-survival-overgrowth.json) |
+| Survival Paint Town Red | 100983 | [100983-survival-paint-town-red.json](./100983-survival-paint-town-red.json) |
 | Survival Project | 65002 | [65002-survival-project.json](./65002-survival-project.json) |
 | Survival Prototype X | 302354 | [302354-survival-prototype-x.json](./302354-survival-prototype-x.json) |
 | Survival Quiz City | 144486 | [144486-survival-quiz-city.json](./144486-survival-quiz-city.json) |
