@@ -6141,6 +6141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireboy & Watergirl: Elements | 113679 | [113679-fireboy-and-watergirl-elements.json](./113679-fireboy-and-watergirl-elements.json) |
 | Fireboy & Watergirl: Fairy Tales | 195980 | [195980-fireboy-and-watergirl-fairy-tales.json](./195980-fireboy-and-watergirl-fairy-tales.json) |
 | Fireboy and Watergirl: Online | 88769 | [88769-fireboy-and-watergirl-online.json](./88769-fireboy-and-watergirl-online.json) |
+| Firebreak: Strike Team | 137211 | [137211-firebreak-strike-team.json](./137211-firebreak-strike-team.json) |
 | Firebug | 13714 | [13714-firebug.json](./13714-firebug.json) |
 | Firebug | 194777 | [194777-firebug.json](./194777-firebug.json) |
 | Firebug | 24888 | [24888-firebug.json](./24888-firebug.json) |
@@ -13903,6 +13904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Immersion | 227608 | [227608-furry-immersion.json](./227608-furry-immersion.json) |
 | Furry Killer | 226143 | [226143-furry-killer.json](./226143-furry-killer.json) |
 | Furry Knight Break | 221479 | [221479-furry-knight-break.json](./221479-furry-knight-break.json) |
+| Furry Love | 137228 | [137228-furry-love.json](./137228-furry-love.json) |
 | Furry Love | 266571 | [266571-furry-love.json](./266571-furry-love.json) |
 | Furry Love & Sex | 221197 | [221197-furry-love-and-sex.json](./221197-furry-love-and-sex.json) |
 | Furry Love 2 | 165026 | [165026-furry-love-2.json](./165026-furry-love-2.json) |
