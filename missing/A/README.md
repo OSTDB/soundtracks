@@ -8144,6 +8144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alto: Ingyaku Meikyu no Himemiko | 98030 | [98030-alto-ingyaku-meikyu-no-himemiko.json](./98030-alto-ingyaku-meikyu-no-himemiko.json) |
 | Alto's Adventure: The Spirit of the Mountain | 194329 | [194329-altos-adventure-the-spirit-of-the-mountain.json](./194329-altos-adventure-the-spirit-of-the-mountain.json) |
 | Alto's Odyssey: The Lost City | 158997 | [158997-altos-odyssey-the-lost-city.json](./158997-altos-odyssey-the-lost-city.json) |
+| Altorius | 121859 | [121859-altorius.json](./121859-altorius.json) |
 | Altruism | 147451 | [147451-altruism.json](./147451-altruism.json) |
 | Altruistic | 349453 | [349453-altruistic.json](./349453-altruistic.json) |
 | AltspaceVR | 34369 | [34369-altspacevr.json](./34369-altspacevr.json) |
@@ -17690,6 +17691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Auto: Maximum Autodrive In The Alien Apocalypse | 277602 | [277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json](./277602-auto-auto-maximum-autodrive-in-the-alien-apocalypse.json) |
 | Auto Balls | 195450 | [195450-auto-balls.json](./195450-auto-balls.json) |
 | Auto Battle | 19338 | [19338-auto-battle.json](./19338-auto-battle.json) |
+| Auto Battle Royale | 121895 | [121895-auto-battle-royale.json](./121895-auto-battle-royale.json) |
 | Auto Brawl Chess | 243604 | [243604-auto-brawl-chess.json](./243604-auto-brawl-chess.json) |
 | Auto Cast | 197092 | [197092-auto-cast.json](./197092-auto-cast.json) |
 | Auto Cell: Game of Life | 165735 | [165735-auto-cell-game-of-life.json](./165735-auto-cell-game-of-life.json) |
@@ -17707,6 +17709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auto Dungeon | 348108 | [348108-auto-dungeon.json](./348108-auto-dungeon.json) |
 | Auto Empire Tycoon | 405097 | [405097-auto-empire-tycoon.json](./405097-auto-empire-tycoon.json) |
 | Auto Empire: Dealer Car Simulator | 309001 | [309001-auto-empire-dealer-car-simulator.json](./309001-auto-empire-dealer-car-simulator.json) |
+| Auto Factory | 121847 | [121847-auto-factory.json](./121847-auto-factory.json) |
 | Auto Fire | 122211 | [122211-auto-fire.json](./122211-auto-fire.json) |
 | Auto Hill Climb | 237658 | [237658-auto-hill-climb.json](./237658-auto-hill-climb.json) |
 | Auto Hustle | 313456 | [313456-auto-hustle.json](./313456-auto-hustle.json) |
