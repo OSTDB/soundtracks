@@ -6806,6 +6806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Local Zombies | 389712 | [389712-local-zombies.json](./389712-local-zombies.json) |
 | Localhost | 68110 | [68110-localhost.json](./68110-localhost.json) |
 | Locally Sourced Anthology I: A Space Atlas | 309188 | [309188-locally-sourced-anthology-i-a-space-atlas.json](./309188-locally-sourced-anthology-i-a-space-atlas.json) |
+| Location Withheld | 134812 | [134812-location-withheld.json](./134812-location-withheld.json) |
 | Location Withheld: Demake | 134876 | [134876-location-withheld-demake.json](./134876-location-withheld-demake.json) |
 | Locator: The Search for Abigail Lidari | 257990 | [257990-locator-the-search-for-abigail-lidari.json](./257990-locator-the-search-for-abigail-lidari.json) |
 | Loch Mess | 157400 | [157400-loch-mess.json](./157400-loch-mess.json) |
@@ -9870,6 +9871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luminous Arc 3 | 25100 | [25100-luminous-arc-3.json](./25100-luminous-arc-3.json) |
 | Luminous Arc Infinity | 25101 | [25101-luminous-arc-infinity.json](./25101-luminous-arc-infinity.json) |
 | Luminous Combat | 95607 | [95607-luminous-combat.json](./95607-luminous-combat.json) |
+| Luminous Corridor 0 | 134779 | [134779-luminous-corridor-0.json](./134779-luminous-corridor-0.json) |
 | Luminous Corridor 2 | 184677 | [184677-luminous-corridor-2.json](./184677-luminous-corridor-2.json) |
 | Luminous Crusader | 296961 | [296961-luminous-crusader.json](./296961-luminous-crusader.json) |
 | Luminous Kingdom | 386291 | [386291-luminous-kingdom.json](./386291-luminous-kingdom.json) |
