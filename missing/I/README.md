@@ -5835,6 +5835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iowa | 60745 | [60745-iowa.json](./60745-iowa.json) |
 | IOX | 127542 | [127542-iox.json](./127542-iox.json) |
 | Ipad Baby | 282808 | [282808-ipad-baby.json](./282808-ipad-baby.json) |
+| iPanzer '44 | 93102 | [93102-ipanzer-44.json](./93102-ipanzer-44.json) |
 | iPitch | 92081 | [92081-ipitch.json](./92081-ipitch.json) |
 | IPL Quiz 2022 Cricket Champion | 229884 | [229884-ipl-quiz-2022-cricket-champion.json](./229884-ipl-quiz-2022-cricket-champion.json) |
 | IPollute | 302754 | [302754-ipollute.json](./302754-ipollute.json) |
@@ -6328,6 +6329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ishar 2: Messengers of Doom | 2523 | [2523-ishar-2-messengers-of-doom.json](./2523-ishar-2-messengers-of-doom.json) |
 | Ishar 3: The Seven Gates of Infinity | 2516 | [2516-ishar-3-the-seven-gates-of-infinity.json](./2516-ishar-3-the-seven-gates-of-infinity.json) |
 | Ishar Compilation | 124918 | [124918-ishar-compilation.json](./124918-ishar-compilation.json) |
+| Ishar Trilogy | 93084 | [93084-ishar-trilogy.json](./93084-ishar-trilogy.json) |
 | Ishar: Legend of the Fortress | 10856 | [10856-ishar-legend-of-the-fortress.json](./10856-ishar-legend-of-the-fortress.json) |
 | Ishara: Bane of the Seas | 133966 | [133966-ishara-bane-of-the-seas.json](./133966-ishara-bane-of-the-seas.json) |
 | Ishi | 58757 | [58757-ishi.json](./58757-ishi.json) |
