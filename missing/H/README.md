@@ -6902,6 +6902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hey Arnold!: Match-Master | 273883 | [273883-hey-arnold-match-master.json](./273883-hey-arnold-match-master.json) |
 | Hey Bobby! | 331697 | [331697-hey-bobby.json](./331697-hey-bobby.json) |
 | Hey Chat, Are We Cooked? | 421607 | [421607-hey-chat-are-we-cooked.json](./421607-hey-chat-are-we-cooked.json) |
+| Hey Duggee Colouring | 90047 | [90047-hey-duggee-colouring.json](./90047-hey-duggee-colouring.json) |
 | Hey Duggee: The Big Badge App | 88593 | [88593-hey-duggee-the-big-badge-app.json](./88593-hey-duggee-the-big-badge-app.json) |
 | Hey Duggee: The Big Outdoor App | 88308 | [88308-hey-duggee-the-big-outdoor-app.json](./88308-hey-duggee-the-big-outdoor-app.json) |
 | Hey Duggee: We Love Animals | 96184 | [96184-hey-duggee-we-love-animals.json](./96184-hey-duggee-we-love-animals.json) |
