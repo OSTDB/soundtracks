@@ -4155,6 +4155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Titanic: Find the Rose | 156958 | [156958-vr-titanic-find-the-rose.json](./156958-vr-titanic-find-the-rose.json) |
 | VR TKA Surgery Simulator | 278946 | [278946-vr-tka-surgery-simulator.json](./278946-vr-tka-surgery-simulator.json) |
 | VR Tomb's Secrets2 | 102248 | [102248-vr-tombs-secrets2.json](./102248-vr-tombs-secrets2.json) |
+| VR Toon: Help Me | 105496 | [105496-vr-toon-help-me.json](./105496-vr-toon-help-me.json) |
 | VR Tower Defense | 109946 | [109946-vr-tower-defense.json](./109946-vr-tower-defense.json) |
 | VR Tractor Farming | 248032 | [248032-vr-tractor-farming.json](./248032-vr-tractor-farming.json) |
 | VR Traffic Safety with Polly | 338564 | [338564-vr-traffic-safety-with-polly.json](./338564-vr-traffic-safety-with-polly.json) |
