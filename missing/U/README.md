@@ -2614,6 +2614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unnamed Hero in the Underworld | 323564 | [323564-unnamed-hero-in-the-underworld.json](./323564-unnamed-hero-in-the-underworld.json) |
 | Unnamed Pogo Game | 410176 | [410176-unnamed-pogo-game.json](./410176-unnamed-pogo-game.json) |
 | Unnamed Project | 286012 | [286012-unnamed-project.json](./286012-unnamed-project.json) |
+| Unnamed SDVX Clone | 127486 | [127486-unnamed-sdvx-clone.json](./127486-unnamed-sdvx-clone.json) |
 | Unnamed Shovel Knight Sequel | 305758 | [305758-unnamed-shovel-knight-sequel.json](./305758-unnamed-shovel-knight-sequel.json) |
 | Unnamed Space Idle | 258933 | [258933-unnamed-space-idle.json](./258933-unnamed-space-idle.json) |
 | Unnatural | 104951 | [104951-unnatural.json](./104951-unnatural.json) |
