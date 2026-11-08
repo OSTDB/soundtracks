@@ -709,6 +709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Patrick's Day Run | 194368 | [194368-saint-patricks-day-run.json](./194368-saint-patricks-day-run.json) |
 | Saint Patricks Day Break 2 | 193282 | [193282-saint-patricks-day-break-2.json](./193282-saint-patricks-day-break-2.json) |
 | Saint Patricks Day Fun | 224990 | [224990-saint-patricks-day-fun.json](./224990-saint-patricks-day-fun.json) |
+| Saint Paul | 114567 | [114567-saint-paul.json](./114567-saint-paul.json) |
 | Saint Seiya Awakening: Knights of the Zodiac | 129144 | [129144-saint-seiya-awakening-knights-of-the-zodiac.json](./129144-saint-seiya-awakening-knights-of-the-zodiac.json) |
 | Saint Seiya EX | 377810 | [377810-saint-seiya-ex.json](./377810-saint-seiya-ex.json) |
 | Saint Seiya Paradise: Saikyou no Senshi-tachi | 60380 | [60380-saint-seiya-paradise-saikyou-no-senshi-tachi.json](./60380-saint-seiya-paradise-saikyou-no-senshi-tachi.json) |
@@ -3538,6 +3539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCP: Vacation | 191617 | [191617-scp-vacation.json](./191617-scp-vacation.json) |
 | SCP: Valravn | 280174 | [280174-scp-valravn.json](./280174-scp-valravn.json) |
 | SCP: Yet Another Day | 349187 | [349187-scp-yet-another-day.json](./349187-scp-yet-another-day.json) |
+| SCP022 | 114600 | [114600-scp022.json](./114600-scp022.json) |
 | Scrabble | 131524 | [131524-scrabble.json](./131524-scrabble.json) |
 | Scrabble | 199433 | [199433-scrabble.json](./199433-scrabble.json) |
 | Scrabble | 270238 | [270238-scrabble.json](./270238-scrabble.json) |
@@ -6139,6 +6141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Settle Gliese | 249046 | [249046-settle-gliese.json](./249046-settle-gliese.json) |
 | Settled | 33480 | [33480-settled.json](./33480-settled.json) |
 | Settlement Survival | 158413 | [158413-settlement-survival.json](./158413-settlement-survival.json) |
+| Settlement Zero | 114573 | [114573-settlement-zero.json](./114573-settlement-zero.json) |
 | Settlement: Colossus | 53589 | [53589-settlement-colossus.json](./53589-settlement-colossus.json) |
 | Settlements | 81671 | [81671-settlements.json](./81671-settlements.json) |
 | Settlements Rising | 245838 | [245838-settlements-rising.json](./245838-settlements-rising.json) |
@@ -12059,6 +12062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six-step Mystery | 127537 | [127537-six-step-mystery.json](./127537-six-step-mystery.json) |
 | Six! | 88774 | [88774-six.json](./88774-six.json) |
 | Six. Eight. Two. | 281258 | [281258-six-eight-two.json](./281258-six-eight-two.json) |
+| SixCubes | 114593 | [114593-sixcubes.json](./114593-sixcubes.json) |
 | Sixide | 285494 | [285494-sixide.json](./285494-sixide.json) |
 | Sixit | 145992 | [145992-sixit.json](./145992-sixit.json) |
 | Sixtar Gate: Startrail | 181103 | [181103-sixtar-gate-startrail.json](./181103-sixtar-gate-startrail.json) |
@@ -12858,6 +12862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Journey: Cozy Mornings | 290710 | [290710-sky-journey-cozy-mornings.json](./290710-sky-journey-cozy-mornings.json) |
 | Sky Jump | 131106 | [131106-sky-jump.json](./131106-sky-jump.json) |
 | Sky Jump | 193633 | [193633-sky-jump.json](./193633-sky-jump.json) |
+| Sky Jumper | 114621 | [114621-sky-jumper.json](./114621-sky-jumper.json) |
 | Sky Jumping | 336626 | [336626-sky-jumping.json](./336626-sky-jumping.json) |
 | Sky Kid | 17282 | [17282-sky-kid.json](./17282-sky-kid.json) |
 | Sky Kid | 239160 | [239160-sky-kid.json](./239160-sky-kid.json) |
@@ -14386,6 +14391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sly Cooper and the Thievius Raccoonus | 304144 | [304144-sly-cooper-and-the-thievius-raccoonus.json](./304144-sly-cooper-and-the-thievius-raccoonus.json) |
 | Sly Cooper: Thieves in Time | 1801 | [1801-sly-cooper-thieves-in-time.json](./1801-sly-cooper-thieves-in-time.json) |
 | Sly Panda | 198514 | [198514-sly-panda.json](./198514-sly-panda.json) |
+| Sly Pigs | 114585 | [114585-sly-pigs.json](./114585-sly-pigs.json) |
 | Sly Pitch | 124583 | [124583-sly-pitch.json](./124583-sly-pitch.json) |
 | Sly Slime | 156697 | [156697-sly-slime.json](./156697-sly-slime.json) |
 | Sly Spy | 12852 | [12852-sly-spy.json](./12852-sly-spy.json) |
@@ -14623,6 +14629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smarty | 130360 | [130360-smarty.json](./130360-smarty.json) |
 | Smarty Labs | 410999 | [410999-smarty-labs.json](./410999-smarty-labs.json) |
 | Smarty Pants | 5161 | [5161-smarty-pants.json](./5161-smarty-pants.json) |
+| SmartyTale 2D | 114604 | [114604-smartytale-2d.json](./114604-smartytale-2d.json) |
 | Smash 'n Dab | 177438 | [177438-smash-n-dab.json](./177438-smash-n-dab.json) |
 | Smash 'N Grab | 361867 | [361867-smash-n-grab.json](./361867-smash-n-grab.json) |
 | Smash 'N' Survive | 45284 | [45284-smash-n-survive.json](./45284-smash-n-survive.json) |
@@ -26234,6 +26241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starwisp Hyperdrive | 217023 | [217023-starwisp-hyperdrive.json](./217023-starwisp-hyperdrive.json) |
 | Starwulf: Seeker of Secret Space | 254969 | [254969-starwulf-seeker-of-secret-space.json](./254969-starwulf-seeker-of-secret-space.json) |
 | Starxia | 297353 | [297353-starxia.json](./297353-starxia.json) |
+| Starxium 20XX | 114569 | [114569-starxium-20xx.json](./114569-starxium-20xx.json) |
 | Stary | 113644 | [113644-stary.json](./113644-stary.json) |
 | Starzine | 55763 | [55763-starzine.json](./55763-starzine.json) |
 | Starzzle | 382218 | [382218-starzzle.json](./382218-starzzle.json) |
@@ -26348,6 +26356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stations in Seoul: Open World Card RPG | 265446 | [265446-stations-in-seoul-open-world-card-rpg.json](./265446-stations-in-seoul-open-world-card-rpg.json) |
 | Statix | 78883 | [78883-statix.json](./78883-statix.json) |
 | Statless | 121954 | [121954-statless.json](./121954-statless.json) |
+| Statnett Balance | 114619 | [114619-statnett-balance.json](./114619-statnett-balance.json) |
 | Stattogories | 239339 | [239339-stattogories.json](./239339-stattogories.json) |
 | StattoPong | 92969 | [92969-stattopong.json](./92969-stattopong.json) |
 | Statues | 26519 | [26519-statues.json](./26519-statues.json) |
@@ -34310,6 +34319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperLite 3in1 series: Sudoku Shuu | 63163 | [63163-superlite-3in1-series-sudoku-shuu.json](./63163-superlite-3in1-series-sudoku-shuu.json) |
 | SuperLite 3in1 Series: Tsuri shuu | 386171 | [386171-superlite-3in1-series-tsuri-shuu.json](./386171-superlite-3in1-series-tsuri-shuu.json) |
 | SuperLite 3in1: Arcade Game Shuu | 97299 | [97299-superlite-3in1-arcade-game-shuu.json](./97299-superlite-3in1-arcade-game-shuu.json) |
+| Superlumina - First Contact | 114610 | [114610-superlumina-first-contact.json](./114610-superlumina-first-contact.json) |
 | Superluminal Vagrant Twin | 54961 | [54961-superluminal-vagrant-twin.json](./54961-superluminal-vagrant-twin.json) |
 | Superluminal: A Universe Sandbox | 107032 | [107032-superluminal-a-universe-sandbox.json](./107032-superluminal-a-universe-sandbox.json) |
 | SuperLuminauts | 54490 | [54490-superluminauts.json](./54490-superluminauts.json) |
