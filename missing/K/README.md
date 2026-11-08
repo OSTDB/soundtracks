@@ -4484,6 +4484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knight Arms: The Hyblid Framer | 62594 | [62594-knight-arms-the-hyblid-framer.json](./62594-knight-arms-the-hyblid-framer.json) |
 | Knight Before Dawn | 420220 | [420220-knight-before-dawn.json](./420220-knight-before-dawn.json) |
 | Knight Bewitched | 97079 | [97079-knight-bewitched.json](./97079-knight-bewitched.json) |
+| Knight Bewitched 2 | 137205 | [137205-knight-bewitched-2.json](./137205-knight-bewitched-2.json) |
 | Knight Case Files | 275522 | [275522-knight-case-files.json](./275522-knight-case-files.json) |
 | Knight Cats: Leaves on the Road | 260879 | [260879-knight-cats-leaves-on-the-road.json](./260879-knight-cats-leaves-on-the-road.json) |
 | Knight Cats: Leaves on the Road - Collector's Edition | 238689 | [238689-knight-cats-leaves-on-the-road-collectors-edition.json](./238689-knight-cats-leaves-on-the-road-collectors-edition.json) |
