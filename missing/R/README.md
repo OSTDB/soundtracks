@@ -2138,6 +2138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rat King | 394876 | [394876-rat-king.json](./394876-rat-king.json) |
 | Rat King Adventure | 415106 | [415106-rat-king-adventure.json](./415106-rat-king-adventure.json) |
 | Rat of Infinity: Idle Clicker | 400397 | [400397-rat-of-infinity-idle-clicker.json](./400397-rat-of-infinity-idle-clicker.json) |
+| Rat on a Scooter XL | 101114 | [101114-rat-on-a-scooter-xl.json](./101114-rat-on-a-scooter-xl.json) |
 | Rat on a Skateboard | 90439 | [90439-rat-on-a-skateboard.json](./90439-rat-on-a-skateboard.json) |
 | Rat on a Snowboard | 88516 | [88516-rat-on-a-snowboard.json](./88516-rat-on-a-snowboard.json) |
 | Rat on the Run | 78607 | [78607-rat-on-the-run.json](./78607-rat-on-the-run.json) |
