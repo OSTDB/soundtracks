@@ -5597,6 +5597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pharaoh's Tomb | 35505 | [35505-pharaohs-tomb.json](./35505-pharaohs-tomb.json) |
 | Pharaonic | 19068 | [19068-pharaonic.json](./19068-pharaonic.json) |
 | Pharaonic: Deluxe Edition | 166187 | [166187-pharaonic-deluxe-edition.json](./166187-pharaonic-deluxe-edition.json) |
+| Pharaos Curse Gold | 91571 | [91571-pharaos-curse-gold.json](./91571-pharaos-curse-gold.json) |
 | Pharm Pharaoh | 142011 | [142011-pharm-pharaoh.json](./142011-pharm-pharaoh.json) |
 | Pharma Dealer Simulator | 365563 | [365563-pharma-dealer-simulator.json](./365563-pharma-dealer-simulator.json) |
 | Pharma Inc Simulator | 357038 | [357038-pharma-inc-simulator.json](./357038-pharma-inc-simulator.json) |
@@ -7664,6 +7665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipo's on the Run | 178376 | [178376-pipos-on-the-run.json](./178376-pipos-on-the-run.json) |
 | Pipoclub | 203254 | [203254-pipoclub.json](./203254-pipoclub.json) |
 | Piposh | 120136 | [120136-piposh.json](./120136-piposh.json) |
+| Piposh | 91499 | [91499-piposh.json](./91499-piposh.json) |
 | Piposh 2 | 94520 | [94520-piposh-2.json](./94520-piposh-2.json) |
 | Piposh 3D: The Revolution | 66750 | [66750-piposh-3d-the-revolution.json](./66750-piposh-3d-the-revolution.json) |
 | Piposh in: A Dream Come True | 66751 | [66751-piposh-in-a-dream-come-true.json](./66751-piposh-in-a-dream-come-true.json) |
@@ -7978,6 +7980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit Stop Racing: Club Vs. Club | 251662 | [251662-pit-stop-racing-club-vs-club.json](./251662-pit-stop-racing-club-vs-club.json) |
 | Pit Stop Racing: Manager | 234612 | [234612-pit-stop-racing-manager.json](./234612-pit-stop-racing-manager.json) |
 | Pit Stoppers | 217155 | [217155-pit-stoppers.json](./217155-pit-stoppers.json) |
+| Pit Viper | 91481 | [91481-pit-viper.json](./91481-pit-viper.json) |
 | Pit-Fighter | 307516 | [307516-pit-fighter.json](./307516-pit-fighter.json) |
 | Pit-Fighter | 307835 | [307835-pit-fighter.json](./307835-pit-fighter.json) |
 | Pit-Fighter | 307836 | [307836-pit-fighter.json](./307836-pit-fighter.json) |
@@ -10347,6 +10350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plot Twist | 329649 | [329649-plot-twist.json](./329649-plot-twist.json) |
 | Plot! | 291259 | [291259-plot.json](./291259-plot.json) |
 | Plot's 3 | 91538 | [91538-plots-3.json](./91538-plots-3.json) |
+| Plot's! | 91505 | [91505-plots.json](./91505-plots.json) |
 | Plotonium Destructive Edge X: Wings of Solitude | 362227 | [362227-plotonium-destructive-edge-x-wings-of-solitude.json](./362227-plotonium-destructive-edge-x-wings-of-solitude.json) |
 | Plotonium Explosive Smasher DX: Machine Slayer - Oh Yes! Edition | 362226 | [362226-plotonium-explosive-smasher-dx-machine-slayer-oh-yes-edition.json](./362226-plotonium-explosive-smasher-dx-machine-slayer-oh-yes-edition.json) |
 | Plots! 2 | 93336 | [93336-plots-2.json](./93336-plots-2.json) |
