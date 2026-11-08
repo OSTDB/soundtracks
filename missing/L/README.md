@@ -1467,7 +1467,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Nova | 358367 | [358367-last-nova.json](./358367-last-nova.json) |
 | Last November | 184189 | [184189-last-november.json](./184189-last-november.json) |
 | Last Nuclear Darkness | 158162 | [158162-last-nuclear-darkness.json](./158162-last-nuclear-darkness.json) |
-| Last Oasis | 114422 | [114422-last-oasis.json](./114422-last-oasis.json) |
 | Last of Ark | 208664 | [208664-last-of-ark.json](./208664-last-of-ark.json) |
 | Last of Ass | 157161 | [157161-last-of-ass.json](./157161-last-of-ass.json) |
 | Last of Humanity | 204150 | [204150-last-of-humanity.json](./204150-last-of-humanity.json) |
@@ -5923,6 +5922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Animals: The Wild Race | 328505 | [328505-little-animals-the-wild-race.json](./328505-little-animals-the-wild-race.json) |
 | Little Ant Adventure | 338484 | [338484-little-ant-adventure.json](./338484-little-ant-adventure.json) |
 | Little Aquarium | 373863 | [373863-little-aquarium.json](./373863-little-aquarium.json) |
+| Little Arena | 107443 | [107443-little-arena.json](./107443-little-arena.json) |
 | Little Army | 249045 | [249045-little-army.json](./249045-little-army.json) |
 | Little Artist - Drawing and Coloring Book | 104598 | [104598-little-artist-drawing-and-coloring-book.json](./104598-little-artist-drawing-and-coloring-book.json) |
 | Little Astronaut | 199133 | [199133-little-astronaut.json](./199133-little-astronaut.json) |
