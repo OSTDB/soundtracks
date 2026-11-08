@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackpot 3 | 265819 | [265819-jackpot-3.json](./265819-jackpot-3.json) |
 | Jackpot 777 | 85201 | [85201-jackpot-777.json](./85201-jackpot-777.json) |
 | Jackpot Buffalo Slots | 393538 | [393538-jackpot-buffalo-slots.json](./393538-jackpot-buffalo-slots.json) |
+| Jackpot Carnival | 109927 | [109927-jackpot-carnival.json](./109927-jackpot-carnival.json) |
 | Jackpot Crash Course | 374296 | [374296-jackpot-crash-course.json](./374296-jackpot-crash-course.json) |
 | Jackpot Dungeon | 423250 | [423250-jackpot-dungeon.json](./423250-jackpot-dungeon.json) |
 | Jackpot Jubilee | 262119 | [262119-jackpot-jubilee.json](./262119-jackpot-jubilee.json) |
@@ -4366,6 +4367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juxtagram | 320838 | [320838-juxtagram.json](./320838-juxtagram.json) |
 | Juxtapose | 384347 | [384347-juxtapose.json](./384347-juxtapose.json) |
 | Juxtastat | 320740 | [320740-juxtastat.json](./320740-juxtastat.json) |
+| Juzzle | 109926 | [109926-juzzle.json](./109926-juzzle.json) |
 | Jwing: The Next Puzzle Game | 118647 | [118647-jwing-the-next-puzzle-game.json](./118647-jwing-the-next-puzzle-game.json) |
 | JWP Joshi Pro Wrestling: Pure Wrestle Queens | 38276 | [38276-jwp-joshi-pro-wrestling-pure-wrestle-queens.json](./38276-jwp-joshi-pro-wrestling-pure-wrestle-queens.json) |
 | Jya Jya | 251086 | [251086-jya-jya.json](./251086-jya-jya.json) |
