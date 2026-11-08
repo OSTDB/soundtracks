@@ -2122,6 +2122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Witch Music Episode: Rudymical | 28520 | [28520-dark-witch-music-episode-rudymical.json](./28520-dark-witch-music-episode-rudymical.json) |
 | Dark Witch Music Episode: Rudymical | 323918 | [323918-dark-witch-music-episode-rudymical.json](./323918-dark-witch-music-episode-rudymical.json) |
 | Dark Wizard | 5374 | [5374-dark-wizard.json](./5374-dark-wizard.json) |
+| Dark Wizard | 83714 | [83714-dark-wizard.json](./83714-dark-wizard.json) |
 | Dark Wizardry: The Road to Gargath | 381341 | [381341-dark-wizardry-the-road-to-gargath.json](./381341-dark-wizardry-the-road-to-gargath.json) |
 | Dark Wonderland | 412293 | [412293-dark-wonderland.json](./412293-dark-wonderland.json) |
 | Dark Woods Haunted Quest: Hidden Objects Game | 197629 | [197629-dark-woods-haunted-quest-hidden-objects-game.json](./197629-dark-woods-haunted-quest-hidden-objects-game.json) |
@@ -14551,6 +14552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downward Spear | 337591 | [337591-downward-spear.json](./337591-downward-spear.json) |
 | Downward Spiral: Prologue | 29981 | [29981-downward-spiral-prologue.json](./29981-downward-spiral-prologue.json) |
 | Downward: Enhanced Edition | 301912 | [301912-downward-enhanced-edition.json](./301912-downward-enhanced-edition.json) |
+| DownWind | 83724 | [83724-downwind.json](./83724-downwind.json) |
 | Downwordly | 243316 | [243316-downwordly.json](./243316-downwordly.json) |
 | Dowon | 292299 | [292299-dowon.json](./292299-dowon.json) |
 | Doxxed | 214111 | [214111-doxxed.json](./214111-doxxed.json) |
@@ -19799,6 +19801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamic Country Club: 3D Golf Simulation | 45873 | [45873-dynamic-country-club-3d-golf-simulation.json](./45873-dynamic-country-club-3d-golf-simulation.json) |
 | Dynamic Destruction | 291837 | [291837-dynamic-destruction.json](./291837-dynamic-destruction.json) |
 | Dynamic Duo | 13615 | [13615-dynamic-duo.json](./13615-dynamic-duo.json) |
+| Dynamic Gin | 83699 | [83699-dynamic-gin.json](./83699-dynamic-gin.json) |
 | Dynamic Shooting VR | 294919 | [294919-dynamic-shooting-vr.json](./294919-dynamic-shooting-vr.json) |
 | Dynamite | 94260 | [94260-dynamite.json](./94260-dynamite.json) |
 | Dynamite 100 | 66951 | [66951-dynamite-100.json](./66951-dynamite-100.json) |
