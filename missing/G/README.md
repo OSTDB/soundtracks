@@ -3602,6 +3602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get sword, kill dragon, save princess | 138978 | [138978-get-sword-kill-dragon-save-princess.json](./138978-get-sword-kill-dragon-save-princess.json) |
 | Get Tanked! | 169863 | [169863-get-tanked.json](./169863-get-tanked.json) |
 | Get the Ball Rolling | 211929 | [211929-get-the-ball-rolling.json](./211929-get-the-ball-rolling.json) |
+| Get the Banana | 128128 | [128128-get-the-banana.json](./128128-get-the-banana.json) |
 | Get The Beer | 273914 | [273914-get-the-beer.json](./273914-get-the-beer.json) |
 | Get the Bunny | 209597 | [209597-get-the-bunny.json](./209597-get-the-bunny.json) |
 | Get the Fluff Out | 184540 | [184540-get-the-fluff-out.json](./184540-get-the-fluff-out.json) |
@@ -3841,6 +3842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Hunters Academy | 66688 | [66688-ghost-hunters-academy.json](./66688-ghost-hunters-academy.json) |
 | Ghost Hunters: Collector's Edition | 341021 | [341021-ghost-hunters-collectors-edition.json](./341021-ghost-hunters-collectors-edition.json) |
 | Ghost Hunting Journal | 399212 | [399212-ghost-hunting-journal.json](./399212-ghost-hunting-journal.json) |
+| Ghost in the Barn House | 128141 | [128141-ghost-in-the-barn-house.json](./128141-ghost-in-the-barn-house.json) |
 | Ghost in the Brain | 263224 | [263224-ghost-in-the-brain.json](./263224-ghost-in-the-brain.json) |
 | Ghost in the Machine | 35475 | [35475-ghost-in-the-machine.json](./35475-ghost-in-the-machine.json) |
 | Ghost In The Mirror: Episode 1 - Here Be Dragons | 268283 | [268283-ghost-in-the-mirror-episode-1-here-be-dragons.json](./268283-ghost-in-the-mirror-episode-1-here-be-dragons.json) |
@@ -4783,6 +4785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gizmos: Steampunk Nonograms | 127716 | [127716-gizmos-steampunk-nonograms.json](./127716-gizmos-steampunk-nonograms.json) |
 | Gizoku Tantei Nosuri | 227891 | [227891-gizoku-tantei-nosuri.json](./227891-gizoku-tantei-nosuri.json) |
 | Gjallarhorn | 169720 | [169720-gjallarhorn.json](./169720-gjallarhorn.json) |
+| Gjana's World | 128101 | [128101-gjanas-world.json](./128101-gjanas-world.json) |
 | gjpg | 282361 | [282361-gjpg.json](./282361-gjpg.json) |
 | GL Golf | 88347 | [88347-gl-golf.json](./88347-gl-golf.json) |
 | GL Tron | 63696 | [63696-gl-tron.json](./63696-gl-tron.json) |
@@ -7471,6 +7474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gorilla Soccer | 204037 | [204037-gorilla-soccer.json](./204037-gorilla-soccer.json) |
 | Gorilla Tag | 143228 | [143228-gorilla-tag.json](./143228-gorilla-tag.json) |
 | Gorilla Tag Contagion | 409988 | [409988-gorilla-tag-contagion.json](./409988-gorilla-tag-contagion.json) |
+| Gorilla Town | 128133 | [128133-gorilla-town.json](./128133-gorilla-town.json) |
 | Gorilla Unko | 387627 | [387627-gorilla-unko.json](./387627-gorilla-unko.json) |
 | GorillaCraft | 271548 | [271548-gorillacraft.json](./271548-gorillacraft.json) |
 | Gorillas | 308395 | [308395-gorillas.json](./308395-gorillas.json) |
@@ -10975,6 +10979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Mayhem | 342123 | [342123-gun-mayhem.json](./342123-gun-mayhem.json) |
 | Gun Mayhem 2 | 194802 | [194802-gun-mayhem-2.json](./194802-gun-mayhem-2.json) |
 | Gun Mayhem Redux | 102021 | [102021-gun-mayhem-redux.json](./102021-gun-mayhem-redux.json) |
+| Gun Miner | 128135 | [128135-gun-miner.json](./128135-gun-miner.json) |
 | Gun Monkey! | 406559 | [406559-gun-monkey.json](./406559-gun-monkey.json) |
 | Gun Monkeys | 16541 | [16541-gun-monkeys.json](./16541-gun-monkeys.json) |
 | Gun Mountain | 184154 | [184154-gun-mountain.json](./184154-gun-mountain.json) |
