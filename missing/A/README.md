@@ -13501,6 +13501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archery Battle VR | 243601 | [243601-archery-battle-vr.json](./243601-archery-battle-vr.json) |
 | Archery Big Game Hunting | 108209 | [108209-archery-big-game-hunting.json](./108209-archery-big-game-hunting.json) |
 | Archery Black | 356646 | [356646-archery-black.json](./356646-archery-black.json) |
+| Archery Blast | 89435 | [89435-archery-blast.json](./89435-archery-blast.json) |
 | Archery by Thornbury Software | 84757 | [84757-archery-by-thornbury-software.json](./84757-archery-by-thornbury-software.json) |
 | Archery Champion Bowman | 87928 | [87928-archery-champion-bowman.json](./87928-archery-champion-bowman.json) |
 | Archery Club | 180961 | [180961-archery-club.json](./180961-archery-club.json) |
@@ -16109,6 +16110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroid Commando | 317363 | [317363-asteroid-commando.json](./317363-asteroid-commando.json) |
 | Asteroid Core | 277789 | [277789-asteroid-core.json](./277789-asteroid-core.json) |
 | Asteroid Deathmatch | 111472 | [111472-asteroid-deathmatch.json](./111472-asteroid-deathmatch.json) |
+| Asteroid Defender! | 89343 | [89343-asteroid-defender.json](./89343-asteroid-defender.json) |
 | Asteroid Deflector XL | 90195 | [90195-asteroid-deflector-xl.json](./90195-asteroid-deflector-xl.json) |
 | Asteroid Dodge | 305210 | [305210-asteroid-dodge.json](./305210-asteroid-dodge.json) |
 | Asteroid Dodger | 140465 | [140465-asteroid-dodger.json](./140465-asteroid-dodger.json) |
