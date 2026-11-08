@@ -841,6 +841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdore | 364027 | [364027-ragdore.json](./364027-ragdore.json) |
 | Rage 2 | 101211 | [101211-rage-2.json](./101211-rage-2.json) |
 | Rage 2: Collector's Edition | 103297 | [103297-rage-2-collectors-edition.json](./103297-rage-2-collectors-edition.json) |
+| Rage 2: Deluxe Edition | 118516 | [118516-rage-2-deluxe-edition.json](./118516-rage-2-deluxe-edition.json) |
 | Rage 2: Rise of the Ghosts | 119310 | [119310-rage-2-rise-of-the-ghosts.json](./119310-rage-2-rise-of-the-ghosts.json) |
 | Rage 2: TerrorMania | 125636 | [125636-rage-2-terrormania.json](./125636-rage-2-terrormania.json) |
 | Rage 3 | 229889 | [229889-rage-3.json](./229889-rage-3.json) |
@@ -12953,6 +12954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruptured | 226438 | [226438-ruptured.json](./226438-ruptured.json) |
 | Ruptured Floor | 416635 | [416635-ruptured-floor.json](./416635-ruptured-floor.json) |
 | Rupupu Cube: Lup Salad | 66137 | [66137-rupupu-cube-lup-salad.json](./66137-rupupu-cube-lup-salad.json) |
+| RuPush | 118476 | [118476-rupush.json](./118476-rupush.json) |
 | Rural Cat Trails | 393290 | [393290-rural-cat-trails.json](./393290-rural-cat-trails.json) |
 | Rural Nightmare | 272007 | [272007-rural-nightmare.json](./272007-rural-nightmare.json) |
 | Rural Racer | 405597 | [405597-rural-racer.json](./405597-rural-racer.json) |
