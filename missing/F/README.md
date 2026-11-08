@@ -8093,6 +8093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip the Birdie | 252711 | [252711-flip-the-birdie.json](./252711-flip-the-birdie.json) |
 | Flip the Buddy | 192076 | [192076-flip-the-buddy.json](./192076-flip-the-buddy.json) |
 | Flip the Core | 85153 | [85153-flip-the-core.json](./85153-flip-the-core.json) |
+| Flip the Gun. | 96785 | [96785-flip-the-gun.json](./96785-flip-the-gun.json) |
 | Flip the Rocket | 101102 | [101102-flip-the-rocket.json](./101102-flip-the-rocket.json) |
 | Flip the Table | 76371 | [76371-flip-the-table.json](./76371-flip-the-table.json) |
 | Flip Trickster | 89215 | [89215-flip-trickster.json](./89215-flip-trickster.json) |
