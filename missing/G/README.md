@@ -8319,6 +8319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grapixo Arte em Guerra | 407522 | [407522-grapixo-arte-em-guerra.json](./407522-grapixo-arte-em-guerra.json) |
 | Grappin | 168699 | [168699-grappin.json](./168699-grappin.json) |
 | Grapplania | 252525 | [252525-grapplania.json](./252525-grapplania.json) |
+| Grapple | 128729 | [128729-grapple.json](./128729-grapple.json) |
 | Grapple | 12878 | [12878-grapple.json](./12878-grapple.json) |
 | Grapple Bear | 114538 | [114538-grapple-bear.json](./114538-grapple-bear.json) |
 | Grapple Boy | 62425 | [62425-grapple-boy.json](./62425-grapple-boy.json) |
