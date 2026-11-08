@@ -1238,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Madness | 337527 | [337527-magic-madness.json](./337527-magic-madness.json) |
 | Magic Maho: Dream Runner | 374147 | [374147-magic-maho-dream-runner.json](./374147-magic-maho-dream-runner.json) |
 | Magic Manny | 159513 | [159513-magic-manny.json](./159513-magic-manny.json) |
+| Magic Mansion | 113952 | [113952-magic-mansion.json](./113952-magic-mansion.json) |
 | Magic Market | 215609 | [215609-magic-market.json](./215609-magic-market.json) |
 | Magic Market World | 415129 | [415129-magic-market-world.json](./415129-magic-market-world.json) |
 | Magic Masks | 99685 | [99685-magic-masks.json](./99685-magic-masks.json) |
@@ -6049,7 +6050,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -18998,6 +18998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Flip | 305113 | [305113-mr-flip.json](./305113-mr-flip.json) |
 | Mr. Fluffykins' Great Sorting Adventure | 97707 | [97707-mr-fluffykins-great-sorting-adventure.json](./97707-mr-fluffykins-great-sorting-adventure.json) |
 | Mr. Friendly | 131754 | [131754-mr-friendly.json](./131754-mr-friendly.json) |
+| Mr. Future Ninja | 113931 | [113931-mr-future-ninja.json](./113931-mr-future-ninja.json) |
 | Mr. Gimmick | 6546 | [6546-mr-gimmick.json](./6546-mr-gimmick.json) |
 | Mr. Go! Extra | 218419 | [218419-mr-go-extra.json](./218419-mr-go-extra.json) |
 | Mr. Goemon | 38580 | [38580-mr-goemon.json](./38580-mr-goemon.json) |
