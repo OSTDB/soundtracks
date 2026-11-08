@@ -3912,6 +3912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2020 with German Hits | 134233 | [134233-lets-sing-2020-with-german-hits.json](./134233-lets-sing-2020-with-german-hits.json) |
 | Let's Sing 2020: Hits Français et Internationaux | 329519 | [329519-lets-sing-2020-hits-francais-et-internationaux.json](./329519-lets-sing-2020-hits-francais-et-internationaux.json) |
 | Let's Sing 2020: Platinum Edition | 237858 | [237858-lets-sing-2020-platinum-edition.json](./237858-lets-sing-2020-platinum-edition.json) |
+| Let's Sing 2021 | 138382 | [138382-lets-sing-2021.json](./138382-lets-sing-2021.json) |
 | Let's Sing 2021: Asia | 321520 | [321520-lets-sing-2021-asia.json](./321520-lets-sing-2021-asia.json) |
 | Let's Sing 2021: Double Mic Bundle | 141652 | [141652-lets-sing-2021-double-mic-bundle.json](./141652-lets-sing-2021-double-mic-bundle.json) |
 | Let's Sing 2021: Hits Français et Internationaux Solo | 137084 | [137084-lets-sing-2021-hits-francais-et-internationaux-solo.json](./137084-lets-sing-2021-hits-francais-et-internationaux-solo.json) |
@@ -5117,6 +5118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Like Gulls Crying at the Dawn | 136226 | [136226-like-gulls-crying-at-the-dawn.json](./136226-like-gulls-crying-at-the-dawn.json) |
 | Like Life Every Hour | 56554 | [56554-like-life-every-hour.json](./56554-like-life-every-hour.json) |
 | Like No Other: The Legend Of The Twin Books | 211915 | [211915-like-no-other-the-legend-of-the-twin-books.json](./211915-like-no-other-the-legend-of-the-twin-books.json) |
+| Like Roots in the Soil | 138361 | [138361-like-roots-in-the-soil.json](./138361-like-roots-in-the-soil.json) |
 | Like the Shooting Stars | 420194 | [420194-like-the-shooting-stars.json](./420194-like-the-shooting-stars.json) |
 | Like Them | 177258 | [177258-like-them.json](./177258-like-them.json) |
 | Like Thunder "Go" | 297484 | [297484-like-thunder-go.json](./297484-like-thunder-go.json) |
@@ -8966,6 +8968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love on Leave | 247495 | [247495-love-on-leave.json](./247495-love-on-leave.json) |
 | Love on Paper | 158220 | [158220-love-on-paper.json](./158220-love-on-paper.json) |
 | Love on the Edge | 299003 | [299003-love-on-the-edge.json](./299003-love-on-the-edge.json) |
+| Love on the Peacock Express | 138370 | [138370-love-on-the-peacock-express.json](./138370-love-on-the-peacock-express.json) |
 | Love Option | 228598 | [228598-love-option.json](./228598-love-option.json) |
 | Love or Die | 124041 | [124041-love-or-die.json](./124041-love-or-die.json) |
 | Love or Loved | 83592 | [83592-love-or-loved.json](./83592-love-or-loved.json) |
