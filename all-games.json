@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-08T12:51:21.502Z",
-  "total_soundtracks": 2978,
+  "generated_at": "2026-11-08T12:56:38.491Z",
+  "total_soundtracks": 2989,
   "games": [
     {
       "igdb_id": 7522,
@@ -1165,6 +1165,20 @@
         {
           "album_name": "All Our Asias (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0RrBudCyTv2m8xUsSFr5AL",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 115650,
+      "game_name": "Alt-Frequencies",
+      "game_url": "https://ostdb.net/games/alt-frequencies",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738db554a01d5e88e0db7dd9e8",
+      "albums": [
+        {
+          "album_name": "Alt-Frequencies (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0wleCMDTEdUmm7FSGlyNPM",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -3589,6 +3603,20 @@
       ]
     },
     {
+      "igdb_id": 32115,
+      "game_name": "Ben and Ed: Blood Party",
+      "game_url": "https://ostdb.net/games/ben-and-ed-blood-party",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2735dc9532107c3161fa003595d",
+      "albums": [
+        {
+          "album_name": "Ben and Ed Blood Party (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/58bIbt0xMuE2N4NVOpPmbA",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 120163,
       "game_name": "Bendy and the Dark Revival",
       "game_url": "https://ostdb.net/games/bendy-and-the-dark-revival",
@@ -5577,6 +5605,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/chernobylite-original-soundtrack/1603631498?uo=4",
           "album_link_url": "https://album.link/i/1603631498"
+        }
+      ]
+    },
+    {
+      "igdb_id": 100501,
+      "game_name": "Chicken Assassin: Reloaded",
+      "game_url": "https://ostdb.net/games/chicken-assassin-reloaded",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ecac7f28c38d39f2a8bc6788",
+      "albums": [
+        {
+          "album_name": "Chicken Assassin: Reloaded (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7ladJFCQZn5ndyWkCRzKAR",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -10543,6 +10585,20 @@
       ]
     },
     {
+      "igdb_id": 105292,
+      "game_name": "Factory Town",
+      "game_url": "https://ostdb.net/games/factory-town",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737e1b57f9ad8664ec53bfd84f",
+      "albums": [
+        {
+          "album_name": "Factory Town (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0I6T0bXoKT0OST8F7gzVBN",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 217555,
       "game_name": "Fae Farm",
       "game_url": "https://ostdb.net/games/fae-farm",
@@ -10955,6 +11011,20 @@
         {
           "album_name": "Fear & Hunger 2: Termina (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6URkC6A121abdpBuFaC0FK",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 107222,
+      "game_name": "Feather",
+      "game_url": "https://ostdb.net/games/feather",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730feef93cbd385b028df024cd",
+      "albums": [
+        {
+          "album_name": "Feather (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6TAwqh5dxxzm8HaHHVZJ72",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -17069,6 +17139,20 @@
       ]
     },
     {
+      "igdb_id": 114422,
+      "game_name": "Last Oasis",
+      "game_url": "https://ostdb.net/games/last-oasis",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273668364ae410ecf40173574bb",
+      "albums": [
+        {
+          "album_name": "Last Oasis (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1mK4Ypy7SEHyOk2GuVz9D7",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 279647,
       "game_name": "Last Sentinel",
       "game_url": "https://ostdb.net/games/last-sentinel",
@@ -19377,6 +19461,20 @@
         {
           "album_name": "Messenger (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2MhgqU95EucBxz36Re98li",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 27048,
+      "game_name": "Metal Black",
+      "game_url": "https://ostdb.net/games/metal-black",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c00177397689e61f535723aa",
+      "albums": [
+        {
+          "album_name": "METAL BLACK ORIGINAL SOUNDTRACK",
+          "spotify_url": "https://open.spotify.com/album/1DsVy3F1Mfp3Yj3zUli76i",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -21701,6 +21799,20 @@
         {
           "album_name": "No Straight Roads (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/651w2U6OdPjztYJCnM0rf7",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 111370,
+      "game_name": "No Time to Relax",
+      "game_url": "https://ostdb.net/games/no-time-to-relax",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738971c5409172e424da3f9a88",
+      "albums": [
+        {
+          "album_name": "No Time to Relax (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/63thT5qhX0DNorb6EWX4sd",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -24179,6 +24291,20 @@
           "spotify_url": "https://open.spotify.com/album/4Vpij8BFebiVgfCrwUM1lP",
           "apple_music_url": "https://music.apple.com/us/album/raft-original-soundtrack/1718285264",
           "album_link_url": "https://album.link/i/1718285264"
+        }
+      ]
+    },
+    {
+      "igdb_id": 86617,
+      "game_name": "Rage In Peace",
+      "game_url": "https://ostdb.net/games/rage-in-peace",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27346707c31e702130071a00d97",
+      "albums": [
+        {
+          "album_name": "Rage in Peace (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/06X2W0Yhx2elSeFlh0MAsM",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -31065,6 +31191,20 @@
       ]
     },
     {
+      "igdb_id": 106530,
+      "game_name": "Tetra's Escape",
+      "game_url": "https://ostdb.net/games/tetras-escape",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273aa29df0d5e3c9bd2484b0217",
+      "albums": [
+        {
+          "album_name": "TETRA's Escape (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6YOm3yB1pKTtoCNUQZDgB0",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 15925,
       "game_name": "That Dragon, Cancer",
       "game_url": "https://ostdb.net/games/that-dragon-cancer",
@@ -35591,6 +35731,20 @@
         {
           "album_name": "Verdun (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2T0DaSknCDAZXjjILkNDZ1",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 97333,
+      "game_name": "Verlet Swing",
+      "game_url": "https://ostdb.net/games/verlet-swing",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27373b6bf5ad29adfb83094cbd3",
+      "albums": [
+        {
+          "album_name": "Verlet Swing (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/08GFmzsPoLloeG2t99oLyX",
           "apple_music_url": "",
           "album_link_url": ""
         }
