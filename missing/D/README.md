@@ -1721,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Mass | 336164 | [336164-dark-mass.json](./336164-dark-mass.json) |
 | Dark Matter | 85833 | [85833-dark-matter.json](./85833-dark-matter.json) |
 | Dark Matter | 97240 | [97240-dark-matter.json](./97240-dark-matter.json) |
+| Dark Matter: The Baryon Project | 137229 | [137229-dark-matter-the-baryon-project.json](./137229-dark-matter-the-baryon-project.json) |
 | Dark Maze | 148912 | [148912-dark-maze.json](./148912-dark-maze.json) |
 | Dark Maze 2 | 102393 | [102393-dark-maze-2.json](./102393-dark-maze-2.json) |
 | Dark Meadow: The Pact | 65599 | [65599-dark-meadow-the-pact.json](./65599-dark-meadow-the-pact.json) |
@@ -5633,6 +5634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Captor | 51120 | [51120-deer-captor.json](./51120-deer-captor.json) |
 | Deer Crusade | 235826 | [235826-deer-crusade.json](./235826-deer-crusade.json) |
 | Deer Drive | 47771 | [47771-deer-drive.json](./47771-deer-drive.json) |
+| Deer Force: The Sequence Breaker | 137182 | [137182-deer-force-the-sequence-breaker.json](./137182-deer-force-the-sequence-breaker.json) |
 | Deer God | 278527 | [278527-deer-god.json](./278527-deer-god.json) |
 | Deer Hero | 395777 | [395777-deer-hero.json](./395777-deer-hero.json) |
 | Deer Hunt | 271073 | [271073-deer-hunt.json](./271073-deer-hunt.json) |
@@ -11989,6 +11991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doggos in Dungeon | 331364 | [331364-doggos-in-dungeon.json](./331364-doggos-in-dungeon.json) |
 | Doggy | 262423 | [262423-doggy.json](./262423-doggy.json) |
 | Doggy | 304054 | [304054-doggy.json](./304054-doggy.json) |
+| Doggy Dinner Time | 137218 | [137218-doggy-dinner-time.json](./137218-doggy-dinner-time.json) |
 | Doggy Don't Care | 251749 | [251749-doggy-dont-care.json](./251749-doggy-dont-care.json) |
 | Doggy Quest: The Dark Forest | 378410 | [378410-doggy-quest-the-dark-forest.json](./378410-doggy-quest-the-dark-forest.json) |
 | Doggy Up! | 271657 | [271657-doggy-up.json](./271657-doggy-up.json) |
