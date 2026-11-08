@@ -678,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddhop | 174368 | [174368-oddhop.json](./174368-oddhop.json) |
 | Oddie's Doughnut Dash | 395610 | [395610-oddies-doughnut-dash.json](./395610-oddies-doughnut-dash.json) |
 | Oddinary Farm | 392291 | [392291-oddinary-farm.json](./392291-oddinary-farm.json) |
+| Oddinary Highway | 136589 | [136589-oddinary-highway.json](./136589-oddinary-highway.json) |
 | Oddity Girls: Virtual World | 156530 | [156530-oddity-girls-virtual-world.json](./156530-oddity-girls-virtual-world.json) |
 | Oddli: A Satisfying Game | 346623 | [346623-oddli-a-satisfying-game.json](./346623-oddli-a-satisfying-game.json) |
 | Oddlly | 114789 | [114789-oddlly.json](./114789-oddlly.json) |
@@ -1650,6 +1651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olteus II | 266890 | [266890-olteus-ii.json](./266890-olteus-ii.json) |
 | Olyen | 378239 | [378239-olyen.json](./378239-olyen.json) |
 | Olympia Rising | 17311 | [17311-olympia-rising.json](./17311-olympia-rising.json) |
+| Olympia Soirée | 136601 | [136601-olympia-soiree.json](./136601-olympia-soiree.json) |
 | Olympia Soirée Catharsis | 382140 | [382140-olympia-soiree-catharsis.json](./382140-olympia-soiree-catharsis.json) |
 | Olympia: Festival of the Gods | 341504 | [341504-olympia-festival-of-the-gods.json](./341504-olympia-festival-of-the-gods.json) |
 | Olympian Knights | 216653 | [216653-olympian-knights.json](./216653-olympian-knights.json) |
