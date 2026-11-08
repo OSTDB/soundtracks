@@ -645,6 +645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paguroideo | 392178 | [392178-paguroideo.json](./392178-paguroideo.json) |
 | Pahelica Revelations | 22116 | [22116-pahelica-revelations.json](./22116-pahelica-revelations.json) |
 | Pahelika Secret Legends | 10649 | [10649-pahelika-secret-legends.json](./10649-pahelika-secret-legends.json) |
+| Pahelika: Revelations | 83726 | [83726-pahelika-revelations.json](./83726-pahelika-revelations.json) |
 | Pahelika: Revelations HD | 36164 | [36164-pahelika-revelations-hd.json](./36164-pahelika-revelations-hd.json) |
 | Pahtkest! | 382342 | [382342-pahtkest.json](./382342-pahtkest.json) |
 | Pai | 292496 | [292496-pai.json](./292496-pai.json) |
@@ -5694,6 +5695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phileas Fogg's Balloon Battles | 98235 | [98235-phileas-foggs-balloon-battles.json](./98235-phileas-foggs-balloon-battles.json) |
 | PhilGood | 121189 | [121189-philgood.json](./121189-philgood.json) |
 | Philia: the Sequel to Elansar | 33706 | [33706-philia-the-sequel-to-elansar.json](./33706-philia-the-sequel-to-elansar.json) |
+| Philip José Farmer's Riverworld | 84287 | [84287-philip-jose-farmers-riverworld.json](./84287-philip-jose-farmers-riverworld.json) |
 | Philip Muwanga's Hexy Trench | 68536 | [68536-philip-muwangas-hexy-trench.json](./68536-philip-muwangas-hexy-trench.json) |
 | Philistine | 268275 | [268275-philistine.json](./268275-philistine.json) |
 | Philly Flasher | 40701 | [40701-philly-flasher.json](./40701-philly-flasher.json) |
@@ -7209,6 +7211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball FX2: Venom | 20306 | [20306-pinball-fx2-venom.json](./20306-pinball-fx2-venom.json) |
 | Pinball FX2: Zen Classics | 24228 | [24228-pinball-fx2-zen-classics.json](./24228-pinball-fx2-zen-classics.json) |
 | Pinball FX3 | 41051 | [41051-pinball-fx3.json](./41051-pinball-fx3.json) |
+| Pinball FX3 - Zen Originals Season 2 Bundle | 83760 | [83760-pinball-fx3-zen-originals-season-2-bundle.json](./83760-pinball-fx3-zen-originals-season-2-bundle.json) |
 | Pinball FX3: Balls of Glory Pinball | 163997 | [163997-pinball-fx3-balls-of-glory-pinball.json](./163997-pinball-fx3-balls-of-glory-pinball.json) |
 | Pinball FX3: Bethesda Pinball | 164002 | [164002-pinball-fx3-bethesda-pinball.json](./164002-pinball-fx3-bethesda-pinball.json) |
 | Pinball FX3: Carnivals and Legends | 163996 | [163996-pinball-fx3-carnivals-and-legends.json](./163996-pinball-fx3-carnivals-and-legends.json) |
@@ -11010,6 +11013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poke Mission 97 | 322761 | [322761-poke-mission-97.json](./322761-poke-mission-97.json) |
 | Poke Tetris | 247276 | [247276-poke-tetris.json](./247276-poke-tetris.json) |
 | Poke the Stray Cat | 221703 | [221703-poke-the-stray-cat.json](./221703-poke-the-stray-cat.json) |
+| Poke-It Poker! | 83697 | [83697-poke-it-poker.json](./83697-poke-it-poker.json) |
 | Poke-Man | 25149 | [25149-poke-man.json](./25149-poke-man.json) |
 | Poke646 | 140318 | [140318-poke646.json](./140318-poke646.json) |
 | Poke646: Anniversary Edition | 136386 | [136386-poke646-anniversary-edition.json](./136386-poke646-anniversary-edition.json) |
@@ -15589,6 +15593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Striker: Final Stage | 4550 | [4550-pro-striker-final-stage.json](./4550-pro-striker-final-stage.json) |
 | Pro Table Tennis VR | 159872 | [159872-pro-table-tennis-vr.json](./159872-pro-table-tennis-vr.json) |
 | Pro Tennis | 421217 | [421217-pro-tennis.json](./421217-pro-tennis.json) |
+| Pro Tennis | 83704 | [83704-pro-tennis.json](./83704-pro-tennis.json) |
 | Pro Tennis Simulator | 12724 | [12724-pro-tennis-simulator.json](./12724-pro-tennis-simulator.json) |
 | Pro Tennis Tour | 259930 | [259930-pro-tennis-tour.json](./259930-pro-tennis-tour.json) |
 | Pro Tennis Tour 2 | 145881 | [145881-pro-tennis-tour-2.json](./145881-pro-tennis-tour-2.json) |
