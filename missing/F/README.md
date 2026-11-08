@@ -14171,6 +14171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fusion | 158712 | [158712-fusion.json](./158712-fusion.json) |
 | Fusion | 182822 | [182822-fusion.json](./182822-fusion.json) |
 | Fusion Bundle | 254703 | [254703-fusion-bundle.json](./254703-fusion-bundle.json) |
+| Fusion Dots | 106170 | [106170-fusion-dots.json](./106170-fusion-dots.json) |
 | Fusion Fling | 286350 | [286350-fusion-fling.json](./286350-fusion-fling.json) |
 | Fusion Galaxy | 395572 | [395572-fusion-galaxy.json](./395572-fusion-galaxy.json) |
 | Fusion Guards | 116450 | [116450-fusion-guards.json](./116450-fusion-guards.json) |
