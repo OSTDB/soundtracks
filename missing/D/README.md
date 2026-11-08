@@ -2920,6 +2920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawncaster: Deckbuilding RPG | 175097 | [175097-dawncaster-deckbuilding-rpg.json](./175097-dawncaster-deckbuilding-rpg.json) |
 | DawnCraft | 272073 | [272073-dawncraft.json](./272073-dawncraft.json) |
 | Dawndusk Dream Sewer | 134773 | [134773-dawndusk-dream-sewer.json](./134773-dawndusk-dream-sewer.json) |
+| Dawnfall | 129925 | [129925-dawnfall.json](./129925-dawnfall.json) |
 | Dawnfolk | 245754 | [245754-dawnfolk.json](./245754-dawnfolk.json) |
 | Dawngate | 11327 | [11327-dawngate.json](./11327-dawngate.json) |
 | Dawning Evil | 331088 | [331088-dawning-evil.json](./331088-dawning-evil.json) |
@@ -4116,6 +4117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead.Air | 142683 | [142683-dead-air.json](./142683-dead-air.json) |
 | Dead.Wire | 142682 | [142682-dead-wire.json](./142682-dead-wire.json) |
 | Dead's dawn | 286039 | [286039-deads-dawn.json](./286039-deads-dawn.json) |
+| Dead's Prison Watcher | 129934 | [129934-deads-prison-watcher.json](./129934-deads-prison-watcher.json) |
 | Dead+ | 168036 | [168036-dead.json](./168036-dead.json) |
 | Dead6hot | 33612 | [33612-dead6hot.json](./33612-dead6hot.json) |
 | Deadbait | 161381 | [161381-deadbait.json](./161381-deadbait.json) |
@@ -7672,6 +7674,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Forsaken | 103204 | [103204-destiny-2-forsaken.json](./103204-destiny-2-forsaken.json) |
 | Destiny 2: Forsaken - Digital Deluxe Edition | 132150 | [132150-destiny-2-forsaken-digital-deluxe-edition.json](./132150-destiny-2-forsaken-digital-deluxe-edition.json) |
 | Destiny 2: Forsaken - Legendary Collection | 118692 | [118692-destiny-2-forsaken-legendary-collection.json](./118692-destiny-2-forsaken-legendary-collection.json) |
+| Destiny 2: Forsaken - Season of Opulence | 129886 | [129886-destiny-2-forsaken-season-of-opulence.json](./129886-destiny-2-forsaken-season-of-opulence.json) |
+| Destiny 2: Forsaken - Season of the Drifter | 129887 | [129887-destiny-2-forsaken-season-of-the-drifter.json](./129887-destiny-2-forsaken-season-of-the-drifter.json) |
+| Destiny 2: Forsaken - Season of the Forge | 129889 | [129889-destiny-2-forsaken-season-of-the-forge.json](./129889-destiny-2-forsaken-season-of-the-forge.json) |
 | Destiny 2: Forsaken Pack | 227352 | [227352-destiny-2-forsaken-pack.json](./227352-destiny-2-forsaken-pack.json) |
 | Destiny 2: Heresy Silver Bundle | 330703 | [330703-destiny-2-heresy-silver-bundle.json](./330703-destiny-2-heresy-silver-bundle.json) |
 | Destiny 2: Into The Light | 291624 | [291624-destiny-2-into-the-light.json](./291624-destiny-2-into-the-light.json) |
@@ -7692,6 +7697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Shadowkeep | 119507 | [119507-destiny-2-shadowkeep.json](./119507-destiny-2-shadowkeep.json) |
 | Destiny 2: Shadowkeep - Digital Deluxe Edition | 122719 | [122719-destiny-2-shadowkeep-digital-deluxe-edition.json](./122719-destiny-2-shadowkeep-digital-deluxe-edition.json) |
 | Destiny 2: Shadowkeep - Season of Arrivals | 135150 | [135150-destiny-2-shadowkeep-season-of-arrivals.json](./135150-destiny-2-shadowkeep-season-of-arrivals.json) |
+| Destiny 2: Shadowkeep - Season of the Undying | 129885 | [129885-destiny-2-shadowkeep-season-of-the-undying.json](./129885-destiny-2-shadowkeep-season-of-the-undying.json) |
 | Destiny 2: Shadowkeep - Season of the Worthy | 135147 | [135147-destiny-2-shadowkeep-season-of-the-worthy.json](./135147-destiny-2-shadowkeep-season-of-the-worthy.json) |
 | Destiny 2: The Edge of Fate | 342776 | [342776-destiny-2-the-edge-of-fate.json](./342776-destiny-2-the-edge-of-fate.json) |
 | Destiny 2: The Final Shape | 250645 | [250645-destiny-2-the-final-shape.json](./250645-destiny-2-the-final-shape.json) |
@@ -13384,6 +13390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom II | 260018 | [260018-doom-ii.json](./260018-doom-ii.json) |
 | Doom II | 260021 | [260021-doom-ii.json](./260021-doom-ii.json) |
 | Doom II + Final Doom | 132823 | [132823-doom-ii-final-doom.json](./132823-doom-ii-final-doom.json) |
+| Doom II + Master Levels | 129898 | [129898-doom-ii-master-levels.json](./129898-doom-ii-master-levels.json) |
 | Doom II Enhanced | 214127 | [214127-doom-ii-enhanced.json](./214127-doom-ii-enhanced.json) |
 | Doom II RPG | 101031 | [101031-doom-ii-rpg.json](./101031-doom-ii-rpg.json) |
 | Doom II: 'D'-Radys Companion Mod | 202834 | [202834-doom-ii-d-radys-companion-mod.json](./202834-doom-ii-d-radys-companion-mod.json) |
