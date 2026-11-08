@@ -6555,6 +6555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Check in the Back | 183010 | [183010-check-in-the-back.json](./183010-check-in-the-back.json) |
 | Check In, Knock Out | 59936 | [59936-check-in-knock-out.json](./59936-check-in-knock-out.json) |
 | Check Inn | 294914 | [294914-check-inn.json](./294914-check-inn.json) |
+| Check Inventory | 135403 | [135403-check-inventory.json](./135403-check-inventory.json) |
 | Check Man | 39609 | [39609-check-man.json](./39609-check-man.json) |
 | Check Mii Out Channel | 139041 | [139041-check-mii-out-channel.json](./139041-check-mii-out-channel.json) |
 | Check the Room 13 | 252025 | [252025-check-the-room-13.json](./252025-check-the-room-13.json) |
@@ -10720,6 +10721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clonk 4 | 92916 | [92916-clonk-4.json](./92916-clonk-4.json) |
 | Clonk A.P.E. | 79332 | [79332-clonk-a-p-e.json](./79332-clonk-a-p-e.json) |
 | Clonk Endeavour | 57644 | [57644-clonk-endeavour.json](./57644-clonk-endeavour.json) |
+| Clonk Extreme | 135409 | [135409-clonk-extreme.json](./135409-clonk-extreme.json) |
 | Clonk Planet | 70474 | [70474-clonk-planet.json](./70474-clonk-planet.json) |
 | Clonk Rage | 26429 | [26429-clonk-rage.json](./26429-clonk-rage.json) |
 | Clony | 303413 | [303413-clony.json](./303413-clony.json) |
@@ -17619,6 +17621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Files Bundle | 254059 | [254059-crime-files-bundle.json](./254059-crime-files-bundle.json) |
 | Crime Investigation | 299692 | [299692-crime-investigation.json](./299692-crime-investigation.json) |
 | Crime Investigation Escape | 240203 | [240203-crime-investigation-escape.json](./240203-crime-investigation-escape.json) |
+| Crime is Sexy | 135401 | [135401-crime-is-sexy.json](./135401-crime-is-sexy.json) |
 | Crime Killer | 45101 | [45101-crime-killer.json](./45101-crime-killer.json) |
 | Crime Kings | 233489 | [233489-crime-kings.json](./233489-crime-kings.json) |
 | Crime Lab: Body of Evidence | 23665 | [23665-crime-lab-body-of-evidence.json](./23665-crime-lab-body-of-evidence.json) |
