@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force 5: Fencer Support Device - Wild Skeleton | 415404 | [415404-earth-defense-force-5-fencer-support-device-wild-skeleton.json](./415404-earth-defense-force-5-fencer-support-device-wild-skeleton.json) |
 | Earth Defense Force 5: Fencer Weapon - Grim Reaper Shield | 415405 | [415405-earth-defense-force-5-fencer-weapon-grim-reaper-shield.json](./415405-earth-defense-force-5-fencer-weapon-grim-reaper-shield.json) |
 | Earth Defense Force 5: Fencer Weapon - Happy Body Pillow | 415406 | [415406-earth-defense-force-5-fencer-weapon-happy-body-pillow.json](./415406-earth-defense-force-5-fencer-weapon-happy-body-pillow.json) |
+| Earth Defense Force 5: Mission Pack 1 - Extra Challenge | 121149 | [121149-earth-defense-force-5-mission-pack-1-extra-challenge.json](./121149-earth-defense-force-5-mission-pack-1-extra-challenge.json) |
 | Earth Defense Force 5: Mission Pack 2 - Super Challenge | 168223 | [168223-earth-defense-force-5-mission-pack-2-super-challenge.json](./168223-earth-defense-force-5-mission-pack-2-super-challenge.json) |
 | Earth Defense Force 5: Ranger & Air Raider Weapon - EDF: WB Decoy Set (ver Civilian) | 415407 | [415407-earth-defense-force-5-ranger-and-air-raider-weapon-edf-wb-decoy-set-ver-civilian.json](./415407-earth-defense-force-5-ranger-and-air-raider-weapon-edf-wb-decoy-set-ver-civilian.json) |
 | Earth Defense Force 5: Ranger & Air Raider Weapon - EDF: WB Decoy Set (ver Soldier) | 415408 | [415408-earth-defense-force-5-ranger-and-air-raider-weapon-edf-wb-decoy-set-ver-soldier.json](./415408-earth-defense-force-5-ranger-and-air-raider-weapon-edf-wb-decoy-set-ver-soldier.json) |
@@ -8273,6 +8274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extinction Facility | 318953 | [318953-extinction-facility.json](./318953-extinction-facility.json) |
 | Extinction Force | 423393 | [423393-extinction-force.json](./423393-extinction-force.json) |
 | Extinction Level Event | 133760 | [133760-extinction-level-event.json](./133760-extinction-level-event.json) |
+| Extinction Protocol | 121121 | [121121-extinction-protocol.json](./121121-extinction-protocol.json) |
 | Extinction Rifts | 296724 | [296724-extinction-rifts.json](./296724-extinction-rifts.json) |
 | Extinction Squad | 61378 | [61378-extinction-squad.json](./61378-extinction-squad.json) |
 | Extinction-MiniJeux | 394883 | [394883-extinction-minijeux.json](./394883-extinction-minijeux.json) |
