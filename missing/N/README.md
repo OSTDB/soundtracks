@@ -2027,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neko Doll | 248437 | [248437-neko-doll.json](./248437-neko-doll.json) |
 | Neko Don Don! | 385332 | [385332-neko-don-don.json](./385332-neko-don-don.json) |
 | Neko Dungeon | 108309 | [108309-neko-dungeon.json](./108309-neko-dungeon.json) |
+| Neko Ex Machina | 134197 | [134197-neko-ex-machina.json](./134197-neko-ex-machina.json) |
 | Neko Gacha | 228543 | [228543-neko-gacha.json](./228543-neko-gacha.json) |
 | Neko Gelato | 353995 | [353995-neko-gelato.json](./353995-neko-gelato.json) |
 | Neko Ghost, Jump! | 126329 | [126329-neko-ghost-jump.json](./126329-neko-ghost-jump.json) |
@@ -3383,8 +3384,18 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Super Luigi U Remastered Edition | 322777 | [322777-new-super-luigi-u-remastered-edition.json](./322777-new-super-luigi-u-remastered-edition.json) |
 | New Super Mario All-Stars HD | 178381 | [178381-new-super-mario-all-stars-hd.json](./178381-new-super-mario-all-stars-hd.json) |
 | New Super Mario Bros. 2 | 1080 | [1080-new-super-mario-bros-2.json](./1080-new-super-mario-bros-2.json) |
+| New Super Mario Bros. 2: Coin Challenge Pack A | 134173 | [134173-new-super-mario-bros-2-coin-challenge-pack-a.json](./134173-new-super-mario-bros-2-coin-challenge-pack-a.json) |
+| New Super Mario Bros. 2: Coin Challenge Pack B | 134176 | [134176-new-super-mario-bros-2-coin-challenge-pack-b.json](./134176-new-super-mario-bros-2-coin-challenge-pack-b.json) |
+| New Super Mario Bros. 2: Coin Challenge Pack C | 134178 | [134178-new-super-mario-bros-2-coin-challenge-pack-c.json](./134178-new-super-mario-bros-2-coin-challenge-pack-c.json) |
+| New Super Mario Bros. 2: Gold Classics Pack | 134177 | [134177-new-super-mario-bros-2-gold-classics-pack.json](./134177-new-super-mario-bros-2-gold-classics-pack.json) |
 | New Super Mario Bros. 2: Gold Coin Edition | 233973 | [233973-new-super-mario-bros-2-gold-coin-edition.json](./233973-new-super-mario-bros-2-gold-coin-edition.json) |
 | New Super Mario Bros. 2: Gold Edition | 233975 | [233975-new-super-mario-bros-2-gold-edition.json](./233975-new-super-mario-bros-2-gold-edition.json) |
+| New Super Mario Bros. 2: Gold Mushroom Pack | 134175 | [134175-new-super-mario-bros-2-gold-mushroom-pack.json](./134175-new-super-mario-bros-2-gold-mushroom-pack.json) |
+| New Super Mario Bros. 2: Gold Rush Pack | 134172 | [134172-new-super-mario-bros-2-gold-rush-pack.json](./134172-new-super-mario-bros-2-gold-rush-pack.json) |
+| New Super Mario Bros. 2: Mystery Adventures Pack | 134171 | [134171-new-super-mario-bros-2-mystery-adventures-pack.json](./134171-new-super-mario-bros-2-mystery-adventures-pack.json) |
+| New Super Mario Bros. 2: Nerve-Wrack Pack | 134174 | [134174-new-super-mario-bros-2-nerve-wrack-pack.json](./134174-new-super-mario-bros-2-nerve-wrack-pack.json) |
+| New Super Mario Bros. 2: Platform Panic Pack | 134180 | [134180-new-super-mario-bros-2-platform-panic-pack.json](./134180-new-super-mario-bros-2-platform-panic-pack.json) |
+| New Super Mario Bros. 2: The Impossible Pack | 134170 | [134170-new-super-mario-bros-2-the-impossible-pack.json](./134170-new-super-mario-bros-2-the-impossible-pack.json) |
 | New Super Mario Bros. 3 DS | 252085 | [252085-new-super-mario-bros-3-ds.json](./252085-new-super-mario-bros-3-ds.json) |
 | New Super Mario Bros. 5: Clone Tag Team | 146278 | [146278-new-super-mario-bros-5-clone-tag-team.json](./146278-new-super-mario-bros-5-clone-tag-team.json) |
 | New Super Mario Bros. 5: Clone Tag Team 2 | 146279 | [146279-new-super-mario-bros-5-clone-tag-team-2.json](./146279-new-super-mario-bros-5-clone-tag-team-2.json) |
@@ -5920,6 +5931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No One But You | 19243 | [19243-no-one-but-you.json](./19243-no-one-but-you.json) |
 | No One Can Ever Know | 144882 | [144882-no-one-can-ever-know.json](./144882-no-one-can-ever-know.json) |
 | No One Can Stop Mr. Domino! | 4107 | [4107-no-one-can-stop-mr-domino.json](./4107-no-one-can-stop-mr-domino.json) |
+| No One is Here | 134198 | [134198-no-one-is-here.json](./134198-no-one-is-here.json) |
 | No One Is Watching You | 287463 | [287463-no-one-is-watching-you.json](./287463-no-one-is-watching-you.json) |
 | No One Lives | 174675 | [174675-no-one-lives.json](./174675-no-one-lives.json) |
 | No One Lives Forever 2: A Spy in H.A.R.M.'s Way | 820 | [820-no-one-lives-forever-2-a-spy-in-h-a-r-m-s-way.json](./820-no-one-lives-forever-2-a-spy-in-h-a-r-m-s-way.json) |
@@ -7203,6 +7215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NOVA 1492 | 126543 | [126543-nova-1492.json](./126543-nova-1492.json) |
 | Nova 2001 | 38563 | [38563-nova-2001.json](./38563-nova-2001.json) |
 | Nova 9: The Return of Gir Draxon | 14516 | [14516-nova-9-the-return-of-gir-draxon.json](./14516-nova-9-the-return-of-gir-draxon.json) |
+| Nova Alea | 134199 | [134199-nova-alea.json](./134199-nova-alea.json) |
 | Nova Antarctica | 213605 | [213605-nova-antarctica.json](./213605-nova-antarctica.json) |
 | Nova Assault | 26151 | [26151-nova-assault.json](./26151-nova-assault.json) |
 | Nova Assault | 389402 | [389402-nova-assault.json](./389402-nova-assault.json) |
@@ -7750,6 +7763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NuPa | 106285 | [106285-nupa.json](./106285-nupa.json) |
 | Nura's Wish | 165275 | [165275-nuras-wish.json](./165275-nuras-wish.json) |
 | Nurarihyon no Mago: Hyakki Ryouran Taisen | 47426 | [47426-nurarihyon-no-mago-hyakki-ryouran-taisen.json](./47426-nurarihyon-no-mago-hyakki-ryouran-taisen.json) |
+| Nuravil Conflict | 134200 | [134200-nuravil-conflict.json](./134200-nuravil-conflict.json) |
 | Nurbits | 41902 | [41902-nurbits.json](./41902-nurbits.json) |
 | Nurburgring-1 | 238207 | [238207-nurburgring-1.json](./238207-nurburgring-1.json) |
 | Nuremberg: VRdict of Nations | 171877 | [171877-nuremberg-vrdict-of-nations.json](./171877-nuremberg-vrdict-of-nations.json) |
@@ -7908,6 +7922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nymble | 178815 | [178815-nymble.json](./178815-nymble.json) |
 | Nymble 2 | 408495 | [408495-nymble-2.json](./408495-nymble-2.json) |
 | Nymph's Tower | 183647 | [183647-nymphs-tower.json](./183647-nymphs-tower.json) |
+| Nymphiad | 134201 | [134201-nymphiad.json](./134201-nymphiad.json) |
 | Nympho Wife | 163789 | [163789-nympho-wife.json](./163789-nympho-wife.json) |
 | Nympho's Path | 208450 | [208450-nymphos-path.json](./208450-nymphos-path.json) |
 | Nymphomania Paradox | 82784 | [82784-nymphomania-paradox.json](./82784-nymphomania-paradox.json) |
