@@ -1399,6 +1399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kawaiiju | 176427 | [176427-kawaiiju.json](./176427-kawaiiju.json) |
 | KawaiiNihongo | 225620 | [225620-kawaiinihongo.json](./225620-kawaiinihongo.json) |
 | Kawairun | 332634 | [332634-kawairun.json](./332634-kawairun.json) |
+| Kawairun 2 | 101776 | [101776-kawairun-2.json](./101776-kawairun-2.json) |
 | Kawanakajima Ibunroku | 255106 | [255106-kawanakajima-ibunroku.json](./255106-kawanakajima-ibunroku.json) |
 | Kawanakajima no Kassen | 76948 | [76948-kawanakajima-no-kassen.json](./76948-kawanakajima-no-kassen.json) |
 | Kawasaki ATV PowerSports | 92931 | [92931-kawasaki-atv-powersports.json](./92931-kawasaki-atv-powersports.json) |
