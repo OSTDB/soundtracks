@@ -1601,6 +1601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Warrior | 266713 | [266713-last-warrior.json](./266713-last-warrior.json) |
 | Last Watchtower | 376669 | [376669-last-watchtower.json](./376669-last-watchtower.json) |
 | Last Week | 123003 | [123003-last-week.json](./123003-last-week.json) |
+| Last Week | 128088 | [128088-last-week.json](./128088-last-week.json) |
 | Last Week of a King | 288227 | [288227-last-week-of-a-king.json](./288227-last-week-of-a-king.json) |
 | Last Whisper | 238647 | [238647-last-whisper.json](./238647-last-whisper.json) |
 | Last Will | 23490 | [23490-last-will.json](./23490-last-will.json) |
