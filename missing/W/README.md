@@ -2266,6 +2266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Washout Spire | 176050 | [176050-washout-spire.json](./176050-washout-spire.json) |
 | WashWash | 178422 | [178422-washwash.json](./178422-washwash.json) |
 | Wasm4nia | 307615 | [307615-wasm4nia.json](./307615-wasm4nia.json) |
+| Wasp Nest Simulator | 100977 | [100977-wasp-nest-simulator.json](./100977-wasp-nest-simulator.json) |
 | Wasps | 355164 | [355164-wasps.json](./355164-wasps.json) |
 | Wasps! | 31654 | [31654-wasps.json](./31654-wasps.json) |
 | Wassermann | 267254 | [267254-wassermann.json](./267254-wassermann.json) |
@@ -2511,6 +2512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Search | 224753 | [224753-water-search.json](./224753-water-search.json) |
 | Water Ski | 117410 | [117410-water-ski.json](./117410-water-ski.json) |
 | Water Ski | 40712 | [40712-water-ski.json](./40712-water-ski.json) |
+| Water Slide Monster Truck driving | 100982 | [100982-water-slide-monster-truck-driving.json](./100982-water-slide-monster-truck-driving.json) |
 | Water Sort Challenge | 340521 | [340521-water-sort-challenge.json](./340521-water-sort-challenge.json) |
 | Water Sort Jigsaw: Color Sort | 208943 | [208943-water-sort-jigsaw-color-sort.json](./208943-water-sort-jigsaw-color-sort.json) |
 | Water Sort Puzzle | 175029 | [175029-water-sort-puzzle.json](./175029-water-sort-puzzle.json) |
