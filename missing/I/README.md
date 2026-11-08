@@ -3857,6 +3857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinifrag 2 | 384038 | [384038-infinifrag-2.json](./384038-infinifrag-2.json) |
 | Infinilands | 244291 | [244291-infinilands.json](./244291-infinilands.json) |
 | Infinimine | 218882 | [218882-infinimine.json](./218882-infinimine.json) |
+| Infiniminer | 92027 | [92027-infiniminer.json](./92027-infiniminer.json) |
 | Infinimoes | 333654 | [333654-infinimoes.json](./333654-infinimoes.json) |
 | InfiniPicross | 54690 | [54690-infinipicross.json](./54690-infinipicross.json) |
 | InfiniPicross 2.0 | 104392 | [104392-infinipicross-2-0.json](./104392-infinipicross-2-0.json) |
@@ -3990,6 +3991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
