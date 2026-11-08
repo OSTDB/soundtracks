@@ -2867,6 +2867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NetaJump | 211058 | [211058-netajump.json](./211058-netajump.json) |
 | Netannad | 254568 | [254568-netannad.json](./254568-netannad.json) |
 | Netbit: Mystery Dungeon | 386066 | [386066-netbit-mystery-dungeon.json](./386066-netbit-mystery-dungeon.json) |
+| Netblast | 131035 | [131035-netblast.json](./131035-netblast.json) |
 | Netcode The Protogen | 356706 | [356706-netcode-the-protogen.json](./356706-netcode-the-protogen.json) |
 | Netcode Warriors | 290611 | [290611-netcode-warriors.json](./290611-netcode-warriors.json) |
 | Netcorter: City 2179 | 217385 | [217385-netcorter-city-2179.json](./217385-netcorter-city-2179.json) |
