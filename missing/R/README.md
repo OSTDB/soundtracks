@@ -2606,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Racers II | 71728 | [71728-rc-racers-ii.json](./71728-rc-racers-ii.json) |
 | RC Racing - Off Road | 91878 | [91878-rc-racing-off-road.json](./91878-rc-racing-off-road.json) |
 | RC Racing Off Road 2.0 | 32233 | [32233-rc-racing-off-road-2-0.json](./32233-rc-racing-off-road-2-0.json) |
+| RC Revenge | 94303 | [94303-rc-revenge.json](./94303-rc-revenge.json) |
 | RC Revenge Pro | 43253 | [43253-rc-revenge-pro.json](./43253-rc-revenge-pro.json) |
 | RC Revolution | 247924 | [247924-rc-revolution.json](./247924-rc-revolution.json) |
 | RC Robot Adventure Game | 223953 | [223953-rc-robot-adventure-game.json](./223953-rc-robot-adventure-game.json) |
@@ -9138,6 +9139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RoboSync | 282961 | [282961-robosync.json](./282961-robosync.json) |
 | Robosynthesis | 405092 | [405092-robosynthesis.json](./405092-robosynthesis.json) |
 | Robot | 267795 | [267795-robot.json](./267795-robot.json) |
+| Robot | 94301 | [94301-robot.json](./94301-robot.json) |
 | Robot Adventure | 285537 | [285537-robot-adventure.json](./285537-robot-adventure.json) |
 | Robot Alchemic Drive | 24083 | [24083-robot-alchemic-drive.json](./24083-robot-alchemic-drive.json) |
 | Robot Anarchy | 328496 | [328496-robot-anarchy.json](./328496-robot-anarchy.json) |
