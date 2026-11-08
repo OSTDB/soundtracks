@@ -6398,6 +6398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godzilla: The Game | 8731 | [8731-godzilla-the-game.json](./8731-godzilla-the-game.json) |
 | Godzilla: The King of the Monsters | 218230 | [218230-godzilla-the-king-of-the-monsters.json](./218230-godzilla-the-king-of-the-monsters.json) |
 | Godzilla: The Series | 75893 | [75893-godzilla-the-series.json](./75893-godzilla-the-series.json) |
+| Godzilla! | 86131 | [86131-godzilla.json](./86131-godzilla.json) |
 | Godzone 6 | 401926 | [401926-godzone-6.json](./401926-godzone-6.json) |
 | Goeland: Seagull Adventure | 292994 | [292994-goeland-seagull-adventure.json](./292994-goeland-seagull-adventure.json) |
 | Goemon 64: Recompiled | 330074 | [330074-goemon-64-recompiled.json](./330074-goemon-64-recompiled.json) |
