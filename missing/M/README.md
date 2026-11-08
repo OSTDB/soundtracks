@@ -5694,6 +5694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Match Three | 348433 | [348433-math-match-three.json](./348433-math-match-three.json) |
 | Math Mayhem!! | 281831 | [281831-math-mayhem.json](./281831-math-mayhem.json) |
 | Math Maze | 387697 | [387697-math-maze.json](./387697-math-maze.json) |
+| Math Mind Twist | 131083 | [131083-math-mind-twist.json](./131083-math-mind-twist.json) |
 | Math Missions | 84446 | [84446-math-missions.json](./84446-math-missions.json) |
 | Math Missions: The Amazing Arcade Adventure Grades 3-5 | 209545 | [209545-math-missions-the-amazing-arcade-adventure-grades-3-5.json](./209545-math-missions-the-amazing-arcade-adventure-grades-3-5.json) |
 | Math Missions: The Race to Spectacle City Arcade K-2 | 209544 | [209544-math-missions-the-race-to-spectacle-city-arcade-k-2.json](./209544-math-missions-the-race-to-spectacle-city-arcade-k-2.json) |
@@ -6024,7 +6025,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -18139,6 +18139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocross Zombie HD | 100736 | [100736-motocross-zombie-hd.json](./100736-motocross-zombie-hd.json) |
 | Motocross: The Force | 270211 | [270211-motocross-the-force.json](./270211-motocross-the-force.json) |
 | Motocross: Trial Extreme | 239472 | [239472-motocross-trial-extreme.json](./239472-motocross-trial-extreme.json) |
+| MotoGP | 131087 | [131087-motogp.json](./131087-motogp.json) |
 | MotoGP | 175917 | [175917-motogp.json](./175917-motogp.json) |
 | MotoGP | 282659 | [282659-motogp.json](./282659-motogp.json) |
 | MotoGP '06 | 7078 | [7078-motogp-06.json](./7078-motogp-06.json) |
@@ -18354,6 +18355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motu Patlu: Robot Transform | 325122 | [325122-motu-patlu-robot-transform.json](./325122-motu-patlu-robot-transform.json) |
 | Motus | 130280 | [130280-motus.json](./130280-motus.json) |
 | Motus | 324859 | [324859-motus.json](./324859-motus.json) |
+| Motus 2004 | 131043 | [131043-motus-2004.json](./131043-motus-2004.json) |
 | Motus Paintball VR | 336593 | [336593-motus-paintball-vr.json](./336593-motus-paintball-vr.json) |
 | Motus: Endless Run | 17448 | [17448-motus-endless-run.json](./17448-motus-endless-run.json) |
 | Moubootaur Legends | 177425 | [177425-moubootaur-legends.json](./177425-moubootaur-legends.json) |
