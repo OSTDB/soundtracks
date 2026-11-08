@@ -7275,6 +7275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens Must Die | 395869 | [395869-aliens-must-die.json](./395869-aliens-must-die.json) |
 | Aliens Need Redhead | 183322 | [183322-aliens-need-redhead.json](./183322-aliens-need-redhead.json) |
 | Aliens on the Table | 101169 | [101169-aliens-on-the-table.json](./101169-aliens-on-the-table.json) |
+| Aliens Online | 94315 | [94315-aliens-online.json](./94315-aliens-online.json) |
 | Aliens Revenge | 332170 | [332170-aliens-revenge.json](./332170-aliens-revenge.json) |
 | Aliens RPG | 84303 | [84303-aliens-rpg.json](./84303-aliens-rpg.json) |
 | Aliens Tower Defense | 248037 | [248037-aliens-tower-defense.json](./248037-aliens-tower-defense.json) |
