@@ -202,6 +202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naked Adventure | 380170 | [380170-naked-adventure.json](./380170-naked-adventure.json) |
 | Naked and Afraid: The Game | 121468 | [121468-naked-and-afraid-the-game.json](./121468-naked-and-afraid-the-game.json) |
 | Naked Dash | 308314 | [308314-naked-dash.json](./308314-naked-dash.json) |
+| Naked Escape Room | 83004 | [83004-naked-escape-room.json](./83004-naked-escape-room.json) |
 | Naked Hero | 367279 | [367279-naked-hero.json](./367279-naked-hero.json) |
 | Naked Little Dude | 131607 | [131607-naked-little-dude.json](./131607-naked-little-dude.json) |
 | Naked News | 129213 | [129213-naked-news.json](./129213-naked-news.json) |
@@ -4909,6 +4910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nihon Pro Mahjong Kishikai Kanshuu: Pro ni naru Mahjong DS | 131600 | [131600-nihon-pro-mahjong-kishikai-kanshuu-pro-ni-naru-mahjong-ds.json](./131600-nihon-pro-mahjong-kishikai-kanshuu-pro-ni-naru-mahjong-ds.json) |
 | Nihon Pro Mahjong Renmei Kounin: Honkaku Pro Mahjong: Shin Tetsuman | 369122 | [369122-nihon-pro-mahjong-renmei-kounin-honkaku-pro-mahjong-shin-tetsuman.json](./369122-nihon-pro-mahjong-renmei-kounin-honkaku-pro-mahjong-shin-tetsuman.json) |
 | Nihon Pro Mahjong Renmei Kounin: Tehodoki Mahjong Nyuumon-hen | 369847 | [369847-nihon-pro-mahjong-renmei-kounin-tehodoki-mahjong-nyuumon-hen.json](./369847-nihon-pro-mahjong-renmei-kounin-tehodoki-mahjong-nyuumon-hen.json) |
+| Nihon Pro Mahjong Renmei: Kounin Dojo Yaburi | 82269 | [82269-nihon-pro-mahjong-renmei-kounin-dojo-yaburi.json](./82269-nihon-pro-mahjong-renmei-kounin-dojo-yaburi.json) |
 | Nihon Sumo Kyokai Kounin: Nihon Oozumou Gekitou Honbasho-hen | 318502 | [318502-nihon-sumo-kyokai-kounin-nihon-oozumou-gekitou-honbasho-hen.json](./318502-nihon-sumo-kyokai-kounin-nihon-oozumou-gekitou-honbasho-hen.json) |
 | Nihon-shi Nengou Grid | 288434 | [288434-nihon-shi-nengou-grid.json](./288434-nihon-shi-nengou-grid.json) |
 | Nihongo de Asobo | 327598 | [327598-nihongo-de-asobo.json](./327598-nihongo-de-asobo.json) |
@@ -5008,6 +5010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nile Kawa no Yoake | 130470 | [130470-nile-kawa-no-yoake.json](./130470-nile-kawa-no-yoake.json) |
 | Nile: An Ancient Egyptian Quest | 71042 | [71042-nile-an-ancient-egyptian-quest.json](./71042-nile-an-ancient-egyptian-quest.json) |
 | Nilia | 146898 | [146898-nilia.json](./146898-nilia.json) |
+| Nillhana | 82252 | [82252-nillhana.json](./82252-nillhana.json) |
 | Nils Holgerssons wunderbare Reise | 325680 | [325680-nils-holgerssons-wunderbare-reise.json](./325680-nils-holgerssons-wunderbare-reise.json) |
 | Nilspace | 150102 | [150102-nilspace.json](./150102-nilspace.json) |
 | Nim | 100217 | [100217-nim.json](./100217-nim.json) |
@@ -5624,6 +5627,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nippon Ichi no Meikantoku | 48803 | [48803-nippon-ichi-no-meikantoku.json](./48803-nippon-ichi-no-meikantoku.json) |
 | Nippon Marathon 2: Daijoubu | 326644 | [326644-nippon-marathon-2-daijoubu.json](./326644-nippon-marathon-2-daijoubu.json) |
 | Nippon no Asoko de | 269518 | [269518-nippon-no-asoko-de.json](./269518-nippon-no-asoko-de.json) |
+| Nippon Pro Mahjong Renmei Kounin: Dojo Yaburi 2 | 82260 | [82260-nippon-pro-mahjong-renmei-kounin-dojo-yaburi-2.json](./82260-nippon-pro-mahjong-renmei-kounin-dojo-yaburi-2.json) |
+| Nippon Pro Mahjong Renmei Kounin: Honkaku Pro Mahjong | 82259 | [82259-nippon-pro-mahjong-renmei-kounin-honkaku-pro-mahjong.json](./82259-nippon-pro-mahjong-renmei-kounin-honkaku-pro-mahjong.json) |
+| Nippon Pro Mahjong Renmei Kounin: Tetsuman | 82261 | [82261-nippon-pro-mahjong-renmei-kounin-tetsuman.json](./82261-nippon-pro-mahjong-renmei-kounin-tetsuman.json) |
 | Nippon Pro Mahjong Renmei Kounin: Tetsuman Advance ~Menkyo Kaiden Series~ | 49748 | [49748-nippon-pro-mahjong-renmei-kounin-tetsuman-advance-menkyo-kaiden-series.json](./49748-nippon-pro-mahjong-renmei-kounin-tetsuman-advance-menkyo-kaiden-series.json) |
 | Nippon Pro Mahjong: Renmei Kounin Motto 20-bai! Mahjgong ga Tsuyoku naru Houhou - Hatsu Chuukyuu-sha-hen | 125913 | [125913-nippon-pro-mahjong-renmei-kounin-motto-20-bai-mahjgong-ga-tsuyoku-naru-houhou-hatsu-chuukyuu-sha-hen.json](./125913-nippon-pro-mahjong-renmei-kounin-motto-20-bai-mahjgong-ga-tsuyoku-naru-houhou-hatsu-chuukyuu-sha-hen.json) |
 | Nippon Safes Inc. | 12703 | [12703-nippon-safes-inc.json](./12703-nippon-safes-inc.json) |
