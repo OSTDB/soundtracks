@@ -6778,6 +6778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice Escaped! | 143529 | [143529-alice-escaped.json](./143529-alice-escaped.json) |
 | Alice fell to Neverland | 225355 | [225355-alice-fell-to-neverland.json](./225355-alice-fell-to-neverland.json) |
 | Alice Fiction | 188327 | [188327-alice-fiction.json](./188327-alice-fiction.json) |
+| Alice Gear Aegis | 83091 | [83091-alice-gear-aegis.json](./83091-alice-gear-aegis.json) |
 | Alice Gear Aegis CS: Concerto of Simulatrix | 198385 | [198385-alice-gear-aegis-cs-concerto-of-simulatrix.json](./198385-alice-gear-aegis-cs-concerto-of-simulatrix.json) |
 | Alice Gear Aegis CS: Concerto of Simulatrix - Limited Edition | 198386 | [198386-alice-gear-aegis-cs-concerto-of-simulatrix-limited-edition.json](./198386-alice-gear-aegis-cs-concerto-of-simulatrix-limited-edition.json) |
 | Alice Greenfingers 2 | 64732 | [64732-alice-greenfingers-2.json](./64732-alice-greenfingers-2.json) |
@@ -17154,6 +17155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
