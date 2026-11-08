@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ocean Trader | 71776 | [71776-ocean-trader.json](./71776-ocean-trader.json) |
 | Ocean Tribes | 176174 | [176174-ocean-tribes.json](./176174-ocean-tribes.json) |
 | Ocean Voyager | 209028 | [209028-ocean-voyager.json](./209028-ocean-voyager.json) |
+| Ocean Wonder VR | 99052 | [99052-ocean-wonder-vr.json](./99052-ocean-wonder-vr.json) |
 | Ocean World: Eden Crafters Prologue | 405664 | [405664-ocean-world-eden-crafters-prologue.json](./405664-ocean-world-eden-crafters-prologue.json) |
 | Ocean: The Place in Your Heart | 208164 | [208164-ocean-the-place-in-your-heart.json](./208164-ocean-the-place-in-your-heart.json) |
 | Ocean's Crabellum | 74372 | [74372-oceans-crabellum.json](./74372-oceans-crabellum.json) |
@@ -2889,6 +2890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oneiro | 226668 | [226668-oneiro.json](./226668-oneiro.json) |
 | Oneiro Man | 299779 | [299779-oneiro-man.json](./299779-oneiro-man.json) |
 | Oneiro(Phobia/Phrenia) | 327159 | [327159-oneiro-phobia-phrenia.json](./327159-oneiro-phobia-phrenia.json) |
+| Oneirogen | 99055 | [99055-oneirogen.json](./99055-oneirogen.json) |
 | Oneiroi | 399043 | [399043-oneiroi.json](./399043-oneiroi.json) |
 | Oneirology Online | 276922 | [276922-oneirology-online.json](./276922-oneirology-online.json) |
 | Oneironaut | 118108 | [118108-oneironaut.json](./118108-oneironaut.json) |
