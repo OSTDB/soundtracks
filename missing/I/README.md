@@ -1988,6 +1988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Igo-Shinan '93 | 63389 | [63389-igo-shinan-93.json](./63389-igo-shinan-93.json) |
 | Igo-Shinan '94 | 63391 | [63391-igo-shinan-94.json](./63391-igo-shinan-94.json) |
 | Igo: Kyuu Roban Taikyoku | 41367 | [41367-igo-kyuu-roban-taikyoku.json](./41367-igo-kyuu-roban-taikyoku.json) |
+| iGobang | 109216 | [109216-igobang.json](./109216-igobang.json) |
 | Igor | 94894 | [94894-igor.json](./94894-igor.json) |
 | Igor Maks: The Meme Lord | 126905 | [126905-igor-maks-the-meme-lord.json](./126905-igor-maks-the-meme-lord.json) |
 | Igor: Objective Uikokahonia | 7652 | [7652-igor-objective-uikokahonia.json](./7652-igor-objective-uikokahonia.json) |
@@ -2715,6 +2716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imperium Universalis | 298726 | [298726-imperium-universalis.json](./298726-imperium-universalis.json) |
 | Imperium: Galactic War | 120263 | [120263-imperium-galactic-war.json](./120263-imperium-galactic-war.json) |
 | Imperium: Galactic War Classic | 244922 | [244922-imperium-galactic-war-classic.json](./244922-imperium-galactic-war-classic.json) |
+| ImperiumAO | 109134 | [109134-imperiumao.json](./109134-imperiumao.json) |
 | Imperiums: Greek Wars - Age of Alexander | 174162 | [174162-imperiums-greek-wars-age-of-alexander.json](./174162-imperiums-greek-wars-age-of-alexander.json) |
 | Imperiums: Rome vs. Carthage | 214277 | [214277-imperiums-rome-vs-carthage.json](./214277-imperiums-rome-vs-carthage.json) |
 | Imperiums: Troy | 171149 | [171149-imperiums-troy.json](./171149-imperiums-troy.json) |
