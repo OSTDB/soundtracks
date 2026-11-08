@@ -7498,6 +7498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nubert's Stand | 402134 | [402134-nuberts-stand.json](./402134-nuberts-stand.json) |
 | NubiaPhobia | 345019 | [345019-nubiaphobia.json](./345019-nubiaphobia.json) |
 | Nubla | 26813 | [26813-nubla.json](./26813-nubla.json) |
+| Nubla 2 | 118539 | [118539-nubla-2.json](./118539-nubla-2.json) |
 | Nuclear Apocalypse 101 | 110032 | [110032-nuclear-apocalypse-101.json](./110032-nuclear-apocalypse-101.json) |
 | Nuclear Arena | 231585 | [231585-nuclear-arena.json](./231585-nuclear-arena.json) |
 | Nuclear Arms Race | 127600 | [127600-nuclear-arms-race.json](./127600-nuclear-arms-race.json) |
