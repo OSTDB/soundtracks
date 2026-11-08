@@ -461,6 +461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wall Ball | 282244 | [282244-wall-ball.json](./282244-wall-ball.json) |
 | Wall Ball | 40681 | [40681-wall-ball.json](./40681-wall-ball.json) |
 | Wall Break | 172658 | [172658-wall-break.json](./172658-wall-break.json) |
+| Wall Clean | 106695 | [106695-wall-clean.json](./106695-wall-clean.json) |
 | Wall Clip | 183028 | [183028-wall-clip.json](./183028-wall-clip.json) |
 | Wall Force | 123509 | [123509-wall-force.json](./123509-wall-force.json) |
 | Wall Gai | 312917 | [312917-wall-gai.json](./312917-wall-gai.json) |
@@ -4218,6 +4219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where Ghost Cats | 306783 | [306783-where-ghost-cats.json](./306783-where-ghost-cats.json) |
 | Where Giants Fall | 403137 | [403137-where-giants-fall.json](./403137-where-giants-fall.json) |
 | Where Have All the Globbletops Gone? | 298425 | [298425-where-have-all-the-globbletops-gone.json](./298425-where-have-all-the-globbletops-gone.json) |
+| Where Humans Shouldn't Go | 107445 | [107445-where-humans-shouldnt-go.json](./107445-where-humans-shouldnt-go.json) |
 | Where I Lived | 224463 | [224463-where-i-lived.json](./224463-where-i-lived.json) |
 | Where in America's Past Is Carmen Sandiego? | 50495 | [50495-where-in-americas-past-is-carmen-sandiego.json](./50495-where-in-americas-past-is-carmen-sandiego.json) |
 | Where in Europe is Carmen Sandiego? | 12824 | [12824-where-in-europe-is-carmen-sandiego.json](./12824-where-in-europe-is-carmen-sandiego.json) |
@@ -8774,6 +8776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World's Fair Jig Saw | 130865 | [130865-worlds-fair-jig-saw.json](./130865-worlds-fair-jig-saw.json) |
 | World's Fastest Pizza | 34599 | [34599-worlds-fastest-pizza.json](./34599-worlds-fastest-pizza.json) |
 | World's Greatest Cities Mahjong | 356376 | [356376-worlds-greatest-cities-mahjong.json](./356376-worlds-greatest-cities-mahjong.json) |
+| World's Greatest Cities Mosaics | 107434 | [107434-worlds-greatest-cities-mosaics.json](./107434-worlds-greatest-cities-mosaics.json) |
 | World's Greatest Cities Mosaics 10 | 294471 | [294471-worlds-greatest-cities-mosaics-10.json](./294471-worlds-greatest-cities-mosaics-10.json) |
 | World's Greatest Cities Mosaics 2 | 415863 | [415863-worlds-greatest-cities-mosaics-2.json](./415863-worlds-greatest-cities-mosaics-2.json) |
 | World's Greatest Cities Mosaics 3 | 416079 | [416079-worlds-greatest-cities-mosaics-3.json](./416079-worlds-greatest-cities-mosaics-3.json) |
