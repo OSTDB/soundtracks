@@ -272,6 +272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackpot Stadium | 91733 | [91733-jackpot-stadium.json](./91733-jackpot-stadium.json) |
 | Jackpot Tycoon | 210128 | [210128-jackpot-tycoon.json](./210128-jackpot-tycoon.json) |
 | Jackpot Words | 261100 | [261100-jackpot-words.json](./261100-jackpot-words.json) |
+| JackQuest: The Tale of the Sword | 110487 | [110487-jackquest-the-tale-of-the-sword.json](./110487-jackquest-the-tale-of-the-sword.json) |
 | Jackroid | 367967 | [367967-jackroid.json](./367967-jackroid.json) |
 | Jacks or Better | 274866 | [274866-jacks-or-better.json](./274866-jacks-or-better.json) |
 | Jacks or Better: Video Poker | 147855 | [147855-jacks-or-better-video-poker.json](./147855-jacks-or-better-video-poker.json) |
