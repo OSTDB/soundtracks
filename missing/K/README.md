@@ -749,6 +749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanji Drive | 231154 | [231154-kanji-drive.json](./231154-kanji-drive.json) |
 | Kanji Drop | 375912 | [375912-kanji-drop.json](./375912-kanji-drop.json) |
 | Kanji Gakusei | 170043 | [170043-kanji-gakusei.json](./170043-kanji-gakusei.json) |
+| Kanji Game - Learn and Practice Japanese | 106786 | [106786-kanji-game-learn-and-practice-japanese.json](./106786-kanji-game-learn-and-practice-japanese.json) |
 | Kanji in Motion | 368288 | [368288-kanji-in-motion.json](./368288-kanji-in-motion.json) |
 | Kanji Industry | 240667 | [240667-kanji-industry.json](./240667-kanji-industry.json) |
 | Kanji Islands | 238279 | [238279-kanji-islands.json](./238279-kanji-islands.json) |
@@ -3671,6 +3672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KingMania | 144481 | [144481-kingmania.json](./144481-kingmania.json) |
 | KingMania: North Kingdom | 144511 | [144511-kingmania-north-kingdom.json](./144511-kingmania-north-kingdom.json) |
 | Kingpin Bowling | 96290 | [96290-kingpin-bowling.json](./96290-kingpin-bowling.json) |
+| Kingpin Royale | 107444 | [107444-kingpin-royale.json](./107444-kingpin-royale.json) |
 | Kingpin: Arcade Sports Bowling | 37110 | [37110-kingpin-arcade-sports-bowling.json](./37110-kingpin-arcade-sports-bowling.json) |
 | Kingpin: Life of Crime | 8565 | [8565-kingpin-life-of-crime.json](./8565-kingpin-life-of-crime.json) |
 | Kingpin: Reloaded | 128487 | [128487-kingpin-reloaded.json](./128487-kingpin-reloaded.json) |
@@ -4221,6 +4223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kittens & Coffee | 306308 | [306308-kittens-and-coffee.json](./306308-kittens-and-coffee.json) |
 | Kittens and Cacti | 71236 | [71236-kittens-and-cacti.json](./71236-kittens-and-cacti.json) |
 | Kittens and Yarn | 152655 | [152655-kittens-and-yarn.json](./152655-kittens-and-yarn.json) |
+| Kittens Game | 107334 | [107334-kittens-game.json](./107334-kittens-game.json) |
 | Kittens in Post-Apocalyptic Fantasy San Francisco: Battle School for Only the Most Awesome Monsters | 204172 | [204172-kittens-in-post-apocalyptic-fantasy-san-francisco-battle-school-for-only-the-most-awesome-monsters.json](./204172-kittens-in-post-apocalyptic-fantasy-san-francisco-battle-school-for-only-the-most-awesome-monsters.json) |
 | Kittens in Space | 224700 | [224700-kittens-in-space.json](./224700-kittens-in-space.json) |
 | Kittens of Fear | 155664 | [155664-kittens-of-fear.json](./155664-kittens-of-fear.json) |
