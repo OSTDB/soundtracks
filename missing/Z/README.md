@@ -1473,6 +1473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZomBees: Bee The Swarm | 58877 | [58877-zombees-bee-the-swarm.json](./58877-zombees-bee-the-swarm.json) |
 | Zombeez: A Killer Queen Remix | 166441 | [166441-zombeez-a-killer-queen-remix.json](./166441-zombeez-a-killer-queen-remix.json) |
 | ZomBehead! | 264217 | [264217-zombehead.json](./264217-zombehead.json) |
+| Zombei Match Defense | 107335 | [107335-zombei-match-defense.json](./107335-zombei-match-defense.json) |
 | Zombeo and Vampireta | 399696 | [399696-zombeo-and-vampireta.json](./399696-zombeo-and-vampireta.json) |
 | Zombetes | 312498 | [312498-zombetes.json](./312498-zombetes.json) |
 | ZombFarm | 315936 | [315936-zombfarm.json](./315936-zombfarm.json) |
@@ -1659,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Dinos From Planet Zeltoid | 2379 | [2379-zombie-dinos-from-planet-zeltoid.json](./2379-zombie-dinos-from-planet-zeltoid.json) |
 | Zombie Disaster Drill | 376765 | [376765-zombie-disaster-drill.json](./376765-zombie-disaster-drill.json) |
 | Zombie Dolls | 312500 | [312500-zombie-dolls.json](./312500-zombie-dolls.json) |
+| Zombie Donuts | 106686 | [106686-zombie-donuts.json](./106686-zombie-donuts.json) |
 | Zombie Drift | 149521 | [149521-zombie-drift.json](./149521-zombie-drift.json) |
 | Zombie Driver | 20668 | [20668-zombie-driver.json](./20668-zombie-driver.json) |
 | Zombie Driver HD | 9051 | [9051-zombie-driver-hd.json](./9051-zombie-driver-hd.json) |
@@ -2010,6 +2012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Virus | 193788 | [193788-zombie-virus.json](./193788-zombie-virus.json) |
 | Zombie Virus | 43266 | [43266-zombie-virus.json](./43266-zombie-virus.json) |
 | Zombie Virus Ukraine 2022 | 260446 | [260446-zombie-virus-ukraine-2022.json](./260446-zombie-virus-ukraine-2022.json) |
+| Zombie vs Human: Bow Masters | 106726 | [106726-zombie-vs-human-bow-masters.json](./106726-zombie-vs-human-bow-masters.json) |
 | Zombie vs. Human | 177026 | [177026-zombie-vs-human.json](./177026-zombie-vs-human.json) |
 | Zombie vs. Police | 192433 | [192433-zombie-vs-police.json](./192433-zombie-vs-police.json) |
 | Zombie vs. Sniper | 297016 | [297016-zombie-vs-sniper.json](./297016-zombie-vs-sniper.json) |
