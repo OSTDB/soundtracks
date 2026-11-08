@@ -10507,6 +10507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MFGG 20th Anniversary Time Capsule | 165110 | [165110-mfgg-20th-anniversary-time-capsule.json](./165110-mfgg-20th-anniversary-time-capsule.json) |
 | MFGGK | 323966 | [323966-mfggk.json](./323966-mfggk.json) |
 | MFGGK2 | 323926 | [323926-mfggk2.json](./323926-mfggk2.json) |
+| MFP: My Friend Pedro | 123707 | [123707-mfp-my-friend-pedro.json](./123707-mfp-my-friend-pedro.json) |
 | MFTK: Survivors | 408193 | [408193-mftk-survivors.json](./408193-mftk-survivors.json) |
 | MG-09: Space Bridge | 245446 | [245446-mg-09-space-bridge.json](./245446-mg-09-space-bridge.json) |
 | MG-13: Explorers of Space | 245445 | [245445-mg-13-explorers-of-space.json](./245445-mg-13-explorers-of-space.json) |
@@ -19153,6 +19154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | mr.Vegan | 103639 | [103639-mr-vegan.json](./103639-mr-vegan.json) |
 | Mr.Welder's Pinball Defence | 278146 | [278146-mr-welders-pinball-defence.json](./278146-mr-welders-pinball-defence.json) |
 | Mr.Wise | 236844 | [236844-mr-wise.json](./236844-mr-wise.json) |
+| Mrak | 123680 | [123680-mrak.json](./123680-mrak.json) |
 | MrBeast: TeamSeas | 228316 | [228316-mrbeast-teamseas.json](./228316-mrbeast-teamseas.json) |
 | MRC: Multi-Racing Championship | 3544 | [3544-mrc-multi-racing-championship.json](./3544-mrc-multi-racing-championship.json) |
 | MRC6-454 | 123241 | [123241-mrc6-454.json](./123241-mrc6-454.json) |
