@@ -2488,6 +2488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Chores | 304901 | [304901-farm-chores.json](./304901-farm-chores.json) |
 | Farm Colony | 259451 | [259451-farm-colony.json](./259451-farm-colony.json) |
 | Farm Craft | 209263 | [209263-farm-craft.json](./209263-farm-craft.json) |
+| Farm Crush | 106178 | [106178-farm-crush.json](./106178-farm-crush.json) |
 | Farm Day 2023 | 241393 | [241393-farm-day-2023.json](./241393-farm-day-2023.json) |
 | Farm Day Simulator 2024 | 283728 | [283728-farm-day-simulator-2024.json](./283728-farm-day-simulator-2024.json) |
 | Farm Debt Repay Life | 291862 | [291862-farm-debt-repay-life.json](./291862-farm-debt-repay-life.json) |
@@ -13353,7 +13354,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fugu Maze | 104703 | [104703-fugu-maze.json](./104703-fugu-maze.json) |
 | Fugue | 104072 | [104072-fugue.json](./104072-fugue.json) |
 | Fugue | 376806 | [376806-fugue.json](./376806-fugue.json) |
-| Fugue in Void | 105212 | [105212-fugue-in-void.json](./105212-fugue-in-void.json) |
 | Fugue State | 106420 | [106420-fugue-state.json](./106420-fugue-state.json) |
 | Fuhrer in LA: Special Edition | 252177 | [252177-fuhrer-in-la-special-edition.json](./252177-fuhrer-in-la-special-edition.json) |
 | Fuji Golf | 230754 | [230754-fuji-golf.json](./230754-fuji-golf.json) |
