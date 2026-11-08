@@ -3190,6 +3190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incarnation: Flame | 174823 | [174823-incarnation-flame.json](./174823-incarnation-flame.json) |
 | Incaved | 217356 | [217356-incaved.json](./217356-incaved.json) |
 | Incaved Runner | 270036 | [270036-incaved-runner.json](./270036-incaved-runner.json) |
+| Incel Clicker | 111256 | [111256-incel-clicker.json](./111256-incel-clicker.json) |
 | Incel Simulator | 315286 | [315286-incel-simulator.json](./315286-incel-simulator.json) |
 | Incel Syndrome | 156721 | [156721-incel-syndrome.json](./156721-incel-syndrome.json) |
 | InCell | 12302 | [12302-incell.json](./12302-incell.json) |
@@ -5859,6 +5860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Irezumi Defenders | 375225 | [375225-irezumi-defenders.json](./375225-irezumi-defenders.json) |
 | Irheobeorin Jeguk | 145580 | [145580-irheobeorin-jeguk.json](./145580-irheobeorin-jeguk.json) |
 | Irian: City of Ruin | 370733 | [370733-irian-city-of-ruin.json](./370733-irian-city-of-ruin.json) |
+| Iridescence | 111265 | [111265-iridescence.json](./111265-iridescence.json) |
 | Iridescent | 298667 | [298667-iridescent.json](./298667-iridescent.json) |
 | Iridescent | 301860 | [301860-iridescent.json](./301860-iridescent.json) |
 | Iridescent Crown | 350515 | [350515-iridescent-crown.json](./350515-iridescent-crown.json) |
@@ -6217,6 +6219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iSays - Simon Says Classic Color Switch Memory Game | 89733 | [89733-isays-simon-says-classic-color-switch-memory-game.json](./89733-isays-simon-says-classic-color-switch-memory-game.json) |
 | Iscoot | 392153 | [392153-iscoot.json](./392153-iscoot.json) |
 | iScopaX | 100737 | [100737-iscopax.json](./100737-iscopax.json) |
+| IScream | 111137 | [111137-iscream.json](./111137-iscream.json) |
 | ISDDS: Drone VR Simulator | 163919 | [163919-isdds-drone-vr-simulator.json](./163919-isdds-drone-vr-simulator.json) |
 | Ise & Kai: Chosen Throne | 178332 | [178332-ise-and-kai-chosen-throne.json](./178332-ise-and-kai-chosen-throne.json) |
 | Ise Shima Mystery Annai: Itsuwari no Kuro Shinju | 69363 | [69363-ise-shima-mystery-annai-itsuwari-no-kuro-shinju.json](./69363-ise-shima-mystery-annai-itsuwari-no-kuro-shinju.json) |
