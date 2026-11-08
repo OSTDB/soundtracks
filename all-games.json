@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-08T13:26:28.707Z",
-  "total_soundtracks": 3000,
+  "generated_at": "2026-11-08T13:31:19.843Z",
+  "total_soundtracks": 3007,
   "games": [
     {
       "igdb_id": 7522,
@@ -8515,6 +8515,20 @@
       ]
     },
     {
+      "igdb_id": 83908,
+      "game_name": "Dick Tracy",
+      "game_url": "https://ostdb.net/games/dick-tracy",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f3053507d09d9255c66219b4",
+      "albums": [
+        {
+          "album_name": "Dick Tracy (Original Score)",
+          "spotify_url": "https://open.spotify.com/album/2XDygZpsekWS5p44DDT2IL",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 2636,
       "game_name": "Dig Dug",
       "game_url": "https://ostdb.net/games/dig-dug",
@@ -8691,6 +8705,20 @@
         {
           "album_name": "Disintegration (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1QXjWIIyZXTlyfA9dbHQHX",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 112005,
+      "game_name": "Disjunction",
+      "game_url": "https://ostdb.net/games/disjunction",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730a41b6d38d2bcf22ab5e2b14",
+      "albums": [
+        {
+          "album_name": "Disjunction (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5KfHWq33aNWc4DVAkXedzj",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -12464,6 +12492,20 @@
           "album_name": "Ftl: Faster Than Light - Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/7us4WRnwvqCE3cppHVNjIu",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 105212,
+      "game_name": "Fugue in Void",
+      "game_url": "https://ostdb.net/games/fugue-in-void",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2733bedd0cf0c6ee685788c271f",
+      "albums": [
+        {
+          "album_name": "Fugue in Void (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1RTKPghOJ5l7WEqsGWCJXq",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -22311,6 +22353,34 @@
       ]
     },
     {
+      "igdb_id": 78060,
+      "game_name": "One",
+      "game_url": "https://ostdb.net/games/one",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27394062c806a49dfd36849a878",
+      "albums": [
+        {
+          "album_name": "ONE Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/7pMLU2xXsFt1K33XXhqONW",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 103408,
+      "game_name": "One Hand Clapping",
+      "game_url": "https://ostdb.net/games/one-hand-clapping",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273cef683d8f1ff036e86a4533d",
+      "albums": [
+        {
+          "album_name": "One Hand Clapping (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0nQqB6AJAyENQffiRxcehN",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 111717,
       "game_name": "One Step From Eden",
       "game_url": "https://ostdb.net/games/one-step-from-eden",
@@ -24743,6 +24813,20 @@
       ]
     },
     {
+      "igdb_id": 115206,
+      "game_name": "Rebel Inc.",
+      "game_url": "https://ostdb.net/games/rebel-inc",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273f83c5c05d14aeeab87101fcc",
+      "albums": [
+        {
+          "album_name": "Rebel Inc. (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0F0hprsJcZpUVCbPT9MoKL",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 434,
       "game_name": "Red Dead Redemption",
       "game_url": "https://ostdb.net/games/red-dead-redemption",
@@ -25703,6 +25787,20 @@
         {
           "album_name": "Rise of Industry (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/2YPm9dz3BVI9MkIslpXFYZ",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 34665,
+      "game_name": "Rise of Insanity",
+      "game_url": "https://ostdb.net/games/rise-of-insanity",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27367d3d4cd2003c38eec4cd6e8",
+      "albums": [
+        {
+          "album_name": "Rise of Insanity (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0raYanFITekmBWKEAdyCWi",
           "apple_music_url": "",
           "album_link_url": ""
         }
