@@ -3606,6 +3606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap Age | 280468 | [280468-scrap-age.json](./280468-scrap-age.json) |
 | Scrap Age Survivors | 306498 | [306498-scrap-age-survivors.json](./306498-scrap-age-survivors.json) |
 | Scrap and Battery | 284297 | [284297-scrap-and-battery.json](./284297-scrap-and-battery.json) |
+| Scrap Arms | 117902 | [117902-scrap-arms.json](./117902-scrap-arms.json) |
 | Scrap Ascent | 423274 | [423274-scrap-ascent.json](./423274-scrap-ascent.json) |
 | Scrap Attack | 81924 | [81924-scrap-attack.json](./81924-scrap-attack.json) |
 | Scrap Bastion | 239813 | [239813-scrap-bastion.json](./239813-scrap-bastion.json) |
@@ -5831,6 +5832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sepulcrum | 344889 | [344889-sepulcrum.json](./344889-sepulcrum.json) |
 | Seq | 175080 | [175080-seq.json](./175080-seq.json) |
 | Seqitaire | 207312 | [207312-seqitaire.json](./207312-seqitaire.json) |
+| Sequela | 117875 | [117875-sequela.json](./117875-sequela.json) |
 | Sequence | 304526 | [304526-sequence.json](./304526-sequence.json) |
 | Sequence - Robot programming simulator | 107527 | [107527-sequence-robot-programming-simulator.json](./107527-sequence-robot-programming-simulator.json) |
 | Sequence Jump | 361854 | [361854-sequence-jump.json](./361854-sequence-jump.json) |
@@ -12507,6 +12509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skill Test: Online | 319639 | [319639-skill-test-online.json](./319639-skill-test-online.json) |
 | Skill Up! | 289445 | [289445-skill-up.json](./289445-skill-up.json) |
 | Skillful Pixel Dungeon | 312607 | [312607-skillful-pixel-dungeon.json](./312607-skillful-pixel-dungeon.json) |
+| SkillGrid | 117881 | [117881-skillgrid.json](./117881-skillgrid.json) |
 | SkillGrid | 392785 | [392785-skillgrid.json](./392785-skillgrid.json) |
 | Skills and Slimes | 340367 | [340367-skills-and-slimes.json](./340367-skills-and-slimes.json) |
 | Skills Hockey VR | 29431 | [29431-skills-hockey-vr.json](./29431-skills-hockey-vr.json) |
@@ -12952,6 +12955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Taxi 3: The Movie | 54369 | [54369-sky-taxi-3-the-movie.json](./54369-sky-taxi-3-the-movie.json) |
 | Sky Taxi 4: Top Secret | 54371 | [54371-sky-taxi-4-top-secret.json](./54371-sky-taxi-4-top-secret.json) |
 | Sky Taxi: GMO Armageddon | 54370 | [54370-sky-taxi-gmo-armageddon.json](./54370-sky-taxi-gmo-armageddon.json) |
+| Sky TD: Tower Defense Strategy Game | 117894 | [117894-sky-td-tower-defense-strategy-game.json](./117894-sky-td-tower-defense-strategy-game.json) |
 | Sky the Scraper | 256338 | [256338-sky-the-scraper.json](./256338-sky-the-scraper.json) |
 | Sky to Fly: Soulless Leviathan | 33143 | [33143-sky-to-fly-soulless-leviathan.json](./33143-sky-to-fly-soulless-leviathan.json) |
 | Sky Tomb | 224927 | [224927-sky-tomb.json](./224927-sky-tomb.json) |
@@ -13127,6 +13131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylight | 83929 | [83929-skylight.json](./83929-skylight.json) |
 | Skylight Freerange | 99506 | [99506-skylight-freerange.json](./99506-skylight-freerange.json) |
 | Skylight Freerange 2: Gachduine | 99522 | [99522-skylight-freerange-2-gachduine.json](./99522-skylight-freerange-2-gachduine.json) |
+| Skylight Racer | 117915 | [117915-skylight-racer.json](./117915-skylight-racer.json) |
 | Skyline | 370425 | [370425-skyline.json](./370425-skyline.json) |
 | Skyline Blade | 248058 | [248058-skyline-blade.json](./248058-skyline-blade.json) |
 | Skyline Bowling | 330609 | [330609-skyline-bowling.json](./330609-skyline-bowling.json) |
@@ -19729,6 +19734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Commanders | 397256 | [397256-space-commanders.json](./397256-space-commanders.json) |
 | Space Commanders II | 85797 | [85797-space-commanders-ii.json](./85797-space-commanders-ii.json) |
 | Space Company Simulator | 114108 | [114108-space-company-simulator.json](./114108-space-company-simulator.json) |
+| Space Company Simulator | 117891 | [117891-space-company-simulator.json](./117891-space-company-simulator.json) |
 | Space Confetti | 178962 | [178962-space-confetti.json](./178962-space-confetti.json) |
 | Space Conflict: Runner | 241548 | [241548-space-conflict-runner.json](./241548-space-conflict-runner.json) |
 | Space Conquest | 44133 | [44133-space-conquest.json](./44133-space-conquest.json) |
@@ -19823,6 +19829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Duel | 276533 | [276533-space-duel.json](./276533-space-duel.json) |
 | Space Duels | 148809 | [148809-space-duels.json](./148809-space-duels.json) |
 | Space Duet | 130720 | [130720-space-duet.json](./130720-space-duet.json) |
+| Space Duke | 117872 | [117872-space-duke.json](./117872-space-duke.json) |
 | Space Dungeon | 18842 | [18842-space-dungeon.json](./18842-space-dungeon.json) |
 | Space Dust | 240673 | [240673-space-dust.json](./240673-space-dust.json) |
 | Space Dvrts | 31529 | [31529-space-dvrts.json](./31529-space-dvrts.json) |
@@ -21548,6 +21555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speedrun Maker | 340187 | [340187-speedrun-maker.json](./340187-speedrun-maker.json) |
 | Speedrun Ninja | 116204 | [116204-speedrun-ninja.json](./116204-speedrun-ninja.json) |
 | Speedrun Simulator | 350342 | [350342-speedrun-simulator.json](./350342-speedrun-simulator.json) |
+| Speedrun Squad | 117911 | [117911-speedrun-squad.json](./117911-speedrun-squad.json) |
 | Speedrun Squid | 185133 | [185133-speedrun-squid.json](./185133-speedrun-squid.json) |
 | Speedrun the Game | 159309 | [159309-speedrun-the-game.json](./159309-speedrun-the-game.json) |
 | Speedrun World | 405669 | [405669-speedrun-world.json](./405669-speedrun-world.json) |
@@ -31380,6 +31388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Clown: Lost Diamonds | 190445 | [190445-super-clown-lost-diamonds.json](./190445-super-clown-lost-diamonds.json) |
 | Super Club Soccer | 110018 | [110018-super-club-soccer.json](./110018-super-club-soccer.json) |
 | Super Club Tennis | 147857 | [147857-super-club-tennis.json](./147857-super-club-tennis.json) |
+| Super Co-op Adventure | 117900 | [117900-super-co-op-adventure.json](./117900-super-co-op-adventure.json) |
 | Super Cobra | 282073 | [282073-super-cobra.json](./282073-super-cobra.json) |
 | Super Cobra | 345234 | [345234-super-cobra.json](./345234-super-cobra.json) |
 | Super Cobra | 345235 | [345235-super-cobra.json](./345235-super-cobra.json) |
