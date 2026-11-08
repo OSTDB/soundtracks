@@ -1955,6 +1955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Golfing | 166275 | [166275-tank-golfing.json](./166275-tank-golfing.json) |
 | Tank Guards | 169541 | [169541-tank-guards.json](./169541-tank-guards.json) |
 | Tank Hangar Simulator | 193636 | [193636-tank-hangar-simulator.json](./193636-tank-hangar-simulator.json) |
+| Tank Hero | 104279 | [104279-tank-hero.json](./104279-tank-hero.json) |
 | Tank Hero: Awesome Tank War g | 231885 | [231885-tank-hero-awesome-tank-war-g.json](./231885-tank-hero-awesome-tank-war-g.json) |
 | Tank Hero: Laser Wars | 101491 | [101491-tank-hero-laser-wars.json](./101491-tank-hero-laser-wars.json) |
 | Tank Hunter | 311167 | [311167-tank-hunter.json](./311167-tank-hunter.json) |
@@ -2514,6 +2515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taps: Beautifully Simple | 175267 | [175267-taps-beautifully-simple.json](./175267-taps-beautifully-simple.json) |
 | Tapsonic Bold | 110700 | [110700-tapsonic-bold.json](./110700-tapsonic-bold.json) |
 | Tapsonic Top | 108873 | [108873-tapsonic-top.json](./108873-tapsonic-top.json) |
+| TapSonic World Champion VR | 104185 | [104185-tapsonic-world-champion-vr.json](./104185-tapsonic-world-champion-vr.json) |
 | TapTap Heroes | 96264 | [96264-taptap-heroes.json](./96264-taptap-heroes.json) |
 | TapTapBadger | 262353 | [262353-taptapbadger.json](./262353-taptapbadger.json) |
 | TaptapTaptapTaptapTap | 66764 | [66764-taptaptaptaptaptaptap.json](./66764-taptaptaptaptaptaptap.json) |
@@ -8676,6 +8678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Drafting Table | 231645 | [231645-the-drafting-table.json](./231645-the-drafting-table.json) |
 | The Dragon and the Djinn | 189166 | [189166-the-dragon-and-the-djinn.json](./189166-the-dragon-and-the-djinn.json) |
 | The Dragon Apprentice | 196883 | [196883-the-dragon-apprentice.json](./196883-the-dragon-apprentice.json) |
+| The Dragon Code | 104183 | [104183-the-dragon-code.json](./104183-the-dragon-code.json) |
 | The Dragon Judge Rhadamanthus | 27177 | [27177-the-dragon-judge-rhadamanthus.json](./27177-the-dragon-judge-rhadamanthus.json) |
 | The Dragon Odyssey | 335805 | [335805-the-dragon-odyssey.json](./335805-the-dragon-odyssey.json) |
 | The Dragon Prince: Xadia | 276331 | [276331-the-dragon-prince-xadia.json](./276331-the-dragon-prince-xadia.json) |
@@ -14978,6 +14981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outsider | 370069 | [370069-the-outsider.json](./370069-the-outsider.json) |
 | The Outsider | 52938 | [52938-the-outsider.json](./52938-the-outsider.json) |
 | The Outsider TD | 235661 | [235661-the-outsider-td.json](./235661-the-outsider-td.json) |
+| The Outsiders | 104208 | [104208-the-outsiders.json](./104208-the-outsiders.json) |
 | The Outsiders | 247952 | [247952-the-outsiders.json](./247952-the-outsiders.json) |
 | The Outskirts | 412394 | [412394-the-outskirts.json](./412394-the-outskirts.json) |
 | The Overlap | 334406 | [334406-the-overlap.json](./334406-the-overlap.json) |
@@ -26298,6 +26302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Topple Tactics | 272547 | [272547-topple-tactics.json](./272547-topple-tactics.json) |
 | Topple the Tower | 249839 | [249839-topple-the-tower.json](./249839-topple-the-tower.json) |
 | Topple Zip | 41316 | [41316-topple-zip.json](./41316-topple-zip.json) |
+| Topple! | 104193 | [104193-topple.json](./104193-topple.json) |
 | Toppled | 288099 | [288099-toppled.json](./288099-toppled.json) |
 | TopplePop: Bungee Blockbusters | 124211 | [124211-topplepop-bungee-blockbusters.json](./124211-topplepop-bungee-blockbusters.json) |
 | Toppler | 79002 | [79002-toppler.json](./79002-toppler.json) |
@@ -33639,6 +33644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle Rush | 122368 | [122368-turtle-rush.json](./122368-turtle-rush.json) |
 | Turtle Rush | 254386 | [254386-turtle-rush.json](./254386-turtle-rush.json) |
 | Turtle Ship | 38554 | [38554-turtle-ship.json](./38554-turtle-ship.json) |
+| Turtle Swing | 104285 | [104285-turtle-swing.json](./104285-turtle-swing.json) |
 | Turtle Tale | 79280 | [79280-turtle-tale.json](./79280-turtle-tale.json) |
 | Turtle VR | 128448 | [128448-turtle-vr.json](./128448-turtle-vr.json) |
 | Turtle vs. Portal | 166411 | [166411-turtle-vs-portal.json](./166411-turtle-vs-portal.json) |
