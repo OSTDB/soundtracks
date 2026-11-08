@@ -9809,6 +9809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Cub | 188914 | [188914-dino-cub.json](./188914-dino-cub.json) |
 | Dino D-Day | 8701 | [8701-dino-d-day.json](./8701-dino-d-day.json) |
 | Dino Dan: Dino Dig Site | 105897 | [105897-dino-dan-dino-dig-site.json](./105897-dino-dan-dino-dig-site.json) |
+| Dino Dan: Dino Racer | 90868 | [90868-dino-dan-dino-racer.json](./90868-dino-dan-dino-racer.json) |
 | Dino Dan: Trek's Adventure | 102503 | [102503-dino-dan-treks-adventure.json](./102503-dino-dan-treks-adventure.json) |
 | Dino Dana - Experiments | 95828 | [95828-dino-dana-experiments.json](./95828-dino-dana-experiments.json) |
 | Dino Dana : Dino Express | 103670 | [103670-dino-dana-dino-express.json](./103670-dino-dana-dino-express.json) |
@@ -11765,6 +11766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doctor Arcana and The Secret of Shadowspire | 271076 | [271076-doctor-arcana-and-the-secret-of-shadowspire.json](./271076-doctor-arcana-and-the-secret-of-shadowspire.json) |
 | Doctor Bunny | 141127 | [141127-doctor-bunny.json](./141127-doctor-bunny.json) |
 | Doctor Cat | 256672 | [256672-doctor-cat.json](./256672-doctor-cat.json) |
+| Doctor Detective | 90758 | [90758-doctor-detective.json](./90758-doctor-detective.json) |
 | Doctor Fizzwizzle's Animal Rescue | 50634 | [50634-doctor-fizzwizzles-animal-rescue.json](./50634-doctor-fizzwizzles-animal-rescue.json) |
 | Doctor Flow | 102888 | [102888-doctor-flow.json](./102888-doctor-flow.json) |
 | Doctor Galaxy | 416826 | [416826-doctor-galaxy.json](./416826-doctor-galaxy.json) |
@@ -13773,6 +13775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dope TrashCanners | 179825 | [179825-dope-trashcanners.json](./179825-dope-trashcanners.json) |
 | Dope Wars | 94588 | [94588-dope-wars.json](./94588-dope-wars.json) |
 | Dope Wars Mean Streets | 294287 | [294287-dope-wars-mean-streets.json](./294287-dope-wars-mean-streets.json) |
+| Dope Wars: Weed Edition | 90747 | [90747-dope-wars-weed-edition.json](./90747-dope-wars-weed-edition.json) |
 | DopeMine Arena | 194556 | [194556-dopemine-arena.json](./194556-dopemine-arena.json) |
 | DopePie Survivors 3D | 390265 | [390265-dopepie-survivors-3d.json](./390265-dopepie-survivors-3d.json) |
 | Doppa | 247425 | [247425-doppa.json](./247425-doppa.json) |
