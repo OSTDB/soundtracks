@@ -113,6 +113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.I.P. | 381005 | [381005-r-i-p.json](./381005-r-i-p.json) |
 | R.I.P. | 77984 | [77984-r-i-p.json](./77984-r-i-p.json) |
 | R.I.P. Curl | 291613 | [291613-r-i-p-curl.json](./291613-r-i-p-curl.json) |
+| R.I.P.: Strike Back | 131032 | [131032-r-i-p-strike-back.json](./131032-r-i-p-strike-back.json) |
 | R.I.Pea-Guy | 141598 | [141598-r-i-pea-guy.json](./141598-r-i-pea-guy.json) |
 | R.I.S.K. | 55184 | [55184-r-i-s-k.json](./55184-r-i-s-k.json) |
 | R.O.M. Gold - Rings of Medusa | 85947 | [85947-r-o-m-gold-rings-of-medusa.json](./85947-r-o-m-gold-rings-of-medusa.json) |
@@ -2835,6 +2836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ready Aim Fire | 149295 | [149295-ready-aim-fire.json](./149295-ready-aim-fire.json) |
 | Ready Contest | 112233 | [112233-ready-contest.json](./112233-ready-contest.json) |
 | Ready for Riot | 210976 | [210976-ready-for-riot.json](./210976-ready-for-riot.json) |
+| Ready Games | 131039 | [131039-ready-games.json](./131039-ready-games.json) |
 | Ready or Die | 389071 | [389071-ready-or-die.json](./389071-ready-or-die.json) |
 | Ready or Not: Boiling Point | 394376 | [394376-ready-or-not-boiling-point.json](./394376-ready-or-not-boiling-point.json) |
 | Ready or Not: Dark Waters | 324580 | [324580-ready-or-not-dark-waters.json](./324580-ready-or-not-dark-waters.json) |
