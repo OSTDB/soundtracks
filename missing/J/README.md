@@ -1044,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Truck | 322049 | [322049-jelly-truck.json](./322049-jelly-truck.json) |
 | Jelly Wants More | 105377 | [105377-jelly-wants-more.json](./105377-jelly-wants-more.json) |
 | Jelly Wars | 114732 | [114732-jelly-wars.json](./114732-jelly-wars.json) |
+| Jelly Wrestle | 105575 | [105575-jelly-wrestle.json](./105575-jelly-wrestle.json) |
 | Jelly Zoo | 236979 | [236979-jelly-zoo.json](./236979-jelly-zoo.json) |
 | Jelly-Jelly | 301890 | [301890-jelly-jelly.json](./301890-jelly-jelly.json) |
 | Jelly: A love story | 191415 | [191415-jelly-a-love-story.json](./191415-jelly-a-love-story.json) |
@@ -3768,6 +3769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junk Sec | 394901 | [394901-junk-sec.json](./394901-junk-sec.json) |
 | Junk Shop Telescope | 145475 | [145475-junk-shop-telescope.json](./145475-junk-shop-telescope.json) |
 | Junk Survivor | 246075 | [246075-junk-survivor.json](./246075-junk-survivor.json) |
+| Junk Truck | 105461 | [105461-junk-truck.json](./105461-junk-truck.json) |
 | Junk: The Legend of Junichi Kato | 164235 | [164235-junk-the-legend-of-junichi-kato.json](./164235-junk-the-legend-of-junichi-kato.json) |
 | Junk! | 345637 | [345637-junk.json](./345637-junk.json) |
 | Junkbot | 226067 | [226067-junkbot.json](./226067-junkbot.json) |
