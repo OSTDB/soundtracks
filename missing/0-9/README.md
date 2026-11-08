@@ -3467,6 +3467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8AM: The Subway | 377397 | [377397-8am-the-subway.json](./377397-8am-the-subway.json) |
 | 8AM: The Swimming Pool | 377396 | [377396-8am-the-swimming-pool.json](./377396-8am-the-swimming-pool.json) |
 | 8AM: The Warehouse | 375238 | [375238-8am-the-warehouse.json](./375238-8am-the-warehouse.json) |
+| 8Ball Zig Zig Zi | 90865 | [90865-8ball-zig-zig-zi.json](./90865-8ball-zig-zig-zi.json) |
 | 8BallAllstars | 55079 | [55079-8ballallstars.json](./55079-8ballallstars.json) |
 | 8bit Doves | 262348 | [262348-8bit-doves.json](./262348-8bit-doves.json) |
 | 8Bit Fiesta | 24822 | [24822-8bit-fiesta.json](./24822-8bit-fiesta.json) |
