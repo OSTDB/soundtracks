@@ -2247,6 +2247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jishou no Chihei Mendako | 150238 | [150238-jishou-no-chihei-mendako.json](./150238-jishou-no-chihei-mendako.json) |
 | Jissen Billiards | 92297 | [92297-jissen-billiards.json](./92297-jissen-billiards.json) |
 | Jissen Kyoutei | 42643 | [42643-jissen-kyoutei.json](./42643-jissen-kyoutei.json) |
+| Jissen Pachi-Slot Hisshouhou! Disc Up | 82296 | [82296-jissen-pachi-slot-hisshouhou-disc-up.json](./82296-jissen-pachi-slot-hisshouhou-disc-up.json) |
 | Jissen Pachi-Slot Hisshouhou! DS: Aladdin II Evolution | 269825 | [269825-jissen-pachi-slot-hisshouhou-ds-aladdin-ii-evolution.json](./269825-jissen-pachi-slot-hisshouhou-ds-aladdin-ii-evolution.json) |
 | Jissen Pachi-Slot Hisshouhou! Hokuto no Ken | 64182 | [64182-jissen-pachi-slot-hisshouhou-hokuto-no-ken.json](./64182-jissen-pachi-slot-hisshouhou-hokuto-no-ken.json) |
 | Jissen Pachi-Slot Hisshouhou! Hokuto no Ken 2: Ransei Haou-den Tenha no Shou | 64174 | [64174-jissen-pachi-slot-hisshouhou-hokuto-no-ken-2-ransei-haou-den-tenha-no-shou.json](./64174-jissen-pachi-slot-hisshouhou-hokuto-no-ken-2-ransei-haou-den-tenha-no-shou.json) |
@@ -2257,6 +2258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jissen Pachi-Slot Hisshouhou! Hokuto no Ken SE | 64178 | [64178-jissen-pachi-slot-hisshouhou-hokuto-no-ken-se.json](./64178-jissen-pachi-slot-hisshouhou-hokuto-no-ken-se.json) |
 | Jissen Pachi-Slot Hisshouhou! Hokuto no Ken SE DS | 64177 | [64177-jissen-pachi-slot-hisshouhou-hokuto-no-ken-se-ds.json](./64177-jissen-pachi-slot-hisshouhou-hokuto-no-ken-se-ds.json) |
 | Jissen Pachi-Slot Hisshouhou! Hokuto no Ken SE Portable | 64176 | [64176-jissen-pachi-slot-hisshouhou-hokuto-no-ken-se-portable.json](./64176-jissen-pachi-slot-hisshouhou-hokuto-no-ken-se-portable.json) |
+| Jissen Pachi-Slot Hisshouhou! Juu-oh | 82297 | [82297-jissen-pachi-slot-hisshouhou-juu-oh.json](./82297-jissen-pachi-slot-hisshouhou-juu-oh.json) |
 | Jissen Pachi-Slot Hisshouhou! Juuou Advance | 49658 | [49658-jissen-pachi-slot-hisshouhou-juuou-advance.json](./49658-jissen-pachi-slot-hisshouhou-juuou-advance.json) |
 | Jissen Pachi-Slot Hisshouhou! King Camel | 82304 | [82304-jissen-pachi-slot-hisshouhou-king-camel.json](./82304-jissen-pachi-slot-hisshouhou-king-camel.json) |
 | Jissen Pachi-Slot Hisshouhou! Mou-juu-oh S | 82302 | [82302-jissen-pachi-slot-hisshouhou-mou-juu-oh-s.json](./82302-jissen-pachi-slot-hisshouhou-mou-juu-oh-s.json) |
@@ -2264,8 +2266,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jissen Pachi-Slot Hisshouhou! Ore no Sora | 82307 | [82307-jissen-pachi-slot-hisshouhou-ore-no-sora.json](./82307-jissen-pachi-slot-hisshouhou-ore-no-sora.json) |
 | Jissen Pachi-Slot Hisshouhou! Salaryman Kintarou | 82300 | [82300-jissen-pachi-slot-hisshouhou-salaryman-kintarou.json](./82300-jissen-pachi-slot-hisshouhou-salaryman-kintarou.json) |
 | Jissen Pachi-Slot Hisshouhou! Sammy Revolution | 382841 | [382841-jissen-pachi-slot-hisshouhou-sammy-revolution.json](./382841-jissen-pachi-slot-hisshouhou-sammy-revolution.json) |
+| Jissen Pachi-Slot Hisshouhou! Sammy's Collection | 82299 | [82299-jissen-pachi-slot-hisshouhou-sammys-collection.json](./82299-jissen-pachi-slot-hisshouhou-sammys-collection.json) |
 | Jissen Pachi-Slot Hisshouhou! Sammy's Collection 2 | 82305 | [82305-jissen-pachi-slot-hisshouhou-sammys-collection-2.json](./82305-jissen-pachi-slot-hisshouhou-sammys-collection-2.json) |
 | Jissen Pachi-Slot Hisshouhou! Savana Park | 82301 | [82301-jissen-pachi-slot-hisshouhou-savana-park.json](./82301-jissen-pachi-slot-hisshouhou-savana-park.json) |
+| Jissen Pachi-Slot Hisshouhou! Selection | 82298 | [82298-jissen-pachi-slot-hisshouhou-selection.json](./82298-jissen-pachi-slot-hisshouhou-selection.json) |
 | Jissen Pachi-Slot Hisshouhou! Single: Kamen Rider & Gallop | 61917 | [61917-jissen-pachi-slot-hisshouhou-single-kamen-rider-and-gallop.json](./61917-jissen-pachi-slot-hisshouhou-single-kamen-rider-and-gallop.json) |
 | Jissen Pachi-Slot Hisshouhou! Single: Kamen Rider V3 | 61918 | [61918-jissen-pachi-slot-hisshouhou-single-kamen-rider-v3.json](./61918-jissen-pachi-slot-hisshouhou-single-kamen-rider-v3.json) |
 | Jissen Pachi-Slot Hisshouhou! Twin | 42645 | [42645-jissen-pachi-slot-hisshouhou-twin.json](./42645-jissen-pachi-slot-hisshouhou-twin.json) |
@@ -4271,8 +4275,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Just Sign! | 207297 | [207297-just-sign.json](./207297-just-sign.json) |
 | Just Sing | 23386 | [23386-just-sing.json](./23386-just-sing.json) |
 | Just Sing! | 81460 | [81460-just-sing.json](./81460-just-sing.json) |
+| Just Sing! 80s Collection | 82277 | [82277-just-sing-80s-collection.json](./82277-just-sing-80s-collection.json) |
+| Just Sing! Christmas Songs | 82279 | [82279-just-sing-christmas-songs.json](./82279-just-sing-christmas-songs.json) |
+| Just Sing! Christmas Vol. 2 | 82278 | [82278-just-sing-christmas-vol-2.json](./82278-just-sing-christmas-vol-2.json) |
 | Just Sing! Christmas Vol. 3 | 65489 | [65489-just-sing-christmas-vol-3.json](./65489-just-sing-christmas-vol-3.json) |
 | Just Sing! National Anthems | 66438 | [66438-just-sing-national-anthems.json](./66438-just-sing-national-anthems.json) |
+| Just Sing! Vol. 2 | 82276 | [82276-just-sing-vol-2.json](./82276-just-sing-vol-2.json) |
 | Just Skate | 101430 | [101430-just-skate.json](./101430-just-skate.json) |
 | Just Skateboard | 322450 | [322450-just-skateboard.json](./322450-just-skateboard.json) |
 | Just Ski | 75806 | [75806-just-ski.json](./75806-just-ski.json) |
