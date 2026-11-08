@@ -1366,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handsome Roadkill | 177210 | [177210-handsome-roadkill.json](./177210-handsome-roadkill.json) |
 | HandsON | 158232 | [158232-handson.json](./158232-handson.json) |
 | Handstand Hank | 337911 | [337911-handstand-hank.json](./337911-handstand-hank.json) |
+| Handulum+ | 137780 | [137780-handulum.json](./137780-handulum.json) |
 | Handwalk | 402355 | [402355-handwalk.json](./402355-handwalk.json) |
 | Handwriting Fantasy | 244658 | [244658-handwriting-fantasy.json](./244658-handwriting-fantasy.json) |
 | Handwriting HD | 93838 | [93838-handwriting-hd.json](./93838-handwriting-hd.json) |
@@ -2284,6 +2285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hartacon Tactics | 21983 | [21983-hartacon-tactics.json](./21983-hartacon-tactics.json) |
 | Harthorn | 148203 | [148203-harthorn.json](./148203-harthorn.json) |
 | Harts | 80920 | [80920-harts.json](./80920-harts.json) |
+| Harts Island | 137771 | [137771-harts-island.json](./137771-harts-island.json) |
 | Harts Island | 153492 | [153492-harts-island.json](./153492-harts-island.json) |
 | Haru | 148855 | [148855-haru.json](./148855-haru.json) |
 | Haru he to Tsuzuku Oka | 388003 | [388003-haru-he-to-tsuzuku-oka.json](./388003-haru-he-to-tsuzuku-oka.json) |
@@ -9641,6 +9643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hong Kong Obscure | 245861 | [245861-hong-kong-obscure.json](./245861-hong-kong-obscure.json) |
 | Hong Kong Phooey: No.1 Super Guy | 71528 | [71528-hong-kong-phooey-no-1-super-guy.json](./71528-hong-kong-phooey-no-1-super-guy.json) |
 | Hong Lou Meng: Lin Daiyu yu Bei Jing Wang | 394801 | [394801-hong-lou-meng-lin-daiyu-yu-bei-jing-wang.json](./394801-hong-lou-meng-lin-daiyu-yu-bei-jing-wang.json) |
+| Hónghuǒ | 137764 | [137764-honghuo.json](./137764-honghuo.json) |
 | HongKong Noir | 255283 | [255283-hongkong-noir.json](./255283-hongkong-noir.json) |
 | Honjou Rendoku to Ushinawareta Nachlass | 398976 | [398976-honjou-rendoku-to-ushinawareta-nachlass.json](./398976-honjou-rendoku-to-ushinawareta-nachlass.json) |
 | Honk | 182625 | [182625-honk.json](./182625-honk.json) |
