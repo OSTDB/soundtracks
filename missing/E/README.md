@@ -608,6 +608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy puzzle: Streets | 287765 | [287765-easy-puzzle-streets.json](./287765-easy-puzzle-streets.json) |
 | Easy Quiz | 171495 | [171495-easy-quiz.json](./171495-easy-quiz.json) |
 | Easy Quiz: This One Is Free | 196034 | [196034-easy-quiz-this-one-is-free.json](./196034-easy-quiz-this-one-is-free.json) |
+| Easy Racing | 113213 | [113213-easy-racing.json](./113213-easy-racing.json) |
 | Easy Red | 75944 | [75944-easy-red.json](./75944-easy-red.json) |
 | Easy Red 2 | 166920 | [166920-easy-red-2.json](./166920-easy-red-2.json) |
 | Easy Red 2: Normandy | 268595 | [268595-easy-red-2-normandy.json](./268595-easy-red-2-normandy.json) |
@@ -1696,6 +1697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggсellence: Eggs Bounce | 233223 | [233223-egg-ellence-eggs-bounce.json](./233223-egg-ellence-eggs-bounce.json) |
 | Egnaro | 209769 | [209769-egnaro.json](./209769-egnaro.json) |
 | Egnima | 349320 | [349320-egnima.json](./349320-egnima.json) |
+| Ego | 113129 | [113129-ego.json](./113129-ego.json) |
 | Ego :: Exit Protocol | 368285 | [368285-ego-exit-protocol.json](./368285-ego-exit-protocol.json) |
 | Ego Death | 158364 | [158364-ego-death.json](./158364-ego-death.json) |
 | Ego Effect | 174842 | [174842-ego-effect.json](./174842-ego-effect.json) |
@@ -3536,6 +3538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Kingdoms Bundle | 125130 | [125130-enchanted-kingdoms-bundle.json](./125130-enchanted-kingdoms-bundle.json) |
 | Enchanted Land | 12584 | [12584-enchanted-land.json](./12584-enchanted-land.json) |
 | Enchanted Memories | 386148 | [386148-enchanted-memories.json](./386148-enchanted-memories.json) |
+| Enchanted Path | 113133 | [113133-enchanted-path.json](./113133-enchanted-path.json) |
 | Enchanted Portals | 123706 | [123706-enchanted-portals.json](./123706-enchanted-portals.json) |
 | Enchanted Portals: Tales Edition | 256171 | [256171-enchanted-portals-tales-edition.json](./256171-enchanted-portals-tales-edition.json) |
 | Enchanted Scepters | 31186 | [31186-enchanted-scepters.json](./31186-enchanted-scepters.json) |
