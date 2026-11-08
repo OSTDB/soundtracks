@@ -6306,6 +6306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireman Fred | 14067 | [14067-fireman-fred.json](./14067-fireman-fred.json) |
 | Fireman Sam | 14068 | [14068-fireman-sam.json](./14068-fireman-sam.json) |
 | Fireman Sam | 287373 | [287373-fireman-sam.json](./287373-fireman-sam.json) |
+| Fireman Sam to the Rescue | 85640 | [85640-fireman-sam-to-the-rescue.json](./85640-fireman-sam-to-the-rescue.json) |
 | Fireman Sam: Junior Cadet | 100486 | [100486-fireman-sam-junior-cadet.json](./100486-fireman-sam-junior-cadet.json) |
 | Fireman Titan Fights Games | 105934 | [105934-fireman-titan-fights-games.json](./105934-fireman-titan-fights-games.json) |
 | Fireman! Fire Fighter Truck Driving Games for Kids | 104504 | [104504-fireman-fire-fighter-truck-driving-games-for-kids.json](./104504-fireman-fire-fighter-truck-driving-games-for-kids.json) |
@@ -6314,6 +6315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Firepit | 77113 | [77113-firepit.json](./77113-firepit.json) |
 | Fireplace | 68630 | [68630-fireplace.json](./68630-fireplace.json) |
 | Fireplace Simulator | 337615 | [337615-fireplace-simulator.json](./337615-fireplace-simulator.json) |
+| Fireplacing | 85639 | [85639-fireplacing.json](./85639-fireplacing.json) |
 | Firepower 2000 | 19778 | [19778-firepower-2000.json](./19778-firepower-2000.json) |
 | Firepower for Microsoft Combat Flight Simulator 3 | 165323 | [165323-firepower-for-microsoft-combat-flight-simulator-3.json](./165323-firepower-for-microsoft-combat-flight-simulator-3.json) |
 | Firepower Forge | 275546 | [275546-firepower-forge.json](./275546-firepower-forge.json) |
@@ -6572,6 +6574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish Memory | 150678 | [150678-fish-memory.json](./150678-fish-memory.json) |
 | Fish N Chat | 293993 | [293993-fish-n-chat.json](./293993-fish-n-chat.json) |
 | Fish On | 93930 | [93930-fish-on.json](./93930-fish-on.json) |
+| Fish on 3D | 85635 | [85635-fish-on-3d.json](./85635-fish-on-3d.json) |
 | Fish On! Bass | 313045 | [313045-fish-on-bass.json](./313045-fish-on-bass.json) |
 | Fish or Chicken | 250254 | [250254-fish-or-chicken.json](./250254-fish-or-chicken.json) |
 | Fish or Die | 34778 | [34778-fish-or-die.json](./34778-fish-or-die.json) |
@@ -12107,6 +12110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | French Tarot | 100488 | [100488-french-tarot.json](./100488-french-tarot.json) |
 | French with Rayman | 193346 | [193346-french-with-rayman.json](./193346-french-with-rayman.json) |
 | FrenchConnection | 364774 | [364774-frenchconnection.json](./364774-frenchconnection.json) |
+| Frenchy Bird | 85634 | [85634-frenchy-bird.json](./85634-frenchy-bird.json) |
 | Frenesis | 47146 | [47146-frenesis.json](./47146-frenesis.json) |
 | Frenetic | 15226 | [15226-frenetic.json](./15226-frenetic.json) |
 | Frenetika | 372083 | [372083-frenetika.json](./372083-frenetika.json) |
