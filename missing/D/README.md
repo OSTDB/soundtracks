@@ -528,6 +528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daitoride | 93512 | [93512-daitoride.json](./93512-daitoride.json) |
 | Daitoshokan no Hitsujikai | 133018 | [133018-daitoshokan-no-hitsujikai.json](./133018-daitoshokan-no-hitsujikai.json) |
 | Daitoshokan no Hitsujikai: Dreaming Sheep | 125812 | [125812-daitoshokan-no-hitsujikai-dreaming-sheep.json](./125812-daitoshokan-no-hitsujikai-dreaming-sheep.json) |
+| Daitoshokan no Hitsujikai: Houkago Shippo Days | 124375 | [124375-daitoshokan-no-hitsujikai-houkago-shippo-days.json](./124375-daitoshokan-no-hitsujikai-houkago-shippo-days.json) |
 | Daitoshokan no Hitsujikai: Library Party | 60960 | [60960-daitoshokan-no-hitsujikai-library-party.json](./60960-daitoshokan-no-hitsujikai-library-party.json) |
 | Daiva Story 1: Flames of Vlitra | 392848 | [392848-daiva-story-1-flames-of-vlitra.json](./392848-daiva-story-1-flames-of-vlitra.json) |
 | Daiva Story 2: Memory in Durga | 392849 | [392849-daiva-story-2-memory-in-durga.json](./392849-daiva-story-2-memory-in-durga.json) |
@@ -5097,6 +5098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decent Checkers | 232812 | [232812-decent-checkers.json](./232812-decent-checkers.json) |
 | Decent Into Sector 32 | 165641 | [165641-decent-into-sector-32.json](./165641-decent-into-sector-32.json) |
 | Decently Bad Tower Defense | 158034 | [158034-decently-bad-tower-defense.json](./158034-decently-bad-tower-defense.json) |
+| Decentraland | 124367 | [124367-decentraland.json](./124367-decentraland.json) |
 | Deceptiive Love Ballad The Blasphemer | 386840 | [386840-deceptiive-love-ballad-the-blasphemer.json](./386840-deceptiive-love-ballad-the-blasphemer.json) |
 | Deception | 171413 | [171413-deception.json](./171413-deception.json) |
 | Deception | 215542 | [215542-deception.json](./215542-deception.json) |
