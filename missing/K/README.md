@@ -1867,6 +1867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kentoushi: Furi-furi Boxing | 344673 | [344673-kentoushi-furi-furi-boxing.json](./344673-kentoushi-furi-furi-boxing.json) |
 | Kentris | 93343 | [93343-kentris.json](./93343-kentris.json) |
 | Kentucky Dash | 89678 | [89678-kentucky-dash.json](./89678-kentucky-dash.json) |
+| Kentucky Robo Chicken | 108082 | [108082-kentucky-robo-chicken.json](./108082-kentucky-robo-chicken.json) |
 | Kentucky Route Zero | 5614 | [5614-kentucky-route-zero.json](./5614-kentucky-route-zero.json) |
 | Kentucky Route Zero: Act I | 131727 | [131727-kentucky-route-zero-act-i.json](./131727-kentucky-route-zero-act-i.json) |
 | Kentucky Route Zero: Act II | 131728 | [131728-kentucky-route-zero-act-ii.json](./131728-kentucky-route-zero-act-ii.json) |
@@ -3189,6 +3190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Mazes | 87946 | [87946-king-of-mazes.json](./87946-king-of-mazes.json) |
 | King of Meat | 314255 | [314255-king-of-meat.json](./314255-king-of-meat.json) |
 | King of Mobius | 228597 | [228597-king-of-mobius.json](./228597-king-of-mobius.json) |
+| King of my Castle VR | 108003 | [108003-king-of-my-castle-vr.json](./108003-king-of-my-castle-vr.json) |
 | King of Opera | 89812 | [89812-king-of-opera.json](./89812-king-of-opera.json) |
 | King of Peasants | 96255 | [96255-king-of-peasants.json](./96255-king-of-peasants.json) |
 | King of Phoenix | 105234 | [105234-king-of-phoenix.json](./105234-king-of-phoenix.json) |
@@ -6292,6 +6294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KunKunNight | 273463 | [273463-kunkunnight.json](./273463-kunkunnight.json) |
 | KunKunPrison | 384772 | [384772-kunkunprison.json](./384772-kunkunprison.json) |
 | Kunlun Fight | 30180 | [30180-kunlun-fight.json](./30180-kunlun-fight.json) |
+| Kunlun Ruins | 108085 | [108085-kunlun-ruins.json](./108085-kunlun-ruins.json) |
 | Kunoi | 134183 | [134183-kunoi.json](./134183-kunoi.json) |
 | Kunoichi | 184244 | [184244-kunoichi.json](./184244-kunoichi.json) |
 | Kunoichi Beat | 369589 | [369589-kunoichi-beat.json](./369589-kunoichi-beat.json) |
