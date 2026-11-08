@@ -14820,6 +14820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince Adventures | 293855 | [293855-prince-adventures.json](./293855-prince-adventures.json) |
 | Prince Akazaka x Princess | 220653 | [220653-prince-akazaka-x-princess.json](./220653-prince-akazaka-x-princess.json) |
 | Prince Charmless | 178542 | [178542-prince-charmless.json](./178542-prince-charmless.json) |
+| Prince Interactive | 78846 | [78846-prince-interactive.json](./78846-prince-interactive.json) |
 | Prince Maker-Braveness | 254544 | [254544-prince-maker-braveness.json](./254544-prince-maker-braveness.json) |
 | Prince Naseem Boxing | 50024 | [50024-prince-naseem-boxing.json](./50024-prince-naseem-boxing.json) |
 | Prince Nikolai and the Vampires | 192602 | [192602-prince-nikolai-and-the-vampires.json](./192602-prince-nikolai-and-the-vampires.json) |
@@ -18214,6 +18215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PurgaStory | 185464 | [185464-purgastory.json](./185464-purgastory.json) |
 | Purgation | 55563 | [55563-purgation.json](./55563-purgation.json) |
 | Purgation Swordstorm | 413722 | [413722-purgation-swordstorm.json](./413722-purgation-swordstorm.json) |
+| Purgatorio | 78850 | [78850-purgatorio.json](./78850-purgatorio.json) |
 | Purgatory | 145183 | [145183-purgatory.json](./145183-purgatory.json) |
 | Purgatory | 180360 | [180360-purgatory.json](./180360-purgatory.json) |
 | Purgatory | 268349 | [268349-purgatory.json](./268349-purgatory.json) |
