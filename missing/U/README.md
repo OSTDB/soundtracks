@@ -2658,6 +2658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uno: Winter Theme DLC | 153165 | [153165-uno-winter-theme-dlc.json](./153165-uno-winter-theme-dlc.json) |
 | UNO! Mobile | 142109 | [142109-uno-mobile.json](./142109-uno-mobile.json) |
 | Uno/Skip-Bo | 78905 | [78905-uno-skip-bo.json](./78905-uno-skip-bo.json) |
+| Unobelisk | 134801 | [134801-unobelisk.json](./134801-unobelisk.json) |
 | Unoccupied | 142191 | [142191-unoccupied.json](./142191-unoccupied.json) |
 | UnoDos | 381298 | [381298-unodos.json](./381298-unodos.json) |
 | Unoffensible | 202617 | [202617-unoffensible.json](./202617-unoffensible.json) |
