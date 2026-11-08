@@ -869,6 +869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Of Sense and Soul | 234243 | [234243-of-sense-and-soul.json](./234243-of-sense-and-soul.json) |
 | Of Ships & Scoundrels | 110279 | [110279-of-ships-and-scoundrels.json](./110279-of-ships-and-scoundrels.json) |
 | Of Slimes and Sandwiches | 299315 | [299315-of-slimes-and-sandwiches.json](./299315-of-slimes-and-sandwiches.json) |
+| Of Tanks and Demons III | 138909 | [138909-of-tanks-and-demons-iii.json](./138909-of-tanks-and-demons-iii.json) |
 | Of the Devil | 234801 | [234801-of-the-devil.json](./234801-of-the-devil.json) |
 | Of the Devil: Episode 0 | 383570 | [383570-of-the-devil-episode-0.json](./383570-of-the-devil-episode-0.json) |
 | Of the Devil: Episode 1 | 330913 | [330913-of-the-devil-episode-1.json](./330913-of-the-devil-episode-1.json) |
@@ -4238,6 +4239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orguss | 6121 | [6121-orguss.json](./6121-orguss.json) |
 | Orgynizer | 212589 | [212589-orgynizer.json](./212589-orgynizer.json) |
 | Ori and the Will of the Wisps: Collector's Edition | 136149 | [136149-ori-and-the-will-of-the-wisps-collectors-edition.json](./136149-ori-and-the-will-of-the-wisps-collectors-edition.json) |
+| Ori Collector's Edition | 138965 | [138965-ori-collectors-edition.json](./138965-ori-collectors-edition.json) |
 | Ori, Ochi, Onoe. | 417959 | [417959-ori-ochi-onoe.json](./417959-ori-ochi-onoe.json) |
 | Ori: The Collection | 143447 | [143447-ori-the-collection.json](./143447-ori-the-collection.json) |
 | Oricmunch | 137472 | [137472-oricmunch.json](./137472-oricmunch.json) |
