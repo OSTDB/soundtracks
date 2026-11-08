@@ -1559,6 +1559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanzala Returns | 299169 | [299169-hanzala-returns.json](./299169-hanzala-returns.json) |
 | Hànzì Dàmàoxiǎn | 159974 | [159974-hanzi-damaoxian.json](./159974-hanzi-damaoxian.json) |
 | Hanzi Match | 370431 | [370431-hanzi-match.json](./370431-hanzi-match.json) |
+| Hanzi Matching | 96802 | [96802-hanzi-matching.json](./96802-hanzi-matching.json) |
 | Hanzo Quest | 98542 | [98542-hanzo-quest.json](./98542-hanzo-quest.json) |
 | Hao x Sora: The Sky's Abound | 274005 | [274005-hao-x-sora-the-skys-abound.json](./274005-hao-x-sora-the-skys-abound.json) |
 | Hao-kun no Fushigi na Tabi | 215144 | [215144-hao-kun-no-fushigi-na-tabi.json](./215144-hao-kun-no-fushigi-na-tabi.json) |
@@ -5860,6 +5861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Here to There | 204419 | [204419-here-to-there.json](./204419-here-to-there.json) |
 | Here We Exist | 262846 | [262846-here-we-exist.json](./262846-here-we-exist.json) |
 | Here, Flower Picking, Manila North | 360460 | [360460-here-flower-picking-manila-north.json](./360460-here-flower-picking-manila-north.json) |
+| Here's the Champion Squirrel | 96805 | [96805-heres-the-champion-squirrel.json](./96805-heres-the-champion-squirrel.json) |
 | Hereafter | 287147 | [287147-hereafter.json](./287147-hereafter.json) |
 | Hereafter | 47988 | [47988-hereafter.json](./47988-hereafter.json) |
 | Hereford 1642 | 190138 | [190138-hereford-1642.json](./190138-hereford-1642.json) |
