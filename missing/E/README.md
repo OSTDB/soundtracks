@@ -397,6 +397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth-Quack | 339586 | [339586-earth-quack.json](./339586-earth-quack.json) |
 | Earth, Fire, And Wind | 286044 | [286044-earth-fire-and-wind.json](./286044-earth-fire-and-wind.json) |
 | Earth: 3000 | 311442 | [311442-earth-3000.json](./311442-earth-3000.json) |
+| Earth: 9000 | 135383 | [135383-earth-9000.json](./135383-earth-9000.json) |
 | Earth: Revival | 215230 | [215230-earth-revival.json](./215230-earth-revival.json) |
 | Earth's Center of Gravity | 209667 | [209667-earths-center-of-gravity.json](./209667-earths-center-of-gravity.json) |
 | Earth's Greatest Defender | 244619 | [244619-earths-greatest-defender.json](./244619-earths-greatest-defender.json) |
