@@ -9363,6 +9363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooter of War | 53594 | [53594-shooter-of-war.json](./53594-shooter-of-war.json) |
 | Shooter Thing 2 | 60863 | [60863-shooter-thing-2.json](./60863-shooter-thing-2.json) |
 | Shooter: Space Shot | 72976 | [72976-shooter-space-shot.json](./72976-shooter-space-shot.json) |
+| Shooter's Alley | 92570 | [92570-shooters-alley.json](./92570-shooters-alley.json) |
 | Shooter's Island | 187143 | [187143-shooters-island.json](./187143-shooters-island.json) |
 | Shooter95 | 375307 | [375307-shooter95.json](./375307-shooter95.json) |
 | ShooterBall | 143625 | [143625-shooterball.json](./143625-shooterball.json) |
@@ -9613,6 +9614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Stax | 385853 | [385853-short-stax.json](./385853-short-stax.json) |
 | Short Stop | 131105 | [131105-short-stop.json](./131105-short-stop.json) |
 | Short Trip | 324905 | [324905-short-trip.json](./324905-short-trip.json) |
+| Short Warp | 92215 | [92215-short-warp.json](./92215-short-warp.json) |
 | Short Warp: Deep Space Bounty | 261832 | [261832-short-warp-deep-space-bounty.json](./261832-short-warp-deep-space-bounty.json) |
 | Shortcircuit | 424685 | [424685-shortcircuit.json](./424685-shortcircuit.json) |
 | ShortCircuit | 254201 | [254201-shortcircuit.json](./254201-shortcircuit.json) |
@@ -12089,6 +12091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Six Flags Fun Park | 206039 | [206039-six-flags-fun-park.json](./206039-six-flags-fun-park.json) |
 | Six Flags Fun Park | 85164 | [85164-six-flags-fun-park.json](./85164-six-flags-fun-park.json) |
 | Six Floors Under | 296659 | [296659-six-floors-under.json](./296659-six-floors-under.json) |
+| Six Gun Saga | 92555 | [92555-six-gun-saga.json](./92555-six-gun-saga.json) |
 | Six Hours at Hugo's | 273855 | [273855-six-hours-at-hugos.json](./273855-six-hours-at-hugos.json) |
 | Six in One Translator | 68056 | [68056-six-in-one-translator.json](./68056-six-in-one-translator.json) |
 | Six in One Translator | 85086 | [85086-six-in-one-translator.json](./85086-six-in-one-translator.json) |
@@ -22362,6 +22365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiderbot | 22264 | [22264-spiderbot.json](./22264-spiderbot.json) |
 | Spiderbro | 207703 | [207703-spiderbro.json](./207703-spiderbro.json) |
 | Spiderbro 2 | 298042 | [298042-spiderbro-2.json](./298042-spiderbro-2.json) |
+| Spidercide | 92566 | [92566-spidercide.json](./92566-spidercide.json) |
 | Spiderdroid | 40621 | [40621-spiderdroid.json](./40621-spiderdroid.json) |
 | SpiderHeck | 137073 | [137073-spiderheck.json](./137073-spiderheck.json) |
 | Spiderling | 316746 | [316746-spiderling.json](./316746-spiderling.json) |
@@ -35520,6 +35524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzuki Super-bikes II: Riding Challenge | 67038 | [67038-suzuki-super-bikes-ii-riding-challenge.json](./67038-suzuki-super-bikes-ii-riding-challenge.json) |
 | Suzuki TT Superbikes Real Road Racing Championship | 67042 | [67042-suzuki-tt-superbikes-real-road-racing-championship.json](./67042-suzuki-tt-superbikes-real-road-racing-championship.json) |
 | Suzuki TT Superbikes: Real Road Racing | 20211 | [20211-suzuki-tt-superbikes-real-road-racing.json](./20211-suzuki-tt-superbikes-real-road-racing.json) |
+| Suzuki's RM 250 Motocross | 92212 | [92212-suzukis-rm-250-motocross.json](./92212-suzukis-rm-250-motocross.json) |
 | Suzukuri Dungeon: Karin in the Mountain | 153812 | [153812-suzukuri-dungeon-karin-in-the-mountain.json](./153812-suzukuri-dungeon-karin-in-the-mountain.json) |
 | Suzume: Match 3 Puzzle | 255336 | [255336-suzume-match-3-puzzle.json](./255336-suzume-match-3-puzzle.json) |
 | Suzumiya Hachiruhi no Inyoku | 126321 | [126321-suzumiya-hachiruhi-no-inyoku.json](./126321-suzumiya-hachiruhi-no-inyoku.json) |
