@@ -1924,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yume Metsuki | 229683 | [229683-yume-metsuki.json](./229683-yume-metsuki.json) |
 | Yume Mienai: Pocket Version | 225425 | [225425-yume-mienai-pocket-version.json](./225425-yume-mienai-pocket-version.json) |
 | Yume Mitai | 201152 | [201152-yume-mitai.json](./201152-yume-mitai.json) |
+| Yume Neko DS | 122528 | [122528-yume-neko-ds.json](./122528-yume-neko-ds.json) |
 | Yume ni made Mita Idol | 375342 | [375342-yume-ni-made-mita-idol.json](./375342-yume-ni-made-mita-idol.json) |
 | Yume Nichiroku | 166360 | [166360-yume-nichiroku.json](./166360-yume-nichiroku.json) |
 | Yume Nikki | 18689 | [18689-yume-nikki.json](./18689-yume-nikki.json) |
@@ -2179,6 +2180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuuyami Doori Tankentai | 9688 | [9688-yuuyami-doori-tankentai.json](./9688-yuuyami-doori-tankentai.json) |
 | Yuuyu no Quiz de Go! Go! | 37750 | [37750-yuuyu-no-quiz-de-go-go.json](./37750-yuuyu-no-quiz-de-go-go.json) |
 | YuuYuu Jiteki no Yuukarin | 166626 | [166626-yuuyuu-jiteki-no-yuukarin.json](./166626-yuuyuu-jiteki-no-yuukarin.json) |
+| Yuuzai x Muzai | 122529 | [122529-yuuzai-x-muzai.json](./122529-yuuzai-x-muzai.json) |
 | Yùxuè Zhànhún | 128327 | [128327-yuxue-zhanhun.json](./128327-yuxue-zhanhun.json) |
 | Yuying Mansion | 258825 | [258825-yuying-mansion.json](./258825-yuying-mansion.json) |
 | YuYu Hakusho | 138085 | [138085-yuyu-hakusho.json](./138085-yuyu-hakusho.json) |
