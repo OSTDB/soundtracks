@@ -977,7 +977,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1508,6 +1507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball Drop | 338188 | [338188-ball-drop.json](./338188-ball-drop.json) |
 | Ball Dude Adventures | 176475 | [176475-ball-dude-adventures.json](./176475-ball-dude-adventures.json) |
 | Ball Escape | 99619 | [99619-ball-escape.json](./99619-ball-escape.json) |
+| Ball Fall | 119909 | [119909-ball-fall.json](./119909-ball-fall.json) |
 | Ball Fighter | 84778 | [84778-ball-fighter.json](./84778-ball-fighter.json) |
 | Ball Game | 193275 | [193275-ball-game.json](./193275-ball-game.json) |
 | Ball Game | 336498 | [336498-ball-game.json](./336498-ball-game.json) |
@@ -11034,6 +11034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood and goods | 180949 | [180949-blood-and-goods.json](./180949-blood-and-goods.json) |
 | Blood and Guts Bundle | 147758 | [147758-blood-and-guts-bundle.json](./147758-blood-and-guts-bundle.json) |
 | Blood and Jade | 62706 | [62706-blood-and-jade.json](./62706-blood-and-jade.json) |
+| Blood and Lust | 119885 | [119885-blood-and-lust.json](./119885-blood-and-lust.json) |
 | Blood and Ruby | 135251 | [135251-blood-and-ruby.json](./135251-blood-and-ruby.json) |
 | Blood and Sorcery | 215484 | [215484-blood-and-sorcery.json](./215484-blood-and-sorcery.json) |
 | Blood and Soul | 135803 | [135803-blood-and-soul.json](./135803-blood-and-soul.json) |
@@ -14072,6 +14073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Bob 2 | 125663 | [125663-bouncy-bob-2.json](./125663-bouncy-bob-2.json) |
 | Bouncy Brain | 388273 | [388273-bouncy-brain.json](./388273-bouncy-brain.json) |
 | Bouncy Bread | 338014 | [338014-bouncy-bread.json](./338014-bouncy-bread.json) |
+| Bouncy Bullets | 119889 | [119889-bouncy-bullets.json](./119889-bouncy-bullets.json) |
 | Bouncy Bunnies | 185814 | [185814-bouncy-bunnies.json](./185814-bouncy-bunnies.json) |
 | Bouncy Butt Castle | 379345 | [379345-bouncy-butt-castle.json](./379345-bouncy-butt-castle.json) |
 | Bouncy Cars | 186178 | [186178-bouncy-cars.json](./186178-bouncy-cars.json) |
@@ -16458,6 +16460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Doom: Project Brutality | 198667 | [198667-brutal-doom-project-brutality.json](./198667-brutal-doom-project-brutality.json) |
 | Brutal Doom: ZioMcCall's Vision | 198693 | [198693-brutal-doom-ziomccalls-vision.json](./198693-brutal-doom-ziomccalls-vision.json) |
 | Brutal Force | 286804 | [286804-brutal-force.json](./286804-brutal-force.json) |
+| Brutal Games | 119898 | [119898-brutal-games.json](./119898-brutal-games.json) |
 | Brutal Grounds | 137881 | [137881-brutal-grounds.json](./137881-brutal-grounds.json) |
 | Brutal Half-Life | 195991 | [195991-brutal-half-life.json](./195991-brutal-half-life.json) |
 | Brutal Heretic RPG | 198680 | [198680-brutal-heretic-rpg.json](./198680-brutal-heretic-rpg.json) |
