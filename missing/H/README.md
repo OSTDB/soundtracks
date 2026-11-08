@@ -6427,6 +6427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroic Syndrome | 206354 | [206354-heroic-syndrome.json](./206354-heroic-syndrome.json) |
 | Heroic Tale | 180364 | [180364-heroic-tale.json](./180364-heroic-tale.json) |
 | Heroic Tale Value!+ | 259152 | [259152-heroic-tale-value.json](./259152-heroic-tale-value.json) |
+| Heroic: Magic Duel | 120504 | [120504-heroic-magic-duel.json](./120504-heroic-magic-duel.json) |
 | Heroica: Fortaan | 342868 | [342868-heroica-fortaan.json](./342868-heroica-fortaan.json) |
 | Heroics | 142574 | [142574-heroics.json](./142574-heroics.json) |
 | Heroine Anthem XP: The Angel of Sarem | 85760 | [85760-heroine-anthem-xp-the-angel-of-sarem.json](./85760-heroine-anthem-xp-the-angel-of-sarem.json) |
@@ -8097,6 +8098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HiLight: Touch the light! | 265760 | [265760-hilight-touch-the-light.json](./265760-hilight-touch-the-light.json) |
 | Hill 4 Cheetah | 417321 | [417321-hill-4-cheetah.json](./417321-hill-4-cheetah.json) |
 | Hill 4x4 Tuning Rivals | 255733 | [255733-hill-4x4-tuning-rivals.json](./255733-hill-4x4-tuning-rivals.json) |
+| Hill Agency: Purity / Decay | 120490 | [120490-hill-agency-purity-decay.json](./120490-hill-agency-purity-decay.json) |
 | Hill Cliff Horse: Online | 230203 | [230203-hill-cliff-horse-online.json](./230203-hill-cliff-horse-online.json) |
 | Hill Climb | 235047 | [235047-hill-climb.json](./235047-hill-climb.json) |
 | Hill Climb on a Motorcycle | 330217 | [330217-hill-climb-on-a-motorcycle.json](./330217-hill-climb-on-a-motorcycle.json) |
