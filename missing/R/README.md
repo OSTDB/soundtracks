@@ -13456,6 +13456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ryte: The Eye of Atlantis | 141400 | [141400-ryte-the-eye-of-atlantis.json](./141400-ryte-the-eye-of-atlantis.json) |
 | Rythenia | 151126 | [151126-rythenia.json](./151126-rythenia.json) |
 | Rythm | 112331 | [112331-rythm.json](./112331-rythm.json) |
+| Rytmik | 85549 | [85549-rytmik.json](./85549-rytmik.json) |
 | Rytmik Retrobits | 84908 | [84908-rytmik-retrobits.json](./84908-rytmik-retrobits.json) |
 | Rytmik Ultimate | 74812 | [74812-rytmik-ultimate.json](./74812-rytmik-ultimate.json) |
 | Rytmik Ultimate Complete | 53563 | [53563-rytmik-ultimate-complete.json](./53563-rytmik-ultimate-complete.json) |
