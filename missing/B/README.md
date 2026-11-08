@@ -5613,6 +5613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania IIDX 19 Lincle | 81478 | [81478-beatmania-iidx-19-lincle.json](./81478-beatmania-iidx-19-lincle.json) |
 | Beatmania IIDX 20 Tricoro | 61664 | [61664-beatmania-iidx-20-tricoro.json](./61664-beatmania-iidx-20-tricoro.json) |
 | Beatmania IIDX 24 Sinobuz | 108141 | [108141-beatmania-iidx-24-sinobuz.json](./108141-beatmania-iidx-24-sinobuz.json) |
+| Beatmania IIDX 25 Cannon Ballers | 102228 | [102228-beatmania-iidx-25-cannon-ballers.json](./102228-beatmania-iidx-25-cannon-ballers.json) |
 | Beatmania IIDX 26 Rootage | 112148 | [112148-beatmania-iidx-26-rootage.json](./112148-beatmania-iidx-26-rootage.json) |
 | Beatmania IIDX 27 Heroic Verse | 127142 | [127142-beatmania-iidx-27-heroic-verse.json](./127142-beatmania-iidx-27-heroic-verse.json) |
 | Beatmania IIDX 28 Bistrover | 138945 | [138945-beatmania-iidx-28-bistrover.json](./138945-beatmania-iidx-28-bistrover.json) |
@@ -13775,6 +13776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boss Key | 420585 | [420585-boss-key.json](./420585-boss-key.json) |
 | Boss Life 3D | 224090 | [224090-boss-life-3d.json](./224090-boss-life-3d.json) |
 | Boss Monster | 35459 | [35459-boss-monster.json](./35459-boss-monster.json) |
+| Boss Must DIE!! | 101847 | [101847-boss-must-die.json](./101847-boss-must-die.json) |
 | Boss of FCs | 348418 | [348418-boss-of-fcs.json](./348418-boss-of-fcs.json) |
 | Boss of the Mafia | 189290 | [189290-boss-of-the-mafia.json](./189290-boss-of-the-mafia.json) |
 | Boss of This Gym | 159981 | [159981-boss-of-this-gym.json](./159981-boss-of-this-gym.json) |
@@ -14131,6 +14133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Bullets | 119889 | [119889-bouncy-bullets.json](./119889-bouncy-bullets.json) |
 | Bouncy Bunnies | 185814 | [185814-bouncy-bunnies.json](./185814-bouncy-bunnies.json) |
 | Bouncy Butt Castle | 379345 | [379345-bouncy-butt-castle.json](./379345-bouncy-butt-castle.json) |
+| Bouncy Butter Ball | 102314 | [102314-bouncy-butter-ball.json](./102314-bouncy-butter-ball.json) |
 | Bouncy Cars | 186178 | [186178-bouncy-cars.json](./186178-bouncy-cars.json) |
 | Bouncy Cat | 158169 | [158169-bouncy-cat.json](./158169-bouncy-cat.json) |
 | Bouncy Chicken | 306529 | [306529-bouncy-chicken.json](./306529-bouncy-chicken.json) |
@@ -14561,6 +14564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Legends of the Ring | 38366 | [38366-boxing-legends-of-the-ring.json](./38366-boxing-legends-of-the-ring.json) |
 | Boxing Life Simulator | 407483 | [407483-boxing-life-simulator.json](./407483-boxing-life-simulator.json) |
 | Boxing Live 2014 | 102051 | [102051-boxing-live-2014.json](./102051-boxing-live-2014.json) |
+| Boxing Live: Round 2 | 101860 | [101860-boxing-live-round-2.json](./101860-boxing-live-round-2.json) |
 | Boxing Manager | 13430 | [13430-boxing-manager.json](./13430-boxing-manager.json) |
 | Boxing Manager | 200310 | [200310-boxing-manager.json](./200310-boxing-manager.json) |
 | Boxing Match | 310986 | [310986-boxing-match.json](./310986-boxing-match.json) |
@@ -17637,6 +17641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulletombe | 316367 | [316367-bulletombe.json](./316367-bulletombe.json) |
 | Bulletorium | 121401 | [121401-bulletorium.json](./121401-bulletorium.json) |
 | Bulletproof | 235697 | [235697-bulletproof.json](./235697-bulletproof.json) |
+| BulletRage | 102311 | [102311-bulletrage.json](./102311-bulletrage.json) |
 | Bulletreign: Survivors | 406200 | [406200-bulletreign-survivors.json](./406200-bulletreign-survivors.json) |
 | Bulletrooms | 309692 | [309692-bulletrooms.json](./309692-bulletrooms.json) |
 | BulletRoyale | 146420 | [146420-bulletroyale.json](./146420-bulletroyale.json) |
