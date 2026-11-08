@@ -2268,6 +2268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyss | 8524 | [8524-abyss.json](./8524-abyss.json) |
 | Abyss and Dark: The King's Secret Pledge | 103146 | [103146-abyss-and-dark-the-kings-secret-pledge.json](./103146-abyss-and-dark-the-kings-secret-pledge.json) |
 | Abyss and Dungeon | 292164 | [292164-abyss-and-dungeon.json](./292164-abyss-and-dungeon.json) |
+| Abyss Attack | 107331 | [107331-abyss-attack.json](./107331-abyss-attack.json) |
 | Abyss Boat | 276095 | [276095-abyss-boat.json](./276095-abyss-boat.json) |
 | Abyss Born | 373494 | [373494-abyss-born.json](./373494-abyss-born.json) |
 | Abyss Cards | 398037 | [398037-abyss-cards.json](./398037-abyss-cards.json) |
@@ -8063,7 +8064,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alstan | 389734 | [389734-alstan.json](./389734-alstan.json) |
 | Alstroemeria | 274528 | [274528-alstroemeria.json](./274528-alstroemeria.json) |
 | Alt Tarot | 178477 | [178477-alt-tarot.json](./178477-alt-tarot.json) |
-| Alt-Frequencies | 115650 | [115650-alt-frequencies.json](./115650-alt-frequencies.json) |
 | alt:V | 171970 | [171970-alt-v.json](./171970-alt-v.json) |
 | Alt254 | 135287 | [135287-alt254.json](./135287-alt254.json) |
 | Alta's Odyssey | 269968 | [269968-altas-odyssey.json](./269968-altas-odyssey.json) |
@@ -11236,6 +11236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant Simulator | 171046 | [171046-ant-simulator.json](./171046-ant-simulator.json) |
 | Ant Simulator | 18016 | [18016-ant-simulator.json](./18016-ant-simulator.json) |
 | Ant Simulator | 360700 | [360700-ant-simulator.json](./360700-ant-simulator.json) |
+| Ant Smasher | 107349 | [107349-ant-smasher.json](./107349-ant-smasher.json) |
 | Ant Smasher | 390999 | [390999-ant-smasher.json](./390999-ant-smasher.json) |
 | Ant Smasher Christmas | 352174 | [352174-ant-smasher-christmas.json](./352174-ant-smasher-christmas.json) |
 | Ant War Simulator: Ant Survival Game | 107091 | [107091-ant-war-simulator-ant-survival-game.json](./107091-ant-war-simulator-ant-survival-game.json) |
@@ -14816,6 +14817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art&.. More | 263659 | [263659-art-and-more.json](./263659-art-and-more.json) |
 | Art7 | 208429 | [208429-art7.json](./208429-art7.json) |
 | Artania | 54998 | [54998-artania.json](./54998-artania.json) |
+| Artbook: Color by Numbers | 107354 | [107354-artbook-color-by-numbers.json](./107354-artbook-color-by-numbers.json) |
 | ArtDeco Backgammon 3D | 90684 | [90684-artdeco-backgammon-3d.json](./90684-artdeco-backgammon-3d.json) |
 | Artdink Game Log: Aquanaut’s Holiday | 397629 | [397629-artdink-game-log-aquanaut-s-holiday.json](./397629-artdink-game-log-aquanaut-s-holiday.json) |
 | Artdink Game Log: Tail of the Sun | 377258 | [377258-artdink-game-log-tail-of-the-sun.json](./377258-artdink-game-log-tail-of-the-sun.json) |
