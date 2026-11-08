@@ -2432,6 +2432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RayForce | 22349 | [22349-rayforce.json](./22349-rayforce.json) |
 | Raygraze | 196323 | [196323-raygraze.json](./196323-raygraze.json) |
 | Raygun Chess | 174063 | [174063-raygun-chess.json](./174063-raygun-chess.json) |
+| Raygun Gadabout | 96145 | [96145-raygun-gadabout.json](./96145-raygun-gadabout.json) |
 | Rayland | 181093 | [181093-rayland.json](./181093-rayland.json) |
 | RaylaX | 97848 | [97848-raylax.json](./97848-raylax.json) |
 | Rayless | 29655 | [29655-rayless.json](./29655-rayless.json) |
