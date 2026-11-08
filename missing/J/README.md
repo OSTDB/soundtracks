@@ -2943,6 +2943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joy Ride Turbo | 15859 | [15859-joy-ride-turbo.json](./15859-joy-ride-turbo.json) |
 | Joy Striker | 360705 | [360705-joy-striker.json](./360705-joy-striker.json) |
 | Joy the Pug | 144187 | [144187-joy-the-pug.json](./144187-joy-the-pug.json) |
+| Joy You-I-He | 118523 | [118523-joy-you-i-he.json](./118523-joy-you-i-he.json) |
 | Joy-N Help Me | 262775 | [262775-joy-n-help-me.json](./262775-joy-n-help-me.json) |
 | Joycoin | 323412 | [323412-joycoin.json](./323412-joycoin.json) |
 | Joydoor | 108061 | [108061-joydoor.json](./108061-joydoor.json) |
