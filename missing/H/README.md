@@ -1225,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hana Feels | 139306 | [139306-hana-feels.json](./139306-hana-feels.json) |
 | Hana ha Mijikashi, Odoreyo Otome | 405368 | [405368-hana-ha-mijikashi-odoreyo-otome.json](./405368-hana-ha-mijikashi-odoreyo-otome.json) |
 | Hana no Chiruramu | 166579 | [166579-hana-no-chiruramu.json](./166579-hana-no-chiruramu.json) |
+| Hana no Hime | 93088 | [93088-hana-no-hime.json](./93088-hana-no-hime.json) |
 | Hana no Ibara: Yuurei Kitan | 181657 | [181657-hana-no-ibara-yuurei-kitan.json](./181657-hana-no-ibara-yuurei-kitan.json) |
 | Hana no Keiji: Kumo no Kanata ni | 42302 | [42302-hana-no-keiji-kumo-no-kanata-ni.json](./42302-hana-no-keiji-kumo-no-kanata-ni.json) |
 | Hana no No ni Saku Utakata no | 60412 | [60412-hana-no-no-ni-saku-utakata-no.json](./60412-hana-no-no-ni-saku-utakata-no.json) |
@@ -1529,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hannah Montana: Wireless Quest | 283566 | [283566-hannah-montana-wireless-quest.json](./283566-hannah-montana-wireless-quest.json) |
 | Hannah's Day | 289819 | [289819-hannahs-day.json](./289819-hannahs-day.json) |
 | Hannibal | 405536 | [405536-hannibal.json](./405536-hannibal.json) |
+| Hannibal | 93114 | [93114-hannibal.json](./93114-hannibal.json) |
 | Hannibal: Rome and Carthage in the Second Punic War | 129583 | [129583-hannibal-rome-and-carthage-in-the-second-punic-war.json](./129583-hannibal-rome-and-carthage-in-the-second-punic-war.json) |
 | Hanno | 289870 | [289870-hanno.json](./289870-hanno.json) |
 | Hannya Bullet Hell | 151671 | [151671-hannya-bullet-hell.json](./151671-hannya-bullet-hell.json) |
@@ -3661,6 +3663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heathen's Forge | 176658 | [176658-heathens-forge.json](./176658-heathens-forge.json) |
 | Heather Wreath: The Reporter | 340423 | [340423-heather-wreath-the-reporter.json](./340423-heather-wreath-the-reporter.json) |
 | Heathkit DND | 2881 | [2881-heathkit-dnd.json](./2881-heathkit-dnd.json) |
+| Heathrow | 92752 | [92752-heathrow.json](./92752-heathrow.json) |
 | Heathrow International Air Traffic Control | 133440 | [133440-heathrow-international-air-traffic-control.json](./133440-heathrow-international-air-traffic-control.json) |
 | Heatos | 57748 | [57748-heatos.json](./57748-heatos.json) |
 | Heatseeker | 37152 | [37152-heatseeker.json](./37152-heatseeker.json) |
