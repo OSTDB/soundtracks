@@ -16524,6 +16524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project to Escape | 146082 | [146082-project-to-escape.json](./146082-project-to-escape.json) |
 | Project Tokyo Dolls | 76143 | [76143-project-tokyo-dolls.json](./76143-project-tokyo-dolls.json) |
 | Project Toon Tanks | 132249 | [132249-project-toon-tanks.json](./132249-project-toon-tanks.json) |
+| Project Torque | 120451 | [120451-project-torque.json](./120451-project-torque.json) |
 | Project Torrim | 180939 | [180939-project-torrim.json](./180939-project-torrim.json) |
 | Project Tower | 235578 | [235578-project-tower.json](./235578-project-tower.json) |
 | Project Treasure | 94761 | [94761-project-treasure.json](./94761-project-treasure.json) |
