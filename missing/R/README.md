@@ -9095,6 +9095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Beekeeper | 356304 | [356304-robot-beekeeper.json](./356304-robot-beekeeper.json) |
 | Robot Bowl | 39518 | [39518-robot-bowl.json](./39518-robot-bowl.json) |
 | Robot Boxing: Real Fighting Steel Battle | 332337 | [332337-robot-boxing-real-fighting-steel-battle.json](./332337-robot-boxing-real-fighting-steel-battle.json) |
+| Robot Boy | 126722 | [126722-robot-boy.json](./126722-robot-boy.json) |
 | Robot Bros | 89240 | [89240-robot-bros.json](./89240-robot-bros.json) |
 | Robot Car War: Transform Battle Machines | 187472 | [187472-robot-car-war-transform-battle-machines.json](./187472-robot-car-war-transform-battle-machines.json) |
 | Robot Carnage | 122852 | [122852-robot-carnage.json](./122852-robot-carnage.json) |
