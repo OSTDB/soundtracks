@@ -2884,6 +2884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scary Mine VR | 278695 | [278695-scary-mine-vr.json](./278695-scary-mine-vr.json) |
 | Scary Monsters | 47214 | [47214-scary-monsters.json](./47214-scary-monsters.json) |
 | Scary Neighbor Survival | 100854 | [100854-scary-neighbor-survival.json](./100854-scary-neighbor-survival.json) |
+| Scary new year | 81631 | [81631-scary-new-year.json](./81631-scary-new-year.json) |
 | Scary Nikki | 229668 | [229668-scary-nikki.json](./229668-scary-nikki.json) |
 | Scary Pictures: Yavez - Seven Deadly Sins | 235859 | [235859-scary-pictures-yavez-seven-deadly-sins.json](./235859-scary-pictures-yavez-seven-deadly-sins.json) |
 | Scary Pranks: The Horror Creed | 196392 | [196392-scary-pranks-the-horror-creed.json](./196392-scary-pranks-the-horror-creed.json) |
@@ -15740,6 +15741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SNK Fighting Legends: Collector's Edition | 163143 | [163143-snk-fighting-legends-collectors-edition.json](./163143-snk-fighting-legends-collectors-edition.json) |
 | SNK Gals' Fighters | 43983 | [43983-snk-gals-fighters.json](./43983-snk-gals-fighters.json) |
 | SNK Heroines: Tag Team Frenzy | 81146 | [81146-snk-heroines-tag-team-frenzy.json](./81146-snk-heroines-tag-team-frenzy.json) |
+| SNK Heroines: Tag Team Frenzy - Diamond Dream Edition | 81576 | [81576-snk-heroines-tag-team-frenzy-diamond-dream-edition.json](./81576-snk-heroines-tag-team-frenzy-diamond-dream-edition.json) |
 | SNK Heroines: Tag Team Frenzy - Miss X | 405898 | [405898-snk-heroines-tag-team-frenzy-miss-x.json](./405898-snk-heroines-tag-team-frenzy-miss-x.json) |
 | SNK Slot Panic Kyuuji | 59399 | [59399-snk-slot-panic-kyuuji.json](./59399-snk-slot-panic-kyuuji.json) |
 | SNK vs Capcom Card Fighters DS | 21387 | [21387-snk-vs-capcom-card-fighters-ds.json](./21387-snk-vs-capcom-card-fighters-ds.json) |
@@ -15955,6 +15957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snow White Ashes | 289791 | [289791-snow-white-ashes.json](./289791-snow-white-ashes.json) |
 | Snow White in Happily Ever After | 42582 | [42582-snow-white-in-happily-ever-after.json](./42582-snow-white-in-happily-ever-after.json) |
 | Snow White Solitaire: Charmed Kingdom | 81771 | [81771-snow-white-solitaire-charmed-kingdom.json](./81771-snow-white-solitaire-charmed-kingdom.json) |
+| Snow White Solitaire: Legacy of Dwarves | 81592 | [81592-snow-white-solitaire-legacy-of-dwarves.json](./81592-snow-white-solitaire-legacy-of-dwarves.json) |
 | Snow White: Counting Diamond Mine | 198897 | [198897-snow-white-counting-diamond-mine.json](./198897-snow-white-counting-diamond-mine.json) |
 | Snow White: Interactive Book | 256592 | [256592-snow-white-interactive-book.json](./256592-snow-white-interactive-book.json) |
 | Snow World | 176972 | [176972-snow-world.json](./176972-snow-world.json) |
@@ -23557,6 +23560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring Catastrophe | 246652 | [246652-spring-catastrophe.json](./246652-spring-catastrophe.json) |
 | Spring Chicken | 184170 | [184170-spring-chicken.json](./184170-spring-chicken.json) |
 | Spring Cleaning | 179733 | [179733-spring-cleaning.json](./179733-spring-cleaning.json) |
+| Spring Cleaning | 82190 | [82190-spring-cleaning.json](./82190-spring-cleaning.json) |
 | Spring Crisis | 238913 | [238913-spring-crisis.json](./238913-spring-crisis.json) |
 | Spring Crisis 2 | 280922 | [280922-spring-crisis-2.json](./280922-spring-crisis-2.json) |
 | Spring Dash | 216723 | [216723-spring-dash.json](./216723-spring-dash.json) |
@@ -23566,6 +23570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spring Flower | 108152 | [108152-spring-flower.json](./108152-spring-flower.json) |
 | Spring Flower: Mezameta Omoi | 108151 | [108151-spring-flower-mezameta-omoi.json](./108151-spring-flower-mezameta-omoi.json) |
 | Spring Fowler | 252932 | [252932-spring-fowler.json](./252932-spring-fowler.json) |
+| Spring Garden | 82191 | [82191-spring-garden.json](./82191-spring-garden.json) |
 | Spring Gothic | 338216 | [338216-spring-gothic.json](./338216-spring-gothic.json) |
 | Spring Hell | 266770 | [266770-spring-hell.json](./266770-spring-hell.json) |
 | Spring in Her Step | 333124 | [333124-spring-in-her-step.json](./333124-spring-in-her-step.json) |
@@ -27887,6 +27892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Wheel | 246426 | [246426-stone-wheel.json](./246426-stone-wheel.json) |
 | Stone Wheel 2: Bee Legend | 235139 | [235139-stone-wheel-2-bee-legend.json](./235139-stone-wheel-2-bee-legend.json) |
 | Stone-Jong | 207112 | [207112-stone-jong.json](./207112-stone-jong.json) |
+| StoneAge 2 | 81572 | [81572-stoneage-2.json](./81572-stoneage-2.json) |
 | StoneAge M | 109138 | [109138-stoneage-m.json](./109138-stoneage-m.json) |
 | StoneBack | 180032 | [180032-stoneback.json](./180032-stoneback.json) |
 | StoneBack \| Prehistory | 32067 | [32067-stoneback-prehistory.json](./32067-stoneback-prehistory.json) |
