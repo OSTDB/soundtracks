@@ -3897,6 +3897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost of the Seas | 150995 | [150995-ghost-of-the-seas.json](./150995-ghost-of-the-seas.json) |
 | Ghost of Tokyo | 406790 | [406790-ghost-of-tokyo.json](./406790-ghost-of-tokyo.json) |
 | Ghost of Tomorrow: Chapter 1 | 168861 | [168861-ghost-of-tomorrow-chapter-1.json](./168861-ghost-of-tomorrow-chapter-1.json) |
+| Ghost of Tsushima: Digital Deluxe Edition | 132978 | [132978-ghost-of-tsushima-digital-deluxe-edition.json](./132978-ghost-of-tsushima-digital-deluxe-edition.json) |
 | Ghost of Tsushima: Launch Edition | 136178 | [136178-ghost-of-tsushima-launch-edition.json](./136178-ghost-of-tsushima-launch-edition.json) |
 | Ghost of Tsushima: Legends | 140042 | [140042-ghost-of-tsushima-legends.json](./140042-ghost-of-tsushima-legends.json) |
 | Ghost of Viyk | 295846 | [295846-ghost-of-viyk.json](./295846-ghost-of-viyk.json) |
@@ -10050,6 +10051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Groundskeeper 2 | 22101 | [22101-groundskeeper-2.json](./22101-groundskeeper-2.json) |
 | Groundwork Simulator | 421457 | [421457-groundwork-simulator.json](./421457-groundwork-simulator.json) |
 | GroundZero | 276666 | [276666-groundzero.json](./276666-groundzero.json) |
+| Group Project Simulator | 132940 | [132940-group-project-simulator.json](./132940-group-project-simulator.json) |
 | Group S Challenge | 5856 | [5856-group-s-challenge.json](./5856-group-s-challenge.json) |
 | Groupel | 374057 | [374057-groupel.json](./374057-groupel.json) |
 | Grouphack | 258096 | [258096-grouphack.json](./258096-grouphack.json) |
