@@ -8436,6 +8436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Tanks: Roll Out Collector's Edition | 115673 | [115673-world-of-tanks-roll-out-collectors-edition.json](./115673-world-of-tanks-roll-out-collectors-edition.json) |
 | World of Tanks: Snatch Gift Pack | 283862 | [283862-world-of-tanks-snatch-gift-pack.json](./283862-world-of-tanks-snatch-gift-pack.json) |
 | World of Tanks: T34 Pack - VIII American Heavy Tank | 399918 | [399918-world-of-tanks-t34-pack-viii-american-heavy-tank.json](./399918-world-of-tanks-t34-pack-viii-american-heavy-tank.json) |
+| World of Tea | 102405 | [102405-world-of-tea.json](./102405-world-of-tea.json) |
 | World of Tennis: Roaring '20s | 110498 | [110498-world-of-tennis-roaring-20s.json](./110498-world-of-tennis-roaring-20s.json) |
 | World of the dead | 319721 | [319721-world-of-the-dead.json](./319721-world-of-the-dead.json) |
 | World of Titans | 230933 | [230933-world-of-titans.json](./230933-world-of-titans.json) |
@@ -9119,6 +9120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrap The Zap | 392786 | [392786-wrap-the-zap.json](./392786-wrap-the-zap.json) |
 | Wrapped With a Kiss | 194225 | [194225-wrapped-with-a-kiss.json](./194225-wrapped-with-a-kiss.json) |
 | Wrapple | 91853 | [91853-wrapple.json](./91853-wrapple.json) |
+| Wrassling | 101853 | [101853-wrassling.json](./101853-wrassling.json) |
 | Wrassling | 96922 | [96922-wrassling.json](./96922-wrassling.json) |
 | Wrath and Retribution | 374838 | [374838-wrath-and-retribution.json](./374838-wrath-and-retribution.json) |
 | Wrath of Ahnkii | 271794 | [271794-wrath-of-ahnkii.json](./271794-wrath-of-ahnkii.json) |
