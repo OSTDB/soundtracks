@@ -2176,6 +2176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | League of Angels Series | 109967 | [109967-league-of-angels-series.json](./109967-league-of-angels-series.json) |
 | League of Angels: Heaven's Fury | 172258 | [172258-league-of-angels-heavens-fury.json](./172258-league-of-angels-heavens-fury.json) |
 | League of Angels: Pact | 254046 | [254046-league-of-angels-pact.json](./254046-league-of-angels-pact.json) |
+| League of Avengers: Champion Legend | 104199 | [104199-league-of-avengers-champion-legend.json](./104199-league-of-avengers-champion-legend.json) |
 | League of Battle | 50522 | [50522-league-of-battle.json](./50522-league-of-battle.json) |
 | League of Battleship: Thunder War | 181584 | [181584-league-of-battleship-thunder-war.json](./181584-league-of-battleship-thunder-war.json) |
 | League of Champions Soccer | 152350 | [152350-league-of-champions-soccer.json](./152350-league-of-champions-soccer.json) |
@@ -9064,6 +9065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Stories: Sex and the Furry Titty | 165031 | [165031-love-stories-sex-and-the-furry-titty.json](./165031-love-stories-sex-and-the-furry-titty.json) |
 | Love Story | 259509 | [259509-love-story.json](./259509-love-story.json) |
 | Love Story | 90934 | [90934-love-story.json](./90934-love-story.json) |
+| Love Story Games: Teenage Drama | 104200 | [104200-love-story-games-teenage-drama.json](./104200-love-story-games-teenage-drama.json) |
 | Love Story of Sparrow | 114531 | [114531-love-story-of-sparrow.json](./114531-love-story-of-sparrow.json) |
 | Love Story: Choices Girl Games | 107010 | [107010-love-story-choices-girl-games.json](./107010-love-story-choices-girl-games.json) |
 | Love Story: Letters from the Past | 29095 | [29095-love-story-letters-from-the-past.json](./29095-love-story-letters-from-the-past.json) |
