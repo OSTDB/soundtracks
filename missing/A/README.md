@@ -7180,6 +7180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alienation | 7600 | [7600-alienation.json](./7600-alienation.json) |
 | Alienator | 332245 | [332245-alienator.json](./332245-alienator.json) |
 | Alienators: Evolution Continues | 49166 | [49166-alienators-evolution-continues.json](./49166-alienators-evolution-continues.json) |
+| Alienautics | 119916 | [119916-alienautics.json](./119916-alienautics.json) |
 | Alienbusters | 391269 | [391269-alienbusters.json](./391269-alienbusters.json) |
 | Aliencity | 383636 | [383636-aliencity.json](./383636-aliencity.json) |
 | Alienoid | 57685 | [57685-alienoid.json](./57685-alienoid.json) |
@@ -7191,6 +7192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens Adventure | 149488 | [149488-aliens-adventure.json](./149488-aliens-adventure.json) |
 | Aliens After Ava | 211212 | [211212-aliens-after-ava.json](./211212-aliens-after-ava.json) |
 | Aliens and Asteroids | 296515 | [296515-aliens-and-asteroids.json](./296515-aliens-and-asteroids.json) |
+| Aliens and Umbrellas | 119869 | [119869-aliens-and-umbrellas.json](./119869-aliens-and-umbrellas.json) |
 | Aliens Are Rude! | 95200 | [95200-aliens-are-rude.json](./95200-aliens-are-rude.json) |
 | Aliens Ate My Boyfriend | 212687 | [212687-aliens-ate-my-boyfriend.json](./212687-aliens-ate-my-boyfriend.json) |
 | Aliens Attack | 179300 | [179300-aliens-attack.json](./179300-aliens-attack.json) |
@@ -11007,6 +11009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Crab's Treasure: Year of the Crab | 349894 | [349894-another-crabs-treasure-year-of-the-crab.json](./349894-another-crabs-treasure-year-of-the-crab.json) |
 | Another Crabs Treasure Prototype | 371331 | [371331-another-crabs-treasure-prototype.json](./371331-another-crabs-treasure-prototype.json) |
 | Another Crusade | 135681 | [135681-another-crusade.json](./135681-another-crusade.json) |
+| Another Dawn | 119873 | [119873-another-dawn.json](./119873-another-dawn.json) |
 | Another Day | 179003 | [179003-another-day.json](./179003-another-day.json) |
 | Another Day | 180374 | [180374-another-day.json](./180374-another-day.json) |
 | Another Day | 194097 | [194097-another-day.json](./194097-another-day.json) |
@@ -16981,7 +16984,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -17552,6 +17554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aunt Flora's Mansion | 208261 | [208261-aunt-floras-mansion.json](./208261-aunt-floras-mansion.json) |
 | Aunt Velma Is Coming to Tea | 58858 | [58858-aunt-velma-is-coming-to-tea.json](./58858-aunt-velma-is-coming-to-tea.json) |
 | Auqa Panic! | 50693 | [50693-auqa-panic.json](./50693-auqa-panic.json) |
+| Aura | 119868 | [119868-aura.json](./119868-aura.json) |
 | Aura 2: The Sacred Rings | 52427 | [52427-aura-2-the-sacred-rings.json](./52427-aura-2-the-sacred-rings.json) |
 | Aura Aspic | 180236 | [180236-aura-aspic.json](./180236-aura-aspic.json) |
 | Aura Aura Climber | 66985 | [66985-aura-aura-climber.json](./66985-aura-aura-climber.json) |
