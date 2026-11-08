@@ -5978,7 +5978,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serious Sam HD: The Second Encounter - Legend of the Beast | 170923 | [170923-serious-sam-hd-the-second-encounter-legend-of-the-beast.json](./170923-serious-sam-hd-the-second-encounter-legend-of-the-beast.json) |
 | Serious Sam II | 787 | [787-serious-sam-ii.json](./787-serious-sam-ii.json) |
 | Serious Sam VR: The First Encounter | 30620 | [30620-serious-sam-vr-the-first-encounter.json](./30620-serious-sam-vr-the-first-encounter.json) |
-| Serious Sam VR: The Last Hope | 19543 | [19543-serious-sam-vr-the-last-hope.json](./19543-serious-sam-vr-the-last-hope.json) |
 | Serious Sam VR: The Second Encounter | 91116 | [91116-serious-sam-vr-the-second-encounter.json](./91116-serious-sam-vr-the-second-encounter.json) |
 | Serious Sam: Dark Island | 361920 | [361920-serious-sam-dark-island.json](./361920-serious-sam-dark-island.json) |
 | Serious Sam: GOG Collection | 205226 | [205226-serious-sam-gog-collection.json](./205226-serious-sam-gog-collection.json) |
@@ -7235,7 +7234,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows Of Wyrmwood | 328134 | [328134-shadows-of-wyrmwood.json](./328134-shadows-of-wyrmwood.json) |
 | Shadows of Zana | 259700 | [259700-shadows-of-zana.json](./259700-shadows-of-zana.json) |
 | Shadows on the Vatican Act 2: Wrath | 180111 | [180111-shadows-on-the-vatican-act-2-wrath.json](./180111-shadows-on-the-vatican-act-2-wrath.json) |
-| Shadows on the Vatican Act I: Greed | 36370 | [36370-shadows-on-the-vatican-act-i-greed.json](./36370-shadows-on-the-vatican-act-i-greed.json) |
 | Shadows on the Vatican Act II: Wrath | 27753 | [27753-shadows-on-the-vatican-act-ii-wrath.json](./27753-shadows-on-the-vatican-act-ii-wrath.json) |
 | Shadows on the Vatican: Act III - Sloth | 212222 | [212222-shadows-on-the-vatican-act-iii-sloth.json](./212222-shadows-on-the-vatican-act-iii-sloth.json) |
 | Shadows on the Vatican: Nightingale | 161591 | [161591-shadows-on-the-vatican-nightingale.json](./161591-shadows-on-the-vatican-nightingale.json) |
@@ -7522,7 +7520,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape of Clouds | 279115 | [279115-shape-of-clouds.json](./279115-shape-of-clouds.json) |
 | Shape of Dreams | 293572 | [293572-shape-of-dreams.json](./293572-shape-of-dreams.json) |
 | Shape of the Toilet Rim | 218308 | [218308-shape-of-the-toilet-rim.json](./218308-shape-of-the-toilet-rim.json) |
-| Shape of the World | 54613 | [54613-shape-of-the-world.json](./54613-shape-of-the-world.json) |
 | Shape Palette | 130779 | [130779-shape-palette.json](./130779-shape-palette.json) |
 | Shape Puzzle | 199456 | [199456-shape-puzzle.json](./199456-shape-puzzle.json) |
 | Shape Puzzle - Toddler Educational Learning Games | 105434 | [105434-shape-puzzle-toddler-educational-learning-games.json](./105434-shape-puzzle-toddler-educational-learning-games.json) |
@@ -13567,6 +13564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleep Herd | 348138 | [348138-sleep-herd.json](./348138-sleep-herd.json) |
 | Sleep In Office | 233178 | [233178-sleep-in-office.json](./233178-sleep-in-office.json) |
 | Sleep Is Death | 20664 | [20664-sleep-is-death.json](./20664-sleep-is-death.json) |
+| Sleep of the Treyd | 108099 | [108099-sleep-of-the-treyd.json](./108099-sleep-of-the-treyd.json) |
 | Sleep Paralysis | 121564 | [121564-sleep-paralysis.json](./121564-sleep-paralysis.json) |
 | Sleep Paralysis: The Uncanny Valley | 196876 | [196876-sleep-paralysis-the-uncanny-valley.json](./196876-sleep-paralysis-the-uncanny-valley.json) |
 | Sleep Simulator | 304593 | [304593-sleep-simulator.json](./304593-sleep-simulator.json) |
@@ -18728,7 +18726,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorcero | 308035 | [308035-sorcero.json](./308035-sorcero.json) |
 | Sorceror's Apprentice | 94188 | [94188-sorcerors-apprentice.json](./94188-sorcerors-apprentice.json) |
 | Sorcerous | 155851 | [155851-sorcerous.json](./155851-sorcerous.json) |
-| Sorcery | 20114 | [20114-sorcery.json](./20114-sorcery.json) |
 | Sorcery and Survival | 372223 | [372223-sorcery-and-survival.json](./372223-sorcery-and-survival.json) |
 | Sorcery Blade | 71603 | [71603-sorcery-blade.json](./71603-sorcery-blade.json) |
 | Sorcery Climb | 342692 | [342692-sorcery-climb.json](./342692-sorcery-climb.json) |
