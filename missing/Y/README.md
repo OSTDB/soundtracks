@@ -2156,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuukyuu Gensoukyoku Ensemble | 419854 | [419854-yuukyuu-gensoukyoku-ensemble.json](./419854-yuukyuu-gensoukyoku-ensemble.json) |
 | Yuukyuu Gensoukyoku Ensemble 2 | 419855 | [419855-yuukyuu-gensoukyoku-ensemble-2.json](./419855-yuukyuu-gensoukyoku-ensemble-2.json) |
 | Yuukyuu Gensoukyoku: 2nd Album | 125979 | [125979-yuukyuu-gensoukyoku-2nd-album.json](./125979-yuukyuu-gensoukyoku-2nd-album.json) |
+| Yuukyuu Gensoukyoku: Perpetual Collection | 86161 | [86161-yuukyuu-gensoukyoku-perpetual-collection.json](./86161-yuukyuu-gensoukyoku-perpetual-collection.json) |
 | Yuukyuu Kumikyoku All Star Project | 419857 | [419857-yuukyuu-kumikyoku-all-star-project.json](./419857-yuukyuu-kumikyoku-all-star-project.json) |
 | Yuukyuu no Campanella | 221239 | [221239-yuukyuu-no-campanella.json](./221239-yuukyuu-no-campanella.json) |
 | Yuukyuu no Eden: The Eternal Eden | 213255 | [213255-yuukyuu-no-eden-the-eternal-eden.json](./213255-yuukyuu-no-eden-the-eternal-eden.json) |
