@@ -5305,6 +5305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Pinball Bundle | 166684 | [166684-wild-pinball-bundle.json](./166684-wild-pinball-bundle.json) |
 | Wild Planet | 137049 | [137049-wild-planet.json](./137049-wild-planet.json) |
 | Wild Radio Flux | 236943 | [236943-wild-radio-flux.json](./236943-wild-radio-flux.json) |
+| Wild Ranger Gun X Dragon | 113238 | [113238-wild-ranger-gun-x-dragon.json](./113238-wild-ranger-gun-x-dragon.json) |
 | Wild Rapids | 44737 | [44737-wild-rapids.json](./44737-wild-rapids.json) |
 | Wild Rat | 149309 | [149309-wild-rat.json](./149309-wild-rat.json) |
 | Wild Ride | 12973 | [12973-wild-ride.json](./12973-wild-ride.json) |
