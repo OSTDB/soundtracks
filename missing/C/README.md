@@ -1352,6 +1352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Crush Soda Saga | 18061 | [18061-candy-crush-soda-saga.json](./18061-candy-crush-soda-saga.json) |
 | Candy Crush Solitaire | 350067 | [350067-candy-crush-solitaire.json](./350067-candy-crush-solitaire.json) |
 | Candy Crush Solitare | 383749 | [383749-candy-crush-solitare.json](./383749-candy-crush-solitare.json) |
+| Candy Crush Tales | 125550 | [125550-candy-crush-tales.json](./125550-candy-crush-tales.json) |
 | Candy Cubz | 57009 | [57009-candy-cubz.json](./57009-candy-cubz.json) |
 | Candy Cutter | 176775 | [176775-candy-cutter.json](./176775-candy-cutter.json) |
 | Candy Disaster | 129334 | [129334-candy-disaster.json](./129334-candy-disaster.json) |
@@ -4354,6 +4355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catacombs: The Asper Case | 235854 | [235854-catacombs-the-asper-case.json](./235854-catacombs-the-asper-case.json) |
 | Catacombs: The Beginning | 233884 | [233884-catacombs-the-beginning.json](./233884-catacombs-the-beginning.json) |
 | Catacracks | 408400 | [408400-catacracks.json](./408400-catacracks.json) |
+| Catadel | 125539 | [125539-catadel.json](./125539-catadel.json) |
 | Cataegis : The White Wind | 35920 | [35920-cataegis-the-white-wind.json](./35920-cataegis-the-white-wind.json) |
 | Catafalque | 191615 | [191615-catafalque.json](./191615-catafalque.json) |
 | Catagaia | 236871 | [236871-catagaia.json](./236871-catagaia.json) |
@@ -7592,6 +7594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chilling Urban Legends | 409670 | [409670-chilling-urban-legends.json](./409670-chilling-urban-legends.json) |
 | Chillingham | 392339 | [392339-chillingham.json](./392339-chillingham.json) |
 | Chilljong | 223505 | [223505-chilljong.json](./223505-chilljong.json) |
+| Chillmon Origins | 125573 | [125573-chillmon-origins.json](./125573-chillmon-origins.json) |
 | ChilloutVR | 121700 | [121700-chilloutvr.json](./121700-chilloutvr.json) |
 | Chillquarium | 236572 | [236572-chillquarium.json](./236572-chillquarium.json) |
 | Chilly Slide | 261036 | [261036-chilly-slide.json](./261036-chilly-slide.json) |
@@ -7874,6 +7877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocobo no Fushigi na Dungeon | 18070 | [18070-chocobo-no-fushigi-na-dungeon.json](./18070-chocobo-no-fushigi-na-dungeon.json) |
 | Chocobo no Fushigi na Dungeon for WonderSwan | 143246 | [143246-chocobo-no-fushigi-na-dungeon-for-wonderswan.json](./143246-chocobo-no-fushigi-na-dungeon-for-wonderswan.json) |
 | Chocobo Racing | 22896 | [22896-chocobo-racing.json](./22896-chocobo-racing.json) |
+| Chocobo to Mahou no Ehon: Majo to Shoujo to Go-nin no Yuusha | 125583 | [125583-chocobo-to-mahou-no-ehon-majo-to-shoujo-to-go-nin-no-yuusha.json](./125583-chocobo-to-mahou-no-ehon-majo-to-shoujo-to-go-nin-no-yuusha.json) |
 | Chocobo's Mystery Dungeon Every Buddy! | 109465 | [109465-chocobos-mystery-dungeon-every-buddy.json](./109465-chocobos-mystery-dungeon-every-buddy.json) |
 | Chocolat | 10429 | [10429-chocolat.json](./10429-chocolat.json) |
 | Chocolat Rush | 120789 | [120789-chocolat-rush.json](./120789-chocolat-rush.json) |
@@ -10844,6 +10848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clou: Roll & Heist | 195644 | [195644-clou-roll-and-heist.json](./195644-clou-roll-and-heist.json) |
 | Cloud 9 | 273594 | [273594-cloud-9.json](./273594-cloud-9.json) |
 | Cloud 9 | 313579 | [313579-cloud-9.json](./313579-cloud-9.json) |
+| Cloud Bashers | 125554 | [125554-cloud-bashers.json](./125554-cloud-bashers.json) |
 | Cloud Bashers DX | 154251 | [154251-cloud-bashers-dx.json](./154251-cloud-bashers-dx.json) |
 | Cloud Castle | 275874 | [275874-cloud-castle.json](./275874-cloud-castle.json) |
 | Cloud Chamber | 10096 | [10096-cloud-chamber.json](./10096-cloud-chamber.json) |
@@ -17872,6 +17877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Wheels | 196525 | [196525-crimson-wheels.json](./196525-crimson-wheels.json) |
 | Crimson wind | 284990 | [284990-crimson-wind.json](./284990-crimson-wind.json) |
 | Crimson: Steam Pirates | 65710 | [65710-crimson-steam-pirates.json](./65710-crimson-steam-pirates.json) |
+| Crimsoness | 125571 | [125571-crimsoness.json](./125571-crimsoness.json) |
 | Crimsonland | 253323 | [253323-crimsonland.json](./253323-crimsonland.json) |
 | Crimsonland | 7587 | [7587-crimsonland.json](./7587-crimsonland.json) |
 | Crimsonwood | 319680 | [319680-crimsonwood.json](./319680-crimsonwood.json) |
@@ -20643,6 +20649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuyo | 132617 | [132617-cuyo.json](./132617-cuyo.json) |
 | Cuzuco | 373185 | [373185-cuzuco.json](./373185-cuzuco.json) |
 | CV: Casting Voice | 62450 | [62450-cv-casting-voice.json](./62450-cv-casting-voice.json) |
+| CVRcade | 125575 | [125575-cvrcade.json](./125575-cvrcade.json) |
 | CW: Chaco War | 37009 | [37009-cw-chaco-war.json](./37009-cw-chaco-war.json) |
 | Cx6 | 240619 | [240619-cx6.json](./240619-cx6.json) |
 | Cy Girls | 22284 | [22284-cy-girls.json](./22284-cy-girls.json) |
