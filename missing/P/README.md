@@ -468,6 +468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacific Strike Speech Pack | 137375 | [137375-pacific-strike-speech-pack.json](./137375-pacific-strike-speech-pack.json) |
 | Pacific Theatre | 208985 | [208985-pacific-theatre.json](./208985-pacific-theatre.json) |
 | Pacific War | 69923 | [69923-pacific-war.json](./69923-pacific-war.json) |
+| Pacific Warriors Air Combat | 117275 | [117275-pacific-warriors-air-combat.json](./117275-pacific-warriors-air-combat.json) |
 | Pacific Warriors II: Dogfight! | 43448 | [43448-pacific-warriors-ii-dogfight.json](./43448-pacific-warriors-ii-dogfight.json) |
 | Pacific Warships | 254748 | [254748-pacific-warships.json](./254748-pacific-warships.json) |
 | Pacification Light | 304552 | [304552-pacification-light.json](./304552-pacification-light.json) |
@@ -4296,6 +4297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penumbris Doña | 325701 | [325701-penumbris-dona.json](./325701-penumbris-dona.json) |
 | Peojeul Pooh | 61672 | [61672-peojeul-pooh.json](./61672-peojeul-pooh.json) |
 | Peony's Eternity | 398760 | [398760-peonys-eternity.json](./398760-peonys-eternity.json) |
+| People | 117254 | [117254-people.json](./117254-people.json) |
 | People & Places Trivia | 87562 | [87562-people-and-places-trivia.json](./87562-people-and-places-trivia.json) |
 | People and Zombies | 341451 | [341451-people-and-zombies.json](./341451-people-and-zombies.json) |
 | People are Labyrinths | 204240 | [204240-people-are-labyrinths.json](./204240-people-are-labyrinths.json) |
@@ -15956,6 +15958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Bonsai | 247920 | [247920-project-bonsai.json](./247920-project-bonsai.json) |
 | Project Boost | 151357 | [151357-project-boost.json](./151357-project-boost.json) |
 | Project Bore | 185784 | [185784-project-bore.json](./185784-project-bore.json) |
+| Project Borealis | 117278 | [117278-project-borealis.json](./117278-project-borealis.json) |
 | Project Borealis: Prologue | 321863 | [321863-project-borealis-prologue.json](./321863-project-borealis-prologue.json) |
 | Project Box | 124399 | [124399-project-box.json](./124399-project-box.json) |
 | Project Breach Online | 208965 | [208965-project-breach-online.json](./208965-project-breach-online.json) |
