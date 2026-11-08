@@ -225,6 +225,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaichu: The Kaiju Dating Sim - Deluxe Edition | 227402 | [227402-kaichu-the-kaiju-dating-sim-deluxe-edition.json](./227402-kaichu-the-kaiju-dating-sim-deluxe-edition.json) |
 | Kaidan 00 | 146606 | [146606-kaidan-00.json](./146606-kaidan-00.json) |
 | Kaidan of Rules: Shengya Community | 321897 | [321897-kaidan-of-rules-shengya-community.json](./321897-kaidan-of-rules-shengya-community.json) |
+| Kaidan Restaurant: Ura Menu 100-Sen | 112525 | [112525-kaidan-restaurant-ura-menu-100-sen.json](./112525-kaidan-restaurant-ura-menu-100-sen.json) |
+| Kaidan Restaurant: Zoku! Shin Menu 100-Sen | 112526 | [112526-kaidan-restaurant-zoku-shin-menu-100-sen.json](./112526-kaidan-restaurant-zoku-shin-menu-100-sen.json) |
 | Kaidann | 290470 | [290470-kaidann.json](./290470-kaidann.json) |
 | Kaidi Armed With a Cat | 113501 | [113501-kaidi-armed-with-a-cat.json](./113501-kaidi-armed-with-a-cat.json) |
 | Kaido Battle 2: Chain Reaction | 36744 | [36744-kaido-battle-2-chain-reaction.json](./36744-kaido-battle-2-chain-reaction.json) |
@@ -781,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanojo ha Boku ni Kietehoshii | 221588 | [221588-kanojo-ha-boku-ni-kietehoshii.json](./221588-kanojo-ha-boku-ni-kietehoshii.json) |
 | Kanojo ha Ira-ira Jirai Girl | 251613 | [251613-kanojo-ha-ira-ira-jirai-girl.json](./251613-kanojo-ha-ira-ira-jirai-girl.json) |
 | Kanojo ha Sensei no Model | 97697 | [97697-kanojo-ha-sensei-no-model.json](./97697-kanojo-ha-sensei-no-model.json) |
+| Kanojo no Negau Koto. Boku no Omou Koto | 112528 | [112528-kanojo-no-negau-koto-boku-no-omou-koto.json](./112528-kanojo-no-negau-koto-boku-no-omou-koto.json) |
 | Kanojo no Seiiki | 59879 | [59879-kanojo-no-seiiki.json](./59879-kanojo-no-seiiki.json) |
 | Kanojo to Ore no Koisome Dousei | 402722 | [402722-kanojo-to-ore-no-koisome-dousei.json](./402722-kanojo-to-ore-no-koisome-dousei.json) |
 | Kanojo to Ore to Koibito to. | 194609 | [194609-kanojo-to-ore-to-koibito-to.json](./194609-kanojo-to-ore-to-koibito-to.json) |
@@ -2099,6 +2102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Khamsin | 185354 | [185354-khamsin.json](./185354-khamsin.json) |
 | Khan Academy Kids: Learning! | 288006 | [288006-khan-academy-kids-learning.json](./288006-khan-academy-kids-learning.json) |
 | Khan Kluay: Kids War | 194798 | [194798-khan-kluay-kids-war.json](./194798-khan-kluay-kids-war.json) |
+| Khan VS Kahn | 112437 | [112437-khan-vs-kahn.json](./112437-khan-vs-kahn.json) |
 | Khan: Absolute Power | 33293 | [33293-khan-absolute-power.json](./33293-khan-absolute-power.json) |
 | Khan: Myth of the Wind | 145603 | [145603-khan-myth-of-the-wind.json](./145603-khan-myth-of-the-wind.json) |
 | Khaos Tracks | 327073 | [327073-khaos-tracks.json](./327073-khaos-tracks.json) |
@@ -2870,6 +2874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5097,6 +5102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kohinata Yuzuki to Shoya Shitai!: Kemomimi Kamisama to Yukemuri Koimoyou | 396942 | [396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json](./396942-kohinata-yuzuki-to-shoya-shitai-kemomimi-kamisama-to-yukemuri-koimoyou.json) |
 | Kohitsuji Hokaku Keikaku! Sweet Boys Life | 289362 | [289362-kohitsuji-hokaku-keikaku-sweet-boys-life.json](./289362-kohitsuji-hokaku-keikaku-sweet-boys-life.json) |
 | Kohlrabi Starship | 244120 | [244120-kohlrabi-starship.json](./244120-kohlrabi-starship.json) |
+| Kohni Shogun | 112547 | [112547-kohni-shogun.json](./112547-kohni-shogun.json) |
 | Kohshien 4 | 37951 | [37951-kohshien-4.json](./37951-kohshien-4.json) |
 | Koi | 20035 | [20035-koi.json](./20035-koi.json) |
 | Koi | 282480 | [282480-koi.json](./282480-koi.json) |
