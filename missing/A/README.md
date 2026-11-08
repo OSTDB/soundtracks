@@ -5272,6 +5272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Stories | 286768 | [286768-ai-stories.json](./286768-ai-stories.json) |
 | AI Stories: Machine Angel | 287923 | [287923-ai-stories-machine-angel.json](./287923-ai-stories-machine-angel.json) |
 | Ai Suru Tsuma, Mariko no Furin Houkoku: Otto Kounin no Gachi Furin Sex | 159164 | [159164-ai-suru-tsuma-mariko-no-furin-houkoku-otto-kounin-no-gachi-furin-sex.json](./159164-ai-suru-tsuma-mariko-no-furin-houkoku-otto-kounin-no-gachi-furin-sex.json) |
+| AI Texas Holdem Poker | 88346 | [88346-ai-texas-holdem-poker.json](./88346-ai-texas-holdem-poker.json) |
 | Ai To Noroi: School Simulator | 296442 | [296442-ai-to-noroi-school-simulator.json](./296442-ai-to-noroi-school-simulator.json) |
 | Ai to Roudou no Hibi | 288085 | [288085-ai-to-roudou-no-hibi.json](./288085-ai-to-roudou-no-hibi.json) |
 | Ai to Yume no Kuni Sanrio Puroland Asobinagara Oboeyou! Hiragana Katakana | 250332 | [250332-ai-to-yume-no-kuni-sanrio-puroland-asobinagara-oboeyou-hiragana-katakana.json](./250332-ai-to-yume-no-kuni-sanrio-puroland-asobinagara-oboeyou-hiragana-katakana.json) |
@@ -8154,6 +8155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alter Psycho | 346740 | [346740-alter-psycho.json](./346740-alter-psycho.json) |
 | Alter World | 35588 | [35588-alter-world.json](./35588-alter-world.json) |
 | Alter: Between Two Worlds | 283006 | [283006-alter-between-two-worlds.json](./283006-alter-between-two-worlds.json) |
+| Altera | 88385 | [88385-altera.json](./88385-altera.json) |
 | Alteratio | 374986 | [374986-alteratio.json](./374986-alteratio.json) |
 | Alteration | 180803 | [180803-alteration.json](./180803-alteration.json) |
 | Alteration | 379368 | [379368-alteration.json](./379368-alteration.json) |
@@ -8426,6 +8428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amatsu Sora ni Saku | 309672 | [309672-amatsu-sora-ni-saku.json](./309672-amatsu-sora-ni-saku.json) |
 | Amatsuki Mahjong | 321045 | [321045-amatsuki-mahjong.json](./321045-amatsuki-mahjong.json) |
 | Amatsuko | 383153 | [383153-amatsuko.json](./383153-amatsuko.json) |
+| Amatsutsumi | 88386 | [88386-amatsutsumi.json](./88386-amatsutsumi.json) |
 | Amaura on the High Seas | 238364 | [238364-amaura-on-the-high-seas.json](./238364-amaura-on-the-high-seas.json) |
 | Amaya's Lost Soul | 213982 | [213982-amayas-lost-soul.json](./213982-amayas-lost-soul.json) |
 | Amayado Bus Stop | 133586 | [133586-amayado-bus-stop.json](./133586-amayado-bus-stop.json) |
@@ -9688,6 +9691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andrej Sundic's: The Deep | 403198 | [403198-andrej-sundics-the-deep.json](./403198-andrej-sundics-the-deep.json) |
 | Andrés y Su Fusil de Aliesprés | 401179 | [401179-andres-y-su-fusil-de-aliespres.json](./401179-andres-y-su-fusil-de-aliespres.json) |
 | Andrew Lloyd Webber Musicals: Sing and Dance | 63874 | [63874-andrew-lloyd-webber-musicals-sing-and-dance.json](./63874-andrew-lloyd-webber-musicals-sing-and-dance.json) |
+| Andrew the Tacolf | 88388 | [88388-andrew-the-tacolf.json](./88388-andrew-the-tacolf.json) |
 | Andrew's Nightmare | 296516 | [296516-andrews-nightmare.json](./296516-andrews-nightmare.json) |
 | Andria | 339909 | [339909-andria.json](./339909-andria.json) |
 | Andrii's Horror | 52580 | [52580-andriis-horror.json](./52580-andriis-horror.json) |
