@@ -250,6 +250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laballatory | 409584 | [409584-laballatory.json](./409584-laballatory.json) |
 | Labarynth of Legendary Loot | 143044 | [143044-labarynth-of-legendary-loot.json](./143044-labarynth-of-legendary-loot.json) |
 | Labhorror | 414405 | [414405-labhorror.json](./414405-labhorror.json) |
+| Labirinto 2 | 99677 | [99677-labirinto-2.json](./99677-labirinto-2.json) |
 | Labirinto 3 | 153892 | [153892-labirinto-3.json](./153892-labirinto-3.json) |
 | Lablue Horror | 411048 | [411048-lablue-horror.json](./411048-lablue-horror.json) |
 | Labo Brick Car | 100990 | [100990-labo-brick-car.json](./100990-labo-brick-car.json) |
