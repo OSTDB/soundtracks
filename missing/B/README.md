@@ -14544,6 +14544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boy x Boy: Shiritsu Kouryou Gakuin Seishinryou | 417548 | [417548-boy-x-boy-shiritsu-kouryou-gakuin-seishinryou.json](./417548-boy-x-boy-shiritsu-kouryou-gakuin-seishinryou.json) |
 | Boy's Active | 198608 | [198608-boys-active.json](./198608-boys-active.json) |
 | Boy's Love | 101358 | [101358-boys-love.json](./101358-boys-love.json) |
+| BoyandBox | 129332 | [129332-boyandbox.json](./129332-boyandbox.json) |
 | Boyard | 273188 | [273188-boyard.json](./273188-boyard.json) |
 | Boyband Hell | 288177 | [288177-boyband-hell.json](./288177-boyband-hell.json) |
 | Boyce the Voice | 285369 | [285369-boyce-the-voice.json](./285369-boyce-the-voice.json) |
