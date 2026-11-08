@@ -2846,6 +2846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Dreams | 229716 | [229716-dawn-of-dreams.json](./229716-dawn-of-dreams.json) |
 | Dawn of Dynasty | 163439 | [163439-dawn-of-dynasty.json](./163439-dawn-of-dynasty.json) |
 | Dawn of Eternity | 271064 | [271064-dawn-of-eternity.json](./271064-dawn-of-eternity.json) |
+| Dawn of Fear | 130452 | [130452-dawn-of-fear.json](./130452-dawn-of-fear.json) |
 | Dawn of Fear | 321242 | [321242-dawn-of-fear.json](./321242-dawn-of-fear.json) |
 | Dawn of Gray | 288791 | [288791-dawn-of-gray.json](./288791-dawn-of-gray.json) |
 | Dawn of Griseo | 236336 | [236336-dawn-of-griseo.json](./236336-dawn-of-griseo.json) |
@@ -10641,6 +10642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Game It! Classic Pals | 228812 | [228812-disney-game-it-classic-pals.json](./228812-disney-game-it-classic-pals.json) |
 | Disney Game It! Princess Pals | 228813 | [228813-disney-game-it-princess-pals.json](./228813-disney-game-it-princess-pals.json) |
 | Disney Game Shots: Sparamu | 324750 | [324750-disney-game-shots-sparamu.json](./324750-disney-game-shots-sparamu.json) |
+| Disney Getaway Blast! | 130448 | [130448-disney-getaway-blast.json](./130448-disney-getaway-blast.json) |
 | Disney Golf | 19212 | [19212-disney-golf.json](./19212-disney-golf.json) |
 | Disney Heroes: Battle Mode | 96138 | [96138-disney-heroes-battle-mode.json](./96138-disney-heroes-battle-mode.json) |
 | Disney Hidden Worlds | 98278 | [98278-disney-hidden-worlds.json](./98278-disney-hidden-worlds.json) |
@@ -12569,6 +12571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Ask Succubus | 173822 | [173822-dont-ask-succubus.json](./173822-dont-ask-succubus.json) |
 | Don't Be A Baby! | 149124 | [149124-dont-be-a-baby.json](./149124-dont-be-a-baby.json) |
 | Don't Be a Hero | 306295 | [306295-dont-be-a-hero.json](./306295-dont-be-a-hero.json) |
+| Don't Be A Square | 130461 | [130461-dont-be-a-square.json](./130461-dont-be-a-square.json) |
 | Don't Be Afraid | 80904 | [80904-dont-be-afraid.json](./80904-dont-be-afraid.json) |
 | Don't Be Afraid 2 | 287825 | [287825-dont-be-afraid-2.json](./287825-dont-be-afraid-2.json) |
 | Don't Be Afraid: The First Toy | 198068 | [198068-dont-be-afraid-the-first-toy.json](./198068-dont-be-afraid-the-first-toy.json) |
@@ -16212,6 +16215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Game | 411416 | [411416-dream-game.json](./411416-dream-game.json) |
 | Dream Garden | 339968 | [339968-dream-garden.json](./339968-dream-garden.json) |
 | Dream Gate | 45234 | [45234-dream-gate.json](./45234-dream-gate.json) |
+| Dream Generation: Koi Ka? Shigoto Ka!? | 130468 | [130468-dream-generation-koi-ka-shigoto-ka.json](./130468-dream-generation-koi-ka-shigoto-ka.json) |
 | Dream Genie | 201294 | [201294-dream-genie.json](./201294-dream-genie.json) |
 | Dream Girl Premier | 222445 | [222445-dream-girl-premier.json](./222445-dream-girl-premier.json) |
 | Dream Girlfriend | 208979 | [208979-dream-girlfriend.json](./208979-dream-girlfriend.json) |
