@@ -7131,6 +7131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Town: Country Fair | 290202 | [290202-logic-town-country-fair.json](./290202-logic-town-country-fair.json) |
 | Logic Town: Santa's Grotto | 279131 | [279131-logic-town-santas-grotto.json](./279131-logic-town-santas-grotto.json) |
 | Logic Town: The Library | 288063 | [288063-logic-town-the-library.json](./288063-logic-town-the-library.json) |
+| Logic Traces | 101786 | [101786-logic-traces.json](./101786-logic-traces.json) |
 | Logic Training IQ Quiz for Kids | 401131 | [401131-logic-training-iq-quiz-for-kids.json](./401131-logic-training-iq-quiz-for-kids.json) |
 | Logic World | 117352 | [117352-logic-world.json](./117352-logic-world.json) |
 | Logic: Electrons Connect | 153491 | [153491-logic-electrons-connect.json](./153491-logic-electrons-connect.json) |
@@ -10151,6 +10152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunatic Viewer: Streamer Girl at Risk | 215979 | [215979-lunatic-viewer-streamer-girl-at-risk.json](./215979-lunatic-viewer-streamer-girl-at-risk.json) |
 | Lunavania | 317783 | [317783-lunavania.json](./317783-lunavania.json) |
 | Lunavoid | 356023 | [356023-lunavoid.json](./356023-lunavoid.json) |
+| Lunaxxx | 101175 | [101175-lunaxxx.json](./101175-lunaxxx.json) |
 | Lunch A Palooza | 120623 | [120623-lunch-a-palooza.json](./120623-lunch-a-palooza.json) |
 | Lunch Box | 221734 | [221734-lunch-box.json](./221734-lunch-box.json) |
 | Lunch Box Ready | 212458 | [212458-lunch-box-ready.json](./212458-lunch-box-ready.json) |
