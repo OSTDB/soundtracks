@@ -1828,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rance Quest Magnum | 384830 | [384830-rance-quest-magnum.json](./384830-rance-quest-magnum.json) |
 | Rance VI Sonogo | 329187 | [329187-rance-vi-sonogo.json](./329187-rance-vi-sonogo.json) |
 | Rance VI: Collapse of Zeth | 132656 | [132656-rance-vi-collapse-of-zeth.json](./132656-rance-vi-collapse-of-zeth.json) |
+| Rance X: Showdown | 97403 | [97403-rance-x-showdown.json](./97403-rance-x-showdown.json) |
 | Rance: Hikari wo Motomete | 72298 | [72298-rance-hikari-wo-motomete.json](./72298-rance-hikari-wo-motomete.json) |
 | Ranch Battle | 283053 | [283053-ranch-battle.json](./283053-ranch-battle.json) |
 | Ranch Escape | 233190 | [233190-ranch-escape.json](./233190-ranch-escape.json) |
@@ -4576,6 +4577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflex Unit: Strike Ops | 304653 | [304653-reflex-unit-strike-ops.json](./304653-reflex-unit-strike-ops.json) |
 | Reflexia Prototype ver. | 224749 | [224749-reflexia-prototype-ver.json](./224749-reflexia-prototype-ver.json) |
 | Reflexia: The Archetype's Room of Three Walls | 239686 | [239686-reflexia-the-archetypes-room-of-three-walls.json](./239686-reflexia-the-archetypes-room-of-three-walls.json) |
+| Reflexity: Pinball Challenge | 97021 | [97021-reflexity-pinball-challenge.json](./97021-reflexity-pinball-challenge.json) |
 | ReflexShot | 117871 | [117871-reflexshot.json](./117871-reflexshot.json) |
 | Reflow | 256755 | [256755-reflow.json](./256755-reflow.json) |
 | Refoil | 115351 | [115351-refoil.json](./115351-refoil.json) |
@@ -8528,6 +8530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ro | 238286 | [238286-ro.json](./238286-ro.json) |
 | Rô + Fire Race + Scrap Bolts + Milk Seller + Home Sweet Home + Rafa's World | 306552 | [306552-ro-fire-race-scrap-bolts-milk-seller-home-sweet-home-rafas-world.json](./306552-ro-fire-race-scrap-bolts-milk-seller-home-sweet-home-rafas-world.json) |
 | Ro Cannery | 97596 | [97596-ro-cannery.json](./97596-ro-cannery.json) |
+| RO Cannery 2 | 97399 | [97399-ro-cannery-2.json](./97399-ro-cannery-2.json) |
 | Ro Sham Bo Rush | 252142 | [252142-ro-sham-bo-rush.json](./252142-ro-sham-bo-rush.json) |
 | Ro-Bounce | 201543 | [201543-ro-bounce.json](./201543-ro-bounce.json) |
 | Ro-Kyu-Bu! Himitsu no Otoshimono | 61406 | [61406-ro-kyu-bu-himitsu-no-otoshimono.json](./61406-ro-kyu-bu-himitsu-no-otoshimono.json) |
