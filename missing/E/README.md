@@ -2297,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elektronika IM-23: Avtoslalom | 245486 | [245486-elektronika-im-23-avtoslalom.json](./245486-elektronika-im-23-avtoslalom.json) |
 | Elektrosoul | 207197 | [207197-elektrosoul.json](./207197-elektrosoul.json) |
 | Elemage | 288643 | [288643-elemage.json](./288643-elemage.json) |
+| Elemancer | 125584 | [125584-elemancer.json](./125584-elemancer.json) |
 | Elemancer | 258397 | [258397-elemancer.json](./258397-elemancer.json) |
 | Elemasta | 342021 | [342021-elemasta.json](./342021-elemasta.json) |
 | Elemates | 207525 | [207525-elemates.json](./207525-elemates.json) |
@@ -2816,6 +2817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elrentaros Wanderings | 230621 | [230621-elrentaros-wanderings.json](./230621-elrentaros-wanderings.json) |
 | Elroi: Defense War | 154324 | [154324-elroi-defense-war.json](./154324-elroi-defense-war.json) |
 | Elroy Goes Bugzerk | 123385 | [123385-elroy-goes-bugzerk.json](./123385-elroy-goes-bugzerk.json) |
+| Elroy's Costume Closet | 125541 | [125541-elroys-costume-closet.json](./125541-elroys-costume-closet.json) |
 | Elsa Gladiac Ultra | 24177 | [24177-elsa-gladiac-ultra.json](./24177-elsa-gladiac-ultra.json) |
 | Else Walker | 177947 | [177947-else-walker.json](./177947-else-walker.json) |
 | Elsewar | 415130 | [415130-elsewar.json](./415130-elsewar.json) |
@@ -2865,6 +2867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elven Magic: The Witch, The Elf & The Fairy | 107798 | [107798-elven-magic-the-witch-the-elf-and-the-fairy.json](./107798-elven-magic-the-witch-the-elf-and-the-fairy.json) |
 | Elven Mists | 52963 | [52963-elven-mists.json](./52963-elven-mists.json) |
 | Elven Mists 2 | 209199 | [209199-elven-mists-2.json](./209199-elven-mists-2.json) |
+| Elven Relations | 125572 | [125572-elven-relations.json](./125572-elven-relations.json) |
 | Elven Rivers II: New Horizons - Collector's Edition | 250355 | [250355-elven-rivers-ii-new-horizons-collectors-edition.json](./250355-elven-rivers-ii-new-horizons-collectors-edition.json) |
 | Elven Rivers IV: Raging Waves | 294747 | [294747-elven-rivers-iv-raging-waves.json](./294747-elven-rivers-iv-raging-waves.json) |
 | Elven Rivers VI: Guardians of Hope - Collector's Edition | 358406 | [358406-elven-rivers-vi-guardians-of-hope-collectors-edition.json](./358406-elven-rivers-vi-guardians-of-hope-collectors-edition.json) |
@@ -6527,6 +6530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa 1400: The Guild - Expansion Pack | 96545 | [96545-europa-1400-the-guild-expansion-pack.json](./96545-europa-1400-the-guild-expansion-pack.json) |
 | Europa Barbarorum | 137059 | [137059-europa-barbarorum.json](./137059-europa-barbarorum.json) |
 | Europa Concept | 64302 | [64302-europa-concept.json](./64302-europa-concept.json) |
+| Europa Explorer | 125543 | [125543-europa-explorer.json](./125543-europa-explorer.json) |
 | Europa One | 371918 | [371918-europa-one.json](./371918-europa-one.json) |
 | Europa Truck Driving Sim 2021 | 280078 | [280078-europa-truck-driving-sim-2021.json](./280078-europa-truck-driving-sim-2021.json) |
 | Europa Universalis | 2022 | [2022-europa-universalis.json](./2022-europa-universalis.json) |
