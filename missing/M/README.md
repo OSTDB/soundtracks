@@ -2494,6 +2494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majoukko Princess - Mefi's Great Strategy for Recapturing the Castle- | 292052 | [292052-majoukko-princess-mefis-great-strategy-for-recapturing-the-castle.json](./292052-majoukko-princess-mefis-great-strategy-for-recapturing-the-castle.json) |
 | Majukes Tower Defense | 267193 | [267193-majukes-tower-defense.json](./267193-majukes-tower-defense.json) |
 | Majula Frontier | 108184 | [108184-majula-frontier.json](./108184-majula-frontier.json) |
+| Majula Frontier: The Offense | 129920 | [129920-majula-frontier-the-offense.json](./129920-majula-frontier-the-offense.json) |
 | Majulah | 367965 | [367965-majulah.json](./367965-majulah.json) |
 | Majustsushi Rintiara | 174123 | [174123-majustsushi-rintiara.json](./174123-majustsushi-rintiara.json) |
 | Majuu-ou: King of Demons | 38112 | [38112-majuu-ou-king-of-demons.json](./38112-majuu-ou-king-of-demons.json) |
@@ -5949,6 +5950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max Manos 2 | 373291 | [373291-max-manos-2.json](./373291-max-manos-2.json) |
 | Max Massacre | 244634 | [244634-max-massacre.json](./244634-max-massacre.json) |
 | Max Mix Game | 46669 | [46669-max-mix-game.json](./46669-max-mix-game.json) |
+| Max Mozart | 129930 | [129930-max-mozart.json](./129930-max-mozart.json) |
 | Max on the Moon | 209536 | [209536-max-on-the-moon.json](./209536-max-on-the-moon.json) |
 | Max Payne | 133860 | [133860-max-payne.json](./133860-max-payne.json) |
 | Max Payne | 196251 | [196251-max-payne.json](./196251-max-payne.json) |
@@ -6026,7 +6028,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -12113,6 +12114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milton the Alien Guy | 230349 | [230349-milton-the-alien-guy.json](./230349-milton-the-alien-guy.json) |
 | Milton's Run | 63139 | [63139-miltons-run.json](./63139-miltons-run.json) |
 | Milu Milan | 265824 | [265824-milu-milan.json](./265824-milu-milan.json) |
+| MilvusX | 129935 | [129935-milvusx.json](./129935-milvusx.json) |
 | Milway | 420750 | [420750-milway.json](./420750-milway.json) |
 | Milya[broken] | 150128 | [150128-milya-broken.json](./150128-milya-broken.json) |
 | MiM: Meditation Interactive Matrix | 358995 | [358995-mim-meditation-interactive-matrix.json](./358995-mim-meditation-interactive-matrix.json) |
