@@ -13724,6 +13724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CongWei | 372945 | [372945-congwei.json](./372945-congwei.json) |
 | Coniclysm | 16107 | [16107-coniclysm.json](./16107-coniclysm.json) |
 | Conjoined Cats | 294074 | [294074-conjoined-cats.json](./294074-conjoined-cats.json) |
+| Conjugo | 130474 | [130474-conjugo.json](./130474-conjugo.json) |
 | Conjunctivitalizer | 329464 | [329464-conjunctivitalizer.json](./329464-conjunctivitalizer.json) |
 | Conjuntalia | 91002 | [91002-conjuntalia.json](./91002-conjuntalia.json) |
 | Conjuntalia: Overcome the Death of a Loved One | 171400 | [171400-conjuntalia-overcome-the-death-of-a-loved-one.json](./171400-conjuntalia-overcome-the-death-of-a-loved-one.json) |
@@ -16824,6 +16825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Shin Chan: The Storm Called! Flaming Kasukabe Runner!! | 130760 | [130760-crayon-shin-chan-the-storm-called-flaming-kasukabe-runner.json](./130760-crayon-shin-chan-the-storm-called-flaming-kasukabe-runner.json) |
 | Crayon Shin-Chan | 42331 | [42331-crayon-shin-chan.json](./42331-crayon-shin-chan.json) |
 | Crayon Shin-chan 2: Daimaou no Gyakushuu | 65378 | [65378-crayon-shin-chan-2-daimaou-no-gyakushuu.json](./65378-crayon-shin-chan-2-daimaou-no-gyakushuu.json) |
+| Crayon Shin-chan 3: Ora no Gokigen Athletic | 130484 | [130484-crayon-shin-chan-3-ora-no-gokigen-athletic.json](./130484-crayon-shin-chan-3-ora-no-gokigen-athletic.json) |
 | Crayon Shin-chan 4: Ora no Itazura Daihenshin | 127112 | [127112-crayon-shin-chan-4-ora-no-itazura-daihenshin.json](./127112-crayon-shin-chan-4-ora-no-itazura-daihenshin.json) |
 | Crayon Shin-Chan for Nuon | 138119 | [138119-crayon-shin-chan-for-nuon.json](./138119-crayon-shin-chan-for-nuon.json) |
 | Crayon Shin-Chan Ora to Shiro ha Otomodachi Da yo | 49131 | [49131-crayon-shin-chan-ora-to-shiro-ha-otomodachi-da-yo.json](./49131-crayon-shin-chan-ora-to-shiro-ha-otomodachi-da-yo.json) |
@@ -16836,6 +16838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Shin-chan: Guu Choki Panic | 346024 | [346024-crayon-shin-chan-guu-choki-panic.json](./346024-crayon-shin-chan-guu-choki-panic.json) |
 | Crayon Shin-chan: Nagagutsu Dobon!! | 38203 | [38203-crayon-shin-chan-nagagutsu-dobon.json](./38203-crayon-shin-chan-nagagutsu-dobon.json) |
 | Crayon Shin-chan: Obaka Dainin Den - Susume! Kasukabe Ninja Tai! | 269680 | [269680-crayon-shin-chan-obaka-dainin-den-susume-kasukabe-ninja-tai.json](./269680-crayon-shin-chan-obaka-dainin-den-susume-kasukabe-ninja-tai.json) |
+| Crayon Shin-chan: Ora no Gokigen Collection | 130485 | [130485-crayon-shin-chan-ora-no-gokigen-collection.json](./130485-crayon-shin-chan-ora-no-gokigen-collection.json) |
 | Crayon Shin-Chan: Ora to Poi Poi | 48533 | [48533-crayon-shin-chan-ora-to-poi-poi.json](./48533-crayon-shin-chan-ora-to-poi-poi.json) |
 | Crayon Shin-Chan: Ora to Wanpaku Gokko dazo | 63314 | [63314-crayon-shin-chan-ora-to-wanpaku-gokko-dazo.json](./63314-crayon-shin-chan-ora-to-wanpaku-gokko-dazo.json) |
 | Crayon Shin-chan: Puzzle Daimaou no Nazo | 172768 | [172768-crayon-shin-chan-puzzle-daimaou-no-nazo.json](./172768-crayon-shin-chan-puzzle-daimaou-no-nazo.json) |
