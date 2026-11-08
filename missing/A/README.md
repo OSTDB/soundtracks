@@ -8440,6 +8440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Adventures: The Forgotten Ruins | 47700 | [47700-amazing-adventures-the-forgotten-ruins.json](./47700-amazing-adventures-the-forgotten-ruins.json) |
 | Amazing Alex | 64629 | [64629-amazing-alex.json](./64629-amazing-alex.json) |
 | Amazing Animals Activity Center | 336615 | [336615-amazing-animals-activity-center.json](./336615-amazing-animals-activity-center.json) |
+| Amazing Baldi Simulator? | 106697 | [106697-amazing-baldi-simulator.json](./106697-amazing-baldi-simulator.json) |
 | Amazing Bats | 234468 | [234468-amazing-bats.json](./234468-amazing-bats.json) |
 | Amazing Birds Hunter | 244085 | [244085-amazing-birds-hunter.json](./244085-amazing-birds-hunter.json) |
 | Amazing Bomberman | 211494 | [211494-amazing-bomberman.json](./211494-amazing-bomberman.json) |
@@ -9311,6 +9312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anamnesia: Part 1 - Am I my Body? | 284151 | [284151-anamnesia-part-1-am-i-my-body.json](./284151-anamnesia-part-1-am-i-my-body.json) |
 | Anamnesis | 150856 | [150856-anamnesis.json](./150856-anamnesis.json) |
 | Anamnesis | 254026 | [254026-anamnesis.json](./254026-anamnesis.json) |
+| Anamorph | 106784 | [106784-anamorph.json](./106784-anamorph.json) |
 | Anamorphine | 27873 | [27873-anamorphine.json](./27873-anamorphine.json) |
 | Anamorphosis | 167125 | [167125-anamorphosis.json](./167125-anamorphosis.json) |
 | Anan Kanshuu: Onna-jikara Kinkyuu Up! DS | 269549 | [269549-anan-kanshuu-onna-jikara-kinkyuu-up-ds.json](./269549-anan-kanshuu-onna-jikara-kinkyuu-up-ds.json) |
