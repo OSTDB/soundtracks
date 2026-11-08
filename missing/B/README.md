@@ -514,6 +514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon 3D | 146896 | [146896-backgammon-3d.json](./146896-backgammon-3d.json) |
 | Backgammon Blitz | 8660 | [8660-backgammon-blitz.json](./8660-backgammon-blitz.json) |
 | Backgammon Deluxe | 69568 | [69568-backgammon-deluxe.json](./69568-backgammon-deluxe.json) |
+| Backgammon HD | 90052 | [90052-backgammon-hd.json](./90052-backgammon-hd.json) |
 | Backgammon Live | 245322 | [245322-backgammon-live.json](./245322-backgammon-live.json) |
 | Backgammon Master | 346110 | [346110-backgammon-master.json](./346110-backgammon-master.json) |
 | Backgammon Masters | 87285 | [87285-backgammon-masters.json](./87285-backgammon-masters.json) |
@@ -10711,6 +10712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Fortress | 88977 | [88977-block-fortress.json](./88977-block-fortress.json) |
 | Block Fortress 2 | 318705 | [318705-block-fortress-2.json](./318705-block-fortress-2.json) |
 | Block Fortress: Empires | 119483 | [119483-block-fortress-empires.json](./119483-block-fortress-empires.json) |
+| Block Fortress: War | 90045 | [90045-block-fortress-war.json](./90045-block-fortress-war.json) |
 | Block Fuse | 113326 | [113326-block-fuse.json](./113326-block-fuse.json) |
 | Block Gal | 38587 | [38587-block-gal.json](./38587-block-gal.json) |
 | Block Game Skyland Forrest | 213681 | [213681-block-game-skyland-forrest.json](./213681-block-game-skyland-forrest.json) |
@@ -13626,6 +13628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Border Break | 81218 | [81218-border-break.json](./81218-border-break.json) |
 | Border Break: Sega Network Robot Wars | 78434 | [78434-border-break-sega-network-robot-wars.json](./78434-border-break-sega-network-robot-wars.json) |
 | Border Clash | 266089 | [266089-border-clash.json](./266089-border-clash.json) |
+| Border closure | 90018 | [90018-border-closure.json](./90018-border-closure.json) |
 | Border Down | 6717 | [6717-border-down.json](./6717-border-down.json) |
 | Border Dungeon | 304645 | [304645-border-dungeon.json](./304645-border-dungeon.json) |
 | Border Force: Space Force | 171627 | [171627-border-force-space-force.json](./171627-border-force-space-force.json) |
