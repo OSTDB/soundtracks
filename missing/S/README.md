@@ -492,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safebuster | 145223 | [145223-safebuster.json](./145223-safebuster.json) |
 | Safecracker | 24002 | [24002-safecracker.json](./24002-safecracker.json) |
 | Safecracker | 326988 | [326988-safecracker.json](./326988-safecracker.json) |
+| Safecracker | 94850 | [94850-safecracker.json](./94850-safecracker.json) |
 | Safecracker: The Ultimate Puzzle Adventure | 5135 | [5135-safecracker-the-ultimate-puzzle-adventure.json](./5135-safecracker-the-ultimate-puzzle-adventure.json) |
 | Safecracker: The Ultimate Puzzle Challenge! | 326917 | [326917-safecracker-the-ultimate-puzzle-challenge.json](./326917-safecracker-the-ultimate-puzzle-challenge.json) |
 | Safeguard | 383034 | [383034-safeguard.json](./383034-safeguard.json) |
@@ -1312,6 +1313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai | 140531 | [140531-samurai.json](./140531-samurai.json) |
 | Samurai | 199761 | [199761-samurai.json](./199761-samurai.json) |
 | Samurai | 377325 | [377325-samurai.json](./377325-samurai.json) |
+| Samurai | 94847 | [94847-samurai.json](./94847-samurai.json) |
 | Samurai Academy: Paws of Fury | 366773 | [366773-samurai-academy-paws-of-fury.json](./366773-samurai-academy-paws-of-fury.json) |
 | Samurai Aces | 39844 | [39844-samurai-aces.json](./39844-samurai-aces.json) |
 | Samurai Aces III: Sengoku Cannon | 135721 | [135721-samurai-aces-iii-sengoku-cannon.json](./135721-samurai-aces-iii-sengoku-cannon.json) |
@@ -20651,6 +20653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Station Alpha | 73078 | [73078-space-station-alpha.json](./73078-space-station-alpha.json) |
 | Space Station Alpha: The Encounter | 208770 | [208770-space-station-alpha-the-encounter.json](./208770-space-station-alpha-the-encounter.json) |
 | Space Station Cargo Simulator | 149241 | [149241-space-station-cargo-simulator.json](./149241-space-station-cargo-simulator.json) |
+| Space Station Continuum | 94804 | [94804-space-station-continuum.json](./94804-space-station-continuum.json) |
 | Space Station Defender | 293533 | [293533-space-station-defender.json](./293533-space-station-defender.json) |
 | Space Station Designer | 211518 | [211518-space-station-designer.json](./211518-space-station-designer.json) |
 | Space Station Escape | 282636 | [282636-space-station-escape.json](./282636-space-station-escape.json) |
@@ -25655,6 +25658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfall | 376812 | [376812-starfall.json](./376812-starfall.json) |
 | Starfall | 377279 | [377279-starfall.json](./377279-starfall.json) |
 | Starfall | 99376 | [99376-starfall.json](./99376-starfall.json) |
+| Starfall 2 | 94801 | [94801-starfall-2.json](./94801-starfall-2.json) |
 | Starfall Arena | 227170 | [227170-starfall-arena.json](./227170-starfall-arena.json) |
 | Starfall Defenders | 350433 | [350433-starfall-defenders.json](./350433-starfall-defenders.json) |
 | Starfall Fantasy: Neverland | 249056 | [249056-starfall-fantasy-neverland.json](./249056-starfall-fantasy-neverland.json) |
@@ -25884,6 +25888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarPeace | 73286 | [73286-starpeace.json](./73286-starpeace.json) |
 | StarPicker | 149607 | [149607-starpicker.json](./149607-starpicker.json) |
 | Starpiercer | 181360 | [181360-starpiercer.json](./181360-starpiercer.json) |
+| StarPilot | 94830 | [94830-starpilot.json](./94830-starpilot.json) |
 | StarPilot W | 307610 | [307610-starpilot-w.json](./307610-starpilot-w.json) |
 | Starpine | 366365 | [366365-starpine.json](./366365-starpine.json) |
 | Starpoint Gemini | 15143 | [15143-starpoint-gemini.json](./15143-starpoint-gemini.json) |
