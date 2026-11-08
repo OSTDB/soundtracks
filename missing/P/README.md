@@ -4200,6 +4200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penny for Your Potion | 356255 | [356255-penny-for-your-potion.json](./356255-penny-for-your-potion.json) |
 | Penny For Your Thoughts | 367052 | [367052-penny-for-your-thoughts.json](./367052-penny-for-your-thoughts.json) |
 | Penny Larceny: Gig Economy Supervillain | 241861 | [241861-penny-larceny-gig-economy-supervillain.json](./241861-penny-larceny-gig-economy-supervillain.json) |
+| Penny Panda's Sticker Store | 133545 | [133545-penny-pandas-sticker-store.json](./133545-penny-pandas-sticker-store.json) |
 | Penny Potluck | 413501 | [413501-penny-potluck.json](./413501-penny-potluck.json) |
 | Penny Racers | 1292 | [1292-penny-racers.json](./1292-penny-racers.json) |
 | Penny Racers | 133238 | [133238-penny-racers.json](./133238-penny-racers.json) |
@@ -6299,6 +6300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture Perfect Golf | 316767 | [316767-picture-perfect-golf.json](./316767-picture-perfect-golf.json) |
 | Picture Perfect Golf | 92776 | [92776-picture-perfect-golf.json](./92776-picture-perfect-golf.json) |
 | Picture Perfect: Hair Salon | 209965 | [209965-picture-perfect-hair-salon.json](./209965-picture-perfect-hair-salon.json) |
+| Picture Phonics | 133540 | [133540-picture-phonics.json](./133540-picture-phonics.json) |
 | Picture Poker | 249625 | [249625-picture-poker.json](./249625-picture-poker.json) |
 | Picture Puzzle | 186449 | [186449-picture-puzzle.json](./186449-picture-puzzle.json) |
 | Picture Puzzle | 269636 | [269636-picture-puzzle.json](./269636-picture-puzzle.json) |
@@ -7297,6 +7299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinfall | 255615 | [255615-pinfall.json](./255615-pinfall.json) |
 | Pinfeather | 338629 | [338629-pinfeather.json](./338629-pinfeather.json) |
 | Pinfinity: Incremental Pinball | 405086 | [405086-pinfinity-incremental-pinball.json](./405086-pinfinity-incremental-pinball.json) |
+| Ping | 133561 | [133561-ping.json](./133561-ping.json) |
 | Ping | 267965 | [267965-ping.json](./267965-ping.json) |
 | Ping | 307600 | [307600-ping.json](./307600-ping.json) |
 | Ping | 90641 | [90641-ping.json](./90641-ping.json) |
@@ -12511,6 +12514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ponder | 217142 | [217142-ponder.json](./217142-ponder.json) |
 | Ponder | 301096 | [301096-ponder.json](./301096-ponder.json) |
 | Ponder Club | 394542 | [394542-ponder-club.json](./394542-ponder-club.json) |
+| Pondering Problems | 133537 | [133537-pondering-problems.json](./133537-pondering-problems.json) |
 | Pondlife | 384543 | [384543-pondlife.json](./384543-pondlife.json) |
 | Pong | 198869 | [198869-pong.json](./198869-pong.json) |
 | Pong | 209337 | [209337-pong.json](./209337-pong.json) |
