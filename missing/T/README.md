@@ -17606,6 +17606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Strangers 4 | 393505 | [393505-the-strangers-4.json](./393505-the-strangers-4.json) |
 | The Strategy Game Room | 73046 | [73046-the-strategy-game-room.json](./73046-the-strategy-game-room.json) |
 | The Strawman Augment | 314464 | [314464-the-strawman-augment.json](./314464-the-strawman-augment.json) |
+| The Stray Cat | 99061 | [99061-the-stray-cat.json](./99061-the-stray-cat.json) |
 | The Stray Laboratory | 302668 | [302668-the-stray-laboratory.json](./302668-the-stray-laboratory.json) |
 | The Street 10 | 282031 | [282031-the-street-10.json](./282031-the-street-10.json) |
 | The Street King | 413727 | [413727-the-street-king.json](./413727-the-street-king.json) |
