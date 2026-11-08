@@ -1052,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camisole | 128366 | [128366-camisole.json](./128366-camisole.json) |
 | Camo Sniper | 337157 | [337157-camo-sniper.json](./337157-camo-sniper.json) |
 | Camouflet | 219734 | [219734-camouflet.json](./219734-camouflet.json) |
+| Camp 1 | 134815 | [134815-camp-1.json](./134815-camp-1.json) |
 | Camp Buddy: Scoutmaster Season – Side Stories | 387576 | [387576-camp-buddy-scoutmaster-season-side-stories.json](./387576-camp-buddy-scoutmaster-season-side-stories.json) |
 | Camp California | 37590 | [37590-camp-california.json](./37590-camp-california.json) |
 | Camp Canyonwood | 155791 | [155791-camp-canyonwood.json](./155791-camp-canyonwood.json) |
@@ -13526,6 +13527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Concentration | 319797 | [319797-concentration.json](./319797-concentration.json) |
 | Concentration Game (Pexeso, Pairs) for Kids | 90448 | [90448-concentration-game-pexeso-pairs-for-kids.json](./90448-concentration-game-pexeso-pairs-for-kids.json) |
 | Concentration Required | 338882 | [338882-concentration-required.json](./338882-concentration-required.json) |
+| Concentric | 134765 | [134765-concentric.json](./134765-concentric.json) |
 | Concept 20 | 127224 | [127224-concept-20.json](./127224-concept-20.json) |
 | Concept Destruction | 123561 | [123561-concept-destruction.json](./123561-concept-destruction.json) |
 | Conception II: Children of the Seven Stars | 4701 | [4701-conception-ii-children-of-the-seven-stars.json](./4701-conception-ii-children-of-the-seven-stars.json) |
@@ -19116,6 +19118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Stacker | 57452 | [57452-crystal-stacker.json](./57452-crystal-stacker.json) |
 | Crystal Storm | 235194 | [235194-crystal-storm.json](./235194-crystal-storm.json) |
 | Crystal Story II | 35874 | [35874-crystal-story-ii.json](./35874-crystal-story-ii.json) |
+| Crystal Story: Awakening | 134771 | [134771-crystal-story-awakening.json](./134771-crystal-story-awakening.json) |
 | Crystal Story: Dawn of Dusk | 190972 | [190972-crystal-story-dawn-of-dusk.json](./190972-crystal-story-dawn-of-dusk.json) |
 | Crystal Story: The Hero and the Evil Witch | 133357 | [133357-crystal-story-the-hero-and-the-evil-witch.json](./133357-crystal-story-the-hero-and-the-evil-witch.json) |
 | Crystal Survivor | 297882 | [297882-crystal-survivor.json](./297882-crystal-survivor.json) |
