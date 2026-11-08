@@ -15544,6 +15544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prospector Odyssey | 260550 | [260550-the-prospector-odyssey.json](./260550-the-prospector-odyssey.json) |
 | The Protagonish | 311168 | [311168-the-protagonish.json](./311168-the-protagonish.json) |
 | The Protagonist | 359851 | [359851-the-protagonist.json](./359851-the-protagonist.json) |
+| The Protagonist: EX-1 | 96144 | [96144-the-protagonist-ex-1.json](./96144-the-protagonist-ex-1.json) |
 | The Protean Forest | 267426 | [267426-the-protean-forest.json](./267426-the-protean-forest.json) |
 | The Protectorate | 284914 | [284914-the-protectorate.json](./284914-the-protectorate.json) |
 | The protectors of Deya | 158096 | [158096-the-protectors-of-deya.json](./158096-the-protectors-of-deya.json) |
@@ -31640,6 +31641,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trick Room Mysteries | 399792 | [399792-trick-room-mysteries.json](./399792-trick-room-mysteries.json) |
 | Trick Shot | 40625 | [40625-trick-shot.json](./40625-trick-shot.json) |
 | Trick Shot | 87820 | [87820-trick-shot.json](./87820-trick-shot.json) |
+| Trick Shot | 96142 | [96142-trick-shot.json](./96142-trick-shot.json) |
+| Trick Shot 2 | 96141 | [96141-trick-shot-2.json](./96141-trick-shot-2.json) |
 | Trick Shot Bowling | 87311 | [87311-trick-shot-bowling.json](./87311-trick-shot-bowling.json) |
 | Trick Shot Ping Pong | 193555 | [193555-trick-shot-ping-pong.json](./193555-trick-shot-ping-pong.json) |
 | Trick Solitaire | 337265 | [337265-trick-solitaire.json](./337265-trick-solitaire.json) |
@@ -32716,6 +32719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trump vs Harris Clicker | 369646 | [369646-trump-vs-harris-clicker.json](./369646-trump-vs-harris-clicker.json) |
 | Trump Vs Rocketman | 230134 | [230134-trump-vs-rocketman.json](./230134-trump-vs-rocketman.json) |
 | Trump vs. Covid: Save the World Clicker | 168575 | [168575-trump-vs-covid-save-the-world-clicker.json](./168575-trump-vs-covid-save-the-world-clicker.json) |
+| Trump vs. Kim | 95718 | [95718-trump-vs-kim.json](./95718-trump-vs-kim.json) |
 | Trump: Agent of Hate | 26958 | [26958-trump-agent-of-hate.json](./26958-trump-agent-of-hate.json) |
 | Trump! Jump | 256262 | [256262-trump-jump.json](./256262-trump-jump.json) |
 | Trump's Empire | 263622 | [263622-trumps-empire.json](./263622-trumps-empire.json) |
