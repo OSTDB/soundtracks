@@ -656,6 +656,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops - Prestige Edition | 102079 | [102079-call-of-duty-black-ops-prestige-edition.json](./102079-call-of-duty-black-ops-prestige-edition.json) |
 | Call of Duty: Black Ops - Zombies | 77267 | [77267-call-of-duty-black-ops-zombies.json](./77267-call-of-duty-black-ops-zombies.json) |
 | Call of Duty: Black Ops 4 - Digital Deluxe Edition | 118732 | [118732-call-of-duty-black-ops-4-digital-deluxe-edition.json](./118732-call-of-duty-black-ops-4-digital-deluxe-edition.json) |
+| Call of Duty: Black Ops 4 - Mystery Box Edition | 135985 | [135985-call-of-duty-black-ops-4-mystery-box-edition.json](./135985-call-of-duty-black-ops-4-mystery-box-edition.json) |
+| Call of Duty: Black Ops 4 - Pro Edition | 136016 | [136016-call-of-duty-black-ops-4-pro-edition.json](./136016-call-of-duty-black-ops-4-pro-edition.json) |
 | Call of Duty: Black Ops 4 - Specialist Edition | 102069 | [102069-call-of-duty-black-ops-4-specialist-edition.json](./102069-call-of-duty-black-ops-4-specialist-edition.json) |
 | Call of Duty: Black Ops 4 - Spectre Rising Edition | 118547 | [118547-call-of-duty-black-ops-4-spectre-rising-edition.json](./118547-call-of-duty-black-ops-4-spectre-rising-edition.json) |
 | Call of Duty: Black Ops 6 - Season 1 | 324925 | [324925-call-of-duty-black-ops-6-season-1.json](./324925-call-of-duty-black-ops-6-season-1.json) |
@@ -672,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops Cold War - Season Two | 144050 | [144050-call-of-duty-black-ops-cold-war-season-two.json](./144050-call-of-duty-black-ops-cold-war-season-two.json) |
 | Call of Duty: Black Ops Cold War - Ultimate Edition | 139887 | [139887-call-of-duty-black-ops-cold-war-ultimate-edition.json](./139887-call-of-duty-black-ops-cold-war-ultimate-edition.json) |
 | Call of Duty: Black Ops Collection | 136183 | [136183-call-of-duty-black-ops-collection.json](./136183-call-of-duty-black-ops-collection.json) |
+| Call of Duty: Black Ops I & II Combo Pack | 136028 | [136028-call-of-duty-black-ops-i-and-ii-combo-pack.json](./136028-call-of-duty-black-ops-i-and-ii-combo-pack.json) |
 | Call of Duty: Black Ops II - Apocalypse | 21686 | [21686-call-of-duty-black-ops-ii-apocalypse.json](./21686-call-of-duty-black-ops-ii-apocalypse.json) |
 | Call of Duty: Black Ops II - Care Package | 18352 | [18352-call-of-duty-black-ops-ii-care-package.json](./18352-call-of-duty-black-ops-ii-care-package.json) |
 | Call of Duty: Black Ops II - Digital Deluxe Edition | 11202 | [11202-call-of-duty-black-ops-ii-digital-deluxe-edition.json](./11202-call-of-duty-black-ops-ii-digital-deluxe-edition.json) |
@@ -16632,6 +16635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Tag Team Racing | 248550 | [248550-crash-tag-team-racing.json](./248550-crash-tag-team-racing.json) |
 | Crash Team Racing | 388117 | [388117-crash-team-racing.json](./388117-crash-team-racing.json) |
 | Crash Team Racing Nitro-Fueled | 113113 | [113113-crash-team-racing-nitro-fueled.json](./113113-crash-team-racing-nitro-fueled.json) |
+| Crash Team Racing Nitro-Fueled + Crash Bandicoot N'Sane Trilogy Bundle | 136027 | [136027-crash-team-racing-nitro-fueled-crash-bandicoot-nsane-trilogy-bundle.json](./136027-crash-team-racing-nitro-fueled-crash-bandicoot-nsane-trilogy-bundle.json) |
 | Crash Team Racing Nitro-Fueled + Spyro Reignited Trilogy Bundle | 136126 | [136126-crash-team-racing-nitro-fueled-spyro-reignited-trilogy-bundle.json](./136126-crash-team-racing-nitro-fueled-spyro-reignited-trilogy-bundle.json) |
 | Crash Team Racing Nitro-Fueled: Back N. Time Grand Prix | 324837 | [324837-crash-team-racing-nitro-fueled-back-n-time-grand-prix.json](./324837-crash-team-racing-nitro-fueled-back-n-time-grand-prix.json) |
 | Crash Team Racing Nitro-Fueled: Cove Cruiser Kart Body + Tropic Swirl Decal | 325137 | [325137-crash-team-racing-nitro-fueled-cove-cruiser-kart-body-tropic-swirl-decal.json](./325137-crash-team-racing-nitro-fueled-cove-cruiser-kart-body-tropic-swirl-decal.json) |
