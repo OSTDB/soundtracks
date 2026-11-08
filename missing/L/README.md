@@ -4072,6 +4072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Wedding | 123207 | [123207-lethal-wedding.json](./123207-lethal-wedding.json) |
 | Lethal Women: World of Femdom and Espionage | 340913 | [340913-lethal-women-world-of-femdom-and-espionage.json](./340913-lethal-women-world-of-femdom-and-espionage.json) |
 | Lethal Xcess | 15249 | [15249-lethal-xcess.json](./15249-lethal-xcess.json) |
+| Lethal Zone | 93089 | [93089-lethal-zone.json](./93089-lethal-zone.json) |
 | Lethalmon | 358277 | [358277-lethalmon.json](./358277-lethalmon.json) |
 | LethalRpgDestiny | 309093 | [309093-lethalrpgdestiny.json](./309093-lethalrpgdestiny.json) |
 | Lethargy | 175147 | [175147-lethargy.json](./175147-lethargy.json) |
