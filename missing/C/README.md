@@ -7640,6 +7640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chillax | 261959 | [261959-chillax.json](./261959-chillax.json) |
 | Chillax | 303724 | [303724-chillax.json](./303724-chillax.json) |
 | Chillax VR | 155966 | [155966-chillax-vr.json](./155966-chillax-vr.json) |
+| Chillaxian | 90050 | [90050-chillaxian.json](./90050-chillaxian.json) |
 | ChillCraft | 256393 | [256393-chillcraft.json](./256393-chillcraft.json) |
 | Chilled Chicken | 262421 | [262421-chilled-chicken.json](./262421-chilled-chicken.json) |
 | Chiller | 11727 | [11727-chiller.json](./11727-chiller.json) |
@@ -10437,6 +10438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clever Fox Moxie | 135486 | [135486-clever-fox-moxie.json](./135486-clever-fox-moxie.json) |
 | Clever Frog | 340209 | [340209-clever-frog.json](./340209-clever-frog.json) |
 | Clever Girl | 184639 | [184639-clever-girl.json](./184639-clever-girl.json) |
+| Clever Keyboard: ABC Learning Game For Kids | 90042 | [90042-clever-keyboard-abc-learning-game-for-kids.json](./90042-clever-keyboard-abc-learning-game-for-kids.json) |
 | Clever Kids Pony World | 25412 | [25412-clever-kids-pony-world.json](./25412-clever-kids-pony-world.json) |
 | Clever Kids: Creepy Crawlies | 268113 | [268113-clever-kids-creepy-crawlies.json](./268113-clever-kids-creepy-crawlies.json) |
 | Clever Kids: Dino Land | 52504 | [52504-clever-kids-dino-land.json](./52504-clever-kids-dino-land.json) |
@@ -18577,6 +18579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crosswords & Word Games | 79165 | [79165-crosswords-and-word-games.json](./79165-crosswords-and-word-games.json) |
 | Crosswords and More | 282843 | [282843-crosswords-and-more.json](./282843-crosswords-and-more.json) |
 | Crosswords Classic | 97301 | [97301-crosswords-classic.json](./97301-crosswords-classic.json) |
+| Crosswords Crazy! | 90024 | [90024-crosswords-crazy.json](./90024-crosswords-crazy.json) |
 | Crosswords For Dummies | 208801 | [208801-crosswords-for-dummies.json](./208801-crosswords-for-dummies.json) |
 | Crosswords With Friends | 90063 | [90063-crosswords-with-friends.json](./90063-crosswords-with-friends.json) |
 | Crosswords: World Tour | 332329 | [332329-crosswords-world-tour.json](./332329-crosswords-world-tour.json) |
@@ -18716,6 +18719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crownseeker | 399443 | [399443-crownseeker.json](./399443-crownseeker.json) |
 | Crownslayers | 387416 | [387416-crownslayers.json](./387416-crownslayers.json) |
 | Crowntakers | 10070 | [10070-crowntakers.json](./10070-crowntakers.json) |
+| Crowntakers - The Ultimate Strategy RPG | 90053 | [90053-crowntakers-the-ultimate-strategy-rpg.json](./90053-crowntakers-the-ultimate-strategy-rpg.json) |
 | Crowntakers: Undead Undertakings | 170221 | [170221-crowntakers-undead-undertakings.json](./170221-crowntakers-undead-undertakings.json) |
 | Crownwarden | 398800 | [398800-crownwarden.json](./398800-crownwarden.json) |
 | Crows | 103426 | [103426-crows.json](./103426-crows.json) |
