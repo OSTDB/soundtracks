@@ -3927,6 +3927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fellas | 408143 | [408143-fellas.json](./408143-fellas.json) |
 | FellaTrain | 294968 | [294968-fellatrain.json](./294968-fellatrain.json) |
 | Fellmark | 421240 | [421240-fellmark.json](./421240-fellmark.json) |
+| Fellow Fishes | 87456 | [87456-fellow-fishes.json](./87456-fellow-fishes.json) |
 | Fellow Moon | 320855 | [320855-fellow-moon.json](./320855-fellow-moon.json) |
 | Fellow: Eternal Clash | 110050 | [110050-fellow-eternal-clash.json](./110050-fellow-eternal-clash.json) |
 | Fellowship | 258627 | [258627-fellowship.json](./258627-fellowship.json) |
@@ -13468,6 +13469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Contact Teams Racing | 241053 | [241053-full-contact-teams-racing.json](./241053-full-contact-teams-racing.json) |
 | Full Court Heroes | 235625 | [235625-full-court-heroes.json](./235625-full-court-heroes.json) |
 | Full Deck Poker Solitaire | 88733 | [88733-full-deck-poker-solitaire.json](./88733-full-deck-poker-solitaire.json) |
+| Full Deck Pro Solitaire | 87487 | [87487-full-deck-pro-solitaire.json](./87487-full-deck-pro-solitaire.json) |
 | Full Deck Solitaire | 91173 | [91173-full-deck-solitaire.json](./91173-full-deck-solitaire.json) |
 | Full Drift Racing - Drifting & Racing Game | 114728 | [114728-full-drift-racing-drifting-and-racing-game.json](./114728-full-drift-racing-drifting-and-racing-game.json) |
 | Full English City | 310804 | [310804-full-english-city.json](./310804-full-english-city.json) |
@@ -14479,6 +14481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fuzzy & Floppy | 91695 | [91695-fuzzy-and-floppy.json](./91695-fuzzy-and-floppy.json) |
 | Fuzzy Critters | 104644 | [104644-fuzzy-critters.json](./104644-fuzzy-critters.json) |
 | Fuzzy Flip | 234492 | [234492-fuzzy-flip.json](./234492-fuzzy-flip.json) |
+| Fuzzy House | 87489 | [87489-fuzzy-house.json](./87489-fuzzy-house.json) |
 | Fuzzy McFluffenstein | 337205 | [337205-fuzzy-mcfluffenstein.json](./337205-fuzzy-mcfluffenstein.json) |
 | Fuzzy Road Home | 177878 | [177878-fuzzy-road-home.json](./177878-fuzzy-road-home.json) |
 | Fuzzy Seasons: Animal Forest (Start Pack Edition) | 106717 | [106717-fuzzy-seasons-animal-forest-start-pack-edition.json](./106717-fuzzy-seasons-animal-forest-start-pack-edition.json) |
