@@ -10065,6 +10065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Lander Beyond: Deluxe Edition | 284477 | [284477-lunar-lander-beyond-deluxe-edition.json](./284477-lunar-lander-beyond-deluxe-edition.json) |
 | Lunar Lander Mission | 265758 | [265758-lunar-lander-mission.json](./265758-lunar-lander-mission.json) |
 | Lunar Lander Redux | 303081 | [303081-lunar-lander-redux.json](./303081-lunar-lander-redux.json) |
+| Lunar Lander Relaunched | 106725 | [106725-lunar-lander-relaunched.json](./106725-lunar-lander-relaunched.json) |
 | Lunar Lander: Evolved | 329633 | [329633-lunar-lander-evolved.json](./329633-lunar-lander-evolved.json) |
 | Lunar Laser | 241990 | [241990-lunar-laser.json](./241990-lunar-laser.json) |
 | Lunar Legacy | 248041 | [248041-lunar-legacy.json](./248041-lunar-legacy.json) |
