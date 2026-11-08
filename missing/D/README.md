@@ -2291,6 +2291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darksiders 4 | 358770 | [358770-darksiders-4.json](./358770-darksiders-4.json) |
 | Darksiders Collection | 43014 | [43014-darksiders-collection.json](./43014-darksiders-collection.json) |
 | Darksiders Genesis | 119244 | [119244-darksiders-genesis.json](./119244-darksiders-genesis.json) |
+| Darksiders Genesis: Collector's Edition | 135979 | [135979-darksiders-genesis-collectors-edition.json](./135979-darksiders-genesis-collectors-edition.json) |
 | Darksiders II: Argul's Tomb | 135000 | [135000-darksiders-ii-arguls-tomb.json](./135000-darksiders-ii-arguls-tomb.json) |
 | Darksiders II: Deathinitive Edition | 20048 | [20048-darksiders-ii-deathinitive-edition.json](./20048-darksiders-ii-deathinitive-edition.json) |
 | Darksiders II: Limited Edition | 216196 | [216196-darksiders-ii-limited-edition.json](./216196-darksiders-ii-limited-edition.json) |
@@ -3512,6 +3513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead by Daylight: Macabre Tales Pack | 283186 | [283186-dead-by-daylight-macabre-tales-pack.json](./283186-dead-by-daylight-macabre-tales-pack.json) |
 | Dead by Daylight: Maddening Darkness Pack | 285698 | [285698-dead-by-daylight-maddening-darkness-pack.json](./285698-dead-by-daylight-maddening-darkness-pack.json) |
 | Dead by Daylight: Nicolas Cage | 252477 | [252477-dead-by-daylight-nicolas-cage.json](./252477-dead-by-daylight-nicolas-cage.json) |
+| Dead by Daylight: Nightmare Edition | 136009 | [136009-dead-by-daylight-nightmare-edition.json](./136009-dead-by-daylight-nightmare-edition.json) |
 | Dead by Daylight: Of Flesh and Mud Chapter | 76222 | [76222-dead-by-daylight-of-flesh-and-mud-chapter.json](./76222-dead-by-daylight-of-flesh-and-mud-chapter.json) |
 | Dead by Daylight: Old Wounds Pack | 283185 | [283185-dead-by-daylight-old-wounds-pack.json](./283185-dead-by-daylight-old-wounds-pack.json) |
 | Dead by Daylight: Portrait of a Murder Chapter | 193520 | [193520-dead-by-daylight-portrait-of-a-murder-chapter.json](./193520-dead-by-daylight-portrait-of-a-murder-chapter.json) |
@@ -7555,6 +7557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desperado 2 | 13590 | [13590-desperado-2.json](./13590-desperado-2.json) |
 | Desperados | 68252 | [68252-desperados.json](./68252-desperados.json) |
 | Desperados 2: Cooper's Revenge | 7261 | [7261-desperados-2-coopers-revenge.json](./7261-desperados-2-coopers-revenge.json) |
+| Desperados III: Collector's Edition | 135983 | [135983-desperados-iii-collectors-edition.json](./135983-desperados-iii-collectors-edition.json) |
 | Desperados III: Deluxe Edition | 136289 | [136289-desperados-iii-deluxe-edition.json](./136289-desperados-iii-deluxe-edition.json) |
 | Desperados III: Money for the Vultures - Part 1: Late to the Party | 152234 | [152234-desperados-iii-money-for-the-vultures-part-1-late-to-the-party.json](./152234-desperados-iii-money-for-the-vultures-part-1-late-to-the-party.json) |
 | Desperados III: Money for the Vultures - Part 2: Five Steps Ahead | 152235 | [152235-desperados-iii-money-for-the-vultures-part-2-five-steps-ahead.json](./152235-desperados-iii-money-for-the-vultures-part-2-five-steps-ahead.json) |
@@ -8071,6 +8074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detritus: The Daemons Quest | 71379 | [71379-detritus-the-daemons-quest.json](./71379-detritus-the-daemons-quest.json) |
 | Detroit | 71813 | [71813-detroit.json](./71813-detroit.json) |
 | Detroit Metal City DS: Death Shout | 70602 | [70602-detroit-metal-city-ds-death-shout.json](./70602-detroit-metal-city-ds-death-shout.json) |
+| Detroit: Become Human - Collector's Edition | 135973 | [135973-detroit-become-human-collectors-edition.json](./135973-detroit-become-human-collectors-edition.json) |
 | Detroit: Become Human - Digital Deluxe Edition | 118902 | [118902-detroit-become-human-digital-deluxe-edition.json](./118902-detroit-become-human-digital-deluxe-edition.json) |
 | Detroit: Become Human - Premium Edition | 136651 | [136651-detroit-become-human-premium-edition.json](./136651-detroit-become-human-premium-edition.json) |
 | Detstvo | 418227 | [418227-detstvo.json](./418227-detstvo.json) |
@@ -10106,6 +10110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Rally | 9928 | [9928-dirt-rally.json](./9928-dirt-rally.json) |
 | Dirt Rally 2.0 | 110411 | [110411-dirt-rally-2-0.json](./110411-dirt-rally-2-0.json) |
 | Dirt Rally 2.0: Bikernieki, Latvia (Rallycross Track) | 166342 | [166342-dirt-rally-2-0-bikernieki-latvia-rallycross-track.json](./166342-dirt-rally-2-0-bikernieki-latvia-rallycross-track.json) |
+| Dirt Rally 2.0: Day One Edition | 135972 | [135972-dirt-rally-2-0-day-one-edition.json](./135972-dirt-rally-2-0-day-one-edition.json) |
 | DiRT Rally 2.0: Digital Deluxe Edition | 122656 | [122656-dirt-rally-2-0-digital-deluxe-edition.json](./122656-dirt-rally-2-0-digital-deluxe-edition.json) |
 | Dirt Rally 2.0: Estering, Germany (Rallycross Track) | 166347 | [166347-dirt-rally-2-0-estering-germany-rallycross-track.json](./166347-dirt-rally-2-0-estering-germany-rallycross-track.json) |
 | Dirt Rally 2.0: Finland (Rally Location) | 166346 | [166346-dirt-rally-2-0-finland-rally-location.json](./166346-dirt-rally-2-0-finland-rally-location.json) |
@@ -13385,6 +13390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom Resurrection | 6641 | [6641-doom-resurrection.json](./6641-doom-resurrection.json) |
 | Doom Roller | 303486 | [303486-doom-roller.json](./303486-doom-roller.json) |
 | Doom RPG | 101029 | [101029-doom-rpg.json](./101029-doom-rpg.json) |
+| Doom Slayers Collection | 136004 | [136004-doom-slayers-collection.json](./136004-doom-slayers-collection.json) |
 | Doom Spiral | 347089 | [347089-doom-spiral.json](./347089-doom-spiral.json) |
 | Doom Survivor: Horde Rush | 396187 | [396187-doom-survivor-horde-rush.json](./396187-doom-survivor-horde-rush.json) |
 | Doom Survivors | 295799 | [295799-doom-survivors.json](./295799-doom-survivors.json) |
@@ -15371,6 +15377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition | 110069 | [110069-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition.json](./110069-dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition.json) |
 | Dragon Quest XI S: Echoes of an Elusive Age - Gorgeous Edition | 134248 | [134248-dragon-quest-xi-s-echoes-of-an-elusive-age-gorgeous-edition.json](./134248-dragon-quest-xi-s-echoes-of-an-elusive-age-gorgeous-edition.json) |
 | Dragon Quest XI: Echoes of an Elusive Age | 11667 | [11667-dragon-quest-xi-echoes-of-an-elusive-age.json](./11667-dragon-quest-xi-echoes-of-an-elusive-age.json) |
+| Dragon Quest XI: Echoes of an Elusive Age - Edition of Light | 135980 | [135980-dragon-quest-xi-echoes-of-an-elusive-age-edition-of-light.json](./135980-dragon-quest-xi-echoes-of-an-elusive-age-edition-of-light.json) |
 | Dragon Quest XI: Echoes of an Elusive Age S - Ultimate Edition | 313423 | [313423-dragon-quest-xi-echoes-of-an-elusive-age-s-ultimate-edition.json](./313423-dragon-quest-xi-echoes-of-an-elusive-age-s-ultimate-edition.json) |
 | Dragon Quest XI: Sugisarishi Toki wo Motomete | 115277 | [115277-dragon-quest-xi-sugisarishi-toki-wo-motomete.json](./115277-dragon-quest-xi-sugisarishi-toki-wo-motomete.json) |
 | Dragon Quest XII: Beyond Dreams | 149978 | [149978-dragon-quest-xii-beyond-dreams.json](./149978-dragon-quest-xii-beyond-dreams.json) |
