@@ -3831,6 +3831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Loop Complete | 52949 | [52949-endless-loop-complete.json](./52949-endless-loop-complete.json) |
 | Endless Love | 152933 | [152933-endless-love.json](./152933-endless-love.json) |
 | Endless Machines | 414044 | [414044-endless-machines.json](./414044-endless-machines.json) |
+| Endless Maneuver | 112445 | [112445-endless-maneuver.json](./112445-endless-maneuver.json) |
 | Endless Martian Pit | 185692 | [185692-endless-martian-pit.json](./185692-endless-martian-pit.json) |
 | Endless Maze | 274808 | [274808-endless-maze.json](./274808-endless-maze.json) |
 | Endless Maze | 405037 | [405037-endless-maze.json](./405037-endless-maze.json) |
@@ -3869,6 +3870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Reach | 358964 | [358964-endless-reach.json](./358964-endless-reach.json) |
 | Endless Reaches Through Mind and Soul | 128741 | [128741-endless-reaches-through-mind-and-soul.json](./128741-endless-reaches-through-mind-and-soul.json) |
 | Endless Return | 293007 | [293007-endless-return.json](./293007-endless-return.json) |
+| Endless Road | 112438 | [112438-endless-road.json](./112438-endless-road.json) |
 | Endless Road | 98866 | [98866-endless-road.json](./98866-endless-road.json) |
 | Endless Road Runner | 289125 | [289125-endless-road-runner.json](./289125-endless-road-runner.json) |
 | Endless Robot Dash | 344403 | [344403-endless-robot-dash.json](./344403-endless-robot-dash.json) |
