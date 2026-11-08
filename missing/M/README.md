@@ -14869,6 +14869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MobOS | 350566 | [350566-mobos.json](./350566-mobos.json) |
 | Mobs 'n Gunners | 112250 | [112250-mobs-n-gunners.json](./112250-mobs-n-gunners.json) |
 | Mobs 'N Monsters | 321379 | [321379-mobs-n-monsters.json](./321379-mobs-n-monsters.json) |
+| Mobs, Inc. | 101851 | [101851-mobs-inc.json](./101851-mobs-inc.json) |
 | Mobsmash.io | 125981 | [125981-mobsmash-io.json](./125981-mobsmash-io.json) |
 | Mobsteria | 359354 | [359354-mobsteria.json](./359354-mobsteria.json) |
 | Mobsteria: Rise | 420548 | [420548-mobsteria-rise.json](./420548-mobsteria-rise.json) |
@@ -16328,6 +16329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Logic | 115362 | [115362-monster-logic.json](./115362-monster-logic.json) |
 | Monster Looter | 101756 | [101756-monster-looter.json](./101756-monster-looter.json) |
 | Monster Looter | 373075 | [373075-monster-looter.json](./373075-monster-looter.json) |
+| Monster Love | 101844 | [101844-monster-love.json](./101844-monster-love.json) |
 | Monster Lover 2: Ambrosilas | 319897 | [319897-monster-lover-2-ambrosilas.json](./319897-monster-lover-2-ambrosilas.json) |
 | Monster Loves You Too! | 214153 | [214153-monster-loves-you-too.json](./214153-monster-loves-you-too.json) |
 | Monster Luv Radio | 302217 | [302217-monster-luv-radio.json](./302217-monster-luv-radio.json) |
