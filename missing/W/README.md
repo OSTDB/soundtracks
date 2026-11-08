@@ -3040,6 +3040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weakpoint Delta | 172880 | [172880-weakpoint-delta.json](./172880-weakpoint-delta.json) |
 | WeakWood Throne | 82469 | [82469-weakwood-throne.json](./82469-weakwood-throne.json) |
 | Wealth Project | 298207 | [298207-wealth-project.json](./298207-wealth-project.json) |
+| Weaphones Antiques: Firearms Simulator | 96177 | [96177-weaphones-antiques-firearms-simulator.json](./96177-weaphones-antiques-firearms-simulator.json) |
 | Weaphones Firearms Sim Mini | 343967 | [343967-weaphones-firearms-sim-mini.json](./343967-weaphones-firearms-sim-mini.json) |
 | Weaphones WW2: Firearms Simulator | 91227 | [91227-weaphones-ww2-firearms-simulator.json](./91227-weaphones-ww2-firearms-simulator.json) |
 | Weaphones: Firearms Simulator | 88039 | [88039-weaphones-firearms-simulator.json](./88039-weaphones-firearms-simulator.json) |
@@ -7397,6 +7398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonderworld | 327771 | [327771-wonderworld.json](./327771-wonderworld.json) |
 | WonderWorld | 221640 | [221640-wonderworld.json](./221640-wonderworld.json) |
 | Wonderworld Amusement Park | 47968 | [47968-wonderworld-amusement-park.json](./47968-wonderworld-amusement-park.json) |
+| WonderWorlds | 96132 | [96132-wonderworlds.json](./96132-wonderworlds.json) |
 | Wondrous Magic | 42352 | [42352-wondrous-magic.json](./42352-wondrous-magic.json) |
 | wOne | 388104 | [388104-wone.json](./388104-wone.json) |
 | wOne 2 | 388105 | [388105-wone-2.json](./388105-wone-2.json) |
@@ -7688,6 +7690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word of the Law: Death Mask - Collector's Edition | 186850 | [186850-word-of-the-law-death-mask-collectors-edition.json](./186850-word-of-the-law-death-mask-collectors-edition.json) |
 | Word On The Hook | 304022 | [304022-word-on-the-hook.json](./304022-word-on-the-hook.json) |
 | Word Party | 85494 | [85494-word-party.json](./85494-word-party.json) |
+| Word Party | 96133 | [96133-word-party.json](./96133-word-party.json) |
 | Word Path - Word Puzzle Game | 105762 | [105762-word-path-word-puzzle-game.json](./105762-word-path-word-puzzle-game.json) |
 | Word Peaks | 194883 | [194883-word-peaks.json](./194883-word-peaks.json) |
 | Word Pirate | 64854 | [64854-word-pirate.json](./64854-word-pirate.json) |
@@ -8781,6 +8784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Without Time | 390214 | [390214-world-without-time.json](./390214-world-without-time.json) |
 | World Wonders Hidden Histories 3 | 364105 | [364105-world-wonders-hidden-histories-3.json](./364105-world-wonders-hidden-histories-3.json) |
 | World Wonders: Hidden Histories 2 | 359216 | [359216-world-wonders-hidden-histories-2.json](./359216-world-wonders-hidden-histories-2.json) |
+| World Wrestling Mania: Hell Cell 2K18 | 96175 | [96175-world-wrestling-mania-hell-cell-2k18.json](./96175-world-wrestling-mania-hell-cell-2k18.json) |
 | World Xplore | 288451 | [288451-world-xplore.json](./288451-world-xplore.json) |
 | World Zero | 219682 | [219682-world-zero.json](./219682-world-zero.json) |
 | World Zombies Cup | 245182 | [245182-world-zombies-cup.json](./245182-world-zombies-cup.json) |
