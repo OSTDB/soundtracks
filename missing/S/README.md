@@ -4118,6 +4118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea Legends: Phantasmal Light - Collector's Edition | 36244 | [36244-sea-legends-phantasmal-light-collectors-edition.json](./36244-sea-legends-phantasmal-light-collectors-edition.json) |
 | Sea Life Explorer: Collector's Edition | 367670 | [367670-sea-life-explorer-collectors-edition.json](./367670-sea-life-explorer-collectors-edition.json) |
 | Sea Life Safari | 21829 | [21829-sea-life-safari.json](./21829-sea-life-safari.json) |
+| Sea Lion Simulator | 90746 | [90746-sea-lion-simulator.json](./90746-sea-lion-simulator.json) |
 | Sea Loot | 176275 | [176275-sea-loot.json](./176275-sea-loot.json) |
 | Sea Lords | 219950 | [219950-sea-lords.json](./219950-sea-lords.json) |
 | Sea Magic | 411961 | [411961-sea-magic.json](./411961-sea-magic.json) |
@@ -4784,6 +4785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of the Dark: The Dark Flower of Shadow - Collector's Edition | 426442 | [426442-secrets-of-the-dark-the-dark-flower-of-shadow-collectors-edition.json](./426442-secrets-of-the-dark-the-dark-flower-of-shadow-collectors-edition.json) |
 | Secrets of the Dark: The Flower of Shadow | 103992 | [103992-secrets-of-the-dark-the-flower-of-shadow.json](./103992-secrets-of-the-dark-the-flower-of-shadow.json) |
 | Secrets of the Dragon Cafe | 188300 | [188300-secrets-of-the-dragon-cafe.json](./188300-secrets-of-the-dragon-cafe.json) |
+| Secrets of the Dragon Wheel | 90776 | [90776-secrets-of-the-dragon-wheel.json](./90776-secrets-of-the-dragon-wheel.json) |
 | Secrets of the Guild | 53584 | [53584-secrets-of-the-guild.json](./53584-secrets-of-the-guild.json) |
 | Secrets of the Haunted Mansion | 265300 | [265300-secrets-of-the-haunted-mansion.json](./265300-secrets-of-the-haunted-mansion.json) |
 | Secrets of the Heart | 399771 | [399771-secrets-of-the-heart.json](./399771-secrets-of-the-heart.json) |
@@ -22185,6 +22187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Plus! | 91211 | [91211-spider-plus.json](./91211-spider-plus.json) |
 | Spider Ponds | 129571 | [129571-spider-ponds.json](./129571-spider-ponds.json) |
 | Spider Pong | 359466 | [359466-spider-pong.json](./359466-spider-pong.json) |
+| Spider Pro | 90738 | [90738-spider-pro.json](./90738-spider-pro.json) |
 | Spider Queen Cave | 240029 | [240029-spider-queen-cave.json](./240029-spider-queen-cave.json) |
 | Spider Raid | 128727 | [128727-spider-raid.json](./128727-spider-raid.json) |
 | Spider Riders: Battle for Arachna | 316801 | [316801-spider-riders-battle-for-arachna.json](./316801-spider-riders-battle-for-arachna.json) |
