@@ -3978,6 +3978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4361,6 +4362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ink and Intrigue | 340753 | [340753-ink-and-intrigue.json](./340753-ink-and-intrigue.json) |
 | Ink and Paper: Wandering | 190071 | [190071-ink-and-paper-wandering.json](./190071-ink-and-paper-wandering.json) |
 | Ink Bunny | 235693 | [235693-ink-bunny.json](./235693-ink-bunny.json) |
+| Ink Cipher | 102988 | [102988-ink-cipher.json](./102988-ink-cipher.json) |
 | Ink Enigma: Hidden Object Challenges | 359036 | [359036-ink-enigma-hidden-object-challenges.json](./359036-ink-enigma-hidden-object-challenges.json) |
 | Ink Escape: Coven Conundrum | 310270 | [310270-ink-escape-coven-conundrum.json](./310270-ink-escape-coven-conundrum.json) |
 | Ink Hero | 335331 | [335331-ink-hero.json](./335331-ink-hero.json) |
