@@ -27,6 +27,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N.E.O.N.: Never-Ending Onslaught of Nerds | 152922 | [152922-n-e-o-n-never-ending-onslaught-of-nerds.json](./152922-n-e-o-n-never-ending-onslaught-of-nerds.json) |
 | N.E.R.D | 402057 | [402057-n-e-r-d.json](./402057-n-e-r-d.json) |
 | N.E.R.O.: Nothing Ever Remains Obscure | 8256 | [8256-n-e-r-o-nothing-ever-remains-obscure.json](./8256-n-e-r-o-nothing-ever-remains-obscure.json) |
+| N.E.U.F.O | 113243 | [113243-n-e-u-f-o.json](./113243-n-e-u-f-o.json) |
 | N.E.W. D.A.Y. | 119008 | [119008-n-e-w-d-a-y.json](./119008-n-e-w-d-a-y.json) |
 | N.M.E. Battle! | 381554 | [381554-n-m-e-battle.json](./381554-n-m-e-battle.json) |
 | N.O.B. - Neo Organic Bioform | 4318 | [4318-n-o-b-neo-organic-bioform.json](./4318-n-o-b-neo-organic-bioform.json) |
