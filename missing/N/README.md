@@ -7590,6 +7590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuke Bomberman | 336681 | [336681-nuke-bomberman.json](./336681-nuke-bomberman.json) |
 | Nuke City | 208085 | [208085-nuke-city.json](./208085-nuke-city.json) |
 | Nuke Destroyer | 97158 | [97158-nuke-destroyer.json](./97158-nuke-destroyer.json) |
+| Nuke It | 119931 | [119931-nuke-it.json](./119931-nuke-it.json) |
 | Nuke Land | 188961 | [188961-nuke-land.json](./188961-nuke-land.json) |
 | Nuke Mine | 311467 | [311467-nuke-mine.json](./311467-nuke-mine.json) |
 | Nuke the Dinosaurs Blueprint Prototype | 63197 | [63197-nuke-the-dinosaurs-blueprint-prototype.json](./63197-nuke-the-dinosaurs-blueprint-prototype.json) |
