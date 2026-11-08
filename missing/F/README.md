@@ -11837,6 +11837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free the Animation | 101318 | [101318-free-the-animation.json](./101318-free-the-animation.json) |
 | Free the Bird | 319165 | [319165-free-the-bird.json](./319165-free-the-bird.json) |
 | Free the Blobs | 18428 | [18428-free-the-blobs.json](./18428-free-the-blobs.json) |
+| Free the Dragons | 117249 | [117249-free-the-dragons.json](./117249-free-the-dragons.json) |
 | Free the Fobbles! For Two | 219927 | [219927-free-the-fobbles-for-two.json](./219927-free-the-fobbles-for-two.json) |
 | Free the Lazy Dogs | 258516 | [258516-free-the-lazy-dogs.json](./258516-free-the-lazy-dogs.json) |
 | Free Throw Basketball | 147868 | [147868-free-throw-basketball.json](./147868-free-throw-basketball.json) |
@@ -13459,6 +13460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Strength Strongman Competition | 62202 | [62202-full-strength-strongman-competition.json](./62202-full-strength-strongman-competition.json) |
 | Full Stride | 382991 | [382991-full-stride.json](./382991-full-stride.json) |
 | Full Swing Golf | 299472 | [299472-full-swing-golf.json](./299472-full-swing-golf.json) |
+| Full Swing Hero | 117245 | [117245-full-swing-hero.json](./117245-full-swing-hero.json) |
 | Full Throttle | 180 | [180-full-throttle.json](./180-full-throttle.json) |
 | Full Throttle | 308176 | [308176-full-throttle.json](./308176-full-throttle.json) |
 | Full Throttle | 46843 | [46843-full-throttle.json](./46843-full-throttle.json) |
