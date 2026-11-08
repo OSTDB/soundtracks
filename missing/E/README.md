@@ -1382,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Educative Cash Desk | 101197 | [101197-educative-cash-desk.json](./101197-educative-cash-desk.json) |
 | Educator 2076: Basics in Education | 111678 | [111678-educator-2076-basics-in-education.json](./111678-educator-2076-basics-in-education.json) |
 | EduNumbers | 167481 | [167481-edunumbers.json](./167481-edunumbers.json) |
+| Edvog Explorer Game | 93667 | [93667-edvog-explorer-game.json](./93667-edvog-explorer-game.json) |
 | Edward Grabowski's: The Blue & The Gray | 74065 | [74065-edward-grabowskis-the-blue-and-the-gray.json](./74065-edward-grabowskis-the-blue-and-the-gray.json) |
 | Edward's Journey | 258075 | [258075-edwards-journey.json](./258075-edwards-journey.json) |
 | Edward's Manor | 319349 | [319349-edwards-manor.json](./319349-edwards-manor.json) |
@@ -6985,6 +6986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evergrow: Shards of Tomorrow | 337998 | [337998-evergrow-shards-of-tomorrow.json](./337998-evergrow-shards-of-tomorrow.json) |
 | Everguest: The Veiled Inn | 414751 | [414751-everguest-the-veiled-inn.json](./414751-everguest-the-veiled-inn.json) |
 | Everhaven | 311063 | [311063-everhaven.json](./311063-everhaven.json) |
+| EverHero | 93693 | [93693-everhero.json](./93693-everhero.json) |
 | EverHero: Wings of the Ever Hero | 125299 | [125299-everhero-wings-of-the-ever-hero.json](./125299-everhero-wings-of-the-ever-hero.json) |
 | Everhold | 413879 | [413879-everhold.json](./413879-everhold.json) |
 | Everholm | 248238 | [248238-everholm.json](./248238-everholm.json) |
