@@ -5117,7 +5117,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remore: Infested Kingdom | 244947 | [244947-remore-infested-kingdom.json](./244947-remore-infested-kingdom.json) |
 | Remorse | 167606 | [167606-remorse.json](./167606-remorse.json) |
 | Remorse | 378391 | [378391-remorse.json](./378391-remorse.json) |
-| Remorse: The List | 115393 | [115393-remorse-the-list.json](./115393-remorse-the-list.json) |
 | Remorses | 235938 | [235938-remorses.json](./235938-remorses.json) |
 | Remote Aphrodite | 404996 | [404996-remote-aphrodite.json](./404996-remote-aphrodite.json) |
 | Remote Assault | 74008 | [74008-remote-assault.json](./74008-remote-assault.json) |
