@@ -5940,6 +5940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champ Against Chumps Upgrade Edition | 97176 | [97176-champ-against-chumps-upgrade-edition.json](./97176-champ-against-chumps-upgrade-edition.json) |
 | Champ Asterocks | 94689 | [94689-champ-asterocks.json](./94689-champ-asterocks.json) |
 | Champ at Dawn | 231349 | [231349-champ-at-dawn.json](./231349-champ-at-dawn.json) |
+| Champ Centiped-em | 78196 | [78196-champ-centiped-em.json](./78196-champ-centiped-em.json) |
 | Champ Galaxia | 73578 | [73578-champ-galaxia.json](./73578-champ-galaxia.json) |
 | Champ Invaders | 94248 | [94248-champ-invaders.json](./94248-champ-invaders.json) |
 | Champ Kong | 94576 | [94576-champ-kong.json](./94576-champ-kong.json) |
@@ -14231,6 +14232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Constitution | 83491 | [83491-constitution.json](./83491-constitution.json) |
 | Constricted VR | 29531 | [29531-constricted-vr.json](./29531-constricted-vr.json) |
 | Constriction: 1024 | 315484 | [315484-constriction-1024.json](./315484-constriction-1024.json) |
+| Constrictor | 78383 | [78383-constrictor.json](./78383-constrictor.json) |
 | Construct | 129059 | [129059-construct.json](./129059-construct.json) |
 | Construct 2 | 47010 | [47010-construct-2.json](./47010-construct-2.json) |
 | Construct Conspiracy | 252096 | [252096-construct-conspiracy.json](./252096-construct-conspiracy.json) |
@@ -21118,6 +21120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Strider | 248028 | [248028-cyber-strider.json](./248028-cyber-strider.json) |
 | Cyber Strike | 194001 | [194001-cyber-strike.json](./194001-cyber-strike.json) |
 | Cyber Strike | 282002 | [282002-cyber-strike.json](./282002-cyber-strike.json) |
+| Cyber Strike | 78211 | [78211-cyber-strike.json](./78211-cyber-strike.json) |
 | Cyber Surf | 89679 | [89679-cyber-surf.json](./89679-cyber-surf.json) |
 | Cyber Sweep | 202620 | [202620-cyber-sweep.json](./202620-cyber-sweep.json) |
 | Cyber Tamer | 245936 | [245936-cyber-tamer.json](./245936-cyber-tamer.json) |
