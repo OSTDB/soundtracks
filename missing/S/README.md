@@ -21544,6 +21544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Car Fighter 3D 2015 | 100115 | [100115-speed-car-fighter-3d-2015.json](./100115-speed-car-fighter-3d-2015.json) |
 | Speed Car Racing Offline Game | 296772 | [296772-speed-car-racing-offline-game.json](./296772-speed-car-racing-offline-game.json) |
 | Speed Card Eatery | 424697 | [424697-speed-card-eatery.json](./424697-speed-card-eatery.json) |
+| Speed Card: Slam Card Game | 87435 | [87435-speed-card-slam-card-game.json](./87435-speed-card-slam-card-game.json) |
 | Speed Challenge: Jacques Villeneuve's Racing Vision | 4162 | [4162-speed-challenge-jacques-villeneuves-racing-vision.json](./4162-speed-challenge-jacques-villeneuves-racing-vision.json) |
 | Speed Chasing | 95812 | [95812-speed-chasing.json](./95812-speed-chasing.json) |
 | Speed Climb | 329014 | [329014-speed-climb.json](./329014-speed-climb.json) |
@@ -30177,6 +30178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku 4ever Plus | 71201 | [71201-sudoku-4ever-plus.json](./71201-sudoku-4ever-plus.json) |
 | Sudoku 4Pockets | 67011 | [67011-sudoku-4pockets.json](./67011-sudoku-4pockets.json) |
 | Sudoku 9X16X25 | 119771 | [119771-sudoku-9x16x25.json](./119771-sudoku-9x16x25.json) |
+| Sudoku 9x9 | 87412 | [87412-sudoku-9x9.json](./87412-sudoku-9x9.json) |
 | Sudoku Acres | 298196 | [298196-sudoku-acres.json](./298196-sudoku-acres.json) |
 | Sudoku Addicted 2 | 365454 | [365454-sudoku-addicted-2.json](./365454-sudoku-addicted-2.json) |
 | Sudoku and Permudoku | 84913 | [84913-sudoku-and-permudoku.json](./84913-sudoku-and-permudoku.json) |
@@ -30196,6 +30198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Classic 2 | 328479 | [328479-sudoku-classic-2.json](./328479-sudoku-classic-2.json) |
 | Sudoku Companion | 103543 | [103543-sudoku-companion.json](./103543-sudoku-companion.json) |
 | Sudoku Constellation | 292281 | [292281-sudoku-constellation.json](./292281-sudoku-constellation.json) |
+| Sudoku Daily | 87424 | [87424-sudoku-daily.json](./87424-sudoku-daily.json) |
 | Sudoku Deluxe | 86733 | [86733-sudoku-deluxe.json](./86733-sudoku-deluxe.json) |
 | Sudoku Dreams | 149919 | [149919-sudoku-dreams.json](./149919-sudoku-dreams.json) |
 | Sudoku Dreams | 379021 | [379021-sudoku-dreams.json](./379021-sudoku-dreams.json) |
@@ -31982,6 +31985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Goldfish Scooping | 410835 | [410835-super-goldfish-scooping.json](./410835-super-goldfish-scooping.json) |
 | Super Golf | 109212 | [109212-super-golf.json](./109212-super-golf.json) |
 | Super Golf | 46333 | [46333-super-golf.json](./46333-super-golf.json) |
+| Super Golf - Golf Game | 87641 | [87641-super-golf-golf-game.json](./87641-super-golf-golf-game.json) |
 | Super Golf 2018 | 102972 | [102972-super-golf-2018.json](./102972-super-golf-2018.json) |
 | Super Golf World | 256751 | [256751-super-golf-world.json](./256751-super-golf-world.json) |
 | Super Goo Goo | 35563 | [35563-super-goo-goo.json](./35563-super-goo-goo.json) |
