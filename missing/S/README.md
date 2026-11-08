@@ -12397,6 +12397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sketcharama | 56188 | [56188-sketcharama.json](./56188-sketcharama.json) |
 | Sketchball | 418870 | [418870-sketchball.json](./418870-sketchball.json) |
 | Sketchbook | 359617 | [359617-sketchbook.json](./359617-sketchbook.json) |
+| Sketchbook | 98599 | [98599-sketchbook.json](./98599-sketchbook.json) |
 | Sketchbook Squad | 397778 | [397778-sketchbook-squad.json](./397778-sketchbook-squad.json) |
 | Sketchbook: Schoolgirls in Love and Other Assorted Heartbreak | 413694 | [413694-sketchbook-schoolgirls-in-love-and-other-assorted-heartbreak.json](./413694-sketchbook-schoolgirls-in-love-and-other-assorted-heartbreak.json) |
 | Sketchcross | 52824 | [52824-sketchcross.json](./52824-sketchcross.json) |
@@ -25716,6 +25717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargate Worlds | 14534 | [14534-stargate-worlds.json](./14534-stargate-worlds.json) |
 | Stargate: TC SG-1 Missions | 259427 | [259427-stargate-tc-sg-1-missions.json](./259427-stargate-tc-sg-1-missions.json) |
 | Stargate: Timekeepers | 147164 | [147164-stargate-timekeepers.json](./147164-stargate-timekeepers.json) |
+| StarGather | 98487 | [98487-stargather.json](./98487-stargather.json) |
 | Stargaze | 139479 | [139479-stargaze.json](./139479-stargaze.json) |
 | Stargazer | 35173 | [35173-stargazer.json](./35173-stargazer.json) |
 | Stargazer Christmas | 30685 | [30685-stargazer-christmas.json](./30685-stargazer-christmas.json) |
@@ -36946,6 +36948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthaly Universe | 402436 | [402436-synthaly-universe.json](./402436-synthaly-universe.json) |
 | Synthbiotic Dungeon | 147286 | [147286-synthbiotic-dungeon.json](./147286-synthbiotic-dungeon.json) |
 | SynthCave | 238375 | [238375-synthcave.json](./238375-synthcave.json) |
+| Synther | 98484 | [98484-synther.json](./98484-synther.json) |
 | Synther | 99008 | [99008-synther.json](./99008-synther.json) |
 | Syntherapy | 139473 | [139473-syntherapy.json](./139473-syntherapy.json) |
 | SynthEscape | 391928 | [391928-synthescape.json](./391928-synthescape.json) |
