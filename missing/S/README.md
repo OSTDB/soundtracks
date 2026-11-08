@@ -12740,6 +12740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull Candy Match | 110000 | [110000-skull-candy-match.json](./110000-skull-candy-match.json) |
 | Skull Chainz | 167516 | [167516-skull-chainz.json](./167516-skull-chainz.json) |
 | Skull Dash | 272553 | [272553-skull-dash.json](./272553-skull-dash.json) |
+| Skull Feast | 90162 | [90162-skull-feast.json](./90162-skull-feast.json) |
 | Skull Golf: Creation in Decay | 181714 | [181714-skull-golf-creation-in-decay.json](./181714-skull-golf-creation-in-decay.json) |
 | Skull Head World | 157408 | [157408-skull-head-world.json](./157408-skull-head-world.json) |
 | Skull Hotel | 347285 | [347285-skull-hotel.json](./347285-skull-hotel.json) |
@@ -22451,6 +22452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin Around | 332163 | [332163-spin-around.json](./332163-spin-around.json) |
 | Spin Ball | 23576 | [23576-spin-ball.json](./23576-spin-ball.json) |
 | Spin Blade Shop Simulator | 391728 | [391728-spin-blade-shop-simulator.json](./391728-spin-blade-shop-simulator.json) |
+| Spin Bomb | 90035 | [90035-spin-bomb.json](./90035-spin-bomb.json) |
 | Spin City | 189199 | [189199-spin-city.json](./189199-spin-city.json) |
 | Spin Cycle | 403542 | [403542-spin-cycle.json](./403542-spin-cycle.json) |
 | Spin Dasher | 410469 | [410469-spin-dasher.json](./410469-spin-dasher.json) |
@@ -36773,6 +36775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symphony Worlds | 59808 | [59808-symphony-worlds.json](./59808-symphony-worlds.json) |
 | SymphonyRecomp | 412328 | [412328-symphonyrecomp.json](./412328-symphonyrecomp.json) |
 | Symphorix | 333400 | [333400-symphorix.json](./333400-symphorix.json) |
+| Symploke: Legend of Gustavo Bueno - Chapter 1 | 90013 | [90013-symploke-legend-of-gustavo-bueno-chapter-1.json](./90013-symploke-legend-of-gustavo-bueno-chapter-1.json) |
 | Symploke: Legend of Gustavo Bueno - Chapter 2 | 81159 | [81159-symploke-legend-of-gustavo-bueno-chapter-2.json](./81159-symploke-legend-of-gustavo-bueno-chapter-2.json) |
 | Symploke: Legend of Gustavo Bueno - Chapter 3 | 114303 | [114303-symploke-legend-of-gustavo-bueno-chapter-3.json](./114303-symploke-legend-of-gustavo-bueno-chapter-3.json) |
 | Symposium of Grief | 183385 | [183385-symposium-of-grief.json](./183385-symposium-of-grief.json) |
