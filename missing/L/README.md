@@ -1490,6 +1490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Regiment | 119908 | [119908-last-regiment.json](./119908-last-regiment.json) |
 | Last Remains | 249467 | [249467-last-remains.json](./249467-last-remains.json) |
 | Last Report | 333277 | [333277-last-report.json](./333277-last-report.json) |
+| Last Resistance | 130482 | [130482-last-resistance.json](./130482-last-resistance.json) |
 | Last Resort | 172037 | [172037-last-resort.json](./172037-last-resort.json) |
 | Last Resort | 261617 | [261617-last-resort.json](./261617-last-resort.json) |
 | Last Resort | 36750 | [36750-last-resort.json](./36750-last-resort.json) |
@@ -3698,6 +3699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Attack Crazy Cross | 283389 | [283389-lets-attack-crazy-cross.json](./283389-lets-attack-crazy-cross.json) |
 | Let's Battle Online | 292363 | [292363-lets-battle-online.json](./292363-lets-battle-online.json) |
 | Let's Be a Mouse | 273470 | [273470-lets-be-a-mouse.json](./273470-lets-be-a-mouse.json) |
+| Let's Be a Super Game Creator!! | 130462 | [130462-lets-be-a-super-game-creator.json](./130462-lets-be-a-super-game-creator.json) |
 | Let's be a Tiger | 292368 | [292368-lets-be-a-tiger.json](./292368-lets-be-a-tiger.json) |
 | Let's be architects | 81659 | [81659-lets-be-architects.json](./81659-lets-be-architects.json) |
 | Let's Boogie | 329058 | [329058-lets-boogie.json](./329058-lets-boogie.json) |
