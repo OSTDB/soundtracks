@@ -977,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3965,6 +3966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Ships 3D: Naval War | 88703 | [88703-battle-of-ships-3d-naval-war.json](./88703-battle-of-ships-3d-naval-war.json) |
 | Battle of Tanks | 207468 | [207468-battle-of-tanks.json](./207468-battle-of-tanks.json) |
 | Battle of Tarlis | 259587 | [259587-battle-of-tarlis.json](./259587-battle-of-tarlis.json) |
+| Battle of the Boros | 115914 | [115914-battle-of-the-boros.json](./115914-battle-of-the-boros.json) |
 | Battle of the Bulge | 13384 | [13384-battle-of-the-bulge.json](./13384-battle-of-the-bulge.json) |
 | Battle of the Bulge | 54654 | [54654-battle-of-the-bulge.json](./54654-battle-of-the-bulge.json) |
 | Battle of the Elements | 84782 | [84782-battle-of-the-elements.json](./84782-battle-of-the-elements.json) |
