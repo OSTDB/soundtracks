@@ -1457,6 +1457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbows, Toilets & Unicorns: Political Drama | 171764 | [171764-rainbows-toilets-and-unicorns-political-drama.json](./171764-rainbows-toilets-and-unicorns-political-drama.json) |
 | RainbowTail | 75536 | [75536-rainbowtail.json](./75536-rainbowtail.json) |
 | Rainboy | 178082 | [178082-rainboy.json](./178082-rainboy.json) |
+| Rainbrow | 87652 | [87652-rainbrow.json](./87652-rainbrow.json) |
 | Rainchaser | 315623 | [315623-rainchaser.json](./315623-rainchaser.json) |
 | Raincore | 400214 | [400214-raincore.json](./400214-raincore.json) |
 | Raincouver | 328432 | [328432-raincouver.json](./328432-raincouver.json) |
@@ -7876,6 +7877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rio Warzone | 150699 | [150699-rio-warzone.json](./150699-rio-warzone.json) |
 | Rio: Match 3 Party | 109178 | [109178-rio-match-3-party.json](./109178-rio-match-3-party.json) |
 | Rio: Raised In Oblivion | 152407 | [152407-rio-raised-in-oblivion.json](./152407-rio-raised-in-oblivion.json) |
+| RioMio - My Animated City | 87436 | [87436-riomio-my-animated-city.json](./87436-riomio-my-animated-city.json) |
 | Rionag: Survey Fleet | 253862 | [253862-rionag-survey-fleet.json](./253862-rionag-survey-fleet.json) |
 | Rioo | 350890 | [350890-rioo.json](./350890-rioo.json) |
 | Rios de Lluvia | 335973 | [335973-rios-de-lluvia.json](./335973-rios-de-lluvia.json) |
@@ -12481,6 +12483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rummy Club | 223923 | [223923-rummy-club.json](./223923-rummy-club.json) |
 | Rummy Odyssey | 389370 | [389370-rummy-odyssey.json](./389370-rummy-odyssey.json) |
 | Rummy With Clara | 418599 | [418599-rummy-with-clara.json](./418599-rummy-with-clara.json) |
+| Rummy: Indian Rummy Card Game | 87432 | [87432-rummy-indian-rummy-card-game.json](./87432-rummy-indian-rummy-card-game.json) |
 | Rumor Raiders | 350406 | [350406-rumor-raiders.json](./350406-rumor-raiders.json) |
 | Rumor Reporter | 391072 | [391072-rumor-reporter.json](./391072-rumor-reporter.json) |
 | Rumour | 350560 | [350560-rumour.json](./350560-rumour.json) |
