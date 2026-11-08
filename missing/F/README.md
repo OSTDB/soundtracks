@@ -11729,6 +11729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frederic: Resurrection of Music - Director's Cut | 33261 | [33261-frederic-resurrection-of-music-directors-cut.json](./33261-frederic-resurrection-of-music-directors-cut.json) |
 | Free | 287512 | [287512-free.json](./287512-free.json) |
 | Free Afternoon | 185445 | [185445-free-afternoon.json](./185445-free-afternoon.json) |
+| Free Agency | 128116 | [128116-free-agency.json](./128116-free-agency.json) |
 | Free as Birds: Uazo | 365031 | [365031-free-as-birds-uazo.json](./365031-free-as-birds-uazo.json) |
 | Free At Last | 90126 | [90126-free-at-last.json](./90126-free-at-last.json) |
 | Free Ball | 417786 | [417786-free-ball.json](./417786-free-ball.json) |
@@ -12925,6 +12926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frostfire Planet | 139904 | [139904-frostfire-planet.json](./139904-frostfire-planet.json) |
 | FrostFire: Battle Frenzy | 269023 | [269023-frostfire-battle-frenzy.json](./269023-frostfire-battle-frenzy.json) |
 | Frostflame | 305675 | [305675-frostflame.json](./305675-frostflame.json) |
+| Frostford | 128126 | [128126-frostford.json](./128126-frostford.json) |
 | Frosthaven | 336152 | [336152-frosthaven.json](./336152-frosthaven.json) |
 | Frostholm Isle | 388066 | [388066-frostholm-isle.json](./388066-frostholm-isle.json) |
 | Frostland | 401270 | [401270-frostland.json](./401270-frostland.json) |
