@@ -2834,6 +2834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Davy Jones Dating Simulator | 282710 | [282710-davy-jones-dating-simulator.json](./282710-davy-jones-dating-simulator.json) |
 | Davy Jones is Back | 71241 | [71241-davy-jones-is-back.json](./71241-davy-jones-is-back.json) |
 | Davy Jones' Locker | 177024 | [177024-davy-jones-locker.json](./177024-davy-jones-locker.json) |
+| Davy: King of the Wild Frontier | 86181 | [86181-davy-king-of-the-wild-frontier.json](./86181-davy-king-of-the-wild-frontier.json) |
 | Davy's Debris | 201537 | [201537-davys-debris.json](./201537-davys-debris.json) |
 | Davy's Dreams of Chasing Things | 323366 | [323366-davys-dreams-of-chasing-things.json](./323366-davys-dreams-of-chasing-things.json) |
 | Davyria: Heroes of Eternity | 29438 | [29438-davyria-heroes-of-eternity.json](./29438-davyria-heroes-of-eternity.json) |
@@ -8139,6 +8140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detector Island: A Metal Detecting Game | 106005 | [106005-detector-island-a-metal-detecting-game.json](./106005-detector-island-a-metal-detecting-game.json) |
 | Detektiv | 383546 | [383546-detektiv.json](./383546-detektiv.json) |
 | Detektiv Brown - Ein eiskalter Mord | 85942 | [85942-detektiv-brown-ein-eiskalter-mord.json](./85942-detektiv-brown-ein-eiskalter-mord.json) |
+| Detektyw Rutkowski is Back! | 86170 | [86170-detektyw-rutkowski-is-back.json](./86170-detektyw-rutkowski-is-back.json) |
 | Detention | 26776 | [26776-detention.json](./26776-detention.json) |
 | Detention | 320745 | [320745-detention.json](./320745-detention.json) |
 | Detention Club: School's Out | 167813 | [167813-detention-club-schools-out.json](./167813-detention-club-schools-out.json) |
@@ -9126,6 +9128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Die Robot | 358602 | [358602-die-robot.json](./358602-die-robot.json) |
 | Die Rowdy | 299766 | [299766-die-rowdy.json](./299766-die-rowdy.json) |
 | Die Sage von Nietoom | 92927 | [92927-die-sage-von-nietoom.json](./92927-die-sage-von-nietoom.json) |
+| Die Schätze der Griechen | 86133 | [86133-die-schatze-der-griechen.json](./86133-die-schatze-der-griechen.json) |
 | Die schwarzen Reiter | 112896 | [112896-die-schwarzen-reiter.json](./112896-die-schwarzen-reiter.json) |
 | Die Scraper | 271981 | [271981-die-scraper.json](./271981-die-scraper.json) |
 | Die Siedler IV: Community Pack | 255533 | [255533-die-siedler-iv-community-pack.json](./255533-die-siedler-iv-community-pack.json) |
@@ -18101,6 +18104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duel | 380365 | [380365-duel.json](./380365-duel.json) |
 | Duel | 385542 | [385542-duel.json](./385542-duel.json) |
 | Duel | 74207 | [74207-duel.json](./74207-duel.json) |
+| Duel | 86176 | [86176-duel.json](./86176-duel.json) |
 | Duel Arms | 100744 | [100744-duel-arms.json](./100744-duel-arms.json) |
 | Duel Champions | 358362 | [358362-duel-champions.json](./358362-duel-champions.json) |
 | Duel Corp. | 214943 | [214943-duel-corp.json](./214943-duel-corp.json) |
