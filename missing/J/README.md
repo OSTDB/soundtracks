@@ -2511,6 +2511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny Ostad's Collection Bundle | 332352 | [332352-johnny-ostads-collection-bundle.json](./332352-johnny-ostads-collection-bundle.json) |
 | Johnny Platform Saves Xmas! | 67250 | [67250-johnny-platform-saves-xmas.json](./67250-johnny-platform-saves-xmas.json) |
 | Johnny Platform's Biscuit Romp | 78301 | [78301-johnny-platforms-biscuit-romp.json](./78301-johnny-platforms-biscuit-romp.json) |
+| Johnny Reb | 137197 | [137197-johnny-reb.json](./137197-johnny-reb.json) |
 | Johnny Rocketfingers Complete Game Collection! | 252680 | [252680-johnny-rocketfingers-complete-game-collection.json](./252680-johnny-rocketfingers-complete-game-collection.json) |
 | Johnny Test | 126035 | [126035-johnny-test.json](./126035-johnny-test.json) |
 | Johnny Test's Ultimate Meatloaf Quest | 256872 | [256872-johnny-tests-ultimate-meatloaf-quest.json](./256872-johnny-tests-ultimate-meatloaf-quest.json) |
