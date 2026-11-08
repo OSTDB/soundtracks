@@ -142,6 +142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wagon | 258048 | [258048-wagon.json](./258048-wagon.json) |
 | Wagon 00 | 390998 | [390998-wagon-00.json](./390998-wagon-00.json) |
 | Wagon Gloom | 288474 | [288474-wagon-gloom.json](./288474-wagon-gloom.json) |
+| Wagon Wreck | 109943 | [109943-wagon-wreck.json](./109943-wagon-wreck.json) |
 | Wagotabi | 283132 | [283132-wagotabi.json](./283132-wagotabi.json) |
 | Wagrrr | 129058 | [129058-wagrrr.json](./129058-wagrrr.json) |
 | Wagyan Land | 206760 | [206760-wagyan-land.json](./206760-wagyan-land.json) |
@@ -8543,6 +8544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Rally Fever: Born on the Road | 8494 | [8494-world-rally-fever-born-on-the-road.json](./8494-world-rally-fever-born-on-the-road.json) |
 | World Reborn | 334447 | [334447-world-reborn.json](./334447-world-reborn.json) |
 | World Reborn | 49502 | [49502-world-reborn.json](./49502-world-reborn.json) |
+| World Rescue | 109944 | [109944-world-rescue.json](./109944-world-rescue.json) |
 | World Revolution | 84454 | [84454-world-revolution.json](./84454-world-revolution.json) |
 | World Robot Boxing 2 | 196302 | [196302-world-robot-boxing-2.json](./196302-world-robot-boxing-2.json) |
 | World Seed | 193581 | [193581-world-seed.json](./193581-world-seed.json) |
