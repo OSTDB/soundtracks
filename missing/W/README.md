@@ -8303,6 +8303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Guns: VR | 121625 | [121625-world-of-guns-vr.json](./121625-world-of-guns-vr.json) |
 | World of Haiku | 196994 | [196994-world-of-haiku.json](./196994-world-of-haiku.json) |
 | World of Illusion Starring Mickey Mouse and Donald Duck | 8124 | [8124-world-of-illusion-starring-mickey-mouse-and-donald-duck.json](./8124-world-of-illusion-starring-mickey-mouse-and-donald-duck.json) |
+| World of Islands - Treasure Hunt | 102907 | [102907-world-of-islands-treasure-hunt.json](./102907-world-of-islands-treasure-hunt.json) |
 | World of Jade Dynasty | 323920 | [323920-world-of-jade-dynasty.json](./323920-world-of-jade-dynasty.json) |
 | World of JumpStart | 254465 | [254465-world-of-jumpstart.json](./254465-world-of-jumpstart.json) |
 | World of Kadal: Protector of Hammerdale | 423239 | [423239-world-of-kadal-protector-of-hammerdale.json](./423239-world-of-kadal-protector-of-hammerdale.json) |
