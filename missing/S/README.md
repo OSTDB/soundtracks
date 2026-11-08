@@ -25501,7 +25501,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | StarCraft: Retribution | 66116 | [66116-starcraft-retribution.json](./66116-starcraft-retribution.json) |
 | Starcraft: Stellar Forces | 135274 | [135274-starcraft-stellar-forces.json](./135274-starcraft-stellar-forces.json) |
 | StarCraft: Stratospace | 135273 | [135273-starcraft-stratospace.json](./135273-starcraft-stratospace.json) |
-| StarCrawlers | 15197 | [15197-starcrawlers.json](./15197-starcrawlers.json) |
 | StarCrawlers Chimera | 156937 | [156937-starcrawlers-chimera.json](./156937-starcrawlers-chimera.json) |
 | Starcrest Saga | 394368 | [394368-starcrest-saga.json](./394368-starcrest-saga.json) |
 | Starcross | 7565 | [7565-starcross.json](./7565-starcross.json) |
