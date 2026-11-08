@@ -2970,6 +2970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Genesis: Human Destiny | 223620 | [223620-genesis-human-destiny.json](./223620-genesis-human-destiny.json) |
 | Genesis: Voces de la Niebla | 389577 | [389577-genesis-voces-de-la-niebla.json](./389577-genesis-voces-de-la-niebla.json) |
 | Genesys | 83196 | [83196-genesys.json](./83196-genesys.json) |
+| Genesys Dice | 102838 | [102838-genesys-dice.json](./102838-genesys-dice.json) |
 | Genetic | 270663 | [270663-genetic.json](./270663-genetic.json) |
 | Genetic Disaster | 68324 | [68324-genetic-disaster.json](./68324-genetic-disaster.json) |
 | Genetic Drift | 24831 | [24831-genetic-drift.json](./24831-genetic-drift.json) |
@@ -7993,6 +7994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Auto Survival City Crime Gangster | 216016 | [216016-grand-auto-survival-city-crime-gangster.json](./216016-grand-auto-survival-city-crime-gangster.json) |
 | Grand Banda | 392727 | [392727-grand-banda.json](./392727-grand-banda.json) |
 | Grand Battle | 116043 | [116043-grand-battle.json](./116043-grand-battle.json) |
+| Grand Battle Royale: Pixel War | 102834 | [102834-grand-battle-royale-pixel-war.json](./102834-grand-battle-royale-pixel-war.json) |
 | Grand Battle--MMO Strategy:War | 61712 | [61712-grand-battle-mmo-strategy-war.json](./61712-grand-battle-mmo-strategy-war.json) |
 | Grand Brix Shooter | 121532 | [121532-grand-brix-shooter.json](./121532-grand-brix-shooter.json) |
 | Grand Bubble Shoot | 99096 | [99096-grand-bubble-shoot.json](./99096-grand-bubble-shoot.json) |
@@ -9374,6 +9376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Clash | 392830 | [392830-grid-clash.json](./392830-grid-clash.json) |
 | Grid Creeps | 122813 | [122813-grid-creeps.json](./122813-grid-creeps.json) |
 | Grid Crypt | 398466 | [398466-grid-crypt.json](./398466-grid-crypt.json) |
+| Grid Defense | 102837 | [102837-grid-defense.json](./102837-grid-defense.json) |
 | Grid Empire | 347843 | [347843-grid-empire.json](./347843-grid-empire.json) |
 | Grid Force: Mask of the Goddess | 145777 | [145777-grid-force-mask-of-the-goddess.json](./145777-grid-force-mask-of-the-goddess.json) |
 | Grid Games: Color Coded | 105566 | [105566-grid-games-color-coded.json](./105566-grid-games-color-coded.json) |
