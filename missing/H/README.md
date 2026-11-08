@@ -6532,6 +6532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hex Heroes | 61974 | [61974-hex-heroes.json](./61974-hex-heroes.json) |
 | Hex Judge | 408581 | [408581-hex-judge.json](./408581-hex-judge.json) |
 | Hex Jump | 264208 | [264208-hex-jump.json](./264208-hex-jump.json) |
+| Hex Kingdoms | 119882 | [119882-hex-kingdoms.json](./119882-hex-kingdoms.json) |
 | Hex Mahjong 3D | 200133 | [200133-hex-mahjong-3d.json](./200133-hex-mahjong-3d.json) |
 | Hex Mechs | 103555 | [103555-hex-mechs.json](./103555-hex-mechs.json) |
 | Hex of Steel | 147277 | [147277-hex-of-steel.json](./147277-hex-of-steel.json) |
@@ -10267,6 +10268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hororo Meguru's Bing!! Ball | 292974 | [292974-hororo-megurus-bing-ball.json](./292974-hororo-megurus-bing-ball.json) |
 | Horoscopicus | 220380 | [220380-horoscopicus.json](./220380-horoscopicus.json) |
 | HoRoyal: Hololive Battle Royal | 403080 | [403080-horoyal-hololive-battle-royal.json](./403080-horoyal-hololive-battle-royal.json) |
+| Horresco Referens | 119876 | [119876-horresco-referens.json](./119876-horresco-referens.json) |
 | Horrher | 362993 | [362993-horrher.json](./362993-horrher.json) |
 | Horrible Area | 277710 | [277710-horrible-area.json](./277710-horrible-area.json) |
 | Horrible Dream | 302908 | [302908-horrible-dream.json](./302908-horrible-dream.json) |
