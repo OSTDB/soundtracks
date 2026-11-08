@@ -6883,6 +6883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Kings | 344450 | [344450-shadow-kings.json](./344450-shadow-kings.json) |
 | Shadow Knight | 227519 | [227519-shadow-knight.json](./227519-shadow-knight.json) |
 | Shadow Knight: Ninja Game RPG | 299346 | [299346-shadow-knight-ninja-game-rpg.json](./299346-shadow-knight-ninja-game-rpg.json) |
+| Shadow Knights | 80089 | [80089-shadow-knights.json](./80089-shadow-knights.json) |
 | Shadow Labyrinth | 269093 | [269093-shadow-labyrinth.json](./269093-shadow-labyrinth.json) |
 | Shadow Labyrinth | 325583 | [325583-shadow-labyrinth.json](./325583-shadow-labyrinth.json) |
 | Shadow Land | 242558 | [242558-shadow-land.json](./242558-shadow-land.json) |
@@ -7730,6 +7731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark Attack | 160183 | [160183-shark-attack.json](./160183-shark-attack.json) |
 | Shark Attack | 281026 | [281026-shark-attack.json](./281026-shark-attack.json) |
 | Shark Attack | 365605 | [365605-shark-attack.json](./365605-shark-attack.json) |
+| Shark Attack Deathmatch | 80057 | [80057-shark-attack-deathmatch.json](./80057-shark-attack-deathmatch.json) |
 | Shark Attack Deathmatch 2 | 17981 | [17981-shark-attack-deathmatch-2.json](./17981-shark-attack-deathmatch-2.json) |
 | Shark Bridge Card Game | 87120 | [87120-shark-bridge-card-game.json](./87120-shark-bridge-card-game.json) |
 | Shark Castle | 123556 | [123556-shark-castle.json](./123556-shark-castle.json) |
@@ -12181,6 +12183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sixtieth Kilometer: Eightieth Kilometer | 171910 | [171910-sixtieth-kilometer-eightieth-kilometer.json](./171910-sixtieth-kilometer-eightieth-kilometer.json) |
 | Sixty Jumps to Ceres | 258479 | [258479-sixty-jumps-to-ceres.json](./258479-sixty-jumps-to-ceres.json) |
 | Sixty Second Heist | 215431 | [215431-sixty-second-heist.json](./215431-sixty-second-heist.json) |
+| Sixty Second Shooter Deluxe | 80088 | [80088-sixty-second-shooter-deluxe.json](./80088-sixty-second-shooter-deluxe.json) |
 | Sixty Second Shooter Prime | 20056 | [20056-sixty-second-shooter-prime.json](./20056-sixty-second-shooter-prime.json) |
 | Sixty Words by Powgi | 206719 | [206719-sixty-words-by-powgi.json](./206719-sixty-words-by-powgi.json) |
 | Siyah: Initiation | 382565 | [382565-siyah-initiation.json](./382565-siyah-initiation.json) |
@@ -26480,6 +26483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Statele | 246240 | [246240-statele.json](./246240-statele.json) |
 | StateOS: The Political Sandbox | 417262 | [417262-stateos-the-political-sandbox.json](./417262-stateos-the-political-sandbox.json) |
 | Statera: Aurum | 275955 | [275955-statera-aurum.json](./275955-statera-aurum.json) |
+| States & Capitals | 80084 | [80084-states-and-capitals.json](./80084-states-and-capitals.json) |
 | States and Capitals | 71737 | [71737-states-and-capitals.json](./71737-states-and-capitals.json) |
 | States Map Tutor | 87542 | [87542-states-map-tutor.json](./87542-states-map-tutor.json) |
 | States of Power | 391110 | [391110-states-of-power.json](./391110-states-of-power.json) |
