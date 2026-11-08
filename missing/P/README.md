@@ -9833,6 +9833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platform 9: No Way Out | 324129 | [324129-platform-9-no-way-out.json](./324129-platform-9-no-way-out.json) |
 | Platform Adventure | 213936 | [213936-platform-adventure.json](./213936-platform-adventure.json) |
 | Platform Anomaly | 373068 | [373068-platform-anomaly.json](./373068-platform-anomaly.json) |
+| Platform Builder | 105571 | [105571-platform-builder.json](./105571-platform-builder.json) |
 | Platform Challenge | 95754 | [95754-platform-challenge.json](./95754-platform-challenge.json) |
 | Platform Control | 315346 | [315346-platform-control.json](./315346-platform-control.json) |
 | Platform Game Maker | 257534 | [257534-platform-game-maker.json](./257534-platform-game-maker.json) |
@@ -12138,6 +12139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police Car Driving - Police Chase | 97165 | [97165-police-car-driving-police-chase.json](./97165-police-car-driving-police-chase.json) |
 | Police Car Escape Simulator | 257802 | [257802-police-car-escape-simulator.json](./257802-police-car-escape-simulator.json) |
 | Police Car Parking 3D | 306235 | [306235-police-car-parking-3d.json](./306235-police-car-parking-3d.json) |
+| Police Car Race & Chase For Toddlers and Kids | 105489 | [105489-police-car-race-and-chase-for-toddlers-and-kids.json](./105489-police-car-race-and-chase-for-toddlers-and-kids.json) |
 | Police Car Simulator | 236170 | [236170-police-car-simulator.json](./236170-police-car-simulator.json) |
 | Police Car SUV Simulator | 256563 | [256563-police-car-suv-simulator.json](./256563-police-car-suv-simulator.json) |
 | Police Car: Gangster Chase | 233471 | [233471-police-car-gangster-chase.json](./233471-police-car-gangster-chase.json) |
@@ -19211,6 +19213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pylon Town | 234192 | [234192-pylon-town.json](./234192-pylon-town.json) |
 | Pylon: Rogue | 27745 | [27745-pylon-rogue.json](./27745-pylon-rogue.json) |
 | Pylorus: Footsteps of Greed | 207545 | [207545-pylorus-footsteps-of-greed.json](./207545-pylorus-footsteps-of-greed.json) |
+| Pylow | 105564 | [105564-pylow.json](./105564-pylow.json) |
 | Pyme's Genocide | 182708 | [182708-pymes-genocide.json](./182708-pymes-genocide.json) |
 | PyNori | 336921 | [336921-pynori.json](./336921-pynori.json) |
 | Pyo | 177155 | [177155-pyo.json](./177155-pyo.json) |
