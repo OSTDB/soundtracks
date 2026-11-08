@@ -792,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Deaths | 172435 | [172435-1000-deaths.json](./172435-1000-deaths.json) |
 | 1000 Games: Volume 3 | 125839 | [125839-1000-games-volume-3.json](./125839-1000-games-volume-3.json) |
 | 1000 Heads Among the Trees | 34360 | [34360-1000-heads-among-the-trees.json](./34360-1000-heads-among-the-trees.json) |
+| 1000 Heroz | 92579 | [92579-1000-heroz.json](./92579-1000-heroz.json) |
 | 1000 Hidden Snails | 203391 | [203391-1000-hidden-snails.json](./203391-1000-hidden-snails.json) |
 | 1000 Light-Years Away | 293938 | [293938-1000-light-years-away.json](./293938-1000-light-years-away.json) |
 | 1000 Lines 2 Community Project | 259390 | [259390-1000-lines-2-community-project.json](./259390-1000-lines-2-community-project.json) |
@@ -1448,6 +1449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 19th Century Printing Press Experience VR | 337613 | [337613-19th-century-printing-press-experience-vr.json](./337613-19th-century-printing-press-experience-vr.json) |
 | 19XX: The War Against Destiny | 6078 | [6078-19xx-the-war-against-destiny.json](./6078-19xx-the-war-against-destiny.json) |
 | 1B Spells | 248318 | [248318-1b-spells.json](./248318-1b-spells.json) |
+| 1BillionHex | 92214 | [92214-1billionhex.json](./92214-1billionhex.json) |
 | 1Bit Castle | 124702 | [124702-1bit-castle.json](./124702-1bit-castle.json) |
 | 1Bit Castle: Remake | 296672 | [296672-1bit-castle-remake.json](./296672-1bit-castle-remake.json) |
 | 1Boss1Battle1Button | 421219 | [421219-1boss1battle1button.json](./421219-1boss1battle1button.json) |
