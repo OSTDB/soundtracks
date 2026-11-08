@@ -5467,6 +5467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outpost Engineer | 144473 | [144473-outpost-engineer.json](./144473-outpost-engineer.json) |
 | Outpost Horizon Station | 134794 | [134794-outpost-horizon-station.json](./134794-outpost-horizon-station.json) |
 | Outpost in the Dragon's Maw | 383701 | [383701-outpost-in-the-dragons-maw.json](./383701-outpost-in-the-dragons-maw.json) |
+| Outpost Kaloki | 80108 | [80108-outpost-kaloki.json](./80108-outpost-kaloki.json) |
 | Outpost Kaloki X | 20508 | [20508-outpost-kaloki-x.json](./20508-outpost-kaloki-x.json) |
 | Outpost L5 | 50509 | [50509-outpost-l5.json](./50509-outpost-l5.json) |
 | Outpost Legends | 359143 | [359143-outpost-legends.json](./359143-outpost-legends.json) |
