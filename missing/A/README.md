@@ -2458,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: The Last Blade 2 | 90517 | [90517-aca-neo-geo-the-last-blade-2.json](./90517-aca-neo-geo-the-last-blade-2.json) |
 | ACA Neo Geo: The Super Spy | 105122 | [105122-aca-neo-geo-the-super-spy.json](./105122-aca-neo-geo-the-super-spy.json) |
 | ACA Neo Geo: The Ultimate 11 - SNK Football Championship | 115665 | [115665-aca-neo-geo-the-ultimate-11-snk-football-championship.json](./115665-aca-neo-geo-the-ultimate-11-snk-football-championship.json) |
+| ACA Neo Geo: Thrash Rally | 111836 | [111836-aca-neo-geo-thrash-rally.json](./111836-aca-neo-geo-thrash-rally.json) |
 | ACA Neo Geo: Top Player's Golf | 118542 | [118542-aca-neo-geo-top-players-golf.json](./118542-aca-neo-geo-top-players-golf.json) |
 | ACA Neo Geo: Twinkle Star Sprites | 113209 | [113209-aca-neo-geo-twinkle-star-sprites.json](./113209-aca-neo-geo-twinkle-star-sprites.json) |
 | ACA Neo Geo: Waku Waku 7 | 28416 | [28416-aca-neo-geo-waku-waku-7.json](./28416-aca-neo-geo-waku-waku-7.json) |
@@ -4776,6 +4777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Fear 4: The Storm Mountain Expansion | 158802 | [158802-age-of-fear-4-the-storm-mountain-expansion.json](./158802-age-of-fear-4-the-storm-mountain-expansion.json) |
 | Age of Fear 4: The Victor's Experiment Expansion | 158801 | [158801-age-of-fear-4-the-victors-experiment-expansion.json](./158801-age-of-fear-4-the-victors-experiment-expansion.json) |
 | Age of Fear 5: The Day of the Rat | 149671 | [149671-age-of-fear-5-the-day-of-the-rat.json](./149671-age-of-fear-5-the-day-of-the-rat.json) |
+| Age of Fear: The Free World | 111940 | [111940-age-of-fear-the-free-world.json](./111940-age-of-fear-the-free-world.json) |
 | Age of Fear: The Quick and The Dead | 297766 | [297766-age-of-fear-the-quick-and-the-dead.json](./297766-age-of-fear-the-quick-and-the-dead.json) |
 | Age of Fear: The Undead King | 9952 | [9952-age-of-fear-the-undead-king.json](./9952-age-of-fear-the-undead-king.json) |
 | Age of Fear: The Undead King Gold | 110714 | [110714-age-of-fear-the-undead-king-gold.json](./110714-age-of-fear-the-undead-king-gold.json) |
@@ -5010,6 +5012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agents of Spleef | 316459 | [316459-agents-of-spleef.json](./316459-agents-of-spleef.json) |
 | Agents of Storm | 62566 | [62566-agents-of-storm.json](./62566-agents-of-storm.json) |
 | Agents of the Outcaste | 164214 | [164214-agents-of-the-outcaste.json](./164214-agents-of-the-outcaste.json) |
+| Agents vs Villain | 111818 | [111818-agents-vs-villain.json](./111818-agents-vs-villain.json) |
 | Agents: Biohunters | 120225 | [120225-agents-biohunters.json](./120225-agents-biohunters.json) |
 | Ageod's American Civil War: The Blue and the Gray | 21451 | [21451-ageods-american-civil-war-the-blue-and-the-gray.json](./21451-ageods-american-civil-war-the-blue-and-the-gray.json) |
 | AgeOfDarkness | 81072 | [81072-ageofdarkness.json](./81072-ageofdarkness.json) |
@@ -12284,6 +12287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarium Life | 184546 | [184546-aquarium-life.json](./184546-aquarium-life.json) |
 | Aquarium Match3 Mania | 235017 | [235017-aquarium-match3-mania.json](./235017-aquarium-match3-mania.json) |
 | Aquarium Pairs | 96578 | [96578-aquarium-pairs.json](./96578-aquarium-pairs.json) |
+| Aquarium Sandbox | 111808 | [111808-aquarium-sandbox.json](./111808-aquarium-sandbox.json) |
 | Aquarium Shop | 146919 | [146919-aquarium-shop.json](./146919-aquarium-shop.json) |
 | Aquarium Travels | 152642 | [152642-aquarium-travels.json](./152642-aquarium-travels.json) |
 | Aquarium. | 91325 | [91325-aquarium.json](./91325-aquarium.json) |
@@ -17023,7 +17027,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
