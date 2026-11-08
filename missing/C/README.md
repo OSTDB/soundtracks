@@ -658,7 +658,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops - Gold Edition | 118925 | [118925-call-of-duty-black-ops-gold-edition.json](./118925-call-of-duty-black-ops-gold-edition.json) |
 | Call of Duty: Black Ops - Hardened Edition | 47476 | [47476-call-of-duty-black-ops-hardened-edition.json](./47476-call-of-duty-black-ops-hardened-edition.json) |
 | Call of Duty: Black Ops - Prestige Edition | 102079 | [102079-call-of-duty-black-ops-prestige-edition.json](./102079-call-of-duty-black-ops-prestige-edition.json) |
-| Call of Duty: Black Ops - Zombies | 77267 | [77267-call-of-duty-black-ops-zombies.json](./77267-call-of-duty-black-ops-zombies.json) |
 | Call of Duty: Black Ops 4 - Digital Deluxe Edition | 118732 | [118732-call-of-duty-black-ops-4-digital-deluxe-edition.json](./118732-call-of-duty-black-ops-4-digital-deluxe-edition.json) |
 | Call of Duty: Black Ops 4 - Mystery Box Edition | 135985 | [135985-call-of-duty-black-ops-4-mystery-box-edition.json](./135985-call-of-duty-black-ops-4-mystery-box-edition.json) |
 | Call of Duty: Black Ops 4 - Pro Edition | 136016 | [136016-call-of-duty-black-ops-4-pro-edition.json](./136016-call-of-duty-black-ops-4-pro-edition.json) |
