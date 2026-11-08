@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nano Devil | 231272 | [231272-nano-devil.json](./231272-nano-devil.json) |
 | Nano Diver | 55009 | [55009-nano-diver.json](./55009-nano-diver.json) |
 | Nano Driller | 115587 | [115587-nano-driller.json](./115587-nano-driller.json) |
+| Nano Empire | 104171 | [104171-nano-empire.json](./104171-nano-empire.json) |
 | Nano Fighter Anti Disease | 149191 | [149191-nano-fighter-anti-disease.json](./149191-nano-fighter-anti-disease.json) |
 | Nano Flat Owner | 391032 | [391032-nano-flat-owner.json](./391032-nano-flat-owner.json) |
 | Nano Force | 250483 | [250483-nano-force.json](./250483-nano-force.json) |
@@ -5229,6 +5230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Girl Ayame | 82630 | [82630-ninja-girl-ayame.json](./82630-ninja-girl-ayame.json) |
 | Ninja Girl: RPG | 175550 | [175550-ninja-girl-rpg.json](./175550-ninja-girl-rpg.json) |
 | Ninja Girls: Kunoichi Puzzle | 315840 | [315840-ninja-girls-kunoichi-puzzle.json](./315840-ninja-girls-kunoichi-puzzle.json) |
+| Ninja Girls: Reborn | 104283 | [104283-ninja-girls-reborn.json](./104283-ninja-girls-reborn.json) |
 | Ninja Glove | 338937 | [338937-ninja-glove.json](./338937-ninja-glove.json) |
 | Ninja Goemon and Immortal Jewels | 74202 | [74202-ninja-goemon-and-immortal-jewels.json](./74202-ninja-goemon-and-immortal-jewels.json) |
 | Ninja Golf | 11121 | [11121-ninja-golf.json](./11121-ninja-golf.json) |
