@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jamango! | 312618 | [312618-jamango.json](./312618-jamango.json) |
 | Jambo | 81980 | [81980-jambo.json](./81980-jambo.json) |
 | Jambo! Safari Animal Rescue | 51001 | [51001-jambo-safari-animal-rescue.json](./51001-jambo-safari-animal-rescue.json) |
+| Jambo's Adventure | 115240 | [115240-jambos-adventure.json](./115240-jambos-adventure.json) |
 | Jamboy: A Jelly-cious Hero | 260596 | [260596-jamboy-a-jelly-cious-hero.json](./260596-jamboy-a-jelly-cious-hero.json) |
 | Jambredrek: Two Guns | 386992 | [386992-jambredrek-two-guns.json](./386992-jambredrek-two-guns.json) |
 | Jamco Matefest 3013 | 128614 | [128614-jamco-matefest-3013.json](./128614-jamco-matefest-3013.json) |
