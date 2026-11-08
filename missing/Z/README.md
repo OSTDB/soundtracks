@@ -1085,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeta Flyff | 121479 | [121479-zeta-flyff.json](./121479-zeta-flyff.json) |
 | Zeta Force | 326965 | [326965-zeta-force.json](./326965-zeta-force.json) |
 | Zeta Leporis RTS | 253657 | [253657-zeta-leporis-rts.json](./253657-zeta-leporis-rts.json) |
+| Zeta Station Has Gone Quiet | 138942 | [138942-zeta-station-has-gone-quiet.json](./138942-zeta-station-has-gone-quiet.json) |
 | Zeta Wave Infinity | 296319 | [296319-zeta-wave-infinity.json](./296319-zeta-wave-infinity.json) |
 | Zeta Wolf Chronicles | 179082 | [179082-zeta-wolf-chronicles.json](./179082-zeta-wolf-chronicles.json) |
 | Zeta-7 | 25806 | [25806-zeta-7.json](./25806-zeta-7.json) |
