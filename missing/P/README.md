@@ -6120,6 +6120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | picFind - Find in the Space | 96851 | [96851-picfind-find-in-the-space.json](./96851-picfind-find-in-the-space.json) |
 | Pichenette | 384530 | [384530-pichenette.json](./384530-pichenette.json) |
 | Pichi Girl | 226351 | [226351-pichi-girl.json](./226351-pichi-girl.json) |
+| Pichon | 88382 | [88382-pichon.json](./88382-pichon.json) |
 | Pichon: The Bouncy Bird | 180107 | [180107-pichon-the-bouncy-bird.json](./180107-pichon-the-bouncy-bird.json) |
 | Pichu Bros. Mini | 92303 | [92303-pichu-bros-mini.json](./92303-pichu-bros-mini.json) |
 | Pick 'n Pile | 40765 | [40765-pick-n-pile.json](./40765-pick-n-pile.json) |
@@ -6351,6 +6352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pictopix: Mosaics | 116210 | [116210-pictopix-mosaics.json](./116210-pictopix-mosaics.json) |
 | PictoPull | 212811 | [212811-pictopull.json](./212811-pictopull.json) |
 | Pictorbit | 414358 | [414358-pictorbit.json](./414358-pictorbit.json) |
+| Pictorial | 88368 | [88368-pictorial.json](./88368-pictorial.json) |
 | Pictos | 175277 | [175277-pictos.json](./175277-pictos.json) |
 | Pictosaurus | 102710 | [102710-pictosaurus.json](./102710-pictosaurus.json) |
 | Pictoword: Fun Word Pics Games | 87361 | [87361-pictoword-fun-word-pics-games.json](./87361-pictoword-fun-word-pics-games.json) |
@@ -12893,6 +12895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poop Slinger | 97031 | [97031-poop-slinger.json](./97031-poop-slinger.json) |
 | Poop Spotter: The Game To Improve the Quality of Poop~ | 294286 | [294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json](./294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json) |
 | Poop: Epic Poop | 331634 | [331634-poop-epic-poop.json](./331634-poop-epic-poop.json) |
+| Poopdie | 88381 | [88381-poopdie.json](./88381-poopdie.json) |
 | PooPee Wars | 55623 | [55623-poopee-wars.json](./55623-poopee-wars.json) |
 | Pooper Deluxe | 58434 | [58434-pooper-deluxe.json](./58434-pooper-deluxe.json) |
 | Pooper Scooper | 74261 | [74261-pooper-scooper.json](./74261-pooper-scooper.json) |
@@ -14935,6 +14938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Kidnapper VR | 30446 | [30446-princess-kidnapper-vr.json](./30446-princess-kidnapper-vr.json) |
 | Princess Knight's Mission: Anna's Marvelous Adventures | 272946 | [272946-princess-knights-mission-annas-marvelous-adventures.json](./272946-princess-knights-mission-annas-marvelous-adventures.json) |
 | Princess Lana | 138687 | [138687-princess-lana.json](./138687-princess-lana.json) |
+| Princess Libby's Music Journey | 88512 | [88512-princess-libbys-music-journey.json](./88512-princess-libbys-music-journey.json) |
 | Princess Lili | 107881 | [107881-princess-lili.json](./107881-princess-lili.json) |
 | Princess Lillifee's Magic Fairy | 209890 | [209890-princess-lillifees-magic-fairy.json](./209890-princess-lillifees-magic-fairy.json) |
 | Princess Lover! | 387346 | [387346-princess-lover.json](./387346-princess-lover.json) |
