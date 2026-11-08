@@ -1736,6 +1736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Shakespeare: Loves Labor(s) Lost | 102158 | [102158-paper-shakespeare-loves-labor-s-lost.json](./102158-paper-shakespeare-loves-labor-s-lost.json) |
 | Paper Shakespeare: Modern Warfare | 120681 | [120681-paper-shakespeare-modern-warfare.json](./120681-paper-shakespeare-modern-warfare.json) |
 | Paper Shakespeare: Stick Julius Caesar (With a Dagger) - War on Xmas | 156179 | [156179-paper-shakespeare-stick-julius-caesar-with-a-dagger-war-on-xmas.json](./156179-paper-shakespeare-stick-julius-caesar-with-a-dagger-war-on-xmas.json) |
+| Paper Shakespeare: Stick Merchant of Venice | 99285 | [99285-paper-shakespeare-stick-merchant-of-venice.json](./99285-paper-shakespeare-stick-merchant-of-venice.json) |
 | Paper Shakespeare: The Legend of Rainbow Hollow | 118256 | [118256-paper-shakespeare-the-legend-of-rainbow-hollow.json](./118256-paper-shakespeare-the-legend-of-rainbow-hollow.json) |
 | Paper Shakespeare: To Date or Not to Date? | 90804 | [90804-paper-shakespeare-to-date-or-not-to-date.json](./90804-paper-shakespeare-to-date-or-not-to-date.json) |
 | Paper Shakespeare: To Date or Not to Date? - Charity Scene: Seriously, Why Are There Still Nazis? | 174503 | [174503-paper-shakespeare-to-date-or-not-to-date-charity-scene-seriously-why-are-there-still-nazis.json](./174503-paper-shakespeare-to-date-or-not-to-date-charity-scene-seriously-why-are-there-still-nazis.json) |
@@ -7625,6 +7626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PipeMan | 80538 | [80538-pipeman.json](./80538-pipeman.json) |
 | Piper | 315318 | [315318-piper.json](./315318-piper.json) |
 | Piper | 356068 | [356068-piper.json](./356068-piper.json) |
+| PipeRoll | 99280 | [99280-piperoll.json](./99280-piperoll.json) |
 | PipeRoll Oil | 233920 | [233920-piperoll-oil.json](./233920-piperoll-oil.json) |
 | Pipes | 311408 | [311408-pipes.json](./311408-pipes.json) |
 | Pipes | 78884 | [78884-pipes.json](./78884-pipes.json) |
@@ -10308,6 +10310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plinkomancy | 389199 | [389199-plinkomancy.json](./389199-plinkomancy.json) |
 | Plith | 10706 | [10706-plith.json](./10706-plith.json) |
 | Plobania 47/B | 400286 | [400286-plobania-47-b.json](./400286-plobania-47-b.json) |
+| Plobb! | 99826 | [99826-plobb.json](./99826-plobb.json) |
 | Ploc | 193013 | [193013-ploc.json](./193013-ploc.json) |
 | Plock | 203022 | [203022-plock.json](./203022-plock.json) |
 | Plodding Recovery | 409321 | [409321-plodding-recovery.json](./409321-plodding-recovery.json) |
@@ -13773,6 +13776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Hands | 223982 | [223982-power-hands.json](./223982-power-hands.json) |
 | Power Hitter | 46549 | [46549-power-hitter.json](./46549-power-hitter.json) |
 | Power Hour | 11054 | [11054-power-hour.json](./11054-power-hour.json) |
+| Power Hover: Cruise | 99296 | [99296-power-hover-cruise.json](./99296-power-hover-cruise.json) |
 | Power in a Name | 185502 | [185502-power-in-a-name.json](./185502-power-in-a-name.json) |
 | Power Inc | 265747 | [265747-power-inc.json](./265747-power-inc.json) |
 | Power Inherited | 386495 | [386495-power-inherited.json](./386495-power-inherited.json) |
@@ -17532,6 +17536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puchi Puchi Virus | 21053 | [21053-puchi-puchi-virus.json](./21053-puchi-puchi-virus.json) |
 | PuchiCon Big | 222292 | [222292-puchicon-big.json](./222292-puchicon-big.json) |
 | Puchicon Magazine: Soukangou | 222530 | [222530-puchicon-magazine-soukangou.json](./222530-puchicon-magazine-soukangou.json) |
+| Puchiguru Love Live! | 99304 | [99304-puchiguru-love-live.json](./99304-puchiguru-love-live.json) |
 | PuchiTamaWalker | 221585 | [221585-puchitamawalker.json](./221585-puchitamawalker.json) |
 | Puchitto Cluster | 146855 | [146855-puchitto-cluster.json](./146855-puchitto-cluster.json) |
 | Puchitto Rock Shooter | 324801 | [324801-puchitto-rock-shooter.json](./324801-puchitto-rock-shooter.json) |
