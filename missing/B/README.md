@@ -73,6 +73,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.C.'s Quest for Tires | 12294 | [12294-b-c-s-quest-for-tires.json](./12294-b-c-s-quest-for-tires.json) |
 | B.C.E. | 38748 | [38748-b-c-e.json](./38748-b-c-e.json) |
 | B.D.K | 170986 | [170986-b-d-k.json](./170986-b-d-k.json) |
+| B.Duck: Candy Sweets | 109942 | [109942-b-duck-candy-sweets.json](./109942-b-duck-candy-sweets.json) |
 | B.E.A.S.T.S. | 185302 | [185302-b-e-a-s-t-s.json](./185302-b-e-a-s-t-s.json) |
 | B.E.S.T Deluxe Edition | 397023 | [397023-b-e-s-t-deluxe-edition.json](./397023-b-e-s-t-deluxe-edition.json) |
 | B.F.G:Crew | 413118 | [413118-b-f-g-crew.json](./413118-b-f-g-crew.json) |
@@ -978,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2775,6 +2777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barnstorming | 234093 | [234093-barnstorming.json](./234093-barnstorming.json) |
 | Barnville Massacre | 376516 | [376516-barnville-massacre.json](./376516-barnville-massacre.json) |
 | Barnyard | 242988 | [242988-barnyard.json](./242988-barnyard.json) |
+| Barnyard Bash | 109941 | [109941-barnyard-bash.json](./109941-barnyard-bash.json) |
 | Barnyard Blast: Swine of the Night | 47917 | [47917-barnyard-blast-swine-of-the-night.json](./47917-barnyard-blast-swine-of-the-night.json) |
 | Barnyard Blaster | 11866 | [11866-barnyard-blaster.json](./11866-barnyard-blaster.json) |
 | Barnyard Blaster Lite | 100327 | [100327-barnyard-blaster-lite.json](./100327-barnyard-blaster-lite.json) |
@@ -5238,6 +5241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Bricks | 243605 | [243605-beat-bricks.json](./243605-beat-bricks.json) |
 | Beat Bros | 52633 | [52633-beat-bros.json](./52633-beat-bros.json) |
 | Beat Bulwark | 351179 | [351179-beat-bulwark.json](./351179-beat-bulwark.json) |
+| Beat Champion | 109847 | [109847-beat-champion.json](./109847-beat-champion.json) |
 | Beat Craft | 320151 | [320151-beat-craft.json](./320151-beat-craft.json) |
 | Beat Da Beat | 24207 | [24207-beat-da-beat.json](./24207-beat-da-beat.json) |
 | Beat Defender | 154806 | [154806-beat-defender.json](./154806-beat-defender.json) |
@@ -6829,6 +6833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Mayor | 329070 | [329070-best-mayor.json](./329070-best-mayor.json) |
 | Best Miner | 151507 | [151507-best-miner.json](./151507-best-miner.json) |
 | Best Mobile Games 5-in-1 | 400060 | [400060-best-mobile-games-5-in-1.json](./400060-best-mobile-games-5-in-1.json) |
+| Best Monster Truck Climb Up | 109940 | [109940-best-monster-truck-climb-up.json](./109940-best-monster-truck-climb-up.json) |
 | Best Month Ever! | 199183 | [199183-best-month-ever.json](./199183-best-month-ever.json) |
 | Best Multiplayer and Co-op 6-in-1 Bundle | 266341 | [266341-best-multiplayer-and-co-op-6-in-1-bundle.json](./266341-best-multiplayer-and-co-op-6-in-1-bundle.json) |
 | Best of Arcade Games | 8664 | [8664-best-of-arcade-games.json](./8664-best-of-arcade-games.json) |
@@ -10711,6 +10716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Puzzle | 390773 | [390773-block-puzzle.json](./390773-block-puzzle.json) |
 | Block Puzzle 1010 | 227506 | [227506-block-puzzle-1010.json](./227506-block-puzzle-1010.json) |
 | Block Puzzle 3D | 400451 | [400451-block-puzzle-3d.json](./400451-block-puzzle-3d.json) |
+| Block Puzzle Advanced | 109939 | [109939-block-puzzle-advanced.json](./109939-block-puzzle-advanced.json) |
 | Block Puzzle Legend | 104585 | [104585-block-puzzle-legend.json](./104585-block-puzzle-legend.json) |
 | Block Puzzle Pop!! | 241805 | [241805-block-puzzle-pop.json](./241805-block-puzzle-pop.json) |
 | Block Puzzle Sudoku | 227380 | [227380-block-puzzle-sudoku.json](./227380-block-puzzle-sudoku.json) |
@@ -15030,6 +15036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Frontier 2 | 86659 | [86659-brave-frontier-2.json](./86659-brave-frontier-2.json) |
 | Brave Frontier ReXona | 205675 | [205675-brave-frontier-rexona.json](./205675-brave-frontier-rexona.json) |
 | Brave Frontier RPG | 118459 | [118459-brave-frontier-rpg.json](./118459-brave-frontier-rpg.json) |
+| Brave Frontier: The Last Summoner | 109938 | [109938-brave-frontier-the-last-summoner.json](./109938-brave-frontier-the-last-summoner.json) |
 | Brave Furries | 35603 | [35603-brave-furries.json](./35603-brave-furries.json) |
 | Brave Girl Ravens xR | 98528 | [98528-brave-girl-ravens-xr.json](./98528-brave-girl-ravens-xr.json) |
 | Brave Glin in Fairyaria | 291830 | [291830-brave-glin-in-fairyaria.json](./291830-brave-glin-in-fairyaria.json) |
