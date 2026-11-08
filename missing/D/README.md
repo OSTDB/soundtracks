@@ -15423,6 +15423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Lords 3D | 51506 | [51506-dragon-lords-3d.json](./51506-dragon-lords-3d.json) |
 | Dragon Lore II: The Heart of the Dragon Man | 71412 | [71412-dragon-lore-ii-the-heart-of-the-dragon-man.json](./71412-dragon-lore-ii-the-heart-of-the-dragon-man.json) |
 | Dragon Lore: The Legend Begins | 4342 | [4342-dragon-lore-the-legend-begins.json](./4342-dragon-lore-the-legend-begins.json) |
+| Dragon Maid's Erotic Notepad "I do NOT accept any H requests!" | 83133 | [83133-dragon-maids-erotic-notepad-i-do-not-accept-any-h-requests.json](./83133-dragon-maids-erotic-notepad-i-do-not-accept-any-h-requests.json) |
 | Dragon Maiden: Blossoms of the Past | 369759 | [369759-dragon-maiden-blossoms-of-the-past.json](./369759-dragon-maiden-blossoms-of-the-past.json) |
 | Dragon Maker | 87443 | [87443-dragon-maker.json](./87443-dragon-maker.json) |
 | Dragon Man: Reignited | 215173 | [215173-dragon-man-reignited.json](./215173-dragon-man-reignited.json) |
