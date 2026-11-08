@@ -2652,7 +2652,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua Fighter 5: Final Showdown | 21669 | [21669-virtua-fighter-5-final-showdown.json](./21669-virtua-fighter-5-final-showdown.json) |
 | Virtua Fighter 5: Ultimate Showdown | 148696 | [148696-virtua-fighter-5-ultimate-showdown.json](./148696-virtua-fighter-5-ultimate-showdown.json) |
 | Virtua Fighter Animation | 1548 | [1548-virtua-fighter-animation.json](./1548-virtua-fighter-animation.json) |
+| Virtua Fighter CG Portrait Series Vol. 10: Jeffry McWild | 97590 | [97590-virtua-fighter-cg-portrait-series-vol-10-jeffry-mcwild.json](./97590-virtua-fighter-cg-portrait-series-vol-10-jeffry-mcwild.json) |
+| Virtua Fighter CG Portrait Series Vol. 5: Wolf Hawkfield | 97598 | [97598-virtua-fighter-cg-portrait-series-vol-5-wolf-hawkfield.json](./97598-virtua-fighter-cg-portrait-series-vol-5-wolf-hawkfield.json) |
+| Virtua Fighter CG Portrait Series Vol. 7: Shun Di | 97593 | [97593-virtua-fighter-cg-portrait-series-vol-7-shun-di.json](./97593-virtua-fighter-cg-portrait-series-vol-7-shun-di.json) |
 | Virtua Fighter CG Portrait Series Vol. 8: Lion Rafale | 97818 | [97818-virtua-fighter-cg-portrait-series-vol-8-lion-rafale.json](./97818-virtua-fighter-cg-portrait-series-vol-8-lion-rafale.json) |
+| Virtua Fighter CG Portrait Series Vol. 9: Kage Maru | 97592 | [97592-virtua-fighter-cg-portrait-series-vol-9-kage-maru.json](./97592-virtua-fighter-cg-portrait-series-vol-9-kage-maru.json) |
+| Virtua Fighter CG Portrait Series Vol.3: Yuki Akira | 97601 | [97601-virtua-fighter-cg-portrait-series-vol-3-yuki-akira.json](./97601-virtua-fighter-cg-portrait-series-vol-3-yuki-akira.json) |
+| Virtua Fighter CG Portrait Series Vol.4: Pai Chan | 97599 | [97599-virtua-fighter-cg-portrait-series-vol-4-pai-chan.json](./97599-virtua-fighter-cg-portrait-series-vol-4-pai-chan.json) |
+| Virtua Fighter CG Portrait Series Vol.6: Lau Chan | 97597 | [97597-virtua-fighter-cg-portrait-series-vol-6-lau-chan.json](./97597-virtua-fighter-cg-portrait-series-vol-6-lau-chan.json) |
 | Virtua Fighter Cool Champ | 295133 | [295133-virtua-fighter-cool-champ.json](./295133-virtua-fighter-cool-champ.json) |
 | Virtua Fighter Crossroads | 325598 | [325598-virtua-fighter-crossroads.json](./325598-virtua-fighter-crossroads.json) |
 | Virtua Fighter Kids | 1549 | [1549-virtua-fighter-kids.json](./1549-virtua-fighter-kids.json) |
