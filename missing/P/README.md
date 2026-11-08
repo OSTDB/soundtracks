@@ -2034,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Never | 100292 | [100292-paradise-never.json](./100292-paradise-never.json) |
 | Paradise Never: The Revolution Fails | 14398 | [14398-paradise-never-the-revolution-fails.json](./14398-paradise-never-the-revolution-fails.json) |
 | Paradise Nowhere | 250742 | [250742-paradise-nowhere.json](./250742-paradise-nowhere.json) |
+| Paradise Ocean | 97396 | [97396-paradise-ocean.json](./97396-paradise-ocean.json) |
 | Paradise of Desire | 231137 | [231137-paradise-of-desire.json](./231137-paradise-of-desire.json) |
 | Paradise of Freedom | 332539 | [332539-paradise-of-freedom.json](./332539-paradise-of-freedom.json) |
 | Paradise Quest | 68408 | [68408-paradise-quest.json](./68408-paradise-quest.json) |
@@ -12856,6 +12857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poop Plague in Fairyland | 189948 | [189948-poop-plague-in-fairyland.json](./189948-poop-plague-in-fairyland.json) |
 | Poop Prince | 285962 | [285962-poop-prince.json](./285962-poop-prince.json) |
 | Poop Rocket | 341562 | [341562-poop-rocket.json](./341562-poop-rocket.json) |
+| Poop Slinger | 97031 | [97031-poop-slinger.json](./97031-poop-slinger.json) |
 | Poop Spotter: The Game To Improve the Quality of Poop~ | 294286 | [294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json](./294286-poop-spotter-the-game-to-improve-the-quality-of-poop.json) |
 | Poop: Epic Poop | 331634 | [331634-poop-epic-poop.json](./331634-poop-epic-poop.json) |
 | PooPee Wars | 55623 | [55623-poopee-wars.json](./55623-poopee-wars.json) |
@@ -16360,6 +16362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project MT | 363567 | [363567-project-mt.json](./363567-project-mt.json) |
 | Project Mustard | 325212 | [325212-project-mustard.json](./325212-project-mustard.json) |
 | Project MW | 278929 | [278929-project-mw.json](./278929-project-mw.json) |
+| Project Myriad | 97010 | [97010-project-myriad.json](./97010-project-myriad.json) |
 | Project Myriad 2 | 187033 | [187033-project-myriad-2.json](./187033-project-myriad-2.json) |
 | Project N.E.X.T | 278534 | [278534-project-n-e-x-t.json](./278534-project-n-e-x-t.json) |
 | Project N3T | 266966 | [266966-project-n3t.json](./266966-project-n3t.json) |
@@ -16444,6 +16447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Rabbit | 402088 | [402088-project-rabbit.json](./402088-project-rabbit.json) |
 | Project Racer | 214099 | [214099-project-racer.json](./214099-project-racer.json) |
 | Project Ragtag | 75120 | [75120-project-ragtag.json](./75120-project-ragtag.json) |
+| Project Rampage VR | 97017 | [97017-project-rampage-vr.json](./97017-project-rampage-vr.json) |
 | Project Rap Rabbit | 28699 | [28699-project-rap-rabbit.json](./28699-project-rap-rabbit.json) |
 | Project Ravensdale | 63335 | [63335-project-ravensdale.json](./63335-project-ravensdale.json) |
 | Project Rayssus | 151057 | [151057-project-rayssus.json](./151057-project-rayssus.json) |
