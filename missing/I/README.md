@@ -615,6 +615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I want 5 quadrillion yen! | 298955 | [298955-i-want-5-quadrillion-yen.json](./298955-i-want-5-quadrillion-yen.json) |
 | I Want an Identity | 327229 | [327229-i-want-an-identity.json](./327229-i-want-an-identity.json) |
 | I Want Cookies | 76489 | [76489-i-want-cookies.json](./76489-i-want-cookies.json) |
+| I Want It! | 79488 | [79488-i-want-it.json](./79488-i-want-it.json) |
 | I Want My Mommy | 40789 | [40789-i-want-my-mommy.json](./40789-i-want-my-mommy.json) |
 | I Want To Be A Circle When I Grow Up. | 396545 | [396545-i-want-to-be-a-circle-when-i-grow-up.json](./396545-i-want-to-be-a-circle-when-i-grow-up.json) |
 | I Want to Be a Girl and I Don't Know Why That's so Hard | 240121 | [240121-i-want-to-be-a-girl-and-i-dont-know-why-thats-so-hard.json](./240121-i-want-to-be-a-girl-and-i-dont-know-why-thats-so-hard.json) |
@@ -1284,6 +1285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ID-Ego | 125359 | [125359-id-ego.json](./125359-id-ego.json) |
 | Id: Rebirth Session | 142564 | [142564-id-rebirth-session.json](./142564-id-rebirth-session.json) |
 | ID4 Mission Disk 2: Alien Science Officer | 78005 | [78005-id4-mission-disk-2-alien-science-officer.json](./78005-id4-mission-disk-2-alien-science-officer.json) |
+| ID4 Mission Disk 6: Technical Expert David Levinson | 79433 | [79433-id4-mission-disk-6-technical-expert-david-levinson.json](./79433-id4-mission-disk-6-technical-expert-david-levinson.json) |
 | iDate Reborn | 384190 | [384190-idate-reborn.json](./384190-idate-reborn.json) |
 | iDate: ReVibe | 393418 | [393418-idate-revibe.json](./393418-idate-revibe.json) |
 | Idaten Jump DS: Moero! Flame Kaiser | 124504 | [124504-idaten-jump-ds-moero-flame-kaiser.json](./124504-idaten-jump-ds-moero-flame-kaiser.json) |
@@ -3995,7 +3997,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
