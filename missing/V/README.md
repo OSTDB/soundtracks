@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valheim: Hearth & Home | 222087 | [222087-valheim-hearth-and-home.json](./222087-valheim-hearth-and-home.json) |
 | Valheim: Mistlands | 227760 | [227760-valheim-mistlands.json](./227760-valheim-mistlands.json) |
 | Valheim: The Bog Witch | 319145 | [319145-valheim-the-bog-witch.json](./319145-valheim-the-bog-witch.json) |
+| Valhellio | 124345 | [124345-valhellio.json](./124345-valhellio.json) |
 | Valhyre | 68416 | [68416-valhyre.json](./68416-valhyre.json) |
 | Valhyre FPS | 131470 | [131470-valhyre-fps.json](./131470-valhyre-fps.json) |
 | Valhyre: The Aftermath | 67293 | [67293-valhyre-the-aftermath.json](./67293-valhyre-the-aftermath.json) |
