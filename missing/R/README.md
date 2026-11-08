@@ -6985,6 +6985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhodesia '72 | 292500 | [292500-rhodesia-72.json](./292500-rhodesia-72.json) |
 | Rhom Bus | 197231 | [197231-rhom-bus.json](./197231-rhom-bus.json) |
 | Rhombus | 370894 | [370894-rhombus.json](./370894-rhombus.json) |
+| Rhombus Legends | 103619 | [103619-rhombus-legends.json](./103619-rhombus-legends.json) |
 | Rhome | 130273 | [130273-rhome.json](./130273-rhome.json) |
 | Rhygar e os Soldados do Rei | 225442 | [225442-rhygar-e-os-soldados-do-rei.json](./225442-rhygar-e-os-soldados-do-rei.json) |
 | Rhyme Land | 306035 | [306035-rhyme-land.json](./306035-rhyme-land.json) |
@@ -8029,6 +8030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Rana | 362359 | [362359-rise-of-rana.json](./362359-rise-of-rana.json) |
 | Rise of Rebellion | 211568 | [211568-rise-of-rebellion.json](./211568-rise-of-rebellion.json) |
 | Rise of Robots | 301043 | [301043-rise-of-robots.json](./301043-rise-of-robots.json) |
+| Rise of Saiyan | 103695 | [103695-rise-of-saiyan.json](./103695-rise-of-saiyan.json) |
 | Rise of SamuraizerzZz | 156664 | [156664-rise-of-samuraizerzzz.json](./156664-rise-of-samuraizerzzz.json) |
 | Rise of Stars Re:Verse | 226769 | [226769-rise-of-stars-re-verse.json](./226769-rise-of-stars-re-verse.json) |
 | Rise of State | 383450 | [383450-rise-of-state.json](./383450-rise-of-state.json) |
@@ -11786,6 +11788,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Jigsaw | 108265 | [108265-royal-jigsaw.json](./108265-royal-jigsaw.json) |
 | Royal Jigsaw 2 | 201470 | [201470-royal-jigsaw-2.json](./201470-royal-jigsaw-2.json) |
 | Royal Jigsaw 3 | 241616 | [241616-royal-jigsaw-3.json](./241616-royal-jigsaw-3.json) |
+| Royal Jigsaw 4 | 103595 | [103595-royal-jigsaw-4.json](./103595-royal-jigsaw-4.json) |
+| Royal Karate Training Kings: Kung Fu Fighting 2018 | 103681 | [103681-royal-karate-training-kings-kung-fu-fighting-2018.json](./103681-royal-karate-training-kings-kung-fu-fighting-2018.json) |
 | Royal Kingdom | 327955 | [327955-royal-kingdom.json](./327955-royal-kingdom.json) |
 | Royal Legends: Marshes Curse - Collector's Edition | 186331 | [186331-royal-legends-marshes-curse-collectors-edition.json](./186331-royal-legends-marshes-curse-collectors-edition.json) |
 | Royal Legends: Raised in Exile - Collector's Edition | 201395 | [201395-royal-legends-raised-in-exile-collectors-edition.json](./201395-royal-legends-raised-in-exile-collectors-edition.json) |
