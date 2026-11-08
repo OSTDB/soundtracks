@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Drones | 74617 | [74617-war-drones.json](./74617-war-drones.json) |
 | War Dust | 110950 | [110950-war-dust.json](./110950-war-dust.json) |
 | War Eagles | 50352 | [50352-war-eagles.json](./50352-war-eagles.json) |
+| War Ender | 105570 | [105570-war-ender.json](./105570-war-ender.json) |
 | War Ender Evolution | 288476 | [288476-war-ender-evolution.json](./288476-war-ender-evolution.json) |
 | War Era Lumberjack | 368283 | [368283-war-era-lumberjack.json](./368283-war-era-lumberjack.json) |
 | War Eternal | 172670 | [172670-war-eternal.json](./172670-war-eternal.json) |
