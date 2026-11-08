@@ -3042,6 +3042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the Name of the Tsar | 321860 | [321860-in-the-name-of-the-tsar.json](./321860-in-the-name-of-the-tsar.json) |
 | In The Night You Had Bad Dreams | 340758 | [340758-in-the-night-you-had-bad-dreams.json](./340758-in-the-night-you-had-bad-dreams.json) |
 | In the Palace of the Birds | 332879 | [332879-in-the-palace-of-the-birds.json](./332879-in-the-palace-of-the-birds.json) |
+| In the Pause Between the Ringing | 117898 | [117898-in-the-pause-between-the-ringing.json](./117898-in-the-pause-between-the-ringing.json) |
 | In the Pause Between the Ringing. | 177831 | [177831-in-the-pause-between-the-ringing.json](./177831-in-the-pause-between-the-ringing.json) |
 | In the Pines | 341875 | [341875-in-the-pines.json](./341875-in-the-pines.json) |
 | In the pines, in the pines, where the sun never shines | 177514 | [177514-in-the-pines-in-the-pines-where-the-sun-never-shines.json](./177514-in-the-pines-in-the-pines-where-the-sun-never-shines.json) |
