@@ -6473,6 +6473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Up | 264567 | [264567-first-up.json](./264567-first-up.json) |
 | First Winter | 97027 | [97027-first-winter.json](./97027-first-winter.json) |
 | First Wonder | 59812 | [59812-first-wonder.json](./59812-first-wonder.json) |
+| First Words Builder | 102494 | [102494-first-words-builder.json](./102494-first-words-builder.json) |
 | First Words Deluxe | 87207 | [87207-first-words-deluxe.json](./87207-first-words-deluxe.json) |
 | First Words Feelings | 103582 | [103582-first-words-feelings.json](./103582-first-words-feelings.json) |
 | First World War | 59322 | [59322-first-world-war.json](./59322-first-world-war.json) |
@@ -10196,6 +10197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Playland: Party Edition | 392803 | [392803-forgotten-playland-party-edition.json](./392803-forgotten-playland-party-edition.json) |
 | Forgotten Possessions | 392775 | [392775-forgotten-possessions.json](./392775-forgotten-possessions.json) |
 | Forgotten Psychedelics | 332182 | [332182-forgotten-psychedelics.json](./332182-forgotten-psychedelics.json) |
+| Forgotten Realm RPG | 102483 | [102483-forgotten-realm-rpg.json](./102483-forgotten-realm-rpg.json) |
 | Forgotten Realms: Demon Stone | 356895 | [356895-forgotten-realms-demon-stone.json](./356895-forgotten-realms-demon-stone.json) |
 | Forgotten Realms: Demon Stone | 5839 | [5839-forgotten-realms-demon-stone.json](./5839-forgotten-realms-demon-stone.json) |
 | Forgotten Realms: Hillsfar | 195752 | [195752-forgotten-realms-hillsfar.json](./195752-forgotten-realms-hillsfar.json) |
@@ -12115,6 +12117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fresh Milk For Mars | 295838 | [295838-fresh-milk-for-mars.json](./295838-fresh-milk-for-mars.json) |
 | Fresh Out the Oven | 201949 | [201949-fresh-out-the-oven.json](./201949-fresh-out-the-oven.json) |
 | Fresh Pretty Cure! Asobi Collection | 122541 | [122541-fresh-pretty-cure-asobi-collection.json](./122541-fresh-pretty-cure-asobi-collection.json) |
+| Fresh Reversi | 102492 | [102492-fresh-reversi.json](./102492-fresh-reversi.json) |
 | Fresh Squeezed Lemonade | 393992 | [393992-fresh-squeezed-lemonade.json](./393992-fresh-squeezed-lemonade.json) |
 | Fresh Start | 212066 | [212066-fresh-start.json](./212066-fresh-start.json) |
 | Fresh Story | 272765 | [272765-fresh-story.json](./272765-fresh-story.json) |
