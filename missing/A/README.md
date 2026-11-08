@@ -5266,6 +5266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Senshi Neuro-sama | 308188 | [308188-ai-senshi-neuro-sama.json](./308188-ai-senshi-neuro-sama.json) |
 | Ai Senshi Nicol | 41237 | [41237-ai-senshi-nicol.json](./41237-ai-senshi-nicol.json) |
 | Ai Shimai: Docchi ni Suruno!! | 78470 | [78470-ai-shimai-docchi-ni-suruno.json](./78470-ai-shimai-docchi-ni-suruno.json) |
+| AI Shogi | 79478 | [79478-ai-shogi.json](./79478-ai-shogi.json) |
 | AI Shogi 2 | 45445 | [45445-ai-shogi-2.json](./45445-ai-shogi-2.json) |
 | AI Shogi 2003 | 269328 | [269328-ai-shogi-2003.json](./269328-ai-shogi-2003.json) |
 | AI Shoujo | 127944 | [127944-ai-shoujo.json](./127944-ai-shoujo.json) |
@@ -5589,6 +5590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Hockey Simulator | 379525 | [379525-air-hockey-simulator.json](./379525-air-hockey-simulator.json) |
 | Air Hockey VR | 258568 | [258568-air-hockey-vr.json](./258568-air-hockey-vr.json) |
 | Air Hockey XL | 100276 | [100276-air-hockey-xl.json](./100276-air-hockey-xl.json) |
+| Air Hockey-e | 79477 | [79477-air-hockey-e.json](./79477-air-hockey-e.json) |
 | Air Hockey-fuu: Soukai Taisen Action Game - Breaking Beats! | 250444 | [250444-air-hockey-fuu-soukai-taisen-action-game-breaking-beats.json](./250444-air-hockey-fuu-soukai-taisen-action-game-breaking-beats.json) |
 | Air Hockey: Casual Table Arcade | 306526 | [306526-air-hockey-casual-table-arcade.json](./306526-air-hockey-casual-table-arcade.json) |
 | Air Hockey: Championship 3D+ | 239889 | [239889-air-hockey-championship-3d.json](./239889-air-hockey-championship-3d.json) |
@@ -9921,6 +9923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angelique Retour | 59958 | [59958-angelique-retour.json](./59958-angelique-retour.json) |
 | Angelique Special | 45436 | [45436-angelique-special.json](./45436-angelique-special.json) |
 | Angelique Special 2 | 45435 | [45435-angelique-special-2.json](./45435-angelique-special-2.json) |
+| Angelique Tenkuu no Requiem | 79452 | [79452-angelique-tenkuu-no-requiem.json](./79452-angelique-tenkuu-no-requiem.json) |
 | Angelique Trois | 72678 | [72678-angelique-trois.json](./72678-angelique-trois.json) |
 | Angelique Trois: Aizou-hen | 269340 | [269340-angelique-trois-aizou-hen.json](./269340-angelique-trois-aizou-hen.json) |
 | Angelique Voice Fantasy | 38316 | [38316-angelique-voice-fantasy.json](./38316-angelique-voice-fantasy.json) |
@@ -14804,6 +14807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arsene Lupin: Once a Thief | 302922 | [302922-arsene-lupin-once-a-thief.json](./302922-arsene-lupin-once-a-thief.json) |
 | Arsenic & Absinthe | 327191 | [327191-arsenic-and-absinthe.json](./327191-arsenic-and-absinthe.json) |
 | Arsilon | 201081 | [201081-arsilon.json](./201081-arsilon.json) |
+| Arslan Senki | 79467 | [79467-arslan-senki.json](./79467-arslan-senki.json) |
 | Arslan: The Warriors of Legend | 11489 | [11489-arslan-the-warriors-of-legend.json](./11489-arslan-the-warriors-of-legend.json) |
 | ARSoccer | 343471 | [343471-arsoccer.json](./343471-arsoccer.json) |
 | Arsolid Productions | 201660 | [201660-arsolid-productions.json](./201660-arsolid-productions.json) |
@@ -17169,7 +17173,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
