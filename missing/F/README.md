@@ -1366,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 76: The Pitt - Deluxe Edition | 218503 | [218503-fallout-76-the-pitt-deluxe-edition.json](./218503-fallout-76-the-pitt-deluxe-edition.json) |
 | Fallout 76: The Pitt Recruitment Bundle | 230146 | [230146-fallout-76-the-pitt-recruitment-bundle.json](./230146-fallout-76-the-pitt-recruitment-bundle.json) |
 | Fallout 76: Tricentennial Edition | 103308 | [103308-fallout-76-tricentennial-edition.json](./103308-fallout-76-tricentennial-edition.json) |
+| Fallout 76: Wastelanders - Deluxe Edition | 132975 | [132975-fallout-76-wastelanders-deluxe-edition.json](./132975-fallout-76-wastelanders-deluxe-edition.json) |
 | Fallout 76: Wild Appalachia | 115713 | [115713-fallout-76-wild-appalachia.json](./115713-fallout-76-wild-appalachia.json) |
 | Fallout Anthology | 21590 | [21590-fallout-anthology.json](./21590-fallout-anthology.json) |
 | Fallout Apokalypse | 21584 | [21584-fallout-apokalypse.json](./21584-fallout-apokalypse.json) |
@@ -6763,6 +6764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Sim World: Pro Tour | 105543 | [105543-fishing-sim-world-pro-tour.json](./105543-fishing-sim-world-pro-tour.json) |
 | Fishing Sim World: Pro Tour - Bass Pro Shops Equipment Pack | 170476 | [170476-fishing-sim-world-pro-tour-bass-pro-shops-equipment-pack.json](./170476-fishing-sim-world-pro-tour-bass-pro-shops-equipment-pack.json) |
 | Fishing Sim World: Pro Tour - Big Fish Lure Pack | 156175 | [156175-fishing-sim-world-pro-tour-big-fish-lure-pack.json](./156175-fishing-sim-world-pro-tour-big-fish-lure-pack.json) |
+| Fishing Sim World: Pro Tour - Collector's Edition | 132974 | [132974-fishing-sim-world-pro-tour-collectors-edition.json](./132974-fishing-sim-world-pro-tour-collectors-edition.json) |
 | Fishing Sim World: Pro Tour - Deluxe Edition | 228093 | [228093-fishing-sim-world-pro-tour-deluxe-edition.json](./228093-fishing-sim-world-pro-tour-deluxe-edition.json) |
 | Fishing Sim World: Pro Tour - Giant Carp Pack | 227073 | [227073-fishing-sim-world-pro-tour-giant-carp-pack.json](./227073-fishing-sim-world-pro-tour-giant-carp-pack.json) |
 | Fishing Sim World: Pro Tour - Gigantica Road Lake | 169970 | [169970-fishing-sim-world-pro-tour-gigantica-road-lake.json](./169970-fishing-sim-world-pro-tour-gigantica-road-lake.json) |
@@ -10166,6 +10168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten War | 252068 | [252068-forgotten-war.json](./252068-forgotten-war.json) |
 | Forgotten Warrior | 243728 | [243728-forgotten-warrior.json](./243728-forgotten-warrior.json) |
 | Forgotten Waters | 258536 | [258536-forgotten-waters.json](./258536-forgotten-waters.json) |
+| Forgotten Ways | 132968 | [132968-forgotten-ways.json](./132968-forgotten-ways.json) |
 | Forgotten World | 105639 | [105639-forgotten-world.json](./105639-forgotten-world.json) |
 | Forgotten Worlds | 6794 | [6794-forgotten-worlds.json](./6794-forgotten-worlds.json) |
 | Forgotten, Not Lost - A Kinetic Novel | 33132 | [33132-forgotten-not-lost-a-kinetic-novel.json](./33132-forgotten-not-lost-a-kinetic-novel.json) |
