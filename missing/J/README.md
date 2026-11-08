@@ -604,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jane's Advance Strike Fighters | 25531 | [25531-janes-advance-strike-fighters.json](./25531-janes-advance-strike-fighters.json) |
 | Jane's Combat Simulations: Advanced Tactical Fighters | 78026 | [78026-janes-combat-simulations-advanced-tactical-fighters.json](./78026-janes-combat-simulations-advanced-tactical-fighters.json) |
 | Jane's Combat Simulations: Advanced Tactical Fighters - Nato Fighters | 71211 | [71211-janes-combat-simulations-advanced-tactical-fighters-nato-fighters.json](./71211-janes-combat-simulations-advanced-tactical-fighters-nato-fighters.json) |
+| Jane's Combat Simulations: Advanced Tactical Fighters Gold | 134150 | [134150-janes-combat-simulations-advanced-tactical-fighters-gold.json](./134150-janes-combat-simulations-advanced-tactical-fighters-gold.json) |
 | Jane's Combat Simulations: AH-64D Longbow | 73095 | [73095-janes-combat-simulations-ah-64d-longbow.json](./73095-janes-combat-simulations-ah-64d-longbow.json) |
 | Jane's Combat Simulations: Attack Pack | 78022 | [78022-janes-combat-simulations-attack-pack.json](./78022-janes-combat-simulations-attack-pack.json) |
 | Jane's Combat Simulations: Attack Squadron | 100091 | [100091-janes-combat-simulations-attack-squadron.json](./100091-janes-combat-simulations-attack-squadron.json) |
@@ -764,6 +765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Japanese Rail Sim: Journey to Kyoto | 139991 | [139991-japanese-rail-sim-journey-to-kyoto.json](./139991-japanese-rail-sim-journey-to-kyoto.json) |
 | Japanese Rail Sim: Operating the Meitetsu Line | 246822 | [246822-japanese-rail-sim-operating-the-meitetsu-line.json](./246822-japanese-rail-sim-operating-the-meitetsu-line.json) |
 | Japanese Ramen Simulator | 414484 | [414484-japanese-ramen-simulator.json](./414484-japanese-ramen-simulator.json) |
+| Japanese Romaji Adventure | 134179 | [134179-japanese-romaji-adventure.json](./134179-japanese-romaji-adventure.json) |
 | Japanese Romaji Adventure 3D | 200889 | [200889-japanese-romaji-adventure-3d.json](./200889-japanese-romaji-adventure-3d.json) |
 | Japanese Rural Life Adventure | 265453 | [265453-japanese-rural-life-adventure.json](./265453-japanese-rural-life-adventure.json) |
 | Japanese Salaryman | 323017 | [323017-japanese-salaryman.json](./323017-japanese-salaryman.json) |
