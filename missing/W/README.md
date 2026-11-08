@@ -1989,6 +1989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior | 215906 | [215906-warrior.json](./215906-warrior.json) |
 | Warrior | 274015 | [274015-warrior.json](./274015-warrior.json) |
 | Warrior | 287575 | [287575-warrior.json](./287575-warrior.json) |
+| Warrior | 78184 | [78184-warrior.json](./78184-warrior.json) |
 | Warrior Beneath Heaven | 156536 | [156536-warrior-beneath-heaven.json](./156536-warrior-beneath-heaven.json) |
 | Warrior Blade: Rastan Saga Episode III | 69102 | [69102-warrior-blade-rastan-saga-episode-iii.json](./69102-warrior-blade-rastan-saga-episode-iii.json) |
 | Warrior Boy | 164844 | [164844-warrior-boy.json](./164844-warrior-boy.json) |
@@ -5189,6 +5190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wii Sports Club: Golf | 85489 | [85489-wii-sports-club-golf.json](./85489-wii-sports-club-golf.json) |
 | Wii Sports Club: Tennis | 85490 | [85490-wii-sports-club-tennis.json](./85490-wii-sports-club-tennis.json) |
 | Wii Sports Resort | 2182 | [2182-wii-sports-resort.json](./2182-wii-sports-resort.json) |
+| Wii Sports: Airplane | 78192 | [78192-wii-sports-airplane.json](./78192-wii-sports-airplane.json) |
 | Wii U Panorama View | 78866 | [78866-wii-u-panorama-view.json](./78866-wii-u-panorama-view.json) |
 | Wiimms Mario Kart Fun | 130017 | [130017-wiimms-mario-kart-fun.json](./130017-wiimms-mario-kart-fun.json) |
 | Wik & the Fable of Souls | 933 | [933-wik-and-the-fable-of-souls.json](./933-wik-and-the-fable-of-souls.json) |
@@ -8647,6 +8649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Snooker Challenge 2007 | 42848 | [42848-world-snooker-challenge-2007.json](./42848-world-snooker-challenge-2007.json) |
 | World Snooker Championship 2005 | 22292 | [22292-world-snooker-championship-2005.json](./22292-world-snooker-championship-2005.json) |
 | World Snooker Championship 2007 | 7248 | [7248-world-snooker-championship-2007.json](./7248-world-snooker-championship-2007.json) |
+| World Snooker Championship Real 2011 | 78207 | [78207-world-snooker-championship-real-2011.json](./78207-world-snooker-championship-real-2011.json) |
 | World Snooker Championship: Season 2007-08 | 64994 | [64994-world-snooker-championship-season-2007-08.json](./64994-world-snooker-championship-season-2007-08.json) |
 | World Soccer | 119441 | [119441-world-soccer.json](./119441-world-soccer.json) |
 | World Soccer | 12893 | [12893-world-soccer.json](./12893-world-soccer.json) |
