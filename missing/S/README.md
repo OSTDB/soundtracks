@@ -3238,6 +3238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby-Doo DVD Game: Funland of Freaky Frights | 231471 | [231471-scooby-doo-dvd-game-funland-of-freaky-frights.json](./231471-scooby-doo-dvd-game-funland-of-freaky-frights.json) |
 | Scooby-Doo Mystery | 137094 | [137094-scooby-doo-mystery.json](./137094-scooby-doo-mystery.json) |
 | Scooby-Doo Mystery Cases | 87730 | [87730-scooby-doo-mystery-cases.json](./87730-scooby-doo-mystery-cases.json) |
+| Scooby-Doo: Case File #2 - The Scary Stone Dragon | 138946 | [138946-scooby-doo-case-file-2-the-scary-stone-dragon.json](./138946-scooby-doo-case-file-2-the-scary-stone-dragon.json) |
 | Scooby-Doo: Case File 1 - The Glowing Bug Man | 78685 | [78685-scooby-doo-case-file-1-the-glowing-bug-man.json](./78685-scooby-doo-case-file-1-the-glowing-bug-man.json) |
 | Scooby-Doo: Funland Frenzy | 73002 | [73002-scooby-doo-funland-frenzy.json](./73002-scooby-doo-funland-frenzy.json) |
 | Scooby-Doo: Jinx at the Sphinx | 67791 | [67791-scooby-doo-jinx-at-the-sphinx.json](./67791-scooby-doo-jinx-at-the-sphinx.json) |
@@ -5240,6 +5241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seirei no Mori no Bouken | 358503 | [358503-seirei-no-mori-no-bouken.json](./358503-seirei-no-mori-no-bouken.json) |
 | Seirei Senshi Spriggan | 37617 | [37617-seirei-senshi-spriggan.json](./37617-seirei-senshi-spriggan.json) |
 | Seirei Shinseiki Fhey Area | 46391 | [46391-seirei-shinseiki-fhey-area.json](./46391-seirei-shinseiki-fhey-area.json) |
+| Seirei Shoukan: Princess of Darkness | 138925 | [138925-seirei-shoukan-princess-of-darkness.json](./138925-seirei-shoukan-princess-of-darkness.json) |
 | Seireiki Rayblade | 166591 | [166591-seireiki-rayblade.json](./166591-seireiki-rayblade.json) |
 | Seireiki Rayblade | 311290 | [311290-seireiki-rayblade.json](./311290-seireiki-rayblade.json) |
 | Seiryuu Densetsu Monbit | 66141 | [66141-seiryuu-densetsu-monbit.json](./66141-seiryuu-densetsu-monbit.json) |
@@ -19948,7 +19950,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 142578 | [142578-space-hunter.json](./142578-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
@@ -29127,6 +29128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Struckd: 3D Game Creator | 80940 | [80940-struckd-3d-game-creator.json](./80940-struckd-3d-game-creator.json) |
 | Structory | 246208 | [246208-structory.json](./246208-structory.json) |
 | Structura | 150504 | [150504-structura.json](./150504-structura.json) |
+| Structural | 138904 | [138904-structural.json](./138904-structural.json) |
 | Structus | 192324 | [192324-structus.json](./192324-structus.json) |
 | Struggle | 123799 | [123799-struggle.json](./123799-struggle.json) |
 | Struggle F.O | 276603 | [276603-struggle-f-o.json](./276603-struggle-f-o.json) |
@@ -30591,6 +30593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sun, Sand & Monster Slayers | 391831 | [391831-sun-sand-and-monster-slayers.json](./391831-sun-sand-and-monster-slayers.json) |
 | Sun's Edge | 306880 | [306880-suns-edge.json](./306880-suns-edge.json) |
 | Suna | 87948 | [87948-suna.json](./87948-suna.json) |
+| Suna no Embrace: Eden no Sato no Never | 138930 | [138930-suna-no-embrace-eden-no-sato-no-never.json](./138930-suna-no-embrace-eden-no-sato-no-never.json) |
 | Sunaba | 274339 | [274339-sunaba.json](./274339-sunaba.json) |
 | SunAge | 21496 | [21496-sunage.json](./21496-sunage.json) |
 | Sunbay City Stories: Tina from the Grand Auto Workshop | 400408 | [400408-sunbay-city-stories-tina-from-the-grand-auto-workshop.json](./400408-sunbay-city-stories-tina-from-the-grand-auto-workshop.json) |
@@ -35715,6 +35718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swim Meet | 242453 | [242453-swim-meet.json](./242453-swim-meet.json) |
 | Swim Out | 47995 | [47995-swim-out.json](./47995-swim-out.json) |
 | Swim Penguin | 106298 | [106298-swim-penguin.json](./106298-swim-penguin.json) |
+| Swim with the Whales | 138924 | [138924-swim-with-the-whales.json](./138924-swim-with-the-whales.json) |
 | Swim! Sacabambaspis | 276470 | [276470-swim-sacabambaspis.json](./276470-swim-sacabambaspis.json) |
 | Swim4Swim | 410280 | [410280-swim4swim.json](./410280-swim4swim.json) |
 | Swimcraft | 410911 | [410911-swimcraft.json](./410911-swimcraft.json) |
