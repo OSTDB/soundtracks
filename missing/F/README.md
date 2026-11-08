@@ -6997,6 +6997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five a Side Football 2024 | 267413 | [267413-five-a-side-football-2024.json](./267413-five-a-side-football-2024.json) |
 | Five Biggest Accomplishments | 381518 | [381518-five-biggest-accomplishments.json](./381518-five-biggest-accomplishments.json) |
 | Five Card Draw Poker | 279819 | [279819-five-card-draw-poker.json](./279819-five-card-draw-poker.json) |
+| Five Card Stud Poker | 131732 | [131732-five-card-stud-poker.json](./131732-five-card-stud-poker.json) |
 | Five Dates | 141088 | [141088-five-dates.json](./141088-five-dates.json) |
 | Five Day Detective | 274303 | [274303-five-day-detective.json](./274303-five-day-detective.json) |
 | Five Day Great Escape | 114399 | [114399-five-day-great-escape.json](./114399-five-day-great-escape.json) |
@@ -7996,6 +7997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip | 381025 | [381025-flip.json](./381025-flip.json) |
 | Flip & Flop | 41006 | [41006-flip-and-flop.json](./41006-flip-and-flop.json) |
 | Flip & Shop Simulator | 382725 | [382725-flip-and-shop-simulator.json](./382725-flip-and-shop-simulator.json) |
+| Flip and Flop | 131713 | [131713-flip-and-flop.json](./131713-flip-and-flop.json) |
 | Flip Boarder | 74752 | [74752-flip-boarder.json](./74752-flip-boarder.json) |
 | Flip Coin | 336702 | [336702-flip-coin.json](./336702-flip-coin.json) |
 | Flip Dimensions | 394125 | [394125-flip-dimensions.json](./394125-flip-dimensions.json) |
