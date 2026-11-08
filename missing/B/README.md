@@ -427,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to Nature | 84980 | [84980-back-to-nature.json](./84980-back-to-nature.json) |
 | Back to Origin | 405967 | [405967-back-to-origin.json](./405967-back-to-origin.json) |
 | Back to Reality | 267012 | [267012-back-to-reality.json](./267012-back-to-reality.json) |
+| Back to Saturn X Episode 1: Get Out of My Stations | 136596 | [136596-back-to-saturn-x-episode-1-get-out-of-my-stations.json](./136596-back-to-saturn-x-episode-1-get-out-of-my-stations.json) |
 | Back to Saturn X Episode 2: Tower in the Fountain of Sparks | 340875 | [340875-back-to-saturn-x-episode-2-tower-in-the-fountain-of-sparks.json](./340875-back-to-saturn-x-episode-2-tower-in-the-fountain-of-sparks.json) |
 | Back to Saturn X Episode 3: Instructions to the Rusty Time Machine | 340877 | [340877-back-to-saturn-x-episode-3-instructions-to-the-rusty-time-machine.json](./340877-back-to-saturn-x-episode-3-instructions-to-the-rusty-time-machine.json) |
 | Back to School | 352237 | [352237-back-to-school.json](./352237-back-to-school.json) |
@@ -973,7 +974,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7707,6 +7707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Thinkers 1st Grade | 35061 | [35061-big-thinkers-1st-grade.json](./35061-big-thinkers-1st-grade.json) |
 | Big Thinkers Kindergarten | 35060 | [35060-big-thinkers-kindergarten.json](./35060-big-thinkers-kindergarten.json) |
 | Big Tiddy Goth Baddie | 417765 | [417765-big-tiddy-goth-baddie.json](./417765-big-tiddy-goth-baddie.json) |
+| Big Tiddy Goth GF Simulator | 136571 | [136571-big-tiddy-goth-gf-simulator.json](./136571-big-tiddy-goth-gf-simulator.json) |
 | Big Time Gangsta | 316758 | [316758-big-time-gangsta.json](./316758-big-time-gangsta.json) |
 | Big Time Rush: Backstage Pass | 47874 | [47874-big-time-rush-backstage-pass.json](./47874-big-time-rush-backstage-pass.json) |
 | Big Time Rush: Dance Party | 50625 | [50625-big-time-rush-dance-party.json](./50625-big-time-rush-dance-party.json) |
@@ -10004,6 +10005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlazBlue: Cross Tag Battle - Character: Blake | 165999 | [165999-blazblue-cross-tag-battle-character-blake.json](./165999-blazblue-cross-tag-battle-character-blake.json) |
 | BlazBlue: Cross Tag Battle - Character: Yang | 165998 | [165998-blazblue-cross-tag-battle-character-yang.json](./165998-blazblue-cross-tag-battle-character-yang.json) |
 | BlazBlue: Cross Tag Battle - Deluxe Edition | 118680 | [118680-blazblue-cross-tag-battle-deluxe-edition.json](./118680-blazblue-cross-tag-battle-deluxe-edition.json) |
+| BlazBlue: Cross Tag Battle - Special Edition | 136605 | [136605-blazblue-cross-tag-battle-special-edition.json](./136605-blazblue-cross-tag-battle-special-edition.json) |
 | BlazBlue: Cross Tag Battle - Ver 2.0 Expansion Pack | 167318 | [167318-blazblue-cross-tag-battle-ver-2-0-expansion-pack.json](./167318-blazblue-cross-tag-battle-ver-2-0-expansion-pack.json) |
 | BlazBlue: Entropy Effect | 261269 | [261269-blazblue-entropy-effect.json](./261269-blazblue-entropy-effect.json) |
 | BlazBlue: Entropy Effect - Hazama Character Pack | 350337 | [350337-blazblue-entropy-effect-hazama-character-pack.json](./350337-blazblue-entropy-effect-hazama-character-pack.json) |
@@ -15384,6 +15386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaking Game | 371276 | [371276-breaking-game.json](./371276-breaking-game.json) |
 | Breaking Gates | 141008 | [141008-breaking-gates.json](./141008-breaking-gates.json) |
 | Breaking Good | 51968 | [51968-breaking-good.json](./51968-breaking-good.json) |
+| Breaking Lockdown | 136593 | [136593-breaking-lockdown.json](./136593-breaking-lockdown.json) |
 | Breaking Mad | 123515 | [123515-breaking-mad.json](./123515-breaking-mad.json) |
 | Breaking Newton | 192214 | [192214-breaking-newton.json](./192214-breaking-newton.json) |
 | Breaking Point | 393532 | [393532-breaking-point.json](./393532-breaking-point.json) |
