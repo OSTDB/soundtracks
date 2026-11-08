@@ -2134,6 +2134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjongg Compilation | 91597 | [91597-mahjongg-compilation.json](./91597-mahjongg-compilation.json) |
 | Mahjongg DS | 91318 | [91318-mahjongg-ds.json](./91318-mahjongg-ds.json) |
 | Mahjongg Empire | 210203 | [210203-mahjongg-empire.json](./210203-mahjongg-empire.json) |
+| Mahjongg Master | 94305 | [94305-mahjongg-master.json](./94305-mahjongg-master.json) |
 | MahJongg Master 2 | 200882 | [200882-mahjongg-master-2.json](./200882-mahjongg-master-2.json) |
 | Mahjongg Master 3 | 93140 | [93140-mahjongg-master-3.json](./93140-mahjongg-master-3.json) |
 | MahJongg Master 4 | 200883 | [200883-mahjongg-master-4.json](./200883-mahjongg-master-4.json) |
@@ -2434,6 +2435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majid, Smash'Em! | 176842 | [176842-majid-smashem.json](./176842-majid-smashem.json) |
 | Majid, Survive! | 176592 | [176592-majid-survive.json](./176592-majid-survive.json) |
 | Majigire Genkai OL-chan | 308867 | [308867-majigire-genkai-ol-chan.json](./308867-majigire-genkai-ol-chan.json) |
+| Majik | 94297 | [94297-majik.json](./94297-majik.json) |
 | Majikoi! Love Me Seriously! | 65611 | [65611-majikoi-love-me-seriously.json](./65611-majikoi-love-me-seriously.json) |
 | Majime ni Fumajime Kaiketsu Zorori - Kyoufu no Takarabako | 124487 | [124487-majime-ni-fumajime-kaiketsu-zorori-kyoufu-no-takarabako.json](./124487-majime-ni-fumajime-kaiketsu-zorori-kyoufu-no-takarabako.json) |
 | Majin and Sacrificial Girl | 234850 | [234850-majin-and-sacrificial-girl.json](./234850-majin-and-sacrificial-girl.json) |
@@ -12092,6 +12094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millennium 5: The Battle of the Millennium | 8176 | [8176-millennium-5-the-battle-of-the-millennium.json](./8176-millennium-5-the-battle-of-the-millennium.json) |
 | Millennium Arcade | 295293 | [295293-millennium-arcade.json](./295293-millennium-arcade.json) |
 | Millennium Atoll | 156838 | [156838-millennium-atoll.json](./156838-millennium-atoll.json) |
+| Millennium Auction | 94291 | [94291-millennium-auction.json](./94291-millennium-auction.json) |
 | Millennium Conflict | 213528 | [213528-millennium-conflict.json](./213528-millennium-conflict.json) |
 | Millennium Dawn: A Modern Day Mod | 256450 | [256450-millennium-dawn-a-modern-day-mod.json](./256450-millennium-dawn-a-modern-day-mod.json) |
 | Millennium Dream | 349036 | [349036-millennium-dream.json](./349036-millennium-dream.json) |
@@ -12405,6 +12408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind-Blowing Girls 2 | 171027 | [171027-mind-blowing-girls-2.json](./171027-mind-blowing-girls-2.json) |
 | Mind-Blowing Girls 3 | 163995 | [163995-mind-blowing-girls-3.json](./163995-mind-blowing-girls-3.json) |
 | Mind-Machine Interface | 27763 | [27763-mind-machine-interface.json](./27763-mind-machine-interface.json) |
+| Mind-Roll | 94284 | [94284-mind-roll.json](./94284-mind-roll.json) |
 | Mind, Body & Soul: Nutrition Matters | 209013 | [209013-mind-body-and-soul-nutrition-matters.json](./209013-mind-body-and-soul-nutrition-matters.json) |
 | Mind: Path to Thalamus | 8876 | [8876-mind-path-to-thalamus.json](./8876-mind-path-to-thalamus.json) |
 | Mind: Path to Thalamus - Enhanced Edition | 19049 | [19049-mind-path-to-thalamus-enhanced-edition.json](./19049-mind-path-to-thalamus-enhanced-edition.json) |
