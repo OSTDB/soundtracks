@@ -669,6 +669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laments of a Platinum Rose | 384199 | [384199-laments-of-a-platinum-rose.json](./384199-laments-of-a-platinum-rose.json) |
 | Lamentum | 115588 | [115588-lamentum.json](./115588-lamentum.json) |
 | Lamentum: Digital Deluxe | 336142 | [336142-lamentum-digital-deluxe.json](./336142-lamentum-digital-deluxe.json) |
+| Lamers | 78215 | [78215-lamers.json](./78215-lamers.json) |
 | Lami: A Cup of Code & Coffee | 341680 | [341680-lami-a-cup-of-code-and-coffee.json](./341680-lami-a-cup-of-code-and-coffee.json) |
 | Lamia 1999 | 123022 | [123022-lamia-1999.json](./123022-lamia-1999.json) |
 | Lamia's Bambina | 240783 | [240783-lamias-bambina.json](./240783-lamias-bambina.json) |
@@ -3137,6 +3138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Builder's Journey | 127985 | [127985-lego-builders-journey.json](./127985-lego-builders-journey.json) |
 | LEGO City Fire Hose Frenzy | 61624 | [61624-lego-city-fire-hose-frenzy.json](./61624-lego-city-fire-hose-frenzy.json) |
 | LEGO City Game | 89145 | [89145-lego-city-game.json](./89145-lego-city-game.json) |
+| LEGO City Rapid Rescue | 78191 | [78191-lego-city-rapid-rescue.json](./78191-lego-city-rapid-rescue.json) |
 | LEGO City Spotlight Robbery | 61623 | [61623-lego-city-spotlight-robbery.json](./61623-lego-city-spotlight-robbery.json) |
 | LEGO City Undercover | 2177 | [2177-lego-city-undercover.json](./2177-lego-city-undercover.json) |
 | LEGO City Undercover | 343450 | [343450-lego-city-undercover.json](./343450-lego-city-undercover.json) |
@@ -3617,6 +3619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lepus | 376121 | [376121-lepus.json](./376121-lepus.json) |
 | Lern Island Letters | 322768 | [322768-lern-island-letters.json](./322768-lern-island-letters.json) |
 | Lernen Leicht Gemacht! Für Junggebliebene | 81389 | [81389-lernen-leicht-gemacht-fur-junggebliebene.json](./81389-lernen-leicht-gemacht-fur-junggebliebene.json) |
+| Lernen Leicht Gemacht! Für Kids | 78243 | [78243-lernen-leicht-gemacht-fur-kids.json](./78243-lernen-leicht-gemacht-fur-kids.json) |
 | Lerry the Cube | 102117 | [102117-lerry-the-cube.json](./102117-lerry-the-cube.json) |
 | Les Aventures de Pepito au Mexique | 342556 | [342556-les-aventures-de-pepito-au-mexique.json](./342556-les-aventures-de-pepito-au-mexique.json) |
 | Les aventures de T'choupi a l'ecole | 269653 | [269653-les-aventures-de-tchoupi-a-lecole.json](./269653-les-aventures-de-tchoupi-a-lecole.json) |
