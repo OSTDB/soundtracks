@@ -7752,6 +7752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numbers Go Up | 401069 | [401069-numbers-go-up.json](./401069-numbers-go-up.json) |
 | Numbers on the Run: Counting on Zero | 230443 | [230443-numbers-on-the-run-counting-on-zero.json](./230443-numbers-on-the-run-counting-on-zero.json) |
 | Numbers Paradise | 44399 | [44399-numbers-paradise.json](./44399-numbers-paradise.json) |
+| Numbers Planet: Games and Puzzles | 116555 | [116555-numbers-planet-games-and-puzzles.json](./116555-numbers-planet-games-and-puzzles.json) |
 | Numbers with Dally Dino - Preschool Kids Learn Counting with A Fun Dinosaur Friend | 88852 | [88852-numbers-with-dally-dino-preschool-kids-learn-counting-with-a-fun-dinosaur-friend.json](./88852-numbers-with-dally-dino-preschool-kids-learn-counting-with-a-fun-dinosaur-friend.json) |
 | Numbers.io | 310070 | [310070-numbers-io.json](./310070-numbers-io.json) |
 | Numbershark 5 | 286602 | [286602-numbershark-5.json](./286602-numbershark-5.json) |
@@ -7982,6 +7983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nyra and the Garden of Moros | 424038 | [424038-nyra-and-the-garden-of-moros.json](./424038-nyra-and-the-garden-of-moros.json) |
 | Nyra: The Fall of Light | 390097 | [390097-nyra-the-fall-of-light.json](./390097-nyra-the-fall-of-light.json) |
 | Nyrthos | 120242 | [120242-nyrthos.json](./120242-nyrthos.json) |
+| Nystagmus | 116537 | [116537-nystagmus.json](./116537-nystagmus.json) |
 | Nysunder | 216975 | [216975-nysunder.json](./216975-nysunder.json) |
 | NYT Crossplay: Play and Spell | 387535 | [387535-nyt-crossplay-play-and-spell.json](./387535-nyt-crossplay-play-and-spell.json) |
 | NYT Games | 280218 | [280218-nyt-games.json](./280218-nyt-games.json) |
