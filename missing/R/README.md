@@ -3111,6 +3111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Turbo Racing | 100797 | [100797-real-turbo-racing.json](./100797-real-turbo-racing.json) |
 | Real Turmoil | 302408 | [302408-real-turmoil.json](./302408-real-turmoil.json) |
 | Real Vampires | 351402 | [351402-real-vampires.json](./351402-real-vampires.json) |
+| Real Video Blackjack | 79462 | [79462-real-video-blackjack.json](./79462-real-video-blackjack.json) |
 | Real VR Fishing | 130566 | [130566-real-vr-fishing.json](./130566-real-vr-fishing.json) |
 | Real War | 27595 | [27595-real-war.json](./27595-real-war.json) |
 | Real War: Rogue States | 72294 | [72294-real-war-rogue-states.json](./72294-real-war-rogue-states.json) |
@@ -6789,6 +6790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revisitor | 148832 | [148832-revisitor.json](./148832-revisitor.json) |
 | Revita | 139672 | [139672-revita.json](./139672-revita.json) |
 | Revival | 399205 | [399205-revival.json](./399205-revival.json) |
+| Revival | 79480 | [79480-revival.json](./79480-revival.json) |
 | Revival and Exploration | 252130 | [252130-revival-and-exploration.json](./252130-revival-and-exploration.json) |
 | Revival AO | 212245 | [212245-revival-ao.json](./212245-revival-ao.json) |
 | Revival Chase | 360122 | [360122-revival-chase.json](./360122-revival-chase.json) |
