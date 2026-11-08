@@ -1276,6 +1276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Maj'Eyal | 8796 | [8796-tales-of-majeyal.json](./8796-tales-of-majeyal.json) |
 | Tales of Maj'Eyal: Ashes of Urh'Rok | 8797 | [8797-tales-of-majeyal-ashes-of-urhrok.json](./8797-tales-of-majeyal-ashes-of-urhrok.json) |
 | Tales of Maj'Eyal: Embers of Rage | 51930 | [51930-tales-of-majeyal-embers-of-rage.json](./51930-tales-of-majeyal-embers-of-rage.json) |
+| Tales of Maj'Eyal: Forbidden Cults | 124929 | [124929-tales-of-majeyal-forbidden-cults.json](./124929-tales-of-majeyal-forbidden-cults.json) |
 | Tales of Mathasia | 239743 | [239743-tales-of-mathasia.json](./239743-tales-of-mathasia.json) |
 | Tales of Meadows | 350773 | [350773-tales-of-meadows.json](./350773-tales-of-meadows.json) |
 | Tales of Medieval Duelists | 389982 | [389982-tales-of-medieval-duelists.json](./389982-tales-of-medieval-duelists.json) |
@@ -3797,6 +3798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempest X3 | 71878 | [71878-tempest-x3.json](./71878-tempest-x3.json) |
 | Tempest: Evolved | 329640 | [329640-tempest-evolved.json](./329640-tempest-evolved.json) |
 | Tempest: Pirate Action RPG | 83322 | [83322-tempest-pirate-action-rpg.json](./83322-tempest-pirate-action-rpg.json) |
+| Tempest: Pirate City | 124941 | [124941-tempest-pirate-city.json](./124941-tempest-pirate-city.json) |
 | Tempest: Pirate Edition | 53716 | [53716-tempest-pirate-edition.json](./53716-tempest-pirate-edition.json) |
 | Tempest: Tower of Probatio | 271561 | [271561-tempest-tower-of-probatio.json](./271561-tempest-tower-of-probatio.json) |
 | Tempest: Treasure Lands | 151542 | [151542-tempest-treasure-lands.json](./151542-tempest-treasure-lands.json) |
@@ -11064,6 +11066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hovering Castle | 290357 | [290357-the-hovering-castle.json](./290357-the-hovering-castle.json) |
 | The Howl | 179491 | [179491-the-howl.json](./179491-the-howl.json) |
 | The Howler | 11838 | [11838-the-howler.json](./11838-the-howler.json) |
+| The Hugo Trilogy | 124942 | [124942-the-hugo-trilogy.json](./124942-the-hugo-trilogy.json) |
 | The Hula Hamsters | 71797 | [71797-the-hula-hamsters.json](./71797-the-hula-hamsters.json) |
 | The Hum: Abductions | 56876 | [56876-the-hum-abductions.json](./56876-the-hum-abductions.json) |
 | The Human Heart | 177913 | [177913-the-human-heart.json](./177913-the-human-heart.json) |
@@ -20378,6 +20381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | This Child of Mine | 89642 | [89642-this-child-of-mine.json](./89642-this-child-of-mine.json) |
 | This City at Night | 232779 | [232779-this-city-at-night.json](./232779-this-city-at-night.json) |
 | This Company of Mine | 309355 | [309355-this-company-of-mine.json](./309355-this-company-of-mine.json) |
+| This Dead Winter | 124928 | [124928-this-dead-winter.json](./124928-this-dead-winter.json) |
 | This Discord Has Ghosts in it | 134647 | [134647-this-discord-has-ghosts-in-it.json](./134647-this-discord-has-ghosts-in-it.json) |
 | This Emptiness | 229598 | [229598-this-emptiness.json](./229598-this-emptiness.json) |
 | This Game | 232780 | [232780-this-game.json](./232780-this-game.json) |
@@ -31251,6 +31255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tri-Strip | 85456 | [85456-tri-strip.json](./85456-tri-strip.json) |
 | Tri-Tri-Triobelisk | 257243 | [257243-tri-tri-triobelisk.json](./257243-tri-tri-triobelisk.json) |
 | Tri: Of Friendship and Madness | 2998 | [2998-tri-of-friendship-and-madness.json](./2998-tri-of-friendship-and-madness.json) |
+| Tri: Of Friendship and Madness - Deluxe Edition | 124903 | [124903-tri-of-friendship-and-madness-deluxe-edition.json](./124903-tri-of-friendship-and-madness-deluxe-edition.json) |
 | Tri.Defender | 30933 | [30933-tri-defender.json](./30933-tri-defender.json) |
 | Tri6: Infinite | 132538 | [132538-tri6-infinite.json](./132538-tri6-infinite.json) |
 | Tri6: Infinite 2 | 381199 | [381199-tri6-infinite-2.json](./381199-tri6-infinite-2.json) |
