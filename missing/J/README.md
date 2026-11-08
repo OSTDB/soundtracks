@@ -1194,6 +1194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jerry's Autowalking Adventure to Rescue His Cheese | 278080 | [278080-jerrys-autowalking-adventure-to-rescue-his-cheese.json](./278080-jerrys-autowalking-adventure-to-rescue-his-cheese.json) |
 | Jerry's Merry Christmas | 310659 | [310659-jerrys-merry-christmas.json](./310659-jerrys-merry-christmas.json) |
 | Jersey Devil | 45077 | [45077-jersey-devil.json](./45077-jersey-devil.json) |
+| Jersey GTL | 79486 | [79486-jersey-gtl.json](./79486-jersey-gtl.json) |
 | Jerusalem: The Three Roads to the Holy Land | 70735 | [70735-jerusalem-the-three-roads-to-the-holy-land.json](./70735-jerusalem-the-three-roads-to-the-holy-land.json) |
 | Jery Mice vs Cats: Home Invasion | 271004 | [271004-jery-mice-vs-cats-home-invasion.json](./271004-jery-mice-vs-cats-home-invasion.json) |
 | Jesse 'The Body' Ventura Wrestling Superstars | 46256 | [46256-jesse-the-body-ventura-wrestling-superstars.json](./46256-jesse-the-body-ventura-wrestling-superstars.json) |
