@@ -76,6 +76,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L'entraînement des Guerriers | 322467 | [322467-lentrainement-des-guerriers.json](./322467-lentrainement-des-guerriers.json) |
 | L'Eredità | 317207 | [317207-leredita.json](./317207-leredita.json) |
 | L'esprit du loup | 144074 | [144074-lesprit-du-loup.json](./144074-lesprit-du-loup.json) |
+| L'Etranger | 119877 | [119877-letranger.json](./119877-letranger.json) |
 | L'Histoire de France Pour Les Nuls | 269633 | [269633-lhistoire-de-france-pour-les-nuls.json](./269633-lhistoire-de-france-pour-les-nuls.json) |
 | L'Île Archéo | 285119 | [285119-lile-archeo.json](./285119-lile-archeo.json) |
 | L'Impiccato in Italiano | 96042 | [96042-limpiccato-in-italiano.json](./96042-limpiccato-in-italiano.json) |
