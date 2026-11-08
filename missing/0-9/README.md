@@ -1385,6 +1385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1953: NATO vs Warsaw Pact | 17886 | [17886-1953-nato-vs-warsaw-pact.json](./17886-1953-nato-vs-warsaw-pact.json) |
 | 1958: Dancing with Fear | 216434 | [216434-1958-dancing-with-fear.json](./216434-1958-dancing-with-fear.json) |
 | 1968 | 141731 | [141731-1968.json](./141731-1968.json) |
+| 1971 Project Helios: Collector's Edition | 136006 | [136006-1971-project-helios-collectors-edition.json](./136006-1971-project-helios-collectors-edition.json) |
 | 1971: Indian Naval Front | 110956 | [110956-1971-indian-naval-front.json](./110956-1971-indian-naval-front.json) |
 | 1976: Back to Midway | 168708 | [168708-1976-back-to-midway.json](./168708-1976-back-to-midway.json) |
 | 1977: Radio Aut | 135236 | [135236-1977-radio-aut.json](./135236-1977-radio-aut.json) |
@@ -2175,6 +2176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 30 Floors of Madness | 308952 | [308952-30-floors-of-madness.json](./308952-30-floors-of-madness.json) |
 | 30 Impossible Levels | 33054 | [33054-30-impossible-levels.json](./33054-30-impossible-levels.json) |
 | 30 in 1 Family Games Mega Collection | 391259 | [391259-30-in-1-family-games-mega-collection.json](./391259-30-in-1-family-games-mega-collection.json) |
+| 30 in 1 Game Collection Vol.1 | 135976 | [135976-30-in-1-game-collection-vol-1.json](./135976-30-in-1-game-collection-vol-1.json) |
 | 30 Minutes to Die | 214691 | [214691-30-minutes-to-die.json](./214691-30-minutes-to-die.json) |
 | 30 Minutes to Rescue | 398035 | [398035-30-minutes-to-rescue.json](./398035-30-minutes-to-rescue.json) |
 | 30 minutes until my brain dies | 358080 | [358080-30-minutes-until-my-brain-dies.json](./358080-30-minutes-until-my-brain-dies.json) |
