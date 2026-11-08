@@ -1378,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VEmpire - The Kings of Darkness | 54830 | [54830-vempire-the-kings-of-darkness.json](./54830-vempire-the-kings-of-darkness.json) |
 | Ven Adventure | 216495 | [216495-ven-adventure.json](./216495-ven-adventure.json) |
 | Ven Games | 145472 | [145472-ven-games.json](./145472-ven-games.json) |
+| Ven VR Adventure | 129938 | [129938-ven-vr-adventure.json](./129938-ven-vr-adventure.json) |
 | Ven'rif | 342900 | [342900-venrif.json](./342900-venrif.json) |
 | Vena | 378561 | [378561-vena.json](./378561-vena.json) |
 | Venal Soul: Chapter One | 99132 | [99132-venal-soul-chapter-one.json](./99132-venal-soul-chapter-one.json) |
