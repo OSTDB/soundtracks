@@ -1944,10 +1944,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Puzzles - Games for Girls | 90029 | [90029-jigsaw-puzzles-games-for-girls.json](./90029-jigsaw-puzzles-games-for-girls.json) |
 | Jigsaw Puzzles All in One | 239115 | [239115-jigsaw-puzzles-all-in-one.json](./239115-jigsaw-puzzles-all-in-one.json) |
 | Jigsaw Puzzles Epic | 83424 | [83424-jigsaw-puzzles-epic.json](./83424-jigsaw-puzzles-epic.json) |
+| Jigsaw Puzzles for Adults | 88408 | [88408-jigsaw-puzzles-for-adults.json](./88408-jigsaw-puzzles-for-adults.json) |
 | Jigsaw Puzzles for Kids and Adults: Cute | 162232 | [162232-jigsaw-puzzles-for-kids-and-adults-cute.json](./162232-jigsaw-puzzles-for-kids-and-adults-cute.json) |
 | Jigsaw Puzzles for Kids and Adults: Europe | 162236 | [162236-jigsaw-puzzles-for-kids-and-adults-europe.json](./162236-jigsaw-puzzles-for-kids-and-adults-europe.json) |
 | Jigsaw Puzzles for Kids and Adults: Islands | 162231 | [162231-jigsaw-puzzles-for-kids-and-adults-islands.json](./162231-jigsaw-puzzles-for-kids-and-adults-islands.json) |
 | Jigsaw Puzzles Free by WallpaperFusion | 90937 | [90937-jigsaw-puzzles-free-by-wallpaperfusion.json](./90937-jigsaw-puzzles-free-by-wallpaperfusion.json) |
+| Jigsaw Puzzles Halloween | 88340 | [88340-jigsaw-puzzles-halloween.json](./88340-jigsaw-puzzles-halloween.json) |
 | Jigsaw Puzzles Infinite | 197498 | [197498-jigsaw-puzzles-infinite.json](./197498-jigsaw-puzzles-infinite.json) |
 | Jigsaw Puzzles Infinite: Cats & Dogs Puzzle Pack | 286238 | [286238-jigsaw-puzzles-infinite-cats-and-dogs-puzzle-pack.json](./286238-jigsaw-puzzles-infinite-cats-and-dogs-puzzle-pack.json) |
 | Jigsaw Puzzles Infinite: Classic Puzzle Pack | 263643 | [263643-jigsaw-puzzles-infinite-classic-puzzle-pack.json](./263643-jigsaw-puzzles-infinite-classic-puzzle-pack.json) |
