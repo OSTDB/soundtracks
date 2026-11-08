@@ -657,6 +657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Paintball | 49901 | [49901-ultimate-paintball.json](./49901-ultimate-paintball.json) |
 | Ultimate Paintball Challenge | 206620 | [206620-ultimate-paintball-challenge.json](./206620-ultimate-paintball-challenge.json) |
 | Ultimate Paintbrawl 3 | 8541 | [8541-ultimate-paintbrawl-3.json](./8541-ultimate-paintbrawl-3.json) |
+| Ultimate Panic Flight | 90014 | [90014-ultimate-panic-flight.json](./90014-ultimate-panic-flight.json) |
 | Ultimate Panzer | 216490 | [216490-ultimate-panzer.json](./216490-ultimate-panzer.json) |
 | Ultimate Party Challenge | 51059 | [51059-ultimate-party-challenge.json](./51059-ultimate-party-challenge.json) |
 | Ultimate Pet Shop Simulator | 417322 | [417322-ultimate-pet-shop-simulator.json](./417322-ultimate-pet-shop-simulator.json) |
@@ -814,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Wizard | 398392 | [398392-ultimate-wizard.json](./398392-ultimate-wizard.json) |
 | Ultimate Wobble Run | 407102 | [407102-ultimate-wobble-run.json](./407102-ultimate-wobble-run.json) |
 | Ultimate Wolf Simulator | 88943 | [88943-ultimate-wolf-simulator.json](./88943-ultimate-wolf-simulator.json) |
+| Ultimate Word Search (Wordsearch) | 90025 | [90025-ultimate-word-search-wordsearch.json](./90025-ultimate-word-search-wordsearch.json) |
 | Ultimate Word Search 2: Letter Boxed | 31678 | [31678-ultimate-word-search-2-letter-boxed.json](./31678-ultimate-word-search-2-letter-boxed.json) |
 | Ultimate Yahtzee | 69218 | [69218-ultimate-yahtzee.json](./69218-ultimate-yahtzee.json) |
 | Ultimate Zombie Death Ball | 194815 | [194815-ultimate-zombie-death-ball.json](./194815-ultimate-zombie-death-ball.json) |
