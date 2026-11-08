@@ -9063,6 +9063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love with Furry | 192505 | [192505-love-with-furry.json](./192505-love-with-furry.json) |
 | Love with Kadyrov | 383525 | [383525-love-with-kadyrov.json](./383525-love-with-kadyrov.json) |
 | Love WMC | 395140 | [395140-love-wmc.json](./395140-love-wmc.json) |
+| Love Worthy: Episode 1 | 128753 | [128753-love-worthy-episode-1.json](./128753-love-worthy-episode-1.json) |
 | Love x Fantasy: Horny Elf | 385057 | [385057-love-x-fantasy-horny-elf.json](./385057-love-x-fantasy-horny-elf.json) |
 | Love X Love | 422083 | [422083-love-x-love.json](./422083-love-x-love.json) |
 | Love x Time | 235743 | [235743-love-x-time.json](./235743-love-x-time.json) |
