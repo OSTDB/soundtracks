@@ -672,6 +672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halfway | 178445 | [178445-halfway.json](./178445-halfway.json) |
 | Halfway | 377170 | [377170-halfway.json](./377170-halfway.json) |
 | Halfway | 8800 | [8800-halfway.json](./8800-halfway.json) |
+| Halfway Home | 111259 | [111259-halfway-home.json](./111259-halfway-home.json) |
 | Halfway House | 140726 | [140726-halfway-house.json](./140726-halfway-house.json) |
 | Halfway to Dawn | 249362 | [249362-halfway-to-dawn.json](./249362-halfway-to-dawn.json) |
 | Haligen Zero | 405135 | [405135-haligen-zero.json](./405135-haligen-zero.json) |
@@ -6256,6 +6257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Fantasia | 168656 | [168656-heroes-of-fantasia.json](./168656-heroes-of-fantasia.json) |
 | Heroes of Flatlandia | 174597 | [174597-heroes-of-flatlandia.json](./174597-heroes-of-flatlandia.json) |
 | Heroes of Fortune | 279416 | [279416-heroes-of-fortune.json](./279416-heroes-of-fortune.json) |
+| Heroes of Fortunia | 111134 | [111134-heroes-of-fortunia.json](./111134-heroes-of-fortunia.json) |
 | Heroes of Gaia | 63867 | [63867-heroes-of-gaia.json](./63867-heroes-of-gaia.json) |
 | Heroes of Hammerwatch II | 319818 | [319818-heroes-of-hammerwatch-ii.json](./319818-heroes-of-hammerwatch-ii.json) |
 | Heroes of Hammerwatch II: Celestial Ruins | 411671 | [411671-heroes-of-hammerwatch-ii-celestial-ruins.json](./411671-heroes-of-hammerwatch-ii-celestial-ruins.json) |
@@ -11582,6 +11584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Howrse | 152750 | [152750-howrse.json](./152750-howrse.json) |
 | Howz-it! | 109520 | [109520-howz-it.json](./109520-howz-it.json) |
 | Howzat | 262008 | [262008-howzat.json](./262008-howzat.json) |
+| Hoyeonjigi | 111251 | [111251-hoyeonjigi.json](./111251-hoyeonjigi.json) |
 | Hoyle Backgammon | 54105 | [54105-hoyle-backgammon.json](./54105-hoyle-backgammon.json) |
 | Hoyle Blackjack | 62395 | [62395-hoyle-blackjack.json](./62395-hoyle-blackjack.json) |
 | Hoyle Board Games | 69737 | [69737-hoyle-board-games.json](./69737-hoyle-board-games.json) |
