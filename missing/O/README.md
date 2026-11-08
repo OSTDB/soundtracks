@@ -2806,6 +2806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One-armed Cook: Ships and Oceans | 247784 | [247784-one-armed-cook-ships-and-oceans.json](./247784-one-armed-cook-ships-and-oceans.json) |
 | One-Eyed Jak | 34603 | [34603-one-eyed-jak.json](./34603-one-eyed-jak.json) |
 | One-Eyed Lee and the Dinner Party | 127382 | [127382-one-eyed-lee-and-the-dinner-party.json](./127382-one-eyed-lee-and-the-dinner-party.json) |
+| One-Eyed Lee: Prologue | 134787 | [134787-one-eyed-lee-prologue.json](./134787-one-eyed-lee-prologue.json) |
 | One-Eyed Likho | 250955 | [250955-one-eyed-likho.json](./250955-one-eyed-likho.json) |
 | One-Eyed Ripper | 185232 | [185232-one-eyed-ripper.json](./185232-one-eyed-ripper.json) |
 | One-Hit Slayer! Swordog | 367963 | [367963-one-hit-slayer-swordog.json](./367963-one-hit-slayer-swordog.json) |
@@ -4069,6 +4070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Order & Chaos Duels | 38686 | [38686-order-and-chaos-duels.json](./38686-order-and-chaos-duels.json) |
 | Order 13 | 329109 | [329109-order-13.json](./329109-order-13.json) |
 | Order 13 VR | 402889 | [402889-order-13-vr.json](./402889-order-13-vr.json) |
+| Order A Pizza: A Visual Novel | 134805 | [134805-order-a-pizza-a-visual-novel.json](./134805-order-a-pizza-a-visual-novel.json) |
 | Order Automatica | 213444 | [213444-order-automatica.json](./213444-order-automatica.json) |
 | Order Daybreak | 304950 | [304950-order-daybreak.json](./304950-order-daybreak.json) |
 | Order from Caos | 139340 | [139340-order-from-caos.json](./139340-order-from-caos.json) |
@@ -5414,6 +5416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outpost Auriga IV | 282614 | [282614-outpost-auriga-iv.json](./282614-outpost-auriga-iv.json) |
 | Outpost Delta | 123030 | [123030-outpost-delta.json](./123030-outpost-delta.json) |
 | Outpost Engineer | 144473 | [144473-outpost-engineer.json](./144473-outpost-engineer.json) |
+| Outpost Horizon Station | 134794 | [134794-outpost-horizon-station.json](./134794-outpost-horizon-station.json) |
 | Outpost in the Dragon's Maw | 383701 | [383701-outpost-in-the-dragons-maw.json](./383701-outpost-in-the-dragons-maw.json) |
 | Outpost Kaloki X | 20508 | [20508-outpost-kaloki-x.json](./20508-outpost-kaloki-x.json) |
 | Outpost L5 | 50509 | [50509-outpost-l5.json](./50509-outpost-l5.json) |
