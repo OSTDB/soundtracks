@@ -430,6 +430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakkou no Kaidan | 203504 | [203504-gakkou-no-kaidan.json](./203504-gakkou-no-kaidan.json) |
 | Gakkou no Kaidan DS | 269606 | [269606-gakkou-no-kaidan-ds.json](./269606-gakkou-no-kaidan-ds.json) |
 | Gakkou no Kaidan: Hyakuyoubako no Fuuin | 49566 | [49566-gakkou-no-kaidan-hyakuyoubako-no-fuuin.json](./49566-gakkou-no-kaidan-hyakuyoubako-no-fuuin.json) |
+| Gakkou no Kowai Uwasa: Hanako-san ga Kita!! | 112533 | [112533-gakkou-no-kowai-uwasa-hanako-san-ga-kita.json](./112533-gakkou-no-kowai-uwasa-hanako-san-ga-kita.json) |
 | Gakkou wo Tsukurou!! 2 | 363956 | [363956-gakkou-wo-tsukurou-2.json](./363956-gakkou-wo-tsukurou-2.json) |
 | Gakkou wo Tsukurou!! Advance | 49565 | [49565-gakkou-wo-tsukurou-advance.json](./49565-gakkou-wo-tsukurou-advance.json) |
 | Gakkou wo Tsukurou!! Happy Days | 326855 | [326855-gakkou-wo-tsukurou-happy-days.json](./326855-gakkou-wo-tsukurou-happy-days.json) |
@@ -1243,6 +1244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game About Jetpack Fly | 320537 | [320537-game-about-jetpack-fly.json](./320537-game-about-jetpack-fly.json) |
 | Game After School | 233446 | [233446-game-after-school.json](./233446-game-after-school.json) |
 | Game Battle Tycoon | 186999 | [186999-game-battle-tycoon.json](./186999-game-battle-tycoon.json) |
+| Game Book DS: Aquarian Age Perpetual Period | 112527 | [112527-game-book-ds-aquarian-age-perpetual-period.json](./112527-game-book-ds-aquarian-age-perpetual-period.json) |
 | Game Book DS: Koukaku no Regios | 131059 | [131059-game-book-ds-koukaku-no-regios.json](./131059-game-book-ds-koukaku-no-regios.json) |
 | Game Box Série Corridas | 130839 | [130839-game-box-serie-corridas.json](./130839-game-box-serie-corridas.json) |
 | Game Box Série Esportes | 93173 | [93173-game-box-serie-esportes.json](./93173-game-box-serie-esportes.json) |
@@ -4374,6 +4376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gigablast | 66603 | [66603-gigablast.json](./66603-gigablast.json) |
 | Gigabonk: Mega Survivors | 376243 | [376243-gigabonk-mega-survivors.json](./376243-gigabonk-mega-survivors.json) |
 | Gigabot Run | 365233 | [365233-gigabot-run.json](./365233-gigabot-run.json) |
+| Gigabuster | 112454 | [112454-gigabuster.json](./112454-gigabuster.json) |
 | Gigachess: Brilliant Blitz Level Pack | 166224 | [166224-gigachess-brilliant-blitz-level-pack.json](./166224-gigachess-brilliant-blitz-level-pack.json) |
 | Gigachomp | 421844 | [421844-gigachomp.json](./421844-gigachomp.json) |
 | Gigacrab: Getting Over The Meme | 330123 | [330123-gigacrab-getting-over-the-meme.json](./330123-gigacrab-getting-over-the-meme.json) |
@@ -6385,6 +6388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoFetch | 106449 | [106449-gofetch.json](./106449-gofetch.json) |
 | GoFish: Avoid the Dams | 252571 | [252571-gofish-avoid-the-dams.json](./252571-gofish-avoid-the-dams.json) |
 | GoFishing 3D | 119508 | [119508-gofishing-3d.json](./119508-gofishing-3d.json) |
+| Gofungo no Sekai: Five Minutes from nowhere | 112546 | [112546-gofungo-no-sekai-five-minutes-from-nowhere.json](./112546-gofungo-no-sekai-five-minutes-from-nowhere.json) |
 | GOG Adventure & Puzzle Bundle | 233352 | [233352-gog-adventure-and-puzzle-bundle.json](./233352-gog-adventure-and-puzzle-bundle.json) |
 | GOG Collection Shooter Pack | 233349 | [233349-gog-collection-shooter-pack.json](./233349-gog-collection-shooter-pack.json) |
 | GoGeez | 410296 | [410296-gogeez.json](./410296-gogeez.json) |
@@ -8463,6 +8467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Filler | 320185 | [320185-grave-filler.json](./320185-grave-filler.json) |
 | Grave Girl | 344700 | [344700-grave-girl.json](./344700-grave-girl.json) |
 | Grave Gunner | 280289 | [280289-grave-gunner.json](./280289-grave-gunner.json) |
+| Grave Keeper | 112444 | [112444-grave-keeper.json](./112444-grave-keeper.json) |
 | Grave Knight | 156968 | [156968-grave-knight.json](./156968-grave-knight.json) |
 | Grave Man | 179694 | [179694-grave-man.json](./179694-grave-man.json) |
 | Grave Mania: Pandemic Pandemonium | 31651 | [31651-grave-mania-pandemic-pandemonium.json](./31651-grave-mania-pandemic-pandemonium.json) |
