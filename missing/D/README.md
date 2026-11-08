@@ -1871,6 +1871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Realm 2: Princess of Ice | 46957 | [46957-dark-realm-2-princess-of-ice.json](./46957-dark-realm-2-princess-of-ice.json) |
 | Dark Realm: Guardian of Flames | 91168 | [91168-dark-realm-guardian-of-flames.json](./91168-dark-realm-guardian-of-flames.json) |
 | Dark Realm: Princess of Ice - Collector's Edition | 59147 | [59147-dark-realm-princess-of-ice-collectors-edition.json](./59147-dark-realm-princess-of-ice-collectors-edition.json) |
+| Dark Realm: Princess of Ice HD | 99308 | [99308-dark-realm-princess-of-ice-hd.json](./99308-dark-realm-princess-of-ice-hd.json) |
 | Dark Realm: Queen of Flames | 139797 | [139797-dark-realm-queen-of-flames.json](./139797-dark-realm-queen-of-flames.json) |
 | Dark Realm: Queen of Flames - Collector's Edition | 29502 | [29502-dark-realm-queen-of-flames-collectors-edition.json](./29502-dark-realm-queen-of-flames-collectors-edition.json) |
 | Dark Realm: Queen of Flames - Collector's Edition HD | 88309 | [88309-dark-realm-queen-of-flames-collectors-edition-hd.json](./88309-dark-realm-queen-of-flames-collectors-edition-hd.json) |
@@ -10032,6 +10033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Safari: Evolution | 107123 | [107123-dinosaur-safari-evolution.json](./107123-dinosaur-safari-evolution.json) |
 | Dinosaur Shakespeare: To Date or Not to Date? | 120682 | [120682-dinosaur-shakespeare-to-date-or-not-to-date.json](./120682-dinosaur-shakespeare-to-date-or-not-to-date.json) |
 | Dinosaur Shakespeare: To Date Or Not To Date? - 2 Winter of our Discontent | 253975 | [253975-dinosaur-shakespeare-to-date-or-not-to-date-2-winter-of-our-discontent.json](./253975-dinosaur-shakespeare-to-date-or-not-to-date-2-winter-of-our-discontent.json) |
+| Dinosaur Simulator | 99274 | [99274-dinosaur-simulator.json](./99274-dinosaur-simulator.json) |
 | Dinosaur Simulator 2019 | 231964 | [231964-dinosaur-simulator-2019.json](./231964-dinosaur-simulator-2019.json) |
 | Dinosaur Stacker | 108250 | [108250-dinosaur-stacker.json](./108250-dinosaur-stacker.json) |
 | Dinosaur Survival Run: Jungle of Despair | 51686 | [51686-dinosaur-survival-run-jungle-of-despair.json](./51686-dinosaur-survival-run-jungle-of-despair.json) |
@@ -15874,6 +15876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragoon X Omega II: Easy Mode | 269777 | [269777-dragoon-x-omega-ii-easy-mode.json](./269777-dragoon-x-omega-ii-easy-mode.json) |
 | Dragoon: The Battles of Frederick the Great | 62266 | [62266-dragoon-the-battles-of-frederick-the-great.json](./62266-dragoon-the-battles-of-frederick-the-great.json) |
 | Dragoon's Journey | 229225 | [229225-dragoons-journey.json](./229225-dragoons-journey.json) |
+| Dragooned | 99676 | [99676-dragooned.json](./99676-dragooned.json) |
 | Dragooner | 380989 | [380989-dragooner.json](./380989-dragooner.json) |
 | Dragot | 251821 | [251821-dragot.json](./251821-dragot.json) |
 | Dragrave Marauders | 339564 | [339564-dragrave-marauders.json](./339564-dragrave-marauders.json) |
@@ -19768,6 +19771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite Golf | 175210 | [175210-dynamite-golf.json](./175210-dynamite-golf.json) |
 | Dynamite Headdy | 22744 | [22744-dynamite-headdy.json](./22744-dynamite-headdy.json) |
 | Dynamite Headdy | 260839 | [260839-dynamite-headdy.json](./260839-dynamite-headdy.json) |
+| Dynamite Headdy Classic | 99292 | [99292-dynamite-headdy-classic.json](./99292-dynamite-headdy-classic.json) |
 | Dynamite It! | 297087 | [297087-dynamite-it.json](./297087-dynamite-it.json) |
 | Dynamite Joe | 300545 | [300545-dynamite-joe.json](./300545-dynamite-joe.json) |
 | Dynamite Soccer 2000 | 61336 | [61336-dynamite-soccer-2000.json](./61336-dynamite-soccer-2000.json) |
