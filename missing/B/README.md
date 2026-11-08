@@ -1769,6 +1769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Slider Mania | 307371 | [307371-balloon-slider-mania.json](./307371-balloon-slider-mania.json) |
 | Balloon Smash | 130693 | [130693-balloon-smash.json](./130693-balloon-smash.json) |
 | Balloon Star | 368980 | [368980-balloon-star.json](./368980-balloon-star.json) |
+| Balloon Strike | 100457 | [100457-balloon-strike.json](./100457-balloon-strike.json) |
 | Balloon to the Moon 2 | 316083 | [316083-balloon-to-the-moon-2.json](./316083-balloon-to-the-moon-2.json) |
 | Balloon Up | 108578 | [108578-balloon-up.json](./108578-balloon-up.json) |
 | Balloonacy | 13372 | [13372-balloonacy.json](./13372-balloonacy.json) |
@@ -5075,6 +5076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bearbarians | 62809 | [62809-bearbarians.json](./62809-bearbarians.json) |
 | Bearbushkas | 86653 | [86653-bearbushkas.json](./86653-bearbushkas.json) |
 | Bearcycle | 197125 | [197125-bearcycle.json](./197125-bearcycle.json) |
+| Beard & Axe | 100467 | [100467-beard-and-axe.json](./100467-beard-and-axe.json) |
 | Beard Blade | 24517 | [24517-beard-blade.json](./24517-beard-blade.json) |
 | Beard of Stone | 167424 | [167424-beard-of-stone.json](./167424-beard-of-stone.json) |
 | Beardbarians | 317900 | [317900-beardbarians.json](./317900-beardbarians.json) |
@@ -7451,6 +7453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bid Battle: Auction War Simulator Storage Hunter | 310459 | [310459-bid-battle-auction-war-simulator-storage-hunter.json](./310459-bid-battle-auction-war-simulator-storage-hunter.json) |
 | Bid King | 390605 | [390605-bid-king.json](./390605-bid-king.json) |
 | Bid War: Auction Simulator Storage Hunter | 254007 | [254007-bid-war-auction-simulator-storage-hunter.json](./254007-bid-war-auction-simulator-storage-hunter.json) |
+| Bid Wars: Storage Auctions & Pawn Shop Game | 101115 | [101115-bid-wars-storage-auctions-and-pawn-shop-game.json](./101115-bid-wars-storage-auctions-and-pawn-shop-game.json) |
 | Bid Whist Plus | 140742 | [140742-bid-whist-plus.json](./140742-bid-whist-plus.json) |
 | Bid Whist: Card Game | 220817 | [220817-bid-whist-card-game.json](./220817-bid-whist-card-game.json) |
 | Bidding Contest | 99312 | [99312-bidding-contest.json](./99312-bidding-contest.json) |
@@ -13119,6 +13122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonfire Peaks: Complete Edition | 278648 | [278648-bonfire-peaks-complete-edition.json](./278648-bonfire-peaks-complete-edition.json) |
 | Bonfire Peaks: Lost Memories | 203901 | [203901-bonfire-peaks-lost-memories.json](./203901-bonfire-peaks-lost-memories.json) |
 | Bonfire Simulator | 372790 | [372790-bonfire-simulator.json](./372790-bonfire-simulator.json) |
+| Bonfire Stories: Faceless Gravedigger | 101119 | [101119-bonfire-stories-faceless-gravedigger.json](./101119-bonfire-stories-faceless-gravedigger.json) |
 | Bonfire Stories: Faceless Gravedigger - Collector's Edition | 381374 | [381374-bonfire-stories-faceless-gravedigger-collectors-edition.json](./381374-bonfire-stories-faceless-gravedigger-collectors-edition.json) |
 | Bonfire Stories: Manifest Horror | 417393 | [417393-bonfire-stories-manifest-horror.json](./417393-bonfire-stories-manifest-horror.json) |
 | Bonfire Stories: Manifest Horror - Collector's Edition | 417394 | [417394-bonfire-stories-manifest-horror-collectors-edition.json](./417394-bonfire-stories-manifest-horror-collectors-edition.json) |
@@ -17374,6 +17378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build Cars with Edward and Arthur | 197186 | [197186-build-cars-with-edward-and-arthur.json](./197186-build-cars-with-edward-and-arthur.json) |
 | Build City | 91553 | [91553-build-city.json](./91553-build-city.json) |
 | Build Craft 2: Survival & Exploration | 99706 | [99706-build-craft-2-survival-and-exploration.json](./99706-build-craft-2-survival-and-exploration.json) |
+| Build Craft Exploration: Crafting & Building | 100974 | [100974-build-craft-exploration-crafting-and-building.json](./100974-build-craft-exploration-crafting-and-building.json) |
 | Build Em' Faster | 156928 | [156928-build-em-faster.json](./156928-build-em-faster.json) |
 | Build Fight Game | 285813 | [285813-build-fight-game.json](./285813-build-fight-game.json) |
 | Build For Sale Simulator | 273377 | [273377-build-for-sale-simulator.json](./273377-build-for-sale-simulator.json) |
@@ -18458,6 +18463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Stop Shuffle | 361264 | [361264-bus-stop-shuffle.json](./361264-bus-stop-shuffle.json) |
 | Bus Stop Spirit | 408191 | [408191-bus-stop-spirit.json](./408191-bus-stop-spirit.json) |
 | Bus Story: games for kids | 98999 | [98999-bus-story-games-for-kids.json](./98999-bus-story-games-for-kids.json) |
+| Bus Turbo Racing | 101124 | [101124-bus-turbo-racing.json](./101124-bus-turbo-racing.json) |
 | Bus Tycoon ND | 24995 | [24995-bus-tycoon-nd.json](./24995-bus-tycoon-nd.json) |
 | Bus Tycoon Night and Day | 254077 | [254077-bus-tycoon-night-and-day.json](./254077-bus-tycoon-night-and-day.json) |
 | Bus World | 126333 | [126333-bus-world.json](./126333-bus-world.json) |
