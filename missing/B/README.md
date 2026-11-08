@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -9660,6 +9661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Warrior | 311029 | [311029-blade-warrior.json](./311029-blade-warrior.json) |
 | Blade X: End of Darkness | 381878 | [381878-blade-x-end-of-darkness.json](./381878-blade-x-end-of-darkness.json) |
 | Blade X: Odyssey of Heroes | 281820 | [281820-blade-x-odyssey-of-heroes.json](./281820-blade-x-odyssey-of-heroes.json) |
+| Blade XLord | 133551 | [133551-blade-xlord.json](./133551-blade-xlord.json) |
 | Blade Yautja | 217709 | [217709-blade-yautja.json](./217709-blade-yautja.json) |
 | Blade-Shift Rage | 219209 | [219209-blade-shift-rage.json](./219209-blade-shift-rage.json) |
 | Blade: Trinity | 322358 | [322358-blade-trinity.json](./322358-blade-trinity.json) |
@@ -10361,6 +10363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitz | 308289 | [308289-blitz.json](./308289-blitz.json) |
 | Blitz | 380023 | [380023-blitz.json](./380023-blitz.json) |
 | Blitz & Blaze | 265775 | [265775-blitz-and-blaze.json](./265775-blitz-and-blaze.json) |
+| Blitz Arena | 133585 | [133585-blitz-arena.json](./133585-blitz-arena.json) |
 | Blitz Breaker | 17457 | [17457-blitz-breaker.json](./17457-blitz-breaker.json) |
 | Blitz Brigade | 63292 | [63292-blitz-brigade.json](./63292-blitz-brigade.json) |
 | Blitz Football 2023 | 255077 | [255077-blitz-football-2023.json](./255077-blitz-football-2023.json) |
@@ -10626,6 +10629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Magic Puzzle | 290466 | [290466-block-magic-puzzle.json](./290466-block-magic-puzzle.json) |
 | Block Man Adventures | 295557 | [295557-block-man-adventures.json](./295557-block-man-adventures.json) |
 | Block Master 3D Puzzle | 357976 | [357976-block-master-3d-puzzle.json](./357976-block-master-3d-puzzle.json) |
+| Block Maze | 133553 | [133553-block-maze.json](./133553-block-maze.json) |
 | Block Me. | 155946 | [155946-block-me.json](./155946-block-me.json) |
 | Block Meister | 206445 | [206445-block-meister.json](./206445-block-meister.json) |
 | Block Mesa 64 | 193328 | [193328-block-mesa-64.json](./193328-block-mesa-64.json) |
@@ -11993,6 +11997,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blunt Blade and a Hundred Halls | 391629 | [391629-blunt-blade-and-a-hundred-halls.json](./391629-blunt-blade-and-a-hundred-halls.json) |
 | Blunt Force | 26566 | [26566-blunt-force.json](./26566-blunt-force.json) |
 | Blunted in The Malen | 302956 | [302956-blunted-in-the-malen.json](./302956-blunted-in-the-malen.json) |
+| Blupi Explorer | 133563 | [133563-blupi-explorer.json](./133563-blupi-explorer.json) |
+| Blupi's Travels | 133558 | [133558-blupis-travels.json](./133558-blupis-travels.json) |
 | Blupimania | 137920 | [137920-blupimania.json](./137920-blupimania.json) |
 | Blur | 3235 | [3235-blur.json](./3235-blur.json) |
 | Blur Overdrive | 322545 | [322545-blur-overdrive.json](./322545-blur-overdrive.json) |
@@ -13024,6 +13030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonfire Stories: Manifest Horror | 417393 | [417393-bonfire-stories-manifest-horror.json](./417393-bonfire-stories-manifest-horror.json) |
 | Bonfire Stories: Manifest Horror - Collector's Edition | 417394 | [417394-bonfire-stories-manifest-horror-collectors-edition.json](./417394-bonfire-stories-manifest-horror-collectors-edition.json) |
 | Bonfires of Azure | 356374 | [356374-bonfires-of-azure.json](./356374-bonfires-of-azure.json) |
+| Bong | 133559 | [133559-bong.json](./133559-bong.json) |
 | Bong | 201992 | [201992-bong.json](./201992-bong.json) |
 | Bong Bong | 111549 | [111549-bong-bong.json](./111549-bong-bong.json) |
 | BongBongCapy | 400862 | [400862-bongbongcapy.json](./400862-bongbongcapy.json) |
