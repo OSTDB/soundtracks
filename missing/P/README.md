@@ -5739,6 +5739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Squadron | 168599 | [168599-phoenix-squadron.json](./168599-phoenix-squadron.json) |
 | Phoenix Strike | 129743 | [129743-phoenix-strike.json](./129743-phoenix-strike.json) |
 | Phoenix Sword: The Hidden Scroll | 355195 | [355195-phoenix-sword-the-hidden-scroll.json](./355195-phoenix-sword-the-hidden-scroll.json) |
+| Phoenix Tales | 126728 | [126728-phoenix-tales.json](./126728-phoenix-tales.json) |
 | Phoenix Wright Ace Attorney: What, When, Where They Saw the Murder | 224449 | [224449-phoenix-wright-ace-attorney-what-when-where-they-saw-the-murder.json](./224449-phoenix-wright-ace-attorney-what-when-where-they-saw-the-murder.json) |
 | Phoenix Wright: Ace Attornauts | 310003 | [310003-phoenix-wright-ace-attornauts.json](./310003-phoenix-wright-ace-attornauts.json) |
 | Phoenix Wright: Ace Attorney | 221281 | [221281-phoenix-wright-ace-attorney.json](./221281-phoenix-wright-ace-attorney.json) |
@@ -7827,6 +7828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates of the Polygon Sea | 32562 | [32562-pirates-of-the-polygon-sea.json](./32562-pirates-of-the-polygon-sea.json) |
 | Pirates of the Sea | 165770 | [165770-pirates-of-the-sea.json](./165770-pirates-of-the-sea.json) |
 | Pirates of Treasure Island | 73436 | [73436-pirates-of-treasure-island.json](./73436-pirates-of-treasure-island.json) |
+| Pirates on Deck VR | 126750 | [126750-pirates-on-deck-vr.json](./126750-pirates-on-deck-vr.json) |
 | Pirates on Target | 187536 | [187536-pirates-on-target.json](./187536-pirates-on-target.json) |
 | Pirates Outlaws 2: Heritage | 320892 | [320892-pirates-outlaws-2-heritage.json](./320892-pirates-outlaws-2-heritage.json) |
 | Pirates Overboard | 185533 | [185533-pirates-overboard.json](./185533-pirates-overboard.json) |
