@@ -3123,6 +3123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manga de Tantei Mystery | 260692 | [260692-manga-de-tantei-mystery.json](./260692-manga-de-tantei-mystery.json) |
 | Manga English Native Phrase Quiz | 409544 | [409544-manga-english-native-phrase-quiz.json](./409544-manga-english-native-phrase-quiz.json) |
 | Manga Kakeru | 98606 | [98606-manga-kakeru.json](./98606-manga-kakeru.json) |
+| Manga Mahjongg | 78835 | [78835-manga-mahjongg.json](./78835-manga-mahjongg.json) |
 | Manga Ninja | 358432 | [358432-manga-ninja.json](./358432-manga-ninja.json) |
 | Manga Puzzle | 21463 | [21463-manga-puzzle.json](./21463-manga-puzzle.json) |
 | Manga Solitaire | 73844 | [73844-manga-solitaire.json](./73844-manga-solitaire.json) |
@@ -5771,6 +5772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Match Three | 348433 | [348433-math-match-three.json](./348433-math-match-three.json) |
 | Math Mayhem!! | 281831 | [281831-math-mayhem.json](./281831-math-mayhem.json) |
 | Math Maze | 387697 | [387697-math-maze.json](./387697-math-maze.json) |
+| Math Maze | 78817 | [78817-math-maze.json](./78817-math-maze.json) |
 | Math Mind Twist | 131083 | [131083-math-mind-twist.json](./131083-math-mind-twist.json) |
 | Math Missions | 84446 | [84446-math-missions.json](./84446-math-missions.json) |
 | Math Missions: The Amazing Arcade Adventure Grades 3-5 | 209545 | [209545-math-missions-the-amazing-arcade-adventure-grades-3-5.json](./209545-math-missions-the-amazing-arcade-adventure-grades-3-5.json) |
@@ -6109,7 +6111,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -10937,6 +10938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MicroLeague Wrestling | 80307 | [80307-microleague-wrestling.json](./80307-microleague-wrestling.json) |
 | MicroLink Push Your Luck | 70253 | [70253-microlink-push-your-luck.json](./70253-microlink-push-your-luck.json) |
 | MicroLink Shut the Box | 74063 | [74063-microlink-shut-the-box.json](./74063-microlink-shut-the-box.json) |
+| MicroLink Yaht | 78857 | [78857-microlink-yaht.json](./78857-microlink-yaht.json) |
 | MicroMachines | 250475 | [250475-micromachines.json](./250475-micromachines.json) |
 | MicroMachines | 94846 | [94846-micromachines.json](./94846-micromachines.json) |
 | MicroMacro: Downtown Detective | 387475 | [387475-micromacro-downtown-detective.json](./387475-micromacro-downtown-detective.json) |
@@ -17431,6 +17433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mordheim: City of the Damned - Witch Hunters | 53369 | [53369-mordheim-city-of-the-damned-witch-hunters.json](./53369-mordheim-city-of-the-damned-witch-hunters.json) |
 | Mordheim: City of the Damned - Wolf-Priest of Ulric | 53368 | [53368-mordheim-city-of-the-damned-wolf-priest-of-ulric.json](./53368-mordheim-city-of-the-damned-wolf-priest-of-ulric.json) |
 | Mordheim: Warband Skirmish | 34295 | [34295-mordheim-warband-skirmish.json](./34295-mordheim-warband-skirmish.json) |
+| Mordillo's Jungle Fever | 78858 | [78858-mordillos-jungle-fever.json](./78858-mordillos-jungle-fever.json) |
 | MorDobble: Spot The Match | 250738 | [250738-mordobble-spot-the-match.json](./250738-mordobble-spot-the-match.json) |
 | Mordon's Quest | 13018 | [13018-mordons-quest.json](./13018-mordons-quest.json) |
 | Mordor | 229109 | [229109-mordor.json](./229109-mordor.json) |
