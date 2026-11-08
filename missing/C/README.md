@@ -10163,6 +10163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Game Trio | 206971 | [206971-classic-game-trio.json](./206971-classic-game-trio.json) |
 | Classic Gamer: Colecovision Hits Volume One | 70187 | [70187-classic-gamer-colecovision-hits-volume-one.json](./70187-classic-gamer-colecovision-hits-volume-one.json) |
 | Classic Games | 87228 | [87228-classic-games.json](./87228-classic-games.json) |
+| Classic Games Collection Vol. 1 | 80111 | [80111-classic-games-collection-vol-1.json](./80111-classic-games-collection-vol-1.json) |
 | Classic Games Collection Vol.1: Holiday Edition | 280593 | [280593-classic-games-collection-vol-1-holiday-edition.json](./280593-classic-games-collection-vol-1-holiday-edition.json) |
 | Classic Games Collection Vol.1+2 Bundle | 231071 | [231071-classic-games-collection-vol-1-2-bundle.json](./231071-classic-games-collection-vol-1-2-bundle.json) |
 | Classic Games Collection Vol.2 | 219460 | [219460-classic-games-collection-vol-2.json](./219460-classic-games-collection-vol-2.json) |
@@ -14084,6 +14085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conquest | 86011 | [86011-conquest.json](./86011-conquest.json) |
 | Conquest Age | 62235 | [62235-conquest-age.json](./62235-conquest-age.json) |
 | Conquest Dark | 324257 | [324257-conquest-dark.json](./324257-conquest-dark.json) |
+| Conquest Earth: First Encounter | 80062 | [80062-conquest-earth-first-encounter.json](./80062-conquest-earth-first-encounter.json) |
 | Conquest Emperor | 369745 | [369745-conquest-emperor.json](./369745-conquest-emperor.json) |
 | Conquest Manager | 269129 | [269129-conquest-manager.json](./269129-conquest-manager.json) |
 | Conquest of Champions | 16889 | [16889-conquest-of-champions.json](./16889-conquest-of-champions.json) |
@@ -17269,6 +17271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Frog Racer | 240508 | [240508-crazy-frog-racer.json](./240508-crazy-frog-racer.json) |
 | Crazy Frog Racer | 248686 | [248686-crazy-frog-racer.json](./248686-crazy-frog-racer.json) |
 | Crazy Frog Racer | 250202 | [250202-crazy-frog-racer.json](./250202-crazy-frog-racer.json) |
+| Crazy Frog Racer 2 | 80095 | [80095-crazy-frog-racer-2.json](./80095-crazy-frog-racer-2.json) |
 | Crazy Frog Racer: Christmas Edition | 210554 | [210554-crazy-frog-racer-christmas-edition.json](./210554-crazy-frog-racer-christmas-edition.json) |
 | Crazy Frog Runner Ding Dash | 406569 | [406569-crazy-frog-runner-ding-dash.json](./406569-crazy-frog-runner-ding-dash.json) |
 | Crazy Frog: Axel F Piano Tiles | 95870 | [95870-crazy-frog-axel-f-piano-tiles.json](./95870-crazy-frog-axel-f-piano-tiles.json) |
