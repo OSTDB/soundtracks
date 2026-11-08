@@ -1651,6 +1651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys VIII: Lacrimosa of Dana - Christmas Gift Package | 212316 | [212316-ys-viii-lacrimosa-of-dana-christmas-gift-package.json](./212316-ys-viii-lacrimosa-of-dana-christmas-gift-package.json) |
 | Ys VIII: Lacrimosa of Dana - Deluxe Edition | 197609 | [197609-ys-viii-lacrimosa-of-dana-deluxe-edition.json](./197609-ys-viii-lacrimosa-of-dana-deluxe-edition.json) |
 | Ys Ⅷ: Lacrimosa of Dana - Mobile | 196324 | [196324-ys-viii-lacrimosa-of-dana-mobile.json](./196324-ys-viii-lacrimosa-of-dana-mobile.json) |
+| Ys VIII: Lacrimosa of Dana - Ultimate Resource Bundle | 124905 | [124905-ys-viii-lacrimosa-of-dana-ultimate-resource-bundle.json](./124905-ys-viii-lacrimosa-of-dana-ultimate-resource-bundle.json) |
 | Ys vs. Sora no Kiseki: Alternative Saga | 42772 | [42772-ys-vs-sora-no-kiseki-alternative-saga.json](./42772-ys-vs-sora-no-kiseki-alternative-saga.json) |
 | Ys vs. Trails in the Sky: Alternative Saga | 326629 | [326629-ys-vs-trails-in-the-sky-alternative-saga.json](./326629-ys-vs-trails-in-the-sky-alternative-saga.json) |
 | Ys X: Nordics | 229176 | [229176-ys-x-nordics.json](./229176-ys-x-nordics.json) |
