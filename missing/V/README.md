@@ -2066,6 +2066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Poker Rogue | 312867 | [312867-video-poker-rogue.json](./312867-video-poker-rogue.json) |
 | Video Poker Simulator | 296012 | [296012-video-poker-simulator.json](./296012-video-poker-simulator.json) |
 | Video Poker World Tour | 60387 | [60387-video-poker-world-tour.json](./60387-video-poker-world-tour.json) |
+| Video Pool | 113929 | [113929-video-pool.json](./113929-video-pool.json) |
 | Video Realms | 156553 | [156553-video-realms.json](./156553-video-realms.json) |
 | Video Reflex | 40648 | [40648-video-reflex.json](./40648-video-reflex.json) |
 | Video Simon | 40662 | [40662-video-simon.json](./40662-video-simon.json) |
@@ -4254,6 +4255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | vRotors Racing | 133599 | [133599-vrotors-racing.json](./133599-vrotors-racing.json) |
 | vRotors Tour | 133600 | [133600-vrotors-tour.json](./133600-vrotors-tour.json) |
 | VROVPilot: Titanic | 379918 | [379918-vrovpilot-titanic.json](./379918-vrovpilot-titanic.json) |
+| VRPaperStar | 113914 | [113914-vrpaperstar.json](./113914-vrpaperstar.json) |
 | VRpatients | 368237 | [368237-vrpatients.json](./368237-vrpatients.json) |
 | VRporize - VR FPS | 32385 | [32385-vrporize-vr-fps.json](./32385-vrporize-vr-fps.json) |
 | VRQ Test | 99032 | [99032-vrq-test.json](./99032-vrq-test.json) |
