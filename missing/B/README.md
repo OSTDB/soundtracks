@@ -975,7 +975,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7084,6 +7083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Enemy Lines: Operation Arctic Hawk | 115599 | [115599-beyond-enemy-lines-operation-arctic-hawk.json](./115599-beyond-enemy-lines-operation-arctic-hawk.json) |
 | Beyond Enemy Lines: Remastered Edition | 132608 | [132608-beyond-enemy-lines-remastered-edition.json](./132608-beyond-enemy-lines-remastered-edition.json) |
 | Beyond Enemy Lines: Vietnam | 345932 | [345932-beyond-enemy-lines-vietnam.json](./345932-beyond-enemy-lines-vietnam.json) |
+| Beyond Extinct | 131701 | [131701-beyond-extinct.json](./131701-beyond-extinct.json) |
 | Beyond Eyes | 11135 | [11135-beyond-eyes.json](./11135-beyond-eyes.json) |
 | Beyond Fallendom | 130600 | [130600-beyond-fallendom.json](./130600-beyond-fallendom.json) |
 | Beyond Fantasy | 263829 | [263829-beyond-fantasy.json](./263829-beyond-fantasy.json) |
@@ -10184,6 +10184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blendamaze | 101530 | [101530-blendamaze.json](./101530-blendamaze.json) |
 | Blender Express HD | 245259 | [245259-blender-express-hd.json](./245259-blender-express-hd.json) |
 | Blenderman | 303364 | [303364-blenderman.json](./303364-blenderman.json) |
+| Blendix: Puzzle Game | 131724 | [131724-blendix-puzzle-game.json](./131724-blendix-puzzle-game.json) |
 | Blendkins | 365362 | [365362-blendkins.json](./365362-blendkins.json) |
 | Blendoku | 259559 | [259559-blendoku.json](./259559-blendoku.json) |
 | Blendoku | 38914 | [38914-blendoku.json](./38914-blendoku.json) |
