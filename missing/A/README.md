@@ -8819,6 +8819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Idol: The Search For A Superstar | 63636 | [63636-american-idol-the-search-for-a-superstar.json](./63636-american-idol-the-search-for-a-superstar.json) |
 | American Isekai: Legends of Nipponia | 277012 | [277012-american-isekai-legends-of-nipponia.json](./277012-american-isekai-legends-of-nipponia.json) |
 | American Lowriders | 52394 | [52394-american-lowriders.json](./52394-american-lowriders.json) |
+| American MahJong Practice 2018 | 96789 | [96789-american-mahjong-practice-2018.json](./96789-american-mahjong-practice-2018.json) |
 | American Marksman | 239912 | [239912-american-marksman.json](./239912-american-marksman.json) |
 | American McGee presents: Bad Day L.A. | 20567 | [20567-american-mcgee-presents-bad-day-l-a.json](./20567-american-mcgee-presents-bad-day-l-a.json) |
 | American McGee Presents: Scrapland | 20289 | [20289-american-mcgee-presents-scrapland.json](./20289-american-mcgee-presents-scrapland.json) |
@@ -11273,6 +11274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant Simulator | 171046 | [171046-ant-simulator.json](./171046-ant-simulator.json) |
 | Ant Simulator | 18016 | [18016-ant-simulator.json](./18016-ant-simulator.json) |
 | Ant Simulator | 360700 | [360700-ant-simulator.json](./360700-ant-simulator.json) |
+| Ant Simulator 3D | 96794 | [96794-ant-simulator-3d.json](./96794-ant-simulator-3d.json) |
 | Ant Smasher | 107349 | [107349-ant-smasher.json](./107349-ant-smasher.json) |
 | Ant Smasher | 390999 | [390999-ant-smasher.json](./390999-ant-smasher.json) |
 | Ant Smasher Christmas | 352174 | [352174-ant-smasher-christmas.json](./352174-ant-smasher-christmas.json) |
