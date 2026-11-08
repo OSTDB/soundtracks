@@ -3715,6 +3715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PD Ultraman Invader | 64071 | [64071-pd-ultraman-invader.json](./64071-pd-ultraman-invader.json) |
 | PD Ultraman Link | 107621 | [107621-pd-ultraman-link.json](./107621-pd-ultraman-link.json) |
 | PD: Prope Discoverer | 230223 | [230223-pd-prope-discoverer.json](./230223-pd-prope-discoverer.json) |
+| PDC World Championship Darts | 80757 | [80757-pdc-world-championship-darts.json](./80757-pdc-world-championship-darts.json) |
 | PDC World Championship Darts 2008 | 5092 | [5092-pdc-world-championship-darts-2008.json](./5092-pdc-world-championship-darts-2008.json) |
 | PDC World Championship Darts 2009 | 50940 | [50940-pdc-world-championship-darts-2009.json](./50940-pdc-world-championship-darts-2009.json) |
 | PDI Check | 119520 | [119520-pdi-check.json](./119520-pdi-check.json) |
@@ -3791,6 +3792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peak | 184150 | [184150-peak.json](./184150-peak.json) |
 | Peak | 349524 | [349524-peak.json](./349524-peak.json) |
 | Peak | 360757 | [360757-peak.json](./360757-peak.json) |
+| Peak Angle | 80729 | [80729-peak-angle.json](./80729-peak-angle.json) |
 | Peak Angle: Drift Online | 30815 | [30815-peak-angle-drift-online.json](./30815-peak-angle-drift-online.json) |
 | Peak Angle: Drift Online - Japan Cars Pack | 225903 | [225903-peak-angle-drift-online-japan-cars-pack.json](./225903-peak-angle-drift-online-japan-cars-pack.json) |
 | Peak Bleak Blues (And Other Moods) | 120657 | [120657-peak-bleak-blues-and-other-moods.json](./120657-peak-bleak-blues-and-other-moods.json) |
@@ -13015,6 +13017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n music | 186652 | [186652-popn-music.json](./186652-popn-music.json) |
 | Pop'n Music | 281400 | [281400-popn-music.json](./281400-popn-music.json) |
 | Pop'n Music | 51020 | [51020-popn-music.json](./51020-popn-music.json) |
+| Pop'n music 10 | 80758 | [80758-popn-music-10.json](./80758-popn-music-10.json) |
 | Pop'n Music 13 Carnival | 407095 | [407095-popn-music-13-carnival.json](./407095-popn-music-13-carnival.json) |
 | Pop'n Music 2 | 78975 | [78975-popn-music-2.json](./78975-popn-music-2.json) |
 | Pop'n music 3 | 78977 | [78977-popn-music-3.json](./78977-popn-music-3.json) |
