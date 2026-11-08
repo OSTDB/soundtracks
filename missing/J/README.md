@@ -1014,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Bubble | 359055 | [359055-jelly-bubble.json](./359055-jelly-bubble.json) |
 | Jelly Collapse | 421799 | [421799-jelly-collapse.json](./421799-jelly-collapse.json) |
 | Jelly Cube Blast | 233908 | [233908-jelly-cube-blast.json](./233908-jelly-cube-blast.json) |
+| Jelly Dance | 96383 | [96383-jelly-dance.json](./96383-jelly-dance.json) |
 | Jelly Defense | 22206 | [22206-jelly-defense.json](./22206-jelly-defense.json) |
 | Jelly Drift | 177195 | [177195-jelly-drift.json](./177195-jelly-drift.json) |
 | Jelly Escape | 286641 | [286641-jelly-escape.json](./286641-jelly-escape.json) |
@@ -2586,6 +2587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Join the Pack | 207988 | [207988-join-the-pack.json](./207988-join-the-pack.json) |
 | Join Tiles: Anatolian Game to Play | 260720 | [260720-join-tiles-anatolian-game-to-play.json](./260720-join-tiles-anatolian-game-to-play.json) |
 | Join Us | 370723 | [370723-join-us.json](./370723-join-us.json) |
+| JoinDispatch | 96799 | [96799-joindispatch.json](./96799-joindispatch.json) |
 | Joinem | 40208 | [40208-joinem.json](./40208-joinem.json) |
 | Joining Hands | 68926 | [68926-joining-hands.json](./68926-joining-hands.json) |
 | Joining Hands 2 | 264970 | [264970-joining-hands-2.json](./264970-joining-hands-2.json) |
