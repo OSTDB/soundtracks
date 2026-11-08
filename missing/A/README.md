@@ -814,6 +814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Match Made In Hell | 402863 | [402863-a-match-made-in-hell.json](./402863-a-match-made-in-hell.json) |
 | A Match with a Succubus Witch | 201881 | [201881-a-match-with-a-succubus-witch.json](./201881-a-match-with-a-succubus-witch.json) |
 | A Matching Game | 299810 | [299810-a-matching-game.json](./299810-a-matching-game.json) |
+| A Matter of Caos | 126172 | [126172-a-matter-of-caos.json](./126172-a-matter-of-caos.json) |
 | A Matter of Caos: Episode 1 | 102001 | [102001-a-matter-of-caos-episode-1.json](./102001-a-matter-of-caos-episode-1.json) |
 | A Matter of Caos: Episode 2 | 101990 | [101990-a-matter-of-caos-episode-2.json](./101990-a-matter-of-caos-episode-2.json) |
 | A Matter of Caos: Episode 3 | 101922 | [101922-a-matter-of-caos-episode-3.json](./101922-a-matter-of-caos-episode-3.json) |
@@ -903,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A New Beginning | 7147 | [7147-a-new-beginning.json](./7147-a-new-beginning.json) |
 | A New Beginning: Final Cut Edition | 52535 | [52535-a-new-beginning-final-cut-edition.json](./52535-a-new-beginning-final-cut-edition.json) |
 | A New Don | 183433 | [183433-a-new-don.json](./183433-a-new-don.json) |
+| A New Home | 126137 | [126137-a-new-home.json](./126137-a-new-home.json) |
 | A New Kaizo Era | 213572 | [213572-a-new-kaizo-era.json](./213572-a-new-kaizo-era.json) |
 | A New Leaf: Memories | 167583 | [167583-a-new-leaf-memories.json](./167583-a-new-leaf-memories.json) |
 | A New Life | 137789 | [137789-a-new-life.json](./137789-a-new-life.json) |
@@ -1030,6 +1032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Plague Tale: Requiem - Collector's Edition | 192024 | [192024-a-plague-tale-requiem-collectors-edition.json](./192024-a-plague-tale-requiem-collectors-edition.json) |
 | A Plague Tale: Requiem - Protector Pack | 223447 | [223447-a-plague-tale-requiem-protector-pack.json](./223447-a-plague-tale-requiem-protector-pack.json) |
 | A Planet Full of Cats | 347109 | [347109-a-planet-full-of-cats.json](./347109-a-planet-full-of-cats.json) |
+| A Planet of Mine | 126171 | [126171-a-planet-of-mine.json](./126171-a-planet-of-mine.json) |
 | A Planet of Mine Mastermine Edition | 372521 | [372521-a-planet-of-mine-mastermine-edition.json](./372521-a-planet-of-mine-mastermine-edition.json) |
 | A Planet Wakes | 141756 | [141756-a-planet-wakes.json](./141756-a-planet-wakes.json) |
 | A Plant's Life | 63845 | [63845-a-plants-life.json](./63845-a-plants-life.json) |
@@ -3791,6 +3794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure's Pixel World | 231679 | [231679-adventures-pixel-world.json](./231679-adventures-pixel-world.json) |
 | Adventure4+ | 305199 | [305199-adventure4.json](./305199-adventure4.json) |
 | Adventureland | 2298 | [2298-adventureland.json](./2298-adventureland.json) |
+| Adventureland XL | 126118 | [126118-adventureland-xl.json](./126118-adventureland-xl.json) |
 | AdventureQuest | 79499 | [79499-adventurequest.json](./79499-adventurequest.json) |
 | AdventureQuest 3D | 33823 | [33823-adventurequest-3d.json](./33823-adventurequest-3d.json) |
 | AdventureQuest 8-Bit: Dungeons & DoomKnights | 145362 | [145362-adventurequest-8-bit-dungeons-and-doomknights.json](./145362-adventurequest-8-bit-dungeons-and-doomknights.json) |
@@ -6247,6 +6251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alan Wake: The Writer | 20317 | [20317-alan-wake-the-writer.json](./20317-alan-wake-the-writer.json) |
 | Alan Walker: The Aviation Game | 234642 | [234642-alan-walker-the-aviation-game.json](./234642-alan-walker-the-aviation-game.json) |
 | Alan-13 Reformation | 196991 | [196991-alan-13-reformation.json](./196991-alan-13-reformation.json) |
+| Alan's Attitude | 126156 | [126156-alans-attitude.json](./126156-alans-attitude.json) |
 | Alan's Automaton Workshop | 160262 | [160262-alans-automaton-workshop.json](./160262-alans-automaton-workshop.json) |
 | Alanna: The Princess of Puzzles | 179269 | [179269-alanna-the-princess-of-puzzles.json](./179269-alanna-the-princess-of-puzzles.json) |
 | Alara Prime | 207827 | [207827-alara-prime.json](./207827-alara-prime.json) |
@@ -17957,6 +17962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalar: Shadow War | 407395 | [407395-avalar-shadow-war.json](./407395-avalar-shadow-war.json) |
 | Avali: Final Battle | 316351 | [316351-avali-final-battle.json](./316351-avali-final-battle.json) |
 | Avalis Dungeon: Chapter 3 | 303016 | [303016-avalis-dungeon-chapter-3.json](./303016-avalis-dungeon-chapter-3.json) |
+| Avalo Legends | 126148 | [126148-avalo-legends.json](./126148-avalo-legends.json) |
 | Avalom: Ancestral Heroes | 144671 | [144671-avalom-ancestral-heroes.json](./144671-avalom-ancestral-heroes.json) |
 | Avalon | 229775 | [229775-avalon.json](./229775-avalon.json) |
 | Avalon | 23068 | [23068-avalon.json](./23068-avalon.json) |
