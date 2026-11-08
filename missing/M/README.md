@@ -2170,6 +2170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahou no Princess Minky Momo Fantastic World | 126117 | [126117-mahou-no-princess-minky-momo-fantastic-world.json](./126117-mahou-no-princess-minky-momo-fantastic-world.json) |
 | Mahou no Princess Minky Momo: Remember Dream | 61432 | [61432-mahou-no-princess-minky-momo-remember-dream.json](./61432-mahou-no-princess-minky-momo-remember-dream.json) |
 | Mahou no Shippo na | 69587 | [69587-mahou-no-shippo-na.json](./69587-mahou-no-shippo-na.json) |
+| Mahou no Shippo na 2 | 93082 | [93082-mahou-no-shippo-na-2.json](./93082-mahou-no-shippo-na-2.json) |
 | Mahou no Shippo na 3 | 80260 | [80260-mahou-no-shippo-na-3.json](./80260-mahou-no-shippo-na-3.json) |
 | Mahou no Shooter Putchin Pudding | 234829 | [234829-mahou-no-shooter-putchin-pudding.json](./234829-mahou-no-shooter-putchin-pudding.json) |
 | Mahou no Shoujo: Silky Lip | 46389 | [46389-mahou-no-shoujo-silky-lip.json](./46389-mahou-no-shoujo-silky-lip.json) |
@@ -19400,6 +19401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MU Online | 26359 | [26359-mu-online.json](./26359-mu-online.json) |
 | Mu Origin 2 | 118923 | [118923-mu-origin-2.json](./118923-mu-origin-2.json) |
 | MU Origin 3 | 188380 | [188380-mu-origin-3.json](./188380-mu-origin-3.json) |
+| Mu-Cade | 92745 | [92745-mu-cade.json](./92745-mu-cade.json) |
 | MU: Archangel | 214378 | [214378-mu-archangel.json](./214378-mu-archangel.json) |
 | Mu: Dark Epoch | 323723 | [323723-mu-dark-epoch.json](./323723-mu-dark-epoch.json) |
 | Muay Thai | 349887 | [349887-muay-thai.json](./349887-muay-thai.json) |
@@ -20425,6 +20427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MVP Baseball 2003 | 11556 | [11556-mvp-baseball-2003.json](./11556-mvp-baseball-2003.json) |
 | MVP Baseball 2004 | 10627 | [10627-mvp-baseball-2004.json](./10627-mvp-baseball-2004.json) |
 | MVP Baseball 2005 | 796 | [796-mvp-baseball-2005.json](./796-mvp-baseball-2005.json) |
+| MVP Bridge | 93081 | [93081-mvp-bridge.json](./93081-mvp-bridge.json) |
 | MVP Spades Deluxe | 93396 | [93396-mvp-spades-deluxe.json](./93396-mvp-spades-deluxe.json) |
 | MVR | 286762 | [286762-mvr.json](./286762-mvr.json) |
 | Mwizz | 194870 | [194870-mwizz.json](./194870-mwizz.json) |
