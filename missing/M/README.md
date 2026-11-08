@@ -1966,6 +1966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Fight Club: Shinsei Zenkoku Taisen-ban | 79829 | [79829-mahjong-fight-club-shinsei-zenkoku-taisen-ban.json](./79829-mahjong-fight-club-shinsei-zenkoku-taisen-ban.json) |
 | Mahjong Fight Club: Zenkoku Taisenban | 76144 | [76144-mahjong-fight-club-zenkoku-taisenban.json](./76144-mahjong-fight-club-zenkoku-taisenban.json) |
 | Mahjong Fight Girl | 286381 | [286381-mahjong-fight-girl.json](./286381-mahjong-fight-girl.json) |
+| Mahjong Fish | 103691 | [103691-mahjong-fish.json](./103691-mahjong-fish.json) |
 | Mahjong Forest Journey | 108591 | [108591-mahjong-forest-journey.json](./108591-mahjong-forest-journey.json) |
 | Mahjong G-taste | 137933 | [137933-mahjong-g-taste.json](./137933-mahjong-g-taste.json) |
 | Mahjong Gakkou | 415967 | [415967-mahjong-gakkou.json](./415967-mahjong-gakkou.json) |
@@ -10234,6 +10235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteor Raiders | 353796 | [353796-meteor-raiders.json](./353796-meteor-raiders.json) |
 | Meteor Rain | 179053 | [179053-meteor-rain.json](./179053-meteor-rain.json) |
 | Meteor Rush | 401588 | [401588-meteor-rush.json](./401588-meteor-rush.json) |
+| Meteor Shower | 103620 | [103620-meteor-shower.json](./103620-meteor-shower.json) |
 | Meteor Shower | 306668 | [306668-meteor-shower.json](./306668-meteor-shower.json) |
 | Meteor Shower | 319029 | [319029-meteor-shower.json](./319029-meteor-shower.json) |
 | Meteor Storm | 159754 | [159754-meteor-storm.json](./159754-meteor-storm.json) |
@@ -12993,6 +12995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Car Racing 2 | 172864 | [172864-mini-car-racing-2.json](./172864-mini-car-racing-2.json) |
 | Mini Car Racing: Tiny Split Screen Tournament | 169157 | [169157-mini-car-racing-tiny-split-screen-tournament.json](./169157-mini-car-racing-tiny-split-screen-tournament.json) |
 | Mini Cars Puzzle | 262804 | [262804-mini-cars-puzzle.json](./262804-mini-cars-puzzle.json) |
+| Mini City Craft | 103684 | [103684-mini-city-craft.json](./103684-mini-city-craft.json) |
 | Mini City: Mayhem | 319363 | [319363-mini-city-mayhem.json](./319363-mini-city-mayhem.json) |
 | Mini Coins | 412336 | [412336-mini-coins.json](./412336-mini-coins.json) |
 | Mini Colors | 412334 | [412334-mini-colors.json](./412334-mini-colors.json) |
@@ -16513,6 +16516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Squad | 60724 | [60724-monster-squad.json](./60724-monster-squad.json) |
 | Monster Squad Rush | 208968 | [208968-monster-squad-rush.json](./208968-monster-squad-rush.json) |
 | Monster Stalker | 236164 | [236164-monster-stalker.json](./236164-monster-stalker.json) |
+| Monster Star VS Robot Fly Car | 103680 | [103680-monster-star-vs-robot-fly-car.json](./103680-monster-star-vs-robot-fly-car.json) |
 | Monster Storm Apoiion | 108609 | [108609-monster-storm-apoiion.json](./108609-monster-storm-apoiion.json) |
 | Monster Strike | 19166 | [19166-monster-strike.json](./19166-monster-strike.json) |
 | Monster Strike | 84598 | [84598-monster-strike.json](./84598-monster-strike.json) |
@@ -21607,6 +21611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sliem Gets Stronger After It Dies | 389954 | [389954-my-sliem-gets-stronger-after-it-dies.json](./389954-my-sliem-gets-stronger-after-it-dies.json) |
 | My Slime Garden | 328458 | [328458-my-slime-garden.json](./328458-my-slime-garden.json) |
 | My Slow Life with the Princess Knight and Her Devoted Handmaiden | 270974 | [270974-my-slow-life-with-the-princess-knight-and-her-devoted-handmaiden.json](./270974-my-slow-life-with-the-princess-knight-and-her-devoted-handmaiden.json) |
+| My Smart Dog - Virtual Pocket Puppy | 103686 | [103686-my-smart-dog-virtual-pocket-puppy.json](./103686-my-smart-dog-virtual-pocket-puppy.json) |
 | My Smug Bully Girlfriend | 167380 | [167380-my-smug-bully-girlfriend.json](./167380-my-smug-bully-girlfriend.json) |
 | My So-called Future Girlfriend | 112750 | [112750-my-so-called-future-girlfriend.json](./112750-my-so-called-future-girlfriend.json) |
 | My Soldiers | 186852 | [186852-my-soldiers.json](./186852-my-soldiers.json) |
