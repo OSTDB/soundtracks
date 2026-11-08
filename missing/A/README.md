@@ -5214,6 +5214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ai & the Demon & the Curse of Lust | 372758 | [372758-ai-and-the-demon-and-the-curse-of-lust.json](./372758-ai-and-the-demon-and-the-curse-of-lust.json) |
 | Ai Ai Kissaten | 364221 | [364221-ai-ai-kissaten.json](./364221-ai-ai-kissaten.json) |
 | AI Alpha Cat | 129524 | [129524-ai-alpha-cat.json](./129524-ai-alpha-cat.json) |
+| AI Anomaly | 81593 | [81593-ai-anomaly.json](./81593-ai-anomaly.json) |
 | AI Apocalypse | 402749 | [402749-ai-apocalypse.json](./402749-ai-apocalypse.json) |
 | AI Arcade | 173927 | [173927-ai-arcade.json](./173927-ai-arcade.json) |
 | AI Asylum | 329034 | [329034-ai-asylum.json](./329034-ai-asylum.json) |
@@ -5440,6 +5441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aimlabs: Professional Edition | 308588 | [308588-aimlabs-professional-edition.json](./308588-aimlabs-professional-edition.json) |
 | AimRogue | 288747 | [288747-aimrogue.json](./288747-aimrogue.json) |
 | Aimstar.gg | 125882 | [125882-aimstar-gg.json](./125882-aimstar-gg.json) |
+| Aimtastic | 81607 | [81607-aimtastic.json](./81607-aimtastic.json) |
 | Aimtropolis | 226103 | [226103-aimtropolis.json](./226103-aimtropolis.json) |
 | Aimx | 316463 | [316463-aimx.json](./316463-aimx.json) |
 | AimX | 212901 | [212901-aimx.json](./212901-aimx.json) |
@@ -6331,6 +6333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alan Wake: The Writer | 20317 | [20317-alan-wake-the-writer.json](./20317-alan-wake-the-writer.json) |
 | Alan Walker: The Aviation Game | 234642 | [234642-alan-walker-the-aviation-game.json](./234642-alan-walker-the-aviation-game.json) |
 | Alan-13 Reformation | 196991 | [196991-alan-13-reformation.json](./196991-alan-13-reformation.json) |
+| Alan: Rift Breakers | 81600 | [81600-alan-rift-breakers.json](./81600-alan-rift-breakers.json) |
 | Alan's Attitude | 126156 | [126156-alans-attitude.json](./126156-alans-attitude.json) |
 | Alan's Automaton Workshop | 160262 | [160262-alans-automaton-workshop.json](./160262-alans-automaton-workshop.json) |
 | Alanna: The Princess of Puzzles | 179269 | [179269-alanna-the-princess-of-puzzles.json](./179269-alanna-the-princess-of-puzzles.json) |
@@ -7610,6 +7613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Star Tennis '99 | 3436 | [3436-all-star-tennis-99.json](./3436-all-star-tennis-99.json) |
 | All Star Tennis 2000 | 249157 | [249157-all-star-tennis-2000.json](./249157-all-star-tennis-2000.json) |
 | All Star Tennis 2000 | 49880 | [49880-all-star-tennis-2000.json](./49880-all-star-tennis-2000.json) |
+| All Stars Racing Cup | 81591 | [81591-all-stars-racing-cup.json](./81591-all-stars-racing-cup.json) |
 | All Stars Racing Jumper | 252934 | [252934-all-stars-racing-jumper.json](./252934-all-stars-racing-jumper.json) |
 | All strings attached | 177677 | [177677-all-strings-attached.json](./177677-all-strings-attached.json) |
 | All Systems Dance | 305067 | [305067-all-systems-dance.json](./305067-all-systems-dance.json) |
@@ -8555,6 +8559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Moon: Frog in Space | 103089 | [103089-amazing-moon-frog-in-space.json](./103089-amazing-moon-frog-in-space.json) |
 | Amazing Neons | 87516 | [87516-amazing-neons.json](./87516-amazing-neons.json) |
 | Amazing Online | 230131 | [230131-amazing-online.json](./230131-amazing-online.json) |
+| Amazing Pea TD | 81610 | [81610-amazing-pea-td.json](./81610-amazing-pea-td.json) |
 | Amazing Penguin | 7753 | [7753-amazing-penguin.json](./7753-amazing-penguin.json) |
 | Amazing Penguin DX | 279579 | [279579-amazing-penguin-dx.json](./279579-amazing-penguin-dx.json) |
 | Amazing Pets Bundle | 212788 | [212788-amazing-pets-bundle.json](./212788-amazing-pets-bundle.json) |
@@ -10281,6 +10286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Crush | 233429 | [233429-animal-crush.json](./233429-animal-crush.json) |
 | Animal Crush | 52770 | [52770-animal-crush.json](./52770-animal-crush.json) |
 | Animal Daedal | 180087 | [180087-animal-daedal.json](./180087-animal-daedal.json) |
+| Animal Day Story | 82192 | [82192-animal-day-story.json](./82192-animal-day-story.json) |
 | Animal Defense Versus | 152978 | [152978-animal-defense-versus.json](./152978-animal-defense-versus.json) |
 | Animal Diner | 217391 | [217391-animal-diner.json](./217391-animal-diner.json) |
 | Animal Doctor | 145494 | [145494-animal-doctor.json](./145494-animal-doctor.json) |
@@ -13224,6 +13230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcadia | 236852 | [236852-arcadia.json](./236852-arcadia.json) |
 | Arcadia | 250131 | [250131-arcadia.json](./250131-arcadia.json) |
 | Arcadia | 388085 | [388085-arcadia.json](./388085-arcadia.json) |
+| Arcadia | 81573 | [81573-arcadia.json](./81573-arcadia.json) |
 | Arcadia 64 | 13793 | [13793-arcadia-64.json](./13793-arcadia-64.json) |
 | Arcadia Demade | 256826 | [256826-arcadia-demade.json](./256826-arcadia-demade.json) |
 | Arcadia Fallen | 126568 | [126568-arcadia-fallen.json](./126568-arcadia-fallen.json) |
@@ -16732,6 +16739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asura Cross | 38710 | [38710-asura-cross.json](./38710-asura-cross.json) |
 | Asura Girls | 248923 | [248923-asura-girls.json](./248923-asura-girls.json) |
 | Asura The Striker | 247093 | [247093-asura-the-striker.json](./247093-asura-the-striker.json) |
+| Asura Valley | 81590 | [81590-asura-valley.json](./81590-asura-valley.json) |
 | Asura's Trial | 249853 | [249853-asuras-trial.json](./249853-asuras-trial.json) |
 | Asura's Wrath | 5495 | [5495-asuras-wrath.json](./5495-asuras-wrath.json) |
 | Asura's Wrath Episode 11.5 | 217920 | [217920-asuras-wrath-episode-11-5.json](./217920-asuras-wrath-episode-11-5.json) |
@@ -18770,6 +18778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aya: The Tale of Tails | 244161 | [244161-aya-the-tale-of-tails.json](./244161-aya-the-tale-of-tails.json) |
 | Aya's Journey | 55747 | [55747-ayas-journey.json](./55747-ayas-journey.json) |
 | Ayahuasca | 128131 | [128131-ayahuasca.json](./128131-ayahuasca.json) |
+| Ayahuasca: Polyventure | 81599 | [81599-ayahuasca-polyventure.json](./81599-ayahuasca-polyventure.json) |
 | Ayakashi & Sweets | 298879 | [298879-ayakashi-and-sweets.json](./298879-ayakashi-and-sweets.json) |
 | Ayakashi Gohan | 70885 | [70885-ayakashi-gohan.json](./70885-ayakashi-gohan.json) |
 | Ayakashi Gohan: Okawari! | 200008 | [200008-ayakashi-gohan-okawari.json](./200008-ayakashi-gohan-okawari.json) |
