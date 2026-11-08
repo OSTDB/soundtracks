@@ -7887,6 +7887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flick Ball - Physics Game | 106776 | [106776-flick-ball-physics-game.json](./106776-flick-ball-physics-game.json) |
 | Flick Champions Classic | 86846 | [86846-flick-champions-classic.json](./86846-flick-champions-classic.json) |
 | Flick Champions Summer Sports | 86871 | [86871-flick-champions-summer-sports.json](./86871-flick-champions-summer-sports.json) |
+| Flick Champions Winter Sports | 89308 | [89308-flick-champions-winter-sports.json](./89308-flick-champions-winter-sports.json) |
 | Flick Champions XS | 88646 | [88646-flick-champions-xs.json](./88646-flick-champions-xs.json) |
 | Flick Chess! | 223937 | [223937-flick-chess.json](./223937-flick-chess.json) |
 | Flick Club | 151931 | [151931-flick-club.json](./151931-flick-club.json) |
