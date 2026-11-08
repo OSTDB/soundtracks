@@ -7937,6 +7937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocolate makes you happy 3 | 84074 | [84074-chocolate-makes-you-happy-3.json](./84074-chocolate-makes-you-happy-3.json) |
 | Chocolate makes you happy 4 | 89935 | [89935-chocolate-makes-you-happy-4.json](./89935-chocolate-makes-you-happy-4.json) |
 | Chocolate makes you happy 5 | 99433 | [99433-chocolate-makes-you-happy-5.json](./99433-chocolate-makes-you-happy-5.json) |
+| Chocolate makes you happy 6 | 102399 | [102399-chocolate-makes-you-happy-6.json](./102399-chocolate-makes-you-happy-6.json) |
 | Chocolate makes you happy 7 | 105376 | [105376-chocolate-makes-you-happy-7.json](./105376-chocolate-makes-you-happy-7.json) |
 | Chocolate makes you happy: Easter | 116839 | [116839-chocolate-makes-you-happy-easter.json](./116839-chocolate-makes-you-happy-easter.json) |
 | Chocolate makes you happy: Halloween | 109746 | [109746-chocolate-makes-you-happy-halloween.json](./109746-chocolate-makes-you-happy-halloween.json) |
@@ -8291,6 +8292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Bubble Puzzle | 280594 | [280594-christmas-bubble-puzzle.json](./280594-christmas-bubble-puzzle.json) |
 | Christmas Bubble Shooter | 86716 | [86716-christmas-bubble-shooter.json](./86716-christmas-bubble-shooter.json) |
 | Christmas Carnage | 94960 | [94960-christmas-carnage.json](./94960-christmas-carnage.json) |
+| Christmas Cat | 101849 | [101849-christmas-cat.json](./101849-christmas-cat.json) |
 | Christmas Cats | 230968 | [230968-christmas-cats.json](./230968-christmas-cats.json) |
 | Christmas Cats Revenge | 127073 | [127073-christmas-cats-revenge.json](./127073-christmas-cats-revenge.json) |
 | Christmas Celebration With Sakuya Izayoi | 192698 | [192698-christmas-celebration-with-sakuya-izayoi.json](./192698-christmas-celebration-with-sakuya-izayoi.json) |
