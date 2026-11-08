@@ -1700,6 +1700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertigo | 248174 | [248174-vertigo.json](./248174-vertigo.json) |
 | Vertigo | 26620 | [26620-vertigo.json](./26620-vertigo.json) |
 | Vertigo | 42850 | [42850-vertigo.json](./42850-vertigo.json) |
+| Vertigo | 80739 | [80739-vertigo.json](./80739-vertigo.json) |
 | Vertigo 2 | 120529 | [120529-vertigo-2.json](./120529-vertigo-2.json) |
 | Vertigo 2: Into the Aether | 325823 | [325823-vertigo-2-into-the-aether.json](./325823-vertigo-2-into-the-aether.json) |
 | Vertigo Enigma | 407062 | [407062-vertigo-enigma.json](./407062-vertigo-enigma.json) |
@@ -2145,6 +2146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vietcong: Fist Alpha | 464 | [464-vietcong-fist-alpha.json](./464-vietcong-fist-alpha.json) |
 | Vietcong: Purple Haze | 22165 | [22165-vietcong-purple-haze.json](./22165-vietcong-purple-haze.json) |
 | VietDoom | 196013 | [196013-vietdoom.json](./196013-vietdoom.json) |
+| Vietnam | 80736 | [80736-vietnam.json](./80736-vietnam.json) |
 | Vietnam '65 | 36116 | [36116-vietnam-65.json](./36116-vietnam-65.json) |
 | Vietnam '66 | 292480 | [292480-vietnam-66.json](./292480-vietnam-66.json) |
 | Vietnam 2: Special Assignment | 73247 | [73247-vietnam-2-special-assignment.json](./73247-vietnam-2-special-assignment.json) |
