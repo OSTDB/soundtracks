@@ -281,6 +281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wake the Dead | 313864 | [313864-wake-the-dead.json](./313864-wake-the-dead.json) |
 | Wake the Dragon | 32069 | [32069-wake-the-dragon.json](./32069-wake-the-dragon.json) |
 | Wake the Royalty | 236631 | [236631-wake-the-royalty.json](./236631-wake-the-royalty.json) |
+| Wake Up | 131744 | [131744-wake-up.json](./131744-wake-up.json) |
 | Wake Up | 178453 | [178453-wake-up.json](./178453-wake-up.json) |
 | Wake Up | 22435 | [22435-wake-up.json](./22435-wake-up.json) |
 | Wake Up | 233327 | [233327-wake-up.json](./233327-wake-up.json) |
