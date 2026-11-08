@@ -1241,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Shall Not Jump: PC Master Race Edition | 41967 | [41967-you-shall-not-jump-pc-master-race-edition.json](./41967-you-shall-not-jump-pc-master-race-edition.json) |
 | You Should Eat Breakfast | 176515 | [176515-you-should-eat-breakfast.json](./176515-you-should-eat-breakfast.json) |
 | You Shouldn't Be Here | 336878 | [336878-you-shouldnt-be-here.json](./336878-you-shouldnt-be-here.json) |
+| You Still Won't Make It | 79487 | [79487-you-still-wont-make-it.json](./79487-you-still-wont-make-it.json) |
 | You Stole My Heart! | 340344 | [340344-you-stole-my-heart.json](./340344-you-stole-my-heart.json) |
 | You Suck and I Hate You | 362413 | [362413-you-suck-and-i-hate-you.json](./362413-you-suck-and-i-hate-you.json) |
 | You Suck and I Hate You: Part 2 | 365360 | [365360-you-suck-and-i-hate-you-part-2.json](./365360-you-suck-and-i-hate-you-part-2.json) |
