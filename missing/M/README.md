@@ -6261,6 +6261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayor Moon | 121434 | [121434-mayor-moon.json](./121434-mayor-moon.json) |
 | Mayor of Defense | 166746 | [166746-mayor-of-defense.json](./166746-mayor-of-defense.json) |
 | Mayor T-Rex | 203666 | [203666-mayor-t-rex.json](./203666-mayor-t-rex.json) |
+| Mayor! Mayor! | 96792 | [96792-mayor-mayor.json](./96792-mayor-mayor.json) |
 | Mayor's Secretary Escape Game | 373769 | [373769-mayors-secretary-escape-game.json](./373769-mayors-secretary-escape-game.json) |
 | Mayority | 254169 | [254169-mayority.json](./254169-mayority.json) |
 | Maytroid | 111981 | [111981-maytroid.json](./111981-maytroid.json) |
@@ -10571,6 +10572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MGCM Combat Edition | 264805 | [264805-mgcm-combat-edition.json](./264805-mgcm-combat-edition.json) |
 | MGCM Combat Edition: DLC Char: Kamisaman (Isana Hakari) | 293455 | [293455-mgcm-combat-edition-dlc-char-kamisaman-isana-hakari.json](./293455-mgcm-combat-edition-dlc-char-kamisaman-isana-hakari.json) |
 | MGCM Magical Girls | 188247 | [188247-mgcm-magical-girls.json](./188247-mgcm-magical-girls.json) |
+| MGG: Manic Game Girl | 96398 | [96398-mgg-manic-game-girl.json](./96398-mgg-manic-game-girl.json) |
 | MGM Slots Live | 370750 | [370750-mgm-slots-live.json](./370750-mgm-slots-live.json) |
 | MGP Manager | 260382 | [260382-mgp-manager.json](./260382-mgp-manager.json) |
 | MGSLeisure1000 | 29470 | [29470-mgsleisure1000.json](./29470-mgsleisure1000.json) |
@@ -16634,6 +16636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Wilds | 159532 | [159532-monster-wilds.json](./159532-monster-wilds.json) |
 | Monster World | 402399 | [402399-monster-world.json](./402399-monster-world.json) |
 | Monster World IV | 18282 | [18282-monster-world-iv.json](./18282-monster-world-iv.json) |
+| Monster World-Legend | 96783 | [96783-monster-world-legend.json](./96783-monster-world-legend.json) |
 | Monster X | 192549 | [192549-monster-x.json](./192549-monster-x.json) |
 | Monster X Monster | 118032 | [118032-monster-x-monster.json](./118032-monster-x-monster.json) |
 | Monster-Man | 137911 | [137911-monster-man.json](./137911-monster-man.json) |
