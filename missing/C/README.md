@@ -10306,6 +10306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleanup Crew | 286088 | [286088-cleanup-crew.json](./286088-cleanup-crew.json) |
 | Cleanup On Aisle 3 | 414428 | [414428-cleanup-on-aisle-3.json](./414428-cleanup-on-aisle-3.json) |
 | Cleanup Project | 255256 | [255256-cleanup-project.json](./255256-cleanup-project.json) |
+| CleanVR | 118529 | [118529-cleanvr.json](./118529-cleanvr.json) |
 | Clear Can | 241708 | [241708-clear-can.json](./241708-clear-can.json) |
 | Clear for Action | 24675 | [24675-clear-for-action.json](./24675-clear-for-action.json) |
 | Clear Mosaic | 253990 | [253990-clear-mosaic.json](./253990-clear-mosaic.json) |
@@ -14420,6 +14421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Control the Body | 287303 | [287303-control-the-body.json](./287303-control-the-body.json) |
 | Control Yourself | 338138 | [338138-control-yourself.json](./338138-control-yourself.json) |
 | Control: AWE | 122313 | [122313-control-awe.json](./122313-control-awe.json) |
+| Control: Deluxe Edition | 118510 | [118510-control-deluxe-edition.json](./118510-control-deluxe-edition.json) |
 | Control: Expeditions | 298854 | [298854-control-expeditions.json](./298854-control-expeditions.json) |
 | Control: Override | 139615 | [139615-control-override.json](./139615-control-override.json) |
 | Control: The Foundation | 122312 | [122312-control-the-foundation.json](./122312-control-the-foundation.json) |
