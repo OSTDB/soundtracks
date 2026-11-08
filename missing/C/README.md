@@ -4147,6 +4147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Merge | 374927 | [374927-cat-merge.json](./374927-cat-merge.json) |
 | Cat Milk | 163171 | [163171-cat-milk.json](./163171-cat-milk.json) |
 | Cat Minesweeper | 396599 | [396599-cat-minesweeper.json](./396599-cat-minesweeper.json) |
+| Cat Movies! | 132960 | [132960-cat-movies.json](./132960-cat-movies.json) |
 | Cat Museum | 193857 | [193857-cat-museum.json](./193857-cat-museum.json) |
 | Cat Music Chaos | 419335 | [419335-cat-music-chaos.json](./419335-cat-music-chaos.json) |
 | Cat N Can | 223366 | [223366-cat-n-can.json](./223366-cat-n-can.json) |
@@ -6525,6 +6526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chatty | 112042 | [112042-chatty.json](./112042-chatty.json) |
 | Chatty's Bratty Tryst | 314010 | [314010-chattys-bratty-tryst.json](./314010-chattys-bratty-tryst.json) |
 | Chaturanga | 383617 | [383617-chaturanga.json](./383617-chaturanga.json) |
+| Chatventures | 132934 | [132934-chatventures.json](./132934-chatventures.json) |
 | Chaves | 281892 | [281892-chaves.json](./281892-chaves.json) |
 | Chaves Arena | 252903 | [252903-chaves-arena.json](./252903-chaves-arena.json) |
 | CHE: Guerrilla In Bolivia | 15874 | [15874-che-guerrilla-in-bolivia.json](./15874-che-guerrilla-in-bolivia.json) |
@@ -9387,6 +9389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Battle | 359186 | [359186-city-battle.json](./359186-city-battle.json) |
 | City Bike Messenger 3D | 102847 | [102847-city-bike-messenger-3d.json](./102847-city-bike-messenger-3d.json) |
 | City Block | 369721 | [369721-city-block.json](./369721-city-block.json) |
+| City Block Builder | 132967 | [132967-city-block-builder.json](./132967-city-block-builder.json) |
 | City Blocks | 108037 | [108037-city-blocks.json](./108037-city-blocks.json) |
 | City Blocks | 183269 | [183269-city-blocks.json](./183269-city-blocks.json) |
 | City Bomber | 39304 | [39304-city-bomber.json](./39304-city-bomber.json) |
@@ -20682,6 +20685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Drift | 205857 | [205857-cyber-drift.json](./205857-cyber-drift.json) |
 | Cyber Drive | 169645 | [169645-cyber-drive.json](./169645-cyber-drive.json) |
 | Cyber Driver | 117055 | [117055-cyber-driver.json](./117055-cyber-driver.json) |
+| Cyber Driver VR | 132935 | [132935-cyber-driver-vr.json](./132935-cyber-driver-vr.json) |
 | Cyber Dungeon X Monster Girls | 351759 | [351759-cyber-dungeon-x-monster-girls.json](./351759-cyber-dungeon-x-monster-girls.json) |
 | Cyber Dungeon: Excalibur | 225193 | [225193-cyber-dungeon-excalibur.json](./225193-cyber-dungeon-excalibur.json) |
 | Cyber Egg: Battle Champion | 58062 | [58062-cyber-egg-battle-champion.json](./58062-cyber-egg-battle-champion.json) |
@@ -21218,6 +21222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cymbalism | 285124 | [285124-cymbalism.json](./285124-cymbalism.json) |
 | Cymut x Mutrobo: The Last Cymut | 292326 | [292326-cymut-x-mutrobo-the-last-cymut.json](./292326-cymut-x-mutrobo-the-last-cymut.json) |
 | Cynabre | 371334 | [371334-cynabre.json](./371334-cynabre.json) |
+| Cyndaria | 132948 | [132948-cyndaria.json](./132948-cyndaria.json) |
 | Cyndefense 2 | 190787 | [190787-cyndefense-2.json](./190787-cyndefense-2.json) |
 | Cyndefense Remastered | 382289 | [382289-cyndefense-remastered.json](./382289-cyndefense-remastered.json) |
 | Cynderfall Cycle | 298268 | [298268-cynderfall-cycle.json](./298268-cynderfall-cycle.json) |
