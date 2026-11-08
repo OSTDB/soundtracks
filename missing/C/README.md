@@ -4945,6 +4945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cauldrons of War: Stalingrad | 169145 | [169145-cauldrons-of-war-stalingrad.json](./169145-cauldrons-of-war-stalingrad.json) |
 | Cauli's Night | 229914 | [229914-caulis-night.json](./229914-caulis-night.json) |
 | Cauliflower Power | 136402 | [136402-cauliflower-power.json](./136402-cauliflower-power.json) |
+| Causa, Voices of the Dusk | 97948 | [97948-causa-voices-of-the-dusk.json](./97948-causa-voices-of-the-dusk.json) |
 | Causa: Into the Dusk | 417958 | [417958-causa-into-the-dusk.json](./417958-causa-into-the-dusk.json) |
 | Causal Effect | 256721 | [256721-causal-effect.json](./256721-causal-effect.json) |
 | Causal Loop | 339820 | [339820-causal-loop.json](./339820-causal-loop.json) |
@@ -5732,6 +5733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chain Reaction Classic | 241352 | [241352-chain-reaction-classic.json](./241352-chain-reaction-classic.json) |
 | Chain Shot | 64438 | [64438-chain-shot.json](./64438-chain-shot.json) |
 | Chain Shotgun | 374403 | [374403-chain-shotgun.json](./374403-chain-shotgun.json) |
+| Chain Slave | 97603 | [97603-chain-slave.json](./97603-chain-slave.json) |
 | Chain Solitaire Royale | 89469 | [89469-chain-solitaire-royale.json](./89469-chain-solitaire-royale.json) |
 | Chain Solitaire: Fun Card Game | 99356 | [99356-chain-solitaire-fun-card-game.json](./99356-chain-solitaire-fun-card-game.json) |
 | Chain Strike | 96546 | [96546-chain-strike.json](./96546-chain-strike.json) |
@@ -8273,6 +8275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chris Isn't Alone | 215509 | [215509-chris-isnt-alone.json](./215509-chris-isnt-alone.json) |
 | Chris Kamara's Street Soccer | 43747 | [43747-chris-kamaras-street-soccer.json](./43747-chris-kamaras-street-soccer.json) |
 | Chris Moneymaker's World Poker Championship | 68636 | [68636-chris-moneymakers-world-poker-championship.json](./68636-chris-moneymakers-world-poker-championship.json) |
+| Chris no Boken Nikki: Fairy | 97605 | [97605-chris-no-boken-nikki-fairy.json](./97605-chris-no-boken-nikki-fairy.json) |
 | Chris Sawyer's Locomotion | 10737 | [10737-chris-sawyers-locomotion.json](./10737-chris-sawyers-locomotion.json) |
 | Chris: Luxury Getaway | 313620 | [313620-chris-luxury-getaway.json](./313620-chris-luxury-getaway.json) |
 | Chris' Story | 215510 | [215510-chris-story.json](./215510-chris-story.json) |
@@ -9161,6 +9164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circo: Dark Story | 187167 | [187167-circo-dark-story.json](./187167-circo-dark-story.json) |
 | Circoid | 296679 | [296679-circoid.json](./296679-circoid.json) |
 | Circolour | 107239 | [107239-circolour.json](./107239-circolour.json) |
+| Circuit | 97944 | [97944-circuit.json](./97944-circuit.json) |
 | Circuit Artist | 338529 | [338529-circuit-artist.json](./338529-circuit-artist.json) |
 | Circuit Blasters | 221294 | [221294-circuit-blasters.json](./221294-circuit-blasters.json) |
 | Circuit Breaker | 195301 | [195301-circuit-breaker.json](./195301-circuit-breaker.json) |
@@ -18355,6 +18359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrossCode: Deluxe Edition | 164797 | [164797-crosscode-deluxe-edition.json](./164797-crosscode-deluxe-edition.json) |
 | Crosscountry BC | 399085 | [399085-crosscountry-bc.json](./399085-crosscountry-bc.json) |
 | Crosscountry California | 399068 | [399068-crosscountry-california.json](./399068-crosscountry-california.json) |
+| Crosscountry Canada 2 | 97591 | [97591-crosscountry-canada-2.json](./97591-crosscountry-canada-2.json) |
 | Crosscountry Canada Photo Safari | 399084 | [399084-crosscountry-canada-photo-safari.json](./399084-crosscountry-canada-photo-safari.json) |
 | Crosscountry Canada Platinum | 399076 | [399076-crosscountry-canada-platinum.json](./399076-crosscountry-canada-platinum.json) |
 | Crosscountry North Dakota | 399071 | [399071-crosscountry-north-dakota.json](./399071-crosscountry-north-dakota.json) |
@@ -18935,6 +18940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crustacean Nations | 211254 | [211254-crustacean-nations.json](./211254-crustacean-nations.json) |
 | Crusty Demons | 20537 | [20537-crusty-demons.json](./20537-crusty-demons.json) |
 | Crusty Proto | 324856 | [324856-crusty-proto.json](./324856-crusty-proto.json) |
+| CruSuku Wit You | 98068 | [98068-crusuku-wit-you.json](./98068-crusuku-wit-you.json) |
 | Crux | 244642 | [244642-crux.json](./244642-crux.json) |
 | Crux | 249347 | [249347-crux.json](./249347-crux.json) |
 | Crux 92 | 391805 | [391805-crux-92.json](./391805-crux-92.json) |
