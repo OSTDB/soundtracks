@@ -1647,6 +1647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SandShifter | 181463 | [181463-sandshifter.json](./181463-sandshifter.json) |
 | Sandship | 130502 | [130502-sandship.json](./130502-sandship.json) |
 | Sandspiel | 146869 | [146869-sandspiel.json](./146869-sandspiel.json) |
+| Sandstorm | 113947 | [113947-sandstorm.json](./113947-sandstorm.json) |
 | Sandstorm | 30707 | [30707-sandstorm.json](./30707-sandstorm.json) |
 | Sandstorm Strike Force | 288294 | [288294-sandstorm-strike-force.json](./288294-sandstorm-strike-force.json) |
 | Sandstorm! | 260866 | [260866-sandstorm.json](./260866-sandstorm.json) |
@@ -12469,6 +12470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skibidi.io | 274277 | [274277-skibidi-io.json](./274277-skibidi-io.json) |
 | SkibidiVerse | 266905 | [266905-skibidiverse.json](./266905-skibidiverse.json) |
 | Skibigo | 397509 | [397509-skibigo.json](./397509-skibigo.json) |
+| Skibs | 113923 | [113923-skibs.json](./113923-skibs.json) |
 | Skibum | 58534 | [58534-skibum.json](./58534-skibum.json) |
 | Skid | 223261 | [223261-skid.json](./223261-skid.json) |
 | Skid Cities | 129941 | [129941-skid-cities.json](./129941-skid-cities.json) |
@@ -14720,6 +14722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Simulator | 391550 | [391550-smash-simulator.json](./391550-smash-simulator.json) |
 | Smash Slug | 194877 | [194877-smash-slug.json](./194877-smash-slug.json) |
 | Smash Splat Deluxe Set | 231788 | [231788-smash-splat-deluxe-set.json](./231788-smash-splat-deluxe-set.json) |
+| Smash Squad | 113959 | [113959-smash-squad.json](./113959-smash-squad.json) |
 | Smash Star | 188158 | [188158-smash-star.json](./188158-smash-star.json) |
 | Smash T.V. | 20504 | [20504-smash-t-v.json](./20504-smash-t-v.json) |
 | Smash T.V. | 218326 | [218326-smash-t-v.json](./218326-smash-t-v.json) |
@@ -26920,6 +26923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stellar Expansion | 176368 | [176368-stellar-expansion.json](./176368-stellar-expansion.json) |
 | Stellar Fight | 218978 | [218978-stellar-fight.json](./218978-stellar-fight.json) |
 | Stellar Fixer | 399647 | [399647-stellar-fixer.json](./399647-stellar-fixer.json) |
+| Stellar Fox | 113941 | [113941-stellar-fox.json](./113941-stellar-fox.json) |
 | Stellar Freight: Echoes of the Void | 353977 | [353977-stellar-freight-echoes-of-the-void.json](./353977-stellar-freight-echoes-of-the-void.json) |
 | Stellar Freight: Endless Horizon | 395520 | [395520-stellar-freight-endless-horizon.json](./395520-stellar-freight-endless-horizon.json) |
 | Stellar Ghosts Settlers | 270486 | [270486-stellar-ghosts-settlers.json](./270486-stellar-ghosts-settlers.json) |
@@ -27376,6 +27380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman PVP Warriors PRO online | 95858 | [95858-stickman-pvp-warriors-pro-online.json](./95858-stickman-pvp-warriors-pro-online.json) |
 | Stickman PvP Wars Online | 102239 | [102239-stickman-pvp-wars-online.json](./102239-stickman-pvp-wars-online.json) |
 | Stickman Race Draw | 81852 | [81852-stickman-race-draw.json](./81852-stickman-race-draw.json) |
+| Stickman Racer Road Draw 2 | 113921 | [113921-stickman-racer-road-draw-2.json](./113921-stickman-racer-road-draw-2.json) |
 | Stickman Ragdoll | 256736 | [256736-stickman-ragdoll.json](./256736-stickman-ragdoll.json) |
 | Stickman Red boy and Blue girl | 231892 | [231892-stickman-red-boy-and-blue-girl.json](./231892-stickman-red-boy-and-blue-girl.json) |
 | Stickman Revenge: Demon Slayer | 323201 | [323201-stickman-revenge-demon-slayer.json](./323201-stickman-revenge-demon-slayer.json) |
@@ -36531,6 +36536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Symmetry and Asymmetry | 384262 | [384262-symmetry-and-asymmetry.json](./384262-symmetry-and-asymmetry.json) |
 | Symmetry and Asymmetry | 384263 | [384263-symmetry-and-asymmetry.json](./384263-symmetry-and-asymmetry.json) |
 | Symmetry Lines | 200507 | [200507-symmetry-lines.json](./200507-symmetry-lines.json) |
+| Symmetry: Path to Perfection | 113949 | [113949-symmetry-path-to-perfection.json](./113949-symmetry-path-to-perfection.json) |
 | SymmetryPad - Doodle in Relax | 108601 | [108601-symmetrypad-doodle-in-relax.json](./108601-symmetrypad-doodle-in-relax.json) |
 | Symmodance | 263756 | [263756-symmodance.json](./263756-symmodance.json) |
 | Sympathia | 277608 | [277608-sympathia.json](./277608-sympathia.json) |
