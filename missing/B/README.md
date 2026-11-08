@@ -986,7 +986,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3675,6 +3674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Cars | 236980 | [236980-battle-cars.json](./236980-battle-cars.json) |
 | Battle Cars | 332256 | [332256-battle-cars.json](./332256-battle-cars.json) |
 | Battle Cars | 36729 | [36729-battle-cars.json](./36729-battle-cars.json) |
+| Battle Cars Mobile | 86150 | [86150-battle-cars-mobile.json](./86150-battle-cars-mobile.json) |
 | Battle Cat vs. Treacherous Mice | 157340 | [157340-battle-cat-vs-treacherous-mice.json](./157340-battle-cat-vs-treacherous-mice.json) |
 | Battle Cats Galaxy | 300455 | [300455-battle-cats-galaxy.json](./300455-battle-cats-galaxy.json) |
 | Battle Cats Quest | 299252 | [299252-battle-cats-quest.json](./299252-battle-cats-quest.json) |
@@ -4378,6 +4378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleForge | 18487 | [18487-battleforge.json](./18487-battleforge.json) |
 | BattleForte | 25937 | [25937-battleforte.json](./25937-battleforte.json) |
 | Battlefront | 28708 | [28708-battlefront.json](./28708-battlefront.json) |
+| Battlefront | 86135 | [86135-battlefront.json](./86135-battlefront.json) |
 | Battlefront Expanded | 333904 | [333904-battlefront-expanded.json](./333904-battlefront-expanded.json) |
 | Battlefront Heroes | 394817 | [394817-battlefront-heroes.json](./394817-battlefront-heroes.json) |
 | Battlefront Trench Warriors: Ops of Warfare | 283294 | [283294-battlefront-trench-warriors-ops-of-warfare.json](./283294-battlefront-trench-warriors-ops-of-warfare.json) |
@@ -4975,6 +4976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beaks of Rage | 183704 | [183704-beaks-of-rage.json](./183704-beaks-of-rage.json) |
 | Beam | 15700 | [15700-beam.json](./15700-beam.json) |
 | Beam | 233423 | [233423-beam.json](./233423-beam.json) |
+| Beam | 86139 | [86139-beam.json](./86139-beam.json) |
 | Beam Ball | 101731 | [101731-beam-ball.json](./101731-beam-ball.json) |
 | Beam Breakers | 24082 | [24082-beam-breakers.json](./24082-beam-breakers.json) |
 | Beam Car Crash Derby | 151484 | [151484-beam-car-crash-derby.json](./151484-beam-car-crash-derby.json) |
@@ -5129,6 +5131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bearzerkers | 17881 | [17881-bearzerkers.json](./17881-bearzerkers.json) |
 | Beast | 121907 | [121907-beast.json](./121907-beast.json) |
 | Beast | 202029 | [202029-beast.json](./202029-beast.json) |
+| Beast | 86157 | [86157-beast.json](./86157-beast.json) |
 | Beast + Frag The Complete Shooter Collection | 336442 | [336442-beast-frag-the-complete-shooter-collection.json](./336442-beast-frag-the-complete-shooter-collection.json) |
 | Beast Agenda 2030 | 106539 | [106539-beast-agenda-2030.json](./106539-beast-agenda-2030.json) |
 | Beast and Cleaver | 345021 | [345021-beast-and-cleaver.json](./345021-beast-and-cleaver.json) |
@@ -8038,6 +8041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bille & Trille: Nu er det Jul igen | 91449 | [91449-bille-and-trille-nu-er-det-jul-igen.json](./91449-bille-and-trille-nu-er-det-jul-igen.json) |
 | Billgard | 329169 | [329169-billgard.json](./329169-billgard.json) |
 | Billiard | 266630 | [266630-billiard.json](./266630-billiard.json) |
+| Billiard | 86266 | [86266-billiard.json](./86266-billiard.json) |
 | Billiard Academy Real Break | 264254 | [264254-billiard-academy-real-break.json](./264254-billiard-academy-real-break.json) |
 | Billiard Action | 98670 | [98670-billiard-action.json](./98670-billiard-action.json) |
 | Billiard Club | 52459 | [52459-billiard-club.json](./52459-billiard-club.json) |
@@ -11018,6 +11022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky Bee | 26685 | [26685-blocky-bee.json](./26685-blocky-bee.json) |
 | Blocky Blast | 343011 | [343011-blocky-blast.json](./343011-blocky-blast.json) |
 | Blocky Cars In Real World | 175332 | [175332-blocky-cars-in-real-world.json](./175332-blocky-cars-in-real-world.json) |
+| Blocky Cars Online | 86145 | [86145-blocky-cars-online.json](./86145-blocky-cars-online.json) |
 | Blocky Cars Speed Racer: Underground Highway Reckless Edition | 175504 | [175504-blocky-cars-speed-racer-underground-highway-reckless-edition.json](./175504-blocky-cars-speed-racer-underground-highway-reckless-edition.json) |
 | Blocky Castle: Tower Challenge | 188304 | [188304-blocky-castle-tower-challenge.json](./188304-blocky-castle-tower-challenge.json) |
 | Blocky Cops | 102697 | [102697-blocky-cops.json](./102697-blocky-cops.json) |
