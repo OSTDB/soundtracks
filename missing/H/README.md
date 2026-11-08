@@ -5883,6 +5883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermit Computer | 402440 | [402440-hermit-computer.json](./402440-hermit-computer.json) |
 | Hermit Night | 339033 | [339033-hermit-night.json](./339033-hermit-night.json) |
 | Hermit Simulator | 274797 | [274797-hermit-simulator.json](./274797-hermit-simulator.json) |
+| Hermit the Sluggish Caterpillar of the Sea | 134808 | [134808-hermit-the-sluggish-caterpillar-of-the-sea.json](./134808-hermit-the-sluggish-caterpillar-of-the-sea.json) |
 | Hermit: an Underwater Tale | 211955 | [211955-hermit-an-underwater-tale.json](./211955-hermit-an-underwater-tale.json) |
 | Hermit's Tic-Tac-Toe | 243608 | [243608-hermits-tic-tac-toe.json](./243608-hermits-tic-tac-toe.json) |
 | Hermitage Strange Case Files | 99435 | [99435-hermitage-strange-case-files.json](./99435-hermitage-strange-case-files.json) |
@@ -10957,6 +10958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel on the Grate | 180015 | [180015-hotel-on-the-grate.json](./180015-hotel-on-the-grate.json) |
 | Hotel Overloop | 302310 | [302310-hotel-overloop.json](./302310-hotel-overloop.json) |
 | Hotel Owner Simulator | 321320 | [321320-hotel-owner-simulator.json](./321320-hotel-owner-simulator.json) |
+| Hotel Paradise | 134804 | [134804-hotel-paradise.json](./134804-hotel-paradise.json) |
 | Hotel Paraíso | 401868 | [401868-hotel-paraiso.json](./401868-hotel-paraiso.json) |
 | Hotel Paris | 160013 | [160013-hotel-paris.json](./160013-hotel-paris.json) |
 | Hotel Perkkow and the Two Vegetarian Werewolves | 294281 | [294281-hotel-perkkow-and-the-two-vegetarian-werewolves.json](./294281-hotel-perkkow-and-the-two-vegetarian-werewolves.json) |
