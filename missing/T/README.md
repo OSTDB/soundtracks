@@ -5547,6 +5547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Abandoned Levels | 396418 | [396418-the-abandoned-levels.json](./396418-the-abandoned-levels.json) |
 | The Abandoned Planet | 204113 | [204113-the-abandoned-planet.json](./204113-the-abandoned-planet.json) |
 | The Abandoned Presence | 247885 | [247885-the-abandoned-presence.json](./247885-the-abandoned-presence.json) |
+| The Abbattoir Intergrade | 96390 | [96390-the-abbattoir-intergrade.json](./96390-the-abbattoir-intergrade.json) |
 | The Abbess Garden | 334464 | [334464-the-abbess-garden.json](./334464-the-abbess-garden.json) |
 | The Abbey | 17628 | [17628-the-abbey.json](./17628-the-abbey.json) |
 | The Abbey of Crime Extensum | 32595 | [32595-the-abbey-of-crime-extensum.json](./32595-the-abbey-of-crime-extensum.json) |
@@ -17953,6 +17954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Terminator | 4372 | [4372-the-terminator.json](./4372-the-terminator.json) |
 | The Terminator | 7688 | [7688-the-terminator.json](./7688-the-terminator.json) |
 | The Terminator | 85846 | [85846-the-terminator.json](./85846-the-terminator.json) |
+| The Terminator | 96395 | [96395-the-terminator.json](./96395-the-terminator.json) |
 | The Terminator 2029 | 8411 | [8411-the-terminator-2029.json](./8411-the-terminator-2029.json) |
 | The Terminator 2029: Deluxe CD Edition | 358341 | [358341-the-terminator-2029-deluxe-cd-edition.json](./358341-the-terminator-2029-deluxe-cd-edition.json) |
 | The Terminator 2029: Operation Scour | 15508 | [15508-the-terminator-2029-operation-scour.json](./15508-the-terminator-2029-operation-scour.json) |
@@ -18229,6 +18231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower of Luminus | 217494 | [217494-the-tower-of-luminus.json](./217494-the-tower-of-luminus.json) |
 | The Tower of Mimi | 338770 | [338770-the-tower-of-mimi.json](./338770-the-tower-of-mimi.json) |
 | The Tower of Muuda | 232105 | [232105-the-tower-of-muuda.json](./232105-the-tower-of-muuda.json) |
+| The Tower of Permanence | 96380 | [96380-the-tower-of-permanence.json](./96380-the-tower-of-permanence.json) |
 | The Tower of Shadows | 347232 | [347232-the-tower-of-shadows.json](./347232-the-tower-of-shadows.json) |
 | The Tower of Silka | 242889 | [242889-the-tower-of-silka.json](./242889-the-tower-of-silka.json) |
 | The Tower of the Elephant | 146199 | [146199-the-tower-of-the-elephant.json](./146199-the-tower-of-the-elephant.json) |
@@ -21120,6 +21123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thumb Buggy | 243086 | [243086-thumb-buggy.json](./243086-thumb-buggy.json) |
 | Thumb Drift | 58840 | [58840-thumb-drift.json](./58840-thumb-drift.json) |
 | Thumb Fighter | 154095 | [154095-thumb-fighter.json](./154095-thumb-fighter.json) |
+| Thumb Moto Race | 96818 | [96818-thumb-moto-race.json](./96818-thumb-moto-race.json) |
 | Thumb Tanks | 236200 | [236200-thumb-tanks.json](./236200-thumb-tanks.json) |
 | Thumb War | 180652 | [180652-thumb-war.json](./180652-thumb-war.json) |
 | Thumb-It! | 400569 | [400569-thumb-it.json](./400569-thumb-it.json) |
@@ -23158,6 +23162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiki Galore | 35106 | [35106-tiki-galore.json](./35106-tiki-galore.json) |
 | Tiki Golf 2 | 175229 | [175229-tiki-golf-2.json](./175229-tiki-golf-2.json) |
 | Tiki Kart 3D | 108703 | [108703-tiki-kart-3d.json](./108703-tiki-kart-3d.json) |
+| Tiki Kart Island | 96381 | [96381-tiki-kart-island.json](./96381-tiki-kart-island.json) |
 | Tiki Magic Mini Golf | 79961 | [79961-tiki-magic-mini-golf.json](./79961-tiki-magic-mini-golf.json) |
 | Tiki Ombo | 105914 | [105914-tiki-ombo.json](./105914-tiki-ombo.json) |
 | Tiki Resort | 92444 | [92444-tiki-resort.json](./92444-tiki-resort.json) |
@@ -33638,6 +33643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TurretCraft | 34272 | [34272-turretcraft.json](./34272-turretcraft.json) |
 | TurretGirls | 347243 | [347243-turretgirls.json](./347243-turretgirls.json) |
 | TurretMaster | 75954 | [75954-turretmaster.json](./75954-turretmaster.json) |
+| Turretz | 96809 | [96809-turretz.json](./96809-turretz.json) |
 | Turrican | 5164 | [5164-turrican.json](./5164-turrican.json) |
 | Turrican 3 | 12803 | [12803-turrican-3.json](./12803-turrican-3.json) |
 | Turrican Anthology Vol. 1 | 137324 | [137324-turrican-anthology-vol-1.json](./137324-turrican-anthology-vol-1.json) |
