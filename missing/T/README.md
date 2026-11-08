@@ -7377,6 +7377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Children of Magia | 393014 | [393014-the-children-of-magia.json](./393014-the-children-of-magia.json) |
 | The Children of The Woods: Lost Tape | 285891 | [285891-the-children-of-the-woods-lost-tape.json](./285891-the-children-of-the-woods-lost-tape.json) |
 | The Children's Friend | 236731 | [236731-the-childrens-friend.json](./236731-the-childrens-friend.json) |
+| The Childs Sight | 115920 | [115920-the-childs-sight.json](./115920-the-childs-sight.json) |
 | The Chilling Moment You Realize It: Creepy Meaning Psychological Test | 410366 | [410366-the-chilling-moment-you-realize-it-creepy-meaning-psychological-test.json](./410366-the-chilling-moment-you-realize-it-creepy-meaning-psychological-test.json) |
 | The Chimba's Adventure | 262144 | [262144-the-chimbas-adventure.json](./262144-the-chimbas-adventure.json) |
 | The Chinese Room | 26699 | [26699-the-chinese-room.json](./26699-the-chinese-room.json) |
@@ -21210,6 +21211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiandao | 419957 | [419957-tiandao.json](./419957-tiandao.json) |
 | Tiāndào: Gōngdé Chāojí Bāo | 347223 | [347223-tiandao-gongde-chaoji-bao.json](./347223-tiandao-gongde-chaoji-bao.json) |
 | Tiāndào: Gōngdé Dà Lǐ Bāo | 347224 | [347224-tiandao-gongde-da-li-bao.json](./347224-tiandao-gongde-da-li-bao.json) |
+| Tiānhuǒ | 115916 | [115916-tianhuo.json](./115916-tianhuo.json) |
 | Tiani | 168528 | [168528-tiani.json](./168528-tiani.json) |
 | Tianji: Shadow of the Ancients | 416886 | [416886-tianji-shadow-of-the-ancients.json](./416886-tianji-shadow-of-the-ancients.json) |
 | Tianlao Sokoban | 107820 | [107820-tianlao-sokoban.json](./107820-tianlao-sokoban.json) |
@@ -32888,6 +32890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsumannai | 221037 | [221037-tsumannai.json](./221037-tsumannai.json) |
 | Tsumego Pro | 402323 | [402323-tsumego-pro.json](./402323-tsumego-pro.json) |
 | Tsumera | 268456 | [268456-tsumera.json](./268456-tsumera.json) |
+| Tsumi | 115927 | [115927-tsumi.json](./115927-tsumi.json) |
 | Tsumi no Hikari Rendez-vous | 327546 | [327546-tsumi-no-hikari-rendez-vous.json](./327546-tsumi-no-hikari-rendez-vous.json) |
 | Tsumi no Hikari Rendezvous | 335581 | [335581-tsumi-no-hikari-rendezvous.json](./335581-tsumi-no-hikari-rendezvous.json) |
 | Tsumige Shoujo | 278807 | [278807-tsumige-shoujo.json](./278807-tsumige-shoujo.json) |
@@ -33001,6 +33004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tube-It | 69365 | [69365-tube-it.json](./69365-tube-it.json) |
 | Tubedle | 300436 | [300436-tubedle.json](./300436-tubedle.json) |
 | TubeDudeMan | 342244 | [342244-tubedudeman.json](./342244-tubedudeman.json) |
+| Tubelive | 115877 | [115877-tubelive.json](./115877-tubelive.json) |
 | Tuber Run | 114713 | [114713-tuber-run.json](./114713-tuber-run.json) |
 | Tuber`s Run | 115017 | [115017-tuber-s-run.json](./115017-tuber-s-run.json) |
 | Tubes | 69731 | [69731-tubes.json](./69731-tubes.json) |
