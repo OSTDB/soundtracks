@@ -4141,6 +4141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Dive | 324307 | [324307-hell-dive.json](./324307-hell-dive.json) |
 | Hell Division | 203683 | [203683-hell-division.json](./203683-hell-division.json) |
 | Hell Dungeons: The Lost Soul | 236362 | [236362-hell-dungeons-the-lost-soul.json](./236362-hell-dungeons-the-lost-soul.json) |
+| Hell Empire: Sinners Flow | 115893 | [115893-hell-empire-sinners-flow.json](./115893-hell-empire-sinners-flow.json) |
 | Hell Express | 340274 | [340274-hell-express.json](./340274-hell-express.json) |
 | Hell Fighter | 242108 | [242108-hell-fighter.json](./242108-hell-fighter.json) |
 | Hell Fire: Seed of Calamity | 418727 | [418727-hell-fire-seed-of-calamity.json](./418727-hell-fire-seed-of-calamity.json) |
@@ -11058,6 +11059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HotHead | 110340 | [110340-hothead.json](./110340-hothead.json) |
 | Hothead Games | 110020 | [110020-hothead-games.json](./110020-hothead-games.json) |
 | HotHead Heights | 215377 | [215377-hothead-heights.json](./215377-hothead-heights.json) |
+| Hotlap Heroes | 115876 | [115876-hotlap-heroes.json](./115876-hotlap-heroes.json) |
 | HotLead | 34241 | [34241-hotlead.json](./34241-hotlead.json) |
 | Hotline Miami Collection | 99733 | [99733-hotline-miami-collection.json](./99733-hotline-miami-collection.json) |
 | Hotline Miami: Collected Edition | 77985 | [77985-hotline-miami-collected-edition.json](./77985-hotline-miami-collected-edition.json) |
