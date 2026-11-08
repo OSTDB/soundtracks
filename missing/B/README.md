@@ -983,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3655,6 +3656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Brothers: Warriors of the North | 124963 | [124963-battle-brothers-warriors-of-the-north.json](./124963-battle-brothers-warriors-of-the-north.json) |
 | Battle Bruise | 28320 | [28320-battle-bruise.json](./28320-battle-bruise.json) |
 | Battle Bruise 2 | 123740 | [123740-battle-bruise-2.json](./123740-battle-bruise-2.json) |
+| Battle Bubbles | 92031 | [92031-battle-bubbles.json](./92031-battle-bubbles.json) |
 | Battle Buddies VR | 74142 | [74142-battle-buddies-vr.json](./74142-battle-buddies-vr.json) |
 | Battle Bugs | 12402 | [12402-battle-bugs.json](./12402-battle-bugs.json) |
 | Battle Bugs | 333490 | [333490-battle-bugs.json](./333490-battle-bugs.json) |
@@ -4212,6 +4214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle-field | 13868 | [13868-battle-field.json](./13868-battle-field.json) |
 | Battle-Girl | 58690 | [58690-battle-girl.json](./58690-battle-girl.json) |
 | Battle-X | 256305 | [256305-battle-x.json](./256305-battle-x.json) |
+| Battle-X | 92032 | [92032-battle-x.json](./92032-battle-x.json) |
 | Battle: Los Angeles | 19010 | [19010-battle-los-angeles.json](./19010-battle-los-angeles.json) |
 | BattleBalls | 365156 | [365156-battleballs.json](./365156-battleballs.json) |
 | BattleBeaks | 98483 | [98483-battlebeaks.json](./98483-battlebeaks.json) |
@@ -6302,6 +6305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bejeweled Deluxe | 220074 | [220074-bejeweled-deluxe.json](./220074-bejeweled-deluxe.json) |
 | Bejeweled Deluxe | 27819 | [27819-bejeweled-deluxe.json](./27819-bejeweled-deluxe.json) |
 | Bejeweled Legend | 238253 | [238253-bejeweled-legend.json](./238253-bejeweled-legend.json) |
+| Bejeweled Live | 92015 | [92015-bejeweled-live.json](./92015-bejeweled-live.json) |
 | Bejeweled Live + | 106044 | [106044-bejeweled-live.json](./106044-bejeweled-live.json) |
 | Bejeweled Stars | 19941 | [19941-bejeweled-stars.json](./19941-bejeweled-stars.json) |
 | Beki, Do You Copy? | 372731 | [372731-beki-do-you-copy.json](./372731-beki-do-you-copy.json) |
@@ -7467,6 +7471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BicycleSim | 211100 | [211100-bicyclesim.json](./211100-bicyclesim.json) |
 | Bicyclism EP | 31950 | [31950-bicyclism-ep.json](./31950-bicyclism-ep.json) |
 | Bid Battle: Auction War Simulator Storage Hunter | 310459 | [310459-bid-battle-auction-war-simulator-storage-hunter.json](./310459-bid-battle-auction-war-simulator-storage-hunter.json) |
+| Bid For Power | 92017 | [92017-bid-for-power.json](./92017-bid-for-power.json) |
 | Bid King | 390605 | [390605-bid-king.json](./390605-bid-king.json) |
 | Bid War: Auction Simulator Storage Hunter | 254007 | [254007-bid-war-auction-simulator-storage-hunter.json](./254007-bid-war-auction-simulator-storage-hunter.json) |
 | Bid Wars: Storage Auctions & Pawn Shop Game | 101115 | [101115-bid-wars-storage-auctions-and-pawn-shop-game.json](./101115-bid-wars-storage-auctions-and-pawn-shop-game.json) |
@@ -8187,6 +8192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo | 206142 | [206142-bingo.json](./206142-bingo.json) |
 | Bingo | 267209 | [267209-bingo.json](./267209-bingo.json) |
 | Bingo | 86064 | [86064-bingo.json](./86064-bingo.json) |
+| Bingo | 92040 | [92040-bingo.json](./92040-bingo.json) |
 | Bingo 75 | 22429 | [22429-bingo-75.json](./22429-bingo-75.json) |
 | Bingo Bay | 239123 | [239123-bingo-bay.json](./239123-bingo-bay.json) |
 | Bingo Beavers | 293232 | [293232-bingo-beavers.json](./293232-bingo-beavers.json) |
@@ -16970,6 +16976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Tea: Game for Thinking and Imagination | 151024 | [151024-bubble-tea-game-for-thinking-and-imagination.json](./151024-bubble-tea-game-for-thinking-and-imagination.json) |
 | Bubble Tea: Game for Thinking and Imagination - Escape | 168246 | [168246-bubble-tea-game-for-thinking-and-imagination-escape.json](./168246-bubble-tea-game-for-thinking-and-imagination-escape.json) |
 | Bubble Tower 3D | 314478 | [314478-bubble-tower-3d.json](./314478-bubble-tower-3d.json) |
+| Bubble Town | 92016 | [92016-bubble-town.json](./92016-bubble-town.json) |
 | Bubble Town 2 | 66429 | [66429-bubble-town-2.json](./66429-bubble-town-2.json) |
 | Bubble Troops | 236531 | [236531-bubble-troops.json](./236531-bubble-troops.json) |
 | Bubble Trouble | 83918 | [83918-bubble-trouble.json](./83918-bubble-trouble.json) |
