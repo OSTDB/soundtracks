@@ -25344,6 +25344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Jedi Knight - Mysteries of the Sith | 160 | [160-star-wars-jedi-knight-mysteries-of-the-sith.json](./160-star-wars-jedi-knight-mysteries-of-the-sith.json) |
 | Star Wars: Jedi Knight Collection | 54401 | [54401-star-wars-jedi-knight-collection.json](./54401-star-wars-jedi-knight-collection.json) |
 | Star Wars: Jedi Knight II: Jedi Outcast Demo | 367367 | [367367-star-wars-jedi-knight-ii-jedi-outcast-demo.json](./367367-star-wars-jedi-knight-ii-jedi-outcast-demo.json) |
+| Star Wars: Jedi Math | 92035 | [92035-star-wars-jedi-math.json](./92035-star-wars-jedi-math.json) |
 | Star Wars: Jedi Power Battles | 301489 | [301489-star-wars-jedi-power-battles.json](./301489-star-wars-jedi-power-battles.json) |
 | Star Wars: Jedi Reading | 91751 | [91751-star-wars-jedi-reading.json](./91751-star-wars-jedi-reading.json) |
 | Star Wars: Jedi Trials | 65161 | [65161-star-wars-jedi-trials.json](./65161-star-wars-jedi-trials.json) |
