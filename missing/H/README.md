@@ -3429,6 +3429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart. Papers. Border. | 26187 | [26187-heart-papers-border.json](./26187-heart-papers-border.json) |
 | Heart.HalfHalf | 260384 | [260384-heart-halfhalf.json](./260384-heart-halfhalf.json) |
 | Heart.Marrow.Blood. | 377557 | [377557-heart-marrow-blood.json](./377557-heart-marrow-blood.json) |
+| Heart'n Block | 103622 | [103622-heartn-block.json](./103622-heartn-block.json) |
 | Heart's Blight | 178918 | [178918-hearts-blight.json](./178918-hearts-blight.json) |
 | Heart's Medicine Collection | 53176 | [53176-hearts-medicine-collection.json](./53176-hearts-medicine-collection.json) |
 | Heart's Medicine: Doctor's Oath | 112025 | [112025-hearts-medicine-doctors-oath.json](./112025-hearts-medicine-doctors-oath.json) |
@@ -4853,6 +4854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HenPri | 322740 | [322740-henpri.json](./322740-henpri.json) |
 | HenPri: Hentai Prison | 192094 | [192094-henpri-hentai-prison.json](./192094-henpri-hentai-prison.json) |
 | Henri | 222521 | [222521-henri.json](./222521-henri.json) |
+| Henri's Secret | 103597 | [103597-henris-secret.json](./103597-henris-secret.json) |
 | Henri's Secret 2 | 187052 | [187052-henris-secret-2.json](./187052-henris-secret-2.json) |
 | Henry | 80642 | [80642-henry.json](./80642-henry.json) |
 | Henry Danger Crime Warp | 106933 | [106933-henry-danger-crime-warp.json](./106933-henry-danger-crime-warp.json) |
@@ -9917,6 +9919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HookCat | 159267 | [159267-hookcat.json](./159267-hookcat.json) |
 | Hooked | 265485 | [265485-hooked.json](./265485-hooked.json) |
 | Hooked | 405653 | [405653-hooked.json](./405653-hooked.json) |
+| Hooked Inc: Fisher Tycoon | 103583 | [103583-hooked-inc-fisher-tycoon.json](./103583-hooked-inc-fisher-tycoon.json) |
 | Hooked on Bass Fishing | 78610 | [78610-hooked-on-bass-fishing.json](./78610-hooked-on-bass-fishing.json) |
 | Hooked On Speed | 316604 | [316604-hooked-on-speed.json](./316604-hooked-on-speed.json) |
 | Hooked on You: A Dead by Daylight Dating Sim | 202141 | [202141-hooked-on-you-a-dead-by-daylight-dating-sim.json](./202141-hooked-on-you-a-dead-by-daylight-dating-sim.json) |
@@ -9954,6 +9957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoop Gawds | 143899 | [143899-hoop-gawds.json](./143899-hoop-gawds.json) |
 | Hoop Land | 250996 | [250996-hoop-land.json](./250996-hoop-land.json) |
 | Hoop Route | 55713 | [55713-hoop-route.json](./55713-hoop-route.json) |
+| Hoop Rush | 103588 | [103588-hoop-rush.json](./103588-hoop-rush.json) |
 | Hoop Shoot | 276555 | [276555-hoop-shoot.json](./276555-hoop-shoot.json) |
 | Hoop Shot VR | 44265 | [44265-hoop-shot-vr.json](./44265-hoop-shot-vr.json) |
 | Hoop Smash | 116418 | [116418-hoop-smash.json](./116418-hoop-smash.json) |
