@@ -16742,6 +16742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monstropoly | 215012 | [215012-monstropoly.json](./215012-monstropoly.json) |
 | Monstrosity | 252047 | [252047-monstrosity.json](./252047-monstrosity.json) |
 | Monstrosity | 306275 | [306275-monstrosity.json](./306275-monstrosity.json) |
+| Monstrous | 100473 | [100473-monstrous.json](./100473-monstrous.json) |
 | Monstrous Cravings | 298913 | [298913-monstrous-cravings.json](./298913-monstrous-cravings.json) |
 | Monstrous Liberation | 361086 | [361086-monstrous-liberation.json](./361086-monstrous-liberation.json) |
 | Monstrous Love | 221200 | [221200-monstrous-love.json](./221200-monstrous-love.json) |
