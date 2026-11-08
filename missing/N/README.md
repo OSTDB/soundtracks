@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NanoDeath | 305939 | [305939-nanodeath.json](./305939-nanodeath.json) |
 | Nanofights | 36109 | [36109-nanofights.json](./36109-nanofights.json) |
 | Nanoforce: Tactical Surgeon Fighter | 240575 | [240575-nanoforce-tactical-surgeon-fighter.json](./240575-nanoforce-tactical-surgeon-fighter.json) |
+| Nanoha no Ken | 91479 | [91479-nanoha-no-ken.json](./91479-nanoha-no-ken.json) |
 | Nanoha Taiken 2nd Chu | 213908 | [213908-nanoha-taiken-2nd-chu.json](./213908-nanoha-taiken-2nd-chu.json) |
 | NanoHive | 216991 | [216991-nanohive.json](./216991-nanohive.json) |
 | Nanoka Project | 226763 | [226763-nanoka-project.json](./226763-nanoka-project.json) |
