@@ -4167,6 +4167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Club Story | 134020 | [134020-tennis-club-story.json](./134020-tennis-club-story.json) |
 | Tennis Court Smash | 92667 | [92667-tennis-court-smash.json](./92667-tennis-court-smash.json) |
 | Tennis Crackdown | 241545 | [241545-tennis-crackdown.json](./241545-tennis-crackdown.json) |
+| Tennis Critters | 94279 | [94279-tennis-critters.json](./94279-tennis-critters.json) |
 | Tennis Cup | 123005 | [123005-tennis-cup.json](./123005-tennis-cup.json) |
 | Tennis Cup II | 73690 | [73690-tennis-cup-ii.json](./73690-tennis-cup-ii.json) |
 | Tennis Dog: Ultimate Good Boy | 179982 | [179982-tennis-dog-ultimate-good-boy.json](./179982-tennis-dog-ultimate-good-boy.json) |
@@ -23256,6 +23257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tilemancer | 420752 | [420752-tilemancer.json](./420752-tilemancer.json) |
 | Tilemount | 341640 | [341640-tilemount.json](./341640-tilemount.json) |
 | Tiler More | 232501 | [232501-tiler-more.json](./232501-tiler-more.json) |
+| TileRogue | 94295 | [94295-tilerogue.json](./94295-tilerogue.json) |
 | Tiles | 104574 | [104574-tiles.json](./104574-tiles.json) |
 | Tiles | 29450 | [29450-tiles.json](./29450-tiles.json) |
 | Tiles & Tales | 30592 | [30592-tiles-and-tales.json](./30592-tiles-and-tales.json) |
@@ -26076,6 +26078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Too White Basketball | 119636 | [119636-too-white-basketball.json](./119636-too-white-basketball.json) |
 | TooBold 3 | 97102 | [97102-toobold-3.json](./97102-toobold-3.json) |
 | Toobtrix | 96548 | [96548-toobtrix.json](./96548-toobtrix.json) |
+| Toobz | 94270 | [94270-toobz.json](./94270-toobz.json) |
 | Toodee and Topdee | 366489 | [366489-toodee-and-topdee.json](./366489-toodee-and-topdee.json) |
 | Toodle's Toboggan: Wintery Slopes | 109517 | [109517-toodles-toboggan-wintery-slopes.json](./109517-toodles-toboggan-wintery-slopes.json) |
 | Toodles & Toddlers | 144570 | [144570-toodles-and-toddlers.json](./144570-toodles-and-toddlers.json) |
@@ -32252,6 +32255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trophies: A Corruption Tale | 385885 | [385885-trophies-a-corruption-tale.json](./385885-trophies-a-corruption-tale.json) |
 | Trophy | 143070 | [143070-trophy.json](./143070-trophy.json) |
 | Trophy Bass | 22625 | [22625-trophy-bass.json](./22625-trophy-bass.json) |
+| Trophy Bass 2 Deluxe | 94314 | [94314-trophy-bass-2-deluxe.json](./94314-trophy-bass-2-deluxe.json) |
 | Trophy Fishing 2 | 43181 | [43181-trophy-fishing-2.json](./43181-trophy-fishing-2.json) |
 | Trophy Hunt | 275129 | [275129-trophy-hunt.json](./275129-trophy-hunt.json) |
 | Trophy Hunt: Evolution | 97161 | [97161-trophy-hunt-evolution.json](./97161-trophy-hunt-evolution.json) |
@@ -33809,6 +33813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twelfth Life | 211989 | [211989-twelfth-life.json](./211989-twelfth-life.json) |
 | Twell | 241379 | [241379-twell.json](./241379-twell.json) |
 | Twelve a Dozen | 23428 | [23428-twelve-a-dozen.json](./23428-twelve-a-dozen.json) |
+| Twelve Chairs | 94370 | [94370-twelve-chairs.json](./94370-twelve-chairs.json) |
 | Twelve Containers | 137187 | [137187-twelve-containers.json](./137187-twelve-containers.json) |
 | Twelve Floors Below. | 173348 | [173348-twelve-floors-below.json](./173348-twelve-floors-below.json) |
 | Twelve Mental Patients | 359362 | [359362-twelve-mental-patients.json](./359362-twelve-mental-patients.json) |
