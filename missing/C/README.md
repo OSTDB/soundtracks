@@ -838,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Honor: Duty of Warfare | 288162 | [288162-call-of-honor-duty-of-warfare.json](./288162-call-of-honor-duty-of-warfare.json) |
 | Call of Honor: Duty of Warfare & Battlefront Trench Warriors: Ops of Warfare | 305623 | [305623-call-of-honor-duty-of-warfare-and-battlefront-trench-warriors-ops-of-warfare.json](./305623-call-of-honor-duty-of-warfare-and-battlefront-trench-warriors-ops-of-warfare.json) |
 | Call of Honor: Shooter of Warfare | 328095 | [328095-call-of-honor-shooter-of-warfare.json](./328095-call-of-honor-shooter-of-warfare.json) |
+| Call of Honor: Solitaire | 126161 | [126161-call-of-honor-solitaire.json](./126161-call-of-honor-solitaire.json) |
 | Call of Juarez | 429 | [429-call-of-juarez.json](./429-call-of-juarez.json) |
 | Call of Juarez: Bound In Blood | 430 | [430-call-of-juarez-bound-in-blood.json](./430-call-of-juarez-bound-in-blood.json) |
 | Call of Juarez: The Cartel | 543 | [543-call-of-juarez-the-cartel.json](./543-call-of-juarez-the-cartel.json) |
@@ -12920,6 +12921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combate | 251313 | [251313-combate.json](./251313-combate.json) |
 | Combate Monero | 117622 | [117622-combate-monero.json](./117622-combate-monero.json) |
 | Combats | 253238 | [253238-combats.json](./253238-combats.json) |
+| Combattre ou Mourir | 126113 | [126113-combattre-ou-mourir.json](./126113-combattre-ou-mourir.json) |
 | Combi Pool | 291603 | [291603-combi-pool.json](./291603-combi-pool.json) |
 | Combi Ring Advanced | 326129 | [326129-combi-ring-advanced.json](./326129-combi-ring-advanced.json) |
 | Combination Lock | 70436 | [70436-combination-lock.json](./70436-combination-lock.json) |
@@ -21173,6 +21175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyborg Invasion Shooter 2: Battle of Earth | 88256 | [88256-cyborg-invasion-shooter-2-battle-of-earth.json](./88256-cyborg-invasion-shooter-2-battle-of-earth.json) |
 | Cyborg Invasion Shooter 3: Savior of the World | 115501 | [115501-cyborg-invasion-shooter-3-savior-of-the-world.json](./115501-cyborg-invasion-shooter-3-savior-of-the-world.json) |
 | Cyborg Justice | 46236 | [46236-cyborg-justice.json](./46236-cyborg-justice.json) |
+| Cyborg Killer Moscow 2042 | 126131 | [126131-cyborg-killer-moscow-2042.json](./126131-cyborg-killer-moscow-2042.json) |
 | Cyborg Lumberjack | 297083 | [297083-cyborg-lumberjack.json](./297083-cyborg-lumberjack.json) |
 | Cyborg Mechanic | 127017 | [127017-cyborg-mechanic.json](./127017-cyborg-mechanic.json) |
 | Cyborg Ninja vs. The Third Reich | 115585 | [115585-cyborg-ninja-vs-the-third-reich.json](./115585-cyborg-ninja-vs-the-third-reich.json) |
