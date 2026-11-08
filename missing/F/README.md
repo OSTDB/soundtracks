@@ -6005,6 +6005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Embrace: Erabareshi Chigyuu no Ken | 163923 | [163923-fire-embrace-erabareshi-chigyuu-no-ken.json](./163923-fire-embrace-erabareshi-chigyuu-no-ken.json) |
 | Fire Engine Simulator | 383403 | [383403-fire-engine-simulator.json](./383403-fire-engine-simulator.json) |
 | Fire Entrance | 374086 | [374086-fire-entrance.json](./374086-fire-entrance.json) |
+| Fire Escape | 132348 | [132348-fire-escape.json](./132348-fire-escape.json) |
 | Fire Escape | 62575 | [62575-fire-escape.json](./62575-fire-escape.json) |
 | Fire Farm VR | 31964 | [31964-fire-farm-vr.json](./31964-fire-farm-vr.json) |
 | Fire Fighter | 18479 | [18479-fire-fighter.json](./18479-fire-fighter.json) |
@@ -7897,6 +7898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Masters: The Horizon Chase | 322121 | [322121-flight-masters-the-horizon-chase.json](./322121-flight-masters-the-horizon-chase.json) |
 | Flight of a Dragon | 270406 | [270406-flight-of-a-dragon.json](./270406-flight-of-a-dragon.json) |
 | Flight of Light | 52771 | [52771-flight-of-light.json](./52771-flight-of-light.json) |
+| Flight of Nova | 132359 | [132359-flight-of-nova.json](./132359-flight-of-nova.json) |
 | Flight of Pigarus | 144017 | [144017-flight-of-pigarus.json](./144017-flight-of-pigarus.json) |
 | Flight of the Amazon Queen | 8789 | [8789-flight-of-the-amazon-queen.json](./8789-flight-of-the-amazon-queen.json) |
 | Flight of the Amazon Queen: 25th Anniversary Edition | 148105 | [148105-flight-of-the-amazon-queen-25th-anniversary-edition.json](./148105-flight-of-the-amazon-queen-25th-anniversary-edition.json) |
@@ -11707,6 +11709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddy in Space 3: Chica in Space | 272691 | [272691-freddy-in-space-3-chica-in-space.json](./272691-freddy-in-space-3-chica-in-space.json) |
 | Freddy Or Not | 396697 | [396697-freddy-or-not.json](./396697-freddy-or-not.json) |
 | Freddy Pharkas: Frontier Pharmacist | 110 | [110-freddy-pharkas-frontier-pharmacist.json](./110-freddy-pharkas-frontier-pharmacist.json) |
+| Freddy Spaghetti | 132369 | [132369-freddy-spaghetti.json](./132369-freddy-spaghetti.json) |
 | Freddy Spaghetti 2 | 155471 | [155471-freddy-spaghetti-2.json](./155471-freddy-spaghetti-2.json) |
 | Freddy's Archives: Remains Of The Past | 253949 | [253949-freddys-archives-remains-of-the-past.json](./253949-freddys-archives-remains-of-the-past.json) |
 | Freddy's Job : Old Pizzeria | 275151 | [275151-freddys-job-old-pizzeria.json](./275151-freddys-job-old-pizzeria.json) |
