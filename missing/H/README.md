@@ -6624,6 +6624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexagonos | 230653 | [230653-hexagonos.json](./230653-hexagonos.json) |
 | Hexagons | 83179 | [83179-hexagons.json](./83179-hexagons.json) |
 | Hexagourds | 182893 | [182893-hexagourds.json](./182893-hexagourds.json) |
+| HexaGravity | 117941 | [117941-hexagravity.json](./117941-hexagravity.json) |
 | Hexagroove: Tactical DJ | 123323 | [123323-hexagroove-tactical-dj.json](./123323-hexagroove-tactical-dj.json) |
 | Hexagun | 125098 | [125098-hexagun.json](./125098-hexagun.json) |
 | Hexahedra | 148188 | [148188-hexahedra.json](./148188-hexahedra.json) |
