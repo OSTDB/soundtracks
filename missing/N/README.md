@@ -21,6 +21,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N-raged | 180037 | [180037-n-raged.json](./180037-n-raged.json) |
 | N-Sub | 364844 | [364844-n-sub.json](./364844-n-sub.json) |
 | N-Warp Daisakusen | 37735 | [37735-n-warp-daisakusen.json](./37735-n-warp-daisakusen.json) |
+| N?na, Ha?e F?aith | 128757 | [128757-n-na-ha-e-f-aith.json](./128757-n-na-ha-e-f-aith.json) |
 | N.a.N Industry VR | 123559 | [123559-n-a-n-industry-vr.json](./123559-n-a-n-industry-vr.json) |
 | N.E.O | 125092 | [125092-n-e-o.json](./125092-n-e-o.json) |
 | N.E.O.N.: Never-Ending Onslaught of Nerds | 152922 | [152922-n-e-o-n-never-ending-onslaught-of-nerds.json](./152922-n-e-o-n-never-ending-onslaught-of-nerds.json) |
@@ -5706,6 +5707,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NMNE | 181106 | [181106-nmne.json](./181106-nmne.json) |
 | Nmnmah | 392711 | [392711-nmnmah.json](./392711-nmnmah.json) |
 | NMO: No More Operators | 294341 | [294341-nmo-no-more-operators.json](./294341-nmo-no-more-operators.json) |
+| Nmpisun | 128751 | [128751-nmpisun.json](./128751-nmpisun.json) |
 | Nnnnnight | 319059 | [319059-nnnnnight.json](./319059-nnnnnight.json) |
 | Nnnnnn | 134352 | [134352-nnnnnn.json](./134352-nnnnnn.json) |
 | No 1 Lives | 195878 | [195878-no-1-lives.json](./195878-no-1-lives.json) |
@@ -7141,6 +7143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Notes on Crying | 181918 | [181918-notes-on-crying.json](./181918-notes-on-crying.json) |
 | Nother | 30899 | [30899-nother.json](./30899-nother.json) |
 | Nothin' But Net | 32206 | [32206-nothin-but-net.json](./32206-nothin-but-net.json) |
+| Nothing | 128725 | [128725-nothing.json](./128725-nothing.json) |
 | Nothing | 282550 | [282550-nothing.json](./282550-nothing.json) |
 | Nothing | 331747 | [331747-nothing.json](./331747-nothing.json) |
 | Nothing & Nowhere | 133413 | [133413-nothing-and-nowhere.json](./133413-nothing-and-nowhere.json) |
@@ -7525,6 +7528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Tides | 333435 | [333435-nuclear-tides.json](./333435-nuclear-tides.json) |
 | Nuclear Titbit | 113375 | [113375-nuclear-titbit.json](./113375-nuclear-titbit.json) |
 | Nuclear Titbit 2 | 250593 | [250593-nuclear-titbit-2.json](./250593-nuclear-titbit-2.json) |
+| Nuclear Titbit: Flashback | 128750 | [128750-nuclear-titbit-flashback.json](./128750-nuclear-titbit-flashback.json) |
 | Nuclear Union | 1909 | [1909-nuclear-union.json](./1909-nuclear-union.json) |
 | Nuclear War | 12189 | [12189-nuclear-war.json](./12189-nuclear-war.json) |
 | Nuclear War Simulator | 154350 | [154350-nuclear-war-simulator.json](./154350-nuclear-war-simulator.json) |
