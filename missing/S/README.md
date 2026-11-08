@@ -3875,6 +3875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sculpt People: Moulding Stars | 289189 | [289189-sculpt-people-moulding-stars.json](./289189-sculpt-people-moulding-stars.json) |
 | Sculptor | 122286 | [122286-sculptor.json](./122286-sculptor.json) |
 | Sculptor | 374775 | [374775-sculptor.json](./374775-sculptor.json) |
+| Sculptorgeist | 128742 | [128742-sculptorgeist.json](./128742-sculptorgeist.json) |
 | SculptrVR | 359909 | [359909-sculptrvr.json](./359909-sculptrvr.json) |
 | Sculpture of Chance | 244749 | [244749-sculpture-of-chance.json](./244749-sculpture-of-chance.json) |
 | Sculpturn | 264141 | [264141-sculpturn.json](./264141-sculpturn.json) |
@@ -22001,6 +22002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Ponds | 129571 | [129571-spider-ponds.json](./129571-spider-ponds.json) |
 | Spider Pong | 359466 | [359466-spider-pong.json](./359466-spider-pong.json) |
 | Spider Queen Cave | 240029 | [240029-spider-queen-cave.json](./240029-spider-queen-cave.json) |
+| Spider Raid | 128727 | [128727-spider-raid.json](./128727-spider-raid.json) |
 | Spider Riders: Battle for Arachna | 316801 | [316801-spider-riders-battle-for-arachna.json](./316801-spider-riders-battle-for-arachna.json) |
 | Spider Roulette | 386694 | [386694-spider-roulette.json](./386694-spider-roulette.json) |
 | Spider SG-21 | 230741 | [230741-spider-sg-21.json](./230741-spider-sg-21.json) |
@@ -32054,6 +32056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Leap Day | 193770 | [193770-super-leap-day.json](./193770-super-leap-day.json) |
 | Super Ledgehop: Double Laser | 110857 | [110857-super-ledgehop-double-laser.json](./110857-super-ledgehop-double-laser.json) |
 | Super Lee World | 120950 | [120950-super-lee-world.json](./120950-super-lee-world.json) |
+| Super Leg Shaver II Turbo | 128736 | [128736-super-leg-shaver-ii-turbo.json](./128736-super-leg-shaver-ii-turbo.json) |
 | Super Lemonade Factory | 17540 | [17540-super-lemonade-factory.json](./17540-super-lemonade-factory.json) |
 | Super Lemonade Factory 1989 | 61010 | [61010-super-lemonade-factory-1989.json](./61010-super-lemonade-factory-1989.json) |
 | Super Lemonade Factory Part Two | 61011 | [61011-super-lemonade-factory-part-two.json](./61011-super-lemonade-factory-part-two.json) |
