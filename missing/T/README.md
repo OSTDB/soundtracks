@@ -4932,6 +4932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Testing Pool | 262424 | [262424-testing-pool.json](./262424-testing-pool.json) |
 | Tet | 232646 | [232646-tet.json](./232646-tet.json) |
 | Tet Story | 400370 | [400370-tet-story.json](./400370-tet-story.json) |
+| Tet VR | 103610 | [103610-tet-vr.json](./103610-tet-vr.json) |
 | Tetanus | 257353 | [257353-tetanus.json](./257353-tetanus.json) |
 | Tete | 409798 | [409798-tete.json](./409798-tete.json) |
 | Tete's Atelier: Patches | 374434 | [374434-tetes-atelier-patches.json](./374434-tetes-atelier-patches.json) |
@@ -10732,6 +10733,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hand is Faster than the Eye | 318227 | [318227-the-hand-is-faster-than-the-eye.json](./318227-the-hand-is-faster-than-the-eye.json) |
 | The Hand of Glory | 111103 | [111103-the-hand-of-glory.json](./111103-the-hand-of-glory.json) |
 | The Hand of Glory: The Blowtorch Files | 197455 | [197455-the-hand-of-glory-the-blowtorch-files.json](./197455-the-hand-of-glory-the-blowtorch-files.json) |
+| The Hand of Merlin | 103591 | [103591-the-hand-of-merlin.json](./103591-the-hand-of-merlin.json) |
 | The Hand of Merlin: Deluxe Edition | 169164 | [169164-the-hand-of-merlin-deluxe-edition.json](./169164-the-hand-of-merlin-deluxe-edition.json) |
 | The Hand of Panda | 85436 | [85436-the-hand-of-panda.json](./85436-the-hand-of-panda.json) |
 | The Hand of the Crownbearer | 403718 | [403718-the-hand-of-the-crownbearer.json](./403718-the-hand-of-the-crownbearer.json) |
@@ -15176,6 +15178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Perfect Shape | 158713 | [158713-the-perfect-shape.json](./158713-the-perfect-shape.json) |
 | The Perfect Sniper | 81012 | [81012-the-perfect-sniper.json](./81012-the-perfect-sniper.json) |
 | The Perfect Specimen | 243620 | [243620-the-perfect-specimen.json](./243620-the-perfect-specimen.json) |
+| The Perfect Square | 103596 | [103596-the-perfect-square.json](./103596-the-perfect-square.json) |
 | The Perfect Tower II | 149572 | [149572-the-perfect-tower-ii.json](./149572-the-perfect-tower-ii.json) |
 | The Perfect Tree | 89697 | [89697-the-perfect-tree.json](./89697-the-perfect-tree.json) |
 | The Perfect Trilogy | 70182 | [70182-the-perfect-trilogy.json](./70182-the-perfect-trilogy.json) |
@@ -17555,6 +17558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Story of Archer | 195901 | [195901-the-story-of-archer.json](./195901-the-story-of-archer.json) |
 | The Story of Barker | 220815 | [220815-the-story-of-barker.json](./220815-the-story-of-barker.json) |
 | The Story of Bill Bear | 173030 | [173030-the-story-of-bill-bear.json](./173030-the-story-of-bill-bear.json) |
+| The story of Gods | 103617 | [103617-the-story-of-gods.json](./103617-the-story-of-gods.json) |
 | The Story of Henry Bishop | 120696 | [120696-the-story-of-henry-bishop.json](./120696-the-story-of-henry-bishop.json) |
 | The Story of King Aress | 125464 | [125464-the-story-of-king-aress.json](./125464-the-story-of-king-aress.json) |
 | The Story of Mikagoyama | 390661 | [390661-the-story-of-mikagoyama.json](./390661-the-story-of-mikagoyama.json) |
@@ -19444,6 +19448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Witch-in-Training and the Magic Seal | 191619 | [191619-the-witch-in-training-and-the-magic-seal.json](./191619-the-witch-in-training-and-the-magic-seal.json) |
 | The Witch, the Ghost and the Snake | 315971 | [315971-the-witch-the-ghost-and-the-snake.json](./315971-the-witch-the-ghost-and-the-snake.json) |
 | The Witch, Wife, & the Wish | 245735 | [245735-the-witch-wife-and-the-wish.json](./245735-the-witch-wife-and-the-wish.json) |
+| The Witch's Apprentice: A Magical Mishap | 103601 | [103601-the-witchs-apprentice-a-magical-mishap.json](./103601-the-witchs-apprentice-a-magical-mishap.json) |
 | The Witch's Apprentice: A Magical Mishap - Collector's Edition | 170198 | [170198-the-witchs-apprentice-a-magical-mishap-collectors-edition.json](./170198-the-witchs-apprentice-a-magical-mishap-collectors-edition.json) |
 | The Witch's Assistant | 290800 | [290800-the-witchs-assistant.json](./290800-the-witchs-assistant.json) |
 | The Witch's Bakery | 278824 | [278824-the-witchs-bakery.json](./278824-the-witchs-bakery.json) |
@@ -26995,6 +27000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tough Guy | 80783 | [80783-tough-guy.json](./80783-tough-guy.json) |
 | Tough Love Arena | 142114 | [142114-tough-love-arena.json](./142114-tough-love-arena.json) |
 | Tough Story: Big Hell | 54457 | [54457-tough-story-big-hell.json](./54457-tough-story-big-hell.json) |
+| Tough Sunvival | 103604 | [103604-tough-sunvival.json](./103604-tough-sunvival.json) |
 | Tough Trucks: Modified Monsters | 73111 | [73111-tough-trucks-modified-monsters.json](./73111-tough-trucks-modified-monsters.json) |
 | Tough Turf | 40259 | [40259-tough-turf.json](./40259-tough-turf.json) |
 | Tough: Dark Fight | 138107 | [138107-tough-dark-fight.json](./138107-tough-dark-fight.json) |
