@@ -486,6 +486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madagascar: Join the Circus | 25186 | [25186-madagascar-join-the-circus.json](./25186-madagascar-join-the-circus.json) |
 | Madagascar: Operation Penguin | 3766 | [3766-madagascar-operation-penguin.json](./3766-madagascar-operation-penguin.json) |
 | Madagascar: Zoo Animals Adventures | 343548 | [343548-madagascar-zoo-animals-adventures.json](./343548-madagascar-zoo-animals-adventures.json) |
+| Madalin Stunt Cars 2 | 101781 | [101781-madalin-stunt-cars-2.json](./101781-madalin-stunt-cars-2.json) |
 | Madam of Malice | 309435 | [309435-madam-of-malice.json](./309435-madam-of-malice.json) |
 | Madam President: She’s My Boss | 288128 | [288128-madam-president-she-s-my-boss.json](./288128-madam-president-she-s-my-boss.json) |
 | Madame Ching's Dungeon of Ecstasy | 133802 | [133802-madame-chings-dungeon-of-ecstasy.json](./133802-madame-chings-dungeon-of-ecstasy.json) |
@@ -716,6 +717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madoka Etoile | 82570 | [82570-madoka-etoile.json](./82570-madoka-etoile.json) |
 | Madoka Magica Grief Syndrome | 27361 | [27361-madoka-magica-grief-syndrome.json](./27361-madoka-magica-grief-syndrome.json) |
 | Madoka Magica Magia Exedra | 307774 | [307774-madoka-magica-magia-exedra.json](./307774-madoka-magica-magia-exedra.json) |
+| Madolica | 101168 | [101168-madolica.json](./101168-madolica.json) |
 | Madonna Simulator | 176379 | [176379-madonna-simulator.json](./176379-madonna-simulator.json) |
 | Madora | 333340 | [333340-madora.json](./333340-madora.json) |
 | Madorica Real Estate | 110589 | [110589-madorica-real-estate.json](./110589-madorica-real-estate.json) |
@@ -7229,6 +7231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Shop Simulator | 152726 | [152726-medieval-shop-simulator.json](./152726-medieval-shop-simulator.json) |
 | Medieval Shop Simulator | 350333 | [350333-medieval-shop-simulator.json](./350333-medieval-shop-simulator.json) |
 | Medieval Shopman | 349757 | [349757-medieval-shopman.json](./349757-medieval-shopman.json) |
+| Medieval Shorts 2 | 101775 | [101775-medieval-shorts-2.json](./101775-medieval-shorts-2.json) |
 | Medieval Shorts 3 | 101752 | [101752-medieval-shorts-3.json](./101752-medieval-shorts-3.json) |
 | Medieval Simulators: Baker | 248047 | [248047-medieval-simulators-baker.json](./248047-medieval-simulators-baker.json) |
 | Medieval Simulators: Tavern | 367091 | [367091-medieval-simulators-tavern.json](./367091-medieval-simulators-tavern.json) |
@@ -13419,6 +13422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mining Survivors | 349037 | [349037-mining-survivors.json](./349037-mining-survivors.json) |
 | Mining Wizards | 379861 | [379861-mining-wizards.json](./379861-mining-wizards.json) |
 | Minion Bartender | 335030 | [335030-minion-bartender.json](./335030-minion-bartender.json) |
+| Minion Clash | 101778 | [101778-minion-clash.json](./101778-minion-clash.json) |
 | Minion Forest | 82333 | [82333-minion-forest.json](./82333-minion-forest.json) |
 | Minion Kart Multiplayer Racing | 241700 | [241700-minion-kart-multiplayer-racing.json](./241700-minion-kart-multiplayer-racing.json) |
 | Minion Mail | 139671 | [139671-minion-mail.json](./139671-minion-mail.json) |
