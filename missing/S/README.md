@@ -7982,6 +7982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep Sheep 3tiles | 219955 | [219955-sheep-sheep-3tiles.json](./219955-sheep-sheep-3tiles.json) |
 | Sheep Sheep Wolf | 112246 | [112246-sheep-sheep-wolf.json](./112246-sheep-sheep-wolf.json) |
 | Sheep Simulator AR | 248265 | [248265-sheep-simulator-ar.json](./248265-sheep-simulator-ar.json) |
+| Sheep Sling | 109840 | [109840-sheep-sling.json](./109840-sheep-sling.json) |
 | Sheep Split | 413383 | [413383-sheep-split.json](./413383-sheep-split.json) |
 | Sheep Sweep | 302182 | [302182-sheep-sweep.json](./302182-sheep-sweep.json) |
 | Sheep Tag 2 | 141967 | [141967-sheep-tag-2.json](./141967-sheep-tag-2.json) |
@@ -10074,6 +10075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shuwa no Mori | 254483 | [254483-shuwa-no-mori.json](./254483-shuwa-no-mori.json) |
 | Shuwa Shuwa Guin! | 383940 | [383940-shuwa-shuwa-guin.json](./383940-shuwa-shuwa-guin.json) |
 | ShuXian Chronicles: Idle Ascension | 358471 | [358471-shuxian-chronicles-idle-ascension.json](./358471-shuxian-chronicles-idle-ascension.json) |
+| Shǔxìng yǔ Shēnghuó | 109823 | [109823-shuxing-yu-shenghuo.json](./109823-shuxing-yu-shenghuo.json) |
 | Shuyaku ni Narenai Boku-tachi ha Kadan de Kaeru wo Tsubusunda. | 314849 | [314849-shuyaku-ni-narenai-boku-tachi-ha-kadan-de-kaeru-wo-tsubusunda.json](./314849-shuyaku-ni-narenai-boku-tachi-ha-kadan-de-kaeru-wo-tsubusunda.json) |
 | Shuyaku wa Zenigata | 66203 | [66203-shuyaku-wa-zenigata.json](./66203-shuyaku-wa-zenigata.json) |
 | Shuyan Saga | 27692 | [27692-shuyan-saga.json](./27692-shuyan-saga.json) |
@@ -15884,6 +15886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowball Go Go Go | 247208 | [247208-snowball-go-go-go.json](./247208-snowball-go-go-go.json) |
 | Snowball Run | 93156 | [93156-snowball-run.json](./93156-snowball-run.json) |
 | Snowball Rush | 116889 | [116889-snowball-rush.json](./116889-snowball-rush.json) |
+| Snowball Saves Summer | 109822 | [109822-snowball-saves-summer.json](./109822-snowball-saves-summer.json) |
 | Snowball Showdown | 184703 | [184703-snowball-showdown.json](./184703-snowball-showdown.json) |
 | Snowball Warfare | 359284 | [359284-snowball-warfare.json](./359284-snowball-warfare.json) |
 | Snowball.io | 231898 | [231898-snowball-io.json](./231898-snowball-io.json) |
@@ -27634,6 +27637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stockboy | 98318 | [98318-stockboy.json](./98318-stockboy.json) |
 | Stockcars Unleashed 2 | 95758 | [95758-stockcars-unleashed-2.json](./95758-stockcars-unleashed-2.json) |
 | Stockfish Chess | 87155 | [87155-stockfish-chess.json](./87155-stockfish-chess.json) |
+| Stockpile | 109839 | [109839-stockpile.json](./109839-stockpile.json) |
 | Stocks | 364990 | [364990-stocks.json](./364990-stocks.json) |
 | Stocks: Main Force Simulator | 374337 | [374337-stocks-main-force-simulator.json](./374337-stocks-main-force-simulator.json) |
 | StockSim | 332623 | [332623-stocksim.json](./332623-stocksim.json) |
@@ -30183,6 +30187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sufficiency | 262922 | [262922-sufficiency.json](./262922-sufficiency.json) |
 | Suffocate | 211897 | [211897-suffocate.json](./211897-suffocate.json) |
 | Suffocation | 295871 | [295871-suffocation.json](./295871-suffocation.json) |
+| Sufoco | 109849 | [109849-sufoco.json](./109849-sufoco.json) |
 | SUGA: Survival Game | 376470 | [376470-suga-survival-game.json](./376470-suga-survival-game.json) |
 | Sugamenia | 296502 | [296502-sugamenia.json](./296502-sugamenia.json) |
 | Sugar & Rolling Stone | 344712 | [344712-sugar-and-rolling-stone.json](./344712-sugar-and-rolling-stone.json) |
@@ -30565,6 +30570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Lesson: Hikari Miyamoto | 136765 | [136765-summer-lesson-hikari-miyamoto.json](./136765-summer-lesson-hikari-miyamoto.json) |
 | Summer Lesson: Hikari, Allison, and Chisato (3 in 1 Basic Game) | 136678 | [136678-summer-lesson-hikari-allison-and-chisato-3-in-1-basic-game.json](./136678-summer-lesson-hikari-allison-and-chisato-3-in-1-basic-game.json) |
 | Summer Loops | 224150 | [224150-summer-loops.json](./224150-summer-loops.json) |
+| Summer Lotus | 109853 | [109853-summer-lotus.json](./109853-summer-lotus.json) |
 | Summer Love | 332342 | [332342-summer-love.json](./332342-summer-love.json) |
 | Summer Mahjong | 71571 | [71571-summer-mahjong.json](./71571-summer-mahjong.json) |
 | Summer Meetings | 121692 | [121692-summer-meetings.json](./121692-summer-meetings.json) |
