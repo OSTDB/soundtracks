@@ -3581,6 +3581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volguard | 85934 | [85934-volguard.json](./85934-volguard.json) |
 | Volguard II | 48551 | [48551-volguard-ii.json](./48551-volguard-ii.json) |
 | Volk-san: Egg&Catch | 151921 | [151921-volk-san-egg-and-catch.json](./151921-volk-san-egg-and-catch.json) |
+| Volkhv: Memoir of the Witch Doctor | 129341 | [129341-volkhv-memoir-of-the-witch-doctor.json](./129341-volkhv-memoir-of-the-witch-doctor.json) |
 | Volkolak: The Will of Gods | 274802 | [274802-volkolak-the-will-of-gods.json](./274802-volkolak-the-will-of-gods.json) |
 | Volkstein | 90150 | [90150-volkstein.json](./90150-volkstein.json) |
 | Vollema | 289911 | [289911-vollema.json](./289911-vollema.json) |
@@ -4403,4 +4404,5 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vyzyvatel | 374717 | [374717-vyzyvatel.json](./374717-vyzyvatel.json) |
 | VZfit Explorer | 130050 | [130050-vzfit-explorer.json](./130050-vzfit-explorer.json) |
 | VZfit Play | 125428 | [125428-vzfit-play.json](./125428-vzfit-play.json) |
+| Vzlom Zhopy | 129301 | [129301-vzlom-zhopy.json](./129301-vzlom-zhopy.json) |
 | VZones | 396501 | [396501-vzones.json](./396501-vzones.json) |
