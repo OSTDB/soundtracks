@@ -477,6 +477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tago Akira no Atama no Taisou Dai-3-Shuu: Fushigi no Kuni no Nazotoki Otogibanashi | 402968 | [402968-tago-akira-no-atama-no-taisou-dai-3-shuu-fushigi-no-kuni-no-nazotoki-otogibanashi.json](./402968-tago-akira-no-atama-no-taisou-dai-3-shuu-fushigi-no-kuni-no-nazotoki-otogibanashi.json) |
 | Tago Akira no Atama no Taisou Dai-4-Shuu: Time Machine no Nazotoki Daibouken | 402969 | [402969-tago-akira-no-atama-no-taisou-dai-4-shuu-time-machine-no-nazotoki-daibouken.json](./402969-tago-akira-no-atama-no-taisou-dai-4-shuu-time-machine-no-nazotoki-daibouken.json) |
 | TagPro | 9604 | [9604-tagpro.json](./9604-tagpro.json) |
+| Tagsom Edutainment | 90771 | [90771-tagsom-edutainment.json](./90771-tagsom-edutainment.json) |
 | TagTime | 274962 | [274962-tagtime.json](./274962-tagtime.json) |
 | Taguan | 377978 | [377978-taguan.json](./377978-taguan.json) |
 | Tahdani | 345232 | [345232-tahdani.json](./345232-tahdani.json) |
@@ -16415,6 +16416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Search: Lost Dreams | 251991 | [251991-the-search-lost-dreams.json](./251991-the-search-lost-dreams.json) |
 | The Searcher Wild West Adventure | 105373 | [105373-the-searcher-wild-west-adventure.json](./105373-the-searcher-wild-west-adventure.json) |
 | The Searchers of Legends : Origin | 120598 | [120598-the-searchers-of-legends-origin.json](./120598-the-searchers-of-legends-origin.json) |
+| The Seashore | 90762 | [90762-the-seashore.json](./90762-the-seashore.json) |
 | The Seaside Inn | 225493 | [225493-the-seaside-inn.json](./225493-the-seaside-inn.json) |
 | The Season of the Warlock | 180132 | [180132-the-season-of-the-warlock.json](./180132-the-season-of-the-warlock.json) |
 | The Seasons | 43129 | [43129-the-seasons.json](./43129-the-seasons.json) |
@@ -17765,6 +17767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Surprising Adventures of Munchausen | 55659 | [55659-the-surprising-adventures-of-munchausen.json](./55659-the-surprising-adventures-of-munchausen.json) |
 | The Surprisingly Short Adventure of Leopold Kettle | 232556 | [232556-the-surprisingly-short-adventure-of-leopold-kettle.json](./232556-the-surprisingly-short-adventure-of-leopold-kettle.json) |
 | The Surreal Imaginarium | 135765 | [135765-the-surreal-imaginarium.json](./135765-the-surreal-imaginarium.json) |
+| The Surrogate | 90764 | [90764-the-surrogate.json](./90764-the-surrogate.json) |
 | The Survival Horror Bundle | 301767 | [301767-the-survival-horror-bundle.json](./301767-the-survival-horror-bundle.json) |
 | The Survivalists | 127305 | [127305-the-survivalists.json](./127305-the-survivalists.json) |
 | The Survivalists: Deluxe Edition | 173159 | [173159-the-survivalists-deluxe-edition.json](./173159-the-survivalists-deluxe-edition.json) |
@@ -18551,6 +18554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Treasures of Montezuma | 44068 | [44068-the-treasures-of-montezuma.json](./44068-the-treasures-of-montezuma.json) |
 | The Treasures of Montezuma 3 | 17790 | [17790-the-treasures-of-montezuma-3.json](./17790-the-treasures-of-montezuma-3.json) |
 | The Treasures of Montezuma 4 Easter Bundle | 121421 | [121421-the-treasures-of-montezuma-4-easter-bundle.json](./121421-the-treasures-of-montezuma-4-easter-bundle.json) |
+| The Treasures of Montezuma 4 HD | 90871 | [90871-the-treasures-of-montezuma-4-hd.json](./90871-the-treasures-of-montezuma-4-hd.json) |
 | The Treasures of Montezuma 5 | 33510 | [33510-the-treasures-of-montezuma-5.json](./33510-the-treasures-of-montezuma-5.json) |
 | The Treasures of Mystery Island | 175802 | [175802-the-treasures-of-mystery-island.json](./175802-the-treasures-of-mystery-island.json) |
 | The Treasures of Mystery Island 2: The Gates of Fate | 53773 | [53773-the-treasures-of-mystery-island-2-the-gates-of-fate.json](./53773-the-treasures-of-mystery-island-2-the-gates-of-fate.json) |
@@ -20518,6 +20522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thirty Eternal Days | 187153 | [187153-thirty-eternal-days.json](./187153-thirty-eternal-days.json) |
 | Thirty Monsters Challenge | 260506 | [260506-thirty-monsters-challenge.json](./260506-thirty-monsters-challenge.json) |
 | Thirty Monsters Challenge 2: Thirty Aliens | 313964 | [313964-thirty-monsters-challenge-2-thirty-aliens.json](./313964-thirty-monsters-challenge-2-thirty-aliens.json) |
+| Thirty One | 90775 | [90775-thirty-one.json](./90775-thirty-one.json) |
 | Thirty One Rummy | 87545 | [87545-thirty-one-rummy.json](./87545-thirty-one-rummy.json) |
 | Thirty Two HardMod | 152967 | [152967-thirty-two-hardmod.json](./152967-thirty-two-hardmod.json) |
 | Thirty Years' War | 32550 | [32550-thirty-years-war.json](./32550-thirty-years-war.json) |
@@ -30510,6 +30515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tram | 413414 | [413414-tram.json](./413414-tram.json) |
 | Tram Simulator Duesseldorf | 101082 | [101082-tram-simulator-duesseldorf.json](./101082-tram-simulator-duesseldorf.json) |
 | Tram Simulator Urban Transit | 274304 | [274304-tram-simulator-urban-transit.json](./274304-tram-simulator-urban-transit.json) |
+| Tram Tycoon Free - Transport Them All! | 90751 | [90751-tram-tycoon-free-transport-them-all.json](./90751-tram-tycoon-free-transport-them-all.json) |
 | TramCity Hakodate | 278893 | [278893-tramcity-hakodate.json](./278893-tramcity-hakodate.json) |
 | Tramp | 55845 | [55845-tramp.json](./55845-tramp.json) |
 | Tramp Simulator: Survival City Full | 223640 | [223640-tramp-simulator-survival-city-full.json](./223640-tramp-simulator-survival-city-full.json) |
