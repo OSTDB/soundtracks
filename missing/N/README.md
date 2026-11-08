@@ -2796,6 +2796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nertz Solitaire | 405645 | [405645-nertz-solitaire.json](./405645-nertz-solitaire.json) |
 | Nerus | 141125 | [141125-nerus.json](./141125-nerus.json) |
 | NervBox | 239253 | [239253-nervbox.json](./239253-nervbox.json) |
+| Nerve | 132386 | [132386-nerve.json](./132386-nerve.json) |
 | Nerve | 335376 | [335376-nerve.json](./335376-nerve.json) |
 | Nerve - Do You Dare? | 122914 | [122914-nerve-do-you-dare.json](./122914-nerve-do-you-dare.json) |
 | Nerve Me | 125833 | [125833-nerve-me.json](./125833-nerve-me.json) |
@@ -5004,6 +5005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nine | 82014 | [82014-nine.json](./82014-nine.json) |
 | Nine Billion Miles from Earth | 396425 | [396425-nine-billion-miles-from-earth.json](./396425-nine-billion-miles-from-earth.json) |
 | Nine Card Isle | 286328 | [286328-nine-card-isle.json](./286328-nine-card-isle.json) |
+| Nine Chronicles | 132342 | [132342-nine-chronicles.json](./132342-nine-chronicles.json) |
 | Nine Days | 273811 | [273811-nine-days.json](./273811-nine-days.json) |
 | Nine Errand | 274512 | [274512-nine-errand.json](./274512-nine-errand.json) |
 | Nine Floors | 301130 | [301130-nine-floors.json](./301130-nine-floors.json) |
