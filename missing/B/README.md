@@ -981,7 +981,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1060,6 +1059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badminton Clash: Master League - World Championship Arena | 181654 | [181654-badminton-clash-master-league-world-championship-arena.json](./181654-badminton-clash-master-league-world-championship-arena.json) |
 | Badminton Kings VR | 89258 | [89258-badminton-kings-vr.json](./89258-badminton-kings-vr.json) |
 | Badminton Master | 224101 | [224101-badminton-master.json](./224101-badminton-master.json) |
+| Badminton Stars! | 104276 | [104276-badminton-stars.json](./104276-badminton-stars.json) |
 | Badminton Time | 314604 | [314604-badminton-time.json](./314604-badminton-time.json) |
 | Badminton Time VR | 345967 | [345967-badminton-time-vr.json](./345967-badminton-time-vr.json) |
 | Badminton World | 323050 | [323050-badminton-world.json](./323050-badminton-world.json) |
@@ -4138,6 +4138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Submarine | 38185 | [38185-battle-submarine.json](./38185-battle-submarine.json) |
 | Battle Suit Aces | 305021 | [305021-battle-suit-aces.json](./305021-battle-suit-aces.json) |
 | Battle Summoners | 36522 | [36522-battle-summoners.json](./36522-battle-summoners.json) |
+| Battle Summoners VR Basic | 104190 | [104190-battle-summoners-vr-basic.json](./104190-battle-summoners-vr-basic.json) |
 | Battle Support | 197261 | [197261-battle-support.json](./197261-battle-support.json) |
 | Battle Support | 336727 | [336727-battle-support.json](./336727-battle-support.json) |
 | Battle Support: Deluxe Edition | 256110 | [256110-battle-support-deluxe-edition.json](./256110-battle-support-deluxe-edition.json) |
@@ -16549,6 +16550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Wolfenstein: Uber Hero Edition | 198684 | [198684-brutal-wolfenstein-uber-hero-edition.json](./198684-brutal-wolfenstein-uber-hero-edition.json) |
 | Brutal: Above the Claw | 45879 | [45879-brutal-above-the-claw.json](./45879-brutal-above-the-claw.json) |
 | Brutal: Paws of Fury | 4449 | [4449-brutal-paws-of-fury.json](./4449-brutal-paws-of-fury.json) |
+| Brutal.io | 104273 | [104273-brutal-io.json](./104273-brutal-io.json) |
 | BrutalAliens | 107903 | [107903-brutalaliens.json](./107903-brutalaliens.json) |
 | Brutalism | 89979 | [89979-brutalism.json](./89979-brutalism.json) |
 | Brutalism: Prelude on Stone | 177713 | [177713-brutalism-prelude-on-stone.json](./177713-brutalism-prelude-on-stone.json) |
