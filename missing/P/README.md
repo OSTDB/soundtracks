@@ -4007,6 +4007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pekko Robot | 240280 | [240280-pekko-robot.json](./240280-pekko-robot.json) |
 | Pekku | 360061 | [360061-pekku.json](./360061-pekku.json) |
 | Peklo | 266230 | [266230-peklo.json](./266230-peklo.json) |
+| Peko Peko Sushi | 96149 | [96149-peko-peko-sushi.json](./96149-peko-peko-sushi.json) |
 | Peko Pop | 227244 | [227244-peko-pop.json](./227244-peko-pop.json) |
 | Pekoe | 136988 | [136988-pekoe.json](./136988-pekoe.json) |
 | Pekoratchi | 256977 | [256977-pekoratchi.json](./256977-pekoratchi.json) |
@@ -7894,6 +7895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates, Vikings and Knights | 221933 | [221933-pirates-vikings-and-knights.json](./221933-pirates-vikings-and-knights.json) |
 | Pirates, Vikings and Knights II | 14978 | [14978-pirates-vikings-and-knights-ii.json](./14978-pirates-vikings-and-knights-ii.json) |
 | Pirates, Vikings, and Knights II | 14916 | [14916-pirates-vikings-and-knights-ii.json](./14916-pirates-vikings-and-knights-ii.json) |
+| Pirates: All Aboard! | 96170 | [96170-pirates-all-aboard.json](./96170-pirates-all-aboard.json) |
 | Pirates: Captain's Quest | 145521 | [145521-pirates-captains-quest.json](./145521-pirates-captains-quest.json) |
 | Pirates: Caribbean Chronicles | 285353 | [285353-pirates-caribbean-chronicles.json](./285353-pirates-caribbean-chronicles.json) |
 | Pirates: Constructible Strategy Game | 67748 | [67748-pirates-constructible-strategy-game.json](./67748-pirates-constructible-strategy-game.json) |
@@ -11965,6 +11967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Relay | 328422 | [328422-poker-relay.json](./328422-poker-relay.json) |
 | Poker Rivals | 342478 | [342478-poker-rivals.json](./342478-poker-rivals.json) |
 | Poker Show VR | 29093 | [29093-poker-show-vr.json](./29093-poker-show-vr.json) |
+| Poker Simulator | 95715 | [95715-poker-simulator.json](./95715-poker-simulator.json) |
 | Poker Smash | 21351 | [21351-poker-smash.json](./21351-poker-smash.json) |
 | Poker Solitaire | 131147 | [131147-poker-solitaire.json](./131147-poker-solitaire.json) |
 | Poker Soul | 213571 | [213571-poker-soul.json](./213571-poker-soul.json) |
@@ -18453,6 +18456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putt Putt Golf | 41311 | [41311-putt-putt-golf.json](./41311-putt-putt-golf.json) |
 | Putt Putt Golf 3D | 175419 | [175419-putt-putt-golf-3d.json](./175419-putt-putt-golf-3d.json) |
 | Putt Putt Golf HD | 175064 | [175064-putt-putt-golf-hd.json](./175064-putt-putt-golf-hd.json) |
+| Putt Putt World | 95717 | [95717-putt-putt-world.json](./95717-putt-putt-world.json) |
 | Putt Putt World - AR Mini Golf | 105898 | [105898-putt-putt-world-ar-mini-golf.json](./105898-putt-putt-world-ar-mini-golf.json) |
 | Putt Putt's One Stop Fun Shop | 47001 | [47001-putt-putts-one-stop-fun-shop.json](./47001-putt-putts-one-stop-fun-shop.json) |
 | Putt-Putt and Fatty Bear's Activity Pack | 10730 | [10730-putt-putt-and-fatty-bears-activity-pack.json](./10730-putt-putt-and-fatty-bears-activity-pack.json) |
