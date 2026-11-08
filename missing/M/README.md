@@ -2920,6 +2920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man in gravity | 156539 | [156539-man-in-gravity.json](./156539-man-in-gravity.json) |
 | Man in the Dark | 278268 | [278268-man-in-the-dark.json](./278268-man-in-the-dark.json) |
 | Man Made | 312768 | [312768-man-made.json](./312768-man-made.json) |
+| Man O' War: Corsair - Fell Cargo | 124904 | [124904-man-o-war-corsair-fell-cargo.json](./124904-man-o-war-corsair-fell-cargo.json) |
 | Man O' War: Corsair - Warhammer Naval Battles | 25058 | [25058-man-o-war-corsair-warhammer-naval-battles.json](./25058-man-o-war-corsair-warhammer-naval-battles.json) |
 | Man of Law \| Judge simulator | 81165 | [81165-man-of-law-judge-simulator.json](./81165-man-of-law-judge-simulator.json) |
 | Man of Prey | 61845 | [61845-man-of-prey.json](./61845-man-of-prey.json) |
@@ -6038,6 +6039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -17132,6 +17134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moony: Black_Lotus | 326226 | [326226-moony-black-lotus.json](./326226-moony-black-lotus.json) |
 | Moonyolk | 213914 | [213914-moonyolk.json](./213914-moonyolk.json) |
 | Moonzytale | 387398 | [387398-moonzytale.json](./387398-moonzytale.json) |
+| Mooon | 124927 | [124927-mooon.json](./124927-mooon.json) |
 | Mooon | 184652 | [184652-mooon.json](./184652-mooon.json) |
 | Mooon | 276742 | [276742-mooon.json](./276742-mooon.json) |
 | Mooon | 292371 | [292371-mooon.json](./292371-mooon.json) |
