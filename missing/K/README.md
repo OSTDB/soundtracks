@@ -2887,7 +2887,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3056,6 +3055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinetica | 8236 | [8236-kinetica.json](./8236-kinetica.json) |
 | Kinetika | 419204 | [419204-kinetika.json](./419204-kinetika.json) |
 | Kinetiks | 410072 | [410072-kinetiks.json](./410072-kinetiks.json) |
+| Kinetix / Dynamix | 79461 | [79461-kinetix-dynamix.json](./79461-kinetix-dynamix.json) |
 | Kinetype | 398366 | [398366-kinetype.json](./398366-kinetype.json) |
 | Kinfolk | 379418 | [379418-kinfolk.json](./379418-kinfolk.json) |
 | KinForge | 377893 | [377893-kinforge.json](./377893-kinforge.json) |
@@ -4370,6 +4370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KKHTA: Security Watch - Part 3 | 287609 | [287609-kkhta-security-watch-part-3.json](./287609-kkhta-security-watch-part-3.json) |
 | KKHTA: Security Watch - The Second Part | 285151 | [285151-kkhta-security-watch-the-second-part.json](./285151-kkhta-security-watch-the-second-part.json) |
 | KKK or AKC? A Quiz by PETA | 330013 | [330013-kkk-or-akc-a-quiz-by-peta.json](./330013-kkk-or-akc-a-quiz-by-peta.json) |
+| KKND: Krush Kill 'n Destroy Xtreme | 79484 | [79484-kknd-krush-kill-n-destroy-xtreme.json](./79484-kknd-krush-kill-n-destroy-xtreme.json) |
 | KKND: Krush, Kill 'N' Destroy | 71738 | [71738-kknd-krush-kill-n-destroy.json](./71738-kknd-krush-kill-n-destroy.json) |
 | Kkokko Industry | 371981 | [371981-kkokko-industry.json](./371981-kkokko-industry.json) |
 | KKuTu Korea | 112247 | [112247-kkutu-korea.json](./112247-kkutu-korea.json) |
@@ -5762,6 +5763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koudelka | 4169 | [4169-koudelka.json](./4169-koudelka.json) |
 | Kouei no Tou | 206373 | [206373-kouei-no-tou.json](./206373-kouei-no-tou.json) |
 | Koueki Zaidan Houjin Nippon Kanji Nouryoku Kentei Kyoukai Kanken Training | 56214 | [56214-koueki-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kanken-training.json](./56214-koueki-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kanken-training.json) |
+| Koueki Zaidan Houjin Nippon Kanji Nouryoku Kentei Kyoukai Kanken Training | 79469 | [79469-koueki-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kanken-training.json](./79469-koueki-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kanken-training.json) |
 | Koueki Zaidan Houjin Nippon Kanji Nouryoku Kentei Kyoukai Kanken Training 2 | 56215 | [56215-koueki-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kanken-training-2.json](./56215-koueki-zaidan-houjin-nippon-kanji-nouryoku-kentei-kyoukai-kanken-training-2.json) |
 | Kouenji Joshi Soccer | 229201 | [229201-kouenji-joshi-soccer.json](./229201-kouenji-joshi-soccer.json) |
 | Kouenji Joshi Soccer 2: Koi wa Nebagiba Kouenji | 115443 | [115443-kouenji-joshi-soccer-2-koi-wa-nebagiba-kouenji.json](./115443-kouenji-joshi-soccer-2-koi-wa-nebagiba-kouenji.json) |
