@@ -10992,6 +10992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudy, then Dried Sardines | 368217 | [368217-cloudy-then-dried-sardines.json](./368217-cloudy-then-dried-sardines.json) |
 | Clout | 105528 | [105528-clout.json](./105528-clout.json) |
 | Clout Chaser | 401064 | [401064-clout-chaser.json](./401064-clout-chaser.json) |
+| Clout Up | 106067 | [106067-clout-up.json](./106067-clout-up.json) |
 | Clouzy! | 136984 | [136984-clouzy.json](./136984-clouzy.json) |
 | Cloven Crania Meadow | 52503 | [52503-cloven-crania-meadow.json](./52503-cloven-crania-meadow.json) |
 | Clover Cove | 385119 | [385119-clover-cove.json](./385119-clover-cove.json) |
@@ -14720,6 +14721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Simulator: Pizza | 299378 | [299378-cooking-simulator-pizza.json](./299378-cooking-simulator-pizza.json) |
 | Cooking Simulator: Shelter | 168935 | [168935-cooking-simulator-shelter.json](./168935-cooking-simulator-shelter.json) |
 | Cooking Simulator: Sushi | 273371 | [273371-cooking-simulator-sushi.json](./273371-cooking-simulator-sushi.json) |
+| Cooking Star Chef: Order Up! | 106032 | [106032-cooking-star-chef-order-up.json](./106032-cooking-star-chef-order-up.json) |
 | Cooking Star Restaurant | 188200 | [188200-cooking-star-restaurant.json](./188200-cooking-star-restaurant.json) |
 | Cooking Talent - Restaurant fever | 104376 | [104376-cooking-talent-restaurant-fever.json](./104376-cooking-talent-restaurant-fever.json) |
 | Cooking Time! | 369725 | [369725-cooking-time.json](./369725-cooking-time.json) |
