@@ -2879,7 +2879,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4750,6 +4749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights and Merchants: The Shattered Kingdom | 3067 | [3067-knights-and-merchants-the-shattered-kingdom.json](./3067-knights-and-merchants-the-shattered-kingdom.json) |
 | Knights and Ogres | 96926 | [96926-knights-and-ogres.json](./96926-knights-and-ogres.json) |
 | Knights Beasts & Magic | 234290 | [234290-knights-beasts-and-magic.json](./234290-knights-beasts-and-magic.json) |
+| Knights Chronicle | 103584 | [103584-knights-chronicle.json](./103584-knights-chronicle.json) |
 | Knights College | 142272 | [142272-knights-college.json](./142272-knights-college.json) |
 | Knights Combo | 299403 | [299403-knights-combo.json](./299403-knights-combo.json) |
 | Knights Conquest | 123060 | [123060-knights-conquest.json](./123060-knights-conquest.json) |
