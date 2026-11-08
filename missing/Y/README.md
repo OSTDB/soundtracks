@@ -695,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-kai Watch 2: Haunted Domain | 417168 | [417168-yo-kai-watch-2-haunted-domain.json](./417168-yo-kai-watch-2-haunted-domain.json) |
 | Yo-Kai Watch 2: Psychic Specters | 27129 | [27129-yo-kai-watch-2-psychic-specters.json](./27129-yo-kai-watch-2-psychic-specters.json) |
 | Yo-kai Watch 3 | 113249 | [113249-yo-kai-watch-3.json](./113249-yo-kai-watch-3.json) |
+| Yo-kai Watch 3: Sukiyaki | 113248 | [113248-yo-kai-watch-3-sukiyaki.json](./113248-yo-kai-watch-3-sukiyaki.json) |
 | Yo-Kai Watch 3: Sushi | 136889 | [136889-yo-kai-watch-3-sushi.json](./136889-yo-kai-watch-3-sushi.json) |
 | Yo-Kai Watch 3: Sushi/Tempura Busters T Pack | 11660 | [11660-yo-kai-watch-3-sushi-tempura-busters-t-pack.json](./11660-yo-kai-watch-3-sushi-tempura-busters-t-pack.json) |
 | Yo-Kai Watch 3: Tempura | 222295 | [222295-yo-kai-watch-3-tempura.json](./222295-yo-kai-watch-3-tempura.json) |
