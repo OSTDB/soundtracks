@@ -5513,6 +5513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatdown City Survivors | 346350 | [346350-beatdown-city-survivors.json](./346350-beatdown-city-survivors.json) |
 | Beatdown Dungeon | 116959 | [116959-beatdown-dungeon.json](./116959-beatdown-dungeon.json) |
 | Beatdown! | 89815 | [89815-beatdown.json](./89815-beatdown.json) |
+| BeatDrop | 137200 | [137200-beatdrop.json](./137200-beatdrop.json) |
 | Beatem Tom and Jerry | 100822 | [100822-beatem-tom-and-jerry.json](./100822-beatem-tom-and-jerry.json) |
 | Beaten Path | 264711 | [264711-beaten-path.json](./264711-beaten-path.json) |
 | Beater Spirit | 32524 | [32524-beater-spirit.json](./32524-beater-spirit.json) |
@@ -5709,6 +5710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beautiful Indie Worlds Bundle | 246112 | [246112-beautiful-indie-worlds-bundle.json](./246112-beautiful-indie-worlds-bundle.json) |
 | Beautiful Japanese Scenery: Animated Jigsaws | 31695 | [31695-beautiful-japanese-scenery-animated-jigsaws.json](./31695-beautiful-japanese-scenery-animated-jigsaws.json) |
 | Beautiful Katamari | 6456 | [6456-beautiful-katamari.json](./6456-beautiful-katamari.json) |
+| Beautiful Light | 137217 | [137217-beautiful-light.json](./137217-beautiful-light.json) |
 | Beautiful Masseuse | 157939 | [157939-beautiful-masseuse.json](./157939-beautiful-masseuse.json) |
 | Beautiful Mystic Defenders | 159748 | [159748-beautiful-mystic-defenders.json](./159748-beautiful-mystic-defenders.json) |
 | Beautiful Mystic Survivors | 200465 | [200465-beautiful-mystic-survivors.json](./200465-beautiful-mystic-survivors.json) |
@@ -13044,6 +13046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonk's Adventure | 280819 | [280819-bonks-adventure.json](./280819-bonks-adventure.json) |
 | Bonk's Adventure | 7794 | [7794-bonks-adventure.json](./7794-bonks-adventure.json) |
 | Bonk's Adventure | 98703 | [98703-bonks-adventure.json](./98703-bonks-adventure.json) |
+| Bonk's Adventure / Bonk's Revenge / Gates of Thunder | 137183 | [137183-bonks-adventure-bonks-revenge-gates-of-thunder.json](./137183-bonks-adventure-bonks-revenge-gates-of-thunder.json) |
 | Bonk's Adventure: Arcade Version | 191614 | [191614-bonks-adventure-arcade-version.json](./191614-bonks-adventure-arcade-version.json) |
 | Bonk's Revenge | 228469 | [228469-bonks-revenge.json](./228469-bonks-revenge.json) |
 | Bonk's Revenge | 7795 | [7795-bonks-revenge.json](./7795-bonks-revenge.json) |
