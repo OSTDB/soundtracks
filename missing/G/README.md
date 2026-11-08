@@ -658,6 +658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Overlord | 352259 | [352259-galactic-overlord.json](./352259-galactic-overlord.json) |
 | Galactic Overthrow | 386820 | [386820-galactic-overthrow.json](./386820-galactic-overthrow.json) |
 | Galactic Panic | 367850 | [367850-galactic-panic.json](./367850-galactic-panic.json) |
+| Galactic Patrol | 95486 | [95486-galactic-patrol.json](./95486-galactic-patrol.json) |
 | Galactic Pawns | 348382 | [348382-galactic-pawns.json](./348382-galactic-pawns.json) |
 | Galactic Phantasy Prelude | 64473 | [64473-galactic-phantasy-prelude.json](./64473-galactic-phantasy-prelude.json) |
 | Galactic Pick Up Artist | 159543 | [159543-galactic-pick-up-artist.json](./159543-galactic-pick-up-artist.json) |
@@ -2297,6 +2298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GateTail | 249015 | [249015-gatetail.json](./249015-gatetail.json) |
 | Gatewalkers | 121384 | [121384-gatewalkers.json](./121384-gatewalkers.json) |
 | Gateway | 248204 | [248204-gateway.json](./248204-gateway.json) |
+| Gateway | 95504 | [95504-gateway.json](./95504-gateway.json) |
 | Gateway I | 281186 | [281186-gateway-i.json](./281186-gateway-i.json) |
 | Gateway II | 281196 | [281196-gateway-ii.json](./281196-gateway-ii.json) |
 | Gateway II: Homeworld | 51391 | [51391-gateway-ii-homeworld.json](./51391-gateway-ii-homeworld.json) |
