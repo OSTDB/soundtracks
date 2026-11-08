@@ -720,6 +720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo! Joe! Beat the Ghosts | 12630 | [12630-yo-joe-beat-the-ghosts.json](./12630-yo-joe-beat-the-ghosts.json) |
 | Yo! Ninjia | 234321 | [234321-yo-ninjia.json](./234321-yo-ninjia.json) |
 | Yo! Noid | 19612 | [19612-yo-noid.json](./19612-yo-noid.json) |
+| Yo! Noid 2 | 116635 | [116635-yo-noid-2.json](./116635-yo-noid-2.json) |
 | Yo! Noid 2: Game of a Year Edition | 133918 | [133918-yo-noid-2-game-of-a-year-edition.json](./133918-yo-noid-2-game-of-a-year-edition.json) |
 | Yo! Noid 4: Episode 3 | 316597 | [316597-yo-noid-4-episode-3.json](./316597-yo-noid-4-episode-3.json) |
 | Yo! Noid Was Ahead of its Time | 177171 | [177171-yo-noid-was-ahead-of-its-time.json](./177171-yo-noid-was-ahead-of-its-time.json) |
