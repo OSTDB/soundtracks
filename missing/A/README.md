@@ -2925,6 +2925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acroball | 97254 | [97254-acroball.json](./97254-acroball.json) |
 | Acrobat Mission | 46770 | [46770-acrobat-mission.json](./46770-acrobat-mission.json) |
 | Acrobat Star Show | 108440 | [108440-acrobat-star-show.json](./108440-acrobat-star-show.json) |
+| Acrobat Star Show: Show 'em what you got! | 108577 | [108577-acrobat-star-show-show-em-what-you-got.json](./108577-acrobat-star-show-show-em-what-you-got.json) |
 | Acrobatic Car | 164124 | [164124-acrobatic-car.json](./164124-acrobatic-car.json) |
 | Acrobatic Dog-Fight | 39971 | [39971-acrobatic-dog-fight.json](./39971-acrobatic-dog-fight.json) |
 | Acrobots | 226556 | [226556-acrobots.json](./226556-acrobots.json) |
@@ -18441,7 +18442,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Away to the Stars | 243165 | [243165-away-to-the-stars.json](./243165-away-to-the-stars.json) |
 | Away: Journey to the Unexpected | 27443 | [27443-away-journey-to-the-unexpected.json](./27443-away-journey-to-the-unexpected.json) |
 | Away: Shuffle Dungeon | 21332 | [21332-away-shuffle-dungeon.json](./21332-away-shuffle-dungeon.json) |
-| Away: The Survival Series | 71457 | [71457-away-the-survival-series.json](./71457-away-the-survival-series.json) |
 | Awaysis | 348231 | [348231-awaysis.json](./348231-awaysis.json) |
 | Awe | 20352 | [20352-awe.json](./20352-awe.json) |
 | Awe | 284564 | [284564-awe.json](./284564-awe.json) |
