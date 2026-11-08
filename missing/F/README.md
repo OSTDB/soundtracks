@@ -7004,6 +7004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Golden Nights at Freddy's | 217750 | [217750-five-golden-nights-at-freddys.json](./217750-five-golden-nights-at-freddys.json) |
 | Five Golden Nights at Freddy's 2 | 217751 | [217751-five-golden-nights-at-freddys-2.json](./217751-five-golden-nights-at-freddys-2.json) |
 | Five Golden Nights at Freddy's 3: Storage | 217752 | [217752-five-golden-nights-at-freddys-3-storage.json](./217752-five-golden-nights-at-freddys-3-storage.json) |
+| Five Great Places to Get a Nice Cup of Tea When You Are Asleep | 136609 | [136609-five-great-places-to-get-a-nice-cup-of-tea-when-you-are-asleep.json](./136609-five-great-places-to-get-a-nice-cup-of-tea-when-you-are-asleep.json) |
 | Five Heads | 347338 | [347338-five-heads.json](./347338-five-heads.json) |
 | Five Hearts Under One Roof | 318806 | [318806-five-hearts-under-one-roof.json](./318806-five-hearts-under-one-roof.json) |
 | Five Hearts Under One Roof 2 | 370971 | [370971-five-hearts-under-one-roof-2.json](./370971-five-hearts-under-one-roof-2.json) |
@@ -7400,6 +7401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flamingo Go With Gun | 235914 | [235914-flamingo-go-with-gun.json](./235914-flamingo-go-with-gun.json) |
 | Flamingo Quest | 229635 | [229635-flamingo-quest.json](./229635-flamingo-quest.json) |
 | Flamingo Tours | 70281 | [70281-flamingo-tours.json](./70281-flamingo-tours.json) |
+| Flamingo! | 136591 | [136591-flamingo.json](./136591-flamingo.json) |
 | Flammenwerfer | 307169 | [307169-flammenwerfer.json](./307169-flammenwerfer.json) |
 | Flan | 116263 | [116263-flan.json](./116263-flan.json) |
 | Flan's BN | 346613 | [346613-flans-bn.json](./346613-flans-bn.json) |
@@ -7776,6 +7778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FleshBound | 397043 | [397043-fleshbound.json](./397043-fleshbound.json) |
 | Fleshbreak | 379842 | [379842-fleshbreak.json](./379842-fleshbreak.json) |
 | Fleshcancer | 395805 | [395805-fleshcancer.json](./395805-fleshcancer.json) |
+| Fleshchild | 136600 | [136600-fleshchild.json](./136600-fleshchild.json) |
 | Fleshcult | 151287 | [151287-fleshcult.json](./151287-fleshcult.json) |
 | Fleshgait | 188448 | [188448-fleshgait.json](./188448-fleshgait.json) |
 | Fleshgod | 184299 | [184299-fleshgod.json](./184299-fleshgod.json) |
@@ -14048,6 +14051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fushigi no Dungeon: Fuurai no Shiren - Tsukikage-mura no Kaibutsu | 191328 | [191328-fushigi-no-dungeon-fuurai-no-shiren-tsukikage-mura-no-kaibutsu.json](./191328-fushigi-no-dungeon-fuurai-no-shiren-tsukikage-mura-no-kaibutsu.json) |
 | Fushigi no Dungeon: Fuurai no Shiren 2 - Oni Shuurai! Shiren-jou! | 67376 | [67376-fushigi-no-dungeon-fuurai-no-shiren-2-oni-shuurai-shiren-jou.json](./67376-fushigi-no-dungeon-fuurai-no-shiren-2-oni-shuurai-shiren-jou.json) |
 | Fushigi no Dungeon: Fuurai no Shiren 3 Portable | 80618 | [80618-fushigi-no-dungeon-fuurai-no-shiren-3-portable.json](./80618-fushigi-no-dungeon-fuurai-no-shiren-3-portable.json) |
+| Fushigi no Dungeon: Fuurai no Shiren 4 - Kami no Hitomi to Akuma no Heso | 136590 | [136590-fushigi-no-dungeon-fuurai-no-shiren-4-kami-no-hitomi-to-akuma-no-heso.json](./136590-fushigi-no-dungeon-fuurai-no-shiren-4-kami-no-hitomi-to-akuma-no-heso.json) |
 | Fushigi no Dungeon: Fuurai no Shiren 4 Plus - Kami no Hitomi to Akuma no Heso | 103507 | [103507-fushigi-no-dungeon-fuurai-no-shiren-4-plus-kami-no-hitomi-to-akuma-no-heso.json](./103507-fushigi-no-dungeon-fuurai-no-shiren-4-plus-kami-no-hitomi-to-akuma-no-heso.json) |
 | Fushigi no Dungeon: Fuurai no Shiren DS2 - Sabaku no Majou | 103508 | [103508-fushigi-no-dungeon-fuurai-no-shiren-ds2-sabaku-no-majou.json](./103508-fushigi-no-dungeon-fuurai-no-shiren-ds2-sabaku-no-majou.json) |
 | Fushigi no Dungeon: Fuurai no Shiren Gaiden - Onna Kenshi Asuka Kenzan! | 80485 | [80485-fushigi-no-dungeon-fuurai-no-shiren-gaiden-onna-kenshi-asuka-kenzan.json](./80485-fushigi-no-dungeon-fuurai-no-shiren-gaiden-onna-kenshi-asuka-kenzan.json) |
@@ -14148,6 +14152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Futanari Tales | 277434 | [277434-futanari-tales.json](./277434-futanari-tales.json) |
 | Futanari Vampire Girlfriend | 163978 | [163978-futanari-vampire-girlfriend.json](./163978-futanari-vampire-girlfriend.json) |
 | Futanari's Sex World! | 382314 | [382314-futanaris-sex-world.json](./382314-futanaris-sex-world.json) |
+| Futari de! Nyanko Daisensou | 136595 | [136595-futari-de-nyanko-daisensou.json](./136595-futari-de-nyanko-daisensou.json) |
 | Futari ha Haipuri | 97718 | [97718-futari-ha-haipuri.json](./97718-futari-ha-haipuri.json) |
 | Futari ha Precure: Arienai! Yume no Sono ha Daimeikyuu | 49569 | [49569-futari-ha-precure-arienai-yume-no-sono-ha-daimeikyuu.json](./49569-futari-ha-precure-arienai-yume-no-sono-ha-daimeikyuu.json) |
 | Futari ha Pretty Cure Max Heart | 125788 | [125788-futari-ha-pretty-cure-max-heart.json](./125788-futari-ha-pretty-cure-max-heart.json) |
