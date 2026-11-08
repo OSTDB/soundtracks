@@ -3248,6 +3248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Incredible Dracula: The Ice Kingdom | 125687 | [125687-incredible-dracula-the-ice-kingdom.json](./125687-incredible-dracula-the-ice-kingdom.json) |
 | Incredible Dracula: The Last Call Collector's Edition | 53227 | [53227-incredible-dracula-the-last-call-collectors-edition.json](./53227-incredible-dracula-the-last-call-collectors-edition.json) |
 | Incredible Dracula: Vargosi Returns | 125708 | [125708-incredible-dracula-vargosi-returns.json](./125708-incredible-dracula-vargosi-returns.json) |
+| Incredible Dracula: Witches' Curse | 126729 | [126729-incredible-dracula-witches-curse.json](./126729-incredible-dracula-witches-curse.json) |
 | Incredible Express | 54115 | [54115-incredible-express.json](./54115-incredible-express.json) |
 | Incredible Ink | 343924 | [343924-incredible-ink.json](./343924-incredible-ink.json) |
 | Incredible Jack | 351535 | [351535-incredible-jack.json](./351535-incredible-jack.json) |
@@ -3991,6 +3992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite World | 102936 | [102936-infinite-world.json](./102936-infinite-world.json) |
 | Infinite Zombie: VIP | 95863 | [95863-infinite-zombie-vip.json](./95863-infinite-zombie-vip.json) |
 | Infinite: Beyond the Mind | 128968 | [128968-infinite-beyond-the-mind.json](./128968-infinite-beyond-the-mind.json) |
+| InfiniteBeat | 126732 | [126732-infinitebeat.json](./126732-infinitebeat.json) |
 | InfiniteCorp | 132688 | [132688-infinitecorp.json](./132688-infinitecorp.json) |
 | Infinitely Up | 335340 | [335340-infinitely-up.json](./335340-infinitely-up.json) |
 | Infinitely Up 2 | 335339 | [335339-infinitely-up-2.json](./335339-infinitely-up-2.json) |
@@ -4085,6 +4087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Quest | 57531 | [57531-infinity-quest.json](./57531-infinity-quest.json) |
 | Infinity R | 340752 | [340752-infinity-r.json](./340752-infinity-r.json) |
 | Infinity Racer | 105235 | [105235-infinity-racer.json](./105235-infinity-racer.json) |
+| Infinity Racer XD | 126754 | [126754-infinity-racer-xd.json](./126754-infinity-racer-xd.json) |
 | Infinity Rising | 315056 | [315056-infinity-rising.json](./315056-infinity-rising.json) |
 | Infinity Run | 105875 | [105875-infinity-run.json](./105875-infinity-run.json) |
 | Infinity Runner | 17097 | [17097-infinity-runner.json](./17097-infinity-runner.json) |
@@ -5358,6 +5361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Loop | 153843 | [153843-into-the-loop.json](./153843-into-the-loop.json) |
 | Into the M.A.W. | 309857 | [309857-into-the-m-a-w.json](./309857-into-the-m-a-w.json) |
 | Into The Matrix | 319288 | [319288-into-the-matrix.json](./319288-into-the-matrix.json) |
+| Into the Maze | 126718 | [126718-into-the-maze.json](./126718-into-the-maze.json) |
 | Into the Metaverse: Theme Park Dark Ride Experience | 170274 | [170274-into-the-metaverse-theme-park-dark-ride-experience.json](./170274-into-the-metaverse-theme-park-dark-ride-experience.json) |
 | Into the Midnight | 159740 | [159740-into-the-midnight.json](./159740-into-the-midnight.json) |
 | Into the Mine | 333024 | [333024-into-the-mine.json](./333024-into-the-mine.json) |
