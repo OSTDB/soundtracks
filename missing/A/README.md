@@ -4407,6 +4407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Death | 322236 | [322236-after-death.json](./322236-after-death.json) |
 | After Death | 65786 | [65786-after-death.json](./65786-after-death.json) |
 | After Doom | 300354 | [300354-after-doom.json](./300354-after-doom.json) |
+| After Dreams | 100452 | [100452-after-dreams.json](./100452-after-dreams.json) |
 | After Egypt | 206635 | [206635-after-egypt.json](./206635-after-egypt.json) |
 | After End | 409348 | [409348-after-end.json](./409348-after-end.json) |
 | After Eternity | 415810 | [415810-after-eternity.json](./415810-after-eternity.json) |
@@ -10698,6 +10699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animorphs: Know the Secret | 68723 | [68723-animorphs-know-the-secret.json](./68723-animorphs-know-the-secret.json) |
 | Animorphs: Shattered Reality | 43927 | [43927-animorphs-shattered-reality.json](./43927-animorphs-shattered-reality.json) |
 | Animosa | 207560 | [207560-animosa.json](./207560-animosa.json) |
+| Animosity | 100465 | [100465-animosity.json](./100465-animosity.json) |
 | Animosity's Duel | 133800 | [133800-animositys-duel.json](./133800-animositys-duel.json) |
 | Animperium | 211079 | [211079-animperium.json](./211079-animperium.json) |
 | AnimuJump | 238628 | [238628-animujump.json](./238628-animujump.json) |
@@ -13758,6 +13760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena 3000 | 15601 | [15601-arena-3000.json](./15601-arena-3000.json) |
 | Arena 3D | 33631 | [33631-arena-3d.json](./33631-arena-3d.json) |
 | Arena 54: Visual Novel Action Adventure | 163237 | [163237-arena-54-visual-novel-action-adventure.json](./163237-arena-54-visual-novel-action-adventure.json) |
+| Arena 8 | 100469 | [100469-arena-8.json](./100469-arena-8.json) |
 | Arena 9th | 266071 | [266071-arena-9th.json](./266071-arena-9th.json) |
 | Arena Allstars | 125172 | [125172-arena-allstars.json](./125172-arena-allstars.json) |
 | Arena an Age of Barbarians story | 30077 | [30077-arena-an-age-of-barbarians-story.json](./30077-arena-an-age-of-barbarians-story.json) |
