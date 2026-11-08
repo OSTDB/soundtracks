@@ -972,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Trick: Special Edition | 191564 | [191564-sakura-trick-special-edition.json](./191564-sakura-trick-special-edition.json) |
 | Sakura Tsuushin: Remaking Memories | 209624 | [209624-sakura-tsuushin-remaking-memories.json](./209624-sakura-tsuushin-remaking-memories.json) |
 | Sakura Wars | 96392 | [96392-sakura-wars.json](./96392-sakura-wars.json) |
+| Sakura Wars: Digital Deluxe Edition | 132971 | [132971-sakura-wars-digital-deluxe-edition.json](./132971-sakura-wars-digital-deluxe-edition.json) |
 | Sakura Wars: Launch Edition | 136013 | [136013-sakura-wars-launch-edition.json](./136013-sakura-wars-launch-edition.json) |
 | Sakura Wars: Limited Edition | 116796 | [116796-sakura-wars-limited-edition.json](./116796-sakura-wars-limited-edition.json) |
 | Sakura Wars: So Long, My Love | 5136 | [5136-sakura-wars-so-long-my-love.json](./5136-sakura-wars-so-long-my-love.json) |
@@ -10739,6 +10740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Whisper | 337125 | [337125-silent-whisper.json](./337125-silent-whisper.json) |
 | Silent Woods | 343019 | [343019-silent-woods.json](./343019-silent-woods.json) |
 | Silent Woods: the Cleansed | 150626 | [150626-silent-woods-the-cleansed.json](./150626-silent-woods-the-cleansed.json) |
+| Silent World | 132945 | [132945-silent-world.json](./132945-silent-world.json) |
 | Silent World | 202481 | [202481-silent-world.json](./202481-silent-world.json) |
 | Silent Wounds - The Doll | 414540 | [414540-silent-wounds-the-doll.json](./414540-silent-wounds-the-doll.json) |
 | Silent: Abandoned | 309437 | [309437-silent-abandoned.json](./309437-silent-abandoned.json) |
@@ -14545,6 +14547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Kid's: Gameclub | 124050 | [124050-smart-kids-gameclub.json](./124050-smart-kids-gameclub.json) |
 | Smart Kid's: Party Fun Pack | 124059 | [124059-smart-kids-party-fun-pack.json](./124059-smart-kids-party-fun-pack.json) |
 | Smart Mouse | 45680 | [45680-smart-mouse.json](./45680-smart-mouse.json) |
+| Smart Moves | 132947 | [132947-smart-moves.json](./132947-smart-moves.json) |
 | Smart Moves 2 | 149913 | [149913-smart-moves-2.json](./149913-smart-moves-2.json) |
 | Smart Moves Bundle | 218459 | [218459-smart-moves-bundle.json](./218459-smart-moves-bundle.json) |
 | Smart Porter | 247070 | [247070-smart-porter.json](./247070-smart-porter.json) |
@@ -19977,6 +19980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 142578 | [142578-space-hunter.json](./142578-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
@@ -20740,6 +20744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceflight Simulator | 190824 | [190824-spaceflight-simulator.json](./190824-spaceflight-simulator.json) |
 | Spaceflight Simulator 2 | 326347 | [326347-spaceflight-simulator-2.json](./326347-spaceflight-simulator-2.json) |
 | Spaceflux | 137421 | [137421-spaceflux.json](./137421-spaceflux.json) |
+| SpaceFoes | 132931 | [132931-spacefoes.json](./132931-spacefoes.json) |
 | Spacefolk City | 178285 | [178285-spacefolk-city.json](./178285-spacefolk-city.json) |
 | Spaceforce Constellations | 16846 | [16846-spaceforce-constellations.json](./16846-spaceforce-constellations.json) |
 | Spaceforce Homeworld | 17081 | [17081-spaceforce-homeworld.json](./17081-spaceforce-homeworld.json) |
