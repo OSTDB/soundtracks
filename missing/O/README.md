@@ -2094,6 +2094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | On Tario | 185520 | [185520-on-tario.json](./185520-on-tario.json) |
 | On the Alert | 117588 | [117588-on-the-alert.json](./117588-on-the-alert.json) |
 | On the Axis | 275993 | [275993-on-the-axis.json](./275993-on-the-axis.json) |
+| On the Ball | 92554 | [92554-on-the-ball.json](./92554-on-the-ball.json) |
 | On the Ball | 95513 | [95513-on-the-ball.json](./95513-on-the-ball.json) |
 | On the Brink | 249796 | [249796-on-the-brink.json](./249796-on-the-brink.json) |
 | On the Bubble | 295214 | [295214-on-the-bubble.json](./295214-on-the-bubble.json) |
@@ -6072,6 +6073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oyabu Clinic Deathcare Corporation | 244264 | [244264-oyabu-clinic-deathcare-corporation.json](./244264-oyabu-clinic-deathcare-corporation.json) |
 | Oyadori no Ko | 150552 | [150552-oyadori-no-ko.json](./150552-oyadori-no-ko.json) |
 | Oyaji | 267276 | [267276-oyaji.json](./267276-oyaji.json) |
+| Oyaji Hunter Mahjong | 92216 | [92216-oyaji-hunter-mahjong.json](./92216-oyaji-hunter-mahjong.json) |
 | Oyako de Asobo: Miffy no Omocha-bako | 268398 | [268398-oyako-de-asobo-miffy-no-omocha-bako.json](./268398-oyako-de-asobo-miffy-no-omocha-bako.json) |
 | Oyako de Manabu Bousai | 263609 | [263609-oyako-de-manabu-bousai.json](./263609-oyako-de-manabu-bousai.json) |
 | Oyako de Manabu SDGs | 256269 | [256269-oyako-de-manabu-sdgs.json](./256269-oyako-de-manabu-sdgs.json) |
