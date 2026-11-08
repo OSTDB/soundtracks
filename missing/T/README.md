@@ -4958,7 +4958,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetra Quest | 69493 | [69493-tetra-quest.json](./69493-tetra-quest.json) |
 | Tetra Rise | 379629 | [379629-tetra-rise.json](./379629-tetra-rise.json) |
 | Tetra Troopers | 379371 | [379371-tetra-troopers.json](./379371-tetra-troopers.json) |
-| Tetra's Escape | 106530 | [106530-tetras-escape.json](./106530-tetras-escape.json) |
 | Tetra's Escape 2 | 347304 | [347304-tetras-escape-2.json](./347304-tetras-escape-2.json) |
 | Tetrachroma | 298637 | [298637-tetrachroma.json](./298637-tetrachroma.json) |
 | Tetrack | 306889 | [306889-tetrack.json](./306889-tetrack.json) |
@@ -6901,6 +6900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of Unwritten Tales 2: Almanac Edition | 51703 | [51703-the-book-of-unwritten-tales-2-almanac-edition.json](./51703-the-book-of-unwritten-tales-2-almanac-edition.json) |
 | The Book of Unwritten Tales Collection | 53712 | [53712-the-book-of-unwritten-tales-collection.json](./53712-the-book-of-unwritten-tales-collection.json) |
 | The Book of Unwritten Tales: The Critter Chronicles | 7661 | [7661-the-book-of-unwritten-tales-the-critter-chronicles.json](./7661-the-book-of-unwritten-tales-the-critter-chronicles.json) |
+| The Book of Wanderer: The Story of Dragons | 107338 | [107338-the-book-of-wanderer-the-story-of-dragons.json](./107338-the-book-of-wanderer-the-story-of-dragons.json) |
 | The Book of Warriors | 250259 | [250259-the-book-of-warriors.json](./250259-the-book-of-warriors.json) |
 | The Book of Watermarks | 127557 | [127557-the-book-of-watermarks.json](./127557-the-book-of-watermarks.json) |
 | The Book of Weapons | 197360 | [197360-the-book-of-weapons.json](./197360-the-book-of-weapons.json) |
@@ -9836,6 +9836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Floor is Breathing | 229356 | [229356-the-floor-is-breathing.json](./229356-the-floor-is-breathing.json) |
 | The Floor is Jelly | 11309 | [11309-the-floor-is-jelly.json](./11309-the-floor-is-jelly.json) |
 | The Floor is Lava | 88478 | [88478-the-floor-is-lava.json](./88478-the-floor-is-lava.json) |
+| The Floor Is Lava AR! | 107351 | [107351-the-floor-is-lava-ar.json](./107351-the-floor-is-lava-ar.json) |
 | The Floor Is Made of Lava | 74126 | [74126-the-floor-is-made-of-lava.json](./74126-the-floor-is-made-of-lava.json) |
 | The Floor Is Really Cheap Lava | 115042 | [115042-the-floor-is-really-cheap-lava.json](./115042-the-floor-is-really-cheap-lava.json) |
 | The Floor Is Still Really Cheap Lava | 126981 | [126981-the-floor-is-still-really-cheap-lava.json](./126981-the-floor-is-still-really-cheap-lava.json) |
@@ -23232,6 +23233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TileTurn | 288599 | [288599-tileturn.json](./288599-tileturn.json) |
 | TileUp | 363577 | [363577-tileup.json](./363577-tileup.json) |
 | Tileweaver | 390013 | [390013-tileweaver.json](./390013-tileweaver.json) |
+| TiliMili ABC writing for kids | 107345 | [107345-tilimili-abc-writing-for-kids.json](./107345-tilimili-abc-writing-for-kids.json) |
 | Tiling Towers | 249811 | [249811-tiling-towers.json](./249811-tiling-towers.json) |
 | Tiling Town | 381417 | [381417-tiling-town.json](./381417-tiling-town.json) |
 | Till Checkout Do Us Part | 381156 | [381156-till-checkout-do-us-part.json](./381156-till-checkout-do-us-part.json) |
@@ -29137,6 +29139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator Classic: Wien - St. Pölten Route Add-On | 354564 | [354564-train-simulator-classic-wien-st-polten-route-add-on.json](./354564-train-simulator-classic-wien-st-polten-route-add-on.json) |
 | Train Simulator Classic: Zacens Wagon Pack | 293394 | [293394-train-simulator-classic-zacens-wagon-pack.json](./293394-train-simulator-classic-zacens-wagon-pack.json) |
 | Train Simulator Classic: Zcs VTG Wagon Pack | 293395 | [293395-train-simulator-classic-zcs-vtg-wagon-pack.json](./293395-train-simulator-classic-zcs-vtg-wagon-pack.json) |
+| Train Simulator Crazy Driver | 107337 | [107337-train-simulator-crazy-driver.json](./107337-train-simulator-crazy-driver.json) |
 | Train Simulator Plus: JR Higashi-Nihon Chuo-sen 2 | 92245 | [92245-train-simulator-plus-jr-higashi-nihon-chuo-sen-2.json](./92245-train-simulator-plus-jr-higashi-nihon-chuo-sen-2.json) |
 | Train Simulator Plus: Keihan Denki Tetsudou | 92244 | [92244-train-simulator-plus-keihan-denki-tetsudou.json](./92244-train-simulator-plus-keihan-denki-tetsudou.json) |
 | Train Simulator Plus: Kyoto-shiei Chikatetsu Karasuma-sen & Kinki-nippon Tetsudou Kyoto-sen | 92248 | [92248-train-simulator-plus-kyoto-shiei-chikatetsu-karasuma-sen-and-kinki-nippon-tetsudou-kyoto-sen.json](./92248-train-simulator-plus-kyoto-shiei-chikatetsu-karasuma-sen-and-kinki-nippon-tetsudou-kyoto-sen.json) |
