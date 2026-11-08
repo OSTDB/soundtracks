@@ -6866,6 +6866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cherophobia | 301978 | [301978-cherophobia.json](./301978-cherophobia.json) |
 | Cherry | 176726 | [176726-cherry.json](./176726-cherry.json) |
 | Cherry blossom | 392414 | [392414-cherry-blossom.json](./392414-cherry-blossom.json) |
+| Cherry Blossom | 109101 | [109101-cherry-blossom.json](./109101-cherry-blossom.json) |
 | Cherry Blossom | 380064 | [380064-cherry-blossom.json](./380064-cherry-blossom.json) |
 | Cherry Blossom Fleet | 172009 | [172009-cherry-blossom-fleet.json](./172009-cherry-blossom-fleet.json) |
 | Cherry Blossom Portable | 56471 | [56471-cherry-blossom-portable.json](./56471-cherry-blossom-portable.json) |
@@ -18252,6 +18253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Pix 4 | 370965 | [370965-cross-pix-4.json](./370965-cross-pix-4.json) |
 | Cross Pixels | 87934 | [87934-cross-pixels.json](./87934-cross-pixels.json) |
 | Cross Princess | 149499 | [149499-cross-princess.json](./149499-cross-princess.json) |
+| Cross Purposes | 109110 | [109110-cross-purposes.json](./109110-cross-purposes.json) |
 | Cross Reunion | 237652 | [237652-cross-reunion.json](./237652-cross-reunion.json) |
 | Cross Review World | 178951 | [178951-cross-review-world.json](./178951-cross-review-world.json) |
 | Cross Romance: Koi to Mahjong to Hanafuda to | 247346 | [247346-cross-romance-koi-to-mahjong-to-hanafuda-to.json](./247346-cross-romance-koi-to-mahjong-to-hanafuda-to.json) |
@@ -18717,6 +18719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruising on Broadway | 14020 | [14020-cruising-on-broadway.json](./14020-cruising-on-broadway.json) |
 | Crumble | 117054 | [117054-crumble.json](./117054-crumble.json) |
 | Crumble Party! | 339341 | [339341-crumble-party.json](./339341-crumble-party.json) |
+| Crumble Zone | 109103 | [109103-crumble-zone.json](./109103-crumble-zone.json) |
 | Crumble Zone HD | 38866 | [38866-crumble-zone-hd.json](./38866-crumble-zone-hd.json) |
 | Crumble's Crisis | 159269 | [159269-crumbles-crisis.json](./159269-crumbles-crisis.json) |
 | Crumbled World | 30751 | [30751-crumbled-world.json](./30751-crumbled-world.json) |
