@@ -1365,6 +1365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velumortis | 123202 | [123202-velumortis.json](./123202-velumortis.json) |
 | Velvet 89 | 316956 | [316956-velvet-89.json](./316956-velvet-89.json) |
 | Velvet Assassin | 7232 | [7232-velvet-assassin.json](./7232-velvet-assassin.json) |
+| Velvet Bite: Softly, With Teeth | 125538 | [125538-velvet-bite-softly-with-teeth.json](./125538-velvet-bite-softly-with-teeth.json) |
 | Velvet Clouds | 169142 | [169142-velvet-clouds.json](./169142-velvet-clouds.json) |
 | Velvet Dark | 130336 | [130336-velvet-dark.json](./130336-velvet-dark.json) |
 | Velvet Guard | 93771 | [93771-velvet-guard.json](./93771-velvet-guard.json) |
@@ -1695,6 +1696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertigrowl | 338571 | [338571-vertigrowl.json](./338571-vertigrowl.json) |
 | Vertix.io | 58327 | [58327-vertix-io.json](./58327-vertix-io.json) |
 | Verto | 406318 | [406318-verto.json](./406318-verto.json) |
+| Vertrix | 125559 | [125559-vertrix.json](./125559-vertrix.json) |
 | Vertrix2 | 94943 | [94943-vertrix2.json](./94943-vertrix2.json) |
 | Verve | 311220 | [311220-verve.json](./311220-verve.json) |
 | Very Bad Dreams | 269860 | [269860-very-bad-dreams.json](./269860-very-bad-dreams.json) |
