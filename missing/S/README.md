@@ -2732,6 +2732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scarf Tale | 384915 | [384915-scarf-tale.json](./384915-scarf-tale.json) |
 | Scarface: Money. Power. Respect. | 5140 | [5140-scarface-money-power-respect.json](./5140-scarface-money-power-respect.json) |
 | Scarface: The World Is Yours | 5139 | [5139-scarface-the-world-is-yours.json](./5139-scarface-the-world-is-yours.json) |
+| ScarFall: The Royale Combat | 138335 | [138335-scarfall-the-royale-combat.json](./138335-scarfall-the-royale-combat.json) |
 | Scarfell Pike | 184153 | [184153-scarfell-pike.json](./184153-scarfell-pike.json) |
 | Scarfinger | 41495 | [41495-scarfinger.json](./41495-scarfinger.json) |
 | Scarfmemory | 128776 | [128776-scarfmemory.json](./128776-scarfmemory.json) |
@@ -5330,6 +5331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Select Eleven | 410427 | [410427-select-eleven.json](./410427-select-eleven.json) |
 | Select Oblige | 321778 | [321778-select-oblige.json](./321778-select-oblige.json) |
 | Select Quiz | 386283 | [386283-select-quiz.json](./386283-select-quiz.json) |
+| Selected Ambient Works Volume II for Half-Life 2 | 138366 | [138366-selected-ambient-works-volume-ii-for-half-life-2.json](./138366-selected-ambient-works-volume-ii-for-half-life-2.json) |
 | Selection I & II | 265194 | [265194-selection-i-and-ii.json](./265194-selection-i-and-ii.json) |
 | Selection Process | 152595 | [152595-selection-process.json](./152595-selection-process.json) |
 | Selective Memory | 393233 | [393233-selective-memory.json](./393233-selective-memory.json) |
@@ -14860,6 +14862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smooth Criminal | 91913 | [91913-smooth-criminal.json](./91913-smooth-criminal.json) |
 | Smooth Criminals | 51526 | [51526-smooth-criminals.json](./51526-smooth-criminals.json) |
 | Smooth Elevator | 184737 | [184737-smooth-elevator.json](./184737-smooth-elevator.json) |
+| Smooth Like Butter | 138338 | [138338-smooth-like-butter.json](./138338-smooth-like-butter.json) |
 | Smooth Mover | 120956 | [120956-smooth-mover.json](./120956-smooth-mover.json) |
 | Smooth Operators | 10836 | [10836-smooth-operators.json](./10836-smooth-operators.json) |
 | Smooth Operators 2 | 197209 | [197209-smooth-operators-2.json](./197209-smooth-operators-2.json) |
@@ -19950,6 +19953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 142578 | [142578-space-hunter.json](./142578-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
@@ -22332,6 +22336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiral Storm | 130514 | [130514-spiral-storm.json](./130514-spiral-storm.json) |
 | Spiral to Despair | 154309 | [154309-spiral-to-despair.json](./154309-spiral-to-despair.json) |
 | Spiral Up | 250812 | [250812-spiral-up.json](./250812-spiral-up.json) |
+| Spiral Warrior | 138357 | [138357-spiral-warrior.json](./138357-spiral-warrior.json) |
 | Spiral Wave | 42045 | [42045-spiral-wave.json](./42045-spiral-wave.json) |
 | Spiral!! | 399062 | [399062-spiral.json](./399062-spiral.json) |
 | Spiralagon | 122342 | [122342-spiralagon.json](./122342-spiralagon.json) |
