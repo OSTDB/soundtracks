@@ -1766,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Infection | 331340 | [331340-zombie-infection.json](./331340-zombie-infection.json) |
 | Zombie Infection 2 | 223015 | [223015-zombie-infection-2.json](./223015-zombie-infection-2.json) |
 | Zombie Infinity | 272405 | [272405-zombie-infinity.json](./272405-zombie-infinity.json) |
+| Zombie Infinity War | 106177 | [106177-zombie-infinity-war.json](./106177-zombie-infinity-war.json) |
 | Zombie Inglor | 388115 | [388115-zombie-inglor.json](./388115-zombie-inglor.json) |
 | Zombie Invasion | 179883 | [179883-zombie-invasion.json](./179883-zombie-invasion.json) |
 | Zombie Invasion | 337751 | [337751-zombie-invasion.json](./337751-zombie-invasion.json) |
@@ -2248,6 +2249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone 60 | 246228 | [246228-zone-60.json](./246228-zone-60.json) |
 | Zone 66 | 73826 | [73826-zone-66.json](./73826-zone-66.json) |
 | Zone B Korosu | 161391 | [161391-zone-b-korosu.json](./161391-zone-b-korosu.json) |
+| Zone Bubble | 104769 | [104769-zone-bubble.json](./104769-zone-bubble.json) |
 | Zone Family Fit | 246232 | [246232-zone-family-fit.json](./246232-zone-family-fit.json) |
 | Zone Fusion | 246231 | [246231-zone-fusion.json](./246231-zone-fusion.json) |
 | Zone Interactive | 246224 | [246224-zone-interactive.json](./246224-zone-interactive.json) |
@@ -2285,6 +2287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZOnOt'S Challenge | 175545 | [175545-zonots-challenge.json](./175545-zonots-challenge.json) |
 | Zoo | 257574 | [257574-zoo.json](./257574-zoo.json) |
 | Zôo | 359764 | [359764-zoo.json](./359764-zoo.json) |
+| Zoo 2: Animal Park | 104759 | [104759-zoo-2-animal-park.json](./104759-zoo-2-animal-park.json) |
 | Zoo Adventure | 212427 | [212427-zoo-adventure.json](./212427-zoo-adventure.json) |
 | Zoo and Wild Animals Mod: Rebuilt | 249318 | [249318-zoo-and-wild-animals-mod-rebuilt.json](./249318-zoo-and-wild-animals-mod-rebuilt.json) |
 | Zoo Animals | 231684 | [231684-zoo-animals.json](./231684-zoo-animals.json) |
