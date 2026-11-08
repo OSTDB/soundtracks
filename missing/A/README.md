@@ -4111,6 +4111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aery: A Journey Beyond Time | 143599 | [143599-aery-a-journey-beyond-time.json](./143599-aery-a-journey-beyond-time.json) |
 | Aery: Ancient Empires | 283897 | [283897-aery-ancient-empires.json](./283897-aery-ancient-empires.json) |
 | Aery: Best of Bundle | 302512 | [302512-aery-best-of-bundle.json](./302512-aery-best-of-bundle.json) |
+| Aery: Broken Memories | 136559 | [136559-aery-broken-memories.json](./136559-aery-broken-memories.json) |
 | Aery: Calm Horizon | 401108 | [401108-aery-calm-horizon.json](./401108-aery-calm-horizon.json) |
 | Aery: Calm Horizon 2 | 420694 | [420694-aery-calm-horizon-2.json](./420694-aery-calm-horizon-2.json) |
 | Aery: Calm Mind | 153831 | [153831-aery-calm-mind.json](./153831-aery-calm-mind.json) |
@@ -8200,6 +8201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amado | 14496 | [14496-amado.json](./14496-amado.json) |
 | Amaekata wa Kanojo Nari ni | 55880 | [55880-amaekata-wa-kanojo-nari-ni.json](./55880-amaekata-wa-kanojo-nari-ni.json) |
 | Amaemi: Longing for you | 206335 | [206335-amaemi-longing-for-you.json](./206335-amaemi-longing-for-you.json) |
+| Amagami | 136599 | [136599-amagami.json](./136599-amagami.json) |
 | Amagami Chotto Omake Gekijou | 345602 | [345602-amagami-chotto-omake-gekijou.json](./345602-amagami-chotto-omake-gekijou.json) |
 | Amagami GS | 345603 | [345603-amagami-gs.json](./345603-amagami-gs.json) |
 | Amagami Mario Kart | 269949 | [269949-amagami-mario-kart.json](./269949-amagami-mario-kart.json) |
@@ -16916,7 +16918,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
