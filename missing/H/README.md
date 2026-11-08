@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuisei Renai Shoukougun | 115480 | [115480-hakuisei-renai-shoukougun.json](./115480-hakuisei-renai-shoukougun.json) |
 | Hakunetsu Pro Yakyuu '94 Ganba League 3 | 38173 | [38173-hakunetsu-pro-yakyuu-94-ganba-league-3.json](./38173-hakunetsu-pro-yakyuu-94-ganba-league-3.json) |
 | Hakunetsu Pro Yakyuu Ganba League '93 | 38174 | [38174-hakunetsu-pro-yakyuu-ganba-league-93.json](./38174-hakunetsu-pro-yakyuu-ganba-league-93.json) |
+| Hakuoki DS | 130481 | [130481-hakuoki-ds.json](./130481-hakuoki-ds.json) |
 | Hakuoki Ibun: Berezinskii no Majo | 287896 | [287896-hakuoki-ibun-berezinskii-no-majo.json](./287896-hakuoki-ibun-berezinskii-no-majo.json) |
 | Hakuoki Kaikoroku | 163340 | [163340-hakuoki-kaikoroku.json](./163340-hakuoki-kaikoroku.json) |
 | Hakuoki Reimeiroku DS | 221017 | [221017-hakuoki-reimeiroku-ds.json](./221017-hakuoki-reimeiroku-ds.json) |
