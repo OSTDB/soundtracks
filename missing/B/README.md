@@ -6033,6 +6033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beeps and Blips | 245103 | [245103-beeps-and-blips.json](./245103-beeps-and-blips.json) |
 | Beer & Plunder | 320868 | [320868-beer-and-plunder.json](./320868-beer-and-plunder.json) |
 | Beer and Rush: Non-VR Edition | 338226 | [338226-beer-and-rush-non-vr-edition.json](./338226-beer-and-rush-non-vr-edition.json) |
+| Beer and Skittls VR | 93767 | [93767-beer-and-skittls-vr.json](./93767-beer-and-skittls-vr.json) |
 | Beer Bar | 111867 | [111867-beer-bar.json](./111867-beer-bar.json) |
 | Beer Belly Burt's Brew Biz | 93167 | [93167-beer-belly-burts-brew-biz.json](./93167-beer-belly-burts-brew-biz.json) |
 | Beer Break | 199391 | [199391-beer-break.json](./199391-beer-break.json) |
@@ -14671,6 +14672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boy's Active | 198608 | [198608-boys-active.json](./198608-boys-active.json) |
 | Boy's Love | 101358 | [101358-boys-love.json](./101358-boys-love.json) |
 | BoyandBox | 129332 | [129332-boyandbox.json](./129332-boyandbox.json) |
+| BoyAndLabyrinth | 93669 | [93669-boyandlabyrinth.json](./93669-boyandlabyrinth.json) |
 | Boyard | 273188 | [273188-boyard.json](./273188-boyard.json) |
 | Boyband Hell | 288177 | [288177-boyband-hell.json](./288177-boyband-hell.json) |
 | Boyce the Voice | 285369 | [285369-boyce-the-voice.json](./285369-boyce-the-voice.json) |
@@ -15839,6 +15841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Stack VR | 32128 | [32128-brick-stack-vr.json](./32128-brick-stack-vr.json) |
 | Brick Stacker | 110013 | [110013-brick-stacker.json](./110013-brick-stacker.json) |
 | Brick Thru | 89932 | [89932-brick-thru.json](./89932-brick-thru.json) |
+| Brick vs. Paddle | 93666 | [93666-brick-vs-paddle.json](./93666-brick-vs-paddle.json) |
 | Brick Zone | 64459 | [64459-brick-zone.json](./64459-brick-zone.json) |
 | Brick-Ball | 97437 | [97437-brick-ball.json](./97437-brick-ball.json) |
 | Brick: One Block at a Time | 416120 | [416120-brick-one-block-at-a-time.json](./416120-brick-one-block-at-a-time.json) |
