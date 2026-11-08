@@ -3687,6 +3687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infasia | 260190 | [260190-infasia.json](./260190-infasia.json) |
 | Infect and Destroy | 17511 | [17511-infect-and-destroy.json](./17511-infect-and-destroy.json) |
 | Infect Cam | 328847 | [328847-infect-cam.json](./328847-infect-cam.json) |
+| Infect Them All 2 : Zombies | 90048 | [90048-infect-them-all-2-zombies.json](./90048-infect-them-all-2-zombies.json) |
 | Infect Them All: Vampires | 175131 | [175131-infect-them-all-vampires.json](./175131-infect-them-all-vampires.json) |
 | Infect Them All: Zombies | 174302 | [174302-infect-them-all-zombies.json](./174302-infect-them-all-zombies.json) |
 | Infected | 242548 | [242548-infected.json](./242548-infected.json) |
