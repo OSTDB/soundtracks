@@ -2953,6 +2953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acronia | 240637 | [240637-acronia.json](./240637-acronia.json) |
 | Acrophobia | 284274 | [284274-acrophobia.json](./284274-acrophobia.json) |
 | Acrophobia | 90914 | [90914-acrophobia.json](./90914-acrophobia.json) |
+| Acropolis | 95515 | [95515-acropolis.json](./95515-acropolis.json) |
 | Acropolis: The Archaic Age | 111635 | [111635-acropolis-the-archaic-age.json](./111635-acropolis-the-archaic-age.json) |
 | Across | 172028 | [172028-across.json](./172028-across.json) |
 | Across | 30823 | [30823-across.json](./30823-across.json) |
@@ -5935,6 +5936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airtime Media | 297435 | [297435-airtime-media.json](./297435-airtime-media.json) |
 | Airtone | 40521 | [40521-airtone.json](./40521-airtone.json) |
 | AirTycoon 3 | 101538 | [101538-airtycoon-3.json](./101538-airtycoon-3.json) |
+| AirTycoon 4 | 95544 | [95544-airtycoon-4.json](./95544-airtycoon-4.json) |
 | AirTycoon 5 | 106756 | [106756-airtycoon-5.json](./106756-airtycoon-5.json) |
 | AirTycoon Online 2 | 175548 | [175548-airtycoon-online-2.json](./175548-airtycoon-online-2.json) |
 | AirTycoon Online. | 256247 | [256247-airtycoon-online.json](./256247-airtycoon-online.json) |
@@ -13349,6 +13351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcano | 149826 | [149826-arcano.json](./149826-arcano.json) |
 | Arcano: El juego de Galicia | 210366 | [210366-arcano-el-juego-de-galicia.json](./210366-arcano-el-juego-de-galicia.json) |
 | Arcano: The Trickery | 159638 | [159638-arcano-the-trickery.json](./159638-arcano-the-trickery.json) |
+| Arcanoid | 95505 | [95505-arcanoid.json](./95505-arcanoid.json) |
 | Arcanoid Breakout | 147468 | [147468-arcanoid-breakout.json](./147468-arcanoid-breakout.json) |
 | Arcanora | 272789 | [272789-arcanora.json](./272789-arcanora.json) |
 | Arcanorum | 335300 | [335300-arcanorum.json](./335300-arcanorum.json) |
@@ -14293,6 +14296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armada Pet Wars | 373140 | [373140-armada-pet-wars.json](./373140-armada-pet-wars.json) |
 | Armada Skies | 82474 | [82474-armada-skies.json](./82474-armada-skies.json) |
 | Armada: Modern Tanks | 69355 | [69355-armada-modern-tanks.json](./69355-armada-modern-tanks.json) |
+| Armadillo | 95514 | [95514-armadillo.json](./95514-armadillo.json) |
 | Armadillo Assault | 303680 | [303680-armadillo-assault.json](./303680-armadillo-assault.json) |
 | Armadillo Knight | 354557 | [354557-armadillo-knight.json](./354557-armadillo-knight.json) |
 | Armadillo Racing | 129114 | [129114-armadillo-racing.json](./129114-armadillo-racing.json) |
@@ -17105,6 +17109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -18095,6 +18100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ava's Adventure | 258693 | [258693-avas-adventure.json](./258693-avas-adventure.json) |
 | Ava's Hidden Adventures | 278269 | [278269-avas-hidden-adventures.json](./278269-avas-hidden-adventures.json) |
 | Ava's Manor | 406254 | [406254-avas-manor.json](./406254-avas-manor.json) |
+| Ava's Quest | 95519 | [95519-avas-quest.json](./95519-avas-quest.json) |
 | Ava's Quest HD | 175753 | [175753-avas-quest-hd.json](./175753-avas-quest-hd.json) |
 | Ava's Variations | 384670 | [384670-avas-variations.json](./384670-avas-variations.json) |
 | Avabel Lupinus | 208213 | [208213-avabel-lupinus.json](./208213-avabel-lupinus.json) |
@@ -18124,6 +18130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalon | 229775 | [229775-avalon.json](./229775-avalon.json) |
 | Avalon | 23068 | [23068-avalon.json](./23068-avalon.json) |
 | Avalon | 269110 | [269110-avalon.json](./269110-avalon.json) |
+| Avalon | 95494 | [95494-avalon.json](./95494-avalon.json) |
 | Avalon / Dragontorc | 137854 | [137854-avalon-dragontorc.json](./137854-avalon-dragontorc.json) |
 | Avalon Code | 21206 | [21206-avalon-code.json](./21206-avalon-code.json) |
 | Avalon Crew | 386705 | [386705-avalon-crew.json](./386705-avalon-crew.json) |
