@@ -288,6 +288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jacob | 33314 | [33314-jacob.json](./33314-jacob.json) |
 | Jacob Jazz's Tamarindo's Freaking Dinner | 378811 | [378811-jacob-jazzs-tamarindos-freaking-dinner.json](./378811-jacob-jazzs-tamarindos-freaking-dinner.json) |
 | Jacob Jazz's The Bus | 250503 | [250503-jacob-jazzs-the-bus.json](./250503-jacob-jazzs-the-bus.json) |
+| Jacob Jones and the Bigfoot Mystery | 99814 | [99814-jacob-jones-and-the-bigfoot-mystery.json](./99814-jacob-jones-and-the-bigfoot-mystery.json) |
 | Jacob Jones and the Bigfoot Mystery: Episode 1 | 12377 | [12377-jacob-jones-and-the-bigfoot-mystery-episode-1.json](./12377-jacob-jones-and-the-bigfoot-mystery-episode-1.json) |
 | Jacob Jones and the Bigfoot Mystery: Episode 2 | 12378 | [12378-jacob-jones-and-the-bigfoot-mystery-episode-2.json](./12378-jacob-jones-and-the-bigfoot-mystery-episode-2.json) |
 | Jacob Jones and the Bigfoot Mystery: Episode 2 | 36289 | [36289-jacob-jones-and-the-bigfoot-mystery-episode-2.json](./36289-jacob-jones-and-the-bigfoot-mystery-episode-2.json) |
