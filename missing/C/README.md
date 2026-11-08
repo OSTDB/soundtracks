@@ -853,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Mini: Sniper | 254352 | [254352-call-of-mini-sniper.json](./254352-call-of-mini-sniper.json) |
 | Call of Mini: Zombies | 77994 | [77994-call-of-mini-zombies.json](./77994-call-of-mini-zombies.json) |
 | Call of Mini: Zombies 2 | 233407 | [233407-call-of-mini-zombies-2.json](./233407-call-of-mini-zombies-2.json) |
+| Call of Monster Shooter Toon Town Apocalypse Undead Crisis Sniper | 107346 | [107346-call-of-monster-shooter-toon-town-apocalypse-undead-crisis-sniper.json](./107346-call-of-monster-shooter-toon-town-apocalypse-undead-crisis-sniper.json) |
 | Call of Myth | 153969 | [153969-call-of-myth.json](./153969-call-of-myth.json) |
 | Call of Nature: Jigsaw Puzzle | 103531 | [103531-call-of-nature-jigsaw-puzzle.json](./103531-call-of-nature-jigsaw-puzzle.json) |
 | Call of Nightmare | 72499 | [72499-call-of-nightmare.json](./72499-call-of-nightmare.json) |
@@ -2635,6 +2636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardinal Island | 375915 | [375915-cardinal-island.json](./375915-cardinal-island.json) |
 | Cardinal Land | 134403 | [134403-cardinal-land.json](./134403-cardinal-land.json) |
 | Cardinal Land: Jigsaw & Tangram Puzzle Blend | 87213 | [87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json](./87213-cardinal-land-jigsaw-and-tangram-puzzle-blend.json) |
+| Cardinal Land: Tangram Puzzle | 107348 | [107348-cardinal-land-tangram-puzzle.json](./107348-cardinal-land-tangram-puzzle.json) |
 | Cardinal Quest | 46744 | [46744-cardinal-quest.json](./46744-cardinal-quest.json) |
 | Cardinal Quest 2 | 35050 | [35050-cardinal-quest-2.json](./35050-cardinal-quest-2.json) |
 | Cardinal Ramship Pirate | 176295 | [176295-cardinal-ramship-pirate.json](./176295-cardinal-ramship-pirate.json) |
@@ -7279,7 +7281,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken & Egg | 224992 | [224992-chicken-and-egg.json](./224992-chicken-and-egg.json) |
 | Chicken ~Boiled Egg~ | 99769 | [99769-chicken-boiled-egg.json](./99769-chicken-boiled-egg.json) |
 | Chicken and Duck Brothers | 218699 | [218699-chicken-and-duck-brothers.json](./218699-chicken-and-duck-brothers.json) |
-| Chicken Assassin: Reloaded | 100501 | [100501-chicken-assassin-reloaded.json](./100501-chicken-assassin-reloaded.json) |
 | Chicken Attack | 183655 | [183655-chicken-attack.json](./183655-chicken-attack.json) |
 | Chicken Attack Deluxe | 276001 | [276001-chicken-attack-deluxe.json](./276001-chicken-attack-deluxe.json) |
 | Chicken Balls | 254586 | [254586-chicken-balls.json](./254586-chicken-balls.json) |
@@ -10409,6 +10410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Click Adventure | 364144 | [364144-click-adventure.json](./364144-click-adventure.json) |
 | Click and Collect | 199349 | [199349-click-and-collect.json](./199349-click-and-collect.json) |
 | Click and Conquer | 342682 | [342682-click-and-conquer.json](./342682-click-and-conquer.json) |
+| Click and Manage Tycoon | 107440 | [107440-click-and-manage-tycoon.json](./107440-click-and-manage-tycoon.json) |
 | Click and Relax | 153420 | [153420-click-and-relax.json](./153420-click-and-relax.json) |
 | Click and Slay | 176679 | [176679-click-and-slay.json](./176679-click-and-slay.json) |
 | Click and Tower | 357826 | [357826-click-and-tower.json](./357826-click-and-tower.json) |
@@ -17750,6 +17752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Fighter 3 Pack | 131286 | [131286-crime-fighter-3-pack.json](./131286-crime-fighter-3-pack.json) |
 | Crime Fighters | 75525 | [75525-crime-fighters.json](./75525-crime-fighters.json) |
 | Crime Files Bundle | 254059 | [254059-crime-files-bundle.json](./254059-crime-files-bundle.json) |
+| Crime Girl | 107435 | [107435-crime-girl.json](./107435-crime-girl.json) |
 | Crime Investigation | 299692 | [299692-crime-investigation.json](./299692-crime-investigation.json) |
 | Crime Investigation Escape | 240203 | [240203-crime-investigation-escape.json](./240203-crime-investigation-escape.json) |
 | Crime is Sexy | 135401 | [135401-crime-is-sexy.json](./135401-crime-is-sexy.json) |
@@ -19524,6 +19527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Fight | 380099 | [380099-cube-fight.json](./380099-cube-fight.json) |
 | Cube Flip | 148774 | [148774-cube-flip.json](./148774-cube-flip.json) |
 | Cube Foundry | 349876 | [349876-cube-foundry.json](./349876-cube-foundry.json) |
+| Cube Full of Mines | 107439 | [107439-cube-full-of-mines.json](./107439-cube-full-of-mines.json) |
 | Cube Full of Mines: Slate Map | 155378 | [155378-cube-full-of-mines-slate-map.json](./155378-cube-full-of-mines-slate-map.json) |
 | Cube Game | 137605 | [137605-cube-game.json](./137605-cube-game.json) |
 | Cube Game Server Boss | 383691 | [383691-cube-game-server-boss.json](./383691-cube-game-server-boss.json) |
