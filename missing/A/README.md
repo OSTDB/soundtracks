@@ -332,6 +332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A dragon girl looks up at the endless sky | 33166 | [33166-a-dragon-girl-looks-up-at-the-endless-sky.json](./33166-a-dragon-girl-looks-up-at-the-endless-sky.json) |
 | A Dragon Named Coal | 236808 | [236808-a-dragon-named-coal.json](./236808-a-dragon-named-coal.json) |
 | a Dragon's reQuest | 314740 | [314740-a-dragons-request.json](./314740-a-dragons-request.json) |
+| A Dragon's Tale VR | 116595 | [116595-a-dragons-tale-vr.json](./116595-a-dragons-tale-vr.json) |
 | A Dragon's Tale: Fading Light | 264017 | [264017-a-dragons-tale-fading-light.json](./264017-a-dragons-tale-fading-light.json) |
 | A Dragons Dawn | 379560 | [379560-a-dragons-dawn.json](./379560-a-dragons-dawn.json) |
 | A Drawing's Journey | 84686 | [84686-a-drawings-journey.json](./84686-a-drawings-journey.json) |
@@ -1390,6 +1391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A todas mis memorias futuras | 352758 | [352758-a-todas-mis-memorias-futuras.json](./352758-a-todas-mis-memorias-futuras.json) |
 | A Tofu Tail | 58803 | [58803-a-tofu-tail.json](./58803-a-tofu-tail.json) |
 | A Tome in the Attic | 363975 | [363975-a-tome-in-the-attic.json](./363975-a-tome-in-the-attic.json) |
+| A Ton of Feathers | 116596 | [116596-a-ton-of-feathers.json](./116596-a-ton-of-feathers.json) |
 | A Top-Down Job: Blood Gain | 109866 | [109866-a-top-down-job-blood-gain.json](./109866-a-top-down-job-blood-gain.json) |
 | A Topsy Turvy Life: The Turvys Strike Back | 65711 | [65711-a-topsy-turvy-life-the-turvys-strike-back.json](./65711-a-topsy-turvy-life-the-turvys-strike-back.json) |
 | A Topsy Turvy Life: Turvy Drops | 66578 | [66578-a-topsy-turvy-life-turvy-drops.json](./66578-a-topsy-turvy-life-turvy-drops.json) |
@@ -2028,6 +2030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABM Command | 304486 | [304486-abm-command.json](./304486-abm-command.json) |
 | Abmis the Lion | 70305 | [70305-abmis-the-lion.json](./70305-abmis-the-lion.json) |
 | Abnimality | 283872 | [283872-abnimality.json](./283872-abnimality.json) |
+| Abnormal | 116556 | [116556-abnormal.json](./116556-abnormal.json) |
 | Abnormal Stairs | 316639 | [316639-abnormal-stairs.json](./316639-abnormal-stairs.json) |
 | Abnormal State: Otome Love | 303099 | [303099-abnormal-state-otome-love.json](./303099-abnormal-state-otome-love.json) |
 | Abnormal Status: Tattoo, Prohibited Books, Parasites | 226213 | [226213-abnormal-status-tattoo-prohibited-books-parasites.json](./226213-abnormal-status-tattoo-prohibited-books-parasites.json) |
@@ -6191,6 +6194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akupara: Action Bundle | 222409 | [222409-akupara-action-bundle.json](./222409-akupara-action-bundle.json) |
 | Akuro & Bahaku 2 | 355211 | [355211-akuro-and-bahaku-2.json](./355211-akuro-and-bahaku-2.json) |
 | Akuro & Bahaku: Jungle Adventure | 325060 | [325060-akuro-and-bahaku-jungle-adventure.json](./325060-akuro-and-bahaku-jungle-adventure.json) |
+| Akuto: Showdown | 116563 | [116563-akuto-showdown.json](./116563-akuto-showdown.json) |
 | Akuu Senki Raijin | 41340 | [41340-akuu-senki-raijin.json](./41340-akuu-senki-raijin.json) |
 | Akuya | 30891 | [30891-akuya.json](./30891-akuya.json) |
 | Akuyaku Reijou ha Ringoku no Outaishi ni Dekiai Sareru | 295840 | [295840-akuyaku-reijou-ha-ringoku-no-outaishi-ni-dekiai-sareru.json](./295840-akuyaku-reijou-ha-ringoku-no-outaishi-ni-dekiai-sareru.json) |
@@ -13560,6 +13564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcticfox | 14517 | [14517-arcticfox.json](./14517-arcticfox.json) |
 | Arcticide | 249053 | [249053-arcticide.json](./249053-arcticide.json) |
 | Arcticmind | 182268 | [182268-arcticmind.json](./182268-arcticmind.json) |
+| Arctico | 116599 | [116599-arctico.json](./116599-arctico.json) |
 | Arctictopia | 166403 | [166403-arctictopia.json](./166403-arctictopia.json) |
 | Arctis | 334663 | [334663-arctis.json](./334663-arctis.json) |
 | Arcturus | 352103 | [352103-arcturus.json](./352103-arcturus.json) |
@@ -14505,6 +14510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArmyCraft | 52612 | [52612-armycraft.json](./52612-armycraft.json) |
 | ArMystic | 415800 | [415800-armystic.json](./415800-armystic.json) |
 | ArmZ | 114075 | [114075-armz.json](./114075-armz.json) |
+| ArmZ VR | 116562 | [116562-armz-vr.json](./116562-armz-vr.json) |
 | Arn's Winter Quest | 171850 | [171850-arns-winter-quest.json](./171850-arns-winter-quest.json) |
 | Arnaud Thion's Dragons | 185115 | [185115-arnaud-thions-dragons.json](./185115-arnaud-thions-dragons.json) |
 | Arnie | 13797 | [13797-arnie.json](./13797-arnie.json) |
@@ -14722,6 +14728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Glide II | 306530 | [306530-art-of-glide-ii.json](./306530-art-of-glide-ii.json) |
 | Art of Golf | 259045 | [259045-art-of-golf.json](./259045-art-of-golf.json) |
 | Art of Guile | 26721 | [26721-art-of-guile.json](./26721-art-of-guile.json) |
+| Art of Horology | 116538 | [116538-art-of-horology.json](./116538-art-of-horology.json) |
 | Art of Ink | 59124 | [59124-art-of-ink.json](./59124-art-of-ink.json) |
 | Art of Murder: Cards of Destiny | 14361 | [14361-art-of-murder-cards-of-destiny.json](./14361-art-of-murder-cards-of-destiny.json) |
 | Art of Murder: FBI Confidential | 9986 | [9986-art-of-murder-fbi-confidential.json](./9986-art-of-murder-fbi-confidential.json) |
@@ -17001,7 +17008,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
