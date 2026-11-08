@@ -1057,6 +1057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quidditch Manager | 60730 | [60730-quidditch-manager.json](./60730-quidditch-manager.json) |
 | Quidget the Wonderwiener | 314948 | [314948-quidget-the-wonderwiener.json](./314948-quidget-the-wonderwiener.json) |
 | Quién Habla | 139533 | [139533-quien-habla.json](./139533-quien-habla.json) |
+| Quién Quiere ser Millonario? | 106037 | [106037-quien-quiere-ser-millonario.json](./106037-quien-quiere-ser-millonario.json) |
 | Quiet | 412220 | [412220-quiet.json](./412220-quiet.json) |
 | Quiet as a Mouse | 315230 | [315230-quiet-as-a-mouse.json](./315230-quiet-as-a-mouse.json) |
 | Quiet as a Stone | 104941 | [104941-quiet-as-a-stone.json](./104941-quiet-as-a-stone.json) |
