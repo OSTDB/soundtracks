@@ -2730,6 +2730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way of the Hunter: Ultimate Edition | 331825 | [331825-way-of-the-hunter-ultimate-edition.json](./331825-way-of-the-hunter-ultimate-edition.json) |
 | Way of the Hunter: Wild Expeditions | 325658 | [325658-way-of-the-hunter-wild-expeditions.json](./325658-way-of-the-hunter-wild-expeditions.json) |
 | Way of the Knight | 114746 | [114746-way-of-the-knight.json](./114746-way-of-the-knight.json) |
+| Way of the Orb | 115880 | [115880-way-of-the-orb.json](./115880-way-of-the-orb.json) |
 | Way of the Red | 25963 | [25963-way-of-the-red.json](./25963-way-of-the-red.json) |
 | Way of the Samurai | 10156 | [10156-way-of-the-samurai.json](./10156-way-of-the-samurai.json) |
 | Way of the Samurai 2 | 10157 | [10157-way-of-the-samurai-2.json](./10157-way-of-the-samurai-2.json) |
@@ -6198,6 +6199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter X-Games Snowboarding 2002 | 47303 | [47303-winter-x-games-snowboarding-2002.json](./47303-winter-x-games-snowboarding-2002.json) |
 | Winter-Over | 352163 | [352163-winter-over.json](./352163-winter-over.json) |
 | Winter, 2001: Someone tell Luigi I love him | 177485 | [177485-winter-2001-someone-tell-luigi-i-love-him.json](./177485-winter-2001-someone-tell-luigi-i-love-him.json) |
+| Winter's Empty Mask - Visual novel | 115879 | [115879-winters-empty-mask-visual-novel.json](./115879-winters-empty-mask-visual-novel.json) |
 | Winter's Fall | 177488 | [177488-winters-fall.json](./177488-winters-fall.json) |
 | Winter's Fury | 196250 | [196250-winters-fury.json](./196250-winters-fury.json) |
 | Winter's Symphonies | 113405 | [113405-winters-symphonies.json](./113405-winters-symphonies.json) |
