@@ -2576,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlucky Sniper | 195397 | [195397-unlucky-sniper.json](./195397-unlucky-sniper.json) |
 | Unlucky Swordsmith | 420508 | [420508-unlucky-swordsmith.json](./420508-unlucky-swordsmith.json) |
 | Unmaker | 217452 | [217452-unmaker.json](./217452-unmaker.json) |
+| Unmanned | 128744 | [128744-unmanned.json](./128744-unmanned.json) |
 | Unmanned helicopter | 105365 | [105365-unmanned-helicopter.json](./105365-unmanned-helicopter.json) |
 | Unmanned: Midnight Nightmare | 253548 | [253548-unmanned-midnight-nightmare.json](./253548-unmanned-midnight-nightmare.json) |
 | UnMarked | 185078 | [185078-unmarked.json](./185078-unmarked.json) |
