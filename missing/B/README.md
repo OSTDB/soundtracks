@@ -6821,6 +6821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Berserk Reborn | 211261 | [211261-berserk-reborn.json](./211261-berserk-reborn.json) |
 | Berserk Soccer | 155385 | [155385-berserk-soccer.json](./155385-berserk-soccer.json) |
 | Berserk World | 379453 | [379453-berserk-world.json](./379453-berserk-world.json) |
+| Berserk: Millennium Falcon-hen - Seima Senki no Shou | 78212 | [78212-berserk-millennium-falcon-hen-seima-senki-no-shou.json](./78212-berserk-millennium-falcon-hen-seima-senki-no-shou.json) |
 | Berserk: The Cataclysm | 32417 | [32417-berserk-the-cataclysm.json](./32417-berserk-the-cataclysm.json) |
 | Berserker | 144185 | [144185-berserker.json](./144185-berserker.json) |
 | Berserker 2: The Saga of Hilde | 390633 | [390633-berserker-2-the-saga-of-hilde.json](./390633-berserker-2-the-saga-of-hilde.json) |
@@ -17058,6 +17059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Whirl Shooter | 89616 | [89616-bubble-whirl-shooter.json](./89616-bubble-whirl-shooter.json) |
 | Bubble Witch 2 Saga | 61369 | [61369-bubble-witch-2-saga.json](./61369-bubble-witch-2-saga.json) |
 | Bubble Witch 3 Saga | 78386 | [78386-bubble-witch-3-saga.json](./78386-bubble-witch-3-saga.json) |
+| Bubble Witch Saga | 78384 | [78384-bubble-witch-saga.json](./78384-bubble-witch-saga.json) |
 | Bubble With Djealy | 157966 | [157966-bubble-with-djealy.json](./157966-bubble-with-djealy.json) |
 | Bubble Wizard III Saga | 347318 | [347318-bubble-wizard-iii-saga.json](./347318-bubble-wizard-iii-saga.json) |
 | Bubble Wizard IV Saga | 357027 | [357027-bubble-wizard-iv-saga.json](./357027-bubble-wizard-iv-saga.json) |
