@@ -1715,6 +1715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famousity | 83813 | [83813-famousity.json](./83813-famousity.json) |
 | Famousity Game | 98398 | [98398-famousity-game.json](./98398-famousity-game.json) |
 | Famulus | 326728 | [326728-famulus.json](./326728-famulus.json) |
+| Fan Club | 119906 | [119906-fan-club.json](./119906-fan-club.json) |
 | Fan Dungeon: A Day in the Life of Team Tomorrow! | 184344 | [184344-fan-dungeon-a-day-in-the-life-of-team-tomorrow.json](./184344-fan-dungeon-a-day-in-the-life-of-team-tomorrow.json) |
 | Fan Fun | 30553 | [30553-fan-fun.json](./30553-fan-fun.json) |
 | Fan Fun | 307647 | [307647-fan-fun.json](./307647-fan-fun.json) |
@@ -1747,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fancy Skiing 2: Online | 105312 | [105312-fancy-skiing-2-online.json](./105312-fancy-skiing-2-online.json) |
 | Fancy Skiing III Pro | 150408 | [150408-fancy-skiing-iii-pro.json](./150408-fancy-skiing-iii-pro.json) |
 | Fancy Skiing VR | 31759 | [31759-fancy-skiing-vr.json](./31759-fancy-skiing-vr.json) |
+| Fancy Skiing: Speed | 119866 | [119866-fancy-skiing-speed.json](./119866-fancy-skiing-speed.json) |
 | Fancy Skulls | 17535 | [17535-fancy-skulls.json](./17535-fancy-skulls.json) |
 | Fancy Slingshot VR | 31670 | [31670-fancy-slingshot-vr.json](./31670-fancy-slingshot-vr.json) |
 | Fancy Snowboarding | 102010 | [102010-fancy-snowboarding.json](./102010-fancy-snowboarding.json) |
@@ -4401,6 +4403,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FIFA 19: Legacy Edition | 111048 | [111048-fifa-19-legacy-edition.json](./111048-fifa-19-legacy-edition.json) |
 | FIFA 19: Ultimate Edition | 111047 | [111047-fifa-19-ultimate-edition.json](./111047-fifa-19-ultimate-edition.json) |
 | FIFA 20 | 114287 | [114287-fifa-20.json](./114287-fifa-20.json) |
+| FIFA 20: Champions Edition | 119890 | [119890-fifa-20-champions-edition.json](./119890-fifa-20-champions-edition.json) |
+| FIFA 20: Ultimate Edition | 119891 | [119891-fifa-20-ultimate-edition.json](./119891-fifa-20-ultimate-edition.json) |
 | FIFA 2000 | 229742 | [229742-fifa-2000.json](./229742-fifa-2000.json) |
 | FIFA 2000: Major League Soccer | 126294 | [126294-fifa-2000-major-league-soccer.json](./126294-fifa-2000-major-league-soccer.json) |
 | FIFA 2001: Major League Soccer | 240243 | [240243-fifa-2001-major-league-soccer.json](./240243-fifa-2001-major-league-soccer.json) |
