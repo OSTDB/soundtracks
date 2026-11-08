@@ -18928,6 +18928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzlebot | 185294 | [185294-puzzlebot.json](./185294-puzzlebot.json) |
 | Puzzlebot Challenge | 138794 | [138794-puzzlebot-challenge.json](./138794-puzzlebot-challenge.json) |
 | PuzzleCore | 404535 | [404535-puzzlecore.json](./404535-puzzlecore.json) |
+| Puzzlection | 126160 | [126160-puzzlection.json](./126160-puzzlection.json) |
 | Puzzled | 100211 | [100211-puzzled.json](./100211-puzzled.json) |
 | Puzzled | 39962 | [39962-puzzled.json](./39962-puzzled.json) |
 | Puzzled Cube | 335392 | [335392-puzzled-cube.json](./335392-puzzled-cube.json) |
