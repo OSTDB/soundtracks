@@ -14701,6 +14701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prince of Persia: The Sands of Time | 213051 | [213051-prince-of-persia-the-sands-of-time.json](./213051-prince-of-persia-the-sands-of-time.json) |
 | Prince of Persia: The Sands of Time & Lara Croft Tomb Raider: The Prophecy | 84173 | [84173-prince-of-persia-the-sands-of-time-and-lara-croft-tomb-raider-the-prophecy.json](./84173-prince-of-persia-the-sands-of-time-and-lara-croft-tomb-raider-the-prophecy.json) |
 | Prince of Persia: The Sands of Time HD | 99585 | [99585-prince-of-persia-the-sands-of-time-hd.json](./99585-prince-of-persia-the-sands-of-time-hd.json) |
+| Prince of Persia: The Sands of Time Remake | 138383 | [138383-prince-of-persia-the-sands-of-time-remake.json](./138383-prince-of-persia-the-sands-of-time-remake.json) |
 | Prince of Persia: The Shadow and the Flame | 142256 | [142256-prince-of-persia-the-shadow-and-the-flame.json](./142256-prince-of-persia-the-shadow-and-the-flame.json) |
 | Prince of Persia: The Two Thrones | 242993 | [242993-prince-of-persia-the-two-thrones.json](./242993-prince-of-persia-the-two-thrones.json) |
 | Prince of Persia: The Two Thrones HD | 134933 | [134933-prince-of-persia-the-two-thrones-hd.json](./134933-prince-of-persia-the-two-thrones-hd.json) |
