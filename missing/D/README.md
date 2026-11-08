@@ -1241,6 +1241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danse Macabre: Lethal Letters - Collector's Edition | 417788 | [417788-danse-macabre-lethal-letters-collectors-edition.json](./417788-danse-macabre-lethal-letters-collectors-edition.json) |
 | Danse Macabre: Ominous Obsession | 417789 | [417789-danse-macabre-ominous-obsession.json](./417789-danse-macabre-ominous-obsession.json) |
 | Danse Macabre: Ominous Obsession - Collector's Edition | 417790 | [417790-danse-macabre-ominous-obsession-collectors-edition.json](./417790-danse-macabre-ominous-obsession-collectors-edition.json) |
+| Danse Macabre: The Banshee | 87483 | [87483-danse-macabre-the-banshee.json](./87483-danse-macabre-the-banshee.json) |
 | Danse Macabre: The Last Adagio | 139753 | [139753-danse-macabre-the-last-adagio.json](./139753-danse-macabre-the-last-adagio.json) |
 | Danse Macabre: The Last Adagio - Collector's Edition | 30680 | [30680-danse-macabre-the-last-adagio-collectors-edition.json](./30680-danse-macabre-the-last-adagio-collectors-edition.json) |
 | Danse Macabre: Thin Ice | 139754 | [139754-danse-macabre-thin-ice.json](./139754-danse-macabre-thin-ice.json) |
@@ -15418,6 +15419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Lore II: The Heart of the Dragon Man | 71412 | [71412-dragon-lore-ii-the-heart-of-the-dragon-man.json](./71412-dragon-lore-ii-the-heart-of-the-dragon-man.json) |
 | Dragon Lore: The Legend Begins | 4342 | [4342-dragon-lore-the-legend-begins.json](./4342-dragon-lore-the-legend-begins.json) |
 | Dragon Maiden: Blossoms of the Past | 369759 | [369759-dragon-maiden-blossoms-of-the-past.json](./369759-dragon-maiden-blossoms-of-the-past.json) |
+| Dragon Maker | 87443 | [87443-dragon-maker.json](./87443-dragon-maker.json) |
 | Dragon Man: Reignited | 215173 | [215173-dragon-man-reignited.json](./215173-dragon-man-reignited.json) |
 | Dragon Mania | 241469 | [241469-dragon-mania.json](./241469-dragon-mania.json) |
 | Dragon Mania Legends | 58917 | [58917-dragon-mania-legends.json](./58917-dragon-mania-legends.json) |
