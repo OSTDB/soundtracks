@@ -8475,6 +8475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazin' George Remastered | 199176 | [199176-amazin-george-remastered.json](./199176-amazin-george-remastered.json) |
 | Amazin' Lumo | 207895 | [207895-amazin-lumo.json](./207895-amazin-lumo.json) |
 | Amazin' Mage | 270867 | [270867-amazin-mage.json](./270867-amazin-mage.json) |
+| Amazing 8bit Ball | 91507 | [91507-amazing-8bit-ball.json](./91507-amazing-8bit-ball.json) |
 | Amazing Adventures Around the World | 15711 | [15711-amazing-adventures-around-the-world.json](./15711-amazing-adventures-around-the-world.json) |
 | Amazing Adventures Riddle of the Two Knights | 52584 | [52584-amazing-adventures-riddle-of-the-two-knights.json](./52584-amazing-adventures-riddle-of-the-two-knights.json) |
 | Amazing Adventures: The Caribbean Secret | 20436 | [20436-amazing-adventures-the-caribbean-secret.json](./20436-amazing-adventures-the-caribbean-secret.json) |
@@ -12312,6 +12313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquanoid | 46629 | [46629-aquanoid.json](./46629-aquanoid.json) |
 | Aquanoid 2 | 67807 | [67807-aquanoid-2.json](./67807-aquanoid-2.json) |
 | Aquanoid 3: 3D | 66554 | [66554-aquanoid-3-3d.json](./66554-aquanoid-3-3d.json) |
+| Aquanoid Gold | 91506 | [91506-aquanoid-gold.json](./91506-aquanoid-gold.json) |
 | Aquanore | 376451 | [376451-aquanore.json](./376451-aquanore.json) |
 | AquaNox | 1997 | [1997-aquanox.json](./1997-aquanox.json) |
 | AquaNox 2: Revelation | 1998 | [1998-aquanox-2-revelation.json](./1998-aquanox-2-revelation.json) |
