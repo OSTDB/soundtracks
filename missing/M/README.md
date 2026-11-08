@@ -5764,6 +5764,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mathomatics | 190215 | [190215-mathomatics.json](./190215-mathomatics.json) |
 | Mathooze - The Math Puzzle Game! | 24964 | [24964-mathooze-the-math-puzzle-game.json](./24964-mathooze-the-math-puzzle-game.json) |
 | Mathoria: It All Adds Up | 33713 | [33713-mathoria-it-all-adds-up.json](./33713-mathoria-it-all-adds-up.json) |
+| Mathosaurus | 133548 | [133548-mathosaurus.json](./133548-mathosaurus.json) |
+| Mathosaurus I | 133543 | [133543-mathosaurus-i.json](./133543-mathosaurus-i.json) |
+| Mathosaurus II | 133544 | [133544-mathosaurus-ii.json](./133544-mathosaurus-ii.json) |
 | MathRat | 370905 | [370905-mathrat.json](./370905-mathrat.json) |
 | Maths and English with Rayman: Volume 2 | 98168 | [98168-maths-and-english-with-rayman-volume-2.json](./98168-maths-and-english-with-rayman-volume-2.json) |
 | Maths Challenge | 104482 | [104482-maths-challenge.json](./104482-maths-challenge.json) |
@@ -10127,6 +10130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metaverser | 259328 | [259328-metaverser.json](./259328-metaverser.json) |
 | Metavoidal | 221335 | [221335-metavoidal.json](./221335-metavoidal.json) |
 | Metavusking | 190800 | [190800-metavusking.json](./190800-metavusking.json) |
+| MetaWare High School Demo | 133564 | [133564-metaware-high-school-demo.json](./133564-metaware-high-school-demo.json) |
 | Metawork: Antique Shop Simulator | 366330 | [366330-metawork-antique-shop-simulator.json](./366330-metawork-antique-shop-simulator.json) |
 | Metawork: Hotel Simulator | 243395 | [243395-metawork-hotel-simulator.json](./243395-metawork-hotel-simulator.json) |
 | MetaWorld | 31841 | [31841-metaworld.json](./31841-metaworld.json) |
@@ -18854,6 +18858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Bommels Teacats | 191362 | [191362-mr-bommels-teacats.json](./191362-mr-bommels-teacats.json) |
 | Mr. Bones | 25804 | [25804-mr-bones.json](./25804-mr-bones.json) |
 | Mr. Boom | 46621 | [46621-mr-boom.json](./46621-mr-boom.json) |
+| Mr. Boop and the Curse of the Dinner Party | 133555 | [133555-mr-boop-and-the-curse-of-the-dinner-party.json](./133555-mr-boop-and-the-curse-of-the-dinner-party.json) |
 | Mr. Boston Clean Sweep | 72611 | [72611-mr-boston-clean-sweep.json](./72611-mr-boston-clean-sweep.json) |
 | Mr. Bounce | 387939 | [387939-mr-bounce.json](./387939-mr-bounce.json) |
 | Mr. Bree: Returning Home | 102124 | [102124-mr-bree-returning-home.json](./102124-mr-bree-returning-home.json) |
@@ -19568,6 +19573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muppets Sorting and Ordering | 251387 | [251387-muppets-sorting-and-ordering.json](./251387-muppets-sorting-and-ordering.json) |
 | Muppled | 410077 | [410077-muppled.json](./410077-muppled.json) |
 | Muppy The Bunny: The Danger of Wishes | 117608 | [117608-muppy-the-bunny-the-danger-of-wishes.json](./117608-muppy-the-bunny-the-danger-of-wishes.json) |
+| Mur | 133560 | [133560-mur.json](./133560-mur.json) |
 | Mura World | 267912 | [267912-mura-world.json](./267912-mura-world.json) |
 | Mura World 2 | 267913 | [267913-mura-world-2.json](./267913-mura-world-2.json) |
 | Murakumo: Renegade Mech Pursuit | 5936 | [5936-murakumo-renegade-mech-pursuit.json](./5936-murakumo-renegade-mech-pursuit.json) |
