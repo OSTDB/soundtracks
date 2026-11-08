@@ -5251,6 +5251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seikimatsu Tanemaki Densetsu: Shoujo Yuugi - Ai Notameni Shine! | 67265 | [67265-seikimatsu-tanemaki-densetsu-shoujo-yuugi-ai-notameni-shine.json](./67265-seikimatsu-tanemaki-densetsu-shoujo-yuugi-ai-notameni-shine.json) |
 | Seikishi Melty Lovers | 372565 | [372565-seikishi-melty-lovers.json](./372565-seikishi-melty-lovers.json) |
 | Seiklus | 19116 | [19116-seiklus.json](./19116-seiklus.json) |
+| Seiko-chan SOS | 123164 | [123164-seiko-chan-sos.json](./123164-seiko-chan-sos.json) |
 | Seiko: High! Low! | 227639 | [227639-seiko-high-low.json](./227639-seiko-high-low.json) |
 | Seikoku 1092: Souhei-den | 351984 | [351984-seikoku-1092-souhei-den.json](./351984-seikoku-1092-souhei-den.json) |
 | Seilane | 92130 | [92130-seilane.json](./92130-seilane.json) |
@@ -6926,6 +6927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Over the Twelve Lands | 305338 | [305338-shadow-over-the-twelve-lands.json](./305338-shadow-over-the-twelve-lands.json) |
 | Shadow Overlord: The Beginning | 272264 | [272264-shadow-overlord-the-beginning.json](./272264-shadow-overlord-the-beginning.json) |
 | Shadow Play | 109413 | [109413-shadow-play.json](./109413-shadow-play.json) |
+| Shadow Point | 123157 | [123157-shadow-point.json](./123157-shadow-point.json) |
 | Shadow President | 73470 | [73470-shadow-president.json](./73470-shadow-president.json) |
 | Shadow Pride | 227367 | [227367-shadow-pride.json](./227367-shadow-pride.json) |
 | Shadow Princess: Crystalbound | 422489 | [422489-shadow-princess-crystalbound.json](./422489-shadow-princess-crystalbound.json) |
@@ -24037,6 +24039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | St. Nick | 42198 | [42198-st-nick.json](./42198-st-nick.json) |
 | St. Nick's: Dash Away All! | 184931 | [184931-st-nicks-dash-away-all.json](./184931-st-nicks-dash-away-all.json) |
 | St. Orchint's Orphanage | 180914 | [180914-st-orchints-orphanage.json](./180914-st-orchints-orphanage.json) |
+| St. Thomas | 123171 | [123171-st-thomas.json](./123171-st-thomas.json) |
 | St. Yariman's Little Black Book: Complete | 82980 | [82980-st-yarimans-little-black-book-complete.json](./82980-st-yarimans-little-black-book-complete.json) |
 | St/P | 97644 | [97644-st-p.json](./97644-st-p.json) |
 | Staars | 318918 | [318918-staars.json](./318918-staars.json) |
@@ -24881,6 +24884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek Pinball | 72149 | [72149-star-trek-pinball.json](./72149-star-trek-pinball.json) |
 | Star Trek Prodigy: Supernova | 202419 | [202419-star-trek-prodigy-supernova.json](./202419-star-trek-prodigy-supernova.json) |
 | Star Trek Scene It? | 216322 | [216322-star-trek-scene-it.json](./216322-star-trek-scene-it.json) |
+| Star Trek Trexels | 123152 | [123152-star-trek-trexels.json](./123152-star-trek-trexels.json) |
 | Star Trek Trexels II | 108463 | [108463-star-trek-trexels-ii.json](./108463-star-trek-trexels-ii.json) |
 | Star Trek V: The Final Frontier | 48319 | [48319-star-trek-v-the-final-frontier.json](./48319-star-trek-v-the-final-frontier.json) |
 | Star Trek V: The Final Frontier | 69831 | [69831-star-trek-v-the-final-frontier.json](./69831-star-trek-v-the-final-frontier.json) |
@@ -24966,6 +24970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Voyager - Elite Force | 877 | [877-star-trek-voyager-elite-force.json](./877-star-trek-voyager-elite-force.json) |
 | Star Trek: Voyager - Elite Force Expansion Pack | 77313 | [77313-star-trek-voyager-elite-force-expansion-pack.json](./77313-star-trek-voyager-elite-force-expansion-pack.json) |
 | Star Trek: Warp | 409628 | [409628-star-trek-warp.json](./409628-star-trek-warp.json) |
+| Star Trek: Wrath of Gems | 123153 | [123153-star-trek-wrath-of-gems.json](./123153-star-trek-wrath-of-gems.json) |
 | Star Trigger | 214342 | [214342-star-trigger.json](./214342-star-trigger.json) |
 | Star Trigon | 54399 | [54399-star-trigon.json](./54399-star-trigon.json) |
 | Star Trooper | 326580 | [326580-star-trooper.json](./326580-star-trooper.json) |
