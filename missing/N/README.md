@@ -6356,6 +6356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nocturne Maze: Shadows in the Hedge | 374079 | [374079-nocturne-maze-shadows-in-the-hedge.json](./374079-nocturne-maze-shadows-in-the-hedge.json) |
 | Nocturne of Steel | 107893 | [107893-nocturne-of-steel.json](./107893-nocturne-of-steel.json) |
 | Nocturne: Prelude | 129986 | [129986-nocturne-prelude.json](./129986-nocturne-prelude.json) |
+| Nocturne: Rebirth | 122548 | [122548-nocturne-rebirth.json](./122548-nocturne-rebirth.json) |
 | NocturneRecomp | 408841 | [408841-nocturnerecomp.json](./408841-nocturnerecomp.json) |
 | Nocturnis | 414027 | [414027-nocturnis.json](./414027-nocturnis.json) |
 | Nocturnous | 128149 | [128149-nocturnous.json](./128149-nocturnous.json) |
