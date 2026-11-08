@@ -1282,6 +1282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Luminaria | 165355 | [165355-tales-of-luminaria.json](./165355-tales-of-luminaria.json) |
 | Tales of Lunar Scales | 331735 | [331735-tales-of-lunar-scales.json](./331735-tales-of-lunar-scales.json) |
 | Tales of Lunea | 74713 | [74713-tales-of-lunea.json](./74713-tales-of-lunea.json) |
+| Tales of Mahabharata | 105559 | [105559-tales-of-mahabharata.json](./105559-tales-of-mahabharata.json) |
 | Tales of Maj'Eyal | 8796 | [8796-tales-of-majeyal.json](./8796-tales-of-majeyal.json) |
 | Tales of Maj'Eyal: Ashes of Urh'Rok | 8797 | [8797-tales-of-majeyal-ashes-of-urhrok.json](./8797-tales-of-majeyal-ashes-of-urhrok.json) |
 | Tales of Maj'Eyal: Embers of Rage | 51930 | [51930-tales-of-majeyal-embers-of-rage.json](./51930-tales-of-majeyal-embers-of-rage.json) |
@@ -3419,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teen Titans Battle Blitz | 144130 | [144130-teen-titans-battle-blitz.json](./144130-teen-titans-battle-blitz.json) |
 | Teen Titans Go! Arcade | 59358 | [59358-teen-titans-go-arcade.json](./59358-teen-titans-go-arcade.json) |
 | Teen Titans Go! Drillionaire | 204194 | [204194-teen-titans-go-drillionaire.json](./204194-teen-titans-go-drillionaire.json) |
+| Teen Titans Go! Figure | 105464 | [105464-teen-titans-go-figure.json](./105464-teen-titans-go-figure.json) |
 | Teen Titans One-on-One | 185799 | [185799-teen-titans-one-on-one.json](./185799-teen-titans-one-on-one.json) |
 | Teen Titans: Calling All Titans | 210351 | [210351-teen-titans-calling-all-titans.json](./210351-teen-titans-calling-all-titans.json) |
 | Teen Witches Academy | 207163 | [207163-teen-witches-academy.json](./207163-teen-witches-academy.json) |
@@ -24336,6 +24338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan 2 | 262259 | [262259-titan-2.json](./262259-titan-2.json) |
 | Titan A.E. | 198944 | [198944-titan-a-e.json](./198944-titan-a-e.json) |
 | Titan A.E. | 67820 | [67820-titan-a-e.json](./67820-titan-a-e.json) |
+| Titan Arena | 105567 | [105567-titan-arena.json](./105567-titan-arena.json) |
 | Titan Arum | 262512 | [262512-titan-arum.json](./262512-titan-arum.json) |
 | Titan Attack: Wall Defense FPS | 175716 | [175716-titan-attack-wall-defense-fps.json](./175716-titan-attack-wall-defense-fps.json) |
 | Titan Attacks! | 11460 | [11460-titan-attacks.json](./11460-titan-attacks.json) |
@@ -28330,6 +28333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trade Em Up: TCG Empire Shop | 324995 | [324995-trade-em-up-tcg-empire-shop.json](./324995-trade-em-up-tcg-empire-shop.json) |
 | Trade Empire | 391786 | [391786-trade-empire.json](./391786-trade-empire.json) |
 | Trade Empires | 70113 | [70113-trade-empires.json](./70113-trade-empires.json) |
+| Trade Island | 105473 | [105473-trade-island.json](./105473-trade-island.json) |
 | Trade Mania | 146466 | [146466-trade-mania.json](./146466-trade-mania.json) |
 | Trade Mania 2 | 255047 | [255047-trade-mania-2.json](./255047-trade-mania-2.json) |
 | Trade Nations | 38891 | [38891-trade-nations.json](./38891-trade-nations.json) |
@@ -33993,6 +33997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twinkleby | 340589 | [340589-twinkleby.json](./340589-twinkleby.json) |
 | Twinky Goes Hiking | 416653 | [416653-twinky-goes-hiking.json](./416653-twinky-goes-hiking.json) |
 | Twinland | 189244 | [189244-twinland.json](./189244-twinland.json) |
+| Twinoo | 105493 | [105493-twinoo.json](./105493-twinoo.json) |
 | Twinora | 126636 | [126636-twinora.json](./126636-twinora.json) |
 | Twins & Dreams | 373223 | [373223-twins-and-dreams.json](./373223-twins-and-dreams.json) |
 | Twins Dash | 200028 | [200028-twins-dash.json](./200028-twins-dash.json) |
