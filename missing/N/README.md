@@ -838,6 +838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Revolution | 22832 | [22832-nascar-revolution.json](./22832-nascar-revolution.json) |
 | NASCAR Rivals: 2022 Patriotic Pack | 231360 | [231360-nascar-rivals-2022-patriotic-pack.json](./231360-nascar-rivals-2022-patriotic-pack.json) |
 | NASCAR Rivals: Throwback Pack | 231254 | [231254-nascar-rivals-throwback-pack.json](./231254-nascar-rivals-throwback-pack.json) |
+| NASCAR Road Racing | 94292 | [94292-nascar-road-racing.json](./94292-nascar-road-racing.json) |
 | NASCAR Rumble | 44879 | [44879-nascar-rumble.json](./44879-nascar-rumble.json) |
 | NASCAR Thunder 2002 | 5946 | [5946-nascar-thunder-2002.json](./5946-nascar-thunder-2002.json) |
 | NASCAR Thunder 2003 | 242427 | [242427-nascar-thunder-2003.json](./242427-nascar-thunder-2003.json) |
