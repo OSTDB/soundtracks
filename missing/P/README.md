@@ -1429,6 +1429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Battles | 17997 | [17997-panzer-battles.json](./17997-panzer-battles.json) |
 | Panzer Battles: Battles of Normandy | 241428 | [241428-panzer-battles-battles-of-normandy.json](./241428-panzer-battles-battles-of-normandy.json) |
 | Panzer Campaign VII: Kursk '43 | 109182 | [109182-panzer-campaign-vii-kursk-43.json](./109182-panzer-campaign-vii-kursk-43.json) |
+| Panzer Campaigns - Smolensk '41 | 106794 | [106794-panzer-campaigns-smolensk-41.json](./106794-panzer-campaigns-smolensk-41.json) |
 | Panzer Campaigns Budapest '45 | 206791 | [206791-panzer-campaigns-budapest-45.json](./206791-panzer-campaigns-budapest-45.json) |
 | Panzer Campaigns VI: Korsun '44 | 71370 | [71370-panzer-campaigns-vi-korsun-44.json](./71370-panzer-campaigns-vi-korsun-44.json) |
 | Panzer Campaigns: Bulge '44 Gold | 124728 | [124728-panzer-campaigns-bulge-44-gold.json](./124728-panzer-campaigns-bulge-44-gold.json) |
@@ -1436,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Campaigns: France '40 Gold | 124717 | [124717-panzer-campaigns-france-40-gold.json](./124717-panzer-campaigns-france-40-gold.json) |
 | Panzer Campaigns: Japan '45 | 124730 | [124730-panzer-campaigns-japan-45.json](./124730-panzer-campaigns-japan-45.json) |
 | Panzer Campaigns: Japan '46 | 131998 | [131998-panzer-campaigns-japan-46.json](./131998-panzer-campaigns-japan-46.json) |
+| Panzer Campaigns: Kharkov '42 | 106792 | [106792-panzer-campaigns-kharkov-42.json](./106792-panzer-campaigns-kharkov-42.json) |
 | Panzer Campaigns: Kharkov '42 Gold | 124714 | [124714-panzer-campaigns-kharkov-42-gold.json](./124714-panzer-campaigns-kharkov-42-gold.json) |
 | Panzer Campaigns: Market-Garden '44 Gold | 124729 | [124729-panzer-campaigns-market-garden-44-gold.json](./124729-panzer-campaigns-market-garden-44-gold.json) |
 | Panzer Campaigns: Mius '43 | 111317 | [111317-panzer-campaigns-mius-43.json](./111317-panzer-campaigns-mius-43.json) |
@@ -4495,6 +4497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Heist 2 | 157499 | [157499-perfect-heist-2.json](./157499-perfect-heist-2.json) |
 | Perfect Heist 2: Historic Characters DLC | 274740 | [274740-perfect-heist-2-historic-characters-dlc.json](./274740-perfect-heist-2-historic-characters-dlc.json) |
 | Perfect Heist 2: Pietsmiet DLC | 418505 | [418505-perfect-heist-2-pietsmiet-dlc.json](./418505-perfect-heist-2-pietsmiet-dlc.json) |
+| Perfect Hit . . . | 106722 | [106722-perfect-hit.json](./106722-perfect-hit.json) |
 | Perfect Hue Arena | 384075 | [384075-perfect-hue-arena.json](./384075-perfect-hue-arena.json) |
 | Perfect Inventory | 223411 | [223411-perfect-inventory.json](./223411-perfect-inventory.json) |
 | Perfect Jump | 204811 | [204811-perfect-jump.json](./204811-perfect-jump.json) |
@@ -6253,6 +6256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross e6 | 47666 | [47666-picross-e6.json](./47666-picross-e6.json) |
 | Picross e7 | 80731 | [80731-picross-e7.json](./80731-picross-e7.json) |
 | Picross e8 | 79798 | [79798-picross-e8.json](./79798-picross-e8.json) |
+| Picross e9 | 106692 | [106692-picross-e9.json](./106692-picross-e9.json) |
 | Picross Fairytale | 102879 | [102879-picross-fairytale.json](./102879-picross-fairytale.json) |
 | Picross Fairytale: Legend of the Mermaid | 105715 | [105715-picross-fairytale-legend-of-the-mermaid.json](./105715-picross-fairytale-legend-of-the-mermaid.json) |
 | Picross Floof | 116104 | [116104-picross-floof.json](./116104-picross-floof.json) |
@@ -9218,6 +9222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plague Doctor: Contagion - 430 BCE-2020 AD | 174100 | [174100-plague-doctor-contagion-430-bce-2020-ad.json](./174100-plague-doctor-contagion-430-bce-2020-ad.json) |
 | Plague Doctor: Life in Pestilence | 380349 | [380349-plague-doctor-life-in-pestilence.json](./380349-plague-doctor-life-in-pestilence.json) |
 | Plague Doctor: Medieval Apothecary | 416824 | [416824-plague-doctor-medieval-apothecary.json](./416824-plague-doctor-medieval-apothecary.json) |
+| Plague Hunter | 106694 | [106694-plague-hunter.json](./106694-plague-hunter.json) |
 | Plague Inc: Aliens & Anti-Vaxxers | 398971 | [398971-plague-inc-aliens-and-anti-vaxxers.json](./398971-plague-inc-aliens-and-anti-vaxxers.json) |
 | Plague Inc: Evolved | 7601 | [7601-plague-inc-evolved.json](./7601-plague-inc-evolved.json) |
 | Plague Inc: The Cure | 170560 | [170560-plague-inc-the-cure.json](./170560-plague-inc-the-cure.json) |
@@ -13796,6 +13801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Off! | 94608 | [94608-power-off.json](./94608-power-off.json) |
 | Power On: Energy Flow | 292816 | [292816-power-on-energy-flow.json](./292816-power-on-energy-flow.json) |
 | Power Overwhelming | 30739 | [30739-power-overwhelming.json](./30739-power-overwhelming.json) |
+| Power Painter: Shoot & Defense | 106720 | [106720-power-painter-shoot-and-defense.json](./106720-power-painter-shoot-and-defense.json) |
 | Power Pair | 176630 | [176630-power-pair.json](./176630-power-pair.json) |
 | Power Pals | 165728 | [165728-power-pals.json](./165728-power-pals.json) |
 | Power Peach Sis. | 48562 | [48562-power-peach-sis.json](./48562-power-peach-sis.json) |
