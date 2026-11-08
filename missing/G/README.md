@@ -7813,7 +7813,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gran Turismo 5 Prologue | 1599 | [1599-gran-turismo-5-prologue.json](./1599-gran-turismo-5-prologue.json) |
 | Gran Turismo 5 Spec 2.0 | 136852 | [136852-gran-turismo-5-spec-2-0.json](./136852-gran-turismo-5-spec-2-0.json) |
 | Gran Turismo 5 XL Edition | 45205 | [45205-gran-turismo-5-xl-edition.json](./45205-gran-turismo-5-xl-edition.json) |
+| Gran Turismo 5: Collector's Edition | 138380 | [138380-gran-turismo-5-collectors-edition.json](./138380-gran-turismo-5-collectors-edition.json) |
 | Gran Turismo 5: Prologue Spec III | 77993 | [77993-gran-turismo-5-prologue-spec-iii.json](./77993-gran-turismo-5-prologue-spec-iii.json) |
+| Gran Turismo 5: Signature Edition | 138381 | [138381-gran-turismo-5-signature-edition.json](./138381-gran-turismo-5-signature-edition.json) |
 | Gran Turismo 6: Anniversary Edition | 43031 | [43031-gran-turismo-6-anniversary-edition.json](./43031-gran-turismo-6-anniversary-edition.json) |
 | Gran Turismo 7: 25th Anniversary Edition | 172566 | [172566-gran-turismo-7-25th-anniversary-edition.json](./172566-gran-turismo-7-25th-anniversary-edition.json) |
 | Gran Turismo 7: Launch Edition | 172567 | [172567-gran-turismo-7-launch-edition.json](./172567-gran-turismo-7-launch-edition.json) |
