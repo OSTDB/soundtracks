@@ -5568,6 +5568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find Teddy | 78519 | [78519-find-teddy.json](./78519-find-teddy.json) |
 | Find the Alien | 214325 | [214325-find-the-alien.json](./214325-find-the-alien.json) |
 | Find The Backdoor | 290493 | [290493-find-the-backdoor.json](./290493-find-the-backdoor.json) |
+| Find the Balance | 99881 | [99881-find-the-balance.json](./99881-find-the-balance.json) |
 | Find the Beer | 409198 | [409198-find-the-beer.json](./409198-find-the-beer.json) |
 | Find the Birds | 230912 | [230912-find-the-birds.json](./230912-find-the-birds.json) |
 | Find the Bug | 234076 | [234076-find-the-bug.json](./234076-find-the-bug.json) |
@@ -10754,6 +10755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortress | 319195 | [319195-fortress.json](./319195-fortress.json) |
 | Fortress | 6409 | [6409-fortress.json](./6409-fortress.json) |
 | Fortress | 86214 | [86214-fortress.json](./86214-fortress.json) |
+| Fortress (working title) | 100237 | [100237-fortress-working-title.json](./100237-fortress-working-title.json) |
 | Fortress 1024 | 261282 | [261282-fortress-1024.json](./261282-fortress-1024.json) |
 | Fortress 2 Blue | 340237 | [340237-fortress-2-blue.json](./340237-fortress-2-blue.json) |
 | Fortress 3 | 124409 | [124409-fortress-3.json](./124409-fortress-3.json) |
