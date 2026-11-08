@@ -1450,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candybox: Mobile | 402348 | [402348-candybox-mobile.json](./402348-candybox-mobile.json) |
 | Candyboy | 236351 | [236351-candyboy.json](./236351-candyboy.json) |
 | CandyCraft | 241500 | [241500-candycraft.json](./241500-candycraft.json) |
+| CandyGeist | 91472 | [91472-candygeist.json](./91472-candygeist.json) |
 | Candyhouse | 250268 | [250268-candyhouse.json](./250268-candyhouse.json) |
 | Candylands Journey | 355982 | [355982-candylands-journey.json](./355982-candylands-journey.json) |
 | Candylight | 194423 | [194423-candylight.json](./194423-candylight.json) |
