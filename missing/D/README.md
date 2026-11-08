@@ -6880,6 +6880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DemonSteele | 134443 | [134443-demonsteele.json](./134443-demonsteele.json) |
 | DemonsTier | 61647 | [61647-demonstier.json](./61647-demonstier.json) |
 | Demonstration | 44353 | [44353-demonstration.json](./44353-demonstration.json) |
+| Demonstratoin of Black Royal Blood | 98064 | [98064-demonstratoin-of-black-royal-blood.json](./98064-demonstratoin-of-black-royal-blood.json) |
 | Demonworld | 99691 | [99691-demonworld.json](./99691-demonworld.json) |
 | Demonworld: Dark Armies | 73841 | [73841-demonworld-dark-armies.json](./73841-demonworld-dark-armies.json) |
 | Demonworld: Hell Boss Fight | 416839 | [416839-demonworld-hell-boss-fight.json](./416839-demonworld-hell-boss-fight.json) |
