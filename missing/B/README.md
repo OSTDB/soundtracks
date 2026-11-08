@@ -4750,6 +4750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BBirthday | 232949 | [232949-bbirthday.json](./232949-bbirthday.json) |
 | BBlocks | 109737 | [109737-bblocks.json](./109737-bblocks.json) |
 | BBOnline | 130327 | [130327-bbonline.json](./130327-bbonline.json) |
+| BBOnline 2 | 80109 | [80109-bbonline-2.json](./80109-bbonline-2.json) |
 | BBOnline 2017 | 130318 | [130318-bbonline-2017.json](./130318-bbonline-2017.json) |
 | BBOnline Manager | 130316 | [130316-bbonline-manager.json](./130316-bbonline-manager.json) |
 | BBOnline Remastered | 130315 | [130315-bbonline-remastered.json](./130315-bbonline-remastered.json) |
@@ -5640,11 +5641,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania IIDX | 94920 | [94920-beatmania-iidx.json](./94920-beatmania-iidx.json) |
 | Beatmania IIDX 10th style | 94025 | [94025-beatmania-iidx-10th-style.json](./94025-beatmania-iidx-10th-style.json) |
 | Beatmania IIDX 11 IIDX Red | 94026 | [94026-beatmania-iidx-11-iidx-red.json](./94026-beatmania-iidx-11-iidx-red.json) |
+| Beatmania IIDX 12 Happy Sky | 80104 | [80104-beatmania-iidx-12-happy-sky.json](./80104-beatmania-iidx-12-happy-sky.json) |
 | Beatmania IIDX 13 DistorteD | 94023 | [94023-beatmania-iidx-13-distorted.json](./94023-beatmania-iidx-13-distorted.json) |
+| Beatmania IIDX 14 Gold | 80103 | [80103-beatmania-iidx-14-gold.json](./80103-beatmania-iidx-14-gold.json) |
+| Beatmania IIDX 15 DJ Troopers | 80101 | [80101-beatmania-iidx-15-dj-troopers.json](./80101-beatmania-iidx-15-dj-troopers.json) |
+| Beatmania IIDX 16 Empress | 80102 | [80102-beatmania-iidx-16-empress.json](./80102-beatmania-iidx-16-empress.json) |
 | Beatmania IIDX 17 Sirius | 66644 | [66644-beatmania-iidx-17-sirius.json](./66644-beatmania-iidx-17-sirius.json) |
 | Beatmania IIDX 18 Resort Anthem | 66726 | [66726-beatmania-iidx-18-resort-anthem.json](./66726-beatmania-iidx-18-resort-anthem.json) |
 | Beatmania IIDX 19 Lincle | 81478 | [81478-beatmania-iidx-19-lincle.json](./81478-beatmania-iidx-19-lincle.json) |
 | Beatmania IIDX 20 Tricoro | 61664 | [61664-beatmania-iidx-20-tricoro.json](./61664-beatmania-iidx-20-tricoro.json) |
+| Beatmania IIDX 21 Spada | 80099 | [80099-beatmania-iidx-21-spada.json](./80099-beatmania-iidx-21-spada.json) |
+| Beatmania IIDX 22 Pendual | 80105 | [80105-beatmania-iidx-22-pendual.json](./80105-beatmania-iidx-22-pendual.json) |
 | Beatmania IIDX 24 Sinobuz | 108141 | [108141-beatmania-iidx-24-sinobuz.json](./108141-beatmania-iidx-24-sinobuz.json) |
 | Beatmania IIDX 25 Cannon Ballers | 102228 | [102228-beatmania-iidx-25-cannon-ballers.json](./102228-beatmania-iidx-25-cannon-ballers.json) |
 | Beatmania IIDX 26 Rootage | 112148 | [112148-beatmania-iidx-26-rootage.json](./112148-beatmania-iidx-26-rootage.json) |
@@ -5657,6 +5664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania IIDX 32 Pinky Crush | 310590 | [310590-beatmania-iidx-32-pinky-crush.json](./310590-beatmania-iidx-32-pinky-crush.json) |
 | Beatmania IIDX 33 Sparkle Shower | 367970 | [367970-beatmania-iidx-33-sparkle-shower.json](./367970-beatmania-iidx-33-sparkle-shower.json) |
 | Beatmania IIDX 34 Zinrai | 417463 | [417463-beatmania-iidx-34-zinrai.json](./417463-beatmania-iidx-34-zinrai.json) |
+| Beatmania IIDX 3rd style | 80100 | [80100-beatmania-iidx-3rd-style.json](./80100-beatmania-iidx-3rd-style.json) |
 | Beatmania IIDX 4th style | 72922 | [72922-beatmania-iidx-4th-style.json](./72922-beatmania-iidx-4th-style.json) |
 | Beatmania IIDX 5th style | 72913 | [72913-beatmania-iidx-5th-style.json](./72913-beatmania-iidx-5th-style.json) |
 | Beatmania IIDX 6th style | 72915 | [72915-beatmania-iidx-6th-style.json](./72915-beatmania-iidx-6th-style.json) |
@@ -5664,6 +5672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania IIDX 8th style | 94024 | [94024-beatmania-iidx-8th-style.json](./94024-beatmania-iidx-8th-style.json) |
 | Beatmania IIDX Club Version | 141046 | [141046-beatmania-iidx-club-version.json](./141046-beatmania-iidx-club-version.json) |
 | Beatmania IIDX Infinitas | 143204 | [143204-beatmania-iidx-infinitas.json](./143204-beatmania-iidx-infinitas.json) |
+| Beatmania IIDX Infinitas | 80106 | [80106-beatmania-iidx-infinitas.json](./80106-beatmania-iidx-infinitas.json) |
 | Beatmania IIDX Ultimate Mobile | 137264 | [137264-beatmania-iidx-ultimate-mobile.json](./137264-beatmania-iidx-ultimate-mobile.json) |
 | beatmania III -The latest evolution machine- | 61017 | [61017-beatmania-iii-the-latest-evolution-machine.json](./61017-beatmania-iii-the-latest-evolution-machine.json) |
 | Beatmania III The Final | 61022 | [61022-beatmania-iii-the-final.json](./61022-beatmania-iii-the-final.json) |
