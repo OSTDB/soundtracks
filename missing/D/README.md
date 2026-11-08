@@ -7343,6 +7343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Magic Adventures | 175771 | [175771-desert-magic-adventures.json](./175771-desert-magic-adventures.json) |
 | Desert Mirage | 420492 | [420492-desert-mirage.json](./420492-desert-mirage.json) |
 | Desert Mystery | 155787 | [155787-desert-mystery.json](./155787-desert-mystery.json) |
+| Desert Nightmare | 131034 | [131034-desert-nightmare.json](./131034-desert-nightmare.json) |
 | Desert of Ash: a Post-Apocalyptic Gay Sex Simulator | 326457 | [326457-desert-of-ash-a-post-apocalyptic-gay-sex-simulator.json](./326457-desert-of-ash-a-post-apocalyptic-gay-sex-simulator.json) |
 | Desert of Doitjma | 128437 | [128437-desert-of-doitjma.json](./128437-desert-of-doitjma.json) |
 | Desert Of The Undead New Frontiers | 296364 | [296364-desert-of-the-undead-new-frontiers.json](./296364-desert-of-the-undead-new-frontiers.json) |
@@ -14890,6 +14891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball GT: Final Bout | 2558 | [2558-dragon-ball-gt-final-bout.json](./2558-dragon-ball-gt-final-bout.json) |
 | Dragon Ball GT: Transformation | 24269 | [24269-dragon-ball-gt-transformation.json](./24269-dragon-ball-gt-transformation.json) |
 | Dragon Ball GT: Transformation 2 | 66363 | [66363-dragon-ball-gt-transformation-2.json](./66363-dragon-ball-gt-transformation-2.json) |
+| Dragon Ball Heroes | 131078 | [131078-dragon-ball-heroes.json](./131078-dragon-ball-heroes.json) |
 | Dragon Ball Heroes: Ultimate Mission | 77253 | [77253-dragon-ball-heroes-ultimate-mission.json](./77253-dragon-ball-heroes-ultimate-mission.json) |
 | Dragon Ball Heroes: Ultimate Mission - Lalabit Market Luxury Edition | 89875 | [89875-dragon-ball-heroes-ultimate-mission-lalabit-market-luxury-edition.json](./89875-dragon-ball-heroes-ultimate-mission-lalabit-market-luxury-edition.json) |
 | Dragon Ball Heroes: Ultimate Mission X | 26865 | [26865-dragon-ball-heroes-ultimate-mission-x.json](./26865-dragon-ball-heroes-ultimate-mission-x.json) |
