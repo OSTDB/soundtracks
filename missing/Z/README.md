@@ -1723,6 +1723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Hills | 139905 | [139905-zombie-hills.json](./139905-zombie-hills.json) |
 | Zombie Hobby VR | 41950 | [41950-zombie-hobby-vr.json](./41950-zombie-hobby-vr.json) |
 | Zombie Hooker Nightmare | 397165 | [397165-zombie-hooker-nightmare.json](./397165-zombie-hooker-nightmare.json) |
+| Zombie Horde | 126165 | [126165-zombie-horde.json](./126165-zombie-horde.json) |
 | Zombie Horde | 167196 | [167196-zombie-horde.json](./167196-zombie-horde.json) |
 | Zombie Horde Dominator | 263144 | [263144-zombie-horde-dominator.json](./263144-zombie-horde-dominator.json) |
 | Zombie Hotel | 100481 | [100481-zombie-hotel.json](./100481-zombie-hotel.json) |
