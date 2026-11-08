@@ -2866,6 +2866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kim Possible: Bueno Rufus | 159203 | [159203-kim-possible-bueno-rufus.json](./159203-kim-possible-bueno-rufus.json) |
 | Kim Possible: Legend of the Monkey's Eye | 8153 | [8153-kim-possible-legend-of-the-monkeys-eye.json](./8153-kim-possible-legend-of-the-monkeys-eye.json) |
 | Kim Shooter | 116319 | [116319-kim-shooter.json](./116319-kim-shooter.json) |
+| Kim the Avenger Cow | 98598 | [98598-kim-the-avenger-cow.json](./98598-kim-the-avenger-cow.json) |
 | Kimagure Orange Road: Natsu no Mirage | 91765 | [91765-kimagure-orange-road-natsu-no-mirage.json](./91765-kimagure-orange-road-natsu-no-mirage.json) |
 | Kimagure Strawberry Café | 203323 | [203323-kimagure-strawberry-cafe.json](./203323-kimagure-strawberry-cafe.json) |
 | Kimagure Temptation | 182389 | [182389-kimagure-temptation.json](./182389-kimagure-temptation.json) |
