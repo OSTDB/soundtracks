@@ -6217,6 +6217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Law | 196422 | [196422-chaos-law.json](./196422-chaos-law.json) |
 | Chaos League | 50120 | [50120-chaos-league.json](./50120-chaos-league.json) |
 | Chaos League: Sudden Death | 70068 | [70068-chaos-league-sudden-death.json](./70068-chaos-league-sudden-death.json) |
+| Chaos Legends | 93640 | [93640-chaos-legends.json](./93640-chaos-legends.json) |
 | Chaos Legion | 2917 | [2917-chaos-legion.json](./2917-chaos-legion.json) |
 | Chaos Machina | 331323 | [331323-chaos-machina.json](./331323-chaos-machina.json) |
 | Chaos Magic: Towers and Wizards | 236199 | [236199-chaos-magic-towers-and-wizards.json](./236199-chaos-magic-towers-and-wizards.json) |
@@ -6330,6 +6331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charade Maniacs for Nintendo Switch | 201618 | [201618-charade-maniacs-for-nintendo-switch.json](./201618-charade-maniacs-for-nintendo-switch.json) |
 | Charade Maniacs: Day One Edition | 241717 | [241717-charade-maniacs-day-one-edition.json](./241717-charade-maniacs-day-one-edition.json) |
 | Charade Maniacs: Limited Edition | 265936 | [265936-charade-maniacs-limited-edition.json](./265936-charade-maniacs-limited-edition.json) |
+| Charades Articulation | 93654 | [93654-charades-articulation.json](./93654-charades-articulation.json) |
 | Charades Movie One | 391933 | [391933-charades-movie-one.json](./391933-charades-movie-one.json) |
 | Charades Taboo Game | 100145 | [100145-charades-taboo-game.json](./100145-charades-taboo-game.json) |
 | Charades! | 88858 | [88858-charades.json](./88858-charades.json) |
@@ -12299,6 +12301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Chaos | 33943 | [33943-color-chaos.json](./33943-color-chaos.json) |
 | Color Chemistry | 33821 | [33821-color-chemistry.json](./33821-color-chemistry.json) |
 | Color Cingdom | 334788 | [334788-color-cingdom.json](./334788-color-cingdom.json) |
+| Color Circle | 93678 | [93678-color-circle.json](./93678-color-circle.json) |
 | Color Clash | 369135 | [369135-color-clash.json](./369135-color-clash.json) |
 | Color Clash | 93980 | [93980-color-clash.json](./93980-color-clash.json) |
 | Color Collar | 273801 | [273801-color-collar.json](./273801-color-collar.json) |
@@ -19785,6 +19788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubic Annihilation | 374113 | [374113-cubic-annihilation.json](./374113-cubic-annihilation.json) |
 | Cubic Blitz | 348984 | [348984-cubic-blitz.json](./348984-cubic-blitz.json) |
 | Cubic Castles | 17727 | [17727-cubic-castles.json](./17727-cubic-castles.json) |
+| Cubic Color | 93677 | [93677-cubic-color.json](./93677-cubic-color.json) |
 | Cubic Color Confusion | 416087 | [416087-cubic-color-confusion.json](./416087-cubic-color-confusion.json) |
 | Cubic complex | 32108 | [32108-cubic-complex.json](./32108-cubic-complex.json) |
 | Cubic Cosmos | 348835 | [348835-cubic-cosmos.json](./348835-cubic-cosmos.json) |
