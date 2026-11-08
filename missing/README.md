@@ -23,14 +23,14 @@ The most popular games still missing a soundtrack. Click **Add it**, fill in the
 | 9 | **Need for Speed** | [🔎 Find on Spotify](https://open.spotify.com/search/Need%20for%20Speed%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/N/10965-need-for-speed.json) |
 | 10 | **Sid Meier's Civilization** | [🔎 Find on Spotify](https://open.spotify.com/search/Sid%20Meier's%20Civilization%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/S/902-sid-meiers-civilization.json) |
 | 11 | **Europa Universalis IV** | [🔎 Find on Spotify](https://open.spotify.com/search/Europa%20Universalis%20IV%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/E/1904-europa-universalis-iv.json) |
-| 12 | **Tomb Raider: Anniversary** | [🔎 Find on Spotify](https://open.spotify.com/search/Tomb%20Raider%3A%20Anniversary%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/T/1162-tomb-raider-anniversary.json) |
-| 13 | **Counter-Strike: Condition Zero** | [🔎 Find on Spotify](https://open.spotify.com/search/Counter-Strike%3A%20Condition%20Zero%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/297-counter-strike-condition-zero.json) |
-| 14 | **LEGO Star Wars: The Video Game** | [🔎 Find on Spotify](https://open.spotify.com/search/LEGO%20Star%20Wars%3A%20The%20Video%20Game%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/L/2681-lego-star-wars-the-video-game.json) |
+| 12 | **LEGO Star Wars: The Video Game** | [🔎 Find on Spotify](https://open.spotify.com/search/LEGO%20Star%20Wars%3A%20The%20Video%20Game%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/L/2681-lego-star-wars-the-video-game.json) |
+| 13 | **Tomb Raider: Anniversary** | [🔎 Find on Spotify](https://open.spotify.com/search/Tomb%20Raider%3A%20Anniversary%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/T/1162-tomb-raider-anniversary.json) |
+| 14 | **Counter-Strike: Condition Zero** | [🔎 Find on Spotify](https://open.spotify.com/search/Counter-Strike%3A%20Condition%20Zero%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/297-counter-strike-condition-zero.json) |
 | 15 | **Resident Evil: Revelations 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Resident%20Evil%3A%20Revelations%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/R/7725-resident-evil-revelations-2.json) |
 | 16 | **Divinity: Original Sin** | [🔎 Find on Spotify](https://open.spotify.com/search/Divinity%3A%20Original%20Sin%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/5082-divinity-original-sin.json) |
 | 17 | **Crusader Kings II** | [🔎 Find on Spotify](https://open.spotify.com/search/Crusader%20Kings%20II%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/2918-crusader-kings-ii.json) |
-| 18 | **The Lord of the Rings: The Battle for Middle-earth** | [🔎 Find on Spotify](https://open.spotify.com/search/The%20Lord%20of%20the%20Rings%3A%20The%20Battle%20for%20Middle-earth%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/T/3154-the-lord-of-the-rings-the-battle-for-middle-earth.json) |
-| 19 | **Medieval II: Total War** | [🔎 Find on Spotify](https://open.spotify.com/search/Medieval%20II%3A%20Total%20War%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/M/440-medieval-ii-total-war.json) |
+| 18 | **Medieval II: Total War** | [🔎 Find on Spotify](https://open.spotify.com/search/Medieval%20II%3A%20Total%20War%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/M/440-medieval-ii-total-war.json) |
+| 19 | **The Lord of the Rings: The Battle for Middle-earth** | [🔎 Find on Spotify](https://open.spotify.com/search/The%20Lord%20of%20the%20Rings%3A%20The%20Battle%20for%20Middle-earth%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/T/3154-the-lord-of-the-rings-the-battle-for-middle-earth.json) |
 | 20 | **Dark Messiah of Might and Magic** | [🔎 Find on Spotify](https://open.spotify.com/search/Dark%20Messiah%20of%20Might%20and%20Magic%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/2369-dark-messiah-of-might-and-magic.json) |
 | 21 | **Pokémon Snap** | [🔎 Find on Spotify](https://open.spotify.com/search/Pok%C3%A9mon%20Snap%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/P/2324-pokemon-snap.json) |
 | 22 | **Company of Heroes** | [🔎 Find on Spotify](https://open.spotify.com/search/Company%20of%20Heroes%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/654-company-of-heroes.json) |
@@ -67,20 +67,20 @@ The most popular games still missing a soundtrack. Click **Add it**, fill in the
 
 | **[A](./A/README.md)** | **[B](./B/README.md)** | **[C](./C/README.md)** | **[D](./D/README.md)** | **[E](./E/README.md)** | **[F](./F/README.md)** | **[G](./G/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 18714 games | 18699 games | 21288 games | 19728 games | 8610 games | 14350 games | 11694 games |
+| 18716 games | 18702 games | 21289 games | 19731 games | 8612 games | 14352 games | 11696 games |
 
 | **[H](./H/README.md)** | **[I](./I/README.md)** | **[J](./J/README.md)** | **[K](./K/README.md)** | **[L](./L/README.md)** | **[M](./M/README.md)** | **[N](./N/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 13014 games | 7072 games | 4342 games | 6556 games | 10392 games | 22594 games | 7921 games |
+| 13014 games | 7074 games | 4343 games | 6557 games | 10392 games | 22600 games | 7922 games |
 
 | **[O](./O/README.md)** | **[P](./P/README.md)** | **[Q](./Q/README.md)** | **[R](./R/README.md)** | **[S](./S/README.md)** | **[T](./T/README.md)** | **[U](./U/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 6054 games | 19204 games | 1312 games | 13335 games | 36779 games | 34280 games | 3726 games |
+| 6054 games | 19206 games | 1312 games | 13339 games | 36788 games | 34288 games | 3726 games |
 
 | **[V](./V/README.md)** | **[W](./W/README.md)** | **[X](./X/README.md)** | **[Y](./Y/README.md)** | **[Z](./Z/README.md)** | **[0-9](./0-9/README.md)** |
 | --- | --- | --- | --- | --- | --- |
-| 4387 games | 9632 games | 1097 games | 2198 games | 2676 games | 3661 games |
+| 4387 games | 9633 games | 1097 games | 2198 games | 2676 games | 3661 games |
 
 ---
 
-_323315 games missing a soundtrack · last updated 2026-11-08T00:34:10.471Z_
+_323365 games missing a soundtrack · last updated 2026-11-08T00:49:25.178Z_
