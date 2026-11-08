@@ -683,6 +683,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness Chambers | 246947 | [246947-madness-chambers.json](./246947-madness-chambers.json) |
 | Madness Combat | 252101 | [252101-madness-combat.json](./252101-madness-combat.json) |
 | Madness Cubed | 33259 | [33259-madness-cubed.json](./33259-madness-cubed.json) |
+| Madness Fantasy | 132930 | [132930-madness-fantasy.json](./132930-madness-fantasy.json) |
 | Madness Hydraulic | 290417 | [290417-madness-hydraulic.json](./290417-madness-hydraulic.json) |
 | Madness in Square Garden | 214965 | [214965-madness-in-square-garden.json](./214965-madness-in-square-garden.json) |
 | Madness in the Banaverse | 327132 | [327132-madness-in-the-banaverse.json](./327132-madness-in-the-banaverse.json) |
@@ -2999,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ManaSoul | 274305 | [274305-manasoul.json](./274305-manasoul.json) |
 | Manastone | 388263 | [388263-manastone.json](./388263-manastone.json) |
 | Manastorm | 30709 | [30709-manastorm.json](./30709-manastorm.json) |
+| ManaTech | 132970 | [132970-manatech.json](./132970-manatech.json) |
 | Manatee | 311249 | [311249-manatee.json](./311249-manatee.json) |
 | Manatsu no Zangai | 285385 | [285385-manatsu-no-zangai.json](./285385-manatsu-no-zangai.json) |
 | Manaulyn | 296971 | [296971-manaulyn.json](./296971-manaulyn.json) |
@@ -4842,6 +4844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel: Ultimate Alliance Bundle | 22400 | [22400-marvel-ultimate-alliance-bundle.json](./22400-marvel-ultimate-alliance-bundle.json) |
 | Marvel's Avengers Definitive Edition | 259466 | [259466-marvels-avengers-definitive-edition.json](./259466-marvels-avengers-definitive-edition.json) |
 | Marvel's Avengers: Black Panther - War for Wakanda | 144774 | [144774-marvels-avengers-black-panther-war-for-wakanda.json](./144774-marvels-avengers-black-panther-war-for-wakanda.json) |
+| Marvel's Avengers: Deluxe Edition | 132980 | [132980-marvels-avengers-deluxe-edition.json](./132980-marvels-avengers-deluxe-edition.json) |
 | Marvel's Avengers: Earth's Mightiest Edition | 135971 | [135971-marvels-avengers-earths-mightiest-edition.json](./135971-marvels-avengers-earths-mightiest-edition.json) |
 | Marvel's Avengers: Endgame Edition | 165868 | [165868-marvels-avengers-endgame-edition.json](./165868-marvels-avengers-endgame-edition.json) |
 | Marvel's Avengers: Exclusive Digital Edition | 133844 | [133844-marvels-avengers-exclusive-digital-edition.json](./133844-marvels-avengers-exclusive-digital-edition.json) |
@@ -6019,6 +6022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8155,6 +8159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megalit | 19558 | [19558-megalit.json](./19558-megalit.json) |
 | Megalith | 143049 | [143049-megalith.json](./143049-megalith.json) |
 | Megalith | 75246 | [75246-megalith.json](./75246-megalith.json) |
+| Megalith VR: Complete Edition | 132977 | [132977-megalith-vr-complete-edition.json](./132977-megalith-vr-complete-edition.json) |
 | Megalo Malady | 395711 | [395711-megalo-malady.json](./395711-megalo-malady.json) |
 | Megalo Polis | 18114 | [18114-megalo-polis.json](./18114-megalo-polis.json) |
 | Megalomaniac | 28280 | [28280-megalomaniac.json](./28280-megalomaniac.json) |
