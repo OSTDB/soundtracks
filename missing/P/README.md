@@ -7619,6 +7619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pipejob | 30771 | [30771-pipejob.json](./30771-pipejob.json) |
 | PipeLand | 200277 | [200277-pipeland.json](./200277-pipeland.json) |
 | PipeLand Roll HD | 108860 | [108860-pipeland-roll-hd.json](./108860-pipeland-roll-hd.json) |
+| Pipeline | 94817 | [94817-pipeline.json](./94817-pipeline.json) |
 | Pipeline Crawl | 341988 | [341988-pipeline-crawl.json](./341988-pipeline-crawl.json) |
 | Pipeline of Emperor Yu | 129424 | [129424-pipeline-of-emperor-yu.json](./129424-pipeline-of-emperor-yu.json) |
 | Pipeline of Emperor Yu | 130785 | [130785-pipeline-of-emperor-yu.json](./130785-pipeline-of-emperor-yu.json) |
@@ -13988,6 +13989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerboat Racing | 129509 | [129509-powerboat-racing.json](./129509-powerboat-racing.json) |
 | PowerBots Builders | 222812 | [222812-powerbots-builders.json](./222812-powerbots-builders.json) |
 | PowerBots Retro | 143566 | [143566-powerbots-retro.json](./143566-powerbots-retro.json) |
+| PowerBoxing | 94805 | [94805-powerboxing.json](./94805-powerboxing.json) |
 | Powercell | 331630 | [331630-powercell.json](./331630-powercell.json) |
 | PowerCharge | 349398 | [349398-powercharge.json](./349398-powercharge.json) |
 | Powercity 9000 | 26634 | [26634-powercity-9000.json](./26634-powercity-9000.json) |
@@ -15575,6 +15577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Wrestling X | 17337 | [17337-pro-wrestling-x.json](./17337-pro-wrestling-x.json) |
 | Pro Yakyuu Dream Nine Superstars | 220313 | [220313-pro-yakyuu-dream-nine-superstars.json](./220313-pro-yakyuu-dream-nine-superstars.json) |
 | Pro Yakyuu Family Stadium | 218385 | [218385-pro-yakyuu-family-stadium.json](./218385-pro-yakyuu-family-stadium.json) |
+| Pro Yakyuu Family Stadium | 94844 | [94844-pro-yakyuu-family-stadium.json](./94844-pro-yakyuu-family-stadium.json) |
 | Pro Yakyuu Family Stadium '88: Nendo-ban | 48304 | [48304-pro-yakyuu-family-stadium-88-nendo-ban.json](./48304-pro-yakyuu-family-stadium-88-nendo-ban.json) |
 | Pro Yakyuu Family Stadium: Home Run Contest | 64027 | [64027-pro-yakyuu-family-stadium-home-run-contest.json](./64027-pro-yakyuu-family-stadium-home-run-contest.json) |
 | Pro Yakyuu Family Stadium: Pennant Race | 64026 | [64026-pro-yakyuu-family-stadium-pennant-race.json](./64026-pro-yakyuu-family-stadium-pennant-race.json) |
