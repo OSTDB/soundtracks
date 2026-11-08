@@ -3108,6 +3108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Days Of My Life | 270190 | [270190-days-of-my-life.json](./270190-days-of-my-life.json) |
 | Days of Night: Episode 1 | 313925 | [313925-days-of-night-episode-1.json](./313925-days-of-night-episode-1.json) |
 | Days of Oblivion | 69805 | [69805-days-of-oblivion.json](./69805-days-of-oblivion.json) |
+| Days of Oblivion 2 - Frozen Eternity | 123688 | [123688-days-of-oblivion-2-frozen-eternity.json](./123688-days-of-oblivion-2-frozen-eternity.json) |
 | Days of Oblivion 2: Frozen Eternity | 67087 | [67087-days-of-oblivion-2-frozen-eternity.json](./67087-days-of-oblivion-2-frozen-eternity.json) |
 | Days of Prophecy | 117986 | [117986-days-of-prophecy.json](./117986-days-of-prophecy.json) |
 | Days of Purgatory | 76706 | [76706-days-of-purgatory.json](./76706-days-of-purgatory.json) |
@@ -7936,6 +7937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Conan: Daieiteikoku no Isan | 74817 | [74817-detective-conan-daieiteikoku-no-isan.json](./74817-detective-conan-daieiteikoku-no-isan.json) |
 | Detective Conan: Giwaku no Gouka Ressha | 61423 | [61423-detective-conan-giwaku-no-gouka-ressha.json](./61423-detective-conan-giwaku-no-gouka-ressha.json) |
 | Detective Conan: Kako Kara no Zensoukyoku - Prelude | 74820 | [74820-detective-conan-kako-kara-no-zensoukyoku-prelude.json](./74820-detective-conan-kako-kara-no-zensoukyoku-prelude.json) |
+| Detective Conan: Kanzen Suiri! Kazu to Zukei no Nazo | 123676 | [123676-detective-conan-kanzen-suiri-kazu-to-zukei-no-nazo.json](./123676-detective-conan-kanzen-suiri-kazu-to-zukei-no-nazo.json) |
 | Detective Conan: Kieta Hakase to Machigai Sagashi no Tou | 79555 | [79555-detective-conan-kieta-hakase-to-machigai-sagashi-no-tou.json](./79555-detective-conan-kieta-hakase-to-machigai-sagashi-no-tou.json) |
 | Detective Conan: Kiganshima Hihou Densetsu | 209495 | [209495-detective-conan-kiganshima-hihou-densetsu.json](./209495-detective-conan-kiganshima-hihou-densetsu.json) |
 | Detective Conan: Kigantou Hihou Densetsu | 50561 | [50561-detective-conan-kigantou-hihou-densetsu.json](./50561-detective-conan-kigantou-hihou-densetsu.json) |
@@ -12618,6 +12620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Break My Heart | 273911 | [273911-dont-break-my-heart.json](./273911-dont-break-my-heart.json) |
 | Don't Break the Egg | 397660 | [397660-dont-break-the-egg.json](./397660-dont-break-the-egg.json) |
 | Don't Break The Eggs | 359722 | [359722-dont-break-the-eggs.json](./359722-dont-break-the-eggs.json) |
+| Don't Bug Me! | 123692 | [123692-dont-bug-me.json](./123692-dont-bug-me.json) |
 | Don't Bug Me! | 191456 | [191456-dont-bug-me.json](./191456-dont-bug-me.json) |
 | Don't Burn | 118998 | [118998-dont-burn.json](./118998-dont-burn.json) |
 | Don't Burst My Balloon | 373875 | [373875-dont-burst-my-balloon.json](./373875-dont-burst-my-balloon.json) |
@@ -16003,6 +16006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawmi: Terraform Sim | 424696 | [424696-drawmi-terraform-sim.json](./424696-drawmi-terraform-sim.json) |
 | Drawn Before | 401615 | [401615-drawn-before.json](./401615-drawn-before.json) |
 | Drawn Down | 117448 | [117448-drawn-down.json](./117448-drawn-down.json) |
+| Drawn Down Abyss | 123730 | [123730-drawn-down-abyss.json](./123730-drawn-down-abyss.json) |
 | Drawn Tale | 346210 | [346210-drawn-tale.json](./346210-drawn-tale.json) |
 | Drawn to Death | 11076 | [11076-drawn-to-death.json](./11076-drawn-to-death.json) |
 | Drawn to Drift | 373727 | [373727-drawn-to-drift.json](./373727-drawn-to-drift.json) |
