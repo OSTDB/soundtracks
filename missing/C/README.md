@@ -6451,6 +6451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaser | 55680 | [55680-chaser.json](./55680-chaser.json) |
 | Chaser of Light | 303408 | [303408-chaser-of-light.json](./303408-chaser-of-light.json) |
 | Chasers | 338509 | [338509-chasers.json](./338509-chasers.json) |
+| Chasers Dash & Bash | 137189 | [137189-chasers-dash-and-bash.json](./137189-chasers-dash-and-bash.json) |
 | ChaseTag | 219996 | [219996-chasetag.json](./219996-chasetag.json) |
 | Chaseway | 179586 | [179586-chaseway.json](./179586-chaseway.json) |
 | Chasing Aurora | 20882 | [20882-chasing-aurora.json](./20882-chasing-aurora.json) |
