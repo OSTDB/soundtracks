@@ -9525,6 +9525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE WrestleMania X8 | 4573 | [4573-wwe-wrestlemania-x8.json](./4573-wwe-wrestlemania-x8.json) |
 | WWE WrestleMania XIX | 4574 | [4574-wwe-wrestlemania-xix.json](./4574-wwe-wrestlemania-xix.json) |
 | WWE Wrestling Revolution Fight 2018 | 188319 | [188319-wwe-wrestling-revolution-fight-2018.json](./188319-wwe-wrestling-revolution-fight-2018.json) |
+| WWF 95: Road to Wrestlemania | 137185 | [137185-wwf-95-road-to-wrestlemania.json](./137185-wwf-95-road-to-wrestlemania.json) |
 | WWF Attitude | 200414 | [200414-wwf-attitude.json](./200414-wwf-attitude.json) |
 | WWF Attitude | 3643 | [3643-wwf-attitude.json](./3643-wwf-attitude.json) |
 | WWF European Rampage Tour | 2397 | [2397-wwf-european-rampage-tour.json](./2397-wwf-european-rampage-tour.json) |
