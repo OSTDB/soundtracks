@@ -906,6 +906,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Knight 3 | 171945 | [171945-sakura-knight-3.json](./171945-sakura-knight-3.json) |
 | Sakura Machizaka Stories Vol. 1 | 77946 | [77946-sakura-machizaka-stories-vol-1.json](./77946-sakura-machizaka-stories-vol-1.json) |
 | Sakura Magical Girls | 29730 | [29730-sakura-magical-girls.json](./29730-sakura-magical-girls.json) |
+| Sakura Maid 2 | 111832 | [111832-sakura-maid-2.json](./111832-sakura-maid-2.json) |
+| Sakura Maid 3 | 111833 | [111833-sakura-maid-3.json](./111833-sakura-maid-3.json) |
 | Sakura Mau Otome no Rondo | 339138 | [339138-sakura-mau-otome-no-rondo.json](./339138-sakura-mau-otome-no-rondo.json) |
 | Sakura Mau Otome no Rondo | 60374 | [60374-sakura-mau-otome-no-rondo.json](./60374-sakura-mau-otome-no-rondo.json) |
 | Sakura Mau Otome no Rondo: Anata to Miru Fuyu Sakura | 60375 | [60375-sakura-mau-otome-no-rondo-anata-to-miru-fuyu-sakura.json](./60375-sakura-mau-otome-no-rondo-anata-to-miru-fuyu-sakura.json) |
@@ -3816,6 +3818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scripted Souls | 200563 | [200563-scripted-souls.json](./200563-scripted-souls.json) |
 | Scriptic: Interactive Dramas | 191860 | [191860-scriptic-interactive-dramas.json](./191860-scriptic-interactive-dramas.json) |
 | Scriptorium: Master of Manuscripts | 313811 | [313811-scriptorium-master-of-manuscripts.json](./313811-scriptorium-master-of-manuscripts.json) |
+| Scriptum | 111814 | [111814-scriptum.json](./111814-scriptum.json) |
 | Scriptum VR: The Neighbor's House Escape Room | 126784 | [126784-scriptum-vr-the-neighbors-house-escape-room.json](./126784-scriptum-vr-the-neighbors-house-escape-room.json) |
 | Scriptur | 190225 | [190225-scriptur.json](./190225-scriptur.json) |
 | Scripture | 192574 | [192574-scripture.json](./192574-scripture.json) |
@@ -14414,6 +14417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slyder Adventures | 338548 | [338548-slyder-adventures.json](./338548-slyder-adventures.json) |
 | Slyders | 274462 | [274462-slyders.json](./274462-slyders.json) |
 | Slydris | 22271 | [22271-slydris.json](./22271-slydris.json) |
+| Slydris 2 | 111840 | [111840-slydris-2.json](./111840-slydris-2.json) |
 | Slyme Breaker | 248336 | [248336-slyme-breaker.json](./248336-slyme-breaker.json) |
 | Slymoids | 42178 | [42178-slymoids.json](./42178-slymoids.json) |
 | SM | 246747 | [246747-sm.json](./246747-sm.json) |
@@ -23179,6 +23183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sporeborn Dark | 272907 | [272907-sporeborn-dark.json](./272907-sporeborn-dark.json) |
 | Sporeborne | 367535 | [367535-sporeborne.json](./367535-sporeborne.json) |
 | Sporestory | 271126 | [271126-sporestory.json](./271126-sporestory.json) |
+| Spork: The Manic Utensil Storm | 111826 | [111826-spork-the-manic-utensil-storm.json](./111826-spork-the-manic-utensil-storm.json) |
 | Sporos | 203314 | [203314-sporos.json](./203314-sporos.json) |
 | Sport & Fun: Swimming | 233865 | [233865-sport-and-fun-swimming.json](./233865-sport-and-fun-swimming.json) |
 | Sport & Fun: Swimming - Amazing Edition | 283165 | [283165-sport-and-fun-swimming-amazing-edition.json](./283165-sport-and-fun-swimming-amazing-edition.json) |
@@ -25422,6 +25427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starbot 4Ever | 337001 | [337001-starbot-4ever.json](./337001-starbot-4ever.json) |
 | Starbot: Asvertichaos | 316539 | [316539-starbot-asvertichaos.json](./316539-starbot-asvertichaos.json) |
 | Starbound | 3019 | [3019-starbound.json](./3019-starbound.json) |
+| Starboy | 111843 | [111843-starboy.json](./111843-starboy.json) |
 | StarBoy | 153800 | [153800-starboy.json](./153800-starboy.json) |
 | Starboy Adventures | 153532 | [153532-starboy-adventures.json](./153532-starboy-adventures.json) |
 | Starboy and the Captain of Outer Space: Mutant Hotdog Game | 396389 | [396389-starboy-and-the-captain-of-outer-space-mutant-hotdog-game.json](./396389-starboy-and-the-captain-of-outer-space-mutant-hotdog-game.json) |
