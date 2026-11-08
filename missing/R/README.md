@@ -1206,6 +1206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad X: Car-set Porsche and Mercedes | 170430 | [170430-railroad-x-car-set-porsche-and-mercedes.json](./170430-railroad-x-car-set-porsche-and-mercedes.json) |
 | Railroad X: Trans Europ Express VT 11.5 | 171026 | [171026-railroad-x-trans-europ-express-vt-11-5.json](./171026-railroad-x-trans-europ-express-vt-11-5.json) |
 | Railroader | 197113 | [197113-railroader.json](./197113-railroader.json) |
+| Railroads | 121872 | [121872-railroads.json](./121872-railroads.json) |
 | Railroads & Catacombs | 161551 | [161551-railroads-and-catacombs.json](./161551-railroads-and-catacombs.json) |
 | Railroads of America | 197733 | [197733-railroads-of-america.json](./197733-railroads-of-america.json) |
 | Railroads Online | 173428 | [173428-railroads-online.json](./173428-railroads-online.json) |
@@ -3751,6 +3752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recycling Center Simulator | 298400 | [298400-recycling-center-simulator.json](./298400-recycling-center-simulator.json) |
 | Recycling Shift | 366946 | [366946-recycling-shift.json](./366946-recycling-shift.json) |
 | Recycling Tycoon: Junk to Gems | 312413 | [312413-recycling-tycoon-junk-to-gems.json](./312413-recycling-tycoon-junk-to-gems.json) |
+| Recyclomania | 121892 | [121892-recyclomania.json](./121892-recyclomania.json) |
 | Red | 117991 | [117991-red.json](./117991-red.json) |
 | Red | 194873 | [194873-red.json](./194873-red.json) |
 | Red | 196139 | [196139-red.json](./196139-red.json) |
