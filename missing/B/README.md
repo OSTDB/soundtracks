@@ -7905,6 +7905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikkuri! Tobidasu! Mahou no Pen | 141987 | [141987-bikkuri-tobidasu-mahou-no-pen.json](./141987-bikkuri-tobidasu-mahou-no-pen.json) |
 | Bikkuriman 2000 Kamereon Zantei no Inbou | 376733 | [376733-bikkuriman-2000-kamereon-zantei-no-inbou.json](./376733-bikkuriman-2000-kamereon-zantei-no-inbou.json) |
 | Bikkuriman 2000: Charging Card GB | 228492 | [228492-bikkuriman-2000-charging-card-gb.json](./228492-bikkuriman-2000-charging-card-gb.json) |
+| Bikkuriman 2000: Viva! Festival! | 122564 | [122564-bikkuriman-2000-viva-festival.json](./122564-bikkuriman-2000-viva-festival.json) |
 | Bikkuriman 2000: Viva! Pocket Festival! | 43971 | [43971-bikkuriman-2000-viva-pocket-festival.json](./43971-bikkuriman-2000-viva-pocket-festival.json) |
 | Bikkuriman Daijikai | 64287 | [64287-bikkuriman-daijikai.json](./64287-bikkuriman-daijikai.json) |
 | Bikkuriman Kanjuku Haou Sanmi Douran Sensouki | 91782 | [91782-bikkuriman-kanjuku-haou-sanmi-douran-sensouki.json](./91782-bikkuriman-kanjuku-haou-sanmi-douran-sensouki.json) |
@@ -16736,6 +16737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bust Extreme | 239341 | [239341-bubble-bust-extreme.json](./239341-bubble-bust-extreme.json) |
 | Bubble Bust! | 196605 | [196605-bubble-bust.json](./196605-bubble-bust.json) |
 | Bubble Cadence | 398360 | [398360-bubble-cadence.json](./398360-bubble-cadence.json) |
+| Bubble Cats Rescue | 122531 | [122531-bubble-cats-rescue.json](./122531-bubble-cats-rescue.json) |
 | Bubble Chef | 120222 | [120222-bubble-chef.json](./120222-bubble-chef.json) |
 | Bubble Cloud: Spinning Bubbles | 86774 | [86774-bubble-cloud-spinning-bubbles.json](./86774-bubble-cloud-spinning-bubbles.json) |
 | Bubble Crack | 71048 | [71048-bubble-crack.json](./71048-bubble-crack.json) |
@@ -17471,6 +17473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Girls 2 | 59333 | [59333-bullet-girls-2.json](./59333-bullet-girls-2.json) |
 | Bullet Girls Phantasia | 57021 | [57021-bullet-girls-phantasia.json](./57021-bullet-girls-phantasia.json) |
 | Bullet Girls Phantasia: Limited Edition | 167120 | [167120-bullet-girls-phantasia-limited-edition.json](./167120-bullet-girls-phantasia-limited-edition.json) |
+| Bullet Glide | 122542 | [122542-bullet-glide.json](./122542-bullet-glide.json) |
 | Bullet Grinder | 190952 | [190952-bullet-grinder.json](./190952-bullet-grinder.json) |
 | Bullet Head | 393531 | [393531-bullet-head.json](./393531-bullet-head.json) |
 | Bullet Heat | 166836 | [166836-bullet-heat.json](./166836-bullet-heat.json) |
