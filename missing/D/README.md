@@ -4736,6 +4736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Pages: Ghost Library | 418428 | [418428-death-pages-ghost-library.json](./418428-death-pages-ghost-library.json) |
 | Death Pages: Ghost Library - Collector's Edition | 418429 | [418429-death-pages-ghost-library-collectors-edition.json](./418429-death-pages-ghost-library-collectors-edition.json) |
 | Death Palette | 171525 | [171525-death-palette.json](./171525-death-palette.json) |
+| Death Park | 126715 | [126715-death-park.json](./126715-death-park.json) |
 | Death Park 2 | 149730 | [149730-death-park-2.json](./149730-death-park-2.json) |
 | Death Park 2: Horror Clown | 251232 | [251232-death-park-2-horror-clown.json](./251232-death-park-2-horror-clown.json) |
 | Death Park 2: Remaster | 375128 | [375128-death-park-2-remaster.json](./375128-death-park-2-remaster.json) |
@@ -10986,6 +10987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dispersio 3 | 376189 | [376189-dispersio-3.json](./376189-dispersio-3.json) |
 | Dispersion | 167443 | [167443-dispersion.json](./167443-dispersion.json) |
 | Dispersion Storm | 399835 | [399835-dispersion-storm.json](./399835-dispersion-storm.json) |
+| Displace | 126733 | [126733-displace.json](./126733-displace.json) |
 | Displaced | 28939 | [28939-displaced.json](./28939-displaced.json) |
 | Displaced Defense | 253974 | [253974-displaced-defense.json](./253974-displaced-defense.json) |
 | DisplaceMen | 328919 | [328919-displacemen.json](./328919-displacemen.json) |
@@ -18435,6 +18437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Dot Ruby | 235955 | [235955-dungeon-dot-ruby.json](./235955-dungeon-dot-ruby.json) |
 | Dungeon Drafters | 133810 | [133810-dungeon-drafters.json](./133810-dungeon-drafters.json) |
 | Dungeon Drawlers | 398575 | [398575-dungeon-drawlers.json](./398575-dungeon-drawlers.json) |
+| Dungeon Dreams (Female Protagonist) | 126752 | [126752-dungeon-dreams-female-protagonist.json](./126752-dungeon-dreams-female-protagonist.json) |
 | Dungeon Dreams 2 | 217296 | [217296-dungeon-dreams-2.json](./217296-dungeon-dreams-2.json) |
 | Dungeon Dreams Wanderers | 373997 | [373997-dungeon-dreams-wanderers.json](./373997-dungeon-dreams-wanderers.json) |
 | Dungeon Dueler | 197093 | [197093-dungeon-dueler.json](./197093-dungeon-dueler.json) |
