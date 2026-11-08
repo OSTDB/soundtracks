@@ -6881,6 +6881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf King: World Tour | 233430 | [233430-golf-king-world-tour.json](./233430-golf-king-world-tour.json) |
 | Golf knight | 232131 | [232131-golf-knight.json](./232131-golf-knight.json) |
 | Golf Loop | 329570 | [329570-golf-loop.json](./329570-golf-loop.json) |
+| Golf Maestro | 89358 | [89358-golf-maestro.json](./89358-golf-maestro.json) |
 | Golf Magazine Presents 36 Great Holes Starring Fred Couples | 94921 | [94921-golf-magazine-presents-36-great-holes-starring-fred-couples.json](./94921-golf-magazine-presents-36-great-holes-starring-fred-couples.json) |
 | Golf Master | 137673 | [137673-golf-master.json](./137673-golf-master.json) |
 | Golf Master 3D | 214297 | [214297-golf-master-3d.json](./214297-golf-master-3d.json) |
@@ -10633,6 +10634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guided Meditation VR | 34577 | [34577-guided-meditation-vr.json](./34577-guided-meditation-vr.json) |
 | Guidelicious | 264753 | [264753-guidelicious.json](./264753-guidelicious.json) |
 | Guidelines for the Book of Changes | 291277 | [291277-guidelines-for-the-book-of-changes.json](./291277-guidelines-for-the-book-of-changes.json) |
+| Guiding Hand VR | 89434 | [89434-guiding-hand-vr.json](./89434-guiding-hand-vr.json) |
 | Guiding Light | 127758 | [127758-guiding-light.json](./127758-guiding-light.json) |
 | Guidus | 220202 | [220202-guidus.json](./220202-guidus.json) |
 | Guidus Zero | 319824 | [319824-guidus-zero.json](./319824-guidus-zero.json) |
