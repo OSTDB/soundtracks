@@ -343,6 +343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hair Bows | 156125 | [156125-hair-bows.json](./156125-hair-bows.json) |
 | Hair Boy | 218091 | [218091-hair-boy.json](./218091-hair-boy.json) |
 | Hair Dash | 123038 | [123038-hair-dash.json](./123038-hair-dash.json) |
+| Hair Do Design | 87441 | [87441-hair-do-design.json](./87441-hair-do-design.json) |
 | Hair Dye | 400052 | [400052-hair-dye.json](./400052-hair-dye.json) |
 | Hair Mower 3D | 137052 | [137052-hair-mower-3d.json](./137052-hair-mower-3d.json) |
 | Hair Nah | 243379 | [243379-hair-nah.json](./243379-hair-nah.json) |
@@ -10670,6 +10671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Host Security Guard | 280062 | [280062-host-security-guard.json](./280062-host-security-guard.json) |
 | Hostage | 184226 | [184226-hostage.json](./184226-hostage.json) |
 | Hostage Heart | 417565 | [417565-hostage-heart.json](./417565-hostage-heart.json) |
+| Hostage Negotiator | 87494 | [87494-hostage-negotiator.json](./87494-hostage-negotiator.json) |
 | HostageHub | 263988 | [263988-hostagehub.json](./263988-hostagehub.json) |
 | Hostages | 343204 | [343204-hostages.json](./343204-hostages.json) |
 | Hostia me acabo de acordar de lo que he soñao hoy, que puta paranoia | 302734 | [302734-hostia-me-acabo-de-acordar-de-lo-que-he-sonao-hoy-que-puta-paranoia.json](./302734-hostia-me-acabo-de-acordar-de-lo-que-he-sonao-hoy-que-puta-paranoia.json) |
@@ -12510,6 +12512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hurricane chase | 120775 | [120775-hurricane-chase.json](./120775-hurricane-chase.json) |
 | Hurricane Heroes | 369684 | [369684-hurricane-heroes.json](./369684-hurricane-heroes.json) |
 | Hurricane Ship Ghost | 104833 | [104833-hurricane-ship-ghost.json](./104833-hurricane-ship-ghost.json) |
+| Hurricane.io | 87532 | [87532-hurricane-io.json](./87532-hurricane-io.json) |
 | Hurricanes | 46347 | [46347-hurricanes.json](./46347-hurricanes.json) |
 | Hurry | 287526 | [287526-hurry.json](./287526-hurry.json) |
 | Hurry Fox | 344865 | [344865-hurry-fox.json](./344865-hurry-fox.json) |
