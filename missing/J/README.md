@@ -2718,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JongRo 3_Street | 283411 | [283411-jongro-3-street.json](./283411-jongro-3-street.json) |
 | Joninės | 273667 | [273667-jonines.json](./273667-jonines.json) |
 | Jonny and the Sweet Fragrance of Feces | 323073 | [323073-jonny-and-the-sweet-fragrance-of-feces.json](./323073-jonny-and-the-sweet-fragrance-of-feces.json) |
+| Jonny Crush | 92047 | [92047-jonny-crush.json](./92047-jonny-crush.json) |
 | Jonny Jump | 116458 | [116458-jonny-jump.json](./116458-jonny-jump.json) |
 | Jonny Moseley: Mad Trix | 210006 | [210006-jonny-moseley-mad-trix.json](./210006-jonny-moseley-mad-trix.json) |
 | Jonny Moseley: Mad Trix | 49336 | [49336-jonny-moseley-mad-trix.json](./49336-jonny-moseley-mad-trix.json) |
@@ -3700,6 +3701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jungle no Ouja Tar-chan | 228568 | [228568-jungle-no-ouja-tar-chan.json](./228568-jungle-no-ouja-tar-chan.json) |
 | Jungle no Ouja Tar-chan: Sekai Manyu Dai Kakutou no Maki | 38313 | [38313-jungle-no-ouja-tar-chan-sekai-manyu-dai-kakutou-no-maki.json](./38313-jungle-no-ouja-tar-chan-sekai-manyu-dai-kakutou-no-maki.json) |
 | Jungle Panic Amidahebi | 385745 | [385745-jungle-panic-amidahebi.json](./385745-jungle-panic-amidahebi.json) |
+| Jungle Park | 92107 | [92107-jungle-park.json](./92107-jungle-park.json) |
 | Jungle Pinball | 257826 | [257826-jungle-pinball.json](./257826-jungle-pinball.json) |
 | Jungle Pixel: Alive Exploration | 103665 | [103665-jungle-pixel-alive-exploration.json](./103665-jungle-pixel-alive-exploration.json) |
 | Jungle Quest | 230283 | [230283-jungle-quest.json](./230283-jungle-quest.json) |
