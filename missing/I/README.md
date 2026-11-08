@@ -3743,6 +3743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inferni: Hope & Fear | 292358 | [292358-inferni-hope-and-fear.json](./292358-inferni-hope-and-fear.json) |
 | Infernitos: Fiery Dishes | 353957 | [353957-infernitos-fiery-dishes.json](./353957-infernitos-fiery-dishes.json) |
 | Infernium | 86337 | [86337-infernium.json](./86337-infernium.json) |
+| Inferno | 117270 | [117270-inferno.json](./117270-inferno.json) |
 | Inferno | 121614 | [121614-inferno.json](./121614-inferno.json) |
 | Inferno | 171962 | [171962-inferno.json](./171962-inferno.json) |
 | Inferno | 195325 | [195325-inferno.json](./195325-inferno.json) |
@@ -3809,6 +3810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infiltration at Dusk | 397164 | [397164-infiltration-at-dusk.json](./397164-infiltration-at-dusk.json) |
 | Infiltration: Alone in Combat | 151196 | [151196-infiltration-alone-in-combat.json](./151196-infiltration-alone-in-combat.json) |
 | Infiltrator | 26455 | [26455-infiltrator.json](./26455-infiltrator.json) |
+| Infiltrator: The Adventure | 117272 | [117272-infiltrator-the-adventure.json](./117272-infiltrator-the-adventure.json) |
 | Infiltria | 113499 | [113499-infiltria.json](./113499-infiltria.json) |
 | Infinadeck Medieval Maze | 192818 | [192818-infinadeck-medieval-maze.json](./192818-infinadeck-medieval-maze.json) |
 | Infindustry | 198576 | [198576-infindustry.json](./198576-infindustry.json) |
@@ -3957,6 +3959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -6090,6 +6093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironheart: Cardia | 291466 | [291466-ironheart-cardia.json](./291466-ironheart-cardia.json) |
 | Ironhive | 255448 | [255448-ironhive.json](./255448-ironhive.json) |
 | IronKnight | 223364 | [223364-ironknight.json](./223364-ironknight.json) |
+| Ironlaw | 117238 | [117238-ironlaw.json](./117238-ironlaw.json) |
 | Ironlights | 131560 | [131560-ironlights.json](./131560-ironlights.json) |
 | Ironmarked | 301281 | [301281-ironmarked.json](./301281-ironmarked.json) |
 | Ironna Hito ga Iru | 279418 | [279418-ironna-hito-ga-iru.json](./279418-ironna-hito-ga-iru.json) |
