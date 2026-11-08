@@ -631,6 +631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quarx | 68519 | [68519-quarx.json](./68519-quarx.json) |
 | Quasar | 198123 | [198123-quasar.json](./198123-quasar.json) |
 | Quasar | 35085 | [35085-quasar.json](./35085-quasar.json) |
+| Quasar | 95489 | [95489-quasar.json](./95489-quasar.json) |
 | Quasar Commander | 44337 | [44337-quasar-commander.json](./44337-quasar-commander.json) |
 | Quasar Kid | 183788 | [183788-quasar-kid.json](./183788-quasar-kid.json) |
 | Quasara | 110191 | [110191-quasara.json](./110191-quasara.json) |
