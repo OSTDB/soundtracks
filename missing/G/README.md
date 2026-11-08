@@ -3465,6 +3465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | German Road Racer Pro | 100731 | [100731-german-road-racer-pro.json](./100731-german-road-racer-pro.json) |
 | German Tantei-dan Maringumi: Himitsu Kichi wo Mamore! | 346031 | [346031-german-tantei-dan-maringumi-himitsu-kichi-wo-mamore.json](./346031-german-tantei-dan-maringumi-himitsu-kichi-wo-mamore.json) |
 | German Tanteidan Marin-gumi: Maruhi Jigomar Sousa File | 41335 | [41335-german-tanteidan-marin-gumi-maruhi-jigomar-sousa-file.json](./41335-german-tanteidan-marin-gumi-maruhi-jigomar-sousa-file.json) |
+| German Truck Simulator | 78871 | [78871-german-truck-simulator.json](./78871-german-truck-simulator.json) |
 | Germanfest | 327547 | [327547-germanfest.json](./327547-germanfest.json) |
 | Germany 1985 | 23159 | [23159-germany-1985.json](./23159-germany-1985.json) |
 | Germany at War: Soviet Dawn | 171491 | [171491-germany-at-war-soviet-dawn.json](./171491-germany-at-war-soviet-dawn.json) |
