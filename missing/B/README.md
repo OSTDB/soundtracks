@@ -977,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7648,6 +7649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Ichigeki! Pachi-Slot Daikouryaku 2: Universal Collection | 38157 | [38157-big-ichigeki-pachi-slot-daikouryaku-2-universal-collection.json](./38157-big-ichigeki-pachi-slot-daikouryaku-2-universal-collection.json) |
 | Big Ichigeki! Pachislot Daikouryaku: Universal Museum | 137596 | [137596-big-ichigeki-pachislot-daikouryaku-universal-museum.json](./137596-big-ichigeki-pachislot-daikouryaku-universal-museum.json) |
 | Big Jays Rattastic Adventure | 370430 | [370430-big-jays-rattastic-adventure.json](./370430-big-jays-rattastic-adventure.json) |
+| Big Job | 112539 | [112539-big-job.json](./112539-big-job.json) |
 | Big Job | 263284 | [263284-big-job.json](./263284-big-job.json) |
 | Big Journey to Home | 34803 | [34803-big-journey-to-home.json](./34803-big-journey-to-home.json) |
 | Big Kahuna Party | 51085 | [51085-big-kahuna-party.json](./51085-big-kahuna-party.json) |
@@ -12697,6 +12699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Man | 78266 | [78266-bomb-man.json](./78266-bomb-man.json) |
 | Bomb Meirin | 204406 | [204406-bomb-meirin.json](./204406-bomb-meirin.json) |
 | Bomb Monkey | 47653 | [47653-bomb-monkey.json](./47653-bomb-monkey.json) |
+| Bomb N' Bats | 112448 | [112448-bomb-n-bats.json](./112448-bomb-n-bats.json) |
 | Bomb Pong | 189926 | [189926-bomb-pong.json](./189926-bomb-pong.json) |
 | Bomb Riders | 108407 | [108407-bomb-riders.json](./108407-bomb-riders.json) |
 | Bomb Rush Cyberfunk | 135940 | [135940-bomb-rush-cyberfunk.json](./135940-bomb-rush-cyberfunk.json) |
