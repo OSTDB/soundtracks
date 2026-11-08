@@ -2245,6 +2245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasard | 264512 | [264512-wasard.json](./264512-wasard.json) |
 | WASD Quartet | 216840 | [216840-wasd-quartet.json](./216840-wasd-quartet.json) |
 | WASD: The Adventure of Tori | 358333 | [358333-wasd-the-adventure-of-tori.json](./358333-wasd-the-adventure-of-tori.json) |
+| WASDead | 108015 | [108015-wasdead.json](./108015-wasdead.json) |
 | WASDead: Complete Edition | 126766 | [126766-wasdead-complete-edition.json](./126766-wasdead-complete-edition.json) |
 | WASDJK | 311198 | [311198-wasdjk.json](./311198-wasdjk.json) |
 | Wash & Warm | 390728 | [390728-wash-and-warm.json](./390728-wash-and-warm.json) |
