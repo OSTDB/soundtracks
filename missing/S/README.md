@@ -5532,6 +5532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Musou 2 with Moushouden & Empires HD Version | 130012 | [130012-sengoku-musou-2-with-moushouden-and-empires-hd-version.json](./130012-sengoku-musou-2-with-moushouden-and-empires-hd-version.json) |
 | Sengoku Musou 4-II: Treasure Box | 167021 | [167021-sengoku-musou-4-ii-treasure-box.json](./167021-sengoku-musou-4-ii-treasure-box.json) |
 | Sengoku Musou Shoot | 61497 | [61497-sengoku-musou-shoot.json](./61497-sengoku-musou-shoot.json) |
+| Sengoku Neet | 127477 | [127477-sengoku-neet.json](./127477-sengoku-neet.json) |
 | Sengoku Ninja Tai | 83391 | [83391-sengoku-ninja-tai.json](./83391-sengoku-ninja-tai.json) |
 | Sengoku no Hasha | 37888 | [37888-sengoku-no-hasha.json](./37888-sengoku-no-hasha.json) |
 | Sengoku Otome: Legend Battle | 58465 | [58465-sengoku-otome-legend-battle.json](./58465-sengoku-otome-legend-battle.json) |
@@ -9218,6 +9219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Many Robots | 11643 | [11643-shoot-many-robots.json](./11643-shoot-many-robots.json) |
 | Shoot Many Robots: Arena Kings | 64915 | [64915-shoot-many-robots-arena-kings.json](./64915-shoot-many-robots-arena-kings.json) |
 | Shoot n Scroll 3D | 261518 | [261518-shoot-n-scroll-3d.json](./261518-shoot-n-scroll-3d.json) |
+| Shoot on Sight | 127460 | [127460-shoot-on-sight.json](./127460-shoot-on-sight.json) |
 | Shoot or Date | 303215 | [303215-shoot-or-date.json](./303215-shoot-or-date.json) |
 | Shoot or Die | 310809 | [310809-shoot-or-die.json](./310809-shoot-or-die.json) |
 | Shoot Out | 373501 | [373501-shoot-out.json](./373501-shoot-out.json) |
@@ -14220,6 +14222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slot! Pro Advance: Takarabune & Ooedo Sakura Fubuki 2 | 49813 | [49813-slot-pro-advance-takarabune-and-ooedo-sakura-fubuki-2.json](./49813-slot-pro-advance-takarabune-and-ooedo-sakura-fubuki-2.json) |
 | Slotbound | 411536 | [411536-slotbound.json](./411536-slotbound.json) |
 | SlotCrawler | 384550 | [384550-slotcrawler.json](./384550-slotcrawler.json) |
+| Sloth Quest | 127439 | [127439-sloth-quest.json](./127439-sloth-quest.json) |
 | Sloth Story | 178891 | [178891-sloth-story.json](./178891-sloth-story.json) |
 | Sloth Tales | 149813 | [149813-sloth-tales.json](./149813-sloth-tales.json) |
 | Slothtopia | 251908 | [251908-slothtopia.json](./251908-slothtopia.json) |
@@ -19753,6 +19756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Depression | 189320 | [189320-space-depression.json](./189320-space-depression.json) |
 | Space Detective: The Case of the Rebel Robot | 276971 | [276971-space-detective-the-case-of-the-rebel-robot.json](./276971-space-detective-the-case-of-the-rebel-robot.json) |
 | Space Dezinsector | 263046 | [263046-space-dezinsector.json](./263046-space-dezinsector.json) |
+| Space Digger | 127435 | [127435-space-digger.json](./127435-space-digger.json) |
 | Space Digger | 263743 | [263743-space-digger.json](./263743-space-digger.json) |
 | Space Digger Red Beard | 381313 | [381313-space-digger-red-beard.json](./381313-space-digger-red-beard.json) |
 | Space Diner Simulator | 356048 | [356048-space-diner-simulator.json](./356048-space-diner-simulator.json) |
@@ -28728,6 +28732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Hoops | 242807 | [242807-street-hoops.json](./242807-street-hoops.json) |
 | Street Hoops | 4078 | [4078-street-hoops.json](./4078-street-hoops.json) |
 | Street Jam Basketball | 49219 | [49219-street-jam-basketball.json](./49219-street-jam-basketball.json) |
+| Street Jam: The Rise | 127466 | [127466-street-jam-the-rise.json](./127466-street-jam-the-rise.json) |
 | Street Karate | 104026 | [104026-street-karate.json](./104026-street-karate.json) |
 | Street Karate 3 | 169468 | [169468-street-karate-3.json](./169468-street-karate-3.json) |
 | Street Karate Fighter | 100882 | [100882-street-karate-fighter.json](./100882-street-karate-fighter.json) |
@@ -28838,6 +28843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Handbags | 317835 | [317835-streets-of-handbags.json](./317835-streets-of-handbags.json) |
 | Streets of Kamurocho | 140046 | [140046-streets-of-kamurocho.json](./140046-streets-of-kamurocho.json) |
 | Streets of London | 61168 | [61168-streets-of-london.json](./61168-streets-of-london.json) |
+| Streets of Neotokio | 127467 | [127467-streets-of-neotokio.json](./127467-streets-of-neotokio.json) |
 | Streets of Rage 2: Puyo Wars | 315122 | [315122-streets-of-rage-2-puyo-wars.json](./315122-streets-of-rage-2-puyo-wars.json) |
 | Streets of Rage 2: Robotnik Wars | 333891 | [333891-streets-of-rage-2-robotnik-wars.json](./333891-streets-of-rage-2-robotnik-wars.json) |
 | Streets of Rage 2: Syndicate Wars | 256300 | [256300-streets-of-rage-2-syndicate-wars.json](./256300-streets-of-rage-2-syndicate-wars.json) |
@@ -30957,6 +30963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super 10 VR Bundle | 300275 | [300275-super-10-vr-bundle.json](./300275-super-10-vr-bundle.json) |
 | Super 190-in-1 | 137388 | [137388-super-190-in-1.json](./137388-super-190-in-1.json) |
 | Super 2048 | 99983 | [99983-super-2048.json](./99983-super-2048.json) |
+| Super 3-D Crunk Bros. | 127499 | [127499-super-3-d-crunk-bros.json](./127499-super-3-d-crunk-bros.json) |
 | Super 3D Maze 16 | 325983 | [325983-super-3d-maze-16.json](./325983-super-3d-maze-16.json) |
 | Super 3D Table Tennis | 147072 | [147072-super-3d-table-tennis.json](./147072-super-3d-table-tennis.json) |
 | Super 4 in 1 Multicart | 79511 | [79511-super-4-in-1-multicart.json](./79511-super-4-in-1-multicart.json) |
