@@ -1782,6 +1782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanic the Hawtdawg: Da Movie - Da Game 2.1: Electric Boogaloo 2.2 Version 4 - The Squeakquel: VHS Edition - Directors Cut: Special Edition - The Musical & Knackles | 137494 | [137494-sanic-the-hawtdawg-da-movie-da-game-2-1-electric-boogaloo-2-2-version-4-the-squeakquel-vhs-edition-directors-cut-special-edition-the-musical-and-knackles.json](./137494-sanic-the-hawtdawg-da-movie-da-game-2-1-electric-boogaloo-2-2-version-4-the-squeakquel-vhs-edition-directors-cut-special-edition-the-musical-and-knackles.json) |
 | Sanitarium Enhanced | 414849 | [414849-sanitarium-enhanced.json](./414849-sanitarium-enhanced.json) |
 | Sanitarium Massacre | 62684 | [62684-sanitarium-massacre.json](./62684-sanitarium-massacre.json) |
+| Sanitarium Rush | 121113 | [121113-sanitarium-rush.json](./121113-sanitarium-rush.json) |
 | Sanitism | 357679 | [357679-sanitism.json](./357679-sanitism.json) |
 | Sanity Break | 188245 | [188245-sanity-break.json](./188245-sanity-break.json) |
 | Sanity Break | 369013 | [369013-sanity-break.json](./369013-sanity-break.json) |
@@ -6113,6 +6114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Setheria: A Quest for Moonaris | 251974 | [251974-setheria-a-quest-for-moonaris.json](./251974-setheria-a-quest-for-moonaris.json) |
 | Sethi and the Inca Wizard | 321857 | [321857-sethi-and-the-inca-wizard.json](./321857-sethi-and-the-inca-wizard.json) |
 | Sethian | 26160 | [26160-sethian.json](./26160-sethian.json) |
+| Sethtek Driving Simulator | 121122 | [121122-sethtek-driving-simulator.json](./121122-sethtek-driving-simulator.json) |
 | SetPoint Volleyball | 422498 | [422498-setpoint-volleyball.json](./422498-setpoint-volleyball.json) |
 | Setr's Auto Battler | 182289 | [182289-setrs-auto-battler.json](./182289-setrs-auto-battler.json) |
 | Sets | 304222 | [304222-sets.json](./304222-sets.json) |
@@ -11537,6 +11539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Since Memories: Off the Starry Sky | 147007 | [147007-since-memories-off-the-starry-sky.json](./147007-since-memories-off-the-starry-sky.json) |
 | Since November | 327853 | [327853-since-november.json](./327853-since-november.json) |
 | Sincere Deceit | 328230 | [328230-sincere-deceit.json](./328230-sincere-deceit.json) |
+| SincereMen | 121129 | [121129-sinceremen.json](./121129-sinceremen.json) |
 | Sinclair User DoubleHits 5 | 85759 | [85759-sinclair-user-doublehits-5.json](./85759-sinclair-user-doublehits-5.json) |
 | SinClient | 82951 | [82951-sinclient.json](./82951-sinclient.json) |
 | Sincognito | 223356 | [223356-sincognito.json](./223356-sincognito.json) |
@@ -23995,6 +23998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SRG Mixtape Volume #4 | 261215 | [261215-srg-mixtape-volume-4.json](./261215-srg-mixtape-volume-4.json) |
 | Srogue | 311140 | [311140-srogue.json](./311140-srogue.json) |
 | Srok Godnosti | 189812 | [189812-srok-godnosti.json](./189812-srok-godnosti.json) |
+| Srpg of World: The Empire | 121178 | [121178-srpg-of-world-the-empire.json](./121178-srpg-of-world-the-empire.json) |
 | SRS: Street Racing Syndicate | 49382 | [49382-srs-street-racing-syndicate.json](./49382-srs-street-racing-syndicate.json) |
 | Srush | 373324 | [373324-srush.json](./373324-srush.json) |
 | SRX | 133368 | [133368-srx.json](./133368-srx.json) |
