@@ -8496,6 +8496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Marbles | 204178 | [204178-lost-marbles.json](./204178-lost-marbles.json) |
 | Lost Marbles | 36365 | [36365-lost-marbles.json](./36365-lost-marbles.json) |
 | Lost Maria: Namonaki Hana | 394168 | [394168-lost-maria-namonaki-hana.json](./394168-lost-maria-namonaki-hana.json) |
+| Lost Mars | 92584 | [92584-lost-mars.json](./92584-lost-mars.json) |
 | Lost Mastery | 304633 | [304633-lost-mastery.json](./304633-lost-mastery.json) |
 | Lost Maze | 256220 | [256220-lost-maze.json](./256220-lost-maze.json) |
 | Lost Media Agency | 400004 | [400004-lost-media-agency.json](./400004-lost-media-agency.json) |
