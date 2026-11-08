@@ -3652,6 +3652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recollection Gloaming | 183217 | [183217-recollection-gloaming.json](./183217-recollection-gloaming.json) |
 | Recolorize | 357104 | [357104-recolorize.json](./357104-recolorize.json) |
 | Recommendation Dog!! | 151983 | [151983-recommendation-dog.json](./151983-recommendation-dog.json) |
+| Recompile | 115915 | [115915-recompile.json](./115915-recompile.json) |
 | Recon Bracks | 397284 | [397284-recon-bracks.json](./397284-recon-bracks.json) |
 | Recon Control | 156914 | [156914-recon-control.json](./156914-recon-control.json) |
 | Recon Quest | 291578 | [291578-recon-quest.json](./291578-recon-quest.json) |
@@ -4465,6 +4466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reficul 666 | 151432 | [151432-reficul-666.json](./151432-reficul-666.json) |
 | Refidenptio | 258988 | [258988-refidenptio.json](./258988-refidenptio.json) |
 | Refight: Burning Engine | 110765 | [110765-refight-burning-engine.json](./110765-refight-burning-engine.json) |
+| Refight: The Last Warship | 115923 | [115923-refight-the-last-warship.json](./115923-refight-the-last-warship.json) |
 | Refighter | 347988 | [347988-refighter.json](./347988-refighter.json) |
 | Refill your Roguelike | 113523 | [113523-refill-your-roguelike.json](./113523-refill-your-roguelike.json) |
 | Refind Self: The Personality Test Game | 265960 | [265960-refind-self-the-personality-test-game.json](./265960-refind-self-the-personality-test-game.json) |
@@ -6347,6 +6349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return Alive | 255803 | [255803-return-alive.json](./255803-return-alive.json) |
 | Return Fire | 4339 | [4339-return-fire.json](./4339-return-fire.json) |
 | Return Fire: Maps O' Death | 4267 | [4267-return-fire-maps-o-death.json](./4267-return-fire-maps-o-death.json) |
+| Return Home | 115872 | [115872-return-home.json](./115872-return-home.json) |
 | Return Journey | 318340 | [318340-return-journey.json](./318340-return-journey.json) |
 | Return Machine.Love() | 406290 | [406290-return-machine-love.json](./406290-return-machine-love.json) |
 | Return Null: Episode 2 | 24726 | [24726-return-null-episode-2.json](./24726-return-null-episode-2.json) |
@@ -6720,6 +6723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReversiBot | 266477 | [266477-reversibot.json](./266477-reversibot.json) |
 | Reversilly | 197861 | [197861-reversilly.json](./197861-reversilly.json) |
 | Reversing Caste: Omegaverse | 269303 | [269303-reversing-caste-omegaverse.json](./269303-reversing-caste-omegaverse.json) |
+| Reversion - The Return | 115871 | [115871-reversion-the-return.json](./115871-reversion-the-return.json) |
 | Reversion: The Escape -1st Chapter | 16940 | [16940-reversion-the-escape-1st-chapter.json](./16940-reversion-the-escape-1st-chapter.json) |
 | Reversion: The Meeting | 36412 | [36412-reversion-the-meeting.json](./36412-reversion-the-meeting.json) |
 | Reversion: The Return | 130398 | [130398-reversion-the-return.json](./130398-reversion-the-return.json) |
@@ -12895,6 +12899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Running Memories | 303311 | [303311-running-memories.json](./303311-running-memories.json) |
 | Running MrBeast | 229338 | [229338-running-mrbeast.json](./229338-running-mrbeast.json) |
 | Running Naked Simulator 2019 | 110810 | [110810-running-naked-simulator-2019.json](./110810-running-naked-simulator-2019.json) |
+| Running Ninja | 115891 | [115891-running-ninja.json](./115891-running-ninja.json) |
 | Running on Empty | 214266 | [214266-running-on-empty.json](./214266-running-on-empty.json) |
 | Running on Magic | 201367 | [201367-running-on-magic.json](./201367-running-on-magic.json) |
 | Running Out | 343227 | [343227-running-out.json](./343227-running-out.json) |
