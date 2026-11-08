@@ -7654,6 +7654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Companion | 143121 | [143121-the-companion.json](./143121-the-companion.json) |
 | The Company Game | 110063 | [110063-the-company-game.json](./110063-the-company-game.json) |
 | The Company Man | 150054 | [150054-the-company-man.json](./150054-the-company-man.json) |
+| The Company of Myself | 101723 | [101723-the-company-of-myself.json](./101723-the-company-of-myself.json) |
 | The Complete Carriers at War | 281299 | [281299-the-complete-carriers-at-war.json](./281299-the-complete-carriers-at-war.json) |
 | The Complete Emergency | 136375 | [136375-the-complete-emergency.json](./136375-the-complete-emergency.json) |
 | The Complete Movie Games Collection | 336051 | [336051-the-complete-movie-games-collection.json](./336051-the-complete-movie-games-collection.json) |
@@ -14444,6 +14445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mystery of the Druids | 12449 | [12449-the-mystery-of-the-druids.json](./12449-the-mystery-of-the-druids.json) |
 | The Mystery of the Hudson Case | 95337 | [95337-the-mystery-of-the-hudson-case.json](./95337-the-mystery-of-the-hudson-case.json) |
 | The Mystery of the Mary Celeste | 206229 | [206229-the-mystery-of-the-mary-celeste.json](./206229-the-mystery-of-the-mary-celeste.json) |
+| The Mystery of the Mayan Ruins | 101166 | [101166-the-mystery-of-the-mayan-ruins.json](./101166-the-mystery-of-the-mayan-ruins.json) |
 | The Mystery of the Moon | 250828 | [250828-the-mystery-of-the-moon.json](./250828-the-mystery-of-the-moon.json) |
 | The Mystery of the Nautilus | 73345 | [73345-the-mystery-of-the-nautilus.json](./73345-the-mystery-of-the-nautilus.json) |
 | The Mystery of the Planet Venus | 307619 | [307619-the-mystery-of-the-planet-venus.json](./307619-the-mystery-of-the-planet-venus.json) |
@@ -17427,6 +17429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Splatters | 21145 | [21145-the-splatters.json](./21145-the-splatters.json) |
 | The Split | 229015 | [229015-the-split.json](./229015-the-split.json) |
 | The Splitting: Chapter 1 | 102017 | [102017-the-splitting-chapter-1.json](./102017-the-splitting-chapter-1.json) |
+| The Splitting: Chapter 2 | 101780 | [101780-the-splitting-chapter-2.json](./101780-the-splitting-chapter-2.json) |
 | The Splitting: Chapter 3 | 201357 | [201357-the-splitting-chapter-3.json](./201357-the-splitting-chapter-3.json) |
 | The SpongeBob SquarePants Movie | 210725 | [210725-the-spongebob-squarepants-movie.json](./210725-the-spongebob-squarepants-movie.json) |
 | The SpongeBob SquarePants Movie | 248491 | [248491-the-spongebob-squarepants-movie.json](./248491-the-spongebob-squarepants-movie.json) |
@@ -33408,6 +33411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Titans | 391883 | [391883-turbo-titans.json](./391883-turbo-titans.json) |
 | Turbo Toons | 205977 | [205977-turbo-toons.json](./205977-turbo-toons.json) |
 | Turbo Tornado | 297523 | [297523-turbo-tornado.json](./297523-turbo-tornado.json) |
+| Turbo Town | 101783 | [101783-turbo-town.json](./101783-turbo-town.json) |
 | Turbo Trainz | 193702 | [193702-turbo-trainz.json](./193702-turbo-trainz.json) |
 | Turbo Trainz | 206637 | [206637-turbo-trainz.json](./206637-turbo-trainz.json) |
 | Turbo Trax | 12802 | [12802-turbo-trax.json](./12802-turbo-trax.json) |
