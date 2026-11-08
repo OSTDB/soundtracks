@@ -1116,6 +1116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Descent | 179282 | [179282-dangerous-descent.json](./179282-dangerous-descent.json) |
 | Dangerous Drift | 190272 | [190272-dangerous-drift.json](./190272-dangerous-drift.json) |
 | Dangerous Driving | 104232 | [104232-dangerous-driving.json](./104232-dangerous-driving.json) |
+| Dangerous Driving 2 | 131742 | [131742-dangerous-driving-2.json](./131742-dangerous-driving-2.json) |
 | Dangerous Duels | 134509 | [134509-dangerous-duels.json](./134509-dangerous-duels.json) |
 | Dangerous Fellows | 133817 | [133817-dangerous-fellows.json](./133817-dangerous-fellows.json) |
 | Dangerous Fight | 284997 | [284997-dangerous-fight.json](./284997-dangerous-fight.json) |
