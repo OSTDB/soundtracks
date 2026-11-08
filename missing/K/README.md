@@ -4890,6 +4890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knockout League | 32859 | [32859-knockout-league.json](./32859-knockout-league.json) |
 | Knockout League: Heavy Bag | 172282 | [172282-knockout-league-heavy-bag.json](./172282-knockout-league-heavy-bag.json) |
 | Knockout Master | 258938 | [258938-knockout-master.json](./258938-knockout-master.json) |
+| Knockout Party | 126135 | [126135-knockout-party.json](./126135-knockout-party.json) |
 | Knockout Party | 51161 | [51161-knockout-party.json](./51161-knockout-party.json) |
 | Knockout Peoples: Chotto Zankoku na Hakurankai | 260745 | [260745-knockout-peoples-chotto-zankoku-na-hakurankai.json](./260745-knockout-peoples-chotto-zankoku-na-hakurankai.json) |
 | Knockout RPS | 103921 | [103921-knockout-rps.json](./103921-knockout-rps.json) |
@@ -5022,6 +5023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kochira Katsushika-ku Kameari Kouen Mae Hashutsujo: Nakagawa Land Dai-race! no Maki | 166505 | [166505-kochira-katsushika-ku-kameari-kouen-mae-hashutsujo-nakagawa-land-dai-race-no-maki.json](./166505-kochira-katsushika-ku-kameari-kouen-mae-hashutsujo-nakagawa-land-dai-race-no-maki.json) |
 | Kochira, Haha Naru Hoshi Yori | 152912 | [152912-kochira-haha-naru-hoshi-yori.json](./152912-kochira-haha-naru-hoshi-yori.json) |
 | Kochiya Sanae no Kamikaze to Tomo ni | 165524 | [165524-kochiya-sanae-no-kamikaze-to-tomo-ni.json](./165524-kochiya-sanae-no-kamikaze-to-tomo-ni.json) |
+| Kochonland | 126145 | [126145-kochonland.json](./126145-kochonland.json) |
 | Kochu's Dream | 148423 | [148423-kochus-dream.json](./148423-kochus-dream.json) |
 | Koco | 275845 | [275845-koco.json](./275845-koco.json) |
 | Kodama | 262067 | [262067-kodama.json](./262067-kodama.json) |
