@@ -451,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nano Golf | 97041 | [97041-nano-golf.json](./97041-nano-golf.json) |
 | Nano Golf: Hole In One | 250111 | [250111-nano-golf-hole-in-one.json](./250111-nano-golf-hole-in-one.json) |
 | Nano Golf: Puzzle Putting | 95082 | [95082-nano-golf-puzzle-putting.json](./95082-nano-golf-puzzle-putting.json) |
+| Nano Nebula | 102309 | [102309-nano-nebula.json](./102309-nano-nebula.json) |
 | Nano Neighbors | 347838 | [347838-nano-neighbors.json](./347838-nano-neighbors.json) |
 | Nano Organism | 201495 | [201495-nano-organism.json](./201495-nano-organism.json) |
 | Nano Player Pro: Mega Man | 317711 | [317711-nano-player-pro-mega-man.json](./317711-nano-player-pro-mega-man.json) |
@@ -1630,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necro Defense | 113687 | [113687-necro-defense.json](./113687-necro-defense.json) |
 | Necro Gaia | 50362 | [50362-necro-gaia.json](./50362-necro-gaia.json) |
 | Necro Genesis | 390639 | [390639-necro-genesis.json](./390639-necro-genesis.json) |
+| Necro Immortallis | 102398 | [102398-necro-immortallis.json](./102398-necro-immortallis.json) |
 | Necro Mutex | 113819 | [113819-necro-mutex.json](./113819-necro-mutex.json) |
 | Necro Pop | 401894 | [401894-necro-pop.json](./401894-necro-pop.json) |
 | Necro Rumble | 285906 | [285906-necro-rumble.json](./285906-necro-rumble.json) |
@@ -7791,6 +7793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numentale | 182889 | [182889-numentale.json](./182889-numentale.json) |
 | Numeral Lord | 221426 | [221426-numeral-lord.json](./221426-numeral-lord.json) |
 | Numeral Strike | 361628 | [361628-numeral-strike.json](./361628-numeral-strike.json) |
+| Numeric | 102401 | [102401-numeric.json](./102401-numeric.json) |
 | Numeric Demon Cat | 369329 | [369329-numeric-demon-cat.json](./369329-numeric-demon-cat.json) |
 | Numerical Alchemist | 416567 | [416567-numerical-alchemist.json](./416567-numerical-alchemist.json) |
 | Numerium Challenge | 118126 | [118126-numerium-challenge.json](./118126-numerium-challenge.json) |
