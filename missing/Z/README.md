@@ -1253,6 +1253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zilar: Empire of The Underground | 312502 | [312502-zilar-empire-of-the-underground.json](./312502-zilar-empire-of-the-underground.json) |
 | Zill O'll | 94007 | [94007-zill-oll.json](./94007-zill-oll.json) |
 | Zill O'll Infinite | 80486 | [80486-zill-oll-infinite.json](./80486-zill-oll-infinite.json) |
+| Zill O'll Infinite Plus | 94824 | [94824-zill-oll-infinite-plus.json](./94824-zill-oll-infinite-plus.json) |
 | Zilla: Shadow of the Bridge | 257989 | [257989-zilla-shadow-of-the-bridge.json](./257989-zilla-shadow-of-the-bridge.json) |
 | Zillion | 18141 | [18141-zillion.json](./18141-zillion.json) |
 | Zillion Beatz | 124382 | [124382-zillion-beatz.json](./124382-zillion-beatz.json) |
