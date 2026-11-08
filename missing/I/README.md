@@ -1353,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Beast Hunter | 297222 | [297222-idle-beast-hunter.json](./297222-idle-beast-hunter.json) |
 | Idle Berserker: Action RPG | 216028 | [216028-idle-berserker-action-rpg.json](./216028-idle-berserker-action-rpg.json) |
 | Idle Biceps | 244182 | [244182-idle-biceps.json](./244182-idle-biceps.json) |
+| Idle Big Devil | 137787 | [137787-idle-big-devil.json](./137787-idle-big-devil.json) |
 | Idle Billionaire Tycoon | 216027 | [216027-idle-billionaire-tycoon.json](./216027-idle-billionaire-tycoon.json) |
 | Idle Blocks | 267848 | [267848-idle-blocks.json](./267848-idle-blocks.json) |
 | Idle Boss Rush | 341977 | [341977-idle-boss-rush.json](./341977-idle-boss-rush.json) |
@@ -3940,6 +3941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
