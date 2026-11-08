@@ -1744,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A2 Racer | 92803 | [92803-a2-racer.json](./92803-a2-racer.json) |
 | A2 Racer II | 80309 | [80309-a2-racer-ii.json](./80309-a2-racer-ii.json) |
 | A2 Racer III: Europa Tour | 44841 | [44841-a2-racer-iii-europa-tour.json](./44841-a2-racer-iii-europa-tour.json) |
+| A2 Racer IV: De Politie slaat terug | 121167 | [121167-a2-racer-iv-de-politie-slaat-terug.json](./121167-a2-racer-iv-de-politie-slaat-terug.json) |
 | A2 Zygon | 193596 | [193596-a2-zygon.json](./193596-a2-zygon.json) |
 | A2: The Ultimate Sequel To AUTS | 304482 | [304482-a2-the-ultimate-sequel-to-auts.json](./304482-a2-the-ultimate-sequel-to-auts.json) |
 | A2Be: A Science Fiction Narrative | 87810 | [87810-a2be-a-science-fiction-narrative.json](./87810-a2be-a-science-fiction-narrative.json) |
@@ -9985,6 +9986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Dad | 189869 | [189869-angry-dad.json](./189869-angry-dad.json) |
 | Angry Dog | 399631 | [399631-angry-dog.json](./399631-angry-dog.json) |
 | Angry Emoji the Game | 169927 | [169927-angry-emoji-the-game.json](./169927-angry-emoji-the-game.json) |
+| Angry Farm | 121146 | [121146-angry-farm.json](./121146-angry-farm.json) |
 | Angry food | 128121 | [128121-angry-food.json](./128121-angry-food.json) |
 | Angry Fugu | 144993 | [144993-angry-fugu.json](./144993-angry-fugu.json) |
 | Angry Giant | 159979 | [159979-angry-giant.json](./159979-angry-giant.json) |
@@ -12259,6 +12261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarius Baseball: Genkai no, Sono Saki e. | 268110 | [268110-aquarius-baseball-genkai-no-sono-saki-e.json](./268110-aquarius-baseball-genkai-no-sono-saki-e.json) |
 | Aquarius Days | 97744 | [97744-aquarius-days.json](./97744-aquarius-days.json) |
 | Aquarius Days 2 | 97648 | [97648-aquarius-days-2.json](./97648-aquarius-days-2.json) |
+| Aquaryouns World | 121117 | [121117-aquaryouns-world.json](./121117-aquaryouns-world.json) |
 | Aquascapers | 258345 | [258345-aquascapers.json](./258345-aquascapers.json) |
 | Aquascapes | 144353 | [144353-aquascapes.json](./144353-aquascapes.json) |
 | Aquascapes: Collector's Edition | 356136 | [356136-aquascapes-collectors-edition.json](./356136-aquascapes-collectors-edition.json) |
@@ -12771,6 +12774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Rezon | 244021 | [244021-arcade-archives-rezon.json](./244021-arcade-archives-rezon.json) |
 | Arcade Archives: Ridge Racer | 347092 | [347092-arcade-archives-ridge-racer.json](./347092-arcade-archives-ridge-racer.json) |
 | Arcade Archives: Riot | 321501 | [321501-arcade-archives-riot.json](./321501-arcade-archives-riot.json) |
+| Arcade Archives: Road Fighter | 121161 | [121161-arcade-archives-road-fighter.json](./121161-arcade-archives-road-fighter.json) |
 | Arcade Archives: Roc'n Rope | 381795 | [381795-arcade-archives-rocn-rope.json](./381795-arcade-archives-rocn-rope.json) |
 | Arcade Archives: Rod Land | 142696 | [142696-arcade-archives-rod-land.json](./142696-arcade-archives-rod-land.json) |
 | Arcade Archives: Roller Jammer | 210745 | [210745-arcade-archives-roller-jammer.json](./210745-arcade-archives-roller-jammer.json) |
