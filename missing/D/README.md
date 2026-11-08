@@ -5482,6 +5482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Night Detective | 165440 | [165440-deep-night-detective.json](./165440-deep-night-detective.json) |
 | Deep Night Detective: Chapter One | 167263 | [167263-deep-night-detective-chapter-one.json](./167263-deep-night-detective-chapter-one.json) |
 | Deep Nightmare: Phobias | 416999 | [416999-deep-nightmare-phobias.json](./416999-deep-nightmare-phobias.json) |
+| Deep Noise | 104872 | [104872-deep-noise.json](./104872-deep-noise.json) |
 | Deep Ocean Rush | 125083 | [125083-deep-ocean-rush.json](./125083-deep-ocean-rush.json) |
 | Deep of the Ocean | 173411 | [173411-deep-of-the-ocean.json](./173411-deep-of-the-ocean.json) |
 | Deep Ones | 55258 | [55258-deep-ones.json](./55258-deep-ones.json) |
@@ -10222,6 +10223,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Trackin' 3 | 347314 | [347314-dirt-trackin-3.json](./347314-dirt-trackin-3.json) |
 | Dirt Trax FX | 42622 | [42622-dirt-trax-fx.json](./42622-dirt-trax-fx.json) |
 | Dirtbag Mahjong | 324907 | [324907-dirtbag-mahjong.json](./324907-dirtbag-mahjong.json) |
+| DirtRace | 104761 | [104761-dirtrace.json](./104761-dirtrace.json) |
 | Dirty | 412361 | [412361-dirty.json](./412361-dirty.json) |
 | Dirty Aim Trainer VR | 266752 | [266752-dirty-aim-trainer-vr.json](./266752-dirty-aim-trainer-vr.json) |
 | Dirty Beastly Muscles | 379650 | [379650-dirty-beastly-muscles.json](./379650-dirty-beastly-muscles.json) |
@@ -17277,6 +17279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droiyan Online | 361389 | [361389-droiyan-online.json](./361389-droiyan-online.json) |
 | Droker Clicker | 417576 | [417576-droker-clicker.json](./417576-droker-clicker.json) |
 | Drol | 6098 | [6098-drol.json](./6098-drol.json) |
+| Drolf | 104737 | [104737-drolf.json](./104737-drolf.json) |
 | Drom | 225821 | [225821-drom.json](./225821-drom.json) |
 | Drome Racers | 22244 | [22244-drome-racers.json](./22244-drome-racers.json) |
 | Drome Racers | 3901 | [3901-drome-racers.json](./3901-drome-racers.json) |
