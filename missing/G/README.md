@@ -1338,6 +1338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game no Kanzume Vol. 1 | 398458 | [398458-game-no-kanzume-vol-1.json](./398458-game-no-kanzume-vol-1.json) |
 | Game no Kanzume Vol. 2 | 59518 | [59518-game-no-kanzume-vol-2.json](./59518-game-no-kanzume-vol-2.json) |
 | Game no Tatsujin | 44404 | [44404-game-no-tatsujin.json](./44404-game-no-tatsujin.json) |
+| Game no Tatsujin 2 | 82270 | [82270-game-no-tatsujin-2.json](./82270-game-no-tatsujin-2.json) |
 | Game no Tatsujin: Money Wars | 41314 | [41314-game-no-tatsujin-money-wars.json](./41314-game-no-tatsujin-money-wars.json) |
 | Game no Tetsujin: The Shanghai | 44413 | [44413-game-no-tetsujin-the-shanghai.json](./44413-game-no-tetsujin-the-shanghai.json) |
 | Game of Bombs | 393930 | [393930-game-of-bombs.json](./393930-game-of-bombs.json) |
@@ -8085,6 +8086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Mountain Adventure 2 | 324130 | [324130-grand-mountain-adventure-2.json](./324130-grand-mountain-adventure-2.json) |
 | Grand Mountain Adventure: Wonderlands - Limited Edition | 188166 | [188166-grand-mountain-adventure-wonderlands-limited-edition.json](./188166-grand-mountain-adventure-wonderlands-limited-edition.json) |
 | Grand National | 94329 | [94329-grand-national.json](./94329-grand-national.json) |
+| Grand Order Mahjong | 82292 | [82292-grand-order-mahjong.json](./82292-grand-order-mahjong.json) |
 | Grand Ore Deal | 260103 | [260103-grand-ore-deal.json](./260103-grand-ore-deal.json) |
 | Grand Ouvert | 93106 | [93106-grand-ouvert.json](./93106-grand-ouvert.json) |
 | Grand Piano Keys | 200552 | [200552-grand-piano-keys.json](./200552-grand-piano-keys.json) |
