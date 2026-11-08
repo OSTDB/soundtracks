@@ -10515,6 +10515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mexican High School Simulator | 257355 | [257355-mexican-high-school-simulator.json](./257355-mexican-high-school-simulator.json) |
 | Mexican Ninja | 347240 | [347240-mexican-ninja.json](./347240-mexican-ninja.json) |
 | Mexican Smashoff | 212221 | [212221-mexican-smashoff.json](./212221-mexican-smashoff.json) |
+| Mexican Train Dominoes 2 | 106070 | [106070-mexican-train-dominoes-2.json](./106070-mexican-train-dominoes-2.json) |
 | Mexican Train Dominoes Gold | 147732 | [147732-mexican-train-dominoes-gold.json](./147732-mexican-train-dominoes-gold.json) |
 | Mexico 1921: A Deep Slumber | 211921 | [211921-mexico-1921-a-deep-slumber.json](./211921-mexico-1921-a-deep-slumber.json) |
 | Mey Rescuer | 157964 | [157964-mey-rescuer.json](./157964-mey-rescuer.json) |
@@ -12642,6 +12643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft: Fire TV Edition | 140463 | [140463-minecraft-fire-tv-edition.json](./140463-minecraft-fire-tv-edition.json) |
 | Minecraft: Frostburn Update | 262158 | [262158-minecraft-frostburn-update.json](./262158-minecraft-frostburn-update.json) |
 | Minecraft: Frozen | 254125 | [254125-minecraft-frozen.json](./254125-minecraft-frozen.json) |
+| Minecraft: Gear VR Edition | 106175 | [106175-minecraft-gear-vr-edition.json](./106175-minecraft-gear-vr-edition.json) |
 | Minecraft: Godzilla | 285051 | [285051-minecraft-godzilla.json](./285051-minecraft-godzilla.json) |
 | Minecraft: Golem World | 336258 | [336258-minecraft-golem-world.json](./336258-minecraft-golem-world.json) |
 | Minecraft: Good Night's Sleep | 326994 | [326994-minecraft-good-nights-sleep.json](./326994-minecraft-good-nights-sleep.json) |
@@ -13256,6 +13258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini-Yonku Shining Scorpion: Let's & Go!! | 38218 | [38218-mini-yonku-shining-scorpion-lets-and-go.json](./38218-mini-yonku-shining-scorpion-lets-and-go.json) |
 | Mini's Magic World | 33339 | [33339-minis-magic-world.json](./33339-minis-magic-world.json) |
 | Miniacs: Steering Madness | 382227 | [382227-miniacs-steering-madness.json](./382227-miniacs-steering-madness.json) |
+| MiniAdventureGolf | 106060 | [106060-miniadventuregolf.json](./106060-miniadventuregolf.json) |
 | Miniature Air Hockey | 175239 | [175239-miniature-air-hockey.json](./175239-miniature-air-hockey.json) |
 | Miniature Garden | 25710 | [25710-miniature-garden.json](./25710-miniature-garden.json) |
 | Miniature Golf | 18415 | [18415-miniature-golf.json](./18415-miniature-golf.json) |
@@ -14422,6 +14425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mixee Labs | 120221 | [120221-mixee-labs.json](./120221-mixee-labs.json) |
 | Mixels Rush | 214029 | [214029-mixels-rush.json](./214029-mixels-rush.json) |
 | MiXem Delux | 70289 | [70289-mixem-delux.json](./70289-mixem-delux.json) |
+| Mixerpiece | 106069 | [106069-mixerpiece.json](./106069-mixerpiece.json) |
 | MixiM | 202360 | [202360-mixim.json](./202360-mixim.json) |
 | Mixing Suns | 183389 | [183389-mixing-suns.json](./183389-mixing-suns.json) |
 | MixMaster | 77806 | [77806-mixmaster.json](./77806-mixmaster.json) |
