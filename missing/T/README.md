@@ -4257,6 +4257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenshitsuki no Shoujo | 80471 | [80471-tenshitsuki-no-shoujo.json](./80471-tenshitsuki-no-shoujo.json) |
 | Tenshoku Maou | 381693 | [381693-tenshoku-maou.json](./381693-tenshoku-maou.json) |
 | Tenshokyo: Tokyo Drift | 371817 | [371817-tenshokyo-tokyo-drift.json](./371817-tenshokyo-tokyo-drift.json) |
+| Tenshou Gakuen Gekkouroku | 138351 | [138351-tenshou-gakuen-gekkouroku.json](./138351-tenshou-gakuen-gekkouroku.json) |
 | Tenshou Gakuen Gensouroku | 71807 | [71807-tenshou-gakuen-gensouroku.json](./71807-tenshou-gakuen-gensouroku.json) |
 | Tenshu General | 35473 | [35473-tenshu-general.json](./35473-tenshu-general.json) |
 | Tension | 93966 | [93966-tension.json](./93966-tension.json) |
@@ -16265,6 +16266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Secret of Chunky Salsa | 327274 | [327274-the-secret-of-chunky-salsa.json](./327274-the-secret-of-chunky-salsa.json) |
 | The Secret of Crimson Manor | 297503 | [297503-the-secret-of-crimson-manor.json](./297503-the-secret-of-crimson-manor.json) |
 | The Secret of Crystal Mountain | 293243 | [293243-the-secret-of-crystal-mountain.json](./293243-the-secret-of-crystal-mountain.json) |
+| The Secret of Dank Mountain | 138372 | [138372-the-secret-of-dank-mountain.json](./138372-the-secret-of-dank-mountain.json) |
 | The Secret of Darkwoods | 236942 | [236942-the-secret-of-darkwoods.json](./236942-the-secret-of-darkwoods.json) |
 | The Secret of Donkey Island | 254469 | [254469-the-secret-of-donkey-island.json](./254469-the-secret-of-donkey-island.json) |
 | The Secret of Dyes | 152867 | [152867-the-secret-of-dyes.json](./152867-the-secret-of-dyes.json) |
@@ -19607,6 +19609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Zyrdain Sands | 390100 | [390100-the-zyrdain-sands.json](./390100-the-zyrdain-sands.json) |
 | The_Otherside | 141027 | [141027-the-otherside.json](./141027-the-otherside.json) |
 | The_Painther | 410884 | [410884-the-painther.json](./410884-the-painther.json) |
+| The_Right_Song_Now.mp3 | 138334 | [138334-the-right-song-now-mp3.json](./138334-the-right-song-now-mp3.json) |
 | The.Thend.End | 112992 | [112992-the-thend-end.json](./112992-the-thend-end.json) |
 | The400 Mini | 286590 | [286590-the400-mini.json](./286590-the400-mini.json) |
 | Thea 2: Rat Tales & More | 249721 | [249721-thea-2-rat-tales-and-more.json](./249721-thea-2-rat-tales-and-more.json) |
@@ -20487,6 +20490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas The Tank Engine & Friends | 261192 | [261192-thomas-the-tank-engine-and-friends.json](./261192-thomas-the-tank-engine-and-friends.json) |
 | Thomas the Tank Engine & Friends Pinball | 38842 | [38842-thomas-the-tank-engine-and-friends-pinball.json](./38842-thomas-the-tank-engine-and-friends-pinball.json) |
 | Thomas to Asonde Oboeru Kotoba to Kazu to ABC | 222516 | [222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json](./222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json) |
+| Thomas Was Alone: Benjamin's Flight | 138347 | [138347-thomas-was-alone-benjamins-flight.json](./138347-thomas-was-alone-benjamins-flight.json) |
 | Thomas' Tales | 195614 | [195614-thomas-tales.json](./195614-thomas-tales.json) |
 | Thome Wake | 287371 | [287371-thome-wake.json](./287371-thome-wake.json) |
 | Thoom | 311069 | [311069-thoom.json](./311069-thoom.json) |
@@ -20905,6 +20909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrymly Disguised | 232781 | [232781-thrymly-disguised.json](./232781-thrymly-disguised.json) |
 | Thud Ridge: American Aces in 'Nam | 57594 | [57594-thud-ridge-american-aces-in-nam.json](./57594-thud-ridge-american-aces-in-nam.json) |
 | Thug Life | 377562 | [377562-thug-life.json](./377562-thug-life.json) |
+| THUG Pro | 138344 | [138344-thug-pro.json](./138344-thug-pro.json) |
 | Thug Racer! | 185203 | [185203-thug-racer.json](./185203-thug-racer.json) |
 | Thug Wars | 407084 | [407084-thug-wars.json](./407084-thug-wars.json) |
 | Thugging | 370682 | [370682-thugging.json](./370682-thugging.json) |
@@ -30357,6 +30362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transiruby | 107019 | [107019-transiruby.json](./107019-transiruby.json) |
 | Transistors Revenge | 297471 | [297471-transistors-revenge.json](./297471-transistors-revenge.json) |
 | Transit | 113505 | [113505-transit.json](./113505-transit.json) |
+| Transit | 138371 | [138371-transit.json](./138371-transit.json) |
 | Transit | 365113 | [365113-transit.json](./365113-transit.json) |
 | Transit City Touch | 103068 | [103068-transit-city-touch.json](./103068-transit-city-touch.json) |
 | Transit King | 75530 | [75530-transit-king.json](./75530-transit-king.json) |
