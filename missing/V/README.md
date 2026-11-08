@@ -4035,6 +4035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Hiroshima 1945 | 160140 | [160140-vr-hiroshima-1945.json](./160140-vr-hiroshima-1945.json) |
 | VR Hockey League | 72515 | [72515-vr-hockey-league.json](./72515-vr-hockey-league.json) |
 | VR Home | 27352 | [27352-vr-home.json](./27352-vr-home.json) |
+| VR Horror | 99273 | [99273-vr-horror.json](./99273-vr-horror.json) |
 | VR Horror Survival Zombie Battle | 169261 | [169261-vr-horror-survival-zombie-battle.json](./169261-vr-horror-survival-zombie-battle.json) |
 | VR Houses: Glass Apartment | 282028 | [282028-vr-houses-glass-apartment.json](./282028-vr-houses-glass-apartment.json) |
 | VR Hurl | 54479 | [54479-vr-hurl.json](./54479-vr-hurl.json) |
