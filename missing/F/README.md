@@ -8518,6 +8518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlowerRock | 301227 | [301227-flowerrock.json](./301227-flowerrock.json) |
 | Flowers 2 by Powgi | 140419 | [140419-flowers-2-by-powgi.json](./140419-flowers-2-by-powgi.json) |
 | Flowers and Deities | 350787 | [350787-flowers-and-deities.json](./350787-flowers-and-deities.json) |
+| Flowers Are Dead | 124342 | [124342-flowers-are-dead.json](./124342-flowers-are-dead.json) |
 | Flowers Blooming at the End of Summer | 129727 | [129727-flowers-blooming-at-the-end-of-summer.json](./129727-flowers-blooming-at-the-end-of-summer.json) |
 | Flowers Bundle | 213328 | [213328-flowers-bundle.json](./213328-flowers-bundle.json) |
 | Flowers by Powgi | 106893 | [106893-flowers-by-powgi.json](./106893-flowers-by-powgi.json) |
@@ -13692,6 +13693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funko Fusion: Wicked Movie Pack 3 | 354230 | [354230-funko-fusion-wicked-movie-pack-3.json](./354230-funko-fusion-wicked-movie-pack-3.json) |
 | Funko Fusion: Wolfie Pack | 354241 | [354241-funko-fusion-wolfie-pack.json](./354241-funko-fusion-wolfie-pack.json) |
 | Funko Fusion: Yuletide Pack | 332471 | [332471-funko-fusion-yuletide-pack.json](./332471-funko-fusion-yuletide-pack.json) |
+| Funko Pop! Blitz | 124356 | [124356-funko-pop-blitz.json](./124356-funko-pop-blitz.json) |
 | Funky Barn | 21698 | [21698-funky-barn.json](./21698-funky-barn.json) |
 | Funky Barn 3D | 65333 | [65333-funky-barn-3d.json](./65333-funky-barn-3d.json) |
 | Funky Bay - Farm & Adventure | 106356 | [106356-funky-bay-farm-and-adventure.json](./106356-funky-bay-farm-and-adventure.json) |
