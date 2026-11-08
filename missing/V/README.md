@@ -2040,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Checkers | 18003 | [18003-video-checkers.json](./18003-video-checkers.json) |
 | Video Chess | 18004 | [18004-video-chess.json](./18004-video-chess.json) |
 | Video Cube: Space | 130754 | [130754-video-cube-space.json](./130754-video-cube-space.json) |
+| Video Easel | 84286 | [84286-video-easel.json](./84286-video-easel.json) |
 | Video Editor | 390369 | [390369-video-editor.json](./390369-video-editor.json) |
 | Video Editor Tycoon | 157468 | [157468-video-editor-tycoon.json](./157468-video-editor-tycoon.json) |
 | Video Editor's Toolkit | 256117 | [256117-video-editors-toolkit.json](./256117-video-editors-toolkit.json) |
