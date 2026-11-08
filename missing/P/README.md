@@ -102,6 +102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac Maze | 312907 | [312907-pac-maze.json](./312907-pac-maze.json) |
 | Pac Mr | 100293 | [100293-pac-mr.json](./100293-pac-mr.json) |
 | Pac Pack | 68951 | [68951-pac-pack.json](./68951-pac-pack.json) |
+| Pac PC II | 94308 | [94308-pac-pc-ii.json](./94308-pac-pc-ii.json) |
 | Pac Quest 3D | 134828 | [134828-pac-quest-3d.json](./134828-pac-quest-3d.json) |
 | Pac Rabbit | 319590 | [319590-pac-rabbit.json](./319590-pac-rabbit.json) |
 | Pac the Man 2 | 78960 | [78960-pac-the-man-2.json](./78960-pac-the-man-2.json) |
@@ -2896,6 +2897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastel | 136629 | [136629-pastel.json](./136629-pastel.json) |
 | Pastel Chime Continue | 68121 | [68121-pastel-chime-continue.json](./68121-pastel-chime-continue.json) |
 | Pastel Chime: Koi no Skill Up | 90927 | [90927-pastel-chime-koi-no-skill-up.json](./90927-pastel-chime-koi-no-skill-up.json) |
+| Pastel Fantasy | 94298 | [94298-pastel-fantasy.json](./94298-pastel-fantasy.json) |
 | Pastel Friends | 338542 | [338542-pastel-friends.json](./338542-pastel-friends.json) |
 | Pastel Girl | 99226 | [99226-pastel-girl.json](./99226-pastel-girl.json) |
 | Pastel Island | 268444 | [268444-pastel-island.json](./268444-pastel-island.json) |
@@ -9784,6 +9786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plasma Drone | 243512 | [243512-plasma-drone.json](./243512-plasma-drone.json) |
 | Plasma Fist | 191945 | [191945-plasma-fist.json](./191945-plasma-fist.json) |
 | Plasma Orb | 293880 | [293880-plasma-orb.json](./293880-plasma-orb.json) |
+| Plasma Pong | 94290 | [94290-plasma-pong.json](./94290-plasma-pong.json) |
 | Plasma Sky | 61137 | [61137-plasma-sky.json](./61137-plasma-sky.json) |
 | Plasma Spheres | 69162 | [69162-plasma-spheres.json](./69162-plasma-spheres.json) |
 | Plasma Sword: Nightmare of Bilstein | 14679 | [14679-plasma-sword-nightmare-of-bilstein.json](./14679-plasma-sword-nightmare-of-bilstein.json) |
@@ -10732,6 +10735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Realms | 99223 | [99223-pocket-realms.json](./99223-pocket-realms.json) |
 | Pocket Robots | 311176 | [311176-pocket-robots.json](./311176-pocket-robots.json) |
 | Pocket Rocket | 187166 | [187166-pocket-rocket.json](./187166-pocket-rocket.json) |
+| Pocket Rockets | 94293 | [94293-pocket-rockets.json](./94293-pocket-rockets.json) |
 | Pocket Roguelike | 114733 | [114733-pocket-roguelike.json](./114733-pocket-roguelike.json) |
 | Pocket Rogues | 111249 | [111249-pocket-rogues.json](./111249-pocket-rogues.json) |
 | Pocket Rogues: Ultimate | 101094 | [101094-pocket-rogues-ultimate.json](./101094-pocket-rogues-ultimate.json) |
@@ -17753,6 +17757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulzar | 304294 | [304294-pulzar.json](./304294-pulzar.json) |
 | PulzAR | 93544 | [93544-pulzar.json](./93544-pulzar.json) |
 | Pum | 119053 | [119053-pum.json](./119053-pum.json) |
+| Puma Street Soccer | 94296 | [94296-puma-street-soccer.json](./94296-puma-street-soccer.json) |
 | Puma: The Cat | 270158 | [270158-puma-the-cat.json](./270158-puma-the-cat.json) |
 | Pumkin: Digital English Education | 241768 | [241768-pumkin-digital-english-education.json](./241768-pumkin-digital-english-education.json) |
 | Pummel Paladins | 167439 | [167439-pummel-paladins.json](./167439-pummel-paladins.json) |
