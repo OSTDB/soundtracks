@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-08T13:00:56.811Z",
-  "total_soundtracks": 2991,
+  "generated_at": "2026-11-08T13:26:28.707Z",
+  "total_soundtracks": 3000,
   "games": [
     {
       "igdb_id": 7522,
@@ -374,6 +374,20 @@
           "album_name": "A Way Out (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/6QenoaBO94H2FZ1ys727M4",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 26530,
+      "game_name": "A Wolf in Autumn",
+      "game_url": "https://ostdb.net/games/a-wolf-in-autumn",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e151482dd7bd83881b7508b4",
+      "albums": [
+        {
+          "album_name": "A Wolf in Autumn (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1HecOVoWEq6HTObutzuDWq",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -4922,6 +4936,20 @@
           "album_name": "Call of Duty: Black Ops (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/3Y8ClzfVlZHVWkKazWj1j9",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 77267,
+      "game_name": "Call of Duty: Black Ops - Zombies",
+      "game_url": "https://ostdb.net/games/call-of-duty-black-ops-zombies",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734bc9031ffb86dfa3cea86c52",
+      "albums": [
+        {
+          "album_name": "Call of Duty: Black Ops – Zombies (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5iIo9PaIwnmuhKWVaoU2WY",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -13809,6 +13837,20 @@
       ]
     },
     {
+      "igdb_id": 84313,
+      "game_name": "Ground Branch",
+      "game_url": "https://ostdb.net/games/ground-branch",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27343cdaf56d3172a1505cbfdc3",
+      "albums": [
+        {
+          "album_name": "Ground Branch (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1i8w3VghcbvEsIggQaEo5d",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 348187,
       "game_name": "Grounded 2",
       "game_url": "https://ostdb.net/games/grounded-2",
@@ -14655,6 +14697,20 @@
         {
           "album_name": "Heat Signature (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7wc5969CeTDcp4aZdQv44r",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 36171,
+      "game_name": "Heavy Metal Machines",
+      "game_url": "https://ostdb.net/games/heavy-metal-machines",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273cf2513cffba48a00d271cfba",
+      "albums": [
+        {
+          "album_name": "Heavy Metal Machines (Official Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5UZUIyYf5fwflCcDfIES83",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -15973,6 +16029,20 @@
           "spotify_url": "",
           "apple_music_url": "https://music.apple.com/us/album/insurgency-sandstorm-original-video-game-soundtrack/1783316406?uo=4",
           "album_link_url": "https://album.link/i/1783316406"
+        }
+      ]
+    },
+    {
+      "igdb_id": 115118,
+      "game_name": "Interrogation: You Will Be Deceived",
+      "game_url": "https://ostdb.net/games/interrogation-you-will-be-deceived",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2730ea562f4b92b7ccf1a17cec6",
+      "albums": [
+        {
+          "album_name": "Interrogation: You will be deceived (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/3R84sRAIPKFnQyVhT8kC7r",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -19369,6 +19439,20 @@
       ]
     },
     {
+      "igdb_id": 18230,
+      "game_name": "Medieval Moves: Deadmund's Quest",
+      "game_url": "https://ostdb.net/games/medieval-moves-deadmunds-quest",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c58a533366ad0653ebd61941",
+      "albums": [
+        {
+          "album_name": "Medieval Moves: Deadmund's Quest (Original Video Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4YNxp0yCNJ9rFHFOlrC66J",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 252528,
       "game_name": "Mediterranea Inferno",
       "game_url": "https://ostdb.net/games/mediterranea-inferno",
@@ -20122,6 +20206,20 @@
           "album_name": "MIO: Memories in Orbit (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5RyKJQMMiMQTjfW6lvTF3m",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 77734,
+      "game_name": "Miracle Merchant",
+      "game_url": "https://ostdb.net/games/miracle-merchant",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273baa6e1c10128c6e5931595bb",
+      "albums": [
+        {
+          "album_name": "Miracle Merchant (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/7rrKudnwU8NCTN26mxFILA",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -24910,6 +25008,20 @@
           "album_name": "Remember Me (feat. Philharmonia Orchestra) [Original Soundtrack]",
           "spotify_url": "https://open.spotify.com/album/6rqgb726zE5CQOcwi30MMQ",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 115393,
+      "game_name": "Remorse: The List",
+      "game_url": "https://ostdb.net/games/remorse-the-list",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273bd784e8d8712ed704b241210",
+      "albums": [
+        {
+          "album_name": "Remorse: The List (Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/6iCrBUKV4XBucxuR5I0lRY",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -35745,6 +35857,20 @@
         {
           "album_name": "Velocity Ultra (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5DyQQIg9aLEGFk63KQ9hZk",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 96439,
+      "game_name": "Venture Kid",
+      "game_url": "https://ostdb.net/games/venture-kid",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731dc0a39bc5ab9e61add663a3",
+      "albums": [
+        {
+          "album_name": "Venture Kid (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0RjLUURlnPi4cDwXNiultT",
           "apple_music_url": "",
           "album_link_url": ""
         }
