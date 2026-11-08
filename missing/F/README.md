@@ -4652,6 +4652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight the Horror | 107722 | [107722-fight-the-horror.json](./107722-fight-the-horror.json) |
 | Fight the Landlord | 165017 | [165017-fight-the-landlord.json](./165017-fight-the-landlord.json) |
 | Fight the Skeleton Mage from the Crypt!! | 320870 | [320870-fight-the-skeleton-mage-from-the-crypt.json](./320870-fight-the-skeleton-mage-from-the-crypt.json) |
+| Fight This | 115894 | [115894-fight-this.json](./115894-fight-this.json) |
 | Fight till the End! | 289440 | [289440-fight-till-the-end.json](./289440-fight-till-the-end.json) |
 | Fight To The Death | 288200 | [288200-fight-to-the-death.json](./288200-fight-to-the-death.json) |
 | Fight Until Death | 219783 | [219783-fight-until-death.json](./219783-fight-until-death.json) |
@@ -5588,6 +5589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Murderer 2 | 192454 | [192454-find-the-murderer-2.json](./192454-find-the-murderer-2.json) |
 | Find the Murderer 3 | 236364 | [236364-find-the-murderer-3.json](./236364-find-the-murderer-3.json) |
 | Find The Needle | 415859 | [415859-find-the-needle.json](./415859-find-the-needle.json) |
+| Find the Oil Racing Edition | 115883 | [115883-find-the-oil-racing-edition.json](./115883-find-the-oil-racing-edition.json) |
 | Find the Orange Narwhal | 303525 | [303525-find-the-orange-narwhal.json](./303525-find-the-orange-narwhal.json) |
 | Find the Pairs | 328604 | [328604-find-the-pairs.json](./328604-find-the-pairs.json) |
 | Find the Pairs Memo Game for Kids | 273971 | [273971-find-the-pairs-memo-game-for-kids.json](./273971-find-the-pairs-memo-game-for-kids.json) |
