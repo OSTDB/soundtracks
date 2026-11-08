@@ -5393,6 +5393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limitless Runner | 359085 | [359085-limitless-runner.json](./359085-limitless-runner.json) |
 | Limitless Survivor | 407171 | [407171-limitless-survivor.json](./407171-limitless-survivor.json) |
 | Limits | 379052 | [379052-limits.json](./379052-limits.json) |
+| Limits & Demonstrations | 131739 | [131739-limits-and-demonstrations.json](./131739-limits-and-demonstrations.json) |
 | Limits of Intelligence | 301821 | [301821-limits-of-intelligence.json](./301821-limits-of-intelligence.json) |
 | Limkin | 187828 | [187828-limkin.json](./187828-limkin.json) |
 | Limoria | 327343 | [327343-limoria.json](./327343-limoria.json) |
@@ -6860,6 +6861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock Parsing | 81930 | [81930-lock-parsing.json](./81930-lock-parsing.json) |
 | Lock Parsing 2 | 86471 | [86471-lock-parsing-2.json](./86471-lock-parsing-2.json) |
 | Lock the door | 184588 | [184588-lock-the-door.json](./184588-lock-the-door.json) |
+| Lock-n-Load | 131735 | [131735-lock-n-load.json](./131735-lock-n-load.json) |
 | Lock-On | 95392 | [95392-lock-on.json](./95392-lock-on.json) |
 | Lock. Stock. And Hungry Pumpkins. | 330481 | [330481-lock-stock-and-hungry-pumpkins.json](./330481-lock-stock-and-hungry-pumpkins.json) |
 | Lock's Quest | 18264 | [18264-locks-quest.json](./18264-locks-quest.json) |
@@ -9498,6 +9500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Joe | 160168 | [160168-lucky-joe.json](./160168-lucky-joe.json) |
 | Lucky Lawn Mower | 359413 | [359413-lucky-lawn-mower.json](./359413-lucky-lawn-mower.json) |
 | Lucky Lord: The Coin Pusher of Fate | 377622 | [377622-lucky-lord-the-coin-pusher-of-fate.json](./377622-lucky-lord-the-coin-pusher-of-fate.json) |
+| Lucky Luke | 131706 | [131706-lucky-luke.json](./131706-lucky-luke.json) |
 | Lucky Luke | 134833 | [134833-lucky-luke.json](./134833-lucky-luke.json) |
 | Lucky Luke | 198806 | [198806-lucky-luke.json](./198806-lucky-luke.json) |
 | Lucky Luke | 200331 | [200331-lucky-luke.json](./200331-lucky-luke.json) |
