@@ -954,6 +954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Dragons 2016 | 231891 | [231891-war-of-dragons-2016.json](./231891-war-of-dragons-2016.json) |
 | War of Eclipse | 64101 | [64101-war-of-eclipse.json](./64101-war-of-eclipse.json) |
 | War of Freedom | 158523 | [158523-war-of-freedom.json](./158523-war-of-freedom.json) |
+| War of Gaia: Into the Fire | 117231 | [117231-war-of-gaia-into-the-fire.json](./117231-war-of-gaia-into-the-fire.json) |
 | War of Gama | 221326 | [221326-war-of-gama.json](./221326-war-of-gama.json) |
 | War of Genesis III | 76613 | [76613-war-of-genesis-iii.json](./76613-war-of-genesis-iii.json) |
 | War of Genesis: Idle Loot | 417320 | [417320-war-of-genesis-idle-loot.json](./417320-war-of-genesis-idle-loot.json) |
@@ -1784,6 +1785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warlord | 120659 | [120659-warlord.json](./120659-warlord.json) |
 | Warlord | 184287 | [184287-warlord.json](./184287-warlord.json) |
 | Warlord Arena: Evolution | 232318 | [232318-warlord-arena-evolution.json](./232318-warlord-arena-evolution.json) |
+| Warlord: Attrition | 117260 | [117260-warlord-attrition.json](./117260-warlord-attrition.json) |
 | Warlord: Awaji | 417248 | [417248-warlord-awaji.json](./417248-warlord-awaji.json) |
 | Warlord: Britannia | 199476 | [199476-warlord-britannia.json](./199476-warlord-britannia.json) |
 | WarLord: Edenui Churak | 220281 | [220281-warlord-edenui-churak.json](./220281-warlord-edenui-churak.json) |
@@ -4521,6 +4523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whiskers' Wish | 386498 | [386498-whiskers-wish.json](./386498-whiskers-wish.json) |
 | Whiskerwood | 309324 | [309324-whiskerwood.json](./309324-whiskerwood.json) |
 | Whiskerwood Vale | 350590 | [350590-whiskerwood-vale.json](./350590-whiskerwood-vale.json) |
+| Whiskey & Zombies | 117253 | [117253-whiskey-and-zombies.json](./117253-whiskey-and-zombies.json) |
 | Whiskey Bravo | 189174 | [189174-whiskey-bravo.json](./189174-whiskey-bravo.json) |
 | Whiskey Island | 148467 | [148467-whiskey-island.json](./148467-whiskey-island.json) |
 | Whiskey Mafia: Blacklist | 380649 | [380649-whiskey-mafia-blacklist.json](./380649-whiskey-mafia-blacklist.json) |
@@ -7088,6 +7091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolf The Lone Hunt | 274968 | [274968-wolf-the-lone-hunt.json](./274968-wolf-the-lone-hunt.json) |
 | Wolf West | 261826 | [261826-wolf-west.json](./261826-wolf-west.json) |
 | Wolf: The Evolution Story | 108350 | [108350-wolf-the-evolution-story.json](./108350-wolf-the-evolution-story.json) |
+| Wolf's Fury | 117234 | [117234-wolfs-fury.json](./117234-wolfs-fury.json) |
 | Wolf's Gang | 142430 | [142430-wolfs-gang.json](./142430-wolfs-gang.json) |
 | Wolf's Wool | 176936 | [176936-wolfs-wool.json](./176936-wolfs-wool.json) |
 | Wolfan | 53160 | [53160-wolfan.json](./53160-wolfan.json) |
