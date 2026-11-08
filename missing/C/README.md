@@ -12354,6 +12354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Infinity | 101023 | [101023-color-infinity.json](./101023-color-infinity.json) |
 | Color Invader VR | 236874 | [236874-color-invader-vr.json](./236874-color-invader-vr.json) |
 | Color Island: Pixel Art | 280221 | [280221-color-island-pixel-art.json](./280221-color-island-pixel-art.json) |
+| Color Jump | 90753 | [90753-color-jump.json](./90753-color-jump.json) |
 | Color Knight | 112792 | [112792-color-knight.json](./112792-color-knight.json) |
 | Color Lab | 192973 | [192973-color-lab.json](./192973-color-lab.json) |
 | Color Lim | 236141 | [236141-color-lim.json](./236141-color-lim.json) |
@@ -12547,6 +12548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coloring Book - Halloween | 87110 | [87110-coloring-book-halloween.json](./87110-coloring-book-halloween.json) |
 | Coloring Book - Monsters | 89789 | [89789-coloring-book-monsters.json](./89789-coloring-book-monsters.json) |
 | Coloring Book - Santa | 89029 | [89029-coloring-book-santa.json](./89029-coloring-book-santa.json) |
+| Coloring Book - Sports | 90772 | [90772-coloring-book-sports.json](./90772-coloring-book-sports.json) |
 | Coloring Book - Travel | 89544 | [89544-coloring-book-travel.json](./89544-coloring-book-travel.json) |
 | Coloring Book - Travel MAX | 95296 | [95296-coloring-book-travel-max.json](./95296-coloring-book-travel-max.json) |
 | Coloring Book - Yummies | 89528 | [89528-coloring-book-yummies.json](./89528-coloring-book-yummies.json) |
@@ -12876,6 +12878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Columns GB: Tezuka Osamu Characters | 72044 | [72044-columns-gb-tezuka-osamu-characters.json](./72044-columns-gb-tezuka-osamu-characters.json) |
 | Columns II: The Voyage Through Time | 14985 | [14985-columns-ii-the-voyage-through-time.json](./14985-columns-ii-the-voyage-through-time.json) |
 | Columns III | 14971 | [14971-columns-iii.json](./14971-columns-iii.json) |
+| Columns Reloaded | 90731 | [90731-columns-reloaded.json](./90731-columns-reloaded.json) |
 | Com__et | 267808 | [267808-com-et.json](./267808-com-et.json) |
 | Com2uS Pro Baseball V24 | 303176 | [303176-com2us-pro-baseball-v24.json](./303176-com2us-pro-baseball-v24.json) |
 | Coma | 222695 | [222695-coma.json](./222695-coma.json) |
@@ -15801,6 +15804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CotBot Farm | 100496 | [100496-cotbot-farm.json](./100496-cotbot-farm.json) |
 | CoThrust | 369832 | [369832-cothrust.json](./369832-cothrust.json) |
 | Cotorro en Mano | 334712 | [334712-cotorro-en-mano.json](./334712-cotorro-en-mano.json) |
+| Cotrio | 90725 | [90725-cotrio.json](./90725-cotrio.json) |
 | Cotropitorii | 113007 | [113007-cotropitorii.json](./113007-cotropitorii.json) |
 | Cottage Garden | 74224 | [74224-cottage-garden.json](./74224-cottage-garden.json) |
 | Cotton 100% | 182015 | [182015-cotton-100.json](./182015-cotton-100.json) |
