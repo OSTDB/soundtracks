@@ -1827,6 +1827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Annihilation | 323410 | [323410-fantastic-annihilation.json](./323410-fantastic-annihilation.json) |
 | Fantastic Baseball | 292785 | [292785-fantastic-baseball.json](./292785-fantastic-baseball.json) |
 | Fantastic Beasts and Where to Find Them | 83979 | [83979-fantastic-beasts-and-where-to-find-them.json](./83979-fantastic-beasts-and-where-to-find-them.json) |
+| Fantastic Beasts and Where to Find Them: VR Experience | 98482 | [98482-fantastic-beasts-and-where-to-find-them-vr-experience.json](./98482-fantastic-beasts-and-where-to-find-them-vr-experience.json) |
 | Fantastic Checkers | 89798 | [89798-fantastic-checkers.json](./89798-fantastic-checkers.json) |
 | Fantastic Checkers 2 | 31677 | [31677-fantastic-checkers-2.json](./31677-fantastic-checkers-2.json) |
 | Fantastic Chefs: Match 'n Cook | 104760 | [104760-fantastic-chefs-match-n-cook.json](./104760-fantastic-chefs-match-n-cook.json) |
