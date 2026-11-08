@@ -7525,6 +7525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flapple Bird | 222746 | [222746-flapple-bird.json](./222746-flapple-bird.json) |
 | Flappuccino | 184687 | [184687-flappuccino.json](./184687-flappuccino.json) |
 | Flappy | 195527 | [195527-flappy.json](./195527-flappy.json) |
+| Flappy | 78238 | [78238-flappy.json](./78238-flappy.json) |
 | Flappy 2: The Resurrection of Blue Star | 62199 | [62199-flappy-2-the-resurrection-of-blue-star.json](./62199-flappy-2-the-resurrection-of-blue-star.json) |
 | Flappy Alien | 311232 | [311232-flappy-alien.json](./311232-flappy-alien.json) |
 | Flappy Arms | 81698 | [81698-flappy-arms.json](./81698-flappy-arms.json) |
