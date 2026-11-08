@@ -1332,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oil Era | 214286 | [214286-oil-era.json](./214286-oil-era.json) |
 | Oil Filling | 264103 | [264103-oil-filling.json](./264103-oil-filling.json) |
 | Oil Manager | 215627 | [215627-oil-manager.json](./215627-oil-manager.json) |
+| Oil Mogul | 126758 | [126758-oil-mogul.json](./126758-oil-mogul.json) |
 | Oil Panic | 145208 | [145208-oil-panic.json](./145208-oil-panic.json) |
 | Oil Panic | 228397 | [228397-oil-panic.json](./228397-oil-panic.json) |
 | Oil Panic | 231724 | [231724-oil-panic.json](./231724-oil-panic.json) |
