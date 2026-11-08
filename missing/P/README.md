@@ -1629,6 +1629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Dungeons | 10654 | [10654-paper-dungeons.json](./10654-paper-dungeons.json) |
 | Paper Dungeons Crawler | 95573 | [95573-paper-dungeons-crawler.json](./95573-paper-dungeons-crawler.json) |
 | Paper Enchantress | 192742 | [192742-paper-enchantress.json](./192742-paper-enchantress.json) |
+| Paper Fire Rookie Arcade | 116550 | [116550-paper-fire-rookie-arcade.json](./116550-paper-fire-rookie-arcade.json) |
 | Paper Fire! Rookie | 74138 | [74138-paper-fire-rookie.json](./74138-paper-fire-rookie.json) |
 | Paper Flight: Beyond Time | 236130 | [236130-paper-flight-beyond-time.json](./236130-paper-flight-beyond-time.json) |
 | Paper Flight: Future Battles | 263236 | [263236-paper-flight-future-battles.json](./263236-paper-flight-future-battles.json) |
@@ -4669,6 +4670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perry Cooking American Hamburger | 365024 | [365024-perry-cooking-american-hamburger.json](./365024-perry-cooking-american-hamburger.json) |
 | Perry Rhodan: Myth of the Illochim | 50389 | [50389-perry-rhodan-myth-of-the-illochim.json](./50389-perry-rhodan-myth-of-the-illochim.json) |
 | Perry Rhodan: Operation Eastside | 72100 | [72100-perry-rhodan-operation-eastside.json](./72100-perry-rhodan-operation-eastside.json) |
+| Perry Rhodan: Thoregon - Die verbotene Stadt | 116601 | [116601-perry-rhodan-thoregon-die-verbotene-stadt.json](./116601-perry-rhodan-thoregon-die-verbotene-stadt.json) |
 | Perry the Pumpkin | 224763 | [224763-perry-the-pumpkin.json](./224763-perry-the-pumpkin.json) |
 | Persecution: The Elevator | 311154 | [311154-persecution-the-elevator.json](./311154-persecution-the-elevator.json) |
 | Persephone | 122151 | [122151-persephone.json](./122151-persephone.json) |
