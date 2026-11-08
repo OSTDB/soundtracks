@@ -2393,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon: Home Sweet Home Special Edition | 361908 | [361908-harvest-moon-home-sweet-home-special-edition.json](./361908-harvest-moon-home-sweet-home-special-edition.json) |
 | Harvest Moon: Intuitive Ranch Master | 219076 | [219076-harvest-moon-intuitive-ranch-master.json](./219076-harvest-moon-intuitive-ranch-master.json) |
 | Harvest Moon: Light of Hope | 28843 | [28843-harvest-moon-light-of-hope.json](./28843-harvest-moon-light-of-hope.json) |
+| Harvest Moon: Light of Hope - Complete Special Edition | 136018 | [136018-harvest-moon-light-of-hope-complete-special-edition.json](./136018-harvest-moon-light-of-hope-complete-special-edition.json) |
 | Harvest Moon: Light of Hope - Decorations & Tool Upgrade Pack | 404555 | [404555-harvest-moon-light-of-hope-decorations-and-tool-upgrade-pack.json](./404555-harvest-moon-light-of-hope-decorations-and-tool-upgrade-pack.json) |
 | Harvest Moon: Light of Hope - Special Edition: Divine Marriageable Characters Pack | 225043 | [225043-harvest-moon-light-of-hope-special-edition-divine-marriageable-characters-pack.json](./225043-harvest-moon-light-of-hope-special-edition-divine-marriageable-characters-pack.json) |
 | Harvest Moon: Light of Hope - Special Edition: Doc's & Melanie's Special Episodes | 171296 | [171296-harvest-moon-light-of-hope-special-edition-docs-and-melanies-special-episodes.json](./171296-harvest-moon-light-of-hope-special-edition-docs-and-melanies-special-episodes.json) |
