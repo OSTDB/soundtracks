@@ -10395,6 +10395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lǜyěxiānzōng | 320152 | [320152-luyexianzong.json](./320152-luyexianzong.json) |
 | LV-426 | 125139 | [125139-lv-426.json](./125139-lv-426.json) |
 | LV99: Final Fortress | 140592 | [140592-lv99-final-fortress.json](./140592-lv99-final-fortress.json) |
+| LVL | 106042 | [106042-lvl.json](./106042-lvl.json) |
 | LvL50 | 299187 | [299187-lvl50.json](./299187-lvl50.json) |
 | LVL99: AxeRage | 125917 | [125917-lvl99-axerage.json](./125917-lvl99-axerage.json) |
 | LVN Fake News | 105740 | [105740-lvn-fake-news.json](./105740-lvn-fake-news.json) |
