@@ -2848,6 +2848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nestify | 403936 | [403936-nestify.json](./403936-nestify.json) |
 | Nestle Close | 97620 | [97620-nestle-close.json](./97620-nestle-close.json) |
 | Nestle Close 2 | 97618 | [97618-nestle-close-2.json](./97618-nestle-close-2.json) |
+| Nestle Close 3 | 97607 | [97607-nestle-close-3.json](./97607-nestle-close-3.json) |
 | Nestlé: Mais Divertido | 341273 | [341273-nestle-mais-divertido.json](./341273-nestle-mais-divertido.json) |
 | Nestlé: The Lion King | 273682 | [273682-nestle-the-lion-king.json](./273682-nestle-the-lion-king.json) |
 | Nestor the Nesting Bird | 259548 | [259548-nestor-the-nesting-bird.json](./259548-nestor-the-nesting-bird.json) |
@@ -5499,6 +5500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nintama Rantarou | 37741 | [37741-nintama-rantarou.json](./37741-nintama-rantarou.json) |
 | Nintama Rantarou 2 | 38114 | [38114-nintama-rantarou-2.json](./38114-nintama-rantarou-2.json) |
 | Nintama Rantarou 3 | 38113 | [38113-nintama-rantarou-3.json](./38113-nintama-rantarou-3.json) |
+| Nintama Rantarou 64 Game Gallery | 97956 | [97956-nintama-rantarou-64-game-gallery.json](./97956-nintama-rantarou-64-game-gallery.json) |
 | Nintama Rantarou GB | 138095 | [138095-nintama-rantarou-gb.json](./138095-nintama-rantarou-gb.json) |
 | Nintama Rantarou GB: E-awase Challenge Puzzle | 97862 | [97862-nintama-rantarou-gb-e-awase-challenge-puzzle.json](./97862-nintama-rantarou-gb-e-awase-challenge-puzzle.json) |
 | Nintama Rantarou Mugen no Tsubo Daibousou no Dan | 227251 | [227251-nintama-rantarou-mugen-no-tsubo-daibousou-no-dan.json](./227251-nintama-rantarou-mugen-no-tsubo-daibousou-no-dan.json) |
