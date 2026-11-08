@@ -7057,10 +7057,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest II: Destiny of Velious | 66464 | [66464-everquest-ii-destiny-of-velious.json](./66464-everquest-ii-destiny-of-velious.json) |
 | EverQuest II: Echoes of Faydwer | 20631 | [20631-everquest-ii-echoes-of-faydwer.json](./20631-everquest-ii-echoes-of-faydwer.json) |
 | EverQuest II: Kingdom of Sky | 20490 | [20490-everquest-ii-kingdom-of-sky.json](./20490-everquest-ii-kingdom-of-sky.json) |
+| EverQuest II: Kunark Ascending | 80072 | [80072-everquest-ii-kunark-ascending.json](./80072-everquest-ii-kunark-ascending.json) |
 | EverQuest II: Planes of Prophecy | 75212 | [75212-everquest-ii-planes-of-prophecy.json](./75212-everquest-ii-planes-of-prophecy.json) |
 | EverQuest II: Rise of Kunark | 21510 | [21510-everquest-ii-rise-of-kunark.json](./21510-everquest-ii-rise-of-kunark.json) |
 | EverQuest II: Sentinel's Fate | 4208 | [4208-everquest-ii-sentinels-fate.json](./4208-everquest-ii-sentinels-fate.json) |
 | EverQuest II: Tears of Veeshan | 63062 | [63062-everquest-ii-tears-of-veeshan.json](./63062-everquest-ii-tears-of-veeshan.json) |
+| EverQuest II: Terrors of Thalumbra | 80071 | [80071-everquest-ii-terrors-of-thalumbra.json](./80071-everquest-ii-terrors-of-thalumbra.json) |
 | EverQuest II: The Bloodline Chronicles | 111024 | [111024-everquest-ii-the-bloodline-chronicles.json](./111024-everquest-ii-the-bloodline-chronicles.json) |
 | EverQuest II: The Fallen Dynasty | 20533 | [20533-everquest-ii-the-fallen-dynasty.json](./20533-everquest-ii-the-fallen-dynasty.json) |
 | EverQuest II: The Shadow Odyssey | 78366 | [78366-everquest-ii-the-shadow-odyssey.json](./78366-everquest-ii-the-shadow-odyssey.json) |
