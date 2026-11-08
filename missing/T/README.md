@@ -5229,6 +5229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thailand Bus Simulator | 384617 | [384617-thailand-bus-simulator.json](./384617-thailand-bus-simulator.json) |
 | Thalamus | 188742 | [188742-thalamus.json](./188742-thalamus.json) |
 | Thalamus Collection 1 | 299490 | [299490-thalamus-collection-1.json](./299490-thalamus-collection-1.json) |
+| Thalamus: The Hits | 137215 | [137215-thalamus-the-hits.json](./137215-thalamus-the-hits.json) |
 | Thalamus: The Hits 2 | 137468 | [137468-thalamus-the-hits-2.json](./137468-thalamus-the-hits-2.json) |
 | Thalassa: Edge of the Abyss | 250287 | [250287-thalassa-edge-of-the-abyss.json](./250287-thalassa-edge-of-the-abyss.json) |
 | Thalassic | 238728 | [238728-thalassic.json](./238728-thalassic.json) |
@@ -5608,6 +5609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Bond... Basildon Bond | 41149 | [41149-the-adventures-of-bond-basildon-bond.json](./41149-the-adventures-of-bond-basildon-bond.json) |
 | The Adventures of Boney Joe | 182675 | [182675-the-adventures-of-boney-joe.json](./182675-the-adventures-of-boney-joe.json) |
 | The Adventures of Bouapha: Spooky Castle | 222714 | [222714-the-adventures-of-bouapha-spooky-castle.json](./222714-the-adventures-of-bouapha-spooky-castle.json) |
+| The Adventures of Boxman | 137188 | [137188-the-adventures-of-boxman.json](./137188-the-adventures-of-boxman.json) |
 | The Adventures of Bruce Flea | 258474 | [258474-the-adventures-of-bruce-flea.json](./258474-the-adventures-of-bruce-flea.json) |
 | The Adventures of Bryan Scott | 172541 | [172541-the-adventures-of-bryan-scott.json](./172541-the-adventures-of-bryan-scott.json) |
 | The Adventures of Buckaroo Banzai: Across the Eighth Dimension | 2299 | [2299-the-adventures-of-buckaroo-banzai-across-the-eighth-dimension.json](./2299-the-adventures-of-buckaroo-banzai-across-the-eighth-dimension.json) |
@@ -7190,6 +7192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Castle Game | 20045 | [20045-the-castle-game.json](./20045-the-castle-game.json) |
 | The Castle Mystery | 266020 | [266020-the-castle-mystery.json](./266020-the-castle-mystery.json) |
 | The Castle of Dr. Hoot | 412448 | [412448-the-castle-of-dr-hoot.json](./412448-the-castle-of-dr-hoot.json) |
+| The Castle of Dr. Malvado | 137210 | [137210-the-castle-of-dr-malvado.json](./137210-the-castle-of-dr-malvado.json) |
 | The Castle of Koohoo | 271062 | [271062-the-castle-of-koohoo.json](./271062-the-castle-of-koohoo.json) |
 | The Castle of the Internet Invasion | 63707 | [63707-the-castle-of-the-internet-invasion.json](./63707-the-castle-of-the-internet-invasion.json) |
 | The Castle of the West | 412533 | [412533-the-castle-of-the-west.json](./412533-the-castle-of-the-west.json) |
@@ -16620,6 +16623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Silence of Darkness | 30186 | [30186-the-silence-of-darkness.json](./30186-the-silence-of-darkness.json) |
 | The Silence of Dawn | 422842 | [422842-the-silence-of-dawn.json](./422842-the-silence-of-dawn.json) |
 | The Silence Outside | 75928 | [75928-the-silence-outside.json](./75928-the-silence-outside.json) |
+| The Silence Under Your Bed | 137220 | [137220-the-silence-under-your-bed.json](./137220-the-silence-under-your-bed.json) |
 | The Silence: Deep Sleep | 412889 | [412889-the-silence-deep-sleep.json](./412889-the-silence-deep-sleep.json) |
 | The Silence: The Forest | 411372 | [411372-the-silence-the-forest.json](./411372-the-silence-the-forest.json) |
 | The Silenct City Chapter Two | 255470 | [255470-the-silenct-city-chapter-two.json](./255470-the-silenct-city-chapter-two.json) |
@@ -18515,6 +18519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ultimate Simpsons Doom | 196021 | [196021-the-ultimate-simpsons-doom.json](./196021-the-ultimate-simpsons-doom.json) |
 | The Ultimate Sonic Bundle | 165855 | [165855-the-ultimate-sonic-bundle.json](./165855-the-ultimate-sonic-bundle.json) |
 | The Ultimate Sports Quiz | 241454 | [241454-the-ultimate-sports-quiz.json](./241454-the-ultimate-sports-quiz.json) |
+| The Ultimate Strategy Game Collection I | 137184 | [137184-the-ultimate-strategy-game-collection-i.json](./137184-the-ultimate-strategy-game-collection-i.json) |
 | The Ultimate Torment and Torture | 196028 | [196028-the-ultimate-torment-and-torture.json](./196028-the-ultimate-torment-and-torture.json) |
 | The Ultimate Trivia CD | 72056 | [72056-the-ultimate-trivia-cd.json](./72056-the-ultimate-trivia-cd.json) |
 | The Ultimate Trivia Challenge | 74205 | [74205-the-ultimate-trivia-challenge.json](./74205-the-ultimate-trivia-challenge.json) |
@@ -18532,6 +18537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ump Show | 272403 | [272403-the-ump-show.json](./272403-the-ump-show.json) |
 | The Un-Beatable Game | 161588 | [161588-the-un-beatable-game.json](./161588-the-un-beatable-game.json) |
 | The Unachievable Game | 205232 | [205232-the-unachievable-game.json](./205232-the-unachievable-game.json) |
+| The Unbeatable Path | 137209 | [137209-the-unbeatable-path.json](./137209-the-unbeatable-path.json) |
 | The Unbreakable Chain | 62967 | [62967-the-unbreakable-chain.json](./62967-the-unbreakable-chain.json) |
 | The Unbreakable Gumball | 108316 | [108316-the-unbreakable-gumball.json](./108316-the-unbreakable-gumball.json) |
 | The Uncanny X-Men | 48050 | [48050-the-uncanny-x-men.json](./48050-the-uncanny-x-men.json) |
@@ -32363,6 +32369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Love | 76455 | [76455-true-love.json](./76455-true-love.json) |
 | True Love For Her | 297042 | [297042-true-love-for-her.json](./297042-true-love-for-her.json) |
 | True Love Story | 137873 | [137873-true-love-story.json](./137873-true-love-story.json) |
+| True Love Story 2 | 137221 | [137221-true-love-story-2.json](./137221-true-love-story-2.json) |
 | True Love Story 3 | 138012 | [138012-true-love-story-3.json](./138012-true-love-story-3.json) |
 | True Love Story F - Fan Disc | 166380 | [166380-true-love-story-f-fan-disc.json](./166380-true-love-story-f-fan-disc.json) |
 | True Love Story: Remember My Heart | 166378 | [166378-true-love-story-remember-my-heart.json](./166378-true-love-story-remember-my-heart.json) |
@@ -33502,6 +33509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twelfth Life | 211989 | [211989-twelfth-life.json](./211989-twelfth-life.json) |
 | Twell | 241379 | [241379-twell.json](./241379-twell.json) |
 | Twelve a Dozen | 23428 | [23428-twelve-a-dozen.json](./23428-twelve-a-dozen.json) |
+| Twelve Containers | 137187 | [137187-twelve-containers.json](./137187-twelve-containers.json) |
 | Twelve Floors Below. | 173348 | [173348-twelve-floors-below.json](./173348-twelve-floors-below.json) |
 | Twelve Mental Patients | 359362 | [359362-twelve-mental-patients.json](./359362-twelve-mental-patients.json) |
 | Twelve Sky | 67321 | [67321-twelve-sky.json](./67321-twelve-sky.json) |
