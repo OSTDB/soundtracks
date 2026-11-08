@@ -2306,6 +2306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry: Delta Sector | 51227 | [51227-far-cry-delta-sector.json](./51227-far-cry-delta-sector.json) |
 | Far Cry: Gold Pack | 219001 | [219001-far-cry-gold-pack.json](./219001-far-cry-gold-pack.json) |
 | Far Cry: New Dawn - Deluxe Edition | 113195 | [113195-far-cry-new-dawn-deluxe-edition.json](./113195-far-cry-new-dawn-deluxe-edition.json) |
+| Far Cry: New Dawn - Limited Edition | 136011 | [136011-far-cry-new-dawn-limited-edition.json](./136011-far-cry-new-dawn-limited-edition.json) |
 | Far Cry: New Dawn - Superbloom Edition | 139908 | [139908-far-cry-new-dawn-superbloom-edition.json](./139908-far-cry-new-dawn-superbloom-edition.json) |
 | Far Cry: Primal - Special Edition | 53017 | [53017-far-cry-primal-special-edition.json](./53017-far-cry-primal-special-edition.json) |
 | Far Cry: Primal - Wenja Pack | 117513 | [117513-far-cry-primal-wenja-pack.json](./117513-far-cry-primal-wenja-pack.json) |
@@ -5991,6 +5992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Emblem: Three Houses - Collector's Edition | 134235 | [134235-fire-emblem-three-houses-collectors-edition.json](./134235-fire-emblem-three-houses-collectors-edition.json) |
 | Fire Emblem: Three Houses - Expansion Pass | 293729 | [293729-fire-emblem-three-houses-expansion-pass.json](./293729-fire-emblem-three-houses-expansion-pass.json) |
 | Fire Emblem: Three Houses - Fódlan Collection | 115999 | [115999-fire-emblem-three-houses-fodlan-collection.json](./115999-fire-emblem-three-houses-fodlan-collection.json) |
+| Fire Emblem: Three Houses - Limited Edition | 136023 | [136023-fire-emblem-three-houses-limited-edition.json](./136023-fire-emblem-three-houses-limited-edition.json) |
 | Fire Emblem: Three Houses - Seasons of Warfare Edition | 136363 | [136363-fire-emblem-three-houses-seasons-of-warfare-edition.json](./136363-fire-emblem-three-houses-seasons-of-warfare-edition.json) |
 | Fire Emblem: Three Houses + Expansion Pass | 293730 | [293730-fire-emblem-three-houses-expansion-pass.json](./293730-fire-emblem-three-houses-expansion-pass.json) |
 | Fire Emblem: Vision Quest | 141237 | [141237-fire-emblem-vision-quest.json](./141237-fire-emblem-vision-quest.json) |
@@ -6884,6 +6886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fist of the North Star: Ken's Rage | 6995 | [6995-fist-of-the-north-star-kens-rage.json](./6995-fist-of-the-north-star-kens-rage.json) |
 | Fist of the North Star: Ken's Rage 2 | 5313 | [5313-fist-of-the-north-star-kens-rage-2.json](./5313-fist-of-the-north-star-kens-rage-2.json) |
 | Fist of the North Star: Lost Paradise | 55112 | [55112-fist-of-the-north-star-lost-paradise.json](./55112-fist-of-the-north-star-lost-paradise.json) |
+| Fist of the North Star: Lost Paradise - Kenshiro Edition | 135975 | [135975-fist-of-the-north-star-lost-paradise-kenshiro-edition.json](./135975-fist-of-the-north-star-lost-paradise-kenshiro-edition.json) |
 | Fist of the North Star: Lost Paradise - Premium Edition | 212335 | [212335-fist-of-the-north-star-lost-paradise-premium-edition.json](./212335-fist-of-the-north-star-lost-paradise-premium-edition.json) |
 | Fist of the Stray Dog | 250770 | [250770-fist-of-the-stray-dog.json](./250770-fist-of-the-stray-dog.json) |
 | Fist of Truth | 98502 | [98502-fist-of-truth.json](./98502-fist-of-truth.json) |
@@ -10074,6 +10077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten Faces | 47998 | [47998-forgotten-faces.json](./47998-forgotten-faces.json) |
 | Forgotten Faiths | 381092 | [381092-forgotten-faiths.json](./381092-forgotten-faiths.json) |
 | Forgotten Fears | 312734 | [312734-forgotten-fears.json](./312734-forgotten-fears.json) |
+| Forgotten Fields | 136029 | [136029-forgotten-fields.json](./136029-forgotten-fields.json) |
 | Forgotten Fluff | 406748 | [406748-forgotten-fluff.json](./406748-forgotten-fluff.json) |
 | Forgotten Forest: Afterlife | 58301 | [58301-forgotten-forest-afterlife.json](./58301-forgotten-forest-afterlife.json) |
 | Forgotten Forest: Eye of the Great One | 148314 | [148314-forgotten-forest-eye-of-the-great-one.json](./148314-forgotten-forest-eye-of-the-great-one.json) |
@@ -13998,6 +14002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furuta Atsuya no Simulation Pro Yakyuu 2 | 56409 | [56409-furuta-atsuya-no-simulation-pro-yakyuu-2.json](./56409-furuta-atsuya-no-simulation-pro-yakyuu-2.json) |
 | Furwind | 27726 | [27726-furwind.json](./27726-furwind.json) |
 | Furwind: Limited Edition | 167049 | [167049-furwind-limited-edition.json](./167049-furwind-limited-edition.json) |
+| Furwind: Special Edition | 136005 | [136005-furwind-special-edition.json](./136005-furwind-special-edition.json) |
 | Fury | 21227 | [21227-fury.json](./21227-fury.json) |
 | Fury | 240773 | [240773-fury.json](./240773-fury.json) |
 | Fury Battle Dragon | 188275 | [188275-fury-battle-dragon.json](./188275-fury-battle-dragon.json) |
