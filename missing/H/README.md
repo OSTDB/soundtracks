@@ -1020,6 +1020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hamidashi Creative: Limited Edition | 146033 | [146033-hamidashi-creative-limited-edition.json](./146033-hamidashi-creative-limited-edition.json) |
 | Hamilton's Great Adventure: Retro Fever DLC | 29212 | [29212-hamiltons-great-adventure-retro-fever-dlc.json](./29212-hamiltons-great-adventure-retro-fever-dlc.json) |
 | HamJam!! | 108972 | [108972-hamjam.json](./108972-hamjam.json) |
+| Hamlet | 108579 | [108579-hamlet.json](./108579-hamlet.json) |
 | Hamlet | 176717 | [176717-hamlet.json](./176717-hamlet.json) |
 | Hamlet in a Pond | 306081 | [306081-hamlet-in-a-pond.json](./306081-hamlet-in-a-pond.json) |
 | Hamlet or the Last Game without MMORPG Features, Shaders and Product Placement | 28221 | [28221-hamlet-or-the-last-game-without-mmorpg-features-shaders-and-product-placement.json](./28221-hamlet-or-the-last-game-without-mmorpg-features-shaders-and-product-placement.json) |
@@ -4482,6 +4483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Bendy Machine 5 Nights | 104126 | [104126-hello-bendy-machine-5-nights.json](./104126-hello-bendy-machine-5-nights.json) |
 | Hello Benny - Horror Machine | 106379 | [106379-hello-benny-horror-machine.json](./106379-hello-benny-horror-machine.json) |
 | Hello Brain | 96717 | [96717-hello-brain.json](./96717-hello-brain.json) |
+| Hello Cats! | 108585 | [108585-hello-cats.json](./108585-hello-cats.json) |
 | Hello Charlotte Ep.1: Junk Food, Gods and Teddy Bears | 30480 | [30480-hello-charlotte-ep-1-junk-food-gods-and-teddy-bears.json](./30480-hello-charlotte-ep-1-junk-food-gods-and-teddy-bears.json) |
 | Hello Charlotte Ep.2: Requiem Aeternam Deo | 135360 | [135360-hello-charlotte-ep-2-requiem-aeternam-deo.json](./135360-hello-charlotte-ep-2-requiem-aeternam-deo.json) |
 | Hello Charlotte Ep.3: Childhood's End | 76802 | [76802-hello-charlotte-ep-3-childhoods-end.json](./76802-hello-charlotte-ep-3-childhoods-end.json) |
@@ -9002,6 +9004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Holiday Bonus Gold | 29929 | [29929-holiday-bonus-gold.json](./29929-holiday-bonus-gold.json) |
 | Holiday Cheer 3 | 173332 | [173332-holiday-cheer-3.json](./173332-holiday-cheer-3.json) |
 | Holiday Dash! | 251357 | [251357-holiday-dash.json](./251357-holiday-dash.json) |
+| Holiday Escape | 108000 | [108000-holiday-escape.json](./108000-holiday-escape.json) |
 | Holiday Express | 54088 | [54088-holiday-express.json](./54088-holiday-express.json) |
 | Holiday Eye Spy | 332177 | [332177-holiday-eye-spy.json](./332177-holiday-eye-spy.json) |
 | Holiday Eye Spy 2 | 391337 | [391337-holiday-eye-spy-2.json](./391337-holiday-eye-spy-2.json) |
