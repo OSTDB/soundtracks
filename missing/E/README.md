@@ -1415,6 +1415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EF Universe: Reclaiming the World | 116179 | [116179-ef-universe-reclaiming-the-world.json](./116179-ef-universe-reclaiming-the-world.json) |
 | EF-12: Fighting Game Maker | 57074 | [57074-ef-12-fighting-game-maker.json](./57074-ef-12-fighting-game-maker.json) |
 | Ef: The First Tale. | 122811 | [122811-ef-the-first-tale.json](./122811-ef-the-first-tale.json) |
+| Ef: The Latter Tale. | 123720 | [123720-ef-the-latter-tale.json](./123720-ef-the-latter-tale.json) |
 | EF2000 TACTCOM | 77647 | [77647-ef2000-tactcom.json](./77647-ef2000-tactcom.json) |
 | EF2000 v2.0 | 677 | [677-ef2000-v2-0.json](./677-ef2000-v2-0.json) |
 | Efemeris | 234204 | [234204-efemeris.json](./234204-efemeris.json) |
@@ -2787,6 +2788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elo Hell: Episodes 1-5 | 174429 | [174429-elo-hell-episodes-1-5.json](./174429-elo-hell-episodes-1-5.json) |
 | ELOA: Elite Lord of Alliance | 26535 | [26535-eloa-elite-lord-of-alliance.json](./26535-eloa-elite-lord-of-alliance.json) |
 | Elodya | 271087 | [271087-elodya.json](./271087-elodya.json) |
+| Eloh | 123674 | [123674-eloh.json](./123674-eloh.json) |
 | Elohim Eternal: Exodus | 339741 | [339741-elohim-eternal-exodus.json](./339741-elohim-eternal-exodus.json) |
 | Elohim Eternal: The Babel Code | 190358 | [190358-elohim-eternal-the-babel-code.json](./190358-elohim-eternal-the-babel-code.json) |
 | Elon | 193572 | [193572-elon.json](./193572-elon.json) |
@@ -3525,6 +3527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enchanted Kingdoms Bundle | 125130 | [125130-enchanted-kingdoms-bundle.json](./125130-enchanted-kingdoms-bundle.json) |
 | Enchanted Land | 12584 | [12584-enchanted-land.json](./12584-enchanted-land.json) |
 | Enchanted Memories | 386148 | [386148-enchanted-memories.json](./386148-enchanted-memories.json) |
+| Enchanted Portals | 123706 | [123706-enchanted-portals.json](./123706-enchanted-portals.json) |
 | Enchanted Portals: Tales Edition | 256171 | [256171-enchanted-portals-tales-edition.json](./256171-enchanted-portals-tales-edition.json) |
 | Enchanted Scepters | 31186 | [31186-enchanted-scepters.json](./31186-enchanted-scepters.json) |
 | Enchanted Solitaire | 386133 | [386133-enchanted-solitaire.json](./386133-enchanted-solitaire.json) |
