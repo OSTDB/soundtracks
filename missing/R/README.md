@@ -3884,6 +3884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Cube VR | 29013 | [29013-red-cube-vr.json](./29013-red-cube-vr.json) |
 | Red Dawn | 373799 | [373799-red-dawn.json](./373799-red-dawn.json) |
 | Red Dead Online | 141338 | [141338-red-dead-online.json](./141338-red-dead-online.json) |
+| Red Dead Pixel Man | 113242 | [113242-red-dead-pixel-man.json](./113242-red-dead-pixel-man.json) |
 | Red Dead Redemption | 260735 | [260735-red-dead-redemption.json](./260735-red-dead-redemption.json) |
 | Red Dead Redemption & Red Dead Redemption 2 Bundle | 262052 | [262052-red-dead-redemption-and-red-dead-redemption-2-bundle.json](./262052-red-dead-redemption-and-red-dead-redemption-2-bundle.json) |
 | Red Dead Redemption 2: Collector's Box | 103207 | [103207-red-dead-redemption-2-collectors-box.json](./103207-red-dead-redemption-2-collectors-box.json) |
@@ -7297,6 +7298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddles of Fate: Wild Hunt | 140149 | [140149-riddles-of-fate-wild-hunt.json](./140149-riddles-of-fate-wild-hunt.json) |
 | Riddles of Fate: Wild Hunt - Collector's Edition | 30538 | [30538-riddles-of-fate-wild-hunt-collectors-edition.json](./30538-riddles-of-fate-wild-hunt-collectors-edition.json) |
 | Riddles of the Owls Kingdom | 105370 | [105370-riddles-of-the-owls-kingdom.json](./105370-riddles-of-the-owls-kingdom.json) |
+| Riddles of the Owls' Kingdom: Magic Wings | 113247 | [113247-riddles-of-the-owls-kingdom-magic-wings.json](./113247-riddles-of-the-owls-kingdom-magic-wings.json) |
 | Riddles of the Past | 32090 | [32090-riddles-of-the-past.json](./32090-riddles-of-the-past.json) |
 | Riddles with Sir Connery | 314497 | [314497-riddles-with-sir-connery.json](./314497-riddles-with-sir-connery.json) |
 | RiddleWood | 392274 | [392274-riddlewood.json](./392274-riddlewood.json) |
@@ -9658,6 +9660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Mania | 195213 | [195213-rocket-mania.json](./195213-rocket-mania.json) |
 | Rocket Mania Deluxe | 27815 | [27815-rocket-mania-deluxe.json](./27815-rocket-mania-deluxe.json) |
 | Rocket Monsters | 222689 | [222689-rocket-monsters.json](./222689-rocket-monsters.json) |
+| Rocket Mouse | 113254 | [113254-rocket-mouse.json](./113254-rocket-mouse.json) |
 | Rocket of Whispers: Prologue | 107424 | [107424-rocket-of-whispers-prologue.json](./107424-rocket-of-whispers-prologue.json) |
 | Rocket Panda | 302425 | [302425-rocket-panda.json](./302425-rocket-panda.json) |
 | Rocket Panda Panic | 149818 | [149818-rocket-panda-panic.json](./149818-rocket-panda-panic.json) |
@@ -11261,6 +11264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rope Dancer | 359320 | [359320-rope-dancer.json](./359320-rope-dancer.json) |
 | Rope Heroes : Hole Runner Game | 108441 | [108441-rope-heroes-hole-runner-game.json](./108441-rope-heroes-hole-runner-game.json) |
 | Rope Hope | 317270 | [317270-rope-hope.json](./317270-rope-hope.json) |
+| Rope Racer O'Neon | 113219 | [113219-rope-racer-oneon.json](./113219-rope-racer-oneon.json) |
 | Rope Racers | 252937 | [252937-rope-racers.json](./252937-rope-racers.json) |
 | Rope Raider | 344110 | [344110-rope-raider.json](./344110-rope-raider.json) |
 | Rope Rescue | 65772 | [65772-rope-rescue.json](./65772-rope-rescue.json) |
