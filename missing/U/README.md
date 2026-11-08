@@ -3158,6 +3158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up Down All-a-Round | 301871 | [301871-up-down-all-a-round.json](./301871-up-down-all-a-round.json) |
 | Up Down Z | 136235 | [136235-up-down-z.json](./136235-up-down-z.json) |
 | Up for Grabs | 268025 | [268025-up-for-grabs.json](./268025-up-for-grabs.json) |
+| Up Golf | 96137 | [96137-up-golf.json](./96137-up-golf.json) |
 | Up Hike | 286992 | [286992-up-hike.json](./286992-up-hike.json) |
 | Up in the Air | 129931 | [129931-up-in-the-air.json](./129931-up-in-the-air.json) |
 | Up Island | 328188 | [328188-up-island.json](./328188-up-island.json) |
