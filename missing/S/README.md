@@ -3748,6 +3748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Screenbound | 293733 | [293733-screenbound.json](./293733-screenbound.json) |
 | ScreenCade | 411232 | [411232-screencade.json](./411232-screencade.json) |
 | Screencheat | 8816 | [8816-screencheat.json](./8816-screencheat.json) |
+| Screencheat: Unplugged | 112432 | [112432-screencheat-unplugged.json](./112432-screencheat-unplugged.json) |
 | ScreenPlay | 188603 | [188603-screenplay.json](./188603-screenplay.json) |
 | Screenplay in Autumn | 392757 | [392757-screenplay-in-autumn.json](./392757-screenplay-in-autumn.json) |
 | Screens Up by Nickelodeon | 105974 | [105974-screens-up-by-nickelodeon.json](./105974-screens-up-by-nickelodeon.json) |
@@ -5928,6 +5929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serial Hunter | 191572 | [191572-serial-hunter.json](./191572-serial-hunter.json) |
 | Serial Killers & Zombies: Horror Bundle | 393052 | [393052-serial-killers-and-zombies-horror-bundle.json](./393052-serial-killers-and-zombies-horror-bundle.json) |
 | Serial Lover | 133207 | [133207-serial-lover.json](./133207-serial-lover.json) |
+| Serial Numbers | 112436 | [112436-serial-numbers.json](./112436-serial-numbers.json) |
 | Serial Victims | 320081 | [320081-serial-victims.json](./320081-serial-victims.json) |
 | Serial Woman | 194857 | [194857-serial-woman.json](./194857-serial-woman.json) |
 | Serial World | 301328 | [301328-serial-world.json](./301328-serial-world.json) |
@@ -8379,6 +8381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shijou Saikyou Miyamoto Julia | 288156 | [288156-shijou-saikyou-miyamoto-julia.json](./288156-shijou-saikyou-miyamoto-julia.json) |
 | Shijou Saikyou No Deshi Kenichi: Gekitou! Ragnarok Hachikengou | 64664 | [64664-shijou-saikyou-no-deshi-kenichi-gekitou-ragnarok-hachikengou.json](./64664-shijou-saikyou-no-deshi-kenichi-gekitou-ragnarok-hachikengou.json) |
 | Shijou Saikyou no Quiz-ou Ketteisen Super | 38248 | [38248-shijou-saikyou-no-quiz-ou-ketteisen-super.json](./38248-shijou-saikyou-no-quiz-ou-ketteisen-super.json) |
+| Shiju Hachi: Kari | 112532 | [112532-shiju-hachi-kari.json](./112532-shiju-hachi-kari.json) |
 | Shikaku i Atama o Maru Kusuru | 100291 | [100291-shikaku-i-atama-o-maru-kusuru.json](./100291-shikaku-i-atama-o-maru-kusuru.json) |
 | Shikaku Shapes | 147662 | [147662-shikaku-shapes.json](./147662-shikaku-shapes.json) |
 | Shikakui Atama wo Maru Kusuru Advance: Kanji Keisan-hen | 49781 | [49781-shikakui-atama-wo-maru-kusuru-advance-kanji-keisan-hen.json](./49781-shikakui-atama-wo-maru-kusuru-advance-kanji-keisan-hen.json) |
@@ -8811,6 +8814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinseiki GPX Cyber Formula | 58063 | [58063-shinseiki-gpx-cyber-formula.json](./58063-shinseiki-gpx-cyber-formula.json) |
 | Shinseiki GPX Cyber Formula - Aratanaru Chousensha | 313049 | [313049-shinseiki-gpx-cyber-formula-aratanaru-chousensha.json](./313049-shinseiki-gpx-cyber-formula-aratanaru-chousensha.json) |
 | Shinseiki GPX Cyber Formula Sin Drei Plus | 112516 | [112516-shinseiki-gpx-cyber-formula-sin-drei-plus.json](./112516-shinseiki-gpx-cyber-formula-sin-drei-plus.json) |
+| Shinseiki GPX Cyber Formula Sin Vier | 112530 | [112530-shinseiki-gpx-cyber-formula-sin-vier.json](./112530-shinseiki-gpx-cyber-formula-sin-vier.json) |
 | Shinseiki GPX Cyber Formula Vs. | 58055 | [58055-shinseiki-gpx-cyber-formula-vs.json](./58055-shinseiki-gpx-cyber-formula-vs.json) |
 | Shinseiki GPX Cyber Formula: Road to the Infinity 2 | 58058 | [58058-shinseiki-gpx-cyber-formula-road-to-the-infinity-2.json](./58058-shinseiki-gpx-cyber-formula-road-to-the-infinity-2.json) |
 | Shinseiki GPX Cyber Formula: Road to the Infinity 3 | 58060 | [58060-shinseiki-gpx-cyber-formula-road-to-the-infinity-3.json](./58060-shinseiki-gpx-cyber-formula-road-to-the-infinity-3.json) |
@@ -11151,6 +11155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 1500 Series Vol. 25: The Keiba | 203011 | [203011-simple-1500-series-vol-25-the-keiba.json](./203011-simple-1500-series-vol-25-the-keiba.json) |
 | Simple 1500 Series Vol. 28: The Dungeon RPG | 203013 | [203013-simple-1500-series-vol-28-the-dungeon-rpg.json](./203013-simple-1500-series-vol-28-the-dungeon-rpg.json) |
 | Simple 1500 Series Vol. 29: The Tsuri | 203014 | [203014-simple-1500-series-vol-29-the-tsuri.json](./203014-simple-1500-series-vol-29-the-tsuri.json) |
+| Simple 1500 Series Vol. 31: The Sound Novel | 112548 | [112548-simple-1500-series-vol-31-the-sound-novel.json](./112548-simple-1500-series-vol-31-the-sound-novel.json) |
 | Simple 1500 Series Vol. 33: The Takkyuu | 203017 | [203017-simple-1500-series-vol-33-the-takkyuu.json](./203017-simple-1500-series-vol-33-the-takkyuu.json) |
 | Simple 1500 Series Vol. 34: The Quiz Bangumi | 203018 | [203018-simple-1500-series-vol-34-the-quiz-bangumi.json](./203018-simple-1500-series-vol-34-the-quiz-bangumi.json) |
 | Simple 1500 Series Vol. 36: The Renai Simulation - Natsu-iro Celebration | 203021 | [203021-simple-1500-series-vol-36-the-renai-simulation-natsu-iro-celebration.json](./203021-simple-1500-series-vol-36-the-renai-simulation-natsu-iro-celebration.json) |
@@ -11184,6 +11189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 1500 Series Vol. 71: The Renai Simulation 2 | 203067 | [203067-simple-1500-series-vol-71-the-renai-simulation-2.json](./203067-simple-1500-series-vol-71-the-renai-simulation-2.json) |
 | Simple 1500 Series Vol. 72: The Beach Volley | 203068 | [203068-simple-1500-series-vol-72-the-beach-volley.json](./203068-simple-1500-series-vol-72-the-beach-volley.json) |
 | Simple 1500 Series Vol. 73: The Invaders - Space Invaders 1500 | 203069 | [203069-simple-1500-series-vol-73-the-invaders-space-invaders-1500.json](./203069-simple-1500-series-vol-73-the-invaders-space-invaders-1500.json) |
+| Simple 1500 Series Vol. 74: The Horror Mystery - Sangekikan: Kevin-hakushaku no Fukkatsu | 112542 | [112542-simple-1500-series-vol-74-the-horror-mystery-sangekikan-kevin-hakushaku-no-fukkatsu.json](./112542-simple-1500-series-vol-74-the-horror-mystery-sangekikan-kevin-hakushaku-no-fukkatsu.json) |
 | Simple 1500 Series Vol. 75: The Double Shooting - Raystorm & Raycrisis | 203070 | [203070-simple-1500-series-vol-75-the-double-shooting-raystorm-and-raycrisis.json](./203070-simple-1500-series-vol-75-the-double-shooting-raystorm-and-raycrisis.json) |
 | Simple 1500 Series Vol. 77: The Suiei | 209500 | [209500-simple-1500-series-vol-77-the-suiei.json](./209500-simple-1500-series-vol-77-the-suiei.json) |
 | Simple 1500 Series Vol. 78: The Zero Yon | 203072 | [203072-simple-1500-series-vol-78-the-zero-yon.json](./203072-simple-1500-series-vol-78-the-zero-yon.json) |
@@ -33357,6 +33363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen Compact 3 | 37316 | [37316-super-robot-taisen-compact-3.json](./37316-super-robot-taisen-compact-3.json) |
 | Super Robot Taisen Complete Box | 79336 | [79336-super-robot-taisen-complete-box.json](./79336-super-robot-taisen-complete-box.json) |
 | Super Robot Taisen D | 6626 | [6626-super-robot-taisen-d.json](./6626-super-robot-taisen-d.json) |
+| Super Robot Taisen DD | 112429 | [112429-super-robot-taisen-dd.json](./112429-super-robot-taisen-dd.json) |
 | Super Robot Taisen EX | 240915 | [240915-super-robot-taisen-ex.json](./240915-super-robot-taisen-ex.json) |
 | Super Robot Taisen EX | 38234 | [38234-super-robot-taisen-ex.json](./38234-super-robot-taisen-ex.json) |
 | Super Robot Taisen F | 46667 | [46667-super-robot-taisen-f.json](./46667-super-robot-taisen-f.json) |
