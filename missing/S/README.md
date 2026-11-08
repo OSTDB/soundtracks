@@ -7383,6 +7383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai Mahjong | 205088 | [205088-shanghai-mahjong.json](./205088-shanghai-mahjong.json) |
 | Shanghai Mahjong Solitaire Premium II | 323112 | [323112-shanghai-mahjong-solitaire-premium-ii.json](./323112-shanghai-mahjong-solitaire-premium-ii.json) |
 | Shanghai Musume: Mahjong Girls | 58523 | [58523-shanghai-musume-mahjong-girls.json](./58523-shanghai-musume-mahjong-girls.json) |
+| Shanghai Office Simulator | 137203 | [137203-shanghai-office-simulator.json](./137203-shanghai-office-simulator.json) |
 | Shanghai Pocket | 37487 | [37487-shanghai-pocket.json](./37487-shanghai-pocket.json) |
 | Shanghai Refresh | 123268 | [123268-shanghai-refresh.json](./123268-shanghai-refresh.json) |
 | Shanghai Street Racer | 79547 | [79547-shanghai-street-racer.json](./79547-shanghai-street-racer.json) |
@@ -14067,6 +14068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slip Gear: Jet Pack | 28550 | [28550-slip-gear-jet-pack.json](./28550-slip-gear-jet-pack.json) |
 | Slip Gear: Jet Pack Wastlands | 28549 | [28549-slip-gear-jet-pack-wastlands.json](./28549-slip-gear-jet-pack-wastlands.json) |
 | Slip Oot | 368981 | [368981-slip-oot.json](./368981-slip-oot.json) |
+| Slip Slop | 137234 | [137234-slip-slop.json](./137234-slip-slop.json) |
 | Slip Stream | 39942 | [39942-slip-stream.json](./39942-slip-stream.json) |
 | Slip Tripping | 271189 | [271189-slip-tripping.json](./271189-slip-tripping.json) |
 | Slip, Slap 'n' Quack! | 177020 | [177020-slip-slap-n-quack.json](./177020-slip-slap-n-quack.json) |
@@ -18935,6 +18937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Recursion | 172183 | [172183-soul-recursion.json](./172183-soul-recursion.json) |
 | Soul Redemption | 369065 | [369065-soul-redemption.json](./369065-soul-redemption.json) |
 | Soul Return | 297346 | [297346-soul-return.json](./297346-soul-return.json) |
+| Soul Reverse Zero | 137202 | [137202-soul-reverse-zero.json](./137202-soul-reverse-zero.json) |
 | Soul Ride | 70976 | [70976-soul-ride.json](./70976-soul-ride.json) |
 | Soul Riders | 211672 | [211672-soul-riders.json](./211672-soul-riders.json) |
 | Soul Room | 114271 | [114271-soul-room.json](./114271-soul-room.json) |
@@ -20874,6 +20877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacey-Clopedia | 272484 | [272484-spacey-clopedia.json](./272484-spacey-clopedia.json) |
 | Spacident | 251134 | [251134-spacident.json](./251134-spacident.json) |
 | Spacious Snake | 178274 | [178274-spacious-snake.json](./178274-spacious-snake.json) |
+| Spacky's Nightshift | 137235 | [137235-spackys-nightshift.json](./137235-spackys-nightshift.json) |
 | Spacy Shuffle Puck | 91520 | [91520-spacy-shuffle-puck.json](./91520-spacy-shuffle-puck.json) |
 | Spade no Kuni no Alice: Wonderful Black World | 218783 | [218783-spade-no-kuni-no-alice-wonderful-black-world.json](./218783-spade-no-kuni-no-alice-wonderful-black-world.json) |
 | Spade no Kuni no Alice: Wonderful White World | 148840 | [148840-spade-no-kuni-no-alice-wonderful-white-world.json](./148840-spade-no-kuni-no-alice-wonderful-white-world.json) |
@@ -21214,6 +21218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Force Genesis | 21090 | [21090-spectral-force-genesis.json](./21090-spectral-force-genesis.json) |
 | Spectral Invaders | 45311 | [45311-spectral-invaders.json](./45311-spectral-invaders.json) |
 | Spectral Keep | 258557 | [258557-spectral-keep.json](./258557-spectral-keep.json) |
+| Spectral Panic | 137204 | [137204-spectral-panic.json](./137204-spectral-panic.json) |
 | Spectral Protocol | 350363 | [350363-spectral-protocol.json](./350363-spectral-protocol.json) |
 | Spectral Realm | 340191 | [340191-spectral-realm.json](./340191-spectral-realm.json) |
 | Spectral Report | 377957 | [377957-spectral-report.json](./377957-spectral-report.json) |
@@ -25048,6 +25053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Episode III - Revenge of the Sith | 166484 | [166484-star-wars-episode-iii-revenge-of-the-sith.json](./166484-star-wars-episode-iii-revenge-of-the-sith.json) |
 | Star Wars: Episode III - Revenge of the Sith | 167612 | [167612-star-wars-episode-iii-revenge-of-the-sith.json](./167612-star-wars-episode-iii-revenge-of-the-sith.json) |
 | Star Wars: Episode III - Revenge of the Sith | 6159 | [6159-star-wars-episode-iii-revenge-of-the-sith.json](./6159-star-wars-episode-iii-revenge-of-the-sith.json) |
+| Star Wars: Episode III - Revenge of the Sith: Activity Center | 137191 | [137191-star-wars-episode-iii-revenge-of-the-sith-activity-center.json](./137191-star-wars-episode-iii-revenge-of-the-sith-activity-center.json) |
 | Star Wars: Ewok Adventure | 40636 | [40636-star-wars-ewok-adventure.json](./40636-star-wars-ewok-adventure.json) |
 | Star Wars: Fate of the Old Republic | 381215 | [381215-star-wars-fate-of-the-old-republic.json](./381215-star-wars-fate-of-the-old-republic.json) |
 | Star Wars: Force Arena | 74866 | [74866-star-wars-force-arena.json](./74866-star-wars-force-arena.json) |
@@ -28308,6 +28314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stream - Circuit Puzzle | 102128 | [102128-stream-circuit-puzzle.json](./102128-stream-circuit-puzzle.json) |
 | Stream Animals: Free for All | 116031 | [116031-stream-animals-free-for-all.json](./116031-stream-animals-free-for-all.json) |
 | Stream Arena RPG | 387402 | [387402-stream-arena-rpg.json](./387402-stream-arena-rpg.json) |
+| Stream Arenas | 137181 | [137181-stream-arenas.json](./137181-stream-arenas.json) |
 | Stream Avatars | 52432 | [52432-stream-avatars.json](./52432-stream-avatars.json) |
 | Stream Bakery | 409789 | [409789-stream-bakery.json](./409789-stream-bakery.json) |
 | Stream Basketball | 371836 | [371836-stream-basketball.json](./371836-stream-basketball.json) |
@@ -33980,6 +33987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supercharged World Cup | 102853 | [102853-supercharged-world-cup.json](./102853-supercharged-world-cup.json) |
 | Supercharged! | 69241 | [69241-supercharged.json](./69241-supercharged.json) |
 | SuperChess | 80293 | [80293-superchess.json](./80293-superchess.json) |
+| Superchix '76 | 137231 | [137231-superchix-76.json](./137231-superchix-76.json) |
 | SuperCluster: Void | 29105 | [29105-supercluster-void.json](./29105-supercluster-void.json) |
 | SuperCold | 233945 | [233945-supercold.json](./233945-supercold.json) |
 | SuperCollapse! II | 23804 | [23804-supercollapse-ii.json](./23804-supercollapse-ii.json) |
@@ -34348,6 +34356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperStar Pledis | 124619 | [124619-superstar-pledis.json](./124619-superstar-pledis.json) |
 | Superstar Shootout | 231631 | [231631-superstar-shootout.json](./231631-superstar-shootout.json) |
 | SuperStar Soccer | 73602 | [73602-superstar-soccer.json](./73602-superstar-soccer.json) |
+| SuperStar Starship | 137227 | [137227-superstar-starship.json](./137227-superstar-starship.json) |
 | SuperStar Stayc | 250121 | [250121-superstar-stayc.json](./250121-superstar-stayc.json) |
 | Superstar Streetz | 186318 | [186318-superstar-streetz.json](./186318-superstar-streetz.json) |
 | SuperStar Woollim | 137874 | [137874-superstar-woollim.json](./137874-superstar-woollim.json) |
