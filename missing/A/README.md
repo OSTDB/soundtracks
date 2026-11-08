@@ -13182,6 +13182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcane Seekers | 348729 | [348729-arcane-seekers.json](./348729-arcane-seekers.json) |
 | Arcane Shores | 343800 | [343800-arcane-shores.json](./343800-arcane-shores.json) |
 | Arcane Shores | 377111 | [377111-arcane-shores.json](./377111-arcane-shores.json) |
+| Arcane Showdown | 129308 | [129308-arcane-showdown.json](./129308-arcane-showdown.json) |
 | Arcane Sorcery | 34548 | [34548-arcane-sorcery.json](./34548-arcane-sorcery.json) |
 | Arcane Soul | 193966 | [193966-arcane-soul.json](./193966-arcane-soul.json) |
 | Arcane Soul + | 38712 | [38712-arcane-soul.json](./38712-arcane-soul.json) |
@@ -15835,6 +15836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asterism | 119741 | [119741-asterism.json](./119741-asterism.json) |
 | Asterism | 245712 | [245712-asterism.json](./245712-asterism.json) |
 | Asterism Basketball | 147071 | [147071-asterism-basketball.json](./147071-asterism-basketball.json) |
+| Asterism Online | 129351 | [129351-asterism-online.json](./129351-asterism-online.json) |
 | Asterism: Apex of War | 190088 | [190088-asterism-apex-of-war.json](./190088-asterism-apex-of-war.json) |
 | Asterism: Time & Space | 177714 | [177714-asterism-time-and-space.json](./177714-asterism-time-and-space.json) |
 | Asterius | 181723 | [181723-asterius.json](./181723-asterius.json) |
