@@ -5964,6 +5964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Dream of School | 114289 | [114289-hero-dream-of-school.json](./114289-hero-dream-of-school.json) |
 | Hero Emblem 2 | 82712 | [82712-hero-emblem-2.json](./82712-hero-emblem-2.json) |
 | Hero Emblems II | 114777 | [114777-hero-emblems-ii.json](./114777-hero-emblems-ii.json) |
+| Hero Evolution | 105481 | [105481-hero-evolution.json](./105481-hero-evolution.json) |
 | Hero Express | 120041 | [120041-hero-express.json](./120041-hero-express.json) |
 | Hero Fighter | 66720 | [66720-hero-fighter.json](./66720-hero-fighter.json) |
 | Hero Fighters Club | 62693 | [62693-hero-fighters-club.json](./62693-hero-fighters-club.json) |
@@ -7541,6 +7542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Worlds Bundle | 328520 | [328520-hidden-worlds-bundle.json](./328520-hidden-worlds-bundle.json) |
 | HiddenFrog | 186124 | [186124-hiddenfrog.json](./186124-hiddenfrog.json) |
 | HiddenLight | 291424 | [291424-hiddenlight.json](./291424-hiddenlight.json) |
+| HiddenObjects Grimm's Fairy Tales | 105502 | [105502-hiddenobjects-grimms-fairy-tales.json](./105502-hiddenobjects-grimms-fairy-tales.json) |
 | Hiddens Awakening | 212998 | [212998-hiddens-awakening.json](./212998-hiddens-awakening.json) |
 | HiddenSet | 311872 | [311872-hiddenset.json](./311872-hiddenset.json) |
 | Hiddenverse: Ariadna Dreaming | 203374 | [203374-hiddenverse-ariadna-dreaming.json](./203374-hiddenverse-ariadna-dreaming.json) |
@@ -8099,6 +8101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hike Trip | 232444 | [232444-hike-trip.json](./232444-hike-trip.json) |
 | Hike Valley | 231319 | [231319-hike-valley.json](./231319-hike-valley.json) |
 | Hikeback | 176492 | [176492-hikeback.json](./176492-hikeback.json) |
+| HikeJam | 105475 | [105475-hikejam.json](./105475-hikejam.json) |
 | Hikensha | 229694 | [229694-hikensha.json](./229694-hikensha.json) |
 | Hiker: Heropack Creed | 257805 | [257805-hiker-heropack-creed.json](./257805-hiker-heropack-creed.json) |
 | Hikeshi: Fireman | 148801 | [148801-hikeshi-fireman.json](./148801-hikeshi-fireman.json) |
