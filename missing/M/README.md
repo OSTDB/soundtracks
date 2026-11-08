@@ -1719,6 +1719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magikiras | 88127 | [88127-magikiras.json](./88127-magikiras.json) |
 | Magikoopa Security Force | 322101 | [322101-magikoopa-security-force.json](./322101-magikoopa-security-force.json) |
 | Magimon Adventures | 243095 | [243095-magimon-adventures.json](./243095-magimon-adventures.json) |
+| Magimot | 130473 | [130473-magimot.json](./130473-magimot.json) |
 | Magin: The Rat Project Stories | 127744 | [127744-magin-the-rat-project-stories.json](./127744-magin-the-rat-project-stories.json) |
 | Magin: The Rat Project Stories - Essence Edition | 396920 | [396920-magin-the-rat-project-stories-essence-edition.json](./396920-magin-the-rat-project-stories-essence-edition.json) |
 | Magin: The Rat Project Stories - Supporter Pack | 396912 | [396912-magin-the-rat-project-stories-supporter-pack.json](./396912-magin-the-rat-project-stories-supporter-pack.json) |
@@ -6025,6 +6026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -7038,6 +7040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot Parts Collection 2 | 92534 | [92534-medarot-parts-collection-2.json](./92534-medarot-parts-collection-2.json) |
 | Medarot R | 92425 | [92425-medarot-r.json](./92425-medarot-r.json) |
 | Medarot R Parts Collection | 92537 | [92537-medarot-r-parts-collection.json](./92537-medarot-r-parts-collection.json) |
+| Medarot S | 130451 | [130451-medarot-s.json](./130451-medarot-s.json) |
 | Medarot: Perfect Edition - Kabuto Version | 37571 | [37571-medarot-perfect-edition-kabuto-version.json](./37571-medarot-perfect-edition-kabuto-version.json) |
 | Medarot: Perfect Edition - Kuwagata Version | 37570 | [37570-medarot-perfect-edition-kuwagata-version.json](./37570-medarot-perfect-edition-kuwagata-version.json) |
 | Medarots S: Unlimited Nova | 126475 | [126475-medarots-s-unlimited-nova.json](./126475-medarots-s-unlimited-nova.json) |
@@ -10204,6 +10207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meteorite Z: The Apocalypse | 293136 | [293136-meteorite-z-the-apocalypse.json](./293136-meteorite-z-the-apocalypse.json) |
 | Meteorite's Journey | 55146 | [55146-meteorites-journey.json](./55146-meteorites-journey.json) |
 | Meteorites | 24787 | [24787-meteorites.json](./24787-meteorites.json) |
+| Meteormath 2 | 130472 | [130472-meteormath-2.json](./130472-meteormath-2.json) |
 | Meteoroids | 307592 | [307592-meteoroids.json](./307592-meteoroids.json) |
 | Meteoroids 3D | 159961 | [159961-meteoroids-3d.json](./159961-meteoroids-3d.json) |
 | Meteors | 13737 | [13737-meteors.json](./13737-meteors.json) |
@@ -12779,6 +12783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner: Dig Deep | 23846 | [23846-miner-dig-deep.json](./23846-miner-dig-deep.json) |
 | Miner's Delight + | 348597 | [348597-miners-delight.json](./348597-miners-delight.json) |
 | Miner's Hell | 158619 | [158619-miners-hell.json](./158619-miners-hell.json) |
+| Miner's Mettle | 130454 | [130454-miners-mettle.json](./130454-miners-mettle.json) |
 | Mineracer | 416819 | [416819-mineracer.json](./416819-mineracer.json) |
 | Minerador | 230661 | [230661-minerador.json](./230661-minerador.json) |
 | Mineral | 302438 | [302438-mineral.json](./302438-mineral.json) |
@@ -18499,6 +18504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mousegun | 326723 | [326723-mousegun.json](./326723-mousegun.json) |
 | Mousegun | 366381 | [366381-mousegun.json](./366381-mousegun.json) |
 | Mousehole Bookshop | 286607 | [286607-mousehole-bookshop.json](./286607-mousehole-bookshop.json) |
+| MouseHunt | 130447 | [130447-mousehunt.json](./130447-mousehunt.json) |
 | Mouselash | 320407 | [320407-mouselash.json](./320407-mouselash.json) |
 | Mouseman: Point-and-Click RPG Adventure - Chapter 1 | 383353 | [383353-mouseman-point-and-click-rpg-adventure-chapter-1.json](./383353-mouseman-point-and-click-rpg-adventure-chapter-1.json) |
 | Mousement | 388727 | [388727-mousement.json](./388727-mousement.json) |
