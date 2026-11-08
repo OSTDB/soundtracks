@@ -3702,7 +3702,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Record of Agarest War Zero: Limited Edition | 43959 | [43959-record-of-agarest-war-zero-limited-edition.json](./43959-record-of-agarest-war-zero-limited-edition.json) |
 | Record of Agarest War: Limited Edition | 261541 | [261541-record-of-agarest-war-limited-edition.json](./261541-record-of-agarest-war-limited-edition.json) |
 | Record of Battle 3D Maiden Wars | 166209 | [166209-record-of-battle-3d-maiden-wars.json](./166209-record-of-battle-3d-maiden-wars.json) |
+| Record of Grancrest War | 90009 | [90009-record-of-grancrest-war.json](./90009-record-of-grancrest-war.json) |
 | Record of Grancrest War: Quartet Conflict | 108157 | [108157-record-of-grancrest-war-quartet-conflict.json](./108157-record-of-grancrest-war-quartet-conflict.json) |
+| Record of Grancrest War: Quartet of War | 90010 | [90010-record-of-grancrest-war-quartet-of-war.json](./90010-record-of-grancrest-war-quartet-of-war.json) |
 | Record of Lodoss War | 42384 | [42384-record-of-lodoss-war.json](./42384-record-of-lodoss-war.json) |
 | Record of Lodoss War | 81386 | [81386-record-of-lodoss-war.json](./81386-record-of-lodoss-war.json) |
 | Record of Lodoss War II | 66140 | [66140-record-of-lodoss-war-ii.json](./66140-record-of-lodoss-war-ii.json) |
@@ -8030,6 +8032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Kings | 181990 | [181990-rise-of-kings.json](./181990-rise-of-kings.json) |
 | Rise of Koreth | 258206 | [258206-rise-of-koreth.json](./258206-rise-of-koreth.json) |
 | Rise of Legions | 116249 | [116249-rise-of-legions.json](./116249-rise-of-legions.json) |
+| Rise of Legions | 90043 | [90043-rise-of-legions.json](./90043-rise-of-legions.json) |
 | Rise of Liberty | 81626 | [81626-rise-of-liberty.json](./81626-rise-of-liberty.json) |
 | Rise of Lost Empires | 68027 | [68027-rise-of-lost-empires.json](./68027-rise-of-lost-empires.json) |
 | Rise of Man | 50526 | [50526-rise-of-man.json](./50526-rise-of-man.json) |
@@ -10601,6 +10604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roller Coaster | 363625 | [363625-roller-coaster.json](./363625-roller-coaster.json) |
 | Roller Coaster 3D | 88492 | [88492-roller-coaster-3d.json](./88492-roller-coaster-3d.json) |
 | Roller Coaster Apocalypse VR | 96876 | [96876-roller-coaster-apocalypse-vr.json](./96876-roller-coaster-apocalypse-vr.json) |
+| Roller Coaster Egypt VR | 90159 | [90159-roller-coaster-egypt-vr.json](./90159-roller-coaster-egypt-vr.json) |
 | Roller Coaster Factory | 209003 | [209003-roller-coaster-factory.json](./209003-roller-coaster-factory.json) |
 | Roller Coaster Factory 2 | 69943 | [69943-roller-coaster-factory-2.json](./69943-roller-coaster-factory-2.json) |
 | Roller Coaster Factory 3 | 209004 | [209004-roller-coaster-factory-3.json](./209004-roller-coaster-factory-3.json) |
