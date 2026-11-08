@@ -4680,6 +4680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Avengers Academy | 18028 | [18028-marvel-avengers-academy.json](./18028-marvel-avengers-academy.json) |
 | Marvel Avengers Alliance Tactics | 61694 | [61694-marvel-avengers-alliance-tactics.json](./61694-marvel-avengers-alliance-tactics.json) |
 | Marvel Avengers: Battle for Earth | 5315 | [5315-marvel-avengers-battle-for-earth.json](./5315-marvel-avengers-battle-for-earth.json) |
+| Marvel Battle Lines | 105500 | [105500-marvel-battle-lines.json](./105500-marvel-battle-lines.json) |
 | Marvel Collect! by Topps | 322472 | [322472-marvel-collect-by-topps.json](./322472-marvel-collect-by-topps.json) |
 | Marvel Contest of Champions | 28107 | [28107-marvel-contest-of-champions.json](./28107-marvel-contest-of-champions.json) |
 | Marvel Cosmic Invasion: Cyclops & The Thing | 411354 | [411354-marvel-cosmic-invasion-cyclops-and-the-thing.json](./411354-marvel-cosmic-invasion-cyclops-and-the-thing.json) |
@@ -6063,7 +6064,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -14735,6 +14735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Police Officer Earth Gumble | 351581 | [351581-mobile-police-officer-earth-gumble.json](./351581-mobile-police-officer-earth-gumble.json) |
 | Mobile Pro Yakyuu: Kantoku no Saihai | 49722 | [49722-mobile-pro-yakyuu-kantoku-no-saihai.json](./49722-mobile-pro-yakyuu-kantoku-no-saihai.json) |
 | Mobile Quest GB | 304098 | [304098-mobile-quest-gb.json](./304098-mobile-quest-gb.json) |
+| Mobile Raid | 105472 | [105472-mobile-raid.json](./105472-mobile-raid.json) |
 | Mobile Royale | 125887 | [125887-mobile-royale.json](./125887-mobile-royale.json) |
 | Mobile Soldiers: Plastic Army | 369639 | [369639-mobile-soldiers-plastic-army.json](./369639-mobile-soldiers-plastic-army.json) |
 | Mobile Store Simulator | 268801 | [268801-mobile-store-simulator.json](./268801-mobile-store-simulator.json) |
@@ -15735,6 +15736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkeys | 314290 | [314290-monkeys.json](./314290-monkeys.json) |
 | Monkeys & Dragons | 110922 | [110922-monkeys-and-dragons.json](./110922-monkeys-and-dragons.json) |
 | Monkeys & Typewriters! | 319798 | [319798-monkeys-and-typewriters.json](./319798-monkeys-and-typewriters.json) |
+| Monkeys Ahoy | 105478 | [105478-monkeys-ahoy.json](./105478-monkeys-ahoy.json) |
 | Monkeys to the Moon | 57097 | [57097-monkeys-to-the-moon.json](./57097-monkeys-to-the-moon.json) |
 | Monkeys With Guns | 177414 | [177414-monkeys-with-guns.json](./177414-monkeys-with-guns.json) |
 | Monkeys!! | 179506 | [179506-monkeys.json](./179506-monkeys.json) |
