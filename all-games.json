@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-08T12:56:38.491Z",
-  "total_soundtracks": 2989,
+  "generated_at": "2026-11-08T13:00:56.811Z",
+  "total_soundtracks": 2991,
   "games": [
     {
       "igdb_id": 7522,
@@ -12451,6 +12451,20 @@
           "spotify_url": "https://open.spotify.com/album/1NCt4W6d8fNGkBQAjXDVrA",
           "apple_music_url": "https://music.apple.com/us/album/furi-original-game-soundtrack/1131342238",
           "album_link_url": "https://album.link/i/1131342238"
+        }
+      ]
+    },
+    {
+      "igdb_id": 25803,
+      "game_name": "Future Unfolding",
+      "game_url": "https://ostdb.net/games/future-unfolding",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27341e8809ed3bf2ce3780d9770",
+      "albums": [
+        {
+          "album_name": "Future Unfolding (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/5RmJdjYxyFalD67GuYASyc",
+          "apple_music_url": "",
+          "album_link_url": ""
         }
       ]
     },
@@ -33268,6 +33282,20 @@
           "album_name": "The Talos Principle (Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/7CneZnc5pSVscz4QszEGht",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 115012,
+      "game_name": "The Tenants",
+      "game_url": "https://ostdb.net/games/the-tenants",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273e90518286f94f75571cced04",
+      "albums": [
+        {
+          "album_name": "The Tenants (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/2uICk4dByf1BPqY9Rnx7nL",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
