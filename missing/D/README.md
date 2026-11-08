@@ -5843,6 +5843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender 3D | 110744 | [110744-defender-3d.json](./110744-defender-3d.json) |
 | Defender Chronicles | 19200 | [19200-defender-chronicles.json](./19200-defender-chronicles.json) |
 | Defender Chronicles: Legend of the Desert King | 65856 | [65856-defender-chronicles-legend-of-the-desert-king.json](./65856-defender-chronicles-legend-of-the-desert-king.json) |
+| Defender Faith | 102394 | [102394-defender-faith.json](./102394-defender-faith.json) |
 | Defender FX | 298952 | [298952-defender-fx.json](./298952-defender-fx.json) |
 | Defender II | 182401 | [182401-defender-ii.json](./182401-defender-ii.json) |
 | Defender II | 281044 | [281044-defender-ii.json](./281044-defender-ii.json) |
@@ -10323,6 +10324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disaster Will Strike 3 | 101893 | [101893-disaster-will-strike-3.json](./101893-disaster-will-strike-3.json) |
 | Disaster Will Strike 4 | 101892 | [101892-disaster-will-strike-4.json](./101892-disaster-will-strike-4.json) |
 | Disaster Will Strike 5 | 101891 | [101891-disaster-will-strike-5.json](./101891-disaster-will-strike-5.json) |
+| Disaster Will Strike 6 | 101854 | [101854-disaster-will-strike-6.json](./101854-disaster-will-strike-6.json) |
 | Disaster: Day of Crisis | 4805 | [4805-disaster-day-of-crisis.json](./4805-disaster-day-of-crisis.json) |
 | DisasterFire | 394180 | [394180-disasterfire.json](./394180-disasterfire.json) |
 | Disasteroids 3D | 94945 | [94945-disasteroids-3d.json](./94945-disasteroids-3d.json) |
@@ -10528,6 +10530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disembowel | 219750 | [219750-disembowel.json](./219750-disembowel.json) |
 | Disenchantment Heart | 161161 | [161161-disenchantment-heart.json](./161161-disenchantment-heart.json) |
 | Disengage the Simulator | 271536 | [271536-disengage-the-simulator.json](./271536-disengage-the-simulator.json) |
+| Diseviled | 101846 | [101846-diseviled.json](./101846-diseviled.json) |
 | disfact Game Pack 1 | 405533 | [405533-disfact-game-pack-1.json](./405533-disfact-game-pack-1.json) |
 | disfact Game Pack 2 | 405543 | [405543-disfact-game-pack-2.json](./405543-disfact-game-pack-2.json) |
 | Disfigure | 211502 | [211502-disfigure.json](./211502-disfigure.json) |
@@ -14301,6 +14304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doubutsurishii SP | 354374 | [354374-doubutsurishii-sp.json](./354374-doubutsurishii-sp.json) |
 | Douche Bag | 51735 | [51735-douche-bag.json](./51735-douche-bag.json) |
 | Douche Defender | 63362 | [63362-douche-defender.json](./63362-douche-defender.json) |
+| Douchebag Beach Club | 101848 | [101848-douchebag-beach-club.json](./101848-douchebag-beach-club.json) |
 | Douchebag Life | 232785 | [232785-douchebag-life.json](./232785-douchebag-life.json) |
 | Douchebag Workout 2 | 331814 | [331814-douchebag-workout-2.json](./331814-douchebag-workout-2.json) |
 | Douchebag: Ultimate Bro Pack | 366107 | [366107-douchebag-ultimate-bro-pack.json](./366107-douchebag-ultimate-bro-pack.json) |
@@ -17461,6 +17465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dropped into the Modern World: Surviving the Red-Light District | 311623 | [311623-dropped-into-the-modern-world-surviving-the-red-light-district.json](./311623-dropped-into-the-modern-world-surviving-the-red-light-district.json) |
 | Dropper | 135551 | [135551-dropper.json](./135551-dropper.json) |
 | Drops of God: Creating your Ambrosia | 291378 | [291378-drops-of-god-creating-your-ambrosia.json](./291378-drops-of-god-creating-your-ambrosia.json) |
+| Drops: Rhythm Garden | 102403 | [102403-drops-rhythm-garden.json](./102403-drops-rhythm-garden.json) |
 | DROPSHIP | 93925 | [93925-dropship.json](./93925-dropship.json) |
 | Dropship Commander | 225446 | [225446-dropship-commander.json](./225446-dropship-commander.json) |
 | Dropship: United Peace Force | 332159 | [332159-dropship-united-peace-force.json](./332159-dropship-united-peace-force.json) |
