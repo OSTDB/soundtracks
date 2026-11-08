@@ -5394,6 +5394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | That Time My School Was Invaded by Dimensional Snakes and Now I'm Bound to a Multiverse Protector! | 401267 | [401267-that-time-my-school-was-invaded-by-dimensional-snakes-and-now-im-bound-to-a-multiverse-protector.json](./401267-that-time-my-school-was-invaded-by-dimensional-snakes-and-now-im-bound-to-a-multiverse-protector.json) |
 | That Tiny Spaceship | 102351 | [102351-that-tiny-spaceship.json](./102351-that-tiny-spaceship.json) |
 | That Village | 337740 | [337740-that-village.json](./337740-that-village.json) |
+| That Which Binds Us | 102981 | [102981-that-which-binds-us.json](./102981-that-which-binds-us.json) |
 | That Which Faith Demands | 153793 | [153793-that-which-faith-demands.json](./153793-that-which-faith-demands.json) |
 | That Which Surrounds | 321660 | [321660-that-which-surrounds.json](./321660-that-which-surrounds.json) |
 | That Which Was Lost | 201478 | [201478-that-which-was-lost.json](./201478-that-which-was-lost.json) |
@@ -15463,6 +15464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Prince of Tennis: Doki Doki Survival - Eternal Passion! Tie Break Game | 395102 | [395102-the-prince-of-tennis-doki-doki-survival-eternal-passion-tie-break-game.json](./395102-the-prince-of-tennis-doki-doki-survival-eternal-passion-tie-break-game.json) |
 | The Prince of Tennis: Sweet School Festival 0-40 and more… | 395097 | [395097-the-prince-of-tennis-sweet-school-festival-0-40-and-more.json](./395097-the-prince-of-tennis-sweet-school-festival-0-40-and-more.json) |
 | The Prince's Keeper | 412310 | [412310-the-princes-keeper.json](./412310-the-princes-keeper.json) |
+| The Princess Adventure | 102477 | [102477-the-princess-adventure.json](./102477-the-princess-adventure.json) |
 | The Princess and the Frog | 17753 | [17753-the-princess-and-the-frog.json](./17753-the-princess-and-the-frog.json) |
 | The Princess and The Frog | 172423 | [172423-the-princess-and-the-frog.json](./172423-the-princess-and-the-frog.json) |
 | The Princess and the Pauper: Storybook Adventures | 293199 | [293199-the-princess-and-the-pauper-storybook-adventures.json](./293199-the-princess-and-the-pauper-storybook-adventures.json) |
@@ -31108,6 +31110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Hunter for Pico | 285845 | [285845-treasure-hunter-for-pico.json](./285845-treasure-hunter-for-pico.json) |
 | Treasure Hunter G | 15844 | [15844-treasure-hunter-g.json](./15844-treasure-hunter-g.json) |
 | Treasure Hunter Man | 272043 | [272043-treasure-hunter-man.json](./272043-treasure-hunter-man.json) |
+| Treasure Hunter Man 2 | 102977 | [102977-treasure-hunter-man-2.json](./102977-treasure-hunter-man-2.json) |
 | Treasure Hunter Simulator 2 | 153995 | [153995-treasure-hunter-simulator-2.json](./153995-treasure-hunter-simulator-2.json) |
 | Treasure Hunter VR | 235939 | [235939-treasure-hunter-vr.json](./235939-treasure-hunter-vr.json) |
 | Treasure Hunter X | 85522 | [85522-treasure-hunter-x.json](./85522-treasure-hunter-x.json) |
