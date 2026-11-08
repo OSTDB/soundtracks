@@ -18619,6 +18619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Uncertain: Light at the End | 110461 | [110461-the-uncertain-light-at-the-end.json](./110461-the-uncertain-light-at-the-end.json) |
 | The Uncertainty Machine | 73056 | [73056-the-uncertainty-machine.json](./73056-the-uncertainty-machine.json) |
 | The Uncle Who Works for Nintendo | 60754 | [60754-the-uncle-who-works-for-nintendo.json](./60754-the-uncle-who-works-for-nintendo.json) |
+| The Unclearness | 121137 | [121137-the-unclearness.json](./121137-the-unclearness.json) |
 | The Unclogging: An Unsanitary Saga | 51979 | [51979-the-unclogging-an-unsanitary-saga.json](./51979-the-unclogging-an-unsanitary-saga.json) |
 | The Unclosed Case | 414130 | [414130-the-unclosed-case.json](./414130-the-unclosed-case.json) |
 | The Uncultured | 348109 | [348109-the-uncultured.json](./348109-the-uncultured.json) |
@@ -24587,6 +24588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To The Grave: The Wildlands of Faenora | 307976 | [307976-to-the-grave-the-wildlands-of-faenora.json](./307976-to-the-grave-the-wildlands-of-faenora.json) |
 | To the Hall of the Mountain King | 279524 | [279524-to-the-hall-of-the-mountain-king.json](./279524-to-the-hall-of-the-mountain-king.json) |
 | To the HeIghts of My Heart | 178044 | [178044-to-the-heights-of-my-heart.json](./178044-to-the-heights-of-my-heart.json) |
+| To the Hell | 121111 | [121111-to-the-hell.json](./121111-to-the-hell.json) |
 | To the Home | 405478 | [405478-to-the-home.json](./405478-to-the-home.json) |
 | To the Kingdom | 352287 | [352287-to-the-kingdom.json](./352287-to-the-kingdom.json) |
 | To the Light | 36719 | [36719-to-the-light.json](./36719-to-the-light.json) |
@@ -30894,6 +30896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Travis Strikes Again: No More Heroes | 55195 | [55195-travis-strikes-again-no-more-heroes.json](./55195-travis-strikes-again-no-more-heroes.json) |
 | Travis Strikes Again: No More Heroes - Black Dandelion | 115482 | [115482-travis-strikes-again-no-more-heroes-black-dandelion.json](./115482-travis-strikes-again-no-more-heroes-black-dandelion.json) |
 | Travis Strikes Again: No More Heroes - Bubblegum Fatale | 117496 | [117496-travis-strikes-again-no-more-heroes-bubblegum-fatale.json](./117496-travis-strikes-again-no-more-heroes-bubblegum-fatale.json) |
+| Travis Strikes Again: No More Heroes - Complete Edition | 121174 | [121174-travis-strikes-again-no-more-heroes-complete-edition.json](./121174-travis-strikes-again-no-more-heroes-complete-edition.json) |
 | Travis, the Frog | 350038 | [350038-travis-the-frog.json](./350038-travis-the-frog.json) |
 | Travis' Coward Combustion | 265721 | [265721-travis-coward-combustion.json](./265721-travis-coward-combustion.json) |
 | Travle | 265852 | [265852-travle.json](./265852-travle.json) |
@@ -32267,6 +32270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troy: The Malware Fight | 156974 | [156974-troy-the-malware-fight.json](./156974-troy-the-malware-fight.json) |
 | Troy: The Red Winged Hero | 314525 | [314525-troy-the-red-winged-hero.json](./314525-troy-the-red-winged-hero.json) |
 | Troy: The Soldier | 290200 | [290200-troy-the-soldier.json](./290200-troy-the-soldier.json) |
+| TRPG in VR Space | 121128 | [121128-trpg-in-vr-space.json](./121128-trpg-in-vr-space.json) |
 | TRT Bil Bakalım | 380637 | [380637-trt-bil-bakal-m.json](./380637-trt-bil-bakal-m.json) |
 | Tru Or Die: Chiraq | 280850 | [280850-tru-or-die-chiraq.json](./280850-tru-or-die-chiraq.json) |
 | Truants | 155931 | [155931-truants.json](./155931-truants.json) |
