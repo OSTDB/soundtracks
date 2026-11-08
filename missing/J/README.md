@@ -451,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jalebi: A Desi Adda | 233529 | [233529-jalebi-a-desi-adda.json](./233529-jalebi-a-desi-adda.json) |
 | Jaleco Arcade 1 | 214534 | [214534-jaleco-arcade-1.json](./214534-jaleco-arcade-1.json) |
 | Jaleco Collection 1 | 141037 | [141037-jaleco-collection-1.json](./141037-jaleco-collection-1.json) |
+| Jaleco Collection: Vol.1 | 80756 | [80756-jaleco-collection-vol-1.json](./80756-jaleco-collection-vol-1.json) |
 | Jaleco Rally: Big Run - The Supreme 4WD Challenge | 38169 | [38169-jaleco-rally-big-run-the-supreme-4wd-challenge.json](./38169-jaleco-rally-big-run-the-supreme-4wd-challenge.json) |
 | Jaleco Sports: Bases Loaded | 338551 | [338551-jaleco-sports-bases-loaded.json](./338551-jaleco-sports-bases-loaded.json) |
 | Jaleco Sports: Faceoffs | 417317 | [417317-jaleco-sports-faceoffs.json](./417317-jaleco-sports-faceoffs.json) |
@@ -2717,6 +2718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jonas | 91721 | [91721-jonas.json](./91721-jonas.json) |
 | Jonas Sky Scraper | 134926 | [134926-jonas-sky-scraper.json](./134926-jonas-sky-scraper.json) |
 | Jonas Willy Online | 149013 | [149013-jonas-willy-online.json](./149013-jonas-willy-online.json) |
+| Jonathan | 80724 | [80724-jonathan.json](./80724-jonathan.json) |
 | Jonathan Kane: The Protector | 67261 | [67261-jonathan-kane-the-protector.json](./67261-jonathan-kane-the-protector.json) |
 | Jonathan's Adventure 3 | 397996 | [397996-jonathans-adventure-3.json](./397996-jonathans-adventure-3.json) |
 | Jonathan's Adventure! Pricker Edition | 397783 | [397783-jonathans-adventure-pricker-edition.json](./397783-jonathans-adventure-pricker-edition.json) |
@@ -3327,6 +3329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump into the Plane | 174703 | [174703-jump-into-the-plane.json](./174703-jump-into-the-plane.json) |
 | Jump It Up | 334410 | [334410-jump-it-up.json](./334410-jump-it-up.json) |
 | Jump Jack | 85863 | [85863-jump-jack.json](./85863-jump-jack.json) |
+| Jump Jack 2 | 80711 | [80711-jump-jack-2.json](./80711-jump-jack-2.json) |
 | Jump Jam! | 89022 | [89022-jump-jam.json](./89022-jump-jam.json) |
 | Jump Jeroba | 301442 | [301442-jump-jeroba.json](./301442-jump-jeroba.json) |
 | Jump Journey | 215589 | [215589-jump-journey.json](./215589-jump-journey.json) |
