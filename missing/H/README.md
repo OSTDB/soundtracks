@@ -3205,6 +3205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Headbangers: Fright or Flight | 279539 | [279539-headbangers-fright-or-flight.json](./279539-headbangers-fright-or-flight.json) |
 | HeadBangers: Pigeon Pass | 269380 | [269380-headbangers-pigeon-pass.json](./269380-headbangers-pigeon-pass.json) |
 | HeadBangers: Rhythm Royale - Digital Deluxe Edition | 269379 | [269379-headbangers-rhythm-royale-digital-deluxe-edition.json](./269379-headbangers-rhythm-royale-digital-deluxe-edition.json) |
+| Headbutt Factory | 118507 | [118507-headbutt-factory.json](./118507-headbutt-factory.json) |
 | HeadCount | 144944 | [144944-headcount.json](./144944-headcount.json) |
 | Headcrab Frenzy! | 127926 | [127926-headcrab-frenzy.json](./127926-headcrab-frenzy.json) |
 | Headcrab Invasion | 102008 | [102008-headcrab-invasion.json](./102008-headcrab-invasion.json) |
@@ -8647,6 +8648,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hive Sweeper | 118912 | [118912-hive-sweeper.json](./118912-hive-sweeper.json) |
 | Hive Time | 124254 | [124254-hive-time.json](./124254-hive-time.json) |
 | Hive: Altenum Wars | 59128 | [59128-hive-altenum-wars.json](./59128-hive-altenum-wars.json) |
+| Hive: Altenum Wars - Deluxe Edition | 118534 | [118534-hive-altenum-wars-deluxe-edition.json](./118534-hive-altenum-wars-deluxe-edition.json) |
+| Hive: Altenum Wars - Ultimate Edition | 118505 | [118505-hive-altenum-wars-ultimate-edition.json](./118505-hive-altenum-wars-ultimate-edition.json) |
 | HiveCorp | 239722 | [239722-hivecorp.json](./239722-hivecorp.json) |
 | Hivecraft | 345644 | [345644-hivecraft.json](./345644-hivecraft.json) |
 | HiveFall | 109518 | [109518-hivefall.json](./109518-hivefall.json) |
@@ -12767,6 +12770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Universe | 54817 | [54817-hyper-universe.json](./54817-hyper-universe.json) |
 | Hyper V-Ball | 42609 | [42609-hyper-v-ball.json](./42609-hyper-v-ball.json) |
 | Hyper Void | 20966 | [20966-hyper-void.json](./20966-hyper-void.json) |
+| Hyper Void Complete | 118540 | [118540-hyper-void-complete.json](./118540-hyper-void-complete.json) |
 | Hyper Wars | 243238 | [243238-hyper-wars.json](./243238-hyper-wars.json) |
 | Hyper Wars: The Mega Firestorm | 109046 | [109046-hyper-wars-the-mega-firestorm.json](./109046-hyper-wars-the-mega-firestorm.json) |
 | Hyper-5 | 145378 | [145378-hyper-5.json](./145378-hyper-5.json) |
