@@ -14331,7 +14331,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Future Tanks Area | 193507 | [193507-future-tanks-area.json](./193507-future-tanks-area.json) |
 | Future Tanks: Tank Shooter Game | 87385 | [87385-future-tanks-tank-shooter-game.json](./87385-future-tanks-tank-shooter-game.json) |
 | Future Theater | 251842 | [251842-future-theater.json](./251842-future-theater.json) |
-| Future Unfolding | 25803 | [25803-future-unfolding.json](./25803-future-unfolding.json) |
 | Future Vibe Check | 335292 | [335292-future-vibe-check.json](./335292-future-vibe-check.json) |
 | Future Vox Imaginarium Dot Exe | 198444 | [198444-future-vox-imaginarium-dot-exe.json](./198444-future-vox-imaginarium-dot-exe.json) |
 | Future Vox Imaginarium Dot Exe V1.1: Doge Lover Edition | 198445 | [198445-future-vox-imaginarium-dot-exe-v1-1-doge-lover-edition.json](./198445-future-vox-imaginarium-dot-exe-v1-1-doge-lover-edition.json) |
