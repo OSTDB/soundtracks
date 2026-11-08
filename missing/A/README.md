@@ -3070,6 +3070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Mahjong | 29871 | [29871-action-mahjong.json](./29871-action-mahjong.json) |
 | Action Man | 217943 | [217943-action-man.json](./217943-action-man.json) |
 | Action Man A.T.O.M.: Alpha Teens on Machines | 83248 | [83248-action-man-a-t-o-m-alpha-teens-on-machines.json](./83248-action-man-a-t-o-m-alpha-teens-on-machines.json) |
+| Action Man: Arctic Adventure | 78842 | [78842-action-man-arctic-adventure.json](./78842-action-man-arctic-adventure.json) |
 | Action Man: Destruction X | 44848 | [44848-action-man-destruction-x.json](./44848-action-man-destruction-x.json) |
 | Action Man: Jungle Storm | 70235 | [70235-action-man-jungle-storm.json](./70235-action-man-jungle-storm.json) |
 | Action Man: Operation Extreme | 28090 | [28090-action-man-operation-extreme.json](./28090-action-man-operation-extreme.json) |
@@ -8199,6 +8200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alteric | 32358 | [32358-alteric.json](./32358-alteric.json) |
 | Alterity Experience | 123711 | [123711-alterity-experience.json](./123711-alterity-experience.json) |
 | Alterium Shift | 155773 | [155773-alterium-shift.json](./155773-alterium-shift.json) |
+| AlterJig | 78839 | [78839-alterjig.json](./78839-alterjig.json) |
 | AlterLife | 352860 | [352860-alterlife.json](./352860-alterlife.json) |
 | Alterlight | 256705 | [256705-alterlight.json](./256705-alterlight.json) |
 | AlterMage | 388878 | [388878-altermage.json](./388878-altermage.json) |
@@ -17173,6 +17175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
