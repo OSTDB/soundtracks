@@ -4673,6 +4673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life One | 114867 | [114867-life-one.json](./114867-life-one.json) |
 | Life or Reach | 293674 | [293674-life-or-reach.json](./293674-life-or-reach.json) |
 | Life Organizer | 214320 | [214320-life-organizer.json](./214320-life-organizer.json) |
+| Life Quest | 98154 | [98154-life-quest.json](./98154-life-quest.json) |
 | Life Quest 2: Metropoville | 60938 | [60938-life-quest-2-metropoville.json](./60938-life-quest-2-metropoville.json) |
 | Life Redemption | 123904 | [123904-life-redemption.json](./123904-life-redemption.json) |
 | Life Save Service | 376677 | [376677-life-save-service.json](./376677-life-save-service.json) |
@@ -9448,6 +9449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucha Underground | 257260 | [257260-lucha-underground.json](./257260-lucha-underground.json) |
 | Luche no Shuroku | 206401 | [206401-luche-no-shuroku.json](./206401-luche-no-shuroku.json) |
 | Luci RPG | 228678 | [228678-luci-rpg.json](./228678-luci-rpg.json) |
+| Lucia | 98493 | [98493-lucia.json](./98493-lucia.json) |
 | Lucia and the Possessed World | 266988 | [266988-lucia-and-the-possessed-world.json](./266988-lucia-and-the-possessed-world.json) |
 | Lucia Journey | 405831 | [405831-lucia-journey.json](./405831-lucia-journey.json) |
 | Lucia no Musou | 350918 | [350918-lucia-no-musou.json](./350918-lucia-no-musou.json) |
