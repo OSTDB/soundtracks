@@ -1528,6 +1528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanatorium | 375324 | [375324-sanatorium.json](./375324-sanatorium.json) |
 | Sanatorium | 64722 | [64722-sanatorium.json](./64722-sanatorium.json) |
 | Sanatorium | 82652 | [82652-sanatorium.json](./82652-sanatorium.json) |
+| Sanatorium Purgatorium | 111140 | [111140-sanatorium-purgatorium.json](./111140-sanatorium-purgatorium.json) |
 | Sanatorium: A Mental Asylum Simulator | 213369 | [213369-sanatorium-a-mental-asylum-simulator.json](./213369-sanatorium-a-mental-asylum-simulator.json) |
 | Sanatory Hallways | 85367 | [85367-sanatory-hallways.json](./85367-sanatory-hallways.json) |
 | Sancho Ponchek | 101905 | [101905-sancho-ponchek.json](./101905-sancho-ponchek.json) |
@@ -5530,6 +5531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Hime 3: Tenka o Kirisaku Hikari to Kage | 50871 | [50871-sengoku-hime-3-tenka-o-kirisaku-hikari-to-kage.json](./50871-sengoku-hime-3-tenka-o-kirisaku-hikari-to-kage.json) |
 | Sengoku Hime 4: Souhai Hyakkei, Hana Mamoru Chikai | 62133 | [62133-sengoku-hime-4-souhai-hyakkei-hana-mamoru-chikai.json](./62133-sengoku-hime-4-souhai-hyakkei-hana-mamoru-chikai.json) |
 | Sengoku Hime 5: Senka Tatsu Haou no Keifu | 60969 | [60969-sengoku-hime-5-senka-tatsu-haou-no-keifu.json](./60969-sengoku-hime-5-senka-tatsu-haou-no-keifu.json) |
+| Sengoku Hime 7: Senun Tsuranuku Guren no Ishi | 111154 | [111154-sengoku-hime-7-senun-tsuranuku-guren-no-ishi.json](./111154-sengoku-hime-7-senun-tsuranuku-guren-no-ishi.json) |
 | Sengoku Hime 7: Senun Tsuranuku Guren no Ishi - Limited Edition | 167028 | [167028-sengoku-hime-7-senun-tsuranuku-guren-no-ishi-limited-edition.json](./167028-sengoku-hime-7-senun-tsuranuku-guren-no-ishi-limited-edition.json) |
 | Sengoku IXA | 289017 | [289017-sengoku-ixa.json](./289017-sengoku-ixa.json) |
 | Sengoku Jidai Gold | 124778 | [124778-sengoku-jidai-gold.json](./124778-sengoku-jidai-gold.json) |
@@ -12200,6 +12202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skateboard Knight | 338300 | [338300-skateboard-knight.json](./338300-skateboard-knight.json) |
 | Skateboard Madness Xtreme Edition | 66933 | [66933-skateboard-madness-xtreme-edition.json](./66933-skateboard-madness-xtreme-edition.json) |
 | Skateboard Park Tycoon | 23555 | [23555-skateboard-park-tycoon.json](./23555-skateboard-park-tycoon.json) |
+| Skateboard Park Tycoon: Back in the USA 2004 | 111165 | [111165-skateboard-park-tycoon-back-in-the-usa-2004.json](./111165-skateboard-park-tycoon-back-in-the-usa-2004.json) |
 | Skateboard Park Tycoon: World Tour 2003 | 111166 | [111166-skateboard-park-tycoon-world-tour-2003.json](./111166-skateboard-park-tycoon-world-tour-2003.json) |
 | Skateboard Party 2 | 38937 | [38937-skateboard-party-2.json](./38937-skateboard-party-2.json) |
 | Skateboard Party 3 | 38936 | [38936-skateboard-party-3.json](./38936-skateboard-party-3.json) |
@@ -12321,6 +12324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skelets | 140620 | [140620-skelets.json](./140620-skelets.json) |
 | Skeletter med kasketter | 77138 | [77138-skeletter-med-kasketter.json](./77138-skeletter-med-kasketter.json) |
 | Skelewton's First Law | 120232 | [120232-skelewtons-first-law.json](./120232-skelewtons-first-law.json) |
+| Skelittle: A Giant Party !! | 111158 | [111158-skelittle-a-giant-party.json](./111158-skelittle-a-giant-party.json) |
 | Skeljump | 257377 | [257377-skeljump.json](./257377-skeljump.json) |
 | Skellboy | 113101 | [113101-skellboy.json](./113101-skellboy.json) |
 | Skellboy Refractured | 140906 | [140906-skellboy-refractured.json](./140906-skellboy-refractured.json) |
@@ -15913,6 +15917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snowboarding | 230837 | [230837-snowboarding.json](./230837-snowboarding.json) |
 | Snowboarding | 358843 | [358843-snowboarding.json](./358843-snowboarding.json) |
 | Snowboarding | 365599 | [365599-snowboarding.json](./365599-snowboarding.json) |
+| Snowboarding Championship 2004 | 111164 | [111164-snowboarding-championship-2004.json](./111164-snowboarding-championship-2004.json) |
 | Snowboarding: The Fourth Phase | 88772 | [88772-snowboarding-the-fourth-phase.json](./88772-snowboarding-the-fourth-phase.json) |
 | Snowboarding: The Next Phase | 114051 | [114051-snowboarding-the-next-phase.json](./114051-snowboarding-the-next-phase.json) |
 | Snowboarding+ | 90527 | [90527-snowboarding.json](./90527-snowboarding.json) |
@@ -22282,6 +22287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiders: Cobweb Shooter | 233432 | [233432-spiders-cobweb-shooter.json](./233432-spiders-cobweb-shooter.json) |
 | Spidersaurs | 117014 | [117014-spidersaurs.json](./117014-spidersaurs.json) |
 | Spidersilk | 262266 | [262266-spidersilk.json](./262266-spidersilk.json) |
+| SpiderSolitaire Black | 111155 | [111155-spidersolitaire-black.json](./111155-spidersolitaire-black.json) |
 | Spidertronic | 302479 | [302479-spidertronic.json](./302479-spidertronic.json) |
 | Spidey | 245141 | [245141-spidey.json](./245141-spidey.json) |
 | Spidey & His Amazing Friends | 230277 | [230277-spidey-and-his-amazing-friends.json](./230277-spidey-and-his-amazing-friends.json) |
@@ -28164,6 +28170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Days | 70810 | [70810-strange-days.json](./70810-strange-days.json) |
 | Strange Diary | 225436 | [225436-strange-diary.json](./225436-strange-diary.json) |
 | Strange Dungeon | 216521 | [216521-strange-dungeon.json](./216521-strange-dungeon.json) |
+| Strange Encounter | 111244 | [111244-strange-encounter.json](./111244-strange-encounter.json) |
 | Strange Field Football | 145850 | [145850-strange-field-football.json](./145850-strange-field-football.json) |
 | Strange girl beside | 95137 | [95137-strange-girl-beside.json](./95137-strange-girl-beside.json) |
 | Strange Gravity | 177188 | [177188-strange-gravity.json](./177188-strange-gravity.json) |
@@ -35480,6 +35487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swap Swap | 110536 | [110536-swap-swap.json](./110536-swap-swap.json) |
 | Swap Sword | 98539 | [98539-swap-sword.json](./98539-swap-sword.json) |
 | Swap the Matrix | 54417 | [54417-swap-the-matrix.json](./54417-swap-the-matrix.json) |
+| Swap This! | 111156 | [111156-swap-this.json](./111156-swap-this.json) |
 | Swap Wand User | 413490 | [413490-swap-wand-user.json](./413490-swap-wand-user.json) |
 | Swap-Swap Panda | 336122 | [336122-swap-swap-panda.json](./336122-swap-swap-panda.json) |
 | Swap: Mobile Edition | 250439 | [250439-swap-mobile-edition.json](./250439-swap-mobile-edition.json) |
@@ -36454,6 +36462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SXPD: Extreme Pursuit Force | 61525 | [61525-sxpd-extreme-pursuit-force.json](./61525-sxpd-extreme-pursuit-force.json) |
 | Sybaritic Extravaganza | 274298 | [274298-sybaritic-extravaganza.json](./274298-sybaritic-extravaganza.json) |
 | Syberia | 272095 | [272095-syberia.json](./272095-syberia.json) |
+| Syberia 1 & 2 | 111160 | [111160-syberia-1-and-2.json](./111160-syberia-1-and-2.json) |
 | Syberia 3: An Automaton with a Plan | 150905 | [150905-syberia-3-an-automaton-with-a-plan.json](./150905-syberia-3-an-automaton-with-a-plan.json) |
 | Syberia 3: Deluxe Edition | 53697 | [53697-syberia-3-deluxe-edition.json](./53697-syberia-3-deluxe-edition.json) |
 | Syberia 3: The Complete Journey | 124797 | [124797-syberia-3-the-complete-journey.json](./124797-syberia-3-the-complete-journey.json) |
