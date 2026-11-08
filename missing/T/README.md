@@ -3685,6 +3685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekkyu Fight! The Great Battle Gaiden | 64785 | [64785-tekkyu-fight-the-great-battle-gaiden.json](./64785-tekkyu-fight-the-great-battle-gaiden.json) |
 | Tekkyuuman | 73245 | [73245-tekkyuuman.json](./73245-tekkyuuman.json) |
 | Tekla | 218586 | [218586-tekla.json](./218586-tekla.json) |
+| Tekling | 83719 | [83719-tekling.json](./83719-tekling.json) |
 | Tekling 2 | 114221 | [114221-tekling-2.json](./114221-tekling-2.json) |
 | Tekling 2: Overdrive | 170314 | [170314-tekling-2-overdrive.json](./170314-tekling-2-overdrive.json) |
 | Teknedia | 139710 | [139710-teknedia.json](./139710-teknedia.json) |
@@ -23629,6 +23630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Tenshi 2 | 32837 | [32837-time-tenshi-2.json](./32837-time-tenshi-2.json) |
 | Time Tenshi 2: Special Edition | 30407 | [30407-time-tenshi-2-special-edition.json](./30407-time-tenshi-2-special-edition.json) |
 | Time Tenshi 2: Special Edition DLC | 168070 | [168070-time-tenshi-2-special-edition-dlc.json](./168070-time-tenshi-2-special-edition-dlc.json) |
+| Time Tenshi Paradox | 83718 | [83718-time-tenshi-paradox.json](./83718-time-tenshi-paradox.json) |
 | Time Tenshi Paradox: Episode 2 | 96616 | [96616-time-tenshi-paradox-episode-2.json](./96616-time-tenshi-paradox-episode-2.json) |
 | Time Thief | 201590 | [201590-time-thief.json](./201590-time-thief.json) |
 | Time Thief | 232839 | [232839-time-thief.json](./232839-time-thief.json) |
@@ -24980,6 +24982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Today I Went on a Quest | 258847 | [258847-today-i-went-on-a-quest.json](./258847-today-i-went-on-a-quest.json) |
 | Today is my Birthday | 112266 | [112266-today-is-my-birthday.json](./112266-today-is-my-birthday.json) |
 | Today, I'll Be The Hero | 409044 | [409044-today-ill-be-the-hero.json](./409044-today-ill-be-the-hero.json) |
+| Today's Ako-chan | 83688 | [83688-todays-ako-chan.json](./83688-todays-ako-chan.json) |
 | Today's Menu | 389111 | [389111-todays-menu.json](./389111-todays-menu.json) |
 | Todd is Late | 383583 | [383583-todd-is-late.json](./383583-todd-is-late.json) |
 | Todd McFarlane's Spawn: The Video Game | 42580 | [42580-todd-mcfarlanes-spawn-the-video-game.json](./42580-todd-mcfarlanes-spawn-the-video-game.json) |
@@ -32888,6 +32891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tryst | 11030 | [11030-tryst.json](./11030-tryst.json) |
 | Trytka | 351536 | [351536-trytka.json](./351536-trytka.json) |
 | TryToAct | 418866 | [418866-trytoact.json](./418866-trytoact.json) |
+| TS Academy: I Became A JK But, I'm Still An Honors Student | 83687 | [83687-ts-academy-i-became-a-jk-but-im-still-an-honors-student.json](./83687-ts-academy-i-became-a-jk-but-im-still-an-honors-student.json) |
 | Ts Fantasy | 192247 | [192247-ts-fantasy.json](./192247-ts-fantasy.json) |
 | TS Marketplace: 1800s Rolling Stock Pack 02 Add-On | 227296 | [227296-ts-marketplace-1800s-rolling-stock-pack-02-add-on.json](./227296-ts-marketplace-1800s-rolling-stock-pack-02-add-on.json) |
 | TS Marketplace: Alaska Railroad Scenario Pack 01 | 163052 | [163052-ts-marketplace-alaska-railroad-scenario-pack-01.json](./163052-ts-marketplace-alaska-railroad-scenario-pack-01.json) |
