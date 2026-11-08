@@ -2695,6 +2695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Harvester Simulator 2025: Deluxe Edition | 324206 | [324206-farming-harvester-simulator-2025-deluxe-edition.json](./324206-farming-harvester-simulator-2025-deluxe-edition.json) |
 | Farming Homestead | 411570 | [411570-farming-homestead.json](./411570-farming-homestead.json) |
 | Farming Isles | 340060 | [340060-farming-isles.json](./340060-farming-isles.json) |
+| Farming Life | 115239 | [115239-farming-life.json](./115239-farming-life.json) |
 | Farming Life 40 | 371208 | [371208-farming-life-40.json](./371208-farming-life-40.json) |
 | Farming Life Simulator | 373655 | [373655-farming-life-simulator.json](./373655-farming-life-simulator.json) |
 | Farming Moomoo | 214299 | [214299-farming-moomoo.json](./214299-farming-moomoo.json) |
