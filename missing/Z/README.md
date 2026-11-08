@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Z-Ape: Tower Defense | 304009 | [304009-z-ape-tower-defense.json](./304009-z-ape-tower-defense.json) |
 | Z-Arena | 28153 | [28153-z-arena.json](./28153-z-arena.json) |
 | Z-axys | 102210 | [102210-z-axys.json](./102210-z-axys.json) |
+| Z-Blocks | 91491 | [91491-z-blocks.json](./91491-z-blocks.json) |
 | Z-Blood Mission | 167464 | [167464-z-blood-mission.json](./167464-z-blood-mission.json) |
 | Z-Chess III | 70824 | [70824-z-chess-iii.json](./70824-z-chess-iii.json) |
 | Z-Collapse | 190464 | [190464-z-collapse.json](./190464-z-collapse.json) |
@@ -233,6 +234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaga | 80773 | [80773-zaga.json](./80773-zaga.json) |
 | Zaga Mission | 36654 | [36654-zaga-mission.json](./36654-zaga-mission.json) |
 | Zaga-33 | 22334 | [22334-zaga-33.json](./22334-zaga-33.json) |
+| Zagadki Lwa Leona | 91488 | [91488-zagadki-lwa-leona.json](./91488-zagadki-lwa-leona.json) |
 | Zagadki Tigrenka Usika | 188599 | [188599-zagadki-tigrenka-usika.json](./188599-zagadki-tigrenka-usika.json) |
 | Zagamihara | 192632 | [192632-zagamihara.json](./192632-zagamihara.json) |
 | Zagan Must Be Rescued | 163907 | [163907-zagan-must-be-rescued.json](./163907-zagan-must-be-rescued.json) |
@@ -1321,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zissi's Island | 31644 | [31644-zissis-island.json](./31644-zissis-island.json) |
 | Zitifono | 362715 | [362715-zitifono.json](./362715-zitifono.json) |
 | Zitrax | 106305 | [106305-zitrax.json](./106305-zitrax.json) |
+| Zits and Giggles | 91475 | [91475-zits-and-giggles.json](./91475-zits-and-giggles.json) |
 | Ziva and the Wolves | 225239 | [225239-ziva-and-the-wolves.json](./225239-ziva-and-the-wolves.json) |
 | Zix | 211573 | [211573-zix.json](./211573-zix.json) |
 | ZJ the Ball Calculator | 218937 | [218937-zj-the-ball-calculator.json](./218937-zj-the-ball-calculator.json) |
