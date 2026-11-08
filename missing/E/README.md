@@ -8343,6 +8343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extra Extra Poison NS | 385109 | [385109-extra-extra-poison-ns.json](./385109-extra-extra-poison-ns.json) |
 | Extra Innings | 42558 | [42558-extra-innings.json](./42558-extra-innings.json) |
 | Extra Lives | 216104 | [216104-extra-lives.json](./216104-extra-lives.json) |
+| Extra Lives (Infinite) | 96796 | [96796-extra-lives-infinite.json](./96796-extra-lives-infinite.json) |
 | Extra Mario Bros. | 219115 | [219115-extra-mario-bros.json](./219115-extra-mario-bros.json) |
 | Extra Ordinary | 305228 | [305228-extra-ordinary.json](./305228-extra-ordinary.json) |
 | Extra Story of God's One Day World | 162853 | [162853-extra-story-of-gods-one-day-world.json](./162853-extra-story-of-gods-one-day-world.json) |
