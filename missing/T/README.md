@@ -12322,6 +12322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last of Us Part II Remastered: Chronological Experience | 382539 | [382539-the-last-of-us-part-ii-remastered-chronological-experience.json](./382539-the-last-of-us-part-ii-remastered-chronological-experience.json) |
 | The Last of Us Part II Remastered: Patch 2.0.0 | 382537 | [382537-the-last-of-us-part-ii-remastered-patch-2-0-0.json](./382537-the-last-of-us-part-ii-remastered-patch-2-0-0.json) |
 | The Last of Us Part II Remastered: W.L.F. Edition | 279776 | [279776-the-last-of-us-part-ii-remastered-w-l-f-edition.json](./279776-the-last-of-us-part-ii-remastered-w-l-f-edition.json) |
+| The Last of Us Part II: Ellie Edition | 135986 | [135986-the-last-of-us-part-ii-ellie-edition.json](./135986-the-last-of-us-part-ii-ellie-edition.json) |
 | The Last of Us Part II: Grounded Update | 251381 | [251381-the-last-of-us-part-ii-grounded-update.json](./251381-the-last-of-us-part-ii-grounded-update.json) |
 | The Last of Us Part III | 288169 | [288169-the-last-of-us-part-iii.json](./288169-the-last-of-us-part-iii.json) |
 | The Last of Us Remastered: Day 1 Edition | 89931 | [89931-the-last-of-us-remastered-day-1-edition.json](./89931-the-last-of-us-remastered-day-1-edition.json) |
@@ -12679,6 +12680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails of Cold Steel IV - Attachment Set | 224426 | [224426-the-legend-of-heroes-trails-of-cold-steel-iv-attachment-set.json](./224426-the-legend-of-heroes-trails-of-cold-steel-iv-attachment-set.json) |
 | The Legend of Heroes: Trails of Cold Steel IV - Digital Deluxe Edition | 169218 | [169218-the-legend-of-heroes-trails-of-cold-steel-iv-digital-deluxe-edition.json](./169218-the-legend-of-heroes-trails-of-cold-steel-iv-digital-deluxe-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel IV - Eternal Preservation Edition | 167068 | [167068-the-legend-of-heroes-trails-of-cold-steel-iv-eternal-preservation-edition.json](./167068-the-legend-of-heroes-trails-of-cold-steel-iv-eternal-preservation-edition.json) |
+| The Legend of Heroes: Trails of Cold Steel IV - Frontline Edition | 136014 | [136014-the-legend-of-heroes-trails-of-cold-steel-iv-frontline-edition.json](./136014-the-legend-of-heroes-trails-of-cold-steel-iv-frontline-edition.json) |
 | The Legend of Heroes: Trails of Cold Steel IV - Standard Costume Bundle | 227335 | [227335-the-legend-of-heroes-trails-of-cold-steel-iv-standard-costume-bundle.json](./227335-the-legend-of-heroes-trails-of-cold-steel-iv-standard-costume-bundle.json) |
 | The Legend of Heroes: Trails Through Daybreak | 141833 | [141833-the-legend-of-heroes-trails-through-daybreak.json](./141833-the-legend-of-heroes-trails-through-daybreak.json) |
 | The Legend of Heroes: Trails through Daybreak - Accessories Set | 300909 | [300909-the-legend-of-heroes-trails-through-daybreak-accessories-set.json](./300909-the-legend-of-heroes-trails-through-daybreak-accessories-set.json) |
@@ -19551,6 +19553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Xeno Project II | 222193 | [222193-the-xeno-project-ii.json](./222193-the-xeno-project-ii.json) |
 | The Yakutsu Noroi Game | 124641 | [124641-the-yakutsu-noroi-game.json](./124641-the-yakutsu-noroi-game.json) |
 | The Yakuza Bundle | 254291 | [254291-the-yakuza-bundle.json](./254291-the-yakuza-bundle.json) |
+| The Yakuza Remastered Collection: Day One Edition | 135977 | [135977-the-yakuza-remastered-collection-day-one-edition.json](./135977-the-yakuza-remastered-collection-day-one-edition.json) |
 | The Yakyuken Special | 280652 | [280652-the-yakyuken-special.json](./280652-the-yakyuken-special.json) |
 | The Yakyuken: Blonde-hen | 251083 | [251083-the-yakyuken-blonde-hen.json](./251083-the-yakyuken-blonde-hen.json) |
 | The Yakyuken: Bodicon | 251082 | [251082-the-yakyuken-bodicon.json](./251082-the-yakyuken-bodicon.json) |
@@ -25737,6 +25740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Pro Skater 1-4 Deluxe Edition Bundle | 378827 | [378827-tony-hawks-pro-skater-1-4-deluxe-edition-bundle.json](./378827-tony-hawks-pro-skater-1-4-deluxe-edition-bundle.json) |
 | Tony Hawk's Pro Skater 1-4 Standard Edition Bundle | 378826 | [378826-tony-hawks-pro-skater-1-4-standard-edition-bundle.json](./378826-tony-hawks-pro-skater-1-4-standard-edition-bundle.json) |
 | Tony Hawk's Pro Skater 1+2 | 133887 | [133887-tony-hawks-pro-skater-1-2.json](./133887-tony-hawks-pro-skater-1-2.json) |
+| Tony Hawk's Pro Skater 1+2: Collector's Edition | 135984 | [135984-tony-hawks-pro-skater-1-2-collectors-edition.json](./135984-tony-hawks-pro-skater-1-2-collectors-edition.json) |
 | Tony Hawk's Pro Skater 1+2: Digital Deluxe Edition | 139878 | [139878-tony-hawks-pro-skater-1-2-digital-deluxe-edition.json](./139878-tony-hawks-pro-skater-1-2-digital-deluxe-edition.json) |
 | Tony Hawk's Pro Skater 2 | 201756 | [201756-tony-hawks-pro-skater-2.json](./201756-tony-hawks-pro-skater-2.json) |
 | Tony Hawk's Pro Skater 2 | 229891 | [229891-tony-hawks-pro-skater-2.json](./229891-tony-hawks-pro-skater-2.json) |
