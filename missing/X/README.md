@@ -811,6 +811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xiaomei and the Flame Dragon's Fist | 242398 | [242398-xiaomei-and-the-flame-dragons-fist.json](./242398-xiaomei-and-the-flame-dragons-fist.json) |
 | Xiaoxiao No. 9: Fight Man | 185777 | [185777-xiaoxiao-no-9-fight-man.json](./185777-xiaoxiao-no-9-fight-man.json) |
 | Xiǎoyuán Kǒusuàn | 333446 | [333446-xiaoyuan-kousuan.json](./333446-xiaoyuan-kousuan.json) |
+| Xiǎozhèn Fàngzhì Xiūxiān | 129347 | [129347-xiaozhen-fangzhi-xiuxian.json](./129347-xiaozhen-fangzhi-xiuxian.json) |
 | Xiàrì de Huíyì | 163905 | [163905-xiari-de-huiyi.json](./163905-xiari-de-huiyi.json) |
 | Xiàyīzhàn Jiānghú II | 150380 | [150380-xiayizhan-jianghu-ii.json](./150380-xiayizhan-jianghu-ii.json) |
 | Xibalba | 287599 | [287599-xibalba.json](./287599-xibalba.json) |
