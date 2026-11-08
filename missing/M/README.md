@@ -13123,6 +13123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf Castles | 145889 | [145889-mini-golf-castles.json](./145889-mini-golf-castles.json) |
 | Mini Golf Championship | 204705 | [204705-mini-golf-championship.json](./204705-mini-golf-championship.json) |
 | Mini Golf Club | 130078 | [130078-mini-golf-club.json](./130078-mini-golf-club.json) |
+| Mini Golf Coop | 81587 | [81587-mini-golf-coop.json](./81587-mini-golf-coop.json) |
 | Mini Golf Game 3D | 86491 | [86491-mini-golf-game-3d.json](./86491-mini-golf-game-3d.json) |
 | Mini Golf Game 3D | 88397 | [88397-mini-golf-game-3d.json](./88397-mini-golf-game-3d.json) |
 | Mini Golf Gold | 374555 | [374555-mini-golf-gold.json](./374555-mini-golf-gold.json) |
@@ -18175,6 +18176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motherless: Season 2 - Chapter 16 | 227025 | [227025-motherless-season-2-chapter-16.json](./227025-motherless-season-2-chapter-16.json) |
 | Motherload | 19070 | [19070-motherload.json](./19070-motherload.json) |
 | Motherload: Goldium Edition | 186345 | [186345-motherload-goldium-edition.json](./186345-motherload-goldium-edition.json) |
+| Mothers of the Animal Kingdom | 82194 | [82194-mothers-of-the-animal-kingdom.json](./82194-mothers-of-the-animal-kingdom.json) |
 | Mothership | 262981 | [262981-mothership.json](./262981-mothership.json) |
 | Mothership | 27211 | [27211-mothership.json](./27211-mothership.json) |
 | Mothership | 273235 | [273235-mothership.json](./273235-mothership.json) |
@@ -19614,6 +19616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Multi Turret Academy | 267131 | [267131-multi-turret-academy.json](./267131-multi-turret-academy.json) |
 | Multi-Path | 310343 | [310343-multi-path.json](./310343-multi-path.json) |
 | Multi-Purpose Arcade Combat Simulator | 38192 | [38192-multi-purpose-arcade-combat-simulator.json](./38192-multi-purpose-arcade-combat-simulator.json) |
+| Multi-Quest | 81614 | [81614-multi-quest.json](./81614-multi-quest.json) |
 | Multi-User Dungeon 2 | 92106 | [92106-multi-user-dungeon-2.json](./92106-multi-user-dungeon-2.json) |
 | Multi-Users in Middle-earth | 136790 | [136790-multi-users-in-middle-earth.json](./136790-multi-users-in-middle-earth.json) |
 | Multi's Going Out | 300271 | [300271-multis-going-out.json](./300271-multis-going-out.json) |
