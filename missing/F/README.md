@@ -4806,6 +4806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fights in Tight Spaces: Weapon of Choice | 261775 | [261775-fights-in-tight-spaces-weapon-of-choice.json](./261775-fights-in-tight-spaces-weapon-of-choice.json) |
 | Fightstone Amnesty | 349180 | [349180-fightstone-amnesty.json](./349180-fightstone-amnesty.json) |
 | Fightttris VR | 113162 | [113162-fightttris-vr.json](./113162-fightttris-vr.json) |
+| Fightworld | 113137 | [113137-fightworld.json](./113137-fightworld.json) |
 | Fighty Driver | 411045 | [411045-fighty-driver.json](./411045-fighty-driver.json) |
 | Figment | 20329 | [20329-figment.json](./20329-figment.json) |
 | Figment 1 + Figment 2 | 242587 | [242587-figment-1-figment-2.json](./242587-figment-1-figment-2.json) |
@@ -13406,6 +13407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full House Kiss | 97370 | [97370-full-house-kiss.json](./97370-full-house-kiss.json) |
 | Full House Kiss 2 | 204392 | [204392-full-house-kiss-2.json](./204392-full-house-kiss-2.json) |
 | Full House Poker | 17472 | [17472-full-house-poker.json](./17472-full-house-poker.json) |
+| Full Kiss | 113252 | [113252-full-kiss.json](./113252-full-kiss.json) |
 | Full Kiss S | 219029 | [219029-full-kiss-s.json](./219029-full-kiss-s.json) |
 | Full Kiss SS | 155060 | [155060-full-kiss-ss.json](./155060-full-kiss-ss.json) |
 | Full Kiss SS: Complete Limited Edition | 155066 | [155066-full-kiss-ss-complete-limited-edition.json](./155066-full-kiss-ss-complete-limited-edition.json) |
