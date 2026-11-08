@@ -3451,6 +3451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deabirth: Real | 182816 | [182816-deabirth-real.json](./182816-deabirth-real.json) |
 | Deacon Blues | 145517 | [145517-deacon-blues.json](./145517-deacon-blues.json) |
 | Deactivators | 13573 | [13573-deactivators.json](./13573-deactivators.json) |
+| Dead | 118479 | [118479-dead.json](./118479-dead.json) |
 | Dead | 168127 | [168127-dead.json](./168127-dead.json) |
 | Dead | 90624 | [90624-dead.json](./90624-dead.json) |
 | Dead 4 Dress | 135019 | [135019-dead-4-dress.json](./135019-dead-4-dress.json) |
@@ -4290,6 +4291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Premonition Origins | 122234 | [122234-deadly-premonition-origins.json](./122234-deadly-premonition-origins.json) |
 | Deadly Premonition Origins: Collector's Edition | 136050 | [136050-deadly-premonition-origins-collectors-edition.json](./136050-deadly-premonition-origins-collectors-edition.json) |
 | Deadly Premonition: Director's Cut | 9245 | [9245-deadly-premonition-directors-cut.json](./9245-deadly-premonition-directors-cut.json) |
+| Deadly Premonition: Director's Cut - Gold Edition | 118537 | [118537-deadly-premonition-directors-cut-gold-edition.json](./118537-deadly-premonition-directors-cut-gold-edition.json) |
 | Deadly Premonition: The Director's Cut - Classified Edition | 51538 | [51538-deadly-premonition-the-directors-cut-classified-edition.json](./51538-deadly-premonition-the-directors-cut-classified-edition.json) |
 | Deadly Premonition: The Director's Cut Ultimate Edition | 26925 | [26925-deadly-premonition-the-directors-cut-ultimate-edition.json](./26925-deadly-premonition-the-directors-cut-ultimate-edition.json) |
 | Deadly Profits | 13381 | [13381-deadly-profits.json](./13381-deadly-profits.json) |
@@ -7695,6 +7697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Echoes | 305328 | [305328-destiny-2-echoes.json](./305328-destiny-2-echoes.json) |
 | Destiny 2: Echoes Silver Bundle | 304414 | [304414-destiny-2-echoes-silver-bundle.json](./304414-destiny-2-echoes-silver-bundle.json) |
 | Destiny 2: Forsaken | 103204 | [103204-destiny-2-forsaken.json](./103204-destiny-2-forsaken.json) |
+| Destiny 2: Forsaken - Complete Collection | 118535 | [118535-destiny-2-forsaken-complete-collection.json](./118535-destiny-2-forsaken-complete-collection.json) |
 | Destiny 2: Forsaken - Digital Deluxe Edition | 132150 | [132150-destiny-2-forsaken-digital-deluxe-edition.json](./132150-destiny-2-forsaken-digital-deluxe-edition.json) |
 | Destiny 2: Forsaken - Legendary Collection | 118692 | [118692-destiny-2-forsaken-legendary-collection.json](./118692-destiny-2-forsaken-legendary-collection.json) |
 | Destiny 2: Forsaken - Season of Opulence | 129886 | [129886-destiny-2-forsaken-season-of-opulence.json](./129886-destiny-2-forsaken-season-of-opulence.json) |
