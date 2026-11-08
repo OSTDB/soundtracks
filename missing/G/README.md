@@ -5594,6 +5594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Hell Go Gou: Tsukiotoshitego | 378910 | [378910-go-hell-go-gou-tsukiotoshitego.json](./378910-go-hell-go-gou-tsukiotoshitego.json) |
 | Go Hell Go: Tsukiotoshiteko | 268002 | [268002-go-hell-go-tsukiotoshiteko.json](./268002-go-hell-go-tsukiotoshiteko.json) |
 | Go Hell Go: Tsukiotoshiteko - Limited Edition | 330079 | [330079-go-hell-go-tsukiotoshiteko-limited-edition.json](./330079-go-hell-go-tsukiotoshiteko-limited-edition.json) |
+| Go Heroes | 129924 | [129924-go-heroes.json](./129924-go-heroes.json) |
 | Go Home | 210886 | [210886-go-home.json](./210886-go-home.json) |
 | Go Home - Rage incoming | 35400 | [35400-go-home-rage-incoming.json](./35400-go-home-rage-incoming.json) |
 | Go Home 1986 | 392928 | [392928-go-home-1986.json](./392928-go-home-1986.json) |
@@ -10172,6 +10173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grubkins | 377039 | [377039-grubkins.json](./377039-grubkins.json) |
 | Grudge | 278516 | [278516-grudge.json](./278516-grudge.json) |
 | Grudge Murder: Flight | 298685 | [298685-grudge-murder-flight.json](./298685-grudge-murder-flight.json) |
+| Grudge TV | 129922 | [129922-grudge-tv.json](./129922-grudge-tv.json) |
 | Grudge Warriors | 19269 | [19269-grudge-warriors.json](./19269-grudge-warriors.json) |
 | Grudgeball: Enter the Chaosphere - Regular Show's Extreme Sport of the Future | 90338 | [90338-grudgeball-enter-the-chaosphere-regular-shows-extreme-sport-of-the-future.json](./90338-grudgeball-enter-the-chaosphere-regular-shows-extreme-sport-of-the-future.json) |
 | Grudgeborn | 363158 | [363158-grudgeborn.json](./363158-grudgeborn.json) |
