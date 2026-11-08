@@ -5080,6 +5080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GlitchPoly | 140396 | [140396-glitchpoly.json](./140396-glitchpoly.json) |
 | Glitchpunk | 142927 | [142927-glitchpunk.json](./142927-glitchpunk.json) |
 | Glitchrunners | 33456 | [33456-glitchrunners.json](./33456-glitchrunners.json) |
+| Glitchskier | 113946 | [113946-glitchskier.json](./113946-glitchskier.json) |
 | Glitchspace | 6070 | [6070-glitchspace.json](./6070-glitchspace.json) |
 | Glitchspankr | 282076 | [282076-glitchspankr.json](./282076-glitchspankr.json) |
 | Glitchy: Cute Loop | 396475 | [396475-glitchy-cute-loop.json](./396475-glitchy-cute-loop.json) |
@@ -5241,6 +5242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gloop | 390745 | [390745-gloop.json](./390745-gloop.json) |
 | Gloop Deluxe | 92302 | [92302-gloop-deluxe.json](./92302-gloop-deluxe.json) |
 | Gloopalaxy | 393983 | [393983-gloopalaxy.json](./393983-gloopalaxy.json) |
+| Glopy | 113928 | [113928-glopy.json](./113928-glopy.json) |
 | Glor.IO | 176670 | [176670-glor-io.json](./176670-glor-io.json) |
 | Glorace: Phantastic Carnival | 67813 | [67813-glorace-phantastic-carnival.json](./67813-glorace-phantastic-carnival.json) |
 | Glorch's Great Escape: Walking is for Chumps | 30691 | [30691-glorchs-great-escape-walking-is-for-chumps.json](./30691-glorchs-great-escape-walking-is-for-chumps.json) |
@@ -8995,6 +8997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Greed | 320055 | [320055-greed.json](./320055-greed.json) |
 | Greed | 377024 | [377024-greed.json](./377024-greed.json) |
 | Greed & Darkness | 328409 | [328409-greed-and-darkness.json](./328409-greed-and-darkness.json) |
+| Greed 2: Forbidden Experiments | 113916 | [113916-greed-2-forbidden-experiments.json](./113916-greed-2-forbidden-experiments.json) |
 | Greed 3: Old Enemies Returning | 115702 | [115702-greed-3-old-enemies-returning.json](./115702-greed-3-old-enemies-returning.json) |
 | Greed Adventure | 102323 | [102323-greed-adventure.json](./102323-greed-adventure.json) |
 | Greed and Fear and the Rest | 295857 | [295857-greed-and-fear-and-the-rest.json](./295857-greed-and-fear-and-the-rest.json) |
