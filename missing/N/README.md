@@ -1880,6 +1880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Spirit: Drink & Drive Simulator | 107819 | [107819-need-for-spirit-drink-and-drive-simulator.json](./107819-need-for-spirit-drink-and-drive-simulator.json) |
 | Need for Spirit: Drink & Drive Simulator - Off-Road Edition | 115221 | [115221-need-for-spirit-drink-and-drive-simulator-off-road-edition.json](./115221-need-for-spirit-drink-and-drive-simulator-off-road-edition.json) |
 | Need Know What Know | 405970 | [405970-need-know-what-know.json](./405970-need-know-what-know.json) |
+| Need More Speed | 108092 | [108092-need-more-speed.json](./108092-need-more-speed.json) |
 | Need More Troops | 165680 | [165680-need-more-troops.json](./165680-need-more-troops.json) |
 | Need to Know | 18234 | [18234-need-to-know.json](./18234-need-to-know.json) |
 | Need Two Survive | 325903 | [325903-need-two-survive.json](./325903-need-two-survive.json) |
@@ -6314,6 +6315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NoCanNoTap | 254158 | [254158-nocannotap.json](./254158-nocannotap.json) |
 | Noce | 111848 | [111848-noce.json](./111848-noce.json) |
 | Noch | 139173 | [139173-noch.json](./139173-noch.json) |
+| Noch mal! | 108581 | [108581-noch-mal.json](./108581-noch-mal.json) |
 | Noche de Reyes | 229100 | [229100-noche-de-reyes.json](./229100-noche-de-reyes.json) |
 | Nociception: Simple Outlook From Hell | 142414 | [142414-nociception-simple-outlook-from-hell.json](./142414-nociception-simple-outlook-from-hell.json) |
 | Nociception: Voltaic Marketplace | 196130 | [196130-nociception-voltaic-marketplace.json](./196130-nociception-voltaic-marketplace.json) |
@@ -7422,6 +7424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nox Mortalis | 323006 | [323006-nox-mortalis.json](./323006-nox-mortalis.json) |
 | Nox Quest | 92834 | [92834-nox-quest.json](./92834-nox-quest.json) |
 | Nox Terrorem: Lost Souls | 147547 | [147547-nox-terrorem-lost-souls.json](./147547-nox-terrorem-lost-souls.json) |
+| Nox Timore | 108096 | [108096-nox-timore.json](./108096-nox-timore.json) |
 | Nox Timore Remake | 220457 | [220457-nox-timore-remake.json](./220457-nox-timore-remake.json) |
 | NOX: Chapter 1 | 229626 | [229626-nox-chapter-1.json](./229626-nox-chapter-1.json) |
 | Nox: Escape Adventure | 241049 | [241049-nox-escape-adventure.json](./241049-nox-escape-adventure.json) |
