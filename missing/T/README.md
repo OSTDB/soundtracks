@@ -988,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tako no Marine | 107647 | [107647-tako-no-marine.json](./107647-tako-no-marine.json) |
 | Tako to Ika 3 | 410183 | [410183-tako-to-ika-3.json](./410183-tako-to-ika-3.json) |
 | Takorita Meets Fries | 158181 | [158181-takorita-meets-fries.json](./158181-takorita-meets-fries.json) |
+| Takotan | 138916 | [138916-takotan.json](./138916-takotan.json) |
 | Takoway | 133691 | [133691-takoway.json](./133691-takoway.json) |
 | Takoyaki Party Survival | 213972 | [213972-takoyaki-party-survival.json](./213972-takoyaki-party-survival.json) |
 | Takoyaki Run | 398374 | [398374-takoyaki-run.json](./398374-takoyaki-run.json) |
@@ -3184,6 +3185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tech Disorder | 291258 | [291258-tech-disorder.json](./291258-tech-disorder.json) |
 | Tech Executive Tycoon | 17036 | [17036-tech-executive-tycoon.json](./17036-tech-executive-tycoon.json) |
 | Tech Glitch | 140949 | [140949-tech-glitch.json](./140949-tech-glitch.json) |
+| Tech Gone Bad | 138958 | [138958-tech-gone-bad.json](./138958-tech-gone-bad.json) |
 | Tech Invaders TD | 219568 | [219568-tech-invaders-td.json](./219568-tech-invaders-td.json) |
 | Tech Jump Remastered | 176583 | [176583-tech-jump-remastered.json](./176583-tech-jump-remastered.json) |
 | Tech Madness | 156800 | [156800-tech-madness.json](./156800-tech-madness.json) |
@@ -4651,6 +4653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TerraTech: To the Stars Pack | 230128 | [230128-terratech-to-the-stars-pack.json](./230128-terratech-to-the-stars-pack.json) |
 | TerraTech: Warriors of Future Past | 230144 | [230144-terratech-warriors-of-future-past.json](./230144-terratech-warriors-of-future-past.json) |
 | TerraTech: Weapons of War Pack | 230143 | [230143-terratech-weapons-of-war-pack.json](./230143-terratech-weapons-of-war-pack.json) |
+| Terratopia | 138919 | [138919-terratopia.json](./138919-terratopia.json) |
 | Terratopia: March of The Demon King | 315631 | [315631-terratopia-march-of-the-demon-king.json](./315631-terratopia-march-of-the-demon-king.json) |
 | Terravale | 176570 | [176570-terravale.json](./176570-terravale.json) |
 | Terrawars: NY Invasion | 70467 | [70467-terrawars-ny-invasion.json](./70467-terrawars-ny-invasion.json) |
@@ -13580,6 +13583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lucky Acre | 409026 | [409026-the-lucky-acre.json](./409026-the-lucky-acre.json) |
 | The Lucky Stray Cat | 386824 | [386824-the-lucky-stray-cat.json](./386824-the-lucky-stray-cat.json) |
 | The Luffman Experiment | 407561 | [407561-the-luffman-experiment.json](./407561-the-luffman-experiment.json) |
+| The Lullaby of Life | 138907 | [138907-the-lullaby-of-life.json](./138907-the-lullaby-of-life.json) |
 | The Lumenites | 275367 | [275367-the-lumenites.json](./275367-the-lumenites.json) |
 | The Luminist | 120972 | [120972-the-luminist.json](./120972-the-luminist.json) |
 | The Luminous Underground | 159951 | [159951-the-luminous-underground.json](./159951-the-luminous-underground.json) |
@@ -19799,6 +19803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theme Park Mystery | 71861 | [71861-theme-park-mystery.json](./71861-theme-park-mystery.json) |
 | Theme Park Roller Coaster | 43273 | [43273-theme-park-roller-coaster.json](./43273-theme-park-roller-coaster.json) |
 | Theme Park Simulator: Collector's Edition | 140165 | [140165-theme-park-simulator-collectors-edition.json](./140165-theme-park-simulator-collectors-edition.json) |
+| Theme Park Simulator: Rollercoaster Paradise | 138910 | [138910-theme-park-simulator-rollercoaster-paradise.json](./138910-theme-park-simulator-rollercoaster-paradise.json) |
 | Theme Park Worker | 114964 | [114964-theme-park-worker.json](./114964-theme-park-worker.json) |
 | Theme-Gawad | 275431 | [275431-theme-gawad.json](./275431-theme-gawad.json) |
 | Themely | 393788 | [393788-themely.json](./393788-themely.json) |
@@ -32809,6 +32814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tu Dealer the Game | 105823 | [105823-tu-dealer-the-game.json](./105823-tu-dealer-the-game.json) |
 | TU-46 | 120876 | [120876-tu-46.json](./120876-tu-46.json) |
 | TU-95 | 120877 | [120877-tu-95.json](./120877-tu-95.json) |
+| Tuareg | 138929 | [138929-tuareg.json](./138929-tuareg.json) |
 | Túatha Echoes: The Village | 338603 | [338603-tuatha-echoes-the-village.json](./338603-tuatha-echoes-the-village.json) |
 | Tub Defenders | 252930 | [252930-tub-defenders.json](./252930-tub-defenders.json) |
 | Tub Sub | 180584 | [180584-tub-sub.json](./180584-tub-sub.json) |
