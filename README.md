@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://ostdb.net"><img alt="soundtracks: 2,971" src="https://img.shields.io/badge/soundtracks-2%2C971-E2B714?style=for-the-badge&labelColor=161718" /></a>
 <a href="games/README.md"><img alt="games: 2,488" src="https://img.shields.io/badge/games-2%2C488-ECECEE?style=for-the-badge&labelColor=161718" /></a>
-<a href="missing/README.md"><img alt="missing: 324,515" src="https://img.shields.io/badge/missing-324%2C515-F0827A?style=for-the-badge&labelColor=161718" /></a>
+<a href="missing/README.md"><img alt="missing: 325,652" src="https://img.shields.io/badge/missing-325%2C652-F0827A?style=for-the-badge&labelColor=161718" /></a>
 <a href="SUBMITTING.md"><img alt="PRs: welcome" src="https://img.shields.io/badge/PRs-welcome-1DB954?style=for-the-badge&labelColor=161718&logo=github&logoColor=white" /></a>
 <a href="LICENSE"><img alt="data: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/data-CC%20BY--NC--SA%204.0-6366F1?style=for-the-badge&labelColor=161718" /></a>
 </p>
@@ -27,20 +27,20 @@
 
 <table>
 <tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/knee-deep"><img src="https://i.scdn.co/image/ab67616d0000b27365b8d298a35a035e688c390b" width="120" height="120" alt="" /></a><br /><sub><b>Knee Deep</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/color-zen"><img src="https://i.scdn.co/image/ab67616d0000b273102988e82d2d6d85d5697285" width="120" height="120" alt="" /></a><br /><sub><b>Color Zen</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/airships-conquer-the-skies"><img src="https://i.scdn.co/image/ab67616d0000b27323ba49e301b26442b4a59005" width="120" height="120" alt="" /></a><br /><sub><b>Airships: Conquer the Skies</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/sort-the-court"><img src="https://i.scdn.co/image/ab67616d0000b2736715a6548b794336bddd84c4" width="120" height="120" alt="" /></a><br /><sub><b>Sort the Court!</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/the-lord-of-the-rings-adventure-card-game"><img src="https://i.scdn.co/image/ab67616d0000b2733b9ec3dd8474f14289a20d8d" width="120" height="120" alt="" /></a><br /><sub><b>The Lord of the Rings: Adventure Card Game</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/jimmy-and-the-pulsating-mass"><img src="https://i.scdn.co/image/ab67616d0000b2731d6d6b1a98de9f375b760c1e" width="120" height="120" alt="" /></a><br /><sub><b>Jimmy and the Pulsating Mass</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/away-the-survival-series"><img src="https://i.scdn.co/image/ab67616d0000b273e9debb67449a64142c492c67" width="120" height="120" alt="" /></a><br /><sub><b>Away: The Survival Series</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/shape-of-the-world"><img src="https://i.scdn.co/image/ab67616d0000b2732a078ad2b64ec25ecb70963f" width="120" height="120" alt="" /></a><br /><sub><b>Shape of the World</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/floor-kids"><img src="https://i.scdn.co/image/ab67616d0000b273d1d438769939e17250d9a001" width="120" height="120" alt="" /></a><br /><sub><b>Floor Kids</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/into-the-dead-2"><img src="https://i.scdn.co/image/ab67616d0000b273841c60d44401aec9aa2c638c" width="120" height="120" alt="" /></a><br /><sub><b>Into the Dead 2</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/lethal-weapon"><img src="https://i.scdn.co/image/ab67616d0000b2736eee6315773c6bea3c879014" width="120" height="120" alt="" /></a><br /><sub><b>Lethal Weapon</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/dragon-buster"><img src="https://i.scdn.co/image/ab67616d0000b273dfaa851573778f9479c6538a" width="120" height="120" alt="" /></a><br /><sub><b>Dragon Buster</b></sub></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/no70-eye-of-basir"><img src="https://i.scdn.co/image/ab67616d0000b27315ba3928d769a711536aa56e" width="120" height="120" alt="" /></a><br /><sub><b>No70: Eye of Basir</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/bit-heroes"><img src="https://i.scdn.co/image/ab67616d0000b273389ef500d3db52f4c34de9c8" width="120" height="120" alt="" /></a><br /><sub><b>Bit Heroes</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/dont-look-back"><img src="https://i.scdn.co/image/ab67616d0000b273760280244d8107ad682b9de1" width="120" height="120" alt="" /></a><br /><sub><b>Don't Look Back</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/airport-ceo"><img src="https://i.scdn.co/image/ab67616d0000b27379e4ff89cac1b21061443b53" width="120" height="120" alt="" /></a><br /><sub><b>Airport CEO</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/space-pirate-trainer"><img src="https://i.scdn.co/image/ab67616d0000b273199ef7040a608dccb766da5d" width="120" height="120" alt="" /></a><br /><sub><b>Space Pirate Trainer</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/pathfinder-adventures"><img src="https://i.scdn.co/image/ab67616d0000b273bf00d4e558688147b9f148fa" width="120" height="120" alt="" /></a><br /><sub><b>Pathfinder Adventures</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/shadows-on-the-vatican-act-i-greed"><img src="https://i.scdn.co/image/ab67616d0000b2738a39c3c33cbfb4bc0d4d0700" width="120" height="120" alt="" /></a><br /><sub><b>Shadows on the Vatican Act I: Greed</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/overwatch-collectors-edition"><img src="https://i.scdn.co/image/ab67616d0000b27318ef35915e2d654371c9db52" width="120" height="120" alt="" /></a><br /><sub><b>Overwatch: Collector's Edition</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/long-gone-days"><img src="https://i.scdn.co/image/ab67616d0000b273b2b458aa9697310df235a1f4" width="120" height="120" alt="" /></a><br /><sub><b>Long Gone Days</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/behold-the-kickmen"><img src="https://i.scdn.co/image/ab67616d0000b273ae3a7f1df9f14659719ad6c8" width="120" height="120" alt="" /></a><br /><sub><b>Behold the Kickmen</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/tower-of-heaven"><img src="https://i.scdn.co/image/ab67616d0000b273c316b95a9396b49efc827f64" width="120" height="120" alt="" /></a><br /><sub><b>Tower of Heaven</b></sub></td>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/you-have-10-seconds"><img src="https://i.scdn.co/image/ab67616d0000b2731ec069677625eb1a4208c7e6" width="120" height="120" alt="" /></a><br /><sub><b>You Have 10 Seconds</b></sub></td>
 </tr>
 </table>
 
@@ -66,7 +66,7 @@ The most popular games that still have no soundtrack on OSTDB. Find the official
 | 14 | **Counter-Strike: Condition Zero** | [🔎 Find on Spotify](https://open.spotify.com/search/Counter-Strike%3A%20Condition%20Zero%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/297-counter-strike-condition-zero.json) |
 | 15 | **Resident Evil: Revelations 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Resident%20Evil%3A%20Revelations%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/R/7725-resident-evil-revelations-2.json) |
 
-More in **[missing/](missing/README.md)** (324,515 games).
+More in **[missing/](missing/README.md)** (325,652 games).
 
 ## 🎵 Add a soundtrack in 2 minutes
 
@@ -111,4 +111,4 @@ Commercial use needs permission ([support@ostdb.net](mailto:support@ostdb.net)).
 
 ---
 
-<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 2,971 soundtracks &middot; last updated 2026-11-08T12:25:49.169Z</sub>
+<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 2,971 soundtracks &middot; last updated 2026-11-08T12:41:04.868Z</sub>
