@@ -2540,6 +2540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevator Madness | 248960 | [248960-elevator-madness.json](./248960-elevator-madness.json) |
 | Elevator Music | 329588 | [329588-elevator-music.json](./329588-elevator-music.json) |
 | Elevator Orator | 178971 | [178971-elevator-orator.json](./178971-elevator-orator.json) |
+| Elevator Panic | 78843 | [78843-elevator-panic.json](./78843-elevator-panic.json) |
 | Elevator Ritual | 89611 | [89611-elevator-ritual.json](./89611-elevator-ritual.json) |
 | Elevator Simulator 3D | 394310 | [394310-elevator-simulator-3d.json](./394310-elevator-simulator-3d.json) |
 | Elevator Warp | 295573 | [295573-elevator-warp.json](./295573-elevator-warp.json) |
