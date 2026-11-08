@@ -5497,6 +5497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intro Fighters | 186161 | [186161-intro-fighters.json](./186161-intro-fighters.json) |
 | Intro Maker | 89353 | [89353-intro-maker.json](./89353-intro-maker.json) |
 | Introducing An Apprentice Incubus | 82640 | [82640-introducing-an-apprentice-incubus.json](./82640-introducing-an-apprentice-incubus.json) |
+| Introspect | 83732 | [83732-introspect.json](./83732-introspect.json) |
 | Introspection | 176376 | [176376-introspection.json](./176376-introspection.json) |
 | Introspection | 295884 | [295884-introspection.json](./295884-introspection.json) |
 | Introspectus | 398353 | [398353-introspectus.json](./398353-introspectus.json) |
