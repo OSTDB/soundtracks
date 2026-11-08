@@ -2520,6 +2520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZpellCatz: Supporter Pack | 301639 | [301639-zpellcatz-supporter-pack.json](./301639-zpellcatz-supporter-pack.json) |
 | ZPF | 308919 | [308919-zpf.json](./308919-zpf.json) |
 | ZPlague | 188981 | [188981-zplague.json](./188981-zplague.json) |
+| Zquirrels Jump | 111245 | [111245-zquirrels-jump.json](./111245-zquirrels-jump.json) |
 | ZRoll | 33118 | [33118-zroll.json](./33118-zroll.json) |
 | Zruce Adventures | 194718 | [194718-zruce-adventures.json](./194718-zruce-adventures.json) |
 | ZRun | 95366 | [95366-zrun.json](./95366-zrun.json) |
