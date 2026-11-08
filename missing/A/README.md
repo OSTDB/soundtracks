@@ -8542,6 +8542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Maze / Tic-Tac-Toe | 169264 | [169264-amazing-maze-tic-tac-toe.json](./169264-amazing-maze-tic-tac-toe.json) |
 | Amazing Maze/Tic Tac Toe | 94148 | [94148-amazing-maze-tic-tac-toe.json](./94148-amazing-maze-tic-tac-toe.json) |
 | Amazing Moon: Frog in Space | 103089 | [103089-amazing-moon-frog-in-space.json](./103089-amazing-moon-frog-in-space.json) |
+| Amazing Neons | 87516 | [87516-amazing-neons.json](./87516-amazing-neons.json) |
 | Amazing Online | 230131 | [230131-amazing-online.json](./230131-amazing-online.json) |
 | Amazing Penguin | 7753 | [7753-amazing-penguin.json](./7753-amazing-penguin.json) |
 | Amazing Penguin DX | 279579 | [279579-amazing-penguin-dx.json](./279579-amazing-penguin-dx.json) |
@@ -8840,6 +8841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Idol: The Search For A Superstar | 63636 | [63636-american-idol-the-search-for-a-superstar.json](./63636-american-idol-the-search-for-a-superstar.json) |
 | American Isekai: Legends of Nipponia | 277012 | [277012-american-isekai-legends-of-nipponia.json](./277012-american-isekai-legends-of-nipponia.json) |
 | American Lowriders | 52394 | [52394-american-lowriders.json](./52394-american-lowriders.json) |
+| American MahJong Practice 2017 | 87496 | [87496-american-mahjong-practice-2017.json](./87496-american-mahjong-practice-2017.json) |
 | American MahJong Practice 2018 | 96789 | [96789-american-mahjong-practice-2018.json](./96789-american-mahjong-practice-2018.json) |
 | American Marksman | 239912 | [239912-american-marksman.json](./239912-american-marksman.json) |
 | American McGee presents: Bad Day L.A. | 20567 | [20567-american-mcgee-presents-bad-day-l-a.json](./20567-american-mcgee-presents-bad-day-l-a.json) |
@@ -9486,6 +9488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Battle: Hannibal | 106454 | [106454-ancient-battle-hannibal.json](./106454-ancient-battle-hannibal.json) |
 | Ancient Battle: Hannibal - Gold | 201258 | [201258-ancient-battle-hannibal-gold.json](./201258-ancient-battle-hannibal-gold.json) |
 | Ancient Battle: Rome | 54802 | [54802-ancient-battle-rome.json](./54802-ancient-battle-rome.json) |
+| Ancient Battle: Successors | 87438 | [87438-ancient-battle-successors.json](./87438-ancient-battle-successors.json) |
 | Ancient Battle: The Aztecs | 326753 | [326753-ancient-battle-the-aztecs.json](./326753-ancient-battle-the-aztecs.json) |
 | Ancient Beast | 132866 | [132866-ancient-beast.json](./132866-ancient-beast.json) |
 | Ancient Board Game Collection | 199201 | [199201-ancient-board-game-collection.json](./199201-ancient-board-game-collection.json) |
@@ -16921,6 +16924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATC Flight Operator | 338176 | [338176-atc-flight-operator.json](./338176-atc-flight-operator.json) |
 | ATC Ground Point | 319410 | [319410-atc-ground-point.json](./319410-atc-ground-point.json) |
 | ATC Infinite | 157318 | [157318-atc-infinite.json](./157318-atc-infinite.json) |
+| ATC Voice: Air Traffic Control Voice Recognition | 87468 | [87468-atc-voice-air-traffic-control-voice-recognition.json](./87468-atc-voice-air-traffic-control-voice-recognition.json) |
 | ATC: Tower & Ground | 413117 | [413117-atc-tower-and-ground.json](./413117-atc-tower-and-ground.json) |
 | Atchafalaya Arcade | 135453 | [135453-atchafalaya-arcade.json](./135453-atchafalaya-arcade.json) |
 | ATCo2 | 214115 | [214115-atco2.json](./214115-atco2.json) |
