@@ -6407,10 +6407,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noel the Mortal Fate | 192026 | [192026-noel-the-mortal-fate.json](./192026-noel-the-mortal-fate.json) |
 | Noel the Mortal Fate S1-7 | 102484 | [102484-noel-the-mortal-fate-s1-7.json](./102484-noel-the-mortal-fate-s1-7.json) |
 | Noel the Mortal Fate: Complete Edition | 354817 | [354817-noel-the-mortal-fate-complete-edition.json](./354817-noel-the-mortal-fate-complete-edition.json) |
+| Noel the Mortal Fate: Season 1 - Mortal revenger | 119146 | [119146-noel-the-mortal-fate-season-1-mortal-revenger.json](./119146-noel-the-mortal-fate-season-1-mortal-revenger.json) |
 | Noel the Mortal Fate: Season 10 | 220453 | [220453-noel-the-mortal-fate-season-10.json](./220453-noel-the-mortal-fate-season-10.json) |
 | Noel the Mortal Fate: Season 11 | 237539 | [237539-noel-the-mortal-fate-season-11.json](./237539-noel-the-mortal-fate-season-11.json) |
 | Noel the Mortal Fate: Season 12 | 243374 | [243374-noel-the-mortal-fate-season-12.json](./243374-noel-the-mortal-fate-season-12.json) |
+| Noel the Mortal Fate: Season 2 - Blind Devotion | 119147 | [119147-noel-the-mortal-fate-season-2-blind-devotion.json](./119147-noel-the-mortal-fate-season-2-blind-devotion.json) |
+| Noel the Mortal Fate: Season 3 - Bury the Past | 119148 | [119148-noel-the-mortal-fate-season-3-bury-the-past.json](./119148-noel-the-mortal-fate-season-3-bury-the-past.json) |
 | Noel the Mortal Fate: Season 3.5 - Revenger's Vacation | 258205 | [258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json](./258205-noel-the-mortal-fate-season-3-5-revengers-vacation.json) |
+| Noel the Mortal Fate: Season 4 - Falling Flight | 119149 | [119149-noel-the-mortal-fate-season-4-falling-flight.json](./119149-noel-the-mortal-fate-season-4-falling-flight.json) |
+| Noel the Mortal Fate: Season 5 - Revolt in the Fire | 119150 | [119150-noel-the-mortal-fate-season-5-revolt-in-the-fire.json](./119150-noel-the-mortal-fate-season-5-revolt-in-the-fire.json) |
+| Noel the Mortal Fate: Season 6 - Million Gamble | 119151 | [119151-noel-the-mortal-fate-season-6-million-gamble.json](./119151-noel-the-mortal-fate-season-6-million-gamble.json) |
+| Noel the Mortal Fate: Season 7 - End of the Paranoid | 119152 | [119152-noel-the-mortal-fate-season-7-end-of-the-paranoid.json](./119152-noel-the-mortal-fate-season-7-end-of-the-paranoid.json) |
+| Noel the Mortal Fate: Season 8 - Red Eyes Awaken | 119153 | [119153-noel-the-mortal-fate-season-8-red-eyes-awaken.json](./119153-noel-the-mortal-fate-season-8-red-eyes-awaken.json) |
+| Noel the Mortal Fate: Season 9 - Burn Your Name | 119186 | [119186-noel-the-mortal-fate-season-9-burn-your-name.json](./119186-noel-the-mortal-fate-season-9-burn-your-name.json) |
 | Noel the Mortal Fate: Season Final Part 1 | 246811 | [246811-noel-the-mortal-fate-season-final-part-1.json](./246811-noel-the-mortal-fate-season-final-part-1.json) |
 | Noel the Mortal Fate: Season Final Part 2 | 259092 | [259092-noel-the-mortal-fate-season-final-part-2.json](./259092-noel-the-mortal-fate-season-final-part-2.json) |
 | Noël: La Neige | 107619 | [107619-noel-la-neige.json](./107619-noel-la-neige.json) |
