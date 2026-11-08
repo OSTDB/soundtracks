@@ -1201,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Quest | 246097 | [246097-quiz-quest.json](./246097-quiz-quest.json) |
 | Quiz Racer | 297331 | [297331-quiz-racer.json](./297331-quiz-racer.json) |
 | Quiz Realm | 198360 | [198360-quiz-realm.json](./198360-quiz-realm.json) |
+| Quiz Rouka ni Tatte Nasai! | 125567 | [125567-quiz-rouka-ni-tatte-nasai.json](./125567-quiz-rouka-ni-tatte-nasai.json) |
 | Quiz RPG: The World of Mystic Wiz | 56307 | [56307-quiz-rpg-the-world-of-mystic-wiz.json](./56307-quiz-rpg-the-world-of-mystic-wiz.json) |
 | Quiz Scramble Special | 46387 | [46387-quiz-scramble-special.json](./46387-quiz-scramble-special.json) |
 | Quiz Seikai ha Ichinengo presents Atsushi no Meitantei | 344788 | [344788-quiz-seikai-ha-ichinengo-presents-atsushi-no-meitantei.json](./344788-quiz-seikai-ha-ichinengo-presents-atsushi-no-meitantei.json) |
@@ -1208,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz Shooting Fushigi no Corona Oukoku | 212439 | [212439-quiz-shooting-fushigi-no-corona-oukoku.json](./212439-quiz-shooting-fushigi-no-corona-oukoku.json) |
 | Quiz Show | 112889 | [112889-quiz-show.json](./112889-quiz-show.json) |
 | Quiz Show | 79378 | [79378-quiz-show.json](./79378-quiz-show.json) |
+| Quiz Shukudai o Wasuremashita! | 125568 | [125568-quiz-shukudai-o-wasuremashita.json](./125568-quiz-shukudai-o-wasuremashita.json) |
 | Quiz Taxi | 124743 | [124743-quiz-taxi.json](./124743-quiz-taxi.json) |
 | Quiz Thiz Croatia: Bronze Edition | 249487 | [249487-quiz-thiz-croatia-bronze-edition.json](./249487-quiz-thiz-croatia-bronze-edition.json) |
 | Quiz Thiz France | 230518 | [230518-quiz-thiz-france.json](./230518-quiz-thiz-france.json) |
