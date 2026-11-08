@@ -19649,6 +19649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bots | 95774 | [95774-space-bots.json](./95774-space-bots.json) |
 | Space Bounce | 178984 | [178984-space-bounce.json](./178984-space-bounce.json) |
 | Space Bouncer | 314691 | [314691-space-bouncer.json](./314691-space-bouncer.json) |
+| Space Bound | 115224 | [115224-space-bound.json](./115224-space-bound.json) |
 | Space Box Battle Arena | 164968 | [164968-space-box-battle-arena.json](./164968-space-box-battle-arena.json) |
 | Space Break | 106331 | [106331-space-break.json](./106331-space-break.json) |
 | Space Break | 142853 | [142853-space-break.json](./142853-space-break.json) |
@@ -21918,6 +21919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spermicide | 191083 | [191083-spermicide.json](./191083-spermicide.json) |
 | Spermination: Cream of the Crop | 208232 | [208232-spermination-cream-of-the-crop.json](./208232-spermination-cream-of-the-crop.json) |
 | Spermula 1 | 131598 | [131598-spermula-1.json](./131598-spermula-1.json) |
+| SpessVR | 115228 | [115228-spessvr.json](./115228-spessvr.json) |
 | Spewer | 63228 | [63228-spewer.json](./63228-spewer.json) |
 | Speyarranoth | 168615 | [168615-speyarranoth.json](./168615-speyarranoth.json) |
 | SPGP Super Polygon Grand Prix | 274542 | [274542-spgp-super-polygon-grand-prix.json](./274542-spgp-super-polygon-grand-prix.json) |
@@ -24136,6 +24138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack the States | 396755 | [396755-stack-the-states.json](./396755-stack-the-states.json) |
 | Stack the States 2 | 396763 | [396763-stack-the-states-2.json](./396763-stack-the-states-2.json) |
 | Stack to Ascension | 353802 | [353802-stack-to-ascension.json](./353802-stack-to-ascension.json) |
+| Stack Tower | 115123 | [115123-stack-tower.json](./115123-stack-tower.json) |
 | Stack Tower͏ | 219264 | [219264-stack-tower.json](./219264-stack-tower.json) |
 | Stack Tower | 238110 | [238110-stack-tower.json](./238110-stack-tower.json) |
 | Stack Up (or dive trying) | 133132 | [133132-stack-up-or-dive-trying.json](./133132-stack-up-or-dive-trying.json) |
@@ -24844,6 +24847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Soldier: Vanishing Earth | 3604 | [3604-star-soldier-vanishing-earth.json](./3604-star-soldier-vanishing-earth.json) |
 | Star Sonata 2 | 36276 | [36276-star-sonata-2.json](./36276-star-sonata-2.json) |
 | Star Soraight Fantasy: Magic to Reach the Sky | 343981 | [343981-star-soraight-fantasy-magic-to-reach-the-sky.json](./343981-star-soraight-fantasy-magic-to-reach-the-sky.json) |
+| Star Souls | 115227 | [115227-star-souls.json](./115227-star-souls.json) |
 | Star Space | 416351 | [416351-star-space.json](./416351-star-space.json) |
 | Star Spectre | 217393 | [217393-star-spectre.json](./217393-star-spectre.json) |
 | Star Speeder | 97237 | [97237-star-speeder.json](./97237-star-speeder.json) |
@@ -33076,6 +33080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Onion Boy 2 | 154002 | [154002-super-onion-boy-2.json](./154002-super-onion-boy-2.json) |
 | Super Onion Boy+ | 292476 | [292476-super-onion-boy.json](./292476-super-onion-boy.json) |
 | Super Orb Bros. | 142396 | [142396-super-orb-bros.json](./142396-super-orb-bros.json) |
+| Super Orb Collector | 115213 | [115213-super-orb-collector.json](./115213-super-orb-collector.json) |
 | Super Orbit | 344563 | [344563-super-orbit.json](./344563-super-orbit.json) |
 | Super Orbital Mega Drift II | 339477 | [339477-super-orbital-mega-drift-ii.json](./339477-super-orbital-mega-drift-ii.json) |
 | Super OsWald | 112190 | [112190-super-oswald.json](./112190-super-oswald.json) |
