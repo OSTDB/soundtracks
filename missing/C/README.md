@@ -3580,6 +3580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Clash | 38890 | [38890-castle-clash.json](./38890-castle-clash.json) |
 | Castle Clash: Age of Legends | 59299 | [59299-castle-clash-age-of-legends.json](./59299-castle-clash-age-of-legends.json) |
 | Castle Clicker | 67920 | [67920-castle-clicker.json](./67920-castle-clicker.json) |
+| Castle Clout | 99823 | [99823-castle-clout.json](./99823-castle-clout.json) |
 | Castle Combat | 342194 | [342194-castle-combat.json](./342194-castle-combat.json) |
 | Castle Combat | 47551 | [47551-castle-combat.json](./47551-castle-combat.json) |
 | Castle Come | 307043 | [307043-castle-come.json](./307043-castle-come.json) |
@@ -5485,6 +5486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celtic Warfare | 291821 | [291821-celtic-warfare.json](./291821-celtic-warfare.json) |
 | Celtica | 71838 | [71838-celtica.json](./71838-celtica.json) |
 | Celtique | 244604 | [244604-celtique.json](./244604-celtique.json) |
+| Celtreos | 99682 | [99682-celtreos.json](./99682-celtreos.json) |
 | CelV Run | 284813 | [284813-celv-run.json](./284813-celv-run.json) |
 | Cemantle & Pedantle | 194956 | [194956-cemantle-and-pedantle.json](./194956-cemantle-and-pedantle.json) |
 | Cement Factory | 232791 | [232791-cement-factory.json](./232791-cement-factory.json) |
@@ -11998,6 +12000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColecoVision Flashback | 245651 | [245651-colecovision-flashback.json](./245651-colecovision-flashback.json) |
 | Colette's Fall Festival | 384481 | [384481-colettes-fall-festival.json](./384481-colettes-fall-festival.json) |
 | Colette's Sugar Madness | 109765 | [109765-colettes-sugar-madness.json](./109765-colettes-sugar-madness.json) |
+| Colibricks | 99681 | [99681-colibricks.json](./99681-colibricks.json) |
 | Colibrium: Zen Colour Matching | 107139 | [107139-colibrium-zen-colour-matching.json](./107139-colibrium-zen-colour-matching.json) |
 | Colin McRae Rally | 235015 | [235015-colin-mcrae-rally.json](./235015-colin-mcrae-rally.json) |
 | Colin McRae Rally 2.0 | 235185 | [235185-colin-mcrae-rally-2-0.json](./235185-colin-mcrae-rally-2-0.json) |
