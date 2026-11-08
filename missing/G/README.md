@@ -1004,6 +1004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Shooter | 178787 | [178787-galaxy-shooter.json](./178787-galaxy-shooter.json) |
 | Galaxy Shooter Space War Games | 231949 | [231949-galaxy-shooter-space-war-games.json](./231949-galaxy-shooter-space-war-games.json) |
 | Galaxy Shooting: Alien War | 105539 | [105539-galaxy-shooting-alien-war.json](./105539-galaxy-shooting-alien-war.json) |
+| Galaxy Siege 3 | 101857 | [101857-galaxy-siege-3.json](./101857-galaxy-siege-3.json) |
 | Galaxy Sphere | 180066 | [180066-galaxy-sphere.json](./180066-galaxy-sphere.json) |
 | Galaxy Splitter | 200953 | [200953-galaxy-splitter.json](./200953-galaxy-splitter.json) |
 | Galaxy Squad: Airplane Games | 256456 | [256456-galaxy-squad-airplane-games.json](./256456-galaxy-squad-airplane-games.json) |
@@ -6729,6 +6730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden war spirit | 119607 | [119607-golden-war-spirit.json](./119607-golden-war-spirit.json) |
 | Golden Warden | 310836 | [310836-golden-warden.json](./310836-golden-warden.json) |
 | Golden Yoshi's Island | 276880 | [276880-golden-yoshis-island.json](./276880-golden-yoshis-island.json) |
+| Golden8bits | 102300 | [102300-golden8bits.json](./102300-golden8bits.json) |
 | Goldene Zeiten | 94234 | [94234-goldene-zeiten.json](./94234-goldene-zeiten.json) |
 | GoldenEye | 176045 | [176045-goldeneye.json](./176045-goldeneye.json) |
 | GoldenEye 007 | 144476 | [144476-goldeneye-007.json](./144476-goldeneye-007.json) |
