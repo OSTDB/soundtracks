@@ -2379,6 +2379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gay Joker | 303315 | [303315-gay-joker.json](./303315-gay-joker.json) |
 | Gay Monopoly | 319542 | [319542-gay-monopoly.json](./319542-gay-monopoly.json) |
 | Gay Mukankei: Kidnapping a Maid Has Nothing to Do With Being Gay!! | 362069 | [362069-gay-mukankei-kidnapping-a-maid-has-nothing-to-do-with-being-gay.json](./362069-gay-mukankei-kidnapping-a-maid-has-nothing-to-do-with-being-gay.json) |
+| Gay Nation: A Gay Game for Gays - Gays Only | 99672 | [99672-gay-nation-a-gay-game-for-gays-gays-only.json](./99672-gay-nation-a-gay-game-for-gays-gays-only.json) |
 | Gay Sex Adventures: Episode 1 | 275155 | [275155-gay-sex-adventures-episode-1.json](./275155-gay-sex-adventures-episode-1.json) |
 | Gay Sex Adventures: Episode 2 | 280663 | [280663-gay-sex-adventures-episode-2.json](./280663-gay-sex-adventures-episode-2.json) |
 | Gay Sex Adventures: Episode 4 | 290803 | [290803-gay-sex-adventures-episode-4.json](./290803-gay-sex-adventures-episode-4.json) |
@@ -7541,6 +7542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goro 2 | 74655 | [74655-goro-2.json](./74655-goro-2.json) |
 | GoRogue | 199795 | [199795-gorogue.json](./199795-gorogue.json) |
 | Goronyan Puzzle: Nyanpi | 243267 | [243267-goronyan-puzzle-nyanpi.json](./243267-goronyan-puzzle-nyanpi.json) |
+| Goroons | 99290 | [99290-goroons.json](./99290-goroons.json) |
 | Gorotsuki Paradise | 390046 | [390046-gorotsuki-paradise.json](./390046-gorotsuki-paradise.json) |
 | Gorufoo | 242876 | [242876-gorufoo.json](./242876-gorufoo.json) |
 | Gorytale | 111798 | [111798-gorytale.json](./111798-gorytale.json) |
@@ -8274,6 +8276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrandMa’s Delicious Cakes: A Forgotten Hill Tale | 388677 | [388677-grandma-s-delicious-cakes-a-forgotten-hill-tale.json](./388677-grandma-s-delicious-cakes-a-forgotten-hill-tale.json) |
 | Grandma's Footsteps | 172907 | [172907-grandmas-footsteps.json](./172907-grandmas-footsteps.json) |
 | Grandma's Garden | 376810 | [376810-grandmas-garden.json](./376810-grandmas-garden.json) |
+| Grandma's Garden | 99669 | [99669-grandmas-garden.json](./99669-grandmas-garden.json) |
 | Grandma's Ghosts | 176307 | [176307-grandmas-ghosts.json](./176307-grandmas-ghosts.json) |
 | Grandma's Guide to the Grand Outside | 415110 | [415110-grandmas-guide-to-the-grand-outside.json](./415110-grandmas-guide-to-the-grand-outside.json) |
 | Grandma's House: College Days | 274923 | [274923-grandmas-house-college-days.json](./274923-grandmas-house-college-days.json) |
@@ -9546,6 +9549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Facade: Sinister Obsession - Collector's Edition | 28744 | [28744-grim-facade-sinister-obsession-collectors-edition.json](./28744-grim-facade-sinister-obsession-collectors-edition.json) |
 | Grim Facade: The Artist and The Pretender | 140217 | [140217-grim-facade-the-artist-and-the-pretender.json](./140217-grim-facade-the-artist-and-the-pretender.json) |
 | Grim Facade: The Artist and The Pretender - Collector's Edition | 110373 | [110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json](./110373-grim-facade-the-artist-and-the-pretender-collectors-edition.json) |
+| Grim Facade: The Artist and The Pretender HD | 99299 | [99299-grim-facade-the-artist-and-the-pretender-hd.json](./99299-grim-facade-the-artist-and-the-pretender-hd.json) |
 | Grim Fandango Remastered | 8682 | [8682-grim-fandango-remastered.json](./8682-grim-fandango-remastered.json) |
 | Grim Hand | 414399 | [414399-grim-hand.json](./414399-grim-hand.json) |
 | Grim Hollow | 350934 | [350934-grim-hollow.json](./350934-grim-hollow.json) |
@@ -10797,6 +10801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Parade: Episode 4 | 244423 | [244423-guilty-parade-episode-4.json](./244423-guilty-parade-episode-4.json) |
 | Guilty Party | 66982 | [66982-guilty-party.json](./66982-guilty-party.json) |
 | Guilty Pleasures | 377913 | [377913-guilty-pleasures.json](./377913-guilty-pleasures.json) |
+| Guilty Summer Kiss | 99670 | [99670-guilty-summer-kiss.json](./99670-guilty-summer-kiss.json) |
 | Guilty Summer Kiss 2: Bloody Secret | 102948 | [102948-guilty-summer-kiss-2-bloody-secret.json](./102948-guilty-summer-kiss-2-bloody-secret.json) |
 | Guilty: Ashlar | 266002 | [266002-guilty-ashlar.json](./266002-guilty-ashlar.json) |
 | Guilty: Takiko's Nightmare | 314549 | [314549-guilty-takikos-nightmare.json](./314549-guilty-takikos-nightmare.json) |
