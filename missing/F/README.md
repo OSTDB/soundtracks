@@ -9828,7 +9828,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forecursed | 321926 | [321926-forecursed.json](./321926-forecursed.json) |
 | Forefeathers | 414752 | [414752-forefeathers.json](./414752-forefeathers.json) |
 | Forefront | 335125 | [335125-forefront.json](./335125-forefront.json) |
-| Foregone | 116484 | [116484-foregone.json](./116484-foregone.json) |
 | Forehead Chip | 257939 | [257939-forehead-chip.json](./257939-forehead-chip.json) |
 | Foreign | 123837 | [123837-foreign.json](./123837-foreign.json) |
 | Foreign Affairs | 313850 | [313850-foreign-affairs.json](./313850-foreign-affairs.json) |
