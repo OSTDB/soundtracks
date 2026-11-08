@@ -9233,6 +9233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wreckin Crew | 2395 | [2395-wreckin-crew.json](./2395-wreckin-crew.json) |
 | Wreckin' Raccoon | 371475 | [371475-wreckin-raccoon.json](./371475-wreckin-raccoon.json) |
 | Wrecking Ball | 73514 | [73514-wrecking-ball.json](./73514-wrecking-ball.json) |
+| Wrecking Ball Truck | 99870 | [99870-wrecking-ball-truck.json](./99870-wrecking-ball-truck.json) |
 | Wrecking Balls Arena | 61972 | [61972-wrecking-balls-arena.json](./61972-wrecking-balls-arena.json) |
 | Wrecking Balls Arena DX | 61969 | [61969-wrecking-balls-arena-dx.json](./61969-wrecking-balls-arena-dx.json) |
 | Wrecking Crew | 41420 | [41420-wrecking-crew.json](./41420-wrecking-crew.json) |
