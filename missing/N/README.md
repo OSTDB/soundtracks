@@ -3983,6 +3983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHRA Championship Drag Racing: Speed for All - Electro Blitz Pack | 263060 | [263060-nhra-championship-drag-racing-speed-for-all-electro-blitz-pack.json](./263060-nhra-championship-drag-racing-speed-for-all-electro-blitz-pack.json) |
 | NHRA Championship Drag Racing: Speed for All - John Force Racing Pack | 263055 | [263055-nhra-championship-drag-racing-speed-for-all-john-force-racing-pack.json](./263055-nhra-championship-drag-racing-speed-for-all-john-force-racing-pack.json) |
 | NHRA Championship Drag Racing: Speed for All - Ultimate Edition | 212791 | [212791-nhra-championship-drag-racing-speed-for-all-ultimate-edition.json](./212791-nhra-championship-drag-racing-speed-for-all-ultimate-edition.json) |
+| NHRA Drag Racing | 80068 | [80068-nhra-drag-racing.json](./80068-nhra-drag-racing.json) |
 | NHRA Drag Racing 2 | 78037 | [78037-nhra-drag-racing-2.json](./78037-nhra-drag-racing-2.json) |
 | NHRA Drag Racing: Countdown to the Championship | 18270 | [18270-nhra-drag-racing-countdown-to-the-championship.json](./18270-nhra-drag-racing-countdown-to-the-championship.json) |
 | NHRA Drag Racing: Main Event | 68984 | [68984-nhra-drag-racing-main-event.json](./68984-nhra-drag-racing-main-event.json) |
@@ -5433,6 +5434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja World Adventure | 299193 | [299193-ninja-world-adventure.json](./299193-ninja-world-adventure.json) |
 | Ninja-Kid | 64021 | [64021-ninja-kid.json](./64021-ninja-kid.json) |
 | Ninja-Kid II | 41742 | [41742-ninja-kid-ii.json](./41742-ninja-kid-ii.json) |
+| Ninja-kun | 80073 | [80073-ninja-kun.json](./80073-ninja-kun.json) |
 | Ninja-kun: Ashura no Shou | 230290 | [230290-ninja-kun-ashura-no-shou.json](./230290-ninja-kun-ashura-no-shou.json) |
 | Ninja-kun: Ashura no Shou | 37326 | [37326-ninja-kun-ashura-no-shou.json](./37326-ninja-kun-ashura-no-shou.json) |
 | Ninja-kun: Majou no Bouken | 39457 | [39457-ninja-kun-majou-no-bouken.json](./39457-ninja-kun-majou-no-bouken.json) |
@@ -6561,6 +6563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nolan Ryan's Baseball | 42477 | [42477-nolan-ryans-baseball.json](./42477-nolan-ryans-baseball.json) |
 | Nolean: The Space Bartender | 334891 | [334891-nolean-the-space-bartender.json](./334891-nolean-the-space-bartender.json) |
 | NoLimits 2: Roller Coaster Simulation - Professional License | 315485 | [315485-nolimits-2-roller-coaster-simulation-professional-license.json](./315485-nolimits-2-roller-coaster-simulation-professional-license.json) |
+| NoLimits Roller Coaster Simulation | 80060 | [80060-nolimits-roller-coaster-simulation.json](./80060-nolimits-roller-coaster-simulation.json) |
 | Noloinstale | 372087 | [372087-noloinstale.json](./372087-noloinstale.json) |
 | NolyRhythm | 390731 | [390731-nolyrhythm.json](./390731-nolyrhythm.json) |
 | Nom Cat | 60287 | [60287-nom-cat.json](./60287-nom-cat.json) |
