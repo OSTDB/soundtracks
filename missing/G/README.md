@@ -11670,6 +11670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gutspill | 403929 | [403929-gutspill.json](./403929-gutspill.json) |
 | Gutsy Grid | 402438 | [402438-gutsy-grid.json](./402438-gutsy-grid.json) |
 | Gutted: Infested Crypts | 405682 | [405682-gutted-infested-crypts.json](./405682-gutted-infested-crypts.json) |
+| Gutter | 94371 | [94371-gutter.json](./94371-gutter.json) |
 | Gutter Night | 376028 | [376028-gutter-night.json](./376028-gutter-night.json) |
 | Gutter Priestess | 345619 | [345619-gutter-priestess.json](./345619-gutter-priestess.json) |
 | Gutter: The Cursed | 223370 | [223370-gutter-the-cursed.json](./223370-gutter-the-cursed.json) |
