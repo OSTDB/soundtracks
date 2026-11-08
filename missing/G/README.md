@@ -5177,6 +5177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Globat Pixels | 115676 | [115676-globat-pixels.json](./115676-globat-pixels.json) |
 | Globber | 418528 | [418528-globber.json](./418528-globber.json) |
 | Globdule | 13067 | [13067-globdule.json](./13067-globdule.json) |
+| Globe | 109929 | [109929-globe.json](./109929-globe.json) |
 | Globe Drone | 307733 | [307733-globe-drone.json](./307733-globe-drone.json) |
 | Globe Games | 311566 | [311566-globe-games.json](./311566-globe-games.json) |
 | Globe Rush | 31510 | [31510-globe-rush.json](./31510-globe-rush.json) |
