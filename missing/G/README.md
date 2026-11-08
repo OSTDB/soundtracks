@@ -2427,6 +2427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geadows | 155904 | [155904-geadows.json](./155904-geadows.json) |
 | Géants Disparus VR | 368282 | [368282-geants-disparus-vr.json](./368282-geants-disparus-vr.json) |
 | Gear | 117687 | [117687-gear.json](./117687-gear.json) |
+| Gear City Against Chaos | 117917 | [117917-gear-city-against-chaos.json](./117917-gear-city-against-chaos.json) |
 | Gear Combination | 367536 | [367536-gear-combination.json](./367536-gear-combination.json) |
 | Gear for Heroes | 243072 | [243072-gear-for-heroes.json](./243072-gear-for-heroes.json) |
 | Gear Gauntlet | 32395 | [32395-gear-gauntlet.json](./32395-gear-gauntlet.json) |
@@ -5497,6 +5498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnomes and Knights: Path of Success | 347324 | [347324-gnomes-and-knights-path-of-success.json](./347324-gnomes-and-knights-path-of-success.json) |
 | Gnomes Garden | 34122 | [34122-gnomes-garden.json](./34122-gnomes-garden.json) |
 | Gnomes Garden 2 | 33329 | [33329-gnomes-garden-2.json](./33329-gnomes-garden-2.json) |
+| Gnomes Garden 3 In 1 Bundle | 117892 | [117892-gnomes-garden-3-in-1-bundle.json](./117892-gnomes-garden-3-in-1-bundle.json) |
 | Gnomes Garden Collection | 284868 | [284868-gnomes-garden-collection.json](./284868-gnomes-garden-collection.json) |
 | Gnomes Garden Lost King | 102882 | [102882-gnomes-garden-lost-king.json](./102882-gnomes-garden-lost-king.json) |
 | Gnomes Garden: Black Stones | 360576 | [360576-gnomes-garden-black-stones.json](./360576-gnomes-garden-black-stones.json) |
@@ -11422,6 +11424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunship III: Flight Simulator - Strike Package | 90846 | [90846-gunship-iii-flight-simulator-strike-package.json](./90846-gunship-iii-flight-simulator-strike-package.json) |
 | Gunship Operator 3D | 252964 | [252964-gunship-operator-3d.json](./252964-gunship-operator-3d.json) |
 | Gunship Origins | 394127 | [394127-gunship-origins.json](./394127-gunship-origins.json) |
+| Gunship Recon | 117870 | [117870-gunship-recon.json](./117870-gunship-recon.json) |
 | Gunship Recon: Character Puzzles | 163418 | [163418-gunship-recon-character-puzzles.json](./163418-gunship-recon-character-puzzles.json) |
 | Gunship Recon: Purchase Privilege | 156168 | [156168-gunship-recon-purchase-privilege.json](./156168-gunship-recon-purchase-privilege.json) |
 | Gunship War Total Battle | 296780 | [296780-gunship-war-total-battle.json](./296780-gunship-war-total-battle.json) |
@@ -11688,6 +11691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gym Class VR | 143458 | [143458-gym-class-vr.json](./143458-gym-class-vr.json) |
 | Gym Class: Basketball VR | 223143 | [223143-gym-class-basketball-vr.json](./223143-gym-class-basketball-vr.json) |
 | Gym Empire | 97267 | [97267-gym-empire.json](./97267-gym-empire.json) |
+| Gym Hero - Idle Fitness Tycoon | 117942 | [117942-gym-hero-idle-fitness-tycoon.json](./117942-gym-hero-idle-fitness-tycoon.json) |
 | Gym Lifting Hero: Tile Master | 340527 | [340527-gym-lifting-hero-tile-master.json](./340527-gym-lifting-hero-tile-master.json) |
 | Gym Manager | 244028 | [244028-gym-manager.json](./244028-gym-manager.json) |
 | Gym Nights | 274487 | [274487-gym-nights.json](./274487-gym-nights.json) |
