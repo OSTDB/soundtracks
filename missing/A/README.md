@@ -1672,6 +1672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.D.A.M. | 19398 | [19398-a-d-a-m.json](./19398-a-d-a-m.json) |
 | A.D.D. (Anomaly Detection Department) | 412470 | [412470-a-d-d-anomaly-detection-department.json](./412470-a-d-d-anomaly-detection-department.json) |
 | A.D.D.: Addictive Dumb Distractions | 79763 | [79763-a-d-d-addictive-dumb-distractions.json](./79763-a-d-d-addictive-dumb-distractions.json) |
+| A.D.M: Angels, Demons and Men | 107983 | [107983-a-d-m-angels-demons-and-men.json](./107983-a-d-m-angels-demons-and-men.json) |
 | A.E. | 20175 | [20175-a-e.json](./20175-a-e.json) |
 | A.E. | 282086 | [282086-a-e.json](./282086-a-e.json) |
 | A.E. | 283003 | [283003-a-e.json](./283003-a-e.json) |
@@ -2864,6 +2865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acid Girls' Escape | 205568 | [205568-acid-girls-escape.json](./205568-acid-girls-escape.json) |
 | Acid Knife | 126869 | [126869-acid-knife.json](./126869-acid-knife.json) |
 | Acid Moon | 135092 | [135092-acid-moon.json](./135092-acid-moon.json) |
+| Acid Nimbus | 107981 | [107981-acid-nimbus.json](./107981-acid-nimbus.json) |
 | Acid Planet | 284791 | [284791-acid-planet.json](./284791-acid-planet.json) |
 | Acid Puzzle | 226097 | [226097-acid-puzzle.json](./226097-acid-puzzle.json) |
 | Acid R[ai/eig]n | 283739 | [283739-acid-r-ai-eig-n.json](./283739-acid-r-ai-eig-n.json) |
@@ -3336,6 +3338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ADOM II | 138068 | [138068-adom-ii.json](./138068-adom-ii.json) |
 | ADOM: Ancient Domains of Mystery | 308166 | [308166-adom-ancient-domains-of-mystery.json](./308166-adom-ancient-domains-of-mystery.json) |
 | ADOM: Ancient Domains of Mystery | 36159 | [36159-adom-ancient-domains-of-mystery.json](./36159-adom-ancient-domains-of-mystery.json) |
+| Adome | 108014 | [108014-adome.json](./108014-adome.json) |
 | Adonis | 200708 | [200708-adonis.json](./200708-adonis.json) |
 | Adonis | 82358 | [82358-adonis.json](./82358-adonis.json) |
 | Adonis: Escape from Urania | 261816 | [261816-adonis-escape-from-urania.json](./261816-adonis-escape-from-urania.json) |
@@ -9138,6 +9141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amulet of Lovar | 245957 | [245957-amulet-of-lovar.json](./245957-amulet-of-lovar.json) |
 | Amulet of Time: Shadow of La Rochelle | 169858 | [169858-amulet-of-time-shadow-of-la-rochelle.json](./169858-amulet-of-time-shadow-of-la-rochelle.json) |
 | Amulet of Yendor | 2882 | [2882-amulet-of-yendor.json](./2882-amulet-of-yendor.json) |
+| Amulet Zero: Optimize | 107984 | [107984-amulet-zero-optimize.json](./107984-amulet-zero-optimize.json) |
 | Amusement Factory | 424010 | [424010-amusement-factory.json](./424010-amusement-factory.json) |
 | Amusement Inferno | 271722 | [271722-amusement-inferno.json](./271722-amusement-inferno.json) |
 | Amusement Park | 377097 | [377097-amusement-park.json](./377097-amusement-park.json) |
@@ -12355,6 +12359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AR Flower | 175134 | [175134-ar-flower.json](./175134-ar-flower.json) |
 | AR Games | 98851 | [98851-ar-games.json](./98851-ar-games.json) |
 | AR Invaders | 63248 | [63248-ar-invaders.json](./63248-ar-invaders.json) |
+| AR Lovely Girlfriend | 108090 | [108090-ar-lovely-girlfriend.json](./108090-ar-lovely-girlfriend.json) |
 | Ar Luminae | 221848 | [221848-ar-luminae.json](./221848-ar-luminae.json) |
 | AR Magic Color UP | 56487 | [56487-ar-magic-color-up.json](./56487-ar-magic-color-up.json) |
 | Ar nosurge Plus | 91029 | [91029-ar-nosurge-plus.json](./91029-ar-nosurge-plus.json) |
@@ -14836,6 +14841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthas 2 | 262729 | [262729-arthas-2.json](./262729-arthas-2.json) |
 | Arthas: The Game | 238581 | [238581-arthas-the-game.json](./238581-arthas-the-game.json) |
 | Arthdal Chronicles | 194153 | [194153-arthdal-chronicles.json](./194153-arthdal-chronicles.json) |
+| Arthic | 108095 | [108095-arthic.json](./108095-arthic.json) |
 | Arthur | 184975 | [184975-arthur.json](./184975-arthur.json) |
 | Arthur & Susan: Almost Detectives | 270534 | [270534-arthur-and-susan-almost-detectives.json](./270534-arthur-and-susan-almost-detectives.json) |
 | Arthur and the Invisibles | 200689 | [200689-arthur-and-the-invisibles.json](./200689-arthur-and-the-invisibles.json) |
