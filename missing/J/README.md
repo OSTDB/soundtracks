@@ -783,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jar Battlers | 108371 | [108371-jar-battlers.json](./108371-jar-battlers.json) |
 | Jar Head Cauldron | 333633 | [333633-jar-head-cauldron.json](./333633-jar-head-cauldron.json) |
 | Jar of Marbles | 101203 | [101203-jar-of-marbles.json](./101203-jar-of-marbles.json) |
+| Jar Wars | 129313 | [129313-jar-wars.json](./129313-jar-wars.json) |
 | JarataireRPG | 243328 | [243328-jaratairerpg.json](./243328-jaratairerpg.json) |
 | Jardin | 186163 | [186163-jardin.json](./186163-jardin.json) |
 | Jardinains 2! | 91259 | [91259-jardinains-2.json](./91259-jardinains-2.json) |
@@ -1613,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JGTC: All-Japan Grand Touring Car Championship | 381781 | [381781-jgtc-all-japan-grand-touring-car-championship.json](./381781-jgtc-all-japan-grand-touring-car-championship.json) |
 | Ji Tan Nohua | 121648 | [121648-ji-tan-nohua.json](./121648-ji-tan-nohua.json) |
 | Jí Xiàn Zhēn Tàn | 368143 | [368143-ji-xian-zhen-tan.json](./368143-ji-xian-zhen-tan.json) |
+| Jī Yì | 129338 | [129338-ji-yi.json](./129338-ji-yi.json) |
 | Jia Ran er Zhi De Yin Fu | 188415 | [188415-jia-ran-er-zhi-de-yin-fu.json](./188415-jia-ran-er-zhi-de-yin-fu.json) |
 | Jian Po | 119700 | [119700-jian-po.json](./119700-jian-po.json) |
 | Jian Wang 3: Heavy Plate | 76953 | [76953-jian-wang-3-heavy-plate.json](./76953-jian-wang-3-heavy-plate.json) |
