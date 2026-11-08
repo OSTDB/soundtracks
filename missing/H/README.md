@@ -3721,6 +3721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavenbound | 41164 | [41164-heavenbound.json](./41164-heavenbound.json) |
 | Heavenhells | 393771 | [393771-heavenhells.json](./393771-heavenhells.json) |
 | Heavenly Bodies: Cleanup | 260747 | [260747-heavenly-bodies-cleanup.json](./260747-heavenly-bodies-cleanup.json) |
+| Heavenly Duels | 104869 | [104869-heavenly-duels.json](./104869-heavenly-duels.json) |
 | Heavenly Guitars | 391226 | [391226-heavenly-guitars.json](./391226-heavenly-guitars.json) |
 | Heavenly Hammer | 173820 | [173820-heavenly-hammer.json](./173820-heavenly-hammer.json) |
 | Heavenly Heroes of Antidomi | 211784 | [211784-heavenly-heroes-of-antidomi.json](./211784-heavenly-heroes-of-antidomi.json) |
@@ -4547,6 +4548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Mahjong | 308184 | [308184-hello-kitty-mahjong.json](./308184-hello-kitty-mahjong.json) |
 | Hello Kitty Music Party | 288137 | [288137-hello-kitty-music-party.json](./288137-hello-kitty-music-party.json) |
 | Hello Kitty My Dream Store | 334062 | [334062-hello-kitty-my-dream-store.json](./334062-hello-kitty-my-dream-store.json) |
+| Hello Kitty Nail Salon | 104764 | [104764-hello-kitty-nail-salon.json](./104764-hello-kitty-nail-salon.json) |
 | Hello Kitty no 'Otonaru' Mail | 279598 | [279598-hello-kitty-no-otonaru-mail.json](./279598-hello-kitty-no-otonaru-mail.json) |
 | Hello Kitty no Beads Koubou | 228559 | [228559-hello-kitty-no-beads-koubou.json](./228559-hello-kitty-no-beads-koubou.json) |
 | Hello Kitty no Garden Panic | 267503 | [267503-hello-kitty-no-garden-panic.json](./267503-hello-kitty-no-garden-panic.json) |
@@ -9223,6 +9225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hologram Time Traveler | 8936 | [8936-hologram-time-traveler.json](./8936-hologram-time-traveler.json) |
 | HoloGrid: Monster Battle | 56377 | [56377-hologrid-monster-battle.json](./56377-hologrid-monster-battle.json) |
 | Holoidle | 347575 | [347575-holoidle.json](./347575-holoidle.json) |
+| HoloLab Champions | 104850 | [104850-hololab-champions.json](./104850-hololab-champions.json) |
 | Hololive All-Stars Battle Tiles | 379575 | [379575-hololive-all-stars-battle-tiles.json](./379575-hololive-all-stars-battle-tiles.json) |
 | Hololive CouncilRyS RPG | 245681 | [245681-hololive-councilrys-rpg.json](./245681-hololive-councilrys-rpg.json) |
 | Hololive Dreams | 384205 | [384205-hololive-dreams.json](./384205-hololive-dreams.json) |
