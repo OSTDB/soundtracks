@@ -6039,7 +6039,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8948,6 +8947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories Off: Historia - Volume 2 | 140387 | [140387-memories-off-historia-volume-2.json](./140387-memories-off-historia-volume-2.json) |
 | Memories Off: Innocent Fille | 71590 | [71590-memories-off-innocent-fille.json](./71590-memories-off-innocent-fille.json) |
 | Memories Off: Innocent Fille - Noelle Fullbloom | 145196 | [145196-memories-off-innocent-fille-noelle-fullbloom.json](./145196-memories-off-innocent-fille-noelle-fullbloom.json) |
+| Memories Off: Innocent Fille for Dearest | 123140 | [123140-memories-off-innocent-fille-for-dearest.json](./123140-memories-off-innocent-fille-for-dearest.json) |
 | Memories Off: Sorekara | 288771 | [288771-memories-off-sorekara.json](./288771-memories-off-sorekara.json) |
 | Memories Off: Sorekara | 64806 | [64806-memories-off-sorekara.json](./64806-memories-off-sorekara.json) |
 | Memories Off: Sorekara Again | 64802 | [64802-memories-off-sorekara-again.json](./64802-memories-off-sorekara-again.json) |
@@ -12435,6 +12435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine | 385265 | [385265-mine.json](./385265-mine.json) |
 | Mine & Ship Bundle: Gold Mining & Ship Graveyard Simulator 2 | 340950 | [340950-mine-and-ship-bundle-gold-mining-and-ship-graveyard-simulator-2.json](./340950-mine-and-ship-bundle-gold-mining-and-ship-graveyard-simulator-2.json) |
 | Mine & Slash | 263856 | [263856-mine-and-slash.json](./263856-mine-and-slash.json) |
+| Mine 18 | 123141 | [123141-mine-18.json](./123141-mine-18.json) |
 | Mine Battles | 236971 | [236971-mine-battles.json](./236971-mine-battles.json) |
 | Mine Blast | 96758 | [96758-mine-blast.json](./96758-mine-blast.json) |
 | Mine Blast! | 232265 | [232265-mine-blast.json](./232265-mine-blast.json) |
@@ -15337,6 +15338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momoiro Closet | 95173 | [95173-momoiro-closet.json](./95173-momoiro-closet.json) |
 | Momoiro Nurse | 97623 | [97623-momoiro-nurse.json](./97623-momoiro-nurse.json) |
 | Momoiro Okami no Honoka-san: Ikenai, O-mo-te-na-shi | 416025 | [416025-momoiro-okami-no-honoka-san-ikenai-o-mo-te-na-shi.json](./416025-momoiro-okami-no-honoka-san-ikenai-o-mo-te-na-shi.json) |
+| Momoiro Underground | 123138 | [123138-momoiro-underground.json](./123138-momoiro-underground.json) |
 | Momoiro Zousan | 295039 | [295039-momoiro-zousan.json](./295039-momoiro-zousan.json) |
 | Momoka | 333192 | [333192-momoka.json](./333192-momoka.json) |
 | Momokan | 97490 | [97490-momokan.json](./97490-momokan.json) |
@@ -15496,6 +15498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Mansion | 170350 | [170350-money-mansion.json](./170350-money-mansion.json) |
 | Money Master | 107487 | [107487-money-master.json](./107487-money-master.json) |
 | Money Maze | 221897 | [221897-money-maze.json](./221897-money-maze.json) |
+| Money Molch | 123143 | [123143-money-molch.json](./123143-money-molch.json) |
 | Money Money | 38582 | [38582-money-money.json](./38582-money-money.json) |
 | Money Money Run | 302394 | [302394-money-money-run.json](./302394-money-money-run.json) |
 | Money Mouse in Full Barn House | 281535 | [281535-money-mouse-in-full-barn-house.json](./281535-money-mouse-in-full-barn-house.json) |
@@ -17372,6 +17375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morinaga Takurou Kanshuu: Okane no Shin Joushiki DS Training | 257492 | [257492-morinaga-takurou-kanshuu-okane-no-shin-joushiki-ds-training.json](./257492-morinaga-takurou-kanshuu-okane-no-shin-joushiki-ds-training.json) |
 | Morior Invictus | 261045 | [261045-morior-invictus.json](./261045-morior-invictus.json) |
 | Morita Kazuo no Shogi | 48817 | [48817-morita-kazuo-no-shogi.json](./48817-morita-kazuo-no-shogi.json) |
+| Morita no Battle Field | 123170 | [123170-morita-no-battle-field.json](./123170-morita-no-battle-field.json) |
 | Morita Shogi 64 | 3543 | [3543-morita-shogi-64.json](./3543-morita-shogi-64.json) |
 | Morita Shogi Advance | 49712 | [49712-morita-shogi-advance.json](./49712-morita-shogi-advance.json) |
 | Morita Shogi PC | 37672 | [37672-morita-shogi-pc.json](./37672-morita-shogi-pc.json) |
@@ -19050,6 +19054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Photographer | 292750 | [292750-mr-photographer.json](./292750-mr-photographer.json) |
 | Mr. Photographer: Into The Light | 350044 | [350044-mr-photographer-into-the-light.json](./350044-mr-photographer-into-the-light.json) |
 | Mr. Pibb: The 3D Interactive Game | 123586 | [123586-mr-pibb-the-3d-interactive-game.json](./123586-mr-pibb-the-3d-interactive-game.json) |
+| Mr. Pingo | 123144 | [123144-mr-pingo.json](./123144-mr-pingo.json) |
 | Mr. Platformer | 265198 | [265198-mr-platformer.json](./265198-mr-platformer.json) |
 | Mr. Pogo | 341340 | [341340-mr-pogo.json](./341340-mr-pogo.json) |
 | Mr. Pompy's Extravagant Quiz | 303104 | [303104-mr-pompys-extravagant-quiz.json](./303104-mr-pompys-extravagant-quiz.json) |
