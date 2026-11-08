@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -9400,6 +9401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackholes Stars | 190219 | [190219-blackholes-stars.json](./190219-blackholes-stars.json) |
 | BlackHoopS | 111482 | [111482-blackhoops.json](./111482-blackhoops.json) |
 | Blackish House | 271769 | [271769-blackish-house.json](./271769-blackish-house.json) |
+| Blackjack | 131076 | [131076-blackjack.json](./131076-blackjack.json) |
 | Blackjack | 131529 | [131529-blackjack.json](./131529-blackjack.json) |
 | Blackjack | 204476 | [204476-blackjack.json](./204476-blackjack.json) |
 | Blackjack | 224087 | [224087-blackjack.json](./224087-blackjack.json) |
@@ -10816,6 +10818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlockMerge: Hexa Merge Puzzle | 99944 | [99944-blockmerge-hexa-merge-puzzle.json](./99944-blockmerge-hexa-merge-puzzle.json) |
 | BlockMill | 249266 | [249266-blockmill.json](./249266-blockmill.json) |
 | Blocknator | 194993 | [194993-blocknator.json](./194993-blocknator.json) |
+| Blockoid | 131050 | [131050-blockoid.json](./131050-blockoid.json) |
 | Blockon | 413789 | [413789-blockon.json](./413789-blockon.json) |
 | BlockOn! | 199150 | [199150-blockon.json](./199150-blockon.json) |
 | Blockor.io | 56443 | [56443-blockor-io.json](./56443-blockor-io.json) |
