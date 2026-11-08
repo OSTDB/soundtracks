@@ -6763,6 +6763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PillPop | 138645 | [138645-pillpop.json](./138645-pillpop.json) |
 | Pills4Skills | 33903 | [33903-pills4skills.json](./33903-pills4skills.json) |
 | Pillz | 180412 | [180412-pillz.json](./180412-pillz.json) |
+| Pilot | 137773 | [137773-pilot.json](./137773-pilot.json) |
 | Pilot 6174: Orbital Survival | 386445 | [386445-pilot-6174-orbital-survival.json](./386445-pilot-6174-orbital-survival.json) |
 | Pilot Academy | 23121 | [23121-pilot-academy.json](./23121-pilot-academy.json) |
 | Pilot Attack | 281534 | [281534-pilot-attack.json](./281534-pilot-attack.json) |
@@ -13673,6 +13674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Instinct Legends | 39548 | [39548-power-instinct-legends.json](./39548-power-instinct-legends.json) |
 | Power Instinct Matrimelee | 39543 | [39543-power-instinct-matrimelee.json](./39543-power-instinct-matrimelee.json) |
 | Power is Everything | 365390 | [365390-power-is-everything.json](./365390-power-is-everything.json) |
+| Power Jet Racing 2001 | 137760 | [137760-power-jet-racing-2001.json](./137760-power-jet-racing-2001.json) |
 | Power League '93 | 37662 | [37662-power-league-93.json](./37662-power-league-93.json) |
 | Power League II | 38089 | [38089-power-league-ii.json](./38089-power-league-ii.json) |
 | Power League IV | 43191 | [43191-power-league-iv.json](./43191-power-league-iv.json) |
@@ -15877,6 +15879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Blind | 297193 | [297193-project-blind.json](./297193-project-blind.json) |
 | Project BlockchainZ | 180313 | [180313-project-blockchainz.json](./180313-project-blockchainz.json) |
 | Project Bloom | 249706 | [249706-project-bloom.json](./249706-project-bloom.json) |
+| Project Blue | 137766 | [137766-project-blue.json](./137766-project-blue.json) |
 | Project Blue Book: Hidden Mysteries | 157917 | [157917-project-blue-book-hidden-mysteries.json](./157917-project-blue-book-hidden-mysteries.json) |
 | Project Blur | 372086 | [372086-project-blur.json](./372086-project-blur.json) |
 | Project Bob | 293013 | [293013-project-bob.json](./293013-project-bob.json) |
