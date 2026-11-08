@@ -15617,6 +15617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Sinker | 38504 | [38504-dragon-sinker.json](./38504-dragon-sinker.json) |
 | Dragon Sisters | 43265 | [43265-dragon-sisters.json](./43265-dragon-sisters.json) |
 | Dragon Skies VR | 31573 | [31573-dragon-skies-vr.json](./31573-dragon-skies-vr.json) |
+| Dragon Skills | 85633 | [85633-dragon-skills.json](./85633-dragon-skills.json) |
 | Dragon Slaughter | 144604 | [144604-dragon-slaughter.json](./144604-dragon-slaughter.json) |
 | Dragon Slayer | 250231 | [250231-dragon-slayer.json](./250231-dragon-slayer.json) |
 | Dragon Slayer | 293747 | [293747-dragon-slayer.json](./293747-dragon-slayer.json) |
