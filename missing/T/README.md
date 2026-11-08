@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactics Wanderer | 402654 | [402654-tactics-wanderer.json](./402654-tactics-wanderer.json) |
 | Tactics: Bludgeons Blessing | 44130 | [44130-tactics-bludgeons-blessing.json](./44130-tactics-bludgeons-blessing.json) |
 | TacticsLand | 311805 | [311805-tacticsland.json](./311805-tacticsland.json) |
+| TacticTrainer | 87457 | [87457-tactictrainer.json](./87457-tactictrainer.json) |
 | TactiCube | 235946 | [235946-tacticube.json](./235946-tacticube.json) |
 | Tactile Wars | 76564 | [76564-tactile-wars.json](./76564-tactile-wars.json) |
 | Tactilite | 397160 | [397160-tactilite.json](./397160-tactilite.json) |
@@ -6639,6 +6640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bible Game | 225574 | [225574-the-bible-game.json](./225574-the-bible-game.json) |
 | The Bible Game | 5746 | [5746-the-bible-game.json](./5746-the-bible-game.json) |
 | The Bible Text Adventure | 377981 | [377981-the-bible-text-adventure.json](./377981-the-bible-text-adventure.json) |
+| The Bible Trivia Challenge | 87387 | [87387-the-bible-trivia-challenge.json](./87387-the-bible-trivia-challenge.json) |
 | The Bible: Exodus | 155381 | [155381-the-bible-exodus.json](./155381-the-bible-exodus.json) |
 | The Bibleman | 72773 | [72773-the-bibleman.json](./72773-the-bibleman.json) |
 | The Bibleman Videogame Adventure: A Fight for Faith | 206659 | [206659-the-bibleman-videogame-adventure-a-fight-for-faith.json](./206659-the-bibleman-videogame-adventure-a-fight-for-faith.json) |
@@ -29653,6 +29655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train World | 225179 | [225179-train-world.json](./225179-train-world.json) |
 | Train World Driver | 332865 | [332865-train-world-driver.json](./332865-train-world-driver.json) |
 | Train Yard Builder | 167370 | [167370-train-yard-builder.json](./167370-train-yard-builder.json) |
+| Train your Brain | 87473 | [87473-train-your-brain.json](./87473-train-your-brain.json) |
 | Train Your Brain | 181527 | [181527-train-your-brain.json](./181527-train-your-brain.json) |
 | Train Your Brain | 234050 | [234050-train-your-brain.json](./234050-train-your-brain.json) |
 | Train Your Brain: Nintendo Switch Training for Adults | 124043 | [124043-train-your-brain-nintendo-switch-training-for-adults.json](./124043-train-your-brain-nintendo-switch-training-for-adults.json) |
