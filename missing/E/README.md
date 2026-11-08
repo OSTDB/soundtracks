@@ -7571,6 +7571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ex0 Escape | 211208 | [211208-ex0-escape.json](./211208-ex0-escape.json) |
 | EX0: Dark Moon | 76355 | [76355-ex0-dark-moon.json](./76355-ex0-dark-moon.json) |
 | Exa Innova | 47533 | [47533-exa-innova.json](./47533-exa-innova.json) |
+| Exa soldier Space shooter | 110588 | [110588-exa-soldier-space-shooter.json](./110588-exa-soldier-space-shooter.json) |
 | EXA: The Infinite Instrument | 163812 | [163812-exa-the-infinite-instrument.json](./163812-exa-the-infinite-instrument.json) |
 | Exact | 277420 | [277420-exact.json](./277420-exact.json) |
 | Exactamundo: World Trivia Tour | 122183 | [122183-exactamundo-world-trivia-tour.json](./122183-exactamundo-world-trivia-tour.json) |
@@ -7591,6 +7592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exanimora | 371959 | [371959-exanimora.json](./371959-exanimora.json) |
 | Exanimum: The Silent Call | 290410 | [290410-exanimum-the-silent-call.json](./290410-exanimum-the-silent-call.json) |
 | Exapunks | 106122 | [106122-exapunks.json](./106122-exapunks.json) |
+| Exapunks: TEC Redshift Player | 110555 | [110555-exapunks-tec-redshift-player.json](./110555-exapunks-tec-redshift-player.json) |
 | ExaSkeleton | 63019 | [63019-exaskeleton.json](./63019-exaskeleton.json) |
 | Exatron Quest 2 | 44201 | [44201-exatron-quest-2.json](./44201-exatron-quest-2.json) |
 | Exaverse | 397601 | [397601-exaverse.json](./397601-exaverse.json) |
@@ -7752,6 +7754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exiled from Court | 177356 | [177356-exiled-from-court.json](./177356-exiled-from-court.json) |
 | Exiled Into Darkness | 291788 | [291788-exiled-into-darkness.json](./291788-exiled-into-darkness.json) |
 | Exiled Survivors | 278524 | [278524-exiled-survivors.json](./278524-exiled-survivors.json) |
+| Exiled to the Void | 110564 | [110564-exiled-to-the-void.json](./110564-exiled-to-the-void.json) |
 | Exiler | 307799 | [307799-exiler.json](./307799-exiler.json) |
 | Exiles | 382136 | [382136-exiles.json](./382136-exiles.json) |
 | Exiles of Embermark | 95549 | [95549-exiles-of-embermark.json](./95549-exiles-of-embermark.json) |
