@@ -4596,6 +4596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty's The Land of Hidden Objects: DokokanaArcana | 284432 | [284432-hello-kittys-the-land-of-hidden-objects-dokokanaarcana.json](./284432-hello-kittys-the-land-of-hidden-objects-dokokanaarcana.json) |
 | Hello Lady! | 95168 | [95168-hello-lady.json](./95168-hello-lady.json) |
 | Hello Lady! Complete Edition | 187447 | [187447-hello-lady-complete-edition.json](./187447-hello-lady-complete-edition.json) |
+| Hello Lady! New Division | 117215 | [117215-hello-lady-new-division.json](./117215-hello-lady-new-division.json) |
 | Hello Lady! Superior Dynamis | 28498 | [28498-hello-lady-superior-dynamis.json](./28498-hello-lady-superior-dynamis.json) |
 | Hello Loaf | 367496 | [367496-hello-loaf.json](./367496-hello-loaf.json) |
 | Hello Love: 18 Again | 327712 | [327712-hello-love-18-again.json](./327712-hello-love-18-again.json) |
