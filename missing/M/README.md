@@ -3624,6 +3624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MareDare | 348962 | [348962-maredare.json](./348962-maredare.json) |
 | Marée Noire | 179012 | [179012-maree-noire.json](./179012-maree-noire.json) |
 | Mareld | 272748 | [272748-mareld.json](./272748-mareld.json) |
+| Marenian Tavern Story: Patty and the Hungry God | 111816 | [111816-marenian-tavern-story-patty-and-the-hungry-god.json](./111816-marenian-tavern-story-patty-and-the-hungry-god.json) |
 | MareQuest | 230240 | [230240-marequest.json](./230240-marequest.json) |
 | MareQuest: An Interactive Tail | 262795 | [262795-marequest-an-interactive-tail.json](./262795-marequest-an-interactive-tail.json) |
 | Marerium | 328152 | [328152-marerium.json](./328152-marerium.json) |
@@ -14663,6 +14664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moana: Rhythm Run | 97981 | [97981-moana-rhythm-run.json](./97981-moana-rhythm-run.json) |
 | Moaning Moron of the Mountain | 376433 | [376433-moaning-moron-of-the-mountain.json](./376433-moaning-moron-of-the-mountain.json) |
 | MOAR: Appeteaser | 209718 | [209718-moar-appeteaser.json](./209718-moar-appeteaser.json) |
+| Moatboat | 111919 | [111919-moatboat.json](./111919-moatboat.json) |
 | Mob Boss Hitman vs Zombies: The Underworld Hustle of Gangsta Crimes | 350761 | [350761-mob-boss-hitman-vs-zombies-the-underworld-hustle-of-gangsta-crimes.json](./350761-mob-boss-hitman-vs-zombies-the-underworld-hustle-of-gangsta-crimes.json) |
 | Mob Control | 227808 | [227808-mob-control.json](./227808-mob-control.json) |
 | Mob Control: Champions | 277900 | [277900-mob-control-champions.json](./277900-mob-control-champions.json) |
@@ -19632,6 +19634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Munchkin Match | 90788 | [90788-munchkin-match.json](./90788-munchkin-match.json) |
 | Munchkin Match: Magic Home Building | 106223 | [106223-munchkin-match-magic-home-building.json](./106223-munchkin-match-magic-home-building.json) |
 | Munchkin: Quacked Quest | 110314 | [110314-munchkin-quacked-quest.json](./110314-munchkin-quacked-quest.json) |
+| Munchkin.io | 111823 | [111823-munchkin-io.json](./111823-munchkin-io.json) |
 | Munchman II | 42171 | [42171-munchman-ii.json](./42171-munchman-ii.json) |
 | Munchman: 35th Anniversary Edition | 308363 | [308363-munchman-35th-anniversary-edition.json](./308363-munchman-35th-anniversary-edition.json) |
 | Munchy 64 | 343415 | [343415-munchy-64.json](./343415-munchy-64.json) |
