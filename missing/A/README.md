@@ -13711,6 +13711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are You Smarter Than Mario? | 231629 | [231629-are-you-smarter-than-mario.json](./231629-are-you-smarter-than-mario.json) |
 | Are You Smarter Than Patrick Star? | 383777 | [383777-are-you-smarter-than-patrick-star.json](./383777-are-you-smarter-than-patrick-star.json) |
 | Are You Smarter Than the Crowd? | 194989 | [194989-are-you-smarter-than-the-crowd.json](./194989-are-you-smarter-than-the-crowd.json) |
+| Are You Stupider Than Darth Vader? | 100371 | [100371-are-you-stupider-than-darth-vader.json](./100371-are-you-stupider-than-darth-vader.json) |
 | Are You With Us? | 97715 | [97715-are-you-with-us.json](./97715-are-you-with-us.json) |
 | Are you yet Living? | 271478 | [271478-are-you-yet-living.json](./271478-are-you-yet-living.json) |
 | Are! Mo Kore? Mo Momotarou | 386524 | [386524-are-mo-kore-mo-momotarou.json](./386524-are-mo-kore-mo-momotarou.json) |
@@ -14063,6 +14064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ark of Time | 2310 | [2310-ark-of-time.json](./2310-ark-of-time.json) |
 | Ark of Trisolar | 360692 | [360692-ark-of-trisolar.json](./360692-ark-of-trisolar.json) |
 | Ark of War | 133399 | [133399-ark-of-war.json](./133399-ark-of-war.json) |
+| Ark of War: Republic | 99883 | [99883-ark-of-war-republic.json](./99883-ark-of-war-republic.json) |
 | Ark Order | 125776 | [125776-ark-order.json](./125776-ark-order.json) |
 | ARK Park | 31250 | [31250-ark-park.json](./31250-ark-park.json) |
 | ARK Park: Deluxe Edition | 136646 | [136646-ark-park-deluxe-edition.json](./136646-ark-park-deluxe-edition.json) |
@@ -17083,7 +17085,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -17521,6 +17522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Quad Power Racing | 4142 | [4142-atv-quad-power-racing.json](./4142-atv-quad-power-racing.json) |
 | ATV Quad Power Racing 2 | 3790 | [3790-atv-quad-power-racing-2.json](./3790-atv-quad-power-racing-2.json) |
 | ATV Quad Power Racing 2 | 4173 | [4173-atv-quad-power-racing-2.json](./4173-atv-quad-power-racing-2.json) |
+| ATV Quadracer Vol.2 | 100250 | [100250-atv-quadracer-vol-2.json](./100250-atv-quadracer-vol-2.json) |
 | ATV Quads Bike Stunt Racing 3D | 296774 | [296774-atv-quads-bike-stunt-racing-3d.json](./296774-atv-quads-bike-stunt-racing-3d.json) |
 | ATV Racers | 62261 | [62261-atv-racers.json](./62261-atv-racers.json) |
 | ATV Racing | 142042 | [142042-atv-racing.json](./142042-atv-racing.json) |
@@ -17750,6 +17752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Auroria | 274799 | [274799-auroria.json](./274799-auroria.json) |
 | Aurrery | 74871 | [74871-aurrery.json](./74871-aurrery.json) |
 | Aurule Dynasty | 406856 | [406856-aurule-dynasty.json](./406856-aurule-dynasty.json) |
+| Aurum | 100244 | [100244-aurum.json](./100244-aurum.json) |
 | Aurum | 373636 | [373636-aurum.json](./373636-aurum.json) |
 | Aurum Blade | 38709 | [38709-aurum-blade.json](./38709-aurum-blade.json) |
 | Aurum Kings | 100148 | [100148-aurum-kings.json](./100148-aurum-kings.json) |
@@ -17945,6 +17948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Automatoys | 214025 | [214025-automatoys.json](./214025-automatoys.json) |
 | Automatrain | 217329 | [217329-automatrain.json](./217329-automatrain.json) |
 | Automatrons | 153151 | [153151-automatrons.json](./153151-automatrons.json) |
+| Automatrons: Shoot and Drive | 99875 | [99875-automatrons-shoot-and-drive.json](./99875-automatrons-shoot-and-drive.json) |
 | Automatum | 105302 | [105302-automatum.json](./105302-automatum.json) |
 | Automobil | 387436 | [387436-automobil.json](./387436-automobil.json) |
 | Automobile Tycoon | 43078 | [43078-automobile-tycoon.json](./43078-automobile-tycoon.json) |
@@ -18343,6 +18347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avicii Invector: Tim Track Pack | 224446 | [224446-avicii-invector-tim-track-pack.json](./224446-avicii-invector-tim-track-pack.json) |
 | Avicii Vector | 91028 | [91028-avicii-vector.json](./91028-avicii-vector.json) |
 | Avicii: Gravity | 108980 | [108980-avicii-gravity.json](./108980-avicii-gravity.json) |
+| Avignon: A Clash of Popes | 100379 | [100379-avignon-a-clash-of-popes.json](./100379-avignon-a-clash-of-popes.json) |
 | Avination | 64490 | [64490-avination.json](./64490-avination.json) |
 | Avis Rapida: Aerobatic Racing | 118384 | [118384-avis-rapida-aerobatic-racing.json](./118384-avis-rapida-aerobatic-racing.json) |
 | Avish! | 69863 | [69863-avish.json](./69863-avish.json) |
