@@ -4086,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Engie Benjy: Time for Teamwork! | 325255 | [325255-engie-benjy-time-for-teamwork.json](./325255-engie-benjy-time-for-teamwork.json) |
 | Engine Driver: Drive a Steam Train | 379322 | [379322-engine-driver-drive-a-steam-train.json](./379322-engine-driver-drive-a-steam-train.json) |
 | Engine Eternal | 347297 | [347297-engine-eternal.json](./347297-engine-eternal.json) |
+| Engine Evolution | 132341 | [132341-engine-evolution.json](./132341-engine-evolution.json) |
 | Engine Evolution 2021 | 159523 | [159523-engine-evolution-2021.json](./159523-engine-evolution-2021.json) |
 | Engine Evolution 2022 | 197496 | [197496-engine-evolution-2022.json](./197496-engine-evolution-2022.json) |
 | Engine Evolution 2023 | 226808 | [226808-engine-evolution-2023.json](./226808-engine-evolution-2023.json) |
@@ -5425,6 +5426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Twump Tower | 179492 | [179492-escape-from-twump-tower.json](./179492-escape-from-twump-tower.json) |
 | Escape from Vacov | 412993 | [412993-escape-from-vacov.json](./412993-escape-from-vacov.json) |
 | Escape From Vampire Castle: Miss Luna's Diary | 345397 | [345397-escape-from-vampire-castle-miss-lunas-diary.json](./345397-escape-from-vampire-castle-miss-lunas-diary.json) |
+| Escape From Violet Institute | 132355 | [132355-escape-from-violet-institute.json](./132355-escape-from-violet-institute.json) |
 | Escape From Vlogger: Runaway | 405798 | [405798-escape-from-vlogger-runaway.json](./405798-escape-from-vlogger-runaway.json) |
 | Escape from Voyna | 96738 | [96738-escape-from-voyna.json](./96738-escape-from-voyna.json) |
 | Escape from Voyna: Aliens from Area 51 | 130191 | [130191-escape-from-voyna-aliens-from-area-51.json](./130191-escape-from-voyna-aliens-from-area-51.json) |
@@ -5980,6 +5982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESports Simulator | 309522 | [309522-esports-simulator.json](./309522-esports-simulator.json) |
 | Esports Team Manager | 356710 | [356710-esports-team-manager.json](./356710-esports-team-manager.json) |
 | Espresso Economics | 339773 | [339773-espresso-economics.json](./339773-espresso-economics.json) |
+| Espresso for the Demon | 132387 | [132387-espresso-for-the-demon.json](./132387-espresso-for-the-demon.json) |
 | Espresso Tycoon | 194825 | [194825-espresso-tycoon.json](./194825-espresso-tycoon.json) |
 | Espresso Tycoon & Prison Simulator | 332010 | [332010-espresso-tycoon-and-prison-simulator.json](./332010-espresso-tycoon-and-prison-simulator.json) |
 | Espresso Tycoon & Tank Mechanic Simulator | 331926 | [331926-espresso-tycoon-and-tank-mechanic-simulator.json](./331926-espresso-tycoon-and-tank-mechanic-simulator.json) |
