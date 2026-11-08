@@ -772,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rafa's World | 231034 | [231034-rafas-world.json](./231034-rafas-world.json) |
 | Rafa's World + Axolotl + Cat Milk | 242658 | [242658-rafas-world-axolotl-cat-milk.json](./242658-rafas-world-axolotl-cat-milk.json) |
 | Raffle Cat | 123254 | [123254-raffle-cat.json](./123254-raffle-cat.json) |
+| Raffles | 122555 | [122555-raffles.json](./122555-raffles.json) |
 | Rafflesia | 40167 | [40167-rafflesia.json](./40167-rafflesia.json) |
 | Raft Island Shark Survival | 88985 | [88985-raft-island-shark-survival.json](./88985-raft-island-shark-survival.json) |
 | Raft Life | 203704 | [203704-raft-life.json](./203704-raft-life.json) |
@@ -11686,6 +11687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Agents: Sweet Zombie | 55638 | [55638-royal-agents-sweet-zombie.json](./55638-royal-agents-sweet-zombie.json) |
 | Royal Alchemist | 109734 | [109734-royal-alchemist.json](./109734-royal-alchemist.json) |
 | Royal Area | 121795 | [121795-royal-area.json](./121795-royal-area.json) |
+| Royal Assault | 122546 | [122546-royal-assault.json](./122546-royal-assault.json) |
 | Royal Battleground IO | 158959 | [158959-royal-battleground-io.json](./158959-royal-battleground-io.json) |
 | Royal Birkdale Championship Golf | 93341 | [93341-royal-birkdale-championship-golf.json](./93341-royal-birkdale-championship-golf.json) |
 | Royal Blade | 95879 | [95879-royal-blade.json](./95879-royal-blade.json) |
