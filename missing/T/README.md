@@ -4887,6 +4887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TesserActive | 120633 | [120633-tesseractive.json](./120633-tesseractive.json) |
 | Tesserae | 71921 | [71921-tesserae.json](./71921-tesserae.json) |
 | Test Drive | 2200 | [2200-test-drive.json](./2200-test-drive.json) |
+| Test Drive | 78193 | [78193-test-drive.json](./78193-test-drive.json) |
 | Test Drive 2001 | 49876 | [49876-test-drive-2001.json](./49876-test-drive-2001.json) |
 | Test Drive 4 | 78297 | [78297-test-drive-4.json](./78297-test-drive-4.json) |
 | Test Drive 5 | 19231 | [19231-test-drive-5.json](./19231-test-drive-5.json) |
@@ -7860,6 +7861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Creature Zone VR: Nightfall | 259834 | [259834-the-creature-zone-vr-nightfall.json](./259834-the-creature-zone-vr-nightfall.json) |
 | The Creature Zone VR: Welcome To Dystopia | 286069 | [286069-the-creature-zone-vr-welcome-to-dystopia.json](./286069-the-creature-zone-vr-welcome-to-dystopia.json) |
 | The Creature: Escape Room | 207538 | [207538-the-creature-escape-room.json](./207538-the-creature-escape-room.json) |
+| The Creed | 78187 | [78187-the-creed.json](./78187-the-creed.json) |
 | The Creeps! | 232581 | [232581-the-creeps.json](./232581-the-creeps.json) |
 | The Creepy Syndrome | 207616 | [207616-the-creepy-syndrome.json](./207616-the-creepy-syndrome.json) |
 | The Cremation of Sam McGee | 141717 | [141717-the-cremation-of-sam-mcgee.json](./141717-the-cremation-of-sam-mcgee.json) |
@@ -25190,6 +25192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokigeon | 398399 | [398399-tokigeon.json](./398399-tokigeon.json) |
 | Tokimal | 421602 | [421602-tokimal.json](./421602-tokimal.json) |
 | Tokimeki Card Paradise: Koi no Royal Straight Flush | 310969 | [310969-tokimeki-card-paradise-koi-no-royal-straight-flush.json](./310969-tokimeki-card-paradise-koi-no-royal-straight-flush.json) |
+| Tokimeki Check in! | 78205 | [78205-tokimeki-check-in.json](./78205-tokimeki-check-in.json) |
 | Tokimeki Dream Series 1: Ohanaya-san ni Narou! | 49845 | [49845-tokimeki-dream-series-1-ohanaya-san-ni-narou.json](./49845-tokimeki-dream-series-1-ohanaya-san-ni-narou.json) |
 | Tokimeki Factory Complete Box: Tokimeki Memorial Girl's Side | 221602 | [221602-tokimeki-factory-complete-box-tokimeki-memorial-girls-side.json](./221602-tokimeki-factory-complete-box-tokimeki-memorial-girls-side.json) |
 | Tokimeki Factory Vol.1 | 221600 | [221600-tokimeki-factory-vol-1.json](./221600-tokimeki-factory-vol-1.json) |
@@ -29426,6 +29429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Simulator: InterCity BR Class 370 ‘APT-P’ Loco Add-On | 162017 | [162017-train-simulator-intercity-br-class-370-apt-p-loco-add-on.json](./162017-train-simulator-intercity-br-class-370-apt-p-loco-add-on.json) |
 | Train Simulator: InterCity BR Class 89 'Badger' Loco Add-On | 162499 | [162499-train-simulator-intercity-br-class-89-badger-loco-add-on.json](./162499-train-simulator-intercity-br-class-89-badger-loco-add-on.json) |
 | Train Simulator: Isle of Wight Route Add-On | 156483 | [156483-train-simulator-isle-of-wight-route-add-on.json](./156483-train-simulator-isle-of-wight-route-add-on.json) |
+| Train Simulator: JR Higashi-nihon Keihin Tohoku-sen | 78221 | [78221-train-simulator-jr-higashi-nihon-keihin-tohoku-sen.json](./78221-train-simulator-jr-higashi-nihon-keihin-tohoku-sen.json) |
 | Train Simulator: JR Higashi-Nihon Yamanote-sen Uchi-mawari | 91809 | [91809-train-simulator-jr-higashi-nihon-yamanote-sen-uchi-mawari.json](./91809-train-simulator-jr-higashi-nihon-yamanote-sen-uchi-mawari.json) |
 | Train Simulator: JR Hokkaido 1 | 323663 | [323663-train-simulator-jr-hokkaido-1.json](./323663-train-simulator-jr-hokkaido-1.json) |
 | Train Simulator: JR Shikoku 1 | 323660 | [323660-train-simulator-jr-shikoku-1.json](./323660-train-simulator-jr-shikoku-1.json) |
