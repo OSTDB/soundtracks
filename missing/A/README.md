@@ -2901,6 +2901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACL Pro Cornhole | 211391 | [211391-acl-pro-cornhole.json](./211391-acl-pro-cornhole.json) |
 | Aclla: Taiyou no Miko to Sora no Shinpei | 138430 | [138430-aclla-taiyou-no-miko-to-sora-no-shinpei.json](./138430-aclla-taiyou-no-miko-to-sora-no-shinpei.json) |
 | ACM 1918 | 129795 | [129795-acm-1918.json](./129795-acm-1918.json) |
+| Acme Bricks | 97351 | [97351-acme-bricks.json](./97351-acme-bricks.json) |
 | Acme, Inc. | 290330 | [290330-acme-inc.json](./290330-acme-inc.json) |
 | Acne Attack | 72158 | [72158-acne-attack.json](./72158-acne-attack.json) |
 | Acno's Energizer | 326749 | [326749-acnos-energizer.json](./326749-acnos-energizer.json) |
@@ -4812,6 +4813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Fear: The Undead King Gold - The Quest for Immortality | 171429 | [171429-age-of-fear-the-undead-king-gold-the-quest-for-immortality.json](./171429-age-of-fear-the-undead-king-gold-the-quest-for-immortality.json) |
 | Age of Fear: Total | 249875 | [249875-age-of-fear-total.json](./249875-age-of-fear-total.json) |
 | Age of Fear: War Machine | 297767 | [297767-age-of-fear-war-machine.json](./297767-age-of-fear-war-machine.json) |
+| Age of Giants | 97019 | [97019-age-of-giants.json](./97019-age-of-giants.json) |
 | Age of Gladiators | 33545 | [33545-age-of-gladiators.json](./33545-age-of-gladiators.json) |
 | Age of Gladiators II | 41959 | [41959-age-of-gladiators-ii.json](./41959-age-of-gladiators-ii.json) |
 | Age of Gladiators II: Death League | 97851 | [97851-age-of-gladiators-ii-death-league.json](./97851-age-of-gladiators-ii-death-league.json) |
@@ -10473,6 +10475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AniMatch: Animal Matching Game | 86874 | [86874-animatch-animal-matching-game.json](./86874-animatch-animal-matching-game.json) |
 | Animated Jigsaw Puzzles | 269286 | [269286-animated-jigsaw-puzzles.json](./269286-animated-jigsaw-puzzles.json) |
 | Animated Jigsaws Collection | 119512 | [119512-animated-jigsaws-collection.json](./119512-animated-jigsaws-collection.json) |
+| Animated Jigsaws: Beautiful Japanese Scenery | 97009 | [97009-animated-jigsaws-beautiful-japanese-scenery.json](./97009-animated-jigsaws-beautiful-japanese-scenery.json) |
 | Animated Jigsaws: Japanese Women | 110734 | [110734-animated-jigsaws-japanese-women.json](./110734-animated-jigsaws-japanese-women.json) |
 | Animated Jigsaws: Wild Animals | 114205 | [114205-animated-jigsaws-wild-animals.json](./114205-animated-jigsaws-wild-animals.json) |
 | Animated Puzzles | 22396 | [22396-animated-puzzles.json](./22396-animated-puzzles.json) |
@@ -14706,6 +14709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arrow.io | 86785 | [86785-arrow-io.json](./86785-arrow-io.json) |
 | ArrowBall | 172599 | [172599-arrowball.json](./172599-arrowball.json) |
 | ArrowBase | 189808 | [189808-arrowbase.json](./189808-arrowbase.json) |
+| Arrowborn | 97013 | [97013-arrowborn.json](./97013-arrowborn.json) |
 | Arrowbound | 286962 | [286962-arrowbound.json](./286962-arrowbound.json) |
 | Arrowman | 389463 | [389463-arrowman.json](./389463-arrowman.json) |
 | Arrowmancer | 176690 | [176690-arrowmancer.json](./176690-arrowmancer.json) |
@@ -17097,7 +17101,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
