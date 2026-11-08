@@ -2628,6 +2628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Pirate Warriors 4 - Character Pack 8 Special Selection | 375164 | [375164-one-piece-pirate-warriors-4-character-pack-8-special-selection.json](./375164-one-piece-pirate-warriors-4-character-pack-8-special-selection.json) |
 | One Piece: Pirate Warriors 4 - Character Pass 2 | 259547 | [259547-one-piece-pirate-warriors-4-character-pass-2.json](./259547-one-piece-pirate-warriors-4-character-pass-2.json) |
 | One Piece: Pirate Warriors 4 - Collector's Edition | 135981 | [135981-one-piece-pirate-warriors-4-collectors-edition.json](./135981-one-piece-pirate-warriors-4-collectors-edition.json) |
+| One Piece: Pirate Warriors 4 - Deluxe Edition | 132972 | [132972-one-piece-pirate-warriors-4-deluxe-edition.json](./132972-one-piece-pirate-warriors-4-deluxe-edition.json) |
 | One Piece: Pirate Warriors 4 - Kaido Edition | 136137 | [136137-one-piece-pirate-warriors-4-kaido-edition.json](./136137-one-piece-pirate-warriors-4-kaido-edition.json) |
 | One Piece: Pirate Warriors 4 - Koby's Combat Chronicle & Soul Map 2 | 282462 | [282462-one-piece-pirate-warriors-4-kobys-combat-chronicle-and-soul-map-2.json](./282462-one-piece-pirate-warriors-4-kobys-combat-chronicle-and-soul-map-2.json) |
 | One Piece: Pirate Warriors 4 - Land of Wano Pack | 167976 | [167976-one-piece-pirate-warriors-4-land-of-wano-pack.json](./167976-one-piece-pirate-warriors-4-land-of-wano-pack.json) |
@@ -4424,6 +4425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orudo Taima | 184884 | [184884-orudo-taima.json](./184884-orudo-taima.json) |
 | Orufure-ru: Koufuku no Hanataba | 130026 | [130026-orufure-ru-koufuku-no-hanataba.json](./130026-orufure-ru-koufuku-no-hanataba.json) |
 | Orul | 272653 | [272653-orul.json](./272653-orul.json) |
+| Orum's Death Run | 132953 | [132953-orums-death-run.json](./132953-orums-death-run.json) |
 | Orun | 411713 | [411713-orun.json](./411713-orun.json) |
 | Oruna | 139420 | [139420-oruna.json](./139420-oruna.json) |
 | Orwell: Deluxe Edition | 51859 | [51859-orwell-deluxe-edition.json](./51859-orwell-deluxe-edition.json) |
@@ -4923,6 +4925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our House | 72784 | [72784-our-house.json](./72784-our-house.json) |
 | Our Journey | 279267 | [279267-our-journey.json](./279267-our-journey.json) |
 | Our Journey: The Silent Voice | 355328 | [355328-our-journey-the-silent-voice.json](./355328-our-journey-the-silent-voice.json) |
+| Our Journeys 3 ~ A Collection of Visual Novels | 132941 | [132941-our-journeys-3-a-collection-of-visual-novels.json](./132941-our-journeys-3-a-collection-of-visual-novels.json) |
 | Our Journeys: A Collection of Visual Novels | 129051 | [129051-our-journeys-a-collection-of-visual-novels.json](./129051-our-journeys-a-collection-of-visual-novels.json) |
 | Our Lady of Sorrow | 215035 | [215035-our-lady-of-sorrow.json](./215035-our-lady-of-sorrow.json) |
 | Our Lady of the Drowned Lake, Zero Reporter | 230081 | [230081-our-lady-of-the-drowned-lake-zero-reporter.json](./230081-our-lady-of-the-drowned-lake-zero-reporter.json) |
@@ -5644,6 +5647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overcome | 113631 | [113631-overcome.json](./113631-overcome.json) |
 | Overcome Your Fears: Caretaker | 333822 | [333822-overcome-your-fears-caretaker.json](./333822-overcome-your-fears-caretaker.json) |
 | Overcooked! 2: Campfire Cook Off | 116659 | [116659-overcooked-2-campfire-cook-off.json](./116659-overcooked-2-campfire-cook-off.json) |
+| Overcooked! 2: Gourmet Edition | 132976 | [132976-overcooked-2-gourmet-edition.json](./132976-overcooked-2-gourmet-edition.json) |
 | Overcooked! 2: Night of the Hangry Horde | 120177 | [120177-overcooked-2-night-of-the-hangry-horde.json](./120177-overcooked-2-night-of-the-hangry-horde.json) |
 | Overcooked! 2: Sun's Out Buns Out | 135386 | [135386-overcooked-2-suns-out-buns-out.json](./135386-overcooked-2-suns-out-buns-out.json) |
 | Overcooked! 2: Surf 'n' Turf | 110575 | [110575-overcooked-2-surf-n-turf.json](./110575-overcooked-2-surf-n-turf.json) |
