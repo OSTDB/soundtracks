@@ -1236,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danse Macabre: Deadly Deception | 108461 | [108461-danse-macabre-deadly-deception.json](./108461-danse-macabre-deadly-deception.json) |
 | Danse Macabre: Deadly Deception - Collector's Edition | 86436 | [86436-danse-macabre-deadly-deception-collectors-edition.json](./86436-danse-macabre-deadly-deception-collectors-edition.json) |
 | Danse Macabre: Florentine Elegy - Collector's Edition | 417787 | [417787-danse-macabre-florentine-elegy-collectors-edition.json](./417787-danse-macabre-florentine-elegy-collectors-edition.json) |
+| Danse Macabre: Lethal Letters | 89311 | [89311-danse-macabre-lethal-letters.json](./89311-danse-macabre-lethal-letters.json) |
 | Danse Macabre: Lethal Letters - Collector's Edition | 417788 | [417788-danse-macabre-lethal-letters-collectors-edition.json](./417788-danse-macabre-lethal-letters-collectors-edition.json) |
 | Danse Macabre: Ominous Obsession | 417789 | [417789-danse-macabre-ominous-obsession.json](./417789-danse-macabre-ominous-obsession.json) |
 | Danse Macabre: Ominous Obsession - Collector's Edition | 417790 | [417790-danse-macabre-ominous-obsession-collectors-edition.json](./417790-danse-macabre-ominous-obsession-collectors-edition.json) |
