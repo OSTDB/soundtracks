@@ -3457,6 +3457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | De I Cide | 166589 | [166589-de-i-cide.json](./166589-de-i-cide.json) |
 | De Ja | 126122 | [126122-de-ja.json](./126122-de-ja.json) |
 | De Ontdekker en het mysterie van de Diamanten Scarabee | 268124 | [268124-de-ontdekker-en-het-mysterie-van-de-diamanten-scarabee.json](./268124-de-ontdekker-en-het-mysterie-van-de-diamanten-scarabee.json) |
+| De Pictura | 78823 | [78823-de-pictura.json](./78823-de-pictura.json) |
 | De Profundis | 114257 | [114257-de-profundis.json](./114257-de-profundis.json) |
 | De Schippers van de Kameleon | 349781 | [349781-de-schippers-van-de-kameleon.json](./349781-de-schippers-van-de-kameleon.json) |
 | De Tres al Cuarto | 227910 | [227910-de-tres-al-cuarto.json](./227910-de-tres-al-cuarto.json) |
@@ -6562,6 +6563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demolition | 308335 | [308335-demolition.json](./308335-demolition.json) |
 | Demolition | 88709 | [88709-demolition.json](./88709-demolition.json) |
 | Demolition Ball | 102930 | [102930-demolition-ball.json](./102930-demolition-ball.json) |
+| Demolition Champions | 78867 | [78867-demolition-champions.json](./78867-demolition-champions.json) |
 | Demolition City | 236609 | [236609-demolition-city.json](./236609-demolition-city.json) |
 | Demolition Company | 3175 | [3175-demolition-company.json](./3175-demolition-company.json) |
 | Demolition Company | 344435 | [344435-demolition-company.json](./344435-demolition-company.json) |
@@ -14256,6 +14258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Panda | 408994 | [408994-double-panda.json](./408994-double-panda.json) |
 | Double Play | 170258 | [170258-double-play.json](./170258-double-play.json) |
 | Double Play Adventure: Time Quest / Crystal Quest | 85973 | [85973-double-play-adventure-time-quest-crystal-quest.json](./85973-double-play-adventure-time-quest-crystal-quest.json) |
+| Double Play Adventure: Urquahart Castle / The Golden Rose | 78828 | [78828-double-play-adventure-urquahart-castle-the-golden-rose.json](./78828-double-play-adventure-urquahart-castle-the-golden-rose.json) |
 | Double Point | 40097 | [40097-double-point.json](./40097-double-point.json) |
 | Double Pug Switch | 110687 | [110687-double-pug-switch.json](./110687-double-pug-switch.json) |
 | Double Puzzled | 243794 | [243794-double-puzzled.json](./243794-double-puzzled.json) |
@@ -18890,6 +18893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Rush | 105304 | [105304-dungeon-rush.json](./105304-dungeon-rush.json) |
 | Dungeon Rushers | 20395 | [20395-dungeon-rushers.json](./20395-dungeon-rushers.json) |
 | Dungeon Rushers: Deluxe Edition | 52933 | [52933-dungeon-rushers-deluxe-edition.json](./52933-dungeon-rushers-deluxe-edition.json) |
+| Dungeon Savior | 78870 | [78870-dungeon-savior.json](./78870-dungeon-savior.json) |
 | Dungeon Scale | 157012 | [157012-dungeon-scale.json](./157012-dungeon-scale.json) |
 | Dungeon Scavenger | 117620 | [117620-dungeon-scavenger.json](./117620-dungeon-scavenger.json) |
 | Dungeon Scoundrel | 113942 | [113942-dungeon-scoundrel.json](./113942-dungeon-scoundrel.json) |
