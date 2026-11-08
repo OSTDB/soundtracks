@@ -4089,6 +4089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nick Neaker | 97811 | [97811-nick-neaker.json](./97811-nick-neaker.json) |
 | Nick News with Linda Ellerbee Word Search | 325083 | [325083-nick-news-with-linda-ellerbee-word-search.json](./325083-nick-news-with-linda-ellerbee-word-search.json) |
 | Nick of Time | 176225 | [176225-nick-of-time.json](./176225-nick-of-time.json) |
+| Nick Project | 96174 | [96174-nick-project.json](./96174-nick-project.json) |
 | Nick Quest | 176032 | [176032-nick-quest.json](./176032-nick-quest.json) |
 | Nick Racers Revolution 3D | 259986 | [259986-nick-racers-revolution-3d.json](./259986-nick-racers-revolution-3d.json) |
 | Nick Racing Stars | 259984 | [259984-nick-racing-stars.json](./259984-nick-racing-stars.json) |
@@ -5365,6 +5366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Smasher! | 30625 | [30625-ninja-smasher.json](./30625-ninja-smasher.json) |
 | Ninja Sneaking R | 201533 | [201533-ninja-sneaking-r.json](./201533-ninja-sneaking-r.json) |
 | Ninja Sneaking VS | 244892 | [244892-ninja-sneaking-vs.json](./244892-ninja-sneaking-vs.json) |
+| Ninja Soldier | 96154 | [96154-ninja-soldier.json](./96154-ninja-soldier.json) |
 | Ninja Specialist | 207184 | [207184-ninja-specialist.json](./207184-ninja-specialist.json) |
 | Ninja Spinki Challenges!! | 56904 | [56904-ninja-spinki-challenges.json](./56904-ninja-spinki-challenges.json) |
 | Ninja Spirit | 219020 | [219020-ninja-spirit.json](./219020-ninja-spirit.json) |
@@ -7423,6 +7425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nowhere Station | 115360 | [115360-nowhere-station.json](./115360-nowhere-station.json) |
 | Nowhere to Run | 407377 | [407377-nowhere-to-run.json](./407377-nowhere-to-run.json) |
 | Nowhere, MI | 248793 | [248793-nowhere-mi.json](./248793-nowhere-mi.json) |
+| Nowhere: Lost Memories | 96166 | [96166-nowhere-lost-memories.json](./96166-nowhere-lost-memories.json) |
 | Nowhere: Mysterious Artifacts | 216974 | [216974-nowhere-mysterious-artifacts.json](./216974-nowhere-mysterious-artifacts.json) |
 | NowLoading Forever | 406649 | [406649-nowloading-forever.json](./406649-nowloading-forever.json) |
 | Nowotnik Puzzle | 138660 | [138660-nowotnik-puzzle.json](./138660-nowotnik-puzzle.json) |
