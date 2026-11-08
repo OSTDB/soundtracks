@@ -8634,6 +8634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dialogue: A Writer's Story | 26706 | [26706-dialogue-a-writers-story.json](./26706-dialogue-a-writers-story.json) |
 | Dialoop | 361796 | [361796-dialoop.json](./361796-dialoop.json) |
 | Dialshift | 417466 | [417466-dialshift.json](./417466-dialshift.json) |
+| Dialtown: Phone Dating Sim | 117243 | [117243-dialtown-phone-dating-sim.json](./117243-dialtown-phone-dating-sim.json) |
 | Diam's | 280869 | [280869-diams.json](./280869-diams.json) |
 | Diamaze | 93311 | [93311-diamaze.json](./93311-diamaze.json) |
 | Diamic Days | 413854 | [413854-diamic-days.json](./413854-diamic-days.json) |
