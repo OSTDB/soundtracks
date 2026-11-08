@@ -7708,6 +7708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shark Mountain | 416516 | [416516-shark-mountain.json](./416516-shark-mountain.json) |
 | Shark or Die | 61105 | [61105-shark-or-die.json](./61105-shark-or-die.json) |
 | Shark Pinball | 165614 | [165614-shark-pinball.json](./165614-shark-pinball.json) |
+| Shark Puzzles for Kids Jigsaw Wonder Collection | 106719 | [106719-shark-puzzles-for-kids-jigsaw-wonder-collection.json](./106719-shark-puzzles-for-kids-jigsaw-wonder-collection.json) |
 | Shark Rain | 235427 | [235427-shark-rain.json](./235427-shark-rain.json) |
 | Shark Riders | 150137 | [150137-shark-riders.json](./150137-shark-riders.json) |
 | Shark Siege | 296460 | [296460-shark-siege.json](./296460-shark-siege.json) |
@@ -14050,6 +14051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime: Desulted | 183465 | [183465-slime-desulted.json](./183465-slime-desulted.json) |
 | Slime: Isekai Memories | 178301 | [178301-slime-isekai-memories.json](./178301-slime-isekai-memories.json) |
 | Slime:Evo | 143021 | [143021-slime-evo.json](./143021-slime-evo.json) |
+| Slime!! | 106703 | [106703-slime.json](./106703-slime.json) |
 | Slime.io: Devour the Сity | 223911 | [223911-slime-io-devour-the-ity.json](./223911-slime-io-devour-the-ity.json) |
 | Slime's Journey | 170683 | [170683-slimes-journey.json](./170683-slimes-journey.json) |
 | Slime's Journey | 378316 | [378316-slimes-journey.json](./378316-slimes-journey.json) |
@@ -18622,6 +18624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sooper Fighterz: 24 Hour Challenge | 184228 | [184228-sooper-fighterz-24-hour-challenge.json](./184228-sooper-fighterz-24-hour-challenge.json) |
 | Sooper Wooper 64 | 379143 | [379143-sooper-wooper-64.json](./379143-sooper-wooper-64.json) |
 | Soorimo River | 239426 | [239426-soorimo-river.json](./239426-soorimo-river.json) |
+| Soosiz HD | 106707 | [106707-soosiz-hd.json](./106707-soosiz-hd.json) |
 | Soot | 198500 | [198500-soot.json](./198500-soot.json) |
 | Soot | 231085 | [231085-soot.json](./231085-soot.json) |
 | Soothing Farmer | 216894 | [216894-soothing-farmer.json](./216894-soothing-farmer.json) |
@@ -20478,6 +20481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rock Armageddon | 276598 | [276598-space-rock-armageddon.json](./276598-space-rock-armageddon.json) |
 | Space Rock Breaker | 382412 | [382412-space-rock-breaker.json](./382412-space-rock-breaker.json) |
 | Space Rocket | 81601 | [81601-space-rocket.json](./81601-space-rocket.json) |
+| Space Rocket - Star World | 106693 | [106693-space-rocket-star-world.json](./106693-space-rocket-star-world.json) |
 | Space Rocket Adventurers | 61155 | [61155-space-rocket-adventurers.json](./61155-space-rocket-adventurers.json) |
 | Space Rockets: Spaceship Rocket Simulator | 232180 | [232180-space-rockets-spaceship-rocket-simulator.json](./232180-space-rockets-spaceship-rocket-simulator.json) |
 | Space Rocks | 268810 | [268810-space-rocks.json](./268810-space-rocks.json) |
@@ -30621,6 +30625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Sled | 55943 | [55943-summer-sled.json](./55943-summer-sled.json) |
 | Summer Snow. | 397949 | [397949-summer-snow.json](./397949-summer-snow.json) |
 | Summer Sports 2: Island Sports Party | 50976 | [50976-summer-sports-2-island-sports-party.json](./50976-summer-sports-2-island-sports-party.json) |
+| Summer Sports Events | 106702 | [106702-summer-sports-events.json](./106702-summer-sports-events.json) |
 | Summer Sports Games | 119477 | [119477-summer-sports-games.json](./119477-summer-sports-games.json) |
 | Summer Sports Games: 4K Edition | 173168 | [173168-summer-sports-games-4k-edition.json](./173168-summer-sports-games-4k-edition.json) |
 | Summer Sports Party | 23261 | [23261-summer-sports-party.json](./23261-summer-sports-party.json) |
