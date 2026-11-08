@@ -1961,6 +1961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Soda | 191974 | [191974-captain-soda.json](./191974-captain-soda.json) |
 | Captain Speedfin | 391071 | [391071-captain-speedfin.json](./391071-captain-speedfin.json) |
 | Captain StarOne | 114939 | [114939-captain-starone.json](./114939-captain-starone.json) |
+| Captain Starshot | 117214 | [117214-captain-starshot.json](./117214-captain-starshot.json) |
 | Captain Strike | 60851 | [60851-captain-strike.json](./60851-captain-strike.json) |
 | Captain Stu | 285938 | [285938-captain-stu.json](./285938-captain-stu.json) |
 | Captain Superhero Flying Robot Rescue | 101981 | [101981-captain-superhero-flying-robot-rescue.json](./101981-captain-superhero-flying-robot-rescue.json) |
@@ -3680,6 +3681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle of no Escape | 41958 | [41958-castle-of-no-escape.json](./41958-castle-of-no-escape.json) |
 | Castle of no Escape 1+2 Bundle | 218464 | [218464-castle-of-no-escape-1-2-bundle.json](./218464-castle-of-no-escape-1-2-bundle.json) |
 | Castle of No Escape 2 | 30947 | [30947-castle-of-no-escape-2.json](./30947-castle-of-no-escape-2.json) |
+| Castle of Pixel Skulls | 117246 | [117246-castle-of-pixel-skulls.json](./117246-castle-of-pixel-skulls.json) |
 | Castle of Pixel Skulls DX | 164301 | [164301-castle-of-pixel-skulls-dx.json](./164301-castle-of-pixel-skulls-dx.json) |
 | Castle Of Plague | 237090 | [237090-castle-of-plague.json](./237090-castle-of-plague.json) |
 | Castle of Riddles | 13701 | [13701-castle-of-riddles.json](./13701-castle-of-riddles.json) |
