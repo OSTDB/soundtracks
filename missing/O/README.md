@@ -2243,7 +2243,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One | 202503 | [202503-one.json](./202503-one.json) |
 | One | 247411 | [247411-one.json](./247411-one.json) |
 | One | 6267 | [6267-one.json](./6267-one.json) |
-| One | 78060 | [78060-one.json](./78060-one.json) |
 | One Action Heroes | 177259 | [177259-one-action-heroes.json](./177259-one-action-heroes.json) |
 | One and One Story | 133034 | [133034-one-and-one-story.json](./133034-one-and-one-story.json) |
 | One Armed Bandit | 236354 | [236354-one-armed-bandit.json](./236354-one-armed-bandit.json) |
@@ -2350,7 +2349,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Got in the House | 179882 | [179882-one-got-in-the-house.json](./179882-one-got-in-the-house.json) |
 | One Gun 2: Stickman | 126908 | [126908-one-gun-2-stickman.json](./126908-one-gun-2-stickman.json) |
 | One Gun: Cat | 106908 | [106908-one-gun-cat.json](./106908-one-gun-cat.json) |
-| One Hand Clapping | 103408 | [103408-one-hand-clapping.json](./103408-one-hand-clapping.json) |
 | One Hand Samurai | 140893 | [140893-one-hand-samurai.json](./140893-one-hand-samurai.json) |
 | One Handed | 212205 | [212205-one-handed.json](./212205-one-handed.json) |
 | One Hard Game Please! | 351427 | [351427-one-hard-game-please.json](./351427-one-hard-game-please.json) |
