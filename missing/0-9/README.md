@@ -1316,6 +1316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 16bit-Collection Data East Vol. 1 | 97892 | [97892-16bit-collection-data-east-vol-1.json](./97892-16bit-collection-data-east-vol-1.json) |
 | 16bit-Collection Jaleco Vol. 01 | 97895 | [97895-16bit-collection-jaleco-vol-01.json](./97895-16bit-collection-jaleco-vol-01.json) |
 | 16BitSurvivors | 358064 | [358064-16bitsurvivors.json](./358064-16bitsurvivors.json) |
+| 16t | 78213 | [78213-16t.json](./78213-16t.json) |
 | 16x16 | 358065 | [358065-16x16.json](./358065-16x16.json) |
 | 17 Bucks: Floor 1 | 308282 | [308282-17-bucks-floor-1.json](./308282-17-bucks-floor-1.json) |
 | 17 Fighters | 183562 | [183562-17-fighters.json](./183562-17-fighters.json) |
