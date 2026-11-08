@@ -2356,6 +2356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darksy's Adventure | 242604 | [242604-darksys-adventure.json](./242604-darksys-adventure.json) |
 | Darksyne | 245115 | [245115-darksyne.json](./245115-darksyne.json) |
 | DarkTide | 204955 | [204955-darktide.json](./204955-darktide.json) |
+| DarkTrail | 111139 | [111139-darktrail.json](./111139-darktrail.json) |
 | Darkula | 119481 | [119481-darkula.json](./119481-darkula.json) |
 | Darkwaronline | 191658 | [191658-darkwaronline.json](./191658-darkwaronline.json) |
 | Darkwatch | 304490 | [304490-darkwatch.json](./304490-darkwatch.json) |
@@ -2446,6 +2447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darwin's Demons | 30105 | [30105-darwins-demons.json](./30105-darwins-demons.json) |
 | Darwin's Dilemma | 299827 | [299827-darwins-dilemma.json](./299827-darwins-dilemma.json) |
 | Darwin's Legacy | 184596 | [184596-darwins-legacy.json](./184596-darwins-legacy.json) |
+| Darwin's Test | 111243 | [111243-darwins-test.json](./111243-darwins-test.json) |
 | Darwinia | 661 | [661-darwinia.json](./661-darwinia.json) |
 | Darwins Trash | 370149 | [370149-darwins-trash.json](./370149-darwins-trash.json) |
 | Darxanadon | 188781 | [188781-darxanadon.json](./188781-darxanadon.json) |
@@ -9279,6 +9281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digerati Couch Co-op Vol. 2 | 166688 | [166688-digerati-couch-co-op-vol-2.json](./166688-digerati-couch-co-op-vol-2.json) |
 | Digerati Horror Bundle | 188178 | [188178-digerati-horror-bundle.json](./188178-digerati-horror-bundle.json) |
 | Digerati Horror Bundle Vol. 2 | 164683 | [164683-digerati-horror-bundle-vol-2.json](./164683-digerati-horror-bundle-vol-2.json) |
+| Digerati Indie Bundle: INK & HackyZack | 111149 | [111149-digerati-indie-bundle-ink-and-hackyzack.json](./111149-digerati-indie-bundle-ink-and-hackyzack.json) |
 | Digerati Pixel Art Bundle Part 1 | 90663 | [90663-digerati-pixel-art-bundle-part-1.json](./90663-digerati-pixel-art-bundle-part-1.json) |
 | Digerati Presents: If You Don't Have Xbox Game Pass Bundle | 200513 | [200513-digerati-presents-if-you-dont-have-xbox-game-pass-bundle.json](./200513-digerati-presents-if-you-dont-have-xbox-game-pass-bundle.json) |
 | Digerati Presents: Indie Darling Bundle Vol. 5 | 204275 | [204275-digerati-presents-indie-darling-bundle-vol-5.json](./204275-digerati-presents-indie-darling-bundle-vol-5.json) |
@@ -18323,6 +18326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dung Beetle Adventure | 266622 | [266622-dung-beetle-adventure.json](./266622-dung-beetle-adventure.json) |
 | Dung Beetle Strike | 158804 | [158804-dung-beetle-strike.json](./158804-dung-beetle-strike.json) |
 | Dung Slinger | 410342 | [410342-dung-slinger.json](./410342-dung-slinger.json) |
+| Dungellion | 111258 | [111258-dungellion.json](./111258-dungellion.json) |
 | Dungelot | 22161 | [22161-dungelot.json](./22161-dungelot.json) |
 | Dungemon | 339930 | [339930-dungemon.json](./339930-dungemon.json) |
 | Dungems | 211513 | [211513-dungems.json](./211513-dungems.json) |
