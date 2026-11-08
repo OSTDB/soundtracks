@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 Dream | 44327 | [44327-f1-dream.json](./44327-f1-dream.json) |
 | F1 GP Circuits | 47210 | [47210-f1-gp-circuits.json](./47210-f1-gp-circuits.json) |
 | F1 Grand Prix | 38472 | [38472-f1-grand-prix.json](./38472-f1-grand-prix.json) |
+| F1 Grand Prix Nakajima Satoru | 93098 | [93098-f1-grand-prix-nakajima-satoru.json](./93098-f1-grand-prix-nakajima-satoru.json) |
 | F1 Grand Prix Star II | 218114 | [218114-f1-grand-prix-star-ii.json](./218114-f1-grand-prix-star-ii.json) |
 | F1 Manager | 213266 | [213266-f1-manager.json](./213266-f1-manager.json) |
 | F1 Manager | 46448 | [46448-f1-manager.json](./46448-f1-manager.json) |
@@ -13639,6 +13640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun School 3 for the Under 5s | 131031 | [131031-fun-school-3-for-the-under-5s.json](./131031-fun-school-3-for-the-under-5s.json) |
 | Fun School 3: for 5 to 7 Year Olds | 76470 | [76470-fun-school-3-for-5-to-7-year-olds.json](./76470-fun-school-3-for-5-to-7-year-olds.json) |
 | Fun School 3: for the over 7s | 61365 | [61365-fun-school-3-for-the-over-7s.json](./61365-fun-school-3-for-the-over-7s.json) |
+| Fun School 4: for 5 to 7 Year Olds | 93099 | [93099-fun-school-4-for-5-to-7-year-olds.json](./93099-fun-school-4-for-5-to-7-year-olds.json) |
 | Fun School 7: For ages 8-11 | 61371 | [61371-fun-school-7-for-ages-8-11.json](./61371-fun-school-7-for-ages-8-11.json) |
 | Fun Times at Homer's | 383384 | [383384-fun-times-at-homers.json](./383384-fun-times-at-homers.json) |
 | Fun Times at Homer´s | 385268 | [385268-fun-times-at-homer-s.json](./385268-fun-times-at-homer-s.json) |
