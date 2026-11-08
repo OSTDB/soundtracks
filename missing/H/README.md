@@ -7771,6 +7771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Tail Hall | 130045 | [130045-high-tail-hall.json](./130045-high-tail-hall.json) |
 | High Templar VR | 36713 | [36713-high-templar-vr.json](./36713-high-templar-vr.json) |
 | High Times | 251915 | [251915-high-times.json](./251915-high-times.json) |
+| High Treason | 129304 | [129304-high-treason.json](./129304-high-treason.json) |
 | High Up | 309440 | [309440-high-up.json](./309440-high-up.json) |
 | High Velocity Arena | 251988 | [251988-high-velocity-arena.json](./251988-high-velocity-arena.json) |
 | High Velocity Bowling | 21816 | [21816-high-velocity-bowling.json](./21816-high-velocity-bowling.json) |
@@ -8283,6 +8284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiromichi Oniisan no Oyako Taisou Navi | 220581 | [220581-hiromichi-oniisan-no-oyako-taisou-navi.json](./220581-hiromichi-oniisan-no-oyako-taisou-navi.json) |
 | Hiroshi | 343290 | [343290-hiroshi.json](./343290-hiroshi.json) |
 | Hirotonfa's American Revolution Smuggler | 366565 | [366565-hirotonfas-american-revolution-smuggler.json](./366565-hirotonfas-american-revolution-smuggler.json) |
+| Hirt | 129327 | [129327-hirt.json](./129327-hirt.json) |
 | Hirusagari, Yokkyuu Fuman na Hitozuma-tachi ha...: Mesu Ochi Kikenbi Tanetsuke Koubi Kurui | 413704 | [413704-hirusagari-yokkyuu-fuman-na-hitozuma-tachi-ha-mesu-ochi-kikenbi-tanetsuke-koubi-kurui.json](./413704-hirusagari-yokkyuu-fuman-na-hitozuma-tachi-ha-mesu-ochi-kikenbi-tanetsuke-koubi-kurui.json) |
 | Hiryu no Ken Collection | 397224 | [397224-hiryu-no-ken-collection.json](./397224-hiryu-no-ken-collection.json) |
 | Hiryuu no Ken Densetsu GB: Real Version | 351575 | [351575-hiryuu-no-ken-densetsu-gb-real-version.json](./351575-hiryuu-no-ken-densetsu-gb-real-version.json) |
