@@ -2923,6 +2923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man Parts | 261925 | [261925-man-parts.json](./261925-man-parts.json) |
 | Man Sa Yarbah Al Malyoon | 301363 | [301363-man-sa-yarbah-al-malyoon.json](./301363-man-sa-yarbah-al-malyoon.json) |
 | Man Sa Yarbah Al Malyoon | 309210 | [309210-man-sa-yarbah-al-malyoon.json](./309210-man-sa-yarbah-al-malyoon.json) |
+| Man Standing | 137196 | [137196-man-standing.json](./137196-man-standing.json) |
 | Man vs Machine | 150062 | [150062-man-vs-machine.json](./150062-man-vs-machine.json) |
 | Man Vs. Missiles | 83195 | [83195-man-vs-missiles.json](./83195-man-vs-missiles.json) |
 | Man vs. Wild With Bear Grylls | 4995 | [4995-man-vs-wild-with-bear-grylls.json](./4995-man-vs-wild-with-bear-grylls.json) |
@@ -3657,6 +3658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marie & Elie no Atelier: Salburg no Renkinjutsushi 1-2 | 130822 | [130822-marie-and-elie-no-atelier-salburg-no-renkinjutsushi-1-2.json](./130822-marie-and-elie-no-atelier-salburg-no-renkinjutsushi-1-2.json) |
 | Marie & Gully no Let's Science | 65319 | [65319-marie-and-gully-no-lets-science.json](./65319-marie-and-gully-no-lets-science.json) |
 | Marie Android | 407720 | [407720-marie-android.json](./407720-marie-android.json) |
+| Marie Antoinette's Solitaire | 137213 | [137213-marie-antoinettes-solitaire.json](./137213-marie-antoinettes-solitaire.json) |
 | Marie Baby-Sitter | 74034 | [74034-marie-baby-sitter.json](./74034-marie-baby-sitter.json) |
 | Marie's Patisserie: Sweet Dreams - Collector's Edition | 362840 | [362840-maries-patisserie-sweet-dreams-collectors-edition.json](./362840-maries-patisserie-sweet-dreams-collectors-edition.json) |
 | Marie's Room | 81173 | [81173-maries-room.json](./81173-maries-room.json) |
@@ -5600,6 +5602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matendouji | 215140 | [215140-matendouji.json](./215140-matendouji.json) |
 | Mater's Tires | 359380 | [359380-maters-tires.json](./359380-maters-tires.json) |
 | Matergari: Below Valesia | 133087 | [133087-matergari-below-valesia.json](./133087-matergari-below-valesia.json) |
+| Materia Magica | 137179 | [137179-materia-magica.json](./137179-materia-magica.json) |
 | Material Brave | 180612 | [180612-material-brave.json](./180612-material-brave.json) |
 | Material Brave Ignition | 180630 | [180630-material-brave-ignition.json](./180630-material-brave-ignition.json) |
 | Material Evidence | 312798 | [312798-material-evidence.json](./312798-material-evidence.json) |
@@ -6992,6 +6995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot Cardrobottle: Kabuto Version | 66551 | [66551-medarot-cardrobottle-kabuto-version.json](./66551-medarot-cardrobottle-kabuto-version.json) |
 | Medarot Cardrobottle: Kuwagata Version | 228618 | [228618-medarot-cardrobottle-kuwagata-version.json](./228618-medarot-cardrobottle-kuwagata-version.json) |
 | Medarot Classics | 71577 | [71577-medarot-classics.json](./71577-medarot-classics.json) |
+| Medarot Classics + | 137208 | [137208-medarot-classics.json](./137208-medarot-classics.json) |
 | Medarot Classics Kabuto Version | 136957 | [136957-medarot-classics-kabuto-version.json](./136957-medarot-classics-kabuto-version.json) |
 | Medarot Classics Kuwagata Version | 136953 | [136953-medarot-classics-kuwagata-version.json](./136953-medarot-classics-kuwagata-version.json) |
 | Medarot Classics Plus Kabuto Version | 136832 | [136832-medarot-classics-plus-kabuto-version.json](./136832-medarot-classics-plus-kabuto-version.json) |
@@ -8746,6 +8750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meme Mayhem | 305127 | [305127-meme-mayhem.json](./305127-meme-mayhem.json) |
 | Meme Quiz | 243128 | [243128-meme-quiz.json](./243128-meme-quiz.json) |
 | Meme Run | 60787 | [60787-meme-run.json](./60787-meme-run.json) |
+| Meme Run 2 | 137225 | [137225-meme-run-2.json](./137225-meme-run-2.json) |
 | Meme Shooter in Sandbox Memes | 326517 | [326517-meme-shooter-in-sandbox-memes.json](./326517-meme-shooter-in-sandbox-memes.json) |
 | Meme Survivors: Backrooms | 343747 | [343747-meme-survivors-backrooms.json](./343747-meme-survivors-backrooms.json) |
 | Meme Wars | 366827 | [366827-meme-wars.json](./366827-meme-wars.json) |
@@ -19694,6 +19699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Reservation | 129205 | [129205-murder-reservation.json](./129205-murder-reservation.json) |
 | Murder Strip | 399011 | [399011-murder-strip.json](./399011-murder-strip.json) |
 | Murder Workbook | 267228 | [267228-murder-workbook.json](./267228-murder-workbook.json) |
+| Murder Your Maker | 137186 | [137186-murder-your-maker.json](./137186-murder-your-maker.json) |
 | Murder, She Wrote | 67185 | [67185-murder-she-wrote.json](./67185-murder-she-wrote.json) |
 | Murder... | 51772 | [51772-murder.json](./51772-murder.json) |
 | Murder&Spies | 326097 | [326097-murder-and-spies.json](./326097-murder-and-spies.json) |
