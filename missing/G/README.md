@@ -916,6 +916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Force | 273849 | [273849-galaxy-force.json](./273849-galaxy-force.json) |
 | Galaxy Force | 45651 | [45651-galaxy-force.json](./45651-galaxy-force.json) |
 | Galaxy Force II | 6799 | [6799-galaxy-force-ii.json](./6799-galaxy-force-ii.json) |
+| Galaxy Forces VR | 120460 | [120460-galaxy-forces-vr.json](./120460-galaxy-forces-vr.json) |
 | Galaxy Fräulein Yuna | 64691 | [64691-galaxy-fraulein-yuna.json](./64691-galaxy-fraulein-yuna.json) |
 | Galaxy Fräulein Yuna 2: Eien no Princess | 64689 | [64689-galaxy-fraulein-yuna-2-eien-no-princess.json](./64689-galaxy-fraulein-yuna-2-eien-no-princess.json) |
 | Galaxy Fräulein Yuna 3: Lightning Angel | 64144 | [64144-galaxy-fraulein-yuna-3-lightning-angel.json](./64144-galaxy-fraulein-yuna-3-lightning-angel.json) |
@@ -10162,6 +10163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Growmancer | 344723 | [344723-growmancer.json](./344723-growmancer.json) |
 | Growmi | 302161 | [302161-growmi.json](./302161-growmi.json) |
 | Growmon Island | 374908 | [374908-growmon-island.json](./374908-growmon-island.json) |
+| GrowRilla | 120441 | [120441-growrilla.json](./120441-growrilla.json) |
 | Grows: Journey to the Sunshine | 232096 | [232096-grows-journey-to-the-sunshine.json](./232096-grows-journey-to-the-sunshine.json) |
 | Growth | 179858 | [179858-growth.json](./179858-growth.json) |
 | Growth | 229675 | [229675-growth.json](./229675-growth.json) |
