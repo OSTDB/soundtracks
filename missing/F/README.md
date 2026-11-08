@@ -9185,6 +9185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fonsermónique’s Culinary Diary | 403314 | [403314-fonsermonique-s-culinary-diary.json](./403314-fonsermonique-s-culinary-diary.json) |
 | Font Quiz | 232059 | [232059-font-quiz.json](./232059-font-quiz.json) |
 | Fontemon | 308101 | [308101-fontemon.json](./308101-fontemon.json) |
+| Fonz | 80064 | [80064-fonz.json](./80064-fonz.json) |
 | Fonzi Fuddy: Ace Defective | 322050 | [322050-fonzi-fuddy-ace-defective.json](./322050-fonzi-fuddy-ace-defective.json) |
 | Foo Foo | 138148 | [138148-foo-foo.json](./138148-foo-foo.json) |
 | Foo Is Missing | 409314 | [409314-foo-is-missing.json](./409314-foo-is-missing.json) |
@@ -11208,6 +11209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fourleaf Fields | 377540 | [377540-fourleaf-fields.json](./377540-fourleaf-fields.json) |
 | FourPlay Chess | 193236 | [193236-fourplay-chess.json](./193236-fourplay-chess.json) |
 | FourPoint: Prologue | 290209 | [290209-fourpoint-prologue.json](./290209-fourpoint-prologue.json) |
+| FourSide | 80090 | [80090-fourside.json](./80090-fourside.json) |
 | Foursite | 273735 | [273735-foursite.json](./273735-foursite.json) |
 | Fourspell Survivors Online | 224247 | [224247-fourspell-survivors-online.json](./224247-fourspell-survivors-online.json) |
 | Fourteen Fiends | 243861 | [243861-fourteen-fiends.json](./243861-fourteen-fiends.json) |
