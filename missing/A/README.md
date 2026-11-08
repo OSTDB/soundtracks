@@ -1624,6 +1624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Sock-Ellipse Now! | 70077 | [70077-a-sock-ellipse-now.json](./70077-a-sock-ellipse-now.json) |
 | A-Spec: First Assault | 154160 | [154160-a-spec-first-assault.json](./154160-a-spec-first-assault.json) |
 | A-Star Theft | 156956 | [156956-a-star-theft.json](./156956-a-star-theft.json) |
+| A-Team | 131068 | [131068-a-team.json](./131068-a-team.json) |
 | A-Tech Cybernetic | 29806 | [29806-a-tech-cybernetic.json](./29806-a-tech-cybernetic.json) |
 | A-Train | 285142 | [285142-a-train.json](./285142-a-train.json) |
 | A-Train | 285143 | [285143-a-train.json](./285143-a-train.json) |
@@ -3528,6 +3529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advent/Archive | 352363 | [352363-advent-archive.json](./352363-advent-archive.json) |
 | Adventarum | 373999 | [373999-adventarum.json](./373999-adventarum.json) |
 | Adventopia | 355216 | [355216-adventopia.json](./355216-adventopia.json) |
+| Adventskalender 2006 | 131064 | [131064-adventskalender-2006.json](./131064-adventskalender-2006.json) |
 | Adventsquiz | 72266 | [72266-adventsquiz.json](./72266-adventsquiz.json) |
 | Adventure | 12239 | [12239-adventure.json](./12239-adventure.json) |
 | Adventure | 299186 | [299186-adventure.json](./299186-adventure.json) |
@@ -16938,6 +16940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
