@@ -5804,6 +5804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Separium: 12th Elevator | 336541 | [336541-separium-12th-elevator.json](./336541-separium-12th-elevator.json) |
 | Sepas Channel | 100270 | [100270-sepas-channel.json](./100270-sepas-channel.json) |
 | Sephiria | 278379 | [278379-sephiria.json](./278379-sephiria.json) |
+| Sephirothic Stories | 115863 | [115863-sephirothic-stories.json](./115863-sephirothic-stories.json) |
 | Sephonie | 144724 | [144724-sephonie.json](./144724-sephonie.json) |
 | Sepia | 257287 | [257287-sepia.json](./257287-sepia.json) |
 | Sepia Go! | 248826 | [248826-sepia-go.json](./248826-sepia-go.json) |
@@ -9318,6 +9319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shootero: Galaxy Space Shooter | 248152 | [248152-shootero-galaxy-space-shooter.json](./248152-shootero-galaxy-space-shooter.json) |
 | Shooters Solitude System4 | 108767 | [108767-shooters-solitude-system4.json](./108767-shooters-solitude-system4.json) |
 | Shooters, Ready! | 335670 | [335670-shooters-ready.json](./335670-shooters-ready.json) |
+| ShooterSpheres | 115887 | [115887-shooterspheres.json](./115887-shooterspheres.json) |
 | ShootersPool | 123540 | [123540-shooterspool.json](./123540-shooterspool.json) |
 | Shooterspool: Billiards Simulation | 127333 | [127333-shooterspool-billiards-simulation.json](./127333-shooterspool-billiards-simulation.json) |
 | Shooterwave | 186344 | [186344-shooterwave.json](./186344-shooterwave.json) |
@@ -26073,6 +26075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Escape | 57113 | [57113-starship-escape.json](./57113-starship-escape.json) |
 | Starship EVO | 138009 | [138009-starship-evo.json](./138009-starship-evo.json) |
 | Starship Fighters: Galactic Warfare | 360155 | [360155-starship-fighters-galactic-warfare.json](./360155-starship-fighters-galactic-warfare.json) |
+| Starship Helmet | 115917 | [115917-starship-helmet.json](./115917-starship-helmet.json) |
 | Starship Home | 293377 | [293377-starship-home.json](./293377-starship-home.json) |
 | Starship Horizons Bridge Simulator | 126963 | [126963-starship-horizons-bridge-simulator.json](./126963-starship-horizons-bridge-simulator.json) |
 | Starship Inspector | 127867 | [127867-starship-inspector.json](./127867-starship-inspector.json) |
