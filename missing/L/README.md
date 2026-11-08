@@ -5444,6 +5444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lincolnshire Roads | 213793 | [213793-lincolnshire-roads.json](./213793-lincolnshire-roads.json) |
 | Linda & Joan | 132480 | [132480-linda-and-joan.json](./132480-linda-and-joan.json) |
 | Linda & Joan Prologue: "Four Months Earlier" | 132389 | [132389-linda-and-joan-prologue-four-months-earlier.json](./132389-linda-and-joan-prologue-four-months-earlier.json) |
+| Linda Brown: Interactive Story | 99886 | [99886-linda-brown-interactive-story.json](./99886-linda-brown-interactive-story.json) |
 | Linda Crenshaw: The Dream Apartment | 181687 | [181687-linda-crenshaw-the-dream-apartment.json](./181687-linda-crenshaw-the-dream-apartment.json) |
 | Linda Cube | 94898 | [94898-linda-cube.json](./94898-linda-cube.json) |
 | Linda Cube Again | 65761 | [65761-linda-cube-again.json](./65761-linda-cube-again.json) |
@@ -7167,6 +7168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistical 2: Washington | 166377 | [166377-logistical-2-washington.json](./166377-logistical-2-washington.json) |
 | Logistical 3 | 153003 | [153003-logistical-3.json](./153003-logistical-3.json) |
 | Logistical 3: Portugal | 350074 | [350074-logistical-3-portugal.json](./350074-logistical-3-portugal.json) |
+| Logistical: ABC Islands | 100239 | [100239-logistical-abc-islands.json](./100239-logistical-abc-islands.json) |
 | Logistical: Brazil | 74485 | [74485-logistical-brazil.json](./74485-logistical-brazil.json) |
 | Logistical: British Isles | 52298 | [52298-logistical-british-isles.json](./52298-logistical-british-isles.json) |
 | Logistical: Canada | 166373 | [166373-logistical-canada.json](./166373-logistical-canada.json) |
