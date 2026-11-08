@@ -1818,6 +1818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eikou no Saint Andrews | 3484 | [3484-eikou-no-saint-andrews.json](./3484-eikou-no-saint-andrews.json) |
 | Eikro: The Children of Darloum | 307524 | [307524-eikro-the-children-of-darloum.json](./307524-eikro-the-children-of-darloum.json) |
 | Eilean Mor: The Lost Keepers | 355026 | [355026-eilean-mor-the-lost-keepers.json](./355026-eilean-mor-the-lost-keepers.json) |
+| Eilf | 123187 | [123187-eilf.json](./123187-eilf.json) |
 | Ein Fall für TKKG: Detektiv gesucht! | 308986 | [308986-ein-fall-fur-tkkg-detektiv-gesucht.json](./308986-ein-fall-fur-tkkg-detektiv-gesucht.json) |
 | Ein Fall für TKKG: Katjas Geheimnis | 127995 | [127995-ein-fall-fur-tkkg-katjas-geheimnis.json](./127995-ein-fall-fur-tkkg-katjas-geheimnis.json) |
 | Ein's Sword | 205761 | [205761-eins-sword.json](./205761-eins-sword.json) |
@@ -2984,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emberdoom | 32584 | [32584-emberdoom.json](./32584-emberdoom.json) |
 | Emberdoom VR | 106476 | [106476-emberdoom-vr.json](./106476-emberdoom-vr.json) |
 | Emberdrift | 290952 | [290952-emberdrift.json](./290952-emberdrift.json) |
+| Emberfall | 123179 | [123179-emberfall.json](./123179-emberfall.json) |
 | Emberfall | 326838 | [326838-emberfall.json](./326838-emberfall.json) |
 | Emberfate: Tempest of Elements | 207069 | [207069-emberfate-tempest-of-elements.json](./207069-emberfate-tempest-of-elements.json) |
 | Emberfly | 336013 | [336013-emberfly.json](./336013-emberfly.json) |
@@ -5012,6 +5014,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erotic Tentacle Arts Assortment | 98494 | [98494-erotic-tentacle-arts-assortment.json](./98494-erotic-tentacle-arts-assortment.json) |
 | Erotic Winter Sports | 111411 | [111411-erotic-winter-sports.json](./111411-erotic-winter-sports.json) |
 | Erotica | 393841 | [393841-erotica.json](./393841-erotica.json) |
+| Erotika | 123176 | [123176-erotika.json](./123176-erotika.json) |
+| Erotika II | 123175 | [123175-erotika-ii.json](./123175-erotika-ii.json) |
+| Erotika III | 123174 | [123174-erotika-iii.json](./123174-erotika-iii.json) |
 | Erovoice! Sexy Voices Lead to a Successful Love Life | 204498 | [204498-erovoice-sexy-voices-lead-to-a-successful-love-life.json](./204498-erovoice-sexy-voices-lead-to-a-successful-love-life.json) |
 | Erozld | 236216 | [236216-erozld.json](./236216-erozld.json) |
 | Err: 001 | 30400 | [30400-err-001.json](./30400-err-001.json) |
@@ -7261,6 +7266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Fate | 220018 | [220018-evil-fate.json](./220018-evil-fate.json) |
 | Evil Fire | 87979 | [87979-evil-fire.json](./87979-evil-fire.json) |
 | Evil Forest | 340144 | [340144-evil-forest.json](./340144-evil-forest.json) |
+| Evil Garden | 123181 | [123181-evil-garden.json](./123181-evil-garden.json) |
 | Evil Genius 2: World Domination - Abomination Pack | 226849 | [226849-evil-genius-2-world-domination-abomination-pack.json](./226849-evil-genius-2-world-domination-abomination-pack.json) |
 | Evil Genius 2: World Domination - Cabal Pack | 226850 | [226850-evil-genius-2-world-domination-cabal-pack.json](./226850-evil-genius-2-world-domination-cabal-pack.json) |
 | Evil Genius 2: World Domination - Deluxe Edition | 188025 | [188025-evil-genius-2-world-domination-deluxe-edition.json](./188025-evil-genius-2-world-domination-deluxe-edition.json) |
