@@ -32744,6 +32744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Try to Wake Up : The Legend of Trevis | 296337 | [296337-try-to-wake-up-the-legend-of-trevis.json](./296337-try-to-wake-up-the-legend-of-trevis.json) |
 | Try to Win 2 | 196055 | [196055-try-to-win-2.json](./196055-try-to-win-2.json) |
 | Try. Die. Repeat. | 133875 | [133875-try-die-repeat.json](./133875-try-die-repeat.json) |
+| Try.io | 108100 | [108100-try-io.json](./108100-try-io.json) |
 | TryAndLove | 279555 | [279555-tryandlove.json](./279555-tryandlove.json) |
 | TryAngle: Shapes Warfare | 373322 | [373322-tryangle-shapes-warfare.json](./373322-tryangle-shapes-warfare.json) |
 | Trybit Logic | 114044 | [114044-trybit-logic.json](./114044-trybit-logic.json) |
