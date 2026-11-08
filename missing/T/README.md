@@ -4309,6 +4309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenshi no Oshigoto: Their Wishes Afterward | 336494 | [336494-tenshi-no-oshigoto-their-wishes-afterward.json](./336494-tenshi-no-oshigoto-their-wishes-afterward.json) |
 | Tenshi no Shippo | 167118 | [167118-tenshi-no-shippo.json](./167118-tenshi-no-shippo.json) |
 | Tenshi no Solitaire | 409079 | [409079-tenshi-no-solitaire.json](./409079-tenshi-no-solitaire.json) |
+| Tenshi no Uta | 80733 | [80733-tenshi-no-uta.json](./80733-tenshi-no-uta.json) |
 | Tenshi no Uta II: Datenshi no Sentaku | 65419 | [65419-tenshi-no-uta-ii-datenshi-no-sentaku.json](./65419-tenshi-no-uta-ii-datenshi-no-sentaku.json) |
 | Tenshi no Uta: Shiroki Tsubasa no Inori | 42296 | [42296-tenshi-no-uta-shiroki-tsubasa-no-inori.json](./42296-tenshi-no-uta-shiroki-tsubasa-no-inori.json) |
 | Tenshi no Uta: The Angel Verse II - The Fallen Angel | 385074 | [385074-tenshi-no-uta-the-angel-verse-ii-the-fallen-angel.json](./385074-tenshi-no-uta-the-angel-verse-ii-the-fallen-angel.json) |
@@ -19295,6 +19296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Way | 19480 | [19480-the-way.json](./19480-the-way.json) |
 | The Way | 251177 | [251177-the-way.json](./251177-the-way.json) |
 | The Way | 260454 | [260454-the-way.json](./260454-the-way.json) |
+| The Way | 80765 | [80765-the-way.json](./80765-the-way.json) |
 | The Way Back Home: Sinister Night | 218829 | [218829-the-way-back-home-sinister-night.json](./218829-the-way-back-home-sinister-night.json) |
 | The Way Down | 357734 | [357734-the-way-down.json](./357734-the-way-down.json) |
 | The Way Home | 166721 | [166721-the-way-home.json](./166721-the-way-home.json) |
@@ -26942,6 +26944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totemlands | 213941 | [213941-totemlands.json](./213941-totemlands.json) |
 | Totemori | 27207 | [27207-totemori.json](./27207-totemori.json) |
 | Totems | 201973 | [201973-totems.json](./201973-totems.json) |
+| Totems | 80732 | [80732-totems.json](./80732-totems.json) |
 | Totems: Game of Conquest | 200188 | [200188-totems-game-of-conquest.json](./200188-totems-game-of-conquest.json) |
 | Toten | 233486 | [233486-toten.json](./233486-toten.json) |
 | Totenkampf: Anime Waifus vs WW2 Zombies | 398414 | [398414-totenkampf-anime-waifus-vs-ww2-zombies.json](./398414-totenkampf-anime-waifus-vs-ww2-zombies.json) |
