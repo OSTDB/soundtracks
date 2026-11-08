@@ -2147,6 +2147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Jinguji Saburo DS: Kienai Kokoro | 78907 | [78907-tantei-jinguji-saburo-ds-kienai-kokoro.json](./78907-tantei-jinguji-saburo-ds-kienai-kokoro.json) |
 | Tantei Jinguji Saburo Early Collection | 78264 | [78264-tantei-jinguji-saburo-early-collection.json](./78264-tantei-jinguji-saburo-early-collection.json) |
 | Tantei Jinguji Saburo Oldies | 347278 | [347278-tantei-jinguji-saburo-oldies.json](./347278-tantei-jinguji-saburo-oldies.json) |
+| Tantei Jinguji Saburo Series No. 01: Shinjuku Chuuou Kouen Satsujin Jiken | 136578 | [136578-tantei-jinguji-saburo-series-no-01-shinjuku-chuuou-kouen-satsujin-jiken.json](./136578-tantei-jinguji-saburo-series-no-01-shinjuku-chuuou-kouen-satsujin-jiken.json) |
 | Tantei Jinguji Saburo Series No. 02: Yokohama-ko Renzoku Satsujin Jiken | 347247 | [347247-tantei-jinguji-saburo-series-no-02-yokohama-ko-renzoku-satsujin-jiken.json](./347247-tantei-jinguji-saburo-series-no-02-yokohama-ko-renzoku-satsujin-jiken.json) |
 | Tantei Jinguji Saburo Series No. 03: Kiken na Futari | 347248 | [347248-tantei-jinguji-saburo-series-no-03-kiken-na-futari.json](./347248-tantei-jinguji-saburo-series-no-03-kiken-na-futari.json) |
 | Tantei Jinguji Saburo Series No. 04: Toki no Sugiyuku Mama ni... | 347250 | [347250-tantei-jinguji-saburo-series-no-04-toki-no-sugiyuku-mama-ni.json](./347250-tantei-jinguji-saburo-series-no-04-toki-no-sugiyuku-mama-ni.json) |
@@ -5244,6 +5245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thanatophobia | 278966 | [278966-thanatophobia.json](./278966-thanatophobia.json) |
 | Thanatos | 36687 | [36687-thanatos.json](./36687-thanatos.json) |
 | Thandor: The Invasion | 54432 | [54432-thandor-the-invasion.json](./54432-thandor-the-invasion.json) |
+| Thang Global | 136583 | [136583-thang-global.json](./136583-thang-global.json) |
 | Thang Online | 135838 | [135838-thang-online.json](./135838-thang-online.json) |
 | Thank Goodness You're Here! | 262538 | [262538-thank-goodness-youre-here.json](./262538-thank-goodness-youre-here.json) |
 | Thank You Bus Driver | 416605 | [416605-thank-you-bus-driver.json](./416605-thank-you-bus-driver.json) |
@@ -13816,6 +13818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Masquerade | 270530 | [270530-the-masquerade.json](./270530-the-masquerade.json) |
 | The Masquerade | 360875 | [360875-the-masquerade.json](./360875-the-masquerade.json) |
 | The Massive Iceberg Schoolhouse | 340004 | [340004-the-massive-iceberg-schoolhouse.json](./340004-the-massive-iceberg-schoolhouse.json) |
+| The Master | 136580 | [136580-the-master.json](./136580-the-master.json) |
 | The Master | 70106 | [70106-the-master.json](./70106-the-master.json) |
 | The Master | 81625 | [81625-the-master.json](./81625-the-master.json) |
 | The Master Club | 111524 | [111524-the-master-club.json](./111524-the-master-club.json) |
@@ -18040,6 +18043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tower | 86462 | [86462-the-tower.json](./86462-the-tower.json) |
 | The Tower 2 | 120952 | [120952-the-tower-2.json](./120952-the-tower-2.json) |
 | The Tower Assassin's Creed | 97806 | [97806-the-tower-assassins-creed.json](./97806-the-tower-assassins-creed.json) |
+| The Tower at Tortenna | 136552 | [136552-the-tower-at-tortenna.json](./136552-the-tower-at-tortenna.json) |
 | The Tower Between Us | 145300 | [145300-the-tower-between-us.json](./145300-the-tower-between-us.json) |
 | The Tower DS | 62480 | [62480-the-tower-ds.json](./62480-the-tower-ds.json) |
 | The Tower Must Fall | 412489 | [412489-the-tower-must-fall.json](./412489-the-tower-must-fall.json) |
