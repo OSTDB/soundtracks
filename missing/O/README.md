@@ -4728,6 +4728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otherworldly Stars | 179513 | [179513-otherworldly-stars.json](./179513-otherworldly-stars.json) |
 | Otherworldly: Beginning of the Rift | 341518 | [341518-otherworldly-beginning-of-the-rift.json](./341518-otherworldly-beginning-of-the-rift.json) |
 | Otiiz's adventure - Sushi Champ | 113178 | [113178-otiizs-adventure-sushi-champ.json](./113178-otiizs-adventure-sushi-champ.json) |
+| Otiiz's adventure 2 | 118531 | [118531-otiizs-adventure-2.json](./118531-otiizs-adventure-2.json) |
 | Otis | 64428 | [64428-otis.json](./64428-otis.json) |
 | Otisdub Tag Plus | 417651 | [417651-otisdub-tag-plus.json](./417651-otisdub-tag-plus.json) |
 | Oto-hime | 319640 | [319640-oto-hime.json](./319640-oto-hime.json) |
