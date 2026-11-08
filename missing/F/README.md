@@ -10481,6 +10481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fort | 120142 | [120142-fort.json](./120142-fort.json) |
 | Fort Apache | 132816 | [132816-fort-apache.json](./132816-fort-apache.json) |
 | Fort Apocalypse | 13850 | [13850-fort-apocalypse.json](./13850-fort-apocalypse.json) |
+| Fort Apocalypse Arcade Game | 95716 | [95716-fort-apocalypse-arcade-game.json](./95716-fort-apocalypse-arcade-game.json) |
 | Fort Apocalypse II | 47202 | [47202-fort-apocalypse-ii.json](./47202-fort-apocalypse-ii.json) |
 | Fort Awesome | 28560 | [28560-fort-awesome.json](./28560-fort-awesome.json) |
 | Fort Boyard | 119925 | [119925-fort-boyard.json](./119925-fort-boyard.json) |
@@ -11903,6 +11904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freecell | 421223 | [421223-freecell.json](./421223-freecell.json) |
 | FreeCell | 383490 | [383490-freecell.json](./383490-freecell.json) |
 | FreeCell - Card Game | 87152 | [87152-freecell-card-game.json](./87152-freecell-card-game.json) |
+| FreeCell + | 96176 | [96176-freecell.json](./96176-freecell.json) |
 | FreeCell 2018 | 86693 | [86693-freecell-2018.json](./86693-freecell-2018.json) |
 | Freecell Battle King | 114907 | [114907-freecell-battle-king.json](./114907-freecell-battle-king.json) |
 | FreeCell Pro | 131132 | [131132-freecell-pro.json](./131132-freecell-pro.json) |
