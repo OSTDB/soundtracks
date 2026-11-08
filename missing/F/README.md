@@ -4985,6 +4985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Earth | 79508 | [79508-final-earth.json](./79508-final-earth.json) |
 | Final Echo | 348802 | [348802-final-echo.json](./348802-final-echo.json) |
 | Final Eden | 291412 | [291412-final-eden.json](./291412-final-eden.json) |
+| Final Equinox: The Arrival | 109151 | [109151-final-equinox-the-arrival.json](./109151-final-equinox-the-arrival.json) |
 | Final Escape | 246327 | [246327-final-escape.json](./246327-final-escape.json) |
 | Final Exam | 7306 | [7306-final-exam.json](./7306-final-exam.json) |
 | Final Exam | 80480 | [80480-final-exam.json](./80480-final-exam.json) |
@@ -12707,6 +12708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Hell | 217399 | [217399-from-hell.json](./217399-from-hell.json) |
 | From Hell | 320524 | [320524-from-hell.json](./320524-from-hell.json) |
 | From Hell | 320610 | [320610-from-hell.json](./320610-from-hell.json) |
+| From Ivan | 109102 | [109102-from-ivan.json](./109102-from-ivan.json) |
 | From Lamer to Guru | 367156 | [367156-from-lamer-to-guru.json](./367156-from-lamer-to-guru.json) |
 | From Lex to Rex | 195574 | [195574-from-lex-to-rex.json](./195574-from-lex-to-rex.json) |
 | From Light | 262745 | [262745-from-light.json](./262745-from-light.json) |
