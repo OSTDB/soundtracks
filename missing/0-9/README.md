@@ -877,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 100Friends | 379064 | [379064-100friends.json](./379064-100friends.json) |
 | 100NHAS | 131056 | [131056-100nhas.json](./131056-100nhas.json) |
 | 100nya | 30580 | [30580-100nya.json](./30580-100nya.json) |
+| 100th | 128752 | [128752-100th.json](./128752-100th.json) |
 | 100th Bug Brigade | 335194 | [335194-100th-bug-brigade.json](./335194-100th-bug-brigade.json) |
 | 101 Airborne: The Airborne Invasion of Normandy | 582 | [582-101-airborne-the-airborne-invasion-of-normandy.json](./582-101-airborne-the-airborne-invasion-of-normandy.json) |
 | 101 Bunny Pets | 202175 | [202175-101-bunny-pets.json](./202175-101-bunny-pets.json) |
