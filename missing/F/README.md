@@ -2301,6 +2301,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry Insanity Bundle | 164798 | [164798-far-cry-insanity-bundle.json](./164798-far-cry-insanity-bundle.json) |
 | Far Cry Instincts | 5831 | [5831-far-cry-instincts.json](./5831-far-cry-instincts.json) |
 | Far Cry Instincts: Evolution | 22584 | [22584-far-cry-instincts-evolution.json](./22584-far-cry-instincts-evolution.json) |
+| Far Cry New Dawn: Complete Edition | 121159 | [121159-far-cry-new-dawn-complete-edition.json](./121159-far-cry-new-dawn-complete-edition.json) |
+| Far Cry New Dawn: Ultimate Edition | 121160 | [121160-far-cry-new-dawn-ultimate-edition.json](./121160-far-cry-new-dawn-ultimate-edition.json) |
 | Far Cry Primal: Apex Edition | 54033 | [54033-far-cry-primal-apex-edition.json](./54033-far-cry-primal-apex-edition.json) |
 | Far Cry Primal: Collector's Edition | 41617 | [41617-far-cry-primal-collectors-edition.json](./41617-far-cry-primal-collectors-edition.json) |
 | Far Cry Primal: Deluxe Edition | 44543 | [44543-far-cry-primal-deluxe-edition.json](./44543-far-cry-primal-deluxe-edition.json) |
@@ -10418,6 +10420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forsaker: DingDing&Blade | 347020 | [347020-forsaker-dingding-and-blade.json](./347020-forsaker-dingding-and-blade.json) |
 | Forsaker: ​Innocent Paws | 392311 | [392311-forsaker-innocent-paws.json](./392311-forsaker-innocent-paws.json) |
 | Forsan El Majd | 316820 | [316820-forsan-el-majd.json](./316820-forsan-el-majd.json) |
+| Forsekir:First Invasion | 121169 | [121169-forsekir-first-invasion.json](./121169-forsekir-first-invasion.json) |
 | Forsen's Vacation | 371842 | [371842-forsens-vacation.json](./371842-forsens-vacation.json) |
 | Forsisted: The Sacred Souls | 274569 | [274569-forsisted-the-sacred-souls.json](./274569-forsisted-the-sacred-souls.json) |
 | Forspoken: Digital Deluxe Edition | 186365 | [186365-forspoken-digital-deluxe-edition.json](./186365-forspoken-digital-deluxe-edition.json) |
