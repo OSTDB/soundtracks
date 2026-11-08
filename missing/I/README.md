@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love Softball | 48464 | [48464-i-love-softball.json](./48464-i-love-softball.json) |
 | I Love Spelling! | 339135 | [339135-i-love-spelling.json](./339135-i-love-spelling.json) |
 | I Love Strawberries | 8380 | [8380-i-love-strawberries.json](./8380-i-love-strawberries.json) |
+| I love the money | 110554 | [110554-i-love-the-money.json](./110554-i-love-the-money.json) |
 | I Love Traffic | 230511 | [230511-i-love-traffic.json](./230511-i-love-traffic.json) |
 | I Love You Freddy | 277010 | [277010-i-love-you-freddy.json](./277010-i-love-you-freddy.json) |
 | I Love You like a Fat Lady Loves Apples | 239451 | [239451-i-love-you-like-a-fat-lady-loves-apples.json](./239451-i-love-you-like-a-fat-lady-loves-apples.json) |
@@ -4036,6 +4037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinitum: Deluxe Edition | 53232 | [53232-infinitum-deluxe-edition.json](./53232-infinitum-deluxe-edition.json) |
 | Infinitum: Legends | 26967 | [26967-infinitum-legends.json](./26967-infinitum-legends.json) |
 | Infinitum: The Backrooms Story | 258179 | [258179-infinitum-the-backrooms-story.json](./258179-infinitum-the-backrooms-story.json) |
+| Infinity | 110478 | [110478-infinity.json](./110478-infinity.json) |
 | Infinity | 13729 | [13729-infinity.json](./13729-infinity.json) |
 | Infinity | 176046 | [176046-infinity.json](./176046-infinity.json) |
 | Infinity | 313865 | [313865-infinity.json](./313865-infinity.json) |
