@@ -5969,6 +5969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Akagawa Jirou Mystery: Yasoukyoku - Hon ni Manekareta Satsujin | 268077 | [268077-akagawa-jirou-mystery-yasoukyoku-hon-ni-manekareta-satsujin.json](./268077-akagawa-jirou-mystery-yasoukyoku-hon-ni-manekareta-satsujin.json) |
 | Akagawa Jirou no Yuurei Ressha | 48606 | [48606-akagawa-jirou-no-yuurei-ressha.json](./48606-akagawa-jirou-no-yuurei-ressha.json) |
 | Akagawa Jirou: Majo-tachi no Nemuri | 67712 | [67712-akagawa-jirou-majo-tachi-no-nemuri.json](./67712-akagawa-jirou-majo-tachi-no-nemuri.json) |
+| Akagawa Jirou: Tsuki no Hikari - Shizumeru Kane no Satsujin | 112540 | [112540-akagawa-jirou-tsuki-no-hikari-shizumeru-kane-no-satsujin.json](./112540-akagawa-jirou-tsuki-no-hikari-shizumeru-kane-no-satsujin.json) |
 | Akagawa Jirou: Yasoukyoku | 62544 | [62544-akagawa-jirou-yasoukyoku.json](./62544-akagawa-jirou-yasoukyoku.json) |
 | Akagi: Touhaiden | 254431 | [254431-akagi-touhaiden.json](./254431-akagi-touhaiden.json) |
 | Akahane Academy | 251330 | [251330-akahane-academy.json](./251330-akahane-academy.json) |
@@ -6947,6 +6948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Death Mob | 148317 | [148317-alien-death-mob.json](./148317-alien-death-mob.json) |
 | Alien Deathstorm | 396023 | [396023-alien-deathstorm.json](./396023-alien-deathstorm.json) |
 | Alien Decimation | 211164 | [211164-alien-decimation.json](./211164-alien-decimation.json) |
+| Alien Defense | 112439 | [112439-alien-defense.json](./112439-alien-defense.json) |
 | Alien Defense Unit | 216464 | [216464-alien-defense-unit.json](./216464-alien-defense-unit.json) |
 | Alien Destroyer | 146183 | [146183-alien-destroyer.json](./146183-alien-destroyer.json) |
 | Alien Disaster | 135272 | [135272-alien-disaster.json](./135272-alien-disaster.json) |
@@ -7970,6 +7972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphabet Blocks | 66549 | [66549-alphabet-blocks.json](./66549-alphabet-blocks.json) |
 | Alphabet Express | 206656 | [206656-alphabet-express.json](./206656-alphabet-express.json) |
 | Alphabet Hero | 379600 | [379600-alphabet-hero.json](./379600-alphabet-hero.json) |
+| Alphabet Jump | 112452 | [112452-alphabet-jump.json](./112452-alphabet-jump.json) |
 | Alphabet Memory Match | 108476 | [108476-alphabet-memory-match.json](./108476-alphabet-memory-match.json) |
 | Alphabet Park Adventure | 100121 | [100121-alphabet-park-adventure.json](./100121-alphabet-park-adventure.json) |
 | Alphabet Solitaire Z | 89859 | [89859-alphabet-solitaire-z.json](./89859-alphabet-solitaire-z.json) |
@@ -10892,6 +10895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ano Subarashii Bento wo 2-do 3-do | 336178 | [336178-ano-subarashii-bento-wo-2-do-3-do.json](./336178-ano-subarashii-bento-wo-2-do-3-do.json) |
 | Ano Yo Iki Densha | 381405 | [381405-ano-yo-iki-densha.json](./381405-ano-yo-iki-densha.json) |
 | Ano-chan wo Byouin ni Tsuretette | 283054 | [283054-ano-chan-wo-byouin-ni-tsuretette.json](./283054-ano-chan-wo-byouin-ni-tsuretette.json) |
+| Ano, Subarashii wo Mou Ichido | 112524 | [112524-ano-subarashii-wo-mou-ichido.json](./112524-ano-subarashii-wo-mou-ichido.json) |
 | Ano, Subarashii wo Mou Ichido: Saisouban HD | 251530 | [251530-ano-subarashii-wo-mou-ichido-saisouban-hd.json](./251530-ano-subarashii-wo-mou-ichido-saisouban-hd.json) |
 | Anode Heart | 182028 | [182028-anode-heart.json](./182028-anode-heart.json) |
 | Anode Heart 2 | 345994 | [345994-anode-heart-2.json](./345994-anode-heart-2.json) |
@@ -17019,6 +17023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
