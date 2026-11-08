@@ -25269,16 +25269,24 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's Rainbow Six Siege: Operation Black Ice | 24499 | [24499-tom-clancys-rainbow-six-siege-operation-black-ice.json](./24499-tom-clancys-rainbow-six-siege-operation-black-ice.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Blood Orchid | 55167 | [55167-tom-clancys-rainbow-six-siege-operation-blood-orchid.json](./55167-tom-clancys-rainbow-six-siege-operation-blood-orchid.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Brutal Swarm | 217522 | [217522-tom-clancys-rainbow-six-siege-operation-brutal-swarm.json](./217522-tom-clancys-rainbow-six-siege-operation-brutal-swarm.json) |
+| Tom Clancy's Rainbow Six Siege: Operation Burnt Horizon | 129900 | [129900-tom-clancys-rainbow-six-siege-operation-burnt-horizon.json](./129900-tom-clancys-rainbow-six-siege-operation-burnt-horizon.json) |
+| Tom Clancy's Rainbow Six Siege: Operation Chimera | 129892 | [129892-tom-clancys-rainbow-six-siege-operation-chimera.json](./129892-tom-clancys-rainbow-six-siege-operation-chimera.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Dust Line | 24500 | [24500-tom-clancys-rainbow-six-siege-operation-dust-line.json](./24500-tom-clancys-rainbow-six-siege-operation-dust-line.json) |
+| Tom Clancy's Rainbow Six Siege: Operation Ember Rise | 129902 | [129902-tom-clancys-rainbow-six-siege-operation-ember-rise.json](./129902-tom-clancys-rainbow-six-siege-operation-ember-rise.json) |
+| Tom Clancy's Rainbow Six Siege: Operation Grim Sky | 129896 | [129896-tom-clancys-rainbow-six-siege-operation-grim-sky.json](./129896-tom-clancys-rainbow-six-siege-operation-grim-sky.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Neon Dawn | 141194 | [141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json](./141194-tom-clancys-rainbow-six-siege-operation-neon-dawn.json) |
+| Tom Clancy's Rainbow Six Siege: Operation Para Bellum | 129895 | [129895-tom-clancys-rainbow-six-siege-operation-para-bellum.json](./129895-tom-clancys-rainbow-six-siege-operation-para-bellum.json) |
+| Tom Clancy's Rainbow Six Siege: Operation Phantom Sight | 129901 | [129901-tom-clancys-rainbow-six-siege-operation-phantom-sight.json](./129901-tom-clancys-rainbow-six-siege-operation-phantom-sight.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Red Crow | 25641 | [25641-tom-clancys-rainbow-six-siege-operation-red-crow.json](./25641-tom-clancys-rainbow-six-siege-operation-red-crow.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Shadow Legacy | 136978 | [136978-tom-clancys-rainbow-six-siege-operation-shadow-legacy.json](./136978-tom-clancys-rainbow-six-siege-operation-shadow-legacy.json) |
+| Tom Clancy's Rainbow Six Siege: Operation Shifting Tides | 129903 | [129903-tom-clancys-rainbow-six-siege-operation-shifting-tides.json](./129903-tom-clancys-rainbow-six-siege-operation-shifting-tides.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Skull Rain | 23176 | [23176-tom-clancys-rainbow-six-siege-operation-skull-rain.json](./23176-tom-clancys-rainbow-six-siege-operation-skull-rain.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Splitfire | 416178 | [416178-tom-clancys-rainbow-six-siege-operation-splitfire.json](./416178-tom-clancys-rainbow-six-siege-operation-splitfire.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Steel Wave | 135157 | [135157-tom-clancys-rainbow-six-siege-operation-steel-wave.json](./135157-tom-clancys-rainbow-six-siege-operation-steel-wave.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Vector Glare | 217521 | [217521-tom-clancys-rainbow-six-siege-operation-vector-glare.json](./217521-tom-clancys-rainbow-six-siege-operation-vector-glare.json) |
 | Tom Clancy's Rainbow Six Siege: Operation Void Edge | 135155 | [135155-tom-clancys-rainbow-six-siege-operation-void-edge.json](./135155-tom-clancys-rainbow-six-siege-operation-void-edge.json) |
 | Tom Clancy's Rainbow Six Siege: Operation White Noise | 76218 | [76218-tom-clancys-rainbow-six-siege-operation-white-noise.json](./76218-tom-clancys-rainbow-six-siege-operation-white-noise.json) |
+| Tom Clancy's Rainbow Six Siege: Operation Wind Bastion | 129897 | [129897-tom-clancys-rainbow-six-siege-operation-wind-bastion.json](./129897-tom-clancys-rainbow-six-siege-operation-wind-bastion.json) |
 | Tom Clancy's Rainbow Six Siege: Operator Edition | 146125 | [146125-tom-clancys-rainbow-six-siege-operator-edition.json](./146125-tom-clancys-rainbow-six-siege-operator-edition.json) |
 | Tom Clancy's Rainbow Six Siege: Pro League Ash Set | 95351 | [95351-tom-clancys-rainbow-six-siege-pro-league-ash-set.json](./95351-tom-clancys-rainbow-six-siege-pro-league-ash-set.json) |
 | Tom Clancy's Rainbow Six Siege: Pro League Bandit Set | 95348 | [95348-tom-clancys-rainbow-six-siege-pro-league-bandit-set.json](./95348-tom-clancys-rainbow-six-siege-pro-league-bandit-set.json) |
