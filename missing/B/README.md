@@ -982,6 +982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7716,6 +7717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Mutha Truckers 2 | 5748 | [5748-big-mutha-truckers-2.json](./5748-big-mutha-truckers-2.json) |
 | Big Name: City Lovin | 231971 | [231971-big-name-city-lovin.json](./231971-big-name-city-lovin.json) |
 | Big Names Bonanza | 19683 | [19683-big-names-bonanza.json](./19683-big-names-bonanza.json) |
+| Big Neighbor Hero. Hello Baymax 3D | 99205 | [99205-big-neighbor-hero-hello-baymax-3d.json](./99205-big-neighbor-hero-hello-baymax-3d.json) |
 | Big Neon Tower vs. Tiny Square | 159438 | [159438-big-neon-tower-vs-tiny-square.json](./159438-big-neon-tower-vs-tiny-square.json) |
 | Big Nose and the Witchdoctor | 233993 | [233993-big-nose-and-the-witchdoctor.json](./233993-big-nose-and-the-witchdoctor.json) |
 | Big Nose Freaks Out | 48105 | [48105-big-nose-freaks-out.json](./48105-big-nose-freaks-out.json) |
@@ -8009,6 +8011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billgard | 329169 | [329169-billgard.json](./329169-billgard.json) |
 | Billiard | 266630 | [266630-billiard.json](./266630-billiard.json) |
 | Billiard Academy Real Break | 264254 | [264254-billiard-academy-real-break.json](./264254-billiard-academy-real-break.json) |
+| Billiard Action | 98670 | [98670-billiard-action.json](./98670-billiard-action.json) |
 | Billiard Club | 52459 | [52459-billiard-club.json](./52459-billiard-club.json) |
 | Billiard Japonais | 92291 | [92291-billiard-japonais.json](./92291-billiard-japonais.json) |
 | Billiard of Chaos | 274308 | [274308-billiard-of-chaos.json](./274308-billiard-of-chaos.json) |
@@ -9203,6 +9206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Hole: Farmageddon | 382410 | [382410-black-hole-farmageddon.json](./382410-black-hole-farmageddon.json) |
 | Black Hollow | 410993 | [410993-black-hollow.json](./410993-black-hollow.json) |
 | Black Home | 35247 | [35247-black-home.json](./35247-black-home.json) |
+| Black Home 2 | 99059 | [99059-black-home-2.json](./99059-black-home-2.json) |
 | Black Horizon: Armada | 391983 | [391983-black-horizon-armada.json](./391983-black-horizon-armada.json) |
 | Black Hornet | 14309 | [14309-black-hornet.json](./14309-black-hornet.json) |
 | Black Ice | 17589 | [17589-black-ice.json](./17589-black-ice.json) |
