@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Safeguard | 383034 | [383034-safeguard.json](./383034-safeguard.json) |
 | SafeGuard | 195542 | [195542-safeguard.json](./195542-safeguard.json) |
 | Safeguard Saga | 368750 | [368750-safeguard-saga.json](./368750-safeguard-saga.json) |
+| SafeHome | 129329 | [129329-safehome.json](./129329-safehome.json) |
 | Safehouse | 232934 | [232934-safehouse.json](./232934-safehouse.json) |
 | Safelight | 302926 | [302926-safelight.json](./302926-safelight.json) |
 | Safetopia | 74836 | [74836-safetopia.json](./74836-safetopia.json) |
@@ -30303,6 +30304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sultan of Egypt | 195788 | [195788-sultan-of-egypt.json](./195788-sultan-of-egypt.json) |
 | Sultan's Game | 318002 | [318002-sultans-game.json](./318002-sultans-game.json) |
 | Sultan's Maze | 13038 | [13038-sultans-maze.json](./13038-sultans-maze.json) |
+| Sulver's Journey | 129305 | [129305-sulvers-journey.json](./129305-sulvers-journey.json) |
 | Sum | 105690 | [105690-sum.json](./105690-sum.json) |
 | Sum | 252995 | [252995-sum.json](./252995-sum.json) |
 | Sum Blocks | 120161 | [120161-sum-blocks.json](./120161-sum-blocks.json) |
