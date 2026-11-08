@@ -7469,6 +7469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piofiore no Banshou | 69342 | [69342-piofiore-no-banshou.json](./69342-piofiore-no-banshou.json) |
 | Piofiore: Episodio 1926 | 136944 | [136944-piofiore-episodio-1926.json](./136944-piofiore-episodio-1926.json) |
 | Piofiore: Episodio 1926 Limited Edition | 223129 | [223129-piofiore-episodio-1926-limited-edition.json](./223129-piofiore-episodio-1926-limited-edition.json) |
+| Piofiore: Fated Memories | 135377 | [135377-piofiore-fated-memories.json](./135377-piofiore-fated-memories.json) |
 | Pion | 44092 | [44092-pion.json](./44092-pion.json) |
 | Pioneer | 337737 | [337737-pioneer.json](./337737-pioneer.json) |
 | Pioneer | 354732 | [354732-pioneer.json](./354732-pioneer.json) |
