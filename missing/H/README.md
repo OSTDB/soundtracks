@@ -4292,6 +4292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Takes All | 278137 | [278137-hell-takes-all.json](./278137-hell-takes-all.json) |
 | Hell Throne | 262845 | [262845-hell-throne.json](./262845-hell-throne.json) |
 | Hell Thug | 367180 | [367180-hell-thug.json](./367180-hell-thug.json) |
+| Hell to Pay | 92557 | [92557-hell-to-pay.json](./92557-hell-to-pay.json) |
 | Hell to Raze | 132702 | [132702-hell-to-raze.json](./132702-hell-to-raze.json) |
 | Hell Trigger | 253440 | [253440-hell-trigger.json](./253440-hell-trigger.json) |
 | Hell Unearthed | 261445 | [261445-hell-unearthed.json](./261445-hell-unearthed.json) |
@@ -11685,6 +11686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Club House Collection | 99892 | [99892-hoyle-club-house-collection.json](./99892-hoyle-club-house-collection.json) |
 | Hoyle Craps and Blackjack | 210057 | [210057-hoyle-craps-and-blackjack.json](./210057-hoyle-craps-and-blackjack.json) |
 | Hoyle Crosswords & Sudoku | 210069 | [210069-hoyle-crosswords-and-sudoku.json](./210069-hoyle-crosswords-and-sudoku.json) |
+| Hoyle Enchanted Puzzles | 92560 | [92560-hoyle-enchanted-puzzles.json](./92560-hoyle-enchanted-puzzles.json) |
 | Hoyle Friday Night Poker | 210070 | [210070-hoyle-friday-night-poker.json](./210070-hoyle-friday-night-poker.json) |
 | Hoyle Illusions Mahjongg | 54108 | [54108-hoyle-illusions-mahjongg.json](./54108-hoyle-illusions-mahjongg.json) |
 | Hoyle Jewels: Swap & Drop It | 210071 | [210071-hoyle-jewels-swap-and-drop-it.json](./210071-hoyle-jewels-swap-and-drop-it.json) |
