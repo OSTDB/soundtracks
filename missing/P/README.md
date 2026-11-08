@@ -2665,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Bunch | 212423 | [212423-party-bunch.json](./212423-party-bunch.json) |
 | Party Bundle: Ludomania & Flowlines Vs. & 2048 Battles | 199865 | [199865-party-bundle-ludomania-and-flowlines-vs-and-2048-battles.json](./199865-party-bundle-ludomania-and-flowlines-vs-and-2048-battles.json) |
 | Party Business | 128594 | [128594-party-business.json](./128594-party-business.json) |
+| Party Carnival | 98669 | [98669-party-carnival.json](./98669-party-carnival.json) |
 | Party Cemetery | 178594 | [178594-party-cemetery.json](./178594-party-cemetery.json) |
 | Party Central | 60739 | [60739-party-central.json](./60739-party-central.json) |
 | Party Champ | 388958 | [388958-party-champ.json](./388958-party-champ.json) |
@@ -18808,6 +18809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Mania | 75538 | [75538-puzzle-mania.json](./75538-puzzle-mania.json) |
 | Puzzle Mania 2 | 213916 | [213916-puzzle-mania-2.json](./213916-puzzle-mania-2.json) |
 | Puzzle Mania: Chronicles of the Unicorn | 73523 | [73523-puzzle-mania-chronicles-of-the-unicorn.json](./73523-puzzle-mania-chronicles-of-the-unicorn.json) |
+| Puzzle Maniacs | 98663 | [98663-puzzle-maniacs.json](./98663-puzzle-maniacs.json) |
 | Puzzle Master | 108369 | [108369-puzzle-master.json](./108369-puzzle-master.json) |
 | Puzzle Master | 49951 | [49951-puzzle-master.json](./49951-puzzle-master.json) |
 | Puzzle Master 2 | 145642 | [145642-puzzle-master-2.json](./145642-puzzle-master-2.json) |
