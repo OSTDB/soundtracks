@@ -4810,6 +4810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reknum: Origins Collection - Limited Edition | 182477 | [182477-reknum-origins-collection-limited-edition.json](./182477-reknum-origins-collection-limited-edition.json) |
 | Rekoil | 7666 | [7666-rekoil.json](./7666-rekoil.json) |
 | Rekoil: Liberator | 20867 | [20867-rekoil-liberator.json](./20867-rekoil-liberator.json) |
+| Reksarych's Sudoku | 112460 | [112460-reksarychs-sudoku.json](./112460-reksarychs-sudoku.json) |
 | Reksio i Czarodzieje | 82038 | [82038-reksio-i-czarodzieje.json](./82038-reksio-i-czarodzieje.json) |
 | Reksio i Kapitan Nemo | 156177 | [156177-reksio-i-kapitan-nemo.json](./156177-reksio-i-kapitan-nemo.json) |
 | Reksio i Kretes w Akcji! | 218257 | [218257-reksio-i-kretes-w-akcji.json](./218257-reksio-i-kretes-w-akcji.json) |
