@@ -1635,6 +1635,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggdog Extended | 284196 | [284196-eggdog-extended.json](./284196-eggdog-extended.json) |
 | Eggerland | 41259 | [41259-eggerland.json](./41259-eggerland.json) |
 | Eggerland 2 | 47529 | [47529-eggerland-2.json](./47529-eggerland-2.json) |
+| Eggerland for Windows 95 | 79475 | [79475-eggerland-for-windows-95.json](./79475-eggerland-for-windows-95.json) |
 | Eggerland Mystery | 41807 | [41807-eggerland-mystery.json](./41807-eggerland-mystery.json) |
 | Eggerland: Meikyuu no Fukkatsu | 48510 | [48510-eggerland-meikyuu-no-fukkatsu.json](./48510-eggerland-meikyuu-no-fukkatsu.json) |
 | Eggerland: Souzou he no Tabidachi | 41338 | [41338-eggerland-souzou-he-no-tabidachi.json](./41338-eggerland-souzou-he-no-tabidachi.json) |
