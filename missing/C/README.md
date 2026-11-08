@@ -12852,6 +12852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Mission: Shock Force | 21234 | [21234-combat-mission-shock-force.json](./21234-combat-mission-shock-force.json) |
 | Combat Mission: Shock Force - NATO | 80130 | [80130-combat-mission-shock-force-nato.json](./80130-combat-mission-shock-force-nato.json) |
 | Combat Monsters | 24543 | [24543-combat-monsters.json](./24543-combat-monsters.json) |
+| Combat Online | 131040 | [131040-combat-online.json](./131040-combat-online.json) |
 | Combat Online 2 | 414219 | [414219-combat-online-2.json](./414219-combat-online-2.json) |
 | Combat Ops: Arena | 378952 | [378952-combat-ops-arena.json](./378952-combat-ops-arena.json) |
 | Combat Pilot: Carrier Qualification | 392211 | [392211-combat-pilot-carrier-qualification.json](./392211-combat-pilot-carrier-qualification.json) |
@@ -15190,6 +15191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corsarios | 57563 | [57563-corsarios.json](./57563-corsarios.json) |
 | CorsixTH | 127904 | [127904-corsixth.json](./127904-corsixth.json) |
 | Cortesia Rising | 415833 | [415833-cortesia-rising.json](./415833-cortesia-rising.json) |
+| Cortex | 131038 | [131038-cortex.json](./131038-cortex.json) |
 | Cortex Adventure | 415213 | [415213-cortex-adventure.json](./415213-cortex-adventure.json) |
 | Cortex Chaos | 283098 | [283098-cortex-chaos.json](./283098-cortex-chaos.json) |
 | Cortex Chronicles 1: The Trial of Rowan Reed | 290987 | [290987-cortex-chronicles-1-the-trial-of-rowan-reed.json](./290987-cortex-chronicles-1-the-trial-of-rowan-reed.json) |
@@ -21291,6 +21293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyrus II Chess | 12988 | [12988-cyrus-ii-chess.json](./12988-cyrus-ii-chess.json) |
 | CyTale | 261056 | [261056-cytale.json](./261056-cytale.json) |
 | Cyte | 371458 | [371458-cyte.json](./371458-cyte.json) |
+| Cythera | 131044 | [131044-cythera.json](./131044-cythera.json) |
 | Cython Cat | 407193 | [407193-cython-cat.json](./407193-cython-cat.json) |
 | Cyto | 17431 | [17431-cyto.json](./17431-cyto.json) |
 | Cytoclash | 155989 | [155989-cytoclash.json](./155989-cytoclash.json) |
