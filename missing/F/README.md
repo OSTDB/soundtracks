@@ -469,7 +469,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Simulator: Clothing & Outlet | 326435 | [326435-factory-simulator-clothing-and-outlet.json](./326435-factory-simulator-clothing-and-outlet.json) |
 | Factory Time | 382325 | [382325-factory-time.json](./382325-factory-time.json) |
 | Factory Tower | 293011 | [293011-factory-tower.json](./293011-factory-tower.json) |
-| Factory Town | 105292 | [105292-factory-town.json](./105292-factory-town.json) |
 | Factory Town 2: Paradise | 356436 | [356436-factory-town-2-paradise.json](./356436-factory-town-2-paradise.json) |
 | Factory Town: Idle | 229249 | [229249-factory-town-idle.json](./229249-factory-town-idle.json) |
 | Factory Trashcension | 236450 | [236450-factory-trashcension.json](./236450-factory-trashcension.json) |
@@ -3691,7 +3690,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feastopia | 368626 | [368626-feastopia.json](./368626-feastopia.json) |
 | Feasts Seasons | 256382 | [256382-feasts-seasons.json](./256382-feasts-seasons.json) |
 | FeastTower | 277298 | [277298-feasttower.json](./277298-feasttower.json) |
-| Feather | 107222 | [107222-feather.json](./107222-feather.json) |
 | Feather Land | 381064 | [381064-feather-land.json](./381064-feather-land.json) |
 | Feather of Praying | 102970 | [102970-feather-of-praying.json](./102970-feather-of-praying.json) |
 | Feather Park | 218569 | [218569-feather-park.json](./218569-feather-park.json) |
