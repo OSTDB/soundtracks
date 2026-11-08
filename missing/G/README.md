@@ -1573,6 +1573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamers Choice | 86083 | [86083-gamers-choice.json](./86083-gamers-choice.json) |
 | Gamers Pack | 72043 | [72043-gamers-pack.json](./72043-gamers-pack.json) |
 | Gamers Unknown Survival | 54484 | [54484-gamers-unknown-survival.json](./54484-gamers-unknown-survival.json) |
+| Gamers' Delight | 131737 | [131737-gamers-delight.json](./131737-gamers-delight.json) |
 | GamersGoMakers | 13176 | [13176-gamersgomakers.json](./13176-gamersgomakers.json) |
 | GamerZ CastlE Rush! | 174026 | [174026-gamerz-castle-rush.json](./174026-gamerz-castle-rush.json) |
 | Games 1 | 319581 | [319581-games-1.json](./319581-games-1.json) |
@@ -5262,6 +5263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glory of Generals: Pacific War | 89039 | [89039-glory-of-generals-pacific-war.json](./89039-glory-of-generals-pacific-war.json) |
 | Glory of Generals: The Pacific | 84507 | [84507-glory-of-generals-the-pacific.json](./84507-glory-of-generals-the-pacific.json) |
 | Glory of Heracles | 21766 | [21766-glory-of-heracles.json](./21766-glory-of-heracles.json) |
+| Glory of Portugal: Fortresses of Brazil | 131733 | [131733-glory-of-portugal-fortresses-of-brazil.json](./131733-glory-of-portugal-fortresses-of-brazil.json) |
 | Glory of Rome | 142022 | [142022-glory-of-rome.json](./142022-glory-of-rome.json) |
 | Glory of the Arena | 217349 | [217349-glory-of-the-arena.json](./217349-glory-of-the-arena.json) |
 | Glory of the Colosseum | 167576 | [167576-glory-of-the-colosseum.json](./167576-glory-of-the-colosseum.json) |
@@ -5621,6 +5623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go North | 319058 | [319058-go-north.json](./319058-go-north.json) |
 | Go Nutz | 217271 | [217271-go-nutz.json](./217271-go-nutz.json) |
 | Go on Forever | 179322 | [179322-go-on-forever.json](./179322-go-on-forever.json) |
+| Go or Leave | 131695 | [131695-go-or-leave.json](./131695-go-or-leave.json) |
 | Go Outside Simulator | 111491 | [111491-go-outside-simulator.json](./111491-go-outside-simulator.json) |
 | Go Over the Edge | 235755 | [235755-go-over-the-edge.json](./235755-go-over-the-edge.json) |
 | Go Phish | 380970 | [380970-go-phish.json](./380970-go-phish.json) |
@@ -9638,6 +9641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GrimmKitchen | 326225 | [326225-grimmkitchen.json](./326225-grimmkitchen.json) |
 | Grimmlins Tale | 199374 | [199374-grimmlins-tale.json](./199374-grimmlins-tale.json) |
 | Grimms | 63714 | [63714-grimms.json](./63714-grimms.json) |
+| Grimms Echoes | 131722 | [131722-grimms-echoes.json](./131722-grimms-echoes.json) |
 | Grimms Nightmare | 109177 | [109177-grimms-nightmare.json](./109177-grimms-nightmare.json) |
 | Grimms Notes | 193846 | [193846-grimms-notes.json](./193846-grimms-notes.json) |
 | GrimmStar | 125331 | [125331-grimmstar.json](./125331-grimmstar.json) |
