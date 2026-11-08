@@ -1112,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quinty | 319922 | [319922-quinty.json](./319922-quinty.json) |
 | Quip Anomaly | 31938 | [31938-quip-anomaly.json](./31938-quip-anomaly.json) |
 | Quiplash | 11588 | [11588-quiplash.json](./11588-quiplash.json) |
+| Quiplash 2 Interlashional | 132337 | [132337-quiplash-2-interlashional.json](./132337-quiplash-2-interlashional.json) |
 | Quiplash: Quip Pack 1 | 226987 | [226987-quiplash-quip-pack-1.json](./226987-quiplash-quip-pack-1.json) |
 | Quirk | 139801 | [139801-quirk.json](./139801-quirk.json) |
 | Quirk! Origins: A Jester's Tale | 274516 | [274516-quirk-origins-a-jesters-tale.json](./274516-quirk-origins-a-jesters-tale.json) |
