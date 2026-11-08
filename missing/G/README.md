@@ -554,6 +554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Civilizations III: Rise of the Terrans | 19610 | [19610-galactic-civilizations-iii-rise-of-the-terrans.json](./19610-galactic-civilizations-iii-rise-of-the-terrans.json) |
 | Galactic Civilizations III: Rise of the Terrans DLC | 163370 | [163370-galactic-civilizations-iii-rise-of-the-terrans-dlc.json](./163370-galactic-civilizations-iii-rise-of-the-terrans-dlc.json) |
 | Galactic Civilizations III: Ultimate Edition | 159691 | [159691-galactic-civilizations-iii-ultimate-edition.json](./159691-galactic-civilizations-iii-ultimate-edition.json) |
+| Galactic Civilizations III: Villains of Star Control | 124933 | [124933-galactic-civilizations-iii-villains-of-star-control.json](./124933-galactic-civilizations-iii-villains-of-star-control.json) |
 | Galactic Civilizations III: Villains of Star Control - Origins | 163382 | [163382-galactic-civilizations-iii-villains-of-star-control-origins.json](./163382-galactic-civilizations-iii-villains-of-star-control-origins.json) |
 | Galactic Civilizations III: Worlds in Crisis | 155080 | [155080-galactic-civilizations-iii-worlds-in-crisis.json](./155080-galactic-civilizations-iii-worlds-in-crisis.json) |
 | Galactic Civilizations III: Worlds in Crisis DLC | 163381 | [163381-galactic-civilizations-iii-worlds-in-crisis-dlc.json](./163381-galactic-civilizations-iii-worlds-in-crisis-dlc.json) |
@@ -4300,6 +4301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GibblePets | 340300 | [340300-gibblepets.json](./340300-gibblepets.json) |
 | Gibbonacci | 410992 | [410992-gibbonacci.json](./410992-gibbonacci.json) |
 | Gibbous: A Cthulhu Adventure | 18841 | [18841-gibbous-a-cthulhu-adventure.json](./18841-gibbous-a-cthulhu-adventure.json) |
+| Gibbous: A Cthulhu Adventure - Deluxe Edition | 124910 | [124910-gibbous-a-cthulhu-adventure-deluxe-edition.json](./124910-gibbous-a-cthulhu-adventure-deluxe-edition.json) |
 | Gibo: Sayaka | 128363 | [128363-gibo-sayaka.json](./128363-gibo-sayaka.json) |
 | Gibson | 375220 | [375220-gibson.json](./375220-gibson.json) |
 | Gibson Hyperdrive | 60189 | [60189-gibson-hyperdrive.json](./60189-gibson-hyperdrive.json) |
