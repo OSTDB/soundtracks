@@ -1360,6 +1360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Crush Solitaire | 350067 | [350067-candy-crush-solitaire.json](./350067-candy-crush-solitaire.json) |
 | Candy Crush Solitare | 383749 | [383749-candy-crush-solitare.json](./383749-candy-crush-solitare.json) |
 | Candy Crush Tales | 125550 | [125550-candy-crush-tales.json](./125550-candy-crush-tales.json) |
+| Candy Cube Blast | 104751 | [104751-candy-cube-blast.json](./104751-candy-cube-blast.json) |
 | Candy Cubz | 57009 | [57009-candy-cubz.json](./57009-candy-cubz.json) |
 | Candy Cutter | 176775 | [176775-candy-cutter.json](./176775-candy-cutter.json) |
 | Candy Disaster | 129334 | [129334-candy-disaster.json](./129334-candy-disaster.json) |
@@ -4233,6 +4234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Search in The Wild West | 270526 | [270526-cat-search-in-the-wild-west.json](./270526-cat-search-in-the-wild-west.json) |
 | Cat Secretary | 292419 | [292419-cat-secretary.json](./292419-cat-secretary.json) |
 | Cat Seeker | 211492 | [211492-cat-seeker.json](./211492-cat-seeker.json) |
+| Cat Shmat - Cut the rope like Action Physics Puzzle Game | 104758 | [104758-cat-shmat-cut-the-rope-like-action-physics-puzzle-game.json](./104758-cat-shmat-cut-the-rope-like-action-physics-puzzle-game.json) |
 | Cat Short Way | 296510 | [296510-cat-short-way.json](./296510-cat-short-way.json) |
 | Cat Sim Online: Play With Cats | 103863 | [103863-cat-sim-online-play-with-cats.json](./103863-cat-sim-online-play-with-cats.json) |
 | Cat Simulator | 18014 | [18014-cat-simulator.json](./18014-cat-simulator.json) |
@@ -9655,6 +9657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Super Hero 3D: Flying Legend Warriors Deluxe Simulator | 212276 | [212276-city-super-hero-3d-flying-legend-warriors-deluxe-simulator.json](./212276-city-super-hero-3d-flying-legend-warriors-deluxe-simulator.json) |
 | City Supermarket Simulator | 348692 | [348692-city-supermarket-simulator.json](./348692-city-supermarket-simulator.json) |
 | City Survival Project | 130842 | [130842-city-survival-project.json](./130842-city-survival-project.json) |
+| City Sweeper: Clean it Fast! | 104861 | [104861-city-sweeper-clean-it-fast.json](./104861-city-sweeper-clean-it-fast.json) |
 | City Takeover | 309048 | [309048-city-takeover.json](./309048-city-takeover.json) |
 | City Takeover: Fierce Animals | 309085 | [309085-city-takeover-fierce-animals.json](./309085-city-takeover-fierce-animals.json) |
 | City Takeover: Gentle Animals | 309086 | [309086-city-takeover-gentle-animals.json](./309086-city-takeover-gentle-animals.json) |
@@ -14620,6 +14623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cookies | 146702 | [146702-cookies.json](./146702-cookies.json) |
 | Cookies Cookies Cookies | 205243 | [205243-cookies-cookies-cookies.json](./205243-cookies-cookies-cookies.json) |
 | Cookies Inc. | 243980 | [243980-cookies-inc.json](./243980-cookies-inc.json) |
+| Cookies Jam 2 | 104771 | [104771-cookies-jam-2.json](./104771-cookies-jam-2.json) |
 | Cookies Must Die | 132117 | [132117-cookies-must-die.json](./132117-cookies-must-die.json) |
 | Cookies vs. Claus | 76110 | [76110-cookies-vs-claus.json](./76110-cookies-vs-claus.json) |
 | Cookies! | 373225 | [373225-cookies.json](./373225-cookies.json) |
@@ -14708,6 +14712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cooking Mama: Sweet Shop | 27190 | [27190-cooking-mama-sweet-shop.json](./27190-cooking-mama-sweet-shop.json) |
 | Cooking Mama: World Kitchen | 3064 | [3064-cooking-mama-world-kitchen.json](./3064-cooking-mama-world-kitchen.json) |
 | Cooking Mania | 174773 | [174773-cooking-mania.json](./174773-cooking-mania.json) |
+| Cooking master: YouTube blogger | 104768 | [104768-cooking-master-youtube-blogger.json](./104768-cooking-master-youtube-blogger.json) |
 | Cooking Misha | 399752 | [399752-cooking-misha.json](./399752-cooking-misha.json) |
 | Cooking Papa: Cookstar | 237641 | [237641-cooking-papa-cookstar.json](./237641-cooking-papa-cookstar.json) |
 | Cooking Pix | 257772 | [257772-cooking-pix.json](./257772-cooking-pix.json) |
@@ -17366,6 +17371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Traffic: City Parking Simulator | 317925 | [317925-crazy-traffic-city-parking-simulator.json](./317925-crazy-traffic-city-parking-simulator.json) |
 | Crazy Train | 41759 | [41759-crazy-train.json](./41759-crazy-train.json) |
 | Crazy Trip | 254813 | [254813-crazy-trip.json](./254813-crazy-trip.json) |
+| Crazy Trucker | 104772 | [104772-crazy-trucker.json](./104772-crazy-trucker.json) |
 | Crazy Trucks | 186579 | [186579-crazy-trucks.json](./186579-crazy-trucks.json) |
 | Crazy Vacation | 310553 | [310553-crazy-vacation.json](./310553-crazy-vacation.json) |
 | Crazy Valet | 394351 | [394351-crazy-valet.json](./394351-crazy-valet.json) |
@@ -19151,6 +19157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Cave Classic | 142326 | [142326-crystal-cave-classic.json](./142326-crystal-cave-classic.json) |
 | Crystal Cave Gold | 142325 | [142325-crystal-cave-gold.json](./142325-crystal-cave-gold.json) |
 | Crystal Cave: Lost Treasures | 193704 | [193704-crystal-cave-lost-treasures.json](./193704-crystal-cave-lost-treasures.json) |
+| Crystal Caverns | 104767 | [104767-crystal-caverns.json](./104767-crystal-caverns.json) |
 | Crystal Caverns | 177420 | [177420-crystal-caverns.json](./177420-crystal-caverns.json) |
 | Crystal Caverns | 339344 | [339344-crystal-caverns.json](./339344-crystal-caverns.json) |
 | Crystal Caverns of Amon-Ra | 146951 | [146951-crystal-caverns-of-amon-ra.json](./146951-crystal-caverns-of-amon-ra.json) |
