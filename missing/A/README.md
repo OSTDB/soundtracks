@@ -3489,6 +3489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Dungeons & Dragons: Hillsfar | 8622 | [8622-advanced-dungeons-and-dragons-hillsfar.json](./8622-advanced-dungeons-and-dragons-hillsfar.json) |
 | Advanced Dungeons & Dragons: Pool of Radiance | 8732 | [8732-advanced-dungeons-and-dragons-pool-of-radiance.json](./8732-advanced-dungeons-and-dragons-pool-of-radiance.json) |
 | Advanced Dungeons & Dragons: Secret of the Silver Blades | 12760 | [12760-advanced-dungeons-and-dragons-secret-of-the-silver-blades.json](./12760-advanced-dungeons-and-dragons-secret-of-the-silver-blades.json) |
+| Advanced Dungeons & Dragons: Slayer | 92033 | [92033-advanced-dungeons-and-dragons-slayer.json](./92033-advanced-dungeons-and-dragons-slayer.json) |
 | Advanced Dungeons & Dragons: Treasure of Tarmin | 5655 | [5655-advanced-dungeons-and-dragons-treasure-of-tarmin.json](./5655-advanced-dungeons-and-dragons-treasure-of-tarmin.json) |
 | Advanced Education with Viktor Strobovski | 182059 | [182059-advanced-education-with-viktor-strobovski.json](./182059-advanced-education-with-viktor-strobovski.json) |
 | Advanced Fantasian: Quest for Lost Sanctuary | 304243 | [304243-advanced-fantasian-quest-for-lost-sanctuary.json](./304243-advanced-fantasian-quest-for-lost-sanctuary.json) |
@@ -3667,6 +3668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Game | 264411 | [264411-adventure-game.json](./264411-adventure-game.json) |
 | Adventure Game | 86332 | [86332-adventure-game.json](./86332-adventure-game.json) |
 | Adventure Game Pack Volume 1 | 145140 | [145140-adventure-game-pack-volume-1.json](./145140-adventure-game-pack-volume-1.json) |
+| Adventure Generation Online | 92024 | [92024-adventure-generation-online.json](./92024-adventure-generation-online.json) |
 | Adventure Guild Receptionist | 379484 | [379484-adventure-guild-receptionist.json](./379484-adventure-guild-receptionist.json) |
 | Adventure Hall of Fame | 70169 | [70169-adventure-hall-of-fame.json](./70169-adventure-hall-of-fame.json) |
 | Adventure Hero | 105310 | [105310-adventure-hero.json](./105310-adventure-hero.json) |
@@ -10467,6 +10469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animals vs. Animals | 293029 | [293029-animals-vs-animals.json](./293029-animals-vs-animals.json) |
 | Animals with Dally Dino | 99313 | [99313-animals-with-dally-dino.json](./99313-animals-with-dally-dino.json) |
 | Animals: Connect the Dots and Add Colors | 88746 | [88746-animals-connect-the-dots-and-add-colors.json](./88746-animals-connect-the-dots-and-add-colors.json) |
+| Animals' Matching | 92008 | [92008-animals-matching.json](./92008-animals-matching.json) |
 | AnimaLudo | 153823 | [153823-animaludo.json](./153823-animaludo.json) |
 | AnimaLudo: Extended Edition | 199839 | [199839-animaludo-extended-edition.json](./199839-animaludo-extended-edition.json) |
 | Animaly Bar: No Humanity! | 402714 | [402714-animaly-bar-no-humanity.json](./402714-animaly-bar-no-humanity.json) |
@@ -12345,6 +12348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarium Designer: Amazonia | 253600 | [253600-aquarium-designer-amazonia.json](./253600-aquarium-designer-amazonia.json) |
 | Aquarium Designer: Japan | 238551 | [238551-aquarium-designer-japan.json](./238551-aquarium-designer-japan.json) |
 | Aquarium Designer: Sea Life | 199595 | [199595-aquarium-designer-sea-life.json](./199595-aquarium-designer-sea-life.json) |
+| Aquarium HD | 92030 | [92030-aquarium-hd.json](./92030-aquarium-hd.json) |
 | Aquarium Island: Underwater Kingdom | 99207 | [99207-aquarium-island-underwater-kingdom.json](./99207-aquarium-island-underwater-kingdom.json) |
 | Aquarium Land | 208728 | [208728-aquarium-land.json](./208728-aquarium-land.json) |
 | Aquarium Land: Armadillo | 303335 | [303335-aquarium-land-armadillo.json](./303335-aquarium-land-armadillo.json) |
@@ -17124,6 +17128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -18604,7 +18609,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AX-1: Arabian Rhapsody | 91462 | [91462-ax-1-arabian-rhapsody.json](./91462-ax-1-arabian-rhapsody.json) |
 | AX-10: Outlaw | 91459 | [91459-ax-10-outlaw.json](./91459-ax-10-outlaw.json) |
 | AX-2: Uchuu Yusousen Nostromo | 91513 | [91513-ax-2-uchuu-yusousen-nostromo.json](./91513-ax-2-uchuu-yusousen-nostromo.json) |
+| AX-4: Black Hole | 92002 | [92002-ax-4-black-hole.json](./92002-ax-4-black-hole.json) |
 | AX-5: Orion / Quest | 241757 | [241757-ax-5-orion-quest.json](./241757-ax-5-orion-quest.json) |
+| AX-5: Orion/Quest | 92001 | [92001-ax-5-orion-quest.json](./92001-ax-5-orion-quest.json) |
 | AX-6: Powered Knight | 80218 | [80218-ax-6-powered-knight.json](./80218-ax-6-powered-knight.json) |
 | AX-7: Police & Gangster | 91461 | [91461-ax-7-police-and-gangster.json](./91461-ax-7-police-and-gangster.json) |
 | AX-8: Galaxy Mission | 91460 | [91460-ax-8-galaxy-mission.json](./91460-ax-8-galaxy-mission.json) |
@@ -18777,6 +18784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aypupen | 95730 | [95730-aypupen.json](./95730-aypupen.json) |
 | Ayre | 185026 | [185026-ayre.json](./185026-ayre.json) |
 | Ayre and the Crystal Comet | 116260 | [116260-ayre-and-the-crystal-comet.json](./116260-ayre-and-the-crystal-comet.json) |
+| Ayrton Senna Kart Duel 2 | 92044 | [92044-ayrton-senna-kart-duel-2.json](./92044-ayrton-senna-kart-duel-2.json) |
 | Ayrton Senna Kart Duel Special | 285994 | [285994-ayrton-senna-kart-duel-special.json](./285994-ayrton-senna-kart-duel-special.json) |
 | Ayrton Senna Racing | 265881 | [265881-ayrton-senna-racing.json](./265881-ayrton-senna-racing.json) |
 | Ayrton Senna's Super Monaco GP II | 27077 | [27077-ayrton-sennas-super-monaco-gp-ii.json](./27077-ayrton-sennas-super-monaco-gp-ii.json) |
