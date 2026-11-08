@@ -796,6 +796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Extract | 342722 | [342722-echo-extract.json](./342722-echo-extract.json) |
 | Echo Factory | 379827 | [379827-echo-factory.json](./379827-echo-factory.json) |
 | Echo Flesh Metal | 303511 | [303511-echo-flesh-metal.json](./303511-echo-flesh-metal.json) |
+| Echo Generation | 135989 | [135989-echo-generation.json](./135989-echo-generation.json) |
 | Echo Generation 2 | 378228 | [378228-echo-generation-2.json](./378228-echo-generation-2.json) |
 | Echo Generation: Midnight Edition | 304747 | [304747-echo-generation-midnight-edition.json](./304747-echo-generation-midnight-edition.json) |
 | Echo Glass | 58215 | [58215-echo-glass.json](./58215-echo-glass.json) |
@@ -7879,6 +7880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exojet + | 41546 | [41546-exojet.json](./41546-exojet.json) |
 | ExolonFX | 298956 | [298956-exolonfx.json](./298956-exolonfx.json) |
 | Exolotl: Zian | 251995 | [251995-exolotl-zian.json](./251995-exolotl-zian.json) |
+| ExoMecha | 135987 | [135987-exomecha.json](./135987-exomecha.json) |
 | ExoMiner | 208197 | [208197-exominer.json](./208197-exominer.json) |
 | Exomoon | 257419 | [257419-exomoon.json](./257419-exomoon.json) |
 | Exone Rift | 383671 | [383671-exone-rift.json](./383671-exone-rift.json) |
