@@ -4938,6 +4938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glass Masquerade 4: Constellations - Celestials | 403633 | [403633-glass-masquerade-4-constellations-celestials.json](./403633-glass-masquerade-4-constellations-celestials.json) |
 | Glass Masquerade Double Pack | 146995 | [146995-glass-masquerade-double-pack.json](./146995-glass-masquerade-double-pack.json) |
 | Glass Masquerade: Halloween Puzzle Pack | 155413 | [155413-glass-masquerade-halloween-puzzle-pack.json](./155413-glass-masquerade-halloween-puzzle-pack.json) |
+| Glass Painting: Winter Art | 111942 | [111942-glass-painting-winter-art.json](./111942-glass-painting-winter-art.json) |
 | Glass Road | 58662 | [58662-glass-road.json](./58662-glass-road.json) |
 | Glass Rose | 43441 | [43441-glass-rose.json](./43441-glass-rose.json) |
 | Glass Smash 64 | 338801 | [338801-glass-smash-64.json](./338801-glass-smash-64.json) |
@@ -7285,6 +7286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Google Minesweeper | 184478 | [184478-google-minesweeper.json](./184478-google-minesweeper.json) |
 | Google Santa Tracker | 229336 | [229336-google-santa-tracker.json](./229336-google-santa-tracker.json) |
 | Google Solitaire | 228368 | [228368-google-solitaire.json](./228368-google-solitaire.json) |
+| Google Spotlight Stories: Age of Sail | 111929 | [111929-google-spotlight-stories-age-of-sail.json](./111929-google-spotlight-stories-age-of-sail.json) |
 | Google Spotlight Stories: Back to the Moon | 101384 | [101384-google-spotlight-stories-back-to-the-moon.json](./101384-google-spotlight-stories-back-to-the-moon.json) |
 | Google Spotlight Stories: On Ice | 103200 | [103200-google-spotlight-stories-on-ice.json](./103200-google-spotlight-stories-on-ice.json) |
 | Google Spotlight Stories: Pearl | 74401 | [74401-google-spotlight-stories-pearl.json](./74401-google-spotlight-stories-pearl.json) |
