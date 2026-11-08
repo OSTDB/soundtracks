@@ -17904,7 +17904,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Temporal Invasion | 19896 | [19896-the-temporal-invasion.json](./19896-the-temporal-invasion.json) |
 | The Tempura Samurai | 64435 | [64435-the-tempura-samurai.json](./64435-the-tempura-samurai.json) |
 | The Ten Soul | 289960 | [289960-the-ten-soul.json](./289960-the-ten-soul.json) |
-| The Tenants | 115012 | [115012-the-tenants.json](./115012-the-tenants.json) |
 | The Tenants: Pets | 248003 | [248003-the-tenants-pets.json](./248003-the-tenants-pets.json) |
 | The Tennis & The Snowboard | 203393 | [203393-the-tennis-and-the-snowboard.json](./203393-the-tennis-and-the-snowboard.json) |
 | The Tennis Academy | 298322 | [298322-the-tennis-academy.json](./298322-the-tennis-academy.json) |
