@@ -8309,6 +8309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deadseat | 343226 | [343226-the-deadseat.json](./343226-the-deadseat.json) |
 | The Deal | 292893 | [292893-the-deal.json](./292893-the-deal.json) |
 | The Deal | 30118 | [30118-the-deal.json](./30118-the-deal.json) |
+| The Dealer | 121899 | [121899-the-dealer.json](./121899-the-dealer.json) |
 | The Dealer | 234805 | [234805-the-dealer.json](./234805-the-dealer.json) |
 | The Dearest Person | 301630 | [301630-the-dearest-person.json](./301630-the-dearest-person.json) |
 | The Death | 173939 | [173939-the-death.json](./173939-the-death.json) |
@@ -12868,6 +12869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Tianding | 151693 | [151693-the-legend-of-tianding.json](./151693-the-legend-of-tianding.json) |
 | The Legend of Tiger and Phoenix | 222647 | [222647-the-legend-of-tiger-and-phoenix.json](./222647-the-legend-of-tiger-and-phoenix.json) |
 | The Legend of Tiny Man | 261721 | [261721-the-legend-of-tiny-man.json](./261721-the-legend-of-tiny-man.json) |
+| The Legend of Tobimaru | 121879 | [121879-the-legend-of-tobimaru.json](./121879-the-legend-of-tobimaru.json) |
 | The Legend of Tomoko | 339192 | [339192-the-legend-of-tomoko.json](./339192-the-legend-of-tomoko.json) |
 | The Legend of Valkyrie | 41081 | [41081-the-legend-of-valkyrie.json](./41081-the-legend-of-valkyrie.json) |
 | The Legend of Viccess | 123761 | [123761-the-legend-of-viccess.json](./123761-the-legend-of-viccess.json) |
@@ -31118,6 +31120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treat Fighter | 109507 | [109507-treat-fighter.json](./109507-treat-fighter.json) |
 | Treat Maze | 278569 | [278569-treat-maze.json](./278569-treat-maze.json) |
 | Treat-Seeking Tricksters | 320432 | [320432-treat-seeking-tricksters.json](./320432-treat-seeking-tricksters.json) |
+| Treater | 121887 | [121887-treater.json](./121887-treater.json) |
 | Treats Please! | 202522 | [202522-treats-please.json](./202522-treats-please.json) |
 | Treble Cat | 89690 | [89690-treble-cat.json](./89690-treble-cat.json) |
 | Treble Cat HD | 107558 | [107558-treble-cat-hd.json](./107558-treble-cat-hd.json) |
@@ -33658,6 +33661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twice Bitten | 343176 | [343176-twice-bitten.json](./343176-twice-bitten.json) |
 | Twice Dead | 349082 | [349082-twice-dead.json](./349082-twice-dead.json) |
 | Twice Go! Go! Fightin' | 115763 | [115763-twice-go-go-fightin.json](./115763-twice-go-go-fightin.json) |
+| Twice Reborn: A Vampire Visual Novel | 121888 | [121888-twice-reborn-a-vampire-visual-novel.json](./121888-twice-reborn-a-vampire-visual-novel.json) |
 | Twiddlefinger | 307551 | [307551-twiddlefinger.json](./307551-twiddlefinger.json) |
 | Twig & Flipper | 152453 | [152453-twig-and-flipper.json](./152453-twig-and-flipper.json) |
 | Twig Quest: Little Adventure | 255430 | [255430-twig-quest-little-adventure.json](./255430-twig-quest-little-adventure.json) |
