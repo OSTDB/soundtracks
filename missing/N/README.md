@@ -1095,6 +1095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty New Year | 393385 | [393385-naughty-new-year.json](./393385-naughty-new-year.json) |
 | Naughty Nurse | 416844 | [416844-naughty-nurse.json](./416844-naughty-nurse.json) |
 | Naughty Ones | 12695 | [12695-naughty-ones.json](./12695-naughty-ones.json) |
+| Naughty study for exams with a ghost | 111240 | [111240-naughty-study-for-exams-with-a-ghost.json](./111240-naughty-study-for-exams-with-a-ghost.json) |
 | Naughty Tales of Rabbits: A Cuckold RPG | 301986 | [301986-naughty-tales-of-rabbits-a-cuckold-rpg.json](./301986-naughty-tales-of-rabbits-a-cuckold-rpg.json) |
 | Naughty Young Wife | 97937 | [97937-naughty-young-wife.json](./97937-naughty-young-wife.json) |
 | Nauka Prediel | 202401 | [202401-nauka-prediel.json](./202401-nauka-prediel.json) |
@@ -5304,6 +5305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Party | 246005 | [246005-ninja-party.json](./246005-ninja-party.json) |
 | Ninja Party | 340839 | [340839-ninja-party.json](./340839-ninja-party.json) |
 | Ninja Pizza Girl | 18336 | [18336-ninja-pizza-girl.json](./18336-ninja-pizza-girl.json) |
+| Ninja Platformer | 111163 | [111163-ninja-platformer.json](./111163-ninja-platformer.json) |
 | Ninja Poison | 280034 | [280034-ninja-poison.json](./280034-ninja-poison.json) |
 | Ninja Ponk HD | 232184 | [232184-ninja-ponk-hd.json](./232184-ninja-ponk-hd.json) |
 | Ninja Power Slasher | 114371 | [114371-ninja-power-slasher.json](./114371-ninja-power-slasher.json) |
