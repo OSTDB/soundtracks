@@ -3950,7 +3950,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -6267,6 +6266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isha's Magic Book Decoding | 334701 | [334701-ishas-magic-book-decoding.json](./334701-ishas-magic-book-decoding.json) |
 | Ishar 2: Messengers of Doom | 2523 | [2523-ishar-2-messengers-of-doom.json](./2523-ishar-2-messengers-of-doom.json) |
 | Ishar 3: The Seven Gates of Infinity | 2516 | [2516-ishar-3-the-seven-gates-of-infinity.json](./2516-ishar-3-the-seven-gates-of-infinity.json) |
+| Ishar Compilation | 124918 | [124918-ishar-compilation.json](./124918-ishar-compilation.json) |
 | Ishar: Legend of the Fortress | 10856 | [10856-ishar-legend-of-the-fortress.json](./10856-ishar-legend-of-the-fortress.json) |
 | Ishara: Bane of the Seas | 133966 | [133966-ishara-bane-of-the-seas.json](./133966-ishara-bane-of-the-seas.json) |
 | Ishi | 58757 | [58757-ishi.json](./58757-ishi.json) |
