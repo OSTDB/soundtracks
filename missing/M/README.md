@@ -6016,7 +6016,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6451,6 +6450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazmorras de Tokat | 421586 | [421586-mazmorras-de-tokat.json](./421586-mazmorras-de-tokat.json) |
 | Mazogs | 246714 | [246714-mazogs.json](./246714-mazogs.json) |
 | Mazovian Adventure | 128961 | [128961-mazovian-adventure.json](./128961-mazovian-adventure.json) |
+| Mazy | 134189 | [134189-mazy.json](./134189-mazy.json) |
 | Mazy | 385576 | [385576-mazy.json](./385576-mazy.json) |
 | Mazy Match | 282743 | [282743-mazy-match.json](./282743-mazy-match.json) |
 | Mazy Mini | 341275 | [341275-mazy-mini.json](./341275-mazy-mini.json) |
@@ -8829,6 +8829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorama | 91258 | [91258-memorama.json](./91258-memorama.json) |
 | Memoranda | 26399 | [26399-memoranda.json](./26399-memoranda.json) |
 | Memorania | 68550 | [68550-memorania.json](./68550-memorania.json) |
+| Memoreille | 134190 | [134190-memoreille.json](./134190-memoreille.json) |
 | Memorel | 293501 | [293501-memorel.json](./293501-memorel.json) |
 | Memorel Restoration Project | 380525 | [380525-memorel-restoration-project.json](./380525-memorel-restoration-project.json) |
 | MemoRemovers | 342502 | [342502-memoremovers.json](./342502-memoremovers.json) |
@@ -13559,6 +13560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mio Garden | 107422 | [107422-mio-garden.json](./107422-mio-garden.json) |
 | Mio no Mystery Adventure | 137627 | [137627-mio-no-mystery-adventure.json](./137627-mio-no-mystery-adventure.json) |
 | MIO: Memories in Orbit | 399686 | [399686-mio-memories-in-orbit.json](./399686-mio-memories-in-orbit.json) |
+| Mio's Fruit Hunt | 134191 | [134191-mios-fruit-hunt.json](./134191-mios-fruit-hunt.json) |
 | MioAquaria | 390577 | [390577-mioaquaria.json](./390577-mioaquaria.json) |
 | Miodesopsia: Whispering Stories | 282846 | [282846-miodesopsia-whispering-stories.json](./282846-miodesopsia-whispering-stories.json) |
 | Mion and the Cursed Killer Hamster | 224576 | [224576-mion-and-the-cursed-killer-hamster.json](./224576-mion-and-the-cursed-killer-hamster.json) |
@@ -15376,6 +15378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monaco Master | 268495 | [268495-monaco-master.json](./268495-monaco-master.json) |
 | Monaco: What's Yours Is Mine | 8739 | [8739-monaco-whats-yours-is-mine.json](./8739-monaco-whats-yours-is-mine.json) |
 | Monaco: What's Yours Is Mine - Complete Edition | 124988 | [124988-monaco-whats-yours-is-mine-complete-edition.json](./124988-monaco-whats-yours-is-mine-complete-edition.json) |
+| Monad | 134192 | [134192-monad.json](./134192-monad.json) |
 | Monadi.sys | 410703 | [410703-monadi-sys.json](./410703-monadi-sys.json) |
 | Monads | 109428 | [109428-monads.json](./109428-monads.json) |
 | Monads II | 166842 | [166842-monads-ii.json](./166842-monads-ii.json) |
@@ -19241,6 +19244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mud Monster Up Hill Madness | 104214 | [104214-mud-monster-up-hill-madness.json](./104214-mud-monster-up-hill-madness.json) |
 | Mud Pies | 322550 | [322550-mud-pies.json](./322550-mud-pies.json) |
 | Mud River | 171869 | [171869-mud-river.json](./171869-mud-river.json) |
+| Mud Slinger | 134193 | [134193-mud-slinger.json](./134193-mud-slinger.json) |
 | Mud Tyres: Offroad Edition | 90066 | [90066-mud-tyres-offroad-edition.json](./90066-mud-tyres-offroad-edition.json) |
 | Mud Way | 212670 | [212670-mud-way.json](./212670-mud-way.json) |
 | MUD: FIM Motocross World Championship | 20848 | [20848-mud-fim-motocross-world-championship.json](./20848-mud-fim-motocross-world-championship.json) |
@@ -20464,6 +20468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Buddy Fisk | 299672 | [299672-my-buddy-fisk.json](./299672-my-buddy-fisk.json) |
 | My Bullied Bride | 112950 | [112950-my-bullied-bride.json](./112950-my-bullied-bride.json) |
 | My Bunny Girl | 211068 | [211068-my-bunny-girl.json](./211068-my-bunny-girl.json) |
+| My Burden to Keep | 134194 | [134194-my-burden-to-keep.json](./134194-my-burden-to-keep.json) |
 | My Business | 152154 | [152154-my-business.json](./152154-my-business.json) |
 | My Butler | 32274 | [32274-my-butler.json](./32274-my-butler.json) |
 | My Cabin | 185291 | [185291-my-cabin.json](./185291-my-cabin.json) |
@@ -20570,6 +20575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Darkest Witch | 226038 | [226038-my-darkest-witch.json](./226038-my-darkest-witch.json) |
 | My Dating Agency | 307910 | [307910-my-dating-agency.json](./307910-my-dating-agency.json) |
 | My Daughter In Family Ai | 322996 | [322996-my-daughter-in-family-ai.json](./322996-my-daughter-in-family-ai.json) |
+| My Daughter Is A Cultist! | 134156 | [134156-my-daughter-is-a-cultist.json](./134156-my-daughter-is-a-cultist.json) |
 | My Daughter is a Cultist! SE | 273680 | [273680-my-daughter-is-a-cultist-se.json](./273680-my-daughter-is-a-cultist-se.json) |
 | My Day Challenge | 341348 | [341348-my-day-challenge.json](./341348-my-day-challenge.json) |
 | My Days With Mia | 310088 | [310088-my-days-with-mia.json](./310088-my-days-with-mia.json) |
@@ -22435,6 +22441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myth | 35331 | [35331-myth.json](./35331-myth.json) |
 | Myth & Magery | 419977 | [419977-myth-and-magery.json](./419977-myth-and-magery.json) |
 | Myth & Mirage | 310727 | [310727-myth-and-mirage.json](./310727-myth-and-mirage.json) |
+| Myth Bearer | 134195 | [134195-myth-bearer.json](./134195-myth-bearer.json) |
 | Myth Caller: The Nightmare Shaman | 216592 | [216592-myth-caller-the-nightmare-shaman.json](./216592-myth-caller-the-nightmare-shaman.json) |
 | Myth Characters | 348511 | [348511-myth-characters.json](./348511-myth-characters.json) |
 | Myth Finders | 364510 | [364510-myth-finders.json](./364510-myth-finders.json) |
