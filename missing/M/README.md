@@ -412,6 +412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Panic Coaster | 43835 | [43835-mad-panic-coaster.json](./43835-mad-panic-coaster.json) |
 | Mad Paradox | 71282 | [71282-mad-paradox.json](./71282-mad-paradox.json) |
 | Mad Planets | 23500 | [23500-mad-planets.json](./23500-mad-planets.json) |
+| Mad Princess: The Great Gladiators | 115904 | [115904-mad-princess-the-great-gladiators.json](./115904-mad-princess-the-great-gladiators.json) |
 | Mad Professor Mariarti | 12674 | [12674-mad-professor-mariarti.json](./12674-mad-professor-mariarti.json) |
 | Mad Quad | 80906 | [80906-mad-quad.json](./80906-mad-quad.json) |
 | Mad Rabbit | 120097 | [120097-mad-rabbit.json](./120097-mad-rabbit.json) |
@@ -2064,6 +2065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Solitaire Refresh: Ex Panels | 170928 | [170928-mahjong-solitaire-refresh-ex-panels.json](./170928-mahjong-solitaire-refresh-ex-panels.json) |
 | Mahjong Solitaire: Tile | 175501 | [175501-mahjong-solitaire-tile.json](./175501-mahjong-solitaire-tile.json) |
 | Mahjong Soul | 117263 | [117263-mahjong-soul.json](./117263-mahjong-soul.json) |
+| Mahjong Stories: Vampire Romance | 115874 | [115874-mahjong-stories-vampire-romance.json](./115874-mahjong-stories-vampire-romance.json) |
 | Mahjong Strip Solitaire: Harem Guild | 286410 | [286410-mahjong-strip-solitaire-harem-guild.json](./286410-mahjong-strip-solitaire-harem-guild.json) |
 | Mahjong Sword: Princess Quest | 255443 | [255443-mahjong-sword-princess-quest.json](./255443-mahjong-sword-princess-quest.json) |
 | Mahjong Sword: Princess Quest Gaiden | 255444 | [255444-mahjong-sword-princess-quest-gaiden.json](./255444-mahjong-sword-princess-quest-gaiden.json) |
@@ -6045,7 +6047,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -17047,6 +17048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonlight Sculptor: Darkgamer | 262581 | [262581-moonlight-sculptor-darkgamer.json](./262581-moonlight-sculptor-darkgamer.json) |
 | Moonlight Sonata | 185447 | [185447-moonlight-sonata.json](./185447-moonlight-sonata.json) |
 | Moonlight Syndrome | 65450 | [65450-moonlight-syndrome.json](./65450-moonlight-syndrome.json) |
+| Moonlight thief | 115924 | [115924-moonlight-thief.json](./115924-moonlight-thief.json) |
 | Moonlight Walks | 51178 | [51178-moonlight-walks.json](./51178-moonlight-walks.json) |
 | Moonlight Warrior | 117107 | [117107-moonlight-warrior.json](./117107-moonlight-warrior.json) |
 | Moonlight: Among Darkness | 154778 | [154778-moonlight-among-darkness.json](./154778-moonlight-among-darkness.json) |
@@ -18693,6 +18695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MoW 2-player | 200866 | [200866-mow-2-player.json](./200866-mow-2-player.json) |
 | Mow Grass | 364779 | [364779-mow-grass.json](./364779-mow-grass.json) |
 | Mow Meow | 333990 | [333990-mow-meow.json](./333990-mow-meow.json) |
+| Mow Problem | 115895 | [115895-mow-problem.json](./115895-mow-problem.json) |
 | Mow That Lawn | 267710 | [267710-mow-that-lawn.json](./267710-mow-that-lawn.json) |
 | Mow VR: Challenge Your Limits | 264775 | [264775-mow-vr-challenge-your-limits.json](./264775-mow-vr-challenge-your-limits.json) |
 | Mow-Town Riding | 90513 | [90513-mow-town-riding.json](./90513-mow-town-riding.json) |
