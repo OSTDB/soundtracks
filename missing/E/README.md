@@ -5184,6 +5184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Cataclysm | 400726 | [400726-escape-cataclysm.json](./400726-escape-cataclysm.json) |
 | Escape Chase Monster | 219254 | [219254-escape-chase-monster.json](./219254-escape-chase-monster.json) |
 | Escape Chase Zombie | 208549 | [208549-escape-chase-zombie.json](./208549-escape-chase-zombie.json) |
+| Escape Chiraq: Chicago Action Fighting Game | 95725 | [95725-escape-chiraq-chicago-action-fighting-game.json](./95725-escape-chiraq-chicago-action-fighting-game.json) |
 | Escape Chronicles | 241384 | [241384-escape-chronicles.json](./241384-escape-chronicles.json) |
 | Escape Code - Coding Adventure | 97190 | [97190-escape-code-coding-adventure.json](./97190-escape-code-coding-adventure.json) |
 | Escape Condition | 219255 | [219255-escape-condition.json](./219255-escape-condition.json) |
