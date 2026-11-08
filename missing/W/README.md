@@ -6136,6 +6136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Shard | 125413 | [125413-winter-shard.json](./125413-winter-shard.json) |
 | Winter Ski Park: Snow Driver | 96611 | [96611-winter-ski-park-snow-driver.json](./96611-winter-ski-park-snow-driver.json) |
 | Winter Sleigh | 150349 | [150349-winter-sleigh.json](./150349-winter-sleigh.json) |
+| Winter Snow | 129937 | [129937-winter-snow.json](./129937-winter-snow.json) |
 | Winter Solitaire | 115525 | [115525-winter-solitaire.json](./115525-winter-solitaire.json) |
 | Winter Sports | 301449 | [301449-winter-sports.json](./301449-winter-sports.json) |
 | Winter Sports 2: The Next Challenge | 5285 | [5285-winter-sports-2-the-next-challenge.json](./5285-winter-sports-2-the-next-challenge.json) |
