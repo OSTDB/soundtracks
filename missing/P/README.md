@@ -2918,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pastry Cranker | 353788 | [353788-pastry-cranker.json](./353788-pastry-cranker.json) |
 | Pastry Lovers | 30029 | [30029-pastry-lovers.json](./30029-pastry-lovers.json) |
 | Pastry Wars | 91730 | [91730-pastry-wars.json](./91730-pastry-wars.json) |
+| Pastry Witches | 98150 | [98150-pastry-witches.json](./98150-pastry-witches.json) |
 | Pasture Palette | 374251 | [374251-pasture-palette.json](./374251-pasture-palette.json) |
 | Pasture: The Livestock Simulator | 264740 | [264740-pasture-the-livestock-simulator.json](./264740-pasture-the-livestock-simulator.json) |
 | Pastures New | 309312 | [309312-pastures-new.json](./309312-pastures-new.json) |
@@ -9382,6 +9383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Crashmania 9,000,000 | 68540 | [68540-planet-crashmania-9-000-000.json](./68540-planet-crashmania-9-000-000.json) |
 | Planet Crossword | 220841 | [220841-planet-crossword.json](./220841-planet-crossword.json) |
 | Planet Crusher | 367718 | [367718-planet-crusher.json](./367718-planet-crusher.json) |
+| Planet Cube: Edge | 98143 | [98143-planet-cube-edge.json](./98143-planet-cube-edge.json) |
 | Planet Deathmatch | 56352 | [56352-planet-deathmatch.json](./56352-planet-deathmatch.json) |
 | Planet Defender | 29463 | [29463-planet-defender.json](./29463-planet-defender.json) |
 | Planet Defender | 310999 | [310999-planet-defender.json](./310999-planet-defender.json) |
