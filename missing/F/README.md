@@ -3463,6 +3463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Favorite Dear: Enkan no Monogatari | 63530 | [63530-favorite-dear-enkan-no-monogatari.json](./63530-favorite-dear-enkan-no-monogatari.json) |
 | Favorite Dear: Junpaku no Yogensha | 63531 | [63531-favorite-dear-junpaku-no-yogensha.json](./63531-favorite-dear-junpaku-no-yogensha.json) |
 | Favorite Miner | 84079 | [84079-favorite-miner.json](./84079-favorite-miner.json) |
+| Favorite Star | 135415 | [135415-favorite-star.json](./135415-favorite-star.json) |
 | Fawe: Enchanted Forest | 193212 | [193212-fawe-enchanted-forest.json](./193212-fawe-enchanted-forest.json) |
 | Fawful Mod Mario Kart 7 | 340981 | [340981-fawful-mod-mario-kart-7.json](./340981-fawful-mod-mario-kart-7.json) |
 | Fawful Mod Mario Kart 8 | 340982 | [340982-fawful-mod-mario-kart-8.json](./340982-fawful-mod-mario-kart-8.json) |
@@ -13805,6 +13806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furies & Magazines: Episode 1 | 243563 | [243563-furies-and-magazines-episode-1.json](./243563-furies-and-magazines-episode-1.json) |
 | Furies: Last Escape | 181491 | [181491-furies-last-escape.json](./181491-furies-last-escape.json) |
 | Furikake Spacey | 216461 | [216461-furikake-spacey.json](./216461-furikake-spacey.json) |
+| Furiko | 135416 | [135416-furiko.json](./135416-furiko.json) |
 | Furion Chronicles 3 | 418432 | [418432-furion-chronicles-3.json](./418432-furion-chronicles-3.json) |
 | Furiosity | 225286 | [225286-furiosity.json](./225286-furiosity.json) |
 | Furious Angels | 27743 | [27743-furious-angels.json](./27743-furious-angels.json) |
