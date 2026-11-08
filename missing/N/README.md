@@ -2942,6 +2942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Netherworld: Beyond Time I Stand | 172507 | [172507-netherworld-beyond-time-i-stand.json](./172507-netherworld-beyond-time-i-stand.json) |
 | Netherwyn | 423364 | [423364-netherwyn.json](./423364-netherwyn.json) |
 | netKar Pro | 63099 | [63099-netkar-pro.json](./63099-netkar-pro.json) |
+| NetMaze | 78223 | [78223-netmaze.json](./78223-netmaze.json) |
 | NetMaze: A Funnyman Game | 242782 | [242782-netmaze-a-funnyman-game.json](./242782-netmaze-a-funnyman-game.json) |
 | NetMech | 93422 | [93422-netmech.json](./93422-netmech.json) |
 | Netoo | 391063 | [391063-netoo.json](./391063-netoo.json) |
@@ -3419,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Supaplex | 94895 | [94895-new-supaplex.json](./94895-new-supaplex.json) |
 | New Super Abandoned: Discovery Island | 242480 | [242480-new-super-abandoned-discovery-island.json](./242480-new-super-abandoned-discovery-island.json) |
 | New Super Chick Sisters | 165580 | [165580-new-super-chick-sisters.json](./165580-new-super-chick-sisters.json) |
+| New Super Hook Girl | 78190 | [78190-new-super-hook-girl.json](./78190-new-super-hook-girl.json) |
 | New Super Kaizo Bros. | 214777 | [214777-new-super-kaizo-bros.json](./214777-new-super-kaizo-bros.json) |
 | New Super Luigi U Remastered Edition | 322777 | [322777-new-super-luigi-u-remastered-edition.json](./322777-new-super-luigi-u-remastered-edition.json) |
 | New Super Mario All-Stars HD | 178381 | [178381-new-super-mario-all-stars-hd.json](./178381-new-super-mario-all-stars-hd.json) |
@@ -5975,6 +5977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No More Heroes: Heroes' Paradise | 7124 | [7124-no-more-heroes-heroes-paradise.json](./7124-no-more-heroes-heroes-paradise.json) |
 | No More Heroes: Naomi Hook | 355548 | [355548-no-more-heroes-naomi-hook.json](./355548-no-more-heroes-naomi-hook.json) |
 | No More Heroes: Red Zone Edition | 116373 | [116373-no-more-heroes-red-zone-edition.json](./116373-no-more-heroes-red-zone-edition.json) |
+| No More Heroes: World Ranker | 78199 | [78199-no-more-heroes-world-ranker.json](./78199-no-more-heroes-world-ranker.json) |
 | No More Home | 157921 | [157921-no-more-home.json](./157921-no-more-home.json) |
 | No More Humans | 306406 | [306406-no-more-humans.json](./306406-no-more-humans.json) |
 | No More Inputs | 164913 | [164913-no-more-inputs.json](./164913-no-more-inputs.json) |
@@ -6758,6 +6761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nook Fall: West Town | 341485 | [341485-nook-fall-west-town.json](./341485-nook-fall-west-town.json) |
 | Nookle | 361709 | [361709-nookle.json](./361709-nookle.json) |
 | Noolwok Nimble Delivery Service | 141481 | [141481-noolwok-nimble-delivery-service.json](./141481-noolwok-nimble-delivery-service.json) |
+| Noon | 78222 | [78222-noon.json](./78222-noon.json) |
 | Noon Stone | 346590 | [346590-noon-stone.json](./346590-noon-stone.json) |
 | Noonie | 99630 | [99630-noonie.json](./99630-noonie.json) |
 | Noonkey: Healing Tears II | 299401 | [299401-noonkey-healing-tears-ii.json](./299401-noonkey-healing-tears-ii.json) |
