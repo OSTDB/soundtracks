@@ -444,6 +444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lacuna: Save the World Edition | 159699 | [159699-lacuna-save-the-world-edition.json](./159699-lacuna-save-the-world-edition.json) |
 | Lacura | 182809 | [182809-lacura.json](./182809-lacura.json) |
 | Lacus Opportunitas | 347149 | [347149-lacus-opportunitas.json](./347149-lacus-opportunitas.json) |
+| Lad | 86154 | [86154-lad.json](./86154-lad.json) |
 | Lad 2024 | 315333 | [315333-lad-2024.json](./315333-lad-2024.json) |
 | Ladder Box | 155888 | [155888-ladder-box.json](./155888-ladder-box.json) |
 | Ladder Climbing | 301818 | [301818-ladder-climbing.json](./301818-ladder-climbing.json) |
