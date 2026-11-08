@@ -291,6 +291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baby Snow and the Shards of Tiger's Bane | 392244 | [392244-baby-snow-and-the-shards-of-tigers-bane.json](./392244-baby-snow-and-the-shards-of-tigers-bane.json) |
 | Baby Steps | 252502 | [252502-baby-steps.json](./252502-baby-steps.json) |
 | Baby T-Rex | 49071 | [49071-baby-t-rex.json](./49071-baby-t-rex.json) |
+| Baby Tiger Care | 105488 | [105488-baby-tiger-care.json](./105488-baby-tiger-care.json) |
 | Baby Tiger Care: My Cute Virtual Pet Friend | 105840 | [105840-baby-tiger-care-my-cute-virtual-pet-friend.json](./105840-baby-tiger-care-my-cute-virtual-pet-friend.json) |
 | Baby Time Simulator | 269275 | [269275-baby-time-simulator.json](./269275-baby-time-simulator.json) |
 | Baby Twins Babysitter | 86772 | [86772-baby-twins-babysitter.json](./86772-baby-twins-babysitter.json) |
@@ -980,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4613,6 +4615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleWave | 24511 | [24511-battlewave.json](./24511-battlewave.json) |
 | BattleWords | 121043 | [121043-battlewords.json](./121043-battlewords.json) |
 | Battlewrights | 337763 | [337763-battlewrights.json](./337763-battlewrights.json) |
+| BattleX | 105569 | [105569-battlex.json](./105569-battlex.json) |
 | BattleZ | 236235 | [236235-battlez.json](./236235-battlez.json) |
 | Battlezone | 12916 | [12916-battlezone.json](./12916-battlezone.json) |
 | Battlezone | 276519 | [276519-battlezone.json](./276519-battlezone.json) |
@@ -5255,6 +5258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Dungeon | 180596 | [180596-beat-dungeon.json](./180596-beat-dungeon.json) |
 | Beat Fantasy | 175758 | [175758-beat-fantasy.json](./175758-beat-fantasy.json) |
 | Beat Feet | 369635 | [369635-beat-feet.json](./369635-beat-feet.json) |
+| Beat Fever: Music Planet | 105466 | [105466-beat-fever-music-planet.json](./105466-beat-fever-music-planet.json) |
 | Beat Fever: Music Tap Rhythm Game | 82995 | [82995-beat-fever-music-tap-rhythm-game.json](./82995-beat-fever-music-tap-rhythm-game.json) |
 | Beat Flip | 166848 | [166848-beat-flip.json](./166848-beat-flip.json) |
 | Beat for Speed | 405274 | [405274-beat-for-speed.json](./405274-beat-for-speed.json) |
@@ -12797,6 +12801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomber Buddies | 414067 | [414067-bomber-buddies.json](./414067-bomber-buddies.json) |
 | Bomber Cat Run | 317860 | [317860-bomber-cat-run.json](./317860-bomber-cat-run.json) |
 | Bomber Chaos | 281963 | [281963-bomber-chaos.json](./281963-bomber-chaos.json) |
+| Bomber Clash | 105467 | [105467-bomber-clash.json](./105467-bomber-clash.json) |
 | Bomber Command | 221687 | [221687-bomber-command.json](./221687-bomber-command.json) |
 | Bomber Crew | 55628 | [55628-bomber-crew.json](./55628-bomber-crew.json) |
 | Bomber Crew: American Edition | 116147 | [116147-bomber-crew-american-edition.json](./116147-bomber-crew-american-edition.json) |
