@@ -2280,6 +2280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mailbag for a Tattered Nation | 202607 | [202607-mailbag-for-a-tattered-nation.json](./202607-mailbag-for-a-tattered-nation.json) |
 | Mailbag Mayhem | 62191 | [62191-mailbag-mayhem.json](./62191-mailbag-mayhem.json) |
 | Mailbound | 345796 | [345796-mailbound.json](./345796-mailbound.json) |
+| Mailbox | 126719 | [126719-mailbox.json](./126719-mailbox.json) |
 | Mailfrog | 178040 | [178040-mailfrog.json](./178040-mailfrog.json) |
 | Mailman | 203577 | [203577-mailman.json](./203577-mailman.json) |
 | MailPop | 249070 | [249070-mailpop.json](./249070-mailpop.json) |
@@ -7377,6 +7378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Alberto Cousins | 181467 | [181467-mega-alberto-cousins.json](./181467-mega-alberto-cousins.json) |
 | Mega Alien Destroyer | 266565 | [266565-mega-alien-destroyer.json](./266565-mega-alien-destroyer.json) |
 | Mega Babies | 209532 | [209532-mega-babies.json](./209532-mega-babies.json) |
+| Mega Balls | 126711 | [126711-mega-balls.json](./126711-mega-balls.json) |
 | Mega Blaster | 311664 | [311664-mega-blaster.json](./311664-mega-blaster.json) |
 | Mega Bloks: First Builders | 60838 | [60838-mega-bloks-first-builders.json](./60838-mega-bloks-first-builders.json) |
 | Mega Bowling Dash | 136431 | [136431-mega-bowling-dash.json](./136431-mega-bowling-dash.json) |
@@ -13602,6 +13604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mir M | 208749 | [208749-mir-m.json](./208749-mir-m.json) |
 | Mir Tankov | 252168 | [252168-mir-tankov.json](./252168-mir-tankov.json) |
 | Mir-Mahna | 191668 | [191668-mir-mahna.json](./191668-mir-mahna.json) |
+| Mira | 126712 | [126712-mira.json](./126712-mira.json) |
 | Mira and the Legend of the Djinns | 197172 | [197172-mira-and-the-legend-of-the-djinns.json](./197172-mira-and-the-legend-of-the-djinns.json) |
 | Mira and the Mysteries of Alchemy | 168222 | [168222-mira-and-the-mysteries-of-alchemy.json](./168222-mira-and-the-mysteries-of-alchemy.json) |
 | Mira: A Bird's Flight | 208462 | [208462-mira-a-birds-flight.json](./208462-mira-a-birds-flight.json) |
@@ -21578,6 +21581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Summertime Girlfriend | 241162 | [241162-my-summertime-girlfriend.json](./241162-my-summertime-girlfriend.json) |
 | My Sunny Resort | 98981 | [98981-my-sunny-resort.json](./98981-my-sunny-resort.json) |
 | My Super Defender | 112965 | [112965-my-super-defender.json](./112965-my-super-defender.json) |
+| My Super Defender: Battle Santa Edition | 126737 | [126737-my-super-defender-battle-santa-edition.json](./126737-my-super-defender-battle-santa-edition.json) |
 | My Super Tower 3 | 97087 | [97087-my-super-tower-3.json](./97087-my-super-tower-3.json) |
 | My SuperMart | 231919 | [231919-my-supermart.json](./231919-my-supermart.json) |
 | My Superstar Boyfriend | 284164 | [284164-my-superstar-boyfriend.json](./284164-my-superstar-boyfriend.json) |
@@ -21866,6 +21870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myriad Hotel | 266048 | [266048-myriad-hotel.json](./266048-myriad-hotel.json) |
 | Myriad Mayhem | 258208 | [258208-myriad-mayhem.json](./258208-myriad-mayhem.json) |
 | Myriad Realms | 406296 | [406296-myriad-realms.json](./406296-myriad-realms.json) |
+| Myriad Tower Defense | 126710 | [126710-myriad-tower-defense.json](./126710-myriad-tower-defense.json) |
 | Myriad: A Rogue Adventure | 172336 | [172336-myriad-a-rogue-adventure.json](./172336-myriad-a-rogue-adventure.json) |
 | Myriads: Renaissance | 176168 | [176168-myriads-renaissance.json](./176168-myriads-renaissance.json) |
 | Myriavora | 154584 | [154584-myriavora.json](./154584-myriavora.json) |
