@@ -981,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Roses | 177506 | [177506-war-of-roses.json](./177506-war-of-roses.json) |
 | War of Ships | 225895 | [225895-war-of-ships.json](./225895-war-of-ships.json) |
 | War of Sonria | 64154 | [64154-war-of-sonria.json](./64154-war-of-sonria.json) |
+| War of Spells | 93696 | [93696-war-of-spells.json](./93696-war-of-spells.json) |
 | War of Stealth Assassin | 145960 | [145960-war-of-stealth-assassin.json](./145960-war-of-stealth-assassin.json) |
 | War of Tanks | 305716 | [305716-war-of-tanks.json](./305716-war-of-tanks.json) |
 | War of Tanks: Blitzkrieg | 288435 | [288435-war-of-tanks-blitzkrieg.json](./288435-war-of-tanks-blitzkrieg.json) |
@@ -6003,6 +6004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wingy Pop | 55070 | [55070-wingy-pop.json](./55070-wingy-pop.json) |
 | Winhack 95 | 400710 | [400710-winhack-95.json](./400710-winhack-95.json) |
 | Winion Virus | 326930 | [326930-winion-virus.json](./326930-winion-virus.json) |
+| Winions: Mana Champions | 93686 | [93686-winions-mana-champions.json](./93686-winions-mana-champions.json) |
 | Wink and the Broken Robot | 179667 | [179667-wink-and-the-broken-robot.json](./179667-wink-and-the-broken-robot.json) |
 | Wink Mafia | 423236 | [423236-wink-mafia.json](./423236-wink-mafia.json) |
 | Wink Out | 404410 | [404410-wink-out.json](./404410-wink-out.json) |
