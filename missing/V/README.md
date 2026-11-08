@@ -1289,6 +1289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Veinrider | 377275 | [377275-veinrider.json](./377275-veinrider.json) |
 | Veins | 213467 | [213467-veins.json](./213467-veins.json) |
 | Veins | 229485 | [229485-veins.json](./229485-veins.json) |
+| Veins | 98662 | [98662-veins.json](./98662-veins.json) |
 | Veins Like Tapeworms | 300502 | [300502-veins-like-tapeworms.json](./300502-veins-like-tapeworms.json) |
 | Veins of Darkness | 334294 | [334294-veins-of-darkness.json](./334294-veins-of-darkness.json) |
 | Vekarra | 423282 | [423282-vekarra.json](./423282-vekarra.json) |
@@ -3118,10 +3119,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vitamin Girl | 68577 | [68577-vitamin-girl.json](./68577-vitamin-girl.json) |
 | Vitamin R | 59360 | [59360-vitamin-r.json](./59360-vitamin-r.json) |
 | Vitamin X | 69288 | [69288-vitamin-x.json](./69288-vitamin-x.json) |
+| Vitamin X Destination | 98664 | [98664-vitamin-x-destination.json](./98664-vitamin-x-destination.json) |
+| Vitamin X Detective B6 | 98668 | [98668-vitamin-x-detective-b6.json](./98668-vitamin-x-detective-b6.json) |
 | Vitamin X Evolution | 124110 | [124110-vitamin-x-evolution.json](./124110-vitamin-x-evolution.json) |
+| Vitamin X Evolution Plus | 98665 | [98665-vitamin-x-evolution-plus.json](./98665-vitamin-x-evolution-plus.json) |
+| Vitamin X to Z | 98667 | [98667-vitamin-x-to-z.json](./98667-vitamin-x-to-z.json) |
+| Vitamin Y | 98672 | [98672-vitamin-y.json](./98672-vitamin-y.json) |
 | Vitamin Z | 132092 | [132092-vitamin-z.json](./132092-vitamin-z.json) |
 | Vitamin Z | 60250 | [60250-vitamin-z.json](./60250-vitamin-z.json) |
 | Vitamin Z Graduation | 64159 | [64159-vitamin-z-graduation.json](./64159-vitamin-z-graduation.json) |
+| Vitamin Z Revolution | 98666 | [98666-vitamin-z-revolution.json](./98666-vitamin-z-revolution.json) |
 | Vitas Castle of Horror | 186018 | [186018-vitas-castle-of-horror.json](./186018-vitas-castle-of-horror.json) |
 | Vitatio | 44088 | [44088-vitatio.json](./44088-vitatio.json) |
 | Vitatio 2 | 29603 | [29603-vitatio-2.json](./29603-vitatio-2.json) |
