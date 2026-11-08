@@ -526,6 +526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ochitsubaki | 151918 | [151918-ochitsubaki.json](./151918-ochitsubaki.json) |
 | Ochkarik | 105634 | [105634-ochkarik.json](./105634-ochkarik.json) |
 | Ochre | 400963 | [400963-ochre.json](./400963-ochre.json) |
+| Ocmo | 113930 | [113930-ocmo.json](./113930-ocmo.json) |
 | Ocnus Theory | 216602 | [216602-ocnus-theory.json](./216602-ocnus-theory.json) |
 | Oco | 125845 | [125845-oco.json](./125845-oco.json) |
 | Ocolast | 158027 | [158027-ocolast.json](./158027-ocolast.json) |
@@ -4960,6 +4961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Life: Now & Forever | 187392 | [187392-our-life-now-and-forever.json](./187392-our-life-now-and-forever.json) |
 | Our Light Affliction: Spider's Covenant | 408537 | [408537-our-light-affliction-spiders-covenant.json](./408537-our-light-affliction-spiders-covenant.json) |
 | Our Little Chase | 231702 | [231702-our-little-chase.json](./231702-our-little-chase.json) |
+| Our Lonely Flesh | 113953 | [113953-our-lonely-flesh.json](./113953-our-lonely-flesh.json) |
 | Our Long Walk Home | 283815 | [283815-our-long-walk-home.json](./283815-our-long-walk-home.json) |
 | Our Love Will Grow | 33946 | [33946-our-love-will-grow.json](./33946-our-love-will-grow.json) |
 | Our Lovely Escape | 111878 | [111878-our-lovely-escape.json](./111878-our-lovely-escape.json) |
