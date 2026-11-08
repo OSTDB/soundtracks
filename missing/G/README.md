@@ -3995,6 +3995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Sync | 150061 | [150061-ghost-sync.json](./150061-ghost-sync.json) |
 | Ghost Tag | 266069 | [266069-ghost-tag.json](./266069-ghost-tag.json) |
 | Ghost Talker | 295768 | [295768-ghost-talker.json](./295768-ghost-talker.json) |
+| Ghost Tappers | 111157 | [111157-ghost-tappers.json](./111157-ghost-tappers.json) |
 | Ghost Teen Escape from Limbo | 300996 | [300996-ghost-teen-escape-from-limbo.json](./300996-ghost-teen-escape-from-limbo.json) |
 | Ghost Terminal | 307734 | [307734-ghost-terminal.json](./307734-ghost-terminal.json) |
 | Ghost Terminator | 173286 | [173286-ghost-terminator.json](./173286-ghost-terminator.json) |
