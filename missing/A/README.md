@@ -4230,6 +4230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aetherdrift | 384194 | [384194-aetherdrift.json](./384194-aetherdrift.json) |
 | Aetherfall | 348587 | [348587-aetherfall.json](./348587-aetherfall.json) |
 | Aetherglen | 347806 | [347806-aetherglen.json](./347806-aetherglen.json) |
+| Aetheria Online | 114597 | [114597-aetheria-online.json](./114597-aetheria-online.json) |
 | Aetheria: Whispers of the Forest Moon | 316453 | [316453-aetheria-whispers-of-the-forest-moon.json](./316453-aetheria-whispers-of-the-forest-moon.json) |
 | Aetherial | 357786 | [357786-aetherial.json](./357786-aetherial.json) |
 | Aetherian Chronicles | 316454 | [316454-aetherian-chronicles.json](./316454-aetherian-chronicles.json) |
@@ -6626,6 +6627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alfapet | 77143 | [77143-alfapet.json](./77143-alfapet.json) |
 | Alfasnake | 111394 | [111394-alfasnake.json](./111394-alfasnake.json) |
 | Alfelus | 125669 | [125669-alfelus.json](./125669-alfelus.json) |
+| Alfie Atkins | 114613 | [114613-alfie-atkins.json](./114613-alfie-atkins.json) |
 | Alfie Atkins Game Collection | 385142 | [385142-alfie-atkins-game-collection.json](./385142-alfie-atkins-game-collection.json) |
 | Alfons World | 345053 | [345053-alfons-world.json](./345053-alfons-world.json) |
 | Alfonzo's Arctic Adventure | 122808 | [122808-alfonzos-arctic-adventure.json](./122808-alfonzos-arctic-adventure.json) |
@@ -13744,6 +13746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena of Octos | 192112 | [192112-arena-of-octos.json](./192112-arena-of-octos.json) |
 | Arena of Ruins | 159787 | [159787-arena-of-ruins.json](./159787-arena-of-ruins.json) |
 | Arena of Sacrifice | 399426 | [399426-arena-of-sacrifice.json](./399426-arena-of-sacrifice.json) |
+| Arena of Shaelo | 114577 | [114577-arena-of-shaelo.json](./114577-arena-of-shaelo.json) |
 | Arena of Speed: Fast and Furious | 174832 | [174832-arena-of-speed-fast-and-furious.json](./174832-arena-of-speed-fast-and-furious.json) |
 | Arena of Suffering | 372417 | [372417-arena-of-suffering.json](./372417-arena-of-suffering.json) |
 | Arena of Taryon | 278609 | [278609-arena-of-taryon.json](./278609-arena-of-taryon.json) |
@@ -18809,6 +18812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azure Sheep | 150595 | [150595-azure-sheep.json](./150595-azure-sheep.json) |
 | Azure Sky | 155273 | [155273-azure-sky.json](./155273-azure-sky.json) |
 | Azure Sky Project | 67908 | [67908-azure-sky-project.json](./67908-azure-sky-project.json) |
+| Azure Snake | 114496 | [114496-azure-snake.json](./114496-azure-snake.json) |
 | Azure Striker Gunvolt | 10373 | [10373-azure-striker-gunvolt.json](./10373-azure-striker-gunvolt.json) |
 | Azure Striker Gunvolt 2 | 18197 | [18197-azure-striker-gunvolt-2.json](./18197-azure-striker-gunvolt-2.json) |
 | Azure Striker Gunvolt 3 | 135503 | [135503-azure-striker-gunvolt-3.json](./135503-azure-striker-gunvolt-3.json) |
