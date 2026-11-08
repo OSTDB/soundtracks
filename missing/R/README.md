@@ -4358,6 +4358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redrum | 237269 | [237269-redrum.json](./237269-redrum.json) |
 | Redrum Hotel | 274817 | [274817-redrum-hotel.json](./274817-redrum-hotel.json) |
 | Redrum: The Shining 2 | 341820 | [341820-redrum-the-shining-2.json](./341820-redrum-the-shining-2.json) |
+| Redrum: Time Lies | 111933 | [111933-redrum-time-lies.json](./111933-redrum-time-lies.json) |
 | Reds Adventure A Seasons New Beginning | 188767 | [188767-reds-adventure-a-seasons-new-beginning.json](./188767-reds-adventure-a-seasons-new-beginning.json) |
 | RedShift | 328963 | [328963-redshift.json](./328963-redshift.json) |
 | Redshift 7 | 27253 | [27253-redshift-7.json](./27253-redshift-7.json) |
