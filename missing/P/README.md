@@ -8089,6 +8089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Artist | 220876 | [220876-pixel-artist.json](./220876-pixel-artist.json) |
 | Pixel Artist Simulator | 177892 | [177892-pixel-artist-simulator.json](./177892-pixel-artist-simulator.json) |
 | Pixel Artist: Color Number, Pixel Coloring Book | 105847 | [105847-pixel-artist-color-number-pixel-coloring-book.json](./105847-pixel-artist-color-number-pixel-coloring-book.json) |
+| Pixel Artworks-Pixel Art Color | 102833 | [102833-pixel-artworks-pixel-art-color.json](./102833-pixel-artworks-pixel-art-color.json) |
 | Pixel Battle Royale | 113686 | [113686-pixel-battle-royale.json](./113686-pixel-battle-royale.json) |
 | Pixel Become Human: The Hostage | 411552 | [411552-pixel-become-human-the-hostage.json](./411552-pixel-become-human-the-hostage.json) |
 | Pixel Beef Battle | 96619 | [96619-pixel-beef-battle.json](./96619-pixel-beef-battle.json) |
