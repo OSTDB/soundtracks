@@ -1996,6 +1996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise | 20527 | [20527-paradise.json](./20527-paradise.json) |
 | Paradise | 210019 | [210019-paradise.json](./210019-paradise.json) |
 | Paradise | 288319 | [288319-paradise.json](./288319-paradise.json) |
+| Paradise | 86175 | [86175-paradise.json](./86175-paradise.json) |
 | Paradise Angel | 278141 | [278141-paradise-angel.json](./278141-paradise-angel.json) |
 | Paradise Architect | 274464 | [274464-paradise-architect.json](./274464-paradise-architect.json) |
 | Paradise Away | 150953 | [150953-paradise-away.json](./150953-paradise-away.json) |
@@ -13059,6 +13060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popap | 29154 | [29154-popap.json](./29154-popap.json) |
 | PopCap Arcade Vol. 1 | 7132 | [7132-popcap-arcade-vol-1.json](./7132-popcap-arcade-vol-1.json) |
 | PopCap Arcade Vol. 2 | 7133 | [7133-popcap-arcade-vol-2.json](./7133-popcap-arcade-vol-2.json) |
+| PopCap Arcade: Rakushisa, Ippai, Action & Puzzle 7 Pack | 86144 | [86144-popcap-arcade-rakushisa-ippai-action-and-puzzle-7-pack.json](./86144-popcap-arcade-rakushisa-ippai-action-and-puzzle-7-pack.json) |
 | PopCap Bundle | 82436 | [82436-popcap-bundle.json](./82436-popcap-bundle.json) |
 | PopCap Hits! | 23387 | [23387-popcap-hits.json](./23387-popcap-hits.json) |
 | PopCap Hits! Vol 2 | 80781 | [80781-popcap-hits-vol-2.json](./80781-popcap-hits-vol-2.json) |
@@ -17325,6 +17327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycastria | 13748 | [13748-psycastria.json](./13748-psycastria.json) |
 | Psych | 150012 | [150012-psych.json](./150012-psych.json) |
 | Psych | 336823 | [336823-psych.json](./336823-psych.json) |
+| Psych | 86179 | [86179-psych.json](./86179-psych.json) |
 | Psych: The Game | 19312 | [19312-psych-the-game.json](./19312-psych-the-game.json) |
 | Psych! Outwit Your Friends | 88059 | [88059-psych-outwit-your-friends.json](./88059-psych-outwit-your-friends.json) |
 | Psychdive. | 366334 | [366334-psychdive.json](./366334-psychdive.json) |
