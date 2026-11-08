@@ -3254,6 +3254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Marvel's Avengers: Spider-Man Character Pack | 168779 | [168779-lego-marvels-avengers-spider-man-character-pack.json](./168779-lego-marvels-avengers-spider-man-character-pack.json) |
 | LEGO Marvel's Avengers: The Avengers Adventurer Character Pack | 265464 | [265464-lego-marvels-avengers-the-avengers-adventurer-character-pack.json](./265464-lego-marvels-avengers-the-avengers-adventurer-character-pack.json) |
 | LEGO Marvel's Avengers: The Avengers Explorer Character Pack | 263277 | [263277-lego-marvels-avengers-the-avengers-explorer-character-pack.json](./263277-lego-marvels-avengers-the-avengers-explorer-character-pack.json) |
+| LEGO Marvel's Avengers: The Masters of Evil Pack | 137757 | [137757-lego-marvels-avengers-the-masters-of-evil-pack.json](./137757-lego-marvels-avengers-the-masters-of-evil-pack.json) |
 | LEGO Marvel's Avengers: The Thunderbolts Character Pack | 263278 | [263278-lego-marvels-avengers-the-thunderbolts-character-pack.json](./263278-lego-marvels-avengers-the-thunderbolts-character-pack.json) |
 | LEGO Masterpiece Collection | 142953 | [142953-lego-masterpiece-collection.json](./142953-lego-masterpiece-collection.json) |
 | Lego Merlok 2.0 Version 4.0.0 | 345593 | [345593-lego-merlok-2-0-version-4-0-0.json](./345593-lego-merlok-2-0-version-4-0-0.json) |
@@ -5050,6 +5051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lightspeed Frontier | 30708 | [30708-lightspeed-frontier.json](./30708-lightspeed-frontier.json) |
 | LightSpeed is Overrated | 220803 | [220803-lightspeed-is-overrated.json](./220803-lightspeed-is-overrated.json) |
 | Lightspeed Lina | 417659 | [417659-lightspeed-lina.json](./417659-lightspeed-lina.json) |
+| Lightspeer | 137759 | [137759-lightspeer.json](./137759-lightspeer.json) |
 | Lightspire: Fortunes Web | 69202 | [69202-lightspire-fortunes-web.json](./69202-lightspire-fortunes-web.json) |
 | LightSprites | 261186 | [261186-lightsprites.json](./261186-lightsprites.json) |
 | Lightstep Chronicles | 112851 | [112851-lightstep-chronicles.json](./112851-lightstep-chronicles.json) |
