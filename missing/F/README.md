@@ -9426,6 +9426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Fred | 104468 | [104468-football-fred.json](./104468-football-fred.json) |
 | Football Frenzy | 39649 | [39649-football-frenzy.json](./39649-football-frenzy.json) |
 | Football Fury | 42551 | [42551-football-fury.json](./42551-football-fury.json) |
+| Football Fusion | 79464 | [79464-football-fusion.json](./79464-football-fusion.json) |
 | Football Games 2023 Offline | 296773 | [296773-football-games-2023-offline.json](./296773-football-games-2023-offline.json) |
 | Football Games Room | 100259 | [100259-football-games-room.json](./100259-football-games-room.json) |
 | Football General Manager | 90206 | [90206-football-general-manager.json](./90206-football-general-manager.json) |
@@ -11098,6 +11099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foul Play | 160072 | [160072-foul-play.json](./160072-foul-play.json) |
 | Foul Play | 5895 | [5895-foul-play.json](./5895-foul-play.json) |
 | Foul Play - Mystery at Awkward Manor | 127783 | [127783-foul-play-mystery-at-awkward-manor.json](./127783-foul-play-mystery-at-awkward-manor.json) |
+| Foul Play: Mystery at Awkward Manor | 79445 | [79445-foul-play-mystery-at-awkward-manor.json](./79445-foul-play-mystery-at-awkward-manor.json) |
 | Foul Repercussion | 337178 | [337178-foul-repercussion.json](./337178-foul-repercussion.json) |
 | Foulbreaker | 290542 | [290542-foulbreaker.json](./290542-foulbreaker.json) |
 | Found | 176862 | [176862-found.json](./176862-found.json) |
