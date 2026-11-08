@@ -2916,6 +2916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawnbringer | 129604 | [129604-dawnbringer.json](./129604-dawnbringer.json) |
 | Dawncaster: Deckbuilding RPG | 175097 | [175097-dawncaster-deckbuilding-rpg.json](./175097-dawncaster-deckbuilding-rpg.json) |
 | DawnCraft | 272073 | [272073-dawncraft.json](./272073-dawncraft.json) |
+| Dawndusk Dream Sewer | 134773 | [134773-dawndusk-dream-sewer.json](./134773-dawndusk-dream-sewer.json) |
 | Dawnfolk | 245754 | [245754-dawnfolk.json](./245754-dawnfolk.json) |
 | Dawngate | 11327 | [11327-dawngate.json](./11327-dawngate.json) |
 | Dawning Evil | 331088 | [331088-dawning-evil.json](./331088-dawning-evil.json) |
@@ -12055,6 +12056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogs of War | 74307 | [74307-dogs-of-war.json](./74307-dogs-of-war.json) |
 | Dogs of War Online | 15391 | [15391-dogs-of-war-online.json](./15391-dogs-of-war-online.json) |
 | Dogs Organized Neatly | 154011 | [154011-dogs-organized-neatly.json](./154011-dogs-organized-neatly.json) |
+| Dogs Throwing Swords II: Three Barks to the Wind | 134762 | [134762-dogs-throwing-swords-ii-three-barks-to-the-wind.json](./134762-dogs-throwing-swords-ii-three-barks-to-the-wind.json) |
 | Dogs.Io | 170075 | [170075-dogs-io.json](./170075-dogs-io.json) |
 | Dogs++ | 180814 | [180814-dogs.json](./180814-dogs.json) |
 | Dogsbody | 13600 | [13600-dogsbody.json](./13600-dogsbody.json) |
@@ -12832,6 +12834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Stop, Girlypop! | 287870 | [287870-dont-stop-girlypop.json](./287870-dont-stop-girlypop.json) |
 | Don't Take It Personally, Babe, It Just Ain't Your Story | 66033 | [66033-dont-take-it-personally-babe-it-just-aint-your-story.json](./66033-dont-take-it-personally-babe-it-just-aint-your-story.json) |
 | Don't Take It Personally, I Just Don't Like You | 246924 | [246924-dont-take-it-personally-i-just-dont-like-you.json](./246924-dont-take-it-personally-i-just-dont-like-you.json) |
+| Don't Take it Personally, I Just Don't Like You: The Camping Trip | 134780 | [134780-dont-take-it-personally-i-just-dont-like-you-the-camping-trip.json](./134780-dont-take-it-personally-i-just-dont-like-you-the-camping-trip.json) |
 | Don't Take Me Away | 329074 | [329074-dont-take-me-away.json](./329074-dont-take-me-away.json) |
 | Don't Take This Risk | 75223 | [75223-dont-take-this-risk.json](./75223-dont-take-this-risk.json) |
 | Don't Talk to Strangers | 180638 | [180638-dont-talk-to-strangers.json](./180638-dont-talk-to-strangers.json) |
@@ -13588,6 +13591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doors More Doors | 320347 | [320347-doors-more-doors.json](./320347-doors-more-doors.json) |
 | Doors of Doom | 13605 | [13605-doors-of-doom.json](./13605-doors-of-doom.json) |
 | Doors of Doom | 305317 | [305317-doors-of-doom.json](./305317-doors-of-doom.json) |
+| Doors of Insanity | 134782 | [134782-doors-of-insanity.json](./134782-doors-of-insanity.json) |
 | Doors of Insanity: ReOpened | 322699 | [322699-doors-of-insanity-reopened.json](./322699-doors-of-insanity-reopened.json) |
 | Doors of Silence: The Prologue | 123881 | [123881-doors-of-silence-the-prologue.json](./123881-doors-of-silence-the-prologue.json) |
 | Doors Push or Pull | 101349 | [101349-doors-push-or-pull.json](./101349-doors-push-or-pull.json) |
@@ -19433,6 +19437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwelling | 309365 | [309365-dwelling.json](./309365-dwelling.json) |
 | Dwellink: War of the Nine | 301331 | [301331-dwellink-war-of-the-nine.json](./301331-dwellink-war-of-the-nine.json) |
 | Dwelp | 128547 | [128547-dwelp.json](./128547-dwelp.json) |
+| Dwerg Saga | 134764 | [134764-dwerg-saga.json](./134764-dwerg-saga.json) |
 | Dwingle B.O.T | 37387 | [37387-dwingle-b-o-t.json](./37387-dwingle-b-o-t.json) |
 | Dwoemer of the Drill Faced Goddess | 377597 | [377597-dwoemer-of-the-drill-faced-goddess.json](./377597-dwoemer-of-the-drill-faced-goddess.json) |
 | DX Bakenou Z | 57976 | [57976-dx-bakenou-z.json](./57976-dx-bakenou-z.json) |
