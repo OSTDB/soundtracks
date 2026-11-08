@@ -8872,6 +8872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robicon | 373764 | [373764-robicon.json](./373764-robicon.json) |
 | Robikon | 107448 | [107448-robikon.json](./107448-robikon.json) |
 | Robin & Orchid | 60013 | [60013-robin-and-orchid.json](./60013-robin-and-orchid.json) |
+| Robin Hood | 100246 | [100246-robin-hood.json](./100246-robin-hood.json) |
 | Robin Hood | 217733 | [217733-robin-hood.json](./217733-robin-hood.json) |
 | Robin Hood | 232903 | [232903-robin-hood.json](./232903-robin-hood.json) |
 | Robin Hood | 23575 | [23575-robin-hood.json](./23575-robin-hood.json) |
@@ -12627,6 +12628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Witch | 281327 | [281327-run-witch.json](./281327-run-witch.json) |
 | Run x Gun | 275543 | [275543-run-x-gun.json](./275543-run-x-gun.json) |
 | Run Zeus Run | 68498 | [68498-run-zeus-run.json](./68498-run-zeus-run.json) |
+| Run Zombie Run | 100373 | [100373-run-zombie-run.json](./100373-run-zombie-run.json) |
 | Run-Gunners' Revenge | 240663 | [240663-run-gunners-revenge.json](./240663-run-gunners-revenge.json) |
 | Run-N-Jump-N-Jump-N-Run | 134913 | [134913-run-n-jump-n-jump-n-run.json](./134913-run-n-jump-n-jump-n-run.json) |
 | Run, chicken, run! | 113885 | [113885-run-chicken-run.json](./113885-run-chicken-run.json) |
