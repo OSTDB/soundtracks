@@ -336,6 +336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactical Craft Online | 34125 | [34125-tactical-craft-online.json](./34125-tactical-craft-online.json) |
 | Tactical Dual Pack: Necromunda - Underhive Wars & Space Hulk: Tactics | 223872 | [223872-tactical-dual-pack-necromunda-underhive-wars-and-space-hulk-tactics.json](./223872-tactical-dual-pack-necromunda-underhive-wars-and-space-hulk-tactics.json) |
 | Tactical Fighter | 56947 | [56947-tactical-fighter.json](./56947-tactical-fighter.json) |
+| Tactical Galactical | 119201 | [119201-tactical-galactical.json](./119201-tactical-galactical.json) |
 | Tactical Genius | 35067 | [35067-tactical-genius.json](./35067-tactical-genius.json) |
 | Tactical Ghost | 348125 | [348125-tactical-ghost.json](./348125-tactical-ghost.json) |
 | Tactical Intervention | 5566 | [5566-tactical-intervention.json](./5566-tactical-intervention.json) |
@@ -3983,6 +3984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten++ | 374132 | [374132-ten.json](./374132-ten.json) |
 | Tenable | 133791 | [133791-tenable.json](./133791-tenable.json) |
 | Tenacious | 111202 | [111202-tenacious.json](./111202-tenacious.json) |
+| Tenacious Odyssey: Chimera | 119136 | [119136-tenacious-odyssey-chimera.json](./119136-tenacious-odyssey-chimera.json) |
 | Tenalatro | 305707 | [305707-tenalatro.json](./305707-tenalatro.json) |
 | Tenami | 139011 | [139011-tenami.json](./139011-tenami.json) |
 | Tenancy | 413893 | [413893-tenancy.json](./413893-tenancy.json) |
@@ -16643,6 +16645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ship | 221215 | [221215-the-ship.json](./221215-the-ship.json) |
 | The Ship: Murder Party | 5922 | [5922-the-ship-murder-party.json](./5922-the-ship-murder-party.json) |
 | The Ship: Remasted | 26608 | [26608-the-ship-remasted.json](./26608-the-ship-remasted.json) |
+| The Ship: Single Player | 119176 | [119176-the-ship-single-player.json](./119176-the-ship-single-player.json) |
 | The Shochu Bar | 341011 | [341011-the-shochu-bar.json](./341011-the-shochu-bar.json) |
 | The Shocker | 97630 | [97630-the-shocker.json](./97630-the-shocker.json) |
 | The Shocking World Mysteries | 399791 | [399791-the-shocking-world-mysteries.json](./399791-the-shocking-world-mysteries.json) |
