@@ -1048,6 +1048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultranatural | 337447 | [337447-ultranatural.json](./337447-ultranatural.json) |
 | Ultranium 4 - Breakout Shooter | 89527 | [89527-ultranium-4-breakout-shooter.json](./89527-ultranium-4-breakout-shooter.json) |
 | Ultranium 5 | 99988 | [99988-ultranium-5.json](./99988-ultranium-5.json) |
+| Ultranium3D | 99824 | [99824-ultranium3d.json](./99824-ultranium3d.json) |
 | UltraNothing | 277832 | [277832-ultranothing.json](./277832-ultranothing.json) |
 | Ultranova | 248025 | [248025-ultranova.json](./248025-ultranova.json) |
 | Ultrapong: Sega Version | 398657 | [398657-ultrapong-sega-version.json](./398657-ultrapong-sega-version.json) |
