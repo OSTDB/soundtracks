@@ -6992,6 +6992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhodes | 229023 | [229023-rhodes.json](./229023-rhodes.json) |
 | Rhodesia '72 | 292500 | [292500-rhodesia-72.json](./292500-rhodesia-72.json) |
 | Rhom Bus | 197231 | [197231-rhom-bus.json](./197231-rhom-bus.json) |
+| Rhomb | 97945 | [97945-rhomb.json](./97945-rhomb.json) |
 | Rhombus | 370894 | [370894-rhombus.json](./370894-rhombus.json) |
 | Rhombus Legends | 103619 | [103619-rhombus-legends.json](./103619-rhombus-legends.json) |
 | Rhome | 130273 | [130273-rhome.json](./130273-rhome.json) |
@@ -8526,6 +8527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RNLI Storm Force Rescue | 370398 | [370398-rnli-storm-force-rescue.json](./370398-rnli-storm-force-rescue.json) |
 | Ro | 238286 | [238286-ro.json](./238286-ro.json) |
 | Rô + Fire Race + Scrap Bolts + Milk Seller + Home Sweet Home + Rafa's World | 306552 | [306552-ro-fire-race-scrap-bolts-milk-seller-home-sweet-home-rafas-world.json](./306552-ro-fire-race-scrap-bolts-milk-seller-home-sweet-home-rafas-world.json) |
+| Ro Cannery | 97596 | [97596-ro-cannery.json](./97596-ro-cannery.json) |
 | Ro Sham Bo Rush | 252142 | [252142-ro-sham-bo-rush.json](./252142-ro-sham-bo-rush.json) |
 | Ro-Bounce | 201543 | [201543-ro-bounce.json](./201543-ro-bounce.json) |
 | Ro-Kyu-Bu! Himitsu no Otoshimono | 61406 | [61406-ro-kyu-bu-himitsu-no-otoshimono.json](./61406-ro-kyu-bu-himitsu-no-otoshimono.json) |
