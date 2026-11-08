@@ -279,6 +279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yanderella Death Harem | 314805 | [314805-yanderella-death-harem.json](./314805-yanderella-death-harem.json) |
 | Yanderetale | 145771 | [145771-yanderetale.json](./145771-yanderetale.json) |
 | Yang2020: Path to Presidency | 127468 | [127468-yang2020-path-to-presidency.json](./127468-yang2020-path-to-presidency.json) |
+| YangBo Adventure | 81622 | [81622-yangbo-adventure.json](./81622-yangbo-adventure.json) |
 | Yangshuo Invasion | 321368 | [321368-yangshuo-invasion.json](./321368-yangshuo-invasion.json) |
 | Yánhuáng Dàlù | 130150 | [130150-yanhuang-dalu.json](./130150-yanhuang-dalu.json) |
 | Yankai's Peak. | 43515 | [43515-yankais-peak.json](./43515-yankais-peak.json) |
