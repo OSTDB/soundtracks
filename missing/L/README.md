@@ -307,6 +307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth 2 | 155663 | [155663-labyrinth-2.json](./155663-labyrinth-2.json) |
 | Labyrinth 2 | 96302 | [96302-labyrinth-2.json](./96302-labyrinth-2.json) |
 | Labyrinth 3 | 171066 | [171066-labyrinth-3.json](./171066-labyrinth-3.json) |
+| Labyrinth 3D | 90750 | [90750-labyrinth-3d.json](./90750-labyrinth-3d.json) |
 | Labyrinth Brave | 212538 | [212538-labyrinth-brave.json](./212538-labyrinth-brave.json) |
 | Labyrinth City: Pierre the Maze Detective | 145786 | [145786-labyrinth-city-pierre-the-maze-detective.json](./145786-labyrinth-city-pierre-the-maze-detective.json) |
 | Labyrinth de Terre | 130509 | [130509-labyrinth-de-terre.json](./130509-labyrinth-de-terre.json) |
@@ -2072,6 +2073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Fruit Défendu | 142233 | [142233-le-fruit-defendu.json](./142233-le-fruit-defendu.json) |
 | Le Gardien du Savoir | 340553 | [340553-le-gardien-du-savoir.json](./340553-le-gardien-du-savoir.json) |
 | Le Gars Qui A Fait Doom | 299442 | [299442-le-gars-qui-a-fait-doom.json](./299442-le-gars-qui-a-fait-doom.json) |
+| Le Havre (The Harbor) | 90748 | [90748-le-havre-the-harbor.json](./90748-le-havre-the-harbor.json) |
 | Le Havre: The Inland Port | 24027 | [24027-le-havre-the-inland-port.json](./24027-le-havre-the-inland-port.json) |
 | Le jeu du chômeur | 387285 | [387285-le-jeu-du-chomeur.json](./387285-le-jeu-du-chomeur.json) |
 | Le Loup et le Chien | 346063 | [346063-le-loup-et-le-chien.json](./346063-le-loup-et-le-chien.json) |
@@ -3637,6 +3639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Les Mills XR Bodycombat: Ultimate Fitness Pack | 380565 | [380565-les-mills-xr-bodycombat-ultimate-fitness-pack.json](./380565-les-mills-xr-bodycombat-ultimate-fitness-pack.json) |
 | Les Mills XR Dance | 279396 | [279396-les-mills-xr-dance.json](./279396-les-mills-xr-dance.json) |
 | Les Misérables: Cosette's Fate | 96637 | [96637-les-miserables-cosettes-fate.json](./96637-les-miserables-cosettes-fate.json) |
+| Les Misérables: Jean Valjean | 90757 | [90757-les-miserables-jean-valjean.json](./90757-les-miserables-jean-valjean.json) |
 | Les Portes du Temps | 86023 | [86023-les-portes-du-temps.json](./86023-les-portes-du-temps.json) |
 | Les Quatre Alices | 55490 | [55490-les-quatre-alices.json](./55490-les-quatre-alices.json) |
 | Les Ripoux | 133439 | [133439-les-ripoux.json](./133439-les-ripoux.json) |
@@ -6310,6 +6313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Plane | 246467 | [246467-little-plane.json](./246467-little-plane.json) |
 | Little Planet | 300397 | [300397-little-planet.json](./300397-little-planet.json) |
 | Little Planet: Holiday Update | 380572 | [380572-little-planet-holiday-update.json](./380572-little-planet-holiday-update.json) |
+| Little Police | 90745 | [90745-little-police.json](./90745-little-police.json) |
 | Little Pony Town Adventures | 316925 | [316925-little-pony-town-adventures.json](./316925-little-pony-town-adventures.json) |
 | Little Porp | 236301 | [236301-little-porp.json](./236301-little-porp.json) |
 | Little Postman | 247758 | [247758-little-postman.json](./247758-little-postman.json) |
