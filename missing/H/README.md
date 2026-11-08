@@ -10015,6 +10015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope VR: Emotional Intelligence Assistant | 169926 | [169926-hope-vr-emotional-intelligence-assistant.json](./169926-hope-vr-emotional-intelligence-assistant.json) |
 | Hope We'll Still be Friends Tomorrow | 410251 | [410251-hope-well-still-be-friends-tomorrow.json](./410251-hope-well-still-be-friends-tomorrow.json) |
 | Hope with Island | 283094 | [283094-hope-with-island.json](./283094-hope-with-island.json) |
+| Hope; or How We Survived | 123713 | [123713-hope-or-how-we-survived.json](./123713-hope-or-how-we-survived.json) |
 | Hope: A Potato Story | 350910 | [350910-hope-a-potato-story.json](./350910-hope-a-potato-story.json) |
 | Hope: A Sky Full of Ghosts | 317312 | [317312-hope-a-sky-full-of-ghosts.json](./317312-hope-a-sky-full-of-ghosts.json) |
 | Hope: The Other Side of Adventure | 192900 | [192900-hope-the-other-side-of-adventure.json](./192900-hope-the-other-side-of-adventure.json) |
@@ -10105,6 +10106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horace and the Spiders | 28518 | [28518-horace-and-the-spiders.json](./28518-horace-and-the-spiders.json) |
 | Horace Goes Skiing | 13881 | [13881-horace-goes-skiing.json](./13881-horace-goes-skiing.json) |
 | Horace to the Rescue | 242035 | [242035-horace-to-the-rescue.json](./242035-horace-to-the-rescue.json) |
+| Horace: First Trip | 123724 | [123724-horace-first-trip.json](./123724-horace-first-trip.json) |
 | Horas Extra Terrestres | 298989 | [298989-horas-extra-terrestres.json](./298989-horas-extra-terrestres.json) |
 | Horatama | 157159 | [157159-horatama.json](./157159-horatama.json) |
 | Horatio Goes Snowboarding | 150465 | [150465-horatio-goes-snowboarding.json](./150465-horatio-goes-snowboarding.json) |
@@ -12009,6 +12011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunger in Paradise | 152798 | [152798-hunger-in-paradise.json](./152798-hunger-in-paradise.json) |
 | Hunger Lane | 403687 | [403687-hunger-lane.json](./403687-hunger-lane.json) |
 | Hunger of The Elder Slime | 180846 | [180846-hunger-of-the-elder-slime.json](./180846-hunger-of-the-elder-slime.json) |
+| Hunger Tower | 123710 | [123710-hunger-tower.json](./123710-hunger-tower.json) |
 | Hungover | 131792 | [131792-hungover.json](./131792-hungover.json) |
 | Hungrities | 386695 | [386695-hungrities.json](./386695-hungrities.json) |
 | Hungry | 201646 | [201646-hungry.json](./201646-hungry.json) |
