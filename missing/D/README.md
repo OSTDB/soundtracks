@@ -738,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Central: Rick James - "Super Freak" | 353195 | [353195-dance-central-rick-james-super-freak.json](./353195-dance-central-rick-james-super-freak.json) |
 | Dance Collider | 107360 | [107360-dance-collider.json](./107360-dance-collider.json) |
 | Dance Cube | 277186 | [277186-dance-cube.json](./277186-dance-cube.json) |
+| Dance Dance Girl | 121148 | [121148-dance-dance-girl.json](./121148-dance-dance-girl.json) |
 | Dance Dance Revolution | 135396 | [135396-dance-dance-revolution.json](./135396-dance-dance-revolution.json) |
 | Dance Dance Revolution | 135549 | [135549-dance-dance-revolution.json](./135549-dance-dance-revolution.json) |
 | Dance Dance Revolution | 140274 | [140274-dance-dance-revolution.json](./140274-dance-dance-revolution.json) |
@@ -2196,6 +2197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Wave | 76336 | [76336-darkest-wave.json](./76336-darkest-wave.json) |
 | Darkestville Castle | 59252 | [59252-darkestville-castle.json](./59252-darkestville-castle.json) |
 | Darkevo | 132398 | [132398-darkevo.json](./132398-darkevo.json) |
+| DarkFairyTales SleepingBeauty | 121150 | [121150-darkfairytales-sleepingbeauty.json](./121150-darkfairytales-sleepingbeauty.json) |
 | Darkfall | 303455 | [303455-darkfall.json](./303455-darkfall.json) |
 | Darkfall Shadows | 382549 | [382549-darkfall-shadows.json](./382549-darkfall-shadows.json) |
 | Darkfall Unholy Wars | 8185 | [8185-darkfall-unholy-wars.json](./8185-darkfall-unholy-wars.json) |
@@ -2320,6 +2322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darksiders III: Blades & Whip Edition | 119079 | [119079-darksiders-iii-blades-and-whip-edition.json](./119079-darksiders-iii-blades-and-whip-edition.json) |
 | Darksiders III: Collector's Edition | 45985 | [45985-darksiders-iii-collectors-edition.json](./45985-darksiders-iii-collectors-edition.json) |
 | Darksiders III: DLC Bundle | 227112 | [227112-darksiders-iii-dlc-bundle.json](./227112-darksiders-iii-dlc-bundle.json) |
+| Darksiders III: Keepers of the Void | 121155 | [121155-darksiders-iii-keepers-of-the-void.json](./121155-darksiders-iii-keepers-of-the-void.json) |
 | Darksiders III: The Crucible | 115645 | [115645-darksiders-iii-the-crucible.json](./115645-darksiders-iii-the-crucible.json) |
 | Darksiders: Blades & Whip Franchise Pack | 155255 | [155255-darksiders-blades-and-whip-franchise-pack.json](./155255-darksiders-blades-and-whip-franchise-pack.json) |
 | Darksiders: Fury's Collection - War and Death | 28408 | [28408-darksiders-furys-collection-war-and-death.json](./28408-darksiders-furys-collection-war-and-death.json) |
@@ -4526,6 +4529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death and Betrayal in Romania: A Dana Knightstone Novel | 140129 | [140129-death-and-betrayal-in-romania-a-dana-knightstone-novel.json](./140129-death-and-betrayal-in-romania-a-dana-knightstone-novel.json) |
 | Death and Betrayal in Romania: A Dana Knightstone Novel - Collector's Edition | 107838 | [107838-death-and-betrayal-in-romania-a-dana-knightstone-novel-collectors-edition.json](./107838-death-and-betrayal-in-romania-a-dana-knightstone-novel-collectors-edition.json) |
 | Death and Ladders | 333301 | [333301-death-and-ladders.json](./333301-death-and-ladders.json) |
+| Death and Progress | 121118 | [121118-death-and-progress.json](./121118-death-and-progress.json) |
 | Death and Tactics | 353364 | [353364-death-and-tactics.json](./353364-death-and-tactics.json) |
 | Death and the Fly | 15011 | [15011-death-and-the-fly.json](./15011-death-and-the-fly.json) |
 | Death Angel | 121287 | [121287-death-angel.json](./121287-death-angel.json) |
@@ -8199,6 +8203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devastator Arena | 105210 | [105210-devastator-arena.json](./105210-devastator-arena.json) |
 | Devastators | 39632 | [39632-devastators.json](./39632-devastators.json) |
 | Devastro | 80336 | [80336-devastro.json](./80336-devastro.json) |
+| Devellage | 121126 | [121126-devellage.json](./121126-devellage.json) |
 | Developer Daily | 381390 | [381390-developer-daily.json](./381390-developer-daily.json) |
 | Developer Showdown | 179321 | [179321-developer-showdown.json](./179321-developer-showdown.json) |
 | Devestor | 375808 | [375808-devestor.json](./375808-devestor.json) |
@@ -14902,12 +14907,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball FighterZ: Bardock | 144702 | [144702-dragon-ball-fighterz-bardock.json](./144702-dragon-ball-fighterz-bardock.json) |
 | Dragon Ball FighterZ: Broly | 144701 | [144701-dragon-ball-fighterz-broly.json](./144701-dragon-ball-fighterz-broly.json) |
 | Dragon Ball FighterZ: Broly (DBS) | 165885 | [165885-dragon-ball-fighterz-broly-dbs.json](./165885-dragon-ball-fighterz-broly-dbs.json) |
+| Dragon Ball FighterZ: Collector'z Edition | 121165 | [121165-dragon-ball-fighterz-collectorz-edition.json](./121165-dragon-ball-fighterz-collectorz-edition.json) |
 | Dragon Ball FighterZ: Commentator Voice Pack | 366823 | [366823-dragon-ball-fighterz-commentator-voice-pack.json](./366823-dragon-ball-fighterz-commentator-voice-pack.json) |
 | Dragon Ball FighterZ: Commentator Voice Pack 2 | 366820 | [366820-dragon-ball-fighterz-commentator-voice-pack-2.json](./366820-dragon-ball-fighterz-commentator-voice-pack-2.json) |
 | Dragon Ball FighterZ: Commentator Voice Pack 3 | 366821 | [366821-dragon-ball-fighterz-commentator-voice-pack-3.json](./366821-dragon-ball-fighterz-commentator-voice-pack-3.json) |
 | Dragon Ball FighterZ: Commentator Voice Pack 4 | 366818 | [366818-dragon-ball-fighterz-commentator-voice-pack-4.json](./366818-dragon-ball-fighterz-commentator-voice-pack-4.json) |
 | Dragon Ball FighterZ: Cooler | 144710 | [144710-dragon-ball-fighterz-cooler.json](./144710-dragon-ball-fighterz-cooler.json) |
 | Dragon Ball FighterZ: Daima Pack | 399111 | [399111-dragon-ball-fighterz-daima-pack.json](./399111-dragon-ball-fighterz-daima-pack.json) |
+| Dragon Ball FighterZ: Day One Edition | 121166 | [121166-dragon-ball-fighterz-day-one-edition.json](./121166-dragon-ball-fighterz-day-one-edition.json) |
 | Dragon Ball FighterZ: Dio | 385628 | [385628-dragon-ball-fighterz-dio.json](./385628-dragon-ball-fighterz-dio.json) |
 | Dragon Ball FighterZ: Dragon Ball Daima Pack | 399188 | [399188-dragon-ball-fighterz-dragon-ball-daima-pack.json](./399188-dragon-ball-fighterz-dragon-ball-daima-pack.json) |
 | Dragon Ball FighterZ: Exclusive SS Goku Lobby Avatar | 366822 | [366822-dragon-ball-fighterz-exclusive-ss-goku-lobby-avatar.json](./366822-dragon-ball-fighterz-exclusive-ss-goku-lobby-avatar.json) |
