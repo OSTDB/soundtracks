@@ -3203,6 +3203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Really Trash Game | 137872 | [137872-really-trash-game.json](./137872-really-trash-game.json) |
 | Really Unique Space Shooter | 136237 | [136237-really-unique-space-shooter.json](./136237-really-unique-space-shooter.json) |
 | Really Weird Pool | 152554 | [152554-really-weird-pool.json](./152554-really-weird-pool.json) |
+| Really? Really! | 80080 | [80080-really-really.json](./80080-really-really.json) |
 | Really? Really! RiaRiaDS | 330554 | [330554-really-really-riariads.json](./330554-really-really-riariads.json) |
 | ReallyGoodBattle | 83722 | [83722-reallygoodbattle.json](./83722-reallygoodbattle.json) |
 | Realm | 127516 | [127516-realm.json](./127516-realm.json) |
@@ -7311,6 +7312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riddle of the Runes: The Worlds of TSR | 360172 | [360172-riddle-of-the-runes-the-worlds-of-tsr.json](./360172-riddle-of-the-runes-the-worlds-of-tsr.json) |
 | Riddle of the Sphinx | 174286 | [174286-riddle-of-the-sphinx.json](./174286-riddle-of-the-sphinx.json) |
 | Riddle of the Sphinx | 18480 | [18480-riddle-of-the-sphinx.json](./18480-riddle-of-the-sphinx.json) |
+| Riddle of the Sphinx: An Egyptian Adventure | 80076 | [80076-riddle-of-the-sphinx-an-egyptian-adventure.json](./80076-riddle-of-the-sphinx-an-egyptian-adventure.json) |
 | Riddle of the Sphinx: Moonlight Exploration | 169930 | [169930-riddle-of-the-sphinx-moonlight-exploration.json](./169930-riddle-of-the-sphinx-moonlight-exploration.json) |
 | Riddle of the Sphinx: The Awakening - Gil's Secret Library | 164632 | [164632-riddle-of-the-sphinx-the-awakening-gils-secret-library.json](./164632-riddle-of-the-sphinx-the-awakening-gils-secret-library.json) |
 | Riddle School | 56438 | [56438-riddle-school.json](./56438-riddle-school.json) |
