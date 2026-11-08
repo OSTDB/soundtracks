@@ -2551,6 +2551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watermelon Simulator | 325627 | [325627-watermelon-simulator.json](./325627-watermelon-simulator.json) |
 | Watermelon Wars | 190380 | [190380-watermelon-wars.json](./190380-watermelon-wars.json) |
 | Watermelon's Adventure | 310621 | [310621-watermelons-adventure.json](./310621-watermelons-adventure.json) |
+| Watermill | 119142 | [119142-watermill.json](./119142-watermill.json) |
 | Waternet | 210651 | [210651-waternet.json](./210651-waternet.json) |
 | Waternet | 230717 | [230717-waternet.json](./230717-waternet.json) |
 | Waternet | 233609 | [233609-waternet.json](./233609-waternet.json) |
@@ -9143,6 +9144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WRC Generations: Peugeot 206 WRC 2002 | 231224 | [231224-wrc-generations-peugeot-206-wrc-2002.json](./231224-wrc-generations-peugeot-206-wrc-2002.json) |
 | WRC II Extreme | 8314 | [8314-wrc-ii-extreme.json](./8314-wrc-ii-extreme.json) |
 | WRC Powerslide | 19972 | [19972-wrc-powerslide.json](./19972-wrc-powerslide.json) |
+| WRC: FIA World Rally Championship | 119183 | [119183-wrc-fia-world-rally-championship.json](./119183-wrc-fia-world-rally-championship.json) |
 | WRC: FIA World Rally Championship | 7250 | [7250-wrc-fia-world-rally-championship.json](./7250-wrc-fia-world-rally-championship.json) |
 | WRC: FIA World Rally Championship - The Official Game | 252500 | [252500-wrc-fia-world-rally-championship-the-official-game.json](./252500-wrc-fia-world-rally-championship-the-official-game.json) |
 | WRC: FIA World Rally Championship Arcade | 79734 | [79734-wrc-fia-world-rally-championship-arcade.json](./79734-wrc-fia-world-rally-championship-arcade.json) |
@@ -9562,6 +9564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE SuperCard | 79072 | [79072-wwe-supercard.json](./79072-wwe-supercard.json) |
 | WWE Tap Mania | 69501 | [69501-wwe-tap-mania.json](./69501-wwe-tap-mania.json) |
 | WWE Undefeated | 140927 | [140927-wwe-undefeated.json](./140927-wwe-undefeated.json) |
+| WWE Universe | 119174 | [119174-wwe-universe.json](./119174-wwe-universe.json) |
 | WWE With Authority! | 64173 | [64173-wwe-with-authority.json](./64173-wwe-with-authority.json) |
 | WWE WrestleFest | 95393 | [95393-wwe-wrestlefest.json](./95393-wwe-wrestlefest.json) |
 | WWE WrestleMania 21 | 6251 | [6251-wwe-wrestlemania-21.json](./6251-wwe-wrestlemania-21.json) |
