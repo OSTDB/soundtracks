@@ -561,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octillery Vs. Collection | 399055 | [399055-octillery-vs-collection.json](./399055-octillery-vs-collection.json) |
 | Octo Crank | 418589 | [418589-octo-crank.json](./418589-octo-crank.json) |
 | Octo Curse | 251015 | [251015-octo-curse.json](./251015-octo-curse.json) |
+| Octo Gravity | 104203 | [104203-octo-gravity.json](./104203-octo-gravity.json) |
 | Octo Vinctum: Saga of the Galactic Stardom War | 197124 | [197124-octo-vinctum-saga-of-the-galactic-stardom-war.json](./197124-octo-vinctum-saga-of-the-galactic-stardom-war.json) |
 | Octo's Balloon Challenge | 301022 | [301022-octos-balloon-challenge.json](./301022-octos-balloon-challenge.json) |
 | October Night Games | 138514 | [138514-october-night-games.json](./138514-october-night-games.json) |
@@ -3172,6 +3173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Up? Climb the Tower! | 343245 | [343245-only-up-climb-the-tower.json](./343245-only-up-climb-the-tower.json) |
 | Only Way is Down | 304447 | [304447-only-way-is-down.json](./304447-only-way-is-down.json) |
 | Only Way Up! Parkour Jump Simulator | 266245 | [266245-only-way-up-parkour-jump-simulator.json](./266245-only-way-up-parkour-jump-simulator.json) |
+| Only When Howling | 104198 | [104198-only-when-howling.json](./104198-only-when-howling.json) |
 | Only Whores Survive | 370466 | [370466-only-whores-survive.json](./370466-only-whores-survive.json) |
 | Only Wish | 267062 | [267062-only-wish.json](./267062-only-wish.json) |
 | Only You | 397287 | [397287-only-you.json](./397287-only-you.json) |
@@ -4037,6 +4039,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orca | 301336 | [301336-orca.json](./301336-orca.json) |
 | Orca 2: O Mistério de Wakkita | 261950 | [261950-orca-2-o-misterio-de-wakkita.json](./261950-orca-2-o-misterio-de-wakkita.json) |
 | Orca 3: A Maldição dos Barbatantes | 261951 | [261951-orca-3-a-maldicao-dos-barbatantes.json](./261951-orca-3-a-maldicao-dos-barbatantes.json) |
+| Orca Simulator | 104287 | [104287-orca-simulator.json](./104287-orca-simulator.json) |
 | Orca: a lenda dos mares | 261949 | [261949-orca-a-lenda-dos-mares.json](./261949-orca-a-lenda-dos-mares.json) |
 | OrcCraft | 97080 | [97080-orccraft.json](./97080-orccraft.json) |
 | Orcdom | 309794 | [309794-orcdom.json](./309794-orcdom.json) |
