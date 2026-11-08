@@ -2932,6 +2932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtuverse | 131082 | [131082-virtuverse.json](./131082-virtuverse.json) |
 | Virtuxy | 157109 | [157109-virtuxy.json](./157109-virtuxy.json) |
 | Virulence | 189852 | [189852-virulence.json](./189852-virulence.json) |
+| Virulent Addiction | 123723 | [123723-virulent-addiction.json](./123723-virulent-addiction.json) |
 | Virulent Vessels: The Legend of Gobbledygunk | 317985 | [317985-virulent-vessels-the-legend-of-gobbledygunk.json](./317985-virulent-vessels-the-legend-of-gobbledygunk.json) |
 | Virus | 12812 | [12812-virus.json](./12812-virus.json) |
 | Virus | 176684 | [176684-virus.json](./176684-virus.json) |
