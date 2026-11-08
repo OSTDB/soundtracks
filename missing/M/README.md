@@ -1280,6 +1280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Pen Tracing Book | 400061 | [400061-magic-pen-tracing-book.json](./400061-magic-pen-tracing-book.json) |
 | Magic Pengel: The Quest for Color | 11357 | [11357-magic-pengel-the-quest-for-color.json](./11357-magic-pengel-the-quest-for-color.json) |
 | Magic Petals | 100987 | [100987-magic-petals.json](./100987-magic-petals.json) |
+| Magic Piano by Smule | 126147 | [126147-magic-piano-by-smule.json](./126147-magic-piano-by-smule.json) |
 | Magic Piano Tiles 2018 | 106224 | [106224-magic-piano-tiles-2018.json](./106224-magic-piano-tiles-2018.json) |
 | Magic Piano Tiles 2018 - Music Game | 110594 | [110594-magic-piano-tiles-2018-music-game.json](./110594-magic-piano-tiles-2018-music-game.json) |
 | Magic Pixel Picross | 54449 | [54449-magic-pixel-picross.json](./54449-magic-pixel-picross.json) |
@@ -2146,6 +2147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahou Kishi Rayearth 2nd: The Missing Colors | 105046 | [105046-mahou-kishi-rayearth-2nd-the-missing-colors.json](./105046-mahou-kishi-rayearth-2nd-the-missing-colors.json) |
 | Mahou Mating | 128014 | [128014-mahou-mating.json](./128014-mahou-mating.json) |
 | Mahou no Palette | 77765 | [77765-mahou-no-palette.json](./77765-mahou-no-palette.json) |
+| Mahou no Princess Minky Momo Fantastic World | 126117 | [126117-mahou-no-princess-minky-momo-fantastic-world.json](./126117-mahou-no-princess-minky-momo-fantastic-world.json) |
 | Mahou no Princess Minky Momo: Remember Dream | 61432 | [61432-mahou-no-princess-minky-momo-remember-dream.json](./61432-mahou-no-princess-minky-momo-remember-dream.json) |
 | Mahou no Shippo na | 69587 | [69587-mahou-no-shippo-na.json](./69587-mahou-no-shippo-na.json) |
 | Mahou no Shippo na 3 | 80260 | [80260-mahou-no-shippo-na-3.json](./80260-mahou-no-shippo-na-3.json) |
@@ -18161,6 +18163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocross Urban Fever | 330760 | [330760-motocross-urban-fever.json](./330760-motocross-urban-fever.json) |
 | Motocross Wheelie King | 237580 | [237580-motocross-wheelie-king.json](./237580-motocross-wheelie-king.json) |
 | Motocross Zombie HD | 100736 | [100736-motocross-zombie-hd.json](./100736-motocross-zombie-hd.json) |
+| Motocross: Chasing the Dream | 126116 | [126116-motocross-chasing-the-dream.json](./126116-motocross-chasing-the-dream.json) |
 | Motocross: The Force | 270211 | [270211-motocross-the-force.json](./270211-motocross-the-force.json) |
 | Motocross: Trial Extreme | 239472 | [239472-motocross-trial-extreme.json](./239472-motocross-trial-extreme.json) |
 | MotoGP | 131087 | [131087-motogp.json](./131087-motogp.json) |
@@ -18462,6 +18465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mounted War | 336691 | [336691-mounted-war.json](./336691-mounted-war.json) |
 | Mountinuum | 285047 | [285047-mountinuum.json](./285047-mountinuum.json) |
 | Mountris | 341639 | [341639-mountris.json](./341639-mountris.json) |
+| Mountyhall | 126170 | [126170-mountyhall.json](./126170-mountyhall.json) |
 | Mouri Motonari: Chikai no Sanshi | 419639 | [419639-mouri-motonari-chikai-no-sanshi.json](./419639-mouri-motonari-chikai-no-sanshi.json) |
 | Mourir en mer | 70435 | [70435-mourir-en-mer.json](./70435-mourir-en-mer.json) |
 | Mourn-born | 204938 | [204938-mourn-born.json](./204938-mourn-born.json) |
