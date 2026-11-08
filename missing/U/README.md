@@ -1574,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Undead Uprising | 270871 | [270871-undead-uprising.json](./270871-undead-uprising.json) |
 | Undead Village | 244375 | [244375-undead-village.json](./244375-undead-village.json) |
 | Undead vs. Plants | 18120 | [18120-undead-vs-plants.json](./18120-undead-vs-plants.json) |
+| Undead Walking Experiment | 106724 | [106724-undead-walking-experiment.json](./106724-undead-walking-experiment.json) |
 | Undead West | 269587 | [269587-undead-west.json](./269587-undead-west.json) |
 | Undead Wilderness | 257257 | [257257-undead-wilderness.json](./257257-undead-wilderness.json) |
 | Undead World | 226488 | [226488-undead-world.json](./226488-undead-world.json) |
