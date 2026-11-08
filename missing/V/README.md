@@ -2955,6 +2955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus Brain | 374294 | [374294-virus-brain.json](./374294-virus-brain.json) |
 | Virus Brotherhood | 387752 | [387752-virus-brotherhood.json](./387752-virus-brotherhood.json) |
 | Virus Crashers | 29654 | [29654-virus-crashers.json](./29654-virus-crashers.json) |
+| Virus Crisis | 115911 | [115911-virus-crisis.json](./115911-virus-crisis.json) |
 | Virus Explosion | 119250 | [119250-virus-explosion.json](./119250-virus-explosion.json) |
 | Virus Hunter | 323002 | [323002-virus-hunter.json](./323002-virus-hunter.json) |
 | Virus Infinite | 252591 | [252591-virus-infinite.json](./252591-virus-infinite.json) |
