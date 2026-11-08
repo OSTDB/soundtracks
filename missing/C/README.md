@@ -10615,6 +10615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloaks and Capes | 148471 | [148471-cloaks-and-capes.json](./148471-cloaks-and-capes.json) |
 | Clobber Barons | 356800 | [356800-clobber-barons.json](./356800-clobber-barons.json) |
 | Clobbr | 62807 | [62807-clobbr.json](./62807-clobbr.json) |
+| Clock Faces | 133538 | [133538-clock-faces.json](./133538-clock-faces.json) |
 | Clock Game | 369210 | [369210-clock-game.json](./369210-clock-game.json) |
 | Clock Mayhem | 414580 | [414580-clock-mayhem.json](./414580-clock-mayhem.json) |
 | Clock of Atonement | 240491 | [240491-clock-of-atonement.json](./240491-clock-of-atonement.json) |
@@ -18501,6 +18502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crownless Abyss | 251767 | [251767-crownless-abyss.json](./251767-crownless-abyss.json) |
 | Crownrats | 410243 | [410243-crownrats.json](./410243-crownrats.json) |
 | Crowns and Pawns: Amber Road | 417328 | [417328-crowns-and-pawns-amber-road.json](./417328-crowns-and-pawns-amber-road.json) |
+| Crowns Golf | 133532 | [133532-crowns-golf.json](./133532-crowns-golf.json) |
 | Crowns of Medieval Europe | 422776 | [422776-crowns-of-medieval-europe.json](./422776-crowns-of-medieval-europe.json) |
 | Crowns of Power | 138544 | [138544-crowns-of-power.json](./138544-crowns-of-power.json) |
 | Crownseeker | 399443 | [399443-crownseeker.json](./399443-crownseeker.json) |
