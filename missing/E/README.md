@@ -5838,6 +5838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escaping Wonderland | 306956 | [306956-escaping-wonderland.json](./306956-escaping-wonderland.json) |
 | Escapism Ltd. | 308869 | [308869-escapism-ltd.json](./308869-escapism-ltd.json) |
 | Escapology | 174582 | [174582-escapology.json](./174582-escapology.json) |
+| Escapos | 109153 | [109153-escapos.json](./109153-escapos.json) |
 | Escargot | 119975 | [119975-escargot.json](./119975-escargot.json) |
 | Escargot Kart | 32415 | [32415-escargot-kart.json](./32415-escargot-kart.json) |
 | Escatpade | 374083 | [374083-escatpade.json](./374083-escatpade.json) |
