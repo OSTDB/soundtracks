@@ -9275,6 +9275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Myth: Destiny Man | 320608 | [320608-black-myth-destiny-man.json](./320608-black-myth-destiny-man.json) |
 | Black Myth: Heaven | 339342 | [339342-black-myth-heaven.json](./339342-black-myth-heaven.json) |
 | Black Myth: Zhong Kui | 361900 | [361900-black-myth-zhong-kui.json](./361900-black-myth-zhong-kui.json) |
+| Black Navy War | 101719 | [101719-black-navy-war.json](./101719-black-navy-war.json) |
 | Black Noir | 133147 | [133147-black-noir.json](./133147-black-noir.json) |
 | Black Ocean | 290645 | [290645-black-ocean.json](./290645-black-ocean.json) |
 | Black Omens: House of Crimson Silk | 387539 | [387539-black-omens-house-of-crimson-silk.json](./387539-black-omens-house-of-crimson-silk.json) |
@@ -10749,6 +10750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Racer | 251342 | [251342-block-racer.json](./251342-block-racer.json) |
 | Block Rancher | 310248 | [310248-block-rancher.json](./310248-block-rancher.json) |
 | Block Robot Mini Survival Game | 41918 | [41918-block-robot-mini-survival-game.json](./41918-block-robot-mini-survival-game.json) |
+| Block Rockin' | 101149 | [101149-block-rockin.json](./101149-block-rockin.json) |
 | Block Rocking Beats | 37380 | [37380-block-rocking-beats.json](./37380-block-rocking-beats.json) |
 | Block Room | 259452 | [259452-block-room.json](./259452-block-room.json) |
 | Block Royale | 30589 | [30589-block-royale.json](./30589-block-royale.json) |
@@ -12399,6 +12401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Body Harvest: Recompiled | 418633 | [418633-body-harvest-recompiled.json](./418633-body-harvest-recompiled.json) |
 | Body Hiding Simulator | 400689 | [400689-body-hiding-simulator.json](./400689-body-hiding-simulator.json) |
 | Body Kounts | 423863 | [423863-body-kounts.json](./423863-body-kounts.json) |
+| Body Ladder | 101722 | [101722-body-ladder.json](./101722-body-ladder.json) |
 | Body Language | 68034 | [68034-body-language.json](./68034-body-language.json) |
 | Body of Mine | 302198 | [302198-body-of-mine.json](./302198-body-of-mine.json) |
 | Body of Work | 281443 | [281443-body-of-work.json](./281443-body-of-work.json) |
@@ -13177,6 +13180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BonVoyage! | 118785 | [118785-bonvoyage.json](./118785-bonvoyage.json) |
 | Bonx | 92059 | [92059-bonx.json](./92059-bonx.json) |
 | Bony Bones Adventures | 303358 | [303358-bony-bones-adventures.json](./303358-bony-bones-adventures.json) |
+| Bonza Jigsaw | 101158 | [101158-bonza-jigsaw.json](./101158-bonza-jigsaw.json) |
 | Bonza Phrases | 268814 | [268814-bonza-phrases.json](./268814-bonza-phrases.json) |
 | Bonza Planet | 354445 | [354445-bonza-planet.json](./354445-bonza-planet.json) |
 | Bonza Word Puzzle | 61152 | [61152-bonza-word-puzzle.json](./61152-bonza-word-puzzle.json) |
@@ -16963,6 +16967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubblegum Crash | 43201 | [43201-bubblegum-crash.json](./43201-bubblegum-crash.json) |
 | Bubblegum Crisis: Crime Wave | 274889 | [274889-bubblegum-crisis-crime-wave.json](./274889-bubblegum-crisis-crime-wave.json) |
 | Bubblegum Galaxy | 204519 | [204519-bubblegum-galaxy.json](./204519-bubblegum-galaxy.json) |
+| Bubblegum Hero | 101160 | [101160-bubblegum-hero.json](./101160-bubblegum-hero.json) |
 | BubbleGum: Push | 368249 | [368249-bubblegum-push.json](./368249-bubblegum-push.json) |
 | Bubbler | 13448 | [13448-bubbler.json](./13448-bubbler.json) |
 | Bubbler | 362008 | [362008-bubbler.json](./362008-bubbler.json) |
