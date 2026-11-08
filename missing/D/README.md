@@ -1451,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark City: Budapest | 397157 | [397157-dark-city-budapest.json](./397157-dark-city-budapest.json) |
 | Dark City: Budapest - Collector's Edition | 397158 | [397158-dark-city-budapest-collectors-edition.json](./397158-dark-city-budapest-collectors-edition.json) |
 | Dark City: Dublin | 139760 | [139760-dark-city-dublin.json](./139760-dark-city-dublin.json) |
+| Dark City: Dublin - Collector's Edition | 132936 | [132936-dark-city-dublin-collectors-edition.json](./132936-dark-city-dublin-collectors-edition.json) |
 | Dark City: International Intrigue | 244198 | [244198-dark-city-international-intrigue.json](./244198-dark-city-international-intrigue.json) |
 | Dark City: International Intrigue - Collector's Edition | 224982 | [224982-dark-city-international-intrigue-collectors-edition.json](./224982-dark-city-international-intrigue-collectors-edition.json) |
 | Dark City: Kyiv | 397180 | [397180-dark-city-kyiv.json](./397180-dark-city-kyiv.json) |
@@ -10990,6 +10991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disruptor | 20654 | [20654-disruptor.json](./20654-disruptor.json) |
 | Diss Diss Discussion | 415444 | [415444-diss-diss-discussion.json](./415444-diss-diss-discussion.json) |
 | Dissecting Love | 291373 | [291373-dissecting-love.json](./291373-dissecting-love.json) |
+| Dissection | 132950 | [132950-dissection.json](./132950-dissection.json) |
 | Dissection Simulator: Dogfish Edition | 171575 | [171575-dissection-simulator-dogfish-edition.json](./171575-dissection-simulator-dogfish-edition.json) |
 | Dissection Simulator: Frog Edition | 171707 | [171707-dissection-simulator-frog-edition.json](./171707-dissection-simulator-frog-edition.json) |
 | Dissension | 202720 | [202720-dissension.json](./202720-dissension.json) |
@@ -11248,6 +11250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Journey 2: The Five Books of Moses | 288721 | [288721-divine-journey-2-the-five-books-of-moses.json](./288721-divine-journey-2-the-five-books-of-moses.json) |
 | Divine Journey: The Life of Jesus | 280199 | [280199-divine-journey-the-life-of-jesus.json](./280199-divine-journey-the-life-of-jesus.json) |
 | Divine Justice Zero | 65757 | [65757-divine-justice-zero.json](./65757-divine-justice-zero.json) |
+| Divine Legacy | 132942 | [132942-divine-legacy.json](./132942-divine-legacy.json) |
 | Divine Legacy: Neo Amburia | 343739 | [343739-divine-legacy-neo-amburia.json](./343739-divine-legacy-neo-amburia.json) |
 | Divine Light | 313659 | [313659-divine-light.json](./313659-divine-light.json) |
 | Divine Miko Koyori | 122451 | [122451-divine-miko-koyori.json](./122451-divine-miko-koyori.json) |
