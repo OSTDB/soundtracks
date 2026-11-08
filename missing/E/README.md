@@ -1359,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edo no Kiba | 42389 | [42389-edo-no-kiba.json](./42389-edo-no-kiba.json) |
 | Edogawa Ranpo no Kaijin Nijuu Mensou DS | 421197 | [421197-edogawa-ranpo-no-kaijin-nijuu-mensou-ds.json](./421197-edogawa-ranpo-no-kaijin-nijuu-mensou-ds.json) |
 | Edolie | 35755 | [35755-edolie.json](./35755-edolie.json) |
+| eDominations | 99043 | [99043-edominations.json](./99043-edominations.json) |
 | EdoPro | 234123 | [234123-edopro.json](./234123-edopro.json) |
 | Edouard Roivas: The Eye of Law | 310413 | [310413-edouard-roivas-the-eye-of-law.json](./310413-edouard-roivas-the-eye-of-law.json) |
 | EDP 445 Simulator | 370078 | [370078-edp-445-simulator.json](./370078-edp-445-simulator.json) |
@@ -1403,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EEP 15 | 112615 | [112615-eep-15.json](./112615-eep-15.json) |
 | EEP 17 | 193588 | [193588-eep-17.json](./193588-eep-17.json) |
 | EEP Train Simulator Mission | 33266 | [33266-eep-train-simulator-mission.json](./33266-eep-train-simulator-mission.json) |
+| EEP TSM Gotthard | 99066 | [99066-eep-tsm-gotthard.json](./99066-eep-tsm-gotthard.json) |
 | Eerie Desolation | 272772 | [272772-eerie-desolation.json](./272772-eerie-desolation.json) |
 | Eerie Dossier: The Haunted Apartment | 391339 | [391339-eerie-dossier-the-haunted-apartment.json](./391339-eerie-dossier-the-haunted-apartment.json) |
 | Eerie Excavation | 301847 | [301847-eerie-excavation.json](./301847-eerie-excavation.json) |
