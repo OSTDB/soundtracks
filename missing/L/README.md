@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lab Chaos | 138533 | [138533-lab-chaos.json](./138533-lab-chaos.json) |
 | Lab Craft Survival | 150786 | [150786-lab-craft-survival.json](./150786-lab-craft-survival.json) |
 | Lab Crisis | 205580 | [205580-lab-crisis.json](./205580-lab-crisis.json) |
+| LAB Defence | 120469 | [120469-lab-defence.json](./120469-lab-defence.json) |
 | Lab Eject | 368595 | [368595-lab-eject.json](./368595-lab-eject.json) |
 | Lab Escape | 160273 | [160273-lab-escape.json](./160273-lab-escape.json) |
 | Lab Escape | 358037 | [358037-lab-escape.json](./358037-lab-escape.json) |
