@@ -3203,6 +3203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Patience Balls | 392789 | [392789-patience-balls.json](./392789-patience-balls.json) |
 | Patience Is a Virtue | 404703 | [404703-patience-is-a-virtue.json](./404703-patience-is-a-virtue.json) |
 | Patience Playdate | 276722 | [276722-patience-playdate.json](./276722-patience-playdate.json) |
+| Patience Solitaire | 96814 | [96814-patience-solitaire.json](./96814-patience-solitaire.json) |
 | Patient | 197040 | [197040-patient.json](./197040-patient.json) |
 | Patient 001 | 331395 | [331395-patient-001.json](./331395-patient-001.json) |
 | Patient No. 26 | 291841 | [291841-patient-no-26.json](./291841-patient-no-26.json) |
@@ -3325,6 +3326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paw Patrol Bundle | 150141 | [150141-paw-patrol-bundle.json](./150141-paw-patrol-bundle.json) |
 | PAW Patrol Collection | 137559 | [137559-paw-patrol-collection.json](./137559-paw-patrol-collection.json) |
 | PAW Patrol Mighty Pups: Save Adventure Bay! | 137276 | [137276-paw-patrol-mighty-pups-save-adventure-bay.json](./137276-paw-patrol-mighty-pups-save-adventure-bay.json) |
+| Paw Patrol Sea Patrol | 96817 | [96817-paw-patrol-sea-patrol.json](./96817-paw-patrol-sea-patrol.json) |
 | Paw Patrol the Movie: Adventure City Calls | 152302 | [152302-paw-patrol-the-movie-adventure-city-calls.json](./152302-paw-patrol-the-movie-adventure-city-calls.json) |
 | Paw Patrol To The Rescue! Learning Video Game | 274682 | [274682-paw-patrol-to-the-rescue-learning-video-game.json](./274682-paw-patrol-to-the-rescue-learning-video-game.json) |
 | Paw Patrol World: Aqua Pups - Costume Pack | 272231 | [272231-paw-patrol-world-aqua-pups-costume-pack.json](./272231-paw-patrol-world-aqua-pups-costume-pack.json) |
@@ -4968,6 +4970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Pat | 221568 | [221568-pet-pat.json](./221568-pet-pat.json) |
 | Pet Peaves Monsters | 232168 | [232168-pet-peaves-monsters.json](./232168-pet-peaves-monsters.json) |
 | Pet Puzzle | 119025 | [119025-pet-puzzle.json](./119025-pet-puzzle.json) |
+| Pet Rabbit 3D Simulator | 96807 | [96807-pet-rabbit-3d-simulator.json](./96807-pet-rabbit-3d-simulator.json) |
 | Pet Rescue Saga | 60077 | [60077-pet-rescue-saga.json](./60077-pet-rescue-saga.json) |
 | Pet Rock | 207997 | [207997-pet-rock.json](./207997-pet-rock.json) |
 | Pet Rock Duty | 278994 | [278994-pet-rock-duty.json](./278994-pet-rock-duty.json) |
@@ -10367,11 +10370,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumber | 343771 | [343771-plumber.json](./343771-plumber.json) |
 | Plumber 3 | 168113 | [168113-plumber-3.json](./168113-plumber-3.json) |
 | Plumber 3D | 336908 | [336908-plumber-3d.json](./336908-plumber-3d.json) |
+| Plumber 994 | 96816 | [96816-plumber-994.json](./96816-plumber-994.json) |
 | Plumber Bundle 3 in 1 | 251122 | [251122-plumber-bundle-3-in-1.json](./251122-plumber-bundle-3-in-1.json) |
 | Plumber Game: Water Pipe Line Connecting | 96002 | [96002-plumber-game-water-pipe-line-connecting.json](./96002-plumber-game-water-pipe-line-connecting.json) |
 | Plumber Hero | 192079 | [192079-plumber-hero.json](./192079-plumber-hero.json) |
 | Plumber No More | 184109 | [184109-plumber-no-more.json](./184109-plumber-no-more.json) |
 | Plumber Pickle | 392742 | [392742-plumber-pickle.json](./392742-plumber-pickle.json) |
+| Plumber Pipe Connect | 96824 | [96824-plumber-pipe-connect.json](./96824-plumber-pipe-connect.json) |
 | Plumber Puzzles | 180965 | [180965-plumber-puzzles.json](./180965-plumber-puzzles.json) |
 | Plumber Survivors | 292472 | [292472-plumber-survivors.json](./292472-plumber-survivors.json) |
 | Plumber Waluigi | 323352 | [323352-plumber-waluigi.json](./323352-plumber-waluigi.json) |
@@ -10540,6 +10545,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Bomberman | 2980 | [2980-pocket-bomberman.json](./2980-pocket-bomberman.json) |
 | Pocket Bomberman Blast Heroes | 232511 | [232511-pocket-bomberman-blast-heroes.json](./232511-pocket-bomberman-blast-heroes.json) |
 | Pocket Boss | 347684 | [347684-pocket-boss.json](./347684-pocket-boss.json) |
+| Pocket Bowling | 96797 | [96797-pocket-bowling.json](./96797-pocket-bowling.json) |
+| Pocket Bowling | 96819 | [96819-pocket-bowling.json](./96819-pocket-bowling.json) |
 | Pocket Bravery | 145354 | [145354-pocket-bravery.json](./145354-pocket-bravery.json) |
 | Pocket Bravery MD | 414847 | [414847-pocket-bravery-md.json](./414847-pocket-bravery-md.json) |
 | Pocket Bravery: Rick | 389552 | [389552-pocket-bravery-rick.json](./389552-pocket-bravery-rick.json) |
@@ -10572,6 +10579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Dinosaurs to the Moon | 233182 | [233182-pocket-dinosaurs-to-the-moon.json](./233182-pocket-dinosaurs-to-the-moon.json) |
 | Pocket Dogfights | 96224 | [96224-pocket-dogfights.json](./96224-pocket-dogfights.json) |
 | Pocket Dogs | 49357 | [49357-pocket-dogs.json](./49357-pocket-dogs.json) |
+| Pocket Dragon GO AR | 96784 | [96784-pocket-dragon-go-ar.json](./96784-pocket-dragon-go-ar.json) |
 | Pocket Drift Rally | 391833 | [391833-pocket-drift-rally.json](./391833-pocket-drift-rally.json) |
 | Pocket Dungeon | 255517 | [255517-pocket-dungeon.json](./255517-pocket-dungeon.json) |
 | Pocket Dungeon | 83333 | [83333-pocket-dungeon.json](./83333-pocket-dungeon.json) |
@@ -10732,6 +10740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Sakura | 198648 | [198648-pocket-sakura.json](./198648-pocket-sakura.json) |
 | Pocket Sheep | 181588 | [181588-pocket-sheep.json](./181588-pocket-sheep.json) |
 | Pocket Shooter Hardcore | 57691 | [57691-pocket-shooter-hardcore.json](./57691-pocket-shooter-hardcore.json) |
+| Pocket Shrek | 96798 | [96798-pocket-shrek.json](./96798-pocket-shrek.json) |
 | Pocket Size Epoch-Man | 284221 | [284221-pocket-size-epoch-man.json](./284221-pocket-size-epoch-man.json) |
 | Pocket Skate | 214020 | [214020-pocket-skate.json](./214020-pocket-skate.json) |
 | Pocket Slaughter | 257417 | [257417-pocket-slaughter.json](./257417-pocket-slaughter.json) |
@@ -14092,6 +14101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PPAP: The Game | 291922 | [291922-ppap-the-game.json](./291922-ppap-the-game.json) |
 | PPD | 380180 | [380180-ppd.json](./380180-ppd.json) |
 | PPDD | 121266 | [121266-ppdd.json](./121266-ppdd.json) |
+| PPKP | 96800 | [96800-ppkp.json](./96800-ppkp.json) |
 | ppL: The Animated Adventures | 151920 | [151920-ppl-the-animated-adventures.json](./151920-ppl-the-animated-adventures.json) |
 | Ppoi: Hitonatsu no Keiken | 203373 | [203373-ppoi-hitonatsu-no-keiken.json](./203373-ppoi-hitonatsu-no-keiken.json) |
 | Pporite | 240599 | [240599-pporite.json](./240599-pporite.json) |
@@ -16403,6 +16413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project One-Room | 68363 | [68363-project-one-room.json](./68363-project-one-room.json) |
 | Project Onne | 400283 | [400283-project-onne.json](./400283-project-onne.json) |
 | Project Onyx | 143438 | [143438-project-onyx.json](./143438-project-onyx.json) |
+| Project Open Auto City Beta | 96793 | [96793-project-open-auto-city-beta.json](./96793-project-open-auto-city-beta.json) |
 | Project Orpheus | 119264 | [119264-project-orpheus.json](./119264-project-orpheus.json) |
 | Project Osiris: Alien Breed 3D | 165467 | [165467-project-osiris-alien-breed-3d.json](./165467-project-osiris-alien-breed-3d.json) |
 | Project Otherside | 265307 | [265307-project-otherside.json](./265307-project-otherside.json) |
@@ -18783,6 +18794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Herder | 117981 | [117981-puzzle-herder.json](./117981-puzzle-herder.json) |
 | Puzzle Hero | 206044 | [206044-puzzle-hero.json](./206044-puzzle-hero.json) |
 | Puzzle Hero | 53484 | [53484-puzzle-hero.json](./53484-puzzle-hero.json) |
+| Puzzle House: Mystery Rising | 96788 | [96788-puzzle-house-mystery-rising.json](./96788-puzzle-house-mystery-rising.json) |
 | Puzzle Hub | 124461 | [124461-puzzle-hub.json](./124461-puzzle-hub.json) |
 | Puzzle Inlay | 184281 | [184281-puzzle-inlay.json](./184281-puzzle-inlay.json) |
 | Puzzle Iroiro: Gekkan Crossword House Vol.1 | 78894 | [78894-puzzle-iroiro-gekkan-crossword-house-vol-1.json](./78894-puzzle-iroiro-gekkan-crossword-house-vol-1.json) |
