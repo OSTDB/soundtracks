@@ -10950,6 +10950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sim Taxi 2 | 271379 | [271379-sim-taxi-2.json](./271379-sim-taxi-2.json) |
 | Sim the Sand | 265298 | [265298-sim-the-sand.json](./265298-sim-the-sand.json) |
 | Sim Theme Park | 12484 | [12484-sim-theme-park.json](./12484-sim-theme-park.json) |
+| Sim Tycoon Story | 137753 | [137753-sim-tycoon-story.json](./137753-sim-tycoon-story.json) |
 | Sim: Heavyweight Boxing Champion | 397264 | [397264-sim-heavyweight-boxing-champion.json](./397264-sim-heavyweight-boxing-champion.json) |
 | SIM: Simple Idle Miner | 309462 | [309462-sim-simple-idle-miner.json](./309462-sim-simple-idle-miner.json) |
 | SimAirport | 27686 | [27686-simairport.json](./27686-simairport.json) |
@@ -19841,6 +19842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Frontier | 386380 | [386380-space-frontier.json](./386380-space-frontier.json) |
 | Space Frontier 2 | 101163 | [101163-space-frontier-2.json](./101163-space-frontier-2.json) |
 | Space Fuck! | 199193 | [199193-space-fuck.json](./199193-space-fuck.json) |
+| Space Fuel | 137754 | [137754-space-fuel.json](./137754-space-fuel.json) |
 | Space Fun | 222966 | [222966-space-fun.json](./222966-space-fun.json) |
 | Space Funeral | 19589 | [19589-space-funeral.json](./19589-space-funeral.json) |
 | Space Funeral 2 | 254706 | [254706-space-funeral-2.json](./254706-space-funeral-2.json) |
@@ -19953,7 +19955,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 142578 | [142578-space-hunter.json](./142578-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
@@ -26272,6 +26273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Safe | 96481 | [96481-stay-safe.json](./96481-stay-safe.json) |
 | Stay Safe 2020 | 156977 | [156977-stay-safe-2020.json](./156977-stay-safe-2020.json) |
 | Stay Safe: Labyrinth of the Mad | 120122 | [120122-stay-safe-labyrinth-of-the-mad.json](./120122-stay-safe-labyrinth-of-the-mad.json) |
+| Stay Safe! Jam | 137791 | [137791-stay-safe-jam.json](./137791-stay-safe-jam.json) |
 | Stay Sane | 294253 | [294253-stay-sane.json](./294253-stay-sane.json) |
 | Stay Silent | 114387 | [114387-stay-silent.json](./114387-stay-silent.json) |
 | Stay Still | 230470 | [230470-stay-still.json](./230470-stay-still.json) |
@@ -27146,6 +27148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick War: Legacy | 239909 | [239909-stick-war-legacy.json](./239909-stick-war-legacy.json) |
 | Stick War: Saga | 233777 | [233777-stick-war-saga.json](./233777-stick-war-saga.json) |
 | Stick Wars: The Laneborn | 421555 | [421555-stick-wars-the-laneborn.json](./421555-stick-wars-the-laneborn.json) |
+| Stick With It | 137747 | [137747-stick-with-it.json](./137747-stick-with-it.json) |
 | Stick With It | 366557 | [366557-stick-with-it.json](./366557-stick-with-it.json) |
 | Stickbound | 269342 | [269342-stickbound.json](./269342-stickbound.json) |
 | Stickcross Classic | 390470 | [390470-stickcross-classic.json](./390470-stickcross-classic.json) |
@@ -30221,6 +30224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sukuji to Teikyou ni Kansuru Kousatsu | 420340 | [420340-sukuji-to-teikyou-ni-kansuru-kousatsu.json](./420340-sukuji-to-teikyou-ni-kansuru-kousatsu.json) |
 | Sukutte: Save Me... | 130358 | [130358-sukutte-save-me.json](./130358-sukutte-save-me.json) |
 | SUL: Schutze Unser Land 3D | 193075 | [193075-sul-schutze-unser-land-3d.json](./193075-sul-schutze-unser-land-3d.json) |
+| Suleiman's Treasure | 137767 | [137767-suleimans-treasure.json](./137767-suleimans-treasure.json) |
 | Sulfur | 261285 | [261285-sulfur.json](./261285-sulfur.json) |
 | Sulfur Ignition | 352224 | [352224-sulfur-ignition.json](./352224-sulfur-ignition.json) |
 | Suli Fallen Harmony | 133090 | [133090-suli-fallen-harmony.json](./133090-suli-fallen-harmony.json) |
@@ -34248,6 +34252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supermodel Salon: Makeup & Dress up Game for Girls | 87276 | [87276-supermodel-salon-makeup-and-dress-up-game-for-girls.json](./87276-supermodel-salon-makeup-and-dress-up-game-for-girls.json) |
 | SuperModels Go Wild | 58031 | [58031-supermodels-go-wild.json](./58031-supermodels-go-wild.json) |
 | SuperMoose | 30757 | [30757-supermoose.json](./30757-supermoose.json) |
+| Supermotor | 137770 | [137770-supermotor.json](./137770-supermotor.json) |
 | Supermotor | 288132 | [288132-supermotor.json](./288132-supermotor.json) |
 | Supermoves: World of Parkour | 280450 | [280450-supermoves-world-of-parkour.json](./280450-supermoves-world-of-parkour.json) |
 | Supermrket: El Videojuego de Gestión de Supermercado | 339308 | [339308-supermrket-el-videojuego-de-gestion-de-supermercado.json](./339308-supermrket-el-videojuego-de-gestion-de-supermercado.json) |
