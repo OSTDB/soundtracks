@@ -4242,6 +4242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enlightening the Soul Country Light | 280168 | [280168-enlightening-the-soul-country-light.json](./280168-enlightening-the-soul-country-light.json) |
 | Enlightenment | 43155 | [43155-enlightenment.json](./43155-enlightenment.json) |
 | Enlightenment: Druid II | 12585 | [12585-enlightenment-druid-ii.json](./12585-enlightenment-druid-ii.json) |
+| Enlightenus | 100251 | [100251-enlightenus.json](./100251-enlightenus.json) |
 | Enlil: Rise Of the End | 387486 | [387486-enlil-rise-of-the-end.json](./387486-enlil-rise-of-the-end.json) |
 | Enlisted: Calliope Squad | 293769 | [293769-enlisted-calliope-squad.json](./293769-enlisted-calliope-squad.json) |
 | Enlisted: Direct Fire Bundle | 309016 | [309016-enlisted-direct-fire-bundle.json](./309016-enlisted-direct-fire-bundle.json) |
