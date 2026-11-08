@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lakria Legends | 344166 | [344166-lakria-legends.json](./344166-lakria-legends.json) |
 | Lala Hentai 2 | 375970 | [375970-lala-hentai-2.json](./375970-lala-hentai-2.json) |
 | Lala the Magical | 48298 | [48298-lala-the-magical.json](./48298-lala-the-magical.json) |
+| Lalaloopsy | 94851 | [94851-lalaloopsy.json](./94851-lalaloopsy.json) |
 | Lalaloopsy Diner | 68911 | [68911-lalaloopsy-diner.json](./68911-lalaloopsy-diner.json) |
 | Lalaloopsy: Carnival of Friends | 47640 | [47640-lalaloopsy-carnival-of-friends.json](./47640-lalaloopsy-carnival-of-friends.json) |
 | Lalaloopsy: Sew Magical! Sew Cute! | 113888 | [113888-lalaloopsy-sew-magical-sew-cute.json](./113888-lalaloopsy-sew-magical-sew-cute.json) |
@@ -1224,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Breath | 415436 | [415436-last-breath.json](./415436-last-breath.json) |
 | Last Bronx | 39451 | [39451-last-bronx.json](./39451-last-bronx.json) |
 | Last Bullet | 405595 | [405595-last-bullet.json](./405595-last-bullet.json) |
+| Last Bullet | 94837 | [94837-last-bullet.json](./94837-last-bullet.json) |
 | Last Bus Home | 208617 | [208617-last-bus-home.json](./208617-last-bus-home.json) |
 | Last Buzz | 417440 | [417440-last-buzz.json](./417440-last-buzz.json) |
 | Last Cabra | 277626 | [277626-last-cabra.json](./277626-last-cabra.json) |
@@ -3032,6 +3034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion | 18839 | [18839-legion.json](./18839-legion.json) |
 | Legion | 319203 | [319203-legion.json](./319203-legion.json) |
 | Legion | 348510 | [348510-legion.json](./348510-legion.json) |
+| Legion | 94810 | [94810-legion.json](./94810-legion.json) |
 | Legion Arena | 125179 | [125179-legion-arena.json](./125179-legion-arena.json) |
 | Legion Breaker | 404002 | [404002-legion-breaker.json](./404002-legion-breaker.json) |
 | Legion Defense | 327633 | [327633-legion-defense.json](./327633-legion-defense.json) |
@@ -5567,6 +5570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linerunner | 396269 | [396269-linerunner.json](./396269-linerunner.json) |
 | Lines | 272054 | [272054-lines.json](./272054-lines.json) |
 | Lines | 91339 | [91339-lines.json](./91339-lines.json) |
+| Lines | 94831 | [94831-lines.json](./94831-lines.json) |
 | Lines - Best Puzzle Game | 87073 | [87073-lines-best-puzzle-game.json](./87073-lines-best-puzzle-game.json) |
 | Lines 3D | 140567 | [140567-lines-3d.json](./140567-lines-3d.json) |
 | Lines 98 | 367530 | [367530-lines-98.json](./367530-lines-98.json) |
