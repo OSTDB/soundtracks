@@ -7289,6 +7289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Christmas Tree | 82163 | [82163-hidden-object-christmas-tree.json](./82163-hidden-object-christmas-tree.json) |
 | Hidden Object: Christmas Wish | 98676 | [98676-hidden-object-christmas-wish.json](./98676-hidden-object-christmas-wish.json) |
 | Hidden Object: Classic Fables | 98391 | [98391-hidden-object-classic-fables.json](./98391-hidden-object-classic-fables.json) |
+| Hidden Object: Country Living | 82193 | [82193-hidden-object-country-living.json](./82193-hidden-object-country-living.json) |
 | Hidden Object: Coyote the Outlander | 96007 | [96007-hidden-object-coyote-the-outlander.json](./96007-hidden-object-coyote-the-outlander.json) |
 | Hidden Object: Cozy Christmas | 82171 | [82171-hidden-object-cozy-christmas.json](./82171-hidden-object-cozy-christmas.json) |
 | Hidden Object: Crazy Hearts | 98390 | [98390-hidden-object-crazy-hearts.json](./98390-hidden-object-crazy-hearts.json) |
@@ -8376,6 +8377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hired: Assassin Simulator | 244673 | [244673-hired-assassin-simulator.json](./244673-hired-assassin-simulator.json) |
 | Hirilun | 151062 | [151062-hirilun.json](./151062-hirilun.json) |
 | Hiro's Escape | 139603 | [139603-hiros-escape.json](./139603-hiros-escape.json) |
+| Hiro's Forest Rumble | 81594 | [81594-hiros-forest-rumble.json](./81594-hiros-forest-rumble.json) |
 | Hiro's Harvest Season | 76532 | [76532-hiros-harvest-season.json](./76532-hiros-harvest-season.json) |
 | Hirocato: The Delivery Hero | 253934 | [253934-hirocato-the-delivery-hero.json](./253934-hirocato-the-delivery-hero.json) |
 | Hirogami | 317871 | [317871-hirogami.json](./317871-hirogami.json) |
