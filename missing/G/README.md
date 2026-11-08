@@ -1599,6 +1599,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Games Around the World | 205921 | [205921-games-around-the-world.json](./205921-games-around-the-world.json) |
 | Games Designer Samples | 352326 | [352326-games-designer-samples.json](./352326-games-designer-samples.json) |
 | Games Explosion | 18260 | [18260-games-explosion.json](./18260-games-explosion.json) |
+| Games Festival 1 | 98159 | [98159-games-festival-1.json](./98159-games-festival-1.json) |
+| Games Festival 2 | 98160 | [98160-games-festival-2.json](./98160-games-festival-2.json) |
 | Games Festival Volume 1 | 84644 | [84644-games-festival-volume-1.json](./84644-games-festival-volume-1.json) |
 | Games Festival Volume 2 | 84642 | [84642-games-festival-volume-2.json](./84642-games-festival-volume-2.json) |
 | Games for Stream! | 266856 | [266856-games-for-stream.json](./266856-games-for-stream.json) |
@@ -10288,6 +10290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gruta | 247126 | [247126-gruta.json](./247126-gruta.json) |
 | Gruta | 367186 | [367186-gruta.json](./367186-gruta.json) |
 | Gruzchik | 29248 | [29248-gruzchik.json](./29248-gruzchik.json) |
+| Gruzchik1101 | 98489 | [98489-gruzchik1101.json](./98489-gruzchik1101.json) |
 | Grym Wonder | 286956 | [286956-grym-wonder.json](./286956-grym-wonder.json) |
 | Grym: Knights in the Garden | 334534 | [334534-grym-knights-in-the-garden.json](./334534-grym-knights-in-the-garden.json) |
 | Gryphon | 26260 | [26260-gryphon.json](./26260-gryphon.json) |
