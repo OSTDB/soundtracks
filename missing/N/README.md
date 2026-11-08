@@ -2949,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Network | 95442 | [95442-network.json](./95442-network.json) |
 | Network Adventure Bugsite: Alpha | 57076 | [57076-network-adventure-bugsite-alpha.json](./57076-network-adventure-bugsite-alpha.json) |
 | Network Adventure Bugsite: Beta | 270059 | [270059-network-adventure-bugsite-beta.json](./270059-network-adventure-bugsite-beta.json) |
+| Network E.L.E. | 128106 | [128106-network-e-l-e.json](./128106-network-e-l-e.json) |
 | Network E.L.E.: PC Edition | 166210 | [166210-network-e-l-e-pc-edition.json](./166210-network-e-l-e-pc-edition.json) |
 | Network Engineer Simulator | 285722 | [285722-network-engineer-simulator.json](./285722-network-engineer-simulator.json) |
 | Network Euphoria | 341369 | [341369-network-euphoria.json](./341369-network-euphoria.json) |
@@ -5353,6 +5354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Toy Warrior - Legendary Ninja Fight | 100935 | [100935-ninja-toy-warrior-legendary-ninja-fight.json](./100935-ninja-toy-warrior-legendary-ninja-fight.json) |
 | Ninja Train | 92221 | [92221-ninja-train.json](./92221-ninja-train.json) |
 | Ninja Trip | 102726 | [102726-ninja-trip.json](./102726-ninja-trip.json) |
+| Ninja Turdle | 128108 | [128108-ninja-turdle.json](./128108-ninja-turdle.json) |
 | Ninja Turtles: The Next Mutation | 198840 | [198840-ninja-turtles-the-next-mutation.json](./198840-ninja-turtles-the-next-mutation.json) |
 | Ninja Tycoon | 83811 | [83811-ninja-tycoon.json](./83811-ninja-tycoon.json) |
 | Ninja USA | 100277 | [100277-ninja-usa.json](./100277-ninja-usa.json) |
