@@ -2904,6 +2904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Are Sup | 288469 | [288469-we-are-sup.json](./288469-we-are-sup.json) |
 | We Are Terror: The First Days | 107762 | [107762-we-are-terror-the-first-days.json](./107762-we-are-terror-the-first-days.json) |
 | We Are the Caretakers | 116687 | [116687-we-are-the-caretakers.json](./116687-we-are-the-caretakers.json) |
+| We Are the Champions | 78856 | [78856-we-are-the-champions.json](./78856-we-are-the-champions.json) |
 | We Are the Dwarves | 15485 | [15485-we-are-the-dwarves.json](./15485-we-are-the-dwarves.json) |
 | We are the Literature Club | 353411 | [353411-we-are-the-literature-club.json](./353411-we-are-the-literature-club.json) |
 | We are the Plague | 113565 | [113565-we-are-the-plague.json](./113565-we-are-the-plague.json) |
@@ -3516,6 +3517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wellington's Peninsular Campaign | 144828 | [144828-wellingtons-peninsular-campaign.json](./144828-wellingtons-peninsular-campaign.json) |
 | Wellington's Victory | 106728 | [106728-wellingtons-victory.json](./106728-wellingtons-victory.json) |
 | Wells | 31298 | [31298-wells.json](./31298-wells.json) |
+| Wells & Fargo | 78840 | [78840-wells-and-fargo.json](./78840-wells-and-fargo.json) |
 | Wellspring: Altar of Roots | 76984 | [76984-wellspring-altar-of-roots.json](./76984-wellspring-altar-of-roots.json) |
 | Welltris | 12872 | [12872-welltris.json](./12872-welltris.json) |
 | Welly Wang VR | 267680 | [267680-welly-wang-vr.json](./267680-welly-wang-vr.json) |
@@ -3713,6 +3715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WetBread | 222934 | [222934-wetbread.json](./222934-wetbread.json) |
 | Wetcat | 273712 | [273712-wetcat.json](./273712-wetcat.json) |
 | Wetland | 379401 | [379401-wetland.json](./379401-wetland.json) |
+| Wetlands | 78844 | [78844-wetlands.json](./78844-wetlands.json) |
 | Wetory | 216843 | [216843-wetory.json](./216843-wetory.json) |
 | Wetpants | 121471 | [121471-wetpants.json](./121471-wetpants.json) |
 | Wetrix | 3637 | [3637-wetrix.json](./3637-wetrix.json) |
@@ -5186,6 +5189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wii Sports Club: Golf | 85489 | [85489-wii-sports-club-golf.json](./85489-wii-sports-club-golf.json) |
 | Wii Sports Club: Tennis | 85490 | [85490-wii-sports-club-tennis.json](./85490-wii-sports-club-tennis.json) |
 | Wii Sports Resort | 2182 | [2182-wii-sports-resort.json](./2182-wii-sports-resort.json) |
+| Wii U Panorama View | 78866 | [78866-wii-u-panorama-view.json](./78866-wii-u-panorama-view.json) |
 | Wiimms Mario Kart Fun | 130017 | [130017-wiimms-mario-kart-fun.json](./130017-wiimms-mario-kart-fun.json) |
 | Wik & the Fable of Souls | 933 | [933-wik-and-the-fable-of-souls.json](./933-wik-and-the-fable-of-souls.json) |
 | Wika Wicked's Egg | 199450 | [199450-wika-wickeds-egg.json](./199450-wika-wickeds-egg.json) |
@@ -6295,7 +6299,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winx Club Secret Diary 2009 | 47829 | [47829-winx-club-secret-diary-2009.json](./47829-winx-club-secret-diary-2009.json) |
 | Winx Club: Alfea Butterflix Adventures | 79740 | [79740-winx-club-alfea-butterflix-adventures.json](./79740-winx-club-alfea-butterflix-adventures.json) |
 | Winx Club: Believix in You | 25174 | [25174-winx-club-believix-in-you.json](./25174-winx-club-believix-in-you.json) |
+| Winx Club: Join the Club | 78838 | [78838-winx-club-join-the-club.json](./78838-winx-club-join-the-club.json) |
 | Winx Club: Magical Fairy Party | 25166 | [25166-winx-club-magical-fairy-party.json](./25166-winx-club-magical-fairy-party.json) |
+| Winx Club: Mission Enchantix | 78837 | [78837-winx-club-mission-enchantix.json](./78837-winx-club-mission-enchantix.json) |
 | Winx Club: Saving Alfea | 61159 | [61159-winx-club-saving-alfea.json](./61159-winx-club-saving-alfea.json) |
 | Winx Club: The Magic Is Back | 381167 | [381167-winx-club-the-magic-is-back.json](./381167-winx-club-the-magic-is-back.json) |
 | Winx Club: Winx Fairy School | 96728 | [96728-winx-club-winx-fairy-school.json](./96728-winx-club-winx-fairy-school.json) |
@@ -6954,6 +6960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry: Knight of Diamonds - The Second Scenario | 2865 | [2865-wizardry-knight-of-diamonds-the-second-scenario.json](./2865-wizardry-knight-of-diamonds-the-second-scenario.json) |
 | Wizardry: Labyrinth of Lost Souls | 21083 | [21083-wizardry-labyrinth-of-lost-souls.json](./21083-wizardry-labyrinth-of-lost-souls.json) |
 | Wizardry: Legacy of Llylgamyn - The Third Scenario | 2871 | [2871-wizardry-legacy-of-llylgamyn-the-third-scenario.json](./2871-wizardry-legacy-of-llylgamyn-the-third-scenario.json) |
+| Wizardry: Llylgamyn Saga | 78865 | [78865-wizardry-llylgamyn-saga.json](./78865-wizardry-llylgamyn-saga.json) |
 | Wizardry: New Age of Llylgamyn | 181493 | [181493-wizardry-new-age-of-llylgamyn.json](./181493-wizardry-new-age-of-llylgamyn.json) |
 | Wizardry: Proving Grounds of the Mad Overlord | 370644 | [370644-wizardry-proving-grounds-of-the-mad-overlord.json](./370644-wizardry-proving-grounds-of-the-mad-overlord.json) |
 | Wizardry: Proving Grounds of the Mad Overlord | 370647 | [370647-wizardry-proving-grounds-of-the-mad-overlord.json](./370647-wizardry-proving-grounds-of-the-mad-overlord.json) |
