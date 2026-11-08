@@ -3360,6 +3360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reaper Boy | 135484 | [135484-reaper-boy.json](./135484-reaper-boy.json) |
 | Reaper Hunt: Survivor | 345495 | [345495-reaper-hunt-survivor.json](./345495-reaper-hunt-survivor.json) |
 | Reaper of Immortals | 200520 | [200520-reaper-of-immortals.json](./200520-reaper-of-immortals.json) |
+| Reaper of the Undead | 101716 | [101716-reaper-of-the-undead.json](./101716-reaper-of-the-undead.json) |
 | Reaper Recon | 360639 | [360639-reaper-recon.json](./360639-reaper-recon.json) |
 | Reaper Rules | 331435 | [331435-reaper-rules.json](./331435-reaper-rules.json) |
 | Reaper Survivors | 292908 | [292908-reaper-survivors.json](./292908-reaper-survivors.json) |
@@ -6497,6 +6498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Réussir: Code de la Route - Nouvelle Edition: French Highway Code | 227127 | [227127-reussir-code-de-la-route-nouvelle-edition-french-highway-code.json](./227127-reussir-code-de-la-route-nouvelle-edition-french-highway-code.json) |
 | Rev | 133003 | [133003-rev.json](./133003-rev.json) |
 | Rev Grav | 322065 | [322065-rev-grav.json](./322065-rev-grav.json) |
+| Rev Heads Rally | 101172 | [101172-rev-heads-rally.json](./101172-rev-heads-rally.json) |
 | Rev Limit | 231509 | [231509-rev-limit.json](./231509-rev-limit.json) |
 | Rev to Vertex | 211604 | [211604-rev-to-vertex.json](./211604-rev-to-vertex.json) |
 | Rev Up! RC Grand Prix | 147711 | [147711-rev-up-rc-grand-prix.json](./147711-rev-up-rc-grand-prix.json) |
