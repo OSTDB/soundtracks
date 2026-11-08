@@ -3777,6 +3777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opus: Rocket of Whispers - Deluxe Edition | 186535 | [186535-opus-rocket-of-whispers-deluxe-edition.json](./186535-opus-rocket-of-whispers-deluxe-edition.json) |
 | Oquonie | 60514 | [60514-oquonie.json](./60514-oquonie.json) |
 | Or | 29613 | [29613-or.json](./29613-or.json) |
+| Or8 | 131718 | [131718-or8.json](./131718-or8.json) |
 | Ora | 394358 | [394358-ora.json](./394358-ora.json) |
 | Oracle | 27457 | [27457-oracle.json](./27457-oracle.json) |
 | Oracle | 366368 | [366368-oracle.json](./366368-oracle.json) |
