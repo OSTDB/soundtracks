@@ -2085,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garrick's Hollow | 414702 | [414702-garricks-hollow.json](./414702-garricks-hollow.json) |
 | Garrison | 13856 | [13856-garrison.json](./13856-garrison.json) |
 | Garrison | 170784 | [170784-garrison.json](./170784-garrison.json) |
+| Garrison Gauntlet | 108017 | [108017-garrison-gauntlet.json](./108017-garrison-gauntlet.json) |
 | Garrison I-II | 112231 | [112231-garrison-i-ii.json](./112231-garrison-i-ii.json) |
 | Garrison II: The Legend Continues | 47155 | [47155-garrison-ii-the-legend-continues.json](./47155-garrison-ii-the-legend-continues.json) |
 | Garrison: Archangel | 36762 | [36762-garrison-archangel.json](./36762-garrison-archangel.json) |
@@ -5801,6 +5802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goalie VR | 67936 | [67936-goalie-vr.json](./67936-goalie-vr.json) |
 | Goalienator | 148461 | [148461-goalienator.json](./148461-goalienator.json) |
 | Goalkeeper Journey | 340313 | [340313-goalkeeper-journey.json](./340313-goalkeeper-journey.json) |
+| Goalkeeper Legend | 107996 | [107996-goalkeeper-legend.json](./107996-goalkeeper-legend.json) |
 | Goalkeeper VR Challenge | 112499 | [112499-goalkeeper-vr-challenge.json](./112499-goalkeeper-vr-challenge.json) |
 | GoalkeepVr | 29946 | [29946-goalkeepvr.json](./29946-goalkeepvr.json) |
 | Goals | 289602 | [289602-goals.json](./289602-goals.json) |
