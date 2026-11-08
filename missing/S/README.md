@@ -2981,6 +2981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sceptorn | 391211 | [391211-sceptorn.json](./391211-sceptorn.json) |
 | Sceptre of Bagdad | 47143 | [47143-sceptre-of-bagdad.json](./47143-sceptre-of-bagdad.json) |
 | Schach | 122738 | [122738-schach.json](./122738-schach.json) |
+| Schach Attacke | 86146 | [86146-schach-attacke.json](./86146-schach-attacke.json) |
 | Schachkampf | 237238 | [237238-schachkampf.json](./237238-schachkampf.json) |
 | Schacht | 31775 | [31775-schacht.json](./31775-schacht.json) |
 | Schäferstündchen Adventures | 78920 | [78920-schaferstundchen-adventures.json](./78920-schaferstundchen-adventures.json) |
@@ -5871,6 +5872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Septipus: Tentacle Apocalypse | 65275 | [65275-septipus-tentacle-apocalypse.json](./65275-septipus-tentacle-apocalypse.json) |
 | Septourian | 232126 | [232126-septourian.json](./232126-septourian.json) |
 | Septurian Might | 405284 | [405284-septurian-might.json](./405284-septurian-might.json) |
+| Sepulchre | 86177 | [86177-sepulchre.json](./86177-sepulchre.json) |
 | Sepulcri | 36918 | [36918-sepulcri.json](./36918-sepulcri.json) |
 | Sepulcrum | 344889 | [344889-sepulcrum.json](./344889-sepulcrum.json) |
 | Seq | 175080 | [175080-seq.json](./175080-seq.json) |
@@ -8858,6 +8860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinseiki GPX Cyber Formula Sin Drei Plus | 112516 | [112516-shinseiki-gpx-cyber-formula-sin-drei-plus.json](./112516-shinseiki-gpx-cyber-formula-sin-drei-plus.json) |
 | Shinseiki GPX Cyber Formula Sin Vier | 112530 | [112530-shinseiki-gpx-cyber-formula-sin-vier.json](./112530-shinseiki-gpx-cyber-formula-sin-vier.json) |
 | Shinseiki GPX Cyber Formula Vs. | 58055 | [58055-shinseiki-gpx-cyber-formula-vs.json](./58055-shinseiki-gpx-cyber-formula-vs.json) |
+| Shinseiki GPX Cyber Formula: Road to the Infinity | 86134 | [86134-shinseiki-gpx-cyber-formula-road-to-the-infinity.json](./86134-shinseiki-gpx-cyber-formula-road-to-the-infinity.json) |
 | Shinseiki GPX Cyber Formula: Road to the Infinity 2 | 58058 | [58058-shinseiki-gpx-cyber-formula-road-to-the-infinity-2.json](./58058-shinseiki-gpx-cyber-formula-road-to-the-infinity-2.json) |
 | Shinseiki GPX Cyber Formula: Road to the Infinity 3 | 58060 | [58060-shinseiki-gpx-cyber-formula-road-to-the-infinity-3.json](./58060-shinseiki-gpx-cyber-formula-road-to-the-infinity-3.json) |
 | Shinseiki GPX Cyber Formula: Road to the Infinity 4 | 58059 | [58059-shinseiki-gpx-cyber-formula-road-to-the-infinity-4.json](./58059-shinseiki-gpx-cyber-formula-road-to-the-infinity-4.json) |
@@ -11153,6 +11156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simon | 324847 | [324847-simon.json](./324847-simon.json) |
 | Simon | 331044 | [331044-simon.json](./331044-simon.json) |
 | Simon | 346999 | [346999-simon.json](./346999-simon.json) |
+| Simon | 86162 | [86162-simon.json](./86162-simon.json) |
 | Simon and Friends | 401687 | [401687-simon-and-friends.json](./401687-simon-and-friends.json) |
 | Simon Clone | 92329 | [92329-simon-clone.json](./92329-simon-clone.json) |
 | Simon HD | 66592 | [66592-simon-hd.json](./66592-simon-hd.json) |
@@ -22559,6 +22563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spinstar | 167442 | [167442-spinstar.json](./167442-spinstar.json) |
 | SpinSweep | 301277 | [301277-spinsweep.json](./301277-spinsweep.json) |
 | Spintales | 204136 | [204136-spintales.json](./204136-spintales.json) |
+| Spintensity | 86155 | [86155-spintensity.json](./86155-spintensity.json) |
 | Spintires | 7347 | [7347-spintires.json](./7347-spintires.json) |
 | Spintires: MudRunner - American Wilds | 111316 | [111316-spintires-mudrunner-american-wilds.json](./111316-spintires-mudrunner-american-wilds.json) |
 | Spintires: MudRunner - American Wilds Edition | 110802 | [110802-spintires-mudrunner-american-wilds-edition.json](./110802-spintires-mudrunner-american-wilds-edition.json) |
@@ -22881,6 +22886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splat Renegade Paintball | 47312 | [47312-splat-renegade-paintball.json](./47312-splat-renegade-paintball.json) |
 | Splat Splat | 348990 | [348990-splat-splat.json](./348990-splat-splat.json) |
 | Splat the Blob | 74214 | [74214-splat-the-blob.json](./74214-splat-the-blob.json) |
+| Splat the Difference | 86257 | [86257-splat-the-difference.json](./86257-splat-the-difference.json) |
 | Splat the Fruit | 96180 | [96180-splat-the-fruit.json](./96180-splat-the-fruit.json) |
 | Splat! | 178344 | [178344-splat.json](./178344-splat.json) |
 | Splat! | 280167 | [280167-splat.json](./280167-splat.json) |
@@ -23465,6 +23471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spot the Differences | 44502 | [44502-spot-the-differences.json](./44502-spot-the-differences.json) |
 | Spot The Differences 2020 | 284338 | [284338-spot-the-differences-2020.json](./284338-spot-the-differences-2020.json) |
 | Spot the Differences: Party! | 84897 | [84897-spot-the-differences-party.json](./84897-spot-the-differences-party.json) |
+| Spot the Differences! | 86258 | [86258-spot-the-differences.json](./86258-spot-the-differences.json) |
 | Spot the Dot | 149563 | [149563-spot-the-dot.json](./149563-spot-the-dot.json) |
 | Spot the Impossible with Common Sense! | 406072 | [406072-spot-the-impossible-with-common-sense.json](./406072-spot-the-impossible-with-common-sense.json) |
 | Spot The Object | 283376 | [283376-spot-the-object.json](./283376-spot-the-object.json) |
@@ -24254,6 +24261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack | 135714 | [135714-stack.json](./135714-stack.json) |
 | Stack | 244941 | [244941-stack.json](./244941-stack.json) |
 | Stack | 34669 | [34669-stack.json](./34669-stack.json) |
+| Stack 'em High | 86259 | [86259-stack-em-high.json](./86259-stack-em-high.json) |
 | Stack 'Em Up | 312826 | [312826-stack-em-up.json](./312826-stack-em-up.json) |
 | Stack & Sigil | 421229 | [421229-stack-and-sigil.json](./421229-stack-and-sigil.json) |
 | Stack & Spell | 416348 | [416348-stack-and-spell.json](./416348-stack-and-spell.json) |
@@ -25050,6 +25058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Tracer | 357305 | [357305-star-tracer.json](./357305-star-tracer.json) |
 | Star Trader | 16976 | [16976-star-trader.json](./16976-star-trader.json) |
 | Star Trader | 212135 | [212135-star-trader.json](./212135-star-trader.json) |
+| Star Trader | 86153 | [86153-star-trader.json](./86153-star-trader.json) |
 | Star Traders | 69581 | [69581-star-traders.json](./69581-star-traders.json) |
 | Star Traders 4X Empires Elite | 88590 | [88590-star-traders-4x-empires-elite.json](./88590-star-traders-4x-empires-elite.json) |
 | Star Traders: 4X Empires | 36124 | [36124-star-traders-4x-empires.json](./36124-star-traders-4x-empires.json) |
