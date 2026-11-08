@@ -6874,6 +6874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf King: World Tour | 233430 | [233430-golf-king-world-tour.json](./233430-golf-king-world-tour.json) |
 | Golf knight | 232131 | [232131-golf-knight.json](./232131-golf-knight.json) |
 | Golf Loop | 329570 | [329570-golf-loop.json](./329570-golf-loop.json) |
+| Golf Magazine Presents 36 Great Holes Starring Fred Couples | 94921 | [94921-golf-magazine-presents-36-great-holes-starring-fred-couples.json](./94921-golf-magazine-presents-36-great-holes-starring-fred-couples.json) |
 | Golf Master | 137673 | [137673-golf-master.json](./137673-golf-master.json) |
 | Golf Master 3D | 214297 | [214297-golf-master-3d.json](./214297-golf-master-3d.json) |
 | Golf Masters | 35110 | [35110-golf-masters.json](./35110-golf-masters.json) |
@@ -9449,6 +9450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Griddlers Ted and Pet 2 | 157260 | [157260-griddlers-ted-and-pet-2.json](./157260-griddlers-ted-and-pet-2.json) |
 | Griddlers Victorian Picnic | 94878 | [94878-griddlers-victorian-picnic.json](./94878-griddlers-victorian-picnic.json) |
 | Griddlers: Beach Season | 190816 | [190816-griddlers-beach-season.json](./190816-griddlers-beach-season.json) |
+| GridDot | 94835 | [94835-griddot.json](./94835-griddot.json) |
 | Griddy | 213318 | [213318-griddy.json](./213318-griddy.json) |
 | GridEnergy | 416665 | [416665-gridenergy.json](./416665-gridenergy.json) |
 | Gridfall | 373119 | [373119-gridfall.json](./373119-gridfall.json) |
@@ -11515,6 +11517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunslinger: Zombie Survival | 226762 | [226762-gunslinger-zombie-survival.json](./226762-gunslinger-zombie-survival.json) |
 | Gunslinger: Zombie Survival 2019 | 233396 | [233396-gunslinger-zombie-survival-2019.json](./233396-gunslinger-zombie-survival-2019.json) |
 | Gunslingers | 34097 | [34097-gunslingers.json](./34097-gunslingers.json) |
+| Gunslingers | 94820 | [94820-gunslingers.json](./94820-gunslingers.json) |
 | Gunslingers of the Wasteland vs. The Zombies from Mars | 170503 | [170503-gunslingers-of-the-wasteland-vs-the-zombies-from-mars.json](./170503-gunslingers-of-the-wasteland-vs-the-zombies-from-mars.json) |
 | Gunslugs | 35187 | [35187-gunslugs.json](./35187-gunslugs.json) |
 | Gunslugs 2 | 35977 | [35977-gunslugs-2.json](./35977-gunslugs-2.json) |
