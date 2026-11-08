@@ -6718,6 +6718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witness the Dark #1: Bloody Burger | 404336 | [404336-witness-the-dark-1-bloody-burger.json](./404336-witness-the-dark-1-bloody-burger.json) |
 | Witness to Plague | 373566 | [373566-witness-to-plague.json](./373566-witness-to-plague.json) |
 | Witness: A Bodyguard Romance | 313846 | [313846-witness-a-bodyguard-romance.json](./313846-witness-a-bodyguard-romance.json) |
+| Witold the Game | 125542 | [125542-witold-the-game.json](./125542-witold-the-game.json) |
 | Witold the Game 2 | 133806 | [133806-witold-the-game-2.json](./133806-witold-the-game-2.json) |
 | Witoru | 166587 | [166587-witoru.json](./166587-witoru.json) |
 | Wits & Wagers | 21819 | [21819-wits-and-wagers.json](./21819-wits-and-wagers.json) |
@@ -6878,6 +6879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry Twin Pack | 125955 | [125955-wizardry-twin-pack.json](./125955-wizardry-twin-pack.json) |
 | Wizardry V: Heart of the Maelstrom | 10495 | [10495-wizardry-v-heart-of-the-maelstrom.json](./10495-wizardry-v-heart-of-the-maelstrom.json) |
 | Wizardry Variants: Daphne | 150013 | [150013-wizardry-variants-daphne.json](./150013-wizardry-variants-daphne.json) |
+| Wizardry VI & VII Complete | 125574 | [125574-wizardry-vi-and-vii-complete.json](./125574-wizardry-vi-and-vii-complete.json) |
 | Wizardry: Bane of the Cosmic Forge | 10496 | [10496-wizardry-bane-of-the-cosmic-forge.json](./10496-wizardry-bane-of-the-cosmic-forge.json) |
 | Wizardry: Boukyaku no Isan | 245027 | [245027-wizardry-boukyaku-no-isan.json](./245027-wizardry-boukyaku-no-isan.json) |
 | Wizardry: Crusaders of the Dark Savant | 10497 | [10497-wizardry-crusaders-of-the-dark-savant.json](./10497-wizardry-crusaders-of-the-dark-savant.json) |
@@ -7658,6 +7660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Quest: Cyberpunk | 399795 | [399795-word-quest-cyberpunk.json](./399795-word-quest-cyberpunk.json) |
 | Word Quest: Horror | 402932 | [402932-word-quest-horror.json](./402932-word-quest-horror.json) |
 | Word Quiz - Funny | 104686 | [104686-word-quiz-funny.json](./104686-word-quiz-funny.json) |
+| Word Race: Boggle Your Mind | 125585 | [125585-word-race-boggle-your-mind.json](./125585-word-race-boggle-your-mind.json) |
 | Word Rave | 326249 | [326249-word-rave.json](./326249-word-rave.json) |
 | Word Realms | 64912 | [64912-word-realms.json](./64912-word-realms.json) |
 | Word Relay | 283860 | [283860-word-relay.json](./283860-word-relay.json) |
