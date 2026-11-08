@@ -6393,6 +6393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pieces of Cake | 181256 | [181256-pieces-of-cake.json](./181256-pieces-of-cake.json) |
 | Pieces of Eight | 96677 | [96677-pieces-of-eight.json](./96677-pieces-of-eight.json) |
 | Pieces of Me | 318759 | [318759-pieces-of-me.json](./318759-pieces-of-me.json) |
+| Pieces of Me: Northbound | 127464 | [127464-pieces-of-me-northbound.json](./127464-pieces-of-me-northbound.json) |
 | Pieces of My Heart | 246635 | [246635-pieces-of-my-heart.json](./246635-pieces-of-my-heart.json) |
 | Pieces of the Kingdom | 377965 | [377965-pieces-of-the-kingdom.json](./377965-pieces-of-the-kingdom.json) |
 | Pieces of the Past | 293042 | [293042-pieces-of-the-past.json](./293042-pieces-of-the-past.json) |
@@ -16446,6 +16447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Spark | 2742 | [2742-project-spark.json](./2742-project-spark.json) |
 | Project Sparrow | 143224 | [143224-project-sparrow.json](./143224-project-sparrow.json) |
 | Project Spectrum | 361889 | [361889-project-spectrum.json](./361889-project-spectrum.json) |
+| Project Speed | 127458 | [127458-project-speed.json](./127458-project-speed.json) |
 | Project Speed 2 | 188681 | [188681-project-speed-2.json](./188681-project-speed-2.json) |
 | Project Speed: Njarovik | 253212 | [253212-project-speed-njarovik.json](./253212-project-speed-njarovik.json) |
 | Project Sphinx | 233665 | [233665-project-sphinx.json](./233665-project-sphinx.json) |
