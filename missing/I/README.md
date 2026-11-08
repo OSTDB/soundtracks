@@ -1383,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Campaign | 210851 | [210851-idle-campaign.json](./210851-idle-campaign.json) |
 | Idle Cannon | 182781 | [182781-idle-cannon.json](./182781-idle-cannon.json) |
 | Idle Cannon: Tower TD Geometry | 299354 | [299354-idle-cannon-tower-td-geometry.json](./299354-idle-cannon-tower-td-geometry.json) |
+| Idle Car Manager | 101856 | [101856-idle-car-manager.json](./101856-idle-car-manager.json) |
 | Idle Casino Empire | 311153 | [311153-idle-casino-empire.json](./311153-idle-casino-empire.json) |
 | Idle Cat Live Concert | 327655 | [327655-idle-cat-live-concert.json](./327655-idle-cat-live-concert.json) |
 | Idle Cat Village | 205585 | [205585-idle-cat-village.json](./205585-idle-cat-village.json) |
@@ -6495,6 +6496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Islands of Nyne: Battle Royale | 51548 | [51548-islands-of-nyne-battle-royale.json](./51548-islands-of-nyne-battle-royale.json) |
 | Islands of the Caliph | 197146 | [197146-islands-of-the-caliph.json](./197146-islands-of-the-caliph.json) |
 | Islands of Wakfu | 22947 | [22947-islands-of-wakfu.json](./22947-islands-of-wakfu.json) |
+| Islandsettler | 101845 | [101845-islandsettler.json](./101845-islandsettler.json) |
 | Islandville: A New Home | 192833 | [192833-islandville-a-new-home.json](./192833-islandville-a-new-home.json) |
 | IslandWide Flying Simulator | 179355 | [179355-islandwide-flying-simulator.json](./179355-islandwide-flying-simulator.json) |
 | IslaNode Rescue Signal | 331658 | [331658-islanode-rescue-signal.json](./331658-islanode-rescue-signal.json) |
