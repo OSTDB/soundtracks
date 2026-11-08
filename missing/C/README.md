@@ -376,6 +376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cages: Hidden Worlds | 406114 | [406114-cages-hidden-worlds.json](./406114-cages-hidden-worlds.json) |
 | Caging me Softly | 60611 | [60611-caging-me-softly.json](./60611-caging-me-softly.json) |
 | Cagio | 210325 | [210325-cagio.json](./210325-cagio.json) |
+| Cahertis | 126702 | [126702-cahertis.json](./126702-cahertis.json) |
 | Cahier de Vacances pour Adultes | 269673 | [269673-cahier-de-vacances-pour-adultes.json](./269673-cahier-de-vacances-pour-adultes.json) |
 | Cahier de Vacances pour Adultes 2 | 269674 | [269674-cahier-de-vacances-pour-adultes-2.json](./269674-cahier-de-vacances-pour-adultes-2.json) |
 | Cahoots | 250305 | [250305-cahoots.json](./250305-cahoots.json) |
@@ -3558,6 +3559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Combat | 342194 | [342194-castle-combat.json](./342194-castle-combat.json) |
 | Castle Combat | 47551 | [47551-castle-combat.json](./47551-castle-combat.json) |
 | Castle Come | 307043 | [307043-castle-come.json](./307043-castle-come.json) |
+| Castle Commander | 126760 | [126760-castle-commander.json](./126760-castle-commander.json) |
 | Castle Conqueror Defender | 84592 | [84592-castle-conqueror-defender.json](./84592-castle-conqueror-defender.json) |
 | Castle Conqueror EX | 84591 | [84591-castle-conqueror-ex.json](./84591-castle-conqueror-ex.json) |
 | Castle Conqueror: Revolution | 84593 | [84593-castle-conqueror-revolution.json](./84593-castle-conqueror-revolution.json) |
@@ -4476,6 +4478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch Royale | 368667 | [368667-catch-royale.json](./368667-catch-royale.json) |
 | Catch Simona in New York City | 69004 | [69004-catch-simona-in-new-york-city.json](./69004-catch-simona-in-new-york-city.json) |
 | Catch the Ball / Noughts and Crosses | 27227 | [27227-catch-the-ball-noughts-and-crosses.json](./27227-catch-the-ball-noughts-and-crosses.json) |
+| Catch the Ball 3 | 126720 | [126720-catch-the-ball-3.json](./126720-catch-the-ball-3.json) |
 | Catch the Balls | 348273 | [348273-catch-the-balls.json](./348273-catch-the-balls.json) |
 | Catch the Bowling Balls | 152229 | [152229-catch-the-bowling-balls.json](./152229-catch-the-bowling-balls.json) |
 | Catch the Bowling Balls: Challenge Mode Edition | 207053 | [207053-catch-the-bowling-balls-challenge-mode-edition.json](./207053-catch-the-bowling-balls-challenge-mode-edition.json) |
@@ -8007,6 +8010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choose an Enemy | 93051 | [93051-choose-an-enemy.json](./93051-choose-an-enemy.json) |
 | Choose and Easy Number IQ Quiz | 308650 | [308650-choose-and-easy-number-iq-quiz.json](./308650-choose-and-easy-number-iq-quiz.json) |
 | Choose Cthulhu Files: The Call of Cthulhu | 329343 | [329343-choose-cthulhu-files-the-call-of-cthulhu.json](./329343-choose-cthulhu-files-the-call-of-cthulhu.json) |
+| Choose for ME | 126703 | [126703-choose-for-me.json](./126703-choose-for-me.json) |
 | Choose Wisely | 75583 | [75583-choose-wisely.json](./75583-choose-wisely.json) |
 | Choose Your 2012 | 394192 | [394192-choose-your-2012.json](./394192-choose-your-2012.json) |
 | Choose Your Own Alternative | 389395 | [389395-choose-your-own-alternative.json](./389395-choose-your-own-alternative.json) |
@@ -11641,6 +11645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Run | 210667 | [210667-coffee-run.json](./210667-coffee-run.json) |
 | Coffee Run | 74470 | [74470-coffee-run.json](./74470-coffee-run.json) |
 | Coffee Runner Black and Mocha | 119490 | [119490-coffee-runner-black-and-mocha.json](./119490-coffee-runner-black-and-mocha.json) |
+| Coffee Rush | 126740 | [126740-coffee-rush.json](./126740-coffee-rush.json) |
 | Coffee Shop Simulator | 217070 | [217070-coffee-shop-simulator.json](./217070-coffee-shop-simulator.json) |
 | Coffee Shop Simulator | 356970 | [356970-coffee-shop-simulator.json](./356970-coffee-shop-simulator.json) |
 | Coffee Shop Tycoon | 35274 | [35274-coffee-shop-tycoon.json](./35274-coffee-shop-tycoon.json) |
@@ -14194,6 +14199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Consume | 179514 | [179514-consume.json](./179514-consume.json) |
 | Consume Me | 123255 | [123255-consume-me.json](./123255-consume-me.json) |
 | Consume Thy Flesh: The Pumpkin Smashing Sim | 189137 | [189137-consume-thy-flesh-the-pumpkin-smashing-sim.json](./189137-consume-thy-flesh-the-pumpkin-smashing-sim.json) |
+| Consumed Awakening | 126726 | [126726-consumed-awakening.json](./126726-consumed-awakening.json) |
 | Consummate:Missing World | 51974 | [51974-consummate-missing-world.json](./51974-consummate-missing-world.json) |
 | Consumption | 179537 | [179537-consumption.json](./179537-consumption.json) |
 | Contact | 187113 | [187113-contact.json](./187113-contact.json) |
@@ -19553,6 +19559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubenomics | 244598 | [244598-cubenomics.json](./244598-cubenomics.json) |
 | Cubeology | 107789 | [107789-cubeology.json](./107789-cubeology.json) |
 | CubeOS | 291507 | [291507-cubeos.json](./291507-cubeos.json) |
+| CubeParkour | 126706 | [126706-cubeparkour.json](./126706-cubeparkour.json) |
 | CubePuzzle | 163546 | [163546-cubepuzzle.json](./163546-cubepuzzle.json) |
 | Cuber | 215440 | [215440-cuber.json](./215440-cuber.json) |
 | Cuber | 254584 | [254584-cuber.json](./254584-cuber.json) |
@@ -21045,6 +21052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunk 2088 | 276093 | [276093-cyberpunk-2088.json](./276093-cyberpunk-2088.json) |
 | Cyberpunk 3776 | 35896 | [35896-cyberpunk-3776.json](./35896-cyberpunk-3776.json) |
 | Cyberpunk Arena | 81736 | [81736-cyberpunk-arena.json](./81736-cyberpunk-arena.json) |
+| Cyberpunk Bar Sim | 126744 | [126744-cyberpunk-bar-sim.json](./126744-cyberpunk-bar-sim.json) |
 | Cyberpunk City | 371573 | [371573-cyberpunk-city.json](./371573-cyberpunk-city.json) |
 | Cyberpunk City Tycoon | 304796 | [304796-cyberpunk-city-tycoon.json](./304796-cyberpunk-city-tycoon.json) |
 | Cyberpunk Detective | 164975 | [164975-cyberpunk-detective.json](./164975-cyberpunk-detective.json) |
