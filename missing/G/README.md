@@ -7656,6 +7656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothic Scythe | 377924 | [377924-gothic-scythe.json](./377924-gothic-scythe.json) |
 | Gothic Survival | 201260 | [201260-gothic-survival.json](./201260-gothic-survival.json) |
 | Gothic Virtual Tabletop | 285676 | [285676-gothic-virtual-tabletop.json](./285676-gothic-virtual-tabletop.json) |
+| Gothic wa Mahou Otome | 78198 | [78198-gothic-wa-mahou-otome.json](./78198-gothic-wa-mahou-otome.json) |
 | Gothic: Complete Collection | 203046 | [203046-gothic-complete-collection.json](./203046-gothic-complete-collection.json) |
 | Gothic: Playable Teaser | 333956 | [333956-gothic-playable-teaser.json](./333956-gothic-playable-teaser.json) |
 | Gothic: The Dark Secrets | 234383 | [234383-gothic-the-dark-secrets.json](./234383-gothic-the-dark-secrets.json) |
@@ -10651,6 +10652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GuiGhost Farms | 87671 | [87671-guighost-farms.json](./87671-guighost-farms.json) |
 | Guild & Gals | 346258 | [346258-guild-and-gals.json](./346258-guild-and-gals.json) |
 | Guild 01 | 92613 | [92613-guild-01.json](./92613-guild-01.json) |
+| Guild 02 | 78188 | [78188-guild-02.json](./78188-guild-02.json) |
 | Guild Ball | 56912 | [56912-guild-ball.json](./56912-guild-ball.json) |
 | Guild Battalion | 297117 | [297117-guild-battalion.json](./297117-guild-battalion.json) |
 | Guild Commander | 36097 | [36097-guild-commander.json](./36097-guild-commander.json) |
@@ -10873,6 +10875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Hero & Guitar Hero II Dual Pack | 382160 | [382160-guitar-hero-and-guitar-hero-ii-dual-pack.json](./382160-guitar-hero-and-guitar-hero-ii-dual-pack.json) |
 | Guitar Hero 64 | 243467 | [243467-guitar-hero-64.json](./243467-guitar-hero-64.json) |
 | Guitar Hero 7 | 251431 | [251431-guitar-hero-7.json](./251431-guitar-hero-7.json) |
+| Guitar Hero Arcade | 78236 | [78236-guitar-hero-arcade.json](./78236-guitar-hero-arcade.json) |
 | Guitar Hero Carabiner | 261387 | [261387-guitar-hero-carabiner.json](./261387-guitar-hero-carabiner.json) |
 | Guitar Hero Dual Pack: Guitar Hero II & Guitar Hero Aerosmith | 314957 | [314957-guitar-hero-dual-pack-guitar-hero-ii-and-guitar-hero-aerosmith.json](./314957-guitar-hero-dual-pack-guitar-hero-ii-and-guitar-hero-aerosmith.json) |
 | Guitar Hero II | 2670 | [2670-guitar-hero-ii.json](./2670-guitar-hero-ii.json) |
