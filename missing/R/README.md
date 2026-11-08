@@ -2418,6 +2418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ray-Thunder | 64909 | [64909-ray-thunder.json](./64909-ray-thunder.json) |
 | Ray: Part 1 | 294266 | [294266-ray-part-1.json](./294266-ray-part-1.json) |
 | Ray's Hotel Adventures | 393005 | [393005-rays-hotel-adventures.json](./393005-rays-hotel-adventures.json) |
+| Ray's Maze | 91489 | [91489-rays-maze.json](./91489-rays-maze.json) |
 | Ray's the Dead | 19514 | [19514-rays-the-dead.json](./19514-rays-the-dead.json) |
 | Ray'z Arcade Chronology | 207918 | [207918-rayz-arcade-chronology.json](./207918-rayz-arcade-chronology.json) |
 | Ray'z Arcade Chronology: Special Limited Edition | 212331 | [212331-rayz-arcade-chronology-special-limited-edition.json](./212331-rayz-arcade-chronology-special-limited-edition.json) |
@@ -6105,6 +6106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ReTrime | 414466 | [414466-retrime.json](./414466-retrime.json) |
 | Retris | 258360 | [258360-retris.json](./258360-retris.json) |
 | Retro | 171479 | [171479-retro.json](./171479-retro.json) |
+| Retro | 91473 | [91473-retro.json](./91473-retro.json) |
 | Retro 4 | 199155 | [199155-retro-4.json](./199155-retro-4.json) |
 | Retro Abyss | 221677 | [221677-retro-abyss.json](./221677-retro-abyss.json) |
 | Retro Adventure | 308399 | [308399-retro-adventure.json](./308399-retro-adventure.json) |
