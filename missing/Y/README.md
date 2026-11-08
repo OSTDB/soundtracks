@@ -1306,6 +1306,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You're Toast | 407781 | [407781-youre-toast.json](./407781-youre-toast.json) |
 | You're Toast 2 | 407782 | [407782-youre-toast-2.json](./407782-youre-toast-2.json) |
 | You're Toast 3: Prehistoric | 407784 | [407784-youre-toast-3-prehistoric.json](./407784-youre-toast-3-prehistoric.json) |
+| You're too high for all these worms! | 138938 | [138938-youre-too-high-for-all-these-worms.json](./138938-youre-too-high-for-all-these-worms.json) |
 | You're Under Arrest | 311062 | [311062-youre-under-arrest.json](./311062-youre-under-arrest.json) |
 | You're Watching Icebox! | 186023 | [186023-youre-watching-icebox.json](./186023-youre-watching-icebox.json) |
 | You've been ReMaid! | 265487 | [265487-youve-been-remaid.json](./265487-youve-been-remaid.json) |
