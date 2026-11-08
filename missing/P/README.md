@@ -1145,6 +1145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panda? | 287715 | [287715-panda.json](./287715-panda.json) |
 | Panda's Big Adventure | 284724 | [284724-pandas-big-adventure.json](./284724-pandas-big-adventure.json) |
 | Panda's Village | 241886 | [241886-pandas-village.json](./241886-pandas-village.json) |
+| PandaBall | 130449 | [130449-pandaball.json](./130449-pandaball.json) |
 | PandaBomber | 367559 | [367559-pandabomber.json](./367559-pandabomber.json) |
 | Pandaclip: The Black Thief | 296763 | [296763-pandaclip-the-black-thief.json](./296763-pandaclip-the-black-thief.json) |
 | Pandadog in Lost Island | 214302 | [214302-pandadog-in-lost-island.json](./214302-pandadog-in-lost-island.json) |
@@ -9128,6 +9129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PK Girls | 231711 | [231711-pk-girls.json](./231711-pk-girls.json) |
 | PK Scramble | 93521 | [93521-pk-scramble.json](./93521-pk-scramble.json) |
 | PK War | 367610 | [367610-pk-war.json](./367610-pk-war.json) |
+| PK XD | 130475 | [130475-pk-xd.json](./130475-pk-xd.json) |
 | Pk2022 | 188505 | [188505-pk2022.json](./188505-pk2022.json) |
 | PKR Let's Play | 62804 | [62804-pkr-lets-play.json](./62804-pkr-lets-play.json) |
 | Pktball | 58674 | [58674-pktball.json](./58674-pktball.json) |
@@ -9782,6 +9784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Platform Game Maker | 257534 | [257534-platform-game-maker.json](./257534-platform-game-maker.json) |
 | Platform Golf | 81936 | [81936-platform-golf.json](./81936-platform-golf.json) |
 | Platform Gun | 262728 | [262728-platform-gun.json](./262728-platform-gun.json) |
+| Platform Master | 130460 | [130460-platform-master.json](./130460-platform-master.json) |
 | Platform Panic | 257224 | [257224-platform-panic.json](./257224-platform-panic.json) |
 | Platform Parkour | 83214 | [83214-platform-parkour.json](./83214-platform-parkour.json) |
 | Platform Racing | 270638 | [270638-platform-racing.json](./270638-platform-racing.json) |
@@ -10009,6 +10012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playhead | 195719 | [195719-playhead.json](./195719-playhead.json) |
 | Playhear : Square Paper City | 148678 | [148678-playhear-square-paper-city.json](./148678-playhear-square-paper-city.json) |
 | PlayHex | 319877 | [319877-playhex.json](./319877-playhex.json) |
+| PlayHome | 130491 | [130491-playhome.json](./130491-playhome.json) |
 | Playhouse Strip Poker | 55990 | [55990-playhouse-strip-poker.json](./55990-playhouse-strip-poker.json) |
 | Playing Both Sides | 122594 | [122594-playing-both-sides.json](./122594-playing-both-sides.json) |
 | Playing Field 2 | 410419 | [410419-playing-field-2.json](./410419-playing-field-2.json) |
@@ -11881,6 +11885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Poker Squares | 131523 | [131523-poker-squares.json](./131523-poker-squares.json) |
 | Poker Squares | 40607 | [40607-poker-squares.json](./40607-poker-squares.json) |
 | Poker Stacker | 78902 | [78902-poker-stacker.json](./78902-poker-stacker.json) |
+| Poker Stadium | 130486 | [130486-poker-stadium.json](./130486-poker-stadium.json) |
 | Poker Starter Pack | 83767 | [83767-poker-starter-pack.json](./83767-poker-starter-pack.json) |
 | Poker Superstars II | 15716 | [15716-poker-superstars-ii.json](./15716-poker-superstars-ii.json) |
 | Poker Superstars III: Gold Chip Challenge | 209345 | [209345-poker-superstars-iii-gold-chip-challenge.json](./209345-poker-superstars-iii-gold-chip-challenge.json) |
