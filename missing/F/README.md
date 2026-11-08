@@ -9515,6 +9515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Simulation Shoot Game | 220060 | [220060-football-simulation-shoot-game.json](./220060-football-simulation-shoot-game.json) |
 | Football Simulator | 204023 | [204023-football-simulator.json](./204023-football-simulator.json) |
 | Football Squad | 309424 | [309424-football-squad.json](./309424-football-squad.json) |
+| Football Star - Super Striker | 101644 | [101644-football-star-super-striker.json](./101644-football-star-super-striker.json) |
 | Football Star Life 23/24 | 260152 | [260152-football-star-life-23-24.json](./260152-football-star-life-23-24.json) |
 | Football Stars Legend 24 | 261888 | [261888-football-stars-legend-24.json](./261888-football-stars-legend-24.json) |
 | Football Stars: Head Ball Soccer Co-op Battle | 328535 | [328535-football-stars-head-ball-soccer-co-op-battle.json](./328535-football-stars-head-ball-soccer-co-op-battle.json) |
@@ -10248,6 +10249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fork N Sausage | 313974 | [313974-fork-n-sausage.json](./313974-fork-n-sausage.json) |
 | Fork of Damocles | 177028 | [177028-fork-of-damocles.json](./177028-fork-of-damocles.json) |
 | Fork of the Crimson Soul | 369051 | [369051-fork-of-the-crimson-soul.json](./369051-fork-of-the-crimson-soul.json) |
+| Fork Parker's Crunch Out | 101155 | [101155-fork-parkers-crunch-out.json](./101155-fork-parkers-crunch-out.json) |
 | Fork Parker's Holiday Profit Hike | 14399 | [14399-fork-parkers-holiday-profit-hike.json](./14399-fork-parkers-holiday-profit-hike.json) |
 | Fork Road | 303067 | [303067-fork-road.json](./303067-fork-road.json) |
 | Fork Truck Challenge | 35140 | [35140-fork-truck-challenge.json](./35140-fork-truck-challenge.json) |
@@ -14193,6 +14195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fusion Fling | 286350 | [286350-fusion-fling.json](./286350-fusion-fling.json) |
 | Fusion Galaxy | 395572 | [395572-fusion-galaxy.json](./395572-fusion-galaxy.json) |
 | Fusion Guards | 116450 | [116450-fusion-guards.json](./116450-fusion-guards.json) |
+| Fusion Heroes | 101159 | [101159-fusion-heroes.json](./101159-fusion-heroes.json) |
 | Fusion Mage | 346506 | [346506-fusion-mage.json](./346506-fusion-mage.json) |
 | Fusion Nexus: Alchemic Evolution | 291776 | [291776-fusion-nexus-alchemic-evolution.json](./291776-fusion-nexus-alchemic-evolution.json) |
 | Fusion Paradox | 248662 | [248662-fusion-paradox.json](./248662-fusion-paradox.json) |
