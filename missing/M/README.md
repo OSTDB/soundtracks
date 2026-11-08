@@ -4508,6 +4508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mars Odyssey | 32929 | [32929-mars-odyssey.json](./32929-mars-odyssey.json) |
 | Mars or Die! | 104047 | [104047-mars-or-die.json](./104047-mars-or-die.json) |
 | Mars Parking Simulator | 193254 | [193254-mars-parking-simulator.json](./193254-mars-parking-simulator.json) |
+| Mars Power Industries | 108083 | [108083-mars-power-industries.json](./108083-mars-power-industries.json) |
 | Mars Power Industries Deluxe | 122168 | [122168-mars-power-industries-deluxe.json](./122168-mars-power-industries-deluxe.json) |
 | Mars Quest | 147220 | [147220-mars-quest.json](./147220-mars-quest.json) |
 | Mars Raid | 245455 | [245455-mars-raid.json](./245455-mars-raid.json) |
@@ -8843,6 +8844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memeside | 384546 | [384546-memeside.json](./384546-memeside.json) |
 | Memesteine Files | 405035 | [405035-memesteine-files.json](./405035-memesteine-files.json) |
 | Memetomo | 314751 | [314751-memetomo.json](./314751-memetomo.json) |
+| Memetown USA | 108002 | [108002-memetown-usa.json](./108002-memetown-usa.json) |
 | Memetric: Classic | 239562 | [239562-memetric-classic.json](./239562-memetric-classic.json) |
 | Memetric: Final Lifeforms | 153213 | [153213-memetric-final-lifeforms.json](./153213-memetric-final-lifeforms.json) |
 | Memetyper | 67926 | [67926-memetyper.json](./67926-memetyper.json) |
