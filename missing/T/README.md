@@ -7075,6 +7075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Burned Ground | 115701 | [115701-the-burned-ground.json](./115701-the-burned-ground.json) |
 | The Burning Descent | 127614 | [127614-the-burning-descent.json](./127614-the-burning-descent.json) |
 | The Burning Owl | 405880 | [405880-the-burning-owl.json](./405880-the-burning-owl.json) |
+| The Burning Wheel | 109099 | [109099-the-burning-wheel.json](./109099-the-burning-wheel.json) |
 | The Burnt School | 147978 | [147978-the-burnt-school.json](./147978-the-burnt-school.json) |
 | The Burst | 253186 | [253186-the-burst.json](./253186-the-burst.json) |
 | The Bus | 143887 | [143887-the-bus.json](./143887-the-bus.json) |
@@ -9569,6 +9570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Few | 17385 | [17385-the-few.json](./17385-the-few.json) |
 | The Few | 211932 | [211932-the-few.json](./211932-the-few.json) |
 | The Few | 407334 | [407334-the-few.json](./407334-the-few.json) |
+| The Fey Lands | 109107 | [109107-the-fey-lands.json](./109107-the-fey-lands.json) |
 | The Fiancée Has Never Known First Love | 370288 | [370288-the-fiancee-has-never-known-first-love.json](./370288-the-fiancee-has-never-known-first-love.json) |
 | The Fiancée Has Never Known First Love: Motto Iinazuke | 381329 | [381329-the-fiancee-has-never-known-first-love-motto-iinazuke.json](./381329-the-fiancee-has-never-known-first-love-motto-iinazuke.json) |
 | The Fibos: Cosmic Invasion | 103251 | [103251-the-fibos-cosmic-invasion.json](./103251-the-fibos-cosmic-invasion.json) |
@@ -10630,6 +10632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Grotesque and Pixelesque | 400596 | [400596-the-grotesque-and-pixelesque.json](./400596-the-grotesque-and-pixelesque.json) |
 | The Grotto Diary | 153067 | [153067-the-grotto-diary.json](./153067-the-grotto-diary.json) |
 | The Ground Division | 139398 | [139398-the-ground-division.json](./139398-the-ground-division.json) |
+| The Ground Gives Way | 109095 | [109095-the-ground-gives-way.json](./109095-the-ground-gives-way.json) |
 | The Grounding | 140506 | [140506-the-grounding.json](./140506-the-grounding.json) |
 | The Groundskeeper | 255836 | [255836-the-groundskeeper.json](./255836-the-groundskeeper.json) |
 | The Groundskeeper | 366885 | [366885-the-groundskeeper.json](./366885-the-groundskeeper.json) |
@@ -17175,10 +17178,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs 2 | 83900 | [83900-the-smurfs-2.json](./83900-the-smurfs-2.json) |
 | The Smurfs 2: The Prisoner of the Green Stone | 250172 | [250172-the-smurfs-2-the-prisoner-of-the-green-stone.json](./250172-the-smurfs-2-the-prisoner-of-the-green-stone.json) |
 | The Smurfs 2: The Prisoner of the Green Stone: Corrupted Outfit / Farmer Outfit / Adorable Outfit | 275060 | [275060-the-smurfs-2-the-prisoner-of-the-green-stone-corrupted-outfit-farmer-outfit-adorable-outfit.json](./275060-the-smurfs-2-the-prisoner-of-the-green-stone-corrupted-outfit-farmer-outfit-adorable-outfit.json) |
+| The Smurfs and the 4 Seasons | 109150 | [109150-the-smurfs-and-the-4-seasons.json](./109150-the-smurfs-and-the-4-seasons.json) |
 | The Smurfs Bakery | 248647 | [248647-the-smurfs-bakery.json](./248647-the-smurfs-bakery.json) |
 | The Smurfs Collection | 75142 | [75142-the-smurfs-collection.json](./75142-the-smurfs-collection.json) |
 | The Smurfs Dance Party | 3304 | [3304-the-smurfs-dance-party.json](./3304-the-smurfs-dance-party.json) |
 | The Smurfs Dreams: Cosmic Costume | 316238 | [316238-the-smurfs-dreams-cosmic-costume.json](./316238-the-smurfs-dreams-cosmic-costume.json) |
+| The Smurfs Games | 109149 | [109149-the-smurfs-games.json](./109149-the-smurfs-games.json) |
 | The Smurfs Party Pack | 79212 | [79212-the-smurfs-party-pack.json](./79212-the-smurfs-party-pack.json) |
 | The Smurfs Travel the World | 287148 | [287148-the-smurfs-travel-the-world.json](./287148-the-smurfs-travel-the-world.json) |
 | The Smurfs Travel the World | 287150 | [287150-the-smurfs-travel-the-world.json](./287150-the-smurfs-travel-the-world.json) |
@@ -32279,6 +32284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrotMania: Aeternum Obscurum | 313470 | [313470-trotmania-aeternum-obscurum.json](./313470-trotmania-aeternum-obscurum.json) |
 | TrotMania: Chrystalize | 261385 | [261385-trotmania-chrystalize.json](./261385-trotmania-chrystalize.json) |
 | TrotMania: Rhythm is Magic | 261384 | [261384-trotmania-rhythm-is-magic.json](./261384-trotmania-rhythm-is-magic.json) |
+| Trouble Captor! | 109118 | [109118-trouble-captor.json](./109118-trouble-captor.json) |
 | Trouble Comes Twice | 214884 | [214884-trouble-comes-twice.json](./214884-trouble-comes-twice.json) |
 | Trouble Comes Twice: Bonus Stories | 295266 | [295266-trouble-comes-twice-bonus-stories.json](./295266-trouble-comes-twice-bonus-stories.json) |
 | Trouble Fortune Company Happy Cure | 221830 | [221830-trouble-fortune-company-happy-cure.json](./221830-trouble-fortune-company-happy-cure.json) |
@@ -33034,6 +33040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TU-95 | 120877 | [120877-tu-95.json](./120877-tu-95.json) |
 | Tuareg | 138929 | [138929-tuareg.json](./138929-tuareg.json) |
 | Túatha Echoes: The Village | 338603 | [338603-tuatha-echoes-the-village.json](./338603-tuatha-echoes-the-village.json) |
+| Tub | 109125 | [109125-tub.json](./109125-tub.json) |
 | Tub Defenders | 252930 | [252930-tub-defenders.json](./252930-tub-defenders.json) |
 | Tub Sub | 180584 | [180584-tub-sub.json](./180584-tub-sub.json) |
 | Tubaruba | 259382 | [259382-tubaruba.json](./259382-tubaruba.json) |
