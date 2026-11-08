@@ -10645,6 +10645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilds of Greybrook | 373166 | [373166-guilds-of-greybrook.json](./373166-guilds-of-greybrook.json) |
 | Guilds of Mountgate | 405523 | [405523-guilds-of-mountgate.json](./405523-guilds-of-mountgate.json) |
 | Guile | 13249 | [13249-guile.json](./13249-guile.json) |
+| Guile & Glory: Firstborn | 116597 | [116597-guile-and-glory-firstborn.json](./116597-guile-and-glory-firstborn.json) |
 | Guiling's Adventure | 355200 | [355200-guilings-adventure.json](./355200-guilings-adventure.json) |
 | Guillem de Berguedà | 373571 | [373571-guillem-de-bergueda.json](./373571-guillem-de-bergueda.json) |
 | Guillermo Tell | 146307 | [146307-guillermo-tell.json](./146307-guillermo-tell.json) |
