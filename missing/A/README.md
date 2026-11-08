@@ -934,6 +934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Night in Nowhere | 184043 | [184043-a-night-in-nowhere.json](./184043-a-night-in-nowhere.json) |
 | A Night in Omar's Burger | 249928 | [249928-a-night-in-omars-burger.json](./249928-a-night-in-omars-burger.json) |
 | A Night in Prison | 258896 | [258896-a-night-in-prison.json](./258896-a-night-in-prison.json) |
+| A Night in the Woods | 128760 | [128760-a-night-in-the-woods.json](./128760-a-night-in-the-woods.json) |
 | A Night in Vanet Manor | 147243 | [147243-a-night-in-vanet-manor.json](./147243-a-night-in-vanet-manor.json) |
 | A Night Like Tonight | 183728 | [183728-a-night-like-tonight.json](./183728-a-night-like-tonight.json) |
 | A Night On The Farm | 266431 | [266431-a-night-on-the-farm.json](./266431-a-night-on-the-farm.json) |
@@ -2510,6 +2511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acceleration of Suguri X-Edition | 44596 | [44596-acceleration-of-suguri-x-edition.json](./44596-acceleration-of-suguri-x-edition.json) |
 | Acceleration of Suguri: X-Edition HD | 30251 | [30251-acceleration-of-suguri-x-edition-hd.json](./30251-acceleration-of-suguri-x-edition-hd.json) |
 | Acceleration of Suguri: Y-Edition | 265071 | [265071-acceleration-of-suguri-y-edition.json](./265071-acceleration-of-suguri-y-edition.json) |
+| Accelerator | 128718 | [128718-accelerator.json](./128718-accelerator.json) |
 | Accelerator | 77142 | [77142-accelerator.json](./77142-accelerator.json) |
 | Accelerator Operator | 373345 | [373345-accelerator-operator.json](./373345-accelerator-operator.json) |
 | Acceptable Losses | 379459 | [379459-acceptable-losses.json](./379459-acceptable-losses.json) |
@@ -13799,6 +13801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argot's Laboratory | 415328 | [415328-argots-laboratory.json](./415328-argots-laboratory.json) |
 | Argousze | 178853 | [178853-argousze.json](./178853-argousze.json) |
 | Arguice no Tsubasa | 381406 | [381406-arguice-no-tsubasa.json](./381406-arguice-no-tsubasa.json) |
+| Argument Champion | 128733 | [128733-argument-champion.json](./128733-argument-champion.json) |
 | Argument Wars | 207833 | [207833-argument-wars.json](./207833-argument-wars.json) |
 | Argumentum Ad Culpam | 248012 | [248012-argumentum-ad-culpam.json](./248012-argumentum-ad-culpam.json) |
 | Argus | 250161 | [250161-argus.json](./250161-argus.json) |
