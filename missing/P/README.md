@@ -233,6 +233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Giant Joystick | 219435 | [219435-pac-man-giant-joystick.json](./219435-pac-man-giant-joystick.json) |
 | Pac-Man in a Tin | 219374 | [219374-pac-man-in-a-tin.json](./219374-pac-man-in-a-tin.json) |
 | Pac-Man Kart Rally | 65233 | [65233-pac-man-kart-rally.json](./65233-pac-man-kart-rally.json) |
+| Pac-Man Live Studio | 134152 | [134152-pac-man-live-studio.json](./134152-pac-man-live-studio.json) |
 | Pac-Man Maker | 28186 | [28186-pac-man-maker.json](./28186-pac-man-maker.json) |
 | Pac-Man Mega Tunnel Battle | 140269 | [140269-pac-man-mega-tunnel-battle.json](./140269-pac-man-mega-tunnel-battle.json) |
 | Pac-Man Mega Tunnel Battle: Chomp Champs - Chomp Challengers Pac | 317736 | [317736-pac-man-mega-tunnel-battle-chomp-champs-chomp-challengers-pac.json](./317736-pac-man-mega-tunnel-battle-chomp-champs-chomp-challengers-pac.json) |
@@ -6169,6 +6170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pico's School: Love Conquers All | 383761 | [383761-picos-school-love-conquers-all.json](./383761-picos-school-love-conquers-all.json) |
 | Picoban | 243778 | [243778-picoban.json](./243778-picoban.json) |
 | Picogori 2025 | 360453 | [360453-picogori-2025.json](./360453-picogori-2025.json) |
+| PicoHot | 134203 | [134203-picohot.json](./134203-picohot.json) |
 | PicOHRoss | 387521 | [387521-picohross.json](./387521-picohross.json) |
 | Picokaiju | 202393 | [202393-picokaiju.json](./202393-picokaiju.json) |
 | Picolarium | 178605 | [178605-picolarium.json](./178605-picolarium.json) |
@@ -8665,6 +8667,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Samurai | 204812 | [204812-pixel-samurai.json](./204812-pixel-samurai.json) |
 | Pixel Sand | 28378 | [28378-pixel-sand.json](./28378-pixel-sand.json) |
 | Pixel Sangokushi | 200730 | [200730-pixel-sangokushi.json](./200730-pixel-sangokushi.json) |
+| Pixel Session Vol. 1 | 134204 | [134204-pixel-session-vol-1.json](./134204-pixel-session-vol-1.json) |
 | Pixel Shield | 110518 | [110518-pixel-shield.json](./110518-pixel-shield.json) |
 | Pixel Shinobi | 373089 | [373089-pixel-shinobi.json](./373089-pixel-shinobi.json) |
 | Pixel Shinobi: Nine demons of Mamoru | 28682 | [28682-pixel-shinobi-nine-demons-of-mamoru.json](./28682-pixel-shinobi-nine-demons-of-mamoru.json) |
@@ -12430,6 +12433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polymino | 264659 | [264659-polymino.json](./264659-polymino.json) |
 | Polymorph | 412744 | [412744-polymorph.json](./412744-polymorph.json) |
 | Polymorphite | 407094 | [407094-polymorphite.json](./407094-polymorphite.json) |
+| Polymute | 134205 | [134205-polymute.json](./134205-polymute.json) |
 | Polynomial 2 | 24967 | [24967-polynomial-2.json](./24967-polynomial-2.json) |
 | Polynya | 306767 | [306767-polynya.json](./306767-polynya.json) |
 | Polyology | 33313 | [33313-polyology.json](./33313-polyology.json) |
