@@ -4112,6 +4112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AeroWings | 3709 | [3709-aerowings.json](./3709-aerowings.json) |
 | AeroWings 2: Airstrike | 3708 | [3708-aerowings-2-airstrike.json](./3708-aerowings-2-airstrike.json) |
 | Aertan | 415931 | [415931-aertan.json](./415931-aertan.json) |
+| Aery VR | 126749 | [126749-aery-vr.json](./126749-aery-vr.json) |
 | Aery VR: A Journey Beyond Time | 237216 | [237216-aery-vr-a-journey-beyond-time.json](./237216-aery-vr-a-journey-beyond-time.json) |
 | Aery VR: Broken Memories | 237248 | [237248-aery-vr-broken-memories.json](./237248-aery-vr-broken-memories.json) |
 | Aery VR: Calm Mind | 237249 | [237249-aery-vr-calm-mind.json](./237249-aery-vr-calm-mind.json) |
@@ -5691,6 +5692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airframe Ultra | 257450 | [257450-airframe-ultra.json](./257450-airframe-ultra.json) |
 | Airglow | 119496 | [119496-airglow.json](./119496-airglow.json) |
 | Airgrave | 43804 | [43804-airgrave.json](./43804-airgrave.json) |
+| Airhack | 126746 | [126746-airhack.json](./126746-airhack.json) |
 | Airhead | 119015 | [119015-airhead.json](./119015-airhead.json) |
 | AirHead Adam | 261325 | [261325-airhead-adam.json](./261325-airhead-adam.json) |
 | Airhead Games | 340724 | [340724-airhead-games.json](./340724-airhead-games.json) |
