@@ -1459,6 +1459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VeniVidiFutzi | 271731 | [271731-venividifutzi.json](./271731-venividifutzi.json) |
 | Venkazoid Blast | 158310 | [158310-venkazoid-blast.json](./158310-venkazoid-blast.json) |
 | Venny's Vinyl Shop | 381677 | [381677-vennys-vinyl-shop.json](./381677-vennys-vinyl-shop.json) |
+| Venom | 97412 | [97412-venom.json](./97412-venom.json) |
 | Venom Adventure | 227090 | [227090-venom-adventure.json](./227090-venom-adventure.json) |
 | Venom Strikes Back | 39124 | [39124-venom-strikes-back.json](./39124-venom-strikes-back.json) |
 | Venom Strikes Back | 47181 | [47181-venom-strikes-back.json](./47181-venom-strikes-back.json) |
