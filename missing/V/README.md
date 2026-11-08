@@ -1563,7 +1563,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Verkehrsspiele 1 | 283016 | [283016-verkehrsspiele-1.json](./283016-verkehrsspiele-1.json) |
 | Verkehrsspiele 2 | 283017 | [283017-verkehrsspiele-2.json](./283017-verkehrsspiele-2.json) |
 | Verlet Ascend | 213560 | [213560-verlet-ascend.json](./213560-verlet-ascend.json) |
-| Verlet Swing | 97333 | [97333-verlet-swing.json](./97333-verlet-swing.json) |
 | Verliebt in Berlin | 92839 | [92839-verliebt-in-berlin.json](./92839-verliebt-in-berlin.json) |
 | Verlies | 94195 | [94195-verlies.json](./94195-verlies.json) |
 | Verlies II | 35213 | [35213-verlies-ii.json](./35213-verlies-ii.json) |
@@ -3962,6 +3961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Desert Roller Coaster - Egypt | 103057 | [103057-vr-desert-roller-coaster-egypt.json](./103057-vr-desert-roller-coaster-egypt.json) |
 | VR Dinosaur City War | 258068 | [258068-vr-dinosaur-city-war.json](./258068-vr-dinosaur-city-war.json) |
 | VR Dinosaur Fight | 208644 | [208644-vr-dinosaur-fight.json](./208644-vr-dinosaur-fight.json) |
+| VR Dinosaur Hunter: City Dino Survival Game 3D | 107341 | [107341-vr-dinosaur-hunter-city-dino-survival-game-3d.json](./107341-vr-dinosaur-hunter-city-dino-survival-game-3d.json) |
 | VR Dinosaur Invasion | 235730 | [235730-vr-dinosaur-invasion.json](./235730-vr-dinosaur-invasion.json) |
 | VR Dinosaur Island Paradise | 265260 | [265260-vr-dinosaur-island-paradise.json](./265260-vr-dinosaur-island-paradise.json) |
 | VR Dinosaur Pingpong | 235188 | [235188-vr-dinosaur-pingpong.json](./235188-vr-dinosaur-pingpong.json) |
