@@ -1075,6 +1075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiet Maple | 184992 | [184992-quiet-maple.json](./184992-quiet-maple.json) |
 | Quiet on Set | 266300 | [266300-quiet-on-set.json](./266300-quiet-on-set.json) |
 | Quiet Rehabilitation | 281411 | [281411-quiet-rehabilitation.json](./281411-quiet-rehabilitation.json) |
+| Quiet Sleep | 117250 | [117250-quiet-sleep.json](./117250-quiet-sleep.json) |
 | Quiet Space | 179025 | [179025-quiet-space.json](./179025-quiet-space.json) |
 | Quiet Thoughts | 157488 | [157488-quiet-thoughts.json](./157488-quiet-thoughts.json) |
 | Quiet Town | 220478 | [220478-quiet-town.json](./220478-quiet-town.json) |
