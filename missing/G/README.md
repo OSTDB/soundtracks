@@ -7690,6 +7690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grab Man | 47264 | [47264-grab-man.json](./47264-grab-man.json) |
 | Grab n' Throw | 217151 | [217151-grab-n-throw.json](./217151-grab-n-throw.json) |
 | Grab the Apple | 266130 | [266130-grab-the-apple.json](./266130-grab-the-apple.json) |
+| Grab the Beat | 132360 | [132360-grab-the-beat.json](./132360-grab-the-beat.json) |
 | Grab the Goblins! | 250650 | [250650-grab-the-goblins.json](./250650-grab-the-goblins.json) |
 | Grab the Mask | 121546 | [121546-grab-the-mask.json](./121546-grab-the-mask.json) |
 | Grab the Sushi | 268023 | [268023-grab-the-sushi.json](./268023-grab-the-sushi.json) |
