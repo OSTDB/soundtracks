@@ -2696,6 +2696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Golf | 31009 | [31009-party-golf.json](./31009-party-golf.json) |
 | Party Hard | 12070 | [12070-party-hard.json](./12070-party-hard.json) |
 | Party Hard 2: Collector's Edition | 237866 | [237866-party-hard-2-collectors-edition.json](./237866-party-hard-2-collectors-edition.json) |
+| Party Hard Go | 90046 | [90046-party-hard-go.json](./90046-party-hard-go.json) |
 | Party Hard Pack | 237984 | [237984-party-hard-pack.json](./237984-party-hard-pack.json) |
 | Party Hard Tycoon | 23180 | [23180-party-hard-tycoon.json](./23180-party-hard-tycoon.json) |
 | Party Hard: High Crimes | 171630 | [171630-party-hard-high-crimes.json](./171630-party-hard-high-crimes.json) |
@@ -3792,6 +3793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peak or Die | 382886 | [382886-peak-or-die.json](./382886-peak-or-die.json) |
 | Peak Performance | 20139 | [20139-peak-performance.json](./20139-peak-performance.json) |
 | Peak Rhythm | 393870 | [393870-peak-rhythm.json](./393870-peak-rhythm.json) |
+| Peak Rider Snowboarding | 90033 | [90033-peak-rider-snowboarding.json](./90033-peak-rider-snowboarding.json) |
 | Peak: The Dillydally Update | 375509 | [375509-peak-the-dillydally-update.json](./375509-peak-the-dillydally-update.json) |
 | Peak: The Final Ascent | 412529 | [412529-peak-the-final-ascent.json](./412529-peak-the-final-ascent.json) |
 | Peak: The Mesa Update | 363305 | [363305-peak-the-mesa-update.json](./363305-peak-the-mesa-update.json) |
