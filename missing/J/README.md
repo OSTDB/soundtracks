@@ -1018,6 +1018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jelly Defense | 22206 | [22206-jelly-defense.json](./22206-jelly-defense.json) |
 | Jelly Drift | 177195 | [177195-jelly-drift.json](./177195-jelly-drift.json) |
 | Jelly Escape | 286641 | [286641-jelly-escape.json](./286641-jelly-escape.json) |
+| Jelly Escape | 96160 | [96160-jelly-escape.json](./96160-jelly-escape.json) |
 | Jelly Express | 199592 | [199592-jelly-express.json](./199592-jelly-express.json) |
 | Jelly Forest | 202545 | [202545-jelly-forest.json](./202545-jelly-forest.json) |
 | Jelly Form | 375142 | [375142-jelly-form.json](./375142-jelly-form.json) |
