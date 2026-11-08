@@ -6166,6 +6166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pico Park: Classic Edition | 288208 | [288208-pico-park-classic-edition.json](./288208-pico-park-classic-edition.json) |
 | Pico Pico | 118991 | [118991-pico-pico.json](./118991-pico-pico.json) |
 | Pico Pico Dungeon! | 329006 | [329006-pico-pico-dungeon.json](./329006-pico-pico-dungeon.json) |
+| Pico Pico Love Touch | 119914 | [119914-pico-pico-love-touch.json](./119914-pico-pico-love-touch.json) |
 | Pico Pico MicroMix | 182992 | [182992-pico-pico-micromix.json](./182992-pico-pico-micromix.json) |
 | Pico Pirates | 184068 | [184068-pico-pirates.json](./184068-pico-pirates.json) |
 | Pico Racer | 135776 | [135776-pico-racer.json](./135776-pico-racer.json) |
@@ -18291,6 +18292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puss in Boots: Fear Not Hooman | 118204 | [118204-puss-in-boots-fear-not-hooman.json](./118204-puss-in-boots-fear-not-hooman.json) |
 | Puss in Boots: Interactive Book | 400064 | [400064-puss-in-boots-interactive-book.json](./400064-puss-in-boots-interactive-book.json) |
 | Puss in Boots: Purrfect Adventures | 298578 | [298578-puss-in-boots-purrfect-adventures.json](./298578-puss-in-boots-purrfect-adventures.json) |
+| Puss in Combat Boots | 119911 | [119911-puss-in-combat-boots.json](./119911-puss-in-combat-boots.json) |
 | Puss in Pants | 359044 | [359044-puss-in-pants.json](./359044-puss-in-pants.json) |
 | Puss in Woods | 304389 | [304389-puss-in-woods.json](./304389-puss-in-woods.json) |
 | Puss The Way Id Did | 329990 | [329990-puss-the-way-id-did.json](./329990-puss-the-way-id-did.json) |
