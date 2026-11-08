@@ -337,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fabulous: Angela's Sweet Revenge | 88336 | [88336-fabulous-angelas-sweet-revenge.json](./88336-fabulous-angelas-sweet-revenge.json) |
 | Fabulous: Angela's Wedding Disaster | 99076 | [99076-fabulous-angelas-wedding-disaster.json](./99076-fabulous-angelas-wedding-disaster.json) |
 | Facada | 395036 | [395036-facada.json](./395036-facada.json) |
+| Facade | 127495 | [127495-facade.json](./127495-facade.json) |
 | Face | 87958 | [87958-face.json](./87958-face.json) |
 | Face 2 Face | 299730 | [299730-face-2-face.json](./299730-face-2-face.json) |
 | Face au train | 90835 | [90835-face-au-train.json](./90835-face-au-train.json) |
