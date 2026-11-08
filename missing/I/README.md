@@ -296,6 +296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Don't Want to Die | 137232 | [137232-i-dont-want-to-die.json](./137232-i-dont-want-to-die.json) |
 | I Dont Even Know | 294413 | [294413-i-dont-even-know.json](./294413-i-dont-even-know.json) |
 | I dream of you and ice cream | 135654 | [135654-i-dream-of-you-and-ice-cream.json](./135654-i-dream-of-you-and-ice-cream.json) |
+| I Dream Zombies | 108651 | [108651-i-dream-zombies.json](./108651-i-dream-zombies.json) |
 | I Dreamed about static again | 378565 | [378565-i-dreamed-about-static-again.json](./378565-i-dreamed-about-static-again.json) |
 | I Dreamed of Dead Stars | 276534 | [276534-i-dreamed-of-dead-stars.json](./276534-i-dreamed-of-dead-stars.json) |
 | I Dreamt of Something Lost | 364232 | [364232-i-dreamt-of-something-lost.json](./364232-i-dreamt-of-something-lost.json) |
@@ -2529,6 +2530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immortal Love: Bitter Awakening - Collector's Edition | 358090 | [358090-immortal-love-bitter-awakening-collectors-edition.json](./358090-immortal-love-bitter-awakening-collectors-edition.json) |
 | Immortal Love: Black Lotus | 397121 | [397121-immortal-love-black-lotus.json](./397121-immortal-love-black-lotus.json) |
 | Immortal Love: Black Lotus - Collector's Edition | 397122 | [397122-immortal-love-black-lotus-collectors-edition.json](./397122-immortal-love-black-lotus-collectors-edition.json) |
+| Immortal Love: Blind Desire | 108560 | [108560-immortal-love-blind-desire.json](./108560-immortal-love-blind-desire.json) |
 | Immortal Love: Blind Desire - Collector's Edition | 397120 | [397120-immortal-love-blind-desire-collectors-edition.json](./397120-immortal-love-blind-desire-collectors-edition.json) |
 | Immortal Love: Kiss of the Night | 120796 | [120796-immortal-love-kiss-of-the-night.json](./120796-immortal-love-kiss-of-the-night.json) |
 | Immortal Love: Kiss of the Night - Collector's Edition | 397123 | [397123-immortal-love-kiss-of-the-night-collectors-edition.json](./397123-immortal-love-kiss-of-the-night-collectors-edition.json) |
@@ -5338,7 +5340,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Darkness VR | 220141 | [220141-into-the-darkness-vr.json](./220141-into-the-darkness-vr.json) |
 | Into the Dataswarm | 363144 | [363144-into-the-dataswarm.json](./363144-into-the-dataswarm.json) |
 | Into the Dead | 20911 | [20911-into-the-dead.json](./20911-into-the-dead.json) |
-| Into the Dead 2 | 74828 | [74828-into-the-dead-2.json](./74828-into-the-dead-2.json) |
 | Into the Dead 2 Bundle | 238239 | [238239-into-the-dead-2-bundle.json](./238239-into-the-dead-2-bundle.json) |
 | Into the Dead 2: George A. Romero's Night of the Living Dead | 238240 | [238240-into-the-dead-2-george-a-romeros-night-of-the-living-dead.json](./238240-into-the-dead-2-george-a-romeros-night-of-the-living-dead.json) |
 | Into the Dead 2: Ghostbusters | 237848 | [237848-into-the-dead-2-ghostbusters.json](./237848-into-the-dead-2-ghostbusters.json) |
