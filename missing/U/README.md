@@ -3128,6 +3128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up Down Z | 136235 | [136235-up-down-z.json](./136235-up-down-z.json) |
 | Up for Grabs | 268025 | [268025-up-for-grabs.json](./268025-up-for-grabs.json) |
 | Up Hike | 286992 | [286992-up-hike.json](./286992-up-hike.json) |
+| Up in the Air | 129931 | [129931-up-in-the-air.json](./129931-up-in-the-air.json) |
 | Up Island | 328188 | [328188-up-island.json](./328188-up-island.json) |
 | Up Left Out | 103375 | [103375-up-left-out.json](./103375-up-left-out.json) |
 | Up N' Down | 264198 | [264198-up-n-down.json](./264198-up-n-down.json) |
