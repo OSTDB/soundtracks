@@ -17028,7 +17028,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drifting Cloud | 99577 | [99577-drifting-cloud.json](./99577-drifting-cloud.json) |
 | Drifting Dots | 390694 | [390694-drifting-dots.json](./390694-drifting-dots.json) |
 | Drifting in Space | 129680 | [129680-drifting-in-space.json](./129680-drifting-in-space.json) |
-| Drifting Lands | 17835 | [17835-drifting-lands.json](./17835-drifting-lands.json) |
 | Driftkhana | 197345 | [197345-driftkhana.json](./197345-driftkhana.json) |
 | DriftKing 2D | 135464 | [135464-driftking-2d.json](./135464-driftking-2d.json) |
 | Driftland: The Magic Revival | 69455 | [69455-driftland-the-magic-revival.json](./69455-driftland-the-magic-revival.json) |
