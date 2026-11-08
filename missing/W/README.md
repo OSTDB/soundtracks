@@ -5366,6 +5366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Trax Racing | 225959 | [225959-wild-trax-racing.json](./225959-wild-trax-racing.json) |
 | Wild Tribe | 228001 | [228001-wild-tribe.json](./228001-wild-tribe.json) |
 | Wild Turkey Hunt | 95453 | [95453-wild-turkey-hunt.json](./95453-wild-turkey-hunt.json) |
+| Wild Turkey Hunter | 97417 | [97417-wild-turkey-hunter.json](./97417-wild-turkey-hunter.json) |
 | Wild Turkey Hunter VR | 106863 | [106863-wild-turkey-hunter-vr.json](./106863-wild-turkey-hunter-vr.json) |
 | Wild Unknown | 29472 | [29472-wild-unknown.json](./29472-wild-unknown.json) |
 | Wild Varmint Bounty Hunter | 118220 | [118220-wild-varmint-bounty-hunter.json](./118220-wild-varmint-bounty-hunter.json) |
