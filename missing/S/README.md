@@ -6538,6 +6538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex with the Devil 2 | 260567 | [260567-sex-with-the-devil-2.json](./260567-sex-with-the-devil-2.json) |
 | Sex With Toys | 267686 | [267686-sex-with-toys.json](./267686-sex-with-toys.json) |
 | Sex x Hex | 243381 | [243381-sex-x-hex.json](./243381-sex-x-hex.json) |
+| Sex-Slave Doctor | 104182 | [104182-sex-slave-doctor.json](./104182-sex-slave-doctor.json) |
 | Sex-Slave Doctor | 97845 | [97845-sex-slave-doctor.json](./97845-sex-slave-doctor.json) |
 | Sex, Beach & Girls | 311818 | [311818-sex-beach-and-girls.json](./311818-sex-beach-and-girls.json) |
 | Sex, Drugs and Cyberpunk | 368093 | [368093-sex-drugs-and-cyberpunk.json](./368093-sex-drugs-and-cyberpunk.json) |
@@ -14721,6 +14722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Hue | 263578 | [263578-smash-hue.json](./263578-smash-hue.json) |
 | Smash Hyper Drive | 220667 | [220667-smash-hyper-drive.json](./220667-smash-hyper-drive.json) |
 | Smash Island | 105785 | [105785-smash-island.json](./105785-smash-island.json) |
+| Smash It | 104176 | [104176-smash-it.json](./104176-smash-it.json) |
 | Smash it Up! | 67850 | [67850-smash-it-up.json](./67850-smash-it-up.json) |
 | Smash Karts | 130348 | [130348-smash-karts.json](./130348-smash-karts.json) |
 | Smash Kingdom | 228129 | [228129-smash-kingdom.json](./228129-smash-kingdom.json) |
@@ -15288,6 +15290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake's Game | 57491 | [57491-snakes-game.json](./57491-snakes-game.json) |
 | Snake's Revenge | 198894 | [198894-snakes-revenge.json](./198894-snakes-revenge.json) |
 | Snake's Revenge | 7848 | [7848-snakes-revenge.json](./7848-snakes-revenge.json) |
+| Snake+ | 104284 | [104284-snake.json](./104284-snake.json) |
 | Snake2 | 98882 | [98882-snake2.json](./98882-snake2.json) |
 | Snake360 | 71607 | [71607-snake360.json](./71607-snake360.json) |
 | Snake360 Lite | 68431 | [68431-snake360-lite.json](./68431-snake360-lite.json) |
@@ -34933,6 +34936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Dead Poly | 267818 | [267818-survival-dead-poly.json](./267818-survival-dead-poly.json) |
 | Survival Dead Poly: Bow | 274637 | [274637-survival-dead-poly-bow.json](./274637-survival-dead-poly-bow.json) |
 | Survival Denied | 132228 | [132228-survival-denied.json](./132228-survival-denied.json) |
+| Survival Diary | 104207 | [104207-survival-diary.json](./104207-survival-diary.json) |
 | Survival Draw | 157861 | [157861-survival-draw.json](./157861-survival-draw.json) |
 | Survival Driver | 29637 | [29637-survival-driver.json](./29637-survival-driver.json) |
 | Survival driver 2: Heavy vehicles | 55277 | [55277-survival-driver-2-heavy-vehicles.json](./55277-survival-driver-2-heavy-vehicles.json) |
