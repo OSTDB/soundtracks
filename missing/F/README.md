@@ -8016,6 +8016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flightless Fighters | 391710 | [391710-flightless-fighters.json](./391710-flightless-fighters.json) |
 | Flightless Star | 320085 | [320085-flightless-star.json](./320085-flightless-star.json) |
 | Flightmare | 267469 | [267469-flightmare.json](./267469-flightmare.json) |
+| Flightmare | 97024 | [97024-flightmare.json](./97024-flightmare.json) |
 | Flightpath | 208658 | [208658-flightpath.json](./208658-flightpath.json) |
 | Flightpath: Adventures in Venaris | 294233 | [294233-flightpath-adventures-in-venaris.json](./294233-flightpath-adventures-in-venaris.json) |
 | Flights of Fancy | 176954 | [176954-flights-of-fancy.json](./176954-flights-of-fancy.json) |
