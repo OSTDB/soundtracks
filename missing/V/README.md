@@ -1187,6 +1187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegas Infinite | 277301 | [277301-vegas-infinite.json](./277301-vegas-infinite.json) |
 | Vegas Infinite by PokerStars | 110104 | [110104-vegas-infinite-by-pokerstars.json](./110104-vegas-infinite-by-pokerstars.json) |
 | Vegas Jackpot | 416711 | [416711-vegas-jackpot.json](./416711-vegas-jackpot.json) |
+| Vegas Jackpot Gold | 131030 | [131030-vegas-jackpot-gold.json](./131030-vegas-jackpot-gold.json) |
 | Vegas Nights | 383989 | [383989-vegas-nights.json](./383989-vegas-nights.json) |
 | Vegas Party | 51058 | [51058-vegas-party.json](./51058-vegas-party.json) |
 | Vegas Party | 85832 | [85832-vegas-party.json](./85832-vegas-party.json) |
@@ -2157,6 +2158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vigilance 2099 | 168541 | [168541-vigilance-2099.json](./168541-vigilance-2099.json) |
 | Vigilance on Talos V | 70820 | [70820-vigilance-on-talos-v.json](./70820-vigilance-on-talos-v.json) |
 | Vigilancer 2099 | 228480 | [228480-vigilancer-2099.json](./228480-vigilancer-2099.json) |
+| Vigilant | 131051 | [131051-vigilant.json](./131051-vigilant.json) |
 | Vigilant | 322466 | [322466-vigilant.json](./322466-vigilant.json) |
 | Vigilant Inquest | 309659 | [309659-vigilant-inquest.json](./309659-vigilant-inquest.json) |
 | Vigilante | 10444 | [10444-vigilante.json](./10444-vigilante.json) |
@@ -2453,6 +2455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vinyl | 35299 | [35299-vinyl.json](./35299-vinyl.json) |
 | Vinyl Freak: Unsorted | 419996 | [419996-vinyl-freak-unsorted.json](./419996-vinyl-freak-unsorted.json) |
 | Vinyl Goddess from Mars | 70953 | [70953-vinyl-goddess-from-mars.json](./70953-vinyl-goddess-from-mars.json) |
+| Vinyl Reality | 131055 | [131055-vinyl-reality.json](./131055-vinyl-reality.json) |
 | VinylMinty's Video Game Quiz | 320980 | [320980-vinylmintys-video-game-quiz.json](./320980-vinylmintys-video-game-quiz.json) |
 | Vinylove | 107246 | [107246-vinylove.json](./107246-vinylove.json) |
 | Viola_ | 390580 | [390580-viola.json](./390580-viola.json) |
@@ -2921,6 +2924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtuoso Skins Game | 391886 | [391886-virtuoso-skins-game.json](./391886-virtuoso-skins-game.json) |
 | Virtuous | 275416 | [275416-virtuous.json](./275416-virtuous.json) |
 | Virtuous Western | 156056 | [156056-virtuous-western.json](./156056-virtuous-western.json) |
+| Virtuverse | 131082 | [131082-virtuverse.json](./131082-virtuverse.json) |
 | Virtuxy | 157109 | [157109-virtuxy.json](./157109-virtuxy.json) |
 | Virulence | 189852 | [189852-virulence.json](./189852-virulence.json) |
 | Virulent Vessels: The Legend of Gobbledygunk | 317985 | [317985-virulent-vessels-the-legend-of-gobbledygunk.json](./317985-virulent-vessels-the-legend-of-gobbledygunk.json) |
