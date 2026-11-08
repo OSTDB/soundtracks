@@ -7983,6 +7983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exovoid Carnage | 318293 | [318293-exovoid-carnage.json](./318293-exovoid-carnage.json) |
 | Exovore | 384221 | [384221-exovore.json](./384221-exovore.json) |
 | Exowar | 35509 | [35509-exowar.json](./35509-exowar.json) |
+| Exp Parasite | 138926 | [138926-exp-parasite.json](./138926-exp-parasite.json) |
 | Exp!A | 151692 | [151692-exp-a.json](./151692-exp-a.json) |
 | Exp10sion | 277946 | [277946-exp10sion.json](./277946-exp10sion.json) |
 | Expand | 18474 | [18474-expand.json](./18474-expand.json) |
