@@ -981,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Larax & Zaco | 129402 | [129402-larax-and-zaco.json](./129402-larax-and-zaco.json) |
 | Larcenauts | 149018 | [149018-larcenauts.json](./149018-larcenauts.json) |
 | Larcin Lazer | 169792 | [169792-larcin-lazer.json](./169792-larcin-lazer.json) |
+| Lareissa Everbright | 136610 | [136610-lareissa-everbright.json](./136610-lareissa-everbright.json) |
 | Larentia | 330748 | [330748-larentia.json](./330748-larentia.json) |
 | Large PonPon | 305064 | [305064-large-ponpon.json](./305064-large-ponpon.json) |
 | Largely Legal Monstrosity | 422128 | [422128-largely-legal-monstrosity.json](./422128-largely-legal-monstrosity.json) |
@@ -1009,6 +1010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lars | 266128 | [266128-lars.json](./266128-lars.json) |
 | Lars the Wanderer | 145652 | [145652-lars-the-wanderer.json](./145652-lars-the-wanderer.json) |
 | LarsGadiel | 407730 | [407730-larsgadiel.json](./407730-larsgadiel.json) |
+| Laruaville 10 | 136565 | [136565-laruaville-10.json](./136565-laruaville-10.json) |
 | Laruaville 12 | 195716 | [195716-laruaville-12.json](./195716-laruaville-12.json) |
 | Laruaville 13 | 226506 | [226506-laruaville-13.json](./226506-laruaville-13.json) |
 | Laruaville 14 | 259506 | [259506-laruaville-14.json](./259506-laruaville-14.json) |
@@ -6211,6 +6213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Nightmares III: The Backstage | 375185 | [375185-little-nightmares-iii-the-backstage.json](./375185-little-nightmares-iii-the-backstage.json) |
 | Little Nightmares VR: Altered Echoes | 350904 | [350904-little-nightmares-vr-altered-echoes.json](./350904-little-nightmares-vr-altered-echoes.json) |
 | Little Nightmares: Complete Edition | 53276 | [53276-little-nightmares-complete-edition.json](./53276-little-nightmares-complete-edition.json) |
+| Little Nightmares: Deluxe Edition | 136598 | [136598-little-nightmares-deluxe-edition.json](./136598-little-nightmares-deluxe-edition.json) |
 | Little Nightmares: Enhanced Edition | 350903 | [350903-little-nightmares-enhanced-edition.json](./350903-little-nightmares-enhanced-edition.json) |
 | Little Nightmares: Fox Mask | 274645 | [274645-little-nightmares-fox-mask.json](./274645-little-nightmares-fox-mask.json) |
 | Little Nightmares: Secrets of the Maw - Expansion Pass | 36838 | [36838-little-nightmares-secrets-of-the-maw-expansion-pass.json](./36838-little-nightmares-secrets-of-the-maw-expansion-pass.json) |
