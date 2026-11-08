@@ -6552,6 +6552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sex, Sin & Rock'N'Roll | 404632 | [404632-sex-sin-and-rocknroll.json](./404632-sex-sin-and-rocknroll.json) |
 | Sex, Stocks & Cocks | 301653 | [301653-sex-stocks-and-cocks.json](./301653-sex-stocks-and-cocks.json) |
 | Sexaginta Quattuordle | 249700 | [249700-sexaginta-quattuordle.json](./249700-sexaginta-quattuordle.json) |
+| Sexamaid Maika | 98065 | [98065-sexamaid-maika.json](./98065-sexamaid-maika.json) |
 | Sexbot | 277364 | [277364-sexbot.json](./277364-sexbot.json) |
 | Sexbot Lab | 350887 | [350887-sexbot-lab.json](./350887-sexbot-lab.json) |
 | Sexcraft: Sofiya and the Lewd Clan | 170365 | [170365-sexcraft-sofiya-and-the-lewd-clan.json](./170365-sexcraft-sofiya-and-the-lewd-clan.json) |
@@ -11957,10 +11958,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sis and Bro The Cyborg Siblings | 292962 | [292962-sis-and-bro-the-cyborg-siblings.json](./292962-sis-and-bro-the-cyborg-siblings.json) |
 | Sisão | 172558 | [172558-sisao.json](./172558-sisao.json) |
 | Sísifo va lentin | 395959 | [395959-sisifo-va-lentin.json](./395959-sisifo-va-lentin.json) |
+| SisPuri Vanish! | 98066 | [98066-sispuri-vanish.json](./98066-sispuri-vanish.json) |
 | Sissa's Path | 211116 | [211116-sissas-path.json](./211116-sissas-path.json) |
 | Sissy's Magical Ponycorn Adventure | 65919 | [65919-sissys-magical-ponycorn-adventure.json](./65919-sissys-magical-ponycorn-adventure.json) |
 | Sister | 241694 | [241694-sister.json](./241694-sister.json) |
 | Sister Adventure | 123919 | [123919-sister-adventure.json](./123919-sister-adventure.json) |
+| Sister Harassment | 97595 | [97595-sister-harassment.json](./97595-sister-harassment.json) |
 | Sister Lace | 385953 | [385953-sister-lace.json](./385953-sister-lace.json) |
 | Sister Lesson | 416016 | [416016-sister-lesson.json](./416016-sister-lesson.json) |
 | Sister Location 8-bit | 295432 | [295432-sister-location-8-bit.json](./295432-sister-location-8-bit.json) |
@@ -13492,6 +13495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slave Zero | 8341 | [8341-slave-zero.json](./8341-slave-zero.json) |
 | Slave Zero X: Calamity Edition | 277375 | [277375-slave-zero-x-calamity-edition.json](./277375-slave-zero-x-calamity-edition.json) |
 | Slave Zero X: Digital Deluxe Edition | 277028 | [277028-slave-zero-x-digital-deluxe-edition.json](./277028-slave-zero-x-digital-deluxe-edition.json) |
+| Slave-Maid Princess | 97941 | [97941-slave-maid-princess.json](./97941-slave-maid-princess.json) |
 | Slave's Sword 2 ~Imperial Revolution~ | 113818 | [113818-slaves-sword-2-imperial-revolution.json](./113818-slaves-sword-2-imperial-revolution.json) |
 | Slaveblade | 121774 | [121774-slaveblade.json](./121774-slaveblade.json) |
 | SlaveHack 2 | 125791 | [125791-slavehack-2.json](./125791-slavehack-2.json) |
@@ -31943,6 +31947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Gridder | 57144 | [57144-super-gridder.json](./57144-super-gridder.json) |
 | Super Gridland | 197753 | [197753-super-gridland.json](./197753-super-gridland.json) |
 | Super Grower | 113325 | [113325-super-grower.json](./113325-super-grower.json) |
+| Super Grumz | 97949 | [97949-super-grumz.json](./97949-super-grumz.json) |
 | Super GT 24h | 69067 | [69067-super-gt-24h.json](./69067-super-gt-24h.json) |
 | Super GTR Racing | 97115 | [97115-super-gtr-racing.json](./97115-super-gtr-racing.json) |
 | Super Gunfight | 189354 | [189354-super-gunfight.json](./189354-super-gunfight.json) |
