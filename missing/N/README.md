@@ -1452,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA the Run | 309667 | [309667-nba-the-run.json](./309667-nba-the-run.json) |
 | NBA The Run | 375887 | [375887-nba-the-run.json](./375887-nba-the-run.json) |
 | NBA Unrivaled | 47428 | [47428-nba-unrivaled.json](./47428-nba-unrivaled.json) |
+| NBA YoungBoy - Outside Today Piano Tiles | 102831 | [102831-nba-youngboy-outside-today-piano-tiles.json](./102831-nba-youngboy-outside-today-piano-tiles.json) |
 | NBA: King of the Court | 65509 | [65509-nba-king-of-the-court.json](./65509-nba-king-of-the-court.json) |
 | Nbb.Exe | 297153 | [297153-nbb-exe.json](./297153-nbb-exe.json) |
 | NBF0 | 249887 | [249887-nbf0.json](./249887-nbf0.json) |
@@ -5289,6 +5290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Master's: Haou Ninpou-ko | 39458 | [39458-ninja-masters-haou-ninpou-ko.json](./39458-ninja-masters-haou-ninpou-ko.json) |
 | Ninja Masters | 103632 | [103632-ninja-masters.json](./103632-ninja-masters.json) |
 | Ninja Meow Cat | 181577 | [181577-ninja-meow-cat.json](./181577-ninja-meow-cat.json) |
+| Ninja Midori | 102913 | [102913-ninja-midori.json](./102913-ninja-midori.json) |
 | Ninja Miner | 408740 | [408740-ninja-miner.json](./408740-ninja-miner.json) |
 | Ninja Miner 2 | 408741 | [408741-ninja-miner-2.json](./408741-ninja-miner-2.json) |
 | Ninja Ming | 326664 | [326664-ninja-ming.json](./326664-ninja-ming.json) |
