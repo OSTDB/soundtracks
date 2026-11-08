@@ -8823,6 +8823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Frogs | 301991 | [301991-flying-frogs.json](./301991-flying-frogs.json) |
 | Flying Fu | 109912 | [109912-flying-fu.json](./109912-flying-fu.json) |
 | Flying Fury | 166874 | [166874-flying-fury.json](./166874-flying-fury.json) |
+| Flying Girl Striker | 120500 | [120500-flying-girl-striker.json](./120500-flying-girl-striker.json) |
 | Flying Girls | 149869 | [149869-flying-girls.json](./149869-flying-girls.json) |
 | Flying Gorilla | 201968 | [201968-flying-gorilla.json](./201968-flying-gorilla.json) |
 | Flying Guy | 116004 | [116004-flying-guy.json](./116004-flying-guy.json) |
