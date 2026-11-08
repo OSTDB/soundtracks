@@ -9613,6 +9613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky simulation project | 231186 | [231186-lucky-simulation-project.json](./231186-lucky-simulation-project.json) |
 | Lucky Skiing | 112459 | [112459-lucky-skiing.json](./112459-lucky-skiing.json) |
 | Lucky Slots | 242551 | [242551-lucky-slots.json](./242551-lucky-slots.json) |
+| Lucky Solitaire | 95532 | [95532-lucky-solitaire.json](./95532-lucky-solitaire.json) |
 | Lucky Spider Solitaire | 87141 | [87141-lucky-spider-solitaire.json](./87141-lucky-spider-solitaire.json) |
 | Lucky Stamina | 213992 | [213992-lucky-stamina.json](./213992-lucky-stamina.json) |
 | Lucky Star Troopers | 205662 | [205662-lucky-star-troopers.json](./205662-lucky-star-troopers.json) |
