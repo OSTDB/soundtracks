@@ -2104,6 +2104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Water | 129993 | [129993-dark-water.json](./129993-dark-water.json) |
 | Dark Water: Slime Invader | 147076 | [147076-dark-water-slime-invader.json](./147076-dark-water-slime-invader.json) |
 | Dark Wave | 104480 | [104480-dark-wave.json](./104480-dark-wave.json) |
+| Dark Web | 109146 | [109146-dark-web.json](./109146-dark-web.json) |
 | Dark Web: Vigilante | 293887 | [293887-dark-web-vigilante.json](./293887-dark-web-vigilante.json) |
 | Dark Wind: War on Wheels | 78069 | [78069-dark-wind-war-on-wheels.json](./78069-dark-wind-war-on-wheels.json) |
 | Dark Wish | 99011 | [99011-dark-wish.json](./99011-dark-wish.json) |
@@ -10473,6 +10474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discovering Galimore | 294154 | [294154-discovering-galimore.json](./294154-discovering-galimore.json) |
 | Discovering Space 2 | 32205 | [32205-discovering-space-2.json](./32205-discovering-space-2.json) |
 | Discovering the Dinosaurs | 105755 | [105755-discovering-the-dinosaurs.json](./105755-discovering-the-dinosaurs.json) |
+| Discoverous | 109126 | [109126-discoverous.json](./109126-discoverous.json) |
 | Discoverx | 374213 | [374213-discoverx.json](./374213-discoverx.json) |
 | Discovery | 354575 | [354575-discovery.json](./354575-discovery.json) |
 | Discovery 2 | 398385 | [398385-discovery-2.json](./398385-discovery-2.json) |
@@ -16814,6 +16816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dress | 94748 | [94748-dress.json](./94748-dress.json) |
 | Dress Cake | 203584 | [203584-dress-cake.json](./203584-dress-cake.json) |
 | Dress Me | 101049 | [101049-dress-me.json](./101049-dress-me.json) |
+| Dress Me Up | 109105 | [109105-dress-me-up.json](./109105-dress-me-up.json) |
 | Dress out! | 118011 | [118011-dress-out.json](./118011-dress-out.json) |
 | Dress Rehearsal | 364222 | [364222-dress-rehearsal.json](./364222-dress-rehearsal.json) |
 | Dress the Duel | 368822 | [368822-dress-the-duel.json](./368822-dress-the-duel.json) |
