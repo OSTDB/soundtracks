@@ -6033,6 +6033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Estetiikka | 380360 | [380360-estetiikka.json](./380360-estetiikka.json) |
 | Esther - Interactive Bible Stories | 87534 | [87534-esther-interactive-bible-stories.json](./87534-esther-interactive-bible-stories.json) |
 | Esther and the Fallen Star | 340594 | [340594-esther-and-the-fallen-star.json](./340594-esther-and-the-fallen-star.json) |
+| Estiah | 126146 | [126146-estiah.json](./126146-estiah.json) |
 | Estigma | 142497 | [142497-estigma.json](./142497-estigma.json) |
 | Estilhaço | 294922 | [294922-estilhaco.json](./294922-estilhaco.json) |
 | Estiman | 30396 | [30396-estiman.json](./30396-estiman.json) |
@@ -8163,6 +8164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explosive Dinosaurs | 104792 | [104792-explosive-dinosaurs.json](./104792-explosive-dinosaurs.json) |
 | Explosive Dungeon | 179127 | [179127-explosive-dungeon.json](./179127-explosive-dungeon.json) |
 | Explosive Fighter Patton | 11449 | [11449-explosive-fighter-patton.json](./11449-explosive-fighter-patton.json) |
+| Explosive Jake | 126163 | [126163-explosive-jake.json](./126163-explosive-jake.json) |
 | Explosive Madness | 268301 | [268301-explosive-madness.json](./268301-explosive-madness.json) |
 | Explosive Odds | 345473 | [345473-explosive-odds.json](./345473-explosive-odds.json) |
 | Explosive Pursuit | 112487 | [112487-explosive-pursuit.json](./112487-explosive-pursuit.json) |
