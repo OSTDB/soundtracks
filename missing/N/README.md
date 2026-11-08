@@ -3992,6 +3992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nibbler | 24063 | [24063-nibbler.json](./24063-nibbler.json) |
 | Nibbles | 88657 | [88657-nibbles.json](./88657-nibbles.json) |
 | Nibblet | 256709 | [256709-nibblet.json](./256709-nibblet.json) |
+| Nibblity | 125537 | [125537-nibblity.json](./125537-nibblity.json) |
 | Nibbly '92 | 210391 | [210391-nibbly-92.json](./210391-nibbly-92.json) |
 | Nibeos | 303489 | [303489-nibeos.json](./303489-nibeos.json) |
 | Nibiru | 120155 | [120155-nibiru.json](./120155-nibiru.json) |
@@ -5395,6 +5396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja: Waltz of night | 289274 | [289274-ninja-waltz-of-night.json](./289274-ninja-waltz-of-night.json) |
 | Ninja! Beatdown | 311405 | [311405-ninja-beatdown.json](./311405-ninja-beatdown.json) |
 | Ninja? | 113900 | [113900-ninja.json](./113900-ninja.json) |
+| Ninja.io | 125563 | [125563-ninja-io.json](./125563-ninja-io.json) |
 | Ninja's Creed | 227473 | [227473-ninjas-creed.json](./227473-ninjas-creed.json) |
 | Ninjabread Man | 5077 | [5077-ninjabread-man.json](./5077-ninjabread-man.json) |
 | Ninjabread Man: Blades of Fury | 307782 | [307782-ninjabread-man-blades-of-fury.json](./307782-ninjabread-man-blades-of-fury.json) |
@@ -7047,6 +7049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Not Guilty! | 353903 | [353903-not-guilty.json](./353903-not-guilty.json) |
 | Not Heaven | 110938 | [110938-not-heaven.json](./110938-not-heaven.json) |
 | Not in Heaven | 111102 | [111102-not-in-heaven.json](./111102-not-in-heaven.json) |
+| Not in Heaven | 125580 | [125580-not-in-heaven.json](./125580-not-in-heaven.json) |
 | Not In My Cave | 248225 | [248225-not-in-my-cave.json](./248225-not-in-my-cave.json) |
 | Not In My Crapper | 165376 | [165376-not-in-my-crapper.json](./165376-not-in-my-crapper.json) |
 | Not in the Groove | 138851 | [138851-not-in-the-groove.json](./138851-not-in-the-groove.json) |
