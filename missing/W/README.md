@@ -1384,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wargame: European Escalation - Conquest | 168087 | [168087-wargame-european-escalation-conquest.json](./168087-wargame-european-escalation-conquest.json) |
 | Wargame: European Escalation - Fatal Error | 168089 | [168089-wargame-european-escalation-fatal-error.json](./168089-wargame-european-escalation-fatal-error.json) |
 | Wargame: European Escalation - New Battlefields | 168088 | [168088-wargame-european-escalation-new-battlefields.json](./168088-wargame-european-escalation-new-battlefields.json) |
+| Wargame: France 1940 | 108563 | [108563-wargame-france-1940.json](./108563-wargame-france-1940.json) |
 | Wargame: Red Dragon | 16664 | [16664-wargame-red-dragon.json](./16664-wargame-red-dragon.json) |
 | Wargame: Red Dragon - Complete Edition | 53887 | [53887-wargame-red-dragon-complete-edition.json](./53887-wargame-red-dragon-complete-edition.json) |
 | Wargame: Red Dragon - Double Nation Pack Reds | 226885 | [226885-wargame-red-dragon-double-nation-pack-reds.json](./226885-wargame-red-dragon-double-nation-pack-reds.json) |
@@ -2497,6 +2498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Water Pipeline | 55235 | [55235-water-pipeline.json](./55235-water-pipeline.json) |
 | Water Pipes | 104092 | [104092-water-pipes.json](./104092-water-pipes.json) |
 | Water Pipes 3 | 102842 | [102842-water-pipes-3.json](./102842-water-pipes-3.json) |
+| Water Pipes: Plumber | 108571 | [108571-water-pipes-plumber.json](./108571-water-pipes-plumber.json) |
 | Water Planet | 27297 | [27297-water-planet.json](./27297-water-planet.json) |
 | Water Polo | 308141 | [308141-water-polo.json](./308141-water-polo.json) |
 | Water Polo | 346104 | [346104-water-polo.json](./346104-water-polo.json) |
@@ -9656,6 +9658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWII: Rising | 171033 | [171033-wwii-rising.json](./171033-wwii-rising.json) |
 | WWII: Tank Battle Arena | 225896 | [225896-wwii-tank-battle-arena.json](./225896-wwii-tank-battle-arena.json) |
 | WWII: Tank Battles | 43209 | [43209-wwii-tank-battles.json](./43209-wwii-tank-battles.json) |
+| WWII: TD | 108670 | [108670-wwii-td.json](./108670-wwii-td.json) |
 | WWR: World of Warfare Robots | 169628 | [169628-wwr-world-of-warfare-robots.json](./169628-wwr-world-of-warfare-robots.json) |
 | WWTF | 110369 | [110369-wwtf.json](./110369-wwtf.json) |
 | wxSand | 146671 | [146671-wxsand.json](./146671-wxsand.json) |
