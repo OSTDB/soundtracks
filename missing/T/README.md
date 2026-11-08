@@ -4248,6 +4248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tensai Bit-Kun: Gramon Battle | 4198 | [4198-tensai-bit-kun-gramon-battle.json](./4198-tensai-bit-kun-gramon-battle.json) |
 | Tense | 260286 | [260286-tense.json](./260286-tense.json) |
 | Tense Parking | 392755 | [392755-tense-parking.json](./392755-tense-parking.json) |
+| Tense Reflection | 120505 | [120505-tense-reflection.json](./120505-tense-reflection.json) |
 | Tensei | 264610 | [264610-tensei.json](./264610-tensei.json) |
 | Tensei Brave | 259109 | [259109-tensei-brave.json](./259109-tensei-brave.json) |
 | Tensei Hakkenshi Fuumaroku | 221604 | [221604-tensei-hakkenshi-fuumaroku.json](./221604-tensei-hakkenshi-fuumaroku.json) |
@@ -4332,6 +4333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teomim Island | 148134 | [148134-teomim-island.json](./148134-teomim-island.json) |
 | Teon: All Fair Hardcore ARPG | 83271 | [83271-teon-all-fair-hardcore-arpg.json](./83271-teon-all-fair-hardcore-arpg.json) |
 | Tep the Destroyer | 180000 | [180000-tep-the-destroyer.json](./180000-tep-the-destroyer.json) |
+| Teppen | 120484 | [120484-teppen.json](./120484-teppen.json) |
 | Teppen Banchou Take 1: Saikou no Yankee Ikusei Game | 220305 | [220305-teppen-banchou-take-1-saikou-no-yankee-ikusei-game.json](./220305-teppen-banchou-take-1-saikou-no-yankee-ikusei-game.json) |
 | Teppo and The Secret Ancient City | 283231 | [283231-teppo-and-the-secret-ancient-city.json](./283231-teppo-and-the-secret-ancient-city.json) |
 | Teppoman | 242819 | [242819-teppoman.json](./242819-teppoman.json) |
@@ -8378,6 +8380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Delusion of Dream | 180437 | [180437-the-delusion-of-dream.json](./180437-the-delusion-of-dream.json) |
 | The Delusions of Maximillian Wurst | 243646 | [243646-the-delusions-of-maximillian-wurst.json](./243646-the-delusions-of-maximillian-wurst.json) |
 | The Delusions of Von Sottendorff and His Squared Mind | 63520 | [63520-the-delusions-of-von-sottendorff-and-his-squared-mind.json](./63520-the-delusions-of-von-sottendorff-and-his-squared-mind.json) |
+| The Demon - Nicolas Eymerich Inquisitor Audiogame | 120466 | [120466-the-demon-nicolas-eymerich-inquisitor-audiogame.json](./120466-the-demon-nicolas-eymerich-inquisitor-audiogame.json) |
 | The Demon Blade | 309587 | [309587-the-demon-blade.json](./309587-the-demon-blade.json) |
 | The Demon Crystal | 47555 | [47555-the-demon-crystal.json](./47555-the-demon-crystal.json) |
 | The Demon Crystal 2: Knither | 115534 | [115534-the-demon-crystal-2-knither.json](./115534-the-demon-crystal-2-knither.json) |
@@ -15269,6 +15272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Playroom VR | 25263 | [25263-the-playroom-vr.json](./25263-the-playroom-vr.json) |
 | The Playroom VR Toy Wars | 381746 | [381746-the-playroom-vr-toy-wars.json](./381746-the-playroom-vr-toy-wars.json) |
 | The Playroom: AR Studio | 296039 | [296039-the-playroom-ar-studio.json](./296039-the-playroom-ar-studio.json) |
+| The Plight | 120442 | [120442-the-plight.json](./120442-the-plight.json) |
 | The Plight of the Cracked | 391849 | [391849-the-plight-of-the-cracked.json](./391849-the-plight-of-the-cracked.json) |
 | The Ploshers | 116907 | [116907-the-ploshers.json](./116907-the-ploshers.json) |
 | The Plot | 54666 | [54666-the-plot.json](./54666-the-plot.json) |
@@ -15447,6 +15451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Promised Land | 78648 | [78648-the-promised-land.json](./78648-the-promised-land.json) |
 | The Propahverse Trilogy: Episode I | 185289 | [185289-the-propahverse-trilogy-episode-i.json](./185289-the-propahverse-trilogy-episode-i.json) |
 | The Prophecy | 12822 | [12822-the-prophecy.json](./12822-the-prophecy.json) |
+| The Prophecy Lies! | 120452 | [120452-the-prophecy-lies.json](./120452-the-prophecy-lies.json) |
 | The Prophecy of Horn | 349999 | [349999-the-prophecy-of-horn.json](./349999-the-prophecy-of-horn.json) |
 | The Prophecy of Statues | 109754 | [109754-the-prophecy-of-statues.json](./109754-the-prophecy-of-statues.json) |
 | The Proponent | 214234 | [214234-the-proponent.json](./214234-the-proponent.json) |
@@ -17503,6 +17508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Stranger | 57143 | [57143-the-stranger.json](./57143-the-stranger.json) |
 | The Stranger From the Bus Stop | 332396 | [332396-the-stranger-from-the-bus-stop.json](./332396-the-stranger-from-the-bus-stop.json) |
 | The Stranger VR | 138537 | [138537-the-stranger-vr.json](./138537-the-stranger-vr.json) |
+| The Stranger: Interactive Game | 120482 | [120482-the-stranger-interactive-game.json](./120482-the-stranger-interactive-game.json) |
 | The Strangers | 206646 | [206646-the-strangers.json](./206646-the-strangers.json) |
 | The Strangers | 393500 | [393500-the-strangers.json](./393500-the-strangers.json) |
 | The Strangers | 71053 | [71053-the-strangers.json](./71053-the-strangers.json) |
