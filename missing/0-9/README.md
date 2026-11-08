@@ -875,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1007 Bolts | 253669 | [253669-1007-bolts.json](./253669-1007-bolts.json) |
 | 100F Blessing of the Guardian | 275754 | [275754-100f-blessing-of-the-guardian.json](./275754-100f-blessing-of-the-guardian.json) |
 | 100Friends | 379064 | [379064-100friends.json](./379064-100friends.json) |
+| 100NHAS | 131056 | [131056-100nhas.json](./131056-100nhas.json) |
 | 100nya | 30580 | [30580-100nya.json](./30580-100nya.json) |
 | 100th Bug Brigade | 335194 | [335194-100th-bug-brigade.json](./335194-100th-bug-brigade.json) |
 | 101 Airborne: The Airborne Invasion of Normandy | 582 | [582-101-airborne-the-airborne-invasion-of-normandy.json](./582-101-airborne-the-airborne-invasion-of-normandy.json) |
