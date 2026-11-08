@@ -1657,6 +1657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oloo | 383417 | [383417-oloo.json](./383417-oloo.json) |
 | Olson's Boxing Challenge | 75667 | [75667-olsons-boxing-challenge.json](./75667-olsons-boxing-challenge.json) |
 | Olteus II | 266890 | [266890-olteus-ii.json](./266890-olteus-ii.json) |
+| Olu | 100249 | [100249-olu.json](./100249-olu.json) |
 | Olyen | 378239 | [378239-olyen.json](./378239-olyen.json) |
 | Olympia Rising | 17311 | [17311-olympia-rising.json](./17311-olympia-rising.json) |
 | Olympia Soirée | 136601 | [136601-olympia-soiree.json](./136601-olympia-soiree.json) |
@@ -2751,6 +2752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Tank to Rule Them All | 86333 | [86333-one-tank-to-rule-them-all.json](./86333-one-tank-to-rule-them-all.json) |
 | One Tap | 265239 | [265239-one-tap.json](./265239-one-tap.json) |
 | One Tap Golf VR | 235566 | [235566-one-tap-golf-vr.json](./235566-one-tap-golf-vr.json) |
+| One Tap Hero | 100245 | [100245-one-tap-hero.json](./100245-one-tap-hero.json) |
 | One Tap Rally | 237736 | [237736-one-tap-rally.json](./237736-one-tap-rally.json) |
 | One Thousand and One Days | 182969 | [182969-one-thousand-and-one-days.json](./182969-one-thousand-and-one-days.json) |
 | One Thousand and One Nights | 264222 | [264222-one-thousand-and-one-nights.json](./264222-one-thousand-and-one-nights.json) |
