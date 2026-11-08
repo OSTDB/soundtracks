@@ -4062,6 +4062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Rush | 129391 | [129391-red-rush.json](./129391-red-rush.json) |
 | Red Rust | 146965 | [146965-red-rust.json](./146965-red-rust.json) |
 | Red Rust Pioneers | 349941 | [349941-red-rust-pioneers.json](./349941-red-rust-pioneers.json) |
+| Red Sails | 134814 | [134814-red-sails.json](./134814-red-sails.json) |
 | Red Sauce: The Leftovers | 420775 | [420775-red-sauce-the-leftovers.json](./420775-red-sauce-the-leftovers.json) |
 | Red Scorpion | 47144 | [47144-red-scorpion.json](./47144-red-scorpion.json) |
 | Red Sea | 223032 | [223032-red-sea.json](./223032-red-sea.json) |
