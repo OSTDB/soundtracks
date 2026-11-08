@@ -2214,6 +2214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Simulator 2021: Mercedes-Benz Remastered DLC | 231841 | [231841-car-mechanic-simulator-2021-mercedes-benz-remastered-dlc.json](./231841-car-mechanic-simulator-2021-mercedes-benz-remastered-dlc.json) |
 | Car Mechanic Simulator 2021: Rims | 285696 | [285696-car-mechanic-simulator-2021-rims.json](./285696-car-mechanic-simulator-2021-rims.json) |
 | Car Mechanic Simulator 2021: Taxi DLC | 359687 | [359687-car-mechanic-simulator-2021-taxi-dlc.json](./359687-car-mechanic-simulator-2021-taxi-dlc.json) |
+| Car Mechanic Simulator Classic | 138922 | [138922-car-mechanic-simulator-classic.json](./138922-car-mechanic-simulator-classic.json) |
 | Car Mechanic Simulator VR | 119714 | [119714-car-mechanic-simulator-vr.json](./119714-car-mechanic-simulator-vr.json) |
 | Car Mechanic Simulator: Deluxe Edition | 164745 | [164745-car-mechanic-simulator-deluxe-edition.json](./164745-car-mechanic-simulator-deluxe-edition.json) |
 | Car Mechanic Simulator: Pocket Edition | 122871 | [122871-car-mechanic-simulator-pocket-edition.json](./122871-car-mechanic-simulator-pocket-edition.json) |
@@ -2924,6 +2925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival VR Orientation | 150395 | [150395-carnival-vr-orientation.json](./150395-carnival-vr-orientation.json) |
 | Carnivalé: Cenzo's Adventure | 238880 | [238880-carnivale-cenzos-adventure.json](./238880-carnivale-cenzos-adventure.json) |
 | Carnivore! | 413214 | [413214-carnivore.json](./413214-carnivore.json) |
+| Carnivores | 138928 | [138928-carnivores.json](./138928-carnivores.json) |
 | Carnivores + | 208422 | [208422-carnivores.json](./208422-carnivores.json) |
 | Carnivores 2 | 20564 | [20564-carnivores-2.json](./20564-carnivores-2.json) |
 | Carnivores: Cityscape | 20568 | [20568-carnivores-cityscape.json](./20568-carnivores-cityscape.json) |
@@ -11520,6 +11522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: Phantom | 75589 | [75589-codename-phantom.json](./75589-codename-phantom.json) |
 | Codename: Rogue Fleet | 34446 | [34446-codename-rogue-fleet.json](./34446-codename-rogue-fleet.json) |
 | Codename: Rogue Fleet - The Reinforcements | 156155 | [156155-codename-rogue-fleet-the-reinforcements.json](./156155-codename-rogue-fleet-the-reinforcements.json) |
+| Codename: Room | 138935 | [138935-codename-room.json](./138935-codename-room.json) |
 | Codename: SYN | 137603 | [137603-codename-syn.json](./137603-codename-syn.json) |
 | Codename: Tenka | 19995 | [19995-codename-tenka.json](./19995-codename-tenka.json) |
 | Codename: Terranova | 132548 | [132548-codename-terranova.json](./132548-codename-terranova.json) |
@@ -15200,6 +15203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coryphaeus Championships | 250214 | [250214-coryphaeus-championships.json](./250214-coryphaeus-championships.json) |
 | Cos-249 | 311145 | [311145-cos-249.json](./311145-cos-249.json) |
 | Cos-tte! Aki-san! vol.2 | 98460 | [98460-cos-tte-aki-san-vol-2.json](./98460-cos-tte-aki-san-vol-2.json) |
+| Cosa Nostra | 138939 | [138939-cosa-nostra.json](./138939-cosa-nostra.json) |
 | Cosa Nostra | 182863 | [182863-cosa-nostra.json](./182863-cosa-nostra.json) |
 | Cosa Nostra | 39108 | [39108-cosa-nostra.json](./39108-cosa-nostra.json) |
 | Cosdarica's Journey at the End of the World | 411506 | [411506-cosdaricas-journey-at-the-end-of-the-world.json](./411506-cosdaricas-journey-at-the-end-of-the-world.json) |
@@ -19505,6 +19509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuberio | 390081 | [390081-cuberio.json](./390081-cuberio.json) |
 | CuberPunk 2089 | 139031 | [139031-cuberpunk-2089.json](./139031-cuberpunk-2089.json) |
 | CuberPunk 2090 | 173942 | [173942-cuberpunk-2090.json](./173942-cuberpunk-2090.json) |
+| Cubers: Arena | 138918 | [138918-cubers-arena.json](./138918-cubers-arena.json) |
 | Cuberun | 336954 | [336954-cuberun.json](./336954-cuberun.json) |
 | CubeRun | 89268 | [89268-cuberun.json](./89268-cuberun.json) |
 | CubeRun 2 | 242444 | [242444-cuberun-2.json](./242444-cuberun-2.json) |
