@@ -881,6 +881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Take a Smile | 246484 | [246484-take-a-smile.json](./246484-take-a-smile.json) |
 | Take a Walk | 123145 | [123145-take-a-walk.json](./123145-take-a-walk.json) |
 | Take a Walk | 329517 | [329517-take-a-walk.json](./329517-take-a-walk.json) |
+| Take Arms | 92568 | [92568-take-arms.json](./92568-take-arms.json) |
 | Take As Needed | 190315 | [190315-take-as-needed.json](./190315-take-as-needed.json) |
 | Take Bomb: The Suit Take Off | 280254 | [280254-take-bomb-the-suit-take-off.json](./280254-take-bomb-the-suit-take-off.json) |
 | Take Care (of Me) | 339422 | [339422-take-care-of-me.json](./339422-take-care-of-me.json) |
@@ -8317,6 +8318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Day Before You Gone | 235556 | [235556-the-day-before-you-gone.json](./235556-the-day-before-you-gone.json) |
 | The Day I Became a Bird | 390967 | [390967-the-day-i-became-a-bird.json](./390967-the-day-i-became-a-bird.json) |
 | The Day I Went Away For a While | 128790 | [128790-the-day-i-went-away-for-a-while.json](./128790-the-day-i-went-away-for-a-while.json) |
+| The Day II | 92558 | [92558-the-day-ii.json](./92558-the-day-ii.json) |
 | The Day in a Life of a Dayfly | 357461 | [357461-the-day-in-a-life-of-a-dayfly.json](./357461-the-day-in-a-life-of-a-dayfly.json) |
 | The Day Nothing Happened | 70379 | [70379-the-day-nothing-happened.json](./70379-the-day-nothing-happened.json) |
 | The Day of Chains | 274150 | [274150-the-day-of-chains.json](./274150-the-day-of-chains.json) |
@@ -11334,6 +11336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Illusory Abyss | 118368 | [118368-the-illusory-abyss.json](./118368-the-illusory-abyss.json) |
 | The Illusory Wall | 101710 | [101710-the-illusory-wall.json](./101710-the-illusory-wall.json) |
 | The Imaginary Circle | 215369 | [215369-the-imaginary-circle.json](./215369-the-imaginary-circle.json) |
+| The Imagination Network | 92562 | [92562-the-imagination-network.json](./92562-the-imagination-network.json) |
 | The Immaculate Drag | 187194 | [187194-the-immaculate-drag.json](./187194-the-immaculate-drag.json) |
 | The Immemorial Order | 290005 | [290005-the-immemorial-order.json](./290005-the-immemorial-order.json) |
 | The Immemorial Order II Sisters of Darkness | 331051 | [331051-the-immemorial-order-ii-sisters-of-darkness.json](./331051-the-immemorial-order-ii-sisters-of-darkness.json) |
@@ -12682,6 +12685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Left Behind | 263982 | [263982-the-left-behind.json](./263982-the-left-behind.json) |
 | The Left Behind: A Forgotten Hill Tale | 388679 | [388679-the-left-behind-a-forgotten-hill-tale.json](./388679-the-left-behind-a-forgotten-hill-tale.json) |
 | The Left Eye | 351114 | [351114-the-left-eye.json](./351114-the-left-eye.json) |
+| The Leftovers | 92581 | [92581-the-leftovers.json](./92581-the-leftovers.json) |
 | The Legacy | 12437 | [12437-the-legacy.json](./12437-the-legacy.json) |
 | The Legacy | 378776 | [378776-the-legacy.json](./378776-the-legacy.json) |
 | The Legacy 2 | 95830 | [95830-the-legacy-2.json](./95830-the-legacy-2.json) |
@@ -26921,6 +26925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totonoi Simulator | 325450 | [325450-totonoi-simulator.json](./325450-totonoi-simulator.json) |
 | Tots Town - House | 97151 | [97151-tots-town-house.json](./97151-tots-town-house.json) |
 | Totsugeki 64 | 203396 | [203396-totsugeki-64.json](./203396-totsugeki-64.json) |
+| Totsugeki Kikan (Karakuri) Megadasu!! | 92213 | [92213-totsugeki-kikan-karakuri-megadasu.json](./92213-totsugeki-kikan-karakuri-megadasu.json) |
 | Totsugeki! Mix | 213551 | [213551-totsugeki-mix.json](./213551-totsugeki-mix.json) |
 | Totsugeki! Pappara-tai | 282680 | [282680-totsugeki-pappara-tai.json](./282680-totsugeki-pappara-tai.json) |
 | Tottemo E Mahjong | 256902 | [256902-tottemo-e-mahjong.json](./256902-tottemo-e-mahjong.json) |
