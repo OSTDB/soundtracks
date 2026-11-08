@@ -2356,6 +2356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caracoland | 112963 | [112963-caracoland.json](./112963-caracoland.json) |
 | Caracoles | 294342 | [294342-caracoles.json](./294342-caracoles.json) |
 | Caracolino | 293236 | [293236-caracolino.json](./293236-caracolino.json) |
+| Caramba | 108019 | [108019-caramba.json](./108019-caramba.json) |
 | Carambola | 370055 | [370055-carambola.json](./370055-carambola.json) |
 | Caramel Action Micro | 386161 | [386161-caramel-action-micro.json](./386161-caramel-action-micro.json) |
 | Caramel Creek | 423999 | [423999-caramel-creek.json](./423999-caramel-creek.json) |
@@ -6151,6 +6152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Code: New Sign of Catastrophe | 27718 | [27718-chaos-code-new-sign-of-catastrophe.json](./27718-chaos-code-new-sign-of-catastrophe.json) |
 | Chaos Coin | 363951 | [363951-chaos-coin.json](./363951-chaos-coin.json) |
 | Chaos Combat Chess | 161512 | [161512-chaos-combat-chess.json](./161512-chaos-combat-chess.json) |
+| Chaos Combat Copters HD | 108562 | [108562-chaos-combat-copters-hd.json](./108562-chaos-combat-copters-hd.json) |
 | Chaos Coming | 242966 | [242966-chaos-coming.json](./242966-chaos-coming.json) |
 | Chaos CompleXX | 261125 | [261125-chaos-complexx.json](./261125-chaos-complexx.json) |
 | Chaos Control | 176140 | [176140-chaos-control.json](./176140-chaos-control.json) |
@@ -6345,6 +6347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charles: The Full Story | 281991 | [281991-charles-the-full-story.json](./281991-charles-the-full-story.json) |
 | Charley's Day | 218979 | [218979-charleys-day.json](./218979-charleys-day.json) |
 | Charlie & Lola: My Little Town | 90085 | [90085-charlie-and-lola-my-little-town.json](./90085-charlie-and-lola-my-little-town.json) |
+| Charlie and Lola Colouring | 108094 | [108094-charlie-and-lola-colouring.json](./108094-charlie-and-lola-colouring.json) |
 | Charlie and the Chocolate Factory | 22449 | [22449-charlie-and-the-chocolate-factory.json](./22449-charlie-and-the-chocolate-factory.json) |
 | Charlie and the Chocolate Factory | 243187 | [243187-charlie-and-the-chocolate-factory.json](./243187-charlie-and-the-chocolate-factory.json) |
 | Charlie and the Chocolate Factory | 376521 | [376521-charlie-and-the-chocolate-factory.json](./376521-charlie-and-the-chocolate-factory.json) |
@@ -6859,6 +6862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chernobylite: Season 2 - Red Trees | 222933 | [222933-chernobylite-season-2-red-trees.json](./222933-chernobylite-season-2-red-trees.json) |
 | Chernobylite: Season 3 - Green Walls | 222939 | [222939-chernobylite-season-3-green-walls.json](./222939-chernobylite-season-3-green-walls.json) |
 | Chernobylite: Season 4 - Black Smoke | 222942 | [222942-chernobylite-season-4-black-smoke.json](./222942-chernobylite-season-4-black-smoke.json) |
+| Chernog: Fortress of the Mad Admiral | 108649 | [108649-chernog-fortress-of-the-mad-admiral.json](./108649-chernog-fortress-of-the-mad-admiral.json) |
 | Chernograd | 307272 | [307272-chernograd.json](./307272-chernograd.json) |
 | Chernomeat Survival Game | 118442 | [118442-chernomeat-survival-game.json](./118442-chernomeat-survival-game.json) |
 | Chernov Incident | 392852 | [392852-chernov-incident.json](./392852-chernov-incident.json) |
@@ -7386,6 +7390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken TD: Defenders of the Coop | 392099 | [392099-chicken-td-defenders-of-the-coop.json](./392099-chicken-td-defenders-of-the-coop.json) |
 | Chicken Tricks | 249849 | [249849-chicken-tricks.json](./249849-chicken-tricks.json) |
 | Chicken Utopia | 163022 | [163022-chicken-utopia.json](./163022-chicken-utopia.json) |
+| Chicken VR | 107990 | [107990-chicken-vr.json](./107990-chicken-vr.json) |
 | Chicken vs. Eggs | 276297 | [276297-chicken-vs-eggs.json](./276297-chicken-vs-eggs.json) |
 | Chicken vs. Road | 319873 | [319873-chicken-vs-road.json](./319873-chicken-vs-road.json) |
 | Chicken Wars | 48001 | [48001-chicken-wars.json](./48001-chicken-wars.json) |
@@ -10670,7 +10675,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CliveWareGold | 396008 | [396008-clivewaregold.json](./396008-clivewaregold.json) |
 | Clix | 97990 | [97990-clix.json](./97990-clix.json) |
 | Cloacaphobia | 285395 | [285395-cloacaphobia.json](./285395-cloacaphobia.json) |
-| Cloak & Dagger | 24632 | [24632-cloak-and-dagger.json](./24632-cloak-and-dagger.json) |
 | Cloak & Dagger: Shadow Operations | 255576 | [255576-cloak-and-dagger-shadow-operations.json](./255576-cloak-and-dagger-shadow-operations.json) |
 | Cloak And Coin | 365810 | [365810-cloak-and-coin.json](./365810-cloak-and-coin.json) |
 | Cloak and Dasher | 123801 | [123801-cloak-and-dasher.json](./123801-cloak-and-dasher.json) |
@@ -12292,6 +12296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Guardian | 109407 | [109407-color-guardian.json](./109407-color-guardian.json) |
 | Color Guardians | 19947 | [19947-color-guardians.json](./19947-color-guardians.json) |
 | Color Guys | 174047 | [174047-color-guys.json](./174047-color-guys.json) |
+| Color Helix | 108091 | [108091-color-helix.json](./108091-color-helix.json) |
 | Color Hero | 116358 | [116358-color-hero.json](./116358-color-hero.json) |
 | Color Hockey | 105510 | [105510-color-hockey.json](./105510-color-hockey.json) |
 | Color Hunt: Number Jigsaw Puzzle | 289810 | [289810-color-hunt-number-jigsaw-puzzle.json](./289810-color-hunt-number-jigsaw-puzzle.json) |
@@ -12395,6 +12400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Tower | 243080 | [243080-color-tower.json](./243080-color-tower.json) |
 | Color Tower Defence | 309712 | [309712-color-tower-defence.json](./309712-color-tower-defence.json) |
 | Color Trigger | 400352 | [400352-color-trigger.json](./400352-color-trigger.json) |
+| Color Trouble | 108587 | [108587-color-trouble.json](./108587-color-trouble.json) |
 | Color Tube | 101674 | [101674-color-tube.json](./101674-color-tube.json) |
 | Color TV-Game 15 | 220549 | [220549-color-tv-game-15.json](./220549-color-tv-game-15.json) |
 | Color TV-Game Block Kuzushi | 220551 | [220551-color-tv-game-block-kuzushi.json](./220551-color-tv-game-block-kuzushi.json) |
@@ -15283,6 +15289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corsarios | 57563 | [57563-corsarios.json](./57563-corsarios.json) |
 | CorsixTH | 127904 | [127904-corsixth.json](./127904-corsixth.json) |
 | Cortesia Rising | 415833 | [415833-cortesia-rising.json](./415833-cortesia-rising.json) |
+| Cortex | 107989 | [107989-cortex.json](./107989-cortex.json) |
 | Cortex | 131038 | [131038-cortex.json](./131038-cortex.json) |
 | Cortex Adventure | 415213 | [415213-cortex-adventure.json](./415213-cortex-adventure.json) |
 | Cortex Chaos | 283098 | [283098-cortex-chaos.json](./283098-cortex-chaos.json) |
@@ -16106,6 +16113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowabunga | 72436 | [72436-cowabunga.json](./72436-cowabunga.json) |
 | CowaCowa: Jinmenken | 339328 | [339328-cowacowa-jinmenken.json](./339328-cowacowa-jinmenken.json) |
 | Coward | 132664 | [132664-coward.json](./132664-coward.json) |
+| Coward Knight | 108589 | [108589-coward-knight.json](./108589-coward-knight.json) |
 | Coward Town | 141619 | [141619-coward-town.json](./141619-coward-town.json) |
 | Cowardice | 199512 | [199512-cowardice.json](./199512-cowardice.json) |
 | Cowardly Heroes | 182298 | [182298-cowardly-heroes.json](./182298-cowardly-heroes.json) |
@@ -16404,6 +16412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crackinho Beat' em up in the World | 127120 | [127120-crackinho-beat-em-up-in-the-world.json](./127120-crackinho-beat-em-up-in-the-world.json) |
 | Crackle Cradle | 57187 | [57187-crackle-cradle.json](./57187-crackle-cradle.json) |
 | Crackout | 48292 | [48292-crackout.json](./48292-crackout.json) |
+| Crackpot Despot: Trump Warfare | 107993 | [107993-crackpot-despot-trump-warfare.json](./107993-crackpot-despot-trump-warfare.json) |
 | Cracks | 174015 | [174015-cracks.json](./174015-cracks.json) |
 | Cracks In Hell | 231172 | [231172-cracks-in-hell.json](./231172-cracks-in-hell.json) |
 | Cracks Where the Light Gets In | 245795 | [245795-cracks-where-the-light-gets-in.json](./245795-cracks-where-the-light-gets-in.json) |
@@ -17826,6 +17835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Behavior | 275945 | [275945-criminal-behavior.json](./275945-criminal-behavior.json) |
 | Criminal Bundle | 81971 | [81971-criminal-bundle.json](./81971-criminal-bundle.json) |
 | Criminal Case | 19328 | [19328-criminal-case.json](./19328-criminal-case.json) |
+| Criminal Case Investigation - Special Squad | 108583 | [108583-criminal-case-investigation-special-squad.json](./108583-criminal-case-investigation-special-squad.json) |
 | Criminal Case: Mysteries | 262385 | [262385-criminal-case-mysteries.json](./262385-criminal-case-mysteries.json) |
 | Criminal Case: Mysteries of the Past | 88547 | [88547-criminal-case-mysteries-of-the-past.json](./88547-criminal-case-mysteries-of-the-past.json) |
 | Criminal Case: Pacific Bay | 96261 | [96261-criminal-case-pacific-bay.json](./96261-criminal-case-pacific-bay.json) |
