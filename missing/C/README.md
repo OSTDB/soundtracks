@@ -2283,6 +2283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Race Game for Toddlers and Kids | 103938 | [103938-car-race-game-for-toddlers-and-kids.json](./103938-car-race-game-for-toddlers-and-kids.json) |
 | Car Racing | 344646 | [344646-car-racing.json](./344646-car-racing.json) |
 | Car Racing | 59803 | [59803-car-racing.json](./59803-car-racing.json) |
+| Car Racing : Dirt Drifting | 103683 | [103683-car-racing-dirt-drifting.json](./103683-car-racing-dirt-drifting.json) |
 | Car Racing & Driving Bundle: Drag Racing, Highway Racer, Drift Japan, Toon Cars | 362378 | [362378-car-racing-and-driving-bundle-drag-racing-highway-racer-drift-japan-toon-cars.json](./362378-car-racing-and-driving-bundle-drag-racing-highway-racer-drift-japan-toon-cars.json) |
 | Car Racing 3D: High on Fuel | 91250 | [91250-car-racing-3d-high-on-fuel.json](./91250-car-racing-3d-high-on-fuel.json) |
 | Car Racing Challenge | 43243 | [43243-car-racing-challenge.json](./43243-car-racing-challenge.json) |
@@ -2556,6 +2557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardboard Invasion | 149167 | [149167-cardboard-invasion.json](./149167-cardboard-invasion.json) |
 | Cardboard Racers | 401378 | [401378-cardboard-racers.json](./401378-cardboard-racers.json) |
 | Cardboard Town | 226047 | [226047-cardboard-town.json](./226047-cardboard-town.json) |
+| Cardboard Wars | 103594 | [103594-cardboard-wars.json](./103594-cardboard-wars.json) |
 | Cardbob | 217216 | [217216-cardbob.json](./217216-cardbob.json) |
 | Cardborne | 390144 | [390144-cardborne.json](./390144-cardborne.json) |
 | Cardbot | 159819 | [159819-cardbot.json](./159819-cardbot.json) |
@@ -17797,6 +17799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Scene Cleaner | 415814 | [415814-crime-scene-cleaner.json](./415814-crime-scene-cleaner.json) |
 | Crime Scene Manhattan | 52327 | [52327-crime-scene-manhattan.json](./52327-crime-scene-manhattan.json) |
 | Crime Scene Technician | 166930 | [166930-crime-scene-technician.json](./166930-crime-scene-technician.json) |
+| Crime Scene: Reconstruction of Crime | 103606 | [103606-crime-scene-reconstruction-of-crime.json](./103606-crime-scene-reconstruction-of-crime.json) |
 | Crime Secrets: Crimson Lily | 32930 | [32930-crime-secrets-crimson-lily.json](./32930-crime-secrets-crimson-lily.json) |
 | Crime Shadows: Stolen Spotlight | 416488 | [416488-crime-shadows-stolen-spotlight.json](./416488-crime-shadows-stolen-spotlight.json) |
 | Crime Shadows: Stolen Spotlight - Collector's Edition | 416616 | [416616-crime-shadows-stolen-spotlight-collectors-edition.json](./416616-crime-shadows-stolen-spotlight-collectors-edition.json) |
