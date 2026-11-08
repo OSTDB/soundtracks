@@ -3751,6 +3751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed Eggs | 252193 | [252193-feed-eggs.json](./252193-feed-eggs.json) |
 | Feed Garfield | 63865 | [63865-feed-garfield.json](./63865-feed-garfield.json) |
 | Feed Him | 236176 | [236176-feed-him.json](./236176-feed-him.json) |
+| Feed Hunter: Grow Fish Battle | 108093 | [108093-feed-hunter-grow-fish-battle.json](./108093-feed-hunter-grow-fish-battle.json) |
 | Feed It | 403808 | [403808-feed-it.json](./403808-feed-it.json) |
 | Feed It Souls | 278719 | [278719-feed-it-souls.json](./278719-feed-it-souls.json) |
 | Feed Me | 261026 | [261026-feed-me.json](./261026-feed-me.json) |
@@ -10501,6 +10502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortification: tower defence | 141675 | [141675-fortification-tower-defence.json](./141675-fortification-tower-defence.json) |
 | Fortified | 18009 | [18009-fortified.json](./18009-fortified.json) |
 | Fortified Space | 372967 | [372967-fortified-space.json](./372967-fortified-space.json) |
+| Fortified Swiss | 107991 | [107991-fortified-swiss.json](./107991-fortified-swiss.json) |
 | Fortified Zone | 85637 | [85637-fortified-zone.json](./85637-fortified-zone.json) |
 | Fortify | 35030 | [35030-fortify.json](./35030-fortify.json) |
 | Fortify: Special Edition | 25055 | [25055-fortify-special-edition.json](./25055-fortify-special-edition.json) |
@@ -11095,6 +11097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four in a Row | 146688 | [146688-four-in-a-row.json](./146688-four-in-a-row.json) |
 | Four in a Row | 331805 | [331805-four-in-a-row.json](./331805-four-in-a-row.json) |
 | Four In A Row - Classic Games | 102690 | [102690-four-in-a-row-classic-games.json](./102690-four-in-a-row-classic-games.json) |
+| Four in a Row 2018 | 108089 | [108089-four-in-a-row-2018.json](./108089-four-in-a-row-2018.json) |
 | Four in One | 210647 | [210647-four-in-one.json](./210647-four-in-one.json) |
 | Four Kings One War | 110903 | [110903-four-kings-one-war.json](./110903-four-kings-one-war.json) |
 | Four Kings One War: Virtual Reality | 170899 | [170899-four-kings-one-war-virtual-reality.json](./170899-four-kings-one-war-virtual-reality.json) |
