@@ -18270,6 +18270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avoid the Noid | 14445 | [14445-avoid-the-noid.json](./14445-avoid-the-noid.json) |
 | Avoid the Police | 264754 | [264754-avoid-the-police.json](./264754-avoid-the-police.json) |
 | Avoid the Rain 2 | 231836 | [231836-avoid-the-rain-2.json](./231836-avoid-the-rain-2.json) |
+| Avoid the Roids | 119202 | [119202-avoid-the-roids.json](./119202-avoid-the-roids.json) |
 | Avoid the Threats | 359439 | [359439-avoid-the-threats.json](./359439-avoid-the-threats.json) |
 | Avoid Them: Breakthrough Gaming Arcade | 146250 | [146250-avoid-them-breakthrough-gaming-arcade.json](./146250-avoid-them-breakthrough-gaming-arcade.json) |
 | Avoid Them: Breakthrough Gaming Arcade - Challenge Mode Edition | 207050 | [207050-avoid-them-breakthrough-gaming-arcade-challenge-mode-edition.json](./207050-avoid-them-breakthrough-gaming-arcade-challenge-mode-edition.json) |
