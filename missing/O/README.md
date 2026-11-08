@@ -5796,6 +5796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overlord: Minions | 48 | [48-overlord-minions.json](./48-overlord-minions.json) |
 | Overlord: Nobody Know Victory Better Than Me | 193199 | [193199-overlord-nobody-know-victory-better-than-me.json](./193199-overlord-nobody-know-victory-better-than-me.json) |
 | Overlord: Raising Hell | 45 | [45-overlord-raising-hell.json](./45-overlord-raising-hell.json) |
+| Overlord's New Mansion | 120485 | [120485-overlords-new-mansion.json](./120485-overlords-new-mansion.json) |
 | Overlord's Odyssey | 223979 | [223979-overlords-odyssey.json](./223979-overlords-odyssey.json) |
 | Overlords | 77196 | [77196-overlords.json](./77196-overlords.json) |
 | Overlords of Oblivion | 112153 | [112153-overlords-of-oblivion.json](./112153-overlords-of-oblivion.json) |
@@ -5855,6 +5856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overrust | 381072 | [381072-overrust.json](./381072-overrust.json) |
 | Oversaturation | 415012 | [415012-oversaturation.json](./415012-oversaturation.json) |
 | Overscan Sniper HD | 67113 | [67113-overscan-sniper-hd.json](./67113-overscan-sniper-hd.json) |
+| Overseas | 120483 | [120483-overseas.json](./120483-overseas.json) |
 | Overseer | 150454 | [150454-overseer.json](./150454-overseer.json) |
 | Overseer | 341806 | [341806-overseer.json](./341806-overseer.json) |
 | Overseer: Field Trials | 315127 | [315127-overseer-field-trials.json](./315127-overseer-field-trials.json) |
