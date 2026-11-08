@@ -11563,6 +11563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJMax Technika Tune: Limited Edition | 89906 | [89906-djmax-technika-tune-limited-edition.json](./89906-djmax-technika-tune-limited-edition.json) |
 | DJMax Trilogy | 92347 | [92347-djmax-trilogy.json](./92347-djmax-trilogy.json) |
 | Djoof's UCN 2 | 379951 | [379951-djoofs-ucn-2.json](./379951-djoofs-ucn-2.json) |
+| Djuphavsjakten | 92586 | [92586-djuphavsjakten.json](./92586-djuphavsjakten.json) |
 | DK Bongo Blast | 231476 | [231476-dk-bongo-blast.json](./231476-dk-bongo-blast.json) |
 | DK Challenge | 405439 | [405439-dk-challenge.json](./405439-dk-challenge.json) |
 | DK Interactive Storybook: The 3 Little Pigs | 327560 | [327560-dk-interactive-storybook-the-3-little-pigs.json](./327560-dk-interactive-storybook-the-3-little-pigs.json) |
@@ -19606,6 +19607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dwarven Alchemist | 382332 | [382332-dwarven-alchemist.json](./382332-dwarven-alchemist.json) |
 | Dwarven Brawl Bros | 35310 | [35310-dwarven-brawl-bros.json](./35310-dwarven-brawl-bros.json) |
 | Dwarven Defender | 121575 | [121575-dwarven-defender.json](./121575-dwarven-defender.json) |
+| Dwarven Depths | 92556 | [92556-dwarven-depths.json](./92556-dwarven-depths.json) |
 | Dwarven Descent | 63006 | [63006-dwarven-descent.json](./63006-dwarven-descent.json) |
 | Dwarven Destiny | 206148 | [206148-dwarven-destiny.json](./206148-dwarven-destiny.json) |
 | Dwarven Forge | 149554 | [149554-dwarven-forge.json](./149554-dwarven-forge.json) |
