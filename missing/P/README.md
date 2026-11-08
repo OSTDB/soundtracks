@@ -1168,6 +1168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandanda | 189377 | [189377-pandanda.json](./189377-pandanda.json) |
 | Pandara | 123929 | [123929-pandara.json](./123929-pandara.json) |
 | Pandarunium | 291343 | [291343-pandarunium.json](./291343-pandarunium.json) |
+| Pandas Die | 110458 | [110458-pandas-die.json](./110458-pandas-die.json) |
 | PandaSG | 157122 | [157122-pandasg.json](./157122-pandasg.json) |
 | Pandash | 248913 | [248913-pandash.json](./248913-pandash.json) |
 | Pandaty | 215552 | [215552-pandaty.json](./215552-pandaty.json) |
@@ -1331,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Museum | 245707 | [245707-panic-museum.json](./245707-panic-museum.json) |
 | Panic of the Apes | 394290 | [394290-panic-of-the-apes.json](./394290-panic-of-the-apes.json) |
 | Panic on Ice | 239559 | [239559-panic-on-ice.json](./239559-panic-on-ice.json) |
+| Panic Palette | 110576 | [110576-panic-palette.json](./110576-panic-palette.json) |
 | Panic Palette Portable | 204391 | [204391-panic-palette-portable.json](./204391-panic-palette-portable.json) |
 | Panic Park | 62238 | [62238-panic-park.json](./62238-panic-park.json) |
 | Panic Party | 134631 | [134631-panic-party.json](./134631-panic-party.json) |
@@ -17035,6 +17037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protolife: Other Side | 244889 | [244889-protolife-other-side.json](./244889-protolife-other-side.json) |
 | Protologic | 10430 | [10430-protologic.json](./10430-protologic.json) |
 | Proton & Electron | 373788 | [373788-proton-and-electron.json](./373788-proton-and-electron.json) |
+| Proton Ball | 110489 | [110489-proton-ball.json](./110489-proton-ball.json) |
 | Proton Bus Simulator | 222602 | [222602-proton-bus-simulator.json](./222602-proton-bus-simulator.json) |
 | Proton Bus Simulator Road | 219822 | [219822-proton-bus-simulator-road.json](./219822-proton-bus-simulator-road.json) |
 | Proton Pulse + | 56526 | [56526-proton-pulse.json](./56526-proton-pulse.json) |
