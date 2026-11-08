@@ -4919,6 +4919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel's Spider-Man 2: Launch Edition | 254219 | [254219-marvels-spider-man-2-launch-edition.json](./254219-marvels-spider-man-2-launch-edition.json) |
 | Marvel's Spider-Man 2: New Game Plus Update | 307176 | [307176-marvels-spider-man-2-new-game-plus-update.json](./307176-marvels-spider-man-2-new-game-plus-update.json) |
 | Marvel's Spider-Man Digital Deluxe Edition | 343953 | [343953-marvels-spider-man-digital-deluxe-edition.json](./343953-marvels-spider-man-digital-deluxe-edition.json) |
+| Marvel's Spider-Man: Collector's Edition | 96153 | [96153-marvels-spider-man-collectors-edition.json](./96153-marvels-spider-man-collectors-edition.json) |
 | Marvel's Spider-Man: Game of the Year Edition | 122095 | [122095-marvels-spider-man-game-of-the-year-edition.json](./122095-marvels-spider-man-game-of-the-year-edition.json) |
 | Marvel's Spider-Man: Miles Morales - Launch Edition | 139968 | [139968-marvels-spider-man-miles-morales-launch-edition.json](./139968-marvels-spider-man-miles-morales-launch-edition.json) |
 | Marvel's Spider-Man: Miles Morales - Ultimate Edition | 138947 | [138947-marvels-spider-man-miles-morales-ultimate-edition.json](./138947-marvels-spider-man-miles-morales-ultimate-edition.json) |
@@ -13438,6 +13439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mining Simulator | 241512 | [241512-mining-simulator.json](./241512-mining-simulator.json) |
 | Mining Survivors | 349037 | [349037-mining-survivors.json](./349037-mining-survivors.json) |
 | Mining Wizards | 379861 | [379861-mining-wizards.json](./379861-mining-wizards.json) |
+| Minion | 96151 | [96151-minion.json](./96151-minion.json) |
 | Minion Bartender | 335030 | [335030-minion-bartender.json](./335030-minion-bartender.json) |
 | Minion Clash | 101778 | [101778-minion-clash.json](./101778-minion-clash.json) |
 | Minion Forest | 82333 | [82333-minion-forest.json](./82333-minion-forest.json) |
@@ -22559,6 +22561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Stickerbook | 345252 | [345252-mystic-stickerbook.json](./345252-mystic-stickerbook.json) |
 | Mystic Store | 146889 | [146889-mystic-store.json](./146889-mystic-store.json) |
 | Mystic Strife | 278414 | [278414-mystic-strife.json](./278414-mystic-strife.json) |
+| Mystic Sun I | 95724 | [95724-mystic-sun-i.json](./95724-mystic-sun-i.json) |
 | Mystic Tavern | 390667 | [390667-mystic-tavern.json](./390667-mystic-tavern.json) |
 | Mystic Tesserae | 346887 | [346887-mystic-tesserae.json](./346887-mystic-tesserae.json) |
 | Mystic Totem | 246355 | [246355-mystic-totem.json](./246355-mystic-totem.json) |
