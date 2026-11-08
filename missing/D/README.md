@@ -5912,6 +5912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense Cards | 267298 | [267298-defense-cards.json](./267298-defense-cards.json) |
 | Defense Clicker | 74600 | [74600-defense-clicker.json](./74600-defense-clicker.json) |
 | Defense Clicker: Ressource Collector | 168042 | [168042-defense-clicker-ressource-collector.json](./168042-defense-clicker-ressource-collector.json) |
+| Defense Contract | 111923 | [111923-defense-contract.json](./111923-defense-contract.json) |
 | Defense Corp: Earth | 113168 | [113168-defense-corp-earth.json](./113168-defense-corp-earth.json) |
 | Defense Derby | 247465 | [247465-defense-derby.json](./247465-defense-derby.json) |
 | Defense Dome | 58896 | [58896-defense-dome.json](./58896-defense-dome.json) |
@@ -14801,6 +14802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draft Day Sports: Pro Basketball 26 | 375553 | [375553-draft-day-sports-pro-basketball-26.json](./375553-draft-day-sports-pro-basketball-26.json) |
 | Draft Day Sports: Pro Football 2016 | 102142 | [102142-draft-day-sports-pro-football-2016.json](./102142-draft-day-sports-pro-football-2016.json) |
 | Draft Day Sports: Pro Football 2018 | 83565 | [83565-draft-day-sports-pro-football-2018.json](./83565-draft-day-sports-pro-football-2018.json) |
+| Draft Day Sports: Pro Football 2019 | 111938 | [111938-draft-day-sports-pro-football-2019.json](./111938-draft-day-sports-pro-football-2019.json) |
 | Draft Day Sports: Pro Football 2020 | 121114 | [121114-draft-day-sports-pro-football-2020.json](./121114-draft-day-sports-pro-football-2020.json) |
 | Draft Day Sports: Pro Football 2021 | 137809 | [137809-draft-day-sports-pro-football-2021.json](./137809-draft-day-sports-pro-football-2021.json) |
 | Draft Day Sports: Pro Football 2024 | 270031 | [270031-draft-day-sports-pro-football-2024.json](./270031-draft-day-sports-pro-football-2024.json) |
@@ -15801,6 +15803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragonScales 1-7 Bundle | 224328 | [224328-dragonscales-1-7-bundle.json](./224328-dragonscales-1-7-bundle.json) |
 | DragonScales 2: Beneath a Bloodstained Moon | 55821 | [55821-dragonscales-2-beneath-a-bloodstained-moon.json](./55821-dragonscales-2-beneath-a-bloodstained-moon.json) |
 | DragonScales 3: Eternal Prophecy of Darkness | 70388 | [70388-dragonscales-3-eternal-prophecy-of-darkness.json](./70388-dragonscales-3-eternal-prophecy-of-darkness.json) |
+| DragonScales 5: The Frozen Tomb | 111935 | [111935-dragonscales-5-the-frozen-tomb.json](./111935-dragonscales-5-the-frozen-tomb.json) |
 | DragonScales 6: Love and Redemption | 131446 | [131446-dragonscales-6-love-and-redemption.json](./131446-dragonscales-6-love-and-redemption.json) |
 | DragonScales 7: A Heart of Dark Flames | 197416 | [197416-dragonscales-7-a-heart-of-dark-flames.json](./197416-dragonscales-7-a-heart-of-dark-flames.json) |
 | DragonScales: Chambers of The Dragon Whisperer | 55854 | [55854-dragonscales-chambers-of-the-dragon-whisperer.json](./55854-dragonscales-chambers-of-the-dragon-whisperer.json) |
