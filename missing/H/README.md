@@ -2073,6 +2073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hardwood Rivals | 246260 | [246260-hardwood-rivals.json](./246260-hardwood-rivals.json) |
 | Hardwood Solitaire III | 209792 | [209792-hardwood-solitaire-iii.json](./209792-hardwood-solitaire-iii.json) |
 | Hardwood Solitaire IV | 109225 | [109225-hardwood-solitaire-iv.json](./109225-hardwood-solitaire-iv.json) |
+| Hardwood Spades | 80107 | [80107-hardwood-spades.json](./80107-hardwood-spades.json) |
 | Hardwork Simulator | 238879 | [238879-hardwork-simulator.json](./238879-hardwork-simulator.json) |
 | HardWorker Simulator | 187663 | [187663-hardworker-simulator.json](./187663-hardworker-simulator.json) |
 | Hardworking Hero | 187698 | [187698-hardworking-hero.json](./187698-hardworking-hero.json) |
@@ -3207,6 +3208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Head Shot | 32472 | [32472-head-shot.json](./32472-head-shot.json) |
 | Head Shot 2 | 67077 | [67077-head-shot-2.json](./67077-head-shot-2.json) |
 | Head Shot God | 79523 | [79523-head-shot-god.json](./79523-head-shot-god.json) |
+| Head Shot Z | 80098 | [80098-head-shot-z.json](./80098-head-shot-z.json) |
 | Head Soccer | 260094 | [260094-head-soccer.json](./260094-head-soccer.json) |
 | Head Soccer | 87430 | [87430-head-soccer.json](./87430-head-soccer.json) |
 | Head Strike: 1v1 Soccer Games | 216033 | [216033-head-strike-1v1-soccer-games.json](./216033-head-strike-1v1-soccer-games.json) |
