@@ -2975,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In the alley: Our hometown | 221415 | [221415-in-the-alley-our-hometown.json](./221415-in-the-alley-our-hometown.json) |
 | In the Backrooms | 236463 | [236463-in-the-backrooms.json](./236463-in-the-backrooms.json) |
 | In the Bag | 125112 | [125112-in-the-bag.json](./125112-in-the-bag.json) |
+| In the beginning | 120458 | [120458-in-the-beginning.json](./120458-in-the-beginning.json) |
 | In the Black | 125370 | [125370-in-the-black.json](./125370-in-the-black.json) |
 | In the Bog | 51681 | [51681-in-the-bog.json](./51681-in-the-bog.json) |
 | In the Box | 237655 | [237655-in-the-box.json](./237655-in-the-box.json) |
