@@ -1418,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1998: The Toll Keeper Story | 343429 | [343429-1998-the-toll-keeper-story.json](./343429-1998-the-toll-keeper-story.json) |
 | 1999 Christmas Eve | 367492 | [367492-1999-christmas-eve.json](./367492-1999-christmas-eve.json) |
 | 1999: Hore, Mita Koto ka! Seikimatsu | 48607 | [48607-1999-hore-mita-koto-ka-seikimatsu.json](./48607-1999-hore-mita-koto-ka-seikimatsu.json) |
+| 1999: Megallennium 6-in-1 Mega Cart | 136611 | [136611-1999-megallennium-6-in-1-mega-cart.json](./136611-1999-megallennium-6-in-1-mega-cart.json) |
 | 19th Century Printing Press Experience VR | 337613 | [337613-19th-century-printing-press-experience-vr.json](./337613-19th-century-printing-press-experience-vr.json) |
 | 19XX: The War Against Destiny | 6078 | [6078-19xx-the-war-against-destiny.json](./6078-19xx-the-war-against-destiny.json) |
 | 1B Spells | 248318 | [248318-1b-spells.json](./248318-1b-spells.json) |
@@ -1819,6 +1820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 20XX | 17828 | [17828-20xx.json](./17828-20xx.json) |
 | 20XX / 30XX | 364164 | [364164-20xx-30xx.json](./364164-20xx-30xx.json) |
 | 20XX: Hawk Character | 227240 | [227240-20xx-hawk-character.json](./227240-20xx-hawk-character.json) |
+| 20XX: Tournament Edition | 136570 | [136570-20xx-tournament-edition.json](./136570-20xx-tournament-edition.json) |
 | 20XX.io | 269480 | [269480-20xx-io.json](./269480-20xx-io.json) |
 | 21 | 110876 | [110876-21.json](./110876-21.json) |
 | 21 Blitz | 125939 | [125939-21-blitz.json](./125939-21-blitz.json) |
