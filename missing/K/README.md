@@ -1861,6 +1861,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kentris | 93343 | [93343-kentris.json](./93343-kentris.json) |
 | Kentucky Dash | 89678 | [89678-kentucky-dash.json](./89678-kentucky-dash.json) |
 | Kentucky Route Zero | 5614 | [5614-kentucky-route-zero.json](./5614-kentucky-route-zero.json) |
+| Kentucky Route Zero: Act I | 131727 | [131727-kentucky-route-zero-act-i.json](./131727-kentucky-route-zero-act-i.json) |
+| Kentucky Route Zero: Act II | 131728 | [131728-kentucky-route-zero-act-ii.json](./131728-kentucky-route-zero-act-ii.json) |
+| Kentucky Route Zero: Act III | 131729 | [131729-kentucky-route-zero-act-iii.json](./131729-kentucky-route-zero-act-iii.json) |
+| Kentucky Route Zero: Act IV | 131730 | [131730-kentucky-route-zero-act-iv.json](./131730-kentucky-route-zero-act-iv.json) |
 | Kentucky Route Zero: Act V | 144981 | [144981-kentucky-route-zero-act-v.json](./144981-kentucky-route-zero-act-v.json) |
 | Kentucky Route Zero: TV Edition | 55198 | [55198-kentucky-route-zero-tv-edition.json](./55198-kentucky-route-zero-tv-edition.json) |
 | Kentum | 325215 | [325215-kentum.json](./325215-kentum.json) |
