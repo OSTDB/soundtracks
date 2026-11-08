@@ -3083,6 +3083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Never Happened | 421829 | [421829-never-happened.json](./421829-never-happened.json) |
 | Never Have I Ever | 128806 | [128806-never-have-i-ever.json](./128806-never-have-i-ever.json) |
 | Never Immortal | 235741 | [235741-never-immortal.json](./235741-never-immortal.json) |
+| Never Let Me Awake | 117910 | [117910-never-let-me-awake.json](./117910-never-let-me-awake.json) |
 | Never Look Back | 407699 | [407699-never-look-back.json](./407699-never-look-back.json) |
 | Never Not Shooting | 55625 | [55625-never-not-shooting.json](./55625-never-not-shooting.json) |
 | Never out of Time | 193476 | [193476-never-out-of-time.json](./193476-never-out-of-time.json) |
