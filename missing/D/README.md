@@ -2189,6 +2189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkest Hour: A Hearts of Iron Game | 2012 | [2012-darkest-hour-a-hearts-of-iron-game.json](./2012-darkest-hour-a-hearts-of-iron-game.json) |
 | Darkest Hunters | 115409 | [115409-darkest-hunters.json](./115409-darkest-hunters.json) |
 | Darkest Light | 294127 | [294127-darkest-light.json](./294127-darkest-light.json) |
+| Darkest Mana : Master of the Table | 102479 | [102479-darkest-mana-master-of-the-table.json](./102479-darkest-mana-master-of-the-table.json) |
 | Darkest Maze | 99224 | [99224-darkest-maze.json](./99224-darkest-maze.json) |
 | Darkest Messia | 390334 | [390334-darkest-messia.json](./390334-darkest-messia.json) |
 | Darkest Mine | 316967 | [316967-darkest-mine.json](./316967-darkest-mine.json) |
@@ -5022,6 +5023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deber | 294931 | [294931-deber.json](./294931-deber.json) |
 | Debie Zone | 165894 | [165894-debie-zone.json](./165894-debie-zone.json) |
 | Debilitating Dream | 312596 | [312596-debilitating-dream.json](./312596-debilitating-dream.json) |
+| Debit and Credit: A Walk Through Accounting Hell | 102983 | [102983-debit-and-credit-a-walk-through-accounting-hell.json](./102983-debit-and-credit-a-walk-through-accounting-hell.json) |
 | DebloX | 92804 | [92804-deblox.json](./92804-deblox.json) |
 | Debrecen | 312921 | [312921-debrecen.json](./312921-debrecen.json) |
 | Debris | 150097 | [150097-debris.json](./150097-debris.json) |
@@ -9992,6 +9994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Hunting Patrol 3D Jurassic VR | 160142 | [160142-dinosaur-hunting-patrol-3d-jurassic-vr.json](./160142-dinosaur-hunting-patrol-3d-jurassic-vr.json) |
 | Dinosaur Hunting Patrol 3D Multiplayer Online | 126164 | [126164-dinosaur-hunting-patrol-3d-multiplayer-online.json](./126164-dinosaur-hunting-patrol-3d-multiplayer-online.json) |
 | Dinosaur Hunting: Ushinawareta Daichi | 85950 | [85950-dinosaur-hunting-ushinawareta-daichi.json](./85950-dinosaur-hunting-ushinawareta-daichi.json) |
+| DinoSaur Ice Survival Craft | 102490 | [102490-dinosaur-ice-survival-craft.json](./102490-dinosaur-ice-survival-craft.json) |
 | Dinosaur Island | 266484 | [266484-dinosaur-island.json](./266484-dinosaur-island.json) |
 | Dinosaur Island | 296309 | [296309-dinosaur-island.json](./296309-dinosaur-island.json) |
 | Dinosaur Island Escape | 276026 | [276026-dinosaur-island-escape.json](./276026-dinosaur-island-escape.json) |
