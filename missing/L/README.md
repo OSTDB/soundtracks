@@ -5592,6 +5592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lines Frenzy | 221994 | [221994-lines-frenzy.json](./221994-lines-frenzy.json) |
 | Lines Infinite | 124024 | [124024-lines-infinite.json](./124024-lines-infinite.json) |
 | Lines Lines | 232500 | [232500-lines-lines.json](./232500-lines-lines.json) |
+| Lines Millennium | 79432 | [79432-lines-millennium.json](./79432-lines-millennium.json) |
 | Lines of Balls | 362319 | [362319-lines-of-balls.json](./362319-lines-of-balls.json) |
 | Lines on Sides | 174224 | [174224-lines-on-sides.json](./174224-lines-on-sides.json) |
 | Lines Progress | 316919 | [316919-lines-progress.json](./316919-lines-progress.json) |
@@ -6721,6 +6722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LivingForest | 398290 | [398290-livingforest.json](./398290-livingforest.json) |
 | Livingmare Cold Calls | 290559 | [290559-livingmare-cold-calls.json](./290559-livingmare-cold-calls.json) |
 | Livingstone Supongo | 37079 | [37079-livingstone-supongo.json](./37079-livingstone-supongo.json) |
+| Livingstone Supongo II | 79441 | [79441-livingstone-supongo-ii.json](./79441-livingstone-supongo-ii.json) |
 | Livli: A Sámi Story | 293894 | [293894-livli-a-sami-story.json](./293894-livli-a-sami-story.json) |
 | Livly Island | 194764 | [194764-livly-island.json](./194764-livly-island.json) |
 | Livora | 402966 | [402966-livora.json](./402966-livora.json) |
