@@ -12459,6 +12459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindlock: The Apartment | 275333 | [275333-mindlock-the-apartment.json](./275333-mindlock-the-apartment.json) |
 | MindLoop | 182613 | [182613-mindloop.json](./182613-mindloop.json) |
 | MindLoop | 365195 | [365195-mindloop.json](./365195-mindloop.json) |
+| MindMaze | 94823 | [94823-mindmaze.json](./94823-mindmaze.json) |
 | Mindmazer | 180646 | [180646-mindmazer.json](./180646-mindmazer.json) |
 | MindMessenger | 342156 | [342156-mindmessenger.json](./342156-mindmessenger.json) |
 | MindMindMind | 294672 | [294672-mindmindmind.json](./294672-mindmindmind.json) |
@@ -20631,6 +20632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Boss Leidi | 270977 | [270977-my-boss-leidi.json](./270977-my-boss-leidi.json) |
 | My Bowling 3D | 89041 | [89041-my-bowling-3d.json](./89041-my-bowling-3d.json) |
 | My Boyfriend | 398812 | [398812-my-boyfriend.json](./398812-my-boyfriend.json) |
+| My Boyfriend | 94828 | [94828-my-boyfriend.json](./94828-my-boyfriend.json) |
 | My Boyfriend is a Martian | 295389 | [295389-my-boyfriend-is-a-martian.json](./295389-my-boyfriend-is-a-martian.json) |
 | My Boyfriend the Necromancer | 138367 | [138367-my-boyfriend-the-necromancer.json](./138367-my-boyfriend-the-necromancer.json) |
 | My Boyfriend, Sonic the Hedgehog | 422465 | [422465-my-boyfriend-sonic-the-hedgehog.json](./422465-my-boyfriend-sonic-the-hedgehog.json) |
