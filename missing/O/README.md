@@ -2331,6 +2331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Epic Knight | 63137 | [63137-one-epic-knight.json](./63137-one-epic-knight.json) |
 | One Escape | 146041 | [146041-one-escape.json](./146041-one-escape.json) |
 | One False Move | 276629 | [276629-one-false-move.json](./276629-one-false-move.json) |
+| One Fantasy Shooter | 121840 | [121840-one-fantasy-shooter.json](./121840-one-fantasy-shooter.json) |
 | One Fateful Night | 171875 | [171875-one-fateful-night.json](./171875-one-fateful-night.json) |
 | One Fear | 335084 | [335084-one-fear.json](./335084-one-fear.json) |
 | One Fenix Down | 297172 | [297172-one-fenix-down.json](./297172-one-fenix-down.json) |
@@ -3476,6 +3477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Opening Night | 287325 | [287325-opening-night.json](./287325-opening-night.json) |
 | Opening Night | 68975 | [68975-opening-night.json](./68975-opening-night.json) |
 | Opening Night at the Großen Schauspielhaus: Berlin 1927 | 171409 | [171409-opening-night-at-the-gro-en-schauspielhaus-berlin-1927.json](./171409-opening-night-at-the-gro-en-schauspielhaus-berlin-1927.json) |
+| Opening Up | 121853 | [121853-opening-up.json](./121853-opening-up.json) |
 | Opening Weekend - Varmint Season | 115778 | [115778-opening-weekend-varmint-season.json](./115778-opening-weekend-varmint-season.json) |
 | Opening Weekend: Bear Season | 208993 | [208993-opening-weekend-bear-season.json](./208993-opening-weekend-bear-season.json) |
 | Opening Weekend: Big Cat Season | 208992 | [208992-opening-weekend-big-cat-season.json](./208992-opening-weekend-big-cat-season.json) |
@@ -4042,6 +4044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orchard Odyssey: Chestnut Christmas | 391146 | [391146-orchard-odyssey-chestnut-christmas.json](./391146-orchard-odyssey-chestnut-christmas.json) |
 | Orchard Odyssey: Pumpkin Party | 375440 | [375440-orchard-odyssey-pumpkin-party.json](./375440-orchard-odyssey-pumpkin-party.json) |
 | Orchard Outbreak: Slime Time | 383955 | [383955-orchard-outbreak-slime-time.json](./383955-orchard-outbreak-slime-time.json) |
+| Orchard Simulator | 121860 | [121860-orchard-simulator.json](./121860-orchard-simulator.json) |
 | Orchestra: The Brass Fate | 223539 | [223539-orchestra-the-brass-fate.json](./223539-orchestra-the-brass-fate.json) |
 | Orchestrate | 177457 | [177457-orchestrate.json](./177457-orchestrate.json) |
 | Orchid Glitter | 335057 | [335057-orchid-glitter.json](./335057-orchid-glitter.json) |
@@ -4797,6 +4800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otter Island | 290109 | [290109-otter-island.json](./290109-otter-island.json) |
 | Otter Ocean | 242786 | [242786-otter-ocean.json](./242786-otter-ocean.json) |
 | Otter of My Life | 104662 | [104662-otter-of-my-life.json](./104662-otter-of-my-life.json) |
+| Otter Space Rescue | 121866 | [121866-otter-space-rescue.json](./121866-otter-space-rescue.json) |
 | Otter Turmoil | 269216 | [269216-otter-turmoil.json](./269216-otter-turmoil.json) |
 | Otter Yakuza | 369113 | [369113-otter-yakuza.json](./369113-otter-yakuza.json) |
 | OtterBash | 50524 | [50524-otterbash.json](./50524-otterbash.json) |
@@ -5534,6 +5538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Outspell | 219267 | [219267-outspell.json](./219267-outspell.json) |
 | OutSplit | 52778 | [52778-outsplit.json](./52778-outsplit.json) |
 | Outstand | 227793 | [227793-outstand.json](./227793-outstand.json) |
+| Outstation | 121858 | [121858-outstation.json](./121858-outstation.json) |
 | Outta Gas | 124403 | [124403-outta-gas.json](./124403-outta-gas.json) |
 | Outta Hand | 253175 | [253175-outta-hand.json](./253175-outta-hand.json) |
 | Outta Hell | 346797 | [346797-outta-hell.json](./346797-outta-hell.json) |
