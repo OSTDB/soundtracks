@@ -452,6 +452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Tanks | 58678 | [58678-mad-tanks.json](./58678-mad-tanks.json) |
 | Mad Taxi | 153327 | [153327-mad-taxi.json](./153327-mad-taxi.json) |
 | Mad Taxi Simulator | 411739 | [411739-mad-taxi-simulator.json](./411739-mad-taxi-simulator.json) |
+| Mad Teacher | 88507 | [88507-mad-teacher.json](./88507-mad-teacher.json) |
 | Mad Television Tycoon | 353814 | [353814-mad-television-tycoon.json](./353814-mad-television-tycoon.json) |
 | Mad Tower Tycoon | 107423 | [107423-mad-tower-tycoon.json](./107423-mad-tower-tycoon.json) |
 | Mad Trapper | 210845 | [210845-mad-trapper.json](./210845-mad-trapper.json) |
@@ -5615,6 +5616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matching App de Shiriatta Otoko wo Shinyou shite ha Ikemasen. | 341026 | [341026-matching-app-de-shiriatta-otoko-wo-shinyou-shite-ha-ikemasen.json](./341026-matching-app-de-shiriatta-otoko-wo-shinyou-shite-ha-ikemasen.json) |
 | Matching Blocks | 288362 | [288362-matching-blocks.json](./288362-matching-blocks.json) |
 | Matching Cats | 173040 | [173040-matching-cats.json](./173040-matching-cats.json) |
+| Matching Game | 88338 | [88338-matching-game.json](./88338-matching-game.json) |
 | Matching Meadows | 287054 | [287054-matching-meadows.json](./287054-matching-meadows.json) |
 | Matching Moments | 398817 | [398817-matching-moments.json](./398817-matching-moments.json) |
 | Matching With Friends | 64889 | [64889-matching-with-friends.json](./64889-matching-with-friends.json) |
@@ -7529,6 +7531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 3 | 236706 | [236706-mega-man-3.json](./236706-mega-man-3.json) |
 | Mega Man 3 Improvement | 219088 | [219088-mega-man-3-improvement.json](./219088-mega-man-3-improvement.json) |
 | Mega Man 3 Revamped | 218313 | [218313-mega-man-3-revamped.json](./218313-mega-man-3-revamped.json) |
+| Mega Man 3: The Robots are Revolting | 88384 | [88384-mega-man-3-the-robots-are-revolting.json](./88384-mega-man-3-the-robots-are-revolting.json) |
 | Mega Man 30th Anniversary Bundle | 110814 | [110814-mega-man-30th-anniversary-bundle.json](./110814-mega-man-30th-anniversary-bundle.json) |
 | Mega Man 4 Mobile | 171825 | [171825-mega-man-4-mobile.json](./171825-mega-man-4-mobile.json) |
 | Mega Man 4 Voyage | 210490 | [210490-mega-man-4-voyage.json](./210490-mega-man-4-voyage.json) |
@@ -13107,6 +13110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Golf Championship | 204705 | [204705-mini-golf-championship.json](./204705-mini-golf-championship.json) |
 | Mini Golf Club | 130078 | [130078-mini-golf-club.json](./130078-mini-golf-club.json) |
 | Mini Golf Game 3D | 86491 | [86491-mini-golf-game-3d.json](./86491-mini-golf-game-3d.json) |
+| Mini Golf Game 3D | 88397 | [88397-mini-golf-game-3d.json](./88397-mini-golf-game-3d.json) |
 | Mini Golf Gold | 374555 | [374555-mini-golf-gold.json](./374555-mini-golf-gold.json) |
 | Mini Golf Halloween | 233754 | [233754-mini-golf-halloween.json](./233754-mini-golf-halloween.json) |
 | Mini Golf King | 125936 | [125936-mini-golf-king.json](./125936-mini-golf-king.json) |
@@ -18398,6 +18402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorbike Clicker | 337625 | [337625-motorbike-clicker.json](./337625-motorbike-clicker.json) |
 | Motorbike Evolution 2024 | 254902 | [254902-motorbike-evolution-2024.json](./254902-motorbike-evolution-2024.json) |
 | Motorbike Evolution 2025 | 384574 | [384574-motorbike-evolution-2025.json](./384574-motorbike-evolution-2025.json) |
+| Motorbike GP | 88372 | [88372-motorbike-gp.json](./88372-motorbike-gp.json) |
 | Motorbike King | 43235 | [43235-motorbike-king.json](./43235-motorbike-king.json) |
 | Motorbike Madness | 45244 | [45244-motorbike-madness.json](./45244-motorbike-madness.json) |
 | Motorbike Racing | 217965 | [217965-motorbike-racing.json](./217965-motorbike-racing.json) |
