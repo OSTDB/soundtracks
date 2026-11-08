@@ -5061,6 +5061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seethe and Scab | 194359 | [194359-seethe-and-scab.json](./194359-seethe-and-scab.json) |
 | Seething Things | 217189 | [217189-seething-things.json](./217189-seething-things.json) |
 | SeeYou | 381606 | [381606-seeyou.json](./381606-seeyou.json) |
+| SeeZee's Mitey Muscles | 95726 | [95726-seezees-mitey-muscles.json](./95726-seezees-mitey-muscles.json) |
 | Sef Saga | 351517 | [351517-sef-saga.json](./351517-sef-saga.json) |
 | Sefir: Mafia Story | 158559 | [158559-sefir-mafia-story.json](./158559-sefir-mafia-story.json) |
 | Sefton Asylum | 396937 | [396937-sefton-asylum.json](./396937-sefton-asylum.json) |
@@ -5403,6 +5404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Selenon Rising | 35512 | [35512-selenon-rising.json](./35512-selenon-rising.json) |
 | Selenon Rising: Episode 2 | 171367 | [171367-selenon-rising-episode-2.json](./171367-selenon-rising-episode-2.json) |
 | Selenon Rising: Episode 3 | 171368 | [171368-selenon-rising-episode-3.json](./171368-selenon-rising-episode-3.json) |
+| Selenophobia | 96167 | [96167-selenophobia.json](./96167-selenophobia.json) |
 | Selenwald | 190988 | [190988-selenwald.json](./190988-selenwald.json) |
 | Seleos | 334443 | [334443-seleos.json](./334443-seleos.json) |
 | Self | 118430 | [118430-self.json](./118430-self.json) |
@@ -16990,6 +16992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solitaire | 80744 | [80744-solitaire.json](./80744-solitaire.json) |
 | Solitaire | 86374 | [86374-solitaire.json](./86374-solitaire.json) |
 | Solitaire | 88905 | [88905-solitaire.json](./88905-solitaire.json) |
+| Solitaire | 96178 | [96178-solitaire.json](./96178-solitaire.json) |
 | Solitaire - Classic Game | 91123 | [91123-solitaire-classic-game.json](./91123-solitaire-classic-game.json) |
 | Solitaire - Smart Moves | 102725 | [102725-solitaire-smart-moves.json](./102725-solitaire-smart-moves.json) |
 | Solitaire - The Perfect Game for Your Short Office Break | 101346 | [101346-solitaire-the-perfect-game-for-your-short-office-break.json](./101346-solitaire-the-perfect-game-for-your-short-office-break.json) |
@@ -22841,6 +22844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splat Renegade Paintball | 47312 | [47312-splat-renegade-paintball.json](./47312-splat-renegade-paintball.json) |
 | Splat Splat | 348990 | [348990-splat-splat.json](./348990-splat-splat.json) |
 | Splat the Blob | 74214 | [74214-splat-the-blob.json](./74214-splat-the-blob.json) |
+| Splat the Fruit | 96180 | [96180-splat-the-fruit.json](./96180-splat-the-fruit.json) |
 | Splat! | 178344 | [178344-splat.json](./178344-splat.json) |
 | Splat! | 280167 | [280167-splat.json](./280167-splat.json) |
 | Splat! | 46870 | [46870-splat.json](./46870-splat.json) |
@@ -29916,6 +29920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Ladybug and Cat Noir | 100802 | [100802-subway-ladybug-and-cat-noir.json](./100802-subway-ladybug-and-cat-noir.json) |
 | Subway Midnight | 175934 | [175934-subway-midnight.json](./175934-subway-midnight.json) |
 | Subway Outbreak | 295137 | [295137-subway-outbreak.json](./295137-subway-outbreak.json) |
+| Subway Princess Runner | 96179 | [96179-subway-princess-runner.json](./96179-subway-princess-runner.json) |
 | Subway Rider - Train Rush | 106567 | [106567-subway-rider-train-rush.json](./106567-subway-rider-train-rush.json) |
 | Subway Sandwichdle | 323067 | [323067-subway-sandwichdle.json](./323067-subway-sandwichdle.json) |
 | Subway Scramble | 92930 | [92930-subway-scramble.json](./92930-subway-scramble.json) |
@@ -31491,6 +31496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cat Planet | 134314 | [134314-super-cat-planet.json](./134314-super-cat-planet.json) |
 | Super Cat Simulator | 244946 | [244946-super-cat-simulator.json](./244946-super-cat-simulator.json) |
 | Super Cat Tales | 96155 | [96155-super-cat-tales.json](./96155-super-cat-tales.json) |
+| Super Cat Tales 2 | 96156 | [96156-super-cat-tales-2.json](./96156-super-cat-tales-2.json) |
 | Super Cat Tales: Paws | 250999 | [250999-super-cat-tales-paws.json](./250999-super-cat-tales-paws.json) |
 | Super Cat the Builder | 386332 | [386332-super-cat-the-builder.json](./386332-super-cat-the-builder.json) |
 | Super Cat Wars | 165551 | [165551-super-cat-wars.json](./165551-super-cat-wars.json) |
