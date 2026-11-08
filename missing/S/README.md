@@ -11362,12 +11362,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple DS Series Vol. 25: The Koushounin | 63626 | [63626-simple-ds-series-vol-25-the-koushounin.json](./63626-simple-ds-series-vol-25-the-koushounin.json) |
 | Simple DS Series Vol. 26: The Quiz 30,000-Mon | 203408 | [203408-simple-ds-series-vol-26-the-quiz-30-000-mon.json](./203408-simple-ds-series-vol-26-the-quiz-30-000-mon.json) |
 | Simple DS Series Vol. 28: The Illust Puzzle & Suuji Puzzle 2 | 203410 | [203410-simple-ds-series-vol-28-the-illust-puzzle-and-suuji-puzzle-2.json](./203410-simple-ds-series-vol-28-the-illust-puzzle-and-suuji-puzzle-2.json) |
+| Simple DS Series Vol. 30: The Table Game | 98677 | [98677-simple-ds-series-vol-30-the-table-game.json](./98677-simple-ds-series-vol-30-the-table-game.json) |
 | Simple DS Series Vol. 34: The Haisha-San | 63624 | [63624-simple-ds-series-vol-34-the-haisha-san.json](./63624-simple-ds-series-vol-34-the-haisha-san.json) |
 | Simple DS Series vol. 39: The Shouboutai | 266677 | [266677-simple-ds-series-vol-39-the-shouboutai.json](./266677-simple-ds-series-vol-39-the-shouboutai.json) |
+| Simple DS Series Vol. 40: The Gekai | 98680 | [98680-simple-ds-series-vol-40-the-gekai.json](./98680-simple-ds-series-vol-40-the-gekai.json) |
 | Simple DS Series Vol. 43: The Host Shiyouze! DX Knight King | 63621 | [63621-simple-ds-series-vol-43-the-host-shiyouze-dx-knight-king.json](./63621-simple-ds-series-vol-43-the-host-shiyouze-dx-knight-king.json) |
 | Simple DS Series Vol. 44: The Gal Mahjong | 63620 | [63620-simple-ds-series-vol-44-the-gal-mahjong.json](./63620-simple-ds-series-vol-44-the-gal-mahjong.json) |
 | Simple DS Series Vol. 8: The Kanshikikan - Kinkyuu Shutsudou!! Jiken Genba wo Touch Seyo! | 130463 | [130463-simple-ds-series-vol-8-the-kanshikikan-kinkyuu-shutsudou-jiken-genba-wo-touch-seyo.json](./130463-simple-ds-series-vol-8-the-kanshikikan-kinkyuu-shutsudou-jiken-genba-wo-touch-seyo.json) |
 | Simple DS Series Vol. 9: Atama ga Yoku Naru - The Me no Training | 203403 | [203403-simple-ds-series-vol-9-atama-ga-yoku-naru-the-me-no-training.json](./203403-simple-ds-series-vol-9-atama-ga-yoku-naru-the-me-no-training.json) |
+| Simple DS Series Vol.16: The Sagasou - Fushigi na Konchuu no Mori | 98679 | [98679-simple-ds-series-vol-16-the-sagasou-fushigi-na-konchuu-no-mori.json](./98679-simple-ds-series-vol-16-the-sagasou-fushigi-na-konchuu-no-mori.json) |
 | Simple DS Series Vol.48: The Saibanin - 1-tsu no Shinjitsu, 6-tsu no Kotae | 63622 | [63622-simple-ds-series-vol-48-the-saibanin-1-tsu-no-shinjitsu-6-tsu-no-kotae.json](./63622-simple-ds-series-vol-48-the-saibanin-1-tsu-no-shinjitsu-6-tsu-no-kotae.json) |
 | Simple Duel | 336976 | [336976-simple-duel.json](./336976-simple-duel.json) |
 | Simple Farm | 143982 | [143982-simple-farm.json](./143982-simple-farm.json) |
@@ -15149,6 +15152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Detective | 116008 | [116008-snail-detective.json](./116008-snail-detective.json) |
 | Snail Mail | 84877 | [84877-snail-mail.json](./84877-snail-mail.json) |
 | Snail Maze | 46118 | [46118-snail-maze.json](./46118-snail-maze.json) |
+| Snail Racer Extreme | 99054 | [99054-snail-racer-extreme.json](./99054-snail-racer-extreme.json) |
 | Snail Runner | 105470 | [105470-snail-runner.json](./105470-snail-runner.json) |
 | Snail Simulator | 272721 | [272721-snail-simulator.json](./272721-snail-simulator.json) |
 | Snail Storm | 185330 | [185330-snail-storm.json](./185330-snail-storm.json) |
@@ -27487,6 +27491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Synthwave Escape | 202733 | [202733-stickman-synthwave-escape.json](./202733-stickman-synthwave-escape.json) |
 | Stickman Tennis | 198010 | [198010-stickman-tennis.json](./198010-stickman-tennis.json) |
 | Stickman Trenches | 219377 | [219377-stickman-trenches.json](./219377-stickman-trenches.json) |
+| Stickman Turbo Destruction Warriors | 99203 | [99203-stickman-turbo-destruction-warriors.json](./99203-stickman-turbo-destruction-warriors.json) |
 | Stickman turbo destruiction | 349465 | [349465-stickman-turbo-destruiction.json](./349465-stickman-turbo-destruiction.json) |
 | Stickman Turbo Dismounting 3D | 95841 | [95841-stickman-turbo-dismounting-3d.json](./95841-stickman-turbo-dismounting-3d.json) |
 | Stickman vs Circles | 175750 | [175750-stickman-vs-circles.json](./175750-stickman-vs-circles.json) |
@@ -34640,6 +34645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superstar Mario World | 277067 | [277067-superstar-mario-world.json](./277067-superstar-mario-world.json) |
 | SuperStar Pledis | 124619 | [124619-superstar-pledis.json](./124619-superstar-pledis.json) |
 | Superstar Shootout | 231631 | [231631-superstar-shootout.json](./231631-superstar-shootout.json) |
+| SuperStar SMTown | 98683 | [98683-superstar-smtown.json](./98683-superstar-smtown.json) |
 | SuperStar Soccer | 73602 | [73602-superstar-soccer.json](./73602-superstar-soccer.json) |
 | SuperStar Starship | 137227 | [137227-superstar-starship.json](./137227-superstar-starship.json) |
 | SuperStar Stayc | 250121 | [250121-superstar-stayc.json](./250121-superstar-stayc.json) |
