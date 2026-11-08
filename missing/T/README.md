@@ -3053,6 +3053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Force 2 | 203535 | [203535-team-force-2.json](./203535-team-force-2.json) |
 | Team Fortaleza 2 Mobile | 238951 | [238951-team-fortaleza-2-mobile.json](./238951-team-fortaleza-2-mobile.json) |
 | Team Fortress | 128745 | [128745-team-fortress.json](./128745-team-fortress.json) |
+| Team Fortress 2 Arcade | 93638 | [93638-team-fortress-2-arcade.json](./93638-team-fortress-2-arcade.json) |
 | Team Fortress 2 Classic: Community Edition | 360756 | [360756-team-fortress-2-classic-community-edition.json](./360756-team-fortress-2-classic-community-edition.json) |
 | Team Fortress 2 Classic: Death & Taxes | 261461 | [261461-team-fortress-2-classic-death-and-taxes.json](./261461-team-fortress-2-classic-death-and-taxes.json) |
 | Team Fortress 2 Classic: Fight or Flight | 261467 | [261467-team-fortress-2-classic-fight-or-flight.json](./261467-team-fortress-2-classic-fight-or-flight.json) |
@@ -3810,6 +3811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temehuatzl | 320007 | [320007-temehuatzl.json](./320007-temehuatzl.json) |
 | Temerity | 28100 | [28100-temerity.json](./28100-temerity.json) |
 | Temirana: The Lucky Princess and the Tragic Knights | 200452 | [200452-temirana-the-lucky-princess-and-the-tragic-knights.json](./200452-temirana-the-lucky-princess-and-the-tragic-knights.json) |
+| Temp Name - Customizable Space Shooter | 93659 | [93659-temp-name-customizable-space-shooter.json](./93659-temp-name-customizable-space-shooter.json) |
 | Temp Zero | 196258 | [196258-temp-zero.json](./196258-temp-zero.json) |
 | Tempaux | 354525 | [354525-tempaux.json](./354525-tempaux.json) |
 | Temper Tantrum | 13377 | [13377-temper-tantrum.json](./13377-temper-tantrum.json) |
@@ -5229,6 +5231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Texas Hold'Em | 246381 | [246381-texas-holdem.json](./246381-texas-holdem.json) |
 | Texas Hold'em 3D | 146446 | [146446-texas-holdem-3d.json](./146446-texas-holdem-3d.json) |
 | Texas Hold'em Poker DS | 208344 | [208344-texas-holdem-poker-ds.json](./208344-texas-holdem-poker-ds.json) |
+| Texas Hold'em Poker: Pokerist | 93646 | [93646-texas-holdem-poker-pokerist.json](./93646-texas-holdem-poker-pokerist.json) |
 | Texas Hold'em Poker: Pokerist+ | 355985 | [355985-texas-holdem-poker-pokerist.json](./355985-texas-holdem-poker-pokerist.json) |
 | Texas Hold'em: Daily Poke it! | 87154 | [87154-texas-holdem-daily-poke-it.json](./87154-texas-holdem-daily-poke-it.json) |
 | Texas Hold'em: High Stakes Poker | 73540 | [73540-texas-holdem-high-stakes-poker.json](./73540-texas-holdem-high-stakes-poker.json) |
@@ -7852,6 +7855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crew 2: Japanese Summit Pack | 415031 | [415031-the-crew-2-japanese-summit-pack.json](./415031-the-crew-2-japanese-summit-pack.json) |
 | The Crew 2: Mega Car Pack | 415027 | [415027-the-crew-2-mega-car-pack.json](./415027-the-crew-2-mega-car-pack.json) |
 | The Crew 2: Mercedes Car Pack | 415024 | [415024-the-crew-2-mercedes-car-pack.json](./415024-the-crew-2-mercedes-car-pack.json) |
+| The Crew 2: Motor Edition | 93644 | [93644-the-crew-2-motor-edition.json](./93644-the-crew-2-motor-edition.json) |
 | The Crew 2: Nissan Car Pack | 415021 | [415021-the-crew-2-nissan-car-pack.json](./415021-the-crew-2-nissan-car-pack.json) |
 | The Crew 2: Porsche Car Pack | 415020 | [415020-the-crew-2-porsche-car-pack.json](./415020-the-crew-2-porsche-car-pack.json) |
 | The Crew 2: Sky, Dirt, and Waves Pack | 415023 | [415023-the-crew-2-sky-dirt-and-waves-pack.json](./415023-the-crew-2-sky-dirt-and-waves-pack.json) |
@@ -32068,6 +32072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Trove | 55991 | [55991-trivia-trove.json](./55991-trivia-trove.json) |
 | Trivia Vault Baseball Trivia | 88070 | [88070-trivia-vault-baseball-trivia.json](./88070-trivia-vault-baseball-trivia.json) |
 | Trivia Vault Basketball Trivia | 88085 | [88085-trivia-vault-basketball-trivia.json](./88085-trivia-vault-basketball-trivia.json) |
+| Trivia Vault Football Trivia | 93690 | [93690-trivia-vault-football-trivia.json](./93690-trivia-vault-football-trivia.json) |
 | Trivia Vault Olympics Trivia | 88201 | [88201-trivia-vault-olympics-trivia.json](./88201-trivia-vault-olympics-trivia.json) |
 | Trivia Vault: 1980's Trivia | 54342 | [54342-trivia-vault-1980s-trivia.json](./54342-trivia-vault-1980s-trivia.json) |
 | Trivia Vault: 1980's Trivia 2 | 54879 | [54879-trivia-vault-1980s-trivia-2.json](./54879-trivia-vault-1980s-trivia-2.json) |
@@ -34151,6 +34156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twisted Mettle | 246725 | [246725-twisted-mettle.json](./246725-twisted-mettle.json) |
 | Twisted Mini Golf | 93033 | [93033-twisted-mini-golf.json](./93033-twisted-mini-golf.json) |
 | Twisted Reality | 268894 | [268894-twisted-reality.json](./268894-twisted-reality.json) |
+| Twisted Sails | 93663 | [93663-twisted-sails.json](./93663-twisted-sails.json) |
 | Twisted Screens | 302427 | [302427-twisted-screens.json](./302427-twisted-screens.json) |
 | Twisted Tales: Night night Scarlett | 178653 | [178653-twisted-tales-night-night-scarlett.json](./178653-twisted-tales-night-night-scarlett.json) |
 | Twisted Tangle | 254744 | [254744-twisted-tangle.json](./254744-twisted-tangle.json) |
