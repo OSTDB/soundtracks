@@ -977,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7861,6 +7862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Ride 3D | 283994 | [283994-bike-ride-3d.json](./283994-bike-ride-3d.json) |
 | Bike Rider 2018 | 105723 | [105723-bike-rider-2018.json](./105723-bike-rider-2018.json) |
 | Bike Rider DX3: Time Rider | 222357 | [222357-bike-rider-dx3-time-rider.json](./222357-bike-rider-dx3-time-rider.json) |
+| Bike Rider VR | 118508 | [118508-bike-rider-vr.json](./118508-bike-rider-vr.json) |
 | Bike Rivals | 256188 | [256188-bike-rivals.json](./256188-bike-rivals.json) |
 | Bike Rush | 227508 | [227508-bike-rush.json](./227508-bike-rush.json) |
 | Bike Rush | 73170 | [73170-bike-rush.json](./73170-bike-rush.json) |
