@@ -7155,6 +7155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logicality | 203762 | [203762-logicality.json](./203762-logicality.json) |
 | LogiCally | 164938 | [164938-logically.json](./164938-logically.json) |
 | LogicBots | 27141 | [27141-logicbots.json](./27141-logicbots.json) |
+| LogicPro Adventure | 91504 | [91504-logicpro-adventure.json](./91504-logicpro-adventure.json) |
 | Logicubes | 211285 | [211285-logicubes.json](./211285-logicubes.json) |
 | LogiGolf | 250978 | [250978-logigolf.json](./250978-logigolf.json) |
 | LogiGun | 17560 | [17560-logigun.json](./17560-logigun.json) |
