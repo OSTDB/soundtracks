@@ -13135,6 +13135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comic Book Store Simulator | 359699 | [359699-comic-book-store-simulator.json](./359699-comic-book-store-simulator.json) |
 | Comic Book Tycoon | 129620 | [129620-comic-book-tycoon.json](./129620-comic-book-tycoon.json) |
 | Comic Book Universe | 322774 | [322774-comic-book-universe.json](./322774-comic-book-universe.json) |
+| Comic Boy | 96388 | [96388-comic-boy.json](./96388-comic-boy.json) |
 | Comic Circus | 83201 | [83201-comic-circus.json](./83201-comic-circus.json) |
 | Comic Coloring Book | 147888 | [147888-comic-coloring-book.json](./147888-comic-coloring-book.json) |
 | Comic Coloring Book Complete Edition: Colors + | 315888 | [315888-comic-coloring-book-complete-edition-colors.json](./315888-comic-coloring-book-complete-edition-colors.json) |
@@ -17619,6 +17620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creepy Crawling | 337742 | [337742-creepy-crawling.json](./337742-creepy-crawling.json) |
 | Creepy Creepy Love | 294933 | [294933-creepy-creepy-love.json](./294933-creepy-creepy-love.json) |
 | Creepy Dungeons | 355609 | [355609-creepy-dungeons.json](./355609-creepy-dungeons.json) |
+| Creepy Dungeons | 96801 | [96801-creepy-dungeons.json](./96801-creepy-dungeons.json) |
 | Creepy Dungeons Heroes | 226744 | [226744-creepy-dungeons-heroes.json](./226744-creepy-dungeons-heroes.json) |
 | Creepy Fishing | 370740 | [370740-creepy-fishing.json](./370740-creepy-fishing.json) |
 | Creepy Forest | 224613 | [224613-creepy-forest.json](./224613-creepy-forest.json) |
