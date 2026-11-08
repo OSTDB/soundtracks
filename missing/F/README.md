@@ -3366,6 +3366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fateholder Quest | 148625 | [148625-fateholder-quest.json](./148625-fateholder-quest.json) |
 | Fateholders of Tetsoidea | 43158 | [43158-fateholders-of-tetsoidea.json](./43158-fateholders-of-tetsoidea.json) |
 | Fatekeeper | 358769 | [358769-fatekeeper.json](./358769-fatekeeper.json) |
+| Fateless | 126724 | [126724-fateless.json](./126724-fateless.json) |
 | Fateless Night | 207621 | [207621-fateless-night.json](./207621-fateless-night.json) |
 | Fateline | 121003 | [121003-fateline.json](./121003-fateline.json) |
 | Fatermyth | 291159 | [291159-fatermyth.json](./291159-fatermyth.json) |
@@ -9900,6 +9901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forest Ranger Services: Episode 1 | 340232 | [340232-forest-ranger-services-episode-1.json](./340232-forest-ranger-services-episode-1.json) |
 | Forest Ranger Services: Episode 2 | 351374 | [351374-forest-ranger-services-episode-2.json](./351374-forest-ranger-services-episode-2.json) |
 | Forest Ranger Services: The Pilot | 288117 | [288117-forest-ranger-services-the-pilot.json](./288117-forest-ranger-services-the-pilot.json) |
+| Forest Ranger Simulator | 126704 | [126704-forest-ranger-simulator.json](./126704-forest-ranger-simulator.json) |
 | Forest Reigns | 328032 | [328032-forest-reigns.json](./328032-forest-reigns.json) |
 | Forest Restoration | 361744 | [361744-forest-restoration.json](./361744-forest-restoration.json) |
 | Forest Rites | 360707 | [360707-forest-rites.json](./360707-forest-rites.json) |
@@ -13450,6 +13452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FullAni | 317802 | [317802-fullani.json](./317802-fullani.json) |
 | FullBlast | 33864 | [33864-fullblast.json](./33864-fullblast.json) |
 | Fullbright Presents: Toilet Spiders | 320286 | [320286-fullbright-presents-toilet-spiders.json](./320286-fullbright-presents-toilet-spiders.json) |
+| Fullchoke | 126734 | [126734-fullchoke.json](./126734-fullchoke.json) |
 | Fullcourt Thunder | 60995 | [60995-fullcourt-thunder.json](./60995-fullcourt-thunder.json) |
 | Fullmetal Alchemist 2: Curse of the Crimson Elixir | 19072 | [19072-fullmetal-alchemist-2-curse-of-the-crimson-elixir.json](./19072-fullmetal-alchemist-2-curse-of-the-crimson-elixir.json) |
 | Fullmetal Alchemist 3: Kami wo Tsugu Shoujo | 57443 | [57443-fullmetal-alchemist-3-kami-wo-tsugu-shoujo.json](./57443-fullmetal-alchemist-3-kami-wo-tsugu-shoujo.json) |
