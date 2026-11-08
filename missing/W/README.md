@@ -6946,6 +6946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizened Dream | 286938 | [286938-wizened-dream.json](./286938-wizened-dream.json) |
 | Wizherd | 422032 | [422032-wizherd.json](./422032-wizherd.json) |
 | Wizhood | 43092 | [43092-wizhood.json](./43092-wizhood.json) |
+| Wizhood: The Epic of Freedom | 121868 | [121868-wizhood-the-epic-of-freedom.json](./121868-wizhood-the-epic-of-freedom.json) |
 | Wizkid | 301862 | [301862-wizkid.json](./301862-wizkid.json) |
 | Wizkid: The Story of Wizball II | 69742 | [69742-wizkid-the-story-of-wizball-ii.json](./69742-wizkid-the-story-of-wizball-ii.json) |
 | Wizlite: Everybody loved RPGs | 304013 | [304013-wizlite-everybody-loved-rpgs.json](./304013-wizlite-everybody-loved-rpgs.json) |
@@ -7427,6 +7428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wooden Ocean | 55232 | [55232-wooden-ocean.json](./55232-wooden-ocean.json) |
 | Wooden Sen'SeY | 10341 | [10341-wooden-sensey.json](./10341-wooden-sensey.json) |
 | Woodfarer | 180450 | [180450-woodfarer.json](./180450-woodfarer.json) |
+| Woodfel | 121896 | [121896-woodfel.json](./121896-woodfel.json) |
 | WoodHeart | 160160 | [160160-woodheart.json](./160160-woodheart.json) |
 | Woodla: The Tower | 251199 | [251199-woodla-the-tower.json](./251199-woodla-the-tower.json) |
 | Woodland | 230719 | [230719-woodland.json](./230719-woodland.json) |
