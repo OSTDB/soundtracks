@@ -309,6 +309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cafe Deux Femmes | 139210 | [139210-cafe-deux-femmes.json](./139210-cafe-deux-femmes.json) |
 | Cafe Dreamland | 333109 | [333109-cafe-dreamland.json](./333109-cafe-dreamland.json) |
 | Cafe Ehaburu: White Version | 108175 | [108175-cafe-ehaburu-white-version.json](./108175-cafe-ehaburu-white-version.json) |
+| Café Enchanté | 120501 | [120501-cafe-enchante.json](./120501-cafe-enchante.json) |
 | Café Enchanté: Limited Edition | 254787 | [254787-cafe-enchante-limited-edition.json](./254787-cafe-enchante-limited-edition.json) |
 | Café Guile | 364495 | [364495-cafe-guile.json](./364495-cafe-guile.json) |
 | Cafe Haven | 406157 | [406157-cafe-haven.json](./406157-cafe-haven.json) |
@@ -13408,6 +13409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Compartmentalize | 326610 | [326610-compartmentalize.json](./326610-compartmentalize.json) |
 | Compass | 344160 | [344160-compass.json](./344160-compass.json) |
 | Compass Live Arena | 220579 | [220579-compass-live-arena.json](./220579-compass-live-arena.json) |
+| Compass of Dei Gratia: On the Fifth Day | 120502 | [120502-compass-of-dei-gratia-on-the-fifth-day.json](./120502-compass-of-dei-gratia-on-the-fifth-day.json) |
 | Compass of Destiny: Survivors | 369368 | [369368-compass-of-destiny-survivors.json](./369368-compass-of-destiny-survivors.json) |
 | Compass of the Destiny: Istanbul | 239794 | [239794-compass-of-the-destiny-istanbul.json](./239794-compass-of-the-destiny-istanbul.json) |
 | Compass Rose | 124632 | [124632-compass-rose.json](./124632-compass-rose.json) |
@@ -14207,6 +14209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction: Action - Player: F-46-# - Relic Hunter | 354483 | [354483-construction-action-player-f-46-relic-hunter.json](./354483-construction-action-player-f-46-relic-hunter.json) |
 | Construction: Action - Player: F-47-# - Fisherman | 354490 | [354490-construction-action-player-f-47-fisherman.json](./354490-construction-action-player-f-47-fisherman.json) |
 | Construction: Action - Player: F-48-# - Apricorn Maker | 354484 | [354484-construction-action-player-f-48-apricorn-maker.json](./354484-construction-action-player-f-48-apricorn-maker.json) |
+| Constructionary | 120461 | [120461-constructionary.json](./120461-constructionary.json) |
 | Constructopia | 196960 | [196960-constructopia.json](./196960-constructopia.json) |
 | Constructor | 2614 | [2614-constructor.json](./2614-constructor.json) |
 | Constructor | 26780 | [26780-constructor.json](./26780-constructor.json) |
@@ -14882,6 +14885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Copy: Two Man Too Many | 359010 | [359010-copy-two-man-too-many.json](./359010-copy-two-man-too-many.json) |
 | Copy! Right? | 280734 | [280734-copy-right.json](./280734-copy-right.json) |
 | Copycat | 255631 | [255631-copycat.json](./255631-copycat.json) |
+| CopyCat | 120448 | [120448-copycat.json](./120448-copycat.json) |
 | Copycat Games: Imposter Party Games | 402135 | [402135-copycat-games-imposter-party-games.json](./402135-copycat-games-imposter-party-games.json) |
 | Copycat: Cee Ann | 185480 | [185480-copycat-cee-ann.json](./185480-copycat-cee-ann.json) |
 | Copycat's Phenomenon | 178736 | [178736-copycats-phenomenon.json](./178736-copycats-phenomenon.json) |
