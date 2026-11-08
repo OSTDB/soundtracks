@@ -5224,6 +5224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega World Tournament Golf | 46128 | [46128-sega-world-tournament-golf.json](./46128-sega-world-tournament-golf.json) |
 | Sega Worldwide Soccer 2000 | 45790 | [45790-sega-worldwide-soccer-2000.json](./45790-sega-worldwide-soccer-2000.json) |
 | Sega Worldwide Soccer 2000: Euro Edition | 46554 | [46554-sega-worldwide-soccer-2000-euro-edition.json](./46554-sega-worldwide-soccer-2000-euro-edition.json) |
+| Sega Worldwide Soccer PC | 95484 | [95484-sega-worldwide-soccer-pc.json](./95484-sega-worldwide-soccer-pc.json) |
 | Sega Yon-nin Uchi Mahjong MJ | 164282 | [164282-sega-yon-nin-uchi-mahjong-mj.json](./164282-sega-yon-nin-uchi-mahjong-mj.json) |
 | Sega-Galaga | 6131 | [6131-sega-galaga.json](./6131-sega-galaga.json) |
 | Segagaga | 28151 | [28151-segagaga.json](./28151-segagaga.json) |
@@ -10504,6 +10505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sight Blight | 249726 | [249726-sight-blight.json](./249726-sight-blight.json) |
 | Sight Insomnia | 364381 | [364381-sight-insomnia.json](./364381-sight-insomnia.json) |
 | Sight Of The Victim: Passenger 23 | 335631 | [335631-sight-of-the-victim-passenger-23.json](./335631-sight-of-the-victim-passenger-23.json) |
+| Sight Words Games in Candy Land - Reading for kids | 95537 | [95537-sight-words-games-in-candy-land-reading-for-kids.json](./95537-sight-words-games-in-candy-land-reading-for-kids.json) |
 | Sight's Adventure | 182909 | [182909-sights-adventure.json](./182909-sights-adventure.json) |
 | Sightbringer | 157851 | [157851-sightbringer.json](./157851-sightbringer.json) |
 | Sightings from the Deep | 313754 | [313754-sightings-from-the-deep.json](./313754-sightings-from-the-deep.json) |
@@ -11077,6 +11079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimCity | 208990 | [208990-simcity.json](./208990-simcity.json) |
 | SimCity 2000 | 330 | [330-simcity-2000.json](./330-simcity-2000.json) |
 | SimCity 2000 Urban Renewal Kit | 130907 | [130907-simcity-2000-urban-renewal-kit.json](./130907-simcity-2000-urban-renewal-kit.json) |
+| SimCity 2000: Network Edition | 95506 | [95506-simcity-2000-network-edition.json](./95506-simcity-2000-network-edition.json) |
 | SimCity 2000: Special Edition | 46631 | [46631-simcity-2000-special-edition.json](./46631-simcity-2000-special-edition.json) |
 | SimCity 3000 Unlimited | 28955 | [28955-simcity-3000-unlimited.json](./28955-simcity-3000-unlimited.json) |
 | SimCity 4: Rush Hour | 18494 | [18494-simcity-4-rush-hour.json](./18494-simcity-4-rush-hour.json) |
@@ -16575,6 +16578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sokoban Cats | 216053 | [216053-sokoban-cats.json](./216053-sokoban-cats.json) |
 | Sokoban Densetsu: Hikari to Yami no Kuni | 98181 | [98181-sokoban-densetsu-hikari-to-yami-no-kuni.json](./98181-sokoban-densetsu-hikari-to-yami-no-kuni.json) |
 | Sokoban DS | 307081 | [307081-sokoban-ds.json](./307081-sokoban-ds.json) |
+| Sokoban for Beginners | 95518 | [95518-sokoban-for-beginners.json](./95518-sokoban-for-beginners.json) |
 | Sokoban Gianta | 155973 | [155973-sokoban-gianta.json](./155973-sokoban-gianta.json) |
 | Sokoban In Sokoland | 177719 | [177719-sokoban-in-sokoland.json](./177719-sokoban-in-sokoland.json) |
 | Sokoban Land DX | 44206 | [44206-sokoban-land-dx.json](./44206-sokoban-land-dx.json) |
@@ -25690,6 +25694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starfighter: Eclipse | 142958 | [142958-starfighter-eclipse.json](./142958-starfighter-eclipse.json) |
 | Starfinder: Afterlight | 358807 | [358807-starfinder-afterlight.json](./358807-starfinder-afterlight.json) |
 | Starfire | 246196 | [246196-starfire.json](./246196-starfire.json) |
+| Starfire | 95496 | [95496-starfire.json](./95496-starfire.json) |
 | Starfire Skies | 262868 | [262868-starfire-skies.json](./262868-starfire-skies.json) |
 | Starfleet Encounter | 13763 | [13763-starfleet-encounter.json](./13763-starfleet-encounter.json) |
 | Starfleet Orion | 23297 | [23297-starfleet-orion.json](./23297-starfleet-orion.json) |
