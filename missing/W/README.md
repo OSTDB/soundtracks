@@ -603,6 +603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wan Nyan Doubutsu Byouin: Pet no Oisha-san ni Narou! | 136863 | [136863-wan-nyan-doubutsu-byouin-pet-no-oisha-san-ni-narou.json](./136863-wan-nyan-doubutsu-byouin-pet-no-oisha-san-ni-narou.json) |
 | Wan Nyan Pet Shop | 275625 | [275625-wan-nyan-pet-shop.json](./275625-wan-nyan-pet-shop.json) |
 | Wan Nyan Slash | 123027 | [123027-wan-nyan-slash.json](./123027-wan-nyan-slash.json) |
+| Wan-wan Meitantei | 97959 | [97959-wan-wan-meitantei.json](./97959-wan-wan-meitantei.json) |
 | Wanagiri | 319024 | [319024-wanagiri.json](./319024-wanagiri.json) |
 | Wanaka Farm | 172770 | [172770-wanaka-farm.json](./172770-wanaka-farm.json) |
 | Wanba Warriors | 113986 | [113986-wanba-warriors.json](./113986-wanba-warriors.json) |
@@ -2651,6 +2652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wavebreaker | 411362 | [411362-wavebreaker.json](./411362-wavebreaker.json) |
 | Wavecade | 197008 | [197008-wavecade.json](./197008-wavecade.json) |
 | Wavecade: Ships Pack | 263085 | [263085-wavecade-ships-pack.json](./263085-wavecade-ships-pack.json) |
+| WaveCrash!! | 97951 | [97951-wavecrash.json](./97951-wavecrash.json) |
 | Wavecrashers | 391751 | [391751-wavecrashers.json](./391751-wavecrashers.json) |
 | Waveform | 15273 | [15273-waveform.json](./15273-waveform.json) |
 | Waveform Wipeout | 105687 | [105687-waveform-wipeout.json](./105687-waveform-wipeout.json) |
@@ -6657,6 +6659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With Eyes Closed: Season 1 | 267431 | [267431-with-eyes-closed-season-1.json](./267431-with-eyes-closed-season-1.json) |
 | With Eyes Closed: Season 2 | 414314 | [414314-with-eyes-closed-season-2.json](./414314-with-eyes-closed-season-2.json) |
 | With Eyes of Ice | 251971 | [251971-with-eyes-of-ice.json](./251971-with-eyes-of-ice.json) |
+| With Friends Like These | 97947 | [97947-with-friends-like-these.json](./97947-with-friends-like-these.json) |
 | With Good Intentions | 197053 | [197053-with-good-intentions.json](./197053-with-good-intentions.json) |
 | With in the Obscurity | 287686 | [287686-with-in-the-obscurity.json](./287686-with-in-the-obscurity.json) |
 | With Locks of Love | 178581 | [178581-with-locks-of-love.json](./178581-with-locks-of-love.json) |
