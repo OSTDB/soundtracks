@@ -2358,6 +2358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo-phonics 9: The Zoo Billboard Mix-up | 101484 | [101484-zoo-phonics-9-the-zoo-billboard-mix-up.json](./101484-zoo-phonics-9-the-zoo-billboard-mix-up.json) |
 | Zoo-pocalypse | 396899 | [396899-zoo-pocalypse.json](./396899-zoo-pocalypse.json) |
 | Zoo's Mad | 187229 | [187229-zoos-mad.json](./187229-zoos-mad.json) |
+| Zooba | 123682 | [123682-zooba.json](./123682-zooba.json) |
 | Zoobles! Spring to Life! | 9753 | [9753-zoobles-spring-to-life.json](./9753-zoobles-spring-to-life.json) |
 | Zoocastle | 234991 | [234991-zoocastle.json](./234991-zoocastle.json) |
 | Zooclan | 394137 | [394137-zooclan.json](./394137-zooclan.json) |
