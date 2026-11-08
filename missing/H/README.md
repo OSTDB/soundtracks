@@ -2813,6 +2813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted House 2 | 340419 | [340419-haunted-house-2.json](./340419-haunted-house-2.json) |
 | Haunted House Builder | 270514 | [270514-haunted-house-builder.json](./270514-haunted-house-builder.json) |
 | Haunted House Escape | 192543 | [192543-haunted-house-escape.json](./192543-haunted-house-escape.json) |
+| Haunted House Mobile | 86182 | [86182-haunted-house-mobile.json](./86182-haunted-house-mobile.json) |
 | Haunted House Mysteries | 122103 | [122103-haunted-house-mysteries.json](./122103-haunted-house-mysteries.json) |
 | Haunted House of Rock | 338149 | [338149-haunted-house-of-rock.json](./338149-haunted-house-of-rock.json) |
 | Haunted House Renovator | 211941 | [211941-haunted-house-renovator.json](./211941-haunted-house-renovator.json) |
@@ -11122,6 +11123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hotel Tome ws | 340486 | [340486-hotel-tome-ws.json](./340486-hotel-tome-ws.json) |
 | Hotel Transylvania | 47705 | [47705-hotel-transylvania.json](./47705-hotel-transylvania.json) |
 | Hotel Transylvania 2: The Game | 108822 | [108822-hotel-transylvania-2-the-game.json](./108822-hotel-transylvania-2-the-game.json) |
+| Hotel Transylvania 3: Monsters Overboard | 86151 | [86151-hotel-transylvania-3-monsters-overboard.json](./86151-hotel-transylvania-3-monsters-overboard.json) |
 | Hotel Transylvania Adventures: Run, Jump, Build! | 142290 | [142290-hotel-transylvania-adventures-run-jump-build.json](./142290-hotel-transylvania-adventures-run-jump-build.json) |
 | Hotel Transylvania Dash | 108820 | [108820-hotel-transylvania-dash.json](./108820-hotel-transylvania-dash.json) |
 | Hotel Transylvania Popstic | 106141 | [106141-hotel-transylvania-popstic.json](./106141-hotel-transylvania-popstic.json) |
