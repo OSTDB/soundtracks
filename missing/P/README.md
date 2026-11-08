@@ -357,6 +357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi-Slot Aruze Oukoku Pocket: Dai-hanabi | 279817 | [279817-pachi-slot-aruze-oukoku-pocket-dai-hanabi.json](./279817-pachi-slot-aruze-oukoku-pocket-dai-hanabi.json) |
 | Pachi-Slot Aruze Oukoku Pocket: Dekahel | 56737 | [56737-pachi-slot-aruze-oukoku-pocket-dekahel.json](./56737-pachi-slot-aruze-oukoku-pocket-dekahel.json) |
 | Pachi-Slot Biohazard 5 | 61488 | [61488-pachi-slot-biohazard-5.json](./61488-pachi-slot-biohazard-5.json) |
+| Pachi-Slot Biohazard 6 | 83114 | [83114-pachi-slot-biohazard-6.json](./83114-pachi-slot-biohazard-6.json) |
 | Pachi-Slot Gambler | 42238 | [42238-pachi-slot-gambler.json](./42238-pachi-slot-gambler.json) |
 | Pachi-Slot Higurashi no Naku Koro ni Matsuri | 263021 | [263021-pachi-slot-higurashi-no-naku-koro-ni-matsuri.json](./263021-pachi-slot-higurashi-no-naku-koro-ni-matsuri.json) |
 | Pachi-Slot Kanzen Kouryaku | 38138 | [38138-pachi-slot-kanzen-kouryaku.json](./38138-pachi-slot-kanzen-kouryaku.json) |
@@ -407,6 +408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachinko Wars | 42230 | [42230-pachinko-wars.json](./42230-pachinko-wars.json) |
 | Pachinko Wars 2 | 42229 | [42229-pachinko-wars-2.json](./42229-pachinko-wars-2.json) |
 | Pachinko With Nick | 184121 | [184121-pachinko-with-nick.json](./184121-pachinko-with-nick.json) |
+| Pachinko-U.F.O. | 83118 | [83118-pachinko-u-f-o.json](./83118-pachinko-u-f-o.json) |
 | Pachinko! | 80433 | [80433-pachinko.json](./80433-pachinko.json) |
 | Pachio-kun 3: Pachi-Slot & Pachinko | 59507 | [59507-pachio-kun-3-pachi-slot-and-pachinko.json](./59507-pachio-kun-3-pachi-slot-and-pachinko.json) |
 | Pachio-kun FX: Maboroshi no Shima Daikessen | 59519 | [59519-pachio-kun-fx-maboroshi-no-shima-daikessen.json](./59519-pachio-kun-fx-maboroshi-no-shima-daikessen.json) |
