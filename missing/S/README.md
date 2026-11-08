@@ -7966,6 +7966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sheep Tag 2 | 141967 | [141967-sheep-tag-2.json](./141967-sheep-tag-2.json) |
 | Sheep Up! | 120247 | [120247-sheep-up.json](./120247-sheep-up.json) |
 | Sheep with Mates | 135997 | [135997-sheep-with-mates.json](./135997-sheep-with-mates.json) |
+| Sheep.io | 119878 | [119878-sheep-io.json](./119878-sheep-io.json) |
 | Sheep's Quest | 173403 | [173403-sheeps-quest.json](./173403-sheeps-quest.json) |
 | Sheep's Symphony | 294455 | [294455-sheeps-symphony.json](./294455-sheeps-symphony.json) |
 | Sheep's Territory | 195458 | [195458-sheeps-territory.json](./195458-sheeps-territory.json) |
@@ -8112,6 +8113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shenmue III: Collector's Edition | 296044 | [296044-shenmue-iii-collectors-edition.json](./296044-shenmue-iii-collectors-edition.json) |
 | Shenmue III: Day One Edition | 136001 | [136001-shenmue-iii-day-one-edition.json](./136001-shenmue-iii-day-one-edition.json) |
 | Shenmue III: Deluxe Edition | 154513 | [154513-shenmue-iii-deluxe-edition.json](./154513-shenmue-iii-deluxe-edition.json) |
+| Shenmue III: Digital Deluxe Edition | 119897 | [119897-shenmue-iii-digital-deluxe-edition.json](./119897-shenmue-iii-digital-deluxe-edition.json) |
 | Shennong: Taste of Illusion | 113015 | [113015-shennong-taste-of-illusion.json](./113015-shennong-taste-of-illusion.json) |
 | Shénqǐ Shénluò | 152760 | [152760-shenqi-shenluo.json](./152760-shenqi-shenluo.json) |
 | Shénqiāng Shàonǚ | 129918 | [129918-shenqiang-shaonu.json](./129918-shenqiang-shaonu.json) |
@@ -16867,6 +16869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solis | 354927 | [354927-solis.json](./354927-solis.json) |
 | Solis | 375497 | [375497-solis.json](./375497-solis.json) |
 | Solisquare | 294187 | [294187-solisquare.json](./294187-solisquare.json) |
+| Solitaire | 119901 | [119901-solitaire.json](./119901-solitaire.json) |
 | Solitaire | 131072 | [131072-solitaire.json](./131072-solitaire.json) |
 | Solitaire | 131096 | [131096-solitaire.json](./131096-solitaire.json) |
 | Solitaire | 131465 | [131465-solitaire.json](./131465-solitaire.json) |
@@ -24158,6 +24161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stacky Spinners | 184386 | [184386-stacky-spinners.json](./184386-stacky-spinners.json) |
 | StackZap | 337983 | [337983-stackzap.json](./337983-stackzap.json) |
 | Stacy Sharp and the Night Of Too Many Monsters | 318364 | [318364-stacy-sharp-and-the-night-of-too-many-monsters.json](./318364-stacy-sharp-and-the-night-of-too-many-monsters.json) |
+| Staden under Gamlestaden | 119872 | [119872-staden-under-gamlestaden.json](./119872-staden-under-gamlestaden.json) |
 | Stadium | 371967 | [371967-stadium.json](./371967-stadium.json) |
 | Stadium Cross | 123004 | [123004-stadium-cross.json](./123004-stadium-cross.json) |
 | Stadium Games | 49384 | [49384-stadium-games.json](./49384-stadium-games.json) |
@@ -25078,6 +25082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Pinball Season 1 Bundle | 99757 | [99757-star-wars-pinball-season-1-bundle.json](./99757-star-wars-pinball-season-1-bundle.json) |
 | Star Wars Pinball VR | 146363 | [146363-star-wars-pinball-vr.json](./146363-star-wars-pinball-vr.json) |
 | Star Wars Pinball: The Empire Strikes Back | 22196 | [22196-star-wars-pinball-the-empire-strikes-back.json](./22196-star-wars-pinball-the-empire-strikes-back.json) |
+| Star Wars PS3 Mega Bundle | 119920 | [119920-star-wars-ps3-mega-bundle.json](./119920-star-wars-ps3-mega-bundle.json) |
 | Star Wars Racer and Commando Combo | 168392 | [168392-star-wars-racer-and-commando-combo.json](./168392-star-wars-racer-and-commando-combo.json) |
 | Star Wars Rebels: Chopper Chase | 97498 | [97498-star-wars-rebels-chopper-chase.json](./97498-star-wars-rebels-chopper-chase.json) |
 | Star Wars Rebels: Recon Missions | 23976 | [23976-star-wars-rebels-recon-missions.json](./23976-star-wars-rebels-recon-missions.json) |
@@ -36259,6 +36264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SwordBounce | 101294 | [101294-swordbounce.json](./101294-swordbounce.json) |
 | Swordbreaker the Game | 34192 | [34192-swordbreaker-the-game.json](./34192-swordbreaker-the-game.json) |
 | Swordbreaker: Back to the Castle | 113751 | [113751-swordbreaker-back-to-the-castle.json](./113751-swordbreaker-back-to-the-castle.json) |
+| Swordbreaker: Origins | 119871 | [119871-swordbreaker-origins.json](./119871-swordbreaker-origins.json) |
 | Swordbreaker: The Game - Deluxe Edition | 53698 | [53698-swordbreaker-the-game-deluxe-edition.json](./53698-swordbreaker-the-game-deluxe-edition.json) |
 | Swordcar | 260521 | [260521-swordcar.json](./260521-swordcar.json) |
 | Swordcery | 175772 | [175772-swordcery.json](./175772-swordcery.json) |
