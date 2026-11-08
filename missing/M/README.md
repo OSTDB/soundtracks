@@ -4794,6 +4794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Super Heroes in War of the Gems | 42656 | [42656-marvel-super-heroes-in-war-of-the-gems.json](./42656-marvel-super-heroes-in-war-of-the-gems.json) |
 | Marvel Super Heroes vs. Street Fighter | 8245 | [8245-marvel-super-heroes-vs-street-fighter.json](./8245-marvel-super-heroes-vs-street-fighter.json) |
 | Marvel Super Heroes: War Of The Gems | 271768 | [271768-marvel-super-heroes-war-of-the-gems.json](./271768-marvel-super-heroes-war-of-the-gems.json) |
+| Marvel Super War | 119172 | [119172-marvel-super-war.json](./119172-marvel-super-war.json) |
 | Marvel Super-Heroes | 290325 | [290325-marvel-super-heroes.json](./290325-marvel-super-heroes.json) |
 | Marvel Tokon: Fighting Souls - Iron Man Classic Costume | 414687 | [414687-marvel-tokon-fighting-souls-iron-man-classic-costume.json](./414687-marvel-tokon-fighting-souls-iron-man-classic-costume.json) |
 | Marvel Tokon: Fighting Souls - Year 1 Character and Stage Pass | 411741 | [411741-marvel-tokon-fighting-souls-year-1-character-and-stage-pass.json](./411741-marvel-tokon-fighting-souls-year-1-character-and-stage-pass.json) |
@@ -6043,6 +6044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9129,6 +9131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men in Black II: Alien Escape | 4003 | [4003-men-in-black-ii-alien-escape.json](./4003-men-in-black-ii-alien-escape.json) |
 | Men in Black II: Crossfire | 79736 | [79736-men-in-black-ii-crossfire.json](./79736-men-in-black-ii-crossfire.json) |
 | Men in Black: First Assignment | 119418 | [119418-men-in-black-first-assignment.json](./119418-men-in-black-first-assignment.json) |
+| Men in Black: Global Invasion | 119167 | [119167-men-in-black-global-invasion.json](./119167-men-in-black-global-invasion.json) |
 | Men in Black: Most Wanted | 380570 | [380570-men-in-black-most-wanted.json](./380570-men-in-black-most-wanted.json) |
 | Men in Black: The Game | 12898 | [12898-men-in-black-the-game.json](./12898-men-in-black-the-game.json) |
 | Men in Black: The Game | 200455 | [200455-men-in-black-the-game.json](./200455-men-in-black-the-game.json) |
@@ -10005,6 +10008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slug 3: ACA Neo Geo | 347163 | [347163-metal-slug-3-aca-neo-geo.json](./347163-metal-slug-3-aca-neo-geo.json) |
 | Metal Slug 3: Classic Edition | 347164 | [347164-metal-slug-3-classic-edition.json](./347164-metal-slug-3-classic-edition.json) |
 | Metal Slug 4 | 1409 | [1409-metal-slug-4.json](./1409-metal-slug-4.json) |
+| Metal Slug 4 & 5 | 119200 | [119200-metal-slug-4-and-5.json](./119200-metal-slug-4-and-5.json) |
 | Metal Slug 5 | 1410 | [1410-metal-slug-5.json](./1410-metal-slug-5.json) |
 | Metal Slug 5 Extend | 308725 | [308725-metal-slug-5-extend.json](./308725-metal-slug-5-extend.json) |
 | Metal Slug 6 | 1411 | [1411-metal-slug-6.json](./1411-metal-slug-6.json) |
@@ -12264,6 +12268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Flowers | 380221 | [380221-mind-flowers.json](./380221-mind-flowers.json) |
 | Mind Games | 33393 | [33393-mind-games.json](./33393-mind-games.json) |
 | Mind Games | 81416 | [81416-mind-games.json](./81416-mind-games.json) |
+| Mind Games Entertainment Pack for Windows | 119138 | [119138-mind-games-entertainment-pack-for-windows.json](./119138-mind-games-entertainment-pack-for-windows.json) |
 | Mind Grind | 62397 | [62397-mind-grind.json](./62397-mind-grind.json) |
 | Mind Habits | 209233 | [209233-mind-habits.json](./209233-mind-habits.json) |
 | Mind Her Manor | 312325 | [312325-mind-her-manor.json](./312325-mind-her-manor.json) |
@@ -15530,6 +15535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Money Under the Bed | 392839 | [392839-money-under-the-bed.json](./392839-money-under-the-bed.json) |
 | Money Wash Tycoon | 358659 | [358659-money-wash-tycoon.json](./358659-money-wash-tycoon.json) |
 | Moneyball! | 125937 | [125937-moneyball.json](./125937-moneyball.json) |
+| MoneyGame | 119212 | [119212-moneygame.json](./119212-moneygame.json) |
 | MoneyMania | 93394 | [93394-moneymania.json](./93394-moneymania.json) |
 | MoneySeize | 97519 | [97519-moneyseize.json](./97519-moneyseize.json) |
 | Mong Jung Mong | 166568 | [166568-mong-jung-mong.json](./166568-mong-jung-mong.json) |
@@ -15749,6 +15755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MonoGolf | 251385 | [251385-monogolf.json](./251385-monogolf.json) |
 | Monogon: Echoes | 147366 | [147366-monogon-echoes.json](./147366-monogon-echoes.json) |
 | Monokage Quest | 222543 | [222543-monokage-quest.json](./222543-monokage-quest.json) |
+| Monolisk | 119175 | [119175-monolisk.json](./119175-monolisk.json) |
 | Monolit | 298108 | [298108-monolit.json](./298108-monolit.json) |
 | Monolith | 168101 | [168101-monolith.json](./168101-monolith.json) |
 | Monolith Bay | 154570 | [154570-monolith-bay.json](./154570-monolith-bay.json) |
