@@ -4169,6 +4169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red, Blue, and Green | 135253 | [135253-red-blue-and-green.json](./135253-red-blue-and-green.json) |
 | Red: Flame & Fable | 402221 | [402221-red-flame-and-fable.json](./402221-red-flame-and-fable.json) |
 | Red: Pride of Eden | 193951 | [193951-red-pride-of-eden.json](./193951-red-pride-of-eden.json) |
+| Red: The beginning of the Melody | 120446 | [120446-red-the-beginning-of-the-melody.json](./120446-red-the-beginning-of-the-melody.json) |
 | RED: The Lucid Nightmare | 109677 | [109677-red-the-lucid-nightmare.json](./109677-red-the-lucid-nightmare.json) |
 | Red's Kingdom & Storm in a Teacup | 303976 | [303976-reds-kingdom-and-storm-in-a-teacup.json](./303976-reds-kingdom-and-storm-in-a-teacup.json) |
 | Red's Revenge | 273980 | [273980-reds-revenge.json](./273980-reds-revenge.json) |
@@ -7500,6 +7501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rifle MarksMan | 119787 | [119787-rifle-marksman.json](./119787-rifle-marksman.json) |
 | Rifle Range | 413014 | [413014-rifle-range.json](./413014-rifle-range.json) |
 | Rifle Strike | 149539 | [149539-rifle-strike.json](./149539-rifle-strike.json) |
+| Riflestorm | 120457 | [120457-riflestorm.json](./120457-riflestorm.json) |
 | Rift | 131194 | [131194-rift.json](./131194-rift.json) |
 | Rift | 368036 | [368036-rift.json](./368036-rift.json) |
 | Rift | 489 | [489-rift.json](./489-rift.json) |
