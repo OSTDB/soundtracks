@@ -976,7 +976,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1184,6 +1183,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakemono | 128018 | [128018-bakemono.json](./128018-bakemono.json) |
 | Bakemono Heights | 334874 | [334874-bakemono-heights.json](./334874-bakemono-heights.json) |
 | Bakemonogatari Portable | 42800 | [42800-bakemonogatari-portable.json](./42800-bakemonogatari-portable.json) |
+| Baken-ou TV '94 | 123670 | [123670-baken-ou-tv-94.json](./123670-baken-ou-tv-94.json) |
+| Bakenou V3 | 123669 | [123669-bakenou-v3.json](./123669-bakenou-v3.json) |
 | Baker Business 2 | 99346 | [99346-baker-business-2.json](./99346-baker-business-2.json) |
 | Baker Business 3 | 235967 | [235967-baker-business-3.json](./235967-baker-business-3.json) |
 | Baker Business 3: Christmas Pack | 263267 | [263267-baker-business-3-christmas-pack.json](./263267-baker-business-3-christmas-pack.json) |
@@ -7730,6 +7731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Time Gangsta | 316758 | [316758-big-time-gangsta.json](./316758-big-time-gangsta.json) |
 | Big Time Rush: Backstage Pass | 47874 | [47874-big-time-rush-backstage-pass.json](./47874-big-time-rush-backstage-pass.json) |
 | Big Time Rush: Dance Party | 50625 | [50625-big-time-rush-dance-party.json](./50625-big-time-rush-dance-party.json) |
+| Big Time Sports | 123691 | [123691-big-time-sports.json](./123691-big-time-sports.json) |
 | Big Tits | 393375 | [393375-big-tits.json](./393375-big-tits.json) |
 | Big Titty Teacher: Hentai School Life | 97667 | [97667-big-titty-teacher-hentai-school-life.json](./97667-big-titty-teacher-hentai-school-life.json) |
 | Big Top | 304302 | [304302-big-top.json](./304302-big-top.json) |
@@ -10797,6 +10799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocker | 15678 | [15678-blocker.json](./15678-blocker.json) |
 | Blocker Survive | 75849 | [75849-blocker-survive.json](./75849-blocker-survive.json) |
 | Blocker.io | 194036 | [194036-blocker-io.json](./194036-blocker-io.json) |
+| Blockey: Block Yeah! | 123727 | [123727-blockey-block-yeah.json](./123727-blockey-block-yeah.json) |
 | Blockfeet | 411708 | [411708-blockfeet.json](./411708-blockfeet.json) |
 | Blockforge | 73271 | [73271-blockforge.json](./73271-blockforge.json) |
 | BlockFront | 335152 | [335152-blockfront.json](./335152-blockfront.json) |
@@ -11224,6 +11227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Rivals: Survival Battleground Shooting Games | 216076 | [216076-blood-rivals-survival-battleground-shooting-games.json](./216076-blood-rivals-survival-battleground-shooting-games.json) |
 | Blood River Base | 254307 | [254307-blood-river-base.json](./254307-blood-river-base.json) |
 | Blood Rot: 1918 | 238639 | [238639-blood-rot-1918.json](./238639-blood-rot-1918.json) |
+| Blood Runner | 123716 | [123716-blood-runner.json](./123716-blood-runner.json) |
 | Blood Running | 274370 | [274370-blood-running.json](./274370-blood-running.json) |
 | Blood Running: Prologue | 293388 | [293388-blood-running-prologue.json](./293388-blood-running-prologue.json) |
 | Blood Runs Cold | 124614 | [124614-blood-runs-cold.json](./124614-blood-runs-cold.json) |
@@ -14017,6 +14021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncefield: Bricks Breaker | 237469 | [237469-bouncefield-bricks-breaker.json](./237469-bouncefield-bricks-breaker.json) |
 | Bouncemasters | 370674 | [370674-bouncemasters.json](./370674-bouncemasters.json) |
 | Bouncemasters: Aiming Assist | 379378 | [379378-bouncemasters-aiming-assist.json](./379378-bouncemasters-aiming-assist.json) |
+| Bouncemasters! | 123683 | [123683-bouncemasters.json](./123683-bouncemasters.json) |
 | Bouncer | 100671 | [100671-bouncer.json](./100671-bouncer.json) |
 | Bouncer | 13698 | [13698-bouncer.json](./13698-bouncer.json) |
 | Bouncer 2 | 266644 | [266644-bouncer-2.json](./266644-bouncer-2.json) |
