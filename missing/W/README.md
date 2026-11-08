@@ -1295,6 +1295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warface: Rifleman Tournament Pack | 226887 | [226887-warface-rifleman-tournament-pack.json](./226887-warface-rifleman-tournament-pack.json) |
 | Warface: Sniper Tournament Pack | 226886 | [226886-warface-sniper-tournament-pack.json](./226886-warface-sniper-tournament-pack.json) |
 | Warface: Starter Edition | 118677 | [118677-warface-starter-edition.json](./118677-warface-starter-edition.json) |
+| Warface: Ultimate Edition | 118509 | [118509-warface-ultimate-edition.json](./118509-warface-ultimate-edition.json) |
 | WarFallen | 82438 | [82438-warfallen.json](./82438-warfallen.json) |
 | Warfare | 16048 | [16048-warfare.json](./16048-warfare.json) |
 | Warfare 1776 | 420976 | [420976-warfare-1776.json](./420976-warfare-1776.json) |
