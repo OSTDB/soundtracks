@@ -7524,6 +7524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shape Brawl | 339933 | [339933-shape-brawl.json](./339933-shape-brawl.json) |
 | Shape Cascade | 126579 | [126579-shape-cascade.json](./126579-shape-cascade.json) |
 | Shape Defenders | 283385 | [283385-shape-defenders.json](./283385-shape-defenders.json) |
+| Shape Drift | 99884 | [99884-shape-drift.json](./99884-shape-drift.json) |
 | Shape Escape | 89752 | [89752-shape-escape.json](./89752-shape-escape.json) |
 | Shape Escape | 90362 | [90362-shape-escape.json](./90362-shape-escape.json) |
 | Shape Fold Animals | 101926 | [101926-shape-fold-animals.json](./101926-shape-fold-animals.json) |
@@ -14407,6 +14408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slugterra: Slug Life | 188286 | [188286-slugterra-slug-life.json](./188286-slugterra-slug-life.json) |
 | Slugtrip | 347796 | [347796-slugtrip.json](./347796-slugtrip.json) |
 | Slum Ball | 187680 | [187680-slum-ball.json](./187680-slum-ball.json) |
+| Slum Ball VR Tournament | 100241 | [100241-slum-ball-vr-tournament.json](./100241-slum-ball-vr-tournament.json) |
 | Slum Guide | 325405 | [325405-slum-guide.json](./325405-slum-guide.json) |
 | Slum Musketeer | 264985 | [264985-slum-musketeer.json](./264985-slum-musketeer.json) |
 | Slumber | 191202 | [191202-slumber.json](./191202-slumber.json) |
@@ -29386,6 +29388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strontium Dog and the Death Gauntlet | 313333 | [313333-strontium-dog-and-the-death-gauntlet.json](./313333-strontium-dog-and-the-death-gauntlet.json) |
 | Strontium Dog: The Killing | 38924 | [38924-strontium-dog-the-killing.json](./38924-strontium-dog-the-killing.json) |
 | StroodleDoodle | 59791 | [59791-stroodledoodle.json](./59791-stroodledoodle.json) |
+| Stroop Test for Research and Teaching | 100377 | [100377-stroop-test-for-research-and-teaching.json](./100377-stroop-test-for-research-and-teaching.json) |
 | Struckd | 22750 | [22750-struckd.json](./22750-struckd.json) |
 | Struckd: 3D Game Creator | 80940 | [80940-struckd-3d-game-creator.json](./80940-struckd-3d-game-creator.json) |
 | Structory | 246208 | [246208-structory.json](./246208-structory.json) |
@@ -29755,6 +29758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Submarine Commander | 54796 | [54796-submarine-commander.json](./54796-submarine-commander.json) |
 | Submarine Dash | 56762 | [56762-submarine-dash.json](./56762-submarine-dash.json) |
 | Submarine Fury | 73802 | [73802-submarine-fury.json](./73802-submarine-fury.json) |
+| Submarine Patrol | 99876 | [99876-submarine-patrol.json](./99876-submarine-patrol.json) |
 | Submarine Samurai | 183556 | [183556-submarine-samurai.json](./183556-submarine-samurai.json) |
 | Submarine Strike | 413047 | [413047-submarine-strike.json](./413047-submarine-strike.json) |
 | Submarine Survivor | 318350 | [318350-submarine-survivor.json](./318350-submarine-survivor.json) |
@@ -30173,6 +30177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku Relax 3 Autumn Leaves | 125746 | [125746-sudoku-relax-3-autumn-leaves.json](./125746-sudoku-relax-3-autumn-leaves.json) |
 | Sudoku Relax 4 Winter Snow | 130041 | [130041-sudoku-relax-4-winter-snow.json](./130041-sudoku-relax-4-winter-snow.json) |
 | Sudoku Relax 5 Full Bloom | 147618 | [147618-sudoku-relax-5-full-bloom.json](./147618-sudoku-relax-5-full-bloom.json) |
+| Sudoku Ronin | 99871 | [99871-sudoku-ronin.json](./99871-sudoku-ronin.json) |
 | Sudoku RPG | 143029 | [143029-sudoku-rpg.json](./143029-sudoku-rpg.json) |
 | Sudoku Samurai | 216127 | [216127-sudoku-samurai.json](./216127-sudoku-samurai.json) |
 | Sudoku Scapes | 105969 | [105969-sudoku-scapes.json](./105969-sudoku-scapes.json) |
