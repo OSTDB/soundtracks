@@ -7691,6 +7691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Number World | 63735 | [63735-number-world.json](./63735-number-world.json) |
 | Number's Addict | 94187 | [94187-numbers-addict.json](./94187-numbers-addict.json) |
 | Number8 | 246794 | [246794-number8.json](./246794-number8.json) |
+| Numberball | 133535 | [133535-numberball.json](./133535-numberball.json) |
 | Numberful | 58109 | [58109-numberful.json](./58109-numberful.json) |
 | Numberic Puzzle 2018 | 103154 | [103154-numberic-puzzle-2018.json](./103154-numberic-puzzle-2018.json) |
 | Numberic Puzzle Blue | 107133 | [107133-numberic-puzzle-blue.json](./107133-numberic-puzzle-blue.json) |
