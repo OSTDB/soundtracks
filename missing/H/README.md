@@ -805,6 +805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Stories: The Neglected Dead | 187944 | [187944-halloween-stories-the-neglected-dead.json](./187944-halloween-stories-the-neglected-dead.json) |
 | Halloween Stories: The Neglected Dead - Collector's Edition | 195645 | [195645-halloween-stories-the-neglected-dead-collectors-edition.json](./195645-halloween-stories-the-neglected-dead-collectors-edition.json) |
 | Halloween Stories: Written in Blood - Collector's Edition | 362850 | [362850-halloween-stories-written-in-blood-collectors-edition.json](./362850-halloween-stories-written-in-blood-collectors-edition.json) |
+| Halloween Storm | 97008 | [97008-halloween-storm.json](./97008-halloween-storm.json) |
 | Halloween Survivors | 270525 | [270525-halloween-survivors.json](./270525-halloween-survivors.json) |
 | Halloween Sweetplechase | 164050 | [164050-halloween-sweetplechase.json](./164050-halloween-sweetplechase.json) |
 | Halloween Trick or Treat Escape 1 | 395954 | [395954-halloween-trick-or-treat-escape-1.json](./395954-halloween-trick-or-treat-escape-1.json) |
@@ -1588,6 +1589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happiness! Sakura Celebration! | 316015 | [316015-happiness-sakura-celebration.json](./316015-happiness-sakura-celebration.json) |
 | Happup | 130738 | [130738-happup.json](./130738-happup.json) |
 | Happy | 268060 | [268060-happy.json](./268060-happy.json) |
+| Happy Airplane | 97007 | [97007-happy-airplane.json](./97007-happy-airplane.json) |
 | Happy Animal Farm | 140930 | [140930-happy-animal-farm.json](./140930-happy-animal-farm.json) |
 | Happy Animal Testing | 216699 | [216699-happy-animal-testing.json](./216699-happy-animal-testing.json) |
 | Happy Animals Bowling | 126488 | [126488-happy-animals-bowling.json](./126488-happy-animals-bowling.json) |
@@ -1820,6 +1822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HappyBoxDodging | 104518 | [104518-happyboxdodging.json](./104518-happyboxdodging.json) |
 | Happyface | 68623 | [68623-happyface.json](./68623-happyface.json) |
 | HappyFamily - Cut Knife | 100866 | [100866-happyfamily-cut-knife.json](./100866-happyfamily-cut-knife.json) |
+| HappyFamily - Magic Piano Master | 97023 | [97023-happyfamily-magic-piano-master.json](./97023-happyfamily-magic-piano-master.json) |
 | HappyFunland | 215689 | [215689-happyfunland.json](./215689-happyfunland.json) |
 | HappyFunland: Souvenir Edition | 270208 | [270208-happyfunland-souvenir-edition.json](./270208-happyfunland-souvenir-edition.json) |
 | HappyKids | 335234 | [335234-happykids.json](./335234-happykids.json) |
@@ -2317,6 +2320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haru to Kaiya | 362164 | [362164-haru-to-kaiya.json](./362164-haru-to-kaiya.json) |
 | Haru to Shura | 148699 | [148699-haru-to-shura.json](./148699-haru-to-shura.json) |
 | Haru Uso: Passing Memories | 77857 | [77857-haru-uso-passing-memories.json](./77857-haru-uso-passing-memories.json) |
+| Haruharu Yukiyuki: Visual Novel | 97421 | [97421-haruharu-yukiyuki-visual-novel.json](./97421-haruharu-yukiyuki-visual-novel.json) |
 | Haruiro Communication | 77849 | [77849-haruiro-communication.json](./77849-haruiro-communication.json) |
 | Harujion no Sakasekata | 396683 | [396683-harujion-no-sakasekata.json](./396683-harujion-no-sakasekata.json) |
 | Haruka Ao no Hanayome ni | 367681 | [367681-haruka-ao-no-hanayome-ni.json](./367681-haruka-ao-no-hanayome-ni.json) |
