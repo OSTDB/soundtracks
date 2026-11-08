@@ -3610,6 +3610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HeartWare | 309806 | [309806-heartware.json](./309806-heartware.json) |
 | HeartWeaver | 322090 | [322090-heartweaver.json](./322090-heartweaver.json) |
 | Heartwell | 276873 | [276873-heartwell.json](./276873-heartwell.json) |
+| Heartwild Solitaire | 98149 | [98149-heartwild-solitaire.json](./98149-heartwild-solitaire.json) |
 | Heartwild Solitaire Book One | 88737 | [88737-heartwild-solitaire-book-one.json](./88737-heartwild-solitaire-book-one.json) |
 | Heartwild Solitaire: Book Two | 96852 | [96852-heartwild-solitaire-book-two.json](./96852-heartwild-solitaire-book-two.json) |
 | Heartwood | 140954 | [140954-heartwood.json](./140954-heartwood.json) |
@@ -8644,6 +8645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitotsu No Mori | 120770 | [120770-hitotsu-no-mori.json](./120770-hitotsu-no-mori.json) |
 | Hitotsu Tobashi Renai | 60883 | [60883-hitotsu-tobashi-renai.json](./60883-hitotsu-tobashi-renai.json) |
 | Hitotsu Tobashi Renai V | 217545 | [217545-hitotsu-tobashi-renai-v.json](./217545-hitotsu-tobashi-renai-v.json) |
+| Hitotsu Yane no, Tsubasa no Shita de | 98139 | [98139-hitotsu-yane-no-tsubasa-no-shita-de.json](./98139-hitotsu-yane-no-tsubasa-no-shita-de.json) |
 | Hitotsubashi Animal Chronicles | 358386 | [358386-hitotsubashi-animal-chronicles.json](./358386-hitotsubashi-animal-chronicles.json) |
 | Hitou Dungeon | 283842 | [283842-hitou-dungeon.json](./283842-hitou-dungeon.json) |
 | Hitozuma Dorei Keikaku | 108925 | [108925-hitozuma-dorei-keikaku.json](./108925-hitozuma-dorei-keikaku.json) |
@@ -8829,6 +8831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey Stars | 238931 | [238931-hockey-stars.json](./238931-hockey-stars.json) |
 | Hockey Super Squad | 321537 | [321537-hockey-super-squad.json](./321537-hockey-super-squad.json) |
 | Hockey Trivia | 100702 | [100702-hockey-trivia.json](./100702-hockey-trivia.json) |
+| Hockey TV | 98596 | [98596-hockey-tv.json](./98596-hockey-tv.json) |
 | Hockey VR | 175154 | [175154-hockey-vr.json](./175154-hockey-vr.json) |
 | Hockey: Strategy of Success | 115690 | [115690-hockey-strategy-of-success.json](./115690-hockey-strategy-of-success.json) |
 | Hockey! / Soccer! | 69722 | [69722-hockey-soccer.json](./69722-hockey-soccer.json) |
