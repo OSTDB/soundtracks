@@ -7173,6 +7173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistical: Brazil | 74485 | [74485-logistical-brazil.json](./74485-logistical-brazil.json) |
 | Logistical: British Isles | 52298 | [52298-logistical-british-isles.json](./52298-logistical-british-isles.json) |
 | Logistical: Canada | 166373 | [166373-logistical-canada.json](./166373-logistical-canada.json) |
+| Logistical: Caribbean | 99062 | [99062-logistical-caribbean.json](./99062-logistical-caribbean.json) |
 | Logistical: Chile | 59229 | [59229-logistical-chile.json](./59229-logistical-chile.json) |
 | Logistical: Earth | 51582 | [51582-logistical-earth.json](./51582-logistical-earth.json) |
 | Logistical: Egypt | 166379 | [166379-logistical-egypt.json](./166379-logistical-egypt.json) |
@@ -9614,6 +9615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Star: Ryouou Gakuen Outousai | 72617 | [72617-lucky-star-ryouou-gakuen-outousai.json](./72617-lucky-star-ryouou-gakuen-outousai.json) |
 | Lucky Star: Ryouou Gakuen Outousai - DX Pack | 214143 | [214143-lucky-star-ryouou-gakuen-outousai-dx-pack.json](./214143-lucky-star-ryouou-gakuen-outousai-dx-pack.json) |
 | Lucky Star: Ryouou Gakuen Outousai Portable | 213692 | [213692-lucky-star-ryouou-gakuen-outousai-portable.json](./213692-lucky-star-ryouou-gakuen-outousai-portable.json) |
+| Lucky Stars - Pop All the Stars in Sky | 99206 | [99206-lucky-stars-pop-all-the-stars-in-sky.json](./99206-lucky-stars-pop-all-the-stars-in-sky.json) |
 | Lucky Stars 2 | 89722 | [89722-lucky-stars-2.json](./89722-lucky-stars-2.json) |
 | Lucky Stars Video Slots | 175990 | [175990-lucky-stars-video-slots.json](./175990-lucky-stars-video-slots.json) |
 | Lucky Stars: Special Edition | 107711 | [107711-lucky-stars-special-edition.json](./107711-lucky-stars-special-edition.json) |
