@@ -2863,6 +2863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Horror | 405800 | [405800-dawn-of-horror.json](./405800-dawn-of-horror.json) |
 | Dawn of Insolence | 271110 | [271110-dawn-of-insolence.json](./271110-dawn-of-insolence.json) |
 | Dawn of Irkalla | 396962 | [396962-dawn-of-irkalla.json](./396962-dawn-of-irkalla.json) |
+| Dawn of Isles | 122558 | [122558-dawn-of-isles.json](./122558-dawn-of-isles.json) |
 | Dawn of Kagura: Hatsuka's Story | 325310 | [325310-dawn-of-kagura-hatsukas-story.json](./325310-dawn-of-kagura-hatsukas-story.json) |
 | Dawn of Kagura: Keika's Story | 325309 | [325309-dawn-of-kagura-keikas-story.json](./325309-dawn-of-kagura-keikas-story.json) |
 | Dawn of Kagura: Maika's Story - The Dragon's Wrath | 220008 | [220008-dawn-of-kagura-maikas-story-the-dragons-wrath.json](./220008-dawn-of-kagura-maikas-story-the-dragons-wrath.json) |
@@ -8776,6 +8777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dice Have No Eyes | 399433 | [399433-dice-have-no-eyes.json](./399433-dice-have-no-eyes.json) |
 | Dice Hero: The Unoriginal Story | 234673 | [234673-dice-hero-the-unoriginal-story.json](./234673-dice-hero-the-unoriginal-story.json) |
 | Dice Heroes | 396504 | [396504-dice-heroes.json](./396504-dice-heroes.json) |
+| Dice Hunter: Quest of the Dicemancer | 122544 | [122544-dice-hunter-quest-of-the-dicemancer.json](./122544-dice-hunter-quest-of-the-dicemancer.json) |
 | Dice In You | 379013 | [379013-dice-in-you.json](./379013-dice-in-you.json) |
 | Dice is the Way | 238659 | [238659-dice-is-the-way.json](./238659-dice-is-the-way.json) |
 | Dice Jockey | 175171 | [175171-dice-jockey.json](./175171-dice-jockey.json) |
@@ -11343,6 +11345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divinity: Original Sin II - Definitive Edition | 103337 | [103337-divinity-original-sin-ii-definitive-edition.json](./103337-divinity-original-sin-ii-definitive-edition.json) |
 | Divinity: Original Sin II - Divine Edition | 154209 | [154209-divinity-original-sin-ii-divine-edition.json](./154209-divinity-original-sin-ii-divine-edition.json) |
 | Divinoids | 132077 | [132077-divinoids.json](./132077-divinoids.json) |
+| Divinum | 122521 | [122521-divinum.json](./122521-divinum.json) |
 | Divinus Vanitas | 215921 | [215921-divinus-vanitas.json](./215921-divinus-vanitas.json) |
 | Divisadero | 132445 | [132445-divisadero.json](./132445-divisadero.json) |
 | Division | 217209 | [217209-division.json](./217209-division.json) |
@@ -12120,6 +12123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogz 4 | 151539 | [151539-dogz-4.json](./151539-dogz-4.json) |
 | Dogz 5 | 73681 | [73681-dogz-5.json](./73681-dogz-5.json) |
 | Dogz: Fashion | 49403 | [49403-dogz-fashion.json](./49403-dogz-fashion.json) |
+| Dogz: Happy House | 122511 | [122511-dogz-happy-house.json](./122511-dogz-happy-house.json) |
 | DoHots | 417407 | [417407-dohots.json](./417407-dohots.json) |
 | Dohyo Dreams: Rise to Yokozuna | 381604 | [381604-dohyo-dreams-rise-to-yokozuna.json](./381604-dohyo-dreams-rise-to-yokozuna.json) |
 | Doinaka Girls Utopia | 411245 | [411245-doinaka-girls-utopia.json](./411245-doinaka-girls-utopia.json) |
@@ -12383,6 +12387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolphin Blue | 3114 | [3114-dolphin-blue.json](./3114-dolphin-blue.json) |
 | Dolphin Hustle | 200172 | [200172-dolphin-hustle.json](./200172-dolphin-hustle.json) |
 | Dolphin Island 2 | 177345 | [177345-dolphin-island-2.json](./177345-dolphin-island-2.json) |
+| Dolphin Island: Underwater Adventures | 122510 | [122510-dolphin-island-underwater-adventures.json](./122510-dolphin-island-underwater-adventures.json) |
 | Dolphin Olympics 2 | 159287 | [159287-dolphin-olympics-2.json](./159287-dolphin-olympics-2.json) |
 | Dolphin Paradise | 107676 | [107676-dolphin-paradise.json](./107676-dolphin-paradise.json) |
 | Dolphin Paradise: Wild Friends | 251739 | [251739-dolphin-paradise-wild-friends.json](./251739-dolphin-paradise-wild-friends.json) |
