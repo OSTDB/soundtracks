@@ -1750,6 +1750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egyptian Senet | 34742 | [34742-egyptian-senet.json](./34742-egyptian-senet.json) |
 | Egyptian Settlement Gold | 35308 | [35308-egyptian-settlement-gold.json](./35308-egyptian-settlement-gold.json) |
 | Egyptian Trilogy | 209179 | [209179-egyptian-trilogy.json](./209179-egyptian-trilogy.json) |
+| Ehandcipation | 119874 | [119874-ehandcipation.json](./119874-ehandcipation.json) |
 | Ehrgeiz | 1361 | [1361-ehrgeiz.json](./1361-ehrgeiz.json) |
 | Ehub Cities: Blackout | 392004 | [392004-ehub-cities-blackout.json](./392004-ehub-cities-blackout.json) |
 | Eia | 149319 | [149319-eia.json](./149319-eia.json) |
