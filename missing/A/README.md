@@ -2856,6 +2856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acid Drop | 11111 | [11111-acid-drop.json](./11111-acid-drop.json) |
 | Acid Drops | 15588 | [15588-acid-drops.json](./15588-acid-drops.json) |
 | Acid Factory | 316099 | [316099-acid-factory.json](./316099-acid-factory.json) |
+| Acid Flip | 115230 | [115230-acid-flip.json](./115230-acid-flip.json) |
 | Acid Girls' Escape | 205568 | [205568-acid-girls-escape.json](./205568-acid-girls-escape.json) |
 | Acid Knife | 126869 | [126869-acid-knife.json](./126869-acid-knife.json) |
 | Acid Moon | 135092 | [135092-acid-moon.json](./135092-acid-moon.json) |
@@ -5802,6 +5803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport CEO: Business Class Edition | 202127 | [202127-airport-ceo-business-class-edition.json](./202127-airport-ceo-business-class-edition.json) |
 | Airport CEO: Helicopters | 272868 | [272868-airport-ceo-helicopters.json](./272868-airport-ceo-helicopters.json) |
 | Airport CEO: Vintage | 203691 | [203691-airport-ceo-vintage.json](./203691-airport-ceo-vintage.json) |
+| Airport City | 115199 | [115199-airport-city.json](./115199-airport-city.json) |
 | Airport Contraband | 123765 | [123765-airport-contraband.json](./123765-airport-contraband.json) |
 | Airport Contraband Police | 267260 | [267260-airport-contraband-police.json](./267260-airport-contraband-police.json) |
 | Airport Control 25 | 379523 | [379523-airport-control-25.json](./379523-airport-control-25.json) |
@@ -5874,6 +5876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airship Knights | 231980 | [231980-airship-knights.json](./231980-airship-knights.json) |
 | Airship: Kingdoms Adrift | 231336 | [231336-airship-kingdoms-adrift.json](./231336-airship-kingdoms-adrift.json) |
 | Airships: Heroes and Villains | 244353 | [244353-airships-heroes-and-villains.json](./244353-airships-heroes-and-villains.json) |
+| AirShock | 115255 | [115255-airshock.json](./115255-airshock.json) |
 | AirShooShoo | 207589 | [207589-airshooshoo.json](./207589-airshooshoo.json) |
 | Airskipper | 401463 | [401463-airskipper.json](./401463-airskipper.json) |
 | Airsoft Allstars | 393023 | [393023-airsoft-allstars.json](./393023-airsoft-allstars.json) |
@@ -16437,6 +16440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroflux | 32875 | [32875-astroflux.json](./32875-astroflux.json) |
 | AstroForge: Space Pirates | 283968 | [283968-astroforge-space-pirates.json](./283968-astroforge-space-pirates.json) |
 | Astrofrog | 179788 | [179788-astrofrog.json](./179788-astrofrog.json) |
+| Astrog | 115246 | [115246-astrog.json](./115246-astrog.json) |
 | AstroGenesis | 111498 | [111498-astrogenesis.json](./111498-astrogenesis.json) |
 | AstroGenesis: Boss Rush | 121041 | [121041-astrogenesis-boss-rush.json](./121041-astrogenesis-boss-rush.json) |
 | Astrogeo | 393544 | [393544-astrogeo.json](./393544-astrogeo.json) |
@@ -17010,7 +17014,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
