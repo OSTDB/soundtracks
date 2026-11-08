@@ -4072,6 +4072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helidefence | 112619 | [112619-helidefence.json](./112619-helidefence.json) |
 | Helidroid 2: Helicopter R/C | 197642 | [197642-helidroid-2-helicopter-r-c.json](./197642-helidroid-2-helicopter-r-c.json) |
 | Helidroid 3B PRO : 3D RC Copter | 82113 | [82113-helidroid-3b-pro-3d-rc-copter.json](./82113-helidroid-3b-pro-3d-rc-copter.json) |
+| HeliHopper | 99889 | [99889-helihopper.json](./99889-helihopper.json) |
 | HeliInvasion 2 | 200043 | [200043-heliinvasion-2.json](./200043-heliinvasion-2.json) |
 | Helion | 268368 | [268368-helion.json](./268368-helion.json) |
 | Helion: Void Wars | 18591 | [18591-helion-void-wars.json](./18591-helion-void-wars.json) |
@@ -11226,6 +11227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | House Hunted | 217759 | [217759-house-hunted.json](./217759-house-hunted.json) |
 | House in the village by the river v2.0 | 173813 | [173813-house-in-the-village-by-the-river-v2-0.json](./173813-house-in-the-village-by-the-river-v2-0.json) |
 | House in the Woods | 395108 | [395108-house-in-the-woods.json](./395108-house-in-the-woods.json) |
+| House M.D. | 100236 | [100236-house-m-d.json](./100236-house-m-d.json) |
 | House M.D. | 350938 | [350938-house-m-d.json](./350938-house-m-d.json) |
 | House M.D. Episode 5: Under the Big Top | 65508 | [65508-house-m-d-episode-5-under-the-big-top.json](./65508-house-m-d-episode-5-under-the-big-top.json) |
 | House M.D.: Episode 1 - Globetrotting | 85178 | [85178-house-m-d-episode-1-globetrotting.json](./85178-house-m-d-episode-1-globetrotting.json) |
@@ -11646,6 +11648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Classic Board Game Collection 3 | 90697 | [90697-hoyle-classic-board-game-collection-3.json](./90697-hoyle-classic-board-game-collection-3.json) |
 | Hoyle Classic Board Games | 131359 | [131359-hoyle-classic-board-games.json](./131359-hoyle-classic-board-games.json) |
 | Hoyle Classic Games | 71149 | [71149-hoyle-classic-games.json](./71149-hoyle-classic-games.json) |
+| Hoyle Club House Collection | 99892 | [99892-hoyle-club-house-collection.json](./99892-hoyle-club-house-collection.json) |
 | Hoyle Craps and Blackjack | 210057 | [210057-hoyle-craps-and-blackjack.json](./210057-hoyle-craps-and-blackjack.json) |
 | Hoyle Crosswords & Sudoku | 210069 | [210069-hoyle-crosswords-and-sudoku.json](./210069-hoyle-crosswords-and-sudoku.json) |
 | Hoyle Friday Night Poker | 210070 | [210070-hoyle-friday-night-poker.json](./210070-hoyle-friday-night-poker.json) |
