@@ -1044,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero: Circle of Flow | 145579 | [145579-zero-circle-of-flow.json](./145579-zero-circle-of-flow.json) |
 | Zero: Tsukihami no Kamen | 26142 | [26142-zero-tsukihami-no-kamen.json](./26142-zero-tsukihami-no-kamen.json) |
 | Zero's Fantastic Anecdote | 284789 | [284789-zeros-fantastic-anecdote.json](./284789-zeros-fantastic-anecdote.json) |
+| Zero/Sum | 101180 | [101180-zero-sum.json](./101180-zero-sum.json) |
 | Zero4 Champ | 169519 | [169519-zero4-champ.json](./169519-zero4-champ.json) |
 | Zero4 Champ DooZy-J | 125856 | [125856-zero4-champ-doozy-j.json](./125856-zero4-champ-doozy-j.json) |
 | Zero4 Champ II | 125857 | [125857-zero4-champ-ii.json](./125857-zero4-champ-ii.json) |
@@ -1124,6 +1125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zeus Quest Remastered | 147435 | [147435-zeus-quest-remastered.json](./147435-zeus-quest-remastered.json) |
 | Zeus Quest Remastered | 32893 | [32893-zeus-quest-remastered.json](./32893-zeus-quest-remastered.json) |
 | Zeus Quest: The Rebirth of Earth | 202520 | [202520-zeus-quest-the-rebirth-of-earth.json](./202520-zeus-quest-the-rebirth-of-earth.json) |
+| Zeus Quests Remastered Anagenissis of Gaia | 101643 | [101643-zeus-quests-remastered-anagenissis-of-gaia.json](./101643-zeus-quests-remastered-anagenissis-of-gaia.json) |
 | Zeus vs Monsters: Math Game for Kids | 33492 | [33492-zeus-vs-monsters-math-game-for-kids.json](./33492-zeus-vs-monsters-math-game-for-kids.json) |
 | Zeus vs. Monsters | 87540 | [87540-zeus-vs-monsters.json](./87540-zeus-vs-monsters.json) |
 | Zeus: Carnage Heart Second | 66186 | [66186-zeus-carnage-heart-second.json](./66186-zeus-carnage-heart-second.json) |
@@ -1394,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoe and the Cursed Dreamer | 402282 | [402282-zoe-and-the-cursed-dreamer.json](./402282-zoe-and-the-cursed-dreamer.json) |
 | Zoe Begone! | 292380 | [292380-zoe-begone.json](./292380-zoe-begone.json) |
 | Zoe The Exhibitionist | 311739 | [311739-zoe-the-exhibitionist.json](./311739-zoe-the-exhibitionist.json) |
+| ZOE: Interactive Story | 101157 | [101157-zoe-interactive-story.json](./101157-zoe-interactive-story.json) |
 | Zoelie | 161169 | [161169-zoelie.json](./161169-zoelie.json) |
 | Zoeti | 151780 | [151780-zoeti.json](./151780-zoeti.json) |
 | Zoey 101 | 18325 | [18325-zoey-101.json](./18325-zoey-101.json) |
@@ -2210,6 +2213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombreak: The Last Escape | 250970 | [250970-zombreak-the-last-escape.json](./250970-zombreak-the-last-escape.json) |
 | Zombrero | 179879 | [179879-zombrero.json](./179879-zombrero.json) |
 | Zombrio | 156905 | [156905-zombrio.json](./156905-zombrio.json) |
+| Zombs Royale | 101161 | [101161-zombs-royale.json](./101161-zombs-royale.json) |
 | Zombs.io | 76570 | [76570-zombs-io.json](./76570-zombs-io.json) |
 | Zombuds | 404357 | [404357-zombuds.json](./404357-zombuds.json) |
 | Zombusters | 50804 | [50804-zombusters.json](./50804-zombusters.json) |
