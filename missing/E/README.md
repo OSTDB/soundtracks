@@ -6058,6 +6058,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ETea | 319066 | [319066-etea.json](./319066-etea.json) |
 | Etera | 306237 | [306237-etera.json](./306237-etera.json) |
 | Eterium | 17102 | [17102-eterium.json](./17102-eterium.json) |
+| Eterna | 137198 | [137198-eterna.json](./137198-eterna.json) |
 | Eterna: Heroes Fall | 139639 | [139639-eterna-heroes-fall.json](./139639-eterna-heroes-fall.json) |
 | Eternal | 218203 | [218203-eternal.json](./218203-eternal.json) |
 | Eternal | 303056 | [303056-eternal.json](./303056-eternal.json) |
@@ -8539,6 +8540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyes of the Factory | 408185 | [408185-eyes-of-the-factory.json](./408185-eyes-of-the-factory.json) |
 | Eyes of the Forest | 389087 | [389087-eyes-of-the-forest.json](./389087-eyes-of-the-forest.json) |
 | Eyes of the Killer | 150095 | [150095-eyes-of-the-killer.json](./150095-eyes-of-the-killer.json) |
+| Eyes of The Mirror | 137190 | [137190-eyes-of-the-mirror.json](./137190-eyes-of-the-mirror.json) |
 | Eyes of the Night | 173231 | [173231-eyes-of-the-night.json](./173231-eyes-of-the-night.json) |
 | Eyes of the Sky | 340163 | [340163-eyes-of-the-sky.json](./340163-eyes-of-the-sky.json) |
 | Eyes of the Storm | 212032 | [212032-eyes-of-the-storm.json](./212032-eyes-of-the-storm.json) |
