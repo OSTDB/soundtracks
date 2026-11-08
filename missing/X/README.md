@@ -966,6 +966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xploit.Zero | 380561 | [380561-xploit-zero.json](./380561-xploit-zero.json) |
 | Xploquest | 76926 | [76926-xploquest.json](./76926-xploquest.json) |
 | Xploquest 2 | 86593 | [86593-xploquest-2.json](./86593-xploquest-2.json) |
+| Xplora 1: Peter Gabriel's Secret World | 78862 | [78862-xplora-1-peter-gabriels-secret-world.json](./78862-xplora-1-peter-gabriels-secret-world.json) |
 | XPlorasi3D | 218312 | [218312-xplorasi3d.json](./218312-xplorasi3d.json) |
 | Xplorasi3d 2.0 | 220729 | [220729-xplorasi3d-2-0.json](./220729-xplorasi3d-2-0.json) |
 | Xplore Health | 60391 | [60391-xplore-health.json](./60391-xplore-health.json) |
