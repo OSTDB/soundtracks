@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-08T13:31:19.843Z",
-  "total_soundtracks": 3007,
+  "generated_at": "2026-11-08T13:36:07.325Z",
+  "total_soundtracks": 3011,
   "games": [
     {
       "igdb_id": 7522,
@@ -12107,6 +12107,20 @@
       ]
     },
     {
+      "igdb_id": 116484,
+      "game_name": "Foregone",
+      "game_url": "https://ostdb.net/games/foregone",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27347566be9e82a02d2fd8f31a0",
+      "albums": [
+        {
+          "album_name": "Foregone (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0xREjjYspJirptcYH2lag0",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 187096,
       "game_name": "Forever Skies",
       "game_url": "https://ostdb.net/games/forever-skies",
@@ -22975,6 +22989,20 @@
       ]
     },
     {
+      "igdb_id": 116195,
+      "game_name": "Panzer Paladin",
+      "game_url": "https://ostdb.net/games/panzer-paladin",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734d561e72cabc93cd23fb87d7",
+      "albums": [
+        {
+          "album_name": "Panzer Paladin (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1aI28z1Wbs93V6jxVLRrmO",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 2935,
       "game_name": "Papers, Please",
       "game_url": "https://ostdb.net/games/papers-please",
@@ -23795,6 +23823,20 @@
         {
           "album_name": "Poly Bridge 2 (Original Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/1gxqNWjB5Nz1LvrsS6Qc7U",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 14291,
+      "game_name": "Poncho",
+      "game_url": "https://ostdb.net/games/poncho",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273b3eaa583e57a1d6089d7effb",
+      "albums": [
+        {
+          "album_name": "Poncho Original Soundtrack",
+          "spotify_url": "https://open.spotify.com/album/46Q7dFNNugxtskKR5lWXZp",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -28312,6 +28354,20 @@
           "album_name": "SOMA (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/19nBFW5TDocB8rQTBHO9Qc",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 121952,
+      "game_name": "Some Distant Memory",
+      "game_url": "https://ostdb.net/games/some-distant-memory",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2738f4e0ee8d81f228b39ce5ad3",
+      "albums": [
+        {
+          "album_name": "Some Distant Memory (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/0CherOErlLVwDwbBHAgZoX",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
