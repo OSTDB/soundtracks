@@ -16527,6 +16527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crafting Block World: Magic Dungeons Adventure | 254922 | [254922-crafting-block-world-magic-dungeons-adventure.json](./254922-crafting-block-world-magic-dungeons-adventure.json) |
 | Crafting Combat | 272270 | [272270-crafting-combat.json](./272270-crafting-combat.json) |
 | Crafting Dead | 55517 | [55517-crafting-dead.json](./55517-crafting-dead.json) |
+| Crafting Idle Clicker | 101787 | [101787-crafting-idle-clicker.json](./101787-crafting-idle-clicker.json) |
 | Crafting in Berxley | 412982 | [412982-crafting-in-berxley.json](./412982-crafting-in-berxley.json) |
 | Crafting Mama | 47810 | [47810-crafting-mama.json](./47810-crafting-mama.json) |
 | Crafting Story | 175326 | [175326-crafting-story.json](./175326-crafting-story.json) |
@@ -19834,6 +19835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubit: The Hardcore Platformer Robot | 47644 | [47644-cubit-the-hardcore-platformer-robot.json](./47644-cubit-the-hardcore-platformer-robot.json) |
 | Cubiti Dash 'n' Dodge | 308170 | [308170-cubiti-dash-n-dodge.json](./308170-cubiti-dash-n-dodge.json) |
 | Cubiti Parti | 202749 | [202749-cubiti-parti.json](./202749-cubiti-parti.json) |
+| Cubito Mayhem | 101715 | [101715-cubito-mayhem.json](./101715-cubito-mayhem.json) |
 | Cubitrix | 277257 | [277257-cubitrix.json](./277257-cubitrix.json) |
 | Cubium Dreams | 33381 | [33381-cubium-dreams.json](./33381-cubium-dreams.json) |
 | Cubiverse | 108774 | [108774-cubiverse.json](./108774-cubiverse.json) |
