@@ -2510,6 +2510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashbounce | 264801 | [264801-dashbounce.json](./264801-dashbounce.json) |
 | Dasher | 158205 | [158205-dasher.json](./158205-dasher.json) |
 | Dasher 3D | 179423 | [179423-dasher-3d.json](./179423-dasher-3d.json) |
+| Dashero: Sword & Magic | 138378 | [138378-dashero-sword-and-magic.json](./138378-dashero-sword-and-magic.json) |
 | Dashes & Squares | 272377 | [272377-dashes-and-squares.json](./272377-dashes-and-squares.json) |
 | DashFire | 339367 | [339367-dashfire.json](./339367-dashfire.json) |
 | Dashgunner 0 | 258906 | [258906-dashgunner-0.json](./258906-dashgunner-0.json) |
@@ -10615,6 +10616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Hidden Worlds | 98278 | [98278-disney-hidden-worlds.json](./98278-disney-hidden-worlds.json) |
 | Disney Hot Shots: Disney's Tarzan Jungle Tumble | 231855 | [231855-disney-hot-shots-disneys-tarzan-jungle-tumble.json](./231855-disney-hot-shots-disneys-tarzan-jungle-tumble.json) |
 | Disney Hot Shots: Disney's Terk & Tantor Power Lunch | 231857 | [231857-disney-hot-shots-disneys-terk-and-tantor-power-lunch.json](./231857-disney-hot-shots-disneys-terk-and-tantor-power-lunch.json) |
+| Disney Hotshots Arcade Frenzy: Mushoot / Rooftop Ruckus | 138359 | [138359-disney-hotshots-arcade-frenzy-mushoot-rooftop-ruckus.json](./138359-disney-hotshots-arcade-frenzy-mushoot-rooftop-ruckus.json) |
 | Disney Hotshots: Disney's 101 Dalmatians | 228661 | [228661-disney-hotshots-disneys-101-dalmatians.json](./228661-disney-hotshots-disneys-101-dalmatians.json) |
 | Disney Hotshots: Disney's Tarzan | 231854 | [231854-disney-hotshots-disneys-tarzan.json](./231854-disney-hotshots-disneys-tarzan.json) |
 | Disney Hotshots: The Little Mermaid | 228446 | [228446-disney-hotshots-the-little-mermaid.json](./228446-disney-hotshots-the-little-mermaid.json) |
@@ -12507,6 +12509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domum | 211965 | [211965-domum.json](./211965-domum.json) |
 | Domus Abscondita | 312765 | [312765-domus-abscondita.json](./312765-domus-abscondita.json) |
 | Domus Monstra | 184694 | [184694-domus-monstra.json](./184694-domus-monstra.json) |
+| Domvs | 138333 | [138333-domvs.json](./138333-domvs.json) |
 | Domynyo | 171302 | [171302-domynyo.json](./171302-domynyo.json) |
 | Don 2: The Game | 142554 | [142554-don-2-the-game.json](./142554-don-2-the-game.json) |
 | Don Bluth Presents Dragon's Lair 20th Anniversary Special Edition | 84222 | [84222-don-bluth-presents-dragons-lair-20th-anniversary-special-edition.json](./84222-don-bluth-presents-dragons-lair-20th-anniversary-special-edition.json) |
