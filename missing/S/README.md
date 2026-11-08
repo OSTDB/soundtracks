@@ -1123,6 +1123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvage Shop Simulator | 355103 | [355103-salvage-shop-simulator.json](./355103-salvage-shop-simulator.json) |
 | Salvage Title | 308464 | [308464-salvage-title.json](./308464-salvage-title.json) |
 | Salvage Unlimited | 391302 | [391302-salvage-unlimited.json](./391302-salvage-unlimited.json) |
+| Salvage Yard Simulator | 129888 | [129888-salvage-yard-simulator.json](./129888-salvage-yard-simulator.json) |
 | Salvaged | 32142 | [32142-salvaged.json](./32142-salvaged.json) |
 | Salvagers | 329398 | [329398-salvagers.json](./329398-salvagers.json) |
 | Salvagers | 365885 | [365885-salvagers.json](./365885-salvagers.json) |
@@ -5055,6 +5056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages 2500 Vol. 7: Columns | 99692 | [99692-sega-ages-2500-vol-7-columns.json](./99692-sega-ages-2500-vol-7-columns.json) |
 | Sega Ages 2500 Vol. 8: Virtua Racing FlatOut | 96528 | [96528-sega-ages-2500-vol-8-virtua-racing-flatout.json](./96528-sega-ages-2500-vol-8-virtua-racing-flatout.json) |
 | Sega Ages 2500 Vol. 9: Gain Ground | 77881 | [77881-sega-ages-2500-vol-9-gain-ground.json](./77881-sega-ages-2500-vol-9-gain-ground.json) |
+| Sega Ages 2500 Vol.17: Phantasy Star Generation 2 | 129891 | [129891-sega-ages-2500-vol-17-phantasy-star-generation-2.json](./129891-sega-ages-2500-vol-17-phantasy-star-generation-2.json) |
 | Sega Ages Columns II: The Voyage Through Time | 110059 | [110059-sega-ages-columns-ii-the-voyage-through-time.json](./110059-sega-ages-columns-ii-the-voyage-through-time.json) |
 | Sega Ages Fantasy Zone | 117158 | [117158-sega-ages-fantasy-zone.json](./117158-sega-ages-fantasy-zone.json) |
 | Sega Ages G-LOC: Air Battle | 117157 | [117157-sega-ages-g-loc-air-battle.json](./117157-sega-ages-g-loc-air-battle.json) |
@@ -7603,6 +7605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shardhunters | 128282 | [128282-shardhunters.json](./128282-shardhunters.json) |
 | Shardlight: Deluxe | 53601 | [53601-shardlight-deluxe.json](./53601-shardlight-deluxe.json) |
 | Shardlight: Special Edition | 51912 | [51912-shardlight-special-edition.json](./51912-shardlight-special-edition.json) |
+| Shardpunk | 129926 | [129926-shardpunk.json](./129926-shardpunk.json) |
 | Shardpunk 2 | 378128 | [378128-shardpunk-2.json](./378128-shardpunk-2.json) |
 | Shardpunk: Verminfall - Rat Pack | 255149 | [255149-shardpunk-verminfall-rat-pack.json](./255149-shardpunk-verminfall-rat-pack.json) |
 | Shards | 225429 | [225429-shards.json](./225429-shards.json) |
@@ -8096,6 +8099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shenmue III: Deluxe Edition | 154513 | [154513-shenmue-iii-deluxe-edition.json](./154513-shenmue-iii-deluxe-edition.json) |
 | Shennong: Taste of Illusion | 113015 | [113015-shennong-taste-of-illusion.json](./113015-shennong-taste-of-illusion.json) |
 | Shénqǐ Shénluò | 152760 | [152760-shenqi-shenluo.json](./152760-shenqi-shenluo.json) |
+| Shénqiāng Shàonǚ | 129918 | [129918-shenqiang-shaonu.json](./129918-shenqiang-shaonu.json) |
 | ShenShan | 126387 | [126387-shenshan.json](./126387-shenshan.json) |
 | ShenSonic | 246722 | [246722-shensonic.json](./246722-shensonic.json) |
 | Shēnxiàn Mígōng | 157908 | [157908-shenxian-migong.json](./157908-shenxian-migong.json) |
@@ -12431,6 +12435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skibigo | 397509 | [397509-skibigo.json](./397509-skibigo.json) |
 | Skibum | 58534 | [58534-skibum.json](./58534-skibum.json) |
 | Skid | 223261 | [223261-skid.json](./223261-skid.json) |
+| Skid Cities | 129941 | [129941-skid-cities.json](./129941-skid-cities.json) |
 | Skid Island: Asphalt Mayhem | 291745 | [291745-skid-island-asphalt-mayhem.json](./291745-skid-island-asphalt-mayhem.json) |
 | Skid the Scrambling Squirrel | 237779 | [237779-skid-the-scrambling-squirrel.json](./237779-skid-the-scrambling-squirrel.json) |
 | Skidaddle Skidoodle | 311641 | [311641-skidaddle-skidoodle.json](./311641-skidaddle-skidoodle.json) |
@@ -20801,6 +20806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacelords: Sööma Deluxe Character Pack | 169302 | [169302-spacelords-sooma-deluxe-character-pack.json](./169302-spacelords-sooma-deluxe-character-pack.json) |
 | Spacelords: the unofficial visual novel | 183054 | [183054-spacelords-the-unofficial-visual-novel.json](./183054-spacelords-the-unofficial-visual-novel.json) |
 | Spacelords: Valeria Deluxe Character Pack | 169304 | [169304-spacelords-valeria-deluxe-character-pack.json](./169304-spacelords-valeria-deluxe-character-pack.json) |
+| Spaceman | 129917 | [129917-spaceman.json](./129917-spaceman.json) |
 | Spaceman | 309854 | [309854-spaceman.json](./309854-spaceman.json) |
 | Spaceman 8 | 182704 | [182704-spaceman-8.json](./182704-spaceman-8.json) |
 | Spaceman Defender | 120371 | [120371-spaceman-defender.json](./120371-spaceman-defender.json) |
