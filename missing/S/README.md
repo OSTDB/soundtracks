@@ -3704,6 +3704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scream of the Viking | 113615 | [113615-scream-of-the-viking.json](./113615-scream-of-the-viking.json) |
 | Scream of the Viking 2 | 113871 | [113871-scream-of-the-viking-2.json](./113871-scream-of-the-viking-2.json) |
 | Scream of the Viking 3 | 117074 | [117074-scream-of-the-viking-3.json](./117074-scream-of-the-viking-3.json) |
+| Scream of the Viking Redux | 117251 | [117251-scream-of-the-viking-redux.json](./117251-scream-of-the-viking-redux.json) |
 | Scream or Die | 277435 | [277435-scream-or-die.json](./277435-scream-or-die.json) |
 | Scream or Die: Virtual Circus | 280305 | [280305-scream-or-die-virtual-circus.json](./280305-scream-or-die-virtual-circus.json) |
 | Scream Timbernote:the game of voice controller | 232253 | [232253-scream-timbernote-the-game-of-voice-controller.json](./232253-scream-timbernote-the-game-of-voice-controller.json) |
@@ -8649,6 +8650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shinigami no Testament ~menuet of epistula~ | 137085 | [137085-shinigami-no-testament-menuet-of-epistula.json](./137085-shinigami-no-testament-menuet-of-epistula.json) |
 | Shinigami Shogyou: Kaidan Romance | 219138 | [219138-shinigami-shogyou-kaidan-romance.json](./219138-shinigami-shogyou-kaidan-romance.json) |
 | Shinigami Soul Agency | 224197 | [224197-shinigami-soul-agency.json](./224197-shinigami-soul-agency.json) |
+| Shinigami to Shoujo | 117265 | [117265-shinigami-to-shoujo.json](./117265-shinigami-to-shoujo.json) |
 | Shinin | 281250 | [281250-shinin.json](./281250-shinin.json) |
 | Shining | 290683 | [290683-shining.json](./290683-shining.json) |
 | Shining Arena | 174789 | [174789-shining-arena.json](./174789-shining-arena.json) |
