@@ -617,6 +617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saikyoo Silver Star Shogi | 67772 | [67772-saikyoo-silver-star-shogi.json](./67772-saikyoo-silver-star-shogi.json) |
 | Saikyou Ginsei Chess | 83453 | [83453-saikyou-ginsei-chess.json](./83453-saikyou-ginsei-chess.json) |
 | Saikyou Ginsei Gomoku Narabe | 83474 | [83474-saikyou-ginsei-gomoku-narabe.json](./83474-saikyou-ginsei-gomoku-narabe.json) |
+| Saikyou Ginsei Igo | 83703 | [83703-saikyou-ginsei-igo.json](./83703-saikyou-ginsei-igo.json) |
 | Saikyou Ginsei Mahjong | 408998 | [408998-saikyou-ginsei-mahjong.json](./408998-saikyou-ginsei-mahjong.json) |
 | Saikyou Ginsei Mahjong | 83473 | [83473-saikyou-ginsei-mahjong.json](./83473-saikyou-ginsei-mahjong.json) |
 | Saikyou Ginsei Shogi | 83461 | [83461-saikyou-ginsei-shogi.json](./83461-saikyou-ginsei-shogi.json) |
@@ -10902,6 +10903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silk and Secrets: Rites of Pleasure | 397846 | [397846-silk-and-secrets-rites-of-pleasure.json](./397846-silk-and-secrets-rites-of-pleasure.json) |
 | Silk Collector: Tidy Up the Clothing Store! | 420751 | [420751-silk-collector-tidy-up-the-clothing-store.json](./420751-silk-collector-tidy-up-the-clothing-store.json) |
 | Silk Road 2 | 266335 | [266335-silk-road-2.json](./266335-silk-road-2.json) |
+| Silk Road: Legend of Gero | 83711 | [83711-silk-road-legend-of-gero.json](./83711-silk-road-legend-of-gero.json) |
 | Silk Roads II: Paths of Fortune | 348562 | [348562-silk-roads-ii-paths-of-fortune.json](./348562-silk-roads-ii-paths-of-fortune.json) |
 | Silk Roads: Caravan Kings | 169612 | [169612-silk-roads-caravan-kings.json](./169612-silk-roads-caravan-kings.json) |
 | Silk Suki: Chat Messaging Game | 298099 | [298099-silk-suki-chat-messaging-game.json](./298099-silk-suki-chat-messaging-game.json) |
@@ -14977,6 +14979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smite Rivals | 26693 | [26693-smite-rivals.json](./26693-smite-rivals.json) |
 | Smite Tactics | 25085 | [25085-smite-tactics.json](./25085-smite-tactics.json) |
 | Smite: Digital Deluxe Edition 2021 | 164843 | [164843-smite-digital-deluxe-edition-2021.json](./164843-smite-digital-deluxe-edition-2021.json) |
+| Smite: X Edition | 83766 | [83766-smite-x-edition.json](./83766-smite-x-edition.json) |
 | Smiterino | 300050 | [300050-smiterino.json](./300050-smiterino.json) |
 | Smith & Dungeon | 361801 | [361801-smith-and-dungeon.json](./361801-smith-and-dungeon.json) |
 | Smith and Winston | 111093 | [111093-smith-and-winston.json](./111093-smith-and-winston.json) |
@@ -15261,6 +15264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake Byte | 18507 | [18507-snake-byte.json](./18507-snake-byte.json) |
 | Snake Challenge | 268021 | [268021-snake-challenge.json](./268021-snake-challenge.json) |
 | Snake Charmer | 359366 | [359366-snake-charmer.json](./359366-snake-charmer.json) |
+| Snake Charmer | 83705 | [83705-snake-charmer.json](./83705-snake-charmer.json) |
 | Snake Charmer - TPS Snek | 81038 | [81038-snake-charmer-tps-snek.json](./81038-snake-charmer-tps-snek.json) |
 | Snake Clash! | 297704 | [297704-snake-clash.json](./297704-snake-clash.json) |
 | Snake Classic | 84014 | [84014-snake-classic.json](./84014-snake-classic.json) |
@@ -29801,6 +29805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sublunar | 164148 | [164148-sublunar.json](./164148-sublunar.json) |
 | Sublustrum | 379140 | [379140-sublustrum.json](./379140-sublustrum.json) |
 | Submachine | 272107 | [272107-submachine.json](./272107-submachine.json) |
+| Submachine | 83709 | [83709-submachine.json](./83709-submachine.json) |
 | Submachine 1: the Basement | 127877 | [127877-submachine-1-the-basement.json](./127877-submachine-1-the-basement.json) |
 | Submachine 10: The Exit | 129555 | [129555-submachine-10-the-exit.json](./129555-submachine-10-the-exit.json) |
 | Submachine 10: The Exit | 260768 | [260768-submachine-10-the-exit.json](./260768-submachine-10-the-exit.json) |
