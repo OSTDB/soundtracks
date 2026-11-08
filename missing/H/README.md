@@ -1286,6 +1286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hand Doctor For Kids | 106926 | [106926-hand-doctor-for-kids.json](./106926-hand-doctor-for-kids.json) |
 | Hand Eye Cubination | 30573 | [30573-hand-eye-cubination.json](./30573-hand-eye-cubination.json) |
 | Hand Held Boggle | 239337 | [239337-hand-held-boggle.json](./239337-hand-held-boggle.json) |
+| Hand In Hand | 132946 | [132946-hand-in-hand.json](./132946-hand-in-hand.json) |
 | Hand Maid Mahjong 2 | 97823 | [97823-hand-maid-mahjong-2.json](./97823-hand-maid-mahjong-2.json) |
 | Hand Me A Lighter | 273816 | [273816-hand-me-a-lighter.json](./273816-hand-me-a-lighter.json) |
 | Hand Meat Walker | 372683 | [372683-hand-meat-walker.json](./372683-hand-meat-walker.json) |
@@ -4727,6 +4728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HelmetRoyale.io | 125991 | [125991-helmetroyale-io.json](./125991-helmetroyale-io.json) |
 | Helmo Online | 301796 | [301796-helmo-online.json](./301796-helmo-online.json) |
 | Helmouth Halls | 125143 | [125143-helmouth-halls.json](./125143-helmouth-halls.json) |
+| Helms of Fury | 132958 | [132958-helms-of-fury.json](./132958-helms-of-fury.json) |
 | Helmscape | 221116 | [221116-helmscape.json](./221116-helmscape.json) |
 | Help | 30931 | [30931-help.json](./30931-help.json) |
 | Help Annie | 239232 | [239232-help-annie.json](./239232-help-annie.json) |
