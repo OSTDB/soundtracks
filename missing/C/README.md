@@ -3193,6 +3193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Cartoon Food Bash | 296099 | [296099-cartoon-cartoon-food-bash.json](./296099-cartoon-cartoon-food-bash.json) |
 | Cartoon Cartoon Summer Resort | 130744 | [130744-cartoon-cartoon-summer-resort.json](./130744-cartoon-cartoon-summer-resort.json) |
 | Cartoon Collection | 53777 | [53777-cartoon-collection.json](./53777-cartoon-collection.json) |
+| Cartoon Craft | 104197 | [104197-cartoon-craft.json](./104197-cartoon-craft.json) |
 | Cartoon Crime | 415431 | [415431-cartoon-crime.json](./415431-cartoon-crime.json) |
 | Cartoon Dungeon VIP | 95865 | [95865-cartoon-dungeon-vip.json](./95865-cartoon-dungeon-vip.json) |
 | Cartoon Hero | 81887 | [81887-cartoon-hero.json](./81887-cartoon-hero.json) |
@@ -16917,6 +16918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayola Adventures | 291972 | [291972-crayola-adventures.json](./291972-crayola-adventures.json) |
 | Crayola Amazing Art Adventure | 360204 | [360204-crayola-amazing-art-adventure.json](./360204-crayola-amazing-art-adventure.json) |
 | Crayola Art Adventure | 230360 | [230360-crayola-art-adventure.json](./230360-crayola-art-adventure.json) |
+| Crayola Bubbles | 104173 | [104173-crayola-bubbles.json](./104173-crayola-bubbles.json) |
 | Crayola Colorful Creatures | 225659 | [225659-crayola-colorful-creatures.json](./225659-crayola-colorful-creatures.json) |
 | Crayola Colorful Journey | 51047 | [51047-crayola-colorful-journey.json](./51047-crayola-colorful-journey.json) |
 | Crayola Create and Play | 415260 | [415260-crayola-create-and-play.json](./415260-crayola-create-and-play.json) |
@@ -18858,6 +18860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crush | 143223 | [143223-crush.json](./143223-crush.json) |
 | Crush | 362002 | [362002-crush.json](./362002-crush.json) |
 | Crush | 6753 | [6753-crush.json](./6753-crush.json) |
+| Crush & Chill | 104274 | [104274-crush-and-chill.json](./104274-crush-and-chill.json) |
 | Crush & Squash | 75805 | [75805-crush-and-squash.json](./75805-crush-and-squash.json) |
 | Crush at First Sight | 294068 | [294068-crush-at-first-sight.json](./294068-crush-at-first-sight.json) |
 | Crush Beats: Club Candy | 96763 | [96763-crush-beats-club-candy.json](./96763-crush-beats-club-candy.json) |
