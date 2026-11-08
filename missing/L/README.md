@@ -4803,6 +4803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light Arrow is Missing | 262674 | [262674-light-arrow-is-missing.json](./262674-light-arrow-is-missing.json) |
 | Light Bearers | 111032 | [111032-light-bearers.json](./111032-light-bearers.json) |
 | Light Bearers 2 | 303629 | [303629-light-bearers-2.json](./303629-light-bearers-2.json) |
+| Light Borrower | 102312 | [102312-light-borrower.json](./102312-light-borrower.json) |
 | Light Bound | 36101 | [36101-light-bound.json](./36101-light-bound.json) |
 | Light Box | 295903 | [295903-light-box.json](./295903-light-box.json) |
 | Light Bringer | 199516 | [199516-light-bringer.json](./199516-light-bringer.json) |
