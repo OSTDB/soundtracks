@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: Rhythmic Adventure 1 | 60406 | [60406-taiko-no-tatsujin-rhythmic-adventure-1.json](./60406-taiko-no-tatsujin-rhythmic-adventure-1.json) |
 | Taiko no Tatsujin: Rhythmic Adventure 2 | 58471 | [58471-taiko-no-tatsujin-rhythmic-adventure-2.json](./58471-taiko-no-tatsujin-rhythmic-adventure-2.json) |
 | Taiko no Tatsujin: Rhythmic Adventure Pack | 137128 | [137128-taiko-no-tatsujin-rhythmic-adventure-pack.json](./137128-taiko-no-tatsujin-rhythmic-adventure-pack.json) |
+| Taiko no Tatsujin: Tatacon de Dodon ga Don | 122538 | [122538-taiko-no-tatsujin-tatacon-de-dodon-ga-don.json](./122538-taiko-no-tatsujin-tatacon-de-dodon-ga-don.json) |
 | Taiko no Tatsujin: The Drum Master! | 188551 | [188551-taiko-no-tatsujin-the-drum-master.json](./188551-taiko-no-tatsujin-the-drum-master.json) |
 | Taiko no Tatsujin: The Drum Master! - One Piece Anime Songs Pack | 257467 | [257467-taiko-no-tatsujin-the-drum-master-one-piece-anime-songs-pack.json](./257467-taiko-no-tatsujin-the-drum-master-one-piece-anime-songs-pack.json) |
 | Taiko no Tatsujin: The Drum Master! - Touhou Project Arrangements Pack | 358952 | [358952-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack.json](./358952-taiko-no-tatsujin-the-drum-master-touhou-project-arrangements-pack.json) |
@@ -595,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taiko no Tatsujin: V Version | 60366 | [60366-taiko-no-tatsujin-v-version.json](./60366-taiko-no-tatsujin-v-version.json) |
 | Taiko no Tatsujin: VR Festival! | 381920 | [381920-taiko-no-tatsujin-vr-festival.json](./381920-taiko-no-tatsujin-vr-festival.json) |
 | Taiko no Tatsujin: Wai Wai Happy! Rokudaime | 123417 | [123417-taiko-no-tatsujin-wai-wai-happy-rokudaime.json](./123417-taiko-no-tatsujin-wai-wai-happy-rokudaime.json) |
+| Taiko no Tatsujin: Waku-waku Anime Matsuri | 122537 | [122537-taiko-no-tatsujin-waku-waku-anime-matsuri.json](./122537-taiko-no-tatsujin-waku-waku-anime-matsuri.json) |
 | Taiko no Tatsujin: Wii U Version | 78345 | [78345-taiko-no-tatsujin-wii-u-version.json](./78345-taiko-no-tatsujin-wii-u-version.json) |
 | Taiko on the Web | 337101 | [337101-taiko-on-the-web.json](./337101-taiko-on-the-web.json) |
 | Taiko Web | 219123 | [219123-taiko-web.json](./219123-taiko-web.json) |
@@ -1839,6 +1841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangram Collection: House Puzzle Pack | 357998 | [357998-tangram-collection-house-puzzle-pack.json](./357998-tangram-collection-house-puzzle-pack.json) |
 | Tangram Collection: Rabbit Puzzle Pack | 357997 | [357997-tangram-collection-rabbit-puzzle-pack.json](./357997-tangram-collection-rabbit-puzzle-pack.json) |
 | Tangram Collection: Tortoise Puzzle Pack | 357996 | [357996-tangram-collection-tortoise-puzzle-pack.json](./357996-tangram-collection-tortoise-puzzle-pack.json) |
+| Tangram Mania | 122517 | [122517-tangram-mania.json](./122517-tangram-mania.json) |
 | Tangram Puzzle | 227092 | [227092-tangram-puzzle.json](./227092-tangram-puzzle.json) |
 | Tangram Puzzle Pro | 70605 | [70605-tangram-puzzle-pro.json](./70605-tangram-puzzle-pro.json) |
 | Tangram Puzzle: Shape Puzzle | 237625 | [237625-tangram-puzzle-shape-puzzle.json](./237625-tangram-puzzle-shape-puzzle.json) |
@@ -2340,6 +2343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Quiz | 243310 | [243310-tap-quiz.json](./243310-tap-quiz.json) |
 | Tap Rising | 242200 | [242200-tap-rising.json](./242200-tap-rising.json) |
 | Tap Romantics | 258930 | [258930-tap-romantics.json](./258930-tap-romantics.json) |
+| Tap Skaters | 122516 | [122516-tap-skaters.json](./122516-tap-skaters.json) |
 | Tap Smiths | 58233 | [58233-tap-smiths.json](./58233-tap-smiths.json) |
 | Tap Soccer: Champions | 239891 | [239891-tap-soccer-champions.json](./239891-tap-soccer-champions.json) |
 | Tap Sonic | 92492 | [92492-tap-sonic.json](./92492-tap-sonic.json) |
@@ -32860,6 +32864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsumikui: Sen no Noroi, Sen no Inori for V | 74795 | [74795-tsumikui-sen-no-noroi-sen-no-inori-for-v.json](./74795-tsumikui-sen-no-noroi-sen-no-inori-for-v.json) |
 | Tsumobaka Nisshi | 299440 | [299440-tsumobaka-nisshi.json](./299440-tsumobaka-nisshi.json) |
 | Tsumu | 77073 | [77073-tsumu.json](./77073-tsumu.json) |
+| Tsumu Light | 122545 | [122545-tsumu-light.json](./122545-tsumu-light.json) |
 | Tsumugi no Hanayome | 318859 | [318859-tsumugi-no-hanayome.json](./318859-tsumugi-no-hanayome.json) |
 | Tsumugu Logic | 202676 | [202676-tsumugu-logic.json](./202676-tsumugu-logic.json) |
 | Tsun Tsun Gumi 2: Moji-moji Pakkun | 230482 | [230482-tsun-tsun-gumi-2-moji-moji-pakkun.json](./230482-tsun-tsun-gumi-2-moji-moji-pakkun.json) |
