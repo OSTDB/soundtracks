@@ -5914,6 +5914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serial Victims | 320081 | [320081-serial-victims.json](./320081-serial-victims.json) |
 | Serial Woman | 194857 | [194857-serial-woman.json](./194857-serial-woman.json) |
 | Serial World | 301328 | [301328-serial-world.json](./301328-serial-world.json) |
+| Series Maker Tycoon | 125551 | [125551-series-maker-tycoon.json](./125551-series-maker-tycoon.json) |
 | Series Makers | 115382 | [115382-series-makers.json](./115382-series-makers.json) |
 | Series Makers Tycoon | 173806 | [173806-series-makers-tycoon.json](./173806-series-makers-tycoon.json) |
 | Series: Your Story Universe | 144197 | [144197-series-your-story-universe.json](./144197-series-your-story-universe.json) |
@@ -25333,6 +25334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starboost EX | 123636 | [123636-starboost-ex.json](./123636-starboost-ex.json) |
 | StarBooze Reborn | 357314 | [357314-starbooze-reborn.json](./357314-starbooze-reborn.json) |
 | StarBorders | 77705 | [77705-starborders.json](./77705-starborders.json) |
+| Starboretum | 125553 | [125553-starboretum.json](./125553-starboretum.json) |
 | Starborn Space | 115027 | [115027-starborn-space.json](./115027-starborn-space.json) |
 | Starborn Survivor | 306711 | [306711-starborn-survivor.json](./306711-starborn-survivor.json) |
 | Starborne: Frontiers | 242221 | [242221-starborne-frontiers.json](./242221-starborne-frontiers.json) |
