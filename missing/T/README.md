@@ -2481,6 +2481,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TapMon Battle | 200257 | [200257-tapmon-battle.json](./200257-tapmon-battle.json) |
 | Tapnimals | 102687 | [102687-tapnimals.json](./102687-tapnimals.json) |
 | Tapocalypse | 30141 | [30141-tapocalypse.json](./30141-tapocalypse.json) |
+| Tapophone | 90044 | [90044-tapophone.json](./90044-tapophone.json) |
 | Tapper | 307534 | [307534-tapper.json](./307534-tapper.json) |
 | Tapper | 307536 | [307536-tapper.json](./307536-tapper.json) |
 | Tapper | 307539 | [307539-tapper.json](./307539-tapper.json) |
@@ -5817,6 +5818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Wolf and Hood: A Jigsaw Tale | 154971 | [154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json](./154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json) |
 | The Adventures of Zomboy | 323281 | [323281-the-adventures-of-zomboy.json](./323281-the-adventures-of-zomboy.json) |
 | The Adventures on Uranus | 158838 | [158838-the-adventures-on-uranus.json](./158838-the-adventures-on-uranus.json) |
+| The Adventurous Four | 90163 | [90163-the-adventurous-four.json](./90163-the-adventurous-four.json) |
 | The Advisor: Episode 1 - Royal Pain | 171189 | [171189-the-advisor-episode-1-royal-pain.json](./171189-the-advisor-episode-1-royal-pain.json) |
 | The Aegis Saga | 131749 | [131749-the-aegis-saga.json](./131749-the-aegis-saga.json) |
 | The Aeon Fall | 398188 | [398188-the-aeon-fall.json](./398188-the-aeon-fall.json) |
@@ -7552,6 +7554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Clock Chronicle | 182915 | [182915-the-clock-chronicle.json](./182915-the-clock-chronicle.json) |
 | The Clockwork Labyrinth | 166704 | [166704-the-clockwork-labyrinth.json](./166704-the-clockwork-labyrinth.json) |
 | The Clockwork Man 2 | 88744 | [88744-the-clockwork-man-2.json](./88744-the-clockwork-man-2.json) |
+| The Clockwork Man 2: Ultimate Edition | 90020 | [90020-the-clockwork-man-2-ultimate-edition.json](./90020-the-clockwork-man-2-ultimate-edition.json) |
 | The Clockwork Prince | 282958 | [282958-the-clockwork-prince.json](./282958-the-clockwork-prince.json) |
 | The Clockwork Requiem | 384314 | [384314-the-clockwork-requiem.json](./384314-the-clockwork-requiem.json) |
 | The Closed Circle | 226313 | [226313-the-closed-circle.json](./226313-the-closed-circle.json) |
@@ -12797,6 +12800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails from Zero / The Legend of Heroes: Trails to Azure | 419594 | [419594-the-legend-of-heroes-trails-from-zero-the-legend-of-heroes-trails-to-azure.json](./419594-the-legend-of-heroes-trails-from-zero-the-legend-of-heroes-trails-to-azure.json) |
 | The Legend of Heroes: Trails in the Dawn M | 212846 | [212846-the-legend-of-heroes-trails-in-the-dawn-m.json](./212846-the-legend-of-heroes-trails-in-the-dawn-m.json) |
 | The Legend of Heroes: Trails in the Sky | 8986 | [8986-the-legend-of-heroes-trails-in-the-sky.json](./8986-the-legend-of-heroes-trails-in-the-sky.json) |
+| The Legend of Heroes: Trails in the Sky - Kizuna | 90056 | [90056-the-legend-of-heroes-trails-in-the-sky-kizuna.json](./90056-the-legend-of-heroes-trails-in-the-sky-kizuna.json) |
 | The Legend of Heroes: Trails in the Sky SC | 16665 | [16665-the-legend-of-heroes-trails-in-the-sky-sc.json](./16665-the-legend-of-heroes-trails-in-the-sky-sc.json) |
 | The Legend of Heroes: Trails in the Sky the 3rd | 28101 | [28101-the-legend-of-heroes-trails-in-the-sky-the-3rd.json](./28101-the-legend-of-heroes-trails-in-the-sky-the-3rd.json) |
 | The Legend of Heroes: Trails into Reverie | 136673 | [136673-the-legend-of-heroes-trails-into-reverie.json](./136673-the-legend-of-heroes-trails-into-reverie.json) |
@@ -18797,6 +18801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unic | 254697 | [254697-the-unic.json](./254697-the-unic.json) |
 | The Unicated | 327388 | [327388-the-unicated.json](./327388-the-unicated.json) |
 | The Unicorn Princess | 124157 | [124157-the-unicorn-princess.json](./124157-the-unicorn-princess.json) |
+| The Unintended Consequences of Curiosity | 90161 | [90161-the-unintended-consequences-of-curiosity.json](./90161-the-unintended-consequences-of-curiosity.json) |
 | The Uninvited 2: Let Nothing You Dismay | 370106 | [370106-the-uninvited-2-let-nothing-you-dismay.json](./370106-the-uninvited-2-let-nothing-you-dismay.json) |
 | The United Space of America | 201594 | [201594-the-united-space-of-america.json](./201594-the-united-space-of-america.json) |
 | The Universal Equalizer | 71242 | [71242-the-universal-equalizer.json](./71242-the-universal-equalizer.json) |
@@ -21373,6 +21378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tic Tac Toe Battle Royale | 180712 | [180712-tic-tac-toe-battle-royale.json](./180712-tic-tac-toe-battle-royale.json) |
 | Tic Tac Toe Glow | 223876 | [223876-tic-tac-toe-glow.json](./223876-tic-tac-toe-glow.json) |
 | Tic Tac Toe Plus | 100991 | [100991-tic-tac-toe-plus.json](./100991-tic-tac-toe-plus.json) |
+| Tic Tac Toe Pro HD | 90049 | [90049-tic-tac-toe-pro-hd.json](./90049-tic-tac-toe-pro-hd.json) |
 | Tic Tac Toe World | 387339 | [387339-tic-tac-toe-world.json](./387339-tic-tac-toe-world.json) |
 | Tic Tac Toe World Championship HD | 87291 | [87291-tic-tac-toe-world-championship-hd.json](./87291-tic-tac-toe-world-championship-hd.json) |
 | Tic Tac Toe: Speed Tapping | 264063 | [264063-tic-tac-toe-speed-tapping.json](./264063-tic-tac-toe-speed-tapping.json) |
@@ -25848,6 +25854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tommy Tronic | 15010 | [15010-tommy-tronic.json](./15010-tommy-tronic.json) |
 | Tommy's Hollywords | 71146 | [71146-tommys-hollywords.json](./71146-tommys-hollywords.json) |
 | Tommygun's Frag | 387516 | [387516-tommyguns-frag.json](./387516-tommyguns-frag.json) |
+| Tommyknockers | 90005 | [90005-tommyknockers.json](./90005-tommyknockers.json) |
 | Tommyrot | 416523 | [416523-tommyrot.json](./416523-tommyrot.json) |
 | Tomo Jam! | 378142 | [378142-tomo-jam.json](./378142-tomo-jam.json) |
 | Tomo: Endless Blue | 339675 | [339675-tomo-endless-blue.json](./339675-tomo-endless-blue.json) |
@@ -29005,6 +29012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Sim World VR: New York | 314357 | [314357-train-sim-world-vr-new-york.json](./314357-train-sim-world-vr-new-york.json) |
 | Train Sim World: CSX Heavy Haul | 196284 | [196284-train-sim-world-csx-heavy-haul.json](./196284-train-sim-world-csx-heavy-haul.json) |
 | Train Sim World: Digital Deluxe Edition | 106008 | [106008-train-sim-world-digital-deluxe-edition.json](./106008-train-sim-world-digital-deluxe-edition.json) |
+| Train Sim World: Founders Edition | 90057 | [90057-train-sim-world-founders-edition.json](./90057-train-sim-world-founders-edition.json) |
 | Train Sim World: Great Western Express | 53837 | [53837-train-sim-world-great-western-express.json](./53837-train-sim-world-great-western-express.json) |
 | Train Simulator | 312425 | [312425-train-simulator.json](./312425-train-simulator.json) |
 | Train Simulator | 327582 | [327582-train-simulator.json](./327582-train-simulator.json) |
