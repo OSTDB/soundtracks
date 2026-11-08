@@ -613,6 +613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Force | 81682 | [81682-galactic-force.json](./81682-galactic-force.json) |
 | Galactic Frontier | 190134 | [190134-galactic-frontier.json](./190134-galactic-frontier.json) |
 | Galactic Frontiers: Defense Protocol | 294050 | [294050-galactic-frontiers-defense-protocol.json](./294050-galactic-frontiers-defense-protocol.json) |
+| Galactic Frontline | 93655 | [93655-galactic-frontline.json](./93655-galactic-frontline.json) |
 | Galactic Gallery | 105899 | [105899-galactic-gallery.json](./105899-galactic-gallery.json) |
 | Galactic Gambler | 14084 | [14084-galactic-gambler.json](./14084-galactic-gambler.json) |
 | Galactic Games | 14085 | [14085-galactic-games.json](./14085-galactic-games.json) |
@@ -4819,6 +4820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GL Golf | 88347 | [88347-gl-golf.json](./88347-gl-golf.json) |
 | GL Tron | 63696 | [63696-gl-tron.json](./63696-gl-tron.json) |
 | GL-117 Action Flight Simulator | 51245 | [51245-gl-117-action-flight-simulator.json](./51245-gl-117-action-flight-simulator.json) |
+| Gl1tch | 93768 | [93768-gl1tch.json](./93768-gl1tch.json) |
 | Glace | 79621 | [79621-glace.json](./79621-glace.json) |
 | Glacial | 116040 | [116040-glacial.json](./116040-glacial.json) |
 | Glacier | 73153 | [73153-glacier.json](./73153-glacier.json) |
@@ -5570,6 +5572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go All Out | 221571 | [221571-go-all-out.json](./221571-go-all-out.json) |
 | Go All Out: Free to Play | 130190 | [130190-go-all-out-free-to-play.json](./130190-go-all-out-free-to-play.json) |
 | Go Ape Ship! | 376467 | [376467-go-ape-ship.json](./376467-go-ape-ship.json) |
+| Go Away My Fat | 93668 | [93668-go-away-my-fat.json](./93668-go-away-my-fat.json) |
 | Go Away, There's Kumis Over There! | 30893 | [30893-go-away-theres-kumis-over-there.json](./30893-go-away-theres-kumis-over-there.json) |
 | Go Babies | 368661 | [368661-go-babies.json](./368661-go-babies.json) |
 | Go Back to Hell | 193056 | [193056-go-back-to-hell.json](./193056-go-back-to-hell.json) |
