@@ -1329,6 +1329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darius: Extra Version | 145801 | [145801-darius-extra-version.json](./145801-darius-extra-version.json) |
 | Darius+ | 99336 | [99336-darius.json](./99336-darius.json) |
 | Dariusburst | 18193 | [18193-dariusburst.json](./18193-dariusburst.json) |
+| Dariusburst: Another Chronicle | 93636 | [93636-dariusburst-another-chronicle.json](./93636-dariusburst-another-chronicle.json) |
 | Dariusburst: Another Chronicle EX | 138014 | [138014-dariusburst-another-chronicle-ex.json](./138014-dariusburst-another-chronicle-ex.json) |
 | Dariusburst: Chronicle Saviours | 20090 | [20090-dariusburst-chronicle-saviours.json](./20090-dariusburst-chronicle-saviours.json) |
 | Dariusburst: Chronicle Saviours - Battle Garegga | 168180 | [168180-dariusburst-chronicle-saviours-battle-garegga.json](./168180-dariusburst-chronicle-saviours-battle-garegga.json) |
@@ -5873,6 +5874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defender of the Crown | 335821 | [335821-defender-of-the-crown.json](./335821-defender-of-the-crown.json) |
 | Defender of the Crown II | 8677 | [8677-defender-of-the-crown-ii.json](./8677-defender-of-the-crown-ii.json) |
 | Defender of the Crown: Digitally Remastered Edition | 170339 | [170339-defender-of-the-crown-digitally-remastered-edition.json](./170339-defender-of-the-crown-digitally-remastered-edition.json) |
+| Defender of the Crown: Extended Collector's Edition | 93660 | [93660-defender-of-the-crown-extended-collectors-edition.json](./93660-defender-of-the-crown-extended-collectors-edition.json) |
 | Defender of the Crown: Heroes Live Forever | 8676 | [8676-defender-of-the-crown-heroes-live-forever.json](./8676-defender-of-the-crown-heroes-live-forever.json) |
 | Defender of the Crown: The Legend Returns | 394671 | [394671-defender-of-the-crown-the-legend-returns.json](./394671-defender-of-the-crown-the-legend-returns.json) |
 | Defender of the Favicon | 201095 | [201095-defender-of-the-favicon.json](./201095-defender-of-the-favicon.json) |
