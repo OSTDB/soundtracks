@@ -2365,6 +2365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elemental Heroes | 33775 | [33775-elemental-heroes.json](./33775-elemental-heroes.json) |
 | Elemental Heroes: Blue Fighter 20th Level Set | 170439 | [170439-elemental-heroes-blue-fighter-20th-level-set.json](./170439-elemental-heroes-blue-fighter-20th-level-set.json) |
 | Elemental Kingdom | 8612 | [8612-elemental-kingdom.json](./8612-elemental-kingdom.json) |
+| Elemental Knights R | 111917 | [111917-elemental-knights-r.json](./111917-elemental-knights-r.json) |
 | Elemental Knights R: Dark Arthur Premium Pack | 402925 | [402925-elemental-knights-r-dark-arthur-premium-pack.json](./402925-elemental-knights-r-dark-arthur-premium-pack.json) |
 | Elemental Labyrinth | 346622 | [346622-elemental-labyrinth.json](./346622-elemental-labyrinth.json) |
 | Elemental Land | 197097 | [197097-elemental-land.json](./197097-elemental-land.json) |
@@ -5695,6 +5696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape the Laser Trap | 332926 | [332926-escape-the-laser-trap.json](./332926-escape-the-laser-trap.json) |
 | Escape the Loop | 30183 | [30183-escape-the-loop.json](./30183-escape-the-loop.json) |
 | Escape The Lost Kingdom: The Forgotten Pharaoh | 17293 | [17293-escape-the-lost-kingdom-the-forgotten-pharaoh.json](./17293-escape-the-lost-kingdom-the-forgotten-pharaoh.json) |
+| Escape the Lost Pyramid | 111830 | [111830-escape-the-lost-pyramid.json](./111830-escape-the-lost-pyramid.json) |
 | Escape the Mad Empire | 217233 | [217233-escape-the-mad-empire.json](./217233-escape-the-mad-empire.json) |
 | Escape the Manor | 128840 | [128840-escape-the-manor.json](./128840-escape-the-manor.json) |
 | Escape the Marine Lab | 406693 | [406693-escape-the-marine-lab.json](./406693-escape-the-marine-lab.json) |
@@ -7055,6 +7057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest: Terror of Luclin | 191366 | [191366-everquest-terror-of-luclin.json](./191366-everquest-terror-of-luclin.json) |
 | EverQuest: The Broken Mirror | 13184 | [13184-everquest-the-broken-mirror.json](./13184-everquest-the-broken-mirror.json) |
 | EverQuest: The Buried Sea | 70262 | [70262-everquest-the-buried-sea.json](./70262-everquest-the-buried-sea.json) |
+| EverQuest: The Burning Lands | 111811 | [111811-everquest-the-burning-lands.json](./111811-everquest-the-burning-lands.json) |
 | EverQuest: The Darkened Sea | 61170 | [61170-everquest-the-darkened-sea.json](./61170-everquest-the-darkened-sea.json) |
 | EverQuest: The Legacy of Ykesha | 79688 | [79688-everquest-the-legacy-of-ykesha.json](./79688-everquest-the-legacy-of-ykesha.json) |
 | EverQuest: The Planes of Power | 79300 | [79300-everquest-the-planes-of-power.json](./79300-everquest-the-planes-of-power.json) |
