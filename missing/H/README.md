@@ -2374,6 +2374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harusame Youbi | 71191 | [71191-harusame-youbi.json](./71191-harusame-youbi.json) |
 | Harventure | 349279 | [349279-harventure.json](./349279-harventure.json) |
 | Harvest | 229365 | [229365-harvest.json](./229365-harvest.json) |
+| Harvest | 88389 | [88389-harvest.json](./88389-harvest.json) |
 | Harvest | 99400 | [99400-harvest.json](./99400-harvest.json) |
 | Harvest Bliss | 302374 | [302374-harvest-bliss.json](./302374-harvest-bliss.json) |
 | Harvest Cafe | 294386 | [294386-harvest-cafe.json](./294386-harvest-cafe.json) |
@@ -11708,6 +11709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoyle Official Casino Games Collection | 87061 | [87061-hoyle-official-casino-games-collection.json](./87061-hoyle-official-casino-games-collection.json) |
 | Hoyle Parlor Games | 89693 | [89693-hoyle-parlor-games.json](./89693-hoyle-parlor-games.json) |
 | Hoyle Poker | 73147 | [73147-hoyle-poker.json](./73147-hoyle-poker.json) |
+| Hoyle Poker and More | 88343 | [88343-hoyle-poker-and-more.json](./88343-hoyle-poker-and-more.json) |
 | Hoyle Poker Series | 210074 | [210074-hoyle-poker-series.json](./210074-hoyle-poker-series.json) |
 | Hoyle Puzzle & Board Game 2012 | 61015 | [61015-hoyle-puzzle-and-board-game-2012.json](./61015-hoyle-puzzle-and-board-game-2012.json) |
 | Hoyle Puzzle & Board Games | 25013 | [25013-hoyle-puzzle-and-board-games.json](./25013-hoyle-puzzle-and-board-games.json) |
