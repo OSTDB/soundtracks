@@ -5471,6 +5471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mastodonte | 189062 | [189062-mastodonte.json](./189062-mastodonte.json) |
 | Masturbrowse | 394684 | [394684-masturbrowse.json](./394684-masturbrowse.json) |
 | Masuku | 406740 | [406740-masuku.json](./406740-masuku.json) |
+| Masumon Kids | 97407 | [97407-masumon-kids.json](./97407-masumon-kids.json) |
 | Masuzoe Youichi: Asa made Famicom | 48784 | [48784-masuzoe-youichi-asa-made-famicom.json](./48784-masuzoe-youichi-asa-made-famicom.json) |
 | Masyanya Under The Yellow Press | 335429 | [335429-masyanya-under-the-yellow-press.json](./335429-masyanya-under-the-yellow-press.json) |
 | Masyu by Nikoli | 85275 | [85275-masyu-by-nikoli.json](./85275-masyu-by-nikoli.json) |
@@ -6078,6 +6079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -10127,6 +10129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metalgun Slinger | 49689 | [49689-metalgun-slinger.json](./49689-metalgun-slinger.json) |
 | Metalhead Tycoon | 60975 | [60975-metalhead-tycoon.json](./60975-metalhead-tycoon.json) |
 | MetalHeart: Replicants Rampage | 69749 | [69749-metalheart-replicants-rampage.json](./69749-metalheart-replicants-rampage.json) |
+| Metalizer | 97411 | [97411-metalizer.json](./97411-metalizer.json) |
 | Metallic Men | 254208 | [254208-metallic-men.json](./254208-metallic-men.json) |
 | Metallic Metronome | 157906 | [157906-metallic-metronome.json](./157906-metallic-metronome.json) |
 | Metallicars | 234319 | [234319-metallicars.json](./234319-metallicars.json) |
@@ -10846,6 +10849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microarcade Rockwork | 225445 | [225445-microarcade-rockwork.json](./225445-microarcade-rockwork.json) |
 | Microball | 94617 | [94617-microball.json](./94617-microball.json) |
 | Microban | 362234 | [362234-microban.json](./362234-microban.json) |
+| Microbe Invader | 97393 | [97393-microbe-invader.json](./97393-microbe-invader.json) |
 | Microbe Kombat | 281184 | [281184-microbe-kombat.json](./281184-microbe-kombat.json) |
 | Microbes | 44347 | [44347-microbes.json](./44347-microbes.json) |
 | Microbes and Machines | 213244 | [213244-microbes-and-machines.json](./213244-microbes-and-machines.json) |
@@ -12051,6 +12055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milky Bear Rescue Rocket | 221971 | [221971-milky-bear-rescue-rocket.json](./221971-milky-bear-rescue-rocket.json) |
 | Milky Bear: Lunch Frenzy | 250296 | [250296-milky-bear-lunch-frenzy.json](./250296-milky-bear-lunch-frenzy.json) |
 | Milky Boobs | 75923 | [75923-milky-boobs.json](./75923-milky-boobs.json) |
+| Milky Mask 2 | 97419 | [97419-milky-mask-2.json](./97419-milky-mask-2.json) |
 | Milky Princess | 83199 | [83199-milky-princess.json](./83199-milky-princess.json) |
 | Milky Quest II | 232654 | [232654-milky-quest-ii.json](./232654-milky-quest-ii.json) |
 | Milky Season | 166582 | [166582-milky-season.json](./166582-milky-season.json) |
@@ -14848,6 +14853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Silver Phantom | 279407 | [279407-mobile-suit-gundam-silver-phantom.json](./279407-mobile-suit-gundam-silver-phantom.json) |
 | Mobile Suit Gundam: Spirits of Zeon | 320661 | [320661-mobile-suit-gundam-spirits-of-zeon.json](./320661-mobile-suit-gundam-spirits-of-zeon.json) |
 | Mobile Suit Gundam: The One Year War | 43240 | [43240-mobile-suit-gundam-the-one-year-war.json](./43240-mobile-suit-gundam-the-one-year-war.json) |
+| Mobile Suit Gundam: White Base - The 13th Independent Force | 97394 | [97394-mobile-suit-gundam-white-base-the-13th-independent-force.json](./97394-mobile-suit-gundam-white-base-the-13th-independent-force.json) |
 | Mobile Suit Z Gundam: Zenpen Zeta no Kodou | 138328 | [138328-mobile-suit-z-gundam-zenpen-zeta-no-kodou.json](./138328-mobile-suit-z-gundam-zenpen-zeta-no-kodou.json) |
 | Mobile Suit Z-Gundam | 77059 | [77059-mobile-suit-z-gundam.json](./77059-mobile-suit-z-gundam.json) |
 | Mobile Suit Zeta Gundam | 66472 | [66472-mobile-suit-zeta-gundam.json](./66472-mobile-suit-zeta-gundam.json) |
@@ -15413,6 +15419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momoiro Closet | 95173 | [95173-momoiro-closet.json](./95173-momoiro-closet.json) |
 | Momoiro Nurse | 97623 | [97623-momoiro-nurse.json](./97623-momoiro-nurse.json) |
 | Momoiro Okami no Honoka-san: Ikenai, O-mo-te-na-shi | 416025 | [416025-momoiro-okami-no-honoka-san-ikenai-o-mo-te-na-shi.json](./416025-momoiro-okami-no-honoka-san-ikenai-o-mo-te-na-shi.json) |
+| Momoiro Senki | 97392 | [97392-momoiro-senki.json](./97392-momoiro-senki.json) |
 | Momoiro Underground | 123138 | [123138-momoiro-underground.json](./123138-momoiro-underground.json) |
 | Momoiro Zousan | 295039 | [295039-momoiro-zousan.json](./295039-momoiro-zousan.json) |
 | Momoka | 333192 | [333192-momoka.json](./333192-momoka.json) |
@@ -16892,6 +16899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moomin Midsummer Madness | 404859 | [404859-moomin-midsummer-madness.json](./404859-moomin-midsummer-madness.json) |
 | Moomin no Suteki na Present | 230276 | [230276-moomin-no-suteki-na-present.json](./230276-moomin-no-suteki-na-present.json) |
 | Moomin Under Sail | 114729 | [114729-moomin-under-sail.json](./114729-moomin-under-sail.json) |
+| Moomin-dani no Okurimono | 97404 | [97404-moomin-dani-no-okurimono.json](./97404-moomin-dani-no-okurimono.json) |
 | Moomin: Welcome to Moominvalley | 203477 | [203477-moomin-welcome-to-moominvalley.json](./203477-moomin-welcome-to-moominvalley.json) |
 | Moomin's Tale | 49859 | [49859-moomins-tale.json](./49859-moomins-tale.json) |
 | Moomintroll: Winter's Warmth | 348272 | [348272-moomintroll-winters-warmth.json](./348272-moomintroll-winters-warmth.json) |
@@ -21592,6 +21600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Sacred Place | 259747 | [259747-my-sacred-place.json](./259747-my-sacred-place.json) |
 | My Sacred Shrine Maiden | 226420 | [226420-my-sacred-shrine-maiden.json](./226420-my-sacred-shrine-maiden.json) |
 | My Sadistic Girlfriends 2 | 384842 | [384842-my-sadistic-girlfriends-2.json](./384842-my-sadistic-girlfriends-2.json) |
+| My Safe House | 97016 | [97016-my-safe-house.json](./97016-my-safe-house.json) |
 | My Sail and My Sea | 133465 | [133465-my-sail-and-my-sea.json](./133465-my-sail-and-my-sea.json) |
 | My SameGame | 64433 | [64433-my-samegame.json](./64433-my-samegame.json) |
 | My Saturday Grounded | 307515 | [307515-my-saturday-grounded.json](./307515-my-saturday-grounded.json) |
