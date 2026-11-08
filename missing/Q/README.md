@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quad Challenge | 46212 | [46212-quad-challenge.json](./46212-quad-challenge.json) |
 | Quad Desert Fury | 6540 | [6540-quad-desert-fury.json](./6540-quad-desert-fury.json) |
 | Quad Dice Defence | 195157 | [195157-quad-dice-defence.json](./195157-quad-dice-defence.json) |
+| Quad Fighter K | 96385 | [96385-quad-fighter-k.json](./96385-quad-fighter-k.json) |
 | Quad Hopping | 54887 | [54887-quad-hopping.json](./54887-quad-hopping.json) |
 | Quad Run | 271191 | [271191-quad-run.json](./271191-quad-run.json) |
 | Quadanoid | 245283 | [245283-quadanoid.json](./245283-quadanoid.json) |
