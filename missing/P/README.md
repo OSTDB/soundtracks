@@ -1834,6 +1834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paperly | 403748 | [403748-paperly.json](./403748-paperly.json) |
 | Paperly: Paper Plane Adventure | 194040 | [194040-paperly-paper-plane-adventure.json](./194040-paperly-paper-plane-adventure.json) |
 | Paperman | 385577 | [385577-paperman.json](./385577-paperman.json) |
+| PaperMan | 80081 | [80081-paperman.json](./80081-paperman.json) |
 | Paperman: Adventure Delivered | 201528 | [201528-paperman-adventure-delivered.json](./201528-paperman-adventure-delivered.json) |
 | PaperPlane | 203634 | [203634-paperplane.json](./203634-paperplane.json) |
 | Paperplanes | 218678 | [218678-paperplanes.json](./218678-paperplanes.json) |
@@ -3313,6 +3314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paunch | 127002 | [127002-paunch.json](./127002-paunch.json) |
 | Paunch 2 | 190953 | [190953-paunch-2.json](./190953-paunch-2.json) |
 | Paunchy Pets | 392604 | [392604-paunchy-pets.json](./392604-paunchy-pets.json) |
+| Pause Ahead | 80083 | [80083-pause-ahead.json](./80083-pause-ahead.json) |
 | Pause Screen From Battletoads | 323789 | [323789-pause-screen-from-battletoads.json](./323789-pause-screen-from-battletoads.json) |
 | Pause To Play | 256707 | [256707-pause-to-play.json](./256707-pause-to-play.json) |
 | Pavane: See No Evil | 396445 | [396445-pavane-see-no-evil.json](./396445-pavane-see-no-evil.json) |
@@ -5955,6 +5957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phucker in the Gulag | 117474 | [117474-phucker-in-the-gulag.json](./117474-phucker-in-the-gulag.json) |
 | Phucker in the Rome | 126185 | [126185-phucker-in-the-rome.json](./126185-phucker-in-the-rome.json) |
 | Phucker in the Woods: Volume 0 | 184769 | [184769-phucker-in-the-woods-volume-0.json](./184769-phucker-in-the-woods-volume-0.json) |
+| Phun | 80063 | [80063-phun.json](./80063-phun.json) |
 | Phy Lab | 410210 | [410210-phy-lab.json](./410210-phy-lab.json) |
 | Phyakh | 221168 | [221168-phyakh.json](./221168-phyakh.json) |
 | Phylakterion | 226036 | [226036-phylakterion.json](./226036-phylakterion.json) |
@@ -10155,6 +10158,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playmobil Dragon Adventures | 209362 | [209362-playmobil-dragon-adventures.json](./209362-playmobil-dragon-adventures.json) |
 | Playmobil Happy Meal Digital Experience | 395741 | [395741-playmobil-happy-meal-digital-experience.json](./395741-playmobil-happy-meal-digital-experience.json) |
 | Playmobil Horse Farm | 108735 | [108735-playmobil-horse-farm.json](./108735-playmobil-horse-farm.json) |
+| Playmobil Knights | 80094 | [80094-playmobil-knights.json](./80094-playmobil-knights.json) |
+| Playmobil Top Agents | 80093 | [80093-playmobil-top-agents.json](./80093-playmobil-top-agents.json) |
 | Playmobil: Circus | 20319 | [20319-playmobil-circus.json](./20319-playmobil-circus.json) |
 | Playmobil: Knight | 20417 | [20417-playmobil-knight.json](./20417-playmobil-knight.json) |
 | Playmobil: Novelmore | 207844 | [207844-playmobil-novelmore.json](./207844-playmobil-novelmore.json) |
