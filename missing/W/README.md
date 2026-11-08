@@ -736,6 +736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wangan Midnight Maximum Tune 3 | 68044 | [68044-wangan-midnight-maximum-tune-3.json](./68044-wangan-midnight-maximum-tune-3.json) |
 | Wangan Midnight Maximum Tune 3DX | 315268 | [315268-wangan-midnight-maximum-tune-3dx.json](./315268-wangan-midnight-maximum-tune-3dx.json) |
 | Wangan Midnight Maximum Tune 3DX+ | 315269 | [315269-wangan-midnight-maximum-tune-3dx.json](./315269-wangan-midnight-maximum-tune-3dx.json) |
+| Wangan Midnight Maximum Tune 4 | 98142 | [98142-wangan-midnight-maximum-tune-4.json](./98142-wangan-midnight-maximum-tune-4.json) |
 | Wangan Midnight Maximum Tune 5 | 91270 | [91270-wangan-midnight-maximum-tune-5.json](./91270-wangan-midnight-maximum-tune-5.json) |
 | Wangan Midnight Maximum Tune 5DX | 315270 | [315270-wangan-midnight-maximum-tune-5dx.json](./315270-wangan-midnight-maximum-tune-5dx.json) |
 | Wangan Midnight Maximum Tune 5DX+ | 315271 | [315271-wangan-midnight-maximum-tune-5dx.json](./315271-wangan-midnight-maximum-tune-5dx.json) |
@@ -5848,6 +5849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wine Factory Simulator | 332485 | [332485-wine-factory-simulator.json](./332485-wine-factory-simulator.json) |
 | Wine Pong | 397155 | [397155-wine-pong.json](./397155-wine-pong.json) |
 | Wine Tycoon | 201074 | [201074-wine-tycoon.json](./201074-wine-tycoon.json) |
+| Winemaker Extraordinaire | 98151 | [98151-winemaker-extraordinaire.json](./98151-winemaker-extraordinaire.json) |
 | Winery Simulator | 216836 | [216836-winery-simulator.json](./216836-winery-simulator.json) |
 | WinFight | 93307 | [93307-winfight.json](./93307-winfight.json) |
 | WinFish 3 - Fly Fishing | 129767 | [129767-winfish-3-fly-fishing.json](./129767-winfish-3-fly-fishing.json) |
@@ -8311,6 +8313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of JumpStart | 254465 | [254465-world-of-jumpstart.json](./254465-world-of-jumpstart.json) |
 | World of Kadal: Protector of Hammerdale | 423239 | [423239-world-of-kadal-protector-of-hammerdale.json](./423239-world-of-kadal-protector-of-hammerdale.json) |
 | World of Kings | 119227 | [119227-world-of-kings.json](./119227-world-of-kings.json) |
+| World of Kung Fu United | 98485 | [98485-world-of-kung-fu-united.json](./98485-world-of-kung-fu-united.json) |
 | World of Leaders | 36140 | [36140-world-of-leaders.json](./36140-world-of-leaders.json) |
 | World of Legends | 115461 | [115461-world-of-legends.json](./115461-world-of-legends.json) |
 | World of Machines: Tanks War Operation | 257710 | [257710-world-of-machines-tanks-war-operation.json](./257710-world-of-machines-tanks-war-operation.json) |
@@ -8562,6 +8565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Reborn | 49502 | [49502-world-reborn.json](./49502-world-reborn.json) |
 | World Rescue | 109944 | [109944-world-rescue.json](./109944-world-rescue.json) |
 | World Revolution | 84454 | [84454-world-revolution.json](./84454-world-revolution.json) |
+| World Riddles: Seven Wonders | 98155 | [98155-world-riddles-seven-wonders.json](./98155-world-riddles-seven-wonders.json) |
 | World Robot Boxing 2 | 196302 | [196302-world-robot-boxing-2.json](./196302-world-robot-boxing-2.json) |
 | World Seed | 193581 | [193581-world-seed.json](./193581-world-seed.json) |
 | World Seed Classic | 129736 | [129736-world-seed-classic.json](./129736-world-seed-classic.json) |
