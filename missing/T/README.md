@@ -4349,6 +4349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tera Origin | 117283 | [117283-tera-origin.json](./117283-tera-origin.json) |
 | Tera-Turbine | 184735 | [184735-tera-turbine.json](./184735-tera-turbine.json) |
 | Tera: La Cité des Crânes | 356857 | [356857-tera-la-cite-des-cranes.json](./356857-tera-la-cite-des-cranes.json) |
+| Tera: Reloaded | 116577 | [116577-tera-reloaded.json](./116577-tera-reloaded.json) |
 | Terabey: The Room Builder | 183291 | [183291-terabey-the-room-builder.json](./183291-terabey-the-room-builder.json) |
 | TeraBlaster | 34925 | [34925-terablaster.json](./34925-terablaster.json) |
 | Teraburst | 394174 | [394174-teraburst.json](./394174-teraburst.json) |
@@ -7604,6 +7605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Coma: Triple Threat Bundle | 338010 | [338010-the-coma-triple-threat-bundle.json](./338010-the-coma-triple-threat-bundle.json) |
 | The Combatribes | 337198 | [337198-the-combatribes.json](./337198-the-combatribes.json) |
 | The Combatribes | 39639 | [39639-the-combatribes.json](./39639-the-combatribes.json) |
+| The Come Up | 116587 | [116587-the-come-up.json](./116587-the-come-up.json) |
 | The Comeback King | 400273 | [400273-the-comeback-king.json](./400273-the-comeback-king.json) |
 | The Comedian Adventure | 266884 | [266884-the-comedian-adventure.json](./266884-the-comedian-adventure.json) |
 | The Comfort Zone | 177417 | [177417-the-comfort-zone.json](./177417-the-comfort-zone.json) |
@@ -10987,6 +10989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Horologist's Legacy | 110954 | [110954-the-horologists-legacy.json](./110954-the-horologists-legacy.json) |
 | The Horrible Inside | 297817 | [297817-the-horrible-inside.json](./297817-the-horrible-inside.json) |
 | The Horror at Highrook | 295380 | [295380-the-horror-at-highrook.json](./295380-the-horror-at-highrook.json) |
+| The Horror of H.H. Holmes | 116580 | [116580-the-horror-of-h-h-holmes.json](./116580-the-horror-of-h-h-holmes.json) |
 | The Horror of Oz | 208440 | [208440-the-horror-of-oz.json](./208440-the-horror-of-oz.json) |
 | The Horror Within | 255712 | [255712-the-horror-within.json](./255712-the-horror-within.json) |
 | The Horrors at Castle Wülhein | 339197 | [339197-the-horrors-at-castle-wulhein.json](./339197-the-horrors-at-castle-wulhein.json) |
@@ -11146,6 +11149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hunt for the Lost Treasure | 88284 | [88284-the-hunt-for-the-lost-treasure.json](./88284-the-hunt-for-the-lost-treasure.json) |
 | The Hunt for the Lost Treasure 2 | 290007 | [290007-the-hunt-for-the-lost-treasure-2.json](./290007-the-hunt-for-the-lost-treasure-2.json) |
 | The Hunt for the Red Cthulhu | 231571 | [231571-the-hunt-for-the-red-cthulhu.json](./231571-the-hunt-for-the-red-cthulhu.json) |
+| The Hunt in the Forest | 116551 | [116551-the-hunt-in-the-forest.json](./116551-the-hunt-in-the-forest.json) |
 | The Hunt of the Blood Moon | 216515 | [216515-the-hunt-of-the-blood-moon.json](./216515-the-hunt-of-the-blood-moon.json) |
 | The Hunted | 215741 | [215741-the-hunted.json](./215741-the-hunted.json) |
 | The Hunted | 28786 | [28786-the-hunted.json](./28786-the-hunted.json) |
@@ -26369,6 +26373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torn Familjen | 55687 | [55687-torn-familjen.json](./55687-torn-familjen.json) |
 | Torn Sails | 27909 | [27909-torn-sails.json](./27909-torn-sails.json) |
 | Torn Tales | 34773 | [34773-torn-tales.json](./34773-torn-tales.json) |
+| Tornado | 116598 | [116598-tornado.json](./116598-tornado.json) |
 | Tornado | 145315 | [145315-tornado.json](./145315-tornado.json) |
 | Tornado | 206085 | [206085-tornado.json](./206085-tornado.json) |
 | Tornado | 21333 | [21333-tornado.json](./21333-tornado.json) |
