@@ -9788,6 +9788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civil War: 1864 Gold | 99176 | [99176-civil-war-1864-gold.json](./99176-civil-war-1864-gold.json) |
 | Civil War: 1865 | 28795 | [28795-civil-war-1865.json](./28795-civil-war-1865.json) |
 | Civil War: Battle of Petersburg | 29657 | [29657-civil-war-battle-of-petersburg.json](./29657-civil-war-battle-of-petersburg.json) |
+| Civil War: Bloody April | 100374 | [100374-civil-war-bloody-april.json](./100374-civil-war-bloody-april.json) |
 | Civil War: Bull Run 1861 | 51549 | [51549-civil-war-bull-run-1861.json](./51549-civil-war-bull-run-1861.json) |
 | Civil War: Drive on Washington | 90427 | [90427-civil-war-drive-on-washington.json](./90427-civil-war-drive-on-washington.json) |
 | Civil War: Gettysburg | 55501 | [55501-civil-war-gettysburg.json](./55501-civil-war-gettysburg.json) |
@@ -13717,6 +13718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Condottiero | 394132 | [394132-condottiero.json](./394132-condottiero.json) |
 | Conduct AR! | 318365 | [318365-conduct-ar.json](./318365-conduct-ar.json) |
 | Conduct Deluxe! | 76438 | [76438-conduct-deluxe.json](./76438-conduct-deluxe.json) |
+| Conduct This! | 99888 | [99888-conduct-this.json](./99888-conduct-this.json) |
 | Conduct Together!: Track Pack | 307246 | [307246-conduct-together-track-pack.json](./307246-conduct-together-track-pack.json) |
 | Conduct Together!: Track Pack 2 | 307247 | [307247-conduct-together-track-pack-2.json](./307247-conduct-together-track-pack-2.json) |
 | Conductor | 179599 | [179599-conductor.json](./179599-conductor.json) |
