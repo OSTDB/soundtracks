@@ -4258,6 +4258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Infestation | 190157 | [190157-deadly-infestation.json](./190157-deadly-infestation.json) |
 | Deadly Joy | 334503 | [334503-deadly-joy.json](./334503-deadly-joy.json) |
 | Deadly Kiss | 343351 | [343351-deadly-kiss.json](./343351-deadly-kiss.json) |
+| Deadly Land | 129310 | [129310-deadly-land.json](./129310-deadly-land.json) |
 | Deadly Match | 423960 | [423960-deadly-match.json](./423960-deadly-match.json) |
 | Deadly Maze | 156601 | [156601-deadly-maze.json](./156601-deadly-maze.json) |
 | Deadly Metal | 31788 | [31788-deadly-metal.json](./31788-deadly-metal.json) |
@@ -4717,6 +4718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death of desert | 115601 | [115601-death-of-desert.json](./115601-death-of-desert.json) |
 | Death of Eternity | 260212 | [260212-death-of-eternity.json](./260212-death-of-eternity.json) |
 | Death of Marionette | 274342 | [274342-death-of-marionette.json](./274342-death-of-marionette.json) |
+| Death of Rose | 129319 | [129319-death-of-rose.json](./129319-death-of-rose.json) |
 | Death of the Artificer | 299727 | [299727-death-of-the-artificer.json](./299727-death-of-the-artificer.json) |
 | Death of the Augnob | 251198 | [251198-death-of-the-augnob.json](./251198-death-of-the-augnob.json) |
 | Death of the Diseased | 179283 | [179283-death-of-the-diseased.json](./179283-death-of-the-diseased.json) |
@@ -10524,6 +10526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disguiser | 375215 | [375215-disguiser.json](./375215-disguiser.json) |
 | Disgusting Puzzle | 231676 | [231676-disgusting-puzzle.json](./231676-disgusting-puzzle.json) |
 | Disgusting Puzzle 2 | 232941 | [232941-disgusting-puzzle-2.json](./232941-disgusting-puzzle-2.json) |
+| Dish Life: The Game | 129312 | [129312-dish-life-the-game.json](./129312-dish-life-the-game.json) |
 | Dish Puzzle | 300759 | [300759-dish-puzzle.json](./300759-dish-puzzle.json) |
 | Dish Puzzle For Toddlers | 102610 | [102610-dish-puzzle-for-toddlers.json](./102610-dish-puzzle-for-toddlers.json) |
 | Dish Up Fruit | 302344 | [302344-dish-up-fruit.json](./302344-dish-up-fruit.json) |
@@ -14625,6 +14628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draco and the Seven Scales | 265376 | [265376-draco-and-the-seven-scales.json](./265376-draco-and-the-seven-scales.json) |
 | Draco D | 281039 | [281039-draco-d.json](./281039-draco-d.json) |
 | Draco Dux | 33069 | [33069-draco-dux.json](./33069-draco-dux.json) |
+| Draco Knight | 129333 | [129333-draco-knight.json](./129333-draco-knight.json) |
 | Draco Space X | 151620 | [151620-draco-space-x.json](./151620-draco-space-x.json) |
 | Draco's Misfortune | 110990 | [110990-dracos-misfortune.json](./110990-dracos-misfortune.json) |
 | DracoFighter | 207527 | [207527-dracofighter.json](./207527-dracofighter.json) |
@@ -18605,6 +18609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Minos | 175346 | [175346-dungeon-of-minos.json](./175346-dungeon-of-minos.json) |
 | Dungeon of Minos - movable maze | 97142 | [97142-dungeon-of-minos-movable-maze.json](./97142-dungeon-of-minos-movable-maze.json) |
 | Dungeon of Nazarick | 147842 | [147842-dungeon-of-nazarick.json](./147842-dungeon-of-nazarick.json) |
+| Dungeon of Rikka | 129337 | [129337-dungeon-of-rikka.json](./129337-dungeon-of-rikka.json) |
 | Dungeon of Slyn | 388768 | [388768-dungeon-of-slyn.json](./388768-dungeon-of-slyn.json) |
 | Dungeon of Souls | 103900 | [103900-dungeon-of-souls.json](./103900-dungeon-of-souls.json) |
 | Dungeon of Stone | 290628 | [290628-dungeon-of-stone.json](./290628-dungeon-of-stone.json) |
