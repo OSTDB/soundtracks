@@ -1269,6 +1269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Days | 154316 | [154316-last-days.json](./154316-last-days.json) |
 | Last Days | 217205 | [217205-last-days.json](./217205-last-days.json) |
 | Last Days | 30773 | [30773-last-days.json](./30773-last-days.json) |
+| Last Days Motel | 114598 | [114598-last-days-motel.json](./114598-last-days-motel.json) |
 | Last Days of Future | 226446 | [226446-last-days-of-future.json](./226446-last-days-of-future.json) |
 | Last Days of Old Earth | 35054 | [35054-last-days-of-old-earth.json](./35054-last-days-of-old-earth.json) |
 | Last Days of Snow | 95363 | [95363-last-days-of-snow.json](./95363-last-days-of-snow.json) |
@@ -3775,6 +3776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Go | 246466 | [246466-lets-go.json](./246466-lets-go.json) |
 | Let's Go Baby! Suffocation | 201932 | [201932-lets-go-baby-suffocation.json](./201932-lets-go-baby-suffocation.json) |
 | Let's Go Bassfishing! | 282681 | [282681-lets-go-bassfishing.json](./282681-lets-go-bassfishing.json) |
+| Let's Go Buildit | 114609 | [114609-lets-go-buildit.json](./114609-lets-go-buildit.json) |
 | Let's Go By Train! | 21398 | [21398-lets-go-by-train.json](./21398-lets-go-by-train.json) |
 | Let's Go Camping | 220143 | [220143-lets-go-camping.json](./220143-lets-go-camping.json) |
 | Let's Go Crazy with Lemmings | 70786 | [70786-lets-go-crazy-with-lemmings.json](./70786-lets-go-crazy-with-lemmings.json) |
@@ -6547,6 +6549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Lens | 312179 | [312179-live-lens.json](./312179-live-lens.json) |
 | Live Mathletics | 205622 | [205622-live-mathletics.json](./205622-live-mathletics.json) |
 | Live Maze | 210874 | [210874-live-maze.json](./210874-live-maze.json) |
+| live Mince | 114595 | [114595-live-mince.json](./114595-live-mince.json) |
 | Live Mystery: The Worst Behind the Scenes in History | 316146 | [316146-live-mystery-the-worst-behind-the-scenes-in-history.json](./316146-live-mystery-the-worst-behind-the-scenes-in-history.json) |
 | Live or Die | 191091 | [191091-live-or-die.json](./191091-live-or-die.json) |
 | Live or Die | 213850 | [213850-live-or-die.json](./213850-live-or-die.json) |
