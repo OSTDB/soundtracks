@@ -755,6 +755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madruga From Mars | 252899 | [252899-madruga-from-mars.json](./252899-madruga-from-mars.json) |
 | Madruga Goes Home | 252900 | [252900-madruga-goes-home.json](./252900-madruga-goes-home.json) |
 | Madrugacraft | 252901 | [252901-madrugacraft.json](./252901-madrugacraft.json) |
+| Madrun | 131720 | [131720-madrun.json](./131720-madrun.json) |
 | Mads, Morfar og Miljøstrup | 59950 | [59950-mads-morfar-og-milj-strup.json](./59950-mads-morfar-og-milj-strup.json) |
 | Madshot | 191697 | [191697-madshot.json](./191697-madshot.json) |
 | MadSpace: To Hell and Beyond | 10144 | [10144-madspace-to-hell-and-beyond.json](./10144-madspace-to-hell-and-beyond.json) |
@@ -4660,6 +4661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel End Time Arena | 89254 | [89254-marvel-end-time-arena.json](./89254-marvel-end-time-arena.json) |
 | Marvel First Alliance | 300380 | [300380-marvel-first-alliance.json](./300380-marvel-first-alliance.json) |
 | Marvel Future Fight | 24598 | [24598-marvel-future-fight.json](./24598-marvel-future-fight.json) |
+| Marvel Future Revolution | 131743 | [131743-marvel-future-revolution.json](./131743-marvel-future-revolution.json) |
 | Marvel Hero Tales | 322474 | [322474-marvel-hero-tales.json](./322474-marvel-hero-tales.json) |
 | Marvel Heroes | 220262 | [220262-marvel-heroes.json](./220262-marvel-heroes.json) |
 | Marvel Heroes | 363910 | [363910-marvel-heroes.json](./363910-marvel-heroes.json) |
@@ -6022,6 +6024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -13216,9 +13219,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minicology | 150771 | [150771-minicology.json](./150771-minicology.json) |
 | Miniconomy | 108966 | [108966-miniconomy.json](./108966-miniconomy.json) |
 | MiniCopter: Adventure Flight | 51064 | [51064-minicopter-adventure-flight.json](./51064-minicopter-adventure-flight.json) |
+| Minicraft | 131715 | [131715-minicraft.json](./131715-minicraft.json) |
 | Minicraft | 269923 | [269923-minicraft.json](./269923-minicraft.json) |
 | MiniCraft Adventure | 96777 | [96777-minicraft-adventure.json](./96777-minicraft-adventure.json) |
+| Minicraft Deluxe | 131716 | [131716-minicraft-deluxe.json](./131716-minicraft-deluxe.json) |
 | Minicraft Shooter | 157444 | [157444-minicraft-shooter.json](./157444-minicraft-shooter.json) |
+| Minicraft+ | 131717 | [131717-minicraft.json](./131717-minicraft.json) |
 | Minidinos | 369729 | [369729-minidinos.json](./369729-minidinos.json) |
 | MiniDrift | 262857 | [262857-minidrift.json](./262857-minidrift.json) |
 | MiniDrivers | 34867 | [34867-minidrivers.json](./34867-minidrivers.json) |
