@@ -423,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Minute Barbarian | 34776 | [34776-10-minute-barbarian.json](./34776-10-minute-barbarian.json) |
 | 10 Minute Massacre | 316985 | [316985-10-minute-massacre.json](./316985-10-minute-massacre.json) |
 | 10 Minute Solution | 6464 | [6464-10-minute-solution.json](./6464-10-minute-solution.json) |
+| 10 Minute Solution Knock Out Body | 137758 | [137758-10-minute-solution-knock-out-body.json](./137758-10-minute-solution-knock-out-body.json) |
 | 10 Minute Tower | 32589 | [32589-10-minute-tower.json](./32589-10-minute-tower.json) |
 | 10 Minutes Till Dawn | 202828 | [202828-10-minutes-till-dawn.json](./202828-10-minutes-till-dawn.json) |
 | 10 Minutes to Make a Million | 424712 | [424712-10-minutes-to-make-a-million.json](./424712-10-minutes-to-make-a-million.json) |
@@ -1168,6 +1169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 13 Thieves | 234074 | [234074-13-thieves.json](./234074-13-thieves.json) |
 | 13 Wood St | 152479 | [152479-13-wood-st.json](./152479-13-wood-st.json) |
 | 13 Wood St Remastered | 208692 | [208692-13-wood-st-remastered.json](./208692-13-wood-st-remastered.json) |
+| 13-nin no Uruwashiki Kedamono14days | 137763 | [137763-13-nin-no-uruwashiki-kedamono14days.json](./137763-13-nin-no-uruwashiki-kedamono14days.json) |
 | 13-Sai no Hello Work | 72584 | [72584-13-sai-no-hello-work.json](./72584-13-sai-no-hello-work.json) |
 | 13: Origin | 177648 | [177648-13-origin.json](./177648-13-origin.json) |
 | 13: Origin - Chapter One | 197399 | [197399-13-origin-chapter-one.json](./197399-13-origin-chapter-one.json) |
