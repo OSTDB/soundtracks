@@ -6846,6 +6846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardians: In Defence of Magic | 126896 | [126896-wizardians-in-defence-of-magic.json](./126896-wizardians-in-defence-of-magic.json) |
 | WizardLand | 95528 | [95528-wizardland.json](./95528-wizardland.json) |
 | Wizardology | 67747 | [67747-wizardology.json](./67747-wizardology.json) |
+| WizardPunk | 128124 | [128124-wizardpunk.json](./128124-wizardpunk.json) |
 | Wizardry 6+7 | 127994 | [127994-wizardry-6-7.json](./127994-wizardry-6-7.json) |
 | Wizardry Chronicle | 172724 | [172724-wizardry-chronicle.json](./172724-wizardry-chronicle.json) |
 | Wizardry Dimguil | 139301 | [139301-wizardry-dimguil.json](./139301-wizardry-dimguil.json) |
@@ -8630,6 +8631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World War 2: Pacific Heroes | 24746 | [24746-world-war-2-pacific-heroes.json](./24746-world-war-2-pacific-heroes.json) |
 | World War 2: Time of Wrath | 17505 | [17505-world-war-2-time-of-wrath.json](./17505-world-war-2-time-of-wrath.json) |
 | World War 2: WW2 Strategy Games | 261633 | [261633-world-war-2-ww2-strategy-games.json](./261633-world-war-2-ww2-strategy-games.json) |
+| World War 2: Zombie Attack - VR Simulator | 128091 | [128091-world-war-2-zombie-attack-vr-simulator.json](./128091-world-war-2-zombie-attack-vr-simulator.json) |
 | World War 3 | 102868 | [102868-world-war-3.json](./102868-world-war-3.json) |
 | World War 3: Card Battler | 216480 | [216480-world-war-3-card-battler.json](./216480-world-war-3-card-battler.json) |
 | World War Academy: Commander 1 | 170317 | [170317-world-war-academy-commander-1.json](./170317-world-war-academy-commander-1.json) |
