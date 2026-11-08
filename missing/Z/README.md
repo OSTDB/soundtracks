@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zabb World: Secret Stories | 320112 | [320112-zabb-world-secret-stories.json](./320112-zabb-world-secret-stories.json) |
 | Zabugorie: The Fairy Planet | 57638 | [57638-zabugorie-the-fairy-planet.json](./57638-zabugorie-the-fairy-planet.json) |
 | Zabula's Quest | 144224 | [144224-zabulas-quest.json](./144224-zabulas-quest.json) |
+| Zac to Ombra: Maboroshi no Yuuenchi | 122527 | [122527-zac-to-ombra-maboroshi-no-yuuenchi.json](./122527-zac-to-ombra-maboroshi-no-yuuenchi.json) |
 | Zac Zac adventure | 133360 | [133360-zac-zac-adventure.json](./133360-zac-zac-adventure.json) |
 | Zac's Batting Academy | 234595 | [234595-zacs-batting-academy.json](./234595-zacs-batting-academy.json) |
 | Zaccaria Pinball | 33463 | [33463-zaccaria-pinball.json](./33463-zaccaria-pinball.json) |
@@ -1105,6 +1106,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zettai Meikyuu Himitsu no Oyayubi-hime | 59959 | [59959-zettai-meikyuu-himitsu-no-oyayubi-hime.json](./59959-zettai-meikyuu-himitsu-no-oyayubi-hime.json) |
 | Zettai Mite ha Ikenai Shashin | 251528 | [251528-zettai-mite-ha-ikenai-shashin.json](./251528-zettai-mite-ha-ikenai-shashin.json) |
 | Zettai Muteki Raijin-Oh | 49133 | [49133-zettai-muteki-raijin-oh.json](./49133-zettai-muteki-raijin-oh.json) |
+| Zettai Onkan Master | 122525 | [122525-zettai-onkan-master.json](./122525-zettai-onkan-master.json) |
+| Zettai Onkan Otoda Master | 122526 | [122526-zettai-onkan-otoda-master.json](./122526-zettai-onkan-otoda-master.json) |
 | Zettai Zetsumei Dangerous Jiisan DS: Dangerous Sensation | 124129 | [124129-zettai-zetsumei-dangerous-jiisan-ds-dangerous-sensation.json](./124129-zettai-zetsumei-dangerous-jiisan-ds-dangerous-sensation.json) |
 | Zettai Zetsumei kara no Dasshutsu: Nazotoki Quiz Illustration Suiri Mystery Game | 233935 | [233935-zettai-zetsumei-kara-no-dasshutsu-nazotoki-quiz-illustration-suiri-mystery-game.json](./233935-zettai-zetsumei-kara-no-dasshutsu-nazotoki-quiz-illustration-suiri-mystery-game.json) |
 | Zettai Zetsumei Shoujo Kokuu no Houteishiki | 260549 | [260549-zettai-zetsumei-shoujo-kokuu-no-houteishiki.json](./260549-zettai-zetsumei-shoujo-kokuu-no-houteishiki.json) |
@@ -1175,6 +1178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhù Mèng Sānguó | 157219 | [157219-zhu-meng-sanguo.json](./157219-zhu-meng-sanguo.json) |
 | Zhu Zhu Pets | 9168 | [9168-zhu-zhu-pets.json](./9168-zhu-zhu-pets.json) |
 | Zhu Zhu Pets 2: The Wild Bunch | 47878 | [47878-zhu-zhu-pets-2-the-wild-bunch.json](./47878-zhu-zhu-pets-2-the-wild-bunch.json) |
+| Zhu Zhu Pets: Quest for Zhu | 122524 | [122524-zhu-zhu-pets-quest-for-zhu.json](./122524-zhu-zhu-pets-quest-for-zhu.json) |
 | Zhuishu | 330653 | [330653-zhuishu.json](./330653-zhuishu.json) |
 | Zhulik.exe | 81770 | [81770-zhulik-exe.json](./81770-zhulik-exe.json) |
 | Zhúlù Hàn Mò | 373690 | [373690-zhulu-han-mo.json](./373690-zhulu-han-mo.json) |
