@@ -2575,6 +2575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Mechanic Simulator | 147774 | [147774-farm-mechanic-simulator.json](./147774-farm-mechanic-simulator.json) |
 | Farm Mechanic Simulator 2015 | 53056 | [53056-farm-mechanic-simulator-2015.json](./53056-farm-mechanic-simulator-2015.json) |
 | Farm Merge Valley | 307772 | [307772-farm-merge-valley.json](./307772-farm-merge-valley.json) |
+| Farm Mystery | 122536 | [122536-farm-mystery.json](./122536-farm-mystery.json) |
 | Farm Mystery: The Happy Orchard Nightmare | 201907 | [201907-farm-mystery-the-happy-orchard-nightmare.json](./201907-farm-mystery-the-happy-orchard-nightmare.json) |
 | Farm of Rage | 355043 | [355043-farm-of-rage.json](./355043-farm-of-rage.json) |
 | Farm of the Unseen | 353382 | [353382-farm-of-the-unseen.json](./353382-farm-of-the-unseen.json) |
@@ -4269,6 +4270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fiefdom | 329623 | [329623-fiefdom.json](./329623-fiefdom.json) |
 | Field | 203183 | [203183-field.json](./203183-field.json) |
 | Field & Stream - Trophy Hunting | 115759 | [115759-field-and-stream-trophy-hunting.json](./115759-field-and-stream-trophy-hunting.json) |
+| Field & Stream - Trophy Hunting 4 | 122535 | [122535-field-and-stream-trophy-hunting-4.json](./122535-field-and-stream-trophy-hunting-4.json) |
 | Field & Stream: Total Outdoorsman Challenge | 67081 | [67081-field-and-stream-total-outdoorsman-challenge.json](./67081-field-and-stream-total-outdoorsman-challenge.json) |
 | Field & Stream: Trophy Bass 3D | 70127 | [70127-field-and-stream-trophy-bass-3d.json](./70127-field-and-stream-trophy-bass-3d.json) |
 | Field & Stream: Trophy Bass 4 | 71459 | [71459-field-and-stream-trophy-bass-4.json](./71459-field-and-stream-trophy-bass-4.json) |
@@ -12062,6 +12064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fresh Merchandise | 136366 | [136366-fresh-merchandise.json](./136366-fresh-merchandise.json) |
 | Fresh Milk For Mars | 295838 | [295838-fresh-milk-for-mars.json](./295838-fresh-milk-for-mars.json) |
 | Fresh Out the Oven | 201949 | [201949-fresh-out-the-oven.json](./201949-fresh-out-the-oven.json) |
+| Fresh Pretty Cure! Asobi Collection | 122541 | [122541-fresh-pretty-cure-asobi-collection.json](./122541-fresh-pretty-cure-asobi-collection.json) |
 | Fresh Squeezed Lemonade | 393992 | [393992-fresh-squeezed-lemonade.json](./393992-fresh-squeezed-lemonade.json) |
 | Fresh Start | 212066 | [212066-fresh-start.json](./212066-fresh-start.json) |
 | Fresh Story | 272765 | [272765-fresh-story.json](./272765-fresh-story.json) |
@@ -13170,6 +13173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruits Blast - Match Cube | 108953 | [108953-fruits-blast-match-cube.json](./108953-fruits-blast-match-cube.json) |
 | Fruits Inc. Deluxe Pack | 35750 | [35750-fruits-inc-deluxe-pack.json](./35750-fruits-inc-deluxe-pack.json) |
 | Fruits Jigsaw Puzzle | 88167 | [88167-fruits-jigsaw-puzzle.json](./88167-fruits-jigsaw-puzzle.json) |
+| Fruits Mura no Doubutsu Tachi 2: Osora no Fruits Land | 122543 | [122543-fruits-mura-no-doubutsu-tachi-2-osora-no-fruits-land.json](./122543-fruits-mura-no-doubutsu-tachi-2-osora-no-fruits-land.json) |
 | Fruits of Fury | 260205 | [260205-fruits-of-fury.json](./260205-fruits-of-fury.json) |
 | Fruits of Fury | 413618 | [413618-fruits-of-fury.json](./413618-fruits-of-fury.json) |
 | Fruits Salad | 89787 | [89787-fruits-salad.json](./89787-fruits-salad.json) |
