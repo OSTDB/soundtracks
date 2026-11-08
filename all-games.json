@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-08T12:25:55.295Z",
-  "total_soundtracks": 2971,
+  "generated_at": "2026-11-08T12:51:21.502Z",
+  "total_soundtracks": 2978,
   "games": [
     {
       "igdb_id": 7522,
@@ -10417,6 +10417,20 @@
       ]
     },
     {
+      "igdb_id": 98228,
+      "game_name": "Exit Path",
+      "game_url": "https://ostdb.net/games/exit-path",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273410f5980a921d8ef78a1b3ff",
+      "albums": [
+        {
+          "album_name": "Exit Path (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1w5Vk9V26XbWl1xKJMsYxx",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 122311,
       "game_name": "Exit the Gungeon",
       "game_url": "https://ostdb.net/games/exit-the-gungeon",
@@ -16314,6 +16328,20 @@
           "album_name": "Journey (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/5fEkyTeRzYV32RcT8c5tTn",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 86929,
+      "game_name": "June's Journey",
+      "game_url": "https://ostdb.net/games/junes-journey",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27365e0d8b5bcd4e6ab4363032e",
+      "albums": [
+        {
+          "album_name": "June's Journey (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4aotdHTxBIQWhyj3emP9wm",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
@@ -22509,6 +22537,20 @@
       ]
     },
     {
+      "igdb_id": 88904,
+      "game_name": "Pac-Man",
+      "game_url": "https://ostdb.net/games/pac-man",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2731ee0ced47d98c1dcc6c4c8b4",
+      "albums": [
+        {
+          "album_name": "PAC-MAN (Game Sound Effect) (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/4dDS7pNBiCGoUeQdhgOgKU",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 2750,
       "game_name": "Pac-Man",
       "game_url": "https://ostdb.net/games/pac-man",
@@ -22731,6 +22773,20 @@
         {
           "album_name": "Pathway (Original Video Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/79cRKy9bV0Oh3NpzpWCKtn",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 24963,
+      "game_name": "Pavilion",
+      "game_url": "https://ostdb.net/games/pavilion",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2737549b7a72a558f69396728f7",
+      "albums": [
+        {
+          "album_name": "Pavilion (Official Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1mjRur2ayUPrvV17R2iM2m",
           "apple_music_url": "",
           "album_link_url": ""
         }
@@ -28687,6 +28743,20 @@
       ]
     },
     {
+      "igdb_id": 87679,
+      "game_name": "Spinch",
+      "game_url": "https://ostdb.net/games/spinch",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273ce41463437c89f3087f21eb5",
+      "albums": [
+        {
+          "album_name": "Spinch (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/48aLaSp5VEhkYjL3LKVPJE",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 107141,
       "game_name": "Spirit of the North",
       "game_url": "https://ostdb.net/games/spirit-of-the-north",
@@ -29431,6 +29501,20 @@
       ]
     },
     {
+      "igdb_id": 111331,
+      "game_name": "Stellaris: MegaCorp",
+      "game_url": "https://ostdb.net/games/stellaris-megacorp",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b273c42c28082620ccb3191fc065",
+      "albums": [
+        {
+          "album_name": "Stellaris: Megacorp (Original Game Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/311OOzX7zp064DwXsd9e71",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
       "igdb_id": 65832,
       "game_name": "Stick Fight: The Game",
       "game_url": "https://ostdb.net/games/stick-fight-the-game",
@@ -29985,6 +30069,20 @@
         {
           "album_name": "Summer Catchers (Original Game Soundtrack)",
           "spotify_url": "https://open.spotify.com/album/0fAEbEZL8IeJ6vhP43u8qC",
+          "apple_music_url": "",
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 87682,
+      "game_name": "Summer Pockets",
+      "game_url": "https://ostdb.net/games/summer-pockets",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b2734e5081c56d036a97f51703d5",
+      "albums": [
+        {
+          "album_name": "Summer Pockets Original SoundTrack",
+          "spotify_url": "https://open.spotify.com/album/5f430S14cud6XqMtFQ910l",
           "apple_music_url": "",
           "album_link_url": ""
         }
