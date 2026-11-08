@@ -718,6 +718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madoka Magica Magia Exedra | 307774 | [307774-madoka-magica-magia-exedra.json](./307774-madoka-magica-magia-exedra.json) |
 | Madonna Simulator | 176379 | [176379-madonna-simulator.json](./176379-madonna-simulator.json) |
 | Madora | 333340 | [333340-madora.json](./333340-madora.json) |
+| Madorica Real Estate | 110589 | [110589-madorica-real-estate.json](./110589-madorica-real-estate.json) |
 | Madorica Real Estate 2 | 225483 | [225483-madorica-real-estate-2.json](./225483-madorica-real-estate-2.json) |
 | Madoris R | 147748 | [147748-madoris-r.json](./147748-madoris-r.json) |
 | Madoro-Mu | 166436 | [166436-madoro-mu.json](./166436-madoro-mu.json) |
@@ -1451,6 +1452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magica Wars: Zanbatsu | 62013 | [62013-magica-wars-zanbatsu.json](./62013-magica-wars-zanbatsu.json) |
 | Magica X Magica | 200018 | [200018-magica-x-magica.json](./200018-magica-x-magica.json) |
 | Magicademia | 148677 | [148677-magicademia.json](./148677-magicademia.json) |
+| Magicae Mundi | 110561 | [110561-magicae-mundi.json](./110561-magicae-mundi.json) |
 | Magicafe | 299127 | [299127-magicafe.json](./299127-magicafe.json) |
 | Magical Amber: Tobi Tsukihime | 222742 | [222742-magical-amber-tobi-tsukihime.json](./222742-magical-amber-tobi-tsukihime.json) |
 | Magical Animal Farm | 366423 | [366423-magical-animal-farm.json](./366423-magical-animal-farm.json) |
@@ -12495,6 +12497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mine Quest | 196868 | [196868-mine-quest.json](./196868-mine-quest.json) |
 | Mine Rescue! | 263860 | [263860-mine-rescue.json](./263860-mine-rescue.json) |
 | Mine Royale - Battle Royale | 111408 | [111408-mine-royale-battle-royale.json](./111408-mine-royale-battle-royale.json) |
+| Mine Runner | 110565 | [110565-mine-runner.json](./110565-mine-runner.json) |
 | Mine Runner | 426417 | [426417-mine-runner.json](./426417-mine-runner.json) |
 | Mine Safety | 347472 | [347472-mine-safety.json](./347472-mine-safety.json) |
 | Mine Searcher | 95619 | [95619-mine-searcher.json](./95619-mine-searcher.json) |
