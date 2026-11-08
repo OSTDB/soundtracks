@@ -941,6 +941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vargskelethor's Hardcore Friday Super Metal Almost Criminally Violent Ultra Swedish Meatball Royal Rumble Massacre! | 215074 | [215074-vargskelethors-hardcore-friday-super-metal-almost-criminally-violent-ultra-swedish-meatball-royal-rumble-massacre.json](./215074-vargskelethors-hardcore-friday-super-metal-almost-criminally-violent-ultra-swedish-meatball-royal-rumble-massacre.json) |
 | Vargverse | 228293 | [228293-vargverse.json](./228293-vargverse.json) |
 | Vari Dungeon | 220869 | [220869-vari-dungeon.json](./220869-vari-dungeon.json) |
+| Varia | 93108 | [93108-varia.json](./93108-varia.json) |
 | Varia Metal | 40518 | [40518-varia-metal.json](./40518-varia-metal.json) |
 | Variable | 157266 | [157266-variable.json](./157266-variable.json) |
 | Variable Barricade | 69345 | [69345-variable-barricade.json](./69345-variable-barricade.json) |
