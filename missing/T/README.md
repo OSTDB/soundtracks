@@ -11276,6 +11276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible Crash Dummies | 365654 | [365654-the-incredible-crash-dummies.json](./365654-the-incredible-crash-dummies.json) |
 | The Incredible Crash Dummies | 365655 | [365655-the-incredible-crash-dummies.json](./365655-the-incredible-crash-dummies.json) |
 | The incredible friends | 129972 | [129972-the-incredible-friends.json](./129972-the-incredible-friends.json) |
+| The Incredible Hulk | 131067 | [131067-the-incredible-hulk.json](./131067-the-incredible-hulk.json) |
 | The Incredible Hulk | 225619 | [225619-the-incredible-hulk.json](./225619-the-incredible-hulk.json) |
 | The Incredible Hulk | 368893 | [368893-the-incredible-hulk.json](./368893-the-incredible-hulk.json) |
 | The Incredible Hulk | 4928 | [4928-the-incredible-hulk.json](./4928-the-incredible-hulk.json) |
@@ -11790,6 +11791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters 2002: Unlimited Match | 22952 | [22952-the-king-of-fighters-2002-unlimited-match.json](./22952-the-king-of-fighters-2002-unlimited-match.json) |
 | The King of Fighters 2003 | 15433 | [15433-the-king-of-fighters-2003.json](./15433-the-king-of-fighters-2003.json) |
 | The King of Fighters 2006 | 15435 | [15435-the-king-of-fighters-2006.json](./15435-the-king-of-fighters-2006.json) |
+| The King of Fighters 2012-i | 131075 | [131075-the-king-of-fighters-2012-i.json](./131075-the-king-of-fighters-2012-i.json) |
 | The King of Fighters AllStar | 102809 | [102809-the-king-of-fighters-allstar.json](./102809-the-king-of-fighters-allstar.json) |
 | The King of Fighters Arena | 225887 | [225887-the-king-of-fighters-arena.json](./225887-the-king-of-fighters-arena.json) |
 | The King of Fighters Bundle | 271119 | [271119-the-king-of-fighters-bundle.json](./271119-the-king-of-fighters-bundle.json) |
@@ -18895,6 +18897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Walker | 126764 | [126764-the-walker.json](./126764-the-walker.json) |
 | The Walker | 203619 | [203619-the-walker.json](./203619-the-walker.json) |
 | The Walker | 52030 | [52030-the-walker.json](./52030-the-walker.json) |
+| The Walking Dead Arcade | 131053 | [131053-the-walking-dead-arcade.json](./131053-the-walking-dead-arcade.json) |
 | The Walking Dead Match 3 Tales | 303175 | [303175-the-walking-dead-match-3-tales.json](./303175-the-walking-dead-match-3-tales.json) |
 | The Walking Dead Onslaught | 118485 | [118485-the-walking-dead-onslaught.json](./118485-the-walking-dead-onslaught.json) |
 | The Walking Dead: A New Frontier - Episode 1: Ties That Bind - Part One | 127062 | [127062-the-walking-dead-a-new-frontier-episode-1-ties-that-bind-part-one.json](./127062-the-walking-dead-a-new-frontier-episode-1-ties-that-bind-part-one.json) |
@@ -25408,6 +25411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomatomare | 146078 | [146078-tomatomare.json](./146078-tomatomare.json) |
 | Tomb Boom | 366232 | [366232-tomb-boom.json](./366232-tomb-boom.json) |
 | Tomb Cat | 363007 | [363007-tomb-cat.json](./363007-tomb-cat.json) |
+| Tomb Cat brow | 131054 | [131054-tomb-cat-brow.json](./131054-tomb-cat-brow.json) |
 | Tomb Color: ASMR Maze Escape | 245374 | [245374-tomb-color-asmr-maze-escape.json](./245374-tomb-color-asmr-maze-escape.json) |
 | Tomb Defender | 207198 | [207198-tomb-defender.json](./207198-tomb-defender.json) |
 | Tomb Explorer VR | 204422 | [204422-tomb-explorer-vr.json](./204422-tomb-explorer-vr.json) |
@@ -28169,6 +28173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trade the Crash | 416028 | [416028-trade-the-crash.json](./416028-trade-the-crash.json) |
 | Trade Town | 114681 | [114681-trade-town.json](./114681-trade-town.json) |
 | Trade Tycoon Life Simulator | 344109 | [344109-trade-tycoon-life-simulator.json](./344109-trade-tycoon-life-simulator.json) |
+| TradeOff | 131049 | [131049-tradeoff.json](./131049-tradeoff.json) |
 | Trader 2 | 94318 | [94318-trader-2.json](./94318-trader-2.json) |
 | Trader HD | 175085 | [175085-trader-hd.json](./175085-trader-hd.json) |
 | Trader Life Simulator | 143666 | [143666-trader-life-simulator.json](./143666-trader-life-simulator.json) |
@@ -31509,6 +31514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tridonis | 62749 | [62749-tridonis.json](./62749-tridonis.json) |
 | Triennale Game Collection Vol. 2 | 207027 | [207027-triennale-game-collection-vol-2.json](./207027-triennale-game-collection-vol-2.json) |
 | Trientank | 322403 | [322403-trientank.json](./322403-trientank.json) |
+| Trif | 131085 | [131085-trif.json](./131085-trif.json) |
 | Trifecta | 309556 | [309556-trifecta.json](./309556-trifecta.json) |
 | Trifide | 94381 | [94381-trifide.json](./94381-trifide.json) |
 | Trifling | 315531 | [315531-trifling.json](./315531-trifling.json) |
@@ -31588,6 +31594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trimmer Tycoon | 31967 | [31967-trimmer-tycoon.json](./31967-trimmer-tycoon.json) |
 | Trimming Sails | 244336 | [244336-trimming-sails.json](./244336-trimming-sails.json) |
 | Trimorta | 184086 | [184086-trimorta.json](./184086-trimorta.json) |
+| Trimps | 131042 | [131042-trimps.json](./131042-trimps.json) |
 | Trimurti Online | 265688 | [265688-trimurti-online.json](./265688-trimurti-online.json) |
 | Trine 2: Complete Story | 38932 | [38932-trine-2-complete-story.json](./38932-trine-2-complete-story.json) |
 | Trine 2: Goblin Menace | 20837 | [20837-trine-2-goblin-menace.json](./20837-trine-2-goblin-menace.json) |
