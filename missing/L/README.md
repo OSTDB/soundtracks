@@ -7328,6 +7328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lone Voyage | 345648 | [345648-lone-voyage.json](./345648-lone-voyage.json) |
 | Lone Wolf | 173900 | [173900-lone-wolf.json](./173900-lone-wolf.json) |
 | Lone Wolf | 220402 | [220402-lone-wolf.json](./220402-lone-wolf.json) |
+| Lone Wolf AR | 119166 | [119166-lone-wolf-ar.json](./119166-lone-wolf-ar.json) |
 | Lone Wolf DS I: Flight From The Dark | 308379 | [308379-lone-wolf-ds-i-flight-from-the-dark.json](./308379-lone-wolf-ds-i-flight-from-the-dark.json) |
 | Lone Wolf DS II: Fire On The Water | 341970 | [341970-lone-wolf-ds-ii-fire-on-the-water.json](./341970-lone-wolf-ds-ii-fire-on-the-water.json) |
 | Lone Wolf DS III: The Caverns of Kalte | 341971 | [341971-lone-wolf-ds-iii-the-caverns-of-kalte.json](./341971-lone-wolf-ds-iii-the-caverns-of-kalte.json) |
@@ -8747,6 +8748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love 2 Torokko | 143667 | [143667-love-2-torokko.json](./143667-love-2-torokko.json) |
 | Love 3 | 161222 | [161222-love-3.json](./161222-love-3.json) |
 | Love 3: Love Cube | 117876 | [117876-love-3-love-cube.json](./117876-love-3-love-cube.json) |
+| Love 365: Find Your Story | 119184 | [119184-love-365-find-your-story.json](./119184-love-365-find-your-story.json) |
 | Love Accident | 186829 | [186829-love-accident.json](./186829-love-accident.json) |
 | Love Across Izumi | 131327 | [131327-love-across-izumi.json](./131327-love-across-izumi.json) |
 | Love Affairs | 303785 | [303785-love-affairs.json](./303785-love-affairs.json) |
