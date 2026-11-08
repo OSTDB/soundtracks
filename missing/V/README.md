@@ -3566,6 +3566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Volatile Particle | 267013 | [267013-volatile-particle.json](./267013-volatile-particle.json) |
 | Volatile Triangle | 82397 | [82397-volatile-triangle.json](./82397-volatile-triangle.json) |
 | Volatility | 257806 | [257806-volatility.json](./257806-volatility.json) |
+| Volcan Defend the Tower | 110481 | [110481-volcan-defend-the-tower.json](./110481-volcan-defend-the-tower.json) |
 | Volcanewt | 304572 | [304572-volcanewt.json](./304572-volcanewt.json) |
 | Volcania Peaks | 254120 | [254120-volcania-peaks.json](./254120-volcania-peaks.json) |
 | Volcanic Bird: Bird Quest | 278883 | [278883-volcanic-bird-bird-quest.json](./278883-volcanic-bird-bird-quest.json) |
@@ -4061,6 +4062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Noir | 188351 | [188351-vr-noir.json](./188351-vr-noir.json) |
 | VR Paper Airplane Hunting | 163805 | [163805-vr-paper-airplane-hunting.json](./163805-vr-paper-airplane-hunting.json) |
 | VR Parallel World | 148772 | [148772-vr-parallel-world.json](./148772-vr-parallel-world.json) |
+| VR Party Club | 110559 | [110559-vr-party-club.json](./110559-vr-party-club.json) |
 | VR Party Pack | 249673 | [249673-vr-party-pack.json](./249673-vr-party-pack.json) |
 | VR Party Pack | 249675 | [249675-vr-party-pack.json](./249675-vr-party-pack.json) |
 | VR Pianist | 152878 | [152878-vr-pianist.json](./152878-vr-pianist.json) |
@@ -4191,6 +4193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRAdventure | 124156 | [124156-vradventure.json](./124156-vradventure.json) |
 | VRAmp | 33766 | [33766-vramp.json](./33766-vramp.json) |
 | VRandish | 156797 | [156797-vrandish.json](./156797-vrandish.json) |
+| VRange | 110491 | [110491-vrange.json](./110491-vrange.json) |
 | Vranygrai | 235766 | [235766-vranygrai.json](./235766-vranygrai.json) |
 | VRC Pro | 36141 | [36141-vrc-pro.json](./36141-vrc-pro.json) |
 | VRC Pro: Deluxe Americas On-Road Tracks | 161763 | [161763-vrc-pro-deluxe-americas-on-road-tracks.json](./161763-vrc-pro-deluxe-americas-on-road-tracks.json) |
