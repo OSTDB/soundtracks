@@ -1931,6 +1931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC Sports Presents: The Palm Spring Open | 46559 | [46559-abc-sports-presents-the-palm-spring-open.json](./46559-abc-sports-presents-the-palm-spring-open.json) |
 | ABC Super Solitaire | 89857 | [89857-abc-super-solitaire.json](./89857-abc-super-solitaire.json) |
 | ABC Tangou Game | 345919 | [345919-abc-tangou-game.json](./345919-abc-tangou-game.json) |
+| ABC World | 133549 | [133549-abc-world.json](./133549-abc-world.json) |
 | ABC World | 285864 | [285864-abc-world.json](./285864-abc-world.json) |
 | ABC z Reksiem | 146953 | [146953-abc-z-reksiem.json](./146953-abc-z-reksiem.json) |
 | ABC: Audioreactive Beat Circle | 138623 | [138623-abc-audioreactive-beat-circle.json](./138623-abc-audioreactive-beat-circle.json) |
@@ -7845,6 +7846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha and Omega | 98810 | [98810-alpha-and-omega.json](./98810-alpha-and-omega.json) |
 | Alpha Ball | 99923 | [99923-alpha-ball.json](./99923-alpha-ball.json) |
 | Alpha Beam With Ernie | 3252 | [3252-alpha-beam-with-ernie.json](./3252-alpha-beam-with-ernie.json) |
+| Alpha Betty and Friends | 133539 | [133539-alpha-betty-and-friends.json](./133539-alpha-betty-and-friends.json) |
 | Alpha Black Zero: Intrepid Protocol | 73232 | [73232-alpha-black-zero-intrepid-protocol.json](./73232-alpha-black-zero-intrepid-protocol.json) |
 | Alpha Blaster | 100284 | [100284-alpha-blaster.json](./100284-alpha-blaster.json) |
 | Alpha Centauri | 261818 | [261818-alpha-centauri.json](./261818-alpha-centauri.json) |
@@ -16209,6 +16211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Bears: Non-Bears | 238446 | [238446-astro-bears-non-bears.json](./238446-astro-bears-non-bears.json) |
 | Astro Blaster | 13959 | [13959-astro-blaster.json](./13959-astro-blaster.json) |
 | Astro Blox Revisited | 241655 | [241655-astro-blox-revisited.json](./241655-astro-blox-revisited.json) |
+| Astro Bomber | 133552 | [133552-astro-bomber.json](./133552-astro-bomber.json) |
 | Astro Bot: Digital Deluxe Edition | 407460 | [407460-astro-bot-digital-deluxe-edition.json](./407460-astro-bot-digital-deluxe-edition.json) |
 | Astro Bot: Stellar Speedway | 317620 | [317620-astro-bot-stellar-speedway.json](./317620-astro-bot-stellar-speedway.json) |
 | Astro Bot: Vicious Void | 331293 | [331293-astro-bot-vicious-void.json](./331293-astro-bot-vicious-void.json) |
@@ -16926,6 +16929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
