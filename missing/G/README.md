@@ -8290,6 +8290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandma | 193676 | [193676-grandma.json](./193676-grandma.json) |
 | Grandma | 204036 | [204036-grandma.json](./204036-grandma.json) |
 | GrandMa Badass | 150914 | [150914-grandma-badass.json](./150914-grandma-badass.json) |
+| Grandma Bethlinda's Variety Box | 80070 | [80070-grandma-bethlindas-variety-box.json](./80070-grandma-bethlindas-variety-box.json) |
 | Grandma Cleaning Simulator: Family Business Tycoon | 308510 | [308510-grandma-cleaning-simulator-family-business-tycoon.json](./308510-grandma-cleaning-simulator-family-business-tycoon.json) |
 | Grandma Don't Click That! | 292938 | [292938-grandma-dont-click-that.json](./292938-grandma-dont-click-that.json) |
 | Grandma Eugenia's Foolproof Plum Pudding for the Holidays | 187623 | [187623-grandma-eugenias-foolproof-plum-pudding-for-the-holidays.json](./187623-grandma-eugenias-foolproof-plum-pudding-for-the-holidays.json) |
@@ -9737,6 +9738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimm: Episode 8 - Beauty and the Beast | 166406 | [166406-grimm-episode-8-beauty-and-the-beast.json](./166406-grimm-episode-8-beauty-and-the-beast.json) |
 | Grimm: Quest for the Gatherer's Key | 363039 | [363039-grimm-quest-for-the-gatherers-key.json](./363039-grimm-quest-for-the-gatherers-key.json) |
 | Grimm's Folly | 291508 | [291508-grimms-folly.json](./291508-grimms-folly.json) |
+| Grimm's Godfather | 80069 | [80069-grimms-godfather.json](./80069-grimms-godfather.json) |
 | Grimm's Hatchery | 73510 | [73510-grimms-hatchery.json](./73510-grimms-hatchery.json) |
 | Grimm's Hollow | 125110 | [125110-grimms-hollow.json](./125110-grimms-hollow.json) |
 | GrimmKitchen | 326225 | [326225-grimmkitchen.json](./326225-grimmkitchen.json) |
