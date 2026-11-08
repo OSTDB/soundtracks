@@ -1642,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eggfish | 406342 | [406342-eggfish.json](./406342-eggfish.json) |
 | EggGarden | 349402 | [349402-egggarden.json](./349402-egggarden.json) |
 | Eggggg | 24074 | [24074-eggggg.json](./24074-eggggg.json) |
+| Egghead | 84348 | [84348-egghead.json](./84348-egghead.json) |
 | Egghead Gumpty | 210852 | [210852-egghead-gumpty.json](./210852-egghead-gumpty.json) |
 | Eggheads | 397001 | [397001-eggheads.json](./397001-eggheads.json) |
 | Eggies | 233770 | [233770-eggies.json](./233770-eggies.json) |
@@ -1937,6 +1938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Dios de Nauru | 321014 | [321014-el-dios-de-nauru.json](./321014-el-dios-de-nauru.json) |
 | El Dorado | 214994 | [214994-el-dorado.json](./214994-el-dorado.json) |
 | El Dorado | 312880 | [312880-el-dorado.json](./312880-el-dorado.json) |
+| El Dorado | 84349 | [84349-el-dorado.json](./84349-el-dorado.json) |
 | El Dorado: The Golden City Builder | 218679 | [218679-el-dorado-the-golden-city-builder.json](./218679-el-dorado-the-golden-city-builder.json) |
 | El Engaño de Barbapoca: Capítulo 1 - Esta Pizza Está de Muerte | 321029 | [321029-el-engano-de-barbapoca-capitulo-1-esta-pizza-esta-de-muerte.json](./321029-el-engano-de-barbapoca-capitulo-1-esta-pizza-esta-de-muerte.json) |
 | El Engaño de Barbapoca: Capítulo 2 - Competencia Fantasmal | 321031 | [321031-el-engano-de-barbapoca-capitulo-2-competencia-fantasmal.json](./321031-el-engano-de-barbapoca-capitulo-2-competencia-fantasmal.json) |
@@ -8581,6 +8583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye of the Summoner | 302771 | [302771-eye-of-the-summoner.json](./302771-eye-of-the-summoner.json) |
 | Eye of the Temple | 95018 | [95018-eye-of-the-temple.json](./95018-eye-of-the-temple.json) |
 | Eye of the Temple: First Steps | 138355 | [138355-eye-of-the-temple-first-steps.json](./138355-eye-of-the-temple-first-steps.json) |
+| Eye of the Tiger | 84345 | [84345-eye-of-the-tiger.json](./84345-eye-of-the-tiger.json) |
 | Eye of the Void: Unleashed | 272625 | [272625-eye-of-the-void-unleashed.json](./272625-eye-of-the-void-unleashed.json) |
 | Eye of Vartan | 14059 | [14059-eye-of-vartan.json](./14059-eye-of-vartan.json) |
 | Eye on the world | 258731 | [258731-eye-on-the-world.json](./258731-eye-on-the-world.json) |
