@@ -10006,6 +10006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur Museum | 378176 | [378176-dinosaur-museum.json](./378176-dinosaur-museum.json) |
 | Dinosaur Park | 56458 | [56458-dinosaur-park.json](./56458-dinosaur-park.json) |
 | Dinosaur Park Building Simulator 3D | 99136 | [99136-dinosaur-park-building-simulator-3d.json](./99136-dinosaur-park-building-simulator-3d.json) |
+| Dinosaur Park: Jurassic Trex World | 105462 | [105462-dinosaur-park-jurassic-trex-world.json](./105462-dinosaur-park-jurassic-trex-world.json) |
 | Dinosaur Planet | 134251 | [134251-dinosaur-planet.json](./134251-dinosaur-planet.json) |
 | Dinosaur Planet: Recompiled | 343047 | [343047-dinosaur-planet-recompiled.json](./343047-dinosaur-planet-recompiled.json) |
 | Dinosaur Predators | 73584 | [73584-dinosaur-predators.json](./73584-dinosaur-predators.json) |
@@ -15942,6 +15943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dramatour | 391415 | [391415-dramatour.json](./391415-dramatour.json) |
 | Drancia Saga | 54777 | [54777-drancia-saga.json](./54777-drancia-saga.json) |
 | Dransik | 212606 | [212606-dransik.json](./212606-dransik.json) |
+| Draoi | 105471 | [105471-draoi.json](./105471-draoi.json) |
 | Drapers: Merchants of Middle Ages | 420479 | [420479-drapers-merchants-of-middle-ages.json](./420479-drapers-merchants-of-middle-ages.json) |
 | Drapline | 333105 | [333105-drapline.json](./333105-drapline.json) |
 | Dráscula: The Vampire Strikes Back | 117600 | [117600-drascula-the-vampire-strikes-back.json](./117600-drascula-the-vampire-strikes-back.json) |
