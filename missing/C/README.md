@@ -9177,6 +9177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circle of Sumo | 111916 | [111916-circle-of-sumo.json](./111916-circle-of-sumo.json) |
 | Circle of Sumo: Online Rumble! | 126661 | [126661-circle-of-sumo-online-rumble.json](./126661-circle-of-sumo-online-rumble.json) |
 | Circle of Swords | 276242 | [276242-circle-of-swords.json](./276242-circle-of-swords.json) |
+| Circle pong | 81588 | [81588-circle-pong.json](./81588-circle-pong.json) |
 | Circle Pong | 289388 | [289388-circle-pong.json](./289388-circle-pong.json) |
 | Circle Rally Party | 113913 | [113913-circle-rally-party.json](./113913-circle-rally-party.json) |
 | Circle Tank | 138658 | [138658-circle-tank.json](./138658-circle-tank.json) |
@@ -18163,6 +18164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Mass | 13534 | [13534-critical-mass.json](./13534-critical-mass.json) |
 | Critical Mass | 25354 | [25354-critical-mass.json](./25354-critical-mass.json) |
 | Critical Mass | 9810 | [9810-critical-mass.json](./9810-critical-mass.json) |
+| Critical Mess | 81583 | [81583-critical-mess.json](./81583-critical-mess.json) |
 | Critical Ops | 28896 | [28896-critical-ops.json](./28896-critical-ops.json) |
 | Critical Ops: Dead Zone | 372739 | [372739-critical-ops-dead-zone.json](./372739-critical-ops-dead-zone.json) |
 | Critical Ops: Reloaded | 233491 | [233491-critical-ops-reloaded.json](./233491-critical-ops-reloaded.json) |
