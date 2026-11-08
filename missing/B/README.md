@@ -826,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BaconBaconBacon | 58296 | [58296-baconbaconbacon.json](./58296-baconbaconbacon.json) |
 | BaconX | 330862 | [330862-baconx.json](./330862-baconx.json) |
 | Bacrush | 347038 | [347038-bacrush.json](./347038-bacrush.json) |
+| Bacta | 91474 | [91474-bacta.json](./91474-bacta.json) |
 | Bacta 1 & 2 + Voice | 299814 | [299814-bacta-1-and-2-voice.json](./299814-bacta-1-and-2-voice.json) |
 | Bacta 2: The Resurrection of Bacta | 66899 | [66899-bacta-2-the-resurrection-of-bacta.json](./66899-bacta-2-the-resurrection-of-bacta.json) |
 | Bacteria | 33386 | [33386-bacteria.json](./33386-bacteria.json) |
@@ -10467,6 +10468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitter Boy: Operation Monster Mall | 125006 | [125006-blitter-boy-operation-monster-mall.json](./125006-blitter-boy-operation-monster-mall.json) |
 | Blitz | 308289 | [308289-blitz.json](./308289-blitz.json) |
 | Blitz | 380023 | [380023-blitz.json](./380023-blitz.json) |
+| Blitz | 91502 | [91502-blitz.json](./91502-blitz.json) |
 | Blitz & Blaze | 265775 | [265775-blitz-and-blaze.json](./265775-blitz-and-blaze.json) |
 | Blitz Arena | 133585 | [133585-blitz-arena.json](./133585-blitz-arena.json) |
 | Blitz Breaker | 17457 | [17457-blitz-breaker.json](./17457-blitz-breaker.json) |
@@ -12796,6 +12798,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb Up | 263944 | [263944-bomb-up.json](./263944-bomb-up.json) |
 | Bomb Viking | 212600 | [212600-bomb-viking.json](./212600-bomb-viking.json) |
 | Bomb Voyage | 186382 | [186382-bomb-voyage.json](./186382-bomb-voyage.json) |
+| Bomb Wuzel | 91508 | [91508-bomb-wuzel.json](./91508-bomb-wuzel.json) |
+| Bomb Wuzel 2 | 91511 | [91511-bomb-wuzel-2.json](./91511-bomb-wuzel-2.json) |
 | Bomb-Bomb | 101628 | [101628-bomb-bomb.json](./101628-bomb-bomb.json) |
 | Bomb: A Modern Missile Command | 134395 | [134395-bomb-a-modern-missile-command.json](./134395-bomb-a-modern-missile-command.json) |
 | Bomb: Who let the dogfight? | 17403 | [17403-bomb-who-let-the-dogfight.json](./17403-bomb-who-let-the-dogfight.json) |
@@ -14038,6 +14042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boulder Island | 205862 | [205862-boulder-island.json](./205862-boulder-island.json) |
 | Boulder Logic | 289579 | [289579-boulder-logic.json](./289579-boulder-logic.json) |
 | Boulder Match | 66567 | [66567-boulder-match.json](./66567-boulder-match.json) |
+| Boulder Match 2 | 91510 | [91510-boulder-match-2.json](./91510-boulder-match-2.json) |
 | Boulder Match 3 | 66568 | [66568-boulder-match-3.json](./66568-boulder-match-3.json) |
 | Boulder Match 4 | 66673 | [66673-boulder-match-4.json](./66673-boulder-match-4.json) |
 | Boulder Star | 388055 | [388055-boulder-star.json](./388055-boulder-star.json) |
