@@ -977,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4959,6 +4960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beaming | 406150 | [406150-beaming.json](./406150-beaming.json) |
 | Beaming Stingray | 240820 | [240820-beaming-stingray.json](./240820-beaming-stingray.json) |
 | Beamrider | 5661 | [5661-beamrider.json](./5661-beamrider.json) |
+| Beams | 113950 | [113950-beams.json](./113950-beams.json) |
 | BeamStruggle | 367616 | [367616-beamstruggle.json](./367616-beamstruggle.json) |
 | Bean | 145760 | [145760-bean.json](./145760-bean.json) |
 | Bean | 311237 | [311237-bean.json](./311237-bean.json) |
@@ -6040,6 +6042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beetle Bomp | 52632 | [52632-beetle-bomp.json](./52632-beetle-bomp.json) |
 | Beetle Buggin' | 205959 | [205959-beetle-buggin.json](./205959-beetle-buggin.json) |
 | Beetle Bunt | 142010 | [142010-beetle-bunt.json](./142010-beetle-bunt.json) |
+| Beetle Elf | 113825 | [113825-beetle-elf.json](./113825-beetle-elf.json) |
 | Beetle Hunter | 126245 | [126245-beetle-hunter.json](./126245-beetle-hunter.json) |
 | Beetle Ju | 117668 | [117668-beetle-ju.json](./117668-beetle-ju.json) |
 | Beetle Ju 2 | 239500 | [239500-beetle-ju-2.json](./239500-beetle-ju-2.json) |
@@ -10222,6 +10225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blendkins | 365362 | [365362-blendkins.json](./365362-blendkins.json) |
 | Blendoku | 259559 | [259559-blendoku.json](./259559-blendoku.json) |
 | Blendoku | 38914 | [38914-blendoku.json](./38914-blendoku.json) |
+| Blendoku 2 | 113948 | [113948-blendoku-2.json](./113948-blendoku-2.json) |
 | Blendr | 382601 | [382601-blendr.json](./382601-blendr.json) |
 | Blendy 2 Dolls Factory | 129758 | [129758-blendy-2-dolls-factory.json](./129758-blendy-2-dolls-factory.json) |
 | Blenzzle | 367713 | [367713-blenzzle.json](./367713-blenzzle.json) |
@@ -12933,6 +12937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BombParty | 186047 | [186047-bombparty.json](./186047-bombparty.json) |
 | Bombproof Bob | 241612 | [241612-bombproof-bob.json](./241612-bombproof-bob.json) |
 | Bombrigade: Battlegrounds | 129526 | [129526-bombrigade-battlegrounds.json](./129526-bombrigade-battlegrounds.json) |
+| Bombs Away | 113936 | [113936-bombs-away.json](./113936-bombs-away.json) |
 | Bombs Away | 245147 | [245147-bombs-away.json](./245147-bombs-away.json) |
 | Bombs Away on Barrels | 240839 | [240839-bombs-away-on-barrels.json](./240839-bombs-away-on-barrels.json) |
 | Bombs Away! | 245548 | [245548-bombs-away.json](./245548-bombs-away.json) |
