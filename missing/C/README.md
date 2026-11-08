@@ -1085,6 +1085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campaign Austerlitz | 144835 | [144835-campaign-austerlitz.json](./144835-campaign-austerlitz.json) |
 | Campaign Bautzen | 144832 | [144832-campaign-bautzen.json](./144832-campaign-bautzen.json) |
 | Campaign Clicker | 32444 | [32444-campaign-clicker.json](./32444-campaign-clicker.json) |
+| Campaign Eckmuhl | 127482 | [127482-campaign-eckmuhl.json](./127482-campaign-eckmuhl.json) |
 | Campaign Eylau-Friedland | 144829 | [144829-campaign-eylau-friedland.json](./144829-campaign-eylau-friedland.json) |
 | Campaign Gettysburg | 182261 | [182261-campaign-gettysburg.json](./182261-campaign-gettysburg.json) |
 | Campaign II | 14372 | [14372-campaign-ii.json](./14372-campaign-ii.json) |
@@ -1097,6 +1098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campaign Series Vietnam | 150123 | [150123-campaign-series-vietnam.json](./150123-campaign-series-vietnam.json) |
 | Campaign Series: Middle East 1948-1985 | 59492 | [59492-campaign-series-middle-east-1948-1985.json](./59492-campaign-series-middle-east-1948-1985.json) |
 | Campaign Trail | 309186 | [309186-campaign-trail.json](./309186-campaign-trail.json) |
+| Campaign Wagram | 127483 | [127483-campaign-wagram.json](./127483-campaign-wagram.json) |
 | Campaign Waterloo | 144837 | [144837-campaign-waterloo.json](./144837-campaign-waterloo.json) |
 | Campaign: From North Africa to Northern Europe | 73730 | [73730-campaign-from-north-africa-to-northern-europe.json](./73730-campaign-from-north-africa-to-northern-europe.json) |
 | Campaigns on the Danube | 59498 | [59498-campaigns-on-the-danube.json](./59498-campaigns-on-the-danube.json) |
@@ -8354,6 +8356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Stories: By Candlelight | 416498 | [416498-christmas-stories-by-candlelight.json](./416498-christmas-stories-by-candlelight.json) |
 | Christmas Stories: Clara and the Guiding Star - Collector's Edition | 338520 | [338520-christmas-stories-clara-and-the-guiding-star-collectors-edition.json](./338520-christmas-stories-clara-and-the-guiding-star-collectors-edition.json) |
 | Christmas Stories: Enchanted Express | 139769 | [139769-christmas-stories-enchanted-express.json](./139769-christmas-stories-enchanted-express.json) |
+| Christmas Stories: Enchanted Express - Collector's Edition | 127469 | [127469-christmas-stories-enchanted-express-collectors-edition.json](./127469-christmas-stories-enchanted-express-collectors-edition.json) |
 | Christmas Stories: Hans Christian Andersen's Tin Soldier | 139770 | [139770-christmas-stories-hans-christian-andersens-tin-soldier.json](./139770-christmas-stories-hans-christian-andersens-tin-soldier.json) |
 | Christmas Stories: Hans Christian Andersen's Tin Soldier - Collector's Edition | 76481 | [76481-christmas-stories-hans-christian-andersens-tin-soldier-collectors-edition.json](./76481-christmas-stories-hans-christian-andersens-tin-soldier-collectors-edition.json) |
 | Christmas Stories: Nutcracker | 139771 | [139771-christmas-stories-nutcracker.json](./139771-christmas-stories-nutcracker.json) |
@@ -9484,6 +9487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Loop | 179446 | [179446-city-loop.json](./179446-city-loop.json) |
 | City Mage 3: False Prophecy - Collector's Edition | 417520 | [417520-city-mage-3-false-prophecy-collectors-edition.json](./417520-city-mage-3-false-prophecy-collectors-edition.json) |
 | City Maker | 144220 | [144220-city-maker.json](./144220-city-maker.json) |
+| City Mania | 127491 | [127491-city-mania.json](./127491-city-mania.json) |
 | City Massacre | 220003 | [220003-city-massacre.json](./220003-city-massacre.json) |
 | City Masterplan | 398007 | [398007-city-masterplan.json](./398007-city-masterplan.json) |
 | City Metro Simulator | 219737 | [219737-city-metro-simulator.json](./219737-city-metro-simulator.json) |
@@ -9741,6 +9745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Civita | 310334 | [310334-civita.json](./310334-civita.json) |
 | Civitas | 187380 | [187380-civitas.json](./187380-civitas.json) |
 | Civizard: Majutsu no Keifu | 66211 | [66211-civizard-majutsu-no-keifu.json](./66211-civizard-majutsu-no-keifu.json) |
+| Civlands | 127479 | [127479-civlands.json](./127479-civlands.json) |
 | CivRise | 348459 | [348459-civrise.json](./348459-civrise.json) |
 | CivWorld | 58121 | [58121-civworld.json](./58121-civworld.json) |
 | Ciying | 284265 | [284265-ciying.json](./284265-ciying.json) |
@@ -9825,6 +9830,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clannad Full Voice | 262489 | [262489-clannad-full-voice.json](./262489-clannad-full-voice.json) |
 | Clannad Key Trilogy Premium Box | 166663 | [166663-clannad-key-trilogy-premium-box.json](./166663-clannad-key-trilogy-premium-box.json) |
 | Clannad Side Stories | 34052 | [34052-clannad-side-stories.json](./34052-clannad-side-stories.json) |
+| Clannad: Hikari Mimamoru Sakamichi de - First Volume | 127487 | [127487-clannad-hikari-mimamoru-sakamichi-de-first-volume.json](./127487-clannad-hikari-mimamoru-sakamichi-de-first-volume.json) |
+| Clannad: Hikari Mimamoru Sakamichi de - Last Volume | 127496 | [127496-clannad-hikari-mimamoru-sakamichi-de-last-volume.json](./127496-clannad-hikari-mimamoru-sakamichi-de-last-volume.json) |
 | Clannad: Lost Winter | 166664 | [166664-clannad-lost-winter.json](./166664-clannad-lost-winter.json) |
 | Clannad: The Past Path | 138157 | [138157-clannad-the-past-path.json](./138157-clannad-the-past-path.json) |
 | Clannada: Gensou Shoujo | 253769 | [253769-clannada-gensou-shoujo.json](./253769-clannada-gensou-shoujo.json) |
@@ -11101,6 +11108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clumsy Moose Season | 34314 | [34314-clumsy-moose-season.json](./34314-clumsy-moose-season.json) |
 | Clumsy Ninja | 89108 | [89108-clumsy-ninja.json](./89108-clumsy-ninja.json) |
 | Clumsy Pirates | 22272 | [22272-clumsy-pirates.json](./22272-clumsy-pirates.json) |
+| Clumsy Rush | 127473 | [127473-clumsy-rush.json](./127473-clumsy-rush.json) |
 | Clumsy Rush + Brawl Chess Family Bundle | 218455 | [218455-clumsy-rush-brawl-chess-family-bundle.json](./218455-clumsy-rush-brawl-chess-family-bundle.json) |
 | Clumsy Rush + Cyber Protocol | 218415 | [218415-clumsy-rush-cyber-protocol.json](./218415-clumsy-rush-cyber-protocol.json) |
 | Clumsy Rush: Ultimate Guys | 212682 | [212682-clumsy-rush-ultimate-guys.json](./212682-clumsy-rush-ultimate-guys.json) |
