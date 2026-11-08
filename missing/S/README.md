@@ -19971,7 +19971,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 142578 | [142578-space-hunter.json](./142578-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
@@ -24015,7 +24014,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stack & Sigil | 421229 | [421229-stack-and-sigil.json](./421229-stack-and-sigil.json) |
 | Stack & Spell | 416348 | [416348-stack-and-spell.json](./416348-stack-and-spell.json) |
 | Stack & the Grumblepuff from Above | 286334 | [286334-stack-and-the-grumblepuff-from-above.json](./286334-stack-and-the-grumblepuff-from-above.json) |
+| Stack Attack | 134168 | [134168-stack-attack.json](./134168-stack-attack.json) |
 | Stack Attack | 363635 | [363635-stack-attack.json](./363635-stack-attack.json) |
+| Stack Attack 2 Pro | 134169 | [134169-stack-attack-2-pro.json](./134169-stack-attack-2-pro.json) |
 | Stack Ball | 345833 | [345833-stack-ball.json](./345833-stack-ball.json) |
 | Stack Ball Run! | 262331 | [262331-stack-ball-run.json](./262331-stack-ball-run.json) |
 | Stack Bounce | 302747 | [302747-stack-bounce.json](./302747-stack-bounce.json) |
@@ -32481,6 +32482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Maker | 7339 | [7339-super-mario-maker.json](./7339-super-mario-maker.json) |
 | Super Mario Maker 2 | 115276 | [115276-super-mario-maker-2.json](./115276-super-mario-maker-2.json) |
 | Super Mario Maker 2: A Legendary Update | 230104 | [230104-super-mario-maker-2-a-legendary-update.json](./230104-super-mario-maker-2-a-legendary-update.json) |
+| Super Mario Maker 2: Limited Edition | 134158 | [134158-super-mario-maker-2-limited-edition.json](./134158-super-mario-maker-2-limited-edition.json) |
 | Super Mario Maker 2: World Maker Update | 230105 | [230105-super-mario-maker-2-world-maker-update.json](./230105-super-mario-maker-2-world-maker-update.json) |
 | Super Mario Maker for Nintendo 3DS | 26157 | [26157-super-mario-maker-for-nintendo-3ds.json](./26157-super-mario-maker-for-nintendo-3ds.json) |
 | Super Mario Maker for Nspire | 262660 | [262660-super-mario-maker-for-nspire.json](./262660-super-mario-maker-for-nspire.json) |
@@ -34208,6 +34210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superman: Shadow of Apokolips | 4190 | [4190-superman-shadow-of-apokolips.json](./4190-superman-shadow-of-apokolips.json) |
 | Superman: The Greatest Hero | 72996 | [72996-superman-the-greatest-hero.json](./72996-superman-the-greatest-hero.json) |
 | Superman: The Man of Steel | 12787 | [12787-superman-the-man-of-steel.json](./12787-superman-the-man-of-steel.json) |
+| Superman: The Man of Steel | 134153 | [134153-superman-the-man-of-steel.json](./134153-superman-the-man-of-steel.json) |
 | Superman: The Man of Steel | 217736 | [217736-superman-the-man-of-steel.json](./217736-superman-the-man-of-steel.json) |
 | Superman: The Man of Steel | 6183 | [6183-superman-the-man-of-steel.json](./6183-superman-the-man-of-steel.json) |
 | Superman: The Mysterious Mr. Mist | 73324 | [73324-superman-the-mysterious-mr-mist.json](./73324-superman-the-mysterious-mr-mist.json) |
