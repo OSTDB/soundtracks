@@ -976,7 +976,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4530,6 +4529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlestar Galactica Deadlock: Armistice | 171015 | [171015-battlestar-galactica-deadlock-armistice.json](./171015-battlestar-galactica-deadlock-armistice.json) |
 | Battlestar Galactica Deadlock: Ghost Fleet Offensive | 129481 | [129481-battlestar-galactica-deadlock-ghost-fleet-offensive.json](./129481-battlestar-galactica-deadlock-ghost-fleet-offensive.json) |
 | Battlestar Galactica Deadlock: Reinforcement Pack | 171016 | [171016-battlestar-galactica-deadlock-reinforcement-pack.json](./171016-battlestar-galactica-deadlock-reinforcement-pack.json) |
+| Battlestar Galactica Deadlock: Resurrection | 124949 | [124949-battlestar-galactica-deadlock-resurrection.json](./124949-battlestar-galactica-deadlock-resurrection.json) |
 | Battlestar Galactica Deadlock: Sin and Sacrifice | 115672 | [115672-battlestar-galactica-deadlock-sin-and-sacrifice.json](./115672-battlestar-galactica-deadlock-sin-and-sacrifice.json) |
 | Battlestar Galactica Deadlock: The Broken Alliance | 129482 | [129482-battlestar-galactica-deadlock-the-broken-alliance.json](./129482-battlestar-galactica-deadlock-the-broken-alliance.json) |
 | Battlestar Galactica Online | 23527 | [23527-battlestar-galactica-online.json](./23527-battlestar-galactica-online.json) |
@@ -4561,6 +4561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleTanx | 3421 | [3421-battletanx.json](./3421-battletanx.json) |
 | BattleTanx | 47686 | [47686-battletanx.json](./47686-battletanx.json) |
 | BattleTanx: Global Assault | 47685 | [47685-battletanx-global-assault.json](./47685-battletanx-global-assault.json) |
+| Battletech: Digital Deluxe Edition | 124900 | [124900-battletech-digital-deluxe-edition.json](./124900-battletech-digital-deluxe-edition.json) |
 | Battletech: Firestorm | 60622 | [60622-battletech-firestorm.json](./60622-battletech-firestorm.json) |
 | BattleTech: Flashpoint | 107258 | [107258-battletech-flashpoint.json](./107258-battletech-flashpoint.json) |
 | Battletech: Gray Death Legion | 128886 | [128886-battletech-gray-death-legion.json](./128886-battletech-gray-death-legion.json) |
@@ -15903,6 +15904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brigadoon: The Quest of Time | 204485 | [204485-brigadoon-the-quest-of-time.json](./204485-brigadoon-the-quest-of-time.json) |
 | Brigador | 13361 | [13361-brigador.json](./13361-brigador.json) |
 | Brigador Killers | 119625 | [119625-brigador-killers.json](./119625-brigador-killers.json) |
+| Brigador: Up-Armored Deluxe | 124924 | [124924-brigador-up-armored-deluxe.json](./124924-brigador-up-armored-deluxe.json) |
 | Brigador: Up-Armored Edition | 154206 | [154206-brigador-up-armored-edition.json](./154206-brigador-up-armored-edition.json) |
 | Brigand: Battles | 221564 | [221564-brigand-battles.json](./221564-brigand-battles.json) |
 | Brigand: Nightmare | 314725 | [314725-brigand-nightmare.json](./314725-brigand-nightmare.json) |
