@@ -5806,6 +5806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty and the Beast | 211430 | [211430-beauty-and-the-beast.json](./211430-beauty-and-the-beast.json) |
 | Beauty and the Beast | 292649 | [292649-beauty-and-the-beast.json](./292649-beauty-and-the-beast.json) |
 | Beauty and the Beast | 63376 | [63376-beauty-and-the-beast.json](./63376-beauty-and-the-beast.json) |
+| Beauty and the Beast | 87474 | [87474-beauty-and-the-beast.json](./87474-beauty-and-the-beast.json) |
 | Beauty and the Beast: Hidden Object Fairy Tale | 137807 | [137807-beauty-and-the-beast-hidden-object-fairy-tale.json](./137807-beauty-and-the-beast-hidden-object-fairy-tale.json) |
 | Beauty and The Beast: Interactive Book | 256590 | [256590-beauty-and-the-beast-interactive-book.json](./256590-beauty-and-the-beast-interactive-book.json) |
 | Beauty and the Beast: Perfect Match | 31554 | [31554-beauty-and-the-beast-perfect-match.json](./31554-beauty-and-the-beast-perfect-match.json) |
@@ -5820,6 +5821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beauty Factory | 52447 | [52447-beauty-factory.json](./52447-beauty-factory.json) |
 | Beauty from Wisdom | 236372 | [236372-beauty-from-wisdom.json](./236372-beauty-from-wisdom.json) |
 | Beauty Girl Chronicles: Island Obstacle Challenge | 302797 | [302797-beauty-girl-chronicles-island-obstacle-challenge.json](./302797-beauty-girl-chronicles-island-obstacle-challenge.json) |
+| Beauty Hunt | 87455 | [87455-beauty-hunt.json](./87455-beauty-hunt.json) |
 | Beauty Jigsaw | 307887 | [307887-beauty-jigsaw.json](./307887-beauty-jigsaw.json) |
 | Beauty Jigsaw: Image Pack | 357874 | [357874-beauty-jigsaw-image-pack.json](./357874-beauty-jigsaw-image-pack.json) |
 | Beauty Lawyer Victoria 2 | 200058 | [200058-beauty-lawyer-victoria-2.json](./200058-beauty-lawyer-victoria-2.json) |
@@ -7922,6 +7924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike Offroad Simulator | 248033 | [248033-bike-offroad-simulator.json](./248033-bike-offroad-simulator.json) |
 | Bike Park Simulator: BMX, Dirt Jump & MTB | 326473 | [326473-bike-park-simulator-bmx-dirt-jump-and-mtb.json](./326473-bike-park-simulator-bmx-dirt-jump-and-mtb.json) |
 | Bike Race Pro: Motor Racing | 87346 | [87346-bike-race-pro-motor-racing.json](./87346-bike-race-pro-motor-racing.json) |
+| Bike Race: Motorcycle Racing | 87655 | [87655-bike-race-motorcycle-racing.json](./87655-bike-race-motorcycle-racing.json) |
 | Bike Racer 2018 | 105866 | [105866-bike-racer-2018.json](./105866-bike-racer-2018.json) |
 | Bike Racing | 234695 | [234695-bike-racing.json](./234695-bike-racing.json) |
 | Bike Racing | 91109 | [91109-bike-racing.json](./91109-bike-racing.json) |
@@ -16961,6 +16964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Shooter 2: Smug the Pug | 124341 | [124341-bubble-shooter-2-smug-the-pug.json](./124341-bubble-shooter-2-smug-the-pug.json) |
 | Bubble Shooter Adventures | 341019 | [341019-bubble-shooter-adventures.json](./341019-bubble-shooter-adventures.json) |
 | Bubble Shooter Blast | 108631 | [108631-bubble-shooter-blast.json](./108631-bubble-shooter-blast.json) |
+| Bubble Shooter by GameTaco | 87519 | [87519-bubble-shooter-by-gametaco.json](./87519-bubble-shooter-by-gametaco.json) |
 | Bubble Shooter DX | 114186 | [114186-bubble-shooter-dx.json](./114186-bubble-shooter-dx.json) |
 | Bubble Shooter FX | 168680 | [168680-bubble-shooter-fx.json](./168680-bubble-shooter-fx.json) |
 | Bubble Shooter Mission | 102576 | [102576-bubble-shooter-mission.json](./102576-bubble-shooter-mission.json) |
@@ -17432,6 +17436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build and Drive Racing | 241305 | [241305-build-and-drive-racing.json](./241305-build-and-drive-racing.json) |
 | Build and Grow | 185301 | [185301-build-and-grow.json](./185301-build-and-grow.json) |
 | Build and Play | 91232 | [91232-build-and-play.json](./91232-build-and-play.json) |
+| Build and Play 3D: Planes, Trains, Robots and More | 87445 | [87445-build-and-play-3d-planes-trains-robots-and-more.json](./87445-build-and-play-3d-planes-trains-robots-and-more.json) |
 | Build and Play 3D: Rockets, Helicopters, Submarines and More | 109214 | [109214-build-and-play-3d-rockets-helicopters-submarines-and-more.json](./109214-build-and-play-3d-rockets-helicopters-submarines-and-more.json) |
 | Build and Play: Planes | 108912 | [108912-build-and-play-planes.json](./108912-build-and-play-planes.json) |
 | Build and Shoot | 68438 | [68438-build-and-shoot.json](./68438-build-and-shoot.json) |
