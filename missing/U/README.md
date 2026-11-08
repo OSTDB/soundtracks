@@ -1311,6 +1311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unblock Now | 336394 | [336394-unblock-now.json](./336394-unblock-now.json) |
 | Unblock the River | 233994 | [233994-unblock-the-river.json](./233994-unblock-the-river.json) |
 | Unblock: The Parking | 105245 | [105245-unblock-the-parking.json](./105245-unblock-the-parking.json) |
+| Unblockable | 114614 | [114614-unblockable.json](./114614-unblockable.json) |
 | Unblocking | 195200 | [195200-unblocking.json](./195200-unblocking.json) |
 | Unblocky | 67907 | [67907-unblocky.json](./67907-unblocky.json) |
 | Unblocky 2 | 68367 | [68367-unblocky-2.json](./68367-unblocky-2.json) |
