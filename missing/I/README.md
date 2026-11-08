@@ -2888,6 +2888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Between Games | 82003 | [82003-in-between-games.json](./82003-in-between-games.json) |
 | In Blood | 120749 | [120749-in-blood.json](./120749-in-blood.json) |
 | In Bred With Rednex | 66088 | [66088-in-bred-with-rednex.json](./66088-in-bred-with-rednex.json) |
+| In Car Speed Test: Cops Edition | 88361 | [88361-in-car-speed-test-cops-edition.json](./88361-in-car-speed-test-cops-edition.json) |
 | In Case of Emergency, Release Raptor | 32619 | [32619-in-case-of-emergency-release-raptor.json](./32619-in-case-of-emergency-release-raptor.json) |
 | In Cell | 230928 | [230928-in-cell.json](./230928-in-cell.json) |
 | In Character | 128781 | [128781-in-character.json](./128781-in-character.json) |
@@ -3603,6 +3604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Industry Idle: Expansion Pack 2 | 227055 | [227055-industry-idle-expansion-pack-2.json](./227055-industry-idle-expansion-pack-2.json) |
 | Industry Manager: Future Technologies | 25808 | [25808-industry-manager-future-technologies.json](./25808-industry-manager-future-technologies.json) |
 | Industry Mania | 181097 | [181097-industry-mania.json](./181097-industry-mania.json) |
+| Industry Transporter 3D | 88409 | [88409-industry-transporter-3d.json](./88409-industry-transporter-3d.json) |
 | Industry Transporters | 35102 | [35102-industry-transporters.json](./35102-industry-transporters.json) |
 | IndustryPlayer | 79239 | [79239-industryplayer.json](./79239-industryplayer.json) |
 | Indy 4 | 18583 | [18583-indy-4.json](./18583-indy-4.json) |
@@ -4596,6 +4598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insane Rules | 284615 | [284615-insane-rules.json](./284615-insane-rules.json) |
 | Insane Town | 210971 | [210971-insane-town.json](./210971-insane-town.json) |
 | Insane West | 117564 | [117564-insane-west.json](./117564-insane-west.json) |
+| Insane: Lucky Block Mod Edition | 88369 | [88369-insane-lucky-block-mod-edition.json](./88369-insane-lucky-block-mod-edition.json) |
 | Insanely Twisted Shadow Planet | 6168 | [6168-insanely-twisted-shadow-planet.json](./6168-insanely-twisted-shadow-planet.json) |
 | Insania | 132738 | [132738-insania.json](./132738-insania.json) |
 | Insaniam | 190927 | [190927-insaniam.json](./190927-insaniam.json) |
@@ -5574,6 +5577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invaders From Mars | 295970 | [295970-invaders-from-mars.json](./295970-invaders-from-mars.json) |
 | Invaders from the Third Dimension | 253524 | [253524-invaders-from-the-third-dimension.json](./253524-invaders-from-the-third-dimension.json) |
 | Invaders From Uranus | 269153 | [269153-invaders-from-uranus.json](./269153-invaders-from-uranus.json) |
+| Invaders Inc. - Alien Plague | 88371 | [88371-invaders-inc-alien-plague.json](./88371-invaders-inc-alien-plague.json) |
 | Invaders of the Mummy's Tomb | 300011 | [300011-invaders-of-the-mummys-tomb.json](./300011-invaders-of-the-mummys-tomb.json) |
 | Invaders Revenge | 41195 | [41195-invaders-revenge.json](./41195-invaders-revenge.json) |
 | Invaders Tower Defense Online | 292400 | [292400-invaders-tower-defense-online.json](./292400-invaders-tower-defense-online.json) |
@@ -6850,6 +6854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It's Either Them Or Us | 298812 | [298812-its-either-them-or-us.json](./298812-its-either-them-or-us.json) |
 | It's Fall | 141491 | [141491-its-fall.json](./141491-its-fall.json) |
 | It's Fine | 382473 | [382473-its-fine.json](./382473-its-fine.json) |
+| It's Full of Sparks | 88375 | [88375-its-full-of-sparks.json](./88375-its-full-of-sparks.json) |
 | It's Full of Stars | 204098 | [204098-its-full-of-stars.json](./204098-its-full-of-stars.json) |
 | It's good to be a pirate | 110780 | [110780-its-good-to-be-a-pirate.json](./110780-its-good-to-be-a-pirate.json) |
 | It's Happening Again. | 241482 | [241482-its-happening-again.json](./241482-its-happening-again.json) |
