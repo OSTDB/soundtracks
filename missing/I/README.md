@@ -3987,6 +3987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4211,6 +4212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infocus: Extreme Bike | 175294 | [175294-infocus-extreme-bike.json](./175294-infocus-extreme-bike.json) |
 | Infodroid | 28857 | [28857-infodroid.json](./28857-infodroid.json) |
 | Infogrind | 401000 | [401000-infogrind.json](./401000-infogrind.json) |
+| Infomania | 95523 | [95523-infomania.json](./95523-infomania.json) |
 | Infommi | 108363 | [108363-infommi.json](./108363-infommi.json) |
 | Informal Detective | 119661 | [119661-informal-detective.json](./119661-informal-detective.json) |
 | Informaticus | 343876 | [343876-informaticus.json](./343876-informaticus.json) |
@@ -6963,6 +6965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iTownGamePlay UNIVERSE | 90652 | [90652-itowngameplay-universe.json](./90652-itowngameplay-universe.json) |
 | iTraceur - Parkour / Freerunning Platform Game | 100643 | [100643-itraceur-parkour-freerunning-platform-game.json](./100643-itraceur-parkour-freerunning-platform-game.json) |
 | iTraffic Light | 88454 | [88454-itraffic-light.json](./88454-itraffic-light.json) |
+| iTrash | 95535 | [95535-itrash.json](./95535-itrash.json) |
 | ITribe | 363136 | [363136-itribe.json](./363136-itribe.json) |
 | Itrill | 260769 | [260769-itrill.json](./260769-itrill.json) |
 | Itro: In the Right Order | 59668 | [59668-itro-in-the-right-order.json](./59668-itro-in-the-right-order.json) |
