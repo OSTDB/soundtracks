@@ -20321,6 +20321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Qube | 200022 | [200022-space-qube.json](./200022-space-qube.json) |
 | Space Query | 292351 | [292351-space-query.json](./292351-space-query.json) |
 | Space Quest 0: Replicated | 349901 | [349901-space-quest-0-replicated.json](./349901-space-quest-0-replicated.json) |
+| Space Quest 1+2+3 | 124934 | [124934-space-quest-1-2-3.json](./124934-space-quest-1-2-3.json) |
 | Space Quest 4+5+6 | 154934 | [154934-space-quest-4-5-6.json](./154934-space-quest-4-5-6.json) |
 | Space Quest I: Roger Wilco in the Sarien Encounter | 77194 | [77194-space-quest-i-roger-wilco-in-the-sarien-encounter.json](./77194-space-quest-i-roger-wilco-in-the-sarien-encounter.json) |
 | Space Quest II: Roger Wilco in Vohaul's Revenge | 84150 | [84150-space-quest-ii-roger-wilco-in-vohauls-revenge.json](./84150-space-quest-ii-roger-wilco-in-vohauls-revenge.json) |
@@ -25713,6 +25714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starpoint Gemini Warlords | 23905 | [23905-starpoint-gemini-warlords.json](./23905-starpoint-gemini-warlords.json) |
 | Starpoint Gemini Warlords - Cycle of Warfare | 124829 | [124829-starpoint-gemini-warlords-cycle-of-warfare.json](./124829-starpoint-gemini-warlords-cycle-of-warfare.json) |
 | Starpoint Gemini Warlords - Deadly Dozen | 51896 | [51896-starpoint-gemini-warlords-deadly-dozen.json](./51896-starpoint-gemini-warlords-deadly-dozen.json) |
+| Starpoint Gemini Warlords - Titans Return | 124923 | [124923-starpoint-gemini-warlords-titans-return.json](./124923-starpoint-gemini-warlords-titans-return.json) |
 | Starpoint Gemini Warlords: Digital Deluxe Edition | 51895 | [51895-starpoint-gemini-warlords-digital-deluxe-edition.json](./51895-starpoint-gemini-warlords-digital-deluxe-edition.json) |
 | Starpoint Gemini Warlords: Endpoint | 124780 | [124780-starpoint-gemini-warlords-endpoint.json](./124780-starpoint-gemini-warlords-endpoint.json) |
 | Starpoly | 296261 | [296261-starpoly.json](./296261-starpoly.json) |
@@ -34995,6 +34997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Mars: Martian Express | 199765 | [199765-surviving-mars-martian-express.json](./199765-surviving-mars-martian-express.json) |
 | Surviving Mars: Mysteries Resupply Pack | 154446 | [154446-surviving-mars-mysteries-resupply-pack.json](./154446-surviving-mars-mysteries-resupply-pack.json) |
 | Surviving Mars: Pioneer | 335133 | [335133-surviving-mars-pioneer.json](./335133-surviving-mars-pioneer.json) |
+| Surviving Mars: Project Laika | 124952 | [124952-surviving-mars-project-laika.json](./124952-surviving-mars-project-laika.json) |
 | Surviving Mars: Relaunched - Feeding the Future | 414770 | [414770-surviving-mars-relaunched-feeding-the-future.json](./414770-surviving-mars-relaunched-feeding-the-future.json) |
 | Surviving Mars: Starter Bundle | 254284 | [254284-surviving-mars-starter-bundle.json](./254284-surviving-mars-starter-bundle.json) |
 | Surviving Medieval | 118402 | [118402-surviving-medieval.json](./118402-surviving-medieval.json) |
@@ -36174,6 +36177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of the Stars: The Pit | 10938 | [10938-sword-of-the-stars-the-pit.json](./10938-sword-of-the-stars-the-pit.json) |
 | Sword of the Stars: The Pit - Juggernaut | 8779 | [8779-sword-of-the-stars-the-pit-juggernaut.json](./8779-sword-of-the-stars-the-pit-juggernaut.json) |
 | Sword of the Stars: The Pit - Mind Games | 10950 | [10950-sword-of-the-stars-the-pit-mind-games.json](./10950-sword-of-the-stars-the-pit-mind-games.json) |
+| Sword of the Stars: The Pit - Osmium Edition | 124915 | [124915-sword-of-the-stars-the-pit-osmium-edition.json](./124915-sword-of-the-stars-the-pit-osmium-edition.json) |
 | Sword of the Stars: The Pit - Osmium Edition: Juggernaut | 125000 | [125000-sword-of-the-stars-the-pit-osmium-edition-juggernaut.json](./125000-sword-of-the-stars-the-pit-osmium-edition-juggernaut.json) |
 | Sword of the Stars: The Pit 2 | 178077 | [178077-sword-of-the-stars-the-pit-2.json](./178077-sword-of-the-stars-the-pit-2.json) |
 | Sword of the Stars: The Pit Gold Edition - Juggernaut | 51932 | [51932-sword-of-the-stars-the-pit-gold-edition-juggernaut.json](./51932-sword-of-the-stars-the-pit-gold-edition-juggernaut.json) |
