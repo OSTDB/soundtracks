@@ -735,15 +735,23 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Central: Rick James - "Super Freak" | 353195 | [353195-dance-central-rick-james-super-freak.json](./353195-dance-central-rick-james-super-freak.json) |
 | Dance Collider | 107360 | [107360-dance-collider.json](./107360-dance-collider.json) |
 | Dance Cube | 277186 | [277186-dance-cube.json](./277186-dance-cube.json) |
+| Dance Dance Revolution | 135396 | [135396-dance-dance-revolution.json](./135396-dance-dance-revolution.json) |
 | Dance Dance Revolution | 135549 | [135549-dance-dance-revolution.json](./135549-dance-dance-revolution.json) |
 | Dance Dance Revolution | 140274 | [140274-dance-dance-revolution.json](./140274-dance-dance-revolution.json) |
 | Dance Dance Revolution | 250255 | [250255-dance-dance-revolution.json](./250255-dance-dance-revolution.json) |
 | Dance Dance Revolution | 94097 | [94097-dance-dance-revolution.json](./94097-dance-dance-revolution.json) |
 | Dance Dance Revolution 2nd Mix: Dreamcast Edition | 268647 | [268647-dance-dance-revolution-2nd-mix-dreamcast-edition.json](./268647-dance-dance-revolution-2nd-mix-dreamcast-edition.json) |
 | Dance Dance Revolution 2ndMix | 77640 | [77640-dance-dance-revolution-2ndmix.json](./77640-dance-dance-revolution-2ndmix.json) |
+| Dance Dance Revolution 2ndMix Link Version | 135374 | [135374-dance-dance-revolution-2ndmix-link-version.json](./135374-dance-dance-revolution-2ndmix-link-version.json) |
+| Dance Dance Revolution 2ndRemix | 135375 | [135375-dance-dance-revolution-2ndremix.json](./135375-dance-dance-revolution-2ndremix.json) |
+| Dance Dance Revolution 2ndRemix Append Club Version Vol. 2 | 135376 | [135376-dance-dance-revolution-2ndremix-append-club-version-vol-2.json](./135376-dance-dance-revolution-2ndremix-append-club-version-vol-2.json) |
 | Dance Dance Revolution 2ndReMix: Append Club Version Vol. 1 | 132807 | [132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json](./132807-dance-dance-revolution-2ndremix-append-club-version-vol-1.json) |
 | Dance Dance Revolution 3rdMix | 73426 | [73426-dance-dance-revolution-3rdmix.json](./73426-dance-dance-revolution-3rdmix.json) |
+| Dance Dance Revolution 3rdMix Plus | 135384 | [135384-dance-dance-revolution-3rdmix-plus.json](./135384-dance-dance-revolution-3rdmix-plus.json) |
+| Dance Dance Revolution 3rdMix Ver.Korea | 135385 | [135385-dance-dance-revolution-3rdmix-ver-korea.json](./135385-dance-dance-revolution-3rdmix-ver-korea.json) |
+| Dance Dance Revolution 3rdMix Ver.Korea2 | 135387 | [135387-dance-dance-revolution-3rdmix-ver-korea2.json](./135387-dance-dance-revolution-3rdmix-ver-korea2.json) |
 | Dance Dance Revolution 4thMix | 79708 | [79708-dance-dance-revolution-4thmix.json](./79708-dance-dance-revolution-4thmix.json) |
+| Dance Dance Revolution 4thMix Plus | 135393 | [135393-dance-dance-revolution-4thmix-plus.json](./135393-dance-dance-revolution-4thmix-plus.json) |
 | Dance Dance Revolution 5thMix | 3678 | [3678-dance-dance-revolution-5thmix.json](./3678-dance-dance-revolution-5thmix.json) |
 | Dance Dance Revolution A | 58120 | [58120-dance-dance-revolution-a.json](./58120-dance-dance-revolution-a.json) |
 | Dance Dance Revolution A20 | 124446 | [124446-dance-dance-revolution-a20.json](./124446-dance-dance-revolution-a20.json) |
@@ -767,6 +775,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution Party Collection | 139244 | [139244-dance-dance-revolution-party-collection.json](./139244-dance-dance-revolution-party-collection.json) |
 | Dance Dance Revolution S | 399976 | [399976-dance-dance-revolution-s.json](./399976-dance-dance-revolution-s.json) |
 | Dance Dance Revolution Solo 2000 | 135510 | [135510-dance-dance-revolution-solo-2000.json](./135510-dance-dance-revolution-solo-2000.json) |
+| Dance Dance Revolution Solo 4thMix | 135394 | [135394-dance-dance-revolution-solo-4thmix.json](./135394-dance-dance-revolution-solo-4thmix.json) |
+| Dance Dance Revolution Solo 4thMix Plus | 135395 | [135395-dance-dance-revolution-solo-4thmix-plus.json](./135395-dance-dance-revolution-solo-4thmix-plus.json) |
 | Dance Dance Revolution Solo Bass Mix | 135509 | [135509-dance-dance-revolution-solo-bass-mix.json](./135509-dance-dance-revolution-solo-bass-mix.json) |
 | Dance Dance Revolution STR!KE | 128003 | [128003-dance-dance-revolution-str-ke.json](./128003-dance-dance-revolution-str-ke.json) |
 | Dance Dance Revolution Supernova | 6779 | [6779-dance-dance-revolution-supernova.json](./6779-dance-dance-revolution-supernova.json) |
@@ -915,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dancing Stage featuring Dreams Come True | 69572 | [69572-dancing-stage-featuring-dreams-come-true.json](./69572-dancing-stage-featuring-dreams-come-true.json) |
 | Dancing Stage featuring True Kiss Destination | 132805 | [132805-dancing-stage-featuring-true-kiss-destination.json](./132805-dancing-stage-featuring-true-kiss-destination.json) |
 | Dancing Stage Fusion | 22296 | [22296-dancing-stage-fusion.json](./22296-dancing-stage-fusion.json) |
+| Dancing Stage Internet Ranking | 135392 | [135392-dancing-stage-internet-ranking.json](./135392-dancing-stage-internet-ranking.json) |
 | Dancing Stage Max | 62839 | [62839-dancing-stage-max.json](./62839-dancing-stage-max.json) |
 | Dancing Stage MegaMix | 225750 | [225750-dancing-stage-megamix.json](./225750-dancing-stage-megamix.json) |
 | Dancing Stage Party Edition | 68981 | [68981-dancing-stage-party-edition.json](./68981-dancing-stage-party-edition.json) |
@@ -10001,6 +10012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diorama Builder: The Museum | 357154 | [357154-diorama-builder-the-museum.json](./357154-diorama-builder-the-museum.json) |
 | Diorama Detective | 121252 | [121252-diorama-detective.json](./121252-diorama-detective.json) |
 | Diorama Drift | 296897 | [296897-diorama-drift.json](./296897-diorama-drift.json) |
+| Diorama Knight | 135413 | [135413-diorama-knight.json](./135413-diorama-knight.json) |
 | Diorama Maker | 291779 | [291779-diorama-maker.json](./291779-diorama-maker.json) |
 | Diorama No.1 - Blocked In | 33799 | [33799-diorama-no-1-blocked-in.json](./33799-diorama-no-1-blocked-in.json) |
 | Diorama No.3 : The Marchland | 33798 | [33798-diorama-no-3-the-marchland.json](./33798-diorama-no-3-the-marchland.json) |
@@ -18230,6 +18242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Amanojaku | 204675 | [204675-dungeon-amanojaku.json](./204675-dungeon-amanojaku.json) |
 | Dungeon and Craft | 252517 | [252517-dungeon-and-craft.json](./252517-dungeon-and-craft.json) |
 | Dungeon And Darkness | 332562 | [332562-dungeon-and-darkness.json](./332562-dungeon-and-darkness.json) |
+| Dungeon and Gravestone | 135414 | [135414-dungeon-and-gravestone.json](./135414-dungeon-and-gravestone.json) |
 | Dungeon and Puzzles | 142267 | [142267-dungeon-and-puzzles.json](./142267-dungeon-and-puzzles.json) |
 | Dungeon Antiqua | 318329 | [318329-dungeon-antiqua.json](./318329-dungeon-antiqua.json) |
 | Dungeon Antiqua 2 | 384193 | [384193-dungeon-antiqua-2.json](./384193-dungeon-antiqua-2.json) |
