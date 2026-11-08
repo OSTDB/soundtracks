@@ -1642,6 +1642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Warrior Diamond Heart | 266691 | [266691-magical-warrior-diamond-heart.json](./266691-magical-warrior-diamond-heart.json) |
 | Magical Warrior Diamond Heart: Alex Route DLC | 293458 | [293458-magical-warrior-diamond-heart-alex-route-dlc.json](./293458-magical-warrior-diamond-heart-alex-route-dlc.json) |
 | Magical Warrior Diamond Heart: Liam Route DLC | 293459 | [293459-magical-warrior-diamond-heart-liam-route-dlc.json](./293459-magical-warrior-diamond-heart-liam-route-dlc.json) |
+| Magical Warrior Rin: The Forbidden Alchemist Kira | 82289 | [82289-magical-warrior-rin-the-forbidden-alchemist-kira.json](./82289-magical-warrior-rin-the-forbidden-alchemist-kira.json) |
 | Magical Whip: Wizards of Phantasmal Forest | 65562 | [65562-magical-whip-wizards-of-phantasmal-forest.json](./65562-magical-whip-wizards-of-phantasmal-forest.json) |
 | Magical Witch Bell and Her Non-Magical Friends | 177884 | [177884-magical-witch-bell-and-her-non-magical-friends.json](./177884-magical-witch-bell-and-her-non-magical-friends.json) |
 | Magical x Spiral | 31488 | [31488-magical-x-spiral.json](./31488-magical-x-spiral.json) |
@@ -1990,8 +1991,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Girl | 89013 | [89013-mahjong-girl.json](./89013-mahjong-girl.json) |
 | Mahjong Girl Kshity-Gurpa | 379045 | [379045-mahjong-girl-kshity-gurpa.json](./379045-mahjong-girl-kshity-gurpa.json) |
 | Mahjong Gokuu Special | 37677 | [37677-mahjong-gokuu-special.json](./37677-mahjong-gokuu-special.json) |
+| Mahjong Gokuu Taisei | 82263 | [82263-mahjong-gokuu-taisei.json](./82263-mahjong-gokuu-taisei.json) |
 | Mahjong Gokuu Tenjiku | 4312 | [4312-mahjong-gokuu-tenjiku.json](./4312-mahjong-gokuu-tenjiku.json) |
 | Mahjong Gokuu Tenjiku | 44443 | [44443-mahjong-gokuu-tenjiku.json](./44443-mahjong-gokuu-tenjiku.json) |
+| Mahjong Gokuu Tenjiku 99 | 82262 | [82262-mahjong-gokuu-tenjiku-99.json](./82262-mahjong-gokuu-tenjiku-99.json) |
 | Mahjong Gold | 52578 | [52578-mahjong-gold.json](./52578-mahjong-gold.json) |
 | Mahjong Gold 2: Pirates Island | 150649 | [150649-mahjong-gold-2-pirates-island.json](./150649-mahjong-gold-2-pirates-island.json) |
 | Mahjong Hana no Momoko Gumi | 57595 | [57595-mahjong-hana-no-momoko-gumi.json](./57595-mahjong-hana-no-momoko-gumi.json) |
@@ -2082,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Solitaire Refresh: Ex Panels | 170928 | [170928-mahjong-solitaire-refresh-ex-panels.json](./170928-mahjong-solitaire-refresh-ex-panels.json) |
 | Mahjong Solitaire: Tile | 175501 | [175501-mahjong-solitaire-tile.json](./175501-mahjong-solitaire-tile.json) |
 | Mahjong Soul | 117263 | [117263-mahjong-soul.json](./117263-mahjong-soul.json) |
+| Mahjong Station Mazin | 82273 | [82273-mahjong-station-mazin.json](./82273-mahjong-station-mazin.json) |
 | Mahjong Stories: Vampire Romance | 115874 | [115874-mahjong-stories-vampire-romance.json](./115874-mahjong-stories-vampire-romance.json) |
 | Mahjong Strip Solitaire: Harem Guild | 286410 | [286410-mahjong-strip-solitaire-harem-guild.json](./286410-mahjong-strip-solitaire-harem-guild.json) |
 | Mahjong Sword: Princess Quest | 255443 | [255443-mahjong-sword-princess-quest.json](./255443-mahjong-sword-princess-quest.json) |
@@ -2097,6 +2101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Tales: Ancient Wisdom | 52577 | [52577-mahjong-tales-ancient-wisdom.json](./52577-mahjong-tales-ancient-wisdom.json) |
 | MahJong Time | 102495 | [102495-mahjong-time.json](./102495-mahjong-time.json) |
 | Mahjong Titan | 83415 | [83415-mahjong-titan.json](./83415-mahjong-titan.json) |
+| Mahjong Touryuumon | 82265 | [82265-mahjong-touryuumon.json](./82265-mahjong-touryuumon.json) |
 | Mahjong Towers | 341077 | [341077-mahjong-towers.json](./341077-mahjong-towers.json) |
 | Mahjong Trap | 115717 | [115717-mahjong-trap.json](./115717-mahjong-trap.json) |
 | Mahjong Travel | 252285 | [252285-mahjong-travel.json](./252285-mahjong-travel.json) |
@@ -15862,6 +15867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monochrome RPG Episode 1: The Maniacal Morning | 152894 | [152894-monochrome-rpg-episode-1-the-maniacal-morning.json](./152894-monochrome-rpg-episode-1-the-maniacal-morning.json) |
 | Monochrome Valentine | 183576 | [183576-monochrome-valentine.json](./183576-monochrome-valentine.json) |
 | Monochrome World | 133104 | [133104-monochrome-world.json](./133104-monochrome-world.json) |
+| MonoChronicle | 82288 | [82288-monochronicle.json](./82288-monochronicle.json) |
 | Monochrono | 57937 | [57937-monochrono.json](./57937-monochrono.json) |
 | Monocity | 220680 | [220680-monocity.json](./220680-monocity.json) |
 | Monocre | 396637 | [396637-monocre.json](./396637-monocre.json) |
@@ -21307,6 +21313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Life: Pet Vet | 220875 | [220875-my-life-pet-vet.json](./220875-my-life-pet-vet.json) |
 | My Life: Riding Stables 3 | 221690 | [221690-my-life-riding-stables-3.json](./221690-my-life-riding-stables-3.json) |
 | My Life: Zoo Vet | 325399 | [325399-my-life-zoo-vet.json](./325399-my-life-zoo-vet.json) |
+| My Light In The Dark | 82295 | [82295-my-light-in-the-dark.json](./82295-my-light-in-the-dark.json) |
 | My Lil Afterlife | 347757 | [347757-my-lil-afterlife.json](./347757-my-lil-afterlife.json) |
 | My Lil Horror | 168168 | [168168-my-lil-horror.json](./168168-my-lil-horror.json) |
 | My Lil' Donut | 31971 | [31971-my-lil-donut.json](./31971-my-lil-donut.json) |
