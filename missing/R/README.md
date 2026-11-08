@@ -2343,6 +2343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravensword: Shadowlands | 7196 | [7196-ravensword-shadowlands.json](./7196-ravensword-shadowlands.json) |
 | Ravensword: The Fallen King | 61031 | [61031-ravensword-the-fallen-king.json](./61031-ravensword-the-fallen-king.json) |
 | Ravensword: Undaunted | 155056 | [155056-ravensword-undaunted.json](./155056-ravensword-undaunted.json) |
+| Raventhorne | 92574 | [92574-raventhorne.json](./92574-raventhorne.json) |
 | Raventure | 250547 | [250547-raventure.json](./250547-raventure.json) |
 | RavenVeil | 416547 | [416547-ravenveil.json](./416547-ravenveil.json) |
 | RavenWeald | 142622 | [142622-ravenweald.json](./142622-ravenweald.json) |
@@ -11789,6 +11790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Duality | 191515 | [191515-royal-duality.json](./191515-royal-duality.json) |
 | Royal Dungeon | 205605 | [205605-royal-dungeon.json](./205605-royal-dungeon.json) |
 | Royal Edoma Engine | 130583 | [130583-royal-edoma-engine.json](./130583-royal-edoma-engine.json) |
+| Royal Envoy | 92577 | [92577-royal-envoy.json](./92577-royal-envoy.json) |
 | Royal Envoy 2 | 63401 | [63401-royal-envoy-2.json](./63401-royal-envoy-2.json) |
 | Royal Envoy 2: Collector's Edition | 201855 | [201855-royal-envoy-2-collectors-edition.json](./201855-royal-envoy-2-collectors-edition.json) |
 | Royal Envoy 3 | 140156 | [140156-royal-envoy-3.json](./140156-royal-envoy-3.json) |
@@ -13412,6 +13414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RYL: Path of the Emperor | 6548 | [6548-ryl-path-of-the-emperor.json](./6548-ryl-path-of-the-emperor.json) |
 | Rym 9000 | 81867 | [81867-rym-9000.json](./81867-rym-9000.json) |
 | Rym 9000: Limited Edition | 167035 | [167035-rym-9000-limited-edition.json](./167035-rym-9000-limited-edition.json) |
+| Rymdjakten | 92585 | [92585-rymdjakten.json](./92585-rymdjakten.json) |
 | Rymdkapsel | 18830 | [18830-rymdkapsel.json](./18830-rymdkapsel.json) |
 | RymdResa | 11735 | [11735-rymdresa.json](./11735-rymdresa.json) |
 | Ryn: And the Thread of Life | 378245 | [378245-ryn-and-the-thread-of-life.json](./378245-ryn-and-the-thread-of-life.json) |
