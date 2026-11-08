@@ -7,6 +7,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game | IGDB ID | File |
 |---|---|---|
 | O | 336452 | [336452-o.json](./336452-o.json) |
+| O | 83720 | [83720-o.json](./83720-o.json) |
 | O Aventureiro | 246732 | [246732-o-aventureiro.json](./246732-o-aventureiro.json) |
 | O Conde de Monte Cristo | 293914 | [293914-o-conde-de-monte-cristo.json](./293914-o-conde-de-monte-cristo.json) |
 | O Conto de Ada | 307229 | [307229-o-conto-de-ada.json](./307229-o-conto-de-ada.json) |
@@ -1689,6 +1690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olympic Summer Games | 4493 | [4493-olympic-summer-games.json](./4493-olympic-summer-games.json) |
 | Olympic Summer Games: Atlanta '96 | 43735 | [43735-olympic-summer-games-atlanta-96.json](./43735-olympic-summer-games-atlanta-96.json) |
 | Olympic Table Tennis | 142530 | [142530-olympic-table-tennis.json](./142530-olympic-table-tennis.json) |
+| Olympic Team | 83713 | [83713-olympic-team.json](./83713-olympic-team.json) |
 | Olympic Trials | 71184 | [71184-olympic-trials.json](./71184-olympic-trials.json) |
 | Olympics Go! Paris 2024 | 305715 | [305715-olympics-go-paris-2024.json](./305715-olympics-go-paris-2024.json) |
 | Olympics VR | 75942 | [75942-olympics-vr.json](./75942-olympics-vr.json) |
