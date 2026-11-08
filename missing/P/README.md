@@ -3756,6 +3756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peak.53 | 233308 | [233308-peak-53.json](./233308-peak-53.json) |
 | Peak’s Edge | 365118 | [365118-peak-s-edge.json](./365118-peak-s-edge.json) |
 | Peaked Climbing | 360550 | [360550-peaked-climbing.json](./360550-peaked-climbing.json) |
+| PeakPoise | 131691 | [131691-peakpoise.json](./131691-peakpoise.json) |
 | Peaks of Yore | 238690 | [238690-peaks-of-yore.json](./238690-peaks-of-yore.json) |
 | Peaks of Yore: The Great Alps | 321208 | [321208-peaks-of-yore-the-great-alps.json](./321208-peaks-of-yore-the-great-alps.json) |
 | peakvox Escape Virus HD | 31406 | [31406-peakvox-escape-virus-hd.json](./31406-peakvox-escape-virus-hd.json) |
@@ -5319,6 +5320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Nova | 42674 | [42674-phantasy-star-nova.json](./42674-phantasy-star-nova.json) |
 | Phantasy Star Online | 21968 | [21968-phantasy-star-online.json](./21968-phantasy-star-online.json) |
 | Phantasy Star Online 2 -Ragol Edition- | 132155 | [132155-phantasy-star-online-2-ragol-edition.json](./132155-phantasy-star-online-2-ragol-edition.json) |
+| Phantasy Star Online 2 es | 131702 | [131702-phantasy-star-online-2-es.json](./131702-phantasy-star-online-2-es.json) |
 | Phantasy Star Online 2 New Genesis | 136042 | [136042-phantasy-star-online-2-new-genesis.json](./136042-phantasy-star-online-2-new-genesis.json) |
 | Phantasy Star Online 2 New Genesis: Aelio Nadar Deluxe Edition | 165879 | [165879-phantasy-star-online-2-new-genesis-aelio-nadar-deluxe-edition.json](./165879-phantasy-star-online-2-new-genesis-aelio-nadar-deluxe-edition.json) |
 | Phantasy Star Online 2 New Genesis: Aelio Nager Deluxe Edition | 165859 | [165859-phantasy-star-online-2-new-genesis-aelio-nager-deluxe-edition.json](./165859-phantasy-star-online-2-new-genesis-aelio-nager-deluxe-edition.json) |
@@ -13863,6 +13865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Virtual TableTop | 54975 | [54975-power-virtual-tabletop.json](./54975-power-virtual-tabletop.json) |
 | Power Volleyball | 332477 | [332477-power-volleyball.json](./332477-power-volleyball.json) |
 | Power Washer Hero | 151365 | [151365-power-washer-hero.json](./151365-power-washer-hero.json) |
+| Power-Games | 131734 | [131734-power-games.json](./131734-power-games.json) |
 | Power, Corruption & Lies | 57646 | [57646-power-corruption-and-lies.json](./57646-power-corruption-and-lies.json) |
 | Power: The Game | 122275 | [122275-power-the-game.json](./122275-power-the-game.json) |
 | Power's Out | 142150 | [142150-powers-out.json](./142150-powers-out.json) |
@@ -16009,6 +16012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Dew | 215327 | [215327-project-dew.json](./215327-project-dew.json) |
 | Project Diablo 2 | 285285 | [285285-project-diablo-2.json](./285285-project-diablo-2.json) |
 | Project Discovery: Daidai Daisuki! | 59409 | [59409-project-discovery-daidai-daisuki.json](./59409-project-discovery-daidai-daisuki.json) |
+| Project Dodo | 131703 | [131703-project-dodo.json](./131703-project-dodo.json) |
 | Project Down | 292992 | [292992-project-down.json](./292992-project-down.json) |
 | Project Downfall | 113813 | [113813-project-downfall.json](./113813-project-downfall.json) |
 | Project Drag Racing | 336281 | [336281-project-drag-racing.json](./336281-project-drag-racing.json) |
@@ -16074,6 +16078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Future | 26353 | [26353-project-future.json](./26353-project-future.json) |
 | Project G | 32773 | [32773-project-g.json](./32773-project-g.json) |
 | Project G.A.E.A. | 155864 | [155864-project-g-a-e-a.json](./155864-project-g-a-e-a.json) |
+| Project G.G. | 131708 | [131708-project-g-g.json](./131708-project-g-g.json) |
 | Project Gaiaray | 71022 | [71022-project-gaiaray.json](./71022-project-gaiaray.json) |
 | Project Galaxy | 286997 | [286997-project-galaxy.json](./286997-project-galaxy.json) |
 | Project Genesis | 114409 | [114409-project-genesis.json](./114409-project-genesis.json) |
