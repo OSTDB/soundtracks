@@ -16,6 +16,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H Girl 4 | 301810 | [301810-h-girl-4.json](./301810-h-girl-4.json) |
 | H Girl Kemonomimi | 296957 | [296957-h-girl-kemonomimi.json](./296957-h-girl-kemonomimi.json) |
 | H Index | 340474 | [340474-h-index.json](./340474-h-index.json) |
+| h Memory Circle | 106065 | [106065-h-memory-circle.json](./106065-h-memory-circle.json) |
 | H Office | 165829 | [165829-h-office.json](./165829-h-office.json) |
 | h Puzzle | 90445 | [90445-h-puzzle.json](./90445-h-puzzle.json) |
 | h Simply Go | 91338 | [91338-h-simply-go.json](./91338-h-simply-go.json) |
@@ -8565,6 +8566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitman Go: Definitive Edition | 21580 | [21580-hitman-go-definitive-edition.json](./21580-hitman-go-definitive-edition.json) |
 | Hitman Go: VR Edition | 23487 | [23487-hitman-go-vr-edition.json](./23487-hitman-go-vr-edition.json) |
 | Hitman HD Enhanced Collection | 113533 | [113533-hitman-hd-enhanced-collection.json](./113533-hitman-hd-enhanced-collection.json) |
+| Hitman HD Pack | 106171 | [106171-hitman-hd-pack.json](./106171-hitman-hd-pack.json) |
 | Hitman HD Trilogy | 20749 | [20749-hitman-hd-trilogy.json](./20749-hitman-hd-trilogy.json) |
 | Hitman Party | 244018 | [244018-hitman-party.json](./244018-hitman-party.json) |
 | Hitman Reborn! | 174722 | [174722-hitman-reborn.json](./174722-hitman-reborn.json) |
@@ -11398,6 +11400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hovercraft Racing | 192836 | [192836-hovercraft-racing.json](./192836-hovercraft-racing.json) |
 | Hovercraft: Build Fly Retry | 105896 | [105896-hovercraft-build-fly-retry.json](./105896-hovercraft-build-fly-retry.json) |
 | Hovercraft: Getaway | 211245 | [211245-hovercraft-getaway.json](./211245-hovercraft-getaway.json) |
+| Hovercraft: Takedown | 106049 | [106049-hovercraft-takedown.json](./106049-hovercraft-takedown.json) |
 | Hovercrash: Turbo Boost Racing | 251119 | [251119-hovercrash-turbo-boost-racing.json](./251119-hovercrash-turbo-boost-racing.json) |
 | Hoverdrive | 419103 | [419103-hoverdrive.json](./419103-hoverdrive.json) |
 | Hoverflow | 167420 | [167420-hoverflow.json](./167420-hoverflow.json) |
