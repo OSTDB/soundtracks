@@ -702,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Kotar | 169552 | [169552-saint-kotar.json](./169552-saint-kotar.json) |
 | Saint Kotar: Digital Deluxe Edition | 246621 | [246621-saint-kotar-digital-deluxe-edition.json](./246621-saint-kotar-digital-deluxe-edition.json) |
 | Saint Kotar: The Crawling Man | 227124 | [227124-saint-kotar-the-crawling-man.json](./227124-saint-kotar-the-crawling-man.json) |
+| Saint Kotar: The Yellow Mask | 104876 | [104876-saint-kotar-the-yellow-mask.json](./104876-saint-kotar-the-yellow-mask.json) |
 | Saint Maker | 195551 | [195551-saint-maker.json](./195551-saint-maker.json) |
 | Saint of Chains | 374295 | [374295-saint-of-chains.json](./374295-saint-of-chains.json) |
 | Saint Paradise: Saikyou no Senshi-tachi | 49099 | [49099-saint-paradise-saikyou-no-senshi-tachi.json](./49099-saint-paradise-saikyou-no-senshi-tachi.json) |
@@ -1601,6 +1602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sand: A Superfluous Game | 177946 | [177946-sand-a-superfluous-game.json](./177946-sand-a-superfluous-game.json) |
 | Sand: An Adventure Story | 232323 | [232323-sand-an-adventure-story.json](./232323-sand-an-adventure-story.json) |
 | Sand:box | 223924 | [223924-sand-box.json](./223924-sand-box.json) |
+| Sand! | 104766 | [104766-sand.json](./104766-sand.json) |
 | Sandara: City of a Thousand Eclipses | 305070 | [305070-sandara-city-of-a-thousand-eclipses.json](./305070-sandara-city-of-a-thousand-eclipses.json) |
 | Sandbox | 251826 | [251826-sandbox.json](./251826-sandbox.json) |
 | Sandbox | 368087 | [368087-sandbox.json](./368087-sandbox.json) |
@@ -20590,6 +20592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Squadron | 160208 | [160208-space-squadron.json](./160208-space-squadron.json) |
 | Space Squadron | 281173 | [281173-space-squadron.json](./281173-space-squadron.json) |
 | Space Star: Heart of a Soldier | 292628 | [292628-space-star-heart-of-a-soldier.json](./292628-space-star-heart-of-a-soldier.json) |
+| Space station - build your own ISS | 104748 | [104748-space-station-build-your-own-iss.json](./104748-space-station-build-your-own-iss.json) |
 | Space Station 13 | 66396 | [66396-space-station-13.json](./66396-space-station-13.json) |
 | Space Station 14 | 149853 | [149853-space-station-14.json](./149853-space-station-14.json) |
 | Space Station 51 | 192597 | [192597-space-station-51.json](./192597-space-station-51.json) |
@@ -20994,6 +20997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spaceteam: The Second Dimension | 211606 | [211606-spaceteam-the-second-dimension.json](./211606-spaceteam-the-second-dimension.json) |
 | Spacetime Chronicles | 426454 | [426454-spacetime-chronicles.json](./426454-spacetime-chronicles.json) |
 | Spacetime Odissey | 180964 | [180964-spacetime-odissey.json](./180964-spacetime-odissey.json) |
+| SpaceTone | 104870 | [104870-spacetone.json](./104870-spacetone.json) |
 | Spacetour Express | 315890 | [315890-spacetour-express.json](./315890-spacetour-express.json) |
 | Spacetours VR: Ep.1 - The Solar System | 29475 | [29475-spacetours-vr-ep-1-the-solar-system.json](./29475-spacetours-vr-ep-1-the-solar-system.json) |
 | Spacetron | 258469 | [258469-spacetron.json](./258469-spacetron.json) |
@@ -35828,6 +35832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sweet Pool | 368974 | [368974-sweet-pool.json](./368974-sweet-pool.json) |
 | Sweet Pool | 86674 | [86674-sweet-pool.json](./86674-sweet-pool.json) |
 | Sweet Portal | 392900 | [392900-sweet-portal.json](./392900-sweet-portal.json) |
+| Sweet Princess Candy Makeup | 104745 | [104745-sweet-princess-candy-makeup.json](./104745-sweet-princess-candy-makeup.json) |
 | Sweet Princess Prom Night | 87613 | [87613-sweet-princess-prom-night.json](./87613-sweet-princess-prom-night.json) |
 | Sweet Punch | 177385 | [177385-sweet-punch.json](./177385-sweet-punch.json) |
 | Sweet Racing Girl | 339445 | [339445-sweet-racing-girl.json](./339445-sweet-racing-girl.json) |
