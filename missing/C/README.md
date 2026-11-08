@@ -14104,6 +14104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Construction Machine Simulator: Premium Edition | 328753 | [328753-construction-machine-simulator-premium-edition.json](./328753-construction-machine-simulator-premium-edition.json) |
 | Construction Machines Sim | 201141 | [201141-construction-machines-sim.json](./201141-construction-machines-sim.json) |
 | Construction Machines SIM: Bridges, buildings and constructor trucks simulator | 201086 | [201086-construction-machines-sim-bridges-buildings-and-constructor-trucks-simulator.json](./201086-construction-machines-sim-bridges-buildings-and-constructor-trucks-simulator.json) |
+| Construction Machines Simulator | 117934 | [117934-construction-machines-simulator.json](./117934-construction-machines-simulator.json) |
 | Construction Machines Simulator 2016 | 46956 | [46956-construction-machines-simulator-2016.json](./46956-construction-machines-simulator-2016.json) |
 | Construction Manager | 212048 | [212048-construction-manager.json](./212048-construction-manager.json) |
 | Construction Playground | 164903 | [164903-construction-playground.json](./164903-construction-playground.json) |
@@ -15379,6 +15380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Cursor | 272781 | [272781-cosmic-cursor.json](./272781-cosmic-cursor.json) |
 | Cosmic Dawn | 141183 | [141183-cosmic-dawn.json](./141183-cosmic-dawn.json) |
 | Cosmic Decode | 338889 | [338889-cosmic-decode.json](./338889-cosmic-decode.json) |
+| Cosmic Defenders | 117935 | [117935-cosmic-defenders.json](./117935-cosmic-defenders.json) |
 | Cosmic Destroyer | 373304 | [373304-cosmic-destroyer.json](./373304-cosmic-destroyer.json) |
 | Cosmic Disco | 150883 | [150883-cosmic-disco.json](./150883-cosmic-disco.json) |
 | Cosmic Distortion | 412281 | [412281-cosmic-distortion.json](./412281-cosmic-distortion.json) |
