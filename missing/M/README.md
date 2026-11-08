@@ -1393,6 +1393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Tower: Destroy the Wormhole | 197491 | [197491-magic-tower-destroy-the-wormhole.json](./197491-magic-tower-destroy-the-wormhole.json) |
 | Magic Tower: Legion | 391089 | [391089-magic-tower-legion.json](./391089-magic-tower-legion.json) |
 | Magic Tower: Tap Defense | 255735 | [255735-magic-tower-tap-defense.json](./255735-magic-tower-tap-defense.json) |
+| Magic Towers Solitaire | 87451 | [87451-magic-towers-solitaire.json](./87451-magic-towers-solitaire.json) |
 | Magic Trap | 255143 | [255143-magic-trap.json](./255143-magic-trap.json) |
 | Magic Trap | 303642 | [303642-magic-trap.json](./303642-magic-trap.json) |
 | Magic Traps | 144135 | [144135-magic-traps.json](./144135-magic-traps.json) |
@@ -5510,6 +5511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match | 90021 | [90021-match.json](./90021-match.json) |
 | Match & Mastery | 347910 | [347910-match-and-mastery.json](./347910-match-and-mastery.json) |
 | Match & Merge | 232372 | [232372-match-and-merge.json](./232372-match-and-merge.json) |
+| Match & Pop: Bubble Blast Puzzles! | 87533 | [87533-match-and-pop-bubble-blast-puzzles.json](./87533-match-and-pop-bubble-blast-puzzles.json) |
 | Match 10 Puzzle | 99404 | [99404-match-10-puzzle.json](./99404-match-10-puzzle.json) |
 | Match 22 | 86042 | [86042-match-22.json](./86042-match-22.json) |
 | Match 3 Adventure Collection | 165847 | [165847-match-3-adventure-collection.json](./165847-match-3-adventure-collection.json) |
@@ -12981,6 +12983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Plus | 377754 | [377754-minesweeper-plus.json](./377754-minesweeper-plus.json) |
 | Minesweeper Pro | 407099 | [407099-minesweeper-pro.json](./407099-minesweeper-pro.json) |
 | Minesweeper Puzzle Bomb | 104113 | [104113-minesweeper-puzzle-bomb.json](./104113-minesweeper-puzzle-bomb.json) |
+| Minesweeper Puzzle HD | 87434 | [87434-minesweeper-puzzle-hd.json](./87434-minesweeper-puzzle-hd.json) |
 | Minesweeper Q Premium | 174254 | [174254-minesweeper-q-premium.json](./174254-minesweeper-q-premium.json) |
 | MineSweeper Reloaded | 91089 | [91089-minesweeper-reloaded.json](./91089-minesweeper-reloaded.json) |
 | Minesweeper Retro | 99825 | [99825-minesweeper-retro.json](./99825-minesweeper-retro.json) |
@@ -16645,6 +16648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Truck Rumble | 61924 | [61924-monster-truck-rumble.json](./61924-monster-truck-rumble.json) |
 | Monster Truck Soccer | 197648 | [197648-monster-truck-soccer.json](./197648-monster-truck-soccer.json) |
 | Monster Truck Story | 179924 | [179924-monster-truck-story.json](./179924-monster-truck-story.json) |
+| Monster Truck Stunt Madness | 87663 | [87663-monster-truck-stunt-madness.json](./87663-monster-truck-stunt-madness.json) |
 | Monster Truck Stunt Rally | 146435 | [146435-monster-truck-stunt-rally.json](./146435-monster-truck-stunt-rally.json) |
 | Monster Truck Trip 2 | 337224 | [337224-monster-truck-trip-2.json](./337224-monster-truck-trip-2.json) |
 | Monster Truck Wars | 19783 | [19783-monster-truck-wars.json](./19783-monster-truck-wars.json) |
