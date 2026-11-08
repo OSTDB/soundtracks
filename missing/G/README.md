@@ -10508,6 +10508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guards! | 266605 | [266605-guards.json](./266605-guards.json) |
 | Guards!: Vanguard Supporter Pack | 289322 | [289322-guards-vanguard-supporter-pack.json](./289322-guards-vanguard-supporter-pack.json) |
 | Guarrd the Rum | 176800 | [176800-guarrd-the-rum.json](./176800-guarrd-the-rum.json) |
+| Guava Juice: Tub Tapper | 101162 | [101162-guava-juice-tub-tapper.json](./101162-guava-juice-tub-tapper.json) |
 | Guayota | 294937 | [294937-guayota.json](./294937-guayota.json) |
 | Gubble | 170382 | [170382-gubble.json](./170382-gubble.json) |
 | Gubble | 317757 | [317757-gubble.json](./317757-gubble.json) |
