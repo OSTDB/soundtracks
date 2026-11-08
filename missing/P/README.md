@@ -67,6 +67,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P.T.O. II: Pacific Theater of Operations | 45527 | [45527-p-t-o-ii-pacific-theater-of-operations.json](./45527-p-t-o-ii-pacific-theater-of-operations.json) |
 | P.T.O. IV | 43435 | [43435-p-t-o-iv.json](./43435-p-t-o-iv.json) |
 | P.T.O.: Pacific Theater of Operations IV | 70232 | [70232-p-t-o-pacific-theater-of-operations-iv.json](./70232-p-t-o-pacific-theater-of-operations-iv.json) |
+| P.U.G.S. Agents | 117914 | [117914-p-u-g-s-agents.json](./117914-p-u-g-s-agents.json) |
 | P.U.R.G.A.T.O.R.Y | 173971 | [173971-p-u-r-g-a-t-o-r-y.json](./173971-p-u-r-g-a-t-o-r-y.json) |
 | P.W. Project Witch | 327156 | [327156-p-w-project-witch.json](./327156-p-w-project-witch.json) |
 | P'radikus Conflict | 73467 | [73467-pradikus-conflict.json](./73467-pradikus-conflict.json) |
@@ -3146,6 +3147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathological Tires | 163092 | [163092-pathological-tires.json](./163092-pathological-tires.json) |
 | Pathology | 270734 | [270734-pathology.json](./270734-pathology.json) |
 | Pathology | 79606 | [79606-pathology.json](./79606-pathology.json) |
+| Pathos | 117922 | [117922-pathos.json](./117922-pathos.json) |
 | Pathos | 75594 | [75594-pathos.json](./75594-pathos.json) |
 | Pathosis | 95265 | [95265-pathosis.json](./95265-pathosis.json) |
 | Pathotaxia: Pandora | 399211 | [399211-pathotaxia-pandora.json](./399211-pathotaxia-pandora.json) |
@@ -3777,6 +3779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peaky Blinders: Mastermind | 132634 | [132634-peaky-blinders-mastermind.json](./132634-peaky-blinders-mastermind.json) |
 | Peaky Blinders: The King's Ransom | 211902 | [211902-peaky-blinders-the-kings-ransom.json](./211902-peaky-blinders-the-kings-ransom.json) |
 | Peaky Circus | 211819 | [211819-peaky-circus.json](./211819-peaky-circus.json) |
+| Peanut | 117921 | [117921-peanut.json](./117921-peanut.json) |
 | Peanut Butter Jelly Wars | 253874 | [253874-peanut-butter-jelly-wars.json](./253874-peanut-butter-jelly-wars.json) |
 | Peanut Butter Panic | 73277 | [73277-peanut-butter-panic.json](./73277-peanut-butter-panic.json) |
 | Peanut's Journey | 277082 | [277082-peanuts-journey.json](./277082-peanuts-journey.json) |
@@ -19039,6 +19042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzlestuck | 352313 | [352313-puzzlestuck.json](./352313-puzzlestuck.json) |
 | PuzzleTales: Svalbard | 120202 | [120202-puzzletales-svalbard.json](./120202-puzzletales-svalbard.json) |
 | PuzzleTiles | 106953 | [106953-puzzletiles.json](./106953-puzzletiles.json) |
+| Puzzletime: Lovely Girls | 117906 | [117906-puzzletime-lovely-girls.json](./117906-puzzletime-lovely-girls.json) |
 | Puzzletown Mysteries | 338343 | [338343-puzzletown-mysteries.json](./338343-puzzletown-mysteries.json) |
 | Puzzletronics | 165592 | [165592-puzzletronics.json](./165592-puzzletronics.json) |
 | Puzzletronics Analog Eletronics | 163536 | [163536-puzzletronics-analog-eletronics.json](./163536-puzzletronics-analog-eletronics.json) |
