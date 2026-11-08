@@ -1414,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic World Mahjong | 95320 | [95320-magic-world-mahjong.json](./95320-magic-world-mahjong.json) |
 | Magic World: Unravel the Magic | 242588 | [242588-magic-world-unravel-the-magic.json](./242588-magic-world-unravel-the-magic.json) |
 | Magic Сity Detective: Secret Desire - Collector's Edition | 211641 | [211641-magic-ity-detective-secret-desire-collectors-edition.json](./211641-magic-ity-detective-secret-desire-collectors-edition.json) |
+| Magic: Legends | 127472 | [127472-magic-legends.json](./127472-magic-legends.json) |
 | Magic: ManaStrike | 125270 | [125270-magic-manastrike.json](./125270-magic-manastrike.json) |
 | Magic: Puzzle Quest | 111748 | [111748-magic-puzzle-quest.json](./111748-magic-puzzle-quest.json) |
 | Magic: The Boys Who Love Me | 299339 | [299339-magic-the-boys-who-love-me.json](./299339-magic-the-boys-who-love-me.json) |
@@ -5516,6 +5517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match Quest: Numbers | 345676 | [345676-match-quest-numbers.json](./345676-match-quest-numbers.json) |
 | Match Racer | 282448 | [282448-match-racer.json](./282448-match-racer.json) |
 | Match Shot Chimera | 349290 | [349290-match-shot-chimera.json](./349290-match-shot-chimera.json) |
+| Match Solitaire | 127450 | [127450-match-solitaire.json](./127450-match-solitaire.json) |
 | Match the Deck | 197771 | [197771-match-the-deck.json](./197771-match-the-deck.json) |
 | Match the Monsters! | 311693 | [311693-match-the-monsters.json](./311693-match-the-monsters.json) |
 | Match Three Fun | 99144 | [99144-match-three-fun.json](./99144-match-three-fun.json) |
@@ -14778,6 +14780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobilization | 250400 | [250400-mobilization.json](./250400-mobilization.json) |
 | Mobiloid | 64104 | [64104-mobiloid.json](./64104-mobiloid.json) |
 | Mobius | 104646 | [104646-mobius.json](./104646-mobius.json) |
+| Mobius & Elegy Belongs to Nobody | 127432 | [127432-mobius-and-elegy-belongs-to-nobody.json](./127432-mobius-and-elegy-belongs-to-nobody.json) |
 | Mobius Band | 217491 | [217491-mobius-band.json](./217491-mobius-band.json) |
 | Möbius Drive | 408867 | [408867-mobius-drive.json](./408867-mobius-drive.json) |
 | Mobius Evolution | 198574 | [198574-mobius-evolution.json](./198574-mobius-evolution.json) |
@@ -15901,6 +15904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Busters: Hexa Blast | 242793 | [242793-monster-busters-hexa-blast.json](./242793-monster-busters-hexa-blast.json) |
 | Monster Camp 2: Character Pack - Zoe | 343761 | [343761-monster-camp-2-character-pack-zoe.json](./343761-monster-camp-2-character-pack-zoe.json) |
 | Monster Camp Character Pack: Colorful Campers | 378384 | [378384-monster-camp-character-pack-colorful-campers.json](./378384-monster-camp-character-pack-colorful-campers.json) |
+| Monster Capture King | 127451 | [127451-monster-capture-king.json](./127451-monster-capture-king.json) |
 | Monster Car Garage Fun | 103098 | [103098-monster-car-garage-fun.json](./103098-monster-car-garage-fun.json) |
 | Monster Cards | 212605 | [212605-monster-cards.json](./212605-monster-cards.json) |
 | Monster Cards: Plus License | 376423 | [376423-monster-cards-plus-license.json](./376423-monster-cards-plus-license.json) |
