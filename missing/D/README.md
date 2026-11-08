@@ -8197,6 +8197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil Book: Hand-Drawn Action MMO | 146171 | [146171-devil-book-hand-drawn-action-mmo.json](./146171-devil-book-hand-drawn-action-mmo.json) |
 | Devil Catcher | 171414 | [171414-devil-catcher.json](./171414-devil-catcher.json) |
 | Devil Cult Party | 305794 | [305794-devil-cult-party.json](./305794-devil-cult-party.json) |
+| Devil Devour Alive | 134155 | [134155-devil-devour-alive.json](./134155-devil-devour-alive.json) |
 | Devil Dice | 28400 | [28400-devil-dice.json](./28400-devil-dice.json) |
 | Devil Diver | 14031 | [14031-devil-diver.json](./14031-devil-diver.json) |
 | Devil Drive Polaris | 412774 | [412774-devil-drive-polaris.json](./412774-devil-drive-polaris.json) |
