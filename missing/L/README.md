@@ -403,6 +403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinths of the World: Stonehenge Legend | 101652 | [101652-labyrinths-of-the-world-stonehenge-legend.json](./101652-labyrinths-of-the-world-stonehenge-legend.json) |
 | Labyrinths of the World: The Game of Minds - Collector's Edition | 170203 | [170203-labyrinths-of-the-world-the-game-of-minds-collectors-edition.json](./170203-labyrinths-of-the-world-the-game-of-minds-collectors-edition.json) |
 | Labyrinths of the World: The Wild Side - Collector's Edition | 128019 | [128019-labyrinths-of-the-world-the-wild-side-collectors-edition.json](./128019-labyrinths-of-the-world-the-wild-side-collectors-edition.json) |
+| Labyrinths of Umbra | 103612 | [103612-labyrinths-of-umbra.json](./103612-labyrinths-of-umbra.json) |
 | Labyrinths of World: Dangerous | 108612 | [108612-labyrinths-of-world-dangerous.json](./108612-labyrinths-of-world-dangerous.json) |
 | Labyrinthum | 261646 | [261646-labyrinthum.json](./261646-labyrinthum.json) |
 | Labyrinthus: Episode 1 | 168697 | [168697-labyrinthus-episode-1.json](./168697-labyrinthus-episode-1.json) |
@@ -7229,6 +7230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoL Kart | 88819 | [88819-lol-kart.json](./88819-lol-kart.json) |
 | LoL Sketch | 181186 | [181186-lol-sketch.json](./181186-lol-sketch.json) |
 | LOL Surprise Confetti POP | 89779 | [89779-lol-surprise-confetti-pop.json](./89779-lol-surprise-confetti-pop.json) |
+| LOL Surprise dolls | 103689 | [103689-lol-surprise-dolls.json](./103689-lol-surprise-dolls.json) |
 | LOL: Hasse toh Phasse x Pac-Man | 219450 | [219450-lol-hasse-toh-phasse-x-pac-man.json](./219450-lol-hasse-toh-phasse-x-pac-man.json) |
 | Lola & Virginia | 123350 | [123350-lola-and-virginia.json](./123350-lola-and-virginia.json) |
 | Lola and the Giant | 110325 | [110325-lola-and-the-giant.json](./110325-lola-and-the-giant.json) |
@@ -7505,6 +7507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Longtail!! | 351080 | [351080-longtail.json](./351080-longtail.json) |
 | Longvinter | 152626 | [152626-longvinter.json](./152626-longvinter.json) |
 | Lóngzhōng Cè | 118494 | [118494-longzhong-ce.json](./118494-longzhong-ce.json) |
+| Lonia Saga 2 | 103614 | [103614-lonia-saga-2.json](./103614-lonia-saga-2.json) |
 | Lonley, Lustful, Arrogant, Hateful | 172726 | [172726-lonley-lustful-arrogant-hateful.json](./172726-lonley-lustful-arrogant-hateful.json) |
 | LonlyToy | 220403 | [220403-lonlytoy.json](./220403-lonlytoy.json) |
 | Lonn | 135113 | [135113-lonn.json](./135113-lonn.json) |
