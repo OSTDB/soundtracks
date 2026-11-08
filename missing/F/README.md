@@ -2525,6 +2525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Frenzy 2: Pizza Party! for Mac | 87750 | [87750-farm-frenzy-2-pizza-party-for-mac.json](./87750-farm-frenzy-2-pizza-party-for-mac.json) |
 | Farm Frenzy 3 | 16093 | [16093-farm-frenzy-3.json](./16093-farm-frenzy-3.json) |
 | Farm Frenzy 3 HD | 88808 | [88808-farm-frenzy-3-hd.json](./88808-farm-frenzy-3-hd.json) |
+| Farm Frenzy 3: Ancient Rome | 88412 | [88412-farm-frenzy-3-ancient-rome.json](./88412-farm-frenzy-3-ancient-rome.json) |
 | Farm Frenzy 3: Ancient Rome HD | 103750 | [103750-farm-frenzy-3-ancient-rome-hd.json](./103750-farm-frenzy-3-ancient-rome-hd.json) |
 | Farm Frenzy 3: Ice Domain | 53010 | [53010-farm-frenzy-3-ice-domain.json](./53010-farm-frenzy-3-ice-domain.json) |
 | Farm Frenzy 3: Russian Village | 53034 | [53034-farm-frenzy-3-russian-village.json](./53034-farm-frenzy-3-russian-village.json) |
@@ -2562,6 +2563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm It! | 194334 | [194334-farm-it.json](./194334-farm-it.json) |
 | Farm it! Seasons | 96921 | [96921-farm-it-seasons.json](./96921-farm-it-seasons.json) |
 | Farm Jam: Animal Parking Game | 247216 | [247216-farm-jam-animal-parking-game.json](./247216-farm-jam-animal-parking-game.json) |
+| Farm Jigsaw Puzzle - Animals and Plants | 88411 | [88411-farm-jigsaw-puzzle-animals-and-plants.json](./88411-farm-jigsaw-puzzle-animals-and-plants.json) |
 | Farm Keeper | 247034 | [247034-farm-keeper.json](./247034-farm-keeper.json) |
 | Farm Keeper | 278010 | [278010-farm-keeper.json](./278010-farm-keeper.json) |
 | Farm King Saga | 233424 | [233424-farm-king-saga.json](./233424-farm-king-saga.json) |
@@ -5624,6 +5626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Rabbit | 101126 | [101126-find-the-rabbit.json](./101126-find-the-rabbit.json) |
 | Find the Road | 242210 | [242210-find-the-road.json](./242210-find-the-road.json) |
 | Find the route | 27704 | [27704-find-the-route.json](./27704-find-the-route.json) |
+| Find the Sets - Set Puzzle Game | 88413 | [88413-find-the-sets-set-puzzle-game.json](./88413-find-the-sets-set-puzzle-game.json) |
 | Find the Sherlock Gnomes | 108580 | [108580-find-the-sherlock-gnomes.json](./108580-find-the-sherlock-gnomes.json) |
 | Find the Sneaky Chameleon | 412567 | [412567-find-the-sneaky-chameleon.json](./412567-find-the-sneaky-chameleon.json) |
 | Find the Stalker | 310219 | [310219-find-the-stalker.json](./310219-find-the-stalker.json) |
@@ -7492,6 +7495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flap de Clap | 378949 | [378949-flap-de-clap.json](./378949-flap-de-clap.json) |
 | Flap Demon | 158646 | [158646-flap-demon.json](./158646-flap-demon.json) |
 | Flap Flap | 85145 | [85145-flap-flap.json](./85145-flap-flap.json) |
+| Flap Flap | 88404 | [88404-flap-flap.json](./88404-flap-flap.json) |
 | Flap Happy | 307102 | [307102-flap-happy.json](./307102-flap-happy.json) |
 | Flap Legends | 272447 | [272447-flap-legends.json](./272447-flap-legends.json) |
 | Flapbound | 251094 | [251094-flapbound.json](./251094-flapbound.json) |
@@ -8018,6 +8022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Unlimited Las Vegas | 34909 | [34909-flight-unlimited-las-vegas.json](./34909-flight-unlimited-las-vegas.json) |
 | Flight Unlimited Las Vegas - Flight Simulator | 93648 | [93648-flight-unlimited-las-vegas-flight-simulator.json](./93648-flight-unlimited-las-vegas-flight-simulator.json) |
 | Flight World Simulator | 103075 | [103075-flight-world-simulator.json](./103075-flight-world-simulator.json) |
+| Flight! | 88350 | [88350-flight.json](./88350-flight.json) |
 | Flight? Youth! | 395670 | [395670-flight-youth.json](./395670-flight-youth.json) |
 | FlightChess | 181061 | [181061-flightchess.json](./181061-flightchess.json) |
 | FlightGear | 51200 | [51200-flightgear.json](./51200-flightgear.json) |
@@ -11931,6 +11936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FreeCell Solitaire Collection | 148324 | [148324-freecell-solitaire-collection.json](./148324-freecell-solitaire-collection.json) |
 | Freecell Solitaire Cube | 80325 | [80325-freecell-solitaire-cube.json](./80325-freecell-solitaire-cube.json) |
 | Freecell Solitaire Deluxe | 125682 | [125682-freecell-solitaire-deluxe.json](./125682-freecell-solitaire-deluxe.json) |
+| Freecell Ultimate | 88395 | [88395-freecell-ultimate.json](./88395-freecell-ultimate.json) |
 | FreeCell X | 100993 | [100993-freecell-x.json](./100993-freecell-x.json) |
 | FreeChicken | 274800 | [274800-freechicken.json](./274800-freechicken.json) |
 | Freeciv | 73190 | [73190-freeciv.json](./73190-freeciv.json) |
