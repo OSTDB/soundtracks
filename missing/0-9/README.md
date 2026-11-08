@@ -784,6 +784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 Amps | 6281 | [6281-1000-amps.json](./6281-1000-amps.json) |
 | 1000 Best Solitaire Games | 292004 | [292004-1000-best-solitaire-games.json](./292004-1000-best-solitaire-games.json) |
 | 1000 Bornes: Coups-Fourres et Courses Folles! | 268069 | [268069-1000-bornes-coups-fourres-et-courses-folles.json](./268069-1000-bornes-coups-fourres-et-courses-folles.json) |
+| 1000 Cooking Recipes from Elle à Table | 98671 | [98671-1000-cooking-recipes-from-elle-a-table.json](./98671-1000-cooking-recipes-from-elle-a-table.json) |
 | 1000 Cuts: Jomaku | 288725 | [288725-1000-cuts-jomaku.json](./288725-1000-cuts-jomaku.json) |
 | 1000 Days of Syria | 174227 | [174227-1000-days-of-syria.json](./174227-1000-days-of-syria.json) |
 | 1000 Days to Escape | 120028 | [120028-1000-days-to-escape.json](./120028-1000-days-to-escape.json) |
@@ -3008,6 +3009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 500 Caliber Contractz | 268103 | [268103-500-caliber-contractz.json](./268103-500-caliber-contractz.json) |
 | 500 CrossBar Challenge | 379074 | [379074-500-crossbar-challenge.json](./379074-500-crossbar-challenge.json) |
 | 500 Finger Fillet | 412311 | [412311-500-finger-fillet.json](./412311-500-finger-fillet.json) |
+| 500 for Windows | 98681 | [98681-500-for-windows.json](./98681-500-for-windows.json) |
 | 500 GP | 249253 | [249253-500-gp.json](./249253-500-gp.json) |
 | 500 Saints | 400752 | [400752-500-saints.json](./400752-500-saints.json) |
 | 500 Second Challenge | 219514 | [219514-500-second-challenge.json](./219514-500-second-challenge.json) |
