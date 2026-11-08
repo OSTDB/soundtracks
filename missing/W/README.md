@@ -243,6 +243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wailing Heights: Deluxe Edition | 53881 | [53881-wailing-heights-deluxe-edition.json](./53881-wailing-heights-deluxe-edition.json) |
 | Wails For Freedom | 183107 | [183107-wails-for-freedom.json](./183107-wails-for-freedom.json) |
 | Waimanu: Grinding Block Adventure | 123628 | [123628-waimanu-grinding-block-adventure.json](./123628-waimanu-grinding-block-adventure.json) |
+| Wait | 80056 | [80056-wait.json](./80056-wait.json) |
 | Wait and See! | 247272 | [247272-wait-and-see.json](./247272-wait-and-see.json) |
 | Wait For It | 184238 | [184238-wait-for-it.json](./184238-wait-for-it.json) |
 | Wait What's That | 324507 | [324507-wait-whats-that.json](./324507-wait-whats-that.json) |
@@ -5332,6 +5333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wild Man Jump | 305473 | [305473-wild-man-jump.json](./305473-wild-man-jump.json) |
 | Wild Marble Beats | 181351 | [181351-wild-marble-beats.json](./181351-wild-marble-beats.json) |
 | Wild Mars | 297984 | [297984-wild-mars.json](./297984-wild-mars.json) |
+| Wild Metal | 80092 | [80092-wild-metal.json](./80092-wild-metal.json) |
 | Wild Metal Country | 20132 | [20132-wild-metal-country.json](./20132-wild-metal-country.json) |
 | Wild Mutation | 257927 | [257927-wild-mutation.json](./257927-wild-mutation.json) |
 | Wild N Chill | 403353 | [403353-wild-n-chill.json](./403353-wild-n-chill.json) |
@@ -5922,6 +5924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing War | 24014 | [24014-wing-war.json](./24014-wing-war.json) |
 | Wing Warriors | 218921 | [218921-wing-warriors.json](./218921-wing-warriors.json) |
 | Wing-It | 390283 | [390283-wing-it.json](./390283-wing-it.json) |
+| Wing-Man | 80074 | [80074-wing-man.json](./80074-wing-man.json) |
 | Wing-Man: Hissatsu Delta End | 385541 | [385541-wing-man-hissatsu-delta-end.json](./385541-wing-man-hissatsu-delta-end.json) |
 | Winged | 307689 | [307689-winged.json](./307689-winged.json) |
 | Winged Gear | 266653 | [266653-winged-gear.json](./266653-winged-gear.json) |
