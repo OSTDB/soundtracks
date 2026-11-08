@@ -7099,6 +7099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medarot 7: Kabuto Version | 138121 | [138121-medarot-7-kabuto-version.json](./138121-medarot-7-kabuto-version.json) |
 | Medarot 7: Kuwagata Version | 83882 | [83882-medarot-7-kuwagata-version.json](./83882-medarot-7-kuwagata-version.json) |
 | Medarot 8: Kabuto Version | 138117 | [138117-medarot-8-kabuto-version.json](./138117-medarot-8-kabuto-version.json) |
+| Medarot 8: Kuwagata Version | 78206 | [78206-medarot-8-kuwagata-version.json](./78206-medarot-8-kuwagata-version.json) |
 | Medarot 9 Kabuto/Kuwagata | 59661 | [59661-medarot-9-kabuto-kuwagata.json](./59661-medarot-9-kabuto-kuwagata.json) |
 | Medarot 9: Kabuto Version | 138065 | [138065-medarot-9-kabuto-version.json](./138065-medarot-9-kabuto-version.json) |
 | Medarot 9: Kuwagata Version | 136909 | [136909-medarot-9-kuwagata-version.json](./136909-medarot-9-kuwagata-version.json) |
@@ -9017,6 +9018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories Off #5: Togireta Film | 288770 | [288770-memories-off-5-togireta-film.json](./288770-memories-off-5-togireta-film.json) |
 | Memories Off #5: Togireta Film | 64801 | [64801-memories-off-5-togireta-film.json](./64801-memories-off-5-togireta-film.json) |
 | Memories Off 2nd | 288775 | [288775-memories-off-2nd.json](./288775-memories-off-2nd.json) |
+| Memories Off 2nd | 78209 | [78209-memories-off-2nd.json](./78209-memories-off-2nd.json) |
 | Memories Off 6 Complete | 80463 | [80463-memories-off-6-complete.json](./80463-memories-off-6-complete.json) |
 | Memories Off 6: Next Relation | 80464 | [80464-memories-off-6-next-relation.json](./80464-memories-off-6-next-relation.json) |
 | Memories Off 6: T-wave | 288772 | [288772-memories-off-6-t-wave.json](./288772-memories-off-6-t-wave.json) |
@@ -13084,6 +13086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Cup | 305861 | [305861-mini-cup.json](./305861-mini-cup.json) |
 | Mini Dash | 412330 | [412330-mini-dash.json](./412330-mini-dash.json) |
 | Mini Dash | 61052 | [61052-mini-dash.json](./61052-mini-dash.json) |
+| Mini DayZ | 78185 | [78185-mini-dayz.json](./78185-mini-dayz.json) |
 | Mini DayZ 2 | 174700 | [174700-mini-dayz-2.json](./174700-mini-dayz-2.json) |
 | mini DDrink | 95634 | [95634-mini-ddrink.json](./95634-mini-ddrink.json) |
 | Mini Desktop Racing | 5007 | [5007-mini-desktop-racing.json](./5007-mini-desktop-racing.json) |
