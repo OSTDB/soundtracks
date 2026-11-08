@@ -6557,6 +6557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alephant | 190400 | [190400-alephant.json](./190400-alephant.json) |
 | Alert | 14236 | [14236-alert.json](./14236-alert.json) |
 | Alert X: Ostatnia Nadzieja Ziemi | 14237 | [14237-alert-x-ostatnia-nadzieja-ziemi.json](./14237-alert-x-ostatnia-nadzieja-ziemi.json) |
+| Alert! Cat Girl's In Heat!! | 98601 | [98601-alert-cat-girls-in-heat.json](./98601-alert-cat-girls-in-heat.json) |
 | Alerta Roja | 305700 | [305700-alerta-roja.json](./305700-alerta-roja.json) |
 | Alerta Vermelho | 251305 | [251305-alerta-vermelho.json](./251305-alerta-vermelho.json) |
 | Alertes Spéciales | 363969 | [363969-alertes-speciales.json](./363969-alertes-speciales.json) |
@@ -6783,6 +6784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice in Wonderland AR quest D | 100694 | [100694-alice-in-wonderland-ar-quest-d.json](./100694-alice-in-wonderland-ar-quest-d.json) |
 | Alice in Wonderland: 3D Game | 102945 | [102945-alice-in-wonderland-3d-game.json](./102945-alice-in-wonderland-3d-game.json) |
 | Alice In Wonderland: A New Champion | 62811 | [62811-alice-in-wonderland-a-new-champion.json](./62811-alice-in-wonderland-a-new-champion.json) |
+| Alice in Wonderland: An Adventure Beyond the Mirror | 98146 | [98146-alice-in-wonderland-an-adventure-beyond-the-mirror.json](./98146-alice-in-wonderland-an-adventure-beyond-the-mirror.json) |
 | Alice in Wonderland: Extended Edition | 52379 | [52379-alice-in-wonderland-extended-edition.json](./52379-alice-in-wonderland-extended-edition.json) |
 | Alice in Wonderland: Jigsaw Puzzle | 207804 | [207804-alice-in-wonderland-jigsaw-puzzle.json](./207804-alice-in-wonderland-jigsaw-puzzle.json) |
 | Alice in Wonderland: Magical Labyrinth | 328575 | [328575-alice-in-wonderland-magical-labyrinth.json](./328575-alice-in-wonderland-magical-labyrinth.json) |
@@ -13614,6 +13616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Grave | 382831 | [382831-arctic-grave.json](./382831-arctic-grave.json) |
 | Arctic Incident | 221924 | [221924-arctic-incident.json](./221924-arctic-incident.json) |
 | Arctic Isolation | 371330 | [371330-arctic-isolation.json](./371330-arctic-isolation.json) |
+| Arctic Mage Course | 98491 | [98491-arctic-mage-course.json](./98491-arctic-mage-course.json) |
 | Arctic Motel Simulator | 311829 | [311829-arctic-motel-simulator.json](./311829-arctic-motel-simulator.json) |
 | Arctic Moves | 70277 | [70277-arctic-moves.json](./70277-arctic-moves.json) |
 | Arctic Outpost | 262264 | [262264-arctic-outpost.json](./262264-arctic-outpost.json) |
