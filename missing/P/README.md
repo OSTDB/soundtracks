@@ -14101,6 +14101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Predator: Hunting Grounds | 118272 | [118272-predator-hunting-grounds.json](./118272-predator-hunting-grounds.json) |
 | Predator: Hunting Grounds - City Hunter Predator | 168758 | [168758-predator-hunting-grounds-city-hunter-predator.json](./168758-predator-hunting-grounds-city-hunter-predator.json) |
 | Predator: Hunting Grounds - Dante "Beast Mode" Jefferson | 168764 | [168764-predator-hunting-grounds-dante-beast-mode-jefferson.json](./168764-predator-hunting-grounds-dante-beast-mode-jefferson.json) |
+| Predator: Hunting Grounds - Digital Deluxe Edition | 132973 | [132973-predator-hunting-grounds-digital-deluxe-edition.json](./132973-predator-hunting-grounds-digital-deluxe-edition.json) |
 | Predator: Hunting Grounds - Dutch '87 | 168762 | [168762-predator-hunting-grounds-dutch-87.json](./168762-predator-hunting-grounds-dutch-87.json) |
 | Predator: Hunting Grounds - Dutch 2025 DLC Pack | 168759 | [168759-predator-hunting-grounds-dutch-2025-dlc-pack.json](./168759-predator-hunting-grounds-dutch-2025-dlc-pack.json) |
 | Predator: Hunting Grounds - Emissary Predator | 199770 | [199770-predator-hunting-grounds-emissary-predator.json](./199770-predator-hunting-grounds-emissary-predator.json) |
