@@ -3911,6 +3911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: The Dracula X Chronicles | 21888 | [21888-castlevania-the-dracula-x-chronicles.json](./21888-castlevania-the-dracula-x-chronicles.json) |
 | Castlevania: The Holy Relics | 127263 | [127263-castlevania-the-holy-relics.json](./127263-castlevania-the-holy-relics.json) |
 | Castlevania: The Last Tear | 222346 | [222346-castlevania-the-last-tear.json](./222346-castlevania-the-last-tear.json) |
+| Castlevania: The Lecarde Chronicles | 131704 | [131704-castlevania-the-lecarde-chronicles.json](./131704-castlevania-the-lecarde-chronicles.json) |
 | Castlevania: The Lecarde Chronicles 2 | 135472 | [135472-castlevania-the-lecarde-chronicles-2.json](./135472-castlevania-the-lecarde-chronicles-2.json) |
 | Castlevania: The Seal Of The Curse | 284148 | [284148-castlevania-the-seal-of-the-curse.json](./284148-castlevania-the-seal-of-the-curse.json) |
 | Castlevania: The Seal Of The Curse X | 317630 | [317630-castlevania-the-seal-of-the-curse-x.json](./317630-castlevania-the-seal-of-the-curse-x.json) |
@@ -11424,6 +11425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code UltraViolet | 406864 | [406864-code-ultraviolet.json](./406864-code-ultraviolet.json) |
 | Code Vein: Blood Thirst Edition | 134244 | [134244-code-vein-blood-thirst-edition.json](./134244-code-vein-blood-thirst-edition.json) |
 | Code Vein: Collector's Edition | 103212 | [103212-code-vein-collectors-edition.json](./103212-code-vein-collectors-edition.json) |
+| Code Vein: Frozen Empress | 131710 | [131710-code-vein-frozen-empress.json](./131710-code-vein-frozen-empress.json) |
 | Code Vein: Hellfire Knight | 129134 | [129134-code-vein-hellfire-knight.json](./129134-code-vein-hellfire-knight.json) |
 | Code Vein: Lord of Thunder | 131954 | [131954-code-vein-lord-of-thunder.json](./131954-code-vein-lord-of-thunder.json) |
 | Code Vein: Season Pass | 131955 | [131955-code-vein-season-pass.json](./131955-code-vein-season-pass.json) |
@@ -20983,6 +20985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cybernetic Hi-School Part 2: Highway Buster | 70080 | [70080-cybernetic-hi-school-part-2-highway-buster.json](./70080-cybernetic-hi-school-part-2-highway-buster.json) |
 | Cybernetic Moon Horse 2071 | 200771 | [200771-cybernetic-moon-horse-2071.json](./200771-cybernetic-moon-horse-2071.json) |
 | Cybernetic Seduction: Season 1 | 384890 | [384890-cybernetic-seduction-season-1.json](./384890-cybernetic-seduction-season-1.json) |
+| Cybernetica | 131694 | [131694-cybernetica.json](./131694-cybernetica.json) |
 | Cybernetica: fallen city | 164253 | [164253-cybernetica-fallen-city.json](./164253-cybernetica-fallen-city.json) |
 | Cybernetica: Final | 190738 | [190738-cybernetica-final.json](./190738-cybernetica-final.json) |
 | Cybernetix | 69774 | [69774-cybernetix.json](./69774-cybernetix.json) |
@@ -21051,6 +21054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberRoom | 339358 | [339358-cyberroom.json](./339358-cyberroom.json) |
 | Cyberrrevolution | 180211 | [180211-cyberrrevolution.json](./180211-cyberrrevolution.json) |
 | Cyberrunner | 212337 | [212337-cyberrunner.json](./212337-cyberrunner.json) |
+| CyberRunner | 131714 | [131714-cyberrunner.json](./131714-cyberrunner.json) |
 | CyberRush | 276215 | [276215-cyberrush.json](./276215-cyberrush.json) |
 | Cybersaurs: Dinosaurs in Space | 185468 | [185468-cybersaurs-dinosaurs-in-space.json](./185468-cybersaurs-dinosaurs-in-space.json) |
 | Cyberscape | 235201 | [235201-cyberscape.json](./235201-cyberscape.json) |
@@ -21126,6 +21130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyborg Arena 2 | 368432 | [368432-cyborg-arena-2.json](./368432-cyborg-arena-2.json) |
 | Cyborg City | 339359 | [339359-cyborg-city.json](./339359-cyborg-city.json) |
 | Cyborg Detonator | 32984 | [32984-cyborg-detonator.json](./32984-cyborg-detonator.json) |
+| Cyborg Earthworm | 131696 | [131696-cyborg-earthworm.json](./131696-cyborg-earthworm.json) |
 | Cyborg Force | 310147 | [310147-cyborg-force.json](./310147-cyborg-force.json) |
 | Cyborg Hunter | 45653 | [45653-cyborg-hunter.json](./45653-cyborg-hunter.json) |
 | Cyborg Invasion Shooter | 75018 | [75018-cyborg-invasion-shooter.json](./75018-cyborg-invasion-shooter.json) |
