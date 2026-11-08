@@ -14089,6 +14089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Trouble: Sexy Adventure | 387107 | [387107-double-trouble-sexy-adventure.json](./387107-double-trouble-sexy-adventure.json) |
 | Double Trouble: Sexy Logic | 386183 | [386183-double-trouble-sexy-logic.json](./386183-double-trouble-sexy-logic.json) |
 | Double Turn | 83429 | [83429-double-turn.json](./83429-double-turn.json) |
+| Double Value! 2 Games in 1 | 137741 | [137741-double-value-2-games-in-1.json](./137741-double-value-2-games-in-1.json) |
 | Double View | 250432 | [250432-double-view.json](./250432-double-view.json) |
 | Double Vision | 80388 | [80388-double-vision.json](./80388-double-vision.json) |
 | Double Whammy | 302084 | [302084-double-whammy.json](./302084-double-whammy.json) |
@@ -14798,6 +14799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Arise | 252959 | [252959-dragon-arise.json](./252959-dragon-arise.json) |
 | Dragon Assault | 360148 | [360148-dragon-assault.json](./360148-dragon-assault.json) |
 | Dragon Atlas | 23635 | [23635-dragon-atlas.json](./23635-dragon-atlas.json) |
+| Dragon Attack | 137784 | [137784-dragon-attack.json](./137784-dragon-attack.json) |
 | Dragon Audit: Deluxe Edition | 237853 | [237853-dragon-audit-deluxe-edition.json](./237853-dragon-audit-deluxe-edition.json) |
 | Dragon Awaken | 110084 | [110084-dragon-awaken.json](./110084-dragon-awaken.json) |
 | Dragon Ball | 38662 | [38662-dragon-ball.json](./38662-dragon-ball.json) |
