@@ -6447,6 +6447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goinund | 105095 | [105095-goinund.json](./105095-goinund.json) |
 | Gojira tai 3 Daikaijuu | 75884 | [75884-gojira-tai-3-daikaijuu.json](./75884-gojira-tai-3-daikaijuu.json) |
 | Gojira-kun | 75886 | [75886-gojira-kun.json](./75886-gojira-kun.json) |
+| GOK | 115896 | [115896-gok.json](./115896-gok.json) |
 | GOKA Street | 297250 | [297250-goka-street.json](./297250-goka-street.json) |
 | GoKaDu | 250811 | [250811-gokadu.json](./250811-gokadu.json) |
 | Gokai Awesome Simulator + | 326416 | [326416-gokai-awesome-simulator.json](./326416-gokai-awesome-simulator.json) |
@@ -6863,6 +6864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Open Cup | 234469 | [234469-golf-open-cup.json](./234469-golf-open-cup.json) |
 | Golf Party | 141741 | [141741-golf-party.json](./141741-golf-party.json) |
 | Golf Peaks | 107329 | [107329-golf-peaks.json](./107329-golf-peaks.json) |
+| Golf Pool VR | 115928 | [115928-golf-pool-vr.json](./115928-golf-pool-vr.json) |
 | Golf Pro | 247062 | [247062-golf-pro.json](./247062-golf-pro.json) |
 | Golf Pro 2000 Downunder | 93072 | [93072-golf-pro-2000-downunder.json](./93072-golf-pro-2000-downunder.json) |
 | Golf Pro HD | 87328 | [87328-golf-pro-hd.json](./87328-golf-pro-hd.json) |
