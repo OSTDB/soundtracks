@@ -133,6 +133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naïca | 118959 | [118959-naica.json](./118959-naica.json) |
 | Naiko's Room | 277797 | [277797-naikos-room.json](./277797-naikos-room.json) |
 | Nail 'n Scale | 49035 | [49035-nail-n-scale.json](./49035-nail-n-scale.json) |
+| Nail Art For Girls | 90030 | [90030-nail-art-for-girls.json](./90030-nail-art-for-girls.json) |
 | Nail Doctor | 106873 | [106873-nail-doctor.json](./106873-nail-doctor.json) |
 | Nail Salon | 89198 | [89198-nail-salon.json](./89198-nail-salon.json) |
 | Nail Salon: Style and Makeup Bag | 203714 | [203714-nail-salon-style-and-makeup-bag.json](./203714-nail-salon-style-and-makeup-bag.json) |
@@ -3667,6 +3668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Generation Soccer Coach | 173025 | [173025-next-generation-soccer-coach.json](./173025-next-generation-soccer-coach.json) |
 | Next Generation Tennis 2003 | 43443 | [43443-next-generation-tennis-2003.json](./43443-next-generation-tennis-2003.json) |
 | Next Hand Master | 128214 | [128214-next-hand-master.json](./128214-next-hand-master.json) |
+| Next Hero | 90037 | [90037-next-hero.json](./90037-next-hero.json) |
 | Next In Line | 366958 | [366958-next-in-line.json](./366958-next-in-line.json) |
 | Next Island | 92473 | [92473-next-island.json](./92473-next-island.json) |
 | Next jump: Shmup Tactics | 28665 | [28665-next-jump-shmup-tactics.json](./28665-next-jump-shmup-tactics.json) |
