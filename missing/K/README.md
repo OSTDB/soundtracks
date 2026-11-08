@@ -5090,6 +5090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koegasuru | 341799 | [341799-koegasuru.json](./341799-koegasuru.json) |
 | Koen Hunter | 97769 | [97769-koen-hunter.json](./97769-koen-hunter.json) |
 | Koenchu! The Tale of the Voice Actress: You, the Sky, and that Summer | 82714 | [82714-koenchu-the-tale-of-the-voice-actress-you-the-sky-and-that-summer.json](./82714-koenchu-the-tale-of-the-voice-actress-you-the-sky-and-that-summer.json) |
+| Koewotayorini | 90006 | [90006-koewotayorini.json](./90006-koewotayorini.json) |
 | Koezaru ha Akai Hana After Disc: Ayanasu Mirai | 222118 | [222118-koezaru-ha-akai-hana-after-disc-ayanasu-mirai.json](./222118-koezaru-ha-akai-hana-after-disc-ayanasu-mirai.json) |
 | Koezaru ha Akai Hana: Koi ha Tsuki ni Michibikareru | 130001 | [130001-koezaru-ha-akai-hana-koi-ha-tsuki-ni-michibikareru.json](./130001-koezaru-ha-akai-hana-koi-ha-tsuki-ni-michibikareru.json) |
 | Koezaru wa Akai Hana: Taiga ha Mirai wo Tsumugu | 222117 | [222117-koezaru-wa-akai-hana-taiga-ha-mirai-wo-tsumugu.json](./222117-koezaru-wa-akai-hana-taiga-ha-mirai-wo-tsumugu.json) |
