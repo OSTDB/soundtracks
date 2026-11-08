@@ -2148,6 +2148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vietnam Warrior: Against the US Invasion | 380126 | [380126-vietnam-warrior-against-the-us-invasion.json](./380126-vietnam-warrior-against-the-us-invasion.json) |
 | Vietnam: Black Ops | 78703 | [78703-vietnam-black-ops.json](./78703-vietnam-black-ops.json) |
 | Vietnam: Ho Chi Minh Trail | 94632 | [94632-vietnam-ho-chi-minh-trail.json](./94632-vietnam-ho-chi-minh-trail.json) |
+| View-Master TMNT VR | 98607 | [98607-view-master-tmnt-vr.json](./98607-view-master-tmnt-vr.json) |
 | ViewerFrenzy | 415492 | [415492-viewerfrenzy.json](./415492-viewerfrenzy.json) |
 | Viewergames Racing | 139242 | [139242-viewergames-racing.json](./139242-viewergames-racing.json) |
 | Viewpoint | 119410 | [119410-viewpoint.json](./119410-viewpoint.json) |
@@ -3491,6 +3492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Wisp | 44262 | [44262-void-wisp.json](./44262-void-wisp.json) |
 | Void Witch | 335770 | [335770-void-witch.json](./335770-void-witch.json) |
 | Void Wizard | 280133 | [280133-void-wizard.json](./280133-void-wizard.json) |
+| Void_R | 98157 | [98157-void-r.json](./98157-void-r.json) |
 | Void-Dogs | 180578 | [180578-void-dogs.json](./180578-void-dogs.json) |
 | Void-X | 207998 | [207998-void-x.json](./207998-void-x.json) |
 | Void: Edge of Existence | 235847 | [235847-void-edge-of-existence.json](./235847-void-edge-of-existence.json) |
