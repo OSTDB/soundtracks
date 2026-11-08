@@ -660,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lamm | 29600 | [29600-lamm.json](./29600-lamm.json) |
 | Lammana: The Looe Island Mystery | 132466 | [132466-lammana-the-looe-island-mystery.json](./132466-lammana-the-looe-island-mystery.json) |
 | Lamo | 121465 | [121465-lamo.json](./121465-lamo.json) |
+| Lamo: The Game | 124344 | [124344-lamo-the-game.json](./124344-lamo-the-game.json) |
 | Lamoneo | 201362 | [201362-lamoneo.json](./201362-lamoneo.json) |
 | Lamp and Vamp | 240111 | [240111-lamp-and-vamp.json](./240111-lamp-and-vamp.json) |
 | Lamp Chronicle | 143840 | [143840-lamp-chronicle.json](./143840-lamp-chronicle.json) |
@@ -3760,6 +3761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Get Grillin' | 342293 | [342293-lets-get-grillin.json](./342293-lets-get-grillin.json) |
 | Let's Get Happy Ending Project Chapter 1 Yume Nikki Time to Wake Up | 229488 | [229488-lets-get-happy-ending-project-chapter-1-yume-nikki-time-to-wake-up.json](./229488-lets-get-happy-ending-project-chapter-1-yume-nikki-time-to-wake-up.json) |
 | Let's Get Rich | 112316 | [112316-lets-get-rich.json](./112316-lets-get-rich.json) |
+| Let's Get This Bread | 124351 | [124351-lets-get-this-bread.json](./124351-lets-get-this-bread.json) |
 | Let's go | 270996 | [270996-lets-go.json](./270996-lets-go.json) |
 | Let's Go | 246466 | [246466-lets-go.json](./246466-lets-go.json) |
 | Let's Go Baby! Suffocation | 201932 | [201932-lets-go-baby-suffocation.json](./201932-lets-go-baby-suffocation.json) |
@@ -6794,6 +6796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lobo | 274668 | [274668-lobo.json](./274668-lobo.json) |
 | Lobo | 86130 | [86130-lobo.json](./86130-lobo.json) |
 | Lobo with Shotguns | 58585 | [58585-lobo-with-shotguns.json](./58585-lobo-with-shotguns.json) |
+| Lobo: Jukebox of Pain | 124349 | [124349-lobo-jukebox-of-pain.json](./124349-lobo-jukebox-of-pain.json) |
 | Lobos: Definitive Edition | 398654 | [398654-lobos-definitive-edition.json](./398654-lobos-definitive-edition.json) |
 | Lobotomy Corporation | 30002 | [30002-lobotomy-corporation.json](./30002-lobotomy-corporation.json) |
 | Lobotomy Corporation Wonder Lab Mod | 232909 | [232909-lobotomy-corporation-wonder-lab-mod.json](./232909-lobotomy-corporation-wonder-lab-mod.json) |
@@ -10188,6 +10191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lure of the Temptress | 8482 | [8482-lure-of-the-temptress.json](./8482-lure-of-the-temptress.json) |
 | Lure: The King's Gold | 120167 | [120167-lure-the-kings-gold.json](./120167-lure-the-kings-gold.json) |
 | Lured | 245753 | [245753-lured.json](./245753-lured.json) |
+| Lurid Land | 124369 | [124369-lurid-land.json](./124369-lurid-land.json) |
 | Lurk | 89821 | [89821-lurk.json](./89821-lurk.json) |
 | Lurk and Rouse | 217316 | [217316-lurk-and-rouse.json](./217316-lurk-and-rouse.json) |
 | Lurk in Abyss | 390141 | [390141-lurk-in-abyss.json](./390141-lurk-in-abyss.json) |
