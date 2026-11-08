@@ -561,6 +561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate FPS Challenge | 299175 | [299175-ultimate-fps-challenge.json](./299175-ultimate-fps-challenge.json) |
 | Ultimate Frolf Chaos! | 394409 | [394409-ultimate-frolf-chaos.json](./394409-ultimate-frolf-chaos.json) |
 | Ultimate Front | 255142 | [255142-ultimate-front.json](./255142-ultimate-front.json) |
+| Ultimate Game Room | 122512 | [122512-ultimate-game-room.json](./122512-ultimate-game-room.json) |
 | Ultimate Gamepak | 273907 | [273907-ultimate-gamepak.json](./273907-ultimate-gamepak.json) |
 | Ultimate Games Bundle | 273337 | [273337-ultimate-games-bundle.json](./273337-ultimate-games-bundle.json) |
 | Ultimate Gem | 259537 | [259537-ultimate-gem.json](./259537-ultimate-gem.json) |
@@ -1486,6 +1487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uncracked | 406826 | [406826-uncracked.json](./406826-uncracked.json) |
 | Uncraft Me! | 147333 | [147333-uncraft-me.json](./147333-uncraft-me.json) |
 | Uncrashed: FPV Drone Simulator | 165627 | [165627-uncrashed-fpv-drone-simulator.json](./165627-uncrashed-fpv-drone-simulator.json) |
+| Uncrossed | 122539 | [122539-uncrossed.json](./122539-uncrossed.json) |
 | Uncrowded | 26825 | [26825-uncrowded.json](./26825-uncrowded.json) |
 | Uncrowned | 214329 | [214329-uncrowned.json](./214329-uncrowned.json) |
 | Uncrowned | 281909 | [281909-uncrowned.json](./281909-uncrowned.json) |
