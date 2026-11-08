@@ -3981,7 +3981,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4008,6 +4007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Tanks | 30759 | [30759-infinite-tanks.json](./30759-infinite-tanks.json) |
 | Infinite Tanks WWII | 150266 | [150266-infinite-tanks-wwii.json](./150266-infinite-tanks-wwii.json) |
 | Infinite Tournament Paintball | 161626 | [161626-infinite-tournament-paintball.json](./161626-infinite-tournament-paintball.json) |
+| Infinite Train | 99885 | [99885-infinite-train.json](./99885-infinite-train.json) |
 | Infinite Turtles | 198362 | [198362-infinite-turtles.json](./198362-infinite-turtles.json) |
 | Infinite Tux | 262145 | [262145-infinite-tux.json](./262145-infinite-tux.json) |
 | Infinite Undiscovery | 7019 | [7019-infinite-undiscovery.json](./7019-infinite-undiscovery.json) |
