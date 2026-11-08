@@ -29430,6 +29430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Station Tycoon | 411263 | [411263-train-station-tycoon.json](./411263-train-station-tycoon.json) |
 | Train Station: Rail Transport | 243085 | [243085-train-station-rail-transport.json](./243085-train-station-rail-transport.json) |
 | Train Story | 128986 | [128986-train-story.json](./128986-train-story.json) |
+| Train Taxi | 119904 | [119904-train-taxi.json](./119904-train-taxi.json) |
 | Train to Amber Coast | 179666 | [179666-train-to-amber-coast.json](./179666-train-to-amber-coast.json) |
 | Train to Eureka | 179443 | [179443-train-to-eureka.json](./179443-train-to-eureka.json) |
 | Train to Hong Kong | 324323 | [324323-train-to-hong-kong.json](./324323-train-to-hong-kong.json) |
@@ -32397,6 +32398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truck Simulator: World | 236249 | [236249-truck-simulator-world.json](./236249-truck-simulator-world.json) |
 | Truck Space | 220829 | [220829-truck-space.json](./220829-truck-space.json) |
 | Truck Stars AR | 95771 | [95771-truck-stars-ar.json](./95771-truck-stars-ar.json) |
+| Truck the System | 119867 | [119867-truck-the-system.json](./119867-truck-the-system.json) |
 | Truck Titans | 364783 | [364783-truck-titans.json](./364783-truck-titans.json) |
 | Truck Toss | 409110 | [409110-truck-toss.json](./409110-truck-toss.json) |
 | Truck Trials 2 | 175379 | [175379-truck-trials-2.json](./175379-truck-trials-2.json) |
