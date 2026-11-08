@@ -6621,6 +6621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Legends: Ice Rose - Collector's Edition | 104704 | [104704-living-legends-ice-rose-collectors-edition.json](./104704-living-legends-ice-rose-collectors-edition.json) |
 | Living Legends: The Blue Chamber | 397037 | [397037-living-legends-the-blue-chamber.json](./397037-living-legends-the-blue-chamber.json) |
 | Living Legends: The Blue Chamber Collector's Edition | 216441 | [216441-living-legends-the-blue-chamber-collectors-edition.json](./216441-living-legends-the-blue-chamber-collectors-edition.json) |
+| Living Legends: The Crystal Tear - Collector's Edition | 129314 | [129314-living-legends-the-crystal-tear-collectors-edition.json](./129314-living-legends-the-crystal-tear-collectors-edition.json) |
 | Living Legends: The Red Trace | 397038 | [397038-living-legends-the-red-trace.json](./397038-living-legends-the-red-trace.json) |
 | Living Legends: The Red Trace - Collector's Edition | 340557 | [340557-living-legends-the-red-trace-collectors-edition.json](./340557-living-legends-the-red-trace-collectors-edition.json) |
 | Living Legends: Uninvited Guests | 396980 | [396980-living-legends-uninvited-guests.json](./396980-living-legends-uninvited-guests.json) |
