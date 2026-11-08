@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | #Funtime | 119369 | [119369-funtime.json](./119369-funtime.json) |
 | #Halloween, Super Puzzles Dream | 147438 | [147438-halloween-super-puzzles-dream.json](./147438-halloween-super-puzzles-dream.json) |
 | #HardCrash | 176217 | [176217-hardcrash.json](./176217-hardcrash.json) |
+| #Have A Sticker | 99640 | [99640-have-a-sticker.json](./99640-have-a-sticker.json) |
 | #IDARB | 9888 | [9888-idarb.json](./9888-idarb.json) |
 | #Killallzombies | 26369 | [26369-killallzombies.json](./26369-killallzombies.json) |
 | #Leo-kun White Day Kikaku | 376686 | [376686-leo-kun-white-day-kikaku.json](./376686-leo-kun-white-day-kikaku.json) |
@@ -2155,6 +2156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-in-1 Christmas Collection | 331411 | [331411-3-in-1-christmas-collection.json](./331411-3-in-1-christmas-collection.json) |
 | 3-in-1 Easter Collection | 339066 | [339066-3-in-1-easter-collection.json](./339066-3-in-1-easter-collection.json) |
 | 3-in-1 fun bundle | 223575 | [223575-3-in-1-fun-bundle.json](./223575-3-in-1-fun-bundle.json) |
+| 3-in-1 Mega Bundle | 99810 | [99810-3-in-1-mega-bundle.json](./99810-3-in-1-mega-bundle.json) |
 | 3-in-One Game Compilation | 92275 | [92275-3-in-one-game-compilation.json](./92275-3-in-one-game-compilation.json) |
 | 3-K Trivia | 100108 | [100108-3-k-trivia.json](./100108-3-k-trivia.json) |
 | 3-Legged Race A | 354400 | [354400-3-legged-race-a.json](./354400-3-legged-race-a.json) |
