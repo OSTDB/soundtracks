@@ -405,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yawara!: Yawara no Seishun | 353407 | [353407-yawara-yawara-no-seishun.json](./353407-yawara-yawara-no-seishun.json) |
 | Yawning Triceratops | 245677 | [245677-yawning-triceratops.json](./245677-yawning-triceratops.json) |
 | Yawnoc | 288449 | [288449-yawnoc.json](./288449-yawnoc.json) |
+| YAWS: Yet Another Waveshooter | 120454 | [120454-yaws-yet-another-waveshooter.json](./120454-yaws-yet-another-waveshooter.json) |
 | Yay BMO | 268988 | [268988-yay-bmo.json](./268988-yay-bmo.json) |
 | Yay! Spring Trip with My Coworkers! | 319071 | [319071-yay-spring-trip-with-my-coworkers.json](./319071-yay-spring-trip-with-my-coworkers.json) |
 | Yayla | 235551 | [235551-yayla.json](./235551-yayla.json) |
@@ -559,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yet Another Jumping Game | 395082 | [395082-yet-another-jumping-game.json](./395082-yet-another-jumping-game.json) |
 | Yet Another Killing Game | 329407 | [329407-yet-another-killing-game.json](./329407-yet-another-killing-game.json) |
 | Yet Another Krappy Shooter | 281533 | [281533-yet-another-krappy-shooter.json](./281533-yet-another-krappy-shooter.json) |
+| Yet Another Level | 120447 | [120447-yet-another-level.json](./120447-yet-another-level.json) |
 | Yet Another One | 338117 | [338117-yet-another-one.json](./338117-yet-another-one.json) |
 | Yet Another Pixel Dungeon | 129772 | [129772-yet-another-pixel-dungeon.json](./129772-yet-another-pixel-dungeon.json) |
 | Yet Another PS2 Half-Life Port | 401274 | [401274-yet-another-ps2-half-life-port.json](./401274-yet-another-ps2-half-life-port.json) |
