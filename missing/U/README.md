@@ -2087,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UnExist: Yume Kanawanu Douketachi | 393298 | [393298-unexist-yume-kanawanu-douketachi.json](./393298-unexist-yume-kanawanu-douketachi.json) |
 | Unexpected | 420180 | [420180-unexpected.json](./420180-unexpected.json) |
 | Unexpected 2 | 420182 | [420182-unexpected-2.json](./420182-unexpected-2.json) |
+| Unexpected Circumstances | 108007 | [108007-unexpected-circumstances.json](./108007-unexpected-circumstances.json) |
 | Unexpected Consequences | 268218 | [268218-unexpected-consequences.json](./268218-unexpected-consequences.json) |
 | Unexpected Day | 29553 | [29553-unexpected-day.json](./29553-unexpected-day.json) |
 | Unexpected End | 75807 | [75807-unexpected-end.json](./75807-unexpected-end.json) |
@@ -3419,6 +3420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban Legends | 17384 | [17384-urban-legends.json](./17384-urban-legends.json) |
 | Urban Legends: The Dry Body | 369288 | [369288-urban-legends-the-dry-body.json](./369288-urban-legends-the-dry-body.json) |
 | Urban Legends: The Maze | 57964 | [57964-urban-legends-the-maze.json](./57964-urban-legends-the-maze.json) |
+| Urban Lockdown | 107998 | [107998-urban-lockdown.json](./107998-urban-lockdown.json) |
 | Urban Mage | 160034 | [160034-urban-mage.json](./160034-urban-mage.json) |
 | Urban Massacre | 278500 | [278500-urban-massacre.json](./278500-urban-massacre.json) |
 | Urban Mercenary | 146297 | [146297-urban-mercenary.json](./146297-urban-mercenary.json) |
