@@ -1323,6 +1323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout 4: Game of the Year Edition | 54612 | [54612-fallout-4-game-of-the-year-edition.json](./54612-fallout-4-game-of-the-year-edition.json) |
 | Fallout 4: Game of the Year Pip-Boy Edition | 72379 | [72379-fallout-4-game-of-the-year-pip-boy-edition.json](./72379-fallout-4-game-of-the-year-pip-boy-edition.json) |
 | Fallout 4: Gold Bundle | 89845 | [89845-fallout-4-gold-bundle.json](./89845-fallout-4-gold-bundle.json) |
+| Fallout 4: New Vegas | 110578 | [110578-fallout-4-new-vegas.json](./110578-fallout-4-new-vegas.json) |
 | Fallout 4: Pip-Boy Edition | 45130 | [45130-fallout-4-pip-boy-edition.json](./45130-fallout-4-pip-boy-edition.json) |
 | Fallout 4: Season Pass | 293723 | [293723-fallout-4-season-pass.json](./293723-fallout-4-season-pass.json) |
 | Fallout 4: Vault-Tec Workshop | 19533 | [19533-fallout-4-vault-tec-workshop.json](./19533-fallout-4-vault-tec-workshop.json) |
@@ -2790,6 +2791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farming Simulator 25: Plains & Prairies Pack | 352879 | [352879-farming-simulator-25-plains-and-prairies-pack.json](./352879-farming-simulator-25-plains-and-prairies-pack.json) |
 | Farming Simulator 25: Straw Harvest Pack | 360753 | [360753-farming-simulator-25-straw-harvest-pack.json](./360753-farming-simulator-25-straw-harvest-pack.json) |
 | Farming Simulator 25: Year 1 Season Pass | 352888 | [352888-farming-simulator-25-year-1-season-pass.json](./352888-farming-simulator-25-year-1-season-pass.json) |
+| Farming Simulator C64 Edition | 110482 | [110482-farming-simulator-c64-edition.json](./110482-farming-simulator-c64-edition.json) |
 | Farming Simulator C64: Limited Edition | 260776 | [260776-farming-simulator-c64-limited-edition.json](./260776-farming-simulator-c64-limited-edition.json) |
 | Farming Simulator Kids | 287580 | [287580-farming-simulator-kids.json](./287580-farming-simulator-kids.json) |
 | Farming Simulator: Farm, Tractor, Experience Logic Games - Nintendo Switch Edition | 254854 | [254854-farming-simulator-farm-tractor-experience-logic-games-nintendo-switch-edition.json](./254854-farming-simulator-farm-tractor-experience-logic-games-nintendo-switch-edition.json) |
