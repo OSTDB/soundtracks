@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.E.A.T. | 143408 | [143408-m-e-a-t.json](./143408-m-e-a-t.json) |
 | M.E.A.T. II: Absolute Zero | 225190 | [225190-m-e-a-t-ii-absolute-zero.json](./225190-m-e-a-t-ii-absolute-zero.json) |
 | M.E.C.H.A.: Memory Erasure Control of Hover Attractor | 348770 | [348770-m-e-c-h-a-memory-erasure-control-of-hover-attractor.json](./348770-m-e-c-h-a-memory-erasure-control-of-hover-attractor.json) |
+| M.E.M.E.S. | 114495 | [114495-m-e-m-e-s.json](./114495-m-e-m-e-s.json) |
 | M.E.M.O | 317756 | [317756-m-e-m-o.json](./317756-m-e-m-o.json) |
 | M.E.R.C. | 26540 | [26540-m-e-r-c.json](./26540-m-e-r-c.json) |
 | M.E.R.C. Genesis | 260031 | [260031-m-e-r-c-genesis.json](./260031-m-e-r-c-genesis.json) |
@@ -3220,6 +3221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manludo 2 | 303643 | [303643-manludo-2.json](./303643-manludo-2.json) |
 | Manly Men Fighting | 58796 | [58796-manly-men-fighting.json](./58796-manly-men-fighting.json) |
 | Manly Mines | 297138 | [297138-manly-mines.json](./297138-manly-mines.json) |
+| Manna for our Malices | 114568 | [114568-manna-for-our-malices.json](./114568-manna-for-our-malices.json) |
 | Manna Munchers | 73107 | [73107-manna-munchers.json](./73107-manna-munchers.json) |
 | MannaRites | 140566 | [140566-mannarites.json](./140566-mannarites.json) |
 | MannaRites Gold | 265328 | [265328-mannarites-gold.json](./265328-mannarites-gold.json) |
@@ -14349,6 +14351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mito Koumon II: Sekai Manyuu Ki | 48773 | [48773-mito-koumon-ii-sekai-manyuu-ki.json](./48773-mito-koumon-ii-sekai-manyuu-ki.json) |
 | Mitoosis | 144788 | [144788-mitoosis.json](./144788-mitoosis.json) |
 | Mitos | 194860 | [194860-mitos.json](./194860-mitos.json) |
+| Mitos y Leyendas Online | 114586 | [114586-mitos-y-leyendas-online.json](./114586-mitos-y-leyendas-online.json) |
 | Mitos.is: OG | 350360 | [350360-mitos-is-og.json](./350360-mitos-is-og.json) |
 | Mitos.is: The Game | 34786 | [34786-mitos-is-the-game.json](./34786-mitos-is-the-game.json) |
 | Mitosis | 29959 | [29959-mitosis.json](./29959-mitosis.json) |
@@ -17902,6 +17905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moshling Rescue! | 395487 | [395487-moshling-rescue.json](./395487-moshling-rescue.json) |
 | Móshòu Shìjiè: Èmó Lièrén | 252361 | [252361-moshou-shijie-emo-lieren.json](./252361-moshou-shijie-emo-lieren.json) |
 | Moshpit | 113298 | [113298-moshpit.json](./113298-moshpit.json) |
+| Moshpit - Heavy Metal is War | 114611 | [114611-moshpit-heavy-metal-is-war.json](./114611-moshpit-heavy-metal-is-war.json) |
 | MoSimulator | 404512 | [404512-mosimulator.json](./404512-mosimulator.json) |
 | Moskao Fighter | 293361 | [293361-moskao-fighter.json](./293361-moskao-fighter.json) |
 | Mosquito | 394426 | [394426-mosquito.json](./394426-mosquito.json) |
@@ -22696,6 +22700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Myths of the World: Behind the Veil | 140241 | [140241-myths-of-the-world-behind-the-veil.json](./140241-myths-of-the-world-behind-the-veil.json) |
 | Myths of the World: Behind the Veil - Collector's Edition | 83915 | [83915-myths-of-the-world-behind-the-veil-collectors-edition.json](./83915-myths-of-the-world-behind-the-veil-collectors-edition.json) |
 | Myths of the World: Black Rose | 140242 | [140242-myths-of-the-world-black-rose.json](./140242-myths-of-the-world-black-rose.json) |
+| Myths of the World: Black Rose - Collector's Edition | 114583 | [114583-myths-of-the-world-black-rose-collectors-edition.json](./114583-myths-of-the-world-black-rose-collectors-edition.json) |
 | Myths of the World: Black Rose HD | 104490 | [104490-myths-of-the-world-black-rose-hd.json](./104490-myths-of-the-world-black-rose-hd.json) |
 | Myths of the World: Born of Clay and Fire | 103147 | [103147-myths-of-the-world-born-of-clay-and-fire.json](./103147-myths-of-the-world-born-of-clay-and-fire.json) |
 | Myths of the World: Chinese Healer | 140243 | [140243-myths-of-the-world-chinese-healer.json](./140243-myths-of-the-world-chinese-healer.json) |
