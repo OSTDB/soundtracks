@@ -2921,6 +2921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Bout Garou Densetsu Best Collection | 176135 | [176135-real-bout-garou-densetsu-best-collection.json](./176135-real-bout-garou-densetsu-best-collection.json) |
 | Real Bout Garou Densetsu Special: Dominated Mind | 43874 | [43874-real-bout-garou-densetsu-special-dominated-mind.json](./43874-real-bout-garou-densetsu-special-dominated-mind.json) |
 | Real Boxing | 9415 | [9415-real-boxing.json](./9415-real-boxing.json) |
+| Real Boxing 2 Rocky | 90873 | [90873-real-boxing-2-rocky.json](./90873-real-boxing-2-rocky.json) |
 | Real Boxing 2: Remastered | 324127 | [324127-real-boxing-2-remastered.json](./324127-real-boxing-2-remastered.json) |
 | Real Boxing 2: Remastered - DeathShroud DLC | 393067 | [393067-real-boxing-2-remastered-deathshroud-dlc.json](./393067-real-boxing-2-remastered-deathshroud-dlc.json) |
 | Real Boxing 2: Remastered - DeathShroud Edition | 400203 | [400203-real-boxing-2-remastered-deathshroud-edition.json](./400203-real-boxing-2-remastered-deathshroud-edition.json) |
@@ -12212,6 +12213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugby Hero | 233237 | [233237-rugby-hero.json](./233237-rugby-hero.json) |
 | Rugby Leage Live 2: Game of the Year Edition | 323373 | [323373-rugby-leage-live-2-game-of-the-year-edition.json](./323373-rugby-leage-live-2-game-of-the-year-edition.json) |
 | Rugby League | 6021 | [6021-rugby-league.json](./6021-rugby-league.json) |
+| Rugby League 18 | 90724 | [90724-rugby-league-18.json](./90724-rugby-league-18.json) |
 | Rugby League 2 | 6022 | [6022-rugby-league-2.json](./6022-rugby-league-2.json) |
 | Rugby League 26 | 355082 | [355082-rugby-league-26.json](./355082-rugby-league-26.json) |
 | Rugby League 3 | 23364 | [23364-rugby-league-3.json](./23364-rugby-league-3.json) |
