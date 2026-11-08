@@ -4096,6 +4096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aerobat | 18199 | [18199-aerobat.json](./18199-aerobat.json) |
 | Aerobics Revolution | 269323 | [269323-aerobics-revolution.json](./269323-aerobics-revolution.json) |
 | Aerobots | 120425 | [120425-aerobots.json](./120425-aerobots.json) |
+| AeroChopper | 99034 | [99034-aerochopper.json](./99034-aerochopper.json) |
 | Aerocorp | 379492 | [379492-aerocorp.json](./379492-aerocorp.json) |
 | Aerocraft | 134973 | [134973-aerocraft.json](./134973-aerocraft.json) |
 | Aerodangle | 266123 | [266123-aerodangle.json](./266123-aerodangle.json) |
@@ -7992,6 +7993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alpha-Major | 222678 | [222678-alpha-major.json](./222678-alpha-major.json) |
 | Alpha-Nighthawk | 222841 | [222841-alpha-nighthawk.json](./222841-alpha-nighthawk.json) |
 | Alpha: Book 2 | 314188 | [314188-alpha-book-2.json](./314188-alpha-book-2.json) |
+| Alpha/Omega: The Christian RPG | 99045 | [99045-alpha-omega-the-christian-rpg.json](./99045-alpha-omega-the-christian-rpg.json) |
 | Alphabear | 19954 | [19954-alphabear.json](./19954-alphabear.json) |
 | Alphabear 2 | 238300 | [238300-alphabear-2.json](./238300-alphabear-2.json) |
 | Alphabear Hustle | 396230 | [396230-alphabear-hustle.json](./396230-alphabear-hustle.json) |
@@ -9577,6 +9579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient VR coaster | 32297 | [32297-ancient-vr-coaster.json](./32297-ancient-vr-coaster.json) |
 | Ancient War: Three Kingdoms | 113695 | [113695-ancient-war-three-kingdoms.json](./113695-ancient-war-three-kingdoms.json) |
 | Ancient Warfare 3 | 76670 | [76670-ancient-warfare-3.json](./76670-ancient-warfare-3.json) |
+| Ancient Warfare TD | 98682 | [98682-ancient-warfare-td.json](./98682-ancient-warfare-td.json) |
 | Ancient Warlords: Aequilibrium | 102219 | [102219-ancient-warlords-aequilibrium.json](./102219-ancient-warlords-aequilibrium.json) |
 | Ancient Warriors | 283901 | [283901-ancient-warriors.json](./283901-ancient-warriors.json) |
 | Ancient Warriors Casino Jackpot | 174073 | [174073-ancient-warriors-casino-jackpot.json](./174073-ancient-warriors-casino-jackpot.json) |
@@ -12318,6 +12321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarium Designer: Amazonia | 253600 | [253600-aquarium-designer-amazonia.json](./253600-aquarium-designer-amazonia.json) |
 | Aquarium Designer: Japan | 238551 | [238551-aquarium-designer-japan.json](./238551-aquarium-designer-japan.json) |
 | Aquarium Designer: Sea Life | 199595 | [199595-aquarium-designer-sea-life.json](./199595-aquarium-designer-sea-life.json) |
+| Aquarium Island: Underwater Kingdom | 99207 | [99207-aquarium-island-underwater-kingdom.json](./99207-aquarium-island-underwater-kingdom.json) |
 | Aquarium Land | 208728 | [208728-aquarium-land.json](./208728-aquarium-land.json) |
 | Aquarium Land: Armadillo | 303335 | [303335-aquarium-land-armadillo.json](./303335-aquarium-land-armadillo.json) |
 | Aquarium Land: Armadillo Edition | 300903 | [300903-aquarium-land-armadillo-edition.json](./300903-aquarium-land-armadillo-edition.json) |
@@ -17089,6 +17093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
