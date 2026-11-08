@@ -2874,7 +2874,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4268,6 +4267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kitty Kitty Bounce Bounce | 292220 | [292220-kitty-kitty-bounce-bounce.json](./292220-kitty-kitty-bounce-bounce.json) |
 | Kitty Krawler | 262034 | [262034-kitty-krawler.json](./262034-kitty-krawler.json) |
 | Kitty Letter | 145044 | [145044-kitty-letter.json](./145044-kitty-letter.json) |
+| Kitty Love -Way to look for love- | 111914 | [111914-kitty-love-way-to-look-for-love.json](./111914-kitty-love-way-to-look-for-love.json) |
 | Kitty Loves Birds | 346601 | [346601-kitty-loves-birds.json](./346601-kitty-loves-birds.json) |
 | Kitty Luv | 209828 | [209828-kitty-luv.json](./209828-kitty-luv.json) |
 | Kitty Maestro | 129948 | [129948-kitty-maestro.json](./129948-kitty-maestro.json) |
