@@ -4426,6 +4426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giltsteader | 289774 | [289774-giltsteader.json](./289774-giltsteader.json) |
 | Gimbal | 16677 | [16677-gimbal.json](./16677-gimbal.json) |
 | Gimbal Gravity | 82450 | [82450-gimbal-gravity.json](./82450-gimbal-gravity.json) |
+| Gimel Dimension | 108674 | [108674-gimel-dimension.json](./108674-gimel-dimension.json) |
 | Gimlé Trials | 335231 | [335231-gimle-trials.json](./335231-gimle-trials.json) |
 | Gimle: The Broken Prophecy | 180020 | [180020-gimle-the-broken-prophecy.json](./180020-gimle-the-broken-prophecy.json) |
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen | 267651 | [267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json](./267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json) |
@@ -5585,6 +5586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Fetch! 2 | 84548 | [84548-go-fetch-2.json](./84548-go-fetch-2.json) |
 | Go Fight Fantastic! | 127364 | [127364-go-fight-fantastic.json](./127364-go-fight-fantastic.json) |
 | Go Figure! | 282405 | [282405-go-figure.json](./282405-go-figure.json) |
+| Go Fish by Webfoot | 108564 | [108564-go-fish-by-webfoot.json](./108564-go-fish-by-webfoot.json) |
 | Go Fish! | 106750 | [106750-go-fish.json](./106750-go-fish.json) |
 | Go Fish! | 40717 | [40717-go-fish.json](./40717-go-fish.json) |
 | Go Fish! The Pop n' Drop Game | 209761 | [209761-go-fish-the-pop-n-drop-game.json](./209761-go-fish-the-pop-n-drop-game.json) |
@@ -7629,6 +7631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gothmog's Lair | 25815 | [25815-gothmogs-lair.json](./25815-gothmogs-lair.json) |
 | Gothwane Towers | 323376 | [323376-gothwane-towers.json](./323376-gothwane-towers.json) |
 | GOTL: Online RPG | 109246 | [109246-gotl-online-rpg.json](./109246-gotl-online-rpg.json) |
+| Goto | 108665 | [108665-goto.json](./108665-goto.json) |
 | GOTO Bridge 18 | 99502 | [99502-goto-bridge-18.json](./99502-goto-bridge-18.json) |
 | Gotogra | 387357 | [387357-gotogra.json](./387357-gotogra.json) |
 | Gotomomi | 59707 | [59707-gotomomi.json](./59707-gotomomi.json) |
