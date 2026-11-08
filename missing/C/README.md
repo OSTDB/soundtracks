@@ -9270,6 +9270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Circus Empire | 21490 | [21490-circus-empire.json](./21490-circus-empire.json) |
 | Circus Games | 12004 | [12004-circus-games.json](./12004-circus-games.json) |
 | Circus Games | 159042 | [159042-circus-games.json](./159042-circus-games.json) |
+| Circus Interstellar | 80745 | [80745-circus-interstellar.json](./80745-circus-interstellar.json) |
 | Circus Lido | 37724 | [37724-circus-lido.json](./37724-circus-lido.json) |
 | Circus Maximus | 23760 | [23760-circus-maximus.json](./23760-circus-maximus.json) |
 | Circus Maximus: Chariot Wars | 5776 | [5776-circus-maximus-chariot-wars.json](./5776-circus-maximus-chariot-wars.json) |
@@ -13216,6 +13217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comic Days H | 97382 | [97382-comic-days-h.json](./97382-comic-days-h.json) |
 | Comic Jumper: The Adventures of Captain Smiley | 21094 | [21094-comic-jumper-the-adventures-of-captain-smiley.json](./21094-comic-jumper-the-adventures-of-captain-smiley.json) |
 | Comic Kicker Euro 2000 | 92593 | [92593-comic-kicker-euro-2000.json](./92593-comic-kicker-euro-2000.json) |
+| Comic Party | 80719 | [80719-comic-party.json](./80719-comic-party.json) |
 | Comic Party Portable | 59388 | [59388-comic-party-portable.json](./59388-comic-party-portable.json) |
 | Comic Road | 79778 | [79778-comic-road.json](./79778-comic-road.json) |
 | Comic Sakka Series Touma Senki #1: Mashoujo Gakuen Evil | 41354 | [41354-comic-sakka-series-touma-senki-1-mashoujo-gakuen-evil.json](./41354-comic-sakka-series-touma-senki-1-mashoujo-gakuen-evil.json) |
@@ -19666,6 +19668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Hero | 298234 | [298234-cube-hero.json](./298234-cube-hero.json) |
 | Cube Hero Odyssey | 303439 | [303439-cube-hero-odyssey.json](./303439-cube-hero-odyssey.json) |
 | Cube Hits Corner | 370280 | [370280-cube-hits-corner.json](./370280-cube-hits-corner.json) |
+| Cube Hopper | 80721 | [80721-cube-hopper.json](./80721-cube-hopper.json) |
 | Cube Human | 115572 | [115572-cube-human.json](./115572-cube-human.json) |
 | Cube Island | 79554 | [79554-cube-island.json](./79554-cube-island.json) |
 | Cube Jump 3D | 152404 | [152404-cube-jump-3d.json](./152404-cube-jump-3d.json) |
