@@ -1606,6 +1606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Monkey Theorem | 386843 | [386843-idle-monkey-theorem.json](./386843-idle-monkey-theorem.json) |
 | Idle Monkeylogy | 165637 | [165637-idle-monkeylogy.json](./165637-idle-monkeylogy.json) |
 | Idle Monster | 194090 | [194090-idle-monster.json](./194090-idle-monster.json) |
+| Idle Monster Hunting | 103682 | [103682-idle-monster-hunting.json](./103682-idle-monster-hunting.json) |
 | Idle Monster TD: Evolved | 193654 | [193654-idle-monster-td-evolved.json](./193654-idle-monster-td-evolved.json) |
 | Idle Monster: Tower Defense | 138787 | [138787-idle-monster-tower-defense.json](./138787-idle-monster-tower-defense.json) |
 | Idle Monsters | 151815 | [151815-idle-monsters.json](./151815-idle-monsters.json) |
@@ -3960,6 +3961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Pixel | 62692 | [62692-infinite-pixel.json](./62692-infinite-pixel.json) |
 | Infinite Pixel Battles | 188851 | [188851-infinite-pixel-battles.json](./188851-infinite-pixel-battles.json) |
 | Infinite Pizza | 141819 | [141819-infinite-pizza.json](./141819-infinite-pizza.json) |
+| Infinite Pool | 103587 | [103587-infinite-pool.json](./103587-infinite-pool.json) |
 | Infinite Porridge | 319536 | [319536-infinite-porridge.json](./319536-infinite-porridge.json) |
 | Infinite Prison | 210531 | [210531-infinite-prison.json](./210531-infinite-prison.json) |
 | Infinite Progression | 190381 | [190381-infinite-progression.json](./190381-infinite-progression.json) |
