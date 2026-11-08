@@ -21115,6 +21115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spades HD | 355000 | [355000-spades-hd.json](./355000-spades-hd.json) |
 | Spades Pro | 86691 | [86691-spades-pro.json](./86691-spades-pro.json) |
 | Spades: Classic Fun Card Game | 92011 | [92011-spades-classic-fun-card-game.json](./92011-spades-classic-fun-card-game.json) |
+| Spades. | 88403 | [88403-spades.json](./88403-spades.json) |
 | Spades+ | 279708 | [279708-spades.json](./279708-spades.json) |
 | Spades++ | 89124 | [89124-spades.json](./89124-spades.json) |
 | Spadyssey | 93736 | [93736-spadyssey.json](./93736-spadyssey.json) |
@@ -22149,6 +22150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider | 230674 | [230674-spider.json](./230674-spider.json) |
 | Spider | 320132 | [320132-spider.json](./320132-spider.json) |
 | Spider | 379979 | [379979-spider.json](./379979-spider.json) |
+| Spider | 88407 | [88407-spider.json](./88407-spider.json) |
 | Spider | 88429 | [88429-spider.json](./88429-spider.json) |
 | Spider Alley | 25079 | [25079-spider-alley.json](./25079-spider-alley.json) |
 | Spider Amazing Battle Fighting | 193828 | [193828-spider-amazing-battle-fighting.json](./193828-spider-amazing-battle-fighting.json) |
@@ -24704,6 +24706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Force | 284222 | [284222-star-force.json](./284222-star-force.json) |
 | Star Force | 288103 | [288103-star-force.json](./288103-star-force.json) |
 | Star Force | 359727 | [359727-star-force.json](./359727-star-force.json) |
+| Star Force | 88399 | [88399-star-force.json](./88399-star-force.json) |
 | Star Fox | 23854 | [23854-star-fox.json](./23854-star-fox.json) |
 | Star Fox | 308046 | [308046-star-fox.json](./308046-star-fox.json) |
 | Star Fox | 8581 | [8581-star-fox.json](./8581-star-fox.json) |
@@ -25898,6 +25901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starman in space | 88240 | [88240-starman-in-space.json](./88240-starman-in-space.json) |
 | Starman: Tale of Light | 104681 | [104681-starman-tale-of-light.json](./104681-starman-tale-of-light.json) |
 | Starman's VR Experience | 89365 | [89365-starmans-vr-experience.json](./89365-starmans-vr-experience.json) |
+| Starmancer | 88390 | [88390-starmancer.json](./88390-starmancer.json) |
 | StarMap 3D Plus | 41524 | [41524-starmap-3d-plus.json](./41524-starmap-3d-plus.json) |
 | Starmasons | 388419 | [388419-starmasons.json](./388419-starmasons.json) |
 | Starmaster | 18033 | [18033-starmaster.json](./18033-starmaster.json) |
