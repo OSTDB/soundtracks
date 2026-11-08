@@ -4998,6 +4998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeathSpank | 2249 | [2249-deathspank.json](./2249-deathspank.json) |
 | DeathSpank: Thongs of Virtue | 2250 | [2250-deathspank-thongs-of-virtue.json](./2250-deathspank-thongs-of-virtue.json) |
 | DeathSprint 66 | 292868 | [292868-deathsprint-66.json](./292868-deathsprint-66.json) |
+| Deathstar | 94808 | [94808-deathstar.json](./94808-deathstar.json) |
 | Deathstate : Abyssal Edition | 124010 | [124010-deathstate-abyssal-edition.json](./124010-deathstate-abyssal-edition.json) |
 | Deathstreak | 244208 | [244208-deathstreak.json](./244208-deathstreak.json) |
 | Deathstrike | 15214 | [15214-deathstrike.json](./15214-deathstrike.json) |
@@ -11500,6 +11501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Djinn: The Forbidden Knowledge | 302578 | [302578-djinn-the-forbidden-knowledge.json](./302578-djinn-the-forbidden-knowledge.json) |
 | Djinni & Thaco: Trial By Spire | 132779 | [132779-djinni-and-thaco-trial-by-spire.json](./132779-djinni-and-thaco-trial-by-spire.json) |
 | DJLand | 371909 | [371909-djland.json](./371909-djland.json) |
+| DJMax Online | 94922 | [94922-djmax-online.json](./94922-djmax-online.json) |
 | DJMax Portable | 25913 | [25913-djmax-portable.json](./25913-djmax-portable.json) |
 | DJMax Portable 3 | 44491 | [44491-djmax-portable-3.json](./44491-djmax-portable-3.json) |
 | DJMax Portable Black Square | 345290 | [345290-djmax-portable-black-square.json](./345290-djmax-portable-black-square.json) |
@@ -15350,6 +15352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Hunt | 69236 | [69236-dragon-hunt.json](./69236-dragon-hunt.json) |
 | Dragon Hunt Adventure | 204201 | [204201-dragon-hunt-adventure.json](./204201-dragon-hunt-adventure.json) |
 | Dragon Hunter | 76398 | [76398-dragon-hunter.json](./76398-dragon-hunter.json) |
+| Dragon Hunter | 94822 | [94822-dragon-hunter.json](./94822-dragon-hunter.json) |
 | Dragon Hunter : Sniper Choice | 90664 | [90664-dragon-hunter-sniper-choice.json](./90664-dragon-hunter-sniper-choice.json) |
 | Dragon Hunters | 269734 | [269734-dragon-hunters.json](./269734-dragon-hunters.json) |
 | Dragon Inn | 226818 | [226818-dragon-inn.json](./226818-dragon-inn.json) |
@@ -16891,6 +16894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dribble Skillz | 231635 | [231635-dribble-skillz.json](./231635-dribble-skillz.json) |
 | Dride | 253700 | [253700-dride.json](./253700-dride.json) |
 | Drift | 359723 | [359723-drift.json](./359723-drift.json) |
+| Drift | 94859 | [94859-drift.json](./94859-drift.json) |
 | Drift 'n' Burn 2: My Racer | 280966 | [280966-drift-n-burn-2-my-racer.json](./280966-drift-n-burn-2-my-racer.json) |
 | Drift 'n' Burn 365 | 280965 | [280965-drift-n-burn-365.json](./280965-drift-n-burn-365.json) |
 | Drift 'N' Thrift | 311663 | [311663-drift-n-thrift.json](./311663-drift-n-thrift.json) |
