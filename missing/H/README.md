@@ -2564,6 +2564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatris | 265017 | [265017-hatris.json](./265017-hatris.json) |
 | Hatris | 40063 | [40063-hatris.json](./40063-hatris.json) |
 | Hats and Guns | 334215 | [334215-hats-and-guns.json](./334215-hats-and-guns.json) |
+| Hats and Hand Grenades | 132382 | [132382-hats-and-hand-grenades.json](./132382-hats-and-hand-grenades.json) |
 | Hats and Hand Grenades: Capture the Hat | 227068 | [227068-hats-and-hand-grenades-capture-the-hat.json](./227068-hats-and-hand-grenades-capture-the-hat.json) |
 | Hats Are Not Allowed | 159892 | [159892-hats-are-not-allowed.json](./159892-hats-are-not-allowed.json) |
 | Hats Online | 146958 | [146958-hats-online.json](./146958-hats-online.json) |
@@ -8003,6 +8004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Higurashi When They Cry Hou: Ch.5 Meakashi | 29837 | [29837-higurashi-when-they-cry-hou-ch-5-meakashi.json](./29837-higurashi-when-they-cry-hou-ch-5-meakashi.json) |
 | Higurashi When They Cry Hou: Ch.6 Tsumihoroboshi | 102266 | [102266-higurashi-when-they-cry-hou-ch-6-tsumihoroboshi.json](./102266-higurashi-when-they-cry-hou-ch-6-tsumihoroboshi.json) |
 | Higurashi When They Cry Hou: Ch.7 Minagoroshi | 120148 | [120148-higurashi-when-they-cry-hou-ch-7-minagoroshi.json](./120148-higurashi-when-they-cry-hou-ch-7-minagoroshi.json) |
+| Higurashi When They Cry Hou: Ch.8 Matsuribayashi | 132344 | [132344-higurashi-when-they-cry-hou-ch-8-matsuribayashi.json](./132344-higurashi-when-they-cry-hou-ch-8-matsuribayashi.json) |
 | Higurashi When They Cry Hou: Question Arcs | 263402 | [263402-higurashi-when-they-cry-hou-question-arcs.json](./263402-higurashi-when-they-cry-hou-question-arcs.json) |
 | Higurashi When They Cry Hou+ | 273086 | [273086-higurashi-when-they-cry-hou.json](./273086-higurashi-when-they-cry-hou.json) |
 | Higurashi When They Cry Hou+: Mehagashi Chapter | 273084 | [273084-higurashi-when-they-cry-hou-mehagashi-chapter.json](./273084-higurashi-when-they-cry-hou-mehagashi-chapter.json) |
