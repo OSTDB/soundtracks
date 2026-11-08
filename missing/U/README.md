@@ -3310,6 +3310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uragiri wa Boku no Namae wo Shitteiru: Tasogare ni Ochita Inori | 287900 | [287900-uragiri-wa-boku-no-namae-wo-shitteiru-tasogare-ni-ochita-inori.json](./287900-uragiri-wa-boku-no-namae-wo-shitteiru-tasogare-ni-ochita-inori.json) |
 | URagnarok | 98042 | [98042-uragnarok.json](./98042-uragnarok.json) |
 | URagnarok 2 | 98022 | [98022-uragnarok-2.json](./98022-uragnarok-2.json) |
+| Uragun | 116640 | [116640-uragun.json](./116640-uragun.json) |
 | Urakata Hakuoki | 60978 | [60978-urakata-hakuoki.json](./60978-urakata-hakuoki.json) |
 | Urakata Hakuoki: Akatsuki no Shirabe | 60988 | [60988-urakata-hakuoki-akatsuki-no-shirabe.json](./60988-urakata-hakuoki-akatsuki-no-shirabe.json) |
 | Uranai Angel Cutie | 128893 | [128893-uranai-angel-cutie.json](./128893-uranai-angel-cutie.json) |
@@ -3592,6 +3593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | USS Tempest: Spaceship Simulator | 190894 | [190894-uss-tempest-spaceship-simulator.json](./190894-uss-tempest-spaceship-simulator.json) |
 | USS Tlancy | 58997 | [58997-uss-tlancy.json](./58997-uss-tlancy.json) |
 | USS-Enterprise | 246734 | [246734-uss-enterprise.json](./246734-uss-enterprise.json) |
+| USSR 2021 | 116574 | [116574-ussr-2021.json](./116574-ussr-2021.json) |
 | USSR Chan: Hentai Puzzle Game | 163545 | [163545-ussr-chan-hentai-puzzle-game.json](./163545-ussr-chan-hentai-puzzle-game.json) |
 | Ustje | 379983 | [379983-ustje.json](./379983-ustje.json) |
 | Usual | 296624 | [296624-usual.json](./296624-usual.json) |
