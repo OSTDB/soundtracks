@@ -1775,6 +1775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Singh Adventures | 43118 | [43118-happy-singh-adventures.json](./43118-happy-singh-adventures.json) |
 | Happy Sisters Life | 354442 | [354442-happy-sisters-life.json](./354442-happy-sisters-life.json) |
 | Happy Soccer Physics | 97311 | [97311-happy-soccer-physics.json](./97311-happy-soccer-physics.json) |
+| Happy Solitaire | 95533 | [95533-happy-solitaire.json](./95533-happy-solitaire.json) |
 | Happy Song | 60440 | [60440-happy-song.json](./60440-happy-song.json) |
 | Happy Souls | 304845 | [304845-happy-souls.json](./304845-happy-souls.json) |
 | Happy Stealing with Kirisame Marisa | 112878 | [112878-happy-stealing-with-kirisame-marisa.json](./112878-happy-stealing-with-kirisame-marisa.json) |
@@ -11491,6 +11492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Does Into Game? | 406921 | [406921-how-does-into-game.json](./406921-how-does-into-game.json) |
 | How does it work!? | 158347 | [158347-how-does-it-work.json](./158347-how-does-it-work.json) |
 | How Far Can U Go? | 176486 | [176486-how-far-can-u-go.json](./176486-how-far-can-u-go.json) |
+| How Fennec Fox Built a Home | 95522 | [95522-how-fennec-fox-built-a-home.json](./95522-how-fennec-fox-built-a-home.json) |
 | How Fish Is Made | 187151 | [187151-how-fish-is-made.json](./187151-how-fish-is-made.json) |
 | How I Escaped Futa Prison | 235810 | [235810-how-i-escaped-futa-prison.json](./235810-how-i-escaped-futa-prison.json) |
 | How I learned to Skate | 175972 | [175972-how-i-learned-to-skate.json](./175972-how-i-learned-to-skate.json) |
