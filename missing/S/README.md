@@ -5337,6 +5337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seize The Elixir | 377941 | [377941-seize-the-elixir.json](./377941-seize-the-elixir.json) |
 | Seize the Night | 193812 | [193812-seize-the-night.json](./193812-seize-the-night.json) |
 | Seizure of Territories | 240802 | [240802-seizure-of-territories.json](./240802-seizure-of-territories.json) |
+| SeizureDome | 93095 | [93095-seizuredome.json](./93095-seizuredome.json) |
 | Seja Como Eu | 179829 | [179829-seja-como-eu.json](./179829-seja-como-eu.json) |
 | Sejm The Game | 341051 | [341051-sejm-the-game.json](./341051-sejm-the-game.json) |
 | Seka II | 292323 | [292323-seka-ii.json](./292323-seka-ii.json) |
@@ -12475,6 +12476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Jump Challenge | 143546 | [143546-ski-jump-challenge.json](./143546-ski-jump-challenge.json) |
 | Ski Jump International v2 | 342080 | [342080-ski-jump-international-v2.json](./342080-ski-jump-international-v2.json) |
 | Ski Jump International v3 | 186727 | [186727-ski-jump-international-v3.json](./186727-ski-jump-international-v3.json) |
+| Ski Jumping 2004 | 93091 | [93091-ski-jumping-2004.json](./93091-ski-jumping-2004.json) |
 | Ski Jumping Pro | 112905 | [112905-ski-jumping-pro.json](./112905-ski-jumping-pro.json) |
 | Ski Jumping Pro VR | 130291 | [130291-ski-jumping-pro-vr.json](./130291-ski-jumping-pro-vr.json) |
 | Ski Jumping PVP | 259082 | [259082-ski-jumping-pvp.json](./259082-ski-jumping-pvp.json) |
@@ -16271,6 +16273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Brawl | 39843 | [39843-soccer-brawl.json](./39843-soccer-brawl.json) |
 | Soccer Bros | 325227 | [325227-soccer-bros.json](./325227-soccer-bros.json) |
 | Soccer But Different | 209666 | [209666-soccer-but-different.json](./209666-soccer-but-different.json) |
+| Soccer Cards | 93113 | [93113-soccer-cards.json](./93113-soccer-cards.json) |
 | Soccer Challenge | 361111 | [361111-soccer-challenge.json](./361111-soccer-challenge.json) |
 | Soccer Championship | 108468 | [108468-soccer-championship.json](./108468-soccer-championship.json) |
 | Soccer Clicker | 257874 | [257874-soccer-clicker.json](./257874-soccer-clicker.json) |
@@ -22996,6 +22999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spoiler Alert | 20097 | [20097-spoiler-alert.json](./20097-spoiler-alert.json) |
 | Spoils of Plunder | 163851 | [163851-spoils-of-plunder.json](./163851-spoils-of-plunder.json) |
 | Spoils of War | 257768 | [257768-spoils-of-war.json](./257768-spoils-of-war.json) |
+| Spoils of War | 93109 | [93109-spoils-of-war.json](./93109-spoils-of-war.json) |
 | Spoko and Poko | 35395 | [35395-spoko-and-poko.json](./35395-spoko-and-poko.json) |
 | Spolous Ex | 182920 | [182920-spolous-ex.json](./182920-spolous-ex.json) |
 | Spolous II | 411278 | [411278-spolous-ii.json](./411278-spolous-ii.json) |
@@ -28180,6 +28184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storyblocks: The King | 188110 | [188110-storyblocks-the-king.json](./188110-storyblocks-the-king.json) |
 | Storybook of Tactics | 258612 | [258612-storybook-of-tactics.json](./258612-storybook-of-tactics.json) |
 | Storybook Weaver | 252083 | [252083-storybook-weaver.json](./252083-storybook-weaver.json) |
+| Storybook Weaver Deluxe | 93096 | [93096-storybook-weaver-deluxe.json](./93096-storybook-weaver-deluxe.json) |
 | Storybook Workshop | 50975 | [50975-storybook-workshop.json](./50975-storybook-workshop.json) |
 | Storybricks | 65193 | [65193-storybricks.json](./65193-storybricks.json) |
 | Storycraft | 367158 | [367158-storycraft.json](./367158-storycraft.json) |
