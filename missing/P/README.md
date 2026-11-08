@@ -1535,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Strike! | 68564 | [68564-panzer-strike.json](./68564-panzer-strike.json) |
 | Panzer Tactics DS | 21516 | [21516-panzer-tactics-ds.json](./21516-panzer-tactics-ds.json) |
 | Panzer Tactics HD | 10653 | [10653-panzer-tactics-hd.json](./10653-panzer-tactics-hd.json) |
+| Panzer Waltz | 81619 | [81619-panzer-waltz.json](./81619-panzer-waltz.json) |
 | Panzer War | 255754 | [255754-panzer-war.json](./255754-panzer-war.json) |
 | Panzer War: Definitive Edition | 88030 | [88030-panzer-war-definitive-edition.json](./88030-panzer-war-definitive-edition.json) |
 | Panzer-Jagd | 24636 | [24636-panzer-jagd.json](./24636-panzer-jagd.json) |
@@ -4350,6 +4351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | People Playground | 122646 | [122646-people-playground.json](./122646-people-playground.json) |
 | People Power: The Game of Civil Resistance | 171526 | [171526-people-power-the-game-of-civil-resistance.json](./171526-people-power-the-game-of-civil-resistance.json) |
 | People Versus Everything | 225219 | [225219-people-versus-everything.json](./225219-people-versus-everything.json) |
+| People Weekly: 20 Amazing Years of Pop Culture | 81613 | [81613-people-weekly-20-amazing-years-of-pop-culture.json](./81613-people-weekly-20-amazing-years-of-pop-culture.json) |
 | People Will Money | 275445 | [275445-people-will-money.json](./275445-people-will-money.json) |
 | People's Chess | 175248 | [175248-peoples-chess.json](./175248-peoples-chess.json) |
 | People's Committee of Game Development | 180946 | [180946-peoples-committee-of-game-development.json](./180946-peoples-committee-of-game-development.json) |
@@ -17345,6 +17347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychedelia | 178129 | [178129-psychedelia.json](./178129-psychedelia.json) |
 | Psychedelia: The Psychonaut | 220473 | [220473-psychedelia-the-psychonaut.json](./220473-psychedelia-the-psychonaut.json) |
 | Psychedelic Dream | 359154 | [359154-psychedelic-dream.json](./359154-psychedelic-dream.json) |
+| Psychedelic platformer | 81584 | [81584-psychedelic-platformer.json](./81584-psychedelic-platformer.json) |
 | Psychedelica of the Ashen Hawk | 41824 | [41824-psychedelica-of-the-ashen-hawk.json](./41824-psychedelica-of-the-ashen-hawk.json) |
 | Psychiatric Hospital | 245978 | [245978-psychiatric-hospital.json](./245978-psychiatric-hospital.json) |
 | Psychiatric Prison Romance: Serial Killer Anime Boys Dating Sim | 336558 | [336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json](./336558-psychiatric-prison-romance-serial-killer-anime-boys-dating-sim.json) |
