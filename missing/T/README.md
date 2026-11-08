@@ -2510,6 +2510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tappy Word Infinite | 274445 | [274445-tappy-word-infinite.json](./274445-tappy-word-infinite.json) |
 | TappyLoop | 307612 | [307612-tappyloop.json](./307612-tappyloop.json) |
 | TapRacer | 415146 | [415146-tapracer.json](./415146-tapracer.json) |
+| TapRPG: Homeland | 102396 | [102396-taprpg-homeland.json](./102396-taprpg-homeland.json) |
 | TapRPG: The Second One | 107888 | [107888-taprpg-the-second-one.json](./107888-taprpg-the-second-one.json) |
 | Taps to Riches | 88862 | [88862-taps-to-riches.json](./88862-taps-to-riches.json) |
 | Taps: Beautifully Simple | 175267 | [175267-taps-beautifully-simple.json](./175267-taps-beautifully-simple.json) |
@@ -19633,6 +19634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The World of Golden Eggs: Norinori Rhythm-kei | 165340 | [165340-the-world-of-golden-eggs-norinori-rhythm-kei.json](./165340-the-world-of-golden-eggs-norinori-rhythm-kei.json) |
 | The World of Japanese Tea Through the Way of Tea | 349583 | [349583-the-world-of-japanese-tea-through-the-way-of-tea.json](./349583-the-world-of-japanese-tea-through-the-way-of-tea.json) |
 | The World of Kungfu: Dragon and Eagle | 156090 | [156090-the-world-of-kungfu-dragon-and-eagle.json](./156090-the-world-of-kungfu-dragon-and-eagle.json) |
+| The World of Labyrinths: Labyronia | 102402 | [102402-the-world-of-labyrinths-labyronia.json](./102402-the-world-of-labyrinths-labyronia.json) |
 | The World of Legend | 231681 | [231681-the-world-of-legend.json](./231681-the-world-of-legend.json) |
 | The World of Legend VR | 75824 | [75824-the-world-of-legend-vr.json](./75824-the-world-of-legend-vr.json) |
 | The World of Magic | 174728 | [174728-the-world-of-magic.json](./174728-the-world-of-magic.json) |
@@ -26565,6 +26567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tota Life: Parent-kid Suite | 299206 | [299206-tota-life-parent-kid-suite.json](./299206-tota-life-parent-kid-suite.json) |
 | Total 15 | 105155 | [105155-total-15.json](./105155-total-15.json) |
 | Total Adrenaline 3D Drag Racing | 73708 | [73708-total-adrenaline-3d-drag-racing.json](./73708-total-adrenaline-3d-drag-racing.json) |
+| Total Alarm | 102299 | [102299-total-alarm.json](./102299-total-alarm.json) |
 | Total Anarchy: Pavilion City | 188807 | [188807-total-anarchy-pavilion-city.json](./188807-total-anarchy-pavilion-city.json) |
 | Total Annihilation | 918 | [918-total-annihilation.json](./918-total-annihilation.json) |
 | Total Annihilation: Commander Pack | 98907 | [98907-total-annihilation-commander-pack.json](./98907-total-annihilation-commander-pack.json) |
@@ -31433,6 +31436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial of Sacrifice | 306418 | [306418-trial-of-sacrifice.json](./306418-trial-of-sacrifice.json) |
 | Trial of the Clone | 63670 | [63670-trial-of-the-clone.json](./63670-trial-of-the-clone.json) |
 | Trial of the Demon Hunter | 81136 | [81136-trial-of-the-demon-hunter.json](./81136-trial-of-the-demon-hunter.json) |
+| Trial of the Gods | 102310 | [102310-trial-of-the-gods.json](./102310-trial-of-the-gods.json) |
 | Trial of the Gods: Ariadne's Journey | 416188 | [416188-trial-of-the-gods-ariadnes-journey.json](./416188-trial-of-the-gods-ariadnes-journey.json) |
 | Trial of the Gods: Siralim CCG | 133195 | [133195-trial-of-the-gods-siralim-ccg.json](./133195-trial-of-the-gods-siralim-ccg.json) |
 | Trial of the Tower God | 185290 | [185290-trial-of-the-tower-god.json](./185290-trial-of-the-tower-god.json) |
@@ -33513,6 +33517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn to Mine | 312846 | [312846-turn-to-mine.json](./312846-turn-to-mine.json) |
 | Turn Undead | 340815 | [340815-turn-undead.json](./340815-turn-undead.json) |
 | Turn Undead II | 340816 | [340816-turn-undead-ii.json](./340816-turn-undead-ii.json) |
+| Turn up jeans | 102415 | [102415-turn-up-jeans.json](./102415-turn-up-jeans.json) |
 | Turn your Destiny | 43157 | [43157-turn-your-destiny.json](./43157-turn-your-destiny.json) |
 | Turn-Based Battle Bundle: The Amazing American Circus & Legend of Keepers | 270303 | [270303-turn-based-battle-bundle-the-amazing-american-circus-and-legend-of-keepers.json](./270303-turn-based-battle-bundle-the-amazing-american-circus-and-legend-of-keepers.json) |
 | Turn-Based Bundle | 271868 | [271868-turn-based-bundle.json](./271868-turn-based-bundle.json) |
