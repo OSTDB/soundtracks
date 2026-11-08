@@ -1881,6 +1881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lawnmower Day | 340903 | [340903-lawnmower-day.json](./340903-lawnmower-day.json) |
 | Lawnmower Game 2: Drifter | 76321 | [76321-lawnmower-game-2-drifter.json](./76321-lawnmower-game-2-drifter.json) |
 | Lawnmower Game 2026 | 389001 | [389001-lawnmower-game-2026.json](./389001-lawnmower-game-2026.json) |
+| Lawnmower Game 3: Horror | 110456 | [110456-lawnmower-game-3-horror.json](./110456-lawnmower-game-3-horror.json) |
 | Lawnmower Game 4: The Final Cut | 117547 | [117547-lawnmower-game-4-the-final-cut.json](./117547-lawnmower-game-4-the-final-cut.json) |
 | Lawnmower Game Beer | 410012 | [410012-lawnmower-game-beer.json](./410012-lawnmower-game-beer.json) |
 | Lawnmower Game Jigsaw | 340905 | [340905-lawnmower-game-jigsaw.json](./340905-lawnmower-game-jigsaw.json) |
