@@ -3813,6 +3813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Greed | 413670 | [413670-endless-greed.json](./413670-endless-greed.json) |
 | Endless Heck | 149604 | [149604-endless-heck.json](./149604-endless-heck.json) |
 | Endless History | 320771 | [320771-endless-history.json](./320771-endless-history.json) |
+| Endless Horizon | 99674 | [99674-endless-horizon.json](./99674-endless-horizon.json) |
 | Endless Invader | 407547 | [407547-endless-invader.json](./407547-endless-invader.json) |
 | Endless Invaders | 100365 | [100365-endless-invaders.json](./100365-endless-invaders.json) |
 | Endless Isolation | 405715 | [405715-endless-isolation.json](./405715-endless-isolation.json) |
@@ -6383,6 +6384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EthereaVR | 103202 | [103202-ethereavr.json](./103202-ethereavr.json) |
 | Etherena Beta | 262495 | [262495-etherena-beta.json](./262495-etherena-beta.json) |
 | Etheria: Restart | 210536 | [210536-etheria-restart.json](./210536-etheria-restart.json) |
+| Etherian | 99303 | [99303-etherian.json](./99303-etherian.json) |
 | Etherion Online | 239650 | [239650-etherion-online.json](./239650-etherion-online.json) |
 | Etherium | 401481 | [401481-etherium.json](./401481-etherium.json) |
 | Etherium | 8923 | [8923-etherium.json](./8923-etherium.json) |
