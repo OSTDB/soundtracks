@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra Dynasty Warriors | 44157 | [44157-ultra-dynasty-warriors.json](./44157-ultra-dynasty-warriors.json) |
 | Ultra Fight Da! Kyanta 2 | 125614 | [125614-ultra-fight-da-kyanta-2.json](./125614-ultra-fight-da-kyanta-2.json) |
 | Ultra Fighters | 95454 | [95454-ultra-fighters.json](./95454-ultra-fighters.json) |
+| Ultra Foodmess | 129323 | [129323-ultra-foodmess.json](./129323-ultra-foodmess.json) |
 | Ultra Foodmess 2 | 257905 | [257905-ultra-foodmess-2.json](./257905-ultra-foodmess-2.json) |
 | Ultra Foodmess: Deluxe Edition | 287114 | [287114-ultra-foodmess-deluxe-edition.json](./287114-ultra-foodmess-deluxe-edition.json) |
 | Ultra Frontier QQYYZZ | 387526 | [387526-ultra-frontier-qqyyzz.json](./387526-ultra-frontier-qqyyzz.json) |
@@ -2247,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unidentified | 195310 | [195310-unidentified.json](./195310-unidentified.json) |
 | Unidentified Feline Obliterators | 332962 | [332962-unidentified-feline-obliterators.json](./332962-unidentified-feline-obliterators.json) |
 | UniDuni | 168642 | [168642-uniduni.json](./168642-uniduni.json) |
+| Unification | 129350 | [129350-unification.json](./129350-unification.json) |
 | Unified | 221372 | [221372-unified.json](./221372-unified.json) |
 | Uniform Girl | 242062 | [242062-uniform-girl.json](./242062-uniform-girl.json) |
 | Unifutbol | 78602 | [78602-unifutbol.json](./78602-unifutbol.json) |
