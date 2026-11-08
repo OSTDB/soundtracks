@@ -7274,10 +7274,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Angels and Fairies | 98402 | [98402-hidden-object-angels-and-fairies.json](./98402-hidden-object-angels-and-fairies.json) |
 | Hidden Object: Animal Royalties | 98399 | [98399-hidden-object-animal-royalties.json](./98399-hidden-object-animal-royalties.json) |
 | Hidden Object: Animal Seasons | 98400 | [98400-hidden-object-animal-seasons.json](./98400-hidden-object-animal-seasons.json) |
+| Hidden Object: April Showers | 83640 | [83640-hidden-object-april-showers.json](./83640-hidden-object-april-showers.json) |
 | Hidden Object: Autumn Harvest | 98660 | [98660-hidden-object-autumn-harvest.json](./98660-hidden-object-autumn-harvest.json) |
 | Hidden Object: Autumn Splendors | 98590 | [98590-hidden-object-autumn-splendors.json](./98590-hidden-object-autumn-splendors.json) |
 | Hidden Object: Be My Valentine | 98554 | [98554-hidden-object-be-my-valentine.json](./98554-hidden-object-be-my-valentine.json) |
 | Hidden Object: Beautiful Places | 98675 | [98675-hidden-object-beautiful-places.json](./98675-hidden-object-beautiful-places.json) |
+| Hidden Object: Bunny Hop | 83642 | [83642-hidden-object-bunny-hop.json](./83642-hidden-object-bunny-hop.json) |
 | Hidden Object: Candy Crunch | 82177 | [82177-hidden-object-candy-crunch.json](./82177-hidden-object-candy-crunch.json) |
 | Hidden Object: Candyland Sweet Paradise | 83631 | [83631-hidden-object-candyland-sweet-paradise.json](./83631-hidden-object-candyland-sweet-paradise.json) |
 | Hidden Object: Cat Tailz | 82164 | [82164-hidden-object-cat-tailz.json](./82164-hidden-object-cat-tailz.json) |
@@ -7297,6 +7299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Detective Story about Ancient Case Premium | 175496 | [175496-hidden-object-detective-story-about-ancient-case-premium.json](./175496-hidden-object-detective-story-about-ancient-case-premium.json) |
 | Hidden Object: Detective Wiltshire Kingdom, The Book is About 33 Knight | 200199 | [200199-hidden-object-detective-wiltshire-kingdom-the-book-is-about-33-knight.json](./200199-hidden-object-detective-wiltshire-kingdom-the-book-is-about-33-knight.json) |
 | Hidden Object: Dog Happy Life | 82160 | [82160-hidden-object-dog-happy-life.json](./82160-hidden-object-dog-happy-life.json) |
+| Hidden Object: Egg Hunt | 83643 | [83643-hidden-object-egg-hunt.json](./83643-hidden-object-egg-hunt.json) |
 | Hidden Object: Elemental Guardians | 98386 | [98386-hidden-object-elemental-guardians.json](./98386-hidden-object-elemental-guardians.json) |
 | Hidden Object: Emma Easter Day | 83629 | [83629-hidden-object-emma-easter-day.json](./83629-hidden-object-emma-easter-day.json) |
 | Hidden Object: Enchanted Garden | 83628 | [83628-hidden-object-enchanted-garden.json](./83628-hidden-object-enchanted-garden.json) |
@@ -7323,6 +7326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Halloween Time | 98360 | [98360-hidden-object-halloween-time.json](./98360-hidden-object-halloween-time.json) |
 | Hidden Object: Hallows Eve | 98591 | [98591-hidden-object-hallows-eve.json](./98591-hidden-object-hallows-eve.json) |
 | Hidden Object: Happy Christmas | 98661 | [98661-hidden-object-happy-christmas.json](./98661-hidden-object-happy-christmas.json) |
+| Hidden Object: Happy Easter | 83641 | [83641-hidden-object-happy-easter.json](./83641-hidden-object-happy-easter.json) |
 | Hidden Object: Happy Haunts | 98581 | [98581-hidden-object-happy-haunts.json](./98581-hidden-object-happy-haunts.json) |
 | Hidden Object: Happy Valentine's Day | 82173 | [82173-hidden-object-happy-valentines-day.json](./82173-hidden-object-happy-valentines-day.json) |
 | Hidden Object: Haunted House 3 | 98594 | [98594-hidden-object-haunted-house-3.json](./98594-hidden-object-haunted-house-3.json) |
@@ -8883,6 +8887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoD: On open seas | 90612 | [90612-hod-on-open-seas.json](./90612-hod-on-open-seas.json) |
 | Hode | 293969 | [293969-hode.json](./293969-hode.json) |
 | Hodge Dodge | 280345 | [280345-hodge-dodge.json](./280345-hodge-dodge.json) |
+| Hodge-Podge | 83102 | [83102-hodge-podge.json](./83102-hodge-podge.json) |
 | Hodgepodge Hunch | 249082 | [249082-hodgepodge-hunch.json](./249082-hodgepodge-hunch.json) |
 | Hodgepodge Hunch: Premium Pack - Sakura | 298260 | [298260-hodgepodge-hunch-premium-pack-sakura.json](./298260-hodgepodge-hunch-premium-pack-sakura.json) |
 | Hodj 'n' Podj | 79050 | [79050-hodj-n-podj.json](./79050-hodj-n-podj.json) |
