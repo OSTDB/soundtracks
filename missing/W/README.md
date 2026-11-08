@@ -9082,6 +9082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wraith’s Embrace | 393223 | [393223-wraith-s-embrace.json](./393223-wraith-s-embrace.json) |
 | Wraithbinder | 218300 | [218300-wraithbinder.json](./218300-wraithbinder.json) |
 | Wraithborn | 258647 | [258647-wraithborn.json](./258647-wraithborn.json) |
+| Wraithmind | 116639 | [116639-wraithmind.json](./116639-wraithmind.json) |
 | WraithRun | 305632 | [305632-wraithrun.json](./305632-wraithrun.json) |
 | Wraithslayer | 115405 | [115405-wraithslayer.json](./115405-wraithslayer.json) |
 | Wrangel Island | 220631 | [220631-wrangel-island.json](./220631-wrangel-island.json) |
