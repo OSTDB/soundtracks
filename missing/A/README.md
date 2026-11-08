@@ -5082,6 +5082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aghaz | 391743 | [391743-aghaz.json](./391743-aghaz.json) |
 | Aghia | 406804 | [406804-aghia.json](./406804-aghia.json) |
 | Agi Gongnyong Dooly | 78995 | [78995-agi-gongnyong-dooly.json](./78995-agi-gongnyong-dooly.json) |
+| Agi Gongnyong Dooly | 86107 | [86107-agi-gongnyong-dooly.json](./86107-agi-gongnyong-dooly.json) |
 | Agile Cube | 416183 | [416183-agile-cube.json](./416183-agile-cube.json) |
 | Agile Firefighter | 207912 | [207912-agile-firefighter.json](./207912-agile-firefighter.json) |
 | Agile Warrior F-111X | 43936 | [43936-agile-warrior-f-111x.json](./43936-agile-warrior-f-111x.json) |
@@ -6358,6 +6359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alawon: Life of a Game Composer | 400274 | [400274-alawon-life-of-a-game-composer.json](./400274-alawon-life-of-a-game-composer.json) |
 | Albacete Warrior | 152237 | [152237-albacete-warrior.json](./152237-albacete-warrior.json) |
 | Albatross | 280200 | [280200-albatross.json](./280200-albatross.json) |
+| Albatross | 86147 | [86147-albatross.json](./86147-albatross.json) |
 | Albatross Koukairoku | 156033 | [156033-albatross-koukairoku.json](./156033-albatross-koukairoku.json) |
 | Albatross: Tournament Golf | 41665 | [41665-albatross-tournament-golf.json](./41665-albatross-tournament-golf.json) |
 | Albatroz | 255084 | [255084-albatroz.json](./255084-albatroz.json) |
@@ -9719,6 +9721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andromalius | 110880 | [110880-andromalius.json](./110880-andromalius.json) |
 | AndroMan on the Moon | 268573 | [268573-androman-on-the-moon.json](./268573-androman-on-the-moon.json) |
 | Andromeda | 260482 | [260482-andromeda.json](./260482-andromeda.json) |
+| Andromeda | 86149 | [86149-andromeda.json](./86149-andromeda.json) |
 | Andromeda 2 Zombies | 169492 | [169492-andromeda-2-zombies.json](./169492-andromeda-2-zombies.json) |
 | Andromeda Acolytes | 211400 | [211400-andromeda-acolytes.json](./211400-andromeda-acolytes.json) |
 | Andromeda Mission | 15571 | [15571-andromeda-mission.json](./15571-andromeda-mission.json) |
@@ -15310,6 +15313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asdivine Saga | 148517 | [148517-asdivine-saga.json](./148517-asdivine-saga.json) |
 | ASDVD: Umareta Bakari no Love Song | 408250 | [408250-asdvd-umareta-bakari-no-love-song.json](./408250-asdvd-umareta-bakari-no-love-song.json) |
 | Ase Online | 379349 | [379349-ase-online.json](./379349-ase-online.json) |
+| Aselia the Eternal | 86163 | [86163-aselia-the-eternal.json](./86163-aselia-the-eternal.json) |
 | Aselia the Eternal: The Spirit of Eternity Sword | 33476 | [33476-aselia-the-eternal-the-spirit-of-eternity-sword.json](./33476-aselia-the-eternal-the-spirit-of-eternity-sword.json) |
 | Asemblance | 19167 | [19167-asemblance.json](./19167-asemblance.json) |
 | Asemblance Collection | 110582 | [110582-asemblance-collection.json](./110582-asemblance-collection.json) |
@@ -17143,7 +17147,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
