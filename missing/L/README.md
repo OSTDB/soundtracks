@@ -7906,6 +7906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of Vermilion IV | 26971 | [26971-lord-of-vermilion-iv.json](./26971-lord-of-vermilion-iv.json) |
 | Lord of War | 208934 | [208934-lord-of-war.json](./208934-lord-of-war.json) |
 | Lord Temin's Fortress | 187441 | [187441-lord-temins-fortress.json](./187441-lord-temins-fortress.json) |
+| Lord VS Nas Vai | 108021 | [108021-lord-vs-nas-vai.json](./108021-lord-vs-nas-vai.json) |
 | Lord Winklebottom Investigates | 115180 | [115180-lord-winklebottom-investigates.json](./115180-lord-winklebottom-investigates.json) |
 | Lord's Journey | 313531 | [313531-lords-journey.json](./313531-lords-journey.json) |
 | Lordbound | 371497 | [371497-lordbound.json](./371497-lordbound.json) |
@@ -9145,6 +9146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lovebirb | 204516 | [204516-lovebirb.json](./204516-lovebirb.json) |
 | Loveble | 98048 | [98048-loveble.json](./98048-loveble.json) |
 | Lovebrush Chronicles | 225508 | [225508-lovebrush-chronicles.json](./225508-lovebrush-chronicles.json) |
+| LoveBug | 107982 | [107982-lovebug.json](./107982-lovebug.json) |
 | LoveBug Quest | 331652 | [331652-lovebug-quest.json](./331652-lovebug-quest.json) |
 | Lovebugz: An Anthro Insect Dating Sim | 298385 | [298385-lovebugz-an-anthro-insect-dating-sim.json](./298385-lovebugz-an-anthro-insect-dating-sim.json) |
 | LoveChess: The Greek Era | 71868 | [71868-lovechess-the-greek-era.json](./71868-lovechess-the-greek-era.json) |
