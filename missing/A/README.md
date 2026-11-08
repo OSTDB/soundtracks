@@ -1651,6 +1651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A-Train 9 Version 2.0: Professional Edition | 10003 | [10003-a-train-9-version-2-0-professional-edition.json](./10003-a-train-9-version-2-0-professional-edition.json) |
 | A-Train 9 Version 5.0: Final | 272683 | [272683-a-train-9-version-5-0-final.json](./272683-a-train-9-version-5-0-final.json) |
 | A-Train All Aboard! Tourism | 146014 | [146014-a-train-all-aboard-tourism.json](./146014-a-train-all-aboard-tourism.json) |
+| A-Train Construction Set | 78214 | [78214-a-train-construction-set.json](./78214-a-train-construction-set.json) |
 | A-Train de Ikou Hirogaru Kankou Line | 221236 | [221236-a-train-de-ikou-hirogaru-kankou-line.json](./221236-a-train-de-ikou-hirogaru-kankou-line.json) |
 | A-Train Evolution Pack | 272673 | [272673-a-train-evolution-pack.json](./272673-a-train-evolution-pack.json) |
 | A-Train Exp. | 69497 | [69497-a-train-exp.json](./69497-a-train-exp.json) |
@@ -3617,6 +3618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Allies | 316449 | [316449-adventure-allies.json](./316449-adventure-allies.json) |
 | Adventure Apes and the Mayan Mystery | 33017 | [33017-adventure-apes-and-the-mayan-mystery.json](./33017-adventure-apes-and-the-mayan-mystery.json) |
 | Adventure Apple Robots | 240822 | [240822-adventure-apple-robots.json](./240822-adventure-apple-robots.json) |
+| Adventure at the Chateau d'Or | 78189 | [78189-adventure-at-the-chateau-dor.json](./78189-adventure-at-the-chateau-dor.json) |
 | AdVenture Autist | 109124 | [109124-adventure-autist.json](./109124-adventure-autist.json) |
 | Adventure Awaits | 226100 | [226100-adventure-awaits.json](./226100-adventure-awaits.json) |
 | Adventure Ball 3D Balancer | 249451 | [249451-adventure-ball-3d-balancer.json](./249451-adventure-ball-3d-balancer.json) |
@@ -3712,6 +3714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Kitty: Drill Buster | 265665 | [265665-adventure-kitty-drill-buster.json](./265665-adventure-kitty-drill-buster.json) |
 | Adventure Kitty: Drill Buster - Lights Out | 316028 | [316028-adventure-kitty-drill-buster-lights-out.json](./316028-adventure-kitty-drill-buster-lights-out.json) |
 | Adventure Lamp | 24040 | [24040-adventure-lamp.json](./24040-adventure-lamp.json) |
+| Adventure Land | 78201 | [78201-adventure-land.json](./78201-adventure-land.json) |
 | Adventure Land: The Code MMORPG | 113728 | [113728-adventure-land-the-code-mmorpg.json](./113728-adventure-land-the-code-mmorpg.json) |
 | Adventure Learning Inside Humans | 356071 | [356071-adventure-learning-inside-humans.json](./356071-adventure-learning-inside-humans.json) |
 | ADventure Lib | 35109 | [35109-adventure-lib.json](./35109-adventure-lib.json) |
@@ -6531,6 +6534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alcyone | 383604 | [383604-alcyone.json](./383604-alcyone.json) |
 | Alcyone: The Last City | 118072 | [118072-alcyone-the-last-city.json](./118072-alcyone-the-last-city.json) |
 | Aldebaran Legend | 188802 | [188802-aldebaran-legend.json](./188802-aldebaran-legend.json) |
+| Alden Ridge | 78228 | [78228-alden-ridge.json](./78228-alden-ridge.json) |
 | Alder Choke | 217926 | [217926-alder-choke.json](./217926-alder-choke.json) |
 | Alder Forge | 186480 | [186480-alder-forge.json](./186480-alder-forge.json) |
 | Alder Forge 2 | 385983 | [385983-alder-forge-2.json](./385983-alder-forge-2.json) |
@@ -10606,6 +10610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Freak FX Vol. 2 | 79735 | [79735-anime-freak-fx-vol-2.json](./79735-anime-freak-fx-vol-2.json) |
 | Anime Freak FX Vol. 3 | 79354 | [79354-anime-freak-fx-vol-3.json](./79354-anime-freak-fx-vol-3.json) |
 | Anime Freak FX Vol. 4 | 67869 | [67869-anime-freak-fx-vol-4.json](./67869-anime-freak-fx-vol-4.json) |
+| Anime Freak FX Vol. 5 | 78203 | [78203-anime-freak-fx-vol-5.json](./78203-anime-freak-fx-vol-5.json) |
 | Anime Freak FX Vol. 6 | 67868 | [67868-anime-freak-fx-vol-6.json](./67868-anime-freak-fx-vol-6.json) |
 | Anime Friends | 400693 | [400693-anime-friends.json](./400693-anime-friends.json) |
 | Anime Gacha! | 307275 | [307275-anime-gacha.json](./307275-anime-gacha.json) |
@@ -10680,6 +10685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Love Life | 301216 | [301216-anime-love-life.json](./301216-anime-love-life.json) |
 | Anime Manga Style Girl: Color By Number Pixel Art Coloring | 370758 | [370758-anime-manga-style-girl-color-by-number-pixel-art-coloring.json](./370758-anime-manga-style-girl-color-by-number-pixel-art-coloring.json) |
 | Anime Match | 157816 | [157816-anime-match.json](./157816-anime-match.json) |
+| Anime Melee | 78202 | [78202-anime-melee.json](./78202-anime-melee.json) |
 | Anime Memes | 405608 | [405608-anime-memes.json](./405608-anime-memes.json) |
 | Anime Minesweeper | 392464 | [392464-anime-minesweeper.json](./392464-anime-minesweeper.json) |
 | Anime Mother Life Simulator | 376264 | [376264-anime-mother-life-simulator.json](./376264-anime-mother-life-simulator.json) |
