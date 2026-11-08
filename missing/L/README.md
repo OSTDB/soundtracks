@@ -5413,6 +5413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lincoln Green | 231086 | [231086-lincoln-green.json](./231086-lincoln-green.json) |
 | Lincolnshire Roads | 213793 | [213793-lincolnshire-roads.json](./213793-lincolnshire-roads.json) |
 | Linda & Joan | 132480 | [132480-linda-and-joan.json](./132480-linda-and-joan.json) |
+| Linda & Joan Prologue: "Four Months Earlier" | 132389 | [132389-linda-and-joan-prologue-four-months-earlier.json](./132389-linda-and-joan-prologue-four-months-earlier.json) |
 | Linda Crenshaw: The Dream Apartment | 181687 | [181687-linda-crenshaw-the-dream-apartment.json](./181687-linda-crenshaw-the-dream-apartment.json) |
 | Linda Cube | 94898 | [94898-linda-cube.json](./94898-linda-cube.json) |
 | Linda Cube Again | 65761 | [65761-linda-cube-again.json](./65761-linda-cube-again.json) |
@@ -6819,6 +6820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LochNess | 242379 | [242379-lochness.json](./242379-lochness.json) |
 | Locis | 138553 | [138553-locis.json](./138553-locis.json) |
 | Lock | 68655 | [68655-lock.json](./68655-lock.json) |
+| Lock 'n Load Tactical Digital | 132379 | [132379-lock-n-load-tactical-digital.json](./132379-lock-n-load-tactical-digital.json) |
 | Lock 'n Load Tactical Digital: Battles to the Rhine - Battlepack | 158746 | [158746-lock-n-load-tactical-digital-battles-to-the-rhine-battlepack.json](./158746-lock-n-load-tactical-digital-battles-to-the-rhine-battlepack.json) |
 | Lock 'n Load Tactical Digital: Bear and the Jackal - Battlepack | 158741 | [158741-lock-n-load-tactical-digital-bear-and-the-jackal-battlepack.json](./158741-lock-n-load-tactical-digital-bear-and-the-jackal-battlepack.json) |
 | Lock 'n Load Tactical Digital: Days of Villainy Battlepack | 226700 | [226700-lock-n-load-tactical-digital-days-of-villainy-battlepack.json](./226700-lock-n-load-tactical-digital-days-of-villainy-battlepack.json) |
