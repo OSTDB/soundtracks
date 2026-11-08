@@ -14695,6 +14695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nile God | 318719 | [318719-the-nile-god.json](./318719-the-nile-god.json) |
 | The Nine | 89045 | [89045-the-nine.json](./89045-the-nine.json) |
 | The Nine Lives of Nim: Fortune's Fool | 117239 | [117239-the-nine-lives-of-nim-fortunes-fool.json](./117239-the-nine-lives-of-nim-fortunes-fool.json) |
+| The Nine Lives of Secret Agent Katt | 83092 | [83092-the-nine-lives-of-secret-agent-katt.json](./83092-the-nine-lives-of-secret-agent-katt.json) |
 | The Nine Rebirths | 326291 | [326291-the-nine-rebirths.json](./326291-the-nine-rebirths.json) |
 | The Nine Tailed Celestial Fox | 304548 | [304548-the-nine-tailed-celestial-fox.json](./304548-the-nine-tailed-celestial-fox.json) |
 | The Ninja | 12889 | [12889-the-ninja.json](./12889-the-ninja.json) |
@@ -19027,6 +19028,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Voice from the Well: The Velessar Saga | 238435 | [238435-the-voice-from-the-well-the-velessar-saga.json](./238435-the-voice-from-the-well-the-velessar-saga.json) |
 | The Voice in the Void | 48005 | [48005-the-voice-in-the-void.json](./48005-the-voice-in-the-void.json) |
 | The Voice Inside | 115486 | [115486-the-voice-inside.json](./115486-the-voice-inside.json) |
+| The Voice of Germany | 83644 | [83644-the-voice-of-germany.json](./83644-the-voice-of-germany.json) |
+| The Voice of Germany Vol. 2 | 83645 | [83645-the-voice-of-germany-vol-2.json](./83645-the-voice-of-germany-vol-2.json) |
 | The Voice of Germany: Das offizielle Videospiel! | 332829 | [332829-the-voice-of-germany-das-offizielle-videospiel.json](./332829-the-voice-of-germany-das-offizielle-videospiel.json) |
 | The Voice of Germany: I Want You | 106264 | [106264-the-voice-of-germany-i-want-you.json](./106264-the-voice-of-germany-i-want-you.json) |
 | The Voice Party | 421806 | [421806-the-voice-party.json](./421806-the-voice-party.json) |
