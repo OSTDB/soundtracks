@@ -732,6 +732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Seiya: The Hades | 23113 | [23113-saint-seiya-the-hades.json](./23113-saint-seiya-the-hades.json) |
 | Saint Seiya: The Sanctuary | 43345 | [43345-saint-seiya-the-sanctuary.json](./43345-saint-seiya-the-sanctuary.json) |
 | Saint Seiya: Ultimate Cosmo | 166519 | [166519-saint-seiya-ultimate-cosmo.json](./166519-saint-seiya-ultimate-cosmo.json) |
+| Saint Slaughter X Days | 103602 | [103602-saint-slaughter-x-days.json](./103602-saint-slaughter-x-days.json) |
 | Saint Slayer: Spear of Sacrilege | 376985 | [376985-saint-slayer-spear-of-sacrilege.json](./376985-saint-slayer-spear-of-sacrilege.json) |
 | Saint Spell's Love Guide to the Magical Student's Spellbook | 191603 | [191603-saint-spells-love-guide-to-the-magical-students-spellbook.json](./191603-saint-spells-love-guide-to-the-magical-students-spellbook.json) |
 | Saint Sword | 46199 | [46199-saint-sword.json](./46199-saint-sword.json) |
@@ -20098,6 +20099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hulk: Space Wolves Chapter | 168865 | [168865-space-hulk-space-wolves-chapter.json](./168865-space-hulk-space-wolves-chapter.json) |
 | Space Hulk: Sword of Halcyon Campaign | 53641 | [53641-space-hulk-sword-of-halcyon-campaign.json](./53641-space-hulk-sword-of-halcyon-campaign.json) |
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
+| Space Hunt | 103618 | [103618-space-hunt.json](./103618-space-hunt.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
 | Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
@@ -20886,6 +20888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spacegirl 2038 | 159836 | [159836-spacegirl-2038.json](./159836-spacegirl-2038.json) |
 | SpaceGlider: Race For Time | 234498 | [234498-spaceglider-race-for-time.json](./234498-spaceglider-race-for-time.json) |
 | Spacegore | 404967 | [404967-spacegore.json](./404967-spacegore.json) |
+| Spaceguard 80 | 103593 | [103593-spaceguard-80.json](./103593-spaceguard-80.json) |
 | Spacegulls | 145886 | [145886-spacegulls.json](./145886-spacegulls.json) |
 | Spaceguy | 86438 | [86438-spaceguy.json](./86438-spaceguy.json) |
 | Spaceguy 2 | 98334 | [98334-spaceguy-2.json](./98334-spaceguy-2.json) |
@@ -24432,6 +24435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ball | 245171 | [245171-star-ball.json](./245171-star-ball.json) |
 | Star Ball | 84472 | [84472-star-ball.json](./84472-star-ball.json) |
 | Star Balls | 35370 | [35370-star-balls.json](./35370-star-balls.json) |
+| Star Baron | 103607 | [103607-star-baron.json](./103607-star-baron.json) |
 | Star Battalion | 203231 | [203231-star-battalion.json](./203231-star-battalion.json) |
 | Star Battle | 415797 | [415797-star-battle.json](./415797-star-battle.json) |
 | Star Beads | 329007 | [329007-star-beads.json](./329007-star-beads.json) |
@@ -24892,6 +24896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ships | 149106 | [149106-star-ships.json](./149106-star-ships.json) |
 | Star Shogun | 311160 | [311160-star-shogun.json](./311160-star-shogun.json) |
 | Star Shoot VS | 314812 | [314812-star-shoot-vs.json](./314812-star-shoot-vs.json) |
+| Star Shooters: Galaxy Dash | 103688 | [103688-star-shooters-galaxy-dash.json](./103688-star-shooters-galaxy-dash.json) |
 | Star Shredders | 81697 | [81697-star-shredders.json](./81697-star-shredders.json) |
 | Star Sign | 217309 | [217309-star-sign.json](./217309-star-sign.json) |
 | Star Sign | 377304 | [377304-star-sign.json](./377304-star-sign.json) |
@@ -34851,6 +34856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surprise Mechanic: The Gaming Trivia | 134896 | [134896-surprise-mechanic-the-gaming-trivia.json](./134896-surprise-mechanic-the-gaming-trivia.json) |
 | Surprise Party! | 164907 | [164907-surprise-party.json](./164907-surprise-party.json) |
 | Surprise Stack | 177181 | [177181-surprise-stack.json](./177181-surprise-stack.json) |
+| Surprise Tic Tac Toe Dolls | 103693 | [103693-surprise-tic-tac-toe-dolls.json](./103693-surprise-tic-tac-toe-dolls.json) |
 | Surprising Laws Around the World True or False Quiz | 401096 | [401096-surprising-laws-around-the-world-true-or-false-quiz.json](./401096-surprising-laws-around-the-world-true-or-false-quiz.json) |
 | Surprising My Neighbors | 367363 | [367363-surprising-my-neighbors.json](./367363-surprising-my-neighbors.json) |
 | Surprising My Neighbors 2 | 149038 | [149038-surprising-my-neighbors-2.json](./149038-surprising-my-neighbors-2.json) |
