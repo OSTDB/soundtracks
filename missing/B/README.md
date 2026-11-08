@@ -972,6 +972,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4878,6 +4879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach-Head II | 13389 | [13389-beach-head-ii.json](./13389-beach-head-ii.json) |
 | Beachcomber | 333945 | [333945-beachcomber.json](./333945-beachcomber.json) |
 | Beachcomber | 388924 | [388924-beachcomber.json](./388924-beachcomber.json) |
+| Beachcombing | 138936 | [138936-beachcombing.json](./138936-beachcombing.json) |
 | BeachCricket | 90523 | [90523-beachcricket.json](./90523-beachcricket.json) |
 | Beached | 169905 | [169905-beached.json](./169905-beached.json) |
 | Beached | 174101 | [174101-beached.json](./174101-beached.json) |
@@ -5527,6 +5529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BeatLine | 260773 | [260773-beatline.json](./260773-beatline.json) |
 | Beatlow | 399427 | [399427-beatlow.json](./399427-beatlow.json) |
 | Beatmania | 135552 | [135552-beatmania.json](./135552-beatmania.json) |
+| Beatmania | 138955 | [138955-beatmania.json](./138955-beatmania.json) |
 | Beatmania | 20498 | [20498-beatmania.json](./20498-beatmania.json) |
 | Beatmania | 218906 | [218906-beatmania.json](./218906-beatmania.json) |
 | Beatmania | 379146 | [379146-beatmania.json](./379146-beatmania.json) |
@@ -5564,6 +5567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania IIDX 24 Sinobuz | 108141 | [108141-beatmania-iidx-24-sinobuz.json](./108141-beatmania-iidx-24-sinobuz.json) |
 | Beatmania IIDX 26 Rootage | 112148 | [112148-beatmania-iidx-26-rootage.json](./112148-beatmania-iidx-26-rootage.json) |
 | Beatmania IIDX 27 Heroic Verse | 127142 | [127142-beatmania-iidx-27-heroic-verse.json](./127142-beatmania-iidx-27-heroic-verse.json) |
+| Beatmania IIDX 28 Bistrover | 138945 | [138945-beatmania-iidx-28-bistrover.json](./138945-beatmania-iidx-28-bistrover.json) |
 | Beatmania IIDX 29 CastHour | 163564 | [163564-beatmania-iidx-29-casthour.json](./163564-beatmania-iidx-29-casthour.json) |
 | Beatmania IIDX 2nd style | 94021 | [94021-beatmania-iidx-2nd-style.json](./94021-beatmania-iidx-2nd-style.json) |
 | Beatmania IIDX 30 Resident | 212655 | [212655-beatmania-iidx-30-resident.json](./212655-beatmania-iidx-30-resident.json) |
@@ -14181,6 +14185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowler | 95920 | [95920-bowler.json](./95920-bowler.json) |
 | Bowlers | 384080 | [384080-bowlers.json](./384080-bowlers.json) |
 | Bowling | 131535 | [131535-bowling.json](./131535-bowling.json) |
+| Bowling | 138957 | [138957-bowling.json](./138957-bowling.json) |
 | Bowling | 172404 | [172404-bowling.json](./172404-bowling.json) |
 | Bowling | 18005 | [18005-bowling.json](./18005-bowling.json) |
 | Bowling | 217663 | [217663-bowling.json](./217663-bowling.json) |
