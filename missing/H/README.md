@@ -1623,6 +1623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Chef 3 | 294803 | [294803-happy-chef-3.json](./294803-happy-chef-3.json) |
 | Happy Chess | 56569 | [56569-happy-chess.json](./56569-happy-chess.json) |
 | Happy Circus | 84490 | [84490-happy-circus.json](./84490-happy-circus.json) |
+| Happy Claus Christmas Edition | 113244 | [113244-happy-claus-christmas-edition.json](./113244-happy-claus-christmas-edition.json) |
 | Happy Clinic | 294802 | [294802-happy-clinic.json](./294802-happy-clinic.json) |
 | Happy Color | 187630 | [187630-happy-color.json](./187630-happy-color.json) |
 | Happy Color Links | 277834 | [277834-happy-color-links.json](./277834-happy-color-links.json) |
@@ -4125,6 +4126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell Blood: Inferno Retro Shooter | 378804 | [378804-hell-blood-inferno-retro-shooter.json](./378804-hell-blood-inferno-retro-shooter.json) |
 | Hell Boba Café | 216605 | [216605-hell-boba-cafe.json](./216605-hell-boba-cafe.json) |
 | Hell Bound Monsters | 188837 | [188837-hell-bound-monsters.json](./188837-hell-bound-monsters.json) |
+| Hell Breaker | 113220 | [113220-hell-breaker.json](./113220-hell-breaker.json) |
 | Hell Breaker | 413392 | [413392-hell-breaker.json](./413392-hell-breaker.json) |
 | Hell Bug | 371376 | [371376-hell-bug.json](./371376-hell-bug.json) |
 | Hell Builder | 352221 | [352221-hell-builder.json](./352221-hell-builder.json) |
@@ -10194,6 +10196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon Riders | 84516 | [84516-horizon-riders.json](./84516-horizon-riders.json) |
 | Horizon Sandbox | 405631 | [405631-horizon-sandbox.json](./405631-horizon-sandbox.json) |
 | Horizon Shift | 17896 | [17896-horizon-shift.json](./17896-horizon-shift.json) |
+| Horizon Shift '81 | 113230 | [113230-horizon-shift-81.json](./113230-horizon-shift-81.json) |
 | Horizon Source | 86511 | [86511-horizon-source.json](./86511-horizon-source.json) |
 | Horizon Springs | 277632 | [277632-horizon-springs.json](./277632-horizon-springs.json) |
 | Horizon Steel Frontiers | 377555 | [377555-horizon-steel-frontiers.json](./377555-horizon-steel-frontiers.json) |
