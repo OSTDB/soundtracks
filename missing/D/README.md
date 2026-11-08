@@ -711,6 +711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danball Senki | 72572 | [72572-danball-senki.json](./72572-danball-senki.json) |
 | Danball Senki Baku Boost | 136914 | [136914-danball-senki-baku-boost.json](./136914-danball-senki-baku-boost.json) |
 | Danball Senki Boost | 146768 | [146768-danball-senki-boost.json](./146768-danball-senki-boost.json) |
+| Danball Senki W | 80087 | [80087-danball-senki-w.json](./80087-danball-senki-w.json) |
 | Danball Senki W Chou Custom | 59406 | [59406-danball-senki-w-chou-custom.json](./59406-danball-senki-w-chou-custom.json) |
 | Danball Senki Wars | 59404 | [59404-danball-senki-wars.json](./59404-danball-senki-wars.json) |
 | Dance & Learn | 230331 | [230331-dance-and-learn.json](./230331-dance-and-learn.json) |
@@ -19569,6 +19570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duty First | 317095 | [317095-duty-first.json](./317095-duty-first.json) |
 | Duty Free Shop Simulator | 373099 | [373099-duty-free-shop-simulator.json](./373099-duty-free-shop-simulator.json) |
 | Duty: Lost Arcadia | 380591 | [380591-duty-lost-arcadia.json](./380591-duty-lost-arcadia.json) |
+| Duval Dash | 80086 | [80086-duval-dash.json](./80086-duval-dash.json) |
 | Dux | 68409 | [68409-dux.json](./68409-dux.json) |
 | Dvalloc | 258533 | [258533-dvalloc.json](./258533-dvalloc.json) |
 | DVD Dancemachine DVT-F800 | 245697 | [245697-dvd-dancemachine-dvt-f800.json](./245697-dvd-dancemachine-dvt-f800.json) |
