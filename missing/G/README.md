@@ -9778,6 +9778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grisaia Phantom Trigger Vol.4 | 81678 | [81678-grisaia-phantom-trigger-vol-4.json](./81678-grisaia-phantom-trigger-vol-4.json) |
 | Grisaia Phantom Trigger Vol.5 | 104391 | [104391-grisaia-phantom-trigger-vol-5.json](./104391-grisaia-phantom-trigger-vol-5.json) |
 | Grisaia Phantom Trigger Vol.7 | 135819 | [135819-grisaia-phantom-trigger-vol-7.json](./135819-grisaia-phantom-trigger-vol-7.json) |
+| Grisaia Trilogy Package Edition | 123169 | [123169-grisaia-trilogy-package-edition.json](./123169-grisaia-trilogy-package-edition.json) |
 | Grisaia: Phantom Trigger 01 to 05 | 142752 | [142752-grisaia-phantom-trigger-01-to-05.json](./142752-grisaia-phantom-trigger-01-to-05.json) |
 | Grisaia: Phantom Trigger Vol. 8 | 191896 | [191896-grisaia-phantom-trigger-vol-8.json](./191896-grisaia-phantom-trigger-vol-8.json) |
 | Grisaia: Shuuketsu no Hyakka - Les Rassemblement Cent Fruits de la Grisaia | 403209 | [403209-grisaia-shuuketsu-no-hyakka-les-rassemblement-cent-fruits-de-la-grisaia.json](./403209-grisaia-shuuketsu-no-hyakka-les-rassemblement-cent-fruits-de-la-grisaia.json) |
@@ -10051,6 +10052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground to Dust | 303989 | [303989-ground-to-dust.json](./303989-ground-to-dust.json) |
 | Ground Under | 112994 | [112994-ground-under.json](./112994-ground-under.json) |
 | Ground War | 127606 | [127606-ground-war.json](./127606-ground-war.json) |
+| Ground War Tanks | 123147 | [123147-ground-war-tanks.json](./123147-ground-war-tanks.json) |
 | Ground Wars KDR | 270481 | [270481-ground-wars-kdr.json](./270481-ground-wars-kdr.json) |
 | Ground Water: Episode of Dhanra | 374115 | [374115-ground-water-episode-of-dhanra.json](./374115-ground-water-episode-of-dhanra.json) |
 | Ground Wave | 91687 | [91687-ground-wave.json](./91687-ground-wave.json) |
