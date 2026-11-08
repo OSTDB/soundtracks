@@ -2652,6 +2652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Hidden Flows | 252288 | [252288-legend-of-hidden-flows.json](./252288-legend-of-hidden-flows.json) |
 | Legend of Himari | 91221 | [91221-legend-of-himari.json](./91221-legend-of-himari.json) |
 | Legend of Hiraq | 348450 | [348450-legend-of-hiraq.json](./348450-legend-of-hiraq.json) |
+| Legend of Homebody | 105492 | [105492-legend-of-homebody.json](./105492-legend-of-homebody.json) |
 | Legend of Illusion Starring Mickey Mouse | 8125 | [8125-legend-of-illusion-starring-mickey-mouse.json](./8125-legend-of-illusion-starring-mickey-mouse.json) |
 | Legend of Inca: Mystical Culture | 274909 | [274909-legend-of-inca-mystical-culture.json](./274909-legend-of-inca-mystical-culture.json) |
 | Legend of Ixtona | 68979 | [68979-legend-of-ixtona.json](./68979-legend-of-ixtona.json) |
