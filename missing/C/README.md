@@ -9688,6 +9688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citytopia | 114791 | [114791-citytopia.json](./114791-citytopia.json) |
 | CityVille | 80153 | [80153-cityville.json](./80153-cityville.json) |
 | CityVille 2 | 64246 | [64246-cityville-2.json](./64246-cityville-2.json) |
+| CityWarHeroes VR | 128109 | [128109-citywarheroes-vr.json](./128109-citywarheroes-vr.json) |
 | Citywars Savage | 112740 | [112740-citywars-savage.json](./112740-citywars-savage.json) |
 | Citywars Tower Defense | 191574 | [191574-citywars-tower-defense.json](./191574-citywars-tower-defense.json) |
 | CityZen | 392256 | [392256-cityzen.json](./392256-cityzen.json) |
@@ -11595,6 +11596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coffee Bar Renovator | 216608 | [216608-coffee-bar-renovator.json](./216608-coffee-bar-renovator.json) |
 | Coffee Bar Simulator | 373269 | [373269-coffee-bar-simulator.json](./373269-coffee-bar-simulator.json) |
 | Coffee Brakes | 276207 | [276207-coffee-brakes.json](./276207-coffee-brakes.json) |
+| Coffee Break | 128114 | [128114-coffee-break.json](./128114-coffee-break.json) |
 | Coffee Break | 206303 | [206303-coffee-break.json](./206303-coffee-break.json) |
 | Coffee Break | 261180 | [261180-coffee-break.json](./261180-coffee-break.json) |
 | Coffee Break | 326214 | [326214-coffee-break.json](./326214-coffee-break.json) |
