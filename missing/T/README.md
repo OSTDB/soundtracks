@@ -2747,6 +2747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tattered Sails | 298164 | [298164-tattered-sails.json](./298164-tattered-sails.json) |
 | Tatters of The King | 387710 | [387710-tatters-of-the-king.json](./387710-tatters-of-the-king.json) |
 | Tattletail | 26665 | [26665-tattletail.json](./26665-tattletail.json) |
+| Tattletail - Horror Night | 108573 | [108573-tattletail-horror-night.json](./108573-tattletail-horror-night.json) |
 | Tattoo and Girls | 156769 | [156769-tattoo-and-girls.json](./156769-tattoo-and-girls.json) |
 | Tattoo Artist | 284725 | [284725-tattoo-artist.json](./284725-tattoo-artist.json) |
 | Tattoo Artist 2: Full Timer | 331457 | [331457-tattoo-artist-2-full-timer.json](./331457-tattoo-artist-2-full-timer.json) |
@@ -3112,6 +3113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Umizoomi | 47958 | [47958-team-umizoomi.json](./47958-team-umizoomi.json) |
 | Team Umizoomi & Dora's Fantastic Flight | 7980 | [7980-team-umizoomi-and-doras-fantastic-flight.json](./7980-team-umizoomi-and-doras-fantastic-flight.json) |
 | Team Umizoomi: Umi City Heroes! | 230405 | [230405-team-umizoomi-umi-city-heroes.json](./230405-team-umizoomi-umi-city-heroes.json) |
+| Team Up | 108673 | [108673-team-up.json](./108673-team-up.json) |
 | Team up with A Magician | 132544 | [132544-team-up-with-a-magician.json](./132544-team-up-with-a-magician.json) |
 | Team USA Basketball | 46260 | [46260-team-usa-basketball.json](./46260-team-usa-basketball.json) |
 | Team Xtreme: Operation Weather Disaster | 70983 | [70983-team-xtreme-operation-weather-disaster.json](./70983-team-xtreme-operation-weather-disaster.json) |
@@ -3916,6 +3918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tempo Punk | 212148 | [212148-tempo-punk.json](./212148-tempo-punk.json) |
 | Tempo Quest | 103049 | [103049-tempo-quest.json](./103049-tempo-quest.json) |
 | Tempo Tamer | 384853 | [384853-tempo-tamer.json](./384853-tempo-tamer.json) |
+| Tempo Wizard | 108672 | [108672-tempo-wizard.json](./108672-tempo-wizard.json) |
 | Tempoknight | 224204 | [224204-tempoknight.json](./224204-tempoknight.json) |
 | Tempomancy | 266582 | [266582-tempomancy.json](./266582-tempomancy.json) |
 | Tempopo | 305178 | [305178-tempopo.json](./305178-tempopo.json) |
@@ -7585,6 +7588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Collider | 17769 | [17769-the-collider.json](./17769-the-collider.json) |
 | The Collider 2 | 18685 | [18685-the-collider-2.json](./18685-the-collider-2.json) |
 | The Colonel's Bequest | 12008 | [12008-the-colonels-bequest.json](./12008-the-colonels-bequest.json) |
+| The Colony | 108668 | [108668-the-colony.json](./108668-the-colony.json) |
 | The Colony | 113413 | [113413-the-colony.json](./113413-the-colony.json) |
 | The Colony | 12411 | [12411-the-colony.json](./12411-the-colony.json) |
 | The Colony | 178020 | [178020-the-colony.json](./178020-the-colony.json) |
@@ -14958,6 +14962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outlast Trials: Terrified Toddler Pack | 366835 | [366835-the-outlast-trials-terrified-toddler-pack.json](./366835-the-outlast-trials-terrified-toddler-pack.json) |
 | The Outlast Trials: World of Heavyweights Pack | 366839 | [366839-the-outlast-trials-world-of-heavyweights-pack.json](./366839-the-outlast-trials-world-of-heavyweights-pack.json) |
 | The Outlaw and the Newcomer | 216998 | [216998-the-outlaw-and-the-newcomer.json](./216998-the-outlaw-and-the-newcomer.json) |
+| The Outlived | 108658 | [108658-the-outlived.json](./108658-the-outlived.json) |
 | The Outpost | 156055 | [156055-the-outpost.json](./156055-the-outpost.json) |
 | The Outpost Nine | 105325 | [105325-the-outpost-nine.json](./105325-the-outpost-nine.json) |
 | The Outreach | 294360 | [294360-the-outreach.json](./294360-the-outreach.json) |
@@ -24869,6 +24874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TOCA Race Driver 3 | 907 | [907-toca-race-driver-3.json](./907-toca-race-driver-3.json) |
 | TOCA Race Driver 3 Challenge | 42849 | [42849-toca-race-driver-3-challenge.json](./42849-toca-race-driver-3-challenge.json) |
 | TOCA Touring Car Championship | 201751 | [201751-toca-touring-car-championship.json](./201751-toca-touring-car-championship.json) |
+| Toca Train | 108650 | [108650-toca-train.json](./108650-toca-train.json) |
 | TOCA World Touring Cars | 234899 | [234899-toca-world-touring-cars.json](./234899-toca-world-touring-cars.json) |
 | TOCA World Touring Cars | 8002 | [8002-toca-world-touring-cars.json](./8002-toca-world-touring-cars.json) |
 | Tochi | 200765 | [200765-tochi.json](./200765-tochi.json) |
