@@ -3890,6 +3890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Dead Revolver | 1969 | [1969-red-dead-revolver.json](./1969-red-dead-revolver.json) |
 | Red Death | 29503 | [29503-red-death.json](./29503-red-death.json) |
 | Red Death Fighter | 200062 | [200062-red-death-fighter.json](./200062-red-death-fighter.json) |
+| Red Death: 8Feet | 121132 | [121132-red-death-8feet.json](./121132-red-death-8feet.json) |
 | Red Desert Render | 132148 | [132148-red-desert-render.json](./132148-red-desert-render.json) |
 | Red Dog: Superior Firepower | 45835 | [45835-red-dog-superior-firepower.json](./45835-red-dog-superior-firepower.json) |
 | Red Door Ylw Door | 308556 | [308556-red-door-ylw-door.json](./308556-red-door-ylw-door.json) |
@@ -10012,6 +10013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocococo: Audiogame Fantastique | 258700 | [258700-rocococo-audiogame-fantastique.json](./258700-rocococo-audiogame-fantastique.json) |
 | Rocpain: Rock Paper Scissors | 226366 | [226366-rocpain-rock-paper-scissors.json](./226366-rocpain-rock-paper-scissors.json) |
 | Rocrasher | 374034 | [374034-rocrasher.json](./374034-rocrasher.json) |
+| Rod | 121136 | [121136-rod.json](./121136-rod.json) |
 | Rod & Ripple | 343223 | [343223-rod-and-ripple.json](./343223-rod-and-ripple.json) |
 | Rod Multiplayer Car Driving | 226146 | [226146-rod-multiplayer-car-driving.json](./226146-rod-multiplayer-car-driving.json) |
 | Rod of Asclepius | 392006 | [392006-rod-of-asclepius.json](./392006-rod-of-asclepius.json) |
@@ -10162,6 +10164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Galleon and the Haunted Treasure | 285828 | [285828-rogue-galleon-and-the-haunted-treasure.json](./285828-rogue-galleon-and-the-haunted-treasure.json) |
 | Rogue Girl | 293989 | [293989-rogue-girl.json](./293989-rogue-girl.json) |
 | Rogue Gladius Survivors | 331239 | [331239-rogue-gladius-survivors.json](./331239-rogue-gladius-survivors.json) |
+| Rogue Glitch | 121154 | [121154-rogue-glitch.json](./121154-rogue-glitch.json) |
 | Rogue Glitch Ultra | 275900 | [275900-rogue-glitch-ultra.json](./275900-rogue-glitch-ultra.json) |
 | Rogue Hanafuda | 389638 | [389638-rogue-hanafuda.json](./389638-rogue-hanafuda.json) |
 | Rogue Hands! | 333352 | [333352-rogue-hands.json](./333352-rogue-hands.json) |
