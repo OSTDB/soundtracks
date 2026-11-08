@@ -3789,7 +3789,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Metal | 46797 | [46797-heavy-metal.json](./46797-heavy-metal.json) |
 | Heavy Metal Babes | 172332 | [172332-heavy-metal-babes.json](./172332-heavy-metal-babes.json) |
 | Heavy Metal Death Can | 386835 | [386835-heavy-metal-death-can.json](./386835-heavy-metal-death-can.json) |
-| Heavy Metal Machines | 36171 | [36171-heavy-metal-machines.json](./36171-heavy-metal-machines.json) |
 | Heavy Metal Paradroid | 296216 | [296216-heavy-metal-paradroid.json](./296216-heavy-metal-paradroid.json) |
 | Heavy Metal Thunder | 56142 | [56142-heavy-metal-thunder.json](./56142-heavy-metal-thunder.json) |
 | Heavy Metal Titans | 252256 | [252256-heavy-metal-titans.json](./252256-heavy-metal-titans.json) |
