@@ -6925,6 +6925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Cow Rampage: Orion Needs Your Milk! | 165509 | [165509-alien-cow-rampage-orion-needs-your-milk.json](./165509-alien-cow-rampage-orion-needs-your-milk.json) |
 | Alien Crab in the Ghostmaze | 180706 | [180706-alien-crab-in-the-ghostmaze.json](./180706-alien-crab-in-the-ghostmaze.json) |
 | Alien Creeps | 118714 | [118714-alien-creeps.json](./118714-alien-creeps.json) |
+| Alien Cruise | 117927 | [117927-alien-cruise.json](./117927-alien-cruise.json) |
 | Alien Crusader | 89385 | [89385-alien-crusader.json](./89385-alien-crusader.json) |
 | Alien Crush Returns | 51097 | [51097-alien-crush-returns.json](./51097-alien-crush-returns.json) |
 | Alien Cube | 254779 | [254779-alien-cube.json](./254779-alien-cube.json) |
@@ -7247,6 +7248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens: Colonial Marines - Reconnaissance Pack | 118183 | [118183-aliens-colonial-marines-reconnaissance-pack.json](./118183-aliens-colonial-marines-reconnaissance-pack.json) |
 | Aliens: Colonial Marines - Sawed-off Double Barrel Shotgun | 118186 | [118186-aliens-colonial-marines-sawed-off-double-barrel-shotgun.json](./118186-aliens-colonial-marines-sawed-off-double-barrel-shotgun.json) |
 | Aliens: Colonial Marines - Sharp Sticks | 118187 | [118187-aliens-colonial-marines-sharp-sticks.json](./118187-aliens-colonial-marines-sharp-sticks.json) |
+| Aliens: Colonial Marines - Stasis Interrupted | 117903 | [117903-aliens-colonial-marines-stasis-interrupted.json](./117903-aliens-colonial-marines-stasis-interrupted.json) |
 | Aliens: Dark Descent - Lethe Recon Pack | 367093 | [367093-aliens-dark-descent-lethe-recon-pack.json](./367093-aliens-dark-descent-lethe-recon-pack.json) |
 | Aliens: Fireteam Elite - Deluxe Edition | 154709 | [154709-aliens-fireteam-elite-deluxe-edition.json](./154709-aliens-fireteam-elite-deluxe-edition.json) |
 | Aliens: Fireteam Elite - Endeavor Veteran Pack | 223832 | [223832-aliens-fireteam-elite-endeavor-veteran-pack.json](./223832-aliens-fireteam-elite-endeavor-veteran-pack.json) |
@@ -11881,6 +11883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apocripha/0 Alex Disk | 204557 | [204557-apocripha-0-alex-disk.json](./204557-apocripha-0-alex-disk.json) |
 | Apocripha/0 Platina Disk | 204560 | [204560-apocripha-0-platina-disk.json](./204560-apocripha-0-platina-disk.json) |
 | Apocryph | 54814 | [54814-apocryph.json](./54814-apocryph.json) |
+| Apocryph: an old-school shooter | 117926 | [117926-apocryph-an-old-school-shooter.json](./117926-apocryph-an-old-school-shooter.json) |
 | Apocrypha | 171416 | [171416-apocrypha.json](./171416-apocrypha.json) |
 | Apocryphoid | 380136 | [380136-apocryphoid.json](./380136-apocryphoid.json) |
 | Apogea | 311753 | [311753-apogea.json](./311753-apogea.json) |
@@ -12767,6 +12770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Pop Flamer | 168692 | [168692-arcade-archives-pop-flamer.json](./168692-arcade-archives-pop-flamer.json) |
 | Arcade Archives: Power Spikes | 319783 | [319783-arcade-archives-power-spikes.json](./319783-arcade-archives-power-spikes.json) |
 | Arcade Archives: Pro Tennis World Court | 200943 | [200943-arcade-archives-pro-tennis-world-court.json](./200943-arcade-archives-pro-tennis-world-court.json) |
+| Arcade Archives: Psycho Soldier | 117879 | [117879-arcade-archives-psycho-soldier.json](./117879-arcade-archives-psycho-soldier.json) |
 | Arcade Archives: Punch-Out!! | 68357 | [68357-arcade-archives-punch-out.json](./68357-arcade-archives-punch-out.json) |
 | Arcade Archives: Qix | 194365 | [194365-arcade-archives-qix.json](./194365-arcade-archives-qix.json) |
 | Arcade Archives: Quester | 389843 | [389843-arcade-archives-quester.json](./389843-arcade-archives-quester.json) |
@@ -12850,6 +12854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Tecmo Knight | 248272 | [248272-arcade-archives-tecmo-knight.json](./248272-arcade-archives-tecmo-knight.json) |
 | Arcade Archives: Tecmo Stackers | 313224 | [313224-arcade-archives-tecmo-stackers.json](./313224-arcade-archives-tecmo-stackers.json) |
 | Arcade Archives: Terra Cresta | 99786 | [99786-arcade-archives-terra-cresta.json](./99786-arcade-archives-terra-cresta.json) |
+| Arcade Archives: Terra Force | 117933 | [117933-arcade-archives-terra-force.json](./117933-arcade-archives-terra-force.json) |
 | Arcade Archives: Tetris - The Absolute: The Grand Master 2 Plus | 251538 | [251538-arcade-archives-tetris-the-absolute-the-grand-master-2-plus.json](./251538-arcade-archives-tetris-the-absolute-the-grand-master-2-plus.json) |
 | Arcade Archives: Tetris the Grand Master | 228267 | [228267-arcade-archives-tetris-the-grand-master.json](./228267-arcade-archives-tetris-the-grand-master.json) |
 | Arcade Archives: The Astyanax | 146827 | [146827-arcade-archives-the-astyanax.json](./146827-arcade-archives-the-astyanax.json) |
@@ -12869,6 +12874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Thunder Dragon | 147104 | [147104-arcade-archives-thunder-dragon.json](./147104-arcade-archives-thunder-dragon.json) |
 | Arcade Archives: Thunder Dragon 2 | 192053 | [192053-arcade-archives-thunder-dragon-2.json](./192053-arcade-archives-thunder-dragon-2.json) |
 | Arcade Archives: Thunder Fox | 330002 | [330002-arcade-archives-thunder-fox.json](./330002-arcade-archives-thunder-fox.json) |
+| Arcade Archives: Time Pilot | 117928 | [117928-arcade-archives-time-pilot.json](./117928-arcade-archives-time-pilot.json) |
 | Arcade Archives: Time Pilot '84 | 149990 | [149990-arcade-archives-time-pilot-84.json](./149990-arcade-archives-time-pilot-84.json) |
 | Arcade Archives: Time Tunnel | 122746 | [122746-arcade-archives-time-tunnel.json](./122746-arcade-archives-time-tunnel.json) |
 | Arcade Archives: Tinkle Pit | 308297 | [308297-arcade-archives-tinkle-pit.json](./308297-arcade-archives-tinkle-pit.json) |
@@ -13962,6 +13968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arizona Sunshine II | 250628 | [250628-arizona-sunshine-ii.json](./250628-arizona-sunshine-ii.json) |
 | Arizona Sunshine VR Remake | 313768 | [313768-arizona-sunshine-vr-remake.json](./313768-arizona-sunshine-vr-remake.json) |
 | Arizona Sunshine: Dead Man | 171323 | [171323-arizona-sunshine-dead-man.json](./171323-arizona-sunshine-dead-man.json) |
+| Arizona Sunshine: The Damned | 117884 | [117884-arizona-sunshine-the-damned.json](./117884-arizona-sunshine-the-damned.json) |
 | ARK -the lost fairytale- | 95143 | [95143-ark-the-lost-fairytale.json](./95143-ark-the-lost-fairytale.json) |
 | Ark and Ade | 157022 | [157022-ark-and-ade.json](./157022-ark-and-ade.json) |
 | Ark Area | 40016 | [40016-ark-area.json](./40016-ark-area.json) |
@@ -14550,6 +14557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Around Us | 226230 | [226230-around-us.json](./226230-around-us.json) |
 | Around us: Zombie shooter | 266933 | [266933-around-us-zombie-shooter.json](./266933-around-us-zombie-shooter.json) |
 | Aroya Knight | 389681 | [389681-aroya-knight.json](./389681-aroya-knight.json) |
+| Arpeggio of Blue Steel: Ars Nova - Re:Birth | 117887 | [117887-arpeggio-of-blue-steel-ars-nova-re-birth.json](./117887-arpeggio-of-blue-steel-ars-nova-re-birth.json) |
 | Arpiel Online | 56466 | [56466-arpiel-online.json](./56466-arpiel-online.json) |
 | Arpongi | 311333 | [311333-arpongi.json](./311333-arpongi.json) |
 | Arpsic | 187176 | [187176-arpsic.json](./187176-arpsic.json) |
@@ -16989,7 +16997,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
