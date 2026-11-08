@@ -58,29 +58,29 @@ The most popular games still missing a soundtrack. Click **Add it**, fill in the
 | 44 | **Need for Speed: Porsche Unleashed** | [🔎 Find on Spotify](https://open.spotify.com/search/Need%20for%20Speed%3A%20Porsche%20Unleashed%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/N/94-need-for-speed-porsche-unleashed.json) |
 | 45 | **The Room** | [🔎 Find on Spotify](https://open.spotify.com/search/The%20Room%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/T/11625-the-room.json) |
 | 46 | **Life is Strange: True Colors** | [🔎 Find on Spotify](https://open.spotify.com/search/Life%20is%20Strange%3A%20True%20Colors%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/L/144765-life-is-strange-true-colors.json) |
-| 47 | **Starbound** | [🔎 Find on Spotify](https://open.spotify.com/search/Starbound%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/S/3019-starbound.json) |
-| 48 | **Deadpool** | [🔎 Find on Spotify](https://open.spotify.com/search/Deadpool%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/1919-deadpool.json) |
-| 49 | **Dead Rising 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Dead%20Rising%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/496-dead-rising-2.json) |
-| 50 | **Devil May Cry 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Devil%20May%20Cry%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/135-devil-may-cry-2.json) |
+| 47 | **Grand Theft Auto: Vice City Stories** | [🔎 Find on Spotify](https://open.spotify.com/search/Grand%20Theft%20Auto%3A%20Vice%20City%20Stories%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/G/3262-grand-theft-auto-vice-city-stories.json) |
+| 48 | **Starbound** | [🔎 Find on Spotify](https://open.spotify.com/search/Starbound%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/S/3019-starbound.json) |
+| 49 | **Deadpool** | [🔎 Find on Spotify](https://open.spotify.com/search/Deadpool%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/1919-deadpool.json) |
+| 50 | **Dead Rising 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Dead%20Rising%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/D/496-dead-rising-2.json) |
 
 ## Pick a letter
 
 | **[A](./A/README.md)** | **[B](./B/README.md)** | **[C](./C/README.md)** | **[D](./D/README.md)** | **[E](./E/README.md)** | **[F](./F/README.md)** | **[G](./G/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 18777 games | 18766 games | 21376 games | 19825 games | 8645 games | 14399 games | 11735 games |
+| 18777 games | 18769 games | 21379 games | 19830 games | 8646 games | 14403 games | 11736 games |
 
 | **[H](./H/README.md)** | **[I](./I/README.md)** | **[J](./J/README.md)** | **[K](./K/README.md)** | **[L](./L/README.md)** | **[M](./M/README.md)** | **[N](./N/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 13051 games | 7091 games | 4357 games | 6587 games | 10430 games | 22690 games | 7970 games |
+| 13051 games | 7091 games | 4358 games | 6587 games | 10431 games | 22698 games | 7971 games |
 
 | **[O](./O/README.md)** | **[P](./P/README.md)** | **[Q](./Q/README.md)** | **[R](./R/README.md)** | **[S](./S/README.md)** | **[T](./T/README.md)** | **[U](./U/README.md)** |
 | --- | --- | --- | --- | --- | --- | --- |
-| 6079 games | 19272 games | 1318 games | 13371 games | 36891 games | 34397 games | 3740 games |
+| 6079 games | 19278 games | 1318 games | 13373 games | 36892 games | 34402 games | 3742 games |
 
 | **[V](./V/README.md)** | **[W](./W/README.md)** | **[X](./X/README.md)** | **[Y](./Y/README.md)** | **[Z](./Z/README.md)** | **[0-9](./0-9/README.md)** |
 | --- | --- | --- | --- | --- | --- |
-| 4412 games | 9673 games | 1102 games | 2202 games | 2684 games | 3675 games |
+| 4412 games | 9673 games | 1102 games | 2204 games | 2688 games | 3675 games |
 
 ---
 
-_324515 games missing a soundtrack · last updated 2026-11-08T06:34:02.488Z_
+_324565 games missing a soundtrack · last updated 2026-11-08T06:48:58.805Z_
