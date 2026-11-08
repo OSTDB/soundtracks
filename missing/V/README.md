@@ -4269,6 +4269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vribyss Refuge The Escape | 303981 | [303981-vribyss-refuge-the-escape.json](./303981-vribyss-refuge-the-escape.json) |
 | Vribyss Refuge: Metamorphosis | 372002 | [372002-vribyss-refuge-metamorphosis.json](./372002-vribyss-refuge-metamorphosis.json) |
 | VRiczat - The Virtual Reality Cricket Game | 112785 | [112785-vriczat-the-virtual-reality-cricket-game.json](./112785-vriczat-the-virtual-reality-cricket-game.json) |
+| vridniX | 90857 | [90857-vridnix.json](./90857-vridnix.json) |
 | VRiking | 261506 | [261506-vriking.json](./261506-vriking.json) |
 | VRIQ | 29082 | [29082-vriq.json](./29082-vriq.json) |
 | Vritra | 125651 | [125651-vritra.json](./125651-vritra.json) |
