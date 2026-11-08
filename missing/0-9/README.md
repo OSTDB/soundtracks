@@ -1236,6 +1236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 15 Puzzle | 268864 | [268864-15-puzzle.json](./268864-15-puzzle.json) |
 | 15 Puzzle | 282592 | [282592-15-puzzle.json](./282592-15-puzzle.json) |
 | 15 Puzzle | 67073 | [67073-15-puzzle.json](./67073-15-puzzle.json) |
+| 15 Puzzle Slide | 101125 | [101125-15-puzzle-slide.json](./101125-15-puzzle-slide.json) |
 | 15 Weeks Before Summer! | 358063 | [358063-15-weeks-before-summer.json](./358063-15-weeks-before-summer.json) |
 | 15 Years a Doomer | 262260 | [262260-15-years-a-doomer.json](./262260-15-years-a-doomer.json) |
 | 15 ﾠ | 240102 | [240102-15.json](./240102-15.json) |
