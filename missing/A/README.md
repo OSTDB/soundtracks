@@ -8500,6 +8500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amber Isle: Starter Pack | 330221 | [330221-amber-isle-starter-pack.json](./330221-amber-isle-starter-pack.json) |
 | Amber of The End | 359547 | [359547-amber-of-the-end.json](./359547-amber-of-the-end.json) |
 | Amber Quartz | 69291 | [69291-amber-quartz.json](./69291-amber-quartz.json) |
+| Amber Time | 132372 | [132372-amber-time.json](./132372-amber-time.json) |
 | Amber Time Pocket | 226220 | [226220-amber-time-pocket.json](./226220-amber-time-pocket.json) |
 | Amber: Journeys Beyond | 12390 | [12390-amber-journeys-beyond.json](./12390-amber-journeys-beyond.json) |
 | Amber's Airline: 7 Wonders | 116726 | [116726-ambers-airline-7-wonders.json](./116726-ambers-airline-7-wonders.json) |
@@ -14343,6 +14344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armourdillo | 13805 | [13805-armourdillo.json](./13805-armourdillo.json) |
 | Armoured Cavalry: Operation Varkiri | 215464 | [215464-armoured-cavalry-operation-varkiri.json](./215464-armoured-cavalry-operation-varkiri.json) |
 | Armoured Commander | 56936 | [56936-armoured-commander.json](./56936-armoured-commander.json) |
+| Armoured Commander II | 132356 | [132356-armoured-commander-ii.json](./132356-armoured-commander-ii.json) |
 | Armoured Engines | 27486 | [27486-armoured-engines.json](./27486-armoured-engines.json) |
 | Armoured Onslaught | 129223 | [129223-armoured-onslaught.json](./129223-armoured-onslaught.json) |
 | Armoured VR | 239822 | [239822-armoured-vr.json](./239822-armoured-vr.json) |
@@ -16165,6 +16167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astralis | 376870 | [376870-astralis.json](./376870-astralis.json) |
 | Astralis: Dawnblades | 390107 | [390107-astralis-dawnblades.json](./390107-astralis-dawnblades.json) |
 | Astralith | 395380 | [395380-astralith.json](./395380-astralith.json) |
+| Astralode Freeminers | 132350 | [132350-astralode-freeminers.json](./132350-astralode-freeminers.json) |
 | Astralojia | 191226 | [191226-astralojia.json](./191226-astralojia.json) |
 | Astralojia: Episode 1 | 119982 | [119982-astralojia-episode-1.json](./119982-astralojia-episode-1.json) |
 | Astralyte | 397474 | [397474-astralyte.json](./397474-astralyte.json) |
@@ -16932,6 +16935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
