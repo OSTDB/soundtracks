@@ -2161,6 +2161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmony in the Wild | 346717 | [346717-harmony-in-the-wild.json](./346717-harmony-in-the-wild.json) |
 | Harmony Islands | 237179 | [237179-harmony-islands.json](./237179-harmony-islands.json) |
 | Harmony of Fear | 337207 | [337207-harmony-of-fear.json](./337207-harmony-of-fear.json) |
+| Harmony of the bravest | 102408 | [102408-harmony-of-the-bravest.json](./102408-harmony-of-the-bravest.json) |
 | Harmony Overture | 199997 | [199997-harmony-overture.json](./199997-harmony-overture.json) |
 | Harmony Summer Hardpack Tape 11-in-1 | 279203 | [279203-harmony-summer-hardpack-tape-11-in-1.json](./279203-harmony-summer-hardpack-tape-11-in-1.json) |
 | Harmony: The Fall of Reverie | 236662 | [236662-harmony-the-fall-of-reverie.json](./236662-harmony-the-fall-of-reverie.json) |
@@ -8269,6 +8270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hip Hop Fame and Millions | 106718 | [106718-hip-hop-fame-and-millions.json](./106718-hip-hop-fame-and-millions.json) |
 | Hip Hop King: Rytmik Edition | 65460 | [65460-hip-hop-king-rytmik-edition.json](./65460-hip-hop-king-rytmik-edition.json) |
 | Hip Jog Jog | 198634 | [198634-hip-jog-jog.json](./198634-hip-jog-jog.json) |
+| HiPanda | 102303 | [102303-hipanda.json](./102303-hipanda.json) |
 | Hipatya in I wanna world | 307896 | [307896-hipatya-in-i-wanna-world.json](./307896-hipatya-in-i-wanna-world.json) |
 | Hiper Tronic | 72146 | [72146-hiper-tronic.json](./72146-hiper-tronic.json) |
 | HiPet! | 390582 | [390582-hipet.json](./390582-hipet.json) |
@@ -12390,6 +12392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Life VR: Dove Season | 224953 | [224953-hunting-life-vr-dove-season.json](./224953-hunting-life-vr-dove-season.json) |
 | Hunting Moon | 168150 | [168150-hunting-moon.json](./168150-hunting-moon.json) |
 | Hunting Moon vol.2 | 165022 | [165022-hunting-moon-vol-2.json](./165022-hunting-moon-vol-2.json) |
+| Hunting on Myths | 102304 | [102304-hunting-on-myths.json](./102304-hunting-on-myths.json) |
 | Hunting Pack | 373309 | [373309-hunting-pack.json](./373309-hunting-pack.json) |
 | Hunting Pearl Creek | 239806 | [239806-hunting-pearl-creek.json](./239806-hunting-pearl-creek.json) |
 | Hunting Pro Simulator | 407553 | [407553-hunting-pro-simulator.json](./407553-hunting-pro-simulator.json) |
