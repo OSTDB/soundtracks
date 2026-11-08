@@ -4554,6 +4554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reflex Unit: Strike Ops | 304653 | [304653-reflex-unit-strike-ops.json](./304653-reflex-unit-strike-ops.json) |
 | Reflexia Prototype ver. | 224749 | [224749-reflexia-prototype-ver.json](./224749-reflexia-prototype-ver.json) |
 | Reflexia: The Archetype's Room of Three Walls | 239686 | [239686-reflexia-the-archetypes-room-of-three-walls.json](./239686-reflexia-the-archetypes-room-of-three-walls.json) |
+| ReflexShot | 117871 | [117871-reflexshot.json](./117871-reflexshot.json) |
 | Reflow | 256755 | [256755-reflow.json](./256755-reflow.json) |
 | Refoil | 115351 | [115351-refoil.json](./115351-refoil.json) |
 | Reforged TD | 150586 | [150586-reforged-td.json](./150586-reforged-td.json) |
@@ -7196,6 +7197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rick Dangerous 2 | 308151 | [308151-rick-dangerous-2.json](./308151-rick-dangerous-2.json) |
 | Rick Davis' World Trophy Soccer | 69726 | [69726-rick-davis-world-trophy-soccer.json](./69726-rick-davis-world-trophy-soccer.json) |
 | Rick Henderson | 113529 | [113529-rick-henderson.json](./113529-rick-henderson.json) |
+| Rick Rack | 117907 | [117907-rick-rack.json](./117907-rick-rack.json) |
 | Rick Ribbit in Ark Noodle's Math Challenge | 62688 | [62688-rick-ribbit-in-ark-noodles-math-challenge.json](./62688-rick-ribbit-in-ark-noodles-math-challenge.json) |
 | Rick Ribbit: Adventures in Early Learning | 62689 | [62689-rick-ribbit-adventures-in-early-learning.json](./62689-rick-ribbit-adventures-in-early-learning.json) |
 | Rick Shaw's Radical Rickshaw | 180685 | [180685-rick-shaws-radical-rickshaw.json](./180685-rick-shaws-radical-rickshaw.json) |
