@@ -3990,7 +3990,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4184,6 +4183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InfiniWordSlide | 161464 | [161464-infiniwordslide.json](./161464-infiniwordslide.json) |
 | Infinos Exa | 316072 | [316072-infinos-exa.json](./316072-infinos-exa.json) |
 | Infinos Gaiden | 81841 | [81841-infinos-gaiden.json](./81841-infinos-gaiden.json) |
+| Inflamous | 92563 | [92563-inflamous.json](./92563-inflamous.json) |
 | Inflatable doll | 155462 | [155462-inflatable-doll.json](./155462-inflatable-doll.json) |
 | Inflatables | 309033 | [309033-inflatables.json](./309033-inflatables.json) |
 | Inflatality | 36760 | [36760-inflatality.json](./36760-inflatality.json) |
@@ -4578,6 +4578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insane | 291583 | [291583-insane.json](./291583-insane.json) |
 | Insane | 33263 | [33263-insane.json](./33263-insane.json) |
 | Insane | 384816 | [384816-insane.json](./384816-insane.json) |
+| Insane | 92211 | [92211-insane.json](./92211-insane.json) |
 | Insane Aquarium Deluxe | 174746 | [174746-insane-aquarium-deluxe.json](./174746-insane-aquarium-deluxe.json) |
 | Insane Bundle with 21 Games | 376778 | [376778-insane-bundle-with-21-games.json](./376778-insane-bundle-with-21-games.json) |
 | Insane Cold: Back to the Ice Age | 76664 | [76664-insane-cold-back-to-the-ice-age.json](./76664-insane-cold-back-to-the-ice-age.json) |
