@@ -1957,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parachute 22 | 205098 | [205098-parachute-22.json](./205098-parachute-22.json) |
 | Parachute Drop | 191447 | [191447-parachute-drop.json](./191447-parachute-drop.json) |
 | Parachute Frog | 95900 | [95900-parachute-frog.json](./95900-parachute-frog.json) |
+| Parachute Joust | 109109 | [109109-parachute-joust.json](./109109-parachute-joust.json) |
 | Parachute Ninja | 232671 | [232671-parachute-ninja.json](./232671-parachute-ninja.json) |
 | Parachuter | 193011 | [193011-parachuter.json](./193011-parachuter.json) |
 | Paracom | 384535 | [384535-paracom.json](./384535-paracom.json) |
@@ -6081,6 +6082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picayune Dreams | 217435 | [217435-picayune-dreams.json](./217435-picayune-dreams.json) |
 | Picayune Dreams: Contamination | 332481 | [332481-picayune-dreams-contamination.json](./332481-picayune-dreams-contamination.json) |
 | Picbox | 93505 | [93505-picbox.json](./93505-picbox.json) |
+| Piccadilly and Her Magical World | 109128 | [109128-piccadilly-and-her-magical-world.json](./109128-piccadilly-and-her-magical-world.json) |
 | Piccadilly's Puzzle Museum | 126015 | [126015-piccadillys-puzzle-museum.json](./126015-piccadillys-puzzle-museum.json) |
 | Piccross Adventure House | 102819 | [102819-piccross-adventure-house.json](./102819-piccross-adventure-house.json) |
 | Picdun 2: Witch's Curse | 47646 | [47646-picdun-2-witchs-curse.json](./47646-picdun-2-witchs-curse.json) |
@@ -18642,6 +18644,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Checkers: The Rooks | 358030 | [358030-puzzle-checkers-the-rooks.json](./358030-puzzle-checkers-the-rooks.json) |
 | Puzzle Chronicles | 10732 | [10732-puzzle-chronicles.json](./10732-puzzle-chronicles.json) |
 | Puzzle City | 54275 | [54275-puzzle-city.json](./54275-puzzle-city.json) |
+| Puzzle Clash Heroes: Neolympia | 109155 | [109155-puzzle-clash-heroes-neolympia.json](./109155-puzzle-clash-heroes-neolympia.json) |
 | Puzzle Club | 218450 | [218450-puzzle-club.json](./218450-puzzle-club.json) |
 | Puzzle Collection | 201256 | [201256-puzzle-collection.json](./201256-puzzle-collection.json) |
 | Puzzle Collection with Pani Pani | 82559 | [82559-puzzle-collection-with-pani-pani.json](./82559-puzzle-collection-with-pani-pani.json) |
