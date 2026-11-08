@@ -2911,6 +2911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | onEscapee | 93044 | [93044-onescapee.json](./93044-onescapee.json) |
 | OneScreen Solar Sails | 37399 | [37399-onescreen-solar-sails.json](./37399-onescreen-solar-sails.json) |
 | OneScreen Wagons | 74475 | [74475-onescreen-wagons.json](./74475-onescreen-wagons.json) |
+| OneShift | 104868 | [104868-oneshift.json](./104868-oneshift.json) |
 | OneShot | 23181 | [23181-oneshot.json](./23181-oneshot.json) |
 | OneShot Challenge | 392416 | [392416-oneshot-challenge.json](./392416-oneshot-challenge.json) |
 | Oneshot Voca | 92400 | [92400-oneshot-voca.json](./92400-oneshot-voca.json) |
