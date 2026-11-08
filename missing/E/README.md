@@ -8053,6 +8053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expeditions: Rome - Death or Glory | 197490 | [197490-expeditions-rome-death-or-glory.json](./197490-expeditions-rome-death-or-glory.json) |
 | Expeditions: Samurai | 404904 | [404904-expeditions-samurai.json](./404904-expeditions-samurai.json) |
 | Expeditions: Viking | 10501 | [10501-expeditions-viking.json](./10501-expeditions-viking.json) |
+| Expeditions: Viking - Blood-Ice | 124899 | [124899-expeditions-viking-blood-ice.json](./124899-expeditions-viking-blood-ice.json) |
 | Expel | 156947 | [156947-expel.json](./156947-expel.json) |
 | Expel | 246827 | [246827-expel.json](./246827-expel.json) |
 | Expelled from Paradise: The Stellar Angel | 396301 | [396301-expelled-from-paradise-the-stellar-angel.json](./396301-expelled-from-paradise-the-stellar-angel.json) |
