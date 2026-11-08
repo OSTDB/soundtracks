@@ -9091,6 +9091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiver: Poltergeist | 139739 | [139739-shiver-poltergeist.json](./139739-shiver-poltergeist.json) |
 | Shiver: Poltergeist - Collector's Edition | 30895 | [30895-shiver-poltergeist-collectors-edition.json](./30895-shiver-poltergeist-collectors-edition.json) |
 | Shiver: The Lily's Requiem | 139740 | [139740-shiver-the-lilys-requiem.json](./139740-shiver-the-lilys-requiem.json) |
+| Shiver: The Lily's Requiem - Collector's Edition | 102413 | [102413-shiver-the-lilys-requiem-collectors-edition.json](./102413-shiver-the-lilys-requiem-collectors-edition.json) |
 | Shiver: Vanishing Hitchhiker | 76451 | [76451-shiver-vanishing-hitchhiker.json](./76451-shiver-vanishing-hitchhiker.json) |
 | Shiver: Vanishing Hitchhiker - Collector's Edition | 32791 | [32791-shiver-vanishing-hitchhiker-collectors-edition.json](./32791-shiver-vanishing-hitchhiker-collectors-edition.json) |
 | Shivering Hearts | 135786 | [135786-shivering-hearts.json](./135786-shivering-hearts.json) |
@@ -10899,6 +10900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silly Polly Beast | 157379 | [157379-silly-polly-beast.json](./157379-silly-polly-beast.json) |
 | Silly Potato: Home-Run Edition | 418417 | [418417-silly-potato-home-run-edition.json](./418417-silly-potato-home-run-edition.json) |
 | Silly Royale: Devil Amongst Us | 242233 | [242233-silly-royale-devil-amongst-us.json](./242233-silly-royale-devil-amongst-us.json) |
+| Silly Sailing | 102232 | [102232-silly-sailing.json](./102232-silly-sailing.json) |
 | Silly Sausage Buffet | 411842 | [411842-silly-sausage-buffet.json](./411842-silly-sausage-buffet.json) |
 | Silly Sausage in Meat Land | 74297 | [74297-silly-sausage-in-meat-land.json](./74297-silly-sausage-in-meat-land.json) |
 | Silly Sausage: Doggy Dessert | 56257 | [56257-silly-sausage-doggy-dessert.json](./56257-silly-sausage-doggy-dessert.json) |
@@ -12555,6 +12557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skillful Pixel Dungeon | 312607 | [312607-skillful-pixel-dungeon.json](./312607-skillful-pixel-dungeon.json) |
 | SkillGrid | 117881 | [117881-skillgrid.json](./117881-skillgrid.json) |
 | SkillGrid | 392785 | [392785-skillgrid.json](./392785-skillgrid.json) |
+| SkillQuest | 101861 | [101861-skillquest.json](./101861-skillquest.json) |
 | Skills and Slimes | 340367 | [340367-skills-and-slimes.json](./340367-skills-and-slimes.json) |
 | Skills Hockey VR | 29431 | [29431-skills-hockey-vr.json](./29431-skills-hockey-vr.json) |
 | Skillshot City | 28014 | [28014-skillshot-city.json](./28014-skillshot-city.json) |
@@ -12593,6 +12596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skinwoods: The Full Cut | 390737 | [390737-skinwoods-the-full-cut.json](./390737-skinwoods-the-full-cut.json) |
 | Skip | 241271 | [241271-skip.json](./241271-skip.json) |
 | Skip Ahead | 307607 | [307607-skip-ahead.json](./307607-skip-ahead.json) |
+| Skip Around the World - India | 101850 | [101850-skip-around-the-world-india.json](./101850-skip-around-the-world-india.json) |
 | Skip Around The World: Finland | 310947 | [310947-skip-around-the-world-finland.json](./310947-skip-around-the-world-finland.json) |
 | Skip Beat! | 77070 | [77070-skip-beat.json](./77070-skip-beat.json) |
 | Skip Lake | 164045 | [164045-skip-lake.json](./164045-skip-lake.json) |
@@ -14115,6 +14119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sling Jumper 2 | 407777 | [407777-sling-jumper-2.json](./407777-sling-jumper-2.json) |
 | Sling Junior | 261800 | [261800-sling-junior.json](./261800-sling-junior.json) |
 | Sling Kings: Supercharged Chess | 236020 | [236020-sling-kings-supercharged-chess.json](./236020-sling-kings-supercharged-chess.json) |
+| Sling Kong | 102233 | [102233-sling-kong.json](./102233-sling-kong.json) |
 | Sling Ming | 74400 | [74400-sling-ming.json](./74400-sling-ming.json) |
 | Sling Puzzle: Golf Master | 277731 | [277731-sling-puzzle-golf-master.json](./277731-sling-puzzle-golf-master.json) |
 | Sling Stars | 237732 | [237732-sling-stars.json](./237732-sling-stars.json) |
