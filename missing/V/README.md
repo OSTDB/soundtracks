@@ -1647,6 +1647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Versus: Unfriendly Frenzy | 198008 | [198008-versus-unfriendly-frenzy.json](./198008-versus-unfriendly-frenzy.json) |
 | Versus. | 201700 | [201700-versus.json](./201700-versus.json) |
 | VertalStrike | 400892 | [400892-vertalstrike.json](./400892-vertalstrike.json) |
+| Vertebreaker | 128764 | [128764-vertebreaker.json](./128764-vertebreaker.json) |
 | Vertex | 142255 | [142255-vertex.json](./142255-vertex.json) |
 | Vertex | 314185 | [314185-vertex.json](./314185-vertex.json) |
 | Vertex | 384677 | [384677-vertex.json](./384677-vertex.json) |
