@@ -9934,6 +9934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shu's Misfortune | 157396 | [157396-shus-misfortune.json](./157396-shus-misfortune.json) |
 | Shubada! | 120228 | [120228-shubada.json](./120228-shubada.json) |
 | Shubibinman Zero | 94064 | [94064-shubibinman-zero.json](./94064-shubibinman-zero.json) |
+| Shudder | 107997 | [107997-shudder.json](./107997-shudder.json) |
 | Shudu | 247017 | [247017-shudu.json](./247017-shudu.json) |
 | Shuffle 'n Slide | 96595 | [96595-shuffle-n-slide.json](./96595-shuffle-n-slide.json) |
 | Shuffle and K.O. | 249654 | [249654-shuffle-and-k-o.json](./249654-shuffle-and-k-o.json) |
@@ -13493,6 +13494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slay the Berserker | 384494 | [384494-slay-the-berserker.json](./384494-slay-the-berserker.json) |
 | Slay the Bigies | 127681 | [127681-slay-the-bigies.json](./127681-slay-the-bigies.json) |
 | Slay the Demon Queen | 340364 | [340364-slay-the-demon-queen.json](./340364-slay-the-demon-queen.json) |
+| Slay the Dragon | 107999 | [107999-slay-the-dragon.json](./107999-slay-the-dragon.json) |
 | Slay the Dragon! | 143210 | [143210-slay-the-dragon.json](./143210-slay-the-dragon.json) |
 | Slay the Horde | 398900 | [398900-slay-the-horde.json](./398900-slay-the-horde.json) |
 | Slay the King | 374164 | [374164-slay-the-king.json](./374164-slay-the-king.json) |
@@ -20779,6 +20781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceAttack | 68428 | [68428-spaceattack.json](./68428-spaceattack.json) |
 | Spaceball | 112177 | [112177-spaceball.json](./112177-spaceball.json) |
 | Spaceball | 145763 | [145763-spaceball.json](./145763-spaceball.json) |
+| SpaceBall in Cube | 108010 | [108010-spaceball-in-cube.json](./108010-spaceball-in-cube.json) |
 | Spaceball Revolution | 21059 | [21059-spaceball-revolution.json](./21059-spaceball-revolution.json) |
 | Spaceballs: The Sequel: The Search For More DBP Maps | 257161 | [257161-spaceballs-the-sequel-the-search-for-more-dbp-maps.json](./257161-spaceballs-the-sequel-the-search-for-more-dbp-maps.json) |
 | Spacebar | 177733 | [177733-spacebar.json](./177733-spacebar.json) |
@@ -26439,6 +26442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stay Mayor | 60756 | [60756-stay-mayor.json](./60756-stay-mayor.json) |
 | Stay on Board | 184556 | [184556-stay-on-board.json](./184556-stay-on-board.json) |
 | Stay on Line: Line Runner | 240926 | [240926-stay-on-line-line-runner.json](./240926-stay-on-line-line-runner.json) |
+| Stay or Leave | 107994 | [107994-stay-or-leave.json](./107994-stay-or-leave.json) |
 | Stay Out | 63813 | [63813-stay-out.json](./63813-stay-out.json) |
 | Stay Out of the Farm | 223220 | [223220-stay-out-of-the-farm.json](./223220-stay-out-of-the-farm.json) |
 | Stay Out of the House | 109668 | [109668-stay-out-of-the-house.json](./109668-stay-out-of-the-house.json) |
