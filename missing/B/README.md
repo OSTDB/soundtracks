@@ -5915,6 +5915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee | 78084 | [78084-bee.json](./78084-bee.json) |
 | Bee & Flower | 41691 | [41691-bee-and-flower.json](./41691-bee-and-flower.json) |
 | Bee 52 | 48106 | [48106-bee-52.json](./48106-bee-52.json) |
+| Bee Aware! | 107359 | [107359-bee-aware.json](./107359-bee-aware.json) |
 | Bee Careful! | 357674 | [357674-bee-careful.json](./357674-bee-careful.json) |
 | Bee Craft | 215474 | [215474-bee-craft.json](./215474-bee-craft.json) |
 | Bee Eliminator | 247066 | [247066-bee-eliminator.json](./247066-bee-eliminator.json) |
@@ -6529,7 +6530,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10: Vengeance of Vilgax | 206736 | [206736-ben-10-vengeance-of-vilgax.json](./206736-ben-10-vengeance-of-vilgax.json) |
 | Ben 10/Generator Rex: Heroes United | 176854 | [176854-ben-10-generator-rex-heroes-united.json](./176854-ben-10-generator-rex-heroes-united.json) |
 | Ben and Ed | 20176 | [20176-ben-and-ed.json](./20176-ben-and-ed.json) |
-| Ben and Ed: Blood Party | 32115 | [32115-ben-and-ed-blood-party.json](./32115-ben-and-ed-blood-party.json) |
 | Ben and Holly: Big Star Fun | 109009 | [109009-ben-and-holly-big-star-fun.json](./109009-ben-and-holly-big-star-fun.json) |
 | Ben Bero Beh | 40265 | [40265-ben-bero-beh.json](./40265-ben-bero-beh.json) |
 | Ben Bildim | 360447 | [360447-ben-bildim.json](./360447-ben-bildim.json) |
