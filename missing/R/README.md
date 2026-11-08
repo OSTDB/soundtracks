@@ -927,6 +927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raging Justice | 85769 | [85769-raging-justice.json](./85769-raging-justice.json) |
 | Raging Loop | 26700 | [26700-raging-loop.json](./26700-raging-loop.json) |
 | Raging Skies | 403149 | [403149-raging-skies.json](./403149-raging-skies.json) |
+| Raging Thunder | 98141 | [98141-raging-thunder.json](./98141-raging-thunder.json) |
 | Raging Thunder II | 66448 | [66448-raging-thunder-ii.json](./66448-raging-thunder-ii.json) |
 | RagingFist | 181012 | [181012-ragingfist.json](./181012-ragingfist.json) |
 | Ragmonton | 238601 | [238601-ragmonton.json](./238601-ragmonton.json) |
