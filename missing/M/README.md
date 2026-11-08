@@ -6045,6 +6045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6695,6 +6696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mec Me Loffa | 306312 | [306312-mec-me-loffa.json](./306312-mec-me-loffa.json) |
 | Mecanic | 213792 | [213792-mecanic.json](./213792-mecanic.json) |
 | Mecarobot Golf | 42498 | [42498-mecarobot-golf.json](./42498-mecarobot-golf.json) |
+| Meccha Zombies | 116581 | [116581-meccha-zombies.json](./116581-meccha-zombies.json) |
 | Meccha! Taiko no Tatsujin DS: 7-tsu no Shima no Daibouken | 72548 | [72548-meccha-taiko-no-tatsujin-ds-7-tsu-no-shima-no-daibouken.json](./72548-meccha-taiko-no-tatsujin-ds-7-tsu-no-shima-no-daibouken.json) |
 | Mech | 110274 | [110274-mech.json](./110274-mech.json) |
 | Mech 4X | 395899 | [395899-mech-4x.json](./395899-mech-4x.json) |
@@ -21833,6 +21835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Word Coach | 5034 | [5034-my-word-coach.json](./5034-my-word-coach.json) |
 | My World Still Burns | 184313 | [184313-my-world-still-burns.json](./184313-my-world-still-burns.json) |
 | My World, My Way | 21253 | [21253-my-world-my-way.json](./21253-my-world-my-way.json) |
+| My Worst Gift | 116570 | [116570-my-worst-gift.json](./116570-my-worst-gift.json) |
 | My Xiuxian World | 341161 | [341161-my-xiuxian-world.json](./341161-my-xiuxian-world.json) |
 | My Young Boyfriend Part 1 | 298881 | [298881-my-young-boyfriend-part-1.json](./298881-my-young-boyfriend-part-1.json) |
 | My Young Boyfriend Part 2 | 303273 | [303273-my-young-boyfriend-part-2.json](./303273-my-young-boyfriend-part-2.json) |
