@@ -925,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Callahan's Crosstime Saloon | 12410 | [12410-callahans-crosstime-saloon.json](./12410-callahans-crosstime-saloon.json) |
 | CallBack | 113575 | [113575-callback.json](./113575-callback.json) |
 | Callbreak League | 237635 | [237635-callbreak-league.json](./237635-callbreak-league.json) |
+| CallBreak: Fun Card Game | 99201 | [99201-callbreak-fun-card-game.json](./99201-callbreak-fun-card-game.json) |
 | Caller of the Crows | 348857 | [348857-caller-of-the-crows.json](./348857-caller-of-the-crows.json) |
 | Caller's Bane | 2600 | [2600-callers-bane.json](./2600-callers-bane.json) |
 | Calling | 403030 | [403030-calling.json](./403030-calling.json) |
