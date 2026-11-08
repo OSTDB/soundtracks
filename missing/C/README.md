@@ -1544,6 +1544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Rats | 239470 | [239470-cannon-rats.json](./239470-cannon-rats.json) |
 | Cannon Royale | 223503 | [223503-cannon-royale.json](./223503-cannon-royale.json) |
 | Cannon Shoot Plane | 219735 | [219735-cannon-shoot-plane.json](./219735-cannon-shoot-plane.json) |
+| Cannon Sight | 92022 | [92022-cannon-sight.json](./92022-cannon-sight.json) |
 | Cannon Spike | 6719 | [6719-cannon-spike.json](./6719-cannon-spike.json) |
 | Cannon Strike | 94171 | [94171-cannon-strike.json](./94171-cannon-strike.json) |
 | Cannon Super Mario Bros. Wii | 387504 | [387504-cannon-super-mario-bros-wii.json](./387504-cannon-super-mario-bros-wii.json) |
@@ -7170,6 +7171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chesstro | 403547 | [403547-chesstro.json](./403547-chesstro.json) |
 | ChessVR | 207362 | [207362-chessvr.json](./207362-chessvr.json) |
 | ChessWorlds | 409781 | [409781-chessworlds.json](./409781-chessworlds.json) |
+| Chessy | 92006 | [92006-chessy.json](./92006-chessy.json) |
 | Chest | 301274 | [301274-chest.json](./301274-chest.json) |
 | Chest & Blade | 420009 | [420009-chest-and-blade.json](./420009-chest-and-blade.json) |
 | Chest Looter: Cardimonsta Collection | 422807 | [422807-chest-looter-cardimonsta-collection.json](./422807-chest-looter-cardimonsta-collection.json) |
@@ -8142,6 +8144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chopper Battle New Horizon | 75767 | [75767-chopper-battle-new-horizon.json](./75767-chopper-battle-new-horizon.json) |
 | Chopper Command | 18408 | [18408-chopper-command.json](./18408-chopper-command.json) |
 | Chopper Commando | 78716 | [78716-chopper-commando.json](./78716-chopper-commando.json) |
+| Chopper Down | 92007 | [92007-chopper-down.json](./92007-chopper-down.json) |
 | Chopper Hunt | 25671 | [25671-chopper-hunt.json](./25671-chopper-hunt.json) |
 | Chopper I | 21732 | [21732-chopper-i.json](./21732-chopper-i.json) |
 | Chopper Mike | 62082 | [62082-chopper-mike.json](./62082-chopper-mike.json) |
@@ -11032,6 +11035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clout Up | 106067 | [106067-clout-up.json](./106067-clout-up.json) |
 | Clouzy! | 136984 | [136984-clouzy.json](./136984-clouzy.json) |
 | Cloven Crania Meadow | 52503 | [52503-cloven-crania-meadow.json](./52503-cloven-crania-meadow.json) |
+| Clover | 92025 | [92025-clover.json](./92025-clover.json) |
 | Clover Cove | 385119 | [385119-clover-cove.json](./385119-clover-cove.json) |
 | Clover Cuby | 267340 | [267340-clover-cuby.json](./267340-clover-cuby.json) |
 | Clover Day's Plus | 254554 | [254554-clover-days-plus.json](./254554-clover-days-plus.json) |
@@ -15272,6 +15276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corrida Nebososa | 311339 | [311339-corrida-nebososa.json](./311339-corrida-nebososa.json) |
 | Corrida Nebososa 2 | 311340 | [311340-corrida-nebososa-2.json](./311340-corrida-nebososa-2.json) |
 | Corridor | 282000 | [282000-corridor.json](./282000-corridor.json) |
+| Corridor | 92000 | [92000-corridor.json](./92000-corridor.json) |
 | Corridor 13 | 401743 | [401743-corridor-13.json](./401743-corridor-13.json) |
 | Corridor 7: Alien Invasion | 8689 | [8689-corridor-7-alien-invasion.json](./8689-corridor-7-alien-invasion.json) |
 | Corridor 8: Galactic Wars | 218648 | [218648-corridor-8-galactic-wars.json](./218648-corridor-8-galactic-wars.json) |
@@ -18115,6 +18120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Shift | 344467 | [344467-critical-shift.json](./344467-critical-shift.json) |
 | Critical Slash | 197798 | [197798-critical-slash.json](./197798-critical-slash.json) |
 | Critical Strike | 345571 | [345571-critical-strike.json](./345571-critical-strike.json) |
+| Critical Strike | 92010 | [92010-critical-strike.json](./92010-critical-strike.json) |
 | Critical Strike Modern: SWAT Shooter Ops | 370566 | [370566-critical-strike-modern-swat-shooter-ops.json](./370566-critical-strike-modern-swat-shooter-ops.json) |
 | Critical Strike Shooter: SWAT Rescue Missions | 304275 | [304275-critical-strike-shooter-swat-rescue-missions.json](./304275-critical-strike-shooter-swat-rescue-missions.json) |
 | Critical Strike: Dead or Survival | 108218 | [108218-critical-strike-dead-or-survival.json](./108218-critical-strike-dead-or-survival.json) |
@@ -20244,6 +20250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curling 2010 | 230688 | [230688-curling-2010.json](./230688-curling-2010.json) |
 | Curling 2010 | 66570 | [66570-curling-2010.json](./66570-curling-2010.json) |
 | Curling 2012 | 52334 | [52334-curling-2012.json](./52334-curling-2012.json) |
+| Curling DS | 92026 | [92026-curling-ds.json](./92026-curling-ds.json) |
 | Curling in the Dungeon | 292365 | [292365-curling-in-the-dungeon.json](./292365-curling-in-the-dungeon.json) |
 | Curling on Line | 166769 | [166769-curling-on-line.json](./166769-curling-on-line.json) |
 | Curling Super Championship | 63566 | [63566-curling-super-championship.json](./63566-curling-super-championship.json) |
