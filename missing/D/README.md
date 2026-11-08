@@ -2795,6 +2795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Davey | 195580 | [195580-davey.json](./195580-davey.json) |
 | Davey Jones TD | 62810 | [62810-davey-jones-td.json](./62810-davey-jones-td.json) |
 | Davey's Mystery | 411645 | [411645-daveys-mystery.json](./411645-daveys-mystery.json) |
+| Davey's Mystery 2 | 100381 | [100381-daveys-mystery-2.json](./100381-daveys-mystery-2.json) |
 | David & Keithan: The Haunted Lighthouse | 310579 | [310579-david-and-keithan-the-haunted-lighthouse.json](./310579-david-and-keithan-the-haunted-lighthouse.json) |
 | David Beckham Soccer | 6369 | [6369-david-beckham-soccer.json](./6369-david-beckham-soccer.json) |
 | David Bellamy's Endangered Wildlife | 64286 | [64286-david-bellamys-endangered-wildlife.json](./64286-david-bellamys-endangered-wildlife.json) |
@@ -6815,6 +6816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demonic Tales Bundle | 233016 | [233016-demonic-tales-bundle.json](./233016-demonic-tales-bundle.json) |
 | DemonicGuestVR | 30747 | [30747-demonicguestvr.json](./30747-demonicguestvr.json) |
 | Demonicute | 155672 | [155672-demonicute.json](./155672-demonicute.json) |
+| Demonik | 100235 | [100235-demonik.json](./100235-demonik.json) |
 | Demonizer | 139678 | [139678-demonizer.json](./139678-demonizer.json) |
 | Demonk | 347239 | [347239-demonk.json](./347239-demonk.json) |
 | DeMonkey | 302122 | [302122-demonkey.json](./302122-demonkey.json) |
@@ -7013,6 +7015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dentist Bling: Fantasy Edition | 304782 | [304782-dentist-bling-fantasy-edition.json](./304782-dentist-bling-fantasy-edition.json) |
 | Dentist Bling: Mad Scientist | 290443 | [290443-dentist-bling-mad-scientist.json](./290443-dentist-bling-mad-scientist.json) |
 | Dentist Bling: Tooth Fairy | 290444 | [290444-dentist-bling-tooth-fairy.json](./290444-dentist-bling-tooth-fairy.json) |
+| Dentist doctor simulator games | 99880 | [99880-dentist-doctor-simulator-games.json](./99880-dentist-doctor-simulator-games.json) |
 | Dentist For Kids | 100224 | [100224-dentist-for-kids.json](./100224-dentist-for-kids.json) |
 | Dentist Hour: Escape Room | 357797 | [357797-dentist-hour-escape-room.json](./357797-dentist-hour-escape-room.json) |
 | Dentist kids Hospital Simulation Teeth Surgery | 101950 | [101950-dentist-kids-hospital-simulation-teeth-surgery.json](./101950-dentist-kids-hospital-simulation-teeth-surgery.json) |
@@ -15739,6 +15742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Lair | 272319 | [272319-dragons-lair.json](./272319-dragons-lair.json) |
 | Dragon's Lair | 272320 | [272320-dragons-lair.json](./272320-dragons-lair.json) |
 | Dragon's Lair | 283008 | [283008-dragons-lair.json](./283008-dragons-lair.json) |
+| Dragon's Lair 2: Time Warp HD | 100233 | [100233-dragons-lair-2-time-warp-hd.json](./100233-dragons-lair-2-time-warp-hd.json) |
 | Dragon's Lair HD | 100618 | [100618-dragons-lair-hd.json](./100618-dragons-lair-hd.json) |
 | Dragon's Lair II: Time Warp | 323845 | [323845-dragons-lair-ii-time-warp.json](./323845-dragons-lair-ii-time-warp.json) |
 | Dragon's Lair Part II: Escape from Singe's Castle | 418248 | [418248-dragons-lair-part-ii-escape-from-singes-castle.json](./418248-dragons-lair-part-ii-escape-from-singes-castle.json) |
@@ -16948,6 +16952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drift Racer | 157399 | [157399-drift-racer.json](./157399-drift-racer.json) |
 | Drift racing car | 219759 | [219759-drift-racing-car.json](./219759-drift-racing-car.json) |
 | Drift Racing Madness | 147747 | [147747-drift-racing-madness.json](./147747-drift-racing-madness.json) |
+| Drift Racing Mania: Drift Game | 100378 | [100378-drift-racing-mania-drift-game.json](./100378-drift-racing-mania-drift-game.json) |
 | Drift Racing Rally | 149471 | [149471-drift-racing-rally.json](./149471-drift-racing-rally.json) |
 | Drift Reign | 245834 | [245834-drift-reign.json](./245834-drift-reign.json) |
 | Drift Ride | 196557 | [196557-drift-ride.json](./196557-drift-ride.json) |
@@ -17135,6 +17140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drive Megapolis | 31659 | [31659-drive-megapolis.json](./31659-drive-megapolis.json) |
 | Drive of the Dead | 414854 | [414854-drive-of-the-dead.json](./414854-drive-of-the-dead.json) |
 | Drive On Lucy | 323299 | [323299-drive-on-lucy.json](./323299-drive-on-lucy.json) |
+| Drive on Moscow: Crisis in Command Vol. 2 | 99877 | [99877-drive-on-moscow-crisis-in-command-vol-2.json](./99877-drive-on-moscow-crisis-in-command-vol-2.json) |
 | Drive on Moscow: War in the Snow | 58104 | [58104-drive-on-moscow-war-in-the-snow.json](./58104-drive-on-moscow-war-in-the-snow.json) |
 | Drive or Die | 156706 | [156706-drive-or-die.json](./156706-drive-or-die.json) |
 | Drive Out | 311525 | [311525-drive-out.json](./311525-drive-out.json) |
