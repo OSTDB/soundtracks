@@ -2604,6 +2604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Heli 3 | 240862 | [240862-rc-heli-3.json](./240862-rc-heli-3.json) |
 | RC Helicopter Indoor Adventure | 78279 | [78279-rc-helicopter-indoor-adventure.json](./78279-rc-helicopter-indoor-adventure.json) |
 | RC Match 3 | 240648 | [240648-rc-match-3.json](./240648-rc-match-3.json) |
+| RC Mini Racers | 88405 | [88405-rc-mini-racers.json](./88405-rc-mini-racers.json) |
 | RC Overdrive | 393799 | [393799-rc-overdrive.json](./393799-rc-overdrive.json) |
 | RC Plane | 249652 | [249652-rc-plane.json](./249652-rc-plane.json) |
 | Rc Plane 2 | 260654 | [260654-rc-plane-2.json](./260654-rc-plane-2.json) |
@@ -8731,6 +8732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Trip Europe | 229944 | [229944-road-trip-europe.json](./229944-road-trip-europe.json) |
 | Road Trip Games App (Classics) | 102741 | [102741-road-trip-games-app-classics.json](./102741-road-trip-games-app-classics.json) |
 | Road Trip to the End of the World | 350446 | [350446-road-trip-to-the-end-of-the-world.json](./350446-road-trip-to-the-end-of-the-world.json) |
+| Road Trip USA | 88342 | [88342-road-trip-usa.json](./88342-road-trip-usa.json) |
 | Road Trip USA 3: Central | 338050 | [338050-road-trip-usa-3-central.json](./338050-road-trip-usa-3-central.json) |
 | Road Trip: Arcade Edition | 78292 | [78292-road-trip-arcade-edition.json](./78292-road-trip-arcade-edition.json) |
 | Road Trip: Family Fun | 105704 | [105704-road-trip-family-fun.json](./105704-road-trip-family-fun.json) |
