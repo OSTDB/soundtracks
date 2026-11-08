@@ -12637,6 +12637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skull-Rung | 355334 | [355334-skull-rung.json](./355334-skull-rung.json) |
 | Skull-Scraper | 191410 | [191410-skull-scraper.json](./191410-skull-scraper.json) |
 | Skull's Impossible Quest | 143376 | [143376-skulls-impossible-quest.json](./143376-skulls-impossible-quest.json) |
+| Skull's Solitude | 128093 | [128093-skulls-solitude.json](./128093-skulls-solitude.json) |
 | Skull8 | 362873 | [362873-skull8.json](./362873-skull8.json) |
 | SkullBall | 412892 | [412892-skullball.json](./412892-skullball.json) |
 | Skullborn | 192615 | [192615-skullborn.json](./192615-skullborn.json) |
@@ -26498,6 +26499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steaming Penguins | 200046 | [200046-steaming-penguins.json](./200046-steaming-penguins.json) |
 | Steamlands | 216317 | [216317-steamlands.json](./216317-steamlands.json) |
 | Steamle | 353897 | [353897-steamle.json](./353897-steamle.json) |
+| Steamliner | 128086 | [128086-steamliner.json](./128086-steamliner.json) |
 | SteamMaze | 326284 | [326284-steammaze.json](./326284-steammaze.json) |
 | SteamPowered | 350009 | [350009-steampowered.json](./350009-steampowered.json) |
 | Steampuff: Phinnegan's Factory | 32334 | [32334-steampuff-phinnegans-factory.json](./32334-steampuff-phinnegans-factory.json) |
@@ -28361,6 +28363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strayed: Sweet Tooth Revolver Skin | 382422 | [382422-strayed-sweet-tooth-revolver-skin.json](./382422-strayed-sweet-tooth-revolver-skin.json) |
 | Strayed: Toon Revolver | 382419 | [382419-strayed-toon-revolver.json](./382419-strayed-toon-revolver.json) |
 | Straying Rules | 403922 | [403922-straying-rules.json](./403922-straying-rules.json) |
+| Straylight | 128105 | [128105-straylight.json](./128105-straylight.json) |
 | Strays of Rage | 341679 | [341679-strays-of-rage.json](./341679-strays-of-rage.json) |
 | Strays POV Tales | 403727 | [403727-strays-pov-tales.json](./403727-strays-pov-tales.json) |
 | StrayShot | 277808 | [277808-strayshot.json](./277808-strayshot.json) |
@@ -28887,6 +28890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stretch Guy | 315844 | [315844-stretch-guy.json](./315844-stretch-guy.json) |
 | Stretch Panic | 28502 | [28502-stretch-panic.json](./28502-stretch-panic.json) |
 | Stretch Text: Find Proverb | 266834 | [266834-stretch-text-find-proverb.json](./266834-stretch-text-find-proverb.json) |
+| StretchBot | 128098 | [128098-stretchbot.json](./128098-stretchbot.json) |
 | Stretcher Men | 291291 | [291291-stretcher-men.json](./291291-stretcher-men.json) |
 | StretchingVr | 99014 | [99014-stretchingvr.json](./99014-stretchingvr.json) |
 | Stretchmancer | 282093 | [282093-stretchmancer.json](./282093-stretchmancer.json) |
