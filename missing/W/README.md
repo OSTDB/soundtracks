@@ -1390,6 +1390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wargods Online 2 | 134318 | [134318-wargods-online-2.json](./134318-wargods-online-2.json) |
 | Wargroove + Wargroove 2 Bundle | 273304 | [273304-wargroove-wargroove-2-bundle.json](./273304-wargroove-wargroove-2-bundle.json) |
 | Wargroove 2 | 241149 | [241149-wargroove-2.json](./241149-wargroove-2.json) |
+| Wargroove: Deluxe Edition | 136007 | [136007-wargroove-deluxe-edition.json](./136007-wargroove-deluxe-edition.json) |
 | Wargroove: Double Trouble | 128191 | [128191-wargroove-double-trouble.json](./128191-wargroove-double-trouble.json) |
 | Wargroove: Double Trouble Bundle | 221778 | [221778-wargroove-double-trouble-bundle.json](./221778-wargroove-double-trouble-bundle.json) |
 | WarGround | 114441 | [114441-warground.json](./114441-warground.json) |
@@ -2364,6 +2365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watch Dogs: Legion - Collector's Edition | 119354 | [119354-watch-dogs-legion-collectors-edition.json](./119354-watch-dogs-legion-collectors-edition.json) |
 | Watch Dogs: Legion - Gold Edition | 119575 | [119575-watch-dogs-legion-gold-edition.json](./119575-watch-dogs-legion-gold-edition.json) |
 | Watch Dogs: Legion - Golden King Pack | 334114 | [334114-watch-dogs-legion-golden-king-pack.json](./334114-watch-dogs-legion-golden-king-pack.json) |
+| Watch Dogs: Legion - Limited Edition | 135982 | [135982-watch-dogs-legion-limited-edition.json](./135982-watch-dogs-legion-limited-edition.json) |
 | Watch Dogs: Legion - Limited Edition Pack | 334550 | [334550-watch-dogs-legion-limited-edition-pack.json](./334550-watch-dogs-legion-limited-edition-pack.json) |
 | Watch Dogs: Legion - Resistance Edition | 142847 | [142847-watch-dogs-legion-resistance-edition.json](./142847-watch-dogs-legion-resistance-edition.json) |
 | Watch Dogs: Legion - Season Pass | 142845 | [142845-watch-dogs-legion-season-pass.json](./142845-watch-dogs-legion-season-pass.json) |
@@ -7098,6 +7100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wolfenstein: Cyberpilot | 103302 | [103302-wolfenstein-cyberpilot.json](./103302-wolfenstein-cyberpilot.json) |
 | Wolfenstein: Enemy Territory | 2987 | [2987-wolfenstein-enemy-territory.json](./2987-wolfenstein-enemy-territory.json) |
 | Wolfenstein: Enemy Territory Single-Player | 375756 | [375756-wolfenstein-enemy-territory-single-player.json](./375756-wolfenstein-enemy-territory-single-player.json) |
+| Wolfenstein: The New Order and The Old Blood Double Pack | 136008 | [136008-wolfenstein-the-new-order-and-the-old-blood-double-pack.json](./136008-wolfenstein-the-new-order-and-the-old-blood-double-pack.json) |
 | Wolfenstein: The Two-Pack | 136205 | [136205-wolfenstein-the-two-pack.json](./136205-wolfenstein-the-two-pack.json) |
 | Wolfenstein: Triple Pack | 152339 | [152339-wolfenstein-triple-pack.json](./152339-wolfenstein-triple-pack.json) |
 | Wolfenstein: Youngblood - Deluxe Edition | 72945 | [72945-wolfenstein-youngblood-deluxe-edition.json](./72945-wolfenstein-youngblood-deluxe-edition.json) |
