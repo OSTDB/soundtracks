@@ -9533,6 +9533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockaroids Remix | 37703 | [37703-rockaroids-remix.json](./37703-rockaroids-remix.json) |
 | RockBeasts | 333047 | [333047-rockbeasts.json](./333047-rockbeasts.json) |
 | Rockbot | 39199 | [39199-rockbot.json](./39199-rockbot.json) |
+| RockBuster | 104851 | [104851-rockbuster.json](./104851-rockbuster.json) |
 | Rockefeller: The Black Gold | 10781 | [10781-rockefeller-the-black-gold.json](./10781-rockefeller-the-black-gold.json) |
 | RockerBox Tycoon | 101863 | [101863-rockerbox-tycoon.json](./101863-rockerbox-tycoon.json) |
 | Rocket Adventure | 111448 | [111448-rocket-adventure.json](./111448-rocket-adventure.json) |
