@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1 Hit Kill | 105211 | [105211-1-hit-kill.json](./105211-1-hit-kill.json) |
 | 1 Hop | 171045 | [171045-1-hop.json](./171045-1-hop.json) |
 | 1 Hungry Peasant | 252117 | [252117-1-hungry-peasant.json](./252117-1-hungry-peasant.json) |
+| 1 Line Space Trader | 83129 | [83129-1-line-space-trader.json](./83129-1-line-space-trader.json) |
 | 1 Line: One Stroke Connect Puzzle | 102848 | [102848-1-line-one-stroke-connect-puzzle.json](./102848-1-line-one-stroke-connect-puzzle.json) |
 | 1 Meter | 327613 | [327613-1-meter.json](./327613-1-meter.json) |
 | 1 Million Zombies | 257749 | [257749-1-million-zombies.json](./257749-1-million-zombies.json) |
@@ -1247,6 +1248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 15 Minutes Dungeon | 255026 | [255026-15-minutes-dungeon.json](./255026-15-minutes-dungeon.json) |
 | 15 Minutes to the End of the World | 352101 | [352101-15-minutes-to-the-end-of-the-world.json](./352101-15-minutes-to-the-end-of-the-world.json) |
 | 15 Move Hole Puzzle | 94162 | [94162-15-move-hole-puzzle.json](./94162-15-move-hole-puzzle.json) |
+| 15 OS | 83117 | [83117-15-os.json](./83117-15-os.json) |
 | 15 Puzzle | 213712 | [213712-15-puzzle.json](./213712-15-puzzle.json) |
 | 15 Puzzle | 245120 | [245120-15-puzzle.json](./245120-15-puzzle.json) |
 | 15 Puzzle | 268864 | [268864-15-puzzle.json](./268864-15-puzzle.json) |
@@ -1259,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 15-in-1 Mega Bundle | 396436 | [396436-15-in-1-mega-bundle.json](./396436-15-in-1-mega-bundle.json) |
 | 15-in-1 Mega Collection: Backtracking Ten Years | 37643 | [37643-15-in-1-mega-collection-backtracking-ten-years.json](./37643-15-in-1-mega-collection-backtracking-ten-years.json) |
 | 15,000 Sudoku Puzzles | 268914 | [268914-15-000-sudoku-puzzles.json](./268914-15-000-sudoku-puzzles.json) |
+| 15's | 83111 | [83111-15s.json](./83111-15s.json) |
 | 150 Floors | 228439 | [228439-150-floors.json](./228439-150-floors.json) |
 | 150,000 B.C. | 102404 | [102404-150-000-b-c.json](./102404-150-000-b-c.json) |
 | 1500 DS Spirits Vol. 1: Mahjong | 77021 | [77021-1500-ds-spirits-vol-1-mahjong.json](./77021-1500-ds-spirits-vol-1-mahjong.json) |
@@ -1293,6 +1296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 16 Ways to Kill a Vampire at McDonalds | 57524 | [57524-16-ways-to-kill-a-vampire-at-mcdonalds.json](./57524-16-ways-to-kill-a-vampire-at-mcdonalds.json) |
 | 16-Bit Soccer | 147002 | [147002-16-bit-soccer.json](./147002-16-bit-soccer.json) |
 | 16-Bit Xmas 2011 | 134472 | [134472-16-bit-xmas-2011.json](./134472-16-bit-xmas-2011.json) |
+| 16-OS Puzzle | 83112 | [83112-16-os-puzzle.json](./83112-16-os-puzzle.json) |
 | 16: The Ultimate 15 Puzzle | 357974 | [357974-16-the-ultimate-15-puzzle.json](./357974-16-the-ultimate-15-puzzle.json) |
 | 1630: The Thirty Years' War | 244700 | [244700-1630-the-thirty-years-war.json](./244700-1630-the-thirty-years-war.json) |
 | 164: The Relentless Climb | 379073 | [379073-164-the-relentless-climb.json](./379073-164-the-relentless-climb.json) |
@@ -1413,6 +1417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1953: KGB Unleashed | 9771 | [9771-1953-kgb-unleashed.json](./9771-1953-kgb-unleashed.json) |
 | 1953: NATO vs Warsaw Pact | 17886 | [17886-1953-nato-vs-warsaw-pact.json](./17886-1953-nato-vs-warsaw-pact.json) |
 | 1958: Dancing with Fear | 216434 | [216434-1958-dancing-with-fear.json](./216434-1958-dancing-with-fear.json) |
+| 1960s Locospotter | 83109 | [83109-1960s-locospotter.json](./83109-1960s-locospotter.json) |
 | 1968 | 141731 | [141731-1968.json](./141731-1968.json) |
 | 1971 Project Helios | 124919 | [124919-1971-project-helios.json](./124919-1971-project-helios.json) |
 | 1971 Project Helios: Collector's Edition | 136006 | [136006-1971-project-helios-collectors-edition.json](./136006-1971-project-helios-collectors-edition.json) |
@@ -1423,6 +1428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1982 | 43126 | [43126-1982.json](./43126-1982.json) |
 | 1983, 18th Floor | 406096 | [406096-1983-18th-floor.json](./406096-1983-18th-floor.json) |
 | 1984 | 247611 | [247611-1984.json](./247611-1984.json) |
+| 1984 Locospotter | 83110 | [83110-1984-locospotter.json](./83110-1984-locospotter.json) |
 | 1984 Rewired | 123940 | [123940-1984-rewired.json](./123940-1984-rewired.json) |
 | 1984: A Game of Government Management | 83716 | [83716-1984-a-game-of-government-management.json](./83716-1984-a-game-of-government-management.json) |
 | 1985: The Day After | 26150 | [26150-1985-the-day-after.json](./26150-1985-the-day-after.json) |
@@ -1442,6 +1448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1993 Space Machine | 19390 | [19390-1993-space-machine.json](./19390-1993-space-machine.json) |
 | 1993Tris | 94288 | [94288-1993tris.json](./94288-1993tris.json) |
 | 1994 (Ten Years After) | 70295 | [70295-1994-ten-years-after.json](./70295-1994-ten-years-after.json) |
+| 1994 Locospotter | 83108 | [83108-1994-locospotter.json](./83108-1994-locospotter.json) |
 | 1994 Tune-up Community Project | 326910 | [326910-1994-tune-up-community-project.json](./326910-1994-tune-up-community-project.json) |
 | 1994Pool+ | 2375 | [2375-1994pool.json](./2375-1994pool.json) |
 | 1995Card+ | 295238 | [295238-1995card.json](./295238-1995card.json) |
@@ -1469,7 +1476,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1Heart | 16316 | [16316-1heart.json](./16316-1heart.json) |
 | 1HourPet | 180347 | [180347-1hourpet.json](./180347-1hourpet.json) |
 | 1K Games | 319533 | [319533-1k-games.json](./319533-1k-games.json) |
+| 1K Othello | 83130 | [83130-1k-othello.json](./83130-1k-othello.json) |
 | 1K ZX Chess | 391019 | [391019-1k-zx-chess.json](./391019-1k-zx-chess.json) |
+| 1Kanoid | 83131 | [83131-1kanoid.json](./83131-1kanoid.json) |
 | 1Key Rocket Launcher | 70099 | [70099-1key-rocket-launcher.json](./70099-1key-rocket-launcher.json) |
 | 1M84 | 173018 | [173018-1m84.json](./173018-1m84.json) |
 | 1MagLeft | 251235 | [251235-1magleft.json](./251235-1magleft.json) |
@@ -1712,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2006 FIFA World Cup | 5474 | [5474-2006-fifa-world-cup.json](./5474-2006-fifa-world-cup.json) |
 | 2006 Real Soccer | 116346 | [116346-2006-real-soccer.json](./116346-2006-real-soccer.json) |
 | 2007 | 283079 | [283079-2007.json](./283079-2007.json) |
+| 2007: A Spectrum Odyssey | 83138 | [83138-2007-a-spectrum-odyssey.json](./83138-2007-a-spectrum-odyssey.json) |
 | 200V Mahjong Challenge Spirits | 261057 | [261057-200v-mahjong-challenge-spirits.json](./261057-200v-mahjong-challenge-spirits.json) |
 | 201 Street | 377861 | [377861-201-street.json](./377861-201-street.json) |
 | 201: The Bad Number | 328161 | [328161-201-the-bad-number.json](./328161-201-the-bad-number.json) |
@@ -1731,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 202 Game Collection | 206119 | [206119-202-game-collection.json](./206119-202-game-collection.json) |
 | 2020 Celeste Spring Community Collab | 199801 | [199801-2020-celeste-spring-community-collab.json](./199801-2020-celeste-spring-community-collab.json) |
 | 2020 The God of Highschool with Naver Webtoon | 137555 | [137555-2020-the-god-of-highschool-with-naver-webtoon.json](./137555-2020-the-god-of-highschool-with-naver-webtoon.json) |
+| 2020 Vision | 83136 | [83136-2020-vision.json](./83136-2020-vision.json) |
 | 2020: My Country | 56363 | [56363-2020-my-country.json](./56363-2020-my-country.json) |
 | 2020: The Ride | 159984 | [159984-2020-the-ride.json](./159984-2020-the-ride.json) |
 | 2020! | 261523 | [261523-2020.json](./261523-2020.json) |
