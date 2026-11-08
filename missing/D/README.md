@@ -12941,6 +12941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Touch the Vowels 2 | 200279 | [200279-dont-touch-the-vowels-2.json](./200279-dont-touch-the-vowels-2.json) |
 | Don't Touch this Button! | 158161 | [158161-dont-touch-this-button.json](./158161-dont-touch-this-button.json) |
 | Don't Toy With Me | 204257 | [204257-dont-toy-with-me.json](./204257-dont-toy-with-me.json) |
+| Don't Trip | 112434 | [112434-dont-trip.json](./112434-dont-trip.json) |
 | Don't Trust | 311121 | [311121-dont-trust.json](./311121-dont-trust.json) |
 | Don’t Trust | 405802 | [405802-don-t-trust.json](./405802-don-t-trust.json) |
 | Don’t Turn off the Light | 390080 | [390080-don-t-turn-off-the-light.json](./390080-don-t-turn-off-the-light.json) |
@@ -17676,6 +17677,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DS de Classic Kiite Mimasenka | 269551 | [269551-ds-de-classic-kiite-mimasenka.json](./269551-ds-de-classic-kiite-mimasenka.json) |
 | DS de Yomu Series: Tezuka Osamu Hi no Tori 1 | 269705 | [269705-ds-de-yomu-series-tezuka-osamu-hi-no-tori-1.json](./269705-ds-de-yomu-series-tezuka-osamu-hi-no-tori-1.json) |
 | DS de Yomu Series: Tezuka Osamu Hi no Tori 2 | 269706 | [269706-ds-de-yomu-series-tezuka-osamu-hi-no-tori-2.json](./269706-ds-de-yomu-series-tezuka-osamu-hi-no-tori-2.json) |
+| DS Dengeki Bunko: Allison | 112534 | [112534-ds-dengeki-bunko-allison.json](./112534-ds-dengeki-bunko-allison.json) |
+| DS Dengeki Bunko: Inukami! feat. Animation | 112538 | [112538-ds-dengeki-bunko-inukami-feat-animation.json](./112538-ds-dengeki-bunko-inukami-feat-animation.json) |
+| DS Dengeki Bunko: Iriya no Sora, UFO no Natsu | 112535 | [112535-ds-dengeki-bunko-iriya-no-sora-ufo-no-natsu.json](./112535-ds-dengeki-bunko-iriya-no-sora-ufo-no-natsu.json) |
+| DS Dengeki Bunko: Iriya no Sora, UFO no Natsu I-II | 112537 | [112537-ds-dengeki-bunko-iriya-no-sora-ufo-no-natsu-i-ii.json](./112537-ds-dengeki-bunko-iriya-no-sora-ufo-no-natsu-i-ii.json) |
+| DS Dengeki Bunko: Iriya no Sora, UFO no Natsu II | 112536 | [112536-ds-dengeki-bunko-iriya-no-sora-ufo-no-natsu-ii.json](./112536-ds-dengeki-bunko-iriya-no-sora-ufo-no-natsu-ii.json) |
 | DS Kageyama Method: Dennou Hanpuku - Chiri, Rekishi, Koumin: Maru x Maru Shakai-ka | 269576 | [269576-ds-kageyama-method-dennou-hanpuku-chiri-rekishi-koumin-maru-x-maru-shakai-ka.json](./269576-ds-kageyama-method-dennou-hanpuku-chiri-rekishi-koumin-maru-x-maru-shakai-ka.json) |
 | DS Kageyama Method: Dennou Hanpuku - Masu x Masu Hyaku Masu Keisan | 269578 | [269578-ds-kageyama-method-dennou-hanpuku-masu-x-masu-hyaku-masu-keisan.json](./269578-ds-kageyama-method-dennou-hanpuku-masu-x-masu-hyaku-masu-keisan.json) |
 | DS Kageyama Method: Dennou Hanpuku - Tadashii Kanji Kakitori-kun | 269577 | [269577-ds-kageyama-method-dennou-hanpuku-tadashii-kanji-kakitori-kun.json](./269577-ds-kageyama-method-dennou-hanpuku-tadashii-kanji-kakitori-kun.json) |
