@@ -3326,6 +3326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome Archaeology Enthusiast | 183250 | [183250-welcome-archaeology-enthusiast.json](./183250-welcome-archaeology-enthusiast.json) |
 | Welcome Azrael | 233330 | [233330-welcome-azrael.json](./233330-welcome-azrael.json) |
 | Welcome Back | 153992 | [153992-welcome-back.json](./153992-welcome-back.json) |
+| Welcome Back Daddy | 99048 | [99048-welcome-back-daddy.json](./99048-welcome-back-daddy.json) |
 | Welcome Back to 2007 2 | 107376 | [107376-welcome-back-to-2007-2.json](./107376-welcome-back-to-2007-2.json) |
 | Welcome Back to Aeris | 423886 | [423886-welcome-back-to-aeris.json](./423886-welcome-back-to-aeris.json) |
 | Welcome Back, Commander | 305697 | [305697-welcome-back-commander.json](./305697-welcome-back-commander.json) |
