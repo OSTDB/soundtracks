@@ -1767,6 +1767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fancy World - Earth of Crisis | 39686 | [39686-fancy-world-earth-of-crisis.json](./39686-fancy-world-earth-of-crisis.json) |
 | Fancy! | 237069 | [237069-fancy.json](./237069-fancy.json) |
 | Fancyland | 289669 | [289669-fancyland.json](./289669-fancyland.json) |
+| Fandango | 84344 | [84344-fandango.json](./84344-fandango.json) |
 | Fandom | 304443 | [304443-fandom.json](./304443-fandom.json) |
 | Fandominion | 259646 | [259646-fandominion.json](./259646-fandominion.json) |
 | Fanfare Fantasy | 181636 | [181636-fanfare-fantasy.json](./181636-fanfare-fantasy.json) |
@@ -11331,6 +11332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FP Runner | 90329 | [90329-fp-runner.json](./90329-fp-runner.json) |
 | FPAH: Foul Play Air Hockey | 197653 | [197653-fpah-foul-play-air-hockey.json](./197653-fpah-foul-play-air-hockey.json) |
 | FPBI Test Program | 403377 | [403377-fpbi-test-program.json](./403377-fpbi-test-program.json) |
+| FPJ's Ang Probinsyano | 83707 | [83707-fpjs-ang-probinsyano.json](./83707-fpjs-ang-probinsyano.json) |
 | FPS Arena Online | 195707 | [195707-fps-arena-online.json](./195707-fps-arena-online.json) |
 | FPS Bullet Storm | 356531 | [356531-fps-bullet-storm.json](./356531-fps-bullet-storm.json) |
 | FPS Dinosaurs | 399659 | [399659-fps-dinosaurs.json](./399659-fps-dinosaurs.json) |
@@ -13641,6 +13643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Infused Arcade | 260178 | [260178-fun-infused-arcade.json](./260178-fun-infused-arcade.json) |
 | Fun Kid Racing | 99936 | [99936-fun-kid-racing.json](./99936-fun-kid-racing.json) |
 | Fun Kid Racing Magic Forest | 175720 | [175720-fun-kid-racing-magic-forest.json](./175720-fun-kid-racing-magic-forest.json) |
+| Fun Land | 84346 | [84346-fun-land.json](./84346-fun-land.json) |
 | Fun Machine | 193094 | [193094-fun-machine.json](./193094-fun-machine.json) |
 | Fun Match | 328658 | [328658-fun-match.json](./328658-fun-match.json) |
 | Fun on the Farm with Barney | 71608 | [71608-fun-on-the-farm-with-barney.json](./71608-fun-on-the-farm-with-barney.json) |
