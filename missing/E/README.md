@@ -6978,6 +6978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest II | 18293 | [18293-everquest-ii.json](./18293-everquest-ii.json) |
 | EverQuest II: Age of Discovery | 23830 | [23830-everquest-ii-age-of-discovery.json](./23830-everquest-ii-age-of-discovery.json) |
 | EverQuest II: Altar of Malice | 61169 | [61169-everquest-ii-altar-of-malice.json](./61169-everquest-ii-altar-of-malice.json) |
+| EverQuest II: Blood of Luclin | 130466 | [130466-everquest-ii-blood-of-luclin.json](./130466-everquest-ii-blood-of-luclin.json) |
 | EverQuest II: Chains of Eternity | 18318 | [18318-everquest-ii-chains-of-eternity.json](./18318-everquest-ii-chains-of-eternity.json) |
 | EverQuest II: Chaos Descending | 110883 | [110883-everquest-ii-chaos-descending.json](./110883-everquest-ii-chaos-descending.json) |
 | EverQuest II: Destiny of Velious | 66464 | [66464-everquest-ii-destiny-of-velious.json](./66464-everquest-ii-destiny-of-velious.json) |
@@ -8087,6 +8088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Explaining Every String | 271103 | [271103-explaining-every-string.json](./271103-explaining-every-string.json) |
 | Explo Bee | 233745 | [233745-explo-bee.json](./233745-explo-bee.json) |
 | Exploaris: Vermis story | 167837 | [167837-exploaris-vermis-story.json](./167837-exploaris-vermis-story.json) |
+| Explobers | 130489 | [130489-explobers.json](./130489-explobers.json) |
 | Explode Bricks | 89530 | [89530-explode-bricks.json](./89530-explode-bricks.json) |
 | Explode on Contact | 148546 | [148546-explode-on-contact.json](./148546-explode-on-contact.json) |
 | Explodera | 388218 | [388218-explodera.json](./388218-explodera.json) |
