@@ -2372,6 +2372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raw Pursuit | 209311 | [209311-raw-pursuit.json](./209311-raw-pursuit.json) |
 | Rawbots | 62969 | [62969-rawbots.json](./62969-rawbots.json) |
 | Rawisland | 267449 | [267449-rawisland.json](./267449-rawisland.json) |
+| Rawmen | 106056 | [106056-rawmen.json](./106056-rawmen.json) |
 | Rawmen: Sakura Gusoku Cosmetic Set | 370316 | [370316-rawmen-sakura-gusoku-cosmetic-set.json](./370316-rawmen-sakura-gusoku-cosmetic-set.json) |
 | Rawr-Off | 125088 | [125088-rawr-off.json](./125088-rawr-off.json) |
 | RAWR: Little Hungry Dragon | 319860 | [319860-rawr-little-hungry-dragon.json](./319860-rawr-little-hungry-dragon.json) |
@@ -7150,6 +7151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rice Bowl Restaurant | 253221 | [253221-rice-bowl-restaurant.json](./253221-rice-bowl-restaurant.json) |
 | Rice Lake Flolf Course Remaster | 397475 | [397475-rice-lake-flolf-course-remaster.json](./397475-rice-lake-flolf-course-remaster.json) |
 | RICE: Repetitive Indie Combat Experience | 233692 | [233692-rice-repetitive-indie-combat-experience.json](./233692-rice-repetitive-indie-combat-experience.json) |
+| RiceCakers | 106164 | [106164-ricecakers.json](./106164-ricecakers.json) |
 | Ricerca VR | 32884 | [32884-ricerca-vr.json](./32884-ricerca-vr.json) |
 | Rich City | 298112 | [298112-rich-city.json](./298112-rich-city.json) |
 | Rich Code | 96231 | [96231-rich-code.json](./96231-rich-code.json) |
@@ -9754,6 +9756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocketpult Mini | 339170 | [339170-rocketpult-mini.json](./339170-rocketpult-mini.json) |
 | RocketRecoil | 296254 | [296254-rocketrecoil.json](./296254-rocketrecoil.json) |
 | Rockets | 108514 | [108514-rockets.json](./108514-rockets.json) |
+| Rockets Defender | 106054 | [106054-rockets-defender.json](./106054-rockets-defender.json) |
 | Rockets, Planes, Soldiers | 267014 | [267014-rockets-planes-soldiers.json](./267014-rockets-planes-soldiers.json) |
 | Rockets.com | 415449 | [415449-rockets-com.json](./415449-rockets-com.json) |
 | RocketShip Go Up | 373347 | [373347-rocketship-go-up.json](./373347-rocketship-go-up.json) |
