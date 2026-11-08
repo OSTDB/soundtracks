@@ -6820,6 +6820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cheongchunhyang Jeon | 404824 | [404824-cheongchunhyang-jeon.json](./404824-cheongchunhyang-jeon.json) |
 | Cheongsam | 110202 | [110202-cheongsam.json](./110202-cheongsam.json) |
 | Cheonnyeon | 361306 | [361306-cheonnyeon.json](./361306-cheonnyeon.json) |
+| Cheonsa | 109937 | [109937-cheonsa.json](./109937-cheonsa.json) |
 | Cheonsang Soma Yeongung-jeon | 145639 | [145639-cheonsang-soma-yeongung-jeon.json](./145639-cheonsang-soma-yeongung-jeon.json) |
 | Cheonsang Soma Yeongung-jeon II | 145641 | [145641-cheonsang-soma-yeongung-jeon-ii.json](./145641-cheonsang-soma-yeongung-jeon-ii.json) |
 | Cheops | 13481 | [13481-cheops.json](./13481-cheops.json) |
@@ -12397,6 +12398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color TV-Game 15 | 220549 | [220549-color-tv-game-15.json](./220549-color-tv-game-15.json) |
 | Color TV-Game Block Kuzushi | 220551 | [220551-color-tv-game-block-kuzushi.json](./220551-color-tv-game-block-kuzushi.json) |
 | Color TV-Game Racing 112 | 220550 | [220550-color-tv-game-racing-112.json](./220550-color-tv-game-racing-112.json) |
+| Color Us | 109935 | [109935-color-us.json](./109935-color-us.json) |
 | Color Valley: The Lost Balloon Adventure | 360049 | [360049-color-valley-the-lost-balloon-adventure.json](./360049-color-valley-the-lost-balloon-adventure.json) |
 | Color Vision Deficiency Test | 318641 | [318641-color-vision-deficiency-test.json](./318641-color-vision-deficiency-test.json) |
 | Color War | 158846 | [158846-color-war.json](./158846-color-war.json) |
@@ -15601,6 +15603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo's Rocket | 208795 | [208795-cosmos-rocket.json](./208795-cosmos-rocket.json) |
 | CosmoAlley Bowling | 146449 | [146449-cosmoalley-bowling.json](./146449-cosmoalley-bowling.json) |
 | Cosmoblaster Exodia | 192939 | [192939-cosmoblaster-exodia.json](./192939-cosmoblaster-exodia.json) |
+| Cosmobot | 109934 | [109934-cosmobot.json](./109934-cosmobot.json) |
 | Cosmocade: The Arcade of Tomorrow | 181436 | [181436-cosmocade-the-arcade-of-tomorrow.json](./181436-cosmocade-the-arcade-of-tomorrow.json) |
 | Cosmochoria | 17230 | [17230-cosmochoria.json](./17230-cosmochoria.json) |
 | Cosmodread | 144994 | [144994-cosmodread.json](./144994-cosmodread.json) |
@@ -17192,6 +17195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Lizard: The Amazing Journey | 235142 | [235142-crazy-lizard-the-amazing-journey.json](./235142-crazy-lizard-the-amazing-journey.json) |
 | Crazy Localization | 403527 | [403527-crazy-localization.json](./403527-crazy-localization.json) |
 | Crazy Ludo | 181029 | [181029-crazy-ludo.json](./181029-crazy-ludo.json) |
+| Crazy Machine VR | 109936 | [109936-crazy-machine-vr.json](./109936-crazy-machine-vr.json) |
 | Crazy Machines | 4777 | [4777-crazy-machines.json](./4777-crazy-machines.json) |
 | Crazy Machines 1.5 Inventors Training Camp | 90470 | [90470-crazy-machines-1-5-inventors-training-camp.json](./90470-crazy-machines-1-5-inventors-training-camp.json) |
 | Crazy Machines 1.5 New from the Lab | 90471 | [90471-crazy-machines-1-5-new-from-the-lab.json](./90471-crazy-machines-1-5-new-from-the-lab.json) |
@@ -19295,6 +19299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystals of Power | 363638 | [363638-crystals-of-power.json](./363638-crystals-of-power.json) |
 | Crystalux: New Discovery | 57406 | [57406-crystalux-new-discovery.json](./57406-crystalux-new-discovery.json) |
 | Crystalverse | 25796 | [25796-crystalverse.json](./25796-crystalverse.json) |
+| CrystalWar | 109855 | [109855-crystalwar.json](./109855-crystalwar.json) |
 | Crystalyn | 406900 | [406900-crystalyn.json](./406900-crystalyn.json) |
 | Crystant | 392154 | [392154-crystant.json](./392154-crystant.json) |
 | Crystar | 103494 | [103494-crystar.json](./103494-crystar.json) |
