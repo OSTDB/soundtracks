@@ -232,6 +232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit Story | 28162 | [28162-rabbit-story.json](./28162-rabbit-story.json) |
 | Rabbit Trail | 333492 | [333492-rabbit-trail.json](./333492-rabbit-trail.json) |
 | Rabbit Trail | 42180 | [42180-rabbit-trail.json](./42180-rabbit-trail.json) |
+| Rabbit Valley Legend | 99680 | [99680-rabbit-valley-legend.json](./99680-rabbit-valley-legend.json) |
 | Rabbit x Labyrinth | 66436 | [66436-rabbit-x-labyrinth.json](./66436-rabbit-x-labyrinth.json) |
 | Rabbit, Coyote, Wolf, Grizzly | 375493 | [375493-rabbit-coyote-wolf-grizzly.json](./375493-rabbit-coyote-wolf-grizzly.json) |
 | Rabbit: Jigsaw Puzzles | 96613 | [96613-rabbit-jigsaw-puzzles.json](./96613-rabbit-jigsaw-puzzles.json) |
