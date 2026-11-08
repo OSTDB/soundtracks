@@ -19980,7 +19980,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
-| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 142578 | [142578-space-hunter.json](./142578-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
@@ -20591,6 +20590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Universe | 32531 | [32531-space-universe.json](./32531-space-universe.json) |
 | Space Valet | 177005 | [177005-space-valet.json](./177005-space-valet.json) |
 | Space Valkyries | 309729 | [309729-space-valkyries.json](./309729-space-valkyries.json) |
+| Space Vanguard | 132378 | [132378-space-vanguard.json](./132378-space-vanguard.json) |
 | Space Variance Authority | 337641 | [337641-space-variance-authority.json](./337641-space-variance-authority.json) |
 | Space Varments | 194302 | [194302-space-varments.json](./194302-space-varments.json) |
 | Space Vegetables | 56938 | [56938-space-vegetables.json](./56938-space-vegetables.json) |
@@ -28451,6 +28451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Chef: Food Seller Simulator | 326408 | [326408-street-chef-food-seller-simulator.json](./326408-street-chef-food-seller-simulator.json) |
 | Street Clean TD | 285673 | [285673-street-clean-td.json](./285673-street-clean-td.json) |
 | Street Cleaner 3 | 305382 | [305382-street-cleaner-3.json](./305382-street-cleaner-3.json) |
+| Street Cleaner: The Video Game | 132377 | [132377-street-cleaner-the-video-game.json](./132377-street-cleaner-the-video-game.json) |
 | Street Cleaning Simulator | 65867 | [65867-street-cleaning-simulator.json](./65867-street-cleaning-simulator.json) |
 | Street Combat Fighting | 386541 | [386541-street-combat-fighting.json](./386541-street-combat-fighting.json) |
 | Street Combat: Ultimate MMA Fighters | 364814 | [364814-street-combat-ultimate-mma-fighters.json](./364814-street-combat-ultimate-mma-fighters.json) |
@@ -31595,6 +31596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Football | 94923 | [94923-super-football.json](./94923-super-football.json) |
 | Super Football Champ | 39945 | [39945-super-football-champ.json](./39945-super-football-champ.json) |
 | Super Football Sunday | 94401 | [94401-super-football-sunday.json](./94401-super-football-sunday.json) |
+| Super Forklift 3000 | 132391 | [132391-super-forklift-3000.json](./132391-super-forklift-3000.json) |
 | Super Formation Soccer 94: World Cup Edition | 42362 | [42362-super-formation-soccer-94-world-cup-edition.json](./42362-super-formation-soccer-94-world-cup-edition.json) |
 | Super Formation Soccer 94: World Cup Final Data | 42361 | [42361-super-formation-soccer-94-world-cup-final-data.json](./42361-super-formation-soccer-94-world-cup-final-data.json) |
 | Super Formation Soccer 95: della Serie A | 42360 | [42360-super-formation-soccer-95-della-serie-a.json](./42360-super-formation-soccer-95-della-serie-a.json) |
