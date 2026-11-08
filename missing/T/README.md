@@ -754,6 +754,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taisen Golf | 198208 | [198208-taisen-golf.json](./198208-taisen-golf.json) |
 | Taisen Hot Gimmick | 56228 | [56228-taisen-hot-gimmick.json](./56228-taisen-hot-gimmick.json) |
 | Taisen Hot Gimmick 3: Digital Surfing | 56222 | [56222-taisen-hot-gimmick-3-digital-surfing.json](./56222-taisen-hot-gimmick-3-digital-surfing.json) |
+| Taisen Hot Gimmick 4 Ever | 137794 | [137794-taisen-hot-gimmick-4-ever.json](./137794-taisen-hot-gimmick-4-ever.json) |
+| Taisen Hot Gimmick 5: Miraieigou | 137795 | [137795-taisen-hot-gimmick-5-miraieigou.json](./137795-taisen-hot-gimmick-5-miraieigou.json) |
 | Taisen Hot Gimmick Kairakuten | 56221 | [56221-taisen-hot-gimmick-kairakuten.json](./56221-taisen-hot-gimmick-kairakuten.json) |
 | Taisen Hot Gimmick: Axes-Jong | 282136 | [282136-taisen-hot-gimmick-axes-jong.json](./282136-taisen-hot-gimmick-axes-jong.json) |
 | Taisen Hot Gimmick: Axes-Jong | 97968 | [97968-taisen-hot-gimmick-axes-jong.json](./97968-taisen-hot-gimmick-axes-jong.json) |
@@ -3102,6 +3104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teamfight Manager | 144006 | [144006-teamfight-manager.json](./144006-teamfight-manager.json) |
 | Teamfight Manager 2 | 369638 | [369638-teamfight-manager-2.json](./369638-teamfight-manager-2.json) |
 | Teamfight Tactics: Cyber City | 336307 | [336307-teamfight-tactics-cyber-city.json](./336307-teamfight-tactics-cyber-city.json) |
+| TeamJumpers | 137774 | [137774-teamjumpers.json](./137774-teamjumpers.json) |
 | TeamJumpers 2: New Reality | 152032 | [152032-teamjumpers-2-new-reality.json](./152032-teamjumpers-2-new-reality.json) |
 | Teamkill | 191560 | [191560-teamkill.json](./191560-teamkill.json) |
 | TeamPlay | 163976 | [163976-teamplay.json](./163976-teamplay.json) |
@@ -15940,6 +15943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Robot You Control is a Tsundere!? | 182619 | [182619-the-robot-you-control-is-a-tsundere.json](./182619-the-robot-you-control-is-a-tsundere.json) |
 | The Roc | 220512 | [220512-the-roc.json](./220512-the-roc.json) |
 | The Roc | 422690 | [422690-the-roc.json](./422690-the-roc.json) |
+| The Rock | 137752 | [137752-the-rock.json](./137752-the-rock.json) |
 | The Rock | 308461 | [308461-the-rock.json](./308461-the-rock.json) |
 | The Rock | 308462 | [308462-the-rock.json](./308462-the-rock.json) |
 | The Rock and the Rose | 353996 | [353996-the-rock-and-the-rose.json](./353996-the-rock-and-the-rose.json) |
@@ -26988,6 +26992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Library Survivors | 219544 | [219544-touhou-library-survivors.json](./219544-touhou-library-survivors.json) |
 | Touhou Língshǒusì: Consciousness' Unity of Opposites | 216793 | [216793-touhou-lingshousi-consciousness-unity-of-opposites.json](./216793-touhou-lingshousi-consciousness-unity-of-opposites.json) |
 | Touhou Lonely Lovely Bonfire | 362883 | [362883-touhou-lonely-lovely-bonfire.json](./362883-touhou-lonely-lovely-bonfire.json) |
+| Touhou LostWord | 137783 | [137783-touhou-lostword.json](./137783-touhou-lostword.json) |
 | Touhou Luna Nights | 105447 | [105447-touhou-luna-nights.json](./105447-touhou-luna-nights.json) |
 | Touhou Luna Nights: 5 Year Anniversary Edition | 350793 | [350793-touhou-luna-nights-5-year-anniversary-edition.json](./350793-touhou-luna-nights-5-year-anniversary-edition.json) |
 | Touhou Luna Nights: 5 Year Anniversary Limited Edition | 350794 | [350794-touhou-luna-nights-5-year-anniversary-limited-edition.json](./350794-touhou-luna-nights-5-year-anniversary-limited-edition.json) |
@@ -31876,6 +31881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Troll Face Quest: Game of Trolls | 306703 | [306703-troll-face-quest-game-of-trolls.json](./306703-troll-face-quest-game-of-trolls.json) |
 | Troll Face Quest: TV Shows | 398757 | [398757-troll-face-quest-tv-shows.json](./398757-troll-face-quest-tv-shows.json) |
 | Troll Hunter VR | 150916 | [150916-troll-hunter-vr.json](./150916-troll-hunter-vr.json) |
+| Troll Patrol | 137768 | [137768-troll-patrol.json](./137768-troll-patrol.json) |
 | Troll Quest | 145930 | [145930-troll-quest.json](./145930-troll-quest.json) |
 | Troll-A-Mania | 217701 | [217701-troll-a-mania.json](./217701-troll-a-mania.json) |
 | Trollboarder | 85458 | [85458-trollboarder.json](./85458-trollboarder.json) |
@@ -34225,6 +34231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Typomancer in the Feather's Way | 174261 | [174261-typomancer-in-the-feathers-way.json](./174261-typomancer-in-the-feathers-way.json) |
 | Typomania guestbook | 184555 | [184555-typomania-guestbook.json](./184555-typomania-guestbook.json) |
 | Typos and Brains | 179893 | [179893-typos-and-brains.json](./179893-typos-and-brains.json) |
+| Typrx | 137779 | [137779-typrx.json](./137779-typrx.json) |
 | Tyr | 371867 | [371867-tyr.json](./371867-tyr.json) |
 | Tyr: Chains of Valhalla | 96750 | [96750-tyr-chains-of-valhalla.json](./96750-tyr-chains-of-valhalla.json) |
 | Tyran | 33937 | [33937-tyran.json](./33937-tyran.json) |
