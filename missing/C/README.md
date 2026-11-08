@@ -3803,6 +3803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlemancer | 258610 | [258610-castlemancer.json](./258610-castlemancer.json) |
 | Castlemaze: Ojou-sama kara no Chousen | 214007 | [214007-castlemaze-ojou-sama-kara-no-chousen.json](./214007-castlemaze-ojou-sama-kara-no-chousen.json) |
 | CastleMine | 24548 | [24548-castlemine.json](./24548-castlemine.json) |
+| CastleMiner | 94849 | [94849-castleminer.json](./94849-castleminer.json) |
 | CastleMiner Warfare | 54502 | [54502-castleminer-warfare.json](./54502-castleminer-warfare.json) |
 | CastleMiner Z | 9794 | [9794-castleminer-z.json](./9794-castleminer-z.json) |
 | CastleOfDuck | 193722 | [193722-castleofduck.json](./193722-castleofduck.json) |
