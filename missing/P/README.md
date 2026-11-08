@@ -1209,6 +1209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pandora: Chains of Chaos | 90114 | [90114-pandora-chains-of-chaos.json](./90114-pandora-chains-of-chaos.json) |
 | Pandora: First Contact | 17185 | [17185-pandora-first-contact.json](./17185-pandora-first-contact.json) |
 | Pandora: First Contact - Eclipse of Nashira | 170827 | [170827-pandora-first-contact-eclipse-of-nashira.json](./170827-pandora-first-contact-eclipse-of-nashira.json) |
+| Pandora: First Contact - Gold Edition | 124897 | [124897-pandora-first-contact-gold-edition.json](./124897-pandora-first-contact-gold-edition.json) |
 | Pandora: Kimi no Namae wo, Boku ha Shiru | 221825 | [221825-pandora-kimi-no-namae-wo-boku-ha-shiru.json](./221825-pandora-kimi-no-namae-wo-boku-ha-shiru.json) |
 | Pandora: Purge of Pride | 62995 | [62995-pandora-purge-of-pride.json](./62995-pandora-purge-of-pride.json) |
 | Pandora: Wild Origins | 169139 | [169139-pandora-wild-origins.json](./169139-pandora-wild-origins.json) |
@@ -3084,6 +3085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pathfinder: Gallowspire Survivors | 252859 | [252859-pathfinder-gallowspire-survivors.json](./252859-pathfinder-gallowspire-survivors.json) |
 | Pathfinder: Kingmaker | 36929 | [36929-pathfinder-kingmaker.json](./36929-pathfinder-kingmaker.json) |
 | Pathfinder: Kingmaker - Beneath the Stolen Lands | 124975 | [124975-pathfinder-kingmaker-beneath-the-stolen-lands.json](./124975-pathfinder-kingmaker-beneath-the-stolen-lands.json) |
+| Pathfinder: Kingmaker - Bloody Mess | 124898 | [124898-pathfinder-kingmaker-bloody-mess.json](./124898-pathfinder-kingmaker-bloody-mess.json) |
 | Pathfinder: Kingmaker - Definitive Edition | 134568 | [134568-pathfinder-kingmaker-definitive-edition.json](./134568-pathfinder-kingmaker-definitive-edition.json) |
 | Pathfinder: Kingmaker - Enhanced Plus Edition | 154530 | [154530-pathfinder-kingmaker-enhanced-plus-edition.json](./154530-pathfinder-kingmaker-enhanced-plus-edition.json) |
 | Pathfinder: Kingmaker - Imperial Edition | 124981 | [124981-pathfinder-kingmaker-imperial-edition.json](./124981-pathfinder-kingmaker-imperial-edition.json) |
@@ -10737,6 +10739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocoyo World | 208235 | [208235-pocoyo-world.json](./208235-pocoyo-world.json) |
 | Pod | 86049 | [86049-pod.json](./86049-pod.json) |
 | POD | 12960 | [12960-pod.json](./12960-pod.json) |
+| POD Gold | 124943 | [124943-pod-gold.json](./124943-pod-gold.json) |
 | Pod Jam | 317792 | [317792-pod-jam.json](./317792-pod-jam.json) |
 | POD SpeedZone | 84320 | [84320-pod-speedzone.json](./84320-pod-speedzone.json) |
 | POD: Back to Hell | 93467 | [93467-pod-back-to-hell.json](./93467-pod-back-to-hell.json) |
@@ -16147,6 +16150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Heroes | 68092 | [68092-project-heroes.json](./68092-project-heroes.json) |
 | Project Highrise | 20875 | [20875-project-highrise.json](./20875-project-highrise.json) |
 | Project Highrise: Architect's Edition | 103941 | [103941-project-highrise-architects-edition.json](./103941-project-highrise-architects-edition.json) |
+| Project Highrise: Brilliant Berlin | 124930 | [124930-project-highrise-brilliant-berlin.json](./124930-project-highrise-brilliant-berlin.json) |
 | Project Highrise: Las Vegas | 51884 | [51884-project-highrise-las-vegas.json](./51884-project-highrise-las-vegas.json) |
 | Project Highrise: London Life | 124801 | [124801-project-highrise-london-life.json](./124801-project-highrise-london-life.json) |
 | Project Highrise: Miami Malls | 51883 | [51883-project-highrise-miami-malls.json](./51883-project-highrise-miami-malls.json) |
