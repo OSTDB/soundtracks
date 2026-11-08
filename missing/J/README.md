@@ -3255,6 +3255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump and Run: Don't Fall | 107939 | [107939-jump-and-run-dont-fall.json](./107939-jump-and-run-dont-fall.json) |
 | Jump Ball | 223044 | [223044-jump-ball.json](./223044-jump-ball.json) |
 | Jump Ball | 317027 | [317027-jump-ball.json](./317027-jump-ball.json) |
+| Jump Ball Blast | 106781 | [106781-jump-ball-blast.json](./106781-jump-ball-blast.json) |
 | Jump Ball Jump! | 310767 | [310767-jump-ball-jump.json](./310767-jump-ball-jump.json) |
 | Jump Ball-Bounce on Tower Tile | 105909 | [105909-jump-ball-bounce-on-tower-tile.json](./105909-jump-ball-bounce-on-tower-tile.json) |
 | Jump Barrel | 239334 | [239334-jump-barrel.json](./239334-jump-barrel.json) |
