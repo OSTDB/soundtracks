@@ -8180,6 +8180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Express Courier Pro: Urban Bike Delivery Simulator 2024! | 300862 | [300862-express-courier-pro-urban-bike-delivery-simulator-2024.json](./300862-express-courier-pro-urban-bike-delivery-simulator-2024.json) |
 | Express Hero | 270045 | [270045-express-hero.json](./270045-express-hero.json) |
 | Express No. 6 | 381091 | [381091-express-no-6.json](./381091-express-no-6.json) |
+| Express PD Galore | 131736 | [131736-express-pd-galore.json](./131736-express-pd-galore.json) |
 | Express Raider | 13654 | [13654-express-raider.json](./13654-express-raider.json) |
 | Express Rider Simulator | 392602 | [392602-express-rider-simulator.json](./392602-express-rider-simulator.json) |
 | Express Simulator | 152463 | [152463-express-simulator.json](./152463-express-simulator.json) |
