@@ -359,6 +359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Have Been There Twice | 274282 | [274282-i-have-been-there-twice.json](./274282-i-have-been-there-twice.json) |
 | I Have Died | 375956 | [375956-i-have-died.json](./375956-i-have-died.json) |
 | I Have Hired This Anime Girl to Talk to You | 275003 | [275003-i-have-hired-this-anime-girl-to-talk-to-you.json](./275003-i-have-hired-this-anime-girl-to-talk-to-you.json) |
+| I have lived | 128125 | [128125-i-have-lived.json](./128125-i-have-lived.json) |
 | I Have Low Stats But My Class is "Leader", So I Recruited Everyone I Know to Fight the Dark Lord | 123423 | [123423-i-have-low-stats-but-my-class-is-leader-so-i-recruited-everyone-i-know-to-fight-the-dark-lord.json](./123423-i-have-low-stats-but-my-class-is-leader-so-i-recruited-everyone-i-know-to-fight-the-dark-lord.json) |
 | I Have More Hours Than You | 340511 | [340511-i-have-more-hours-than-you.json](./340511-i-have-more-hours-than-you.json) |
 | I Have No Change | 348311 | [348311-i-have-no-change.json](./348311-i-have-no-change.json) |
@@ -5998,6 +5999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Rails | 179588 | [179588-iron-rails.json](./179588-iron-rails.json) |
 | Iron Rain | 346591 | [346591-iron-rain.json](./346591-iron-rain.json) |
 | Iron Ranger | 351009 | [351009-iron-ranger.json](./351009-iron-ranger.json) |
+| Iron Rebellion | 128122 | [128122-iron-rebellion.json](./128122-iron-rebellion.json) |
 | Iron Reckoning | 158150 | [158150-iron-reckoning.json](./158150-iron-reckoning.json) |
 | Iron Reich | 157194 | [157194-iron-reich.json](./157194-iron-reich.json) |
 | Iron Remnant | 423376 | [423376-iron-remnant.json](./423376-iron-remnant.json) |
