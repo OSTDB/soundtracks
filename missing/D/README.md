@@ -5331,6 +5331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep | 372091 | [372091-deep.json](./372091-deep.json) |
 | Deep | 380247 | [380247-deep.json](./380247-deep.json) |
 | Deep 3D: Submarine Odyssey | 338047 | [338047-deep-3d-submarine-odyssey.json](./338047-deep-3d-submarine-odyssey.json) |
+| Deep 8 | 115901 | [115901-deep-8.json](./115901-deep-8.json) |
 | Deep Abyss | 200862 | [200862-deep-abyss.json](./200862-deep-abyss.json) |
 | Deep Abyss | 217111 | [217111-deep-abyss.json](./217111-deep-abyss.json) |
 | Deep Abyss 3D | 260872 | [260872-deep-abyss-3d.json](./260872-deep-abyss-3d.json) |
@@ -14686,6 +14687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draco Space X | 151620 | [151620-draco-space-x.json](./151620-draco-space-x.json) |
 | Draco's Misfortune | 110990 | [110990-dracos-misfortune.json](./110990-dracos-misfortune.json) |
 | DracoFighter | 207527 | [207527-dracofighter.json](./207527-dracofighter.json) |
+| Dracologic | 115907 | [115907-dracologic.json](./115907-dracologic.json) |
 | Dracomaton | 258124 | [258124-dracomaton.json](./258124-dracomaton.json) |
 | DraconG | 285826 | [285826-dracong.json](./285826-dracong.json) |
 | Draconia | 143903 | [143903-draconia.json](./143903-draconia.json) |
@@ -16476,6 +16478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamals: Dream Quest | 43086 | [43086-dreamals-dream-quest.json](./43086-dreamals-dream-quest.json) |
 | DreaMarbleng | 166574 | [166574-dreamarbleng.json](./166574-dreamarbleng.json) |
 | Dreamau Adventures | 188345 | [188345-dreamau-adventures.json](./188345-dreamau-adventures.json) |
+| DreamBack VR | 115932 | [115932-dreamback-vr.json](./115932-dreamback-vr.json) |
 | DreamBall | 126193 | [126193-dreamball.json](./126193-dreamball.json) |
 | DreamBig 3 | 368104 | [368104-dreambig-3.json](./368104-dreambig-3.json) |
 | Dreamblaster | 38764 | [38764-dreamblaster.json](./38764-dreamblaster.json) |
