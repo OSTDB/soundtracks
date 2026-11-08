@@ -2074,6 +2074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Treasury | 151482 | [151482-dark-treasury.json](./151482-dark-treasury.json) |
 | Dark Tree | 226553 | [226553-dark-tree.json](./226553-dark-tree.json) |
 | Dark Trip | 324061 | [324061-dark-trip.json](./324061-dark-trip.json) |
+| Dark Tunnels | 128107 | [128107-dark-tunnels.json](./128107-dark-tunnels.json) |
 | Dark Umbra | 295793 | [295793-dark-umbra.json](./295793-dark-umbra.json) |
 | Dark Undergrowth | 402801 | [402801-dark-undergrowth.json](./402801-dark-undergrowth.json) |
 | Dark Universe | 256893 | [256893-dark-universe.json](./256893-dark-universe.json) |
@@ -2590,6 +2591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Data Delivery Agents | 241974 | [241974-data-delivery-agents.json](./241974-data-delivery-agents.json) |
 | Data Doesn't Lie | 322386 | [322386-data-doesnt-lie.json](./322386-data-doesnt-lie.json) |
 | Data Download | 309193 | [309193-data-download.json](./309193-data-download.json) |
+| Data Dream | 128102 | [128102-data-dream.json](./128102-data-dream.json) |
 | Data Drift | 344519 | [344519-data-drift.json](./344519-data-drift.json) |
 | Data Duty | 413240 | [413240-data-duty.json](./413240-data-duty.json) |
 | Data East All-Star Collection | 77428 | [77428-data-east-all-star-collection.json](./77428-data-east-all-star-collection.json) |
