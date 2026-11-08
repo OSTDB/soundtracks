@@ -3200,6 +3200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adam's Venture: Origins - Deluxe Edition | 118747 | [118747-adams-venture-origins-deluxe-edition.json](./118747-adams-venture-origins-deluxe-edition.json) |
 | Adamanta View | 189328 | [189328-adamanta-view.json](./189328-adamanta-view.json) |
 | Adamantine Cruelty | 271248 | [271248-adamantine-cruelty.json](./271248-adamantine-cruelty.json) |
+| Adams Ascending | 113210 | [113210-adams-ascending.json](./113210-adams-ascending.json) |
 | Adanath | 219701 | [219701-adanath.json](./219701-adanath.json) |
 | Adapt | 118085 | [118085-adapt.json](./118085-adapt.json) |
 | Adapta Solva | 283893 | [283893-adapta-solva.json](./283893-adapta-solva.json) |
@@ -6984,6 +6985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Girl | 183909 | [183909-alien-girl.json](./183909-alien-girl.json) |
 | Alien Girls | 271670 | [271670-alien-girls.json](./271670-alien-girls.json) |
 | Alien Gladiator | 207529 | [207529-alien-gladiator.json](./207529-alien-gladiator.json) |
+| Alien grenadier | 113255 | [113255-alien-grenadier.json](./113255-alien-grenadier.json) |
 | Alien Grounds | 332936 | [332936-alien-grounds.json](./332936-alien-grounds.json) |
 | Alien Hallway | 16246 | [16246-alien-hallway.json](./16246-alien-hallway.json) |
 | Alien Hallway 2 | 72351 | [72351-alien-hallway-2.json](./72351-alien-hallway-2.json) |
