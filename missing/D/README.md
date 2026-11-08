@@ -8226,6 +8226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deutonium | 137367 | [137367-deutonium.json](./137367-deutonium.json) |
 | Deutsch 1.-4: Klasse - Fit fuers Gymnasium | 269746 | [269746-deutsch-1-4-klasse-fit-fuers-gymnasium.json](./269746-deutsch-1-4-klasse-fit-fuers-gymnasium.json) |
 | Deutsch 1.-4. Klasse 2012 | 269747 | [269747-deutsch-1-4-klasse-2012.json](./269747-deutsch-1-4-klasse-2012.json) |
+| Deutsch für Zwerge 1 | 92042 | [92042-deutsch-fur-zwerge-1.json](./92042-deutsch-fur-zwerge-1.json) |
 | Deutsch für Zwerge 2 | 91623 | [91623-deutsch-fur-zwerge-2.json](./91623-deutsch-fur-zwerge-2.json) |
 | Deutsch Pfiffikus 2 - 1995 | 91635 | [91635-deutsch-pfiffikus-2-1995.json](./91635-deutsch-pfiffikus-2-1995.json) |
 | Deutsch Pfiffikus 2009 | 91621 | [91621-deutsch-pfiffikus-2009.json](./91621-deutsch-pfiffikus-2009.json) |
@@ -16653,6 +16654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreaming Worlds | 201516 | [201516-dreaming-worlds.json](./201516-dreaming-worlds.json) |
 | Dreamio: AI-Powered Adventures | 250784 | [250784-dreamio-ai-powered-adventures.json](./250784-dreamio-ai-powered-adventures.json) |
 | DreamIsland | 207357 | [207357-dreamisland.json](./207357-dreamisland.json) |
+| Dreamjob Veterinarian: My First Little Animal Practice | 91999 | [91999-dreamjob-veterinarian-my-first-little-animal-practice.json](./91999-dreamjob-veterinarian-my-first-little-animal-practice.json) |
 | Dreamjob: Programmer | 132801 | [132801-dreamjob-programmer.json](./132801-dreamjob-programmer.json) |
 | Dreamkeeper | 247820 | [247820-dreamkeeper.json](./247820-dreamkeeper.json) |
 | Dreamkiller | 11331 | [11331-dreamkiller.json](./11331-dreamkiller.json) |
