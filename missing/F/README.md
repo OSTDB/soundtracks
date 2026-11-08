@@ -7974,6 +7974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Sims Air Cavalry Pilots | 175336 | [175336-flight-sims-air-cavalry-pilots.json](./175336-flight-sims-air-cavalry-pilots.json) |
 | Flight Simulation | 23062 | [23062-flight-simulation.json](./23062-flight-simulation.json) |
 | Flight Simulator | 69838 | [69838-flight-simulator.json](./69838-flight-simulator.json) |
+| Flight Simulator 0 | 102231 | [102231-flight-simulator-0.json](./102231-flight-simulator-0.json) |
 | Flight Simulator 2.0 | 50293 | [50293-flight-simulator-2-0.json](./50293-flight-simulator-2-0.json) |
 | Flight Simulator 2016 FlyWings - Collectors Edition | 90803 | [90803-flight-simulator-2016-flywings-collectors-edition.json](./90803-flight-simulator-2016-flywings-collectors-edition.json) |
 | Flight Simulator 2025 | 371411 | [371411-flight-simulator-2025.json](./371411-flight-simulator-2025.json) |
