@@ -3049,6 +3049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Disorder | 255467 | [255467-team-disorder.json](./255467-team-disorder.json) |
 | Team DK BMX | 206612 | [206612-team-dk-bmx.json](./206612-team-dk-bmx.json) |
 | Team F1 | 386525 | [386525-team-f1.json](./386525-team-f1.json) |
+| Team Factor | 93080 | [93080-team-factor.json](./93080-team-factor.json) |
 | Team Five | 258327 | [258327-team-five.json](./258327-team-five.json) |
 | Team Force 2 | 203535 | [203535-team-force-2.json](./203535-team-force-2.json) |
 | Team Fortaleza 2 Mobile | 238951 | [238951-team-fortaleza-2-mobile.json](./238951-team-fortaleza-2-mobile.json) |
@@ -9173,6 +9174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Entity | 101331 | [101331-the-entity.json](./101331-the-entity.json) |
 | The Entity Within | 239492 | [239492-the-entity-within.json](./239492-the-entity-within.json) |
 | The Entity: Returning Home | 170366 | [170366-the-entity-returning-home.json](./170366-the-entity-returning-home.json) |
+| The Entrepreneur | 92753 | [92753-the-entrepreneur.json](./92753-the-entrepreneur.json) |
 | The Entropy Centre | 204543 | [204543-the-entropy-centre.json](./204543-the-entropy-centre.json) |
 | The Envolution of Wandaland | 254137 | [254137-the-envolution-of-wandaland.json](./254137-the-envolution-of-wandaland.json) |
 | The Epic | 153869 | [153869-the-epic.json](./153869-the-epic.json) |
@@ -10413,6 +10415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Golf Club 2019 featuring PGA Tour | 91128 | [91128-the-golf-club-2019-featuring-pga-tour.json](./91128-the-golf-club-2019-featuring-pga-tour.json) |
 | The Golf Club VR | 27545 | [27545-the-golf-club-vr.json](./27545-the-golf-club-vr.json) |
 | The Golf Pro | 85914 | [85914-the-golf-pro.json](./85914-the-golf-pro.json) |
+| The Golf Pro 2 | 93083 | [93083-the-golf-pro-2.json](./93083-the-golf-pro-2.json) |
 | The Golf: Bishoujo Classic | 41309 | [41309-the-golf-bishoujo-classic.json](./41309-the-golf-bishoujo-classic.json) |
 | The Good Book VN | 404592 | [404592-the-good-book-vn.json](./404592-the-good-book-vn.json) |
 | The Good Chicken | 220673 | [220673-the-good-chicken.json](./220673-the-good-chicken.json) |
@@ -18887,6 +18890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Valley of the Architects | 282039 | [282039-the-valley-of-the-architects.json](./282039-the-valley-of-the-architects.json) |
 | The Vamp | 254552 | [254552-the-vamp.json](./254552-the-vamp.json) |
 | The Vampire | 292250 | [292250-the-vampire.json](./292250-the-vampire.json) |
+| The Vampire Diaries | 93100 | [93100-the-vampire-diaries.json](./93100-the-vampire-diaries.json) |
 | The Vampire Lord of Valea Noapte | 179519 | [179519-the-vampire-lord-of-valea-noapte.json](./179519-the-vampire-lord-of-valea-noapte.json) |
 | The Vampire Regent | 167537 | [167537-the-vampire-regent.json](./167537-the-vampire-regent.json) |
 | The Vampire's Bride: A Bride Who Gets Married to Vampdoll | 334894 | [334894-the-vampires-bride-a-bride-who-gets-married-to-vampdoll.json](./334894-the-vampires-bride-a-bride-who-gets-married-to-vampdoll.json) |
@@ -25098,6 +25102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toing's Pops 2 | 285434 | [285434-toings-pops-2.json](./285434-toings-pops-2.json) |
 | Toite Susunde! Nazo Toki Castle | 222454 | [222454-toite-susunde-nazo-toki-castle.json](./222454-toite-susunde-nazo-toki-castle.json) |
 | ToiTony | 272277 | [272277-toitony.json](./272277-toitony.json) |
+| ToJam Thing | 92746 | [92746-tojam-thing.json](./92746-tojam-thing.json) |
 | Toji no Miko: Kizamishi Issen no Tomoshibi | 68382 | [68382-toji-no-miko-kizamishi-issen-no-tomoshibi.json](./68382-toji-no-miko-kizamishi-issen-no-tomoshibi.json) |
 | Tojibo | 373101 | [373101-tojibo.json](./373101-tojibo.json) |
 | Tok 2 | 116338 | [116338-tok-2.json](./116338-tok-2.json) |
@@ -29661,6 +29666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trains | 179453 | [179453-trains.json](./179453-trains.json) |
 | Trains | 95443 | [95443-trains.json](./95443-trains.json) |
 | Trains & Things | 105314 | [105314-trains-and-things.json](./105314-trains-and-things.json) |
+| Trains and Trucks Tycoon | 92748 | [92748-trains-and-trucks-tycoon.json](./92748-trains-and-trucks-tycoon.json) |
 | Trains Girl Locomotion | 184798 | [184798-trains-girl-locomotion.json](./184798-trains-girl-locomotion.json) |
 | Trains of the Orient | 109371 | [109371-trains-of-the-orient.json](./109371-trains-of-the-orient.json) |
 | Trains VR | 69456 | [69456-trains-vr.json](./69456-trains-vr.json) |
@@ -31357,6 +31363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tremor | 410866 | [410866-tremor.json](./410866-tremor.json) |
 | Tremor: Part I - Genesis | 313162 | [313162-tremor-part-i-genesis.json](./313162-tremor-part-i-genesis.json) |
 | Tremors: The Game | 127959 | [127959-tremors-the-game.json](./127959-tremors-the-game.json) |
+| Tremulous | 93105 | [93105-tremulous.json](./93105-tremulous.json) |
 | Tren | 344455 | [344455-tren.json](./344455-tren.json) |
 | Tren0 | 81974 | [81974-tren0.json](./81974-tren0.json) |
 | Trench Assault | 115195 | [115195-trench-assault.json](./115195-trench-assault.json) |
