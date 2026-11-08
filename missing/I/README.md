@@ -3943,7 +3943,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4136,6 +4135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inflation RPG | 208481 | [208481-inflation-rpg.json](./208481-inflation-rpg.json) |
 | Inflatum | 295879 | [295879-inflatum.json](./295879-inflatum.json) |
 | Infliction | 55282 | [55282-infliction.json](./55282-infliction.json) |
+| Infliction: Extended Cut | 132969 | [132969-infliction-extended-cut.json](./132969-infliction-extended-cut.json) |
 | Inflorescences | 249217 | [249217-inflorescences.json](./249217-inflorescences.json) |
 | Influence | 186525 | [186525-influence.json](./186525-influence.json) |
 | Influence | 210032 | [210032-influence.json](./210032-influence.json) |
