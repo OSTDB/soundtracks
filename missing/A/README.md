@@ -2392,6 +2392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Fatal Fury Special | 99742 | [99742-aca-neo-geo-fatal-fury-special.json](./99742-aca-neo-geo-fatal-fury-special.json) |
 | ACA Neo Geo: Football frenzy | 118543 | [118543-aca-neo-geo-football-frenzy.json](./118543-aca-neo-geo-football-frenzy.json) |
 | ACA Neo Geo: Galaxy Fight - Universal Warriors | 99747 | [99747-aca-neo-geo-galaxy-fight-universal-warriors.json](./99747-aca-neo-geo-galaxy-fight-universal-warriors.json) |
+| ACA Neo Geo: Garou - Mark of the Wolves | 118541 | [118541-aca-neo-geo-garou-mark-of-the-wolves.json](./118541-aca-neo-geo-garou-mark-of-the-wolves.json) |
 | ACA Neo Geo: Ghost Pilots | 103851 | [103851-aca-neo-geo-ghost-pilots.json](./103851-aca-neo-geo-ghost-pilots.json) |
 | ACA Neo Geo: Gururin | 103849 | [103849-aca-neo-geo-gururin.json](./103849-aca-neo-geo-gururin.json) |
 | ACA Neo Geo: King of the Monsters | 99492 | [99492-aca-neo-geo-king-of-the-monsters.json](./99492-aca-neo-geo-king-of-the-monsters.json) |
@@ -2447,11 +2448,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: The King of Fighters '96 | 99496 | [99496-aca-neo-geo-the-king-of-fighters-96.json](./99496-aca-neo-geo-the-king-of-fighters-96.json) |
 | ACA Neo Geo: The King of Fighters '97 | 83769 | [83769-aca-neo-geo-the-king-of-fighters-97.json](./83769-aca-neo-geo-the-king-of-fighters-97.json) |
 | ACA Neo Geo: The King of Fighters '98 | 88907 | [88907-aca-neo-geo-the-king-of-fighters-98.json](./88907-aca-neo-geo-the-king-of-fighters-98.json) |
+| ACA Neo Geo: The King of Fighters 2002 | 118497 | [118497-aca-neo-geo-the-king-of-fighters-2002.json](./118497-aca-neo-geo-the-king-of-fighters-2002.json) |
 | ACA Neo Geo: The King of Fighters 2003 | 115445 | [115445-aca-neo-geo-the-king-of-fighters-2003.json](./115445-aca-neo-geo-the-king-of-fighters-2003.json) |
 | ACA Neo Geo: The Last Blade | 99507 | [99507-aca-neo-geo-the-last-blade.json](./99507-aca-neo-geo-the-last-blade.json) |
 | ACA Neo Geo: The Last Blade 2 | 90517 | [90517-aca-neo-geo-the-last-blade-2.json](./90517-aca-neo-geo-the-last-blade-2.json) |
 | ACA Neo Geo: The Super Spy | 105122 | [105122-aca-neo-geo-the-super-spy.json](./105122-aca-neo-geo-the-super-spy.json) |
 | ACA Neo Geo: The Ultimate 11 - SNK Football Championship | 115665 | [115665-aca-neo-geo-the-ultimate-11-snk-football-championship.json](./115665-aca-neo-geo-the-ultimate-11-snk-football-championship.json) |
+| ACA Neo Geo: Top Player's Golf | 118542 | [118542-aca-neo-geo-top-players-golf.json](./118542-aca-neo-geo-top-players-golf.json) |
 | ACA Neo Geo: Twinkle Star Sprites | 113209 | [113209-aca-neo-geo-twinkle-star-sprites.json](./113209-aca-neo-geo-twinkle-star-sprites.json) |
 | ACA Neo Geo: Waku Waku 7 | 28416 | [28416-aca-neo-geo-waku-waku-7.json](./28416-aca-neo-geo-waku-waku-7.json) |
 | ACA Neo Geo: World Heroes | 76578 | [76578-aca-neo-geo-world-heroes.json](./76578-aca-neo-geo-world-heroes.json) |
@@ -14429,6 +14432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Factory | 425843 | [425843-army-factory.json](./425843-army-factory.json) |
 | Army Gals | 34023 | [34023-army-gals.json](./34023-army-gals.json) |
 | Army Gals: The Poker Game | 171582 | [171582-army-gals-the-poker-game.json](./171582-army-gals-the-poker-game.json) |
+| Army Men | 118488 | [118488-army-men.json](./118488-army-men.json) |
 | Army Men | 26819 | [26819-army-men.json](./26819-army-men.json) |
 | Army Men 3D | 22833 | [22833-army-men-3d.json](./22833-army-men-3d.json) |
 | Army Men Battle Simulator | 351039 | [351039-army-men-battle-simulator.json](./351039-army-men-battle-simulator.json) |
@@ -15187,6 +15191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ash and Tor: Yuma's Quest | 276265 | [276265-ash-and-tor-yumas-quest.json](./276265-ash-and-tor-yumas-quest.json) |
 | Ash Arms | 180283 | [180283-ash-arms.json](./180283-ash-arms.json) |
 | Ash Arms 2: The Darkside of the Moon | 396684 | [396684-ash-arms-2-the-darkside-of-the-moon.json](./396684-ash-arms-2-the-darkside-of-the-moon.json) |
+| Ash Asylum | 118489 | [118489-ash-asylum.json](./118489-ash-asylum.json) |
 | Ash Battle | 214048 | [214048-ash-battle.json](./214048-ash-battle.json) |
 | Ash Echoes | 282391 | [282391-ash-echoes.json](./282391-ash-echoes.json) |
 | Ash Echoes | 376880 | [376880-ash-echoes.json](./376880-ash-echoes.json) |
@@ -16984,6 +16989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
