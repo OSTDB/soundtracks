@@ -7177,6 +7177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Case of the World between Worlds | 399665 | [399665-the-case-of-the-world-between-worlds.json](./399665-the-case-of-the-world-between-worlds.json) |
 | The Case of the Worst Day Ever | 325346 | [325346-the-case-of-the-worst-day-ever.json](./325346-the-case-of-the-worst-day-ever.json) |
 | The Case of Theo | 352510 | [352510-the-case-of-theo.json](./352510-the-case-of-theo.json) |
+| The Casebook of Arkady Smith | 132358 | [132358-the-casebook-of-arkady-smith.json](./132358-the-casebook-of-arkady-smith.json) |
 | The Casebook of Terry Winter | 53707 | [53707-the-casebook-of-terry-winter.json](./53707-the-casebook-of-terry-winter.json) |
 | The Cases of the Thousands Shogi Records | 122350 | [122350-the-cases-of-the-thousands-shogi-records.json](./122350-the-cases-of-the-thousands-shogi-records.json) |
 | The Casino Collection: Ruleta, Vídeo Póker, Tragaperras, Craps, Baccarat, Five-Card Draw Poker, Texas hold 'em, Blackjack and Page One | 164725 | [164725-the-casino-collection-ruleta-video-poker-tragaperras-craps-baccarat-five-card-draw-poker-texas-hold-em-blackjack-and-page-one.json](./164725-the-casino-collection-ruleta-video-poker-tragaperras-craps-baccarat-five-card-draw-poker-texas-hold-em-blackjack-and-page-one.json) |
@@ -14478,6 +14479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Night Gym | 366333 | [366333-the-night-gym.json](./366333-the-night-gym.json) |
 | The Night Heist | 285610 | [285610-the-night-heist.json](./285610-the-night-heist.json) |
 | The Night is Darkening | 174573 | [174573-the-night-is-darkening.json](./174573-the-night-is-darkening.json) |
+| The Night is Grey | 132340 | [132340-the-night-is-grey.json](./132340-the-night-is-grey.json) |
 | The Night Is Long | 350010 | [350010-the-night-is-long.json](./350010-the-night-is-long.json) |
 | The Night Jackals Vol. 1 | 289975 | [289975-the-night-jackals-vol-1.json](./289975-the-night-jackals-vol-1.json) |
 | The Night Job: Hotel | 379402 | [379402-the-night-job-hotel.json](./379402-the-night-job-hotel.json) |
@@ -15375,6 +15377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Problem With Golf | 330156 | [330156-the-problem-with-golf.json](./330156-the-problem-with-golf.json) |
 | The Problems Compound | 59677 | [59677-the-problems-compound.json](./59677-the-problems-compound.json) |
 | The Procession to Calvary | 106985 | [106985-the-procession-to-calvary.json](./106985-the-procession-to-calvary.json) |
+| The Prodigal Soul | 132343 | [132343-the-prodigal-soul.json](./132343-the-prodigal-soul.json) |
 | The Profaned | 406314 | [406314-the-profaned.json](./406314-the-profaned.json) |
 | The Professional | 229886 | [229886-the-professional.json](./229886-the-professional.json) |
 | The Professional (Farming & Forestry) | 138082 | [138082-the-professional-farming-and-forestry.json](./138082-the-professional-farming-and-forestry.json) |
@@ -23645,6 +23648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timothy vs. the Aliens | 84108 | [84108-timothy-vs-the-aliens.json](./84108-timothy-vs-the-aliens.json) |
 | Timothy: Shinpi no Mori | 189132 | [189132-timothy-shinpi-no-mori.json](./189132-timothy-shinpi-no-mori.json) |
 | Timothy's Night | 165303 | [165303-timothys-night.json](./165303-timothys-night.json) |
+| Timpu's Treasure | 132373 | [132373-timpus-treasure.json](./132373-timpus-treasure.json) |
 | Timruk | 191816 | [191816-timruk.json](./191816-timruk.json) |
 | Tims Word Challenge | 406241 | [406241-tims-word-challenge.json](./406241-tims-word-challenge.json) |
 | Timun Mas and Green Giants | 101095 | [101095-timun-mas-and-green-giants.json](./101095-timun-mas-and-green-giants.json) |
