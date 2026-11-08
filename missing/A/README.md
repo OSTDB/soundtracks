@@ -880,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Moth Batters Against Glass | 138962 | [138962-a-moth-batters-against-glass.json](./138962-a-moth-batters-against-glass.json) |
 | A Mountain Called Hope | 407748 | [407748-a-mountain-called-hope.json](./407748-a-mountain-called-hope.json) |
 | A Mountain of One | 240040 | [240040-a-mountain-of-one.json](./240040-a-mountain-of-one.json) |
+| A Moustache in the House | 128117 | [128117-a-moustache-in-the-house.json](./128117-a-moustache-in-the-house.json) |
 | A Murder in Fairyland | 140176 | [140176-a-murder-in-fairyland.json](./140176-a-murder-in-fairyland.json) |
 | A Murder of Crows | 261846 | [261846-a-murder-of-crows.json](./261846-a-murder-of-crows.json) |
 | A Murder of Scarecrows | 138973 | [138973-a-murder-of-scarecrows.json](./138973-a-murder-of-scarecrows.json) |
@@ -1037,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Playground Afternoon | 402490 | [402490-a-playground-afternoon.json](./402490-a-playground-afternoon.json) |
 | A Plot Story | 59243 | [59243-a-plot-story.json](./59243-a-plot-story.json) |
 | A Plumber for All Seasons | 204718 | [204718-a-plumber-for-all-seasons.json](./204718-a-plumber-for-all-seasons.json) |
+| A Plunge into Darkness | 128100 | [128100-a-plunge-into-darkness.json](./128100-a-plunge-into-darkness.json) |
 | A Pocket Full of Slagford | 404950 | [404950-a-pocket-full-of-slagford.json](./404950-a-pocket-full-of-slagford.json) |
 | A Pointless Adventure | 213346 | [213346-a-pointless-adventure.json](./213346-a-pointless-adventure.json) |
 | A ponte | 231208 | [231208-a-ponte.json](./231208-a-ponte.json) |
@@ -9966,6 +9968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Dad | 189869 | [189869-angry-dad.json](./189869-angry-dad.json) |
 | Angry Dog | 399631 | [399631-angry-dog.json](./399631-angry-dog.json) |
 | Angry Emoji the Game | 169927 | [169927-angry-emoji-the-game.json](./169927-angry-emoji-the-game.json) |
+| Angry food | 128121 | [128121-angry-food.json](./128121-angry-food.json) |
 | Angry Fugu | 144993 | [144993-angry-fugu.json](./144993-angry-fugu.json) |
 | Angry Giant | 159979 | [159979-angry-giant.json](./159979-angry-giant.json) |
 | Angry Girl | 120821 | [120821-angry-girl.json](./120821-angry-girl.json) |
