@@ -5530,6 +5530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sky | 333897 | [333897-deep-sky.json](./333897-deep-sky.json) |
 | Deep Sky Derelicts | 54793 | [54793-deep-sky-derelicts.json](./54793-deep-sky-derelicts.json) |
 | Deep Sky Derelicts: Definitive Edition | 131855 | [131855-deep-sky-derelicts-definitive-edition.json](./131855-deep-sky-derelicts-definitive-edition.json) |
+| Deep Sky Derelicts: New Prospects | 119922 | [119922-deep-sky-derelicts-new-prospects.json](./119922-deep-sky-derelicts-new-prospects.json) |
 | Deep Sky Derelicts: Station Life | 154419 | [154419-deep-sky-derelicts-station-life.json](./154419-deep-sky-derelicts-station-life.json) |
 | Deep Sleep | 185125 | [185125-deep-sleep.json](./185125-deep-sleep.json) |
 | Deep Sleep | 275944 | [275944-deep-sleep.json](./275944-deep-sleep.json) |
@@ -11197,6 +11198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dive The Depths | 285021 | [285021-dive-the-depths.json](./285021-dive-the-depths.json) |
 | Dive to the Abyssal Void | 235404 | [235404-dive-to-the-abyssal-void.json](./235404-dive-to-the-abyssal-void.json) |
 | Dive to the Titanic | 16206 | [16206-dive-to-the-titanic.json](./16206-dive-to-the-titanic.json) |
+| Dive with Sylvia VR | 119870 | [119870-dive-with-sylvia-vr.json](./119870-dive-with-sylvia-vr.json) |
 | Dive: Starpath | 83941 | [83941-dive-starpath.json](./83941-dive-starpath.json) |
 | Dive: The Conquest of Silver Eye | 72538 | [72538-dive-the-conquest-of-silver-eye.json](./72538-dive-the-conquest-of-silver-eye.json) |
 | Dive: The Medes Islands Secret | 50723 | [50723-dive-the-medes-islands-secret.json](./50723-dive-the-medes-islands-secret.json) |
@@ -13232,6 +13234,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Derby | 138895 | [138895-doodle-derby.json](./138895-doodle-derby.json) |
 | Doodle Destroy | 343619 | [343619-doodle-destroy.json](./343619-doodle-destroy.json) |
 | Doodle Devil | 29131 | [29131-doodle-devil.json](./29131-doodle-devil.json) |
+| Doodle Devil & Alien Shooter | 119917 | [119917-doodle-devil-and-alien-shooter.json](./119917-doodle-devil-and-alien-shooter.json) |
+| Doodle Devil & Portal of Evil: Stolen Runes | 119919 | [119919-doodle-devil-and-portal-of-evil-stolen-runes.json](./119919-doodle-devil-and-portal-of-evil-stolen-runes.json) |
 | Doodle Devil HD | 103125 | [103125-doodle-devil-hd.json](./103125-doodle-devil-hd.json) |
 | Doodle Devil: 3volution | 147737 | [147737-doodle-devil-3volution.json](./147737-doodle-devil-3volution.json) |
 | Doodle Devil: 3volution - Puzzles & Quests | 204290 | [204290-doodle-devil-3volution-puzzles-and-quests.json](./204290-doodle-devil-3volution-puzzles-and-quests.json) |
@@ -13488,6 +13492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DOOM: Day One Edition | 136168 | [136168-doom-day-one-edition.json](./136168-doom-day-one-edition.json) |
 | DOOM: Enhanced Vanilla Project | 199416 | [199416-doom-enhanced-vanilla-project.json](./199416-doom-enhanced-vanilla-project.json) |
 | Doom: Eternal - Collector's Edition | 119312 | [119312-doom-eternal-collectors-edition.json](./119312-doom-eternal-collectors-edition.json) |
+| Doom: Eternal - Deluxe Edition | 119888 | [119888-doom-eternal-deluxe-edition.json](./119888-doom-eternal-deluxe-edition.json) |
 | DooM: Fall of Mars | 331655 | [331655-doom-fall-of-mars.json](./331655-doom-fall-of-mars.json) |
 | Doom: Hell Followed | 25571 | [25571-doom-hell-followed.json](./25571-doom-hell-followed.json) |
 | DooM: Infernal Attack | 198352 | [198352-doom-infernal-attack.json](./198352-doom-infernal-attack.json) |
