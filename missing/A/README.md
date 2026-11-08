@@ -503,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Gay Dragon | 114634 | [114634-a-gay-dragon.json](./114634-a-gay-dragon.json) |
 | A Gay Love Story About Gay Love | 158674 | [158674-a-gay-love-story-about-gay-love.json](./158674-a-gay-love-story-about-gay-love.json) |
 | A Gay's Life | 129939 | [129939-a-gays-life.json](./129939-a-gays-life.json) |
+| A Gentlemanly Adventure | 104844 | [104844-a-gentlemanly-adventure.json](./104844-a-gentlemanly-adventure.json) |
 | A Ghost Journey | 373811 | [373811-a-ghost-journey.json](./373811-a-ghost-journey.json) |
 | A Ghost Party | 307744 | [307744-a-ghost-party.json](./307744-a-ghost-party.json) |
 | A Ghost Porno Page By Page | 300821 | [300821-a-ghost-porno-page-by-page.json](./300821-a-ghost-porno-page-by-page.json) |
@@ -4708,6 +4709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Chaos | 231979 | [231979-age-of-chaos.json](./231979-age-of-chaos.json) |
 | Age of Chaos: Legends | 193934 | [193934-age-of-chaos-legends.json](./193934-age-of-chaos-legends.json) |
 | Age of Chivalry | 18910 | [18910-age-of-chivalry.json](./18910-age-of-chivalry.json) |
+| Age of Civs | 104773 | [104773-age-of-civs.json](./104773-age-of-civs.json) |
 | Age of Clicks | 412397 | [412397-age-of-clicks.json](./412397-age-of-clicks.json) |
 | Age of Conan: Rise of the Godslayer | 588 | [588-age-of-conan-rise-of-the-godslayer.json](./588-age-of-conan-rise-of-the-godslayer.json) |
 | Age of Conan: Secrets of Dragon's Spine | 27653 | [27653-age-of-conan-secrets-of-dragons-spine.json](./27653-age-of-conan-secrets-of-dragons-spine.json) |
@@ -11410,6 +11412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antipole DX | 60519 | [60519-antipole-dx.json](./60519-antipole-dx.json) |
 | Antiprism | 151831 | [151831-antiprism.json](./151831-antiprism.json) |
 | Antipsychotic | 261682 | [261682-antipsychotic.json](./261682-antipsychotic.json) |
+| Antiquaria Find Hidden Object | 104744 | [104744-antiquaria-find-hidden-object.json](./104744-antiquaria-find-hidden-object.json) |
 | Antiquarium | 283917 | [283917-antiquarium.json](./283917-antiquarium.json) |
 | Antiquarium | 287645 | [287645-antiquarium.json](./287645-antiquarium.json) |
 | Antique Backgammon | 399621 | [399621-antique-backgammon.json](./399621-antique-backgammon.json) |
