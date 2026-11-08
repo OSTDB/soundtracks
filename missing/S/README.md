@@ -2384,6 +2384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Save Halloween: City of Witches | 33915 | [33915-save-halloween-city-of-witches.json](./33915-save-halloween-city-of-witches.json) |
 | Save Her From the Zombies! | 213161 | [213161-save-her-from-the-zombies.json](./213161-save-her-from-the-zombies.json) |
 | Save her, from dreams | 99129 | [99129-save-her-from-dreams.json](./99129-save-her-from-dreams.json) |
+| Save her, from dreams | 99275 | [99275-save-her-from-dreams.json](./99275-save-her-from-dreams.json) |
 | Save Home | 31175 | [31175-save-home.json](./31175-save-home.json) |
 | Save HomeWorld | 110370 | [110370-save-homeworld.json](./110370-save-homeworld.json) |
 | Save Humanity.exe | 405534 | [405534-save-humanity-exe.json](./405534-save-humanity-exe.json) |
@@ -25523,6 +25524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starcatcher | 228094 | [228094-starcatcher.json](./228094-starcatcher.json) |
 | Starcatcher | 348208 | [348208-starcatcher.json](./348208-starcatcher.json) |
 | Starcatcher | 86630 | [86630-starcatcher.json](./86630-starcatcher.json) |
+| Starcats | 99283 | [99283-starcats.json](./99283-starcats.json) |
 | Starch | 91942 | [91942-starch.json](./91942-starch.json) |
 | Starchaser: Priestess of the Night Sky | 35363 | [35363-starchaser-priestess-of-the-night-sky.json](./35363-starchaser-priestess-of-the-night-sky.json) |
 | Starchild Velta and loadtosky | 196972 | [196972-starchild-velta-and-loadtosky.json](./196972-starchild-velta-and-loadtosky.json) |
@@ -27505,6 +27507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman: Fidget Spinner Rush | 95641 | [95641-stickman-fidget-spinner-rush.json](./95641-stickman-fidget-spinner-rush.json) |
 | Stickman: Kill the Cook | 214056 | [214056-stickman-kill-the-cook.json](./214056-stickman-kill-the-cook.json) |
 | Stickman: Waves Of Doom | 378533 | [378533-stickman-waves-of-doom.json](./378533-stickman-waves-of-doom.json) |
+| Stickman.io | 99678 | [99678-stickman-io.json](./99678-stickman-io.json) |
 | Stickman's Arena | 220862 | [220862-stickmans-arena.json](./220862-stickmans-arena.json) |
 | Stickman's Rainbow | 117125 | [117125-stickmans-rainbow.json](./117125-stickmans-rainbow.json) |
 | Stickman's Rainbow | 117127 | [117127-stickmans-rainbow.json](./117127-stickmans-rainbow.json) |
@@ -30022,6 +30025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudden Attack Zero Point | 366242 | [366242-sudden-attack-zero-point.json](./366242-sudden-attack-zero-point.json) |
 | Sudden Death | 299079 | [299079-sudden-death.json](./299079-sudden-death.json) |
 | Sudden Death Air Hockey | 197633 | [197633-sudden-death-air-hockey.json](./197633-sudden-death-air-hockey.json) |
+| Sudden Death Soccer | 99278 | [99278-sudden-death-soccer.json](./99278-sudden-death-soccer.json) |
 | Sudden Market | 228055 | [228055-sudden-market.json](./228055-sudden-market.json) |
 | Sudden Market: Free Cosmetic DLC | 286982 | [286982-sudden-market-free-cosmetic-dlc.json](./286982-sudden-market-free-cosmetic-dlc.json) |
 | Sudden Soul | 325335 | [325335-sudden-soul.json](./325335-sudden-soul.json) |
@@ -31913,6 +31917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Gracie World | 328327 | [328327-super-gracie-world.json](./328327-super-gracie-world.json) |
 | Super Grand Prix | 15381 | [15381-super-grand-prix.json](./15381-super-grand-prix.json) |
 | Super Granny | 7502 | [7502-super-granny.json](./7502-super-granny.json) |
+| Super Granny - Eight Bit 2D Platform Game | 99277 | [99277-super-granny-eight-bit-2d-platform-game.json](./99277-super-granny-eight-bit-2d-platform-game.json) |
 | Super Granny 2: Granny in Paradise | 7523 | [7523-super-granny-2-granny-in-paradise.json](./7523-super-granny-2-granny-in-paradise.json) |
 | Super Granny 3 | 7524 | [7524-super-granny-3.json](./7524-super-granny-3.json) |
 | Super Granny 4 | 7525 | [7525-super-granny-4.json](./7525-super-granny-4.json) |
@@ -35164,6 +35169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive: The King Killer | 86588 | [86588-survive-the-king-killer.json](./86588-survive-the-king-killer.json) |
 | Survive: The Lost Lands | 219899 | [219899-survive-the-lost-lands.json](./219899-survive-the-lost-lands.json) |
 | Survive! Mola mola! | 151640 | [151640-survive-mola-mola.json](./151640-survive-mola-mola.json) |
+| Survive! Mr. Cube | 99298 | [99298-survive-mr-cube.json](./99298-survive-mr-cube.json) |
 | Survive.io Battle Ground | 100139 | [100139-survive-io-battle-ground.json](./100139-survive-io-battle-ground.json) |
 | Survived | 126811 | [126811-survived.json](./126811-survived.json) |
 | Survived | 151052 | [151052-survived.json](./151052-survived.json) |
