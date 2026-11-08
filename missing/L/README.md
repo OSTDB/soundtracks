@@ -4057,7 +4057,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal Weapon | 306182 | [306182-lethal-weapon.json](./306182-lethal-weapon.json) |
 | Lethal Weapon | 306183 | [306183-lethal-weapon.json](./306183-lethal-weapon.json) |
 | Lethal Weapon | 306185 | [306185-lethal-weapon.json](./306185-lethal-weapon.json) |
-| Lethal Weapon | 39024 | [39024-lethal-weapon.json](./39024-lethal-weapon.json) |
 | Lethal Wedding | 123207 | [123207-lethal-wedding.json](./123207-lethal-wedding.json) |
 | Lethal Women: World of Femdom and Espionage | 340913 | [340913-lethal-women-world-of-femdom-and-espionage.json](./340913-lethal-women-world-of-femdom-and-espionage.json) |
 | Lethal Xcess | 15249 | [15249-lethal-xcess.json](./15249-lethal-xcess.json) |
@@ -4084,6 +4083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lets Castle | 317559 | [317559-lets-castle.json](./317559-lets-castle.json) |
 | Lets Get Loot | 331988 | [331988-lets-get-loot.json](./331988-lets-get-loot.json) |
 | Lets Go Champ | 60539 | [60539-lets-go-champ.json](./60539-lets-go-champ.json) |
+| Lets Jump | 108575 | [108575-lets-jump.json](./108575-lets-jump.json) |
 | Lets Nuke Mars | 343224 | [343224-lets-nuke-mars.json](./343224-lets-nuke-mars.json) |
 | Lets Play Bingo | 87271 | [87271-lets-play-bingo.json](./87271-lets-play-bingo.json) |
 | Lets Ride Corral Club | 24709 | [24709-lets-ride-corral-club.json](./24709-lets-ride-corral-club.json) |
@@ -7440,7 +7440,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Long Drive North | 320382 | [320382-long-drive-north.json](./320382-long-drive-north.json) |
 | Long Drop | 204176 | [204176-long-drop.json](./204176-long-drop.json) |
 | Long Gone | 216609 | [216609-long-gone.json](./216609-long-gone.json) |
-| Long Gone Days | 31820 | [31820-long-gone-days.json](./31820-long-gone-days.json) |
 | Long Hike with a Cute Girl | 277103 | [277103-long-hike-with-a-cute-girl.json](./277103-long-hike-with-a-cute-girl.json) |
 | Lóng Hún Dàmàoxiǎn | 367129 | [367129-long-hun-damaoxian.json](./367129-long-hun-damaoxian.json) |
 | Long Hun Shi Ke | 90619 | [90619-long-hun-shi-ke.json](./90619-long-hun-shi-ke.json) |
