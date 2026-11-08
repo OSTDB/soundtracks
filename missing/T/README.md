@@ -7735,6 +7735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Count of Monte Clicker | 339082 | [339082-the-count-of-monte-clicker.json](./339082-the-count-of-monte-clicker.json) |
 | The Count of Monte Cristo | 207123 | [207123-the-count-of-monte-cristo.json](./207123-the-count-of-monte-cristo.json) |
 | The Counter Gambit | 379037 | [379037-the-counter-gambit.json](./379037-the-counter-gambit.json) |
+| The Counterattack of Sacrifice | 117230 | [117230-the-counterattack-of-sacrifice.json](./117230-the-counterattack-of-sacrifice.json) |
 | The Counting Kingdom | 17435 | [17435-the-counting-kingdom.json](./17435-the-counting-kingdom.json) |
 | The Courage of Cordelia | 332310 | [332310-the-courage-of-cordelia.json](./332310-the-courage-of-cordelia.json) |
 | The Courage to be Disliked | 294967 | [294967-the-courage-to-be-disliked.json](./294967-the-courage-to-be-disliked.json) |
@@ -8963,6 +8964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Electrifying Incident: A Monster Mini-Expedition | 332922 | [332922-the-electrifying-incident-a-monster-mini-expedition.json](./332922-the-electrifying-incident-a-monster-mini-expedition.json) |
 | The Elektra Complex | 280901 | [280901-the-elektra-complex.json](./280901-the-elektra-complex.json) |
 | The Elemental Heart | 116725 | [116725-the-elemental-heart.json](./116725-the-elemental-heart.json) |
+| The Elementalist | 117225 | [117225-the-elementalist.json](./117225-the-elementalist.json) |
 | The Elementalist Typing | 347183 | [347183-the-elementalist-typing.json](./347183-the-elementalist-typing.json) |
 | The Elementalists | 313741 | [313741-the-elementalists.json](./313741-the-elementalists.json) |
 | The Elementalists 2 | 313742 | [313742-the-elementalists-2.json](./313742-the-elementalists-2.json) |
@@ -14591,6 +14593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nihil War | 224696 | [224696-the-nihil-war.json](./224696-the-nihil-war.json) |
 | The Nile God | 318719 | [318719-the-nile-god.json](./318719-the-nile-god.json) |
 | The Nine | 89045 | [89045-the-nine.json](./89045-the-nine.json) |
+| The Nine Lives of Nim: Fortune's Fool | 117239 | [117239-the-nine-lives-of-nim-fortunes-fool.json](./117239-the-nine-lives-of-nim-fortunes-fool.json) |
 | The Nine Rebirths | 326291 | [326291-the-nine-rebirths.json](./326291-the-nine-rebirths.json) |
 | The Nine Tailed Celestial Fox | 304548 | [304548-the-nine-tailed-celestial-fox.json](./304548-the-nine-tailed-celestial-fox.json) |
 | The Ninja | 12889 | [12889-the-ninja.json](./12889-the-ninja.json) |
@@ -20065,6 +20068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | These Doomed Isles | 217269 | [217269-these-doomed-isles.json](./217269-these-doomed-isles.json) |
 | These Doomed Isles: The First God | 244276 | [244276-these-doomed-isles-the-first-god.json](./244276-these-doomed-isles-the-first-god.json) |
 | These Heavenly Bodies | 315193 | [315193-these-heavenly-bodies.json](./315193-these-heavenly-bodies.json) |
+| These Lands | 117221 | [117221-these-lands.json](./117221-these-lands.json) |
 | These Little Pigs | 397529 | [397529-these-little-pigs.json](./397529-these-little-pigs.json) |
 | These Nights Alone | 156071 | [156071-these-nights-alone.json](./156071-these-nights-alone.json) |
 | These nights in Cairo | 74688 | [74688-these-nights-in-cairo.json](./74688-these-nights-in-cairo.json) |
@@ -23285,6 +23289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Bokan Series: Bokan Desuyo | 43759 | [43759-time-bokan-series-bokan-desuyo.json](./43759-time-bokan-series-bokan-desuyo.json) |
 | Time Bokan Series: Bokan to Ippatsu! Doronbo | 43764 | [43764-time-bokan-series-bokan-to-ippatsu-doronbo.json](./43764-time-bokan-series-bokan-to-ippatsu-doronbo.json) |
 | Time Bomb Race | 259689 | [259689-time-bomb-race.json](./259689-time-bomb-race.json) |
+| Time Break | 117244 | [117244-time-break.json](./117244-time-break.json) |
 | Time Break 2121 | 121464 | [121464-time-break-2121.json](./121464-time-break-2121.json) |
 | Time Break Chronicles | 138400 | [138400-time-break-chronicles.json](./138400-time-break-chronicles.json) |
 | Time Breaker | 256666 | [256666-time-breaker.json](./256666-time-breaker.json) |
