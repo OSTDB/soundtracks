@@ -2479,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hasbro Toy Factory | 282240 | [282240-hasbro-toy-factory.json](./282240-hasbro-toy-factory.json) |
 | Hasbro's Battleship | 85991 | [85991-hasbros-battleship.json](./85991-hasbros-battleship.json) |
 | Hasegawa Nozomi | 355180 | [355180-hasegawa-nozomi.json](./355180-hasegawa-nozomi.json) |
+| Hasfax | 128119 | [128119-hasfax.json](./128119-hasfax.json) |
 | Hash Blocks | 56799 | [56799-hash-blocks.json](./56799-hash-blocks.json) |
 | Hash Line | 120402 | [120402-hash-line.json](./120402-hash-line.json) |
 | Hash Rush | 121248 | [121248-hash-rush.json](./121248-hash-rush.json) |
