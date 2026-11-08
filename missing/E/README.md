@@ -4333,6 +4333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enter the Gungeon: House of the Gundead | 119317 | [119317-enter-the-gungeon-house-of-the-gundead.json](./119317-enter-the-gungeon-house-of-the-gundead.json) |
 | Enter The Lost Chamber | 294005 | [294005-enter-the-lost-chamber.json](./294005-enter-the-lost-chamber.json) |
 | Enter the Matrix | 1003 | [1003-enter-the-matrix.json](./1003-enter-the-matrix.json) |
+| Enter the Moon | 107454 | [107454-enter-the-moon.json](./107454-enter-the-moon.json) |
 | Enter the Nemesis: Blood Portal | 346574 | [346574-enter-the-nemesis-blood-portal.json](./346574-enter-the-nemesis-blood-portal.json) |
 | Enter The Night | 271102 | [271102-enter-the-night.json](./271102-enter-the-night.json) |
 | Enter the Room | 90232 | [90232-enter-the-room.json](./90232-enter-the-room.json) |
@@ -4383,6 +4384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Entrapment | 148785 | [148785-entrapment.json](./148785-entrapment.json) |
 | Entre Laços e Amassos | 215790 | [215790-entre-lacos-e-amassos.json](./215790-entre-lacos-e-amassos.json) |
 | Entre-Deux | 99445 | [99445-entre-deux.json](./99445-entre-deux.json) |
+| Entre-Deux: Cursed | 107437 | [107437-entre-deux-cursed.json](./107437-entre-deux-cursed.json) |
 | Entre.pontos | 180413 | [180413-entre-pontos.json](./180413-entre-pontos.json) |
 | Entrenched | 257229 | [257229-entrenched.json](./257229-entrenched.json) |
 | Entrepreneurial tycoon | 236884 | [236884-entrepreneurial-tycoon.json](./236884-entrepreneurial-tycoon.json) |
@@ -8462,6 +8464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extreme Sports with the Berenstain Bears | 49932 | [49932-extreme-sports-with-the-berenstain-bears.json](./49932-extreme-sports-with-the-berenstain-bears.json) |
 | Extreme Sprint 3010 | 66948 | [66948-extreme-sprint-3010.json](./66948-extreme-sprint-3010.json) |
 | Extreme Stream Power | 150346 | [150346-extreme-stream-power.json](./150346-extreme-stream-power.json) |
+| Extreme Super Water Bike 3D | 107339 | [107339-extreme-super-water-bike-3d.json](./107339-extreme-super-water-bike-3d.json) |
 | Extreme Survival Club! | 411374 | [411374-extreme-survival-club.json](./411374-extreme-survival-club.json) |
 | Extreme Tactical Executioners | 121549 | [121549-extreme-tactical-executioners.json](./121549-extreme-tactical-executioners.json) |
 | Extreme Tactics | 71402 | [71402-extreme-tactics.json](./71402-extreme-tactics.json) |
