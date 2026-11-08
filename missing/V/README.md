@@ -2950,6 +2950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virus Jigglin' Fever | 35474 | [35474-virus-jigglin-fever.json](./35474-virus-jigglin-fever.json) |
 | VIrus Killer | 186834 | [186834-virus-killer.json](./186834-virus-killer.json) |
 | Virus Kombat | 284565 | [284565-virus-kombat.json](./284565-virus-kombat.json) |
+| Virus L | 128118 | [128118-virus-l.json](./128118-virus-l.json) |
 | Virus LQP-79 | 281244 | [281244-virus-lqp-79.json](./281244-virus-lqp-79.json) |
 | Virus Madness: Dungeons of your Body | 161373 | [161373-virus-madness-dungeons-of-your-body.json](./161373-virus-madness-dungeons-of-your-body.json) |
 | Virus ON | 160251 | [160251-virus-on.json](./160251-virus-on.json) |
@@ -3959,6 +3960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Escape the space station | 31782 | [31782-vr-escape-the-space-station.json](./31782-vr-escape-the-space-station.json) |
 | VR Europe Tour | 148258 | [148258-vr-europe-tour.json](./148258-vr-europe-tour.json) |
 | VR Fantasy | 395540 | [395540-vr-fantasy.json](./395540-vr-fantasy.json) |
+| VR Fantasy Island | 128137 | [128137-vr-fantasy-island.json](./128137-vr-fantasy-island.json) |
 | VR Fight Covid-19 | 147352 | [147352-vr-fight-covid-19.json](./147352-vr-fight-covid-19.json) |
 | VR Fighter Jets War | 157380 | [157380-vr-fighter-jets-war.json](./157380-vr-fighter-jets-war.json) |
 | VR Figure from Shining: Kirika Towa Alma | 105021 | [105021-vr-figure-from-shining-kirika-towa-alma.json](./105021-vr-figure-from-shining-kirika-towa-alma.json) |
