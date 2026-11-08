@@ -4393,6 +4393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klitter | 390473 | [390473-klitter.json](./390473-klitter.json) |
 | Klix 2 | 77037 | [77037-klix-2.json](./77037-klix-2.json) |
 | Kloa: Child of the Forest | 209916 | [209916-kloa-child-of-the-forest.json](./209916-kloa-child-of-the-forest.json) |
+| Klock | 126709 | [126709-klock.json](./126709-klock.json) |
 | Klocki | 20472 | [20472-klocki.json](./20472-klocki.json) |
 | Kloinks! | 335051 | [335051-kloinks.json](./335051-kloinks.json) |
 | Klomanager: Regurgitated | 195974 | [195974-klomanager-regurgitated.json](./195974-klomanager-regurgitated.json) |
@@ -6254,6 +6255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kunio's Dodgeball Time, C'mon Guys! | 42516 | [42516-kunios-dodgeball-time-cmon-guys.json](./42516-kunios-dodgeball-time-cmon-guys.json) |
 | Kunio's Oden | 42343 | [42343-kunios-oden.json](./42343-kunios-oden.json) |
 | Kunitori Zunou Battle: Nobunaga no Yabou | 69286 | [69286-kunitori-zunou-battle-nobunaga-no-yabou.json](./69286-kunitori-zunou-battle-nobunaga-no-yabou.json) |
+| KuniTure | 126700 | [126700-kuniture.json](./126700-kuniture.json) |
 | Kunkun Battles | 292244 | [292244-kunkun-battles.json](./292244-kunkun-battles.json) |
 | KunKun Defender | 298127 | [298127-kunkun-defender.json](./298127-kunkun-defender.json) |
 | Kunkun Defender 2 | 343863 | [343863-kunkun-defender-2.json](./343863-kunkun-defender-2.json) |
@@ -6467,6 +6469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyivan Rus | 214197 | [214197-kyivan-rus.json](./214197-kyivan-rus.json) |
 | Kyklos | 407088 | [407088-kyklos.json](./407088-kyklos.json) |
 | Kyle & Lucy: Wonderworld | 317131 | [317131-kyle-and-lucy-wonderworld.json](./317131-kyle-and-lucy-wonderworld.json) |
+| Kyle is Famous | 126721 | [126721-kyle-is-famous.json](./126721-kyle-is-famous.json) |
 | Kyle is Famous: Complete Edition | 173138 | [173138-kyle-is-famous-complete-edition.json](./173138-kyle-is-famous-complete-edition.json) |
 | Kyle is Famous: Kyle is Santa | 171209 | [171209-kyle-is-famous-kyle-is-santa.json](./171209-kyle-is-famous-kyle-is-santa.json) |
 | Kyle Petty's No Fear Racing | 42505 | [42505-kyle-pettys-no-fear-racing.json](./42505-kyle-pettys-no-fear-racing.json) |
