@@ -4894,6 +4894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikkan Sports Pro Yakyuu VAN | 47062 | [47062-nikkan-sports-pro-yakyuu-van.json](./47062-nikkan-sports-pro-yakyuu-van.json) |
 | Nikki no Tabisuru Quiz | 232905 | [232905-nikki-no-tabisuru-quiz.json](./232905-nikki-no-tabisuru-quiz.json) |
 | Nikki Up2U: A Dressing Story | 62427 | [62427-nikki-up2u-a-dressing-story.json](./62427-nikki-up2u-a-dressing-story.json) |
+| Nikki: The First Adventure | 137224 | [137224-nikki-the-first-adventure.json](./137224-nikki-the-first-adventure.json) |
 | NikNaks | 345957 | [345957-niknaks.json](./345957-niknaks.json) |
 | Niko | 410351 | [410351-niko.json](./410351-niko.json) |
 | Niko and the Cubic Curse | 169339 | [169339-niko-and-the-cubic-curse.json](./169339-niko-and-the-cubic-curse.json) |
