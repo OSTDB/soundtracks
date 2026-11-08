@@ -130,6 +130,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vacation Adventures: Park Ranger 17 | 381372 | [381372-vacation-adventures-park-ranger-17.json](./381372-vacation-adventures-park-ranger-17.json) |
 | Vacation Adventures: Park Ranger 18 - Collectors Edition | 416779 | [416779-vacation-adventures-park-ranger-18-collectors-edition.json](./416779-vacation-adventures-park-ranger-18-collectors-edition.json) |
 | Vacation Adventures: Park Ranger 2 | 85465 | [85465-vacation-adventures-park-ranger-2.json](./85465-vacation-adventures-park-ranger-2.json) |
+| Vacation Adventures: Park Ranger 3 | 121125 | [121125-vacation-adventures-park-ranger-3.json](./121125-vacation-adventures-park-ranger-3.json) |
 | Vacation Adventures: Park Ranger 4 | 88460 | [88460-vacation-adventures-park-ranger-4.json](./88460-vacation-adventures-park-ranger-4.json) |
 | Vacation Adventures: Park Ranger 5 | 169120 | [169120-vacation-adventures-park-ranger-5.json](./169120-vacation-adventures-park-ranger-5.json) |
 | Vacation Adventures: Park Ranger 6 | 153138 | [153138-vacation-adventures-park-ranger-6.json](./153138-vacation-adventures-park-ranger-6.json) |
@@ -4261,6 +4262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VRun | 36984 | [36984-vrun.json](./36984-vrun.json) |
 | Vrun Corrupt The World | 404631 | [404631-vrun-corrupt-the-world.json](./404631-vrun-corrupt-the-world.json) |
 | VrUs | 179372 | [179372-vrus.json](./179372-vrus.json) |
+| VRWiz | 121124 | [121124-vrwiz.json](./121124-vrwiz.json) |
 | VRZ Torment | 32503 | [32503-vrz-torment.json](./32503-vrz-torment.json) |
 | Vs Block Breaker | 64457 | [64457-vs-block-breaker.json](./64457-vs-block-breaker.json) |
 | VS Cartoon Cat | 305063 | [305063-vs-cartoon-cat.json](./305063-vs-cartoon-cat.json) |
