@@ -1943,6 +1943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Empire | 110022 | [110022-tank-empire.json](./110022-tank-empire.json) |
 | Tank Factory Simulator | 297878 | [297878-tank-factory-simulator.json](./297878-tank-factory-simulator.json) |
 | Tank Fantastic | 153000 | [153000-tank-fantastic.json](./153000-tank-fantastic.json) |
+| Tank Fighter League 3D | 95521 | [95521-tank-fighter-league-3d.json](./95521-tank-fighter-league-3d.json) |
 | Tank Force | 39504 | [39504-tank-force.json](./39504-tank-force.json) |
 | Tank Force | 68378 | [68378-tank-force.json](./68378-tank-force.json) |
 | Tank Force | 81329 | [81329-tank-force.json](./81329-tank-force.json) |
@@ -2409,7 +2410,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap That Date! | 323993 | [323993-tap-that-date.json](./323993-tap-that-date.json) |
 | Tap the Ball DX | 241555 | [241555-tap-the-ball-dx.json](./241555-tap-the-ball-dx.json) |
 | Tap the Blocks | 214195 | [214195-tap-the-blocks.json](./214195-tap-the-blocks.json) |
+| Tap the Frog | 95542 | [95542-tap-the-frog.json](./95542-tap-the-frog.json) |
 | Tap the Frog: Doodle | 166287 | [166287-tap-the-frog-doodle.json](./166287-tap-the-frog-doodle.json) |
+| Tap the Planet | 95520 | [95520-tap-the-planet.json](./95520-tap-the-planet.json) |
 | Tap the Road | 259684 | [259684-tap-the-road.json](./259684-tap-the-road.json) |
 | Tap Those Targets | 158568 | [158568-tap-those-targets.json](./158568-tap-those-targets.json) |
 | Tap Titans | 91424 | [91424-tap-titans.json](./91424-tap-titans.json) |
@@ -2545,6 +2548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Target | 190705 | [190705-target.json](./190705-target.json) |
 | Target | 250424 | [250424-target.json](./250424-target.json) |
 | Target | 88186 | [88186-target.json](./88186-target.json) |
+| Target | 95490 | [95490-target.json](./95490-target.json) |
 | Target Acquired | 74808 | [74808-target-acquired.json](./74808-target-acquired.json) |
 | Target Dragon 2: Maze Runner | 410692 | [410692-target-dragon-2-maze-runner.json](./410692-target-dragon-2-maze-runner.json) |
 | Target Earth | 93087 | [93087-target-earth.json](./93087-target-earth.json) |
@@ -4142,6 +4146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis | 64208 | [64208-tennis.json](./64208-tennis.json) |
 | Tennis | 74548 | [74548-tennis.json](./74548-tennis.json) |
 | Tennis | 82527 | [82527-tennis.json](./82527-tennis.json) |
+| Tennis | 95499 | [95499-tennis.json](./95499-tennis.json) |
 | Tennis 2003 | 23712 | [23712-tennis-2003.json](./23712-tennis-2003.json) |
 | Tennis 2024 Simulator | 280149 | [280149-tennis-2024-simulator.json](./280149-tennis-2024-simulator.json) |
 | Tennis 2K2 | 45843 | [45843-tennis-2k2.json](./45843-tennis-2k2.json) |
@@ -12104,6 +12109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Labyrinth of Grisaia | 11457 | [11457-the-labyrinth-of-grisaia.json](./11457-the-labyrinth-of-grisaia.json) |
 | The Labyrinth of Time | 7670 | [7670-the-labyrinth-of-time.json](./7670-the-labyrinth-of-time.json) |
 | The Labyrinth on Burrow Hill | 403545 | [403545-the-labyrinth-on-burrow-hill.json](./403545-the-labyrinth-on-burrow-hill.json) |
+| The Labyrinth Plus! Edition | 95502 | [95502-the-labyrinth-plus-edition.json](./95502-the-labyrinth-plus-edition.json) |
 | The Lacerator | 240478 | [240478-the-lacerator.json](./240478-the-lacerator.json) |
 | The Ladle Fly | 179723 | [179723-the-ladle-fly.json](./179723-the-ladle-fly.json) |
 | The Lady | 35989 | [35989-the-lady.json](./35989-the-lady.json) |
@@ -15380,6 +15386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Police Interceptors Simulator: War Against Racers | 263111 | [263111-the-police-interceptors-simulator-war-against-racers.json](./263111-the-police-interceptors-simulator-war-against-racers.json) |
 | The Police Mystery | 274876 | [274876-the-police-mystery.json](./274876-the-police-mystery.json) |
 | The Political Compass: Devil's Labyrinth | 135063 | [135063-the-political-compass-devils-labyrinth.json](./135063-the-political-compass-devils-labyrinth.json) |
+| The Political Machine 2004 | 95497 | [95497-the-political-machine-2004.json](./95497-the-political-machine-2004.json) |
 | The Political Machine 2008 | 50866 | [50866-the-political-machine-2008.json](./50866-the-political-machine-2008.json) |
 | The Political Machine 2012 | 51349 | [51349-the-political-machine-2012.json](./51349-the-political-machine-2012.json) |
 | The Political Machine 2016 | 24713 | [24713-the-political-machine-2016.json](./24713-the-political-machine-2016.json) |
@@ -21501,6 +21508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tidy Your Room Simulator | 89604 | [89604-tidy-your-room-simulator.json](./89604-tidy-your-room-simulator.json) |
 | Tidying Simulator | 415829 | [415829-tidying-simulator.json](./415829-tidying-simulator.json) |
 | TidyUp 2000 | 418503 | [418503-tidyup-2000.json](./418503-tidyup-2000.json) |
+| Tie Break | 95491 | [95491-tie-break.json](./95491-tie-break.json) |
 | Tie Break Tenis 98' | 2400 | [2400-tie-break-tenis-98.json](./2400-tie-break-tenis-98.json) |
 | Tie Break Tennis | 125970 | [125970-tie-break-tennis.json](./125970-tie-break-tennis.json) |
 | Tie Dye | 237634 | [237634-tie-dye.json](./237634-tie-dye.json) |
@@ -31983,6 +31991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trippy Trader: Schedule & Sell Candy | 368781 | [368781-trippy-trader-schedule-and-sell-candy.json](./368781-trippy-trader-schedule-and-sell-candy.json) |
 | Trippy's Disc Golf | 258931 | [258931-trippys-disc-golf.json](./258931-trippys-disc-golf.json) |
 | TripSync | 189179 | [189179-tripsync.json](./189179-tripsync.json) |
+| TripTrap | 95545 | [95545-triptrap.json](./95545-triptrap.json) |
 | TripTrip | 102352 | [102352-triptrip.json](./102352-triptrip.json) |
 | Triptych | 93001 | [93001-triptych.json](./93001-triptych.json) |
 | Triptych Book I: Blockhead | 328400 | [328400-triptych-book-i-blockhead.json](./328400-triptych-book-i-blockhead.json) |
