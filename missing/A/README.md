@@ -2971,6 +2971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acryptia | 226397 | [226397-acryptia.json](./226397-acryptia.json) |
 | AcShooting | 270003 | [270003-acshooting.json](./270003-acshooting.json) |
 | ACT | 169818 | [169818-act.json](./169818-act.json) |
+| Act 1 | 125562 | [125562-act-1.json](./125562-act-1.json) |
 | Act Casual | 301595 | [301595-act-casual.json](./301595-act-casual.json) |
 | Act it Out XL!: A Game of Charades | 81156 | [81156-act-it-out-xl-a-game-of-charades.json](./81156-act-it-out-xl-a-game-of-charades.json) |
 | Act It Out! A Game of Charades | 80333 | [80333-act-it-out-a-game-of-charades.json](./80333-act-it-out-a-game-of-charades.json) |
@@ -4221,6 +4222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aetherian Chronicles | 316454 | [316454-aetherian-chronicles.json](./316454-aetherian-chronicles.json) |
 | Aetherica: Echoes of Exodus | 391868 | [391868-aetherica-echoes-of-exodus.json](./391868-aetherica-echoes-of-exodus.json) |
 | Aetherift | 271668 | [271668-aetherift.json](./271668-aetherift.json) |
+| Aetherion | 125544 | [125544-aetherion.json](./125544-aetherion.json) |
 | Aetherion | 376843 | [376843-aetherion.json](./376843-aetherion.json) |
 | Aetheris | 199436 | [199436-aetheris.json](./199436-aetheris.json) |
 | Aetherise | 298439 | [298439-aetherise.json](./298439-aetherise.json) |
@@ -9391,6 +9393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Cities | 79134 | [79134-ancient-cities.json](./79134-ancient-cities.json) |
 | Ancient Code VR | 59867 | [59867-ancient-code-vr.json](./59867-ancient-code-vr.json) |
 | Ancient Conquest: The Golden Fleece | 7713 | [7713-ancient-conquest-the-golden-fleece.json](./7713-ancient-conquest-the-golden-fleece.json) |
+| Ancient Creed | 125582 | [125582-ancient-creed.json](./125582-ancient-creed.json) |
 | Ancient Cultivatrix | 290502 | [290502-ancient-cultivatrix.json](./290502-ancient-cultivatrix.json) |
 | Ancient Cultures: Tikal's Realm | 216466 | [216466-ancient-cultures-tikals-realm.json](./216466-ancient-cultures-tikals-realm.json) |
 | Ancient Dangers | 381750 | [381750-ancient-dangers.json](./381750-ancient-dangers.json) |
