@@ -987,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -15747,6 +15748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breathspace | 226271 | [226271-breathspace.json](./226271-breathspace.json) |
 | Breaworlds | 125830 | [125830-breaworlds.json](./125830-breaworlds.json) |
 | BrebeMan | 329237 | [329237-brebeman.json](./329237-brebeman.json) |
+| Breed | 78822 | [78822-breed.json](./78822-breed.json) |
 | Breed Laboratory | 383917 | [383917-breed-laboratory.json](./383917-breed-laboratory.json) |
 | Breed Master | 268484 | [268484-breed-master.json](./268484-breed-master.json) |
 | Breeder | 125874 | [125874-breeder.json](./125874-breeder.json) |
@@ -17230,6 +17232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buddy Collection If: Red Thread of Fate | 96157 | [96157-buddy-collection-if-red-thread-of-fate.json](./96157-buddy-collection-if-red-thread-of-fate.json) |
 | Buddy Flip | 90328 | [90328-buddy-flip.json](./90328-buddy-flip.json) |
 | Buddy Garden | 356003 | [356003-buddy-garden.json](./356003-buddy-garden.json) |
+| Buddy Rush | 78845 | [78845-buddy-rush.json](./78845-buddy-rush.json) |
 | Buddy Shell | 328071 | [328071-buddy-shell.json](./328071-buddy-shell.json) |
 | Buddy Shell 2 | 328070 | [328070-buddy-shell-2.json](./328070-buddy-shell-2.json) |
 | Buddy Thunderstruck: The Maybe Pile | 322248 | [322248-buddy-thunderstruck-the-maybe-pile.json](./322248-buddy-thunderstruck-the-maybe-pile.json) |
