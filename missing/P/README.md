@@ -229,6 +229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Escape | 274859 | [274859-pac-man-escape.json](./274859-pac-man-escape.json) |
 | Pac-Man Fever | 4061 | [4061-pac-man-fever.json](./4061-pac-man-fever.json) |
 | Pac-Man Forever | 396714 | [396714-pac-man-forever.json](./396714-pac-man-forever.json) |
+| Pac-Man Friends | 78240 | [78240-pac-man-friends.json](./78240-pac-man-friends.json) |
 | Pac-Man Game Keyring | 219387 | [219387-pac-man-game-keyring.json](./219387-pac-man-game-keyring.json) |
 | Pac-Man Games | 220257 | [220257-pac-man-games.json](./220257-pac-man-games.json) |
 | Pac-Man Geo | 172697 | [172697-pac-man-geo.json](./172697-pac-man-geo.json) |
@@ -6907,6 +6908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pimp Tight | 30550 | [30550-pimp-tight.json](./30550-pimp-tight.json) |
 | Pimp Up Dungeon | 358426 | [358426-pimp-up-dungeon.json](./358426-pimp-up-dungeon.json) |
 | Pimp's Quest | 387947 | [387947-pimps-quest.json](./387947-pimps-quest.json) |
+| Pimpin 2.0 | 78197 | [78197-pimpin-2-0.json](./78197-pimpin-2-0.json) |
 | PimpWars | 72318 | [72318-pimpwars.json](./72318-pimpwars.json) |
 | Pimpy Da Pimp | 299555 | [299555-pimpy-da-pimp.json](./299555-pimpy-da-pimp.json) |
 | PiN | 28154 | [28154-pin.json](./28154-pin.json) |
@@ -12783,6 +12785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pool | 235341 | [235341-pool.json](./235341-pool.json) |
 | Pool | 246502 | [246502-pool.json](./246502-pool.json) |
 | Pool | 352172 | [352172-pool.json](./352172-pool.json) |
+| Pool | 78227 | [78227-pool.json](./78227-pool.json) |
 | Pool | 91205 | [91205-pool.json](./91205-pool.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle | 385168 | [385168-pool-and-snooker-fever-2-in-1-bundle.json](./385168-pool-and-snooker-fever-2-in-1-bundle.json) |
 | Pool & Snooker Fever: 2 in 1 Bundle - Definitive Edition | 400201 | [400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json](./400201-pool-and-snooker-fever-2-in-1-bundle-definitive-edition.json) |
