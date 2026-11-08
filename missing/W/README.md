@@ -1522,6 +1522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Inquisitor - Prophecy | 118770 | [118770-warhammer-40-000-inquisitor-prophecy.json](./118770-warhammer-40-000-inquisitor-prophecy.json) |
 | Warhammer 40,000: Kill Team | 7045 | [7045-warhammer-40-000-kill-team.json](./7045-warhammer-40-000-kill-team.json) |
 | Warhammer 40,000: Lost Crusade | 154795 | [154795-warhammer-40-000-lost-crusade.json](./154795-warhammer-40-000-lost-crusade.json) |
+| Warhammer 40,000: Mechanicus - Heretek | 121158 | [121158-warhammer-40-000-mechanicus-heretek.json](./121158-warhammer-40-000-mechanicus-heretek.json) |
 | Warhammer 40,000: Mechanicus - Omnissiah Edition | 124973 | [124973-warhammer-40-000-mechanicus-omnissiah-edition.json](./124973-warhammer-40-000-mechanicus-omnissiah-edition.json) |
 | Warhammer 40,000: Mechanicus II | 302176 | [302176-warhammer-40-000-mechanicus-ii.json](./302176-warhammer-40-000-mechanicus-ii.json) |
 | Warhammer 40,000: Regicide | 11450 | [11450-warhammer-40-000-regicide.json](./11450-warhammer-40-000-regicide.json) |
