@@ -18491,6 +18491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Town of Light: The Limited Black Label | 254852 | [254852-the-town-of-light-the-limited-black-label.json](./254852-the-town-of-light-the-limited-black-label.json) |
 | The Town of Nie | 315338 | [315338-the-town-of-nie.json](./315338-the-town-of-nie.json) |
 | The Town of Nowhere: End Of The Line | 383448 | [383448-the-town-of-nowhere-end-of-the-line.json](./383448-the-town-of-nowhere-end-of-the-line.json) |
+| The Town of Prison | 82291 | [82291-the-town-of-prison.json](./82291-the-town-of-prison.json) |
 | The Town Secrets | 275912 | [275912-the-town-secrets.json](./275912-the-town-secrets.json) |
 | The Toxicity | 270704 | [270704-the-toxicity.json](./270704-the-toxicity.json) |
 | The Toy Factory | 308753 | [308753-the-toy-factory.json](./308753-the-toy-factory.json) |
@@ -24543,6 +24544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titor's Time Traveling Tale | 249862 | [249862-titors-time-traveling-tale.json](./249862-titors-time-traveling-tale.json) |
 | Tits 'N' Tanks | 105411 | [105411-tits-n-tanks.json](./105411-tits-n-tanks.json) |
 | Tits and Shadows | 252676 | [252676-tits-and-shadows.json](./252676-tits-and-shadows.json) |
+| Tits Monkey | 82293 | [82293-tits-monkey.json](./82293-tits-monkey.json) |
 | Tits Okay Tits Fine | 371361 | [371361-tits-okay-tits-fine.json](./371361-tits-okay-tits-fine.json) |
 | Tits Okay Tits Fine Milkshake | 379553 | [379553-tits-okay-tits-fine-milkshake.json](./379553-tits-okay-tits-fine-milkshake.json) |
 | Tittilium | 385898 | [385898-tittilium.json](./385898-tittilium.json) |
@@ -26929,6 +26931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Totem Force | 115983 | [115983-totem-force.json](./115983-totem-force.json) |
 | Totem Runner | 64391 | [64391-totem-runner.json](./64391-totem-runner.json) |
 | Totem Smash | 344235 | [344235-totem-smash.json](./344235-totem-smash.json) |
+| Totem Teller | 82284 | [82284-totem-teller.json](./82284-totem-teller.json) |
 | Totem Topple | 59524 | [59524-totem-topple.json](./59524-totem-topple.json) |
 | Totem Tribe | 9113 | [9113-totem-tribe.json](./9113-totem-tribe.json) |
 | Totem Tribe Gold | 88100 | [88100-totem-tribe-gold.json](./88100-totem-tribe-gold.json) |
