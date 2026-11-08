@@ -1021,6 +1021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Office Simulator | 159828 | [159828-office-simulator.json](./159828-office-simulator.json) |
 | Office Simulator | 326392 | [326392-office-simulator.json](./326392-office-simulator.json) |
 | Office Space: Idle Profits | 55977 | [55977-office-space-idle-profits.json](./55977-office-space-idle-profits.json) |
+| Office Story | 87389 | [87389-office-story.json](./87389-office-story.json) |
 | Office Strike War: Multiplayer Battle Royale | 166285 | [166285-office-strike-war-multiplayer-battle-royale.json](./166285-office-strike-war-multiplayer-battle-royale.json) |
 | Office Suicide Saga | 47074 | [47074-office-suicide-saga.json](./47074-office-suicide-saga.json) |
 | Office Survival Simulator | 338415 | [338415-office-survival-simulator.json](./338415-office-survival-simulator.json) |
