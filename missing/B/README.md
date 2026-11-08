@@ -951,6 +951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Magpie | 405068 | [405068-bad-magpie.json](./405068-bad-magpie.json) |
 | Bad Manors | 327772 | [327772-bad-manors.json](./327772-bad-manors.json) |
 | Bad Mechanic | 294297 | [294297-bad-mechanic.json](./294297-bad-mechanic.json) |
+| Bad Medicine: Infectious Teachers | 127488 | [127488-bad-medicine-infectious-teachers.json](./127488-bad-medicine-infectious-teachers.json) |
 | Bad Meme | 158036 | [158036-bad-meme.json](./158036-bad-meme.json) |
 | Bad Midwife | 334611 | [334611-bad-midwife.json](./334611-bad-midwife.json) |
 | Bad Milk | 69755 | [69755-bad-milk.json](./69755-bad-milk.json) |
@@ -1613,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballad of Violence | 361001 | [361001-ballad-of-violence.json](./361001-ballad-of-violence.json) |
 | Ballad: As the Music Goes | 351790 | [351790-ballad-as-the-music-goes.json](./351790-ballad-as-the-music-goes.json) |
 | Ballade For Maria | 71563 | [71563-ballade-for-maria.json](./71563-ballade-for-maria.json) |
+| Ballade: With Memories | 127433 | [127433-ballade-with-memories.json](./127433-ballade-with-memories.json) |
 | Ballade2: the Celestial Promise | 118414 | [118414-ballade2-the-celestial-promise.json](./118414-ballade2-the-celestial-promise.json) |
 | Ballads at Midnight | 207399 | [207399-ballads-at-midnight.json](./207399-ballads-at-midnight.json) |
 | Ballads of Hongye | 197151 | [197151-ballads-of-hongye.json](./197151-ballads-of-hongye.json) |
@@ -4454,6 +4456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battles of Kursk: Southern Flank | 59312 | [59312-battles-of-kursk-southern-flank.json](./59312-battles-of-kursk-southern-flank.json) |
 | Battles of Norghan | 31233 | [31233-battles-of-norghan.json](./31233-battles-of-norghan.json) |
 | Battles of Normandy | 59319 | [59319-battles-of-normandy.json](./59319-battles-of-normandy.json) |
+| Battles of North Africa 1941 | 127481 | [127481-battles-of-north-africa-1941.json](./127481-battles-of-north-africa-1941.json) |
 | Battles of Prince of Persia | 20485 | [20485-battles-of-prince-of-persia.json](./20485-battles-of-prince-of-persia.json) |
 | Battles of the Ancient World | 67597 | [67597-battles-of-the-ancient-world.json](./67597-battles-of-the-ancient-world.json) |
 | Battles of the Ancient World II | 200300 | [200300-battles-of-the-ancient-world-ii.json](./200300-battles-of-the-ancient-world-ii.json) |
@@ -7312,6 +7315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biathlon Battle VR | 114088 | [114088-biathlon-battle-vr.json](./114088-biathlon-battle-vr.json) |
 | Biathlon Challenge | 346938 | [346938-biathlon-challenge.json](./346938-biathlon-challenge.json) |
 | Biathlon Champion 2007 | 56860 | [56860-biathlon-champion-2007.json](./56860-biathlon-champion-2007.json) |
+| Biba's Adventures | 127453 | [127453-bibas-adventures.json](./127453-bibas-adventures.json) |
 | Bibbidiba Fan Game | 338234 | [338234-bibbidiba-fan-game.json](./338234-bibbidiba-fan-game.json) |
 | Bibdu | 395855 | [395855-bibdu.json](./395855-bibdu.json) |
 | Bibi & Tina at the Horse Farm | 122789 | [122789-bibi-and-tina-at-the-horse-farm.json](./122789-bibi-and-tina-at-the-horse-farm.json) |
@@ -17154,6 +17158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggy Battle | 179349 | [179349-buggy-battle.json](./179349-buggy-battle.json) |
 | Buggy Boogie | 66677 | [66677-buggy-boogie.json](./66677-buggy-boogie.json) |
 | Buggy Boy | 12728 | [12728-buggy-boy.json](./12728-buggy-boy.json) |
+| Buggy Bump | 127442 | [127442-buggy-bump.json](./127442-buggy-bump.json) |
 | Buggy Challenge | 242374 | [242374-buggy-challenge.json](./242374-buggy-challenge.json) |
 | Buggy Derby Arena | 297324 | [297324-buggy-derby-arena.json](./297324-buggy-derby-arena.json) |
 | Buggy Game | 192890 | [192890-buggy-game.json](./192890-buggy-game.json) |
