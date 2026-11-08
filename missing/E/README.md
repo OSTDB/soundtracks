@@ -2942,6 +2942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elysium | 339126 | [339126-elysium.json](./339126-elysium.json) |
 | Elysium | 365227 | [365227-elysium.json](./365227-elysium.json) |
 | Elysium | 408857 | [408857-elysium.json](./408857-elysium.json) |
+| Elysium | 95487 | [95487-elysium.json](./95487-elysium.json) |
 | Elysium City | 212768 | [212768-elysium-city.json](./212768-elysium-city.json) |
 | Elysium Infinity | 237668 | [237668-elysium-infinity.json](./237668-elysium-infinity.json) |
 | Elysium Lost | 219823 | [219823-elysium-lost.json](./219823-elysium-lost.json) |
