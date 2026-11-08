@@ -5569,6 +5569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Research Story | 168637 | [168637-research-story.json](./168637-research-story.json) |
 | Researcher | 143476 | [143476-researcher.json](./143476-researcher.json) |
 | Reseed | 372063 | [372063-reseed.json](./372063-reseed.json) |
+| Resensory | 133577 | [133577-resensory.json](./133577-resensory.json) |
 | Resequenced | 96650 | [96650-resequenced.json](./96650-resequenced.json) |
 | Reservoir Dogs | 6003 | [6003-reservoir-dogs.json](./6003-reservoir-dogs.json) |
 | Reservoir Dogs: Bloody Days | 27728 | [27728-reservoir-dogs-bloody-days.json](./27728-reservoir-dogs-bloody-days.json) |
@@ -13267,6 +13268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RWBY: Crystal Match | 120203 | [120203-rwby-crystal-match.json](./120203-rwby-crystal-match.json) |
 | RWBY: Grimm Eclipse - Definitive Edition | 148103 | [148103-rwby-grimm-eclipse-definitive-edition.json](./148103-rwby-grimm-eclipse-definitive-edition.json) |
 | RWBY: Grimm Eclipse - JNPR | 282712 | [282712-rwby-grimm-eclipse-jnpr.json](./282712-rwby-grimm-eclipse-jnpr.json) |
+| Rwby: Rose Snow | 133578 | [133578-rwby-rose-snow.json](./133578-rwby-rose-snow.json) |
 | RWBY: Vale of Darkness | 236806 | [236806-rwby-vale-of-darkness.json](./236806-rwby-vale-of-darkness.json) |
 | Rwen's Day Out | 185025 | [185025-rwens-day-out.json](./185025-rwens-day-out.json) |
 | RWS | 392606 | [392606-rws.json](./392606-rws.json) |
