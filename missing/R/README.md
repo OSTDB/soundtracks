@@ -4114,6 +4114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Squares | 174567 | [174567-red-squares.json](./174567-red-squares.json) |
 | Red Stack | 308705 | [308705-red-stack.json](./308705-red-stack.json) |
 | Red Star Over America | 340710 | [340710-red-star-over-america.json](./340710-red-star-over-america.json) |
+| Red Star Raider | 119880 | [119880-red-star-raider.json](./119880-red-star-raider.json) |
 | Red Stone Online | 35737 | [35737-red-stone-online.json](./35737-red-stone-online.json) |
 | Red Storm Rising | 15354 | [15354-red-storm-rising.json](./15354-red-storm-rising.json) |
 | Red Storm Survival | 96035 | [96035-red-storm-survival.json](./96035-red-storm-survival.json) |
@@ -8294,6 +8295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ritual Tournament | 190107 | [190107-ritual-tournament.json](./190107-ritual-tournament.json) |
 | Ritual: Crown of Horns | 117897 | [117897-ritual-crown-of-horns.json](./117897-ritual-crown-of-horns.json) |
 | Ritual: Path of Darkness | 265574 | [265574-ritual-path-of-darkness.json](./265574-ritual-path-of-darkness.json) |
+| Ritual: Sorcerer Angel | 119884 | [119884-ritual-sorcerer-angel.json](./119884-ritual-sorcerer-angel.json) |
 | Ritualis: Summoner Simulator | 391955 | [391955-ritualis-summoner-simulator.json](./391955-ritualis-summoner-simulator.json) |
 | Ritualist | 392001 | [392001-ritualist.json](./392001-ritualist.json) |
 | Ritualistic Madness | 117719 | [117719-ritualistic-madness.json](./117719-ritualistic-madness.json) |
@@ -12271,6 +12273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ruins of The Titan | 365069 | [365069-ruins-of-the-titan.json](./365069-ruins-of-the-titan.json) |
 | Ruins of the Unforgotten Souls | 299846 | [299846-ruins-of-the-unforgotten-souls.json](./299846-ruins-of-the-unforgotten-souls.json) |
 | Ruins of Wish: Ephemeral Traveler | 82516 | [82516-ruins-of-wish-ephemeral-traveler.json](./82516-ruins-of-wish-ephemeral-traveler.json) |
+| Ruins Seeker | 119879 | [119879-ruins-seeker.json](./119879-ruins-seeker.json) |
 | Ruins Story | 252468 | [252468-ruins-story.json](./252468-ruins-story.json) |
 | Ruins Survival | 114511 | [114511-ruins-survival.json](./114511-ruins-survival.json) |
 | Ruins To Fortress | 273638 | [273638-ruins-to-fortress.json](./273638-ruins-to-fortress.json) |
