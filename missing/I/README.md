@@ -3966,7 +3966,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4029,6 +4028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinitode 2: Infinite Tower Defense | 139491 | [139491-infinitode-2-infinite-tower-defense.json](./139491-infinitode-2-infinite-tower-defense.json) |
 | Infinitory | 398270 | [398270-infinitory.json](./398270-infinitory.json) |
 | Infinitrap: Ohio Jack and the cup of Eternity | 21996 | [21996-infinitrap-ohio-jack-and-the-cup-of-eternity.json](./21996-infinitrap-ohio-jack-and-the-cup-of-eternity.json) |
+| Infinitrap: Rehamstered | 111941 | [111941-infinitrap-rehamstered.json](./111941-infinitrap-rehamstered.json) |
 | Infinitree | 187237 | [187237-infinitree.json](./187237-infinitree.json) |
 | Infinitroid | 70380 | [70380-infinitroid.json](./70380-infinitroid.json) |
 | Infinitum | 82010 | [82010-infinitum.json](./82010-infinitum.json) |
