@@ -930,6 +930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Lands | 338400 | [338400-war-lands.json](./338400-war-lands.json) |
 | War Leaders: Clash of Nations | 53148 | [53148-war-leaders-clash-of-nations.json](./53148-war-leaders-clash-of-nations.json) |
 | War Legends | 250518 | [250518-war-legends.json](./250518-war-legends.json) |
+| War Legends | 87503 | [87503-war-legends.json](./87503-war-legends.json) |
 | War Link 2111 AD | 393527 | [393527-war-link-2111-ad.json](./393527-war-link-2111-ad.json) |
 | War Lords | 323323 | [323323-war-lords.json](./323323-war-lords.json) |
 | War Lords | 377155 | [377155-war-lords.json](./377155-war-lords.json) |
@@ -7766,6 +7767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Search Puzzle: Word Balls | 233054 | [233054-word-search-puzzle-word-balls.json](./233054-word-search-puzzle-word-balls.json) |
 | Word Search Puzzles | 88870 | [88870-word-search-puzzles.json](./88870-word-search-puzzles.json) |
 | Word Search: Classic Game | 323326 | [323326-word-search-classic-game.json](./323326-word-search-classic-game.json) |
+| Word Search: Word Puzzle Game | 87433 | [87433-word-search-word-puzzle-game.json](./87433-word-search-word-puzzle-game.json) |
 | Word Search: World's Biggest | 240182 | [240182-word-search-worlds-biggest.json](./240182-word-search-worlds-biggest.json) |
 | Word Searcher | 79789 | [79789-word-searcher.json](./79789-word-searcher.json) |
 | Word Searcher 2 | 84963 | [84963-word-searcher-2.json](./84963-word-searcher-2.json) |
