@@ -913,6 +913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultra SCSIcide | 40732 | [40732-ultra-scsicide.json](./40732-ultra-scsicide.json) |
 | Ultra Seven | 44428 | [44428-ultra-seven.json](./44428-ultra-seven.json) |
 | Ultra Seven: Chikyuu Bouei Sakusen | 63959 | [63959-ultra-seven-chikyuu-bouei-sakusen.json](./63959-ultra-seven-chikyuu-bouei-sakusen.json) |
+| Ultra Sharp | 103586 | [103586-ultra-sharp.json](./103586-ultra-sharp.json) |
 | Ultra Space Battle Brawl | 97964 | [97964-ultra-space-battle-brawl.json](./97964-ultra-space-battle-brawl.json) |
 | Ultra Strangeness | 113292 | [113292-ultra-strangeness.json](./113292-ultra-strangeness.json) |
 | Ultra Street Fighter IV: 2014 Challengers Horror Pack | 225145 | [225145-ultra-street-fighter-iv-2014-challengers-horror-pack.json](./225145-ultra-street-fighter-iv-2014-challengers-horror-pack.json) |
@@ -2093,6 +2094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unexpected Day | 29553 | [29553-unexpected-day.json](./29553-unexpected-day.json) |
 | Unexpected End | 75807 | [75807-unexpected-end.json](./75807-unexpected-end.json) |
 | Unexpected Futa Corruption | 236123 | [236123-unexpected-futa-corruption.json](./236123-unexpected-futa-corruption.json) |
+| Unexpected Journey | 103613 | [103613-unexpected-journey.json](./103613-unexpected-journey.json) |
 | Unexpected Journey | 361585 | [361585-unexpected-journey.json](./361585-unexpected-journey.json) |
 | Unexpected Pigeon Race | 324722 | [324722-unexpected-pigeon-race.json](./324722-unexpected-pigeon-race.json) |
 | Unexpected Quest | 327563 | [327563-unexpected-quest.json](./327563-unexpected-quest.json) |
@@ -3556,6 +3558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | USA Racer | 62146 | [62146-usa-racer.json](./62146-usa-racer.json) |
 | USA Today Crossword Challenge | 92335 | [92335-usa-today-crossword-challenge.json](./92335-usa-today-crossword-challenge.json) |
 | USA Today: Puzzle Craze | 206213 | [206213-usa-today-puzzle-craze.json](./206213-usa-today-puzzle-craze.json) |
+| USA Truck Driving School: Off-road Transport Games | 103690 | [103690-usa-truck-driving-school-off-road-transport-games.json](./103690-usa-truck-driving-school-off-road-transport-games.json) |
 | USA Truck Simulator | 150807 | [150807-usa-truck-simulator.json](./150807-usa-truck-simulator.json) |
 | Usa-Jong: Haja-ou no Fukkatsu | 410409 | [410409-usa-jong-haja-ou-no-fukkatsu.json](./410409-usa-jong-haja-ou-no-fukkatsu.json) |
 | USAC: Code Breach | 211445 | [211445-usac-code-breach.json](./211445-usac-code-breach.json) |
