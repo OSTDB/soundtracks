@@ -1387,6 +1387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Young Souls | 106857 | [106857-young-souls.json](./106857-young-souls.json) |
 | Young Street | 251240 | [251240-young-street.json](./251240-young-street.json) |
 | Young Warriors | 174834 | [174834-young-warriors.json](./174834-young-warriors.json) |
+| Young Widow: Yume | 97606 | [97606-young-widow-yume.json](./97606-young-widow-yume.json) |
 | Young Wife Elf's Netorase RPG: Irena | 134643 | [134643-young-wife-elfs-netorase-rpg-irena.json](./134643-young-wife-elfs-netorase-rpg-irena.json) |
 | Young Wife Souffle | 82667 | [82667-young-wife-souffle.json](./82667-young-wife-souffle.json) |
 | Young Wife Yuka's Good Day to Cheat | 98404 | [98404-young-wife-yukas-good-day-to-cheat.json](./98404-young-wife-yukas-good-day-to-cheat.json) |
