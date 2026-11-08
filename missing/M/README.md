@@ -6007,7 +6007,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8338,6 +8337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megami Paradise 2 | 191465 | [191465-megami-paradise-2.json](./191465-megami-paradise-2.json) |
 | Megami Quest 2 | 202606 | [202606-megami-quest-2.json](./202606-megami-quest-2.json) |
 | Megami Tensei | 256389 | [256389-megami-tensei.json](./256389-megami-tensei.json) |
+| Megami Tensei Chaining Soul: Persona 3 | 137755 | [137755-megami-tensei-chaining-soul-persona-3.json](./137755-megami-tensei-chaining-soul-persona-3.json) |
 | Megami Tensei Gaiden: Last Bible | 225584 | [225584-megami-tensei-gaiden-last-bible.json](./225584-megami-tensei-gaiden-last-bible.json) |
 | Megami Tensei Gaiden: Last Bible | 49830 | [49830-megami-tensei-gaiden-last-bible.json](./49830-megami-tensei-gaiden-last-bible.json) |
 | Megami Tensei Gaiden: Last Bible II | 265053 | [265053-megami-tensei-gaiden-last-bible-ii.json](./265053-megami-tensei-gaiden-last-bible-ii.json) |
@@ -10612,6 +10612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mickey Mouse | 78680 | [78680-mickey-mouse.json](./78680-mickey-mouse.json) |
 | Mickey Mouse Clubhouse | 228442 | [228442-mickey-mouse-clubhouse.json](./228442-mickey-mouse-clubhouse.json) |
 | Mickey Mouse Clubhouse | 245441 | [245441-mickey-mouse-clubhouse.json](./245441-mickey-mouse-clubhouse.json) |
+| Mickey Mouse III: Yume Fuusen | 137761 | [137761-mickey-mouse-iii-yume-fuusen.json](./137761-mickey-mouse-iii-yume-fuusen.json) |
 | Mickey Mouse IV: Mahou no Labyrinth | 153451 | [153451-mickey-mouse-iv-mahou-no-labyrinth.json](./153451-mickey-mouse-iv-mahou-no-labyrinth.json) |
 | Mickey Mouse Kindergarten | 208723 | [208723-mickey-mouse-kindergarten.json](./208723-mickey-mouse-kindergarten.json) |
 | Mickey Mouse Murder House | 199064 | [199064-mickey-mouse-murder-house.json](./199064-mickey-mouse-murder-house.json) |
@@ -12313,6 +12314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindcircus | 275644 | [275644-mindcircus.json](./275644-mindcircus.json) |
 | Mindcop | 137044 | [137044-mindcop.json](./137044-mindcop.json) |
 | MindCubes: Inside the Twisted Gravity Puzzle | 28276 | [28276-mindcubes-inside-the-twisted-gravity-puzzle.json](./28276-mindcubes-inside-the-twisted-gravity-puzzle.json) |
+| Minden | 137742 | [137742-minden.json](./137742-minden.json) |
 | Minder | 100207 | [100207-minder.json](./100207-minder.json) |
 | Minder | 41752 | [41752-minder.json](./41752-minder.json) |
 | MindEscape | 379338 | [379338-mindescape.json](./379338-mindescape.json) |
@@ -15791,6 +15793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MonStar | 193971 | [193971-monstar.json](./193971-monstar.json) |
 | MonStars: Karaoke Party | 404532 | [404532-monstars-karaoke-party.json](./404532-monstars-karaoke-party.json) |
 | Monsteca Corral | 67095 | [67095-monsteca-corral.json](./67095-monsteca-corral.json) |
+| Monster | 137772 | [137772-monster.json](./137772-monster.json) |
 | Monster & Me | 182466 | [182466-monster-and-me.json](./182466-monster-and-me.json) |
 | Monster 2 | 266314 | [266314-monster-2.json](./266314-monster-2.json) |
 | Monster 3 | 311266 | [311266-monster-3.json](./311266-monster-3.json) |
@@ -22512,6 +22515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythical Ruins | 338285 | [338285-mythical-ruins.json](./338285-mythical-ruins.json) |
 | Mythical Warriors: Battle for Eastland | 210109 | [210109-mythical-warriors-battle-for-eastland.json](./210109-mythical-warriors-battle-for-eastland.json) |
 | Mythical Whalers | 330893 | [330893-mythical-whalers.json](./330893-mythical-whalers.json) |
+| Mythicard | 137785 | [137785-mythicard.json](./137785-mythicard.json) |
 | MythiCorp | 419972 | [419972-mythicorp.json](./419972-mythicorp.json) |
 | MythicTale | 406259 | [406259-mythictale.json](./406259-mythictale.json) |
 | MythicZon | 348310 | [348310-mythiczon.json](./348310-mythiczon.json) |
