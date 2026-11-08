@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E.R. Mania | 91748 | [91748-e-r-mania.json](./91748-e-r-mania.json) |
 | E.S.P. | 145658 | [145658-e-s-p.json](./145658-e-s-p.json) |
 | E.S.S. Mega | 84246 | [84246-e-s-s-mega.json](./84246-e-s-s-mega.json) |
+| E.T. Book Cart | 91493 | [91493-e-t-book-cart.json](./91493-e-t-book-cart.json) |
 | E.T. the Extra Terrestrial: Digital Companion | 278776 | [278776-e-t-the-extra-terrestrial-digital-companion.json](./278776-e-t-the-extra-terrestrial-digital-companion.json) |
 | E.T. the Extra-Terrestrial | 6706 | [6706-e-t-the-extra-terrestrial.json](./6706-e-t-the-extra-terrestrial.json) |
 | E.T. the Extra-Terrestrial Fixed | 335114 | [335114-e-t-the-extra-terrestrial-fixed.json](./335114-e-t-the-extra-terrestrial-fixed.json) |
