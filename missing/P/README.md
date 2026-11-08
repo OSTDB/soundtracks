@@ -1516,7 +1516,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzer Knights: Commander’s Edition | 392660 | [392660-panzer-knights-commander-s-edition.json](./392660-panzer-knights-commander-s-edition.json) |
 | Panzer League | 111542 | [111542-panzer-league.json](./111542-panzer-league.json) |
 | Panzer Marshal | 176432 | [176432-panzer-marshal.json](./176432-panzer-marshal.json) |
-| Panzer Paladin | 116195 | [116195-panzer-paladin.json](./116195-panzer-paladin.json) |
 | Panzer Panic | 66449 | [66449-panzer-panic.json](./66449-panzer-panic.json) |
 | Panzer Panic VR | 29537 | [29537-panzer-panic-vr.json](./29537-panzer-panic-vr.json) |
 | Panzer Party | 85329 | [85329-panzer-party.json](./85329-panzer-party.json) |
@@ -12572,7 +12571,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pon Para and the Great Southern Labyrinth: Love and Shadows | 156067 | [156067-pon-para-and-the-great-southern-labyrinth-love-and-shadows.json](./156067-pon-para-and-the-great-southern-labyrinth-love-and-shadows.json) |
 | Pon Para and the Unconquerable Scorpion | 151515 | [151515-pon-para-and-the-unconquerable-scorpion.json](./151515-pon-para-and-the-unconquerable-scorpion.json) |
 | PoN!: The Armadillo Island | 227789 | [227789-pon-the-armadillo-island.json](./227789-pon-the-armadillo-island.json) |
-| Poncho | 14291 | [14291-poncho.json](./14291-poncho.json) |
 | Ponchoman | 193073 | [193073-ponchoman.json](./193073-ponchoman.json) |
 | Ponchorado | 391593 | [391593-ponchorado.json](./391593-ponchorado.json) |
 | Ponchyo: A Platypus Adventure | 360607 | [360607-ponchyo-a-platypus-adventure.json](./360607-ponchyo-a-platypus-adventure.json) |
