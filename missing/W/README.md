@@ -6764,6 +6764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizard | 151933 | [151933-wizard.json](./151933-wizard.json) |
 | Wizard | 25797 | [25797-wizard.json](./25797-wizard.json) |
 | Wizard 64 | 389841 | [389841-wizard-64.json](./389841-wizard-64.json) |
+| Wizard and Minion Idle | 114575 | [114575-wizard-and-minion-idle.json](./114575-wizard-and-minion-idle.json) |
 | Wizard Another World | 294280 | [294280-wizard-another-world.json](./294280-wizard-another-world.json) |
 | Wizard Battle | 121638 | [121638-wizard-battle.json](./121638-wizard-battle.json) |
 | Wizard Bros | 158233 | [158233-wizard-bros.json](./158233-wizard-bros.json) |
