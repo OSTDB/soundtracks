@@ -1364,6 +1364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edtris 2600 | 78031 | [78031-edtris-2600.json](./78031-edtris-2600.json) |
 | Edu Simulator | 408043 | [408043-edu-simulator.json](./408043-edu-simulator.json) |
 | Eduardo the Samurai Toaster | 21193 | [21193-eduardo-the-samurai-toaster.json](./21193-eduardo-the-samurai-toaster.json) |
+| EduBirthday-Best Toddler Games | 106713 | [106713-edubirthday-best-toddler-games.json](./106713-edubirthday-best-toddler-games.json) |
 | Educating Adventures of Girl and Rabbit | 419907 | [419907-educating-adventures-of-girl-and-rabbit.json](./419907-educating-adventures-of-girl-and-rabbit.json) |
 | Education | 161586 | [161586-education.json](./161586-education.json) |
 | Education Series: General Knowledge Builder | 80603 | [80603-education-series-general-knowledge-builder.json](./80603-education-series-general-knowledge-builder.json) |
@@ -6662,6 +6663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Champions | 79743 | [79743-european-champions.json](./79743-european-champions.json) |
 | European Championship 1992 | 70102 | [70102-european-championship-1992.json](./70102-european-championship-1992.json) |
 | European Conqueror 3D | 85126 | [85126-european-conqueror-3d.json](./85126-european-conqueror-3d.json) |
+| European Conqueror X | 106700 | [106700-european-conqueror-x.json](./106700-european-conqueror-x.json) |
 | European Expansion + Oceania Expansion | 276550 | [276550-european-expansion-oceania-expansion.json](./276550-european-expansion-oceania-expansion.json) |
 | European Expansion + Oceania Expansion + Seasonal Decorative Pack | 276551 | [276551-european-expansion-oceania-expansion-seasonal-decorative-pack.json](./276551-european-expansion-oceania-expansion-seasonal-decorative-pack.json) |
 | European Fishing | 10287 | [10287-european-fishing.json](./10287-european-fishing.json) |
@@ -7276,6 +7278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Dead: The Game - Hail to the King Bundle | 227339 | [227339-evil-dead-the-game-hail-to-the-king-bundle.json](./227339-evil-dead-the-game-hail-to-the-king-bundle.json) |
 | Evil Dead: The Game - The Classics Bundle | 227111 | [227111-evil-dead-the-game-the-classics-bundle.json](./227111-evil-dead-the-game-the-classics-bundle.json) |
 | Evil Dead: The Game - Who's Your Daddy Bundle | 252206 | [252206-evil-dead-the-game-whos-your-daddy-bundle.json](./252206-evil-dead-the-game-whos-your-daddy-bundle.json) |
+| Evil Dead: Virtual Nightmare | 106683 | [106683-evil-dead-virtual-nightmare.json](./106683-evil-dead-virtual-nightmare.json) |
 | Evil Defenders | 25093 | [25093-evil-defenders.json](./25093-evil-defenders.json) |
 | Evil Diary | 265468 | [265468-evil-diary.json](./265468-evil-diary.json) |
 | Evil Doll | 304919 | [304919-evil-doll.json](./304919-evil-doll.json) |
