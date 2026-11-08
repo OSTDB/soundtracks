@@ -2659,6 +2659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Collector | 121249 | [121249-gem-collector.json](./121249-gem-collector.json) |
 | Gem Crash | 112816 | [112816-gem-crash.json](./112816-gem-crash.json) |
 | Gem Crush Match-3 | 397258 | [397258-gem-crush-match-3.json](./397258-gem-crush-match-3.json) |
+| Gem Deeps | 136562 | [136562-gem-deeps.json](./136562-gem-deeps.json) |
 | Gem Defender: Soyjak Survivors | 271040 | [271040-gem-defender-soyjak-survivors.json](./271040-gem-defender-soyjak-survivors.json) |
 | Gem Defense | 256226 | [256226-gem-defense.json](./256226-gem-defense.json) |
 | Gem Excavator | 223943 | [223943-gem-excavator.json](./223943-gem-excavator.json) |
