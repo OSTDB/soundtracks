@@ -818,6 +818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragdoll Funhouse | 202532 | [202532-ragdoll-funhouse.json](./202532-ragdoll-funhouse.json) |
 | Ragdoll Game | 212170 | [212170-ragdoll-game.json](./212170-ragdoll-game.json) |
 | Ragdoll Homicide | 409116 | [409116-ragdoll-homicide.json](./409116-ragdoll-homicide.json) |
+| Ragdoll House Wrecker 3D | 96820 | [96820-ragdoll-house-wrecker-3d.json](./96820-ragdoll-house-wrecker-3d.json) |
 | Ragdoll Kanojo | 174117 | [174117-ragdoll-kanojo.json](./174117-ragdoll-kanojo.json) |
 | Ragdoll Knight | 158911 | [158911-ragdoll-knight.json](./158911-ragdoll-knight.json) |
 | Ragdoll LABS | 204069 | [204069-ragdoll-labs.json](./204069-ragdoll-labs.json) |
@@ -12774,6 +12775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rune Seeker | 301295 | [301295-rune-seeker.json](./301295-rune-seeker.json) |
 | Rune Song | 251934 | [251934-rune-song.json](./251934-rune-song.json) |
 | Rune Stones | 304656 | [304656-rune-stones.json](./304656-rune-stones.json) |
+| Rune Stones Quest 2 | 96401 | [96401-rune-stones-quest-2.json](./96401-rune-stones-quest-2.json) |
 | Rune Sword | 175676 | [175676-rune-sword.json](./175676-rune-sword.json) |
 | Rune Tales : Underground | 228838 | [228838-rune-tales-underground.json](./228838-rune-tales-underground.json) |
 | Rune Tales: The Citadel | 228828 | [228828-rune-tales-the-citadel.json](./228828-rune-tales-the-citadel.json) |
