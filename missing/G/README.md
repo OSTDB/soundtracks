@@ -10638,6 +10638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guiding Light | 127758 | [127758-guiding-light.json](./127758-guiding-light.json) |
 | Guidus | 220202 | [220202-guidus.json](./220202-guidus.json) |
 | Guidus Zero | 319824 | [319824-guidus-zero.json](./319824-guidus-zero.json) |
+| GuiGhost Farms | 87671 | [87671-guighost-farms.json](./87671-guighost-farms.json) |
 | Guild & Gals | 346258 | [346258-guild-and-gals.json](./346258-guild-and-gals.json) |
 | Guild 01 | 92613 | [92613-guild-01.json](./92613-guild-01.json) |
 | Guild Ball | 56912 | [56912-guild-ball.json](./56912-guild-ball.json) |
