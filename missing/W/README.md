@@ -1995,6 +1995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior Plus | 286481 | [286481-warrior-plus.json](./286481-warrior-plus.json) |
 | Warrior Quest | 412378 | [412378-warrior-quest.json](./412378-warrior-quest.json) |
 | Warrior Souls | 211106 | [211106-warrior-souls.json](./211106-warrior-souls.json) |
+| Warrior Spirit | 126742 | [126742-warrior-spirit.json](./126742-warrior-spirit.json) |
 | Warrior Survivor | 362190 | [362190-warrior-survivor.json](./362190-warrior-survivor.json) |
 | Warrior's Dilemma | 360636 | [360636-warriors-dilemma.json](./360636-warriors-dilemma.json) |
 | Warrior's Reward | 370710 | [370710-warriors-reward.json](./370710-warriors-reward.json) |
@@ -4745,6 +4746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | White Viper | 47239 | [47239-white-viper.json](./47239-white-viper.json) |
 | White Wall | 149582 | [149582-white-wall.json](./149582-white-wall.json) |
 | White Water | 231557 | [231557-white-water.json](./231557-white-water.json) |
+| White Wings | 126705 | [126705-white-wings.json](./126705-white-wings.json) |
 | White Witch | 346108 | [346108-white-witch.json](./346108-white-witch.json) |
 | White Wolf: Darkside Chronicles | 243483 | [243483-white-wolf-darkside-chronicles.json](./243483-white-wolf-darkside-chronicles.json) |
 | White Wolf: Treasure Hunter | 243612 | [243612-white-wolf-treasure-hunter.json](./243612-white-wolf-treasure-hunter.json) |
