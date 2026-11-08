@@ -1418,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1950s Lawn Mower Kids | 65553 | [65553-1950s-lawn-mower-kids.json](./65553-1950s-lawn-mower-kids.json) |
 | 1953: KGB Unleashed | 9771 | [9771-1953-kgb-unleashed.json](./9771-1953-kgb-unleashed.json) |
 | 1953: NATO vs Warsaw Pact | 17886 | [17886-1953-nato-vs-warsaw-pact.json](./17886-1953-nato-vs-warsaw-pact.json) |
+| 1955: The Secret Mission | 80075 | [80075-1955-the-secret-mission.json](./80075-1955-the-secret-mission.json) |
 | 1958: Dancing with Fear | 216434 | [216434-1958-dancing-with-fear.json](./216434-1958-dancing-with-fear.json) |
 | 1960s Locospotter | 83109 | [83109-1960s-locospotter.json](./83109-1960s-locospotter.json) |
 | 1968 | 141731 | [141731-1968.json](./141731-1968.json) |
@@ -1535,6 +1536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Game Pack I Haunted Hotel: Eclipse & Haunted Hotel: Ancient Bane | 201816 | [201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json](./201816-2-game-pack-i-haunted-hotel-eclipse-and-haunted-hotel-ancient-bane.json) |
 | 2 Games I MediEvil & C-12: Final Resistance | 214662 | [214662-2-games-i-medievil-and-c-12-final-resistance.json](./214662-2-games-i-medievil-and-c-12-final-resistance.json) |
 | 2 Games In 1 Double Pack I Hot Wheels: World Race + Hot Wheels: Velocity X | 82101 | [82101-2-games-in-1-double-pack-i-hot-wheels-world-race-hot-wheels-velocity-x.json](./82101-2-games-in-1-double-pack-i-hot-wheels-world-race-hot-wheels-velocity-x.json) |
+| 2 Games in 1 Double Pack I Scooby-Doo + Scooby-Doo 2: Monsters Unleashed | 80113 | [80113-2-games-in-1-double-pack-i-scooby-doo-scooby-doo-2-monsters-unleashed.json](./80113-2-games-in-1-double-pack-i-scooby-doo-scooby-doo-2-monsters-unleashed.json) |
 | 2 Games in 1 Double Pack I The Incredibles + Finding Nemo: The Continuing Adventures | 78568 | [78568-2-games-in-1-double-pack-i-the-incredibles-finding-nemo-the-continuing-adventures.json](./78568-2-games-in-1-double-pack-i-the-incredibles-finding-nemo-the-continuing-adventures.json) |
 | 2 Games In 1 Double Pack: Finding Nemo + Monsters, Inc. | 78697 | [78697-2-games-in-1-double-pack-finding-nemo-monsters-inc.json](./78697-2-games-in-1-double-pack-finding-nemo-monsters-inc.json) |
 | 2 Games in 1 Double Pack: Power Rangers Ninja Storm + Power Rangers Time Force | 86044 | [86044-2-games-in-1-double-pack-power-rangers-ninja-storm-power-rangers-time-force.json](./86044-2-games-in-1-double-pack-power-rangers-ninja-storm-power-rangers-time-force.json) |
@@ -1567,6 +1569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 in 1 Collection: Culture of Asia + The Mystery of Pirates Treasure | 93970 | [93970-2-in-1-collection-culture-of-asia-the-mystery-of-pirates-treasure.json](./93970-2-in-1-collection-culture-of-asia-the-mystery-of-pirates-treasure.json) |
 | 2 in 1 Combo Pack: Sonic Heroes/Super Monkey Ball Deluxe | 233976 | [233976-2-in-1-combo-pack-sonic-heroes-super-monkey-ball-deluxe.json](./233976-2-in-1-combo-pack-sonic-heroes-super-monkey-ball-deluxe.json) |
 | 2 in 1 Crazy Bundle | 357724 | [357724-2-in-1-crazy-bundle.json](./357724-2-in-1-crazy-bundle.json) |
+| 2 in 1 Game Pack I Spider-Man: Mysterio's Menace + X2: Wolverine's Revenge | 80112 | [80112-2-in-1-game-pack-i-spider-man-mysterios-menace-x2-wolverines-revenge.json](./80112-2-in-1-game-pack-i-spider-man-mysterios-menace-x2-wolverines-revenge.json) |
 | 2 in 1 Game Pack: DreamWorks' Shark Tale + Shrek 2 | 79558 | [79558-2-in-1-game-pack-dreamworks-shark-tale-shrek-2.json](./79558-2-in-1-game-pack-dreamworks-shark-tale-shrek-2.json) |
 | 2 In 1 Game Pack: Tony Hawk's Underground + Kelly Slater's Pro Surfer | 80114 | [80114-2-in-1-game-pack-tony-hawks-underground-kelly-slaters-pro-surfer.json](./80114-2-in-1-game-pack-tony-hawks-underground-kelly-slaters-pro-surfer.json) |
 | 2 in 1 Hidden Object Worlds | 366272 | [366272-2-in-1-hidden-object-worlds.json](./366272-2-in-1-hidden-object-worlds.json) |
