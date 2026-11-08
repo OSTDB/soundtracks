@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mabel's Mansion | 24780 | [24780-mabels-mansion.json](./24780-mabels-mansion.json) |
 | Mabeop Cheonjamun DS | 124789 | [124789-mabeop-cheonjamun-ds.json](./124789-mabeop-cheonjamun-ds.json) |
 | Mabeop Cheonjamun DS 2: The Final Hanja Magic | 124788 | [124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json](./124788-mabeop-cheonjamun-ds-2-the-final-hanja-magic.json) |
+| MabinoB G1 | 97600 | [97600-mabinob-g1.json](./97600-mabinob-g1.json) |
 | MabinoB G2 | 97515 | [97515-mabinob-g2.json](./97515-mabinob-g2.json) |
 | MabinoB G3 | 109188 | [109188-mabinob-g3.json](./109188-mabinob-g3.json) |
 | Mabinogi | 21492 | [21492-mabinogi.json](./21492-mabinogi.json) |
@@ -4461,6 +4462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Married Teacher, Big-Boob Lesson | 97737 | [97737-married-teacher-big-boob-lesson.json](./97737-married-teacher-big-boob-lesson.json) |
 | Married Woman Cosplay Life | 248247 | [248247-married-woman-cosplay-life.json](./248247-married-woman-cosplay-life.json) |
 | Married Woman Eilla's NTR RPG: Two Man Cell Journey with Obeying a Douchey Guy | 82852 | [82852-married-woman-eillas-ntr-rpg-two-man-cell-journey-with-obeying-a-douchey-guy.json](./82852-married-woman-eillas-ntr-rpg-two-man-cell-journey-with-obeying-a-douchey-guy.json) |
+| Married Woman, Miho | 97594 | [97594-married-woman-miho.json](./97594-married-woman-miho.json) |
 | Marron Helps a Friend | 122947 | [122947-marron-helps-a-friend.json](./122947-marron-helps-a-friend.json) |
 | Marron's Day | 272750 | [272750-marrons-day.json](./272750-marrons-day.json) |
 | MarronRoman | 385153 | [385153-marronroman.json](./385153-marronroman.json) |
@@ -20588,6 +20590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Beautiful Vacation | 361599 | [361599-my-beautiful-vacation.json](./361599-my-beautiful-vacation.json) |
 | My Bed, Your Grave | 327659 | [327659-my-bed-your-grave.json](./327659-my-bed-your-grave.json) |
 | My Beloved Faction | 176205 | [176205-my-beloved-faction.json](./176205-my-beloved-faction.json) |
+| My Beloved Girl Is A Married Woman: Sadistic Widow | 97942 | [97942-my-beloved-girl-is-a-married-woman-sadistic-widow.json](./97942-my-beloved-girl-is-a-married-woman-sadistic-widow.json) |
 | My Best Friend Anna | 95790 | [95790-my-best-friend-anna.json](./95790-my-best-friend-anna.json) |
 | My Best Friend Kouta | 245887 | [245887-my-best-friend-kouta.json](./245887-my-best-friend-kouta.json) |
 | My Best Friend's Sister | 411246 | [411246-my-best-friends-sister.json](./411246-my-best-friends-sister.json) |
