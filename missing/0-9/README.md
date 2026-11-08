@@ -2053,6 +2053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3 Foot Ninja | 241472 | [241472-3-foot-ninja.json](./241472-3-foot-ninja.json) |
 | 3 Foot Ninja II | 323623 | [323623-3-foot-ninja-ii.json](./323623-3-foot-ninja-ii.json) |
 | 3 Games in 1: Tak and the Power of Juju / SpongeBob SquarePants: SuperSponge / Rugrats: I Gotta Go Party | 82098 | [82098-3-games-in-1-tak-and-the-power-of-juju-spongebob-squarepants-supersponge-rugrats-i-gotta-go-party.json](./82098-3-games-in-1-tak-and-the-power-of-juju-spongebob-squarepants-supersponge-rugrats-i-gotta-go-party.json) |
+| 3 Geeks | 115242 | [115242-3-geeks.json](./115242-3-geeks.json) |
 | 3 Hell | 348916 | [348916-3-hell.json](./348916-3-hell.json) |
 | 3 Heroes: Crystal Soul | 84586 | [84586-3-heroes-crystal-soul.json](./84586-3-heroes-crystal-soul.json) |
 | 3 Heures D'Agonie | 257264 | [257264-3-heures-dagonie.json](./257264-3-heures-dagonie.json) |
