@@ -1521,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NDE Rescue | 31857 | [31857-nde-rescue.json](./31857-nde-rescue.json) |
 | NDR Racing | 60862 | [60862-ndr-racing.json](./60862-ndr-racing.json) |
 | Ne no Kami: The Two Princess Knights of Kyoto | 32848 | [32848-ne-no-kami-the-two-princess-knights-of-kyoto.json](./32848-ne-no-kami-the-two-princess-knights-of-kyoto.json) |
+| Ne Touchez Pas 5 | 115253 | [115253-ne-touchez-pas-5.json](./115253-ne-touchez-pas-5.json) |
 | NE_01 | 109025 | [109025-ne-01.json](./109025-ne-01.json) |
 | Nea Edem | 193418 | [193418-nea-edem.json](./193418-nea-edem.json) |
 | Neanderthal | 291876 | [291876-neanderthal.json](./291876-neanderthal.json) |
@@ -1873,6 +1874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Underground Rivals | 22509 | [22509-need-for-speed-underground-rivals.json](./22509-need-for-speed-underground-rivals.json) |
 | Need for Speed: V-Rally | 72073 | [72073-need-for-speed-v-rally.json](./72073-need-for-speed-v-rally.json) |
 | Need for Spirit: Drink & Drive Simulator | 107819 | [107819-need-for-spirit-drink-and-drive-simulator.json](./107819-need-for-spirit-drink-and-drive-simulator.json) |
+| Need for Spirit: Drink & Drive Simulator - Off-Road Edition | 115221 | [115221-need-for-spirit-drink-and-drive-simulator-off-road-edition.json](./115221-need-for-spirit-drink-and-drive-simulator-off-road-edition.json) |
 | Need Know What Know | 405970 | [405970-need-know-what-know.json](./405970-need-know-what-know.json) |
 | Need More Troops | 165680 | [165680-need-more-troops.json](./165680-need-more-troops.json) |
 | Need to Know | 18234 | [18234-need-to-know.json](./18234-need-to-know.json) |
@@ -7786,6 +7788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Numina: Part 2 | 241510 | [241510-numina-part-2.json](./241510-numina-part-2.json) |
 | Numinous | 346497 | [346497-numinous.json](./346497-numinous.json) |
 | Numinous | 61044 | [61044-numinous.json](./61044-numinous.json) |
+| Numismatist | 115193 | [115193-numismatist.json](./115193-numismatist.json) |
 | Numito | 329119 | [329119-numito.json](./329119-numito.json) |
 | Numjump | 384787 | [384787-numjump.json](./384787-numjump.json) |
 | Numlock | 198044 | [198044-numlock.json](./198044-numlock.json) |
