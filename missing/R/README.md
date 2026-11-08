@@ -1875,6 +1875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Random Merge Defense | 257253 | [257253-random-merge-defense.json](./257253-random-merge-defense.json) |
 | Random Mix | 417291 | [417291-random-mix.json](./417291-random-mix.json) |
 | Random Number God | 184625 | [184625-random-number-god.json](./184625-random-number-god.json) |
+| Random of Wars | 111236 | [111236-random-of-wars.json](./111236-random-of-wars.json) |
 | Random Platformer | 169785 | [169785-random-platformer.json](./169785-random-platformer.json) |
 | Random Quest | 322233 | [322233-random-quest.json](./322233-random-quest.json) |
 | Random Quest : First Person RPG | 103505 | [103505-random-quest-first-person-rpg.json](./103505-random-quest-first-person-rpg.json) |
@@ -11825,6 +11826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Verdict | 391160 | [391160-royal-verdict.json](./391160-royal-verdict.json) |
 | Royal Wars: Farm TD | 329229 | [329229-royal-wars-farm-td.json](./329229-royal-wars-farm-td.json) |
 | Royal Watch: The Throne's Duty | 379976 | [379976-royal-watch-the-thrones-duty.json](./379976-royal-watch-the-thrones-duty.json) |
+| Royal Wedding Quest! | 111263 | [111263-royal-wedding-quest.json](./111263-royal-wedding-quest.json) |
 | Royal's Gambit | 347568 | [347568-royals-gambit.json](./347568-royals-gambit.json) |
 | Royale Age: Battle of Kings | 141336 | [141336-royale-age-battle-of-kings.json](./141336-royale-age-battle-of-kings.json) |
 | Royale Archer VR | 142036 | [142036-royale-archer-vr.json](./142036-royale-archer-vr.json) |
@@ -12469,6 +12471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Chicken, Run! | 370795 | [370795-run-chicken-run.json](./370795-run-chicken-run.json) |
 | Run Coffee Run | 384817 | [384817-run-coffee-run.json](./384817-run-coffee-run.json) |
 | Run Crabby Run | 54462 | [54462-run-crabby-run.json](./54462-run-crabby-run.json) |
+| Run Dant Run | 111135 | [111135-run-dant-run.json](./111135-run-dant-run.json) |
 | Run Desnecessauro | 204862 | [204862-run-desnecessauro.json](./204862-run-desnecessauro.json) |
 | Run Die Jump | 153357 | [153357-run-die-jump.json](./153357-run-die-jump.json) |
 | Run Die Retry | 109512 | [109512-run-die-retry.json](./109512-run-die-retry.json) |
