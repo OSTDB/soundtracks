@@ -7915,6 +7915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Hijinks | 309402 | [309402-highway-hijinks.json](./309402-highway-hijinks.json) |
 | Highway Hopper | 347797 | [347797-highway-hopper.json](./347797-highway-hopper.json) |
 | Highway Insanity | 107135 | [107135-highway-insanity.json](./107135-highway-insanity.json) |
+| Highway Junkie | 104172 | [104172-highway-junkie.json](./104172-highway-junkie.json) |
 | Highway Legends: Complete DLC Bundle | 317678 | [317678-highway-legends-complete-dlc-bundle.json](./317678-highway-legends-complete-dlc-bundle.json) |
 | Highway Legends: Gold Edition | 413573 | [413573-highway-legends-gold-edition.json](./413573-highway-legends-gold-edition.json) |
 | Highway Legends: Traffic Speed Racer | 317286 | [317286-highway-legends-traffic-speed-racer.json](./317286-highway-legends-traffic-speed-racer.json) |
@@ -8476,6 +8477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hit Ninja | 85183 | [85183-hit-ninja.json](./85183-hit-ninja.json) |
 | Hit of Chernobyl | 316567 | [316567-hit-of-chernobyl.json](./316567-hit-of-chernobyl.json) |
 | Hit Single | 299720 | [299720-hit-single.json](./299720-hit-single.json) |
+| Hit Skater: Team 10 | 104288 | [104288-hit-skater-team-10.json](./104288-hit-skater-team-10.json) |
 | Hit Tank PRO | 57129 | [57129-hit-tank-pro.json](./57129-hit-tank-pro.json) |
 | Hit Tennis 3 | 246268 | [246268-hit-tennis-3.json](./246268-hit-tennis-3.json) |
 | Hit The Beat | 305164 | [305164-hit-the-beat.json](./305164-hit-the-beat.json) |
@@ -11421,6 +11423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoverRider | 201002 | [201002-hoverrider.json](./201002-hoverrider.json) |
 | Hovershift | 117695 | [117695-hovershift.json](./117695-hovershift.json) |
 | Hovershift | 336916 | [336916-hovershift.json](./336916-hovershift.json) |
+| Hovership Havoc | 104179 | [104179-hovership-havoc.json](./104179-hovership-havoc.json) |
 | Hoversteppers | 262106 | [262106-hoversteppers.json](./262106-hoversteppers.json) |
 | Hoversteppers: Zone 1 | 287246 | [287246-hoversteppers-zone-1.json](./287246-hoversteppers-zone-1.json) |
 | Hoversurf in the Mess | 187696 | [187696-hoversurf-in-the-mess.json](./187696-hoversurf-in-the-mess.json) |
