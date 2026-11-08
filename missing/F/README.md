@@ -5447,6 +5447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finance | 131124 | [131124-finance.json](./131124-finance.json) |
 | Financial Football | 91919 | [91919-financial-football.json](./91919-financial-football.json) |
 | Financial Freedom | 397824 | [397824-financial-freedom.json](./397824-financial-freedom.json) |
+| Financie | 109930 | [109930-financie.json](./109930-financie.json) |
 | Finc Home Fit | 144726 | [144726-finc-home-fit.json](./144726-finc-home-fit.json) |
 | Fincester Tower | 236404 | [236404-fincester-tower.json](./236404-fincester-tower.json) |
 | Finch | 304902 | [304902-finch.json](./304902-finch.json) |
@@ -7670,6 +7671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flat Pack | 83287 | [83287-flat-pack.json](./83287-flat-pack.json) |
 | Flat Path | 31734 | [31734-flat-path.json](./31734-flat-path.json) |
 | Flat Spot | 258129 | [258129-flat-spot.json](./258129-flat-spot.json) |
+| Flat Trip | 109843 | [109843-flat-trip.json](./109843-flat-trip.json) |
 | Flat Worlds | 75055 | [75055-flat-worlds.json](./75055-flat-worlds.json) |
 | Flat Zombies: Cleanup & Defense | 174890 | [174890-flat-zombies-cleanup-and-defense.json](./174890-flat-zombies-cleanup-and-defense.json) |
 | Flatdog | 56429 | [56429-flatdog.json](./56429-flatdog.json) |
@@ -12284,6 +12286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Friends & Foes | 333991 | [333991-friends-and-foes.json](./333991-friends-and-foes.json) |
 | Friends and Fangs | 391712 | [391712-friends-and-fangs.json](./391712-friends-and-fangs.json) |
 | Friends for the Apocalypse | 126222 | [126222-friends-for-the-apocalypse.json](./126222-friends-for-the-apocalypse.json) |
+| Friends Gem for Kakao | 109928 | [109928-friends-gem-for-kakao.json](./109928-friends-gem-for-kakao.json) |
 | Friends in a Room | 295770 | [295770-friends-in-a-room.json](./295770-friends-in-a-room.json) |
 | Friends Killing Friends | 146085 | [146085-friends-killing-friends.json](./146085-friends-killing-friends.json) |
 | Friends Marble | 91337 | [91337-friends-marble.json](./91337-friends-marble.json) |
