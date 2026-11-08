@@ -2463,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiitsu | 96734 | [96734-kiitsu.json](./96734-kiitsu.json) |
 | Kijin-mura no Kiken na Inshuu: Dangerous Village Tradition | 270782 | [270782-kijin-mura-no-kiken-na-inshuu-dangerous-village-tradition.json](./270782-kijin-mura-no-kiken-na-inshuu-dangerous-village-tradition.json) |
 | Kijutsu Rider | 331639 | [331639-kijutsu-rider.json](./331639-kijutsu-rider.json) |
+| Kika & Daigo: A Curious Tale | 128111 | [128111-kika-and-daigo-a-curious-tale.json](./128111-kika-and-daigo-a-curious-tale.json) |
 | Kikai | 366180 | [366180-kikai.json](./366180-kikai.json) |
 | Kikai Shushi: MachinE SeeD | 366021 | [366021-kikai-shushi-machine-seed.json](./366021-kikai-shushi-machine-seed.json) |
 | Kikai: The Silent Cat | 261221 | [261221-kikai-the-silent-cat.json](./261221-kikai-the-silent-cat.json) |
