@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaia 2200 | 50530 | [50530-gaia-2200.json](./50530-gaia-2200.json) |
 | Gaia Attack 4 | 64962 | [64962-gaia-attack-4.json](./64962-gaia-attack-4.json) |
 | Gaia Aura | 327266 | [327266-gaia-aura.json](./327266-gaia-aura.json) |
+| Gaia Breeder | 130467 | [130467-gaia-breeder.json](./130467-gaia-breeder.json) |
 | Gaia Crusaders | 39550 | [39550-gaia-crusaders.json](./39550-gaia-crusaders.json) |
 | Gaia Eternal | 56175 | [56175-gaia-eternal.json](./56175-gaia-eternal.json) |
 | Gaia Maker | 373599 | [373599-gaia-maker.json](./373599-gaia-maker.json) |
@@ -8256,6 +8257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grandpa's Workshop | 68925 | [68925-grandpas-workshop.json](./68925-grandpas-workshop.json) |
 | GrandPaper | 322676 | [322676-grandpaper.json](./322676-grandpaper.json) |
 | Grandpurrents | 149469 | [149469-grandpurrents.json](./149469-grandpurrents.json) |
+| Grandread | 130469 | [130469-grandread.json](./130469-grandread.json) |
 | Grandslam Gamer Gold Collection | 379589 | [379589-grandslam-gamer-gold-collection.json](./379589-grandslam-gamer-gold-collection.json) |
 | Grandslam: The Tennis Tournament | 81410 | [81410-grandslam-the-tennis-tournament.json](./81410-grandslam-the-tennis-tournament.json) |
 | GrandTraveler | 227660 | [227660-grandtraveler.json](./227660-grandtraveler.json) |
