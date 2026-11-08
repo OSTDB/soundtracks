@@ -8536,6 +8536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicle: Unit Eight | 128989 | [128989-chronicle-unit-eight.json](./128989-chronicle-unit-eight.json) |
 | Chronicles and Fables: Arena | 178442 | [178442-chronicles-and-fables-arena.json](./178442-chronicles-and-fables-arena.json) |
 | Chronicles and Fables: Labyrinth | 180936 | [180936-chronicles-and-fables-labyrinth.json](./180936-chronicles-and-fables-labyrinth.json) |
+| Chronicles from 4.012 | 124340 | [124340-chronicles-from-4-012.json](./124340-chronicles-from-4-012.json) |
 | Chronicles from the Abyss | 346473 | [346473-chronicles-from-the-abyss.json](./346473-chronicles-from-the-abyss.json) |
 | Chronicles IV: Ebonheim | 358852 | [358852-chronicles-iv-ebonheim.json](./358852-chronicles-iv-ebonheim.json) |
 | Chronicles Meteorfall | 390062 | [390062-chronicles-meteorfall.json](./390062-chronicles-meteorfall.json) |
@@ -20110,6 +20111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Anabelle | 122826 | [122826-curse-of-anabelle.json](./122826-curse-of-anabelle.json) |
 | Curse of Argentum | 360329 | [360329-curse-of-argentum.json](./360329-curse-of-argentum.json) |
 | Curse of Argion | 217115 | [217115-curse-of-argion.json](./217115-curse-of-argion.json) |
+| Curse of Aros | 124372 | [124372-curse-of-aros.json](./124372-curse-of-aros.json) |
 | Curse of Atlantis: Thorgal's Quest | 23696 | [23696-curse-of-atlantis-thorgals-quest.json](./23696-curse-of-atlantis-thorgals-quest.json) |
 | Curse of Babylon | 283360 | [283360-curse-of-babylon.json](./283360-curse-of-babylon.json) |
 | Curse of Blood | 258377 | [258377-curse-of-blood.json](./258377-curse-of-blood.json) |
