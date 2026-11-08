@@ -1042,6 +1042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tale of Memories | 225815 | [225815-tale-of-memories.json](./225815-tale-of-memories.json) |
 | Tale of MoWu | 158111 | [158111-tale-of-mowu.json](./158111-tale-of-mowu.json) |
 | Tale of Ninja: Fall of the Miyoshi | 157456 | [157456-tale-of-ninja-fall-of-the-miyoshi.json](./157456-tale-of-ninja-fall-of-the-miyoshi.json) |
+| Tale of Palmi | 106166 | [106166-tale-of-palmi.json](./106166-tale-of-palmi.json) |
 | Tale of Rainbow 7 | 132607 | [132607-tale-of-rainbow-7.json](./132607-tale-of-rainbow-7.json) |
 | Tale of Ren: Searching for Heart Droplets | 270892 | [270892-tale-of-ren-searching-for-heart-droplets.json](./270892-tale-of-ren-searching-for-heart-droplets.json) |
 | Tale of Ronin | 27750 | [27750-tale-of-ronin.json](./27750-tale-of-ronin.json) |
@@ -17427,6 +17428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sporting News Baseball | 42443 | [42443-the-sporting-news-baseball.json](./42443-the-sporting-news-baseball.json) |
 | The Sporting News Baseball | 55154 | [55154-the-sporting-news-baseball.json](./55154-the-sporting-news-baseball.json) |
 | The Sports Daishuugou | 123043 | [123043-the-sports-daishuugou.json](./123043-the-sports-daishuugou.json) |
+| The Sports Trivia Challenge | 106051 | [106051-the-sports-trivia-challenge.json](./106051-the-sports-trivia-challenge.json) |
 | The Spotter: Dig or Die | 391190 | [391190-the-spotter-dig-or-die.json](./391190-the-spotter-dig-or-die.json) |
 | The Spreader | 312021 | [312021-the-spreader.json](./312021-the-spreader.json) |
 | The Spring | 183215 | [183215-the-spring.json](./183215-the-spring.json) |
@@ -26946,6 +26948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touchdown Pinball | 129804 | [129804-touchdown-pinball.json](./129804-touchdown-pinball.json) |
 | TouchDown Rush | 235151 | [235151-touchdown-rush.json](./235151-touchdown-rush.json) |
 | Touchdown: Armor League | 28057 | [28057-touchdown-armor-league.json](./28057-touchdown-armor-league.json) |
+| Touchdowners | 106066 | [106066-touchdowners.json](./106066-touchdowners.json) |
 | Touché: The Adventures of the Fifth Musketeer | 13788 | [13788-touche-the-adventures-of-the-fifth-musketeer.json](./13788-touche-the-adventures-of-the-fifth-musketeer.json) |
 | TouchFish | 137011 | [137011-touchfish.json](./137011-touchfish.json) |
 | Touchgrind | 66732 | [66732-touchgrind.json](./66732-touchgrind.json) |
@@ -28441,6 +28444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trail & Error | 401495 | [401495-trail-and-error.json](./401495-trail-and-error.json) |
 | Trail Boss BMX | 146945 | [146945-trail-boss-bmx.json](./146945-trail-boss-bmx.json) |
 | Trail Breaking | 99439 | [99439-trail-breaking.json](./99439-trail-breaking.json) |
+| Trail Climb | 106030 | [106030-trail-climb.json](./106030-trail-climb.json) |
 | Trail Master 3D | 245266 | [245266-trail-master-3d.json](./245266-trail-master-3d.json) |
 | Trail Mix | 176318 | [176318-trail-mix.json](./176318-trail-mix.json) |
 | Trail of Ayash | 112111 | [112111-trail-of-ayash.json](./112111-trail-of-ayash.json) |
@@ -31939,6 +31943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trisker | 130647 | [130647-trisker.json](./130647-trisker.json) |
 | Trism | 29043 | [29043-trism.json](./29043-trism.json) |
 | Trism 2 | 109506 | [109506-trism-2.json](./109506-trism-2.json) |
+| Trism II | 106064 | [106064-trism-ii.json](./106064-trism-ii.json) |
 | Tristan | 96532 | [96532-tristan.json](./96532-tristan.json) |
 | Tristan Cole's Pro Driver | 211540 | [211540-tristan-coles-pro-driver.json](./211540-tristan-coles-pro-driver.json) |
 | Tristan: Curse of The Frog | 404964 | [404964-tristan-curse-of-the-frog.json](./404964-tristan-curse-of-the-frog.json) |
@@ -33422,6 +33427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turing Quest | 241142 | [241142-turing-quest.json](./241142-turing-quest.json) |
 | Turing Sandbox | 400448 | [400448-turing-sandbox.json](./400448-turing-sandbox.json) |
 | Turing Trial | 183987 | [183987-turing-trial.json](./183987-turing-trial.json) |
+| Turing Tumble VR | 106165 | [106165-turing-tumble-vr.json](./106165-turing-tumble-vr.json) |
 | Turis Station | 244501 | [244501-turis-station.json](./244501-turis-station.json) |
 | Turistifyer | 358588 | [358588-turistifyer.json](./358588-turistifyer.json) |
 | Turk-A-Lurk | 186811 | [186811-turk-a-lurk.json](./186811-turk-a-lurk.json) |
@@ -33849,6 +33855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twilight's Final Judgement | 196966 | [196966-twilights-final-judgement.json](./196966-twilights-final-judgement.json) |
 | Twilight's Flavors & Delight | 381787 | [381787-twilights-flavors-and-delight.json](./381787-twilights-flavors-and-delight.json) |
 | Twilight's Folclore | 374180 | [374180-twilights-folclore.json](./374180-twilights-folclore.json) |
+| Twilight's Last Gleaming | 106061 | [106061-twilights-last-gleaming.json](./106061-twilights-last-gleaming.json) |
 | Twilight's Ransom | 12805 | [12805-twilights-ransom.json](./12805-twilights-ransom.json) |
 | TwilioQuest | 124416 | [124416-twilioquest.json](./124416-twilioquest.json) |
 | Twin | 310512 | [310512-twin.json](./310512-twin.json) |
