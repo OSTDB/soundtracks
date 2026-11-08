@@ -820,6 +820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimechs | 214252 | [214252-ultimechs.json](./214252-ultimechs.json) |
 | Ultimechs Spectator | 244068 | [244068-ultimechs-spectator.json](./244068-ultimechs-spectator.json) |
 | Ultimo Reino | 111993 | [111993-ultimo-reino.json](./111993-ultimo-reino.json) |
+| Ultimo Reino 2 | 132371 | [132371-ultimo-reino-2.json](./132371-ultimo-reino-2.json) |
 | Ultimotion: Fitness | 220270 | [220270-ultimotion-fitness.json](./220270-ultimotion-fitness.json) |
 | Ultimotion: Sleeping Beauty & Tinker Bell | 220271 | [220271-ultimotion-sleeping-beauty-and-tinker-bell.json](./220271-ultimotion-sleeping-beauty-and-tinker-bell.json) |
 | Ultimotion: Swing Zone Sports | 220269 | [220269-ultimotion-swing-zone-sports.json](./220269-ultimotion-swing-zone-sports.json) |
@@ -2492,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unknown Tank Game | 286948 | [286948-unknown-tank-game.json](./286948-unknown-tank-game.json) |
 | Unknown Terminal | 393826 | [393826-unknown-terminal.json](./393826-unknown-terminal.json) |
 | Unknown Variable 2: Raven's Ridge | 278222 | [278222-unknown-variable-2-ravens-ridge.json](./278222-unknown-variable-2-ravens-ridge.json) |
+| Unknown Ways | 132364 | [132364-unknown-ways.json](./132364-unknown-ways.json) |
 | Unknown Woods | 148458 | [148458-unknown-woods.json](./148458-unknown-woods.json) |
 | Unknown: Evolution | 219963 | [219963-unknown-evolution.json](./219963-unknown-evolution.json) |
 | Unknown: Raven Field | 344904 | [344904-unknown-raven-field.json](./344904-unknown-raven-field.json) |
