@@ -8875,6 +8875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls Online: Flames of Ambition | 180622 | [180622-the-elder-scrolls-online-flames-of-ambition.json](./180622-the-elder-scrolls-online-flames-of-ambition.json) |
 | The Elder Scrolls Online: Gold Road | 283120 | [283120-the-elder-scrolls-online-gold-road.json](./283120-the-elder-scrolls-online-gold-road.json) |
 | The Elder Scrolls Online: Greymoor | 128442 | [128442-the-elder-scrolls-online-greymoor.json](./128442-the-elder-scrolls-online-greymoor.json) |
+| The Elder Scrolls Online: Greymoor - Collector's Edition | 128765 | [128765-the-elder-scrolls-online-greymoor-collectors-edition.json](./128765-the-elder-scrolls-online-greymoor-collectors-edition.json) |
 | The Elder Scrolls Online: Harrowstorm | 128443 | [128443-the-elder-scrolls-online-harrowstorm.json](./128443-the-elder-scrolls-online-harrowstorm.json) |
 | The Elder Scrolls Online: High Isle | 195342 | [195342-the-elder-scrolls-online-high-isle.json](./195342-the-elder-scrolls-online-high-isle.json) |
 | The Elder Scrolls Online: High Isle Collector's Edition | 196517 | [196517-the-elder-scrolls-online-high-isle-collectors-edition.json](./196517-the-elder-scrolls-online-high-isle-collectors-edition.json) |
@@ -9689,6 +9690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fish and the Furious | 132826 | [132826-the-fish-and-the-furious.json](./132826-the-fish-and-the-furious.json) |
 | The Fish Files | 50037 | [50037-the-fish-files.json](./50037-the-fish-files.json) |
 | The Fish Fillets 2 | 9841 | [9841-the-fish-fillets-2.json](./9841-the-fish-fillets-2.json) |
+| The Fish Market | 128728 | [128728-the-fish-market.json](./128728-the-fish-market.json) |
 | The Fish Master! | 104099 | [104099-the-fish-master.json](./104099-the-fish-master.json) |
 | The Fish Shack | 398010 | [398010-the-fish-shack.json](./398010-the-fish-shack.json) |
 | The Fishercat | 205236 | [205236-the-fishercat.json](./205236-the-fishercat.json) |
@@ -11205,6 +11207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: SideM | 56386 | [56386-the-idolmaster-sidem.json](./56386-the-idolmaster-sidem.json) |
 | The Idolmaster: SideM - Growing Stars | 175617 | [175617-the-idolmaster-sidem-growing-stars.json](./175617-the-idolmaster-sidem-growing-stars.json) |
 | The Idolmaster: SideM - Live on Stage! | 54983 | [54983-the-idolmaster-sidem-live-on-stage.json](./54983-the-idolmaster-sidem-live-on-stage.json) |
+| The Idolmaster: Starlit Season | 128726 | [128726-the-idolmaster-starlit-season.json](./128726-the-idolmaster-starlit-season.json) |
 | The Idolmaster: Starlit Season - Starlight Box | 146012 | [146012-the-idolmaster-starlit-season-starlight-box.json](./146012-the-idolmaster-starlit-season-starlight-box.json) |
 | The Idolmaster: Stella Stage | 68288 | [68288-the-idolmaster-stella-stage.json](./68288-the-idolmaster-stella-stage.json) |
 | The Idolmaster: Stella Stage - Stella Box | 136683 | [136683-the-idolmaster-stella-stage-stella-box.json](./136683-the-idolmaster-stella-stage-stella-box.json) |
@@ -24580,6 +24583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Wolves | 57475 | [57475-to-the-wolves.json](./57475-to-the-wolves.json) |
 | To Trust an Incubus | 111730 | [111730-to-trust-an-incubus.json](./111730-to-trust-an-incubus.json) |
 | To Victory | 274471 | [274471-to-victory.json](./274471-to-victory.json) |
+| To What End | 128731 | [128731-to-what-end.json](./128731-to-what-end.json) |
 | To You, the Evil Spirit | 349026 | [349026-to-you-the-evil-spirit.json](./349026-to-you-the-evil-spirit.json) |
 | To Your Stations! | 135750 | [135750-to-your-stations.json](./135750-to-your-stations.json) |
 | To-Fu Collection | 206765 | [206765-to-fu-collection.json](./206765-to-fu-collection.json) |
@@ -30340,6 +30344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TranscendPang | 153632 | [153632-transcendpang.json](./153632-transcendpang.json) |
 | Transcontinental | 328281 | [328281-transcontinental.json](./328281-transcontinental.json) |
 | Transcriptions of Time | 413818 | [413818-transcriptions-of-time.json](./413818-transcriptions-of-time.json) |
+| Transcube | 128739 | [128739-transcube.json](./128739-transcube.json) |
 | Transfer | 182769 | [182769-transfer.json](./182769-transfer.json) |
 | Transfer of Essence | 156031 | [156031-transfer-of-essence.json](./156031-transfer-of-essence.json) |
 | Transfer Point | 395064 | [395064-transfer-point.json](./395064-transfer-point.json) |
@@ -31988,6 +31993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trombone Champ: Unflattened! - Undertale + Deltarune Song Pack | 360779 | [360779-trombone-champ-unflattened-undertale-deltarune-song-pack.json](./360779-trombone-champ-unflattened-undertale-deltarune-song-pack.json) |
 | Trombone Hero | 232091 | [232091-trombone-hero.json](./232091-trombone-hero.json) |
 | Trompers | 296228 | [296228-trompers.json](./296228-trompers.json) |
+| Tron | 128730 | [128730-tron.json](./128730-tron.json) |
 | Tron | 284223 | [284223-tron.json](./284223-tron.json) |
 | Tron | 297488 | [297488-tron.json](./297488-tron.json) |
 | Tron | 363619 | [363619-tron.json](./363619-tron.json) |
@@ -33512,6 +33518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV Calibration | 81233 | [81233-tv-calibration.json](./81233-tv-calibration.json) |
 | TV Empire Tycoon | 169798 | [169798-tv-empire-tycoon.json](./169798-tv-empire-tycoon.json) |
 | TV Farm | 355530 | [355530-tv-farm.json](./355530-tv-farm.json) |
+| TV Giant | 128761 | [128761-tv-giant.json](./128761-tv-giant.json) |
 | TV Guide | 135699 | [135699-tv-guide.json](./135699-tv-guide.json) |
 | TV Head: Eight Pages | 252513 | [252513-tv-head-eight-pages.json](./252513-tv-head-eight-pages.json) |
 | TV Kamishibai Vol. 1 | 273256 | [273256-tv-kamishibai-vol-1.json](./273256-tv-kamishibai-vol-1.json) |
