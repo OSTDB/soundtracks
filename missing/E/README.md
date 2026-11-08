@@ -698,6 +698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EbonSide | 189251 | [189251-ebonside.json](./189251-ebonside.json) |
 | Ebonstar | 57627 | [57627-ebonstar.json](./57627-ebonstar.json) |
 | Ebontale | 179184 | [179184-ebontale.json](./179184-ebontale.json) |
+| Ebony | 129919 | [129919-ebony.json](./129919-ebony.json) |
 | Ebony Spire: Heresy | 74239 | [74239-ebony-spire-heresy.json](./74239-ebony-spire-heresy.json) |
 | Ebuc | 83890 | [83890-ebuc.json](./83890-ebuc.json) |
 | Ebullition LBVR | 121769 | [121769-ebullition-lbvr.json](./121769-ebullition-lbvr.json) |
