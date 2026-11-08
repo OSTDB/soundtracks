@@ -1566,6 +1566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctus Mortem | 102912 | [102912-sanctus-mortem.json](./102912-sanctus-mortem.json) |
 | Sand and Rust | 124582 | [124582-sand-and-rust.json](./124582-sand-and-rust.json) |
 | Sand and Stars | 136555 | [136555-sand-and-stars.json](./136555-sand-and-stars.json) |
+| Sand Balls | 123686 | [123686-sand-balls.json](./123686-sand-balls.json) |
 | Sand Bullets | 169094 | [169094-sand-bullets.json](./169094-sand-bullets.json) |
 | Sand Castle | 192617 | [192617-sand-castle.json](./192617-sand-castle.json) |
 | Sand Castles | 161387 | [161387-sand-castles.json](./161387-sand-castles.json) |
@@ -32868,6 +32869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monaco GP | 4528 | [4528-super-monaco-gp.json](./4528-super-monaco-gp.json) |
 | Super Monday Night Combat | 16255 | [16255-super-monday-night-combat.json](./16255-super-monday-night-combat.json) |
 | Super Monk War Z | 151038 | [151038-super-monk-war-z.json](./151038-super-monk-war-z.json) |
+| Super Monkey | 123714 | [123714-super-monkey.json](./123714-super-monkey.json) |
 | Super Monkey Ball | 134907 | [134907-super-monkey-ball.json](./134907-super-monkey-ball.json) |
 | Super Monkey Ball | 2927 | [2927-super-monkey-ball.json](./2927-super-monkey-ball.json) |
 | Super Monkey Ball 2 | 2928 | [2928-super-monkey-ball-2.json](./2928-super-monkey-ball-2.json) |
