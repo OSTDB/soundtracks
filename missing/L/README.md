@@ -5638,6 +5638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Língua | 172873 | [172873-lingua.json](./172873-lingua.json) |
 | Lingua Fleur: Lily | 112700 | [112700-lingua-fleur-lily.json](./112700-lingua-fleur-lily.json) |
 | Lingua Franca | 371920 | [371920-lingua-franca.json](./371920-lingua-franca.json) |
+| Lingua Magicka | 89342 | [89342-lingua-magicka.json](./89342-lingua-magicka.json) |
 | Linguist FPS: The Language Learning FPS | 202108 | [202108-linguist-fps-the-language-learning-fps.json](./202108-linguist-fps-the-language-learning-fps.json) |
 | Língwén Xīyóu | 106558 | [106558-lingwen-xiyou.json](./106558-lingwen-xiyou.json) |
 | Lingword | 307591 | [307591-lingword.json](./307591-lingword.json) |
@@ -6588,6 +6589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Portrait Maker: Guys | 103167 | [103167-live-portrait-maker-guys.json](./103167-live-portrait-maker-guys.json) |
 | Live Rise!!: 4K Fever | 413072 | [413072-live-rise-4k-fever.json](./413072-live-rise-4k-fever.json) |
 | Live Shiver | 264709 | [264709-live-shiver.json](./264709-live-shiver.json) |
+| Live the Guitar | 89333 | [89333-live-the-guitar.json](./89333-live-the-guitar.json) |
 | Live to Win | 129622 | [129622-live-to-win.json](./129622-live-to-win.json) |
 | Live together Now | 278919 | [278919-live-together-now.json](./278919-live-together-now.json) |
 | Live Wire! | 122569 | [122569-live-wire.json](./122569-live-wire.json) |
@@ -7141,6 +7143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Pro 2 | 131151 | [131151-logic-pro-2.json](./131151-logic-pro-2.json) |
 | Logic Puzzle Collection: Sudoku, Permudoku, Nonodoku | 147949 | [147949-logic-puzzle-collection-sudoku-permudoku-nonodoku.json](./147949-logic-puzzle-collection-sudoku-permudoku-nonodoku.json) |
 | Logic Puzzle Rainbow Town | 252872 | [252872-logic-puzzle-rainbow-town.json](./252872-logic-puzzle-rainbow-town.json) |
+| Logic Puzzles | 89360 | [89360-logic-puzzles.json](./89360-logic-puzzles.json) |
 | Logic Quest 3D | 79759 | [79759-logic-quest-3d.json](./79759-logic-quest-3d.json) |
 | Logic Square | 228142 | [228142-logic-square.json](./228142-logic-square.json) |
 | Logic Town | 241126 | [241126-logic-town.json](./241126-logic-town.json) |
