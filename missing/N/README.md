@@ -2842,6 +2842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeSnake 2 | 48374 | [48374-nesnake-2.json](./48374-nesnake-2.json) |
 | Nesquik Quest | 332631 | [332631-nesquik-quest.json](./332631-nesquik-quest.json) |
 | Nessa no Hoshi | 123585 | [123585-nessa-no-hoshi.json](./123585-nessa-no-hoshi.json) |
+| Nessen Koushien: Exciting Baseball | 83137 | [83137-nessen-koushien-exciting-baseball.json](./83137-nessen-koushien-exciting-baseball.json) |
 | Nessie | 64442 | [64442-nessie.json](./64442-nessie.json) |
 | Nessy the... Robot | 237044 | [237044-nessy-the-robot.json](./237044-nessy-the-robot.json) |
 | Nest Lander | 134894 | [134894-nest-lander.json](./134894-nest-lander.json) |
