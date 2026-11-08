@@ -463,6 +463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Factory Outlet Simulator | 301945 | [301945-factory-outlet-simulator.json](./301945-factory-outlet-simulator.json) |
 | Factory Panic | 46348 | [46348-factory-panic.json](./46348-factory-panic.json) |
 | Factory Parking | 308243 | [308243-factory-parking.json](./308243-factory-parking.json) |
+| Factory Pirates | 108654 | [108654-factory-pirates.json](./108654-factory-pirates.json) |
 | Factory Planner | 349645 | [349645-factory-planner.json](./349645-factory-planner.json) |
 | Factory Rally Madness | 131763 | [131763-factory-rally-madness.json](./131763-factory-rally-madness.json) |
 | Factory Simulator: Clothing & Outlet | 326435 | [326435-factory-simulator-clothing-and-outlet.json](./326435-factory-simulator-clothing-and-outlet.json) |
@@ -5603,6 +5604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Pairs: Classic Memory Puzzle | 249577 | [249577-find-the-pairs-classic-memory-puzzle.json](./249577-find-the-pairs-classic-memory-puzzle.json) |
 | Find the Road | 242210 | [242210-find-the-road.json](./242210-find-the-road.json) |
 | Find the route | 27704 | [27704-find-the-route.json](./27704-find-the-route.json) |
+| Find the Sherlock Gnomes | 108580 | [108580-find-the-sherlock-gnomes.json](./108580-find-the-sherlock-gnomes.json) |
 | Find the Sneaky Chameleon | 412567 | [412567-find-the-sneaky-chameleon.json](./412567-find-the-sneaky-chameleon.json) |
 | Find the Stalker | 310219 | [310219-find-the-stalker.json](./310219-find-the-stalker.json) |
 | Find the Sunbed | 189959 | [189959-find-the-sunbed.json](./189959-find-the-sunbed.json) |
@@ -6547,6 +6549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fish or Chicken | 250254 | [250254-fish-or-chicken.json](./250254-fish-or-chicken.json) |
 | Fish or Die | 34778 | [34778-fish-or-die.json](./34778-fish-or-die.json) |
 | Fish Orbit | 390543 | [390543-fish-orbit.json](./390543-fish-orbit.json) |
+| Fish Out | 108586 | [108586-fish-out.json](./108586-fish-out.json) |
 | Fish out of Water's Fish n' Ship | 343131 | [343131-fish-out-of-waters-fish-n-ship.json](./343131-fish-out-of-waters-fish-n-ship.json) |
 | Fish Party Online | 250385 | [250385-fish-party-online.json](./250385-fish-party-online.json) |
 | Fish Person Shooter | 145636 | [145636-fish-person-shooter.json](./145636-fish-person-shooter.json) |
@@ -8060,6 +8063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip Out | 79314 | [79314-flip-out.json](./79314-flip-out.json) |
 | Flip Out Rush | 337724 | [337724-flip-out-rush.json](./337724-flip-out-rush.json) |
 | Flip Out! | 40799 | [40799-flip-out.json](./40799-flip-out.json) |
+| Flip Over Frog | 108657 | [108657-flip-over-frog.json](./108657-flip-over-frog.json) |
 | Flip Panic! | 353827 | [353827-flip-panic.json](./353827-flip-panic.json) |
 | Flip Pigs | 219926 | [219926-flip-pigs.json](./219926-flip-pigs.json) |
 | Flip Range | 196404 | [196404-flip-range.json](./196404-flip-range.json) |
@@ -13629,6 +13633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funbag Fantasy: Sideboob Story 2 | 131858 | [131858-funbag-fantasy-sideboob-story-2.json](./131858-funbag-fantasy-sideboob-story-2.json) |
 | Funball | 94946 | [94946-funball.json](./94946-funball.json) |
 | FunBall 3D | 205858 | [205858-funball-3d.json](./205858-funball-3d.json) |
+| FunBox Party | 108652 | [108652-funbox-party.json](./108652-funbox-party.json) |
 | Funbox Ultimate Slots Bundle | 317549 | [317549-funbox-ultimate-slots-bundle.json](./317549-funbox-ultimate-slots-bundle.json) |
 | Funbridge your bridge club | 88836 | [88836-funbridge-your-bridge-club.json](./88836-funbridge-your-bridge-club.json) |
 | Func Key | 383673 | [383673-func-key.json](./383673-func-key.json) |
