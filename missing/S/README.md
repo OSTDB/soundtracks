@@ -27618,6 +27618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stomp | 91539 | [91539-stomp.json](./91539-stomp.json) |
 | Stomp and the Sword of Miracles | 356053 | [356053-stomp-and-the-sword-of-miracles.json](./356053-stomp-and-the-sword-of-miracles.json) |
 | Stomp Plonk | 228832 | [228832-stomp-plonk.json](./228832-stomp-plonk.json) |
+| Stomped | 116541 | [116541-stomped.json](./116541-stomped.json) |
 | Stomper | 182990 | [182990-stomper.json](./182990-stomper.json) |
 | Stomper | 313867 | [313867-stomper.json](./313867-stomper.json) |
 | Stompgame | 380977 | [380977-stompgame.json](./380977-stompgame.json) |
@@ -29580,6 +29581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subjectivation | 341910 | [341910-subjectivation.json](./341910-subjectivation.json) |
 | Subjugation | 348709 | [348709-subjugation.json](./348709-subjugation.json) |
 | Sublight | 377057 | [377057-sublight.json](./377057-sublight.json) |
+| SubLight | 116568 | [116568-sublight.json](./116568-sublight.json) |
 | Sublime Element | 250790 | [250790-sublime-element.json](./250790-sublime-element.json) |
 | Subliminal Realms: The Masterpiece | 140290 | [140290-subliminal-realms-the-masterpiece.json](./140290-subliminal-realms-the-masterpiece.json) |
 | Subliminal Realms: The Masterpiece HD | 99717 | [99717-subliminal-realms-the-masterpiece-hd.json](./99717-subliminal-realms-the-masterpiece-hd.json) |
