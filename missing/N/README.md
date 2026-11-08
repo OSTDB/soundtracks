@@ -7323,6 +7323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Warp | 423868 | [423868-nova-warp.json](./423868-nova-warp.json) |
 | Nova Wing | 86634 | [86634-nova-wing.json](./86634-nova-wing.json) |
 | Nova Wing II | 95609 | [95609-nova-wing-ii.json](./95609-nova-wing-ii.json) |
+| Nova Wing III | 100370 | [100370-nova-wing-iii.json](./100370-nova-wing-iii.json) |
 | Nova X9 | 258413 | [258413-nova-x9.json](./258413-nova-x9.json) |
 | Nova-111 | 12561 | [12561-nova-111.json](./12561-nova-111.json) |
 | Nova-Life | 104328 | [104328-nova-life.json](./104328-nova-life.json) |
