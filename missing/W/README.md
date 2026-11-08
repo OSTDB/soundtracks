@@ -643,6 +643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderer | 36866 | [36866-wanderer.json](./36866-wanderer.json) |
 | Wanderer | 95426 | [95426-wanderer.json](./95426-wanderer.json) |
 | Wanderer 2: The Seas of Fortune | 305549 | [305549-wanderer-2-the-seas-of-fortune.json](./305549-wanderer-2-the-seas-of-fortune.json) |
+| Wanderer of Lifetimes | 134151 | [134151-wanderer-of-lifetimes.json](./134151-wanderer-of-lifetimes.json) |
 | Wanderer of Teandria | 32553 | [32553-wanderer-of-teandria.json](./32553-wanderer-of-teandria.json) |
 | Wanderer: Broken Bed | 260327 | [260327-wanderer-broken-bed.json](./260327-wanderer-broken-bed.json) |
 | Wanderer: The Fragments of Fate | 253728 | [253728-wanderer-the-fragments-of-fate.json](./253728-wanderer-the-fragments-of-fate.json) |
