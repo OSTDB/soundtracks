@@ -8198,6 +8198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Darkside Detective: Series Edition | 164793 | [164793-the-darkside-detective-series-edition.json](./164793-the-darkside-detective-series-edition.json) |
 | The Daruma Challenge | 331279 | [331279-the-daruma-challenge.json](./331279-the-daruma-challenge.json) |
 | The Dasshutsu Game: Kiken na 5-tsu no Misshitsu | 222040 | [222040-the-dasshutsu-game-kiken-na-5-tsu-no-misshitsu.json](./222040-the-dasshutsu-game-kiken-na-5-tsu-no-misshitsu.json) |
+| The Dastardly Dairy Debacle | 134763 | [134763-the-dastardly-dairy-debacle.json](./134763-the-dastardly-dairy-debacle.json) |
 | The Dating Game | 291930 | [291930-the-dating-game.json](./291930-the-dating-game.json) |
 | The Dating Game | 65534 | [65534-the-dating-game.json](./65534-the-dating-game.json) |
 | The Daughter | 380589 | [380589-the-daughter.json](./380589-the-daughter.json) |
@@ -18322,6 +18323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Training Diary of a Novice Magician Shin | 82810 | [82810-the-training-diary-of-a-novice-magician-shin.json](./82810-the-training-diary-of-a-novice-magician-shin.json) |
 | The Tram | 413738 | [413738-the-tram.json](./413738-the-tram.json) |
 | The tram of wishes | 152836 | [152836-the-tram-of-wishes.json](./152836-the-tram-of-wishes.json) |
+| The Trans Zone | 134809 | [134809-the-trans-zone.json](./134809-the-trans-zone.json) |
 | The Transference | 273790 | [273790-the-transference.json](./273790-the-transference.json) |
 | The Transformers | 8015 | [8015-the-transformers.json](./8015-the-transformers.json) |
 | The Transporter | 287470 | [287470-the-transporter.json](./287470-the-transporter.json) |
