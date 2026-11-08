@@ -363,6 +363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wales Interactive Publisher Bundle | 301564 | [301564-wales-interactive-publisher-bundle.json](./301564-wales-interactive-publisher-bundle.json) |
 | Wales Interactive VR Bundle | 119086 | [119086-wales-interactive-vr-bundle.json](./119086-wales-interactive-vr-bundle.json) |
 | Walfie's Nonograms | 389599 | [389599-walfies-nonograms.json](./389599-walfies-nonograms.json) |
+| Walhall | 81602 | [81602-walhall.json](./81602-walhall.json) |
 | Waligie 3: On Mars | 318032 | [318032-waligie-3-on-mars.json](./318032-waligie-3-on-mars.json) |
 | Walk | 152080 | [152080-walk.json](./152080-walk.json) |
 | Walk | 330662 | [330662-walk.json](./330662-walk.json) |
@@ -6037,6 +6038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winner In Life | 338363 | [338363-winner-in-life.json](./338363-winner-in-life.json) |
 | Winner IV | 170845 | [170845-winner-iv.json](./170845-winner-iv.json) |
 | Winner vs. Loser | 182455 | [182455-winner-vs-loser.json](./182455-winner-vs-loser.json) |
+| Winner Winner Chicken Dinner! | 81589 | [81589-winner-winner-chicken-dinner.json](./81589-winner-winner-chicken-dinner.json) |
 | Winner's Circle | 269662 | [269662-winners-circle.json](./269662-winners-circle.json) |
 | Winner's Circle: Rusty Wallace | 217720 | [217720-winners-circle-rusty-wallace.json](./217720-winners-circle-rusty-wallace.json) |
 | Winner's Soccer Evolution | 233045 | [233045-winners-soccer-evolution.json](./233045-winners-soccer-evolution.json) |
