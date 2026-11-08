@@ -872,6 +872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaws: Retro Edition | 381120 | [381120-jaws-retro-edition.json](./381120-jaws-retro-edition.json) |
 | Jaws: Ultimate Predator | 19931 | [19931-jaws-ultimate-predator.json](./19931-jaws-ultimate-predator.json) |
 | Jaws! | 220588 | [220588-jaws.json](./220588-jaws.json) |
+| Jaws! | 95495 | [95495-jaws.json](./95495-jaws.json) |
 | Jaws.io | 115306 | [115306-jaws-io.json](./115306-jaws-io.json) |
 | JawshRPG | 316280 | [316280-jawshrpg.json](./316280-jawshrpg.json) |
 | Jax Payne – Part 1 | 252102 | [252102-jax-payne-part-1.json](./252102-jax-payne-part-1.json) |
@@ -3437,6 +3438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jumper | 205099 | [205099-jumper.json](./205099-jumper.json) |
 | Jumper 2B | 110257 | [110257-jumper-2b.json](./110257-jumper-2b.json) |
 | Jumper Jape | 26156 | [26156-jumper-jape.json](./26156-jumper-jape.json) |
+| Jumper Jon | 95547 | [95547-jumper-jon.json](./95547-jumper-jon.json) |
 | Jumper Kiwi | 248267 | [248267-jumper-kiwi.json](./248267-jumper-kiwi.json) |
 | Jumper Platform | 231944 | [231944-jumper-platform.json](./231944-jumper-platform.json) |
 | Jumper Starman | 155775 | [155775-jumper-starman.json](./155775-jumper-starman.json) |
