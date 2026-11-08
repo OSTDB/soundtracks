@@ -5167,6 +5167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decimated | 206358 | [206358-decimated.json](./206358-decimated.json) |
 | Decimation | 390437 | [390437-decimation.json](./390437-decimation.json) |
 | Decimation X | 66374 | [66374-decimation-x.json](./66374-decimation-x.json) |
+| Decimation X3 | 78186 | [78186-decimation-x3.json](./78186-decimation-x3.json) |
 | Decipher Quest | 183676 | [183676-decipher-quest.json](./183676-decipher-quest.json) |
 | Decipher the Deck | 309473 | [309473-decipher-the-deck.json](./309473-decipher-the-deck.json) |
 | Decision | 299762 | [299762-decision.json](./299762-decision.json) |
@@ -7283,6 +7284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Derora | 76366 | [76366-derora.json](./76366-derora.json) |
 | Derp Souls | 219241 | [219241-derp-souls.json](./219241-derp-souls.json) |
 | Derpixon x FNF | 270505 | [270505-derpixon-x-fnf.json](./270505-derpixon-x-fnf.json) |
+| Derpman: The Code Monkey Conundrum | 78218 | [78218-derpman-the-code-monkey-conundrum.json](./78218-derpman-the-code-monkey-conundrum.json) |
 | Derpy Conga | 122086 | [122086-derpy-conga.json](./122086-derpy-conga.json) |
 | Derpy Deep Drive | 151893 | [151893-derpy-deep-drive.json](./151893-derpy-deep-drive.json) |
 | Derpy Dinos | 74433 | [74433-derpy-dinos.json](./74433-derpy-dinos.json) |
@@ -10896,6 +10898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Aladdin | 8118 | [8118-disneys-aladdin.json](./8118-disneys-aladdin.json) |
 | Disney's Aladdin in Nasira's Revenge | 10791 | [10791-disneys-aladdin-in-nasiras-revenge.json](./10791-disneys-aladdin-in-nasiras-revenge.json) |
 | Disney's Aladdin: Aladdin's Wonders of the World | 77061 | [77061-disneys-aladdin-aladdins-wonders-of-the-world.json](./77061-disneys-aladdin-aladdins-wonders-of-the-world.json) |
+| Disney's Aladdin: Chess Adventures | 78216 | [78216-disneys-aladdin-chess-adventures.json](./78216-disneys-aladdin-chess-adventures.json) |
 | Disney's American Dragon Jake Long: Rise of the Huntsclan! | 49410 | [49410-disneys-american-dragon-jake-long-rise-of-the-huntsclan.json](./49410-disneys-american-dragon-jake-long-rise-of-the-huntsclan.json) |
 | Disney's American Dragon: Jake Long - Attack of the Dark Dragon | 8464 | [8464-disneys-american-dragon-jake-long-attack-of-the-dark-dragon.json](./8464-disneys-american-dragon-jake-long-attack-of-the-dark-dragon.json) |
 | Disney's Animated Storybook: 101 Dalmatians | 204394 | [204394-disneys-animated-storybook-101-dalmatians.json](./204394-disneys-animated-storybook-101-dalmatians.json) |
@@ -11505,6 +11508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJ Fest Vol.1 | 393494 | [393494-dj-fest-vol-1.json](./393494-dj-fest-vol-1.json) |
 | DJ Fuzz Ball | 419206 | [419206-dj-fuzz-ball.json](./419206-dj-fuzz-ball.json) |
 | DJ Hero | 2679 | [2679-dj-hero.json](./2679-dj-hero.json) |
+| DJ Hero 3D | 78237 | [78237-dj-hero-3d.json](./78237-dj-hero-3d.json) |
 | DJ Life | 67978 | [67978-dj-life.json](./67978-dj-life.json) |
 | DJ Life Simulator: From Your Bedroom to the Mainstage | 391147 | [391147-dj-life-simulator-from-your-bedroom-to-the-mainstage.json](./391147-dj-life-simulator-from-your-bedroom-to-the-mainstage.json) |
 | DJ Lusty Beats | 391452 | [391452-dj-lusty-beats.json](./391452-dj-lusty-beats.json) |
@@ -15116,6 +15120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Buyuu Retsuden | 2548 | [2548-dragon-ball-z-buyuu-retsuden.json](./2548-dragon-ball-z-buyuu-retsuden.json) |
 | Dragon Ball Z: Cell To Kogeki Da | 322346 | [322346-dragon-ball-z-cell-to-kogeki-da.json](./322346-dragon-ball-z-cell-to-kogeki-da.json) |
 | Dragon Ball Z: Dokkan Battle | 88818 | [88818-dragon-ball-z-dokkan-battle.json](./88818-dragon-ball-z-dokkan-battle.json) |
+| Dragon Ball Z: Dragon Battlers | 78235 | [78235-dragon-ball-z-dragon-battlers.json](./78235-dragon-ball-z-dragon-battlers.json) |
 | Dragon Ball Z: Extreme Butouden | 20033 | [20033-dragon-ball-z-extreme-butouden.json](./20033-dragon-ball-z-extreme-butouden.json) |
 | Dragon Ball Z: Final Bout | 229063 | [229063-dragon-ball-z-final-bout.json](./229063-dragon-ball-z-final-bout.json) |
 | Dragon Ball Z: Gekitou Tenkaichi Budoukai | 2578 | [2578-dragon-ball-z-gekitou-tenkaichi-budoukai.json](./2578-dragon-ball-z-gekitou-tenkaichi-budoukai.json) |
@@ -15153,6 +15158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Legendary Edition | 232992 | [232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json](./232992-dragon-ball-z-kakarot-a-new-power-awakens-set-legendary-edition.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set - Ultimate Edition | 220921 | [220921-dragon-ball-z-kakarot-a-new-power-awakens-set-ultimate-edition.json](./220921-dragon-ball-z-kakarot-a-new-power-awakens-set-ultimate-edition.json) |
 | Dragon Ball Z: Kakarot + A New Power Awakens Set Season Pass 2 | 262157 | [262157-dragon-ball-z-kakarot-a-new-power-awakens-set-season-pass-2.json](./262157-dragon-ball-z-kakarot-a-new-power-awakens-set-season-pass-2.json) |
+| Dragon Ball Z: Kyoushuu! Saiya-jin | 78229 | [78229-dragon-ball-z-kyoushuu-saiya-jin.json](./78229-dragon-ball-z-kyoushuu-saiya-jin.json) |
 | Dragon Ball Z: Legend of Z RPG | 314005 | [314005-dragon-ball-z-legend-of-z-rpg.json](./314005-dragon-ball-z-legend-of-z-rpg.json) |
 | Dragon Ball Z: Mission to Namek | 331064 | [331064-dragon-ball-z-mission-to-namek.json](./331064-dragon-ball-z-mission-to-namek.json) |
 | Dragon Ball Z: Namekku-sei Chou Kessen | 346786 | [346786-dragon-ball-z-namekku-sei-chou-kessen.json](./346786-dragon-ball-z-namekku-sei-chou-kessen.json) |
