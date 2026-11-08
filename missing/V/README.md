@@ -2380,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VillageRhapsody | 225808 | [225808-villagerhapsody.json](./225808-villagerhapsody.json) |
 | Villagers | 18623 | [18623-villagers.json](./18623-villagers.json) |
 | Villagers and Heroes | 16843 | [16843-villagers-and-heroes.json](./16843-villagers-and-heroes.json) |
+| Villagers vs Robots Run | 87518 | [87518-villagers-vs-robots-run.json](./87518-villagers-vs-robots-run.json) |
 | Villages | 81014 | [81014-villages.json](./81014-villages.json) |
 | Villages on Wheels | 420496 | [420496-villages-on-wheels.json](./420496-villages-on-wheels.json) |
 | Villaging | 249906 | [249906-villaging.json](./249906-villaging.json) |
