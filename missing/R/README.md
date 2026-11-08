@@ -4148,6 +4148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Wrecker | 71204 | [71204-red-wrecker.json](./71204-red-wrecker.json) |
 | Red Yet Capers: Math vs Mayhem | 193420 | [193420-red-yet-capers-math-vs-mayhem.json](./193420-red-yet-capers-math-vs-mayhem.json) |
 | Red Zero | 269542 | [269542-red-zero.json](./269542-red-zero.json) |
+| Red Zirion | 131692 | [131692-red-zirion.json](./131692-red-zirion.json) |
 | Red Zone | 12744 | [12744-red-zone.json](./12744-red-zone.json) |
 | Red-Handed Robin | 179691 | [179691-red-handed-robin.json](./179691-red-handed-robin.json) |
 | Red, Blue, and Green | 135253 | [135253-red-blue-and-green.json](./135253-red-blue-and-green.json) |
@@ -9393,6 +9394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock Hoppers | 210119 | [210119-rock-hoppers.json](./210119-rock-hoppers.json) |
 | Rock in Code | 104142 | [104142-rock-in-code.json](./104142-rock-in-code.json) |
 | Rock Island | 334317 | [334317-rock-island.json](./334317-rock-island.json) |
+| Rock It to Space | 131711 | [131711-rock-it-to-space.json](./131711-rock-it-to-space.json) |
 | Rock Life: The Rock Simulator | 228299 | [228299-rock-life-the-rock-simulator.json](./228299-rock-life-the-rock-simulator.json) |
 | Rock Life: The Rock Simulator - Rock Pack #2 | 286527 | [286527-rock-life-the-rock-simulator-rock-pack-2.json](./286527-rock-life-the-rock-simulator-rock-pack-2.json) |
 | Rock Life: The Rock Simulator - Rock Pack #3 | 302941 | [302941-rock-life-the-rock-simulator-rock-pack-3.json](./302941-rock-life-the-rock-simulator-rock-pack-3.json) |
