@@ -318,6 +318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth Legend | 158874 | [158874-labyrinth-legend.json](./158874-labyrinth-legend.json) |
 | Labyrinth Legend II | 206443 | [206443-labyrinth-legend-ii.json](./206443-labyrinth-legend-ii.json) |
 | Labyrinth Legends | 21012 | [21012-labyrinth-legends.json](./21012-labyrinth-legends.json) |
+| Labyrinth Life | 118480 | [118480-labyrinth-life.json](./118480-labyrinth-life.json) |
 | Labyrinth Life: Deluxe Edition | 121418 | [121418-labyrinth-life-deluxe-edition.json](./121418-labyrinth-life-deluxe-edition.json) |
 | Labyrinth Life: Limited Edition | 166964 | [166964-labyrinth-life-limited-edition.json](./166964-labyrinth-life-limited-edition.json) |
 | Labyrinth Lunacy | 104694 | [104694-labyrinth-lunacy.json](./104694-labyrinth-lunacy.json) |
@@ -7492,6 +7493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Longsword Tabletop Tactics | 41045 | [41045-longsword-tabletop-tactics.json](./41045-longsword-tabletop-tactics.json) |
 | Longtail!! | 351080 | [351080-longtail.json](./351080-longtail.json) |
 | Longvinter | 152626 | [152626-longvinter.json](./152626-longvinter.json) |
+| Lóngzhōng Cè | 118494 | [118494-longzhong-ce.json](./118494-longzhong-ce.json) |
 | Lonley, Lustful, Arrogant, Hateful | 172726 | [172726-lonley-lustful-arrogant-hateful.json](./172726-lonley-lustful-arrogant-hateful.json) |
 | LonlyToy | 220403 | [220403-lonlytoy.json](./220403-lonlytoy.json) |
 | Lonn | 135113 | [135113-lonn.json](./135113-lonn.json) |
