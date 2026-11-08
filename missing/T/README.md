@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TableSoccer | 339092 | [339092-tablesoccer.json](./339092-tablesoccer.json) |
 | Tabletop Adventures | 129967 | [129967-tabletop-adventures.json](./129967-tabletop-adventures.json) |
 | Tabletop Baseball | 412396 | [412396-tabletop-baseball.json](./412396-tabletop-baseball.json) |
+| Tabletop Basketball VR | 109852 | [109852-tabletop-basketball-vr.json](./109852-tabletop-basketball-vr.json) |
 | Tabletop Defense | 363674 | [363674-tabletop-defense.json](./363674-tabletop-defense.json) |
 | Tabletop Dice | 108617 | [108617-tabletop-dice.json](./108617-tabletop-dice.json) |
 | Tabletop Fantasy War | 372426 | [372426-tabletop-fantasy-war.json](./372426-tabletop-fantasy-war.json) |
@@ -299,6 +300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taco Terror | 296324 | [296324-taco-terror.json](./296324-taco-terror.json) |
 | Taco Tides | 292076 | [292076-taco-tides.json](./292076-taco-tides.json) |
 | Taco Tom 2 | 113047 | [113047-taco-tom-2.json](./113047-taco-tom-2.json) |
+| Taco Truck Madness | 109857 | [109857-taco-truck-madness.json](./109857-taco-truck-madness.json) |
 | Taco: Princess from the Moon | 166162 | [166162-taco-princess-from-the-moon.json](./166162-taco-princess-from-the-moon.json) |
 | TacoCat: The Game 2 | 60867 | [60867-tacocat-the-game-2.json](./60867-tacocat-the-game-2.json) |
 | TacoFace | 30091 | [30091-tacoface.json](./30091-tacoface.json) |
@@ -2614,6 +2616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tartarus | 29147 | [29147-tartarus.json](./29147-tartarus.json) |
 | Tartarus Longo Itinere | 238656 | [238656-tartarus-longo-itinere.json](./238656-tartarus-longo-itinere.json) |
 | Tarthenia | 171788 | [171788-tarthenia.json](./171788-tarthenia.json) |
+| Taruko Deluxe | 109948 | [109948-taruko-deluxe.json](./109948-taruko-deluxe.json) |
 | Tarutobi | 371917 | [371917-tarutobi.json](./371917-tarutobi.json) |
 | Tarvos Desolation | 345044 | [345044-tarvos-desolation.json](./345044-tarvos-desolation.json) |
 | Tarzan | 214885 | [214885-tarzan.json](./214885-tarzan.json) |
@@ -3114,6 +3117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Team Xtreme: Operation Weather Disaster | 70983 | [70983-team-xtreme-operation-weather-disaster.json](./70983-team-xtreme-operation-weather-disaster.json) |
 | Team Yankee | 15382 | [15382-team-yankee.json](./15382-team-yankee.json) |
 | Team-Z | 167566 | [167566-team-z.json](./167566-team-z.json) |
+| Team: Basketball Manager | 109925 | [109925-team-basketball-manager.json](./109925-team-basketball-manager.json) |
 | Team:Cars | 138238 | [138238-team-cars.json](./138238-team-cars.json) |
 | Team17 Collection 1 | 241979 | [241979-team17-collection-1.json](./241979-team17-collection-1.json) |
 | Team17 Indie Collection | 82411 | [82411-team17-indie-collection.json](./82411-team17-indie-collection.json) |
@@ -6444,6 +6448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle of Ages | 107725 | [107725-the-battle-of-ages.json](./107725-the-battle-of-ages.json) |
 | The Battle of Angels | 156603 | [156603-the-battle-of-angels.json](./156603-the-battle-of-angels.json) |
 | The Battle of Aurinoxia | 304368 | [304368-the-battle-of-aurinoxia.json](./304368-the-battle-of-aurinoxia.json) |
+| The Battle of Bellum | 109851 | [109851-the-battle-of-bellum.json](./109851-the-battle-of-bellum.json) |
 | The Battle of Embers | 287206 | [287206-the-battle-of-embers.json](./287206-the-battle-of-embers.json) |
 | The Battle of Mahjong | 67925 | [67925-the-battle-of-mahjong.json](./67925-the-battle-of-mahjong.json) |
 | The Battle of Olympus | 265038 | [265038-the-battle-of-olympus.json](./265038-the-battle-of-olympus.json) |
@@ -7114,6 +7119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cable Guy | 261683 | [261683-the-cable-guy.json](./261683-the-cable-guy.json) |
 | The Cadaver Synod | 171838 | [171838-the-cadaver-synod.json](./171838-the-cadaver-synod.json) |
 | The Cadet Files: Scene Unseen | 278685 | [278685-the-cadet-files-scene-unseen.json](./278685-the-cadet-files-scene-unseen.json) |
+| The Cage | 109836 | [109836-the-cage.json](./109836-the-cage.json) |
 | The Cages: Pro Style Batting Practice | 51038 | [51038-the-cages-pro-style-batting-practice.json](./51038-the-cages-pro-style-batting-practice.json) |
 | The Caiysware Collection | 53709 | [53709-the-caiysware-collection.json](./53709-the-caiysware-collection.json) |
 | The Cake Adventure | 251919 | [251919-the-cake-adventure.json](./251919-the-cake-adventure.json) |
@@ -13880,6 +13886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Marionette | 147550 | [147550-the-marionette.json](./147550-the-marionette.json) |
 | The Mark | 10956 | [10956-the-mark.json](./10956-the-mark.json) |
 | The Mark of Kri | 9120 | [9120-the-mark-of-kri.json](./9120-the-mark-of-kri.json) |
+| The Mark of Robot | 109859 | [109859-the-mark-of-robot.json](./109859-the-mark-of-robot.json) |
 | The Market of Light | 170545 | [170545-the-market-of-light.json](./170545-the-market-of-light.json) |
 | The Market Place | 62024 | [62024-the-market-place.json](./62024-the-market-place.json) |
 | The market trader | 55724 | [55724-the-market-trader.json](./55724-the-market-trader.json) |
@@ -14790,6 +14797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The One Penny Adventure | 211039 | [211039-the-one-penny-adventure.json](./211039-the-one-penny-adventure.json) |
 | The One Spell | 182706 | [182706-the-one-spell.json](./182706-the-one-spell.json) |
 | The One Way Challenge | 259413 | [259413-the-one-way-challenge.json](./259413-the-one-way-challenge.json) |
+| The One We Found | 109827 | [109827-the-one-we-found.json](./109827-the-one-we-found.json) |
 | The One Who Knows | 416695 | [416695-the-one-who-knows.json](./416695-the-one-who-knows.json) |
 | The One Who Runs Away Is Chased | 410250 | [410250-the-one-who-runs-away-is-chased.json](./410250-the-one-who-runs-away-is-chased.json) |
 | The One Who Stands Behind | 258191 | [258191-the-one-who-stands-behind.json](./258191-the-one-who-stands-behind.json) |
@@ -31920,6 +31928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tristia: Restore | 232642 | [232642-tristia-restore.json](./232642-tristia-restore.json) |
 | Tristone | 112314 | [112314-tristone.json](./112314-tristone.json) |
 | Tristoy | 17443 | [17443-tristoy.json](./17443-tristoy.json) |
+| Triteckka: The pure shooter | 109842 | [109842-triteckka-the-pure-shooter.json](./109842-triteckka-the-pure-shooter.json) |
 | Tritime Space | 310718 | [310718-tritime-space.json](./310718-tritime-space.json) |
 | Trito's Adventure | 241815 | [241815-tritos-adventure.json](./241815-tritos-adventure.json) |
 | Triton Survival | 114566 | [114566-triton-survival.json](./114566-triton-survival.json) |
@@ -33908,6 +33917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Stick Tanks | 157075 | [157075-twin-stick-tanks.json](./157075-twin-stick-tanks.json) |
 | Twin Stick Tennis | 244689 | [244689-twin-stick-tennis.json](./244689-twin-stick-tennis.json) |
 | Twin Stones: The Journey of Bukka | 153729 | [153729-twin-stones-the-journey-of-bukka.json](./153729-twin-stones-the-journey-of-bukka.json) |
+| Twin Synth | 109845 | [109845-twin-synth.json](./109845-twin-synth.json) |
 | Twin Tornado | 363889 | [363889-twin-tornado.json](./363889-twin-tornado.json) |
 | Twin Towers 3D | 232291 | [232291-twin-towers-3d.json](./232291-twin-towers-3d.json) |
 | Twin Trials | 357165 | [357165-twin-trials.json](./357165-twin-trials.json) |
