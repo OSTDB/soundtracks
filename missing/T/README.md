@@ -4181,6 +4181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis Cup II | 73690 | [73690-tennis-cup-ii.json](./73690-tennis-cup-ii.json) |
 | Tennis Dog: Ultimate Good Boy | 179982 | [179982-tennis-dog-ultimate-good-boy.json](./179982-tennis-dog-ultimate-good-boy.json) |
 | Tennis Elbow | 197896 | [197896-tennis-elbow.json](./197896-tennis-elbow.json) |
+| Tennis Elbow | 86158 | [86158-tennis-elbow.json](./86158-tennis-elbow.json) |
 | Tennis Elbow 2009 | 66515 | [66515-tennis-elbow-2009.json](./66515-tennis-elbow-2009.json) |
 | Tennis Elbow 2013 | 35830 | [35830-tennis-elbow-2013.json](./35830-tennis-elbow-2013.json) |
 | Tennis Elbow 4 | 140780 | [140780-tennis-elbow-4.json](./140780-tennis-elbow-4.json) |
@@ -12004,6 +12005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters: Heat of Battle | 191476 | [191476-the-king-of-fighters-heat-of-battle.json](./191476-the-king-of-fighters-heat-of-battle.json) |
 | The King of Fighters: Kyo | 43841 | [43841-the-king-of-fighters-kyo.json](./43841-the-king-of-fighters-kyo.json) |
 | The King of Fighters: Maximum Impact - Maniax | 47322 | [47322-the-king-of-fighters-maximum-impact-maniax.json](./47322-the-king-of-fighters-maximum-impact-maniax.json) |
+| The King of Fighters: Maximum Impact Regulation A | 86164 | [86164-the-king-of-fighters-maximum-impact-regulation-a.json](./86164-the-king-of-fighters-maximum-impact-regulation-a.json) |
 | The King of Fighters: NESTS Collection | 63516 | [63516-the-king-of-fighters-nests-collection.json](./63516-the-king-of-fighters-nests-collection.json) |
 | The King of Fighters: Sky Stage | 79083 | [79083-the-king-of-fighters-sky-stage.json](./79083-the-king-of-fighters-sky-stage.json) |
 | The King of Fighters: World | 26802 | [26802-the-king-of-fighters-world.json](./26802-the-king-of-fighters-world.json) |
@@ -31613,6 +31615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TriangleStorm | 126791 | [126791-trianglestorm.json](./126791-trianglestorm.json) |
 | TrianGo | 130898 | [130898-triango.json](./130898-triango.json) |
 | Triangul8 | 109290 | [109290-triangul8.json](./109290-triangul8.json) |
+| Triangulae | 86152 | [86152-triangulae.json](./86152-triangulae.json) |
 | Triangulate | 226307 | [226307-triangulate.json](./226307-triangulate.json) |
 | Triangulate | 52768 | [52768-triangulate.json](./52768-triangulate.json) |
 | Triangulation | 181789 | [181789-triangulation.json](./181789-triangulation.json) |
@@ -33029,6 +33032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsuki Adventure 2 | 282423 | [282423-tsuki-adventure-2.json](./282423-tsuki-adventure-2.json) |
 | Tsuki ha Higashi ni Hi ha Nishi ni: Operation Sanctuary | 165566 | [165566-tsuki-ha-higashi-ni-hi-ha-nishi-ni-operation-sanctuary.json](./165566-tsuki-ha-higashi-ni-hi-ha-nishi-ni-operation-sanctuary.json) |
 | Tsuki Journey | 416980 | [416980-tsuki-journey.json](./416980-tsuki-journey.json) |
+| Tsuki ni Yorisou Otome no Sahou | 86174 | [86174-tsuki-ni-yorisou-otome-no-sahou.json](./86174-tsuki-ni-yorisou-otome-no-sahou.json) |
 | Tsuki no Hikari | 322241 | [322241-tsuki-no-hikari.json](./322241-tsuki-no-hikari.json) |
 | Tsuki no Hikari no Kusariya-san | 327075 | [327075-tsuki-no-hikari-no-kusariya-san.json](./327075-tsuki-no-hikari-no-kusariya-san.json) |
 | Tsuki no Hikari: Shizumeru Kane no Satsujin | 62539 | [62539-tsuki-no-hikari-shizumeru-kane-no-satsujin.json](./62539-tsuki-no-hikari-shizumeru-kane-no-satsujin.json) |
@@ -33561,6 +33565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turleon | 390755 | [390755-turleon.json](./390755-turleon.json) |
 | Turlock Holmes | 286086 | [286086-turlock-holmes.json](./286086-turlock-holmes.json) |
 | Turma da Mônica em O Resgate | 246679 | [246679-turma-da-monica-em-o-resgate.json](./246679-turma-da-monica-em-o-resgate.json) |
+| Turma da Mônica em Vamos brincar nº 1 | 86132 | [86132-turma-da-monica-em-vamos-brincar-no-1.json](./86132-turma-da-monica-em-vamos-brincar-no-1.json) |
 | Turma da Mônica em: O Resgate | 80132 | [80132-turma-da-monica-em-o-resgate.json](./80132-turma-da-monica-em-o-resgate.json) |
 | Turma da Mônica na Terra dos Monstros | 98931 | [98931-turma-da-monica-na-terra-dos-monstros.json](./98931-turma-da-monica-na-terra-dos-monstros.json) |
 | Turma do Arrepio: Grand Prix | 249456 | [249456-turma-do-arrepio-grand-prix.json](./249456-turma-do-arrepio-grand-prix.json) |
