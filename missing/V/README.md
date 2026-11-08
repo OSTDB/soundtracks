@@ -529,6 +529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valor | 299145 | [299145-valor.json](./299145-valor.json) |
 | Valor | 368260 | [368260-valor.json](./368260-valor.json) |
 | Valor & Blade | 318544 | [318544-valor-and-blade.json](./318544-valor-and-blade.json) |
+| Valor & Victory | 111261 | [111261-valor-and-victory.json](./111261-valor-and-victory.json) |
 | Valor & Victory: Arnhem | 218842 | [218842-valor-and-victory-arnhem.json](./218842-valor-and-victory-arnhem.json) |
 | Valor & Victory: Kursk | 260381 | [260381-valor-and-victory-kursk.json](./260381-valor-and-victory-kursk.json) |
 | Valor & Victory: Shield of Cholm | 207788 | [207788-valor-and-victory-shield-of-cholm.json](./207788-valor-and-victory-shield-of-cholm.json) |
@@ -2868,6 +2869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Sniper | 387484 | [387484-virtual-sniper.json](./387484-virtual-sniper.json) |
 | Virtual Snooker | 70168 | [70168-virtual-snooker.json](./70168-virtual-snooker.json) |
 | Virtual Soccer | 46005 | [46005-virtual-soccer.json](./46005-virtual-soccer.json) |
+| Virtual Soccer Zone | 111238 | [111238-virtual-soccer-zone.json](./111238-virtual-soccer-zone.json) |
 | Virtual Soldiers | 150246 | [150246-virtual-soldiers.json](./150246-virtual-soldiers.json) |
 | Virtual Sports | 29569 | [29569-virtual-sports.json](./29569-virtual-sports.json) |
 | Virtual Succubus | 194447 | [194447-virtual-succubus.json](./194447-virtual-succubus.json) |
@@ -3948,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Crane Master | 51728 | [51728-vr-crane-master.json](./51728-vr-crane-master.json) |
 | VR Crazy Racing | 169263 | [169263-vr-crazy-racing.json](./169263-vr-crazy-racing.json) |
 | VR Cricket | 114187 | [114187-vr-cricket.json](./114187-vr-cricket.json) |
+| VR Curling | 111143 | [111143-vr-curling.json](./111143-vr-curling.json) |
 | VR Cute Tanks: Girls and Dinosaurs | 148474 | [148474-vr-cute-tanks-girls-and-dinosaurs.json](./148474-vr-cute-tanks-girls-and-dinosaurs.json) |
 | VR Dance Star | 163239 | [163239-vr-dance-star.json](./163239-vr-dance-star.json) |
 | VR Dart Zone | 54459 | [54459-vr-dart-zone.json](./54459-vr-dart-zone.json) |
