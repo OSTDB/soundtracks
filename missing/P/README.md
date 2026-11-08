@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pacific Fighters | 24163 | [24163-pacific-fighters.json](./24163-pacific-fighters.json) |
 | Pacific Fire | 127259 | [127259-pacific-fire.json](./127259-pacific-fire.json) |
 | Pacific Fleet | 87506 | [87506-pacific-fleet.json](./87506-pacific-fleet.json) |
+| Pacific Fort Night Craft Survival Battle Royale | 100965 | [100965-pacific-fort-night-craft-survival-battle-royale.json](./100965-pacific-fort-night-craft-survival-battle-royale.json) |
 | Pacific General | 14451 | [14451-pacific-general.json](./14451-pacific-general.json) |
 | Pacific Gunner | 92470 | [92470-pacific-gunner.json](./92470-pacific-gunner.json) |
 | Pacific Islands | 94494 | [94494-pacific-islands.json](./94494-pacific-islands.json) |
@@ -1287,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pango Build Safari | 105768 | [105768-pango-build-safari.json](./105768-pango-build-safari.json) |
 | Pango Hide and seek | 90706 | [90706-pango-hide-and-seek.json](./90706-pango-hide-and-seek.json) |
 | Pango Kumo | 197731 | [197731-pango-kumo.json](./197731-pango-kumo.json) |
+| Pango Sheep | 101113 | [101113-pango-sheep.json](./101113-pango-sheep.json) |
 | Pangolick Quest | 417350 | [417350-pangolick-quest.json](./417350-pangolick-quest.json) |
 | Pangolin Cassowary | 266181 | [266181-pangolin-cassowary.json](./266181-pangolin-cassowary.json) |
 | Pangolin Love | 178143 | [178143-pangolin-love.json](./178143-pangolin-love.json) |
@@ -14346,6 +14348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Present | 77268 | [77268-present.json](./77268-present.json) |
 | Present Cannon Rebirth | 189835 | [189835-present-cannon-rebirth.json](./189835-present-cannon-rebirth.json) |
 | Present Danger | 169605 | [169605-present-danger.json](./169605-present-danger.json) |
+| Present for Manager | 100475 | [100475-present-for-manager.json](./100475-present-for-manager.json) |
 | Present For You | 64374 | [64374-present-for-you.json](./64374-present-for-you.json) |
 | Present Heist | 378132 | [378132-present-heist.json](./378132-present-heist.json) |
 | Present Memories: A Vox Akuma Fangame | 198338 | [198338-present-memories-a-vox-akuma-fangame.json](./198338-present-memories-a-vox-akuma-fangame.json) |
@@ -18405,6 +18408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Putinator | 204264 | [204264-putinator.json](./204264-putinator.json) |
 | Putinist Slayer | 204895 | [204895-putinist-slayer.json](./204895-putinist-slayer.json) |
 | Putinization | 102919 | [102919-putinization.json](./102919-putinization.json) |
+| Putinoids vs. Navalnyats | 100477 | [100477-putinoids-vs-navalnyats.json](./100477-putinoids-vs-navalnyats.json) |
 | Putlestory | 133628 | [133628-putlestory.json](./133628-putlestory.json) |
 | Putrefaction | 26533 | [26533-putrefaction.json](./26533-putrefaction.json) |
 | Putrefaction 2: Rumble in the Hometown | 68797 | [68797-putrefaction-2-rumble-in-the-hometown.json](./68797-putrefaction-2-rumble-in-the-hometown.json) |
