@@ -9949,6 +9949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HopBound | 137891 | [137891-hopbound.json](./137891-hopbound.json) |
 | HopDodge | 200149 | [200149-hopdodge.json](./200149-hopdodge.json) |
 | Hope | 110096 | [110096-hope.json](./110096-hope.json) |
+| Hope | 138901 | [138901-hope.json](./138901-hope.json) |
 | Hope | 171980 | [171980-hope.json](./171980-hope.json) |
 | Hope | 233855 | [233855-hope.json](./233855-hope.json) |
 | Hope | 312738 | [312738-hope.json](./312738-hope.json) |
