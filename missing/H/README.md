@@ -6627,6 +6627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexagon Heroes | 132272 | [132272-hexagon-heroes.json](./132272-hexagon-heroes.json) |
 | Hexagon Knockout | 153637 | [153637-hexagon-knockout.json](./153637-hexagon-knockout.json) |
 | Hexagon Mahjongg | 146960 | [146960-hexagon-mahjongg.json](./146960-hexagon-mahjongg.json) |
+| Hexagon Puzzle | 106795 | [106795-hexagon-puzzle.json](./106795-hexagon-puzzle.json) |
 | Hexagon Puzzle Blocks | 232647 | [232647-hexagon-puzzle-blocks.json](./232647-hexagon-puzzle-blocks.json) |
 | Hexagon Puzzle Blocks: Expansion Pack | 232648 | [232648-hexagon-puzzle-blocks-expansion-pack.json](./232648-hexagon-puzzle-blocks-expansion-pack.json) |
 | Hexagon Soup | 384143 | [384143-hexagon-soup.json](./384143-hexagon-soup.json) |
@@ -7380,6 +7381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects Fantasy Games | 249315 | [249315-hidden-objects-fantasy-games.json](./249315-hidden-objects-fantasy-games.json) |
 | Hidden Objects Lost Worlds | 70913 | [70913-hidden-objects-lost-worlds.json](./70913-hidden-objects-lost-worlds.json) |
 | Hidden Objects Magical Places | 99397 | [99397-hidden-objects-magical-places.json](./99397-hidden-objects-magical-places.json) |
+| Hidden Objects Mystic Rain | 106709 | [106709-hidden-objects-mystic-rain.json](./106709-hidden-objects-mystic-rain.json) |
 | Hidden Objects Painted Forest | 415893 | [415893-hidden-objects-painted-forest.json](./415893-hidden-objects-painted-forest.json) |
 | Hidden objects Play peek a boo | 100015 | [100015-hidden-objects-play-peek-a-boo.json](./100015-hidden-objects-play-peek-a-boo.json) |
 | Hidden Objects Secret Places | 99092 | [99092-hidden-objects-secret-places.json](./99092-hidden-objects-secret-places.json) |
@@ -8255,6 +8257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hip Game | 393855 | [393855-hip-game.json](./393855-hip-game.json) |
 | Hip Hop & Street Dance School | 87868 | [87868-hip-hop-and-street-dance-school.json](./87868-hip-hop-and-street-dance-school.json) |
 | Hip Hop Battle: Girls vs. Boys - Dance Clash of the Sexes | 106902 | [106902-hip-hop-battle-girls-vs-boys-dance-clash-of-the-sexes.json](./106902-hip-hop-battle-girls-vs-boys-dance-clash-of-the-sexes.json) |
+| Hip Hop Fame and Millions | 106718 | [106718-hip-hop-fame-and-millions.json](./106718-hip-hop-fame-and-millions.json) |
 | Hip Hop King: Rytmik Edition | 65460 | [65460-hip-hop-king-rytmik-edition.json](./65460-hip-hop-king-rytmik-edition.json) |
 | Hip Jog Jog | 198634 | [198634-hip-jog-jog.json](./198634-hip-jog-jog.json) |
 | Hipatya in I wanna world | 307896 | [307896-hipatya-in-i-wanna-world.json](./307896-hipatya-in-i-wanna-world.json) |
