@@ -655,6 +655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamitsubaki City Ensemble: Season Pass 2024 | 317292 | [317292-kamitsubaki-city-ensemble-season-pass-2024.json](./317292-kamitsubaki-city-ensemble-season-pass-2024.json) |
 | Kamitsubaki City Virtual Reality | 328261 | [328261-kamitsubaki-city-virtual-reality.json](./328261-kamitsubaki-city-virtual-reality.json) |
 | Kamitsure no okami | 83165 | [83165-kamitsure-no-okami.json](./83165-kamitsure-no-okami.json) |
+| Kamiwaza | 92559 | [92559-kamiwaza.json](./92559-kamiwaza.json) |
 | Kamiwaza Wanda | 222531 | [222531-kamiwaza-wanda.json](./222531-kamiwaza-wanda.json) |
 | Kamiwaza: Way of the Thief | 197545 | [197545-kamiwaza-way-of-the-thief.json](./197545-kamiwaza-way-of-the-thief.json) |
 | KamiYaba: Destiny on a Dicey Deadline | 188510 | [188510-kamiyaba-destiny-on-a-dicey-deadline.json](./188510-kamiyaba-destiny-on-a-dicey-deadline.json) |
@@ -2885,7 +2886,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
