@@ -494,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calcium Contract | 251814 | [251814-calcium-contract.json](./251814-calcium-contract.json) |
 | Calcolo!: Ochimo no Shooting | 146763 | [146763-calcolo-ochimo-no-shooting.json](./146763-calcolo-ochimo-no-shooting.json) |
 | Calcu-Late | 33331 | [33331-calcu-late.json](./33331-calcu-late.json) |
+| Calcul8^2 | 113224 | [113224-calcul8-2.json](./113224-calcul8-2.json) |
 | Calculate It | 317375 | [317375-calculate-it.json](./317375-calculate-it.json) |
 | Calculate It! | 149767 | [149767-calculate-it.json](./149767-calculate-it.json) |
 | Calculation | 14370 | [14370-calculation.json](./14370-calculation.json) |
@@ -7710,6 +7711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Chess: Elephant Game | 72872 | [72872-chinese-chess-elephant-game.json](./72872-chinese-chess-elephant-game.json) |
 | Chinese Chess: Xiangqi | 396997 | [396997-chinese-chess-xiangqi.json](./396997-chinese-chess-xiangqi.json) |
 | Chinese Culinary Shop | 276221 | [276221-chinese-culinary-shop.json](./276221-chinese-culinary-shop.json) |
+| Chinese Driving License Test | 113140 | [113140-chinese-driving-license-test.json](./113140-chinese-driving-license-test.json) |
 | Chinese Driving Test Simulator | 189929 | [189929-chinese-driving-test-simulator.json](./189929-chinese-driving-test-simulator.json) |
 | Chinese Empire | 155923 | [155923-chinese-empire.json](./155923-chinese-empire.json) |
 | Chinese Expeditionary Force: Assault Team | 233783 | [233783-chinese-expeditionary-force-assault-team.json](./233783-chinese-expeditionary-force-assault-team.json) |
@@ -15609,6 +15611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmonaut | 81103 | [81103-cosmonaut.json](./81103-cosmonaut.json) |
 | Cosmonauta | 129486 | [129486-cosmonauta.json](./129486-cosmonauta.json) |
 | Cosmonet | 98299 | [98299-cosmonet.json](./98299-cosmonet.json) |
+| Cosmonet: Space Adventure | 113132 | [113132-cosmonet-space-adventure.json](./113132-cosmonet-space-adventure.json) |
 | Cosmonious High | 194955 | [194955-cosmonious-high.json](./194955-cosmonious-high.json) |
 | Cosmonut | 54658 | [54658-cosmonut.json](./54658-cosmonut.json) |
 | Cosmonuts | 86200 | [86200-cosmonuts.json](./86200-cosmonuts.json) |
@@ -18321,6 +18324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossfire: The Multiplayer Adventure Game | 171544 | [171544-crossfire-the-multiplayer-adventure-game.json](./171544-crossfire-the-multiplayer-adventure-game.json) |
 | CrossfireX | 119307 | [119307-crossfirex.json](./119307-crossfirex.json) |
 | CrossfireX: Operation Spectre | 221392 | [221392-crossfirex-operation-spectre.json](./221392-crossfirex-operation-spectre.json) |
+| Crossgrams | 113250 | [113250-crossgrams.json](./113250-crossgrams.json) |
 | CrossGunr | 280461 | [280461-crossgunr.json](./280461-crossgunr.json) |
 | CrossGunr: Infinite | 280462 | [280462-crossgunr-infinite.json](./280462-crossgunr-infinite.json) |
 | Crosshatch | 125946 | [125946-crosshatch.json](./125946-crosshatch.json) |
