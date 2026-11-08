@@ -802,6 +802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xiānzōng Lù | 288437 | [288437-xianzong-lu.json](./288437-xianzong-lu.json) |
 | Xiào Ào Jiānghú | 79062 | [79062-xiao-ao-jianghu.json](./79062-xiao-ao-jianghu.json) |
 | Xiào Ào Jiānghú 2 Wàizhuàn: Dōngfāng Zàiqǐ | 184095 | [184095-xiao-ao-jianghu-2-waizhuan-dongfang-zaiqi.json](./184095-xiao-ao-jianghu-2-waizhuan-dongfang-zaiqi.json) |
+| Xiào Ào Jiānghú 2: Wǔyuè Jiàn Pài | 93117 | [93117-xiao-ao-jianghu-2-wuyue-jian-pai.json](./93117-xiao-ao-jianghu-2-wuyue-jian-pai.json) |
 | Xiǎo Bāngdí de Qímiào Màoxiǎn | 157887 | [157887-xiao-bangdi-de-qimiao-maoxian.json](./157887-xiao-bangdi-de-qimiao-maoxian.json) |
 | Xiao La: Fantasy Dream | 272365 | [272365-xiao-la-fantasy-dream.json](./272365-xiao-la-fantasy-dream.json) |
 | Xiǎo Qiàn Dàmàoxiǎn | 359475 | [359475-xiao-qian-damaoxian.json](./359475-xiao-qian-damaoxian.json) |
