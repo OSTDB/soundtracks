@@ -3940,6 +3940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Sing 2014 | 60896 | [60896-lets-sing-2014.json](./60896-lets-sing-2014.json) |
 | Let's Sing 2015 | 60897 | [60897-lets-sing-2015.json](./60897-lets-sing-2015.json) |
 | Let's Sing 2016 | 34567 | [34567-lets-sing-2016.json](./34567-lets-sing-2016.json) |
+| Let's Sing 2017 | 82275 | [82275-lets-sing-2017.json](./82275-lets-sing-2017.json) |
 | Let's Sing 2017 with German Hits | 136157 | [136157-lets-sing-2017-with-german-hits.json](./136157-lets-sing-2017-with-german-hits.json) |
 | Let's Sing 2017: Hits Francais et Internationaux | 268192 | [268192-lets-sing-2017-hits-francais-et-internationaux.json](./268192-lets-sing-2017-hits-francais-et-internationaux.json) |
 | Let's Sing 2018 | 54788 | [54788-lets-sing-2018.json](./54788-lets-sing-2018.json) |
