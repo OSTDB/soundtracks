@@ -10458,6 +10458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket City 2 | 228137 | [228137-pocket-city-2.json](./228137-pocket-city-2.json) |
 | Pocket Clothier | 102632 | [102632-pocket-clothier.json](./102632-pocket-clothier.json) |
 | Pocket Color Billiard | 137631 | [137631-pocket-color-billiard.json](./137631-pocket-color-billiard.json) |
+| Pocket Color Mahjong | 137233 | [137233-pocket-color-mahjong.json](./137233-pocket-color-mahjong.json) |
 | Pocket Color Trump | 137983 | [137983-pocket-color-trump.json](./137983-pocket-color-trump.json) |
 | Pocket Combat | 114678 | [114678-pocket-combat.json](./114678-pocket-combat.json) |
 | Pocket Cooking | 282417 | [282417-pocket-cooking.json](./282417-pocket-cooking.json) |
@@ -17015,6 +17016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proxima | 406840 | [406840-proxima.json](./406840-proxima.json) |
 | Proxima B | 391708 | [391708-proxima-b.json](./391708-proxima-b.json) |
 | Proxima Centauri b | 176622 | [176622-proxima-centauri-b.json](./176622-proxima-centauri-b.json) |
+| Proxima Universe | 137193 | [137193-proxima-universe.json](./137193-proxima-universe.json) |
 | Proximate | 282108 | [282108-proximate.json](./282108-proximate.json) |
 | Proximity | 324643 | [324643-proximity.json](./324643-proximity.json) |
 | Proximity Shift | 283795 | [283795-proximity-shift.json](./283795-proximity-shift.json) |
