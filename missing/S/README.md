@@ -3577,6 +3577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrabdackle | 141167 | [141167-scrabdackle.json](./141167-scrabdackle.json) |
 | ScrabWordle | 228716 | [228716-scrabwordle.json](./228716-scrabwordle.json) |
 | Scraftion | 152851 | [152851-scraftion.json](./152851-scraftion.json) |
+| Scram | 108557 | [108557-scram.json](./108557-scram.json) |
 | Scram 20 | 79316 | [79316-scram-20.json](./79316-scram-20.json) |
 | Scram 81 | 319528 | [319528-scram-81.json](./319528-scram-81.json) |
 | Scram: Scrammer's Pack | 270035 | [270035-scram-scrammers-pack.json](./270035-scram-scrammers-pack.json) |
@@ -9376,6 +9377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting girl | 201669 | [201669-shooting-girl.json](./201669-shooting-girl.json) |
 | Shooting Girls | 391442 | [391442-shooting-girls.json](./391442-shooting-girls.json) |
 | Shooting Heart | 281152 | [281152-shooting-heart.json](./281152-shooting-heart.json) |
+| Shooting Hoops | 108567 | [108567-shooting-hoops.json](./108567-shooting-hoops.json) |
 | Shooting Hunter Terrorist | 103155 | [103155-shooting-hunter-terrorist.json](./103155-shooting-hunter-terrorist.json) |
 | Shooting Hurts | 109356 | [109356-shooting-hurts.json](./109356-shooting-hurts.json) |
 | Shooting King | 105518 | [105518-shooting-king.json](./105518-shooting-king.json) |
@@ -25557,6 +25559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardust Kids | 300634 | [300634-stardust-kids.json](./300634-stardust-kids.json) |
 | Stardust League | 222391 | [222391-stardust-league.json](./222391-stardust-league.json) |
 | Stardust Odyssey | 122994 | [122994-stardust-odyssey.json](./122994-stardust-odyssey.json) |
+| Stardust Origins | 108655 | [108655-stardust-origins.json](./108655-stardust-origins.json) |
 | Stardust Rain | 274965 | [274965-stardust-rain.json](./274965-stardust-rain.json) |
 | Stardust Sandbox | 393604 | [393604-stardust-sandbox.json](./393604-stardust-sandbox.json) |
 | Stardust Skate | 334846 | [334846-stardust-skate.json](./334846-stardust-skate.json) |
@@ -28895,6 +28898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Racer X Ace of Love | 206198 | [206198-street-racer-x-ace-of-love.json](./206198-street-racer-x-ace-of-love.json) |
 | Street Racers | 233863 | [233863-street-racers.json](./233863-street-racers.json) |
 | Street Racers: Hot Asphalt | 316837 | [316837-street-racers-hot-asphalt.json](./316837-street-racers-hot-asphalt.json) |
+| Street Racing | 108558 | [108558-street-racing.json](./108558-street-racing.json) |
 | Street Racing 3D | 95736 | [95736-street-racing-3d.json](./95736-street-racing-3d.json) |
 | Street Racing EVO: Car & Moto | 383519 | [383519-street-racing-evo-car-and-moto.json](./383519-street-racing-evo-car-and-moto.json) |
 | Street Racing Syndicate | 4184 | [4184-street-racing-syndicate.json](./4184-street-racing-syndicate.json) |
@@ -35319,6 +35323,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suspended in Dusk | 256814 | [256814-suspended-in-dusk.json](./256814-suspended-in-dusk.json) |
 | Suspense: Madman's Dreams | 329393 | [329393-suspense-madmans-dreams.json](./329393-suspense-madmans-dreams.json) |
 | Suspension Railroad Simulator | 85414 | [85414-suspension-railroad-simulator.json](./85414-suspension-railroad-simulator.json) |
+| Suspension Railroad Simulator 2013 | 108647 | [108647-suspension-railroad-simulator-2013.json](./108647-suspension-railroad-simulator-2013.json) |
 | Suspicious | 216508 | [216508-suspicious.json](./216508-suspicious.json) |
 | Suspicious Downpour | 152462 | [152462-suspicious-downpour.json](./152462-suspicious-downpour.json) |
 | Suspicious Holes | 399994 | [399994-suspicious-holes.json](./399994-suspicious-holes.json) |
@@ -35359,6 +35364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suuran Digit | 12636 | [12636-suuran-digit.json](./12636-suuran-digit.json) |
 | Suuri muumijuhla | 26377 | [26377-suuri-muumijuhla.json](./26377-suuri-muumijuhla.json) |
 | Suv 4x4 Car Parking Simulator | 276286 | [276286-suv-4x4-car-parking-simulator.json](./276286-suv-4x4-car-parking-simulator.json) |
+| Suv Vs SemiTruck | 108588 | [108588-suv-vs-semitruck.json](./108588-suv-vs-semitruck.json) |
 | Suvarnabhumi Mahayuth | 214752 | [214752-suvarnabhumi-mahayuth.json](./214752-suvarnabhumi-mahayuth.json) |
 | Suwako no Danmaku Pyon-pyon Daisansaku | 375567 | [375567-suwako-no-danmaku-pyon-pyon-daisansaku.json](./375567-suwako-no-danmaku-pyon-pyon-daisansaku.json) |
 | Suwako-chan Cubic | 261202 | [261202-suwako-chan-cubic.json](./261202-suwako-chan-cubic.json) |
@@ -36024,6 +36030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swipe | 147928 | [147928-swipe.json](./147928-swipe.json) |
 | Swipe 3 | 256245 | [256245-swipe-3.json](./256245-swipe-3.json) |
 | Swipe Brick Breaker | 233415 | [233415-swipe-brick-breaker.json](./233415-swipe-brick-breaker.json) |
+| Swipe Brick Breaker: The Blast | 108574 | [108574-swipe-brick-breaker-the-blast.json](./108574-swipe-brick-breaker-the-blast.json) |
 | Swipe Casters | 87732 | [87732-swipe-casters.json](./87732-swipe-casters.json) |
 | Swipe Fruit Smash | 103770 | [103770-swipe-fruit-smash.json](./103770-swipe-fruit-smash.json) |
 | Swipe Link | 264969 | [264969-swipe-link.json](./264969-swipe-link.json) |
