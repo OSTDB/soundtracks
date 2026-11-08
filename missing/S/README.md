@@ -23294,6 +23294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Feel Miniature Golf | 218013 | [218013-sports-feel-miniature-golf.json](./218013-sports-feel-miniature-golf.json) |
 | Sports Feel Pool | 218012 | [218012-sports-feel-pool.json](./218012-sports-feel-pool.json) |
 | Sports Feel Virtual Fishing | 217703 | [217703-sports-feel-virtual-fishing.json](./217703-sports-feel-virtual-fishing.json) |
+| Sports Flying Car Simulator 3d Games | 106050 | [106050-sports-flying-car-simulator-3d-games.json](./106050-sports-flying-car-simulator-3d-games.json) |
 | Sports Game for PC | 98221 | [98221-sports-game-for-pc.json](./98221-sports-game-for-pc.json) |
 | Sports Game Pack (Manager Edition) | 84231 | [84231-sports-game-pack-manager-edition.json](./84231-sports-game-pack-manager-edition.json) |
 | Sports Games | 399790 | [399790-sports-games.json](./399790-sports-games.json) |
@@ -26869,6 +26870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steeplechase | 276345 | [276345-steeplechase.json](./276345-steeplechase.json) |
 | Steeplejack | 383968 | [383968-steeplejack.json](./383968-steeplejack.json) |
 | Steeplejack | 407077 | [407077-steeplejack.json](./407077-steeplejack.json) |
+| Steer Clear | 106047 | [106047-steer-clear.json](./106047-steer-clear.json) |
 | Steer Madness | 66745 | [66745-steer-madness.json](./66745-steer-madness.json) |
 | Steering Wheel Evolution | 214291 | [214291-steering-wheel-evolution.json](./214291-steering-wheel-evolution.json) |
 | Steezelpunk | 391722 | [391722-steezelpunk.json](./391722-steezelpunk.json) |
@@ -29027,6 +29029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stretch Guy | 315844 | [315844-stretch-guy.json](./315844-stretch-guy.json) |
 | Stretch Panic | 28502 | [28502-stretch-panic.json](./28502-stretch-panic.json) |
 | Stretch Text: Find Proverb | 266834 | [266834-stretch-text-find-proverb.json](./266834-stretch-text-find-proverb.json) |
+| Stretch! | 106059 | [106059-stretch.json](./106059-stretch.json) |
 | StretchBot | 128098 | [128098-stretchbot.json](./128098-stretchbot.json) |
 | Stretcher Men | 291291 | [291291-stretcher-men.json](./291291-stretcher-men.json) |
 | StretchingVr | 99014 | [99014-stretchingvr.json](./99014-stretchingvr.json) |
@@ -31081,6 +31084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supanda | 267524 | [267524-supanda.json](./267524-supanda.json) |
 | Supaplex | 14418 | [14418-supaplex.json](./14418-supaplex.json) |
 | Supaplex | 413616 | [413616-supaplex.json](./413616-supaplex.json) |
+| Supaplex GO! | 106055 | [106055-supaplex-go.json](./106055-supaplex-go.json) |
 | Supaplex Hard | 107929 | [107929-supaplex-hard.json](./107929-supaplex-hard.json) |
 | Supaplex Squares | 105513 | [105513-supaplex-squares.json](./105513-supaplex-squares.json) |
 | Supaplex WOW! | 109314 | [109314-supaplex-wow.json](./109314-supaplex-wow.json) |
