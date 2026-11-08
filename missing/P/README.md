@@ -14009,6 +14009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerglove Reloaded | 187883 | [187883-powerglove-reloaded.json](./187883-powerglove-reloaded.json) |
 | Powergolf | 389342 | [389342-powergolf.json](./389342-powergolf.json) |
 | PowerHits Movies | 79010 | [79010-powerhits-movies.json](./79010-powerhits-movies.json) |
+| PowerHits Sci/Fi | 93094 | [93094-powerhits-sci-fi.json](./93094-powerhits-sci-fi.json) |
 | PowerHits Sports | 85745 | [85745-powerhits-sports.json](./85745-powerhits-sports.json) |
 | PowerHits: BattleTech | 69864 | [69864-powerhits-battletech.json](./69864-powerhits-battletech.json) |
 | Powerjackers: Superhero Battle Royale | 204941 | [204941-powerjackers-superhero-battle-royale.json](./204941-powerjackers-superhero-battle-royale.json) |
@@ -17692,6 +17693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pull The Pin: Ball Physic Puzzle | 289378 | [289378-pull-the-pin-ball-physic-puzzle.json](./289378-pull-the-pin-ball-physic-puzzle.json) |
 | Pull'em All! | 208964 | [208964-pullem-all.json](./208964-pullem-all.json) |
 | Pullback Racers | 351592 | [351592-pullback-racers.json](./351592-pullback-racers.json) |
+| Pulleralarm | 93118 | [93118-pulleralarm.json](./93118-pulleralarm.json) |
 | Pullfrog | 152277 | [152277-pullfrog.json](./152277-pullfrog.json) |
 | Pullfrog: Deluxe | 272468 | [272468-pullfrog-deluxe.json](./272468-pullfrog-deluxe.json) |
 | Pulling No Punches | 167512 | [167512-pulling-no-punches.json](./167512-pulling-no-punches.json) |
