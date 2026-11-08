@@ -4149,6 +4149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orders, Captain! | 407888 | [407888-orders-captain.json](./407888-orders-captain.json) |
 | OrderZero | 256520 | [256520-orderzero.json](./256520-orderzero.json) |
 | Ordesa | 364599 | [364599-ordesa.json](./364599-ordesa.json) |
+| Ordia | 115207 | [115207-ordia.json](./115207-ordia.json) |
 | Ordinary Day | 236418 | [236418-ordinary-day.json](./236418-ordinary-day.json) |
 | Ordinary Family | 126433 | [126433-ordinary-family.json](./126433-ordinary-family.json) |
 | Ordinary Human Game | 164653 | [164653-ordinary-human-game.json](./164653-ordinary-human-game.json) |
