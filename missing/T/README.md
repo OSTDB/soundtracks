@@ -2199,6 +2199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tantei Jinguji Saburo Series No. 23: Wasurenagusa no Omoi | 347274 | [347274-tantei-jinguji-saburo-series-no-23-wasurenagusa-no-omoi.json](./347274-tantei-jinguji-saburo-series-no-23-wasurenagusa-no-omoi.json) |
 | Tantei Jinguji Saburo Series No. 24: Yurameku Hitotose | 347275 | [347275-tantei-jinguji-saburo-series-no-24-yurameku-hitotose.json](./347275-tantei-jinguji-saburo-series-no-24-yurameku-hitotose.json) |
 | Tantei Jinguji Saburo Series No. 25: Giwaku no Ace | 347276 | [347276-tantei-jinguji-saburo-series-no-25-giwaku-no-ace.json](./347276-tantei-jinguji-saburo-series-no-25-giwaku-no-ace.json) |
+| Tantei Jinguji Saburo Series No. 9: Kind of Blue | 80091 | [80091-tantei-jinguji-saburo-series-no-9-kind-of-blue.json](./80091-tantei-jinguji-saburo-series-no-9-kind-of-blue.json) |
 | Tantei Jinguji Saburo: 6-mai no Hankou | 347623 | [347623-tantei-jinguji-saburo-6-mai-no-hankou.json](./347623-tantei-jinguji-saburo-6-mai-no-hankou.json) |
 | Tantei Jinguji Saburo: Akenai Yoru ni | 347612 | [347612-tantei-jinguji-saburo-akenai-yoru-ni.json](./347612-tantei-jinguji-saburo-akenai-yoru-ni.json) |
 | Tantei Jinguji Saburo: Akenai Yoru ni | 347641 | [347641-tantei-jinguji-saburo-akenai-yoru-ni.json](./347641-tantei-jinguji-saburo-akenai-yoru-ni.json) |
@@ -6206,6 +6207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Asskickers | 9403 | [9403-the-asskickers.json](./9403-the-asskickers.json) |
 | The Asteroid Belt's Trial | 107744 | [107744-the-asteroid-belts-trial.json](./107744-the-asteroid-belts-trial.json) |
 | The Asteroid Field | 280884 | [280884-the-asteroid-field.json](./280884-the-asteroid-field.json) |
+| The Astonishing Adventures of Mr. Weems and the She Vampires | 80097 | [80097-the-astonishing-adventures-of-mr-weems-and-the-she-vampires.json](./80097-the-astonishing-adventures-of-mr-weems-and-the-she-vampires.json) |
 | The Astonishing Captain Skull | 238862 | [238862-the-astonishing-captain-skull.json](./238862-the-astonishing-captain-skull.json) |
 | The Astonishing Game | 29687 | [29687-the-astonishing-game.json](./29687-the-astonishing-game.json) |
 | The Astra Protocol | 409714 | [409714-the-astra-protocol.json](./409714-the-astra-protocol.json) |
