@@ -2096,6 +2096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Satan 3D | 384293 | [384293-satan-3d.json](./384293-satan-3d.json) |
 | Satan II | 380552 | [380552-satan-ii.json](./380552-satan-ii.json) |
 | Satan is an Astronaut | 298729 | [298729-satan-is-an-astronaut.json](./298729-satan-is-an-astronaut.json) |
+| Satan Loves Cake | 134776 | [134776-satan-loves-cake.json](./134776-satan-loves-cake.json) |
 | Satan Moans | 302816 | [302816-satan-moans.json](./302816-satan-moans.json) |
 | Satan Santa | 369743 | [369743-satan-santa.json](./369743-satan-santa.json) |
 | Satan's Ball | 389834 | [389834-satans-ball.json](./389834-satans-ball.json) |
@@ -17379,6 +17380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SongPop Party | 194563 | [194563-songpop-party.json](./194563-songpop-party.json) |
 | SongPop: Classic | 23333 | [23333-songpop-classic.json](./23333-songpop-classic.json) |
 | SongRunner | 364567 | [364567-songrunner.json](./364567-songrunner.json) |
+| Songs and Flowers | 134785 | [134785-songs-and-flowers.json](./134785-songs-and-flowers.json) |
 | Songs for a Hero | 19719 | [19719-songs-for-a-hero.json](./19719-songs-for-a-hero.json) |
 | Songs for a Hero | 222283 | [222283-songs-for-a-hero.json](./222283-songs-for-a-hero.json) |
 | Songs for a Hero + Shieldmaiden Bundle | 349612 | [349612-songs-for-a-hero-shieldmaiden-bundle.json](./349612-songs-for-a-hero-shieldmaiden-bundle.json) |
@@ -19969,6 +19971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 142578 | [142578-space-hunter.json](./142578-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
@@ -21346,6 +21349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Speed Elixir | 19447 | [19447-speed-elixir.json](./19447-speed-elixir.json) |
 | Speed empire | 156804 | [156804-speed-empire.json](./156804-speed-empire.json) |
 | Speed Factor | 378777 | [378777-speed-factor.json](./378777-speed-factor.json) |
+| Speed Farmers | 134790 | [134790-speed-farmers.json](./134790-speed-farmers.json) |
 | Speed Freak | 46764 | [46764-speed-freak.json](./46764-speed-freak.json) |
 | Speed Freeks | 110186 | [110186-speed-freeks.json](./110186-speed-freeks.json) |
 | Speed Golf Royale | 246001 | [246001-speed-golf-royale.json](./246001-speed-golf-royale.json) |
@@ -25588,6 +25592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlight Re:Volver | 324573 | [324573-starlight-re-volver.json](./324573-starlight-re-volver.json) |
 | Starlight Riddles | 292993 | [292993-starlight-riddles.json](./292993-starlight-riddles.json) |
 | Starlight River | 279415 | [279415-starlight-river.json](./279415-starlight-river.json) |
+| Starlight Shores | 134796 | [134796-starlight-shores.json](./134796-starlight-shores.json) |
 | Starlight Squad | 343737 | [343737-starlight-squad.json](./343737-starlight-squad.json) |
 | Starlight Street | 352485 | [352485-starlight-street.json](./352485-starlight-street.json) |
 | Starlight Tactics | 35660 | [35660-starlight-tactics.json](./35660-starlight-tactics.json) |
@@ -33313,6 +33318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Seducer 2 | 103232 | [103232-super-seducer-2.json](./103232-super-seducer-2.json) |
 | Super Seducer 3 | 109347 | [109347-super-seducer-3.json](./109347-super-seducer-3.json) |
 | Super Seeker | 111568 | [111568-super-seeker.json](./111568-super-seeker.json) |
+| Super Sellout | 134802 | [134802-super-sellout.json](./134802-super-sellout.json) |
 | Super Senseless Soccer | 327126 | [327126-super-senseless-soccer.json](./327126-super-senseless-soccer.json) |
 | Super Senso | 26626 | [26626-super-senso.json](./26626-super-senso.json) |
 | Super Sentai Battle: Dice-O | 59823 | [59823-super-sentai-battle-dice-o.json](./59823-super-sentai-battle-dice-o.json) |
