@@ -2869,6 +2869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Net Knight | 199282 | [199282-net-knight.json](./199282-net-knight.json) |
 | Net Pet | 293205 | [293205-net-pet.json](./293205-net-pet.json) |
 | Net Raiders | 327451 | [327451-net-raiders.json](./327451-net-raiders.json) |
+| Net Rally | 92046 | [92046-net-rally.json](./92046-net-rally.json) |
 | Net Select: Keiba Victory Furlong | 107586 | [107586-net-select-keiba-victory-furlong.json](./107586-net-select-keiba-victory-furlong.json) |
 | Net Select: Salaryman Kintarou | 107585 | [107585-net-select-salaryman-kintarou.json](./107585-net-select-salaryman-kintarou.json) |
 | Net Spite and Malice | 94527 | [94527-net-spite-and-malice.json](./94527-net-spite-and-malice.json) |
