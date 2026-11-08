@@ -4802,6 +4802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Be the Sword | 347486 | [347486-be-the-sword.json](./347486-be-the-sword.json) |
 | Be Vigilant! | 117332 | [117332-be-vigilant.json](./117332-be-vigilant.json) |
 | BE Witches | 157163 | [157163-be-witches.json](./157163-be-witches.json) |
+| Be You | 114581 | [114581-be-you.json](./114581-be-you.json) |
 | Be You 2 | 135757 | [135757-be-you-2.json](./135757-be-you-2.json) |
 | Be Yourself | 318234 | [318234-be-yourself.json](./318234-be-yourself.json) |
 | Be Zero | 101649 | [101649-be-zero.json](./101649-be-zero.json) |
@@ -6363,6 +6364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Belpaese: Homecoming | 68491 | [68491-belpaese-homecoming.json](./68491-belpaese-homecoming.json) |
 | Belt Action Collection | 136308 | [136308-belt-action-collection.json](./136308-belt-action-collection.json) |
 | Belt Colony | 214951 | [214951-belt-colony.json](./214951-belt-colony.json) |
+| Belt Miners | 114617 | [114617-belt-miners.json](./114617-belt-miners.json) |
 | Beltane: A strange encounter at Duloe - Stone Circle | 206329 | [206329-beltane-a-strange-encounter-at-duloe-stone-circle.json](./206329-beltane-a-strange-encounter-at-duloe-stone-circle.json) |
 | Beltex | 207637 | [207637-beltex.json](./207637-beltex.json) |
 | Beltion: Beyond Ritual | 267177 | [267177-beltion-beyond-ritual.json](./267177-beltion-beyond-ritual.json) |
@@ -10679,6 +10681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Multiplayer: RPG | 128377 | [128377-block-multiplayer-rpg.json](./128377-block-multiplayer-rpg.json) |
 | Block N Load | 8437 | [8437-block-n-load.json](./8437-block-n-load.json) |
 | Block N Load 2 | 204443 | [204443-block-n-load-2.json](./204443-block-n-load-2.json) |
+| Block of Rum | 114596 | [114596-block-of-rum.json](./114596-block-of-rum.json) |
 | Block Out | 135457 | [135457-block-out.json](./135457-block-out.json) |
 | Block Out | 246386 | [246386-block-out.json](./246386-block-out.json) |
 | Block Out | 385508 | [385508-block-out.json](./385508-block-out.json) |
@@ -15119,6 +15122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravo! | 362438 | [362438-bravo.json](./362438-bravo.json) |
 | Bravoman: Binja Bash! | 63290 | [63290-bravoman-binja-bash.json](./63290-bravoman-binja-bash.json) |
 | Bravura: Quest Rush | 120246 | [120246-bravura-quest-rush.json](./120246-bravura-quest-rush.json) |
+| Brawl | 114592 | [114592-brawl.json](./114592-brawl.json) |
 | Brawl | 28092 | [28092-brawl.json](./28092-brawl.json) |
 | Brawl Arena Shooter | 414385 | [414385-brawl-arena-shooter.json](./414385-brawl-arena-shooter.json) |
 | Brawl Arena: Arcade Shooter | 308645 | [308645-brawl-arena-arcade-shooter.json](./308645-brawl-arena-arcade-shooter.json) |
@@ -17004,6 +17008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bucket Crusher: Holiday Spirit | 287161 | [287161-bucket-crusher-holiday-spirit.json](./287161-bucket-crusher-holiday-spirit.json) |
 | Bucket Crusher: Worldwide Edition | 304781 | [304781-bucket-crusher-worldwide-edition.json](./304781-bucket-crusher-worldwide-edition.json) |
 | Bucket Knight | 118262 | [118262-bucket-knight.json](./118262-bucket-knight.json) |
+| Bucket Knight River Adventures | 114608 | [114608-bucket-knight-river-adventures.json](./114608-bucket-knight-river-adventures.json) |
 | Bucket List | 22741 | [22741-bucket-list.json](./22741-bucket-list.json) |
 | Bucket Truck VR Simulator | 326478 | [326478-bucket-truck-vr-simulator.json](./326478-bucket-truck-vr-simulator.json) |
 | Bucketneers | 176281 | [176281-bucketneers.json](./176281-bucketneers.json) |
