@@ -6410,6 +6410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | First Snow | 132765 | [132765-first-snow.json](./132765-first-snow.json) |
 | First Snow | 228641 | [228641-first-snow.json](./228641-first-snow.json) |
 | First South Beer Pong | 59653 | [59653-first-south-beer-pong.json](./59653-first-south-beer-pong.json) |
+| First Star Down | 129331 | [129331-first-star-down.json](./129331-first-star-down.json) |
 | First Star Online 3 | 145946 | [145946-first-star-online-3.json](./145946-first-star-online-3.json) |
 | First Step: Fighting Souls | 196328 | [196328-first-step-fighting-souls.json](./196328-first-step-fighting-souls.json) |
 | First Steps | 186418 | [186418-first-steps.json](./186418-first-steps.json) |
@@ -8955,6 +8956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fnvader | 311969 | [311969-fnvader.json](./311969-fnvader.json) |
 | Foad | 238809 | [238809-foad.json](./238809-foad.json) |
 | Foam | 138267 | [138267-foam.json](./138267-foam.json) |
+| Foam Dart Frenzy | 129297 | [129297-foam-dart-frenzy.json](./129297-foam-dart-frenzy.json) |
 | FoamFix | 233698 | [233698-foamfix.json](./233698-foamfix.json) |
 | Foamstars: Season 1 | 284717 | [284717-foamstars-season-1.json](./284717-foamstars-season-1.json) |
 | Fobia ...Worse Than Fear. | 242593 | [242593-fobia-worse-than-fear.json](./242593-fobia-worse-than-fear.json) |
