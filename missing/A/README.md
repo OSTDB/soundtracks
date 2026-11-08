@@ -9859,6 +9859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AngelShooter | 99466 | [99466-angelshooter.json](./99466-angelshooter.json) |
 | AngelStrike | 249904 | [249904-angelstrike.json](./249904-angelstrike.json) |
 | Angelus 2: Holy Night | 130536 | [130536-angelus-2-holy-night.json](./130536-angelus-2-holy-night.json) |
+| Angelus Brand VR Experience | 111267 | [111267-angelus-brand-vr-experience.json](./111267-angelus-brand-vr-experience.json) |
 | Angelus: Akuma no Fukuin | 130535 | [130535-angelus-akuma-no-fukuin.json](./130535-angelus-akuma-no-fukuin.json) |
 | Angelwood | 149778 | [149778-angelwood.json](./149778-angelwood.json) |
 | Angenehm Platz -Kleiner Garten Sie Erstellen | 82060 | [82060-angenehm-platz-kleiner-garten-sie-erstellen.json](./82060-angenehm-platz-kleiner-garten-sie-erstellen.json) |
@@ -13070,6 +13071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Pool II | 384609 | [384609-arcade-pool-ii.json](./384609-arcade-pool-ii.json) |
 | Arcade Portable | 202779 | [202779-arcade-portable.json](./202779-arcade-portable.json) |
 | Arcade Racer Evolution | 237380 | [237380-arcade-racer-evolution.json](./237380-arcade-racer-evolution.json) |
+| Arcade Racing GT | 111146 | [111146-arcade-racing-gt.json](./111146-arcade-racing-gt.json) |
 | Arcade Racing Legends | 120565 | [120565-arcade-racing-legends.json](./120565-arcade-racing-legends.json) |
 | Arcade Redemption | 154879 | [154879-arcade-redemption.json](./154879-arcade-redemption.json) |
 | Arcade Reflex | 337965 | [337965-arcade-reflex.json](./337965-arcade-reflex.json) |
