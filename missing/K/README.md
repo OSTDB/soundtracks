@@ -3434,6 +3434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Come: Deliverance II: Legacy of the Forge | 361887 | [361887-kingdom-come-deliverance-ii-legacy-of-the-forge.json](./361887-kingdom-come-deliverance-ii-legacy-of-the-forge.json) |
 | Kingdom Come: Salvation | 402334 | [402334-kingdom-come-salvation.json](./402334-kingdom-come-salvation.json) |
 | Kingdom Conquer | 391548 | [391548-kingdom-conquer.json](./391548-kingdom-conquer.json) |
+| Kingdom Conquest | 80750 | [80750-kingdom-conquest.json](./80750-kingdom-conquest.json) |
 | Kingdom Conquest II | 51652 | [51652-kingdom-conquest-ii.json](./51652-kingdom-conquest-ii.json) |
 | Kingdom Coronation Collection | 320464 | [320464-kingdom-coronation-collection.json](./320464-kingdom-coronation-collection.json) |
 | Kingdom Crusade | 49047 | [49047-kingdom-crusade.json](./49047-kingdom-crusade.json) |
@@ -4683,6 +4684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knightfall 2 | 128659 | [128659-knightfall-2.json](./128659-knightfall-2.json) |
 | Knightfall Showdown | 322969 | [322969-knightfall-showdown.json](./322969-knightfall-showdown.json) |
 | Knightfall: A Daring Journey | 195019 | [195019-knightfall-a-daring-journey.json](./195019-knightfall-a-daring-journey.json) |
+| Knightfall: Death and Taxes | 80730 | [80730-knightfall-death-and-taxes.json](./80730-knightfall-death-and-taxes.json) |
 | Knightfall: Rivals | 29595 | [29595-knightfall-rivals.json](./29595-knightfall-rivals.json) |
 | Knighthood | 130678 | [130678-knighthood.json](./130678-knighthood.json) |
 | Knightica | 331608 | [331608-knightica.json](./331608-knightica.json) |
