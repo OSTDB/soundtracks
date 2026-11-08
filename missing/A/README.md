@@ -1052,6 +1052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Princess of Fallen Kingdom | 166615 | [166615-a-princess-of-fallen-kingdom.json](./166615-a-princess-of-fallen-kingdom.json) |
 | A Princess Peril | 323058 | [323058-a-princess-peril.json](./323058-a-princess-peril.json) |
 | A Prison Digging Game | 337976 | [337976-a-prison-digging-game.json](./337976-a-prison-digging-game.json) |
+| A Prison Strike | 138377 | [138377-a-prison-strike.json](./138377-a-prison-strike.json) |
 | A Promise Best Left Unkept | 235844 | [235844-a-promise-best-left-unkept.json](./235844-a-promise-best-left-unkept.json) |
 | A Promise Best Left Unkept: Aya Edition | 385835 | [385835-a-promise-best-left-unkept-aya-edition.json](./385835-a-promise-best-left-unkept-aya-edition.json) |
 | A Proper Cup of Tea | 294537 | [294537-a-proper-cup-of-tea.json](./294537-a-proper-cup-of-tea.json) |
@@ -3955,6 +3956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeon Blood | 169383 | [169383-aeon-blood.json](./169383-aeon-blood.json) |
 | Aeon Command | 8374 | [8374-aeon-command.json](./8374-aeon-command.json) |
 | Aeon Drive | 135410 | [135410-aeon-drive.json](./135410-aeon-drive.json) |
+| Aeon Flux | 138356 | [138356-aeon-flux.json](./138356-aeon-flux.json) |
 | Aeon Flux | 15847 | [15847-aeon-flux.json](./15847-aeon-flux.json) |
 | Aeon Flux | 80426 | [80426-aeon-flux.json](./80426-aeon-flux.json) |
 | Aeon Guard | 381196 | [381196-aeon-guard.json](./381196-aeon-guard.json) |
@@ -8437,6 +8439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Tetris | 74306 | [74306-amazing-tetris.json](./74306-amazing-tetris.json) |
 | Amazing Thailand VR Experience | 48003 | [48003-amazing-thailand-vr-experience.json](./48003-amazing-thailand-vr-experience.json) |
 | Amazing Thief | 134389 | [134389-amazing-thief.json](./134389-amazing-thief.json) |
+| Amazing Treasure Valley | 138327 | [138327-amazing-treasure-valley.json](./138327-amazing-treasure-valley.json) |
 | Amazing Trip to Europe | 241300 | [241300-amazing-trip-to-europe.json](./241300-amazing-trip-to-europe.json) |
 | Amazing Trivia | 81846 | [81846-amazing-trivia.json](./81846-amazing-trivia.json) |
 | Amazing Vacation: Chicago | 337253 | [337253-amazing-vacation-chicago.json](./337253-amazing-vacation-chicago.json) |
@@ -16907,7 +16910,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
