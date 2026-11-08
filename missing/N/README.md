@@ -5248,6 +5248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Hayate HD Remaster | 341094 | [341094-ninja-hayate-hd-remaster.json](./341094-ninja-hayate-hd-remaster.json) |
 | Ninja Hero Cats | 295665 | [295665-ninja-hero-cats.json](./295665-ninja-hero-cats.json) |
 | Ninja Hero Revenge | 102728 | [102728-ninja-hero-revenge.json](./102728-ninja-hero-revenge.json) |
+| Ninja Heroes - Storm Battle | 100976 | [100976-ninja-heroes-storm-battle.json](./100976-ninja-heroes-storm-battle.json) |
 | Ninja Hop | 27246 | [27246-ninja-hop.json](./27246-ninja-hop.json) |
 | Ninja Hunter | 64635 | [64635-ninja-hunter.json](./64635-ninja-hunter.json) |
 | Ninja in Training | 74337 | [74337-ninja-in-training.json](./74337-ninja-in-training.json) |
