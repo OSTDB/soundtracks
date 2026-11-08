@@ -1816,6 +1816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capsule Silence XXIV | 58737 | [58737-capsule-silence-xxiv.json](./58737-capsule-silence-xxiv.json) |
 | Capsule: A Piece of Me | 97652 | [97652-capsule-a-piece-of-me.json](./97652-capsule-a-piece-of-me.json) |
 | CapsuleMan | 274296 | [274296-capsuleman.json](./274296-capsuleman.json) |
+| Capsulemon Fight! | 138358 | [138358-capsulemon-fight.json](./138358-capsulemon-fight.json) |
 | CapsuleToy | 232586 | [232586-capsuletoy.json](./232586-capsuletoy.json) |
 | Capsulitas | 390201 | [390201-capsulitas.json](./390201-capsulitas.json) |
 | Capt Crabs a Slimy Adventure | 249821 | [249821-capt-crabs-a-slimy-adventure.json](./249821-capt-crabs-a-slimy-adventure.json) |
@@ -13354,6 +13355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Competition Karate | 25780 | [25780-competition-karate.json](./25780-competition-karate.json) |
 | Competitions At Rosemond Hill | 202065 | [202065-competitions-at-rosemond-hill.json](./202065-competitions-at-rosemond-hill.json) |
 | Competitive Checkers | 262583 | [262583-competitive-checkers.json](./262583-competitive-checkers.json) |
+| Competitive Karuta Online | 138346 | [138346-competitive-karuta-online.json](./138346-competitive-karuta-online.json) |
 | Compilation Assassin's Creed: Brotherhood + Revelations | 151207 | [151207-compilation-assassins-creed-brotherhood-revelations.json](./151207-compilation-assassins-creed-brotherhood-revelations.json) |
 | Compilation I Tom Clancy's Ghost Recon: Advanced Warfighter 2 + Tom Clancy's EndWar | 84163 | [84163-compilation-i-tom-clancys-ghost-recon-advanced-warfighter-2-tom-clancys-endwar.json](./84163-compilation-i-tom-clancys-ghost-recon-advanced-warfighter-2-tom-clancys-endwar.json) |
 | Complete | 276261 | [276261-complete.json](./276261-complete.json) |
@@ -15231,6 +15233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Ball Tournament | 202638 | [202638-cosmic-ball-tournament.json](./202638-cosmic-ball-tournament.json) |
 | Cosmic Batter Defense | 205993 | [205993-cosmic-batter-defense.json](./205993-cosmic-batter-defense.json) |
 | Cosmic Blastards | 275873 | [275873-cosmic-blastards.json](./275873-cosmic-blastards.json) |
+| Cosmic Boll | 138329 | [138329-cosmic-boll.json](./138329-cosmic-boll.json) |
 | Cosmic Bouncer | 15918 | [15918-cosmic-bouncer.json](./15918-cosmic-bouncer.json) |
 | Cosmic Bowling | 100275 | [100275-cosmic-bowling.json](./100275-cosmic-bowling.json) |
 | Cosmic Break | 80556 | [80556-cosmic-break.json](./80556-cosmic-break.json) |
@@ -18377,6 +18380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crow Heist | 401039 | [401039-crow-heist.json](./401039-crow-heist.json) |
 | Crow Quest | 218063 | [218063-crow-quest.json](./218063-crow-quest.json) |
 | Crow Sign | 412614 | [412614-crow-sign.json](./412614-crow-sign.json) |
+| Crow Sketch | 138364 | [138364-crow-sketch.json](./138364-crow-sketch.json) |
 | Crow Story | 189147 | [189147-crow-story.json](./189147-crow-story.json) |
 | Crow Style | 353797 | [353797-crow-style.json](./353797-crow-style.json) |
 | Crow-Sourcing | 312854 | [312854-crow-sourcing.json](./312854-crow-sourcing.json) |
