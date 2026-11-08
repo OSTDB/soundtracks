@@ -349,6 +349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Seasons 2 | 57930 | [57930-sacred-seasons-2.json](./57930-sacred-seasons-2.json) |
 | Sacred Siren | 121913 | [121913-sacred-siren.json](./121913-sacred-siren.json) |
 | Sacred Sword Princesses | 112286 | [112286-sacred-sword-princesses.json](./112286-sacred-sword-princesses.json) |
+| Sacred Treasure | 101779 | [101779-sacred-treasure.json](./101779-sacred-treasure.json) |
 | Sacred Underworld | 78933 | [78933-sacred-underworld.json](./78933-sacred-underworld.json) |
 | Sacred Valley | 189871 | [189871-sacred-valley.json](./189871-sacred-valley.json) |
 | Sacred X: Heavens Wonderland | 297342 | [297342-sacred-x-heavens-wonderland.json](./297342-sacred-x-heavens-wonderland.json) |
@@ -14911,6 +14912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smily Angry | 318754 | [318754-smily-angry.json](./318754-smily-angry.json) |
 | Sminer | 371820 | [371820-sminer.json](./371820-sminer.json) |
 | Sminis | 93532 | [93532-sminis.json](./93532-sminis.json) |
+| Smintheus | 101171 | [101171-smintheus.json](./101171-smintheus.json) |
 | Smipat and the Lost Bones | 188556 | [188556-smipat-and-the-lost-bones.json](./188556-smipat-and-the-lost-bones.json) |
 | Smirkers | 371236 | [371236-smirkers.json](./371236-smirkers.json) |
 | Smite | 5607 | [5607-smite.json](./5607-smite.json) |
@@ -16306,6 +16308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Rage | 35597 | [35597-soccer-rage.json](./35597-soccer-rage.json) |
 | Soccer Rally | 175287 | [175287-soccer-rally.json](./175287-soccer-rally.json) |
 | Soccer Rally | 210079 | [210079-soccer-rally.json](./210079-soccer-rally.json) |
+| Soccer Rally 2: World Championship | 101154 | [101154-soccer-rally-2-world-championship.json](./101154-soccer-rally-2-world-championship.json) |
 | Soccer Rally Arena | 95081 | [95081-soccer-rally-arena.json](./95081-soccer-rally-arena.json) |
 | Soccer Real Stars '17 | 107355 | [107355-soccer-real-stars-17.json](./107355-soccer-real-stars-17.json) |
 | Soccer RPG: Become the coach for the national team! | 94259 | [94259-soccer-rpg-become-the-coach-for-the-national-team.json](./94259-soccer-rpg-become-the-coach-for-the-national-team.json) |
@@ -17452,6 +17455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song Animals | 116101 | [116101-song-animals.json](./116101-song-animals.json) |
 | Song Beater: Quite My Tempo! | 119993 | [119993-song-beater-quite-my-tempo.json](./119993-song-beater-quite-my-tempo.json) |
 | Song by the Sea | 207238 | [207238-song-by-the-sea.json](./207238-song-by-the-sea.json) |
+| Song for a Bird | 101717 | [101717-song-for-a-bird.json](./101717-song-for-a-bird.json) |
 | Song in the Smoke | 145450 | [145450-song-in-the-smoke.json](./145450-song-in-the-smoke.json) |
 | Song in the Smoke: Rekindled | 243871 | [243871-song-in-the-smoke-rekindled.json](./243871-song-in-the-smoke-rekindled.json) |
 | Song Master | 42404 | [42404-song-master.json](./42404-song-master.json) |
@@ -29142,6 +29146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike of Horror | 112856 | [112856-strike-of-horror.json](./112856-strike-of-horror.json) |
 | Strike of Kings | 56465 | [56465-strike-of-kings.json](./56465-strike-of-kings.json) |
 | Strike of Nations: Empire of Steel | 120238 | [120238-strike-of-nations-empire-of-steel.json](./120238-strike-of-nations-empire-of-steel.json) |
+| Strike of War | 101777 | [101777-strike-of-war.json](./101777-strike-of-war.json) |
 | Strike Ops | 235011 | [235011-strike-ops.json](./235011-strike-ops.json) |
 | Strike Pack | 409514 | [409514-strike-pack.json](./409514-strike-pack.json) |
 | Strike Point | 44964 | [44964-strike-point.json](./44964-strike-point.json) |
@@ -30991,6 +30996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunny Smiles | 99422 | [99422-sunny-smiles.json](./99422-sunny-smiles.json) |
 | Sunny-Place | 142930 | [142930-sunny-place.json](./142930-sunny-place.json) |
 | Sunny-Place-3: Microgods | 241275 | [241275-sunny-place-3-microgods.json](./241275-sunny-place-3-microgods.json) |
+| SunnyLine - 7 In a Row | 101646 | [101646-sunnyline-7-in-a-row.json](./101646-sunnyline-7-in-a-row.json) |
 | SunnySide | 158994 | [158994-sunnyside.json](./158994-sunnyside.json) |
 | Sunnyside vs. the Eggies | 222797 | [222797-sunnyside-vs-the-eggies.json](./222797-sunnyside-vs-the-eggies.json) |
 | Sunpolis | 267330 | [267330-sunpolis.json](./267330-sunpolis.json) |
