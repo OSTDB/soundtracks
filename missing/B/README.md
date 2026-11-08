@@ -986,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -10091,6 +10092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blau | 402453 | [402453-blau.json](./402453-blau.json) |
 | Blautopf VR: Geheimnis der Lau | 119772 | [119772-blautopf-vr-geheimnis-der-lau.json](./119772-blautopf-vr-geheimnis-der-lau.json) |
 | Blaynix | 138431 | [138431-blaynix.json](./138431-blaynix.json) |
+| BlayzBloo: Super Melee Action Battle Royale | 84996 | [84996-blayzbloo-super-melee-action-battle-royale.json](./84996-blayzbloo-super-melee-action-battle-royale.json) |
 | BlayzBloo: Super Melee Brawlers Battle Royale | 67246 | [67246-blayzbloo-super-melee-brawlers-battle-royale.json](./67246-blayzbloo-super-melee-brawlers-battle-royale.json) |
 | BlazBlue (Tentative Title) | 86364 | [86364-blazblue-tentative-title.json](./86364-blazblue-tentative-title.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 1 | 332824 | [332824-blazblue-cross-tag-battle-additional-color-set-1.json](./332824-blazblue-cross-tag-battle-additional-color-set-1.json) |
@@ -10611,6 +10613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobufo | 219299 | [219299-blobufo.json](./219299-blobufo.json) |
 | Blobun | 316089 | [316089-blobun.json](./316089-blobun.json) |
 | Blobz | 14320 | [14320-blobz.json](./14320-blobz.json) |
+| Bloc | 85001 | [85001-bloc.json](./85001-bloc.json) |
 | Bloc | 94860 | [94860-bloc.json](./94860-bloc.json) |
 | Bloc-Age: Path of the Oracle | 259124 | [259124-bloc-age-path-of-the-oracle.json](./259124-bloc-age-path-of-the-oracle.json) |
 | Blocate | 360302 | [360302-blocate.json](./360302-blocate.json) |
@@ -10864,6 +10867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockade Runner | 297244 | [297244-blockade-runner.json](./297244-blockade-runner.json) |
 | Blockade Runner | 397236 | [397236-blockade-runner.json](./397236-blockade-runner.json) |
 | Blockade War Stories | 116772 | [116772-blockade-war-stories.json](./116772-blockade-war-stories.json) |
+| Blockado: Puzzle Island | 85000 | [85000-blockado-puzzle-island.json](./85000-blockado-puzzle-island.json) |
 | Blockage | 306966 | [306966-blockage.json](./306966-blockage.json) |
 | Blockage | 80294 | [80294-blockage.json](./80294-blockage.json) |
 | BlockAid | 32882 | [32882-blockaid.json](./32882-blockaid.json) |
@@ -10905,6 +10909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blockey: Block Yeah! | 123727 | [123727-blockey-block-yeah.json](./123727-blockey-block-yeah.json) |
 | Blockfeet | 411708 | [411708-blockfeet.json](./411708-blockfeet.json) |
 | Blockforge | 73271 | [73271-blockforge.json](./73271-blockforge.json) |
+| BlockForm | 84999 | [84999-blockform.json](./84999-blockform.json) |
 | BlockFront | 335152 | [335152-blockfront.json](./335152-blockfront.json) |
 | Blockfusion | 363977 | [363977-blockfusion.json](./363977-blockfusion.json) |
 | BlockGame | 380027 | [380027-blockgame.json](./380027-blockgame.json) |
@@ -13434,6 +13439,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boom Boom Bovine | 120118 | [120118-boom-boom-bovine.json](./120118-boom-boom-bovine.json) |
 | Boom Boom Football | 252954 | [252954-boom-boom-football.json](./252954-boom-boom-football.json) |
 | Boom Boom Hamster Doom | 344168 | [344168-boom-boom-hamster-doom.json](./344168-boom-boom-hamster-doom.json) |
+| Boom Boom Squaries | 85003 | [85003-boom-boom-squaries.json](./85003-boom-boom-squaries.json) |
 | Boom Boom Tower | 118063 | [118063-boom-boom-tower.json](./118063-boom-boom-tower.json) |
 | Boom Boom Volleyball | 263470 | [263470-boom-boom-volleyball.json](./263470-boom-boom-volleyball.json) |
 | Boom Boomerang | 127683 | [127683-boom-boomerang.json](./127683-boom-boomerang.json) |
@@ -14085,6 +14091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounce | 27679 | [27679-bounce.json](./27679-bounce.json) |
 | Bounce | 376801 | [376801-bounce.json](./376801-bounce.json) |
 | Bounce | 95270 | [95270-bounce.json](./95270-bounce.json) |
+| Bounce & Break | 85002 | [85002-bounce-and-break.json](./85002-bounce-and-break.json) |
 | Bounce & Roll | 257807 | [257807-bounce-and-roll.json](./257807-bounce-and-roll.json) |
 | Bounce 2 | 356571 | [356571-bounce-2.json](./356571-bounce-2.json) |
 | Bounce a Tomato | 403659 | [403659-bounce-a-tomato.json](./403659-bounce-a-tomato.json) |
@@ -14531,6 +14538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box or Void | 389388 | [389388-box-or-void.json](./389388-box-or-void.json) |
 | Box Out! | 35622 | [35622-box-out.json](./35622-box-out.json) |
 | Box Party | 214131 | [214131-box-party.json](./214131-box-party.json) |
+| Box Pusher | 85005 | [85005-box-pusher.json](./85005-box-pusher.json) |
 | Box Puzzle | 246316 | [246316-box-puzzle.json](./246316-box-puzzle.json) |
 | Box Room | 285895 | [285895-box-room.json](./285895-box-room.json) |
 | Box Roulette Simulator | 234629 | [234629-box-roulette-simulator.json](./234629-box-roulette-simulator.json) |
@@ -14691,6 +14699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxy Boy | 277524 | [277524-boxy-boy.json](./277524-boxy-boy.json) |
 | Boxy Trial | 122334 | [122334-boxy-trial.json](./122334-boxy-trial.json) |
 | Boxyboy | 94912 | [94912-boxyboy.json](./94912-boxyboy.json) |
+| Boxzle | 85006 | [85006-boxzle.json](./85006-boxzle.json) |
 | Boxzum | 84283 | [84283-boxzum.json](./84283-boxzum.json) |
 | Boy & Wheel | 239431 | [239431-boy-and-wheel.json](./239431-boy-and-wheel.json) |
 | Boy and the Seagull | 197649 | [197649-boy-and-the-seagull.json](./197649-boy-and-the-seagull.json) |
@@ -15883,6 +15892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brickadia | 124360 | [124360-brickadia.json](./124360-brickadia.json) |
 | BrickArena | 100345 | [100345-brickarena.json](./100345-brickarena.json) |
 | BrickAttack | 76151 | [76151-brickattack.json](./76151-brickattack.json) |
+| BrickBlast U! | 85004 | [85004-brickblast-u.json](./85004-brickblast-u.json) |
 | BrickBounce | 273381 | [273381-brickbounce.json](./273381-brickbounce.json) |
 | BrickBreak | 180421 | [180421-brickbreak.json](./180421-brickbreak.json) |
 | Brickbuilder VR | 154302 | [154302-brickbuilder-vr.json](./154302-brickbuilder-vr.json) |
@@ -16560,6 +16570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brume | 405487 | [405487-brume.json](./405487-brume.json) |
 | Brumley | 405770 | [405770-brumley.json](./405770-brumley.json) |
 | Brunch Club | 122867 | [122867-brunch-club.json](./122867-brunch-club.json) |
+| Brunch Panic | 85012 | [85012-brunch-panic.json](./85012-brunch-panic.json) |
 | Brunch Rush | 211031 | [211031-brunch-rush.json](./211031-brunch-rush.json) |
 | Brunelleschi: Age of Architects | 57535 | [57535-brunelleschi-age-of-architects.json](./57535-brunelleschi-age-of-architects.json) |
 | Bruneva | 329052 | [329052-bruneva.json](./329052-bruneva.json) |
@@ -16659,6 +16670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutish Mine | 22372 | [22372-brutish-mine.json](./22372-brutish-mine.json) |
 | Brutus | 178041 | [178041-brutus.json](./178041-brutus.json) |
 | Brutus | 91950 | [91950-brutus.json](./91950-brutus.json) |
+| Brutus & Futée | 85011 | [85011-brutus-and-futee.json](./85011-brutus-and-futee.json) |
 | Brutus Maximus | 306304 | [306304-brutus-maximus.json](./306304-brutus-maximus.json) |
 | Bruv | 172436 | [172436-bruv.json](./172436-bruv.json) |
 | Bruxa | 184377 | [184377-bruxa.json](./184377-bruxa.json) |
@@ -16915,6 +16927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Frog DX | 339711 | [339711-bubble-frog-dx.json](./339711-bubble-frog-dx.json) |
 | Bubble Ghost | 7802 | [7802-bubble-ghost.json](./7802-bubble-ghost.json) |
 | Bubble Ghost Remake | 250892 | [250892-bubble-ghost-remake.json](./250892-bubble-ghost-remake.json) |
+| Bubble Gum Popper | 85010 | [85010-bubble-gum-popper.json](./85010-bubble-gum-popper.json) |
 | Bubble Gum Rosie | 245082 | [245082-bubble-gum-rosie.json](./245082-bubble-gum-rosie.json) |
 | Bubble Gun 3D | 150690 | [150690-bubble-gun-3d.json](./150690-bubble-gun-3d.json) |
 | Bubble Guppies | 230336 | [230336-bubble-guppies.json](./230336-bubble-guppies.json) |
@@ -17179,6 +17192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buddy | 32558 | [32558-buddy.json](./32558-buddy.json) |
 | Buddy & Friends: Santa's Workshop Animal Party | 283299 | [283299-buddy-and-friends-santas-workshop-animal-party.json](./283299-buddy-and-friends-santas-workshop-animal-party.json) |
 | Buddy & Me | 61874 | [61874-buddy-and-me.json](./61874-buddy-and-me.json) |
+| Buddy & Me: Dream Edition | 85008 | [85008-buddy-and-me-dream-edition.json](./85008-buddy-and-me-dream-edition.json) |
 | Buddy and Friends on Halloween | 267743 | [267743-buddy-and-friends-on-halloween.json](./267743-buddy-and-friends-on-halloween.json) |
 | Buddy and Lucky Solitaire | 170666 | [170666-buddy-and-lucky-solitaire.json](./170666-buddy-and-lucky-solitaire.json) |
 | Buddy Bash | 129091 | [129091-buddy-bash.json](./129091-buddy-bash.json) |
@@ -17393,6 +17407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bugs with Afterburners | 387550 | [387550-bugs-with-afterburners.json](./387550-bugs-with-afterburners.json) |
 | Bugs! | 119679 | [119679-bugs.json](./119679-bugs.json) |
 | Bugs. Billions of Bugs. | 419765 | [419765-bugs-billions-of-bugs.json](./419765-bugs-billions-of-bugs.json) |
+| Bugs'N'Balls | 85007 | [85007-bugsnballs.json](./85007-bugsnballs.json) |
 | BugsBox | 99739 | [99739-bugsbox.json](./99739-bugsbox.json) |
 | BugsBoxVR | 111454 | [111454-bugsboxvr.json](./111454-bugsboxvr.json) |
 | Bugscraper | 230797 | [230797-bugscraper.json](./230797-bugscraper.json) |
