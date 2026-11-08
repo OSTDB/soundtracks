@@ -1411,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panzar: Forged By Chaos | 102572 | [102572-panzar-forged-by-chaos.json](./102572-panzar-forged-by-chaos.json) |
 | PanzenTD | 358262 | [358262-panzentd.json](./358262-panzentd.json) |
 | Panzer Attack/Red Baron | 95381 | [95381-panzer-attack-red-baron.json](./95381-panzer-attack-red-baron.json) |
+| Panzer Ball | 132338 | [132338-panzer-ball.json](./132338-panzer-ball.json) |
 | Panzer Bandit | 45108 | [45108-panzer-bandit.json](./45108-panzer-bandit.json) |
 | Panzer Battles | 17997 | [17997-panzer-battles.json](./17997-panzer-battles.json) |
 | Panzer Battles: Battles of Normandy | 241428 | [241428-panzer-battles-battles-of-normandy.json](./241428-panzer-battles-battles-of-normandy.json) |
@@ -2630,6 +2631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Animals: Deluxe Edition | 267777 | [267777-party-animals-deluxe-edition.json](./267777-party-animals-deluxe-edition.json) |
 | Party Arcade | 109436 | [109436-party-arcade.json](./109436-party-arcade.json) |
 | Party Arcade: Enhanced Edition | 330186 | [330186-party-arcade-enhanced-edition.json](./330186-party-arcade-enhanced-edition.json) |
+| Party Arena | 132361 | [132361-party-arena.json](./132361-party-arena.json) |
 | Party Arena: Board Game Battler | 133801 | [133801-party-arena-board-game-battler.json](./133801-party-arena-board-game-battler.json) |
 | Party Ball | 60069 | [60069-party-ball.json](./60069-party-ball.json) |
 | Party Bingo | 117614 | [117614-party-bingo.json](./117614-party-bingo.json) |
@@ -7849,6 +7851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates! Gold Plus | 36216 | [36216-pirates-gold-plus.json](./36216-pirates-gold-plus.json) |
 | Pirates! Showdown | 103840 | [103840-pirates-showdown.json](./103840-pirates-showdown.json) |
 | Pirates! Showdown: Enhanced Edition | 289318 | [289318-pirates-showdown-enhanced-edition.json](./289318-pirates-showdown-enhanced-edition.json) |
+| Pirates? Pirates! | 132375 | [132375-pirates-pirates.json](./132375-pirates-pirates.json) |
 | PiratesBattle | 176302 | [176302-piratesbattle.json](./176302-piratesbattle.json) |
 | Pirateville | 201889 | [201889-pirateville.json](./201889-pirateville.json) |
 | PirateWar | 312156 | [312156-piratewar.json](./312156-piratewar.json) |
