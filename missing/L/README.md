@@ -254,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lablue Horror | 411048 | [411048-lablue-horror.json](./411048-lablue-horror.json) |
 | Labo Brick Car | 100990 | [100990-labo-brick-car.json](./100990-labo-brick-car.json) |
 | Labo Halloween Car | 91095 | [91095-labo-halloween-car.json](./91095-labo-halloween-car.json) |
+| Labo Pebble Art | 102491 | [102491-labo-pebble-art.json](./102491-labo-pebble-art.json) |
 | Labophobia | 247906 | [247906-labophobia.json](./247906-labophobia.json) |
 | Labor | 100714 | [100714-labor.json](./100714-labor.json) |
 | Labor Power | 312301 | [312301-labor-power.json](./312301-labor-power.json) |
@@ -265,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laboratory X-29 | 258550 | [258550-laboratory-x-29.json](./258550-laboratory-x-29.json) |
 | LaborSurviveManual | 246825 | [246825-laborsurvivemanual.json](./246825-laborsurvivemanual.json) |
 | LabRat | 139925 | [139925-labrat.json](./139925-labrat.json) |
+| LabRpgUp! | 102990 | [102990-labrpgup.json](./102990-labrpgup.json) |
 | Labsylle | 381515 | [381515-labsylle.json](./381515-labsylle.json) |
 | LabTrainingVR: Biosafety Cabinet Edition | 163711 | [163711-labtrainingvr-biosafety-cabinet-edition.json](./163711-labtrainingvr-biosafety-cabinet-edition.json) |
 | LabTrainingVR: Personal Protective - Equipment Edition | 174091 | [174091-labtrainingvr-personal-protective-equipment-edition.json](./174091-labtrainingvr-personal-protective-equipment-edition.json) |
@@ -5525,6 +5527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lineage II | 2971 | [2971-lineage-ii.json](./2971-lineage-ii.json) |
 | Lineage II Classic | 109600 | [109600-lineage-ii-classic.json](./109600-lineage-ii-classic.json) |
 | Lineage II: Grand Crusade | 56276 | [56276-lineage-ii-grand-crusade.json](./56276-lineage-ii-grand-crusade.json) |
+| Lineage II: The Chaotic Chronicle | 102485 | [102485-lineage-ii-the-chaotic-chronicle.json](./102485-lineage-ii-the-chaotic-chronicle.json) |
 | Lineage II: The Chaotic Throne - The 1st Throne: The Kamael | 21497 | [21497-lineage-ii-the-chaotic-throne-the-1st-throne-the-kamael.json](./21497-lineage-ii-the-chaotic-throne-the-1st-throne-the-kamael.json) |
 | Lineage M | 78248 | [78248-lineage-m.json](./78248-lineage-m.json) |
 | Lineage W | 165362 | [165362-lineage-w.json](./165362-lineage-w.json) |
@@ -9102,6 +9105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Villa: Choose Your Story | 299336 | [299336-love-villa-choose-your-story.json](./299336-love-villa-choose-your-story.json) |
 | Love wish | 129344 | [129344-love-wish.json](./129344-love-wish.json) |
 | Love Wish 2 | 213726 | [213726-love-wish-2.json](./213726-love-wish-2.json) |
+| Love Witches | 102487 | [102487-love-witches.json](./102487-love-witches.json) |
 | Love with Furry | 192505 | [192505-love-with-furry.json](./192505-love-with-furry.json) |
 | Love with Kadyrov | 383525 | [383525-love-with-kadyrov.json](./383525-love-with-kadyrov.json) |
 | Love WMC | 395140 | [395140-love-wmc.json](./395140-love-wmc.json) |
