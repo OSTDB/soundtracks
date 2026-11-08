@@ -1886,6 +1886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Eternal | 406903 | [406903-garden-eternal.json](./406903-garden-eternal.json) |
 | Garden Flipper | 164830 | [164830-garden-flipper.json](./164830-garden-flipper.json) |
 | Garden for Glory: Collector's Edition | 337241 | [337241-garden-for-glory-collectors-edition.json](./337241-garden-for-glory-collectors-edition.json) |
+| Garden Fruit Legend | 104205 | [104205-garden-fruit-legend.json](./104205-garden-fruit-legend.json) |
 | Garden Galaxy | 199279 | [199279-garden-galaxy.json](./199279-garden-galaxy.json) |
 | Garden Gingdom | 386993 | [386993-garden-gingdom.json](./386993-garden-gingdom.json) |
 | Garden Gnome Beatmaker | 380199 | [380199-garden-gnome-beatmaker.json](./380199-garden-gnome-beatmaker.json) |
@@ -6880,6 +6881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf on Stream | 398216 | [398216-golf-on-stream.json](./398216-golf-on-stream.json) |
 | Golf on the Moon | 126397 | [126397-golf-on-the-moon.json](./126397-golf-on-the-moon.json) |
 | Golf Open Cup | 234469 | [234469-golf-open-cup.json](./234469-golf-open-cup.json) |
+| Golf Orbit | 104277 | [104277-golf-orbit.json](./104277-golf-orbit.json) |
 | Golf Party | 141741 | [141741-golf-party.json](./141741-golf-party.json) |
 | Golf Peaks | 107329 | [107329-golf-peaks.json](./107329-golf-peaks.json) |
 | Golf Pool VR | 115928 | [115928-golf-pool-vr.json](./115928-golf-pool-vr.json) |
@@ -7332,6 +7334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gooner on the Orient Express | 292450 | [292450-gooner-on-the-orient-express.json](./292450-gooner-on-the-orient-express.json) |
 | Gooning Aim Trainer | 340320 | [340320-gooning-aim-trainer.json](./340320-gooning-aim-trainer.json) |
 | Goons: Legends & Mayhem | 138643 | [138643-goons-legends-and-mayhem.json](./138643-goons-legends-and-mayhem.json) |
+| Goons.io Knight Warriors | 104275 | [104275-goons-io-knight-warriors.json](./104275-goons-io-knight-warriors.json) |
 | Goontang Chackalaka | 322674 | [322674-goontang-chackalaka.json](./322674-goontang-chackalaka.json) |
 | Goony | 85632 | [85632-goony.json](./85632-goony.json) |
 | Goonya Fighter | 119523 | [119523-goonya-fighter.json](./119523-goonya-fighter.json) |
