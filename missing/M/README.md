@@ -9641,6 +9641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merlin Racing | 51184 | [51184-merlin-racing.json](./51184-merlin-racing.json) |
 | Merlin Soccer | 105662 | [105662-merlin-soccer.json](./105662-merlin-soccer.json) |
 | Merlin Survivors | 374165 | [374165-merlin-survivors.json](./374165-merlin-survivors.json) |
+| Merlin vs Zombies | 93673 | [93673-merlin-vs-zombies.json](./93673-merlin-vs-zombies.json) |
 | Merlin: A Servant of Two Masters | 383335 | [383335-merlin-a-servant-of-two-masters.json](./383335-merlin-a-servant-of-two-masters.json) |
 | Merlin: The Game | 304206 | [304206-merlin-the-game.json](./304206-merlin-the-game.json) |
 | Merlin's Apprentice | 212540 | [212540-merlins-apprentice.json](./212540-merlins-apprentice.json) |
@@ -15561,6 +15562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mondo Museum | 122513 | [122513-mondo-museum.json](./122513-mondo-museum.json) |
 | Mondo Pong | 40759 | [40759-mondo-pong.json](./40759-mondo-pong.json) |
 | Mondo Reico | 308015 | [308015-mondo-reico.json](./308015-mondo-reico.json) |
+| Mondo Solitaire | 93688 | [93688-mondo-solitaire.json](./93688-mondo-solitaire.json) |
 | Mondrian - Abstraction in Beauty | 34692 | [34692-mondrian-abstraction-in-beauty.json](./34692-mondrian-abstraction-in-beauty.json) |
 | Mondrian Provoked | 68896 | [68896-mondrian-provoked.json](./68896-mondrian-provoked.json) |
 | Mondrian Squares | 192751 | [192751-mondrian-squares.json](./192751-mondrian-squares.json) |
@@ -20173,6 +20175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Racing | 220178 | [220178-music-racing.json](./220178-music-racing.json) |
 | Music Room | 143475 | [143475-music-room.json](./143475-music-room.json) |
 | Music Run: Hall of the Mountain King | 266249 | [266249-music-run-hall-of-the-mountain-king.json](./266249-music-run-hall-of-the-mountain-king.json) |
+| Music School Pro | 93699 | [93699-music-school-pro.json](./93699-music-school-pro.json) |
 | Music Sim Empire | 298031 | [298031-music-sim-empire.json](./298031-music-sim-empire.json) |
 | Music Star: Life Simulator | 232093 | [232093-music-star-life-simulator.json](./232093-music-star-life-simulator.json) |
 | Music Store Simulator | 207326 | [207326-music-store-simulator.json](./207326-music-store-simulator.json) |
@@ -20963,6 +20966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Fox Sister | 107738 | [107738-my-fox-sister.json](./107738-my-fox-sister.json) |
 | My Foxy Girlfriend | 205818 | [205818-my-foxy-girlfriend.json](./205818-my-foxy-girlfriend.json) |
 | My Free Farm | 286409 | [286409-my-free-farm.json](./286409-my-free-farm.json) |
+| My Free Farm 2 | 93676 | [93676-my-free-farm-2.json](./93676-my-free-farm-2.json) |
 | My Free Zoo | 75591 | [75591-my-free-zoo.json](./75591-my-free-zoo.json) |
 | My French Coach Level 2: Intermediate | 92357 | [92357-my-french-coach-level-2-intermediate.json](./92357-my-french-coach-level-2-intermediate.json) |
 | My Friend Aki | 274353 | [274353-my-friend-aki.json](./274353-my-friend-aki.json) |
