@@ -59,6 +59,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.M.A.S.H.E.D. | 55108 | [55108-s-m-a-s-h-e-d.json](./55108-s-m-a-s-h-e-d.json) |
 | S.M.P.C.U.: Special Monster Pest Control Unit | 381279 | [381279-s-m-p-c-u-special-monster-pest-control-unit.json](./381279-s-m-p-c-u-special-monster-pest-control-unit.json) |
 | S.M.S | 240075 | [240075-s-m-s.json](./240075-s-m-s.json) |
+| S.N.A.K.E Time | 80761 | [80761-s-n-a-k-e-time.json](./80761-s-n-a-k-e-time.json) |
 | S.N.A.P. | 390475 | [390475-s-n-a-p.json](./390475-s-n-a-p.json) |
 | S.N.I.P.E.R : Hunter Scope - Legacy Edition | 312061 | [312061-s-n-i-p-e-r-hunter-scope-legacy-edition.json](./312061-s-n-i-p-e-r-hunter-scope-legacy-edition.json) |
 | S.N.I.P.E.R: Hunter Scope - Eagle Eye | 308830 | [308830-s-n-i-p-e-r-hunter-scope-eagle-eye.json](./308830-s-n-i-p-e-r-hunter-scope-eagle-eye.json) |
@@ -1224,6 +1225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sambird | 413475 | [413475-sambird.json](./413475-sambird.json) |
 | Same | 64423 | [64423-same.json](./64423-same.json) |
 | Same Break Game | 310454 | [310454-same-break-game.json](./310454-same-break-game.json) |
+| Same Game for Mac | 80754 | [80754-same-game-for-mac.json](./80754-same-game-for-mac.json) |
 | Same Game for Windows | 80229 | [80229-same-game-for-windows.json](./80229-same-game-for-windows.json) |
 | Same or Different | 69718 | [69718-same-or-different.json](./69718-same-or-different.json) |
 | Same Room Same Day | 316610 | [316610-same-room-same-day.json](./316610-same-room-same-day.json) |
@@ -8121,6 +8123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shelly Duvall's It's A Bird's Life | 38820 | [38820-shelly-duvalls-its-a-birds-life.json](./38820-shelly-duvalls-its-a-birds-life.json) |
 | Shelly: My First Computer Game | 208703 | [208703-shelly-my-first-computer-game.json](./208703-shelly-my-first-computer-game.json) |
 | Shelter | 7832 | [7832-shelter.json](./7832-shelter.json) |
+| Shelter | 80763 | [80763-shelter.json](./80763-shelter.json) |
 | Shelter 13 | 414733 | [414733-shelter-13.json](./414733-shelter-13.json) |
 | Shelter 2 | 11795 | [11795-shelter-2.json](./11795-shelter-2.json) |
 | Shelter 2 Mountains | 51910 | [51910-shelter-2-mountains.json](./51910-shelter-2-mountains.json) |
@@ -16262,6 +16265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soarocity | 169838 | [169838-soarocity.json](./169838-soarocity.json) |
 | Soba's Gunpaw | 358227 | [358227-sobas-gunpaw.json](./358227-sobas-gunpaw.json) |
 | SobokoSnake | 216529 | [216529-sobokosnake.json](./216529-sobokosnake.json) |
+| Sobor | 80753 | [80753-sobor.json](./80753-sobor.json) |
 | Sobosuba | 293517 | [293517-sobosuba.json](./293517-sobosuba.json) |
 | Sobreviva Ziggy! | 329012 | [329012-sobreviva-ziggy.json](./329012-sobreviva-ziggy.json) |
 | Soccer | 172399 | [172399-soccer.json](./172399-soccer.json) |
@@ -19318,6 +19322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulkin | 305211 | [305211-soulkin.json](./305211-soulkin.json) |
 | Soulknight Survivor | 253363 | [253363-soulknight-survivor.json](./253363-soulknight-survivor.json) |
 | Soulless | 195790 | [195790-soulless.json](./195790-soulless.json) |
+| Soulless | 80767 | [80767-soulless.json](./80767-soulless.json) |
 | Soulless Legions | 189800 | [189800-soulless-legions.json](./189800-soulless-legions.json) |
 | Soulless Steel | 268958 | [268958-soulless-steel.json](./268958-soulless-steel.json) |
 | Soulless: Ray of Hope | 27754 | [27754-soulless-ray-of-hope.json](./27754-soulless-ray-of-hope.json) |
@@ -25896,6 +25901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starliner | 227094 | [227094-starliner.json](./227094-starliner.json) |
 | Starlines | 305956 | [305956-starlines.json](./305956-starlines.json) |
 | StarLines Inc. | 71281 | [71281-starlines-inc.json](./71281-starlines-inc.json) |
+| Starlink | 80737 | [80737-starlink.json](./80737-starlink.json) |
 | Starlink Battle For Atlas: Lance Starship Pack | 305232 | [305232-starlink-battle-for-atlas-lance-starship-pack.json](./305232-starlink-battle-for-atlas-lance-starship-pack.json) |
 | Starlink Battle For Atlas: Neptune Starship Pack | 308752 | [308752-starlink-battle-for-atlas-neptune-starship-pack.json](./308752-starlink-battle-for-atlas-neptune-starship-pack.json) |
 | Starlink: Battle for Atlas | 317065 | [317065-starlink-battle-for-atlas.json](./317065-starlink-battle-for-atlas.json) |
@@ -31718,6 +31724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cute Alien's Adventure | 242584 | [242584-super-cute-aliens-adventure.json](./242584-super-cute-aliens-adventure.json) |
 | Super Cyborg | 20191 | [20191-super-cyborg.json](./20191-super-cyborg.json) |
 | Super Cycle | 28460 | [28460-super-cycle.json](./28460-super-cycle.json) |
+| Super Dai Senryaku 98 | 80725 | [80725-super-dai-senryaku-98.json](./80725-super-dai-senryaku-98.json) |
 | Super Daisenryaku | 400829 | [400829-super-daisenryaku.json](./400829-super-daisenryaku.json) |
 | Super Daisenryaku | 400833 | [400833-super-daisenryaku.json](./400833-super-daisenryaku.json) |
 | Super Daisenryaku | 400835 | [400835-super-daisenryaku.json](./400835-super-daisenryaku.json) |
