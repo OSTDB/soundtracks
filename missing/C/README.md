@@ -5537,6 +5537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cenk The Chopper | 313403 | [313403-cenk-the-chopper.json](./313403-cenk-the-chopper.json) |
 | Censored Files | 208458 | [208458-censored-files.json](./208458-censored-files.json) |
 | Centaur | 79685 | [79685-centaur.json](./79685-centaur.json) |
+| Centauri Alliance | 79435 | [79435-centauri-alliance.json](./79435-centauri-alliance.json) |
 | Centauri Dark | 275655 | [275655-centauri-dark.json](./275655-centauri-dark.json) |
 | Centauri Dominion | 164986 | [164986-centauri-dominion.json](./164986-centauri-dominion.json) |
 | Centauri Sector | 35616 | [35616-centauri-sector.json](./35616-centauri-sector.json) |
@@ -6641,6 +6642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Check Inn | 294914 | [294914-check-inn.json](./294914-check-inn.json) |
 | Check Inventory | 135403 | [135403-check-inventory.json](./135403-check-inventory.json) |
 | Check Man | 39609 | [39609-check-man.json](./39609-check-man.json) |
+| Check Mate | 79454 | [79454-check-mate.json](./79454-check-mate.json) |
 | Check Mii Out Channel | 139041 | [139041-check-mii-out-channel.json](./139041-check-mii-out-channel.json) |
 | Check the Room 13 | 252025 | [252025-check-the-room-13.json](./252025-check-the-room-13.json) |
 | Check vs. Mate | 52496 | [52496-check-vs-mate.json](./52496-check-vs-mate.json) |
@@ -8751,9 +8753,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chrono Trigger | 206320 | [206320-chrono-trigger.json](./206320-chrono-trigger.json) |
 | Chrono Trigger | 263447 | [263447-chrono-trigger.json](./263447-chrono-trigger.json) |
 | Chrono Trigger: Bugfix and Uncensoring Patch | 249442 | [249442-chrono-trigger-bugfix-and-uncensoring-patch.json](./249442-chrono-trigger-bugfix-and-uncensoring-patch.json) |
+| Chrono Trigger: Character Library | 79447 | [79447-chrono-trigger-character-library.json](./79447-chrono-trigger-character-library.json) |
 | Chrono Trigger: Crimson Echoes | 38266 | [38266-chrono-trigger-crimson-echoes.json](./38266-chrono-trigger-crimson-echoes.json) |
 | Chrono Trigger: Flames of Eternity | 42332 | [42332-chrono-trigger-flames-of-eternity.json](./42332-chrono-trigger-flames-of-eternity.json) |
 | Chrono Trigger: Jet Bike Special | 38105 | [38105-chrono-trigger-jet-bike-special.json](./38105-chrono-trigger-jet-bike-special.json) |
+| Chrono Trigger: Music Library | 79448 | [79448-chrono-trigger-music-library.json](./79448-chrono-trigger-music-library.json) |
 | Chrono Trigger: Prophet's Guile | 315449 | [315449-chrono-trigger-prophets-guile.json](./315449-chrono-trigger-prophets-guile.json) |
 | Chrono Trigger: Schala Edition | 246580 | [246580-chrono-trigger-schala-edition.json](./246580-chrono-trigger-schala-edition.json) |
 | Chrono Trigger+ | 219077 | [219077-chrono-trigger.json](./219077-chrono-trigger.json) |
@@ -10124,6 +10128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Arcade Pinball | 220536 | [220536-classic-arcade-pinball.json](./220536-classic-arcade-pinball.json) |
 | Classic Arcades: Pong | 353953 | [353953-classic-arcades-pong.json](./353953-classic-arcades-pong.json) |
 | Classic Arcadia & Baby Arcadia | 85735 | [85735-classic-arcadia-and-baby-arcadia.json](./85735-classic-arcadia-and-baby-arcadia.json) |
+| Classic Arcadia 3 | 79446 | [79446-classic-arcadia-3.json](./79446-classic-arcadia-3.json) |
 | Classic Axiens | 60221 | [60221-classic-axiens.json](./60221-classic-axiens.json) |
 | Classic Basic Games | 86021 | [86021-classic-basic-games.json](./86021-classic-basic-games.json) |
 | Classic Bites: Bam 'N Jam | 133645 | [133645-classic-bites-bam-n-jam.json](./133645-classic-bites-bam-n-jam.json) |
@@ -18963,6 +18968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crusader's March | 240627 | [240627-crusaders-march.json](./240627-crusaders-march.json) |
 | Crusaderman | 365949 | [365949-crusaderman.json](./365949-crusaderman.json) |
 | Crusaders Arena | 260406 | [260406-crusaders-arena.json](./260406-crusaders-arena.json) |
+| Crusaders of Light | 79455 | [79455-crusaders-of-light.json](./79455-crusaders-of-light.json) |
 | Crusaders of Solaria | 61380 | [61380-crusaders-of-solaria.json](./61380-crusaders-of-solaria.json) |
 | Crusaders Quest : Mini | 379602 | [379602-crusaders-quest-mini.json](./379602-crusaders-quest-mini.json) |
 | Crusaders Quest: Hero Town | 397208 | [397208-crusaders-quest-hero-town.json](./397208-crusaders-quest-hero-town.json) |
