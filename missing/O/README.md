@@ -2528,6 +2528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Night Heaven: Aka to Kuro no Hitobito ni Sasagu Hommage | 282563 | [282563-one-night-heaven-aka-to-kuro-no-hitobito-ni-sasagu-hommage.json](./282563-one-night-heaven-aka-to-kuro-no-hitobito-ni-sasagu-hommage.json) |
 | One Night In 2D | 370147 | [370147-one-night-in-2d.json](./370147-one-night-in-2d.json) |
 | One Night in Kawami | 273590 | [273590-one-night-in-kawami.json](./273590-one-night-in-kawami.json) |
+| One Night in the House | 124361 | [124361-one-night-in-the-house.json](./124361-one-night-in-the-house.json) |
 | One Night of Romance With My Waifu | 375274 | [375274-one-night-of-romance-with-my-waifu.json](./375274-one-night-of-romance-with-my-waifu.json) |
 | One Night on Halloween | 153418 | [153418-one-night-on-halloween.json](./153418-one-night-on-halloween.json) |
 | One Night on the Road | 81948 | [81948-one-night-on-the-road.json](./81948-one-night-on-the-road.json) |
