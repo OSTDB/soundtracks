@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obenseuer | 111983 | [111983-obenseuer.json](./111983-obenseuer.json) |
 | Oberak | 270146 | [270146-oberak.json](./270146-oberak.json) |
 | Obergenie | 339371 | [339371-obergenie.json](./339371-obergenie.json) |
+| Oberin | 109120 | [109120-oberin.json](./109120-oberin.json) |
 | Oberion: Arena Arcana | 381678 | [381678-oberion-arena-arcana.json](./381678-oberion-arena-arcana.json) |
 | Oberon | 50359 | [50359-oberon.json](./50359-oberon.json) |
 | Oberon's Wake | 394798 | [394798-oberons-wake.json](./394798-oberons-wake.json) |
