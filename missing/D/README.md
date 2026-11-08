@@ -14241,6 +14241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doubleback | 42148 | [42148-doubleback.json](./42148-doubleback.json) |
 | DoubleClutch 2: Basketball | 266262 | [266262-doubleclutch-2-basketball.json](./266262-doubleclutch-2-basketball.json) |
 | DoubleMe | 183896 | [183896-doubleme.json](./183896-doubleme.json) |
+| DoublePong Desktop | 104290 | [104290-doublepong-desktop.json](./104290-doublepong-desktop.json) |
 | Doubles Hard | 146799 | [146799-doubles-hard.json](./146799-doubles-hard.json) |
 | DoubleShake | 142481 | [142481-doubleshake.json](./142481-doubleshake.json) |
 | DoubleTap | 76380 | [76380-doubletap.json](./76380-doubletap.json) |
@@ -16010,6 +16011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw King | 388068 | [388068-draw-king.json](./388068-draw-king.json) |
 | Draw li | 322427 | [322427-draw-li.json](./322427-draw-li.json) |
 | Draw Light | 106500 | [106500-draw-light.json](./106500-draw-light.json) |
+| Draw Lines | 104209 | [104209-draw-lines.json](./104209-draw-lines.json) |
 | Draw Mania | 200155 | [200155-draw-mania.json](./200155-draw-mania.json) |
 | Draw music | 167558 | [167558-draw-music.json](./167558-draw-music.json) |
 | Draw N Guess Multiplayer | 323122 | [323122-draw-n-guess-multiplayer.json](./323122-draw-n-guess-multiplayer.json) |
@@ -19404,6 +19406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dust Fleet | 133464 | [133464-dust-fleet.json](./133464-dust-fleet.json) |
 | Dust Front RTS | 271109 | [271109-dust-front-rts.json](./271109-dust-front-rts.json) |
 | Dust II: The Infinite Zero Point | 339579 | [339579-dust-ii-the-infinite-zero-point.json](./339579-dust-ii-the-infinite-zero-point.json) |
+| Dust n Wheels | 104184 | [104184-dust-n-wheels.json](./104184-dust-n-wheels.json) |
 | Dust On Thorn | 405737 | [405737-dust-on-thorn.json](./405737-dust-on-thorn.json) |
 | Dust on Wheels | 115973 | [115973-dust-on-wheels.json](./115973-dust-on-wheels.json) |
 | Dust Raiders | 260175 | [260175-dust-raiders.json](./260175-dust-raiders.json) |
