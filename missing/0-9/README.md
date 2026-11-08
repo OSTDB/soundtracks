@@ -448,6 +448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 out of 10: Tables | 14195 | [14195-10-out-of-10-tables.json](./14195-10-out-of-10-tables.json) |
 | 10 Pin Shuffle Bowling | 261319 | [261319-10-pin-shuffle-bowling.json](./261319-10-pin-shuffle-bowling.json) |
 | 10 Pin Shuffle Pro Bowling | 88351 | [88351-10-pin-shuffle-pro-bowling.json](./88351-10-pin-shuffle-pro-bowling.json) |
+| 10 Pin: Champions Alley | 97356 | [97356-10-pin-champions-alley.json](./97356-10-pin-champions-alley.json) |
 | 10 Puzzle | 82571 | [82571-10-puzzle.json](./82571-10-puzzle.json) |
 | 10 Second Escape | 342742 | [342742-10-second-escape.json](./342742-10-second-escape.json) |
 | 10 Second Mixtape | 308935 | [308935-10-second-mixtape.json](./308935-10-second-mixtape.json) |
