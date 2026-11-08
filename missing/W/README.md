@@ -2131,6 +2131,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wars and Battles: Normandy | 76439 | [76439-wars-and-battles-normandy.json](./76439-wars-and-battles-normandy.json) |
 | Wars and Roses | 187697 | [187697-wars-and-roses.json](./187697-wars-and-roses.json) |
 | Wars and Warriors: Joan of Arc | 17297 | [17297-wars-and-warriors-joan-of-arc.json](./17297-wars-and-warriors-joan-of-arc.json) |
+| Wars for the containers | 115196 | [115196-wars-for-the-containers.json](./115196-wars-for-the-containers.json) |
 | Wars of Cards: Roma | 241781 | [241781-wars-of-cards-roma.json](./241781-wars-of-cards-roma.json) |
 | Wars of Glory | 108684 | [108684-wars-of-glory.json](./108684-wars-of-glory.json) |
 | Wars of Napoleon | 33092 | [33092-wars-of-napoleon.json](./33092-wars-of-napoleon.json) |
@@ -2200,6 +2201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wartide: Heroes of Atlantis | 74313 | [74313-wartide-heroes-of-atlantis.json](./74313-wartide-heroes-of-atlantis.json) |
 | Wartile | 18185 | [18185-wartile.json](./18185-wartile.json) |
 | Wartime Glory | 269902 | [269902-wartime-glory.json](./269902-wartime-glory.json) |
+| Wartime Prologue | 115231 | [115231-wartime-prologue.json](./115231-wartime-prologue.json) |
 | Wartime X | 109992 | [109992-wartime-x.json](./109992-wartime-x.json) |
 | Wartop | 285922 | [285922-wartop.json](./285922-wartop.json) |
 | Wartorn | 328003 | [328003-wartorn.json](./328003-wartorn.json) |
@@ -9117,6 +9119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrath of the Samurai | 119494 | [119494-wrath-of-the-samurai.json](./119494-wrath-of-the-samurai.json) |
 | Wrath of the Sea King | 69905 | [69905-wrath-of-the-sea-king.json](./69905-wrath-of-the-sea-king.json) |
 | Wrath of the Titans | 268600 | [268600-wrath-of-the-titans.json](./268600-wrath-of-the-titans.json) |
+| Wrath of Thor | 115238 | [115238-wrath-of-thor.json](./115238-wrath-of-thor.json) |
 | Wrath of Towers | 294383 | [294383-wrath-of-towers.json](./294383-wrath-of-towers.json) |
 | Wrath Rally | 184934 | [184934-wrath-rally.json](./184934-wrath-rally.json) |
 | Wrath: Aeon of Ruin | 115873 | [115873-wrath-aeon-of-ruin.json](./115873-wrath-aeon-of-ruin.json) |
