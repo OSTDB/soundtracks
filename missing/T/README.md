@@ -985,6 +985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taking the Cross | 309943 | [309943-taking-the-cross.json](./309943-taking-the-cross.json) |
 | Taking Today Off | 384156 | [384156-taking-today-off.json](./384156-taking-today-off.json) |
 | Takishawa is Dead | 242655 | [242655-takishawa-is-dead.json](./242655-takishawa-is-dead.json) |
+| Takkyu Tournament Re:Serve | 126707 | [126707-takkyu-tournament-re-serve.json](./126707-takkyu-tournament-re-serve.json) |
 | Takkyuubin | 345629 | [345629-takkyuubin.json](./345629-takkyuubin.json) |
 | Tako Bubble | 366491 | [366491-tako-bubble.json](./366491-tako-bubble.json) |
 | Tako no Himitsu: Ocean of Secrets | 250031 | [250031-tako-no-himitsu-ocean-of-secrets.json](./250031-tako-no-himitsu-ocean-of-secrets.json) |
@@ -5752,6 +5753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Valdo and Marie | 56968 | [56968-the-adventures-of-valdo-and-marie.json](./56968-the-adventures-of-valdo-and-marie.json) |
 | The Adventures of Victor & Garu | 22133 | [22133-the-adventures-of-victor-and-garu.json](./22133-the-adventures-of-victor-and-garu.json) |
 | The Adventures of Victor and Garu | 22091 | [22091-the-adventures-of-victor-and-garu.json](./22091-the-adventures-of-victor-and-garu.json) |
+| The Adventures of Willow and Ash | 126716 | [126716-the-adventures-of-willow-and-ash.json](./126716-the-adventures-of-willow-and-ash.json) |
 | The Adventures of Willy Beamish | 2205 | [2205-the-adventures-of-willy-beamish.json](./2205-the-adventures-of-willy-beamish.json) |
 | The Adventures of Wolf and Hood: A Jigsaw Tale | 154971 | [154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json](./154971-the-adventures-of-wolf-and-hood-a-jigsaw-tale.json) |
 | The Adventures of Zomboy | 323281 | [323281-the-adventures-of-zomboy.json](./323281-the-adventures-of-zomboy.json) |
@@ -7874,6 +7876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Crush House | 295636 | [295636-the-crush-house.json](./295636-the-crush-house.json) |
 | The Crust | 176109 | [176109-the-crust.json](./176109-the-crust.json) |
 | The Crust: Supporter Pack | 400874 | [400874-the-crust-supporter-pack.json](./400874-the-crust-supporter-pack.json) |
+| The Cruxis Sword | 126723 | [126723-the-cruxis-sword.json](./126723-the-cruxis-sword.json) |
 | The Crying Game | 136114 | [136114-the-crying-game.json](./136114-the-crying-game.json) |
 | The Crypt of Treasure | 219551 | [219551-the-crypt-of-treasure.json](./219551-the-crypt-of-treasure.json) |
 | The Crypt Terror | 231516 | [231516-the-crypt-terror.json](./231516-the-crypt-terror.json) |
@@ -8968,6 +8971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ember Saga: A New Fire | 129959 | [129959-the-ember-saga-a-new-fire.json](./129959-the-ember-saga-a-new-fire.json) |
 | The Embodiment of Scarlet Hair Portable: I'm Lovin' It | 403446 | [403446-the-embodiment-of-scarlet-hair-portable-im-lovin-it.json](./403446-the-embodiment-of-scarlet-hair-portable-im-lovin-it.json) |
 | The Emerald Maiden: Symphony of Dreams | 20363 | [20363-the-emerald-maiden-symphony-of-dreams.json](./20363-the-emerald-maiden-symphony-of-dreams.json) |
+| The Emerald Tablet | 126748 | [126748-the-emerald-tablet.json](./126748-the-emerald-tablet.json) |
 | The Emeralds' Awakening | 326721 | [326721-the-emeralds-awakening.json](./326721-the-emeralds-awakening.json) |
 | The Eminence in Shadow: Master of Garden | 227490 | [227490-the-eminence-in-shadow-master-of-garden.json](./227490-the-eminence-in-shadow-master-of-garden.json) |
 | The Eminence in Shadow: Phantom Echoes | 416122 | [416122-the-eminence-in-shadow-phantom-echoes.json](./416122-the-eminence-in-shadow-phantom-echoes.json) |
@@ -19633,6 +19637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Zen Garden | 393738 | [393738-the-zen-garden.json](./393738-the-zen-garden.json) |
 | The Zen of Kayaking | 304730 | [304730-the-zen-of-kayaking.json](./304730-the-zen-of-kayaking.json) |
 | The Zero Dome | 72349 | [72349-the-zero-dome.json](./72349-the-zero-dome.json) |
+| The Zeta Orbital | 126714 | [126714-the-zeta-orbital.json](./126714-the-zeta-orbital.json) |
 | The Zhukov Line | 288617 | [288617-the-zhukov-line.json](./288617-the-zhukov-line.json) |
 | The Zibbo Show | 404798 | [404798-the-zibbo-show.json](./404798-the-zibbo-show.json) |
 | The Zium Exposition | 321851 | [321851-the-zium-exposition.json](./321851-the-zium-exposition.json) |
@@ -20327,6 +20332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Third Power | 211016 | [211016-third-power.json](./211016-third-power.json) |
 | Third Reich | 14518 | [14518-third-reich.json](./14518-third-reich.json) |
 | Third Reich PC | 138103 | [138103-third-reich-pc.json](./138103-third-reich-pc.json) |
+| Third Rule of Universe | 126730 | [126730-third-rule-of-universe.json](./126730-third-rule-of-universe.json) |
 | Third Shift | 344998 | [344998-third-shift.json](./344998-third-shift.json) |
 | Third Walker | 406239 | [406239-third-walker.json](./406239-third-walker.json) |
 | Third Wild | 208600 | [208600-third-wild.json](./208600-third-wild.json) |
@@ -21056,6 +21062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder War Rabbit Alien Fight | 265634 | [265634-thunder-war-rabbit-alien-fight.json](./265634-thunder-war-rabbit-alien-fight.json) |
 | Thunder Wolves | 10990 | [10990-thunder-wolves.json](./10990-thunder-wolves.json) |
 | Thunder Zone | 39977 | [39977-thunder-zone.json](./39977-thunder-zone.json) |
+| Thunder's Leaves | 126736 | [126736-thunders-leaves.json](./126736-thunders-leaves.json) |
 | Thunderballs | 114042 | [114042-thunderballs.json](./114042-thunderballs.json) |
 | Thunderballs VR | 140178 | [140178-thunderballs-vr.json](./140178-thunderballs-vr.json) |
 | Thunderbird | 284254 | [284254-thunderbird.json](./284254-thunderbird.json) |
