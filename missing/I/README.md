@@ -3973,7 +3973,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5213,7 +5212,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interrogation Files: Port Landsend | 137214 | [137214-interrogation-files-port-landsend.json](./137214-interrogation-files-port-landsend.json) |
 | Interrogation Simulator | 208333 | [208333-interrogation-simulator.json](./208333-interrogation-simulator.json) |
 | Interrogation: Deceived | 175482 | [175482-interrogation-deceived.json](./175482-interrogation-deceived.json) |
-| Interrogation: You Will Be Deceived | 115118 | [115118-interrogation-you-will-be-deceived.json](./115118-interrogation-you-will-be-deceived.json) |
 | Interrogator | 296407 | [296407-interrogator.json](./296407-interrogator.json) |
 | Interrogator 2 | 370239 | [370239-interrogator-2.json](./370239-interrogator-2.json) |
 | Interruption | 208245 | [208245-interruption.json](./208245-interruption.json) |
@@ -5825,6 +5823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IQ Jump | 194295 | [194295-iq-jump.json](./194295-iq-jump.json) |
 | IQ Logic Codes: Number & Letter Puzzles | 415062 | [415062-iq-logic-codes-number-and-letter-puzzles.json](./415062-iq-logic-codes-number-and-letter-puzzles.json) |
 | IQ Safari: Playful Math with Leo | 114652 | [114652-iq-safari-playful-math-with-leo.json](./114652-iq-safari-playful-math-with-leo.json) |
+| IQ Test | 107446 | [107446-iq-test.json](./107446-iq-test.json) |
 | IQ Test | 85623 | [85623-iq-test.json](./85623-iq-test.json) |
 | IQ Under Construction | 403627 | [403627-iq-under-construction.json](./403627-iq-under-construction.json) |
 | IQ Wars | 89171 | [89171-iq-wars.json](./89171-iq-wars.json) |
