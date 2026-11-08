@@ -4133,6 +4133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Letters From Nowhere 2 | 54164 | [54164-letters-from-nowhere-2.json](./54164-letters-from-nowhere-2.json) |
 | Letters From the Moon | 186407 | [186407-letters-from-the-moon.json](./186407-letters-from-the-moon.json) |
 | Letters from the War | 340916 | [340916-letters-from-the-war.json](./340916-letters-from-the-war.json) |
+| Letters Home from Camp Tadpole | 133542 | [133542-letters-home-from-camp-tadpole.json](./133542-letters-home-from-camp-tadpole.json) |
 | Letters Long Lost | 153762 | [153762-letters-long-lost.json](./153762-letters-long-lost.json) |
 | Letters of Art | 384324 | [384324-letters-of-art.json](./384324-letters-of-art.json) |
 | Letters of Bernard Thorne | 337466 | [337466-letters-of-bernard-thorne.json](./337466-letters-of-bernard-thorne.json) |
