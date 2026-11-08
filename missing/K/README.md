@@ -3214,6 +3214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of the Chat | 339918 | [339918-king-of-the-chat.json](./339918-king-of-the-chat.json) |
 | King of the Couch: Zoovival | 75602 | [75602-king-of-the-couch-zoovival.json](./75602-king-of-the-couch-zoovival.json) |
 | King of the Course | 58307 | [58307-king-of-the-course.json](./58307-king-of-the-course.json) |
+| King of the Cul-De-Sac | 117874 | [117874-king-of-the-cul-de-sac.json](./117874-king-of-the-cul-de-sac.json) |
 | King of the Dead | 105647 | [105647-king-of-the-dead.json](./105647-king-of-the-dead.json) |
 | King of the Dwarves: Underground City Builder | 185700 | [185700-king-of-the-dwarves-underground-city-builder.json](./185700-king-of-the-dwarves-underground-city-builder.json) |
 | King of the Eggs | 75395 | [75395-king-of-the-eggs.json](./75395-king-of-the-eggs.json) |
