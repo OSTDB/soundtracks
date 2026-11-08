@@ -2881,6 +2881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn of Shadow | 237082 | [237082-dawn-of-shadow.json](./237082-dawn-of-shadow.json) |
 | Dawn of Steel | 38677 | [38677-dawn-of-steel.json](./38677-dawn-of-steel.json) |
 | Dawn of Survivor | 312140 | [312140-dawn-of-survivor.json](./312140-dawn-of-survivor.json) |
+| Dawn of Survivors | 117936 | [117936-dawn-of-survivors.json](./117936-dawn-of-survivors.json) |
 | Dawn of Survivors 2 | 179971 | [179971-dawn-of-survivors-2.json](./179971-dawn-of-survivors-2.json) |
 | Dawn of the Abyss | 345827 | [345827-dawn-of-the-abyss.json](./345827-dawn-of-the-abyss.json) |
 | Dawn of the Breakers | 106972 | [106972-dawn-of-the-breakers.json](./106972-dawn-of-the-breakers.json) |
@@ -4513,6 +4514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dear world Re. | 386252 | [386252-dear-world-re.json](./386252-dear-world-re.json) |
 | Dear, Ella | 232298 | [232298-dear-ella.json](./232298-dear-ella.json) |
 | Dear, Virginia | 265478 | [265478-dear-virginia.json](./265478-dear-virginia.json) |
+| DearAshely | 117918 | [117918-dearashely.json](./117918-dearashely.json) |
 | Dearbnb | 405361 | [405361-dearbnb.json](./405361-dearbnb.json) |
 | DearCraft | 96653 | [96653-dearcraft.json](./96653-dearcraft.json) |
 | Deardrops | 50444 | [50444-deardrops.json](./50444-deardrops.json) |
@@ -7100,6 +7102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depths of Insanity | 238688 | [238688-depths-of-insanity.json](./238688-depths-of-insanity.json) |
 | Depths of Insanity 2 | 292321 | [292321-depths-of-insanity-2.json](./292321-depths-of-insanity-2.json) |
 | Depths of Insanity 3 | 372979 | [372979-depths-of-insanity-3.json](./372979-depths-of-insanity-3.json) |
+| Depths of Madness | 117916 | [117916-depths-of-madness.json](./117916-depths-of-madness.json) |
 | Depths of Providence | 412560 | [412560-depths-of-providence.json](./412560-depths-of-providence.json) |
 | Depths of Sanity | 55071 | [55071-depths-of-sanity.json](./55071-depths-of-sanity.json) |
 | Depths Unseen | 365271 | [365271-depths-unseen.json](./365271-depths-unseen.json) |
@@ -12050,6 +12053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doggie Blues 3D | 264472 | [264472-doggie-blues-3d.json](./264472-doggie-blues-3d.json) |
 | Doggie Daycare | 25445 | [25445-doggie-daycare.json](./25445-doggie-daycare.json) |
 | Doggie Ninja: The Burning Strikers | 147785 | [147785-doggie-ninja-the-burning-strikers.json](./147785-doggie-ninja-the-burning-strikers.json) |
+| Doggie Ninja: The Golden Mission | 117937 | [117937-doggie-ninja-the-golden-mission.json](./117937-doggie-ninja-the-golden-mission.json) |
 | Doggies | 25489 | [25489-doggies.json](./25489-doggies.json) |
 | Doggins | 61872 | [61872-doggins.json](./61872-doggins.json) |
 | Doggnation | 240032 | [240032-doggnation.json](./240032-doggnation.json) |
@@ -15362,6 +15366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Peak | 147837 | [147837-dragon-peak.json](./147837-dragon-peak.json) |
 | Dragon Perception | 74474 | [74474-dragon-perception.json](./74474-dragon-perception.json) |
 | Dragon Pet | 322163 | [322163-dragon-pet.json](./322163-dragon-pet.json) |
+| Dragon Pinball | 117938 | [117938-dragon-pinball.json](./117938-dragon-pinball.json) |
 | Dragon Pink: The Hero Castle | 66168 | [66168-dragon-pink-the-hero-castle.json](./66168-dragon-pink-the-hero-castle.json) |
 | Dragon Planner | 220331 | [220331-dragon-planner.json](./220331-dragon-planner.json) |
 | Dragon Poker | 61506 | [61506-dragon-poker.json](./61506-dragon-poker.json) |
