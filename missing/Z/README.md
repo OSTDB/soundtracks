@@ -1366,6 +1366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zodiac Requiem | 373741 | [373741-zodiac-requiem.json](./373741-zodiac-requiem.json) |
 | Zodiac Revenger | 274358 | [274358-zodiac-revenger.json](./274358-zodiac-revenger.json) |
 | Zodiac Tri Peaks Solitaire | 192037 | [192037-zodiac-tri-peaks-solitaire.json](./192037-zodiac-tri-peaks-solitaire.json) |
+| Zodiac XX | 136612 | [136612-zodiac-xx.json](./136612-zodiac-xx.json) |
 | Zodiac XX Leo | 305066 | [305066-zodiac-xx-leo.json](./305066-zodiac-xx-leo.json) |
 | Zodiacats | 187534 | [187534-zodiacats.json](./187534-zodiacats.json) |
 | ZodiacChild | 216813 | [216813-zodiacchild.json](./216813-zodiacchild.json) |
