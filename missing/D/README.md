@@ -10517,6 +10517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discovery Tour: Viking Age | 152231 | [152231-discovery-tour-viking-age.json](./152231-discovery-tour-viking-age.json) |
 | Discovery Yard Investigation | 149368 | [149368-discovery-yard-investigation.json](./149368-discovery-yard-investigation.json) |
 | Discovery: A Seek and Find Adventure | 9386 | [9386-discovery-a-seek-and-find-adventure.json](./9386-discovery-a-seek-and-find-adventure.json) |
+| Discovery: Shark Strike | 95720 | [95720-discovery-shark-strike.json](./95720-discovery-shark-strike.json) |
 | Discovr Egypt: King Tut's Tomb | 33086 | [33086-discovr-egypt-king-tuts-tomb.json](./33086-discovr-egypt-king-tuts-tomb.json) |
 | Discreet | 132366 | [132366-discreet.json](./132366-discreet.json) |
 | Discremental | 405603 | [405603-discremental.json](./405603-discremental.json) |
@@ -10640,6 +10641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disintegration | 259396 | [259396-disintegration.json](./259396-disintegration.json) |
 | Disir | 183106 | [183106-disir.json](./183106-disir.json) |
 | Disjoined | 410204 | [410204-disjoined.json](./410204-disjoined.json) |
+| Disjoint | 96165 | [96165-disjoint.json](./96165-disjoint.json) |
 | Disjunction | 313830 | [313830-disjunction.json](./313830-disjunction.json) |
 | Disk Dashers | 244739 | [244739-disk-dashers.json](./244739-disk-dashers.json) |
 | Disk Jockey Boy | 46220 | [46220-disk-jockey-boy.json](./46220-disk-jockey-boy.json) |
@@ -15517,6 +15519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest VIII: Journey of the Cursed King | 145528 | [145528-dragon-quest-viii-journey-of-the-cursed-king.json](./145528-dragon-quest-viii-journey-of-the-cursed-king.json) |
 | Dragon Quest VIII: Journey of the Cursed King | 205649 | [205649-dragon-quest-viii-journey-of-the-cursed-king.json](./205649-dragon-quest-viii-journey-of-the-cursed-king.json) |
 | Dragon Quest VIII: Journey of the Cursed King - Mobile Remaster | 313424 | [313424-dragon-quest-viii-journey-of-the-cursed-king-mobile-remaster.json](./313424-dragon-quest-viii-journey-of-the-cursed-king-mobile-remaster.json) |
+| Dragon Quest VR | 96136 | [96136-dragon-quest-vr.json](./96136-dragon-quest-vr.json) |
 | Dragon Quest Walk | 119215 | [119215-dragon-quest-walk.json](./119215-dragon-quest-walk.json) |
 | Dragon Quest Wars | 1825 | [1825-dragon-quest-wars.json](./1825-dragon-quest-wars.json) |
 | Dragon Quest X Offline: Deluxe Edition | 174127 | [174127-dragon-quest-x-offline-deluxe-edition.json](./174127-dragon-quest-x-offline-deluxe-edition.json) |
@@ -18876,6 +18879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Squeaker | 180426 | [180426-dungeon-squeaker.json](./180426-dungeon-squeaker.json) |
 | Dungeon Squire | 357188 | [357188-dungeon-squire.json](./357188-dungeon-squire.json) |
 | Dungeon Stalkers | 255912 | [255912-dungeon-stalkers.json](./255912-dungeon-stalkers.json) |
+| Dungeon Stars | 96148 | [96148-dungeon-stars.json](./96148-dungeon-stars.json) |
 | Dungeon Story | 62489 | [62489-dungeon-story.json](./62489-dungeon-story.json) |
 | Dungeon Striker | 63256 | [63256-dungeon-striker.json](./63256-dungeon-striker.json) |
 | Dungeon Sucker | 373333 | [373333-dungeon-sucker.json](./373333-dungeon-sucker.json) |
@@ -19766,6 +19770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite Blast | 236630 | [236630-dynamite-blast.json](./236630-dynamite-blast.json) |
 | Dynamite Blue | 416795 | [416795-dynamite-blue.json](./416795-dynamite-blue.json) |
 | Dynamite Bomber | 266879 | [266879-dynamite-bomber.json](./266879-dynamite-bomber.json) |
+| Dynamite Bunny | 96129 | [96129-dynamite-bunny.json](./96129-dynamite-bunny.json) |
 | Dynamite Cop | 36737 | [36737-dynamite-cop.json](./36737-dynamite-cop.json) |
 | Dynamite Dan | 13616 | [13616-dynamite-dan.json](./13616-dynamite-dan.json) |
 | Dynamite Dan II | 13617 | [13617-dynamite-dan-ii.json](./13617-dynamite-dan-ii.json) |
