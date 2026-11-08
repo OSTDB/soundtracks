@@ -977,6 +977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5632,6 +5633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beats Trellis | 74160 | [74160-beats-trellis.json](./74160-beats-trellis.json) |
 | Beats Warrior: Nian | 118266 | [118266-beats-warrior-nian.json](./118266-beats-warrior-nian.json) |
 | Beats&Boss | 338202 | [338202-beats-and-boss.json](./338202-beats-and-boss.json) |
+| BeatShips | 117241 | [117241-beatships.json](./117241-beatships.json) |
 | BeatShooter | 309736 | [309736-beatshooter.json](./309736-beatshooter.json) |
 | Beatstar | 166521 | [166521-beatstar.json](./166521-beatstar.json) |
 | Beatstar: Ariana Grande, Zedd - "Break Free" | 358768 | [358768-beatstar-ariana-grande-zedd-break-free.json](./358768-beatstar-ariana-grande-zedd-break-free.json) |
@@ -9527,6 +9529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blacksmith Legends | 159348 | [159348-blacksmith-legends.json](./159348-blacksmith-legends.json) |
 | Blacksmith Master | 240253 | [240253-blacksmith-master.json](./240253-blacksmith-master.json) |
 | Blacksmith of the Sand Kingdom | 142258 | [142258-blacksmith-of-the-sand-kingdom.json](./142258-blacksmith-of-the-sand-kingdom.json) |
+| Blacksmith Run | 117236 | [117236-blacksmith-run.json](./117236-blacksmith-run.json) |
 | Blacksmith Shop Simulator | 344980 | [344980-blacksmith-shop-simulator.json](./344980-blacksmith-shop-simulator.json) |
 | Blacksmith Simulator | 102589 | [102589-blacksmith-simulator.json](./102589-blacksmith-simulator.json) |
 | Blacksmith Simulator | 326469 | [326469-blacksmith-simulator.json](./326469-blacksmith-simulator.json) |
@@ -17491,6 +17494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Girls Phantasia: Limited Edition | 167120 | [167120-bullet-girls-phantasia-limited-edition.json](./167120-bullet-girls-phantasia-limited-edition.json) |
 | Bullet Glide | 122542 | [122542-bullet-glide.json](./122542-bullet-glide.json) |
 | Bullet Grinder | 190952 | [190952-bullet-grinder.json](./190952-bullet-grinder.json) |
+| Bullet Harmony | 117235 | [117235-bullet-harmony.json](./117235-bullet-harmony.json) |
 | Bullet Head | 393531 | [393531-bullet-head.json](./393531-bullet-head.json) |
 | Bullet Heat | 166836 | [166836-bullet-heat.json](./166836-bullet-heat.json) |
 | Bullet Heaven | 228297 | [228297-bullet-heaven.json](./228297-bullet-heaven.json) |
@@ -18226,6 +18230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnout Masters | 227532 | [227532-burnout-masters.json](./227532-burnout-masters.json) |
 | Burnout Mobile | 342038 | [342038-burnout-mobile.json](./342038-burnout-mobile.json) |
 | Burnout Paradise Remastered | 78153 | [78153-burnout-paradise-remastered.json](./78153-burnout-paradise-remastered.json) |
+| Burnout Paradise: Big Surf Island | 117267 | [117267-burnout-paradise-big-surf-island.json](./117267-burnout-paradise-big-surf-island.json) |
 | Burnout Paradise: Bikes Pack | 23041 | [23041-burnout-paradise-bikes-pack.json](./23041-burnout-paradise-bikes-pack.json) |
 | Burnout Paradise: Cops and Robbers | 118274 | [118274-burnout-paradise-cops-and-robbers.json](./118274-burnout-paradise-cops-and-robbers.json) |
 | Burnout Paradise: The Ultimate Box | 10067 | [10067-burnout-paradise-the-ultimate-box.json](./10067-burnout-paradise-the-ultimate-box.json) |
@@ -18292,6 +18297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus & Cable Car Simulator | 52487 | [52487-bus-and-cable-car-simulator.json](./52487-bus-and-cable-car-simulator.json) |
 | Bus & Taxi Driving Simulator | 86825 | [86825-bus-and-taxi-driving-simulator.json](./86825-bus-and-taxi-driving-simulator.json) |
 | Bus Bound | 348339 | [348339-bus-bound.json](./348339-bus-bound.json) |
+| Bus Controller Simulator | 117258 | [117258-bus-controller-simulator.json](./117258-bus-controller-simulator.json) |
 | Bus Derby | 200203 | [200203-bus-derby.json](./200203-bus-derby.json) |
 | Bus Driver | 10068 | [10068-bus-driver.json](./10068-bus-driver.json) |
 | Bus Driver Simulator | 141689 | [141689-bus-driver-simulator.json](./141689-bus-driver-simulator.json) |
