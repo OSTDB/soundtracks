@@ -10265,6 +10265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GT Rivals | 410437 | [410437-gt-rivals.json](./410437-gt-rivals.json) |
 | GT-R Touring | 232412 | [232412-gt-r-touring.json](./232412-gt-r-touring.json) |
 | GTA Long Night | 309592 | [309592-gta-long-night.json](./309592-gta-long-night.json) |
+| GTA: La Heist | 121176 | [121176-gta-la-heist.json](./121176-gta-la-heist.json) |
 | GtaGuessr | 322025 | [322025-gtaguessr.json](./322025-gtaguessr.json) |
 | GTFO | 36646 | [36646-gtfo.json](./36646-gtfo.json) |
 | GTFO: The Final Chapter | 279648 | [279648-gtfo-the-final-chapter.json](./279648-gtfo-the-final-chapter.json) |
