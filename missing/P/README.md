@@ -11437,6 +11437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Moemon Emerald Version | 229058 | [229058-pokemon-moemon-emerald-version.json](./229058-pokemon-moemon-emerald-version.json) |
 | Pokémon Monomyth | 413611 | [413611-pokemon-monomyth.json](./413611-pokemon-monomyth.json) |
 | Pokémon Moon Black 2 | 221577 | [221577-pokemon-moon-black-2.json](./221577-pokemon-moon-black-2.json) |
+| Pokémon Moon: Fan Edition | 135978 | [135978-pokemon-moon-fan-edition.json](./135978-pokemon-moon-fan-edition.json) |
 | Pokémon Mundo Misterioso: Relatos de una Phione | 241777 | [241777-pokemon-mundo-misterioso-relatos-de-una-phione.json](./241777-pokemon-mundo-misterioso-relatos-de-una-phione.json) |
 | Pokémon My Ass | 282740 | [282740-pokemon-my-ass.json](./282740-pokemon-my-ass.json) |
 | Pokémon Mystery Dungeon: Blue Rescue Team | 2320 | [2320-pokemon-mystery-dungeon-blue-rescue-team.json](./2320-pokemon-mystery-dungeon-blue-rescue-team.json) |
