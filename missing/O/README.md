@@ -3374,6 +3374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Open Bar | 161712 | [161712-open-bar.json](./161712-open-bar.json) |
 | Open Bar | 58804 | [58804-open-bar.json](./58804-open-bar.json) |
 | Open Brush | 151999 | [151999-open-brush.json](./151999-open-brush.json) |
+| Open Colour | 129928 | [129928-open-colour.json](./129928-open-colour.json) |
 | Open Course | 220964 | [220964-open-course.json](./220964-open-course.json) |
 | Open Day | 214622 | [214622-open-day.json](./214622-open-day.json) |
 | Open Doctrines | 417557 | [417557-open-doctrines.json](./417557-open-doctrines.json) |
