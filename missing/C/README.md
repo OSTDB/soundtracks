@@ -18943,6 +18943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crushed | 377307 | [377307-crushed.json](./377307-crushed.json) |
 | Crushed Baseball | 49306 | [49306-crushed-baseball.json](./49306-crushed-baseball.json) |
 | Crushed in Time | 362089 | [362089-crushed-in-time.json](./362089-crushed-in-time.json) |
+| Crusher | 93121 | [93121-crusher.json](./93121-crusher.json) |
 | Crusher Makochan | 40109 | [40109-crusher-makochan.json](./40109-crusher-makochan.json) |
 | Crushiator | 339676 | [339676-crushiator.json](./339676-crushiator.json) |
 | Crushing Blow | 55525 | [55525-crushing-blow.json](./55525-crushing-blow.json) |
