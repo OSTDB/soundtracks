@@ -925,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paladin II | 70354 | [70354-paladin-ii.json](./70354-paladin-ii.json) |
 | Paladin Lias | 160113 | [160113-paladin-lias.json](./160113-paladin-lias.json) |
 | Paladin Quest Disk: The Scrolls of Talmouth | 70284 | [70284-paladin-quest-disk-the-scrolls-of-talmouth.json](./70284-paladin-quest-disk-the-scrolls-of-talmouth.json) |
+| Paladin Slayer | 121844 | [121844-paladin-slayer.json](./121844-paladin-slayer.json) |
 | Paladin: The Game | 320122 | [320122-paladin-the-game.json](./320122-paladin-the-game.json) |
 | Paladin's Lance | 164925 | [164925-paladins-lance.json](./164925-paladins-lance.json) |
 | Paladin's Legacy | 356866 | [356866-paladins-legacy.json](./356866-paladins-legacy.json) |
