@@ -5940,6 +5940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Andromeda Mysteries | 244102 | [244102-the-andromeda-mysteries.json](./244102-the-andromeda-mysteries.json) |
 | The Andromeda Strain | 24167 | [24167-the-andromeda-strain.json](./24167-the-andromeda-strain.json) |
 | The Angel Factory | 409860 | [409860-the-angel-factory.json](./409860-the-angel-factory.json) |
+| The Angel Inn | 124362 | [124362-the-angel-inn.json](./124362-the-angel-inn.json) |
 | The Angel's Devil Tail: One More Question 2 | 379016 | [379016-the-angels-devil-tail-one-more-question-2.json](./379016-the-angels-devil-tail-one-more-question-2.json) |
 | The Angel's Tears | 383663 | [383663-the-angels-tears.json](./383663-the-angels-tears.json) |
 | The Anglerfish Project | 260079 | [260079-the-anglerfish-project.json](./260079-the-anglerfish-project.json) |
@@ -7066,6 +7067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Button by Elendow | 238612 | [238612-the-button-by-elendow.json](./238612-the-button-by-elendow.json) |
 | The Button Effect | 342839 | [342839-the-button-effect.json](./342839-the-button-effect.json) |
 | The Button Game | 370417 | [370417-the-button-game.json](./370417-the-button-game.json) |
+| The Button Witch | 124363 | [124363-the-button-witch.json](./124363-the-button-witch.json) |
 | The Bygone Days of Her and the Flowers | 368885 | [368885-the-bygone-days-of-her-and-the-flowers.json](./368885-the-bygone-days-of-her-and-the-flowers.json) |
 | The Byoin | 92151 | [92151-the-byoin.json](./92151-the-byoin.json) |
 | The Byouin | 230206 | [230206-the-byouin.json](./230206-the-byouin.json) |
@@ -9063,6 +9065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Endless Night | 405133 | [405133-the-endless-night.json](./405133-the-endless-night.json) |
 | The Endless Stairwell | 53582 | [53582-the-endless-stairwell.json](./53582-the-endless-stairwell.json) |
 | The Endless Summer Surfing Challenge | 197056 | [197056-the-endless-summer-surfing-challenge.json](./197056-the-endless-summer-surfing-challenge.json) |
+| The Endless Summer: Search For Surf | 124370 | [124370-the-endless-summer-search-for-surf.json](./124370-the-endless-summer-search-for-surf.json) |
 | The Endless Village | 401522 | [401522-the-endless-village.json](./401522-the-endless-village.json) |
 | The Endless White | 126518 | [126518-the-endless-white.json](./126518-the-endless-white.json) |
 | The Endless Wyrd | 133353 | [133353-the-endless-wyrd.json](./133353-the-endless-wyrd.json) |
@@ -16490,6 +16493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seven Realms: Realm 1 - Terran | 330743 | [330743-the-seven-realms-realm-1-terran.json](./330743-the-seven-realms-realm-1-terran.json) |
 | The Seven Realms: Realm 3 - High Lathión | 267673 | [267673-the-seven-realms-realm-3-high-lathion.json](./267673-the-seven-realms-realm-3-high-lathion.json) |
 | The Seven Sisters | 332630 | [332630-the-seven-sisters.json](./332630-the-seven-sisters.json) |
+| The Seven Spells of Destruction | 124359 | [124359-the-seven-spells-of-destruction.json](./124359-the-seven-spells-of-destruction.json) |
 | The Seven Spirits of Ra | 2893 | [2893-the-seven-spirits-of-ra.json](./2893-the-seven-spirits-of-ra.json) |
 | The Seven Stages | 105026 | [105026-the-seven-stages.json](./105026-the-seven-stages.json) |
 | The Seven Years War (1756-1763) | 13666 | [13666-the-seven-years-war-1756-1763.json](./13666-the-seven-years-war-1756-1763.json) |
@@ -19936,6 +19940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | There is a Genie in my Szechuan Sauce: Remastered | 228372 | [228372-there-is-a-genie-in-my-szechuan-sauce-remastered.json](./228372-there-is-a-genie-in-my-szechuan-sauce-remastered.json) |
 | There is a Picture | 146083 | [146083-there-is-a-picture.json](./146083-there-is-a-picture.json) |
 | There is a Secret Tunnel to the Center of the Earth | 418190 | [418190-there-is-a-secret-tunnel-to-the-center-of-the-earth.json](./418190-there-is-a-secret-tunnel-to-the-center-of-the-earth.json) |
+| There is a Thief in my House | 124332 | [124332-there-is-a-thief-in-my-house.json](./124332-there-is-a-thief-in-my-house.json) |
 | There Is More | 368187 | [368187-there-is-more.json](./368187-there-is-more.json) |
 | There is Never Enough Space! | 181617 | [181617-there-is-never-enough-space.json](./181617-there-is-never-enough-space.json) |
 | There Is No Escape | 396213 | [396213-there-is-no-escape.json](./396213-there-is-no-escape.json) |
@@ -32812,6 +32817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsukihime: The Other Side of Red Garden | 172394 | [172394-tsukihime-the-other-side-of-red-garden.json](./172394-tsukihime-the-other-side-of-red-garden.json) |
 | Tsukikage no Simulacre: Kaihou no Hane | 120995 | [120995-tsukikage-no-simulacre-kaihou-no-hane.json](./120995-tsukikage-no-simulacre-kaihou-no-hane.json) |
 | Tsukikomori | 37781 | [37781-tsukikomori.json](./37781-tsukikomori.json) |
+| Tsukimi Planet | 124355 | [124355-tsukimi-planet.json](./124355-tsukimi-planet.json) |
 | Tsukino Paradise | 44105 | [44105-tsukino-paradise.json](./44105-tsukino-paradise.json) |
 | Tsukisas Arena | 149225 | [149225-tsukisas-arena.json](./149225-tsukisas-arena.json) |
 | Tsukiyo no Mura | 77724 | [77724-tsukiyo-no-mura.json](./77724-tsukiyo-no-mura.json) |
@@ -33512,6 +33518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TUS | 160201 | [160201-tus.json](./160201-tus.json) |
 | Tuscany Hotel | 106759 | [106759-tuscany-hotel.json](./106759-tuscany-hotel.json) |
 | Tusk of Spirit | 157358 | [157358-tusk-of-spirit.json](./157358-tusk-of-spirit.json) |
+| Tusker's Number Adventure | 124354 | [124354-tuskers-number-adventure.json](./124354-tuskers-number-adventure.json) |
 | Tusmo | 193528 | [193528-tusmo.json](./193528-tusmo.json) |
 | Tusmox | 381412 | [381412-tusmox.json](./381412-tusmox.json) |
 | Tussle Works | 422050 | [422050-tussle-works.json](./422050-tussle-works.json) |
