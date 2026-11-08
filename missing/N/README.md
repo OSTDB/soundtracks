@@ -4335,6 +4335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Flight | 233026 | [233026-night-flight.json](./233026-night-flight.json) |
 | Night Flight | 297492 | [297492-night-flight.json](./297492-night-flight.json) |
 | Night Flight | 42137 | [42137-night-flight.json](./42137-night-flight.json) |
+| Night Fly | 81598 | [81598-night-fly.json](./81598-night-fly.json) |
 | Night Flyer: A Bat's Journey | 180440 | [180440-night-flyer-a-bats-journey.json](./180440-night-flyer-a-bats-journey.json) |
 | Night Forest | 31285 | [31285-night-forest.json](./31285-night-forest.json) |
 | Night Freak | 263430 | [263430-night-freak.json](./263430-night-freak.json) |
