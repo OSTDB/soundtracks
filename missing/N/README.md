@@ -6556,6 +6556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nom: Billion Year Timequest | 343566 | [343566-nom-billion-year-timequest.json](./343566-nom-billion-year-timequest.json) |
 | Nomad | 174444 | [174444-nomad.json](./174444-nomad.json) |
 | Nomad | 403796 | [403796-nomad.json](./403796-nomad.json) |
+| Nomad | 95511 | [95511-nomad.json](./95511-nomad.json) |
 | Nomad Defender | 278951 | [278951-nomad-defender.json](./278951-nomad-defender.json) |
 | Nomad Drive | 340570 | [340570-nomad-drive.json](./340570-nomad-drive.json) |
 | Nomad Fleet | 18955 | [18955-nomad-fleet.json](./18955-nomad-fleet.json) |
