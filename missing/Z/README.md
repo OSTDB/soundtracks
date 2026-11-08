@@ -2525,6 +2525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zou's App | 52300 | [52300-zous-app.json](./52300-zous-app.json) |
 | Zoul Dungeon | 316677 | [316677-zoul-dungeon.json](./316677-zoul-dungeon.json) |
 | Zovid-19 Remake | 195905 | [195905-zovid-19-remake.json](./195905-zovid-19-remake.json) |
+| ZoX Universe: Space Arena | 94372 | [94372-zox-universe-space-arena.json](./94372-zox-universe-space-arena.json) |
 | Zoxel | 151383 | [151383-zoxel.json](./151383-zoxel.json) |
 | ZOZ: Final Hour | 204210 | [204210-zoz-final-hour.json](./204210-zoz-final-hour.json) |
 | Zozo and the Lost Dreams | 369087 | [369087-zozo-and-the-lost-dreams.json](./369087-zozo-and-the-lost-dreams.json) |
