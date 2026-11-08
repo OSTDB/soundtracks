@@ -6063,6 +6063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -7210,7 +7211,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Mercs | 13390 | [13390-medieval-mercs.json](./13390-medieval-mercs.json) |
 | Medieval Merge | 194151 | [194151-medieval-merge.json](./194151-medieval-merge.json) |
 | Medieval Merge: Epic Adventure | 248158 | [248158-medieval-merge-epic-adventure.json](./248158-medieval-merge-epic-adventure.json) |
-| Medieval Moves: Deadmund's Quest | 18230 | [18230-medieval-moves-deadmunds-quest.json](./18230-medieval-moves-deadmunds-quest.json) |
 | Medieval Mystery Match | 46473 | [46473-medieval-mystery-match.json](./46473-medieval-mystery-match.json) |
 | Medieval Nightt: Part 1 | 311804 | [311804-medieval-nightt-part-1.json](./311804-medieval-nightt-part-1.json) |
 | Medieval Pathfinder | 336050 | [336050-medieval-pathfinder.json](./336050-medieval-pathfinder.json) |
@@ -13679,7 +13679,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miracle Heroes: Temporal Bounty Hunter | 338705 | [338705-miracle-heroes-temporal-bounty-hunter.json](./338705-miracle-heroes-temporal-bounty-hunter.json) |
 | Miracle Jim no Bassing Beat | 362809 | [362809-miracle-jim-no-bassing-beat.json](./362809-miracle-jim-no-bassing-beat.json) |
 | Miracle Journey: 3D Find Differences | 369339 | [369339-miracle-journey-3d-find-differences.json](./369339-miracle-journey-3d-find-differences.json) |
-| Miracle Merchant | 77734 | [77734-miracle-merchant.json](./77734-miracle-merchant.json) |
 | Miracle Mia | 54834 | [54834-miracle-mia.json](./54834-miracle-mia.json) |
 | Miracle Party Plus: Fushigi no Gensoukyou 2 | 206947 | [206947-miracle-party-plus-fushigi-no-gensoukyou-2.json](./206947-miracle-party-plus-fushigi-no-gensoukyou-2.json) |
 | Miracle Party: Fushigi no Gensoukyou 2 | 206936 | [206936-miracle-party-fushigi-no-gensoukyou-2.json](./206936-miracle-party-fushigi-no-gensoukyou-2.json) |
