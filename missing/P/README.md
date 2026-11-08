@@ -1926,6 +1926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Par 1 Golf 5 | 197667 | [197667-par-1-golf-5.json](./197667-par-1-golf-5.json) |
 | Par 1 Golf 7 | 174296 | [174296-par-1-golf-7.json](./174296-par-1-golf-7.json) |
 | Par 1 Golf 8 | 197790 | [197790-par-1-golf-8.json](./197790-par-1-golf-8.json) |
+| Par 72 Golf | 100375 | [100375-par-72-golf.json](./100375-par-72-golf.json) |
 | Par 72 Golf IV | 95696 | [95696-par-72-golf-iv.json](./95696-par-72-golf-iv.json) |
 | Par for the Dungeon | 258280 | [258280-par-for-the-dungeon.json](./258280-par-for-the-dungeon.json) |
 | Par Golf | 92101 | [92101-par-golf.json](./92101-par-golf.json) |
@@ -9316,6 +9317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planescape: The Shaper of Dreams | 369227 | [369227-planescape-the-shaper-of-dreams.json](./369227-planescape-the-shaper-of-dreams.json) |
 | Planescape: Torment - Enhanced Edition | 27988 | [27988-planescape-torment-enhanced-edition.json](./27988-planescape-torment-enhanced-edition.json) |
 | PlaneShift | 84309 | [84309-planeshift.json](./84309-planeshift.json) |
+| Planet | 100372 | [100372-planet.json](./100372-planet.json) |
 | Planet | 17018 | [17018-planet.json](./17018-planet.json) |
 | Planet 1138 | 33728 | [33728-planet-1138.json](./33728-planet-1138.json) |
 | Planet 2000 | 99523 | [99523-planet-2000.json](./99523-planet-2000.json) |
@@ -10740,6 +10742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Tarneeb | 317051 | [317051-pocket-tarneeb.json](./317051-pocket-tarneeb.json) |
 | Pocket Thief | 337501 | [337501-pocket-thief.json](./337501-pocket-thief.json) |
 | Pocket Tour | 413388 | [413388-pocket-tour.json](./413388-pocket-tour.json) |
+| Pocket Trains - Railroad Empire Building | 99882 | [99882-pocket-trains-railroad-empire-building.json](./99882-pocket-trains-railroad-empire-building.json) |
 | Pocket Troops | 102236 | [102236-pocket-troops.json](./102236-pocket-troops.json) |
 | Pocket Tuner | 287434 | [287434-pocket-tuner.json](./287434-pocket-tuner.json) |
 | Pocket Universe - 3D Sandbox | 88962 | [88962-pocket-universe-3d-sandbox.json](./88962-pocket-universe-3d-sandbox.json) |
