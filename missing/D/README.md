@@ -5535,6 +5535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Sea Puzzle | 382453 | [382453-deep-sea-puzzle.json](./382453-deep-sea-puzzle.json) |
 | Deep Sea Quest: Rescue the Lost Mermaid | 243840 | [243840-deep-sea-quest-rescue-the-lost-mermaid.json](./243840-deep-sea-quest-rescue-the-lost-mermaid.json) |
 | Deep Sea Rhapsody | 250776 | [250776-deep-sea-rhapsody.json](./250776-deep-sea-rhapsody.json) |
+| Deep Sea Run | 107344 | [107344-deep-sea-run.json](./107344-deep-sea-run.json) |
 | Deep Sea Sweep | 250257 | [250257-deep-sea-sweep.json](./250257-deep-sea-sweep.json) |
 | Deep Sea Trip | 237235 | [237235-deep-sea-trip.json](./237235-deep-sea-trip.json) |
 | Deep Sea Trophy Fishing | 410802 | [410802-deep-sea-trophy-fishing.json](./410802-deep-sea-trophy-fishing.json) |
@@ -6722,6 +6723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Throttle | 152206 | [152206-demon-throttle.json](./152206-demon-throttle.json) |
 | Demon Tomb | 212152 | [212152-demon-tomb.json](./212152-demon-tomb.json) |
 | Demon Tormentor | 244042 | [244042-demon-tormentor.json](./244042-demon-tormentor.json) |
+| Demon Tuner | 106711 | [106711-demon-tuner.json](./106711-demon-tuner.json) |
 | Demon Turf: Bundle | 203723 | [203723-demon-turf-bundle.json](./203723-demon-turf-bundle.json) |
 | Demon Turf: Neon Splash | 197868 | [197868-demon-turf-neon-splash.json](./197868-demon-turf-neon-splash.json) |
 | Demon Turf: Queen's Edition | 341624 | [341624-demon-turf-queens-edition.json](./341624-demon-turf-queens-edition.json) |
@@ -7405,6 +7407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Racing of BarDos | 69636 | [69636-desert-racing-of-bardos.json](./69636-desert-racing-of-bardos.json) |
 | Desert Raider | 151174 | [151174-desert-raider.json](./151174-desert-raider.json) |
 | Desert Rats | 12419 | [12419-desert-rats.json](./12419-desert-rats.json) |
+| Desert Rescue | 107441 | [107441-desert-rescue.json](./107441-desert-rescue.json) |
 | Desert Revenant | 204835 | [204835-desert-revenant.json](./204835-desert-revenant.json) |
 | Desert Revenant 2: The Reawakening | 381356 | [381356-desert-revenant-2-the-reawakening.json](./381356-desert-revenant-2-the-reawakening.json) |
 | Desert Ride Coaster | 30584 | [30584-desert-ride-coaster.json](./30584-desert-ride-coaster.json) |
@@ -11404,6 +11407,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DIY Fashion Star: Stylish Edition | 305600 | [305600-diy-fashion-star-stylish-edition.json](./305600-diy-fashion-star-stylish-edition.json) |
 | DIY Fashion Star: Stylish Outfits | 289213 | [289213-diy-fashion-star-stylish-outfits.json](./289213-diy-fashion-star-stylish-outfits.json) |
 | DIY Horse Race Thing | 342860 | [342860-diy-horse-race-thing.json](./342860-diy-horse-race-thing.json) |
+| Diy Make Slime Factory Fun | 106705 | [106705-diy-make-slime-factory-fun.json](./106705-diy-make-slime-factory-fun.json) |
 | DIY Makeup | 400053 | [400053-diy-makeup.json](./400053-diy-makeup.json) |
 | DIY My Boy | 165704 | [165704-diy-my-boy.json](./165704-diy-my-boy.json) |
 | DIY My Lady | 163945 | [163945-diy-my-lady.json](./163945-diy-my-lady.json) |
@@ -12779,6 +12783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Go | 267089 | [267089-dont-go.json](./267089-dont-go.json) |
 | Don't Go Alone | 50277 | [50277-dont-go-alone.json](./50277-dont-go-alone.json) |
 | Don't Go Bang! | 24966 | [24966-dont-go-bang.json](./24966-dont-go-bang.json) |
+| Don't Go Camp With Baldi | 106696 | [106696-dont-go-camp-with-baldi.json](./106696-dont-go-camp-with-baldi.json) |
 | Don't Go in the Old Greene House | 59175 | [59175-dont-go-in-the-old-greene-house.json](./59175-dont-go-in-the-old-greene-house.json) |
 | Don't Go in the woods | 285443 | [285443-dont-go-in-the-woods.json](./285443-dont-go-in-the-woods.json) |
 | Don't Go Live | 399210 | [399210-dont-go-live.json](./399210-dont-go-live.json) |
@@ -15541,6 +15546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Scroll: Yomigaerishi Maryuu | 48512 | [48512-dragon-scroll-yomigaerishi-maryuu.json](./48512-dragon-scroll-yomigaerishi-maryuu.json) |
 | Dragon Seeds | 45008 | [45008-dragon-seeds.json](./45008-dragon-seeds.json) |
 | Dragon Side II: The Twisted Speare | 122988 | [122988-dragon-side-ii-the-twisted-speare.json](./122988-dragon-side-ii-the-twisted-speare.json) |
+| Dragon Sim Online | 107340 | [107340-dragon-sim-online.json](./107340-dragon-sim-online.json) |
 | Dragon Simulator Multiplayer | 111350 | [111350-dragon-simulator-multiplayer.json](./111350-dragon-simulator-multiplayer.json) |
 | Dragon Sin | 77055 | [77055-dragon-sin.json](./77055-dragon-sin.json) |
 | Dragon Sinker | 38504 | [38504-dragon-sinker.json](./38504-dragon-sinker.json) |
@@ -17000,6 +17006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drifty | 251200 | [251200-drifty.json](./251200-drifty.json) |
 | Drifty Chase | 251334 | [251334-drifty-chase.json](./251334-drifty-chase.json) |
 | Drifty Drive | 112271 | [112271-drifty-drive.json](./112271-drifty-drive.json) |
+| Drifty JetSki - Jetski Drift Stunt Racing Games | 107347 | [107347-drifty-jetski-jetski-drift-stunt-racing-games.json](./107347-drifty-jetski-jetski-drift-stunt-racing-games.json) |
 | Drifty Pool | 187835 | [187835-drifty-pool.json](./187835-drifty-pool.json) |
 | DriftyLands | 422674 | [422674-driftylands.json](./422674-driftylands.json) |
 | DriftZ | 168133 | [168133-driftz.json](./168133-driftz.json) |
