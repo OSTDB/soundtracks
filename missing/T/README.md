@@ -1710,6 +1710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamale Loco: Rumble in the Desert 2 | 174563 | [174563-tamale-loco-rumble-in-the-desert-2.json](./174563-tamale-loco-rumble-in-the-desert-2.json) |
 | Tamamon | 380687 | [380687-tamamon.json](./380687-tamamon.json) |
 | Tamane with Happa and Friends | 82565 | [82565-tamane-with-happa-and-friends.json](./82565-tamane-with-happa-and-friends.json) |
+| Tamanegi Nashi | 130488 | [130488-tamanegi-nashi.json](./130488-tamanegi-nashi.json) |
 | Tamaniwatori's Puzzle | 303660 | [303660-tamaniwatoris-puzzle.json](./303660-tamaniwatoris-puzzle.json) |
 | TamaOtchi | 229850 | [229850-tamaotchi.json](./229850-tamaotchi.json) |
 | Tamara | 339483 | [339483-tamara.json](./339483-tamara.json) |
@@ -2464,6 +2465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tapper World Tour | 66079 | [66079-tapper-world-tour.json](./66079-tapper-world-tour.json) |
 | Tapper's Fiefdom | 393491 | [393491-tappers-fiefdom.json](./393491-tappers-fiefdom.json) |
 | Tappi Bear All in 1 | 219898 | [219898-tappi-bear-all-in-1.json](./219898-tappi-bear-all-in-1.json) |
+| Tapping Skill Test | 130487 | [130487-tapping-skill-test.json](./130487-tapping-skill-test.json) |
 | Tappingo | 23517 | [23517-tappingo.json](./23517-tappingo.json) |
 | Tapple: Idle Clicker | 314240 | [314240-tapple-idle-clicker.json](./314240-tapple-idle-clicker.json) |
 | TapPlease | 107046 | [107046-tapplease.json](./107046-tapplease.json) |
@@ -3180,6 +3182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tebb And The Chistorbes | 232961 | [232961-tebb-and-the-chistorbes.json](./232961-tebb-and-the-chistorbes.json) |
 | Tebeo | 215147 | [215147-tebeo.json](./215147-tebeo.json) |
 | Tec | 166352 | [166352-tec.json](./166352-tec.json) |
+| Tech Age Rebellion | 130483 | [130483-tech-age-rebellion.json](./130483-tech-age-rebellion.json) |
 | Tech and Blood | 181864 | [181864-tech-and-blood.json](./181864-tech-and-blood.json) |
 | Tech Annihilation | 58405 | [58405-tech-annihilation.json](./58405-tech-annihilation.json) |
 | Tech Bike Freestyle | 206610 | [206610-tech-bike-freestyle.json](./206610-tech-bike-freestyle.json) |
@@ -4219,6 +4222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennnes | 94146 | [94146-tennnes.json](./94146-tennnes.json) |
 | Tenno | 290536 | [290536-tenno.json](./290536-tenno.json) |
 | Tenohira de Higurashi ga Naku | 274878 | [274878-tenohira-de-higurashi-ga-naku.json](./274878-tenohira-de-higurashi-ga-naku.json) |
+| Tenohira Gakushuu: Chikyuu no Narabe Kata | 130456 | [130456-tenohira-gakushuu-chikyuu-no-narabe-kata.json](./130456-tenohira-gakushuu-chikyuu-no-narabe-kata.json) |
 | Tenome | 205784 | [205784-tenome.json](./205784-tenome.json) |
 | Tenori-on | 213054 | [213054-tenori-on.json](./213054-tenori-on.json) |
 | Tenpin Bowling | 414338 | [414338-tenpin-bowling.json](./414338-tenpin-bowling.json) |
@@ -5392,6 +5396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | THC: Alien Abduction | 163339 | [163339-thc-alien-abduction.json](./163339-thc-alien-abduction.json) |
 | The "A" Game | 106513 | [106513-the-a-game.json](./106513-the-a-game.json) |
 | The "Quiet, Please!" Collection | 95193 | [95193-the-quiet-please-collection.json](./95193-the-quiet-please-collection.json) |
+| The * BishiBashi | 130455 | [130455-the-bishibashi.json](./130455-the-bishibashi.json) |
 | The $1,000,000 Pyramid | 6463 | [6463-the-1-000-000-pyramid.json](./6463-the-1-000-000-pyramid.json) |
 | The $100,000 Pyramid | 12372 | [12372-the-100-000-pyramid.json](./12372-the-100-000-pyramid.json) |
 | The 10th Planet | 200421 | [200421-the-10th-planet.json](./200421-the-10th-planet.json) |
@@ -10118,6 +10123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Gears Don't Grind | 124573 | [124573-the-gears-dont-grind.json](./124573-the-gears-dont-grind.json) |
 | The Geekwad: Games of the Galaxy | 71772 | [71772-the-geekwad-games-of-the-galaxy.json](./71772-the-geekwad-games-of-the-galaxy.json) |
 | The Gem Collector | 85435 | [85435-the-gem-collector.json](./85435-the-gem-collector.json) |
+| The Gem Hunter | 130453 | [130453-the-gem-hunter.json](./130453-the-gem-hunter.json) |
 | The Gems | 180626 | [180626-the-gems.json](./180626-the-gems.json) |
 | The Gene Machine | 19672 | [19672-the-gene-machine.json](./19672-the-gene-machine.json) |
 | The General | 174369 | [174369-the-general.json](./174369-the-general.json) |
@@ -32131,6 +32137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trouble In Paradise | 272903 | [272903-trouble-in-paradise.json](./272903-trouble-in-paradise.json) |
 | Trouble in Potion High | 399707 | [399707-trouble-in-potion-high.json](./399707-trouble-in-potion-high.json) |
 | Trouble In Space | 237148 | [237148-trouble-in-space.json](./237148-trouble-in-space.json) |
+| Trouble In Terrorist Town Portable | 130493 | [130493-trouble-in-terrorist-town-portable.json](./130493-trouble-in-terrorist-town-portable.json) |
 | Trouble in the Manor | 28577 | [28577-trouble-in-the-manor.json](./28577-trouble-in-the-manor.json) |
 | Trouble in Tornado Town | 226584 | [226584-trouble-in-tornado-town.json](./226584-trouble-in-tornado-town.json) |
 | Trouble in Warsaw | 326069 | [326069-trouble-in-warsaw.json](./326069-trouble-in-warsaw.json) |
@@ -33420,6 +33427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle Daddy | 385560 | [385560-turtle-daddy.json](./385560-turtle-daddy.json) |
 | Turtle Evolution | 239346 | [239346-turtle-evolution.json](./239346-turtle-evolution.json) |
 | Turtle Fly: Into Space | 232574 | [232574-turtle-fly-into-space.json](./232574-turtle-fly-into-space.json) |
+| Turtle Head | 130450 | [130450-turtle-head.json](./130450-turtle-head.json) |
 | Turtle Head: Unmasked | 185779 | [185779-turtle-head-unmasked.json](./185779-turtle-head-unmasked.json) |
 | Turtle Invaders | 252138 | [252138-turtle-invaders.json](./252138-turtle-invaders.json) |
 | Turtle Jump | 307652 | [307652-turtle-jump.json](./307652-turtle-jump.json) |
