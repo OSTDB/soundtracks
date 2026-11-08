@@ -3098,6 +3098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HBO Boxing | 44935 | [44935-hbo-boxing.json](./44935-hbo-boxing.json) |
 | HC-Hexagon | 115505 | [115505-hc-hexagon.json](./115505-hc-hexagon.json) |
 | HD | 301859 | [301859-hd.json](./301859-hd.json) |
+| HD Poker | 131062 | [131062-hd-poker.json](./131062-hd-poker.json) |
 | HDMI | 309310 | [309310-hdmi.json](./309310-hdmi.json) |
 | HDoom | 136850 | [136850-hdoom.json](./136850-hdoom.json) |
 | HDOS | 373557 | [373557-hdos.json](./373557-hdos.json) |
@@ -5440,6 +5441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Sea Battle | 190793 | [190793-hentai-sea-battle.json](./190793-hentai-sea-battle.json) |
 | Hentai Secrets | 237563 | [237563-hentai-secrets.json](./237563-hentai-secrets.json) |
 | Hentai Secrets | 286392 | [286392-hentai-secrets.json](./286392-hentai-secrets.json) |
+| Hentai Seed | 131063 | [131063-hentai-seed.json](./131063-hentai-seed.json) |
 | Hentai Seek | 366514 | [366514-hentai-seek.json](./366514-hentai-seek.json) |
 | Hentai Seek Girl | 366515 | [366515-hentai-seek-girl.json](./366515-hentai-seek-girl.json) |
 | Hentai Senpai: Apocalypse Girls | 301669 | [301669-hentai-senpai-apocalypse-girls.json](./301669-hentai-senpai-apocalypse-girls.json) |
@@ -8354,6 +8356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hisshou! Pachi-Slot Fan | 59911 | [59911-hisshou-pachi-slot-fan.json](./59911-hisshou-pachi-slot-fan.json) |
 | Hissy Fit: Make Snake Break | 347175 | [347175-hissy-fit-make-snake-break.json](./347175-hissy-fit-make-snake-break.json) |
 | Hist Maker | 103183 | [103183-hist-maker.json](./103183-hist-maker.json) |
+| Histacom | 131047 | [131047-histacom.json](./131047-histacom.json) |
 | Histera | 188868 | [188868-histera.json](./188868-histera.json) |
 | Histerya | 296796 | [296796-histerya.json](./296796-histerya.json) |
 | Histo-Time | 336710 | [336710-histo-time.json](./336710-histo-time.json) |
@@ -8717,6 +8720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hobonichi Rozenzu | 80543 | [80543-hobonichi-rozenzu.json](./80543-hobonichi-rozenzu.json) |
 | Hobs | 121630 | [121630-hobs.json](./121630-hobs.json) |
 | Hoccer | 39311 | [39311-hoccer.json](./39311-hoccer.json) |
+| Hockey | 131074 | [131074-hockey.json](./131074-hockey.json) |
 | Hockey | 175898 | [175898-hockey.json](./175898-hockey.json) |
 | Hockey | 18585 | [18585-hockey.json](./18585-hockey.json) |
 | Hockey / Tennis | 380797 | [380797-hockey-tennis.json](./380797-hockey-tennis.json) |
