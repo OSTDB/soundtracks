@@ -26,6 +26,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | S.A.F.E | 390459 | [390459-s-a-f-e.json](./390459-s-a-f-e.json) |
 | S.A.I.A Awakening: A Robothorium Visual Novel | 180058 | [180058-s-a-i-a-awakening-a-robothorium-visual-novel.json](./180058-s-a-i-a-awakening-a-robothorium-visual-novel.json) |
 | S.A.I.A awaknening: a Robothorium visual novel | 111851 | [111851-s-a-i-a-awaknening-a-robothorium-visual-novel.json](./111851-s-a-i-a-awaknening-a-robothorium-visual-novel.json) |
+| S.A.I.N | 133582 | [133582-s-a-i-n.json](./133582-s-a-i-n.json) |
 | S.A.M | 312951 | [312951-s-a-m.json](./312951-s-a-m.json) |
 | S.A.N.D.Y.: Beach Cleaner | 406300 | [406300-s-a-n-d-y-beach-cleaner.json](./406300-s-a-n-d-y-beach-cleaner.json) |
 | S.C. Out | 150073 | [150073-s-c-out.json](./150073-s-c-out.json) |
@@ -2221,6 +2222,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturn 94 | 414135 | [414135-saturn-94.json](./414135-saturn-94.json) |
 | Saturn Bomberman | 28393 | [28393-saturn-bomberman.json](./28393-saturn-bomberman.json) |
 | Saturn Menace | 201366 | [201366-saturn-menace.json](./201366-saturn-menace.json) |
+| Saturn Music School | 133569 | [133569-saturn-music-school.json](./133569-saturn-music-school.json) |
+| Saturn Music School 2 | 133570 | [133570-saturn-music-school-2.json](./133570-saturn-music-school-2.json) |
 | Saturn Quest: Blast Effect | 142188 | [142188-saturn-quest-blast-effect.json](./142188-saturn-quest-blast-effect.json) |
 | Saturn Quest: R.U.N.E. 3000 | 221169 | [221169-saturn-quest-r-u-n-e-3000.json](./221169-saturn-quest-r-u-n-e-3000.json) |
 | Saturn Quest: Shadow of Planetus | 132792 | [132792-saturn-quest-shadow-of-planetus.json](./132792-saturn-quest-shadow-of-planetus.json) |
@@ -7870,6 +7873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | She Was Swallowed By The Sun | 358590 | [358590-she-was-swallowed-by-the-sun.json](./358590-she-was-swallowed-by-the-sun.json) |
 | She Who Fights Monsters | 60343 | [60343-she-who-fights-monsters.json](./60343-she-who-fights-monsters.json) |
 | She Who Fights Monsters: Choice Edition | 186168 | [186168-she-who-fights-monsters-choice-edition.json](./186168-she-who-fights-monsters-choice-edition.json) |
+| She Will Punish Them | 133557 | [133557-she-will-punish-them.json](./133557-she-will-punish-them.json) |
 | She Will Shoot | 173250 | [173250-she-will-shoot.json](./173250-she-will-shoot.json) |
 | SHE: Seraphim Helix Experiment | 404877 | [404877-she-seraphim-helix-experiment.json](./404877-she-seraphim-helix-experiment.json) |
 | She's a Bit Sluggish | 179109 | [179109-shes-a-bit-sluggish.json](./179109-shes-a-bit-sluggish.json) |
@@ -9975,6 +9979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shutter Story | 358396 | [358396-shutter-story.json](./358396-shutter-story.json) |
 | Shutter Stroll | 134671 | [134671-shutter-stroll.json](./134671-shutter-stroll.json) |
 | Shutterbuds | 341475 | [341475-shutterbuds.json](./341475-shutterbuds.json) |
+| Shutterbug Jake and the Sounds Letters Make | 133541 | [133541-shutterbug-jake-and-the-sounds-letters-make.json](./133541-shutterbug-jake-and-the-sounds-letters-make.json) |
 | Shutterbug Stud | 156599 | [156599-shutterbug-stud.json](./156599-shutterbug-stud.json) |
 | Shuttered | 346519 | [346519-shuttered.json](./346519-shuttered.json) |
 | Shuttle Commander | 153326 | [153326-shuttle-commander.json](./153326-shuttle-commander.json) |
@@ -10391,6 +10396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sift Renegade 3 Defiance | 393401 | [393401-sift-renegade-3-defiance.json](./393401-sift-renegade-3-defiance.json) |
 | Sift With Shorty | 393429 | [393429-sift-with-shorty.json](./393429-sift-with-shorty.json) |
 | Sift With Shorty X-Mess | 393430 | [393430-sift-with-shorty-x-mess.json](./393430-sift-with-shorty-x-mess.json) |
+| Sifting Thyme | 133556 | [133556-sifting-thyme.json](./133556-sifting-thyme.json) |
 | Sifu | 144022 | [144022-sifu.json](./144022-sifu.json) |
 | Sifu Kidnapped!: Adventure in the Women's Kingdom | 388687 | [388687-sifu-kidnapped-adventure-in-the-womens-kingdom.json](./388687-sifu-kidnapped-adventure-in-the-womens-kingdom.json) |
 | Sifu: Arenas | 240171 | [240171-sifu-arenas.json](./240171-sifu-arenas.json) |
@@ -21225,6 +21231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Ascension | 152938 | [152938-spectral-ascension.json](./152938-spectral-ascension.json) |
 | Spectral Blade | 419788 | [419788-spectral-blade.json](./419788-spectral-blade.json) |
 | Spectral Climb | 269208 | [269208-spectral-climb.json](./269208-spectral-climb.json) |
+| Spectral Escape | 133576 | [133576-spectral-escape.json](./133576-spectral-escape.json) |
 | Spectral Filter | 290360 | [290360-spectral-filter.json](./290360-spectral-filter.json) |
 | Spectral Force 2 | 80134 | [80134-spectral-force-2.json](./80134-spectral-force-2.json) |
 | Spectral Force 3 | 21339 | [21339-spectral-force-3.json](./21339-spectral-force-3.json) |
@@ -23149,6 +23156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Champions / Medieval Moves: Deadmund's Quest Combo Pack | 268744 | [268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json](./268744-sports-champions-medieval-moves-deadmunds-quest-combo-pack.json) |
 | Sports Champions 2 | 18238 | [18238-sports-champions-2.json](./18238-sports-champions-2.json) |
 | Sports Club Boyfriend: Secrets of BL Academy | 268657 | [268657-sports-club-boyfriend-secrets-of-bl-academy.json](./268657-sports-club-boyfriend-secrets-of-bl-academy.json) |
+| Sports Desk with Jim Shortz | 133534 | [133534-sports-desk-with-jim-shortz.json](./133534-sports-desk-with-jim-shortz.json) |
 | Sports Feel Baseball | 218010 | [218010-sports-feel-baseball.json](./218010-sports-feel-baseball.json) |
 | Sports Feel Fishing Champion | 218011 | [218011-sports-feel-fishing-champion.json](./218011-sports-feel-fishing-champion.json) |
 | Sports Feel Golf | 218014 | [218014-sports-feel-golf.json](./218014-sports-feel-golf.json) |
@@ -31516,6 +31524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super DX-Ball | 73985 | [73985-super-dx-ball.json](./73985-super-dx-ball.json) |
 | Super Dynamite Fishing | 61126 | [61126-super-dynamite-fishing.json](./61126-super-dynamite-fishing.json) |
 | Super DynoStory | 215025 | [215025-super-dynostory.json](./215025-super-dynostory.json) |
+| Super Eagle Shot | 133530 | [133530-super-eagle-shot.json](./133530-super-eagle-shot.json) |
 | Super EarthBound | 323181 | [323181-super-earthbound.json](./323181-super-earthbound.json) |
 | Super Easy Fun Time Adventure Pants | 343170 | [343170-super-easy-fun-time-adventure-pants.json](./343170-super-easy-fun-time-adventure-pants.json) |
 | Super EF2000 | 50231 | [50231-super-ef2000.json](./50231-super-ef2000.json) |
