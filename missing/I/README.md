@@ -1649,6 +1649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Roboto | 152888 | [152888-idle-roboto.json](./152888-idle-roboto.json) |
 | Idle Robots | 255795 | [255795-idle-robots.json](./255795-idle-robots.json) |
 | Idle Rocket Miner | 422806 | [422806-idle-rocket-miner.json](./422806-idle-rocket-miner.json) |
+| Idle Roller Coaster | 119198 | [119198-idle-roller-coaster.json](./119198-idle-roller-coaster.json) |
 | Idle Royale Tycoon: Incremental Merge Battle Game | 134289 | [134289-idle-royale-tycoon-incremental-merge-battle-game.json](./134289-idle-royale-tycoon-incremental-merge-battle-game.json) |
 | Idle RPG: The Game is Bugged! | 292135 | [292135-idle-rpg-the-game-is-bugged.json](./292135-idle-rpg-the-game-is-bugged.json) |
 | Idle Run | 258389 | [258389-idle-run.json](./258389-idle-run.json) |
@@ -3955,7 +3956,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4831,6 +4831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instinct War | 220385 | [220385-instinct-war.json](./220385-instinct-war.json) |
 | Instinct: Survival | 118000 | [118000-instinct-survival.json](./118000-instinct-survival.json) |
 | Instinction | 143565 | [143565-instinction.json](./143565-instinction.json) |
+| InstLife | 119195 | [119195-instlife.json](./119195-instlife.json) |
 | Instruction | 285857 | [285857-instruction.json](./285857-instruction.json) |
 | Instruction Chu | 284517 | [284517-instruction-chu.json](./284517-instruction-chu.json) |
 | InstrumentChamp | 95906 | [95906-instrumentchamp.json](./95906-instrumentchamp.json) |
