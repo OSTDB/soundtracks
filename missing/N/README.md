@@ -3112,6 +3112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neverboard | 176715 | [176715-neverboard.json](./176715-neverboard.json) |
 | Neverbound | 413798 | [413798-neverbound.json](./413798-neverbound.json) |
 | NeverBound | 90248 | [90248-neverbound.json](./90248-neverbound.json) |
+| Neverdark | 115910 | [115910-neverdark.json](./115910-neverdark.json) |
 | Neverdaunt:8Bit | 301100 | [301100-neverdaunt-8bit.json](./301100-neverdaunt-8bit.json) |
 | NeverDead | 3215 | [3215-neverdead.json](./3215-neverdead.json) |
 | NeverDeath | 166701 | [166701-neverdeath.json](./166701-neverdeath.json) |
@@ -3562,6 +3563,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NewDoom Community Project II | 261017 | [261017-newdoom-community-project-ii.json](./261017-newdoom-community-project-ii.json) |
 | Newer Mario Kart Wii | 257275 | [257275-newer-mario-kart-wii.json](./257275-newer-mario-kart-wii.json) |
 | Newer Super Luigi Wii: Dark Moon - Reverse | 294789 | [294789-newer-super-luigi-wii-dark-moon-reverse.json](./294789-newer-super-luigi-wii-dark-moon-reverse.json) |
+| Newer Super Mario Bros. DS | 115860 | [115860-newer-super-mario-bros-ds.json](./115860-newer-super-mario-bros-ds.json) |
+| Newer Super Mario Bros. Wii | 115859 | [115859-newer-super-mario-bros-wii.json](./115859-newer-super-mario-bros-wii.json) |
 | Newer Super Mario Bros. Wii Deluxe | 132846 | [132846-newer-super-mario-bros-wii-deluxe.json](./132846-newer-super-mario-bros-wii-deluxe.json) |
 | Newer: Falling Leaf | 132848 | [132848-newer-falling-leaf.json](./132848-newer-falling-leaf.json) |
 | Newer: Holiday Special | 132849 | [132849-newer-holiday-special.json](./132849-newer-holiday-special.json) |
