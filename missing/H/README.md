@@ -8872,6 +8872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoist Sail for the Heliopause and Home | 7847 | [7847-hoist-sail-for-the-heliopause-and-home.json](./7847-hoist-sail-for-the-heliopause-and-home.json) |
 | Hojiya | 177962 | [177962-hojiya.json](./177962-hojiya.json) |
 | Hoka-hoka Gudetama Gohan: Densetsu no Shouyu wo Sagasunda wa | 212512 | [212512-hoka-hoka-gudetama-gohan-densetsu-no-shouyu-wo-sagasunda-wa.json](./212512-hoka-hoka-gudetama-gohan-densetsu-no-shouyu-wo-sagasunda-wa.json) |
+| Hokan: Monster Slayer | 100476 | [100476-hokan-monster-slayer.json](./100476-hokan-monster-slayer.json) |
 | Hokkaido Game | 272254 | [272254-hokkaido-game.json](./272254-hokkaido-game.json) |
 | Hokkaido Hatsu!! Dosanko Wide ga DS ni Narimashita! Hoshizawa Sachiko no Temanashi Raku Raku Gohan | 269584 | [269584-hokkaido-hatsu-dosanko-wide-ga-ds-ni-narimashita-hoshizawa-sachiko-no-temanashi-raku-raku-gohan.json](./269584-hokkaido-hatsu-dosanko-wide-ga-ds-ni-narimashita-hoshizawa-sachiko-no-temanashi-raku-raku-gohan.json) |
 | Hokkaido Rensa Satsujin: Okhotsk ni Kiyu | 206087 | [206087-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json](./206087-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json) |
@@ -10176,6 +10177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horde Havoc | 261448 | [261448-horde-havoc.json](./261448-horde-havoc.json) |
 | Horde Mode -Trial of the Dark Lord | 143493 | [143493-horde-mode-trial-of-the-dark-lord.json](./143493-horde-mode-trial-of-the-dark-lord.json) |
 | Horde of Directors | 178090 | [178090-horde-of-directors.json](./178090-horde-of-directors.json) |
+| Horde of Plenty | 100474 | [100474-horde-of-plenty.json](./100474-horde-of-plenty.json) |
 | Horde of Viscount | 372780 | [372780-horde-of-viscount.json](./372780-horde-of-viscount.json) |
 | Horde Reapers | 418616 | [418616-horde-reapers.json](./418616-horde-reapers.json) |
 | Horde Slayer | 355022 | [355022-horde-slayer.json](./355022-horde-slayer.json) |
@@ -12205,6 +12207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunt the Wumpus | 310619 | [310619-hunt-the-wumpus.json](./310619-hunt-the-wumpus.json) |
 | Hunt them | 113473 | [113473-hunt-them.json](./113473-hunt-them.json) |
 | Hunt Together | 279395 | [279395-hunt-together.json](./279395-hunt-together.json) |
+| Hunt With Friends | 100454 | [100454-hunt-with-friends.json](./100454-hunt-with-friends.json) |
 | Hunt Zombies Together | 413135 | [413135-hunt-zombies-together.json](./413135-hunt-zombies-together.json) |
 | Hunt-or-Haunt | 188735 | [188735-hunt-or-haunt.json](./188735-hunt-or-haunt.json) |
 | Hunt, Hunter, Hunted | 177751 | [177751-hunt-hunter-hunted.json](./177751-hunt-hunter-hunted.json) |
