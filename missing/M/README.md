@@ -3835,6 +3835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario and Yoshi | 381741 | [381741-mario-and-yoshi.json](./381741-mario-and-yoshi.json) |
 | Mario Andretti Racing | 20593 | [20593-mario-andretti-racing.json](./20593-mario-andretti-racing.json) |
 | Mario Andretti's Racing Challenge | 138177 | [138177-mario-andrettis-racing-challenge.json](./138177-mario-andrettis-racing-challenge.json) |
+| Mario Artist: Communication Kit | 79479 | [79479-mario-artist-communication-kit.json](./79479-mario-artist-communication-kit.json) |
 | Mario Artist: Game Maker | 175951 | [175951-mario-artist-game-maker.json](./175951-mario-artist-game-maker.json) |
 | Mario Artist: Graphical Message Maker | 175952 | [175952-mario-artist-graphical-message-maker.json](./175952-mario-artist-graphical-message-maker.json) |
 | Mario Artist: Sound Maker | 175953 | [175953-mario-artist-sound-maker.json](./175953-mario-artist-sound-maker.json) |
@@ -6108,6 +6109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -7159,6 +7161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medicevil | 279121 | [279121-medicevil.json](./279121-medicevil.json) |
 | Medicinal Cuisine Master | 358480 | [358480-medicinal-cuisine-master.json](./358480-medicinal-cuisine-master.json) |
 | Medicinal Herbs: Cannabis Grow Simulator | 172149 | [172149-medicinal-herbs-cannabis-grow-simulator.json](./172149-medicinal-herbs-cannabis-grow-simulator.json) |
+| Medicopter 117 Jedes Leben zählt | 79485 | [79485-medicopter-117-jedes-leben-zahlt.json](./79485-medicopter-117-jedes-leben-zahlt.json) |
 | Medicus | 360465 | [360465-medicus.json](./360465-medicus.json) |
 | Medieval 2 | 95476 | [95476-medieval-2.json](./95476-medieval-2.json) |
 | Medieval Adventure | 366264 | [366264-medieval-adventure.json](./366264-medieval-adventure.json) |
@@ -11266,6 +11269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft FreeCell | 51354 | [51354-microsoft-freecell.json](./51354-microsoft-freecell.json) |
 | Microsoft Garden Pond | 209516 | [209516-microsoft-garden-pond.json](./209516-microsoft-garden-pond.json) |
 | Microsoft Gem Drop | 347438 | [347438-microsoft-gem-drop.json](./347438-microsoft-gem-drop.json) |
+| Microsoft Golf | 79466 | [79466-microsoft-golf.json](./79466-microsoft-golf.json) |
 | Microsoft Golf 1998 Edition | 77008 | [77008-microsoft-golf-1998-edition.json](./77008-microsoft-golf-1998-edition.json) |
 | Microsoft Golf 1999 Edition | 62240 | [62240-microsoft-golf-1999-edition.json](./62240-microsoft-golf-1999-edition.json) |
 | Microsoft Golf 2.0 | 21860 | [21860-microsoft-golf-2-0.json](./21860-microsoft-golf-2-0.json) |
