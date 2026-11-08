@@ -1714,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertix.io | 58327 | [58327-vertix-io.json](./58327-vertix-io.json) |
 | Verto | 406318 | [406318-verto.json](./406318-verto.json) |
 | Vertrix | 125559 | [125559-vertrix.json](./125559-vertrix.json) |
+| Vertrix 3 | 78233 | [78233-vertrix-3.json](./78233-vertrix-3.json) |
 | Vertrix2 | 94943 | [94943-vertrix2.json](./94943-vertrix2.json) |
 | Verve | 311220 | [311220-verve.json](./311220-verve.json) |
 | Very Bad Dreams | 269860 | [269860-very-bad-dreams.json](./269860-very-bad-dreams.json) |
