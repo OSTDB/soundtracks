@@ -15437,6 +15437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Quarterback | 45778 | [45778-pro-quarterback.json](./45778-pro-quarterback.json) |
 | Pro Racer | 172529 | [172529-pro-racer.json](./172529-pro-racer.json) |
 | Pro Rally | 92812 | [92812-pro-rally.json](./92812-pro-rally.json) |
+| Pro Rally 2001 | 123184 | [123184-pro-rally-2001.json](./123184-pro-rally-2001.json) |
 | Pro Rally 2002 | 4074 | [4074-pro-rally-2002.json](./4074-pro-rally-2002.json) |
 | Pro Riders Snowboard Extreme Edition | 10726 | [10726-pro-riders-snowboard-extreme-edition.json](./10726-pro-riders-snowboard-extreme-edition.json) |
 | Pro Rugby Manager | 94388 | [94388-pro-rugby-manager.json](./94388-pro-rugby-manager.json) |
