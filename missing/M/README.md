@@ -2761,6 +2761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maliki: Poison Of The Past | 292846 | [292846-maliki-poison-of-the-past.json](./292846-maliki-poison-of-the-past.json) |
 | Malin Kundang: an Indonesian Folklore | 330546 | [330546-malin-kundang-an-indonesian-folklore.json](./330546-malin-kundang-an-indonesian-folklore.json) |
 | Maline | 342141 | [342141-maline.json](./342141-maline.json) |
+| Malita: Soul of a Warrior | 118512 | [118512-malita-soul-of-a-warrior.json](./118512-malita-soul-of-a-warrior.json) |
 | Maliya | 58721 | [58721-maliya.json](./58721-maliya.json) |
 | Malkari | 71326 | [71326-malkari.json](./71326-malkari.json) |
 | Malkia | 32362 | [32362-malkia.json](./32362-malkia.json) |
@@ -6044,7 +6045,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -9098,6 +9098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Shake | 341465 | [341465-memory-shake.json](./341465-memory-shake.json) |
 | Memory Shards | 200467 | [200467-memory-shards.json](./200467-memory-shards.json) |
 | Memory Showdown | 365883 | [365883-memory-showdown.json](./365883-memory-showdown.json) |
+| Memory Sound Touch | 118498 | [118498-memory-sound-touch.json](./118498-memory-sound-touch.json) |
 | Memory Stamps | 174223 | [174223-memory-stamps.json](./174223-memory-stamps.json) |
 | Memory Test | 287534 | [287534-memory-test.json](./287534-memory-test.json) |
 | Memory Traces: Egypt | 221106 | [221106-memory-traces-egypt.json](./221106-memory-traces-egypt.json) |
@@ -12544,6 +12545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minecraft Powerpoint Edition | 325803 | [325803-minecraft-powerpoint-edition.json](./325803-minecraft-powerpoint-edition.json) |
 | Minecraft PSP | 327850 | [327850-minecraft-psp.json](./327850-minecraft-psp.json) |
 | Minecraft Randomizer | 211678 | [211678-minecraft-randomizer.json](./211678-minecraft-randomizer.json) |
+| Minecraft Starter Collection | 118499 | [118499-minecraft-starter-collection.json](./118499-minecraft-starter-collection.json) |
 | Minecraft Tower Defence | 240149 | [240149-minecraft-tower-defence.json](./240149-minecraft-tower-defence.json) |
 | Minecraft Tower Defence 2 | 398372 | [398372-minecraft-tower-defence-2.json](./398372-minecraft-tower-defence-2.json) |
 | Minecraft Triple Bundle | 334490 | [334490-minecraft-triple-bundle.json](./334490-minecraft-triple-bundle.json) |
@@ -20542,6 +20544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Brother is a Superhero | 242559 | [242559-my-brother-is-a-superhero.json](./242559-my-brother-is-a-superhero.json) |
 | My brother lives in a canyon | 152725 | [152725-my-brother-lives-in-a-canyon.json](./152725-my-brother-lives-in-a-canyon.json) |
 | My Brother Rabbit | 104522 | [104522-my-brother-rabbit.json](./104522-my-brother-rabbit.json) |
+| My Brother Rabbit: Special Edition | 118518 | [118518-my-brother-rabbit-special-edition.json](./118518-my-brother-rabbit-special-edition.json) |
 | My Brother the Sacrifice | 123643 | [123643-my-brother-the-sacrifice.json](./123643-my-brother-the-sacrifice.json) |
 | My Brute | 67882 | [67882-my-brute.json](./67882-my-brute.json) |
 | My Buddy Did Something Weird And Now I Have Feelings For Him??!?!? | 308285 | [308285-my-buddy-did-something-weird-and-now-i-have-feelings-for-him.json](./308285-my-buddy-did-something-weird-and-now-i-have-feelings-for-him.json) |
