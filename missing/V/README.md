@@ -1923,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victim's Tongue | 397765 | [397765-victims-tongue.json](./397765-victims-tongue.json) |
 | Victor | 172887 | [172887-victor.json](./172887-victor.json) |
 | Victor Banana | 171478 | [171478-victor-banana.json](./171478-victor-banana.json) |
+| Victor Loomes: Das Adventure-Game | 135382 | [135382-victor-loomes-das-adventure-game.json](./135382-victor-loomes-das-adventure-game.json) |
 | Victor Vran: Cauldron of Chaos Dungeon | 171348 | [171348-victor-vran-cauldron-of-chaos-dungeon.json](./171348-victor-vran-cauldron-of-chaos-dungeon.json) |
 | Victor Vran: Fractured Worlds | 51790 | [51790-victor-vran-fractured-worlds.json](./51790-victor-vran-fractured-worlds.json) |
 | Victor Vran: Motörhead -Through the Ages | 51787 | [51787-victor-vran-motorhead-through-the-ages.json](./51787-victor-vran-motorhead-through-the-ages.json) |
