@@ -276,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Adventure | 257715 | [257715-raccoon-adventure.json](./257715-raccoon-adventure.json) |
 | Raccoon Arrival | 150627 | [150627-raccoon-arrival.json](./150627-raccoon-arrival.json) |
 | Raccoon Bubbles | 208963 | [208963-raccoon-bubbles.json](./208963-raccoon-bubbles.json) |
+| Raccoon City Edition | 132952 | [132952-raccoon-city-edition.json](./132952-raccoon-city-edition.json) |
 | Raccoon City Edition: Z Version | 218545 | [218545-raccoon-city-edition-z-version.json](./218545-raccoon-city-edition-z-version.json) |
 | Raccoon Crafts Factory | 197160 | [197160-raccoon-crafts-factory.json](./197160-raccoon-crafts-factory.json) |
 | Raccoon Crime Spree | 359342 | [359342-raccoon-crime-spree.json](./359342-raccoon-crime-spree.json) |
