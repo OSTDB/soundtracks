@@ -2123,6 +2123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raster Blaster | 24879 | [24879-raster-blaster.json](./24879-raster-blaster.json) |
 | Raster Fahndung | 92992 | [92992-raster-fahndung.json](./92992-raster-fahndung.json) |
 | Raster Prime: Remix | 162415 | [162415-raster-prime-remix.json](./162415-raster-prime-remix.json) |
+| Raster Runner | 93101 | [93101-raster-runner.json](./93101-raster-runner.json) |
 | RasterFire | 412570 | [412570-rasterfire.json](./412570-rasterfire.json) |
 | Rasternauts | 134965 | [134965-rasternauts.json](./134965-rasternauts.json) |
 | Rastignac: Wastelands | 302895 | [302895-rastignac-wastelands.json](./302895-rastignac-wastelands.json) |
@@ -10495,6 +10496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolan's Curse 2 | 49022 | [49022-rolans-curse-2.json](./49022-rolans-curse-2.json) |
 | Rolan's Quest | 56854 | [56854-rolans-quest.json](./56854-rolans-quest.json) |
 | Roland Ahoy! | 39147 | [39147-roland-ahoy.json](./39147-roland-ahoy.json) |
+| Roland Garros 1997 | 93090 | [93090-roland-garros-1997.json](./93090-roland-garros-1997.json) |
 | Roland Garros French Open 2000 | 94379 | [94379-roland-garros-french-open-2000.json](./94379-roland-garros-french-open-2000.json) |
 | Roland Garros French Open 2002 | 244012 | [244012-roland-garros-french-open-2002.json](./244012-roland-garros-french-open-2002.json) |
 | Roland Garros Paris 2005: Powered by Smash Court Tennis | 383415 | [383415-roland-garros-paris-2005-powered-by-smash-court-tennis.json](./383415-roland-garros-paris-2005-powered-by-smash-court-tennis.json) |
