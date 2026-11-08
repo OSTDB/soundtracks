@@ -1963,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parachuter | 193011 | [193011-parachuter.json](./193011-parachuter.json) |
 | Paracom | 384535 | [384535-paracom.json](./384535-paracom.json) |
 | Paracreat | 199304 | [199304-paracreat.json](./199304-paracreat.json) |
+| Paracusia | 101153 | [101153-paracusia.json](./101153-paracusia.json) |
 | Paradaice | 151083 | [151083-paradaice.json](./151083-paradaice.json) |
 | Parade!: The Rhythm Battle | 100640 | [100640-parade-the-rhythm-battle.json](./100640-parade-the-rhythm-battle.json) |
 | Paradiddle | 74191 | [74191-paradiddle.json](./74191-paradiddle.json) |
@@ -9006,6 +9007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixoban | 187790 | [187790-pixoban.json](./187790-pixoban.json) |
 | PixoCities | 120718 | [120718-pixocities.json](./120718-pixocities.json) |
 | Pixoguess | 365628 | [365628-pixoguess.json](./365628-pixoguess.json) |
+| Pixoji | 101714 | [101714-pixoji.json](./101714-pixoji.json) |
 | PixPaint - Color By Number | 105970 | [105970-pixpaint-color-by-number.json](./105970-pixpaint-color-by-number.json) |
 | Pixplode | 36494 | [36494-pixplode.json](./36494-pixplode.json) |
 | Pixplorer | 379950 | [379950-pixplorer.json](./379950-pixplorer.json) |
@@ -9197,6 +9199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Place Icebergs Apart | 318190 | [318190-place-icebergs-apart.json](./318190-place-icebergs-apart.json) |
 | Place Kick Master Football Championship | 247003 | [247003-place-kick-master-football-championship.json](./247003-place-kick-master-football-championship.json) |
 | Place of Decay | 318354 | [318354-place-of-decay.json](./318354-place-of-decay.json) |
+| Place of Power | 101782 | [101782-place-of-power.json](./101782-place-of-power.json) |
 | Place Place | 185300 | [185300-place-place.json](./185300-place-place.json) |
 | Place: Weapon Workshop | 411079 | [411079-place-weapon-workshop.json](./411079-place-weapon-workshop.json) |
 | Placebo Effect | 95115 | [95115-placebo-effect.json](./95115-placebo-effect.json) |
@@ -14147,6 +14150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pre Dusk | 172987 | [172987-pre-dusk.json](./172987-pre-dusk.json) |
 | Pre Master | 261406 | [261406-pre-master.json](./261406-pre-master.json) |
 | Pre Post-Modernistic Post-Ironic Dadaism: Dating Simulator | 306969 | [306969-pre-post-modernistic-post-ironic-dadaism-dating-simulator.json](./306969-pre-post-modernistic-post-ironic-dadaism-dating-simulator.json) |
+| Pre-Civilization Marble Age | 101718 | [101718-pre-civilization-marble-age.json](./101718-pre-civilization-marble-age.json) |
 | Pre-Fortress 2 | 164312 | [164312-pre-fortress-2.json](./164312-pre-fortress-2.json) |
 | Pre-Odyssey: Love at First Quack | 344552 | [344552-pre-odyssey-love-at-first-quack.json](./344552-pre-odyssey-love-at-first-quack.json) |
 | Pre-Odyssey: Odysseus, Penelope and Her Ducks | 204550 | [204550-pre-odyssey-odysseus-penelope-and-her-ducks.json](./204550-pre-odyssey-odysseus-penelope-and-her-ducks.json) |
@@ -16832,6 +16836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prom Dreams: A High School Love Story | 336332 | [336332-prom-dreams-a-high-school-love-story.json](./336332-prom-dreams-a-high-school-love-story.json) |
 | Prom Night | 140704 | [140704-prom-night.json](./140704-prom-night.json) |
 | Prom Queen | 25439 | [25439-prom-queen.json](./25439-prom-queen.json) |
+| Prom Queen Girl - Date Night | 101645 | [101645-prom-queen-girl-date-night.json](./101645-prom-queen-girl-date-night.json) |
 | Promesa | 139174 | [139174-promesa.json](./139174-promesa.json) |
 | Promessa | 329677 | [329677-promessa.json](./329677-promessa.json) |
 | Promesst | 351396 | [351396-promesst.json](./351396-promesst.json) |
@@ -18006,6 +18011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppy Bounce! | 108728 | [108728-puppy-bounce.json](./108728-puppy-bounce.json) |
 | Puppy Cars: Games for Kids Edition, Animal adventure | 309039 | [309039-puppy-cars-games-for-kids-edition-animal-adventure.json](./309039-puppy-cars-games-for-kids-edition-animal-adventure.json) |
 | Puppy Chef Academy | 107790 | [107790-puppy-chef-academy.json](./107790-puppy-chef-academy.json) |
+| Puppy Cookies | 101165 | [101165-puppy-cookies.json](./101165-puppy-cookies.json) |
 | Puppy Cross | 129328 | [129328-puppy-cross.json](./129328-puppy-cross.json) |
 | Puppy Cross: Kitty Cross | 170875 | [170875-puppy-cross-kitty-cross.json](./170875-puppy-cross-kitty-cross.json) |
 | Puppy Dentist | 106357 | [106357-puppy-dentist.json](./106357-puppy-dentist.json) |
