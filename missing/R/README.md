@@ -8110,6 +8110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise Up - Dark Night Mode | 100700 | [100700-rise-up-dark-night-mode.json](./100700-rise-up-dark-night-mode.json) |
 | Rise up - Keeper challenge | 96743 | [96743-rise-up-keeper-challenge.json](./96743-rise-up-keeper-challenge.json) |
 | Rise Up! | 185216 | [185216-rise-up.json](./185216-rise-up.json) |
+| Rise: 30 Minutes to Extinction | 105477 | [105477-rise-30-minutes-to-extinction.json](./105477-rise-30-minutes-to-extinction.json) |
 | Rise: Race the Future | 27378 | [27378-rise-race-the-future.json](./27378-rise-race-the-future.json) |
 | Rise: Shooter Arena | 188248 | [188248-rise-shooter-arena.json](./188248-rise-shooter-arena.json) |
 | Rise: The Vieneo Province | 113354 | [113354-rise-the-vieneo-province.json](./113354-rise-the-vieneo-province.json) |
@@ -8286,6 +8287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rite of Passage: Hide and Seek | 98377 | [98377-rite-of-passage-hide-and-seek.json](./98377-rite-of-passage-hide-and-seek.json) |
 | Rite of Passage: Hide and Seek - Collector's Edition | 84028 | [84028-rite-of-passage-hide-and-seek-collectors-edition.json](./84028-rite-of-passage-hide-and-seek-collectors-edition.json) |
 | Rite of Passage: Hide and Seek HD | 104215 | [104215-rite-of-passage-hide-and-seek-hd.json](./104215-rite-of-passage-hide-and-seek-hd.json) |
+| Rite of Passage: Sword of Fury | 105487 | [105487-rite-of-passage-sword-of-fury.json](./105487-rite-of-passage-sword-of-fury.json) |
 | Rite of Passage: The Lost Tides | 140151 | [140151-rite-of-passage-the-lost-tides.json](./140151-rite-of-passage-the-lost-tides.json) |
 | Rite of Passage: The Lost Tides HD | 100231 | [100231-rite-of-passage-the-lost-tides-hd.json](./100231-rite-of-passage-the-lost-tides-hd.json) |
 | Rite of Passage: The Perfect Show | 140152 | [140152-rite-of-passage-the-perfect-show.json](./140152-rite-of-passage-the-perfect-show.json) |
@@ -13044,6 +13046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rush N Crash | 374782 | [374782-rush-n-crash.json](./374782-rush-n-crash.json) |
 | Rush of Heroes | 59608 | [59608-rush-of-heroes.json](./59608-rush-of-heroes.json) |
 | Rush On | 253353 | [253353-rush-on.json](./253353-rush-on.json) |
+| Rush on Rome | 105474 | [105474-rush-on-rome.json](./105474-rush-on-rome.json) |
 | Rush Out | 174828 | [174828-rush-out.json](./174828-rush-out.json) |
 | Rush Out of the Room | 150912 | [150912-rush-out-of-the-room.json](./150912-rush-out-of-the-room.json) |
 | Rush Rally | 242212 | [242212-rush-rally.json](./242212-rush-rally.json) |
