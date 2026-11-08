@@ -4060,6 +4060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enenra | 182458 | [182458-enenra.json](./182458-enenra.json) |
 | Ener-G Dance Squad | 47921 | [47921-ener-g-dance-squad.json](./47921-ener-g-dance-squad.json) |
 | Ener-G Gym Rockets | 47912 | [47912-ener-g-gym-rockets.json](./47912-ener-g-gym-rockets.json) |
+| Ener-G Horse Riders | 94836 | [94836-ener-g-horse-riders.json](./94836-ener-g-horse-riders.json) |
 | Ener-G: Modern Dance | 201272 | [201272-ener-g-modern-dance.json](./201272-ener-g-modern-dance.json) |
 | Enerdusk | 328196 | [328196-enerdusk.json](./328196-enerdusk.json) |
 | Energetic | 373290 | [373290-energetic.json](./373290-energetic.json) |
