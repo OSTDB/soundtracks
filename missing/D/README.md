@@ -1373,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Alleys: Penumbra Motel - Collector's Edition | 126281 | [126281-dark-alleys-penumbra-motel-collectors-edition.json](./126281-dark-alleys-penumbra-motel-collectors-edition.json) |
 | Dark Alliances | 381339 | [381339-dark-alliances.json](./381339-dark-alliances.json) |
 | Dark American Horror Stories | 270804 | [270804-dark-american-horror-stories.json](./270804-dark-american-horror-stories.json) |
+| Dark Anarchy | 116591 | [116591-dark-anarchy.json](./116591-dark-anarchy.json) |
 | Dark and Bright | 51552 | [51552-dark-and-bright.json](./51552-dark-and-bright.json) |
 | Dark and Darker | 207266 | [207266-dark-and-darker.json](./207266-dark-and-darker.json) |
 | Dark and Evil | 277773 | [277773-dark-and-evil.json](./277773-dark-and-evil.json) |
@@ -12011,6 +12012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dog's Quest | 103454 | [103454-dogs-quest.json](./103454-dogs-quest.json) |
 | Dog's Walts | 408060 | [408060-dogs-walts.json](./408060-dogs-walts.json) |
 | Dog's World | 244037 | [244037-dogs-world.json](./244037-dogs-world.json) |
+| Dogbite! | 116573 | [116573-dogbite.json](./116573-dogbite.json) |
 | Dogchild | 59062 | [59062-dogchild.json](./59062-dogchild.json) |
 | Dogcoin | 54854 | [54854-dogcoin.json](./54854-dogcoin.json) |
 | DogDay | 92948 | [92948-dogday.json](./92948-dogday.json) |
