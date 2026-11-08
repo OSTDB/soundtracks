@@ -8855,6 +8855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixelOrb | 184302 | [184302-pixelorb.json](./184302-pixelorb.json) |
 | Pixelords | 406208 | [406208-pixelords.json](./406208-pixelords.json) |
 | Pixelplace.io | 137666 | [137666-pixelplace-io.json](./137666-pixelplace-io.json) |
+| PixelPlanet.fun | 125561 | [125561-pixelplanet-fun.json](./125561-pixelplanet-fun.json) |
 | Pixelpunk XL | 88237 | [88237-pixelpunk-xl.json](./88237-pixelpunk-xl.json) |
 | Pixelpusher | 177003 | [177003-pixelpusher.json](./177003-pixelpusher.json) |
 | PixelQuest: Herb's Adventure | 318278 | [318278-pixelquest-herbs-adventure.json](./318278-pixelquest-herbs-adventure.json) |
@@ -15512,6 +15513,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu Team de Asobou! | 136708 | [136708-pro-yakyuu-team-de-asobou.json](./136708-pro-yakyuu-team-de-asobou.json) |
 | Pro Yakyuu Team wo Tsukurou! | 69269 | [69269-pro-yakyuu-team-wo-tsukurou.json](./69269-pro-yakyuu-team-wo-tsukurou.json) |
 | Pro Yakyuu Team wo Tsukurou! 2 | 69271 | [69271-pro-yakyuu-team-wo-tsukurou-2.json](./69271-pro-yakyuu-team-wo-tsukurou-2.json) |
+| Pro Yakyuu Team wo Tsukurou! 2003 | 125556 | [125556-pro-yakyuu-team-wo-tsukurou-2003.json](./125556-pro-yakyuu-team-wo-tsukurou-2003.json) |
+| Pro Yakyuu Team wo Tsukurou! 3 | 125555 | [125555-pro-yakyuu-team-wo-tsukurou-3.json](./125555-pro-yakyuu-team-wo-tsukurou-3.json) |
 | Pro Yakyuu Team wo Tsukurou! Advance | 49762 | [49762-pro-yakyuu-team-wo-tsukurou-advance.json](./49762-pro-yakyuu-team-wo-tsukurou-advance.json) |
 | Pro Yakyuu Virtual Stadium: Professional Baseball | 268523 | [268523-pro-yakyuu-virtual-stadium-professional-baseball.json](./268523-pro-yakyuu-virtual-stadium-professional-baseball.json) |
 | Pro Yakyuu World Stadium '91 | 37660 | [37660-pro-yakyuu-world-stadium-91.json](./37660-pro-yakyuu-world-stadium-91.json) |
