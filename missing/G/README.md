@@ -8007,6 +8007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Crown: Pandora's Fate | 350200 | [350200-grand-crown-pandoras-fate.json](./350200-grand-crown-pandoras-fate.json) |
 | Grand Cru: The Wine Maker | 410620 | [410620-grand-cru-the-wine-maker.json](./410620-grand-cru-the-wine-maker.json) |
 | Grand Dad | 129542 | [129542-grand-dad.json](./129542-grand-dad.json) |
+| Grand Dad Mania: Revived | 109130 | [109130-grand-dad-mania-revived.json](./109130-grand-dad-mania-revived.json) |
 | Grand Dad Overthrows Bowser | 238208 | [238208-grand-dad-overthrows-bowser.json](./238208-grand-dad-overthrows-bowser.json) |
 | Grand Dude Simulator | 367128 | [367128-grand-dude-simulator.json](./367128-grand-dude-simulator.json) |
 | Grand Emprise 2: Portals Apart | 285901 | [285901-grand-emprise-2-portals-apart.json](./285901-grand-emprise-2-portals-apart.json) |
@@ -9557,6 +9558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Repair | 176986 | [176986-grim-repair.json](./176986-grim-repair.json) |
 | Grim Road | 190443 | [190443-grim-road.json](./190443-grim-road.json) |
 | Grim Seventh | 31829 | [31829-grim-seventh.json](./31829-grim-seventh.json) |
+| Grim Soul: Dark Fantasy Survival | 109131 | [109131-grim-soul-dark-fantasy-survival.json](./109131-grim-soul-dark-fantasy-survival.json) |
 | Grim Survivor | 213002 | [213002-grim-survivor.json](./213002-grim-survivor.json) |
 | Grim Swarm | 323809 | [323809-grim-swarm.json](./323809-grim-swarm.json) |
 | Grim Tales 14 the Time Traveler | 138944 | [138944-grim-tales-14-the-time-traveler.json](./138944-grim-tales-14-the-time-traveler.json) |
