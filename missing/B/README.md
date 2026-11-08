@@ -975,7 +975,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1631,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballblazer Champions | 177 | [177-ballblazer-champions.json](./177-ballblazer-champions.json) |
 | BallBoi | 121313 | [121313-ballboi.json](./121313-ballboi.json) |
 | BallBuster Collection | 52443 | [52443-ballbuster-collection.json](./52443-ballbuster-collection.json) |
+| BallClimbing | 132932 | [132932-ballclimbing.json](./132932-ballclimbing.json) |
 | BallCore | 283979 | [283979-ballcore.json](./283979-ballcore.json) |
 | Balldemic | 179304 | [179304-balldemic.json](./179304-balldemic.json) |
 | Balldventure | 226173 | [226173-balldventure.json](./226173-balldventure.json) |
@@ -3159,6 +3159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball Hero VR | 102198 | [102198-basketball-hero-vr.json](./102198-basketball-hero-vr.json) |
 | Basketball Hoop | 106437 | [106437-basketball-hoop.json](./106437-basketball-hoop.json) |
 | Basketball Legends 24 | 320758 | [320758-basketball-legends-24.json](./320758-basketball-legends-24.json) |
+| Basketball Madness | 132961 | [132961-basketball-madness.json](./132961-basketball-madness.json) |
 | Basketball NBA 17 | 99105 | [99105-basketball-nba-17.json](./99105-basketball-nba-17.json) |
 | Basketball Nightmare | 45667 | [45667-basketball-nightmare.json](./45667-basketball-nightmare.json) |
 | Basketball Odyssey | 246269 | [246269-basketball-odyssey.json](./246269-basketball-odyssey.json) |
@@ -4795,6 +4796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Badminton | 241710 | [241710-beach-badminton.json](./241710-beach-badminton.json) |
 | Beach Ball Bounce Back | 391141 | [391141-beach-ball-bounce-back.json](./391141-beach-ball-bounce-back.json) |
 | Beach Bar Simulator | 347355 | [347355-beach-bar-simulator.json](./347355-beach-bar-simulator.json) |
+| Beach Bar VR | 132954 | [132954-beach-bar-vr.json](./132954-beach-bar-vr.json) |
 | Beach Bass | 334210 | [334210-beach-bass.json](./334210-beach-bass.json) |
 | Beach Bike Water: Challenge Ra | 107671 | [107671-beach-bike-water-challenge-ra.json](./107671-beach-bike-water-challenge-ra.json) |
 | Beach Blanket Volleyball | 362416 | [362416-beach-blanket-volleyball.json](./362416-beach-blanket-volleyball.json) |
@@ -8232,6 +8234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biogenesis | 346732 | [346732-biogenesis.json](./346732-biogenesis.json) |
 | BioGloom | 207835 | [207835-biogloom.json](./207835-biogloom.json) |
 | Bioguard | 283999 | [283999-bioguard.json](./283999-bioguard.json) |
+| BioGun | 132957 | [132957-biogun.json](./132957-biogun.json) |
 | Biohazard | 178438 | [178438-biohazard.json](./178438-biohazard.json) |
 | Biohazard 0 | 307948 | [307948-biohazard-0.json](./307948-biohazard-0.json) |
 | Biohazard 5: Limited Edition | 145195 | [145195-biohazard-5-limited-edition.json](./145195-biohazard-5-limited-edition.json) |
@@ -14203,6 +14206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowl-O-Rama | 40271 | [40271-bowl-o-rama.json](./40271-bowl-o-rama.json) |
 | Bowlatro | 369521 | [369521-bowlatro.json](./369521-bowlatro.json) |
 | Bowlbo | 121238 | [121238-bowlbo.json](./121238-bowlbo.json) |
+| Bowlbo: The Quest for Bing Bing | 132979 | [132979-bowlbo-the-quest-for-bing-bing.json](./132979-bowlbo-the-quest-for-bing-bing.json) |
 | Bowlda Dash | 146440 | [146440-bowlda-dash.json](./146440-bowlda-dash.json) |
 | Bowled | 403557 | [403557-bowled.json](./403557-bowled.json) |
 | Bowler | 95920 | [95920-bowler.json](./95920-bowler.json) |
@@ -18426,6 +18430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bustafellows: Deluxe Edition | 136828 | [136828-bustafellows-deluxe-edition.json](./136828-bustafellows-deluxe-edition.json) |
 | Bustafellows: Season 2 | 231413 | [231413-bustafellows-season-2.json](./231413-bustafellows-season-2.json) |
 | Bustafield 2: Hoodline | 364462 | [364462-bustafield-2-hoodline.json](./364462-bustafield-2-hoodline.json) |
+| BustaShip | 132963 | [132963-bustaship.json](./132963-bustaship.json) |
 | Busted | 384857 | [384857-busted.json](./384857-busted.json) |
 | Busted Brakes | 101750 | [101750-busted-brakes.json](./101750-busted-brakes.json) |
 | Buster | 362135 | [362135-buster.json](./362135-buster.json) |
