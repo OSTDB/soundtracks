@@ -6343,6 +6343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sewing Machine Simulator | 312435 | [312435-sewing-machine-simulator.json](./312435-sewing-machine-simulator.json) |
 | Sex | 185852 | [185852-sex.json](./185852-sex.json) |
 | Sex | 77074 | [77074-sex.json](./77074-sex.json) |
+| Sex * Royale: The world that desires and pleasures interweave | 83093 | [83093-sex-royale-the-world-that-desires-and-pleasures-interweave.json](./83093-sex-royale-the-world-that-desires-and-pleasures-interweave.json) |
 | Sex & Drift | 237181 | [237181-sex-and-drift.json](./237181-sex-and-drift.json) |
 | Sex & Gun | 368092 | [368092-sex-and-gun.json](./368092-sex-and-gun.json) |
 | Sex 2 | 185853 | [185853-sex-2.json](./185853-sex-2.json) |
@@ -8446,6 +8447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiki Eiyuuden: Hito Ryuu Densetsu | 58589 | [58589-shiki-eiyuuden-hito-ryuu-densetsu.json](./58589-shiki-eiyuuden-hito-ryuu-densetsu.json) |
 | Shiki no Kyouken | 393555 | [393555-shiki-no-kyouken.json](./393555-shiki-no-kyouken.json) |
 | Shiki no Kyouken: Kanna Zekkei | 147339 | [147339-shiki-no-kyouken-kanna-zekkei.json](./147339-shiki-no-kyouken-kanna-zekkei.json) |
+| Shiki no Uta: Poetry of four seasons | 83100 | [83100-shiki-no-uta-poetry-of-four-seasons.json](./83100-shiki-no-uta-poetry-of-four-seasons.json) |
 | Shiki Oni no Koku: Chuugoku-hen - Daiisshou | 240302 | [240302-shiki-oni-no-koku-chuugoku-hen-daiisshou.json](./240302-shiki-oni-no-koku-chuugoku-hen-daiisshou.json) |
 | Shiki Oni no Koku: Chuugoku-hen - Dainishou | 240303 | [240303-shiki-oni-no-koku-chuugoku-hen-dainishou.json](./240303-shiki-oni-no-koku-chuugoku-hen-dainishou.json) |
 | Shiki Oni no Koku: Chuugoku-hen - Daisanshou | 240304 | [240304-shiki-oni-no-koku-chuugoku-hen-daisanshou.json](./240304-shiki-oni-no-koku-chuugoku-hen-daisanshou.json) |
@@ -26454,6 +26456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State of War: Warmonger / Classic 2000 | 114195 | [114195-state-of-war-warmonger-classic-2000.json](./114195-state-of-war-warmonger-classic-2000.json) |
 | State of Zombie | 196411 | [196411-state-of-zombie.json](./196411-state-of-zombie.json) |
 | State Railroad | 214327 | [214327-state-railroad.json](./214327-state-railroad.json) |
+| State to State | 83097 | [83097-state-to-state.json](./83097-state-to-state.json) |
 | State Your Business | 336620 | [336620-state-your-business.json](./336620-state-your-business.json) |
 | State Z | 406836 | [406836-state-z.json](./406836-state-z.json) |
 | State: Burial | 185786 | [185786-state-burial.json](./185786-state-burial.json) |
