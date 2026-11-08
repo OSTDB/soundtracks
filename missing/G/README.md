@@ -8767,6 +8767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Switch | 247415 | [247415-gravity-switch.json](./247415-gravity-switch.json) |
 | Gravity Thrust | 231036 | [231036-gravity-thrust.json](./231036-gravity-thrust.json) |
 | Gravity Tilt | 266394 | [266394-gravity-tilt.json](./266394-gravity-tilt.json) |
+| Gravity Typist | 134791 | [134791-gravity-typist.json](./134791-gravity-typist.json) |
 | Gravity Up | 318424 | [318424-gravity-up.json](./318424-gravity-up.json) |
 | Gravity Vector | 104791 | [104791-gravity-vector.json](./104791-gravity-vector.json) |
 | Gravity Wars | 64837 | [64837-gravity-wars.json](./64837-gravity-wars.json) |
@@ -10248,6 +10249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GTR Traffic Rivals | 100902 | [100902-gtr-traffic-rivals.json](./100902-gtr-traffic-rivals.json) |
 | GTR3 | 56269 | [56269-gtr3.json](./56269-gtr3.json) |
 | GTRevival | 271259 | [271259-gtrevival.json](./271259-gtrevival.json) |
+| GTTOD: Get to the Orange Door | 134818 | [134818-gttod-get-to-the-orange-door.json](./134818-gttod-get-to-the-orange-door.json) |
 | GTTOD: Lost in Reflection | 207528 | [207528-gttod-lost-in-reflection.json](./207528-gttod-lost-in-reflection.json) |
 | GU Fighters | 374407 | [374407-gu-fighters.json](./374407-gu-fighters.json) |
 | Gu Lady | 139624 | [139624-gu-lady.json](./139624-gu-lady.json) |
@@ -10853,6 +10855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumchu Girl | 137682 | [137682-gumchu-girl.json](./137682-gumchu-girl.json) |
 | Gumdrop Gladiator | 381354 | [381354-gumdrop-gladiator.json](./381354-gumdrop-gladiator.json) |
 | Gumdrops | 185331 | [185331-gumdrops.json](./185331-gumdrops.json) |
+| Gumgem | 134792 | [134792-gumgem.json](./134792-gumgem.json) |
 | Gummibär Mobile Game | 321276 | [321276-gummibar-mobile-game.json](./321276-gummibar-mobile-game.json) |
 | Gummy Bear Aqua Park | 200777 | [200777-gummy-bear-aqua-park.json](./200777-gummy-bear-aqua-park.json) |
 | Gummy Bear Idle: No Job, Just Jelly | 369160 | [369160-gummy-bear-idle-no-job-just-jelly.json](./369160-gummy-bear-idle-no-job-just-jelly.json) |
