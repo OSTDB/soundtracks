@@ -3915,6 +3915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Park: The Game 3 HD | 90866 | [90866-jurassic-park-the-game-3-hd.json](./90866-jurassic-park-the-game-3-hd.json) |
 | Jurassic Park: The Game 4 HD | 87272 | [87272-jurassic-park-the-game-4-hd.json](./87272-jurassic-park-the-game-4-hd.json) |
 | Jurassic Pet: Virtual World | 263581 | [263581-jurassic-pet-virtual-world.json](./263581-jurassic-pet-virtual-world.json) |
+| Jurassic Pinball | 102306 | [102306-jurassic-pinball.json](./102306-jurassic-pinball.json) |
 | Jurassic Pixel Dinosaur Craft | 350596 | [350596-jurassic-pixel-dinosaur-craft.json](./350596-jurassic-pixel-dinosaur-craft.json) |
 | Jurassic Racer - Dinosaur Racing Game | 100330 | [100330-jurassic-racer-dinosaur-racing-game.json](./100330-jurassic-racer-dinosaur-racing-game.json) |
 | Jurassic Rampage: Smash the City! | 100329 | [100329-jurassic-rampage-smash-the-city.json](./100329-jurassic-rampage-smash-the-city.json) |
@@ -4338,6 +4339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justin Danger | 149302 | [149302-justin-danger.json](./149302-justin-danger.json) |
 | Justin Freeman's Build A House | 304647 | [304647-justin-freemans-build-a-house.json](./304647-justin-freemans-build-a-house.json) |
 | Justin Smith's Realistic Summer Sports Simulator | 65328 | [65328-justin-smiths-realistic-summer-sports-simulator.json](./65328-justin-smiths-realistic-summer-sports-simulator.json) |
+| Justin Time Go Play! | 102230 | [102230-justin-time-go-play.json](./102230-justin-time-go-play.json) |
 | Justin Wack and the Big Time Hack | 121639 | [121639-justin-wack-and-the-big-time-hack.json](./121639-justin-wack-and-the-big-time-hack.json) |
 | Justin Wack and the Big Time Hack: Deluxe Edition | 230819 | [230819-justin-wack-and-the-big-time-hack-deluxe-edition.json](./230819-justin-wack-and-the-big-time-hack-deluxe-edition.json) |
 | JustJump! | 370174 | [370174-justjump.json](./370174-justjump.json) |
