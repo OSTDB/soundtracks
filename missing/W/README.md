@@ -5927,6 +5927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WingMen | 81908 | [81908-wingmen.json](./81908-wingmen.json) |
 | Wingmine | 388339 | [388339-wingmine.json](./388339-wingmine.json) |
 | WingNuts 2: Raina's Revenge | 71290 | [71290-wingnuts-2-rainas-revenge.json](./71290-wingnuts-2-rainas-revenge.json) |
+| Wingnuts MotoRacer | 92744 | [92744-wingnuts-motoracer.json](./92744-wingnuts-motoracer.json) |
 | WingNuts: Temporal Navigator | 201073 | [201073-wingnuts-temporal-navigator.json](./201073-wingnuts-temporal-navigator.json) |
 | Wings | 264454 | [264454-wings.json](./264454-wings.json) |
 | Wings | 270474 | [270474-wings.json](./270474-wings.json) |
