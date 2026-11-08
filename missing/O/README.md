@@ -1608,6 +1608,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Olive | 290134 | [290134-olive.json](./290134-olive.json) |
 | Olive Raiders | 383535 | [383535-olive-raiders.json](./383535-olive-raiders.json) |
 | Olive's Art-Venture | 266049 | [266049-olives-art-venture.json](./266049-olives-art-venture.json) |
+| Oliver & Company | 93103 | [93103-oliver-and-company.json](./93103-oliver-and-company.json) |
 | Oliver & Spike: Dimension Jumpers | 63894 | [63894-oliver-and-spike-dimension-jumpers.json](./63894-oliver-and-spike-dimension-jumpers.json) |
 | Oliver and Spike | 51660 | [51660-oliver-and-spike.json](./51660-oliver-and-spike.json) |
 | Oliver's Crosswords | 133547 | [133547-olivers-crosswords.json](./133547-olivers-crosswords.json) |
