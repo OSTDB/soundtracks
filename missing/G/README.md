@@ -10180,6 +10180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grow Recovery | 175835 | [175835-grow-recovery.json](./175835-grow-recovery.json) |
 | Grow RPG | 175831 | [175831-grow-rpg.json](./175831-grow-rpg.json) |
 | Grow School | 406794 | [406794-grow-school.json](./406794-grow-school.json) |
+| Grow Survivor - Dead Survival | 96822 | [96822-grow-survivor-dead-survival.json](./96822-grow-survivor-dead-survival.json) |
 | Grow the Seed | 244158 | [244158-grow-the-seed.json](./244158-grow-the-seed.json) |
 | Grow Tower | 175830 | [175830-grow-tower.json](./175830-grow-tower.json) |
 | Grow Turret | 248155 | [248155-grow-turret.json](./248155-grow-turret.json) |
