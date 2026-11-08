@@ -17780,6 +17780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Frost | 316970 | [316970-sonic-frost.json](./316970-sonic-frost.json) |
 | Sonic Fusion | 326819 | [326819-sonic-fusion.json](./326819-sonic-fusion.json) |
 | Sonic Fusion | 331072 | [331072-sonic-fusion.json](./331072-sonic-fusion.json) |
+| Sonic Gaiden | 131723 | [131723-sonic-gaiden.json](./131723-sonic-gaiden.json) |
 | Sonic Gaiden | 305282 | [305282-sonic-gaiden.json](./305282-sonic-gaiden.json) |
 | Sonic Galactic | 185938 | [185938-sonic-galactic.json](./185938-sonic-galactic.json) |
 | Sonic Gallery | 330528 | [330528-sonic-gallery.json](./330528-sonic-gallery.json) |
@@ -19980,6 +19981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 142578 | [142578-space-hunter.json](./142578-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
@@ -23040,6 +23042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spooky Walking Simulator | 400425 | [400425-spooky-walking-simulator.json](./400425-spooky-walking-simulator.json) |
 | Spooky Waltz | 198106 | [198106-spooky-waltz.json](./198106-spooky-waltz.json) |
 | Spooky's Jump Scare Mansion | 35577 | [35577-spookys-jump-scare-mansion.json](./35577-spookys-jump-scare-mansion.json) |
+| Spooky's Jump Scare Mansion: Karamari Hospital | 131709 | [131709-spookys-jump-scare-mansion-karamari-hospital.json](./131709-spookys-jump-scare-mansion-karamari-hospital.json) |
 | Spooky's Jump Scare Mansion: The Doll House | 140550 | [140550-spookys-jump-scare-mansion-the-doll-house.json](./140550-spookys-jump-scare-mansion-the-doll-house.json) |
 | Spooky's Jumpscare Mansion Plus | 356227 | [356227-spookys-jumpscare-mansion-plus.json](./356227-spookys-jumpscare-mansion-plus.json) |
 | SpookY2K | 373784 | [373784-spooky2k.json](./373784-spooky2k.json) |
@@ -27359,6 +27362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sticky Steve's Sticky Situation | 214191 | [214191-sticky-steves-sticky-situation.json](./214191-sticky-steves-sticky-situation.json) |
 | Sticky Struggles | 286599 | [286599-sticky-struggles.json](./286599-sticky-struggles.json) |
 | Sticky Sword | 420510 | [420510-sticky-sword.json](./420510-sticky-sword.json) |
+| Sticky Terms | 131731 | [131731-sticky-terms.json](./131731-sticky-terms.json) |
 | Sticky Twig Dash! | 379106 | [379106-sticky-twig-dash.json](./379106-sticky-twig-dash.json) |
 | Sticky Zeitgeist: Episode 3 - A Trick With Ants | 178505 | [178505-sticky-zeitgeist-episode-3-a-trick-with-ants.json](./178505-sticky-zeitgeist-episode-3-a-trick-with-ants.json) |
 | Stickya Adventurya | 314648 | [314648-stickya-adventurya.json](./314648-stickya-adventurya.json) |
