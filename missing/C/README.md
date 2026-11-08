@@ -443,6 +443,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cake Master | 313251 | [313251-cake-master.json](./313251-cake-master.json) |
 | Cake Match | 87885 | [87885-cake-match.json](./87885-cake-match.json) |
 | Cake Match Charm: Pop and jam | 200273 | [200273-cake-match-charm-pop-and-jam.json](./200273-cake-match-charm-pop-and-jam.json) |
+| Cake Ninja | 85016 | [85016-cake-ninja.json](./85016-cake-ninja.json) |
+| Cake Ninja 2 | 85015 | [85015-cake-ninja-2.json](./85015-cake-ninja-2.json) |
+| Cake Ninja 3: The Legend Continues | 85014 | [85014-cake-ninja-3-the-legend-continues.json](./85014-cake-ninja-3-the-legend-continues.json) |
+| Cake Ninja XMAS | 85013 | [85013-cake-ninja-xmas.json](./85013-cake-ninja-xmas.json) |
 | Cake or Bomb? | 360922 | [360922-cake-or-bomb.json](./360922-cake-or-bomb.json) |
 | Cake Platformer | 329089 | [329089-cake-platformer.json](./329089-cake-platformer.json) |
 | Cake Shop | 109015 | [109015-cake-shop.json](./109015-cake-shop.json) |
@@ -556,6 +560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | California Games II | 263906 | [263906-california-games-ii.json](./263906-california-games-ii.json) |
 | California Gold Rush | 23271 | [23271-california-gold-rush.json](./23271-california-gold-rush.json) |
 | California Speed | 3335 | [3335-california-speed.json](./3335-california-speed.json) |
+| California Super Sports | 85021 | [85021-california-super-sports.json](./85021-california-super-sports.json) |
 | California Surfing | 278856 | [278856-california-surfing.json](./278856-california-surfing.json) |
 | California Sushi Time! | 222065 | [222065-california-sushi-time.json](./222065-california-sushi-time.json) |
 | California Swingers Club: Season 1 - Sea Swap | 289850 | [289850-california-swingers-club-season-1-sea-swap.json](./289850-california-swingers-club-season-1-sea-swap.json) |
@@ -1379,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Hair Salon | 90898 | [90898-candy-hair-salon.json](./90898-candy-hair-salon.json) |
 | Candy Harvest Blast | 370366 | [370366-candy-harvest-blast.json](./370366-candy-harvest-blast.json) |
 | Candy Hentai | 301662 | [301662-candy-hentai.json](./301662-candy-hentai.json) |
+| Candy Hoarder | 85019 | [85019-candy-hoarder.json](./85019-candy-hoarder.json) |
 | Candy House in the Dark Forest | 294125 | [294125-candy-house-in-the-dark-forest.json](./294125-candy-house-in-the-dark-forest.json) |
 | Candy Ice Cream Jam Match 3 | 166297 | [166297-candy-ice-cream-jam-match-3.json](./166297-candy-ice-cream-jam-match-3.json) |
 | Candy Island | 30444 | [30444-candy-island.json](./30444-candy-island.json) |
@@ -1406,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Mandy | 114956 | [114956-candy-mandy.json](./114956-candy-mandy.json) |
 | Candy Mania Star | 87094 | [87094-candy-mania-star.json](./87094-candy-mania-star.json) |
 | Candy Match 3 | 191012 | [191012-candy-match-3.json](./191012-candy-match-3.json) |
+| Candy Match 3 | 85018 | [85018-candy-match-3.json](./85018-candy-match-3.json) |
 | Candy Match Forever | 128808 | [128808-candy-match-forever.json](./128808-candy-match-forever.json) |
 | Candy Match Kiddies | 147586 | [147586-candy-match-kiddies.json](./147586-candy-match-kiddies.json) |
 | Candy Matching | 174976 | [174976-candy-matching.json](./174976-candy-matching.json) |
@@ -3589,12 +3596,16 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Clash: Age of Legends | 59299 | [59299-castle-clash-age-of-legends.json](./59299-castle-clash-age-of-legends.json) |
 | Castle Clicker | 67920 | [67920-castle-clicker.json](./67920-castle-clicker.json) |
 | Castle Clout | 99823 | [99823-castle-clout.json](./99823-castle-clout.json) |
+| Castle Clout 3D | 85026 | [85026-castle-clout-3d.json](./85026-castle-clout-3d.json) |
 | Castle Combat | 342194 | [342194-castle-combat.json](./342194-castle-combat.json) |
 | Castle Combat | 47551 | [47551-castle-combat.json](./47551-castle-combat.json) |
 | Castle Come | 307043 | [307043-castle-come.json](./307043-castle-come.json) |
 | Castle Commander | 126760 | [126760-castle-commander.json](./126760-castle-commander.json) |
+| Castle Conqueror | 85548 | [85548-castle-conqueror.json](./85548-castle-conqueror.json) |
 | Castle Conqueror Defender | 84592 | [84592-castle-conqueror-defender.json](./84592-castle-conqueror-defender.json) |
 | Castle Conqueror EX | 84591 | [84591-castle-conqueror-ex.json](./84591-castle-conqueror-ex.json) |
+| Castle Conqueror: Against | 85024 | [85024-castle-conqueror-against.json](./85024-castle-conqueror-against.json) |
+| Castle Conqueror: Heroes 2 | 85022 | [85022-castle-conqueror-heroes-2.json](./85022-castle-conqueror-heroes-2.json) |
 | Castle Conqueror: Revolution | 84593 | [84593-castle-conqueror-revolution.json](./84593-castle-conqueror-revolution.json) |
 | Castle Constructor | 157818 | [157818-castle-constructor.json](./157818-castle-constructor.json) |
 | Castle Corp | 280332 | [280332-castle-corp.json](./280332-castle-corp.json) |
@@ -8217,6 +8228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chotto Magic Taizen: Suki Kirai Hakkenki | 220846 | [220846-chotto-magic-taizen-suki-kirai-hakkenki.json](./220846-chotto-magic-taizen-suki-kirai-hakkenki.json) |
 | Chotto xx na Watashi no Nichijou: Kiki Dasshutsu!? Gyakuten no Nazotoki Life | 251532 | [251532-chotto-xx-na-watashi-no-nichijou-kiki-dasshutsu-gyakuten-no-nazotoki-life.json](./251532-chotto-xx-na-watashi-no-nichijou-kiki-dasshutsu-gyakuten-no-nazotoki-life.json) |
 | Chou à la Crème Collect | 304665 | [304665-chou-a-la-creme-collect.json](./304665-chou-a-la-creme-collect.json) |
+| Chou Aniki | 85547 | [85547-chou-aniki.json](./85547-chou-aniki.json) |
 | Chou Aniki Zero | 42859 | [42859-chou-aniki-zero.json](./42859-chou-aniki-zero.json) |
 | Chou Aniki: Bakuretsu Rantou-hen | 42391 | [42391-chou-aniki-bakuretsu-rantou-hen.json](./42391-chou-aniki-bakuretsu-rantou-hen.json) |
 | Chou Aniki: Kyuukyoku Muteki Ginga Saikyou Otoko | 95478 | [95478-chou-aniki-kyuukyoku-muteki-ginga-saikyou-otoko.json](./95478-chou-aniki-kyuukyoku-muteki-ginga-saikyou-otoko.json) |
@@ -8307,6 +8319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas | 228669 | [228669-christmas.json](./228669-christmas.json) |
 | Christmas - Color Your Puzzle and Paint for Kids | 87617 | [87617-christmas-color-your-puzzle-and-paint-for-kids.json](./87617-christmas-color-your-puzzle-and-paint-for-kids.json) |
 | Christmas Across America | 417584 | [417584-christmas-across-america.json](./417584-christmas-across-america.json) |
+| Christmas Adventure of Rocket Penguin | 85027 | [85027-christmas-adventure-of-rocket-penguin.json](./85027-christmas-adventure-of-rocket-penguin.json) |
 | Christmas Adventure: Candy Storm | 33159 | [33159-christmas-adventure-candy-storm.json](./33159-christmas-adventure-candy-storm.json) |
 | Christmas Adventures: A Winter Night's Dream | 163921 | [163921-christmas-adventures-a-winter-nights-dream.json](./163921-christmas-adventures-a-winter-nights-dream.json) |
 | Christmas at Marisol Bay | 184047 | [184047-christmas-at-marisol-bay.json](./184047-christmas-at-marisol-bay.json) |
@@ -8479,6 +8492,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Wonderland 15 | 417594 | [417594-christmas-wonderland-15.json](./417594-christmas-wonderland-15.json) |
 | Christmas Wonderland 16 | 417595 | [417595-christmas-wonderland-16.json](./417595-christmas-wonderland-16.json) |
 | Christmas Wonderland 16: Collector's Edition | 416785 | [416785-christmas-wonderland-16-collectors-edition.json](./416785-christmas-wonderland-16-collectors-edition.json) |
+| Christmas Wonderland 2 | 85030 | [85030-christmas-wonderland-2.json](./85030-christmas-wonderland-2.json) |
+| Christmas Wonderland 3 | 85029 | [85029-christmas-wonderland-3.json](./85029-christmas-wonderland-3.json) |
+| Christmas Wonderland 4 | 85028 | [85028-christmas-wonderland-4.json](./85028-christmas-wonderland-4.json) |
 | Christmas Wonderland 5 | 224845 | [224845-christmas-wonderland-5.json](./224845-christmas-wonderland-5.json) |
 | Christmas Wonderland 6 | 182024 | [182024-christmas-wonderland-6.json](./182024-christmas-wonderland-6.json) |
 | Christmas Wonderland 7 | 226426 | [226426-christmas-wonderland-7.json](./226426-christmas-wonderland-7.json) |
@@ -8664,6 +8680,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chronicles of Tsufanubra | 123252 | [123252-chronicles-of-tsufanubra.json](./123252-chronicles-of-tsufanubra.json) |
 | Chronicles of Ultiria | 338526 | [338526-chronicles-of-ultiria.json](./338526-chronicles-of-ultiria.json) |
 | Chronicles of Vaeltaja: In Search of the Great Wanderer | 250786 | [250786-chronicles-of-vaeltaja-in-search-of-the-great-wanderer.json](./250786-chronicles-of-vaeltaja-in-search-of-the-great-wanderer.json) |
+| Chronicles of Vampires: Awakening | 85035 | [85035-chronicles-of-vampires-awakening.json](./85035-chronicles-of-vampires-awakening.json) |
+| Chronicles of Vampires: Origins | 85034 | [85034-chronicles-of-vampires-origins.json](./85034-chronicles-of-vampires-origins.json) |
 | Chronicles of Veldoria | 345786 | [345786-chronicles-of-veldoria.json](./345786-chronicles-of-veldoria.json) |
 | Chronicles of Vinland | 81008 | [81008-chronicles-of-vinland.json](./81008-chronicles-of-vinland.json) |
 | Chronicles of Vipers | 253321 | [253321-chronicles-of-vipers.json](./253321-chronicles-of-vipers.json) |
@@ -8828,6 +8846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuàngshì: Xiūzhēn Lù | 75019 | [75019-chuangshi-xiuzhen-lu.json](./75019-chuangshi-xiuzhen-lu.json) |
 | Chuánqí Shìjiè zhī Zhàng Jiàn Tiānyá H5 | 156638 | [156638-chuanqi-shijie-zhi-zhang-jian-tianya-h5.json](./156638-chuanqi-shijie-zhi-zhang-jian-tianya-h5.json) |
 | Chubaw Desuyo! Kyoushou Recipe Shuu | 122911 | [122911-chubaw-desuyo-kyoushou-recipe-shuu.json](./122911-chubaw-desuyo-kyoushou-recipe-shuu.json) |
+| Chubbins | 85033 | [85033-chubbins.json](./85033-chubbins.json) |
 | Chubby & Flubby | 176471 | [176471-chubby-and-flubby.json](./176471-chubby-and-flubby.json) |
 | Chubby Bear Smash | 148302 | [148302-chubby-bear-smash.json](./148302-chubby-bear-smash.json) |
 | Chubby Cat | 194984 | [194984-chubby-cat.json](./194984-chubby-cat.json) |
@@ -9582,6 +9601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Masterplan | 398007 | [398007-city-masterplan.json](./398007-city-masterplan.json) |
 | City Metro Simulator | 219737 | [219737-city-metro-simulator.json](./219737-city-metro-simulator.json) |
 | City Monsters | 90405 | [90405-city-monsters.json](./90405-city-monsters.json) |
+| City Mysteries | 85031 | [85031-city-mysteries.json](./85031-city-mysteries.json) |
 | City Mysteries - Fun Seek and Find Hidden Object Puzzles | 88583 | [88583-city-mysteries-fun-seek-and-find-hidden-object-puzzles.json](./88583-city-mysteries-fun-seek-and-find-hidden-object-puzzles.json) |
 | City Night Carnage | 190417 | [190417-city-night-carnage.json](./190417-city-night-carnage.json) |
 | City Night Rider | 101505 | [101505-city-night-rider.json](./101505-city-night-rider.json) |
@@ -9710,6 +9730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Trader | 94368 | [94368-city-trader.json](./94368-city-trader.json) |
 | City Traffic Car Driving Parking Career Simulator | 86958 | [86958-city-traffic-car-driving-parking-career-simulator.json](./86958-city-traffic-car-driving-parking-career-simulator.json) |
 | City Traffic Driver 2 | 215311 | [215311-city-traffic-driver-2.json](./215311-city-traffic-driver-2.json) |
+| City Transport Map Volumes 1 & 2 - 2009 | 85032 | [85032-city-transport-map-volumes-1-and-2-2009.json](./85032-city-transport-map-volumes-1-and-2-2009.json) |
 | City Transport Simulator 2026 | 397389 | [397389-city-transport-simulator-2026.json](./397389-city-transport-simulator-2026.json) |
 | City Transport Simulator 2026: Bus DLC - Citybus C2 | 399274 | [399274-city-transport-simulator-2026-bus-dlc-citybus-c2.json](./399274-city-transport-simulator-2026-bus-dlc-citybus-c2.json) |
 | City Transport Simulator 2026: Bus DLC - MAN Lion's City A26 & A47 | 399279 | [399279-city-transport-simulator-2026-bus-dlc-man-lions-city-a26-and-a47.json](./399279-city-transport-simulator-2026-bus-dlc-man-lions-city-a26-and-a47.json) |
@@ -11342,6 +11363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Coaster Combat | 193681 | [193681-coaster-combat.json](./193681-coaster-combat.json) |
 | Coaster Crash Course | 373065 | [373065-coaster-crash-course.json](./373065-coaster-crash-course.json) |
 | Coaster Crazy | 63522 | [63522-coaster-crazy.json](./63522-coaster-crazy.json) |
+| Coaster Crazy Deluxe | 85038 | [85038-coaster-crazy-deluxe.json](./85038-coaster-crazy-deluxe.json) |
 | Coaster Mania | 306926 | [306926-coaster-mania.json](./306926-coaster-mania.json) |
 | Coaster of Carnage VR | 75392 | [75392-coaster-of-carnage-vr.json](./75392-coaster-of-carnage-vr.json) |
 | Coaster Park Tycoon | 60612 | [60612-coaster-park-tycoon.json](./60612-coaster-park-tycoon.json) |
@@ -11452,6 +11474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CocoRally Ultimate | 220824 | [220824-cocorally-ultimate.json](./220824-cocorally-ultimate.json) |
 | Cocoricó: Brincando de Pega-Pega | 417542 | [417542-cocorico-brincando-de-pega-pega.json](./417542-cocorico-brincando-de-pega-pega.json) |
 | Cocoro | 317333 | [317333-cocoro.json](./317333-cocoro.json) |
+| Cocoro Line Defender | 85036 | [85036-cocoro-line-defender.json](./85036-cocoro-line-defender.json) |
 | Cocoro no Cocoron | 232836 | [232836-cocoro-no-cocoron.json](./232836-cocoro-no-cocoron.json) |
 | Cocoron | 48644 | [48644-cocoron.json](./48644-cocoron.json) |
 | Cocosic: On Pirates' Trail | 417696 | [417696-cocosic-on-pirates-trail.json](./417696-cocosic-on-pirates-trail.json) |
@@ -12087,6 +12110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Collateral Damages | 345925 | [345925-collateral-damages.json](./345925-collateral-damages.json) |
 | Collateral Damages 2 | 345927 | [345927-collateral-damages-2.json](./345927-collateral-damages-2.json) |
 | Collateral Dungeon | 290958 | [290958-collateral-dungeon.json](./290958-collateral-dungeon.json) |
+| Collateral Thinking | 85039 | [85039-collateral-thinking.json](./85039-collateral-thinking.json) |
 | Collateral Thinking DX | 185859 | [185859-collateral-thinking-dx.json](./185859-collateral-thinking-dx.json) |
 | Collecstar | 261744 | [261744-collecstar.json](./261744-collecstar.json) |
 | Collect a Brainrot | 382844 | [382844-collect-a-brainrot.json](./382844-collect-a-brainrot.json) |
@@ -15653,6 +15677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmo Duel | 95576 | [95576-cosmo-duel.json](./95576-cosmo-duel.json) |
 | Cosmo Fighter 2 | 122628 | [122628-cosmo-fighter-2.json](./122628-cosmo-fighter-2.json) |
 | Cosmo Fighter II | 112162 | [112162-cosmo-fighter-ii.json](./112162-cosmo-fighter-ii.json) |
+| Cosmo Fighters | 85545 | [85545-cosmo-fighters.json](./85545-cosmo-fighters.json) |
 | Cosmo Flight | 346052 | [346052-cosmo-flight.json](./346052-cosmo-flight.json) |
 | Cosmo Flow | 154852 | [154852-cosmo-flow.json](./154852-cosmo-flow.json) |
 | Cosmo Gang the Puzzle | 18382 | [18382-cosmo-gang-the-puzzle.json](./18382-cosmo-gang-the-puzzle.json) |
@@ -17343,6 +17368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy People | 273960 | [273960-crazy-people.json](./273960-crazy-people.json) |
 | Crazy Pierrot | 339487 | [339487-crazy-pierrot.json](./339487-crazy-pierrot.json) |
 | Crazy Pig | 79631 | [79631-crazy-pig.json](./79631-crazy-pig.json) |
+| Crazy Pinball | 85551 | [85551-crazy-pinball.json](./85551-crazy-pinball.json) |
 | Crazy Pingoin | 250193 | [250193-crazy-pingoin.json](./250193-crazy-pingoin.json) |
 | Crazy Pipes 3D | 374118 | [374118-crazy-pipes-3d.json](./374118-crazy-pipes-3d.json) |
 | Crazy Pirate | 81872 | [81872-crazy-pirate.json](./81872-crazy-pirate.json) |
