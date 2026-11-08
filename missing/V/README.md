@@ -537,6 +537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valor Mortis | 361833 | [361833-valor-mortis.json](./361833-valor-mortis.json) |
 | Valor of Man | 326576 | [326576-valor-of-man.json](./326576-valor-of-man.json) |
 | Valor Time | 107911 | [107911-valor-time.json](./107911-valor-time.json) |
+| Valor's Reach | 123148 | [123148-valors-reach.json](./123148-valors-reach.json) |
 | Valora Survival | 219521 | [219521-valora-survival.json](./219521-valora-survival.json) |
 | Valora Valley Golf | 45467 | [45467-valora-valley-golf.json](./45467-valora-valley-golf.json) |
 | Valorant : Antivax Addition | 262272 | [262272-valorant-antivax-addition.json](./262272-valorant-antivax-addition.json) |
@@ -549,6 +550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valsa das Macaúbas | 350905 | [350905-valsa-das-macaubas.json](./350905-valsa-das-macaubas.json) |
 | Valthazar's Sanctum | 266306 | [266306-valthazars-sanctum.json](./266306-valthazars-sanctum.json) |
 | Valthirian Arc | 347033 | [347033-valthirian-arc.json](./347033-valthirian-arc.json) |
+| Valthirian Arc II | 123178 | [123178-valthirian-arc-ii.json](./123178-valthirian-arc-ii.json) |
 | Valthirian Arc: Hero School Story | 104975 | [104975-valthirian-arc-hero-school-story.json](./104975-valthirian-arc-hero-school-story.json) |
 | Valthirian Arc: Hero School Story 2 | 163873 | [163873-valthirian-arc-hero-school-story-2.json](./163873-valthirian-arc-hero-school-story-2.json) |
 | Valtica | 413509 | [413509-valtica.json](./413509-valtica.json) |
@@ -3931,6 +3933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Catgirl Isle 2100 | 325508 | [325508-vr-catgirl-isle-2100.json](./325508-vr-catgirl-isle-2100.json) |
 | VR Chair Games | 29227 | [29227-vr-chair-games.json](./29227-vr-chair-games.json) |
 | VR Coaster Extreme | 28994 | [28994-vr-coaster-extreme.json](./28994-vr-coaster-extreme.json) |
+| VR Coaster Madness | 123173 | [123173-vr-coaster-madness.json](./123173-vr-coaster-madness.json) |
 | VR Cop Simulator | 286323 | [286323-vr-cop-simulator.json](./286323-vr-cop-simulator.json) |
 | VR Cops | 253019 | [253019-vr-cops.json](./253019-vr-cops.json) |
 | VR Cops: Pack 1 | 253020 | [253020-vr-cops-pack-1.json](./253020-vr-cops-pack-1.json) |
