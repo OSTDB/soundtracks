@@ -501,6 +501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Calculation Castle: Greco's Ghostly Challenge "Addition" | 105924 | [105924-calculation-castle-grecos-ghostly-challenge-addition.json](./105924-calculation-castle-grecos-ghostly-challenge-addition.json) |
 | Calculation Castle: Greco's Ghostly Challenge "Division" | 105923 | [105923-calculation-castle-grecos-ghostly-challenge-division.json](./105923-calculation-castle-grecos-ghostly-challenge-division.json) |
 | Calculation Castle: Greco's Ghostly Challenge "Multiplication" | 105922 | [105922-calculation-castle-grecos-ghostly-challenge-multiplication.json](./105922-calculation-castle-grecos-ghostly-challenge-multiplication.json) |
+| Calculation Castle: Greco's Ghostly Challenge "Subtraction" | 102480 | [102480-calculation-castle-grecos-ghostly-challenge-subtraction.json](./102480-calculation-castle-grecos-ghostly-challenge-subtraction.json) |
 | Calculation King | 233443 | [233443-calculation-king.json](./233443-calculation-king.json) |
 | Calculator and Monsters | 167258 | [167258-calculator-and-monsters.json](./167258-calculator-and-monsters.json) |
 | Calculator: The Game | 129167 | [129167-calculator-the-game.json](./129167-calculator-the-game.json) |
@@ -1436,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Trail | 359335 | [359335-candy-trail.json](./359335-candy-trail.json) |
 | Candy Tycoon | 236517 | [236517-candy-tycoon.json](./236517-candy-tycoon.json) |
 | Candy War | 402991 | [402991-candy-war.json](./402991-candy-war.json) |
+| Candy Witch Games for Kids | 102488 | [102488-candy-witch-games-for-kids.json](./102488-candy-witch-games-for-kids.json) |
 | Candy Wrapper | 184297 | [184297-candy-wrapper.json](./184297-candy-wrapper.json) |
 | Candy Zero | 249313 | [249313-candy-zero.json](./249313-candy-zero.json) |
 | Candy, Please! | 57157 | [57157-candy-please.json](./57157-candy-please.json) |
@@ -4863,6 +4865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cats! | 191548 | [191548-cats.json](./191548-cats.json) |
 | Cats! | 34772 | [34772-cats.json](./34772-cats.json) |
 | Cats' World | 406210 | [406210-cats-world.json](./406210-cats-world.json) |
+| Catsapults | 102908 | [102908-catsapults.json](./102908-catsapults.json) |
 | Catsbridge Stories: Detective in Time | 116360 | [116360-catsbridge-stories-detective-in-time.json](./116360-catsbridge-stories-detective-in-time.json) |
 | Catsby | 29514 | [29514-catsby.json](./29514-catsby.json) |
 | Catscratch: This Means War! | 411059 | [411059-catscratch-this-means-war.json](./411059-catscratch-this-means-war.json) |
@@ -4968,6 +4971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cavalry Girls | 208568 | [208568-cavalry-girls.json](./208568-cavalry-girls.json) |
 | Cavatus | 215504 | [215504-cavatus.json](./215504-cavatus.json) |
 | Cave | 141816 | [141816-cave.json](./141816-cave.json) |
+| Cave Adventures | 102986 | [102986-cave-adventures.json](./102986-cave-adventures.json) |
 | Cave Bad | 144105 | [144105-cave-bad.json](./144105-cave-bad.json) |
 | Cave Blast | 59633 | [59633-cave-blast.json](./59633-cave-blast.json) |
 | Cave Bowling | 87262 | [87262-cave-bowling.json](./87262-cave-bowling.json) |
@@ -7722,6 +7726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chinese Checkers | 91326 | [91326-chinese-checkers.json](./91326-chinese-checkers.json) |
 | Chinese Checkers Deluxe | 67983 | [67983-chinese-checkers-deluxe.json](./67983-chinese-checkers-deluxe.json) |
 | Chinese Checkers Master | 91251 | [91251-chinese-checkers-master.json](./91251-chinese-checkers-master.json) |
+| Chinese Chess - Best Xiangqi | 102839 | [102839-chinese-chess-best-xiangqi.json](./102839-chinese-chess-best-xiangqi.json) |
 | Chinese Chess Deluxe | 146922 | [146922-chinese-chess-deluxe.json](./146922-chinese-chess-deluxe.json) |
 | Chinese Chess Online - Play Xiangqi Live | 87244 | [87244-chinese-chess-online-play-xiangqi-live.json](./87244-chinese-chess-online-play-xiangqi-live.json) |
 | Chinese Chess Party | 242372 | [242372-chinese-chess-party.json](./242372-chinese-chess-party.json) |
