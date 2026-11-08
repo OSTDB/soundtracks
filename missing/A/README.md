@@ -2466,6 +2466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: World Heroes 2 | 99740 | [99740-aca-neo-geo-world-heroes-2.json](./99740-aca-neo-geo-world-heroes-2.json) |
 | ACA Neo Geo: World Heroes 2 Jet | 76576 | [76576-aca-neo-geo-world-heroes-2-jet.json](./76576-aca-neo-geo-world-heroes-2-jet.json) |
 | ACA Neo Geo: World Heroes Perfect | 28418 | [28418-aca-neo-geo-world-heroes-perfect.json](./28418-aca-neo-geo-world-heroes-perfect.json) |
+| ACA Neo Geo: Zupapa! | 110583 | [110583-aca-neo-geo-zupapa.json](./110583-aca-neo-geo-zupapa.json) |
 | ACA NeoGeo Selection Vol. 1 | 319735 | [319735-aca-neogeo-selection-vol-1.json](./319735-aca-neogeo-selection-vol-1.json) |
 | ACA NeoGeo Selection Vol. 10 | 376475 | [376475-aca-neogeo-selection-vol-10.json](./376475-aca-neogeo-selection-vol-10.json) |
 | ACA NeoGeo Selection Vol. 2 | 319733 | [319733-aca-neogeo-selection-vol-2.json](./319733-aca-neogeo-selection-vol-2.json) |
@@ -2745,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acephalus | 139167 | [139167-acephalus.json](./139167-acephalus.json) |
 | Acerte o alvo | 230636 | [230636-acerte-o-alvo.json](./230636-acerte-o-alvo.json) |
 | Aces & Adventures | 203609 | [203609-aces-and-adventures.json](./203609-aces-and-adventures.json) |
+| Aces Cribbage | 110570 | [110570-aces-cribbage.json](./110570-aces-cribbage.json) |
 | Aces Gin Rummy | 70896 | [70896-aces-gin-rummy.json](./70896-aces-gin-rummy.json) |
 | Aces High | 91371 | [91371-aces-high.json](./91371-aces-high.json) |
 | Aces High! | 328246 | [328246-aces-high.json](./328246-aces-high.json) |
@@ -10826,6 +10828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anno 1800: National Park Pack | 262527 | [262527-anno-1800-national-park-pack.json](./262527-anno-1800-national-park-pack.json) |
 | Anno 1800: New World Rising | 197351 | [197351-anno-1800-new-world-rising.json](./197351-anno-1800-new-world-rising.json) |
 | Anno 1800: Old Town Pack | 227938 | [227938-anno-1800-old-town-pack.json](./227938-anno-1800-old-town-pack.json) |
+| Anno 1800: Pioneers Edition | 110485 | [110485-anno-1800-pioneers-edition.json](./110485-anno-1800-pioneers-edition.json) |
 | Anno 1800: Pirate Cove Pack | 317336 | [317336-anno-1800-pirate-cove-pack.json](./317336-anno-1800-pirate-cove-pack.json) |
 | Anno 1800: Royal Edition | 136141 | [136141-anno-1800-royal-edition.json](./136141-anno-1800-royal-edition.json) |
 | Anno 1800: Season 2 Pass | 152007 | [152007-anno-1800-season-2-pass.json](./152007-anno-1800-season-2-pass.json) |
@@ -13550,6 +13553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctic Anxiety | 151499 | [151499-arctic-anxiety.json](./151499-arctic-anxiety.json) |
 | Arctic Appetite | 414395 | [414395-arctic-appetite.json](./414395-arctic-appetite.json) |
 | Arctic Blue | 397588 | [397588-arctic-blue.json](./397588-arctic-blue.json) |
+| Arctic Cat Extreme Snowmobile Racing | 110567 | [110567-arctic-cat-extreme-snowmobile-racing.json](./110567-arctic-cat-extreme-snowmobile-racing.json) |
 | Arctic Cat Snowmobile Racing | 234499 | [234499-arctic-cat-snowmobile-racing.json](./234499-arctic-cat-snowmobile-racing.json) |
 | Arctic Cave | 98987 | [98987-arctic-cave.json](./98987-arctic-cave.json) |
 | Arctic Combat | 63888 | [63888-arctic-combat.json](./63888-arctic-combat.json) |
@@ -15206,6 +15210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ase Online | 379349 | [379349-ase-online.json](./379349-ase-online.json) |
 | Aselia the Eternal: The Spirit of Eternity Sword | 33476 | [33476-aselia-the-eternal-the-spirit-of-eternity-sword.json](./33476-aselia-the-eternal-the-spirit-of-eternity-sword.json) |
 | Asemblance | 19167 | [19167-asemblance.json](./19167-asemblance.json) |
+| Asemblance Collection | 110582 | [110582-asemblance-collection.json](./110582-asemblance-collection.json) |
 | Asemblance: Oversight | 99164 | [99164-asemblance-oversight.json](./99164-asemblance-oversight.json) |
 | Asesinato en 7º Grado (Por lo Menos) | 317029 | [317029-asesinato-en-7o-grado-por-lo-menos.json](./317029-asesinato-en-7o-grado-por-lo-menos.json) |
 | Asesinato en 7º Grado 2 (La Huida) | 317030 | [317030-asesinato-en-7o-grado-2-la-huida.json](./317030-asesinato-en-7o-grado-2-la-huida.json) |
@@ -16496,6 +16501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astronaut Simulator | 35580 | [35580-astronaut-simulator.json](./35580-astronaut-simulator.json) |
 | Astronaut Simulator | 396223 | [396223-astronaut-simulator.json](./396223-astronaut-simulator.json) |
 | Astronaut Spacewalk | 174354 | [174354-astronaut-spacewalk.json](./174354-astronaut-spacewalk.json) |
+| Astronaut: The Moon Eclipse | 110475 | [110475-astronaut-the-moon-eclipse.json](./110475-astronaut-the-moon-eclipse.json) |
 | Astronauters | 252690 | [252690-astronauters.json](./252690-astronauters.json) |
 | Astronave | 292265 | [292265-astronave.json](./292265-astronave.json) |
 | Astroneer: Athlesiure Bundle | 280146 | [280146-astroneer-athlesiure-bundle.json](./280146-astroneer-athlesiure-bundle.json) |
@@ -17299,6 +17305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack Hole: Hero Edition | 349593 | [349593-attack-hole-hero-edition.json](./349593-attack-hole-hero-edition.json) |
 | Attack of Insects | 56655 | [56655-attack-of-insects.json](./56655-attack-of-insects.json) |
 | Attack of Jeff the Killer: Scary Slender Life | 63154 | [63154-attack-of-jeff-the-killer-scary-slender-life.json](./63154-attack-of-jeff-the-killer-scary-slender-life.json) |
+| Attack of Mutants | 110466 | [110466-attack-of-mutants.json](./110466-attack-of-mutants.json) |
 | Attack of the Alien Robot Monsters | 114745 | [114745-attack-of-the-alien-robot-monsters.json](./114745-attack-of-the-alien-robot-monsters.json) |
 | Attack of the alien thingies from lava! | 129617 | [129617-attack-of-the-alien-thingies-from-lava.json](./129617-attack-of-the-alien-thingies-from-lava.json) |
 | Attack of the Astrals | 384306 | [384306-attack-of-the-astrals.json](./384306-attack-of-the-astrals.json) |
