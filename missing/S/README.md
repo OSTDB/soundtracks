@@ -860,6 +860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Alien 2 | 216532 | [216532-sakura-alien-2.json](./216532-sakura-alien-2.json) |
 | Sakura Alien 3 | 340673 | [340673-sakura-alien-3.json](./340673-sakura-alien-3.json) |
 | Sakura Amidst Chaos | 238892 | [238892-sakura-amidst-chaos.json](./238892-sakura-amidst-chaos.json) |
+| Sakura and Crit: The Mock Game | 105563 | [105563-sakura-and-crit-the-mock-game.json](./105563-sakura-and-crit-the-mock-game.json) |
 | Sakura And The Airyvixen | 289539 | [289539-sakura-and-the-airyvixen.json](./289539-sakura-and-the-airyvixen.json) |
 | Sakura Angels | 197621 | [197621-sakura-angels.json](./197621-sakura-angels.json) |
 | Sakura Apprentice | 254981 | [254981-sakura-apprentice.json](./254981-sakura-apprentice.json) |
@@ -1042,6 +1043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sales, Science & Spirits | 384554 | [384554-sales-science-and-spirits.json](./384554-sales-science-and-spirits.json) |
 | Saliens | 104692 | [104692-saliens.json](./104692-saliens.json) |
 | Saligia | 163014 | [163014-saligia.json](./163014-saligia.json) |
+| Salio | 105568 | [105568-salio.json](./105568-salio.json) |
 | Sally | 125594 | [125594-sally.json](./125594-sally.json) |
 | Sally | 152186 | [152186-sally.json](./152186-sally.json) |
 | Sally 3 | 123199 | [123199-sally-3.json](./123199-sally-3.json) |
@@ -1503,6 +1505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | San Francisco Rush: Extreme Racing | 264854 | [264854-san-francisco-rush-extreme-racing.json](./264854-san-francisco-rush-extreme-racing.json) |
 | San Francisco Rush: Extreme Racing | 3595 | [3595-san-francisco-rush-extreme-racing.json](./3595-san-francisco-rush-extreme-racing.json) |
 | San Francisco Rush: The Rock Alcatraz Edition | 122731 | [122731-san-francisco-rush-the-rock-alcatraz-edition.json](./122731-san-francisco-rush-the-rock-alcatraz-edition.json) |
+| San Juan | 105463 | [105463-san-juan.json](./105463-san-juan.json) |
 | San Matias: Mafia City | 86342 | [86342-san-matias-mafia-city.json](./86342-san-matias-mafia-city.json) |
 | San Xing Dui | 257235 | [257235-san-xing-dui.json](./257235-san-xing-dui.json) |
 | San Zoolin | 202132 | [202132-san-zoolin.json](./202132-san-zoolin.json) |
@@ -5415,6 +5418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Self-Reliance | 114920 | [114920-self-reliance.json](./114920-self-reliance.json) |
 | Self: Where's My Father | 164740 | [164740-self-wheres-my-father.json](./164740-self-wheres-my-father.json) |
 | Selfie : Sisters of the Amniotic Lens | 17176 | [17176-selfie-sisters-of-the-amniotic-lens.json](./17176-selfie-sisters-of-the-amniotic-lens.json) |
+| Selfie Games [TV]: Party Game | 105494 | [105494-selfie-games-tv-party-game.json](./105494-selfie-games-tv-party-game.json) |
 | Selfie Games: A TV Party Game | 112149 | [112149-selfie-games-a-tv-party-game.json](./112149-selfie-games-a-tv-party-game.json) |
 | Selfie Girls | 271596 | [271596-selfie-girls.json](./271596-selfie-girls.json) |
 | Selfie Worm | 404362 | [404362-selfie-worm.json](./404362-selfie-worm.json) |
@@ -15125,6 +15129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snail Detective | 116008 | [116008-snail-detective.json](./116008-snail-detective.json) |
 | Snail Mail | 84877 | [84877-snail-mail.json](./84877-snail-mail.json) |
 | Snail Maze | 46118 | [46118-snail-maze.json](./46118-snail-maze.json) |
+| Snail Runner | 105470 | [105470-snail-runner.json](./105470-snail-runner.json) |
 | Snail Simulator | 272721 | [272721-snail-simulator.json](./272721-snail-simulator.json) |
 | Snail Storm | 185330 | [185330-snail-storm.json](./185330-snail-storm.json) |
 | Snail Story: Love Edition | 193500 | [193500-snail-story-love-edition.json](./193500-snail-story-love-edition.json) |
@@ -19864,6 +19869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Dragons | 188618 | [188618-space-dragons.json](./188618-space-dragons.json) |
 | Space Dream | 41962 | [41962-space-dream.json](./41962-space-dream.json) |
 | Space Dreams | 245079 | [245079-space-dreams.json](./245079-space-dreams.json) |
+| Space Drift Squad | 105497 | [105497-space-drift-squad.json](./105497-space-drift-squad.json) |
 | Space Drifters 2D | 35036 | [35036-space-drifters-2d.json](./35036-space-drifters-2d.json) |
 | Space Drilling Station | 250028 | [250028-space-drilling-station.json](./250028-space-drilling-station.json) |
 | Space Drone | 379311 | [379311-space-drone.json](./379311-space-drone.json) |
@@ -26207,6 +26213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Start Again | 195353 | [195353-start-again.json](./195353-start-again.json) |
 | Start Again: A Prologue | 144092 | [144092-start-again-a-prologue.json](./144092-start-again-a-prologue.json) |
 | Start an Egg | 256043 | [256043-start-an-egg.json](./256043-start-an-egg.json) |
+| Start Bigfoot Quest | 105495 | [105495-start-bigfoot-quest.json](./105495-start-bigfoot-quest.json) |
 | Start Blackthorn Castle | 94973 | [94973-start-blackthorn-castle.json](./94973-start-blackthorn-castle.json) |
 | Start From School | 148780 | [148780-start-from-school.json](./148780-start-from-school.json) |
 | Start Over | 244584 | [244584-start-over.json](./244584-start-over.json) |
@@ -27862,6 +27869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storage Looter | 298154 | [298154-storage-looter.json](./298154-storage-looter.json) |
 | Storage Master | 212483 | [212483-storage-master.json](./212483-storage-master.json) |
 | Storage Warfare | 303220 | [303220-storage-warfare.json](./303220-storage-warfare.json) |
+| Store Crasher | 105574 | [105574-store-crasher.json](./105574-store-crasher.json) |
 | Store Empire | 332944 | [332944-store-empire.json](./332944-store-empire.json) |
 | Store Galore | 180915 | [180915-store-galore.json](./180915-store-galore.json) |
 | Store It! | 355035 | [355035-store-it.json](./355035-store-it.json) |
@@ -27917,6 +27925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Chasers | 117083 | [117083-storm-chasers.json](./117083-storm-chasers.json) |
 | Storm Chasers: Tornado Islands | 128984 | [128984-storm-chasers-tornado-islands.json](./128984-storm-chasers-tornado-islands.json) |
 | Storm Chasing Sim 2025: Tornado Hunter | 374676 | [374676-storm-chasing-sim-2025-tornado-hunter.json](./374676-storm-chasing-sim-2025-tornado-hunter.json) |
+| Storm Chatelain | 105468 | [105468-storm-chatelain.json](./105468-storm-chatelain.json) |
 | Storm Clan | 406304 | [406304-storm-clan.json](./406304-storm-clan.json) |
 | Storm Cleaner | 314765 | [314765-storm-cleaner.json](./314765-storm-cleaner.json) |
 | Storm Generations | 99666 | [99666-storm-generations.json](./99666-storm-generations.json) |
@@ -29831,6 +29840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Adventure | 135861 | [135861-subway-adventure.json](./135861-subway-adventure.json) |
 | Subway Builder | 370450 | [370450-subway-builder.json](./370450-subway-builder.json) |
 | Subway Clash 2 | 146715 | [146715-subway-clash-2.json](./146715-subway-clash-2.json) |
+| Subway Construction Simulator 2017 | 105486 | [105486-subway-construction-simulator-2017.json](./105486-subway-construction-simulator-2017.json) |
 | Subway Crisis | 308135 | [308135-subway-crisis.json](./308135-subway-crisis.json) |
 | Subway Driver Dream Emulator | 336117 | [336117-subway-driver-dream-emulator.json](./336117-subway-driver-dream-emulator.json) |
 | Subway Driving Sim | 108105 | [108105-subway-driving-sim.json](./108105-subway-driving-sim.json) |
@@ -33317,6 +33327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Racha | 112621 | [112621-super-racha.json](./112621-super-racha.json) |
 | Super Racing | 287563 | [287563-super-racing.json](./287563-super-racing.json) |
 | Super Racing | 46103 | [46103-super-racing.json](./46103-super-racing.json) |
+| Super Racing F Speed | 105469 | [105469-super-racing-f-speed.json](./105469-super-racing-f-speed.json) |
 | Super Rad Ball | 234505 | [234505-super-rad-ball.json](./234505-super-rad-ball.json) |
 | Super Rad Raygun | 25695 | [25695-super-rad-raygun.json](./25695-super-rad-raygun.json) |
 | Super Radish Witch | 135618 | [135618-super-radish-witch.json](./135618-super-radish-witch.json) |
