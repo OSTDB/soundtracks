@@ -7960,6 +7960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Gun | 243514 | [243514-rise-of-gun.json](./243514-rise-of-gun.json) |
 | Rise of Hegemony | 151947 | [151947-rise-of-hegemony.json](./151947-rise-of-hegemony.json) |
 | Rise of Heroes | 67671 | [67671-rise-of-heroes.json](./67671-rise-of-heroes.json) |
+| Rise of Humanity | 123701 | [123701-rise-of-humanity.json](./123701-rise-of-humanity.json) |
 | Rise of Immortals | 1053 | [1053-rise-of-immortals.json](./1053-rise-of-immortals.json) |
 | Rise of Immortals: Battle for Graxia | 2046 | [2046-rise-of-immortals-battle-for-graxia.json](./2046-rise-of-immortals-battle-for-graxia.json) |
 | Rise of Industry: 2130 | 154521 | [154521-rise-of-industry-2130.json](./154521-rise-of-industry-2130.json) |
