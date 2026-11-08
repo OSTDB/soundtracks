@@ -11186,6 +11186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distressed | 320932 | [320932-distressed.json](./320932-distressed.json) |
 | Distribution Center | 262306 | [262306-distribution-center.json](./262306-distribution-center.json) |
 | Distributor Simulator | 237285 | [237285-distributor-simulator.json](./237285-distributor-simulator.json) |
+| District 112 Incident: Bowling Alley | 99056 | [99056-district-112-incident-bowling-alley.json](./99056-district-112-incident-bowling-alley.json) |
 | District 187 | 23541 | [23541-district-187.json](./23541-district-187.json) |
 | District 187: Sin Streets | 64236 | [64236-district-187-sin-streets.json](./64236-district-187-sin-streets.json) |
 | District 7 | 74282 | [74282-district-7.json](./74282-district-7.json) |
