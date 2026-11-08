@@ -977,7 +977,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1205,6 +1204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakery Master | 147091 | [147091-bakery-master.json](./147091-bakery-master.json) |
 | Bakery Shop Match Up | 338187 | [338187-bakery-shop-match-up.json](./338187-bakery-shop-match-up.json) |
 | Bakery Shop Simulator | 145637 | [145637-bakery-shop-simulator.json](./145637-bakery-shop-simulator.json) |
+| Bakery Simulator | 115226 | [115226-bakery-simulator.json](./115226-bakery-simulator.json) |
 | Bakery Story | 39198 | [39198-bakery-story.json](./39198-bakery-story.json) |
 | Bakery Story 2 | 349297 | [349297-bakery-story-2.json](./349297-bakery-story-2.json) |
 | BakeryDiary | 391624 | [391624-bakerydiary.json](./391624-bakerydiary.json) |
@@ -3850,6 +3850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Jump | 83856 | [83856-battle-jump.json](./83856-battle-jump.json) |
 | Battle Junk | 274932 | [274932-battle-junk.json](./274932-battle-junk.json) |
 | Battle K-Road | 39561 | [39561-battle-k-road.json](./39561-battle-k-road.json) |
+| Battle Kaola Rogue | 115209 | [115209-battle-kaola-rogue.json](./115209-battle-kaola-rogue.json) |
 | Battle Kart 64 | 248308 | [248308-battle-kart-64.json](./248308-battle-kart-64.json) |
 | Battle Kid 2: Mountain of Torment | 48370 | [48370-battle-kid-2-mountain-of-torment.json](./48370-battle-kid-2-mountain-of-torment.json) |
 | Battle Kid: Fortress of Peril | 11145 | [11145-battle-kid-fortress-of-peril.json](./11145-battle-kid-fortress-of-peril.json) |
@@ -13783,6 +13784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bot Slash Bot | 361871 | [361871-bot-slash-bot.json](./361871-bot-slash-bot.json) |
 | Bot Tales: The Crashed | 104048 | [104048-bot-tales-the-crashed.json](./104048-bot-tales-the-crashed.json) |
 | Bot Vice | 22751 | [22751-bot-vice.json](./22751-bot-vice.json) |
+| Bot War | 115241 | [115241-bot-war.json](./115241-bot-war.json) |
 | Bot Wars | 169024 | [169024-bot-wars.json](./169024-bot-wars.json) |
 | Bot Warzone | 281970 | [281970-bot-warzone.json](./281970-bot-warzone.json) |
 | Bot World | 226193 | [226193-bot-world.json](./226193-bot-world.json) |
