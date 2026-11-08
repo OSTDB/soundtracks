@@ -793,6 +793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xiàngsù Nányǒu Yǔyīn: Wánzhěng Bǎn | 161382 | [161382-xiangsu-nanyou-yuyin-wanzheng-ban.json](./161382-xiangsu-nanyou-yuyin-wanzheng-ban.json) |
 | Xiàngzhe Xīngchén yǔ Shēnyuān | 269475 | [269475-xiangzhe-xingchen-yu-shenyuan.json](./269475-xiangzhe-xingchen-yu-shenyuan.json) |
 | Xiānjiànjué Wǎngluòbǎn | 161328 | [161328-xianjianjue-wangluoban.json](./161328-xianjianjue-wangluoban.json) |
+| Xiānjiè Chuánshuō | 99294 | [99294-xianjie-chuanshuo.json](./99294-xianjie-chuanshuo.json) |
 | Xiānjiè Huàn Shì Lù | 368728 | [368728-xianjie-huan-shi-lu.json](./368728-xianjie-huan-shi-lu.json) |
 | Xiānlù Zhìyì | 164060 | [164060-xianlu-zhiyi.json](./164060-xianlu-zhiyi.json) |
 | Xiānmó Lìng zhī Xuānyuán Jiàn | 154146 | [154146-xianmo-ling-zhi-xuanyuan-jian.json](./154146-xianmo-ling-zhi-xuanyuan-jian.json) |
