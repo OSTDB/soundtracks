@@ -497,6 +497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backfire! | 37139 | [37139-backfire.json](./37139-backfire.json) |
 | Backflip | 293630 | [293630-backflip.json](./293630-backflip.json) |
 | Backflip Madness 2 | 379175 | [379175-backflip-madness-2.json](./379175-backflip-madness-2.json) |
+| Backforce System | 82283 | [82283-backforce-system.json](./82283-backforce-system.json) |
 | Backgaminion | 244920 | [244920-backgaminion.json](./244920-backgaminion.json) |
 | Backgammon | 131512 | [131512-backgammon.json](./131512-backgammon.json) |
 | Backgammon | 14280 | [14280-backgammon.json](./14280-backgammon.json) |
@@ -8981,6 +8982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bits and Pieces | 245102 | [245102-bits-and-pieces.json](./245102-bits-and-pieces.json) |
 | Bits and Pieces | 277078 | [277078-bits-and-pieces.json](./277078-bits-and-pieces.json) |
 | Bits at Work | 338242 | [338242-bits-at-work.json](./338242-bits-at-work.json) |
+| Bits n Bullets | 82264 | [82264-bits-n-bullets.json](./82264-bits-n-bullets.json) |
 | Bits on the Fritz | 96782 | [96782-bits-on-the-fritz.json](./96782-bits-on-the-fritz.json) |
 | BitShift: BattleGrid | 32742 | [32742-bitshift-battlegrid.json](./32742-bitshift-battlegrid.json) |
 | BitSlaps | 364853 | [364853-bitslaps.json](./364853-bitslaps.json) |
