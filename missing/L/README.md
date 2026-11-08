@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady's Escape | 367388 | [367388-ladys-escape.json](./367388-ladys-escape.json) |
 | Lady's Hentai Mosaic | 112981 | [112981-ladys-hentai-mosaic.json](./112981-ladys-hentai-mosaic.json) |
 | Lady's Tourney | 385620 | [385620-ladys-tourney.json](./385620-ladys-tourney.json) |
+| Ladybird Reflect | 96161 | [96161-ladybird-reflect.json](./96161-ladybird-reflect.json) |
 | LadyBug | 141525 | [141525-ladybug.json](./141525-ladybug.json) |
 | Ladybug dress up | 101588 | [101588-ladybug-dress-up.json](./101588-ladybug-dress-up.json) |
 | Ladybug Quest | 113753 | [113753-ladybug-quest.json](./113753-ladybug-quest.json) |
@@ -2683,6 +2684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Kunoichi | 59368 | [59368-legend-of-kunoichi.json](./59368-legend-of-kunoichi.json) |
 | Legend of Labot: The Golden Pearl | 173280 | [173280-legend-of-labot-the-golden-pearl.json](./173280-legend-of-labot-the-golden-pearl.json) |
 | Legend of Legaia | 13676 | [13676-legend-of-legaia.json](./13676-legend-of-legaia.json) |
+| Legend of Long Night | 96163 | [96163-legend-of-long-night.json](./96163-legend-of-long-night.json) |
 | Legend of Love | 290632 | [290632-legend-of-love.json](./290632-legend-of-love.json) |
 | Legend of Makai | 39957 | [39957-legend-of-makai.json](./39957-legend-of-makai.json) |
 | Legend of Mana | 143616 | [143616-legend-of-mana.json](./143616-legend-of-mana.json) |
@@ -9392,6 +9394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LR2oraja | 340284 | [340284-lr2oraja.json](./340284-lr2oraja.json) |
 | Lrrl or Rllr | 169441 | [169441-lrrl-or-rllr.json](./169441-lrrl-or-rllr.json) |
 | Ls | 229389 | [229389-ls.json](./229389-ls.json) |
+| LSD | 96168 | [96168-lsd.json](./96168-lsd.json) |
 | LSD Battlefield Simulator | 340927 | [340927-lsd-battlefield-simulator.json](./340927-lsd-battlefield-simulator.json) |
 | LSD: Dream Emulator | 9235 | [9235-lsd-dream-emulator.json](./9235-lsd-dream-emulator.json) |
 | LSD: Dream Emulator Retro | 333780 | [333780-lsd-dream-emulator-retro.json](./333780-lsd-dream-emulator-retro.json) |
