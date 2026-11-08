@@ -6069,6 +6069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -14533,6 +14534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MKDD Extended v2.0 | 294564 | [294564-mkdd-extended-v2-0.json](./294564-mkdd-extended-v2-0.json) |
 | Mkhmkh | 343037 | [343037-mkhmkh.json](./343037-mkhmkh.json) |
 | MKL The Game | 331866 | [331866-mkl-the-game.json](./331866-mkl-the-game.json) |
+| MKZ | 100248 | [100248-mkz.json](./100248-mkz.json) |
 | MLB 06: The Show | 20525 | [20525-mlb-06-the-show.json](./20525-mlb-06-the-show.json) |
 | MLB 07: The Show | 7369 | [7369-mlb-07-the-show.json](./7369-mlb-07-the-show.json) |
 | MLB 08: The Show | 7370 | [7370-mlb-08-the-show.json](./7370-mlb-08-the-show.json) |
@@ -22559,6 +22561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystical Echoes | 149083 | [149083-mystical-echoes.json](./149083-mystical-echoes.json) |
 | Mystical Fighter | 45772 | [45772-mystical-fighter.json](./45772-mystical-fighter.json) |
 | Mystical Herbalists | 380195 | [380195-mystical-herbalists.json](./380195-mystical-herbalists.json) |
+| Mystical Island | 99891 | [99891-mystical-island.json](./99891-mystical-island.json) |
 | Mystical Lights | 164176 | [164176-mystical-lights.json](./164176-mystical-lights.json) |
 | Mystical Map | 204939 | [204939-mystical-map.json](./204939-mystical-map.json) |
 | Mystical Maritime Adventure | 324616 | [324616-mystical-maritime-adventure.json](./324616-mystical-maritime-adventure.json) |
