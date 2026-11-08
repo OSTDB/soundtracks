@@ -3330,6 +3330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maoten | 194576 | [194576-maoten.json](./194576-maoten.json) |
 | Maou Company | 292050 | [292050-maou-company.json](./292050-maou-company.json) |
 | Maou ga Ochiru Hi | 295047 | [295047-maou-ga-ochiru-hi.json](./295047-maou-ga-ochiru-hi.json) |
+| Maou no Musume-tachi | 109119 | [109119-maou-no-musume-tachi.json](./109119-maou-no-musume-tachi.json) |
 | Maou Shoujo Eri | 262262 | [262262-maou-shoujo-eri.json](./262262-maou-shoujo-eri.json) |
 | Maou's Crucible | 381740 | [381740-maous-crucible.json](./381740-maous-crucible.json) |
 | Maouisho: La Dolce Vita with Another World's Demon Lord | 279988 | [279988-maouisho-la-dolce-vita-with-another-worlds-demon-lord.json](./279988-maouisho-la-dolce-vita-with-another-worlds-demon-lord.json) |
@@ -5941,6 +5942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Max & the Magic Marker | 248557 | [248557-max-and-the-magic-marker.json](./248557-max-and-the-magic-marker.json) |
 | Max & the Magic Marker | 5000 | [5000-max-and-the-magic-marker.json](./5000-max-and-the-magic-marker.json) |
 | Max & the Magic Marker - Remastered | 96301 | [96301-max-and-the-magic-marker-remastered.json](./96301-max-and-the-magic-marker-remastered.json) |
+| Max Ammo | 109132 | [109132-max-ammo.json](./109132-max-ammo.json) |
 | Max and Marie Go Shopping | 128858 | [128858-max-and-marie-go-shopping.json](./128858-max-and-marie-go-shopping.json) |
 | Max and Maya: Cat simulator | 81891 | [81891-max-and-maya-cat-simulator.json](./81891-max-and-maya-cat-simulator.json) |
 | Max and Sparky | 66887 | [66887-max-and-sparky.json](./66887-max-and-sparky.json) |
@@ -12972,6 +12974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Boxing | 243721 | [243721-mini-boxing.json](./243721-mini-boxing.json) |
 | Mini Car Coin Collector | 390609 | [390609-mini-car-coin-collector.json](./390609-mini-car-coin-collector.json) |
 | Mini Car Money Chase | 156768 | [156768-mini-car-money-chase.json](./156768-mini-car-money-chase.json) |
+| Mini Car Racing | 109100 | [109100-mini-car-racing.json](./109100-mini-car-racing.json) |
 | Mini Car Racing | 148355 | [148355-mini-car-racing.json](./148355-mini-car-racing.json) |
 | Mini Car Racing 2 | 172864 | [172864-mini-car-racing-2.json](./172864-mini-car-racing-2.json) |
 | Mini Car Racing: Tiny Split Screen Tournament | 169157 | [169157-mini-car-racing-tiny-split-screen-tournament.json](./169157-mini-car-racing-tiny-split-screen-tournament.json) |
@@ -19345,6 +19348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Muck | 148397 | [148397-muck.json](./148397-muck.json) |
 | Mucorales | 285850 | [285850-mucorales.json](./285850-mucorales.json) |
 | Mud and Blood | 153415 | [153415-mud-and-blood.json](./153415-mud-and-blood.json) |
+| Mud and Blood: Recon | 109098 | [109098-mud-and-blood-recon.json](./109098-mud-and-blood-recon.json) |
 | Mud Monster Up Hill Madness | 104214 | [104214-mud-monster-up-hill-madness.json](./104214-mud-monster-up-hill-madness.json) |
 | Mud Pies | 322550 | [322550-mud-pies.json](./322550-mud-pies.json) |
 | Mud River | 171869 | [171869-mud-river.json](./171869-mud-river.json) |
@@ -19827,6 +19831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder on the Zinderneuf | 23929 | [23929-murder-on-the-zinderneuf.json](./23929-murder-on-the-zinderneuf.json) |
 | Murder Party: Horror Hunt | 274967 | [274967-murder-party-horror-hunt.json](./274967-murder-party-horror-hunt.json) |
 | Murder Reservation | 129205 | [129205-murder-reservation.json](./129205-murder-reservation.json) |
+| Murder Room | 109135 | [109135-murder-room.json](./109135-murder-room.json) |
 | Murder Strip | 399011 | [399011-murder-strip.json](./399011-murder-strip.json) |
 | Murder Workbook | 267228 | [267228-murder-workbook.json](./267228-murder-workbook.json) |
 | Murder Your Maker | 137186 | [137186-murder-your-maker.json](./137186-murder-your-maker.json) |
