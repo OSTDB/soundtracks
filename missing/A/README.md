@@ -5816,6 +5816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airplane Racer 2021 | 181019 | [181019-airplane-racer-2021.json](./181019-airplane-racer-2021.json) |
 | Airplane Racing Championship | 343496 | [343496-airplane-racing-championship.json](./343496-airplane-racing-championship.json) |
 | Airplane shooting spree | 157059 | [157059-airplane-shooting-spree.json](./157059-airplane-shooting-spree.json) |
+| Airplane Sky Voyage | 99282 | [99282-airplane-sky-voyage.json](./99282-airplane-sky-voyage.json) |
 | Airplane Tycoon | 166608 | [166608-airplane-tycoon.json](./166608-airplane-tycoon.json) |
 | Airplane Tycoon | 306638 | [306638-airplane-tycoon.json](./306638-airplane-tycoon.json) |
 | Airplane Tycoon: Evolution | 306640 | [306640-airplane-tycoon-evolution.json](./306640-airplane-tycoon-evolution.json) |
@@ -9502,6 +9503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Huntsmen | 181031 | [181031-ancient-huntsmen.json](./181031-ancient-huntsmen.json) |
 | Ancient Islands | 192031 | [192031-ancient-islands.json](./192031-ancient-islands.json) |
 | Ancient Islands | 192835 | [192835-ancient-islands.json](./192835-ancient-islands.json) |
+| Ancient Jewels 3: Cleopatra's Treasures | 99683 | [99683-ancient-jewels-3-cleopatras-treasures.json](./99683-ancient-jewels-3-cleopatras-treasures.json) |
 | Ancient Jewels 4: Babylon | 293955 | [293955-ancient-jewels-4-babylon.json](./293955-ancient-jewels-4-babylon.json) |
 | Ancient Journey | 101299 | [101299-ancient-journey.json](./101299-ancient-journey.json) |
 | Ancient Keys DX | 321448 | [321448-ancient-keys-dx.json](./321448-ancient-keys-dx.json) |
@@ -14147,6 +14149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arkansas 2125 | 410031 | [410031-arkansas-2125.json](./410031-arkansas-2125.json) |
 | Arkball | 102392 | [102392-arkball.json](./102392-arkball.json) |
 | ArkCraft: The Rebirth of the World | 312981 | [312981-arkcraft-the-rebirth-of-the-world.json](./312981-arkcraft-the-rebirth-of-the-world.json) |
+| Arkedo Series | 99819 | [99819-arkedo-series.json](./99819-arkedo-series.json) |
 | Arkedo Series: 01 Jump! | 79768 | [79768-arkedo-series-01-jump.json](./79768-arkedo-series-01-jump.json) |
 | Arkedo Series: 02 Swap! | 80166 | [80166-arkedo-series-02-swap.json](./80166-arkedo-series-02-swap.json) |
 | Arkedo Series: 03 Pixel! | 77112 | [77112-arkedo-series-03-pixel.json](./77112-arkedo-series-03-pixel.json) |
@@ -16689,6 +16692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asylum Denied | 382849 | [382849-asylum-denied.json](./382849-asylum-denied.json) |
 | Asylum K | 271993 | [271993-asylum-k.json](./271993-asylum-k.json) |
 | Asylum Night Shift | 90392 | [90392-asylum-night-shift.json](./90392-asylum-night-shift.json) |
+| Asylum Night Shift 3: Haunted Hospital | 99668 | [99668-asylum-night-shift-3-haunted-hospital.json](./99668-asylum-night-shift-3-haunted-hospital.json) |
 | Asylum Nightmares | 280668 | [280668-asylum-nightmares.json](./280668-asylum-nightmares.json) |
 | Asylum of Horror | 302092 | [302092-asylum-of-horror.json](./302092-asylum-of-horror.json) |
 | Asylum of the Dead | 126935 | [126935-asylum-of-the-dead.json](./126935-asylum-of-the-dead.json) |
