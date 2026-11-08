@@ -2417,6 +2417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: Metal Slug 4 | 106858 | [106858-aca-neo-geo-metal-slug-4.json](./106858-aca-neo-geo-metal-slug-4.json) |
 | ACA Neo Geo: Metal Slug 5 | 118571 | [118571-aca-neo-geo-metal-slug-5.json](./118571-aca-neo-geo-metal-slug-5.json) |
 | ACA Neo Geo: Metal Slug X | 99481 | [99481-aca-neo-geo-metal-slug-x.json](./99481-aca-neo-geo-metal-slug-x.json) |
+| ACA Neo Geo: Money Puzzle Exchanger | 104281 | [104281-aca-neo-geo-money-puzzle-exchanger.json](./104281-aca-neo-geo-money-puzzle-exchanger.json) |
 | ACA Neo Geo: Mutation Nation | 99477 | [99477-aca-neo-geo-mutation-nation.json](./99477-aca-neo-geo-mutation-nation.json) |
 | ACA Neo Geo: Nam-1975 | 28409 | [28409-aca-neo-geo-nam-1975.json](./28409-aca-neo-geo-nam-1975.json) |
 | ACA Neo Geo: Neo Geo Cup '98 - The Road to the Victory | 118573 | [118573-aca-neo-geo-neo-geo-cup-98-the-road-to-the-victory.json](./118573-aca-neo-geo-neo-geo-cup-98-the-road-to-the-victory.json) |
@@ -10696,6 +10697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animus Toil | 217753 | [217753-animus-toil.json](./217753-animus-toil.json) |
 | Animus: Harbinger | 125190 | [125190-animus-harbinger.json](./125190-animus-harbinger.json) |
 | Animus: Revenant | 151601 | [151601-animus-revenant.json](./151601-animus-revenant.json) |
+| Animyst | 104192 | [104192-animyst.json](./104192-animyst.json) |
 | Anipang | 412781 | [412781-anipang.json](./412781-anipang.json) |
 | Anipang Matchlike | 319436 | [319436-anipang-matchlike.json](./319436-anipang-matchlike.json) |
 | Anipocalypse | 238655 | [238655-anipocalypse.json](./238655-anipocalypse.json) |
@@ -17067,7 +17069,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -17595,6 +17596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Audition Next Gen | 123258 | [123258-audition-next-gen.json](./123258-audition-next-gen.json) |
 | Audition Online | 9555 | [9555-audition-online.json](./9555-audition-online.json) |
 | Audition Portable | 56520 | [56520-audition-portable.json](./56520-audition-portable.json) |
+| Audition VR: Idol | 104196 | [104196-audition-vr-idol.json](./104196-audition-vr-idol.json) |
 | Auditorium | 15282 | [15282-auditorium.json](./15282-auditorium.json) |
 | Auditorium HD | 21176 | [21176-auditorium-hd.json](./21176-auditorium-hd.json) |
 | Audo | 181348 | [181348-audo.json](./181348-audo.json) |
