@@ -1948,6 +1948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hard Time | 152241 | [152241-hard-time.json](./152241-hard-time.json) |
 | Hard Time | 54453 | [54453-hard-time.json](./54453-hard-time.json) |
 | Hard Time III | 310923 | [310923-hard-time-iii.json](./310923-hard-time-iii.json) |
+| Hard Time VIP | 89306 | [89306-hard-time-vip.json](./89306-hard-time-vip.json) |
 | Hard Times | 120684 | [120684-hard-times.json](./120684-hard-times.json) |
 | Hard Times at Sequoia State Park | 192388 | [192388-hard-times-at-sequoia-state-park.json](./192388-hard-times-at-sequoia-state-park.json) |
 | Hard to be a God | 20779 | [20779-hard-to-be-a-god.json](./20779-hard-to-be-a-god.json) |
@@ -2160,6 +2161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmonic Time-Bind Ritual Symphony | 259333 | [259333-harmonic-time-bind-ritual-symphony.json](./259333-harmonic-time-bind-ritual-symphony.json) |
 | Harmonies | 314626 | [314626-harmonies.json](./314626-harmonies.json) |
 | Harmonis: The Hand-Made Kingdoms | 287073 | [287073-harmonis-the-hand-made-kingdoms.json](./287073-harmonis-the-hand-made-kingdoms.json) |
+| Harmonium | 89323 | [89323-harmonium.json](./89323-harmonium.json) |
 | Harmonium: The Musical | 279616 | [279616-harmonium-the-musical.json](./279616-harmonium-the-musical.json) |
 | Harmonix Music VR | 24783 | [24783-harmonix-music-vr.json](./24783-harmonix-music-vr.json) |
 | Harmony | 131412 | [131412-harmony.json](./131412-harmony.json) |
@@ -2168,6 +2170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harmony | 266397 | [266397-harmony.json](./266397-harmony.json) |
 | Harmony | 371452 | [371452-harmony.json](./371452-harmony.json) |
 | Harmony 2 | 175050 | [175050-harmony-2.json](./175050-harmony-2.json) |
+| Harmony 3 | 89350 | [89350-harmony-3.json](./89350-harmony-3.json) |
 | Harmony in the Wild | 346717 | [346717-harmony-in-the-wild.json](./346717-harmony-in-the-wild.json) |
 | Harmony Islands | 237179 | [237179-harmony-islands.json](./237179-harmony-islands.json) |
 | Harmony of Fear | 337207 | [337207-harmony-of-fear.json](./337207-harmony-of-fear.json) |
@@ -7430,6 +7433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Objects: Items Find | 405154 | [405154-hidden-objects-items-find.json](./405154-hidden-objects-items-find.json) |
 | Hidden Objects: London - My Paradise: My Kitchen | 90802 | [90802-hidden-objects-london-my-paradise-my-kitchen.json](./90802-hidden-objects-london-my-paradise-my-kitchen.json) |
 | Hidden Objects: Messy Kitchen | 233218 | [233218-hidden-objects-messy-kitchen.json](./233218-hidden-objects-messy-kitchen.json) |
+| Hidden Objects: Million Dollar Home | 89317 | [89317-hidden-objects-million-dollar-home.json](./89317-hidden-objects-million-dollar-home.json) |
 | Hidden Objects: Mystery Crimes | 128818 | [128818-hidden-objects-mystery-crimes.json](./128818-hidden-objects-mystery-crimes.json) |
 | Hidden Objects: Mystery Stories | 47787 | [47787-hidden-objects-mystery-stories.json](./47787-hidden-objects-mystery-stories.json) |
 | Hidden Objects: Mystery Tree House - Dog Adventure: Find the Evidence Story | 101970 | [101970-hidden-objects-mystery-tree-house-dog-adventure-find-the-evidence-story.json](./101970-hidden-objects-mystery-tree-house-dog-adventure-find-the-evidence-story.json) |
