@@ -2115,6 +2115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong: Mystery Mansion | 107068 | [107068-mahjong-mystery-mansion.json](./107068-mahjong-mystery-mansion.json) |
 | Mahjong: Orient Mysteries | 402736 | [402736-mahjong-orient-mysteries.json](./402736-mahjong-orient-mysteries.json) |
 | Mahjong: Wolf's Stories | 177045 | [177045-mahjong-wolfs-stories.json](./177045-mahjong-wolfs-stories.json) |
+| Mahjong! | 108561 | [108561-mahjong.json](./108561-mahjong.json) |
 | Mahjongg | 328908 | [328908-mahjongg.json](./328908-mahjongg.json) |
 | Mahjongg 4 Deluxe | 24757 | [24757-mahjongg-4-deluxe.json](./24757-mahjongg-4-deluxe.json) |
 | Mahjongg Artifacts | 120513 | [120513-mahjongg-artifacts.json](./120513-mahjongg-artifacts.json) |
@@ -5183,6 +5184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Detective Archives: Rain Code Plus - Limited Edition | 300753 | [300753-master-detective-archives-rain-code-plus-limited-edition.json](./300753-master-detective-archives-rain-code-plus-limited-edition.json) |
 | Master Detective Archives: Rain Code Plus ^ Danganronpa 1, 2, V3 Bundle | 331534 | [331534-master-detective-archives-rain-code-plus-danganronpa-1-2-v3-bundle.json](./331534-master-detective-archives-rain-code-plus-danganronpa-1-2-v3-bundle.json) |
 | Master Detective Reiji Takatori: Mystery Investigation | 400168 | [400168-master-detective-reiji-takatori-mystery-investigation.json](./400168-master-detective-reiji-takatori-mystery-investigation.json) |
+| Master Driving | 108582 | [108582-master-driving.json](./108582-master-driving.json) |
 | Master Fighter IV | 48574 | [48574-master-fighter-iv.json](./48574-master-fighter-iv.json) |
 | Master Fighter VI' | 223027 | [223027-master-fighter-vi.json](./223027-master-fighter-vi.json) |
 | Master Games 1 | 60330 | [60330-master-games-1.json](./60330-master-games-1.json) |
@@ -5489,6 +5491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Match 3 Games | 98816 | [98816-match-3-games.json](./98816-match-3-games.json) |
 | Match 3 Jungle Treasure: Forgotten Jewels | 102513 | [102513-match-3-jungle-treasure-forgotten-jewels.json](./102513-match-3-jungle-treasure-forgotten-jewels.json) |
 | Match 3 Madness | 209552 | [209552-match-3-madness.json](./209552-match-3-madness.json) |
+| Match 3 Magic Lands: Fairy King's Quest | 108572 | [108572-match-3-magic-lands-fairy-kings-quest.json](./108572-match-3-magic-lands-fairy-kings-quest.json) |
 | Match 3 Revolution | 34498 | [34498-match-3-revolution.json](./34498-match-3-revolution.json) |
 | Match 3x3 Collection | 93972 | [93972-match-3x3-collection.json](./93972-match-3x3-collection.json) |
 | Match 4 | 200399 | [200399-match-4.json](./200399-match-4.json) |
@@ -12189,6 +12192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mimi's Delivery Dash | 96417 | [96417-mimis-delivery-dash.json](./96417-mimis-delivery-dash.json) |
 | Mimi's Party Fun | 209222 | [209222-mimis-party-fun.json](./209222-mimis-party-fun.json) |
 | Mimi's Restaurant helper | 387678 | [387678-mimis-restaurant-helper.json](./387678-mimis-restaurant-helper.json) |
+| Mimic | 108667 | [108667-mimic.json](./108667-mimic.json) |
 | Mimic | 268062 | [268062-mimic.json](./268062-mimic.json) |
 | Mimic | 269973 | [269973-mimic.json](./269973-mimic.json) |
 | Mimic | 275683 | [275683-mimic.json](./275683-mimic.json) |
