@@ -2406,6 +2406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACA Neo Geo: King of the Monsters 2 | 118569 | [118569-aca-neo-geo-king-of-the-monsters-2.json](./118569-aca-neo-geo-king-of-the-monsters-2.json) |
 | ACA Neo Geo: Kizuna Encounter | 113906 | [113906-aca-neo-geo-kizuna-encounter.json](./113906-aca-neo-geo-kizuna-encounter.json) |
 | ACA Neo Geo: Last Resort | 99748 | [99748-aca-neo-geo-last-resort.json](./99748-aca-neo-geo-last-resort.json) |
+| ACA Neo Geo: League Bowling | 105501 | [105501-aca-neo-geo-league-bowling.json](./105501-aca-neo-geo-league-bowling.json) |
 | ACA Neo Geo: Magical Drop II | 99509 | [99509-aca-neo-geo-magical-drop-ii.json](./99509-aca-neo-geo-magical-drop-ii.json) |
 | ACA Neo Geo: Magical Drop III | 88578 | [88578-aca-neo-geo-magical-drop-iii.json](./88578-aca-neo-geo-magical-drop-iii.json) |
 | ACA Neo Geo: Magician Lord | 68481 | [68481-aca-neo-geo-magician-lord.json](./68481-aca-neo-geo-magician-lord.json) |
@@ -3927,6 +3928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of the Mysterious World: The Lost of the Hearts | 394187 | [394187-adventures-of-the-mysterious-world-the-lost-of-the-hearts.json](./394187-adventures-of-the-mysterious-world-the-lost-of-the-hearts.json) |
 | Adventures of the Old Testament: The Bible Video Game | 211395 | [211395-adventures-of-the-old-testament-the-bible-video-game.json](./211395-adventures-of-the-old-testament-the-bible-video-game.json) |
 | Adventures of the Stalk of Celery | 404416 | [404416-adventures-of-the-stalk-of-celery.json](./404416-adventures-of-the-stalk-of-celery.json) |
+| Adventures of the Worm | 105483 | [105483-adventures-of-the-worm.json](./105483-adventures-of-the-worm.json) |
 | Adventures of Tom Sawyer | 48109 | [48109-adventures-of-tom-sawyer.json](./48109-adventures-of-tom-sawyer.json) |
 | Adventures of Tron | 11112 | [11112-adventures-of-tron.json](./11112-adventures-of-tron.json) |
 | Adventures of Two Foxes | 190781 | [190781-adventures-of-two-foxes.json](./190781-adventures-of-two-foxes.json) |
@@ -8176,6 +8178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Altf42 | 226217 | [226217-altf42.json](./226217-altf42.json) |
 | Altheia: The Wrath of Aferi | 151818 | [151818-altheia-the-wrath-of-aferi.json](./151818-altheia-the-wrath-of-aferi.json) |
 | Altidudes | 170630 | [170630-altidudes.json](./170630-altidudes.json) |
+| Altiros | 105490 | [105490-altiros.json](./105490-altiros.json) |
 | Altitude | 2357 | [2357-altitude.json](./2357-altitude.json) |
 | Altitude | 259358 | [259358-altitude.json](./259358-altitude.json) |
 | Altitude Adjustment | 279077 | [279077-altitude-adjustment.json](./279077-altitude-adjustment.json) |
@@ -8448,6 +8451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Animals Activity Center | 336615 | [336615-amazing-animals-activity-center.json](./336615-amazing-animals-activity-center.json) |
 | Amazing Baldi Simulator? | 106697 | [106697-amazing-baldi-simulator.json](./106697-amazing-baldi-simulator.json) |
 | Amazing Bats | 234468 | [234468-amazing-bats.json](./234468-amazing-bats.json) |
+| Amazing Beast Frog: Battle | 105491 | [105491-amazing-beast-frog-battle.json](./105491-amazing-beast-frog-battle.json) |
 | Amazing Birds Hunter | 244085 | [244085-amazing-birds-hunter.json](./244085-amazing-birds-hunter.json) |
 | Amazing Bomberman | 211494 | [211494-amazing-bomberman.json](./211494-amazing-bomberman.json) |
 | Amazing Breaker | 65493 | [65493-amazing-breaker.json](./65493-amazing-breaker.json) |
@@ -13774,6 +13778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena Masters: Legend Begins | 77587 | [77587-arena-masters-legend-begins.json](./77587-arena-masters-legend-begins.json) |
 | Arena Monarchy | 367917 | [367917-arena-monarchy.json](./367917-arena-monarchy.json) |
 | Arena of Block Puzzle | 302437 | [302437-arena-of-block-puzzle.json](./302437-arena-of-block-puzzle.json) |
+| Arena of cube | 105561 | [105561-arena-of-cube.json](./105561-arena-of-cube.json) |
 | Arena of Dreams | 305266 | [305266-arena-of-dreams.json](./305266-arena-of-dreams.json) |
 | Arena of Faith | 277259 | [277259-arena-of-faith.json](./277259-arena-of-faith.json) |
 | Arena of Fate | 6877 | [6877-arena-of-fate.json](./6877-arena-of-fate.json) |
@@ -17059,6 +17064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
