@@ -9710,6 +9710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blades of Crossed Hearts | 396313 | [396313-blades-of-crossed-hearts.json](./396313-blades-of-crossed-hearts.json) |
 | Blades of Exile | 19579 | [19579-blades-of-exile.json](./19579-blades-of-exile.json) |
 | Blades of Fury | 23260 | [23260-blades-of-fury.json](./23260-blades-of-fury.json) |
+| Blades of Gory | 126701 | [126701-blades-of-gory.json](./126701-blades-of-gory.json) |
 | Blades of Heaven | 72174 | [72174-blades-of-heaven.json](./72174-blades-of-heaven.json) |
 | Blades of Heroes: Samurai Rising | 216682 | [216682-blades-of-heroes-samurai-rising.json](./216682-blades-of-heroes-samurai-rising.json) |
 | Blades of Light & Shadow | 313744 | [313744-blades-of-light-and-shadow.json](./313744-blades-of-light-and-shadow.json) |
@@ -11321,6 +11322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodfront | 391730 | [391730-bloodfront.json](./391730-bloodfront.json) |
 | Bloodgeon | 125444 | [125444-bloodgeon.json](./125444-bloodgeon.json) |
 | Bloodgrounds | 303164 | [303164-bloodgrounds.json](./303164-bloodgrounds.json) |
+| Bloodholic | 126743 | [126743-bloodholic.json](./126743-bloodholic.json) |
 | Bloodhound | 195382 | [195382-bloodhound.json](./195382-bloodhound.json) |
 | Bloodia | 118394 | [118394-bloodia.json](./118394-bloodia.json) |
 | Bloodicide | 262270 | [262270-bloodicide.json](./262270-bloodicide.json) |
