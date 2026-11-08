@@ -2605,6 +2605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Viroids | 178981 | [178981-viroids.json](./178981-viroids.json) |
 | ViroMove | 118443 | [118443-viromove.json](./118443-viromove.json) |
 | Vironics | 390121 | [390121-vironics.json](./390121-vironics.json) |
+| Virry VR: Feel the Wild | 118506 | [118506-virry-vr-feel-the-wild.json](./118506-virry-vr-feel-the-wild.json) |
 | Virt-U-Mate | 156646 | [156646-virt-u-mate.json](./156646-virt-u-mate.json) |
 | Virtomae | 206526 | [206526-virtomae.json](./206526-virtomae.json) |
 | Virtu-Pilot | 282019 | [282019-virtu-pilot.json](./282019-virtu-pilot.json) |
