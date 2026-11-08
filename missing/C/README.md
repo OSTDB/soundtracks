@@ -1112,6 +1112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Campaigns on the Danube | 59498 | [59498-campaigns-on-the-danube.json](./59498-campaigns-on-the-danube.json) |
 | Campaña contra el Opio 2024 | 298967 | [298967-campana-contra-el-opio-2024.json](./298967-campana-contra-el-opio-2024.json) |
 | Campanella | 318469 | [318469-campanella.json](./318469-campanella.json) |
+| Camped Out! | 111257 | [111257-camped-out.json](./111257-camped-out.json) |
 | Campeones | 39117 | [39117-campeones.json](./39117-campeones.json) |
 | Camper Jumper Simulator | 31541 | [31541-camper-jumper-simulator.json](./31541-camper-jumper-simulator.json) |
 | Camper Renovator | 172131 | [172131-camper-renovator.json](./172131-camper-renovator.json) |
@@ -12105,6 +12106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | College Slam | 365698 | [365698-college-slam.json](./365698-college-slam.json) |
 | College Slam | 4541 | [4541-college-slam.json](./4541-college-slam.json) |
 | College Wrestling Manager 2026 | 384514 | [384514-college-wrestling-manager-2026.json](./384514-college-wrestling-manager-2026.json) |
+| Collidalot | 111148 | [111148-collidalot.json](./111148-collidalot.json) |
 | Collide | 87772 | [87772-collide.json](./87772-collide.json) |
 | Collide-a-Ball 2 | 123297 | [123297-collide-a-ball-2.json](./123297-collide-a-ball-2.json) |
 | Collider | 116268 | [116268-collider.json](./116268-collider.json) |
