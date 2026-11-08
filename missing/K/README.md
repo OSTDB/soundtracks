@@ -2856,6 +2856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3612,6 +3613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdoms Hegemony | 387620 | [387620-kingdoms-hegemony.json](./387620-kingdoms-hegemony.json) |
 | Kingdoms In Chaos | 142649 | [142649-kingdoms-in-chaos.json](./142649-kingdoms-in-chaos.json) |
 | Kingdoms of Age | 310896 | [310896-kingdoms-of-age.json](./310896-kingdoms-of-age.json) |
+| Kingdoms of Amalur: Re-Reckoning - Collector's Edition | 136017 | [136017-kingdoms-of-amalur-re-reckoning-collectors-edition.json](./136017-kingdoms-of-amalur-re-reckoning-collectors-edition.json) |
 | Kingdoms of Amalur: Re-Reckoning - Collector’s Edition | 138200 | [138200-kingdoms-of-amalur-re-reckoning-collector-s-edition.json](./138200-kingdoms-of-amalur-re-reckoning-collector-s-edition.json) |
 | Kingdoms of Amalur: Re-Reckoning - Fate Edition | 138198 | [138198-kingdoms-of-amalur-re-reckoning-fate-edition.json](./138198-kingdoms-of-amalur-re-reckoning-fate-edition.json) |
 | Kingdoms of Amalur: Re-Reckoning - Fatesworn | 138197 | [138197-kingdoms-of-amalur-re-reckoning-fatesworn.json](./138197-kingdoms-of-amalur-re-reckoning-fatesworn.json) |
