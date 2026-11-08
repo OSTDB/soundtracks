@@ -467,6 +467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 10 Years of Doom | 260499 | [260499-10-years-of-doom.json](./260499-10-years-of-doom.json) |
 | 10-103: Null Kelvin | 176835 | [176835-10-103-null-kelvin.json](./176835-10-103-null-kelvin.json) |
 | 10-33 Officer Down | 422841 | [422841-10-33-officer-down.json](./422841-10-33-officer-down.json) |
+| 10-4 Indirect Contact | 125549 | [125549-10-4-indirect-contact.json](./125549-10-4-indirect-contact.json) |
 | 10-Day Champion | 319123 | [319123-10-day-champion.json](./319123-10-day-champion.json) |
 | 10-in-1 Christmas Collection | 325891 | [325891-10-in-1-christmas-collection.json](./325891-10-in-1-christmas-collection.json) |
 | 10-in-1 Games Bundle for Kids & Toddlers | 324219 | [324219-10-in-1-games-bundle-for-kids-and-toddlers.json](./324219-10-in-1-games-bundle-for-kids-and-toddlers.json) |
@@ -2291,6 +2292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 38M Girls Project | 13667 | [13667-38m-girls-project.json](./13667-38m-girls-project.json) |
 | 39 Days to Mars | 32125 | [32125-39-days-to-mars.json](./32125-39-days-to-mars.json) |
 | 3918 | 63235 | [63235-3918.json](./63235-3918.json) |
+| 3am | 125579 | [125579-3am.json](./125579-3am.json) |
 | 3AM Anomaly Store | 419351 | [419351-3am-anomaly-store.json](./419351-3am-anomaly-store.json) |
 | 3AM Corp: The Balbazar Resort | 295151 | [295151-3am-corp-the-balbazar-resort.json](./295151-3am-corp-the-balbazar-resort.json) |
 | 3am in Leicester | 265444 | [265444-3am-in-leicester.json](./265444-3am-in-leicester.json) |
