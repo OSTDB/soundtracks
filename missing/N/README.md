@@ -3686,6 +3686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nexus Code | 402675 | [402675-nexus-code.json](./402675-nexus-code.json) |
 | Nexus Code Plus | 199949 | [199949-nexus-code-plus.json](./199949-nexus-code-plus.json) |
 | Nexus Defenders | 275978 | [275978-nexus-defenders.json](./275978-nexus-defenders.json) |
+| Nexus Defense: Desert Storm | 138360 | [138360-nexus-defense-desert-storm.json](./138360-nexus-defense-desert-storm.json) |
 | Nexus Legacy | 408038 | [408038-nexus-legacy.json](./408038-nexus-legacy.json) |
 | Nexus of the Dead God: The Microcosm | 406517 | [406517-nexus-of-the-dead-god-the-microcosm.json](./406517-nexus-of-the-dead-god-the-microcosm.json) |
 | Nexus PI | 289271 | [289271-nexus-pi.json](./289271-nexus-pi.json) |
