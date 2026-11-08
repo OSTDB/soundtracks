@@ -2965,6 +2965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast and Furious Arcade | 98694 | [98694-fast-and-furious-arcade.json](./98694-fast-and-furious-arcade.json) |
 | Fast and Low | 119529 | [119529-fast-and-low.json](./119529-fast-and-low.json) |
 | Fast as Duck | 277172 | [277172-fast-as-duck.json](./277172-fast-as-duck.json) |
+| Fast Ball Ping | 99197 | [99197-fast-ball-ping.json](./99197-fast-ball-ping.json) |
 | Fast Ball Spitter | 412239 | [412239-fast-ball-spitter.json](./412239-fast-ball-spitter.json) |
 | Fast Beat Battle Rider | 292288 | [292288-fast-beat-battle-rider.json](./292288-fast-beat-battle-rider.json) |
 | Fast Blast | 108503 | [108503-fast-blast.json](./108503-fast-blast.json) |
@@ -5446,6 +5447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Zone | 344288 | [344288-final-zone.json](./344288-final-zone.json) |
 | Final Zone II | 44314 | [44314-final-zone-ii.json](./44314-final-zone-ii.json) |
 | FinalAdventure | 118811 | [118811-finaladventure.json](./118811-finaladventure.json) |
+| FinalFire | 99049 | [99049-finalfire.json](./99049-finalfire.json) |
 | FinalFort | 231556 | [231556-finalfort.json](./231556-finalfort.json) |
 | Finalizer: Super Transformation | 40040 | [40040-finalizer-super-transformation.json](./40040-finalizer-super-transformation.json) |
 | Finalloop | 348779 | [348779-finalloop.json](./348779-finalloop.json) |
