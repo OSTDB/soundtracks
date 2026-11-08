@@ -17664,6 +17664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puio Puio | 321271 | [321271-puio-puio.json](./321271-puio-puio.json) |
 | PUIQ: Demons | 298053 | [298053-puiq-demons.json](./298053-puiq-demons.json) |
 | Puk | 195985 | [195985-puk.json](./195985-puk.json) |
+| Pukan Bye Bye | 93766 | [93766-pukan-bye-bye.json](./93766-pukan-bye-bye.json) |
 | Puke | 277256 | [277256-puke.json](./277256-puke.json) |
 | Puke Simulator | 76488 | [76488-puke-simulator.json](./76488-puke-simulator.json) |
 | Puke the Pirate | 268123 | [268123-puke-the-pirate.json](./268123-puke-the-pirate.json) |
