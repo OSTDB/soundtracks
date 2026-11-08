@@ -2714,6 +2714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Datenshi no Amai Yuuwaku x Kaikan Phrase | 67350 | [67350-datenshi-no-amai-yuuwaku-x-kaikan-phrase.json](./67350-datenshi-no-amai-yuuwaku-x-kaikan-phrase.json) |
 | Datepixel: A Nopixel Dating Sim | 184205 | [184205-datepixel-a-nopixel-dating-sim.json](./184205-datepixel-a-nopixel-dating-sim.json) |
 | Dates & Wires | 153522 | [153522-dates-and-wires.json](./153522-dates-and-wires.json) |
+| Dátí Yīngxióng: Xìbāo Shēngwùxué | 115250 | [115250-dati-yingxiong-xibao-shengwuxue.json](./115250-dati-yingxiong-xibao-shengwuxue.json) |
 | Datiddle | 240979 | [240979-datiddle.json](./240979-datiddle.json) |
 | Dating 4 Girls | 400931 | [400931-dating-4-girls.json](./400931-dating-4-girls.json) |
 | Dating after becoming Vtuber | 276682 | [276682-dating-after-becoming-vtuber.json](./276682-dating-after-becoming-vtuber.json) |
@@ -11826,6 +11827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dodge Club Party | 58693 | [58693-dodge-club-party.json](./58693-dodge-club-party.json) |
 | Dodge Club Pocket | 96105 | [96105-dodge-club-pocket.json](./96105-dodge-club-pocket.json) |
 | Dodge Dancer | 149577 | [149577-dodge-dancer.json](./149577-dodge-dancer.json) |
+| Dodge Diego | 115237 | [115237-dodge-diego.json](./115237-dodge-diego.json) |
 | Dodge Dots | 187686 | [187686-dodge-dots.json](./187686-dodge-dots.json) |
 | Dodge Dummy | 114351 | [114351-dodge-dummy.json](./114351-dodge-dummy.json) |
 | Dodge Everything | 381367 | [381367-dodge-everything.json](./381367-dodge-everything.json) |
@@ -16404,6 +16406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Records | 229745 | [229745-dream-records.json](./229745-dream-records.json) |
 | Dream Rhythm | 339568 | [339568-dream-rhythm.json](./339568-dream-rhythm.json) |
 | Dream Riders | 406861 | [406861-dream-riders.json](./406861-dream-riders.json) |
+| Dream Rose | 115211 | [115211-dream-rose.json](./115211-dream-rose.json) |
 | Dream RPG | 229599 | [229599-dream-rpg.json](./229599-dream-rpg.json) |
 | Dream Runner | 346877 | [346877-dream-runner.json](./346877-dream-runner.json) |
 | Dream Salon | 51033 | [51033-dream-salon.json](./51033-dream-salon.json) |
