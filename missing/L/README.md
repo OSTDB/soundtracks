@@ -531,6 +531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lagaf': Les Aventures de Moktar: Vol 1 - La Zoubida | 307197 | [307197-lagaf-les-aventures-de-moktar-vol-1-la-zoubida.json](./307197-lagaf-les-aventures-de-moktar-vol-1-la-zoubida.json) |
 | Laggerjack | 334813 | [334813-laggerjack.json](./334813-laggerjack.json) |
 | Laggy Fantasy Tactics | 222701 | [222701-laggy-fantasy-tactics.json](./222701-laggy-fantasy-tactics.json) |
+| Laghaim | 78830 | [78830-laghaim.json](./78830-laghaim.json) |
 | Lagnacure | 213197 | [213197-lagnacure.json](./213197-lagnacure.json) |
 | Lagnacure Legend | 93533 | [93533-lagnacure-legend.json](./93533-lagnacure-legend.json) |
 | Lagoda Odyssey | 231583 | [231583-lagoda-odyssey.json](./231583-lagoda-odyssey.json) |
@@ -2182,6 +2183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leafy Trails: Lost Soul | 265518 | [265518-leafy-trails-lost-soul.json](./265518-leafy-trails-lost-soul.json) |
 | Leafy Trails: Magic Tree | 264556 | [264556-leafy-trails-magic-tree.json](./264556-leafy-trails-magic-tree.json) |
 | League Bowling | 40206 | [40206-league-bowling.json](./40206-league-bowling.json) |
+| League Challenge | 78820 | [78820-league-challenge.json](./78820-league-challenge.json) |
 | League Funny | 243543 | [243543-league-funny.json](./243543-league-funny.json) |
 | League Manager 2022 | 188979 | [188979-league-manager-2022.json](./188979-league-manager-2022.json) |
 | League Manager 2023 | 235696 | [235696-league-manager-2023.json](./235696-league-manager-2023.json) |
