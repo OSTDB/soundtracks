@@ -4348,6 +4348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mariposa | 395588 | [395588-mariposa.json](./395588-mariposa.json) |
 | Mariposa and the Galaxy Man | 191904 | [191904-mariposa-and-the-galaxy-man.json](./191904-mariposa-and-the-galaxy-man.json) |
 | Marippy | 310649 | [310649-marippy.json](./310649-marippy.json) |
+| Marisa and Alice | 83712 | [83712-marisa-and-alice.json](./83712-marisa-and-alice.json) |
 | Marisa and Alice's Trap Tower Remake | 63064 | [63064-marisa-and-alices-trap-tower-remake.json](./63064-marisa-and-alices-trap-tower-remake.json) |
 | Marisa Matrix | 227906 | [227906-marisa-matrix.json](./227906-marisa-matrix.json) |
 | Marisa no Kagi | 216288 | [216288-marisa-no-kagi.json](./216288-marisa-no-kagi.json) |
@@ -5008,6 +5009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mascareri: Mask Making Simulator | 424005 | [424005-mascareri-mask-making-simulator.json](./424005-mascareri-mask-making-simulator.json) |
 | Maschinen Dolls | 260548 | [260548-maschinen-dolls.json](./260548-maschinen-dolls.json) |
 | Mascot Dunks | 90234 | [90234-mascot-dunks.json](./90234-mascot-dunks.json) |
+| Mascot Girl's Sexual Harassment Days | 83690 | [83690-mascot-girls-sexual-harassment-days.json](./83690-mascot-girls-sexual-harassment-days.json) |
 | Mascot Mayhem | 350004 | [350004-mascot-mayhem.json](./350004-mascot-mayhem.json) |
 | MASD | 193619 | [193619-masd.json](./193619-masd.json) |
 | Masefeh | 378443 | [378443-masefeh.json](./378443-masefeh.json) |
