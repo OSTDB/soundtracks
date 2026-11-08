@@ -14982,6 +14982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Outlast Trials: Terrified Toddler Pack | 366835 | [366835-the-outlast-trials-terrified-toddler-pack.json](./366835-the-outlast-trials-terrified-toddler-pack.json) |
 | The Outlast Trials: World of Heavyweights Pack | 366839 | [366839-the-outlast-trials-world-of-heavyweights-pack.json](./366839-the-outlast-trials-world-of-heavyweights-pack.json) |
 | The Outlaw and the Newcomer | 216998 | [216998-the-outlaw-and-the-newcomer.json](./216998-the-outlaw-and-the-newcomer.json) |
+| The Outlaw, the Drunk, & the Whore | 99284 | [99284-the-outlaw-the-drunk-and-the-whore.json](./99284-the-outlaw-the-drunk-and-the-whore.json) |
 | The Outlived | 108658 | [108658-the-outlived.json](./108658-the-outlived.json) |
 | The Outpost | 156055 | [156055-the-outpost.json](./156055-the-outpost.json) |
 | The Outpost Nine | 105325 | [105325-the-outpost-nine.json](./105325-the-outpost-nine.json) |
@@ -30742,6 +30743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped | 148725 | [148725-trapped.json](./148725-trapped.json) |
 | Trapped | 305360 | [305360-trapped.json](./305360-trapped.json) |
 | Trapped | 360621 | [360621-trapped.json](./360621-trapped.json) |
+| Trapped | 99675 | [99675-trapped.json](./99675-trapped.json) |
 | Trapped 2 | 84296 | [84296-trapped-2.json](./84296-trapped-2.json) |
 | Trapped 2: Pirates | 311648 | [311648-trapped-2-pirates.json](./311648-trapped-2-pirates.json) |
 | Trapped at Home | 357698 | [357698-trapped-at-home.json](./357698-trapped-at-home.json) |
