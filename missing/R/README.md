@@ -1102,6 +1102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raidlands | 125826 | [125826-raidlands.json](./125826-raidlands.json) |
 | Raidol: Injoku ni Ochita Seiningyou | 108970 | [108970-raidol-injoku-ni-ochita-seiningyou.json](./108970-raidol-injoku-ni-ochita-seiningyou.json) |
 | Raidou Remastered: Kuzunoha Village Trainings | 347332 | [347332-raidou-remastered-kuzunoha-village-trainings.json](./347332-raidou-remastered-kuzunoha-village-trainings.json) |
+| Raids & Puzzles: RPG Quest | 126143 | [126143-raids-and-puzzles-rpg-quest.json](./126143-raids-and-puzzles-rpg-quest.json) |
 | Raids Inc. | 244851 | [244851-raids-inc.json](./244851-raids-inc.json) |
 | Raids of Nohosphere | 116395 | [116395-raids-of-nohosphere.json](./116395-raids-of-nohosphere.json) |
 | RaidTitans | 128910 | [128910-raidtitans.json](./128910-raidtitans.json) |
@@ -10069,6 +10070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue 21 | 385427 | [385427-rogue-21.json](./385427-rogue-21.json) |
 | Rogue Aces | 84848 | [84848-rogue-aces.json](./84848-rogue-aces.json) |
 | Rogue Aces Deluxe | 139683 | [139683-rogue-aces-deluxe.json](./139683-rogue-aces-deluxe.json) |
+| Rogue Adventure | 126144 | [126144-rogue-adventure.json](./126144-rogue-adventure.json) |
 | Rogue Agent | 99655 | [99655-rogue-agent.json](./99655-rogue-agent.json) |
 | Rogue AI Simulator | 199269 | [199269-rogue-ai-simulator.json](./199269-rogue-ai-simulator.json) |
 | Rogue Alliance | 78968 | [78968-rogue-alliance.json](./78968-rogue-alliance.json) |
