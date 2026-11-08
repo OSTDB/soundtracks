@@ -5607,6 +5607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Find the Pairs | 328604 | [328604-find-the-pairs.json](./328604-find-the-pairs.json) |
 | Find the Pairs Memo Game for Kids | 273971 | [273971-find-the-pairs-memo-game-for-kids.json](./273971-find-the-pairs-memo-game-for-kids.json) |
 | Find the Pairs: Classic Memory Puzzle | 249577 | [249577-find-the-pairs-classic-memory-puzzle.json](./249577-find-the-pairs-classic-memory-puzzle.json) |
+| Find the Rabbit | 101126 | [101126-find-the-rabbit.json](./101126-find-the-rabbit.json) |
 | Find the Road | 242210 | [242210-find-the-road.json](./242210-find-the-road.json) |
 | Find the route | 27704 | [27704-find-the-route.json](./27704-find-the-route.json) |
 | Find the Sherlock Gnomes | 108580 | [108580-find-the-sherlock-gnomes.json](./108580-find-the-sherlock-gnomes.json) |
@@ -14123,6 +14124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fury of the Furries 2 | 226799 | [226799-fury-of-the-furries-2.json](./226799-fury-of-the-furries-2.json) |
 | Fury of the Gods | 35174 | [35174-fury-of-the-gods.json](./35174-fury-of-the-gods.json) |
 | Fury of West | 217126 | [217126-fury-of-west.json](./217126-fury-of-west.json) |
+| Fury Race | 100458 | [100458-fury-race.json](./100458-fury-race.json) |
 | Fury Race Survivor | 273491 | [273491-fury-race-survivor.json](./273491-fury-race-survivor.json) |
 | Fury Roads Survivor | 243322 | [243322-fury-roads-survivor.json](./243322-fury-roads-survivor.json) |
 | Fury Strike | 107918 | [107918-fury-strike.json](./107918-fury-strike.json) |
