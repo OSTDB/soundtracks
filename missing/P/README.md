@@ -1735,6 +1735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Puzzle | 319131 | [319131-paper-puzzle.json](./319131-paper-puzzle.json) |
 | Paper Puzzle Ⅱ | 320787 | [320787-paper-puzzle-ii.json](./320787-paper-puzzle-ii.json) |
 | Paper Quest | 29519 | [29519-paper-quest.json](./29519-paper-quest.json) |
+| Paper Racer: Stickman Racing | 87525 | [87525-paper-racer-stickman-racing.json](./87525-paper-racer-stickman-racing.json) |
 | Paper Red and the Spirits Ink | 305484 | [305484-paper-red-and-the-spirits-ink.json](./305484-paper-red-and-the-spirits-ink.json) |
 | Paper Robot | 394229 | [394229-paper-robot.json](./394229-paper-robot.json) |
 | Paper Shakespeare 3: Girl Werewolf Hamlet Absolutely Solves the War of the Roses | 398033 | [398033-paper-shakespeare-3-girl-werewolf-hamlet-absolutely-solves-the-war-of-the-roses.json](./398033-paper-shakespeare-3-girl-werewolf-hamlet-absolutely-solves-the-war-of-the-roses.json) |
@@ -4856,6 +4857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona Dancing Deluxe Twin Plus | 136764 | [136764-persona-dancing-deluxe-twin-plus.json](./136764-persona-dancing-deluxe-twin-plus.json) |
 | Persona Dancing: Endless Night Collection | 106988 | [106988-persona-dancing-endless-night-collection.json](./106988-persona-dancing-endless-night-collection.json) |
 | Persona Dancing: Persona Cinematic Selection | 362143 | [362143-persona-dancing-persona-cinematic-selection.json](./362143-persona-dancing-persona-cinematic-selection.json) |
+| Persona O.A. | 87504 | [87504-persona-o-a.json](./87504-persona-o-a.json) |
 | Persona Q: Shadow of the Labyrinth | 6887 | [6887-persona-q-shadow-of-the-labyrinth.json](./6887-persona-q-shadow-of-the-labyrinth.json) |
 | Persona Q: Shadow of the Labyrinth - Wild Cards Premium Edition | 41871 | [41871-persona-q-shadow-of-the-labyrinth-wild-cards-premium-edition.json](./41871-persona-q-shadow-of-the-labyrinth-wild-cards-premium-edition.json) |
 | Persona Q2: New Cinema Labyrinth | 54220 | [54220-persona-q2-new-cinema-labyrinth.json](./54220-persona-q2-new-cinema-labyrinth.json) |
