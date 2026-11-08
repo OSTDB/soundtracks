@@ -4929,6 +4929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light: Rebirth-The falsehood | 53274 | [53274-light-rebirth-the-falsehood.json](./53274-light-rebirth-the-falsehood.json) |
 | Light'em Up: For brainiacs only | 232495 | [232495-lightem-up-for-brainiacs-only.json](./232495-lightem-up-for-brainiacs-only.json) |
 | Light's End | 294179 | [294179-lights-end.json](./294179-lights-end.json) |
+| Light&Dark | 117218 | [117218-light-and-dark.json](./117218-light-and-dark.json) |
 | Light2Live | 153860 | [153860-light2live.json](./153860-light2live.json) |
 | Lightale | 131328 | [131328-lightale.json](./131328-lightale.json) |
 | LightBall | 167476 | [167476-lightball.json](./167476-lightball.json) |
