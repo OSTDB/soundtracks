@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jahangir Khan's World Championship Squash | 12645 | [12645-jahangir-khans-world-championship-squash.json](./12645-jahangir-khans-world-championship-squash.json) |
 | Jahmong | 327412 | [327412-jahmong.json](./327412-jahmong.json) |
 | Jahto: Savior of the Sky | 214152 | [214152-jahto-savior-of-the-sky.json](./214152-jahto-savior-of-the-sky.json) |
+| Jai Alai | 86156 | [86156-jai-alai.json](./86156-jai-alai.json) |
 | Jai Kali | 368556 | [368556-jai-kali.json](./368556-jai-kali.json) |
 | Jail Break | 28826 | [28826-jail-break.json](./28826-jail-break.json) |
 | Jail Dice: Roll to Break | 347343 | [347343-jail-dice-roll-to-break.json](./347343-jail-dice-roll-to-break.json) |
@@ -640,6 +641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janet's Planets | 400672 | [400672-janets-planets.json](./400672-janets-planets.json) |
 | Jang Pung 3 | 64793 | [64793-jang-pung-3.json](./64793-jang-pung-3.json) |
 | Jang-Du Jin Baduk Gyosil Ibmunpyeon | 130465 | [130465-jang-du-jin-baduk-gyosil-ibmunpyeon.json](./130465-jang-du-jin-baduk-gyosil-ibmunpyeon.json) |
+| Jang-Navi Mahjong Online | 86271 | [86271-jang-navi-mahjong-online.json](./86271-jang-navi-mahjong-online.json) |
 | Janga | 121629 | [121629-janga.json](./121629-janga.json) |
 | Janggi for Kakao | 126002 | [126002-janggi-for-kakao.json](./126002-janggi-for-kakao.json) |
 | Janggun | 145638 | [145638-janggun.json](./145638-janggun.json) |
@@ -1218,6 +1220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jester's Quest | 221163 | [221163-jesters-quest.json](./221163-jesters-quest.json) |
 | Jesters Poker | 87942 | [87942-jesters-poker.json](./87942-jesters-poker.json) |
 | Jesucristo: El Robot del Futuro | 302125 | [302125-jesucristo-el-robot-del-futuro.json](./302125-jesucristo-el-robot-del-futuro.json) |
+| Jesus | 86141 | [86141-jesus.json](./86141-jesus.json) |
 | Jesus Christ RPG | 18450 | [18450-jesus-christ-rpg.json](./18450-jesus-christ-rpg.json) |
 | Jesus Christ RPG Trilogy | 33371 | [33371-jesus-christ-rpg-trilogy.json](./33371-jesus-christ-rpg-trilogy.json) |
 | Jesus Christ Simulator | 303590 | [303590-jesus-christ-simulator.json](./303590-jesus-christ-simulator.json) |
