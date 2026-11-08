@@ -7046,6 +7046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Log.in | 133949 | [133949-log-in.json](./133949-log-in.json) |
 | Log.in | 381170 | [381170-log-in.json](./381170-log-in.json) |
 | Log(Hic!) | 92941 | [92941-log-hic.json](./92941-log-hic.json) |
+| Loga: Unexpected Adventure | 126755 | [126755-loga-unexpected-adventure.json](./126755-loga-unexpected-adventure.json) |
 | Logam vs Ksi | 108344 | [108344-logam-vs-ksi.json](./108344-logam-vs-ksi.json) |
 | Logan Paul Adventure | 259418 | [259418-logan-paul-adventure.json](./259418-logan-paul-adventure.json) |
 | Logan's Treasure | 98208 | [98208-logans-treasure.json](./98208-logans-treasure.json) |
@@ -7840,6 +7841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lord of Nightmares | 210204 | [210204-lord-of-nightmares.json](./210204-lord-of-nightmares.json) |
 | Lord of Ogre | 365078 | [365078-lord-of-ogre.json](./365078-lord-of-ogre.json) |
 | Lord of Rigel | 33640 | [33640-lord-of-rigel.json](./33640-lord-of-rigel.json) |
+| Lord of Sins | 126759 | [126759-lord-of-sins.json](./126759-lord-of-sins.json) |
 | Lord of Terror | 250490 | [250490-lord-of-terror.json](./250490-lord-of-terror.json) |
 | Lord of the Balrogs | 47225 | [47225-lord-of-the-balrogs.json](./47225-lord-of-the-balrogs.json) |
 | Lord of the Click 2 | 159778 | [159778-lord-of-the-click-2.json](./159778-lord-of-the-click-2.json) |
