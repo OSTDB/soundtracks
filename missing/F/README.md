@@ -6,6 +6,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 
 | Game | IGDB ID | File |
 |---|---|---|
+| F 2017 Le Mans Race | 95540 | [95540-f-2017-le-mans-race.json](./95540-f-2017-le-mans-race.json) |
 | F Class Adventurer | 231955 | [231955-f-class-adventurer.json](./231955-f-class-adventurer.json) |
 | F Fanatic | 402468 | [402468-f-fanatic.json](./402468-f-fanatic.json) |
 | F of X | 423208 | [423208-f-of-x.json](./423208-f-of-x.json) |
@@ -2505,6 +2506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Expert 2016: Farm Machines Pack | 263190 | [263190-farm-expert-2016-farm-machines-pack.json](./263190-farm-expert-2016-farm-machines-pack.json) |
 | Farm Expert 2017 | 25105 | [25105-farm-expert-2017.json](./25105-farm-expert-2017.json) |
 | Farm Expert 2017: Hard Terrain | 174133 | [174133-farm-expert-2017-hard-terrain.json](./174133-farm-expert-2017-hard-terrain.json) |
+| Farm Expert 2018 for Nintendo Switch | 95516 | [95516-farm-expert-2018-for-nintendo-switch.json](./95516-farm-expert-2018-for-nintendo-switch.json) |
 | Farm Expert 2019 | 112334 | [112334-farm-expert-2019.json](./112334-farm-expert-2019.json) |
 | Farm Factory Simulator | 406934 | [406934-farm-factory-simulator.json](./406934-farm-factory-simulator.json) |
 | Farm Fatale | 154159 | [154159-farm-fatale.json](./154159-farm-fatale.json) |
@@ -4938,6 +4940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final 5 | 231539 | [231539-final-5.json](./231539-final-5.json) |
 | Final 5: Survival! | 234332 | [234332-final-5-survival.json](./234332-final-5-survival.json) |
 | Final Apex | 289268 | [289268-final-apex.json](./289268-final-apex.json) |
+| Final Approach | 95485 | [95485-final-approach.json](./95485-final-approach.json) |
 | Final Approach: Pilot Edition | 32519 | [32519-final-approach-pilot-edition.json](./32519-final-approach-pilot-edition.json) |
 | Final Archer VR | 119489 | [119489-final-archer-vr.json](./119489-final-archer-vr.json) |
 | Final Armada | 43297 | [43297-final-armada.json](./43297-final-armada.json) |
@@ -12804,6 +12807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Warrior to Hero | 367751 | [367751-from-warrior-to-hero.json](./367751-from-warrior-to-hero.json) |
 | From Within | 177830 | [177830-from-within.json](./177830-from-within.json) |
 | From Within | 201434 | [201434-from-within.json](./201434-from-within.json) |
+| From Zero to Hero: Cityman | 95524 | [95524-from-zero-to-hero-cityman.json](./95524-from-zero-to-hero-cityman.json) |
 | From Zero to Slime Hero | 391687 | [391687-from-zero-to-slime-hero.json](./391687-from-zero-to-slime-hero.json) |
 | Fromage | 222913 | [222913-fromage.json](./222913-fromage.json) |
 | Fromage | 326059 | [326059-fromage.json](./326059-fromage.json) |
