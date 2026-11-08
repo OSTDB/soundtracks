@@ -9121,6 +9121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | An American Tail: Animated Movie Book | 280961 | [280961-an-american-tail-animated-movie-book.json](./280961-an-american-tail-animated-movie-book.json) |
 | An American Tail: Fievel Goes West | 217950 | [217950-an-american-tail-fievel-goes-west.json](./217950-an-american-tail-fievel-goes-west.json) |
 | An American Tail: Fievel Goes West | 2308 | [2308-an-american-tail-fievel-goes-west.json](./2308-an-american-tail-fievel-goes-west.json) |
+| An American Werewolf in LA | 135404 | [135404-an-american-werewolf-in-la.json](./135404-an-american-werewolf-in-la.json) |
 | An Angel's Final Desire | 319005 | [319005-an-angels-final-desire.json](./319005-an-angels-final-desire.json) |
 | An Angler's Light | 408596 | [408596-an-anglers-light.json](./408596-an-anglers-light.json) |
 | An Ankou | 250946 | [250946-an-ankou.json](./250946-an-ankou.json) |
@@ -9377,6 +9378,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Egypt | 358911 | [358911-ancient-egypt.json](./358911-ancient-egypt.json) |
 | Ancient Egypt | 85894 | [85894-ancient-egypt.json](./85894-ancient-egypt.json) |
 | Ancient Egyptian Mehen: The Forbidden Game of the Snake | 57567 | [57567-ancient-egyptian-mehen-the-forbidden-game-of-the-snake.json](./57567-ancient-egyptian-mehen-the-forbidden-game-of-the-snake.json) |
+| Ancient Empires | 135390 | [135390-ancient-empires.json](./135390-ancient-empires.json) |
+| Ancient Empires 2 | 135391 | [135391-ancient-empires-2.json](./135391-ancient-empires-2.json) |
 | Ancient Empires Reloaded | 207866 | [207866-ancient-empires-reloaded.json](./207866-ancient-empires-reloaded.json) |
 | Ancient Enemy | 111842 | [111842-ancient-enemy.json](./111842-ancient-enemy.json) |
 | Ancient Erotic Monster in the Labyrinth | 97833 | [97833-ancient-erotic-monster-in-the-labyrinth.json](./97833-ancient-erotic-monster-in-the-labyrinth.json) |
@@ -11121,6 +11124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anstoss 4: Edition 03/04 | 141468 | [141468-anstoss-4-edition-03-04.json](./141468-anstoss-4-edition-03-04.json) |
 | Anstoß Action | 98963 | [98963-ansto-action.json](./98963-ansto-action.json) |
 | Anstoss Premier Manager | 104973 | [104973-anstoss-premier-manager.json](./104973-anstoss-premier-manager.json) |
+| Ansuz | 135411 | [135411-ansuz.json](./135411-ansuz.json) |
 | Answer Back: Junior Quiz | 14257 | [14257-answer-back-junior-quiz.json](./14257-answer-back-junior-quiz.json) |
 | Answer Back: Senior Quiz | 14258 | [14258-answer-back-senior-quiz.json](./14258-answer-back-senior-quiz.json) |
 | Answer Campus | 260408 | [260408-answer-campus.json](./260408-answer-campus.json) |
@@ -11279,6 +11283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antiem | 183856 | [183856-antiem.json](./183856-antiem.json) |
 | Antifector | 110709 | [110709-antifector.json](./110709-antifector.json) |
 | Antiflux | 32656 | [32656-antiflux.json](./32656-antiflux.json) |
+| Antigas Constelações: Sobre a Vila Itororó | 135405 | [135405-antigas-constelacoes-sobre-a-vila-itororo.json](./135405-antigas-constelacoes-sobre-a-vila-itororo.json) |
 | AntiGolfity | 260293 | [260293-antigolfity.json](./260293-antigolfity.json) |
 | Antigrams | 98521 | [98521-antigrams.json](./98521-antigrams.json) |
 | Antigrav | 43521 | [43521-antigrav.json](./43521-antigrav.json) |
