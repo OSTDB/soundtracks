@@ -206,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vagante | 19150 | [19150-vagante.json](./19150-vagante.json) |
 | Vagnerun | 324339 | [324339-vagnerun.json](./324339-vagnerun.json) |
 | Vagrant Fighter FX | 98259 | [98259-vagrant-fighter-fx.json](./98259-vagrant-fighter-fx.json) |
+| Vagrant Fury | 109831 | [109831-vagrant-fury.json](./109831-vagrant-fury.json) |
 | Vagrant Hearts | 25470 | [25470-vagrant-hearts.json](./25470-vagrant-hearts.json) |
 | Vagrant Hearts 2 | 35480 | [35480-vagrant-hearts-2.json](./35480-vagrant-hearts-2.json) |
 | Vagrant Hearts Zero | 28938 | [28938-vagrant-hearts-zero.json](./28938-vagrant-hearts-zero.json) |
@@ -268,6 +269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ValeGuard | 97901 | [97901-valeguard.json](./97901-valeguard.json) |
 | Valehands | 422782 | [422782-valehands.json](./422782-valehands.json) |
 | Valehona Tap! | 406679 | [406679-valehona-tap.json](./406679-valehona-tap.json) |
+| Valencia Saga: Sophia's rebirth | 109844 | [109844-valencia-saga-sophias-rebirth.json](./109844-valencia-saga-sophias-rebirth.json) |
 | Valencia Surehunter: Staff of the Irismancer | 360544 | [360544-valencia-surehunter-staff-of-the-irismancer.json](./360544-valencia-surehunter-staff-of-the-irismancer.json) |
 | Valendor | 398807 | [398807-valendor.json](./398807-valendor.json) |
 | Valenium | 382294 | [382294-valenium.json](./382294-valenium.json) |
@@ -2284,6 +2286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vikings on Trampolines | 92493 | [92493-vikings-on-trampolines.json](./92493-vikings-on-trampolines.json) |
 | Vikings Pinball | 309638 | [309638-vikings-pinball.json](./309638-vikings-pinball.json) |
 | Vikings vs. Dragons | 241541 | [241541-vikings-vs-dragons.json](./241541-vikings-vs-dragons.json) |
+| Vikings vs. Waves | 109945 | [109945-vikings-vs-waves.json](./109945-vikings-vs-waves.json) |
 | Vikings Wars | 128981 | [128981-vikings-wars.json](./128981-vikings-wars.json) |
 | Vikings: Age of the Axe | 149504 | [149504-vikings-age-of-the-axe.json](./149504-vikings-age-of-the-axe.json) |
 | Vikings: For Valhalla | 216062 | [216062-vikings-for-valhalla.json](./216062-vikings-for-valhalla.json) |
@@ -4152,6 +4155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Titanic: Find the Rose | 156958 | [156958-vr-titanic-find-the-rose.json](./156958-vr-titanic-find-the-rose.json) |
 | VR TKA Surgery Simulator | 278946 | [278946-vr-tka-surgery-simulator.json](./278946-vr-tka-surgery-simulator.json) |
 | VR Tomb's Secrets2 | 102248 | [102248-vr-tombs-secrets2.json](./102248-vr-tombs-secrets2.json) |
+| VR Tower Defense | 109946 | [109946-vr-tower-defense.json](./109946-vr-tower-defense.json) |
 | VR Tractor Farming | 248032 | [248032-vr-tractor-farming.json](./248032-vr-tractor-farming.json) |
 | VR Traffic Safety with Polly | 338564 | [338564-vr-traffic-safety-with-polly.json](./338564-vr-traffic-safety-with-polly.json) |
 | VR Training: Fire Safety | 193017 | [193017-vr-training-fire-safety.json](./193017-vr-training-fire-safety.json) |
