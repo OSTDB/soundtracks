@@ -974,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -8045,6 +8046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Binary Domain Collection | 52629 | [52629-binary-domain-collection.json](./52629-binary-domain-collection.json) |
 | Binary Dungeon | 280085 | [280085-binary-dungeon.json](./280085-binary-dungeon.json) |
 | Binary Escape | 274351 | [274351-binary-escape.json](./274351-binary-escape.json) |
+| Binary Fighter | 135412 | [135412-binary-fighter.json](./135412-binary-fighter.json) |
 | Binary Game | 369538 | [369538-binary-game.json](./369538-binary-game.json) |
 | Binary Gods | 142064 | [142064-binary-gods.json](./142064-binary-gods.json) |
 | Binary Heresy | 134983 | [134983-binary-heresy.json](./134983-binary-heresy.json) |
@@ -9918,6 +9920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaster Shooter GunGuy! | 34672 | [34672-blaster-shooter-gunguy.json](./34672-blaster-shooter-gunguy.json) |
 | Blaster Simulator | 9387 | [9387-blaster-simulator.json](./9387-blaster-simulator.json) |
 | Blaster Squad | 132215 | [132215-blaster-squad.json](./132215-blaster-squad.json) |
+| Blaster Tank | 135379 | [135379-blaster-tank.json](./135379-blaster-tank.json) |
 | Blaster! | 26483 | [26483-blaster.json](./26483-blaster.json) |
 | Blasterball 2: Revolution | 73203 | [73203-blasterball-2-revolution.json](./73203-blasterball-2-revolution.json) |
 | Blasterball 2: Revolution | 73221 | [73221-blasterball-2-revolution.json](./73221-blasterball-2-revolution.json) |
