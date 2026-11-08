@@ -11166,6 +11166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Brilliant Diamond and Pokémon Shining Pearl Double Pack | 150549 | [150549-pokemon-brilliant-diamond-and-pokemon-shining-pearl-double-pack.json](./150549-pokemon-brilliant-diamond-and-pokemon-shining-pearl-double-pack.json) |
 | Pokemon Broken Circuit | 239197 | [239197-pokemon-broken-circuit.json](./239197-pokemon-broken-circuit.json) |
 | Pokémon Bronze | 129585 | [129585-pokemon-bronze.json](./129585-pokemon-bronze.json) |
+| Pokémon Bronze Version 2 | 138959 | [138959-pokemon-bronze-version-2.json](./138959-pokemon-bronze-version-2.json) |
 | Pokémon Brown | 129586 | [129586-pokemon-brown.json](./129586-pokemon-brown.json) |
 | Pokémon Bushido | 146979 | [146979-pokemon-bushido.json](./146979-pokemon-bushido.json) |
 | Pokémon Café Mix | 135233 | [135233-pokemon-cafe-mix.json](./135233-pokemon-cafe-mix.json) |
@@ -11491,6 +11492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Phoenix Red | 397755 | [397755-pokemon-phoenix-red.json](./397755-pokemon-phoenix-red.json) |
 | Pokémon Photon | 361346 | [361346-pokemon-photon.json](./361346-pokemon-photon.json) |
 | Pokémon Photonic Sun | 214739 | [214739-pokemon-photonic-sun.json](./214739-pokemon-photonic-sun.json) |
+| Pokémon Picross | 138961 | [138961-pokemon-picross.json](./138961-pokemon-picross.json) |
 | Pokémon Picross | 20039 | [20039-pokemon-picross.json](./20039-pokemon-picross.json) |
 | Pokémon Pikachu | 194330 | [194330-pokemon-pikachu.json](./194330-pokemon-pikachu.json) |
 | Pokémon Pikachu 2 | 212726 | [212726-pokemon-pikachu-2.json](./212726-pokemon-pikachu-2.json) |
