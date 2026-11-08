@@ -2527,6 +2527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevator... to the Moon! | 69457 | [69457-elevator-to-the-moon.json](./69457-elevator-to-the-moon.json) |
 | Elevator...to the Moon!: Turbo Champion's Edition | 115468 | [115468-elevator-to-the-moon-turbo-champions-edition.json](./115468-elevator-to-the-moon-turbo-champions-edition.json) |
 | Elevators Amiss | 57580 | [57580-elevators-amiss.json](./57580-elevators-amiss.json) |
+| ElevatorVR | 127443 | [127443-elevatorvr.json](./127443-elevatorvr.json) |
 | Elevatrix | 316408 | [316408-elevatrix.json](./316408-elevatrix.json) |
 | Eleven | 179401 | [179401-eleven.json](./179401-eleven.json) |
 | Eleven | 361429 | [361429-eleven.json](./361429-eleven.json) |
