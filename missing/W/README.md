@@ -4877,6 +4877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who is the Hero of This Game | 195784 | [195784-who-is-the-hero-of-this-game.json](./195784-who-is-the-hero-of-this-game.json) |
 | Who is the Hero?: Lycoris | 135443 | [135443-who-is-the-hero-lycoris.json](./135443-who-is-the-hero-lycoris.json) |
 | Who is the Joker? | 298424 | [298424-who-is-the-joker.json](./298424-who-is-the-joker.json) |
+| Who is the Killer: Episode I | 88406 | [88406-who-is-the-killer-episode-i.json](./88406-who-is-the-killer-episode-i.json) |
 | Who is the Killer: Episode II | 89086 | [89086-who-is-the-killer-episode-ii.json](./89086-who-is-the-killer-episode-ii.json) |
 | Who is the Killer: Episode III | 104444 | [104444-who-is-the-killer-episode-iii.json](./104444-who-is-the-killer-episode-iii.json) |
 | Who Is The Killer: Episode IV | 304356 | [304356-who-is-the-killer-episode-iv.json](./304356-who-is-the-killer-episode-iv.json) |
