@@ -2321,6 +2321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Drop | 284396 | [284396-one-drop.json](./284396-one-drop.json) |
 | One Drop Bot | 117367 | [117367-one-drop-bot.json](./117367-one-drop-bot.json) |
 | One Drunken Knight | 211969 | [211969-one-drunken-knight.json](./211969-one-drunken-knight.json) |
+| One Duck | 128717 | [128717-one-duck.json](./128717-one-duck.json) |
 | One Dumb Wizard | 402970 | [402970-one-dumb-wizard.json](./402970-one-dumb-wizard.json) |
 | One Eleven | 211694 | [211694-one-eleven.json](./211694-one-eleven.json) |
 | One Endless Night At Dhar Mann's | 162518 | [162518-one-endless-night-at-dhar-manns.json](./162518-one-endless-night-at-dhar-manns.json) |
@@ -4389,6 +4390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orphée: Voyage aux Enfers | 84184 | [84184-orphee-voyage-aux-enfers.json](./84184-orphee-voyage-aux-enfers.json) |
 | Orphen: Scion of Sorcery | 24165 | [24165-orphen-scion-of-sorcery.json](./24165-orphen-scion-of-sorcery.json) |
 | Orpheus | 111020 | [111020-orpheus.json](./111020-orpheus.json) |
+| Orpheus | 128759 | [128759-orpheus.json](./128759-orpheus.json) |
 | Orpheus | 180414 | [180414-orpheus.json](./180414-orpheus.json) |
 | Orpheus | 237084 | [237084-orpheus.json](./237084-orpheus.json) |
 | Orpheus | 262090 | [262090-orpheus.json](./262090-orpheus.json) |
