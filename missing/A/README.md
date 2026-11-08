@@ -1848,6 +1848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aavegotchi: Gotchiverse | 195528 | [195528-aavegotchi-gotchiverse.json](./195528-aavegotchi-gotchiverse.json) |
 | Aazor: The Life of a Demon - Part I: The Beginning | 58081 | [58081-aazor-the-life-of-a-demon-part-i-the-beginning.json](./58081-aazor-the-life-of-a-demon-part-i-the-beginning.json) |
 | Ab Aeterno | 193291 | [193291-ab-aeterno.json](./193291-ab-aeterno.json) |
+| Aba Daba | 84237 | [84237-aba-daba.json](./84237-aba-daba.json) |
 | Abab | 311802 | [311802-abab.json](./311802-abab.json) |
 | Abacus | 154764 | [154764-abacus.json](./154764-abacus.json) |
 | Abacus Finch | 143967 | [143967-abacus-finch.json](./143967-abacus-finch.json) |
@@ -3482,6 +3483,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Daisenryaku: Europe no Arashi - Doitsu Dengeki Sakusen | 60804 | [60804-advanced-daisenryaku-europe-no-arashi-doitsu-dengeki-sakusen.json](./60804-advanced-daisenryaku-europe-no-arashi-doitsu-dengeki-sakusen.json) |
 | Advanced DOS Quiz | 85928 | [85928-advanced-dos-quiz.json](./85928-advanced-dos-quiz.json) |
 | Advanced Dungeons & Dragons Cartridge | 5654 | [5654-advanced-dungeons-and-dragons-cartridge.json](./5654-advanced-dungeons-and-dragons-cartridge.json) |
+| Advanced Dungeons & Dragons Cartridge | 84251 | [84251-advanced-dungeons-and-dragons-cartridge.json](./84251-advanced-dungeons-and-dragons-cartridge.json) |
+| Advanced Dungeons & Dragons Masterpiece Collection | 84218 | [84218-advanced-dungeons-and-dragons-masterpiece-collection.json](./84218-advanced-dungeons-and-dragons-masterpiece-collection.json) |
 | Advanced Dungeons & Dragons Ultimate Fantasy | 362470 | [362470-advanced-dungeons-and-dragons-ultimate-fantasy.json](./362470-advanced-dungeons-and-dragons-ultimate-fantasy.json) |
 | Advanced Dungeons & Dragons: Collectors Edition | 206092 | [206092-advanced-dungeons-and-dragons-collectors-edition.json](./206092-advanced-dungeons-and-dragons-collectors-edition.json) |
 | Advanced Dungeons & Dragons: Collectors Edition Vol.2 | 206102 | [206102-advanced-dungeons-and-dragons-collectors-edition-vol-2.json](./206102-advanced-dungeons-and-dragons-collectors-edition-vol-2.json) |
@@ -4617,6 +4620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AfterTheDawn | 81753 | [81753-afterthedawn.json](./81753-afterthedawn.json) |
 | Afterthought | 154755 | [154755-afterthought.json](./154755-afterthought.json) |
 | Aftertime | 211420 | [211420-aftertime.json](./211420-aftertime.json) |
+| AfterTime | 83715 | [83715-aftertime.json](./83715-aftertime.json) |
 | AfterWar | 264765 | [264765-afterwar.json](./264765-afterwar.json) |
 | Afterward | 184986 | [184986-afterward.json](./184986-afterward.json) |
 | Afterwards | 177724 | [177724-afterwards.json](./177724-afterwards.json) |
@@ -9612,6 +9616,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Village 2 | 249685 | [249685-ancient-village-2.json](./249685-ancient-village-2.json) |
 | Ancient VR coaster | 32297 | [32297-ancient-vr-coaster.json](./32297-ancient-vr-coaster.json) |
 | Ancient War: Three Kingdoms | 113695 | [113695-ancient-war-three-kingdoms.json](./113695-ancient-war-three-kingdoms.json) |
+| Ancient Warfare | 83693 | [83693-ancient-warfare.json](./83693-ancient-warfare.json) |
+| Ancient Warfare 2 | 83694 | [83694-ancient-warfare-2.json](./83694-ancient-warfare-2.json) |
 | Ancient Warfare 3 | 76670 | [76670-ancient-warfare-3.json](./76670-ancient-warfare-3.json) |
 | Ancient Warfare TD | 98682 | [98682-ancient-warfare-td.json](./98682-ancient-warfare-td.json) |
 | Ancient Warlords: Aequilibrium | 102219 | [102219-ancient-warlords-aequilibrium.json](./102219-ancient-warlords-aequilibrium.json) |
@@ -17148,7 +17154,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
