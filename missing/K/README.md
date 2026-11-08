@@ -2860,7 +2860,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5369,6 +5368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kongeer | 201006 | [201006-kongeer.json](./201006-kongeer.json) |
 | Kongfu | 246465 | [246465-kongfu.json](./246465-kongfu.json) |
 | Kongfu VR | 192249 | [192249-kongfu-vr.json](./192249-kongfu-vr.json) |
+| Kongfusion | 132937 | [132937-kongfusion.json](./132937-kongfusion.json) |
 | KongKong Online | 186379 | [186379-kongkong-online.json](./186379-kongkong-online.json) |
 | Kǒngmíng Suǒ | 414117 | [414117-kongming-suo.json](./414117-kongming-suo.json) |
 | Kongming's Fiendish Maze | 249674 | [249674-kongmings-fiendish-maze.json](./249674-kongmings-fiendish-maze.json) |
@@ -5828,6 +5828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kraken Smash: Volleyball | 169587 | [169587-kraken-smash-volleyball.json](./169587-kraken-smash-volleyball.json) |
 | Kraken's Curse | 129429 | [129429-krakens-curse.json](./129429-krakens-curse.json) |
 | Krakout | 37171 | [37171-krakout.json](./37171-krakout.json) |
+| Krakout challenge | 132981 | [132981-krakout-challenge.json](./132981-krakout-challenge.json) |
 | Krakout Unlimited | 91576 | [91576-krakout-unlimited.json](./91576-krakout-unlimited.json) |
 | Kraktures | 318981 | [318981-kraktures.json](./318981-kraktures.json) |
 | Kram | 46878 | [46878-kram.json](./46878-kram.json) |
