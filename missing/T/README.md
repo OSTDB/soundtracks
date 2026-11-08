@@ -424,6 +424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tad-Bubble! | 376627 | [376627-tad-bubble.json](./376627-tad-bubble.json) |
 | TAD: That Alien Dude | 94060 | [94060-tad-that-alien-dude.json](./94060-tad-that-alien-dude.json) |
 | Tadahito: Story of Ellis | 152049 | [152049-tadahito-story-of-ellis.json](./152049-tadahito-story-of-ellis.json) |
+| Tadaima Wakusei Kaitakuchuu! | 97409 | [97409-tadaima-wakusei-kaitakuchuu.json](./97409-tadaima-wakusei-kaitakuchuu.json) |
 | Tadaima Yuusha Boshuuchuu Okawari | 37799 | [37799-tadaima-yuusha-boshuuchuu-okawari.json](./37799-tadaima-yuusha-boshuuchuu-okawari.json) |
 | Taddle Quest | 224608 | [224608-taddle-quest.json](./224608-taddle-quest.json) |
 | Tadeo Jones y el Manuscrito Perdido | 82043 | [82043-tadeo-jones-y-el-manuscrito-perdido.json](./82043-tadeo-jones-y-el-manuscrito-perdido.json) |
@@ -2834,6 +2835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tawako The Forest Hedgehog | 207188 | [207188-tawako-the-forest-hedgehog.json](./207188-tawako-the-forest-hedgehog.json) |
 | Tawamu i-call | 267173 | [267173-tawamu-i-call.json](./267173-tawamu-i-call.json) |
 | Tawara | 97809 | [97809-tawara.json](./97809-tawara.json) |
+| Tawawa Oku-san x Happening Gym: Mucchiri Body to Sukebe na Exercise | 97418 | [97418-tawawa-oku-san-x-happening-gym-mucchiri-body-to-sukebe-na-exercise.json](./97418-tawawa-oku-san-x-happening-gym-mucchiri-body-to-sukebe-na-exercise.json) |
 | Tax Avoiders | 40618 | [40618-tax-avoiders.json](./40618-tax-avoiders.json) |
 | Tax Dodge | 60638 | [60638-tax-dodge.json](./60638-tax-dodge.json) |
 | Tax Evasion | 265147 | [265147-tax-evasion.json](./265147-tax-evasion.json) |
@@ -14547,6 +14549,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Neverwhere Tales : Book 1 | 275692 | [275692-the-neverwhere-tales-book-1.json](./275692-the-neverwhere-tales-book-1.json) |
 | The New Addams Family | 5345 | [5345-the-new-addams-family.json](./5345-the-new-addams-family.json) |
 | The New Adventures Of Billy The Kid | 399983 | [399983-the-new-adventures-of-billy-the-kid.json](./399983-the-new-adventures-of-billy-the-kid.json) |
+| The New Adventures of Moomin: The Great Autumn Party | 97408 | [97408-the-new-adventures-of-moomin-the-great-autumn-party.json](./97408-the-new-adventures-of-moomin-the-great-autumn-party.json) |
+| The New Adventures of Moomin: The Mysterious Howling | 97405 | [97405-the-new-adventures-of-moomin-the-mysterious-howling.json](./97405-the-new-adventures-of-moomin-the-mysterious-howling.json) |
 | The New Adventures of Sonic the Hedgehog | 316589 | [316589-the-new-adventures-of-sonic-the-hedgehog.json](./316589-the-new-adventures-of-sonic-the-hedgehog.json) |
 | The New Adventures of the Time Machine | 24127 | [24127-the-new-adventures-of-the-time-machine.json](./24127-the-new-adventures-of-the-time-machine.json) |
 | The New Adventures of Zak McKracken | 323645 | [323645-the-new-adventures-of-zak-mckracken.json](./323645-the-new-adventures-of-zak-mckracken.json) |
@@ -33120,6 +33124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tube Spin | 106001 | [106001-tube-spin.json](./106001-tube-spin.json) |
 | Tube Tussle | 161604 | [161604-tube-tussle.json](./161604-tube-tussle.json) |
 | Tube Tycoon | 58612 | [58612-tube-tycoon.json](./58612-tube-tycoon.json) |
+| Tube Tycoon: Gold Edition | 97022 | [97022-tube-tycoon-gold-edition.json](./97022-tube-tycoon-gold-edition.json) |
 | Tube Warriors | 94558 | [94558-tube-warriors.json](./94558-tube-warriors.json) |
 | Tube Way Army | 80201 | [80201-tube-way-army.json](./80201-tube-way-army.json) |
 | Tube-It | 69365 | [69365-tube-it.json](./69365-tube-it.json) |
