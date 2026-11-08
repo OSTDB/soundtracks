@@ -191,6 +191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UEFA Euro 2016: Pro Evolution Soccer | 42965 | [42965-uefa-euro-2016-pro-evolution-soccer.json](./42965-uefa-euro-2016-pro-evolution-soccer.json) |
 | UEFA Euro 2024 | 317534 | [317534-uefa-euro-2024.json](./317534-uefa-euro-2024.json) |
 | UEFA Euro 96 England | 18945 | [18945-uefa-euro-96-england.json](./18945-uefa-euro-96-england.json) |
+| UEFA Manager 2000 | 93107 | [93107-uefa-manager-2000.json](./93107-uefa-manager-2000.json) |
 | UEFA Striker | 46370 | [46370-uefa-striker.json](./46370-uefa-striker.json) |
 | Ueki no Housoku: Jingi Sakuretsu! Nouryokusha Battle | 188652 | [188652-ueki-no-housoku-jingi-sakuretsu-nouryokusha-battle.json](./188652-ueki-no-housoku-jingi-sakuretsu-nouryokusha-battle.json) |
 | Ueki no Housoku: Taosu ze Robert Juudan!! | 228934 | [228934-ueki-no-housoku-taosu-ze-robert-juudan.json](./228934-ueki-no-housoku-taosu-ze-robert-juudan.json) |
@@ -3190,6 +3191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Up With A Fish! | 259692 | [259692-up-with-a-fish.json](./259692-up-with-a-fish.json) |
 | Up With Doznik | 312569 | [312569-up-with-doznik.json](./312569-up-with-doznik.json) |
 | Up Words | 200370 | [200370-up-words.json](./200370-up-words.json) |
+| Up Yours | 93093 | [93093-up-yours.json](./93093-up-yours.json) |
 | Up! The Floor Is Lava | 303705 | [303705-up-the-floor-is-lava.json](./303705-up-the-floor-is-lava.json) |
 | Up'n Down | 40091 | [40091-upn-down.json](./40091-upn-down.json) |
 | Upaon: A Snake's Journey | 153754 | [153754-upaon-a-snakes-journey.json](./153754-upaon-a-snakes-journey.json) |
