@@ -5022,6 +5022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitch | 365268 | [365268-glitch.json](./365268-glitch.json) |
 | Glitch | 373881 | [373881-glitch.json](./373881-glitch.json) |
 | Glitch | 92479 | [92479-glitch.json](./92479-glitch.json) |
+| Glitch Arena | 118520 | [118520-glitch-arena.json](./118520-glitch-arena.json) |
 | Glitch Assassin | 156023 | [156023-glitch-assassin.json](./156023-glitch-assassin.json) |
 | Glitch Boy | 25757 | [25757-glitch-boy.json](./25757-glitch-boy.json) |
 | Glitch Busters: Boss Challenge Pack | 261854 | [261854-glitch-busters-boss-challenge-pack.json](./261854-glitch-busters-boss-challenge-pack.json) |
@@ -6501,6 +6502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Girls | 284272 | [284272-gold-girls.json](./284272-gold-girls.json) |
 | Gold Gold Adventure Gold | 317162 | [317162-gold-gold-adventure-gold.json](./317162-gold-gold-adventure-gold.json) |
 | Gold Grabbing Goblin | 271627 | [271627-gold-grabbing-goblin.json](./271627-gold-grabbing-goblin.json) |
+| Gold Hunter | 118477 | [118477-gold-hunter.json](./118477-gold-hunter.json) |
 | Gold Is Mine | 148842 | [148842-gold-is-mine.json](./148842-gold-is-mine.json) |
 | Gold Knight | 277269 | [277269-gold-knight.json](./277269-gold-knight.json) |
 | Gold Lender Manager | 191375 | [191375-gold-lender-manager.json](./191375-gold-lender-manager.json) |
@@ -10491,6 +10493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guerrilla Bob | 92530 | [92530-guerrilla-bob.json](./92530-guerrilla-bob.json) |
 | Guerrilla Gardener | 104459 | [104459-guerrilla-gardener.json](./104459-guerrilla-gardener.json) |
 | Guerrilla Gardening | 182531 | [182531-guerrilla-gardening.json](./182531-guerrilla-gardening.json) |
+| Guerrilla Multiplayer Shooter | 118495 | [118495-guerrilla-multiplayer-shooter.json](./118495-guerrilla-multiplayer-shooter.json) |
 | Guerrilla Strike | 43343 | [43343-guerrilla-strike.json](./43343-guerrilla-strike.json) |
 | Guerrilla War | 217933 | [217933-guerrilla-war.json](./217933-guerrilla-war.json) |
 | Guerrilla War | 274099 | [274099-guerrilla-war.json](./274099-guerrilla-war.json) |
