@@ -2385,6 +2385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joe Gunn | 77385 | [77385-joe-gunn.json](./77385-joe-gunn.json) |
 | Joe is Not Lost: Jigsaw Landscapes | 284900 | [284900-joe-is-not-lost-jigsaw-landscapes.json](./284900-joe-is-not-lost-jigsaw-landscapes.json) |
 | Joe Jump | 115959 | [115959-joe-jump.json](./115959-joe-jump.json) |
+| Joe Jump Impossible Quest | 117878 | [117878-joe-jump-impossible-quest.json](./117878-joe-jump-impossible-quest.json) |
 | Joe Kowalski Chronicles: Murder in a flat | 150742 | [150742-joe-kowalski-chronicles-murder-in-a-flat.json](./150742-joe-kowalski-chronicles-murder-in-a-flat.json) |
 | Joe Montana Football | 149968 | [149968-joe-montana-football.json](./149968-joe-montana-football.json) |
 | Joe Montana Football | 5396 | [5396-joe-montana-football.json](./5396-joe-montana-football.json) |
