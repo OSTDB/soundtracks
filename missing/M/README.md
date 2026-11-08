@@ -3708,6 +3708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marie Android | 407720 | [407720-marie-android.json](./407720-marie-android.json) |
 | Marie Antoinette's Solitaire | 137213 | [137213-marie-antoinettes-solitaire.json](./137213-marie-antoinettes-solitaire.json) |
 | Marie Baby-Sitter | 74034 | [74034-marie-baby-sitter.json](./74034-marie-baby-sitter.json) |
+| Marie Celeste | 91484 | [91484-marie-celeste.json](./91484-marie-celeste.json) |
 | Marie's Patisserie: Sweet Dreams - Collector's Edition | 362840 | [362840-maries-patisserie-sweet-dreams-collectors-edition.json](./362840-maries-patisserie-sweet-dreams-collectors-edition.json) |
 | Marie's Room | 81173 | [81173-maries-room.json](./81173-maries-room.json) |
 | Mariel's First Day | 179450 | [179450-mariels-first-day.json](./179450-mariels-first-day.json) |
@@ -5680,6 +5681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Adventures | 219676 | [219676-math-adventures.json](./219676-math-adventures.json) |
 | Math and Letters Air Control | 197778 | [197778-math-and-letters-air-control.json](./197778-math-and-letters-air-control.json) |
 | Math and Sorcery | 106946 | [106946-math-and-sorcery.json](./106946-math-and-sorcery.json) |
+| Math Antics with Disney's 101 Dalmatians | 91476 | [91476-math-antics-with-disneys-101-dalmatians.json](./91476-math-antics-with-disneys-101-dalmatians.json) |
 | Math Ascension | 252527 | [252527-math-ascension.json](./252527-math-ascension.json) |
 | Math Attack | 367509 | [367509-math-attack.json](./367509-math-attack.json) |
 | Math Balance: Pre-algebra game for kids | 97141 | [97141-math-balance-pre-algebra-game-for-kids.json](./97141-math-balance-pre-algebra-game-for-kids.json) |
@@ -8608,6 +8610,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meimon! Tako Nishi Ouendan | 48779 | [48779-meimon-tako-nishi-ouendan.json](./48779-meimon-tako-nishi-ouendan.json) |
 | Meimou Halloween | 261072 | [261072-meimou-halloween.json](./261072-meimou-halloween.json) |
 | Meimu | 239557 | [239557-meimu.json](./239557-meimu.json) |
+| Mein Eigenes Kätzchen | 91564 | [91564-mein-eigenes-katzchen.json](./91564-mein-eigenes-katzchen.json) |
+| Mein eigenes Pony | 91565 | [91565-mein-eigenes-pony.json](./91565-mein-eigenes-pony.json) |
 | Mein neues Leben Abenteuer auf Tropicana | 152028 | [152028-mein-neues-leben-abenteuer-auf-tropicana.json](./152028-mein-neues-leben-abenteuer-auf-tropicana.json) |
 | Meine Eigene Traumstadt | 337719 | [337719-meine-eigene-traumstadt.json](./337719-meine-eigene-traumstadt.json) |
 | Meine Liebe II: Hokori to Seigi to Ai | 203178 | [203178-meine-liebe-ii-hokori-to-seigi-to-ai.json](./203178-meine-liebe-ii-hokori-to-seigi-to-ai.json) |
@@ -18036,6 +18040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motarium | 393480 | [393480-motarium.json](./393480-motarium.json) |
 | MOTAS: Magnum Opus - The Alchemist's Shadow | 313281 | [313281-motas-magnum-opus-the-alchemists-shadow.json](./313281-motas-magnum-opus-the-alchemists-shadow.json) |
 | Mote: The Manuscript | 399293 | [399293-mote-the-manuscript.json](./399293-mote-the-manuscript.json) |
+| Moteasobaretai | 91566 | [91566-moteasobaretai.json](./91566-moteasobaretai.json) |
 | Motel 666 | 186165 | [186165-motel-666.json](./186165-motel-666.json) |
 | Motel Bondage | 385313 | [385313-motel-bondage.json](./385313-motel-bondage.json) |
 | Motel Business Simulator | 367733 | [367733-motel-business-simulator.json](./367733-motel-business-simulator.json) |
@@ -19450,6 +19455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mudness Offroad: 4x4 Truck Car Simulator | 313210 | [313210-mudness-offroad-4x4-truck-car-simulator.json](./313210-mudness-offroad-4x4-truck-car-simulator.json) |
 | Mudoba | 236302 | [236302-mudoba.json](./236302-mudoba.json) |
 | Mudoku: Next Sudoku | 292267 | [292267-mudoku-next-sudoku.json](./292267-mudoku-next-sudoku.json) |
+| Mudpies | 91480 | [91480-mudpies.json](./91480-mudpies.json) |
 | MudRunner | 54789 | [54789-mudrunner.json](./54789-mudrunner.json) |
 | MudRunner VR | 299809 | [299809-mudrunner-vr.json](./299809-mudrunner-vr.json) |
 | MudRunner: Old-timers | 117888 | [117888-mudrunner-old-timers.json](./117888-mudrunner-old-timers.json) |
