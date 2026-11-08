@@ -1373,6 +1373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oir | 76219 | [76219-oir.json](./76219-oir.json) |
 | Oiran Survival: Edo Yokai Rush | 391304 | [391304-oiran-survival-edo-yokai-rush.json](./391304-oiran-survival-edo-yokai-rush.json) |
 | Oirbo | 118398 | [118398-oirbo.json](./118398-oirbo.json) |
+| Oisac | 78241 | [78241-oisac.json](./78241-oisac.json) |
 | Oishii Puzzle ha Irimasen ka | 312364 | [312364-oishii-puzzle-ha-irimasen-ka.json](./312364-oishii-puzzle-ha-irimasen-ka.json) |
 | Oishinbo: Kyuukyoku no Menu 3-bon Shoubu | 48406 | [48406-oishinbo-kyuukyoku-no-menu-3-bon-shoubu.json](./48406-oishinbo-kyuukyoku-no-menu-3-bon-shoubu.json) |
 | Oita, Beppu Mystery Annai: Yuganda Tourou | 212306 | [212306-oita-beppu-mystery-annai-yuganda-tourou.json](./212306-oita-beppu-mystery-annai-yuganda-tourou.json) |
