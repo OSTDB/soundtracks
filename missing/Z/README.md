@@ -2268,7 +2268,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zone of the Enders | 1472 | [1472-zone-of-the-enders.json](./1472-zone-of-the-enders.json) |
 | Zone of the Enders HD Collection | 24230 | [24230-zone-of-the-enders-hd-collection.json](./24230-zone-of-the-enders-hd-collection.json) |
 | Zone of the Enders HD Collection: Limited Collector's Edition | 44659 | [44659-zone-of-the-enders-hd-collection-limited-collectors-edition.json](./44659-zone-of-the-enders-hd-collection-limited-collectors-edition.json) |
+| Zone of the Enders: HD Edition | 99813 | [99813-zone-of-the-enders-hd-edition.json](./99813-zone-of-the-enders-hd-edition.json) |
 | Zone of the Enders: The 2nd Runner - Special Edition | 258844 | [258844-zone-of-the-enders-the-2nd-runner-special-edition.json](./258844-zone-of-the-enders-the-2nd-runner-special-edition.json) |
+| Zone of the Enders: The 2nd Runner HD Edition | 99812 | [99812-zone-of-the-enders-the-2nd-runner-hd-edition.json](./99812-zone-of-the-enders-the-2nd-runner-hd-edition.json) |
 | Zone of The Enders: The 2nd Runner Mars | 68284 | [68284-zone-of-the-enders-the-2nd-runner-mars.json](./68284-zone-of-the-enders-the-2nd-runner-mars.json) |
 | Zone of the Enders: The Fist of Mars | 1474 | [1474-zone-of-the-enders-the-fist-of-mars.json](./1474-zone-of-the-enders-the-fist-of-mars.json) |
 | Zone of War | 153028 | [153028-zone-of-war.json](./153028-zone-of-war.json) |
