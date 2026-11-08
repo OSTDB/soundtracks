@@ -3237,6 +3237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cartoon Wars 2: Heroes | 91781 | [91781-cartoon-wars-2-heroes.json](./91781-cartoon-wars-2-heroes.json) |
 | Cartoon Wars Blade | 369757 | [369757-cartoon-wars-blade.json](./369757-cartoon-wars-blade.json) |
 | Cartooners | 94685 | [94685-cartooners.json](./94685-cartooners.json) |
+| Cartoonway: Mini Cars | 100470 | [100470-cartoonway-mini-cars.json](./100470-cartoonway-mini-cars.json) |
 | Cartoony Cars 2 | 110773 | [110773-cartoony-cars-2.json](./110773-cartoony-cars-2.json) |
 | Cartridge Defense | 132277 | [132277-cartridge-defense.json](./132277-cartridge-defense.json) |
 | Cartridge Monsters | 158030 | [158030-cartridge-monsters.json](./158030-cartridge-monsters.json) |
@@ -9929,6 +9930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clash | 34233 | [34233-clash.json](./34233-clash.json) |
 | Clash | 55033 | [55033-clash.json](./55033-clash.json) |
 | Clash & Run | 420174 | [420174-clash-and-run.json](./420174-clash-and-run.json) |
+| Clash Arena | 101118 | [101118-clash-arena.json](./101118-clash-arena.json) |
 | Clash at Demonhead | 19118 | [19118-clash-at-demonhead.json](./19118-clash-at-demonhead.json) |
 | Clash Battle Simulator | 326450 | [326450-clash-battle-simulator.json](./326450-clash-battle-simulator.json) |
 | Clash Bro's! | 330962 | [330962-clash-bros.json](./330962-clash-bros.json) |
@@ -11062,6 +11064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Backgammon | 270745 | [270745-club-backgammon.json](./270745-club-backgammon.json) |
 | Club Boss | 264962 | [264962-club-boss.json](./264962-club-boss.json) |
 | Club Caribe | 92227 | [92227-club-caribe.json](./92227-club-caribe.json) |
+| Club Dance Party VR | 100455 | [100455-club-dance-party-vr.json](./100455-club-dance-party-vr.json) |
 | Club de Detectives: Caso 01 | 180629 | [180629-club-de-detectives-caso-01.json](./180629-club-de-detectives-caso-01.json) |
 | Club Defenders | 361869 | [361869-club-defenders.json](./361869-club-defenders.json) |
 | Club Del Fierro | 365282 | [365282-club-del-fierro.json](./365282-club-del-fierro.json) |
