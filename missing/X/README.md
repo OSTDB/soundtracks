@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Plane 10 Global: North America Scenery | 168809 | [168809-x-plane-10-global-north-america-scenery.json](./168809-x-plane-10-global-north-america-scenery.json) |
 | X-Plane 10 Global: South America Scenery | 168814 | [168814-x-plane-10-global-south-america-scenery.json](./168814-x-plane-10-global-south-america-scenery.json) |
 | X-Plane 10: Regional Edition - North America | 205810 | [205810-x-plane-10-regional-edition-north-america.json](./205810-x-plane-10-regional-edition-north-america.json) |
+| X-Plane 11 + Aerosoft Airport Collection | 135974 | [135974-x-plane-11-aerosoft-airport-collection.json](./135974-x-plane-11-aerosoft-airport-collection.json) |
 | X-Plane 11: 29 Palms/Captain7 - EDDN: Nuernberg XP | 168419 | [168419-x-plane-11-29-palms-captain7-eddn-nuernberg-xp.json](./168419-x-plane-11-29-palms-captain7-eddn-nuernberg-xp.json) |
 | X-Plane 11: Add-on - Aerosoft Aspen XP | 168410 | [168410-x-plane-11-add-on-aerosoft-aspen-xp.json](./168410-x-plane-11-add-on-aerosoft-aspen-xp.json) |
 | X-Plane 11: Add-on - Aerosoft Dortmund XP | 168412 | [168412-x-plane-11-add-on-aerosoft-dortmund-xp.json](./168412-x-plane-11-add-on-aerosoft-dortmund-xp.json) |
@@ -603,6 +604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenoage: Knight of the Rihas | 145575 | [145575-xenoage-knight-of-the-rihas.json](./145575-xenoage-knight-of-the-rihas.json) |
 | Xenoblade Chronicles | 2364 | [2364-xenoblade-chronicles.json](./2364-xenoblade-chronicles.json) |
 | Xenoblade Chronicles 2 | 26766 | [26766-xenoblade-chronicles-2.json](./26766-xenoblade-chronicles-2.json) |
+| Xenoblade Chronicles 2: Collector's Edition | 136021 | [136021-xenoblade-chronicles-2-collectors-edition.json](./136021-xenoblade-chronicles-2-collectors-edition.json) |
 | Xenoblade Chronicles 2: Expansion Pass | 245690 | [245690-xenoblade-chronicles-2-expansion-pass.json](./245690-xenoblade-chronicles-2-expansion-pass.json) |
 | Xenoblade Chronicles 2: Nintendo Switch 2 Edition | 405447 | [405447-xenoblade-chronicles-2-nintendo-switch-2-edition.json](./405447-xenoblade-chronicles-2-nintendo-switch-2-edition.json) |
 | Xenoblade Chronicles 2: Special Edition | 27298 | [27298-xenoblade-chronicles-2-special-edition.json](./27298-xenoblade-chronicles-2-special-edition.json) |
@@ -824,6 +826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XIII Century: Death or Glory | 9860 | [9860-xiii-century-death-or-glory.json](./9860-xiii-century-death-or-glory.json) |
 | XIII Century: Gold Edition | 27847 | [27847-xiii-century-gold-edition.json](./27847-xiii-century-gold-edition.json) |
 | XIII: A Final Game of Tarot With Death | 337924 | [337924-xiii-a-final-game-of-tarot-with-death.json](./337924-xiii-a-final-game-of-tarot-with-death.json) |
+| XIII: Limited Edition | 136002 | [136002-xiii-limited-edition.json](./136002-xiii-limited-edition.json) |
 | XIII: Lost Identity | 53101 | [53101-xiii-lost-identity.json](./53101-xiii-lost-identity.json) |
 | XIIZeal | 35573 | [35573-xiizeal.json](./35573-xiizeal.json) |
 | Xile | 54731 | [54731-xile.json](./54731-xile.json) |
