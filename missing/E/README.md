@@ -4842,6 +4842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equivoque | 40705 | [40705-equivoque.json](./40705-equivoque.json) |
 | ER | 69779 | [69779-er.json](./69779-er.json) |
 | ER Pandemic Simulator | 159991 | [159991-er-pandemic-simulator.json](./159991-er-pandemic-simulator.json) |
+| Er-mo | 107987 | [107987-er-mo.json](./107987-er-mo.json) |
 | Er-Spectro | 81769 | [81769-er-spectro.json](./81769-er-spectro.json) |
 | Era | 83940 | [83940-era.json](./83940-era.json) |
 | Era Dream Chapter: I | 193566 | [193566-era-dream-chapter-i.json](./193566-era-dream-chapter-i.json) |
@@ -5791,6 +5792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape: Lia | 195173 | [195173-escape-lia.json](./195173-escape-lia.json) |
 | Escape: Mall | 372025 | [372025-escape-mall.json](./372025-escape-mall.json) |
 | Escape: Mouse Gun | 126236 | [126236-escape-mouse-gun.json](./126236-escape-mouse-gun.json) |
+| Escape: Secret of the Hidden Room - The Collaborator | 108008 | [108008-escape-secret-of-the-hidden-room-the-collaborator.json](./108008-escape-secret-of-the-hidden-room-the-collaborator.json) |
 | Escape: Sierra Leone | 33570 | [33570-escape-sierra-leone.json](./33570-escape-sierra-leone.json) |
 | Escape: Site-13 | 211065 | [211065-escape-site-13.json](./211065-escape-site-13.json) |
 | Escape: Small Laboratory | 224055 | [224055-escape-small-laboratory.json](./224055-escape-small-laboratory.json) |
@@ -6821,6 +6823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evelyn's Adventure | 192526 | [192526-evelyns-adventure.json](./192526-evelyns-adventure.json) |
 | Evelyn's Farm | 186589 | [186589-evelyns-farm.json](./186589-evelyns-farm.json) |
 | Evelynn | 265371 | [265371-evelynn.json](./265371-evelynn.json) |
+| Evemnesis | 108005 | [108005-evemnesis.json](./108005-evemnesis.json) |
 | Even Cowgirls Bleed | 62473 | [62473-even-cowgirls-bleed.json](./62473-even-cowgirls-bleed.json) |
 | Even For Eternia | 116887 | [116887-even-for-eternia.json](./116887-even-for-eternia.json) |
 | Even Heroes Die | 197217 | [197217-even-heroes-die.json](./197217-even-heroes-die.json) |
