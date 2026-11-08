@@ -1413,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Pop Match3 | 220804 | [220804-candy-pop-match3.json](./220804-candy-pop-match3.json) |
 | Candy Puzzle | 283620 | [283620-candy-puzzle.json](./283620-candy-puzzle.json) |
 | Candy Puzzles | 328563 | [328563-candy-puzzles.json](./328563-candy-puzzles.json) |
+| Candy Raid: The Factory | 105565 | [105565-candy-raid-the-factory.json](./105565-candy-raid-the-factory.json) |
 | Candy Rangers | 265694 | [265694-candy-rangers.json](./265694-candy-rangers.json) |
 | Candy Renovation | 301990 | [301990-candy-renovation.json](./301990-candy-renovation.json) |
 | Candy Scabs | 177508 | [177508-candy-scabs.json](./177508-candy-scabs.json) |
