@@ -5898,6 +5898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermeticism | 322015 | [322015-hermeticism.json](./322015-hermeticism.json) |
 | Hermetika VR | 184933 | [184933-hermetika-vr.json](./184933-hermetika-vr.json) |
 | Hermina and Culus: Atelier Lilie Another Story | 104981 | [104981-hermina-and-culus-atelier-lilie-another-story.json](./104981-hermina-and-culus-atelier-lilie-another-story.json) |
+| Hermina Lumen is Only Human | 121151 | [121151-hermina-lumen-is-only-human.json](./121151-hermina-lumen-is-only-human.json) |
 | Hermina to Culus: Lillie no Atelier Mou Hitotsu no Monogatari | 123013 | [123013-hermina-to-culus-lillie-no-atelier-mou-hitotsu-no-monogatari.json](./123013-hermina-to-culus-lillie-no-atelier-mou-hitotsu-no-monogatari.json) |
 | Hermine's Ghost Town Adventure | 311320 | [311320-hermines-ghost-town-adventure.json](./311320-hermines-ghost-town-adventure.json) |
 | Hermit | 291025 | [291025-hermit.json](./291025-hermit.json) |
@@ -7795,6 +7796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Velocity: Mountain Racing Challenge | 45519 | [45519-high-velocity-mountain-racing-challenge.json](./45519-high-velocity-mountain-racing-challenge.json) |
 | High Voltage | 63627 | [63627-high-voltage.json](./63627-high-voltage.json) |
 | High Voltage Hot Rod Show | 72558 | [72558-high-voltage-hot-rod-show.json](./72558-high-voltage-hot-rod-show.json) |
+| High Voltage puzzle | 121152 | [121152-high-voltage-puzzle.json](./121152-high-voltage-puzzle.json) |
 | High Way Race | 40060 | [40060-high-way-race.json](./40060-high-way-race.json) |
 | High Way Star | 41804 | [41804-high-way-star.json](./41804-high-way-star.json) |
 | High-Macs Simulator | 176723 | [176723-high-macs-simulator.json](./176723-high-macs-simulator.json) |
