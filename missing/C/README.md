@@ -8501,6 +8501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromaticasters | 264191 | [264191-chromaticasters.json](./264191-chromaticasters.json) |
 | Chromatide | 405166 | [405166-chromatide.json](./405166-chromatide.json) |
 | Chromatism | 80304 | [80304-chromatism.json](./80304-chromatism.json) |
+| Chromatose | 115926 | [115926-chromatose.json](./115926-chromatose.json) |
 | Chromatrix | 295769 | [295769-chromatrix.json](./295769-chromatrix.json) |
 | Chromatron | 77636 | [77636-chromatron.json](./77636-chromatron.json) |
 | ChromaZone | 316704 | [316704-chromazone.json](./316704-chromazone.json) |
@@ -10498,6 +10499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clicker Planet: Bluestone Project | 160297 | [160297-clicker-planet-bluestone-project.json](./160297-clicker-planet-bluestone-project.json) |
 | Clicker Racing | 100716 | [100716-clicker-racing.json](./100716-clicker-racing.json) |
 | Clicker Time | 371837 | [371837-clicker-time.json](./371837-clicker-time.json) |
+| Clicker Warriors | 115921 | [115921-clicker-warriors.json](./115921-clicker-warriors.json) |
 | Clicker: Glad Valakas | 112479 | [112479-clicker-glad-valakas.json](./112479-clicker-glad-valakas.json) |
 | Clicker: Mining Simulator | 81967 | [81967-clicker-mining-simulator.json](./81967-clicker-mining-simulator.json) |
 | Clicker! | 177851 | [177851-clicker.json](./177851-clicker.json) |
@@ -13192,6 +13194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command: Modern Air / Naval Operations WOTY | 36237 | [36237-command-modern-air-naval-operations-woty.json](./36237-command-modern-air-naval-operations-woty.json) |
 | Command: Modern Operations - Chains of War | 167870 | [167870-command-modern-operations-chains-of-war.json](./167870-command-modern-operations-chains-of-war.json) |
 | Command: Modern Operations - Chains of War | 36628 | [36628-command-modern-operations-chains-of-war.json](./36628-command-modern-operations-chains-of-war.json) |
+| Command: Modern Operations - Desert Storm | 115909 | [115909-command-modern-operations-desert-storm.json](./115909-command-modern-operations-desert-storm.json) |
 | Command: Modern Operations - Desert Storm | 167880 | [167880-command-modern-operations-desert-storm.json](./167880-command-modern-operations-desert-storm.json) |
 | Command: Modern Operations - Falklands | 219743 | [219743-command-modern-operations-falklands.json](./219743-command-modern-operations-falklands.json) |
 | Command: Modern Operations - Kashmir Fire | 167879 | [167879-command-modern-operations-kashmir-fire.json](./167879-command-modern-operations-kashmir-fire.json) |
@@ -14828,6 +14831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoopValor WW2 Battle of the Bulge | 263522 | [263522-coopvalor-ww2-battle-of-the-bulge.json](./263522-coopvalor-ww2-battle-of-the-bulge.json) |
 | Cooties | 279887 | [279887-cooties.json](./279887-cooties.json) |
 | Cop 01 | 40022 | [40022-cop-01.json](./40022-cop-01.json) |
+| Cop Academy | 115913 | [115913-cop-academy.json](./115913-cop-academy.json) |
 | Cop Bastard | 183657 | [183657-cop-bastard.json](./183657-cop-bastard.json) |
 | Cop Car Police Simulator Chase | 187469 | [187469-cop-car-police-simulator-chase.json](./187469-cop-car-police-simulator-chase.json) |
 | Cop City | 236109 | [236109-cop-city.json](./236109-cop-city.json) |
@@ -20131,6 +20135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curly Monkey 2 | 159234 | [159234-curly-monkey-2.json](./159234-curly-monkey-2.json) |
 | Curly Puzzle: World Heritage | 386181 | [386181-curly-puzzle-world-heritage.json](./386181-curly-puzzle-world-heritage.json) |
 | Curre | 83985 | [83985-curre.json](./83985-curre.json) |
+| Current | 115881 | [115881-current.json](./115881-current.json) |
 | Current | 358392 | [358392-current.json](./358392-current.json) |
 | Current: The Flow | 374713 | [374713-current-the-flow.json](./374713-current-the-flow.json) |
 | Currently Unstable | 260206 | [260206-currently-unstable.json](./260206-currently-unstable.json) |
