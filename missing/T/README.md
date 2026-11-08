@@ -1474,6 +1474,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talewind | 25307 | [25307-talewind.json](./25307-talewind.json) |
 | Talewyn Harbor | 422013 | [422013-talewyn-harbor.json](./422013-talewyn-harbor.json) |
 | Tali: A Roman Empire Game of Chance | 344489 | [344489-tali-a-roman-empire-game-of-chance.json](./344489-tali-a-roman-empire-game-of-chance.json) |
+| Talif's Journey | 123726 | [123726-talifs-journey.json](./123726-talifs-journey.json) |
 | Talion | 109508 | [109508-talion.json](./109508-talion.json) |
 | Talisman | 32540 | [32540-talisman.json](./32540-talisman.json) |
 | Talisman | 385400 | [385400-talisman.json](./385400-talisman.json) |
@@ -8990,6 +8991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Emperor's Mahjong | 70922 | [70922-the-emperors-mahjong.json](./70922-the-emperors-mahjong.json) |
 | The Emperor's Own | 178557 | [178557-the-emperors-own.json](./178557-the-emperors-own.json) |
 | The Empire Fights Back | 14053 | [14053-the-empire-fights-back.json](./14053-the-empire-fights-back.json) |
+| The Empire's Crisis | 123729 | [123729-the-empires-crisis.json](./123729-the-empires-crisis.json) |
 | The Employee | 143922 | [143922-the-employee.json](./143922-the-employee.json) |
 | The Employment Collection | 204673 | [204673-the-employment-collection.json](./204673-the-employment-collection.json) |
 | The Empress of Aeser | 236227 | [236227-the-empress-of-aeser.json](./236227-the-empress-of-aeser.json) |
@@ -10165,6 +10167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Geology Game | 88055 | [88055-the-geology-game.json](./88055-the-geology-game.json) |
 | The Geometric Golfer | 244994 | [244994-the-geometric-golfer.json](./244994-the-geometric-golfer.json) |
 | The Gerbil Experiment | 244223 | [244223-the-gerbil-experiment.json](./244223-the-gerbil-experiment.json) |
+| The Get Out Kids | 123696 | [123696-the-get-out-kids.json](./123696-the-get-out-kids.json) |
 | The Get Up | 185441 | [185441-the-get-up.json](./185441-the-get-up.json) |
 | The Getaway 3 | 79609 | [79609-the-getaway-3.json](./79609-the-getaway-3.json) |
 | The Getaway: Black Monday | 8238 | [8238-the-getaway-black-monday.json](./8238-the-getaway-black-monday.json) |
@@ -15646,6 +15649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Railway Station | 273228 | [273228-the-railway-station.json](./273228-the-railway-station.json) |
 | The Rain Spirit : Code Breaker | 29678 | [29678-the-rain-spirit-code-breaker.json](./29678-the-rain-spirit-code-breaker.json) |
 | The Rainbow Machine | 54972 | [54972-the-rainbow-machine.json](./54972-the-rainbow-machine.json) |
+| The Rainbow World | 123719 | [123719-the-rainbow-world.json](./123719-the-rainbow-world.json) |
 | The Rainbowers | 254156 | [254156-the-rainbowers.json](./254156-the-rainbowers.json) |
 | The Rainbox | 358874 | [358874-the-rainbox.json](./358874-the-rainbox.json) |
 | The Raincoat Man | 196042 | [196042-the-raincoat-man.json](./196042-the-raincoat-man.json) |
@@ -31285,6 +31289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trial By Magic | 376809 | [376809-trial-by-magic.json](./376809-trial-by-magic.json) |
 | Trial by Teng: A Twilight Path Adventure | 118258 | [118258-trial-by-teng-a-twilight-path-adventure.json](./118258-trial-by-teng-a-twilight-path-adventure.json) |
 | Trial of Ariah | 372469 | [372469-trial-of-ariah.json](./372469-trial-of-ariah.json) |
+| Trial of Destiny | 123704 | [123704-trial-of-destiny.json](./123704-trial-of-destiny.json) |
 | Trial of Dragon | 232245 | [232245-trial-of-dragon.json](./232245-trial-of-dragon.json) |
 | Trial of Fours | 242329 | [242329-trial-of-fours.json](./242329-trial-of-fours.json) |
 | Trial of Greed | 353971 | [353971-trial-of-greed.json](./353971-trial-of-greed.json) |
