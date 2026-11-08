@@ -1953,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Side of War | 150599 | [150599-dark-side-of-war.json](./150599-dark-side-of-war.json) |
 | Dark Side: Moonbase Mayhem | 273206 | [273206-dark-side-moonbase-mayhem.json](./273206-dark-side-moonbase-mayhem.json) |
 | Dark Siege: The First Knight | 192677 | [192677-dark-siege-the-first-knight.json](./192677-dark-siege-the-first-knight.json) |
+| Dark Signs | 94283 | [94283-dark-signs.json](./94283-dark-signs.json) |
 | Dark Silence | 370933 | [370933-dark-silence.json](./370933-dark-silence.json) |
 | Dark Siren | 227716 | [227716-dark-siren.json](./227716-dark-siren.json) |
 | Dark Skeleton Survival | 118636 | [118636-dark-skeleton-survival.json](./118636-dark-skeleton-survival.json) |
@@ -7012,6 +7013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Denshattack: Seasonal Skins Pack | 410847 | [410847-denshattack-seasonal-skins-pack.json](./410847-denshattack-seasonal-skins-pack.json) |
 | Denshi Life 2 | 331876 | [331876-denshi-life-2.json](./331876-denshi-life-2.json) |
 | Denshi Maid Techou: Koi no Iroha | 59403 | [59403-denshi-maid-techou-koi-no-iroha.json](./59403-denshi-maid-techou-koi-no-iroha.json) |
+| Denshikantai Knack | 94287 | [94287-denshikantai-knack.json](./94287-denshikantai-knack.json) |
 | Density Experiment | 177791 | [177791-density-experiment.json](./177791-density-experiment.json) |
 | Density Limit | 243284 | [243284-density-limit.json](./243284-density-limit.json) |
 | Densou Tenshi Valforce | 383622 | [383622-densou-tenshi-valforce.json](./383622-densou-tenshi-valforce.json) |
