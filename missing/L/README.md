@@ -137,6 +137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Guerra de las Vajillas | 85724 | [85724-la-guerra-de-las-vajillas.json](./85724-la-guerra-de-las-vajillas.json) |
 | La Historia De | 129078 | [129078-la-historia-de.json](./129078-la-historia-de.json) |
 | LA Hollywood Zombies | 273633 | [273633-la-hollywood-zombies.json](./273633-la-hollywood-zombies.json) |
+| La Introducción | 121115 | [121115-la-introduccion.json](./121115-la-introduccion.json) |
 | La Isla de lo Mono | 208467 | [208467-la-isla-de-lo-mono.json](./208467-la-isla-de-lo-mono.json) |
 | La Java du Privé | 350540 | [350540-la-java-du-prive.json](./350540-la-java-du-prive.json) |
 | La Jetée | 199682 | [199682-la-jetee.json](./199682-la-jetee.json) |
@@ -4497,6 +4498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life // Blood | 293679 | [293679-life-blood.json](./293679-life-blood.json) |
 | Life & Crimes | 280732 | [280732-life-and-crimes.json](./280732-life-and-crimes.json) |
 | Life & Death | 12177 | [12177-life-and-death.json](./12177-life-and-death.json) |
+| Life & Death II: The Brain | 121164 | [121164-life-and-death-ii-the-brain.json](./121164-life-and-death-ii-the-brain.json) |
 | Life & Debt: A Real Life Simulator | 88036 | [88036-life-and-debt-a-real-life-simulator.json](./88036-life-and-debt-a-real-life-simulator.json) |
 | Life & Shadow: Celestial Call | 348444 | [348444-life-and-shadow-celestial-call.json](./348444-life-and-shadow-celestial-call.json) |
 | Life 2047 Escape Simulator | 376086 | [376086-life-2047-escape-simulator.json](./376086-life-2047-escape-simulator.json) |
