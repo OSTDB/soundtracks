@@ -1866,6 +1866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idols Of Starlight | 357436 | [357436-idols-of-starlight.json](./357436-idols-of-starlight.json) |
 | Idolyaki: From Delinquents to Pop Stars | 173957 | [173957-idolyaki-from-delinquents-to-pop-stars.json](./173957-idolyaki-from-delinquents-to-pop-stars.json) |
 | Idolz | 348248 | [348248-idolz.json](./348248-idolz.json) |
+| iDork | 91471 | [91471-idork.json](./91471-idork.json) |
 | Idra and the Little Fish | 229637 | [229637-idra-and-the-little-fish.json](./229637-idra-and-the-little-fish.json) |
 | Idrscape | 393237 | [393237-idrscape.json](./393237-idrscape.json) |
 | Idtipsa | 201838 | [201838-idtipsa.json](./201838-idtipsa.json) |
