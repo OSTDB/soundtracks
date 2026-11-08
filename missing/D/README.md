@@ -1494,6 +1494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Cube | 125906 | [125906-dark-cube.json](./125906-dark-cube.json) |
 | Dark Cut | 165329 | [165329-dark-cut.json](./165329-dark-cut.json) |
 | Dark Cut 2 | 382815 | [382815-dark-cut-2.json](./382815-dark-cut-2.json) |
+| Dark Cut 3 | 101721 | [101721-dark-cut-3.json](./101721-dark-cut-3.json) |
 | Dark Daemon | 303451 | [303451-dark-daemon.json](./303451-dark-daemon.json) |
 | Dark Data | 120754 | [120754-dark-data.json](./120754-dark-data.json) |
 | Dark Data: Zero | 258759 | [258759-dark-data-zero.json](./258759-dark-data-zero.json) |
@@ -4823,6 +4824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Slayer V | 180013 | [180013-death-slayer-v.json](./180013-death-slayer-v.json) |
 | Death Space | 111406 | [111406-death-space.json](./111406-death-space.json) |
 | Death Spiral | 408297 | [408297-death-spiral.json](./408297-death-spiral.json) |
+| Death Squad 2: Idle Space Raiders | 101784 | [101784-death-squad-2-idle-space-raiders.json](./101784-death-squad-2-idle-space-raiders.json) |
 | Death Squared | 26972 | [26972-death-squared.json](./26972-death-squared.json) |
 | Death Stair | 33462 | [33462-death-stair.json](./33462-death-stair.json) |
 | Death Stalker | 13579 | [13579-death-stalker.json](./13579-death-stalker.json) |
@@ -15423,6 +15425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Project | 76712 | [76712-dragon-project.json](./76712-dragon-project.json) |
 | Dragon Providence | 98520 | [98520-dragon-providence.json](./98520-dragon-providence.json) |
 | Dragon Puncher | 332997 | [332997-dragon-puncher.json](./332997-dragon-puncher.json) |
+| Dragon Putt | 101156 | [101156-dragon-putt.json](./101156-dragon-putt.json) |
 | Dragon puzzle | 132733 | [132733-dragon-puzzle.json](./132733-dragon-puzzle.json) |
 | Dragon Queens | 114648 | [114648-dragon-queens.json](./114648-dragon-queens.json) |
 | Dragon Quest | 1812 | [1812-dragon-quest.json](./1812-dragon-quest.json) |
