@@ -3819,6 +3819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Furry Tower Defense | 275553 | [275553-endless-furry-tower-defense.json](./275553-endless-furry-tower-defense.json) |
 | Endless Futanari | 83317 | [83317-endless-futanari.json](./83317-endless-futanari.json) |
 | Endless Glory | 277921 | [277921-endless-glory.json](./277921-endless-glory.json) |
+| Endless Golf | 85638 | [85638-endless-golf.json](./85638-endless-golf.json) |
 | Endless Greed | 413670 | [413670-endless-greed.json](./413670-endless-greed.json) |
 | Endless Heck | 149604 | [149604-endless-heck.json](./149604-endless-heck.json) |
 | Endless History | 320771 | [320771-endless-history.json](./320771-endless-history.json) |
