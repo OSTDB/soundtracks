@@ -3847,6 +3847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Rain | 177764 | [177764-endless-rain.json](./177764-endless-rain.json) |
 | Endless Ranger Awakening | 353768 | [353768-endless-ranger-awakening.json](./353768-endless-ranger-awakening.json) |
 | Endless Reach | 358964 | [358964-endless-reach.json](./358964-endless-reach.json) |
+| Endless Reaches Through Mind and Soul | 128741 | [128741-endless-reaches-through-mind-and-soul.json](./128741-endless-reaches-through-mind-and-soul.json) |
 | Endless Return | 293007 | [293007-endless-return.json](./293007-endless-return.json) |
 | Endless Road | 98866 | [98866-endless-road.json](./98866-endless-road.json) |
 | Endless Road Runner | 289125 | [289125-endless-road-runner.json](./289125-endless-road-runner.json) |
@@ -8537,6 +8538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyes & Ears | 393258 | [393258-eyes-and-ears.json](./393258-eyes-and-ears.json) |
 | Eyes Behind | 351257 | [351257-eyes-behind.json](./351257-eyes-behind.json) |
 | Eyes Behind 2 | 422491 | [422491-eyes-behind-2.json](./422491-eyes-behind-2.json) |
+| Eyes Down! | 128748 | [128748-eyes-down.json](./128748-eyes-down.json) |
 | Eyes First: Double Up | 210742 | [210742-eyes-first-double-up.json](./210742-eyes-first-double-up.json) |
 | Eyes First: Match Two | 210741 | [210741-eyes-first-match-two.json](./210741-eyes-first-match-two.json) |
 | Eyes First: Tile Slide | 210743 | [210743-eyes-first-tile-slide.json](./210743-eyes-first-tile-slide.json) |
