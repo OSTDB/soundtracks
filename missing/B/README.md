@@ -981,6 +981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1143,6 +1144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baikinman wo Yattsukero! | 300006 | [300006-baikinman-wo-yattsukero.json](./300006-baikinman-wo-yattsukero.json) |
 | Baiko | 99429 | [99429-baiko.json](./99429-baiko.json) |
 | Baikoh: Word Challenges | 87587 | [87587-baikoh-word-challenges.json](./87587-baikoh-word-challenges.json) |
+| Baikonur Space | 102985 | [102985-baikonur-space.json](./102985-baikonur-space.json) |
 | Bail Force: Cyberpunk Bounty Hunters | 249181 | [249181-bail-force-cyberpunk-bounty-hunters.json](./249181-bail-force-cyberpunk-bounty-hunters.json) |
 | Bail or Jail | 200972 | [200972-bail-or-jail.json](./200972-bail-or-jail.json) |
 | Bail or Jail: Character DLC Bundle 2 | 255141 | [255141-bail-or-jail-character-dlc-bundle-2.json](./255141-bail-or-jail-character-dlc-bundle-2.json) |
@@ -2400,6 +2402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarous: Tavern of Emyr | 126471 | [126471-barbarous-tavern-of-emyr.json](./126471-barbarous-tavern-of-emyr.json) |
 | BarBarQ | 82149 | [82149-barbarq.json](./82149-barbarq.json) |
 | BarbarQ 2 | 175018 | [175018-barbarq-2.json](./175018-barbarq-2.json) |
+| Barbarroja | 102903 | [102903-barbarroja.json](./102903-barbarroja.json) |
 | Barbatus no Majo | 337004 | [337004-barbatus-no-majo.json](./337004-barbatus-no-majo.json) |
 | Barbe-Yeux | 420203 | [420203-barbe-yeux.json](./420203-barbe-yeux.json) |
 | Barbearian | 90157 | [90157-barbearian.json](./90157-barbearian.json) |
@@ -8937,6 +8940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BitStream | 91657 | [91657-bitstream.json](./91657-bitstream.json) |
 | Bitsturbed | 145011 | [145011-bitsturbed.json](./145011-bitsturbed.json) |
 | Bitsy | 242508 | [242508-bitsy.json](./242508-bitsy.json) |
+| Bitsy Bits | 102482 | [102482-bitsy-bits.json](./102482-bitsy-bits.json) |
 | Bitsy Bits: The Secret of Magic | 311248 | [311248-bitsy-bits-the-secret-of-magic.json](./311248-bitsy-bits-the-secret-of-magic.json) |
 | Bitsy Mystery Dungeon | 203130 | [203130-bitsy-mystery-dungeon.json](./203130-bitsy-mystery-dungeon.json) |
 | Bitten | 319756 | [319756-bitten.json](./319756-bitten.json) |
@@ -12028,12 +12032,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bluem | 199396 | [199396-bluem.json](./199396-bluem.json) |
 | Blueman | 329002 | [329002-blueman.json](./329002-blueman.json) |
 | Blueman | 392717 | [392717-blueman.json](./392717-blueman.json) |
+| Blueprint | 102475 | [102475-blueprint.json](./102475-blueprint.json) |
 | Blueprint | 18804 | [18804-blueprint.json](./18804-blueprint.json) |
 | Blueprint 3D | 243470 | [243470-blueprint-3d.json](./243470-blueprint-3d.json) |
 | Blueprint Bob | 332948 | [332948-blueprint-bob.json](./332948-blueprint-bob.json) |
 | Blueprint Hell | 315782 | [315782-blueprint-hell.json](./315782-blueprint-hell.json) |
 | BluePrint Racer 4D | 68646 | [68646-blueprint-racer-4d.json](./68646-blueprint-racer-4d.json) |
 | Blueprint Tycoon | 28727 | [28727-blueprint-tycoon.json](./28727-blueprint-tycoon.json) |
+| Blueprint Word | 102980 | [102980-blueprint-word.json](./102980-blueprint-word.json) |
 | Blueprint Word: Classroom | 112477 | [112477-blueprint-word-classroom.json](./112477-blueprint-word-classroom.json) |
 | Blues and Bullets: Episode 2 | 173376 | [173376-blues-and-bullets-episode-2.json](./173376-blues-and-bullets-episode-2.json) |
 | Blues Brothers 2000 | 3425 | [3425-blues-brothers-2000.json](./3425-blues-brothers-2000.json) |
