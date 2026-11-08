@@ -8780,6 +8780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Wars | 40244 | [40244-world-wars.json](./40244-world-wars.json) |
 | World Wide Hack | 138931 | [138931-world-wide-hack.json](./138931-world-wide-hack.json) |
 | World Wide Love!: Sekai Seifuku Kanojo Fandisc | 375364 | [375364-world-wide-love-sekai-seifuku-kanojo-fandisc.json](./375364-world-wide-love-sekai-seifuku-kanojo-fandisc.json) |
+| World Wide Rally | 94271 | [94271-world-wide-rally.json](./94271-world-wide-rally.json) |
 | World Witches: United Front | 200763 | [200763-world-witches-united-front.json](./200763-world-witches-united-front.json) |
 | World Without Reason | 284410 | [284410-world-without-reason.json](./284410-world-without-reason.json) |
 | World Without Time | 390214 | [390214-world-without-time.json](./390214-world-without-time.json) |
