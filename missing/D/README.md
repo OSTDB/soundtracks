@@ -6178,6 +6178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Delirium | 320553 | [320553-delirium.json](./320553-delirium.json) |
 | Delirium VR | 116224 | [116224-delirium-vr.json](./116224-delirium-vr.json) |
 | Delirium: Bad Trip Edition | 86570 | [86570-delirium-bad-trip-edition.json](./86570-delirium-bad-trip-edition.json) |
+| Delirium: Chase Scene | 128719 | [128719-delirium-chase-scene.json](./128719-delirium-chase-scene.json) |
 | Delirium: Echoes of the Domino | 360654 | [360654-delirium-echoes-of-the-domino.json](./360654-delirium-echoes-of-the-domino.json) |
 | Deliro | 91590 | [91590-deliro.json](./91590-deliro.json) |
 | Delisoba Deluxe | 213864 | [213864-delisoba-deluxe.json](./213864-delisoba-deluxe.json) |
@@ -8097,6 +8098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detra | 345560 | [345560-detra.json](./345560-detra.json) |
 | Detriot | 219243 | [219243-detriot.json](./219243-detriot.json) |
 | Detrita Battlegrounds | 54494 | [54494-detrita-battlegrounds.json](./54494-detrita-battlegrounds.json) |
+| Detritus | 128763 | [128763-detritus.json](./128763-detritus.json) |
 | Detritus | 192392 | [192392-detritus.json](./192392-detritus.json) |
 | Detritus: The Daemons Quest | 71379 | [71379-detritus-the-daemons-quest.json](./71379-detritus-the-daemons-quest.json) |
 | Detroit | 71813 | [71813-detroit.json](./71813-detroit.json) |
@@ -17586,6 +17588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dry Path | 181808 | [181808-dry-path.json](./181808-dry-path.json) |
 | Dry School | 217791 | [217791-dry-school.json](./217791-dry-school.json) |
 | Dry Sorrow | 271783 | [271783-dry-sorrow.json](./271783-dry-sorrow.json) |
+| Dry Voices: who are you? | 128746 | [128746-dry-voices-who-are-you.json](./128746-dry-voices-who-are-you.json) |
 | Dryad | 164163 | [164163-dryad.json](./164163-dryad.json) |
 | Drybreed | 180715 | [180715-drybreed.json](./180715-drybreed.json) |
 | Dryft City Kyngs | 236158 | [236158-dryft-city-kyngs.json](./236158-dryft-city-kyngs.json) |
