@@ -1535,6 +1535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep It Running: Together | 330692 | [330692-keep-it-running-together.json](./330692-keep-it-running-together.json) |
 | Keep It Safe 2 | 44294 | [44294-keep-it-safe-2.json](./44294-keep-it-safe-2.json) |
 | Keep It Steady! | 295893 | [295893-keep-it-steady.json](./295893-keep-it-steady.json) |
+| Keep It Together | 134811 | [134811-keep-it-together.json](./134811-keep-it-together.json) |
 | Keep it Up | 312824 | [312824-keep-it-up.json](./312824-keep-it-up.json) |
 | Keep It Up! | 402733 | [402733-keep-it-up.json](./402733-keep-it-up.json) |
 | Keep Keepers | 272363 | [272363-keep-keepers.json](./272363-keep-keepers.json) |
@@ -2022,6 +2023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keybort | 389700 | [389700-keybort.json](./389700-keybort.json) |
 | KeyBreach | 389690 | [389690-keybreach.json](./389690-keybreach.json) |
 | Keycap Keycap! | 420975 | [420975-keycap-keycap.json](./420975-keycap-keycap.json) |
+| KeyCars | 134768 | [134768-keycars.json](./134768-keycars.json) |
 | Keychain | 305294 | [305294-keychain.json](./305294-keychain.json) |
 | Keyclash | 386420 | [386420-keyclash.json](./386420-keyclash.json) |
 | Keydungeon | 182635 | [182635-keydungeon.json](./182635-keydungeon.json) |
@@ -2856,7 +2858,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
