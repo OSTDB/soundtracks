@@ -2009,6 +2009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Pro Yakyuu '96 | 384770 | [384770-jikkyou-pawafuru-pro-yakyuu-96.json](./384770-jikkyou-pawafuru-pro-yakyuu-96.json) |
 | Jikkyou Pawafuru Pro Yakyuu '96: Kaimaku-ban | 42644 | [42644-jikkyou-pawafuru-pro-yakyuu-96-kaimaku-ban.json](./42644-jikkyou-pawafuru-pro-yakyuu-96-kaimaku-ban.json) |
 | Jikkyou Pawafuru Pro Yakyuu: Basic-ban '98 | 37207 | [37207-jikkyou-pawafuru-pro-yakyuu-basic-ban-98.json](./37207-jikkyou-pawafuru-pro-yakyuu-basic-ban-98.json) |
+| Jikkyou Pawafuru Puroyakyu | 116575 | [116575-jikkyou-pawafuru-puroyakyu.json](./116575-jikkyou-pawafuru-puroyakyu.json) |
 | Jikkyou Pawafuru Puroyakyu | 284189 | [284189-jikkyou-pawafuru-puroyakyu.json](./284189-jikkyou-pawafuru-puroyakyu.json) |
 | Jikkyou Pawafuru Puroyakyu '95 | 63563 | [63563-jikkyou-pawafuru-puroyakyu-95.json](./63563-jikkyou-pawafuru-puroyakyu-95.json) |
 | Jikkyou Pawafuru Puroyakyu '95: Kaimaku-ban | 176120 | [176120-jikkyou-pawafuru-puroyakyu-95-kaimaku-ban.json](./176120-jikkyou-pawafuru-puroyakyu-95-kaimaku-ban.json) |
@@ -3752,6 +3753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junk Jack | 26307 | [26307-junk-jack.json](./26307-junk-jack.json) |
 | Junk Jack Retro | 89003 | [89003-junk-jack-retro.json](./89003-junk-jack-retro.json) |
 | Junk on Wheels | 126316 | [126316-junk-on-wheels.json](./126316-junk-on-wheels.json) |
+| Junk Planet | 116637 | [116637-junk-planet.json](./116637-junk-planet.json) |
 | Junk Race | 246988 | [246988-junk-race.json](./246988-junk-race.json) |
 | Junk Runner 64 | 396416 | [396416-junk-runner-64.json](./396416-junk-runner-64.json) |
 | Junk Sec | 394901 | [394901-junk-sec.json](./394901-junk-sec.json) |
