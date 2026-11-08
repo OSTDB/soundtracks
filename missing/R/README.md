@@ -3416,7 +3416,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Galaxy Outlaw | 107318 | [107318-rebel-galaxy-outlaw.json](./107318-rebel-galaxy-outlaw.json) |
 | Rebel Inc: Escalation - Dollars & Disasters | 237252 | [237252-rebel-inc-escalation-dollars-and-disasters.json](./237252-rebel-inc-escalation-dollars-and-disasters.json) |
 | Rebel Inc: Escalation - Sand & Secrets | 220482 | [220482-rebel-inc-escalation-sand-and-secrets.json](./220482-rebel-inc-escalation-sand-and-secrets.json) |
-| Rebel Inc. | 115206 | [115206-rebel-inc.json](./115206-rebel-inc.json) |
 | Rebel Infernal Path | 380793 | [380793-rebel-infernal-path.json](./380793-rebel-infernal-path.json) |
 | Rebel Kitsune | 177353 | [177353-rebel-kitsune.json](./177353-rebel-kitsune.json) |
 | Rebel Maneuver Linus | 264451 | [264451-rebel-maneuver-linus.json](./264451-rebel-maneuver-linus.json) |
@@ -7998,7 +7997,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Immortals | 1053 | [1053-rise-of-immortals.json](./1053-rise-of-immortals.json) |
 | Rise of Immortals: Battle for Graxia | 2046 | [2046-rise-of-immortals-battle-for-graxia.json](./2046-rise-of-immortals-battle-for-graxia.json) |
 | Rise of Industry: 2130 | 154521 | [154521-rise-of-industry-2130.json](./154521-rise-of-industry-2130.json) |
-| Rise of Insanity | 34665 | [34665-rise-of-insanity.json](./34665-rise-of-insanity.json) |
 | Rise of Jericho | 248027 | [248027-rise-of-jericho.json](./248027-rise-of-jericho.json) |
 | Rise of Keepers | 33994 | [33994-rise-of-keepers.json](./33994-rise-of-keepers.json) |
 | Rise of Kenshin | 310731 | [310731-rise-of-kenshin.json](./310731-rise-of-kenshin.json) |
