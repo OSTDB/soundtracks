@@ -17432,6 +17432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Station: Escape Room | 151011 | [151011-the-station-escape-room.json](./151011-the-station-escape-room.json) |
 | The Statue Got Me High | 358371 | [358371-the-statue-got-me-high.json](./358371-the-statue-got-me-high.json) |
 | The Stealth House: Secret Key | 101018 | [101018-the-stealth-house-secret-key.json](./101018-the-stealth-house-secret-key.json) |
+| The Stealth Inc 1 & 2 Ultimate-est Edition | 118503 | [118503-the-stealth-inc-1-and-2-ultimate-est-edition.json](./118503-the-stealth-inc-1-and-2-ultimate-est-edition.json) |
 | The Stellar Station Engineer | 306396 | [306396-the-stellar-station-engineer.json](./306396-the-stellar-station-engineer.json) |
 | The Stepfather Remake | 332279 | [332279-the-stepfather-remake.json](./332279-the-stepfather-remake.json) |
 | The Steps as We Know Them | 149875 | [149875-the-steps-as-we-know-them.json](./149875-the-steps-as-we-know-them.json) |
@@ -30543,6 +30544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transport Fever 2: Deluxe Edition | 241359 | [241359-transport-fever-2-deluxe-edition.json](./241359-transport-fever-2-deluxe-edition.json) |
 | Transport Fever 3 | 344466 | [344466-transport-fever-3.json](./344466-transport-fever-3.json) |
 | Transport Giant: Down Under | 9445 | [9445-transport-giant-down-under.json](./9445-transport-giant-down-under.json) |
+| Transport Giant: Gold Edition | 118500 | [118500-transport-giant-gold-edition.json](./118500-transport-giant-gold-edition.json) |
 | Transport Giant: Gold Edition 2012 | 53856 | [53856-transport-giant-gold-edition-2012.json](./53856-transport-giant-gold-edition-2012.json) |
 | Transport INC | 118521 | [118521-transport-inc.json](./118521-transport-inc.json) |
 | Transport INC: Map Pack | 226895 | [226895-transport-inc-map-pack.json](./226895-transport-inc-map-pack.json) |
