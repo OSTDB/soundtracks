@@ -517,6 +517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Backgammon Professional | 338799 | [338799-backgammon-professional.json](./338799-backgammon-professional.json) |
 | Backgammon Reloaded 3D | 93821 | [93821-backgammon-reloaded-3d.json](./93821-backgammon-reloaded-3d.json) |
 | Backgammon Royale | 12397 | [12397-backgammon-royale.json](./12397-backgammon-royale.json) |
+| Backgammon, Chess & Checkers | 111142 | [111142-backgammon-chess-and-checkers.json](./111142-backgammon-chess-and-checkers.json) |
 | Backgammon: Board Game Puzzle | 221587 | [221587-backgammon-board-game-puzzle.json](./221587-backgammon-board-game-puzzle.json) |
 | Backgammon. | 88715 | [88715-backgammon.json](./88715-backgammon.json) |
 | Background Bells | 375996 | [375996-background-bells.json](./375996-background-bells.json) |
@@ -6844,6 +6845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best of Casual Games | 84784 | [84784-best-of-casual-games.json](./84784-best-of-casual-games.json) |
 | Best of Chess: Volume I - American Triumph | 362419 | [362419-best-of-chess-volume-i-american-triumph.json](./362419-best-of-chess-volume-i-american-triumph.json) |
 | Best of Eleven | 202488 | [202488-best-of-eleven.json](./202488-best-of-eleven.json) |
+| Best of Fight | 111138 | [111138-best-of-fight.json](./111138-best-of-fight.json) |
 | Best of Klei 2025 | 52630 | [52630-best-of-klei-2025.json](./52630-best-of-klei-2025.json) |
 | Best of Mahjong | 85509 | [85509-best-of-mahjong.json](./85509-best-of-mahjong.json) |
 | Best of Merge Vol #1 | 207885 | [207885-best-of-merge-vol-1.json](./207885-best-of-merge-vol-1.json) |
@@ -7043,6 +7045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bewitched | 123828 | [123828-bewitched.json](./123828-bewitched.json) |
 | Bewitched | 296602 | [296602-bewitched.json](./296602-bewitched.json) |
 | Bewitched Balls | 249955 | [249955-bewitched-balls.json](./249955-bewitched-balls.json) |
+| Bewitched game | 111264 | [111264-bewitched-game.json](./111264-bewitched-game.json) |
 | Bewitched Hearts | 179703 | [179703-bewitched-hearts.json](./179703-bewitched-hearts.json) |
 | Bewitching Boba | 388701 | [388701-bewitching-boba.json](./388701-bewitching-boba.json) |
 | Bewitching Sinners Royal Blood | 375292 | [375292-bewitching-sinners-royal-blood.json](./375292-bewitching-sinners-royal-blood.json) |
