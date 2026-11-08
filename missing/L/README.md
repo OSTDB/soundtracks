@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L'intrépide: Le Futur de L'imparfait | 145320 | [145320-lintrepide-le-futur-de-limparfait.json](./145320-lintrepide-le-futur-de-limparfait.json) |
 | L'Odyssée Sibérienne: Le Rêve Utile de Nicolas Vanier | 321859 | [321859-lodyssee-siberienne-le-reve-utile-de-nicolas-vanier.json](./321859-lodyssee-siberienne-le-reve-utile-de-nicolas-vanier.json) |
 | L@ve Once | 139450 | [139450-l-ve-once.json](./139450-l-ve-once.json) |
+| L@ve Once: Mermaid's Tears | 81571 | [81571-l-ve-once-mermaids-tears.json](./81571-l-ve-once-mermaids-tears.json) |
 | L/Right Reflection | 239816 | [239816-l-right-reflection.json](./239816-l-right-reflection.json) |
 | L&M | 97400 | [97400-l-and-m.json](./97400-l-and-m.json) |
 | L00P | 255671 | [255671-l00p.json](./255671-l00p.json) |
@@ -100,6 +101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Bola Negra | 379309 | [379309-la-bola-negra.json](./379309-la-bola-negra.json) |
 | La Búsqueda del Dilmun: La Tabla de Rawls | 280058 | [280058-la-busqueda-del-dilmun-la-tabla-de-rawls.json](./280058-la-busqueda-del-dilmun-la-tabla-de-rawls.json) |
 | La Caja de los Sueños | 298741 | [298741-la-caja-de-los-suenos.json](./298741-la-caja-de-los-suenos.json) |
+| La Camila : A VR Experience | 81616 | [81616-la-camila-a-vr-experience.json](./81616-la-camila-a-vr-experience.json) |
 | La Carbonara | 323172 | [323172-la-carbonara.json](./323172-la-carbonara.json) |
 | La Casa del Taquero | 379725 | [379725-la-casa-del-taquero.json](./379725-la-casa-del-taquero.json) |
 | La Caza | 288121 | [288121-la-caza.json](./288121-la-caza.json) |
@@ -187,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Sombra | 220593 | [220593-la-sombra.json](./220593-la-sombra.json) |
 | LA Soul | 405428 | [405428-la-soul.json](./405428-la-soul.json) |
 | La Statuette maudite de l'oncle Ernest | 282689 | [282689-la-statuette-maudite-de-loncle-ernest.json](./282689-la-statuette-maudite-de-loncle-ernest.json) |
+| La Storia della Arcana Famiglia | 81580 | [81580-la-storia-della-arcana-famiglia.json](./81580-la-storia-della-arcana-famiglia.json) |
 | La storia della Arcana Famiglia 2 | 213834 | [213834-la-storia-della-arcana-famiglia-2.json](./213834-la-storia-della-arcana-famiglia-2.json) |
 | La storia della Arcana Famiglia: Rinato | 339376 | [339376-la-storia-della-arcana-famiglia-rinato.json](./339376-la-storia-della-arcana-famiglia-rinato.json) |
 | LA Street Racing | 27553 | [27553-la-street-racing.json](./27553-la-street-racing.json) |
