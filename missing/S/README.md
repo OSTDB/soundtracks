@@ -1558,6 +1558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctus | 235775 | [235775-sanctus.json](./235775-sanctus.json) |
 | Sanctus Mortem | 102912 | [102912-sanctus-mortem.json](./102912-sanctus-mortem.json) |
 | Sand and Rust | 124582 | [124582-sand-and-rust.json](./124582-sand-and-rust.json) |
+| Sand and Stars | 136555 | [136555-sand-and-stars.json](./136555-sand-and-stars.json) |
 | Sand Bullets | 169094 | [169094-sand-bullets.json](./169094-sand-bullets.json) |
 | Sand Castle | 192617 | [192617-sand-castle.json](./192617-sand-castle.json) |
 | Sand Castles | 161387 | [161387-sand-castles.json](./161387-sand-castles.json) |
@@ -4287,6 +4288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search | 250425 | [250425-search.json](./250425-search.json) |
 | Search & Destroy | 43347 | [43347-search-and-destroy.json](./43347-search-and-destroy.json) |
 | Search & Find: Hidden Objects | 264637 | [264637-search-and-find-hidden-objects.json](./264637-search-and-find-hidden-objects.json) |
+| Search & Rescue | 136568 | [136568-search-and-rescue.json](./136568-search-and-rescue.json) |
 | Search & Rescue 2 | 71735 | [71735-search-and-rescue-2.json](./71735-search-and-rescue-2.json) |
 | Search & Rescue 4: Coastal Heroes | 50114 | [50114-search-and-rescue-4-coastal-heroes.json](./50114-search-and-rescue-4-coastal-heroes.json) |
 | Search & Rescue: Vietnam Med Evac | 73994 | [73994-search-and-rescue-vietnam-med-evac.json](./73994-search-and-rescue-vietnam-med-evac.json) |
@@ -4402,6 +4404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seasons of Heaven | 26300 | [26300-seasons-of-heaven.json](./26300-seasons-of-heaven.json) |
 | Seasons of Rocco | 280003 | [280003-seasons-of-rocco.json](./280003-seasons-of-rocco.json) |
 | Seasons of Solitude | 358366 | [358366-seasons-of-solitude.json](./358366-seasons-of-solitude.json) |
+| Seasons of the Samurai | 136561 | [136561-seasons-of-the-samurai.json](./136561-seasons-of-the-samurai.json) |
 | Seasons of the Sorcerer | 211168 | [211168-seasons-of-the-sorcerer.json](./211168-seasons-of-the-sorcerer.json) |
 | Seasons of War | 58746 | [58746-seasons-of-war.json](./58746-seasons-of-war.json) |
 | Seasons Pairs | 96030 | [96030-seasons-pairs.json](./96030-seasons-pairs.json) |
@@ -4663,6 +4666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Service: Security Breach | 73350 | [73350-secret-service-security-breach.json](./73350-secret-service-security-breach.json) |
 | Secret Shuffle | 258058 | [258058-secret-shuffle.json](./258058-secret-shuffle.json) |
 | Secret Some | 398756 | [398756-secret-some.json](./398756-secret-some.json) |
+| Secret Spaces | 136553 | [136553-secret-spaces.json](./136553-secret-spaces.json) |
 | Secret Spy: Operation Love | 240249 | [240249-secret-spy-operation-love.json](./240249-secret-spy-operation-love.json) |
 | Secret Squonker | 407087 | [407087-secret-squonker.json](./407087-secret-squonker.json) |
 | Secret Summer | 368096 | [368096-secret-summer.json](./368096-secret-summer.json) |
@@ -8490,6 +8494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Digital Devil Saga | 18227 | [18227-shin-megami-tensei-digital-devil-saga.json](./18227-shin-megami-tensei-digital-devil-saga.json) |
 | Shin Megami Tensei: Digital Devil Saga - Deluxe Box Set | 382184 | [382184-shin-megami-tensei-digital-devil-saga-deluxe-box-set.json](./382184-shin-megami-tensei-digital-devil-saga-deluxe-box-set.json) |
 | Shin Megami Tensei: Digital Devil Saga 2 | 18229 | [18229-shin-megami-tensei-digital-devil-saga-2.json](./18229-shin-megami-tensei-digital-devil-saga-2.json) |
+| Shin Megami Tensei: if... Hazama-hen | 136597 | [136597-shin-megami-tensei-if-hazama-hen.json](./136597-shin-megami-tensei-if-hazama-hen.json) |
 | Shin Megami Tensei: Imagine | 72672 | [72672-shin-megami-tensei-imagine.json](./72672-shin-megami-tensei-imagine.json) |
 | Shin Megami Tensei: Liberation Dx2 | 57019 | [57019-shin-megami-tensei-liberation-dx2.json](./57019-shin-megami-tensei-liberation-dx2.json) |
 | Shin Megami Tensei: Nine | 6050 | [6050-shin-megami-tensei-nine.json](./6050-shin-megami-tensei-nine.json) |
@@ -16717,6 +16722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldier of Fortune: Gold Edition | 44642 | [44642-soldier-of-fortune-gold-edition.json](./44642-soldier-of-fortune-gold-edition.json) |
 | Soldier of Fortune: Payback | 3113 | [3113-soldier-of-fortune-payback.json](./3113-soldier-of-fortune-payback.json) |
 | Soldier of Fortune: Platinum Edition | 154226 | [154226-soldier-of-fortune-platinum-edition.json](./154226-soldier-of-fortune-platinum-edition.json) |
+| Soldier of Fortune: Tactical Low-Violence Version | 136585 | [136585-soldier-of-fortune-tactical-low-violence-version.json](./136585-soldier-of-fortune-tactical-low-violence-version.json) |
 | Soldier of Light | 54717 | [54717-soldier-of-light.json](./54717-soldier-of-light.json) |
 | Soldier of Steel | 22134 | [22134-soldier-of-steel.json](./22134-soldier-of-steel.json) |
 | Soldier of the Empire | 255611 | [255611-soldier-of-the-empire.json](./255611-soldier-of-the-empire.json) |
@@ -19958,6 +19964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 142578 | [142578-space-hunter.json](./142578-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
@@ -27524,6 +27531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Ball | 39587 | [39587-stone-ball.json](./39587-stone-ball.json) |
 | Stone Breaker | 226757 | [226757-stone-breaker.json](./226757-stone-breaker.json) |
 | Stone Cold Sexy | 182999 | [182999-stone-cold-sexy.json](./182999-stone-cold-sexy.json) |
+| Stone Crawler | 136614 | [136614-stone-crawler.json](./136614-stone-crawler.json) |
 | Stone Crawler Plus | 335041 | [335041-stone-crawler-plus.json](./335041-stone-crawler-plus.json) |
 | Stone Defence | 113032 | [113032-stone-defence.json](./113032-stone-defence.json) |
 | Stone Flood | 87392 | [87392-stone-flood.json](./87392-stone-flood.json) |
@@ -27805,6 +27813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stormovik: Soviet Attack Fighter SU-25 | 79594 | [79594-stormovik-soviet-attack-fighter-su-25.json](./79594-stormovik-soviet-attack-fighter-su-25.json) |
 | StormRend | 184563 | [184563-stormrend.json](./184563-stormrend.json) |
 | Stormrise | 7197 | [7197-stormrise.json](./7197-stormrise.json) |
+| Stormrite | 136567 | [136567-stormrite.json](./136567-stormrite.json) |
 | Storms | 130259 | [130259-storms.json](./130259-storms.json) |
 | Storms 2 | 173007 | [173007-storms-2.json](./173007-storms-2.json) |
 | Storms of Shambhala | 72363 | [72363-storms-of-shambhala.json](./72363-storms-of-shambhala.json) |
