@@ -1212,6 +1212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vegas Tales | 185974 | [185974-vegas-tales.json](./185974-vegas-tales.json) |
 | Vegas World | 131312 | [131312-vegas-world.json](./131312-vegas-world.json) |
 | Vegas: Make It Big | 15725 | [15725-vegas-make-it-big.json](./15725-vegas-make-it-big.json) |
+| VegasTowers | 92553 | [92553-vegastowers.json](./92553-vegastowers.json) |
 | Vege Bubble Shoot | 278490 | [278490-vege-bubble-shoot.json](./278490-vege-bubble-shoot.json) |
 | Vegemancer | 374576 | [374576-vegemancer.json](./374576-vegemancer.json) |
 | VegeMine | 272192 | [272192-vegemine.json](./272192-vegemine.json) |
