@@ -1251,6 +1251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quiz x RPG | 193253 | [193253-quiz-x-rpg.json](./193253-quiz-x-rpg.json) |
 | Quiz-Race | 102696 | [102696-quiz-race.json](./102696-quiz-race.json) |
 | Quiz: Don’t Lose to a Kid! | 399786 | [399786-quiz-don-t-lose-to-a-kid.json](./399786-quiz-don-t-lose-to-a-kid.json) |
+| Quiz: Tac Toe | 93122 | [93122-quiz-tac-toe.json](./93122-quiz-tac-toe.json) |
 | Quiz: Toukou Shashin | 37659 | [37659-quiz-toukou-shashin.json](./37659-quiz-toukou-shashin.json) |
 | Quiz.com | 221386 | [221386-quiz-com.json](./221386-quiz-com.json) |
 | Quizality | 30199 | [30199-quizality.json](./30199-quizality.json) |
