@@ -314,6 +314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haikei, Kanshu Hajimemashita | 135446 | [135446-haikei-kanshu-hajimemashita.json](./135446-haikei-kanshu-hajimemashita.json) |
 | Haiki | 141134 | [141134-haiki.json](./141134-haiki.json) |
 | Haiki Gas Circle | 151820 | [151820-haiki-gas-circle.json](./151820-haiki-gas-circle.json) |
+| Haiku Adventure | 112531 | [112531-haiku-adventure.json](./112531-haiku-adventure.json) |
 | Haiku Journey | 209788 | [209788-haiku-journey.json](./209788-haiku-journey.json) |
 | Haiku, and the Mother Virus | 336070 | [336070-haiku-and-the-mother-virus.json](./336070-haiku-and-the-mother-virus.json) |
 | Haiku, the Baby Robot | 231993 | [231993-haiku-the-baby-robot.json](./231993-haiku-the-baby-robot.json) |
@@ -712,6 +713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween 2: Asylum | 357182 | [357182-halloween-2-asylum.json](./357182-halloween-2-asylum.json) |
 | Halloween 3D | 106514 | [106514-halloween-3d.json](./106514-halloween-3d.json) |
 | Halloween Again | 272619 | [272619-halloween-again.json](./272619-halloween-again.json) |
+| Halloween Arkanoid 2 | 112446 | [112446-halloween-arkanoid-2.json](./112446-halloween-arkanoid-2.json) |
 | Halloween Basketball Legends | 395955 | [395955-halloween-basketball-legends.json](./395955-halloween-basketball-legends.json) |
 | Halloween Bubble Shooter | 270466 | [270466-halloween-bubble-shooter.json](./270466-halloween-bubble-shooter.json) |
 | Halloween Candy Break | 187763 | [187763-halloween-candy-break.json](./187763-halloween-candy-break.json) |
@@ -736,6 +738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Games for Toddlers and Babies | 271518 | [271518-halloween-games-for-toddlers-and-babies.json](./271518-halloween-games-for-toddlers-and-babies.json) |
 | Halloween Games for Toddlers and Kids | 266987 | [266987-halloween-games-for-toddlers-and-kids.json](./266987-halloween-games-for-toddlers-and-kids.json) |
 | Halloween Ghost Grabbers | 379001 | [379001-halloween-ghost-grabbers.json](./379001-halloween-ghost-grabbers.json) |
+| Halloween Girl | 112456 | [112456-halloween-girl.json](./112456-halloween-girl.json) |
 | Halloween Girls | 373750 | [373750-halloween-girls.json](./373750-halloween-girls.json) |
 | Halloween Harem | 398450 | [398450-halloween-harem.json](./398450-halloween-harem.json) |
 | Halloween Harry in Zombie Wars | 93057 | [93057-halloween-harry-in-zombie-wars.json](./93057-halloween-harry-in-zombie-wars.json) |
@@ -5115,6 +5118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hentai Girl Division | 194201 | [194201-hentai-girl-division.json](./194201-hentai-girl-division.json) |
 | Hentai Girl Fantasy | 136425 | [136425-hentai-girl-fantasy.json](./136425-hentai-girl-fantasy.json) |
 | Hentai Girl Hime | 136426 | [136426-hentai-girl-hime.json](./136426-hentai-girl-hime.json) |
+| Hentai Girl in Space | 112457 | [112457-hentai-girl-in-space.json](./112457-hentai-girl-in-space.json) |
 | Hentai Girl Karen | 136427 | [136427-hentai-girl-karen.json](./136427-hentai-girl-karen.json) |
 | Hentai Girl Linda | 136428 | [136428-hentai-girl-linda.json](./136428-hentai-girl-linda.json) |
 | Hentai Girl Puzzle | 365428 | [365428-hentai-girl-puzzle.json](./365428-hentai-girl-puzzle.json) |
