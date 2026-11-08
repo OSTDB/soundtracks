@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babyquick: Adventure of the Moon Dragon | 188855 | [188855-babyquick-adventure-of-the-moon-dragon.json](./188855-babyquick-adventure-of-the-moon-dragon.json) |
 | BabyRace | 255122 | [255122-babyrace.json](./255122-babyrace.json) |
 | Babysitter Bloodbath | 62406 | [62406-babysitter-bloodbath.json](./62406-babysitter-bloodbath.json) |
+| Babysitter First Day Mania | 90765 | [90765-babysitter-first-day-mania.json](./90765-babysitter-first-day-mania.json) |
 | Babysitter Simulator | 203902 | [203902-babysitter-simulator.json](./203902-babysitter-simulator.json) |
 | Babysitter Steve | 245197 | [245197-babysitter-steve.json](./245197-babysitter-steve.json) |
 | Babysitting Fun | 310540 | [310540-babysitting-fun.json](./310540-babysitting-fun.json) |
@@ -2797,6 +2798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barnyard Games For Kids | 96737 | [96737-barnyard-games-for-kids.json](./96737-barnyard-games-for-kids.json) |
 | Barnyard Mahjong | 90736 | [90736-barnyard-mahjong.json](./90736-barnyard-mahjong.json) |
 | Barnyard Mahjong 3 | 32156 | [32156-barnyard-mahjong-3.json](./32156-barnyard-mahjong-3.json) |
+| Barnyard Puzzles For Kids | 90754 | [90754-barnyard-puzzles-for-kids.json](./90754-barnyard-puzzles-for-kids.json) |
 | Barnyard Sherlock Hooves | 389032 | [389032-barnyard-sherlock-hooves.json](./389032-barnyard-sherlock-hooves.json) |
 | Baro Kart | 259009 | [259009-baro-kart.json](./259009-baro-kart.json) |
 | Barold | 220135 | [220135-barold.json](./220135-barold.json) |
@@ -6568,6 +6570,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben 10/Generator Rex: Heroes United | 176854 | [176854-ben-10-generator-rex-heroes-united.json](./176854-ben-10-generator-rex-heroes-united.json) |
 | Ben and Ed | 20176 | [20176-ben-and-ed.json](./20176-ben-and-ed.json) |
 | Ben and Holly: Big Star Fun | 109009 | [109009-ben-and-holly-big-star-fun.json](./109009-ben-and-holly-big-star-fun.json) |
+| Ben and Holly: Magic School | 90743 | [90743-ben-and-holly-magic-school.json](./90743-ben-and-holly-magic-school.json) |
 | Ben Bero Beh | 40265 | [40265-ben-bero-beh.json](./40265-ben-bero-beh.json) |
 | Ben Bildim | 360447 | [360447-ben-bildim.json](./360447-ben-bildim.json) |
 | Ben Hur: Blood of Braves | 269362 | [269362-ben-hur-blood-of-braves.json](./269362-ben-hur-blood-of-braves.json) |
@@ -6732,6 +6735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bergen Bridge Beginner 2 | 88850 | [88850-bergen-bridge-beginner-2.json](./88850-bergen-bridge-beginner-2.json) |
 | Bergen Bridge Expert | 90842 | [90842-bergen-bridge-expert.json](./90842-bergen-bridge-expert.json) |
 | Bergen Bridge Intermediate 1 | 95562 | [95562-bergen-bridge-intermediate-1.json](./95562-bergen-bridge-intermediate-1.json) |
+| Bergen Bridge Intermediate 2 | 90862 | [90862-bergen-bridge-intermediate-2.json](./90862-bergen-bridge-intermediate-2.json) |
 | Bergentruck 201X | 359045 | [359045-bergentruck-201x.json](./359045-bergentruck-201x.json) |
 | Bergfried | 405170 | [405170-bergfried.json](./405170-bergfried.json) |
 | Berghain Trainer | 313778 | [313778-berghain-trainer.json](./313778-berghain-trainer.json) |
@@ -12827,6 +12831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bombastic | 22280 | [22280-bombastic.json](./22280-bombastic.json) |
 | Bombastic | 308253 | [308253-bombastic.json](./308253-bombastic.json) |
 | Bombastic Land | 267863 | [267863-bombastic-land.json](./267863-bombastic-land.json) |
+| Bombastic Memory | 90770 | [90770-bombastic-memory.json](./90770-bombastic-memory.json) |
 | Bombastic! | 103655 | [103655-bombastic.json](./103655-bombastic.json) |
 | Bombball | 301584 | [301584-bombball.json](./301584-bombball.json) |
 | Bombcapsule | 280287 | [280287-bombcapsule.json](./280287-bombcapsule.json) |
