@@ -11413,6 +11413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antpocalypse | 386917 | [386917-antpocalypse.json](./386917-antpocalypse.json) |
 | AntQueen 3D | 117642 | [117642-antqueen-3d.json](./117642-antqueen-3d.json) |
 | Antrabhara | 223491 | [223491-antrabhara.json](./223491-antrabhara.json) |
+| Antreya Chronicles Online | 123154 | [123154-antreya-chronicles-online.json](./123154-antreya-chronicles-online.json) |
 | Antro | 204787 | [204787-antro.json](./204787-antro.json) |
 | Antrum | 113426 | [113426-antrum.json](./113426-antrum.json) |
 | Ants | 170965 | [170965-ants.json](./170965-ants.json) |
@@ -14843,6 +14844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artifex Mundi Ultimate Collection | 113586 | [113586-artifex-mundi-ultimate-collection.json](./113586-artifex-mundi-ultimate-collection.json) |
 | Artifice | 258313 | [258313-artifice.json](./258313-artifice.json) |
 | Artifice: War Tactics | 224748 | [224748-artifice-war-tactics.json](./224748-artifice-war-tactics.json) |
+| Artificer: Science of Magic | 123189 | [123189-artificer-science-of-magic.json](./123189-artificer-science-of-magic.json) |
 | Artificer's Tower | 253126 | [253126-artificers-tower.json](./253126-artificers-tower.json) |
 | Artificia Armata | 261675 | [261675-artificia-armata.json](./261675-artificia-armata.json) |
 | Artificial | 115126 | [115126-artificial.json](./115126-artificial.json) |
@@ -16971,6 +16973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
