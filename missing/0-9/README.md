@@ -1064,9 +1064,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1187: Episode One | 121211 | [121211-1187-episode-one.json](./121211-1187-episode-one.json) |
 | 1187: Rogue Train | 121212 | [121212-1187-rogue-train.json](./121212-1187-rogue-train.json) |
 | 1193 Anno Domini: Merchants and Crusaders | 71494 | [71494-1193-anno-domini-merchants-and-crusaders.json](./71494-1193-anno-domini-merchants-and-crusaders.json) |
+| 11eyes: Resona Forma | 98425 | [98425-11eyes-resona-forma.json](./98425-11eyes-resona-forma.json) |
 | 11eyes: Tsumi to Batsu to Aganai no Shoujo | 5470 | [5470-11eyes-tsumi-to-batsu-to-aganai-no-shoujo.json](./5470-11eyes-tsumi-to-batsu-to-aganai-no-shoujo.json) |
 | 11F | 291201 | [291201-11f.json](./291201-11f.json) |
 | 11gatsu no Arcadia | 98426 | [98426-11gatsu-no-arcadia.json](./98426-11gatsu-no-arcadia.json) |
+| 11wol Sonyeon | 98427 | [98427-11wol-sonyeon.json](./98427-11wol-sonyeon.json) |
 | 11x11: Soccer Club Manager | 104716 | [104716-11x11-soccer-club-manager.json](./104716-11x11-soccer-club-manager.json) |
 | 12 | 97108 | [97108-12.json](./97108-12.json) |
 | 12 Bananas | 151376 | [151376-12-bananas.json](./151376-12-bananas.json) |
@@ -1130,7 +1132,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12-Sai: Torokeru Puzzle Futari no Harmony | 148733 | [148733-12-sai-torokeru-puzzle-futari-no-harmony.json](./148733-12-sai-torokeru-puzzle-futari-no-harmony.json) |
 | 12, Memory Lane | 379392 | [379392-12-memory-lane.json](./379392-12-memory-lane.json) |
 | 12.12.25 | 339078 | [339078-12-12-25.json](./339078-12-12-25.json) |
+| 12+ | 98424 | [98424-12.json](./98424-12.json) |
 | 1201 | 252993 | [252993-1201.json](./252993-1201.json) |
+| 121 N | 98421 | [98421-121-n.json](./98421-121-n.json) |
 | 1213: Episode 1 | 69821 | [69821-1213-episode-1.json](./69821-1213-episode-1.json) |
 | 1213: Episode 2 | 79143 | [79143-1213-episode-2.json](./79143-1213-episode-2.json) |
 | 1213: Special Edition | 144628 | [144628-1213-special-edition.json](./144628-1213-special-edition.json) |
@@ -1157,6 +1161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12Gems | 292786 | [292786-12gems.json](./292786-12gems.json) |
 | 12nin no Onna Kyoushi | 98423 | [98423-12nin-no-onna-kyoushi.json](./98423-12nin-no-onna-kyoushi.json) |
 | 12nin no Onna Kyoushi Re-Innovation -In- | 98419 | [98419-12nin-no-onna-kyoushi-re-innovation-in.json](./98419-12nin-no-onna-kyoushi-re-innovation-in.json) |
+| 12nin no Onna Kyoushi Re-Innovation: San | 98418 | [98418-12nin-no-onna-kyoushi-re-innovation-san.json](./98418-12nin-no-onna-kyoushi-re-innovation-san.json) |
 | 13 Bones | 384726 | [384726-13-bones.json](./384726-13-bones.json) |
 | 13 Candles | 228091 | [228091-13-candles.json](./228091-13-candles.json) |
 | 13 Cycles | 102927 | [102927-13-cycles.json](./102927-13-cycles.json) |
