@@ -6701,6 +6701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meatly's Storage World | 233751 | [233751-meatlys-storage-world.json](./233751-meatlys-storage-world.json) |
 | Meatlymakes | 80389 | [80389-meatlymakes.json](./80389-meatlymakes.json) |
 | Meatmare | 334306 | [334306-meatmare.json](./334306-meatmare.json) |
+| MeatPossible: Chapter 1.5 | 107455 | [107455-meatpossible-chapter-1-5.json](./107455-meatpossible-chapter-1-5.json) |
 | Meatsauce Madness: The Game | 174271 | [174271-meatsauce-madness-the-game.json](./174271-meatsauce-madness-the-game.json) |
 | Meatshot | 326686 | [326686-meatshot.json](./326686-meatshot.json) |
 | Meaty McSkinBones | 116281 | [116281-meaty-mcskinbones.json](./116281-meaty-mcskinbones.json) |
@@ -9495,6 +9496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merge Bistro | 248103 | [248103-merge-bistro.json](./248103-merge-bistro.json) |
 | Merge Blast | 221090 | [221090-merge-blast.json](./221090-merge-blast.json) |
 | Merge Block Puzzle | 306541 | [306541-merge-block-puzzle.json](./306541-merge-block-puzzle.json) |
+| Merge Cars City Evolution | 107353 | [107353-merge-cars-city-evolution.json](./107353-merge-cars-city-evolution.json) |
 | Merge Castle | 233448 | [233448-merge-castle.json](./233448-merge-castle.json) |
 | Merge Catgirl | 210316 | [210316-merge-catgirl.json](./210316-merge-catgirl.json) |
 | Merge Cats: Idle Game | 195287 | [195287-merge-cats-idle-game.json](./195287-merge-cats-idle-game.json) |
@@ -13141,6 +13143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Pistons GT | 359165 | [359165-mini-pistons-gt.json](./359165-mini-pistons-gt.json) |
 | Mini Pocket Racers | 238394 | [238394-mini-pocket-racers.json](./238394-mini-pocket-racers.json) |
 | Mini Pond Farm: Frogs & Lilypads | 406154 | [406154-mini-pond-farm-frogs-and-lilypads.json](./406154-mini-pond-farm-frogs-and-lilypads.json) |
+| Mini Pool for Kids | 107356 | [107356-mini-pool-for-kids.json](./107356-mini-pool-for-kids.json) |
 | Mini Prince | 145286 | [145286-mini-prince.json](./145286-mini-prince.json) |
 | Mini Push | 412302 | [412302-mini-push.json](./412302-mini-push.json) |
 | Mini Putt | 224887 | [224887-mini-putt.json](./224887-mini-putt.json) |
@@ -17765,6 +17768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortal Online 2 | 127546 | [127546-mortal-online-2.json](./127546-mortal-online-2.json) |
 | Mortal Quest | 333130 | [333130-mortal-quest.json](./333130-mortal-quest.json) |
 | Mortal Rite | 173012 | [173012-mortal-rite.json](./173012-mortal-rite.json) |
+| Mortal Royale | 107453 | [107453-mortal-royale.json](./107453-mortal-royale.json) |
 | Mortal Shell II | 347633 | [347633-mortal-shell-ii.json](./347633-mortal-shell-ii.json) |
 | Mortal Shell: Complete Edition | 229693 | [229693-mortal-shell-complete-edition.json](./229693-mortal-shell-complete-edition.json) |
 | Mortal Shell: Digital Deluxe Edition | 214474 | [214474-mortal-shell-digital-deluxe-edition.json](./214474-mortal-shell-digital-deluxe-edition.json) |
