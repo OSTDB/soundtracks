@@ -1815,6 +1815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic Joe | 85270 | [85270-magnetic-joe.json](./85270-magnetic-joe.json) |
 | Magnetic Merge: Number Master | 256150 | [256150-magnetic-merge-number-master.json](./256150-magnetic-merge-number-master.json) |
 | Magnetic Monopole Mayhem | 181137 | [181137-magnetic-monopole-mayhem.json](./181137-magnetic-monopole-mayhem.json) |
+| Magnetic Pairs | 102991 | [102991-magnetic-pairs.json](./102991-magnetic-pairs.json) |
 | Magnetic Projectiles | 211668 | [211668-magnetic-projectiles.json](./211668-magnetic-projectiles.json) |
 | Magnetic Pull | 118324 | [118324-magnetic-pull.json](./118324-magnetic-pull.json) |
 | Magnetic Soccer | 49046 | [49046-magnetic-soccer.json](./49046-magnetic-soccer.json) |
@@ -2084,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Taikai Wii | 62560 | [62560-mahjong-taikai-wii.json](./62560-mahjong-taikai-wii.json) |
 | Mahjong Taisen | 48787 | [48787-mahjong-taisen.json](./48787-mahjong-taisen.json) |
 | Mahjong Tales: Ancient Wisdom | 52577 | [52577-mahjong-tales-ancient-wisdom.json](./52577-mahjong-tales-ancient-wisdom.json) |
+| MahJong Time | 102495 | [102495-mahjong-time.json](./102495-mahjong-time.json) |
 | Mahjong Titan | 83415 | [83415-mahjong-titan.json](./83415-mahjong-titan.json) |
 | Mahjong Towers | 341077 | [341077-mahjong-towers.json](./341077-mahjong-towers.json) |
 | Mahjong Trap | 115717 | [115717-mahjong-trap.json](./115717-mahjong-trap.json) |
@@ -6065,7 +6067,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -17005,6 +17006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moonbase Accident | 272122 | [272122-moonbase-accident.json](./272122-moonbase-accident.json) |
 | Moonbase Alpha | 10264 | [10264-moonbase-alpha.json](./10264-moonbase-alpha.json) |
 | MoonBase Commander | 10557 | [10557-moonbase-commander.json](./10557-moonbase-commander.json) |
+| Moonbase Down | 102984 | [102984-moonbase-down.json](./102984-moonbase-down.json) |
 | Moonbase IO | 23340 | [23340-moonbase-io.json](./23340-moonbase-io.json) |
 | Moonbase Lambda | 272959 | [272959-moonbase-lambda.json](./272959-moonbase-lambda.json) |
 | MoonBeam | 313535 | [313535-moonbeam.json](./313535-moonbeam.json) |
@@ -18369,6 +18371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motorcycle RPG | 196815 | [196815-motorcycle-rpg.json](./196815-motorcycle-rpg.json) |
 | Motorcycle Sales Simulator | 326474 | [326474-motorcycle-sales-simulator.json](./326474-motorcycle-sales-simulator.json) |
 | Motorcycle Travel Simulator | 197503 | [197503-motorcycle-travel-simulator.json](./197503-motorcycle-travel-simulator.json) |
+| Motorcycle, tricycle, ATV hill racing | 102904 | [102904-motorcycle-tricycle-atv-hill-racing.json](./102904-motorcycle-tricycle-atv-hill-racing.json) |
 | Motorcycles: World Championship | 312113 | [312113-motorcycles-world-championship.json](./312113-motorcycles-world-championship.json) |
 | Motordoom | 224614 | [224614-motordoom.json](./224614-motordoom.json) |
 | Motorfish | 376214 | [376214-motorfish.json](./376214-motorfish.json) |
