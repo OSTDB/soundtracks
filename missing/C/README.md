@@ -132,6 +132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Big Game Hunter 2009 | 206695 | [206695-cabelas-big-game-hunter-2009.json](./206695-cabelas-big-game-hunter-2009.json) |
 | Cabela's Big Game Hunter 2010 | 4736 | [4736-cabelas-big-game-hunter-2010.json](./4736-cabelas-big-game-hunter-2010.json) |
 | Cabela's Big Game Hunter 2012 | 6649 | [6649-cabelas-big-game-hunter-2012.json](./6649-cabelas-big-game-hunter-2012.json) |
+| Cabela's Big Game Hunter 4 | 123687 | [123687-cabelas-big-game-hunter-4.json](./123687-cabelas-big-game-hunter-4.json) |
 | Cabela's Big Game Hunter 6 | 80409 | [80409-cabelas-big-game-hunter-6.json](./80409-cabelas-big-game-hunter-6.json) |
 | Cabela's Big Game Hunter II: Open Season | 70190 | [70190-cabelas-big-game-hunter-ii-open-season.json](./70190-cabelas-big-game-hunter-ii-open-season.json) |
 | Cabela's Big Game Hunter III | 73772 | [73772-cabelas-big-game-hunter-iii.json](./73772-cabelas-big-game-hunter-iii.json) |
@@ -13534,6 +13535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conan Exiles: Blood and Sand Pack | 164781 | [164781-conan-exiles-blood-and-sand-pack.json](./164781-conan-exiles-blood-and-sand-pack.json) |
 | Conan Exiles: Blood and Sand Pack | 227160 | [227160-conan-exiles-blood-and-sand-pack.json](./227160-conan-exiles-blood-and-sand-pack.json) |
 | Conan Exiles: Complete Edition | 118696 | [118696-conan-exiles-complete-edition.json](./118696-conan-exiles-complete-edition.json) |
+| Conan Exiles: Debaucheries of Derketo | 123681 | [123681-conan-exiles-debaucheries-of-derketo.json](./123681-conan-exiles-debaucheries-of-derketo.json) |
 | Conan Exiles: Debaucheries of Derketo Pack | 164823 | [164823-conan-exiles-debaucheries-of-derketo-pack.json](./164823-conan-exiles-debaucheries-of-derketo-pack.json) |
 | Conan Exiles: Deluxe Edition | 118697 | [118697-conan-exiles-deluxe-edition.json](./118697-conan-exiles-deluxe-edition.json) |
 | Conan Exiles: Isle of Siptah | 167762 | [167762-conan-exiles-isle-of-siptah.json](./167762-conan-exiles-isle-of-siptah.json) |
@@ -18430,6 +18432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crossy Creeper | 203206 | [203206-crossy-creeper.json](./203206-crossy-creeper.json) |
 | Crossy Road | 10635 | [10635-crossy-road.json](./10635-crossy-road.json) |
 | Crossy Road Arcade | 228422 | [228422-crossy-road-arcade.json](./228422-crossy-road-arcade.json) |
+| Crossy Road Castle | 123708 | [123708-crossy-road-castle.json](./123708-crossy-road-castle.json) |
 | Crossy Road+ | 257791 | [257791-crossy-road.json](./257791-crossy-road.json) |
 | Crossy Traffic: Road Rider | 240925 | [240925-crossy-traffic-road-rider.json](./240925-crossy-traffic-road-rider.json) |
 | Crossy Word | 393779 | [393779-crossy-word.json](./393779-crossy-word.json) |
@@ -20620,6 +20623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cutieheart | 182064 | [182064-cutieheart.json](./182064-cutieheart.json) |
 | Cuties | 259066 | [259066-cuties.json](./259066-cuties.json) |
 | Cuties | 32532 | [32532-cuties.json](./32532-cuties.json) |
+| Cuties Dungeon | 123721 | [123721-cuties-dungeon.json](./123721-cuties-dungeon.json) |
 | Cuties Hacked: Dakota Photo Pack | 325851 | [325851-cuties-hacked-dakota-photo-pack.json](./325851-cuties-hacked-dakota-photo-pack.json) |
 | Cuties Hacked: Oh No Someone Stole My Photos! | 214279 | [214279-cuties-hacked-oh-no-someone-stole-my-photos.json](./214279-cuties-hacked-oh-no-someone-stole-my-photos.json) |
 | Cuties Monster Girl | 297081 | [297081-cuties-monster-girl.json](./297081-cuties-monster-girl.json) |
