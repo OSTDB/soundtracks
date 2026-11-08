@@ -12103,6 +12103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colony 28 | 388929 | [388929-colony-28.json](./388929-colony-28.json) |
 | Colony 28 | 93315 | [93315-colony-28.json](./93315-colony-28.json) |
 | Colony 37 | 355554 | [355554-colony-37.json](./355554-colony-37.json) |
+| Colony 42 | 132388 | [132388-colony-42.json](./132388-colony-42.json) |
 | Colony 7 | 281286 | [281286-colony-7.json](./281286-colony-7.json) |
 | Colony 7 | 8398 | [8398-colony-7.json](./8398-colony-7.json) |
 | Colony Antares | 150682 | [150682-colony-antares.json](./150682-colony-antares.json) |
@@ -13309,6 +13310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Companions of Xanth | 12412 | [12412-companions-of-xanth.json](./12412-companions-of-xanth.json) |
 | Company is Watching | 401498 | [401498-company-is-watching.json](./401498-company-is-watching.json) |
 | Company Loyalty | 179986 | [179986-company-loyalty.json](./179986-company-loyalty.json) |
+| Company of Crime | 132376 | [132376-company-of-crime.json](./132376-company-of-crime.json) |
 | Company of Heroes | 654 | [654-company-of-heroes.json](./654-company-of-heroes.json) |
 | Company of Heroes 2 | 1369 | [1369-company-of-heroes-2.json](./1369-company-of-heroes-2.json) |
 | Company of Heroes 2: All Out War Edition | 139845 | [139845-company-of-heroes-2-all-out-war-edition.json](./139845-company-of-heroes-2-all-out-war-edition.json) |
