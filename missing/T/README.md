@@ -21124,6 +21124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrust Me Bro | 383654 | [383654-thrust-me-bro.json](./383654-thrust-me-bro.json) |
 | Thrust Platinum | 66784 | [66784-thrust-platinum.json](./66784-thrust-platinum.json) |
 | Thrust Twist + Turn | 85986 | [85986-thrust-twist-turn.json](./85986-thrust-twist-turn.json) |
+| Thrust: DC Edition | 91496 | [91496-thrust-dc-edition.json](./91496-thrust-dc-edition.json) |
 | Thrusta | 26243 | [26243-thrusta.json](./26243-thrusta.json) |
 | Thrusta X | 236153 | [236153-thrusta-x.json](./236153-thrusta-x.json) |
 | Thrusters | 245070 | [245070-thrusters.json](./245070-thrusters.json) |
