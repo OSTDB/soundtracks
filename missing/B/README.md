@@ -987,7 +987,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -10091,6 +10090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blasto | 86213 | [86213-blasto.json](./86213-blasto.json) |
 | Blasto X | 341386 | [341386-blasto-x.json](./341386-blasto-x.json) |
 | Blastocitos | 192205 | [192205-blastocitos.json](./192205-blastocitos.json) |
+| Blastoff! | 79459 | [79459-blastoff.json](./79459-blastoff.json) |
 | Blastoid Breakout | 188195 | [188195-blastoid-breakout.json](./188195-blastoid-breakout.json) |
 | Blastoids | 394380 | [394380-blastoids.json](./394380-blastoids.json) |
 | Blastomancer: The Puzzle Game | 188267 | [188267-blastomancer-the-puzzle-game.json](./188267-blastomancer-the-puzzle-game.json) |
