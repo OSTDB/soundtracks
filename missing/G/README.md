@@ -8711,6 +8711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Express | 233298 | [233298-gravity-express.json](./233298-gravity-express.json) |
 | Gravity Falls | 382577 | [382577-gravity-falls.json](./382577-gravity-falls.json) |
 | Gravity Falls: Legend of the Gnome Gemulets | 44014 | [44014-gravity-falls-legend-of-the-gnome-gemulets.json](./44014-gravity-falls-legend-of-the-gnome-gemulets.json) |
+| Gravity Falls: Mystery Shack Attack | 123677 | [123677-gravity-falls-mystery-shack-attack.json](./123677-gravity-falls-mystery-shack-attack.json) |
 | Gravity Falls: PinesQuest | 262126 | [262126-gravity-falls-pinesquest.json](./262126-gravity-falls-pinesquest.json) |
 | Gravity Field | 155951 | [155951-gravity-field.json](./155951-gravity-field.json) |
 | Gravity Fight | 73476 | [73476-gravity-fight.json](./73476-gravity-fight.json) |
