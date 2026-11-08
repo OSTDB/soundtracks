@@ -5174,6 +5174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Tennis Open | 19078 | [19078-international-tennis-open.json](./19078-international-tennis-open.json) |
 | International Tennis Pro | 10440 | [10440-international-tennis-pro.json](./10440-international-tennis-pro.json) |
 | International Tennis Tour | 44453 | [44453-international-tennis-tour.json](./44453-international-tennis-tour.json) |
+| International Test Cricket | 80740 | [80740-international-test-cricket.json](./80740-international-test-cricket.json) |
 | International Toe Stubber | 307676 | [307676-international-toe-stubber.json](./307676-international-toe-stubber.json) |
 | International Track & Field | 20406 | [20406-international-track-and-field.json](./20406-international-track-and-field.json) |
 | International Track & Field | 266553 | [266553-international-track-and-field.json](./266553-international-track-and-field.json) |
