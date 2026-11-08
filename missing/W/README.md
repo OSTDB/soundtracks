@@ -1387,6 +1387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warfront Tactics: Battlefield Chronicles Battle Simulator | 304271 | [304271-warfront-tactics-battlefield-chronicles-battle-simulator.json](./304271-warfront-tactics-battlefield-chronicles-battle-simulator.json) |
 | Warfronts: Battle For Toria! | 153776 | [153776-warfronts-battle-for-toria.json](./153776-warfronts-battle-for-toria.json) |
 | Wargame Construction Set | 37158 | [37158-wargame-construction-set.json](./37158-wargame-construction-set.json) |
+| Wargame Construction Set II: Tanks! | 79438 | [79438-wargame-construction-set-ii-tanks.json](./79438-wargame-construction-set-ii-tanks.json) |
 | Wargame Construction Set III: Age of Rifles 1846-1905 | 71336 | [71336-wargame-construction-set-iii-age-of-rifles-1846-1905.json](./71336-wargame-construction-set-iii-age-of-rifles-1846-1905.json) |
 | Wargame Construction Set Pack | 278721 | [278721-wargame-construction-set-pack.json](./278721-wargame-construction-set-pack.json) |
 | Wargame Korea 1950 | 102627 | [102627-wargame-korea-1950.json](./102627-wargame-korea-1950.json) |
@@ -8103,6 +8104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Champ | 130863 | [130863-world-champ.json](./130863-world-champ.json) |
 | World Champion Icehockey | 417485 | [417485-world-champion-icehockey.json](./417485-world-champion-icehockey.json) |
 | World Champions: Decathlon | 165936 | [165936-world-champions-decathlon.json](./165936-world-champions-decathlon.json) |
+| World Championship Athletics | 79470 | [79470-world-championship-athletics.json](./79470-world-championship-athletics.json) |
 | World Championship Boxing Manager | 76142 | [76142-world-championship-boxing-manager.json](./76142-world-championship-boxing-manager.json) |
 | World Championship Boxing Manager 2 | 200931 | [200931-world-championship-boxing-manager-2.json](./200931-world-championship-boxing-manager-2.json) |
 | World Championship Cards | 43428 | [43428-world-championship-cards.json](./43428-world-championship-cards.json) |
