@@ -7818,7 +7818,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exit Loops: Street 001 | 343058 | [343058-exit-loops-street-001.json](./343058-exit-loops-street-001.json) |
 | Exit Mask | 183354 | [183354-exit-mask.json](./183354-exit-mask.json) |
 | Exit of Truth! 40 Masterpiece Quiz | 386189 | [386189-exit-of-truth-40-masterpiece-quiz.json](./386189-exit-of-truth-40-masterpiece-quiz.json) |
-| Exit Path | 98228 | [98228-exit-path.json](./98228-exit-path.json) |
 | Exit Path 2 | 213282 | [213282-exit-path-2.json](./213282-exit-path-2.json) |
 | Exit Plan | 391229 | [391229-exit-plan.json](./391229-exit-plan.json) |
 | Exit Plan b | 364515 | [364515-exit-plan-b.json](./364515-exit-plan-b.json) |
