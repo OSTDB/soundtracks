@@ -549,6 +549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | XDR: X-Dazedly-Ray | 59760 | [59760-xdr-x-dazedly-ray.json](./59760-xdr-x-dazedly-ray.json) |
 | xDx Ball Shooter | 186050 | [186050-xdx-ball-shooter.json](./186050-xdx-ball-shooter.json) |
 | Xearz | 215658 | [215658-xearz.json](./215658-xearz.json) |
+| Xecryst Remains | 115208 | [115208-xecryst-remains.json](./115208-xecryst-remains.json) |
 | Xecuter | 133346 | [133346-xecuter.json](./133346-xecuter.json) |
 | Xecutor | 55021 | [55021-xecutor.json](./55021-xecutor.json) |
 | Xediss | 67359 | [67359-xediss.json](./67359-xediss.json) |
