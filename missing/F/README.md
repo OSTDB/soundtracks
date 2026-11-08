@@ -1828,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Beasts and Where to Find Them | 83979 | [83979-fantastic-beasts-and-where-to-find-them.json](./83979-fantastic-beasts-and-where-to-find-them.json) |
 | Fantastic Checkers | 89798 | [89798-fantastic-checkers.json](./89798-fantastic-checkers.json) |
 | Fantastic Checkers 2 | 31677 | [31677-fantastic-checkers-2.json](./31677-fantastic-checkers-2.json) |
+| Fantastic Chefs: Match 'n Cook | 104760 | [104760-fantastic-chefs-match-n-cook.json](./104760-fantastic-chefs-match-n-cook.json) |
 | Fantastic Children | 49578 | [49578-fantastic-children.json](./49578-fantastic-children.json) |
 | Fantastic Contraption | 168671 | [168671-fantastic-contraption.json](./168671-fantastic-contraption.json) |
 | Fantastic Contraption 2 | 403482 | [403482-fantastic-contraption-2.json](./403482-fantastic-contraption-2.json) |
@@ -3420,6 +3421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatimopolis | 409636 | [409636-fatimopolis.json](./409636-fatimopolis.json) |
 | Fatina | 426450 | [426450-fatina.json](./426450-fatina.json) |
 | Fatman Adventures | 250229 | [250229-fatman-adventures.json](./250229-fatman-adventures.json) |
+| Fatman Simulator | 104871 | [104871-fatman-simulator.json](./104871-fatman-simulator.json) |
 | Fatman: The Caped Consumer | 92951 | [92951-fatman-the-caped-consumer.json](./92951-fatman-the-caped-consumer.json) |
 | Fatpets | 253778 | [253778-fatpets.json](./253778-fatpets.json) |
 | Fatrifice | 244496 | [244496-fatrifice.json](./244496-fatrifice.json) |
@@ -7059,6 +7061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Hearts Under One Roof 2 | 370971 | [370971-five-hearts-under-one-roof-2.json](./370971-five-hearts-under-one-roof-2.json) |
 | Five Hearts Under One Roof 3 | 423891 | [423891-five-hearts-under-one-roof-3.json](./423891-five-hearts-under-one-roof-3.json) |
 | Five Hundred | 287910 | [287910-five-hundred.json](./287910-five-hundred.json) |
+| Five Hundred (500) | 104754 | [104754-five-hundred-500.json](./104754-five-hundred-500.json) |
 | Five in One | 210648 | [210648-five-in-one.json](./210648-five-in-one.json) |
 | Five Islands Escape | 315768 | [315768-five-islands-escape.json](./315768-five-islands-escape.json) |
 | Five Keys to Exit | 86433 | [86433-five-keys-to-exit.json](./86433-five-keys-to-exit.json) |
@@ -7447,6 +7450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flaming Thunderer | 232946 | [232946-flaming-thunderer.json](./232946-flaming-thunderer.json) |
 | Flaming Trails: Lost Ember | 332759 | [332759-flaming-trails-lost-ember.json](./332759-flaming-trails-lost-ember.json) |
 | Flaming/Million | 153319 | [153319-flaming-million.json](./153319-flaming-million.json) |
+| Flamingo - 3d Voxel Coloring | 104738 | [104738-flamingo-3d-voxel-coloring.json](./104738-flamingo-3d-voxel-coloring.json) |
 | Flamingo Go With Gun | 235914 | [235914-flamingo-go-with-gun.json](./235914-flamingo-go-with-gun.json) |
 | Flamingo Quest | 229635 | [229635-flamingo-quest.json](./229635-flamingo-quest.json) |
 | Flamingo Tours | 70281 | [70281-flamingo-tours.json](./70281-flamingo-tours.json) |
@@ -9733,6 +9737,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden City Journey | 240778 | [240778-forbidden-city-journey.json](./240778-forbidden-city-journey.json) |
 | Forbidden Clicker Party | 83495 | [83495-forbidden-clicker-party.json](./83495-forbidden-clicker-party.json) |
 | Forbidden Compass | 404206 | [404206-forbidden-compass.json](./404206-forbidden-compass.json) |
+| Forbidden Desert | 104757 | [104757-forbidden-desert.json](./104757-forbidden-desert.json) |
 | Forbidden Dojo | 239737 | [239737-forbidden-dojo.json](./239737-forbidden-dojo.json) |
 | Forbidden Escape | 223273 | [223273-forbidden-escape.json](./223273-forbidden-escape.json) |
 | Forbidden Fantasy | 322641 | [322641-forbidden-fantasy.json](./322641-forbidden-fantasy.json) |
