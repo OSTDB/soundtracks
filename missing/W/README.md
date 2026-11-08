@@ -4097,6 +4097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheels on Fire | 78030 | [78030-wheels-on-fire.json](./78030-wheels-on-fire.json) |
 | Wheels on Impossible Ramp | 174887 | [174887-wheels-on-impossible-ramp.json](./174887-wheels-on-impossible-ramp.json) |
 | Wheels on the Bus! | 90377 | [90377-wheels-on-the-bus.json](./90377-wheels-on-the-bus.json) |
+| Wheels! | 92036 | [92036-wheels.json](./92036-wheels.json) |
 | Wheels0 | 78628 | [78628-wheels0.json](./78628-wheels0.json) |
 | Wheelspin | 5177 | [5177-wheelspin.json](./5177-wheelspin.json) |
 | Wheelspin Frenzy | 104998 | [104998-wheelspin-frenzy.json](./104998-wheelspin-frenzy.json) |
@@ -8831,6 +8832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World2D Re | 262282 | [262282-world2d-re.json](./262282-world2d-re.json) |
 | WorldBox | 126489 | [126489-worldbox.json](./126489-worldbox.json) |
 | WorldCraft: mini sandbox world | 89247 | [89247-worldcraft-mini-sandbox-world.json](./89247-worldcraft-mini-sandbox-world.json) |
+| WorldCricketChampionship | 92012 | [92012-worldcricketchampionship.json](./92012-worldcricketchampionship.json) |
 | WorldCup Super Stadium | 268526 | [268526-worldcup-super-stadium.json](./268526-worldcup-super-stadium.json) |
 | Worldcup Volleyball '95 | 378596 | [378596-worldcup-volleyball-95.json](./378596-worldcup-volleyball-95.json) |
 | WorldDefence: Girls' Highschool | 214326 | [214326-worlddefence-girls-highschool.json](./214326-worlddefence-girls-highschool.json) |
