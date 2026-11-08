@@ -4031,6 +4031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle RC | 293135 | [293135-battle-rc.json](./293135-battle-rc.json) |
 | Battle Ready | 154413 | [154413-battle-ready.json](./154413-battle-ready.json) |
 | Battle Realms | 606 | [606-battle-realms.json](./606-battle-realms.json) |
+| Battle Realms + Winter of the Wolf | 126115 | [126115-battle-realms-winter-of-the-wolf.json](./126115-battle-realms-winter-of-the-wolf.json) |
 | Battle Realms: Zen Edition | 137532 | [137532-battle-realms-zen-edition.json](./137532-battle-realms-zen-edition.json) |
 | Battle Records of Rota | 264021 | [264021-battle-records-of-rota.json](./264021-battle-records-of-rota.json) |
 | Battle Recruits | 252564 | [252564-battle-recruits.json](./252564-battle-recruits.json) |
@@ -8283,6 +8284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Biolum | 149552 | [149552-biolum.json](./149552-biolum.json) |
 | Biolune | 381612 | [381612-biolune.json](./381612-biolune.json) |
 | Bioma | 179945 | [179945-bioma.json](./179945-bioma.json) |
+| Biomagnet | 126134 | [126134-biomagnet.json](./126134-biomagnet.json) |
 | Biomass | 121890 | [121890-biomass.json](./121890-biomass.json) |
 | Biomass | 142950 | [142950-biomass.json](./142950-biomass.json) |
 | Biomass: Extermination | 361275 | [361275-biomass-extermination.json](./361275-biomass-extermination.json) |
@@ -17255,6 +17257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build A Queen: Prince DLC | 390914 | [390914-build-a-queen-prince-dlc.json](./390914-build-a-queen-prince-dlc.json) |
 | Build A Train | 96315 | [96315-build-a-train.json](./96315-build-a-train.json) |
 | Build A Train 2 | 100728 | [100728-build-a-train-2.json](./100728-build-a-train-2.json) |
+| Build A World | 126125 | [126125-build-a-world.json](./126125-build-a-world.json) |
 | Build and Discover: America | 217322 | [217322-build-and-discover-america.json](./217322-build-and-discover-america.json) |
 | Build and Drive Racing | 241305 | [241305-build-and-drive-racing.json](./241305-build-and-drive-racing.json) |
 | Build and Grow | 185301 | [185301-build-and-grow.json](./185301-build-and-grow.json) |
