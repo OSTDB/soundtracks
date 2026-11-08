@@ -1869,6 +1869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank | 118644 | [118644-tank.json](./118644-tank.json) |
 | Tank | 247025 | [247025-tank.json](./247025-tank.json) |
 | Tank 51 | 81649 | [81649-tank-51.json](./81649-tank-51.json) |
+| Tank 8 | 113933 | [113933-tank-8.json](./113933-tank-8.json) |
 | Tank Ace | 91852 | [91852-tank-ace.json](./91852-tank-ace.json) |
 | Tank and Roll | 252508 | [252508-tank-and-roll.json](./252508-tank-and-roll.json) |
 | Tank Arena: Total Operation | 326208 | [326208-tank-arena-total-operation.json](./326208-tank-arena-total-operation.json) |
@@ -5760,6 +5761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Spunk Dodgers and Splat | 132569 | [132569-the-adventures-of-spunk-dodgers-and-splat.json](./132569-the-adventures-of-spunk-dodgers-and-splat.json) |
 | The Adventures of Square | 18284 | [18284-the-adventures-of-square.json](./18284-the-adventures-of-square.json) |
 | The Adventures of Star Saver | 7745 | [7745-the-adventures-of-star-saver.json](./7745-the-adventures-of-star-saver.json) |
+| The Adventures of Sullivan | 113925 | [113925-the-adventures-of-sullivan.json](./113925-the-adventures-of-sullivan.json) |
 | The Adventures of Team Australia | 111171 | [111171-the-adventures-of-team-australia.json](./111171-the-adventures-of-team-australia.json) |
 | The Adventures of Ten and Till | 128894 | [128894-the-adventures-of-ten-and-till.json](./128894-the-adventures-of-ten-and-till.json) |
 | The Adventures of The Black Hawk | 274575 | [274575-the-adventures-of-the-black-hawk.json](./274575-the-adventures-of-the-black-hawk.json) |
@@ -8956,7 +8958,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Elder Scrolls VI | 81249 | [81249-the-elder-scrolls-vi.json](./81249-the-elder-scrolls-vi.json) |
 | The Elder Scrolls: Arena - Deluxe Edition | 206663 | [206663-the-elder-scrolls-arena-deluxe-edition.json](./206663-the-elder-scrolls-arena-deluxe-edition.json) |
 | The Elder Scrolls: Castles | 269138 | [269138-the-elder-scrolls-castles.json](./269138-the-elder-scrolls-castles.json) |
+| The Elder Scrolls: Legends - Fall of the Dark Brotherhood | 113954 | [113954-the-elder-scrolls-legends-fall-of-the-dark-brotherhood.json](./113954-the-elder-scrolls-legends-fall-of-the-dark-brotherhood.json) |
 | The Elder Scrolls: Legends - Heroes of Skyrim | 37033 | [37033-the-elder-scrolls-legends-heroes-of-skyrim.json](./37033-the-elder-scrolls-legends-heroes-of-skyrim.json) |
+| The Elder Scrolls: Legends - Houses of Morrowind | 113955 | [113955-the-elder-scrolls-legends-houses-of-morrowind.json](./113955-the-elder-scrolls-legends-houses-of-morrowind.json) |
+| The Elder Scrolls: Legends - Isle of Madness | 113956 | [113956-the-elder-scrolls-legends-isle-of-madness.json](./113956-the-elder-scrolls-legends-isle-of-madness.json) |
 | The Elder Scrolls: Legends - Return to Clockwork City | 76423 | [76423-the-elder-scrolls-legends-return-to-clockwork-city.json](./76423-the-elder-scrolls-legends-return-to-clockwork-city.json) |
 | The Elder Tales | 264606 | [264606-the-elder-tales.json](./264606-the-elder-tales.json) |
 | The Elder Trolls V: Pierim | 135462 | [135462-the-elder-trolls-v-pierim.json](./135462-the-elder-trolls-v-pierim.json) |
@@ -9334,6 +9339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The face of hope: Underground | 30882 | [30882-the-face-of-hope-underground.json](./30882-the-face-of-hope-underground.json) |
 | The Faceless | 237361 | [237361-the-faceless.json](./237361-the-faceless.json) |
 | The Faceless City | 183590 | [183590-the-faceless-city.json](./183590-the-faceless-city.json) |
+| The Faceless Double | 113824 | [113824-the-faceless-double.json](./113824-the-faceless-double.json) |
 | The Faceless Killer | 312182 | [312182-the-faceless-killer.json](./312182-the-faceless-killer.json) |
 | The Faceless Man | 301996 | [301996-the-faceless-man.json](./301996-the-faceless-man.json) |
 | The Faceless Ones | 262805 | [262805-the-faceless-ones.json](./262805-the-faceless-ones.json) |
@@ -9745,6 +9751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Fishing Club 3D | 31467 | [31467-the-fishing-club-3d.json](./31467-the-fishing-club-3d.json) |
 | The Fissure | 407277 | [407277-the-fissure.json](./407277-the-fissure.json) |
 | The Fittest | 188371 | [188371-the-fittest.json](./188371-the-fittest.json) |
+| The Five Cores Remastered | 113919 | [113919-the-five-cores-remastered.json](./113919-the-five-cores-remastered.json) |
 | The Five Covens | 144864 | [144864-the-five-covens.json](./144864-the-five-covens.json) |
 | The Five Gods of Kung Fu | 185458 | [185458-the-five-gods-of-kung-fu.json](./185458-the-five-gods-of-kung-fu.json) |
 | The Five Nights at Freddy's Mod | 366300 | [366300-the-five-nights-at-freddys-mod.json](./366300-the-five-nights-at-freddys-mod.json) |
@@ -18719,6 +18726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unlife of Gorlak | 271391 | [271391-the-unlife-of-gorlak.json](./271391-the-unlife-of-gorlak.json) |
 | The Unlikely Prometheus | 190275 | [190275-the-unlikely-prometheus.json](./190275-the-unlikely-prometheus.json) |
 | The Unlit Sun | 336737 | [336737-the-unlit-sun.json](./336737-the-unlit-sun.json) |
+| The Unliving | 113828 | [113828-the-unliving.json](./113828-the-unliving.json) |
 | The Unluckiest Man | 216505 | [216505-the-unluckiest-man.json](./216505-the-unluckiest-man.json) |
 | The UnMaking | 191722 | [191722-the-unmaking.json](./191722-the-unmaking.json) |
 | The Unmarked | 153353 | [153353-the-unmarked.json](./153353-the-unmarked.json) |
@@ -34055,6 +34063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twitch Dates Pokemon | 246577 | [246577-twitch-dates-pokemon.json](./246577-twitch-dates-pokemon.json) |
 | Twitch Party | 290738 | [290738-twitch-party.json](./290738-twitch-party.json) |
 | Twitch Place | 230971 | [230971-twitch-place.json](./230971-twitch-place.json) |
+| Twitch Plays Conway's Game of Life | 113935 | [113935-twitch-plays-conways-game-of-life.json](./113935-twitch-plays-conways-game-of-life.json) |
 | Twitch Plays Pokémon: Anniversary Red | 222658 | [222658-twitch-plays-pokemon-anniversary-red.json](./222658-twitch-plays-pokemon-anniversary-red.json) |
 | Twitch Sings | 117421 | [117421-twitch-sings.json](./117421-twitch-sings.json) |
 | Twitchbox | 96052 | [96052-twitchbox.json](./96052-twitchbox.json) |
