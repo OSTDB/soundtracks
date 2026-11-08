@@ -2152,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjongg XP Championship | 210193 | [210193-mahjongg-xp-championship.json](./210193-mahjongg-xp-championship.json) |
 | MahJongg: Tiles of Time | 210192 | [210192-mahjongg-tiles-of-time.json](./210192-mahjongg-tiles-of-time.json) |
 | Mahjongger | 93002 | [93002-mahjongger.json](./93002-mahjongger.json) |
+| MahjonggTiles | 86159 | [86159-mahjonggtiles.json](./86159-mahjonggtiles.json) |
 | MahjongPuzzle 8 | 358025 | [358025-mahjongpuzzle-8.json](./358025-mahjongpuzzle-8.json) |
 | MahjongSchool | 158226 | [158226-mahjongschool.json](./158226-mahjongschool.json) |
 | Mahjongus: Mystery of Fortescue | 316192 | [316192-mahjongus-mystery-of-fortescue.json](./316192-mahjongus-mystery-of-fortescue.json) |
@@ -2309,6 +2310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mailbound | 345796 | [345796-mailbound.json](./345796-mailbound.json) |
 | Mailbox | 126719 | [126719-mailbox.json](./126719-mailbox.json) |
 | Mailfrog | 178040 | [178040-mailfrog.json](./178040-mailfrog.json) |
+| Mailing List | 86168 | [86168-mailing-list.json](./86168-mailing-list.json) |
 | Mailman | 203577 | [203577-mailman.json](./203577-mailman.json) |
 | MailPop | 249070 | [249070-mailpop.json](./249070-mailpop.json) |
 | MailRabit | 289260 | [289260-mailrabit.json](./289260-mailrabit.json) |
@@ -6098,6 +6100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6219,6 +6222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayday Protocol | 382328 | [382328-mayday-protocol.json](./382328-mayday-protocol.json) |
 | Mayday: Conflict Earth | 36932 | [36932-mayday-conflict-earth.json](./36932-mayday-conflict-earth.json) |
 | Mayday: The Survival Island | 169856 | [169856-mayday-the-survival-island.json](./169856-mayday-the-survival-island.json) |
+| Mayday!! | 86169 | [86169-mayday.json](./86169-mayday.json) |
 | Mayéutica | 330951 | [330951-mayeutica.json](./330951-mayeutica.json) |
 | Mayflower Reflections | 191836 | [191836-mayflower-reflections.json](./191836-mayflower-reflections.json) |
 | Mayfly | 398395 | [398395-mayfly.json](./398395-mayfly.json) |
