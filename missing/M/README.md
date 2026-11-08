@@ -657,6 +657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madgun | 241277 | [241277-madgun.json](./241277-madgun.json) |
 | MadGuns | 151411 | [151411-madguns.json](./151411-madguns.json) |
 | Madhack | 140449 | [140449-madhack.json](./140449-madhack.json) |
+| Madhouse | 128089 | [128089-madhouse.json](./128089-madhouse.json) |
 | Madhouse | 360316 | [360316-madhouse.json](./360316-madhouse.json) |
 | Madhouse Madness | 247911 | [247911-madhouse-madness.json](./247911-madhouse-madness.json) |
 | Madhouse13 | 204553 | [204553-madhouse13.json](./204553-madhouse13.json) |
@@ -1782,6 +1783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnet Crusher | 190903 | [190903-magnet-crusher.json](./190903-magnet-crusher.json) |
 | Magnet Effect | 214010 | [214010-magnet-effect.json](./214010-magnet-effect.json) |
 | Magnet Face | 203091 | [203091-magnet-face.json](./203091-magnet-face.json) |
+| Magnet Fishing Simulator | 128113 | [128113-magnet-fishing-simulator.json](./128113-magnet-fishing-simulator.json) |
 | Magnet Girl | 315440 | [315440-magnet-girl.json](./315440-magnet-girl.json) |
 | Magnet Jack | 235665 | [235665-magnet-jack.json](./235665-magnet-jack.json) |
 | Magnet Knights | 99520 | [99520-magnet-knights.json](./99520-magnet-knights.json) |
@@ -6536,6 +6538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Me and My Dogs: Friends Forever | 67090 | [67090-me-and-my-dogs-friends-forever.json](./67090-me-and-my-dogs-friends-forever.json) |
 | Me and My Eldritch Parasite | 199675 | [199675-me-and-my-eldritch-parasite.json](./199675-me-and-my-eldritch-parasite.json) |
 | Me and My Shadow | 124037 | [124037-me-and-my-shadow.json](./124037-me-and-my-shadow.json) |
+| Me and Myself | 128087 | [128087-me-and-myself.json](./128087-me-and-myself.json) |
 | Me and the Key | 224972 | [224972-me-and-the-key.json](./224972-me-and-the-key.json) |
 | Me and the Key 2 | 225280 | [225280-me-and-the-key-2.json](./225280-me-and-the-key-2.json) |
 | Me and the Key 3 | 225281 | [225281-me-and-the-key-3.json](./225281-me-and-the-key-3.json) |
@@ -8667,6 +8670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melody Ball | 344722 | [344722-melody-ball.json](./344722-melody-ball.json) |
 | Melody before the Dawn | 367404 | [367404-melody-before-the-dawn.json](./367404-melody-before-the-dawn.json) |
 | Melody Duel | 176185 | [176185-melody-duel.json](./176185-melody-duel.json) |
+| Melody Flight | 128134 | [128134-melody-flight.json](./128134-melody-flight.json) |
 | Melody Friends | 389980 | [389980-melody-friends.json](./389980-melody-friends.json) |
 | Melody in the moonlight | 191206 | [191206-melody-in-the-moonlight.json](./191206-melody-in-the-moonlight.json) |
 | Melody Jams | 86847 | [86847-melody-jams.json](./86847-melody-jams.json) |
