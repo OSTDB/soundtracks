@@ -1923,6 +1923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abby Normalli in Mayhem Mansion | 377424 | [377424-abby-normalli-in-mayhem-mansion.json](./377424-abby-normalli-in-mayhem-mansion.json) |
 | Abby y El Secreto de Gordonne | 293960 | [293960-abby-y-el-secreto-de-gordonne.json](./293960-abby-y-el-secreto-de-gordonne.json) |
 | Abbys Endless Adventure | 77591 | [77591-abbys-endless-adventure.json](./77591-abbys-endless-adventure.json) |
+| ABC Animal Adventures | 90723 | [90723-abc-animal-adventures.json](./90723-abc-animal-adventures.json) |
 | ABC Book 3D: Learn English | 377423 | [377423-abc-book-3d-learn-english.json](./377423-abc-book-3d-learn-english.json) |
 | ABC Coloring Town | 32556 | [32556-abc-coloring-town.json](./32556-abc-coloring-town.json) |
 | ABC Flappy | 188838 | [188838-abc-flappy.json](./188838-abc-flappy.json) |
@@ -4989,6 +4990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent girl | 81668 | [81668-agent-girl.json](./81668-agent-girl.json) |
 | Agent Gone... Fishing VR | 182789 | [182789-agent-gone-fishing-vr.json](./182789-agent-gone-fishing-vr.json) |
 | Agent Gumball: Roguelike Spy Game | 86835 | [86835-agent-gumball-roguelike-spy-game.json](./86835-agent-gumball-roguelike-spy-game.json) |
+| Agent Hammer | 90780 | [90780-agent-hammer.json](./90780-agent-hammer.json) |
 | Agent Hawk | 338655 | [338655-agent-hawk.json](./338655-agent-hawk.json) |
 | Agent Heart: Deception | 259180 | [259180-agent-heart-deception.json](./259180-agent-heart-deception.json) |
 | Agent Horny: Season 1 | 384893 | [384893-agent-horny-season-1.json](./384893-agent-horny-season-1.json) |
@@ -14559,6 +14561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Factory | 425843 | [425843-army-factory.json](./425843-army-factory.json) |
 | Army Gals | 34023 | [34023-army-gals.json](./34023-army-gals.json) |
 | Army Gals: The Poker Game | 171582 | [171582-army-gals-the-poker-game.json](./171582-army-gals-the-poker-game.json) |
+| Army Guns Collector | 90759 | [90759-army-guns-collector.json](./90759-army-guns-collector.json) |
 | Army Men | 118488 | [118488-army-men.json](./118488-army-men.json) |
 | Army Men | 26819 | [26819-army-men.json](./26819-army-men.json) |
 | Army Men 3D | 22833 | [22833-army-men-3d.json](./22833-army-men-3d.json) |
