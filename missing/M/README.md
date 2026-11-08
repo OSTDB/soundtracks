@@ -5502,6 +5502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mat Hoffman's Pro BMX | 3994 | [3994-mat-hoffmans-pro-bmx.json](./3994-mat-hoffmans-pro-bmx.json) |
 | Mat Hoffman's Pro BMX 2 | 210429 | [210429-mat-hoffmans-pro-bmx-2.json](./210429-mat-hoffmans-pro-bmx-2.json) |
 | Mat Hoffman's Pro BMX 2 | 3993 | [3993-mat-hoffmans-pro-bmx-2.json](./3993-mat-hoffmans-pro-bmx-2.json) |
+| Mat Mania | 80715 | [80715-mat-mania.json](./80715-mat-mania.json) |
 | Mat Mania Challenge | 12333 | [12333-mat-mania-challenge.json](./12333-mat-mania-challenge.json) |
 | Mata Hari | 27853 | [27853-mata-hari.json](./27853-mata-hari.json) |
 | Mata Hari | 74309 | [74309-mata-hari.json](./74309-mata-hari.json) |
@@ -16419,6 +16420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Maker: Yami no Ryuukishi | 63878 | [63878-monster-maker-yami-no-ryuukishi.json](./63878-monster-maker-yami-no-ryuukishi.json) |
 | Monster Man | 310998 | [310998-monster-man.json](./310998-monster-man.json) |
 | Monster Manor | 115779 | [115779-monster-manor.json](./115779-monster-manor.json) |
+| Monster Mansion | 80751 | [80751-monster-mansion.json](./80751-monster-mansion.json) |
 | Monster Mash | 292498 | [292498-monster-mash.json](./292498-monster-mash.json) |
 | Monster Mashing Deluxe | 116042 | [116042-monster-mashing-deluxe.json](./116042-monster-mashing-deluxe.json) |
 | Monster Master | 195938 | [195938-monster-master.json](./195938-monster-master.json) |
