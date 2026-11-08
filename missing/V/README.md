@@ -4115,6 +4115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Slots 3D | 368240 | [368240-vr-slots-3d.json](./368240-vr-slots-3d.json) |
 | VR Slugger | 40529 | [40529-vr-slugger.json](./40529-vr-slugger.json) |
 | VR Smash Park | 111716 | [111716-vr-smash-park.json](./111716-vr-smash-park.json) |
+| VR Snake Battle | 113240 | [113240-vr-snake-battle.json](./113240-vr-snake-battle.json) |
 | VR Sniper Hunt | 288472 | [288472-vr-sniper-hunt.json](./288472-vr-sniper-hunt.json) |
 | VR Snowballs | 29957 | [29957-vr-snowballs.json](./29957-vr-snowballs.json) |
 | VR Soccer | 20642 | [20642-vr-soccer.json](./20642-vr-soccer.json) |
