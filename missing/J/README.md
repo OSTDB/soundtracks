@@ -2231,6 +2231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jirai the Red Panda | 333798 | [333798-jirai-the-red-panda.json](./333798-jirai-the-red-panda.json) |
 | Jirai-kei Girl: Vengeance | 398138 | [398138-jirai-kei-girl-vengeance.json](./398138-jirai-kei-girl-vengeance.json) |
 | Jirai-kei Menhera Danshi to Icha Love Pien Ichigo Tabetaai | 285874 | [285874-jirai-kei-menhera-danshi-to-icha-love-pien-ichigo-tabetaai.json](./285874-jirai-kei-menhera-danshi-to-icha-love-pien-ichigo-tabetaai.json) |
+| Jirbo Break | 92751 | [92751-jirbo-break.json](./92751-jirbo-break.json) |
 | Jiří Kára Simulátor | 384219 | [384219-jiri-kara-simulator.json](./384219-jiri-kara-simulator.json) |
 | Jisatsu | 278971 | [278971-jisatsu.json](./278971-jisatsu.json) |
 | Jisedai Begoma Battle Beyblade | 65708 | [65708-jisedai-begoma-battle-beyblade.json](./65708-jisedai-begoma-battle-beyblade.json) |
