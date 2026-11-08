@@ -1384,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Tower | 81118 | [81118-magic-tower.json](./81118-magic-tower.json) |
 | Magic Tower & Maidens | 389269 | [389269-magic-tower-and-maidens.json](./389269-magic-tower-and-maidens.json) |
 | Magic Tower 2018 | 111628 | [111628-magic-tower-2018.json](./111628-magic-tower-2018.json) |
+| Magic Tower 3D | 89340 | [89340-magic-tower-3d.json](./89340-magic-tower-3d.json) |
 | Magic Tower Adventure | 173803 | [173803-magic-tower-adventure.json](./173803-magic-tower-adventure.json) |
 | Magic Tower Hero: DungeonKing | 255685 | [255685-magic-tower-hero-dungeonking.json](./255685-magic-tower-hero-dungeonking.json) |
 | Magic Tower Story | 197647 | [197647-magic-tower-story.json](./197647-magic-tower-story.json) |
@@ -8244,6 +8245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megalo Polis | 18114 | [18114-megalo-polis.json](./18114-megalo-polis.json) |
 | Megalomaniac | 28280 | [28280-megalomaniac.json](./28280-megalomaniac.json) |
 | Megalonia | 245074 | [245074-megalonia.json](./245074-megalonia.json) |
+| Megalonia | 89356 | [89356-megalonia.json](./89356-megalonia.json) |
 | Megaloot | 274998 | [274998-megaloot.json](./274998-megaloot.json) |
 | Megalophobia | 396338 | [396338-megalophobia.json](./396338-megalophobia.json) |
 | Megalopolis SOS | 138004 | [138004-megalopolis-sos.json](./138004-megalopolis-sos.json) |
@@ -11859,6 +11861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mik | 262928 | [262928-mik.json](./262928-mik.json) |
 | Mik: Legacy | 286416 | [286416-mik-legacy.json](./286416-mik-legacy.json) |
 | Mika 'Sweeper' Spin | 100106 | [100106-mika-sweeper-spin.json](./100106-mika-sweeper-spin.json) |
+| Mika "Boom" Spin | 89319 | [89319-mika-boom-spin.json](./89319-mika-boom-spin.json) |
 | Mika "Dumper" Spin | 91351 | [91351-mika-dumper-spin.json](./91351-mika-dumper-spin.json) |
 | Mika and the Witch's Mountain | 195098 | [195098-mika-and-the-witchs-mountain.json](./195098-mika-and-the-witchs-mountain.json) |
 | Mika Dozer Spin | 90693 | [90693-mika-dozer-spin.json](./90693-mika-dozer-spin.json) |
@@ -12085,6 +12088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milky Way Jigsaw Puzzles | 265319 | [265319-milky-way-jigsaw-puzzles.json](./265319-milky-way-jigsaw-puzzles.json) |
 | Milky Way Jigsaw Puzzles: Expansion Pack 1 | 265246 | [265246-milky-way-jigsaw-puzzles-expansion-pack-1.json](./265246-milky-way-jigsaw-puzzles-expansion-pack-1.json) |
 | Milky Way Jigsaw Puzzles: Expansion Pack 2 | 265247 | [265247-milky-way-jigsaw-puzzles-expansion-pack-2.json](./265247-milky-way-jigsaw-puzzles-expansion-pack-2.json) |
+| Milky Way Map | 89432 | [89432-milky-way-map.json](./89432-milky-way-map.json) |
 | Milky Way Prince: The Vampire Star | 136577 | [136577-milky-way-prince-the-vampire-star.json](./136577-milky-way-prince-the-vampire-star.json) |
 | Milky Way TD Survivors Autobattler RTS: Earth | 291429 | [291429-milky-way-td-survivors-autobattler-rts-earth.json](./291429-milky-way-td-survivors-autobattler-rts-earth.json) |
 | Milky Way Wishes | 271264 | [271264-milky-way-wishes.json](./271264-milky-way-wishes.json) |
@@ -21613,6 +21617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Putrid Ponies | 367541 | [367541-my-putrid-ponies.json](./367541-my-putrid-ponies.json) |
 | My Racing Car | 419864 | [419864-my-racing-car.json](./419864-my-racing-car.json) |
 | My Racing Career | 253735 | [253735-my-racing-career.json](./253735-my-racing-career.json) |
+| My Racing Career | 89431 | [89431-my-racing-career.json](./89431-my-racing-career.json) |
 | My Railroad | 118952 | [118952-my-railroad.json](./118952-my-railroad.json) |
 | My Raising Diary | 321594 | [321594-my-raising-diary.json](./321594-my-raising-diary.json) |
 | My Ranch | 351377 | [351377-my-ranch.json](./351377-my-ranch.json) |
