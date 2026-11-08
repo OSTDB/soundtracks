@@ -6337,6 +6337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Taishi - The Dutiful Lord of Echigo Scenario | 150663 | [150663-nobunagas-ambition-taishi-the-dutiful-lord-of-echigo-scenario.json](./150663-nobunagas-ambition-taishi-the-dutiful-lord-of-echigo-scenario.json) |
 | Nobunaga's Ambition: Taishi Deluxe Edition | 122363 | [122363-nobunagas-ambition-taishi-deluxe-edition.json](./122363-nobunagas-ambition-taishi-deluxe-edition.json) |
 | Nobunaga's Ambition: Tendou | 78305 | [78305-nobunagas-ambition-tendou.json](./78305-nobunagas-ambition-tendou.json) |
+| Nobunaga's Ambition: Tendou - Power Up Kit | 79481 | [79481-nobunagas-ambition-tendou-power-up-kit.json](./79481-nobunagas-ambition-tendou-power-up-kit.json) |
 | Nobunaga's Ambition: Tenkasousei with Power Up Kit | 82400 | [82400-nobunagas-ambition-tenkasousei-with-power-up-kit.json](./82400-nobunagas-ambition-tenkasousei-with-power-up-kit.json) |
 | Nobunaga's Ambition: Tenshouki | 44402 | [44402-nobunagas-ambition-tenshouki.json](./44402-nobunagas-ambition-tenshouki.json) |
 | Nobunaga's Ambition: Tenshouki with Power Up Kit | 307166 | [307166-nobunagas-ambition-tenshouki-with-power-up-kit.json](./307166-nobunagas-ambition-tenshouki-with-power-up-kit.json) |
