@@ -79,6 +79,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type Tactics II: Operation Bitter Chocolate | 44505 | [44505-r-type-tactics-ii-operation-bitter-chocolate.json](./44505-r-type-tactics-ii-operation-bitter-chocolate.json) |
 | R: Rock'n Riders | 63513 | [63513-r-rockn-riders.json](./63513-r-rockn-riders.json) |
 | R?MJ: The Mystery Hospital | 54928 | [54928-r-mj-the-mystery-hospital.json](./54928-r-mj-the-mystery-hospital.json) |
+| R.A.F.A. | 89335 | [89335-r-a-f-a.json](./89335-r-a-f-a.json) |
 | R.A.I.D | 400673 | [400673-r-a-i-d.json](./400673-r-a-i-d.json) |
 | R.A.I.L. Together | 409644 | [409644-r-a-i-l-together.json](./409644-r-a-i-l-together.json) |
 | R.A.M. | 141625 | [141625-r-a-m.json](./141625-r-a-m.json) |
@@ -730,6 +731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radioactive | 29757 | [29757-radioactive.json](./29757-radioactive.json) |
 | Radioactive Dwarfs: Evil From the Sewers | 159731 | [159731-radioactive-dwarfs-evil-from-the-sewers.json](./159731-radioactive-dwarfs-evil-from-the-sewers.json) |
 | Radioactive Inc. | 410009 | [410009-radioactive-inc.json](./410009-radioactive-inc.json) |
+| Radioactive Puzzle | 89320 | [89320-radioactive-puzzle.json](./89320-radioactive-puzzle.json) |
 | Radioactive Teddy Bear Zombies | 396746 | [396746-radioactive-teddy-bear-zombies.json](./396746-radioactive-teddy-bear-zombies.json) |
 | Radioactivity | 335502 | [335502-radioactivity.json](./335502-radioactivity.json) |
 | Radioapan: Banankalas! | 182330 | [182330-radioapan-banankalas.json](./182330-radioapan-banankalas.json) |
@@ -1197,6 +1199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Railroad Engineer | 161639 | [161639-railroad-engineer.json](./161639-railroad-engineer.json) |
 | Railroad Ink Challenge | 156127 | [156127-railroad-ink-challenge.json](./156127-railroad-ink-challenge.json) |
 | Railroad Ink Challenge: Forest | 196142 | [196142-railroad-ink-challenge-forest.json](./196142-railroad-ink-challenge-forest.json) |
+| Railroad Operator | 89332 | [89332-railroad-operator.json](./89332-railroad-operator.json) |
 | Railroad Pioneer | 71393 | [71393-railroad-pioneer.json](./71393-railroad-pioneer.json) |
 | Railroad Pioneer | 9417 | [9417-railroad-pioneer.json](./9417-railroad-pioneer.json) |
 | Railroad Rogues | 176767 | [176767-railroad-rogues.json](./176767-railroad-rogues.json) |
@@ -7662,6 +7665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riftwalker | 112730 | [112730-riftwalker.json](./112730-riftwalker.json) |
 | Riftwalker | 178679 | [178679-riftwalker.json](./178679-riftwalker.json) |
 | Riftwalker | 381181 | [381181-riftwalker.json](./381181-riftwalker.json) |
+| Rig or Skill: PC Brawl | 89327 | [89327-rig-or-skill-pc-brawl.json](./89327-rig-or-skill-pc-brawl.json) |
 | Rig Racer 2 | 5123 | [5123-rig-racer-2.json](./5123-rig-racer-2.json) |
 | Rig Riot | 337384 | [337384-rig-riot.json](./337384-rig-riot.json) |
 | Rig'n' Roll: Cut-Throat Highway | 209162 | [209162-rign-roll-cut-throat-highway.json](./209162-rign-roll-cut-throat-highway.json) |
@@ -8307,6 +8311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rite of Ilk | 55066 | [55066-rite-of-ilk.json](./55066-rite-of-ilk.json) |
 | Rite of Life | 34119 | [34119-rite-of-life.json](./34119-rite-of-life.json) |
 | Rite of Passage | 57496 | [57496-rite-of-passage.json](./57496-rite-of-passage.json) |
+| Rite of Passage | 89321 | [89321-rite-of-passage.json](./89321-rite-of-passage.json) |
 | Rite of Passage: Child of the Forest | 63375 | [63375-rite-of-passage-child-of-the-forest.json](./63375-rite-of-passage-child-of-the-forest.json) |
 | Rite of Passage: Child of the Forest - Collector's Edition | 28743 | [28743-rite-of-passage-child-of-the-forest-collectors-edition.json](./28743-rite-of-passage-child-of-the-forest-collectors-edition.json) |
 | Rite of Passage: Deck of Fates - Collector's Edition | 426411 | [426411-rite-of-passage-deck-of-fates-collectors-edition.json](./426411-rite-of-passage-deck-of-fates-collectors-edition.json) |
@@ -10764,6 +10769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rolling Voltorb | 70084 | [70084-rolling-voltorb.json](./70084-rolling-voltorb.json) |
 | Rolling Wheels | 308993 | [308993-rolling-wheels.json](./308993-rolling-wheels.json) |
 | RollingBall | 344265 | [344265-rollingball.json](./344265-rollingball.json) |
+| RollingBall | 89433 | [89433-rollingball.json](./89433-rollingball.json) |
 | RollingBall: Unlimited World | 96428 | [96428-rollingball-unlimited-world.json](./96428-rollingball-unlimited-world.json) |
 | RollingSky | 129747 | [129747-rollingsky.json](./129747-rollingsky.json) |
 | RollingSky2 | 126505 | [126505-rollingsky2.json](./126505-rollingsky2.json) |
