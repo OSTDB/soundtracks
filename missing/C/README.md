@@ -8967,6 +8967,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chushpan | 292552 | [292552-chushpan.json](./292552-chushpan.json) |
 | Chushpan Simulator | 356433 | [356433-chushpan-simulator.json](./356433-chushpan-simulator.json) |
 | Chushpan Simulator 2 | 309682 | [309682-chushpan-simulator-2.json](./309682-chushpan-simulator-2.json) |
+| ChuSinGura 46+1 Bushi no Kodou | 83106 | [83106-chusingura-46-1-bushi-no-kodou.json](./83106-chusingura-46-1-bushi-no-kodou.json) |
+| ChuSinGura 46+1 Edo Kyuushin-ha-hen | 83103 | [83103-chusingura-46-1-edo-kyuushin-ha-hen.json](./83103-chusingura-46-1-edo-kyuushin-ha-hen.json) |
+| ChuSinGura 46+1 Hyakka Sakigake-hen | 83104 | [83104-chusingura-46-1-hyakka-sakigake-hen.json](./83104-chusingura-46-1-hyakka-sakigake-hen.json) |
+| ChuSinGura 46+1 Kanade Hon-ChuuShinGura-hen | 83107 | [83107-chusingura-46-1-kanade-hon-chuushingura-hen.json](./83107-chusingura-46-1-kanade-hon-chuushingura-hen.json) |
 | ChuSingura 46+1 Wacchi to Onii-chan no Love Love Nagaya Seikatsu | 335756 | [335756-chusingura-46-1-wacchi-to-onii-chan-no-love-love-nagaya-seikatsu.json](./335756-chusingura-46-1-wacchi-to-onii-chan-no-love-love-nagaya-seikatsu.json) |
 | ChuSingura46+1 S | 32917 | [32917-chusingura46-1-s.json](./32917-chusingura46-1-s.json) |
 | ChuSingura46+1 S: Chapter 2 & 3 | 168851 | [168851-chusingura46-1-s-chapter-2-and-3.json](./168851-chusingura46-1-s-chapter-2-and-3.json) |
