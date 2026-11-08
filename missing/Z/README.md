@@ -1646,6 +1646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Defence TD | 223527 | [223527-zombie-defence-td.json](./223527-zombie-defence-td.json) |
 | Zombie Defense | 246752 | [246752-zombie-defense.json](./246752-zombie-defense.json) |
 | Zombie Defense | 271703 | [271703-zombie-defense.json](./271703-zombie-defense.json) |
+| Zombie Defense HNG | 88353 | [88353-zombie-defense-hng.json](./88353-zombie-defense-hng.json) |
 | Zombie Defense Shelter | 130195 | [130195-zombie-defense-shelter.json](./130195-zombie-defense-shelter.json) |
 | Zombie Defense: Banana | 404557 | [404557-zombie-defense-banana.json](./404557-zombie-defense-banana.json) |
 | Zombie Defense: Breach of the Undead | 392584 | [392584-zombie-defense-breach-of-the-undead.json](./392584-zombie-defense-breach-of-the-undead.json) |
