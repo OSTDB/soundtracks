@@ -10052,6 +10052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forged Battalion | 74528 | [74528-forged-battalion.json](./74528-forged-battalion.json) |
 | Forged Cards | 422467 | [422467-forged-cards.json](./422467-forged-cards.json) |
 | Forged Desires: A Bara JRPG | 377093 | [377093-forged-desires-a-bara-jrpg.json](./377093-forged-desires-a-bara-jrpg.json) |
+| Forged Fantasy | 113910 | [113910-forged-fantasy.json](./113910-forged-fantasy.json) |
 | Forged from Monsters | 407712 | [407712-forged-from-monsters.json](./407712-forged-from-monsters.json) |
 | Forged In Dungeon | 289235 | [289235-forged-in-dungeon.json](./289235-forged-in-dungeon.json) |
 | Forged in Epic | 286337 | [286337-forged-in-epic.json](./286337-forged-in-epic.json) |
