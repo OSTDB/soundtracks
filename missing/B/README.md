@@ -1766,6 +1766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Smash | 130693 | [130693-balloon-smash.json](./130693-balloon-smash.json) |
 | Balloon Star | 368980 | [368980-balloon-star.json](./368980-balloon-star.json) |
 | Balloon to the Moon 2 | 316083 | [316083-balloon-to-the-moon-2.json](./316083-balloon-to-the-moon-2.json) |
+| Balloon Up | 108578 | [108578-balloon-up.json](./108578-balloon-up.json) |
 | Balloonacy | 13372 | [13372-balloonacy.json](./13372-balloonacy.json) |
 | Balloonacy 2 | 97324 | [97324-balloonacy-2.json](./97324-balloonacy-2.json) |
 | Balloonacy! | 39043 | [39043-balloonacy.json](./39043-balloonacy.json) |
@@ -4441,6 +4442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlerace | 201591 | [201591-battlerace.json](./201591-battlerace.json) |
 | Battlerace Support Package | 323242 | [323242-battlerace-support-package.json](./323242-battlerace-support-package.json) |
 | BattleReign | 234546 | [234546-battlereign.json](./234546-battlereign.json) |
+| BattleRise: Kingdom of Champions | 108098 | [108098-battlerise-kingdom-of-champions.json](./108098-battlerise-kingdom-of-champions.json) |
 | Battlerite | 23193 | [23193-battlerite.json](./23193-battlerite.json) |
 | Battlerite Royale | 107022 | [107022-battlerite-royale.json](./107022-battlerite-royale.json) |
 | Battlerite Royale: All Champions Pack | 168365 | [168365-battlerite-royale-all-champions-pack.json](./168365-battlerite-royale-all-champions-pack.json) |
@@ -6219,7 +6221,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Behold Battle | 247918 | [247918-behold-battle.json](./247918-behold-battle.json) |
 | Behold the Dark | 151470 | [151470-behold-the-dark.json](./151470-behold-the-dark.json) |
 | Behold the Horde | 382830 | [382830-behold-the-horde.json](./382830-behold-the-horde.json) |
-| Behold the Kickmen | 26188 | [26188-behold-the-kickmen.json](./26188-behold-the-kickmen.json) |
 | Beholder 2 | 78536 | [78536-beholder-2.json](./78536-beholder-2.json) |
 | Beholder 2: Big Brother Edition | 146131 | [146131-beholder-2-big-brother-edition.json](./146131-beholder-2-big-brother-edition.json) |
 | Beholder 3 | 186882 | [186882-beholder-3.json](./186882-beholder-3.json) |
@@ -8774,7 +8775,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Dancer | 351611 | [351611-bit-dancer.json](./351611-bit-dancer.json) |
 | Bit Digger | 65329 | [65329-bit-digger.json](./65329-bit-digger.json) |
 | Bit Dungeon | 60772 | [60772-bit-dungeon.json](./60772-bit-dungeon.json) |
-| Bit Dungeon II | 24557 | [24557-bit-dungeon-ii.json](./24557-bit-dungeon-ii.json) |
 | bit Dungeon III | 116771 | [116771-bit-dungeon-iii.json](./116771-bit-dungeon-iii.json) |
 | Bit Dungeon+ | 25816 | [25816-bit-dungeon.json](./25816-bit-dungeon.json) |
 | Bit Esc | 317143 | [317143-bit-esc.json](./317143-bit-esc.json) |
@@ -10784,7 +10784,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block! Triangle Puzzle: Tangram | 106633 | [106633-block-triangle-puzzle-tangram.json](./106633-block-triangle-puzzle-tangram.json) |
 | Block'D | 273978 | [273978-blockd.json](./273978-blockd.json) |
 | Block'Em! | 149849 | [149849-blockem.json](./149849-blockem.json) |
-| Block'hood | 18339 | [18339-blockhood.json](./18339-blockhood.json) |
 | Block'hood VR | 98989 | [98989-blockhood-vr.json](./98989-blockhood-vr.json) |
 | Block+Hole | 366424 | [366424-block-hole.json](./366424-block-hole.json) |
 | Blockade | 116295 | [116295-blockade.json](./116295-blockade.json) |
@@ -10891,6 +10890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocks | 361395 | [361395-blocks.json](./361395-blocks.json) |
 | Blocks | 370143 | [370143-blocks.json](./370143-blocks.json) |
 | Blocks | 371455 | [371455-blocks.json](./371455-blocks.json) |
+| Blocks : Organizing! | 108101 | [108101-blocks-organizing.json](./108101-blocks-organizing.json) |
 | Blocks 2 | 101897 | [101897-blocks-2.json](./101897-blocks-2.json) |
 | Blocks Ahoy! | 387562 | [387562-blocks-ahoy.json](./387562-blocks-ahoy.json) |
 | Blocks and Bones | 270028 | [270028-blocks-and-bones.json](./270028-blocks-and-bones.json) |
@@ -13839,6 +13839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boter, kaas en eieren | 100034 | [100034-boter-kaas-en-eieren.json](./100034-boter-kaas-en-eieren.json) |
 | Botfestation | 291305 | [291305-botfestation.json](./291305-botfestation.json) |
 | Both Barrels | 59782 | [59782-both-barrels.json](./59782-both-barrels.json) |
+| BotHeads 2 | 108568 | [108568-botheads-2.json](./108568-botheads-2.json) |
 | Boti: Byteland Overclocked | 221164 | [221164-boti-byteland-overclocked.json](./221164-boti-byteland-overclocked.json) |
 | Boti: Byteland Overclocked - Bit Racing | 327814 | [327814-boti-byteland-overclocked-bit-racing.json](./327814-boti-byteland-overclocked-bit-racing.json) |
 | Boti: Byteland Overclocked - Bitosaurus | 327813 | [327813-boti-byteland-overclocked-bitosaurus.json](./327813-boti-byteland-overclocked-bitosaurus.json) |
@@ -14582,6 +14583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxsplodings | 61911 | [61911-boxsplodings.json](./61911-boxsplodings.json) |
 | Boxstacker | 349369 | [349369-boxstacker.json](./349369-boxstacker.json) |
 | BoxTheTop | 113730 | [113730-boxthetop.json](./113730-boxthetop.json) |
+| BoxTuber | 108576 | [108576-boxtuber.json](./108576-boxtuber.json) |
 | Boxville | 190160 | [190160-boxville.json](./190160-boxville.json) |
 | Boxville 2 | 311892 | [311892-boxville-2.json](./311892-boxville-2.json) |
 | Boxville 2: Collector's Edition | 402954 | [402954-boxville-2-collectors-edition.json](./402954-boxville-2-collectors-edition.json) |
@@ -15734,6 +15736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brick Breaker Ultimate | 65800 | [65800-brick-breaker-ultimate.json](./65800-brick-breaker-ultimate.json) |
 | Brick Breaker Unicorn | 151199 | [151199-brick-breaker-unicorn.json](./151199-brick-breaker-unicorn.json) |
 | Brick Breaker VR | 133667 | [133667-brick-breaker-vr.json](./133667-brick-breaker-vr.json) |
+| Brick Breaker with Risa | 107995 | [107995-brick-breaker-with-risa.json](./107995-brick-breaker-with-risa.json) |
 | Brick Breaker X: Deluxe | 180130 | [180130-brick-breaker-x-deluxe.json](./180130-brick-breaker-x-deluxe.json) |
 | Brick Breaker: Ball Shooter | 219479 | [219479-brick-breaker-ball-shooter.json](./219479-brick-breaker-ball-shooter.json) |
 | Brick Breaker: Galaxy Defense | 395352 | [395352-brick-breaker-galaxy-defense.json](./395352-brick-breaker-galaxy-defense.json) |
