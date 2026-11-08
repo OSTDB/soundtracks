@@ -1615,6 +1615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Birthday | 295110 | [295110-happy-birthday.json](./295110-happy-birthday.json) |
 | Happy Birthday Pavera | 268011 | [268011-happy-birthday-pavera.json](./268011-happy-birthday-pavera.json) |
 | Happy Birthday, Adolf! | 132593 | [132593-happy-birthday-adolf.json](./132593-happy-birthday-adolf.json) |
+| Happy birthday, Alfie Atkins! | 90872 | [90872-happy-birthday-alfie-atkins.json](./90872-happy-birthday-alfie-atkins.json) |
 | Happy Birthday, Bernard | 30615 | [30615-happy-birthday-bernard.json](./30615-happy-birthday-bernard.json) |
 | Happy Birthday, Csonicgo! | 262558 | [262558-happy-birthday-csonicgo.json](./262558-happy-birthday-csonicgo.json) |
 | Happy Birthday, Maisy! | 71365 | [71365-happy-birthday-maisy.json](./71365-happy-birthday-maisy.json) |
@@ -8834,6 +8835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey de mesa | 230654 | [230654-hockey-de-mesa.json](./230654-hockey-de-mesa.json) |
 | Hockey Fight Pro | 102579 | [102579-hockey-fight-pro.json](./102579-hockey-fight-pro.json) |
 | Hockey Fights | 93559 | [93559-hockey-fights.json](./93559-hockey-fights.json) |
+| Hockey General Manager | 90729 | [90729-hockey-general-manager.json](./90729-hockey-general-manager.json) |
 | Hockey Hockey Club | 315992 | [315992-hockey-hockey-club.json](./315992-hockey-hockey-club.json) |
 | Hockey Hysteria | 223839 | [223839-hockey-hysteria.json](./223839-hockey-hysteria.json) |
 | Hockey League Simulator | 15503 | [15503-hockey-league-simulator.json](./15503-hockey-league-simulator.json) |
