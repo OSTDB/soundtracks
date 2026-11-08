@@ -632,6 +632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janet DeMornay is a Slumlord (and a witch) | 262766 | [262766-janet-demornay-is-a-slumlord-and-a-witch.json](./262766-janet-demornay-is-a-slumlord-and-a-witch.json) |
 | Janet's Planets | 400672 | [400672-janets-planets.json](./400672-janets-planets.json) |
 | Jang Pung 3 | 64793 | [64793-jang-pung-3.json](./64793-jang-pung-3.json) |
+| Jang-Du Jin Baduk Gyosil Ibmunpyeon | 130465 | [130465-jang-du-jin-baduk-gyosil-ibmunpyeon.json](./130465-jang-du-jin-baduk-gyosil-ibmunpyeon.json) |
 | Janga | 121629 | [121629-janga.json](./121629-janga.json) |
 | Janggi for Kakao | 126002 | [126002-janggi-for-kakao.json](./126002-janggi-for-kakao.json) |
 | Janggun | 145638 | [145638-janggun.json](./145638-janggun.json) |
@@ -1245,6 +1246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Force Gemini | 1355 | [1355-jet-force-gemini.json](./1355-jet-force-gemini.json) |
 | Jet Force Gemini | 284130 | [284130-jet-force-gemini.json](./284130-jet-force-gemini.json) |
 | Jet Force Gemini Trainer and Co-Op Hack | 173086 | [173086-jet-force-gemini-trainer-and-co-op-hack.json](./173086-jet-force-gemini-trainer-and-co-op-hack.json) |
+| Jet Girls | 130477 | [130477-jet-girls.json](./130477-jet-girls.json) |
 | Jet Grind Radio | 145186 | [145186-jet-grind-radio.json](./145186-jet-grind-radio.json) |
 | Jet Gunner | 17655 | [17655-jet-gunner.json](./17655-jet-gunner.json) |
 | Jet Gunner: Refueled | 373316 | [373316-jet-gunner-refueled.json](./373316-jet-gunner-refueled.json) |
