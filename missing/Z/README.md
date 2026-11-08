@@ -263,6 +263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zakato: Maan | 146533 | [146533-zakato-maan.json](./146533-zakato-maan.json) |
 | Zakesta | 171886 | [171886-zakesta.json](./171886-zakesta.json) |
 | Zakesta-Z | 278102 | [278102-zakesta-z.json](./278102-zakesta-z.json) |
+| Zakk Hazard the Deadly Spawn | 116532 | [116532-zakk-hazard-the-deadly-spawn.json](./116532-zakk-hazard-the-deadly-spawn.json) |
 | Zako no Ahiru | 292489 | [292489-zako-no-ahiru.json](./292489-zako-no-ahiru.json) |
 | Zako Slayer | 228073 | [228073-zako-slayer.json](./228073-zako-slayer.json) |
 | Zakon | 212177 | [212177-zakon.json](./212177-zakon.json) |
