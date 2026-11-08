@@ -2688,6 +2688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Punch Man: A Hero Nobody Knows DLC Pack 2 - Lightning Max | 134063 | [134063-one-punch-man-a-hero-nobody-knows-dlc-pack-2-lightning-max.json](./134063-one-punch-man-a-hero-nobody-knows-dlc-pack-2-lightning-max.json) |
 | One Punch Man: A Hero Nobody Knows DLC Pack 3 - Watchdog Man | 134064 | [134064-one-punch-man-a-hero-nobody-knows-dlc-pack-3-watchdog-man.json](./134064-one-punch-man-a-hero-nobody-knows-dlc-pack-3-watchdog-man.json) |
 | One Punch Man: A Hero Nobody Knows DLC Pack 4 - Garou | 134065 | [134065-one-punch-man-a-hero-nobody-knows-dlc-pack-4-garou.json](./134065-one-punch-man-a-hero-nobody-knows-dlc-pack-4-garou.json) |
+| One Punch Man: Road to Hero | 119929 | [119929-one-punch-man-road-to-hero.json](./119929-one-punch-man-road-to-hero.json) |
 | One Punch Man: The Strongest Man | 122990 | [122990-one-punch-man-the-strongest-man.json](./122990-one-punch-man-the-strongest-man.json) |
 | One Punch Man: World | 174694 | [174694-one-punch-man-world.json](./174694-one-punch-man-world.json) |
 | One Putt Wonder | 181709 | [181709-one-putt-wonder.json](./181709-one-putt-wonder.json) |
