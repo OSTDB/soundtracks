@@ -5769,6 +5769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mathe Pfiffikus 1 - 1995 | 81404 | [81404-mathe-pfiffikus-1-1995.json](./81404-mathe-pfiffikus-1-1995.json) |
 | Mathe Pfiffikus 2 | 81403 | [81403-mathe-pfiffikus-2.json](./81403-mathe-pfiffikus-2.json) |
 | Mathe Pfiffikus 2009 | 81394 | [81394-mathe-pfiffikus-2009.json](./81394-mathe-pfiffikus-2009.json) |
+| Mathel | 111255 | [111255-mathel.json](./111255-mathel.json) |
 | Mathemagician | 245448 | [245448-mathemagician.json](./245448-mathemagician.json) |
 | Mathemagics, An Interactive Learning Cube | 37123 | [37123-mathemagics-an-interactive-learning-cube.json](./37123-mathemagics-an-interactive-learning-cube.json) |
 | Mathematic Adventures | 149423 | [149423-mathematic-adventures.json](./149423-mathematic-adventures.json) |
