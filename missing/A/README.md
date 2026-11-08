@@ -1664,6 +1664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.C.E.: Air Combat Elite | 326027 | [326027-a-c-e-air-combat-elite.json](./326027-a-c-e-air-combat-elite.json) |
 | A.C.I.T. Soup | 406706 | [406706-a-c-i-t-soup.json](./406706-a-c-i-t-soup.json) |
 | A.D. 2044 | 93168 | [93168-a-d-2044.json](./93168-a-d-2044.json) |
+| A.D. 2047 | 117268 | [117268-a-d-2047.json](./117268-a-d-2047.json) |
 | A.D. 2083 | 46766 | [46766-a-d-2083.json](./46766-a-d-2083.json) |
 | A.D. Cop | 127551 | [127551-a-d-cop.json](./127551-a-d-cop.json) |
 | A.D.A.M. | 19398 | [19398-a-d-a-m.json](./19398-a-d-a-m.json) |
@@ -3231,6 +3232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Address1 | 265648 | [265648-address1.json](./265648-address1.json) |
 | Addy: Do You Speak English? | 269541 | [269541-addy-do-you-speak-english.json](./269541-addy-do-you-speak-english.json) |
 | Adebana Sacrament: Seinaru Miwaza to Akuryoutsuki no Shoujo-tachi | 77948 | [77948-adebana-sacrament-seinaru-miwaza-to-akuryoutsuki-no-shoujo-tachi.json](./77948-adebana-sacrament-seinaru-miwaza-to-akuryoutsuki-no-shoujo-tachi.json) |
+| Adecke: Cards Games Deluxe | 117222 | [117222-adecke-cards-games-deluxe.json](./117222-adecke-cards-games-deluxe.json) |
 | ADElaide | 399770 | [399770-adelaide.json](./399770-adelaide.json) |
 | Adelaide: A Tiny Adventure | 422548 | [422548-adelaide-a-tiny-adventure.json](./422548-adelaide-a-tiny-adventure.json) |
 | Adelamyth: Casual Idle RPG | 223932 | [223932-adelamyth-casual-idle-rpg.json](./223932-adelamyth-casual-idle-rpg.json) |
@@ -9778,6 +9780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angela Light: Ace Attorney | 309996 | [309996-angela-light-ace-attorney.json](./309996-angela-light-ace-attorney.json) |
 | Angela Twins Birth | 212638 | [212638-angela-twins-birth.json](./212638-angela-twins-birth.json) |
 | Angela's Love | 385059 | [385059-angelas-love.json](./385059-angelas-love.json) |
+| Angela's Odyssey | 117227 | [117227-angelas-odyssey.json](./117227-angelas-odyssey.json) |
 | Angela's Valentine | 350589 | [350589-angelas-valentine.json](./350589-angelas-valentine.json) |
 | Angelblood | 294555 | [294555-angelblood.json](./294555-angelblood.json) |
 | Angeldust | 32892 | [32892-angeldust.json](./32892-angeldust.json) |
@@ -15141,6 +15144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ascent: Rivals | 288339 | [288339-ascent-rivals.json](./288339-ascent-rivals.json) |
 | Ascention Suvivor | 364960 | [364960-ascention-suvivor.json](./364960-ascention-suvivor.json) |
 | Ascentroid | 137916 | [137916-ascentroid.json](./137916-ascentroid.json) |
+| Ascenxion | 117247 | [117247-ascenxion.json](./117247-ascenxion.json) |
 | ASCII Achievement Mania: Space Shooter | 379323 | [379323-ascii-achievement-mania-space-shooter.json](./379323-ascii-achievement-mania-space-shooter.json) |
 | ASCII and the Argonauts | 217764 | [217764-ascii-and-the-argonauts.json](./217764-ascii-and-the-argonauts.json) |
 | ASCII Attack | 35239 | [35239-ascii-attack.json](./35239-ascii-attack.json) |
@@ -16997,6 +17001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -18798,6 +18803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azure Striker Gunvolt 3: Ex Image Pulses - Nova and Desna pack | 265595 | [265595-azure-striker-gunvolt-3-ex-image-pulses-nova-and-desna-pack.json](./265595-azure-striker-gunvolt-3-ex-image-pulses-nova-and-desna-pack.json) |
 | Azure Striker Gunvolt Trilogy Enhanced | 335400 | [335400-azure-striker-gunvolt-trilogy-enhanced.json](./335400-azure-striker-gunvolt-trilogy-enhanced.json) |
 | Azure Striker Gunvolt: Striker Pack | 29529 | [29529-azure-striker-gunvolt-striker-pack.json](./29529-azure-striker-gunvolt-striker-pack.json) |
+| Azure Wing: Rising Gale | 117228 | [117228-azure-wing-rising-gale.json](./117228-azure-wing-rising-gale.json) |
 | Azurea Juncture | 30454 | [30454-azurea-juncture.json](./30454-azurea-juncture.json) |
 | Azurea: Sora no Uta | 216219 | [216219-azurea-sora-no-uta.json](./216219-azurea-sora-no-uta.json) |
 | Azurebreak Heroes | 121560 | [121560-azurebreak-heroes.json](./121560-azurebreak-heroes.json) |
