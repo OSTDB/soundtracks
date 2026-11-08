@@ -963,6 +963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Varion | 87960 | [87960-varion.json](./87960-varion.json) |
 | Various Daylife | 122319 | [122319-various-daylife.json](./122319-various-daylife.json) |
 | Various Daylife: Mobile | 233061 | [233061-various-daylife-mobile.json](./233061-various-daylife-mobile.json) |
+| Various Fighters | 93683 | [93683-various-fighters.json](./93683-various-fighters.json) |
 | Varista | 258600 | [258600-varista.json](./258600-varista.json) |
 | VariTale | 71508 | [71508-varitale.json](./71508-varitale.json) |
 | Varkana | 217662 | [217662-varkana.json](./217662-varkana.json) |
