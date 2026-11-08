@@ -7531,6 +7531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Children of the Forest | 271645 | [271645-children-of-the-forest.json](./271645-children-of-the-forest.json) |
 | Children of the Galaxy | 30304 | [30304-children-of-the-galaxy.json](./30304-children-of-the-galaxy.json) |
 | Children of the Gate | 57902 | [57902-children-of-the-gate.json](./57902-children-of-the-gate.json) |
+| Children of the Nile Complete | 124945 | [124945-children-of-the-nile-complete.json](./124945-children-of-the-nile-complete.json) |
 | Children of the Nile: Alexandria | 11273 | [11273-children-of-the-nile-alexandria.json](./11273-children-of-the-nile-alexandria.json) |
 | Children of the Nile: Alexandria | 334614 | [334614-children-of-the-nile-alexandria.json](./334614-children-of-the-nile-alexandria.json) |
 | Children of the Nile: Enhanced Edition | 27834 | [27834-children-of-the-nile-enhanced-edition.json](./27834-children-of-the-nile-enhanced-edition.json) |
@@ -19902,7 +19903,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cultist Simulator: Anthology Edition | 117948 | [117948-cultist-simulator-anthology-edition.json](./117948-cultist-simulator-anthology-edition.json) |
 | Cultist Simulator: Initiate Edition | 142313 | [142313-cultist-simulator-initiate-edition.json](./142313-cultist-simulator-initiate-edition.json) |
 | Cultist Simulator: The Exile | 154687 | [154687-cultist-simulator-the-exile.json](./154687-cultist-simulator-the-exile.json) |
+| Cultist Simulator: The Ghoul | 124935 | [124935-cultist-simulator-the-ghoul.json](./124935-cultist-simulator-the-ghoul.json) |
 | Cultist Simulator: The Lady Afterwards | 196087 | [196087-cultist-simulator-the-lady-afterwards.json](./196087-cultist-simulator-the-lady-afterwards.json) |
+| Cultist Simulator: The Priest | 124932 | [124932-cultist-simulator-the-priest.json](./124932-cultist-simulator-the-priest.json) |
 | Cultists & Compounds | 133617 | [133617-cultists-and-compounds.json](./133617-cultists-and-compounds.json) |
 | Cultivating Happiness | 229218 | [229218-cultivating-happiness.json](./229218-cultivating-happiness.json) |
 | Cultivating Immortals | 274641 | [274641-cultivating-immortals.json](./274641-cultivating-immortals.json) |
