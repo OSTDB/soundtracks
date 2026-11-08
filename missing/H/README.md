@@ -3936,6 +3936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heir of Love | 299422 | [299422-heir-of-love.json](./299422-heir-of-love.json) |
 | Heir of the Dog | 260847 | [260847-heir-of-the-dog.json](./260847-heir-of-the-dog.json) |
 | Heir to the Queen | 358915 | [358915-heir-to-the-queen.json](./358915-heir-to-the-queen.json) |
+| Heiress | 94827 | [94827-heiress.json](./94827-heiress.json) |
 | Heiress II | 417969 | [417969-heiress-ii.json](./417969-heiress-ii.json) |
 | Heirloom | 239972 | [239972-heirloom.json](./239972-heirloom.json) |
 | Heirs | 329072 | [329072-heirs.json](./329072-heirs.json) |
@@ -8689,6 +8690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hive | 172032 | [172032-hive.json](./172032-hive.json) |
 | Hive | 212144 | [212144-hive.json](./212144-hive.json) |
 | Hive | 5604 | [5604-hive.json](./5604-hive.json) |
+| Hive | 94858 | [94858-hive.json](./94858-hive.json) |
 | Hive and Seek | 304176 | [304176-hive-and-seek.json](./304176-hive-and-seek.json) |
 | Hive Blight | 345434 | [345434-hive-blight.json](./345434-hive-blight.json) |
 | Hive Defender | 190193 | [190193-hive-defender.json](./190193-hive-defender.json) |
