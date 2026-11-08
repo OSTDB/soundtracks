@@ -1586,6 +1586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Zombie Tail | 290919 | [290919-a-zombie-tail.json](./290919-a-zombie-tail.json) |
 | A Zone | 125102 | [125102-a-zone.json](./125102-a-zone.json) |
 | A-01's Voyage.Logs | 399288 | [399288-a-01s-voyage-logs.json](./399288-a-01s-voyage-logs.json) |
+| A-10 Attack! | 93014 | [93014-a-10-attack.json](./93014-a-10-attack.json) |
 | A-10 Cuba! | 94518 | [94518-a-10-cuba.json](./94518-a-10-cuba.json) |
 | A-10 Tank Killer | 14200 | [14200-a-10-tank-killer.json](./14200-a-10-tank-killer.json) |
 | A-10 Tank Killer + Extra Missions | 100046 | [100046-a-10-tank-killer-extra-missions.json](./100046-a-10-tank-killer-extra-missions.json) |
@@ -1863,6 +1864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aban Hawkins & the 1000 Spikes | 91756 | [91756-aban-hawkins-and-the-1000-spikes.json](./91756-aban-hawkins-and-the-1000-spikes.json) |
 | Abandon | 222631 | [222631-abandon.json](./222631-abandon.json) |
 | Abandon | 91827 | [91827-abandon.json](./91827-abandon.json) |
+| Abandon 2 | 93092 | [93092-abandon-2.json](./93092-abandon-2.json) |
 | Abandon: The Town | 268033 | [268033-abandon-the-town.json](./268033-abandon-the-town.json) |
 | Abandon02 | 129084 | [129084-abandon02.json](./129084-abandon02.json) |
 | Abandoned | 165148 | [165148-abandoned.json](./165148-abandoned.json) |
@@ -3184,6 +3186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ad Nauseam | 304201 | [304201-ad-nauseam.json](./304201-ad-nauseam.json) |
 | Ad Nauseam 2 | 138262 | [138262-ad-nauseam-2.json](./138262-ad-nauseam-2.json) |
 | Ad Shoot | 310244 | [310244-ad-shoot.json](./310244-ad-shoot.json) |
+| Ad Verbum | 93104 | [93104-ad-verbum.json](./93104-ad-verbum.json) |
 | Ad Victoriam | 258106 | [258106-ad-victoriam.json](./258106-ad-victoriam.json) |
 | Ad Wars | 96242 | [96242-ad-wars.json](./96242-ad-wars.json) |
 | AD&D Dark Sun Online: Crimson Sands | 71724 | [71724-ad-and-d-dark-sun-online-crimson-sands.json](./71724-ad-and-d-dark-sun-online-crimson-sands.json) |
