@@ -3019,6 +3019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Adventure Bundle | 125128 | [125128-action-adventure-bundle.json](./125128-action-adventure-bundle.json) |
 | Action Alien | 34934 | [34934-action-alien.json](./34934-action-alien.json) |
 | Action Alien : Prelude | 81907 | [81907-action-alien-prelude.json](./81907-action-alien-prelude.json) |
+| Action Alien: Tropical Mayhem | 102906 | [102906-action-alien-tropical-mayhem.json](./102906-action-alien-tropical-mayhem.json) |
 | Action Arcade Wrestling | 61145 | [61145-action-arcade-wrestling.json](./61145-action-arcade-wrestling.json) |
 | Action Arcade Wrestling | 62516 | [62516-action-arcade-wrestling.json](./62516-action-arcade-wrestling.json) |
 | Action Arcade Wrestling 2 | 62515 | [62515-action-arcade-wrestling-2.json](./62515-action-arcade-wrestling-2.json) |
@@ -9831,6 +9832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angelface | 375907 | [375907-angelface.json](./375907-angelface.json) |
 | Angelfish | 69713 | [69713-angelfish.json](./69713-angelfish.json) |
 | AngelGaze | 311184 | [311184-angelgaze.json](./311184-angelgaze.json) |
+| AngeliaLost | 102905 | [102905-angelialost.json](./102905-angelialost.json) |
 | Angelian Trigger | 312331 | [312331-angelian-trigger.json](./312331-angelian-trigger.json) |
 | Angelic | 145892 | [145892-angelic.json](./145892-angelic.json) |
 | Angelic Agency: Soul Salvation Unit | 334862 | [334862-angelic-agency-soul-salvation-unit.json](./334862-angelic-agency-soul-salvation-unit.json) |
@@ -11447,6 +11449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Antivine | 250998 | [250998-antivine.json](./250998-antivine.json) |
 | Antivira | 283919 | [283919-antivira.json](./283919-antivira.json) |
 | Antivirus | 365003 | [365003-antivirus.json](./365003-antivirus.json) |
+| Antivirus HD | 102493 | [102493-antivirus-hd.json](./102493-antivirus-hd.json) |
 | Antivirus Survivors 2003 Professional | 384325 | [384325-antivirus-survivors-2003-professional.json](./384325-antivirus-survivors-2003-professional.json) |
 | AntiVirus_Snake | 240656 | [240656-antivirus-snake.json](./240656-antivirus-snake.json) |
 | AntiWirus | 395356 | [395356-antiwirus.json](./395356-antiwirus.json) |
@@ -12300,6 +12303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquarium Anomaly | 414410 | [414410-aquarium-anomaly.json](./414410-aquarium-anomaly.json) |
 | Aquarium at August 32nd | 330633 | [330633-aquarium-at-august-32nd.json](./330633-aquarium-at-august-32nd.json) |
 | Aquarium at August 32nd VR | 337961 | [337961-aquarium-at-august-32nd-vr.json](./337961-aquarium-at-august-32nd-vr.json) |
+| Aquarium Battle: Fish & Feed | 102489 | [102489-aquarium-battle-fish-and-feed.json](./102489-aquarium-battle-fish-and-feed.json) |
 | Aquarium by DS | 47776 | [47776-aquarium-by-ds.json](./47776-aquarium-by-ds.json) |
 | Aquarium Designer | 159879 | [159879-aquarium-designer.json](./159879-aquarium-designer.json) |
 | Aquarium Designer: Amazonia | 253600 | [253600-aquarium-designer-amazonia.json](./253600-aquarium-designer-amazonia.json) |
@@ -17070,6 +17074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
