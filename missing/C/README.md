@@ -462,6 +462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cakey's Twisted Bakery | 307692 | [307692-cakeys-twisted-bakery.json](./307692-cakeys-twisted-bakery.json) |
 | Cal | 123082 | [123082-cal.json](./123082-cal.json) |
 | Cal II | 77989 | [77989-cal-ii.json](./77989-cal-ii.json) |
+| Cal III | 94313 | [94313-cal-iii.json](./94313-cal-iii.json) |
 | Cal Ripken Jr. Baseball | 46230 | [46230-cal-ripken-jr-baseball.json](./46230-cal-ripken-jr-baseball.json) |
 | Cal Ripken's Real Baseball | 65253 | [65253-cal-ripkens-real-baseball.json](./65253-cal-ripkens-real-baseball.json) |
 | Cala a Boca, Galvão! | 260069 | [260069-cala-a-boca-galvao.json](./260069-cala-a-boca-galvao.json) |
@@ -1091,6 +1092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camp Wombo | 351010 | [351010-camp-wombo.json](./351010-camp-wombo.json) |
 | Campaign | 14371 | [14371-campaign.json](./14371-campaign.json) |
 | Campaign | 246322 | [246322-campaign.json](./246322-campaign.json) |
+| Campaign 1776 | 94299 | [94299-campaign-1776.json](./94299-campaign-1776.json) |
 | Campaign 1814 | 144833 | [144833-campaign-1814.json](./144833-campaign-1814.json) |
 | Campaign Antietam | 182260 | [182260-campaign-antietam.json](./182260-campaign-antietam.json) |
 | Campaign Austerlitz | 144835 | [144835-campaign-austerlitz.json](./144835-campaign-austerlitz.json) |
@@ -6046,6 +6048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Rally | 250300 | [250300-championship-rally.json](./250300-championship-rally.json) |
 | Championship Riding Star | 206914 | [206914-championship-riding-star.json](./206914-championship-riding-star.json) |
 | Championship Rugby Manager | 71223 | [71223-championship-rugby-manager.json](./71223-championship-rugby-manager.json) |
+| Championship Run | 94312 | [94312-championship-run.json](./94312-championship-run.json) |
 | Championship Soccer | 46882 | [46882-championship-soccer.json](./46882-championship-soccer.json) |
 | Championship Soccer '94 | 165410 | [165410-championship-soccer-94.json](./165410-championship-soccer-94.json) |
 | Championship Soccer 2004 | 91562 | [91562-championship-soccer-2004.json](./91562-championship-soccer-2004.json) |
@@ -8859,6 +8862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuckie Egg 2017 Challenges | 111642 | [111642-chuckie-egg-2017-challenges.json](./111642-chuckie-egg-2017-challenges.json) |
 | Chuckie Egg II | 13495 | [13495-chuckie-egg-ii.json](./13495-chuckie-egg-ii.json) |
 | Chuckle Phrase Builder | 167165 | [167165-chuckle-phrase-builder.json](./167165-chuckle-phrase-builder.json) |
+| Chuckman | 94275 | [94275-chuckman.json](./94275-chuckman.json) |
 | Chucky | 113717 | [113717-chucky.json](./113717-chucky.json) |
 | Chucky Mendoza and the Curse of the Pharaoh | 132720 | [132720-chucky-mendoza-and-the-curse-of-the-pharaoh.json](./132720-chucky-mendoza-and-the-curse-of-the-pharaoh.json) |
 | Chucky: Slash & Dash | 307138 | [307138-chucky-slash-and-dash.json](./307138-chucky-slash-and-dash.json) |
@@ -12907,6 +12911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Command: Matrix Edition | 123421 | [123421-combat-command-matrix-edition.json](./123421-combat-command-matrix-edition.json) |
 | Combat Complex | 217287 | [217287-combat-complex.json](./217287-combat-complex.json) |
 | Combat Core | 26545 | [26545-combat-core.json](./26545-combat-core.json) |
+| Combat Course | 94276 | [94276-combat-course.json](./94276-combat-course.json) |
 | Combat Crazy | 94179 | [94179-combat-crazy.json](./94179-combat-crazy.json) |
 | Combat Cycle | 167463 | [167463-combat-cycle.json](./167463-combat-cycle.json) |
 | Combat Directive: Napoleonic Wars | 318048 | [318048-combat-directive-napoleonic-wars.json](./318048-combat-directive-napoleonic-wars.json) |
@@ -16411,6 +16416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crabs! | 179118 | [179118-crabs.json](./179118-crabs.json) |
 | Crabs! | 349509 | [349509-crabs.json](./349509-crabs.json) |
 | Crabwave | 390359 | [390359-crabwave.json](./390359-crabwave.json) |
+| Crack | 94294 | [94294-crack.json](./94294-crack.json) |
 | Crack a Bottle | 87220 | [87220-crack-a-bottle.json](./87220-crack-a-bottle.json) |
 | Crack a Pack | 413193 | [413193-crack-a-pack.json](./413193-crack-a-pack.json) |
 | Crack Down | 12015 | [12015-crack-down.json](./12015-crack-down.json) |
@@ -21495,6 +21501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyroad | 128570 | [128570-cyroad.json](./128570-cyroad.json) |
 | Cyrox | 14024 | [14024-cyrox.json](./14024-cyrox.json) |
 | Cyrtabor | 159271 | [159271-cyrtabor.json](./159271-cyrtabor.json) |
+| Cyrus | 94310 | [94310-cyrus.json](./94310-cyrus.json) |
 | Cyrus II Chess | 12988 | [12988-cyrus-ii-chess.json](./12988-cyrus-ii-chess.json) |
 | CyTale | 261056 | [261056-cytale.json](./261056-cytale.json) |
 | Cyte | 371458 | [371458-cyte.json](./371458-cyte.json) |
