@@ -1971,6 +1971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw World | 53249 | [53249-jigsaw-world.json](./53249-jigsaw-world.json) |
 | Jigsaw World | 80812 | [80812-jigsaw-world.json](./80812-jigsaw-world.json) |
 | Jigsaw World: Daigekitou! Jig-Battle Heroes | 248838 | [248838-jigsaw-world-daigekitou-jig-battle-heroes.json](./248838-jigsaw-world-daigekitou-jig-battle-heroes.json) |
+| Jigsaw Zen | 124350 | [124350-jigsaw-zen.json](./124350-jigsaw-zen.json) |
 | Jigsaw Zoo | 289371 | [289371-jigsaw-zoo.json](./289371-jigsaw-zoo.json) |
 | Jigsaw-Land | 264174 | [264174-jigsaw-land.json](./264174-jigsaw-land.json) |
 | Jigsaw's Test | 393090 | [393090-jigsaws-test.json](./393090-jigsaws-test.json) |
@@ -2625,6 +2626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoJo's Bizarre RPG: Phantom Blood | 172763 | [172763-jojos-bizarre-rpg-phantom-blood.json](./172763-jojos-bizarre-rpg-phantom-blood.json) |
 | JoJo's Diner | 225295 | [225295-jojos-diner.json](./225295-jojos-diner.json) |
 | Jojo's Fashion Show | 27549 | [27549-jojos-fashion-show.json](./27549-jojos-fashion-show.json) |
+| JoJo's Pitter-Patter Pop! | 124347 | [124347-jojos-pitter-patter-pop.json](./124347-jojos-pitter-patter-pop.json) |
 | JoJo's Venture | 46815 | [46815-jojos-venture.json](./46815-jojos-venture.json) |
 | JoJodle | 225621 | [225621-jojodle.json](./225621-jojodle.json) |
 | Jojon Wik | 357690 | [357690-jojon-wik.json](./357690-jojon-wik.json) |
