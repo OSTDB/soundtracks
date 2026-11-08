@@ -2336,6 +2336,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harukanaru Toki no Naka de 5 | 60503 | [60503-harukanaru-toki-no-naka-de-5.json](./60503-harukanaru-toki-no-naka-de-5.json) |
 | Harukanaru Toki no Naka de 5: Kazahanaki | 146664 | [146664-harukanaru-toki-no-naka-de-5-kazahanaki.json](./146664-harukanaru-toki-no-naka-de-5-kazahanaki.json) |
 | Harukanaru Toki no Naka de 6 | 60958 | [60958-harukanaru-toki-no-naka-de-6.json](./60958-harukanaru-toki-no-naka-de-6.json) |
+| Harukanaru Toki no Naka de 6 DX | 111839 | [111839-harukanaru-toki-no-naka-de-6-dx.json](./111839-harukanaru-toki-no-naka-de-6-dx.json) |
 | Harukanaru Toki no Naka de 7 | 121519 | [121519-harukanaru-toki-no-naka-de-7.json](./121519-harukanaru-toki-no-naka-de-7.json) |
 | Harukanaru Toki no Naka De 7: Ransei no Sadame wo Koeru Box | 136842 | [136842-harukanaru-toki-no-naka-de-7-ransei-no-sadame-wo-koeru-box.json](./136842-harukanaru-toki-no-naka-de-7-ransei-no-sadame-wo-koeru-box.json) |
 | Harukanaru Toki no Naka de 7: Treasure Box Edition | 136775 | [136775-harukanaru-toki-no-naka-de-7-treasure-box-edition.json](./136775-harukanaru-toki-no-naka-de-7-treasure-box-edition.json) |
@@ -12111,6 +12112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hungry Shark Heroes | 300682 | [300682-hungry-shark-heroes.json](./300682-hungry-shark-heroes.json) |
 | Hungry Shark VR | 300681 | [300681-hungry-shark-vr.json](./300681-hungry-shark-vr.json) |
 | Hungry Shark World | 58597 | [58597-hungry-shark-world.json](./58597-hungry-shark-world.json) |
+| Hungry Shark World: Console Edition | 111829 | [111829-hungry-shark-world-console-edition.json](./111829-hungry-shark-world-console-edition.json) |
 | Hungry Shark: Night | 300680 | [300680-hungry-shark-night.json](./300680-hungry-shark-night.json) |
 | Hungry Shark: Part 1 | 300676 | [300676-hungry-shark-part-1.json](./300676-hungry-shark-part-1.json) |
 | Hungry Shark: Part 2 | 300678 | [300678-hungry-shark-part-2.json](./300678-hungry-shark-part-2.json) |
