@@ -837,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest for Cathrinite | 157288 | [157288-quest-for-cathrinite.json](./157288-quest-for-cathrinite.json) |
 | Quest for Choices: Ivan's Tale - Chapter 0+1 | 392393 | [392393-quest-for-choices-ivans-tale-chapter-0-1.json](./392393-quest-for-choices-ivans-tale-chapter-0-1.json) |
 | Quest for Cinema | 326016 | [326016-quest-for-cinema.json](./326016-quest-for-cinema.json) |
+| Quest for Conquest | 123728 | [123728-quest-for-conquest.json](./123728-quest-for-conquest.json) |
 | Quest For Corgi Butts | 328050 | [328050-quest-for-corgi-butts.json](./328050-quest-for-corgi-butts.json) |
 | Quest for Eclair | 311322 | [311322-quest-for-eclair.json](./311322-quest-for-eclair.json) |
 | Quest For Fame | 209748 | [209748-quest-for-fame.json](./209748-quest-for-fame.json) |
