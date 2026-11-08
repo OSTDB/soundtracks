@@ -1347,6 +1347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Fighter | 108475 | [108475-samurai-fighter.json](./108475-samurai-fighter.json) |
 | Samurai Forge | 51972 | [51972-samurai-forge.json](./51972-samurai-forge.json) |
 | Samurai Frog | 359058 | [359058-samurai-frog.json](./359058-samurai-frog.json) |
+| Samurai G | 85550 | [85550-samurai-g.json](./85550-samurai-g.json) |
 | Samurai Ghost Revenge | 385925 | [385925-samurai-ghost-revenge.json](./385925-samurai-ghost-revenge.json) |
 | Samurai Gunn | 16538 | [16538-samurai-gunn.json](./16538-samurai-gunn.json) |
 | Samurai Heroes | 373189 | [373189-samurai-heroes.json](./373189-samurai-heroes.json) |
@@ -3587,6 +3588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrabble Slam! | 66694 | [66694-scrabble-slam.json](./66694-scrabble-slam.json) |
 | Scrabble Sprint | 191503 | [191503-scrabble-sprint.json](./191503-scrabble-sprint.json) |
 | Scrabble Tetris | 385944 | [385944-scrabble-tetris.json](./385944-scrabble-tetris.json) |
+| Scrabble Tools | 85544 | [85544-scrabble-tools.json](./85544-scrabble-tools.json) |
 | Scrabble: Champion Edition | 209016 | [209016-scrabble-champion-edition.json](./209016-scrabble-champion-edition.json) |
 | Scrabble: Crossword Game | 45054 | [45054-scrabble-crossword-game.json](./45054-scrabble-crossword-game.json) |
 | Scrabble: Deluxe Edition | 145290 | [145290-scrabble-deluxe-edition.json](./145290-scrabble-deluxe-edition.json) |
