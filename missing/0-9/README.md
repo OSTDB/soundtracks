@@ -3605,6 +3605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9: The Dark Side of Notre Dame - Collector's Edition | 416852 | [416852-9-the-dark-side-of-notre-dame-collectors-edition.json](./416852-9-the-dark-side-of-notre-dame-collectors-edition.json) |
 | 9: The Last Resort | 92783 | [92783-9-the-last-resort.json](./92783-9-the-last-resort.json) |
 | 9:05 | 204205 | [204205-9-05.json](./204205-9-05.json) |
+| 9:05 | 79451 | [79451-9-05.json](./79451-9-05.json) |
 | 9:22 | 178657 | [178657-9-22.json](./178657-9-22.json) |
 | 9.03m | 16837 | [16837-9-03m.json](./16837-9-03m.json) |
 | 9.8 | 424708 | [424708-9-8.json](./424708-9-8.json) |
