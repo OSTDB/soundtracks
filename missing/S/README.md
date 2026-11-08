@@ -2993,6 +2993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SchattenJagd | 98954 | [98954-schattenjagd.json](./98954-schattenjagd.json) |
 | Schattenjäger | 380128 | [380128-schattenjager.json](./380128-schattenjager.json) |
 | Schattenspiel | 103873 | [103873-schattenspiel.json](./103873-schattenspiel.json) |
+| Schatzsuche in Alaska | 91570 | [91570-schatzsuche-in-alaska.json](./91570-schatzsuche-in-alaska.json) |
 | Schbibinman Zero: Shockman Zero | 38226 | [38226-schbibinman-zero-shockman-zero.json](./38226-schbibinman-zero-shockman-zero.json) |
 | Schedule I: Dope Empire | 356511 | [356511-schedule-i-dope-empire.json](./356511-schedule-i-dope-empire.json) |
 | Schedule I: Mafia Empire | 350050 | [350050-schedule-i-mafia-empire.json](./350050-schedule-i-mafia-empire.json) |
@@ -5070,6 +5071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sef Saga | 351517 | [351517-sef-saga.json](./351517-sef-saga.json) |
 | Sefir: Mafia Story | 158559 | [158559-sefir-mafia-story.json](./158559-sefir-mafia-story.json) |
 | Sefton Asylum | 396937 | [396937-sefton-asylum.json](./396937-sefton-asylum.json) |
+| Sefure Shindroomu | 91567 | [91567-sefure-shindroomu.json](./91567-sefure-shindroomu.json) |
 | Sega 3D Classics Collection | 19891 | [19891-sega-3d-classics-collection.json](./19891-sega-3d-classics-collection.json) |
 | Sega 3D Fukkoku Archives | 60943 | [60943-sega-3d-fukkoku-archives.json](./60943-sega-3d-fukkoku-archives.json) |
 | Sega 3D Fukkoku Archives 1-2-3 Triple Pack | 74275 | [74275-sega-3d-fukkoku-archives-1-2-3-triple-pack.json](./74275-sega-3d-fukkoku-archives-1-2-3-triple-pack.json) |
@@ -9623,6 +9625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shortest Trip to Earth: The Old Enemies | 154610 | [154610-shortest-trip-to-earth-the-old-enemies.json](./154610-shortest-trip-to-earth-the-old-enemies.json) |
 | Shorticulture | 285614 | [285614-shorticulture.json](./285614-shorticulture.json) |
 | Shortline Railroad | 223008 | [223008-shortline-railroad.json](./223008-shortline-railroad.json) |
+| Shorts | 91483 | [91483-shorts.json](./91483-shorts.json) |
 | ShortStacked | 183958 | [183958-shortstacked.json](./183958-shortstacked.json) |
 | Shortstop by the Sea | 411302 | [411302-shortstop-by-the-sea.json](./411302-shortstop-by-the-sea.json) |
 | Shoshin Test | 316866 | [316866-shoshin-test.json](./316866-shoshin-test.json) |
@@ -10627,6 +10630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sil | 148296 | [148296-sil.json](./148296-sil.json) |
 | Sil and the Fading World | 331103 | [331103-sil-and-the-fading-world.json](./331103-sil-and-the-fading-world.json) |
 | Silah | 176195 | [176195-silah.json](./176195-silah.json) |
+| Silas | 91470 | [91470-silas.json](./91470-silas.json) |
 | Silberheim Evolving Card Game | 393787 | [393787-silberheim-evolving-card-game.json](./393787-silberheim-evolving-card-game.json) |
 | Silen House | 217085 | [217085-silen-house.json](./217085-silen-house.json) |
 | Silence | 115840 | [115840-silence.json](./115840-silence.json) |
@@ -10750,6 +10754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Hunter Online | 3449 | [3449-silent-hunter-online.json](./3449-silent-hunter-online.json) |
 | Silent Hunter Patrol Disk | 85938 | [85938-silent-hunter-patrol-disk.json](./85938-silent-hunter-patrol-disk.json) |
 | Silent Hunter Patrol Disk #2 | 77311 | [77311-silent-hunter-patrol-disk-2.json](./77311-silent-hunter-patrol-disk-2.json) |
+| Silent Hunter Patrol Disk #3 | 91503 | [91503-silent-hunter-patrol-disk-3.json](./91503-silent-hunter-patrol-disk-3.json) |
 | Silent Hunter: Commander's Edition | 208686 | [208686-silent-hunter-commanders-edition.json](./208686-silent-hunter-commanders-edition.json) |
 | Silent Infinity | 202366 | [202366-silent-infinity.json](./202366-silent-infinity.json) |
 | Silent Iron | 94866 | [94866-silent-iron.json](./94866-silent-iron.json) |
@@ -22596,6 +22601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirimonz | 408379 | [408379-spirimonz.json](./408379-spirimonz.json) |
 | Spirinse | 118661 | [118661-spirinse.json](./118661-spirinse.json) |
 | Spirit | 170177 | [170177-spirit.json](./170177-spirit.json) |
+| Spirit | 91497 | [91497-spirit.json](./91497-spirit.json) |
 | Spirit & Steel | 380601 | [380601-spirit-and-steel.json](./380601-spirit-and-steel.json) |
 | Spirit & Stone | 216875 | [216875-spirit-and-stone.json](./216875-spirit-and-stone.json) |
 | Spirit and Katana | 191190 | [191190-spirit-and-katana.json](./191190-spirit-and-katana.json) |
@@ -35289,6 +35295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor | 208345 | [208345-survivor.json](./208345-survivor.json) |
 | Survivor | 208346 | [208346-survivor.json](./208346-survivor.json) |
 | Survivor | 22801 | [22801-survivor.json](./22801-survivor.json) |
+| Survivor | 91467 | [91467-survivor.json](./91467-survivor.json) |
 | Survivor Cells | 199590 | [199590-survivor-cells.json](./199590-survivor-cells.json) |
 | Survivor Cells: Virusbane | 310389 | [310389-survivor-cells-virusbane.json](./310389-survivor-cells-virusbane.json) |
 | Survivor Challenge TD | 276158 | [276158-survivor-challenge-td.json](./276158-survivor-challenge-td.json) |
@@ -37005,6 +37012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Synthalgia: Retro Arcade Racing | 155513 | [155513-synthalgia-retro-arcade-racing.json](./155513-synthalgia-retro-arcade-racing.json) |
 | Synthaly Universe | 402436 | [402436-synthaly-universe.json](./402436-synthaly-universe.json) |
 | Synthbiotic Dungeon | 147286 | [147286-synthbiotic-dungeon.json](./147286-synthbiotic-dungeon.json) |
+| Synthcart | 91495 | [91495-synthcart.json](./91495-synthcart.json) |
 | SynthCave | 238375 | [238375-synthcave.json](./238375-synthcave.json) |
 | Synther | 98484 | [98484-synther.json](./98484-synther.json) |
 | Synther | 99008 | [99008-synther.json](./99008-synther.json) |
