@@ -3078,6 +3078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Web Digger | 359468 | [359468-web-digger.json](./359468-web-digger.json) |
 | Web Dimension | 172034 | [172034-web-dimension.json](./172034-web-dimension.json) |
 | Web Earth Online | 392155 | [392155-web-earth-online.json](./392155-web-earth-online.json) |
+| Web Host Simulator | 137788 | [137788-web-host-simulator.json](./137788-web-host-simulator.json) |
 | Web Koihime Musou | 64169 | [64169-web-koihime-musou.json](./64169-web-koihime-musou.json) |
 | Web Mystery: Yochimu wo Miru Neko | 59815 | [59815-web-mystery-yochimu-wo-miru-neko.json](./59815-web-mystery-yochimu-wo-miru-neko.json) |
 | Web no Naka no Kanojo: Password ni Himerareta Nazo | 237434 | [237434-web-no-naka-no-kanojo-password-ni-himerareta-nazo.json](./237434-web-no-naka-no-kanojo-password-ni-himerareta-nazo.json) |
