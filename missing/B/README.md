@@ -3632,6 +3632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Blocks | 389031 | [389031-battle-blocks.json](./389031-battle-blocks.json) |
 | Battle Bloodlines | 338197 | [338197-battle-bloodlines.json](./338197-battle-bloodlines.json) |
 | Battle Blues | 145616 | [145616-battle-blues.json](./145616-battle-blues.json) |
+| Battle Bolts | 103590 | [103590-battle-bolts.json](./103590-battle-bolts.json) |
 | Battle Boom | 89526 | [89526-battle-boom.json](./89526-battle-boom.json) |
 | Battle Bouncers | 134572 | [134572-battle-bouncers.json](./134572-battle-bouncers.json) |
 | Battle Bows | 253192 | [253192-battle-bows.json](./253192-battle-bows.json) |
