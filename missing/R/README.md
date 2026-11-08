@@ -987,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok: Tactics | 21702 | [21702-ragnarok-tactics.json](./21702-ragnarok-tactics.json) |
 | Ragnarok: The Lost Memories | 175719 | [175719-ragnarok-the-lost-memories.json](./175719-ragnarok-the-lost-memories.json) |
 | Ragnarok: The New World | 364821 | [364821-ragnarok-the-new-world.json](./364821-ragnarok-the-new-world.json) |
+| Ragnarok: Vikings at War | 107352 | [107352-ragnarok-vikings-at-war.json](./107352-ragnarok-vikings-at-war.json) |
 | Ragnarok: War of Gods | 323174 | [323174-ragnarok-war-of-gods.json](./323174-ragnarok-war-of-gods.json) |
 | Ragnarra: Might of Muskets | 163841 | [163841-ragnarra-might-of-muskets.json](./163841-ragnarra-might-of-muskets.json) |
 | RagnaTales MMORPG | 320479 | [320479-ragnatales-mmorpg.json](./320479-ragnatales-mmorpg.json) |
@@ -2605,6 +2606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RC Simulation 2.0 | 34978 | [34978-rc-simulation-2-0.json](./34978-rc-simulation-2-0.json) |
 | RC Spy Drone 2018 | 102548 | [102548-rc-spy-drone-2018.json](./102548-rc-spy-drone-2018.json) |
 | RC Toy Machines | 100173 | [100173-rc-toy-machines.json](./100173-rc-toy-machines.json) |
+| RC Toybox | 107342 | [107342-rc-toybox.json](./107342-rc-toybox.json) |
 | RC-AirSim | 68521 | [68521-rc-airsim.json](./68521-rc-airsim.json) |
 | RC-AirSim - RC Model Airplane Flight Simulator | 31868 | [31868-rc-airsim-rc-model-airplane-flight-simulator.json](./31868-rc-airsim-rc-model-airplane-flight-simulator.json) |
 | RC: Car Maniacs | 311130 | [311130-rc-car-maniacs.json](./311130-rc-car-maniacs.json) |
@@ -8857,6 +8859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robes | 176343 | [176343-robes.json](./176343-robes.json) |
 | Robfather World | 268350 | [268350-robfather-world.json](./268350-robfather-world.json) |
 | Robicon | 373764 | [373764-robicon.json](./373764-robicon.json) |
+| Robikon | 107448 | [107448-robikon.json](./107448-robikon.json) |
 | Robin & Orchid | 60013 | [60013-robin-and-orchid.json](./60013-robin-and-orchid.json) |
 | Robin Hood | 217733 | [217733-robin-hood.json](./217733-robin-hood.json) |
 | Robin Hood | 232903 | [232903-robin-hood.json](./232903-robin-hood.json) |
