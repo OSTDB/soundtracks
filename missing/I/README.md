@@ -2735,6 +2735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Impossamole | 12611 | [12611-impossamole.json](./12611-impossamole.json) |
 | Impossiball | 224889 | [224889-impossiball.json](./224889-impossiball.json) |
 | Impossiball | 26641 | [26641-impossiball.json](./26641-impossiball.json) |
+| Impossiball: Gamers Challenge | 129921 | [129921-impossiball-gamers-challenge.json](./129921-impossiball-gamers-challenge.json) |
 | Impossible | 272198 | [272198-impossible.json](./272198-impossible.json) |
 | Impossible Bottles | 105407 | [105407-impossible-bottles.json](./105407-impossible-bottles.json) |
 | Impossible Bunny Challenge | 272763 | [272763-impossible-bunny-challenge.json](./272763-impossible-bunny-challenge.json) |
