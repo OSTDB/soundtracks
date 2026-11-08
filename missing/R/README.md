@@ -1716,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rambunny | 127009 | [127009-rambunny.json](./127009-rambunny.json) |
 | Ramek: Total Machine Death | 337280 | [337280-ramek-total-machine-death.json](./337280-ramek-total-machine-death.json) |
 | Ramen | 344269 | [344269-ramen.json](./344269-ramen.json) |
+| Ramen | 93684 | [93684-ramen.json](./93684-ramen.json) |
 | Ramen Bowl Chicken Roll | 101442 | [101442-ramen-bowl-chicken-roll.json](./101442-ramen-bowl-chicken-roll.json) |
 | Ramen Chain | 159345 | [159345-ramen-chain.json](./159345-ramen-chain.json) |
 | Ramen Haven | 414728 | [414728-ramen-haven.json](./414728-ramen-haven.json) |
@@ -4053,6 +4054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Nose Guy Gauntlet Inc.: The Burnout | 371328 | [371328-red-nose-guy-gauntlet-inc-the-burnout.json](./371328-red-nose-guy-gauntlet-inc-the-burnout.json) |
 | Red Nose Guy Suika | 280326 | [280326-red-nose-guy-suika.json](./280326-red-nose-guy-suika.json) |
 | Red Nose Guy The LegenDairy Quest | 309388 | [309388-red-nose-guy-the-legendairy-quest.json](./309388-red-nose-guy-the-legendairy-quest.json) |
+| Red November | 93637 | [93637-red-november.json](./93637-red-november.json) |
 | Red November | 94031 | [94031-red-november.json](./94031-red-november.json) |
 | Red Oath: The Forsaken One | 391528 | [391528-red-oath-the-forsaken-one.json](./391528-red-oath-the-forsaken-one.json) |
 | Red Obsidian Remnant | 29070 | [29070-red-obsidian-remnant.json](./29070-red-obsidian-remnant.json) |
