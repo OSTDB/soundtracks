@@ -32142,6 +32142,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario 64 Online | 87817 | [87817-super-mario-64-online.json](./87817-super-mario-64-online.json) |
 | Super Mario 64 Peach's Memory | 135214 | [135214-super-mario-64-peachs-memory.json](./135214-super-mario-64-peachs-memory.json) |
 | Super Mario 64 Plus | 146246 | [146246-super-mario-64-plus.json](./146246-super-mario-64-plus.json) |
+| Super Mario 64 Port | 135388 | [135388-super-mario-64-port.json](./135388-super-mario-64-port.json) |
 | Super Mario 64 Port | 307318 | [307318-super-mario-64-port.json](./307318-super-mario-64-port.json) |
 | Super Mario 64 Port: PSP Port of PC | 307319 | [307319-super-mario-64-port-psp-port-of-pc.json](./307319-super-mario-64-port-psp-port-of-pc.json) |
 | Super Mario 64 Randomizer | 135265 | [135265-super-mario-64-randomizer.json](./135265-super-mario-64-randomizer.json) |
