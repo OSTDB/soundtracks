@@ -3012,6 +3012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 53X Homecoming | 384907 | [384907-53x-homecoming.json](./384907-53x-homecoming.json) |
 | 5525 | 301035 | [301035-5525.json](./301035-5525.json) |
 | 555! | 241328 | [241328-555.json](./241328-555.json) |
+| 57° North | 134159 | [134159-57-north.json](./134159-57-north.json) |
 | 57° North for Merge Cube | 90141 | [90141-57-north-for-merge-cube.json](./90141-57-north-for-merge-cube.json) |
 | 59 Fucks the Machine | 257540 | [257540-59-fucks-the-machine.json](./257540-59-fucks-the-machine.json) |
 | 59049 | 95672 | [95672-59049.json](./95672-59049.json) |
