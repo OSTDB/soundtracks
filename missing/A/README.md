@@ -3586,6 +3586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Allies | 316449 | [316449-adventure-allies.json](./316449-adventure-allies.json) |
 | Adventure Apes and the Mayan Mystery | 33017 | [33017-adventure-apes-and-the-mayan-mystery.json](./33017-adventure-apes-and-the-mayan-mystery.json) |
 | Adventure Apple Robots | 240822 | [240822-adventure-apple-robots.json](./240822-adventure-apple-robots.json) |
+| AdVenture Autist | 109124 | [109124-adventure-autist.json](./109124-adventure-autist.json) |
 | Adventure Awaits | 226100 | [226100-adventure-awaits.json](./226100-adventure-awaits.json) |
 | Adventure Ball 3D Balancer | 249451 | [249451-adventure-ball-3d-balancer.json](./249451-adventure-ball-3d-balancer.json) |
 | Adventure Bar Story | 279048 | [279048-adventure-bar-story.json](./279048-adventure-bar-story.json) |
@@ -7225,6 +7226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aliens Attack | 255453 | [255453-aliens-attack.json](./255453-aliens-attack.json) |
 | Aliens Don't Exist | 113526 | [113526-aliens-dont-exist.json](./113526-aliens-dont-exist.json) |
 | Aliens Doom 3: Aliens vs Predator | 381150 | [381150-aliens-doom-3-aliens-vs-predator.json](./381150-aliens-doom-3-aliens-vs-predator.json) |
+| Aliens Drive Me Crazy | 109104 | [109104-aliens-drive-me-crazy.json](./109104-aliens-drive-me-crazy.json) |
 | Aliens Extermination | 67769 | [67769-aliens-extermination.json](./67769-aliens-extermination.json) |
 | Aliens Go Home ReRun | 398097 | [398097-aliens-go-home-rerun.json](./398097-aliens-go-home-rerun.json) |
 | Aliens Go Home Run! | 26835 | [26835-aliens-go-home-run.json](./26835-aliens-go-home-run.json) |
@@ -13760,6 +13762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arena of Fate | 6877 | [6877-arena-of-fate.json](./6877-arena-of-fate.json) |
 | Arena of Gods | 371940 | [371940-arena-of-gods.json](./371940-arena-of-gods.json) |
 | Arena of Heroes | 63657 | [63657-arena-of-heroes.json](./63657-arena-of-heroes.json) |
+| Arena of Kings | 109094 | [109094-arena-of-kings.json](./109094-arena-of-kings.json) |
 | Arena of Octos | 192112 | [192112-arena-of-octos.json](./192112-arena-of-octos.json) |
 | Arena of Ruins | 159787 | [159787-arena-of-ruins.json](./159787-arena-of-ruins.json) |
 | Arena of Sacrifice | 399426 | [399426-arena-of-sacrifice.json](./399426-arena-of-sacrifice.json) |
@@ -17035,6 +17038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athyra: Rock, Paper, Scissors | 345025 | [345025-athyra-rock-paper-scissors.json](./345025-athyra-rock-paper-scissors.json) |
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
+| Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
 | Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
