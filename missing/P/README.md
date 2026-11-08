@@ -6576,6 +6576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigs and Luig | 398154 | [398154-pigs-and-luig.json](./398154-pigs-and-luig.json) |
 | Pigs Can Fly | 265736 | [265736-pigs-can-fly.json](./265736-pigs-can-fly.json) |
 | Pigs in Space | 40575 | [40575-pigs-in-space.json](./40575-pigs-in-space.json) |
+| Pigs in Trees | 92567 | [92567-pigs-in-trees.json](./92567-pigs-in-trees.json) |
 | Pigs In War - Strategy Game | 100912 | [100912-pigs-in-war-strategy-game.json](./100912-pigs-in-war-strategy-game.json) |
 | Pigs on Head | 203043 | [203043-pigs-on-head.json](./203043-pigs-on-head.json) |
 | Pigsaw | 177269 | [177269-pigsaw.json](./177269-pigsaw.json) |
@@ -10577,6 +10578,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Cowboys: Wild West Standoff | 208152 | [208152-pocket-cowboys-wild-west-standoff.json](./208152-pocket-cowboys-wild-west-standoff.json) |
 | Pocket Creature | 403306 | [403306-pocket-creature.json](./403306-pocket-creature.json) |
 | Pocket Creature PVP | 399480 | [399480-pocket-creature-pvp.json](./399480-pocket-creature-pvp.json) |
+| Pocket Creatures | 92569 | [92569-pocket-creatures.json](./92569-pocket-creatures.json) |
 | Pocket Crystal League | 202258 | [202258-pocket-crystal-league.json](./202258-pocket-crystal-league.json) |
 | Pocket Cuisine | 277504 | [277504-pocket-cuisine.json](./277504-pocket-cuisine.json) |
 | Pocket Densha 2 | 282418 | [282418-pocket-densha-2.json](./282418-pocket-densha-2.json) |
