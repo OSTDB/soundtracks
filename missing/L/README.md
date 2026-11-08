@@ -1446,6 +1446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Moon | 166480 | [166480-last-moon.json](./166480-last-moon.json) |
 | Last Moor | 278287 | [278287-last-moor.json](./278287-last-moor.json) |
 | Last Mortem | 149515 | [149515-last-mortem.json](./149515-last-mortem.json) |
+| Last Neko | 134184 | [134184-last-neko.json](./134184-last-neko.json) |
 | Last Night in Church | 419133 | [419133-last-night-in-church.json](./419133-last-night-in-church.json) |
 | Last Night in Zombie Village | 231182 | [231182-last-night-in-zombie-village.json](./231182-last-night-in-zombie-village.json) |
 | Last Night of Winter | 154024 | [154024-last-night-of-winter.json](./154024-last-night-of-winter.json) |
@@ -2779,6 +2780,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Warships | 119436 | [119436-legend-of-warships.json](./119436-legend-of-warships.json) |
 | Legend of Wukong | 360656 | [360656-legend-of-wukong.json](./360656-legend-of-wukong.json) |
 | Legend of Wulin Heroes | 328358 | [328358-legend-of-wulin-heroes.json](./328358-legend-of-wulin-heroes.json) |
+| Legend of Xenia | 134186 | [134186-legend-of-xenia.json](./134186-legend-of-xenia.json) |
+| Legend of Xenia 2 | 134185 | [134185-legend-of-xenia-2.json](./134185-legend-of-xenia-2.json) |
 | Legend of Xenia 3D | 177338 | [177338-legend-of-xenia-3d.json](./177338-legend-of-xenia-3d.json) |
 | Legend of Yashiyu | 173772 | [173772-legend-of-yashiyu.json](./173772-legend-of-yashiyu.json) |
 | Legend of Yashiyu 2 | 172773 | [172773-legend-of-yashiyu-2.json](./172773-legend-of-yashiyu-2.json) |
@@ -9074,6 +9077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love, I'm Not Good For You | 398915 | [398915-love-im-not-good-for-you.json](./398915-love-im-not-good-for-you.json) |
 | Love, in Debt!? | 279548 | [279548-love-in-debt.json](./279548-love-in-debt.json) |
 | Love, Internet, and Murder Magic | 328013 | [328013-love-internet-and-murder-magic.json](./328013-love-internet-and-murder-magic.json) |
+| Love, Kyoko | 134187 | [134187-love-kyoko.json](./134187-love-kyoko.json) |
 | Love, Lies & a Heist: Ikemen Royale | 229028 | [229028-love-lies-and-a-heist-ikemen-royale.json](./229028-love-lies-and-a-heist-ikemen-royale.json) |
 | Love, Money, Rock'n'Roll | 28933 | [28933-love-money-rocknroll.json](./28933-love-money-rocknroll.json) |
 | Love, Money, Rock'n'Roll: Summer '94 | 329337 | [329337-love-money-rocknroll-summer-94.json](./329337-love-money-rocknroll-summer-94.json) |
@@ -10063,6 +10067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunaris | 353947 | [353947-lunaris.json](./353947-lunaris.json) |
 | Lunarium | 301234 | [301234-lunarium.json](./301234-lunarium.json) |
 | Lunark | 119622 | [119622-lunark.json](./119622-lunark.json) |
+| LunarLux | 134188 | [134188-lunarlux.json](./134188-lunarlux.json) |
 | Lunarrota | 198483 | [198483-lunarrota.json](./198483-lunarrota.json) |
 | Lunars | 217321 | [217321-lunars.json](./217321-lunars.json) |
 | Lunarwardens | 244056 | [244056-lunarwardens.json](./244056-lunarwardens.json) |
