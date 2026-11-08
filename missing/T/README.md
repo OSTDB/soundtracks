@@ -1014,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TAL: Arctic 2 | 106625 | [106625-tal-arctic-2.json](./106625-tal-arctic-2.json) |
 | TAL: Arctic 3 | 107516 | [107516-tal-arctic-3.json](./107516-tal-arctic-3.json) |
 | Tal: Arctic 5 | 234517 | [234517-tal-arctic-5.json](./234517-tal-arctic-5.json) |
+| TAL: Jungle | 111921 | [111921-tal-jungle.json](./111921-tal-jungle.json) |
 | TAL: Wizard's Adventures | 126956 | [126956-tal-wizards-adventures.json](./126956-tal-wizards-adventures.json) |
 | Talaire | 423953 | [423953-talaire.json](./423953-talaire.json) |
 | Talaka | 366585 | [366585-talaka.json](./366585-talaka.json) |
@@ -4743,6 +4744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terror Diversion | 318013 | [318013-terror-diversion.json](./318013-terror-diversion.json) |
 | Terror for Two | 110167 | [110167-terror-for-two.json](./110167-terror-for-two.json) |
 | Terror House | 62798 | [62798-terror-house.json](./62798-terror-house.json) |
+| Terror In The Atomic Desert | 111806 | [111806-terror-in-the-atomic-desert.json](./111806-terror-in-the-atomic-desert.json) |
 | Terror In The Corn | 319649 | [319649-terror-in-the-corn.json](./319649-terror-in-the-corn.json) |
 | Terror in the Kitchen | 257897 | [257897-terror-in-the-kitchen.json](./257897-terror-in-the-kitchen.json) |
 | Terror Lab | 33391 | [33391-terror-lab.json](./33391-terror-lab.json) |
@@ -7396,6 +7398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chiral Night: Rhythm Carnival | 230197 | [230197-the-chiral-night-rhythm-carnival.json](./230197-the-chiral-night-rhythm-carnival.json) |
 | The Choco Of Dunkers 2003 | 97488 | [97488-the-choco-of-dunkers-2003.json](./97488-the-choco-of-dunkers-2003.json) |
 | The Choice of Life: Middle Ages 2 | 150348 | [150348-the-choice-of-life-middle-ages-2.json](./150348-the-choice-of-life-middle-ages-2.json) |
+| The Choice of Sand | 111926 | [111926-the-choice-of-sand.json](./111926-the-choice-of-sand.json) |
 | The Choice VR | 193041 | [193041-the-choice-vr.json](./193041-the-choice-vr.json) |
 | The Choicer Voicer | 307223 | [307223-the-choicer-voicer.json](./307223-the-choicer-voicer.json) |
 | The Choices Of Priori | 412546 | [412546-the-choices-of-priori.json](./412546-the-choices-of-priori.json) |
@@ -9739,6 +9742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The first titans | 161398 | [161398-the-first-titans.json](./161398-the-first-titans.json) |
 | The First Track | 114056 | [114056-the-first-track.json](./114056-the-first-track.json) |
 | The First Tree | 20909 | [20909-the-first-tree.json](./20909-the-first-tree.json) |
+| The First Tree: Console Edition | 111827 | [111827-the-first-tree-console-edition.json](./111827-the-first-tree-console-edition.json) |
 | The First Valentine | 332165 | [332165-the-first-valentine.json](./332165-the-first-valentine.json) |
 | The Fish | 213777 | [213777-the-fish.json](./213777-the-fish.json) |
 | The Fish and the Furious | 132826 | [132826-the-fish-and-the-furious.json](./132826-the-fish-and-the-furious.json) |
@@ -28208,6 +28212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Track & Field: Throwing Type | 218293 | [218293-track-and-field-throwing-type.json](./218293-track-and-field-throwing-type.json) |
 | Track Attack: Changes Everything | 251202 | [251202-track-attack-changes-everything.json](./251202-track-attack-changes-everything.json) |
 | Track Craft | 318717 | [318717-track-craft.json](./318717-track-craft.json) |
+| Track Lab VR | 111831 | [111831-track-lab-vr.json](./111831-track-lab-vr.json) |
 | Track Masters Pro | 338953 | [338953-track-masters-pro.json](./338953-track-masters-pro.json) |
 | Track Mayhem | 187104 | [187104-track-mayhem.json](./187104-track-mayhem.json) |
 | Track Meet | 49059 | [49059-track-meet.json](./49059-track-meet.json) |
@@ -31668,6 +31673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trigger Happy | 174806 | [174806-trigger-happy.json](./174806-trigger-happy.json) |
 | Trigger Heart Exelica Enhanced | 43476 | [43476-trigger-heart-exelica-enhanced.json](./43476-trigger-heart-exelica-enhanced.json) |
 | Trigger Henry | 212075 | [212075-trigger-henry.json](./212075-trigger-henry.json) |
+| Trigger Heroes | 111821 | [111821-trigger-heroes.json](./111821-trigger-heroes.json) |
 | Trigger Knight | 314452 | [314452-trigger-knight.json](./314452-trigger-knight.json) |
 | Trigger Land | 366111 | [366111-trigger-land.json](./366111-trigger-land.json) |
 | Trigger of Silence | 379837 | [379837-trigger-of-silence.json](./379837-trigger-of-silence.json) |
