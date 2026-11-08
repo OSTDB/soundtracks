@@ -17357,6 +17357,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PUBG Lite | 124036 | [124036-pubg-lite.json](./124036-pubg-lite.json) |
 | PUBG Mobile | 95340 | [95340-pubg-mobile.json](./95340-pubg-mobile.json) |
 | PUBG Mobile Lite | 124773 | [124773-pubg-mobile-lite.json](./124773-pubg-mobile-lite.json) |
+| PUBG Mobile: Season 10 | 129910 | [129910-pubg-mobile-season-10.json](./129910-pubg-mobile-season-10.json) |
+| PUBG Mobile: Season 11 | 129911 | [129911-pubg-mobile-season-11.json](./129911-pubg-mobile-season-11.json) |
 | PUBG Mobile: Season 12 | 135152 | [135152-pubg-mobile-season-12.json](./135152-pubg-mobile-season-12.json) |
 | PUBG Mobile: Season 13 | 135154 | [135154-pubg-mobile-season-13.json](./135154-pubg-mobile-season-13.json) |
 | PUBG Mobile: Season 14 | 136975 | [136975-pubg-mobile-season-14.json](./136975-pubg-mobile-season-14.json) |
@@ -17366,6 +17368,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PUBG Mobile: Season 18 | 158951 | [158951-pubg-mobile-season-18.json](./158951-pubg-mobile-season-18.json) |
 | PUBG Mobile: Season 19 | 158952 | [158952-pubg-mobile-season-19.json](./158952-pubg-mobile-season-19.json) |
 | PUBG Mobile: Season 20 | 158953 | [158953-pubg-mobile-season-20.json](./158953-pubg-mobile-season-20.json) |
+| PUBG Mobile: Season 4 | 129904 | [129904-pubg-mobile-season-4.json](./129904-pubg-mobile-season-4.json) |
+| PUBG Mobile: Season 5 | 129905 | [129905-pubg-mobile-season-5.json](./129905-pubg-mobile-season-5.json) |
+| PUBG Mobile: Season 6 | 129906 | [129906-pubg-mobile-season-6.json](./129906-pubg-mobile-season-6.json) |
+| PUBG Mobile: Season 7 | 129907 | [129907-pubg-mobile-season-7.json](./129907-pubg-mobile-season-7.json) |
+| PUBG Mobile: Season 8 | 129908 | [129908-pubg-mobile-season-8.json](./129908-pubg-mobile-season-8.json) |
+| PUBG Mobile: Season 9 | 129909 | [129909-pubg-mobile-season-9.json](./129909-pubg-mobile-season-9.json) |
 | PUBG: Battlegrounds - Season 13 | 183120 | [183120-pubg-battlegrounds-season-13.json](./183120-pubg-battlegrounds-season-13.json) |
 | PUBG: Battlegrounds - Season 14 | 183123 | [183123-pubg-battlegrounds-season-14.json](./183123-pubg-battlegrounds-season-14.json) |
 | PUBG: Battlegrounds - Season 15 | 183124 | [183124-pubg-battlegrounds-season-15.json](./183124-pubg-battlegrounds-season-15.json) |
