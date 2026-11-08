@@ -3460,6 +3460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Favela Zombie Shooter | 270011 | [270011-favela-zombie-shooter.json](./270011-favela-zombie-shooter.json) |
 | Favij: The Game | 383590 | [383590-favij-the-game.json](./383590-favij-the-game.json) |
 | Favillesco Episode 1: Genuflected on Io | 313853 | [313853-favillesco-episode-1-genuflected-on-io.json](./313853-favillesco-episode-1-genuflected-on-io.json) |
+| Favo! | 126124 | [126124-favo.json](./126124-favo.json) |
 | Favo!+ | 126527 | [126527-favo.json](./126527-favo.json) |
 | Favor | 301373 | [301373-favor.json](./301373-favor.json) |
 | Favor Chess | 117610 | [117610-favor-chess.json](./117610-favor-chess.json) |
@@ -6093,6 +6094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Rock | 41302 | [41302-fire-rock.json](./41302-fire-rock.json) |
 | Fire Safety Lab VR | 150295 | [150295-fire-safety-lab-vr.json](./150295-fire-safety-lab-vr.json) |
 | Fire Sale | 165694 | [165694-fire-sale.json](./165694-fire-sale.json) |
+| Fire Season | 126139 | [126139-fire-season.json](./126139-fire-season.json) |
 | Fire Shark | 261849 | [261849-fire-shark.json](./261849-fire-shark.json) |
 | Fire Shark | 39647 | [39647-fire-shark.json](./39647-fire-shark.json) |
 | Fire Showdown | 303049 | [303049-fire-showdown.json](./303049-fire-showdown.json) |
@@ -7790,6 +7792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flesh-Handed Hot Casserole Delivery Bot | 422171 | [422171-flesh-handed-hot-casserole-delivery-bot.json](./422171-flesh-handed-hot-casserole-delivery-bot.json) |
 | Flesh, Blood, & Concrete | 172807 | [172807-flesh-blood-and-concrete.json](./172807-flesh-blood-and-concrete.json) |
 | Flesharmonic | 271178 | [271178-flesharmonic.json](./271178-flesharmonic.json) |
+| Fleshbirds | 126114 | [126114-fleshbirds.json](./126114-fleshbirds.json) |
 | Fleshborn | 393299 | [393299-fleshborn.json](./393299-fleshborn.json) |
 | FleshBound | 327453 | [327453-fleshbound.json](./327453-fleshbound.json) |
 | FleshBound | 397043 | [397043-fleshbound.json](./397043-fleshbound.json) |
