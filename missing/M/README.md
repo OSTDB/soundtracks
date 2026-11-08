@@ -1413,6 +1413,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic: Puzzle Quest | 111748 | [111748-magic-puzzle-quest.json](./111748-magic-puzzle-quest.json) |
 | Magic: The Boys Who Love Me | 299339 | [299339-magic-the-boys-who-love-me.json](./299339-magic-the-boys-who-love-me.json) |
 | Magic: The Gathering | 12443 | [12443-magic-the-gathering.json](./12443-magic-the-gathering.json) |
+| Magic: The Gathering | 136558 | [136558-magic-the-gathering.json](./136558-magic-the-gathering.json) |
+| Magic: The Gathering - Armageddon | 136557 | [136557-magic-the-gathering-armageddon.json](./136557-magic-the-gathering-armageddon.json) |
 | Magic: The Gathering - Battlegrounds | 5907 | [5907-magic-the-gathering-battlegrounds.json](./5907-magic-the-gathering-battlegrounds.json) |
 | Magic: The Gathering - Duels of the Planeswalkers | 81444 | [81444-magic-the-gathering-duels-of-the-planeswalkers.json](./81444-magic-the-gathering-duels-of-the-planeswalkers.json) |
 | Magic: The Gathering - Duels of the Planeswalkers 2012: Deck Pack 1 | 362462 | [362462-magic-the-gathering-duels-of-the-planeswalkers-2012-deck-pack-1.json](./362462-magic-the-gathering-duels-of-the-planeswalkers-2012-deck-pack-1.json) |
@@ -6010,6 +6012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -8594,6 +8597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melee Light | 334226 | [334226-melee-light.json](./334226-melee-light.json) |
 | Melee Spaceship | 326297 | [326297-melee-spaceship.json](./326297-melee-spaceship.json) |
 | Melee Unlocked | 417799 | [417799-melee-unlocked.json](./417799-melee-unlocked.json) |
+| Melee: SD Remix | 136569 | [136569-melee-sd-remix.json](./136569-melee-sd-remix.json) |
 | Melfand Stories | 42526 | [42526-melfand-stories.json](./42526-melfand-stories.json) |
 | Meli | 381846 | [381846-meli.json](./381846-meli.json) |
 | Méli-Mélo: L'Odyssée de la Crème de Marrons | 357357 | [357357-meli-melo-lodyssee-de-la-creme-de-marrons.json](./357357-meli-melo-lodyssee-de-la-creme-de-marrons.json) |
@@ -9912,6 +9916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Max Xeno Reborn | 117015 | [117015-metal-max-xeno-reborn.json](./117015-metal-max-xeno-reborn.json) |
 | Metal Max Xeno Reborn: Digital Deluxe Edition | 204291 | [204291-metal-max-xeno-reborn-digital-deluxe-edition.json](./204291-metal-max-xeno-reborn-digital-deluxe-edition.json) |
 | Metal Max Xeno: Limited Edition | 201054 | [201054-metal-max-xeno-limited-edition.json](./201054-metal-max-xeno-limited-edition.json) |
+| Metal Max Xeno: Reborn - Limited Edition | 136606 | [136606-metal-max-xeno-reborn-limited-edition.json](./136606-metal-max-xeno-reborn-limited-edition.json) |
 | Metal Max: Fireworks | 75850 | [75850-metal-max-fireworks.json](./75850-metal-max-fireworks.json) |
 | Metal Max: Wild West | 123900 | [123900-metal-max-wild-west.json](./123900-metal-max-wild-west.json) |
 | Metal Mech: Man & Machine | 48082 | [48082-metal-mech-man-and-machine.json](./48082-metal-mech-man-and-machine.json) |
@@ -11961,6 +11966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Milky Way Jigsaw Puzzles | 265319 | [265319-milky-way-jigsaw-puzzles.json](./265319-milky-way-jigsaw-puzzles.json) |
 | Milky Way Jigsaw Puzzles: Expansion Pack 1 | 265246 | [265246-milky-way-jigsaw-puzzles-expansion-pack-1.json](./265246-milky-way-jigsaw-puzzles-expansion-pack-1.json) |
 | Milky Way Jigsaw Puzzles: Expansion Pack 2 | 265247 | [265247-milky-way-jigsaw-puzzles-expansion-pack-2.json](./265247-milky-way-jigsaw-puzzles-expansion-pack-2.json) |
+| Milky Way Prince: The Vampire Star | 136577 | [136577-milky-way-prince-the-vampire-star.json](./136577-milky-way-prince-the-vampire-star.json) |
 | Milky Way TD Survivors Autobattler RTS: Earth | 291429 | [291429-milky-way-td-survivors-autobattler-rts-earth.json](./291429-milky-way-td-survivors-autobattler-rts-earth.json) |
 | Milky Way Wishes | 271264 | [271264-milky-way-wishes.json](./271264-milky-way-wishes.json) |
 | Milky Way Wishes | 271407 | [271407-milky-way-wishes.json](./271407-milky-way-wishes.json) |
@@ -19607,6 +19613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Diaries 2 | 166830 | [166830-murder-diaries-2.json](./166830-murder-diaries-2.json) |
 | Murder Diaries 3: Santa's Trail of Blood | 186949 | [186949-murder-diaries-3-santas-trail-of-blood.json](./186949-murder-diaries-3-santas-trail-of-blood.json) |
 | Murder Diaries: Ankara | 88185 | [88185-murder-diaries-ankara.json](./88185-murder-diaries-ankara.json) |
+| Murder Dog IV | 136575 | [136575-murder-dog-iv.json](./136575-murder-dog-iv.json) |
 | Murder Generation: Cream City Chaos | 255276 | [255276-murder-generation-cream-city-chaos.json](./255276-murder-generation-cream-city-chaos.json) |
 | Murder Gods Play Pachinko | 325293 | [325293-murder-gods-play-pachinko.json](./325293-murder-gods-play-pachinko.json) |
 | Murder Hornets | 164967 | [164967-murder-hornets.json](./164967-murder-hornets.json) |
