@@ -1574,6 +1574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idle Inventor: Factory Tycoon | 167288 | [167288-idle-inventor-factory-tycoon.json](./167288-idle-inventor-factory-tycoon.json) |
 | Idle Iron Knight | 196355 | [196355-idle-iron-knight.json](./196355-idle-iron-knight.json) |
 | Idle Keep | 405434 | [405434-idle-keep.json](./405434-idle-keep.json) |
+| Idle Kingdom Builder | 97401 | [97401-idle-kingdom-builder.json](./97401-idle-kingdom-builder.json) |
 | Idle Kitchen Tycoon | 237642 | [237642-idle-kitchen-tycoon.json](./237642-idle-kitchen-tycoon.json) |
 | Idle Kitties Online | 314316 | [314316-idle-kitties-online.json](./314316-idle-kitties-online.json) |
 | Idle Knife | 104353 | [104353-idle-knife.json](./104353-idle-knife.json) |
@@ -2627,6 +2628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imola Grand Prix | 387457 | [387457-imola-grand-prix.json](./387457-imola-grand-prix.json) |
 | Imomushi | 270856 | [270856-imomushi.json](./270856-imomushi.json) |
 | Imoto | 174051 | [174051-imoto.json](./174051-imoto.json) |
+| Imouto Daisakusen: Project i-mote | 97398 | [97398-imouto-daisakusen-project-i-mote.json](./97398-imouto-daisakusen-project-i-mote.json) |
 | Imouto Ikenie | 108125 | [108125-imouto-ikenie.json](./108125-imouto-ikenie.json) |
 | Imouto no Seiiki | 59880 | [59880-imouto-no-seiiki.json](./59880-imouto-no-seiiki.json) |
 | Imouto Paradise! 2 | 407358 | [407358-imouto-paradise-2.json](./407358-imouto-paradise-2.json) |
@@ -3984,7 +3986,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4810,6 +4811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inspector Waffles: Early Days | 273621 | [273621-inspector-waffles-early-days.json](./273621-inspector-waffles-early-days.json) |
 | Inspector Waffles: Purrluxe Edition | 154522 | [154522-inspector-waffles-purrluxe-edition.json](./154522-inspector-waffles-purrluxe-edition.json) |
 | Inspektor | 366726 | [366726-inspektor.json](./366726-inspektor.json) |
+| Inspektor Griffu | 97410 | [97410-inspektor-griffu.json](./97410-inspektor-griffu.json) |
 | Inspektor Zebok: Das Erbe | 116139 | [116139-inspektor-zebok-das-erbe.json](./116139-inspektor-zebok-das-erbe.json) |
 | InSpheration | 53234 | [53234-inspheration.json](./53234-inspheration.json) |
 | Inspiral: Echoes of Gravity | 372462 | [372462-inspiral-echoes-of-gravity.json](./372462-inspiral-echoes-of-gravity.json) |
