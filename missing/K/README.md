@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaleidoscope | 118688 | [118688-kaleidoscope.json](./118688-kaleidoscope.json) |
 | Kaleidoscope | 202577 | [202577-kaleidoscope.json](./202577-kaleidoscope.json) |
 | Kaleidoscope | 406303 | [406303-kaleidoscope.json](./406303-kaleidoscope.json) |
+| Kaleidoscope | 78827 | [78827-kaleidoscope.json](./78827-kaleidoscope.json) |
 | Kaleidoscope Chateau | 238722 | [238722-kaleidoscope-chateau.json](./238722-kaleidoscope-chateau.json) |
 | Kaleidoscope of Phantasm Prison | 121533 | [121533-kaleidoscope-of-phantasm-prison.json](./121533-kaleidoscope-of-phantasm-prison.json) |
 | Kaleidoscope of Phantasm Prison 2 | 320772 | [320772-kaleidoscope-of-phantasm-prison-2.json](./320772-kaleidoscope-of-phantasm-prison-2.json) |
@@ -2887,6 +2888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5853,6 +5855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kraa | 395141 | [395141-kraa.json](./395141-kraa.json) |
 | Kraal | 142366 | [142366-kraal.json](./142366-kraal.json) |
 | Krabat: The Secret of the Sorbian King | 186722 | [186722-krabat-the-secret-of-the-sorbian-king.json](./186722-krabat-the-secret-of-the-sorbian-king.json) |
+| KrabbitWorld Labyrinth | 78826 | [78826-krabbitworld-labyrinth.json](./78826-krabbitworld-labyrinth.json) |
 | KrabbitWorld Origins | 67297 | [67297-krabbitworld-origins.json](./67297-krabbitworld-origins.json) |
 | Krabby Kats | 97205 | [97205-krabby-kats.json](./97205-krabby-kats.json) |
 | Krack The Hack | 268341 | [268341-krack-the-hack.json](./268341-krack-the-hack.json) |
