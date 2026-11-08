@@ -18020,6 +18020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic R Mini | 330461 | [330461-sonic-r-mini.json](./330461-sonic-r-mini.json) |
 | Sonic R/Sonic 3D | 210307 | [210307-sonic-r-sonic-3d.json](./210307-sonic-r-sonic-3d.json) |
 | Sonic Racers | 333936 | [333936-sonic-racers.json](./333936-sonic-racers.json) |
+| Sonic Racing | 122561 | [122561-sonic-racing.json](./122561-sonic-racing.json) |
 | Sonic Racing CrossWorlds: Season Pass | 370461 | [370461-sonic-racing-crossworlds-season-pass.json](./370461-sonic-racing-crossworlds-season-pass.json) |
 | Sonic Racing CrossWorlds: Season Pass 2 | 422509 | [422509-sonic-racing-crossworlds-season-pass-2.json](./422509-sonic-racing-crossworlds-season-pass-2.json) |
 | Sonic Racing Kart | 210306 | [210306-sonic-racing-kart.json](./210306-sonic-racing-kart.json) |
