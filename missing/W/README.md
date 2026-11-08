@@ -1136,6 +1136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Zone Soldier: Battle Royale Shooter | 273303 | [273303-war-zone-soldier-battle-royale-shooter.json](./273303-war-zone-soldier-battle-royale-shooter.json) |
 | War-Gene | 156776 | [156776-war-gene.json](./156776-war-gene.json) |
 | War-Torn | 344913 | [344913-war-torn.json](./344913-war-torn.json) |
+| War-Torn Dreams | 132983 | [132983-war-torn-dreams.json](./132983-war-torn-dreams.json) |
 | War, the Game | 17838 | [17838-war-the-game.json](./17838-war-the-game.json) |
 | War: 13th Day | 75221 | [75221-war-13th-day.json](./75221-war-13th-day.json) |
 | War: Final Assault | 80794 | [80794-war-final-assault.json](./80794-war-final-assault.json) |
