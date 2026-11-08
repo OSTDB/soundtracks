@@ -776,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution Extreme 2 | 43577 | [43577-dance-dance-revolution-extreme-2.json](./43577-dance-dance-revolution-extreme-2.json) |
 | Dance Dance Revolution GB | 72734 | [72734-dance-dance-revolution-gb.json](./72734-dance-dance-revolution-gb.json) |
 | Dance Dance Revolution GB 2 | 72735 | [72735-dance-dance-revolution-gb-2.json](./72735-dance-dance-revolution-gb-2.json) |
+| Dance Dance Revolution GB 3 | 79476 | [79476-dance-dance-revolution-gb-3.json](./79476-dance-dance-revolution-gb-3.json) |
 | Dance Dance Revolution Grand Prix | 180262 | [180262-dance-dance-revolution-grand-prix.json](./180262-dance-dance-revolution-grand-prix.json) |
 | Dance Dance Revolution Hottest Party | 6658 | [6658-dance-dance-revolution-hottest-party.json](./6658-dance-dance-revolution-hottest-party.json) |
 | Dance Dance Revolution Hottest Party 3 | 21782 | [21782-dance-dance-revolution-hottest-party-3.json](./21782-dance-dance-revolution-hottest-party-3.json) |
@@ -7011,6 +7012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densha de Go! Pocket: Toukaidousen-hen | 146560 | [146560-densha-de-go-pocket-toukaidousen-hen.json](./146560-densha-de-go-pocket-toukaidousen-hen.json) |
 | Densha de GO! Professional | 78575 | [78575-densha-de-go-professional.json](./78575-densha-de-go-professional.json) |
 | Densha de GO! Professional 2 | 63703 | [63703-densha-de-go-professional-2.json](./63703-densha-de-go-professional-2.json) |
+| Densha de GO! Ryojou-hen | 79442 | [79442-densha-de-go-ryojou-hen.json](./79442-densha-de-go-ryojou-hen.json) |
 | Densha de Go! Shinkansen EX: Sanyou Shinkansen-hen | 146542 | [146542-densha-de-go-shinkansen-ex-sanyou-shinkansen-hen.json](./146542-densha-de-go-shinkansen-ex-sanyou-shinkansen-hen.json) |
 | Densha de GO! Shinkansen: Sanyou Shinkansen-hen | 63708 | [63708-densha-de-go-shinkansen-sanyou-shinkansen-hen.json](./63708-densha-de-go-shinkansen-sanyou-shinkansen-hen.json) |
 | Densha de GO! Tokubetsu-hen: Fukkatsu Shouwa no Yamanotesen | 66660 | [66660-densha-de-go-tokubetsu-hen-fukkatsu-shouwa-no-yamanotesen.json](./66660-densha-de-go-tokubetsu-hen-fukkatsu-shouwa-no-yamanotesen.json) |
@@ -7637,6 +7639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desolation Tycoon | 169361 | [169361-desolation-tycoon.json](./169361-desolation-tycoon.json) |
 | Desolatium | 150643 | [150643-desolatium.json](./150643-desolatium.json) |
 | Desolatium: Prologue | 200115 | [200115-desolatium-prologue.json](./200115-desolatium-prologue.json) |
+| Desolator | 79458 | [79458-desolator.json](./79458-desolator.json) |
 | Désolé | 133693 | [133693-desole.json](./133693-desole.json) |
 | DeSoloFender | 298205 | [298205-desolofender.json](./298205-desolofender.json) |
 | Desolus | 58718 | [58718-desolus.json](./58718-desolus.json) |
@@ -13868,6 +13871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doradora Panic | 151679 | [151679-doradora-panic.json](./151679-doradora-panic.json) |
 | Doraemon | 281167 | [281167-doraemon.json](./281167-doraemon.json) |
 | Doraemon | 79111 | [79111-doraemon.json](./79111-doraemon.json) |
+| Doraemon 2: Animal Wakusei Densetsu | 79457 | [79457-doraemon-2-animal-wakusei-densetsu.json](./79457-doraemon-2-animal-wakusei-densetsu.json) |
 | Doraemon 2: Nobita no Toys Land Daibouken | 38128 | [38128-doraemon-2-nobita-no-toys-land-daibouken.json](./38128-doraemon-2-nobita-no-toys-land-daibouken.json) |
 | Doraemon 2: Nobita to Hikari no Shinden | 3473 | [3473-doraemon-2-nobita-to-hikari-no-shinden.json](./3473-doraemon-2-nobita-to-hikari-no-shinden.json) |
 | Doraemon 2: SOS! Otogi no Kuni | 78579 | [78579-doraemon-2-sos-otogi-no-kuni.json](./78579-doraemon-2-sos-otogi-no-kuni.json) |
