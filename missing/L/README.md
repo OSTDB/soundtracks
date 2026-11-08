@@ -6634,6 +6634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Metal | 295406 | [295406-living-metal.json](./295406-living-metal.json) |
 | Living Nightmares: False Familiar | 344531 | [344531-living-nightmares-false-familiar.json](./344531-living-nightmares-false-familiar.json) |
 | Living on Plain Pasta | 409386 | [409386-living-on-plain-pasta.json](./409386-living-on-plain-pasta.json) |
+| Living Playground | 125548 | [125548-living-playground.json](./125548-living-playground.json) |
 | Living Puzzles: Triazzle | 72023 | [72023-living-puzzles-triazzle.json](./72023-living-puzzles-triazzle.json) |
 | Living Room | 315586 | [315586-living-room.json](./315586-living-room.json) |
 | Living Room: Wild Style | 354377 | [354377-living-room-wild-style.json](./354377-living-room-wild-style.json) |
