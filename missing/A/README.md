@@ -4256,6 +4256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AetherCycle | 399767 | [399767-aethercycle.json](./399767-aethercycle.json) |
 | Aetherdale | 316455 | [316455-aetherdale.json](./316455-aetherdale.json) |
 | Aetherdrift | 384194 | [384194-aetherdrift.json](./384194-aetherdrift.json) |
+| Aethereus | 93639 | [93639-aethereus.json](./93639-aethereus.json) |
 | Aetherfall | 348587 | [348587-aetherfall.json](./348587-aetherfall.json) |
 | Aetherglen | 347806 | [347806-aetherglen.json](./347806-aetherglen.json) |
 | Aetheria Online | 114597 | [114597-aetheria-online.json](./114597-aetheria-online.json) |
@@ -4289,6 +4290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aexia | 258924 | [258924-aexia.json](./258924-aexia.json) |
 | Aexxos | 373488 | [373488-aexxos.json](./373488-aexxos.json) |
 | Afallon | 283879 | [283879-afallon.json](./283879-afallon.json) |
+| Afandas Survival | 93672 | [93672-afandas-survival.json](./93672-afandas-survival.json) |
 | AFAR: An Interactive Horror Film | 381551 | [381551-afar-an-interactive-horror-film.json](./381551-afar-an-interactive-horror-film.json) |
 | Afarid | 110746 | [110746-afarid.json](./110746-afarid.json) |
 | Afei's Trouble | 357790 | [357790-afeis-trouble.json](./357790-afeis-trouble.json) |
@@ -4357,6 +4359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Afraid of Monsters | 131925 | [131925-afraid-of-monsters.json](./131925-afraid-of-monsters.json) |
 | Afraid of Monsters: Director's Cut | 131928 | [131928-afraid-of-monsters-directors-cut.json](./131928-afraid-of-monsters-directors-cut.json) |
 | Afraid of the Night | 148489 | [148489-afraid-of-the-night.json](./148489-afraid-of-the-night.json) |
+| Afraid Project | 93664 | [93664-afraid-project.json](./93664-afraid-project.json) |
 | Africa Corps Desert Storm 1941-1943 | 52362 | [52362-africa-corps-desert-storm-1941-1943.json](./52362-africa-corps-desert-storm-1941-1943.json) |
 | Africa Empire 2027 | 219680 | [219680-africa-empire-2027.json](./219680-africa-empire-2027.json) |
 | Africa Help | 133354 | [133354-africa-help.json](./133354-africa-help.json) |
@@ -8986,6 +8989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amiganoid | 76238 | [76238-amiganoid.json](./76238-amiganoid.json) |
 | Amigdala | 19043 | [19043-amigdala.json](./19043-amigdala.json) |
 | Amigo | 92505 | [92505-amigo.json](./92505-amigo.json) |
+| Amigo Fishing | 93681 | [93681-amigo-fishing.json](./93681-amigo-fishing.json) |
 | Amigo pancho | 19498 | [19498-amigo-pancho.json](./19498-amigo-pancho.json) |
 | Amigo Pancho 2 | 331149 | [331149-amigo-pancho-2.json](./331149-amigo-pancho-2.json) |
 | Amigo VR | 28675 | [28675-amigo-vr.json](./28675-amigo-vr.json) |
@@ -13380,6 +13384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcatron-Z | 252596 | [252596-arcatron-z.json](./252596-arcatron-z.json) |
 | Arcaxer | 145565 | [145565-arcaxer.json](./145565-arcaxer.json) |
 | Arcazoid | 248339 | [248339-arcazoid.json](./248339-arcazoid.json) |
+| ArcBall | 93680 | [93680-arcball.json](./93680-arcball.json) |
 | ArcBall 2 | 99424 | [99424-arcball-2.json](./99424-arcball-2.json) |
 | ArcBall 3: Infinity | 103776 | [103776-arcball-3-infinity.json](./103776-arcball-3-infinity.json) |
 | Arceon | 256836 | [256836-arceon.json](./256836-arceon.json) |
