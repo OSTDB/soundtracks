@@ -14827,6 +14827,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artificial Life | 175221 | [175221-artificial-life.json](./175221-artificial-life.json) |
 | Artificial Life Simulator | 287719 | [287719-artificial-life-simulator.json](./287719-artificial-life-simulator.json) |
 | Artificial Nexus | 319849 | [319849-artificial-nexus.json](./319849-artificial-nexus.json) |
+| Artificial Selection | 136020 | [136020-artificial-selection.json](./136020-artificial-selection.json) |
 | Artificial Superintelligence | 174353 | [174353-artificial-superintelligence.json](./174353-artificial-superintelligence.json) |
 | Artificial Wings | 249018 | [249018-artificial-wings.json](./249018-artificial-wings.json) |
 | Artificiality | 115144 | [115144-artificiality.json](./115144-artificiality.json) |
@@ -16087,6 +16088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astral Breakers | 19953 | [19953-astral-breakers.json](./19953-astral-breakers.json) |
 | Astral Chain | 115283 | [115283-astral-chain.json](./115283-astral-chain.json) |
 | Astral Chain: Collector's Edition | 136273 | [136273-astral-chain-collectors-edition.json](./136273-astral-chain-collectors-edition.json) |
+| Astral Chain: Limited Edition | 136025 | [136025-astral-chain-limited-edition.json](./136025-astral-chain-limited-edition.json) |
 | Astral Chronicles | 124444 | [124444-astral-chronicles.json](./124444-astral-chronicles.json) |
 | Astral Coconut | 235834 | [235834-astral-coconut.json](./235834-astral-coconut.json) |
 | Astral Codec | 336546 | [336546-astral-codec.json](./336546-astral-codec.json) |
@@ -16918,6 +16920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 13693 | [13693-atic-atac.json](./13693-atic-atac.json) |
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
