@@ -3758,6 +3758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy is the Crown | 180917 | [180917-heavy-is-the-crown.json](./180917-heavy-is-the-crown.json) |
 | Heavy Karate from Hell | 180402 | [180402-heavy-karate-from-hell.json](./180402-heavy-karate-from-hell.json) |
 | Heavy Lies the Crown | 223240 | [223240-heavy-lies-the-crown.json](./223240-heavy-lies-the-crown.json) |
+| Heavy load | 129927 | [129927-heavy-load.json](./129927-heavy-load.json) |
 | Heavy Machinery vs. Shumai | 409528 | [409528-heavy-machinery-vs-shumai.json](./409528-heavy-machinery-vs-shumai.json) |
 | Heavy Machines & Construction | 266261 | [266261-heavy-machines-and-construction.json](./266261-heavy-machines-and-construction.json) |
 | Heavy Metal | 12141 | [12141-heavy-metal.json](./12141-heavy-metal.json) |
