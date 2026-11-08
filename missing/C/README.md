@@ -4567,6 +4567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CatDog: Saving Mean Bob | 206905 | [206905-catdog-saving-mean-bob.json](./206905-catdog-saving-mean-bob.json) |
 | Cate P | 254629 | [254629-cate-p.json](./254629-cate-p.json) |
 | Cate West: The Velvet Keys | 200491 | [200491-cate-west-the-velvet-keys.json](./200491-cate-west-the-velvet-keys.json) |
+| Cateau | 110560 | [110560-cateau.json](./110560-cateau.json) |
 | Catechesis | 276693 | [276693-catechesis.json](./276693-catechesis.json) |
 | Catechumen | 84468 | [84468-catechumen.json](./84468-catechumen.json) |
 | Categories | 324648 | [324648-categories.json](./324648-categories.json) |
@@ -7986,6 +7987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chokotto Study Mijika na Kotoba | 252409 | [252409-chokotto-study-mijika-na-kotoba.json](./252409-chokotto-study-mijika-na-kotoba.json) |
 | Chokushi Shite ha Naranai | 386999 | [386999-chokushi-shite-ha-naranai.json](./386999-chokushi-shite-ha-naranai.json) |
 | Choky! Choky! | 40980 | [40980-choky-choky.json](./40980-choky-choky.json) |
+| Cholo | 110472 | [110472-cholo.json](./110472-cholo.json) |
 | Cholo | 12984 | [12984-cholo.json](./12984-cholo.json) |
 | Chomp | 79888 | [79888-chomp.json](./79888-chomp.json) |
 | Chomp Chomp | 129477 | [129477-chomp-chomp.json](./129477-chomp-chomp.json) |
@@ -8024,6 +8026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choo-Choo! Train Rides! | 86463 | [86463-choo-choo-train-rides.json](./86463-choo-choo-train-rides.json) |
 | Choo-Choose | 292375 | [292375-choo-choose.json](./292375-choo-choose.json) |
 | Chooche | 175163 | [175163-chooche.json](./175163-chooche.json) |
+| ChooChoo Heroes | 110470 | [110470-choochoo-heroes.json](./110470-choochoo-heroes.json) |
 | Chooing | 303732 | [303732-chooing.json](./303732-chooing.json) |
 | Chook & Sosig | 134410 | [134410-chook-and-sosig.json](./134410-chook-and-sosig.json) |
 | Chook & Sosig: A Case of Murder | 134411 | [134411-chook-and-sosig-a-case-of-murder.json](./134411-chook-and-sosig-a-case-of-murder.json) |
@@ -16825,6 +16828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crashout | 379722 | [379722-crashout.json](./379722-crashout.json) |
 | Crashout Crew | 372144 | [372144-crashout-crew.json](./372144-crashout-crew.json) |
 | CrashOut Xtreme | 240715 | [240715-crashout-xtreme.json](./240715-crashout-xtreme.json) |
+| Crashphalt | 110459 | [110459-crashphalt.json](./110459-crashphalt.json) |
 | Crashtest | 151273 | [151273-crashtest.json](./151273-crashtest.json) |
 | CrashTV | 201616 | [201616-crashtv.json](./201616-crashtv.json) |
 | Crashword | 206924 | [206924-crashword.json](./206924-crashword.json) |
@@ -17349,6 +17353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Veggies | 28787 | [28787-crazy-veggies.json](./28787-crazy-veggies.json) |
 | Crazy Voyage | 324289 | [324289-crazy-voyage.json](./324289-crazy-voyage.json) |
 | Crazy War | 283555 | [283555-crazy-war.json](./283555-crazy-war.json) |
+| Crazy Washing Machine | 110563 | [110563-crazy-washing-machine.json](./110563-crazy-washing-machine.json) |
 | Crazy Wheel Rider HD | 213395 | [213395-crazy-wheel-rider-hd.json](./213395-crazy-wheel-rider-hd.json) |
 | Crazy Wheels | 103161 | [103161-crazy-wheels.json](./103161-crazy-wheels.json) |
 | Crazy Wife | 300294 | [300294-crazy-wife.json](./300294-crazy-wife.json) |
@@ -17394,6 +17399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creamy Mami: Futari no Rondo | 184477 | [184477-creamy-mami-futari-no-rondo.json](./184477-creamy-mami-futari-no-rondo.json) |
 | CreArt: Painting by Numbers | 393417 | [393417-creart-painting-by-numbers.json](./393417-creart-painting-by-numbers.json) |
 | Creas | 149202 | [149202-creas.json](./149202-creas.json) |
+| Create | 110568 | [110568-create.json](./110568-create.json) |
 | Create | 218200 | [218200-create.json](./218200-create.json) |
 | Create & Conquer | 305771 | [305771-create-and-conquer.json](./305771-create-and-conquer.json) |
 | Create a Pop Sensation | 369695 | [369695-create-a-pop-sensation.json](./369695-create-a-pop-sensation.json) |
@@ -19967,6 +19973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cultist Simulator | 26878 | [26878-cultist-simulator.json](./26878-cultist-simulator.json) |
 | Cultist Simulator: Anthology Edition | 117948 | [117948-cultist-simulator-anthology-edition.json](./117948-cultist-simulator-anthology-edition.json) |
 | Cultist Simulator: Initiate Edition | 142313 | [142313-cultist-simulator-initiate-edition.json](./142313-cultist-simulator-initiate-edition.json) |
+| Cultist Simulator: The Dancer | 110579 | [110579-cultist-simulator-the-dancer.json](./110579-cultist-simulator-the-dancer.json) |
 | Cultist Simulator: The Exile | 154687 | [154687-cultist-simulator-the-exile.json](./154687-cultist-simulator-the-exile.json) |
 | Cultist Simulator: The Ghoul | 124935 | [124935-cultist-simulator-the-ghoul.json](./124935-cultist-simulator-the-ghoul.json) |
 | Cultist Simulator: The Lady Afterwards | 196087 | [196087-cultist-simulator-the-lady-afterwards.json](./196087-cultist-simulator-the-lady-afterwards.json) |
