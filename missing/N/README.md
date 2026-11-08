@@ -5047,6 +5047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninehouse | 248439 | [248439-ninehouse.json](./248439-ninehouse.json) |
 | NineLives | 273449 | [273449-ninelives.json](./273449-ninelives.json) |
 | Ninepin Bowling | 54251 | [54251-ninepin-bowling.json](./54251-ninepin-bowling.json) |
+| Nines | 131745 | [131745-nines.json](./131745-nines.json) |
 | Nineteen | 128654 | [128654-nineteen.json](./128654-nineteen.json) |
 | Nineteen | 187712 | [187712-nineteen.json](./187712-nineteen.json) |
 | Nineteen: 19 | 413046 | [413046-nineteen-19.json](./413046-nineteen-19.json) |
@@ -7296,6 +7297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | November | 183228 | [183228-november.json](./183228-november.json) |
 | November | 255893 | [255893-november.json](./255893-november.json) |
 | November 5th | 262561 | [262561-november-5th.json](./262561-november-5th.json) |
+| Novena | 131741 | [131741-novena.json](./131741-novena.json) |
 | Novena Diabolos | 132267 | [132267-novena-diabolos.json](./132267-novena-diabolos.json) |
 | Novi Cube | 216973 | [216973-novi-cube.json](./216973-novi-cube.json) |
 | Novice Dungeon Master | 295100 | [295100-novice-dungeon-master.json](./295100-novice-dungeon-master.json) |
@@ -7324,6 +7326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Now Testing: 407 | 148885 | [148885-now-testing-407.json](./148885-now-testing-407.json) |
 | Now That's Sport! | 184179 | [184179-now-thats-sport.json](./184179-now-thats-sport.json) |
 | Now That's What I Call Games | 131874 | [131874-now-thats-what-i-call-games.json](./131874-now-thats-what-i-call-games.json) |
+| Now That's What I Call Games 2 | 131738 | [131738-now-thats-what-i-call-games-2.json](./131738-now-thats-what-i-call-games-2.json) |
 | Now That's What I Call Games 3 | 125283 | [125283-now-thats-what-i-call-games-3.json](./125283-now-thats-what-i-call-games-3.json) |
 | Now That's What I Call Sing 2 | 24961 | [24961-now-thats-what-i-call-sing-2.json](./24961-now-thats-what-i-call-sing-2.json) |
 | Now There Be Goblins | 149134 | [149134-now-there-be-goblins.json](./149134-now-there-be-goblins.json) |
