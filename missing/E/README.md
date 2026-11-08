@@ -3453,6 +3453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empty World | 365768 | [365768-empty-world.json](./365768-empty-world.json) |
 | Empty. | 134449 | [134449-empty.json](./134449-empty.json) |
 | Empty₁: First-Person Adventure | 286335 | [286335-empty1-first-person-adventure.json](./286335-empty1-first-person-adventure.json) |
+| EmptyEpsilon | 97604 | [97604-emptyepsilon.json](./97604-emptyepsilon.json) |
 | Empulse | 402471 | [402471-empulse.json](./402471-empulse.json) |
 | Empyre: Dukes of the Far Frontier | 198555 | [198555-empyre-dukes-of-the-far-frontier.json](./198555-empyre-dukes-of-the-far-frontier.json) |
 | Empyreal | 324588 | [324588-empyreal.json](./324588-empyreal.json) |
@@ -8247,6 +8248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exposure | 101244 | [101244-exposure.json](./101244-exposure.json) |
 | Exposure | 362267 | [362267-exposure.json](./362267-exposure.json) |
 | Exposure Office Simulator | 309892 | [309892-exposure-office-simulator.json](./309892-exposure-office-simulator.json) |
+| Exposure, a Game of Camouflage | 97952 | [97952-exposure-a-game-of-camouflage.json](./97952-exposure-a-game-of-camouflage.json) |
 | Express 404 | 415326 | [415326-express-404.json](./415326-express-404.json) |
 | Express Car Wash Simulator | 309830 | [309830-express-car-wash-simulator.json](./309830-express-car-wash-simulator.json) |
 | Express Courier Pro: Urban Bike Delivery Simulator 2024! | 300862 | [300862-express-courier-pro-urban-bike-delivery-simulator-2024.json](./300862-express-courier-pro-urban-bike-delivery-simulator-2024.json) |
