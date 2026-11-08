@@ -2992,6 +2992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Football 2017 | 116351 | [116351-real-football-2017.json](./116351-real-football-2017.json) |
 | Real Football 2018 | 116352 | [116352-real-football-2018.json](./116352-real-football-2018.json) |
 | Real Football 2019 | 116353 | [116353-real-football-2019.json](./116353-real-football-2019.json) |
+| Real Gangsters Auto Theft | 99202 | [99202-real-gangsters-auto-theft.json](./99202-real-gangsters-auto-theft.json) |
 | Real Girl 3: Virtual Sex | 372120 | [372120-real-girl-3-virtual-sex.json](./372120-real-girl-3-virtual-sex.json) |
 | Real Girls: Burning Whisper | 417278 | [417278-real-girls-burning-whisper.json](./417278-real-girls-burning-whisper.json) |
 | Real Grand Gangster Mafia war | 231914 | [231914-real-grand-gangster-mafia-war.json](./231914-real-grand-gangster-mafia-war.json) |
