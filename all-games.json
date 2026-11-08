@@ -3,8 +3,8 @@
   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
   "attribution": "Data from OSTDB (ostdb.net) - https://ostdb.net",
   "notice": "Non-commercial use only; credit OSTDB with a link. Album art, game art and IGDB metadata are not covered. See https://github.com/OSTDB/soundtracks/blob/main/NOTICE.md",
-  "generated_at": "2026-11-05T09:45:49.337Z",
-  "total_soundtracks": 2950,
+  "generated_at": "2026-11-08T12:05:51.336Z",
+  "total_soundtracks": 2951,
   "games": [
     {
       "igdb_id": 7522,
@@ -13418,7 +13418,7 @@
       "albums": [
         {
           "album_name": "Grand Theft Auto VI: Original Score",
-          "spotify_url": "",
+          "spotify_url": "https://open.spotify.com/album/3G4n0KMaVN3qVpUpk5Ln9B",
           "apple_music_url": "https://music.apple.com/nz/album/grand-theft-auto-vi-original-score/6827656134",
           "album_link_url": ""
         },
@@ -28976,6 +28976,20 @@
           "album_name": "StarCraft II Original Soundtrack",
           "spotify_url": "https://open.spotify.com/album/5oGThAvj5C4AQB3giIQ1hj",
           "apple_music_url": null,
+          "album_link_url": ""
+        }
+      ]
+    },
+    {
+      "igdb_id": 15197,
+      "game_name": "StarCrawlers",
+      "game_url": "https://ostdb.net/games/starcrawlers",
+      "cover_url": "https://i.scdn.co/image/ab67616d0000b27333c55abf37e30c6b31716e67",
+      "albums": [
+        {
+          "album_name": "StarCrawlers (Original Soundtrack)",
+          "spotify_url": "https://open.spotify.com/album/1BrZ2gdzmzzhVsPDaelz3h",
+          "apple_music_url": "",
           "album_link_url": ""
         }
       ]
