@@ -11585,6 +11585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodz | 217211 | [217211-bloodz.json](./217211-bloodz.json) |
 | Bloodzap | 384553 | [384553-bloodzap.json](./384553-bloodzap.json) |
 | Bloom | 110476 | [110476-bloom.json](./110476-bloom.json) |
+| Bloom | 110477 | [110477-bloom.json](./110477-bloom.json) |
 | Bloom | 143535 | [143535-bloom.json](./143535-bloom.json) |
 | Bloom | 185362 | [185362-bloom.json](./185362-bloom.json) |
 | Bloom | 198149 | [198149-bloom.json](./198149-bloom.json) |
