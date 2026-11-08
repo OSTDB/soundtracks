@@ -2621,6 +2621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imp Encounter | 296198 | [296198-imp-encounter.json](./296198-imp-encounter.json) |
 | Imp or Oaf? | 254259 | [254259-imp-or-oaf.json](./254259-imp-or-oaf.json) |
 | iMP: Surf the Music | 100197 | [100197-imp-surf-the-music.json](./100197-imp-surf-the-music.json) |
+| Impact | 132367 | [132367-impact.json](./132367-impact.json) |
 | Impact | 257890 | [257890-impact.json](./257890-impact.json) |
 | Impact | 340505 | [340505-impact.json](./340505-impact.json) |
 | Impact of Power | 191376 | [191376-impact-of-power.json](./191376-impact-of-power.json) |
@@ -3943,6 +3944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4433,6 +4435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inner Universe 1F0000 | 236065 | [236065-inner-universe-1f0000.json](./236065-inner-universe-1f0000.json) |
 | Inner Voice | 358966 | [358966-inner-voice.json](./358966-inner-voice.json) |
 | Inner Voices | 30429 | [30429-inner-voices.json](./30429-inner-voices.json) |
+| Inner Worlds | 132392 | [132392-inner-worlds.json](./132392-inner-worlds.json) |
 | Inner Worlds | 70482 | [70482-inner-worlds.json](./70482-inner-worlds.json) |
 | Innerchild VR | 332607 | [332607-innerchild-vr.json](./332607-innerchild-vr.json) |
 | InnerCube | 35879 | [35879-innercube.json](./35879-innercube.json) |
