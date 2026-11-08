@@ -1255,6 +1255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Boy Wars 3 | 1690 | [1690-game-boy-wars-3.json](./1690-game-boy-wars-3.json) |
 | Game Boy Wars Advance 1+2 | 61958 | [61958-game-boy-wars-advance-1-2.json](./61958-game-boy-wars-advance-1-2.json) |
 | Game Boy Wars Turbo | 1688 | [1688-game-boy-wars-turbo.json](./1688-game-boy-wars-turbo.json) |
+| Game Breaker | 127449 | [127449-game-breaker.json](./127449-game-breaker.json) |
 | Game Builder | 119578 | [119578-game-builder.json](./119578-game-builder.json) |
 | Game Builder | 349992 | [349992-game-builder.json](./349992-game-builder.json) |
 | Game Builder Garage | 146762 | [146762-game-builder-garage.json](./146762-game-builder-garage.json) |
@@ -6641,6 +6642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Rails: Road to Klondike | 191833 | [191833-golden-rails-road-to-klondike.json](./191833-golden-rails-road-to-klondike.json) |
 | Golden Rails: Small Town Story | 148909 | [148909-golden-rails-small-town-story.json](./148909-golden-rails-small-town-story.json) |
 | Golden Rails: Small Town Story - Collector's Edition | 177100 | [177100-golden-rails-small-town-story-collectors-edition.json](./177100-golden-rails-small-town-story-collectors-edition.json) |
+| Golden Rails: Tales of the Wild West | 127456 | [127456-golden-rails-tales-of-the-wild-west.json](./127456-golden-rails-tales-of-the-wild-west.json) |
 | Golden Rails: The Heart of the State | 372218 | [372218-golden-rails-the-heart-of-the-state.json](./372218-golden-rails-the-heart-of-the-state.json) |
 | Golden Rails: The Heart of the State - Collector's Edition | 338773 | [338773-golden-rails-the-heart-of-the-state-collectors-edition.json](./338773-golden-rails-the-heart-of-the-state-collectors-edition.json) |
 | Golden Rails: Valuable Package | 315899 | [315899-golden-rails-valuable-package.json](./315899-golden-rails-valuable-package.json) |
