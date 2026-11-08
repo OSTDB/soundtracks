@@ -943,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Idle Clicker | 311697 | [311697-galaxy-idle-clicker.json](./311697-galaxy-idle-clicker.json) |
 | Galaxy II | 305455 | [305455-galaxy-ii.json](./305455-galaxy-ii.json) |
 | Galaxy II | 305456 | [305456-galaxy-ii.json](./305456-galaxy-ii.json) |
+| Galaxy in Peril | 117242 | [117242-galaxy-in-peril.json](./117242-galaxy-in-peril.json) |
 | Galaxy in Peril: Time Trouble | 157063 | [157063-galaxy-in-peril-time-trouble.json](./157063-galaxy-in-peril-time-trouble.json) |
 | Galaxy in Turmoil | 19436 | [19436-galaxy-in-turmoil.json](./19436-galaxy-in-turmoil.json) |
 | Galaxy Invader | 96937 | [96937-galaxy-invader.json](./96937-galaxy-invader.json) |
@@ -8887,6 +8888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great American Golf | 45926 | [45926-great-american-golf.json](./45926-great-american-golf.json) |
 | Great American Golf 2 | 45898 | [45898-great-american-golf-2.json](./45898-great-american-golf-2.json) |
 | Great Artists Steal | 118751 | [118751-great-artists-steal.json](./118751-great-artists-steal.json) |
+| Great Ball of Fire | 117240 | [117240-great-ball-of-fire.json](./117240-great-ball-of-fire.json) |
 | Great Basketball | 46672 | [46672-great-basketball.json](./46672-great-basketball.json) |
 | Great Battle Cyber | 48479 | [48479-great-battle-cyber.json](./48479-great-battle-cyber.json) |
 | Great Battle Full Blast | 65516 | [65516-great-battle-full-blast.json](./65516-great-battle-full-blast.json) |
@@ -9786,6 +9788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grisaia Phantom Trigger Vol.3 | 43085 | [43085-grisaia-phantom-trigger-vol-3.json](./43085-grisaia-phantom-trigger-vol-3.json) |
 | Grisaia Phantom Trigger Vol.4 | 81678 | [81678-grisaia-phantom-trigger-vol-4.json](./81678-grisaia-phantom-trigger-vol-4.json) |
 | Grisaia Phantom Trigger Vol.5 | 104391 | [104391-grisaia-phantom-trigger-vol-5.json](./104391-grisaia-phantom-trigger-vol-5.json) |
+| Grisaia Phantom Trigger Vol.6 | 117248 | [117248-grisaia-phantom-trigger-vol-6.json](./117248-grisaia-phantom-trigger-vol-6.json) |
 | Grisaia Phantom Trigger Vol.7 | 135819 | [135819-grisaia-phantom-trigger-vol-7.json](./135819-grisaia-phantom-trigger-vol-7.json) |
 | Grisaia Trilogy Package Edition | 123169 | [123169-grisaia-trilogy-package-edition.json](./123169-grisaia-trilogy-package-edition.json) |
 | Grisaia: Phantom Trigger 01 to 05 | 142752 | [142752-grisaia-phantom-trigger-01-to-05.json](./142752-grisaia-phantom-trigger-01-to-05.json) |
@@ -11465,6 +11468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunsmith Simulator: Flint & Powder | 389517 | [389517-gunsmith-simulator-flint-and-powder.json](./389517-gunsmith-simulator-flint-and-powder.json) |
 | Gunsmith Simulator: Heavy Metal DLC | 389513 | [389513-gunsmith-simulator-heavy-metal-dlc.json](./389513-gunsmith-simulator-heavy-metal-dlc.json) |
 | Gunsmith Workshop Simulator | 286191 | [286191-gunsmith-workshop-simulator.json](./286191-gunsmith-workshop-simulator.json) |
+| Gunsmoke | 117256 | [117256-gunsmoke.json](./117256-gunsmoke.json) |
 | Gunsmoke | 261449 | [261449-gunsmoke.json](./261449-gunsmoke.json) |
 | Gunso's Skateboard Run | 333733 | [333733-gunsos-skateboard-run.json](./333733-gunsos-skateboard-run.json) |
 | GunSoul Girl | 144055 | [144055-gunsoul-girl.json](./144055-gunsoul-girl.json) |
