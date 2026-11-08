@@ -4291,6 +4291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Field of Glory | 68342 | [68342-field-of-glory.json](./68342-field-of-glory.json) |
 | Field of Glory II | 65835 | [65835-field-of-glory-ii.json](./65835-field-of-glory-ii.json) |
 | Field of Glory II: Age of Belisarius | 124785 | [124785-field-of-glory-ii-age-of-belisarius.json](./124785-field-of-glory-ii-age-of-belisarius.json) |
+| Field of Glory II: Immortal Fire | 124901 | [124901-field-of-glory-ii-immortal-fire.json](./124901-field-of-glory-ii-immortal-fire.json) |
 | Field of Glory II: Masters Edition | 395288 | [395288-field-of-glory-ii-masters-edition.json](./395288-field-of-glory-ii-masters-edition.json) |
 | Field of Glory II: Medieval | 140929 | [140929-field-of-glory-ii-medieval.json](./140929-field-of-glory-ii-medieval.json) |
 | Field of Glory II: Medieval - Reconquista | 148343 | [148343-field-of-glory-ii-medieval-reconquista.json](./148343-field-of-glory-ii-medieval-reconquista.json) |
