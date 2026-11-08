@@ -262,6 +262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabre Wulf Remastered | 410196 | [410196-sabre-wulf-remastered.json](./410196-sabre-wulf-remastered.json) |
 | Sabreman Stampede | 175948 | [175948-sabreman-stampede.json](./175948-sabreman-stampede.json) |
 | Sabres of Infinity | 33439 | [33439-sabres-of-infinity.json](./33439-sabres-of-infinity.json) |
+| Sabreurs - A Noble Duel | 107450 | [107450-sabreurs-a-noble-duel.json](./107450-sabreurs-a-noble-duel.json) |
 | Sabrewing 2 | 208725 | [208725-sabrewing-2.json](./208725-sabrewing-2.json) |
 | Sabrina the Animated Series: Magical Adventure | 186071 | [186071-sabrina-the-animated-series-magical-adventure.json](./186071-sabrina-the-animated-series-magical-adventure.json) |
 | Sabrina the Animated Series: Spooked! | 49944 | [49944-sabrina-the-animated-series-spooked.json](./49944-sabrina-the-animated-series-spooked.json) |
@@ -11420,6 +11421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimpleRockets | 197672 | [197672-simplerockets.json](./197672-simplerockets.json) |
 | SimpleTD | 252461 | [252461-simpletd.json](./252461-simpletd.json) |
 | Simplex | 271327 | [271327-simplex.json](./271327-simplex.json) |
+| Simplex Mundi | 107428 | [107428-simplex-mundi.json](./107428-simplex-mundi.json) |
 | Simpli Casa | 381707 | [381707-simpli-casa.json](./381707-simpli-casa.json) |
 | Simploe Tasks | 293053 | [293053-simploe-tasks.json](./293053-simploe-tasks.json) |
 | Simply Chess | 17604 | [17604-simply-chess.json](./17604-simply-chess.json) |
@@ -16286,6 +16288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Rally | 175287 | [175287-soccer-rally.json](./175287-soccer-rally.json) |
 | Soccer Rally | 210079 | [210079-soccer-rally.json](./210079-soccer-rally.json) |
 | Soccer Rally Arena | 95081 | [95081-soccer-rally-arena.json](./95081-soccer-rally-arena.json) |
+| Soccer Real Stars '17 | 107355 | [107355-soccer-real-stars-17.json](./107355-soccer-real-stars-17.json) |
 | Soccer RPG: Become the coach for the national team! | 94259 | [94259-soccer-rpg-become-the-coach-for-the-national-team.json](./94259-soccer-rpg-become-the-coach-for-the-national-team.json) |
 | Soccer Runner | 252949 | [252949-soccer-runner.json](./252949-soccer-runner.json) |
 | Soccer Rush | 227463 | [227463-soccer-rush.json](./227463-soccer-rush.json) |
@@ -28304,6 +28307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stratajong | 57653 | [57653-stratajong.json](./57653-stratajong.json) |
 | Stratapath TD | 390662 | [390662-stratapath-td.json](./390662-stratapath-td.json) |
 | StratDots RTS | 381138 | [381138-stratdots-rts.json](./381138-stratdots-rts.json) |
+| Strategeist | 107358 | [107358-strategeist.json](./107358-strategeist.json) |
 | Strategems | 353271 | [353271-strategems.json](./353271-strategems.json) |
 | Strategery | 77095 | [77095-strategery.json](./77095-strategery.json) |
 | Strategery 2012 | 64333 | [64333-strategery-2012.json](./64333-strategery-2012.json) |
