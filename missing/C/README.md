@@ -1350,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Crush Solitare | 383749 | [383749-candy-crush-solitare.json](./383749-candy-crush-solitare.json) |
 | Candy Cubz | 57009 | [57009-candy-cubz.json](./57009-candy-cubz.json) |
 | Candy Cutter | 176775 | [176775-candy-cutter.json](./176775-candy-cutter.json) |
+| Candy Disaster | 129334 | [129334-candy-disaster.json](./129334-candy-disaster.json) |
 | Candy Eaters Tournament | 202660 | [202660-candy-eaters-tournament.json](./202660-candy-eaters-tournament.json) |
 | Candy Factory TD | 307694 | [307694-candy-factory-td.json](./307694-candy-factory-td.json) |
 | Candy Fall | 148980 | [148980-candy-fall.json](./148980-candy-fall.json) |
@@ -9958,6 +9959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Class 3, Third Grade | 330792 | [330792-class-3-third-grade.json](./330792-class-3-third-grade.json) |
 | Class B-Horror: Subway | 236308 | [236308-class-b-horror-subway.json](./236308-class-b-horror-subway.json) |
 | Class Escape | 194719 | [194719-class-escape.json](./194719-class-escape.json) |
+| Class Kingdom | 129316 | [129316-class-kingdom.json](./129316-class-kingdom.json) |
 | Class Maid | 97774 | [97774-class-maid.json](./97774-class-maid.json) |
 | Class Notes | 319918 | [319918-class-notes.json](./319918-class-notes.json) |
 | Class of '09 | 152962 | [152962-class-of-09.json](./152962-class-of-09.json) |
@@ -9997,10 +9999,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Card Game Canasta | 129373 | [129373-classic-card-game-canasta.json](./129373-classic-card-game-canasta.json) |
 | Classic Card Game Euchre | 129374 | [129374-classic-card-game-euchre.json](./129374-classic-card-game-euchre.json) |
 | Classic Card Game Gin Rummy | 129375 | [129375-classic-card-game-gin-rummy.json](./129375-classic-card-game-gin-rummy.json) |
+| Classic Card Game Go Fish | 129336 | [129336-classic-card-game-go-fish.json](./129336-classic-card-game-go-fish.json) |
 | Classic Card Game Hearts | 129377 | [129377-classic-card-game-hearts.json](./129377-classic-card-game-hearts.json) |
 | Classic Card Game Old Maid | 129360 | [129360-classic-card-game-old-maid.json](./129360-classic-card-game-old-maid.json) |
 | Classic Card Game Pinochle | 129376 | [129376-classic-card-game-pinochle.json](./129376-classic-card-game-pinochle.json) |
+| Classic Card Game Solitaire Mahjong | 129335 | [129335-classic-card-game-solitaire-mahjong.json](./129335-classic-card-game-solitaire-mahjong.json) |
 | Classic Card Game Spades | 129439 | [129439-classic-card-game-spades.json](./129439-classic-card-game-spades.json) |
+| Classic Card Game Texas Hold'em | 129339 | [129339-classic-card-game-texas-holdem.json](./129339-classic-card-game-texas-holdem.json) |
 | Classic Card Games | 85539 | [85539-classic-card-games.json](./85539-classic-card-games.json) |
 | Classic Card Games 3D | 111762 | [111762-classic-card-games-3d.json](./111762-classic-card-games-3d.json) |
 | Classic Card Games Collection | 367702 | [367702-classic-card-games-collection.json](./367702-classic-card-games-collection.json) |
@@ -15064,6 +15069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corporate Pussy | 277458 | [277458-corporate-pussy.json](./277458-corporate-pussy.json) |
 | Corporate Raider: The Pirate of Wall St. | 65571 | [65571-corporate-raider-the-pirate-of-wall-st.json](./65571-corporate-raider-the-pirate-of-wall-st.json) |
 | Corporate Suck Up | 338888 | [338888-corporate-suck-up.json](./338888-corporate-suck-up.json) |
+| Corporated Robots Wars | 129320 | [129320-corporated-robots-wars.json](./129320-corporated-robots-wars.json) |
 | Corporation | 57696 | [57696-corporation.json](./57696-corporation.json) |
 | Corporation Inc. | 334726 | [334726-corporation-inc.json](./334726-corporation-inc.json) |
 | Corporation Inc. | 377352 | [377352-corporation-inc.json](./377352-corporation-inc.json) |
@@ -15226,6 +15232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Corvian Curse | 269852 | [269852-corvian-curse.json](./269852-corvian-curse.json) |
 | Corvid's Night | 277849 | [277849-corvids-night.json](./277849-corvids-night.json) |
 | Corvos Dynasty | 268314 | [268314-corvos-dynasty.json](./268314-corvos-dynasty.json) |
+| Corvus | 129353 | [129353-corvus.json](./129353-corvus.json) |
 | Cory in the Ded 3.5 | 264420 | [264420-cory-in-the-ded-3-5.json](./264420-cory-in-the-ded-3-5.json) |
 | Cory in the House | 47969 | [47969-cory-in-the-house.json](./47969-cory-in-the-house.json) |
 | Coryoon | 37717 | [37717-coryoon.json](./37717-coryoon.json) |
