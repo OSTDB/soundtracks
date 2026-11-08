@@ -977,7 +977,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -14455,6 +14454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxed In | 403087 | [403087-boxed-in.json](./403087-boxed-in.json) |
 | Boxed In | 76687 | [76687-boxed-in.json](./76687-boxed-in.json) |
 | Boxed In | 95394 | [95394-boxed-in.json](./95394-boxed-in.json) |
+| Boxed Out | 116536 | [116536-boxed-out.json](./116536-boxed-out.json) |
 | Boxed Out | 384737 | [384737-boxed-out.json](./384737-boxed-out.json) |
 | Boxed Tower: Actual Tower Defense | 251754 | [251754-boxed-tower-actual-tower-defense.json](./251754-boxed-tower-actual-tower-defense.json) |
 | Boxed Up! | 386837 | [386837-boxed-up.json](./386837-boxed-up.json) |
@@ -14994,6 +14994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Dungeon | 81454 | [81454-brave-dungeon.json](./81454-brave-dungeon.json) |
 | Brave Dungeon + Dark Witch's Story: Combat | 69393 | [69393-brave-dungeon-dark-witchs-story-combat.json](./69393-brave-dungeon-dark-witchs-story-combat.json) |
 | Brave Dungeon II | 112766 | [112766-brave-dungeon-ii.json](./112766-brave-dungeon-ii.json) |
+| Brave Dungeon: Seigi no Imi | 116561 | [116561-brave-dungeon-seigi-no-imi.json](./116561-brave-dungeon-seigi-no-imi.json) |
 | Brave Dungeon: The Meaning Of Justice | 111450 | [111450-brave-dungeon-the-meaning-of-justice.json](./111450-brave-dungeon-the-meaning-of-justice.json) |
 | Brave Dwarves | 188558 | [188558-brave-dwarves.json](./188558-brave-dwarves.json) |
 | Brave Dwarves 2 | 144265 | [144265-brave-dwarves-2.json](./144265-brave-dwarves-2.json) |
@@ -16014,6 +16015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brimstone Manor | 189304 | [189304-brimstone-manor.json](./189304-brimstone-manor.json) |
 | Brimvahl Crown | 403342 | [403342-brimvahl-crown.json](./403342-brimvahl-crown.json) |
 | Brincando com Ariê | 341885 | [341885-brincando-com-arie.json](./341885-brincando-com-arie.json) |
+| Brine | 116564 | [116564-brine.json](./116564-brine.json) |
 | Brine Flow | 222869 | [222869-brine-flow.json](./222869-brine-flow.json) |
 | Brinefall | 190220 | [190220-brinefall.json](./190220-brinefall.json) |
 | Brinemegeddon | 278277 | [278277-brinemegeddon.json](./278277-brinemegeddon.json) |
