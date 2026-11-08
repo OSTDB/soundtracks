@@ -2461,6 +2461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Drift Ultra | 412997 | [412997-neon-drift-ultra.json](./412997-neon-drift-ultra.json) |
 | Neon Drifter: Cyber Racing | 283258 | [283258-neon-drifter-cyber-racing.json](./283258-neon-drifter-cyber-racing.json) |
 | Neon Drive | 31180 | [31180-neon-drive.json](./31180-neon-drive.json) |
+| Neon Drive - '80s style arcade | 90749 | [90749-neon-drive-80s-style-arcade.json](./90749-neon-drive-80s-style-arcade.json) |
 | Neon Dungeon | 213243 | [213243-neon-dungeon.json](./213243-neon-dungeon.json) |
 | Neon Dystopia | 400571 | [400571-neon-dystopia.json](./400571-neon-dystopia.json) |
 | Neon Echo | 246299 | [246299-neon-echo.json](./246299-neon-echo.json) |
