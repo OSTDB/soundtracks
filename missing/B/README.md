@@ -986,6 +986,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1269,6 +1270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakuman: Mangaka he no Michi | 65745 | [65745-bakuman-mangaka-he-no-michi.json](./65745-bakuman-mangaka-he-no-michi.json) |
 | BakuMari | 157284 | [157284-bakumari.json](./157284-bakumari.json) |
 | Bakumatsu Ishin: Amakakeru Koi | 163234 | [163234-bakumatsu-ishin-amakakeru-koi.json](./163234-bakumatsu-ishin-amakakeru-koi.json) |
+| Bakumatsu Jinchuu Houkoku Resshiden Miburo | 83090 | [83090-bakumatsu-jinchuu-houkoku-resshiden-miburo.json](./83090-bakumatsu-jinchuu-houkoku-resshiden-miburo.json) |
 | Bakumatsu Kourinden Oni | 15897 | [15897-bakumatsu-kourinden-oni.json](./15897-bakumatsu-kourinden-oni.json) |
 | Bakumatsu Midarezaki | 163231 | [163231-bakumatsu-midarezaki.json](./163231-bakumatsu-midarezaki.json) |
 | Bakumatsu Renka Shinsengumi | 152990 | [152990-bakumatsu-renka-shinsengumi.json](./152990-bakumatsu-renka-shinsengumi.json) |
@@ -12602,6 +12604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku ga Oni ne | 377026 | [377026-boku-ga-oni-ne.json](./377026-boku-ga-oni-ne.json) |
 | Boku ha Kimi dake wo Mitsumeru: I Gaze at Only You | 335729 | [335729-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json](./335729-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json) |
 | Boku ha Kimi dake wo Mitsumeru: I Gaze at Only You | 335996 | [335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json](./335996-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json) |
+| Boku ha Kimi dake wo Mitsumeru: I Gaze at Only You | 83105 | [83105-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json](./83105-boku-ha-kimi-dake-wo-mitsumeru-i-gaze-at-only-you.json) |
 | Boku ha Koukuu Kanseikan: Airport Hero 3D - Haneda All Stars | 222492 | [222492-boku-ha-koukuu-kanseikan-airport-hero-3d-haneda-all-stars.json](./222492-boku-ha-koukuu-kanseikan-airport-hero-3d-haneda-all-stars.json) |
 | Boku ha Koukuu Kanseikan: Airport Hero 3D - Honolulu | 64695 | [64695-boku-ha-koukuu-kanseikan-airport-hero-3d-honolulu.json](./64695-boku-ha-koukuu-kanseikan-airport-hero-3d-honolulu.json) |
 | Boku ha Koukuu Kanseikan: Airport Hero Narita | 269486 | [269486-boku-ha-koukuu-kanseikan-airport-hero-narita.json](./269486-boku-ha-koukuu-kanseikan-airport-hero-narita.json) |
@@ -12643,6 +12646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku to Wanko | 58819 | [58819-boku-to-wanko.json](./58819-boku-to-wanko.json) |
 | Boku to, Bokura no Natsu | 283324 | [283324-boku-to-bokura-no-natsu.json](./283324-boku-to-bokura-no-natsu.json) |
 | Boku wa Chiisai | 210919 | [210919-boku-wa-chiisai.json](./210919-boku-wa-chiisai.json) |
+| Boku wa Kimi dake o Mitsumeru Gaiden: Saber Tiger Hen | 83101 | [83101-boku-wa-kimi-dake-o-mitsumeru-gaiden-saber-tiger-hen.json](./83101-boku-wa-kimi-dake-o-mitsumeru-gaiden-saber-tiger-hen.json) |
 | Boku wa Koukuu Kanseikan: Airport Hero 3D - Kankuu All Stars | 222426 | [222426-boku-wa-koukuu-kanseikan-airport-hero-3d-kankuu-all-stars.json](./222426-boku-wa-koukuu-kanseikan-airport-hero-3d-kankuu-all-stars.json) |
 | Boku wa Koukuu Kanseikan: Airport Hero 3D Haneda with JAL | 78708 | [78708-boku-wa-koukuu-kanseikan-airport-hero-3d-haneda-with-jal.json](./78708-boku-wa-koukuu-kanseikan-airport-hero-3d-haneda-with-jal.json) |
 | Boku wo Sodatete! Nyanda Seijin | 349733 | [349733-boku-wo-sodatete-nyanda-seijin.json](./349733-boku-wo-sodatete-nyanda-seijin.json) |
@@ -14532,6 +14536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Nation | 161478 | [161478-box-nation.json](./161478-box-nation.json) |
 | Box Ninja | 271648 | [271648-box-ninja.json](./271648-box-ninja.json) |
 | Box of Broken Nails | 385344 | [385344-box-of-broken-nails.json](./385344-box-of-broken-nails.json) |
+| Box of Enigmas | 83116 | [83116-box-of-enigmas.json](./83116-box-of-enigmas.json) |
 | Box of Limes | 182996 | [182996-box-of-limes.json](./182996-box-of-limes.json) |
 | Box Office Boss | 239303 | [239303-box-office-boss.json](./239303-box-office-boss.json) |
 | Box Office Game | 319225 | [319225-box-office-game.json](./319225-box-office-game.json) |
