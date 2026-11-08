@@ -9938,6 +9938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forested Super Mario Bros. U | 314122 | [314122-forested-super-mario-bros-u.json](./314122-forested-super-mario-bros-u.json) |
 | Forester Simulator 2026: Mushroom Hunting | 387104 | [387104-forester-simulator-2026-mushroom-hunting.json](./387104-forester-simulator-2026-mushroom-hunting.json) |
 | Forester: First Step | 359160 | [359160-forester-first-step.json](./359160-forester-first-step.json) |
+| Forestia Junior | 125581 | [125581-forestia-junior.json](./125581-forestia-junior.json) |
 | Forestia Révoltozoo | 389663 | [389663-forestia-revoltozoo.json](./389663-forestia-revoltozoo.json) |
 | Forestless | 351275 | [351275-forestless.json](./351275-forestless.json) |
 | Forestress Shade | 397495 | [397495-forestress-shade.json](./397495-forestress-shade.json) |
@@ -12979,6 +12980,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frozen Dragon Gems Unlocked | 100029 | [100029-frozen-dragon-gems-unlocked.json](./100029-frozen-dragon-gems-unlocked.json) |
 | Frozen Drift Race | 30185 | [30185-frozen-drift-race.json](./30185-frozen-drift-race.json) |
 | Frozen Echo | 414115 | [414115-frozen-echo.json](./414115-frozen-echo.json) |
+| Frozen Essence | 125570 | [125570-frozen-essence.json](./125570-frozen-essence.json) |
 | Frozen Feathers | 362266 | [362266-frozen-feathers.json](./362266-frozen-feathers.json) |
 | Frozen Flame | 86628 | [86628-frozen-flame.json](./86628-frozen-flame.json) |
 | Frozen Forward | 383967 | [383967-frozen-forward.json](./383967-frozen-forward.json) |
