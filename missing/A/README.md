@@ -779,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Lost Note | 244748 | [244748-a-lost-note.json](./244748-a-lost-note.json) |
 | A Lost Room | 29058 | [29058-a-lost-room.json](./29058-a-lost-room.json) |
 | A Lost Whisker | 381531 | [381531-a-lost-whisker.json](./381531-a-lost-whisker.json) |
+| A Lot Like Love | 102175 | [102175-a-lot-like-love.json](./102175-a-lot-like-love.json) |
 | A Lot of Asteroids | 185347 | [185347-a-lot-of-asteroids.json](./185347-a-lot-of-asteroids.json) |
 | A Lot of Universes | 135727 | [135727-a-lot-of-universes.json](./135727-a-lot-of-universes.json) |
 | A Lounge Somewhere | 352388 | [352388-a-lounge-somewhere.json](./352388-a-lounge-somewhere.json) |
@@ -2205,6 +2206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absorb | 219698 | [219698-absorb.json](./219698-absorb.json) |
 | Absorb Invader | 303328 | [303328-absorb-invader.json](./303328-absorb-invader.json) |
 | Absorb Reality Collection | 52554 | [52554-absorb-reality-collection.json](./52554-absorb-reality-collection.json) |
+| Absorbed | 101852 | [101852-absorbed.json](./101852-absorbed.json) |
 | Absorption | 113984 | [113984-absorption.json](./113984-absorption.json) |
 | Abstacked | 79911 | [79911-abstacked.json](./79911-abstacked.json) |
 | Abstêmia | 289175 | [289175-abstemia.json](./289175-abstemia.json) |
@@ -3743,6 +3745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Pinball Bundle | 147570 | [147570-adventure-pinball-bundle.json](./147570-adventure-pinball-bundle.json) |
 | Adventure Pinball: Forgotten Island | 7549 | [7549-adventure-pinball-forgotten-island.json](./7549-adventure-pinball-forgotten-island.json) |
 | Adventure Player | 56531 | [56531-adventure-player.json](./56531-adventure-player.json) |
+| Adventure Playground | 102207 | [102207-adventure-playground.json](./102207-adventure-playground.json) |
 | Adventure Ponies | 146120 | [146120-adventure-ponies.json](./146120-adventure-ponies.json) |
 | Adventure Ponies | 264456 | [264456-adventure-ponies.json](./264456-adventure-ponies.json) |
 | Adventure Ponies 2: Wait! There's More?! | 146121 | [146121-adventure-ponies-2-wait-theres-more.json](./146121-adventure-ponies-2-wait-theres-more.json) |
