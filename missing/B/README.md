@@ -4634,6 +4634,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlezone | 276519 | [276519-battlezone.json](./276519-battlezone.json) |
 | Battlezone | 294546 | [294546-battlezone.json](./294546-battlezone.json) |
 | Battlezone | 613 | [613-battlezone.json](./613-battlezone.json) |
+| Battlezone | 94857 | [94857-battlezone.json](./94857-battlezone.json) |
+| BattleZone | 94821 | [94821-battlezone.json](./94821-battlezone.json) |
 | Battlezone 2 Remastered | 86456 | [86456-battlezone-2-remastered.json](./86456-battlezone-2-remastered.json) |
 | Battlezone 2: Combat Commander | 24122 | [24122-battlezone-2-combat-commander.json](./24122-battlezone-2-combat-commander.json) |
 | Battlezone 2000 | 13695 | [13695-battlezone-2000.json](./13695-battlezone-2000.json) |
@@ -5289,6 +5291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat in Zero | 297343 | [297343-beat-in-zero.json](./297343-beat-in-zero.json) |
 | Beat Invaders | 192729 | [192729-beat-invaders.json](./192729-beat-invaders.json) |
 | Beat It! | 66758 | [66758-beat-it.json](./66758-beat-it.json) |
+| Beat It! | 94833 | [94833-beat-it.json](./94833-beat-it.json) |
 | Beat It!: Christmas Edition | 68649 | [68649-beat-it-christmas-edition.json](./68649-beat-it-christmas-edition.json) |
 | Beat Legend: Avicii | 175320 | [175320-beat-legend-avicii.json](./175320-beat-legend-avicii.json) |
 | Beat Me If You Can | 156841 | [156841-beat-me-if-you-can.json](./156841-beat-me-if-you-can.json) |
@@ -5616,6 +5619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatmania for WonderSwan | 135089 | [135089-beatmania-for-wonderswan.json](./135089-beatmania-for-wonderswan.json) |
 | Beatmania GB | 91769 | [91769-beatmania-gb.json](./91769-beatmania-gb.json) |
 | Beatmania GB2 Gotcha Mix | 92604 | [92604-beatmania-gb2-gotcha-mix.json](./92604-beatmania-gb2-gotcha-mix.json) |
+| Beatmania IIDX | 94920 | [94920-beatmania-iidx.json](./94920-beatmania-iidx.json) |
 | Beatmania IIDX 10th style | 94025 | [94025-beatmania-iidx-10th-style.json](./94025-beatmania-iidx-10th-style.json) |
 | Beatmania IIDX 11 IIDX Red | 94026 | [94026-beatmania-iidx-11-iidx-red.json](./94026-beatmania-iidx-11-iidx-red.json) |
 | Beatmania IIDX 13 DistorteD | 94023 | [94023-beatmania-iidx-13-distorted.json](./94023-beatmania-iidx-13-distorted.json) |
@@ -8027,6 +8031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billiard: VR | 30197 | [30197-billiard-vr.json](./30197-billiard-vr.json) |
 | Billiards | 362425 | [362425-billiards.json](./362425-billiards.json) |
 | Billiards | 55636 | [55636-billiards.json](./55636-billiards.json) |
+| Billiards | 94812 | [94812-billiards.json](./94812-billiards.json) |
 | Billiards Champ 3D | 146731 | [146731-billiards-champ-3d.json](./146731-billiards-champ-3d.json) |
 | Billiards Dungeon | 149079 | [149079-billiards-dungeon.json](./149079-billiards-dungeon.json) |
 | Billiards II Simulator | 14305 | [14305-billiards-ii-simulator.json](./14305-billiards-ii-simulator.json) |
@@ -9962,6 +9967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast X | 97819 | [97819-blast-x.json](./97819-blast-x.json) |
 | Blast-a-Bug! | 324338 | [324338-blast-a-bug.json](./324338-blast-a-bug.json) |
 | Blast-A-Finn | 325375 | [325375-blast-a-finn.json](./325375-blast-a-finn.json) |
+| Blast-A-Way | 94802 | [94802-blast-a-way.json](./94802-blast-a-way.json) |
 | Blast-Axis | 119542 | [119542-blast-axis.json](./119542-blast-axis.json) |
 | Blast-off | 34767 | [34767-blast-off.json](./34767-blast-off.json) |
 | Blast! | 15675 | [15675-blast.json](./15675-blast.json) |
@@ -11749,6 +11755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blossoming Yandere | 114115 | [114115-blossoming-yandere.json](./114115-blossoming-yandere.json) |
 | Blossoms of Eternity | 339815 | [339815-blossoms-of-eternity.json](./339815-blossoms-of-eternity.json) |
 | Blouncy | 278558 | [278558-blouncy.json](./278558-blouncy.json) |
+| Blow | 94834 | [94834-blow.json](./94834-blow.json) |
 | Blow & Fly | 189358 | [189358-blow-and-fly.json](./189358-blow-and-fly.json) |
 | Blow Away | 244885 | [244885-blow-away.json](./244885-blow-away.json) |
 | Blow Away Survivors | 250507 | [250507-blow-away-survivors.json](./250507-blow-away-survivors.json) |
@@ -14347,6 +14354,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bowling | 317634 | [317634-bowling.json](./317634-bowling.json) |
 | Bowling | 358828 | [358828-bowling.json](./358828-bowling.json) |
 | Bowling | 359308 | [359308-bowling.json](./359308-bowling.json) |
+| Bowling | 94813 | [94813-bowling.json](./94813-bowling.json) |
+| Bowling | 94815 | [94815-bowling.json](./94815-bowling.json) |
 | Bowling 2000 | 391790 | [391790-bowling-2000.json](./391790-bowling-2000.json) |
 | Bowling 3D | 42776 | [42776-bowling-3d.json](./42776-bowling-3d.json) |
 | Bowling 3D Extreme | 89226 | [89226-bowling-3d-extreme.json](./89226-bowling-3d-extreme.json) |
