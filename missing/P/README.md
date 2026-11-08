@@ -8732,6 +8732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Shooter | 344264 | [344264-pixel-shooter.json](./344264-pixel-shooter.json) |
 | Pixel Shooter | 44111 | [44111-pixel-shooter.json](./44111-pixel-shooter.json) |
 | Pixel Shooter Infinity | 193712 | [193712-pixel-shooter-infinity.json](./193712-pixel-shooter-infinity.json) |
+| Pixel Shooting 3D | 104202 | [104202-pixel-shooting-3d.json](./104202-pixel-shooting-3d.json) |
 | Pixel Shrine: Jinja | 219913 | [219913-pixel-shrine-jinja.json](./219913-pixel-shrine-jinja.json) |
 | Pixel Skater | 190205 | [190205-pixel-skater.json](./190205-pixel-skater.json) |
 | Pixel Skater | 241699 | [241699-pixel-skater.json](./241699-pixel-skater.json) |
@@ -19027,6 +19028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzlefall | 58177 | [58177-puzzlefall.json](./58177-puzzlefall.json) |
 | Puzzlefun | 88304 | [88304-puzzlefun.json](./88304-puzzlefun.json) |
 | Puzzlegeddon | 21139 | [21139-puzzlegeddon.json](./21139-puzzlegeddon.json) |
+| PuzzleGony | 104178 | [104178-puzzlegony.json](./104178-puzzlegony.json) |
 | Puzzlehub: Businesswoman Hentai | 301663 | [301663-puzzlehub-businesswoman-hentai.json](./301663-puzzlehub-businesswoman-hentai.json) |
 | Puzzlejuice | 22682 | [22682-puzzlejuice.json](./22682-puzzlejuice.json) |
 | PuzzleKid | 133164 | [133164-puzzlekid.json](./133164-puzzlekid.json) |
