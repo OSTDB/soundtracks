@@ -5212,6 +5212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Castle Frankenstein | 305982 | [305982-escape-from-castle-frankenstein.json](./305982-escape-from-castle-frankenstein.json) |
 | Escape From Castle Matsumoto | 322910 | [322910-escape-from-castle-matsumoto.json](./322910-escape-from-castle-matsumoto.json) |
 | Escape From Castle Orochi | 319839 | [319839-escape-from-castle-orochi.json](./319839-escape-from-castle-orochi.json) |
+| Escape from Chernobyl: Jailbreak | 121873 | [121873-escape-from-chernobyl-jailbreak.json](./121873-escape-from-chernobyl-jailbreak.json) |
 | Escape from Classroom | 120018 | [120018-escape-from-classroom.json](./120018-escape-from-classroom.json) |
 | Escape From Clive | 339767 | [339767-escape-from-clive.json](./339767-escape-from-clive.json) |
 | Escape From Cluckov | 378314 | [378314-escape-from-cluckov.json](./378314-escape-from-cluckov.json) |
