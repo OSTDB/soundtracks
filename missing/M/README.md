@@ -899,6 +899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magazine Mogul | 135642 | [135642-magazine-mogul.json](./135642-magazine-mogul.json) |
 | Magdalena | 33779 | [33779-magdalena.json](./33779-magdalena.json) |
 | Magdalene | 277491 | [277491-magdalene.json](./277491-magdalene.json) |
+| Mage | 120467 | [120467-mage.json](./120467-mage.json) |
 | MAGE | 400712 | [400712-mage.json](./400712-mage.json) |
 | Mage and Minions | 15468 | [15468-mage-and-minions.json](./15468-mage-and-minions.json) |
 | Mage and Monsters | 209682 | [209682-mage-and-monsters.json](./209682-mage-and-monsters.json) |
@@ -10299,6 +10300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Exodus: Sam's Story | 121756 | [121756-metro-exodus-sams-story.json](./121756-metro-exodus-sams-story.json) |
 | Metro Exodus: Spartan Collector's Edition | 112094 | [112094-metro-exodus-spartan-collectors-edition.json](./112094-metro-exodus-spartan-collectors-edition.json) |
 | Metro Exodus: The Two Colonels | 121753 | [121753-metro-exodus-the-two-colonels.json](./121753-metro-exodus-the-two-colonels.json) |
+| Metro Explosion Simulator | 120456 | [120456-metro-explosion-simulator.json](./120456-metro-explosion-simulator.json) |
 | Metro Franchise Bundle | 154180 | [154180-metro-franchise-bundle.json](./154180-metro-franchise-bundle.json) |
 | Metro Gravity | 310157 | [310157-metro-gravity.json](./310157-metro-gravity.json) |
 | Metro Manager LA | 224706 | [224706-metro-manager-la.json](./224706-metro-manager-la.json) |
@@ -14104,6 +14106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Angel Angelic Pink | 82908 | [82908-mission-angel-angelic-pink.json](./82908-mission-angel-angelic-pink.json) |
 | Mission Asteroid | 7655 | [7655-mission-asteroid.json](./7655-mission-asteroid.json) |
 | Mission Attack | 42136 | [42136-mission-attack.json](./42136-mission-attack.json) |
+| Mission B | 120473 | [120473-mission-b.json](./120473-mission-b.json) |
 | Mission Biotech | 159792 | [159792-mission-biotech.json](./159792-mission-biotech.json) |
 | Mission Bravo | 295040 | [295040-mission-bravo.json](./295040-mission-bravo.json) |
 | Mission Commando | 223744 | [223744-mission-commando.json](./223744-mission-commando.json) |
@@ -22610,6 +22613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mythica Adventures | 216626 | [216626-mythica-adventures.json](./216626-mythica-adventures.json) |
 | Mythical | 114213 | [114213-mythical.json](./114213-mythical.json) |
 | Mythical Agent | 249650 | [249650-mythical-agent.json](./249650-mythical-agent.json) |
+| Mythical Boom Party | 120463 | [120463-mythical-boom-party.json](./120463-mythical-boom-party.json) |
 | Mythical Concept Starnaut | 272387 | [272387-mythical-concept-starnaut.json](./272387-mythical-concept-starnaut.json) |
 | Mythical Haven | 419979 | [419979-mythical-haven.json](./419979-mythical-haven.json) |
 | Mythical Hearts | 299027 | [299027-mythical-hearts.json](./299027-mythical-hearts.json) |
