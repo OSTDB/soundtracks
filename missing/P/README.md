@@ -184,7 +184,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man | 292000 | [292000-pac-man.json](./292000-pac-man.json) |
 | Pac-Man | 311349 | [311349-pac-man.json](./311349-pac-man.json) |
 | Pac-Man | 63639 | [63639-pac-man.json](./63639-pac-man.json) |
-| Pac-Man | 88904 | [88904-pac-man.json](./88904-pac-man.json) |
 | Pac-Man (speedup) | 308719 | [308719-pac-man-speedup.json](./308719-pac-man-speedup.json) |
 | Pac-Man & Galaga Dimensions | 6861 | [6861-pac-man-and-galaga-dimensions.json](./6861-pac-man-and-galaga-dimensions.json) |
 | Pac-Man 12-in-1 Legacy Series | 253713 | [253713-pac-man-12-in-1-legacy-series.json](./253713-pac-man-12-in-1-legacy-series.json) |
@@ -3167,6 +3166,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PathPix Color | 106552 | [106552-pathpix-color.json](./106552-pathpix-color.json) |
 | PathPix Edge | 108498 | [108498-pathpix-edge.json](./108498-pathpix-edge.json) |
 | PathPix Joy | 106880 | [106880-pathpix-joy.json](./106880-pathpix-joy.json) |
+| PathPix Max | 107336 | [107336-pathpix-max.json](./107336-pathpix-max.json) |
+| PathPix Time | 107333 | [107333-pathpix-time.json](./107333-pathpix-time.json) |
 | Paths & Danger | 150957 | [150957-paths-and-danger.json](./150957-paths-and-danger.json) |
 | Paths of Fight: Samurai | 249845 | [249845-paths-of-fight-samurai.json](./249845-paths-of-fight-samurai.json) |
 | Paths of the Sentinels | 199277 | [199277-paths-of-the-sentinels.json](./199277-paths-of-the-sentinels.json) |
@@ -3295,7 +3296,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pavephobia | 259047 | [259047-pavephobia.json](./259047-pavephobia.json) |
 | Paver Simulator | 265554 | [265554-paver-simulator.json](./265554-paver-simulator.json) |
 | Paver: Tidy Up Together | 414817 | [414817-paver-tidy-up-together.json](./414817-paver-tidy-up-together.json) |
-| Pavilion | 24963 | [24963-pavilion.json](./24963-pavilion.json) |
 | Pavilion: Touch Edition | 90801 | [90801-pavilion-touch-edition.json](./90801-pavilion-touch-edition.json) |
 | Pavlov VR | 30548 | [30548-pavlov-vr.json](./30548-pavlov-vr.json) |
 | Pavlov's House | 153322 | [153322-pavlovs-house.json](./153322-pavlovs-house.json) |
@@ -5137,6 +5137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pets and Girls | 286446 | [286446-pets-and-girls.json](./286446-pets-and-girls.json) |
 | Pets at Work | 190153 | [190153-pets-at-work.json](./190153-pets-at-work.json) |
 | Pets Crossing | 247028 | [247028-pets-crossing.json](./247028-pets-crossing.json) |
+| Pets Dash! | 107343 | [107343-pets-dash.json](./107343-pets-dash.json) |
 | Pets Fun House | 90466 | [90466-pets-fun-house.json](./90466-pets-fun-house.json) |
 | Pets Hidden In The Office | 379068 | [379068-pets-hidden-in-the-office.json](./379068-pets-hidden-in-the-office.json) |
 | Pets Hotel | 216607 | [216607-pets-hotel.json](./216607-pets-hotel.json) |
@@ -5163,6 +5164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pettson's Inventions 3 | 56887 | [56887-pettsons-inventions-3.json](./56887-pettsons-inventions-3.json) |
 | Pettson's Inventions 4 | 352523 | [352523-pettsons-inventions-4.json](./352523-pettsons-inventions-4.json) |
 | Pettsons julspel | 286111 | [286111-pettsons-julspel.json](./286111-pettsons-julspel.json) |
+| Pettsons Pussel | 107332 | [107332-pettsons-pussel.json](./107332-pettsons-pussel.json) |
 | Petty Officer | 301468 | [301468-petty-officer.json](./301468-petty-officer.json) |
 | Petty Puny Planet | 134788 | [134788-petty-puny-planet.json](./134788-petty-puny-planet.json) |
 | Petty Ungodliness | 411757 | [411757-petty-ungodliness.json](./411757-petty-ungodliness.json) |
@@ -9066,6 +9068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Delivery in a Storm | 319185 | [319185-pizza-delivery-in-a-storm.json](./319185-pizza-delivery-in-a-storm.json) |
 | Pizza Delivery Survivors | 320270 | [320270-pizza-delivery-survivors.json](./320270-pizza-delivery-survivors.json) |
 | Pizza Delivery: A Short Thriller | 305364 | [305364-pizza-delivery-a-short-thriller.json](./305364-pizza-delivery-a-short-thriller.json) |
+| Pizza Delivery: Driving Simulator | 107350 | [107350-pizza-delivery-driving-simulator.json](./107350-pizza-delivery-driving-simulator.json) |
 | Pizza Delivery: The Game | 110019 | [110019-pizza-delivery-the-game.json](./110019-pizza-delivery-the-game.json) |
 | Pizza Delivery: Zebaxx | 276189 | [276189-pizza-delivery-zebaxx.json](./276189-pizza-delivery-zebaxx.json) |
 | Pizza Dude | 93301 | [93301-pizza-dude.json](./93301-pizza-dude.json) |
