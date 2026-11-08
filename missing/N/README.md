@@ -7210,6 +7210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Genetics | 160073 | [160073-nova-genetics.json](./160073-nova-genetics.json) |
 | Nova Golf | 89242 | [89242-nova-golf.json](./89242-nova-golf.json) |
 | Nova Hunter | 385520 | [385520-nova-hunter.json](./385520-nova-hunter.json) |
+| Nova II: New Dawn | 138903 | [138903-nova-ii-new-dawn.json](./138903-nova-ii-new-dawn.json) |
 | Nova III | 139027 | [139027-nova-iii.json](./139027-nova-iii.json) |
 | Nova Impact | 405521 | [405521-nova-impact.json](./405521-nova-impact.json) |
 | Nova Island | 144768 | [144768-nova-island.json](./144768-nova-island.json) |
