@@ -3782,6 +3782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for Mars | 91783 | [91783-battle-for-mars.json](./91783-battle-for-mars.json) |
 | Battle for Midway | 13382 | [13382-battle-for-midway.json](./13382-battle-for-midway.json) |
 | Battle for Moscow | 419090 | [419090-battle-for-moscow.json](./419090-battle-for-moscow.json) |
+| Battle for Mountain Throne | 81608 | [81608-battle-for-mountain-throne.json](./81608-battle-for-mountain-throne.json) |
 | Battle For Murkuh! | 95763 | [95763-battle-for-murkuh.json](./95763-battle-for-murkuh.json) |
 | Battle for Normandy | 21866 | [21866-battle-for-normandy.json](./21866-battle-for-normandy.json) |
 | Battle for Orion 2 | 30279 | [30279-battle-for-orion-2.json](./30279-battle-for-orion-2.json) |
@@ -7997,6 +7998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikmin 269 | 250149 | [250149-bikmin-269.json](./250149-bikmin-269.json) |
 | Bikmin 269 DX: Director's Cut | 321833 | [321833-bikmin-269-dx-directors-cut.json](./321833-bikmin-269-dx-directors-cut.json) |
 | Biko 2: Reversible Face | 22351 | [22351-biko-2-reversible-face.json](./22351-biko-2-reversible-face.json) |
+| Bikour! | 81586 | [81586-bikour.json](./81586-bikour.json) |
 | Bikrash | 180527 | [180527-bikrash.json](./180527-bikrash.json) |
 | Bilal Go! | 160038 | [160038-bilal-go.json](./160038-bilal-go.json) |
 | Bilateral Table Tennis | 288355 | [288355-bilateral-table-tennis.json](./288355-bilateral-table-tennis.json) |
@@ -10267,6 +10269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bleap | 352247 | [352247-bleap.json](./352247-bleap.json) |
 | Bleb | 346792 | [346792-bleb.json](./346792-bleb.json) |
 | Blebrity | 89176 | [89176-blebrity.json](./89176-blebrity.json) |
+| Bled Navalny | 81585 | [81585-bled-navalny.json](./81585-bled-navalny.json) |
 | Bleed | 9706 | [9706-bleed.json](./9706-bleed.json) |
 | Bleed + Bleed 2: Limited Edition | 167059 | [167059-bleed-bleed-2-limited-edition.json](./167059-bleed-bleed-2-limited-edition.json) |
 | Bleed 2 | 26725 | [26725-bleed-2.json](./26725-bleed-2.json) |
@@ -11046,6 +11049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blocky McBlockFace | 114272 | [114272-blocky-mcblockface.json](./114272-blocky-mcblockface.json) |
 | Blocky Monsters Smash | 100195 | [100195-blocky-monsters-smash.json](./100195-blocky-monsters-smash.json) |
 | Blocky Parkour 3D | 101089 | [101089-blocky-parkour-3d.json](./101089-blocky-parkour-3d.json) |
+| Blocky Racing | 81582 | [81582-blocky-racing.json](./81582-blocky-racing.json) |
 | Blocky Raider | 58202 | [58202-blocky-raider.json](./58202-blocky-raider.json) |
 | Blocky Roads | 23413 | [23413-blocky-roads.json](./23413-blocky-roads.json) |
 | Blocky Roads Winterland | 239240 | [239240-blocky-roads-winterland.json](./239240-blocky-roads-winterland.json) |
@@ -16856,6 +16860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bird 2018 | 106783 | [106783-bubble-bird-2018.json](./106783-bubble-bird-2018.json) |
 | Bubble Blast | 304262 | [304262-bubble-blast.json](./304262-bubble-blast.json) |
 | Bubble Blast Rescue | 89036 | [89036-bubble-blast-rescue.json](./89036-bubble-blast-rescue.json) |
+| Bubble Blast Rescue VR | 81595 | [81595-bubble-blast-rescue-vr.json](./81595-bubble-blast-rescue-vr.json) |
 | Bubble Blaster DX | 314608 | [314608-bubble-blaster-dx.json](./314608-bubble-blaster-dx.json) |
 | Bubble Blaze | 323092 | [323092-bubble-blaze.json](./323092-bubble-blaze.json) |
 | Bubble Blobb | 386703 | [386703-bubble-blobb.json](./386703-bubble-blobb.json) |
