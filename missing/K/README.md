@@ -1759,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemono Friends 3 | 114000 | [114000-kemono-friends-3.json](./114000-kemono-friends-3.json) |
 | Kemono Friends 3: Planet Tours | 114001 | [114001-kemono-friends-3-planet-tours.json](./114001-kemono-friends-3-planet-tours.json) |
 | Kemono Friends Festival | 327934 | [327934-kemono-friends-festival.json](./327934-kemono-friends-festival.json) |
+| Kemono Friends Jump | 82255 | [82255-kemono-friends-jump.json](./82255-kemono-friends-jump.json) |
 | Kemono Friends Pavilion | 214738 | [214738-kemono-friends-pavilion.json](./214738-kemono-friends-pavilion.json) |
 | Kemono Friends Picross | 107655 | [107655-kemono-friends-picross.json](./107655-kemono-friends-picross.json) |
 | Kemono Friends: Cellien May Cry | 199376 | [199376-kemono-friends-cellien-may-cry.json](./199376-kemono-friends-cellien-may-cry.json) |
@@ -6419,6 +6420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kuru-kuru Panic | 222816 | [222816-kuru-kuru-panic.json](./222816-kuru-kuru-panic.json) |
 | Kuru-kuru Puzzle Nihon no Rekishi | 264953 | [264953-kuru-kuru-puzzle-nihon-no-rekishi.json](./264953-kuru-kuru-puzzle-nihon-no-rekishi.json) |
 | Kuru-kuru Puzzle Sekai-shi B | 276465 | [276465-kuru-kuru-puzzle-sekai-shi-b.json](./276465-kuru-kuru-puzzle-sekai-shi-b.json) |
+| Kurubushi Kyoudai Gekijou: 1st Maki Mahjong-hen | 82272 | [82272-kurubushi-kyoudai-gekijou-1st-maki-mahjong-hen.json](./82272-kurubushi-kyoudai-gekijou-1st-maki-mahjong-hen.json) |
 | Kuruki-chan the Cat | 419958 | [419958-kuruki-chan-the-cat.json](./419958-kuruki-chan-the-cat.json) |
 | Kurukshetra: Ascension | 188750 | [188750-kurukshetra-ascension.json](./188750-kurukshetra-ascension.json) |
 | KuruKuru MaruMaru | 263956 | [263956-kurukuru-marumaru.json](./263956-kurukuru-marumaru.json) |
