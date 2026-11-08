@@ -1640,6 +1640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sands of Solaris | 255490 | [255490-sands-of-solaris.json](./255490-sands-of-solaris.json) |
 | Sands of the Coliseum | 95941 | [95941-sands-of-the-coliseum.json](./95941-sands-of-the-coliseum.json) |
 | SandShifter | 181463 | [181463-sandshifter.json](./181463-sandshifter.json) |
+| Sandship | 130502 | [130502-sandship.json](./130502-sandship.json) |
 | Sandspiel | 146869 | [146869-sandspiel.json](./146869-sandspiel.json) |
 | Sandstorm | 30707 | [30707-sandstorm.json](./30707-sandstorm.json) |
 | Sandstorm Strike Force | 288294 | [288294-sandstorm-strike-force.json](./288294-sandstorm-strike-force.json) |
@@ -5571,6 +5572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senna Oaks Spaceship Trip | 202943 | [202943-senna-oaks-spaceship-trip.json](./202943-senna-oaks-spaceship-trip.json) |
 | Sennen Dokei | 381520 | [381520-sennen-dokei.json](./381520-sennen-dokei.json) |
 | Sennen Kazoku | 6586 | [6586-sennen-kazoku.json](./6586-sennen-kazoku.json) |
+| Sennen Sensou Aigis | 130499 | [130499-sennen-sensou-aigis.json](./130499-sennen-sensou-aigis.json) |
 | Senninha | 281875 | [281875-senninha.json](./281875-senninha.json) |
 | Senninha GP Racing | 203290 | [203290-senninha-gp-racing.json](./203290-senninha-gp-racing.json) |
 | Sennou Millennium | 37488 | [37488-sennou-millennium.json](./37488-sennou-millennium.json) |
@@ -11287,6 +11289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple DS Series vol. 39: The Shouboutai | 266677 | [266677-simple-ds-series-vol-39-the-shouboutai.json](./266677-simple-ds-series-vol-39-the-shouboutai.json) |
 | Simple DS Series Vol. 43: The Host Shiyouze! DX Knight King | 63621 | [63621-simple-ds-series-vol-43-the-host-shiyouze-dx-knight-king.json](./63621-simple-ds-series-vol-43-the-host-shiyouze-dx-knight-king.json) |
 | Simple DS Series Vol. 44: The Gal Mahjong | 63620 | [63620-simple-ds-series-vol-44-the-gal-mahjong.json](./63620-simple-ds-series-vol-44-the-gal-mahjong.json) |
+| Simple DS Series Vol. 8: The Kanshikikan - Kinkyuu Shutsudou!! Jiken Genba wo Touch Seyo! | 130463 | [130463-simple-ds-series-vol-8-the-kanshikikan-kinkyuu-shutsudou-jiken-genba-wo-touch-seyo.json](./130463-simple-ds-series-vol-8-the-kanshikikan-kinkyuu-shutsudou-jiken-genba-wo-touch-seyo.json) |
 | Simple DS Series Vol. 9: Atama ga Yoku Naru - The Me no Training | 203403 | [203403-simple-ds-series-vol-9-atama-ga-yoku-naru-the-me-no-training.json](./203403-simple-ds-series-vol-9-atama-ga-yoku-naru-the-me-no-training.json) |
 | Simple DS Series Vol.48: The Saibanin - 1-tsu no Shinjitsu, 6-tsu no Kotae | 63622 | [63622-simple-ds-series-vol-48-the-saibanin-1-tsu-no-shinjitsu-6-tsu-no-kotae.json](./63622-simple-ds-series-vol-48-the-saibanin-1-tsu-no-shinjitsu-6-tsu-no-kotae.json) |
 | Simple Duel | 336976 | [336976-simple-duel.json](./336976-simple-duel.json) |
@@ -19986,6 +19989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Hunk | 63195 | [63195-space-hunk.json](./63195-space-hunk.json) |
 | Space Hunt | 421794 | [421794-space-hunt.json](./421794-space-hunt.json) |
 | Space Hunted | 84892 | [84892-space-hunted.json](./84892-space-hunted.json) |
+| Space Hunted: The Lost Levels | 129956 | [129956-space-hunted-the-lost-levels.json](./129956-space-hunted-the-lost-levels.json) |
 | Space Hunter | 142222 | [142222-space-hunter.json](./142222-space-hunter.json) |
 | Space Hunter | 142578 | [142578-space-hunter.json](./142578-space-hunter.json) |
 | Space Hunter | 230705 | [230705-space-hunter.json](./230705-space-hunter.json) |
@@ -35881,6 +35885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swiper | 127231 | [127231-swiper.json](./127231-swiper.json) |
 | Swiper | 240190 | [240190-swiper.json](./240190-swiper.json) |
 | Swiper's Big Adventure | 299289 | [299289-swipers-big-adventure.json](./299289-swipers-big-adventure.json) |
+| SwipeScape | 130459 | [130459-swipescape.json](./130459-swipescape.json) |
 | Swipey Maze | 233085 | [233085-swipey-maze.json](./233085-swipey-maze.json) |
 | Swipez Puzzle | 175083 | [175083-swipez-puzzle.json](./175083-swipez-puzzle.json) |
 | Swire Future | 158125 | [158125-swire-future.json](./158125-swire-future.json) |
