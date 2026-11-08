@@ -15203,7 +15203,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Breed | 6791 | [6791-dragon-breed.json](./6791-dragon-breed.json) |
 | Dragon Bride | 134607 | [134607-dragon-bride.json](./134607-dragon-bride.json) |
 | Dragon Bros: Collector's Edition | 52946 | [52946-dragon-bros-collectors-edition.json](./52946-dragon-bros-collectors-edition.json) |
-| Dragon Buster | 38035 | [38035-dragon-buster.json](./38035-dragon-buster.json) |
 | Dragon Buster 100 | 243831 | [243831-dragon-buster-100.json](./243831-dragon-buster-100.json) |
 | Dragon Buster II: Yami no Fuuin | 48521 | [48521-dragon-buster-ii-yami-no-fuuin.json](./48521-dragon-buster-ii-yami-no-fuuin.json) |
 | Dragon Buurrp! | 304956 | [304956-dragon-buurrp.json](./304956-dragon-buurrp.json) |
@@ -17948,6 +17947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ducks | 314263 | [314263-ducks.json](./314263-ducks.json) |
 | Ducks | 329054 | [329054-ducks.json](./329054-ducks.json) |
 | Ducks Ahoy! | 76603 | [76603-ducks-ahoy.json](./76603-ducks-ahoy.json) |
+| Ducks and Gooobers | 108006 | [108006-ducks-and-gooobers.json](./108006-ducks-and-gooobers.json) |
 | Ducks Can Drive | 255159 | [255159-ducks-can-drive.json](./255159-ducks-can-drive.json) |
 | Ducks Can Drive: Penguins Can Too | 264769 | [264769-ducks-can-drive-penguins-can-too.json](./264769-ducks-can-drive-penguins-can-too.json) |
 | Ducks in a Row | 208268 | [208268-ducks-in-a-row.json](./208268-ducks-in-a-row.json) |
