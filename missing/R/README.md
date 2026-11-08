@@ -450,6 +450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Apex | 58661 | [58661-racing-apex.json](./58661-racing-apex.json) |
 | Racing Battle: C1 Grand Prix | 216591 | [216591-racing-battle-c1-grand-prix.json](./216591-racing-battle-c1-grand-prix.json) |
 | Racing Beat | 40393 | [40393-racing-beat.json](./40393-racing-beat.json) |
+| Racing Bike Fight | 128095 | [128095-racing-bike-fight.json](./128095-racing-bike-fight.json) |
 | Racing Bros | 135604 | [135604-racing-bros.json](./135604-racing-bros.json) |
 | Racing Bros: Mafias Revenge | 308326 | [308326-racing-bros-mafias-revenge.json](./308326-racing-bros-mafias-revenge.json) |
 | Racing Bros: Online | 150374 | [150374-racing-bros-online.json](./150374-racing-bros-online.json) |
@@ -1715,6 +1716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rami-chan no Ooedo Sugoroku: Keio Yuugeki-tai Gaiden | 66215 | [66215-rami-chan-no-ooedo-sugoroku-keio-yuugeki-tai-gaiden.json](./66215-rami-chan-no-ooedo-sugoroku-keio-yuugeki-tai-gaiden.json) |
 | Ramiel | 163093 | [163093-ramiel.json](./163093-ramiel.json) |
 | Ramify | 31153 | [31153-ramify.json](./31153-ramify.json) |
+| Ramiwo | 128127 | [128127-ramiwo.json](./128127-ramiwo.json) |
 | Ramming Turtleship: 1592 - The Imjin War | 390000 | [390000-ramming-turtleship-1592-the-imjin-war.json](./390000-ramming-turtleship-1592-the-imjin-war.json) |
 | Rammy No Daibouken | 174553 | [174553-rammy-no-daibouken.json](./174553-rammy-no-daibouken.json) |
 | Rammy No Daibouken Ⅱ | 174128 | [174128-rammy-no-daibouken-ii.json](./174128-rammy-no-daibouken-ii.json) |
@@ -2751,6 +2753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reach 50 : Sexy Hentai Girls | 113312 | [113312-reach-50-sexy-hentai-girls.json](./113312-reach-50-sexy-hentai-girls.json) |
 | Reach Charon | 269561 | [269561-reach-charon.json](./269561-reach-charon.json) |
 | Reach Classic | 109229 | [109229-reach-classic.json](./109229-reach-classic.json) |
+| Reach Coin | 128120 | [128120-reach-coin.json](./128120-reach-coin.json) |
 | Reach for the Skies | 12740 | [12740-reach-for-the-skies.json](./12740-reach-for-the-skies.json) |
 | Reach for the Sky | 133671 | [133671-reach-for-the-sky.json](./133671-reach-for-the-sky.json) |
 | Reach for the Stars | 324585 | [324585-reach-for-the-stars.json](./324585-reach-for-the-stars.json) |
@@ -4374,6 +4377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reefland | 190351 | [190351-reefland.json](./190351-reefland.json) |
 | Reefland Odyssey | 244192 | [244192-reefland-odyssey.json](./244192-reefland-odyssey.json) |
 | Reefling | 414170 | [414170-reefling.json](./414170-reefling.json) |
+| Reek | 128094 | [128094-reek.json](./128094-reek.json) |
 | Reek N' Havok | 167254 | [167254-reek-n-havok.json](./167254-reek-n-havok.json) |
 | Reel | 205100 | [205100-reel.json](./205100-reel.json) |
 | Reel Deal Card Games | 77387 | [77387-reel-deal-card-games.json](./77387-reel-deal-card-games.json) |
