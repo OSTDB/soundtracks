@@ -572,6 +572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rad Racer II | 48091 | [48091-rad-racer-ii.json](./48091-rad-racer-ii.json) |
 | Rad Racket: Deluxe Tennis II | 48212 | [48212-rad-racket-deluxe-tennis-ii.json](./48212-rad-racket-deluxe-tennis-ii.json) |
 | Rad Rally | 39569 | [39569-rad-rally.json](./39569-rad-rally.json) |
+| Rad Ramp Racer | 125540 | [125540-rad-ramp-racer.json](./125540-rad-ramp-racer.json) |
 | Rad Raygun | 63779 | [63779-rad-raygun.json](./63779-rad-raygun.json) |
 | Rad Road Rally | 185206 | [185206-rad-road-rally.json](./185206-rad-road-rally.json) |
 | Rad Rocket | 138516 | [138516-rad-rocket.json](./138516-rad-rocket.json) |
