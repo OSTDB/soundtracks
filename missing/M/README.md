@@ -6047,6 +6047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6352,6 +6353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze of Terror | 347485 | [347485-maze-of-terror.json](./347485-maze-of-terror.json) |
 | Maze of the Gamja | 211920 | [211920-maze-of-the-gamja.json](./211920-maze-of-the-gamja.json) |
 | Maze of the Mini-taur | 185126 | [185126-maze-of-the-mini-taur.json](./185126-maze-of-the-mini-taur.json) |
+| Maze of Time VR | 115248 | [115248-maze-of-time-vr.json](./115248-maze-of-time-vr.json) |
 | Maze of Wires | 342177 | [342177-maze-of-wires.json](./342177-maze-of-wires.json) |
 | Maze Pak | 247027 | [247027-maze-pak.json](./247027-maze-pak.json) |
 | Maze Panic | 92157 | [92157-maze-panic.json](./92157-maze-panic.json) |
@@ -11369,6 +11371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Drifter: Drift Racing Car Racing Driving Simulator - Premium Edition | 280618 | [280618-midnight-drifter-drift-racing-car-racing-driving-simulator-premium-edition.json](./280618-midnight-drifter-drift-racing-car-racing-driving-simulator-premium-edition.json) |
 | Midnight Dungeon | 179719 | [179719-midnight-dungeon.json](./179719-midnight-dungeon.json) |
 | Midnight DX | 221369 | [221369-midnight-dx.json](./221369-midnight-dx.json) |
+| Midnight Evil | 115251 | [115251-midnight-evil.json](./115251-midnight-evil.json) |
 | Midnight Faerie | 176371 | [176371-midnight-faerie.json](./176371-midnight-faerie.json) |
 | Midnight Feast | 118318 | [118318-midnight-feast.json](./118318-midnight-feast.json) |
 | Midnight Files | 374015 | [374015-midnight-files.json](./374015-midnight-files.json) |
@@ -16806,6 +16809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monumentum | 361074 | [361074-monumentum.json](./361074-monumentum.json) |
 | Monza Legends: Classic Grand Prix 1950 | 356989 | [356989-monza-legends-classic-grand-prix-1950.json](./356989-monza-legends-classic-grand-prix-1950.json) |
 | Monzo VR | 26829 | [26829-monzo-vr.json](./26829-monzo-vr.json) |
+| Monzo: Digital Model Builder | 115192 | [115192-monzo-digital-model-builder.json](./115192-monzo-digital-model-builder.json) |
 | Moo & Move | 316805 | [316805-moo-and-move.json](./316805-moo-and-move.json) |
 | Moo & Move: Extra Grazing Grounds | 328251 | [328251-moo-and-move-extra-grazing-grounds.json](./328251-moo-and-move-extra-grazing-grounds.json) |
 | Moo at the Moon | 71542 | [71542-moo-at-the-moon.json](./71542-moo-at-the-moon.json) |
