@@ -6060,6 +6060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DejaVu by dropout.tv | 299994 | [299994-dejavu-by-dropout-tv.json](./299994-dejavu-by-dropout-tv.json) |
 | Dejection: An Ode | 57901 | [57901-dejection-an-ode.json](./57901-dejection-an-ode.json) |
 | Dejig: Aqua World | 300274 | [300274-dejig-aqua-world.json](./300274-dejig-aqua-world.json) |
+| Dejig: Lassen Art Collection | 133580 | [133580-dejig-lassen-art-collection.json](./133580-dejig-lassen-art-collection.json) |
 | Dejig: McKnight Art Collection | 307645 | [307645-dejig-mcknight-art-collection.json](./307645-dejig-mcknight-art-collection.json) |
 | Dejig: Tin Toy | 299789 | [299789-dejig-tin-toy.json](./299789-dejig-tin-toy.json) |
 | Dejiko no Mahjong Party | 92611 | [92611-dejiko-no-mahjong-party.json](./92611-dejiko-no-mahjong-party.json) |
@@ -11373,6 +11374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJ Puff's Volcanic Capers | 47215 | [47215-dj-puffs-volcanic-capers.json](./47215-dj-puffs-volcanic-capers.json) |
 | DJ Simulator | 303479 | [303479-dj-simulator.json](./303479-dj-simulator.json) |
 | DJ Star | 21243 | [21243-dj-star.json](./21243-dj-star.json) |
+| DJ Wars | 133571 | [133571-dj-wars.json](./133571-dj-wars.json) |
 | DJ Whip VR | 110693 | [110693-dj-whip-vr.json](./110693-dj-whip-vr.json) |
 | DJ Word Master | 105837 | [105837-dj-word-master.json](./105837-dj-word-master.json) |
 | DJ: Decks & FX - Claudio Coccoluto Edition | 269401 | [269401-dj-decks-and-fx-claudio-coccoluto-edition.json](./269401-dj-decks-and-fx-claudio-coccoluto-edition.json) |
