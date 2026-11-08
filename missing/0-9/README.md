@@ -1541,6 +1541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2 Games in 1 Double Pack: Scooby-Doo and the Cyber Chase + Scooby-Doo! Mystery Mayhem | 84265 | [84265-2-games-in-1-double-pack-scooby-doo-and-the-cyber-chase-scooby-doo-mystery-mayhem.json](./84265-2-games-in-1-double-pack-scooby-doo-and-the-cyber-chase-scooby-doo-mystery-mayhem.json) |
 | 2 Games in 1 Double Pack: SpongeBob SquarePants - Battle for Bikini Bottom / Nicktoons: Freeze Frame Frenzy | 288197 | [288197-2-games-in-1-double-pack-spongebob-squarepants-battle-for-bikini-bottom-nicktoons-freeze-frame-frenzy.json](./288197-2-games-in-1-double-pack-spongebob-squarepants-battle-for-bikini-bottom-nicktoons-freeze-frame-frenzy.json) |
 | 2 Games in 1 I Finding Nemo + Finding Nemo: The Continuing Adventures | 130301 | [130301-2-games-in-1-i-finding-nemo-finding-nemo-the-continuing-adventures.json](./130301-2-games-in-1-i-finding-nemo-finding-nemo-the-continuing-adventures.json) |
+| 2 Games in 1 I GT 3 Advance: Pro Concept Racing + Moto GP: Ultimate Racing Technology | 80717 | [80717-2-games-in-1-i-gt-3-advance-pro-concept-racing-moto-gp-ultimate-racing-technology.json](./80717-2-games-in-1-i-gt-3-advance-pro-concept-racing-moto-gp-ultimate-racing-technology.json) |
 | 2 Games in 1 I My Western Horse 3D + My Riding Stables 3D: Jumping for the Team | 144529 | [144529-2-games-in-1-i-my-western-horse-3d-my-riding-stables-3d-jumping-for-the-team.json](./144529-2-games-in-1-i-my-western-horse-3d-my-riding-stables-3d-jumping-for-the-team.json) |
 | 2 Games In 1: Cartoon Network Block Party & Cartoon Network Speedway | 77825 | [77825-2-games-in-1-cartoon-network-block-party-and-cartoon-network-speedway.json](./77825-2-games-in-1-cartoon-network-block-party-and-cartoon-network-speedway.json) |
 | 2 Games in 1: Columns Crown + ChuChu Rocket! | 86052 | [86052-2-games-in-1-columns-crown-chuchu-rocket.json](./86052-2-games-in-1-columns-crown-chuchu-rocket.json) |
@@ -2751,6 +2752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Months of You | 165650 | [165650-4-months-of-you.json](./165650-4-months-of-you.json) |
 | 4 Moohrhuhn Teile | 282438 | [282438-4-moohrhuhn-teile.json](./282438-4-moohrhuhn-teile.json) |
 | 4 of Clubs | 308270 | [308270-4-of-clubs.json](./308270-4-of-clubs.json) |
+| 4 Pak All Action | 80748 | [80748-4-pak-all-action.json](./80748-4-pak-all-action.json) |
 | 4 Penny Coffins | 396126 | [396126-4-penny-coffins.json](./396126-4-penny-coffins.json) |
 | 4 Pics 1 Word | 63105 | [63105-4-pics-1-word.json](./63105-4-pics-1-word.json) |
 | 4 Pics 1 Word Quiz | 103685 | [103685-4-pics-1-word-quiz.json](./103685-4-pics-1-word-quiz.json) |
@@ -3415,6 +3417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 8-Bit Invaders!: Deluxe Edition | 118504 | [118504-8-bit-invaders-deluxe-edition.json](./118504-8-bit-invaders-deluxe-edition.json) |
 | 8-Bit Jump 4 | 377122 | [377122-8-bit-jump-4.json](./377122-8-bit-jump-4.json) |
 | 8-Bit Mini Mayhem | 65418 | [65418-8-bit-mini-mayhem.json](./65418-8-bit-mini-mayhem.json) |
+| 8-Bit Night | 80726 | [80726-8-bit-night.json](./80726-8-bit-night.json) |
 | 8-Bit Panda | 136343 | [136343-8-bit-panda.json](./136343-8-bit-panda.json) |
 | 8-Bit Rebellion! | 255180 | [255180-8-bit-rebellion.json](./255180-8-bit-rebellion.json) |
 | 8-Bit Rhythm Land | 195498 | [195498-8-bit-rhythm-land.json](./195498-8-bit-rhythm-land.json) |
