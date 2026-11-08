@@ -723,6 +723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddworld: Soulstorm Oddtimized Edition | 222891 | [222891-oddworld-soulstorm-oddtimized-edition.json](./222891-oddworld-soulstorm-oddtimized-edition.json) |
 | Oddworld: Squeek's Oddysee | 65861 | [65861-oddworld-squeeks-oddysee.json](./65861-oddworld-squeeks-oddysee.json) |
 | Oddworld: Stranger's Wrath | 1002 | [1002-oddworld-strangers-wrath.json](./1002-oddworld-strangers-wrath.json) |
+| Oddworld: Stranger's Wrath HD - Limited Edition | 136003 | [136003-oddworld-strangers-wrath-hd-limited-edition.json](./136003-oddworld-strangers-wrath-hd-limited-edition.json) |
 | Oddworld: The Oddbox | 121444 | [121444-oddworld-the-oddbox.json](./121444-oddworld-the-oddbox.json) |
 | Oddy's Lost and Found | 257071 | [257071-oddys-lost-and-found.json](./257071-oddys-lost-and-found.json) |
 | Oddyssey: Your Space, Your Way | 163736 | [163736-oddyssey-your-space-your-way.json](./163736-oddyssey-your-space-your-way.json) |
@@ -1986,6 +1987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OMSI 2: K-Bergbahn | 155139 | [155139-omsi-2-k-bergbahn.json](./155139-omsi-2-k-bergbahn.json) |
 | OMSI 2: Köln | 155118 | [155118-omsi-2-koln.json](./155118-omsi-2-koln.json) |
 | OMSI 2: Leitstellen-Simulator | 155145 | [155145-omsi-2-leitstellen-simulator.json](./155145-omsi-2-leitstellen-simulator.json) |
+| OMSI 2: London | 136026 | [136026-omsi-2-london.json](./136026-omsi-2-london.json) |
 | OMSI 2: Luzern - Linie 24 | 155131 | [155131-omsi-2-luzern-linie-24.json](./155131-omsi-2-luzern-linie-24.json) |
 | OMSI 2: Mallorca | 155115 | [155115-omsi-2-mallorca.json](./155115-omsi-2-mallorca.json) |
 | OMSI 2: Man DN95 | 155113 | [155113-omsi-2-man-dn95.json](./155113-omsi-2-man-dn95.json) |
@@ -2624,6 +2626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Pirate Warriors 4 - Character Pack 7 | 375163 | [375163-one-piece-pirate-warriors-4-character-pack-7.json](./375163-one-piece-pirate-warriors-4-character-pack-7.json) |
 | One Piece: Pirate Warriors 4 - Character Pack 8 Special Selection | 375164 | [375164-one-piece-pirate-warriors-4-character-pack-8-special-selection.json](./375164-one-piece-pirate-warriors-4-character-pack-8-special-selection.json) |
 | One Piece: Pirate Warriors 4 - Character Pass 2 | 259547 | [259547-one-piece-pirate-warriors-4-character-pass-2.json](./259547-one-piece-pirate-warriors-4-character-pass-2.json) |
+| One Piece: Pirate Warriors 4 - Collector's Edition | 135981 | [135981-one-piece-pirate-warriors-4-collectors-edition.json](./135981-one-piece-pirate-warriors-4-collectors-edition.json) |
 | One Piece: Pirate Warriors 4 - Kaido Edition | 136137 | [136137-one-piece-pirate-warriors-4-kaido-edition.json](./136137-one-piece-pirate-warriors-4-kaido-edition.json) |
 | One Piece: Pirate Warriors 4 - Koby's Combat Chronicle & Soul Map 2 | 282462 | [282462-one-piece-pirate-warriors-4-kobys-combat-chronicle-and-soul-map-2.json](./282462-one-piece-pirate-warriors-4-kobys-combat-chronicle-and-soul-map-2.json) |
 | One Piece: Pirate Warriors 4 - Land of Wano Pack | 167976 | [167976-one-piece-pirate-warriors-4-land-of-wano-pack.json](./167976-one-piece-pirate-warriors-4-land-of-wano-pack.json) |
