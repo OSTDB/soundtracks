@@ -348,6 +348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Seasons | 175627 | [175627-sacred-seasons.json](./175627-sacred-seasons.json) |
 | Sacred Seasons 2 | 57930 | [57930-sacred-seasons-2.json](./57930-sacred-seasons-2.json) |
 | Sacred Siren | 121913 | [121913-sacred-siren.json](./121913-sacred-siren.json) |
+| Sacred Stones | 96387 | [96387-sacred-stones.json](./96387-sacred-stones.json) |
 | Sacred Sword Princesses | 112286 | [112286-sacred-sword-princesses.json](./112286-sacred-sword-princesses.json) |
 | Sacred Treasure | 101779 | [101779-sacred-treasure.json](./101779-sacred-treasure.json) |
 | Sacred Underworld | 78933 | [78933-sacred-underworld.json](./78933-sacred-underworld.json) |
@@ -10924,6 +10925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silly Sync | 379894 | [379894-silly-sync.json](./379894-silly-sync.json) |
 | Silly Tanks | 351504 | [351504-silly-tanks.json](./351504-silly-tanks.json) |
 | Silly Tower | 301446 | [301446-silly-tower.json](./301446-silly-tower.json) |
+| Silly Walks | 96790 | [96790-silly-walks.json](./96790-silly-walks.json) |
 | Silly Wisher | 358506 | [358506-silly-wisher.json](./358506-silly-wisher.json) |
 | Silly.tiff | 305395 | [305395-silly-tiff.json](./305395-silly-tiff.json) |
 | Silly's Gameshow | 347804 | [347804-sillys-gameshow.json](./347804-sillys-gameshow.json) |
@@ -14759,6 +14761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Match | 340990 | [340990-smash-match.json](./340990-smash-match.json) |
 | Smash Mobs | 51551 | [51551-smash-mobs.json](./51551-smash-mobs.json) |
 | Smash Monkeys | 142850 | [142850-smash-monkeys.json](./142850-smash-monkeys.json) |
+| Smash Monsters | 96399 | [96399-smash-monsters.json](./96399-smash-monsters.json) |
 | Smash N' Crash | 367455 | [367455-smash-n-crash.json](./367455-smash-n-crash.json) |
 | Smash Out | 69902 | [69902-smash-out.json](./69902-smash-out.json) |
 | Smash Out 2 | 389378 | [389378-smash-out-2.json](./389378-smash-out-2.json) |
@@ -15316,6 +15319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Snake: Secret Treasure | 370311 | [370311-snake-secret-treasure.json](./370311-snake-secret-treasure.json) |
 | Snake: The Elder Forest | 122415 | [122415-snake-the-elder-forest.json](./122415-snake-the-elder-forest.json) |
 | Snake.io | 330240 | [330240-snake-io.json](./330240-snake-io.json) |
+| Snake.io | 96808 | [96808-snake-io.json](./96808-snake-io.json) |
 | Snake's Game | 57491 | [57491-snakes-game.json](./57491-snakes-game.json) |
 | Snake's Revenge | 198894 | [198894-snakes-revenge.json](./198894-snakes-revenge.json) |
 | Snake's Revenge | 7848 | [7848-snakes-revenge.json](./7848-snakes-revenge.json) |
@@ -22459,6 +22463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spin to Survive | 386388 | [386388-spin-to-survive.json](./386388-spin-to-survive.json) |
 | Spin To Win | 342480 | [342480-spin-to-win.json](./342480-spin-to-win.json) |
 | Spin Up | 277638 | [277638-spin-up.json](./277638-spin-up.json) |
+| Spin-Tyres 2018 Offroad | 96795 | [96795-spin-tyres-2018-offroad.json](./96795-spin-tyres-2018-offroad.json) |
 | Spinal Breakers | 39666 | [39666-spinal-breakers.json](./39666-spinal-breakers.json) |
 | Spinal Fantasy | 318134 | [318134-spinal-fantasy.json](./318134-spinal-fantasy.json) |
 | Spinball | 110528 | [110528-spinball.json](./110528-spinball.json) |
@@ -27443,6 +27448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickman Bow Mastery: Flying Arrows | 106176 | [106176-stickman-bow-mastery-flying-arrows.json](./106176-stickman-bow-mastery-flying-arrows.json) |
 | Stickman Browser | 296404 | [296404-stickman-browser.json](./296404-stickman-browser.json) |
 | Stickman Clans | 145200 | [145200-stickman-clans.json](./145200-stickman-clans.json) |
+| Stickman Combat Pixel Edition | 96786 | [96786-stickman-combat-pixel-edition.json](./96786-stickman-combat-pixel-edition.json) |
 | Stickman Destruction | 75112 | [75112-stickman-destruction.json](./75112-stickman-destruction.json) |
 | Stickman Destruction 2 | 81677 | [81677-stickman-destruction-2.json](./81677-stickman-destruction-2.json) |
 | Stickman Downhill | 117758 | [117758-stickman-downhill.json](./117758-stickman-downhill.json) |
@@ -27660,6 +27666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sting & Swing | 398983 | [398983-sting-and-swing.json](./398983-sting-and-swing.json) |
 | Sting of the Wasp | 217760 | [217760-sting-of-the-wasp.json](./217760-sting-of-the-wasp.json) |
 | Sting Operation | 300748 | [300748-sting-operation.json](./300748-sting-operation.json) |
+| Stinger Table Hockey | 96823 | [96823-stinger-table-hockey.json](./96823-stinger-table-hockey.json) |
 | Stinger: Episode 1 | 363123 | [363123-stinger-episode-1.json](./363123-stinger-episode-1.json) |
 | Stingray | 299545 | [299545-stingray.json](./299545-stingray.json) |
 | Stink Bug Plague | 133304 | [133304-stink-bug-plague.json](./133304-stink-bug-plague.json) |
