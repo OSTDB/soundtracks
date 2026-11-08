@@ -3942,6 +3942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Onslaught | 332295 | [332295-infinite-onslaught.json](./332295-infinite-onslaught.json) |
 | Infinite Origin | 348825 | [348825-infinite-origin.json](./348825-infinite-origin.json) |
 | Infinite Passengers | 88161 | [88161-infinite-passengers.json](./88161-infinite-passengers.json) |
+| Infinite Patience | 113909 | [113909-infinite-patience.json](./113909-infinite-patience.json) |
 | Infinite Pinball | 23237 | [23237-infinite-pinball.json](./23237-infinite-pinball.json) |
 | Infinite Pinball | 259359 | [259359-infinite-pinball.json](./259359-infinite-pinball.json) |
 | Infinite Pinball | 259361 | [259361-infinite-pinball.json](./259361-infinite-pinball.json) |
@@ -3964,6 +3965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4002,6 +4004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Warrior | 175317 | [175317-infinite-warrior.json](./175317-infinite-warrior.json) |
 | Infinite Waves TD | 224707 | [224707-infinite-waves-td.json](./224707-infinite-waves-td.json) |
 | Infinite Way | 161508 | [161508-infinite-way.json](./161508-infinite-way.json) |
+| Infinite West | 113927 | [113927-infinite-west.json](./113927-infinite-west.json) |
 | Infinite White: Hyperbolic Time Chamber Simulator | 273460 | [273460-infinite-white-hyperbolic-time-chamber-simulator.json](./273460-infinite-white-hyperbolic-time-chamber-simulator.json) |
 | Infinite Wii | 313418 | [313418-infinite-wii.json](./313418-infinite-wii.json) |
 | Infinite Word Search Puzzles | 87658 | [87658-infinite-word-search-puzzles.json](./87658-infinite-word-search-puzzles.json) |
