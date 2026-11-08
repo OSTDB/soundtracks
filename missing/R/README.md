@@ -3413,6 +3413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebel Spirit! | 339156 | [339156-rebel-spirit.json](./339156-rebel-spirit.json) |
 | Rebel Supplies | 359451 | [359451-rebel-supplies.json](./359451-rebel-supplies.json) |
 | Rebel Tank Solo-Raid | 333131 | [333131-rebel-tank-solo-raid.json](./333131-rebel-tank-solo-raid.json) |
+| Rebel Transmute | 128766 | [128766-rebel-transmute.json](./128766-rebel-transmute.json) |
 | Rebel Wings | 35051 | [35051-rebel-wings.json](./35051-rebel-wings.json) |
 | Rebel! | 259138 | [259138-rebel.json](./259138-rebel.json) |
 | Rebel! Pure Love Fighters! | 153027 | [153027-rebel-pure-love-fighters.json](./153027-rebel-pure-love-fighters.json) |
@@ -11029,6 +11030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Room 54: Horde Survival | 335414 | [335414-room-54-horde-survival.json](./335414-room-54-horde-survival.json) |
 | Room 601 | 393246 | [393246-room-601.json](./393246-room-601.json) |
 | Room 817 | 262379 | [262379-room-817.json](./262379-room-817.json) |
+| Room 9 | 128758 | [128758-room-9.json](./128758-room-9.json) |
 | Room and a Half | 326559 | [326559-room-and-a-half.json](./326559-room-and-a-half.json) |
 | Room and a Half 2 | 326560 | [326560-room-and-a-half-2.json](./326560-room-and-a-half-2.json) |
 | Room Box | 195701 | [195701-room-box.json](./195701-room-box.json) |
