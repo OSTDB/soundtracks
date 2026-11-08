@@ -8480,6 +8480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye of the Storm | 299731 | [299731-eye-of-the-storm.json](./299731-eye-of-the-storm.json) |
 | Eye of the Summoner | 302771 | [302771-eye-of-the-summoner.json](./302771-eye-of-the-summoner.json) |
 | Eye of the Temple | 95018 | [95018-eye-of-the-temple.json](./95018-eye-of-the-temple.json) |
+| Eye of the Temple: First Steps | 138355 | [138355-eye-of-the-temple-first-steps.json](./138355-eye-of-the-temple-first-steps.json) |
 | Eye of the Void: Unleashed | 272625 | [272625-eye-of-the-void-unleashed.json](./272625-eye-of-the-void-unleashed.json) |
 | Eye of Vartan | 14059 | [14059-eye-of-vartan.json](./14059-eye-of-vartan.json) |
 | Eye on the world | 258731 | [258731-eye-on-the-world.json](./258731-eye-on-the-world.json) |
