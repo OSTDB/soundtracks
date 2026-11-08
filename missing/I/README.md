@@ -1830,6 +1830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Idol Manager | 95215 | [95215-idol-manager.json](./95215-idol-manager.json) |
 | Idol Manager: Virtual Venture | 401008 | [401008-idol-manager-virtual-venture.json](./401008-idol-manager-virtual-venture.json) |
 | Idol Masters | 110012 | [110012-idol-masters.json](./110012-idol-masters.json) |
+| Idol Mystic Knightess Fyllia: Downfall Life Filled With Humiliation | 98600 | [98600-idol-mystic-knightess-fyllia-downfall-life-filled-with-humiliation.json](./98600-idol-mystic-knightess-fyllia-downfall-life-filled-with-humiliation.json) |
 | Idol Party | 309834 | [309834-idol-party.json](./309834-idol-party.json) |
 | Idol Party II | 372253 | [372253-idol-party-ii.json](./372253-idol-party-ii.json) |
 | Idol Planet | 297013 | [297013-idol-planet.json](./297013-idol-planet.json) |
@@ -3531,6 +3532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indika: Deluxe Edition | 380153 | [380153-indika-deluxe-edition.json](./380153-indika-deluxe-edition.json) |
 | Indirection | 186000 | [186000-indirection.json](./186000-indirection.json) |
 | Indirian Solitaire | 91732 | [91732-indirian-solitaire.json](./91732-indirian-solitaire.json) |
+| Indiscreet Mother: Yukari's After Story | 98602 | [98602-indiscreet-mother-yukaris-after-story.json](./98602-indiscreet-mother-yukaris-after-story.json) |
 | Indistinguishable | 400964 | [400964-indistinguishable.json](./400964-indistinguishable.json) |
 | Individual Investor Tycoon II | 374256 | [374256-individual-investor-tycoon-ii.json](./374256-individual-investor-tycoon-ii.json) |
 | IndividuaLand | 211763 | [211763-individualand.json](./211763-individualand.json) |
@@ -3981,6 +3983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
