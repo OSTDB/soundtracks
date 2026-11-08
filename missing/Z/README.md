@@ -1262,6 +1262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zillion | 18141 | [18141-zillion.json](./18141-zillion.json) |
 | Zillion Beatz | 124382 | [124382-zillion-beatz.json](./124382-zillion-beatz.json) |
 | Zillion II: The Tri Formation | 46114 | [46114-zillion-ii-the-tri-formation.json](./46114-zillion-ii-the-tri-formation.json) |
+| Zillions of Enemy X: Zetsukai no Crusade | 80061 | [80061-zillions-of-enemy-x-zetsukai-no-crusade.json](./80061-zillions-of-enemy-x-zetsukai-no-crusade.json) |
 | Zillions of Games | 311470 | [311470-zillions-of-games.json](./311470-zillions-of-games.json) |
 | Zilm: a game of reflex | 64135 | [64135-zilm-a-game-of-reflex.json](./64135-zilm-a-game-of-reflex.json) |
 | Zim Sala Bim | 317194 | [317194-zim-sala-bim.json](./317194-zim-sala-bim.json) |
