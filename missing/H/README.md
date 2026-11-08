@@ -6161,6 +6161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero's Ignition | 373743 | [373743-heros-ignition.json](./373743-heros-ignition.json) |
 | Hero's Journey | 216013 | [216013-heros-journey.json](./216013-heros-journey.json) |
 | Hero's Journey | 368005 | [368005-heros-journey.json](./368005-heros-journey.json) |
+| Hero's Journey | 92023 | [92023-heros-journey.json](./92023-heros-journey.json) |
 | Hero's Odyssey | 330675 | [330675-heros-odyssey.json](./330675-heros-odyssey.json) |
 | Hero's Party R | 211566 | [211566-heros-party-r.json](./211566-heros-party-r.json) |
 | Hero's Puzzle Path | 57572 | [57572-heros-puzzle-path.json](./57572-heros-puzzle-path.json) |
