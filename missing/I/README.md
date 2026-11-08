@@ -5505,6 +5505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Introspection | 295884 | [295884-introspection.json](./295884-introspection.json) |
 | Introspectus | 398353 | [398353-introspectus.json](./398353-introspectus.json) |
 | Introvert | 337573 | [337573-introvert.json](./337573-introvert.json) |
+| Introvert | 80096 | [80096-introvert.json](./80096-introvert.json) |
 | Introvert Quest | 30327 | [30327-introvert-quest.json](./30327-introvert-quest.json) |
 | Introvert: Consequences | 192727 | [192727-introvert-consequences.json](./192727-introvert-consequences.json) |
 | Intrude | 20469 | [20469-intrude.json](./20469-intrude.json) |
