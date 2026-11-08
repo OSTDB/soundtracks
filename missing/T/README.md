@@ -14606,6 +14606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The NewZealand Story: Untold Adventure | 384926 | [384926-the-newzealand-story-untold-adventure.json](./384926-the-newzealand-story-untold-adventure.json) |
 | The Next Big Thing | 10958 | [10958-the-next-big-thing.json](./10958-the-next-big-thing.json) |
 | The Next Big Thing | 264879 | [264879-the-next-big-thing.json](./264879-the-next-big-thing.json) |
+| The Next Day After Friday | 89429 | [89429-the-next-day-after-friday.json](./89429-the-next-day-after-friday.json) |
 | The Next Door | 33405 | [33405-the-next-door.json](./33405-the-next-door.json) |
 | The Next Jianghu I | 155867 | [155867-the-next-jianghu-i.json](./155867-the-next-jianghu-i.json) |
 | The Next Journey of Life | 364773 | [364773-the-next-journey-of-life.json](./364773-the-next-journey-of-life.json) |
@@ -16308,6 +16309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Salt Order | 191310 | [191310-the-salt-order.json](./191310-the-salt-order.json) |
 | The Salvation Project | 177977 | [177977-the-salvation-project.json](./177977-the-salvation-project.json) |
 | The Samaritan Paradox | 18642 | [18642-the-samaritan-paradox.json](./18642-the-samaritan-paradox.json) |
+| The Same Crime | 89330 | [89330-the-same-crime.json](./89330-the-same-crime.json) |
 | The Same World 2 | 214022 | [214022-the-same-world-2.json](./214022-the-same-world-2.json) |
 | The Sand Dunes | 161613 | [161613-the-sand-dunes.json](./161613-the-sand-dunes.json) |
 | The Sand Knight | 204128 | [204128-the-sand-knight.json](./204128-the-sand-knight.json) |
@@ -21189,6 +21191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Dragon 2 | 40247 | [40247-thunder-dragon-2.json](./40247-thunder-dragon-2.json) |
 | Thunder Edge | 369465 | [369465-thunder-edge.json](./369465-thunder-edge.json) |
 | Thunder Five | 98050 | [98050-thunder-five.json](./98050-thunder-five.json) |
+| Thunder Fleets | 89312 | [89312-thunder-fleets.json](./89312-thunder-fleets.json) |
 | Thunder Force | 55055 | [55055-thunder-force.json](./55055-thunder-force.json) |
 | Thunder Force | 74905 | [74905-thunder-force.json](./74905-thunder-force.json) |
 | Thunder Force AC | 287460 | [287460-thunder-force-ac.json](./287460-thunder-force-ac.json) |
@@ -31410,6 +31413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trenches of Europe 2 | 199945 | [199945-trenches-of-europe-2.json](./199945-trenches-of-europe-2.json) |
 | Trenches of War | 38758 | [38758-trenches-of-war.json](./38758-trenches-of-war.json) |
 | TrenchesWIP | 120957 | [120957-trencheswip.json](./120957-trencheswip.json) |
+| Trenchfoot | 89344 | [89344-trenchfoot.json](./89344-trenchfoot.json) |
 | Trenchlore | 148464 | [148464-trenchlore.json](./148464-trenchlore.json) |
 | Trenchpunk | 299700 | [299700-trenchpunk.json](./299700-trenchpunk.json) |
 | Trenchwitch | 181690 | [181690-trenchwitch.json](./181690-trenchwitch.json) |
@@ -32753,6 +32757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trump Castle: The Ultimate Casino Gambling Simulation | 78666 | [78666-trump-castle-the-ultimate-casino-gambling-simulation.json](./78666-trump-castle-the-ultimate-casino-gambling-simulation.json) |
 | Trump Collection 2: Bottom Up Teki Sekai Isshuu no Tabi | 82136 | [82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json](./82136-trump-collection-2-bottom-up-teki-sekai-isshuu-no-tabi.json) |
 | Trump Collection GB | 82137 | [82137-trump-collection-gb.json](./82137-trump-collection-gb.json) |
+| Trump Escape | 89357 | [89357-trump-escape.json](./89357-trump-escape.json) |
 | Trump Horror | 343023 | [343023-trump-horror.json](./343023-trump-horror.json) |
 | Trump Island | 364045 | [364045-trump-island.json](./364045-trump-island.json) |
 | Trump Jigsaw | 339283 | [339283-trump-jigsaw.json](./339283-trump-jigsaw.json) |
