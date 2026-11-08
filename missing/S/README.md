@@ -11238,6 +11238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 1500 Series Vol. 45: The Block Kuzushi 2 | 203030 | [203030-simple-1500-series-vol-45-the-block-kuzushi-2.json](./203030-simple-1500-series-vol-45-the-block-kuzushi-2.json) |
 | Simple 1500 Series Vol. 46: The Mahjong Ochige - Raku Jongg | 203031 | [203031-simple-1500-series-vol-46-the-mahjong-ochige-raku-jongg.json](./203031-simple-1500-series-vol-46-the-mahjong-ochige-raku-jongg.json) |
 | Simple 1500 Series Vol. 49: The Casino | 203033 | [203033-simple-1500-series-vol-49-the-casino.json](./203033-simple-1500-series-vol-49-the-casino.json) |
+| Simple 1500 Series Vol. 5: The Igo | 82266 | [82266-simple-1500-series-vol-5-the-igo.json](./82266-simple-1500-series-vol-5-the-igo.json) |
 | Simple 1500 Series Vol. 50: The Billiards 2 | 203034 | [203034-simple-1500-series-vol-50-the-billiards-2.json](./203034-simple-1500-series-vol-50-the-billiards-2.json) |
 | Simple 1500 Series Vol. 51: The Jigsaw Puzzle | 203035 | [203035-simple-1500-series-vol-51-the-jigsaw-puzzle.json](./203035-simple-1500-series-vol-51-the-jigsaw-puzzle.json) |
 | Simple 1500 Series Vol. 52: The Pro Wrestling 2 | 44754 | [44754-simple-1500-series-vol-52-the-pro-wrestling-2.json](./44754-simple-1500-series-vol-52-the-pro-wrestling-2.json) |
@@ -11246,6 +11247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 1500 Series Vol. 56: The Sniper | 57130 | [57130-simple-1500-series-vol-56-the-sniper.json](./57130-simple-1500-series-vol-56-the-sniper.json) |
 | Simple 1500 Series Vol. 57: The Meiro | 203040 | [203040-simple-1500-series-vol-57-the-meiro.json](./203040-simple-1500-series-vol-57-the-meiro.json) |
 | Simple 1500 Series Vol. 58: The Sumo | 124665 | [124665-simple-1500-series-vol-58-the-sumo.json](./124665-simple-1500-series-vol-58-the-sumo.json) |
+| Simple 1500 Series Vol. 6: The Hanafuda | 82268 | [82268-simple-1500-series-vol-6-the-hanafuda.json](./82268-simple-1500-series-vol-6-the-hanafuda.json) |
 | Simple 1500 Series Vol. 60: The Table Hockey | 203054 | [203054-simple-1500-series-vol-60-the-table-hockey.json](./203054-simple-1500-series-vol-60-the-table-hockey.json) |
 | Simple 1500 Series Vol. 61: The Quiz 2 | 203055 | [203055-simple-1500-series-vol-61-the-quiz-2.json](./203055-simple-1500-series-vol-61-the-quiz-2.json) |
 | Simple 1500 Series Vol. 62: The Ski | 203056 | [203056-simple-1500-series-vol-62-the-ski.json](./203056-simple-1500-series-vol-62-the-ski.json) |
@@ -11262,6 +11264,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple 1500 Series Vol. 77: The Suiei | 209500 | [209500-simple-1500-series-vol-77-the-suiei.json](./209500-simple-1500-series-vol-77-the-suiei.json) |
 | Simple 1500 Series Vol. 78: The Zero Yon | 203072 | [203072-simple-1500-series-vol-78-the-zero-yon.json](./203072-simple-1500-series-vol-78-the-zero-yon.json) |
 | Simple 1500 Series Vol. 79: The Shisenshou | 203073 | [203073-simple-1500-series-vol-79-the-shisenshou.json](./203073-simple-1500-series-vol-79-the-shisenshou.json) |
+| Simple 1500 Series Vol. 8: The Solitaire | 82267 | [82267-simple-1500-series-vol-8-the-solitaire.json](./82267-simple-1500-series-vol-8-the-solitaire.json) |
 | Simple 1500 Series Vol. 81: The Renai Adventure - Okaeri! | 166387 | [166387-simple-1500-series-vol-81-the-renai-adventure-okaeri.json](./166387-simple-1500-series-vol-81-the-renai-adventure-okaeri.json) |
 | Simple 1500 Series Vol. 82: The Sensuikan | 203078 | [203078-simple-1500-series-vol-82-the-sensuikan.json](./203078-simple-1500-series-vol-82-the-sensuikan.json) |
 | Simple 1500 Series Vol. 84: The Intro Quiz | 203079 | [203079-simple-1500-series-vol-84-the-intro-quiz.json](./203079-simple-1500-series-vol-84-the-intro-quiz.json) |
