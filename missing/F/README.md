@@ -1836,6 +1836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Dream | 254917 | [254917-fantastic-dream.json](./254917-fantastic-dream.json) |
 | Fantastic Farm | 146507 | [146507-fantastic-farm.json](./146507-fantastic-farm.json) |
 | Fantastic Farm | 359286 | [359286-fantastic-farm.json](./359286-fantastic-farm.json) |
+| Fantastic Fetus | 118484 | [118484-fantastic-fetus.json](./118484-fantastic-fetus.json) |
 | Fantastic Fetus: Prebirth | 205113 | [205113-fantastic-fetus-prebirth.json](./205113-fantastic-fetus-prebirth.json) |
 | Fantastic Findings Hidden Seasons | 342827 | [342827-fantastic-findings-hidden-seasons.json](./342827-fantastic-findings-hidden-seasons.json) |
 | Fantastic Fishing | 132401 | [132401-fantastic-fishing.json](./132401-fantastic-fishing.json) |
@@ -2587,6 +2588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm On! | 96696 | [96696-farm-on.json](./96696-farm-on.json) |
 | Farm Pets Bundle | 272330 | [272330-farm-pets-bundle.json](./272330-farm-pets-bundle.json) |
 | Farm Pinball | 246442 | [246442-farm-pinball.json](./246442-farm-pinball.json) |
+| Farm Punks | 118482 | [118482-farm-punks.json](./118482-farm-punks.json) |
 | Farm Racing | 292224 | [292224-farm-racing.json](./292224-farm-racing.json) |
 | Farm Racing | 381014 | [381014-farm-racing.json](./381014-farm-racing.json) |
 | Farm Racing. | 394296 | [394296-farm-racing.json](./394296-farm-racing.json) |
@@ -6026,6 +6028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Escape | 132348 | [132348-fire-escape.json](./132348-fire-escape.json) |
 | Fire Escape | 62575 | [62575-fire-escape.json](./62575-fire-escape.json) |
 | Fire Farm VR | 31964 | [31964-fire-farm-vr.json](./31964-fire-farm-vr.json) |
+| Fire Fighter | 118511 | [118511-fire-fighter.json](./118511-fire-fighter.json) |
 | Fire Fighter | 18479 | [18479-fire-fighter.json](./18479-fire-fighter.json) |
 | Fire Fighter | 246332 | [246332-fire-fighter.json](./246332-fire-fighter.json) |
 | Fire Fighter | 246395 | [246395-fire-fighter.json](./246395-fire-fighter.json) |
@@ -8657,6 +8660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flute Master: Epic Christmas | 170514 | [170514-flute-master-epic-christmas.json](./170514-flute-master-epic-christmas.json) |
 | Flute Master: Trick or Treat | 170513 | [170513-flute-master-trick-or-treat.json](./170513-flute-master-trick-or-treat.json) |
 | Flute The Snake Charmer | 295465 | [295465-flute-the-snake-charmer.json](./295465-flute-the-snake-charmer.json) |
+| Flutter Bombs | 118515 | [118515-flutter-bombs.json](./118515-flutter-bombs.json) |
 | Flutter of birds II: Tenshi-tachi no Tsubasa | 310651 | [310651-flutter-of-birds-ii-tenshi-tachi-no-tsubasa.json](./310651-flutter-of-birds-ii-tenshi-tachi-no-tsubasa.json) |
 | Flutter of Birds: Tori-tachi no Habataki | 293164 | [293164-flutter-of-birds-tori-tachi-no-habataki.json](./293164-flutter-of-birds-tori-tachi-no-habataki.json) |
 | Flutter VR | 101662 | [101662-flutter-vr.json](./101662-flutter-vr.json) |
@@ -9464,6 +9468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Mogul 18 | 59259 | [59259-football-mogul-18.json](./59259-football-mogul-18.json) |
 | Football Mogul 2007 | 209466 | [209466-football-mogul-2007.json](./209466-football-mogul-2007.json) |
 | Football Mogul 2014 | 35185 | [35185-football-mogul-2014.json](./35185-football-mogul-2014.json) |
+| Football Nation VR Tournament 2018 | 118536 | [118536-football-nation-vr-tournament-2018.json](./118536-football-nation-vr-tournament-2018.json) |
 | Football on the Magnavox Odyssey | 131477 | [131477-football-on-the-magnavox-odyssey.json](./131477-football-on-the-magnavox-odyssey.json) |
 | Football Penalty | 234315 | [234315-football-penalty.json](./234315-football-penalty.json) |
 | Football Pitch Simulator | 326428 | [326428-football-pitch-simulator.json](./326428-football-pitch-simulator.json) |
@@ -11811,6 +11816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Free Running | 409046 | [409046-free-running.json](./409046-free-running.json) |
 | Free Running | 4873 | [4873-free-running.json](./4873-free-running.json) |
 | Free Running 2 | 409047 | [409047-free-running-2.json](./409047-free-running-2.json) |
+| Free Shot Frenzy | 118538 | [118538-free-shot-frenzy.json](./118538-free-shot-frenzy.json) |
 | Free Skies | 316175 | [316175-free-skies.json](./316175-free-skies.json) |
 | Free Slots Fun Factory | 299573 | [299573-free-slots-fun-factory.json](./299573-free-slots-fun-factory.json) |
 | Free Solitaire | 340250 | [340250-free-solitaire.json](./340250-free-solitaire.json) |
