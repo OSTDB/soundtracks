@@ -1156,6 +1156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jericho Dungeon | 192730 | [192730-jericho-dungeon.json](./192730-jericho-dungeon.json) |
 | Jericho Mirage | 210133 | [210133-jericho-mirage.json](./210133-jericho-mirage.json) |
 | Jericho Road | 14135 | [14135-jericho-road.json](./14135-jericho-road.json) |
+| Jericho's Prophecies | 132368 | [132368-jerichos-prophecies.json](./132368-jerichos-prophecies.json) |
 | Jericho's Rose | 173246 | [173246-jerichos-rose.json](./173246-jerichos-rose.json) |
 | Jerking Off in Class Simulator | 367843 | [367843-jerking-off-in-class-simulator.json](./367843-jerking-off-in-class-simulator.json) |
 | Jerkmate: Ranked | 331083 | [331083-jerkmate-ranked.json](./331083-jerkmate-ranked.json) |
