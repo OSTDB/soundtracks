@@ -367,6 +367,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gah! | 258508 | [258508-gah.json](./258508-gah.json) |
 | Gahkthun of the Golden Lightning: Steam Edition | 33106 | [33106-gahkthun-of-the-golden-lightning-steam-edition.json](./33106-gahkthun-of-the-golden-lightning-steam-edition.json) |
 | GAI Stops Auto: Right Version Simulator | 157125 | [157125-gai-stops-auto-right-version-simulator.json](./157125-gai-stops-auto-right-version-simulator.json) |
+| Gai Travel | 100240 | [100240-gai-travel.json](./100240-gai-travel.json) |
 | Gaia | 106502 | [106502-gaia.json](./106502-gaia.json) |
 | Gaia | 298270 | [298270-gaia.json](./298270-gaia.json) |
 | Gaia | 385392 | [385392-gaia.json](./385392-gaia.json) |
