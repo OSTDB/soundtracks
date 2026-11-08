@@ -7347,6 +7347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Bloks: First Builders | 60838 | [60838-mega-bloks-first-builders.json](./60838-mega-bloks-first-builders.json) |
 | Mega Bowling Dash | 136431 | [136431-mega-bowling-dash.json](./136431-mega-bowling-dash.json) |
 | Mega Box | 123213 | [123213-mega-box.json](./123213-mega-box.json) |
+| Mega Box 2 | 138913 | [138913-mega-box-2.json](./138913-mega-box-2.json) |
 | Mega Brain Boost | 94017 | [94017-mega-brain-boost.json](./94017-mega-brain-boost.json) |
 | Mega Brain Switch | 230699 | [230699-mega-brain-switch.json](./230699-mega-brain-switch.json) |
 | Mega Bundle 15-in-1 | 401132 | [401132-mega-bundle-15-in-1.json](./401132-mega-bundle-15-in-1.json) |
@@ -16819,6 +16820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Patrol: The Milky Way Chronicles | 138567 | [138567-moon-patrol-the-milky-way-chronicles.json](./138567-moon-patrol-the-milky-way-chronicles.json) |
 | Moon Pool | 419593 | [419593-moon-pool.json](./419593-moon-pool.json) |
 | Moon Princess | 351268 | [351268-moon-princess.json](./351268-moon-princess.json) |
+| Moon Raider | 138911 | [138911-moon-raider.json](./138911-moon-raider.json) |
 | Moon Raider and Sweet Witches Bundle | 169550 | [169550-moon-raider-and-sweet-witches-bundle.json](./169550-moon-raider-and-sweet-witches-bundle.json) |
 | Moon Raker | 277658 | [277658-moon-raker.json](./277658-moon-raker.json) |
 | Moon Ranger | 48198 | [48198-moon-ranger.json](./48198-moon-ranger.json) |
@@ -17408,6 +17410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortadelo y Filemón: El Escarabajo de Cleopatra | 78038 | [78038-mortadelo-y-filemon-el-escarabajo-de-cleopatra.json](./78038-mortadelo-y-filemon-el-escarabajo-de-cleopatra.json) |
 | Mortadelo y Filemón: El Sulfato Atómico | 69909 | [69909-mortadelo-y-filemon-el-sulfato-atomico.json](./69909-mortadelo-y-filemon-el-sulfato-atomico.json) |
 | Mortadelo y Filemón: La Banda de Corvino | 115598 | [115598-mortadelo-y-filemon-la-banda-de-corvino.json](./115598-mortadelo-y-filemon-la-banda-de-corvino.json) |
+| Mortadelo y Filemón: La Máquina Meteoroloca | 138920 | [138920-mortadelo-y-filemon-la-maquina-meteoroloca.json](./138920-mortadelo-y-filemon-la-maquina-meteoroloca.json) |
 | Mortadelo y Filemón: La Sexta Secta | 277928 | [277928-mortadelo-y-filemon-la-sexta-secta.json](./277928-mortadelo-y-filemon-la-sexta-secta.json) |
 | Mortadelo y Filemón: Mamelucos a la Romana | 71979 | [71979-mortadelo-y-filemon-mamelucos-a-la-romana.json](./71979-mortadelo-y-filemon-mamelucos-a-la-romana.json) |
 | Mortadelo y Filemón: Operación Moscú | 77301 | [77301-mortadelo-y-filemon-operacion-moscu.json](./77301-mortadelo-y-filemon-operacion-moscu.json) |
