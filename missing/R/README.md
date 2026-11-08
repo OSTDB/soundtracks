@@ -118,6 +118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.I.S.K. | 55184 | [55184-r-i-s-k.json](./55184-r-i-s-k.json) |
 | R.O.M. Gold - Rings of Medusa | 85947 | [85947-r-o-m-gold-rings-of-medusa.json](./85947-r-o-m-gold-rings-of-medusa.json) |
 | R.O.O.T.S | 35543 | [35543-r-o-o-t-s.json](./35543-r-o-o-t-s.json) |
+| R.O.V.E.R. | 102979 | [102979-r-o-v-e-r.json](./102979-r-o-v-e-r.json) |
 | R.O.V.E.R. | 401624 | [401624-r-o-v-e-r.json](./401624-r-o-v-e-r.json) |
 | R.override | 403832 | [403832-r-override.json](./403832-r-override.json) |
 | R.P.G | 234326 | [234326-r-p-g.json](./234326-r-p-g.json) |
