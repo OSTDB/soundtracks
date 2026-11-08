@@ -999,6 +999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magi: Hajimari no Meikyuu | 191666 | [191666-magi-hajimari-no-meikyuu.json](./191666-magi-hajimari-no-meikyuu.json) |
 | Magi: Mind Game | 197917 | [197917-magi-mind-game.json](./197917-magi-mind-game.json) |
 | Magi's Dream | 252532 | [252532-magis-dream.json](./252532-magis-dream.json) |
+| Magia Knabino in the Eternal Night | 129326 | [129326-magia-knabino-in-the-eternal-night.json](./129326-magia-knabino-in-the-eternal-night.json) |
 | Magia Para Todos | 86111 | [86111-magia-para-todos.json](./86111-magia-para-todos.json) |
 | Magia Record | 231933 | [231933-magia-record.json](./231933-magia-record.json) |
 | Magia Story | 244762 | [244762-magia-story.json](./244762-magia-story.json) |
@@ -6339,6 +6340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maze Party | 150487 | [150487-maze-party.json](./150487-maze-party.json) |
 | Maze Pursuit | 298376 | [298376-maze-pursuit.json](./298376-maze-pursuit.json) |
 | Maze Puzzle | 277868 | [277868-maze-puzzle.json](./277868-maze-puzzle.json) |
+| Maze Qore Arena | 129340 | [129340-maze-qore-arena.json](./129340-maze-qore-arena.json) |
 | Maze Quest | 240057 | [240057-maze-quest.json](./240057-maze-quest.json) |
 | Maze Quest 1: The Forest | 107739 | [107739-maze-quest-1-the-forest.json](./107739-maze-quest-1-the-forest.json) |
 | Maze Quest 2: The Desert | 119587 | [119587-maze-quest-2-the-desert.json](./119587-maze-quest-2-the-desert.json) |
@@ -8798,6 +8800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mementos | 201629 | [201629-mementos.json](./201629-mementos.json) |
 | Mementos: Lost Things | 391681 | [391681-mementos-lost-things.json](./391681-mementos-lost-things.json) |
 | Mementos: Star Constellations | 402056 | [402056-mementos-star-constellations.json](./402056-mementos-star-constellations.json) |
+| Memeow & Comodore: Reloaded | 129317 | [129317-memeow-and-comodore-reloaded.json](./129317-memeow-and-comodore-reloaded.json) |
 | Memes | 51564 | [51564-memes.json](./51564-memes.json) |
 | Memes At War | 334022 | [334022-memes-at-war.json](./334022-memes-at-war.json) |
 | Memeside | 384546 | [384546-memeside.json](./384546-memeside.json) |
@@ -16019,6 +16022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Girl Saga: Fallen Heroes | 341330 | [341330-monster-girl-saga-fallen-heroes.json](./341330-monster-girl-saga-fallen-heroes.json) |
 | Monster Girl Therapy | 399575 | [399575-monster-girl-therapy.json](./399575-monster-girl-therapy.json) |
 | Monster Girl's Labyrinth | 210470 | [210470-monster-girls-labyrinth.json](./210470-monster-girls-labyrinth.json) |
+| Monster Girls and the Mysterious Adventure | 129296 | [129296-monster-girls-and-the-mysterious-adventure.json](./129296-monster-girls-and-the-mysterious-adventure.json) |
 | Monster Girls and the Mysterious Adventure 2 | 195290 | [195290-monster-girls-and-the-mysterious-adventure-2.json](./195290-monster-girls-and-the-mysterious-adventure-2.json) |
 | Monster Girls Gaynerations: Ghoulfriends For Life | 178727 | [178727-monster-girls-gaynerations-ghoulfriends-for-life.json](./178727-monster-girls-gaynerations-ghoulfriends-for-life.json) |
 | Monster Girls Salon Dress Up | 106895 | [106895-monster-girls-salon-dress-up.json](./106895-monster-girls-salon-dress-up.json) |
@@ -21034,6 +21038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My IShowSpeed | 286333 | [286333-my-ishowspeed.json](./286333-my-ishowspeed.json) |
 | My Island | 114113 | [114113-my-island.json](./114113-my-island.json) |
 | My Japanese Coach | 68938 | [68938-my-japanese-coach.json](./68938-my-japanese-coach.json) |
+| My Jigsaw Adventures: Roads of Life | 129306 | [129306-my-jigsaw-adventures-roads-of-life.json](./129306-my-jigsaw-adventures-roads-of-life.json) |
 | My Jigsaw Adventures: The Source of Power | 163002 | [163002-my-jigsaw-adventures-the-source-of-power.json](./163002-my-jigsaw-adventures-the-source-of-power.json) |
 | My Journey | 339105 | [339105-my-journey.json](./339105-my-journey.json) |
 | My Journey to Your World | 170932 | [170932-my-journey-to-your-world.json](./170932-my-journey-to-your-world.json) |
