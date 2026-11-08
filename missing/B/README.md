@@ -983,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -5564,6 +5565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beatbuddy: On Tour | 34170 | [34170-beatbuddy-on-tour.json](./34170-beatbuddy-on-tour.json) |
 | Beatcore Zero | 405143 | [405143-beatcore-zero.json](./405143-beatcore-zero.json) |
 | Beatcraft Cyclon | 232683 | [232683-beatcraft-cyclon.json](./232683-beatcraft-cyclon.json) |
+| Beatdown | 95492 | [95492-beatdown.json](./95492-beatdown.json) |
 | Beatdown Brawler | 130103 | [130103-beatdown-brawler.json](./130103-beatdown-brawler.json) |
 | Beatdown City Survivors | 346350 | [346350-beatdown-city-survivors.json](./346350-beatdown-city-survivors.json) |
 | Beatdown Dungeon | 116959 | [116959-beatdown-dungeon.json](./116959-beatdown-dungeon.json) |
@@ -5910,6 +5912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bedlam | 13391 | [13391-bedlam.json](./13391-bedlam.json) |
 | Bedlam | 2390 | [2390-bedlam.json](./2390-bedlam.json) |
 | Bedlam | 55098 | [55098-bedlam.json](./55098-bedlam.json) |
+| Bedlam | 95501 | [95501-bedlam.json](./95501-bedlam.json) |
 | Bedlam 2: Absolute Bedlam | 62508 | [62508-bedlam-2-absolute-bedlam.json](./62508-bedlam-2-absolute-bedlam.json) |
 | Bedlamball | 51985 | [51985-bedlamball.json](./51985-bedlamball.json) |
 | BeDo | 245783 | [245783-bedo.json](./245783-bedo.json) |
@@ -8268,6 +8271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bio Hazard | 247453 | [247453-bio-hazard.json](./247453-bio-hazard.json) |
 | Bio Hazard | 356221 | [356221-bio-hazard.json](./356221-bio-hazard.json) |
 | Bio Inc. Nemesis | 250109 | [250109-bio-inc-nemesis.json](./250109-bio-inc-nemesis.json) |
+| Bio Inc. Platinum: Biomedical Plague | 95543 | [95543-bio-inc-platinum-biomedical-plague.json](./95543-bio-inc-platinum-biomedical-plague.json) |
 | Bio Inc. Redemption | 36627 | [36627-bio-inc-redemption.json](./36627-bio-inc-redemption.json) |
 | Bio Inc. Redemption + Crossroads Inn: Doctors and Bartenders Bundle | 296561 | [296561-bio-inc-redemption-crossroads-inn-doctors-and-bartenders-bundle.json](./296561-bio-inc-redemption-crossroads-inn-doctors-and-bartenders-bundle.json) |
 | Bio Menace | 8491 | [8491-bio-menace.json](./8491-bio-menace.json) |
