@@ -4104,6 +4104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tengai ni Mau, Iki na Hana | 75225 | [75225-tengai-ni-mau-iki-na-hana.json](./75225-tengai-ni-mau-iki-na-hana.json) |
 | Tengam | 147599 | [147599-tengam.json](./147599-tengam.json) |
 | Tengami | 10089 | [10089-tengami.json](./10089-tengami.json) |
+| Tengen Toppa Gurren Lagann | 81570 | [81570-tengen-toppa-gurren-lagann.json](./81570-tengen-toppa-gurren-lagann.json) |
 | Tengen World Cup Soccer | 46329 | [46329-tengen-world-cup-soccer.json](./46329-tengen-world-cup-soccer.json) |
 | Tengin Music Engine | 166625 | [166625-tengin-music-engine.json](./166625-tengin-music-engine.json) |
 | Tengo 20 Bolos y Permiso hasta las 7 | 356778 | [356778-tengo-20-bolos-y-permiso-hasta-las-7.json](./356778-tengo-20-bolos-y-permiso-hasta-las-7.json) |
@@ -31476,6 +31477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tri Wing | 88248 | [88248-tri-wing.json](./88248-tri-wing.json) |
 | Tri Zone | 130869 | [130869-tri-zone.json](./130869-tri-zone.json) |
 | Tri-1 | 245602 | [245602-tri-1.json](./245602-tri-1.json) |
+| Tri-achnid | 81581 | [81581-tri-achnid.json](./81581-tri-achnid.json) |
 | Tri-bo | 381124 | [381124-tri-bo.json](./381124-tri-bo.json) |
 | Tri-Element | 65573 | [65573-tri-element.json](./65573-tri-element.json) |
 | Tri-Ger | 135440 | [135440-tri-ger.json](./135440-tri-ger.json) |
@@ -33714,6 +33716,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turret Kingdom | 360847 | [360847-turret-kingdom.json](./360847-turret-kingdom.json) |
 | Turret Lab | 223519 | [223519-turret-lab.json](./223519-turret-lab.json) |
 | Turret Rampage | 260519 | [260519-turret-rampage.json](./260519-turret-rampage.json) |
+| Turret Syndrome | 81596 | [81596-turret-syndrome.json](./81596-turret-syndrome.json) |
 | Turret Tech | 106155 | [106155-turret-tech.json](./106155-turret-tech.json) |
 | Turret Terminator | 29364 | [29364-turret-terminator.json](./29364-turret-terminator.json) |
 | Turret Tower | 413730 | [413730-turret-tower.json](./413730-turret-tower.json) |
