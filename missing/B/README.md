@@ -975,6 +975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1811,6 +1812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balls Out | 119651 | [119651-balls-out.json](./119651-balls-out.json) |
 | Balls Out of Control | 154994 | [154994-balls-out-of-control.json](./154994-balls-out-of-control.json) |
 | Balls Rolling-Plumber, Slither, Line, Fill & Fun! | 108486 | [108486-balls-rolling-plumber-slither-line-fill-and-fun.json](./108486-balls-rolling-plumber-slither-line-fill-and-fun.json) |
+| Balls Royale | 132365 | [132365-balls-royale.json](./132365-balls-royale.json) |
 | Balls vs. Maze | 240104 | [240104-balls-vs-maze.json](./240104-balls-vs-maze.json) |
 | Balls vs. Pixels : Break-it! | 100704 | [100704-balls-vs-pixels-break-it.json](./100704-balls-vs-pixels-break-it.json) |
 | Balls! | 99982 | [99982-balls.json](./99982-balls.json) |
@@ -9867,6 +9869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Radius | 270662 | [270662-blast-radius.json](./270662-blast-radius.json) |
 | Blast Radius | 360660 | [360660-blast-radius.json](./360660-blast-radius.json) |
 | Blast Royale | 231621 | [231621-blast-royale.json](./231621-blast-royale.json) |
+| Blast Rush Classic | 132346 | [132346-blast-rush-classic.json](./132346-blast-rush-classic.json) |
 | Blast the Past | 110144 | [110144-blast-the-past.json](./110144-blast-the-past.json) |
 | Blast Thru | 127141 | [127141-blast-thru.json](./127141-blast-thru.json) |
 | Blast Valley | 93817 | [93817-blast-valley.json](./93817-blast-valley.json) |
