@@ -1492,6 +1492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Dawn of War - Definitive Edition | 344680 | [344680-warhammer-40-000-dawn-of-war-definitive-edition.json](./344680-warhammer-40-000-dawn-of-war-definitive-edition.json) |
 | Warhammer 40,000: Dawn of War - Game of the Year Edition | 28981 | [28981-warhammer-40-000-dawn-of-war-game-of-the-year-edition.json](./28981-warhammer-40-000-dawn-of-war-game-of-the-year-edition.json) |
 | Warhammer 40,000: Dawn of War - Master Collection | 53894 | [53894-warhammer-40-000-dawn-of-war-master-collection.json](./53894-warhammer-40-000-dawn-of-war-master-collection.json) |
+| Warhammer 40,000: Dawn of War - Soulstorm | 468 | [468-warhammer-40-000-dawn-of-war-soulstorm.json](./468-warhammer-40-000-dawn-of-war-soulstorm.json) |
 | Warhammer 40,000: Dawn of War - Winter Assault | 465 | [465-warhammer-40-000-dawn-of-war-winter-assault.json](./465-warhammer-40-000-dawn-of-war-winter-assault.json) |
 | Warhammer 40,000: Dawn of War Franchise Collection | 53896 | [53896-warhammer-40-000-dawn-of-war-franchise-collection.json](./53896-warhammer-40-000-dawn-of-war-franchise-collection.json) |
 | Warhammer 40,000: Dawn of War II - Chaos Rising | 469 | [469-warhammer-40-000-dawn-of-war-ii-chaos-rising.json](./469-warhammer-40-000-dawn-of-war-ii-chaos-rising.json) |
