@@ -9187,6 +9187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Bird | 100439 | [100439-black-bird.json](./100439-black-bird.json) |
 | Black Bird | 312581 | [312581-black-bird.json](./312581-black-bird.json) |
 | Black Bird: Tori-tachi no Tooboe | 392745 | [392745-black-bird-tori-tachi-no-tooboe.json](./392745-black-bird-tori-tachi-no-tooboe.json) |
+| Black Black | 49441 | [49441-black-black.json](./49441-black-black.json) |
 | Black Blade | 149845 | [149845-black-blade.json](./149845-black-blade.json) |
 | Black Blade | 293097 | [293097-black-blade.json](./293097-black-blade.json) |
 | Black Block Blast | 197993 | [197993-black-block-blast.json](./197993-black-block-blast.json) |
@@ -9377,6 +9378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Market | 52471 | [52471-black-market.json](./52471-black-market.json) |
 | Black Market Bowling | 57643 | [57643-black-market-bowling.json](./57643-black-market-bowling.json) |
 | Black Market of Bulletphilia: 100th Black Market | 210247 | [210247-black-market-of-bulletphilia-100th-black-market.json](./210247-black-market-of-bulletphilia-100th-black-market.json) |
+| Black Matrix Zero | 49419 | [49419-black-matrix-zero.json](./49419-black-matrix-zero.json) |
 | Black Mesa Inbound | 253030 | [253030-black-mesa-inbound.json](./253030-black-mesa-inbound.json) |
 | Black Mesa: Azure Sheep | 221556 | [221556-black-mesa-azure-sheep.json](./221556-black-mesa-azure-sheep.json) |
 | Black Mesa: Blue Shift | 196017 | [196017-black-mesa-blue-shift.json](./196017-black-mesa-blue-shift.json) |
@@ -16445,6 +16447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Build Simulator | 217415 | [217415-broken-build-simulator.json](./217415-broken-build-simulator.json) |
 | Broken Cat's Lost Flowers | 129899 | [129899-broken-cats-lost-flowers.json](./129899-broken-cats-lost-flowers.json) |
 | Broken Cavalier | 214052 | [214052-broken-cavalier.json](./214052-broken-cavalier.json) |
+| Broken Circle | 49471 | [49471-broken-circle.json](./49471-broken-circle.json) |
 | Broken Colors | 250302 | [250302-broken-colors.json](./250302-broken-colors.json) |
 | Broken Computer's Dream | 178216 | [178216-broken-computers-dream.json](./178216-broken-computers-dream.json) |
 | Broken Core | 126328 | [126328-broken-core.json](./126328-broken-core.json) |
