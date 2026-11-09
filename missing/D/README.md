@@ -5892,6 +5892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defend The Cubes | 383734 | [383734-defend-the-cubes.json](./383734-defend-the-cubes.json) |
 | Defend the Fort | 173267 | [173267-defend-the-fort.json](./173267-defend-the-fort.json) |
 | Defend the Highlands | 35108 | [35108-defend-the-highlands.json](./35108-defend-the-highlands.json) |
+| Defend the Highlands: World Tour | 31325 | [31325-defend-the-highlands-world-tour.json](./31325-defend-the-highlands-world-tour.json) |
 | Defend the Keep | 118091 | [118091-defend-the-keep.json](./118091-defend-the-keep.json) |
 | Defend the Kingdom | 154907 | [154907-defend-the-kingdom.json](./154907-defend-the-kingdom.json) |
 | Defend the Night | 127646 | [127646-defend-the-night.json](./127646-defend-the-night.json) |
@@ -7573,6 +7574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deserted | 149203 | [149203-deserted.json](./149203-deserted.json) |
 | Deserted Island | 138823 | [138823-deserted-island.json](./138823-deserted-island.json) |
 | Deserted Island | 343742 | [343742-deserted-island.json](./343742-deserted-island.json) |
+| Deserted: The Story of Peter | 32028 | [32028-deserted-the-story-of-peter.json](./32028-deserted-the-story-of-peter.json) |
 | Deserter | 323940 | [323940-deserter.json](./323940-deserter.json) |
 | Deserter Simulator | 34791 | [34791-deserter-simulator.json](./34791-deserter-simulator.json) |
 | Deserter: Prologue | 364985 | [364985-deserter-prologue.json](./364985-deserter-prologue.json) |
@@ -8144,6 +8146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Gman | 172953 | [172953-detective-gman.json](./172953-detective-gman.json) |
 | Detective Grimoire: Secret of the Swamp | 10795 | [10795-detective-grimoire-secret-of-the-swamp.json](./10795-detective-grimoire-secret-of-the-swamp.json) |
 | Detective GUI | 184784 | [184784-detective-gui.json](./184784-detective-gui.json) |
+| Detective Hank and the Golden Sneeze | 32002 | [32002-detective-hank-and-the-golden-sneeze.json](./32002-detective-hank-and-the-golden-sneeze.json) |
 | Detective Hayseed: Hollywood | 26992 | [26992-detective-hayseed-hollywood.json](./26992-detective-hayseed-hollywood.json) |
 | Detective Hayseed: The Cloning Madness | 277025 | [277025-detective-hayseed-the-cloning-madness.json](./277025-detective-hayseed-the-cloning-madness.json) |
 | Detective Hindsight | 367971 | [367971-detective-hindsight.json](./367971-detective-hindsight.json) |
@@ -13956,6 +13959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DOP 4: Draw One Part | 220217 | [220217-dop-4-draw-one-part.json](./220217-dop-4-draw-one-part.json) |
 | Dop Story: Displace It | 220220 | [220220-dop-story-displace-it.json](./220220-dop-story-displace-it.json) |
 | Dopamine | 295798 | [295798-dopamine.json](./295798-dopamine.json) |
+| Dopamine | 31323 | [31323-dopamine.json](./31323-dopamine.json) |
 | Dopamine | 384238 | [384238-dopamine.json](./384238-dopamine.json) |
 | Dopamine | 410634 | [410634-dopamine.json](./410634-dopamine.json) |
 | Dopamine Hit | 342894 | [342894-dopamine-hit.json](./342894-dopamine-hit.json) |
@@ -16436,6 +16440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreadEye VR | 75167 | [75167-dreadeye-vr.json](./75167-dreadeye-vr.json) |
 | DreadFall | 260241 | [260241-dreadfall.json](./260241-dreadfall.json) |
 | Dreadfold | 397901 | [397901-dreadfold.json](./397901-dreadfold.json) |
+| Dreadful | 31331 | [31331-dreadful.json](./31331-dreadful.json) |
 | Dreadful 5th Floor | 408497 | [408497-dreadful-5th-floor.json](./408497-dreadful-5th-floor.json) |
 | Dreadful Aurora | 297047 | [297047-dreadful-aurora.json](./297047-dreadful-aurora.json) |
 | Dreadful Bond | 116970 | [116970-dreadful-bond.json](./116970-dreadful-bond.json) |
@@ -17774,6 +17779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drops: Rhythm Garden | 102403 | [102403-drops-rhythm-garden.json](./102403-drops-rhythm-garden.json) |
 | DROPSHIP | 93925 | [93925-dropship.json](./93925-dropship.json) |
 | Dropship Commander | 225446 | [225446-dropship-commander.json](./225446-dropship-commander.json) |
+| Dropship Down | 32061 | [32061-dropship-down.json](./32061-dropship-down.json) |
 | Dropship: United Peace Force | 332159 | [332159-dropship-united-peace-force.json](./332159-dropship-united-peace-force.json) |
 | Dropship: United Peace Force | 44723 | [44723-dropship-united-peace-force.json](./44723-dropship-united-peace-force.json) |
 | Dropshipping Simulator | 155993 | [155993-dropshipping-simulator.json](./155993-dropshipping-simulator.json) |
