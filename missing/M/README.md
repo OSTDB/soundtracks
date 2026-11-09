@@ -1397,6 +1397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Synthesis | 103449 | [103449-magic-synthesis.json](./103449-magic-synthesis.json) |
 | Magic Synthesis | 103487 | [103487-magic-synthesis.json](./103487-magic-synthesis.json) |
 | Magic Tales: Baba Yaga and the Magic Geese | 297654 | [297654-magic-tales-baba-yaga-and-the-magic-geese.json](./297654-magic-tales-baba-yaga-and-the-magic-geese.json) |
+| Magic Tavern | 30351 | [30351-magic-tavern.json](./30351-magic-tavern.json) |
 | Magic Technology | 176353 | [176353-magic-technology.json](./176353-magic-technology.json) |
 | Magic Technology: Tower Defense | 68679 | [68679-magic-technology-tower-defense.json](./68679-magic-technology-tower-defense.json) |
 | Magic the Wandering | 311585 | [311585-magic-the-wandering.json](./311585-magic-the-wandering.json) |
@@ -3806,6 +3807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marigold | 183053 | [183053-marigold.json](./183053-marigold.json) |
 | Marikin Online 4 | 288351 | [288351-marikin-online-4.json](./288351-marikin-online-4.json) |
 | Mariko: Hot Nightlife | 88052 | [88052-mariko-hot-nightlife.json](./88052-mariko-hot-nightlife.json) |
+| Marimba VR | 30352 | [30352-marimba-vr.json](./30352-marimba-vr.json) |
 | Marimo Pants | 412817 | [412817-marimo-pants.json](./412817-marimo-pants.json) |
 | Marimo vs. I.A.S | 188463 | [188463-marimo-vs-i-a-s.json](./188463-marimo-vs-i-a-s.json) |
 | Marin Alien | 308704 | [308704-marin-alien.json](./308704-marin-alien.json) |
@@ -6679,6 +6681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MC Groovz Dance Craze | 50581 | [50581-mc-groovz-dance-craze.json](./50581-mc-groovz-dance-craze.json) |
 | MC Hammer: U Can't Touch This | 198811 | [198811-mc-hammer-u-cant-touch-this.json](./198811-mc-hammer-u-cant-touch-this.json) |
 | MC Lars 2: Brotherhood | 75188 | [75188-mc-lars-2-brotherhood.json](./75188-mc-lars-2-brotherhood.json) |
+| MC Lars: The Video Game | 30965 | [30965-mc-lars-the-video-game.json](./30965-mc-lars-the-video-game.json) |
 | MCAS Simulation | 131226 | [131226-mcas-simulation.json](./131226-mcas-simulation.json) |
 | McBelle Manor | 321492 | [321492-mcbelle-manor.json](./321492-mcbelle-manor.json) |
 | McCourty Twins: INT Challenge | 100648 | [100648-mccourty-twins-int-challenge.json](./100648-mccourty-twins-int-challenge.json) |
@@ -7075,6 +7078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MechCrisis | 243562 | [243562-mechcrisis.json](./243562-mechcrisis.json) |
 | MechCube: Dark Stories | 174283 | [174283-mechcube-dark-stories.json](./174283-mechcube-dark-stories.json) |
 | MechCube: Escape | 121387 | [121387-mechcube-escape.json](./121387-mechcube-escape.json) |
+| MechDefender | 30319 | [30319-mechdefender.json](./30319-mechdefender.json) |
 | MechDrachen | 288801 | [288801-mechdrachen.json](./288801-mechdrachen.json) |
 | Mechenosets | 311065 | [311065-mechenosets.json](./311065-mechenosets.json) |
 | Mechers | 257250 | [257250-mechers.json](./257250-mechers.json) |
@@ -20590,6 +20594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mutant Express | 264485 | [264485-mutant-express.json](./264485-mutant-express.json) |
 | Mutant Factions | 60989 | [60989-mutant-factions.json](./60989-mutant-factions.json) |
 | Mutant Fighting Cup | 234193 | [234193-mutant-fighting-cup.json](./234193-mutant-fighting-cup.json) |
+| Mutant Fighting Cup 2 | 30367 | [30367-mutant-fighting-cup-2.json](./30367-mutant-fighting-cup-2.json) |
 | Mutant Football League 2 | 296351 | [296351-mutant-football-league-2.json](./296351-mutant-football-league-2.json) |
 | Mutant Football League: Brainwashington Cadavers | 227389 | [227389-mutant-football-league-brainwashington-cadavers.json](./227389-mutant-football-league-brainwashington-cadavers.json) |
 | Mutant Football League: Brawltimore Razors | 154931 | [154931-mutant-football-league-brawltimore-razors.json](./154931-mutant-football-league-brawltimore-razors.json) |
