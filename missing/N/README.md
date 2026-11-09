@@ -7109,6 +7109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nosferatu's Butler | 149808 | [149808-nosferatus-butler.json](./149808-nosferatus-butler.json) |
 | Nosferatu's Dominion | 337370 | [337370-nosferatus-dominion.json](./337370-nosferatus-dominion.json) |
 | Nosfereatyou | 179579 | [179579-nosfereatyou.json](./179579-nosfereatyou.json) |
+| Nosgoth | 5627 | [5627-nosgoth.json](./5627-nosgoth.json) |
 | Nosher | 200820 | [200820-nosher.json](./200820-nosher.json) |
 | Noskovrazdor | 402543 | [402543-noskovrazdor.json](./402543-noskovrazdor.json) |
 | NoSlack Pets: Lo-Fi Paws | 365249 | [365249-noslack-pets-lo-fi-paws.json](./365249-noslack-pets-lo-fi-paws.json) |
