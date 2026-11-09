@@ -2458,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gazolinas | 260632 | [260632-gazolinas.json](./260632-gazolinas.json) |
 | Gazza II | 41000 | [41000-gazza-ii.json](./41000-gazza-ii.json) |
 | Gazza's Electronic Football Game | 217945 | [217945-gazzas-electronic-football-game.json](./217945-gazzas-electronic-football-game.json) |
+| Gazza's Super Soccer | 39104 | [39104-gazzas-super-soccer.json](./39104-gazzas-super-soccer.json) |
 | Gazzel Quest: The Five Magic Stones | 32110 | [32110-gazzel-quest-the-five-magic-stones.json](./32110-gazzel-quest-the-five-magic-stones.json) |
 | Gazzlers | 173897 | [173897-gazzlers.json](./173897-gazzlers.json) |
 | GB Basketball | 49084 | [49084-gb-basketball.json](./49084-gb-basketball.json) |
@@ -7367,6 +7368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goodsol Solitaire 101 | 106896 | [106896-goodsol-solitaire-101.json](./106896-goodsol-solitaire-101.json) |
 | Goodwad | 262439 | [262439-goodwad.json](./262439-goodwad.json) |
 | Goodwill Scrolls | 338012 | [338012-goodwill-scrolls.json](./338012-goodwill-scrolls.json) |
+| Goody | 39070 | [39070-goody.json](./39070-goody.json) |
 | Goody Bad Heroes | 185738 | [185738-goody-bad-heroes.json](./185738-goody-bad-heroes.json) |
 | Gooey | 368139 | [368139-gooey.json](./368139-gooey.json) |
 | Goof Ball | 78033 | [78033-goof-ball.json](./78033-goof-ball.json) |
@@ -10429,6 +10431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gryphon Knight Epic | 19949 | [19949-gryphon-knight-epic.json](./19949-gryphon-knight-epic.json) |
 | Gryphon Knight Epic: Definitive Edition | 147738 | [147738-gryphon-knight-epic-definitive-edition.json](./147738-gryphon-knight-epic-definitive-edition.json) |
 | Gryzor | 262139 | [262139-gryzor.json](./262139-gryzor.json) |
+| Gryzor | 39058 | [39058-gryzor.json](./39058-gryzor.json) |
 | gShift | 24740 | [24740-gshift.json](./24740-gshift.json) |
 | GSIII: Combat Flight Simulator - Heroes of the MIG Alley | 97914 | [97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json](./97914-gsiii-combat-flight-simulator-heroes-of-the-mig-alley.json) |
 | GSpot Master | 286393 | [286393-gspot-master.json](./286393-gspot-master.json) |
