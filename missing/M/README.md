@@ -6111,7 +6111,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -6699,6 +6698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meanwhile | 22329 | [22329-meanwhile.json](./22329-meanwhile.json) |
 | Meanwhile in Russia | 369919 | [369919-meanwhile-in-russia.json](./369919-meanwhile-in-russia.json) |
 | Meanwhile in Sector 80 | 278945 | [278945-meanwhile-in-sector-80.json](./278945-meanwhile-in-sector-80.json) |
+| Meanwhile: An Interactive Comic Book | 76827 | [76827-meanwhile-an-interactive-comic-book.json](./76827-meanwhile-an-interactive-comic-book.json) |
 | Meanwhile: An Interactive Comic Book - Extra: The Case of the Missing Science Project | 174434 | [174434-meanwhile-an-interactive-comic-book-extra-the-case-of-the-missing-science-project.json](./174434-meanwhile-an-interactive-comic-book-extra-the-case-of-the-missing-science-project.json) |
 | Mearcair/System Pulse | 252908 | [252908-mearcair-system-pulse.json](./252908-mearcair-system-pulse.json) |
 | Mearstale our little item shop | 188963 | [188963-mearstale-our-little-item-shop.json](./188963-mearstale-our-little-item-shop.json) |
@@ -15779,6 +15779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monkey Lost | 367452 | [367452-monkey-lost.json](./367452-monkey-lost.json) |
 | Monkey Magic | 145394 | [145394-monkey-magic.json](./145394-monkey-magic.json) |
 | Monkey Magic | 45220 | [45220-monkey-magic.json](./45220-monkey-magic.json) |
+| Monkey Magic | 76854 | [76854-monkey-magic.json](./76854-monkey-magic.json) |
 | Monkey Mansion | 193645 | [193645-monkey-mansion.json](./193645-monkey-mansion.json) |
 | Monkey Math | 253303 | [253303-monkey-math.json](./253303-monkey-math.json) |
 | Monkey Math School Sunshine | 291969 | [291969-monkey-math-school-sunshine.json](./291969-monkey-math-school-sunshine.json) |
