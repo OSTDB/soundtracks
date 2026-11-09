@@ -14760,6 +14760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Neverwhere Tales : Book 1 | 275692 | [275692-the-neverwhere-tales-book-1.json](./275692-the-neverwhere-tales-book-1.json) |
 | The New Addams Family | 5345 | [5345-the-new-addams-family.json](./5345-the-new-addams-family.json) |
 | The New Adventures Of Billy The Kid | 399983 | [399983-the-new-adventures-of-billy-the-kid.json](./399983-the-new-adventures-of-billy-the-kid.json) |
+| The New Adventures of Mary-Kate & Ashley | 5915 | [5915-the-new-adventures-of-mary-kate-and-ashley.json](./5915-the-new-adventures-of-mary-kate-and-ashley.json) |
 | The New Adventures of Moomin: The Great Autumn Party | 97408 | [97408-the-new-adventures-of-moomin-the-great-autumn-party.json](./97408-the-new-adventures-of-moomin-the-great-autumn-party.json) |
 | The New Adventures of Moomin: The Mysterious Howling | 97405 | [97405-the-new-adventures-of-moomin-the-mysterious-howling.json](./97405-the-new-adventures-of-moomin-the-mysterious-howling.json) |
 | The New Adventures of Sonic the Hedgehog | 316589 | [316589-the-new-adventures-of-sonic-the-hedgehog.json](./316589-the-new-adventures-of-sonic-the-hedgehog.json) |
@@ -23742,6 +23743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Fragments: 24h in Capua | 126818 | [126818-time-fragments-24h-in-capua.json](./126818-time-fragments-24h-in-capua.json) |
 | Time Freeze | 168936 | [168936-time-freeze.json](./168936-time-freeze.json) |
 | Time From Earth | 212299 | [212299-time-from-earth.json](./212299-time-from-earth.json) |
+| Time Gal | 5458 | [5458-time-gal.json](./5458-time-gal.json) |
 | Time Gal & Ninja Hayate | 55871 | [55871-time-gal-and-ninja-hayate.json](./55871-time-gal-and-ninja-hayate.json) |
 | Time Gal HD Remaster | 255872 | [255872-time-gal-hd-remaster.json](./255872-time-gal-hd-remaster.json) |
 | Time Gal Re:birth | 377094 | [377094-time-gal-re-birth.json](./377094-time-gal-re-birth.json) |
@@ -26119,6 +26121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tombstone Taxi | 258435 | [258435-tombstone-taxi.json](./258435-tombstone-taxi.json) |
 | Tombwater | 324575 | [324575-tombwater.json](./324575-tombwater.json) |
 | Tomcat | 74428 | [74428-tomcat.json](./74428-tomcat.json) |
+| Tomcat Alley | 5459 | [5459-tomcat-alley.json](./5459-tomcat-alley.json) |
 | Tome | 373070 | [373070-tome.json](./373070-tome.json) |
 | Tome Improvement | 389737 | [389737-tome-improvement.json](./389737-tome-improvement.json) |
 | Tome of Fates | 250735 | [250735-tome-of-fates.json](./250735-tome-of-fates.json) |
