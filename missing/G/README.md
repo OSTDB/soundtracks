@@ -7550,6 +7550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gordianaut | 200878 | [200878-gordianaut.json](./200878-gordianaut.json) |
 | Gordiho Filmové Dobrodružství | 141391 | [141391-gordiho-filmove-dobrodruzstvi.json](./141391-gordiho-filmove-dobrodruzstvi.json) |
 | Gordinho Adventure | 322675 | [322675-gordinho-adventure.json](./322675-gordinho-adventure.json) |
+| Gordo 106 | 40837 | [40837-gordo-106.json](./40837-gordo-106.json) |
 | Gordon and the Light Within | 334691 | [334691-gordon-and-the-light-within.json](./334691-gordon-and-the-light-within.json) |
 | Gordon Freakman | 322671 | [322671-gordon-freakman.json](./322671-gordon-freakman.json) |
 | Gordon Freakman 2: Kleiner-Life | 322672 | [322672-gordon-freakman-2-kleiner-life.json](./322672-gordon-freakman-2-kleiner-life.json) |
