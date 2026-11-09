@@ -5167,6 +5167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CaveIn: Miner Rescue Team | 68639 | [68639-cavein-miner-rescue-team.json](./68639-cavein-miner-rescue-team.json) |
 | Cavelon | 40971 | [40971-cavelon.json](./40971-cavelon.json) |
 | Cavelon II | 74071 | [74071-cavelon-ii.json](./74071-cavelon-ii.json) |
+| Cavelord | 25897 | [25897-cavelord.json](./25897-cavelord.json) |
 | Caveman | 163276 | [163276-caveman.json](./163276-caveman.json) |
 | Caveman | 216765 | [216765-caveman.json](./216765-caveman.json) |
 | Caveman | 284224 | [284224-caveman.json](./284224-caveman.json) |
@@ -6077,6 +6078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions of Chaos II: Ambassadors of the Arena | 62653 | [62653-champions-of-chaos-ii-ambassadors-of-the-arena.json](./62653-champions-of-chaos-ii-ambassadors-of-the-arena.json) |
 | Champions of Chaxia | 399202 | [399202-champions-of-chaxia.json](./399202-champions-of-chaxia.json) |
 | Champions of Dawn | 74035 | [74035-champions-of-dawn.json](./74035-champions-of-dawn.json) |
+| Champions of Demah | 25347 | [25347-champions-of-demah.json](./25347-champions-of-demah.json) |
 | Champions of Europe | 45655 | [45655-champions-of-europe.json](./45655-champions-of-europe.json) |
 | Champions of Krynn | 2456 | [2456-champions-of-krynn.json](./2456-champions-of-krynn.json) |
 | Champions of Midgard | 111632 | [111632-champions-of-midgard.json](./111632-champions-of-midgard.json) |
@@ -17844,6 +17846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creatures of War | 217338 | [217338-creatures-of-war.json](./217338-creatures-of-war.json) |
 | Creatures Playground | 11378 | [11378-creatures-playground.json](./11378-creatures-playground.json) |
 | Creatures Such as We | 22038 | [22038-creatures-such-as-we.json](./22038-creatures-such-as-we.json) |
+| Creatures Village | 25283 | [25283-creatures-village.json](./25283-creatures-village.json) |
 | Creatures: Docking Station | 155011 | [155011-creatures-docking-station.json](./155011-creatures-docking-station.json) |
 | Creatures: Docking Station - Creatures 3 | 192135 | [192135-creatures-docking-station-creatures-3.json](./192135-creatures-docking-station-creatures-3.json) |
 | Creatures: Raised in Space | 46085 | [46085-creatures-raised-in-space.json](./46085-creatures-raised-in-space.json) |
