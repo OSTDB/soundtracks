@@ -1687,6 +1687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tamagotchi | 11284 | [11284-tamagotchi.json](./11284-tamagotchi.json) |
 | Tamagotchi | 194325 | [194325-tamagotchi.json](./194325-tamagotchi.json) |
 | Tamagotchi | 301415 | [301415-tamagotchi.json](./301415-tamagotchi.json) |
+| Tamagotchi 64: Minna de Tamagotchi World | 3611 | [3611-tamagotchi-64-minna-de-tamagotchi-world.json](./3611-tamagotchi-64-minna-de-tamagotchi-world.json) |
 | Tamagotchi Adventure Kingdom | 281825 | [281825-tamagotchi-adventure-kingdom.json](./281825-tamagotchi-adventure-kingdom.json) |
 | Tamagotchi Angel | 229837 | [229837-tamagotchi-angel.json](./229837-tamagotchi-angel.json) |
 | Tamagotchi Angel | 320176 | [320176-tamagotchi-angel.json](./320176-tamagotchi-angel.json) |
@@ -4041,6 +4042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ten Little Indians | 24695 | [24695-ten-little-indians.json](./24695-ten-little-indians.json) |
 | Ten made Jack: Odoroki Mamenoki Daitoubou!! | 198364 | [198364-ten-made-jack-odoroki-mamenoki-daitoubou.json](./198364-ten-made-jack-odoroki-mamenoki-daitoubou.json) |
 | Ten ni Takaku Chi ni Fukaku | 191713 | [191713-ten-ni-takaku-chi-ni-fukaku.json](./191713-ten-ni-takaku-chi-ni-fukaku.json) |
+| Ten Nights of Killing and Mayhem at F.J.B. II | 2496 | [2496-ten-nights-of-killing-and-mayhem-at-f-j-b-ii.json](./2496-ten-nights-of-killing-and-mayhem-at-f-j-b-ii.json) |
 | Ten no Yukururu | 266003 | [266003-ten-no-yukururu.json](./266003-ten-no-yukururu.json) |
 | Ten of the Best Games | 134448 | [134448-ten-of-the-best-games.json](./134448-ten-of-the-best-games.json) |
 | Ten of the best: Educational Programs | 141396 | [141396-ten-of-the-best-educational-programs.json](./141396-ten-of-the-best-educational-programs.json) |
@@ -8308,6 +8310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Forest Calls | 420350 | [420350-the-dark-forest-calls.json](./420350-the-dark-forest-calls.json) |
 | The Dark Half | 71515 | [71515-the-dark-half.json](./71515-the-dark-half.json) |
 | The Dark Heart of Balor | 199483 | [199483-the-dark-heart-of-balor.json](./199483-the-dark-heart-of-balor.json) |
+| The Dark Heart of Uukrul | 2463 | [2463-the-dark-heart-of-uukrul.json](./2463-the-dark-heart-of-uukrul.json) |
 | The Dark Hills of Cherai 2: The Regal Scepter | 158947 | [158947-the-dark-hills-of-cherai-2-the-regal-scepter.json](./158947-the-dark-hills-of-cherai-2-the-regal-scepter.json) |
 | The Dark Hills of Cheral | 18898 | [18898-the-dark-hills-of-cheral.json](./18898-the-dark-hills-of-cheral.json) |
 | The Dark Hour | 62368 | [62368-the-dark-hour.json](./62368-the-dark-hour.json) |
@@ -14450,6 +14453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Monkey King: Flying Dojo | 341030 | [341030-the-monkey-king-flying-dojo.json](./341030-the-monkey-king-flying-dojo.json) |
 | The Monkey King: The Legend Begins | 50608 | [50608-the-monkey-king-the-legend-begins.json](./50608-the-monkey-king-the-legend-begins.json) |
 | The Monkey P | 223148 | [223148-the-monkey-p.json](./223148-the-monkey-p.json) |
+| The Monkey Wrench Conspiracy | 3162 | [3162-the-monkey-wrench-conspiracy.json](./3162-the-monkey-wrench-conspiracy.json) |
 | The Monkey's Paw | 415911 | [415911-the-monkeys-paw.json](./415911-the-monkeys-paw.json) |
 | The MonMon Monster | 41692 | [41692-the-monmon-monster.json](./41692-the-monmon-monster.json) |
 | The Mono-Yellow Madness | 216587 | [216587-the-mono-yellow-madness.json](./216587-the-mono-yellow-madness.json) |
@@ -15112,6 +15116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Origin: Blind Maid | 151271 | [151271-the-origin-blind-maid.json](./151271-the-origin-blind-maid.json) |
 | The Original Island | 215735 | [215735-the-original-island.json](./215735-the-original-island.json) |
 | The Original Mobile Games | 130882 | [130882-the-original-mobile-games.json](./130882-the-original-mobile-games.json) |
+| The Original Mulan | 2492 | [2492-the-original-mulan.json](./2492-the-original-mulan.json) |
 | The Original Strife: Veteran Edition | 24603 | [24603-the-original-strife-veteran-edition.json](./24603-the-original-strife-veteran-edition.json) |
 | The Original Wizard | 205737 | [205737-the-original-wizard.json](./205737-the-original-wizard.json) |
 | The Orion Conspiracy | 23862 | [23862-the-orion-conspiracy.json](./23862-the-orion-conspiracy.json) |
@@ -26540,11 +26545,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gear 2 | 13057 | [13057-top-gear-2.json](./13057-top-gear-2.json) |
 | Top Gear 3000 | 46007 | [46007-top-gear-3000.json](./46007-top-gear-3000.json) |
 | Top Gear GT Championship | 49342 | [49342-top-gear-gt-championship.json](./49342-top-gear-gt-championship.json) |
+| Top Gear Hyper-Bike | 3615 | [3615-top-gear-hyper-bike.json](./3615-top-gear-hyper-bike.json) |
 | Top Gear Overdrive | 3616 | [3616-top-gear-overdrive.json](./3616-top-gear-overdrive.json) |
 | Top Gear Pocket | 93431 | [93431-top-gear-pocket.json](./93431-top-gear-pocket.json) |
 | Top Gear Pocket 2 | 78875 | [78875-top-gear-pocket-2.json](./78875-top-gear-pocket-2.json) |
 | Top Gear Rally | 248591 | [248591-top-gear-rally.json](./248591-top-gear-rally.json) |
 | Top Gear Rally | 3617 | [3617-top-gear-rally.json](./3617-top-gear-rally.json) |
+| Top Gear Rally 2 | 3618 | [3618-top-gear-rally-2.json](./3618-top-gear-rally-2.json) |
 | Top Gear RPM Tuning | 47335 | [47335-top-gear-rpm-tuning.json](./47335-top-gear-rpm-tuning.json) |
 | Top Gear: Caravan Crush | 402325 | [402325-top-gear-caravan-crush.json](./402325-top-gear-caravan-crush.json) |
 | Top Gear: Dare Devil | 43274 | [43274-top-gear-dare-devil.json](./43274-top-gear-dare-devil.json) |
