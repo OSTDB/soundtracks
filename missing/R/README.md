@@ -9235,6 +9235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robomancer | 181183 | [181183-robomancer.json](./181183-robomancer.json) |
 | Robomancer_000 | 184809 | [184809-robomancer-000.json](./184809-robomancer-000.json) |
 | Robomania | 261987 | [261987-robomania.json](./261987-robomania.json) |
+| RoboMatch | 29360 | [29360-robomatch.json](./29360-robomatch.json) |
 | RoboMaze II: The Lobby | 70282 | [70282-robomaze-ii-the-lobby.json](./70282-robomaze-ii-the-lobby.json) |
 | RoboMaze III: The Dome | 78029 | [78029-robomaze-iii-the-dome.json](./78029-robomaze-iii-the-dome.json) |
 | RoboMaze: The Basement | 59927 | [59927-robomaze-the-basement.json](./59927-robomaze-the-basement.json) |
@@ -10524,6 +10525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue, Rogue, Baby! | 238694 | [238694-rogue-rogue-baby.json](./238694-rogue-rogue-baby.json) |
 | Rogue: Genesia | 211066 | [211066-rogue-genesia.json](./211066-rogue-genesia.json) |
 | Rogue: The Adventure Game | 73979 | [73979-rogue-the-adventure-game.json](./73979-rogue-the-adventure-game.json) |
+| Rogue'n Roll | 29362 | [29362-roguen-roll.json](./29362-roguen-roll.json) |
 | Rogue's Awakening | 185037 | [185037-rogues-awakening.json](./185037-rogues-awakening.json) |
 | Rogue's Light - The Greedy Cave | 95929 | [95929-rogues-light-the-greedy-cave.json](./95929-rogues-light-the-greedy-cave.json) |
 | Rogue's Odyssey | 382399 | [382399-rogues-odyssey.json](./382399-rogues-odyssey.json) |
