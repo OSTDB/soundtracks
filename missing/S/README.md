@@ -4688,6 +4688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret High School 9: Zac & Bella's Wedding | 100966 | [100966-secret-high-school-9-zac-and-bellas-wedding.json](./100966-secret-high-school-9-zac-and-bellas-wedding.json) |
 | Secret House | 133224 | [133224-secret-house.json](./133224-secret-house.json) |
 | Secret in Flower | 395578 | [395578-secret-in-flower.json](./395578-secret-in-flower.json) |
+| Secret in Story | 40870 | [40870-secret-in-story.json](./40870-secret-in-story.json) |
 | Secret Journeys: Cities of the World | 84901 | [84901-secret-journeys-cities-of-the-world.json](./84901-secret-journeys-cities-of-the-world.json) |
 | Secret Kiss | 272664 | [272664-secret-kiss.json](./272664-secret-kiss.json) |
 | Secret Kiss with Knight | 303303 | [303303-secret-kiss-with-knight.json](./303303-secret-kiss-with-knight.json) |
@@ -12649,6 +12650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ski Jump Challenge | 143546 | [143546-ski-jump-challenge.json](./143546-ski-jump-challenge.json) |
 | Ski Jump International v2 | 342080 | [342080-ski-jump-international-v2.json](./342080-ski-jump-international-v2.json) |
 | Ski Jump International v3 | 186727 | [186727-ski-jump-international-v3.json](./186727-ski-jump-international-v3.json) |
+| Ski Jump VR | 40867 | [40867-ski-jump-vr.json](./40867-ski-jump-vr.json) |
 | Ski Jumping 2004 | 93091 | [93091-ski-jumping-2004.json](./93091-ski-jumping-2004.json) |
 | Ski Jumping Pro | 112905 | [112905-ski-jumping-pro.json](./112905-ski-jumping-pro.json) |
 | Ski Jumping Pro VR | 130291 | [130291-ski-jumping-pro-vr.json](./130291-ski-jumping-pro-vr.json) |
@@ -21055,6 +21057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space War | 171888 | [171888-space-war.json](./171888-space-war.json) |
 | Space War | 54792 | [54792-space-war.json](./54792-space-war.json) |
 | Space War - Retro Shooter | 96596 | [96596-space-war-retro-shooter.json](./96596-space-war-retro-shooter.json) |
+| Space War 2000 | 40831 | [40831-space-war-2000.json](./40831-space-war-2000.json) |
 | Space War Arena | 114884 | [114884-space-war-arena.json](./114884-space-war-arena.json) |
 | Space War Attack | 43546 | [43546-space-war-attack.json](./43546-space-war-attack.json) |
 | Space War Commander | 25431 | [25431-space-war-commander.json](./25431-space-war-commander.json) |
@@ -31662,6 +31665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Artificial Intelligence Psike | 216871 | [216871-super-artificial-intelligence-psike.json](./216871-super-artificial-intelligence-psike.json) |
 | Super Asqr | 199370 | [199370-super-asqr.json](./199370-super-asqr.json) |
 | Super Assfuck RPG | 282096 | [282096-super-assfuck-rpg.json](./282096-super-assfuck-rpg.json) |
+| Super Asteroids & Missile Command | 40863 | [40863-super-asteroids-and-missile-command.json](./40863-super-asteroids-and-missile-command.json) |
 | Super Astreus 2 | 133651 | [133651-super-astreus-2.json](./133651-super-astreus-2.json) |
 | Super Astro Cat | 331521 | [331521-super-astro-cat.json](./331521-super-astro-cat.json) |
 | Super Astro Fighter | 60200 | [60200-super-astro-fighter.json](./60200-super-astro-fighter.json) |
@@ -33971,6 +33975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Rocket Monkey | 389130 | [389130-super-rocket-monkey.json](./389130-super-rocket-monkey.json) |
 | Super Rocket Pets | 320155 | [320155-super-rocket-pets.json](./320155-super-rocket-pets.json) |
 | Super Rocket Ride | 129092 | [129092-super-rocket-ride.json](./129092-super-rocket-ride.json) |
+| Super Rocket Shootout | 40852 | [40852-super-rocket-shootout.json](./40852-super-rocket-shootout.json) |
 | Super Rolling Heroes | 190880 | [190880-super-rolling-heroes.json](./190880-super-rolling-heroes.json) |
 | Super Rolling Heroes Deluxe | 288055 | [288055-super-rolling-heroes-deluxe.json](./288055-super-rolling-heroes-deluxe.json) |
 | Super RPS | 270888 | [270888-super-rps.json](./270888-super-rps.json) |
