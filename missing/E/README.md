@@ -5505,6 +5505,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Warehouse | 312124 | [312124-escape-from-warehouse.json](./312124-escape-from-warehouse.json) |
 | Escape from witch cottage! | 183173 | [183173-escape-from-witch-cottage.json](./183173-escape-from-witch-cottage.json) |
 | Escape From Woomera | 172108 | [172108-escape-from-woomera.json](./172108-escape-from-woomera.json) |
+| Escape from Work | 71258 | [71258-escape-from-work.json](./71258-escape-from-work.json) |
+| Escape from Work | 71264 | [71264-escape-from-work.json](./71264-escape-from-work.json) |
 | Escape from Wormwood | 396306 | [396306-escape-from-wormwood.json](./396306-escape-from-wormwood.json) |
 | Escape From Yandere | 388741 | [388741-escape-from-yandere.json](./388741-escape-from-yandere.json) |
 | Escape from Zellman Orbital | 31741 | [31741-escape-from-zellman-orbital.json](./31741-escape-from-zellman-orbital.json) |
@@ -5678,6 +5680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Simulator: Wild West | 221903 | [221903-escape-simulator-wild-west.json](./221903-escape-simulator-wild-west.json) |
 | Escape Space | 244625 | [244625-escape-space.json](./244625-escape-space.json) |
 | Escape Stories: Virtual Reality | 258319 | [258319-escape-stories-virtual-reality.json](./258319-escape-stories-virtual-reality.json) |
+| Escape Story | 71257 | [71257-escape-story.json](./71257-escape-story.json) |
 | Escape String | 221589 | [221589-escape-string.json](./221589-escape-string.json) |
 | Escape Tales: The Awakening | 304829 | [304829-escape-tales-the-awakening.json](./304829-escape-tales-the-awakening.json) |
 | Escape Team | 339770 | [339770-escape-team.json](./339770-escape-team.json) |
