@@ -997,6 +997,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy on Fire 3D | 9038 | [9038-galaxy-on-fire-3d.json](./9038-galaxy-on-fire-3d.json) |
 | Galaxy on Fire: Alliances | 261530 | [261530-galaxy-on-fire-alliances.json](./261530-galaxy-on-fire-alliances.json) |
 | Galaxy Online | 67649 | [67649-galaxy-online.json](./67649-galaxy-online.json) |
+| Galaxy Online 2 | 60707 | [60707-galaxy-online-2.json](./60707-galaxy-online-2.json) |
+| Galaxy Online 3 | 60706 | [60706-galaxy-online-3.json](./60706-galaxy-online-3.json) |
 | Galaxy Pass Station | 190467 | [190467-galaxy-pass-station.json](./190467-galaxy-pass-station.json) |
 | Galaxy Ping Pong | 359724 | [359724-galaxy-ping-pong.json](./359724-galaxy-ping-pong.json) |
 | Galaxy Pirates | 392305 | [392305-galaxy-pirates.json](./392305-galaxy-pirates.json) |
@@ -5127,6 +5129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glitchery | 386143 | [386143-glitchery.json](./386143-glitchery.json) |
 | Glitchfall | 368817 | [368817-glitchfall.json](./368817-glitchfall.json) |
 | GlitchGuesser | 327464 | [327464-glitchguesser.json](./327464-glitchguesser.json) |
+| Glitchhikers | 61200 | [61200-glitchhikers.json](./61200-glitchhikers.json) |
 | Glitchhikers: First Drive | 178009 | [178009-glitchhikers-first-drive.json](./178009-glitchhikers-first-drive.json) |
 | Glitchhikers: The Spaces Between | 186873 | [186873-glitchhikers-the-spaces-between.json](./186873-glitchhikers-the-spaces-between.json) |
 | Glitchhikers: The Spaces Between - Chill Beats Edition | 205228 | [205228-glitchhikers-the-spaces-between-chill-beats-edition.json](./205228-glitchhikers-the-spaces-between-chill-beats-edition.json) |
