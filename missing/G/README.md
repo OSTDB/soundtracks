@@ -2769,6 +2769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gem Shoot | 175344 | [175344-gem-shoot.json](./175344-gem-shoot.json) |
 | Gem Shop | 54050 | [54050-gem-shop.json](./54050-gem-shop.json) |
 | Gem Stack | 216036 | [216036-gem-stack.json](./216036-gem-stack.json) |
+| Gem Stone Legend | 14775 | [14775-gem-stone-legend.json](./14775-gem-stone-legend.json) |
 | Gem Tales 2: Crystal Dragon | 415840 | [415840-gem-tales-2-crystal-dragon.json](./415840-gem-tales-2-crystal-dragon.json) |
 | Gem Tower Defense 2 | 196510 | [196510-gem-tower-defense-2.json](./196510-gem-tower-defense-2.json) |
 | Gem Twyx | 88153 | [88153-gem-twyx.json](./88153-gem-twyx.json) |
@@ -2958,6 +2959,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Generation of Chaos: Pandora's Reflection | 21018 | [21018-generation-of-chaos-pandoras-reflection.json](./21018-generation-of-chaos-pandoras-reflection.json) |
 | Generation Ship | 152950 | [152950-generation-ship.json](./152950-generation-ship.json) |
 | Generation Streets | 110088 | [110088-generation-streets.json](./110088-generation-streets.json) |
+| Generation Xth: Code Breaker | 14683 | [14683-generation-xth-code-breaker.json](./14683-generation-xth-code-breaker.json) |
+| Generation Xth: Code Hazard | 14682 | [14682-generation-xth-code-hazard.json](./14682-generation-xth-code-hazard.json) |
+| Generation Xth: Code Realize | 14684 | [14684-generation-xth-code-realize.json](./14684-generation-xth-code-realize.json) |
 | Generation Zero: Action Hero Bundle | 331540 | [331540-generation-zero-action-hero-bundle.json](./331540-generation-zero-action-hero-bundle.json) |
 | Generation Zero: Advanced Intelligence Cosmetics Pack | 276062 | [276062-generation-zero-advanced-intelligence-cosmetics-pack.json](./276062-generation-zero-advanced-intelligence-cosmetics-pack.json) |
 | Generation Zero: Alpine Unrest | 164842 | [164842-generation-zero-alpine-unrest.json](./164842-generation-zero-alpine-unrest.json) |
