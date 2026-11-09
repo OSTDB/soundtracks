@@ -661,6 +661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wanderer of Teandria | 32553 | [32553-wanderer-of-teandria.json](./32553-wanderer-of-teandria.json) |
 | Wanderer: Broken Bed | 260327 | [260327-wanderer-broken-bed.json](./260327-wanderer-broken-bed.json) |
 | Wanderer: The Fragments of Fate | 253728 | [253728-wanderer-the-fragments-of-fate.json](./253728-wanderer-the-fragments-of-fate.json) |
+| Wanderer: The Rebirth | 30000 | [30000-wanderer-the-rebirth.json](./30000-wanderer-the-rebirth.json) |
 | Wanderer's Guide to Ocean and Islands | 300486 | [300486-wanderers-guide-to-ocean-and-islands.json](./300486-wanderers-guide-to-ocean-and-islands.json) |
 | Wanderer's Shade | 310183 | [310183-wanderers-shade.json](./310183-wanderers-shade.json) |
 | Wanderers | 148734 | [148734-wanderers.json](./148734-wanderers.json) |
@@ -964,6 +965,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Beach | 34545 | [34545-war-of-beach.json](./34545-war-of-beach.json) |
 | War of Being | 260574 | [260574-war-of-being.json](./260574-war-of-being.json) |
 | War of Bellrook | 211123 | [211123-war-of-bellrook.json](./211123-war-of-bellrook.json) |
+| War of Castle VR | 29349 | [29349-war-of-castle-vr.json](./29349-war-of-castle-vr.json) |
 | War Of Castles | 282249 | [282249-war-of-castles.json](./282249-war-of-castles.json) |
 | War Of Celestials | 253389 | [253389-war-of-celestials.json](./253389-war-of-celestials.json) |
 | War of Charge | 309676 | [309676-war-of-charge.json](./309676-war-of-charge.json) |
