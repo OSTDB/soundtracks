@@ -5597,6 +5597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Heli | 349794 | [349794-rescue-heli.json](./349794-rescue-heli.json) |
 | Rescue Heli RH407 | 345006 | [345006-rescue-heli-rh407.json](./345006-rescue-heli-rh407.json) |
 | Rescue Helicopter | 390166 | [390166-rescue-helicopter.json](./390166-rescue-helicopter.json) |
+| Rescue Heroes: Billy Blazes | 49431 | [49431-rescue-heroes-billy-blazes.json](./49431-rescue-heroes-billy-blazes.json) |
 | Rescue Heroes: Fire Frenzy | 49948 | [49948-rescue-heroes-fire-frenzy.json](./49948-rescue-heroes-fire-frenzy.json) |
 | Rescue Heroes: Hurricane Havoc | 66337 | [66337-rescue-heroes-hurricane-havoc.json](./66337-rescue-heroes-hurricane-havoc.json) |
 | Rescue Heroes: Lava Landslide | 209433 | [209433-rescue-heroes-lava-landslide.json](./209433-rescue-heroes-lava-landslide.json) |
