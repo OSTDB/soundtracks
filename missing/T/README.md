@@ -8833,6 +8833,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Drift Challenge | 167570 | [167570-the-drift-challenge.json](./167570-the-drift-challenge.json) |
 | The Drifter | 126870 | [126870-the-drifter.json](./126870-the-drifter.json) |
 | The Drifting Woods | 149705 | [149705-the-drifting-woods.json](./149705-the-drifting-woods.json) |
+| The Driver | 65624 | [65624-the-driver.json](./65624-the-driver.json) |
 | The Driver Syndicate | 374545 | [374545-the-driver-syndicate.json](./374545-the-driver-syndicate.json) |
 | The Driver's Mission | 121195 | [121195-the-drivers-mission.json](./121195-the-drivers-mission.json) |
 | The Drone Lord | 343308 | [343308-the-drone-lord.json](./343308-the-drone-lord.json) |
