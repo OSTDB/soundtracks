@@ -2856,6 +2856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Read This When You Turn 15 | 329289 | [329289-read-this-when-you-turn-15.json](./329289-read-this-when-you-turn-15.json) |
 | Read Watch Listen Plan | 404658 | [404658-read-watch-listen-plan.json](./404658-read-watch-listen-plan.json) |
 | Read, Write, & Type | 314139 | [314139-read-write-and-type.json](./314139-read-write-and-type.json) |
+| Readback | 54560 | [54560-readback.json](./54560-readback.json) |
 | Reader Rabbit | 131100 | [131100-reader-rabbit.json](./131100-reader-rabbit.json) |
 | Reader Rabbit | 133587 | [133587-reader-rabbit.json](./133587-reader-rabbit.json) |
 | Reader Rabbit 1 | 80516 | [80516-reader-rabbit-1.json](./80516-reader-rabbit-1.json) |
@@ -6455,6 +6456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return of the Cyrus Cylinder | 319442 | [319442-return-of-the-cyrus-cylinder.json](./319442-return-of-the-cyrus-cylinder.json) |
 | Return of the Demons | 386337 | [386337-return-of-the-demons.json](./386337-return-of-the-demons.json) |
 | Return of the Dinosaurs | 147214 | [147214-return-of-the-dinosaurs.json](./147214-return-of-the-dinosaurs.json) |
+| Return of the Guitar Lord | 54588 | [54588-return-of-the-guitar-lord.json](./54588-return-of-the-guitar-lord.json) |
 | Return of the Heir | 147674 | [147674-return-of-the-heir.json](./147674-return-of-the-heir.json) |
 | Return of the Host | 244576 | [244576-return-of-the-host.json](./244576-return-of-the-host.json) |
 | Return of the Invaders | 40072 | [40072-return-of-the-invaders.json](./40072-return-of-the-invaders.json) |
@@ -8461,6 +8463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rival Stars College Football | 241865 | [241865-rival-stars-college-football.json](./241865-rival-stars-college-football.json) |
 | Rival Stars Horse Racing | 318221 | [318221-rival-stars-horse-racing.json](./318221-rival-stars-horse-racing.json) |
 | Rival Stars Horse Racing: VR Edition | 314638 | [314638-rival-stars-horse-racing-vr-edition.json](./314638-rival-stars-horse-racing-vr-edition.json) |
+| Rival Threads: Last Class Heroes | 54587 | [54587-rival-threads-last-class-heroes.json](./54587-rival-threads-last-class-heroes.json) |
 | Rival Turf! | 42467 | [42467-rival-turf.json](./42467-rival-turf.json) |
 | Rivalhearts | 321342 | [321342-rivalhearts.json](./321342-rivalhearts.json) |
 | Rivalia Online | 383048 | [383048-rivalia-online.json](./383048-rivalia-online.json) |
@@ -8701,6 +8704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road of Dust and Rust | 87949 | [87949-road-of-dust-and-rust.json](./87949-road-of-dust-and-rust.json) |
 | Road of Fury | 251299 | [251299-road-of-fury.json](./251299-road-of-fury.json) |
 | Road of Fury 2 | 102022 | [102022-road-of-fury-2.json](./102022-road-of-fury-2.json) |
+| Road of the Dead 2 | 54583 | [54583-road-of-the-dead-2.json](./54583-road-of-the-dead-2.json) |
 | Road Patrol Truck | 104227 | [104227-road-patrol-truck.json](./104227-road-patrol-truck.json) |
 | Road Race | 200425 | [200425-road-race.json](./200425-road-race.json) |
 | Road Race | 67442 | [67442-road-race.json](./67442-road-race.json) |
