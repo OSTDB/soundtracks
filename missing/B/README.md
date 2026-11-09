@@ -17902,6 +17902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bullet Train Simulator: Euro Train Driver | 104611 | [104611-bullet-train-simulator-euro-train-driver.json](./104611-bullet-train-simulator-euro-train-driver.json) |
 | Bullet Trap | 68640 | [68640-bullet-trap.json](./68640-bullet-trap.json) |
 | Bullet Vendetta | 414588 | [414588-bullet-vendetta.json](./414588-bullet-vendetta.json) |
+| Bullet VR | 43362 | [43362-bullet-vr.json](./43362-bullet-vr.json) |
 | Bullet Waltz | 223658 | [223658-bullet-waltz.json](./223658-bullet-waltz.json) |
 | Bullet Wave | 172299 | [172299-bullet-wave.json](./172299-bullet-wave.json) |
 | Bullet Witch | 6928 | [6928-bullet-witch.json](./6928-bullet-witch.json) |
