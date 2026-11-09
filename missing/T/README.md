@@ -15586,6 +15586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Price Is Right | 394688 | [394688-the-price-is-right.json](./394688-the-price-is-right.json) |
 | The Price Is Right | 47943 | [47943-the-price-is-right.json](./47943-the-price-is-right.json) |
 | The Price Is Right Bingo | 83397 | [83397-the-price-is-right-bingo.json](./83397-the-price-is-right-bingo.json) |
+| The Price is Right: 2010 Edition | 50650 | [50650-the-price-is-right-2010-edition.json](./50650-the-price-is-right-2010-edition.json) |
 | The Price Is Right: 2010 Edition | 394690 | [394690-the-price-is-right-2010-edition.json](./394690-the-price-is-right-2010-edition.json) |
 | The Price is Right: Decades | 20213 | [20213-the-price-is-right-decades.json](./20213-the-price-is-right-decades.json) |
 | The Price of Freedom | 30388 | [30388-the-price-of-freedom.json](./30388-the-price-of-freedom.json) |
@@ -26456,6 +26457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Secret Finders | 145142 | [145142-top-secret-finders.json](./145142-top-secret-finders.json) |
 | Top Shot | 306386 | [306386-top-shot.json](./306386-top-shot.json) |
 | Top Shot II | 92323 | [92323-top-shot-ii.json](./92323-top-shot-ii.json) |
+| Top Shot: Arcade | 50641 | [50641-top-shot-arcade.json](./50641-top-shot-arcade.json) |
 | Top Shot: Dinosaur Hunter | 51019 | [51019-top-shot-dinosaur-hunter.json](./51019-top-shot-dinosaur-hunter.json) |
 | Top Skater | 18047 | [18047-top-skater.json](./18047-top-skater.json) |
 | Top Solitaire | 87111 | [87111-top-solitaire.json](./87111-top-solitaire.json) |
@@ -28534,6 +28536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trackmania Turbo: Build to Race | 67017 | [67017-trackmania-turbo-build-to-race.json](./67017-trackmania-turbo-build-to-race.json) |
 | TrackMania United | 9908 | [9908-trackmania-united.json](./9908-trackmania-united.json) |
 | TrackMania United Forever | 2451 | [2451-trackmania-united-forever.json](./2451-trackmania-united-forever.json) |
+| TrackMania: Build to Race | 50680 | [50680-trackmania-build-to-race.json](./50680-trackmania-build-to-race.json) |
 | TrackMania: Power Up! | 69906 | [69906-trackmania-power-up.json](./69906-trackmania-power-up.json) |
 | TrackMaster: Free For All Motorsport | 155376 | [155376-trackmaster-free-for-all-motorsport.json](./155376-trackmaster-free-for-all-motorsport.json) |
 | Trackminia | 336260 | [336260-trackminia.json](./336260-trackminia.json) |
@@ -30818,6 +30821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transformers: The Game | 200810 | [200810-transformers-the-game.json](./200810-transformers-the-game.json) |
 | Transformers: The Headmasters | 8017 | [8017-transformers-the-headmasters.json](./8017-transformers-the-headmasters.json) |
 | Transformers: Ultimate Autobots Edition | 61090 | [61090-transformers-ultimate-autobots-edition.json](./61090-transformers-ultimate-autobots-edition.json) |
+| Transformers: Ultimate Battle Edition | 50678 | [50678-transformers-ultimate-battle-edition.json](./50678-transformers-ultimate-battle-edition.json) |
 | Transformers: War for Cybertron | 555 | [555-transformers-war-for-cybertron.json](./555-transformers-war-for-cybertron.json) |
 | Transformers: War for Cybertron - Autobots | 159310 | [159310-transformers-war-for-cybertron-autobots.json](./159310-transformers-war-for-cybertron-autobots.json) |
 | Transformers: War for Cybertron - Decepticons | 47945 | [47945-transformers-war-for-cybertron-decepticons.json](./47945-transformers-war-for-cybertron-decepticons.json) |
