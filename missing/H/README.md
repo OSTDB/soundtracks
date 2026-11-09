@@ -3408,6 +3408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heart Love Power Temple | 194754 | [194754-heart-love-power-temple.json](./194754-heart-love-power-temple.json) |
 | Heart Maze | 40994 | [40994-heart-maze.json](./40994-heart-maze.json) |
 | Heart no Kuni no Alice: Wonderful Twin World | 218642 | [218642-heart-no-kuni-no-alice-wonderful-twin-world.json](./218642-heart-no-kuni-no-alice-wonderful-twin-world.json) |
+| Heart no Kuni no Alice: Wonderful Wonder World | 38452 | [38452-heart-no-kuni-no-alice-wonderful-wonder-world.json](./38452-heart-no-kuni-no-alice-wonderful-wonder-world.json) |
 | Heart of a Bird in a Cage | 152562 | [152562-heart-of-a-bird-in-a-cage.json](./152562-heart-of-a-bird-in-a-cage.json) |
 | Heart of a Bird in a Cage: After Story | 227066 | [227066-heart-of-a-bird-in-a-cage-after-story.json](./227066-heart-of-a-bird-in-a-cage-after-story.json) |
 | Heart of a Knight | 322078 | [322078-heart-of-a-knight.json](./322078-heart-of-a-knight.json) |
