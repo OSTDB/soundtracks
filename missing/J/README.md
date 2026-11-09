@@ -203,6 +203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Pottwin: House of Odds | 407876 | [407876-jack-pottwin-house-of-odds.json](./407876-jack-pottwin-house-of-odds.json) |
 | Jack Rabbit | 40052 | [40052-jack-rabbit.json](./40052-jack-rabbit.json) |
 | Jack Saves Easter | 193479 | [193479-jack-saves-easter.json](./193479-jack-saves-easter.json) |
+| Jack Spriggan | 40848 | [40848-jack-spriggan.json](./40848-jack-spriggan.json) |
 | Jack Sprite vs. The Crimson Ghost | 45923 | [45923-jack-sprite-vs-the-crimson-ghost.json](./45923-jack-sprite-vs-the-crimson-ghost.json) |
 | Jack Sprout | 157485 | [157485-jack-sprout.json](./157485-jack-sprout.json) |
 | Jack Street | 333308 | [333308-jack-street.json](./333308-jack-street.json) |
@@ -3238,6 +3239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jukaya | 180587 | [180587-jukaya.json](./180587-jukaya.json) |
 | Juke | 43095 | [43095-juke.json](./43095-juke.json) |
 | Jukebeat | 79860 | [79860-jukebeat.json](./79860-jukebeat.json) |
+| Jukebox | 40891 | [40891-jukebox.json](./40891-jukebox.json) |
 | Jukemeister | 181790 | [181790-jukemeister.json](./181790-jukemeister.json) |
 | Juken Jigoku | 127745 | [127745-juken-jigoku.json](./127745-juken-jigoku.json) |
 | Jukugon | 56830 | [56830-jukugon.json](./56830-jukugon.json) |
