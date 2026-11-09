@@ -2165,6 +2165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies. | 95370 | [95370-zombies.json](./95370-zombies.json) |
 | Zombies.io | 130359 | [130359-zombies-io.json](./130359-zombies-io.json) |
 | Zombies.io | 334539 | [334539-zombies-io.json](./334539-zombies-io.json) |
+| ZombieSmash | 66793 | [66793-zombiesmash.json](./66793-zombiesmash.json) |
 | ZombieSmash HD | 281446 | [281446-zombiesmash-hd.json](./281446-zombiesmash-hd.json) |
 | ZombieSquad | 216475 | [216475-zombiesquad.json](./216475-zombiesquad.json) |
 | ZombiesWaves | 149902 | [149902-zombieswaves.json](./149902-zombieswaves.json) |
