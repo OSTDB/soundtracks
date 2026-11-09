@@ -2379,6 +2379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Village Merchant | 377167 | [377167-village-merchant.json](./377167-village-merchant.json) |
 | Village Monsters | 68469 | [68469-village-monsters.json](./68469-village-monsters.json) |
 | Village of Adventurers 2 | 74290 | [74290-village-of-adventurers-2.json](./74290-village-of-adventurers-2.json) |
+| Village of Lost Souls | 39068 | [39068-village-of-lost-souls.json](./39068-village-of-lost-souls.json) |
 | Village of Origins | 210548 | [210548-village-of-origins.json](./210548-village-of-origins.json) |
 | Village of the Ages | 369042 | [369042-village-of-the-ages.json](./369042-village-of-the-ages.json) |
 | Village of the Curse | 387600 | [387600-village-of-the-curse.json](./387600-village-of-the-curse.json) |
