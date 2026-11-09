@@ -5735,6 +5735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Links Quartz | 309389 | [309389-links-quartz.json](./309389-links-quartz.json) |
 | Links: Championship Course - Banff Springs | 69756 | [69756-links-championship-course-banff-springs.json](./69756-links-championship-course-banff-springs.json) |
 | Links: Championship Course - Barton Creek | 71952 | [71952-links-championship-course-barton-creek.json](./71952-links-championship-course-barton-creek.json) |
+| Links: Championship Course - Bay Hill Club & Lodge | 73401 | [73401-links-championship-course-bay-hill-club-and-lodge.json](./73401-links-championship-course-bay-hill-club-and-lodge.json) |
 | Links: Championship Course - Bountiful Golf Course | 77910 | [77910-links-championship-course-bountiful-golf-course.json](./77910-links-championship-course-bountiful-golf-course.json) |
 | Links: Championship Course - Castlepines | 93225 | [93225-links-championship-course-castlepines.json](./93225-links-championship-course-castlepines.json) |
 | Links: Championship Course - Firestone Country Club | 73485 | [73485-links-championship-course-firestone-country-club.json](./73485-links-championship-course-firestone-country-club.json) |
