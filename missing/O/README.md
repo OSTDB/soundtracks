@@ -2687,6 +2687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Romance Dawn | 6851 | [6851-one-piece-romance-dawn.json](./6851-one-piece-romance-dawn.json) |
 | One Piece: Round the Land! | 43401 | [43401-one-piece-round-the-land.json](./43401-one-piece-round-the-land.json) |
 | One Piece: Starboard | 300799 | [300799-one-piece-starboard.json](./300799-one-piece-starboard.json) |
+| One Piece: Thousand Storm | 26734 | [26734-one-piece-thousand-storm.json](./26734-one-piece-thousand-storm.json) |
 | One Piece: Tobidase Kaizoku-dan! | 75740 | [75740-one-piece-tobidase-kaizoku-dan.json](./75740-one-piece-tobidase-kaizoku-dan.json) |
 | One Piece: Treasure Battle! | 75746 | [75746-one-piece-treasure-battle.json](./75746-one-piece-treasure-battle.json) |
 | One Piece: Treasure Cruise | 18376 | [18376-one-piece-treasure-cruise.json](./18376-one-piece-treasure-cruise.json) |
