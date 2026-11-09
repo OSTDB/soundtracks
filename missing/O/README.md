@@ -556,6 +556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Octarine | 184246 | [184246-octarine.json](./184246-octarine.json) |
 | Octate | 259372 | [259372-octate.json](./259372-octate.json) |
 | Octave | 180675 | [180675-octave.json](./180675-octave.json) |
+| Octave Bar Clock | 65066 | [65066-octave-bar-clock.json](./65066-octave-bar-clock.json) |
 | Octavian | 169153 | [169153-octavian.json](./169153-octavian.json) |
 | Octavio Camacho | 247537 | [247537-octavio-camacho.json](./247537-octavio-camacho.json) |
 | Octbuster: Video Rental Store Cleanup | 414500 | [414500-octbuster-video-rental-store-cleanup.json](./414500-octbuster-video-rental-store-cleanup.json) |
@@ -4856,6 +4857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | OttGiu | 321535 | [321535-ottgiu.json](./321535-ottgiu.json) |
 | Otti: House Keeper | 138470 | [138470-otti-house-keeper.json](./138470-otti-house-keeper.json) |
 | Otti: The House Keeper | 142592 | [142592-otti-the-house-keeper.json](./142592-otti-the-house-keeper.json) |
+| Ottifanten Pinball | 65062 | [65062-ottifanten-pinball.json](./65062-ottifanten-pinball.json) |
 | Ottifanten: Ostfriesen Lemminge in Not | 410100 | [410100-ottifanten-ostfriesen-lemminge-in-not.json](./410100-ottifanten-ostfriesen-lemminge-in-not.json) |
 | Otto | 103268 | [103268-otto.json](./103268-otto.json) |
 | Otto and the Ancient Worlds | 102382 | [102382-otto-and-the-ancient-worlds.json](./102382-otto-and-the-ancient-worlds.json) |
@@ -5773,6 +5775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overfall | 17253 | [17253-overfall.json](./17253-overfall.json) |
 | OverField | 306810 | [306810-overfield.json](./306810-overfield.json) |
 | Overflo Game | 126538 | [126538-overflo-game.json](./126538-overflo-game.json) |
+| Overflow | 65086 | [65086-overflow.json](./65086-overflow.json) |
 | Overflower | 316858 | [316858-overflower.json](./316858-overflower.json) |
 | Overgame | 177129 | [177129-overgame.json](./177129-overgame.json) |
 | Overgeared Hero | 405029 | [405029-overgeared-hero.json](./405029-overgeared-hero.json) |
