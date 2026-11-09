@@ -2524,6 +2524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Genesis Evangelion 2: Another Cases | 75877 | [75877-neon-genesis-evangelion-2-another-cases.json](./75877-neon-genesis-evangelion-2-another-cases.json) |
 | Neon Genesis Evangelion: 1st Impression | 69709 | [69709-neon-genesis-evangelion-1st-impression.json](./69709-neon-genesis-evangelion-1st-impression.json) |
 | Neon Genesis Evangelion: 2nd Impression | 75875 | [75875-neon-genesis-evangelion-2nd-impression.json](./75875-neon-genesis-evangelion-2nd-impression.json) |
+| Neon Genesis Evangelion: Battle Orchestra | 43404 | [43404-neon-genesis-evangelion-battle-orchestra.json](./43404-neon-genesis-evangelion-battle-orchestra.json) |
 | Neon Genesis Evangelion: Digital Card Library | 75880 | [75880-neon-genesis-evangelion-digital-card-library.json](./75880-neon-genesis-evangelion-digital-card-library.json) |
 | Neon Genesis Evangelion: Eva to Yukai na Nakamatachi | 75881 | [75881-neon-genesis-evangelion-eva-to-yukai-na-nakamatachi.json](./75881-neon-genesis-evangelion-eva-to-yukai-na-nakamatachi.json) |
 | Neon Genesis Evangelion: Eva to Yukai na Nakamatachi - Datsui Hokan Keikaku! | 75882 | [75882-neon-genesis-evangelion-eva-to-yukai-na-nakamatachi-datsui-hokan-keikaku.json](./75882-neon-genesis-evangelion-eva-to-yukai-na-nakamatachi-datsui-hokan-keikaku.json) |
@@ -3844,6 +3845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL GameDay '97 | 20716 | [20716-nfl-gameday-97.json](./20716-nfl-gameday-97.json) |
 | NFL GameDay 2000 | 43707 | [43707-nfl-gameday-2000.json](./43707-nfl-gameday-2000.json) |
 | NFL GameDay 2001 | 43763 | [43763-nfl-gameday-2001.json](./43763-nfl-gameday-2001.json) |
+| NFL GameDay 2002 | 43399 | [43399-nfl-gameday-2002.json](./43399-nfl-gameday-2002.json) |
 | NFL GameDay 2003 | 43706 | [43706-nfl-gameday-2003.json](./43706-nfl-gameday-2003.json) |
 | NFL GameDay 2004 | 43705 | [43705-nfl-gameday-2004.json](./43705-nfl-gameday-2004.json) |
 | NFL GameDay 2005 | 209589 | [209589-nfl-gameday-2005.json](./209589-nfl-gameday-2005.json) |
