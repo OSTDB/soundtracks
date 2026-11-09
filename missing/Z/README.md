@@ -1517,6 +1517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombeo and Vampireta | 399696 | [399696-zombeo-and-vampireta.json](./399696-zombeo-and-vampireta.json) |
 | Zombetes | 312498 | [312498-zombetes.json](./312498-zombetes.json) |
 | ZombFarm | 315936 | [315936-zombfarm.json](./315936-zombfarm.json) |
+| Zombi | 11491 | [11491-zombi.json](./11491-zombi.json) |
 | Zombi | 2279 | [2279-zombi.json](./2279-zombi.json) |
 | Zombi Efem | 312501 | [312501-zombi-efem.json](./312501-zombi-efem.json) |
 | Zombi Mall | 421606 | [421606-zombi-mall.json](./421606-zombi-mall.json) |
