@@ -4614,6 +4614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fight Club: Join us if you can | 231058 | [231058-fight-club-join-us-if-you-can.json](./231058-fight-club-join-us-if-you-can.json) |
 | Fight Crab | 90231 | [90231-fight-crab.json](./90231-fight-crab.json) |
 | Fight Crab 2 | 265211 | [265211-fight-crab-2.json](./265211-fight-crab-2.json) |
+| Fight desserts | 76116 | [76116-fight-desserts.json](./76116-fight-desserts.json) |
 | Fight Fever | 39553 | [39553-fight-fever.json](./39553-fight-fever.json) |
 | Fight For America | 380698 | [380698-fight-for-america.json](./380698-fight-for-america.json) |
 | Fight For America: Complete Edition | 385199 | [385199-fight-for-america-complete-edition.json](./385199-fight-for-america-complete-edition.json) |
@@ -8997,6 +8998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FM | 150299 | [150299-fm.json](./150299-fm.json) |
 | FM4X | 270651 | [270651-fm4x.json](./270651-fm4x.json) |
 | FM7X: Continental Odyssey | 314750 | [314750-fm7x-continental-odyssey.json](./314750-fm7x-continental-odyssey.json) |
+| FMath | 76078 | [76078-fmath.json](./76078-fmath.json) |
 | FMTC | 341809 | [341809-fmtc.json](./341809-fmtc.json) |
 | FMV Action | 289419 | [289419-fmv-action.json](./289419-fmv-action.json) |
 | FMV Adventure | 331466 | [331466-fmv-adventure.json](./331466-fmv-adventure.json) |
