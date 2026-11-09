@@ -2251,6 +2251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Once Upon a Time in the Gold Rush VR: Shoot and Ride | 169573 | [169573-once-upon-a-time-in-the-gold-rush-vr-shoot-and-ride.json](./169573-once-upon-a-time-in-the-gold-rush-vr-shoot-and-ride.json) |
 | Once Upon a Time on Halloween | 223569 | [223569-once-upon-a-time-on-halloween.json](./223569-once-upon-a-time-on-halloween.json) |
 | Once Upon a Time There was a Twin-Tailed Sister Princess Who Was Very Unfriendly. | 272738 | [272738-once-upon-a-time-there-was-a-twin-tailed-sister-princess-who-was-very-unfriendly.json](./272738-once-upon-a-time-there-was-a-twin-tailed-sister-princess-who-was-very-unfriendly.json) |
+| Once Upon a Time: Abracadabra | 14784 | [14784-once-upon-a-time-abracadabra.json](./14784-once-upon-a-time-abracadabra.json) |
 | Once Upon a Time: Baba Yaga | 14785 | [14785-once-upon-a-time-baba-yaga.json](./14785-once-upon-a-time-baba-yaga.json) |
 | Once Upon A Time: Little Red Riding Hood | 57574 | [57574-once-upon-a-time-little-red-riding-hood.json](./57574-once-upon-a-time-little-red-riding-hood.json) |
 | Once Upon a Time... Life: Origins | 212171 | [212171-once-upon-a-time-life-origins.json](./212171-once-upon-a-time-life-origins.json) |
