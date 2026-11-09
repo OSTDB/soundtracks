@@ -5742,6 +5742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willy the Worm | 69897 | [69897-willy-the-worm.json](./69897-willy-the-worm.json) |
 | Willy Tournament 2004 | 329999 | [329999-willy-tournament-2004.json](./329999-willy-tournament-2004.json) |
 | Willy Wabbit & His Magical Books | 287320 | [287320-willy-wabbit-and-his-magical-books.json](./287320-willy-wabbit-and-his-magical-books.json) |
+| Willy Wombat | 45401 | [45401-willy-wombat.json](./45401-willy-wombat.json) |
 | Willy Wonka & The Chocolate Factory | 130786 | [130786-willy-wonka-and-the-chocolate-factory.json](./130786-willy-wonka-and-the-chocolate-factory.json) |
 | Willy-Nilly Knight | 29101 | [29101-willy-nilly-knight.json](./29101-willy-nilly-knight.json) |
 | Willy's Adventure | 375458 | [375458-willys-adventure.json](./375458-willys-adventure.json) |
@@ -8393,6 +8394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Diving | 9337 | [9337-world-of-diving.json](./9337-world-of-diving.json) |
 | World of Dogs | 342991 | [342991-world-of-dogs.json](./342991-world-of-dogs.json) |
 | World of Dragon Nest | 130532 | [130532-world-of-dragon-nest.json](./130532-world-of-dragon-nest.json) |
+| World of Dragon Warrior: Torneko - The Last Hope | 44922 | [44922-world-of-dragon-warrior-torneko-the-last-hope.json](./44922-world-of-dragon-warrior-torneko-the-last-hope.json) |
 | World of Dragons: Dragon Simulator | 88219 | [88219-world-of-dragons-dragon-simulator.json](./88219-world-of-dragons-dragon-simulator.json) |
 | World of Elemental | 358505 | [358505-world-of-elemental.json](./358505-world-of-elemental.json) |
 | World of Empires 2 | 176619 | [176619-world-of-empires-2.json](./176619-world-of-empires-2.json) |
