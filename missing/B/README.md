@@ -1580,6 +1580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ball O | 262897 | [262897-ball-o.json](./262897-ball-o.json) |
 | Ball of Adventure | 220051 | [220051-ball-of-adventure.json](./220051-ball-of-adventure.json) |
 | Ball of Doom | 132465 | [132465-ball-of-doom.json](./132465-ball-of-doom.json) |
+| Ball of Light | 31014 | [31014-ball-of-light.json](./31014-ball-of-light.json) |
 | Ball of Paint | 334752 | [334752-ball-of-paint.json](./334752-ball-of-paint.json) |
 | Ball of Poo | 276855 | [276855-ball-of-poo.json](./276855-ball-of-poo.json) |
 | Ball of Woe | 253267 | [253267-ball-of-woe.json](./253267-ball-of-woe.json) |
@@ -13801,6 +13802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booze Masters: Freezing Moonshine | 266821 | [266821-booze-masters-freezing-moonshine.json](./266821-booze-masters-freezing-moonshine.json) |
 | Booze Shop Simulator | 344233 | [344233-booze-shop-simulator.json](./344233-booze-shop-simulator.json) |
 | BoozeBall | 219726 | [219726-boozeball.json](./219726-boozeball.json) |
+| Boozy Dwarf | 30329 | [30329-boozy-dwarf.json](./30329-boozy-dwarf.json) |
 | Bop A Dork | 232587 | [232587-bop-a-dork.json](./232587-bop-a-dork.json) |
 | Bop It! Tetris | 229069 | [229069-bop-it-tetris.json](./229069-bop-it-tetris.json) |
 | Bop It! The Video Game | 368758 | [368758-bop-it-the-video-game.json](./368758-bop-it-the-video-game.json) |
@@ -15784,6 +15786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaking Bad DS | 277201 | [277201-breaking-bad-ds.json](./277201-breaking-bad-ds.json) |
 | Breaking Bad: Criminal Elements | 114003 | [114003-breaking-bad-criminal-elements.json](./114003-breaking-bad-criminal-elements.json) |
 | Breaking Bad: VR Experience | 36757 | [36757-breaking-bad-vr-experience.json](./36757-breaking-bad-vr-experience.json) |
+| Breaking Bones | 30390 | [30390-breaking-bones.json](./30390-breaking-bones.json) |
 | Breaking Bound | 289799 | [289799-breaking-bound.json](./289799-breaking-bound.json) |
 | Breaking Box: Rush! | 271088 | [271088-breaking-box-rush.json](./271088-breaking-box-rush.json) |
 | Breaking Box: Walk | 264147 | [264147-breaking-box-walk.json](./264147-breaking-box-walk.json) |
@@ -16263,6 +16266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bridge to Another World: The Others HD | 100518 | [100518-bridge-to-another-world-the-others-hd.json](./100518-bridge-to-another-world-the-others-hd.json) |
 | Bridge to Another World: Through the Looking Glass | 397099 | [397099-bridge-to-another-world-through-the-looking-glass.json](./397099-bridge-to-another-world-through-the-looking-glass.json) |
 | Bridge to Another World: Through the Looking Glass - Collector's Edition | 397098 | [397098-bridge-to-another-world-through-the-looking-glass-collectors-edition.json](./397098-bridge-to-another-world-through-the-looking-glass-collectors-edition.json) |
+| Bridge to Nowhere | 30989 | [30989-bridge-to-nowhere.json](./30989-bridge-to-nowhere.json) |
 | Bridge to the East | 178132 | [178132-bridge-to-the-east.json](./178132-bridge-to-the-east.json) |
 | Bridge Training | 206493 | [206493-bridge-training.json](./206493-bridge-training.json) |
 | Bridge Trek | 89328 | [89328-bridge-trek.json](./89328-bridge-trek.json) |
@@ -16784,6 +16788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brume | 121093 | [121093-brume.json](./121093-brume.json) |
 | Brume | 405487 | [405487-brume.json](./405487-brume.json) |
 | Brumley | 405770 | [405770-brumley.json](./405770-brumley.json) |
+| Brumm | 30990 | [30990-brumm.json](./30990-brumm.json) |
 | Brunch Club | 122867 | [122867-brunch-club.json](./122867-brunch-club.json) |
 | Brunch Panic | 85012 | [85012-brunch-panic.json](./85012-brunch-panic.json) |
 | Brunch Rush | 211031 | [211031-brunch-rush.json](./211031-brunch-rush.json) |
