@@ -847,6 +847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echo Pandemic | 404333 | [404333-echo-pandemic.json](./404333-echo-pandemic.json) |
 | Echo Point Nova | 243932 | [243932-echo-point-nova.json](./243932-echo-point-nova.json) |
 | Echo Point Nova: Under the Clouds | 364276 | [364276-echo-point-nova-under-the-clouds.json](./364276-echo-point-nova-under-the-clouds.json) |
+| Echo Prime | 16713 | [16713-echo-prime.json](./16713-echo-prime.json) |
 | Echo Protocol: Escape Room | 360642 | [360642-echo-protocol-escape-room.json](./360642-echo-protocol-escape-room.json) |
 | Echo Punk | 381634 | [381634-echo-punk.json](./381634-echo-punk.json) |
 | Echo Royale | 116784 | [116784-echo-royale.json](./116784-echo-royale.json) |
