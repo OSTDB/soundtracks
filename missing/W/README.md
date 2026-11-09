@@ -9161,6 +9161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worry | 91960 | [91960-worry.json](./91960-worry.json) |
 | Worry Eaters: Dada Land | 88804 | [88804-worry-eaters-dada-land.json](./88804-worry-eaters-dada-land.json) |
 | Worry_Bead | 233039 | [233039-worry-bead.json](./233039-worry-bead.json) |
+| Worse Things Happen At Sea | 46039 | [46039-worse-things-happen-at-sea.json](./46039-worse-things-happen-at-sea.json) |
 | Worship | 144971 | [144971-worship.json](./144971-worship.json) |
 | Worshippers | 74926 | [74926-worshippers.json](./74926-worshippers.json) |
 | Worshippers of Cthulhu | 292876 | [292876-worshippers-of-cthulhu.json](./292876-worshippers-of-cthulhu.json) |
