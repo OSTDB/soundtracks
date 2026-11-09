@@ -5282,6 +5282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lila's Atelier | 391450 | [391450-lilas-atelier.json](./391450-lilas-atelier.json) |
 | Lila's Sky Ark | 144552 | [144552-lilas-sky-ark.json](./144552-lilas-sky-ark.json) |
 | Lila's Synthetic Shadows | 297119 | [297119-lilas-synthetic-shadows.json](./297119-lilas-synthetic-shadows.json) |
+| Lila's Tale | 27915 | [27915-lilas-tale.json](./27915-lilas-tale.json) |
 | Lila's Tale and the Hidden Forest | 164132 | [164132-lilas-tale-and-the-hidden-forest.json](./164132-lilas-tale-and-the-hidden-forest.json) |
 | Lilac & Her Light | 178919 | [178919-lilac-and-her-light.json](./178919-lilac-and-her-light.json) |
 | Lilac 0 | 329466 | [329466-lilac-0.json](./329466-lilac-0.json) |
@@ -5975,6 +5976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lists and Lists | 60183 | [60183-lists-and-lists.json](./60183-lists-and-lists.json) |
 | Lit | 21264 | [21264-lit.json](./21264-lit.json) |
 | Lit | 97106 | [97106-lit.json](./97106-lit.json) |
+| Lit the Torch | 27142 | [27142-lit-the-torch.json](./27142-lit-the-torch.json) |
 | Lit Up | 199724 | [199724-lit-up.json](./199724-lit-up.json) |
 | LIT: Bend the Light | 126621 | [126621-lit-bend-the-light.json](./126621-lit-bend-the-light.json) |
 | Lita's Dream | 252286 | [252286-litas-dream.json](./252286-litas-dream.json) |
