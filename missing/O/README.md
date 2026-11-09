@@ -5826,6 +5826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overgrown Cleaner | 372604 | [372604-overgrown-cleaner.json](./372604-overgrown-cleaner.json) |
 | Overgrown! | 348464 | [348464-overgrown.json](./348464-overgrown.json) |
 | Overgrowth | 229559 | [229559-overgrowth.json](./229559-overgrowth.json) |
+| Overgrowth | 5602 | [5602-overgrowth.json](./5602-overgrowth.json) |
 | Overgun | 285447 | [285447-overgun.json](./285447-overgun.json) |
 | Overhatched | 410321 | [410321-overhatched.json](./410321-overhatched.json) |
 | Overhaul | 152712 | [152712-overhaul.json](./152712-overhaul.json) |
