@@ -1445,6 +1445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hang-On & Astro Warrior | 86098 | [86098-hang-on-and-astro-warrior.json](./86098-hang-on-and-astro-warrior.json) |
 | Hang-On GP | 46098 | [46098-hang-on-gp.json](./46098-hang-on-gp.json) |
 | Hang-On II | 6111 | [6111-hang-on-ii.json](./6111-hang-on-ii.json) |
+| Hang-On Jr. | 64018 | [64018-hang-on-jr.json](./64018-hang-on-jr.json) |
 | Hangame | 109567 | [109567-hangame.json](./109567-hangame.json) |
 | Hangar 1914 | 292366 | [292366-hangar-1914.json](./292366-hangar-1914.json) |
 | Hangar 27 | 269121 | [269121-hangar-27.json](./269121-hangar-27.json) |
@@ -5945,6 +5946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heritage of Eternal Splitting | 299523 | [299523-heritage-of-eternal-splitting.json](./299523-heritage-of-eternal-splitting.json) |
 | Heritage: A Dragon's Tale | 250043 | [250043-heritage-a-dragons-tale.json](./250043-heritage-a-dragons-tale.json) |
 | Herkules | 318489 | [318489-herkules.json](./318489-herkules.json) |
+| Herkules | 64452 | [64452-herkules.json](./64452-herkules.json) |
 | Herman 2 | 117803 | [117803-herman-2.json](./117803-herman-2.json) |
 | Herman and the Falling Rocks | 63925 | [63925-herman-and-the-falling-rocks.json](./63925-herman-and-the-falling-rocks.json) |
 | Herman Electro | 137471 | [137471-herman-electro.json](./137471-herman-electro.json) |
