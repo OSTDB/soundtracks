@@ -6125,6 +6125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Sprint | 13478 | [13478-championship-sprint.json](./13478-championship-sprint.json) |
 | Championship Sprint | 91322 | [91322-championship-sprint.json](./91322-championship-sprint.json) |
 | Championship Surfer | 6722 | [6722-championship-surfer.json](./6722-championship-surfer.json) |
+| Championship Tennis | 41439 | [41439-championship-tennis.json](./41439-championship-tennis.json) |
 | Championship Water-Skiing | 13479 | [13479-championship-water-skiing.json](./13479-championship-water-skiing.json) |
 | Championship Wrestling | 13827 | [13827-championship-wrestling.json](./13827-championship-wrestling.json) |
 | Championship Wrestling Promoter | 199124 | [199124-championship-wrestling-promoter.json](./199124-championship-wrestling-promoter.json) |
@@ -7901,6 +7902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chip McCallahan in Sonic the Hedgehog 2 | 323860 | [323860-chip-mccallahan-in-sonic-the-hedgehog-2.json](./323860-chip-mccallahan-in-sonic-the-hedgehog-2.json) |
 | Chip Off the Ol' Stumbling Block | 221108 | [221108-chip-off-the-ol-stumbling-block.json](./221108-chip-off-the-ol-stumbling-block.json) |
 | Chip Shot Challenge | 360927 | [360927-chip-shot-challenge.json](./360927-chip-shot-challenge.json) |
+| Chip Shot: Super Pro Golf | 41438 | [41438-chip-shot-super-pro-golf.json](./41438-chip-shot-super-pro-golf.json) |
 | Chip-8 Emulator | 252650 | [252650-chip-8-emulator.json](./252650-chip-8-emulator.json) |
 | Chip-Boi | 177954 | [177954-chip-boi.json](./177954-chip-boi.json) |
 | Chip-chan Kick! | 45961 | [45961-chip-chan-kick.json](./45961-chip-chan-kick.json) |
@@ -8417,6 +8419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Bubble Puzzle | 280594 | [280594-christmas-bubble-puzzle.json](./280594-christmas-bubble-puzzle.json) |
 | Christmas Bubble Shooter | 86716 | [86716-christmas-bubble-shooter.json](./86716-christmas-bubble-shooter.json) |
 | Christmas Carnage | 94960 | [94960-christmas-carnage.json](./94960-christmas-carnage.json) |
+| Christmas Carol vs. The Ghost of Christmas Presents | 41466 | [41466-christmas-carol-vs-the-ghost-of-christmas-presents.json](./41466-christmas-carol-vs-the-ghost-of-christmas-presents.json) |
 | Christmas Cat | 101849 | [101849-christmas-cat.json](./101849-christmas-cat.json) |
 | Christmas Cats | 230968 | [230968-christmas-cats.json](./230968-christmas-cats.json) |
 | Christmas Cats Revenge | 127073 | [127073-christmas-cats-revenge.json](./127073-christmas-cats-revenge.json) |
@@ -17337,6 +17340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Climber 2 | 39808 | [39808-crazy-climber-2.json](./39808-crazy-climber-2.json) |
 | Crazy Climber 2000 | 77399 | [77399-crazy-climber-2000.json](./77399-crazy-climber-2000.json) |
 | Crazy Climber Wii | 61831 | [61831-crazy-climber-wii.json](./61831-crazy-climber-wii.json) |
+| Crazy Clones | 41477 | [41477-crazy-clones.json](./41477-crazy-clones.json) |
 | Crazy Clown | 240045 | [240045-crazy-clown.json](./240045-crazy-clown.json) |
 | Crazy Coin | 252946 | [252946-crazy-coin.json](./252946-crazy-coin.json) |
 | Crazy Comets | 13832 | [13832-crazy-comets.json](./13832-crazy-comets.json) |
