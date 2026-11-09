@@ -8771,6 +8771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyeshield 21: Field no Saikyou Senshi-tachi | 72994 | [72994-eyeshield-21-field-no-saikyou-senshi-tachi.json](./72994-eyeshield-21-field-no-saikyou-senshi-tachi.json) |
 | Eyeshield 21: MAX Devil Power | 124011 | [124011-eyeshield-21-max-devil-power.json](./124011-eyeshield-21-max-devil-power.json) |
 | Eyeshield 21: Portable Edition | 58277 | [58277-eyeshield-21-portable-edition.json](./58277-eyeshield-21-portable-edition.json) |
+| Eyestorm | 34563 | [34563-eyestorm.json](./34563-eyestorm.json) |
 | EyeToy Play Hero | 44638 | [44638-eyetoy-play-hero.json](./44638-eyetoy-play-hero.json) |
 | EyeToy Play: Astro Zoo | 43211 | [43211-eyetoy-play-astro-zoo.json](./43211-eyetoy-play-astro-zoo.json) |
 | EyeToy Play: PomPom Party | 2215 | [2215-eyetoy-play-pompom-party.json](./2215-eyetoy-play-pompom-party.json) |
