@@ -46,6 +46,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | U.S. Most Wanted: Nowhere to Hide | 73178 | [73178-u-s-most-wanted-nowhere-to-hide.json](./73178-u-s-most-wanted-nowhere-to-hide.json) |
 | U.S. Navy Fighters | 79890 | [79890-u-s-navy-fighters.json](./79890-u-s-navy-fighters.json) |
 | U.S. Navy Fighters - Marine Fighters | 70463 | [70463-u-s-navy-fighters-marine-fighters.json](./70463-u-s-navy-fighters-marine-fighters.json) |
+| U.S. Ski Team Skiing | 41449 | [41449-u-s-ski-team-skiing.json](./41449-u-s-ski-team-skiing.json) |
 | U.S. Youth Soccer: Power-Up Soccer | 238669 | [238669-u-s-youth-soccer-power-up-soccer.json](./238669-u-s-youth-soccer-power-up-soccer.json) |
 | U.S.A. Football | 93576 | [93576-u-s-a-football.json](./93576-u-s-a-football.json) |
 | U.S.A.A.F. - United States Army Air Force | 26286 | [26286-u-s-a-a-f-united-states-army-air-force.json](./26286-u-s-a-a-f-united-states-army-air-force.json) |
@@ -3614,6 +3615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | USAID Approvals Department | 351543 | [351543-usaid-approvals-department.json](./351543-usaid-approvals-department.json) |
 | Usavich - Game no Jikan | 133333 | [133333-usavich-game-no-jikan.json](./133333-usavich-game-no-jikan.json) |
 | USB-bot | 358302 | [358302-usb-bot.json](./358302-usb-bot.json) |
+| USCF Chess | 41448 | [41448-uscf-chess.json](./41448-uscf-chess.json) |
 | USD Clicker | 371916 | [371916-usd-clicker.json](./371916-usd-clicker.json) |
 | Use Holy Water! | 243961 | [243961-use-holy-water.json](./243961-use-holy-water.json) |
 | Use Your Brainz Edu | 395718 | [395718-use-your-brainz-edu.json](./395718-use-your-brainz-edu.json) |
