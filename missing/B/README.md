@@ -993,7 +993,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3056,6 +3055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball for the Tomy Tutor | 131456 | [131456-baseball-for-the-tomy-tutor.json](./131456-baseball-for-the-tomy-tutor.json) |
 | Baseball General Manager | 88555 | [88555-baseball-general-manager.json](./88555-baseball-general-manager.json) |
 | Baseball Heroes | 342287 | [342287-baseball-heroes.json](./342287-baseball-heroes.json) |
+| Baseball Heroes | 40835 | [40835-baseball-heroes.json](./40835-baseball-heroes.json) |
 | Baseball Highlights 2045 | 96293 | [96293-baseball-highlights-2045.json](./96293-baseball-highlights-2045.json) |
 | Baseball in Hell | 177842 | [177842-baseball-in-hell.json](./177842-baseball-in-hell.json) |
 | Baseball Kings 2015 | 240849 | [240849-baseball-kings-2015.json](./240849-baseball-kings-2015.json) |
@@ -4101,6 +4101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Princess Madelyn | 27376 | [27376-battle-princess-madelyn.json](./27376-battle-princess-madelyn.json) |
 | Battle Princess Madelyn: Royal Edition | 147930 | [147930-battle-princess-madelyn-royal-edition.json](./147930-battle-princess-madelyn-royal-edition.json) |
 | Battle Princess of Arcadias | 9068 | [9068-battle-princess-of-arcadias.json](./9068-battle-princess-of-arcadias.json) |
+| Battle Probe | 40874 | [40874-battle-probe.json](./40874-battle-probe.json) |
 | Battle Puzzle 2048: Queens of the Abyss | 385140 | [385140-battle-puzzle-2048-queens-of-the-abyss.json](./385140-battle-puzzle-2048-queens-of-the-abyss.json) |
 | Battle Puzzle 2048: Space Girls | 336406 | [336406-battle-puzzle-2048-space-girls.json](./336406-battle-puzzle-2048-space-girls.json) |
 | Battle Puzzle 2048: Wicked Witches | 370801 | [370801-battle-puzzle-2048-wicked-witches.json](./370801-battle-puzzle-2048-wicked-witches.json) |
@@ -9589,6 +9590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blackdoor | 410588 | [410588-blackdoor.json](./410588-blackdoor.json) |
 | Blacken Slash | 188723 | [188723-blacken-slash.json](./188723-blacken-slash.json) |
 | Blackened | 270699 | [270699-blackened.json](./270699-blackened.json) |
+| BlackEye | 40851 | [40851-blackeye.json](./40851-blackeye.json) |
 | BlackFaith | 100572 | [100572-blackfaith.json](./100572-blackfaith.json) |
 | Blackfall | 258551 | [258551-blackfall.json](./258551-blackfall.json) |
 | Blackfaun | 34279 | [34279-blackfaun.json](./34279-blackfaun.json) |
@@ -12180,6 +12182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Tower Chronicle | 413739 | [413739-blue-tower-chronicle.json](./413739-blue-tower-chronicle.json) |
 | Blue Vector | 415750 | [415750-blue-vector.json](./415750-blue-vector.json) |
 | Blue Volta | 120251 | [120251-blue-volta.json](./120251-blue-volta.json) |
+| Blue War III | 40876 | [40876-blue-war-iii.json](./40876-blue-war-iii.json) |
 | Blue Wars | 193947 | [193947-blue-wars.json](./193947-blue-wars.json) |
 | Blue Wars | 194159 | [194159-blue-wars.json](./194159-blue-wars.json) |
 | Blue Water Builders | 414735 | [414735-blue-water-builders.json](./414735-blue-water-builders.json) |
@@ -15060,6 +15063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Show | 247976 | [247976-brain-show.json](./247976-brain-show.json) |
 | Brain Spa | 69207 | [69207-brain-spa.json](./69207-brain-spa.json) |
 | Brain Storm: Tower Bombarde | 47131 | [47131-brain-storm-tower-bombarde.json](./47131-brain-storm-tower-bombarde.json) |
+| Brain Strainers | 40879 | [40879-brain-strainers.json](./40879-brain-strainers.json) |
 | Brain Switch | 230684 | [230684-brain-switch.json](./230684-brain-switch.json) |
 | Brain Switch Out | 219932 | [219932-brain-switch-out.json](./219932-brain-switch-out.json) |
 | Brain Syndrome VR | 208224 | [208224-brain-syndrome-vr.json](./208224-brain-syndrome-vr.json) |
@@ -17214,6 +17218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Town | 92016 | [92016-bubble-town.json](./92016-bubble-town.json) |
 | Bubble Town 2 | 66429 | [66429-bubble-town-2.json](./66429-bubble-town-2.json) |
 | Bubble Troops | 236531 | [236531-bubble-troops.json](./236531-bubble-troops.json) |
+| Bubble Trouble | 40836 | [40836-bubble-trouble.json](./40836-bubble-trouble.json) |
 | Bubble Trouble | 83918 | [83918-bubble-trouble.json](./83918-bubble-trouble.json) |
 | Bubble Trouble 2: Rebubbled | 349600 | [349600-bubble-trouble-2-rebubbled.json](./349600-bubble-trouble-2-rebubbled.json) |
 | Bubble Trouble 3 | 349601 | [349601-bubble-trouble-3.json](./349601-bubble-trouble-3.json) |
@@ -17491,6 +17496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Heroes 2 | 61230 | [61230-bug-heroes-2.json](./61230-bug-heroes-2.json) |
 | Bug Heroes Quest | 101039 | [101039-bug-heroes-quest.json](./101039-bug-heroes-quest.json) |
 | Bug Heroes: Tower Defense | 266979 | [266979-bug-heroes-tower-defense.json](./266979-bug-heroes-tower-defense.json) |
+| Bug Hunt | 40883 | [40883-bug-hunt.json](./40883-bug-hunt.json) |
 | Bug Hunter | 317575 | [317575-bug-hunter.json](./317575-bug-hunter.json) |
 | Bug Hunter: The Secret of Algebra | 395254 | [395254-bug-hunter-the-secret-of-algebra.json](./395254-bug-hunter-the-secret-of-algebra.json) |
 | Bug Invaders | 82398 | [82398-bug-invaders.json](./82398-bug-invaders.json) |
