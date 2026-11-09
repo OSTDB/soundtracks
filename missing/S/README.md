@@ -265,6 +265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sabres of Infinity | 33439 | [33439-sabres-of-infinity.json](./33439-sabres-of-infinity.json) |
 | Sabreurs - A Noble Duel | 107450 | [107450-sabreurs-a-noble-duel.json](./107450-sabreurs-a-noble-duel.json) |
 | Sabrewing 2 | 208725 | [208725-sabrewing-2.json](./208725-sabrewing-2.json) |
+| Sabrina | 71818 | [71818-sabrina.json](./71818-sabrina.json) |
 | Sabrina the Animated Series: Magical Adventure | 186071 | [186071-sabrina-the-animated-series-magical-adventure.json](./186071-sabrina-the-animated-series-magical-adventure.json) |
 | Sabrina the Animated Series: Spooked! | 49944 | [49944-sabrina-the-animated-series-spooked.json](./49944-sabrina-the-animated-series-spooked.json) |
 | Sabrina the Animated Series: Zapped! | 49943 | [49943-sabrina-the-animated-series-zapped.json](./49943-sabrina-the-animated-series-zapped.json) |
@@ -2977,6 +2978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scenery Disk "Western European Tour" | 71295 | [71295-scenery-disk-western-european-tour.json](./71295-scenery-disk-western-european-tour.json) |
 | Scenery Disk 1 | 100076 | [100076-scenery-disk-1.json](./100076-scenery-disk-1.json) |
 | Scenery Disk 2 | 100127 | [100127-scenery-disk-2.json](./100127-scenery-disk-2.json) |
+| Scenery Disk 3 | 71682 | [71682-scenery-disk-3.json](./71682-scenery-disk-3.json) |
 | Scenery Disk 4 | 78012 | [78012-scenery-disk-4.json](./78012-scenery-disk-4.json) |
 | Scenery Disk 5 | 98959 | [98959-scenery-disk-5.json](./98959-scenery-disk-5.json) |
 | Scenery Disk 6 | 86024 | [86024-scenery-disk-6.json](./86024-scenery-disk-6.json) |
@@ -6598,6 +6600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sexcraft: Sofiya and the Lewd Clan | 170365 | [170365-sexcraft-sofiya-and-the-lewd-clan.json](./170365-sexcraft-sofiya-and-the-lewd-clan.json) |
 | Sexdivers | 324680 | [324680-sexdivers.json](./324680-sexdivers.json) |
 | Sexena: Arena Tales | 143240 | [143240-sexena-arena-tales.json](./143240-sexena-arena-tales.json) |
+| SeXoniX | 71680 | [71680-sexonix.json](./71680-sexonix.json) |
 | Sexophobia | 417410 | [417410-sexophobia.json](./417410-sexophobia.json) |
 | Sexorcism: Lust Confession | 396404 | [396404-sexorcism-lust-confession.json](./396404-sexorcism-lust-confession.json) |
 | Sexorcist Academy | 147557 | [147557-sexorcist-academy.json](./147557-sexorcist-academy.json) |
@@ -8599,6 +8602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Devil Children - Black/Red Book | 77958 | [77958-shin-megami-tensei-devil-children-black-red-book.json](./77958-shin-megami-tensei-devil-children-black-red-book.json) |
 | Shin Megami Tensei: Devil Children - Honoo no Sho | 65864 | [65864-shin-megami-tensei-devil-children-honoo-no-sho.json](./65864-shin-megami-tensei-devil-children-honoo-no-sho.json) |
 | Shin Megami Tensei: Devil Children - Koori no Sho | 92475 | [92475-shin-megami-tensei-devil-children-koori-no-sho.json](./92475-shin-megami-tensei-devil-children-koori-no-sho.json) |
+| Shin Megami Tensei: Devil Children - Kuro no Sho | 71694 | [71694-shin-megami-tensei-devil-children-kuro-no-sho.json](./71694-shin-megami-tensei-devil-children-kuro-no-sho.json) |
 | Shin Megami Tensei: Devil Children - Messiah Riser | 49774 | [49774-shin-megami-tensei-devil-children-messiah-riser.json](./49774-shin-megami-tensei-devil-children-messiah-riser.json) |
 | Shin Megami Tensei: Devil Children - Puzzle de Call! | 49821 | [49821-shin-megami-tensei-devil-children-puzzle-de-call.json](./49821-shin-megami-tensei-devil-children-puzzle-de-call.json) |
 | Shin Megami Tensei: Devil Children - Shiro no Sho | 71717 | [71717-shin-megami-tensei-devil-children-shiro-no-sho.json](./71717-shin-megami-tensei-devil-children-shiro-no-sho.json) |
@@ -36777,6 +36781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sydney Hunter and the Shrines of Peril | 59818 | [59818-sydney-hunter-and-the-shrines-of-peril.json](./59818-sydney-hunter-and-the-shrines-of-peril.json) |
 | Sydney Hunter Collection | 251715 | [251715-sydney-hunter-collection.json](./251715-sydney-hunter-collection.json) |
 | Sydney Shark | 275486 | [275486-sydney-shark.json](./275486-sydney-shark.json) |
+| Sydney Treads the Catwalk | 71687 | [71687-sydney-treads-the-catwalk.json](./71687-sydney-treads-the-catwalk.json) |
 | Sydney's World | 35458 | [35458-sydneys-world.json](./35458-sydneys-world.json) |
 | Syke | 295522 | [295522-syke.json](./295522-syke.json) |
 | Syko Swinger | 97235 | [97235-syko-swinger.json](./97235-syko-swinger.json) |
