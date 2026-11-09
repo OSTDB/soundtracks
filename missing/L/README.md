@@ -1120,6 +1120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Hawk | 71955 | [71955-laser-hawk.json](./71955-laser-hawk.json) |
 | Laser Heck | 132679 | [132679-laser-heck.json](./132679-laser-heck.json) |
 | Laser Hell | 384183 | [384183-laser-hell.json](./384183-laser-hell.json) |
+| Laser Invasion | 48145 | [48145-laser-invasion.json](./48145-laser-invasion.json) |
 | Laser Kitty Pow Pow | 123347 | [123347-laser-kitty-pow-pow.json](./123347-laser-kitty-pow-pow.json) |
 | Laser Lab | 214028 | [214028-laser-lab.json](./214028-laser-lab.json) |
 | Laser Labyrinth | 95729 | [95729-laser-labyrinth.json](./95729-laser-labyrinth.json) |
@@ -2439,6 +2440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lee Carvallo's Putting Challenge 2 | 308411 | [308411-lee-carvallos-putting-challenge-2.json](./308411-lee-carvallos-putting-challenge-2.json) |
 | Lee Inside TV | 126852 | [126852-lee-inside-tv.json](./126852-lee-inside-tv.json) |
 | Lee Trevino's Fighting Golf | 217735 | [217735-lee-trevinos-fighting-golf.json](./217735-lee-trevinos-fighting-golf.json) |
+| Lee Trevino's Fighting Golf | 48144 | [48144-lee-trevinos-fighting-golf.json](./48144-lee-trevinos-fighting-golf.json) |
 | Lee-Lee's Quest 2 | 165370 | [165370-lee-lees-quest-2.json](./165370-lee-lees-quest-2.json) |
 | Leechcraft | 299674 | [299674-leechcraft.json](./299674-leechcraft.json) |
 | Leedmees | 20158 | [20158-leedmees.json](./20158-leedmees.json) |
@@ -3452,6 +3454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leiji Matsumoto 999: Story of Galaxy Express 999 | 70283 | [70283-leiji-matsumoto-999-story-of-galaxy-express-999.json](./70283-leiji-matsumoto-999-story-of-galaxy-express-999.json) |
 | Leikkaus | 413620 | [413620-leikkaus.json](./413620-leikkaus.json) |
 | Leila | 258420 | [258420-leila.json](./258420-leila.json) |
+| Leilani's Island | 48111 | [48111-leilanis-island.json](./48111-leilanis-island.json) |
 | Léinǔ Jīshén | 266666 | [266666-leinu-jishen.json](./266666-leinu-jishen.json) |
 | Leiria: Stargazer | 202865 | [202865-leiria-stargazer.json](./202865-leiria-stargazer.json) |
 | Leis para Todos | 388527 | [388527-leis-para-todos.json](./388527-leis-para-todos.json) |
