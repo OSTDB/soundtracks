@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuen Handsome Fighters | 243866 | [243866-gakuen-handsome-fighters.json](./243866-gakuen-handsome-fighters.json) |
 | Gakuen Handsome: Ikusei Game - Mitsurugi Sakuya no Soccer Sekai ni Hirometai | 187048 | [187048-gakuen-handsome-ikusei-game-mitsurugi-sakuya-no-soccer-sekai-ni-hirometai.json](./187048-gakuen-handsome-ikusei-game-mitsurugi-sakuya-no-soccer-sekai-ni-hirometai.json) |
 | Gakuen Handsome: Ito o Kashi | 181517 | [181517-gakuen-handsome-ito-o-kashi.json](./181517-gakuen-handsome-ito-o-kashi.json) |
+| Gakuen Heaven 2: Double Scramble! | 61262 | [61262-gakuen-heaven-2-double-scramble.json](./61262-gakuen-heaven-2-double-scramble.json) |
 | Gakuen Heaven: Boy's Love Scramble | 64610 | [64610-gakuen-heaven-boys-love-scramble.json](./64610-gakuen-heaven-boys-love-scramble.json) |
 | Gakuen Hetalia DS | 130581 | [130581-gakuen-hetalia-ds.json](./130581-gakuen-hetalia-ds.json) |
 | Gakuen Hetalia Portable | 59419 | [59419-gakuen-hetalia-portable.json](./59419-gakuen-hetalia-portable.json) |
@@ -2835,6 +2836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemstone Warrior | 25693 | [25693-gemstone-warrior.json](./25693-gemstone-warrior.json) |
 | Gemstones | 231616 | [231616-gemstones.json](./231616-gemstones.json) |
 | Gemstones Rush Mania | 344130 | [344130-gemstones-rush-mania.json](./344130-gemstones-rush-mania.json) |
+| GemStorm | 61765 | [61765-gemstorm.json](./61765-gemstorm.json) |
 | Gemsweeper | 135284 | [135284-gemsweeper.json](./135284-gemsweeper.json) |
 | Gemtactix | 99386 | [99386-gemtactix.json](./99386-gemtactix.json) |
 | Gemtrader Story 2: Blood Relationship | 227377 | [227377-gemtrader-story-2-blood-relationship.json](./227377-gemtrader-story-2-blood-relationship.json) |
@@ -5318,6 +5320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glorious Companions | 113839 | [113839-glorious-companions.json](./113839-glorious-companions.json) |
 | Glorious Dawn | 176179 | [176179-glorious-dawn.json](./176179-glorious-dawn.json) |
 | Glorious Golf | 353445 | [353445-glorious-golf.json](./353445-glorious-golf.json) |
+| Glorious Leader | 61683 | [61683-glorious-leader.json](./61683-glorious-leader.json) |
 | Glorious Mission | 74323 | [74323-glorious-mission.json](./74323-glorious-mission.json) |
 | Glorious Savior | 38972 | [38972-glorious-savior.json](./38972-glorious-savior.json) |
 | Glorious Storm | 258201 | [258201-glorious-storm.json](./258201-glorious-storm.json) |
@@ -6923,6 +6926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golf Loop | 329570 | [329570-golf-loop.json](./329570-golf-loop.json) |
 | Golf Maestro | 89358 | [89358-golf-maestro.json](./89358-golf-maestro.json) |
 | Golf Magazine Presents 36 Great Holes Starring Fred Couples | 94921 | [94921-golf-magazine-presents-36-great-holes-starring-fred-couples.json](./94921-golf-magazine-presents-36-great-holes-starring-fred-couples.json) |
+| Golf Mania | 61745 | [61745-golf-mania.json](./61745-golf-mania.json) |
 | Golf Master | 137673 | [137673-golf-master.json](./137673-golf-master.json) |
 | Golf Master 3D | 214297 | [214297-golf-master-3d.json](./214297-golf-master-3d.json) |
 | Golf Masters | 35110 | [35110-golf-masters.json](./35110-golf-masters.json) |
@@ -7825,6 +7829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grabbed by the Ghoulies | 324860 | [324860-grabbed-by-the-ghoulies.json](./324860-grabbed-by-the-ghoulies.json) |
 | Grabbed by the Ghoulies | 5849 | [5849-grabbed-by-the-ghoulies.json](./5849-grabbed-by-the-ghoulies.json) |
 | Grabbers in the Woods | 294426 | [294426-grabbers-in-the-woods.json](./294426-grabbers-in-the-woods.json) |
+| Grabbles | 61741 | [61741-grabbles.json](./61741-grabbles.json) |
 | Grabe 4x4 | 233310 | [233310-grabe-4x4.json](./233310-grabe-4x4.json) |
 | Grabit | 412373 | [412373-grabit.json](./412373-grabit.json) |
 | Grabitoons | 231049 | [231049-grabitoons.json](./231049-grabitoons.json) |
