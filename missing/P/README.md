@@ -5724,6 +5724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phat Phrog | 30892 | [30892-phat-phrog.json](./30892-phat-phrog.json) |
 | Phat Phrog Clicker | 314308 | [314308-phat-phrog-clicker.json](./314308-phat-phrog-clicker.json) |
 | Phat Stacks | 30506 | [30506-phat-stacks.json](./30506-phat-stacks.json) |
+| Phat Stacks 2 | 43366 | [43366-phat-stacks-2.json](./43366-phat-stacks-2.json) |
 | PhatPong 05 | 70276 | [70276-phatpong-05.json](./70276-phatpong-05.json) |
 | Phazer Punk | 245353 | [245353-phazer-punk.json](./245353-phazer-punk.json) |
 | Phazika | 398520 | [398520-phazika.json](./398520-phazika.json) |
@@ -12641,6 +12642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polygon Fantasy Battle Simulator | 270007 | [270007-polygon-fantasy-battle-simulator.json](./270007-polygon-fantasy-battle-simulator.json) |
 | Polygon Flight | 89572 | [89572-polygon-flight.json](./89572-polygon-flight.json) |
 | Polygon Hell 4D | 295575 | [295575-polygon-hell-4d.json](./295575-polygon-hell-4d.json) |
+| Polygon Hero | 43364 | [43364-polygon-hero.json](./43364-polygon-hero.json) |
 | Polygon Hunter | 154745 | [154745-polygon-hunter.json](./154745-polygon-hunter.json) |
 | Polygon Hunter VR | 186843 | [186843-polygon-hunter-vr.json](./186843-polygon-hunter-vr.json) |
 | Polygon In | 294928 | [294928-polygon-in.json](./294928-polygon-in.json) |
@@ -14480,6 +14482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premier Manager 02/03 | 172369 | [172369-premier-manager-02-03.json](./172369-premier-manager-02-03.json) |
 | Premier Manager 04/05 | 171941 | [171941-premier-manager-04-05.json](./171941-premier-manager-04-05.json) |
 | Premier Manager 08 | 174003 | [174003-premier-manager-08.json](./174003-premier-manager-08.json) |
+| Premier Manager 09 | 43372 | [43372-premier-manager-09.json](./43372-premier-manager-09.json) |
 | Premier Manager 10 | 132394 | [132394-premier-manager-10.json](./132394-premier-manager-10.json) |
 | Premier Manager 2 | 73617 | [73617-premier-manager-2.json](./73617-premier-manager-2.json) |
 | Premier Manager 2000 | 43725 | [43725-premier-manager-2000.json](./43725-premier-manager-2000.json) |
