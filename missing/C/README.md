@@ -6315,6 +6315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos;Head Noah | 43953 | [43953-chaos-head-noah.json](./43953-chaos-head-noah.json) |
 | Chaos;Head Noah / Chaos;Child Double Pack | 194326 | [194326-chaos-head-noah-chaos-child-double-pack.json](./194326-chaos-head-noah-chaos-child-double-pack.json) |
 | Chaos;Head Noah / Chaos;Child Double Pack: SteelBook Launch Edition | 194407 | [194407-chaos-head-noah-chaos-child-double-pack-steelbook-launch-edition.json](./194407-chaos-head-noah-chaos-child-double-pack-steelbook-launch-edition.json) |
+| Chaos: A Fantasy Adventure Game | 71834 | [71834-chaos-a-fantasy-adventure-game.json](./71834-chaos-a-fantasy-adventure-game.json) |
 | Chaos: Immortal Era | 224081 | [224081-chaos-immortal-era.json](./224081-chaos-immortal-era.json) |
 | Chaos: In the Darkness | 17767 | [17767-chaos-in-the-darkness.json](./17767-chaos-in-the-darkness.json) |
 | Chaos: The Battle of Wizards | 32390 | [32390-chaos-the-battle-of-wizards.json](./32390-chaos-the-battle-of-wizards.json) |
@@ -7028,6 +7029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Gambit | 165124 | [165124-chess-gambit.json](./165124-chess-gambit.json) |
 | Chess Grandmaster Royal Bundle | 283189 | [283189-chess-grandmaster-royal-bundle.json](./283189-chess-grandmaster-royal-bundle.json) |
 | Chess Graphy | 248953 | [248953-chess-graphy.json](./248953-chess-graphy.json) |
+| Chess Housers | 71824 | [71824-chess-housers.json](./71824-chess-housers.json) |
 | Chess Hunt | 344715 | [344715-chess-hunt.json](./344715-chess-hunt.json) |
 | Chess in the Park | 254438 | [254438-chess-in-the-park.json](./254438-chess-in-the-park.json) |
 | Chess Infinity | 324987 | [324987-chess-infinity.json](./324987-chess-infinity.json) |
@@ -7054,6 +7056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess Minis | 232378 | [232378-chess-minis.json](./232378-chess-minis.json) |
 | Chess Mix | 135240 | [135240-chess-mix.json](./135240-chess-mix.json) |
 | Chess Morph: The Queen's Wormholes | 237058 | [237058-chess-morph-the-queens-wormholes.json](./237058-chess-morph-the-queens-wormholes.json) |
+| Chess Net | 71825 | [71825-chess-net.json](./71825-chess-net.json) |
 | Chess of Blades | 40847 | [40847-chess-of-blades.json](./40847-chess-of-blades.json) |
 | Chess of Chains | 148824 | [148824-chess-of-chains.json](./148824-chess-of-chains.json) |
 | Chess of Doom | 346550 | [346550-chess-of-doom.json](./346550-chess-of-doom.json) |
@@ -16547,6 +16550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crackin' Smackin: Customization Set - Warrior | 304408 | [304408-crackin-smackin-customization-set-warrior.json](./304408-crackin-smackin-customization-set-warrior.json) |
 | Crackin' Smackin: Customization Set - Woodpecker | 304410 | [304410-crackin-smackin-customization-set-woodpecker.json](./304410-crackin-smackin-customization-set-woodpecker.json) |
 | Cracking Sands | 64481 | [64481-cracking-sands.json](./64481-cracking-sands.json) |
+| Cracking the Conspiracy | 71817 | [71817-cracking-the-conspiracy.json](./71817-cracking-the-conspiracy.json) |
 | Cracking the Cryptic | 211958 | [211958-cracking-the-cryptic.json](./211958-cracking-the-cryptic.json) |
 | Cracking the Cryptic: GAS Volume #1 | 280875 | [280875-cracking-the-cryptic-gas-volume-1.json](./280875-cracking-the-cryptic-gas-volume-1.json) |
 | Cracking the Cryptic: Lines Variety Pack | 270083 | [270083-cracking-the-cryptic-lines-variety-pack.json](./270083-cracking-the-cryptic-lines-variety-pack.json) |
@@ -21206,6 +21210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CyberBorn | 155260 | [155260-cyberborn.json](./155260-cyberborn.json) |
 | Cyberbots: Fullmetal Madness | 43820 | [43820-cyberbots-fullmetal-madness.json](./43820-cyberbots-fullmetal-madness.json) |
 | CyberBrick | 226427 | [226427-cyberbrick.json](./226427-cyberbrick.json) |
+| Cyberbykes: Shadow Racer VR | 71828 | [71828-cyberbykes-shadow-racer-vr.json](./71828-cyberbykes-shadow-racer-vr.json) |
 | Cybercar | 392452 | [392452-cybercar.json](./392452-cybercar.json) |
 | Cyberception | 132482 | [132482-cyberception.json](./132482-cyberception.json) |
 | Cyberchase: Castleblanca Quest | 73197 | [73197-cyberchase-castleblanca-quest.json](./73197-cyberchase-castleblanca-quest.json) |
@@ -21372,6 +21377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberpunx | 261820 | [261820-cyberpunx.json](./261820-cyberpunx.json) |
 | Cyberqueen | 15447 | [15447-cyberqueen.json](./15447-cyberqueen.json) |
 | CyberQuest | 391581 | [391581-cyberquest.json](./391581-cyberquest.json) |
+| CyberRace | 71819 | [71819-cyberrace.json](./71819-cyberrace.json) |
 | CyberRebeat -The Fifth Domain of Warfare- | 107714 | [107714-cyberrebeat-the-fifth-domain-of-warfare.json](./107714-cyberrebeat-the-fifth-domain-of-warfare.json) |
 | CyberRhapsody | 345000 | [345000-cyberrhapsody.json](./345000-cyberrhapsody.json) |
 | CyberRoom | 339358 | [339358-cyberroom.json](./339358-cyberroom.json) |
