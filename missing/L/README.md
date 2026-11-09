@@ -7750,6 +7750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loonies Puzzle | 194180 | [194180-loonies-puzzle.json](./194180-loonies-puzzle.json) |
 | Loonimals | 254887 | [254887-loonimals.json](./254887-loonimals.json) |
 | Loonley Toons Run | 105767 | [105767-loonley-toons-run.json](./105767-loonley-toons-run.json) |
+| Loons: The Fight for Fame | 5903 | [5903-loons-the-fight-for-fame.json](./5903-loons-the-fight-for-fame.json) |
 | Loony | 197934 | [197934-loony.json](./197934-loony.json) |
 | Loony Balloon | 41543 | [41543-loony-balloon.json](./41543-loony-balloon.json) |
 | Loony Labyrinth | 122307 | [122307-loony-labyrinth.json](./122307-loony-labyrinth.json) |
