@@ -6013,6 +6013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Endless | 284586 | [284586-wings-of-endless.json](./284586-wings-of-endless.json) |
 | Wings of Fire | 418877 | [418877-wings-of-fire.json](./418877-wings-of-fire.json) |
 | Wings of Glory | 212247 | [212247-wings-of-glory.json](./212247-wings-of-glory.json) |
+| Wings of Glory | 46717 | [46717-wings-of-glory.json](./46717-wings-of-glory.json) |
 | Wings of Heroes | 273679 | [273679-wings-of-heroes.json](./273679-wings-of-heroes.json) |
 | Wings of Honour | 27248 | [27248-wings-of-honour.json](./27248-wings-of-honour.json) |
 | Wings of Honour: Battles of the Red Baron | 21341 | [21341-wings-of-honour-battles-of-the-red-baron.json](./21341-wings-of-honour-battles-of-the-red-baron.json) |
@@ -8254,6 +8255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Dance: A Cultural Adventure... | 71840 | [71840-world-dance-a-cultural-adventure.json](./71840-world-dance-a-cultural-adventure.json) |
 | World Darts | 12873 | [12873-world-darts.json](./12873-world-darts.json) |
 | World Defense: Fragmented Reality | 35201 | [35201-world-defense-fragmented-reality.json](./35201-world-defense-fragmented-reality.json) |
+| World Derby | 46305 | [46305-world-derby.json](./46305-world-derby.json) |
 | World Destroyers | 30702 | [30702-world-destroyers.json](./30702-world-destroyers.json) |
 | World Destruction League: Thunder Tanks | 49873 | [49873-world-destruction-league-thunder-tanks.json](./49873-world-destruction-league-thunder-tanks.json) |
 | World Drawn | 322822 | [322822-world-drawn.json](./322822-world-drawn.json) |
@@ -8688,6 +8690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Series Baseball | 94110 | [94110-world-series-baseball.json](./94110-world-series-baseball.json) |
 | World Series Baseball '95 | 368629 | [368629-world-series-baseball-95.json](./368629-world-series-baseball-95.json) |
 | World Series Baseball '95 | 46327 | [46327-world-series-baseball-95.json](./46327-world-series-baseball-95.json) |
+| World Series Baseball '96 | 46685 | [46685-world-series-baseball-96.json](./46685-world-series-baseball-96.json) |
 | World Series Baseball 2K1 | 45849 | [45849-world-series-baseball-2k1.json](./45849-world-series-baseball-2k1.json) |
 | World Series Baseball 2K2 | 6240 | [6240-world-series-baseball-2k2.json](./6240-world-series-baseball-2k2.json) |
 | World Series Baseball 98 | 4473 | [4473-world-series-baseball-98.json](./4473-world-series-baseball-98.json) |
