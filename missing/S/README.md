@@ -5214,6 +5214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages: Sonic the Hedgehog | 96393 | [96393-sega-ages-sonic-the-hedgehog.json](./96393-sega-ages-sonic-the-hedgehog.json) |
 | Sega Ages: Sonic the Hedgehog 2 | 110061 | [110061-sega-ages-sonic-the-hedgehog-2.json](./110061-sega-ages-sonic-the-hedgehog-2.json) |
 | Sega Ages: Space Harrier | 109270 | [109270-sega-ages-space-harrier.json](./109270-sega-ages-space-harrier.json) |
+| Sega AM2 Collection Volume 1 | 20844 | [20844-sega-am2-collection-volume-1.json](./20844-sega-am2-collection-volume-1.json) |
 | Sega Arcade Gallery | 22241 | [22241-sega-arcade-gallery.json](./22241-sega-arcade-gallery.json) |
 | Sega Archives from U.S.A. vol. 1 | 56842 | [56842-sega-archives-from-u-s-a-vol-1.json](./56842-sega-archives-from-u-s-a-vol-1.json) |
 | Sega Archives from USA Vol. 3 | 202899 | [202899-sega-archives-from-usa-vol-3.json](./202899-sega-archives-from-usa-vol-3.json) |
@@ -20960,6 +20961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Squad Survival | 346725 | [346725-space-squad-survival.json](./346725-space-squad-survival.json) |
 | Space Squadron | 160208 | [160208-space-squadron.json](./160208-space-squadron.json) |
 | Space Squadron | 281173 | [281173-space-squadron.json](./281173-space-squadron.json) |
+| Space Squash | 20793 | [20793-space-squash.json](./20793-space-squash.json) |
 | Space Star: Heart of a Soldier | 292628 | [292628-space-star-heart-of-a-soldier.json](./292628-space-star-heart-of-a-soldier.json) |
 | Space station - build your own ISS | 104748 | [104748-space-station-build-your-own-iss.json](./104748-space-station-build-your-own-iss.json) |
 | Space Station 13 | 66396 | [66396-space-station-13.json](./66396-space-station-13.json) |
@@ -21066,6 +21068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Trek | 41099 | [41099-space-trek.json](./41099-space-trek.json) |
 | Space Trek | 77243 | [77243-space-trek.json](./77243-space-trek.json) |
 | Space Trench | 380455 | [380455-space-trench.json](./380455-space-trench.json) |
+| Space Tripper | 22006 | [22006-space-tripper.json](./22006-space-tripper.json) |
 | Space Trouble | 47542 | [47542-space-trouble.json](./47542-space-trouble.json) |
 | Space Troubles | 202031 | [202031-space-troubles.json](./202031-space-troubles.json) |
 | Space Truck Simulator | 336396 | [336396-space-truck-simulator.json](./336396-space-truck-simulator.json) |
@@ -31838,6 +31841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Black Bass | 207214 | [207214-super-black-bass.json](./207214-super-black-bass.json) |
 | Super Black Bass | 49085 | [49085-super-black-bass.json](./49085-super-black-bass.json) |
 | Super Black Bass 3 | 44434 | [44434-super-black-bass-3.json](./44434-super-black-bass-3.json) |
+| Super Black Bass 3D | 21023 | [21023-super-black-bass-3d.json](./21023-super-black-bass-3d.json) |
 | Super Black Bass Fishing | 68071 | [68071-super-black-bass-fishing.json](./68071-super-black-bass-fishing.json) |
 | Super Black Bass Pocket 2 | 61347 | [61347-super-black-bass-pocket-2.json](./61347-super-black-bass-pocket-2.json) |
 | Super Black Bass X2 | 61344 | [61344-super-black-bass-x2.json](./61344-super-black-bass-x2.json) |
