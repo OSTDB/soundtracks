@@ -2210,6 +2210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absolute Signalling | 414176 | [414176-absolute-signalling.json](./414176-absolute-signalling.json) |
 | Absolute Silence: A Game Album | 259368 | [259368-absolute-silence-a-game-album.json](./259368-absolute-silence-a-game-album.json) |
 | Absolute Skat | 91861 | [91861-absolute-skat.json](./91861-absolute-skat.json) |
+| Absolute Solitaire & Patience | 25286 | [25286-absolute-solitaire-and-patience.json](./25286-absolute-solitaire-and-patience.json) |
 | Absolute Solitaire & Patience | 91558 | [91558-absolute-solitaire-and-patience.json](./91558-absolute-solitaire-and-patience.json) |
 | Absolute Sumo: Chonk Arena | 414703 | [414703-absolute-sumo-chonk-arena.json](./414703-absolute-sumo-chonk-arena.json) |
 | Absolute Supercars | 42997 | [42997-absolute-supercars.json](./42997-absolute-supercars.json) |
@@ -4935,6 +4936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Irata | 213429 | [213429-age-of-irata.json](./213429-age-of-irata.json) |
 | Age of Ishtaria | 38058 | [38058-age-of-ishtaria.json](./38058-age-of-ishtaria.json) |
 | Age of Japan | 52377 | [52377-age-of-japan.json](./52377-age-of-japan.json) |
+| Age of Japan 2 | 25348 | [25348-age-of-japan-2.json](./25348-age-of-japan-2.json) |
 | Age of Jura | 169803 | [169803-age-of-jura.json](./169803-age-of-jura.json) |
 | Age of Kita | 208205 | [208205-age-of-kita.json](./208205-age-of-kita.json) |
 | Age of Legacy | 402104 | [402104-age-of-legacy.json](./402104-age-of-legacy.json) |
@@ -8048,6 +8050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Along Came a Spider | 225345 | [225345-along-came-a-spider.json](./225345-along-came-a-spider.json) |
 | Along Came A Spider | 163364 | [163364-along-came-a-spider.json](./163364-along-came-a-spider.json) |
 | Along Came a Spider: Valley of The Hollow | 314984 | [314984-along-came-a-spider-valley-of-the-hollow.json](./314984-along-came-a-spider-valley-of-the-hollow.json) |
+| Along Came Humans | 25315 | [25315-along-came-humans.json](./25315-along-came-humans.json) |
 | Along Came Treble | 313879 | [313879-along-came-treble.json](./313879-along-came-treble.json) |
 | Along the Edge | 32136 | [32136-along-the-edge.json](./32136-along-the-edge.json) |
 | Along the Edge of the Sky | 337818 | [337818-along-the-edge-of-the-sky.json](./337818-along-the-edge-of-the-sky.json) |
@@ -8985,6 +8988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Hero | 154169 | [154169-american-hero.json](./154169-american-hero.json) |
 | American Hero Unrated | 254415 | [254415-american-hero-unrated.json](./254415-american-hero-unrated.json) |
 | American Heroes BF 92 Extra Version | 267574 | [267574-american-heroes-bf-92-extra-version.json](./267574-american-heroes-bf-92-extra-version.json) |
+| American History Lux | 25290 | [25290-american-history-lux.json](./25290-american-history-lux.json) |
 | American Horseshoes | 39376 | [39376-american-horseshoes.json](./39376-american-horseshoes.json) |
 | American Idol | 248734 | [248734-american-idol.json](./248734-american-idol.json) |
 | American Idol: Double Dance Showdown | 378150 | [378150-american-idol-double-dance-showdown.json](./378150-american-idol-double-dance-showdown.json) |
@@ -11024,6 +11028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Annihilation Mobile | 173408 | [173408-annihilation-mobile.json](./173408-annihilation-mobile.json) |
 | Annihilation Plan | 308866 | [308866-annihilation-plan.json](./308866-annihilation-plan.json) |
 | Annihilation: Space Tycoon | 255794 | [255794-annihilation-space-tycoon.json](./255794-annihilation-space-tycoon.json) |
+| Annihilator | 25332 | [25332-annihilator.json](./25332-annihilator.json) |
 | Annihilator | 277486 | [277486-annihilator.json](./277486-annihilator.json) |
 | Annihilator | 293348 | [293348-annihilator.json](./293348-annihilator.json) |
 | Annihilator | 339993 | [339993-annihilator.json](./339993-annihilator.json) |
