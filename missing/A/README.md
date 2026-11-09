@@ -3498,6 +3498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Daisenryaku 5 | 361593 | [361593-advanced-daisenryaku-5.json](./361593-advanced-daisenryaku-5.json) |
 | Advanced Daisenryaku 98 II | 60802 | [60802-advanced-daisenryaku-98-ii.json](./60802-advanced-daisenryaku-98-ii.json) |
 | Advanced Daisenryaku 98: Storm Over Europe | 60806 | [60806-advanced-daisenryaku-98-storm-over-europe.json](./60806-advanced-daisenryaku-98-storm-over-europe.json) |
+| Advanced Daisenryaku: Deutsch Dengeki Sakusen | 65524 | [65524-advanced-daisenryaku-deutsch-dengeki-sakusen.json](./65524-advanced-daisenryaku-deutsch-dengeki-sakusen.json) |
 | Advanced Daisenryaku: Europe no Arashi - Doitsu Dengeki Sakusen | 60804 | [60804-advanced-daisenryaku-europe-no-arashi-doitsu-dengeki-sakusen.json](./60804-advanced-daisenryaku-europe-no-arashi-doitsu-dengeki-sakusen.json) |
 | Advanced DOS Quiz | 85928 | [85928-advanced-dos-quiz.json](./85928-advanced-dos-quiz.json) |
 | Advanced Dungeons & Dragons Cartridge | 5654 | [5654-advanced-dungeons-and-dragons-cartridge.json](./5654-advanced-dungeons-and-dragons-cartridge.json) |
