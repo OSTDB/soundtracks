@@ -8647,6 +8647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Girl | 248441 | [248441-amazing-girl.json](./248441-amazing-girl.json) |
 | Amazing Grace | 296587 | [296587-amazing-grace.json](./296587-amazing-grace.json) |
 | Amazing Grace: What Color is Your Attribute? | 119321 | [119321-amazing-grace-what-color-is-your-attribute.json](./119321-amazing-grace-what-color-is-your-attribute.json) |
+| Amazing Hebereke | 37846 | [37846-amazing-hebereke.json](./37846-amazing-hebereke.json) |
 | Amazing Heists: Dillinger | 416882 | [416882-amazing-heists-dillinger.json](./416882-amazing-heists-dillinger.json) |
 | Amazing Hidden Object Games 3 Pack: Paranormal Mysteries | 202054 | [202054-amazing-hidden-object-games-3-pack-paranormal-mysteries.json](./202054-amazing-hidden-object-games-3-pack-paranormal-mysteries.json) |
 | Amazing Hidden Objects | 99091 | [99091-amazing-hidden-objects.json](./99091-amazing-hidden-objects.json) |
