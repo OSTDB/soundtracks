@@ -1396,6 +1396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetpack Clankers | 406180 | [406180-jetpack-clankers.json](./406180-jetpack-clankers.json) |
 | Jetpack Dog | 103969 | [103969-jetpack-dog.json](./103969-jetpack-dog.json) |
 | Jetpack Dragon Hunting | 241052 | [241052-jetpack-dragon-hunting.json](./241052-jetpack-dragon-hunting.json) |
+| Jetpack Fighter | 24052 | [24052-jetpack-fighter.json](./24052-jetpack-fighter.json) |
 | Jetpack Guy | 223397 | [223397-jetpack-guy.json](./223397-jetpack-guy.json) |
 | Jetpack Heroes | 65165 | [65165-jetpack-heroes.json](./65165-jetpack-heroes.json) |
 | Jetpack Jack | 150890 | [150890-jetpack-jack.json](./150890-jetpack-jack.json) |
