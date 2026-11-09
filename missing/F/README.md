@@ -724,6 +724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Light | 115416 | [115416-fairy-light.json](./115416-fairy-light.json) |
 | Fairy Magic Skillz Tournaments | 232487 | [232487-fairy-magic-skillz-tournaments.json](./232487-fairy-magic-skillz-tournaments.json) |
 | Fairy Mahjong Premium - The New 3D Majong | 103087 | [103087-fairy-mahjong-premium-the-new-3d-majong.json](./103087-fairy-mahjong-premium-the-new-3d-majong.json) |
+| Fairy Maids | 32018 | [32018-fairy-maids.json](./32018-fairy-maids.json) |
 | Fairy Massage | 347664 | [347664-fairy-massage.json](./347664-fairy-massage.json) |
 | Fairy Nights | 71129 | [71129-fairy-nights.json](./71129-fairy-nights.json) |
 | Fairy Nook | 364627 | [364627-fairy-nook.json](./364627-fairy-nook.json) |
@@ -999,6 +1000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fall Ninja | 268450 | [268450-fall-ninja.json](./268450-fall-ninja.json) |
 | Fall of an Empire | 190278 | [190278-fall-of-an-empire.json](./190278-fall-of-an-empire.json) |
 | Fall of Bali | 224296 | [224296-fall-of-bali.json](./224296-fall-of-bali.json) |
+| Fall of Freya | 31993 | [31993-fall-of-freya.json](./31993-fall-of-freya.json) |
 | Fall of Gods | 240763 | [240763-fall-of-gods.json](./240763-fall-of-gods.json) |
 | Fall of Gorithia: Nym's Fate | 342597 | [342597-fall-of-gorithia-nyms-fate.json](./342597-fall-of-gorithia-nyms-fate.json) |
 | Fall of Gyes | 22098 | [22098-fall-of-gyes.json](./22098-fall-of-gyes.json) |
@@ -2668,6 +2670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Together: Wedding Pack | 223576 | [223576-farm-together-wedding-pack.json](./223576-farm-together-wedding-pack.json) |
 | Farm Town | 62237 | [62237-farm-town.json](./62237-farm-town.json) |
 | Farm Tribe | 32783 | [32783-farm-tribe.json](./32783-farm-tribe.json) |
+| Farm Tribe 2 | 31335 | [31335-farm-tribe-2.json](./31335-farm-tribe-2.json) |
 | Farm Tribe: Dragon Island | 146484 | [146484-farm-tribe-dragon-island.json](./146484-farm-tribe-dragon-island.json) |
 | Farm Tycoon | 199177 | [199177-farm-tycoon.json](./199177-farm-tycoon.json) |
 | Farm Under Fire | 199377 | [199377-farm-under-fire.json](./199377-farm-under-fire.json) |
