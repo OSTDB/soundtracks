@@ -10934,6 +10934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | POD | 12960 | [12960-pod.json](./12960-pod.json) |
 | POD Gold | 124943 | [124943-pod-gold.json](./124943-pod-gold.json) |
 | Pod Jam | 317792 | [317792-pod-jam.json](./317792-pod-jam.json) |
+| Pod Speedboat | 53972 | [53972-pod-speedboat.json](./53972-pod-speedboat.json) |
 | POD SpeedZone | 84320 | [84320-pod-speedzone.json](./84320-pod-speedzone.json) |
 | POD: Back to Hell | 93467 | [93467-pod-back-to-hell.json](./93467-pod-back-to-hell.json) |
 | Poda Wants a Statue | 260699 | [260699-poda-wants-a-statue.json](./260699-poda-wants-a-statue.json) |
