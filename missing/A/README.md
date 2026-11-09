@@ -1471,6 +1471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Valley Without Wind | 1625 | [1625-a-valley-without-wind.json](./1625-a-valley-without-wind.json) |
 | A Vampire Romance: Paris Stories | 267511 | [267511-a-vampire-romance-paris-stories.json](./267511-a-vampire-romance-paris-stories.json) |
 | A Vampire Tale | 50283 | [50283-a-vampire-tale.json](./50283-a-vampire-tale.json) |
+| A Vampyre Story | 3116 | [3116-a-vampyre-story.json](./3116-a-vampyre-story.json) |
 | A Vampyre Story: Year One | 3137 | [3137-a-vampyre-story-year-one.json](./3137-a-vampyre-story-year-one.json) |
 | A Verdant Hue | 32234 | [32234-a-verdant-hue.json](./32234-a-verdant-hue.json) |
 | A Very Bad Christmas Eve | 148846 | [148846-a-very-bad-christmas-eve.json](./148846-a-very-bad-christmas-eve.json) |
@@ -1864,6 +1865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aaron vs. Ruth: Battle of the Big Bats | 69280 | [69280-aaron-vs-ruth-battle-of-the-big-bats.json](./69280-aaron-vs-ruth-battle-of-the-big-bats.json) |
 | Aaron's Particle Space | 185416 | [185416-aarons-particle-space.json](./185416-aarons-particle-space.json) |
 | Aaron's Ping Pong | 92663 | [92663-aarons-ping-pong.json](./92663-aarons-ping-pong.json) |
+| Aaru's Awakening | 7171 | [7171-aarus-awakening.json](./7171-aarus-awakening.json) |
 | AAS Mos Apocalypse | 283871 | [283871-aas-mos-apocalypse.json](./283871-aas-mos-apocalypse.json) |
 | Aashaa | 232969 | [232969-aashaa.json](./232969-aashaa.json) |
 | AashMans Party Mix | 356897 | [356897-aashmans-party-mix.json](./356897-aashmans-party-mix.json) |
@@ -4069,6 +4071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aegis of Kings | 421202 | [421202-aegis-of-kings.json](./421202-aegis-of-kings.json) |
 | Aegis Online | 103881 | [103881-aegis-online.json](./103881-aegis-online.json) |
 | Aegis Protocol | 373278 | [373278-aegis-protocol.json](./373278-aegis-protocol.json) |
+| Aegis Wing | 2601 | [2601-aegis-wing.json](./2601-aegis-wing.json) |
 | Aegis: Guardian of the Fleet | 76146 | [76146-aegis-guardian-of-the-fleet.json](./76146-aegis-guardian-of-the-fleet.json) |
 | Aegis: The First Mission | 124348 | [124348-aegis-the-first-mission.json](./124348-aegis-the-first-mission.json) |
 | Aegyptus | 55466 | [55466-aegyptus.json](./55466-aegyptus.json) |
@@ -6511,6 +6514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Albert's Journey | 219659 | [219659-alberts-journey.json](./219659-alberts-journey.json) |
 | Albino Lullaby: Episode 1 | 19019 | [19019-albino-lullaby-episode-1.json](./19019-albino-lullaby-episode-1.json) |
 | Albino Lullaby: Episode 3 | 238615 | [238615-albino-lullaby-episode-3.json](./238615-albino-lullaby-episode-3.json) |
+| Albion | 2419 | [2419-albion.json](./2419-albion.json) |
 | Albion Online: Beyond the Veil | 227616 | [227616-albion-online-beyond-the-veil.json](./227616-albion-online-beyond-the-veil.json) |
 | Albion Online: Dragonfire | 415306 | [415306-albion-online-dragonfire.json](./415306-albion-online-dragonfire.json) |
 | Alboite | 288678 | [288678-alboite.json](./288678-alboite.json) |
@@ -15118,6 +15122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Fighting | 4514 | [4514-art-of-fighting.json](./4514-art-of-fighting.json) |
 | Art of Fighting 2 | 6556 | [6556-art-of-fighting-2.json](./6556-art-of-fighting-2.json) |
 | Art of Fighting 3: Limited Edition | 75375 | [75375-art-of-fighting-3-limited-edition.json](./75375-art-of-fighting-3-limited-edition.json) |
+| Art of Fighting 3: The Path of The Warrior | 6566 | [6566-art-of-fighting-3-the-path-of-the-warrior.json](./6566-art-of-fighting-3-the-path-of-the-warrior.json) |
 | Art of Fighting Anthology | 21530 | [21530-art-of-fighting-anthology.json](./21530-art-of-fighting-anthology.json) |
 | Art of Fighting: Trouble in South Town | 230256 | [230256-art-of-fighting-trouble-in-south-town.json](./230256-art-of-fighting-trouble-in-south-town.json) |
 | Art of Glide 3 | 332325 | [332325-art-of-glide-3.json](./332325-art-of-glide-3.json) |
@@ -17456,6 +17461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -17469,6 +17475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atlantica Europe | 148255 | [148255-atlantica-europe.json](./148255-atlantica-europe.json) |
 | Atlantica Online | 9522 | [9522-atlantica-online.json](./9522-atlantica-online.json) |
 | Atlantis | 13345 | [13345-atlantis.json](./13345-atlantis.json) |
+| Atlantis | 5658 | [5658-atlantis.json](./5658-atlantis.json) |
 | Atlantis | 64734 | [64734-atlantis.json](./64734-atlantis.json) |
 | Atlantis 2: Beyond Atlantis | 11094 | [11094-atlantis-2-beyond-atlantis.json](./11094-atlantis-2-beyond-atlantis.json) |
 | Atlantis Academy | 245813 | [245813-atlantis-academy.json](./245813-atlantis-academy.json) |
