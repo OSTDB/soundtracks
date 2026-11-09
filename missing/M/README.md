@@ -156,6 +156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macabre Ring 2: Mysterious Puppeteer | 295442 | [295442-macabre-ring-2-mysterious-puppeteer.json](./295442-macabre-ring-2-mysterious-puppeteer.json) |
 | Macabre Ring: Amalia's Story | 199149 | [199149-macabre-ring-amalias-story.json](./199149-macabre-ring-amalias-story.json) |
 | Macabre Stage Vol. 1: Cursed Cartridge | 270998 | [270998-macabre-stage-vol-1-cursed-cartridge.json](./270998-macabre-stage-vol-1-cursed-cartridge.json) |
+| Macadam Bumper | 37269 | [37269-macadam-bumper.json](./37269-macadam-bumper.json) |
 | Macadam: Futari Yogari | 66125 | [66125-macadam-futari-yogari.json](./66125-macadam-futari-yogari.json) |
 | Macaroni Houren-sou Interactive | 234183 | [234183-macaroni-houren-sou-interactive.json](./234183-macaroni-houren-sou-interactive.json) |
 | Macaroni in a Pot | 299156 | [299156-macaroni-in-a-pot.json](./299156-macaroni-in-a-pot.json) |
@@ -3266,6 +3267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maniac Square | 122239 | [122239-maniac-square.json](./122239-maniac-square.json) |
 | Maniac Square | 289133 | [289133-maniac-square.json](./289133-maniac-square.json) |
 | Maniacs | 203736 | [203736-maniacs.json](./203736-maniacs.json) |
+| Maniax | 37268 | [37268-maniax.json](./37268-maniax.json) |
 | Manic | 126951 | [126951-manic.json](./126951-manic.json) |
 | Manic Archers | 153382 | [153382-manic-archers.json](./153382-manic-archers.json) |
 | Manic Karts | 93427 | [93427-manic-karts.json](./93427-manic-karts.json) |
@@ -12283,6 +12285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MilkyWay: Galaxy Adventure | 206416 | [206416-milkyway-galaxy-adventure.json](./206416-milkyway-galaxy-adventure.json) |
 | Mill | 92299 | [92299-mill.json](./92299-mill.json) |
 | Mille Bornes | 94925 | [94925-mille-bornes.json](./94925-mille-bornes.json) |
+| Mille Miglia | 37260 | [37260-mille-miglia.json](./37260-mille-miglia.json) |
 | Mille Miglia 2: Great 1000 Miles Rally | 41077 | [41077-mille-miglia-2-great-1000-miles-rally.json](./41077-mille-miglia-2-great-1000-miles-rally.json) |
 | Millefiori | 150155 | [150155-millefiori.json](./150155-millefiori.json) |
 | Millenium: Return To Earth | 12922 | [12922-millenium-return-to-earth.json](./12922-millenium-return-to-earth.json) |
