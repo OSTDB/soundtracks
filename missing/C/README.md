@@ -2982,6 +2982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival Games | 284137 | [284137-carnival-games.json](./284137-carnival-games.json) |
 | Carnival Games Mini Golf | 4058 | [4058-carnival-games-mini-golf.json](./4058-carnival-games-mini-golf.json) |
 | Carnival Games VR | 25339 | [25339-carnival-games-vr.json](./25339-carnival-games-vr.json) |
+| Carnival Games: Wild West 3D | 44023 | [44023-carnival-games-wild-west-3d.json](./44023-carnival-games-wild-west-3d.json) |
 | Carnival Hammer | 335993 | [335993-carnival-hammer.json](./335993-carnival-hammer.json) |
 | Carnival Happy Day | 344401 | [344401-carnival-happy-day.json](./344401-carnival-happy-day.json) |
 | Carnival Heroes: Super Party Minigames | 338626 | [338626-carnival-heroes-super-party-minigames.json](./338626-carnival-heroes-super-party-minigames.json) |
@@ -8325,6 +8326,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Kagaku Dasshutsu: Gear Detective | 59207 | [59207-chou-kagaku-dasshutsu-gear-detective.json](./59207-chou-kagaku-dasshutsu-gear-detective.json) |
 | Chou Kousoku Mahjong Plus | 319621 | [319621-chou-kousoku-mahjong-plus.json](./319621-chou-kousoku-mahjong-plus.json) |
 | Chou Kowai Hanashi DS: Ao no Shou | 268067 | [268067-chou-kowai-hanashi-ds-ao-no-shou.json](./268067-chou-kowai-hanashi-ds-ao-no-shou.json) |
+| Chou Kuukan Nighter: King of Pro Baseball | 44047 | [44047-chou-kuukan-nighter-king-of-pro-baseball.json](./44047-chou-kuukan-nighter-king-of-pro-baseball.json) |
+| Chou Kuukan Nighter: King of Pro Baseball 2 | 44051 | [44051-chou-kuukan-nighter-king-of-pro-baseball-2.json](./44051-chou-kuukan-nighter-king-of-pro-baseball-2.json) |
 | Chou Kyuukai Miracle Nine | 45733 | [45733-chou-kyuukai-miracle-nine.json](./45733-chou-kyuukai-miracle-nine.json) |
 | Chou Manin: Joshi Seido Shanai Choukyou | 97389 | [97389-chou-manin-joshi-seido-shanai-choukyou.json](./97389-chou-manin-joshi-seido-shanai-choukyou.json) |
 | Chou Mashin Eiyuuden Wataru: Another Step | 37726 | [37726-chou-mashin-eiyuuden-wataru-another-step.json](./37726-chou-mashin-eiyuuden-wataru-another-step.json) |
@@ -11165,6 +11168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloudy with a Chance of Kittens | 345140 | [345140-cloudy-with-a-chance-of-kittens.json](./345140-cloudy-with-a-chance-of-kittens.json) |
 | Cloudy with a Chance of Meatballs | 307566 | [307566-cloudy-with-a-chance-of-meatballs.json](./307566-cloudy-with-a-chance-of-meatballs.json) |
 | Cloudy with a Chance of Meatballs | 4767 | [4767-cloudy-with-a-chance-of-meatballs.json](./4767-cloudy-with-a-chance-of-meatballs.json) |
+| Cloudy with a Chance of Meatballs 2 | 44011 | [44011-cloudy-with-a-chance-of-meatballs-2.json](./44011-cloudy-with-a-chance-of-meatballs-2.json) |
 | Cloudy, then Dried Sardines | 368217 | [368217-cloudy-then-dried-sardines.json](./368217-cloudy-then-dried-sardines.json) |
 | Clout | 105528 | [105528-clout.json](./105528-clout.json) |
 | Clout Chaser | 401064 | [401064-clout-chaser.json](./401064-clout-chaser.json) |
