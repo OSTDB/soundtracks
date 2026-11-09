@@ -1843,6 +1843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capri Care | 328137 | [328137-capri-care.json](./328137-capri-care.json) |
 | Capria: Magic of the Elements | 33142 | [33142-capria-magic-of-the-elements.json](./33142-capria-magic-of-the-elements.json) |
 | Capricious | 183824 | [183824-capricious.json](./183824-capricious.json) |
+| CapRiders: Euro Soccer | 32350 | [32350-capriders-euro-soccer.json](./32350-capriders-euro-soccer.json) |
 | Capsa | 68694 | [68694-capsa.json](./68694-capsa.json) |
 | Capsella: The Lights of Lucerne | 103501 | [103501-capsella-the-lights-of-lucerne.json](./103501-capsella-the-lights-of-lucerne.json) |
 | Capsize | 122403 | [122403-capsize.json](./122403-capsize.json) |
@@ -7257,6 +7258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chesstris Mini | 214681 | [214681-chesstris-mini.json](./214681-chesstris-mini.json) |
 | Chesstro | 403547 | [403547-chesstro.json](./403547-chesstro.json) |
 | ChessVR | 207362 | [207362-chessvr.json](./207362-chessvr.json) |
+| ChessVR | 32332 | [32332-chessvr.json](./32332-chessvr.json) |
 | ChessWorlds | 409781 | [409781-chessworlds.json](./409781-chessworlds.json) |
 | Chessy | 92006 | [92006-chessy.json](./92006-chessy.json) |
 | Chest | 301274 | [301274-chest.json](./301274-chest.json) |
@@ -11370,6 +11372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clumsy Moose Season | 34314 | [34314-clumsy-moose-season.json](./34314-clumsy-moose-season.json) |
 | Clumsy Ninja | 89108 | [89108-clumsy-ninja.json](./89108-clumsy-ninja.json) |
 | Clumsy Pirates | 22272 | [22272-clumsy-pirates.json](./22272-clumsy-pirates.json) |
+| Clumsy Runners | 33199 | [33199-clumsy-runners.json](./33199-clumsy-runners.json) |
 | Clumsy Rush | 127473 | [127473-clumsy-rush.json](./127473-clumsy-rush.json) |
 | Clumsy Rush + Brawl Chess Family Bundle | 218455 | [218455-clumsy-rush-brawl-chess-family-bundle.json](./218455-clumsy-rush-brawl-chess-family-bundle.json) |
 | Clumsy Rush + Cyber Protocol | 218415 | [218415-clumsy-rush-cyber-protocol.json](./218415-clumsy-rush-cyber-protocol.json) |
@@ -19472,6 +19475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Caves Volume 3: Milo Versus the Supernova | 51392 | [51392-crystal-caves-volume-3-milo-versus-the-supernova.json](./51392-crystal-caves-volume-3-milo-versus-the-supernova.json) |
 | Crystal Chaser: Tenkuu no Masuishou | 402986 | [402986-crystal-chaser-tenkuu-no-masuishou.json](./402986-crystal-chaser-tenkuu-no-masuishou.json) |
 | Crystal Chaser: Tenkuu no Masuishou - R | 402994 | [402994-crystal-chaser-tenkuu-no-masuishou-r.json](./402994-crystal-chaser-tenkuu-no-masuishou-r.json) |
+| Crystal Chip Collector | 33202 | [33202-crystal-chip-collector.json](./33202-crystal-chip-collector.json) |
 | Crystal Chip Collector e | 277248 | [277248-crystal-chip-collector-e.json](./277248-crystal-chip-collector-e.json) |
 | Crystal Chip Collector: Hidden Gem | 291416 | [291416-crystal-chip-collector-hidden-gem.json](./291416-crystal-chip-collector-hidden-gem.json) |
 | Crystal City | 32639 | [32639-crystal-city.json](./32639-crystal-city.json) |
@@ -21144,6 +21148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Citizen Shockman 3: The Princess From Another World | 300374 | [300374-cyber-citizen-shockman-3-the-princess-from-another-world.json](./300374-cyber-citizen-shockman-3-the-princess-from-another-world.json) |
 | Cyber Citizen Shockman Zero | 306049 | [306049-cyber-citizen-shockman-zero.json](./306049-cyber-citizen-shockman-zero.json) |
 | Cyber City | 117077 | [117077-cyber-city.json](./117077-cyber-city.json) |
+| Cyber City 2157: The Visual Novel | 33214 | [33214-cyber-city-2157-the-visual-novel.json](./33214-cyber-city-2157-the-visual-novel.json) |
 | Cyber City Clash | 207604 | [207604-cyber-city-clash.json](./207604-cyber-city-clash.json) |
 | Cyber City Escape | 149725 | [149725-cyber-city-escape.json](./149725-cyber-city-escape.json) |
 | Cyber City Knights | 299005 | [299005-cyber-city-knights.json](./299005-cyber-city-knights.json) |
