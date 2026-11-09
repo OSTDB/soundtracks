@@ -360,10 +360,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi-Slot Aruze Oukoku 5 | 56727 | [56727-pachi-slot-aruze-oukoku-5.json](./56727-pachi-slot-aruze-oukoku-5.json) |
 | Pachi-Slot Aruze Oukoku 6 | 56728 | [56728-pachi-slot-aruze-oukoku-6.json](./56728-pachi-slot-aruze-oukoku-6.json) |
 | Pachi-Slot Aruze Oukoku 7 | 56735 | [56735-pachi-slot-aruze-oukoku-7.json](./56735-pachi-slot-aruze-oukoku-7.json) |
+| Pachi-Slot Aruze Oukoku Pocket: Azteca | 47612 | [47612-pachi-slot-aruze-oukoku-pocket-azteca.json](./47612-pachi-slot-aruze-oukoku-pocket-azteca.json) |
 | Pachi-Slot Aruze Oukoku Pocket: Azteca | 56725 | [56725-pachi-slot-aruze-oukoku-pocket-azteca.json](./56725-pachi-slot-aruze-oukoku-pocket-azteca.json) |
 | Pachi-Slot Aruze Oukoku Pocket: Dai-hanabi | 279817 | [279817-pachi-slot-aruze-oukoku-pocket-dai-hanabi.json](./279817-pachi-slot-aruze-oukoku-pocket-dai-hanabi.json) |
 | Pachi-Slot Aruze Oukoku Pocket: Dekahel | 56737 | [56737-pachi-slot-aruze-oukoku-pocket-dekahel.json](./56737-pachi-slot-aruze-oukoku-pocket-dekahel.json) |
+| Pachi-Slot Aruze Oukoku Pocket: Dekahel 2 | 47615 | [47615-pachi-slot-aruze-oukoku-pocket-dekahel-2.json](./47615-pachi-slot-aruze-oukoku-pocket-dekahel-2.json) |
+| Pachi-Slot Aruze Oukoku Pocket: Del Sol 2 | 47618 | [47618-pachi-slot-aruze-oukoku-pocket-del-sol-2.json](./47618-pachi-slot-aruze-oukoku-pocket-del-sol-2.json) |
 | Pachi-Slot Aruze Oukoku Pocket: e-Cup | 56724 | [56724-pachi-slot-aruze-oukoku-pocket-e-cup.json](./56724-pachi-slot-aruze-oukoku-pocket-e-cup.json) |
+| Pachi-Slot Aruze Oukoku Pocket: Hanabi | 47617 | [47617-pachi-slot-aruze-oukoku-pocket-hanabi.json](./47617-pachi-slot-aruze-oukoku-pocket-hanabi.json) |
+| Pachi-Slot Aruze Oukoku Pocket: Porcano 2 | 47610 | [47610-pachi-slot-aruze-oukoku-pocket-porcano-2.json](./47610-pachi-slot-aruze-oukoku-pocket-porcano-2.json) |
+| Pachi-Slot Aruze Oukoku Pocket: Ward of Lights | 47614 | [47614-pachi-slot-aruze-oukoku-pocket-ward-of-lights.json](./47614-pachi-slot-aruze-oukoku-pocket-ward-of-lights.json) |
+| Pachi-Slot Aruze Oukoku: e-CUP | 47613 | [47613-pachi-slot-aruze-oukoku-e-cup.json](./47613-pachi-slot-aruze-oukoku-e-cup.json) |
 | Pachi-Slot Biohazard 5 | 61488 | [61488-pachi-slot-biohazard-5.json](./61488-pachi-slot-biohazard-5.json) |
 | Pachi-Slot Biohazard 6 | 83114 | [83114-pachi-slot-biohazard-6.json](./83114-pachi-slot-biohazard-6.json) |
 | Pachi-Slot Gambler | 42238 | [42238-pachi-slot-gambler.json](./42238-pachi-slot-gambler.json) |
@@ -398,6 +405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachinko Dream | 386519 | [386519-pachinko-dream.json](./386519-pachinko-dream.json) |
 | Pachinko Fan: Shouri Sengen | 42236 | [42236-pachinko-fan-shouri-sengen.json](./42236-pachinko-fan-shouri-sengen.json) |
 | Pachinko GP | 41395 | [41395-pachinko-gp.json](./41395-pachinko-gp.json) |
+| Pachinko Hisshou Guide: Pocket Parlor | 47621 | [47621-pachinko-hisshou-guide-pocket-parlor.json](./47621-pachinko-hisshou-guide-pocket-parlor.json) |
 | Pachinko Hissou Guide: Data no Ou-sama | 282469 | [282469-pachinko-hissou-guide-data-no-ou-sama.json](./282469-pachinko-hissou-guide-data-no-ou-sama.json) |
 | Pachinko II | 6124 | [6124-pachinko-ii.json](./6124-pachinko-ii.json) |
 | Pachinko Kaguya-hime | 97628 | [97628-pachinko-kaguya-hime.json](./97628-pachinko-kaguya-hime.json) |
@@ -2738,6 +2746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Party Jousting | 33608 | [33608-party-jousting.json](./33608-party-jousting.json) |
 | Party Killer | 177458 | [177458-party-killer.json](./177458-party-killer.json) |
 | Party Madness | 370323 | [370323-party-madness.json](./370323-party-madness.json) |
+| Party Mail | 47616 | [47616-party-mail.json](./47616-party-mail.json) |
 | Party Makeover Salon | 87923 | [87923-party-makeover-salon.json](./87923-party-makeover-salon.json) |
 | Party Maker | 234140 | [234140-party-maker.json](./234140-party-maker.json) |
 | Party Man | 321431 | [321431-party-man.json](./321431-party-man.json) |
@@ -6445,6 +6454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picture Poker | 249625 | [249625-picture-poker.json](./249625-picture-poker.json) |
 | Picture Puzzle | 186449 | [186449-picture-puzzle.json](./186449-picture-puzzle.json) |
 | Picture Puzzle | 269636 | [269636-picture-puzzle.json](./269636-picture-puzzle.json) |
+| Picture Puzzle | 47608 | [47608-picture-puzzle.json](./47608-picture-puzzle.json) |
 | Picture Puzzle Collection: The Dutch Masters | 209964 | [209964-picture-puzzle-collection-the-dutch-masters.json](./209964-picture-puzzle-collection-the-dutch-masters.json) |
 | Picture Puzzle Girls: Slide & Match | 417313 | [417313-picture-puzzle-girls-slide-and-match.json](./417313-picture-puzzle-girls-slide-and-match.json) |
 | Picture Quiz: Logos | 334428 | [334428-picture-quiz-logos.json](./334428-picture-quiz-logos.json) |
@@ -10892,6 +10902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Tactics | 177000 | [177000-pocket-tactics.json](./177000-pocket-tactics.json) |
 | Pocket Tanks | 72176 | [72176-pocket-tanks.json](./72176-pocket-tanks.json) |
 | Pocket Tarneeb | 317051 | [317051-pocket-tarneeb.json](./317051-pocket-tarneeb.json) |
+| Pocket Tennis Color | 47609 | [47609-pocket-tennis-color.json](./47609-pocket-tennis-color.json) |
 | Pocket Thief | 337501 | [337501-pocket-thief.json](./337501-pocket-thief.json) |
 | Pocket Tour | 413388 | [413388-pocket-tour.json](./413388-pocket-tour.json) |
 | Pocket Trains - Railroad Empire Building | 99882 | [99882-pocket-trains-railroad-empire-building.json](./99882-pocket-trains-railroad-empire-building.json) |
