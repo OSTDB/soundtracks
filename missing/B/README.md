@@ -5059,6 +5059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bear Brigade: Ocean Attack! | 376510 | [376510-bear-brigade-ocean-attack.json](./376510-bear-brigade-ocean-attack.json) |
 | Bear Care | 177916 | [177916-bear-care.json](./177916-bear-care.json) |
 | Bear Football | 93598 | [93598-bear-football.json](./93598-bear-football.json) |
+| Bear Go Home | 71676 | [71676-bear-go-home.json](./71676-bear-go-home.json) |
 | Bear Haven Nights | 33743 | [33743-bear-haven-nights.json](./33743-bear-haven-nights.json) |
 | Bear Haven Nights 2 | 158372 | [158372-bear-haven-nights-2.json](./158372-bear-haven-nights-2.json) |
 | Bear Heart Defense | 299395 | [299395-bear-heart-defense.json](./299395-bear-heart-defense.json) |
@@ -6091,6 +6092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer Runner: Yasuke A Samurai | 338228 | [338228-beer-runner-yasuke-a-samurai.json](./338228-beer-runner-yasuke-a-samurai.json) |
 | Beer Shooter | 101526 | [101526-beer-shooter.json](./101526-beer-shooter.json) |
 | Beer Strip | 367024 | [367024-beer-strip.json](./367024-beer-strip.json) |
+| Beer Trivia | 72012 | [72012-beer-trivia.json](./72012-beer-trivia.json) |
 | Beer! | 57091 | [57091-beer.json](./57091-beer.json) |
 | Beer! | 83796 | [83796-beer.json](./83796-beer.json) |
 | Beer'em Up | 111341 | [111341-beerem-up.json](./111341-beerem-up.json) |
@@ -6119,6 +6121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beetle Bomp | 52632 | [52632-beetle-bomp.json](./52632-beetle-bomp.json) |
 | Beetle Buggin' | 205959 | [205959-beetle-buggin.json](./205959-beetle-buggin.json) |
 | Beetle Bunt | 142010 | [142010-beetle-bunt.json](./142010-beetle-bunt.json) |
+| Beetle Crazy Cup | 71689 | [71689-beetle-crazy-cup.json](./71689-beetle-crazy-cup.json) |
 | Beetle Elf | 113825 | [113825-beetle-elf.json](./113825-beetle-elf.json) |
 | Beetle Hunter | 126245 | [126245-beetle-hunter.json](./126245-beetle-hunter.json) |
 | Beetle Ju | 117668 | [117668-beetle-ju.json](./117668-beetle-ju.json) |
@@ -14244,6 +14247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncy Ball | 245201 | [245201-bouncy-ball.json](./245201-bouncy-ball.json) |
 | Bouncy Ball: The Impossible Tile Game | 93824 | [93824-bouncy-ball-the-impossible-tile-game.json](./93824-bouncy-ball-the-impossible-tile-game.json) |
 | Bouncy Bean | 388187 | [388187-bouncy-bean.json](./388187-bouncy-bean.json) |
+| Bouncy Bee Learns Letters | 71698 | [71698-bouncy-bee-learns-letters.json](./71698-bouncy-bee-learns-letters.json) |
 | Bouncy Bob | 53092 | [53092-bouncy-bob.json](./53092-bouncy-bob.json) |
 | Bouncy Bob 2 | 125663 | [125663-bouncy-bob-2.json](./125663-bouncy-bob-2.json) |
 | Bouncy Brain | 388273 | [388273-bouncy-brain.json](./388273-bouncy-brain.json) |
