@@ -4693,6 +4693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Life of Fly 2 | 148321 | [148321-life-of-fly-2.json](./148321-life-of-fly-2.json) |
 | Life of Food | 157368 | [157368-life-of-food.json](./157368-life-of-food.json) |
 | Life of George | 65364 | [65364-life-of-george.json](./65364-life-of-george.json) |
+| Life of Harry | 60652 | [60652-life-of-harry.json](./60652-life-of-harry.json) |
 | Life of Kanji Island | 303628 | [303628-life-of-kanji-island.json](./303628-life-of-kanji-island.json) |
 | Life of Lon | 36995 | [36995-life-of-lon.json](./36995-life-of-lon.json) |
 | Life of Mellow | 174702 | [174702-life-of-mellow.json](./174702-life-of-mellow.json) |
@@ -5932,6 +5933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Listen, Think, Meow! | 304596 | [304596-listen-think-meow.json](./304596-listen-think-meow.json) |
 | Listenbourg | 264697 | [264697-listenbourg.json](./264697-listenbourg.json) |
 | Listhère | 137982 | [137982-listhere.json](./137982-listhere.json) |
+| Lists and Lists | 60183 | [60183-lists-and-lists.json](./60183-lists-and-lists.json) |
 | Lit | 21264 | [21264-lit.json](./21264-lit.json) |
 | Lit | 97106 | [97106-lit.json](./97106-lit.json) |
 | Lit Up | 199724 | [199724-lit-up.json](./199724-lit-up.json) |
@@ -7791,6 +7793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopy Wizard | 200138 | [200138-loopy-wizard.json](./200138-loopy-wizard.json) |
 | Loopy's Train Set | 367617 | [367617-loopys-train-set.json](./367617-loopys-train-set.json) |
 | Loopz | 77213 | [77213-loopz.json](./77213-loopz.json) |
+| Loose Cannon | 60668 | [60668-loose-cannon.json](./60668-loose-cannon.json) |
 | Loose Dog | 415506 | [415506-loose-dog.json](./415506-loose-dog.json) |
 | Loose Life | 216711 | [216711-loose-life.json](./216711-loose-life.json) |
 | Loose Lips Side: Sunnyday | 206418 | [206418-loose-lips-side-sunnyday.json](./206418-loose-lips-side-sunnyday.json) |
