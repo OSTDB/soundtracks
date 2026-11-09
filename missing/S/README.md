@@ -12087,6 +12087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sir Fallen: Shadows of the Phoenixheart | 316128 | [316128-sir-fallen-shadows-of-the-phoenixheart.json](./316128-sir-fallen-shadows-of-the-phoenixheart.json) |
 | Sir Fallen: Supporter Pack | 312008 | [312008-sir-fallen-supporter-pack.json](./312008-sir-fallen-supporter-pack.json) |
 | Sir Fred | 270668 | [270668-sir-fred.json](./270668-sir-fred.json) |
+| Sir Fred | 37267 | [37267-sir-fred.json](./37267-sir-fred.json) |
 | Sir Galgano: A Medieval Tale | 193245 | [193245-sir-galgano-a-medieval-tale.json](./193245-sir-galgano-a-medieval-tale.json) |
 | Sir Lancelot | 23574 | [23574-sir-lancelot.json](./23574-sir-lancelot.json) |
 | Sir Lancelot | 354729 | [354729-sir-lancelot.json](./354729-sir-lancelot.json) |
@@ -14500,6 +14501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slopecrashers | 154403 | [154403-slopecrashers.json](./154403-slopecrashers.json) |
 | Sloper | 89998 | [89998-sloper.json](./89998-sloper.json) |
 | Slopeside Kings | 389658 | [389658-slopeside-kings.json](./389658-slopeside-kings.json) |
+| Slopestyle | 37226 | [37226-slopestyle.json](./37226-slopestyle.json) |
 | Slopey | 96918 | [96918-slopey.json](./96918-slopey.json) |
 | Sloppy Eater | 186593 | [186593-sloppy-eater.json](./186593-sloppy-eater.json) |
 | Sloppy Eater: Meal Deal Edition | 186638 | [186638-sloppy-eater-meal-deal-edition.json](./186638-sloppy-eater-meal-deal-edition.json) |
@@ -35244,6 +35246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supremacy MMA: Unrestricted | 42708 | [42708-supremacy-mma-unrestricted.json](./42708-supremacy-mma-unrestricted.json) |
 | Supremacy: The Metaverse Game | 196789 | [196789-supremacy-the-metaverse-game.json](./196789-supremacy-the-metaverse-game.json) |
 | Supremacy: Warhammer 40,000 | 344674 | [344674-supremacy-warhammer-40-000.json](./344674-supremacy-warhammer-40-000.json) |
+| Supremacy: Your Will Be Done | 37235 | [37235-supremacy-your-will-be-done.json](./37235-supremacy-your-will-be-done.json) |
 | Supreme | 80546 | [80546-supreme.json](./80546-supreme.json) |
 | Supreme AI: Arena | 161538 | [161538-supreme-ai-arena.json](./161538-supreme-ai-arena.json) |
 | Supreme Candy: Oudou ni wa Oudoutaru Riyuu ga Arun Desu! | 137107 | [137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json](./137107-supreme-candy-oudou-ni-wa-oudoutaru-riyuu-ga-arun-desu.json) |
