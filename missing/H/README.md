@@ -2124,6 +2124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hareshi Moyakana | 274989 | [274989-hareshi-moyakana.json](./274989-hareshi-moyakana.json) |
 | Harezora Monogatari Again! | 332781 | [332781-harezora-monogatari-again.json](./332781-harezora-monogatari-again.json) |
 | Hargrave | 132429 | [132429-hargrave.json](./132429-hargrave.json) |
+| Harihari Seal Paradise | 66248 | [66248-harihari-seal-paradise.json](./66248-harihari-seal-paradise.json) |
 | Hariti | 406882 | [406882-hariti.json](./406882-hariti.json) |
 | Hark the Ghoul | 318359 | [318359-hark-the-ghoul.json](./318359-hark-the-ghoul.json) |
 | Harker | 79127 | [79127-harker.json](./79127-harker.json) |
@@ -3961,6 +3962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heir of Light Eclipse | 267351 | [267351-heir-of-light-eclipse.json](./267351-heir-of-light-eclipse.json) |
 | Heir of Love | 299422 | [299422-heir-of-love.json](./299422-heir-of-love.json) |
 | Heir of the Dog | 260847 | [260847-heir-of-the-dog.json](./260847-heir-of-the-dog.json) |
+| Heir of Zendor: The Legend and The Land | 66220 | [66220-heir-of-zendor-the-legend-and-the-land.json](./66220-heir-of-zendor-the-legend-and-the-land.json) |
 | Heir to the Queen | 358915 | [358915-heir-to-the-queen.json](./358915-heir-to-the-queen.json) |
 | Heiress | 94827 | [94827-heiress.json](./94827-heiress.json) |
 | Heiress II | 417969 | [417969-heiress-ii.json](./417969-heiress-ii.json) |
