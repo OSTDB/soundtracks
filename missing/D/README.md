@@ -4711,6 +4711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Gear | 188338 | [188338-death-gear.json](./188338-death-gear.json) |
 | Death Goat | 19873 | [19873-death-goat.json](./19873-death-goat.json) |
 | Death Hall | 116377 | [116377-death-hall.json](./116377-death-hall.json) |
+| Death Horizon | 68142 | [68142-death-horizon.json](./68142-death-horizon.json) |
 | Death Horizon Reloaded | 123988 | [123988-death-horizon-reloaded.json](./123988-death-horizon-reloaded.json) |
 | Death Horizon VR | 100771 | [100771-death-horizon-vr.json](./100771-death-horizon-vr.json) |
 | Death Horizon: Cyberfusion | 298227 | [298227-death-horizon-cyberfusion.json](./298227-death-horizon-cyberfusion.json) |
@@ -6443,6 +6444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltazone Reloaded | 144082 | [144082-deltazone-reloaded.json](./144082-deltazone-reloaded.json) |
 | Deltazone: Map Pack #1 | 263313 | [263313-deltazone-map-pack-1.json](./263313-deltazone-map-pack-1.json) |
 | Deltora Quest | 47936 | [47936-deltora-quest.json](./47936-deltora-quest.json) |
+| Deltora Quest: 7-tsu no Houseki | 67728 | [67728-deltora-quest-7-tsu-no-houseki.json](./67728-deltora-quest-7-tsu-no-houseki.json) |
 | Delucid | 390254 | [390254-delucid.json](./390254-delucid.json) |
 | Deluded | 185215 | [185215-deluded.json](./185215-deluded.json) |
 | Deluge | 178161 | [178161-deluge.json](./178161-deluge.json) |
@@ -6556,6 +6558,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demiurgos | 330023 | [330023-demiurgos.json](./330023-demiurgos.json) |
 | Demo Disc: Flipside Frights | 398993 | [398993-demo-disc-flipside-frights.json](./398993-demo-disc-flipside-frights.json) |
 | Demo Disc: Spectral Mall | 214745 | [214745-demo-disc-spectral-mall.json](./214745-demo-disc-spectral-mall.json) |
+| Democart | 68132 | [68132-democart.json](./68132-democart.json) |
+| Democart-2 | 68133 | [68133-democart-2.json](./68133-democart-2.json) |
 | Democracy | 5520 | [5520-democracy.json](./5520-democracy.json) |
 | Democracy 2 | 5521 | [5521-democracy-2.json](./5521-democracy-2.json) |
 | Democracy 3 Africa | 33898 | [33898-democracy-3-africa.json](./33898-democracy-3-africa.json) |
@@ -10569,6 +10573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Discovery Kids Snake Safari | 202079 | [202079-discovery-kids-snake-safari.json](./202079-discovery-kids-snake-safari.json) |
 | Discovery Kids: Dolphin Discovery | 72755 | [72755-discovery-kids-dolphin-discovery.json](./72755-discovery-kids-dolphin-discovery.json) |
 | Discovery Kids: Kitten Corner | 72957 | [72957-discovery-kids-kitten-corner.json](./72957-discovery-kids-kitten-corner.json) |
+| Discovery Kids: Parrot Pals | 68052 | [68052-discovery-kids-parrot-pals.json](./68052-discovery-kids-parrot-pals.json) |
 | Discovery Kids: Pony Paradise | 69273 | [69273-discovery-kids-pony-paradise.json](./69273-discovery-kids-pony-paradise.json) |
 | Discovery Kids: Puppy Playtime | 72894 | [72894-discovery-kids-puppy-playtime.json](./72894-discovery-kids-puppy-playtime.json) |
 | Discovery Kids: Spider Quest | 67308 | [67308-discovery-kids-spider-quest.json](./67308-discovery-kids-spider-quest.json) |
@@ -10712,6 +10717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disk Station #0 | 78958 | [78958-disk-station-0.json](./78958-disk-station-0.json) |
 | Disk-0 Madness | 255074 | [255074-disk-0-madness.json](./255074-disk-0-madness.json) |
 | Diskophoros | 177233 | [177233-diskophoros.json](./177233-diskophoros.json) |
+| Dislocation | 68151 | [68151-dislocation.json](./68151-dislocation.json) |
 | Dislyte | 172684 | [172684-dislyte.json](./172684-dislyte.json) |
 | Dismal Anhedonia Land | 179654 | [179654-dismal-anhedonia-land.json](./179654-dismal-anhedonia-land.json) |
 | Dismal Dreams | 399995 | [399995-dismal-dreams.json](./399995-dismal-dreams.json) |
@@ -14970,6 +14976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drag n Merge Hexagons | 224420 | [224420-drag-n-merge-hexagons.json](./224420-drag-n-merge-hexagons.json) |
 | Drag n Merge Numbers | 127788 | [127788-drag-n-merge-numbers.json](./127788-drag-n-merge-numbers.json) |
 | Drag Race | 18104 | [18104-drag-race.json](./18104-drag-race.json) |
+| Drag Race | 68157 | [68157-drag-race.json](./68157-drag-race.json) |
 | Drag Race: Reaction Trainer | 87257 | [87257-drag-race-reaction-trainer.json](./87257-drag-race-reaction-trainer.json) |
 | Drag Racer USA | 43229 | [43229-drag-racer-usa.json](./43229-drag-racer-usa.json) |
 | Drag Racer V3 | 165118 | [165118-drag-racer-v3.json](./165118-drag-racer-v3.json) |
@@ -17220,6 +17227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drinks Company Tycoon | 173053 | [173053-drinks-company-tycoon.json](./173053-drinks-company-tycoon.json) |
 | Drinks Down Under | 291384 | [291384-drinks-down-under.json](./291384-drinks-down-under.json) |
 | Drinlan Yellow | 254979 | [254979-drinlan-yellow.json](./254979-drinlan-yellow.json) |
+| Drip | 68147 | [68147-drip.json](./68147-drip.json) |
 | Drip Drip | 10247 | [10247-drip-drip.json](./10247-drip-drip.json) |
 | Drip Drip | 86203 | [86203-drip-drip.json](./86203-drip-drip.json) |
 | Drip Drop | 191997 | [191997-drip-drop.json](./191997-drip-drop.json) |
