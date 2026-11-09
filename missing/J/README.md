@@ -3000,6 +3000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Joy | 316859 | [316859-joy.json](./316859-joy.json) |
 | Joy and Me | 243458 | [243458-joy-and-me.json](./243458-joy-and-me.json) |
 | Joy Climb | 88020 | [88020-joy-climb.json](./88020-joy-climb.json) |
+| Joy Drive | 27945 | [27945-joy-drive.json](./27945-joy-drive.json) |
 | Joy e Toy | 248795 | [248795-joy-e-toy.json](./248795-joy-e-toy.json) |
 | Joy Exhibition | 56177 | [56177-joy-exhibition.json](./56177-joy-exhibition.json) |
 | Joy Flight | 221100 | [221100-joy-flight.json](./221100-joy-flight.json) |
