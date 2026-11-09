@@ -3018,6 +3018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man at Arms TD | 197713 | [197713-man-at-arms-td.json](./197713-man-at-arms-td.json) |
 | Man Boy vs. Doctor Sock | 327272 | [327272-man-boy-vs-doctor-sock.json](./327272-man-boy-vs-doctor-sock.json) |
 | Man Enough | 242724 | [242724-man-enough.json](./242724-man-enough.json) |
+| Man Enough | 2490 | [2490-man-enough.json](./2490-man-enough.json) |
 | Man Face Spider I | 132773 | [132773-man-face-spider-i.json](./132773-man-face-spider-i.json) |
 | Man For Takeaway | 323844 | [323844-man-for-takeaway.json](./323844-man-for-takeaway.json) |
 | Man Helsing | 184765 | [184765-man-helsing.json](./184765-man-helsing.json) |
