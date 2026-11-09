@@ -6310,6 +6310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Auction Game | 337199 | [337199-the-auction-game.json](./337199-the-auction-game.json) |
 | The Augury House | 188471 | [188471-the-augury-house.json](./188471-the-augury-house.json) |
 | The Aurora Chronicles | 383203 | [383203-the-aurora-chronicles.json](./383203-the-aurora-chronicles.json) |
+| The Aurora Wager | 11747 | [11747-the-aurora-wager.json](./11747-the-aurora-wager.json) |
 | The Aurora World | 218274 | [218274-the-aurora-world.json](./218274-the-aurora-world.json) |
 | The Austrian Painter | 179484 | [179484-the-austrian-painter.json](./179484-the-austrian-painter.json) |
 | The Auto Sort Is Broken | 329363 | [329363-the-auto-sort-is-broken.json](./329363-the-auto-sort-is-broken.json) |
@@ -6433,6 +6434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ball Adventure | 148535 | [148535-the-ball-adventure.json](./148535-the-ball-adventure.json) |
 | The Ball Encounter | 107786 | [107786-the-ball-encounter.json](./107786-the-ball-encounter.json) |
 | The Ball Flow: Nature and Light | 199597 | [199597-the-ball-flow-nature-and-light.json](./199597-the-ball-flow-nature-and-light.json) |
+| The Ball Game | 11936 | [11936-the-ball-game.json](./11936-the-ball-game.json) |
 | The Ball Game: One Touch Arcade | 254694 | [254694-the-ball-game-one-touch-arcade.json](./254694-the-ball-game-one-touch-arcade.json) |
 | The Ball of the Rings | 176480 | [176480-the-ball-of-the-rings.json](./176480-the-ball-of-the-rings.json) |
 | The Ball Pit | 336382 | [336382-the-ball-pit.json](./336382-the-ball-pit.json) |
@@ -6534,6 +6536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Basement Ritual | 320781 | [320781-the-basement-ritual.json](./320781-the-basement-ritual.json) |
 | The Basement's Calling | 338314 | [338314-the-basements-calling.json](./338314-the-basements-calling.json) |
 | The Basics of Sacred Geometry | 176646 | [176646-the-basics-of-sacred-geometry.json](./176646-the-basics-of-sacred-geometry.json) |
+| The Basket Manager | 11943 | [11943-the-basket-manager.json](./11943-the-basket-manager.json) |
 | The Basketball Quiz | 219173 | [219173-the-basketball-quiz.json](./219173-the-basketball-quiz.json) |
 | The Basment | 380119 | [380119-the-basment.json](./380119-the-basment.json) |
 | THE Bass Fishing | 203730 | [203730-the-bass-fishing.json](./203730-the-bass-fishing.json) |
@@ -11423,7 +11426,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster Heardle | 205625 | [205625-the-idolmaster-heardle.json](./205625-the-idolmaster-heardle.json) |
 | The Idolmaster Must Songs: Presented by Taiko no Tatsujin - Aka-ban | 149988 | [149988-the-idolmaster-must-songs-presented-by-taiko-no-tatsujin-aka-ban.json](./149988-the-idolmaster-must-songs-presented-by-taiko-no-tatsujin-aka-ban.json) |
 | The Idolmaster Must Songs: Presented by Taiko no Tatsujin - Ao-ban | 79449 | [79449-the-idolmaster-must-songs-presented-by-taiko-no-tatsujin-ao-ban.json](./79449-the-idolmaster-must-songs-presented-by-taiko-no-tatsujin-ao-ban.json) |
+| The Idolmaster SP | 11699 | [11699-the-idolmaster-sp.json](./11699-the-idolmaster-sp.json) |
 | The Idolmaster Tours | 241446 | [241446-the-idolmaster-tours.json](./241446-the-idolmaster-tours.json) |
+| The Idolmaster: Cinderella Girls | 11702 | [11702-the-idolmaster-cinderella-girls.json](./11702-the-idolmaster-cinderella-girls.json) |
 | The Idolmaster: Cinderella Girls - Gravure for You! Vol. 1 | 97428 | [97428-the-idolmaster-cinderella-girls-gravure-for-you-vol-1.json](./97428-the-idolmaster-cinderella-girls-gravure-for-you-vol-1.json) |
 | The Idolmaster: Cinderella Girls - Gravure for You! Vol. 2 | 97429 | [97429-the-idolmaster-cinderella-girls-gravure-for-you-vol-2.json](./97429-the-idolmaster-cinderella-girls-gravure-for-you-vol-2.json) |
 | The Idolmaster: Cinderella Girls - Gravure for You! Vol.3 | 97430 | [97430-the-idolmaster-cinderella-girls-gravure-for-you-vol-3.json](./97430-the-idolmaster-cinderella-girls-gravure-for-you-vol-3.json) |
@@ -11433,6 +11438,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Cinderella Girls - Gravure for You! Vol.7 | 97434 | [97434-the-idolmaster-cinderella-girls-gravure-for-you-vol-7.json](./97434-the-idolmaster-cinderella-girls-gravure-for-you-vol-7.json) |
 | The Idolmaster: Cinderella Girls - Gravure for You! Vol.8 | 97435 | [97435-the-idolmaster-cinderella-girls-gravure-for-you-vol-8.json](./97435-the-idolmaster-cinderella-girls-gravure-for-you-vol-8.json) |
 | The Idolmaster: Cinderella Girls - Gravure for You! Vol.9 | 97436 | [97436-the-idolmaster-cinderella-girls-gravure-for-you-vol-9.json](./97436-the-idolmaster-cinderella-girls-gravure-for-you-vol-9.json) |
+| The Idolmaster: Cinderella Girls - Starlight Stage | 11711 | [11711-the-idolmaster-cinderella-girls-starlight-stage.json](./11711-the-idolmaster-cinderella-girls-starlight-stage.json) |
+| The Idolmaster: Dearly Stars | 11700 | [11700-the-idolmaster-dearly-stars.json](./11700-the-idolmaster-dearly-stars.json) |
 | The Idolmaster: Gravure for You! - Vol. 1 | 79980 | [79980-the-idolmaster-gravure-for-you-vol-1.json](./79980-the-idolmaster-gravure-for-you-vol-1.json) |
 | The Idolmaster: Gravure for You! Vol. 2 | 79977 | [79977-the-idolmaster-gravure-for-you-vol-2.json](./79977-the-idolmaster-gravure-for-you-vol-2.json) |
 | The Idolmaster: Gravure for You! Vol. 3 | 79979 | [79979-the-idolmaster-gravure-for-you-vol-3.json](./79979-the-idolmaster-gravure-for-you-vol-3.json) |
@@ -11459,6 +11466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: Shiny Colors - Song for Prism | 248115 | [248115-the-idolmaster-shiny-colors-song-for-prism.json](./248115-the-idolmaster-shiny-colors-song-for-prism.json) |
 | The Idolmaster: Shiny Colors - Song for Prism: Honjitsu Haishin! Illumine Renaigaku Josetsu | 413515 | [413515-the-idolmaster-shiny-colors-song-for-prism-honjitsu-haishin-illumine-renaigaku-josetsu.json](./413515-the-idolmaster-shiny-colors-song-for-prism-honjitsu-haishin-illumine-renaigaku-josetsu.json) |
 | The Idolmaster: Shiny Colors - With Open() | 413755 | [413755-the-idolmaster-shiny-colors-with-open.json](./413755-the-idolmaster-shiny-colors-with-open.json) |
+| The Idolmaster: Shiny Festa | 11705 | [11705-the-idolmaster-shiny-festa.json](./11705-the-idolmaster-shiny-festa.json) |
 | The Idolmaster: Shiny Festa - Funky Note | 42797 | [42797-the-idolmaster-shiny-festa-funky-note.json](./42797-the-idolmaster-shiny-festa-funky-note.json) |
 | The Idolmaster: Shiny Festa - Groovy Tune | 42795 | [42795-the-idolmaster-shiny-festa-groovy-tune.json](./42795-the-idolmaster-shiny-festa-groovy-tune.json) |
 | The Idolmaster: Shiny Festa - Honey Sound | 42796 | [42796-the-idolmaster-shiny-festa-honey-sound.json](./42796-the-idolmaster-shiny-festa-honey-sound.json) |
@@ -11839,6 +11847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Journeyman Project | 9517 | [9517-the-journeyman-project.json](./9517-the-journeyman-project.json) |
 | The Journeyman Project 1: Pegasus Prime | 35479 | [35479-the-journeyman-project-1-pegasus-prime.json](./35479-the-journeyman-project-1-pegasus-prime.json) |
 | The Journeyman Project 2: Buried in Time | 12436 | [12436-the-journeyman-project-2-buried-in-time.json](./12436-the-journeyman-project-2-buried-in-time.json) |
+| The Journeyman Project 3: Legacy of Time | 11674 | [11674-the-journeyman-project-3-legacy-of-time.json](./11674-the-journeyman-project-3-legacy-of-time.json) |
 | The Journeyman Project: Pegasus Prime | 210007 | [210007-the-journeyman-project-pegasus-prime.json](./210007-the-journeyman-project-pegasus-prime.json) |
 | The Journeyman Project: Pegasus Prime | 47079 | [47079-the-journeyman-project-pegasus-prime.json](./47079-the-journeyman-project-pegasus-prime.json) |
 | The Journeyman Project: Turbo! | 79931 | [79931-the-journeyman-project-turbo.json](./79931-the-journeyman-project-turbo.json) |
