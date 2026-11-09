@@ -2492,6 +2492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elements of Destruction | 21517 | [21517-elements-of-destruction.json](./21517-elements-of-destruction.json) |
 | Elements of Dreams | 189002 | [189002-elements-of-dreams.json](./189002-elements-of-dreams.json) |
 | Elements of Harmony | 363131 | [363131-elements-of-harmony.json](./363131-elements-of-harmony.json) |
+| Elements of War | 21153 | [21153-elements-of-war.json](./21153-elements-of-war.json) |
 | Elements Voice Series vol.1 Mika Kanai - Wind&Breeze | 63953 | [63953-elements-voice-series-vol-1-mika-kanai-wind-and-breeze.json](./63953-elements-voice-series-vol-1-mika-kanai-wind-and-breeze.json) |
 | Elements Voice Series vol.2 Rika Fukami - Private Step | 63955 | [63955-elements-voice-series-vol-2-rika-fukami-private-step.json](./63955-elements-voice-series-vol-2-rika-fukami-private-step.json) |
 | Elements Voice Series vol.3 Aya Hisakawa - Forest Sways | 63954 | [63954-elements-voice-series-vol-3-aya-hisakawa-forest-sways.json](./63954-elements-voice-series-vol-3-aya-hisakawa-forest-sways.json) |
@@ -2834,10 +2835,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elmarion: Dragon's Princess | 149791 | [149791-elmarion-dragons-princess.json](./149791-elmarion-dragons-princess.json) |
 | Elmarion: The Lost Temple | 149894 | [149894-elmarion-the-lost-temple.json](./149894-elmarion-the-lost-temple.json) |
 | Elmin | 345588 | [345588-elmin.json](./345588-elmin.json) |
+| Elminage DS Remix: Yami no Miko to Kamigami no Yubiwa | 21026 | [21026-elminage-ds-remix-yami-no-miko-to-kamigami-no-yubiwa.json](./21026-elminage-ds-remix-yami-no-miko-to-kamigami-no-yubiwa.json) |
 | Elminage Gothic | 17210 | [17210-elminage-gothic.json](./17210-elminage-gothic.json) |
 | Elminage Gothic 3D Remix: Ulm Zakir to Yami no Gishiki | 136933 | [136933-elminage-gothic-3d-remix-ulm-zakir-to-yami-no-gishiki.json](./136933-elminage-gothic-3d-remix-ulm-zakir-to-yami-no-gishiki.json) |
+| Elminage Gothic 3D Remix: Ulm Zakir to Yami no Gishiki | 21030 | [21030-elminage-gothic-3d-remix-ulm-zakir-to-yami-no-gishiki.json](./21030-elminage-gothic-3d-remix-ulm-zakir-to-yami-no-gishiki.json) |
+| Elminage Gothic: Ulm Zakir to Yami no Gishiki | 21029 | [21029-elminage-gothic-ulm-zakir-to-yami-no-gishiki.json](./21029-elminage-gothic-ulm-zakir-to-yami-no-gishiki.json) |
+| Elminage Ibun: Ame no Mihashira | 21031 | [21031-elminage-ibun-ame-no-mihashira.json](./21031-elminage-ibun-ame-no-mihashira.json) |
+| Elminage II DS Remix: Sousei no Megami to Unmei no Daichi | 21028 | [21028-elminage-ii-ds-remix-sousei-no-megami-to-unmei-no-daichi.json](./21028-elminage-ii-ds-remix-sousei-no-megami-to-unmei-no-daichi.json) |
+| Elminage II: Sousei no Megami to Unmei no Daichi | 21027 | [21027-elminage-ii-sousei-no-megami-to-unmei-no-daichi.json](./21027-elminage-ii-sousei-no-megami-to-unmei-no-daichi.json) |
 | Elminage III: Ankoku no Shito to Taiyou no Kyuuden | 38468 | [38468-elminage-iii-ankoku-no-shito-to-taiyou-no-kyuuden.json](./38468-elminage-iii-ankoku-no-shito-to-taiyou-no-kyuuden.json) |
 | Elminage Original | 21033 | [21033-elminage-original.json](./21033-elminage-original.json) |
+| Elminage: Yami no Miko to Kamigami no Yubiwa | 21025 | [21025-elminage-yami-no-miko-to-kamigami-no-yubiwa.json](./21025-elminage-yami-no-miko-to-kamigami-no-yubiwa.json) |
 | Elmo Calls | 87337 | [87337-elmo-calls.json](./87337-elmo-calls.json) |
 | Elmo Loves 123s | 88971 | [88971-elmo-loves-123s.json](./88971-elmo-loves-123s.json) |
 | Elmo Through the Looking-Glass | 333203 | [333203-elmo-through-the-looking-glass.json](./333203-elmo-through-the-looking-glass.json) |
