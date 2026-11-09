@@ -1330,6 +1330,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Dream: Complete Edition | 53265 | [53265-last-dream-complete-edition.json](./53265-last-dream-complete-edition.json) |
 | Last Dream: World Unknown | 33378 | [33378-last-dream-world-unknown.json](./33378-last-dream-world-unknown.json) |
 | Last Drop | 332949 | [332949-last-drop.json](./332949-last-drop.json) |
+| Last Duel | 37211 | [37211-last-duel.json](./37211-last-duel.json) |
 | Last Duel: Inter Planet War 2012 | 12171 | [12171-last-duel-inter-planet-war-2012.json](./12171-last-duel-inter-planet-war-2012.json) |
 | Last dungeon of defeat - Humiliation for female warrior Erina | 134627 | [134627-last-dungeon-of-defeat-humiliation-for-female-warrior-erina.json](./134627-last-dungeon-of-defeat-humiliation-for-female-warrior-erina.json) |
 | Last Egg Alive | 419092 | [419092-last-egg-alive.json](./419092-last-egg-alive.json) |
@@ -8660,6 +8661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Paradise of Karuta | 314837 | [314837-lost-paradise-of-karuta.json](./314837-lost-paradise-of-karuta.json) |
 | Lost Passage: Ushinawareta Hitofushi | 165536 | [165536-lost-passage-ushinawareta-hitofushi.json](./165536-lost-passage-ushinawareta-hitofushi.json) |
 | Lost Patient | 369858 | [369858-lost-patient.json](./369858-lost-patient.json) |
+| Lost Patrol | 37270 | [37270-lost-patrol.json](./37270-lost-patrol.json) |
 | Lost Paws | 207343 | [207343-lost-paws.json](./207343-lost-paws.json) |
 | Lost Perspective | 137602 | [137602-lost-perspective.json](./137602-lost-perspective.json) |
 | Lost Phoenix | 307174 | [307174-lost-phoenix.json](./307174-lost-phoenix.json) |
