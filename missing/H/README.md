@@ -7249,7 +7249,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Nightmares | 260379 | [260379-hidden-nightmares.json](./260379-hidden-nightmares.json) |
 | Hidden Object - 12 in 1 bundle | 90581 | [90581-hidden-object-12-in-1-bundle.json](./90581-hidden-object-12-in-1-bundle.json) |
 | Hidden Object - Home Makeover | 71572 | [71572-hidden-object-home-makeover.json](./71572-hidden-object-home-makeover.json) |
+| Hidden Object - Magic of Christmas | 71252 | [71252-hidden-object-magic-of-christmas.json](./71252-hidden-object-magic-of-christmas.json) |
+| Hidden Object - Spring is Here! | 71251 | [71251-hidden-object-spring-is-here.json](./71251-hidden-object-spring-is-here.json) |
 | Hidden Object - Sweet Home | 72403 | [72403-hidden-object-sweet-home.json](./72403-hidden-object-sweet-home.json) |
+| Hidden Object - Tea Time | 71250 | [71250-hidden-object-tea-time.json](./71250-hidden-object-tea-time.json) |
 | Hidden Object - Tools | 67899 | [67899-hidden-object-tools.json](./67899-hidden-object-tools.json) |
 | Hidden Object - Unwrap the Secrets of the Lost Candy World! Seek & Find Hunt Game | 71207 | [71207-hidden-object-unwrap-the-secrets-of-the-lost-candy-world-seek-and-find-hunt-game.json](./71207-hidden-object-unwrap-the-secrets-of-the-lost-candy-world-seek-and-find-hunt-game.json) |
 | Hidden Object 6-in-1 bundle | 90590 | [90590-hidden-object-6-in-1-bundle.json](./90590-hidden-object-6-in-1-bundle.json) |
@@ -7347,6 +7350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Object: Happy Easter | 83641 | [83641-hidden-object-happy-easter.json](./83641-hidden-object-happy-easter.json) |
 | Hidden Object: Happy Haunts | 98581 | [98581-hidden-object-happy-haunts.json](./98581-hidden-object-happy-haunts.json) |
 | Hidden Object: Happy Valentine's Day | 82173 | [82173-hidden-object-happy-valentines-day.json](./82173-hidden-object-happy-valentines-day.json) |
+| Hidden Object: Haunted House 2 | 71253 | [71253-hidden-object-haunted-house-2.json](./71253-hidden-object-haunted-house-2.json) |
 | Hidden Object: Haunted House 3 | 98594 | [98594-hidden-object-haunted-house-3.json](./98594-hidden-object-haunted-house-3.json) |
 | Hidden Object: Haunted House 4 | 98592 | [98592-hidden-object-haunted-house-4.json](./98592-hidden-object-haunted-house-4.json) |
 | Hidden Object: Haunted Museum | 98562 | [98562-hidden-object-haunted-museum.json](./98562-hidden-object-haunted-museum.json) |
