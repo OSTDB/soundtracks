@@ -10702,6 +10702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ClickCells: Winter Lady | 168213 | [168213-clickcells-winter-lady.json](./168213-clickcells-winter-lady.json) |
 | ClickCrafter | 413740 | [413740-clickcrafter.json](./413740-clickcrafter.json) |
 | ClickDragType | 320170 | [320170-clickdragtype.json](./320170-clickdragtype.json) |
+| Clickdraw Clicker | 30972 | [30972-clickdraw-clicker.json](./30972-clickdraw-clicker.json) |
 | Clickenzee | 84270 | [84270-clickenzee.json](./84270-clickenzee.json) |
 | Clicker Achievements: The Impossible Challenge | 103808 | [103808-clicker-achievements-the-impossible-challenge.json](./103808-clicker-achievements-the-impossible-challenge.json) |
 | Clicker Age | 129655 | [129655-clicker-age.json](./129655-clicker-age.json) |
@@ -16599,6 +16600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crab Crawl | 328895 | [328895-crab-crawl.json](./328895-crab-crawl.json) |
 | Crab Digger | 236850 | [236850-crab-digger.json](./236850-crab-digger.json) |
 | Crab Digger: Tropical Island | 300858 | [300858-crab-digger-tropical-island.json](./300858-crab-digger-tropical-island.json) |
+| Crab Dub | 31018 | [31018-crab-dub.json](./31018-crab-dub.json) |
 | Crab Game 2 | 323500 | [323500-crab-game-2.json](./323500-crab-game-2.json) |
 | Crab God | 244884 | [244884-crab-god.json](./244884-crab-god.json) |
 | Crab God: Supporter Pack | 382435 | [382435-crab-god-supporter-pack.json](./382435-crab-god-supporter-pack.json) |
@@ -18216,6 +18218,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crimson Needle 3 | 265205 | [265205-crimson-needle-3.json](./265205-crimson-needle-3.json) |
 | Crimson Night | 375580 | [375580-crimson-night.json](./375580-crimson-night.json) |
 | Crimson Night | 403099 | [403099-crimson-night.json](./403099-crimson-night.json) |
+| Crimson Nights | 31005 | [31005-crimson-nights.json](./31005-crimson-nights.json) |
 | Crimson Oath | 373152 | [373152-crimson-oath.json](./373152-crimson-oath.json) |
 | Crimson Phoenix Rise | 219231 | [219231-crimson-phoenix-rise.json](./219231-crimson-phoenix-rise.json) |
 | Crimson Ranch | 150477 | [150477-crimson-ranch.json](./150477-crimson-ranch.json) |
@@ -21090,6 +21093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cuttlemania! | 159270 | [159270-cuttlemania.json](./159270-cuttlemania.json) |
 | Cutucadores | 327039 | [327039-cutucadores.json](./327039-cutucadores.json) |
 | Cuub | 278163 | [278163-cuub.json](./278163-cuub.json) |
+| CuVRball | 31036 | [31036-cuvrball.json](./31036-cuvrball.json) |
 | Cuyo | 132617 | [132617-cuyo.json](./132617-cuyo.json) |
 | Cuzuco | 373185 | [373185-cuzuco.json](./373185-cuzuco.json) |
 | CV: Casting Voice | 62450 | [62450-cv-casting-voice.json](./62450-cv-casting-voice.json) |
