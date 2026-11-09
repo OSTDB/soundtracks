@@ -12156,6 +12156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freeman | 253604 | [253604-freeman.json](./253604-freeman.json) |
 | Freeman and Bob | 252921 | [252921-freeman-and-bob.json](./252921-freeman-and-bob.json) |
 | Freeman: Guerrilla Warfare | 78538 | [78538-freeman-guerrilla-warfare.json](./78538-freeman-guerrilla-warfare.json) |
+| Freemium Way | 39757 | [39757-freemium-way.json](./39757-freemium-way.json) |
 | Freenergy | 211019 | [211019-freenergy.json](./211019-freenergy.json) |
 | FreeOrion | 91478 | [91478-freeorion.json](./91478-freeorion.json) |
 | Freeq | 62573 | [62573-freeq.json](./62573-freeq.json) |
