@@ -4000,6 +4000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5245,6 +5246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Interplayer | 301906 | [301906-interplayer.json](./301906-interplayer.json) |
 | Interpoint | 115674 | [115674-interpoint.json](./115674-interpoint.json) |
 | Interpol | 148197 | [148197-interpol.json](./148197-interpol.json) |
+| Interpol 2: Most Wanted | 67409 | [67409-interpol-2-most-wanted.json](./67409-interpol-2-most-wanted.json) |
 | Interpose | 93337 | [93337-interpose.json](./93337-interpose.json) |
 | Interpret | 384333 | [384333-interpret.json](./384333-interpret.json) |
 | Interquel | 369370 | [369370-interquel.json](./369370-interquel.json) |
