@@ -9687,6 +9687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Striker 2025 | 335834 | [335834-football-striker-2025.json](./335834-football-striker-2025.json) |
 | Football Sumos | 175149 | [175149-football-sumos.json](./175149-football-sumos.json) |
 | Football Superstar 2 | 317008 | [317008-football-superstar-2.json](./317008-football-superstar-2.json) |
+| Football Superstars | 16413 | [16413-football-superstars.json](./16413-football-superstars.json) |
 | Football Survivors | 390197 | [390197-football-survivors.json](./390197-football-survivors.json) |
 | Football Thug Life Soccer | 255741 | [255741-football-thug-life-soccer.json](./255741-football-thug-life-soccer.json) |
 | Football Tournament | 164882 | [164882-football-tournament.json](./164882-football-tournament.json) |
@@ -11815,6 +11816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Franklin the Turtle Learns Math | 289742 | [289742-franklin-the-turtle-learns-math.json](./289742-franklin-the-turtle-learns-math.json) |
 | Franklin: A Birthday Surprise | 118948 | [118948-franklin-a-birthday-surprise.json](./118948-franklin-a-birthday-surprise.json) |
 | Franklin's Great Adventures | 48044 | [48044-franklins-great-adventures.json](./48044-franklins-great-adventures.json) |
+| FranknJohn | 17506 | [17506-franknjohn.json](./17506-franknjohn.json) |
 | Franko: The Crazy Revenge | 46996 | [46996-franko-the-crazy-revenge.json](./46996-franko-the-crazy-revenge.json) |
 | Franky Lettuce | 113667 | [113667-franky-lettuce.json](./113667-franky-lettuce.json) |
 | Franky the Bumwalker | 76493 | [76493-franky-the-bumwalker.json](./76493-franky-the-bumwalker.json) |
