@@ -10483,6 +10483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blight Dream | 121029 | [121029-blight-dream.json](./121029-blight-dream.json) |
 | Blight Night | 343404 | [343404-blight-night.json](./343404-blight-night.json) |
 | Blight Night: You Are Not Safe | 242000 | [242000-blight-night-you-are-not-safe.json](./242000-blight-night-you-are-not-safe.json) |
+| Blight of the Immortals | 25301 | [25301-blight-of-the-immortals.json](./25301-blight-of-the-immortals.json) |
 | Blight: Survival | 211470 | [211470-blight-survival.json](./211470-blight-survival.json) |
 | Blightborn | 338714 | [338714-blightborn.json](./338714-blightborn.json) |
 | Blightbound | 133932 | [133932-blightbound.json](./133932-blightbound.json) |
@@ -12109,6 +12110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Land | 302476 | [302476-blue-land.json](./302476-blue-land.json) |
 | Blue Laserdisc Challenge | 359895 | [359895-blue-laserdisc-challenge.json](./359895-blue-laserdisc-challenge.json) |
 | Blue Lemon | 126656 | [126656-blue-lemon.json](./126656-blue-lemon.json) |
+| Blue Libra | 25476 | [25476-blue-libra.json](./25476-blue-libra.json) |
 | Blue Libra 2 | 25539 | [25539-blue-libra-2.json](./25539-blue-libra-2.json) |
 | Blue Light | 318370 | [318370-blue-light.json](./318370-blue-light.json) |
 | Blue Lightning | 12364 | [12364-blue-lightning.json](./12364-blue-lightning.json) |
@@ -15790,6 +15792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakfree | 130847 | [130847-breakfree.json](./130847-breakfree.json) |
 | BreakFree Escape From the Mine | 101968 | [101968-breakfree-escape-from-the-mine.json](./101968-breakfree-escape-from-the-mine.json) |
 | BreakHack | 107503 | [107503-breakhack.json](./107503-breakhack.json) |
+| BreakIn 360 | 25288 | [25288-breakin-360.json](./25288-breakin-360.json) |
 | Breaking & Entering | 200857 | [200857-breaking-and-entering.json](./200857-breaking-and-entering.json) |
 | Breaking Bad DS | 277201 | [277201-breaking-bad-ds.json](./277201-breaking-bad-ds.json) |
 | Breaking Bad: Criminal Elements | 114003 | [114003-breaking-bad-criminal-elements.json](./114003-breaking-bad-criminal-elements.json) |
@@ -19157,6 +19160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | By Day and Night | 185393 | [185393-by-day-and-night.json](./185393-by-day-and-night.json) |
 | By Day Fight | 52695 | [52695-by-day-fight.json](./52695-by-day-fight.json) |
 | By Fair Means or Foul | 13456 | [13456-by-fair-means-or-foul.json](./13456-by-fair-means-or-foul.json) |
+| By Fire & Sword | 25898 | [25898-by-fire-and-sword.json](./25898-by-fire-and-sword.json) |
 | By God Your Anger is Beautiful | 182881 | [182881-by-god-your-anger-is-beautiful.json](./182881-by-god-your-anger-is-beautiful.json) |
 | By Grit Alone | 306947 | [306947-by-grit-alone.json](./306947-by-grit-alone.json) |
 | By Lamplight | 135612 | [135612-by-lamplight.json](./135612-by-lamplight.json) |
