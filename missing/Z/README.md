@@ -308,6 +308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zane | 233734 | [233734-zane.json](./233734-zane.json) |
 | Zanerdin: The Unbound | 391286 | [391286-zanerdin-the-unbound.json](./391286-zanerdin-the-unbound.json) |
 | Zanfium Tower | 173838 | [173838-zanfium-tower.json](./173838-zanfium-tower.json) |
+| Zangeki no Reginleiv | 22965 | [22965-zangeki-no-reginleiv.json](./22965-zangeki-no-reginleiv.json) |
 | Zangeki Warp | 30287 | [30287-zangeki-warp.json](./30287-zangeki-warp.json) |
 | Zangus | 313249 | [313249-zangus.json](./313249-zangus.json) |
 | Zangyura | 138717 | [138717-zangyura.json](./138717-zangyura.json) |
@@ -939,6 +940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Escape | 194163 | [194163-zero-escape.json](./194163-zero-escape.json) |
 | Zero Escape Trilogy | 52108 | [52108-zero-escape-trilogy.json](./52108-zero-escape-trilogy.json) |
 | Zero Escape: Nine Hours, Nine Persons, Nine Doors | 319754 | [319754-zero-escape-nine-hours-nine-persons-nine-doors.json](./319754-zero-escape-nine-hours-nine-persons-nine-doors.json) |
+| Zero Escape: Nine Hours, Nine Persons, Nine Doors - The Novel | 22949 | [22949-zero-escape-nine-hours-nine-persons-nine-doors-the-novel.json](./22949-zero-escape-nine-hours-nine-persons-nine-doors-the-novel.json) |
 | Zero Escape: The Nonary Games | 25343 | [25343-zero-escape-the-nonary-games.json](./25343-zero-escape-the-nonary-games.json) |
 | Zero Escape: Virtue's Last Reward | 6614 | [6614-zero-escape-virtues-last-reward.json](./6614-zero-escape-virtues-last-reward.json) |
 | Zero Escape: Zero Time Dilemma | 11549 | [11549-zero-escape-zero-time-dilemma.json](./11549-zero-escape-zero-time-dilemma.json) |
@@ -2123,6 +2125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombies | 95507 | [95507-zombies.json](./95507-zombies.json) |
 | Zombies & Bullets | 372638 | [372638-zombies-and-bullets.json](./372638-zombies-and-bullets.json) |
 | Zombies & Love | 296987 | [296987-zombies-and-love.json](./296987-zombies-and-love.json) |
+| Zombies & Me | 22990 | [22990-zombies-and-me.json](./22990-zombies-and-me.json) |
 | Zombies & Survivors | 345403 | [345403-zombies-and-survivors.json](./345403-zombies-and-survivors.json) |
 | Zombies & Trains! | 51202 | [51202-zombies-and-trains.json](./51202-zombies-and-trains.json) |
 | Zombies 2.0 | 67679 | [67679-zombies-2-0.json](./67679-zombies-2-0.json) |
