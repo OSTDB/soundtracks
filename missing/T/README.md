@@ -1855,6 +1855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tango: The Adventure Game | 106402 | [106402-tango-the-adventure-game.json](./106402-tango-the-adventure-game.json) |
 | Tangol | 125945 | [125945-tangol.json](./125945-tangol.json) |
 | Tangoo & Ullashong | 374087 | [374087-tangoo-and-ullashong.json](./374087-tangoo-and-ullashong.json) |
+| Tangram | 12499 | [12499-tangram.json](./12499-tangram.json) |
 | Tangram | 208373 | [208373-tangram.json](./208373-tangram.json) |
 | Tangram Attack | 85423 | [85423-tangram-attack.json](./85423-tangram-attack.json) |
 | Tangram Collection | 241887 | [241887-tangram-collection.json](./241887-tangram-collection.json) |
@@ -7324,6 +7325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Caribbean Sail: Fantasy Toggle | 144166 | [144166-the-caribbean-sail-fantasy-toggle.json](./144166-the-caribbean-sail-fantasy-toggle.json) |
 | The Caribbean Sail: Route Planing | 144165 | [144165-the-caribbean-sail-route-planing.json](./144165-the-caribbean-sail-route-planing.json) |
 | The Caribou Trail | 391848 | [391848-the-caribou-trail.json](./391848-the-caribou-trail.json) |
+| The Carl Lewis Challenge | 12532 | [12532-the-carl-lewis-challenge.json](./12532-the-carl-lewis-challenge.json) |
 | The Carnage Continues | 276385 | [276385-the-carnage-continues.json](./276385-the-carnage-continues.json) |
 | The Carnival Killer | 320578 | [320578-the-carnival-killer.json](./320578-the-carnival-killer.json) |
 | The Carnival Of Company | 293632 | [293632-the-carnival-of-company.json](./293632-the-carnival-of-company.json) |
@@ -7469,6 +7471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chant: Limited Edition | 204914 | [204914-the-chant-limited-edition.json](./204914-the-chant-limited-edition.json) |
 | The Chant: The Gloom Below | 266387 | [266387-the-chant-the-gloom-below.json](./266387-the-chant-the-gloom-below.json) |
 | The Chantry | 118698 | [118698-the-chantry.json](./118698-the-chantry.json) |
+| The Chaos Engine 2 | 12541 | [12541-the-chaos-engine-2.json](./12541-the-chaos-engine-2.json) |
 | The Chaos Gene | 172272 | [172272-the-chaos-gene.json](./172272-the-chaos-gene.json) |
 | The Chaotic Workshop | 105154 | [105154-the-chaotic-workshop.json](./105154-the-chaotic-workshop.json) |
 | The Chaput's Baby | 217992 | [217992-the-chaputs-baby.json](./217992-the-chaputs-baby.json) |
@@ -7577,6 +7580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chronicles of Nathan: The Maze Hunter | 213079 | [213079-the-chronicles-of-nathan-the-maze-hunter.json](./213079-the-chronicles-of-nathan-the-maze-hunter.json) |
 | The Chronicles of Noah's Ark | 105244 | [105244-the-chronicles-of-noahs-ark.json](./105244-the-chronicles-of-noahs-ark.json) |
 | The Chronicles of Nyanya | 68669 | [68669-the-chronicles-of-nyanya.json](./68669-the-chronicles-of-nyanya.json) |
+| The Chronicles of Omega | 12542 | [12542-the-chronicles-of-omega.json](./12542-the-chronicles-of-omega.json) |
 | The Chronicles of Overlord | 219550 | [219550-the-chronicles-of-overlord.json](./219550-the-chronicles-of-overlord.json) |
 | The Chronicles of Penghao: Ming | 292289 | [292289-the-chronicles-of-penghao-ming.json](./292289-the-chronicles-of-penghao-ming.json) |
 | The Chronicles of Quiver Dick | 104863 | [104863-the-chronicles-of-quiver-dick.json](./104863-the-chronicles-of-quiver-dick.json) |
@@ -7843,6 +7847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cooking Game | 32134 | [32134-the-cooking-game.json](./32134-the-cooking-game.json) |
 | The Cooking Game VR | 104045 | [104045-the-cooking-game-vr.json](./104045-the-cooking-game-vr.json) |
 | The Cooking Game: Deluxe Edition | 53704 | [53704-the-cooking-game-deluxe-edition.json](./53704-the-cooking-game-deluxe-edition.json) |
+| The Cool Croc Twins | 12548 | [12548-the-cool-croc-twins.json](./12548-the-cool-croc-twins.json) |
 | The Cool Guys Are Level 100 | 316409 | [316409-the-cool-guys-are-level-100.json](./316409-the-cool-guys-are-level-100.json) |
 | The Cope | 314548 | [314548-the-cope.json](./314548-the-cope.json) |
 | The Copper Age | 217913 | [217913-the-copper-age.json](./217913-the-copper-age.json) |
@@ -26950,6 +26955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Driftin': Touge Dreams | 351713 | [351713-total-driftin-touge-dreams.json](./351713-total-driftin-touge-dreams.json) |
 | Total Drive | 175244 | [175244-total-drive.json](./175244-total-drive.json) |
 | Total Drivin | 44871 | [44871-total-drivin.json](./44871-total-drivin.json) |
+| Total Eclipse | 12562 | [12562-total-eclipse.json](./12562-total-eclipse.json) |
 | Total Eclipse | 4347 | [4347-total-eclipse.json](./4347-total-eclipse.json) |
 | Total Eclipse II: The Sphinx Jinx | 66006 | [66006-total-eclipse-ii-the-sphinx-jinx.json](./66006-total-eclipse-ii-the-sphinx-jinx.json) |
 | Total Eclipse Turbo | 44991 | [44991-total-eclipse-turbo.json](./44991-total-eclipse-turbo.json) |
