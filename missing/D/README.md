@@ -880,6 +880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance World | 235908 | [235908-dance-world.json](./235908-dance-world.json) |
 | Dance: UK | 95455 | [95455-dance-uk.json](./95455-dance-uk.json) |
 | Dance: UK eXtra TraX | 62840 | [62840-dance-uk-extra-trax.json](./62840-dance-uk-extra-trax.json) |
+| Dance: UK XL | 62841 | [62841-dance-uk-xl.json](./62841-dance-uk-xl.json) |
 | Dance: UK XL Party | 62838 | [62838-dance-uk-xl-party.json](./62838-dance-uk-xl-party.json) |
 | Dance! Dance! Dance! | 132806 | [132806-dance-dance-dance.json](./132806-dance-dance-dance.json) |
 | Dance! Dance! Dance! | 339794 | [339794-dance-dance-dance.json](./339794-dance-dance-dance.json) |
@@ -16011,6 +16012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonward | 93801 | [93801-dragonward.json](./93801-dragonward.json) |
 | Dragonwing | 94572 | [94572-dragonwing.json](./94572-dragonwing.json) |
 | Dragonworld | 24778 | [24778-dragonworld.json](./24778-dragonworld.json) |
+| Dragoon | 62788 | [62788-dragoon.json](./62788-dragoon.json) |
 | Dragoon Armor for Adult | 67259 | [67259-dragoon-armor-for-adult.json](./67259-dragoon-armor-for-adult.json) |
 | Dragoon Drop | 182845 | [182845-dragoon-drop.json](./182845-dragoon-drop.json) |
 | Dragoon Might | 39555 | [39555-dragoon-might.json](./39555-dragoon-might.json) |
