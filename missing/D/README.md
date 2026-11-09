@@ -320,6 +320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daemonologie | 179677 | [179677-daemonologie.json](./179677-daemonologie.json) |
 | Daemonologie | 313586 | [313586-daemonologie.json](./313586-daemonologie.json) |
 | Daemons, Love & Carnage | 177216 | [177216-daemons-love-and-carnage.json](./177216-daemons-love-and-carnage.json) |
+| Daemonsgate | 2462 | [2462-daemonsgate.json](./2462-daemonsgate.json) |
 | Daemonstration | 179752 | [179752-daemonstration.json](./179752-daemonstration.json) |
 | Daemonum | 223147 | [223147-daemonum.json](./223147-daemonum.json) |
 | Daemonum | 224564 | [224564-daemonum.json](./224564-daemonum.json) |
@@ -2071,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Sun | 293661 | [293661-dark-sun.json](./293661-dark-sun.json) |
 | Dark Sun Pictures' Dark Sun - The Space Shooter | 114262 | [114262-dark-sun-pictures-dark-sun-the-space-shooter.json](./114262-dark-sun-pictures-dark-sun-the-space-shooter.json) |
 | Dark Sun: Shattered Lands | 2466 | [2466-dark-sun-shattered-lands.json](./2466-dark-sun-shattered-lands.json) |
+| Dark Sun: Wake of the Ravager | 2465 | [2465-dark-sun-wake-of-the-ravager.json](./2465-dark-sun-wake-of-the-ravager.json) |
 | Dark Survival | 152728 | [152728-dark-survival.json](./152728-dark-survival.json) |
 | Dark Survival | 313949 | [313949-dark-survival.json](./313949-dark-survival.json) |
 | Dark Sweeper | 225222 | [225222-dark-sweeper.json](./225222-dark-sweeper.json) |
@@ -7475,6 +7477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Descent of Man | 120120 | [120120-descent-of-man.json](./120120-descent-of-man.json) |
 | Descent of the Hunted | 274319 | [274319-descent-of-the-hunted.json](./274319-descent-of-the-hunted.json) |
 | Descent the Abyss | 303474 | [303474-descent-the-abyss.json](./303474-descent-the-abyss.json) |
+| Descent to Undermountain | 2491 | [2491-descent-to-undermountain.json](./2491-descent-to-undermountain.json) |
 | Descent Vector: Space Runner | 153431 | [153431-descent-vector-space-runner.json](./153431-descent-vector-space-runner.json) |
 | Descent X | 311474 | [311474-descent-x.json](./311474-descent-x.json) |
 | Descent: Freespace - Battle Pack | 371972 | [371972-descent-freespace-battle-pack.json](./371972-descent-freespace-battle-pack.json) |
