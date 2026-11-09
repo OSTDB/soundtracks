@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Big Game Hunter 2009 | 206695 | [206695-cabelas-big-game-hunter-2009.json](./206695-cabelas-big-game-hunter-2009.json) |
 | Cabela's Big Game Hunter 2010 | 4736 | [4736-cabelas-big-game-hunter-2010.json](./4736-cabelas-big-game-hunter-2010.json) |
 | Cabela's Big Game Hunter 2012 | 6649 | [6649-cabelas-big-game-hunter-2012.json](./6649-cabelas-big-game-hunter-2012.json) |
+| Cabela's Big Game Hunter 2012 (With Top Shot Elite) | 6650 | [6650-cabelas-big-game-hunter-2012-with-top-shot-elite.json](./6650-cabelas-big-game-hunter-2012-with-top-shot-elite.json) |
 | Cabela's Big Game Hunter 4 | 123687 | [123687-cabelas-big-game-hunter-4.json](./123687-cabelas-big-game-hunter-4.json) |
 | Cabela's Big Game Hunter 6 | 80409 | [80409-cabelas-big-game-hunter-6.json](./80409-cabelas-big-game-hunter-6.json) |
 | Cabela's Big Game Hunter II | 95493 | [95493-cabelas-big-game-hunter-ii.json](./95493-cabelas-big-game-hunter-ii.json) |
