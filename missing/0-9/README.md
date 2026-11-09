@@ -988,6 +988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 101 Okey Plus | 368033 | [368033-101-okey-plus.json](./368033-101-okey-plus.json) |
 | 101 Penguin Pets | 94818 | [94818-101-penguin-pets.json](./94818-101-penguin-pets.json) |
 | 101 Penguin Pets 3D | 84620 | [84620-101-penguin-pets-3d.json](./84620-101-penguin-pets-3d.json) |
+| 101 Pinball World | 65065 | [65065-101-pinball-world.json](./65065-101-pinball-world.json) |
 | 101 Pony Pets | 91863 | [91863-101-pony-pets.json](./91863-101-pony-pets.json) |
 | 101 Pony Pets 3D | 84671 | [84671-101-pony-pets-3d.json](./84671-101-pony-pets-3d.json) |
 | 101 Puppy Pets | 91862 | [91862-101-puppy-pets.json](./91862-101-puppy-pets.json) |
@@ -2513,6 +2514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Pets: PC Pup | 310362 | [310362-3d-pets-pc-pup.json](./310362-3d-pets-pc-pup.json) |
 | 3D Pets: Splat! The Cat | 310361 | [310361-3d-pets-splat-the-cat.json](./310361-3d-pets-splat-the-cat.json) |
 | 3D Pinball Express | 97104 | [97104-3d-pinball-express.json](./97104-3d-pinball-express.json) |
+| 3D Pinball Space Attack | 65061 | [65061-3d-pinball-space-attack.json](./65061-3d-pinball-space-attack.json) |
 | 3D Pinball: Space Cadet | 403520 | [403520-3d-pinball-space-cadet.json](./403520-3d-pinball-space-cadet.json) |
 | 3D Pinball: Space Cadet | 79247 | [79247-3d-pinball-space-cadet.json](./79247-3d-pinball-space-cadet.json) |
 | 3D Pinball: Space Cadet NDS | 307323 | [307323-3d-pinball-space-cadet-nds.json](./307323-3d-pinball-space-cadet-nds.json) |
