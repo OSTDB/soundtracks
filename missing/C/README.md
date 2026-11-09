@@ -3157,6 +3157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cars Race-O-Rama | 307494 | [307494-cars-race-o-rama.json](./307494-cars-race-o-rama.json) |
 | Cars Supercharged | 76453 | [76453-cars-supercharged.json](./76453-cars-supercharged.json) |
 | Cars Toon | 36249 | [36249-cars-toon.json](./36249-cars-toon.json) |
+| Cars Toon Mater's Tall Tales | 50687 | [50687-cars-toon-maters-tall-tales.json](./50687-cars-toon-maters-tall-tales.json) |
 | Cars Toon: Tokyo Mater | 230550 | [230550-cars-toon-tokyo-mater.json](./230550-cars-toon-tokyo-mater.json) |
 | Cars vs Train | 230939 | [230939-cars-vs-train.json](./230939-cars-vs-train.json) |
 | Cars vs Zombies | 157090 | [157090-cars-vs-zombies.json](./157090-cars-vs-zombies.json) |
@@ -7382,6 +7383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Balls | 254586 | [254586-chicken-balls.json](./254586-chicken-balls.json) |
 | Chicken Blaster | 175778 | [175778-chicken-blaster.json](./175778-chicken-blaster.json) |
 | Chicken Blaster | 408395 | [408395-chicken-blaster.json](./408395-chicken-blaster.json) |
+| Chicken Blaster | 50682 | [50682-chicken-blaster.json](./50682-chicken-blaster.json) |
 | Chicken Bomb | 137595 | [137595-chicken-bomb.json](./137595-chicken-bomb.json) |
 | Chicken Boy's Counterattack | 291488 | [291488-chicken-boys-counterattack.json](./291488-chicken-boys-counterattack.json) |
 | Chicken Brother | 253648 | [253648-chicken-brother.json](./253648-chicken-brother.json) |
@@ -17461,6 +17463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Maze | 93750 | [93750-crazy-maze.json](./93750-crazy-maze.json) |
 | Crazy Mazey | 59902 | [59902-crazy-mazey.json](./59902-crazy-mazey.json) |
 | Crazy Miner | 299841 | [299841-crazy-miner.json](./299841-crazy-miner.json) |
+| Crazy Mini Golf 2 | 50640 | [50640-crazy-mini-golf-2.json](./50640-crazy-mini-golf-2.json) |
 | Crazy Mini Golf Arcade | 123215 | [123215-crazy-mini-golf-arcade.json](./123215-crazy-mini-golf-arcade.json) |
 | Crazy Minigolf | 95510 | [95510-crazy-minigolf.json](./95510-crazy-minigolf.json) |
 | Crazy Minigolf 3D | 52323 | [52323-crazy-minigolf-3d.json](./52323-crazy-minigolf-3d.json) |
@@ -18506,6 +18509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross Pixels | 87934 | [87934-cross-pixels.json](./87934-cross-pixels.json) |
 | Cross Princess | 149499 | [149499-cross-princess.json](./149499-cross-princess.json) |
 | Cross Purposes | 109110 | [109110-cross-purposes.json](./109110-cross-purposes.json) |
+| Cross Racing Championship Extreme 2005 | 50212 | [50212-cross-racing-championship-extreme-2005.json](./50212-cross-racing-championship-extreme-2005.json) |
 | Cross Reunion | 237652 | [237652-cross-reunion.json](./237652-cross-reunion.json) |
 | Cross Review World | 178951 | [178951-cross-review-world.json](./178951-cross-review-world.json) |
 | Cross Roads: Grüne Welle | 78831 | [78831-cross-roads-grune-welle.json](./78831-cross-roads-grune-welle.json) |
@@ -18973,6 +18977,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruise Ship Manager | 207269 | [207269-cruise-ship-manager.json](./207269-cruise-ship-manager.json) |
 | Cruise Ship Simulator | 213676 | [213676-cruise-ship-simulator.json](./213676-cruise-ship-simulator.json) |
 | Cruise Ship Tycoon | 50394 | [50394-cruise-ship-tycoon.json](./50394-cruise-ship-tycoon.json) |
+| Cruise Ship Vacation Games | 50653 | [50653-cruise-ship-vacation-games.json](./50653-cruise-ship-vacation-games.json) |
 | Cruise Ships Manager | 218698 | [218698-cruise-ships-manager.json](./218698-cruise-ships-manager.json) |
 | Cruise Tycoon HD | 99137 | [99137-cruise-tycoon-hd.json](./99137-cruise-tycoon-hd.json) |
 | CruiSim | 328136 | [328136-cruisim.json](./328136-cruisim.json) |
