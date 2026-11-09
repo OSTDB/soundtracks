@@ -17486,6 +17486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spire of Mech Zero | 321389 | [321389-the-spire-of-mech-zero.json](./321389-the-spire-of-mech-zero.json) |
 | The Spirit | 172144 | [172144-the-spirit.json](./172144-the-spirit.json) |
 | The Spirit and the Mouse | 134474 | [134474-the-spirit-and-the-mouse.json](./134474-the-spirit-and-the-mouse.json) |
+| The Spirit Engine | 72250 | [72250-the-spirit-engine.json](./72250-the-spirit-engine.json) |
 | The Spirit Engine 2 | 54292 | [54292-the-spirit-engine-2.json](./54292-the-spirit-engine-2.json) |
 | The Spirit Engine DX | 341855 | [341855-the-spirit-engine-dx.json](./341855-the-spirit-engine-dx.json) |
 | The Spirit Guide | 325404 | [325404-the-spirit-guide.json](./325404-the-spirit-guide.json) |
@@ -18246,6 +18247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tomorrow Children: Phoenix Edition | 205261 | [205261-the-tomorrow-children-phoenix-edition.json](./205261-the-tomorrow-children-phoenix-edition.json) |
 | The Tomorrow Corporation Collection | 124784 | [124784-the-tomorrow-corporation-collection.json](./124784-the-tomorrow-corporation-collection.json) |
 | The Tomorrow War | 9852 | [9852-the-tomorrow-war.json](./9852-the-tomorrow-war.json) |
+| The Tomorrow War: Factor K | 72245 | [72245-the-tomorrow-war-factor-k.json](./72245-the-tomorrow-war-factor-k.json) |
 | The Tomorrow War: White Spike Invasion | 284375 | [284375-the-tomorrow-war-white-spike-invasion.json](./284375-the-tomorrow-war-white-spike-invasion.json) |
 | The Tone Rebellion | 73709 | [73709-the-tone-rebellion.json](./73709-the-tone-rebellion.json) |
 | The Too-Cute Girl Who Moved in Next Door | 413100 | [413100-the-too-cute-girl-who-moved-in-next-door.json](./413100-the-too-cute-girl-who-moved-in-next-door.json) |
@@ -21254,6 +21256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunder Heroes | 39932 | [39932-thunder-heroes.json](./39932-thunder-heroes.json) |
 | Thunder Hoop | 40213 | [40213-thunder-hoop.json](./40213-thunder-hoop.json) |
 | Thunder in Paradise | 214890 | [214890-thunder-in-paradise.json](./214890-thunder-in-paradise.json) |
+| Thunder in Paradise Interactive | 72244 | [72244-thunder-in-paradise-interactive.json](./72244-thunder-in-paradise-interactive.json) |
 | Thunder Jack's Log Runner | 252716 | [252716-thunder-jacks-log-runner.json](./252716-thunder-jacks-log-runner.json) |
 | Thunder Jaws | 12863 | [12863-thunder-jaws.json](./12863-thunder-jaws.json) |
 | Thunder Jaws | 309189 | [309189-thunder-jaws.json](./309189-thunder-jaws.json) |
@@ -23616,6 +23619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Out Sports: Baseball | 57936 | [57936-time-out-sports-baseball.json](./57936-time-out-sports-baseball.json) |
 | Time Out Sports: Basketball | 78859 | [78859-time-out-sports-basketball.json](./78859-time-out-sports-basketball.json) |
 | Time Over | 368658 | [368658-time-over.json](./368658-time-over.json) |
+| Time Paradox | 72393 | [72393-time-paradox.json](./72393-time-paradox.json) |
 | Time Parallax: The Burial Vault | 262291 | [262291-time-parallax-the-burial-vault.json](./262291-time-parallax-the-burial-vault.json) |
 | Time Patrol | 165171 | [165171-time-patrol.json](./165171-time-patrol.json) |
 | Time Pilot | 10273 | [10273-time-pilot.json](./10273-time-pilot.json) |
