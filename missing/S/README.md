@@ -15328,6 +15328,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smurf | 200343 | [200343-smurf.json](./200343-smurf.json) |
 | Smurf | 200344 | [200344-smurf.json](./200344-smurf.json) |
 | Smurf Life | 261326 | [261326-smurf-life.json](./261326-smurf-life.json) |
+| Smurf Racer | 8086 | [8086-smurf-racer.json](./8086-smurf-racer.json) |
+| Smurf: Paint 'n' Play Workshop | 8082 | [8082-smurf-paint-n-play-workshop.json](./8082-smurf-paint-n-play-workshop.json) |
 | Smurf: Rescue in Gargamel's Castle | 8080 | [8080-smurf-rescue-in-gargamels-castle.json](./8080-smurf-rescue-in-gargamels-castle.json) |
 | Smurfen | 366256 | [366256-smurfen.json](./366256-smurfen.json) |
 | Smurfette's Magic Match | 108977 | [108977-smurfettes-magic-match.json](./108977-smurfettes-magic-match.json) |
@@ -15336,6 +15338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smurfs Kart | 206680 | [206680-smurfs-kart.json](./206680-smurfs-kart.json) |
 | Smurfs Kart: Day 1 Edition | 210462 | [210462-smurfs-kart-day-1-edition.json](./210462-smurfs-kart-day-1-edition.json) |
 | Smurfs Kart: Turbo Edition | 219444 | [219444-smurfs-kart-turbo-edition.json](./219444-smurfs-kart-turbo-edition.json) |
+| Smurfs Save the Day | 8081 | [8081-smurfs-save-the-day.json](./8081-smurfs-save-the-day.json) |
 | Smurfs Save the Day: Greedy Smurf | 65988 | [65988-smurfs-save-the-day-greedy-smurf.json](./65988-smurfs-save-the-day-greedy-smurf.json) |
 | Smurfs Save the Day: Handy Smurf | 65990 | [65990-smurfs-save-the-day-handy-smurf.json](./65990-smurfs-save-the-day-handy-smurf.json) |
 | Smurfs Save the Day: Harmony Smurf | 65989 | [65989-smurfs-save-the-day-harmony-smurf.json](./65989-smurfs-save-the-day-harmony-smurf.json) |
