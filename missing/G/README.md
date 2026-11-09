@@ -11475,6 +11475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns of Succubus 2 | 271031 | [271031-guns-of-succubus-2.json](./271031-guns-of-succubus-2.json) |
 | Guns of Survivor | 193829 | [193829-guns-of-survivor.json](./193829-guns-of-survivor.json) |
 | Guns on Wheels | 343618 | [343618-guns-on-wheels.json](./343618-guns-on-wheels.json) |
+| Guns Royale | 77522 | [77522-guns-royale.json](./77522-guns-royale.json) |
 | Guns Undarkness | 211618 | [211618-guns-undarkness.json](./211618-guns-undarkness.json) |
 | Guns Up! | 11200 | [11200-guns-up.json](./11200-guns-up.json) |
 | Guns Up! Mobile | 175705 | [175705-guns-up-mobile.json](./175705-guns-up-mobile.json) |
