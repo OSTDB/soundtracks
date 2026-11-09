@@ -5149,6 +5149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DecaPolice | 236661 | [236661-decapolice.json](./236661-decapolice.json) |
 | Decarathon | 180515 | [180515-decarathon.json](./180515-decarathon.json) |
 | Decarnation | 170888 | [170888-decarnation.json](./170888-decarnation.json) |
+| DecAthlete | 45387 | [45387-decathlete.json](./45387-decathlete.json) |
 | Decathlon | 242097 | [242097-decathlon.json](./242097-decathlon.json) |
 | Decathlon 2012 | 85078 | [85078-decathlon-2012.json](./85078-decathlon-2012.json) |
 | Decathlon DX | 315324 | [315324-decathlon-dx.json](./315324-decathlon-dx.json) |
