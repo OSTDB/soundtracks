@@ -984,6 +984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Taisen | 132067 | [132067-sakura-taisen.json](./132067-sakura-taisen.json) |
 | Sakura Taisen | 71399 | [71399-sakura-taisen.json](./71399-sakura-taisen.json) |
 | Sakura Taisen 1 & 2 | 62140 | [62140-sakura-taisen-1-and-2.json](./62140-sakura-taisen-1-and-2.json) |
+| Sakura Taisen 2: Kimi, Shinitamou Koto Nakare | 50214 | [50214-sakura-taisen-2-kimi-shinitamou-koto-nakare.json](./50214-sakura-taisen-2-kimi-shinitamou-koto-nakare.json) |
 | Sakura Taisen 3: Paris ha Moeteiru ka? | 80143 | [80143-sakura-taisen-3-paris-ha-moeteiru-ka.json](./80143-sakura-taisen-3-paris-ha-moeteiru-ka.json) |
 | Sakura Taisen Complete Box | 62869 | [62869-sakura-taisen-complete-box.json](./62869-sakura-taisen-complete-box.json) |
 | Sakura Taisen GB: Geki Hanagumi Nyuutai! | 79482 | [79482-sakura-taisen-gb-geki-hanagumi-nyuutai.json](./79482-sakura-taisen-gb-geki-hanagumi-nyuutai.json) |
@@ -5587,6 +5588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Basara 2 | 5150 | [5150-sengoku-basara-2.json](./5150-sengoku-basara-2.json) |
 | Sengoku Basara 2 Heroes | 72578 | [72578-sengoku-basara-2-heroes.json](./72578-sengoku-basara-2-heroes.json) |
 | Sengoku Basara 2: Heroes - Double Pack | 268378 | [268378-sengoku-basara-2-heroes-double-pack.json](./268378-sengoku-basara-2-heroes-double-pack.json) |
+| Sengoku Basara 3 Utage | 50654 | [50654-sengoku-basara-3-utage.json](./50654-sengoku-basara-3-utage.json) |
 | Sengoku Basara 4 | 63628 | [63628-sengoku-basara-4.json](./63628-sengoku-basara-4.json) |
 | Sengoku Basara 4 Sumeragi | 42976 | [42976-sengoku-basara-4-sumeragi.json](./42976-sengoku-basara-4-sumeragi.json) |
 | Sengoku Basara 4: Sumeragi - Anniversary Edition | 136704 | [136704-sengoku-basara-4-sumeragi-anniversary-edition.json](./136704-sengoku-basara-4-sumeragi-anniversary-edition.json) |
@@ -8546,6 +8548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shimaigusa | 393339 | [393339-shimaigusa.json](./393339-shimaigusa.json) |
 | Shimaise | 109183 | [109183-shimaise.json](./109183-shimaise.json) |
 | Shimajiro no Eigo Activity Ehon: ABC Park de Asobou! | 327617 | [327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json](./327617-shimajiro-no-eigo-activity-ehon-abc-park-de-asobou.json) |
+| Shimano Xtreme Fishing | 50675 | [50675-shimano-xtreme-fishing.json](./50675-shimano-xtreme-fishing.json) |
 | Shimapanzer Strike! | 298075 | [298075-shimapanzer-strike.json](./298075-shimapanzer-strike.json) |
 | Shimazu | 252462 | [252462-shimazu.json](./252462-shimazu.json) |
 | Shime Houmeichou | 415071 | [415071-shime-houmeichou.json](./415071-shime-houmeichou.json) |
@@ -9206,6 +9209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shivering Hearts | 135786 | [135786-shivering-hearts.json](./135786-shivering-hearts.json) |
 | Shivering Stone | 274484 | [274484-shivering-stone.json](./274484-shivering-stone.json) |
 | Shivers | 12477 | [12477-shivers.json](./12477-shivers.json) |
+| Shivers II: Harvest of Souls | 50207 | [50207-shivers-ii-harvest-of-souls.json](./50207-shivers-ii-harvest-of-souls.json) |
 | Shiya | 178600 | [178600-shiya.json](./178600-shiya.json) |
 | Shiyang Teaches You to Learn Disaster Prevention | 90462 | [90462-shiyang-teaches-you-to-learn-disaster-prevention.json](./90462-shiyang-teaches-you-to-learn-disaster-prevention.json) |
 | Shìyuán zhī Zhǔ | 103962 | [103962-shiyuan-zhi-zhu.json](./103962-shiyuan-zhi-zhu.json) |
@@ -11612,6 +11616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SimPocalypse | 145846 | [145846-simpocalypse.json](./145846-simpocalypse.json) |
 | SimPoly Drive | 243522 | [243522-simpoly-drive.json](./243522-simpoly-drive.json) |
 | Simpsons Treehouse of horror | 102715 | [102715-simpsons-treehouse-of-horror.json](./102715-simpsons-treehouse-of-horror.json) |
+| Simraceway | 50203 | [50203-simraceway.json](./50203-simraceway.json) |
 | SimRail: The Railway Simulator | 164278 | [164278-simrail-the-railway-simulator.json](./164278-simrail-the-railway-simulator.json) |
 | SimRail: The Railway Simulator - Cargo Pack | 295114 | [295114-simrail-the-railway-simulator-cargo-pack.json](./295114-simrail-the-railway-simulator-cargo-pack.json) |
 | SimRefinery | 72604 | [72604-simrefinery.json](./72604-simrefinery.json) |
@@ -13737,6 +13742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sled Mayhem | 197998 | [197998-sled-mayhem.json](./197998-sled-mayhem.json) |
 | Sled Racer | 200378 | [200378-sled-racer.json](./200378-sled-racer.json) |
 | Sled Riders | 301003 | [301003-sled-riders.json](./301003-sled-riders.json) |
+| Sled Shred featuring the Jamaican Bobsled Team | 50665 | [50665-sled-shred-featuring-the-jamaican-bobsled-team.json](./50665-sled-shred-featuring-the-jamaican-bobsled-team.json) |
 | Sled Storm | 81484 | [81484-sled-storm.json](./81484-sled-storm.json) |
 | Sled Storm | 8264 | [8264-sled-storm.json](./8264-sled-storm.json) |
 | Sled Together | 372940 | [372940-sled-together.json](./372940-sled-together.json) |
@@ -16628,6 +16634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soda Drinker Pro | 20037 | [20037-soda-drinker-pro.json](./20037-soda-drinker-pro.json) |
 | Soda Dungeon | 27685 | [27685-soda-dungeon.json](./27685-soda-dungeon.json) |
 | Soda Hunt | 221793 | [221793-soda-hunt.json](./221793-soda-hunt.json) |
+| SODA Off-Road Racing | 50211 | [50211-soda-off-road-racing.json](./50211-soda-off-road-racing.json) |
 | Soda Pipes | 208900 | [208900-soda-pipes.json](./208900-soda-pipes.json) |
 | Soda Sabotage | 200469 | [200469-soda-sabotage.json](./200469-soda-sabotage.json) |
 | Soda Scuffle | 290117 | [290117-soda-scuffle.json](./290117-soda-scuffle.json) |
@@ -29345,6 +29352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Streets of Handbags | 317835 | [317835-streets-of-handbags.json](./317835-streets-of-handbags.json) |
 | Streets of Kamurocho | 140046 | [140046-streets-of-kamurocho.json](./140046-streets-of-kamurocho.json) |
 | Streets of London | 61168 | [61168-streets-of-london.json](./61168-streets-of-london.json) |
+| Streets of Moscow | 50202 | [50202-streets-of-moscow.json](./50202-streets-of-moscow.json) |
 | Streets of Neotokio | 127467 | [127467-streets-of-neotokio.json](./127467-streets-of-neotokio.json) |
 | Streets of Rage 2: Puyo Wars | 315122 | [315122-streets-of-rage-2-puyo-wars.json](./315122-streets-of-rage-2-puyo-wars.json) |
 | Streets of Rage 2: Robotnik Wars | 333891 | [333891-streets-of-rage-2-robotnik-wars.json](./333891-streets-of-rage-2-robotnik-wars.json) |
