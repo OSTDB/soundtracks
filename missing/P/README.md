@@ -1193,6 +1193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PandaMonium: Corporate Carnage | 186131 | [186131-pandamonium-corporate-carnage.json](./186131-pandamonium-corporate-carnage.json) |
 | Pandanda | 189377 | [189377-pandanda.json](./189377-pandanda.json) |
 | Pandara | 123929 | [123929-pandara.json](./123929-pandara.json) |
+| Pandarama: The Lost Toys | 30326 | [30326-pandarama-the-lost-toys.json](./30326-pandarama-the-lost-toys.json) |
 | Pandarunium | 291343 | [291343-pandarunium.json](./291343-pandarunium.json) |
 | Pandas Die | 110458 | [110458-pandas-die.json](./110458-pandas-die.json) |
 | Pandas vs Ninjas | 92019 | [92019-pandas-vs-ninjas.json](./92019-pandas-vs-ninjas.json) |
@@ -10448,6 +10449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plenty Karts | 258797 | [258797-plenty-karts.json](./258797-plenty-karts.json) |
 | Plenty of Fish in the Sea | 337492 | [337492-plenty-of-fish-in-the-sea.json](./337492-plenty-of-fish-in-the-sea.json) |
 | Plenty of Fishies | 84720 | [84720-plenty-of-fishies.json](./84720-plenty-of-fishies.json) |
+| Plenty: Skyhearth | 31032 | [31032-plenty-skyhearth.json](./31032-plenty-skyhearth.json) |
 | Plentypede | 192828 | [192828-plentypede.json](./192828-plentypede.json) |
 | Pleonexia | 246119 | [246119-pleonexia.json](./246119-pleonexia.json) |
 | Plerbtonia | 320174 | [320174-plerbtonia.json](./320174-plerbtonia.json) |
@@ -18980,6 +18982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Cross | 398143 | [398143-puzzle-cross.json](./398143-puzzle-cross.json) |
 | Puzzle Crossing | 358029 | [358029-puzzle-crossing.json](./358029-puzzle-crossing.json) |
 | Puzzle Cube | 275146 | [275146-puzzle-cube.json](./275146-puzzle-cube.json) |
+| Puzzle Cube | 31019 | [31019-puzzle-cube.json](./31019-puzzle-cube.json) |
 | Puzzle Cube: Magic Urbik Game | 207876 | [207876-puzzle-cube-magic-urbik-game.json](./207876-puzzle-cube-magic-urbik-game.json) |
 | Puzzle da Moro! | 259828 | [259828-puzzle-da-moro.json](./259828-puzzle-da-moro.json) |
 | Puzzle Dating | 55725 | [55725-puzzle-dating.json](./55725-puzzle-dating.json) |
