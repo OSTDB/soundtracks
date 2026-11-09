@@ -9110,6 +9110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo-Ninja Climb | 134354 | [134354-robo-ninja-climb.json](./134354-robo-ninja-climb.json) |
 | Robo-orders | 55305 | [55305-robo-orders.json](./55305-robo-orders.json) |
 | Robo-Pit 2 | 44975 | [44975-robo-pit-2.json](./44975-robo-pit-2.json) |
+| Robo-Squash | 40833 | [40833-robo-squash.json](./40833-robo-squash.json) |
 | Robo-Summit | 180683 | [180683-robo-summit.json](./180683-robo-summit.json) |
 | Robo-tea: 1cup! | 178518 | [178518-robo-tea-1cup.json](./178518-robo-tea-1cup.json) |
 | Robo-War | 85824 | [85824-robo-war.json](./85824-robo-war.json) |
@@ -10192,6 +10193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky Rodent | 42648 | [42648-rocky-rodent.json](./42648-rocky-rodent.json) |
 | Rocky Ruins | 179291 | [179291-rocky-ruins.json](./179291-rocky-ruins.json) |
 | Rocky Stairs | 230726 | [230726-rocky-stairs.json](./230726-rocky-stairs.json) |
+| Rocky Super Action Boxing | 40885 | [40885-rocky-super-action-boxing.json](./40885-rocky-super-action-boxing.json) |
 | Rocky Towers | 208147 | [208147-rocky-towers.json](./208147-rocky-towers.json) |
 | Rocky Towers: Puzzle Defense | 237378 | [237378-rocky-towers-puzzle-defense.json](./237378-rocky-towers-puzzle-defense.json) |
 | Rocky Wings | 265184 | [265184-rocky-wings.json](./265184-rocky-wings.json) |
