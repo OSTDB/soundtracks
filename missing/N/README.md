@@ -5255,6 +5255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja from Hell vs. Reptiloids | 105346 | [105346-ninja-from-hell-vs-reptiloids.json](./105346-ninja-from-hell-vs-reptiloids.json) |
 | Ninja Fun | 213897 | [213897-ninja-fun.json](./213897-ninja-fun.json) |
 | Ninja Fuzzgrawth | 228384 | [228384-ninja-fuzzgrawth.json](./228384-ninja-fuzzgrawth.json) |
+| Ninja Ga-Lee | 26729 | [26729-ninja-ga-lee.json](./26729-ninja-ga-lee.json) |
 | Ninja Gaiden | 136620 | [136620-ninja-gaiden.json](./136620-ninja-gaiden.json) |
 | Ninja Gaiden | 175905 | [175905-ninja-gaiden.json](./175905-ninja-gaiden.json) |
 | Ninja Gaiden | 19507 | [19507-ninja-gaiden.json](./19507-ninja-gaiden.json) |
