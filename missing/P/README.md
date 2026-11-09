@@ -5299,6 +5299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petz: Hamsterz 2 | 73041 | [73041-petz-hamsterz-2.json](./73041-petz-hamsterz-2.json) |
 | Petz: Hamsterz Life 2 | 49474 | [49474-petz-hamsterz-life-2.json](./49474-petz-hamsterz-life-2.json) |
 | Petz: Hamsterz Superstarz | 67732 | [67732-petz-hamsterz-superstarz.json](./67732-petz-hamsterz-superstarz.json) |
+| Petz: Horse Club | 50661 | [50661-petz-horse-club.json](./50661-petz-horse-club.json) |
 | Petz: My Puppy Family | 47895 | [47895-petz-my-puppy-family.json](./47895-petz-my-puppy-family.json) |
 | Petz: Nursery | 44062 | [44062-petz-nursery.json](./44062-petz-nursery.json) |
 | Petz: Saddle Club | 66407 | [66407-petz-saddle-club.json](./66407-petz-saddle-club.json) |
@@ -8005,6 +8006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates: Constructible Strategy Game | 67748 | [67748-pirates-constructible-strategy-game.json](./67748-pirates-constructible-strategy-game.json) |
 | Pirates: Duels on the High Seas | 21274 | [21274-pirates-duels-on-the-high-seas.json](./21274-pirates-duels-on-the-high-seas.json) |
 | Pirates: Golden tits - Chapter 1 | 212956 | [212956-pirates-golden-tits-chapter-1.json](./212956-pirates-golden-tits-chapter-1.json) |
+| Pirates: Hunt for Blackbeard's Booty | 50683 | [50683-pirates-hunt-for-blackbeards-booty.json](./50683-pirates-hunt-for-blackbeards-booty.json) |
 | Pirates: Legend of the Black Buccaneer | 11286 | [11286-pirates-legend-of-the-black-buccaneer.json](./11286-pirates-legend-of-the-black-buccaneer.json) |
 | Pirates: Mystery of the Skeletons Island | 133425 | [133425-pirates-mystery-of-the-skeletons-island.json](./133425-pirates-mystery-of-the-skeletons-island.json) |
 | Pirates: Rogue's Fortune | 298072 | [298072-pirates-rogues-fortune.json](./298072-pirates-rogues-fortune.json) |
@@ -9069,6 +9071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PixGirls | 192673 | [192673-pixgirls.json](./192673-pixgirls.json) |
 | Pixgun | 348234 | [348234-pixgun.json](./348234-pixgun.json) |
 | PixHunter | 131227 | [131227-pixhunter.json](./131227-pixhunter.json) |
+| Pixi | 50204 | [50204-pixi.json](./50204-pixi.json) |
 | Pixi Poxi Autorunner Lab | 268274 | [268274-pixi-poxi-autorunner-lab.json](./268274-pixi-poxi-autorunner-lab.json) |
 | Pixicharm Collection 1 | 320377 | [320377-pixicharm-collection-1.json](./320377-pixicharm-collection-1.json) |
 | Pixicharm Collection 2 | 334080 | [334080-pixicharm-collection-2.json](./334080-pixicharm-collection-2.json) |
