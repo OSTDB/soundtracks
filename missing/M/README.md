@@ -6130,7 +6130,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -14529,6 +14528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mix Hentai Girls | 165830 | [165830-mix-hentai-girls.json](./165830-mix-hentai-girls.json) |
 | Mix Ore | 125546 | [125546-mix-ore.json](./125546-mix-ore.json) |
 | Mix Superstar | 262371 | [262371-mix-superstar.json](./262371-mix-superstar.json) |
+| Mix Superstar | 65085 | [65085-mix-superstar.json](./65085-mix-superstar.json) |
 | Mix the Forgotten | 247872 | [247872-mix-the-forgotten.json](./247872-mix-the-forgotten.json) |
 | Mix TV Presents: Eminem | 176686 | [176686-mix-tv-presents-eminem.json](./176686-mix-tv-presents-eminem.json) |
 | Mix Universe | 341015 | [341015-mix-universe.json](./341015-mix-universe.json) |
@@ -20312,6 +20312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music: Music Creation for the PlayStation | 131289 | [131289-music-music-creation-for-the-playstation.json](./131289-music-music-creation-for-the-playstation.json) |
 | Music=Operator | 82635 | [82635-music-operator.json](./82635-music-operator.json) |
 | Music95 | 149512 | [149512-music95.json](./149512-music95.json) |
+| Musical Advent Calendar | 65067 | [65067-musical-advent-calendar.json](./65067-musical-advent-calendar.json) |
 | Musical Aim Trainer | 130612 | [130612-musical-aim-trainer.json](./130612-musical-aim-trainer.json) |
 | Musical Balls | 149525 | [149525-musical-balls.json](./149525-musical-balls.json) |
 | Musical Chairs | 214009 | [214009-musical-chairs.json](./214009-musical-chairs.json) |
@@ -22292,6 +22293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious School | 212812 | [212812-mysterious-school.json](./212812-mysterious-school.json) |
 | Mysterious Science | 90520 | [90520-mysterious-science.json](./90520-mysterious-science.json) |
 | Mysterious Song | 170352 | [170352-mysterious-song.json](./170352-mysterious-song.json) |
+| Mysterious Song | 64611 | [64611-mysterious-song.json](./64611-mysterious-song.json) |
 | Mysterious Space | 35286 | [35286-mysterious-space.json](./35286-mysterious-space.json) |
 | Mysterious Stars 3D: A Fairy Tale | 85609 | [85609-mysterious-stars-3d-a-fairy-tale.json](./85609-mysterious-stars-3d-a-fairy-tale.json) |
 | Mysterious Stars: A Fairy Tale | 61456 | [61456-mysterious-stars-a-fairy-tale.json](./61456-mysterious-stars-a-fairy-tale.json) |
