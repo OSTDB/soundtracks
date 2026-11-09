@@ -7365,6 +7365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | London Racer: World Challenge | 15437 | [15437-london-racer-world-challenge.json](./15437-london-racer-world-challenge.json) |
 | London Ripper | 195581 | [195581-london-ripper.json](./195581-london-ripper.json) |
 | London Rush | 234602 | [234602-london-rush.json](./234602-london-rush.json) |
+| London Seirei Tantei-dan | 62874 | [62874-london-seirei-tantei-dan.json](./62874-london-seirei-tantei-dan.json) |
 | London Taxi Rush Hour | 21505 | [21505-london-taxi-rush-hour.json](./21505-london-taxi-rush-hour.json) |
 | London Taxi: Rushour | 4976 | [4976-london-taxi-rushour.json](./4976-london-taxi-rushour.json) |
 | London to Cardiff | 421580 | [421580-london-to-cardiff.json](./421580-london-to-cardiff.json) |
