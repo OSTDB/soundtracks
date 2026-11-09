@@ -2560,6 +2560,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Targ | 24828 | [24828-targ.json](./24828-targ.json) |
 | Target | 190705 | [190705-target.json](./190705-target.json) |
 | Target | 250424 | [250424-target.json](./250424-target.json) |
+| Target | 68146 | [68146-target.json](./68146-target.json) |
+| Target | 68150 | [68150-target.json](./68150-target.json) |
 | Target | 88186 | [88186-target.json](./88186-target.json) |
 | Target | 95490 | [95490-target.json](./95490-target.json) |
 | Target Acquired | 74808 | [74808-target-acquired.json](./74808-target-acquired.json) |
@@ -14961,6 +14963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Oregon Trail Deluxe | 83359 | [83359-the-oregon-trail-deluxe.json](./83359-the-oregon-trail-deluxe.json) |
 | The Oregon Trail: 3rd Edition | 73240 | [73240-the-oregon-trail-3rd-edition.json](./73240-the-oregon-trail-3rd-edition.json) |
 | The Oregon Trail: 40th Anniversary Edition | 202693 | [202693-the-oregon-trail-40th-anniversary-edition.json](./202693-the-oregon-trail-40th-anniversary-edition.json) |
+| The Oregon Trail: 4th Edition | 68054 | [68054-the-oregon-trail-4th-edition.json](./68054-the-oregon-trail-4th-edition.json) |
 | The Oregon Trail: 5th Edition | 68343 | [68343-the-oregon-trail-5th-edition.json](./68343-the-oregon-trail-5th-edition.json) |
 | The Oregon Trail: American Settler | 63611 | [63611-the-oregon-trail-american-settler.json](./63611-the-oregon-trail-american-settler.json) |
 | The Oregon Trail: Boom Town | 247177 | [247177-the-oregon-trail-boom-town.json](./247177-the-oregon-trail-boom-town.json) |
@@ -19485,6 +19488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wild Eight | 17479 | [17479-the-wild-eight.json](./17479-the-wild-eight.json) |
 | The Wild Eternal | 20991 | [20991-the-wild-eternal.json](./20991-the-wild-eternal.json) |
 | The Wild Life - The Game | 106874 | [106874-the-wild-life-the-game.json](./106874-the-wild-life-the-game.json) |
+| The Wild Rings | 67730 | [67730-the-wild-rings.json](./67730-the-wild-rings.json) |
 | The Wild Science Arcade | 72038 | [72038-the-wild-science-arcade.json](./72038-the-wild-science-arcade.json) |
 | The Wild Thornberrys Movie | 148631 | [148631-the-wild-thornberrys-movie.json](./148631-the-wild-thornberrys-movie.json) |
 | The Wild Thornberrys Movie | 49372 | [49372-the-wild-thornberrys-movie.json](./49372-the-wild-thornberrys-movie.json) |
@@ -33993,6 +33997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twice Dead | 349082 | [349082-twice-dead.json](./349082-twice-dead.json) |
 | Twice Go! Go! Fightin' | 115763 | [115763-twice-go-go-fightin.json](./115763-twice-go-go-fightin.json) |
 | Twice Reborn: A Vampire Visual Novel | 121888 | [121888-twice-reborn-a-vampire-visual-novel.json](./121888-twice-reborn-a-vampire-visual-novel.json) |
+| Twickles | 68162 | [68162-twickles.json](./68162-twickles.json) |
 | Twiddlefinger | 307551 | [307551-twiddlefinger.json](./307551-twiddlefinger.json) |
 | Twig & Flipper | 152453 | [152453-twig-and-flipper.json](./152453-twig-and-flipper.json) |
 | Twig Quest: Little Adventure | 255430 | [255430-twig-quest-little-adventure.json](./255430-twig-quest-little-adventure.json) |
