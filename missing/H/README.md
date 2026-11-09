@@ -1507,6 +1507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hangzo | 141238 | [141238-hangzo.json](./141238-hangzo.json) |
 | Hani | 144053 | [144053-hani.json](./144053-hani.json) |
 | Hanii in the Sky | 37685 | [37685-hanii-in-the-sky.json](./37685-hanii-in-the-sky.json) |
+| Hanii on the Road | 42068 | [42068-hanii-on-the-road.json](./42068-hanii-on-the-road.json) |
 | Hanjuku Hero | 78948 | [78948-hanjuku-hero.json](./78948-hanjuku-hero.json) |
 | Hanjuku Hero 4: 7-nin no Hanjuku Hero | 67365 | [67365-hanjuku-hero-4-7-nin-no-hanjuku-hero.json](./67365-hanjuku-hero-4-7-nin-no-hanjuku-hero.json) |
 | Hanjuku Hero Tai 3D | 67366 | [67366-hanjuku-hero-tai-3d.json](./67366-hanjuku-hero-tai-3d.json) |
