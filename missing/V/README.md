@@ -1703,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertigo | 248174 | [248174-vertigo.json](./248174-vertigo.json) |
 | Vertigo | 26620 | [26620-vertigo.json](./26620-vertigo.json) |
 | Vertigo | 42850 | [42850-vertigo.json](./42850-vertigo.json) |
+| Vertigo | 68123 | [68123-vertigo.json](./68123-vertigo.json) |
 | Vertigo | 80739 | [80739-vertigo.json](./80739-vertigo.json) |
 | Vertigo 2 | 120529 | [120529-vertigo-2.json](./120529-vertigo-2.json) |
 | Vertigo 2: Into the Aether | 325823 | [325823-vertigo-2-into-the-aether.json](./325823-vertigo-2-into-the-aether.json) |
