@@ -10445,6 +10445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plebs | 261766 | [261766-plebs.json](./261766-plebs.json) |
 | Plebs & Pillagers | 266590 | [266590-plebs-and-pillagers.json](./266590-plebs-and-pillagers.json) |
 | Plecos Keep | 155911 | [155911-plecos-keep.json](./155911-plecos-keep.json) |
+| Pleiades | 24467 | [24467-pleiades.json](./24467-pleiades.json) |
 | Pleiades | 281187 | [281187-pleiades.json](./281187-pleiades.json) |
 | Pleiades: A Subversion Saga Game | 150754 | [150754-pleiades-a-subversion-saga-game.json](./150754-pleiades-a-subversion-saga-game.json) |
 | Pleiads | 40009 | [40009-pleiads.json](./40009-pleiads.json) |
@@ -12262,6 +12263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polar Pool | 256078 | [256078-polar-pool.json](./256078-polar-pool.json) |
 | Polar Pwnd | 399457 | [399457-polar-pwnd.json](./399457-polar-pwnd.json) |
 | Polar Pwnd 2: Der Feather’s Revenge | 399458 | [399458-polar-pwnd-2-der-feather-s-revenge.json](./399458-polar-pwnd-2-der-feather-s-revenge.json) |
+| Polar Rescue | 24453 | [24453-polar-rescue.json](./24453-polar-rescue.json) |
 | Polar Roller | 326682 | [326682-polar-roller.json](./326682-polar-roller.json) |
 | Polar Rollout | 96256 | [96256-polar-rollout.json](./96256-polar-rollout.json) |
 | Polar Shift | 357825 | [357825-polar-shift.json](./357825-polar-shift.json) |
