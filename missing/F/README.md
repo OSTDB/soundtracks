@@ -13124,6 +13124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontiers.io: Expansion Pack 6 | 167314 | [167314-frontiers-io-expansion-pack-6.json](./167314-frontiers-io-expansion-pack-6.json) |
 | Frontiersman | 91360 | [91360-frontiersman.json](./91360-frontiersman.json) |
 | Frontland | 336864 | [336864-frontland.json](./336864-frontland.json) |
+| Frontline | 14771 | [14771-frontline.json](./14771-frontline.json) |
 | Frontline 1942 | 275732 | [275732-frontline-1942.json](./275732-frontline-1942.json) |
 | Frontline Berlin 1945 | 25003 | [25003-frontline-berlin-1945.json](./25003-frontline-berlin-1945.json) |
 | Frontline Commando | 88630 | [88630-frontline-commando.json](./88630-frontline-commando.json) |
