@@ -12377,6 +12377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skator Gator | 139871 | [139871-skator-gator.json](./139871-skator-gator.json) |
 | Skator Gator 3D | 217239 | [217239-skator-gator-3d.json](./217239-skator-gator-3d.json) |
 | Skattered Dream | 171305 | [171305-skattered-dream.json](./171305-skattered-dream.json) |
+| Skaut Kwatermaster | 63977 | [63977-skaut-kwatermaster.json](./63977-skaut-kwatermaster.json) |
 | Skautfold: Into the Fray | 107925 | [107925-skautfold-into-the-fray.json](./107925-skautfold-into-the-fray.json) |
 | Skautfold: Knight's End | 181058 | [181058-skautfold-knights-end.json](./181058-skautfold-knights-end.json) |
 | Skautfold: Moonless Knight | 152142 | [152142-skautfold-moonless-knight.json](./152142-skautfold-moonless-knight.json) |
@@ -14372,6 +14373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sliver-Sclicker | 102385 | [102385-sliver-sclicker.json](./102385-sliver-sclicker.json) |
 | Slizer Battle Management System | 71188 | [71188-slizer-battle-management-system.json](./71188-slizer-battle-management-system.json) |
 | Slizza | 116993 | [116993-slizza.json](./116993-slizza.json) |
+| Sloane and MacHale's Mysterious Stories | 63965 | [63965-sloane-and-machales-mysterious-stories.json](./63965-sloane-and-machales-mysterious-stories.json) |
 | Sloane and MacHale's Mysterious Stories 2 | 59405 | [59405-sloane-and-machales-mysterious-stories-2.json](./59405-sloane-and-machales-mysterious-stories-2.json) |
 | Sloany vs. Reggie | 290664 | [290664-sloany-vs-reggie.json](./290664-sloany-vs-reggie.json) |
 | Sloanysoft C64 SEUCK Games | 290667 | [290667-sloanysoft-c64-seuck-games.json](./290667-sloanysoft-c64-seuck-games.json) |
@@ -20985,6 +20987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space-Rat Xplode! | 54385 | [54385-space-rat-xplode.json](./54385-space-rat-xplode.json) |
 | Space: Breakthrough Gaming Arcade | 187672 | [187672-space-breakthrough-gaming-arcade.json](./187672-space-breakthrough-gaming-arcade.json) |
 | Space/Mech/Pilot | 139924 | [139924-space-mech-pilot.json](./139924-space-mech-pilot.json) |
+| SpaceAgency | 63979 | [63979-spaceagency.json](./63979-spaceagency.json) |
 | SpaceAttack | 68428 | [68428-spaceattack.json](./68428-spaceattack.json) |
 | Spaceball | 112177 | [112177-spaceball.json](./112177-spaceball.json) |
 | Spaceball | 145763 | [145763-spaceball.json](./145763-spaceball.json) |
@@ -31744,6 +31747,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Chinese 1-2 Advance | 63963 | [63963-super-chinese-1-2-advance.json](./63963-super-chinese-1-2-advance.json) |
 | Super Chinese Fighter | 42322 | [42322-super-chinese-fighter.json](./42322-super-chinese-fighter.json) |
 | Super Chinese Fighter EX | 50557 | [50557-super-chinese-fighter-ex.json](./50557-super-chinese-fighter-ex.json) |
+| Super Chinese Land 1.2.3' | 63969 | [63969-super-chinese-land-1-2-3.json](./63969-super-chinese-land-1-2-3.json) |
+| Super Chinese Land 3 | 63978 | [63978-super-chinese-land-3.json](./63978-super-chinese-land-3.json) |
 | Super Chinese World 3: Chou Jigen Daisakusen | 42304 | [42304-super-chinese-world-3-chou-jigen-daisakusen.json](./42304-super-chinese-world-3-chou-jigen-daisakusen.json) |
 | Super Chipflake Ü: Quest for the Uncooked Schnitzel | 338787 | [338787-super-chipflake-u-quest-for-the-uncooked-schnitzel.json](./338787-super-chipflake-u-quest-for-the-uncooked-schnitzel.json) |
 | Super Chopper | 154235 | [154235-super-chopper.json](./154235-super-chopper.json) |
