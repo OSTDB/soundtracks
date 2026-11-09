@@ -729,6 +729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Seiya: Brave Soldiers | 25202 | [25202-saint-seiya-brave-soldiers.json](./25202-saint-seiya-brave-soldiers.json) |
 | Saint Seiya: Brave Soldiers + Aries Shion | 99553 | [99553-saint-seiya-brave-soldiers-aries-shion.json](./99553-saint-seiya-brave-soldiers-aries-shion.json) |
 | Saint Seiya: Caos Chapter | 299330 | [299330-saint-seiya-caos-chapter.json](./299330-saint-seiya-caos-chapter.json) |
+| Saint Seiya: Cosmo Fantasy | 76260 | [76260-saint-seiya-cosmo-fantasy.json](./76260-saint-seiya-cosmo-fantasy.json) |
 | Saint Seiya: Exclamation | 299329 | [299329-saint-seiya-exclamation.json](./299329-saint-seiya-exclamation.json) |
 | Saint Seiya: Galaxy Spirits | 139406 | [139406-saint-seiya-galaxy-spirits.json](./139406-saint-seiya-galaxy-spirits.json) |
 | Saint Seiya: Legends of Justice | 209634 | [209634-saint-seiya-legends-of-justice.json](./209634-saint-seiya-legends-of-justice.json) |
@@ -6259,6 +6260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seven Knights: Time Wanderer - Splendid Union Costume Set | 237930 | [237930-seven-knights-time-wanderer-splendid-union-costume-set.json](./237930-seven-knights-time-wanderer-splendid-union-costume-set.json) |
 | Seven Little Spider Kittens | 276175 | [276175-seven-little-spider-kittens.json](./276175-seven-little-spider-kittens.json) |
 | Seven Lovers in the House | 371912 | [371912-seven-lovers-in-the-house.json](./371912-seven-lovers-in-the-house.json) |
+| Seven Minutes | 76070 | [76070-seven-minutes.json](./76070-seven-minutes.json) |
 | Seven Minutes in the Closet | 416543 | [416543-seven-minutes-in-the-closet.json](./416543-seven-minutes-in-the-closet.json) |
 | Seven Mortal Sins X-Tasy | 174741 | [174741-seven-mortal-sins-x-tasy.json](./174741-seven-mortal-sins-x-tasy.json) |
 | Seven Mysteries | 80506 | [80506-seven-mysteries.json](./80506-seven-mysteries.json) |
@@ -19489,6 +19491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundrace | 334238 | [334238-soundrace.json](./334238-soundrace.json) |
 | Sounds & Rhythms | 345219 | [345219-sounds-and-rhythms.json](./345219-sounds-and-rhythms.json) |
 | Sounds of Her Love 2 | 350901 | [350901-sounds-of-her-love-2.json](./350901-sounds-of-her-love-2.json) |
+| Sounds of Music | 76115 | [76115-sounds-of-music.json](./76115-sounds-of-music.json) |
 | Sounds of Shadows | 307533 | [307533-sounds-of-shadows.json](./307533-sounds-of-shadows.json) |
 | Sounds of Talent: Kpop Adventure | 116826 | [116826-sounds-of-talent-kpop-adventure.json](./116826-sounds-of-talent-kpop-adventure.json) |
 | Sounds of Verity | 89938 | [89938-sounds-of-verity.json](./89938-sounds-of-verity.json) |
@@ -33176,6 +33179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Metroid: Y-Faster 2 Furious | 282967 | [282967-super-metroid-y-faster-2-furious.json](./282967-super-metroid-y-faster-2-furious.json) |
 | Super Metroid: Z-Factor | 213755 | [213755-super-metroid-z-factor.json](./213755-super-metroid-z-factor.json) |
 | Super Miaoyin | 343816 | [343816-super-miaoyin.json](./343816-super-miaoyin.json) |
+| Super Mighty Power Man: The Champion of the Galaxy | 76258 | [76258-super-mighty-power-man-the-champion-of-the-galaxy.json](./76258-super-mighty-power-man-the-champion-of-the-galaxy.json) |
 | Super Mike: Classic Adventure Game | 199810 | [199810-super-mike-classic-adventure-game.json](./199810-super-mike-classic-adventure-game.json) |
 | Super Miller Land | 355998 | [355998-super-miller-land.json](./355998-super-miller-land.json) |
 | Super Minecraft 64 DS | 270381 | [270381-super-minecraft-64-ds.json](./270381-super-minecraft-64-ds.json) |
