@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N v2.0 | 77297 | [77297-n-v2-0.json](./77297-n-v2-0.json) |
 | N-Age | 197967 | [197967-n-age.json](./197967-n-age.json) |
 | N-Ball | 67084 | [67084-n-ball.json](./67084-n-ball.json) |
+| N-body | 68801 | [68801-n-body.json](./68801-n-body.json) |
 | N-Body | 142180 | [142180-n-body.json](./142180-n-body.json) |
 | N-Cube | 63243 | [63243-n-cube.json](./63243-n-cube.json) |
 | N-Gon | 219683 | [219683-n-gon.json](./219683-n-gon.json) |
@@ -3687,6 +3688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Next Island | 92473 | [92473-next-island.json](./92473-next-island.json) |
 | Next jump: Shmup Tactics | 28665 | [28665-next-jump-shmup-tactics.json](./28665-next-jump-shmup-tactics.json) |
 | Next King | 289258 | [289258-next-king.json](./289258-next-king.json) |
+| Next King: Koi no Sen-nen Oukoku | 68786 | [68786-next-king-koi-no-sen-nen-oukoku.json](./68786-next-king-koi-no-sen-nen-oukoku.json) |
 | Next Life | 51367 | [51367-next-life.json](./51367-next-life.json) |
 | Next Move | 262295 | [262295-next-move.json](./262295-next-move.json) |
 | Next Objective | 417744 | [417744-next-objective.json](./417744-next-objective.json) |
