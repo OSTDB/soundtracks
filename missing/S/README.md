@@ -1383,6 +1383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Journey | 165648 | [165648-samurai-journey.json](./165648-samurai-journey.json) |
 | Samurai Katana Rampage: Stickman Saga | 304272 | [304272-samurai-katana-rampage-stickman-saga.json](./304272-samurai-katana-rampage-stickman-saga.json) |
 | Samurai Kento | 257906 | [257906-samurai-kento.json](./257906-samurai-kento.json) |
+| Samurai Kid | 50005 | [50005-samurai-kid.json](./50005-samurai-kid.json) |
 | Samurai Kirby | 134459 | [134459-samurai-kirby.json](./134459-samurai-kirby.json) |
 | Samurai Lantern | 112238 | [112238-samurai-lantern.json](./112238-samurai-lantern.json) |
 | Samurai Legends | 214132 | [214132-samurai-legends.json](./214132-samurai-legends.json) |
@@ -35386,6 +35387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survival Island: The Forest 3D | 221364 | [221364-survival-island-the-forest-3d.json](./221364-survival-island-the-forest-3d.json) |
 | Survival Journals | 114889 | [114889-survival-journals.json](./114889-survival-journals.json) |
 | Survival Kids | 338087 | [338087-survival-kids.json](./338087-survival-kids.json) |
+| Survival Kids 2: Dasshutsu!! Futago Shima! | 50001 | [50001-survival-kids-2-dasshutsu-futago-shima.json](./50001-survival-kids-2-dasshutsu-futago-shima.json) |
 | Survival Kingdom | 31154 | [31154-survival-kingdom.json](./31154-survival-kingdom.json) |
 | Survival Machine | 152121 | [152121-survival-machine.json](./152121-survival-machine.json) |
 | Survival Maze | 99428 | [99428-survival-maze.json](./99428-survival-maze.json) |
