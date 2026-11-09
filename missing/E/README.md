@@ -2918,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elves Castle and Secrets | 233900 | [233900-elves-castle-and-secrets.json](./233900-elves-castle-and-secrets.json) |
 | Elves Christmas Hentai Puzzle | 217197 | [217197-elves-christmas-hentai-puzzle.json](./217197-elves-christmas-hentai-puzzle.json) |
 | Elves Fantasy: Hentai Puzzle | 208229 | [208229-elves-fantasy-hentai-puzzle.json](./208229-elves-fantasy-hentai-puzzle.json) |
+| Elves in Paradise: Elf Bowling 2 | 71693 | [71693-elves-in-paradise-elf-bowling-2.json](./71693-elves-in-paradise-elf-bowling-2.json) |
 | Elves Jigsaw Puzzle Collection | 229041 | [229041-elves-jigsaw-puzzle-collection.json](./229041-elves-jigsaw-puzzle-collection.json) |
 | Elves of Duty | 211922 | [211922-elves-of-duty.json](./211922-elves-of-duty.json) |
 | Elves Realm | 62943 | [62943-elves-realm.json](./62943-elves-realm.json) |
@@ -5063,6 +5064,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Erotic Tentacle Arts Assortment | 98494 | [98494-erotic-tentacle-arts-assortment.json](./98494-erotic-tentacle-arts-assortment.json) |
 | Erotic Winter Sports | 111411 | [111411-erotic-winter-sports.json](./111411-erotic-winter-sports.json) |
 | Erotica | 393841 | [393841-erotica.json](./393841-erotica.json) |
+| Erotica Island | 71816 | [71816-erotica-island.json](./71816-erotica-island.json) |
 | Erotika | 123176 | [123176-erotika.json](./123176-erotika.json) |
 | Erotika II | 123175 | [123175-erotika-ii.json](./123175-erotika-ii.json) |
 | Erotika III | 123174 | [123174-erotika-iii.json](./123174-erotika-iii.json) |
@@ -5313,6 +5315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape From Hard Drive | 193020 | [193020-escape-from-hard-drive.json](./193020-escape-from-hard-drive.json) |
 | Escape From Hata | 285466 | [285466-escape-from-hata.json](./285466-escape-from-hata.json) |
 | Escape from Heaven | 183808 | [183808-escape-from-heaven.json](./183808-escape-from-heaven.json) |
+| Escape From Hell | 71681 | [71681-escape-from-hell.json](./71681-escape-from-hell.json) |
 | Escape from Helltowers | 346891 | [346891-escape-from-helltowers.json](./346891-escape-from-helltowers.json) |
 | Escape from here | 68659 | [68659-escape-from-here.json](./68659-escape-from-here.json) |
 | Escape from here | 68666 | [68666-escape-from-here.json](./68666-escape-from-here.json) |
