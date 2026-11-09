@@ -2125,6 +2125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CAPTCHA.Exe | 406540 | [406540-captcha-exe.json](./406540-captcha-exe.json) |
 | CaptchaWare | 389659 | [389659-captchaware.json](./389659-captchaware.json) |
 | Captive | 196698 | [196698-captive.json](./196698-captive.json) |
+| Captive | 2454 | [2454-captive.json](./2454-captive.json) |
 | Captive | 343601 | [343601-captive.json](./343601-captive.json) |
 | Captive | 412946 | [412946-captive.json](./412946-captive.json) |
 | Captive | 91303 | [91303-captive.json](./91303-captive.json) |
@@ -5986,6 +5987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenge Me: Math Workout | 21639 | [21639-challenge-me-math-workout.json](./21639-challenge-me-math-workout.json) |
 | Challenge N°1 | 289296 | [289296-challenge-n-1.json](./289296-challenge-n-1.json) |
 | Challenge of the Dragon | 48294 | [48294-challenge-of-the-dragon.json](./48294-challenge-of-the-dragon.json) |
+| Challenge of the Five Realms | 2455 | [2455-challenge-of-the-five-realms.json](./2455-challenge-of-the-five-realms.json) |
 | Challenge of the Gobots | 13476 | [13476-challenge-of-the-gobots.json](./13476-challenge-of-the-gobots.json) |
 | Challenge of the Tentacle | 217872 | [217872-challenge-of-the-tentacle.json](./217872-challenge-of-the-tentacle.json) |
 | Challenge Park | 80989 | [80989-challenge-park.json](./80989-challenge-park.json) |
@@ -11634,6 +11636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cobra Kai Collection | 309015 | [309015-cobra-kai-collection.json](./309015-cobra-kai-collection.json) |
 | Cobra Kai: Card Fighter | 143371 | [143371-cobra-kai-card-fighter.json](./143371-cobra-kai-card-fighter.json) |
 | Cobra Kai: The Karate Kid Saga Continues | 137300 | [137300-cobra-kai-the-karate-kid-saga-continues.json](./137300-cobra-kai-the-karate-kid-saga-continues.json) |
+| Cobra Mission | 2457 | [2457-cobra-mission.json](./2457-cobra-mission.json) |
 | Cobra Pinball | 13501 | [13501-cobra-pinball.json](./13501-cobra-pinball.json) |
 | Cobra Strike | 409395 | [409395-cobra-strike.json](./409395-cobra-strike.json) |
 | Cobra The Arcade | 303967 | [303967-cobra-the-arcade.json](./303967-cobra-the-arcade.json) |
@@ -13894,6 +13897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Title Bout | 296542 | [296542-computer-title-bout.json](./296542-computer-title-bout.json) |
 | Computer TV Game | 220552 | [220552-computer-tv-game.json](./220552-computer-tv-game.json) |
 | Computer Tycoon | 55888 | [55888-computer-tycoon.json](./55888-computer-tycoon.json) |
+| Computer Underground | 2458 | [2458-computer-underground.json](./2458-computer-underground.json) |
 | Computer Virus Simulator | 218133 | [218133-computer-virus-simulator.json](./218133-computer-virus-simulator.json) |
 | Computer War | 42162 | [42162-computer-war.json](./42162-computer-war.json) |
 | Computer Word Search | 83459 | [83459-computer-word-search.json](./83459-computer-word-search.json) |
@@ -15899,6 +15903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Soldier | 123166 | [123166-cosmic-soldier.json](./123166-cosmic-soldier.json) |
 | Cosmic Soldier | 7544 | [7544-cosmic-soldier.json](./7544-cosmic-soldier.json) |
 | Cosmic Soldier 2: Psychic War | 62622 | [62622-cosmic-soldier-2-psychic-war.json](./62622-cosmic-soldier-2-psychic-war.json) |
+| Cosmic Soldier: Psychic War | 2459 | [2459-cosmic-soldier-psychic-war.json](./2459-cosmic-soldier-psychic-war.json) |
 | Cosmic Spacehead | 12013 | [12013-cosmic-spacehead.json](./12013-cosmic-spacehead.json) |
 | Cosmic Spacehead | 374682 | [374682-cosmic-spacehead.json](./374682-cosmic-spacehead.json) |
 | Cosmic Star Lounge | 362412 | [362412-cosmic-star-lounge.json](./362412-cosmic-star-lounge.json) |
