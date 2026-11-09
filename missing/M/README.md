@@ -2829,6 +2829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malgosia | 395973 | [395973-malgosia.json](./395973-malgosia.json) |
 | Malhaar | 405288 | [405288-malhaar.json](./405288-malhaar.json) |
 | Malibu Beach Volleyball | 49045 | [49045-malibu-beach-volleyball.json](./49045-malibu-beach-volleyball.json) |
+| Malibu Bikini Volleyball | 40856 | [40856-malibu-bikini-volleyball.json](./40856-malibu-bikini-volleyball.json) |
 | Malice | 208608 | [208608-malice.json](./208608-malice.json) |
 | Malice | 246008 | [246008-malice.json](./246008-malice.json) |
 | Malice & Greed | 143568 | [143568-malice-and-greed.json](./143568-malice-and-greed.json) |
@@ -4510,6 +4511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marl de Jigsaw | 165610 | [165610-marl-de-jigsaw.json](./165610-marl-de-jigsaw.json) |
 | Marl Jong!! | 165594 | [165594-marl-jong.json](./165594-marl-jong.json) |
 | Marlboro Go! | 253027 | [253027-marlboro-go.json](./253027-marlboro-go.json) |
+| Marlboro Go! | 40855 | [40855-marlboro-go.json](./40855-marlboro-go.json) |
 | Marle: The Labyrinth of the Black Sea | 112937 | [112937-marle-the-labyrinth-of-the-black-sea.json](./112937-marle-the-labyrinth-of-the-black-sea.json) |
 | Marlene | 25634 | [25634-marlene.json](./25634-marlene.json) |
 | Marlene Betwixt | 56537 | [56537-marlene-betwixt.json](./56537-marlene-betwixt.json) |
@@ -9238,6 +9240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory Lost - Shift Edition | 351138 | [351138-memory-lost-shift-edition.json](./351138-memory-lost-shift-edition.json) |
 | Memory Lost-Pairs | 181017 | [181017-memory-lost-pairs.json](./181017-memory-lost-pairs.json) |
 | Memory Mania | 83098 | [83098-memory-mania.json](./83098-memory-mania.json) |
+| Memory Manor | 40887 | [40887-memory-manor.json](./40887-memory-manor.json) |
 | Memory Mastermind | 61068 | [61068-memory-mastermind.json](./61068-memory-mastermind.json) |
 | Memory Match | 230700 | [230700-memory-match.json](./230700-memory-match.json) |
 | Memory Match - An Educational Game from School Zone | 99343 | [99343-memory-match-an-educational-game-from-school-zone.json](./99343-memory-match-an-educational-game-from-school-zone.json) |
@@ -14524,6 +14527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mister Antonio | 322243 | [322243-mister-antonio.json](./322243-mister-antonio.json) |
 | Mister Bumblebee Racing Champion | 84607 | [84607-mister-bumblebee-racing-champion.json](./84607-mister-bumblebee-racing-champion.json) |
 | Mister Burnhouse | 118826 | [118826-mister-burnhouse.json](./118826-mister-burnhouse.json) |
+| Mister Do | 40881 | [40881-mister-do.json](./40881-mister-do.json) |
 | Mister Easter | 246470 | [246470-mister-easter.json](./246470-mister-easter.json) |
 | Mister Fruit Joy | 137676 | [137676-mister-fruit-joy.json](./137676-mister-fruit-joy.json) |
 | Mister Furry | 236788 | [236788-mister-furry.json](./236788-mister-furry.json) |
@@ -15889,6 +15893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monken Crusher | 135445 | [135445-monken-crusher.json](./135445-monken-crusher.json) |
 | Monkeround | 326219 | [326219-monkeround.json](./326219-monkeround.json) |
 | Monkey | 305464 | [305464-monkey.json](./305464-monkey.json) |
+| Monkey Academy | 40886 | [40886-monkey-academy.json](./40886-monkey-academy.json) |
 | Monkey Adventure | 201542 | [201542-monkey-adventure.json](./201542-monkey-adventure.json) |
 | Monkey Ball | 40105 | [40105-monkey-ball.json](./40105-monkey-ball.json) |
 | Monkey Bananza | 146349 | [146349-monkey-bananza.json](./146349-monkey-bananza.json) |
@@ -20090,6 +20095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Hornets | 164967 | [164967-murder-hornets.json](./164967-murder-hornets.json) |
 | Murder in a Wheel | 62153 | [62153-murder-in-a-wheel.json](./62153-murder-in-a-wheel.json) |
 | Murder in Crayontopia | 337522 | [337522-murder-in-crayontopia.json](./337522-murder-in-crayontopia.json) |
+| Murder In Tehran's Alleys 2016 | 40858 | [40858-murder-in-tehrans-alleys-2016.json](./40858-murder-in-tehrans-alleys-2016.json) |
 | Murder in the Maze | 308418 | [308418-murder-in-the-maze.json](./308418-murder-in-the-maze.json) |
 | Murder in the Pines | 422843 | [422843-murder-in-the-pines.json](./422843-murder-in-the-pines.json) |
 | Murder in the Snow Bundle | 284759 | [284759-murder-in-the-snow-bundle.json](./284759-murder-in-the-snow-bundle.json) |
