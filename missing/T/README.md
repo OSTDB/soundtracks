@@ -2869,6 +2869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taxi 3 | 282673 | [282673-taxi-3.json](./282673-taxi-3.json) |
 | Taxi 3 | 318501 | [318501-taxi-3.json](./318501-taxi-3.json) |
 | Taxi By Night | 184653 | [184653-taxi-by-night.json](./184653-taxi-by-night.json) |
+| Taxi Challenge Berlin | 68809 | [68809-taxi-challenge-berlin.json](./68809-taxi-challenge-berlin.json) |
 | Taxi Challenge: London | 116972 | [116972-taxi-challenge-london.json](./116972-taxi-challenge-london.json) |
 | Taxi Chaos | 140701 | [140701-taxi-chaos.json](./140701-taxi-chaos.json) |
 | Taxi Chaos 2 | 364153 | [364153-taxi-chaos-2.json](./364153-taxi-chaos-2.json) |
