@@ -379,6 +379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walk Hero | 199747 | [199747-walk-hero.json](./199747-walk-hero.json) |
 | Walk Home | 183069 | [183069-walk-home.json](./183069-walk-home.json) |
 | Walk in the Rain | 185092 | [185092-walk-in-the-rain.json](./185092-walk-in-the-rain.json) |
+| Walk It Out! | 50660 | [50660-walk-it-out.json](./50660-walk-it-out.json) |
 | Walk It! | 364614 | [364614-walk-it.json](./364614-walk-it.json) |
 | Walk Master | 165342 | [165342-walk-master.json](./165342-walk-master.json) |
 | Walk of Life | 346648 | [346648-walk-of-life.json](./346648-walk-of-life.json) |
@@ -7047,6 +7048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizarducks and the Lost Hat | 287683 | [287683-wizarducks-and-the-lost-hat.json](./287683-wizarducks-and-the-lost-hat.json) |
 | WizardWare | 400983 | [400983-wizardware.json](./400983-wizardware.json) |
 | WizardWars.Online | 273763 | [273763-wizardwars-online.json](./273763-wizardwars-online.json) |
+| WizardWizard | 50205 | [50205-wizardwizard.json](./50205-wizardwizard.json) |
 | Wizarre | 213720 | [213720-wizarre.json](./213720-wizarre.json) |
 | Wizavior | 255392 | [255392-wizavior.json](./255392-wizavior.json) |
 | Wizball | 12234 | [12234-wizball.json](./12234-wizball.json) |
