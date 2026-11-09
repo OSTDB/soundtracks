@@ -656,6 +656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madeline and the Magnificent Puppet Show: A Learning Journey | 210195 | [210195-madeline-and-the-magnificent-puppet-show-a-learning-journey.json](./210195-madeline-and-the-magnificent-puppet-show-a-learning-journey.json) |
 | Madeline: European Adventures | 210114 | [210114-madeline-european-adventures.json](./210114-madeline-european-adventures.json) |
 | Madeline: Thinking Games | 210194 | [210194-madeline-thinking-games.json](./210194-madeline-thinking-games.json) |
+| Madeline's Rainy Day Activities | 69616 | [69616-madelines-rainy-day-activities.json](./69616-madelines-rainy-day-activities.json) |
 | Mademoiselle Kshatriya | 367622 | [367622-mademoiselle-kshatriya.json](./367622-mademoiselle-kshatriya.json) |
 | MaDevil | 201402 | [201402-madevil.json](./201402-madevil.json) |
 | Madfarmer: Lost Kingdoms and Crazy Critters | 269372 | [269372-madfarmer-lost-kingdoms-and-crazy-critters.json](./269372-madfarmer-lost-kingdoms-and-crazy-critters.json) |
@@ -10692,6 +10693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miami Paradise | 378485 | [378485-miami-paradise.json](./378485-miami-paradise.json) |
 | Miami Resort | 115503 | [115503-miami-resort.json](./115503-miami-resort.json) |
 | Miami Shark | 234942 | [234942-miami-shark.json](./234942-miami-shark.json) |
+| Miami Speedboat Racer | 69961 | [69961-miami-speedboat-racer.json](./69961-miami-speedboat-racer.json) |
 | Miami Sunset Drive | 192492 | [192492-miami-sunset-drive.json](./192492-miami-sunset-drive.json) |
 | Miami Vice | 272177 | [272177-miami-vice.json](./272177-miami-vice.json) |
 | Miami Vice | 28703 | [28703-miami-vice.json](./28703-miami-vice.json) |
@@ -21059,6 +21061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My First Songs 2 | 84630 | [84630-my-first-songs-2.json](./84630-my-first-songs-2.json) |
 | My First Tangrams for iPad | 95569 | [95569-my-first-tangrams-for-ipad.json](./95569-my-first-tangrams-for-ipad.json) |
 | My First Trainz Set | 11019 | [11019-my-first-trainz-set.json](./11019-my-first-trainz-set.json) |
+| My First: Skydiving Academy | 69967 | [69967-my-first-skydiving-academy.json](./69967-my-first-skydiving-academy.json) |
 | My Fish Farm | 212492 | [212492-my-fish-farm.json](./212492-my-fish-farm.json) |
 | My Fish Friend | 399961 | [399961-my-fish-friend.json](./399961-my-fish-friend.json) |
 | My Fishing Boat | 259635 | [259635-my-fishing-boat.json](./259635-my-fishing-boat.json) |
