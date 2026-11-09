@@ -12071,6 +12071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freestyle2: Must-have summer Outfit Box | 302033 | [302033-freestyle2-must-have-summer-outfit-box.json](./302033-freestyle2-must-have-summer-outfit-box.json) |
 | Freestyle2: Street Basketball | 28088 | [28088-freestyle2-street-basketball.json](./28088-freestyle2-street-basketball.json) |
 | Freetown Forest | 374839 | [374839-freetown-forest.json](./374839-freetown-forest.json) |
+| Freewar | 77530 | [77530-freewar.json](./77530-freewar.json) |
 | Freeway | 131544 | [131544-freeway.json](./131544-freeway.json) |
 | Freeway Crossing Program | 351414 | [351414-freeway-crossing-program.json](./351414-freeway-crossing-program.json) |
 | Freeway Fiasco | 203837 | [203837-freeway-fiasco.json](./203837-freeway-fiasco.json) |
@@ -12542,6 +12543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Fractions: Game of the Decade Edition | 129299 | [129299-frog-fractions-game-of-the-decade-edition.json](./129299-frog-fractions-game-of-the-decade-edition.json) |
 | Frog Frenzy | 87707 | [87707-frog-frenzy.json](./87707-frog-frenzy.json) |
 | Frog Frenzy 2 | 209579 | [209579-frog-frenzy-2.json](./209579-frog-frenzy-2.json) |
+| Frog Fun | 77553 | [77553-frog-fun.json](./77553-frog-fun.json) |
 | Frog Galaxy Survivor | 314734 | [314734-frog-galaxy-survivor.json](./314734-frog-galaxy-survivor.json) |
 | Frog Game for You | 227908 | [227908-frog-game-for-you.json](./227908-frog-game-for-you.json) |
 | Frog Gift | 229261 | [229261-frog-gift.json](./229261-frog-gift.json) |
@@ -12846,6 +12848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | From Within | 201434 | [201434-from-within.json](./201434-from-within.json) |
 | From Zero to Hero: Cityman | 95524 | [95524-from-zero-to-hero-cityman.json](./95524-from-zero-to-hero-cityman.json) |
 | From Zero to Slime Hero | 391687 | [391687-from-zero-to-slime-hero.json](./391687-from-zero-to-slime-hero.json) |
+| From_. | 77519 | [77519-from.json](./77519-from.json) |
 | Fromage | 222913 | [222913-fromage.json](./222913-fromage.json) |
 | Fromage | 326059 | [326059-fromage.json](./326059-fromage.json) |
 | FromPulse | 62805 | [62805-frompulse.json](./62805-frompulse.json) |
