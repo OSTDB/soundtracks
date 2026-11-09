@@ -7027,6 +7027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Book of the Dead: Lost Souls | 279992 | [279992-the-book-of-the-dead-lost-souls.json](./279992-the-book-of-the-dead-lost-souls.json) |
 | The Book of Three | 79561 | [79561-the-book-of-three.json](./79561-the-book-of-three.json) |
 | The Book of Unwritten Tales | 5408 | [5408-the-book-of-unwritten-tales.json](./5408-the-book-of-unwritten-tales.json) |
+| The Book of Unwritten Tales 2 | 9112 | [9112-the-book-of-unwritten-tales-2.json](./9112-the-book-of-unwritten-tales-2.json) |
 | The Book of Unwritten Tales 2: Almanac Edition | 51703 | [51703-the-book-of-unwritten-tales-2-almanac-edition.json](./51703-the-book-of-unwritten-tales-2-almanac-edition.json) |
 | The Book of Unwritten Tales Collection | 53712 | [53712-the-book-of-unwritten-tales-collection.json](./53712-the-book-of-unwritten-tales-collection.json) |
 | The Book of Unwritten Tales: The Critter Chronicles | 7661 | [7661-the-book-of-unwritten-tales-the-critter-chronicles.json](./7661-the-book-of-unwritten-tales-the-critter-chronicles.json) |
@@ -13650,6 +13651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Longest Road on Earth: World Tour Bundle | 223446 | [223446-the-longest-road-on-earth-world-tour-bundle.json](./223446-the-longest-road-on-earth-world-tour-bundle.json) |
 | The Longest Tale | 338110 | [338110-the-longest-tale.json](./338110-the-longest-tale.json) |
 | The Longest Walk | 215736 | [215736-the-longest-walk.json](./215736-the-longest-walk.json) |
+| The Longing | 107927 | [107927-the-longing.json](./107927-the-longing.json) |
 | The Longing Ribbon | 151694 | [151694-the-longing-ribbon.json](./151694-the-longing-ribbon.json) |
 | The Lonker | 236919 | [236919-the-lonker.json](./236919-the-lonker.json) |
 | The Lonly Wall | 183472 | [183472-the-lonly-wall.json](./183472-the-lonly-wall.json) |
@@ -25234,6 +25236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toby's Nose | 58704 | [58704-tobys-nose.json](./58704-tobys-nose.json) |
 | Toby's Topsy Tale | 293615 | [293615-tobys-topsy-tale.json](./293615-tobys-topsy-tale.json) |
 | Toc | 183004 | [183004-toc.json](./183004-toc.json) |
+| TOCA 2: Touring Car Challenge | 8001 | [8001-toca-2-touring-car-challenge.json](./8001-toca-2-touring-car-challenge.json) |
 | Toca Boca Hair Salon 4 | 380522 | [380522-toca-boca-hair-salon-4.json](./380522-toca-boca-hair-salon-4.json) |
 | Toca Boca Jr Classics | 372161 | [372161-toca-boca-jr-classics.json](./372161-toca-boca-jr-classics.json) |
 | Toca Boo | 95743 | [95743-toca-boo.json](./95743-toca-boo.json) |
@@ -25616,6 +25619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Mew Mew: Toujou Shin Mew Mew! - Minna Issho ni Gohoushi Suru Nyan | 56483 | [56483-tokyo-mew-mew-toujou-shin-mew-mew-minna-issho-ni-gohoushi-suru-nyan.json](./56483-tokyo-mew-mew-toujou-shin-mew-mew-minna-issho-ni-gohoushi-suru-nyan.json) |
 | Tokyo Millennium Collaboration | 333386 | [333386-tokyo-millennium-collaboration.json](./333386-tokyo-millennium-collaboration.json) |
 | Tokyo Mirage Sessions #FE | 5321 | [5321-tokyo-mirage-sessions-fe.json](./5321-tokyo-mirage-sessions-fe.json) |
+| Tokyo Mirage Sessions #FE Encore | 122231 | [122231-tokyo-mirage-sessions-fe-encore.json](./122231-tokyo-mirage-sessions-fe-encore.json) |
 | Tokyo Mirage Sessions #FE: 3 Support Quest Set | 333630 | [333630-tokyo-mirage-sessions-fe-3-support-quest-set.json](./333630-tokyo-mirage-sessions-fe-3-support-quest-set.json) |
 | Tokyo Mirage Sessions #FE: Fortissimo Edition | 83792 | [83792-tokyo-mirage-sessions-fe-fortissimo-edition.json](./83792-tokyo-mirage-sessions-fe-fortissimo-edition.json) |
 | Tokyo Mirage Sessions #FE: Special Edition | 83791 | [83791-tokyo-mirage-sessions-fe-special-edition.json](./83791-tokyo-mirage-sessions-fe-special-edition.json) |
@@ -31808,6 +31812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trespass: Episode 1 | 31879 | [31879-trespass-episode-1.json](./31879-trespass-episode-1.json) |
 | Trespass: Episode 2 | 29999 | [29999-trespass-episode-2.json](./29999-trespass-episode-2.json) |
 | Trespasser | 382812 | [382812-trespasser.json](./382812-trespasser.json) |
+| Trespasser | 9057 | [9057-trespasser.json](./9057-trespasser.json) |
 | Trespasser 2 | 204111 | [204111-trespasser-2.json](./204111-trespasser-2.json) |
 | Trespassers | 74249 | [74249-trespassers.json](./74249-trespassers.json) |
 | Tresure Hunter | 278673 | [278673-tresure-hunter.json](./278673-tresure-hunter.json) |
