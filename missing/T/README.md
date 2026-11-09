@@ -4947,6 +4947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive: Eve of Destruction | 6197 | [6197-test-drive-eve-of-destruction.json](./6197-test-drive-eve-of-destruction.json) |
 | Test Drive: Ferrari Racing Legends | 7217 | [7217-test-drive-ferrari-racing-legends.json](./7217-test-drive-ferrari-racing-legends.json) |
 | Test Drive: Le Mans | 45066 | [45066-test-drive-le-mans.json](./45066-test-drive-le-mans.json) |
+| Test Drive: Off-Road | 46041 | [46041-test-drive-off-road.json](./46041-test-drive-off-road.json) |
 | Test Drive: Off-Road 2 | 45086 | [45086-test-drive-off-road-2.json](./45086-test-drive-off-road-2.json) |
 | Test Drive: Off-Road 3 | 49905 | [49905-test-drive-off-road-3.json](./49905-test-drive-off-road-3.json) |
 | Test Drive: Offroad | 206222 | [206222-test-drive-offroad.json](./206222-test-drive-offroad.json) |
@@ -28846,6 +28847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Escape: Hidden Adventure | 104777 | [104777-train-escape-hidden-adventure.json](./104777-train-escape-hidden-adventure.json) |
 | Train Fever: USA | 238506 | [238506-train-fever-usa.json](./238506-train-fever-usa.json) |
 | Train Frontier Classic | 72486 | [72486-train-frontier-classic.json](./72486-train-frontier-classic.json) |
+| Train Game | 46038 | [46038-train-game.json](./46038-train-game.json) |
 | Train Goes Right | 386979 | [386979-train-goes-right.json](./386979-train-goes-right.json) |
 | Train Graveyard Simulator | 409406 | [409406-train-graveyard-simulator.json](./409406-train-graveyard-simulator.json) |
 | Train Journey | 382209 | [382209-train-journey.json](./382209-train-journey.json) |
@@ -32222,6 +32224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Punch | 38552 | [38552-triple-punch.json](./38552-triple-punch.json) |
 | Triple Realms | 414753 | [414753-triple-realms.json](./414753-triple-realms.json) |
 | Triple Running Sports | 85460 | [85460-triple-running-sports.json](./85460-triple-running-sports.json) |
+| Triple Score: 3 Games In One | 45647 | [45647-triple-score-3-games-in-one.json](./45647-triple-score-3-games-in-one.json) |
 | Triple Shot Sports | 66889 | [66889-triple-shot-sports.json](./66889-triple-shot-sports.json) |
 | Triple Take | 173277 | [173277-triple-take.json](./173277-triple-take.json) |
 | Triple Threat Pinball | 125861 | [125861-triple-threat-pinball.json](./125861-triple-threat-pinball.json) |
