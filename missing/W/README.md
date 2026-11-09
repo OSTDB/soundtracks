@@ -1158,6 +1158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War World: Tactical Combat | 25985 | [25985-war-world-tactical-combat.json](./25985-war-world-tactical-combat.json) |
 | War Yards | 139480 | [139480-war-yards.json](./139480-war-yards.json) |
 | War Z | 94041 | [94041-war-z.json](./94041-war-z.json) |
+| War Zone | 37247 | [37247-war-zone.json](./37247-war-zone.json) |
 | War Zone | 421413 | [421413-war-zone.json](./421413-war-zone.json) |
 | War Zone II | 421414 | [421414-war-zone-ii.json](./421414-war-zone-ii.json) |
 | War Zone Soldier: Battle Royale Shooter | 273303 | [273303-war-zone-soldier-battle-royale-shooter.json](./273303-war-zone-soldier-battle-royale-shooter.json) |
@@ -6224,6 +6225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Gifts | 412164 | [412164-winter-gifts.json](./412164-winter-gifts.json) |
 | Winter Girl | 312539 | [312539-winter-girl.json](./312539-winter-girl.json) |
 | Winter Girls 2048 | 111366 | [111366-winter-girls-2048.json](./111366-winter-girls-2048.json) |
+| Winter Gold | 37257 | [37257-winter-gold.json](./37257-winter-gold.json) |
 | Winter Golf | 177678 | [177678-winter-golf.json](./177678-winter-golf.json) |
 | Winter Grae | 188827 | [188827-winter-grae.json](./188827-winter-grae.json) |
 | Winter Heat | 367954 | [367954-winter-heat.json](./367954-winter-heat.json) |
@@ -7394,6 +7396,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Planetes | 208113 | [208113-wonder-planetes.json](./208113-wonder-planetes.json) |
 | Wonder Planets | 196524 | [196524-wonder-planets.json](./196524-wonder-planets.json) |
 | Wonder Pot | 200355 | [200355-wonder-pot.json](./200355-wonder-pot.json) |
+| Wonder Project J: Kikai no Shounen Pino | 37255 | [37255-wonder-project-j-kikai-no-shounen-pino.json](./37255-wonder-project-j-kikai-no-shounen-pino.json) |
 | Wonder Project J2: Corlo no Mori no Josette | 47748 | [47748-wonder-project-j2-corlo-no-mori-no-josette.json](./47748-wonder-project-j2-corlo-no-mori-no-josette.json) |
 | Wonder Protocol | 413467 | [413467-wonder-protocol.json](./413467-wonder-protocol.json) |
 | Wonder Stadium | 37467 | [37467-wonder-stadium.json](./37467-wonder-stadium.json) |
@@ -7616,7 +7619,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woody Puzzle | 96825 | [96825-woody-puzzle.json](./96825-woody-puzzle.json) |
 | Woody Two-Legs: Attack of the Zombie Pirates | 2073 | [2073-woody-two-legs-attack-of-the-zombie-pirates.json](./2073-woody-two-legs-attack-of-the-zombie-pirates.json) |
 | Woody Woodpecker | 63986 | [63986-woody-woodpecker.json](./63986-woody-woodpecker.json) |
+| Woody Woodpecker and Friends Volume 1 | 37228 | [37228-woody-woodpecker-and-friends-volume-1.json](./37228-woody-woodpecker-and-friends-volume-1.json) |
 | Woody Woodpecker and Friends Volume 2 | 268527 | [268527-woody-woodpecker-and-friends-volume-2.json](./268527-woody-woodpecker-and-friends-volume-2.json) |
+| Woody Woodpecker and Friends Volume 3 | 37227 | [37227-woody-woodpecker-and-friends-volume-3.json](./37227-woody-woodpecker-and-friends-volume-3.json) |
 | Woody Woodpecker in Crazy Castle 5 | 8012 | [8012-woody-woodpecker-in-crazy-castle-5.json](./8012-woody-woodpecker-in-crazy-castle-5.json) |
 | Woody Woodpecker in Waterfools | 135894 | [135894-woody-woodpecker-in-waterfools.json](./135894-woody-woodpecker-in-waterfools.json) |
 | Woody Woodpecker Racing | 259482 | [259482-woody-woodpecker-racing.json](./259482-woody-woodpecker-racing.json) |
@@ -8073,6 +8078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordsweeper by Powgi | 121643 | [121643-wordsweeper-by-powgi.json](./121643-wordsweeper-by-powgi.json) |
 | WordTactics | 164605 | [164605-wordtactics.json](./164605-wordtactics.json) |
 | WordTrip: Word Swipe Puzzles | 98795 | [98795-wordtrip-word-swipe-puzzles.json](./98795-wordtrip-word-swipe-puzzles.json) |
+| Wordtris | 37254 | [37254-wordtris.json](./37254-wordtris.json) |
 | WordUp | 71975 | [71975-wordup.json](./71975-wordup.json) |
 | Wordventures: The Vampire Pirate | 411516 | [411516-wordventures-the-vampire-pirate.json](./411516-wordventures-the-vampire-pirate.json) |
 | Wordward Draw | 258049 | [258049-wordward-draw.json](./258049-wordward-draw.json) |
@@ -8214,6 +8220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Class Leaderboard Golf | 262861 | [262861-world-class-leaderboard-golf.json](./262861-world-class-leaderboard-golf.json) |
 | World Class Leaderboard Golf | 46328 | [46328-world-class-leaderboard-golf.json](./46328-world-class-leaderboard-golf.json) |
 | World Class Poker with T.J. Cloutier | 53112 | [53112-world-class-poker-with-t-j-cloutier.json](./53112-world-class-poker-with-t-j-cloutier.json) |
+| World Class Rugby | 37253 | [37253-world-class-rugby.json](./37253-world-class-rugby.json) |
 | World Class Rugby 2 | 37766 | [37766-world-class-rugby-2.json](./37766-world-class-rugby-2.json) |
 | World Class Rugby 2: Kokunai Gekitou-hen '93 | 60508 | [60508-world-class-rugby-2-kokunai-gekitou-hen-93.json](./60508-world-class-rugby-2-kokunai-gekitou-hen-93.json) |
 | World Class Rugby: Five Nations Edition | 396768 | [396768-world-class-rugby-five-nations-edition.json](./396768-world-class-rugby-five-nations-edition.json) |
@@ -8261,6 +8268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Cup USA 94 | 365668 | [365668-world-cup-usa-94.json](./365668-world-cup-usa-94.json) |
 | World Cup USA 94 | 365669 | [365669-world-cup-usa-94.json](./365669-world-cup-usa-94.json) |
 | World Cup USA 94 | 365873 | [365873-world-cup-usa-94.json](./365873-world-cup-usa-94.json) |
+| World Cup USA 94 | 37252 | [37252-world-cup-usa-94.json](./37252-world-cup-usa-94.json) |
 | World Cup USA 94 | 5464 | [5464-world-cup-usa-94.json](./5464-world-cup-usa-94.json) |
 | World Cup Year 94 | 57620 | [57620-world-cup-year-94.json](./57620-world-cup-year-94.json) |
 | World Dai-star: Yume no Stellarium | 258691 | [258691-world-dai-star-yume-no-stellarium.json](./258691-world-dai-star-yume-no-stellarium.json) |
@@ -8351,12 +8359,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Leaders | 274046 | [274046-world-leaders.json](./274046-world-leaders.json) |
 | World League Baseball | 269969 | [269969-world-league-baseball.json](./269969-world-league-baseball.json) |
 | World League Live! Football | 186048 | [186048-world-league-live-football.json](./186048-world-league-live-football.json) |
+| World League Soccer | 37249 | [37249-world-league-soccer.json](./37249-world-league-soccer.json) |
 | World League Soccer '98 | 45466 | [45466-world-league-soccer-98.json](./45466-world-league-soccer-98.json) |
 | World Left Behind | 284516 | [284516-world-left-behind.json](./284516-world-left-behind.json) |
 | World Legends | 164316 | [164316-world-legends.json](./164316-world-legends.json) |
 | World Mahjong: Original | 220721 | [220721-world-mahjong-original.json](./220721-world-mahjong-original.json) |
 | World Map Quiz | 181146 | [181146-world-map-quiz.json](./181146-world-map-quiz.json) |
 | World Map: Crafted City Builder | 202096 | [202096-world-map-crafted-city-builder.json](./202096-world-map-crafted-city-builder.json) |
+| World Masters Golf | 37248 | [37248-world-masters-golf.json](./37248-world-masters-golf.json) |
 | World Minigolf | 181702 | [181702-world-minigolf.json](./181702-world-minigolf.json) |
 | World Molder | 68412 | [68412-world-molder.json](./68412-world-molder.json) |
 | World Mosaics | 135246 | [135246-world-mosaics.json](./135246-world-mosaics.json) |
