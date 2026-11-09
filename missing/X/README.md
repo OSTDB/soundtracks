@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men: Mutant Wars | 49887 | [49887-x-men-mutant-wars.json](./49887-x-men-mutant-wars.json) |
 | X-Men: Next Dimension | 4577 | [4577-x-men-next-dimension.json](./4577-x-men-next-dimension.json) |
 | X-Men: Power Trainer | 245611 | [245611-x-men-power-trainer.json](./245611-x-men-power-trainer.json) |
+| X-Men: Reign of Apocalypse | 6688 | [6688-x-men-reign-of-apocalypse.json](./6688-x-men-reign-of-apocalypse.json) |
 | X-Men: Sentinel Assault | 245612 | [245612-x-men-sentinel-assault.json](./245612-x-men-sentinel-assault.json) |
 | X-Men: The Official Game | 200902 | [200902-x-men-the-official-game.json](./200902-x-men-the-official-game.json) |
 | X-Men: The Official Game | 218615 | [218615-x-men-the-official-game.json](./218615-x-men-the-official-game.json) |
