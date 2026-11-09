@@ -8484,6 +8484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Judgment: Digital Ultimate Edition | 173164 | [173164-lost-judgment-digital-ultimate-edition.json](./173164-lost-judgment-digital-ultimate-edition.json) |
 | Lost Judgment: School Stories Expansion Pack | 264071 | [264071-lost-judgment-school-stories-expansion-pack.json](./264071-lost-judgment-school-stories-expansion-pack.json) |
 | Lost Judgment: The Kaito Files | 194819 | [194819-lost-judgment-the-kaito-files.json](./194819-lost-judgment-the-kaito-files.json) |
+| Lost jumping frog | 74649 | [74649-lost-jumping-frog.json](./74649-lost-jumping-frog.json) |
 | Lost Key: The Path of Illumination | 318763 | [318763-lost-key-the-path-of-illumination.json](./318763-lost-key-the-path-of-illumination.json) |
 | Lost Keys | 139597 | [139597-lost-keys.json](./139597-lost-keys.json) |
 | Lost King's Lullaby | 115537 | [115537-lost-kings-lullaby.json](./115537-lost-kings-lullaby.json) |
@@ -8830,6 +8831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Across Izumi | 131327 | [131327-love-across-izumi.json](./131327-love-across-izumi.json) |
 | Love Affairs | 303785 | [303785-love-affairs.json](./303785-love-affairs.json) |
 | Love All My Girls | 406866 | [406866-love-all-my-girls.json](./406866-love-all-my-girls.json) |
+| Love All You Have Left | 74615 | [74615-love-all-you-have-left.json](./74615-love-all-you-have-left.json) |
 | Love Alone Death | 272613 | [272613-love-alone-death.json](./272613-love-alone-death.json) |
 | Love Alt Delete | 419911 | [419911-love-alt-delete.json](./419911-love-alt-delete.json) |
 | Love Always Runs Away | 362885 | [362885-love-always-runs-away.json](./362885-love-always-runs-away.json) |
@@ -10191,6 +10193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LunarLux | 134188 | [134188-lunarlux.json](./134188-lunarlux.json) |
 | Lunarrota | 198483 | [198483-lunarrota.json](./198483-lunarrota.json) |
 | Lunars | 217321 | [217321-lunars.json](./217321-lunars.json) |
+| Lunarsea | 74597 | [74597-lunarsea.json](./74597-lunarsea.json) |
 | Lunarwardens | 244056 | [244056-lunarwardens.json](./244056-lunarwardens.json) |
 | Lunatic | 141184 | [141184-lunatic.json](./141184-lunatic.json) |
 | Lunatic | 208651 | [208651-lunatic.json](./208651-lunatic.json) |
