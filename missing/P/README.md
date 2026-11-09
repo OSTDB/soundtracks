@@ -2283,6 +2283,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Stories | 164590 | [164590-paranormal-stories.json](./164590-paranormal-stories.json) |
 | Paranormal Survey | 338854 | [338854-paranormal-survey.json](./338854-paranormal-survey.json) |
 | Paranormal Syndrome | 60931 | [60931-paranormal-syndrome.json](./60931-paranormal-syndrome.json) |
+| Paranormal Syndrome 2 | 69431 | [69431-paranormal-syndrome-2.json](./69431-paranormal-syndrome-2.json) |
 | Paranormal Syndrome 3 | 151527 | [151527-paranormal-syndrome-3.json](./151527-paranormal-syndrome-3.json) |
 | Paranormal Syndrome: R Dolls Edition | 261219 | [261219-paranormal-syndrome-r-dolls-edition.json](./261219-paranormal-syndrome-r-dolls-edition.json) |
 | Paranormal Tales | 222843 | [222843-paranormal-tales.json](./222843-paranormal-tales.json) |
@@ -18930,6 +18931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Lab | 88118 | [88118-puzzle-lab.json](./88118-puzzle-lab.json) |
 | Puzzle League | 179406 | [179406-puzzle-league.json](./179406-puzzle-league.json) |
 | Puzzle League | 370388 | [370388-puzzle-league.json](./370388-puzzle-league.json) |
+| Puzzle League Express | 69405 | [69405-puzzle-league-express.json](./69405-puzzle-league-express.json) |
 | Puzzle Light | 149455 | [149455-puzzle-light.json](./149455-puzzle-light.json) |
 | Puzzle Light: Connect | 168561 | [168561-puzzle-light-connect.json](./168561-puzzle-light-connect.json) |
 | Puzzle Light: One Move | 150257 | [150257-puzzle-light-one-move.json](./150257-puzzle-light-one-move.json) |
