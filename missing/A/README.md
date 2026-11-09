@@ -6628,6 +6628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aldriak: The Advent of a New World | 149569 | [149569-aldriak-the-advent-of-a-new-world.json](./149569-aldriak-the-advent-of-a-new-world.json) |
 | Aldro | 247747 | [247747-aldro.json](./247747-aldro.json) |
 | Aldroy: Chapter 1 | 133959 | [133959-aldroy-chapter-1.json](./133959-aldroy-chapter-1.json) |
+| Aldynes: The Mission Code for Rage Crisis | 42078 | [42078-aldynes-the-mission-code-for-rage-crisis.json](./42078-aldynes-the-mission-code-for-rage-crisis.json) |
 | Ale & Aftercare | 262304 | [262304-ale-and-aftercare.json](./262304-ale-and-aftercare.json) |
 | Ale & Axes | 410002 | [410002-ale-and-axes.json](./410002-ale-and-axes.json) |
 | Ale & Tale Tavern | 276233 | [276233-ale-and-tale-tavern.json](./276233-ale-and-tale-tavern.json) |
@@ -9818,6 +9819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andor's Trail | 207864 | [207864-andors-trail.json](./207864-andors-trail.json) |
 | Andou: Pulse of Cup | 369572 | [369572-andou-pulse-of-cup.json](./369572-andou-pulse-of-cup.json) |
 | Andre Agassi Tennis | 369245 | [369245-andre-agassi-tennis.json](./369245-andre-agassi-tennis.json) |
+| Andre Panza Kick Boxing | 42128 | [42128-andre-panza-kick-boxing.json](./42128-andre-panza-kick-boxing.json) |
 | André Ventura Dating Simulator | 300487 | [300487-andre-ventura-dating-simulator.json](./300487-andre-ventura-dating-simulator.json) |
 | Andreas Osswald's Championship Soccer 2004-2005 Edition | 27468 | [27468-andreas-osswalds-championship-soccer-2004-2005-edition.json](./27468-andreas-osswalds-championship-soccer-2004-2005-edition.json) |
 | Andreas VII | 188588 | [188588-andreas-vii.json](./188588-andreas-vii.json) |
@@ -11814,6 +11816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AOD: Art of Defense | 150369 | [150369-aod-art-of-defense.json](./150369-aod-art-of-defense.json) |
 | Aohri's Uprising | 254023 | [254023-aohris-uprising.json](./254023-aohris-uprising.json) |
 | Aoi | 226233 | [226233-aoi.json](./226233-aoi.json) |
+| Aoi Blink | 42093 | [42093-aoi-blink.json](./42093-aoi-blink.json) |
 | Aoi Namida | 69151 | [69151-aoi-namida.json](./69151-aoi-namida.json) |
 | Aoi Shiro | 165554 | [165554-aoi-shiro.json](./165554-aoi-shiro.json) |
 | Aoi Shiro: HD Remaster | 246873 | [246873-aoi-shiro-hd-remaster.json](./246873-aoi-shiro-hd-remaster.json) |
@@ -12241,6 +12244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apparatus | 63976 | [63976-apparatus.json](./63976-apparatus.json) |
 | Apparatus: Exanimus | 361328 | [361328-apparatus-exanimus.json](./361328-apparatus-exanimus.json) |
 | Appare-den: Fukuryuu no Shou | 243782 | [243782-appare-den-fukuryuu-no-shou.json](./243782-appare-den-fukuryuu-no-shou.json) |
+| Appare! Gateball | 42092 | [42092-appare-gateball.json](./42092-appare-gateball.json) |
 | Appare! Shogi Jiisan | 269650 | [269650-appare-shogi-jiisan.json](./269650-appare-shogi-jiisan.json) |
 | Apparition | 151958 | [151958-apparition.json](./151958-apparition.json) |
 | Apparition | 75926 | [75926-apparition.json](./75926-apparition.json) |
@@ -17501,6 +17505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Punk | 7760 | [7760-atomic-punk.json](./7760-atomic-punk.json) |
 | Atomic Pursuit | 234069 | [234069-atomic-pursuit.json](./234069-atomic-pursuit.json) |
 | Atomic Robo-Kid | 11921 | [11921-atomic-robo-kid.json](./11921-atomic-robo-kid.json) |
+| Atomic Robo-Kid Special | 42090 | [42090-atomic-robo-kid-special.json](./42090-atomic-robo-kid-special.json) |
 | Atomic Rock Paper Scissors | 180830 | [180830-atomic-rock-paper-scissors.json](./180830-atomic-rock-paper-scissors.json) |
 | Atomic Runner | 376716 | [376716-atomic-runner.json](./376716-atomic-runner.json) |
 | Atomic Runner Chelnov | 46241 | [46241-atomic-runner-chelnov.json](./46241-atomic-runner-chelnov.json) |
@@ -18328,6 +18333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AV Director Life! | 346669 | [346669-av-director-life.json](./346669-av-director-life.json) |
 | AV Jiūjí Mahjong II | 247306 | [247306-av-jiuji-mahjong-ii.json](./247306-av-jiuji-mahjong-ii.json) |
 | AV Pachinko | 242089 | [242089-av-pachinko.json](./242089-av-pachinko.json) |
+| AV Poker: World Gambler | 42089 | [42089-av-poker-world-gambler.json](./42089-av-poker-world-gambler.json) |
 | AV Sex Manager | 400407 | [400407-av-sex-manager.json](./400407-av-sex-manager.json) |
 | AV-17 | 110670 | [110670-av-17.json](./110670-av-17.json) |
 | AV.Runner | 217218 | [217218-av-runner.json](./217218-av-runner.json) |
