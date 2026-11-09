@@ -8819,11 +8819,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dreamer | 323211 | [323211-the-dreamer.json](./323211-the-dreamer.json) |
 | The Dreamer Must Die | 259449 | [259449-the-dreamer-must-die.json](./259449-the-dreamer-must-die.json) |
 | The Dreamers Foresight | 313479 | [313479-the-dreamers-foresight.json](./313479-the-dreamers-foresight.json) |
+| The Dreamhold | 60186 | [60186-the-dreamhold.json](./60186-the-dreamhold.json) |
 | The Dreaming City Chronicles: Quest for the Vanished World | 406302 | [406302-the-dreaming-city-chronicles-quest-for-the-vanished-world.json](./406302-the-dreaming-city-chronicles-quest-for-the-vanished-world.json) |
 | The Dreaming Fox | 195372 | [195372-the-dreaming-fox.json](./195372-the-dreaming-fox.json) |
 | The Dreamland | 226602 | [226602-the-dreamland.json](./226602-the-dreamland.json) |
 | The Dreamland | 343779 | [343779-the-dreamland.json](./343779-the-dreamland.json) |
 | The Dreamland Chronicles | 61734 | [61734-the-dreamland-chronicles.json](./61734-the-dreamland-chronicles.json) |
+| The Dreamland Chronicles: Freedom Ridge | 60670 | [60670-the-dreamland-chronicles-freedom-ridge.json](./60670-the-dreamland-chronicles-freedom-ridge.json) |
 | The Dreamlands: Aisling's Quest | 93762 | [93762-the-dreamlands-aislings-quest.json](./93762-the-dreamlands-aislings-quest.json) |
 | The Dreamlord | 83874 | [83874-the-dreamlord.json](./83874-the-dreamlord.json) |
 | The Dreamlurker | 271632 | [271632-the-dreamlurker.json](./271632-the-dreamlurker.json) |
@@ -10507,6 +10509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Goracle | 107394 | [107394-the-goracle.json](./107394-the-goracle.json) |
 | The Gorcs' Forge | 158573 | [158573-the-gorcs-forge.json](./158573-the-gorcs-forge.json) |
 | The Gorge | 322392 | [322392-the-gorge.json](./322392-the-gorge.json) |
+| The Gostak | 60655 | [60655-the-gostak.json](./60655-the-gostak.json) |
 | The Goto Family's: The Island Murder Case | 150112 | [150112-the-goto-familys-the-island-murder-case.json](./150112-the-goto-familys-the-island-murder-case.json) |
 | The Gourmet Factor | 308897 | [308897-the-gourmet-factor.json](./308897-the-gourmet-factor.json) |
 | The Governor | 120589 | [120589-the-governor.json](./120589-the-governor.json) |
@@ -14836,6 +14839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nutcracker | 289745 | [289745-the-nutcracker.json](./289745-the-nutcracker.json) |
 | The Nutshack But It's A Game | 326591 | [326591-the-nutshack-but-its-a-game.json](./326591-the-nutshack-but-its-a-game.json) |
 | The Nutshack: The Game | 57165 | [57165-the-nutshack-the-game.json](./57165-the-nutshack-the-game.json) |
+| The Oakflat PWR Nuclear Power Plant Simulator | 60677 | [60677-the-oakflat-pwr-nuclear-power-plant-simulator.json](./60677-the-oakflat-pwr-nuclear-power-plant-simulator.json) |
 | The Oath | 12705 | [12705-the-oath.json](./12705-the-oath.json) |
 | The Oath of the Dark Magic Queen | 181120 | [181120-the-oath-of-the-dark-magic-queen.json](./181120-the-oath-of-the-dark-magic-queen.json) |
 | The Oathkeeper | 189344 | [189344-the-oathkeeper.json](./189344-the-oathkeeper.json) |
@@ -33224,6 +33228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsumi no Hikari Rendez-vous | 327546 | [327546-tsumi-no-hikari-rendez-vous.json](./327546-tsumi-no-hikari-rendez-vous.json) |
 | Tsumi no Hikari Rendezvous | 335581 | [335581-tsumi-no-hikari-rendezvous.json](./335581-tsumi-no-hikari-rendezvous.json) |
 | Tsumige Shoujo | 278807 | [278807-tsumige-shoujo.json](./278807-tsumige-shoujo.json) |
+| Tsumiki: Block Drop Mania | 60187 | [60187-tsumiki-block-drop-mania.json](./60187-tsumiki-block-drop-mania.json) |
 | Tsumiki: The Infernal Tower | 124107 | [124107-tsumiki-the-infernal-tower.json](./124107-tsumiki-the-infernal-tower.json) |
 | Tsumikui: Sen no Noroi, Sen no Inori | 222867 | [222867-tsumikui-sen-no-noroi-sen-no-inori.json](./222867-tsumikui-sen-no-noroi-sen-no-inori.json) |
 | Tsumikui: Sen no Noroi, Sen no Inori for V | 74795 | [74795-tsumikui-sen-no-noroi-sen-no-inori-for-v.json](./74795-tsumikui-sen-no-noroi-sen-no-inori-for-v.json) |
