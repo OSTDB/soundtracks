@@ -789,6 +789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Modern Warfare 2 - Hardened Edition | 154705 | [154705-call-of-duty-modern-warfare-2-hardened-edition.json](./154705-call-of-duty-modern-warfare-2-hardened-edition.json) |
 | Call of Duty: Modern Warfare 2 - Prestige Edition | 154704 | [154704-call-of-duty-modern-warfare-2-prestige-edition.json](./154704-call-of-duty-modern-warfare-2-prestige-edition.json) |
 | Call of Duty: Modern Warfare 2 - Resurgence Pack | 154697 | [154697-call-of-duty-modern-warfare-2-resurgence-pack.json](./154697-call-of-duty-modern-warfare-2-resurgence-pack.json) |
+| Call of Duty: Modern Warfare 2 - Stimulus Package | 22971 | [22971-call-of-duty-modern-warfare-2-stimulus-package.json](./22971-call-of-duty-modern-warfare-2-stimulus-package.json) |
 | Call of Duty: Modern Warfare 2 - Veteran Package | 154707 | [154707-call-of-duty-modern-warfare-2-veteran-package.json](./154707-call-of-duty-modern-warfare-2-veteran-package.json) |
 | Call of Duty: Modern Warfare 2 Campaign Remastered | 95062 | [95062-call-of-duty-modern-warfare-2-campaign-remastered.json](./95062-call-of-duty-modern-warfare-2-campaign-remastered.json) |
 | Call of Duty: Modern Warfare 3 | 287021 | [287021-call-of-duty-modern-warfare-3.json](./287021-call-of-duty-modern-warfare-3.json) |
@@ -16864,6 +16865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crane Logistics Simulator | 211699 | [211699-crane-logistics-simulator.json](./211699-crane-logistics-simulator.json) |
 | Crane Quandry | 101009 | [101009-crane-quandry.json](./101009-crane-quandry.json) |
 | Crane Simulation 2016 : 3D Town Construction Game | 100515 | [100515-crane-simulation-2016-3d-town-construction-game.json](./100515-crane-simulation-2016-3d-town-construction-game.json) |
+| Crane Simulator 2009 | 22979 | [22979-crane-simulator-2009.json](./22979-crane-simulator-2009.json) |
 | Cranes | 99642 | [99642-cranes.json](./99642-cranes.json) |
 | Cranga!: Harbor Frenzy | 31544 | [31544-cranga-harbor-frenzy.json](./31544-cranga-harbor-frenzy.json) |
 | Cranium | 92757 | [92757-cranium.json](./92757-cranium.json) |
