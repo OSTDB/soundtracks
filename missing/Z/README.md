@@ -1631,6 +1631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Colony | 287680 | [287680-zombie-colony.json](./287680-zombie-colony.json) |
 | Zombie Combat Shooting | 103136 | [103136-zombie-combat-shooting.json](./103136-zombie-combat-shooting.json) |
 | Zombie Commander | 98710 | [98710-zombie-commander.json](./98710-zombie-commander.json) |
+| Zombie Commando 3D | 55354 | [55354-zombie-commando-3d.json](./55354-zombie-commando-3d.json) |
 | Zombie Conspiracy: Shooter | 174750 | [174750-zombie-conspiracy-shooter.json](./174750-zombie-conspiracy-shooter.json) |
 | Zombie Cookin' | 350764 | [350764-zombie-cookin.json](./350764-zombie-cookin.json) |
 | Zombie Craft | 189916 | [189916-zombie-craft.json](./189916-zombie-craft.json) |
