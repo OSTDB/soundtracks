@@ -6077,6 +6077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN NFL 2K4 | 43471 | [43471-espn-nfl-2k4.json](./43471-espn-nfl-2k4.json) |
 | ESPN NFL 2K5 | 7881 | [7881-espn-nfl-2k5.json](./7881-espn-nfl-2k5.json) |
 | ESPN NFL Football | 8847 | [8847-espn-nfl-football.json](./8847-espn-nfl-football.json) |
+| ESPN NFL Football 2K4 | 47349 | [47349-espn-nfl-football-2k4.json](./47349-espn-nfl-football-2k4.json) |
 | ESPN NFL PrimeTime 2002 | 23447 | [23447-espn-nfl-primetime-2002.json](./23447-espn-nfl-primetime-2002.json) |
 | ESPN NHL 2K5 | 5826 | [5826-espn-nhl-2k5.json](./5826-espn-nhl-2k5.json) |
 | ESPN NHL Hockey | 8841 | [8841-espn-nhl-hockey.json](./8841-espn-nhl-hockey.json) |
