@@ -2085,6 +2085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keys of The Kingdom | 209840 | [209840-keys-of-the-kingdom.json](./209840-keys-of-the-kingdom.json) |
 | Keys to Wonderland | 399623 | [399623-keys-to-wonderland.json](./399623-keys-to-wonderland.json) |
 | Keys, Please | 272176 | [272176-keys-please.json](./272176-keys-please.json) |
+| Keyscaper | 74654 | [74654-keyscaper.json](./74654-keyscaper.json) |
 | Keysmasher Ultimate | 284739 | [284739-keysmasher-ultimate.json](./284739-keysmasher-ultimate.json) |
 | Keyspace | 321040 | [321040-keyspace.json](./321040-keyspace.json) |
 | Keystone Kapers | 12311 | [12311-keystone-kapers.json](./12311-keystone-kapers.json) |
@@ -3782,6 +3783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiniro no Korda Starlight Orchestra | 220314 | [220314-kiniro-no-korda-starlight-orchestra.json](./220314-kiniro-no-korda-starlight-orchestra.json) |
 | Kinito Ninja | 302633 | [302633-kinito-ninja.json](./302633-kinito-ninja.json) |
 | KinitoPet | 282456 | [282456-kinitopet.json](./282456-kinitopet.json) |
+| Kink | 74631 | [74631-kink.json](./74631-kink.json) |
 | Kink.inc | 237131 | [237131-kink-inc.json](./237131-kink-inc.json) |
 | Kinkey Dong | 275225 | [275225-kinkey-dong.json](./275225-kinkey-dong.json) |
 | Kinki Spiritual Affairs Bureau | 320073 | [320073-kinki-spiritual-affairs-bureau.json](./320073-kinki-spiritual-affairs-bureau.json) |
@@ -5286,6 +5288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kokuu Hyouryuu Nirgends | 45951 | [45951-kokuu-hyouryuu-nirgends.json](./45951-kokuu-hyouryuu-nirgends.json) |
 | Kola Аbyss | 377643 | [377643-kola-byss.json](./377643-kola-byss.json) |
 | Kolb Antarctica Experience | 96830 | [96830-kolb-antarctica-experience.json](./96830-kolb-antarctica-experience.json) |
+| Kolbeinn | 74648 | [74648-kolbeinn.json](./74648-kolbeinn.json) |
 | Koler | 236196 | [236196-koler.json](./236196-koler.json) |
 | Kolf | 218779 | [218779-kolf.json](./218779-kolf.json) |
 | Kolhii Champions AU | 213314 | [213314-kolhii-champions-au.json](./213314-kolhii-champions-au.json) |
@@ -6528,6 +6531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyen: The Skeleton Amulet | 402754 | [402754-kyen-the-skeleton-amulet.json](./402754-kyen-the-skeleton-amulet.json) |
 | Kyivan Rus | 214197 | [214197-kyivan-rus.json](./214197-kyivan-rus.json) |
 | Kyklos | 407088 | [407088-kyklos.json](./407088-kyklos.json) |
+| Kyklos Code | 74607 | [74607-kyklos-code.json](./74607-kyklos-code.json) |
 | Kyle & Lucy: Wonderworld | 317131 | [317131-kyle-and-lucy-wonderworld.json](./317131-kyle-and-lucy-wonderworld.json) |
 | Kyle is Famous | 126721 | [126721-kyle-is-famous.json](./126721-kyle-is-famous.json) |
 | Kyle is Famous: Complete Edition | 173138 | [173138-kyle-is-famous-complete-edition.json](./173138-kyle-is-famous-complete-edition.json) |
