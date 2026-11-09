@@ -3723,6 +3723,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrapvival | 190150 | [190150-scrapvival.json](./190150-scrapvival.json) |
 | Scrapwings | 346352 | [346352-scrapwings.json](./346352-scrapwings.json) |
 | Scrapworks Simulator | 332951 | [332951-scrapworks-simulator.json](./332951-scrapworks-simulator.json) |
+| Scrapyard | 63421 | [63421-scrapyard.json](./63421-scrapyard.json) |
 | Scrapyard Arena | 231123 | [231123-scrapyard-arena.json](./231123-scrapyard-arena.json) |
 | Scrapyard Dog | 12338 | [12338-scrapyard-dog.json](./12338-scrapyard-dog.json) |
 | Scrapyard Dog | 234652 | [234652-scrapyard-dog.json](./234652-scrapyard-dog.json) |
@@ -4809,6 +4810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secrets of the Dark: Eclipse Mountain | 313380 | [313380-secrets-of-the-dark-eclipse-mountain.json](./313380-secrets-of-the-dark-eclipse-mountain.json) |
 | Secrets of the Dark: Eclipse Mountain - Collector's Edition | 96752 | [96752-secrets-of-the-dark-eclipse-mountain-collectors-edition.json](./96752-secrets-of-the-dark-eclipse-mountain-collectors-edition.json) |
 | Secrets of the Dark: Eclipse Mountain HD | 139733 | [139733-secrets-of-the-dark-eclipse-mountain-hd.json](./139733-secrets-of-the-dark-eclipse-mountain-hd.json) |
+| Secrets of the Dark: Mystery of the Ancestral Estate | 63442 | [63442-secrets-of-the-dark-mystery-of-the-ancestral-estate.json](./63442-secrets-of-the-dark-mystery-of-the-ancestral-estate.json) |
 | Secrets of the Dark: Mystery of the Ancestral Estate & Secrets of the Dark: The Flower of Shadow | 201813 | [201813-secrets-of-the-dark-mystery-of-the-ancestral-estate-and-secrets-of-the-dark-the-flower-of-shadow.json](./201813-secrets-of-the-dark-mystery-of-the-ancestral-estate-and-secrets-of-the-dark-the-flower-of-shadow.json) |
 | Secrets of the Dark: Temple of Night | 312914 | [312914-secrets-of-the-dark-temple-of-night.json](./312914-secrets-of-the-dark-temple-of-night.json) |
 | Secrets of the Dark: The Dark Flower of Shadow - Collector's Edition | 426442 | [426442-secrets-of-the-dark-the-dark-flower-of-shadow-collectors-edition.json](./426442-secrets-of-the-dark-the-dark-flower-of-shadow-collectors-edition.json) |
@@ -6849,6 +6851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Code: Lucy | 297217 | [297217-shadow-code-lucy.json](./297217-shadow-code-lucy.json) |
 | Shadow Codex | 175153 | [175153-shadow-codex.json](./175153-shadow-codex.json) |
 | Shadow Company: Left for Dead | 22069 | [22069-shadow-company-left-for-dead.json](./22069-shadow-company-left-for-dead.json) |
+| Shadow Company: The Mercenary War | 63415 | [63415-shadow-company-the-mercenary-war.json](./63415-shadow-company-the-mercenary-war.json) |
 | Shadow Complex Remastered | 19009 | [19009-shadow-complex-remastered.json](./19009-shadow-complex-remastered.json) |
 | Shadow Corps | 55003 | [55003-shadow-corps.json](./55003-shadow-corps.json) |
 | Shadow Corridor | 172854 | [172854-shadow-corridor.json](./172854-shadow-corridor.json) |
@@ -10833,6 +10836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Nightmares: A Christmas Story | 285511 | [285511-silent-nightmares-a-christmas-story.json](./285511-silent-nightmares-a-christmas-story.json) |
 | Silent Nights | 240787 | [240787-silent-nights.json](./240787-silent-nights.json) |
 | Silent Nights: Children's Orchestra - Collector's Edition | 370925 | [370925-silent-nights-childrens-orchestra-collectors-edition.json](./370925-silent-nights-childrens-orchestra-collectors-edition.json) |
+| Silent Nights: The Pianist | 63440 | [63440-silent-nights-the-pianist.json](./63440-silent-nights-the-pianist.json) |
 | Silent Noise: Prologue | 403539 | [403539-silent-noise-prologue.json](./403539-silent-noise-prologue.json) |
 | Silent North | 279401 | [279401-silent-north.json](./279401-silent-north.json) |
 | Silent Nova | 362974 | [362974-silent-nova.json](./362974-silent-nova.json) |
@@ -13277,6 +13281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skylanders Imaginators: Destocked + Rebalanced | 383414 | [383414-skylanders-imaginators-destocked-rebalanced.json](./383414-skylanders-imaginators-destocked-rebalanced.json) |
 | Skylanders SuperChargers: Dark Edition Starter Pack | 166979 | [166979-skylanders-superchargers-dark-edition-starter-pack.json](./166979-skylanders-superchargers-dark-edition-starter-pack.json) |
 | Skylanders: Battlecast | 21563 | [21563-skylanders-battlecast.json](./21563-skylanders-battlecast.json) |
+| Skylanders: Battlegrounds | 63345 | [63345-skylanders-battlegrounds.json](./63345-skylanders-battlegrounds.json) |
 | Skylanders: Cloud Patrol | 65286 | [65286-skylanders-cloud-patrol.json](./65286-skylanders-cloud-patrol.json) |
 | Skylanders: Giants | 256679 | [256679-skylanders-giants.json](./256679-skylanders-giants.json) |
 | Skylanders: Imaginators | 19576 | [19576-skylanders-imaginators.json](./19576-skylanders-imaginators.json) |
@@ -15812,6 +15817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SnipZ | 30729 | [30729-snipz.json](./30729-snipz.json) |
 | SNK 40th Anniversary Collection | 96198 | [96198-snk-40th-anniversary-collection.json](./96198-snk-40th-anniversary-collection.json) |
 | SNK Allstar | 139008 | [139008-snk-allstar.json](./139008-snk-allstar.json) |
+| SNK Arcade Classics 0 | 63431 | [63431-snk-arcade-classics-0.json](./63431-snk-arcade-classics-0.json) |
 | SNK Fighting Legends | 149285 | [149285-snk-fighting-legends.json](./149285-snk-fighting-legends.json) |
 | SNK Fighting Legends: Collector's Edition | 163143 | [163143-snk-fighting-legends-collectors-edition.json](./163143-snk-fighting-legends-collectors-edition.json) |
 | SNK Gals' Fighters | 43983 | [43983-snk-gals-fighters.json](./43983-snk-gals-fighters.json) |
@@ -16914,6 +16920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar System Journey VR | 43108 | [43108-solar-system-journey-vr.json](./43108-solar-system-journey-vr.json) |
 | Solar System Simulator | 293117 | [293117-solar-system-simulator.json](./293117-solar-system-simulator.json) |
 | Solar Systems For Kids | 257457 | [257457-solar-systems-for-kids.json](./257457-solar-systems-for-kids.json) |
+| Solar Tempest | 63340 | [63340-solar-tempest.json](./63340-solar-tempest.json) |
 | Solar Voltage | 310909 | [310909-solar-voltage.json](./310909-solar-voltage.json) |
 | Solar War | 273421 | [273421-solar-war.json](./273421-solar-war.json) |
 | Solar War | 35982 | [35982-solar-war.json](./35982-solar-war.json) |
@@ -20575,6 +20582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pilot '89 | 13758 | [13758-space-pilot-89.json](./13758-space-pilot-89.json) |
 | Space Pilot 2 | 25723 | [25723-space-pilot-2.json](./25723-space-pilot-2.json) |
 | Space Pilot Alliance | 182834 | [182834-space-pilot-alliance.json](./182834-space-pilot-alliance.json) |
+| Space Pilot II | 63426 | [63426-space-pilot-ii.json](./63426-space-pilot-ii.json) |
 | Space Pinball | 50595 | [50595-space-pinball.json](./50595-space-pinball.json) |
 | Space Pioneer | 95073 | [95073-space-pioneer.json](./95073-space-pioneer.json) |
 | Space Pirate Amai | 107513 | [107513-space-pirate-amai.json](./107513-space-pirate-amai.json) |
