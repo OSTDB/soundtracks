@@ -3050,6 +3050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mana Gloom | 142175 | [142175-mana-gloom.json](./142175-mana-gloom.json) |
 | Mana Go Round | 167814 | [167814-mana-go-round.json](./167814-mana-go-round.json) |
 | Mana Khemia 2: Fall of Alchemy | 24320 | [24320-mana-khemia-2-fall-of-alchemy.json](./24320-mana-khemia-2-fall-of-alchemy.json) |
+| Mana Khemia 2: Fall of Alchemy Portable Plus | 42740 | [42740-mana-khemia-2-fall-of-alchemy-portable-plus.json](./42740-mana-khemia-2-fall-of-alchemy-portable-plus.json) |
 | Mana Khemia: Alchemists of Al-Revis | 20996 | [20996-mana-khemia-alchemists-of-al-revis.json](./20996-mana-khemia-alchemists-of-al-revis.json) |
 | Mana Khemia: Alchemists of Al-Revis - Premium Edition | 43308 | [43308-mana-khemia-alchemists-of-al-revis-premium-edition.json](./43308-mana-khemia-alchemists-of-al-revis-premium-edition.json) |
 | Mana Land | 369063 | [369063-mana-land.json](./369063-mana-land.json) |
@@ -10120,6 +10121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Solid: Lunacy of Legion | 351216 | [351216-metal-gear-solid-lunacy-of-legion.json](./351216-metal-gear-solid-lunacy-of-legion.json) |
 | Metal Gear Solid: Master Collection Version | 393638 | [393638-metal-gear-solid-master-collection-version.json](./393638-metal-gear-solid-master-collection-version.json) |
 | Metal Gear Solid: Peace Walker | 382 | [382-metal-gear-solid-peace-walker.json](./382-metal-gear-solid-peace-walker.json) |
+| Metal Gear Solid: Peace Walker - Collector's Edition | 42712 | [42712-metal-gear-solid-peace-walker-collectors-edition.json](./42712-metal-gear-solid-peace-walker-collectors-edition.json) |
 | Metal Gear Solid: Peace Walker - HD Edition | 45178 | [45178-metal-gear-solid-peace-walker-hd-edition.json](./45178-metal-gear-solid-peace-walker-hd-edition.json) |
 | Metal Gear Solid: Peace Walker - Master Collection Version | 391792 | [391792-metal-gear-solid-peace-walker-master-collection-version.json](./391792-metal-gear-solid-peace-walker-master-collection-version.json) |
 | Metal Gear Solid: Portable Ops | 381 | [381-metal-gear-solid-portable-ops.json](./381-metal-gear-solid-portable-ops.json) |
@@ -12391,6 +12393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mima's Magical Wardrobe | 325817 | [325817-mimas-magical-wardrobe.json](./325817-mimas-magical-wardrobe.json) |
 | Mimamo-Roll! | 395969 | [395969-mimamo-roll.json](./395969-mimamo-roll.json) |
 | Mimana Iyar Chronicle | 80165 | [80165-mimana-iyar-chronicle.json](./80165-mimana-iyar-chronicle.json) |
+| Mimana Iyar Chronicle: First Edition | 42711 | [42711-mimana-iyar-chronicle-first-edition.json](./42711-mimana-iyar-chronicle-first-edition.json) |
 | MimeDrink: The drinking game | 237003 | [237003-mimedrink-the-drinking-game.json](./237003-mimedrink-the-drinking-game.json) |
 | Mimelet | 187784 | [187784-mimelet.json](./187784-mimelet.json) |
 | Mimesis | 343183 | [343183-mimesis.json](./343183-mimesis.json) |
@@ -16915,6 +16918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters | 314359 | [314359-monsters.json](./314359-monsters.json) |
 | Monsters 'N Trucks | 213090 | [213090-monsters-n-trucks.json](./213090-monsters-n-trucks.json) |
 | Monsters 'til Midnight | 236220 | [236220-monsters-til-midnight.json](./236220-monsters-til-midnight.json) |
+| Monsters (Probably) Stole My Princess | 42743 | [42743-monsters-probably-stole-my-princess.json](./42743-monsters-probably-stole-my-princess.json) |
 | Monsters & Anomaly | 112692 | [112692-monsters-and-anomaly.json](./112692-monsters-and-anomaly.json) |
 | Monsters & Memories | 233978 | [233978-monsters-and-memories.json](./233978-monsters-and-memories.json) |
 | Monsters & Munitions | 16720 | [16720-monsters-and-munitions.json](./16720-monsters-and-munitions.json) |
