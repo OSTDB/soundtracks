@@ -5766,6 +5766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Investment Hero | 130579 | [130579-investment-hero.json](./130579-investment-hero.json) |
 | Investment Run | 319166 | [319166-investment-run.json](./319166-investment-run.json) |
 | Investour | 367050 | [367050-investour.json](./367050-investour.json) |
+| Invicta Beam | 27965 | [27965-invicta-beam.json](./27965-invicta-beam.json) |
 | Invictus | 124489 | [124489-invictus.json](./124489-invictus.json) |
 | Invictus: In the Shadow of Olympus | 24126 | [24126-invictus-in-the-shadow-of-olympus.json](./24126-invictus-in-the-shadow-of-olympus.json) |
 | Invincible Big Cat | 275382 | [275382-invincible-big-cat.json](./275382-invincible-big-cat.json) |
