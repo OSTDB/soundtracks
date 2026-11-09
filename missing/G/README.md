@@ -691,6 +691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Realms: Quest for the Forgotten | 400406 | [400406-galactic-realms-quest-for-the-forgotten.json](./400406-galactic-realms-quest-for-the-forgotten.json) |
 | Galactic Reign | 63665 | [63665-galactic-reign.json](./63665-galactic-reign.json) |
 | Galactic Revolution | 125315 | [125315-galactic-revolution.json](./125315-galactic-revolution.json) |
+| Galactic Revolution | 25345 | [25345-galactic-revolution.json](./25345-galactic-revolution.json) |
 | Galactic Rivalry | 25761 | [25761-galactic-rivalry.json](./25761-galactic-rivalry.json) |
 | Galactic Ruler | 126926 | [126926-galactic-ruler.json](./126926-galactic-ruler.json) |
 | Galactic Rusherz | 314667 | [314667-galactic-rusherz.json](./314667-galactic-rusherz.json) |
@@ -711,6 +712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Taz Ball | 23643 | [23643-galactic-taz-ball.json](./23643-galactic-taz-ball.json) |
 | Galactic Thunderdome | 211536 | [211536-galactic-thunderdome.json](./211536-galactic-thunderdome.json) |
 | Galactic Tower Defense | 114096 | [114096-galactic-tower-defense.json](./114096-galactic-tower-defense.json) |
+| Galactic Trader | 25344 | [25344-galactic-trader.json](./25344-galactic-trader.json) |
 | Galactic Traffic Control | 325839 | [325839-galactic-traffic-control.json](./325839-galactic-traffic-control.json) |
 | Galactic Tree Frog | 109906 | [109906-galactic-tree-frog.json](./109906-galactic-tree-frog.json) |
 | Galactic Trooper | 14086 | [14086-galactic-trooper.json](./14086-galactic-trooper.json) |
@@ -10473,6 +10475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GT Racing: Motor Academy | 372779 | [372779-gt-racing-motor-academy.json](./372779-gt-racing-motor-academy.json) |
 | GT Ride | 233749 | [233749-gt-ride.json](./233749-gt-ride.json) |
 | GT Rivals | 410437 | [410437-gt-rivals.json](./410437-gt-rivals.json) |
+| GT-R 400 | 25287 | [25287-gt-r-400.json](./25287-gt-r-400.json) |
 | GT-R Touring | 232412 | [232412-gt-r-touring.json](./232412-gt-r-touring.json) |
 | GTA Long Night | 309592 | [309592-gta-long-night.json](./309592-gta-long-night.json) |
 | GTA: La Heist | 121176 | [121176-gta-la-heist.json](./121176-gta-la-heist.json) |
