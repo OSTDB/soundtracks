@@ -3960,6 +3960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 18: Young Stars Deluxe Edition | 85253 | [85253-nhl-18-young-stars-deluxe-edition.json](./85253-nhl-18-young-stars-deluxe-edition.json) |
 | NHL 18: Young Stars Edition | 85230 | [85230-nhl-18-young-stars-edition.json](./85230-nhl-18-young-stars-edition.json) |
 | NHL 19: Ultimate Edition | 61636 | [61636-nhl-19-ultimate-edition.json](./61636-nhl-19-ultimate-edition.json) |
+| NHL 20 | 119947 | [119947-nhl-20.json](./119947-nhl-20.json) |
 | NHL 20: Deluxe Edition | 128387 | [128387-nhl-20-deluxe-edition.json](./128387-nhl-20-deluxe-edition.json) |
 | NHL 20: Ultimate Edition | 128388 | [128388-nhl-20-ultimate-edition.json](./128388-nhl-20-ultimate-edition.json) |
 | NHL 2000 | 813 | [813-nhl-2000.json](./813-nhl-2000.json) |
@@ -3968,6 +3969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL 2002 | 815 | [815-nhl-2002.json](./815-nhl-2002.json) |
 | NHL 2004 | 816 | [816-nhl-2004.json](./816-nhl-2004.json) |
 | NHL 2005 | 4043 | [4043-nhl-2005.json](./4043-nhl-2005.json) |
+| NHL 21 | 138538 | [138538-nhl-21.json](./138538-nhl-21.json) |
 | NHL 21: Deluxe Edition | 140900 | [140900-nhl-21-deluxe-edition.json](./140900-nhl-21-deluxe-edition.json) |
 | NHL 21: Great Eight Edition | 140901 | [140901-nhl-21-great-eight-edition.json](./140901-nhl-21-great-eight-edition.json) |
 | NHL 21: Rewind Bundle | 142607 | [142607-nhl-21-rewind-bundle.json](./142607-nhl-21-rewind-bundle.json) |
