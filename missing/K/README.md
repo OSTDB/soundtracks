@@ -2308,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kid Kirby Recreated | 417293 | [417293-kid-kirby-recreated.json](./417293-kid-kirby-recreated.json) |
 | Kid Klown in Crazy Chase | 6349 | [6349-kid-klown-in-crazy-chase.json](./6349-kid-klown-in-crazy-chase.json) |
 | Kid Klown in Crazy Chase 2: Love Love Hani Soudatsusen | 64508 | [64508-kid-klown-in-crazy-chase-2-love-love-hani-soudatsusen.json](./64508-kid-klown-in-crazy-chase-2-love-love-hani-soudatsusen.json) |
+| Kid Kool and the Quest for the Seven Wonder Herbs | 48150 | [48150-kid-kool-and-the-quest-for-the-seven-wonder-herbs.json](./48150-kid-kool-and-the-quest-for-the-seven-wonder-herbs.json) |
 | Kid Meat | 152806 | [152806-kid-meat.json](./152806-kid-meat.json) |
 | Kid Monkey: Banana Frenzy | 234549 | [234549-kid-monkey-banana-frenzy.json](./234549-kid-monkey-banana-frenzy.json) |
 | Kid Mystic: Enchanted Edition | 378206 | [378206-kid-mystic-enchanted-edition.json](./378206-kid-mystic-enchanted-edition.json) |
@@ -2912,7 +2913,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3169,6 +3169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King Lucas | 26371 | [26371-king-lucas.json](./26371-king-lucas.json) |
 | King Machine | 31514 | [31514-king-machine.json](./31514-king-machine.json) |
 | King Must Survive | 290201 | [290201-king-must-survive.json](./290201-king-must-survive.json) |
+| King Neptune's Adventure | 48149 | [48149-king-neptunes-adventure.json](./48149-king-neptunes-adventure.json) |
 | King NooB | 180054 | [180054-king-noob.json](./180054-king-noob.json) |
 | King Oddball | 20079 | [20079-king-oddball.json](./20079-king-oddball.json) |
 | King Oddball Ends the World | 52532 | [52532-king-oddball-ends-the-world.json](./52532-king-oddball-ends-the-world.json) |
@@ -3219,6 +3220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Kings | 231927 | [231927-king-of-kings.json](./231927-king-of-kings.json) |
 | King of Kings | 48721 | [48721-king-of-kings.json](./48721-king-of-kings.json) |
 | King of Kings 3 | 54155 | [54155-king-of-kings-3.json](./54155-king-of-kings-3.json) |
+| King of Kings: The Early Years | 48148 | [48148-king-of-kings-the-early-years.json](./48148-king-of-kings-the-early-years.json) |
 | King of Kinks | 195121 | [195121-king-of-kinks.json](./195121-king-of-kinks.json) |
 | King of Kung Fu | 285918 | [285918-king-of-kung-fu.json](./285918-king-of-kung-fu.json) |
 | King of Kung Fu | 50280 | [50280-king-of-kung-fu.json](./50280-king-of-kung-fu.json) |
@@ -4377,6 +4379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiwi Hop | 306716 | [306716-kiwi-hop.json](./306716-kiwi-hop.json) |
 | Kiwi In Arms | 306718 | [306718-kiwi-in-arms.json](./306718-kiwi-in-arms.json) |
 | Kiwi Khaos | 306715 | [306715-kiwi-khaos.json](./306715-kiwi-khaos.json) |
+| Kiwi Kraze: A Bird-Brained Adventure! | 48147 | [48147-kiwi-kraze-a-bird-brained-adventure.json](./48147-kiwi-kraze-a-bird-brained-adventure.json) |
 | Kiwi Life | 306713 | [306713-kiwi-life.json](./306713-kiwi-life.json) |
 | Kiwi: Airborne | 306690 | [306690-kiwi-airborne.json](./306690-kiwi-airborne.json) |
 | Kiwi'n | 309450 | [309450-kiwin.json](./309450-kiwin.json) |
