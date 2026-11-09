@@ -1840,6 +1840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vexle | 409228 | [409228-vexle.json](./409228-vexle.json) |
 | Vexperience - B.E.T.H. & Vecsports Boxing | 37535 | [37535-vexperience-b-e-t-h-and-vecsports-boxing.json](./37535-vexperience-b-e-t-h-and-vecsports-boxing.json) |
 | Vext Edit | 249648 | [249648-vext-edit.json](./249648-vext-edit.json) |
+| Vextar | 57780 | [57780-vextar.json](./57780-vextar.json) |
 | Vextorial | 324165 | [324165-vextorial.json](./324165-vextorial.json) |
 | Veylora | 382407 | [382407-veylora.json](./382407-veylora.json) |
 | Veyora | 386298 | [386298-veyora.json](./386298-veyora.json) |
