@@ -48,6 +48,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-19 Stealth Fighter | 10206 | [10206-f-19-stealth-fighter.json](./10206-f-19-stealth-fighter.json) |
 | F-22 Air Dominance Fighter | 693 | [693-f-22-air-dominance-fighter.json](./693-f-22-air-dominance-fighter.json) |
 | F-22 Interceptor | 19494 | [19494-f-22-interceptor.json](./19494-f-22-interceptor.json) |
+| F-22 Lightning 3 | 71832 | [71832-f-22-lightning-3.json](./71832-f-22-lightning-3.json) |
 | F-22 Raptor | 70468 | [70468-f-22-raptor.json](./70468-f-22-raptor.json) |
 | F-22 Total Air War | 47118 | [47118-f-22-total-air-war.json](./47118-f-22-total-air-war.json) |
 | F-22: Air Dominance Fighter | 392370 | [392370-f-22-air-dominance-fighter.json](./392370-f-22-air-dominance-fighter.json) |
@@ -2362,6 +2363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far from the Tree | 184312 | [184312-far-from-the-tree.json](./184312-far-from-the-tree.json) |
 | Far Future Sadness | 137317 | [137317-far-future-sadness.json](./137317-far-future-sadness.json) |
 | Far Future Tourism | 133994 | [133994-far-future-tourism.json](./133994-far-future-tourism.json) |
+| Far Gate | 71685 | [71685-far-gate.json](./71685-far-gate.json) |
 | Far Horizon | 291163 | [291163-far-horizon.json](./291163-far-horizon.json) |
 | Far Lands | 189367 | [189367-far-lands.json](./189367-far-lands.json) |
 | Far Lands | 411567 | [411567-far-lands.json](./411567-far-lands.json) |
@@ -12915,6 +12917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Front Page Sports: Baseball '94 | 68960 | [68960-front-page-sports-baseball-94.json](./68960-front-page-sports-baseball-94.json) |
 | Front Page Sports: Baseball Pro '96 Season | 81468 | [81468-front-page-sports-baseball-pro-96-season.json](./81468-front-page-sports-baseball-pro-96-season.json) |
 | Front Page Sports: Baseball Pro '98 | 100133 | [100133-front-page-sports-baseball-pro-98.json](./100133-front-page-sports-baseball-pro-98.json) |
+| Front Page Sports: Football | 71699 | [71699-front-page-sports-football.json](./71699-front-page-sports-football.json) |
 | Front Page Sports: Football Pro '95 | 77041 | [77041-front-page-sports-football-pro-95.json](./77041-front-page-sports-football-pro-95.json) |
 | Front Page Sports: Golf | 71046 | [71046-front-page-sports-golf.json](./71046-front-page-sports-golf.json) |
 | Front Page Sports: Golf - Black Diamond Ranch | 209581 | [209581-front-page-sports-golf-black-diamond-ranch.json](./209581-front-page-sports-golf-black-diamond-ranch.json) |
