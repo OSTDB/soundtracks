@@ -5219,6 +5219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TetrotronVR | 114971 | [114971-tetrotronvr.json](./114971-tetrotronvr.json) |
 | Tetrux: Online | 114172 | [114172-tetrux-online.json](./114172-tetrux-online.json) |
 | Tetrx 360: Eons of Time | 385994 | [385994-tetrx-360-eons-of-time.json](./385994-tetrx-360-eons-of-time.json) |
+| Tetsoidea Eternal | 52074 | [52074-tetsoidea-eternal.json](./52074-tetsoidea-eternal.json) |
 | Tetsu 1: Densha de Battle! | 265849 | [265849-tetsu-1-densha-de-battle.json](./265849-tetsu-1-densha-de-battle.json) |
 | Tetsu-pipe de Suika-wari | 220315 | [220315-tetsu-pipe-de-suika-wari.json](./220315-tetsu-pipe-de-suika-wari.json) |
 | Tetsudou Musume DS: Terminal Memory | 71883 | [71883-tetsudou-musume-ds-terminal-memory.json](./71883-tetsudou-musume-ds-terminal-memory.json) |
@@ -7603,6 +7604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Climate Trail | 122332 | [122332-the-climate-trail.json](./122332-the-climate-trail.json) |
 | The Climb 2 | 144372 | [144372-the-climb-2.json](./144372-the-climb-2.json) |
 | The Climb: North | 26269 | [26269-the-climb-north.json](./26269-the-climb-north.json) |
+| The Climber | 52069 | [52069-the-climber.json](./52069-the-climber.json) |
 | The Climbest | 182538 | [182538-the-climbest.json](./182538-the-climbest.json) |
 | The Clique: Queen Teen | 76969 | [76969-the-clique-queen-teen.json](./76969-the-clique-queen-teen.json) |
 | The Clock Chronicle | 182915 | [182915-the-clock-chronicle.json](./182915-the-clock-chronicle.json) |
@@ -10248,6 +10250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game With No Name | 73673 | [73673-the-game-with-no-name.json](./73673-the-game-with-no-name.json) |
 | The Game: Play ... as long as you can! | 200251 | [200251-the-game-play-as-long-as-you-can.json](./200251-the-game-play-as-long-as-you-can.json) |
 | The Game: The Game | 393488 | [393488-the-game-the-game.json](./393488-the-game-the-game.json) |
+| The Gamer Challenge | 52056 | [52056-the-gamer-challenge.json](./52056-the-gamer-challenge.json) |
 | The Games '92: España | 96508 | [96508-the-games-92-espana.json](./96508-the-games-92-espana.json) |
 | The Games People Play: Gin, Cribbage, Checkers, and Backgammon | 69927 | [69927-the-games-people-play-gin-cribbage-checkers-and-backgammon.json](./69927-the-games-people-play-gin-cribbage-checkers-and-backgammon.json) |
 | The Games You Make | 314395 | [314395-the-games-you-make.json](./314395-the-games-you-make.json) |
@@ -15901,6 +15904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ranchers | 142498 | [142498-the-ranchers.json](./142498-the-ranchers.json) |
 | The Ranger: A Skyhopper Tale | 226542 | [226542-the-ranger-a-skyhopper-tale.json](./226542-the-ranger-a-skyhopper-tale.json) |
 | The Ranger: Border Hunt | 297848 | [297848-the-ranger-border-hunt.json](./297848-the-ranger-border-hunt.json) |
+| The Ranger: Lost Tribe | 52057 | [52057-the-ranger-lost-tribe.json](./52057-the-ranger-lost-tribe.json) |
 | The Ransom of Atawallpa | 337644 | [337644-the-ransom-of-atawallpa.json](./337644-the-ransom-of-atawallpa.json) |
 | The Raphael Parable | 305306 | [305306-the-raphael-parable.json](./305306-the-raphael-parable.json) |
 | The Rapid Treasure Escape | 176325 | [176325-the-rapid-treasure-escape.json](./176325-the-rapid-treasure-escape.json) |
@@ -16296,6 +16300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rounds of Six | 419646 | [419646-the-rounds-of-six.json](./419646-the-rounds-of-six.json) |
 | The Route | 266320 | [266320-the-route.json](./266320-the-route.json) |
 | The Roy Game | 192589 | [192589-the-roy-game.json](./192589-the-roy-game.json) |
+| The Royal Cosmonautical Society | 52054 | [52054-the-royal-cosmonautical-society.json](./52054-the-royal-cosmonautical-society.json) |
 | The Royal Finale | 313687 | [313687-the-royal-finale.json](./313687-the-royal-finale.json) |
 | The Royal Game of Ur | 73500 | [73500-the-royal-game-of-ur.json](./73500-the-royal-game-of-ur.json) |
 | The Royal Game of Ur 3D | 186692 | [186692-the-royal-game-of-ur-3d.json](./186692-the-royal-game-of-ur-3d.json) |
