@@ -1353,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 18 Wheels of Steel: Pedal to the Metal | 37046 | [37046-18-wheels-of-steel-pedal-to-the-metal.json](./37046-18-wheels-of-steel-pedal-to-the-metal.json) |
 | 18: Dream World | 56137 | [56137-18-dream-world.json](./56137-18-dream-world.json) |
 | 18+ | 219040 | [219040-18.json](./219040-18.json) |
+| 180 Darts | 45322 | [45322-180-darts.json](./45322-180-darts.json) |
 | 180 Files: The Aegis Project | 132419 | [132419-180-files-the-aegis-project.json](./132419-180-files-the-aegis-project.json) |
 | 180 Minutes Pour Vivre | 257420 | [257420-180-minutes-pour-vivre.json](./257420-180-minutes-pour-vivre.json) |
 | 180 Seconds | 203861 | [203861-180-seconds.json](./203861-180-seconds.json) |
@@ -2087,6 +2088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2Xtreme | 305796 | [305796-2xtreme.json](./305796-2xtreme.json) |
 | 2Xtreme | 45105 | [45105-2xtreme.json](./45105-2xtreme.json) |
 | 3 | 169088 | [169088-3.json](./169088-3.json) |
+| 3 2 1 Quiz Game | 45321 | [45321-3-2-1-quiz-game.json](./45321-3-2-1-quiz-game.json) |
 | 3 Beards | 74825 | [74825-3-beards.json](./74825-3-beards.json) |
 | 3 BigEggs | 99572 | [99572-3-bigeggs.json](./99572-3-bigeggs.json) |
 | 3 Billion Dreams for a Forgiveness Machine | 229539 | [229539-3-billion-dreams-for-a-forgiveness-machine.json](./229539-3-billion-dreams-for-a-forgiveness-machine.json) |
@@ -2610,6 +2612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Spades Deluxe | 205952 | [205952-3d-spades-deluxe.json](./205952-3d-spades-deluxe.json) |
 | 3D Star Fighter | 279697 | [279697-3d-star-fighter.json](./279697-3d-star-fighter.json) |
 | 3D Starstrike | 13271 | [13271-3d-starstrike.json](./13271-3d-starstrike.json) |
+| 3D Starstrike II | 45341 | [45341-3d-starstrike-ii.json](./45341-3d-starstrike-ii.json) |
 | 3D Stereo Studio | 80505 | [80505-3d-stereo-studio.json](./80505-3d-stereo-studio.json) |
 | 3D Stock Car Championship | 73294 | [73294-3d-stock-car-championship.json](./73294-3d-stock-car-championship.json) |
 | 3D Stock Cars II | 365794 | [365794-3d-stock-cars-ii.json](./365794-3d-stock-cars-ii.json) |
