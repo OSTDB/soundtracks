@@ -8177,6 +8177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Blaster DX | 405916 | [405916-pixel-blaster-dx.json](./405916-pixel-blaster-dx.json) |
 | Pixel Blitz - Impossible Runner | 86913 | [86913-pixel-blitz-impossible-runner.json](./86913-pixel-blitz-impossible-runner.json) |
 | Pixel Blocked! | 92491 | [92491-pixel-blocked.json](./92491-pixel-blocked.json) |
+| Pixel Boarder | 66999 | [66999-pixel-boarder.json](./66999-pixel-boarder.json) |
 | Pixel Boat Rush | 91110 | [91110-pixel-boat-rush.json](./91110-pixel-boat-rush.json) |
 | Pixel Bomb! Bomb!! | 30171 | [30171-pixel-bomb-bomb.json](./30171-pixel-bomb-bomb.json) |
 | Pixel Bombs | 111871 | [111871-pixel-bombs.json](./111871-pixel-bombs.json) |
@@ -10265,6 +10266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlazaSoup | 408908 | [408908-plazasoup.json](./408908-plazasoup.json) |
 | Plazma Burst 2 | 112404 | [112404-plazma-burst-2.json](./112404-plazma-burst-2.json) |
 | Plazma Burst: Forward to the Past | 124039 | [124039-plazma-burst-forward-to-the-past.json](./124039-plazma-burst-forward-to-the-past.json) |
+| Plazma Line | 67546 | [67546-plazma-line.json](./67546-plazma-line.json) |
 | Plead with the Mountain God | 177293 | [177293-plead-with-the-mountain-god.json](./177293-plead-with-the-mountain-god.json) |
 | Pleasant Vibes from the Party Garage | 260497 | [260497-pleasant-vibes-from-the-party-garage.json](./260497-pleasant-vibes-from-the-party-garage.json) |
 | Please | 134675 | [134675-please.json](./134675-please.json) |
