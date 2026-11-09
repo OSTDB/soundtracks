@@ -725,6 +725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lancer Tactics | 375255 | [375255-lancer-tactics.json](./375255-lancer-tactics.json) |
 | Land Above Sea Below | 197434 | [197434-land-above-sea-below.json](./197434-land-above-sea-below.json) |
 | Land Air Sea Warfare HD | 109017 | [109017-land-air-sea-warfare-hd.json](./109017-land-air-sea-warfare-hd.json) |
+| Land Battle | 41473 | [41473-land-battle.json](./41473-land-battle.json) |
 | Land Before Time: Adventure Valley | 318945 | [318945-land-before-time-adventure-valley.json](./318945-land-before-time-adventure-valley.json) |
 | Land Builder | 341810 | [341810-land-builder.json](./341810-land-builder.json) |
 | Land Crashers | 114711 | [114711-land-crashers.json](./114711-land-crashers.json) |
@@ -2377,6 +2378,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learning Factory | 137918 | [137918-learning-factory.json](./137918-learning-factory.json) |
 | Learning Factory: Curious Mind Edition | 221489 | [221489-learning-factory-curious-mind-edition.json](./221489-learning-factory-curious-mind-edition.json) |
 | Learning Factory: True Engineer Edition | 221488 | [221488-learning-factory-true-engineer-edition.json](./221488-learning-factory-true-engineer-edition.json) |
+| Learning Fun I | 41432 | [41432-learning-fun-i.json](./41432-learning-fun-i.json) |
+| Learning Fun II | 41431 | [41431-learning-fun-ii.json](./41431-learning-fun-ii.json) |
 | Learning Game Scholastic Outwit | 69045 | [69045-learning-game-scholastic-outwit.json](./69045-learning-game-scholastic-outwit.json) |
 | Learning Geography: Countries of the World | 217468 | [217468-learning-geography-countries-of-the-world.json](./217468-learning-geography-countries-of-the-world.json) |
 | Learning jigsaw: Animals | 154307 | [154307-learning-jigsaw-animals.json](./154307-learning-jigsaw-animals.json) |
