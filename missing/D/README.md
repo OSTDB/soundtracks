@@ -11741,6 +11741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Do you have Akira points? | 159590 | [159590-do-you-have-akira-points.json](./159590-do-you-have-akira-points.json) |
 | Do you know de way | 89966 | [89966-do-you-know-de-way.json](./89966-do-you-know-de-way.json) |
 | Do You Know Kimchi? | 311852 | [311852-do-you-know-kimchi.json](./311852-do-you-know-kimchi.json) |
+| Do You Like Horny Bunnies? 2 | 72261 | [72261-do-you-like-horny-bunnies-2.json](./72261-do-you-like-horny-bunnies-2.json) |
 | Do You Like Horny Bunnies? Complete Collection | 201172 | [201172-do-you-like-horny-bunnies-complete-collection.json](./201172-do-you-like-horny-bunnies-complete-collection.json) |
 | Do You Like Italian Food? | 407383 | [407383-do-you-like-italian-food.json](./407383-do-you-like-italian-food.json) |
 | Do You Really Know? | 390777 | [390777-do-you-really-know.json](./390777-do-you-really-know.json) |
@@ -15213,6 +15214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: XKeeperZ | 98436 | [98436-dragon-ball-z-xkeeperz.json](./98436-dragon-ball-z-xkeeperz.json) |
 | Dragon Ball Z: Z-senshi Daishugyou! | 346787 | [346787-dragon-ball-z-z-senshi-daishugyou.json](./346787-dragon-ball-z-z-senshi-daishugyou.json) |
 | Dragon Ball: Advanced Adventure | 6386 | [6386-dragon-ball-advanced-adventure.json](./6386-dragon-ball-advanced-adventure.json) |
+| Dragon Ball: Daimaou Fukkatsu | 72395 | [72395-dragon-ball-daimaou-fukkatsu.json](./72395-dragon-ball-daimaou-fukkatsu.json) |
 | Dragon Ball: Dragon Daihikyou | 66405 | [66405-dragon-ball-dragon-daihikyou.json](./66405-dragon-ball-dragon-daihikyou.json) |
 | Dragon Ball: Final Bout | 128863 | [128863-dragon-ball-final-bout.json](./128863-dragon-ball-final-bout.json) |
 | Dragon Ball: Kachinuke! Tenkaichi Budokai | 199448 | [199448-dragon-ball-kachinuke-tenkaichi-budokai.json](./199448-dragon-ball-kachinuke-tenkaichi-budokai.json) |
