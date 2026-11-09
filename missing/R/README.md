@@ -780,6 +780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radix | 221658 | [221658-radix.json](./221658-radix.json) |
 | Radix Chronicle | 251779 | [251779-radix-chronicle.json](./251779-radix-chronicle.json) |
 | Radix Tale | 367684 | [367684-radix-tale.json](./367684-radix-tale.json) |
+| Radix: Beyond the Void | 11628 | [11628-radix-beyond-the-void.json](./11628-radix-beyond-the-void.json) |
 | Radland | 310876 | [310876-radland.json](./310876-radland.json) |
 | Radley Ravencroft's Spy Web Mystery | 343287 | [343287-radley-ravencrofts-spy-web-mystery.json](./343287-radley-ravencrofts-spy-web-mystery.json) |
 | Radon Blast | 144717 | [144717-radon-blast.json](./144717-radon-blast.json) |
@@ -9572,6 +9573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rock 'N Roll: G.E.O.S. Wars | 170880 | [170880-rock-n-roll-g-e-o-s-wars.json](./170880-rock-n-roll-g-e-o-s-wars.json) |
 | Rock 'N Roller | 333332 | [333332-rock-n-roller.json](./333332-rock-n-roller.json) |
 | Rock 'n Shaolin: Legend of the Seven Paladins 3D | 159188 | [159188-rock-n-shaolin-legend-of-the-seven-paladins-3d.json](./159188-rock-n-shaolin-legend-of-the-seven-paladins-3d.json) |
+| Rock 'n' Roll | 11722 | [11722-rock-n-roll.json](./11722-rock-n-roll.json) |
 | Rock 'n' Roll Adventures | 5125 | [5125-rock-n-roll-adventures.json](./5125-rock-n-roll-adventures.json) |
 | Rock 'N' Roll Clams | 289170 | [289170-rock-n-roll-clams.json](./289170-rock-n-roll-clams.json) |
 | Rock 'N' Roll Defense | 33583 | [33583-rock-n-roll-defense.json](./33583-rock-n-roll-defense.json) |
