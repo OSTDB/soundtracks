@@ -696,6 +696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops | 135299 | [135299-call-of-duty-black-ops.json](./135299-call-of-duty-black-ops.json) |
 | Call of Duty: Black Ops | 343819 | [343819-call-of-duty-black-ops.json](./343819-call-of-duty-black-ops.json) |
 | Call of Duty: Black Ops - Annihilation | 22636 | [22636-call-of-duty-black-ops-annihilation.json](./22636-call-of-duty-black-ops-annihilation.json) |
+| Call of Duty: Black Ops - Declassified | 8548 | [8548-call-of-duty-black-ops-declassified.json](./8548-call-of-duty-black-ops-declassified.json) |
 | Call of Duty: Black Ops - Escalation | 22945 | [22945-call-of-duty-black-ops-escalation.json](./22945-call-of-duty-black-ops-escalation.json) |
 | Call of Duty: Black Ops - Gold Edition | 118925 | [118925-call-of-duty-black-ops-gold-edition.json](./118925-call-of-duty-black-ops-gold-edition.json) |
 | Call of Duty: Black Ops - Hardened Edition | 47476 | [47476-call-of-duty-black-ops-hardened-edition.json](./47476-call-of-duty-black-ops-hardened-edition.json) |
@@ -3555,6 +3556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casper | 215182 | [215182-casper.json](./215182-casper.json) |
 | Casper | 215184 | [215184-casper.json](./215184-casper.json) |
 | Casper | 215185 | [215185-casper.json](./215185-casper.json) |
+| Casper | 6345 | [6345-casper.json](./6345-casper.json) |
 | Casper | 83245 | [83245-casper.json](./83245-casper.json) |
 | Casper and the Ghostly Trio | 83232 | [83232-casper-and-the-ghostly-trio.json](./83232-casper-and-the-ghostly-trio.json) |
 | Casper Brainy Book | 125318 | [125318-casper-brainy-book.json](./125318-casper-brainy-book.json) |
@@ -7711,6 +7713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Child of Aether | 219999 | [219999-child-of-aether.json](./219999-child-of-aether.json) |
 | Child of Ault | 30196 | [30196-child-of-ault.json](./30196-child-of-ault.json) |
 | Child of Cooper | 59611 | [59611-child-of-cooper.json](./59611-child-of-cooper.json) |
+| Child of Eden | 6936 | [6936-child-of-eden.json](./6936-child-of-eden.json) |
 | Child of Hope | 190228 | [190228-child-of-hope.json](./190228-child-of-hope.json) |
 | Child of Light: Dark Aurora Pack | 160279 | [160279-child-of-light-dark-aurora-pack.json](./160279-child-of-light-dark-aurora-pack.json) |
 | Child of Light: Deluxe Edition | 129501 | [129501-child-of-light-deluxe-edition.json](./129501-child-of-light-deluxe-edition.json) |
@@ -11786,6 +11789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Name: MA | 174835 | [174835-code-name-ma.json](./174835-code-name-ma.json) |
 | Code Name: Origin | 76803 | [76803-code-name-origin.json](./76803-code-name-origin.json) |
 | Code Name: Romance | 214838 | [214838-code-name-romance.json](./214838-code-name-romance.json) |
+| Code Name: S.T.E.A.M. | 7392 | [7392-code-name-s-t-e-a-m.json](./7392-code-name-s-t-e-a-m.json) |
 | Code Name: Viper | 48069 | [48069-code-name-viper.json](./48069-code-name-viper.json) |
 | Code Name:X | 188334 | [188334-code-name-x.json](./188334-code-name-x.json) |
 | Code of Corruption | 374847 | [374847-code-of-corruption.json](./374847-code-of-corruption.json) |
