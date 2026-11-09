@@ -207,6 +207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yamasen-Chan's Hermit Home Designer | 142336 | [142336-yamasen-chans-hermit-home-designer.json](./142336-yamasen-chans-hermit-home-designer.json) |
 | Yamato | 388242 | [388242-yamato.json](./388242-yamato.json) |
 | Yamato | 6143 | [6143-yamato.json](./6143-yamato.json) |
+| YamaYama | 33194 | [33194-yamayama.json](./33194-yamayama.json) |
 | Yamb | 252306 | [252306-yamb.json](./252306-yamb.json) |
 | YAMC: Yet Another Minesweeper Client | 226113 | [226113-yamc-yet-another-minesweeper-client.json](./226113-yamc-yet-another-minesweeper-client.json) |
 | Yamedomo | 332392 | [332392-yamedomo.json](./332392-yamedomo.json) |
