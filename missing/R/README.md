@@ -70,6 +70,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R-Type II | 276500 | [276500-r-type-ii.json](./276500-r-type-ii.json) |
 | R-Type II | 276522 | [276522-r-type-ii.json](./276522-r-type-ii.json) |
 | R-Type II | 279056 | [279056-r-type-ii.json](./279056-r-type-ii.json) |
+| R-Type II | 6854 | [6854-r-type-ii.json](./6854-r-type-ii.json) |
 | R-Type III & Super R-Type Collector's Edition | 136061 | [136061-r-type-iii-and-super-r-type-collectors-edition.json](./136061-r-type-iii-and-super-r-type-collectors-edition.json) |
 | R-Type III: The Third Lightning | 6550 | [6550-r-type-iii-the-third-lightning.json](./6550-r-type-iii-the-third-lightning.json) |
 | R-Type Leo | 6855 | [6855-r-type-leo.json](./6855-r-type-leo.json) |
@@ -9505,6 +9506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robots | 248488 | [248488-robots.json](./248488-robots.json) |
 | Robots | 248489 | [248489-robots.json](./248489-robots.json) |
 | Robots | 248490 | [248490-robots.json](./248490-robots.json) |
+| Robots | 4091 | [4091-robots.json](./4091-robots.json) |
 | Robots & Things | 335755 | [335755-robots-and-things.json](./335755-robots-and-things.json) |
 | Robots 2 Unknown World | 105369 | [105369-robots-2-unknown-world.json](./105369-robots-2-unknown-world.json) |
 | Robots and Murder | 343191 | [343191-robots-and-murder.json](./343191-robots-and-murder.json) |
@@ -10776,6 +10778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rollbot | 351031 | [351031-rollbot.json](./351031-rollbot.json) |
 | Rollbound | 392095 | [392095-rollbound.json](./392095-rollbound.json) |
 | Rollcage | 8332 | [8332-rollcage.json](./8332-rollcage.json) |
+| Rollcage Stage II | 3163 | [3163-rollcage-stage-ii.json](./3163-rollcage-stage-ii.json) |
 | Rollcage: Limited Edition | 43736 | [43736-rollcage-limited-edition.json](./43736-rollcage-limited-edition.json) |
 | Rolldown | 228366 | [228366-rolldown.json](./228366-rolldown.json) |
 | Rolldown | 305979 | [305979-rolldown.json](./305979-rolldown.json) |
