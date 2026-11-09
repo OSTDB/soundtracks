@@ -4447,6 +4447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perception | 11070 | [11070-perception.json](./11070-perception.json) |
 | Perception | 271498 | [271498-perception.json](./271498-perception.json) |
 | Perception: Heart and Mind | 361981 | [361981-perception-heart-and-mind.json](./361981-perception-heart-and-mind.json) |
+| Perceptions of the Dead | 75312 | [75312-perceptions-of-the-dead.json](./75312-perceptions-of-the-dead.json) |
 | Perceptions of the Dead 2 | 99050 | [99050-perceptions-of-the-dead-2.json](./99050-perceptions-of-the-dead-2.json) |
 | Percepts | 18392 | [18392-percepts.json](./18392-percepts.json) |
 | Perceptum | 386968 | [386968-perceptum.json](./386968-perceptum.json) |
@@ -6842,6 +6843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pillars of Eternity II: Deadfire - Ultimate Edition | 127257 | [127257-pillars-of-eternity-ii-deadfire-ultimate-edition.json](./127257-pillars-of-eternity-ii-deadfire-ultimate-edition.json) |
 | Pillars of Eternity: Champion Edition | 51890 | [51890-pillars-of-eternity-champion-edition.json](./51890-pillars-of-eternity-champion-edition.json) |
 | Pillars of Eternity: Complete Edition | 38780 | [38780-pillars-of-eternity-complete-edition.json](./38780-pillars-of-eternity-complete-edition.json) |
+| Pillars of Eternity: Deadfire Pack | 75358 | [75358-pillars-of-eternity-deadfire-pack.json](./75358-pillars-of-eternity-deadfire-pack.json) |
 | Pillars of Eternity: Definitive Edition | 75357 | [75357-pillars-of-eternity-definitive-edition.json](./75357-pillars-of-eternity-definitive-edition.json) |
 | Pillars of Eternity: Hero Edition | 51889 | [51889-pillars-of-eternity-hero-edition.json](./51889-pillars-of-eternity-hero-edition.json) |
 | Pillars of Eternity: Royal Edition | 51888 | [51888-pillars-of-eternity-royal-edition.json](./51888-pillars-of-eternity-royal-edition.json) |
@@ -8797,6 +8799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Sniper | 402343 | [402343-pixel-sniper.json](./402343-pixel-sniper.json) |
 | Pixel Soccer | 35814 | [35814-pixel-soccer.json](./35814-pixel-soccer.json) |
 | Pixel Space | 35182 | [35182-pixel-space.json](./35182-pixel-space.json) |
+| Pixel Space Battles | 75316 | [75316-pixel-space-battles.json](./75316-pixel-space-battles.json) |
 | Pixel Star | 35311 | [35311-pixel-star.json](./35311-pixel-star.json) |
 | Pixel Stars | 97224 | [97224-pixel-stars.json](./97224-pixel-stars.json) |
 | Pixel Stars Digital Dreamhouse | 245424 | [245424-pixel-stars-digital-dreamhouse.json](./245424-pixel-stars-digital-dreamhouse.json) |
@@ -14804,6 +14807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primo Richards: Case 1 | 302150 | [302150-primo-richards-case-1.json](./302150-primo-richards-case-1.json) |
 | Primordia | 7635 | [7635-primordia.json](./7635-primordia.json) |
 | Primordial | 158671 | [158671-primordial.json](./158671-primordial.json) |
+| Primordial Darkness | 75324 | [75324-primordial-darkness.json](./75324-primordial-darkness.json) |
 | Primordial Fate | 342537 | [342537-primordial-fate.json](./342537-primordial-fate.json) |
 | Primordial Genesis | 293043 | [293043-primordial-genesis.json](./293043-primordial-genesis.json) |
 | Primordial Nation | 297856 | [297856-primordial-nation.json](./297856-primordial-nation.json) |
@@ -16022,6 +16026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Agora | 140326 | [140326-project-agora.json](./140326-project-agora.json) |
 | Project Alex | 216400 | [216400-project-alex.json](./216400-project-alex.json) |
 | Project Alien | 217743 | [217743-project-alien.json](./217743-project-alien.json) |
+| Project Almighty | 75370 | [75370-project-almighty.json](./75370-project-almighty.json) |
 | Project Alpha | 324347 | [324347-project-alpha.json](./324347-project-alpha.json) |
 | Project Alpha 002 | 30943 | [30943-project-alpha-002.json](./30943-project-alpha-002.json) |
 | Project Amalthea: Battlegrounds | 81069 | [81069-project-amalthea-battlegrounds.json](./81069-project-amalthea-battlegrounds.json) |
