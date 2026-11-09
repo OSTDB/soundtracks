@@ -3661,6 +3661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 93, Kuindzhi | 402479 | [402479-93-kuindzhi.json](./402479-93-kuindzhi.json) |
 | 94 Degrees: fun trivia quiz | 27787 | [27787-94-degrees-fun-trivia-quiz.json](./27787-94-degrees-fun-trivia-quiz.json) |
 | 94 Seconds: category word game | 27788 | [27788-94-seconds-category-word-game.json](./27788-94-seconds-category-word-game.json) |
+| 94 Super World Cup Soccer | 45635 | [45635-94-super-world-cup-soccer.json](./45635-94-super-world-cup-soccer.json) |
 | 94% | 27784 | [27784-94.json](./27784-94.json) |
 | 96 | 180215 | [180215-96.json](./180215-96.json) |
 | 96 Mill | 25810 | [25810-96-mill.json](./25810-96-mill.json) |
