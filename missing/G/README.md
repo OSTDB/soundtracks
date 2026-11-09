@@ -11740,6 +11740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunstar Heroes | 248636 | [248636-gunstar-heroes.json](./248636-gunstar-heroes.json) |
 | Gunstar Heroes | 6405 | [6405-gunstar-heroes.json](./6405-gunstar-heroes.json) |
 | Gunstar Heroes: Treasure Box | 22745 | [22745-gunstar-heroes-treasure-box.json](./22745-gunstar-heroes-treasure-box.json) |
+| Gunstar Super Heroes | 6422 | [6422-gunstar-super-heroes.json](./6422-gunstar-super-heroes.json) |
 | GunStar's Gambit | 340405 | [340405-gunstars-gambit.json](./340405-gunstars-gambit.json) |
 | Gunstars | 209467 | [209467-gunstars.json](./209467-gunstars.json) |
 | Gunstoppable | 347106 | [347106-gunstoppable.json](./347106-gunstoppable.json) |
