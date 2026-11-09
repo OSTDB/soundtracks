@@ -101,6 +101,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Abadía del Crimen | 12375 | [12375-la-abadia-del-crimen.json](./12375-la-abadia-del-crimen.json) |
 | La Artesana de Rostros | 388786 | [388786-la-artesana-de-rostros.json](./388786-la-artesana-de-rostros.json) |
 | La Aventura De Axel | 74226 | [74226-la-aventura-de-axel.json](./74226-la-aventura-de-axel.json) |
+| La Aventura Espacial | 13356 | [13356-la-aventura-espacial.json](./13356-la-aventura-espacial.json) |
+| La Aventura Original | 13357 | [13357-la-aventura-original.json](./13357-la-aventura-original.json) |
 | La Bestia: The Migrant's Long Journey | 296485 | [296485-la-bestia-the-migrants-long-journey.json](./296485-la-bestia-the-migrants-long-journey.json) |
 | La Boîte à Bidules de l'Oncle Ernest | 285881 | [285881-la-boite-a-bidules-de-loncle-ernest.json](./285881-la-boite-a-bidules-de-loncle-ernest.json) |
 | La Bola Negra | 379309 | [379309-la-bola-negra.json](./379309-la-bola-negra.json) |
