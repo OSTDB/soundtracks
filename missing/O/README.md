@@ -686,6 +686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oddie's Doughnut Dash | 395610 | [395610-oddies-doughnut-dash.json](./395610-oddies-doughnut-dash.json) |
 | Oddinary Farm | 392291 | [392291-oddinary-farm.json](./392291-oddinary-farm.json) |
 | Oddinary Highway | 136589 | [136589-oddinary-highway.json](./136589-oddinary-highway.json) |
+| Oddity | 76093 | [76093-oddity.json](./76093-oddity.json) |
 | Oddity Girls: Virtual World | 156530 | [156530-oddity-girls-virtual-world.json](./156530-oddity-girls-virtual-world.json) |
 | Oddli: A Satisfying Game | 346623 | [346623-oddli-a-satisfying-game.json](./346623-oddli-a-satisfying-game.json) |
 | Oddlly | 114789 | [114789-oddlly.json](./114789-oddlly.json) |
@@ -2255,6 +2256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One | 247411 | [247411-one.json](./247411-one.json) |
 | One | 6267 | [6267-one.json](./6267-one.json) |
 | One Action Heroes | 177259 | [177259-one-action-heroes.json](./177259-one-action-heroes.json) |
+| One Against the Galaxy | 76106 | [76106-one-against-the-galaxy.json](./76106-one-against-the-galaxy.json) |
 | One and One Story | 133034 | [133034-one-and-one-story.json](./133034-one-and-one-story.json) |
 | One Armed Bandit | 236354 | [236354-one-armed-bandit.json](./236354-one-armed-bandit.json) |
 | One Barbarian Futa Tribe Chapter 1: Violet | 297170 | [297170-one-barbarian-futa-tribe-chapter-1-violet.json](./297170-one-barbarian-futa-tribe-chapter-1-violet.json) |
