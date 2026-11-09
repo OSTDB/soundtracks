@@ -2393,6 +2393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learning to Spell | 209892 | [209892-learning-to-spell.json](./209892-learning-to-spell.json) |
 | Learning with FuzzyWomp | 72030 | [72030-learning-with-fuzzywomp.json](./72030-learning-with-fuzzywomp.json) |
 | Learning with Leap | 230433 | [230433-learning-with-leap.json](./230433-learning-with-leap.json) |
+| Learning with Leeper | 40890 | [40890-learning-with-leeper.json](./40890-learning-with-leeper.json) |
 | Learning With the PooYoos: Episode 1 | 67206 | [67206-learning-with-the-pooyoos-episode-1.json](./67206-learning-with-the-pooyoos-episode-1.json) |
 | Learning With the PooYoos: Episode 2 | 66815 | [66815-learning-with-the-pooyoos-episode-2.json](./66815-learning-with-the-pooyoos-episode-2.json) |
 | Learning With the PooYoos: Episode 3 | 66008 | [66008-learning-with-the-pooyoos-episode-3.json](./66008-learning-with-the-pooyoos-episode-3.json) |
@@ -4372,6 +4373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LexiMint | 415824 | [415824-leximint.json](./415824-leximint.json) |
 | Leximorph: Word Merge Game | 344534 | [344534-leximorph-word-merge-game.json](./344534-leximorph-word-merge-game.json) |
 | Lexis | 379596 | [379596-lexis.json](./379596-lexis.json) |
+| Lexis | 40859 | [40859-lexis.json](./40859-lexis.json) |
 | Lexispell | 376482 | [376482-lexispell.json](./376482-lexispell.json) |
 | Lexit | 58226 | [58226-lexit.json](./58226-lexit.json) |
 | Lexual | 58227 | [58227-lexual.json](./58227-lexual.json) |
@@ -5747,6 +5749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Linkies | 390821 | [390821-linkies.json](./390821-linkies.json) |
 | Linkin Hero | 234620 | [234620-linkin-hero.json](./234620-linkin-hero.json) |
 | Linkin Park Revenge | 77965 | [77965-linkin-park-revenge.json](./77965-linkin-park-revenge.json) |
+| Linking Logic | 40889 | [40889-linking-logic.json](./40889-linking-logic.json) |
 | LinkIt! | 26506 | [26506-linkit.json](./26506-linkit.json) |
 | Linkle Liver Story | 94005 | [94005-linkle-liver-story.json](./94005-linkle-liver-story.json) |
 | Linklight | 139620 | [139620-linklight.json](./139620-linklight.json) |
@@ -7205,6 +7208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logic Grid Puzzle | 358039 | [358039-logic-grid-puzzle.json](./358039-logic-grid-puzzle.json) |
 | Logic Island | 256290 | [256290-logic-island.json](./256290-logic-island.json) |
 | Logic Leap | 361070 | [361070-logic-leap.json](./361070-logic-leap.json) |
+| Logic Levels | 40888 | [40888-logic-levels.json](./40888-logic-levels.json) |
 | Logic Light | 170898 | [170898-logic-light.json](./170898-logic-light.json) |
 | Logic Machines | 47770 | [47770-logic-machines.json](./47770-logic-machines.json) |
 | Logic Mahjong Souryuu | 326087 | [326087-logic-mahjong-souryuu.json](./326087-logic-mahjong-souryuu.json) |
@@ -10592,6 +10596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lynn: The Girl Drawn on Puzzles | 130233 | [130233-lynn-the-girl-drawn-on-puzzles.json](./130233-lynn-the-girl-drawn-on-puzzles.json) |
 | Lynn's Legacy | 266363 | [266363-lynns-legacy.json](./266363-lynns-legacy.json) |
 | Lynne | 105107 | [105107-lynne.json](./105107-lynne.json) |
+| Lynx Casino | 40857 | [40857-lynx-casino.json](./40857-lynx-casino.json) |
 | Lynx Othello | 92902 | [92902-lynx-othello.json](./92902-lynx-othello.json) |
 | LyokoVR | 169337 | [169337-lyokovr.json](./169337-lyokovr.json) |
 | Lyonesse | 190493 | [190493-lyonesse.json](./190493-lyonesse.json) |
