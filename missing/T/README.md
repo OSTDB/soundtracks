@@ -5483,6 +5483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The * BishiBashi | 130455 | [130455-the-bishibashi.json](./130455-the-bishibashi.json) |
 | The $1,000,000 Pyramid | 6463 | [6463-the-1-000-000-pyramid.json](./6463-the-1-000-000-pyramid.json) |
 | The $100,000 Pyramid | 12372 | [12372-the-100-000-pyramid.json](./12372-the-100-000-pyramid.json) |
+| The $100,000 Pyramid | 70716 | [70716-the-100-000-pyramid.json](./70716-the-100-000-pyramid.json) |
 | The 10th Planet | 200421 | [200421-the-10th-planet.json](./200421-the-10th-planet.json) |
 | The 10x10 Project | 257285 | [257285-the-10x10-project.json](./257285-the-10x10-project.json) |
 | The 11th Annual Vanilla Level Design Contest: Collaboration Hack | 191942 | [191942-the-11th-annual-vanilla-level-design-contest-collaboration-hack.json](./191942-the-11th-annual-vanilla-level-design-contest-collaboration-hack.json) |
@@ -5771,6 +5772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of LinShanHai: Chapter3 - The Headless Woman | 243154 | [243154-the-adventures-of-linshanhai-chapter3-the-headless-woman.json](./243154-the-adventures-of-linshanhai-chapter3-the-headless-woman.json) |
 | The Adventures of Little Miss Scatterbrain | 73559 | [73559-the-adventures-of-little-miss-scatterbrain.json](./73559-the-adventures-of-little-miss-scatterbrain.json) |
 | The Adventures of Little Red Riding Cap | 54433 | [54433-the-adventures-of-little-red-riding-cap.json](./54433-the-adventures-of-little-red-riding-cap.json) |
+| The Adventures of Little Red Riding Hood | 70693 | [70693-the-adventures-of-little-red-riding-hood.json](./70693-the-adventures-of-little-red-riding-hood.json) |
 | The Adventures of Little Wurfel | 370225 | [370225-the-adventures-of-little-wurfel.json](./370225-the-adventures-of-little-wurfel.json) |
 | The Adventures of Looppy | 126785 | [126785-the-adventures-of-looppy.json](./126785-the-adventures-of-looppy.json) |
 | The Adventures of Lwanda Magere | 169147 | [169147-the-adventures-of-lwanda-magere.json](./169147-the-adventures-of-lwanda-magere.json) |
@@ -6487,6 +6489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bathhouse Restored Edition | 304047 | [304047-the-bathhouse-restored-edition.json](./304047-the-bathhouse-restored-edition.json) |
 | The Bathrooms | 288819 | [288819-the-bathrooms.json](./288819-the-bathrooms.json) |
 | The Batman | 84447 | [84447-the-batman.json](./84447-the-batman.json) |
+| The Batman: Gotham City Rescue | 70694 | [70694-the-batman-gotham-city-rescue.json](./70694-the-batman-gotham-city-rescue.json) |
 | The Batman: Multiply, Divide and Conquer | 230421 | [230421-the-batman-multiply-divide-and-conquer.json](./230421-the-batman-multiply-divide-and-conquer.json) |
 | The Batman: Strength in Numbers | 69064 | [69064-the-batman-strength-in-numbers.json](./69064-the-batman-strength-in-numbers.json) |
 | The Batman: The Cobblebot Caper | 338352 | [338352-the-batman-the-cobblebot-caper.json](./338352-the-batman-the-cobblebot-caper.json) |
@@ -7716,6 +7719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Complex: Expedition | 223188 | [223188-the-complex-expedition.json](./223188-the-complex-expedition.json) |
 | The Complex: Found Footage | 197192 | [197192-the-complex-found-footage.json](./197192-the-complex-found-footage.json) |
 | The Compunaut & the Meaning of Life | 347294 | [347294-the-compunaut-and-the-meaning-of-life.json](./347294-the-compunaut-and-the-meaning-of-life.json) |
+| The Computer Edition of Risk: The World Conquest Game | 70720 | [70720-the-computer-edition-of-risk-the-world-conquest-game.json](./70720-the-computer-edition-of-risk-the-world-conquest-game.json) |
 | The Computer Quiz | 78999 | [78999-the-computer-quiz.json](./78999-the-computer-quiz.json) |
 | The Computer Spiele Museum's Museum Guide | 254510 | [254510-the-computer-spiele-museums-museum-guide.json](./254510-the-computer-spiele-museums-museum-guide.json) |
 | The Comyths | 397078 | [397078-the-comyths.json](./397078-the-comyths.json) |
@@ -14141,6 +14145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mexican Dream | 55622 | [55622-the-mexican-dream.json](./55622-the-mexican-dream.json) |
 | The Miami Horror | 176347 | [176347-the-miami-horror.json](./176347-the-miami-horror.json) |
 | The Mice Guys | 179939 | [179939-the-mice-guys.json](./179939-the-mice-guys.json) |
+| The Mice Men | 70698 | [70698-the-mice-men.json](./70698-the-mice-men.json) |
 | The Mice of Riddle Place - The Mystery of Mrs. Wirth | 108605 | [108605-the-mice-of-riddle-place-the-mystery-of-mrs-wirth.json](./108605-the-mice-of-riddle-place-the-mystery-of-mrs-wirth.json) |
 | The Mice of Riddle Place: The Incident of Izzy Ramirez | 55561 | [55561-the-mice-of-riddle-place-the-incident-of-izzy-ramirez.json](./55561-the-mice-of-riddle-place-the-incident-of-izzy-ramirez.json) |
 | The Mice Plight | 259008 | [259008-the-mice-plight.json](./259008-the-mice-plight.json) |
@@ -20311,6 +20316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | They Came from Another Planet | 241752 | [241752-they-came-from-another-planet.json](./241752-they-came-from-another-planet.json) |
 | They Came From Below | 190409 | [190409-they-came-from-below.json](./190409-they-came-from-below.json) |
 | They Came From Dimension X | 213978 | [213978-they-came-from-dimension-x.json](./213978-they-came-from-dimension-x.json) |
+| They Came From Space | 70705 | [70705-they-came-from-space.json](./70705-they-came-from-space.json) |
 | They Came from the Ground | 328620 | [328620-they-came-from-the-ground.json](./328620-they-came-from-the-ground.json) |
 | They Came From the Moon | 33790 | [33790-they-came-from-the-moon.json](./33790-they-came-from-the-moon.json) |
 | They came from the Skies | 54197 | [54197-they-came-from-the-skies.json](./54197-they-came-from-the-skies.json) |
@@ -24660,6 +24666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TMT 1 | 387164 | [387164-tmt-1.json](./387164-tmt-1.json) |
 | TMT 2 | 388564 | [388564-tmt-2.json](./388564-tmt-2.json) |
 | TNA Impact! | 5228 | [5228-tna-impact.json](./5228-tna-impact.json) |
+| TNA Impact! 2 | 70564 | [70564-tna-impact-2.json](./70564-tna-impact-2.json) |
 | TNA Impact!: Cross the Line | 5229 | [5229-tna-impact-cross-the-line.json](./5229-tna-impact-cross-the-line.json) |
 | TNA vs. ROH | 256926 | [256926-tna-vs-roh.json](./256926-tna-vs-roh.json) |
 | TNA Wrestling | 81239 | [81239-tna-wrestling.json](./81239-tna-wrestling.json) |
@@ -27717,6 +27724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Doomer | 289934 | [289934-tower-doomer.json](./289934-tower-doomer.json) |
 | Tower Dream | 64738 | [64738-tower-dream.json](./64738-tower-dream.json) |
 | Tower Dream 2 | 382927 | [382927-tower-dream-2.json](./382927-tower-dream-2.json) |
+| Tower Duel | 70710 | [70710-tower-duel.json](./70710-tower-duel.json) |
 | Tower Empire Builder | 127096 | [127096-tower-empire-builder.json](./127096-tower-empire-builder.json) |
 | Tower Escape | 204105 | [204105-tower-escape.json](./204105-tower-escape.json) |
 | Tower Expanse | 95146 | [95146-tower-expanse.json](./95146-tower-expanse.json) |
@@ -30866,6 +30874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapaze | 376282 | [376282-trapaze.json](./376282-trapaze.json) |
 | TrapBot | 188925 | [188925-trapbot.json](./188925-trapbot.json) |
 | Trapdoors | 204203 | [204203-trapdoors.json](./204203-trapdoors.json) |
+| Trapfall | 70722 | [70722-trapfall.json](./70722-trapfall.json) |
 | Trapformer | 361310 | [361310-trapformer.json](./361310-trapformer.json) |
 | Trapmania | 151152 | [151152-trapmania.json](./151152-trapmania.json) |
 | Trapnoid 2 | 109743 | [109743-trapnoid-2.json](./109743-trapnoid-2.json) |
