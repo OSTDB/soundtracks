@@ -1795,6 +1795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eight | 163756 | [163756-eight.json](./163756-eight.json) |
 | Eight | 229446 | [229446-eight.json](./229446-eight.json) |
 | Eight Ball | 93592 | [93592-eight-ball.json](./93592-eight-ball.json) |
+| Eight Ball Deluxe | 67511 | [67511-eight-ball-deluxe.json](./67511-eight-ball-deluxe.json) |
 | Eight Balls | 263814 | [263814-eight-balls.json](./263814-eight-balls.json) |
 | Eight Characters, a Number, and a Happy Ending | 57507 | [57507-eight-characters-a-number-and-a-happy-ending.json](./57507-eight-characters-a-number-and-a-happy-ending.json) |
 | Eight Corners: A Maguntsche Story | 229289 | [229289-eight-corners-a-maguntsche-story.json](./229289-eight-corners-a-maguntsche-story.json) |
@@ -1944,6 +1945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | El Dorado | 214994 | [214994-el-dorado.json](./214994-el-dorado.json) |
 | El Dorado | 312880 | [312880-el-dorado.json](./312880-el-dorado.json) |
 | El Dorado | 84349 | [84349-el-dorado.json](./84349-el-dorado.json) |
+| El Dorado Denki | 67400 | [67400-el-dorado-denki.json](./67400-el-dorado-denki.json) |
 | El Dorado: The Golden City Builder | 218679 | [218679-el-dorado-the-golden-city-builder.json](./218679-el-dorado-the-golden-city-builder.json) |
 | El Engaño de Barbapoca: Capítulo 1 - Esta Pizza Está de Muerte | 321029 | [321029-el-engano-de-barbapoca-capitulo-1-esta-pizza-esta-de-muerte.json](./321029-el-engano-de-barbapoca-capitulo-1-esta-pizza-esta-de-muerte.json) |
 | El Engaño de Barbapoca: Capítulo 2 - Competencia Fantasmal | 321031 | [321031-el-engano-de-barbapoca-capitulo-2-competencia-fantasmal.json](./321031-el-engano-de-barbapoca-capitulo-2-competencia-fantasmal.json) |
@@ -2552,6 +2554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevator: Source | 381322 | [381322-elevator-source.json](./381322-elevator-source.json) |
 | Elevator... to the Moon! | 69457 | [69457-elevator-to-the-moon.json](./69457-elevator-to-the-moon.json) |
 | Elevator...to the Moon!: Turbo Champion's Edition | 115468 | [115468-elevator-to-the-moon-turbo-champions-edition.json](./115468-elevator-to-the-moon-turbo-champions-edition.json) |
+| Elevators | 67007 | [67007-elevators.json](./67007-elevators.json) |
 | Elevators Amiss | 57580 | [57580-elevators-amiss.json](./57580-elevators-amiss.json) |
 | ElevatorVR | 127443 | [127443-elevatorvr.json](./127443-elevatorvr.json) |
 | Elevatrix | 316408 | [316408-elevatrix.json](./316408-elevatrix.json) |
@@ -2886,6 +2889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elven Assassin | 31997 | [31997-elven-assassin.json](./31997-elven-assassin.json) |
 | Elven Assassin: Rise of Darkness | 274594 | [274594-elven-assassin-rise-of-darkness.json](./274594-elven-assassin-rise-of-darkness.json) |
 | Elven Battlegrounds | 235457 | [235457-elven-battlegrounds.json](./235457-elven-battlegrounds.json) |
+| Elven Chronicles | 67428 | [67428-elven-chronicles.json](./67428-elven-chronicles.json) |
 | Elven City Simulator | 231851 | [231851-elven-city-simulator.json](./231851-elven-city-simulator.json) |
 | Elven Dreams | 277835 | [277835-elven-dreams.json](./277835-elven-dreams.json) |
 | Elven Forest | 356610 | [356610-elven-forest.json](./356610-elven-forest.json) |
