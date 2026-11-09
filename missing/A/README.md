@@ -1222,6 +1222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Slime's Test for Intelligence | 212660 | [212660-a-slimes-test-for-intelligence.json](./212660-a-slimes-test-for-intelligence.json) |
 | A Slit of Joy | 195076 | [195076-a-slit-of-joy.json](./195076-a-slit-of-joy.json) |
 | A Sloth For Both Seasons | 165504 | [165504-a-sloth-for-both-seasons.json](./165504-a-sloth-for-both-seasons.json) |
+| A Slow Year | 57796 | [57796-a-slow-year.json](./57796-a-slow-year.json) |
 | A Slower Speed of Light | 18122 | [18122-a-slower-speed-of-light.json](./18122-a-slower-speed-of-light.json) |
 | A Slug's Dream | 238589 | [238589-a-slugs-dream.json](./238589-a-slugs-dream.json) |
 | A Small Encounter | 350624 | [350624-a-small-encounter.json](./350624-a-small-encounter.json) |
@@ -4022,6 +4023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aebal | 167174 | [167174-aebal.json](./167174-aebal.json) |
 | Aëdemphia | 125943 | [125943-aedemphia.json](./125943-aedemphia.json) |
 | Aedis Eclipse: Generation of Chaos | 44523 | [44523-aedis-eclipse-generation-of-chaos.json](./44523-aedis-eclipse-generation-of-chaos.json) |
+| Aegean Voyage | 57311 | [57311-aegean-voyage.json](./57311-aegean-voyage.json) |
 | Aegis | 115886 | [115886-aegis.json](./115886-aegis.json) |
 | Aegis | 266000 | [266000-aegis.json](./266000-aegis.json) |
 | Aegis | 31206 | [31206-aegis.json](./31206-aegis.json) |
@@ -6698,6 +6700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alexander | 9359 | [9359-alexander.json](./9359-alexander.json) |
 | Alexander the Great | 52382 | [52382-alexander-the-great.json](./52382-alexander-the-great.json) |
 | Alexander the Great: Secrets of Power | 58039 | [58039-alexander-the-great-secrets-of-power.json](./58039-alexander-the-great-secrets-of-power.json) |
+| Alexander Zickler: Total Soccer 2002 | 57314 | [57314-alexander-zickler-total-soccer-2002.json](./57314-alexander-zickler-total-soccer-2002.json) |
 | Alexander: Heroes of the Conquest | 202679 | [202679-alexander-heroes-of-the-conquest.json](./202679-alexander-heroes-of-the-conquest.json) |
 | Alexander: The Heroes Hour | 130040 | [130040-alexander-the-heroes-hour.json](./130040-alexander-the-heroes-hour.json) |
 | Alexander: The Road to Percia | 364155 | [364155-alexander-the-road-to-percia.json](./364155-alexander-the-road-to-percia.json) |
