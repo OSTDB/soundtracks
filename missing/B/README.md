@@ -3120,6 +3120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bases Loaded for Game Boy | 273096 | [273096-bases-loaded-for-game-boy.json](./273096-bases-loaded-for-game-boy.json) |
 | Bash Arena | 233450 | [233450-bash-arena.json](./233450-bash-arena.json) |
 | Bash It! | 252150 | [252150-bash-it.json](./252150-bash-it.json) |
+| Bash Land | 61201 | [61201-bash-land.json](./61201-bash-land.json) |
 | Bash Moto | 391939 | [391939-bash-moto.json](./391939-bash-moto.json) |
 | Bash Sports Online Bowling | 214339 | [214339-bash-sports-online-bowling.json](./214339-bash-sports-online-bowling.json) |
 | Bash the Bear | 114191 | [114191-bash-the-bear.json](./114191-bash-the-bear.json) |
@@ -9802,6 +9803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade of God | 199905 | [199905-blade-of-god.json](./199905-blade-of-god.json) |
 | Blade of God 2 | 174805 | [174805-blade-of-god-2.json](./174805-blade-of-god-2.json) |
 | Blade of God X: Orisols | 208219 | [208219-blade-of-god-x-orisols.json](./208219-blade-of-god-x-orisols.json) |
+| Blade of Honor | 61188 | [61188-blade-of-honor.json](./61188-blade-of-honor.json) |
 | Blade of Jinshu | 364573 | [364573-blade-of-jinshu.json](./364573-blade-of-jinshu.json) |
 | Blade of Mercy: Bloody Countess | 407580 | [407580-blade-of-mercy-bloody-countess.json](./407580-blade-of-mercy-bloody-countess.json) |
 | Blade of Si | 192761 | [192761-blade-of-si.json](./192761-blade-of-si.json) |
