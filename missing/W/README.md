@@ -903,6 +903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Grids | 335598 | [335598-war-grids.json](./335598-war-grids.json) |
 | War Gun: Shooting Games Online | 254271 | [254271-war-gun-shooting-games-online.json](./254271-war-gun-shooting-games-online.json) |
 | War Heli | 319996 | [319996-war-heli.json](./319996-war-heli.json) |
+| War Heroes | 77508 | [77508-war-heroes.json](./77508-war-heroes.json) |
 | War Heroes: Invasion | 74989 | [74989-war-heroes-invasion.json](./74989-war-heroes-invasion.json) |
 | War Hospital: Supporter Edition | 284858 | [284858-war-hospital-supporter-edition.json](./284858-war-hospital-supporter-edition.json) |
 | War Hunter | 96903 | [96903-war-hunter.json](./96903-war-hunter.json) |
@@ -7054,6 +7055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WMS Slots: Reel'Em In | 53115 | [53115-wms-slots-reelem-in.json](./53115-wms-slots-reelem-in.json) |
 | WMS Slots: The Jade Monkey | 25380 | [25380-wms-slots-the-jade-monkey.json](./25380-wms-slots-the-jade-monkey.json) |
 | WMS Slots: Zeus II | 53114 | [53114-wms-slots-zeus-ii.json](./53114-wms-slots-zeus-ii.json) |
+| WMS Slots: Zeus II | 77513 | [77513-wms-slots-zeus-ii.json](./77513-wms-slots-zeus-ii.json) |
 | WN | 74455 | [74455-wn.json](./74455-wn.json) |
 | WN RPG Hoshi no Kuzure | 294242 | [294242-wn-rpg-hoshi-no-kuzure.json](./294242-wn-rpg-hoshi-no-kuzure.json) |
 | Wǒ de Shòu'ěr Hòugōng: Xùzhāng | 126234 | [126234-wo-de-shouer-hougong-xuzhang.json](./126234-wo-de-shouer-hougong-xuzhang.json) |
@@ -8298,7 +8300,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Mosaics 6 | 53111 | [53111-world-mosaics-6.json](./53111-world-mosaics-6.json) |
 | World Mosaics 7 | 415947 | [415947-world-mosaics-7.json](./415947-world-mosaics-7.json) |
 | World Mosaics IV | 135249 | [135249-world-mosaics-iv.json](./135249-world-mosaics-iv.json) |
+| World Neverland 2-in-1 Portable | 77506 | [77506-world-neverland-2-in-1-portable.json](./77506-world-neverland-2-in-1-portable.json) |
+| World Neverland 2: Pluto Kyouwakoku Monogatari | 77505 | [77505-world-neverland-2-pluto-kyouwakoku-monogatari.json](./77505-world-neverland-2-pluto-kyouwakoku-monogatari.json) |
 | World Neverland 2: Pluto Kyouwakoku Monogatari - Experience of Fiction Life | 297750 | [297750-world-neverland-2-pluto-kyouwakoku-monogatari-experience-of-fiction-life.json](./297750-world-neverland-2-pluto-kyouwakoku-monogatari-experience-of-fiction-life.json) |
+| World Neverland: Olerud Oukoku Monogatari | 77514 | [77514-world-neverland-olerud-oukoku-monogatari.json](./77514-world-neverland-olerud-oukoku-monogatari.json) |
 | World Neverland: Waaneba Island | 419853 | [419853-world-neverland-waaneba-island.json](./419853-world-neverland-waaneba-island.json) |
 | World of Aircraft: Glider Simulator | 148872 | [148872-world-of-aircraft-glider-simulator.json](./148872-world-of-aircraft-glider-simulator.json) |
 | World of Airports | 154759 | [154759-world-of-airports.json](./154759-world-of-airports.json) |
