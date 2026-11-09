@@ -5829,6 +5829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overkill | 95402 | [95402-overkill.json](./95402-overkill.json) |
 | OverKill | 46704 | [46704-overkill.json](./46704-overkill.json) |
 | OverKill | 74937 | [74937-overkill.json](./74937-overkill.json) |
+| Overkill & Lunar - C | 37245 | [37245-overkill-and-lunar-c.json](./37245-overkill-and-lunar-c.json) |
 | Overkill 3 | 69373 | [69373-overkill-3.json](./69373-overkill-3.json) |
 | Overkill Mafia | 22138 | [22138-overkill-mafia.json](./22138-overkill-mafia.json) |
 | Overkill Squad | 374932 | [374932-overkill-squad.json](./374932-overkill-squad.json) |
