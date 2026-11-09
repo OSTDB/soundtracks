@@ -6014,6 +6014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kritzel Krieg | 414873 | [414873-kritzel-krieg.json](./414873-kritzel-krieg.json) |
 | Krizl | 106297 | [106297-krizl.json](./106297-krizl.json) |
 | Kroc & Roll | 25427 | [25427-kroc-and-roll.json](./25427-kroc-and-roll.json) |
+| Krog Wars | 57766 | [57766-krog-wars.json](./57766-krog-wars.json) |
 | Krokwar | 410696 | [410696-krokwar.json](./410696-krokwar.json) |
 | Krolewna Sniezka | 318484 | [318484-krolewna-sniezka.json](./318484-krolewna-sniezka.json) |
 | Kroll | 67787 | [67787-kroll.json](./67787-kroll.json) |
