@@ -17226,6 +17226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Cars | 240823 | [240823-crazy-cars.json](./240823-crazy-cars.json) |
 | Crazy Cars: Hit the Road | 62976 | [62976-crazy-cars-hit-the-road.json](./62976-crazy-cars-hit-the-road.json) |
 | Crazy Cart: Ultimate Drift | 120289 | [120289-crazy-cart-ultimate-drift.json](./120289-crazy-cart-ultimate-drift.json) |
+| Crazy CarToon | 55217 | [55217-crazy-cartoon.json](./55217-crazy-cartoon.json) |
 | Crazy Castle | 23564 | [23564-crazy-castle.json](./23564-crazy-castle.json) |
 | Crazy Castle | 280145 | [280145-crazy-castle.json](./280145-crazy-castle.json) |
 | Crazy Castles | 348527 | [348527-crazy-castles.json](./348527-crazy-castles.json) |
