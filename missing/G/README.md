@@ -1828,6 +1828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ganso Family Mahjong | 377545 | [377545-ganso-family-mahjong.json](./377545-ganso-family-mahjong.json) |
 | Ganso Hanjuku Hero | 292029 | [292029-ganso-hanjuku-hero.json](./292029-ganso-hanjuku-hero.json) |
 | Ganso JaJaMaru-kun | 37508 | [37508-ganso-jajamaru-kun.json](./37508-ganso-jajamaru-kun.json) |
+| Ganso Pachi-Slot Nippon Ichi | 38021 | [38021-ganso-pachi-slot-nippon-ichi.json](./38021-ganso-pachi-slot-nippon-ichi.json) |
 | Ganso Pachinko Ou | 38022 | [38022-ganso-pachinko-ou.json](./38022-ganso-pachinko-ou.json) |
 | Ganso Saiyuuki: Super Monkey Daibouken | 48487 | [48487-ganso-saiyuuki-super-monkey-daibouken.json](./48487-ganso-saiyuuki-super-monkey-daibouken.json) |
 | Ganso! Doubutsu Uranai + Renai Uranai Puzzle | 97855 | [97855-ganso-doubutsu-uranai-renai-uranai-puzzle.json](./97855-ganso-doubutsu-uranai-renai-uranai-puzzle.json) |
@@ -5855,6 +5856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Save The Queen! | 289864 | [289864-go-save-the-queen.json](./289864-go-save-the-queen.json) |
 | Go! Sports Ski | 72936 | [72936-go-sports-ski.json](./72936-go-sports-ski.json) |
 | Go! Sports Skydiving | 21815 | [21815-go-sports-skydiving.json](./21815-go-sports-skydiving.json) |
+| Go! Sudoku | 38464 | [38464-go-sudoku.json](./38464-go-sudoku.json) |
 | Go! Super Awesome Monkey! | 414329 | [414329-go-super-awesome-monkey.json](./414329-go-super-awesome-monkey.json) |
 | Go! Underground | 242728 | [242728-go-underground.json](./242728-go-underground.json) |
 | Go!Go! Usa-chan Ressha | 242081 | [242081-go-go-usa-chan-ressha.json](./242081-go-go-usa-chan-ressha.json) |
