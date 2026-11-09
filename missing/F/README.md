@@ -177,6 +177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F1 2011 | 1374 | [1374-f1-2011.json](./1374-f1-2011.json) |
 | F1 2012 | 1373 | [1373-f1-2012.json](./1373-f1-2012.json) |
 | F1 2013 | 5586 | [5586-f1-2013.json](./5586-f1-2013.json) |
+| F1 2013: Classic Edition | 10294 | [10294-f1-2013-classic-edition.json](./10294-f1-2013-classic-edition.json) |
 | F1 2013: Classic Edition Game Bundle | 99925 | [99925-f1-2013-classic-edition-game-bundle.json](./99925-f1-2013-classic-edition-game-bundle.json) |
 | F1 2014 | 7866 | [7866-f1-2014.json](./7866-f1-2014.json) |
 | F1 2015 | 9272 | [9272-f1-2015.json](./9272-f1-2015.json) |
@@ -2259,6 +2260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy: Battle Simulator | 43950 | [43950-fantasy-battle-simulator.json](./43950-fantasy-battle-simulator.json) |
 | Fantasya | 232937 | [232937-fantasya.json](./232937-fantasya.json) |
 | Fantasya Final Definitiva Remake | 55317 | [55317-fantasya-final-definitiva-remake.json](./55317-fantasya-final-definitiva-remake.json) |
+| Fantasyche: Mike | 10308 | [10308-fantasyche-mike.json](./10308-fantasyche-mike.json) |
 | FantasyGolf | 26387 | [26387-fantasygolf.json](./26387-fantasygolf.json) |
 | FantasyKingdom | 306429 | [306429-fantasykingdom.json](./306429-fantasykingdom.json) |
 | Fantasyland | 97083 | [97083-fantasyland.json](./97083-fantasyland.json) |
@@ -14417,6 +14419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fusil | 386347 | [386347-fusil.json](./386347-fusil.json) |
 | Fusillade | 264570 | [264570-fusillade.json](./264570-fusillade.json) |
 | Fusing Noracam | 267090 | [267090-fusing-noracam.json](./267090-fusing-noracam.json) |
+| Fusion | 10207 | [10207-fusion.json](./10207-fusion.json) |
 | Fusion | 158712 | [158712-fusion.json](./158712-fusion.json) |
 | Fusion | 182822 | [182822-fusion.json](./182822-fusion.json) |
 | Fusion Bundle | 254703 | [254703-fusion-bundle.json](./254703-fusion-bundle.json) |
