@@ -6882,6 +6882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishing Sim World: Pro Tour + The Catch: Carp & Coarse | 164731 | [164731-fishing-sim-world-pro-tour-the-catch-carp-and-coarse.json](./164731-fishing-sim-world-pro-tour-the-catch-carp-and-coarse.json) |
 | Fishing Simulator | 109306 | [109306-fishing-simulator.json](./109306-fishing-simulator.json) |
 | Fishing Simulator | 202042 | [202042-fishing-simulator.json](./202042-fishing-simulator.json) |
+| Fishing Simulator 2010 | 66827 | [66827-fishing-simulator-2010.json](./66827-fishing-simulator-2010.json) |
 | Fishing Simulator 2025 | 345120 | [345120-fishing-simulator-2025.json](./345120-fishing-simulator-2025.json) |
 | Fishing Simulator 2D | 185278 | [185278-fishing-simulator-2d.json](./185278-fishing-simulator-2d.json) |
 | Fishing Star | 85837 | [85837-fishing-star.json](./85837-fishing-star.json) |
