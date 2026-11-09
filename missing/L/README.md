@@ -6579,6 +6579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Littlest Pet Shop 3: Biggest Stars - Pink Team | 122206 | [122206-littlest-pet-shop-3-biggest-stars-pink-team.json](./122206-littlest-pet-shop-3-biggest-stars-pink-team.json) |
 | Littlest Pet Shop 3: Biggest Stars - Purple Team | 122205 | [122205-littlest-pet-shop-3-biggest-stars-purple-team.json](./122205-littlest-pet-shop-3-biggest-stars-purple-team.json) |
 | Littlest Pet Shop Digital Pets | 270440 | [270440-littlest-pet-shop-digital-pets.json](./270440-littlest-pet-shop-digital-pets.json) |
+| Littlest Pet Shop Friends | 50676 | [50676-littlest-pet-shop-friends.json](./50676-littlest-pet-shop-friends.json) |
 | Littlest Pet Shop Online | 91432 | [91432-littlest-pet-shop-online.json](./91432-littlest-pet-shop-online.json) |
 | Littlest Pet Shop: Biggest Adventure | 254485 | [254485-littlest-pet-shop-biggest-adventure.json](./254485-littlest-pet-shop-biggest-adventure.json) |
 | Littlest Pet Shop: City Friends | 48022 | [48022-littlest-pet-shop-city-friends.json](./48022-littlest-pet-shop-city-friends.json) |
