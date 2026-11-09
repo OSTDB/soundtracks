@@ -6634,6 +6634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pigg Party | 355157 | [355157-pigg-party.json](./355157-pigg-party.json) |
 | Pigglet in Mrs. Big Bad Werewolf | 211581 | [211581-pigglet-in-mrs-big-bad-werewolf.json](./211581-pigglet-in-mrs-big-bad-werewolf.json) |
 | Piggly Pagly Boom | 320072 | [320072-piggly-pagly-boom.json](./320072-piggly-pagly-boom.json) |
+| Piggy Bank | 41465 | [41465-piggy-bank.json](./41465-piggy-bank.json) |
 | Piggy Chase | 113536 | [113536-piggy-chase.json](./113536-piggy-chase.json) |
 | Piggy Disco | 164133 | [164133-piggy-disco.json](./164133-piggy-disco.json) |
 | Piggy Go | 212489 | [212489-piggy-go.json](./212489-piggy-go.json) |
