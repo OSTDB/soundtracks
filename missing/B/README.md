@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4618,6 +4619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleSphere Gold | 40813 | [40813-battlesphere-gold.json](./40813-battlesphere-gold.json) |
 | BattleSport | 19993 | [19993-battlesport.json](./19993-battlesport.json) |
 | Battlestage | 171396 | [171396-battlestage.json](./171396-battlestage.json) |
+| BattleStar | 46705 | [46705-battlestar.json](./46705-battlestar.json) |
 | Battlestar Galactica | 5744 | [5744-battlestar-galactica.json](./5744-battlestar-galactica.json) |
 | Battlestar Galactica | 80427 | [80427-battlestar-galactica.json](./80427-battlestar-galactica.json) |
 | Battlestar Galactica Deadlock | 28842 | [28842-battlestar-galactica-deadlock.json](./28842-battlestar-galactica-deadlock.json) |
@@ -12008,6 +12010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Box | 200753 | [200753-blue-box.json](./200753-blue-box.json) |
 | Blue Boy Adventure | 262193 | [262193-blue-boy-adventure.json](./262193-blue-boy-adventure.json) |
 | Blue Boy: Bleeding Out | 126879 | [126879-blue-boy-bleeding-out.json](./126879-blue-boy-bleeding-out.json) |
+| Blue Breaker ~A Smile Over a Sword~ | 46697 | [46697-blue-breaker-a-smile-over-a-sword.json](./46697-blue-breaker-a-smile-over-a-sword.json) |
 | Blue Breaker Burst: Bishou o Anata to | 43816 | [43816-blue-breaker-burst-bishou-o-anata-to.json](./43816-blue-breaker-burst-bishou-o-anata-to.json) |
 | Blue Breaker Burst: Egao no Asu ni | 43817 | [43817-blue-breaker-burst-egao-no-asu-ni.json](./43817-blue-breaker-burst-egao-no-asu-ni.json) |
 | Blue Chips | 191126 | [191126-blue-chips.json](./191126-blue-chips.json) |
