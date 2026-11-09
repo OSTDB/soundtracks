@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gaelic Games: Football | 98973 | [98973-gaelic-games-football.json](./98973-gaelic-games-football.json) |
 | Gaelic Games: Football 2 | 57605 | [57605-gaelic-games-football-2.json](./57605-gaelic-games-football-2.json) |
 | Gaelic Games: Hurling | 73465 | [73465-gaelic-games-hurling.json](./73465-gaelic-games-hurling.json) |
+| Gag: Het Impotentie-Mysterie | 69607 | [69607-gag-het-impotentie-mysterie.json](./69607-gag-het-impotentie-mysterie.json) |
 | Gage | 264809 | [264809-gage.json](./264809-gage.json) |
 | Gaggi Clicker | 307947 | [307947-gaggi-clicker.json](./307947-gaggi-clicker.json) |
 | Gaggl | 306442 | [306442-gaggl.json](./306442-gaggl.json) |
