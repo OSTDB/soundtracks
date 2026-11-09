@@ -3848,6 +3848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pearl Harbor: Fire on the Water | 54256 | [54256-pearl-harbor-fire-on-the-water.json](./54256-pearl-harbor-fire-on-the-water.json) |
 | Pearl Harbor: Strike at Dawn | 138007 | [138007-pearl-harbor-strike-at-dawn.json](./138007-pearl-harbor-strike-at-dawn.json) |
 | Pearl Harbor: Zero Hour | 72057 | [72057-pearl-harbor-zero-hour.json](./72057-pearl-harbor-zero-hour.json) |
+| Pearl Harbour | 70153 | [70153-pearl-harbour.json](./70153-pearl-harbour.json) |
 | Pearl Harbour 2: Day of Infamy | 54255 | [54255-pearl-harbour-2-day-of-infamy.json](./54255-pearl-harbour-2-day-of-infamy.json) |
 | Pearl Harbour: Shadows Over Oahu | 24490 | [24490-pearl-harbour-shadows-over-oahu.json](./24490-pearl-harbour-shadows-over-oahu.json) |
 | Pearl Jam Live: Rock Band | 68299 | [68299-pearl-jam-live-rock-band.json](./68299-pearl-jam-live-rock-band.json) |
@@ -14101,6 +14102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerplay Hockey | 78947 | [78947-powerplay-hockey.json](./78947-powerplay-hockey.json) |
 | Powerplay Tennis | 394436 | [394436-powerplay-tennis.json](./394436-powerplay-tennis.json) |
 | Powerplay-Xtra | 93296 | [93296-powerplay-xtra.json](./93296-powerplay-xtra.json) |
+| Powerplay: The Game of the Gods | 70140 | [70140-powerplay-the-game-of-the-gods.json](./70140-powerplay-the-game-of-the-gods.json) |
 | PowerPoint Osu! | 325806 | [325806-powerpoint-osu.json](./325806-powerpoint-osu.json) |
 | Powerpool | 389343 | [389343-powerpool.json](./389343-powerpool.json) |
 | Powerpool 2 | 389345 | [389345-powerpool-2.json](./389345-powerpool-2.json) |
@@ -19058,6 +19060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Stampede | 26605 | [26605-puzzle-stampede.json](./26605-puzzle-stampede.json) |
 | Puzzle Star BT21 | 97061 | [97061-puzzle-star-bt21.json](./97061-puzzle-star-bt21.json) |
 | Puzzle Star Sweep | 44744 | [44744-puzzle-star-sweep.json](./44744-puzzle-star-sweep.json) |
+| Puzzle Station | 70494 | [70494-puzzle-station.json](./70494-puzzle-station.json) |
 | Puzzle Station 15th Anniversary Retro Release | 35348 | [35348-puzzle-station-15th-anniversary-retro-release.json](./35348-puzzle-station-15th-anniversary-retro-release.json) |
 | Puzzle Strike | 34863 | [34863-puzzle-strike.json](./34863-puzzle-strike.json) |
 | Puzzle Sudoku | 304171 | [304171-puzzle-sudoku.json](./304171-puzzle-sudoku.json) |
