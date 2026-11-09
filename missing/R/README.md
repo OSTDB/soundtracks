@@ -5650,6 +5650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rescue Mary: Manor Renovation | 227949 | [227949-rescue-mary-manor-renovation.json](./227949-rescue-mary-manor-renovation.json) |
 | Rescue Mission | 18140 | [18140-rescue-mission.json](./18140-rescue-mission.json) |
 | Rescue my Queen! | 140998 | [140998-rescue-my-queen.json](./140998-rescue-my-queen.json) |
+| Rescue on Fractalus! | 201 | [201-rescue-on-fractalus.json](./201-rescue-on-fractalus.json) |
 | Rescue Operation | 158856 | [158856-rescue-operation.json](./158856-rescue-operation.json) |
 | Rescue Operations Simulator | 216537 | [216537-rescue-operations-simulator.json](./216537-rescue-operations-simulator.json) |
 | Rescue Ops: Wildfire | 349412 | [349412-rescue-ops-wildfire.json](./349412-rescue-ops-wildfire.json) |
