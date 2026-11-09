@@ -7801,6 +7801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ChillCraft | 256393 | [256393-chillcraft.json](./256393-chillcraft.json) |
 | Chilled Chicken | 262421 | [262421-chilled-chicken.json](./262421-chilled-chicken.json) |
 | Chiller | 11727 | [11727-chiller.json](./11727-chiller.json) |
+| Chiller | 13488 | [13488-chiller.json](./13488-chiller.json) |
 | Chiller | 229644 | [229644-chiller.json](./229644-chiller.json) |
 | Chiller | 247378 | [247378-chiller.json](./247378-chiller.json) |
 | Chilli Con Valley | 187200 | [187200-chilli-con-valley.json](./187200-chilli-con-valley.json) |
@@ -7817,6 +7818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chime Candy | 281994 | [281994-chime-candy.json](./281994-chime-candy.json) |
 | Chime Sharp | 17907 | [17907-chime-sharp.json](./17907-chime-sharp.json) |
 | Chime Sharp Game Composer Edition | 122147 | [122147-chime-sharp-game-composer-edition.json](./122147-chime-sharp-game-composer-edition.json) |
+| Chimera | 13489 | [13489-chimera.json](./13489-chimera.json) |
 | Chimera | 195033 | [195033-chimera.json](./195033-chimera.json) |
 | Chimera | 312718 | [312718-chimera.json](./312718-chimera.json) |
 | Chimera | 380063 | [380063-chimera.json](./380063-chimera.json) |
@@ -8313,6 +8315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chopper Hunt | 25671 | [25671-chopper-hunt.json](./25671-chopper-hunt.json) |
 | Chopper I | 21732 | [21732-chopper-i.json](./21732-chopper-i.json) |
 | Chopper Mike | 62082 | [62082-chopper-mike.json](./62082-chopper-mike.json) |
+| Chopper Squad | 13490 | [13490-chopper-squad.json](./13490-chopper-squad.json) |
 | Chopper Strike | 304794 | [304794-chopper-strike.json](./304794-chopper-strike.json) |
 | Chopper to Hell | 117393 | [117393-chopper-to-hell.json](./117393-chopper-to-hell.json) |
 | Chopper X | 404195 | [404195-chopper-x.json](./404195-chopper-x.json) |
@@ -8451,6 +8454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chowderchu | 33815 | [33815-chowderchu.json](./33815-chowderchu.json) |
 | Chowdertwo | 29644 | [29644-chowdertwo.json](./29644-chowdertwo.json) |
 | Chowdown Kitty | 301284 | [301284-chowdown-kitty.json](./301284-chowdown-kitty.json) |
+| Choy-Lee-Fut: Kung-Fu Warrior | 13491 | [13491-choy-lee-fut-kung-fu-warrior.json](./13491-choy-lee-fut-kung-fu-warrior.json) |
 | Choyo Girl Lilina | 338516 | [338516-choyo-girl-lilina.json](./338516-choyo-girl-lilina.json) |
 | Choyo Girl Lilina 2 | 369533 | [369533-choyo-girl-lilina-2.json](./369533-choyo-girl-lilina-2.json) |
 | Choyo Girl Lilina: Complete Edition | 338517 | [338517-choyo-girl-lilina-complete-edition.json](./338517-choyo-girl-lilina-complete-edition.json) |
@@ -9048,6 +9052,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuck the Metalhead in Medieval Hell | 235809 | [235809-chuck-the-metalhead-in-medieval-hell.json](./235809-chuck-the-metalhead-in-medieval-hell.json) |
 | Chuck the Sheep | 386081 | [386081-chuck-the-sheep.json](./386081-chuck-the-sheep.json) |
 | Chuck Yeagar's Fighter Combat | 48367 | [48367-chuck-yeagars-fighter-combat.json](./48367-chuck-yeagars-fighter-combat.json) |
+| Chuck Yeager's Advanced Flight Trainer | 13493 | [13493-chuck-yeagers-advanced-flight-trainer.json](./13493-chuck-yeagers-advanced-flight-trainer.json) |
+| Chuck Yeager's Advanced Flight Trainer 2.0 | 13494 | [13494-chuck-yeagers-advanced-flight-trainer-2-0.json](./13494-chuck-yeagers-advanced-flight-trainer-2-0.json) |
 | Chuck Yeager's Air Combat | 51396 | [51396-chuck-yeagers-air-combat.json](./51396-chuck-yeagers-air-combat.json) |
 | Chuck's Challenge | 130048 | [130048-chucks-challenge.json](./130048-chucks-challenge.json) |
 | Chuck's Challenge 3D 2020 | 139021 | [139021-chucks-challenge-3d-2020.json](./139021-chucks-challenge-3d-2020.json) |
