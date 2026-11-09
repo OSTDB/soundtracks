@@ -3905,6 +3905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Voxella | 186249 | [186249-voxella.json](./186249-voxella.json) |
 | VoxelMaker | 85481 | [85481-voxelmaker.json](./85481-voxelmaker.json) |
 | VoxelMancy | 194942 | [194942-voxelmancy.json](./194942-voxelmancy.json) |
+| VoxelMaze | 58923 | [58923-voxelmaze.json](./58923-voxelmaze.json) |
 | Voxelony | 385358 | [385358-voxelony.json](./385358-voxelony.json) |
 | Voxels.Place | 398436 | [398436-voxels-place.json](./398436-voxels-place.json) |
 | VoxelScaper | 272879 | [272879-voxelscaper.json](./272879-voxelscaper.json) |
