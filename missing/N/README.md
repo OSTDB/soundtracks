@@ -1379,6 +1379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Infinite | 257015 | [257015-nba-infinite.json](./257015-nba-infinite.json) |
 | NBA Inside Drive 2000 | 79656 | [79656-nba-inside-drive-2000.json](./79656-nba-inside-drive-2000.json) |
 | NBA Inside Drive 2002 | 23446 | [23446-nba-inside-drive-2002.json](./23446-nba-inside-drive-2002.json) |
+| NBA Inside Drive 2003 | 47358 | [47358-nba-inside-drive-2003.json](./47358-nba-inside-drive-2003.json) |
 | NBA Inside Drive 2004 | 24124 | [24124-nba-inside-drive-2004.json](./24124-nba-inside-drive-2004.json) |
 | NBA Jam | 198835 | [198835-nba-jam.json](./198835-nba-jam.json) |
 | NBA Jam | 5059 | [5059-nba-jam.json](./5059-nba-jam.json) |
@@ -1453,6 +1454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Show Time: NBA on NBC | 49902 | [49902-nba-show-time-nba-on-nbc.json](./49902-nba-show-time-nba-on-nbc.json) |
 | NBA Showdown | 45573 | [45573-nba-showdown.json](./45573-nba-showdown.json) |
 | NBA Showtime: NBA on NBC | 3554 | [3554-nba-showtime-nba-on-nbc.json](./3554-nba-showtime-nba-on-nbc.json) |
+| NBA Starting Five | 47356 | [47356-nba-starting-five.json](./47356-nba-starting-five.json) |
 | NBA Starting Five 2005 | 67406 | [67406-nba-starting-five-2005.json](./67406-nba-starting-five-2005.json) |
 | NBA Street | 4035 | [4035-nba-street.json](./4035-nba-street.json) |
 | NBA Street Homecourt | 7108 | [7108-nba-street-homecourt.json](./7108-nba-street-homecourt.json) |
@@ -1517,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA Gamebreaker 98 | 43825 | [43825-ncaa-gamebreaker-98.json](./43825-ncaa-gamebreaker-98.json) |
 | NCAA GameBreaker 99 | 43711 | [43711-ncaa-gamebreaker-99.json](./43711-ncaa-gamebreaker-99.json) |
 | NCAA March Madness '98 | 43710 | [43710-ncaa-march-madness-98.json](./43710-ncaa-march-madness-98.json) |
+| NCAA March Madness 04 | 47378 | [47378-ncaa-march-madness-04.json](./47378-ncaa-march-madness-04.json) |
 | NCAA March Madness 06 | 5958 | [5958-ncaa-march-madness-06.json](./5958-ncaa-march-madness-06.json) |
 | NCAA March Madness 07 | 21392 | [21392-ncaa-march-madness-07.json](./21392-ncaa-march-madness-07.json) |
 | NCAA March Madness 2000 | 43822 | [43822-ncaa-march-madness-2000.json](./43822-ncaa-march-madness-2000.json) |
@@ -5153,6 +5156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ningyou Genkai | 239799 | [239799-ningyou-genkai.json](./239799-ningyou-genkai.json) |
 | Ningyou no Kizuato | 255112 | [255112-ningyou-no-kizuato.json](./255112-ningyou-no-kizuato.json) |
 | Ningyou Tsukai | 41407 | [41407-ningyou-tsukai.json](./41407-ningyou-tsukai.json) |
+| Ningyou Tsukai 2 | 46933 | [46933-ningyou-tsukai-2.json](./46933-ningyou-tsukai-2.json) |
 | NiNi | 134803 | [134803-nini.json](./134803-nini.json) |
 | Nini Ninja's Great Escape | 265316 | [265316-nini-ninjas-great-escape.json](./265316-nini-ninjas-great-escape.json) |
 | Ninja | 12837 | [12837-ninja.json](./12837-ninja.json) |
