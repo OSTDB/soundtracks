@@ -128,6 +128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D' | 174654 | [174654-d.json](./174654-d.json) |
 | D'ark | 412132 | [412132-dark.json](./412132-dark.json) |
 | D'ark Gaiden | 412135 | [412135-dark-gaiden.json](./412135-dark-gaiden.json) |
+| D'Arrancar | 57794 | [57794-darrancar.json](./57794-darrancar.json) |
 | D'lirium: The Golden Rogue | 111433 | [111433-dlirium-the-golden-rogue.json](./111433-dlirium-the-golden-rogue.json) |
 | D'ni Legacy | 142085 | [142085-dni-legacy.json](./142085-dni-legacy.json) |
 | D's Diner: The Director's Cut | 245311 | [245311-ds-diner-the-directors-cut.json](./245311-ds-diner-the-directors-cut.json) |
@@ -606,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daloman Depths | 159139 | [159139-daloman-depths.json](./159139-daloman-depths.json) |
 | Dalruan: World of Magic | 169254 | [169254-dalruan-world-of-magic.json](./169254-dalruan-world-of-magic.json) |
 | Dalton: The Awesome! | 263577 | [263577-dalton-the-awesome.json](./263577-dalton-the-awesome.json) |
+| Dalton4 | 57782 | [57782-dalton4.json](./57782-dalton4.json) |
 | Daluob | 388502 | [388502-daluob.json](./388502-daluob.json) |
 | Dam Dam Stompland | 92317 | [92317-dam-dam-stompland.json](./92317-dam-dam-stompland.json) |
 | Dam Panic | 346038 | [346038-dam-panic.json](./346038-dam-panic.json) |
@@ -16013,6 +16015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DragonSky | 68251 | [68251-dragonsky.json](./68251-dragonsky.json) |
 | Dragonslayer | 58996 | [58996-dragonslayer.json](./58996-dragonslayer.json) |
 | DragonSnake VR | 115361 | [115361-dragonsnake-vr.json](./115361-dragonsnake-vr.json) |
+| DragonSoul | 57807 | [57807-dragonsoul.json](./57807-dragonsoul.json) |
 | DragonSpear EX | 200164 | [200164-dragonspear-ex.json](./200164-dragonspear-ex.json) |
 | Dragonsphere | 2487 | [2487-dragonsphere.json](./2487-dragonsphere.json) |
 | Dragonspire | 221139 | [221139-dragonspire.json](./221139-dragonspire.json) |
@@ -18201,6 +18204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dude Fighter | 337060 | [337060-dude-fighter.json](./337060-dude-fighter.json) |
 | Dude in the Dark | 392863 | [392863-dude-in-the-dark.json](./392863-dude-in-the-dark.json) |
 | Dude My House Is Haunted | 362354 | [362354-dude-my-house-is-haunted.json](./362354-dude-my-house-is-haunted.json) |
+| Dude Perfect | 57776 | [57776-dude-perfect.json](./57776-dude-perfect.json) |
 | Dude Perfect HD | 86892 | [86892-dude-perfect-hd.json](./86892-dude-perfect-hd.json) |
 | Dude Perfect: Trickshot Challenge | 421397 | [421397-dude-perfect-trickshot-challenge.json](./421397-dude-perfect-trickshot-challenge.json) |
 | Dude Quest | 240139 | [240139-dude-quest.json](./240139-dude-quest.json) |
