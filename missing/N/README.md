@@ -119,6 +119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nagi no Koi | 304834 | [304834-nagi-no-koi.json](./304834-nagi-no-koi.json) |
 | Naginami and the Crimson Thread | 294917 | [294917-naginami-and-the-crimson-thread.json](./294917-naginami-and-the-crimson-thread.json) |
 | NagiQ | 54971 | [54971-nagiq.json](./54971-nagiq.json) |
+| NagiQ 2 | 70701 | [70701-nagiq-2.json](./70701-nagiq-2.json) |
 | NagiQ 2: Treasure Hunt | 239555 | [239555-nagiq-2-treasure-hunt.json](./239555-nagiq-2-treasure-hunt.json) |
 | Nagomibako Innocent Grey Fandisc | 166383 | [166383-nagomibako-innocent-grey-fandisc.json](./166383-nagomibako-innocent-grey-fandisc.json) |
 | NaGongGan Infinite | 165773 | [165773-nagonggan-infinite.json](./165773-nagonggan-infinite.json) |
