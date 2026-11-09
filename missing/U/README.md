@@ -388,6 +388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima IV: Quest of the Avatar | 2878 | [2878-ultima-iv-quest-of-the-avatar.json](./2878-ultima-iv-quest-of-the-avatar.json) |
 | Ultima IX: Ascension | 7083 | [7083-ultima-ix-ascension.json](./7083-ultima-ix-ascension.json) |
 | Ultima Nex | 365823 | [365823-ultima-nex.json](./365823-ultima-nex.json) |
+| Ultima Online | 3126 | [3126-ultima-online.json](./3126-ultima-online.json) |
 | Ultima Online: 9th Anniversary Edition | 206624 | [206624-ultima-online-9th-anniversary-edition.json](./206624-ultima-online-9th-anniversary-edition.json) |
 | Ultima Online: Age of Shadows | 69219 | [69219-ultima-online-age-of-shadows.json](./69219-ultima-online-age-of-shadows.json) |
 | Ultima Online: Axe Marks the Spot | 206618 | [206618-ultima-online-axe-marks-the-spot.json](./206618-ultima-online-axe-marks-the-spot.json) |
