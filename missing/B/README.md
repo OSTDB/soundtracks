@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2064,6 +2065,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Band of Outlaws | 54491 | [54491-band-of-outlaws.json](./54491-band-of-outlaws.json) |
 | Band Saga | 60563 | [60563-band-saga.json](./60563-band-saga.json) |
 | Band Space | 223432 | [223432-band-space.json](./223432-band-space.json) |
+| Band Stars | 57879 | [57879-band-stars.json](./57879-band-stars.json) |
 | Band Together | 358417 | [358417-band-together.json](./358417-band-together.json) |
 | Band Wagon | 91435 | [91435-band-wagon.json](./91435-band-wagon.json) |
 | Band Yarouze! | 175680 | [175680-band-yarouze.json](./175680-band-yarouze.json) |
@@ -4493,6 +4495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleplan | 375578 | [375578-battleplan.json](./375578-battleplan.json) |
 | Battleplan: American Civil War | 10041 | [10041-battleplan-american-civil-war.json](./10041-battleplan-american-civil-war.json) |
 | BattlePlan! | 274870 | [274870-battleplan.json](./274870-battleplan.json) |
+| Battleplans | 58333 | [58333-battleplans.json](./58333-battleplans.json) |
 | BattlePlatform | 283985 | [283985-battleplatform.json](./283985-battleplatform.json) |
 | Battlepopes | 256728 | [256728-battlepopes.json](./256728-battlepopes.json) |
 | Battler | 290926 | [290926-battler.json](./290926-battler.json) |
@@ -4536,6 +4539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battles of the Ancient World | 67597 | [67597-battles-of-the-ancient-world.json](./67597-battles-of-the-ancient-world.json) |
 | Battles of the Ancient World II | 200300 | [200300-battles-of-the-ancient-world-ii.json](./200300-battles-of-the-ancient-world-ii.json) |
 | Battles of the Ancient World III | 197344 | [197344-battles-of-the-ancient-world-iii.json](./197344-battles-of-the-ancient-world-iii.json) |
+| Battles of the Valiant Universe | 58341 | [58341-battles-of-the-valiant-universe.json](./58341-battles-of-the-valiant-universe.json) |
 | Battles of the Valiant Universe CCG | 30663 | [30663-battles-of-the-valiant-universe-ccg.json](./30663-battles-of-the-valiant-universe-ccg.json) |
 | Battles Pirates: HQ | 102666 | [102666-battles-pirates-hq.json](./102666-battles-pirates-hq.json) |
 | BattleSail | 391974 | [391974-battlesail.json](./391974-battlesail.json) |
@@ -17323,6 +17327,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buddy Flip | 90328 | [90328-buddy-flip.json](./90328-buddy-flip.json) |
 | Buddy Garden | 356003 | [356003-buddy-garden.json](./356003-buddy-garden.json) |
 | Buddy Rush | 78845 | [78845-buddy-rush.json](./78845-buddy-rush.json) |
+| Buddy Rush: The Legends | 58349 | [58349-buddy-rush-the-legends.json](./58349-buddy-rush-the-legends.json) |
 | Buddy Shell | 328071 | [328071-buddy-shell.json](./328071-buddy-shell.json) |
 | Buddy Shell 2 | 328070 | [328070-buddy-shell-2.json](./328070-buddy-shell-2.json) |
 | Buddy Thunderstruck: The Maybe Pile | 322248 | [322248-buddy-thunderstruck-the-maybe-pile.json](./322248-buddy-thunderstruck-the-maybe-pile.json) |
