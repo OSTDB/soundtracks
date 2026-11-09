@@ -3686,6 +3686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | InFailtration | 182623 | [182623-infailtration.json](./182623-infailtration.json) |
 | Infamous 18 | 378396 | [378396-infamous-18.json](./378396-infamous-18.json) |
 | Infamous 2: Hero Edition | 139698 | [139698-infamous-2-hero-edition.json](./139698-infamous-2-hero-edition.json) |
+| Infamous 2: Special Edition | 43378 | [43378-infamous-2-special-edition.json](./43378-infamous-2-special-edition.json) |
 | Infamous Collection | 23828 | [23828-infamous-collection.json](./23828-infamous-collection.json) |
 | Infamous Duck Ball | 185198 | [185198-infamous-duck-ball.json](./185198-infamous-duck-ball.json) |
 | Infamous Keepers | 398591 | [398591-infamous-keepers.json](./398591-infamous-keepers.json) |
