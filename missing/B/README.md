@@ -409,6 +409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to Ashes | 120862 | [120862-back-to-ashes.json](./120862-back-to-ashes.json) |
 | Back To Back | 330490 | [330490-back-to-back.json](./330490-back-to-back.json) |
 | Back To Back | 379992 | [379992-back-to-back.json](./379992-back-to-back.json) |
+| Back to Baghdad | 73394 | [73394-back-to-baghdad.json](./73394-back-to-baghdad.json) |
 | Back to Base(Q2)ics Jam 1 | 316741 | [316741-back-to-base-q2-ics-jam-1.json](./316741-back-to-base-q2-ics-jam-1.json) |
 | Back to Basics | 256852 | [256852-back-to-basics.json](./256852-back-to-basics.json) |
 | Back to Bed | 135454 | [135454-back-to-bed.json](./135454-back-to-bed.json) |
@@ -988,7 +989,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6720,6 +6720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bennu | 94057 | [94057-bennu.json](./94057-bennu.json) |
 | Bennu Bennu: Protect the Pyramid | 253378 | [253378-bennu-bennu-protect-the-pyramid.json](./253378-bennu-bennu-protect-the-pyramid.json) |
 | Benny Bash | 330973 | [330973-benny-bash.json](./330973-benny-bash.json) |
+| Benny Hill's Madcap Chase | 73417 | [73417-benny-hills-madcap-chase.json](./73417-benny-hills-madcap-chase.json) |
 | Benny the Blob | 322614 | [322614-benny-the-blob.json](./322614-benny-the-blob.json) |
 | Benny's Backrooms | 303109 | [303109-bennys-backrooms.json](./303109-bennys-backrooms.json) |
 | Bēnpǎo ba Qiúqiú | 163582 | [163582-benpao-ba-qiuqiu.json](./163582-benpao-ba-qiuqiu.json) |
@@ -10685,6 +10686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Breaker | 195789 | [195789-block-breaker.json](./195789-block-breaker.json) |
 | Block Breaker | 338246 | [338246-block-breaker.json](./338246-block-breaker.json) |
 | Block Breaker | 384648 | [384648-block-breaker.json](./384648-block-breaker.json) |
+| Block Breaker | 73386 | [73386-block-breaker.json](./73386-block-breaker.json) |
 | Block Breaker 2 | 200568 | [200568-block-breaker-2.json](./200568-block-breaker-2.json) |
 | Block Breaker 3 Unlimited | 239471 | [239471-block-breaker-3-unlimited.json](./239471-block-breaker-3-unlimited.json) |
 | Block Breaker Deluxe | 21822 | [21822-block-breaker-deluxe.json](./21822-block-breaker-deluxe.json) |
@@ -12092,6 +12094,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue's Birthday | 229070 | [229070-blues-birthday.json](./229070-blues-birthday.json) |
 | Blue's Clues Kindergarten | 7973 | [7973-blues-clues-kindergarten.json](./7973-blues-clues-kindergarten.json) |
 | Blue's Clues: Blue's Alphabet Book | 49911 | [49911-blues-clues-blues-alphabet-book.json](./49911-blues-clues-blues-alphabet-book.json) |
+| Blue's Clues: Blue's Art Time Activities | 73403 | [73403-blues-clues-blues-art-time-activities.json](./73403-blues-clues-blues-art-time-activities.json) |
 | Blue's Clues: Blue's Big Musical | 9701 | [9701-blues-clues-blues-big-musical.json](./9701-blues-clues-blues-big-musical.json) |
 | Blue's Clues: Meet Blue's Baby Brother | 206460 | [206460-blues-clues-meet-blues-baby-brother.json](./206460-blues-clues-meet-blues-baby-brother.json) |
 | Blue's Clues: Preschool | 23776 | [23776-blues-clues-preschool.json](./23776-blues-clues-preschool.json) |
@@ -16581,6 +16584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bru & Boegie: Episode 1 - Get da Milk! | 345617 | [345617-bru-and-boegie-episode-1-get-da-milk.json](./345617-bru-and-boegie-episode-1-get-da-milk.json) |
 | Bruce and Box | 300777 | [300777-bruce-and-box.json](./300777-bruce-and-box.json) |
 | Bruce Campbell vs Ganon | 251701 | [251701-bruce-campbell-vs-ganon.json](./251701-bruce-campbell-vs-ganon.json) |
+| Bruce Jenner's World Class Decathlon | 73387 | [73387-bruce-jenners-world-class-decathlon.json](./73387-bruce-jenners-world-class-decathlon.json) |
 | Bruce Lee | 13447 | [13447-bruce-lee.json](./13447-bruce-lee.json) |
 | Bruce Lee | 198702 | [198702-bruce-lee.json](./198702-bruce-lee.json) |
 | Bruce Lee Dragon Run | 103926 | [103926-bruce-lee-dragon-run.json](./103926-bruce-lee-dragon-run.json) |
