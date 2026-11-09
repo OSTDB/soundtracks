@@ -3319,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Techno: The Gamma Project | 331976 | [331976-techno-the-gamma-project.json](./331976-techno-the-gamma-project.json) |
 | Technobabylon: Birthright | 260051 | [260051-technobabylon-birthright.json](./260051-technobabylon-birthright.json) |
 | Technobabylon: Deluxe Edition | 51929 | [51929-technobabylon-deluxe-edition.json](./51929-technobabylon-deluxe-edition.json) |
+| Technoball | 30006 | [30006-technoball.json](./30006-technoball.json) |
 | Technoblade The Quest Of L'Manburg | 337634 | [337634-technoblade-the-quest-of-lmanburg.json](./337634-technoblade-the-quest-of-lmanburg.json) |
 | Technobog | 199445 | [199445-technobog.json](./199445-technobog.json) |
 | Technoccult: Covenant | 153764 | [153764-technoccult-covenant.json](./153764-technoccult-covenant.json) |
@@ -4424,6 +4425,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tequila Sunrise | 135821 | [135821-tequila-sunrise.json](./135821-tequila-sunrise.json) |
 | Tequila Zombies | 93552 | [93552-tequila-zombies.json](./93552-tequila-zombies.json) |
 | Tequila Zombies 2 | 93551 | [93551-tequila-zombies-2.json](./93551-tequila-zombies-2.json) |
+| Tequila Zombies 3 | 29353 | [29353-tequila-zombies-3.json](./29353-tequila-zombies-3.json) |
 | Tequila Zombies 3: Things to Die For | 59063 | [59063-tequila-zombies-3-things-to-die-for.json](./59063-tequila-zombies-3-things-to-die-for.json) |
 | Tera | 7533 | [7533-tera.json](./7533-tera.json) |
 | Tera M | 77714 | [77714-tera-m.json](./77714-tera-m.json) |
@@ -6808,6 +6810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bit's Escape | 287756 | [287756-the-bits-escape.json](./287756-the-bits-escape.json) |
 | The Bitmap Brothers Collection 1 | 147181 | [147181-the-bitmap-brothers-collection-1.json](./147181-the-bitmap-brothers-collection-1.json) |
 | The Bitmap Brothers Collection 2 | 325242 | [325242-the-bitmap-brothers-collection-2.json](./325242-the-bitmap-brothers-collection-2.json) |
+| The Bits That Saved the Universe | 29979 | [29979-the-bits-that-saved-the-universe.json](./29979-the-bits-that-saved-the-universe.json) |
 | The Bitsy Jim Jam | 184038 | [184038-the-bitsy-jim-jam.json](./184038-the-bitsy-jim-jam.json) |
 | The Biz | 62023 | [62023-the-biz.json](./62023-the-biz.json) |
 | The Bizarre Adventures of Woodruff and the Schnibble | 2226 | [2226-the-bizarre-adventures-of-woodruff-and-the-schnibble.json](./2226-the-bizarre-adventures-of-woodruff-and-the-schnibble.json) |
@@ -15925,6 +15928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Rage of Valhalla | 213779 | [213779-the-rage-of-valhalla.json](./213779-the-rage-of-valhalla.json) |
 | The Raid of Brunswick | 397919 | [397919-the-raid-of-brunswick.json](./397919-the-raid-of-brunswick.json) |
 | The Raiden Project | 20301 | [20301-the-raiden-project.json](./20301-the-raiden-project.json) |
+| The Raiders | 29350 | [29350-the-raiders.json](./29350-the-raiders.json) |
 | The Rail | 57419 | [57419-the-rail.json](./57419-the-rail.json) |
 | The RailIdle | 243494 | [243494-the-railidle.json](./243494-the-railidle.json) |
 | The Railroad Works | 72047 | [72047-the-railroad-works.json](./72047-the-railroad-works.json) |
@@ -17816,6 +17820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Strawman Augment | 314464 | [314464-the-strawman-augment.json](./314464-the-strawman-augment.json) |
 | The Stray Cat | 99061 | [99061-the-stray-cat.json](./99061-the-stray-cat.json) |
 | The Stray Laboratory | 302668 | [302668-the-stray-laboratory.json](./302668-the-stray-laboratory.json) |
+| The Strayed | 30018 | [30018-the-strayed.json](./30018-the-strayed.json) |
 | The Street 10 | 282031 | [282031-the-street-10.json](./282031-the-street-10.json) |
 | The Street King | 413727 | [413727-the-street-king.json](./413727-the-street-king.json) |
 | The Strike | 34011 | [34011-the-strike.json](./34011-the-strike.json) |
@@ -31097,6 +31102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trapped on Monster Island | 116507 | [116507-trapped-on-monster-island.json](./116507-trapped-on-monster-island.json) |
 | Trapped Out | 338612 | [338612-trapped-out.json](./338612-trapped-out.json) |
 | Trapped Part One: The White Rabbit | 257854 | [257854-trapped-part-one-the-white-rabbit.json](./257854-trapped-part-one-the-white-rabbit.json) |
+| Trapped Souls | 30026 | [30026-trapped-souls.json](./30026-trapped-souls.json) |
 | Trapped Summoner | 38495 | [38495-trapped-summoner.json](./38495-trapped-summoner.json) |
 | Trapped Summoner: Taigren's Secrets | 172194 | [172194-trapped-summoner-taigrens-secrets.json](./172194-trapped-summoner-taigrens-secrets.json) |
 | Trapped Terrors | 299535 | [299535-trapped-terrors.json](./299535-trapped-terrors.json) |
@@ -31624,6 +31630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TreeConnect | 92140 | [92140-treeconnect.json](./92140-treeconnect.json) |
 | Treefender | 204263 | [204263-treefender.json](./204263-treefender.json) |
 | Treefiner | 338611 | [338611-treefiner.json](./338611-treefiner.json) |
+| Treehouse Basketball | 30024 | [30024-treehouse-basketball.json](./30024-treehouse-basketball.json) |
 | Treehouse Riddle | 123888 | [123888-treehouse-riddle.json](./123888-treehouse-riddle.json) |
 | Treehouse Trouble | 181133 | [181133-treehouse-trouble.json](./181133-treehouse-trouble.json) |
 | Treehouse Truants | 69333 | [69333-treehouse-truants.json](./69333-treehouse-truants.json) |
@@ -31710,6 +31717,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tres-Bashers | 166809 | [166809-tres-bashers.json](./166809-tres-bashers.json) |
 | Tresmir Sight | 298169 | [298169-tresmir-sight.json](./298169-tresmir-sight.json) |
 | Trespass: Episode 1 | 31879 | [31879-trespass-episode-1.json](./31879-trespass-episode-1.json) |
+| Trespass: Episode 2 | 29999 | [29999-trespass-episode-2.json](./29999-trespass-episode-2.json) |
 | Trespasser | 382812 | [382812-trespasser.json](./382812-trespasser.json) |
 | Trespasser 2 | 204111 | [204111-trespasser-2.json](./204111-trespasser-2.json) |
 | Trespassers | 74249 | [74249-trespassers.json](./74249-trespassers.json) |
