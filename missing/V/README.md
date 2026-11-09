@@ -3319,6 +3319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | vMigo | 220275 | [220275-vmigo.json](./220275-vmigo.json) |
 | VMod | 129164 | [129164-vmod.json](./129164-vmod.json) |
 | VMX | 334205 | [334205-vmx.json](./334205-vmx.json) |
+| VMX Racing | 44930 | [44930-vmx-racing.json](./44930-vmx-racing.json) |
 | VN Dating Sims: Masa SMA | 214623 | [214623-vn-dating-sims-masa-sma.json](./214623-vn-dating-sims-masa-sma.json) |
 | VNC: Virtual Nightclub | 112574 | [112574-vnc-virtual-nightclub.json](./112574-vnc-virtual-nightclub.json) |
 | Vnesis | 192737 | [192737-vnesis.json](./192737-vnesis.json) |
@@ -4002,6 +4003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Baseball - Home Run Competition | 33105 | [33105-vr-baseball-home-run-competition.json](./33105-vr-baseball-home-run-competition.json) |
 | VR Baseball '97 | 20819 | [20819-vr-baseball-97.json](./20819-vr-baseball-97.json) |
 | VR Baseball 2000 | 62254 | [62254-vr-baseball-2000.json](./62254-vr-baseball-2000.json) |
+| VR Baseball 99 | 44931 | [44931-vr-baseball-99.json](./44931-vr-baseball-99.json) |
 | VR Basketball Hoops | 148686 | [148686-vr-basketball-hoops.json](./148686-vr-basketball-hoops.json) |
 | VR Basketball Sweetie | 384516 | [384516-vr-basketball-sweetie.json](./384516-vr-basketball-sweetie.json) |
 | VR Batting | 29172 | [29172-vr-batting.json](./29172-vr-batting.json) |
@@ -4201,6 +4203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Space Stalker | 188240 | [188240-vr-space-stalker.json](./188240-vr-space-stalker.json) |
 | VR Spaceship Battle | 155882 | [155882-vr-spaceship-battle.json](./155882-vr-spaceship-battle.json) |
 | VR Sport and Cycling | 116304 | [116304-vr-sport-and-cycling.json](./116304-vr-sport-and-cycling.json) |
+| VR Sports Powerboat Racing | 44928 | [44928-vr-sports-powerboat-racing.json](./44928-vr-sports-powerboat-racing.json) |
 | VR Sports: Challenge | 59093 | [59093-vr-sports-challenge.json](./59093-vr-sports-challenge.json) |
 | VR Sports: Powerboat Racing | 72231 | [72231-vr-sports-powerboat-racing.json](./72231-vr-sports-powerboat-racing.json) |
 | VR Squash 2017 | 74398 | [74398-vr-squash-2017.json](./74398-vr-squash-2017.json) |
