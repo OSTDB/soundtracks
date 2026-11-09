@@ -19979,6 +19979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theatrhythm Dragon Quest | 60767 | [60767-theatrhythm-dragon-quest.json](./60767-theatrhythm-dragon-quest.json) |
 | Theatrhythm Final Bar Line | 217556 | [217556-theatrhythm-final-bar-line.json](./217556-theatrhythm-final-bar-line.json) |
 | Theatrhythm Final Fantasy | 6902 | [6902-theatrhythm-final-fantasy.json](./6902-theatrhythm-final-fantasy.json) |
+| Theatrhythm Final Fantasy: All-Star Carnival | 57793 | [57793-theatrhythm-final-fantasy-all-star-carnival.json](./57793-theatrhythm-final-fantasy-all-star-carnival.json) |
 | Theatrhythm Final Fantasy: Curtain Call | 5679 | [5679-theatrhythm-final-fantasy-curtain-call.json](./5679-theatrhythm-final-fantasy-curtain-call.json) |
 | Theatrhythm Final Fantasy: Curtain Call - Collector's Edition | 89895 | [89895-theatrhythm-final-fantasy-curtain-call-collectors-edition.json](./89895-theatrhythm-final-fantasy-curtain-call-collectors-edition.json) |
 | Theatrhythm Final Fantasy: Curtain Call - Limited Edition | 89894 | [89894-theatrhythm-final-fantasy-curtain-call-limited-edition.json](./89894-theatrhythm-final-fantasy-curtain-call-limited-edition.json) |
@@ -24539,6 +24540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Attack: Wall Defense FPS | 175716 | [175716-titan-attack-wall-defense-fps.json](./175716-titan-attack-wall-defense-fps.json) |
 | Titan Attacks! | 11460 | [11460-titan-attacks.json](./11460-titan-attacks.json) |
 | Titan Brawl | 57544 | [57544-titan-brawl.json](./57544-titan-brawl.json) |
+| Titan Charge | 57785 | [57785-titan-charge.json](./57785-titan-charge.json) |
 | Titan Chaser | 132513 | [132513-titan-chaser.json](./132513-titan-chaser.json) |
 | Titan Empire | 24657 | [24657-titan-empire.json](./24657-titan-empire.json) |
 | Titan Empires | 323314 | [323314-titan-empires.json](./323314-titan-empires.json) |
@@ -25054,6 +25056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tobor | 217406 | [217406-tobor.json](./217406-tobor.json) |
 | Tobot: Action Quiz Heroes | 346000 | [346000-tobot-action-quiz-heroes.json](./346000-tobot-action-quiz-heroes.json) |
 | Tobruk: The Clash of Armour | 36906 | [36906-tobruk-the-clash-of-armour.json](./36906-tobruk-the-clash-of-armour.json) |
+| Tobu Tobu Girl | 57317 | [57317-tobu-tobu-girl.json](./57317-tobu-tobu-girl.json) |
 | Tobu Tobu Girl Deluxe | 123211 | [123211-tobu-tobu-girl-deluxe.json](./123211-tobu-tobu-girl-deluxe.json) |
 | Toby | 378190 | [378190-toby.json](./378190-toby.json) |
 | Toby: The Secret Mine | 20342 | [20342-toby-the-secret-mine.json](./20342-toby-the-secret-mine.json) |
@@ -27947,6 +27950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower Princess | 115661 | [115661-tower-princess.json](./115661-tower-princess.json) |
 | Tower Quest | 58626 | [58626-tower-quest.json](./58626-tower-quest.json) |
 | Tower RE | 269896 | [269896-tower-re.json](./269896-tower-re.json) |
+| Tower Rumble | 57805 | [57805-tower-rumble.json](./57805-tower-rumble.json) |
 | Tower Shield | 387588 | [387588-tower-shield.json](./387588-tower-shield.json) |
 | Tower Sim: Pixel Tycoon City | 174966 | [174966-tower-sim-pixel-tycoon-city.json](./174966-tower-sim-pixel-tycoon-city.json) |
 | Tower Skydiver | 226436 | [226436-tower-skydiver.json](./226436-tower-skydiver.json) |
@@ -28277,6 +28281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toy Commander | 10125 | [10125-toy-commander.json](./10125-toy-commander.json) |
 | Toy Cowboy Royale: RPG Dragon's Challenge | 378955 | [378955-toy-cowboy-royale-rpg-dragons-challenge.json](./378955-toy-cowboy-royale-rpg-dragons-challenge.json) |
 | Toy Craft | 259887 | [259887-toy-craft.json](./259887-toy-craft.json) |
+| Toy Defense | 57791 | [57791-toy-defense.json](./57791-toy-defense.json) |
 | Toy Defense. World War I | 88687 | [88687-toy-defense-world-war-i.json](./88687-toy-defense-world-war-i.json) |
 | TOY DJ - An Electronic Music Rhythm Game | 100909 | [100909-toy-dj-an-electronic-music-rhythm-game.json](./100909-toy-dj-an-electronic-music-rhythm-game.json) |
 | Toy Drop Balance Challenge | 342152 | [342152-toy-drop-balance-challenge.json](./342152-toy-drop-balance-challenge.json) |
