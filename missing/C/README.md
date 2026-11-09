@@ -11414,6 +11414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cobi Shoot | 257873 | [257873-cobi-shoot.json](./257873-cobi-shoot.json) |
 | Cobi Treasure | 9798 | [9798-cobi-treasure.json](./9798-cobi-treasure.json) |
 | Cobi Treasure Deluxe | 10097 | [10097-cobi-treasure-deluxe.json](./10097-cobi-treasure-deluxe.json) |
+| Cobos | 74596 | [74596-cobos.json](./74596-cobos.json) |
 | Cobots | 145901 | [145901-cobots.json](./145901-cobots.json) |
 | CoBots | 62707 | [62707-cobots.json](./62707-cobots.json) |
 | Cobra | 12945 | [12945-cobra.json](./12945-cobra.json) |
@@ -20873,6 +20874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cutie Crowd Control | 272776 | [272776-cutie-crowd-control.json](./272776-cutie-crowd-control.json) |
 | Cutie Garden | 188280 | [188280-cutie-garden.json](./188280-cutie-garden.json) |
 | Cutie Monsters Battle Arena | 90399 | [90399-cutie-monsters-battle-arena.json](./90399-cutie-monsters-battle-arena.json) |
+| Cutie Paws | 74650 | [74650-cutie-paws.json](./74650-cutie-paws.json) |
 | Cutie Pets Go Fishing | 85070 | [85070-cutie-pets-go-fishing.json](./85070-cutie-pets-go-fishing.json) |
 | Cutie Pets Jump Rope | 85069 | [85069-cutie-pets-jump-rope.json](./85069-cutie-pets-jump-rope.json) |
 | Cutie Pets Pick Berries | 85068 | [85068-cutie-pets-pick-berries.json](./85068-cutie-pets-pick-berries.json) |
