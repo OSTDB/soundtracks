@@ -1378,6 +1378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panmorphia: Awakened | 197256 | [197256-panmorphia-awakened.json](./197256-panmorphia-awakened.json) |
 | Panmorphia: Enchanted | 171621 | [171621-panmorphia-enchanted.json](./171621-panmorphia-enchanted.json) |
 | Panomap | 253875 | [253875-panomap.json](./253875-panomap.json) |
+| Panoplia: The Full Armor of God | 68205 | [68205-panoplia-the-full-armor-of-god.json](./68205-panoplia-the-full-armor-of-god.json) |
 | Panoptia | 270959 | [270959-panoptia.json](./270959-panoptia.json) |
 | Panoptic | 30932 | [30932-panoptic.json](./30932-panoptic.json) |
 | Panopticon | 371242 | [371242-panopticon.json](./371242-panopticon.json) |
@@ -11020,6 +11021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point Perfect | 10707 | [10707-point-perfect.json](./10707-point-perfect.json) |
 | Point Rescue Arcade | 211998 | [211998-point-rescue-arcade.json](./211998-point-rescue-arcade.json) |
 | Point Salad | 275422 | [275422-point-salad.json](./275422-point-salad.json) |
+| Point Snake | 68818 | [68818-point-snake.json](./68818-point-snake.json) |
 | Point Zero: Victoria | 390084 | [390084-point-zero-victoria.json](./390084-point-zero-victoria.json) |
 | Point'n'Click Lovers: Daedalic Adventure Bundle | 283723 | [283723-pointnclick-lovers-daedalic-adventure-bundle.json](./283723-pointnclick-lovers-daedalic-adventure-bundle.json) |
 | Pointblank | 131216 | [131216-pointblank.json](./131216-pointblank.json) |
@@ -15468,7 +15470,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Cycling 2010 | 61470 | [61470-pro-cycling-2010.json](./61470-pro-cycling-2010.json) |
 | Pro Cycling Manager | 68222 | [68222-pro-cycling-manager.json](./68222-pro-cycling-manager.json) |
 | Pro Cycling Manager 2006 | 94512 | [94512-pro-cycling-manager-2006.json](./94512-pro-cycling-manager-2006.json) |
+| Pro Cycling Manager 2007 | 68220 | [68220-pro-cycling-manager-2007.json](./68220-pro-cycling-manager-2007.json) |
 | Pro Cycling Manager 2008 | 21940 | [21940-pro-cycling-manager-2008.json](./21940-pro-cycling-manager-2008.json) |
+| Pro Cycling Manager 2009 | 68219 | [68219-pro-cycling-manager-2009.json](./68219-pro-cycling-manager-2009.json) |
 | Pro Cycling Manager 2010 | 67311 | [67311-pro-cycling-manager-2010.json](./67311-pro-cycling-manager-2010.json) |
 | Pro Cycling Manager 2011 | 10720 | [10720-pro-cycling-manager-2011.json](./10720-pro-cycling-manager-2011.json) |
 | Pro Cycling Manager 2012 | 10721 | [10721-pro-cycling-manager-2012.json](./10721-pro-cycling-manager-2012.json) |
