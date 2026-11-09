@@ -995,7 +995,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1435,6 +1434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldr Bringer Extend Code | 180651 | [180651-baldr-bringer-extend-code.json](./180651-baldr-bringer-extend-code.json) |
 | Baldr Bullet | 79721 | [79721-baldr-bullet.json](./79721-baldr-bullet.json) |
 | Baldr Fist | 180241 | [180241-baldr-fist.json](./180241-baldr-fist.json) |
+| Baldr Force | 6714 | [6714-baldr-force.json](./6714-baldr-force.json) |
 | Baldr Force Exe | 44622 | [44622-baldr-force-exe.json](./44622-baldr-force-exe.json) |
 | Baldr Heart | 56028 | [56028-baldr-heart.json](./56028-baldr-heart.json) |
 | Baldr Heart EXE | 56022 | [56022-baldr-heart-exe.json](./56022-baldr-heart-exe.json) |
@@ -4320,6 +4320,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleborn: Toby's Friendship Raid | 403135 | [403135-battleborn-tobys-friendship-raid.json](./403135-battleborn-tobys-friendship-raid.json) |
 | Battlebots | 198698 | [198698-battlebots.json](./198698-battlebots.json) |
 | Battlebots | 200686 | [200686-battlebots.json](./200686-battlebots.json) |
+| BattleBots: Beyond the BattleBox | 6320 | [6320-battlebots-beyond-the-battlebox.json](./6320-battlebots-beyond-the-battlebox.json) |
+| BattleBots: Design & Destroy | 6321 | [6321-battlebots-design-and-destroy.json](./6321-battlebots-design-and-destroy.json) |
 | Battlecade | 276256 | [276256-battlecade.json](./276256-battlecade.json) |
 | BattleCakes | 133006 | [133006-battlecakes.json](./133006-battlecakes.json) |
 | BattleCap | 302105 | [302105-battlecap.json](./302105-battlecap.json) |
@@ -8592,6 +8594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bionicle: Kapura Adventures | 195049 | [195049-bionicle-kapura-adventures.json](./195049-bionicle-kapura-adventures.json) |
 | Bionicle: Masks of Power | 141873 | [141873-bionicle-masks-of-power.json](./141873-bionicle-masks-of-power.json) |
 | Bionicle: Masks of Power - Legacy | 354948 | [354948-bionicle-masks-of-power-legacy.json](./354948-bionicle-masks-of-power-legacy.json) |
+| Bionicle: Matoran Adventures | 6322 | [6322-bionicle-matoran-adventures.json](./6322-bionicle-matoran-adventures.json) |
 | Bionicle: Maze of Shadows | 15738 | [15738-bionicle-maze-of-shadows.json](./15738-bionicle-maze-of-shadows.json) |
 | Bionicle: The Game | 248451 | [248451-bionicle-the-game.json](./248451-bionicle-the-game.json) |
 | Bionicle: The Game | 3811 | [3811-bionicle-the-game.json](./3811-bionicle-the-game.json) |
@@ -13195,12 +13198,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Live | 17456 | [17456-bomberman-live.json](./17456-bomberman-live.json) |
 | Bomberman Live: Battlefest | 67696 | [67696-bomberman-live-battlefest.json](./67696-bomberman-live-battlefest.json) |
 | Bomberman Max 2 | 69781 | [69781-bomberman-max-2.json](./69781-bomberman-max-2.json) |
+| Bomberman Max 2: Red Advance | 6333 | [6333-bomberman-max-2-red-advance.json](./6333-bomberman-max-2-red-advance.json) |
 | Bomberman Max: Ain Version | 197961 | [197961-bomberman-max-ain-version.json](./197961-bomberman-max-ain-version.json) |
 | Bomberman Max: Blue Champion | 49839 | [49839-bomberman-max-blue-champion.json](./49839-bomberman-max-blue-champion.json) |
 | Bomberman Max: Red Challenger | 49838 | [49838-bomberman-max-red-challenger.json](./49838-bomberman-max-red-challenger.json) |
 | Bomberman Next Gotochi Kanto-hen | 198063 | [198063-bomberman-next-gotochi-kanto-hen.json](./198063-bomberman-next-gotochi-kanto-hen.json) |
 | Bomberman Next Gotochi Kinki-hen | 198064 | [198064-bomberman-next-gotochi-kinki-hen.json](./198064-bomberman-next-gotochi-kinki-hen.json) |
 | Bomberman Nightmare | 142492 | [142492-bomberman-nightmare.json](./142492-bomberman-nightmare.json) |
+| Bomberman Online | 6716 | [6716-bomberman-online.json](./6716-bomberman-online.json) |
 | Bomberman Online Japan | 197976 | [197976-bomberman-online-japan.json](./197976-bomberman-online-japan.json) |
 | Bomberman Pinball | 198054 | [198054-bomberman-pinball.json](./198054-bomberman-pinball.json) |
 | Bomberman Planet Vol. 1 | 198057 | [198057-bomberman-planet-vol-1.json](./198057-bomberman-planet-vol-1.json) |
@@ -15316,6 +15321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bratz | 79719 | [79719-bratz.json](./79719-bratz.json) |
 | Bratz 4 Real | 213888 | [213888-bratz-4-real.json](./213888-bratz-4-real.json) |
 | Bratz 4 Real | 47872 | [47872-bratz-4-real.json](./47872-bratz-4-real.json) |
+| Bratz Babyz | 6336 | [6336-bratz-babyz.json](./6336-bratz-babyz.json) |
 | Bratz Fashion Pixiez: The Secret Necklace | 213374 | [213374-bratz-fashion-pixiez-the-secret-necklace.json](./213374-bratz-fashion-pixiez-the-secret-necklace.json) |
 | Bratz Kids: Slumber Party | 51006 | [51006-bratz-kids-slumber-party.json](./51006-bratz-kids-slumber-party.json) |
 | Bratz Kidz | 4727 | [4727-bratz-kidz.json](./4727-bratz-kidz.json) |
