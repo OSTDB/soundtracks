@@ -3524,6 +3524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fawful Mod Mario Kart Ds | 340979 | [340979-fawful-mod-mario-kart-ds.json](./340979-fawful-mod-mario-kart-ds.json) |
 | Fawn the Florist | 374109 | [374109-fawn-the-florist.json](./374109-fawn-the-florist.json) |
 | Fawning Over a Corpse | 266862 | [266862-fawning-over-a-corpse.json](./266862-fawning-over-a-corpse.json) |
+| Fawnix | 65069 | [65069-fawnix.json](./65069-fawnix.json) |
 | Fax | 39535 | [39535-fax.json](./39535-fax.json) |
 | Fax 2 | 407847 | [407847-fax-2.json](./407847-fax-2.json) |
 | Fax These to Smith!!! | 128562 | [128562-fax-these-to-smith.json](./128562-fax-these-to-smith.json) |
@@ -6408,6 +6409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fireworks Simulator: Realistic | 169400 | [169400-fireworks-simulator-realistic.json](./169400-fireworks-simulator-realistic.json) |
 | Firey's Candy Bar Adventure | 296227 | [296227-fireys-candy-bar-adventure.json](./296227-fireys-candy-bar-adventure.json) |
 | Firezone | 74397 | [74397-firezone.json](./74397-firezone.json) |
+| Firing Range | 65055 | [65055-firing-range.json](./65055-firing-range.json) |
 | Firing Vibes | 139680 | [139680-firing-vibes.json](./139680-firing-vibes.json) |
 | Firma | 35232 | [35232-firma.json](./35232-firma.json) |
 | Firmament | 89994 | [89994-firmament.json](./89994-firmament.json) |
@@ -11188,6 +11190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Four Great Games: Volume 2 | 70359 | [70359-four-great-games-volume-2.json](./70359-four-great-games-volume-2.json) |
 | Four Horsemen | 232040 | [232040-four-horsemen.json](./232040-four-horsemen.json) |
 | Four Horsemen | 56596 | [56596-four-horsemen.json](./56596-four-horsemen.json) |
+| Four Horsemen of the Apocalypse | 65093 | [65093-four-horsemen-of-the-apocalypse.json](./65093-four-horsemen-of-the-apocalypse.json) |
 | Four Houses | 209564 | [209564-four-houses.json](./209564-four-houses.json) |
 | Four Hundred Catapults | 237190 | [237190-four-hundred-catapults.json](./237190-four-hundred-catapults.json) |
 | Four Hunters Survivor | 277584 | [277584-four-hunters-survivor.json](./277584-four-hunters-survivor.json) |
