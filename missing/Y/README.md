@@ -769,6 +769,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yogho Yogho spel | 78953 | [78953-yogho-yogho-spel.json](./78953-yogho-yogho-spel.json) |
 | Yogi Bear | 54667 | [54667-yogi-bear.json](./54667-yogi-bear.json) |
 | Yogi Bear & Friends: The Greed Monster | 66737 | [66737-yogi-bear-and-friends-the-greed-monster.json](./66737-yogi-bear-and-friends-the-greed-monster.json) |
+| Yogi Bear in Yogi Bear's Goldrush | 46299 | [46299-yogi-bear-in-yogi-bears-goldrush.json](./46299-yogi-bear-in-yogi-bears-goldrush.json) |
 | Yogi Bear: Great Balloon Blast | 49900 | [49900-yogi-bear-great-balloon-blast.json](./49900-yogi-bear-great-balloon-blast.json) |
 | Yogi Bear's Gold Rush | 49053 | [49053-yogi-bears-gold-rush.json](./49053-yogi-bears-gold-rush.json) |
 | Yogi Bear's Math Adventures | 70179 | [70179-yogi-bears-math-adventures.json](./70179-yogi-bears-math-adventures.json) |
