@@ -2433,6 +2433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carcelera | 414708 | [414708-carcelera.json](./414708-carcelera.json) |
 | Carceri | 302562 | [302562-carceri.json](./302562-carceri.json) |
 | CarCollector | 76252 | [76252-carcollector.json](./76252-carcollector.json) |
+| Carcophony | 67339 | [67339-carcophony.json](./67339-carcophony.json) |
 | Carcosa | 140554 | [140554-carcosa.json](./140554-carcosa.json) |
 | CarCrash.Tube: Car Crash Simulator | 417332 | [417332-carcrash-tube-car-crash-simulator.json](./417332-carcrash-tube-car-crash-simulator.json) |
 | Card & Digital | 385324 | [385324-card-and-digital.json](./385324-card-and-digital.json) |
@@ -11187,6 +11188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Penguin Island | 94967 | [94967-club-penguin-island.json](./94967-club-penguin-island.json) |
 | Club Penguin Journey | 312869 | [312869-club-penguin-journey.json](./312869-club-penguin-journey.json) |
 | Club Penguin Rewritten | 98486 | [98486-club-penguin-rewritten.json](./98486-club-penguin-rewritten.json) |
+| Club Penguin: Elite Penguin Force - Herbert's Revenge | 66998 | [66998-club-penguin-elite-penguin-force-herberts-revenge.json](./66998-club-penguin-elite-penguin-force-herberts-revenge.json) |
 | Club Penguin: Game Day! | 92058 | [92058-club-penguin-game-day.json](./92058-club-penguin-game-day.json) |
 | Club Pinball | 243691 | [243691-club-pinball.json](./243691-club-pinball.json) |
 | Club Soccer Director 2018 | 55160 | [55160-club-soccer-director-2018.json](./55160-club-soccer-director-2018.json) |
@@ -20421,6 +20423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of the Arrow | 184410 | [184410-curse-of-the-arrow.json](./184410-curse-of-the-arrow.json) |
 | Curse of the Azure Bonds | 2461 | [2461-curse-of-the-azure-bonds.json](./2461-curse-of-the-azure-bonds.json) |
 | Curse of the Blood Moon | 184746 | [184746-curse-of-the-blood-moon.json](./184746-curse-of-the-blood-moon.json) |
+| Curse of the Caribbean Pirate Queen | 67341 | [67341-curse-of-the-caribbean-pirate-queen.json](./67341-curse-of-the-caribbean-pirate-queen.json) |
 | Curse of the Catacombs | 71138 | [71138-curse-of-the-catacombs.json](./71138-curse-of-the-catacombs.json) |
 | Curse of the Cobra | 229050 | [229050-curse-of-the-cobra.json](./229050-curse-of-the-cobra.json) |
 | Curse of the Corsair | 245953 | [245953-curse-of-the-corsair.json](./245953-curse-of-the-corsair.json) |
