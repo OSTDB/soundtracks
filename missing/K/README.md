@@ -42,6 +42,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | K-Pop VR | 76441 | [76441-k-pop-vr.json](./76441-k-pop-vr.json) |
 | K-Pop! | 309741 | [309741-k-pop.json](./309741-k-pop.json) |
 | K-Razy Antiks | 22768 | [22768-k-razy-antiks.json](./22768-k-razy-antiks.json) |
+| K-Razy Kritters | 22698 | [22698-k-razy-kritters.json](./22698-k-razy-kritters.json) |
 | K-Razy Shoot-Out | 18755 | [18755-k-razy-shoot-out.json](./18755-k-razy-shoot-out.json) |
 | K-Shoot Mania | 59775 | [59775-k-shoot-mania.json](./59775-k-shoot-mania.json) |
 | K-Star Patrol | 23339 | [23339-k-star-patrol.json](./23339-k-star-patrol.json) |
