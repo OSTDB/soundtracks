@@ -1871,6 +1871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Need for Speed: Most Wanted Demo | 301229 | [301229-need-for-speed-most-wanted-demo.json](./301229-need-for-speed-most-wanted-demo.json) |
 | Need for Speed: Most Wanted NFS Heroes Pack | 26186 | [26186-need-for-speed-most-wanted-nfs-heroes-pack.json](./26186-need-for-speed-most-wanted-nfs-heroes-pack.json) |
 | Need for Speed: Most Wanted Terminal Velocity Pack | 117321 | [117321-need-for-speed-most-wanted-terminal-velocity-pack.json](./117321-need-for-speed-most-wanted-terminal-velocity-pack.json) |
+| Need for Speed: Most Wanted Ultimate Speed Pack | 27929 | [27929-need-for-speed-most-wanted-ultimate-speed-pack.json](./27929-need-for-speed-most-wanted-ultimate-speed-pack.json) |
 | Need for Speed: Motor City Online | 51300 | [51300-need-for-speed-motor-city-online.json](./51300-need-for-speed-motor-city-online.json) |
 | Need for Speed: Nitro | 103 | [103-need-for-speed-nitro.json](./103-need-for-speed-nitro.json) |
 | Need for Speed: Nitro | 248127 | [248127-need-for-speed-nitro.json](./248127-need-for-speed-nitro.json) |
@@ -4272,6 +4273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NieR: Automata - Limited Edition Steelbook | 44539 | [44539-nier-automata-limited-edition-steelbook.json](./44539-nier-automata-limited-edition-steelbook.json) |
 | NieR: Automata - Steelbook Edition | 166307 | [166307-nier-automata-steelbook-edition.json](./166307-nier-automata-steelbook-edition.json) |
 | Nier: Automata - The End of Yorha Edition | 206805 | [206805-nier-automata-the-end-of-yorha-edition.json](./206805-nier-automata-the-end-of-yorha-edition.json) |
+| NieR: The World of Recycled Vessel | 27981 | [27981-nier-the-world-of-recycled-vessel.json](./27981-nier-the-world-of-recycled-vessel.json) |
 | Nietzsche's Shadow | 346680 | [346680-nietzsches-shadow.json](./346680-nietzsches-shadow.json) |
 | Nieuw Perspectief | 253032 | [253032-nieuw-perspectief.json](./253032-nieuw-perspectief.json) |
 | Nif Nif | 276626 | [276626-nif-nif.json](./276626-nif-nif.json) |
