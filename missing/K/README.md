@@ -3284,6 +3284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of The Jesters | 291345 | [291345-king-of-the-jesters.json](./291345-king-of-the-jesters.json) |
 | King of the Monsters | 6800 | [6800-king-of-the-monsters.json](./6800-king-of-the-monsters.json) |
 | King of the Monsters 2 | 39466 | [39466-king-of-the-monsters-2.json](./39466-king-of-the-monsters-2.json) |
+| King of the Mountain | 41474 | [41474-king-of-the-mountain.json](./41474-king-of-the-mountain.json) |
 | King of the Mountain: Premium | 174324 | [174324-king-of-the-mountain-premium.json](./174324-king-of-the-mountain-premium.json) |
 | King of the Pirates | 340883 | [340883-king-of-the-pirates.json](./340883-king-of-the-pirates.json) |
 | King of the Pit | 165647 | [165647-king-of-the-pit.json](./165647-king-of-the-pit.json) |
