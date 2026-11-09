@@ -6610,6 +6610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demigod Kiugi | 245267 | [245267-demigod-kiugi.json](./245267-demigod-kiugi.json) |
 | Demigoddess! | 335418 | [335418-demigoddess.json](./335418-demigoddess.json) |
 | Demigods | 34304 | [34304-demigods.json](./34304-demigods.json) |
+| DemiKids: Dark Version | 19884 | [19884-demikids-dark-version.json](./19884-demikids-dark-version.json) |
 | DemiKids: Light Version | 49185 | [49185-demikids-light-version.json](./49185-demikids-light-version.json) |
 | Demining | 342163 | [342163-demining.json](./342163-demining.json) |
 | Demiourgos | 424002 | [424002-demiourgos.json](./424002-demiourgos.json) |
@@ -11691,6 +11692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJ: Decks & FX - Claudio Coccoluto Edition | 269401 | [269401-dj-decks-and-fx-claudio-coccoluto-edition.json](./269401-dj-decks-and-fx-claudio-coccoluto-edition.json) |
 | DJ: Decks & FX - Live Session | 269400 | [269400-dj-decks-and-fx-live-session.json](./269400-dj-decks-and-fx-live-session.json) |
 | DJ: Decks & FX - Radio FG | 269402 | [269402-dj-decks-and-fx-radio-fg.json](./269402-dj-decks-and-fx-radio-fg.json) |
+| DJ: Decks and FX: House Edition | 18720 | [18720-dj-decks-and-fx-house-edition.json](./18720-dj-decks-and-fx-house-edition.json) |
 | Django | 152658 | [152658-django.json](./152658-django.json) |
 | DJbox | 269399 | [269399-djbox.json](./269399-djbox.json) |
 | Djiguli | 143892 | [143892-djiguli.json](./143892-djiguli.json) |
@@ -19605,6 +19607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunjonquest: Hellfire Warrior - The Keys to Acheron | 23308 | [23308-dunjonquest-hellfire-warrior-the-keys-to-acheron.json](./23308-dunjonquest-hellfire-warrior-the-keys-to-acheron.json) |
 | Dunjonquest: Morloc's Tower | 21958 | [21958-dunjonquest-morlocs-tower.json](./21958-dunjonquest-morlocs-tower.json) |
 | Dunjonquest: Temple of Apshai | 68778 | [68778-dunjonquest-temple-of-apshai.json](./68778-dunjonquest-temple-of-apshai.json) |
+| Dunjonquest: The Datestones of Ryn | 18746 | [18746-dunjonquest-the-datestones-of-ryn.json](./18746-dunjonquest-the-datestones-of-ryn.json) |
 | Dunjonquest: Upper Reaches of Apshai | 69915 | [69915-dunjonquest-upper-reaches-of-apshai.json](./69915-dunjonquest-upper-reaches-of-apshai.json) |
 | DunJumb | 280002 | [280002-dunjumb.json](./280002-dunjumb.json) |
 | Dunjunguy | 240736 | [240736-dunjunguy.json](./240736-dunjunguy.json) |
@@ -19640,6 +19643,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunkirk: The Forgotten Soldier | 380842 | [380842-dunkirk-the-forgotten-soldier.json](./380842-dunkirk-the-forgotten-soldier.json) |
 | Dunkle Manöver | 92851 | [92851-dunkle-manover.json](./92851-dunkle-manover.json) |
 | Dunkle Schatten | 197974 | [197974-dunkle-schatten.json](./197974-dunkle-schatten.json) |
+| Dunkle Schatten | 19827 | [19827-dunkle-schatten.json](./19827-dunkle-schatten.json) |
+| Dunkle Schatten 2: Im Netzwerk gefangen | 19828 | [19828-dunkle-schatten-2-im-netzwerk-gefangen.json](./19828-dunkle-schatten-2-im-netzwerk-gefangen.json) |
 | Dunkle Schatten 3: Tod in der Südkurve | 124684 | [124684-dunkle-schatten-3-tod-in-der-sudkurve.json](./124684-dunkle-schatten-3-tod-in-der-sudkurve.json) |
 | DunkRatz | 120573 | [120573-dunkratz.json](./120573-dunkratz.json) |
 | Dunkshot | 41809 | [41809-dunkshot.json](./41809-dunkshot.json) |
