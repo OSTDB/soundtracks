@@ -6688,6 +6688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fisher-Price: Big Action Construction | 324764 | [324764-fisher-price-big-action-construction.json](./324764-fisher-price-big-action-construction.json) |
 | Fisher-Price: Big Action Garage | 70360 | [70360-fisher-price-big-action-garage.json](./70360-fisher-price-big-action-garage.json) |
 | Fisher-Price: I Can Remember | 26659 | [26659-fisher-price-i-can-remember.json](./26659-fisher-price-i-can-remember.json) |
+| Fisher-Price: Learning in Toyland | 69612 | [69612-fisher-price-learning-in-toyland.json](./69612-fisher-price-learning-in-toyland.json) |
 | Fisher-Price: Little People Discovery Airport | 144860 | [144860-fisher-price-little-people-discovery-airport.json](./144860-fisher-price-little-people-discovery-airport.json) |
 | Fisher-Price: Ready for School - Kindergarten | 77007 | [77007-fisher-price-ready-for-school-kindergarten.json](./77007-fisher-price-ready-for-school-kindergarten.json) |
 | Fisher-Price: Time To Play - Dollhouse | 324626 | [324626-fisher-price-time-to-play-dollhouse.json](./324626-fisher-price-time-to-play-dollhouse.json) |
