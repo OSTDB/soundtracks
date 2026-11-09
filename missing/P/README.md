@@ -6935,6 +6935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilot Brothers | 25513 | [25513-pilot-brothers.json](./25513-pilot-brothers.json) |
 | Pilot Brothers 2 | 36090 | [36090-pilot-brothers-2.json](./36090-pilot-brothers-2.json) |
 | Pilot Brothers 3D: The Case of the garden pests | 403598 | [403598-pilot-brothers-3d-the-case-of-the-garden-pests.json](./403598-pilot-brothers-3d-the-case-of-the-garden-pests.json) |
+| Pilot Down: Behind Enemy Lines | 47359 | [47359-pilot-down-behind-enemy-lines.json](./47359-pilot-down-behind-enemy-lines.json) |
 | Pilot Flight Simulation | 315919 | [315919-pilot-flight-simulation.json](./315919-pilot-flight-simulation.json) |
 | Pilot Kids | 39797 | [39797-pilot-kids.json](./39797-pilot-kids.json) |
 | Pilot Light | 319204 | [319204-pilot-light.json](./319204-pilot-light.json) |
@@ -15540,6 +15541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Basketball Manager 2027 | 417214 | [417214-pro-basketball-manager-2027.json](./417214-pro-basketball-manager-2027.json) |
 | Pro Bass Fishing | 209886 | [209886-pro-bass-fishing.json](./209886-pro-bass-fishing.json) |
 | Pro Bass Fishing 2003 | 27599 | [27599-pro-bass-fishing-2003.json](./27599-pro-bass-fishing-2003.json) |
+| Pro Beach Soccer | 47346 | [47346-pro-beach-soccer.json](./47346-pro-beach-soccer.json) |
 | Pro Biker 2 | 66934 | [66934-pro-biker-2.json](./66934-pro-biker-2.json) |
 | Pro Birder | 414185 | [414185-pro-birder.json](./414185-pro-birder.json) |
 | Pro Bocce 2018 | 105666 | [105666-pro-bocce-2018.json](./105666-pro-bocce-2018.json) |
