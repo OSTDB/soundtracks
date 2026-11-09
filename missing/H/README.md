@@ -4760,6 +4760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hellowoon: Das Geheimnis des Zauberstabs | 14898 | [14898-hellowoon-das-geheimnis-des-zauberstabs.json](./14898-hellowoon-das-geheimnis-des-zauberstabs.json) |
 | HelloWorld: Escape | 369582 | [369582-helloworld-escape.json](./369582-helloworld-escape.json) |
 | HelloWorldFactory | 276841 | [276841-helloworldfactory.json](./276841-helloworldfactory.json) |
+| Hellphobia | 29982 | [29982-hellphobia.json](./29982-hellphobia.json) |
 | Hellpit | 228448 | [228448-hellpit.json](./228448-hellpit.json) |
 | Hellpit 3D Platformer | 308517 | [308517-hellpit-3d-platformer.json](./308517-hellpit-3d-platformer.json) |
 | Hellpoint | 36476 | [36476-hellpoint.json](./36476-hellpoint.json) |
@@ -6192,6 +6193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Z TPS | 223325 | [223325-hero-z-tps.json](./223325-hero-z-tps.json) |
 | Hero Zero | 32496 | [32496-hero-zero.json](./32496-hero-zero.json) |
 | Hero Zex | 191254 | [191254-hero-zex.json](./191254-hero-zex.json) |
+| Hero-E | 29366 | [29366-hero-e.json](./29366-hero-e.json) |
 | Hero-ing Addict | 135043 | [135043-hero-ing-addict.json](./135043-hero-ing-addict.json) |
 | Hero-U: Rogue to Redemption | 64359 | [64359-hero-u-rogue-to-redemption.json](./64359-hero-u-rogue-to-redemption.json) |
 | Hero: 108 Online | 209873 | [209873-hero-108-online.json](./209873-hero-108-online.json) |
