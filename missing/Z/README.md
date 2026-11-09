@@ -313,6 +313,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zanki Zero: Last Beginning | 28245 | [28245-zanki-zero-last-beginning.json](./28245-zanki-zero-last-beginning.json) |
 | Zankinzoken | 226112 | [226112-zankinzoken.json](./226112-zankinzoken.json) |
 | Zankoi's Chronicles | 255959 | [255959-zankois-chronicles.json](./255959-zankois-chronicles.json) |
+| Zanma Chouougi: Valhollian | 45396 | [45396-zanma-chouougi-valhollian.json](./45396-zanma-chouougi-valhollian.json) |
 | Zannon | 152569 | [152569-zannon.json](./152569-zannon.json) |
 | Zanshin | 81615 | [81615-zanshin.json](./81615-zanshin.json) |
 | Zany Bounce | 245748 | [245748-zany-bounce.json](./245748-zany-bounce.json) |
@@ -336,6 +337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zap, Blast, Loot | 105272 | [105272-zap-blast-loot.json](./105272-zap-blast-loot.json) |
 | Zap! | 94483 | [94483-zap.json](./94483-zap.json) |
 | Zap! Retro Arcade Collection | 159430 | [159430-zap-retro-arcade-collection.json](./159430-zap-retro-arcade-collection.json) |
+| Zap! Snowboarding Trix | 45397 | [45397-zap-snowboarding-trix.json](./45397-zap-snowboarding-trix.json) |
 | Zap'em | 25157 | [25157-zapem.json](./25157-zapem.json) |
 | Zap't'Balls | 95464 | [95464-zaptballs.json](./95464-zaptballs.json) |
 | Zap't'Balls: The Advanced Edition | 72002 | [72002-zaptballs-the-advanced-edition.json](./72002-zaptballs-the-advanced-edition.json) |
@@ -572,6 +574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZemuRunner | 103980 | [103980-zemurunner.json](./103980-zemurunner.json) |
 | Zen | 180128 | [180128-zen.json](./180128-zen.json) |
 | Zen | 219883 | [219883-zen.json](./219883-zen.json) |
+| Zen | 45372 | [45372-zen.json](./45372-zen.json) |
 | Zen 2212 A.D. | 275310 | [275310-zen-2212-a-d.json](./275310-zen-2212-a-d.json) |
 | Zen and the Art of Transhumanism | 146471 | [146471-zen-and-the-art-of-transhumanism.json](./146471-zen-and-the-art-of-transhumanism.json) |
 | Zen Beauty | 326256 | [326256-zen-beauty.json](./326256-zen-beauty.json) |
@@ -927,6 +930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zero Distance | 288445 | [288445-zero-distance.json](./288445-zero-distance.json) |
 | Zero Divide | 20709 | [20709-zero-divide.json](./20709-zero-divide.json) |
 | Zero Divide 2 | 43808 | [43808-zero-divide-2.json](./43808-zero-divide-2.json) |
+| Zero Divide: The Final Conflict | 45399 | [45399-zero-divide-the-final-conflict.json](./45399-zero-divide-the-final-conflict.json) |
 | Zero Division | 223277 | [223277-zero-division.json](./223277-zero-division.json) |
 | Zero End: Chapter One | 264510 | [264510-zero-end-chapter-one.json](./264510-zero-end-chapter-one.json) |
 | Zero Escape | 194163 | [194163-zero-escape.json](./194163-zero-escape.json) |
@@ -1458,6 +1462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoidtrip | 344908 | [344908-zoidtrip.json](./344908-zoidtrip.json) |
 | Zoinho in the Garden of Fools | 217922 | [217922-zoinho-in-the-garden-of-fools.json](./217922-zoinho-in-the-garden-of-fools.json) |
 | Zok Zok Heroes | 65766 | [65766-zok-zok-heroes.json](./65766-zok-zok-heroes.json) |
+| Zoku Gussun Oyoyo | 45400 | [45400-zoku-gussun-oyoyo.json](./45400-zoku-gussun-oyoyo.json) |
 | Zoku Hatsukoi Monogatari ~Shuugaku Ryokou~ | 330103 | [330103-zoku-hatsukoi-monogatari-shuugaku-ryokou.json](./330103-zoku-hatsukoi-monogatari-shuugaku-ryokou.json) |
 | Zoku Mikagura Shoujo Tanteidan: Kanketsuhen | 60574 | [60574-zoku-mikagura-shoujo-tanteidan-kanketsuhen.json](./60574-zoku-mikagura-shoujo-tanteidan-kanketsuhen.json) |
 | Zoku Ougon no Haka: Sphinx no Nazo - Golden Grave II | 67361 | [67361-zoku-ougon-no-haka-sphinx-no-nazo-golden-grave-ii.json](./67361-zoku-ougon-no-haka-sphinx-no-nazo-golden-grave-ii.json) |
@@ -2271,6 +2276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zomt | 397171 | [397171-zomt.json](./397171-zomt.json) |
 | ZomVox | 410705 | [410705-zomvox.json](./410705-zomvox.json) |
 | Zomzoms | 130381 | [130381-zomzoms.json](./130381-zomzoms.json) |
+| Zona 0 | 45374 | [45374-zona-0.json](./45374-zona-0.json) |
 | Zonark | 345379 | [345379-zonark.json](./345379-zonark.json) |
 | Zonbi Panic | 138734 | [138734-zonbi-panic.json](./138734-zonbi-panic.json) |
 | Zonder: Real-World Travel Game | 282723 | [282723-zonder-real-world-travel-game.json](./282723-zonder-real-world-travel-game.json) |
