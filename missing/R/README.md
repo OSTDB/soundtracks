@@ -4492,6 +4492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Talk | 389750 | [389750-reel-talk.json](./389750-reel-talk.json) |
 | Reel Talk: A Thoughtful Fishcussion | 408172 | [408172-reel-talk-a-thoughtful-fishcussion.json](./408172-reel-talk-a-thoughtful-fishcussion.json) |
 | Reel-istic Fishing | 259823 | [259823-reel-istic-fishing.json](./259823-reel-istic-fishing.json) |
+| Reelect JFK | 71833 | [71833-reelect-jfk.json](./71833-reelect-jfk.json) |
 | Reelism | 141643 | [141643-reelism.json](./141643-reelism.json) |
 | Reelism 2 | 144641 | [144641-reelism-2.json](./144641-reelism-2.json) |
 | Reels of Fortune | 270416 | [270416-reels-of-fortune.json](./270416-reels-of-fortune.json) |
@@ -6932,6 +6933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rex | 267182 | [267182-rex.json](./267182-rex.json) |
 | Rex | 45348 | [45348-rex.json](./45348-rex.json) |
 | ReX | 99193 | [99193-rex.json](./99193-rex.json) |
+| Rex Blade: The Apocalypse | 71822 | [71822-rex-blade-the-apocalypse.json](./71822-rex-blade-the-apocalypse.json) |
 | Rex Blade: The Battle Begins | 209165 | [209165-rex-blade-the-battle-begins.json](./209165-rex-blade-the-battle-begins.json) |
 | Rex Hard | 39149 | [39149-rex-hard.json](./39149-rex-hard.json) |
 | Rex Nebular and the Cosmic Gender Bender | 8680 | [8680-rex-nebular-and-the-cosmic-gender-bender.json](./8680-rex-nebular-and-the-cosmic-gender-bender.json) |
