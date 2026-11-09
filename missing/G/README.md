@@ -1736,6 +1736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gang Beasts Rick And Morty 2 | 95892 | [95892-gang-beasts-rick-and-morty-2.json](./95892-gang-beasts-rick-and-morty-2.json) |
 | Gang Blast | 283265 | [283265-gang-blast.json](./283265-gang-blast.json) |
 | Gang District | 126776 | [126776-gang-district.json](./126776-gang-district.json) |
+| Gang Garrison 2 | 51308 | [51308-gang-garrison-2.json](./51308-gang-garrison-2.json) |
 | Gang Human Wrestling | 193816 | [193816-gang-human-wrestling.json](./193816-gang-human-wrestling.json) |
 | Gang Lords | 344818 | [344818-gang-lords.json](./344818-gang-lords.json) |
 | Gang Man | 279066 | [279066-gang-man.json](./279066-gang-man.json) |
