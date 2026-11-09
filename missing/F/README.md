@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-117A Stealth Fighter | 69582 | [69582-f-117a-stealth-fighter.json](./69582-f-117a-stealth-fighter.json) |
 | F-14 Tomcat | 259334 | [259334-f-14-tomcat.json](./259334-f-14-tomcat.json) |
 | F-14 Tomcat | 47179 | [47179-f-14-tomcat.json](./47179-f-14-tomcat.json) |
+| F-15 City War | 48129 | [48129-f-15-city-war.json](./48129-f-15-city-war.json) |
 | F-15 Strike Eagle | 12261 | [12261-f-15-strike-eagle.json](./12261-f-15-strike-eagle.json) |
 | F-15 Strike Eagle | 370483 | [370483-f-15-strike-eagle.json](./370483-f-15-strike-eagle.json) |
 | F-15 Strike Eagle | 370485 | [370485-f-15-strike-eagle.json](./370485-f-15-strike-eagle.json) |
@@ -8951,6 +8952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Disk | 281687 | [281687-flying-disk.json](./281687-flying-disk.json) |
 | Flying Doggy | 270571 | [270571-flying-doggy.json](./270571-flying-doggy.json) |
 | Flying Dragon | 3497 | [3497-flying-dragon.json](./3497-flying-dragon.json) |
+| Flying Dragon: The Secret Scroll | 48127 | [48127-flying-dragon-the-secret-scroll.json](./48127-flying-dragon-the-secret-scroll.json) |
 | Flying Duckling | 91245 | [91245-flying-duckling.json](./91245-flying-duckling.json) |
 | Flying Feathers | 13847 | [13847-flying-feathers.json](./13847-flying-feathers.json) |
 | Flying Felix | 165905 | [165905-flying-felix.json](./165905-flying-felix.json) |
@@ -10467,6 +10469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula 1 98 | 8296 | [8296-formula-1-98.json](./8296-formula-1-98.json) |
 | Formula 1 Game & Watch: Playdate Version | 230721 | [230721-formula-1-game-and-watch-playdate-version.json](./230721-formula-1-game-and-watch-playdate-version.json) |
 | Formula 1 Masters | 77141 | [77141-formula-1-masters.json](./77141-formula-1-masters.json) |
+| Formula 1 Sensation | 48125 | [48125-formula-1-sensation.json](./48125-formula-1-sensation.json) |
 | Formula 1 Simulator | 12998 | [12998-formula-1-simulator.json](./12998-formula-1-simulator.json) |
 | Formula 1: Championship Edition | 8295 | [8295-formula-1-championship-edition.json](./8295-formula-1-championship-edition.json) |
 | Formula 1: Vircon32 Version | 318889 | [318889-formula-1-vircon32-version.json](./318889-formula-1-vircon32-version.json) |
@@ -11753,6 +11756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frankenstein: Room Escape | 313761 | [313761-frankenstein-room-escape.json](./313761-frankenstein-room-escape.json) |
 | Frankenstein: Story Type Room Escape Adventure | 137428 | [137428-frankenstein-story-type-room-escape-adventure.json](./137428-frankenstein-story-type-room-escape-adventure.json) |
 | Frankenstein: The Dismembered Bride | 122090 | [122090-frankenstein-the-dismembered-bride.json](./122090-frankenstein-the-dismembered-bride.json) |
+| Frankenstein: The Monster Returns | 48128 | [48128-frankenstein-the-monster-returns.json](./48128-frankenstein-the-monster-returns.json) |
 | Frankenstein: The Village | 177050 | [177050-frankenstein-the-village.json](./177050-frankenstein-the-village.json) |
 | Frankenstein's Monster | 22763 | [22763-frankensteins-monster.json](./22763-frankensteins-monster.json) |
 | Frankenstein's Monsters, Inc. | 179561 | [179561-frankensteins-monsters-inc.json](./179561-frankensteins-monsters-inc.json) |
@@ -13748,6 +13752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Hospital | 103615 | [103615-fun-hospital.json](./103615-fun-hospital.json) |
 | Fun Hospital | 241814 | [241814-fun-hospital.json](./241814-fun-hospital.json) |
 | Fun House | 200396 | [200396-fun-house.json](./200396-fun-house.json) |
+| Fun House | 48122 | [48122-fun-house.json](./48122-fun-house.json) |
 | Fun Infused Arcade | 260178 | [260178-fun-infused-arcade.json](./260178-fun-infused-arcade.json) |
 | Fun Kid Racing | 99936 | [99936-fun-kid-racing.json](./99936-fun-kid-racing.json) |
 | Fun Kid Racing Magic Forest | 175720 | [175720-fun-kid-racing-magic-forest.json](./175720-fun-kid-racing-magic-forest.json) |
