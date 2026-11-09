@@ -2317,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Illusions 360 | 67971 | [67971-illusions-360.json](./67971-illusions-360.json) |
 | Illusions of Loyalty | 125536 | [125536-illusions-of-loyalty.json](./125536-illusions-of-loyalty.json) |
 | Illusive Domain | 354478 | [354478-illusive-domain.json](./354478-illusive-domain.json) |
+| Illusoria | 29017 | [29017-illusoria.json](./29017-illusoria.json) |
 | Illusory Dreamlight 1: Deprimerie | 186174 | [186174-illusory-dreamlight-1-deprimerie.json](./186174-illusory-dreamlight-1-deprimerie.json) |
 | Illust Logic DS + Colorful Logic | 61976 | [61976-illust-logic-ds-colorful-logic.json](./61976-illust-logic-ds-colorful-logic.json) |
 | Illustack | 401041 | [401041-illustack.json](./401041-illustack.json) |
