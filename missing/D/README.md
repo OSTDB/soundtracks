@@ -3898,6 +3898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Men Tell No Tales | 176757 | [176757-dead-men-tell-no-tales.json](./176757-dead-men-tell-no-tales.json) |
 | Dead Mire | 249199 | [249199-dead-mire.json](./249199-dead-mire.json) |
 | Dead Monarchy | 118400 | [118400-dead-monarchy.json](./118400-dead-monarchy.json) |
+| Dead Moon | 42111 | [42111-dead-moon.json](./42111-dead-moon.json) |
 | Dead Moon: Revenge on Phobos | 51509 | [51509-dead-moon-revenge-on-phobos.json](./51509-dead-moon-revenge-on-phobos.json) |
 | Dead Motherland: Zombie Co-op | 127731 | [127731-dead-motherland-zombie-co-op.json](./127731-dead-motherland-zombie-co-op.json) |
 | Dead Mountaineer's Hotel | 14851 | [14851-dead-mountaineers-hotel.json](./14851-dead-mountaineers-hotel.json) |
@@ -9592,6 +9593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Bird Playground | 124255 | [124255-digital-bird-playground.json](./124255-digital-bird-playground.json) |
 | Digital Bojangles Saga HD Remaster | 245255 | [245255-digital-bojangles-saga-hd-remaster.json](./245255-digital-bojangles-saga-hd-remaster.json) |
 | Digital Chain | 252325 | [252325-digital-chain.json](./252325-digital-chain.json) |
+| Digital Champ | 42076 | [42076-digital-champ.json](./42076-digital-champ.json) |
 | Digital Chaos | 234488 | [234488-digital-chaos.json](./234488-digital-chaos.json) |
 | Digital Circus Shooter | 276482 | [276482-digital-circus-shooter.json](./276482-digital-circus-shooter.json) |
 | Digital Circus: Obby Parkour | 276485 | [276485-digital-circus-obby-parkour.json](./276485-digital-circus-obby-parkour.json) |
@@ -14374,6 +14376,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Dribble: The Playoff Edition | 4433 | [4433-double-dribble-the-playoff-edition.json](./4433-double-dribble-the-playoff-edition.json) |
 | Double Duck | 403447 | [403447-double-duck.json](./403447-double-duck.json) |
 | Double Dungeons | 206965 | [206965-double-dungeons.json](./206965-double-dungeons.json) |
+| Double Dungeons | 42110 | [42110-double-dungeons.json](./42110-double-dungeons.json) |
 | Double Dunk | 18007 | [18007-double-dunk.json](./18007-double-dunk.json) |
 | Double Eagle | 98257 | [98257-double-eagle.json](./98257-double-eagle.json) |
 | Double Eagle: Tricky Hole | 98260 | [98260-double-eagle-tricky-hole.json](./98260-double-eagle-tricky-hole.json) |
@@ -17691,6 +17694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drop Mania | 73716 | [73716-drop-mania.json](./73716-drop-mania.json) |
 | Drop Not! | 103217 | [103217-drop-not.json](./103217-drop-not.json) |
 | Drop Off | 184178 | [184178-drop-off.json](./184178-drop-off.json) |
+| Drop Off | 42108 | [42108-drop-off.json](./42108-drop-off.json) |
 | Drop one NPC to another | 187183 | [187183-drop-one-npc-to-another.json](./187183-drop-one-npc-to-another.json) |
 | Drop Out 0 | 31594 | [31594-drop-out-0.json](./31594-drop-out-0.json) |
 | Drop Pane: Not Only Match-3 | 290480 | [290480-drop-pane-not-only-match-3.json](./290480-drop-pane-not-only-match-3.json) |
@@ -19391,6 +19395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons & Dragons: Heroes | 5819 | [5819-dungeons-and-dragons-heroes.json](./5819-dungeons-and-dragons-heroes.json) |
 | Dungeons & Dragons: Krynn Series | 51746 | [51746-dungeons-and-dragons-krynn-series.json](./51746-dungeons-and-dragons-krynn-series.json) |
 | Dungeons & Dragons: Long Rest Tavern | 415176 | [415176-dungeons-and-dragons-long-rest-tavern.json](./415176-dungeons-and-dragons-long-rest-tavern.json) |
+| Dungeons & Dragons: Order of the Griffon | 42102 | [42102-dungeons-and-dragons-order-of-the-griffon.json](./42102-dungeons-and-dragons-order-of-the-griffon.json) |
 | Dungeons & Dragons: Ravenloft Series | 51745 | [51745-dungeons-and-dragons-ravenloft-series.json](./51745-dungeons-and-dragons-ravenloft-series.json) |
 | Dungeons & Dragons: Shadow over Mystara | 10253 | [10253-dungeons-and-dragons-shadow-over-mystara.json](./10253-dungeons-and-dragons-shadow-over-mystara.json) |
 | Dungeons & Dragons: Tiny Adventures | 368742 | [368742-dungeons-and-dragons-tiny-adventures.json](./368742-dungeons-and-dragons-tiny-adventures.json) |
