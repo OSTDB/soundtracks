@@ -5127,6 +5127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages 2500 Vol. 32: Phantasy Star Complete Collection | 69267 | [69267-sega-ages-2500-vol-32-phantasy-star-complete-collection.json](./69267-sega-ages-2500-vol-32-phantasy-star-complete-collection.json) |
 | Sega Ages 2500 Vol. 4: Space Harrier | 96512 | [96512-sega-ages-2500-vol-4-space-harrier.json](./96512-sega-ages-2500-vol-4-space-harrier.json) |
 | Sega Ages 2500 Vol. 5: Golden Axe | 73128 | [73128-sega-ages-2500-vol-5-golden-axe.json](./73128-sega-ages-2500-vol-5-golden-axe.json) |
+| Sega Ages 2500 Vol. 6: Ichini no Tant-R to Bonanza Bros. | 69789 | [69789-sega-ages-2500-vol-6-ichini-no-tant-r-to-bonanza-bros.json](./69789-sega-ages-2500-vol-6-ichini-no-tant-r-to-bonanza-bros.json) |
 | Sega Ages 2500 Vol. 7: Columns | 99692 | [99692-sega-ages-2500-vol-7-columns.json](./99692-sega-ages-2500-vol-7-columns.json) |
 | Sega Ages 2500 Vol. 8: Virtua Racing FlatOut | 96528 | [96528-sega-ages-2500-vol-8-virtua-racing-flatout.json](./96528-sega-ages-2500-vol-8-virtua-racing-flatout.json) |
 | Sega Ages 2500 Vol. 9: Gain Ground | 77881 | [77881-sega-ages-2500-vol-9-gain-ground.json](./77881-sega-ages-2500-vol-9-gain-ground.json) |
@@ -14746,6 +14747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smart Frog | 358941 | [358941-smart-frog.json](./358941-smart-frog.json) |
 | Smart Games Challenge #1 | 100082 | [100082-smart-games-challenge-1.json](./100082-smart-games-challenge-1.json) |
 | Smart Games Puzzle Challenge 2 | 73256 | [73256-smart-games-puzzle-challenge-2.json](./73256-smart-games-puzzle-challenge-2.json) |
+| Smart Games Puzzle Challenge 3 | 69950 | [69950-smart-games-puzzle-challenge-3.json](./69950-smart-games-puzzle-challenge-3.json) |
 | Smart Games Stratajams | 85765 | [85765-smart-games-stratajams.json](./85765-smart-games-stratajams.json) |
 | Smart Games Word Puzzles #1 | 51376 | [51376-smart-games-word-puzzles-1.json](./51376-smart-games-word-puzzles-1.json) |
 | Smart Gecko | 117794 | [117794-smart-gecko.json](./117794-smart-gecko.json) |
@@ -27746,6 +27748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stickyban | 338736 | [338736-stickyban.json](./338736-stickyban.json) |
 | Stickybear Math 2 | 311005 | [311005-stickybear-math-2.json](./311005-stickybear-math-2.json) |
 | Stickybear Shapes | 311004 | [311004-stickybear-shapes.json](./311004-stickybear-shapes.json) |
+| Stickybear Town Builder | 69602 | [69602-stickybear-town-builder.json](./69602-stickybear-town-builder.json) |
 | Stickybear: Preschool | 208766 | [208766-stickybear-preschool.json](./208766-stickybear-preschool.json) |
 | Stickybear: Spelling | 208767 | [208767-stickybear-spelling.json](./208767-stickybear-spelling.json) |
 | StickyBee | 74975 | [74975-stickybee.json](./74975-stickybee.json) |
@@ -29475,6 +29478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strip Poker Night at the Inventory | 134409 | [134409-strip-poker-night-at-the-inventory.json](./134409-strip-poker-night-at-the-inventory.json) |
 | Strip Poker Professional rev. B | 79096 | [79096-strip-poker-professional-rev-b.json](./79096-strip-poker-professional-rev-b.json) |
 | Strip Poker Three | 73451 | [73451-strip-poker-three.json](./73451-strip-poker-three.json) |
+| Strip Poker: A Sizzling Game of Chance | 69601 | [69601-strip-poker-a-sizzling-game-of-chance.json](./69601-strip-poker-a-sizzling-game-of-chance.json) |
 | Strip Pot | 13056 | [13056-strip-pot.json](./13056-strip-pot.json) |
 | Strip Slot Sonja | 379642 | [379642-strip-slot-sonja.json](./379642-strip-slot-sonja.json) |
 | Strip-Poker | 71934 | [71934-strip-poker.json](./71934-strip-poker.json) |
@@ -30101,6 +30105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subway Surfers Tag | 207216 | [207216-subway-surfers-tag.json](./207216-subway-surfers-tag.json) |
 | Subway Surge | 314526 | [314526-subway-surge.json](./314526-subway-surge.json) |
 | Subway Train Simulator 2D | 88647 | [88647-subway-train-simulator-2d.json](./88647-subway-train-simulator-2d.json) |
+| Subway Vigilante | 69610 | [69610-subway-vigilante.json](./69610-subway-vigilante.json) |
 | Subwaydle | 228717 | [228717-subwaydle.json](./228717-subwaydle.json) |
 | SubwaySim 2 | 314444 | [314444-subwaysim-2.json](./314444-subwaysim-2.json) |
 | SubwaySim Hamburg | 216655 | [216655-subwaysim-hamburg.json](./216655-subwaysim-hamburg.json) |
@@ -34055,6 +34060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Solvers: Challenge of the Ancient Empires! | 72543 | [72543-super-solvers-challenge-of-the-ancient-empires.json](./72543-super-solvers-challenge-of-the-ancient-empires.json) |
 | Super Solvers: Gizmos & Gadgets! | 46647 | [46647-super-solvers-gizmos-and-gadgets.json](./46647-super-solvers-gizmos-and-gadgets.json) |
 | Super Solvers: Midnight Rescue! | 46646 | [46646-super-solvers-midnight-rescue.json](./46646-super-solvers-midnight-rescue.json) |
+| Super Solvers: OutNumbered! | 69609 | [69609-super-solvers-outnumbered.json](./69609-super-solvers-outnumbered.json) |
 | Super Solvers: Spellbound! | 69941 | [69941-super-solvers-spellbound.json](./69941-super-solvers-spellbound.json) |
 | Super Solvers: Treasure Mountain! | 70340 | [70340-super-solvers-treasure-mountain.json](./70340-super-solvers-treasure-mountain.json) |
 | Super Sonday | 367601 | [367601-super-sonday.json](./367601-super-sonday.json) |
