@@ -1404,6 +1404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Technology | 176353 | [176353-magic-technology.json](./176353-magic-technology.json) |
 | Magic Technology: Tower Defense | 68679 | [68679-magic-technology-tower-defense.json](./68679-magic-technology-tower-defense.json) |
 | Magic the Wandering | 311585 | [311585-magic-the-wandering.json](./311585-magic-the-wandering.json) |
+| Magic Theatre | 11684 | [11684-magic-theatre.json](./11684-magic-theatre.json) |
 | Magic Thief | 190915 | [190915-magic-thief.json](./190915-magic-thief.json) |
 | Magic Tiles 3: Piano Games 2 | 88866 | [88866-magic-tiles-3-piano-games-2.json](./88866-magic-tiles-3-piano-games-2.json) |
 | Magic Tiles Saga: Upbeat Music | 100858 | [100858-magic-tiles-saga-upbeat-music.json](./100858-magic-tiles-saga-upbeat-music.json) |
