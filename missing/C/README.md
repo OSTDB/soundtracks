@@ -8641,6 +8641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chromosome Evil Trilogy | 393572 | [393572-chromosome-evil-trilogy.json](./393572-chromosome-evil-trilogy.json) |
 | Chromosome Evil: Map Editor | 232462 | [232462-chromosome-evil-map-editor.json](./232462-chromosome-evil-map-editor.json) |
 | Chromosome Evil: New Weapon & Weapons Customization | 230808 | [230808-chromosome-evil-new-weapon-and-weapons-customization.json](./230808-chromosome-evil-new-weapon-and-weapons-customization.json) |
+| Chron X | 62306 | [62306-chron-x.json](./62306-chron-x.json) |
 | Chrona & Sirona | 413716 | [413716-chrona-and-sirona.json](./413716-chrona-and-sirona.json) |
 | Chronac | 118618 | [118618-chronac.json](./118618-chronac.json) |
 | Chronal Chain | 370203 | [370203-chronal-chain.json](./370203-chronal-chain.json) |
@@ -17264,6 +17265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Climber | 4611 | [4611-crazy-climber.json](./4611-crazy-climber.json) |
 | Crazy Climber 2 | 39808 | [39808-crazy-climber-2.json](./39808-crazy-climber-2.json) |
 | Crazy Climber 2000 | 77399 | [77399-crazy-climber-2000.json](./77399-crazy-climber-2000.json) |
+| Crazy Climber Wii | 61831 | [61831-crazy-climber-wii.json](./61831-crazy-climber-wii.json) |
 | Crazy Clown | 240045 | [240045-crazy-clown.json](./240045-crazy-clown.json) |
 | Crazy Coin | 252946 | [252946-crazy-coin.json](./252946-crazy-coin.json) |
 | Crazy Comets | 13832 | [13832-crazy-comets.json](./13832-crazy-comets.json) |
