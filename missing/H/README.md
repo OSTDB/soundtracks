@@ -2879,6 +2879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Manor HD | 91314 | [91314-haunted-manor-hd.json](./91314-haunted-manor-hd.json) |
 | Haunted Manor: Halloween's Uninvited Guest - Collector's Edition | 369788 | [369788-haunted-manor-halloweens-uninvited-guest-collectors-edition.json](./369788-haunted-manor-halloweens-uninvited-guest-collectors-edition.json) |
 | Haunted Manor: Lord of Mirrors | 140029 | [140029-haunted-manor-lord-of-mirrors.json](./140029-haunted-manor-lord-of-mirrors.json) |
+| Haunted Manor: Lord of Mirrors - Collector's Edition | 29024 | [29024-haunted-manor-lord-of-mirrors-collectors-edition.json](./29024-haunted-manor-lord-of-mirrors-collectors-edition.json) |
 | Haunted Manor: Painted Beauties | 140030 | [140030-haunted-manor-painted-beauties.json](./140030-haunted-manor-painted-beauties.json) |
 | Haunted Manor: Painted Beauties - Collector's Edition | 95241 | [95241-haunted-manor-painted-beauties-collectors-edition.json](./95241-haunted-manor-painted-beauties-collectors-edition.json) |
 | Haunted Manor: Painted Beauties HD | 100051 | [100051-haunted-manor-painted-beauties-hd.json](./100051-haunted-manor-painted-beauties-hd.json) |
@@ -3806,6 +3807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Barrel | 46776 | [46776-heavy-barrel.json](./46776-heavy-barrel.json) |
 | Heavy Blade | 98764 | [98764-heavy-blade.json](./98764-heavy-blade.json) |
 | Heavy Blast: Mercenaries | 356127 | [356127-heavy-blast-mercenaries.json](./356127-heavy-blast-mercenaries.json) |
+| Heavy Bleakness | 29002 | [29002-heavy-bleakness.json](./29002-heavy-bleakness.json) |
 | Heavy Boxing | 137860 | [137860-heavy-boxing.json](./137860-heavy-boxing.json) |
 | Heavy Bullets | 10402 | [10402-heavy-bullets.json](./10402-heavy-bullets.json) |
 | Heavy Burden | 207672 | [207672-heavy-burden.json](./207672-heavy-burden.json) |
@@ -10401,6 +10403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizons Scavenger | 390272 | [390272-horizons-scavenger.json](./390272-horizons-scavenger.json) |
 | Horizons: The End Of Words | 314473 | [314473-horizons-the-end-of-words.json](./314473-horizons-the-end-of-words.json) |
 | Horizontal | 292060 | [292060-horizontal.json](./292060-horizontal.json) |
+| Horké Léto | 28370 | [28370-horke-leto.json](./28370-horke-leto.json) |
 | Horké Léto 2 | 292086 | [292086-horke-leto-2.json](./292086-horke-leto-2.json) |
 | Horla | 251893 | [251893-horla.json](./251893-horla.json) |
 | Hormiga Escape | 315255 | [315255-hormiga-escape.json](./315255-hormiga-escape.json) |
@@ -11586,6 +11589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoverise Rebellion | 204412 | [204412-hoverise-rebellion.json](./204412-hoverise-rebellion.json) |
 | Hoverkitty In The Hoververse: Chapter Three | 290638 | [290638-hoverkitty-in-the-hoververse-chapter-three.json](./290638-hoverkitty-in-the-hoververse-chapter-three.json) |
 | Hoverkitty in The Hoververse: Chapter Two | 255234 | [255234-hoverkitty-in-the-hoververse-chapter-two.json](./255234-hoverkitty-in-the-hoververse-chapter-two.json) |
+| Hoverloop | 29015 | [29015-hoverloop.json](./29015-hoverloop.json) |
 | Hovermania | 274350 | [274350-hovermania.json](./274350-hovermania.json) |
 | HoverRace | 84292 | [84292-hoverrace.json](./84292-hoverrace.json) |
 | HoverRider | 201002 | [201002-hoverrider.json](./201002-hoverrider.json) |
