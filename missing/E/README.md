@@ -3990,11 +3990,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Zombie Weekend | 190384 | [190384-endless-zombie-weekend.json](./190384-endless-zombie-weekend.json) |
 | Endless Zone | 140043 | [140043-endless-zone.json](./140043-endless-zone.json) |
 | Endless_Overdrive | 144883 | [144883-endless-overdrive.json](./144883-endless-overdrive.json) |
+| Endless, Nameless | 60116 | [60116-endless-nameless.json](./60116-endless-nameless.json) |
 | EndlessCar | 280157 | [280157-endlesscar.json](./280157-endlesscar.json) |
 | EndlessChoice | 289236 | [289236-endlesschoice.json](./289236-endlesschoice.json) |
 | endlessCorona | 160241 | [160241-endlesscorona.json](./160241-endlesscorona.json) |
 | EndlessHell | 117046 | [117046-endlesshell.json](./117046-endlesshell.json) |
 | Endlessly | 245312 | [245312-endlessly.json](./245312-endlessly.json) |
+| EndlessMobstar | 59544 | [59544-endlessmobstar.json](./59544-endlessmobstar.json) |
 | Endlessness | 81878 | [81878-endlessness.json](./81878-endlessness.json) |
 | EndlessRunner | 269100 | [269100-endlessrunner.json](./269100-endlessrunner.json) |
 | EndlessShinyBlues | 139707 | [139707-endlessshinyblues.json](./139707-endlessshinyblues.json) |
@@ -7217,6 +7219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Everybody Dance | 19997 | [19997-everybody-dance.json](./19997-everybody-dance.json) |
 | Everybody Dance 2 | 43002 | [43002-everybody-dance-2.json](./43002-everybody-dance-2.json) |
 | Everybody Dance: Digital | 336101 | [336101-everybody-dance-digital.json](./336101-everybody-dance-digital.json) |
+| Everybody Dies | 60102 | [60102-everybody-dies.json](./60102-everybody-dies.json) |
 | Everybody Edits | 74298 | [74298-everybody-edits.json](./74298-everybody-edits.json) |
 | Everybody Got Mad | 135744 | [135744-everybody-got-mad.json](./135744-everybody-got-mad.json) |
 | Everybody Herds | 350425 | [350425-everybody-herds.json](./350425-everybody-herds.json) |
