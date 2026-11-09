@@ -806,6 +806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yoiyami Densetsu: The Legend of Twilight | 203077 | [203077-yoiyami-densetsu-the-legend-of-twilight.json](./203077-yoiyami-densetsu-the-legend-of-twilight.json) |
 | Yoiyami Dreamer: Voice of the Dreambringer | 69353 | [69353-yoiyami-dreamer-voice-of-the-dreambringer.json](./69353-yoiyami-dreamer-voice-of-the-dreambringer.json) |
 | Yoiyo Mori no Hime | 293326 | [293326-yoiyo-mori-no-hime.json](./293326-yoiyo-mori-no-hime.json) |
+| Yojigen no Ie: 4 Dimension House | 67420 | [67420-yojigen-no-ie-4-dimension-house.json](./67420-yojigen-no-ie-4-dimension-house.json) |
 | Yojijukugo Flash | 141329 | [141329-yojijukugo-flash.json](./141329-yojijukugo-flash.json) |
 | Yojimbrawl | 87819 | [87819-yojimbrawl.json](./87819-yojimbrawl.json) |
 | Yoka | 401197 | [401197-yoka.json](./401197-yoka.json) |
