@@ -12231,6 +12231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Military Defense | 326192 | [326192-military-defense.json](./326192-military-defense.json) |
 | Military Division | 236428 | [236428-military-division.json](./236428-military-division.json) |
 | Military Enlistment Office Escape Simulator | 233030 | [233030-military-enlistment-office-escape-simulator.json](./233030-military-enlistment-office-escape-simulator.json) |
+| Military History Commander: Europe at War | 22999 | [22999-military-history-commander-europe-at-war.json](./22999-military-history-commander-europe-at-war.json) |
 | Military Incremental Complex | 330099 | [330099-military-incremental-complex.json](./330099-military-incremental-complex.json) |
 | Military Life: Tank Simulator | 9458 | [9458-military-life-tank-simulator.json](./9458-military-life-tank-simulator.json) |
 | Military Madness | 270701 | [270701-military-madness.json](./270701-military-madness.json) |
@@ -16983,6 +16984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters Are Coming! | 346956 | [346956-monsters-are-coming.json](./346956-monsters-are-coming.json) |
 | Monsters Are Coming!: Madness Builds | 417323 | [417323-monsters-are-coming-madness-builds.json](./417323-monsters-are-coming-madness-builds.json) |
 | Monsters Ate My Birthday Cake | 17344 | [17344-monsters-ate-my-birthday-cake.json](./17344-monsters-ate-my-birthday-cake.json) |
+| Monsters Ate My Condo | 22925 | [22925-monsters-ate-my-condo.json](./22925-monsters-ate-my-condo.json) |
 | Monsters Ate My Metropolis | 122010 | [122010-monsters-ate-my-metropolis.json](./122010-monsters-ate-my-metropolis.json) |
 | Monsters Come Out | 177765 | [177765-monsters-come-out.json](./177765-monsters-come-out.json) |
 | Monsters Domain | 187056 | [187056-monsters-domain.json](./187056-monsters-domain.json) |
