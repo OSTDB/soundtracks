@@ -3700,6 +3700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrap Boy | 182078 | [182078-scrap-boy.json](./182078-scrap-boy.json) |
 | Scrap Bringer | 172130 | [172130-scrap-bringer.json](./172130-scrap-bringer.json) |
 | Scrap Bulwark Guide | 374352 | [374352-scrap-bulwark-guide.json](./374352-scrap-bulwark-guide.json) |
+| Scrap Chute | 27132 | [27132-scrap-chute.json](./27132-scrap-chute.json) |
 | Scrap City | 100686 | [100686-scrap-city.json](./100686-scrap-city.json) |
 | Scrap Clicker | 397173 | [397173-scrap-clicker.json](./397173-scrap-clicker.json) |
 | Scrap Clicker 2 | 212705 | [212705-scrap-clicker-2.json](./212705-scrap-clicker-2.json) |
@@ -8206,6 +8207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ShellFire | 193826 | [193826-shellfire.json](./193826-shellfire.json) |
 | Shellguard: Starbound Expansion Remastered | 357316 | [357316-shellguard-starbound-expansion-remastered.json](./357316-shellguard-starbound-expansion-remastered.json) |
 | Shellie's Secret | 378169 | [378169-shellies-secret.json](./378169-shellies-secret.json) |
+| Shelling Star | 27926 | [27926-shelling-star.json](./27926-shelling-star.json) |
 | ShellMobile: Titan Rampart | 353162 | [353162-shellmobile-titan-rampart.json](./353162-shellmobile-titan-rampart.json) |
 | Shelloween | 328324 | [328324-shelloween.json](./328324-shelloween.json) |
 | ShellPieces | 356894 | [356894-shellpieces.json](./356894-shellpieces.json) |
@@ -21969,6 +21971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpeedBreaker | 422514 | [422514-speedbreaker.json](./422514-speedbreaker.json) |
 | Speedcat | 198290 | [198290-speedcat.json](./198290-speedcat.json) |
 | SpeedCoins | 343292 | [343292-speedcoins.json](./343292-speedcoins.json) |
+| SpeedColor | 27980 | [27980-speedcolor.json](./27980-speedcolor.json) |
 | Speeder | 152934 | [152934-speeder.json](./152934-speeder.json) |
 | SpeedFighter | 143962 | [143962-speedfighter.json](./143962-speedfighter.json) |
 | Speedgunner Ultra | 158855 | [158855-speedgunner-ultra.json](./158855-speedgunner-ultra.json) |
@@ -30529,6 +30532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suddenly My Stepsister!? | 299076 | [299076-suddenly-my-stepsister.json](./299076-suddenly-my-stepsister.json) |
 | Suddenly She's Here | 179363 | [179363-suddenly-shes-here.json](./179363-suddenly-shes-here.json) |
 | Sudeki | 6179 | [6179-sudeki.json](./6179-sudeki.json) |
+| Sudice | 27127 | [27127-sudice.json](./27127-sudice.json) |
 | Sudo Cats | 221263 | [221263-sudo-cats.json](./221263-sudo-cats.json) |
 | Sudo King | 267545 | [267545-sudo-king.json](./267545-sudo-king.json) |
 | Sudo-O-Mate Junior | 263608 | [263608-sudo-o-mate-junior.json](./263608-sudo-o-mate-junior.json) |
@@ -32124,6 +32128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cyborg | 20191 | [20191-super-cyborg.json](./20191-super-cyborg.json) |
 | Super Cycle | 28460 | [28460-super-cycle.json](./28460-super-cycle.json) |
 | Super Dai Senryaku 98 | 80725 | [80725-super-dai-senryaku-98.json](./80725-super-dai-senryaku-98.json) |
+| Super Daisenryaku | 27970 | [27970-super-daisenryaku.json](./27970-super-daisenryaku.json) |
 | Super Daisenryaku | 400829 | [400829-super-daisenryaku.json](./400829-super-daisenryaku.json) |
 | Super Daisenryaku | 400833 | [400833-super-daisenryaku.json](./400833-super-daisenryaku.json) |
 | Super Daisenryaku | 400835 | [400835-super-daisenryaku.json](./400835-super-daisenryaku.json) |
