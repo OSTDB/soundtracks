@@ -2132,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Wizard | 83714 | [83714-dark-wizard.json](./83714-dark-wizard.json) |
 | Dark Wizardry: The Road to Gargath | 381341 | [381341-dark-wizardry-the-road-to-gargath.json](./381341-dark-wizardry-the-road-to-gargath.json) |
 | Dark Wonderland | 412293 | [412293-dark-wonderland.json](./412293-dark-wonderland.json) |
+| Dark Woods 2 | 71121 | [71121-dark-woods-2.json](./71121-dark-woods-2.json) |
 | Dark Woods Haunted Quest: Hidden Objects Game | 197629 | [197629-dark-woods-haunted-quest-hidden-objects-game.json](./197629-dark-woods-haunted-quest-hidden-objects-game.json) |
 | Dark Woods MMO | 136564 | [136564-dark-woods-mmo.json](./136564-dark-woods-mmo.json) |
 | Dark World | 129517 | [129517-dark-world.json](./129517-dark-world.json) |
@@ -5190,6 +5191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decisive Battles of the American Civil War, Volume One | 54516 | [54516-decisive-battles-of-the-american-civil-war-volume-one.json](./54516-decisive-battles-of-the-american-civil-war-volume-one.json) |
 | Decisive Battles of the American Civil War, Volume Three | 54518 | [54518-decisive-battles-of-the-american-civil-war-volume-three.json](./54518-decisive-battles-of-the-american-civil-war-volume-three.json) |
 | Decisive Battles of the American Civil War, Volume Two | 54517 | [54517-decisive-battles-of-the-american-civil-war-volume-two.json](./54517-decisive-battles-of-the-american-civil-war-volume-two.json) |
+| Decisive Battles of WWII: Across the Dnepr | 71123 | [71123-decisive-battles-of-wwii-across-the-dnepr.json](./71123-decisive-battles-of-wwii-across-the-dnepr.json) |
 | Decisive Battles of WWII: Korsun Pocket | 768 | [768-decisive-battles-of-wwii-korsun-pocket.json](./768-decisive-battles-of-wwii-korsun-pocket.json) |
 | Decisive Campaigns: Ardennes Offensive | 143427 | [143427-decisive-campaigns-ardennes-offensive.json](./143427-decisive-campaigns-ardennes-offensive.json) |
 | Decisive Campaigns: Barbarossa | 33205 | [33205-decisive-campaigns-barbarossa.json](./33205-decisive-campaigns-barbarossa.json) |
@@ -5726,6 +5728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Avenger 2: Deer in the City | 68724 | [68724-deer-avenger-2-deer-in-the-city.json](./68724-deer-avenger-2-deer-in-the-city.json) |
 | Deer Avenger 3D | 73450 | [73450-deer-avenger-3d.json](./73450-deer-avenger-3d.json) |
 | Deer Avenger 4: The Rednecks Strike Back | 69770 | [69770-deer-avenger-4-the-rednecks-strike-back.json](./69770-deer-avenger-4-the-rednecks-strike-back.json) |
+| Deer Avenger: Open Season | 71141 | [71141-deer-avenger-open-season.json](./71141-deer-avenger-open-season.json) |
 | Deer Captor | 51120 | [51120-deer-captor.json](./51120-deer-captor.json) |
 | Deer Crusade | 235826 | [235826-deer-crusade.json](./235826-deer-crusade.json) |
 | Deer Drive | 47771 | [47771-deer-drive.json](./47771-deer-drive.json) |
@@ -12245,6 +12248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogwalk | 348639 | [348639-dogwalk.json](./348639-dogwalk.json) |
 | Dogwood | 385448 | [385448-dogwood.json](./385448-dogwood.json) |
 | Dogworld | 142914 | [142914-dogworld.json](./142914-dogworld.json) |
+| DogWorld 3D: My Dalmatian - The Cute Puppy Dog | 71259 | [71259-dogworld-3d-my-dalmatian-the-cute-puppy-dog.json](./71259-dogworld-3d-my-dalmatian-the-cute-puppy-dog.json) |
 | DogWorld Premium | 87265 | [87265-dogworld-premium.json](./87265-dogworld-premium.json) |
 | Dogyuun | 294035 | [294035-dogyuun.json](./294035-dogyuun.json) |
 | Dogyuun | 91482 | [91482-dogyuun.json](./91482-dogyuun.json) |
