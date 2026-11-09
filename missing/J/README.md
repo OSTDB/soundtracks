@@ -1240,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jesus in Space | 66525 | [66525-jesus-in-space.json](./66525-jesus-in-space.json) |
 | Jesus Matchup | 93294 | [93294-jesus-matchup.json](./93294-jesus-matchup.json) |
 | Jesus of Nazareth | 69739 | [69739-jesus-of-nazareth.json](./69739-jesus-of-nazareth.json) |
+| Jesus Pang | 61266 | [61266-jesus-pang.json](./61266-jesus-pang.json) |
 | Jesus Sacred Heart | 392792 | [392792-jesus-sacred-heart.json](./392792-jesus-sacred-heart.json) |
 | Jesus Saves | 408017 | [408017-jesus-saves.json](./408017-jesus-saves.json) |
 | Jesus Simulator | 387742 | [387742-jesus-simulator.json](./387742-jesus-simulator.json) |
@@ -3805,6 +3806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juniper Burning | 280121 | [280121-juniper-burning.json](./280121-juniper-burning.json) |
 | Juniper: A Scrapbooking Adventure | 386722 | [386722-juniper-a-scrapbooking-adventure.json](./386722-juniper-a-scrapbooking-adventure.json) |
 | Juniper's Knot | 55796 | [55796-junipers-knot.json](./55796-junipers-knot.json) |
+| Junjou de Karen: Meymay Kishi-dan - Spectral Force Seishoujo Gaiden | 61255 | [61255-junjou-de-karen-meymay-kishi-dan-spectral-force-seishoujo-gaiden.json](./61255-junjou-de-karen-meymay-kishi-dan-spectral-force-seishoujo-gaiden.json) |
 | Junjou Gal to Shiawase no Katachi: Shape of Happiness | 221201 | [221201-junjou-gal-to-shiawase-no-katachi-shape-of-happiness.json](./221201-junjou-gal-to-shiawase-no-katachi-shape-of-happiness.json) |
 | Junjou Romantica: Koi no Doki-doki Daisakusen | 287437 | [287437-junjou-romantica-koi-no-doki-doki-daisakusen.json](./287437-junjou-romantica-koi-no-doki-doki-daisakusen.json) |
 | Junk | 122251 | [122251-junk.json](./122251-junk.json) |
@@ -4419,6 +4421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Juurru | 241839 | [241839-juurru.json](./241839-juurru.json) |
 | Juuryoku Shisen-shou | 206352 | [206352-juuryoku-shisen-shou.json](./206352-juuryoku-shisen-shou.json) |
 | Juusanshi Engi: Engetsu Sangokuden 1 & 2 | 136758 | [136758-juusanshi-engi-engetsu-sangokuden-1-and-2.json](./136758-juusanshi-engi-engetsu-sangokuden-1-and-2.json) |
+| Juusei to Diamond | 61258 | [61258-juusei-to-diamond.json](./61258-juusei-to-diamond.json) |
 | Juushin Rogus | 234397 | [234397-juushin-rogus.json](./234397-juushin-rogus.json) |
 | Juutatsu Kihei Drag-Arms | 366495 | [366495-juutatsu-kihei-drag-arms.json](./366495-juutatsu-kihei-drag-arms.json) |
 | Juuyoku no Jousai | 134624 | [134624-juuyoku-no-jousai.json](./134624-juuyoku-no-jousai.json) |
