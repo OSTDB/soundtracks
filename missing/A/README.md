@@ -4938,6 +4938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Solitaire : Build City | 102713 | [102713-age-of-solitaire-build-city.json](./102713-age-of-solitaire-build-city.json) |
 | Age of Solitaire: Build Civilization | 211422 | [211422-age-of-solitaire-build-civilization.json](./211422-age-of-solitaire-build-civilization.json) |
 | Age of Space | 105023 | [105023-age-of-space.json](./105023-age-of-space.json) |
+| Age of Sparta | 58925 | [58925-age-of-sparta.json](./58925-age-of-sparta.json) |
 | Age of Speed | 326750 | [326750-age-of-speed.json](./326750-age-of-speed.json) |
 | Age of Speed 2 | 326751 | [326751-age-of-speed-2.json](./326751-age-of-speed-2.json) |
 | Age of Speed Underworld | 326752 | [326752-age-of-speed-underworld.json](./326752-age-of-speed-underworld.json) |
@@ -5412,6 +5413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aikatsu! 365 Idol Days | 177559 | [177559-aikatsu-365-idol-days.json](./177559-aikatsu-365-idol-days.json) |
 | Aikatsu! Futari no My Princess | 222496 | [222496-aikatsu-futari-no-my-princess.json](./222496-aikatsu-futari-no-my-princess.json) |
 | Aikatsu! My No. 1 Stage | 165144 | [165144-aikatsu-my-no-1-stage.json](./165144-aikatsu-my-no-1-stage.json) |
+| Aikatsu! Photo on Stage!! | 58935 | [58935-aikatsu-photo-on-stage.json](./58935-aikatsu-photo-on-stage.json) |
 | Aikiss | 136641 | [136641-aikiss.json](./136641-aikiss.json) |
 | Aikiss 1, 2, 3 Pack | 182469 | [182469-aikiss-1-2-3-pack.json](./182469-aikiss-1-2-3-pack.json) |
 | Aikiss 2 | 141794 | [141794-aikiss-2.json](./141794-aikiss-2.json) |
@@ -10782,6 +10784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anime Story Otome Game: Comino | 298878 | [298878-anime-story-otome-game-comino.json](./298878-anime-story-otome-game-comino.json) |
 | Anime Street Fight | 150851 | [150851-anime-street-fight.json](./150851-anime-street-fight.json) |
 | Anime Studio Saga | 287237 | [287237-anime-studio-saga.json](./287237-anime-studio-saga.json) |
+| Anime Studio Story | 58912 | [58912-anime-studio-story.json](./58912-anime-studio-story.json) |
 | Anime Sudoku | 263324 | [263324-anime-sudoku.json](./263324-anime-sudoku.json) |
 | Anime Sunset Ride | 153014 | [153014-anime-sunset-ride.json](./153014-anime-sunset-ride.json) |
 | Anime Tank Blitz: Warbound Legends | 283293 | [283293-anime-tank-blitz-warbound-legends.json](./283293-anime-tank-blitz-warbound-legends.json) |
@@ -14446,6 +14449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armadillo Run | 23137 | [23137-armadillo-run.json](./23137-armadillo-run.json) |
 | Armadusa | 118381 | [118381-armadusa.json](./118381-armadusa.json) |
 | Armaëth: The Lost Kingdom | 2311 | [2311-armaeth-the-lost-kingdom.json](./2311-armaeth-the-lost-kingdom.json) |
+| ArmaGallant: Decks of Destiny | 58921 | [58921-armagallant-decks-of-destiny.json](./58921-armagallant-decks-of-destiny.json) |
 | Armage | 174889 | [174889-armage.json](./174889-armage.json) |
 | Armageddon | 228693 | [228693-armageddon.json](./228693-armageddon.json) |
 | Armageddon | 394333 | [394333-armageddon.json](./394333-armageddon.json) |
@@ -17265,7 +17269,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -17329,6 +17332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atman: Rebel Flame | 292388 | [292388-atman-rebel-flame.json](./292388-atman-rebel-flame.json) |
 | AtmaSphere 2 | 261706 | [261706-atmasphere-2.json](./261706-atmasphere-2.json) |
 | Atmocity | 90077 | [90077-atmocity.json](./90077-atmocity.json) |
+| Atmocopter | 58400 | [58400-atmocopter.json](./58400-atmocopter.json) |
 | Atmoids | 92833 | [92833-atmoids.json](./92833-atmoids.json) |
 | Atmos | 398400 | [398400-atmos.json](./398400-atmos.json) |
 | Atmos Quake | 245076 | [245076-atmos-quake.json](./245076-atmos-quake.json) |
