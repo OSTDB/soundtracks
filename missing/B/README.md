@@ -4702,6 +4702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleTanx | 3421 | [3421-battletanx.json](./3421-battletanx.json) |
 | BattleTanx | 47686 | [47686-battletanx.json](./47686-battletanx.json) |
 | BattleTanx: Global Assault | 47685 | [47685-battletanx-global-assault.json](./47685-battletanx-global-assault.json) |
+| BattleTech | 18279 | [18279-battletech.json](./18279-battletech.json) |
 | Battletech: Digital Deluxe Edition | 124900 | [124900-battletech-digital-deluxe-edition.json](./124900-battletech-digital-deluxe-edition.json) |
 | Battletech: Firestorm | 60622 | [60622-battletech-firestorm.json](./60622-battletech-firestorm.json) |
 | BattleTech: Flashpoint | 107258 | [107258-battletech-flashpoint.json](./107258-battletech-flashpoint.json) |
@@ -15883,6 +15884,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breakout | 140838 | [140838-breakout.json](./140838-breakout.json) |
 | Breakout | 227733 | [227733-breakout.json](./227733-breakout.json) |
 | Breakout | 228318 | [228318-breakout.json](./228318-breakout.json) |
+| Breakout | 2754 | [2754-breakout.json](./2754-breakout.json) |
 | Breakout | 308606 | [308606-breakout.json](./308606-breakout.json) |
 | Breakout | 328918 | [328918-breakout.json](./328918-breakout.json) |
 | Breakout | 366504 | [366504-breakout.json](./366504-breakout.json) |
