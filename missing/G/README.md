@@ -10527,6 +10527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guacamelee! 2: The Proving Grounds | 144703 | [144703-guacamelee-2-the-proving-grounds.json](./144703-guacamelee-2-the-proving-grounds.json) |
 | Guacamelee! 2: Three Enemigos Character Pack | 155046 | [155046-guacamelee-2-three-enemigos-character-pack.json](./155046-guacamelee-2-three-enemigos-character-pack.json) |
 | Guacamelee! One-Two Punch Collection | 115023 | [115023-guacamelee-one-two-punch-collection.json](./115023-guacamelee-one-two-punch-collection.json) |
+| Guacamelee! Super Turbo Championship Edition | 8862 | [8862-guacamelee-super-turbo-championship-edition.json](./8862-guacamelee-super-turbo-championship-edition.json) |
 | Guacamojo | 201693 | [201693-guacamojo.json](./201693-guacamojo.json) |
 | Guacomole | 234104 | [234104-guacomole.json](./234104-guacomole.json) |
 | Guacuco | 190873 | [190873-guacuco.json](./190873-guacuco.json) |
@@ -10937,6 +10938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Gear XX Accent Core | 9145 | [9145-guilty-gear-xx-accent-core.json](./9145-guilty-gear-xx-accent-core.json) |
 | Guilty Gear XX Accent Core Plus | 5642 | [5642-guilty-gear-xx-accent-core-plus.json](./5642-guilty-gear-xx-accent-core-plus.json) |
 | Guilty Gear XX Slash | 9144 | [9144-guilty-gear-xx-slash.json](./9144-guilty-gear-xx-slash.json) |
+| Guilty Gear: Strive | 125764 | [125764-guilty-gear-strive.json](./125764-guilty-gear-strive.json) |
 | Guilty Gear: Strive - Additional Battle Stage: Amber Fest with Kind Neighbors | 299723 | [299723-guilty-gear-strive-additional-battle-stage-amber-fest-with-kind-neighbors.json](./299723-guilty-gear-strive-additional-battle-stage-amber-fest-with-kind-neighbors.json) |
 | Guilty Gear: Strive - Additional Battle Stage: Fairy's Forest Factory | 254564 | [254564-guilty-gear-strive-additional-battle-stage-fairys-forest-factory.json](./254564-guilty-gear-strive-additional-battle-stage-fairys-forest-factory.json) |
 | Guilty Gear: Strive - Additional Battle Stage: Fallen Prayer, Engulfed Lives | 294020 | [294020-guilty-gear-strive-additional-battle-stage-fallen-prayer-engulfed-lives.json](./294020-guilty-gear-strive-additional-battle-stage-fallen-prayer-engulfed-lives.json) |
@@ -11033,6 +11035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guitar Hero III: ZV K-ON! 10th Anniversary - 2nd Version | 343370 | [343370-guitar-hero-iii-zv-k-on-10th-anniversary-2nd-version.json](./343370-guitar-hero-iii-zv-k-on-10th-anniversary-2nd-version.json) |
 | Guitar Hero Live | 9741 | [9741-guitar-hero-live.json](./9741-guitar-hero-live.json) |
 | Guitar Hero Live: Supreme Party Edition | 136352 | [136352-guitar-hero-live-supreme-party-edition.json](./136352-guitar-hero-live-supreme-party-edition.json) |
+| Guitar Hero World Tour | 2669 | [2669-guitar-hero-world-tour.json](./2669-guitar-hero-world-tour.json) |
 | Guitar Hero World Tour: Definitive Edition | 187448 | [187448-guitar-hero-world-tour-definitive-edition.json](./187448-guitar-hero-world-tour-definitive-edition.json) |
 | Guitar Hero: Aerosmith | 2673 | [2673-guitar-hero-aerosmith.json](./2673-guitar-hero-aerosmith.json) |
 | Guitar Hero: Avril Lavigne | 310674 | [310674-guitar-hero-avril-lavigne.json](./310674-guitar-hero-avril-lavigne.json) |
