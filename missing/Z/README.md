@@ -97,6 +97,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZaBaTa! | 235496 | [235496-zabata.json](./235496-zabata.json) |
 | Zabawa Karaoke | 367920 | [367920-zabawa-karaoke.json](./367920-zabawa-karaoke.json) |
 | Zabb World: Secret Stories | 320112 | [320112-zabb-world-secret-stories.json](./320112-zabb-world-secret-stories.json) |
+| Zaboodles! | 51336 | [51336-zaboodles.json](./51336-zaboodles.json) |
 | Zabugorie: The Fairy Planet | 57638 | [57638-zabugorie-the-fairy-planet.json](./57638-zabugorie-the-fairy-planet.json) |
 | Zabula's Quest | 144224 | [144224-zabulas-quest.json](./144224-zabulas-quest.json) |
 | Zac to Ombra: Maboroshi no Yuuenchi | 122527 | [122527-zac-to-ombra-maboroshi-no-yuuenchi.json](./122527-zac-to-ombra-maboroshi-no-yuuenchi.json) |
@@ -2389,6 +2390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoo Tycoon 2: Marine Mania | 100132 | [100132-zoo-tycoon-2-marine-mania.json](./100132-zoo-tycoon-2-marine-mania.json) |
 | Zoo Tycoon 2: Paranoia! | 381976 | [381976-zoo-tycoon-2-paranoia.json](./381976-zoo-tycoon-2-paranoia.json) |
 | Zoo Tycoon 2: Radical Remake | 280053 | [280053-zoo-tycoon-2-radical-remake.json](./280053-zoo-tycoon-2-radical-remake.json) |
+| Zoo Tycoon 2: Ultimate Collection | 50913 | [50913-zoo-tycoon-2-ultimate-collection.json](./50913-zoo-tycoon-2-ultimate-collection.json) |
 | Zoo Tycoon 2032 | 176848 | [176848-zoo-tycoon-2032.json](./176848-zoo-tycoon-2032.json) |
 | Zoo Tycoon DS | 18598 | [18598-zoo-tycoon-ds.json](./18598-zoo-tycoon-ds.json) |
 | Zoo Tycoon Friends | 299574 | [299574-zoo-tycoon-friends.json](./299574-zoo-tycoon-friends.json) |
@@ -2457,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zoombies: Animales de la Muerte | 92761 | [92761-zoombies-animales-de-la-muerte.json](./92761-zoombies-animales-de-la-muerte.json) |
 | Zoombinis | 34591 | [34591-zoombinis.json](./34591-zoombinis.json) |
 | Zoombinis: Island Odyssey | 68248 | [68248-zoombinis-island-odyssey.json](./68248-zoombinis-island-odyssey.json) |
+| Zoombinis: Logical Journey | 51357 | [51357-zoombinis-logical-journey.json](./51357-zoombinis-logical-journey.json) |
 | Zoombinis: Mountain Rescue | 68249 | [68249-zoombinis-mountain-rescue.json](./68249-zoombinis-mountain-rescue.json) |
 | ZoomBook: The Temple of the Sun | 52099 | [52099-zoombook-the-temple-of-the-sun.json](./52099-zoombook-the-temple-of-the-sun.json) |
 | Zoomer Simulator | 326303 | [326303-zoomer-simulator.json](./326303-zoomer-simulator.json) |
