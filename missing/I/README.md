@@ -4026,6 +4026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5601,6 +5602,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inuyasha: Battle of Hell | 121442 | [121442-inuyasha-battle-of-hell.json](./121442-inuyasha-battle-of-hell.json) |
 | Inuyasha: Battle of Naraku | 193963 | [193963-inuyasha-battle-of-naraku.json](./193963-inuyasha-battle-of-naraku.json) |
 | InuYasha: Demon Tournament | 185829 | [185829-inuyasha-demon-tournament.json](./185829-inuyasha-demon-tournament.json) |
+| Inuyasha: Feudal Combat | 10256 | [10256-inuyasha-feudal-combat.json](./10256-inuyasha-feudal-combat.json) |
 | Inuyasha: Fuuun Emaki | 37374 | [37374-inuyasha-fuuun-emaki.json](./37374-inuyasha-fuuun-emaki.json) |
 | Inuyasha: Kagome no Sengoku Nikki | 37373 | [37373-inuyasha-kagome-no-sengoku-nikki.json](./37373-inuyasha-kagome-no-sengoku-nikki.json) |
 | Inuyasha: Kagome no Yume Nikki | 37372 | [37372-inuyasha-kagome-no-yume-nikki.json](./37372-inuyasha-kagome-no-yume-nikki.json) |
