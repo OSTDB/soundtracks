@@ -8249,6 +8249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dark Heart of Balor | 199483 | [199483-the-dark-heart-of-balor.json](./199483-the-dark-heart-of-balor.json) |
 | The Dark Hills of Cherai 2: The Regal Scepter | 158947 | [158947-the-dark-hills-of-cherai-2-the-regal-scepter.json](./158947-the-dark-hills-of-cherai-2-the-regal-scepter.json) |
 | The Dark Hills of Cheral | 18898 | [18898-the-dark-hills-of-cheral.json](./18898-the-dark-hills-of-cheral.json) |
+| The Dark Hour | 62368 | [62368-the-dark-hour.json](./62368-the-dark-hour.json) |
 | The Dark House | 267949 | [267949-the-dark-house.json](./267949-the-dark-house.json) |
 | The Dark Inside Me | 99005 | [99005-the-dark-inside-me.json](./99005-the-dark-inside-me.json) |
 | The Dark is a Soft, Warm Pressure | 276921 | [276921-the-dark-is-a-soft-warm-pressure.json](./276921-the-dark-is-a-soft-warm-pressure.json) |
@@ -13005,6 +13006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of the Dragonflame High School | 54849 | [54849-the-legend-of-the-dragonflame-high-school.json](./54849-the-legend-of-the-dragonflame-high-school.json) |
 | The Legend of the Dragonflame High School 2 | 115380 | [115380-the-legend-of-the-dragonflame-high-school-2.json](./115380-the-legend-of-the-dragonflame-high-school-2.json) |
 | The Legend of the Dragonflame High School 3 | 309289 | [309289-the-legend-of-the-dragonflame-high-school-3.json](./309289-the-legend-of-the-dragonflame-high-school-3.json) |
+| The Legend of the Dragonflame High School: Youth Battle Story | 62789 | [62789-the-legend-of-the-dragonflame-high-school-youth-battle-story.json](./62789-the-legend-of-the-dragonflame-high-school-youth-battle-story.json) |
 | The Legend of the Dragonflame: Highschool Collection | 200828 | [200828-the-legend-of-the-dragonflame-highschool-collection.json](./200828-the-legend-of-the-dragonflame-highschool-collection.json) |
 | The Legend of The Duck Knite | 117507 | [117507-the-legend-of-the-duck-knite.json](./117507-the-legend-of-the-duck-knite.json) |
 | The Legend of the Heroes of the Water Margin | 330499 | [330499-the-legend-of-the-heroes-of-the-water-margin.json](./330499-the-legend-of-the-heroes-of-the-water-margin.json) |
@@ -34231,6 +34233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twinkle Hunter | 232956 | [232956-twinkle-hunter.json](./232956-twinkle-hunter.json) |
 | Twinkle Knights | 39016 | [39016-twinkle-knights.json](./39016-twinkle-knights.json) |
 | Twinkle Nights | 286037 | [286037-twinkle-nights.json](./286037-twinkle-nights.json) |
+| Twinkle Queen | 62847 | [62847-twinkle-queen.json](./62847-twinkle-queen.json) |
 | Twinkle Star Knights | 256686 | [256686-twinkle-star-knights.json](./256686-twinkle-star-knights.json) |
 | Twinkle Star Sprites | 35378 | [35378-twinkle-star-sprites.json](./35378-twinkle-star-sprites.json) |
 | Twinkle Star Sprites: La Petite Princesse | 43453 | [43453-twinkle-star-sprites-la-petite-princesse.json](./43453-twinkle-star-sprites-la-petite-princesse.json) |
