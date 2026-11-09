@@ -179,6 +179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cold Day In Shell | 328068 | [328068-a-cold-day-in-shell.json](./328068-a-cold-day-in-shell.json) |
 | A Cold Night | 180947 | [180947-a-cold-night.json](./180947-a-cold-night.json) |
 | A Collection of 10000 Sudoku Games | 91047 | [91047-a-collection-of-10000-sudoku-games.json](./91047-a-collection-of-10000-sudoku-games.json) |
+| A Collection of Activision Classic Games for the Atari 2600 | 68780 | [68780-a-collection-of-activision-classic-games-for-the-atari-2600.json](./68780-a-collection-of-activision-classic-games-for-the-atari-2600.json) |
 | A Collection of Bad Moments | 68618 | [68618-a-collection-of-bad-moments.json](./68618-a-collection-of-bad-moments.json) |
 | A Collection of Intellivision Classic Games | 65901 | [65901-a-collection-of-intellivision-classic-games.json](./65901-a-collection-of-intellivision-classic-games.json) |
 | A Collection of Mini-Games | 263641 | [263641-a-collection-of-mini-games.json](./263641-a-collection-of-mini-games.json) |
@@ -2104,6 +2105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Above the Waters | 145510 | [145510-above-the-waters.json](./145510-above-the-waters.json) |
 | Above VR | 30855 | [30855-above-vr.json](./30855-above-vr.json) |
 | Above: Colonies of the Mist | 388001 | [388001-above-colonies-of-the-mist.json](./388001-above-colonies-of-the-mist.json) |
+| Above: The Fallen | 68799 | [68799-above-the-fallen.json](./68799-above-the-fallen.json) |
 | ABPA Backgammon | 5653 | [5653-abpa-backgammon.json](./5653-abpa-backgammon.json) |
 | Abra Ca Dabra | 93959 | [93959-abra-ca-dabra.json](./93959-abra-ca-dabra.json) |
 | Abra-cooking-dabra | 345039 | [345039-abra-cooking-dabra.json](./345039-abra-cooking-dabra.json) |
