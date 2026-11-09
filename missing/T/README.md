@@ -12315,6 +12315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Last Blade (Best Collection) | 75482 | [75482-the-last-blade-best-collection.json](./75482-the-last-blade-best-collection.json) |
 | The Last Blade 2 | 76045 | [76045-the-last-blade-2.json](./76045-the-last-blade-2.json) |
 | The Last Blade: Beyond the Destiny | 210443 | [210443-the-last-blade-beyond-the-destiny.json](./210443-the-last-blade-beyond-the-destiny.json) |
+| The Last Blade: Beyond the Destiny | 43987 | [43987-the-last-blade-beyond-the-destiny.json](./43987-the-last-blade-beyond-the-destiny.json) |
 | The Last Bloom | 337017 | [337017-the-last-bloom.json](./337017-the-last-bloom.json) |
 | The Last Bot | 270547 | [270547-the-last-bot.json](./270547-the-last-bot.json) |
 | The Last Bounty Hunter | 4287 | [4287-the-last-bounty-hunter.json](./4287-the-last-bounty-hunter.json) |
@@ -12955,11 +12956,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Khiimori | 318175 | [318175-the-legend-of-khiimori.json](./318175-the-legend-of-khiimori.json) |
 | The Legend of Knight Templar | 72567 | [72567-the-legend-of-knight-templar.json](./72567-the-legend-of-knight-templar.json) |
 | The Legend of Korra | 7877 | [7877-the-legend-of-korra.json](./7877-the-legend-of-korra.json) |
+| The Legend of Korra A New Era Beings | 44022 | [44022-the-legend-of-korra-a-new-era-beings.json](./44022-the-legend-of-korra-a-new-era-beings.json) |
 | The Legend of Korra: A New Era Begins | 7996 | [7996-the-legend-of-korra-a-new-era-begins.json](./7996-the-legend-of-korra-a-new-era-begins.json) |
 | The Legend of Kusakari | 23421 | [23421-the-legend-of-kusakari.json](./23421-the-legend-of-kusakari.json) |
 | The Legend of Kyrandia | 1282 | [1282-the-legend-of-kyrandia.json](./1282-the-legend-of-kyrandia.json) |
 | The Legend of Legacy | 11317 | [11317-the-legend-of-legacy.json](./11317-the-legend-of-legacy.json) |
 | The Legend of Legacy: HD Remastered | 268421 | [268421-the-legend-of-legacy-hd-remastered.json](./268421-the-legend-of-legacy-hd-remastered.json) |
+| The Legend of Legacy: Launch Edition | 44020 | [44020-the-legend-of-legacy-launch-edition.json](./44020-the-legend-of-legacy-launch-edition.json) |
 | The Legend of Lobodestroyo vs. La Liga de Los Villanos | 79199 | [79199-the-legend-of-lobodestroyo-vs-la-liga-de-los-villanos.json](./79199-the-legend-of-lobodestroyo-vs-la-liga-de-los-villanos.json) |
 | The Legend of Lorosity | 241267 | [241267-the-legend-of-lorosity.json](./241267-the-legend-of-lorosity.json) |
 | The Legend of Lotus Spring | 71044 | [71044-the-legend-of-lotus-spring.json](./71044-the-legend-of-lotus-spring.json) |
@@ -13156,6 +13159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Majora's Mask - Masked Quest | 172482 | [172482-the-legend-of-zelda-majoras-mask-masked-quest.json](./172482-the-legend-of-zelda-majoras-mask-masked-quest.json) |
 | The Legend of Zelda: Majora's Mask - Master Quest | 194833 | [194833-the-legend-of-zelda-majoras-mask-master-quest.json](./194833-the-legend-of-zelda-majoras-mask-master-quest.json) |
 | The Legend of Zelda: Majora's Mask 3D | 8593 | [8593-the-legend-of-zelda-majoras-mask-3d.json](./8593-the-legend-of-zelda-majoras-mask-3d.json) |
+| The Legend of Zelda: Majora's Mask 3D - Limited Edition | 44030 | [44030-the-legend-of-zelda-majoras-mask-3d-limited-edition.json](./44030-the-legend-of-zelda-majoras-mask-3d-limited-edition.json) |
 | The Legend of Zelda: Majora's Mask 3D - Special Edition | 141589 | [141589-the-legend-of-zelda-majoras-mask-3d-special-edition.json](./141589-the-legend-of-zelda-majoras-mask-3d-special-edition.json) |
 | The Legend of Zelda: Majora's Mask Randomizer | 241860 | [241860-the-legend-of-zelda-majoras-mask-randomizer.json](./241860-the-legend-of-zelda-majoras-mask-randomizer.json) |
 | The Legend of Zelda: Mask of the Gods | 323280 | [323280-the-legend-of-zelda-mask-of-the-gods.json](./323280-the-legend-of-zelda-mask-of-the-gods.json) |
