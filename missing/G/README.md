@@ -2783,6 +2783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gemmy's Adventure | 333112 | [333112-gemmys-adventure.json](./333112-gemmys-adventure.json) |
 | Gemology | 85167 | [85167-gemology.json](./85167-gemology.json) |
 | Gemporium | 330563 | [330563-gemporium.json](./330563-gemporium.json) |
+| Gems | 74656 | [74656-gems.json](./74656-gems.json) |
 | Gems and Knight | 274450 | [274450-gems-and-knight.json](./274450-gems-and-knight.json) |
 | Gems Defenders | 220423 | [220423-gems-defenders.json](./220423-gems-defenders.json) |
 | Gems Frontier | 98550 | [98550-gems-frontier.json](./98550-gems-frontier.json) |
@@ -6555,6 +6556,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Grabbing Goblin | 271627 | [271627-gold-grabbing-goblin.json](./271627-gold-grabbing-goblin.json) |
 | Gold Hunter | 118477 | [118477-gold-hunter.json](./118477-gold-hunter.json) |
 | Gold Is Mine | 148842 | [148842-gold-is-mine.json](./148842-gold-is-mine.json) |
+| Gold key | 74658 | [74658-gold-key.json](./74658-gold-key.json) |
 | Gold Knight | 277269 | [277269-gold-knight.json](./277269-gold-knight.json) |
 | Gold Lender Manager | 191375 | [191375-gold-lender-manager.json](./191375-gold-lender-manager.json) |
 | Gold Lining | 320059 | [320059-gold-lining.json](./320059-gold-lining.json) |
