@@ -215,6 +215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zach-Like | 119788 | [119788-zach-like.json](./119788-zach-like.json) |
 | ZaciSa: Defense of the Crayon Dimensions! | 84971 | [84971-zacisa-defense-of-the-crayon-dimensions.json](./84971-zacisa-defense-of-the-crayon-dimensions.json) |
 | ZaciSa's Last Stand | 84957 | [84957-zacisas-last-stand.json](./84957-zacisas-last-stand.json) |
+| Zack & Ombra: The Phantom Amusement Park | 63907 | [63907-zack-and-ombra-the-phantom-amusement-park.json](./63907-zack-and-ombra-the-phantom-amusement-park.json) |
 | Zack & Wiki: Quest for Barbaros' Treasure | 2264 | [2264-zack-and-wiki-quest-for-barbaros-treasure.json](./2264-zack-and-wiki-quest-for-barbaros-treasure.json) |
 | Zack 2: Celestine's Map | 139640 | [139640-zack-2-celestines-map.json](./139640-zack-2-celestines-map.json) |
 | Zack in Fight | 412012 | [412012-zack-in-fight.json](./412012-zack-in-fight.json) |
