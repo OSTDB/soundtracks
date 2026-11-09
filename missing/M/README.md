@@ -1863,6 +1863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MagnetoBotty | 149390 | [149390-magnetobotty.json](./149390-magnetobotty.json) |
 | Magnetoresistive | 180597 | [180597-magnetoresistive.json](./180597-magnetoresistive.json) |
 | Magnetron | 34089 | [34089-magnetron.json](./34089-magnetron.json) |
+| Magnetron | 54640 | [54640-magnetron.json](./54640-magnetron.json) |
 | Magnets | 366911 | [366911-magnets.json](./366911-magnets.json) |
 | MagNets | 10535 | [10535-magnets.json](./10535-magnets.json) |
 | MagNets: Fully Charged | 21322 | [21322-magnets-fully-charged.json](./21322-magnets-fully-charged.json) |
@@ -6173,7 +6174,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -16835,6 +16835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MonsterGirl 3: Wukong | 372964 | [372964-monstergirl-3-wukong.json](./372964-monstergirl-3-wukong.json) |
 | Monstergirl Hunters | 389842 | [389842-monstergirl-hunters.json](./389842-monstergirl-hunters.json) |
 | Monsterhearts 2 | 138699 | [138699-monsterhearts-2.json](./138699-monsterhearts-2.json) |
+| Monsteria | 55341 | [55341-monsteria.json](./55341-monsteria.json) |
 | Monsterium | 357360 | [357360-monsterium.json](./357360-monsterium.json) |
 | Monsterland 2 | 332292 | [332292-monsterland-2.json](./332292-monsterland-2.json) |
 | Monsterland: Junior vs. Senior | 423411 | [423411-monsterland-junior-vs-senior.json](./423411-monsterland-junior-vs-senior.json) |
@@ -19166,6 +19167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr Orange | 256660 | [256660-mr-orange.json](./256660-mr-orange.json) |
 | Mr Rabbit's Alphabet Forest Adventure | 44168 | [44168-mr-rabbits-alphabet-forest-adventure.json](./44168-mr-rabbits-alphabet-forest-adventure.json) |
 | Mr Rabbit's Cambridge: Point and Click Adventure | 242973 | [242973-mr-rabbits-cambridge-point-and-click-adventure.json](./242973-mr-rabbits-cambridge-point-and-click-adventure.json) |
+| Mr Rabbit's Jigsaw Puzzle | 55321 | [55321-mr-rabbits-jigsaw-puzzle.json](./55321-mr-rabbits-jigsaw-puzzle.json) |
 | Mr Rabbit's Memory | 101312 | [101312-mr-rabbits-memory.json](./101312-mr-rabbits-memory.json) |
 | MR Racer | 343459 | [343459-mr-racer.json](./343459-mr-racer.json) |
 | MR Racer Stunt Mania | 349888 | [349888-mr-racer-stunt-mania.json](./349888-mr-racer-stunt-mania.json) |
