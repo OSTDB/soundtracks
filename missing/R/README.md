@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R.B.I. Baseball | 18022 | [18022-r-b-i-baseball.json](./18022-r-b-i-baseball.json) |
 | R.B.I. Baseball '93 | 46203 | [46203-r-b-i-baseball-93.json](./46203-r-b-i-baseball-93.json) |
 | R.B.I. Baseball '94 | 92260 | [92260-r-b-i-baseball-94.json](./92260-r-b-i-baseball-94.json) |
+| R.B.I. Baseball 14 | 62324 | [62324-r-b-i-baseball-14.json](./62324-r-b-i-baseball-14.json) |
 | R.B.I. Baseball 15 | 17962 | [17962-r-b-i-baseball-15.json](./17962-r-b-i-baseball-15.json) |
 | R.B.I. Baseball 16 | 23379 | [23379-r-b-i-baseball-16.json](./23379-r-b-i-baseball-16.json) |
 | R.B.I. Baseball 17 | 51539 | [51539-r-b-i-baseball-17.json](./51539-r-b-i-baseball-17.json) |
@@ -9852,6 +9853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RocketRecoil | 296254 | [296254-rocketrecoil.json](./296254-rocketrecoil.json) |
 | Rockets | 108514 | [108514-rockets.json](./108514-rockets.json) |
 | Rockets Defender | 106054 | [106054-rockets-defender.json](./106054-rockets-defender.json) |
+| Rockets Fucking Everywhere | 62322 | [62322-rockets-fucking-everywhere.json](./62322-rockets-fucking-everywhere.json) |
 | Rockets, Planes, Soldiers | 267014 | [267014-rockets-planes-soldiers.json](./267014-rockets-planes-soldiers.json) |
 | Rockets.com | 415449 | [415449-rockets-com.json](./415449-rockets-com.json) |
 | RocketShip Go Up | 373347 | [373347-rocketship-go-up.json](./373347-rocketship-go-up.json) |
@@ -11931,6 +11933,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Royal Sort | 369373 | [369373-royal-sort.json](./369373-royal-sort.json) |
 | Royal Squad | 101927 | [101927-royal-squad.json](./101927-royal-squad.json) |
 | Royal Stone: Hirakareshi Toki no Tobira | 46310 | [46310-royal-stone-hirakareshi-toki-no-tobira.json](./46310-royal-stone-hirakareshi-toki-no-tobira.json) |
+| Royal Story | 62311 | [62311-royal-story.json](./62311-royal-story.json) |
 | Royal Thumble | 196727 | [196727-royal-thumble.json](./196727-royal-thumble.json) |
 | Royal Tower Defense | 142833 | [142833-royal-tower-defense.json](./142833-royal-tower-defense.json) |
 | Royal Trouble: Hidden Adventures | 87899 | [87899-royal-trouble-hidden-adventures.json](./87899-royal-trouble-hidden-adventures.json) |
