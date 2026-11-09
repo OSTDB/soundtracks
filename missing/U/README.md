@@ -680,6 +680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Pong | 311971 | [311971-ultimate-pong.json](./311971-ultimate-pong.json) |
 | Ultimate Pro Basketball GM | 228122 | [228122-ultimate-pro-basketball-gm.json](./228122-ultimate-pro-basketball-gm.json) |
 | Ultimate Pro Football Coach | 352146 | [352146-ultimate-pro-football-coach.json](./352146-ultimate-pro-football-coach.json) |
+| Ultimate Pro Pinball | 47362 | [47362-ultimate-pro-pinball.json](./47362-ultimate-pro-pinball.json) |
 | Ultimate Protector | 215679 | [215679-ultimate-protector.json](./215679-ultimate-protector.json) |
 | Ultimate Puzzle Adventure: Dogs | 309058 | [309058-ultimate-puzzle-adventure-dogs.json](./309058-ultimate-puzzle-adventure-dogs.json) |
 | Ultimate Puzzle Adventure: Kitties | 308614 | [308614-ultimate-puzzle-adventure-kitties.json](./308614-ultimate-puzzle-adventure-kitties.json) |
