@@ -6508,6 +6508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piece Shogi | 312772 | [312772-piece-shogi.json](./312772-piece-shogi.json) |
 | Piece Yourself Up | 341577 | [341577-piece-yourself-up.json](./341577-piece-yourself-up.json) |
 | Pieced Together | 295080 | [295080-pieced-together.json](./295080-pieced-together.json) |
+| PieceFall | 52666 | [52666-piecefall.json](./52666-piecefall.json) |
 | PieceFall VR | 270606 | [270606-piecefall-vr.json](./270606-piecefall-vr.json) |
 | Pieceful | 138237 | [138237-pieceful.json](./138237-pieceful.json) |
 | Pieceful Gallery | 375884 | [375884-pieceful-gallery.json](./375884-pieceful-gallery.json) |
@@ -7315,6 +7316,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Hero | 357210 | [357210-pinball-hero.json](./357210-pinball-hero.json) |
 | Pinball Heroes | 229161 | [229161-pinball-heroes.json](./229161-pinball-heroes.json) |
 | Pinball Heroes Bundle 2 | 99584 | [99584-pinball-heroes-bundle-2.json](./99584-pinball-heroes-bundle-2.json) |
+| Pinball Heroes: Complete | 52665 | [52665-pinball-heroes-complete.json](./52665-pinball-heroes-complete.json) |
+| Pinball Heroes: Fat Princess | 52663 | [52663-pinball-heroes-fat-princess.json](./52663-pinball-heroes-fat-princess.json) |
+| Pinball Heroes: High Velocity Bowling | 52662 | [52662-pinball-heroes-high-velocity-bowling.json](./52662-pinball-heroes-high-velocity-bowling.json) |
+| Pinball Heroes: Hot Shots Golf | 52664 | [52664-pinball-heroes-hot-shots-golf.json](./52664-pinball-heroes-hot-shots-golf.json) |
+| Pinball Heroes: Modnation Racers | 52661 | [52661-pinball-heroes-modnation-racers.json](./52661-pinball-heroes-modnation-racers.json) |
+| Pinball Heroes: MotorStorm | 52660 | [52660-pinball-heroes-motorstorm.json](./52660-pinball-heroes-motorstorm.json) |
+| Pinball Heroes: Pain | 52658 | [52658-pinball-heroes-pain.json](./52658-pinball-heroes-pain.json) |
+| Pinball Heroes: Uncharted Drake's Fortune | 52657 | [52657-pinball-heroes-uncharted-drakes-fortune.json](./52657-pinball-heroes-uncharted-drakes-fortune.json) |
 | Pinball Heroes: Wipeout HD Fury | 52655 | [52655-pinball-heroes-wipeout-hd-fury.json](./52655-pinball-heroes-wipeout-hd-fury.json) |
 | Pinball Illusions | 6025 | [6025-pinball-illusions.json](./6025-pinball-illusions.json) |
 | Pinball Inside: A VR Arcade Game | 29187 | [29187-pinball-inside-a-vr-arcade-game.json](./29187-pinball-inside-a-vr-arcade-game.json) |
@@ -19113,6 +19122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Quest 3 | 142769 | [142769-puzzle-quest-3.json](./142769-puzzle-quest-3.json) |
 | Puzzle Quest Chapter 1: Battle of Gruulkar | 70416 | [70416-puzzle-quest-chapter-1-battle-of-gruulkar.json](./70416-puzzle-quest-chapter-1-battle-of-gruulkar.json) |
 | Puzzle Quest: Challenge of the Warlords | 2370 | [2370-puzzle-quest-challenge-of-the-warlords.json](./2370-puzzle-quest-challenge-of-the-warlords.json) |
+| Puzzle Quest: Challenge of the Warlords - Revenge of the Plague Lord | 52686 | [52686-puzzle-quest-challenge-of-the-warlords-revenge-of-the-plague-lord.json](./52686-puzzle-quest-challenge-of-the-warlords-revenge-of-the-plague-lord.json) |
 | Puzzle Quest: Galactrix | 8980 | [8980-puzzle-quest-galactrix.json](./8980-puzzle-quest-galactrix.json) |
 | Puzzle Quest: The Legend Returns | 122246 | [122246-puzzle-quest-the-legend-returns.json](./122246-puzzle-quest-the-legend-returns.json) |
 | Puzzle Retreat | 38867 | [38867-puzzle-retreat.json](./38867-puzzle-retreat.json) |
