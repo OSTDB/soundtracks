@@ -3579,6 +3579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | En-Fem-E No. 9: The Factory | 288226 | [288226-en-fem-e-no-9-the-factory.json](./288226-en-fem-e-no-9-the-factory.json) |
 | En-thirer pp-slimes adventures | 101226 | [101226-en-thirer-pp-slimes-adventures.json](./101226-en-thirer-pp-slimes-adventures.json) |
 | En-Train | 159507 | [159507-en-train.json](./159507-en-train.json) |
+| Ena: Dream BBQ | 172496 | [172496-ena-dream-bbq.json](./172496-ena-dream-bbq.json) |
 | Enadakina | 114251 | [114251-enadakina.json](./114251-enadakina.json) |
 | Enamel | 64137 | [64137-enamel.json](./64137-enamel.json) |
 | Enamored Risks | 132440 | [132440-enamored-risks.json](./132440-enamored-risks.json) |
@@ -6529,6 +6530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etherjump | 219071 | [219071-etherjump.json](./219071-etherjump.json) |
 | Etherlords | 11407 | [11407-etherlords.json](./11407-etherlords.json) |
 | Etherlords | 344027 | [344027-etherlords.json](./344027-etherlords.json) |
+| Etherlords II | 11408 | [11408-etherlords-ii.json](./11408-etherlords-ii.json) |
 | Ethernal | 214438 | [214438-ethernal.json](./214438-ethernal.json) |
 | Ethernal War | 152855 | [152855-ethernal-war.json](./152855-ethernal-war.json) |
 | Ethernalis | 26830 | [26830-ethernalis.json](./26830-ethernalis.json) |
