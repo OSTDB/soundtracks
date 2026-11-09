@@ -19134,6 +19134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Run | 197224 | [197224-dungeon-run.json](./197224-dungeon-run.json) |
 | Dungeon Run | 357742 | [357742-dungeon-run.json](./357742-dungeon-run.json) |
 | Dungeon Run | 366356 | [366356-dungeon-run.json](./366356-dungeon-run.json) |
+| Dungeon Runner | 33626 | [33626-dungeon-runner.json](./33626-dungeon-runner.json) |
 | Dungeon Runner XZ | 190286 | [190286-dungeon-runner-xz.json](./190286-dungeon-runner-xz.json) |
 | Dungeon Runners | 21407 | [21407-dungeon-runners.json](./21407-dungeon-runners.json) |
 | Dungeon Rush | 105304 | [105304-dungeon-rush.json](./105304-dungeon-rush.json) |
