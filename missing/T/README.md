@@ -2766,6 +2766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tatsu | 33468 | [33468-tatsu.json](./33468-tatsu.json) |
 | Tatsu no Ko Fighter | 60762 | [60762-tatsu-no-ko-fighter.json](./60762-tatsu-no-ko-fighter.json) |
 | Tatsujin | 38096 | [38096-tatsujin.json](./38096-tatsujin.json) |
+| Tatsumaki: Land at War | 66242 | [66242-tatsumaki-land-at-war.json](./66242-tatsumaki-land-at-war.json) |
 | Tatsunami, let's clean up! | 353917 | [353917-tatsunami-lets-clean-up.json](./353917-tatsunami-lets-clean-up.json) |
 | Tatsuno Quest | 82767 | [82767-tatsuno-quest.json](./82767-tatsuno-quest.json) |
 | Tatsunoko Fight | 43811 | [43811-tatsunoko-fight.json](./43811-tatsunoko-fight.json) |
@@ -3293,6 +3294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Techno Cop | 132021 | [132021-techno-cop.json](./132021-techno-cop.json) |
 | Techno Cop | 22746 | [22746-techno-cop.json](./22746-techno-cop.json) |
 | Techno Drive | 319867 | [319867-techno-drive.json](./319867-techno-drive.json) |
+| Techno Kitten Adventure | 66236 | [66236-techno-kitten-adventure.json](./66236-techno-kitten-adventure.json) |
 | Techno Motor | 133574 | [133574-techno-motor.json](./133574-techno-motor.json) |
 | Techno Prank | 345553 | [345553-techno-prank.json](./345553-techno-prank.json) |
 | Techno Tanks | 146223 | [146223-techno-tanks.json](./146223-techno-tanks.json) |
@@ -8457,6 +8459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deep | 169464 | [169464-the-deep.json](./169464-the-deep.json) |
 | The Deep | 274009 | [274009-the-deep.json](./274009-the-deep.json) |
 | The Deep | 79737 | [79737-the-deep.json](./79737-the-deep.json) |
+| The Deep Cave | 66257 | [66257-the-deep-cave.json](./66257-the-deep-cave.json) |
 | The Deep Creep | 335380 | [335380-the-deep-creep.json](./335380-the-deep-creep.json) |
 | The Deep Deep | 123073 | [123073-the-deep-deep.json](./123073-the-deep-deep.json) |
 | The Deep Diving of FloodDragon | 197132 | [197132-the-deep-diving-of-flooddragon.json](./197132-the-deep-diving-of-flooddragon.json) |
@@ -15199,6 +15202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Path into the Abyss | 305088 | [305088-the-path-into-the-abyss.json](./305088-the-path-into-the-abyss.json) |
 | The Path of Blades | 367484 | [367484-the-path-of-blades.json](./367484-the-path-of-blades.json) |
 | The Path of Calydra | 138527 | [138527-the-path-of-calydra.json](./138527-the-path-of-calydra.json) |
+| The Path of Go | 66225 | [66225-the-path-of-go.json](./66225-the-path-of-go.json) |
 | The Path of Greatest Resistance | 32372 | [32372-the-path-of-greatest-resistance.json](./32372-the-path-of-greatest-resistance.json) |
 | The Path of Hercules | 356230 | [356230-the-path-of-hercules.json](./356230-the-path-of-hercules.json) |
 | The Path of Kara | 64072 | [64072-the-path-of-kara.json](./64072-the-path-of-kara.json) |
@@ -19526,6 +19530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Windows Are Gone | 267093 | [267093-the-windows-are-gone.json](./267093-the-windows-are-gone.json) |
 | The Wine Hunt: Aim Fidelity | 257975 | [257975-the-wine-hunt-aim-fidelity.json](./257975-the-wine-hunt-aim-fidelity.json) |
 | The Wine Story | 203685 | [203685-the-wine-story.json](./203685-the-wine-story.json) |
+| The Wing of Madoola | 65699 | [65699-the-wing-of-madoola.json](./65699-the-wing-of-madoola.json) |
 | The Winning Secret of the Newbie Strategist Princess | 259171 | [259171-the-winning-secret-of-the-newbie-strategist-princess.json](./259171-the-winning-secret-of-the-newbie-strategist-princess.json) |
 | The Winter | 209684 | [209684-the-winter.json](./209684-the-winter.json) |
 | The Winter Games | 264346 | [264346-the-winter-games.json](./264346-the-winter-games.json) |
@@ -24330,6 +24335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Tied | 244843 | [244843-tiny-tied.json](./244843-tiny-tied.json) |
 | Tiny Tiles | 205195 | [205195-tiny-tiles.json](./205195-tiny-tiles.json) |
 | Tiny Tim | 312272 | [312272-tiny-tim.json](./312272-tiny-tim.json) |
+| Tiny Tim's Tremendous Tank | 66255 | [66255-tiny-tims-tremendous-tank.json](./66255-tiny-tims-tremendous-tank.json) |
 | Tiny Time Travellers | 122119 | [122119-tiny-time-travellers.json](./122119-tiny-time-travellers.json) |
 | Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure | 180298 | [180298-tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure.json](./180298-tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure.json) |
 | Tiny Tina's Wonderlands: Chaotic Great Edition | 169160 | [169160-tiny-tinas-wonderlands-chaotic-great-edition.json](./169160-tiny-tinas-wonderlands-chaotic-great-edition.json) |
@@ -25507,6 +25513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom and Jerry: The Magic Ring | 8030 | [8030-tom-and-jerry-the-magic-ring.json](./8030-tom-and-jerry-the-magic-ring.json) |
 | Tom and Jerry: The Movie | 217737 | [217737-tom-and-jerry-the-movie.json](./217737-tom-and-jerry-the-movie.json) |
 | Tom and Jerry: The Movie | 8043 | [8043-tom-and-jerry-the-movie.json](./8043-tom-and-jerry-the-movie.json) |
+| Tom and the Ghost | 66237 | [66237-tom-and-the-ghost.json](./66237-tom-and-the-ghost.json) |
 | Tom Clancy's 3 Pack | 228965 | [228965-tom-clancys-3-pack.json](./228965-tom-clancys-3-pack.json) |
 | Tom Clancy's Action Pack Limited Edition | 43283 | [43283-tom-clancys-action-pack-limited-edition.json](./43283-tom-clancys-action-pack-limited-edition.json) |
 | Tom Clancy's Elite Squad | 119355 | [119355-tom-clancys-elite-squad.json](./119355-tom-clancys-elite-squad.json) |
@@ -31805,6 +31812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trick Solitaire | 337265 | [337265-trick-solitaire.json](./337265-trick-solitaire.json) |
 | Trick the Ninjalinos | 359438 | [359438-trick-the-ninjalinos.json](./359438-trick-the-ninjalinos.json) |
 | Trick Trap | 46874 | [46874-trick-trap.json](./46874-trick-trap.json) |
+| Trick Trap 1771 | 66254 | [66254-trick-trap-1771.json](./66254-trick-trap-1771.json) |
 | Trick x Trick | 386689 | [386689-trick-x-trick.json](./386689-trick-x-trick.json) |
 | Trick-or-Treat Adventure! | 395951 | [395951-trick-or-treat-adventure.json](./395951-trick-or-treat-adventure.json) |
 | Trickalized | 409045 | [409045-trickalized.json](./409045-trickalized.json) |
