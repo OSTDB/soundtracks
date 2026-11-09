@@ -4077,6 +4077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nichibutsu Mahjong: Joshikou Meijinsen | 98201 | [98201-nichibutsu-mahjong-joshikou-meijinsen.json](./98201-nichibutsu-mahjong-joshikou-meijinsen.json) |
 | Nichibutsu Mahjong: Yoshimoto Gekijou-hen | 98200 | [98200-nichibutsu-mahjong-yoshimoto-gekijou-hen.json](./98200-nichibutsu-mahjong-yoshimoto-gekijou-hen.json) |
 | Nichijou: Uchuujin | 63077 | [63077-nichijou-uchuujin.json](./63077-nichijou-uchuujin.json) |
+| Nichiyoubi ni Uchuujin ga…? | 77544 | [77544-nichiyoubi-ni-uchuujin-ga.json](./77544-nichiyoubi-ni-uchuujin-ga.json) |
 | Nicholas' Weird Adventure | 387941 | [387941-nicholas-weird-adventure.json](./387941-nicholas-weird-adventure.json) |
 | Nick | 29921 | [29921-nick.json](./29921-nick.json) |
 | Nick Bounty: A Case of the Crabs | 219150 | [219150-nick-bounty-a-case-of-the-crabs.json](./219150-nick-bounty-a-case-of-the-crabs.json) |
@@ -4956,6 +4957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nikhoj | 183166 | [183166-nikhoj.json](./183166-nikhoj.json) |
 | Niki in the Ship | 172916 | [172916-niki-in-the-ship.json](./172916-niki-in-the-ship.json) |
 | Nikita: Speedy Pirates | 253732 | [253732-nikita-speedy-pirates.json](./253732-nikita-speedy-pirates.json) |
+| Nikita: The Mystery of the Hidden Treasure | 77552 | [77552-nikita-the-mystery-of-the-hidden-treasure.json](./77552-nikita-the-mystery-of-the-hidden-treasure.json) |
 | Nikka: Rise | 235486 | [235486-nikka-rise.json](./235486-nikka-rise.json) |
 | Nikkan Berutomo Club | 64904 | [64904-nikkan-berutomo-club.json](./64904-nikkan-berutomo-club.json) |
 | Nikkan Sports Pro Yakyuu VAN | 47062 | [47062-nikkan-sports-pro-yakyuu-van.json](./47062-nikkan-sports-pro-yakyuu-van.json) |
