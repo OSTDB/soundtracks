@@ -10069,6 +10069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angelo and Deemon: One Hell of a Quest | 117084 | [117084-angelo-and-deemon-one-hell-of-a-quest.json](./117084-angelo-and-deemon-one-hell-of-a-quest.json) |
 | Angelo Skate Away | 82331 | [82331-angelo-skate-away.json](./82331-angelo-skate-away.json) |
 | Angels | 246124 | [246124-angels.json](./246124-angels.json) |
+| Angels & Demigods | 32023 | [32023-angels-and-demigods.json](./32023-angels-and-demigods.json) |
 | Angels & Demons | 262767 | [262767-angels-and-demons.json](./262767-angels-and-demons.json) |
 | Angels Blue Collection | 52579 | [52579-angels-blue-collection.json](./52579-angels-blue-collection.json) |
 | Angels Cove | 172879 | [172879-angels-cove.json](./172879-angels-cove.json) |
@@ -17822,6 +17823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ATV Quad Power Racing | 4142 | [4142-atv-quad-power-racing.json](./4142-atv-quad-power-racing.json) |
 | ATV Quad Power Racing 2 | 3790 | [3790-atv-quad-power-racing-2.json](./3790-atv-quad-power-racing-2.json) |
 | ATV Quad Power Racing 2 | 4173 | [4173-atv-quad-power-racing-2.json](./4173-atv-quad-power-racing-2.json) |
+| ATV Quadracer Ultimate | 32039 | [32039-atv-quadracer-ultimate.json](./32039-atv-quadracer-ultimate.json) |
 | ATV Quadracer Vol.2 | 100250 | [100250-atv-quadracer-vol-2.json](./100250-atv-quadracer-vol-2.json) |
 | ATV Quads Bike Stunt Racing 3D | 296774 | [296774-atv-quads-bike-stunt-racing-3d.json](./296774-atv-quads-bike-stunt-racing-3d.json) |
 | ATV Racers | 62261 | [62261-atv-racers.json](./62261-atv-racers.json) |
@@ -18429,6 +18431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalon Remake | 331759 | [331759-avalon-remake.json](./331759-avalon-remake.json) |
 | Avalon: Sacred Crusade | 153868 | [153868-avalon-sacred-crusade.json](./153868-avalon-sacred-crusade.json) |
 | Avalon: The Druids | 274229 | [274229-avalon-the-druids.json](./274229-avalon-the-druids.json) |
+| Avalon: The Journey Begins | 32008 | [32008-avalon-the-journey-begins.json](./32008-avalon-the-journey-begins.json) |
 | Avalon: The Legend Lives | 60350 | [60350-avalon-the-legend-lives.json](./60350-avalon-the-legend-lives.json) |
 | Avalone's Adventurers: My Parents were Assassinated so I've Started an Adventuring Party to Avoid a Political Marriage | 346202 | [346202-avalones-adventurers-my-parents-were-assassinated-so-ive-started-an-adventuring-party-to-avoid-a-political-marriage.json](./346202-avalones-adventurers-my-parents-were-assassinated-so-ive-started-an-adventuring-party-to-avoid-a-political-marriage.json) |
 | Avani | 223495 | [223495-avani.json](./223495-avani.json) |
