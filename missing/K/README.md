@@ -1744,6 +1744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kellogg's Marvel's Civil War VR | 322365 | [322365-kelloggs-marvels-civil-war-vr.json](./322365-kelloggs-marvels-civil-war-vr.json) |
 | Kellogg's The Amazing Spider-Man 2 | 322362 | [322362-kelloggs-the-amazing-spider-man-2.json](./322362-kelloggs-the-amazing-spider-man-2.json) |
 | Kells | 156604 | [156604-kells.json](./156604-kells.json) |
+| Kelly Club: Clubhouse Fun | 50013 | [50013-kelly-club-clubhouse-fun.json](./50013-kelly-club-clubhouse-fun.json) |
 | Kelly Club: Pet Parade | 209843 | [209843-kelly-club-pet-parade.json](./209843-kelly-club-pet-parade.json) |
 | Kelly Green: Garden Queen | 54156 | [54156-kelly-green-garden-queen.json](./54156-kelly-green-garden-queen.json) |
 | Kelly Kangaroo | 292072 | [292072-kelly-kangaroo.json](./292072-kelly-kangaroo.json) |
@@ -4085,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiss Trilogy: Premium Edition | 136826 | [136826-kiss-trilogy-premium-edition.json](./136826-kiss-trilogy-premium-edition.json) |
 | KISS U | 194891 | [194891-kiss-u.json](./194891-kiss-u.json) |
 | Kiss Upload | 156839 | [156839-kiss-upload.json](./156839-kiss-upload.json) |
+| Kiss x Kiss: Seirei Gakuen | 49640 | [49640-kiss-x-kiss-seirei-gakuen.json](./49640-kiss-x-kiss-seirei-gakuen.json) |
 | Kiss Yori... | 73766 | [73766-kiss-yori.json](./73766-kiss-yori.json) |
 | Kiss Yori... Seaside Serenade | 37498 | [37498-kiss-yori-seaside-serenade.json](./37498-kiss-yori-seaside-serenade.json) |
 | Kiss-iro | 113251 | [113251-kiss-iro.json](./113251-kiss-iro.json) |
@@ -4484,6 +4486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klonoa 2: Lunatea's Veil | 272023 | [272023-klonoa-2-lunateas-veil.json](./272023-klonoa-2-lunateas-veil.json) |
 | Klonoa 2: Lunatea's Veil | 9709 | [9709-klonoa-2-lunateas-veil.json](./9709-klonoa-2-lunateas-veil.json) |
 | Klonoa FanRPG | 331717 | [331717-klonoa-fanrpg.json](./331717-klonoa-fanrpg.json) |
+| Klonoa Heroes: Densetsu no Star Medal | 49638 | [49638-klonoa-heroes-densetsu-no-star-medal.json](./49638-klonoa-heroes-densetsu-no-star-medal.json) |
 | Klonoa Phantasy Reverie Series | 191405 | [191405-klonoa-phantasy-reverie-series.json](./191405-klonoa-phantasy-reverie-series.json) |
 | Klonoa Phantasy Reverie Series: Digital Deluxe Edition | 218506 | [218506-klonoa-phantasy-reverie-series-digital-deluxe-edition.json](./218506-klonoa-phantasy-reverie-series-digital-deluxe-edition.json) |
 | Klonoa Phantasy Reverie Series: Special Edition | 201032 | [201032-klonoa-phantasy-reverie-series-special-edition.json](./201032-klonoa-phantasy-reverie-series-special-edition.json) |
@@ -5237,6 +5240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koinori | 415117 | [415117-koinori.json](./415117-koinori.json) |
 | Koinu de Kururin | 412988 | [412988-koinu-de-kururin.json](./412988-koinu-de-kururin.json) |
 | Koinu to Issho! 2 | 49684 | [49684-koinu-to-issho-2.json](./49684-koinu-to-issho-2.json) |
+| Koinu to Issho! Aijou Monogatari | 49637 | [49637-koinu-to-issho-aijou-monogatari.json](./49637-koinu-to-issho-aijou-monogatari.json) |
 | Koioto Se Piace | 386255 | [386255-koioto-se-piace.json](./386255-koioto-se-piace.json) |
 | Koira | 305033 | [305033-koira.json](./305033-koira.json) |
 | Koishi Adventure | 296241 | [296241-koishi-adventure.json](./296241-koishi-adventure.json) |
