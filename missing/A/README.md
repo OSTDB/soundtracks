@@ -4923,6 +4923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Heroes II: Underground Horror | 320973 | [320973-age-of-heroes-ii-underground-horror.json](./320973-age-of-heroes-ii-underground-horror.json) |
 | Age of Heroes VR | 51381 | [51381-age-of-heroes-vr.json](./51381-age-of-heroes-vr.json) |
 | Age Of Heroes: Army Of Darkness | 320970 | [320970-age-of-heroes-army-of-darkness.json](./320970-age-of-heroes-army-of-darkness.json) |
+| Age of Heroes: Conquest | 29346 | [29346-age-of-heroes-conquest.json](./29346-age-of-heroes-conquest.json) |
 | Age of Heroes: Silkroad 2 | 41110 | [41110-age-of-heroes-silkroad-2.json](./41110-age-of-heroes-silkroad-2.json) |
 | Age of Heroes: The Beginning | 187985 | [187985-age-of-heroes-the-beginning.json](./187985-age-of-heroes-the-beginning.json) |
 | Age of History II | 188228 | [188228-age-of-history-ii.json](./188228-age-of-history-ii.json) |
@@ -17384,7 +17385,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -17537,6 +17537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Punk | 18937 | [18937-atomic-punk.json](./18937-atomic-punk.json) |
 | Atomic Punk | 7760 | [7760-atomic-punk.json](./7760-atomic-punk.json) |
 | Atomic Pursuit | 234069 | [234069-atomic-pursuit.json](./234069-atomic-pursuit.json) |
+| Atomic Reconstruction | 30022 | [30022-atomic-reconstruction.json](./30022-atomic-reconstruction.json) |
 | Atomic Robo-Kid | 11921 | [11921-atomic-robo-kid.json](./11921-atomic-robo-kid.json) |
 | Atomic Robo-Kid Special | 42090 | [42090-atomic-robo-kid-special.json](./42090-atomic-robo-kid-special.json) |
 | Atomic Rock Paper Scissors | 180830 | [180830-atomic-rock-paper-scissors.json](./180830-atomic-rock-paper-scissors.json) |
