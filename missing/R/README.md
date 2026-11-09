@@ -7024,6 +7024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhell: Warped Worlds & Troubled Times | 360462 | [360462-rhell-warped-worlds-and-troubled-times.json](./360462-rhell-warped-worlds-and-troubled-times.json) |
 | Rhem | 22758 | [22758-rhem.json](./22758-rhem.json) |
 | Rhem 2: The Cave | 69248 | [69248-rhem-2-the-cave.json](./69248-rhem-2-the-cave.json) |
+| Rhem 3: The Secret Library | 68869 | [68869-rhem-3-the-secret-library.json](./68869-rhem-3-the-secret-library.json) |
 | Rhem I SE: The Mysterious Land | 50510 | [50510-rhem-i-se-the-mysterious-land.json](./50510-rhem-i-se-the-mysterious-land.json) |
 | Rhem II SE: The Cave | 112131 | [112131-rhem-ii-se-the-cave.json](./112131-rhem-ii-se-the-cave.json) |
 | Rhem IV SE: The Golden Fragments | 91320 | [91320-rhem-iv-se-the-golden-fragments.json](./91320-rhem-iv-se-the-golden-fragments.json) |
@@ -12092,6 +12093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RTL Freestyle Skiing | 175310 | [175310-rtl-freestyle-skiing.json](./175310-rtl-freestyle-skiing.json) |
 | RTL Ski Alpin 2006 | 69865 | [69865-rtl-ski-alpin-2006.json](./69865-rtl-ski-alpin-2006.json) |
 | RTL Ski Jumping 2006 | 80865 | [80865-rtl-ski-jumping-2006.json](./80865-rtl-ski-jumping-2006.json) |
+| RTL Skispringen 2002 | 68865 | [68865-rtl-skispringen-2002.json](./68865-rtl-skispringen-2002.json) |
 | RTL Skispringen 2003 | 94245 | [94245-rtl-skispringen-2003.json](./94245-rtl-skispringen-2003.json) |
 | RTL Skispringen Herausforderung 2001 | 69015 | [69015-rtl-skispringen-herausforderung-2001.json](./69015-rtl-skispringen-herausforderung-2001.json) |
 | RTL Winter Games 2007 | 152301 | [152301-rtl-winter-games-2007.json](./152301-rtl-winter-games-2007.json) |
