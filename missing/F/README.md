@@ -2458,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farland Saga I & II: Saturn Tribute | 360013 | [360013-farland-saga-i-and-ii-saturn-tribute.json](./360013-farland-saga-i-and-ii-saturn-tribute.json) |
 | Farland Saga I Saturn Tribute | 333276 | [333276-farland-saga-i-saturn-tribute.json](./333276-farland-saga-i-saturn-tribute.json) |
 | Farland Saga II Saturn Tribute | 333280 | [333280-farland-saga-ii-saturn-tribute.json](./333280-farland-saga-ii-saturn-tribute.json) |
+| Farland Saga: Toki no Michishirube | 73948 | [73948-farland-saga-toki-no-michishirube.json](./73948-farland-saga-toki-no-michishirube.json) |
 | Farland Story | 420580 | [420580-farland-story.json](./420580-farland-story.json) |
 | Farland Story | 44447 | [44447-farland-story.json](./44447-farland-story.json) |
 | Farland Story 2 | 42395 | [42395-farland-story-2.json](./42395-farland-story-2.json) |
@@ -5449,6 +5450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Stepasy | 395463 | [395463-final-stepasy.json](./395463-final-stepasy.json) |
 | Final Storm | 74661 | [74661-final-storm.json](./74661-final-storm.json) |
 | Final Strategy | 390997 | [390997-final-strategy.json](./390997-final-strategy.json) |
+| Final Stretch: Horse Racing Sim | 73972 | [73972-final-stretch-horse-racing-sim.json](./73972-final-stretch-horse-racing-sim.json) |
 | Final Sword | 135636 | [135636-final-sword.json](./135636-final-sword.json) |
 | Final Sword: Definitive Edition | 147999 | [147999-final-sword-definitive-edition.json](./147999-final-sword-definitive-edition.json) |
 | Final Sword: Mobile Edition | 205824 | [205824-final-sword-mobile-edition.json](./205824-final-sword-mobile-edition.json) |
@@ -8609,6 +8611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flowers of Crystal | 12105 | [12105-flowers-of-crystal.json](./12105-flowers-of-crystal.json) |
 | Flowers of Satsunai | 226149 | [226149-flowers-of-satsunai.json](./226149-flowers-of-satsunai.json) |
 | Flowers of Starlight | 264345 | [264345-flowers-of-starlight.json](./264345-flowers-of-starlight.json) |
+| Flowers Story: Fairy Quest | 73968 | [73968-flowers-story-fairy-quest.json](./73968-flowers-story-fairy-quest.json) |
 | Flowers: Kokoro no Hana | 308249 | [308249-flowers-kokoro-no-hana.json](./308249-flowers-kokoro-no-hana.json) |
 | Flowers: Le Volume sur Automne | 83393 | [83393-flowers-le-volume-sur-automne.json](./83393-flowers-le-volume-sur-automne.json) |
 | Flowers: Le Volume sur Été | 83394 | [83394-flowers-le-volume-sur-ete.json](./83394-flowers-le-volume-sur-ete.json) |
@@ -10176,6 +10179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forgotten 13 | 282838 | [282838-forgotten-13.json](./282838-forgotten-13.json) |
 | Forgotten 23 | 304661 | [304661-forgotten-23.json](./304661-forgotten-23.json) |
 | Forgotten Adventure | 101388 | [101388-forgotten-adventure.json](./101388-forgotten-adventure.json) |
+| Forgotten Artifacts | 73927 | [73927-forgotten-artifacts.json](./73927-forgotten-artifacts.json) |
 | Forgotten at Fredbear's | 385937 | [385937-forgotten-at-fredbears.json](./385937-forgotten-at-fredbears.json) |
 | Forgotten Ball | 33725 | [33725-forgotten-ball.json](./33725-forgotten-ball.json) |
 | Forgotten Beginnings: A New Afterlife | 359162 | [359162-forgotten-beginnings-a-new-afterlife.json](./359162-forgotten-beginnings-a-new-afterlife.json) |
