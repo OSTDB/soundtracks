@@ -93,6 +93,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EA Sports | 220088 | [220088-ea-sports.json](./220088-ea-sports.json) |
 | EA Sports Active 2 | 4827 | [4827-ea-sports-active-2.json](./4827-ea-sports-active-2.json) |
 | EA Sports Active 2.0 | 47422 | [47422-ea-sports-active-2-0.json](./47422-ea-sports-active-2-0.json) |
+| EA Sports Active More Workouts | 22981 | [22981-ea-sports-active-more-workouts.json](./22981-ea-sports-active-more-workouts.json) |
 | EA Sports Active NFL Training Camp | 4828 | [4828-ea-sports-active-nfl-training-camp.json](./4828-ea-sports-active-nfl-training-camp.json) |
 | EA Sports College Football 25 | 172021 | [172021-ea-sports-college-football-25.json](./172021-ea-sports-college-football-25.json) |
 | EA Sports College Football 26 | 329146 | [329146-ea-sports-college-football-26.json](./329146-ea-sports-college-football-26.json) |
@@ -595,6 +596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Gems Free: Amazing Match 3 Puzzle | 89177 | [89177-easy-gems-free-amazing-match-3-puzzle.json](./89177-easy-gems-free-amazing-match-3-puzzle.json) |
 | Easy Godding | 274669 | [274669-easy-godding.json](./274669-easy-godding.json) |
 | Easy Golf | 70617 | [70617-easy-golf.json](./70617-easy-golf.json) |
+| Easy Golf: Course Architect | 23020 | [23020-easy-golf-course-architect.json](./23020-easy-golf-course-architect.json) |
 | Easy hentai puzzle | 120978 | [120978-easy-hentai-puzzle.json](./120978-easy-hentai-puzzle.json) |
 | Easy Japanese Hiragana | 367749 | [367749-easy-japanese-hiragana.json](./367749-easy-japanese-hiragana.json) |
 | Easy Japanesey | 269375 | [269375-easy-japanesey.json](./269375-easy-japanesey.json) |
@@ -1023,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoria: Ancient Echoes | 125115 | [125115-echoria-ancient-echoes.json](./125115-echoria-ancient-echoes.json) |
 | Echos in the Dark | 266621 | [266621-echos-in-the-dark.json](./266621-echos-in-the-dark.json) |
 | EchoShell | 382434 | [382434-echoshell.json](./382434-echoshell.json) |
+| Echoshift | 22976 | [22976-echoshift.json](./22976-echoshift.json) |
 | Echoshift | 251227 | [251227-echoshift.json](./251227-echoshift.json) |
 | Echostasis | 155512 | [155512-echostasis.json](./155512-echostasis.json) |
 | Echovale | 289266 | [289266-echovale.json](./289266-echovale.json) |
