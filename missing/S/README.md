@@ -20423,6 +20423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Harrier II | 398284 | [398284-space-harrier-ii.json](./398284-space-harrier-ii.json) |
 | Space Harrier II | 4498 | [4498-space-harrier-ii.json](./4498-space-harrier-ii.json) |
 | Space Harvest II | 97916 | [97916-space-harvest-ii.json](./97916-space-harvest-ii.json) |
+| Space Haste | 14734 | [14734-space-haste.json](./14734-space-haste.json) |
 | Space Haste 2 | 72536 | [72536-space-haste-2.json](./72536-space-haste-2.json) |
 | Space Hat | 290685 | [290685-space-hat.json](./290685-space-hat.json) |
 | Space Haters | 157819 | [157819-space-haters.json](./157819-space-haters.json) |
@@ -33500,6 +33501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario.exe Reborn | 323877 | [323877-super-mario-exe-reborn.json](./323877-super-mario-exe-reborn.json) |
 | Super Mario's Jammin' Journey 64 | 135163 | [135163-super-marios-jammin-journey-64.json](./135163-super-marios-jammin-journey-64.json) |
 | Super Mario's Shroom Shines Escapade | 323585 | [323585-super-marios-shroom-shines-escapade.json](./323585-super-marios-shroom-shines-escapade.json) |
+| Super Mario's Wacky Worlds | 14738 | [14738-super-marios-wacky-worlds.json](./14738-super-marios-wacky-worlds.json) |
 | Super Mariofell 64 | 397048 | [397048-super-mariofell-64.json](./397048-super-mariofell-64.json) |
 | Super Mariomon | 338407 | [338407-super-mariomon.json](./338407-super-mariomon.json) |
 | Super Marisa Land | 77632 | [77632-super-marisa-land.json](./77632-super-marisa-land.json) |
