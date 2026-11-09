@@ -1161,6 +1161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Route: Map Pack | 376799 | [376799-rail-route-map-pack.json](./376799-rail-route-map-pack.json) |
 | Rail Route: Supporter Bundle | 336134 | [336134-rail-route-supporter-bundle.json](./336134-rail-route-supporter-bundle.json) |
 | Rail Route: The Story of Jozic | 199127 | [199127-rail-route-the-story-of-jozic.json](./199127-rail-route-the-story-of-jozic.json) |
+| Rail Rush | 57771 | [57771-rail-rush.json](./57771-rail-rush.json) |
 | Rail Simulator | 10740 | [10740-rail-simulator.json](./10740-rail-simulator.json) |
 | Rail Theory | 28773 | [28773-rail-theory.json](./28773-rail-theory.json) |
 | Rail Trail | 199173 | [199173-rail-trail.json](./199173-rail-trail.json) |
@@ -4304,6 +4305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redemption Cemetery: Bitter Frost - Collector's Edition | 30858 | [30858-redemption-cemetery-bitter-frost-collectors-edition.json](./30858-redemption-cemetery-bitter-frost-collectors-edition.json) |
 | Redemption Cemetery: Children's Plight | 61079 | [61079-redemption-cemetery-childrens-plight.json](./61079-redemption-cemetery-childrens-plight.json) |
 | Redemption Cemetery: Children's Plight - Collector's Edition | 114584 | [114584-redemption-cemetery-childrens-plight-collectors-edition.json](./114584-redemption-cemetery-childrens-plight-collectors-edition.json) |
+| Redemption Cemetery: Clock of Fate | 57786 | [57786-redemption-cemetery-clock-of-fate.json](./57786-redemption-cemetery-clock-of-fate.json) |
 | Redemption Cemetery: Clock of Fate - Collector's Edition | 83553 | [83553-redemption-cemetery-clock-of-fate-collectors-edition.json](./83553-redemption-cemetery-clock-of-fate-collectors-edition.json) |
 | Redemption Cemetery: Curse of the Raven | 63089 | [63089-redemption-cemetery-curse-of-the-raven.json](./63089-redemption-cemetery-curse-of-the-raven.json) |
 | Redemption Cemetery: Dead Park | 187929 | [187929-redemption-cemetery-dead-park.json](./187929-redemption-cemetery-dead-park.json) |
@@ -12966,6 +12968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runeverse: Sea Brawls | 165429 | [165429-runeverse-sea-brawls.json](./165429-runeverse-sea-brawls.json) |
 | Runewaker | 186803 | [186803-runewaker.json](./186803-runewaker.json) |
 | Runeward Online | 404033 | [404033-runeward-online.json](./404033-runeward-online.json) |
+| Runewards | 57315 | [57315-runewards.json](./57315-runewards.json) |
 | Runewatch: Age of Arcanum | 208464 | [208464-runewatch-age-of-arcanum.json](./208464-runewatch-age-of-arcanum.json) |
 | Runewood: Hundred Nights | 377016 | [377016-runewood-hundred-nights.json](./377016-runewood-hundred-nights.json) |
 | Runeyana | 32935 | [32935-runeyana.json](./32935-runeyana.json) |
