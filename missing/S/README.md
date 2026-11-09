@@ -728,6 +728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saint Paul | 114567 | [114567-saint-paul.json](./114567-saint-paul.json) |
 | Saint Seiya Awakening: Knights of the Zodiac | 129144 | [129144-saint-seiya-awakening-knights-of-the-zodiac.json](./129144-saint-seiya-awakening-knights-of-the-zodiac.json) |
 | Saint Seiya EX | 377810 | [377810-saint-seiya-ex.json](./377810-saint-seiya-ex.json) |
+| Saint Seiya Omega: Ultimate Cosmo | 38450 | [38450-saint-seiya-omega-ultimate-cosmo.json](./38450-saint-seiya-omega-ultimate-cosmo.json) |
 | Saint Seiya Paradise: Saikyou no Senshi-tachi | 60380 | [60380-saint-seiya-paradise-saikyou-no-senshi-tachi.json](./60380-saint-seiya-paradise-saikyou-no-senshi-tachi.json) |
 | Saint Seiya RPG: Asgard Chapter | 279231 | [279231-saint-seiya-rpg-asgard-chapter.json](./279231-saint-seiya-rpg-asgard-chapter.json) |
 | Saint Seiya Shining Soldiers | 129130 | [129130-saint-seiya-shining-soldiers.json](./129130-saint-seiya-shining-soldiers.json) |
@@ -18969,6 +18970,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sora no Hiraketa Basho: Chord:OOC | 413830 | [413830-sora-no-hiraketa-basho-chord-ooc.json](./413830-sora-no-hiraketa-basho-chord-ooc.json) |
 | Sora no Iro, Mizu no Iro | 72718 | [72718-sora-no-iro-mizu-no-iro.json](./72718-sora-no-iro-mizu-no-iro.json) |
 | Sora no Otoshimono Forte: Dreamy Season | 62623 | [62623-sora-no-otoshimono-forte-dreamy-season.json](./62623-sora-no-otoshimono-forte-dreamy-season.json) |
+| Sora no Otoshimono: Doki-doki Summer Vacation | 38457 | [38457-sora-no-otoshimono-doki-doki-summer-vacation.json](./38457-sora-no-otoshimono-doki-doki-summer-vacation.json) |
 | Sora no Tsukurikata: Under the Same Sky, Over the Rainbow | 237763 | [237763-sora-no-tsukurikata-under-the-same-sky-over-the-rainbow.json](./237763-sora-no-tsukurikata-under-the-same-sky-over-the-rainbow.json) |
 | Sora o Aogite Kumo Takaku | 62733 | [62733-sora-o-aogite-kumo-takaku.json](./62733-sora-o-aogite-kumo-takaku.json) |
 | Sora to Kimi Iro | 275152 | [275152-sora-to-kimi-iro.json](./275152-sora-to-kimi-iro.json) |
@@ -22161,6 +22163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spellcheck | 298392 | [298392-spellcheck.json](./298392-spellcheck.json) |
 | Spellcorked! | 151980 | [151980-spellcorked.json](./151980-spellcorked.json) |
 | Spellcraft | 209279 | [209279-spellcraft.json](./209279-spellcraft.json) |
+| Spellcraft: Aspects of Valor | 38438 | [38438-spellcraft-aspects-of-valor.json](./38438-spellcraft-aspects-of-valor.json) |
 | Spellcrafter | 17690 | [17690-spellcrafter.json](./17690-spellcrafter.json) |
 | Spellcrafter: The Path of Magic | 200298 | [200298-spellcrafter-the-path-of-magic.json](./200298-spellcrafter-the-path-of-magic.json) |
 | Spellcross: The Last Battle | 93405 | [93405-spellcross-the-last-battle.json](./93405-spellcross-the-last-battle.json) |
@@ -23675,6 +23678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sports Girl: Village | 319890 | [319890-sports-girl-village.json](./319890-sports-girl-village.json) |
 | Sports Hero | 142411 | [142411-sports-hero.json](./142411-sports-hero.json) |
 | Sports Hero | 311265 | [311265-sports-hero.json](./311265-sports-hero.json) |
+| Sports Illustrated Championship Football & Baseball | 38437 | [38437-sports-illustrated-championship-football-and-baseball.json](./38437-sports-illustrated-championship-football-and-baseball.json) |
 | Sports Illustrated for Kids: Baseball | 49290 | [49290-sports-illustrated-for-kids-baseball.json](./49290-sports-illustrated-for-kids-baseball.json) |
 | Sports Illustrated for Kids: Football | 49220 | [49220-sports-illustrated-for-kids-football.json](./49220-sports-illustrated-for-kids-football.json) |
 | Sports Illustrated for Kids: The Ultimate Triple Dare | 49012 | [49012-sports-illustrated-for-kids-the-ultimate-triple-dare.json](./49012-sports-illustrated-for-kids-the-ultimate-triple-dare.json) |
@@ -25977,6 +25981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardust Rain | 274965 | [274965-stardust-rain.json](./274965-stardust-rain.json) |
 | Stardust Sandbox | 393604 | [393604-stardust-sandbox.json](./393604-stardust-sandbox.json) |
 | Stardust Skate | 334846 | [334846-stardust-skate.json](./334846-stardust-skate.json) |
+| Stardust Suplex | 38436 | [38436-stardust-suplex.json](./38436-stardust-suplex.json) |
 | Stardust the Unicorn | 316540 | [316540-stardust-the-unicorn.json](./316540-stardust-the-unicorn.json) |
 | Stardust Valkyries | 215712 | [215712-stardust-valkyries.json](./215712-stardust-valkyries.json) |
 | Stardust VR | 109429 | [109429-stardust-vr.json](./109429-stardust-vr.json) |
@@ -27248,6 +27253,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Sword Story S | 151560 | [151560-steel-sword-story-s.json](./151560-steel-sword-story-s.json) |
 | Steel Symphony | 295231 | [295231-steel-symphony.json](./295231-steel-symphony.json) |
 | Steel Talons | 126454 | [126454-steel-talons.json](./126454-steel-talons.json) |
+| Steel Talons | 38435 | [38435-steel-talons.json](./38435-steel-talons.json) |
 | Steel Team: Academy | 148933 | [148933-steel-team-academy.json](./148933-steel-team-academy.json) |
 | Steel Thunder | 244476 | [244476-steel-thunder.json](./244476-steel-thunder.json) |
 | Steel Thunder | 65568 | [65568-steel-thunder.json](./65568-steel-thunder.json) |
@@ -27605,6 +27611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stereophyta | 185004 | [185004-stereophyta.json](./185004-stereophyta.json) |
 | Stereoronpa | 389664 | [389664-stereoronpa.json](./389664-stereoronpa.json) |
 | Sterile | 354590 | [354590-sterile.json](./354590-sterile.json) |
+| Sterling Sharpe: End 2 End | 38434 | [38434-sterling-sharpe-end-2-end.json](./38434-sterling-sharpe-end-2-end.json) |
 | Sterling Shroud | 327635 | [327635-sterling-shroud.json](./327635-sterling-shroud.json) |
 | Stern | 159526 | [159526-stern.json](./159526-stern.json) |
 | Stern Pinball Arcade | 30288 | [30288-stern-pinball-arcade.json](./30288-stern-pinball-arcade.json) |
@@ -28161,6 +28168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stone Mirth on Earth | 197159 | [197159-stone-mirth-on-earth.json](./197159-stone-mirth-on-earth.json) |
 | Stone of Adventure | 421827 | [421827-stone-of-adventure.json](./421827-stone-of-adventure.json) |
 | Stone of Destiny | 242796 | [242796-stone-of-destiny.json](./242796-stone-of-destiny.json) |
+| Stone Protectors | 38433 | [38433-stone-protectors.json](./38433-stone-protectors.json) |
 | Stone Rage | 74256 | [74256-stone-rage.json](./74256-stone-rage.json) |
 | Stone River | 167602 | [167602-stone-river.json](./167602-stone-river.json) |
 | Stone Shire | 85535 | [85535-stone-shire.json](./85535-stone-shire.json) |
@@ -29060,6 +29068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Cleaner 3 | 305382 | [305382-street-cleaner-3.json](./305382-street-cleaner-3.json) |
 | Street Cleaner: The Video Game | 132377 | [132377-street-cleaner-the-video-game.json](./132377-street-cleaner-the-video-game.json) |
 | Street Cleaning Simulator | 65867 | [65867-street-cleaning-simulator.json](./65867-street-cleaning-simulator.json) |
+| Street Combat | 38432 | [38432-street-combat.json](./38432-street-combat.json) |
 | Street Combat Fighting | 386541 | [386541-street-combat-fighting.json](./386541-street-combat-fighting.json) |
 | Street Combat: Ultimate MMA Fighters | 364814 | [364814-street-combat-ultimate-mma-fighters.json](./364814-street-combat-ultimate-mma-fighters.json) |
 | Street Cop | 48236 | [48236-street-cop.json](./48236-street-cop.json) |
@@ -29308,6 +29317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Hero | 46300 | [46300-street-hero.json](./46300-street-hero.json) |
 | Street Heroes | 107814 | [107814-street-heroes.json](./107814-street-heroes.json) |
 | Street Heroes | 48567 | [48567-street-heroes.json](./48567-street-heroes.json) |
+| Street Hockey '95 | 38431 | [38431-street-hockey-95.json](./38431-street-hockey-95.json) |
 | Street Hoop | 46820 | [46820-street-hoop.json](./46820-street-hoop.json) |
 | Street Hoop: Basketball Playoffs 2018 | 103108 | [103108-street-hoop-basketball-playoffs-2018.json](./103108-street-hoop-basketball-playoffs-2018.json) |
 | Street Hoops | 242807 | [242807-street-hoops.json](./242807-street-hoops.json) |
@@ -29384,6 +29394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Sports Football | 55153 | [55153-street-sports-football.json](./55153-street-sports-football.json) |
 | Street Sports Soccer | 55152 | [55152-street-sports-soccer.json](./55152-street-sports-soccer.json) |
 | Street Striker | 152681 | [152681-street-striker.json](./152681-street-striker.json) |
+| Street Supremacy | 38456 | [38456-street-supremacy.json](./38456-street-supremacy.json) |
 | Street Surfer | 36676 | [36676-street-surfer.json](./36676-street-surfer.json) |
 | Street Survival: Homeless Simulator | 315923 | [315923-street-survival-homeless-simulator.json](./315923-street-survival-homeless-simulator.json) |
 | Street Sweeper | 129643 | [129643-street-sweeper.json](./129643-street-sweeper.json) |
@@ -29594,6 +29605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Witches 2: Iyasu, Naosu, Puni-Puni suru | 124062 | [124062-strike-witches-2-iyasu-naosu-puni-puni-suru.json](./124062-strike-witches-2-iyasu-naosu-puni-puni-suru.json) |
 | Strike Witches: Doki! Otome Darake no Jouriku Sakusen | 69278 | [69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json](./69278-strike-witches-doki-otome-darake-no-jouriku-sakusen.json) |
 | Strike Witches: Hakugin no Tsubasa | 145399 | [145399-strike-witches-hakugin-no-tsubasa.json](./145399-strike-witches-hakugin-no-tsubasa.json) |
+| Strike Witches: Hakugin no Tsubasa | 38449 | [38449-strike-witches-hakugin-no-tsubasa.json](./38449-strike-witches-hakugin-no-tsubasa.json) |
 | Strike Witches: Soukuu no Dengekisen - Shin Taichou Funtousuru! | 124061 | [124061-strike-witches-soukuu-no-dengekisen-shin-taichou-funtousuru.json](./124061-strike-witches-soukuu-no-dengekisen-shin-taichou-funtousuru.json) |
 | Strike World | 407294 | [407294-strike-world.json](./407294-strike-world.json) |
 | Strike Zone Baseball | 40432 | [40432-strike-zone-baseball.json](./40432-strike-zone-baseball.json) |
@@ -31704,11 +31716,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Baseball League | 191601 | [191601-super-baseball-league.json](./191601-super-baseball-league.json) |
 | Super Baseball Simulator 1.000 | 42601 | [42601-super-baseball-simulator-1-000.json](./42601-super-baseball-simulator-1-000.json) |
 | Super Bases Loaded | 42430 | [42430-super-bases-loaded.json](./42430-super-bases-loaded.json) |
+| Super Bases Loaded 2 | 38429 | [38429-super-bases-loaded-2.json](./38429-super-bases-loaded-2.json) |
+| Super Bases Loaded 3: License to Steal | 38428 | [38428-super-bases-loaded-3-license-to-steal.json](./38428-super-bases-loaded-3-license-to-steal.json) |
 | Super Basketball | 39389 | [39389-super-basketball.json](./39389-super-basketball.json) |
 | Super Basketball AR | 107005 | [107005-super-basketball-ar.json](./107005-super-basketball-ar.json) |
 | Super Basketball Classics | 394311 | [394311-super-basketball-classics.json](./394311-super-basketball-classics.json) |
 | Super Bass Fishing | 380802 | [380802-super-bass-fishing.json](./380802-super-bass-fishing.json) |
 | Super Bat Puncher | 48369 | [48369-super-bat-puncher.json](./48369-super-bat-puncher.json) |
+| Super Batter Up | 38427 | [38427-super-batter-up.json](./38427-super-batter-up.json) |
 | Super Battle Cards | 147615 | [147615-super-battle-cards.json](./147615-super-battle-cards.json) |
 | Super Battle Golf | 387070 | [387070-super-battle-golf.json](./387070-super-battle-golf.json) |
 | Super Battle Golf: Attack on City | 410350 | [410350-super-battle-golf-attack-on-city.json](./410350-super-battle-golf-attack-on-city.json) |
@@ -31716,6 +31731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Battle Racers | 344895 | [344895-super-battle-racers.json](./344895-super-battle-racers.json) |
 | Super Battle Sensha | 252407 | [252407-super-battle-sensha.json](./252407-super-battle-sensha.json) |
 | Super Battle Skin Panic | 67404 | [67404-super-battle-skin-panic.json](./67404-super-battle-skin-panic.json) |
+| Super Battletank 2 | 38425 | [38425-super-battletank-2.json](./38425-super-battletank-2.json) |
 | Super Beach Bros. Wii | 394336 | [394336-super-beach-bros-wii.json](./394336-super-beach-bros-wii.json) |
 | Super Bear Adventure | 148427 | [148427-super-bear-adventure.json](./148427-super-bear-adventure.json) |
 | Super Beast Activation | 311823 | [311823-super-beast-activation.json](./311823-super-beast-activation.json) |
@@ -31988,6 +32004,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Concentration | 262370 | [262370-super-concentration.json](./262370-super-concentration.json) |
 | Super Conductor | 183741 | [183741-super-conductor.json](./183741-super-conductor.json) |
 | Super Conductor | 319125 | [319125-super-conductor.json](./319125-super-conductor.json) |
+| Super Conflict: The Mideast | 38421 | [38421-super-conflict-the-mideast.json](./38421-super-conflict-the-mideast.json) |
 | Super Connect 4 | 177115 | [177115-super-connect-4.json](./177115-super-connect-4.json) |
 | Super Console Kid | 296506 | [296506-super-console-kid.json](./296506-super-console-kid.json) |
 | Super Contra | 217546 | [217546-super-contra.json](./217546-super-contra.json) |
@@ -32246,6 +32263,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Fire Pro Wrestling III: Easy Type | 38290 | [38290-super-fire-pro-wrestling-iii-easy-type.json](./38290-super-fire-pro-wrestling-iii-easy-type.json) |
 | Super Fire Pro Wrestling Special | 38286 | [38286-super-fire-pro-wrestling-special.json](./38286-super-fire-pro-wrestling-special.json) |
 | Super Fire Pro Wrestling X | 38287 | [38287-super-fire-pro-wrestling-x.json](./38287-super-fire-pro-wrestling-x.json) |
+| Super Fire Pro Wrestling X Premium | 38420 | [38420-super-fire-pro-wrestling-x-premium.json](./38420-super-fire-pro-wrestling-x-premium.json) |
 | Super Fire Pro Wrestling: Queen's Special | 38282 | [38282-super-fire-pro-wrestling-queens-special.json](./38282-super-fire-pro-wrestling-queens-special.json) |
 | Super Firefighter | 363160 | [363160-super-firefighter.json](./363160-super-firefighter.json) |
 | Super Fish Bets | 399178 | [399178-super-fish-bets.json](./399178-super-fish-bets.json) |
@@ -32335,6 +32353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Glyph Quest | 60731 | [60731-super-glyph-quest.json](./60731-super-glyph-quest.json) |
 | Super Go-Kart Racing | 264417 | [264417-super-go-kart-racing.json](./264417-super-go-kart-racing.json) |
 | Super Goal! | 76999 | [76999-super-goal.json](./76999-super-goal.json) |
+| Super Goal! 2 | 38419 | [38419-super-goal-2.json](./38419-super-goal-2.json) |
 | Super Goalkeeper | 96447 | [96447-super-goalkeeper.json](./96447-super-goalkeeper.json) |
 | Super Gobang | 152782 | [152782-super-gobang.json](./152782-super-gobang.json) |
 | Super Godzilla | 38418 | [38418-super-godzilla.json](./38418-super-godzilla.json) |
@@ -32423,6 +32442,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Heroine Chronicle | 63311 | [63311-super-heroine-chronicle.json](./63311-super-heroine-chronicle.json) |
 | Super Hexagon | 3251 | [3251-super-hexagon.json](./3251-super-hexagon.json) |
 | Super High Ball: Pinball Platformer | 133372 | [133372-super-high-ball-pinball-platformer.json](./133372-super-high-ball-pinball-platformer.json) |
+| Super High Impact | 38417 | [38417-super-high-impact.json](./38417-super-high-impact.json) |
 | Super High School Danger Course | 271128 | [271128-super-high-school-danger-course.json](./271128-super-high-school-danger-course.json) |
 | Super High School Sports Day Crankathlon | 230724 | [230724-super-high-school-sports-day-crankathlon.json](./230724-super-high-school-sports-day-crankathlon.json) |
 | Super High-Way | 172649 | [172649-super-high-way.json](./172649-super-high-way.json) |
@@ -33926,6 +33946,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Taisen K | 79340 | [79340-super-robot-taisen-k.json](./79340-super-robot-taisen-k.json) |
 | Super Robot Taisen Link Battler | 112601 | [112601-super-robot-taisen-link-battler.json](./112601-super-robot-taisen-link-battler.json) |
 | Super Robot Taisen Mobile | 408404 | [408404-super-robot-taisen-mobile.json](./408404-super-robot-taisen-mobile.json) |
+| Super Robot Taisen MX Portable | 38460 | [38460-super-robot-taisen-mx-portable.json](./38460-super-robot-taisen-mx-portable.json) |
 | Super Robot Taisen Neo | 76902 | [76902-super-robot-taisen-neo.json](./76902-super-robot-taisen-neo.json) |
 | Super Robot Taisen OE: Operation Extend | 79344 | [79344-super-robot-taisen-oe-operation-extend.json](./79344-super-robot-taisen-oe-operation-extend.json) |
 | Super Robot Taisen OG Gaiden | 72741 | [72741-super-robot-taisen-og-gaiden.json](./72741-super-robot-taisen-og-gaiden.json) |
