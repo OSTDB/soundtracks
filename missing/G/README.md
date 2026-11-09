@@ -6760,6 +6760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Tee Golf | 198749 | [198749-golden-tee-golf.json](./198749-golden-tee-golf.json) |
 | Golden Tee Golf | 220538 | [220538-golden-tee-golf.json](./220538-golden-tee-golf.json) |
 | Golden Tee Live | 28719 | [28719-golden-tee-live.json](./28719-golden-tee-live.json) |
+| Golden Tee Live 2013 | 63987 | [63987-golden-tee-live-2013.json](./63987-golden-tee-live-2013.json) |
 | Golden Tee Mobile | 144039 | [144039-golden-tee-mobile.json](./144039-golden-tee-mobile.json) |
 | Golden Tee PGA Tour | 337445 | [337445-golden-tee-pga-tour.json](./337445-golden-tee-pga-tour.json) |
 | Golden Threads | 362862 | [362862-golden-threads.json](./362862-golden-threads.json) |
