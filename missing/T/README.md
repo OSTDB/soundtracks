@@ -7036,6 +7036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Bouncing Ball | 195207 | [195207-the-bouncing-ball.json](./195207-the-bouncing-ball.json) |
 | The Bound of Time | 316084 | [316084-the-bound-of-time.json](./316084-the-bound-of-time.json) |
 | The Boundary Condition | 219549 | [219549-the-boundary-condition.json](./219549-the-boundary-condition.json) |
+| The Bounty | 40286 | [40286-the-bounty.json](./40286-the-bounty.json) |
 | The Bounty | 86113 | [86113-the-bounty.json](./86113-the-bounty.json) |
 | The Bounty Hunter | 145558 | [145558-the-bounty-hunter.json](./145558-the-bounty-hunter.json) |
 | The Bounty Huntress | 153025 | [153025-the-bounty-huntress.json](./153025-the-bounty-huntress.json) |
@@ -9111,6 +9112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Electric Odyssey | 219554 | [219554-the-electric-odyssey.json](./219554-the-electric-odyssey.json) |
 | The Electric Shocktopus | 31481 | [31481-the-electric-shocktopus.json](./31481-the-electric-shocktopus.json) |
 | The Electric State: Kid Cosmo | 336003 | [336003-the-electric-state-kid-cosmo.json](./336003-the-electric-state-kid-cosmo.json) |
+| The Electric Yo-Yo | 40301 | [40301-the-electric-yo-yo.json](./40301-the-electric-yo-yo.json) |
 | The Electric Yoyo | 221402 | [221402-the-electric-yoyo.json](./221402-the-electric-yoyo.json) |
 | The Electrifying Incident: A Monster Mini-Expedition | 332922 | [332922-the-electrifying-incident-a-monster-mini-expedition.json](./332922-the-electrifying-incident-a-monster-mini-expedition.json) |
 | The Elektra Complex | 280901 | [280901-the-elektra-complex.json](./280901-the-elektra-complex.json) |
@@ -10260,6 +10262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Worlds Tournament! | 57485 | [57485-the-game-of-worlds-tournament.json](./57485-the-game-of-worlds-tournament.json) |
 | The Game Paradise: Cruisin Mix - Limited Edition | 167151 | [167151-the-game-paradise-cruisin-mix-limited-edition.json](./167151-the-game-paradise-cruisin-mix-limited-edition.json) |
 | The Game Paradise: Crusin Mix Special | 124073 | [124073-the-game-paradise-crusin-mix-special.json](./124073-the-game-paradise-crusin-mix-special.json) |
+| The Game Paradise: Master of Shooting | 40328 | [40328-the-game-paradise-master-of-shooting.json](./40328-the-game-paradise-master-of-shooting.json) |
 | The Game Store | 219640 | [219640-the-game-store.json](./219640-the-game-store.json) |
 | The Game That Takes Place on a Cruise Ship | 408818 | [408818-the-game-that-takes-place-on-a-cruise-ship.json](./408818-the-game-that-takes-place-on-a-cruise-ship.json) |
 | The Game That Was Stolen From Me at Indiecade2019 | 396233 | [396233-the-game-that-was-stolen-from-me-at-indiecade2019.json](./396233-the-game-that-was-stolen-from-me-at-indiecade2019.json) |
