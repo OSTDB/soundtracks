@@ -1090,6 +1090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Cards Duel | 409793 | [409793-magic-cards-duel.json](./409793-magic-cards-duel.json) |
 | Magic Cards Solitaire | 295443 | [295443-magic-cards-solitaire.json](./295443-magic-cards-solitaire.json) |
 | Magic Cards Solitaire 2: The Fountain of Life | 274915 | [274915-magic-cards-solitaire-2-the-fountain-of-life.json](./274915-magic-cards-solitaire-2-the-fountain-of-life.json) |
+| Magic Carousel | 41468 | [41468-magic-carousel.json](./41468-magic-carousel.json) |
 | Magic Carpet Plus | 72026 | [72026-magic-carpet-plus.json](./72026-magic-carpet-plus.json) |
 | Magic Carpet Ride | 289116 | [289116-magic-carpet-ride.json](./289116-magic-carpet-ride.json) |
 | Magic Carpet: Hidden Worlds | 8922 | [8922-magic-carpet-hidden-worlds.json](./8922-magic-carpet-hidden-worlds.json) |
@@ -12572,6 +12573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Spheres: Deluxe Edition | 53351 | [53351-mind-spheres-deluxe-edition.json](./53351-mind-spheres-deluxe-edition.json) |
 | Mind Split | 372951 | [372951-mind-split.json](./372951-mind-split.json) |
 | Mind Storm | 308338 | [308338-mind-storm.json](./308338-mind-storm.json) |
+| Mind Strike | 41430 | [41430-mind-strike.json](./41430-mind-strike.json) |
 | Mind Sweeper VR | 81076 | [81076-mind-sweeper-vr.json](./81076-mind-sweeper-vr.json) |
 | Mind Switch | 120786 | [120786-mind-switch.json](./120786-mind-switch.json) |
 | Mind Symphony | 194342 | [194342-mind-symphony.json](./194342-mind-symphony.json) |
@@ -13019,6 +13021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MineFinitum | 186276 | [186276-minefinitum.json](./186276-minefinitum.json) |
 | MineGeon: Renegades | 325205 | [325205-minegeon-renegades.json](./325205-minegeon-renegades.json) |
 | MineGeon: Space Mining Dungeon | 227369 | [227369-minegeon-space-mining-dungeon.json](./227369-minegeon-space-mining-dungeon.json) |
+| Minehunter | 41471 | [41471-minehunter.json](./41471-minehunter.json) |
 | Mineirinho Director's Cut | 127099 | [127099-mineirinho-directors-cut.json](./127099-mineirinho-directors-cut.json) |
 | Mineirinho Director's Cut: Mineirinho Hoversurf DC | 171927 | [171927-mineirinho-directors-cut-mineirinho-hoversurf-dc.json](./171927-mineirinho-directors-cut-mineirinho-hoversurf-dc.json) |
 | Minelvaton Saga: Ragon no Fukkatsu | 48687 | [48687-minelvaton-saga-ragon-no-fukkatsu.json](./48687-minelvaton-saga-ragon-no-fukkatsu.json) |
