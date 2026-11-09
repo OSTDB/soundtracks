@@ -1537,6 +1537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | San Matias: Mafia City | 86342 | [86342-san-matias-mafia-city.json](./86342-san-matias-mafia-city.json) |
 | San Xing Dui | 257235 | [257235-san-xing-dui.json](./257235-san-xing-dui.json) |
 | San Zoolin | 202132 | [202132-san-zoolin.json](./202132-san-zoolin.json) |
+| San-nin Mahjong | 45385 | [45385-san-nin-mahjong.json](./45385-san-nin-mahjong.json) |
 | San-nin Mahjong | 54945 | [54945-san-nin-mahjong.json](./54945-san-nin-mahjong.json) |
 | San-X Land: Theme Park de Asobou | 98165 | [98165-san-x-land-theme-park-de-asobou.json](./98165-san-x-land-theme-park-de-asobou.json) |
 | Sanabi | 144569 | [144569-sanabi.json](./144569-sanabi.json) |
@@ -20613,6 +20614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mosaics | 383727 | [383727-space-mosaics.json](./383727-space-mosaics.json) |
 | Space Moth DX | 33928 | [33928-space-moth-dx.json](./33928-space-moth-dx.json) |
 | Space Moth: Lunar Edition | 158935 | [158935-space-moth-lunar-edition.json](./158935-space-moth-lunar-edition.json) |
+| Space Mountain | 45384 | [45384-space-mountain.json](./45384-space-mountain.json) |
 | Space Mouse | 30874 | [30874-space-mouse.json](./30874-space-mouse.json) |
 | Space Mouse 2 | 149507 | [149507-space-mouse-2.json](./149507-space-mouse-2.json) |
 | Space Mouse: 35th Anniversary Edition | 98525 | [98525-space-mouse-35th-anniversary-edition.json](./98525-space-mouse-35th-anniversary-edition.json) |
@@ -25523,6 +25525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: 1313 | 1386 | [1386-star-wars-1313.json](./1386-star-wars-1313.json) |
 | Star Wars: Anakin's Speedway | 73217 | [73217-star-wars-anakins-speedway.json](./73217-star-wars-anakins-speedway.json) |
 | Star Wars: Assault Team | 75564 | [75564-star-wars-assault-team.json](./75564-star-wars-assault-team.json) |
+| Star Wars: Attack on the Death Star | 45379 | [45379-star-wars-attack-on-the-death-star.json](./45379-star-wars-attack-on-the-death-star.json) |
 | Star Wars: Attack Squadrons | 62510 | [62510-star-wars-attack-squadrons.json](./62510-star-wars-attack-squadrons.json) |
 | Star Wars: Battle Above Coruscant | 57943 | [57943-star-wars-battle-above-coruscant.json](./57943-star-wars-battle-above-coruscant.json) |
 | Star Wars: Battle of the Sith Lords | 75088 | [75088-star-wars-battle-of-the-sith-lords.json](./75088-star-wars-battle-of-the-sith-lords.json) |
@@ -28189,6 +28192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stonga Bird | 233690 | [233690-stonga-bird.json](./233690-stonga-bird.json) |
 | Stonies | 86637 | [86637-stonies.json](./86637-stonies.json) |
 | Stonk Simulator | 353923 | [353923-stonk-simulator.json](./353923-stonk-simulator.json) |
+| Stonkers | 45377 | [45377-stonkers.json](./45377-stonkers.json) |
 | Stonks-9800: Stock Market Simulator | 167271 | [167271-stonks-9800-stock-market-simulator.json](./167271-stonks-9800-stock-market-simulator.json) |
 | Stony Road | 103352 | [103352-stony-road.json](./103352-stony-road.json) |
 | Stoopid Puzzle Game | 163528 | [163528-stoopid-puzzle-game.json](./163528-stoopid-puzzle-game.json) |
@@ -33902,6 +33906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Wars 30: DLC 2 | 238811 | [238811-super-robot-wars-30-dlc-2.json](./238811-super-robot-wars-30-dlc-2.json) |
 | Super Robot Wars 30: Limited Edition | 155096 | [155096-super-robot-wars-30-limited-edition.json](./155096-super-robot-wars-30-limited-edition.json) |
 | Super Robot Wars BX | 79337 | [79337-super-robot-wars-bx.json](./79337-super-robot-wars-bx.json) |
+| Super Robot Wars F Final | 45376 | [45376-super-robot-wars-f-final.json](./45376-super-robot-wars-f-final.json) |
 | Super Robot Wars IV Scramble | 240917 | [240917-super-robot-wars-iv-scramble.json](./240917-super-robot-wars-iv-scramble.json) |
 | Super Robot Wars OG: The Moon Dwellers | 80139 | [80139-super-robot-wars-og-the-moon-dwellers.json](./80139-super-robot-wars-og-the-moon-dwellers.json) |
 | Super Robot Wars OG: The Moon Dwellers - Collector's Edition | 166276 | [166276-super-robot-wars-og-the-moon-dwellers-collectors-edition.json](./166276-super-robot-wars-og-the-moon-dwellers-collectors-edition.json) |
