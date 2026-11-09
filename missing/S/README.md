@@ -2650,6 +2650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Say Goodbye: Deluxe Edition | 170749 | [170749-say-goodbye-deluxe-edition.json](./170749-say-goodbye-deluxe-edition.json) |
 | Say Hello to Sunshine | 285262 | [285262-say-hello-to-sunshine.json](./285262-say-hello-to-sunshine.json) |
 | Say No to Rom-Coms! | 258359 | [258359-say-no-to-rom-coms.json](./258359-say-no-to-rom-coms.json) |
+| Say No! More | 126120 | [126120-say-no-more.json](./126120-say-no-more.json) |
 | Say Something Positive About | 265219 | [265219-say-something-positive-about.json](./265219-say-something-positive-about.json) |
 | Say When! | 346918 | [346918-say-when.json](./346918-say-when.json) |
 | Saya no Uta | 15830 | [15830-saya-no-uta.json](./15830-saya-no-uta.json) |
@@ -8725,6 +8726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Megami Tensei: Devil Summoner Digital Collection | 146785 | [146785-shin-megami-tensei-devil-summoner-digital-collection.json](./146785-shin-megami-tensei-devil-summoner-digital-collection.json) |
 | Shin Megami Tensei: Devil Summoner Special Box | 74067 | [74067-shin-megami-tensei-devil-summoner-special-box.json](./74067-shin-megami-tensei-devil-summoner-special-box.json) |
 | Shin Megami Tensei: Devil Survivor | 6884 | [6884-shin-megami-tensei-devil-survivor.json](./6884-shin-megami-tensei-devil-survivor.json) |
+| Shin Megami Tensei: Devil Survivor 2 | 6885 | [6885-shin-megami-tensei-devil-survivor-2.json](./6885-shin-megami-tensei-devil-survivor-2.json) |
 | Shin Megami Tensei: Digital Devil Saga | 18227 | [18227-shin-megami-tensei-digital-devil-saga.json](./18227-shin-megami-tensei-digital-devil-saga.json) |
 | Shin Megami Tensei: Digital Devil Saga - Deluxe Box Set | 382184 | [382184-shin-megami-tensei-digital-devil-saga-deluxe-box-set.json](./382184-shin-megami-tensei-digital-devil-saga-deluxe-box-set.json) |
 | Shin Megami Tensei: Digital Devil Saga 2 | 18229 | [18229-shin-megami-tensei-digital-devil-saga-2.json](./18229-shin-megami-tensei-digital-devil-saga-2.json) |
@@ -11708,6 +11710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simstory: Live As You Wish | 101573 | [101573-simstory-live-as-you-wish.json](./101573-simstory-live-as-you-wish.json) |
 | SimsVille | 67822 | [67822-simsville.json](./67822-simsville.json) |
 | SIMT Simulator | 55118 | [55118-simt-simulator.json](./55118-simt-simulator.json) |
+| SimTower | 7519 | [7519-simtower.json](./7519-simtower.json) |
 | SimTown | 20194 | [20194-simtown.json](./20194-simtown.json) |
 | SimTown | 213291 | [213291-simtown.json](./213291-simtown.json) |
 | SimTunes | 74020 | [74020-simtunes.json](./74020-simtunes.json) |
@@ -15984,6 +15987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SNK vs. Capcom Card Fighters' Clash - SNK Card Fighter's Version | 28399 | [28399-snk-vs-capcom-card-fighters-clash-snk-card-fighters-version.json](./28399-snk-vs-capcom-card-fighters-clash-snk-card-fighters-version.json) |
 | SNK vs. Capcom: Card Fighters 2 - Expand Edition | 75441 | [75441-snk-vs-capcom-card-fighters-2-expand-edition.json](./75441-snk-vs-capcom-card-fighters-2-expand-edition.json) |
 | SNK vs. Capcom: SVC Chaos | 309177 | [309177-snk-vs-capcom-svc-chaos.json](./309177-snk-vs-capcom-svc-chaos.json) |
+| SNK vs. Capcom: SVC Chaos | 6184 | [6184-snk-vs-capcom-svc-chaos.json](./6184-snk-vs-capcom-svc-chaos.json) |
 | Snk's Cool Cool Toon | 45820 | [45820-snks-cool-cool-toon.json](./45820-snks-cool-cool-toon.json) |
 | Snkrx | 148027 | [148027-snkrx.json](./148027-snkrx.json) |
 | SnL | 264382 | [264382-snl.json](./264382-snl.json) |
@@ -17202,6 +17206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldiers of Vietnam: American | 220048 | [220048-soldiers-of-vietnam-american.json](./220048-soldiers-of-vietnam-american.json) |
 | Soldiers vs. Zombies: Tower Defense | 345385 | [345385-soldiers-vs-zombies-tower-defense.json](./345385-soldiers-vs-zombies-tower-defense.json) |
 | Soldiers: Arena | 34024 | [34024-soldiers-arena.json](./34024-soldiers-arena.json) |
+| Soldiers: Heroes of World War II | 9477 | [9477-soldiers-heroes-of-world-war-ii.json](./9477-soldiers-heroes-of-world-war-ii.json) |
 | Soldiers: SDC2X | 204791 | [204791-soldiers-sdc2x.json](./204791-soldiers-sdc2x.json) |
 | Söldner-X 2: Final Prototype | 26937 | [26937-soldner-x-2-final-prototype.json](./26937-soldner-x-2-final-prototype.json) |
 | Söldner-X 2: Final Prototype - Definitive Edition | 140847 | [140847-soldner-x-2-final-prototype-definitive-edition.json](./140847-soldner-x-2-final-prototype-definitive-edition.json) |
@@ -20861,6 +20866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Rangers | 7592 | [7592-space-rangers.json](./7592-space-rangers.json) |
 | Space Rangers 2: Dominators | 7593 | [7593-space-rangers-2-dominators.json](./7593-space-rangers-2-dominators.json) |
 | Space Rangers 2: Reboot | 208846 | [208846-space-rangers-2-reboot.json](./208846-space-rangers-2-reboot.json) |
+| Space Rangers HD: A War Apart | 7594 | [7594-space-rangers-hd-a-war-apart.json](./7594-space-rangers-hd-a-war-apart.json) |
 | Space Rangers: Episode 46 - The Devil Within | 171780 | [171780-space-rangers-episode-46-the-devil-within.json](./171780-space-rangers-episode-46-the-devil-within.json) |
 | Space Rangers: Legacy | 275805 | [275805-space-rangers-legacy.json](./275805-space-rangers-legacy.json) |
 | Space Rangers: Quest | 25617 | [25617-space-rangers-quest.json](./25617-space-rangers-quest.json) |
@@ -26852,6 +26858,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | State of Decay: Breakdown | 111845 | [111845-state-of-decay-breakdown.json](./111845-state-of-decay-breakdown.json) |
 | State of Decay: Lifeline | 10894 | [10894-state-of-decay-lifeline.json](./10894-state-of-decay-lifeline.json) |
 | State of Decay: Year-One Survival Edition | 7710 | [7710-state-of-decay-year-one-survival-edition.json](./7710-state-of-decay-year-one-survival-edition.json) |
+| State of Emergency | 6161 | [6161-state-of-emergency.json](./6161-state-of-emergency.json) |
 | State of Emergency 2 | 6162 | [6162-state-of-emergency-2.json](./6162-state-of-emergency-2.json) |
 | State of Extinction | 59465 | [59465-state-of-extinction.json](./59465-state-of-extinction.json) |
 | State of Matter | 58106 | [58106-state-of-matter.json](./58106-state-of-matter.json) |
@@ -29898,6 +29905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stronghold | 18539 | [18539-stronghold.json](./18539-stronghold.json) |
 | Stronghold | 273261 | [273261-stronghold.json](./273261-stronghold.json) |
 | Stronghold 2: Steam Edition | 74251 | [74251-stronghold-2-steam-edition.json](./74251-stronghold-2-steam-edition.json) |
+| Stronghold 3 | 9461 | [9461-stronghold-3.json](./9461-stronghold-3.json) |
 | Stronghold 3 Gold | 54411 | [54411-stronghold-3-gold.json](./54411-stronghold-3-gold.json) |
 | Stronghold 4 | 405145 | [405145-stronghold-4.json](./405145-stronghold-4.json) |
 | Stronghold Collection | 21771 | [21771-stronghold-collection.json](./21771-stronghold-collection.json) |
@@ -36174,6 +36182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sven - Gut zu Vogeln | 190486 | [190486-sven-gut-zu-vogeln.json](./190486-sven-gut-zu-vogeln.json) |
 | Sven 004 | 93299 | [93299-sven-004.json](./93299-sven-004.json) |
 | Sven Bømwøllen | 93079 | [93079-sven-b-mw-llen.json](./93079-sven-b-mw-llen.json) |
+| Sven Co-op | 80332 | [80332-sven-co-op.json](./80332-sven-co-op.json) |
 | Sven Gordan Paranormal Parody | 326800 | [326800-sven-gordan-paranormal-parody.json](./326800-sven-gordan-paranormal-parody.json) |
 | Sven kommt! | 76471 | [76471-sven-kommt.json](./76471-sven-kommt.json) |
 | Sven Osterpaket | 85982 | [85982-sven-osterpaket.json](./85982-sven-osterpaket.json) |
