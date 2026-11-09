@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | B.U.T.T.O.N. (Brutally Unfair Tactics Totally OK Now) | 92526 | [92526-b-u-t-t-o-n-brutally-unfair-tactics-totally-ok-now.json](./92526-b-u-t-t-o-n-brutally-unfair-tactics-totally-ok-now.json) |
 | B.Y.O.O.L.: Best Years of Our Lives | 169538 | [169538-b-y-o-o-l-best-years-of-our-lives.json](./169538-b-y-o-o-l-best-years-of-our-lives.json) |
 | B's-LOG Party | 45989 | [45989-bs-log-party.json](./45989-bs-log-party.json) |
+| b*nQ | 65078 | [65078-b-nq.json](./65078-b-nq.json) |
 | B&F 1: The Dark Corridor | 393478 | [393478-b-and-f-1-the-dark-corridor.json](./393478-b-and-f-1-the-dark-corridor.json) |
 | B048 | 278235 | [278235-b048.json](./278235-b048.json) |
 | B1 | 289342 | [289342-b1.json](./289342-b1.json) |
@@ -991,6 +992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -6090,6 +6092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beer League Hockey | 241809 | [241809-beer-league-hockey.json](./241809-beer-league-hockey.json) |
 | Beer Machine | 374316 | [374316-beer-machine.json](./374316-beer-machine.json) |
 | Beer Manufacture Simulator | 373268 | [373268-beer-manufacture-simulator.json](./373268-beer-manufacture-simulator.json) |
+| Beer Pong | 65053 | [65053-beer-pong.json](./65053-beer-pong.json) |
 | Beer Pong : Trickshot | 90694 | [90694-beer-pong-trickshot.json](./90694-beer-pong-trickshot.json) |
 | Beer Pong AR | 95770 | [95770-beer-pong-ar.json](./95770-beer-pong-ar.json) |
 | Beer Pong Basement | 321230 | [321230-beer-pong-basement.json](./321230-beer-pong-basement.json) |
@@ -7968,6 +7971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bike of the Wild | 75318 | [75318-bike-of-the-wild.json](./75318-bike-of-the-wild.json) |
 | Bike Offroad Simulator | 248033 | [248033-bike-offroad-simulator.json](./248033-bike-offroad-simulator.json) |
 | Bike Park Simulator: BMX, Dirt Jump & MTB | 326473 | [326473-bike-park-simulator-bmx-dirt-jump-and-mtb.json](./326473-bike-park-simulator-bmx-dirt-jump-and-mtb.json) |
+| Bike Race | 65070 | [65070-bike-race.json](./65070-bike-race.json) |
 | Bike Race Pro: Motor Racing | 87346 | [87346-bike-race-pro-motor-racing.json](./87346-bike-race-pro-motor-racing.json) |
 | Bike Race: Motorcycle Racing | 87655 | [87655-bike-race-motorcycle-racing.json](./87655-bike-race-motorcycle-racing.json) |
 | Bike Racer 2018 | 105866 | [105866-bike-racer-2018.json](./105866-bike-racer-2018.json) |
@@ -8764,6 +8768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birthday Boy | 399612 | [399612-birthday-boy.json](./399612-birthday-boy.json) |
 | Birthday Boy and Benny | 272646 | [272646-birthday-boy-and-benny.json](./272646-birthday-boy-and-benny.json) |
 | Birthday Kid | 237425 | [237425-birthday-kid.json](./237425-birthday-kid.json) |
+| Birthday Mania | 65079 | [65079-birthday-mania.json](./65079-birthday-mania.json) |
 | Birthday of Midnight | 140948 | [140948-birthday-of-midnight.json](./140948-birthday-of-midnight.json) |
 | Birthday Party Bash | 4718 | [4718-birthday-party-bash.json](./4718-birthday-party-bash.json) |
 | Birthday Visit | 407198 | [407198-birthday-visit.json](./407198-birthday-visit.json) |
@@ -17012,6 +17017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Gun 3D | 150690 | [150690-bubble-gun-3d.json](./150690-bubble-gun-3d.json) |
 | Bubble Guppies | 230336 | [230336-bubble-guppies.json](./230336-bubble-guppies.json) |
 | Bubble Guppies | 230344 | [230344-bubble-guppies.json](./230344-bubble-guppies.json) |
+| Bubble Guppies | 65056 | [65056-bubble-guppies.json](./65056-bubble-guppies.json) |
 | Bubble Guriko | 106045 | [106045-bubble-guriko.json](./106045-bubble-guriko.json) |
 | Bubble Hero | 246436 | [246436-bubble-hero.json](./246436-bubble-hero.json) |
 | Bubble Hero 2 | 266327 | [266327-bubble-hero-2.json](./266327-bubble-hero-2.json) |
