@@ -380,6 +380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacrilege | 332175 | [332175-sacrilege.json](./332175-sacrilege.json) |
 | Sacrilege | 61634 | [61634-sacrilege.json](./61634-sacrilege.json) |
 | Sacrilegious | 319692 | [319692-sacrilegious.json](./319692-sacrilegious.json) |
+| Sacrilegium | 65059 | [65059-sacrilegium.json](./65059-sacrilegium.json) |
 | Sacristan | 425868 | [425868-sacristan.json](./425868-sacristan.json) |
 | Sacritice | 207012 | [207012-sacritice.json](./207012-sacritice.json) |
 | Sacrosanct | 195349 | [195349-sacrosanct.json](./195349-sacrosanct.json) |
@@ -4496,6 +4497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seatercel | 345946 | [345946-seatercel.json](./345946-seatercel.json) |
 | Seaward | 361870 | [361870-seaward.json](./361870-seaward.json) |
 | Seaway | 181901 | [181901-seaway.json](./181901-seaway.json) |
+| Seaweed Assault | 65080 | [65080-seaweed-assault.json](./65080-seaweed-assault.json) |
 | Seawitch | 62064 | [62064-seawitch.json](./62064-seawitch.json) |
 | Seawolf | 78987 | [78987-seawolf.json](./78987-seawolf.json) |
 | Seawolf + Missile | 139470 | [139470-seawolf-missile.json](./139470-seawolf-missile.json) |
@@ -9938,6 +9940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shrek: Swamp Kart Speedway | 49240 | [49240-shrek-swamp-kart-speedway.json](./49240-shrek-swamp-kart-speedway.json) |
 | Shrek: The Forbidden Onion | 359043 | [359043-shrek-the-forbidden-onion.json](./359043-shrek-the-forbidden-onion.json) |
 | Shrek's Carnival Craze | 70684 | [70684-shreks-carnival-craze.json](./70684-shreks-carnival-craze.json) |
+| Shrek's Fairytale Kingdom | 65074 | [65074-shreks-fairytale-kingdom.json](./65074-shreks-fairytale-kingdom.json) |
 | Shrek's Vacation | 230274 | [230274-shreks-vacation.json](./230274-shreks-vacation.json) |
 | Shrew | 320265 | [320265-shrew.json](./320265-shrew.json) |
 | Shriddle | 143006 | [143006-shriddle.json](./143006-shriddle.json) |
@@ -15020,6 +15023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smile'N'Slide | 101392 | [101392-smilenslide.json](./101392-smilenslide.json) |
 | SmileBasic 4 | 147701 | [147701-smilebasic-4.json](./147701-smilebasic-4.json) |
 | Smilemo | 201096 | [201096-smilemo.json](./201096-smilemo.json) |
+| Smiles HD | 64996 | [64996-smiles-hd.json](./64996-smiles-hd.json) |
 | Smiles Incorporated | 176285 | [176285-smiles-incorporated.json](./176285-smiles-incorporated.json) |
 | SmileTris 2 | 70967 | [70967-smiletris-2.json](./70967-smiletris-2.json) |
 | SmileTris 3 | 70329 | [70329-smiletris-3.json](./70329-smiletris-3.json) |
@@ -30682,6 +30686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suiren | 131578 | [131578-suiren.json](./131578-suiren.json) |
 | Suiren | 377581 | [377581-suiren.json](./377581-suiren.json) |
 | Suisenka | 261776 | [261776-suisenka.json](./261776-suisenka.json) |
+| Suishou no Dragon | 65054 | [65054-suishou-no-dragon.json](./65054-suishou-no-dragon.json) |
 | Suissinho: A Mais Louca Corrida | 350728 | [350728-suissinho-a-mais-louca-corrida.json](./350728-suissinho-a-mais-louca-corrida.json) |
 | SuiSui Sweet | 254547 | [254547-suisui-sweet.json](./254547-suisui-sweet.json) |
 | Suit for Hire | 153895 | [153895-suit-for-hire.json](./153895-suit-for-hire.json) |
@@ -34464,6 +34469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Yum Yum | 306006 | [306006-super-yum-yum.json](./306006-super-yum-yum.json) |
 | Super Yum Yum 2 | 280052 | [280052-super-yum-yum-2.json](./280052-super-yum-yum-2.json) |
 | Super Yum Yum 3 | 23266 | [23266-super-yum-yum-3.json](./23266-super-yum-yum-3.json) |
+| Super Yum Yum Adventure | 65092 | [65092-super-yum-yum-adventure.json](./65092-super-yum-yum-adventure.json) |
 | Super Zangyura | 151652 | [151652-super-zangyura.json](./151652-super-zangyura.json) |
 | Super Zaxxon | 22696 | [22696-super-zaxxon.json](./22696-super-zaxxon.json) |
 | Super Zeek | 245766 | [245766-super-zeek.json](./245766-super-zeek.json) |
