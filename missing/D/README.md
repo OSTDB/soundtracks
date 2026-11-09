@@ -2958,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dawn Pioneer | 57536 | [57536-dawn-pioneer.json](./57536-dawn-pioneer.json) |
 | Dawn Raider | 291939 | [291939-dawn-raider.json](./291939-dawn-raider.json) |
 | Dawn, P.I. | 148200 | [148200-dawn-p-i.json](./148200-dawn-p-i.json) |
+| Dawn: A New Beginning | 68212 | [68212-dawn-a-new-beginning.json](./68212-dawn-a-new-beginning.json) |
 | DAWN: Darkness Awaits Withstand the Night | 333664 | [333664-dawn-darkness-awaits-withstand-the-night.json](./333664-dawn-darkness-awaits-withstand-the-night.json) |
 | Dawn: Instagram Model | 336059 | [336059-dawn-instagram-model.json](./336059-dawn-instagram-model.json) |
 | Dawn's Light 2 | 31176 | [31176-dawns-light-2.json](./31176-dawns-light-2.json) |
@@ -12636,6 +12637,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dominion: Prosperity - 1st Edition | 203948 | [203948-dominion-prosperity-1st-edition.json](./203948-dominion-prosperity-1st-edition.json) |
 | Dominion: Renaissance | 191098 | [191098-dominion-renaissance.json](./191098-dominion-renaissance.json) |
 | Dominion: Seaside | 191111 | [191111-dominion-seaside.json](./191111-dominion-seaside.json) |
+| Dominion: Storm Over Gift 3 | 68207 | [68207-dominion-storm-over-gift-3.json](./68207-dominion-storm-over-gift-3.json) |
 | Dominions 2: The Ascension Wars | 71837 | [71837-dominions-2-the-ascension-wars.json](./71837-dominions-2-the-ascension-wars.json) |
 | Dominions 3: The Awakening | 16641 | [16641-dominions-3-the-awakening.json](./16641-dominions-3-the-awakening.json) |
 | Dominions 5 | 76074 | [76074-dominions-5.json](./76074-dominions-5.json) |
@@ -12657,6 +12659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Domino Draw | 271270 | [271270-domino-draw.json](./271270-domino-draw.json) |
 | Domino Dreams | 315772 | [315772-domino-dreams.json](./315772-domino-dreams.json) |
 | Domino Drop | 87620 | [87620-domino-drop.json](./87620-domino-drop.json) |
+| Domino Dungeon | 68813 | [68813-domino-dungeon.json](./68813-domino-dungeon.json) |
 | Domino Effect | 81766 | [81766-domino-effect.json](./81766-domino-effect.json) |
 | Domino Fever | 383615 | [383615-domino-fever.json](./383615-domino-fever.json) |
 | Domino Fit | 303482 | [303482-domino-fit.json](./303482-domino-fit.json) |
@@ -18589,6 +18592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Cleaner | 236339 | [236339-dungeon-cleaner.json](./236339-dungeon-cleaner.json) |
 | Dungeon Cleaner | 260667 | [260667-dungeon-cleaner.json](./260667-dungeon-cleaner.json) |
 | Dungeon Cleaners | 357041 | [357041-dungeon-cleaners.json](./357041-dungeon-cleaners.json) |
+| Dungeon Cleaners | 68211 | [68211-dungeon-cleaners.json](./68211-dungeon-cleaners.json) |
 | Dungeon Cleaning Express | 114974 | [114974-dungeon-cleaning-express.json](./114974-dungeon-cleaning-express.json) |
 | Dungeon Clicker | 150405 | [150405-dungeon-clicker.json](./150405-dungeon-clicker.json) |
 | Dungeon Color | 190226 | [190226-dungeon-color.json](./190226-dungeon-color.json) |
@@ -18845,6 +18849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Calibris: Demon Orb | 412011 | [412011-dungeon-of-calibris-demon-orb.json](./412011-dungeon-of-calibris-demon-orb.json) |
 | Dungeon of Choices | 178859 | [178859-dungeon-of-choices.json](./178859-dungeon-of-choices.json) |
 | Dungeon of Dark | 132444 | [132444-dungeon-of-dark.json](./132444-dungeon-of-dark.json) |
+| Dungeon of Death | 68812 | [68812-dungeon-of-death.json](./68812-dungeon-of-death.json) |
 | Dungeon of Departure | 378235 | [378235-dungeon-of-departure.json](./378235-dungeon-of-departure.json) |
 | Dungeon of Despair | 193990 | [193990-dungeon-of-despair.json](./193990-dungeon-of-despair.json) |
 | Dungeon of Destiny | 251783 | [251783-dungeon-of-destiny.json](./251783-dungeon-of-destiny.json) |
@@ -18860,6 +18865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Final Glory | 219765 | [219765-dungeon-of-final-glory.json](./219765-dungeon-of-final-glory.json) |
 | Dungeon of Gods | 199915 | [199915-dungeon-of-gods.json](./199915-dungeon-of-gods.json) |
 | Dungeon of Grandmasters | 322802 | [322802-dungeon-of-grandmasters.json](./322802-dungeon-of-grandmasters.json) |
+| Dungeon of hell | 68811 | [68811-dungeon-of-hell.json](./68811-dungeon-of-hell.json) |
 | Dungeon of Horror | 262909 | [262909-dungeon-of-horror.json](./262909-dungeon-of-horror.json) |
 | Dungeon of Insanity | 244417 | [244417-dungeon-of-insanity.json](./244417-dungeon-of-insanity.json) |
 | Dungeon of Love: Catch Monsters | 339578 | [339578-dungeon-of-love-catch-monsters.json](./339578-dungeon-of-love-catch-monsters.json) |
