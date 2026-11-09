@@ -451,6 +451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rachel's Game Pack | 208431 | [208431-rachels-game-pack.json](./208431-rachels-game-pack.json) |
 | Rachel's Journal | 360459 | [360459-rachels-journal.json](./360459-rachels-journal.json) |
 | Rachel's Retreat | 54313 | [54313-rachels-retreat.json](./54313-rachels-retreat.json) |
+| Racin' Ratz | 49985 | [49985-racin-ratz.json](./49985-racin-ratz.json) |
 | Racine | 188211 | [188211-racine.json](./188211-racine.json) |
 | Racing | 139247 | [139247-racing.json](./139247-racing.json) |
 | Racing | 217831 | [217831-racing.json](./217831-racing.json) |
@@ -9213,6 +9214,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roboplant | 186641 | [186641-roboplant.json](./186641-roboplant.json) |
 | Robopon 2 Cross Version | 6561 | [6561-robopon-2-cross-version.json](./6561-robopon-2-cross-version.json) |
 | Robopon 2 Ring Version | 6560 | [6560-robopon-2-ring-version.json](./6560-robopon-2-ring-version.json) |
+| Robopon: Sun Version | 50007 | [50007-robopon-sun-version.json](./50007-robopon-sun-version.json) |
 | Robopost | 244195 | [244195-robopost.json](./244195-robopost.json) |
 | Roboquest | 137894 | [137894-roboquest.json](./137894-roboquest.json) |
 | RoboQuest | 199912 | [199912-roboquest.json](./199912-roboquest.json) |
