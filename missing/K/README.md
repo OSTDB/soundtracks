@@ -6008,6 +6008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kristi Sky Islands | 423299 | [423299-kristi-sky-islands.json](./423299-kristi-sky-islands.json) |
 | Kritika Global | 211930 | [211930-kritika-global.json](./211930-kritika-global.json) |
 | Kritika Sea Online | 77689 | [77689-kritika-sea-online.json](./77689-kritika-sea-online.json) |
+| Kritika: Reboot | 56010 | [56010-kritika-reboot.json](./56010-kritika-reboot.json) |
 | Kritika: The White Knights | 39231 | [39231-kritika-the-white-knights.json](./39231-kritika-the-white-knights.json) |
 | Kritika: Zero | 284746 | [284746-kritika-zero.json](./284746-kritika-zero.json) |
 | Kritter: Defend Together | 223226 | [223226-kritter-defend-together.json](./223226-kritter-defend-together.json) |
