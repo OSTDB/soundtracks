@@ -3522,6 +3522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 88 Nights in the Forest | 377400 | [377400-88-nights-in-the-forest.json](./377400-88-nights-in-the-forest.json) |
 | 8874 | 216774 | [216774-8874.json](./216774-8874.json) |
 | 89 | 215457 | [215457-89.json](./215457-89.json) |
+| 89: La Revolution Francaise | 14767 | [14767-89-la-revolution-francaise.json](./14767-89-la-revolution-francaise.json) |
 | 890B | 178792 | [178792-890b.json](./178792-890b.json) |
 | 8alloween | 320544 | [320544-8alloween.json](./320544-8alloween.json) |
 | 8AM | 288739 | [288739-8am.json](./288739-8am.json) |
