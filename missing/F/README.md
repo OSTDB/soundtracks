@@ -5141,6 +5141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy III | 231017 | [231017-final-fantasy-iii.json](./231017-final-fantasy-iii.json) |
 | Final Fantasy III | 340017 | [340017-final-fantasy-iii.json](./340017-final-fantasy-iii.json) |
 | Final Fantasy III | 340019 | [340019-final-fantasy-iii.json](./340019-final-fantasy-iii.json) |
+| Final Fantasy III | 393 | [393-final-fantasy-iii.json](./393-final-fantasy-iii.json) |
 | Final Fantasy III | 77234 | [77234-final-fantasy-iii.json](./77234-final-fantasy-iii.json) |
 | Final Fantasy III + Final Fantasy IV: Double Pack Edition | 301387 | [301387-final-fantasy-iii-final-fantasy-iv-double-pack-edition.json](./301387-final-fantasy-iii-final-fantasy-iv-double-pack-edition.json) |
 | Final Fantasy III/VI Rumble | 377732 | [377732-final-fantasy-iii-vi-rumble.json](./377732-final-fantasy-iii-vi-rumble.json) |
@@ -5195,6 +5196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy V | 146069 | [146069-final-fantasy-v.json](./146069-final-fantasy-v.json) |
 | Final Fantasy V | 288349 | [288349-final-fantasy-v.json](./288349-final-fantasy-v.json) |
 | Final Fantasy V | 400427 | [400427-final-fantasy-v.json](./400427-final-fantasy-v.json) |
+| Final Fantasy V | 419 | [419-final-fantasy-v.json](./419-final-fantasy-v.json) |
 | Final Fantasy V Advance | 20597 | [20597-final-fantasy-v-advance.json](./20597-final-fantasy-v-advance.json) |
 | Final Fantasy V Spoof | 298939 | [298939-final-fantasy-v-spoof.json](./298939-final-fantasy-v-spoof.json) |
 | Final Fantasy V-Pixel Freemaster | 315635 | [315635-final-fantasy-v-pixel-freemaster.json](./315635-final-fantasy-v-pixel-freemaster.json) |
@@ -8577,6 +8579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Floratic | 147334 | [147334-floratic.json](./147334-floratic.json) |
 | Flore | 204527 | [204527-flore.json](./204527-flore.json) |
 | Florealia | 214563 | [214563-florealia.json](./214563-florealia.json) |
+| Florence | 87672 | [87672-florence.json](./87672-florence.json) |
 | Florence Mirror | 406516 | [406516-florence-mirror.json](./406516-florence-mirror.json) |
 | Florensia | 34922 | [34922-florensia.json](./34922-florensia.json) |
 | Flores con Historias | 198330 | [198330-flores-con-historias.json](./198330-flores-con-historias.json) |
