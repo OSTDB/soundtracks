@@ -2936,6 +2936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to the West | 195043 | [195043-journey-to-the-west.json](./195043-journey-to-the-west.json) |
 | Journey to the West | 274550 | [274550-journey-to-the-west.json](./274550-journey-to-the-west.json) |
 | Journey to the West | 392222 | [392222-journey-to-the-west.json](./392222-journey-to-the-west.json) |
+| Journey to the West | 46927 | [46927-journey-to-the-west.json](./46927-journey-to-the-west.json) |
 | Journey to the West Survivor | 253654 | [253654-journey-to-the-west-survivor.json](./253654-journey-to-the-west-survivor.json) |
 | Journey to the West: A Super Mario Bros. ROM Hack | 198467 | [198467-journey-to-the-west-a-super-mario-bros-rom-hack.json](./198467-journey-to-the-west-a-super-mario-bros-rom-hack.json) |
 | Journey to the West: Blade Souls | 286135 | [286135-journey-to-the-west-blade-souls.json](./286135-journey-to-the-west-blade-souls.json) |
