@@ -356,6 +356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nana-chan no Star Tanjou | 66131 | [66131-nana-chan-no-star-tanjou.json](./66131-nana-chan-no-star-tanjou.json) |
 | Nana-chan to Issho | 108145 | [108145-nana-chan-to-issho.json](./108145-nana-chan-to-issho.json) |
 | Nana: Live Staff Daiboshuu! Shoshinsha Kangei | 65421 | [65421-nana-live-staff-daiboshuu-shoshinsha-kangei.json](./65421-nana-live-staff-daiboshuu-shoshinsha-kangei.json) |
+| Nana: Subete ha Daimaou no Omichibiki!? | 67430 | [67430-nana-subete-ha-daimaou-no-omichibiki.json](./67430-nana-subete-ha-daimaou-no-omichibiki.json) |
 | Nanaca Crash!!! | 139012 | [139012-nanaca-crash.json](./139012-nanaca-crash.json) |
 | Nanafushigi: Nanase to Fushigi no Otome-dou | 200950 | [200950-nanafushigi-nanase-to-fushigi-no-otome-dou.json](./200950-nanafushigi-nanase-to-fushigi-no-otome-dou.json) |
 | Nanairo Reincarnation | 113845 | [113845-nanairo-reincarnation.json](./113845-nanairo-reincarnation.json) |
@@ -1450,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Show Time: NBA on NBC | 49902 | [49902-nba-show-time-nba-on-nbc.json](./49902-nba-show-time-nba-on-nbc.json) |
 | NBA Showdown | 45573 | [45573-nba-showdown.json](./45573-nba-showdown.json) |
 | NBA Showtime: NBA on NBC | 3554 | [3554-nba-showtime-nba-on-nbc.json](./3554-nba-showtime-nba-on-nbc.json) |
+| NBA Starting Five 2005 | 67406 | [67406-nba-starting-five-2005.json](./67406-nba-starting-five-2005.json) |
 | NBA Street | 4035 | [4035-nba-street.json](./4035-nba-street.json) |
 | NBA Street Homecourt | 7108 | [7108-nba-street-homecourt.json](./7108-nba-street-homecourt.json) |
 | NBA Street Showdown | 38479 | [38479-nba-street-showdown.json](./38479-nba-street-showdown.json) |
