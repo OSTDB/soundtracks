@@ -3562,6 +3562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batomon Showdown | 398645 | [398645-batomon-showdown.json](./398645-batomon-showdown.json) |
 | Batoni | 216123 | [216123-batoni.json](./216123-batoni.json) |
 | Batora: Lost Haven | 142900 | [142900-batora-lost-haven.json](./142900-batora-lost-haven.json) |
+| Batrider | 39728 | [39728-batrider.json](./39728-batrider.json) |
 | Bats | 118285 | [118285-bats.json](./118285-bats.json) |
 | Bats & Terry | 48609 | [48609-bats-and-terry.json](./48609-bats-and-terry.json) |
 | BATS: Bloodsucker Anti-Terror Squad | 154312 | [154312-bats-bloodsucker-anti-terror-squad.json](./154312-bats-bloodsucker-anti-terror-squad.json) |
@@ -8368,6 +8369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bingo Pop | 101516 | [101516-bingo-pop.json](./101516-bingo-pop.json) |
 | Bingo Roulette | 404213 | [404213-bingo-roulette.json](./404213-bingo-roulette.json) |
 | Bingo Rush 2 | 323070 | [323070-bingo-rush-2.json](./323070-bingo-rush-2.json) |
+| Bingo the Multiva | 39736 | [39736-bingo-the-multiva.json](./39736-bingo-the-multiva.json) |
 | Bingo Titan Adventure: Kingdom Crush | 102660 | [102660-bingo-titan-adventure-kingdom-crush.json](./102660-bingo-titan-adventure-kingdom-crush.json) |
 | Bingo Tropical Haven: Island Beach Fever | 101423 | [101423-bingo-tropical-haven-island-beach-fever.json](./101423-bingo-tropical-haven-island-beach-fever.json) |
 | Bingo TV | 276406 | [276406-bingo-tv.json](./276406-bingo-tv.json) |
