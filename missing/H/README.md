@@ -6676,6 +6676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexaflip: The Action Puzzler | 124395 | [124395-hexaflip-the-action-puzzler.json](./124395-hexaflip-the-action-puzzler.json) |
 | Hexagold | 264157 | [264157-hexagold.json](./264157-hexagold.json) |
 | Hexagolines | 262218 | [262218-hexagolines.json](./262218-hexagolines.json) |
+| Hexagon | 63966 | [63966-hexagon.json](./63966-hexagon.json) |
 | Hexagon Defense | 147909 | [147909-hexagon-defense.json](./147909-hexagon-defense.json) |
 | Hexagon Defense | 36965 | [36965-hexagon-defense.json](./36965-hexagon-defense.json) |
 | Hexagon Dungeon | 114785 | [114785-hexagon-dungeon.json](./114785-hexagon-dungeon.json) |
