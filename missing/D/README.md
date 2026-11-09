@@ -8824,6 +8824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diamaze | 93311 | [93311-diamaze.json](./93311-diamaze.json) |
 | Diamic Days | 413854 | [413854-diamic-days.json](./413854-diamic-days.json) |
 | Diamo XL | 68596 | [68596-diamo-xl.json](./68596-diamo-xl.json) |
+| Diamon Jones and the Amulet of the World | 25350 | [25350-diamon-jones-and-the-amulet-of-the-world.json](./25350-diamon-jones-and-the-amulet-of-the-world.json) |
 | Diamon Jones Devil's Contract | 53959 | [53959-diamon-jones-devils-contract.json](./53959-diamon-jones-devils-contract.json) |
 | Diamon Jones Eye of the Dragon | 53958 | [53958-diamon-jones-eye-of-the-dragon.json](./53958-diamon-jones-eye-of-the-dragon.json) |
 | Diamon Jones: Amulet of the World | 59921 | [59921-diamon-jones-amulet-of-the-world.json](./59921-diamon-jones-amulet-of-the-world.json) |
@@ -16065,6 +16066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragoneer's Aria | 24279 | [24279-dragoneers-aria.json](./24279-dragoneers-aria.json) |
 | Dragoneila | 145301 | [145301-dragoneila.json](./145301-dragoneila.json) |
 | Dragonero | 274779 | [274779-dragonero.json](./274779-dragonero.json) |
+| Dragonester | 25282 | [25282-dragonester.json](./25282-dragonester.json) |
 | DragonFable | 92725 | [92725-dragonfable.json](./92725-dragonfable.json) |
 | Dragonfall | 296937 | [296937-dragonfall.json](./296937-dragonfall.json) |
 | Dragonfang - Drahn's Mystery Dungeon | 129006 | [129006-dragonfang-drahns-mystery-dungeon.json](./129006-dragonfang-drahns-mystery-dungeon.json) |
