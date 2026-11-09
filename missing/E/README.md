@@ -5674,6 +5674,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Party | 278419 | [278419-escape-party.json](./278419-escape-party.json) |
 | Escape Peng | 303520 | [303520-escape-peng.json](./303520-escape-peng.json) |
 | Escape Plan | 18371 | [18371-escape-plan.json](./18371-escape-plan.json) |
+| Escape Plan: Add-On Bundle | 26070 | [26070-escape-plan-add-on-bundle.json](./26070-escape-plan-add-on-bundle.json) |
+| Escape Plan: Director's Cut | 26071 | [26071-escape-plan-directors-cut.json](./26071-escape-plan-directors-cut.json) |
+| Escape Plan: The Asylum | 26072 | [26072-escape-plan-the-asylum.json](./26072-escape-plan-the-asylum.json) |
+| Escape Plan: The Underground | 26073 | [26073-escape-plan-the-underground.json](./26073-escape-plan-the-underground.json) |
 | Escape Planet 17 | 139587 | [139587-escape-planet-17.json](./139587-escape-planet-17.json) |
 | Escape Point | 132683 | [132683-escape-point.json](./132683-escape-point.json) |
 | Escape Prison | 163898 | [163898-escape-prison.json](./163898-escape-prison.json) |
@@ -7497,6 +7501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Spirit Hunter | 409413 | [409413-evil-spirit-hunter.json](./409413-evil-spirit-hunter.json) |
 | Evil Spirits | 384865 | [384865-evil-spirits.json](./384865-evil-spirits.json) |
 | Evil Spirits | 55182 | [55182-evil-spirits.json](./55182-evil-spirits.json) |
+| Evil Spirits Do Exist | 26747 | [26747-evil-spirits-do-exist.json](./26747-evil-spirits-do-exist.json) |
 | Evil Spring: Student Holidays | 104825 | [104825-evil-spring-student-holidays.json](./104825-evil-spring-student-holidays.json) |
 | Evil Spring: Student Hollidays | 180044 | [180044-evil-spring-student-hollidays.json](./180044-evil-spring-student-hollidays.json) |
 | Evil Star | 75058 | [75058-evil-star.json](./75058-evil-star.json) |
