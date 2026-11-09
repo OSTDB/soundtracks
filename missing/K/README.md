@@ -1583,6 +1583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keep Runnin | 304581 | [304581-keep-runnin.json](./304581-keep-runnin.json) |
 | Keep Running | 104071 | [104071-keep-running.json](./104071-keep-running.json) |
 | Keep Sheep | 226136 | [226136-keep-sheep.json](./226136-keep-sheep.json) |
+| Keep Sheep Safe! | 52691 | [52691-keep-sheep-safe.json](./52691-keep-sheep-safe.json) |
 | Keep Spinning | 179441 | [179441-keep-spinning.json](./179441-keep-spinning.json) |
 | Keep Talk Until You Dead | 151488 | [151488-keep-talk-until-you-dead.json](./151488-keep-talk-until-you-dead.json) |
 | Keep Talking and Nobody Explodes | 13226 | [13226-keep-talking-and-nobody-explodes.json](./13226-keep-talking-and-nobody-explodes.json) |
