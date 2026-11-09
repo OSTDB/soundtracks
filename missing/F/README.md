@@ -9532,6 +9532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Keepy Uppy Champion | 252951 | [252951-football-keepy-uppy-champion.json](./252951-football-keepy-uppy-champion.json) |
 | Football Kicks | 231060 | [231060-football-kicks.json](./231060-football-kicks.json) |
 | Football Killer | 188096 | [188096-football-killer.json](./188096-football-killer.json) |
+| Football Kingdom: Trial Edition | 44692 | [44692-football-kingdom-trial-edition.json](./44692-football-kingdom-trial-edition.json) |
 | Football League 2023 | 223933 | [223933-football-league-2023.json](./223933-football-league-2023.json) |
 | Football League 2026 | 326649 | [326649-football-league-2026.json](./326649-football-league-2026.json) |
 | Football League Cup: Arcade Soccer Simulator | 319316 | [319316-football-league-cup-arcade-soccer-simulator.json](./319316-football-league-cup-arcade-soccer-simulator.json) |
@@ -10490,6 +10491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Car Racing Simulator | 99409 | [99409-formula-car-racing-simulator.json](./99409-formula-car-racing-simulator.json) |
 | Formula Cartoon All Stars | 59924 | [59924-formula-cartoon-all-stars.json](./59924-formula-cartoon-all-stars.json) |
 | Formula Challenge | 230693 | [230693-formula-challenge.json](./230693-formula-challenge.json) |
+| Formula Challenge | 44675 | [44675-formula-challenge.json](./44675-formula-challenge.json) |
 | Formula Circus | 286579 | [286579-formula-circus.json](./286579-formula-circus.json) |
 | Formula Circus | 302347 | [302347-formula-circus.json](./302347-formula-circus.json) |
 | Formula Dare | 184429 | [184429-formula-dare.json](./184429-formula-dare.json) |
