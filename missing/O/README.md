@@ -919,6 +919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off the Clock | 184363 | [184363-off-the-clock.json](./184363-off-the-clock.json) |
 | Off the Grid | 89216 | [89216-off-the-grid.json](./89216-off-the-grid.json) |
 | Off The Grid: Bad Dream | 382363 | [382363-off-the-grid-bad-dream.json](./382363-off-the-grid-bad-dream.json) |
+| Off the Leash | 22683 | [22683-off-the-leash.json](./22683-off-the-leash.json) |
 | Off the Rails | 223638 | [223638-off-the-rails.json](./223638-off-the-rails.json) |
 | Off the Rails | 396761 | [396761-off-the-rails.json](./396761-off-the-rails.json) |
 | Off The Rails | 281989 | [281989-off-the-rails.json](./281989-off-the-rails.json) |
