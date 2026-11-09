@@ -3012,6 +3012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TDF: Kaijuu Daisensou | 410194 | [410194-tdf-kaijuu-daisensou.json](./410194-tdf-kaijuu-daisensou.json) |
 | TDK Arena | 223895 | [223895-tdk-arena.json](./223895-tdk-arena.json) |
 | TDM's Tractor Pull Nationals | 93416 | [93416-tdms-tractor-pull-nationals.json](./93416-tdms-tractor-pull-nationals.json) |
+| TDP4: Team Battle | 35969 | [35969-tdp4-team-battle.json](./35969-tdp4-team-battle.json) |
 | TDP5: Arena 3D | 35639 | [35639-tdp5-arena-3d.json](./35639-tdp5-arena-3d.json) |
 | TDS | 287793 | [287793-tds.json](./287793-tds.json) |
 | TDS Legacy | 331381 | [331381-tds-legacy.json](./331381-tds-legacy.json) |
