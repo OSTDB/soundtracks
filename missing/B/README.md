@@ -993,7 +993,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2983,6 +2982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barton Lynch Pro Surfing 2022 | 196295 | [196295-barton-lynch-pro-surfing-2022.json](./196295-barton-lynch-pro-surfing-2022.json) |
 | Bartox | 213439 | [213439-bartox.json](./213439-bartox.json) |
 | Barty's Adventure | 379941 | [379941-bartys-adventure.json](./379941-bartys-adventure.json) |
+| Baru and the Spirit Prince | 29984 | [29984-baru-and-the-spirit-prince.json](./29984-baru-and-the-spirit-prince.json) |
 | Barunba | 42087 | [42087-barunba.json](./42087-barunba.json) |
 | Baryoland | 269483 | [269483-baryoland.json](./269483-baryoland.json) |
 | Basalt Breaker | 254784 | [254784-basalt-breaker.json](./254784-basalt-breaker.json) |
@@ -6431,6 +6431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Believer! | 139088 | [139088-believer.json](./139088-believer.json) |
 | Believr Pro Wrestling | 406158 | [406158-believr-pro-wrestling.json](./406158-believr-pro-wrestling.json) |
 | BelisBelus | 308022 | [308022-belisbelus.json](./308022-belisbelus.json) |
+| Belko VR: An Escape Room Experiment | 29351 | [29351-belko-vr-an-escape-room-experiment.json](./29351-belko-vr-an-escape-room-experiment.json) |
 | Bell & Hoof: The Silent Journey | 367470 | [367470-bell-and-hoof-the-silent-journey.json](./367470-bell-and-hoof-the-silent-journey.json) |
 | Bell Bot | 369319 | [369319-bell-bot.json](./369319-bell-bot.json) |
 | Bell Kingdom | 211447 | [211447-bell-kingdom.json](./211447-bell-kingdom.json) |
@@ -14533,6 +14534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty: Drag Racing | 243047 | [243047-bounty-drag-racing.json](./243047-bounty-drag-racing.json) |
 | Bounty: Special Edition | 206470 | [206470-bounty-special-edition.json](./206470-bounty-special-edition.json) |
 | BountyHeart | 213641 | [213641-bountyheart.json](./213641-bountyheart.json) |
+| BountyKiller | 29357 | [29357-bountykiller.json](./29357-bountykiller.json) |
 | Bounzy! | 89139 | [89139-bounzy.json](./89139-bounzy.json) |
 | Bouquet | 184525 | [184525-bouquet.json](./184525-bouquet.json) |
 | Bouquet | 346085 | [346085-bouquet.json](./346085-bouquet.json) |
@@ -16810,6 +16812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brush Hour | 411752 | [411752-brush-hour.json](./411752-brush-hour.json) |
 | Brush Jjaemu | 398581 | [398581-brush-jjaemu.json](./398581-brush-jjaemu.json) |
 | Brush Roller | 48658 | [48658-brush-roller.json](./48658-brush-roller.json) |
+| Brush Up VR | 30013 | [30013-brush-up-vr.json](./30013-brush-up-vr.json) |
 | BrushHammer Miniature Painter | 406170 | [406170-brushhammer-miniature-painter.json](./406170-brushhammer-miniature-painter.json) |
 | Brushland | 424034 | [424034-brushland.json](./424034-brushland.json) |
 | Brushlings Pale Moon | 155968 | [155968-brushlings-pale-moon.json](./155968-brushlings-pale-moon.json) |
