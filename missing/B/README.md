@@ -4009,6 +4009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle of Rebels | 266972 | [266972-battle-of-rebels.json](./266972-battle-of-rebels.json) |
 | Battle of Red Cliffs VR | 74604 | [74604-battle-of-red-cliffs-vr.json](./74604-battle-of-red-cliffs-vr.json) |
 | Battle of Ships 3D: Naval War | 88703 | [88703-battle-of-ships-3d-naval-war.json](./88703-battle-of-ships-3d-naval-war.json) |
+| Battle of Sunrise | 69399 | [69399-battle-of-sunrise.json](./69399-battle-of-sunrise.json) |
 | Battle of Tanks | 207468 | [207468-battle-of-tanks.json](./207468-battle-of-tanks.json) |
 | Battle of Tarlis | 259587 | [259587-battle-of-tarlis.json](./259587-battle-of-tarlis.json) |
 | Battle of the Boros | 115914 | [115914-battle-of-the-boros.json](./115914-battle-of-the-boros.json) |
@@ -6612,6 +6613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben Bero Beh | 40265 | [40265-ben-bero-beh.json](./40265-ben-bero-beh.json) |
 | Ben Bildim | 360447 | [360447-ben-bildim.json](./360447-ben-bildim.json) |
 | Ben Hur: Blood of Braves | 269362 | [269362-ben-hur-blood-of-braves.json](./269362-ben-hur-blood-of-braves.json) |
+| Ben Jordan Case 8: Relics of the Past | 69421 | [69421-ben-jordan-case-8-relics-of-the-past.json](./69421-ben-jordan-case-8-relics-of-the-past.json) |
 | Ben Jordan: Paranormal Investigator | 127124 | [127124-ben-jordan-paranormal-investigator.json](./127124-ben-jordan-paranormal-investigator.json) |
 | Ben Jordan: Paranormal Investigator - Case 1: In Search of the Skunk-Ape | 78058 | [78058-ben-jordan-paranormal-investigator-case-1-in-search-of-the-skunk-ape.json](./78058-ben-jordan-paranormal-investigator-case-1-in-search-of-the-skunk-ape.json) |
 | Ben Jordan: Paranormal Investigator - Case 1: In Search of the Skunk-Ape - Deluxe Edition | 137510 | [137510-ben-jordan-paranormal-investigator-case-1-in-search-of-the-skunk-ape-deluxe-edition.json](./137510-ben-jordan-paranormal-investigator-case-1-in-search-of-the-skunk-ape-deluxe-edition.json) |
@@ -6620,6 +6622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ben Jordan: Paranormal Investigator - Case 4: Horror at Number 50 | 70981 | [70981-ben-jordan-paranormal-investigator-case-4-horror-at-number-50.json](./70981-ben-jordan-paranormal-investigator-case-4-horror-at-number-50.json) |
 | Ben Jordan: Paranormal Investigator - Case 6: Scourge of the Sea People | 73276 | [73276-ben-jordan-paranormal-investigator-case-6-scourge-of-the-sea-people.json](./73276-ben-jordan-paranormal-investigator-case-6-scourge-of-the-sea-people.json) |
 | Ben Jordan: Paranormal Investigator - Case 8: Relics of the Past | 127125 | [127125-ben-jordan-paranormal-investigator-case-8-relics-of-the-past.json](./127125-ben-jordan-paranormal-investigator-case-8-relics-of-the-past.json) |
+| Ben Jordan: Paranormal Warrior Within - Case 1: Wrath of the Skunk Ape | 69428 | [69428-ben-jordan-paranormal-warrior-within-case-1-wrath-of-the-skunk-ape.json](./69428-ben-jordan-paranormal-warrior-within-case-1-wrath-of-the-skunk-ape.json) |
 | Ben Pixel 10: Raging Fist | 193864 | [193864-ben-pixel-10-raging-fist.json](./193864-ben-pixel-10-raging-fist.json) |
 | Ben Shapiro: The Game | 375924 | [375924-ben-shapiro-the-game.json](./375924-ben-shapiro-the-game.json) |
 | Ben Tennyson: Ace Attorney | 308534 | [308534-ben-tennyson-ace-attorney.json](./308534-ben-tennyson-ace-attorney.json) |
