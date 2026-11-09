@@ -3202,6 +3202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tears of a Prophet | 174203 | [174203-tears-of-a-prophet.json](./174203-tears-of-a-prophet.json) |
 | Tears of Adria | 268226 | [268226-tears-of-adria.json](./268226-tears-of-adria.json) |
 | Tears of Avia | 13196 | [13196-tears-of-avia.json](./13196-tears-of-avia.json) |
+| Tears of Betrayal | 73410 | [73410-tears-of-betrayal.json](./73410-tears-of-betrayal.json) |
 | Tears of Christ | 398661 | [398661-tears-of-christ.json](./398661-tears-of-christ.json) |
 | Tears of Fish | 292234 | [292234-tears-of-fish.json](./292234-tears-of-fish.json) |
 | Tears of Luna | 169593 | [169593-tears-of-luna.json](./169593-tears-of-luna.json) |
@@ -4325,6 +4326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tenshi no uta: The Angel's Verse | 385075 | [385075-tenshi-no-uta-the-angels-verse.json](./385075-tenshi-no-uta-the-angels-verse.json) |
 | Tenshi no Uta: The Angel's Verse Collection | 409512 | [409512-tenshi-no-uta-the-angels-verse-collection.json](./409512-tenshi-no-uta-the-angels-verse-collection.json) |
 | Tenshi Sword Quest | 389935 | [389935-tenshi-sword-quest.json](./389935-tenshi-sword-quest.json) |
+| Tenshi-tachi no Gogo | 73418 | [73418-tenshi-tachi-no-gogo.json](./73418-tenshi-tachi-no-gogo.json) |
 | Tenshi-tachi no Gogo Collection | 270809 | [270809-tenshi-tachi-no-gogo-collection.json](./270809-tenshi-tachi-no-gogo-collection.json) |
 | Tenshi-tachi no Gogo II: Minako | 247182 | [247182-tenshi-tachi-no-gogo-ii-minako.json](./247182-tenshi-tachi-no-gogo-ii-minako.json) |
 | Tenshi-tachi no Gogo III: Bangai-hen | 270791 | [270791-tenshi-tachi-no-gogo-iii-bangai-hen.json](./270791-tenshi-tachi-no-gogo-iii-bangai-hen.json) |
@@ -7411,6 +7413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Charnel House Trilogy | 19385 | [19385-the-charnel-house-trilogy.json](./19385-the-charnel-house-trilogy.json) |
 | The Chase | 133821 | [133821-the-chase.json](./133821-the-chase.json) |
 | The Chase | 168949 | [168949-the-chase.json](./168949-the-chase.json) |
+| The Chase on Tom Sawyer's Island | 73399 | [73399-the-chase-on-tom-sawyers-island.json](./73399-the-chase-on-tom-sawyers-island.json) |
 | The Chase: Cop Pursuit | 270468 | [270468-the-chase-cop-pursuit.json](./270468-the-chase-cop-pursuit.json) |
 | The Chase: Police Rush | 364815 | [364815-the-chase-police-rush.json](./364815-the-chase-police-rush.json) |
 | The Chase: Ultimate Edition | 138568 | [138568-the-chase-ultimate-edition.json](./138568-the-chase-ultimate-edition.json) |
@@ -27016,6 +27019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toucan Adventure: Rio de Janeiro | 317884 | [317884-toucan-adventure-rio-de-janeiro.json](./317884-toucan-adventure-rio-de-janeiro.json) |
 | Toucan Rampage: Sandstorm Shooter | 278358 | [278358-toucan-rampage-sandstorm-shooter.json](./278358-toucan-rampage-sandstorm-shooter.json) |
 | Touch | 256328 | [256328-touch.json](./256328-touch.json) |
+| Touch 'N' Go | 73214 | [73214-touch-n-go.json](./73214-touch-n-go.json) |
 | Touch 'N' Play Collection | 206746 | [206746-touch-n-play-collection.json](./206746-touch-n-play-collection.json) |
 | Touch & Explore | 235120 | [235120-touch-and-explore.json](./235120-touch-and-explore.json) |
 | Touch Battle Ninja | 58828 | [58828-touch-battle-ninja.json](./58828-touch-battle-ninja.json) |
