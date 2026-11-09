@@ -715,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Letter to You! | 157438 | [157438-a-letter-to-you.json](./157438-a-letter-to-you.json) |
 | A Life in Music | 314381 | [314381-a-life-in-music.json](./314381-a-life-in-music.json) |
 | A Life of Logic | 256243 | [256243-a-life-of-logic.json](./256243-a-life-of-logic.json) |
+| A Light In Chorus | 20876 | [20876-a-light-in-chorus.json](./20876-a-light-in-chorus.json) |
 | A Light Inside | 109173 | [109173-a-light-inside.json](./109173-a-light-inside.json) |
 | A Light Jog | 315018 | [315018-a-light-jog.json](./315018-a-light-jog.json) |
 | A Light Long Gone | 135086 | [135086-a-light-long-gone.json](./135086-a-light-long-gone.json) |
@@ -11996,6 +11997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ape vs. Caveman | 223636 | [223636-ape-vs-caveman.json](./223636-ape-vs-caveman.json) |
 | Ape-X | 36771 | [36771-ape-x.json](./36771-ape-x.json) |
 | Apees | 382249 | [382249-apees.json](./382249-apees.json) |
+| Apeiron | 20906 | [20906-apeiron.json](./20906-apeiron.json) |
 | Apeiron | 255456 | [255456-apeiron.json](./255456-apeiron.json) |
 | Apeiron | 283920 | [283920-apeiron.json](./283920-apeiron.json) |
 | Apeiron: Tower Defense | 170856 | [170856-apeiron-tower-defense.json](./170856-apeiron-tower-defense.json) |
@@ -14623,6 +14625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armed With WIngs: Culmination | 379364 | [379364-armed-with-wings-culmination.json](./379364-armed-with-wings-culmination.json) |
 | Armed with Wings: Rearmed | 35970 | [35970-armed-with-wings-rearmed.json](./35970-armed-with-wings-rearmed.json) |
 | Armed Zone | 203880 | [203880-armed-zone.json](./203880-armed-zone.json) |
+| Armed! | 22684 | [22684-armed.json](./22684-armed.json) |
 | Armello | 11260 | [11260-armello.json](./11260-armello.json) |
 | Armello: Collector's Edition | 52599 | [52599-armello-collectors-edition.json](./52599-armello-collectors-edition.json) |
 | Armello: Deluxe Bundle | 173787 | [173787-armello-deluxe-bundle.json](./173787-armello-deluxe-bundle.json) |
@@ -16150,6 +16153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assault Suit Leynos | 18655 | [18655-assault-suit-leynos.json](./18655-assault-suit-leynos.json) |
 | Assault Suit Leynos 2 | 45509 | [45509-assault-suit-leynos-2.json](./45509-assault-suit-leynos-2.json) |
 | Assault Suit Leynos 2: Saturn Tribute | 298102 | [298102-assault-suit-leynos-2-saturn-tribute.json](./298102-assault-suit-leynos-2-saturn-tribute.json) |
+| Assault Suits Valken | 21064 | [21064-assault-suits-valken.json](./21064-assault-suits-valken.json) |
 | Assault Suits Valken | 375386 | [375386-assault-suits-valken.json](./375386-assault-suits-valken.json) |
 | Assault Suits Valken 2 | 44750 | [44750-assault-suits-valken-2.json](./44750-assault-suits-valken-2.json) |
 | Assault Suits Valken Declassified | 240410 | [240410-assault-suits-valken-declassified.json](./240410-assault-suits-valken-declassified.json) |
@@ -17409,7 +17413,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -17727,6 +17730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of the Retro Bots | 118043 | [118043-attack-of-the-retro-bots.json](./118043-attack-of-the-retro-bots.json) |
 | Attack of the Saucerman | 4143 | [4143-attack-of-the-saucerman.json](./4143-attack-of-the-saucerman.json) |
 | Attack of the Silver Ball | 248598 | [248598-attack-of-the-silver-ball.json](./248598-attack-of-the-silver-ball.json) |
+| Attack of the Timelord! | 22695 | [22695-attack-of-the-timelord.json](./22695-attack-of-the-timelord.json) |
 | Attack of the Toy Tanks | 120178 | [120178-attack-of-the-toy-tanks.json](./120178-attack-of-the-toy-tanks.json) |
 | Attack of the Trafalas | 213435 | [213435-attack-of-the-trafalas.json](./213435-attack-of-the-trafalas.json) |
 | Attack of the Trolls! | 234713 | [234713-attack-of-the-trolls.json](./234713-attack-of-the-trolls.json) |
