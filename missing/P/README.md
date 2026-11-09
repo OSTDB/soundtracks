@@ -4116,6 +4116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pendulo Adventure Pack | 223537 | [223537-pendulo-adventure-pack.json](./223537-pendulo-adventure-pack.json) |
 | Pendulo Studios Collection | 284750 | [284750-pendulo-studios-collection.json](./284750-pendulo-studios-collection.json) |
 | Pendulous | 64841 | [64841-pendulous.json](./64841-pendulous.json) |
+| Pendulumania | 72247 | [72247-pendulumania.json](./72247-pendulumania.json) |
 | Penelope | 149775 | [149775-penelope.json](./149775-penelope.json) |
 | Penelope Pendrick and the Art of Deceit | 316422 | [316422-penelope-pendrick-and-the-art-of-deceit.json](./316422-penelope-pendrick-and-the-art-of-deceit.json) |
 | Penelope Syndrome | 341585 | [341585-penelope-syndrome.json](./341585-penelope-syndrome.json) |
@@ -4482,6 +4483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perennial Dusk: Kinsenka | 326641 | [326641-perennial-dusk-kinsenka.json](./326641-perennial-dusk-kinsenka.json) |
 | Perennial Order | 149935 | [149935-perennial-order.json](./149935-perennial-order.json) |
 | Perestroika | 180293 | [180293-perestroika.json](./180293-perestroika.json) |
+| Pereulok: The Series | 72402 | [72402-pereulok-the-series.json](./72402-pereulok-the-series.json) |
 | Perfect | 120049 | [120049-perfect.json](./120049-perfect.json) |
 | Perfect Ace 2: The Championships | 43247 | [43247-perfect-ace-2-the-championships.json](./43247-perfect-ace-2-the-championships.json) |
 | Perfect Ace: Pro Tournament Tennis | 67639 | [67639-perfect-ace-pro-tournament-tennis.json](./67639-perfect-ace-pro-tournament-tennis.json) |
@@ -5028,6 +5030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Show: Winter Animals | 353601 | [353601-pet-show-winter-animals.json](./353601-pet-show-winter-animals.json) |
 | Pet Shows | 9736 | [9736-pet-shows.json](./9736-pet-shows.json) |
 | Pet Simulator | 412223 | [412223-pet-simulator.json](./412223-pet-simulator.json) |
+| Pet Squad Racing | 72397 | [72397-pet-squad-racing.json](./72397-pet-squad-racing.json) |
 | Pet Store Panic | 32789 | [32789-pet-store-panic.json](./32789-pet-store-panic.json) |
 | Pet Street Story | 373691 | [373691-pet-street-story.json](./373691-pet-street-story.json) |
 | Pet That VTuber! | 403799 | [403799-pet-that-vtuber.json](./403799-pet-that-vtuber.json) |
@@ -5038,6 +5041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet Tycoon | 209158 | [209158-pet-tycoon.json](./209158-pet-tycoon.json) |
 | Pet Vet 3D: Animal Hospital | 81435 | [81435-pet-vet-3d-animal-hospital.json](./81435-pet-vet-3d-animal-hospital.json) |
 | Pet Vet 3D: Animal Hospital - Triple Treat | 54290 | [54290-pet-vet-3d-animal-hospital-triple-treat.json](./54290-pet-vet-3d-animal-hospital-triple-treat.json) |
+| Pet Vet 3D: Animal Hospital Down Under | 72243 | [72243-pet-vet-3d-animal-hospital-down-under.json](./72243-pet-vet-3d-animal-hospital-down-under.json) |
 | Pet Vet 3D: Wild Animal Hospital | 25434 | [25434-pet-vet-3d-wild-animal-hospital.json](./25434-pet-vet-3d-wild-animal-hospital.json) |
 | Pet Wash | 102612 | [102612-pet-wash.json](./102612-pet-wash.json) |
 | Pet World | 411146 | [411146-pet-world.json](./411146-pet-world.json) |
