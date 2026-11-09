@@ -2158,6 +2158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TankTrouble Classic | 200540 | [200540-tanktrouble-classic.json](./200540-tanktrouble-classic.json) |
 | Tankura: Tango Crush - Kotoba Keshi Tango Puzzle Game | 208938 | [208938-tankura-tango-crush-kotoba-keshi-tango-puzzle-game.json](./208938-tankura-tango-crush-kotoba-keshi-tango-puzzle-game.json) |
 | TankVR | 68505 | [68505-tankvr.json](./68505-tankvr.json) |
+| TankWars.io | 26742 | [26742-tankwars-io.json](./26742-tankwars-io.json) |
 | Tanky Panky | 158508 | [158508-tanky-panky.json](./158508-tanky-panky.json) |
 | Tanky Tanks | 120399 | [120399-tanky-tanks.json](./120399-tanky-tanks.json) |
 | Tanky Tanks 2 | 235910 | [235910-tanky-tanks-2.json](./235910-tanky-tanks-2.json) |
@@ -33332,6 +33333,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tsugunohi: Supernatural Supermarket | 319850 | [319850-tsugunohi-supernatural-supermarket.json](./319850-tsugunohi-supernatural-supermarket.json) |
 | Tsugunohi: The Chamber of Phantom Name | 340941 | [340941-tsugunohi-the-chamber-of-phantom-name.json](./340941-tsugunohi-the-chamber-of-phantom-name.json) |
 | Tsugunohi: The Thread That Beckons to Heaven | 414022 | [414022-tsugunohi-the-thread-that-beckons-to-heaven.json](./414022-tsugunohi-the-thread-that-beckons-to-heaven.json) |
+| Tsuihou Senkyo | 26744 | [26744-tsuihou-senkyo.json](./26744-tsuihou-senkyo.json) |
 | Tsujidou-san no Jun'ai Road | 60746 | [60746-tsujidou-san-no-junai-road.json](./60746-tsujidou-san-no-junai-road.json) |
 | Tsuka Shikiru ha Yarazu no Ame | 395358 | [395358-tsuka-shikiru-ha-yarazu-no-ame.json](./395358-tsuka-shikiru-ha-yarazu-no-ame.json) |
 | Tsukame, Jinsei no Migiuchi! GoGo Zenkaiten Arashi wo Yobu! Honoo no Pachinkas Road | 314828 | [314828-tsukame-jinsei-no-migiuchi-gogo-zenkaiten-arashi-wo-yobu-honoo-no-pachinkas-road.json](./314828-tsukame-jinsei-no-migiuchi-gogo-zenkaiten-arashi-wo-yobu-honoo-no-pachinkas-road.json) |
@@ -34157,6 +34159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV Station Manager | 80320 | [80320-tv-station-manager.json](./80320-tv-station-manager.json) |
 | TV Station Tycoon | 424621 | [424621-tv-station-tycoon.json](./424621-tv-station-tycoon.json) |
 | TV Studio Story | 282014 | [282014-tv-studio-story.json](./282014-tv-studio-story.json) |
+| TV Superstars | 26754 | [26754-tv-superstars.json](./26754-tv-superstars.json) |
 | TV Thief | 190748 | [190748-tv-thief.json](./190748-tv-thief.json) |
 | TV Total Events | 50998 | [50998-tv-total-events.json](./50998-tv-total-events.json) |
 | TV Trouble | 31015 | [31015-tv-trouble.json](./31015-tv-trouble.json) |
