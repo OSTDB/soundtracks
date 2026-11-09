@@ -1685,6 +1685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sandustry | 285974 | [285974-sandustry.json](./285974-sandustry.json) |
 | Sandvich Maker | 294431 | [294431-sandvich-maker.json](./294431-sandvich-maker.json) |
 | Sandwalkers | 165392 | [165392-sandwalkers.json](./165392-sandwalkers.json) |
+| Sandwarriors | 73922 | [73922-sandwarriors.json](./73922-sandwarriors.json) |
 | Sandwich | 352206 | [352206-sandwich.json](./352206-sandwich.json) |
 | Sandwich +1 | 397380 | [397380-sandwich-1.json](./397380-sandwich-1.json) |
 | Sandwich Quest | 387531 | [387531-sandwich-quest.json](./387531-sandwich-quest.json) |
@@ -3022,6 +3023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Schism | 260885 | [260885-schism.json](./260885-schism.json) |
 | Schism | 266227 | [266227-schism.json](./266227-schism.json) |
 | Schismo's Sideshow | 313985 | [313985-schismos-sideshow.json](./313985-schismos-sideshow.json) |
+| Schizm: Mysterious Journey | 73940 | [73940-schizm-mysterious-journey.json](./73940-schizm-mysterious-journey.json) |
 | Schizo Dark | 368481 | [368481-schizo-dark.json](./368481-schizo-dark.json) |
 | Schizo Simulator | 133761 | [133761-schizo-simulator.json](./133761-schizo-simulator.json) |
 | Schizofrenia | 78890 | [78890-schizofrenia.json](./78890-schizofrenia.json) |
@@ -4401,6 +4403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Search and Rescue: Yosemite | 259063 | [259063-search-and-rescue-yosemite.json](./259063-search-and-rescue-yosemite.json) |
 | Search Dungeon Master | 313254 | [313254-search-dungeon-master.json](./313254-search-dungeon-master.json) |
 | Search Eye Plus V2.0 | 325521 | [325521-search-eye-plus-v2-0.json](./325521-search-eye-plus-v2-0.json) |
+| Search for the Golden Dolphin | 73971 | [73971-search-for-the-golden-dolphin.json](./73971-search-for-the-golden-dolphin.json) |
 | Search for the Secret Keys | 69885 | [69885-search-for-the-secret-keys.json](./69885-search-for-the-secret-keys.json) |
 | Search for the Titanic | 69849 | [69849-search-for-the-titanic.json](./69849-search-for-the-titanic.json) |
 | Search of Galaxy | 192006 | [192006-search-of-galaxy.json](./192006-search-of-galaxy.json) |
@@ -6106,6 +6109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street Beat | 220108 | [220108-sesame-street-beat.json](./220108-sesame-street-beat.json) |
 | Sesame Street Counting Cafe | 46198 | [46198-sesame-street-counting-cafe.json](./46198-sesame-street-counting-cafe.json) |
 | Sesame Street Crayon: Numbers Count | 71798 | [71798-sesame-street-crayon-numbers-count.json](./71798-sesame-street-crayon-numbers-count.json) |
+| Sesame Street Crayon: Opposites Attract | 73955 | [73955-sesame-street-crayon-opposites-attract.json](./73955-sesame-street-crayon-opposites-attract.json) |
 | Sesame Street Create & Draw in Elmo's World | 206015 | [206015-sesame-street-create-and-draw-in-elmos-world.json](./206015-sesame-street-create-and-draw-in-elmos-world.json) |
 | Sesame Street Elmo's World: Pets, Foods and Telephones! | 138579 | [138579-sesame-street-elmos-world-pets-foods-and-telephones.json](./138579-sesame-street-elmos-world-pets-foods-and-telephones.json) |
 | Sesame Street Elmo's World: Shoes, Bugs & Farms! | 138487 | [138487-sesame-street-elmos-world-shoes-bugs-and-farms.json](./138487-sesame-street-elmos-world-shoes-bugs-and-farms.json) |
@@ -10941,6 +10945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silke, Pixelines Lillesøster: Syng, Leg Og Lær | 349489 | [349489-silke-pixelines-lilles-ster-syng-leg-og-l-r.json](./349489-silke-pixelines-lilles-ster-syng-leg-og-l-r.json) |
 | Silken Shaft | 334526 | [334526-silken-shaft.json](./334526-silken-shaft.json) |
 | Silkgrove | 338322 | [338322-silkgrove.json](./338322-silkgrove.json) |
+| Silkolene Honda Motocross GP | 73929 | [73929-silkolene-honda-motocross-gp.json](./73929-silkolene-honda-motocross-gp.json) |
 | Silkroad 8 | 394157 | [394157-silkroad-8.json](./394157-silkroad-8.json) |
 | Silkroad Online | 72944 | [72944-silkroad-online.json](./72944-silkroad-online.json) |
 | Silkroad Origin Mobile | 361403 | [361403-silkroad-origin-mobile.json](./361403-silkroad-origin-mobile.json) |
@@ -15020,6 +15025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smithereens! | 22412 | [22412-smithereens.json](./22412-smithereens.json) |
 | Smithing Master | 297615 | [297615-smithing-master.json](./297615-smithing-master.json) |
 | Smiths & Legends | 204132 | [204132-smiths-and-legends.json](./204132-smiths-and-legends.json) |
+| Smithsonian Institution: Dinosaur Museum | 73960 | [73960-smithsonian-institution-dinosaur-museum.json](./73960-smithsonian-institution-dinosaur-museum.json) |
 | SmithStory II | 193879 | [193879-smithstory-ii.json](./193879-smithstory-ii.json) |
 | Smithworks | 204603 | [204603-smithworks.json](./204603-smithworks.json) |
 | Smithy | 32486 | [32486-smithy.json](./32486-smithy.json) |
@@ -30735,6 +30741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Carnival '92: Recca | 48642 | [48642-summer-carnival-92-recca.json](./48642-summer-carnival-92-recca.json) |
 | Summer Carnival '93: Nexzr Special | 210636 | [210636-summer-carnival-93-nexzr-special.json](./210636-summer-carnival-93-nexzr-special.json) |
 | Summer Challenge: Athletics Tournament | 43012 | [43012-summer-challenge-athletics-tournament.json](./43012-summer-challenge-athletics-tournament.json) |
+| Summer Challenge: World Class Competition | 73945 | [73945-summer-challenge-world-class-competition.json](./73945-summer-challenge-world-class-competition.json) |
 | Summer Clover | 258943 | [258943-summer-clover.json](./258943-summer-clover.json) |
 | Summer Color Boi | 128805 | [128805-summer-color-boi.json](./128805-summer-color-boi.json) |
 | Summer Dash: Our Track Team's Summer Training Trip | 412765 | [412765-summer-dash-our-track-teams-summer-training-trip.json](./412765-summer-dash-our-track-teams-summer-training-trip.json) |
@@ -33514,6 +33521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Puzzle Fighter II Turbo | 20803 | [20803-super-puzzle-fighter-ii-turbo.json](./20803-super-puzzle-fighter-ii-turbo.json) |
 | Super Puzzle Fighter II Turbo | 55059 | [55059-super-puzzle-fighter-ii-turbo.json](./55059-super-puzzle-fighter-ii-turbo.json) |
 | Super Puzzle Fighter II Turbo HD Remix | 23072 | [23072-super-puzzle-fighter-ii-turbo-hd-remix.json](./23072-super-puzzle-fighter-ii-turbo-hd-remix.json) |
+| Super Puzzle Fighter II X for Matching Service | 73946 | [73946-super-puzzle-fighter-ii-x-for-matching-service.json](./73946-super-puzzle-fighter-ii-x-for-matching-service.json) |
 | Super Puzzle Galaxy | 163565 | [163565-super-puzzle-galaxy.json](./163565-super-puzzle-galaxy.json) |
 | Super Puzzle Galaxy | 76340 | [76340-super-puzzle-galaxy.json](./76340-super-puzzle-galaxy.json) |
 | Super Puzzle Galaxy - Boost Ball DLC Pack | 163566 | [163566-super-puzzle-galaxy-boost-ball-dlc-pack.json](./163566-super-puzzle-galaxy-boost-ball-dlc-pack.json) |
