@@ -135,6 +135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.E.A.R. Perseus Mandate | 519 | [519-f-e-a-r-perseus-mandate.json](./519-f-e-a-r-perseus-mandate.json) |
 | F.E.A.R.: Complete Pack | 323910 | [323910-f-e-a-r-complete-pack.json](./323910-f-e-a-r-complete-pack.json) |
 | F.E.A.R.: MMod | 320343 | [320343-f-e-a-r-mmod.json](./320343-f-e-a-r-mmod.json) |
+| F.E.A.R.: Platinum Collection | 51813 | [51813-f-e-a-r-platinum-collection.json](./51813-f-e-a-r-platinum-collection.json) |
 | F.E.A.R.: Ultimate Shooter Edition | 53050 | [53050-f-e-a-r-ultimate-shooter-edition.json](./53050-f-e-a-r-ultimate-shooter-edition.json) |
 | F.E.A.S.T | 353946 | [353946-f-e-a-s-t.json](./353946-f-e-a-s-t.json) |
 | F.E.X (Forced Evolution Experiment) | 55522 | [55522-f-e-x-forced-evolution-experiment.json](./55522-f-e-x-forced-evolution-experiment.json) |
@@ -903,6 +904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falcon Beertender 2 | 286123 | [286123-falcon-beertender-2.json](./286123-falcon-beertender-2.json) |
 | Falcon BMS | 77298 | [77298-falcon-bms.json](./77298-falcon-bms.json) |
 | Falcon City | 133088 | [133088-falcon-city.json](./133088-falcon-city.json) |
+| Falcon Collection | 51812 | [51812-falcon-collection.json](./51812-falcon-collection.json) |
 | Falcon Gold | 33852 | [33852-falcon-gold.json](./33852-falcon-gold.json) |
 | Falcon Lander | 344098 | [344098-falcon-lander.json](./344098-falcon-lander.json) |
 | Falcon Operation: Counterstrike | 73738 | [73738-falcon-operation-counterstrike.json](./73738-falcon-operation-counterstrike.json) |
