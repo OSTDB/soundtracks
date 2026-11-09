@@ -13067,6 +13067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Mission: Red Thunder | 77293 | [77293-combat-mission-red-thunder.json](./77293-combat-mission-red-thunder.json) |
 | Combat Mission: Red Thunder - Battle Pack 1 | 252240 | [252240-combat-mission-red-thunder-battle-pack-1.json](./252240-combat-mission-red-thunder-battle-pack-1.json) |
 | Combat Mission: Shock Force | 21234 | [21234-combat-mission-shock-force.json](./21234-combat-mission-shock-force.json) |
+| Combat Mission: Shock Force - British Forces | 66828 | [66828-combat-mission-shock-force-british-forces.json](./66828-combat-mission-shock-force-british-forces.json) |
 | Combat Mission: Shock Force - NATO | 80130 | [80130-combat-mission-shock-force-nato.json](./80130-combat-mission-shock-force-nato.json) |
 | Combat Monsters | 24543 | [24543-combat-monsters.json](./24543-combat-monsters.json) |
 | Combat Online | 131040 | [131040-combat-online.json](./131040-combat-online.json) |
@@ -18891,6 +18892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cruis'n World | 3430 | [3430-cruisn-world.json](./3430-cruisn-world.json) |
 | Cruise & Learn: Downtown Collection | 386214 | [386214-cruise-and-learn-downtown-collection.json](./386214-cruise-and-learn-downtown-collection.json) |
 | Cruise Attack | 406095 | [406095-cruise-attack.json](./406095-cruise-attack.json) |
+| Cruise Chaser Blassty | 66724 | [66724-cruise-chaser-blassty.json](./66724-cruise-chaser-blassty.json) |
 | Cruise Control | 252315 | [252315-cruise-control.json](./252315-cruise-control.json) |
 | Cruise Control | 374982 | [374982-cruise-control.json](./374982-cruise-control.json) |
 | Cruise Control Mode On! | 219232 | [219232-cruise-control-mode-on.json](./219232-cruise-control-mode-on.json) |
