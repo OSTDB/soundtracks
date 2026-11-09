@@ -857,6 +857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Reality | 115948 | [115948-dance-reality.json](./115948-dance-reality.json) |
 | Dance School Stories | 89824 | [89824-dance-school-stories.json](./89824-dance-school-stories.json) |
 | Dance Station Stepper | 141588 | [141588-dance-station-stepper.json](./141588-dance-station-stepper.json) |
+| Dance Studio VR | 74610 | [74610-dance-studio-vr.json](./74610-dance-studio-vr.json) |
 | Dance Summit 2001: Bust a Move | 72953 | [72953-dance-summit-2001-bust-a-move.json](./72953-dance-summit-2001-bust-a-move.json) |
 | Dance To Heck | 338863 | [338863-dance-to-heck.json](./338863-dance-to-heck.json) |
 | Dance to the Finish | 178595 | [178595-dance-to-the-finish.json](./178595-dance-to-the-finish.json) |
@@ -5925,6 +5926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defenders of Legends | 253482 | [253482-defenders-of-legends.json](./253482-defenders-of-legends.json) |
 | Defenders of Oasis | 45793 | [45793-defenders-of-oasis.json](./45793-defenders-of-oasis.json) |
 | Defenders of Oasis GG2SMS | 369595 | [369595-defenders-of-oasis-gg2sms.json](./369595-defenders-of-oasis-gg2sms.json) |
+| Defenders of Tetsoidea | 74642 | [74642-defenders-of-tetsoidea.json](./74642-defenders-of-tetsoidea.json) |
 | Defenders of the Atlantic | 179479 | [179479-defenders-of-the-atlantic.json](./179479-defenders-of-the-atlantic.json) |
 | Defenders of the Fallen Island | 76406 | [76406-defenders-of-the-fallen-island.json](./76406-defenders-of-the-fallen-island.json) |
 | Defenders of the Last Colony | 36208 | [36208-defenders-of-the-last-colony.json](./36208-defenders-of-the-last-colony.json) |
@@ -11392,6 +11394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Divine Heart Makina Gaiden 06 ~Shougeki no Marunomi Haiboku!~ | 59081 | [59081-divine-heart-makina-gaiden-06-shougeki-no-marunomi-haiboku.json](./59081-divine-heart-makina-gaiden-06-shougeki-no-marunomi-haiboku.json) |
 | Divine Heart Makina Gaiden 07 ~5-dai Kaijinshuu Shingeki!~ | 59073 | [59073-divine-heart-makina-gaiden-07-5-dai-kaijinshuu-shingeki.json](./59073-divine-heart-makina-gaiden-07-5-dai-kaijinshuu-shingeki.json) |
 | Divine Heart Makina Gaiden 08 ~Kindan no Junai Shokushu Hen~ | 59072 | [59072-divine-heart-makina-gaiden-08-kindan-no-junai-shokushu-hen.json](./59072-divine-heart-makina-gaiden-08-kindan-no-junai-shokushu-hen.json) |
+| Divine Intervention | 74627 | [74627-divine-intervention.json](./74627-divine-intervention.json) |
 | Divine Intervention (Pt. 1) | 141017 | [141017-divine-intervention-pt-1.json](./141017-divine-intervention-pt-1.json) |
 | Divine Intervention: Quran Miracles | 372163 | [372163-divine-intervention-quran-miracles.json](./372163-divine-intervention-quran-miracles.json) |
 | Divine Journey 2: The Five Books of Moses | 288721 | [288721-divine-journey-2-the-five-books-of-moses.json](./288721-divine-journey-2-the-five-books-of-moses.json) |
@@ -16520,6 +16523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream on the Moon | 84002 | [84002-dream-on-the-moon.json](./84002-dream-on-the-moon.json) |
 | Dream Park Story | 175874 | [175874-dream-park-story.json](./175874-dream-park-story.json) |
 | Dream Peak | 390781 | [390781-dream-peak.json](./390781-dream-peak.json) |
+| Dream Pet VR | 74624 | [74624-dream-pet-vr.json](./74624-dream-pet-vr.json) |
 | Dream Piano Tiles 2018 | 107665 | [107665-dream-piano-tiles-2018.json](./107665-dream-piano-tiles-2018.json) |
 | Dream Pinball 3D | 259178 | [259178-dream-pinball-3d.json](./259178-dream-pinball-3d.json) |
 | Dream Pinball 3D: Digital Deluxe Edition | 402953 | [402953-dream-pinball-3d-digital-deluxe-edition.json](./402953-dream-pinball-3d-digital-deluxe-edition.json) |
@@ -17478,6 +17482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Droopy Balls Simulator 2021 | 168684 | [168684-droopy-balls-simulator-2021.json](./168684-droopy-balls-simulator-2021.json) |
 | Droopy's Tennis Open | 6395 | [6395-droopys-tennis-open.json](./6395-droopys-tennis-open.json) |
 | Drop | 301136 | [301136-drop.json](./301136-drop.json) |
+| Drop | 74593 | [74593-drop.json](./74593-drop.json) |
 | Drop | 86201 | [86201-drop.json](./86201-drop.json) |
 | Drop 'n' Fill! | 330791 | [330791-drop-n-fill.json](./330791-drop-n-fill.json) |
 | Drop & Smash | 227483 | [227483-drop-and-smash.json](./227483-drop-and-smash.json) |
