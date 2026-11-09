@@ -5241,6 +5241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mass Effect 3: Omega | 13912 | [13912-mass-effect-3-omega.json](./13912-mass-effect-3-omega.json) |
 | Mass Effect 3: Special Edition | 21697 | [21697-mass-effect-3-special-edition.json](./21697-mass-effect-3-special-edition.json) |
 | Mass Effect Datapad | 77200 | [77200-mass-effect-datapad.json](./77200-mass-effect-datapad.json) |
+| Mass Effect Galaxy | 213 | [213-mass-effect-galaxy.json](./213-mass-effect-galaxy.json) |
 | Mass Effect: Andromeda - Deluxe Edition | 27766 | [27766-mass-effect-andromeda-deluxe-edition.json](./27766-mass-effect-andromeda-deluxe-edition.json) |
 | Mass Effect: Andromeda - Deluxe Recruit Edition | 91212 | [91212-mass-effect-andromeda-deluxe-recruit-edition.json](./91212-mass-effect-andromeda-deluxe-recruit-edition.json) |
 | Mass Effect: Andromeda - Super Deluxe Edition | 27767 | [27767-mass-effect-andromeda-super-deluxe-edition.json](./27767-mass-effect-andromeda-super-deluxe-edition.json) |
