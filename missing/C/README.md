@@ -1872,6 +1872,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain America and the Avengers | 7816 | [7816-captain-america-and-the-avengers.json](./7816-captain-america-and-the-avengers.json) |
 | Captain America in: The Doom Tube of Dr. Megalomann | 13462 | [13462-captain-america-in-the-doom-tube-of-dr-megalomann.json](./13462-captain-america-in-the-doom-tube-of-dr-megalomann.json) |
 | Captain America: Brave New World | 301539 | [301539-captain-america-brave-new-world.json](./301539-captain-america-brave-new-world.json) |
+| Captain America: Sentinel of Liberty | 65603 | [65603-captain-america-sentinel-of-liberty.json](./65603-captain-america-sentinel-of-liberty.json) |
 | Captain America: Shield of Justice | 65852 | [65852-captain-america-shield-of-justice.json](./65852-captain-america-shield-of-justice.json) |
 | Captain America: Super Soldier | 248739 | [248739-captain-america-super-soldier.json](./248739-captain-america-super-soldier.json) |
 | Captain America: Super Soldier | 248740 | [248740-captain-america-super-soldier.json](./248740-captain-america-super-soldier.json) |
@@ -2589,10 +2590,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardbuster | 211477 | [211477-cardbuster.json](./211477-cardbuster.json) |
 | Cardcaptor Sakura: Clow Card Magic | 69577 | [69577-cardcaptor-sakura-clow-card-magic.json](./69577-cardcaptor-sakura-clow-card-magic.json) |
 | Cardcaptor Sakura: Happiness Memories | 107654 | [107654-cardcaptor-sakura-happiness-memories.json](./107654-cardcaptor-sakura-happiness-memories.json) |
+| Cardcaptor Sakura: Itsumo Sakura-chan to Issho! | 65641 | [65641-cardcaptor-sakura-itsumo-sakura-chan-to-issho.json](./65641-cardcaptor-sakura-itsumo-sakura-chan-to-issho.json) |
 | Cardcaptor Sakura: Memory Key | 316006 | [316006-cardcaptor-sakura-memory-key.json](./316006-cardcaptor-sakura-memory-key.json) |
 | Cardcaptor Sakura: Repaint Record | 137637 | [137637-cardcaptor-sakura-repaint-record.json](./137637-cardcaptor-sakura-repaint-record.json) |
 | Cardcaptor Sakura: Sakura Card de Mini-Game | 49519 | [49519-cardcaptor-sakura-sakura-card-de-mini-game.json](./49519-cardcaptor-sakura-sakura-card-de-mini-game.json) |
 | Cardcaptor Sakura: Sakura-Chan to Asobo! | 80800 | [80800-cardcaptor-sakura-sakura-chan-to-asobo.json](./80800-cardcaptor-sakura-sakura-chan-to-asobo.json) |
+| Cardcaptor Sakura: Tomoeda Shougakkou Daiundoukai | 65640 | [65640-cardcaptor-sakura-tomoeda-shougakkou-daiundoukai.json](./65640-cardcaptor-sakura-tomoeda-shougakkou-daiundoukai.json) |
 | Cardcaptor Sakura: Tomoyo no Video Daisakusen | 66251 | [66251-cardcaptor-sakura-tomoyo-no-video-daisakusen.json](./66251-cardcaptor-sakura-tomoyo-no-video-daisakusen.json) |
 | Cardcaster | 348288 | [348288-cardcaster.json](./348288-cardcaster.json) |
 | Cardchery | 267487 | [267487-cardchery.json](./267487-cardchery.json) |
@@ -7259,6 +7262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chi Chi's Pro Challenge Golf | 4442 | [4442-chi-chis-pro-challenge-golf.json](./4442-chi-chis-pro-challenge-golf.json) |
 | Chi Ninja | 242036 | [242036-chi-ninja.json](./242036-chi-ninja.json) |
 | Chi Project | 324315 | [324315-chi-project.json](./324315-chi-project.json) |
+| Chi to Ase to Namida no Koukou Yakyuu | 65638 | [65638-chi-to-ase-to-namida-no-koukou-yakyuu.json](./65638-chi-to-ase-to-namida-no-koukou-yakyuu.json) |
 | Chi Vuol Essere Milionario? | 319930 | [319930-chi-vuol-essere-milionario.json](./319930-chi-vuol-essere-milionario.json) |
 | Chiaroscuro | 138739 | [138739-chiaroscuro.json](./138739-chiaroscuro.json) |
 | Chiaroscuro Imago | 377300 | [377300-chiaroscuro-imago.json](./377300-chiaroscuro-imago.json) |
@@ -8229,6 +8233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choro Q Park | 46095 | [46095-choro-q-park.json](./46095-choro-q-park.json) |
 | Choro Q Wonderful! | 56189 | [56189-choro-q-wonderful.json](./56189-choro-q-wonderful.json) |
 | Choro Q Works | 97363 | [97363-choro-q-works.json](./97363-choro-q-works.json) |
+| Choro-Q Hyper Customable GB | 65637 | [65637-choro-q-hyper-customable-gb.json](./65637-choro-q-hyper-customable-gb.json) |
 | Choro-Q Jet: Rainbow Wings | 43770 | [43770-choro-q-jet-rainbow-wings.json](./43770-choro-q-jet-rainbow-wings.json) |
 | Chorus of the Night | 235395 | [235395-chorus-of-the-night.json](./235395-chorus-of-the-night.json) |
 | Chorus: Day One Edition | 172575 | [172575-chorus-day-one-edition.json](./172575-chorus-day-one-edition.json) |
@@ -8262,6 +8267,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Crème Collect Whip | 376875 | [376875-chou-creme-collect-whip.json](./376875-chou-creme-collect-whip.json) |
 | Chou Dengeki Stryker | 23436 | [23436-chou-dengeki-stryker.json](./23436-chou-dengeki-stryker.json) |
 | Chou Ga Shin Zangard | 246106 | [246106-chou-ga-shin-zangard.json](./246106-chou-ga-shin-zangard.json) |
+| Chou Gals! Kotobuki Ran | 65635 | [65635-chou-gals-kotobuki-ran.json](./65635-chou-gals-kotobuki-ran.json) |
+| Chou Gals! Kotobuki Ran 2 | 65634 | [65634-chou-gals-kotobuki-ran-2.json](./65634-chou-gals-kotobuki-ran-2.json) |
 | Chou Gekijouban Keroro Gunsou: Enshuu Da yo! Zenin Shuugou | 61417 | [61417-chou-gekijouban-keroro-gunsou-enshuu-da-yo-zenin-shuugou.json](./61417-chou-gekijouban-keroro-gunsou-enshuu-da-yo-zenin-shuugou.json) |
 | Chou Gekijouban Keroro Gunsou: Gekishin Dragon Warriors de Arimasu! | 69199 | [69199-chou-gekijouban-keroro-gunsou-gekishin-dragon-warriors-de-arimasu.json](./69199-chou-gekijouban-keroro-gunsou-gekishin-dragon-warriors-de-arimasu.json) |
 | Chou Hakai Keikaku kara no Dasshutsu | 222224 | [222224-chou-hakai-keikaku-kara-no-dasshutsu.json](./222224-chou-hakai-keikaku-kara-no-dasshutsu.json) |
@@ -13344,6 +13351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command Heroes | 151845 | [151845-command-heroes.json](./151845-command-heroes.json) |
 | Command Line Mazer | 203972 | [203972-command-line-mazer.json](./203972-command-line-mazer.json) |
 | Command Line Pilot | 146783 | [146783-command-line-pilot.json](./146783-command-line-pilot.json) |
+| Command Master | 65628 | [65628-command-master.json](./65628-command-master.json) |
 | Command Monster | 413763 | [413763-command-monster.json](./413763-command-monster.json) |
 | Command Ops 2: Bastogne Vol. 4 | 170396 | [170396-command-ops-2-bastogne-vol-4.json](./170396-command-ops-2-bastogne-vol-4.json) |
 | Command Ops 2: Bradley at Bay Vol. 8 | 170395 | [170395-command-ops-2-bradley-at-bay-vol-8.json](./170395-command-ops-2-bradley-at-bay-vol-8.json) |
@@ -14533,6 +14541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contract Demon | 140911 | [140911-contract-demon.json](./140911-contract-demon.json) |
 | Contract J.A.C.K. | 1336 | [1336-contract-j-a-c-k.json](./1336-contract-j-a-c-k.json) |
 | Contract Killer | 162258 | [162258-contract-killer.json](./162258-contract-killer.json) |
+| Contract Killer | 65152 | [65152-contract-killer.json](./65152-contract-killer.json) |
 | Contract Killer 2: Shadow Conspiracy | 63917 | [63917-contract-killer-2-shadow-conspiracy.json](./63917-contract-killer-2-shadow-conspiracy.json) |
 | Contract Killer Simulator: Mafia Edition | 217196 | [217196-contract-killer-simulator-mafia-edition.json](./217196-contract-killer-simulator-mafia-edition.json) |
 | Contract Killer: Sniper | 127049 | [127049-contract-killer-sniper.json](./127049-contract-killer-sniper.json) |
@@ -15813,6 +15822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmos Bit | 182231 | [182231-cosmos-bit.json](./182231-cosmos-bit.json) |
 | Cosmos Cat | 265486 | [265486-cosmos-cat.json](./265486-cosmos-cat.json) |
 | Cosmos Chaos! | 123139 | [123139-cosmos-chaos.json](./123139-cosmos-chaos.json) |
+| Cosmos Circuit | 65615 | [65615-cosmos-circuit.json](./65615-cosmos-circuit.json) |
 | Cosmos Club | 270747 | [270747-cosmos-club.json](./270747-cosmos-club.json) |
 | Cosmos Conquer | 188451 | [188451-cosmos-conquer.json](./188451-cosmos-conquer.json) |
 | Cosmos Cop | 48314 | [48314-cosmos-cop.json](./48314-cosmos-cop.json) |
@@ -17982,6 +17992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CrimeCraft | 15040 | [15040-crimecraft.json](./15040-crimecraft.json) |
 | CrimeCraft Bleedout | 51265 | [51265-crimecraft-bleedout.json](./51265-crimecraft-bleedout.json) |
 | CrimeCraft: GangWars | 15005 | [15005-crimecraft-gangwars.json](./15005-crimecraft-gangwars.json) |
+| CrimeCraft: Kingpin | 65633 | [65633-crimecraft-kingpin.json](./65633-crimecraft-kingpin.json) |
 | CrimeCrew | 23977 | [23977-crimecrew.json](./23977-crimecrew.json) |
 | Crimen Exceptum | 333307 | [333307-crimen-exceptum.json](./333307-crimen-exceptum.json) |
 | Crimen: Mercenary Tales | 251251 | [251251-crimen-mercenary-tales.json](./251251-crimen-mercenary-tales.json) |
@@ -18423,6 +18434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross High | 195036 | [195036-cross-high.json](./195036-cross-high.json) |
 | Cross Highway | 385540 | [385540-cross-highway.json](./385540-cross-highway.json) |
 | Cross Horde | 311955 | [311955-cross-horde.json](./311955-cross-horde.json) |
+| Cross Hunter | 65621 | [65621-cross-hunter.json](./65621-cross-hunter.json) |
 | Cross Impact | 250398 | [250398-cross-impact.json](./250398-cross-impact.json) |
 | Cross Impact: Cowboy | 290793 | [290793-cross-impact-cowboy.json](./290793-cross-impact-cowboy.json) |
 | Cross Impact: V1 | 290794 | [290794-cross-impact-v1.json](./290794-cross-impact-v1.json) |
@@ -18817,6 +18829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crownrats | 410243 | [410243-crownrats.json](./410243-crownrats.json) |
 | Crowns and Pawns: Amber Road | 417328 | [417328-crowns-and-pawns-amber-road.json](./417328-crowns-and-pawns-amber-road.json) |
 | Crowns Golf | 133532 | [133532-crowns-golf.json](./133532-crowns-golf.json) |
+| Crowns Golf In Hawaii | 65617 | [65617-crowns-golf-in-hawaii.json](./65617-crowns-golf-in-hawaii.json) |
 | Crowns of Medieval Europe | 422776 | [422776-crowns-of-medieval-europe.json](./422776-crowns-of-medieval-europe.json) |
 | Crowns of Power | 138544 | [138544-crowns-of-power.json](./138544-crowns-of-power.json) |
 | Crownseeker | 399443 | [399443-crownseeker.json](./399443-crownseeker.json) |
@@ -21489,6 +21502,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyborg Invasion Shooter 3: Savior of the World | 115501 | [115501-cyborg-invasion-shooter-3-savior-of-the-world.json](./115501-cyborg-invasion-shooter-3-savior-of-the-world.json) |
 | Cyborg Justice | 46236 | [46236-cyborg-justice.json](./46236-cyborg-justice.json) |
 | Cyborg Killer Moscow 2042 | 126131 | [126131-cyborg-killer-moscow-2042.json](./126131-cyborg-killer-moscow-2042.json) |
+| Cyborg Kuro-Chan 2: White Woods no Gyakushuu | 65613 | [65613-cyborg-kuro-chan-2-white-woods-no-gyakushuu.json](./65613-cyborg-kuro-chan-2-white-woods-no-gyakushuu.json) |
+| Cyborg Kuro-Chan: Devil Fukkatsu!! | 65612 | [65612-cyborg-kuro-chan-devil-fukkatsu.json](./65612-cyborg-kuro-chan-devil-fukkatsu.json) |
 | Cyborg Lumberjack | 297083 | [297083-cyborg-lumberjack.json](./297083-cyborg-lumberjack.json) |
 | Cyborg Mechanic | 127017 | [127017-cyborg-mechanic.json](./127017-cyborg-mechanic.json) |
 | Cyborg Ninja vs. The Third Reich | 115585 | [115585-cyborg-ninja-vs-the-third-reich.json](./115585-cyborg-ninja-vs-the-third-reich.json) |
