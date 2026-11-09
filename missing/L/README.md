@@ -2150,7 +2150,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leadfoot: Stadium Off-Road Racing | 71839 | [71839-leadfoot-stadium-off-road-racing.json](./71839-leadfoot-stadium-off-road-racing.json) |
 | Leading Company | 46004 | [46004-leading-company.json](./46004-leading-company.json) |
 | Leading Jockey | 38108 | [38108-leading-jockey.json](./38108-leading-jockey.json) |
+| Leading Jockey '99 | 57870 | [57870-leading-jockey-99.json](./57870-leading-jockey-99.json) |
 | Leading Jockey 2 | 38107 | [38107-leading-jockey-2.json](./38107-leading-jockey-2.json) |
+| Leading Jockey: Highbred | 57869 | [57869-leading-jockey-highbred.json](./57869-leading-jockey-highbred.json) |
 | Leading Lap MPV | 138701 | [138701-leading-lap-mpv.json](./138701-leading-lap-mpv.json) |
 | Leading the Dead | 186677 | [186677-leading-the-dead.json](./186677-leading-the-dead.json) |
 | Leadlight | 330903 | [330903-leadlight.json](./330903-leadlight.json) |
@@ -4981,6 +4983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Light: A Maze Game | 143909 | [143909-light-a-maze-game.json](./143909-light-a-maze-game.json) |
 | Light: Black Cat & Amnesia Girl | 188465 | [188465-light-black-cat-and-amnesia-girl.json](./188465-light-black-cat-and-amnesia-girl.json) |
 | Light: Die to Survive | 311222 | [311222-light-die-to-survive.json](./311222-light-die-to-survive.json) |
+| Light: Fellowship of Loux | 58335 | [58335-light-fellowship-of-loux.json](./58335-light-fellowship-of-loux.json) |
 | Light: Path of the Archmage | 392136 | [392136-light-path-of-the-archmage.json](./392136-light-path-of-the-archmage.json) |
 | Light: Rebirth-The falsehood | 53274 | [53274-light-rebirth-the-falsehood.json](./53274-light-rebirth-the-falsehood.json) |
 | Light'em Up: For brainiacs only | 232495 | [232495-lightem-up-for-brainiacs-only.json](./232495-lightem-up-for-brainiacs-only.json) |
