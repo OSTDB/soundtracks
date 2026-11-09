@@ -3607,6 +3607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leo's Fortune HD Edition | 24042 | [24042-leos-fortune-hd-edition.json](./24042-leos-fortune-hd-edition.json) |
 | Leo's RC Simulator | 380543 | [380543-leos-rc-simulator.json](./380543-leos-rc-simulator.json) |
 | Leo's Red Carpet Rampage | 249608 | [249608-leos-red-carpet-rampage.json](./249608-leos-red-carpet-rampage.json) |
+| Leon's Crusade | 55333 | [55333-leons-crusade.json](./55333-leons-crusade.json) |
 | Leon's Identity | 136992 | [136992-leons-identity.json](./136992-leons-identity.json) |
 | Leon&Suharto | 401867 | [401867-leon-and-suharto.json](./401867-leon-and-suharto.json) |
 | Leona's Tricky Adventures | 17518 | [17518-leonas-tricky-adventures.json](./17518-leonas-tricky-adventures.json) |
@@ -6107,6 +6108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Dungeon Renovator | 315435 | [315435-little-dungeon-renovator.json](./315435-little-dungeon-renovator.json) |
 | Little Dungeon Stories | 118128 | [118128-little-dungeon-stories.json](./118128-little-dungeon-stories.json) |
 | Little Duty 1 | 249444 | [249444-little-duty-1.json](./249444-little-duty-1.json) |
+| Little Earth | 55334 | [55334-little-earth.json](./55334-little-earth.json) |
 | Little Eden | 260208 | [260208-little-eden.json](./260208-little-eden.json) |
 | Little Eidolons | 290296 | [290296-little-eidolons.json](./290296-little-eidolons.json) |
 | Little Einsteins | 231500 | [231500-little-einsteins.json](./231500-little-einsteins.json) |
@@ -7268,6 +7270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistical: The Netherlands | 166367 | [166367-logistical-the-netherlands.json](./166367-logistical-the-netherlands.json) |
 | Logistical: United Kingdom | 53281 | [53281-logistical-united-kingdom.json](./53281-logistical-united-kingdom.json) |
 | Logistical: USA - California | 166375 | [166375-logistical-usa-california.json](./166375-logistical-usa-california.json) |
+| Logistical: USA - Florida | 55342 | [55342-logistical-usa-florida.json](./55342-logistical-usa-florida.json) |
 | Logistical: USA - Hawaii | 166374 | [166374-logistical-usa-hawaii.json](./166374-logistical-usa-hawaii.json) |
 | Logistical: USA - New York | 81073 | [81073-logistical-usa-new-york.json](./81073-logistical-usa-new-york.json) |
 | Logistical: USA - Oregon | 59231 | [59231-logistical-usa-oregon.json](./59231-logistical-usa-oregon.json) |
