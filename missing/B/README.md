@@ -995,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3926,6 +3927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle High: San Bruno | 91792 | [91792-battle-high-san-bruno.json](./91792-battle-high-san-bruno.json) |
 | Battle High: Team-Up | 64701 | [64701-battle-high-team-up.json](./64701-battle-high-team-up.json) |
 | Battle Humanoid | 206410 | [206410-battle-humanoid.json](./206410-battle-humanoid.json) |
+| Battle Hunter | 3190 | [3190-battle-hunter.json](./3190-battle-hunter.json) |
 | Battle Hunters | 121955 | [121955-battle-hunters.json](./121955-battle-hunters.json) |
 | Battle Hunters Zero | 194167 | [194167-battle-hunters-zero.json](./194167-battle-hunters-zero.json) |
 | Battle In Space | 212470 | [212470-battle-in-space.json](./212470-battle-in-space.json) |
@@ -8429,6 +8431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bio Attack | 40031 | [40031-bio-attack.json](./40031-bio-attack.json) |
 | Bio Blaster | 354889 | [354889-bio-blaster.json](./354889-bio-blaster.json) |
 | Bio Block | 274518 | [274518-bio-block.json](./274518-bio-block.json) |
+| Bio Blocks | 3220 | [3220-bio-blocks.json](./3220-bio-blocks.json) |
 | Bio Bots | 189315 | [189315-bio-bots.json](./189315-bio-bots.json) |
 | Bio Bytes | 220274 | [220274-bio-bytes.json](./220274-bio-bytes.json) |
 | Bio Challenge | 12917 | [12917-bio-challenge.json](./12917-bio-challenge.json) |
@@ -11735,6 +11738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloodstone | 129929 | [129929-bloodstone.json](./129929-bloodstone.json) |
 | Bloodstone Courtyard | 308465 | [308465-bloodstone-courtyard.json](./308465-bloodstone-courtyard.json) |
 | Bloodstone Rising | 344586 | [344586-bloodstone-rising.json](./344586-bloodstone-rising.json) |
+| Bloodstone: An Epic Dwarven Tale | 2433 | [2433-bloodstone-an-epic-dwarven-tale.json](./2433-bloodstone-an-epic-dwarven-tale.json) |
 | BloodStorm | 8937 | [8937-bloodstorm.json](./8937-bloodstorm.json) |
 | Bloodstream | 121139 | [121139-bloodstream.json](./121139-bloodstream.json) |
 | Bloodstroke | 62226 | [62226-bloodstroke.json](./62226-bloodstroke.json) |
@@ -12544,6 +12548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bob's Beaker Blobs | 383144 | [383144-bobs-beaker-blobs.json](./383144-bobs-beaker-blobs.json) |
 | Bob's Burgers Pinball | 100684 | [100684-bobs-burgers-pinball.json](./100684-bobs-burgers-pinball.json) |
 | Bob's Cat Challenge | 115441 | [115441-bobs-cat-challenge.json](./115441-bobs-cat-challenge.json) |
+| Bob's Dragon Hunt | 2435 | [2435-bobs-dragon-hunt.json](./2435-bobs-dragon-hunt.json) |
 | Bob's Fears | 381283 | [381283-bobs-fears.json](./381283-bobs-fears.json) |
 | Bob's Full House | 13416 | [13416-bobs-full-house.json](./13416-bobs-full-house.json) |
 | Bob's Island | 374855 | [374855-bobs-island.json](./374855-bobs-island.json) |
@@ -18719,6 +18724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burnt Legacy | 302482 | [302482-burnt-legacy.json](./302482-burnt-legacy.json) |
 | Burnt Rubber | 112850 | [112850-burnt-rubber.json](./112850-burnt-rubber.json) |
 | Burntcrust | 389089 | [389089-burntcrust.json](./389089-burntcrust.json) |
+| Burntime | 2453 | [2453-burntime.json](./2453-burntime.json) |
 | BurntOut Capital | 317602 | [317602-burntout-capital.json](./317602-burntout-capital.json) |
 | Burokku Girls | 33525 | [33525-burokku-girls.json](./33525-burokku-girls.json) |
 | Burr Puzzle | 357978 | [357978-burr-puzzle.json](./357978-burr-puzzle.json) |
