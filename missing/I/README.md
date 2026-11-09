@@ -5437,6 +5437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into The Depths | 372049 | [372049-into-the-depths.json](./372049-into-the-depths.json) |
 | Into the Depths Below | 279127 | [279127-into-the-depths-below.json](./279127-into-the-depths-below.json) |
 | Into the Depths of Despair | 270563 | [270563-into-the-depths-of-despair.json](./270563-into-the-depths-of-despair.json) |
+| Into the Dim | 16475 | [16475-into-the-dim.json](./16475-into-the-dim.json) |
 | Into The Dread | 336867 | [336867-into-the-dread.json](./336867-into-the-dread.json) |
 | Into the Dungeon | 201939 | [201939-into-the-dungeon.json](./201939-into-the-dungeon.json) |
 | Into the Dungeon | 238983 | [238983-into-the-dungeon.json](./238983-into-the-dungeon.json) |
