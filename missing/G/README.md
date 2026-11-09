@@ -454,6 +454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gakuen Handsome Fighters | 243866 | [243866-gakuen-handsome-fighters.json](./243866-gakuen-handsome-fighters.json) |
 | Gakuen Handsome: Ikusei Game - Mitsurugi Sakuya no Soccer Sekai ni Hirometai | 187048 | [187048-gakuen-handsome-ikusei-game-mitsurugi-sakuya-no-soccer-sekai-ni-hirometai.json](./187048-gakuen-handsome-ikusei-game-mitsurugi-sakuya-no-soccer-sekai-ni-hirometai.json) |
 | Gakuen Handsome: Ito o Kashi | 181517 | [181517-gakuen-handsome-ito-o-kashi.json](./181517-gakuen-handsome-ito-o-kashi.json) |
+| Gakuen Heaven: Boy's Love Scramble | 64610 | [64610-gakuen-heaven-boys-love-scramble.json](./64610-gakuen-heaven-boys-love-scramble.json) |
 | Gakuen Hetalia DS | 130581 | [130581-gakuen-hetalia-ds.json](./130581-gakuen-hetalia-ds.json) |
 | Gakuen Hetalia Portable | 59419 | [59419-gakuen-hetalia-portable.json](./59419-gakuen-hetalia-portable.json) |
 | Gakuen Hyoryuu Senki | 191872 | [191872-gakuen-hyoryuu-senki.json](./191872-gakuen-hyoryuu-senki.json) |
@@ -10458,6 +10459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Angel for Hire | 178585 | [178585-guardian-angel-for-hire.json](./178585-guardian-angel-for-hire.json) |
 | Guardian Chicken | 346505 | [346505-guardian-chicken.json](./346505-guardian-chicken.json) |
 | Guardian Chronicle: Random Defense | 144989 | [144989-guardian-chronicle-random-defense.json](./144989-guardian-chronicle-random-defense.json) |
+| Guardian Cross | 65051 | [65051-guardian-cross.json](./65051-guardian-cross.json) |
 | Guardian Deity | 284165 | [284165-guardian-deity.json](./284165-guardian-deity.json) |
 | Guardian Demon | 376413 | [376413-guardian-demon.json](./376413-guardian-demon.json) |
 | Guardian Force: Saturn Tribute | 173780 | [173780-guardian-force-saturn-tribute.json](./173780-guardian-force-saturn-tribute.json) |
