@@ -789,6 +789,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution Grand Prix | 180262 | [180262-dance-dance-revolution-grand-prix.json](./180262-dance-dance-revolution-grand-prix.json) |
 | Dance Dance Revolution Hottest Party | 6658 | [6658-dance-dance-revolution-hottest-party.json](./6658-dance-dance-revolution-hottest-party.json) |
 | Dance Dance Revolution Hottest Party 3 | 21782 | [21782-dance-dance-revolution-hottest-party-3.json](./21782-dance-dance-revolution-hottest-party-3.json) |
+| Dance Dance Revolution Hottest Party 5 | 50643 | [50643-dance-dance-revolution-hottest-party-5.json](./50643-dance-dance-revolution-hottest-party-5.json) |
+| Dance Dance Revolution II | 50684 | [50684-dance-dance-revolution-ii.json](./50684-dance-dance-revolution-ii.json) |
 | Dance Dance Revolution Konamix | 23794 | [23794-dance-dance-revolution-konamix.json](./23794-dance-dance-revolution-konamix.json) |
 | Dance Dance Revolution Mario Mix | 3680 | [3680-dance-dance-revolution-mario-mix.json](./3680-dance-dance-revolution-mario-mix.json) |
 | Dance Dance Revolution Mario Mix 2 | 201163 | [201163-dance-dance-revolution-mario-mix-2.json](./201163-dance-dance-revolution-mario-mix-2.json) |
@@ -814,6 +816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution: Dear Daniel | 329929 | [329929-dance-dance-revolution-dear-daniel.json](./329929-dance-dance-revolution-dear-daniel.json) |
 | Dance Dance Revolution: Disney Channel Edition | 21282 | [21282-dance-dance-revolution-disney-channel-edition.json](./21282-dance-dance-revolution-disney-channel-edition.json) |
 | Dance Dance Revolution: Disney Dancing Museum | 3467 | [3467-dance-dance-revolution-disney-dancing-museum.json](./3467-dance-dance-revolution-disney-dancing-museum.json) |
+| Dance Dance Revolution: Disney Grooves | 50681 | [50681-dance-dance-revolution-disney-grooves.json](./50681-dance-dance-revolution-disney-grooves.json) |
 | Dance Dance Revolution: Hello Kitty | 207264 | [207264-dance-dance-revolution-hello-kitty.json](./207264-dance-dance-revolution-hello-kitty.json) |
 | Dance Dance Revolution: Hottest Party 2 | 50719 | [50719-dance-dance-revolution-hottest-party-2.json](./50719-dance-dance-revolution-hottest-party-2.json) |
 | Dance Dance Revolution: Hottest Party 4 | 50733 | [50733-dance-dance-revolution-hottest-party-4.json](./50733-dance-dance-revolution-hottest-party-4.json) |
@@ -867,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Praise: The Original | 209001 | [209001-dance-praise-the-original.json](./209001-dance-praise-the-original.json) |
 | Dance Reality | 115948 | [115948-dance-reality.json](./115948-dance-reality.json) |
 | Dance School Stories | 89824 | [89824-dance-school-stories.json](./89824-dance-school-stories.json) |
+| Dance Sensation! | 50667 | [50667-dance-sensation.json](./50667-dance-sensation.json) |
 | Dance Station Stepper | 141588 | [141588-dance-station-stepper.json](./141588-dance-station-stepper.json) |
 | Dance Studio VR | 74610 | [74610-dance-studio-vr.json](./74610-dance-studio-vr.json) |
 | Dance Summit 2001: Bust a Move | 72953 | [72953-dance-summit-2001-bust-a-move.json](./72953-dance-summit-2001-bust-a-move.json) |
