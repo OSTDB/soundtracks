@@ -274,6 +274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obscurant | 175520 | [175520-obscurant.json](./175520-obscurant.json) |
 | Obscurant | 195837 | [195837-obscurant.json](./195837-obscurant.json) |
 | ObsCure | 5941 | [5941-obscure.json](./5941-obscure.json) |
+| Obscure - Challenge Your Mind | 44240 | [44240-obscure-challenge-your-mind.json](./44240-obscure-challenge-your-mind.json) |
 | Obscure Chronicle of Dynastia | 392217 | [392217-obscure-chronicle-of-dynastia.json](./392217-obscure-chronicle-of-dynastia.json) |
 | Obscure Chronicle of Dynasty | 257504 | [257504-obscure-chronicle-of-dynasty.json](./257504-obscure-chronicle-of-dynasty.json) |
 | Obscure Depths | 258111 | [258111-obscure-depths.json](./258111-obscure-depths.json) |
