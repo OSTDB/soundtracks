@@ -339,6 +339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zapatitos: Suenos de Libertad | 178263 | [178263-zapatitos-suenos-de-libertad.json](./178263-zapatitos-suenos-de-libertad.json) |
 | Zaphie | 134167 | [134167-zaphie.json](./134167-zaphie.json) |
 | Zaphie 2 | 145656 | [145656-zaphie-2.json](./145656-zaphie-2.json) |
+| Zapitalism | 72260 | [72260-zapitalism.json](./72260-zapitalism.json) |
 | Zapitalism Deluxe | 202183 | [202183-zapitalism-deluxe.json](./202183-zapitalism-deluxe.json) |
 | Zapling Bygone | 150428 | [150428-zapling-bygone.json](./150428-zapling-bygone.json) |
 | Zapling Bygone: Deluxe Edition | 249261 | [249261-zapling-bygone-deluxe-edition.json](./249261-zapling-bygone-deluxe-edition.json) |
