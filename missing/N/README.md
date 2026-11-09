@@ -5192,6 +5192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Brigade feat. Jonah Weingarten | 146101 | [146101-ninja-brigade-feat-jonah-weingarten.json](./146101-ninja-brigade-feat-jonah-weingarten.json) |
 | Ninja Bros. | 92063 | [92063-ninja-bros.json](./92063-ninja-bros.json) |
 | Ninja Bullets | 25755 | [25755-ninja-bullets.json](./25755-ninja-bullets.json) |
+| Ninja Burai Densetsu | 46072 | [46072-ninja-burai-densetsu.json](./46072-ninja-burai-densetsu.json) |
 | Ninja Camel | 395810 | [395810-ninja-camel.json](./395810-ninja-camel.json) |
 | Ninja Captains | 85604 | [85604-ninja-captains.json](./85604-ninja-captains.json) |
 | Ninja Castle Escape | 156939 | [156939-ninja-castle-escape.json](./156939-ninja-castle-escape.json) |
