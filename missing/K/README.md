@@ -6331,6 +6331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kunio-kun Nekketsu Collection | 49674 | [49674-kunio-kun-nekketsu-collection.json](./49674-kunio-kun-nekketsu-collection.json) |
 | Kunio-kun Nekketsu Collection 2 | 49673 | [49673-kunio-kun-nekketsu-collection-2.json](./49673-kunio-kun-nekketsu-collection-2.json) |
 | Kunio-kun Nekketsu Collection 3 | 49672 | [49672-kunio-kun-nekketsu-collection-3.json](./49672-kunio-kun-nekketsu-collection-3.json) |
+| Kunio-kun Nekketsu: Complete Famicom-hen | 57876 | [57876-kunio-kun-nekketsu-complete-famicom-hen.json](./57876-kunio-kun-nekketsu-complete-famicom-hen.json) |
 | Kunio-kun no Dodgeball Da yo Zenin Shuugou!: Tournament Special | 36899 | [36899-kunio-kun-no-dodgeball-da-yo-zenin-shuugou-tournament-special.json](./36899-kunio-kun-no-dodgeball-da-yo-zenin-shuugou-tournament-special.json) |
 | Kunio-kun no Nekketsu Dodgeball Allstars!! | 60502 | [60502-kunio-kun-no-nekketsu-dodgeball-allstars.json](./60502-kunio-kun-no-nekketsu-dodgeball-allstars.json) |
 | Kunio-kun no Nekketsu Street | 74769 | [74769-kunio-kun-no-nekketsu-street.json](./74769-kunio-kun-no-nekketsu-street.json) |
