@@ -10141,6 +10141,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LunaM: SG | 174602 | [174602-lunam-sg.json](./174602-lunam-sg.json) |
 | Lunamaria Sero Dastiny | 97761 | [97761-lunamaria-sero-dastiny.json](./97761-lunamaria-sero-dastiny.json) |
 | Lunapark VR | 90823 | [90823-lunapark-vr.json](./90823-lunapark-vr.json) |
+| LunaPri from Empire of Angels | 56118 | [56118-lunapri-from-empire-of-angels.json](./56118-lunapri-from-empire-of-angels.json) |
 | LunaQuest | 190473 | [190473-lunaquest.json](./190473-lunaquest.json) |
 | Lunar // Drill | 320041 | [320041-lunar-drill.json](./320041-lunar-drill.json) |
 | Lunar 2: Eternal Blue Complete | 44998 | [44998-lunar-2-eternal-blue-complete.json](./44998-lunar-2-eternal-blue-complete.json) |
