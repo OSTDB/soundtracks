@@ -6125,7 +6125,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -14880,6 +14879,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam SEED | 66591 | [66591-mobile-suit-gundam-seed.json](./66591-mobile-suit-gundam-seed.json) |
 | Mobile Suit Gundam SEED Destiny | 66594 | [66594-mobile-suit-gundam-seed-destiny.json](./66594-mobile-suit-gundam-seed-destiny.json) |
 | Mobile Suit Gundam SEED Destiny: Generation of C.E. | 396312 | [396312-mobile-suit-gundam-seed-destiny-generation-of-c-e.json](./396312-mobile-suit-gundam-seed-destiny-generation-of-c-e.json) |
+| Mobile Suit Gundam Seed Destiny: Rengou vs. Z.A.F.T. | 68126 | [68126-mobile-suit-gundam-seed-destiny-rengou-vs-z-a-f-t.json](./68126-mobile-suit-gundam-seed-destiny-rengou-vs-z-a-f-t.json) |
+| Mobile Suit Gundam SEED Destiny: Rengou vs. Z.A.F.T. II | 68160 | [68160-mobile-suit-gundam-seed-destiny-rengou-vs-z-a-f-t-ii.json](./68160-mobile-suit-gundam-seed-destiny-rengou-vs-z-a-f-t-ii.json) |
 | Mobile Suit Gundam SEED: Battle Assault | 49325 | [49325-mobile-suit-gundam-seed-battle-assault.json](./49325-mobile-suit-gundam-seed-battle-assault.json) |
 | Mobile Suit Gundam SEED: Battle Destiny | 75723 | [75723-mobile-suit-gundam-seed-battle-destiny.json](./75723-mobile-suit-gundam-seed-battle-destiny.json) |
 | Mobile Suit Gundam Seed: Battle Destiny Remastered | 331460 | [331460-mobile-suit-gundam-seed-battle-destiny-remastered.json](./331460-mobile-suit-gundam-seed-battle-destiny-remastered.json) |
@@ -14948,6 +14949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Z Gundam: Zenpen Zeta no Kodou | 138328 | [138328-mobile-suit-z-gundam-zenpen-zeta-no-kodou.json](./138328-mobile-suit-z-gundam-zenpen-zeta-no-kodou.json) |
 | Mobile Suit Z-Gundam | 77059 | [77059-mobile-suit-z-gundam.json](./77059-mobile-suit-z-gundam.json) |
 | Mobile Suit Zeta Gundam | 66472 | [66472-mobile-suit-zeta-gundam.json](./66472-mobile-suit-zeta-gundam.json) |
+| Mobile Suit Zeta Gundam: AEUG vs. Titans | 68125 | [68125-mobile-suit-zeta-gundam-aeug-vs-titans.json](./68125-mobile-suit-zeta-gundam-aeug-vs-titans.json) |
 | Mobile Tomodachi | 143671 | [143671-mobile-tomodachi.json](./143671-mobile-tomodachi.json) |
 | Mobile Train Simulator | 72899 | [72899-mobile-train-simulator.json](./72899-mobile-train-simulator.json) |
 | Mobile Train Simulator + Densha de Go!: Tokyo Kyuukou-hen | 146602 | [146602-mobile-train-simulator-densha-de-go-tokyo-kyuukou-hen.json](./146602-mobile-train-simulator-densha-de-go-tokyo-kyuukou-hen.json) |
@@ -18355,6 +18357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motobug the Badnik in Sonic the Hedgehog | 201831 | [201831-motobug-the-badnik-in-sonic-the-hedgehog.json](./201831-motobug-the-badnik-in-sonic-the-hedgehog.json) |
 | Motocon | 395189 | [395189-motocon.json](./395189-motocon.json) |
 | Motocross | 159094 | [159094-motocross.json](./159094-motocross.json) |
+| Motocross | 68155 | [68155-motocross.json](./68155-motocross.json) |
 | Motocross | 72336 | [72336-motocross.json](./72336-motocross.json) |
 | Motocross | 8406 | [8406-motocross.json](./8406-motocross.json) |
 | Motocross Challenge | 49508 | [49508-motocross-challenge.json](./49508-motocross-challenge.json) |
