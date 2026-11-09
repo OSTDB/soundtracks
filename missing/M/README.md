@@ -759,6 +759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madou Monogatari: Hanamaru Daiyouchienji | 110397 | [110397-madou-monogatari-hanamaru-daiyouchienji.json](./110397-madou-monogatari-hanamaru-daiyouchienji.json) |
 | Madou Monogatari: Michikusa Ibun | 146652 | [146652-madou-monogatari-michikusa-ibun.json](./146652-madou-monogatari-michikusa-ibun.json) |
 | Madou Monogatari: Tower of the Magician | 252162 | [252162-madou-monogatari-tower-of-the-magician.json](./252162-madou-monogatari-tower-of-the-magician.json) |
+| Madou Ou Granzort | 42065 | [42065-madou-ou-granzort.json](./42065-madou-ou-granzort.json) |
 | Madou Run | 253724 | [253724-madou-run.json](./253724-madou-run.json) |
 | Madou Senki: Deep Dungeon | 41232 | [41232-madou-senki-deep-dungeon.json](./41232-madou-senki-deep-dungeon.json) |
 | Madou Sugoroku | 253716 | [253716-madou-sugoroku.json](./253716-madou-sugoroku.json) |
@@ -1506,6 +1507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Capture | 352232 | [352232-magical-capture.json](./352232-magical-capture.json) |
 | Magical Cat Adventure | 39545 | [39545-magical-cat-adventure.json](./39545-magical-cat-adventure.json) |
 | Magical Charming! | 410465 | [410465-magical-charming.json](./410465-magical-charming.json) |
+| Magical Chase | 42126 | [42126-magical-chase.json](./42126-magical-chase.json) |
 | Magical Chase GB | 50052 | [50052-magical-chase-gb.json](./50052-magical-chase-gb.json) |
 | Magical Chaser: Stardust of Dreams | 315061 | [315061-magical-chaser-stardust-of-dreams.json](./315061-magical-chaser-stardust-of-dreams.json) |
 | Magical Christmas Tales: Ten Stories to Warm the Heart | 328504 | [328504-magical-christmas-tales-ten-stories-to-warm-the-heart.json](./328504-magical-christmas-tales-ten-stories-to-warm-the-heart.json) |
@@ -3250,6 +3252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maniac Path 2 | 169387 | [169387-maniac-path-2.json](./169387-maniac-path-2.json) |
 | Maniac Path 3 | 327824 | [327824-maniac-path-3.json](./327824-maniac-path-3.json) |
 | Maniac Path 4 | 370996 | [370996-maniac-path-4.json](./370996-maniac-path-4.json) |
+| Maniac Pro Wrestling | 42070 | [42070-maniac-pro-wrestling.json](./42070-maniac-pro-wrestling.json) |
 | Maniac Pro-Wrestling: Ashita e no Tatakai | 59032 | [59032-maniac-pro-wrestling-ashita-e-no-tatakai.json](./59032-maniac-pro-wrestling-ashita-e-no-tatakai.json) |
 | Maniac Racers Advance | 49439 | [49439-maniac-racers-advance.json](./49439-maniac-racers-advance.json) |
 | Maniac Sports | 69249 | [69249-maniac-sports.json](./69249-maniac-sports.json) |
@@ -16685,6 +16688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Planet 2 | 233426 | [233426-monster-planet-2.json](./233426-monster-planet-2.json) |
 | Monster Poolside Sumo | 263468 | [263468-monster-poolside-sumo.json](./263468-monster-poolside-sumo.json) |
 | Monster Pow | 193720 | [193720-monster-pow.json](./193720-monster-pow.json) |
+| Monster Pro Wrestling | 42069 | [42069-monster-pro-wrestling.json](./42069-monster-pro-wrestling.json) |
 | Monster Prom | 69483 | [69483-monster-prom.json](./69483-monster-prom.json) |
 | Monster Prom 2: Monster Camp | 122195 | [122195-monster-prom-2-monster-camp.json](./122195-monster-prom-2-monster-camp.json) |
 | Monster Prom 2: Monster Camp - Monster Camp Outfit Pack | 262755 | [262755-monster-prom-2-monster-camp-monster-camp-outfit-pack.json](./262755-monster-prom-2-monster-camp-monster-camp-outfit-pack.json) |
@@ -18444,6 +18448,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Racing Highway Traffic | 395772 | [395772-moto-racing-highway-traffic.json](./395772-moto-racing-highway-traffic.json) |
 | Moto Rally Racing VR | 288785 | [288785-moto-rally-racing-vr.json](./288785-moto-rally-racing-vr.json) |
 | Moto Rider Go: Highway Traffic | 104640 | [104640-moto-rider-go-highway-traffic.json](./104640-moto-rider-go-highway-traffic.json) |
+| Moto Roader | 42104 | [42104-moto-roader.json](./42104-moto-roader.json) |
 | Moto Roader II | 37708 | [37708-moto-roader-ii.json](./37708-moto-roader-ii.json) |
 | Moto Roader MC | 79389 | [79389-moto-roader-mc.json](./79389-moto-roader-mc.json) |
 | Moto Roller | 188871 | [188871-moto-roller.json](./188871-moto-roller.json) |
