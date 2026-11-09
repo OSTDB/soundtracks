@@ -6658,6 +6658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Best Play Baseball '90 | 267635 | [267635-the-best-play-baseball-90.json](./267635-the-best-play-baseball-90.json) |
 | The Best Play Baseball II | 267637 | [267637-the-best-play-baseball-ii.json](./267637-the-best-play-baseball-ii.json) |
 | The Best Play Baseball Special | 48545 | [48545-the-best-play-baseball-special.json](./48545-the-best-play-baseball-special.json) |
+| The Best Play Baseball Special | 64450 | [64450-the-best-play-baseball-special.json](./64450-the-best-play-baseball-special.json) |
 | The Best Stories, The Best Time for Us | 114297 | [114297-the-best-stories-the-best-time-for-us.json](./114297-the-best-stories-the-best-time-for-us.json) |
 | The Best Text Adventure | 308410 | [308410-the-best-text-adventure.json](./308410-the-best-text-adventure.json) |
 | The Best Treasure | 302218 | [302218-the-best-treasure.json](./302218-the-best-treasure.json) |
@@ -9492,6 +9493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Falconeer: The Hunter | 148243 | [148243-the-falconeer-the-hunter.json](./148243-the-falconeer-the-hunter.json) |
 | The Falconeer: Warrior Edition | 148040 | [148040-the-falconeer-warrior-edition.json](./148040-the-falconeer-warrior-edition.json) |
 | The Falconers: Moonlight | 29528 | [29528-the-falconers-moonlight.json](./29528-the-falconers-moonlight.json) |
+| The Falklands War 1982 | 64537 | [64537-the-falklands-war-1982.json](./64537-the-falklands-war-1982.json) |
 | The Fall | 335280 | [335280-the-fall.json](./335280-the-fall.json) |
 | The Fall | 9547 | [9547-the-fall.json](./9547-the-fall.json) |
 | The Fall and Rise of Sadcock-upon-Avon | 272057 | [272057-the-fall-and-rise-of-sadcock-upon-avon.json](./272057-the-fall-and-rise-of-sadcock-upon-avon.json) |
@@ -23550,6 +23552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Engineer Saga: Situation Zulu | 416052 | [416052-time-engineer-saga-situation-zulu.json](./416052-time-engineer-saga-situation-zulu.json) |
 | Time Escape: A Prototype | 288602 | [288602-time-escape-a-prototype.json](./288602-time-escape-a-prototype.json) |
 | Time Fantasy | 84431 | [84431-time-fantasy.json](./84431-time-fantasy.json) |
+| Time Fcuk | 64530 | [64530-time-fcuk.json](./64530-time-fcuk.json) |
 | Time Fissure | 288603 | [288603-time-fissure.json](./288603-time-fissure.json) |
 | Time Flies | 204367 | [204367-time-flies.json](./204367-time-flies.json) |
 | Time Flies Like an Arrow | 291022 | [291022-time-flies-like-an-arrow.json](./291022-time-flies-like-an-arrow.json) |
