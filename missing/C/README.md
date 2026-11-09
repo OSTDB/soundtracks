@@ -1819,6 +1819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Capitals Quizzer: Landmarks Mode | 257462 | [257462-capitals-quizzer-landmarks-mode.json](./257462-capitals-quizzer-landmarks-mode.json) |
 | Capitals Quizzer: People Mode | 296526 | [296526-capitals-quizzer-people-mode.json](./296526-capitals-quizzer-people-mode.json) |
 | Capitals Quizzer: Regions Mode | 257463 | [257463-capitals-quizzer-regions-mode.json](./257463-capitals-quizzer-regions-mode.json) |
+| Capitan Sevilla | 39087 | [39087-capitan-sevilla.json](./39087-capitan-sevilla.json) |
 | Capitol Diktatoria | 413908 | [413908-capitol-diktatoria.json](./413908-capitol-diktatoria.json) |
 | Capitol Hill | 94621 | [94621-capitol-hill.json](./94621-capitol-hill.json) |
 | Capoeira Fighter | 291503 | [291503-capoeira-fighter.json](./291503-capoeira-fighter.json) |
@@ -5209,6 +5210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caverns of Mars | 276524 | [276524-caverns-of-mars.json](./276524-caverns-of-mars.json) |
 | Caverns of Mars: Recharged | 233624 | [233624-caverns-of-mars-recharged.json](./233624-caverns-of-mars-recharged.json) |
 | Caverns of Minos | 22681 | [22681-caverns-of-minos.json](./22681-caverns-of-minos.json) |
+| Caverns of the Death | 39086 | [39086-caverns-of-the-death.json](./39086-caverns-of-the-death.json) |
 | Caverns of the Lost Miner | 391799 | [391799-caverns-of-the-lost-miner.json](./391799-caverns-of-the-lost-miner.json) |
 | Caverns of the Molten God | 335020 | [335020-caverns-of-the-molten-god.json](./335020-caverns-of-the-molten-god.json) |
 | Caverns of the Snow Witch | 17871 | [17871-caverns-of-the-snow-witch.json](./17871-caverns-of-the-snow-witch.json) |
@@ -11790,6 +11792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename Madruga | 252897 | [252897-codename-madruga.json](./252897-codename-madruga.json) |
 | Codename Mallow | 139251 | [139251-codename-mallow.json](./139251-codename-mallow.json) |
 | Codename MAT | 13502 | [13502-codename-mat.json](./13502-codename-mat.json) |
+| Codename Mat 3D | 39109 | [39109-codename-mat-3d.json](./39109-codename-mat-3d.json) |
 | Codename Medusa | 395792 | [395792-codename-medusa.json](./395792-codename-medusa.json) |
 | Codename Nemesis | 113646 | [113646-codename-nemesis.json](./113646-codename-nemesis.json) |
 | Codename Prodigy | 156020 | [156020-codename-prodigy.json](./156020-codename-prodigy.json) |
@@ -12204,6 +12207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colin McRae: Dirt 2 - Trust Fund Pack | 237841 | [237841-colin-mcrae-dirt-2-trust-fund-pack.json](./237841-colin-mcrae-dirt-2-trust-fund-pack.json) |
 | Colin the Cleaner | 84232 | [84232-colin-the-cleaner.json](./84232-colin-the-cleaner.json) |
 | Colina: Legacy | 35181 | [35181-colina-legacy.json](./35181-colina-legacy.json) |
+| Coliseum | 39101 | [39101-coliseum.json](./39101-coliseum.json) |
 | Coliseum City Bride | 82750 | [82750-coliseum-city-bride.json](./82750-coliseum-city-bride.json) |
 | Collab Ball | 228207 | [228207-collab-ball.json](./228207-collab-ball.json) |
 | Collaborate | 184262 | [184262-collaborate.json](./184262-collaborate.json) |
@@ -16774,6 +16778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Craftlings | 324569 | [324569-craftlings.json](./324569-craftlings.json) |
 | Craftmas | 105981 | [105981-craftmas.json](./105981-craftmas.json) |
 | Craftomation 101 | 184890 | [184890-craftomation-101.json](./184890-craftomation-101.json) |
+| Crafton et Xunk | 39096 | [39096-crafton-et-xunk.json](./39096-crafton-et-xunk.json) |
 | Craftopia | 124448 | [124448-craftopia.json](./124448-craftopia.json) |
 | CraftOut | 149016 | [149016-craftout.json](./149016-craftout.json) |
 | CraftPunk | 339335 | [339335-craftpunk.json](./339335-craftpunk.json) |
@@ -20536,6 +20541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of Mermos | 35678 | [35678-curse-of-mermos.json](./35678-curse-of-mermos.json) |
 | Curse of Pirates | 361856 | [361856-curse-of-pirates.json](./361856-curse-of-pirates.json) |
 | Curse of Resthaven | 391801 | [391801-curse-of-resthaven.json](./391801-curse-of-resthaven.json) |
+| Curse of Sherwood | 39106 | [39106-curse-of-sherwood.json](./39106-curse-of-sherwood.json) |
 | Curse of Silence | 385753 | [385753-curse-of-silence.json](./385753-curse-of-silence.json) |
 | Curse of the Abandoned Floor | 412198 | [412198-curse-of-the-abandoned-floor.json](./412198-curse-of-the-abandoned-floor.json) |
 | Curse of the Abyss | 370919 | [370919-curse-of-the-abyss.json](./370919-curse-of-the-abyss.json) |
