@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2260,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bank Escape Pro | 68773 | [68773-bank-escape-pro.json](./68773-bank-escape-pro.json) |
 | Bank Heist | 11129 | [11129-bank-heist.json](./11129-bank-heist.json) |
 | Bank It! | 359691 | [359691-bank-it.json](./359691-bank-it.json) |
+| Bank Limit : Advanced Battle Racing | 32337 | [32337-bank-limit-advanced-battle-racing.json](./32337-bank-limit-advanced-battle-racing.json) |
 | Bank Panic | 6083 | [6083-bank-panic.json](./6083-bank-panic.json) |
 | Bank Raid | 218362 | [218362-bank-raid.json](./218362-bank-raid.json) |
 | Bank Robber | 234848 | [234848-bank-robber.json](./234848-bank-robber.json) |
@@ -4923,6 +4925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach anime day | 130238 | [130238-beach-anime-day.json](./130238-beach-anime-day.json) |
 | Beach Badminton | 241710 | [241710-beach-badminton.json](./241710-beach-badminton.json) |
 | Beach Ball Bounce Back | 391141 | [391141-beach-ball-bounce-back.json](./391141-beach-ball-bounce-back.json) |
+| Beach Ball Valley | 33220 | [33220-beach-ball-valley.json](./33220-beach-ball-valley.json) |
 | Beach Bar Simulator | 347355 | [347355-beach-bar-simulator.json](./347355-beach-bar-simulator.json) |
 | Beach Bar VR | 132954 | [132954-beach-bar-vr.json](./132954-beach-bar-vr.json) |
 | Beach Bass | 334210 | [334210-beach-bass.json](./334210-beach-bass.json) |
@@ -5390,6 +5393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beat Mp3 | 249687 | [249687-beat-mp3.json](./249687-beat-mp3.json) |
 | Beat MP3 for YouTube | 213380 | [213380-beat-mp3-for-youtube.json](./213380-beat-mp3-for-youtube.json) |
 | Beat Nebula | 25609 | [25609-beat-nebula.json](./25609-beat-nebula.json) |
+| Beat Ninja | 32326 | [32326-beat-ninja.json](./32326-beat-ninja.json) |
 | Beat of Life | 347311 | [347311-beat-of-life.json](./347311-beat-of-life.json) |
 | Beat of Rebellion | 373532 | [373532-beat-of-rebellion.json](./373532-beat-of-rebellion.json) |
 | Beat of the Pixel Heat | 248833 | [248833-beat-of-the-pixel-heat.json](./248833-beat-of-the-pixel-heat.json) |
@@ -15711,6 +15715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Break through 50 | 148468 | [148468-break-through-50.json](./148468-break-through-50.json) |
 | Break Through the Door | 365034 | [365034-break-through-the-door.json](./365034-break-through-the-door.json) |
 | Break Through the Illusion | 193010 | [193010-break-through-the-illusion.json](./193010-break-through-the-illusion.json) |
+| Break Through: Artificial Maze | 33204 | [33204-break-through-artificial-maze.json](./33204-break-through-artificial-maze.json) |
 | Break Thru the Wall | 213344 | [213344-break-thru-the-wall.json](./213344-break-thru-the-wall.json) |
 | Break Time: The National Pool Tour | 48103 | [48103-break-time-the-national-pool-tour.json](./48103-break-time-the-national-pool-tour.json) |
 | Break Time! | 29813 | [29813-break-time.json](./29813-break-time.json) |
@@ -19029,6 +19034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Button Cat | 339120 | [339120-button-cat.json](./339120-button-cat.json) |
 | Button City | 136980 | [136980-button-city.json](./136980-button-city.json) |
 | Button City: Soccer Days | 252771 | [252771-button-city-soccer-days.json](./252771-button-city-soccer-days.json) |
+| Button Frenzy | 33211 | [33211-button-frenzy.json](./33211-button-frenzy.json) |
 | Button Game: 10 Minutes War | 368484 | [368484-button-game-10-minutes-war.json](./368484-button-game-10-minutes-war.json) |
 | Button Lock | 172304 | [172304-button-lock.json](./172304-button-lock.json) |
 | Button Lock 2: Star Carrier | 201355 | [201355-button-lock-2-star-carrier.json](./201355-button-lock-2-star-carrier.json) |
