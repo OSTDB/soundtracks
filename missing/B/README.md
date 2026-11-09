@@ -1424,10 +1424,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baldr Bullet | 79721 | [79721-baldr-bullet.json](./79721-baldr-bullet.json) |
 | Baldr Fist | 180241 | [180241-baldr-fist.json](./180241-baldr-fist.json) |
 | Baldr Force Exe | 44622 | [44622-baldr-force-exe.json](./44622-baldr-force-exe.json) |
+| Baldr Heart | 56028 | [56028-baldr-heart.json](./56028-baldr-heart.json) |
+| Baldr Heart EXE | 56022 | [56022-baldr-heart-exe.json](./56022-baldr-heart-exe.json) |
 | Baldr Sky | 127153 | [127153-baldr-sky.json](./127153-baldr-sky.json) |
 | Baldr Sky "Zero" | 54941 | [54941-baldr-sky-zero.json](./54941-baldr-sky-zero.json) |
 | Baldr Sky "Zero" Extreme | 182150 | [182150-baldr-sky-zero-extreme.json](./182150-baldr-sky-zero-extreme.json) |
 | Baldr Sky Dive2: Recordare | 396298 | [396298-baldr-sky-dive2-recordare.json](./396298-baldr-sky-dive2-recordare.json) |
+| Baldr Sky DiveX "Dream World" | 56027 | [56027-baldr-sky-divex-dream-world.json](./56027-baldr-sky-divex-dream-world.json) |
 | Baldr Sky: Zero 2 | 54744 | [54744-baldr-sky-zero-2.json](./54744-baldr-sky-zero-2.json) |
 | Baldr's Squid Isekai: A Parody | 273362 | [273362-baldrs-squid-isekai-a-parody.json](./273362-baldrs-squid-isekai-a-parody.json) |
 | Baldrhead: Busou Kinyuu Gaiden | 180223 | [180223-baldrhead-busou-kinyuu-gaiden.json](./180223-baldrhead-busou-kinyuu-gaiden.json) |
@@ -3859,6 +3862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Grand Prix | 42628 | [42628-battle-grand-prix.json](./42628-battle-grand-prix.json) |
 | Battle Grid | 234675 | [234675-battle-grid.json](./234675-battle-grid.json) |
 | Battle Grid Arena | 306333 | [306333-battle-grid-arena.json](./306333-battle-grid-arena.json) |
+| Battle Ground | 56007 | [56007-battle-ground.json](./56007-battle-ground.json) |
 | Battle Ground Battle Royale | 344516 | [344516-battle-ground-battle-royale.json](./344516-battle-ground-battle-royale.json) |
 | Battle Ground Training | 98769 | [98769-battle-ground-training.json](./98769-battle-ground-training.json) |
 | Battle Grounds | 221923 | [221923-battle-grounds.json](./221923-battle-grounds.json) |
