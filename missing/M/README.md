@@ -1260,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Knight Rayearth | 78959 | [78959-magic-knight-rayearth.json](./78959-magic-knight-rayearth.json) |
 | Magic Knight Rayearth 2: Making of Magic Knight | 45265 | [45265-magic-knight-rayearth-2-making-of-magic-knight.json](./45265-magic-knight-rayearth-2-making-of-magic-knight.json) |
 | Magic Labyrinth 3D | 279119 | [279119-magic-labyrinth-3d.json](./279119-magic-labyrinth-3d.json) |
+| Magic Lantern | 29989 | [29989-magic-lantern.json](./29989-magic-lantern.json) |
 | Magic Lantern Festival | 301703 | [301703-magic-lantern-festival.json](./301703-magic-lantern-festival.json) |
 | Magic Lanterns | 74060 | [74060-magic-lanterns.json](./74060-magic-lanterns.json) |
 | Magic League | 99016 | [99016-magic-league.json](./99016-magic-league.json) |
@@ -6307,6 +6308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayan Prophecies: Blood Moon HD | 102501 | [102501-mayan-prophecies-blood-moon-hd.json](./102501-mayan-prophecies-blood-moon-hd.json) |
 | Mayan Prophecies: Cursed Island | 140187 | [140187-mayan-prophecies-cursed-island.json](./140187-mayan-prophecies-cursed-island.json) |
 | Mayan Prophecies: Ship of Spirits | 140188 | [140188-mayan-prophecies-ship-of-spirits.json](./140188-mayan-prophecies-ship-of-spirits.json) |
+| Mayan Prophecies: Ship of Spirits - Collector's Edition | 30005 | [30005-mayan-prophecies-ship-of-spirits-collectors-edition.json](./30005-mayan-prophecies-ship-of-spirits-collectors-edition.json) |
 | Mayan Reynolds | 260664 | [260664-mayan-reynolds.json](./260664-mayan-reynolds.json) |
 | MayaQuest: The Mystery Trail | 73964 | [73964-mayaquest-the-mystery-trail.json](./73964-mayaquest-the-mystery-trail.json) |
 | Mayas' Virtual Brush | 63741 | [63741-mayas-virtual-brush.json](./63741-mayas-virtual-brush.json) |
@@ -8815,6 +8817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mekazoo | 19203 | [19203-mekazoo.json](./19203-mekazoo.json) |
 | Mekkablood: Quarry Assault | 305122 | [305122-mekkablood-quarry-assault.json](./305122-mekkablood-quarry-assault.json) |
 | Mekorama | 58295 | [58295-mekorama.json](./58295-mekorama.json) |
+| Mekside VR | 30016 | [30016-mekside-vr.json](./30016-mekside-vr.json) |
 | Mekururi Witch | 151803 | [151803-mekururi-witch.json](./151803-mekururi-witch.json) |
 | Mekururi: Dizzying Witch | 402673 | [402673-mekururi-dizzying-witch.json](./402673-mekururi-dizzying-witch.json) |
 | Mel Gibson's Safari 3 | 47039 | [47039-mel-gibsons-safari-3.json](./47039-mel-gibsons-safari-3.json) |
@@ -14560,6 +14563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mister Gato Idle: The Meowsiah | 348250 | [348250-mister-gato-idle-the-meowsiah.json](./348250-mister-gato-idle-the-meowsiah.json) |
 | Mister Jump | 106872 | [106872-mister-jump.json](./106872-mister-jump.json) |
 | Mister Mandragora's Special Errands! | 180382 | [180382-mister-mandragoras-special-errands.json](./180382-mister-mandragoras-special-errands.json) |
+| Mister Mart | 29345 | [29345-mister-mart.json](./29345-mister-mart.json) |
 | Mister Mosquito | 317461 | [317461-mister-mosquito.json](./317461-mister-mosquito.json) |
 | Mister Mosquito | 8966 | [8966-mister-mosquito.json](./8966-mister-mosquito.json) |
 | Mister Quizz Et La Malédiction Du Manoir | 85762 | [85762-mister-quizz-et-la-malediction-du-manoir.json](./85762-mister-quizz-et-la-malediction-du-manoir.json) |
@@ -18856,6 +18860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mountain Madness: Super Pro Skiing | 5685 | [5685-mountain-madness-super-pro-skiing.json](./5685-mountain-madness-super-pro-skiing.json) |
 | Mountain Maniac | 66104 | [66104-mountain-maniac.json](./66104-mountain-maniac.json) |
 | Mountain Maniac Xmas | 396423 | [396423-mountain-maniac-xmas.json](./396423-mountain-maniac-xmas.json) |
+| Mountain Mind | 29356 | [29356-mountain-mind.json](./29356-mountain-mind.json) |
 | Mountain of Ape | 249622 | [249622-mountain-of-ape.json](./249622-mountain-of-ape.json) |
 | Mountain Peak Battle Mess | 147685 | [147685-mountain-peak-battle-mess.json](./147685-mountain-peak-battle-mess.json) |
 | Mountain Racing HD | 87394 | [87394-mountain-racing-hd.json](./87394-mountain-racing-hd.json) |
@@ -19531,6 +19536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Triangle Mania 2 | 265857 | [265857-mr-triangle-mania-2.json](./265857-mr-triangle-mania-2.json) |
 | Mr. Triangle The Pizza Delivery Guy Mania Simulator 2k17 | 316362 | [316362-mr-triangle-the-pizza-delivery-guy-mania-simulator-2k17.json](./316362-mr-triangle-the-pizza-delivery-guy-mania-simulator-2k17.json) |
 | Mr. Triangle The Pizza Delivery Guy Mania Simulator 2k17 Turbo HD Remix GOTY 2024 Edition: Coked Up + 1.5 Collection DX Directors Cut & Knuckles | 316364 | [316364-mr-triangle-the-pizza-delivery-guy-mania-simulator-2k17-turbo-hd-remix-goty-2024-edition-coked-up-1-5-collection-dx-directors-cut-and-knuckles.json](./316364-mr-triangle-the-pizza-delivery-guy-mania-simulator-2k17-turbo-hd-remix-goty-2024-edition-coked-up-1-5-collection-dx-directors-cut-and-knuckles.json) |
+| Mr. Triangle's Adventure | 29970 | [29970-mr-triangles-adventure.json](./29970-mr-triangles-adventure.json) |
 | Mr. Triangle's Maze | 204181 | [204181-mr-triangles-maze.json](./204181-mr-triangles-maze.json) |
 | Mr. Troove | 400857 | [400857-mr-troove.json](./400857-mr-troove.json) |
 | Mr. Tuff | 214975 | [214975-mr-tuff.json](./214975-mr-tuff.json) |
