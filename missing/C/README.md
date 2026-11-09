@@ -5514,6 +5514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celtic Kings: Rage of War | 11271 | [11271-celtic-kings-rage-of-war.json](./11271-celtic-kings-rage-of-war.json) |
 | Celtic Lore: Sidhe Hills | 52500 | [52500-celtic-lore-sidhe-hills.json](./52500-celtic-lore-sidhe-hills.json) |
 | Celtic Rumble | 177781 | [177781-celtic-rumble.json](./177781-celtic-rumble.json) |
+| Celtic Tales: Balor of the Evil Eye | 70156 | [70156-celtic-tales-balor-of-the-evil-eye.json](./70156-celtic-tales-balor-of-the-evil-eye.json) |
 | Celtic Tribes | 343804 | [343804-celtic-tribes.json](./343804-celtic-tribes.json) |
 | Celtic Village | 218637 | [218637-celtic-village.json](./218637-celtic-village.json) |
 | Celtic Warfare | 291821 | [291821-celtic-warfare.json](./291821-celtic-warfare.json) |
