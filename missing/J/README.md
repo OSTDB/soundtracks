@@ -1437,6 +1437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetscout: Mystery of Valunians | 174211 | [174211-jetscout-mystery-of-valunians.json](./174211-jetscout-mystery-of-valunians.json) |
 | Jetset | 84327 | [84327-jetset.json](./84327-jetset.json) |
 | JetSet Secrets | 64262 | [64262-jetset-secrets.json](./64262-jetset-secrets.json) |
+| Jetsons: The Computer Game | 15233 | [15233-jetsons-the-computer-game.json](./15233-jetsons-the-computer-game.json) |
 | Jetstrike | 37108 | [37108-jetstrike.json](./37108-jetstrike.json) |
 | Jett Rider | 260657 | [260657-jett-rider.json](./260657-jett-rider.json) |
 | Jett Rider Mini H.E.R.O. | 398965 | [398965-jett-rider-mini-h-e-r-o.json](./398965-jett-rider-mini-h-e-r-o.json) |
@@ -1628,6 +1629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewels of Cleopatra | 54143 | [54143-jewels-of-cleopatra.json](./54143-jewels-of-cleopatra.json) |
 | Jewels of Cleopatra 2 | 54144 | [54144-jewels-of-cleopatra-2.json](./54144-jewels-of-cleopatra-2.json) |
 | Jewels of Cleopatra 2: Aztec Mysteries | 65724 | [65724-jewels-of-cleopatra-2-aztec-mysteries.json](./65724-jewels-of-cleopatra-2-aztec-mysteries.json) |
+| Jewels of Darkness | 15234 | [15234-jewels-of-darkness.json](./15234-jewels-of-darkness.json) |
 | Jewels of Darkness: Adventure Quest | 39160 | [39160-jewels-of-darkness-adventure-quest.json](./39160-jewels-of-darkness-adventure-quest.json) |
 | Jewels of Darkness: Colossal Adventure | 39159 | [39159-jewels-of-darkness-colossal-adventure.json](./39159-jewels-of-darkness-colossal-adventure.json) |
 | Jewels of Darkness: Dungeon Adventure | 39158 | [39158-jewels-of-darkness-dungeon-adventure.json](./39158-jewels-of-darkness-dungeon-adventure.json) |
@@ -2157,6 +2159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jim in the Box | 202019 | [202019-jim-in-the-box.json](./202019-jim-in-the-box.json) |
 | Jim is Moving Out! | 120433 | [120433-jim-is-moving-out.json](./120433-jim-is-moving-out.json) |
 | Jim Lee's Wild C.A.T.S: Covert Action Teams | 42510 | [42510-jim-lees-wild-c-a-t-s-covert-action-teams.json](./42510-jim-lees-wild-c-a-t-s-covert-action-teams.json) |
+| Jim Power in Mutant Planet | 14777 | [14777-jim-power-in-mutant-planet.json](./14777-jim-power-in-mutant-planet.json) |
 | Jim Power: The Arcade Game | 45763 | [45763-jim-power-the-arcade-game.json](./45763-jim-power-the-arcade-game.json) |
 | Jim Power: The Lost Dimension in 3D | 42606 | [42606-jim-power-the-lost-dimension-in-3d.json](./42606-jim-power-the-lost-dimension-in-3d.json) |
 | Jim the Spy | 207179 | [207179-jim-the-spy.json](./207179-jim-the-spy.json) |
@@ -2384,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jo's House | 177391 | [177391-jos-house.json](./177391-jos-house.json) |
 | Joan Jade and the Gates of Xibalba | 53248 | [53248-joan-jade-and-the-gates-of-xibalba.json](./53248-joan-jade-and-the-gates-of-xibalba.json) |
 | Joan Mad Run | 58611 | [58611-joan-mad-run.json](./58611-joan-mad-run.json) |
+| Joan of Arc | 15235 | [15235-joan-of-arc.json](./15235-joan-of-arc.json) |
 | Joan of Arc: The Beginning | 127841 | [127841-joan-of-arc-the-beginning.json](./127841-joan-of-arc-the-beginning.json) |
 | Joanie | 176386 | [176386-joanie.json](./176386-joanie.json) |
 | Job Application Simulator | 183247 | [183247-job-application-simulator.json](./183247-job-application-simulator.json) |
@@ -3483,6 +3487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jump'n Bounce | 78970 | [78970-jumpn-bounce.json](./78970-jumpn-bounce.json) |
 | Jump'n Paint | 114712 | [114712-jumpn-paint.json](./114712-jumpn-paint.json) |
 | Jump'n'Brawl | 221123 | [221123-jumpnbrawl.json](./221123-jumpnbrawl.json) |
+| Jump'N'Shoot Attack! | 14743 | [14743-jumpnshoot-attack.json](./14743-jumpnshoot-attack.json) |
 | Jump/Boxer | 35392 | [35392-jump-boxer.json](./35392-jump-boxer.json) |
 | Jump/Die/Live | 166727 | [166727-jump-die-live.json](./166727-jump-die-live.json) |
 | Jump+ Jumble Rush | 370214 | [370214-jump-jumble-rush.json](./370214-jump-jumble-rush.json) |
