@@ -1029,6 +1029,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xtreme Sports | 49869 | [49869-xtreme-sports.json](./49869-xtreme-sports.json) |
 | Xtreme Sports Arcade: Summer Edition | 205808 | [205808-xtreme-sports-arcade-summer-edition.json](./205808-xtreme-sports-arcade-summer-edition.json) |
 | Xtreme Sports Bundle 2 in 1 | 378839 | [378839-xtreme-sports-bundle-2-in-1.json](./378839-xtreme-sports-bundle-2-in-1.json) |
+| Xtreme Tankz Madness II | 71831 | [71831-xtreme-tankz-madness-ii.json](./71831-xtreme-tankz-madness-ii.json) |
 | Xtreme Traffic Racing | 409310 | [409310-xtreme-traffic-racing.json](./409310-xtreme-traffic-racing.json) |
 | Xtreme Typing | 150660 | [150660-xtreme-typing.json](./150660-xtreme-typing.json) |
 | Xtreme Vertical Racer | 394340 | [394340-xtreme-vertical-racer.json](./394340-xtreme-vertical-racer.json) |
