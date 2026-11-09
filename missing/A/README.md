@@ -3015,6 +3015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Across the Galaxy: Stellar Dominator | 171500 | [171500-across-the-galaxy-stellar-dominator.json](./171500-across-the-galaxy-stellar-dominator.json) |
 | Across the Globe | 214243 | [214243-across-the-globe.json](./214243-across-the-globe.json) |
 | Across the Grooves | 121711 | [121711-across-the-grooves.json](./121711-across-the-grooves.json) |
+| Across the Line | 32345 | [32345-across-the-line.json](./32345-across-the-line.json) |
 | Across the Moment | 29077 | [29077-across-the-moment.json](./29077-across-the-moment.json) |
 | Across the Obelisk: Bernard, the Alchemist | 357777 | [357777-across-the-obelisk-bernard-the-alchemist.json](./357777-across-the-obelisk-bernard-the-alchemist.json) |
 | Across the Obelisk: Necropolis Of The Damned | 378904 | [378904-across-the-obelisk-necropolis-of-the-damned.json](./378904-across-the-obelisk-necropolis-of-the-damned.json) |
@@ -4799,6 +4800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Castles | 319975 | [319975-age-of-castles.json](./319975-age-of-castles.json) |
 | Age of Castles: Snake War | 299342 | [299342-age-of-castles-snake-war.json](./299342-age-of-castles-snake-war.json) |
 | Age of Castles: Warlords | 35183 | [35183-age-of-castles-warlords.json](./35183-age-of-castles-warlords.json) |
+| Age of Cavemen | 33210 | [33210-age-of-cavemen.json](./33210-age-of-cavemen.json) |
 | Age of Caves: Idle Primitive | 212546 | [212546-age-of-caves-idle-primitive.json](./212546-age-of-caves-idle-primitive.json) |
 | Age of Chaos | 231979 | [231979-age-of-chaos.json](./231979-age-of-chaos.json) |
 | Age of Chaos: Legends | 193934 | [193934-age-of-chaos-legends.json](./193934-age-of-chaos-legends.json) |
@@ -6035,6 +6037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AirStrike 3D: Operation W.A.T. | 70123 | [70123-airstrike-3d-operation-w-a-t.json](./70123-airstrike-3d-operation-w-a-t.json) |
 | AirStrike Command: Tactical Assault Operation | 309046 | [309046-airstrike-command-tactical-assault-operation.json](./309046-airstrike-command-tactical-assault-operation.json) |
 | AirStrike Command: Tactical Assault Operation & Helicopter Battle Arena Simulator | 395885 | [395885-airstrike-command-tactical-assault-operation-and-helicopter-battle-arena-simulator.json](./395885-airstrike-command-tactical-assault-operation-and-helicopter-battle-arena-simulator.json) |
+| Airstrike HD | 33228 | [33228-airstrike-hd.json](./33228-airstrike-hd.json) |
 | Airstrike II | 68967 | [68967-airstrike-ii.json](./68967-airstrike-ii.json) |
 | Airstrike II: Gulf Thunder | 593 | [593-airstrike-ii-gulf-thunder.json](./593-airstrike-ii-gulf-thunder.json) |
 | Airstrike One | 65781 | [65781-airstrike-one.json](./65781-airstrike-one.json) |
@@ -17376,6 +17379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -17601,6 +17605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atria | 203839 | [203839-atria.json](./203839-atria.json) |
 | Atria Valkyrie | 159806 | [159806-atria-valkyrie.json](./159806-atria-valkyrie.json) |
 | Atria-1 | 191222 | [191222-atria-1.json](./191222-atria-1.json) |
+| Atriage | 33219 | [33219-atriage.json](./33219-atriage.json) |
 | Atrio: The Dark Wild | 121637 | [121637-atrio-the-dark-wild.json](./121637-atrio-the-dark-wild.json) |
 | Atrion Project | 261732 | [261732-atrion-project.json](./261732-atrion-project.json) |
 | Atrium | 116674 | [116674-atrium.json](./116674-atrium.json) |
@@ -18767,6 +18772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awakening: The Golden Age | 58000 | [58000-awakening-the-golden-age.json](./58000-awakening-the-golden-age.json) |
 | Awakening: The Golden Age - Collector's Edition | 29615 | [29615-awakening-the-golden-age-collectors-edition.json](./29615-awakening-the-golden-age-collectors-edition.json) |
 | Awakening: The Redleaf Forest | 57998 | [57998-awakening-the-redleaf-forest.json](./57998-awakening-the-redleaf-forest.json) |
+| Awakening: The Redleaf Forest - Collector's Edition | 33180 | [33180-awakening-the-redleaf-forest-collectors-edition.json](./33180-awakening-the-redleaf-forest-collectors-edition.json) |
 | Awakening: The Redleaf Forest & Awakening: The Golden Age | 201814 | [201814-awakening-the-redleaf-forest-and-awakening-the-golden-age.json](./201814-awakening-the-redleaf-forest-and-awakening-the-golden-age.json) |
 | Awakening: The Skyward Castle | 63287 | [63287-awakening-the-skyward-castle.json](./63287-awakening-the-skyward-castle.json) |
 | Awakening: The Skyward Castle - Collector's Edition | 89942 | [89942-awakening-the-skyward-castle-collectors-edition.json](./89942-awakening-the-skyward-castle-collectors-edition.json) |
