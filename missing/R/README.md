@@ -7889,6 +7889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ringo Party | 296867 | [296867-ringo-party.json](./296867-ringo-party.json) |
 | Ringo Sour | 98032 | [98032-ringo-sour.json](./98032-ringo-sour.json) |
 | Ringo's Roundup | 292278 | [292278-ringos-roundup.json](./292278-ringos-roundup.json) |
+| Ringognir | 55300 | [55300-ringognir.json](./55300-ringognir.json) |
 | Ringognir 2 | 63737 | [63737-ringognir-2.json](./63737-ringognir-2.json) |
 | Ringognir 3 | 68336 | [68336-ringognir-3.json](./68336-ringognir-3.json) |
 | RingoWord | 241335 | [241335-ringoword.json](./241335-ringoword.json) |
@@ -8114,6 +8115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Nations: Thrones & Patriots | 849 | [849-rise-of-nations-thrones-and-patriots.json](./849-rise-of-nations-thrones-and-patriots.json) |
 | Rise of Nightmares | 20159 | [20159-rise-of-nightmares.json](./20159-rise-of-nightmares.json) |
 | Rise of Nosferacula | 179516 | [179516-rise-of-nosferacula.json](./179516-rise-of-nosferacula.json) |
+| Rise of One | 55357 | [55357-rise-of-one.json](./55357-rise-of-one.json) |
 | Rise of Peles | 152794 | [152794-rise-of-peles.json](./152794-rise-of-peles.json) |
 | Rise of Pico: A Forgotten Hill Tale | 388681 | [388681-rise-of-pico-a-forgotten-hill-tale.json](./388681-rise-of-pico-a-forgotten-hill-tale.json) |
 | Rise of Piracy | 154973 | [154973-rise-of-piracy.json](./154973-rise-of-piracy.json) |
@@ -9073,6 +9075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robo-Key | 181803 | [181803-robo-key.json](./181803-robo-key.json) |
 | Robo-Ninja | 134353 | [134353-robo-ninja.json](./134353-robo-ninja.json) |
 | Robo-Ninja Climb | 134354 | [134354-robo-ninja-climb.json](./134354-robo-ninja-climb.json) |
+| Robo-orders | 55305 | [55305-robo-orders.json](./55305-robo-orders.json) |
 | Robo-Pit 2 | 44975 | [44975-robo-pit-2.json](./44975-robo-pit-2.json) |
 | Robo-Summit | 180683 | [180683-robo-summit.json](./180683-robo-summit.json) |
 | Robo-tea: 1cup! | 178518 | [178518-robo-tea-1cup.json](./178518-robo-tea-1cup.json) |
