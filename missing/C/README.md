@@ -6243,6 +6243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos in Aisle Seven | 223263 | [223263-chaos-in-aisle-seven.json](./223263-chaos-in-aisle-seven.json) |
 | Chaos In Andromeda | 15873 | [15873-chaos-in-andromeda.json](./15873-chaos-in-andromeda.json) |
 | Chaos in the Harem | 383909 | [383909-chaos-in-the-harem.json](./383909-chaos-in-the-harem.json) |
+| Chaos Island: The Lost World - Jurassic Park | 68788 | [68788-chaos-island-the-lost-world-jurassic-park.json](./68788-chaos-island-the-lost-world-jurassic-park.json) |
 | Chaos Islands | 296395 | [296395-chaos-islands.json](./296395-chaos-islands.json) |
 | Chaos Journey | 295021 | [295021-chaos-journey.json](./295021-chaos-journey.json) |
 | Chaos Kart | 157295 | [157295-chaos-kart.json](./157295-chaos-kart.json) |
