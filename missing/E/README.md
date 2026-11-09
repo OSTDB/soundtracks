@@ -8759,10 +8759,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EyeToy: Chat | 262194 | [262194-eyetoy-chat.json](./262194-eyetoy-chat.json) |
 | EyeToy: Groove | 22250 | [22250-eyetoy-groove.json](./22250-eyetoy-groove.json) |
 | EyeToy: Kinetic Combat | 23119 | [23119-eyetoy-kinetic-combat.json](./23119-eyetoy-kinetic-combat.json) |
+| EyeToy: Monkey Mania | 44677 | [44677-eyetoy-monkey-mania.json](./44677-eyetoy-monkey-mania.json) |
 | EyeToy: Operation Spy | 43222 | [43222-eyetoy-operation-spy.json](./43222-eyetoy-operation-spy.json) |
 | EyeToy: Play | 18724 | [18724-eyetoy-play.json](./18724-eyetoy-play.json) |
 | EyeToy: Play 2 | 19842 | [19842-eyetoy-play-2.json](./19842-eyetoy-play-2.json) |
 | EyeToy: Play 3 | 19843 | [19843-eyetoy-play-3.json](./19843-eyetoy-play-3.json) |
+| EyeToy: Play Sports | 44676 | [44676-eyetoy-play-sports.json](./44676-eyetoy-play-sports.json) |
 | Eyewear Cleaner 2077 | 194358 | [194358-eyewear-cleaner-2077.json](./194358-eyewear-cleaner-2077.json) |
 | Eyewinder | 266086 | [266086-eyewinder.json](./266086-eyewinder.json) |
 | Eyewire | 108802 | [108802-eyewire.json](./108802-eyewire.json) |
