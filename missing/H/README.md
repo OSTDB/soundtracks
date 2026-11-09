@@ -859,6 +859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halls of Kairos | 15215 | [15215-halls-of-kairos.json](./15215-halls-of-kairos.json) |
 | Halls of Montezuma: A Battle History of the United States Marine Corps | 12432 | [12432-halls-of-montezuma-a-battle-history-of-the-united-states-marine-corps.json](./12432-halls-of-montezuma-a-battle-history-of-the-united-states-marine-corps.json) |
 | Halls of Nyarlathotep | 373660 | [373660-halls-of-nyarlathotep.json](./373660-halls-of-nyarlathotep.json) |
+| Halls of the Dead: Faery Tale Adventure II | 2493 | [2493-halls-of-the-dead-faery-tale-adventure-ii.json](./2493-halls-of-the-dead-faery-tale-adventure-ii.json) |
 | Halls of the Shambler God | 271313 | [271313-halls-of-the-shambler-god.json](./271313-halls-of-the-shambler-god.json) |
 | Halls of the Things | 45349 | [45349-halls-of-the-things.json](./45349-halls-of-the-things.json) |
 | Halls of Things | 23047 | [23047-halls-of-things.json](./23047-halls-of-things.json) |
