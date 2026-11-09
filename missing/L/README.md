@@ -181,6 +181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | La Prision | 221595 | [221595-la-prision.json](./221595-la-prision.json) |
 | La Pucelle Tactics | 6760 | [6760-la-pucelle-tactics.json](./6760-la-pucelle-tactics.json) |
 | La Pucelle: Ragnarok | 197537 | [197537-la-pucelle-ragnarok.json](./197537-la-pucelle-ragnarok.json) |
+| La Pucelle: Ragnarok | 42741 | [42741-la-pucelle-ragnarok.json](./42741-la-pucelle-ragnarok.json) |
 | La Quête du Dentiste | 301396 | [301396-la-quete-du-dentiste.json](./301396-la-quete-du-dentiste.json) |
 | La Quimera | 333606 | [333606-la-quimera.json](./333606-la-quimera.json) |
 | La Rana | 113611 | [113611-la-rana.json](./113611-la-rana.json) |
@@ -10255,6 +10256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar: Eternal Blue | 5401 | [5401-lunar-eternal-blue.json](./5401-lunar-eternal-blue.json) |
 | Lunar: Sanposuru Gakuen | 46354 | [46354-lunar-sanposuru-gakuen.json](./46354-lunar-sanposuru-gakuen.json) |
 | Lunar: Silver Star Harmony | 13909 | [13909-lunar-silver-star-harmony.json](./13909-lunar-silver-star-harmony.json) |
+| Lunar: Silver Star Harmony - Limited Edition | 42713 | [42713-lunar-silver-star-harmony-limited-edition.json](./42713-lunar-silver-star-harmony-limited-edition.json) |
 | Lunar: Silver Star Story Complete | 13905 | [13905-lunar-silver-star-story-complete.json](./13905-lunar-silver-star-story-complete.json) |
 | Lunar: Silver Star Story Complete - Collector's Edition | 44960 | [44960-lunar-silver-star-story-complete-collectors-edition.json](./44960-lunar-silver-star-story-complete-collectors-edition.json) |
 | Lunar: The Last Human | 220435 | [220435-lunar-the-last-human.json](./220435-lunar-the-last-human.json) |
