@@ -5863,6 +5863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airline Tycoon 2: Gold Edition | 52569 | [52569-airline-tycoon-2-gold-edition.json](./52569-airline-tycoon-2-gold-edition.json) |
 | Airline Tycoon 2: Honey Airlines | 9959 | [9959-airline-tycoon-2-honey-airlines.json](./9959-airline-tycoon-2-honey-airlines.json) |
 | Airline Tycoon Deluxe | 11086 | [11086-airline-tycoon-deluxe.json](./11086-airline-tycoon-deluxe.json) |
+| Airline Tycoon Evolution | 51344 | [51344-airline-tycoon-evolution.json](./51344-airline-tycoon-evolution.json) |
 | Airliner Pilot | 46447 | [46447-airliner-pilot.json](./46447-airliner-pilot.json) |
 | Airlines Deluxe | 159217 | [159217-airlines-deluxe.json](./159217-airlines-deluxe.json) |
 | Airlines Manager | 116437 | [116437-airlines-manager.json](./116437-airlines-manager.json) |
@@ -6997,6 +6998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Arcade Classic | 330694 | [330694-alien-arcade-classic.json](./330694-alien-arcade-classic.json) |
 | Alien Archeologist | 411075 | [411075-alien-archeologist.json](./411075-alien-archeologist.json) |
 | Alien Arena | 39532 | [39532-alien-arena.json](./39532-alien-arena.json) |
+| Alien Arena 2011 | 51324 | [51324-alien-arena-2011.json](./51324-alien-arena-2011.json) |
 | Alien Arena: Map Pack 6 | 223822 | [223822-alien-arena-map-pack-6.json](./223822-alien-arena-map-pack-6.json) |
 | Alien Arena: Warriors of Mars | 51937 | [51937-alien-arena-warriors-of-mars.json](./51937-alien-arena-warriors-of-mars.json) |
 | Alien Arena: Warriors Of Mars - Map Pack 1 | 168014 | [168014-alien-arena-warriors-of-mars-map-pack-1.json](./168014-alien-arena-warriors-of-mars-map-pack-1.json) |
@@ -9065,6 +9067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AMG2 | 208206 | [208206-amg2.json](./208206-amg2.json) |
 | Ami | 129369 | [129369-ami.json](./129369-ami.json) |
 | Ami | 276791 | [276791-ami.json](./276791-ami.json) |
+| Ami Solitaire | 51320 | [51320-ami-solitaire.json](./51320-ami-solitaire.json) |
 | Ami's Room | 216211 | [216211-amis-room.json](./216211-amis-room.json) |
 | Amicade | 254027 | [254027-amicade.json](./254027-amicade.json) |
 | Amicusia | 394123 | [394123-amicusia.json](./394123-amicusia.json) |
@@ -17294,6 +17297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -17567,6 +17571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attack of Insects | 56655 | [56655-attack-of-insects.json](./56655-attack-of-insects.json) |
 | Attack of Jeff the Killer: Scary Slender Life | 63154 | [63154-attack-of-jeff-the-killer-scary-slender-life.json](./63154-attack-of-jeff-the-killer-scary-slender-life.json) |
 | Attack of Mutants | 110466 | [110466-attack-of-mutants.json](./110466-attack-of-mutants.json) |
+| Attack of the 50ft Robot! | 51298 | [51298-attack-of-the-50ft-robot.json](./51298-attack-of-the-50ft-robot.json) |
 | Attack of the Alien Robot Monsters | 114745 | [114745-attack-of-the-alien-robot-monsters.json](./114745-attack-of-the-alien-robot-monsters.json) |
 | Attack of the alien thingies from lava! | 129617 | [129617-attack-of-the-alien-thingies-from-lava.json](./129617-attack-of-the-alien-thingies-from-lava.json) |
 | Attack of the Astrals | 384306 | [384306-attack-of-the-astrals.json](./384306-attack-of-the-astrals.json) |
