@@ -2507,6 +2507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm and Mine | 184858 | [184858-farm-and-mine.json](./184858-farm-and-mine.json) |
 | Farm Animals - Activity Book | 96059 | [96059-farm-animals-activity-book.json](./96059-farm-animals-activity-book.json) |
 | Farm Animals Hospital Doctor 3 | 99341 | [99341-farm-animals-hospital-doctor-3.json](./99341-farm-animals-hospital-doctor-3.json) |
+| Farm Away! | 58942 | [58942-farm-away.json](./58942-farm-away.json) |
 | Farm Boy | 92507 | [92507-farm-boy.json](./92507-farm-boy.json) |
 | Farm Builder | 147255 | [147255-farm-builder.json](./147255-farm-builder.json) |
 | Farm Business | 111990 | [111990-farm-business.json](./111990-farm-business.json) |
@@ -9564,6 +9565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager Handheld 2015 | 380663 | [380663-football-manager-handheld-2015.json](./380663-football-manager-handheld-2015.json) |
 | Football Manager Lifestyle 24 | 295217 | [295217-football-manager-lifestyle-24.json](./295217-football-manager-lifestyle-24.json) |
 | Football Manager Live | 21249 | [21249-football-manager-live.json](./21249-football-manager-live.json) |
+| Football Manager Mobile 2016 | 58378 | [58378-football-manager-mobile-2016.json](./58378-football-manager-mobile-2016.json) |
 | Football Manager Quiz | 318991 | [318991-football-manager-quiz.json](./318991-football-manager-quiz.json) |
 | Football Manager Touch 2016 | 371216 | [371216-football-manager-touch-2016.json](./371216-football-manager-touch-2016.json) |
 | Football Manager Touch 2017 | 32494 | [32494-football-manager-touch-2017.json](./32494-football-manager-touch-2017.json) |
