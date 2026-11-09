@@ -2779,6 +2779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted Heye Apartment | 245811 | [245811-haunted-heye-apartment.json](./245811-haunted-heye-apartment.json) |
 | Haunted Hill | 245123 | [245123-haunted-hill.json](./245123-haunted-hill.json) |
 | Haunted Hill | 276390 | [276390-haunted-hill.json](./276390-haunted-hill.json) |
+| Haunted Hollow | 63437 | [63437-haunted-hollow.json](./63437-haunted-hollow.json) |
 | Haunted Home AR | 82294 | [82294-haunted-home-ar.json](./82294-haunted-home-ar.json) |
 | Haunted Horror Stories: Gone With The Wind | 249544 | [249544-haunted-horror-stories-gone-with-the-wind.json](./249544-haunted-horror-stories-gone-with-the-wind.json) |
 | Haunted Hotel | 146857 | [146857-haunted-hotel.json](./146857-haunted-hotel.json) |
@@ -4035,6 +4036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heldric: The Legend of the Shoemaker | 17233 | [17233-heldric-the-legend-of-the-shoemaker.json](./17233-heldric-the-legend-of-the-shoemaker.json) |
 | Heldritch Rush | 422038 | [422038-heldritch-rush.json](./422038-heldritch-rush.json) |
 | Helen | 272210 | [272210-helen.json](./272210-helen.json) |
+| Helen - Castle In Wonderland | 63447 | [63447-helen-castle-in-wonderland.json](./63447-helen-castle-in-wonderland.json) |
 | Helen in Hell | 318371 | [318371-helen-in-hell.json](./318371-helen-in-hell.json) |
 | Helen Keller Simulator | 412205 | [412205-helen-keller-simulator.json](./412205-helen-keller-simulator.json) |
 | Helen's Doll House | 184269 | [184269-helens-doll-house.json](./184269-helens-doll-house.json) |
