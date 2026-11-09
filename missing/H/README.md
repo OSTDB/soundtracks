@@ -6279,6 +6279,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Arcana | 211759 | [211759-heroes-of-arcana.json](./211759-heroes-of-arcana.json) |
 | Heroes of Ark | 56853 | [56853-heroes-of-ark.json](./56853-heroes-of-ark.json) |
 | Heroes of Artadis | 378340 | [378340-heroes-of-artadis.json](./378340-heroes-of-artadis.json) |
+| Heroes of Arzar | 76839 | [76839-heroes-of-arzar.json](./76839-heroes-of-arzar.json) |
 | Heroes of Avranche | 125045 | [125045-heroes-of-avranche.json](./125045-heroes-of-avranche.json) |
 | Heroes of Blast | 174718 | [174718-heroes-of-blast.json](./174718-heroes-of-blast.json) |
 | Heroes of Book & Paper | 199506 | [199506-heroes-of-book-and-paper.json](./199506-heroes-of-book-and-paper.json) |
@@ -9201,6 +9202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Stem | 297792 | [297792-hollow-stem.json](./297792-hollow-stem.json) |
 | Hollow Steps | 88235 | [88235-hollow-steps.json](./88235-hollow-steps.json) |
 | Hollow Survivors | 236864 | [236864-hollow-survivors.json](./236864-hollow-survivors.json) |
+| Hollow Throne | 76812 | [76812-hollow-throne.json](./76812-hollow-throne.json) |
 | Hollow Treats | 378207 | [378207-hollow-treats.json](./378207-hollow-treats.json) |
 | Hollow Victory | 259529 | [259529-hollow-victory.json](./259529-hollow-victory.json) |
 | Hollow Witch | 143998 | [143998-hollow-witch.json](./143998-hollow-witch.json) |
