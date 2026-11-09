@@ -3317,6 +3317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Technōs Arcade I | 149286 | [149286-technos-arcade-i.json](./149286-technos-arcade-i.json) |
 | Technōs Collection I | 130692 | [130692-technos-collection-i.json](./130692-technos-collection-i.json) |
 | TechnoSorcery | 333610 | [333610-technosorcery.json](./333610-technosorcery.json) |
+| Technosphere | 75311 | [75311-technosphere.json](./75311-technosphere.json) |
 | Technosphere Reload | 116829 | [116829-technosphere-reload.json](./116829-technosphere-reload.json) |
 | Technotopia | 291318 | [291318-technotopia.json](./291318-technotopia.json) |
 | TechnoTsunami | 132601 | [132601-technotsunami.json](./132601-technotsunami.json) |
@@ -3437,6 +3438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teel Me You! | 181361 | [181361-teel-me-you.json](./181361-teel-me-you.json) |
 | Teemo Jump! | 150052 | [150052-teemo-jump.json](./150052-teemo-jump.json) |
 | Teen BMX Stunt Bike | 93935 | [93935-teen-bmx-stunt-bike.json](./93935-teen-bmx-stunt-bike.json) |
+| Teen Date Simulator | 75321 | [75321-teen-date-simulator.json](./75321-teen-date-simulator.json) |
 | Teen Patti Gold | 169896 | [169896-teen-patti-gold.json](./169896-teen-patti-gold.json) |
 | Teen Patti Octro | 169878 | [169878-teen-patti-octro.json](./169878-teen-patti-octro.json) |
 | Teen Titans | 4195 | [4195-teen-titans.json](./4195-teen-titans.json) |
@@ -7044,6 +7046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The BreakFive | 339214 | [339214-the-breakfive.json](./339214-the-breakfive.json) |
 | The Breakup Arena | 304489 | [304489-the-breakup-arena.json](./304489-the-breakup-arena.json) |
 | the Breath. | 59242 | [59242-the-breath.json](./59242-the-breath.json) |
+| The Breeding: The Fog | 75384 | [75384-the-breeding-the-fog.json](./75384-the-breeding-the-fog.json) |
 | The Brew Barons | 149850 | [149850-the-brew-barons.json](./149850-the-brew-barons.json) |
 | The Brewline | 389336 | [389336-the-brewline.json](./389336-the-brewline.json) |
 | The Brick | 13440 | [13440-the-brick.json](./13440-the-brick.json) |
@@ -24554,6 +24557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titeuf | 169133 | [169133-titeuf.json](./169133-titeuf.json) |
 | Titeuf: Le Film | 268430 | [268430-titeuf-le-film.json](./268430-titeuf-le-film.json) |
 | Titeuf: Méga-Compet' | 46494 | [46494-titeuf-mega-compet.json](./46494-titeuf-mega-compet.json) |
+| Titeuf: Mission Nadia | 75350 | [75350-titeuf-mission-nadia.json](./75350-titeuf-mission-nadia.json) |
 | Titeuf: Ze Gag Machine | 125558 | [125558-titeuf-ze-gag-machine.json](./125558-titeuf-ze-gag-machine.json) |
 | Titi Drop | 356966 | [356966-titi-drop.json](./356966-titi-drop.json) |
 | Titjob Battle | 83363 | [83363-titjob-battle.json](./83363-titjob-battle.json) |
