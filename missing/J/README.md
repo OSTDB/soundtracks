@@ -1101,6 +1101,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jennifer | 141256 | [141256-jennifer.json](./141256-jennifer.json) |
 | Jennifer Capriati Tennis | 46205 | [46205-jennifer-capriati-tennis.json](./46205-jennifer-capriati-tennis.json) |
 | Jennifer Janowski is Doomed | 242818 | [242818-jennifer-janowski-is-doomed.json](./242818-jennifer-janowski-is-doomed.json) |
+| Jennifer Wilde | 69390 | [69390-jennifer-wilde.json](./69390-jennifer-wilde.json) |
 | Jennifer Wilde: Unlikely Revolutionaries | 151177 | [151177-jennifer-wilde-unlikely-revolutionaries.json](./151177-jennifer-wilde-unlikely-revolutionaries.json) |
 | Jennifer's Fragments | 270056 | [270056-jennifers-fragments.json](./270056-jennifers-fragments.json) |
 | Jennifer's Lustful Journey | 340771 | [340771-jennifers-lustful-journey.json](./340771-jennifers-lustful-journey.json) |
@@ -1647,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jiàn Xiá Qíngyuán Wàizhuàn: Yuè Yǐng Chuánshuō | 350567 | [350567-jian-xia-qingyuan-waizhuan-yue-ying-chuanshuo.json](./350567-jian-xia-qingyuan-waizhuan-yue-ying-chuanshuo.json) |
 | Jian Xiao Travel | 303325 | [303325-jian-xiao-travel.json](./303325-jian-xiao-travel.json) |
 | Jian Yu Ji Ban | 158853 | [158853-jian-yu-ji-ban.json](./158853-jian-yu-ji-ban.json) |
+| Jiàn zhī Hún | 68863 | [68863-jian-zhi-hun.json](./68863-jian-zhi-hun.json) |
 | Jiānchén Xǐyuān Lù | 395114 | [395114-jianchen-xiyuan-lu.json](./395114-jianchen-xiyuan-lu.json) |
 | Jiàndào Xiānyǔ | 147387 | [147387-jiandao-xianyu.json](./147387-jiandao-xianyu.json) |
 | Jiang Yao Shen Bing | 158502 | [158502-jiang-yao-shen-bing.json](./158502-jiang-yao-shen-bing.json) |
