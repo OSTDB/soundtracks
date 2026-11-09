@@ -3918,6 +3918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures in Flesh | 281330 | [281330-adventures-in-flesh.json](./281330-adventures-in-flesh.json) |
 | Adventures in Heaven | 299013 | [299013-adventures-in-heaven.json](./299013-adventures-in-heaven.json) |
 | Adventures in Lestoria | 282624 | [282624-adventures-in-lestoria.json](./282624-adventures-in-lestoria.json) |
+| Adventures in Letter Land with Jack & Jill | 46065 | [46065-adventures-in-letter-land-with-jack-and-jill.json](./46065-adventures-in-letter-land-with-jack-and-jill.json) |
 | Adventures in Math | 14225 | [14225-adventures-in-math.json](./14225-adventures-in-math.json) |
 | Adventures in Math | 62154 | [62154-adventures-in-math.json](./62154-adventures-in-math.json) |
 | Adventures in Morality: An Interactive Case Study | 159475 | [159475-adventures-in-morality-an-interactive-case-study.json](./159475-adventures-in-morality-an-interactive-case-study.json) |
@@ -4002,6 +4003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures on The Polluted Islands | 27721 | [27721-adventures-on-the-polluted-islands.json](./27721-adventures-on-the-polluted-islands.json) |
 | Adventures Through McDonaldland | 133595 | [133595-adventures-through-mcdonaldland.json](./133595-adventures-through-mcdonaldland.json) |
 | Adventures to Go | 274849 | [274849-adventures-to-go.json](./274849-adventures-to-go.json) |
+| Adventures to Go! | 46016 | [46016-adventures-to-go.json](./46016-adventures-to-go.json) |
 | Adventures With a Girl | 168602 | [168602-adventures-with-a-girl.json](./168602-adventures-with-a-girl.json) |
 | Adventures with Alan Parkour 3D | 369557 | [369557-adventures-with-alan-parkour-3d.json](./369557-adventures-with-alan-parkour-3d.json) |
 | Adventures With Anxiety! | 141645 | [141645-adventures-with-anxiety.json](./141645-adventures-with-anxiety.json) |
@@ -5059,6 +5061,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Hugo: Hula Holiday | 43512 | [43512-agent-hugo-hula-holiday.json](./43512-agent-hugo-hula-holiday.json) |
 | Agent Hugo: Lemoon Twist | 43252 | [43252-agent-hugo-lemoon-twist.json](./43252-agent-hugo-lemoon-twist.json) |
 | Agent Hugo: Roborumble | 141696 | [141696-agent-hugo-roborumble.json](./141696-agent-hugo-roborumble.json) |
+| Agent Hugo: Roborumble | 46037 | [46037-agent-hugo-roborumble.json](./46037-agent-hugo-roborumble.json) |
 | Agent in Depth | 216716 | [216716-agent-in-depth.json](./216716-agent-in-depth.json) |
 | Agent Intercept | 122635 | [122635-agent-intercept.json](./122635-agent-intercept.json) |
 | Agent Jump | 255496 | [255496-agent-jump.json](./255496-agent-jump.json) |
@@ -5694,6 +5697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Raid: This Is Not a Drill! | 52370 | [52370-air-raid-this-is-not-a-drill.json](./52370-air-raid-this-is-not-a-drill.json) |
 | Air Raiders | 11114 | [11114-air-raiders.json](./11114-air-raiders.json) |
 | Air Ranger 2: Rescue Helicopter | 68268 | [68268-air-ranger-2-rescue-helicopter.json](./68268-air-ranger-2-rescue-helicopter.json) |
+| Air Ranger Rescue Helicopter | 46036 | [46036-air-ranger-rescue-helicopter.json](./46036-air-ranger-rescue-helicopter.json) |
 | Air Rescue | 45671 | [45671-air-rescue.json](./45671-air-rescue.json) |
 | Air Rescue I | 318916 | [318916-air-rescue-i.json](./318916-air-rescue-i.json) |
 | Air Royale | 314232 | [314232-air-royale.json](./314232-air-royale.json) |
@@ -6689,6 +6693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alex Hunter: Lord of the Mind | 30374 | [30374-alex-hunter-lord-of-the-mind.json](./30374-alex-hunter-lord-of-the-mind.json) |
 | Alex Hunter: Lord of the Mind - Platinum Edition | 52383 | [52383-alex-hunter-lord-of-the-mind-platinum-edition.json](./52383-alex-hunter-lord-of-the-mind-platinum-edition.json) |
 | Alex Hunter: Lord of the Mind HD | 105936 | [105936-alex-hunter-lord-of-the-mind-hd.json](./105936-alex-hunter-lord-of-the-mind-hd.json) |
+| Alex Kidd 3: Curse in Miracle World | 45637 | [45637-alex-kidd-3-curse-in-miracle-world.json](./45637-alex-kidd-3-curse-in-miracle-world.json) |
 | Alex Kidd and the Miracle Gems | 376442 | [376442-alex-kidd-and-the-miracle-gems.json](./376442-alex-kidd-and-the-miracle-gems.json) |
 | Alex Kidd in Miracle World | 26778 | [26778-alex-kidd-in-miracle-world.json](./26778-alex-kidd-in-miracle-world.json) |
 | Alex Kidd in Miracle World 2 | 339438 | [339438-alex-kidd-in-miracle-world-2.json](./339438-alex-kidd-in-miracle-world-2.json) |
@@ -9077,6 +9082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AMF Bowling World Lanes | 4673 | [4673-amf-bowling-world-lanes.json](./4673-amf-bowling-world-lanes.json) |
 | AMF Pro Bowl 3D | 93999 | [93999-amf-pro-bowl-3d.json](./93999-amf-pro-bowl-3d.json) |
 | AMF Xtreme Bowling 2006 | 5724 | [5724-amf-xtreme-bowling-2006.json](./5724-amf-xtreme-bowling-2006.json) |
+| AMF: Extreme Bowling | 46035 | [46035-amf-extreme-bowling.json](./46035-amf-extreme-bowling.json) |
 | AMFM | 315622 | [315622-amfm.json](./315622-amfm.json) |
 | AMG | 153143 | [153143-amg.json](./153143-amg.json) |
 | AMG2 | 208206 | [208206-amg2.json](./208206-amg2.json) |
@@ -13353,6 +13359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade ZX Collection: Tetris | 304193 | [304193-arcade-zx-collection-tetris.json](./304193-arcade-zx-collection-tetris.json) |
 | Arcade-opoly | 103740 | [103740-arcade-opoly.json](./103740-arcade-opoly.json) |
 | Arcade! Classic Arcade Pack | 242137 | [242137-arcade-classic-arcade-pack.json](./242137-arcade-classic-arcade-pack.json) |
+| Arcade's Greatest Hits: The Atari Collection 1 | 46045 | [46045-arcades-greatest-hits-the-atari-collection-1.json](./46045-arcades-greatest-hits-the-atari-collection-1.json) |
 | Arcade's Greatest Hits: The Atari Collection 2 | 43925 | [43925-arcades-greatest-hits-the-atari-collection-2.json](./43925-arcades-greatest-hits-the-atari-collection-2.json) |
 | Arcade's Greatest Hits: The Midway Collection 2 | 43924 | [43924-arcades-greatest-hits-the-midway-collection-2.json](./43924-arcades-greatest-hits-the-midway-collection-2.json) |
 | Arcadebnb | 187220 | [187220-arcadebnb.json](./187220-arcadebnb.json) |
@@ -17322,7 +17329,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
