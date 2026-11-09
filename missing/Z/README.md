@@ -1751,6 +1751,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Golf | 121983 | [121983-zombie-golf.json](./121983-zombie-golf.json) |
 | Zombie Good Guy | 188788 | [188788-zombie-good-guy.json](./188788-zombie-good-guy.json) |
 | Zombie Gorge: Survival Defense | 385064 | [385064-zombie-gorge-survival-defense.json](./385064-zombie-gorge-survival-defense.json) |
+| Zombie Gotchi | 34523 | [34523-zombie-gotchi.json](./34523-zombie-gotchi.json) |
 | Zombie Graveyard Simulator | 333007 | [333007-zombie-graveyard-simulator.json](./333007-zombie-graveyard-simulator.json) |
 | Zombie Grenades Practice | 93665 | [93665-zombie-grenades-practice.json](./93665-zombie-grenades-practice.json) |
 | Zombie Grinder | 86124 | [86124-zombie-grinder.json](./86124-zombie-grinder.json) |
@@ -2735,6 +2736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZXD: Zombie Xtinction Defense | 328318 | [328318-zxd-zombie-xtinction-defense.json](./328318-zxd-zombie-xtinction-defense.json) |
 | ZXE-D: Legend of Plasmalite | 45071 | [45071-zxe-d-legend-of-plasmalite.json](./45071-zxe-d-legend-of-plasmalite.json) |
 | ZXFM | 289114 | [289114-zxfm.json](./289114-zxfm.json) |
+| Zxill: A Legend of Time | 34568 | [34568-zxill-a-legend-of-time.json](./34568-zxill-a-legend-of-time.json) |
 | ZXnake | 289127 | [289127-zxnake.json](./289127-zxnake.json) |
 | ZXombies! | 281532 | [281532-zxombies.json](./281532-zxombies.json) |
 | ZxZ | 307621 | [307621-zxz.json](./307621-zxz.json) |
