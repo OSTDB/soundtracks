@@ -5963,6 +5963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champ Kong | 94576 | [94576-champ-kong.json](./94576-champ-kong.json) |
 | Champ Man | 63023 | [63023-champ-man.json](./63023-champ-man.json) |
 | Champ Man 15 | 60223 | [60223-champ-man-15.json](./60223-champ-man-15.json) |
+| Champ Man 16 | 58377 | [58377-champ-man-16.json](./58377-champ-man-16.json) |
 | Champ Ms. Pac-em | 92896 | [92896-champ-ms-pac-em.json](./92896-champ-ms-pac-em.json) |
 | Champ's Nightmare | 238076 | [238076-champs-nightmare.json](./238076-champs-nightmare.json) |
 | Champi | 338508 | [338508-champi.json](./338508-champi.json) |
@@ -10721,6 +10722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climate Survivors | 306307 | [306307-climate-survivors.json](./306307-climate-survivors.json) |
 | Climatic Survival: Northern Storm | 121485 | [121485-climatic-survival-northern-storm.json](./121485-climatic-survival-northern-storm.json) |
 | Climax Landers: Motte ke! Minige Campaign | 283331 | [283331-climax-landers-motte-ke-minige-campaign.json](./283331-climax-landers-motte-ke-minige-campaign.json) |
+| Climax Tennis: WTA Tour Edition | 58387 | [58387-climax-tennis-wta-tour-edition.json](./58387-climax-tennis-wta-tour-edition.json) |
 | Climb | 103965 | [103965-climb.json](./103965-climb.json) |
 | Climb | 182760 | [182760-climb.json](./182760-climb.json) |
 | Climb | 184158 | [184158-climb.json](./184158-climb.json) |
@@ -11186,6 +11188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Club Girl | 405272 | [405272-club-girl.json](./405272-club-girl.json) |
 | Club Goblin | 184642 | [184642-club-goblin.json](./184642-club-goblin.json) |
 | Club Hentai: Girls, Love, Sex | 149426 | [149426-club-hentai-girls-love-sex.json](./149426-club-hentai-girls-love-sex.json) |
+| Club Kart: European Session | 58383 | [58383-club-kart-european-session.json](./58383-club-kart-european-session.json) |
 | Club Koala | 293555 | [293555-club-koala.json](./293555-club-koala.json) |
 | Club Life Visual Novel | 197767 | [197767-club-life-visual-novel.json](./197767-club-life-visual-novel.json) |
 | Club Lipstick VR | 157217 | [157217-club-lipstick-vr.json](./157217-club-lipstick-vr.json) |
@@ -20011,6 +20014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubis | 251044 | [251044-cubis.json](./251044-cubis.json) |
 | Cubis 2 | 93220 | [93220-cubis-2.json](./93220-cubis-2.json) |
 | Cubis Creatures | 253017 | [253017-cubis-creatures.json](./253017-cubis-creatures.json) |
+| Cubis for Cash | 58910 | [58910-cubis-for-cash.json](./58910-cubis-for-cash.json) |
 | Cubis Gold 2 | 208807 | [208807-cubis-gold-2.json](./208807-cubis-gold-2.json) |
 | Cubis Kingdoms | 74403 | [74403-cubis-kingdoms.json](./74403-cubis-kingdoms.json) |
 | Cubiscape | 207824 | [207824-cubiscape.json](./207824-cubiscape.json) |
