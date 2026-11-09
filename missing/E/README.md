@@ -43,6 +43,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E.S.P. | 145658 | [145658-e-s-p.json](./145658-e-s-p.json) |
 | E.S.S. Mega | 84246 | [84246-e-s-s-mega.json](./84246-e-s-s-mega.json) |
 | E.T. Book Cart | 91493 | [91493-e-t-book-cart.json](./91493-e-t-book-cart.json) |
+| E.T. Phone Home! | 68781 | [68781-e-t-phone-home.json](./68781-e-t-phone-home.json) |
 | E.T. the Extra Terrestrial: Digital Companion | 278776 | [278776-e-t-the-extra-terrestrial-digital-companion.json](./278776-e-t-the-extra-terrestrial-digital-companion.json) |
 | E.T. the Extra-Terrestrial | 6706 | [6706-e-t-the-extra-terrestrial.json](./6706-e-t-the-extra-terrestrial.json) |
 | E.T. the Extra-Terrestrial Fixed | 335114 | [335114-e-t-the-extra-terrestrial-fixed.json](./335114-e-t-the-extra-terrestrial-fixed.json) |
@@ -6088,6 +6089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Essentia: A Monster Catching Adventure | 389333 | [389333-essentia-a-monster-catching-adventure.json](./389333-essentia-a-monster-catching-adventure.json) |
 | Essential Mayhem | 159739 | [159739-essential-mayhem.json](./159739-essential-mayhem.json) |
 | Essential Power | 369038 | [369038-essential-power.json](./369038-essential-power.json) |
+| Essential Sudoku DS | 68784 | [68784-essential-sudoku-ds.json](./68784-essential-sudoku-ds.json) |
 | Essentures | 115455 | [115455-essentures.json](./115455-essentures.json) |
 | Essex | 25893 | [25893-essex.json](./25893-essex.json) |
 | Essex: The Whale Hunter | 173930 | [173930-essex-the-whale-hunter.json](./173930-essex-the-whale-hunter.json) |
