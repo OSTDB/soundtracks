@@ -2513,6 +2513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D MiniGolf: Makeover-Edition | 327436 | [327436-3d-minigolf-makeover-edition.json](./327436-3d-minigolf-makeover-edition.json) |
 | 3D MMO Villagers & Heroes | 90032 | [90032-3d-mmo-villagers-and-heroes.json](./90032-3d-mmo-villagers-and-heroes.json) |
 | 3D Modern Tower | 357832 | [357832-3d-modern-tower.json](./357832-3d-modern-tower.json) |
+| 3D Monster Maze | 25117 | [25117-3d-monster-maze.json](./25117-3d-monster-maze.json) |
 | 3D Morpion | 324513 | [324513-3d-morpion.json](./324513-3d-morpion.json) |
 | 3D Movie Maker | 263635 | [263635-3d-movie-maker.json](./263635-3d-movie-maker.json) |
 | 3D Ms. Maze: Tropical Adventures | 62960 | [62960-3d-ms-maze-tropical-adventures.json](./62960-3d-ms-maze-tropical-adventures.json) |
@@ -2967,6 +2968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4x4 OffRoad Collection | 283203 | [283203-4x4-offroad-collection.json](./283203-4x4-offroad-collection.json) |
 | 4x4 Offroad Driver | 219294 | [219294-4x4-offroad-driver.json](./219294-4x4-offroad-driver.json) |
 | 4x4 Offroad Driver 2 | 237552 | [237552-4x4-offroad-driver-2.json](./237552-4x4-offroad-driver-2.json) |
+| 4x4 Offroad Racing Nitro | 30983 | [30983-4x4-offroad-racing-nitro.json](./30983-4x4-offroad-racing-nitro.json) |
 | 4x4 Offroader | 243314 | [243314-4x4-offroader.json](./243314-4x4-offroader.json) |
 | 4X4 Progress | 333648 | [333648-4x4-progress.json](./333648-4x4-progress.json) |
 | 4X4 Progress: Civilization Pack I | 377386 | [377386-4x4-progress-civilization-pack-i.json](./377386-4x4-progress-civilization-pack-i.json) |
