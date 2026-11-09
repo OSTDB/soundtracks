@@ -4383,6 +4383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orion: The Eternal Punishment | 149900 | [149900-orion-the-eternal-punishment.json](./149900-orion-the-eternal-punishment.json) |
 | Orion's Belt Expedition | 341516 | [341516-orions-belt-expedition.json](./341516-orions-belt-expedition.json) |
 | Orion's End | 211797 | [211797-orions-end.json](./211797-orions-end.json) |
+| Orion's Forge | 63905 | [63905-orions-forge.json](./63905-orions-forge.json) |
 | Orion's Odyssey | 85322 | [85322-orions-odyssey.json](./85322-orions-odyssey.json) |
 | Orion13 | 123813 | [123813-orion13.json](./123813-orion13.json) |
 | Orion71 Shooter Mayhem Arena | 310838 | [310838-orion71-shooter-mayhem-arena.json](./310838-orion71-shooter-mayhem-arena.json) |
