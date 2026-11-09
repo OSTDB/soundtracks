@@ -87,6 +87,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M&M's Adventure | 50668 | [50668-m-and-ms-adventure.json](./50668-m-and-ms-adventure.json) |
 | M&M's Beach Party | 50703 | [50703-m-and-ms-beach-party.json](./50703-m-and-ms-beach-party.json) |
 | M&M's Blast! | 49330 | [49330-m-and-ms-blast.json](./49330-m-and-ms-blast.json) |
+| M&M's Break 'Em | 49422 | [49422-m-and-ms-break-em.json](./49422-m-and-ms-break-em.json) |
 | M&M's Kart Racing | 3296 | [3296-m-and-ms-kart-racing.json](./3296-m-and-ms-kart-racing.json) |
 | M&M's Kart Racing | 47923 | [47923-m-and-ms-kart-racing.json](./47923-m-and-ms-kart-racing.json) |
 | M&M's Minis Madness | 49918 | [49918-m-and-ms-minis-madness.json](./49918-m-and-ms-minis-madness.json) |
@@ -3244,6 +3245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maniac Path 3 | 327824 | [327824-maniac-path-3.json](./327824-maniac-path-3.json) |
 | Maniac Path 4 | 370996 | [370996-maniac-path-4.json](./370996-maniac-path-4.json) |
 | Maniac Pro-Wrestling: Ashita e no Tatakai | 59032 | [59032-maniac-pro-wrestling-ashita-e-no-tatakai.json](./59032-maniac-pro-wrestling-ashita-e-no-tatakai.json) |
+| Maniac Racers Advance | 49439 | [49439-maniac-racers-advance.json](./49439-maniac-racers-advance.json) |
 | Maniac Sports | 69249 | [69249-maniac-sports.json](./69249-maniac-sports.json) |
 | Maniac Square | 122239 | [122239-maniac-square.json](./122239-maniac-square.json) |
 | Maniac Square | 289133 | [289133-maniac-square.json](./289133-maniac-square.json) |
