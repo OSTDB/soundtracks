@@ -2173,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang Banger! Aim Trainer | 398101 | [398101-bang-banger-aim-trainer.json](./398101-bang-banger-aim-trainer.json) |
 | Bang Bead | 40235 | [40235-bang-bead.json](./40235-bang-bead.json) |
 | Bang Dream! Garupa AR! | 220326 | [220326-bang-dream-garupa-ar.json](./220326-bang-dream-garupa-ar.json) |
+| BanG Dream! Girls Band Party! | 80138 | [80138-bang-dream-girls-band-party.json](./80138-bang-dream-girls-band-party.json) |
 | BanG Dream! Girls Band Party! for Nintendo Switch | 152887 | [152887-bang-dream-girls-band-party-for-nintendo-switch.json](./152887-bang-dream-girls-band-party-for-nintendo-switch.json) |
 | BanG Dream! Our Notes | 384814 | [384814-bang-dream-our-notes.json](./384814-bang-dream-our-notes.json) |
 | Bang For Your Truck | 133137 | [133137-bang-for-your-truck.json](./133137-bang-for-your-truck.json) |
@@ -14999,6 +15000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BP Ultimate Rally Challenge | 323851 | [323851-bp-ultimate-rally-challenge.json](./323851-bp-ultimate-rally-challenge.json) |
 | BPM Boy | 204234 | [204234-bpm-boy.json](./204234-bpm-boy.json) |
 | BPM Racing | 84465 | [84465-bpm-racing.json](./84465-bpm-racing.json) |
+| BPM: Bullets Per Minute | 133330 | [133330-bpm-bullets-per-minute.json](./133330-bpm-bullets-per-minute.json) |
 | Bpop Attack | 319953 | [319953-bpop-attack.json](./319953-bpop-attack.json) |
 | BQM: BlockQuest Maker | 102940 | [102940-bqm-blockquest-maker.json](./102940-bqm-blockquest-maker.json) |
 | BQM: BlockQuest Maker - 1st DLC: Samurai Era | 237970 | [237970-bqm-blockquest-maker-1st-dlc-samurai-era.json](./237970-bqm-blockquest-maker-1st-dlc-samurai-era.json) |
@@ -15478,6 +15480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravely Default: Flying Fairy | 78326 | [78326-bravely-default-flying-fairy.json](./78326-bravely-default-flying-fairy.json) |
 | Bravely Default: Flying Fairy - HD Remaster | 338083 | [338083-bravely-default-flying-fairy-hd-remaster.json](./338083-bravely-default-flying-fairy-hd-remaster.json) |
 | Bravely Default: Flying Fairy Collector's Pack | 89878 | [89878-bravely-default-flying-fairy-collectors-pack.json](./89878-bravely-default-flying-fairy-collectors-pack.json) |
+| Bravely Second: End Layer | 11256 | [11256-bravely-second-end-layer.json](./11256-bravely-second-end-layer.json) |
 | Bravely Second: End Layer - Collector's Edition | 44017 | [44017-bravely-second-end-layer-collectors-edition.json](./44017-bravely-second-end-layer-collectors-edition.json) |
 | Bravely Second: End Layer - Deluxe Collector's Edition | 47664 | [47664-bravely-second-end-layer-deluxe-collectors-edition.json](./47664-bravely-second-end-layer-deluxe-collectors-edition.json) |
 | Bravely Second: The Ballad of the Three Cavaliers | 242899 | [242899-bravely-second-the-ballad-of-the-three-cavaliers.json](./242899-bravely-second-the-ballad-of-the-three-cavaliers.json) |
