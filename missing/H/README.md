@@ -8490,6 +8490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hiss | 209256 | [209256-hiss.json](./209256-hiss.json) |
 | Hiss & Hunt | 348434 | [348434-hiss-and-hunt.json](./348434-hiss-and-hunt.json) |
 | Hissatsu Buraiken | 40195 | [40195-hissatsu-buraiken.json](./40195-hissatsu-buraiken.json) |
+| Hissatsu Dojo Yaburi | 48759 | [48759-hissatsu-dojo-yaburi.json](./48759-hissatsu-dojo-yaburi.json) |
 | Hissatsu Pachi-Slot Evolution: Ninja Hattori-kun V | 58322 | [58322-hissatsu-pachi-slot-evolution-ninja-hattori-kun-v.json](./58322-hissatsu-pachi-slot-evolution-ninja-hattori-kun-v.json) |
 | Hissatsu Pachi-Slot Station | 58319 | [58319-hissatsu-pachi-slot-station.json](./58319-hissatsu-pachi-slot-station.json) |
 | Hissatsu Pachi-Slot Station 5: Invaders 2000 | 274861 | [274861-hissatsu-pachi-slot-station-5-invaders-2000.json](./274861-hissatsu-pachi-slot-station-5-invaders-2000.json) |
@@ -8507,6 +8508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hissatsu Pachinko Station V9: Osomatsu-kun | 83426 | [83426-hissatsu-pachinko-station-v9-osomatsu-kun.json](./83426-hissatsu-pachinko-station-v9-osomatsu-kun.json) |
 | Hissatsu Pachinko Station: Monster House Special | 58317 | [58317-hissatsu-pachinko-station-monster-house-special.json](./58317-hissatsu-pachinko-station-monster-house-special.json) |
 | Hissatsu Shaolin-ji | 385747 | [385747-hissatsu-shaolin-ji.json](./385747-hissatsu-shaolin-ji.json) |
+| Hissatsu Shigoto Nin | 48758 | [48758-hissatsu-shigoto-nin.json](./48758-hissatsu-shigoto-nin.json) |
 | Hissatsu Ura-Kagyou | 332643 | [332643-hissatsu-ura-kagyou.json](./332643-hissatsu-ura-kagyou.json) |
 | Hissatsu! | 269158 | [269158-hissatsu.json](./269158-hissatsu.json) |
 | Hisshou 777 Fighter III: Kuroryuuou no Fukkatsu | 58414 | [58414-hisshou-777-fighter-iii-kuroryuuou-no-fukkatsu.json](./58414-hisshou-777-fighter-iii-kuroryuuou-no-fukkatsu.json) |
@@ -8998,6 +9000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hokkaido Rensa Satsujin: Okhotsk ni Kiyu | 206087 | [206087-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json](./206087-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json) |
 | Hokkaido Rensa Satsujin: Okhotsk ni Kiyu | 206088 | [206088-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json](./206088-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json) |
 | Hokkaido Rensa Satsujin: Okhotsk ni Kiyu | 206134 | [206134-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json](./206134-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json) |
+| Hokkaido Rensa Satsujin: Okhotsk ni Kiyu | 48360 | [48360-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json](./48360-hokkaido-rensa-satsujin-okhotsk-ni-kiyu.json) |
 | Hokkaido: 4,500km | 264073 | [264073-hokkaido-4-500km.json](./264073-hokkaido-4-500km.json) |
 | Hokko Life | 129791 | [129791-hokko-life.json](./129791-hokko-life.json) |
 | Hokko Spaces | 404866 | [404866-hokko-spaces.json](./404866-hokko-spaces.json) |
@@ -9762,6 +9765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Homura: The Crimson Warriors | 387933 | [387933-homura-the-crimson-warriors.json](./387933-homura-the-crimson-warriors.json) |
 | Homura: The Crimson Warriors - Deluxe Edition | 390530 | [390530-homura-the-crimson-warriors-deluxe-edition.json](./390530-homura-the-crimson-warriors-deluxe-edition.json) |
 | Hon Shogi | 228563 | [228563-hon-shogi.json](./228563-hon-shogi.json) |
+| Hon Shogi: Naitou Kudan Shogi Hiden | 48756 | [48756-hon-shogi-naitou-kudan-shogi-hiden.json](./48756-hon-shogi-naitou-kudan-shogi-hiden.json) |
 | Honcho | 303564 | [303564-honcho.json](./303564-honcho.json) |
 | Honda ATV Fever | 61461 | [61461-honda-atv-fever.json](./61461-honda-atv-fever.json) |
 | Hondune's Truck Trials | 259070 | [259070-hondunes-truck-trials.json](./259070-hondunes-truck-trials.json) |
@@ -12794,6 +12798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hymns of Resurrection | 190785 | [190785-hymns-of-resurrection.json](./190785-hymns-of-resurrection.json) |
 | Hynpytol | 261397 | [261397-hynpytol.json](./261397-hynpytol.json) |
 | Hyokkori Hyoutan-jima: Hyoutan-jima no Daikoukai | 46312 | [46312-hyokkori-hyoutan-jima-hyoutan-jima-no-daikoukai.json](./46312-hyokkori-hyoutan-jima-hyoutan-jima-no-daikoukai.json) |
+| Hyokkori Hyoutan-jima: Nazo no Kaizokusen | 48755 | [48755-hyokkori-hyoutan-jima-nazo-no-kaizokusen.json](./48755-hyokkori-hyoutan-jima-nazo-no-kaizokusen.json) |
 | Hyokkori Hyoutan-jima: Takaramono Tocchae! | 346028 | [346028-hyokkori-hyoutan-jima-takaramono-tocchae.json](./346028-hyokkori-hyoutan-jima-takaramono-tocchae.json) |
 | Hyouhon Shoujo | 177647 | [177647-hyouhon-shoujo.json](./177647-hyouhon-shoujo.json) |
 | Hyouji Gazou Henkou Kanou Typing | 301609 | [301609-hyouji-gazou-henkou-kanou-typing.json](./301609-hyouji-gazou-henkou-kanou-typing.json) |
