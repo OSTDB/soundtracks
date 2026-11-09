@@ -61,6 +61,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E.T.: The Green Planet | 64395 | [64395-e-t-the-green-planet.json](./64395-e-t-the-green-planet.json) |
 | E.T.E | 175044 | [175044-e-t-e.json](./175044-e-t-e.json) |
 | E.T.E Chronicle | 208847 | [208847-e-t-e-chronicle.json](./208847-e-t-e-chronicle.json) |
+| E.T.X.: The Extra Terrestrial Xargon | 46040 | [46040-e-t-x-the-extra-terrestrial-xargon.json](./46040-e-t-x-the-extra-terrestrial-xargon.json) |
 | E.V.O.: Search for Eden | 6979 | [6979-e-v-o-search-for-eden.json](./6979-e-v-o-search-for-eden.json) |
 | E.X. Troopers | 26384 | [26384-e-x-troopers.json](./26384-e-x-troopers.json) |
 | E.x.p.l.o.r.: A New World | 148962 | [148962-e-x-p-l-o-r-a-new-world.json](./148962-e-x-p-l-o-r-a-new-world.json) |
@@ -389,6 +390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Saves Our Love | 267392 | [267392-earth-saves-our-love.json](./267392-earth-saves-our-love.json) |
 | Earth School | 219921 | [219921-earth-school.json](./219921-earth-school.json) |
 | Earth Science | 159176 | [159176-earth-science.json](./159176-earth-science.json) |
+| Earth Shaker | 46042 | [46042-earth-shaker.json](./46042-earth-shaker.json) |
 | Earth Space Colonies | 33646 | [33646-earth-space-colonies.json](./33646-earth-space-colonies.json) |
 | Earth Space Defenders | 373211 | [373211-earth-space-defenders.json](./373211-earth-space-defenders.json) |
 | Earth Taken | 362339 | [362339-earth-taken.json](./362339-earth-taken.json) |
@@ -8675,6 +8677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eye of Vartan | 14059 | [14059-eye-of-vartan.json](./14059-eye-of-vartan.json) |
 | Eye on the world | 258731 | [258731-eye-on-the-world.json](./258731-eye-on-the-world.json) |
 | Eye on You! | 340046 | [340046-eye-on-you.json](./340046-eye-on-you.json) |
+| Eye Pet and Friends | 46034 | [46034-eye-pet-and-friends.json](./46034-eye-pet-and-friends.json) |
 | Eye see fun | 285924 | [285924-eye-see-fun.json](./285924-eye-see-fun.json) |
 | Eye Sore | 322441 | [322441-eye-sore.json](./322441-eye-sore.json) |
 | Eye to Eye | 366718 | [366718-eye-to-eye.json](./366718-eye-to-eye.json) |
