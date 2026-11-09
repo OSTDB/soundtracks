@@ -1227,6 +1227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PandemicZ | 58691 | [58691-pandemicz.json](./58691-pandemicz.json) |
 | Pandemommyum! Hot Single Moms in My Area | 257951 | [257951-pandemommyum-hot-single-moms-in-my-area.json](./257951-pandemommyum-hot-single-moms-in-my-area.json) |
 | Pandemonia | 317530 | [317530-pandemonia.json](./317530-pandemonia.json) |
+| Pandemonic Issues | 26727 | [26727-pandemonic-issues.json](./26727-pandemonic-issues.json) |
 | Pandemonium | 128466 | [128466-pandemonium.json](./128466-pandemonium.json) |
 | Pandemonium 2 | 6269 | [6269-pandemonium-2.json](./6269-pandemonium-2.json) |
 | Pandemonium: Merge! | 380959 | [380959-pandemonium-merge.json](./380959-pandemonium-merge.json) |
