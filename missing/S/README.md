@@ -7940,6 +7940,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered State | 203750 | [203750-shattered-state.json](./203750-shattered-state.json) |
 | Shattered Stone | 185545 | [185545-shattered-stone.json](./185545-shattered-stone.json) |
 | Shattered Sun | 323485 | [323485-shattered-sun.json](./323485-shattered-sun.json) |
+| Shattered Suns | 51356 | [51356-shattered-suns.json](./51356-shattered-suns.json) |
 | Shattered Time | 326539 | [326539-shattered-time.json](./326539-shattered-time.json) |
 | Shattered Union | 6046 | [6046-shattered-union.json](./6046-shattered-union.json) |
 | Shattered Vault | 390783 | [390783-shattered-vault.json](./390783-shattered-vault.json) |
@@ -9367,6 +9368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot Covid-19 | 161531 | [161531-shoot-covid-19.json](./161531-shoot-covid-19.json) |
 | Shoot Crow | 93698 | [93698-shoot-crow.json](./93698-shoot-crow.json) |
 | Shoot Defense 3D | 220059 | [220059-shoot-defense-3d.json](./220059-shoot-defense-3d.json) |
+| Shoot First | 51304 | [51304-shoot-first.json](./51304-shoot-first.json) |
 | Shoot For Fun's Sake | 263960 | [263960-shoot-for-funs-sake.json](./263960-shoot-for-funs-sake.json) |
 | Shoot For The Stars | 335902 | [335902-shoot-for-the-stars.json](./335902-shoot-for-the-stars.json) |
 | Shoot Giant Robots and Wallrun | 293688 | [293688-shoot-giant-robots-and-wallrun.json](./293688-shoot-giant-robots-and-wallrun.json) |
@@ -26021,6 +26023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stargoose Warrior | 51285 | [51285-stargoose-warrior.json](./51285-stargoose-warrior.json) |
 | Starground | 287606 | [287606-starground.json](./287606-starground.json) |
 | Stargrove Scramble | 177939 | [177939-stargrove-scramble.json](./177939-stargrove-scramble.json) |
+| StarGuard | 51303 | [51303-starguard.json](./51303-starguard.json) |
 | Stargunner | 19379 | [19379-stargunner.json](./19379-stargunner.json) |
 | Stargunner | 23199 | [23199-stargunner.json](./23199-stargunner.json) |
 | Starguy IV | 184252 | [184252-starguy-iv.json](./184252-starguy-iv.json) |
@@ -32115,6 +32118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super EF2000 | 50231 | [50231-super-ef2000.json](./50231-super-ef2000.json) |
 | Super Egg 2020 | 193123 | [193123-super-egg-2020.json](./193123-super-egg-2020.json) |
 | Super Elastic | 276164 | [276164-super-elastic.json](./276164-super-elastic.json) |
+| Super Elf Bowling | 51315 | [51315-super-elf-bowling.json](./51315-super-elf-bowling.json) |
 | Super Elf Jump | 93818 | [93818-super-elf-jump.json](./93818-super-elf-jump.json) |
 | Super Ember Kaboom | 199284 | [199284-super-ember-kaboom.json](./199284-super-ember-kaboom.json) |
 | Super Emma | 261029 | [261029-super-emma.json](./261029-super-emma.json) |
@@ -35625,6 +35629,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survivor: Heroes | 85415 | [85415-survivor-heroes.json](./85415-survivor-heroes.json) |
 | Survivor: Spark | 369689 | [369689-survivor-spark.json](./369689-survivor-spark.json) |
 | Survivor: Stay in the Light | 232980 | [232980-survivor-stay-in-the-light.json](./232980-survivor-stay-in-the-light.json) |
+| Survivor: The Interactive Game | 51333 | [51333-survivor-the-interactive-game.json](./51333-survivor-the-interactive-game.json) |
+| Survivor: Ultimate Edition | 51359 | [51359-survivor-ultimate-edition.json](./51359-survivor-ultimate-edition.json) |
 | Survivor! | 221149 | [221149-survivor.json](./221149-survivor.json) |
 | Survivor.io | 214673 | [214673-survivor-io.json](./214673-survivor-io.json) |
 | Survivor's Dawn | 319940 | [319940-survivors-dawn.json](./319940-survivors-dawn.json) |
