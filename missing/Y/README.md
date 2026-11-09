@@ -705,8 +705,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yo-Kai Watch 3: Tempura | 222295 | [222295-yo-kai-watch-3-tempura.json](./222295-yo-kai-watch-3-tempura.json) |
 | Yo-kai Watch 4 | 96246 | [96246-yo-kai-watch-4.json](./96246-yo-kai-watch-4.json) |
 | Yo-kai Watch 4++ | 127255 | [127255-yo-kai-watch-4.json](./127255-yo-kai-watch-4.json) |
+| Yo-Kai Watch Blasters: Moon Rabbit Crew | 54562 | [54562-yo-kai-watch-blasters-moon-rabbit-crew.json](./54562-yo-kai-watch-blasters-moon-rabbit-crew.json) |
 | Yo-kai Watch Blasters: Red Cat Corps | 11659 | [11659-yo-kai-watch-blasters-red-cat-corps.json](./11659-yo-kai-watch-blasters-red-cat-corps.json) |
+| Yo-Kai Watch Blasters: White Dog Squad | 54561 | [54561-yo-kai-watch-blasters-white-dog-squad.json](./54561-yo-kai-watch-blasters-white-dog-squad.json) |
+| Yo-kai Watch Busters 2: Hihou Densetsu Bambalaya Sword | 54564 | [54564-yo-kai-watch-busters-2-hihou-densetsu-bambalaya-sword.json](./54564-yo-kai-watch-busters-2-hihou-densetsu-bambalaya-sword.json) |
 | Yo-kai Watch Busters 2: Hihou Densetsu Banbaraya Magnum | 136935 | [136935-yo-kai-watch-busters-2-hihou-densetsu-banbaraya-magnum.json](./136935-yo-kai-watch-busters-2-hihou-densetsu-banbaraya-magnum.json) |
+| Yo-Kai Watch Busters: Iron Oni Army | 54563 | [54563-yo-kai-watch-busters-iron-oni-army.json](./54563-yo-kai-watch-busters-iron-oni-army.json) |
 | Yo-kai Watch Busters: Shiroinutai | 136913 | [136913-yo-kai-watch-busters-shiroinutai.json](./136913-yo-kai-watch-busters-shiroinutai.json) |
 | Yo-kai Watch Dance: Just Dance Special Edition | 59946 | [59946-yo-kai-watch-dance-just-dance-special-edition.json](./59946-yo-kai-watch-dance-just-dance-special-edition.json) |
 | Yo-Kai Watch Gerapo Rhythm | 337940 | [337940-yo-kai-watch-gerapo-rhythm.json](./337940-yo-kai-watch-gerapo-rhythm.json) |
