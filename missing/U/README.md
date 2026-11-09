@@ -3532,6 +3532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urtuk: The Desolation | 98073 | [98073-urtuk-the-desolation.json](./98073-urtuk-the-desolation.json) |
 | URU: Complete Chronicles | 16202 | [16202-uru-complete-chronicles.json](./16202-uru-complete-chronicles.json) |
 | Uru: The Path of the Shell | 73216 | [73216-uru-the-path-of-the-shell.json](./73216-uru-the-path-of-the-shell.json) |
+| Uru: To D'ni | 71127 | [71127-uru-to-dni.json](./71127-uru-to-dni.json) |
 | Urubu | 199464 | [199464-urubu.json](./199464-urubu.json) |
 | Uruc | 367358 | [367358-uruc.json](./367358-uruc.json) |
 | Ururun Quest: Koiyuuki | 203392 | [203392-ururun-quest-koiyuuki.json](./203392-ururun-quest-koiyuuki.json) |
