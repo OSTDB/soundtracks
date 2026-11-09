@@ -8511,6 +8511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Demon Lord is New in Town! | 159736 | [159736-the-demon-lord-is-new-in-town.json](./159736-the-demon-lord-is-new-in-town.json) |
 | The Demon Lord’s Daughter and the Tower of Seals | 329366 | [329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json](./329366-the-demon-lord-s-daughter-and-the-tower-of-seals.json) |
 | The Demon Queen's Dire Dilemma | 347449 | [347449-the-demon-queens-dire-dilemma.json](./347449-the-demon-queens-dire-dilemma.json) |
+| The Demon Rush | 56032 | [56032-the-demon-rush.json](./56032-the-demon-rush.json) |
 | The Demon Rush: Legends Corrupt | 148064 | [148064-the-demon-rush-legends-corrupt.json](./148064-the-demon-rush-legends-corrupt.json) |
 | The Demon Within Me | 221194 | [221194-the-demon-within-me.json](./221194-the-demon-within-me.json) |
 | The Demon's Apple: Otome Game | 374389 | [374389-the-demons-apple-otome-game.json](./374389-the-demons-apple-otome-game.json) |
