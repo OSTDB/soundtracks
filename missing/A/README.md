@@ -2791,6 +2791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aces Cribbage | 110570 | [110570-aces-cribbage.json](./110570-aces-cribbage.json) |
 | Aces Gin Rummy | 70896 | [70896-aces-gin-rummy.json](./70896-aces-gin-rummy.json) |
 | Aces High | 91371 | [91371-aces-high.json](./91371-aces-high.json) |
+| Aces High III | 55527 | [55527-aces-high-iii.json](./55527-aces-high-iii.json) |
 | Aces High! | 328246 | [328246-aces-high.json](./328246-aces-high.json) |
 | Aces in the Dust | 160054 | [160054-aces-in-the-dust.json](./160054-aces-in-the-dust.json) |
 | Aces of Avalon | 410690 | [410690-aces-of-avalon.json](./410690-aces-of-avalon.json) |
@@ -15078,6 +15079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arthur Yahtzee: The Curse of Hell's Cheesecake | 217857 | [217857-arthur-yahtzee-the-curse-of-hells-cheesecake.json](./217857-arthur-yahtzee-the-curse-of-hells-cheesecake.json) |
 | Arthur: The Quest for Excalibur | 2312 | [2312-arthur-the-quest-for-excalibur.json](./2312-arthur-the-quest-for-excalibur.json) |
 | Arthur: Wizard Academy | 343420 | [343420-arthur-wizard-academy.json](./343420-arthur-wizard-academy.json) |
+| Arthur! Ready to Race | 56050 | [56050-arthur-ready-to-race.json](./56050-arthur-ready-to-race.json) |
 | Arthur's 1st Grade | 70988 | [70988-arthurs-1st-grade.json](./70988-arthurs-1st-grade.json) |
 | Arthur's Absolutely Fun Day! | 49917 | [49917-arthurs-absolutely-fun-day.json](./49917-arthurs-absolutely-fun-day.json) |
 | Arthur's Birthday | 269991 | [269991-arthurs-birthday.json](./269991-arthurs-birthday.json) |
