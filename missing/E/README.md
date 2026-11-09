@@ -2579,6 +2579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elf Bowling 3 | 71862 | [71862-elf-bowling-3.json](./71862-elf-bowling-3.json) |
 | Elf Bowling 6: Air Biscuits | 71801 | [71801-elf-bowling-6-air-biscuits.json](./71801-elf-bowling-6-air-biscuits.json) |
 | Elf Bowling 7 1/7: The Last Insult | 56539 | [56539-elf-bowling-7-1-7-the-last-insult.json](./56539-elf-bowling-7-1-7-the-last-insult.json) |
+| Elf Bowling: Bocce Style | 73931 | [73931-elf-bowling-bocce-style.json](./73931-elf-bowling-bocce-style.json) |
 | Elf Bowling: Collector's Edition | 61343 | [61343-elf-bowling-collectors-edition.json](./61343-elf-bowling-collectors-edition.json) |
 | Elf Breeding Farm | 210399 | [210399-elf-breeding-farm.json](./210399-elf-breeding-farm.json) |
 | Elf Cat Jeff | 185425 | [185425-elf-cat-jeff.json](./185425-elf-cat-jeff.json) |
@@ -5937,6 +5938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Esophaguys | 214229 | [214229-esophaguys.json](./214229-esophaguys.json) |
 | Esoria | 285900 | [285900-esoria.json](./285900-esoria.json) |
 | EsoTarot VR | 236270 | [236270-esotarot-vr.json](./236270-esotarot-vr.json) |
+| Esoteria: Techno-Assassin of the Future | 73924 | [73924-esoteria-techno-assassin-of-the-future.json](./73924-esoteria-techno-assassin-of-the-future.json) |
 | Esoterica Order | 311588 | [311588-esoterica-order.json](./311588-esoterica-order.json) |
 | ESP Ra.De. | 91379 | [91379-esp-ra-de.json](./91379-esp-ra-de.json) |
 | ESP Ra.De. Psi | 56433 | [56433-esp-ra-de-psi.json](./56433-esp-ra-de-psi.json) |
