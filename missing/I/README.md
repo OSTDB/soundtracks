@@ -6647,6 +6647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isolation Simulator | 156773 | [156773-isolation-simulator.json](./156773-isolation-simulator.json) |
 | Isolation Story | 135021 | [135021-isolation-story.json](./135021-isolation-story.json) |
 | Isolationist Nightclub Simulator | 148523 | [148523-isolationist-nightclub-simulator.json](./148523-isolationist-nightclub-simulator.json) |
+| Isoleur | 72258 | [72258-isoleur.json](./72258-isoleur.json) |
 | Isolomus | 141814 | [141814-isolomus.json](./141814-isolomus.json) |
 | Isomer | 17595 | [17595-isomer.json](./17595-isomer.json) |
 | Isometria | 266430 | [266430-isometria.json](./266430-isometria.json) |
