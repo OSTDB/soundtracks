@@ -5967,6 +5967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron & Lead | 271005 | [271005-iron-and-lead.json](./271005-iron-and-lead.json) |
 | Iron & Rust: Complete Edition | 183985 | [183985-iron-and-rust-complete-edition.json](./183985-iron-and-rust-complete-edition.json) |
 | Iron Aces | 45853 | [45853-iron-aces.json](./45853-iron-aces.json) |
+| Iron Aces 2: Birds of Prey | 68791 | [68791-iron-aces-2-birds-of-prey.json](./68791-iron-aces-2-birds-of-prey.json) |
 | Iron Aces: Heroes of WWII | 210024 | [210024-iron-aces-heroes-of-wwii.json](./210024-iron-aces-heroes-of-wwii.json) |
 | Iron Age | 173054 | [173054-iron-age.json](./173054-iron-age.json) |
 | Iron Age | 192943 | [192943-iron-age.json](./192943-iron-age.json) |
