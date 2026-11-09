@@ -5269,6 +5269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Gaiden II: The Dark Sword of Chaos | 240143 | [240143-ninja-gaiden-ii-the-dark-sword-of-chaos.json](./240143-ninja-gaiden-ii-the-dark-sword-of-chaos.json) |
 | Ninja Gaiden II: The Dark Sword of Chaos | 241734 | [241734-ninja-gaiden-ii-the-dark-sword-of-chaos.json](./241734-ninja-gaiden-ii-the-dark-sword-of-chaos.json) |
 | Ninja Gaiden III: The Ancient Ship of Doom | 17249 | [17249-ninja-gaiden-iii-the-ancient-ship-of-doom.json](./17249-ninja-gaiden-iii-the-ancient-ship-of-doom.json) |
+| Ninja Gaiden III: The Ancient Ship of Doom | 40853 | [40853-ninja-gaiden-iii-the-ancient-ship-of-doom.json](./40853-ninja-gaiden-iii-the-ancient-ship-of-doom.json) |
 | Ninja Gaiden Shadow | 48929 | [48929-ninja-gaiden-shadow.json](./48929-ninja-gaiden-shadow.json) |
 | Ninja Gaiden Sigma | 5974 | [5974-ninja-gaiden-sigma.json](./5974-ninja-gaiden-sigma.json) |
 | Ninja Gaiden Sigma 2 | 7385 | [7385-ninja-gaiden-sigma-2.json](./7385-ninja-gaiden-sigma-2.json) |
