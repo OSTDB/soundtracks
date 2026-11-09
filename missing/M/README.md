@@ -700,6 +700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness in the Banaverse | 327132 | [327132-madness-in-the-banaverse.json](./327132-madness-in-the-banaverse.json) |
 | Madness in the Dark | 251011 | [251011-madness-in-the-dark.json](./251011-madness-in-the-dark.json) |
 | Madness Inside | 312773 | [312773-madness-inside.json](./312773-madness-inside.json) |
+| Madness Interactive | 58361 | [58361-madness-interactive.json](./58361-madness-interactive.json) |
 | Madness Interactive Reloaded | 331704 | [331704-madness-interactive-reloaded.json](./331704-madness-interactive-reloaded.json) |
 | Madness of the Architect | 83549 | [83549-madness-of-the-architect.json](./83549-madness-of-the-architect.json) |
 | Madness of the Architect | 83550 | [83550-madness-of-the-architect.json](./83550-madness-of-the-architect.json) |
@@ -707,10 +708,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madness of the Science | 346156 | [346156-madness-of-the-science.json](./346156-madness-of-the-science.json) |
 | Madness on Display | 327670 | [327670-madness-on-display.json](./327670-madness-on-display.json) |
 | Madness Project Nexus: Legacy of the S-3LF Eater | 269488 | [269488-madness-project-nexus-legacy-of-the-s-3lf-eater.json](./269488-madness-project-nexus-legacy-of-the-s-3lf-eater.json) |
+| Madness Regent | 58358 | [58358-madness-regent.json](./58358-madness-regent.json) |
 | Madness Retaliation | 123425 | [123425-madness-retaliation.json](./123425-madness-retaliation.json) |
 | Madness Starts Young | 386873 | [386873-madness-starts-young.json](./386873-madness-starts-young.json) |
 | Madness Survivors: A Case Gone Dark | 420334 | [420334-madness-survivors-a-case-gone-dark.json](./420334-madness-survivors-a-case-gone-dark.json) |
 | Madness: Off-Color | 179844 | [179844-madness-off-color.json](./179844-madness-off-color.json) |
+| Madness: Project Nexus | 58357 | [58357-madness-project-nexus.json](./58357-madness-project-nexus.json) |
 | Madness: Project Nexus - Classic | 239826 | [239826-madness-project-nexus-classic.json](./239826-madness-project-nexus-classic.json) |
 | Madnessarum | 285318 | [285318-madnessarum.json](./285318-madnessarum.json) |
 | MadnessMadnessMadness | 283738 | [283738-madnessmadnessmadness.json](./283738-madnessmadnessmadness.json) |
@@ -889,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia: The Omertà Collection | 413580 | [413580-mafia-the-omerta-collection.json](./413580-mafia-the-omerta-collection.json) |
 | Mafia: Trilogy | 133900 | [133900-mafia-trilogy.json](./133900-mafia-trilogy.json) |
 | Mafia.gg | 112288 | [112288-mafia-gg.json](./112288-mafia-gg.json) |
+| Mafiaens Hevn | 58368 | [58368-mafiaens-hevn.json](./58368-mafiaens-hevn.json) |
 | Mafiaspillet.no | 77693 | [77693-mafiaspillet-no.json](./77693-mafiaspillet-no.json) |
 | Mafioso | 348499 | [348499-mafioso.json](./348499-mafioso.json) |
 | Mafioso | 388793 | [388793-mafioso.json](./388793-mafioso.json) |
@@ -2999,6 +3003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Man Sa Yarbah Al Malyoon | 309210 | [309210-man-sa-yarbah-al-malyoon.json](./309210-man-sa-yarbah-al-malyoon.json) |
 | Man Standing | 137196 | [137196-man-standing.json](./137196-man-standing.json) |
 | Man vs Machine | 150062 | [150062-man-vs-machine.json](./150062-man-vs-machine.json) |
+| Man vs Verified | 58330 | [58330-man-vs-verified.json](./58330-man-vs-verified.json) |
 | Man Vs. Missiles | 83195 | [83195-man-vs-missiles.json](./83195-man-vs-missiles.json) |
 | Man vs. Wild With Bear Grylls | 4995 | [4995-man-vs-wild-with-bear-grylls.json](./4995-man-vs-wild-with-bear-grylls.json) |
 | Man Without Clothes Runner | 368469 | [368469-man-without-clothes-runner.json](./368469-man-without-clothes-runner.json) |
@@ -5942,6 +5947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Matsuro Palette | 245042 | [245042-matsuro-palette.json](./245042-matsuro-palette.json) |
 | Matsutake Game | 294007 | [294007-matsutake-game.json](./294007-matsutake-game.json) |
 | Matt Duchene's Hockey Classic | 88933 | [88933-matt-duchenes-hockey-classic.json](./88933-matt-duchenes-hockey-classic.json) |
+| Matt Hayes' Fishing | 58366 | [58366-matt-hayes-fishing.json](./58366-matt-hayes-fishing.json) |
 | Matt Hazard: Blood Bath and Beyond | 47430 | [47430-matt-hazard-blood-bath-and-beyond.json](./47430-matt-hazard-blood-bath-and-beyond.json) |
 | Matt Murphy: The Case of the Stone Guest | 309715 | [309715-matt-murphy-the-case-of-the-stone-guest.json](./309715-matt-murphy-the-case-of-the-stone-guest.json) |
 | Matt Patrol | 283012 | [283012-matt-patrol.json](./283012-matt-patrol.json) |
@@ -6159,7 +6165,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -11381,6 +11386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Train Simulator: Pro Train | 209869 | [209869-microsoft-train-simulator-pro-train.json](./209869-microsoft-train-simulator-pro-train.json) |
 | Microsoft Train Simulator: Pro Train II | 209868 | [209868-microsoft-train-simulator-pro-train-ii.json](./209868-microsoft-train-simulator-pro-train-ii.json) |
 | Microsoft Train Simulator: Sandpatch | 206666 | [206666-microsoft-train-simulator-sandpatch.json](./206666-microsoft-train-simulator-sandpatch.json) |
+| Microsoft Treasure Hunt | 57872 | [57872-microsoft-treasure-hunt.json](./57872-microsoft-treasure-hunt.json) |
 | Microsoft Ultimate Word Games | 55994 | [55994-microsoft-ultimate-word-games.json](./55994-microsoft-ultimate-word-games.json) |
 | Microsoft Windows 98 | 297681 | [297681-microsoft-windows-98.json](./297681-microsoft-windows-98.json) |
 | Microsoft Wordament | 7085 | [7085-microsoft-wordament.json](./7085-microsoft-wordament.json) |
@@ -12606,6 +12612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mindshadow | 338140 | [338140-mindshadow.json](./338140-mindshadow.json) |
 | Mindshow | 75145 | [75145-mindshow.json](./75145-mindshow.json) |
 | Mindsight | 350875 | [350875-mindsight.json](./350875-mindsight.json) |
+| Mindstone | 57875 | [57875-mindstone.json](./57875-mindstone.json) |
 | MindStorm | 47861 | [47861-mindstorm.json](./47861-mindstorm.json) |
 | MindStorm 2 | 123357 | [123357-mindstorm-2.json](./123357-mindstorm-2.json) |
 | MindSweeper | 194773 | [194773-mindsweeper.json](./194773-mindsweeper.json) |
@@ -14878,6 +14885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MOBA Dodge Trainer | 341244 | [341244-moba-dodge-trainer.json](./341244-moba-dodge-trainer.json) |
 | MOBA Esport Manager 25 | 244577 | [244577-moba-esport-manager-25.json](./244577-moba-esport-manager-25.json) |
 | MOBA GM | 99593 | [99593-moba-gm.json](./99593-moba-gm.json) |
+| MOBA Legends | 58352 | [58352-moba-legends.json](./58352-moba-legends.json) |
 | Mobbers | 253891 | [253891-mobbers.json](./253891-mobbers.json) |
 | Mobenium 2D | 336040 | [336040-mobenium-2d.json](./336040-mobenium-2d.json) |
 | Mobfish Hunter | 312641 | [312641-mobfish-hunter.json](./312641-mobfish-hunter.json) |
