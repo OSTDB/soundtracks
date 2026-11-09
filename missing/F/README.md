@@ -4822,6 +4822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting in Aden Gulf | 381253 | [381253-fighting-in-aden-gulf.json](./381253-fighting-in-aden-gulf.json) |
 | Fighting in Aden Gulf: 10 Degrees Turn | 54722 | [54722-fighting-in-aden-gulf-10-degrees-turn.json](./54722-fighting-in-aden-gulf-10-degrees-turn.json) |
 | Fighting Layer | 39552 | [39552-fighting-layer.json](./39552-fighting-layer.json) |
+| Fighting Legends Online | 61835 | [61835-fighting-legends-online.json](./61835-fighting-legends-online.json) |
 | Fighting Legends Pack | 198128 | [198128-fighting-legends-pack.json](./198128-fighting-legends-pack.json) |
 | Fighting Mad Lads | 187396 | [187396-fighting-mad-lads.json](./187396-fighting-mad-lads.json) |
 | Fighting Mania: Fist of the North Star | 64826 | [64826-fighting-mania-fist-of-the-north-star.json](./64826-fighting-mania-fist-of-the-north-star.json) |
@@ -7837,6 +7838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fleeing Felines: The Cat Escape | 337450 | [337450-fleeing-felines-the-cat-escape.json](./337450-fleeing-felines-the-cat-escape.json) |
 | Fleeing the Complex | 179273 | [179273-fleeing-the-complex.json](./179273-fleeing-the-complex.json) |
 | Fleet Battle | 272460 | [272460-fleet-battle.json](./272460-fleet-battle.json) |
+| Fleet Buster | 62316 | [62316-fleet-buster.json](./62316-fleet-buster.json) |
 | Fleet Command | 14803 | [14803-fleet-command.json](./14803-fleet-command.json) |
 | Fleet Commander | 48493 | [48493-fleet-commander.json](./48493-fleet-commander.json) |
 | Fleet Commander II | 41805 | [41805-fleet-commander-ii.json](./41805-fleet-commander-ii.json) |
@@ -8869,6 +8871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fly8 | 141223 | [141223-fly8.json](./141223-fly8.json) |
 | Flyable Heart | 211295 | [211295-flyable-heart.json](./211295-flyable-heart.json) |
 | FlyBird Leap | 260207 | [260207-flybird-leap.json](./260207-flybird-leap.json) |
+| Flyboys Squadron | 62305 | [62305-flyboys-squadron.json](./62305-flyboys-squadron.json) |
 | FlyBye | 249931 | [249931-flybye.json](./249931-flybye.json) |
 | Flycatcher | 93528 | [93528-flycatcher.json](./93528-flycatcher.json) |
 | FlyChivements | 163023 | [163023-flychivements.json](./163023-flychivements.json) |
@@ -11323,6 +11326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fox Sports Soccer '99 | 139246 | [139246-fox-sports-soccer-99.json](./139246-fox-sports-soccer-99.json) |
 | Fox Sports Tennis '99 | 81276 | [81276-fox-sports-tennis-99.json](./81276-fox-sports-tennis-99.json) |
 | Fox Stories | 154566 | [154566-fox-stories.json](./154566-fox-stories.json) |
+| Fox Tales: The Skeleton King | 62294 | [62294-fox-tales-the-skeleton-king.json](./62294-fox-tales-the-skeleton-king.json) |
 | Fox Trot | 289801 | [289801-fox-trot.json](./289801-fox-trot.json) |
 | Fox Two Protocol | 408310 | [408310-fox-two-protocol.json](./408310-fox-two-protocol.json) |
 | Fox XII | 349211 | [349211-fox-xii.json](./349211-fox-xii.json) |
