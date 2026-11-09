@@ -5665,6 +5665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Língwén Xīyóu | 106558 | [106558-lingwen-xiyou.json](./106558-lingwen-xiyou.json) |
 | Lingword | 307591 | [307591-lingword.json](./307591-lingword.json) |
 | Língxià Jìyì | 130924 | [130924-lingxia-jiyi.json](./130924-lingxia-jiyi.json) |
+| Linia | 69417 | [69417-linia.json](./69417-linia.json) |
 | Linia Stripes | 221745 | [221745-linia-stripes.json](./221745-linia-stripes.json) |
 | Linia Super | 196440 | [196440-linia-super.json](./196440-linia-super.json) |
 | Linja vs. the Maneclowns | 321290 | [321290-linja-vs-the-maneclowns.json](./321290-linja-vs-the-maneclowns.json) |
@@ -10183,6 +10184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Strain | 306866 | [306866-lunar-strain.json](./306866-lunar-strain.json) |
 | Lunar Timepiece: Shadow of Twelve | 121343 | [121343-lunar-timepiece-shadow-of-twelve.json](./121343-lunar-timepiece-shadow-of-twelve.json) |
 | Lunar Wing: Toki wo Koeta Seisen | 138970 | [138970-lunar-wing-toki-wo-koeta-seisen.json](./138970-lunar-wing-toki-wo-koeta-seisen.json) |
+| Lunar Wish: Orbs of Fate | 69432 | [69432-lunar-wish-orbs-of-fate.json](./69432-lunar-wish-orbs-of-fate.json) |
 | Lunar: Dragon Song | 13908 | [13908-lunar-dragon-song.json](./13908-lunar-dragon-song.json) |
 | Lunar: Eternal Blue | 5401 | [5401-lunar-eternal-blue.json](./5401-lunar-eternal-blue.json) |
 | Lunar: Sanposuru Gakuen | 46354 | [46354-lunar-sanposuru-gakuen.json](./46354-lunar-sanposuru-gakuen.json) |
