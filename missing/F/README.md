@@ -772,6 +772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Tale TD 2 | 348885 | [348885-fairy-tale-td-2.json](./348885-fairy-tale-td-2.json) |
 | Fairy Tale TD:Hero | 390363 | [390363-fairy-tale-td-hero.json](./390363-fairy-tale-td-hero.json) |
 | Fairy Tale Tower Defense | 357835 | [357835-fairy-tale-tower-defense.json](./357835-fairy-tale-tower-defense.json) |
+| Fairy Tale: Hero's Journey | 69418 | [69418-fairy-tale-heros-journey.json](./69418-fairy-tale-heros-journey.json) |
 | Fairy Tales 4 Kids Interactive | 293340 | [293340-fairy-tales-4-kids-interactive.json](./293340-fairy-tales-4-kids-interactive.json) |
 | Fairy Tower | 213964 | [213964-fairy-tower.json](./213964-fairy-tower.json) |
 | Fairy Tower | 218159 | [218159-fairy-tower.json](./218159-fairy-tower.json) |
@@ -1841,6 +1842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Baseball | 292785 | [292785-fantastic-baseball.json](./292785-fantastic-baseball.json) |
 | Fantastic Beasts and Where to Find Them | 83979 | [83979-fantastic-beasts-and-where-to-find-them.json](./83979-fantastic-beasts-and-where-to-find-them.json) |
 | Fantastic Beasts and Where to Find Them: VR Experience | 98482 | [98482-fantastic-beasts-and-where-to-find-them-vr-experience.json](./98482-fantastic-beasts-and-where-to-find-them-vr-experience.json) |
+| Fantastic Beasts: Cases from the Wizarding World | 69389 | [69389-fantastic-beasts-cases-from-the-wizarding-world.json](./69389-fantastic-beasts-cases-from-the-wizarding-world.json) |
 | Fantastic Checkers | 89798 | [89798-fantastic-checkers.json](./89798-fantastic-checkers.json) |
 | Fantastic Checkers 2 | 31677 | [31677-fantastic-checkers-2.json](./31677-fantastic-checkers-2.json) |
 | Fantastic Chefs: Match 'n Cook | 104760 | [104760-fantastic-chefs-match-n-cook.json](./104760-fantastic-chefs-match-n-cook.json) |
@@ -2530,6 +2532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farm Expert 2019 | 112334 | [112334-farm-expert-2019.json](./112334-farm-expert-2019.json) |
 | Farm Factory Simulator | 406934 | [406934-farm-factory-simulator.json](./406934-farm-factory-simulator.json) |
 | Farm Fatale | 154159 | [154159-farm-fatale.json](./154159-farm-fatale.json) |
+| Farm Fest | 68994 | [68994-farm-fest.json](./68994-farm-fest.json) |
 | Farm For A Wife | 217281 | [217281-farm-for-a-wife.json](./217281-farm-for-a-wife.json) |
 | Farm for your Life | 30248 | [30248-farm-for-your-life.json](./30248-farm-for-your-life.json) |
 | Farm Frenzy | 16090 | [16090-farm-frenzy.json](./16090-farm-frenzy.json) |
@@ -2954,6 +2957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fashion Show Makeover Mega Pack | 340063 | [340063-fashion-show-makeover-mega-pack.json](./340063-fashion-show-makeover-mega-pack.json) |
 | Fashion Space | 212493 | [212493-fashion-space.json](./212493-fashion-space.json) |
 | Fashion Store Simulator | 312977 | [312977-fashion-store-simulator.json](./312977-fashion-store-simulator.json) |
+| Fashion Studio: Paris Collection | 69410 | [69410-fashion-studio-paris-collection.json](./69410-fashion-studio-paris-collection.json) |
 | Fashion Universe | 212481 | [212481-fashion-universe.json](./212481-fashion-universe.json) |
 | Fashion Week: Junior Stylist | 79893 | [79893-fashion-week-junior-stylist.json](./79893-fashion-week-junior-stylist.json) |
 | Fashion World | 280069 | [280069-fashion-world.json](./280069-fashion-world.json) |
@@ -8066,6 +8070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flightpath | 208658 | [208658-flightpath.json](./208658-flightpath.json) |
 | Flightpath: Adventures in Venaris | 294233 | [294233-flightpath-adventures-in-venaris.json](./294233-flightpath-adventures-in-venaris.json) |
 | Flights of Fancy | 176954 | [176954-flights-of-fancy.json](./176954-flights-of-fancy.json) |
+| FlightSim I | 69416 | [69416-flightsim-i.json](./69416-flightsim-i.json) |
 | Flighty Chicken | 242107 | [242107-flighty-chicken.json](./242107-flighty-chicken.json) |
 | Flikken Game: De Achtervolging | 86032 | [86032-flikken-game-de-achtervolging.json](./86032-flikken-game-de-achtervolging.json) |
 | Flimbo's Quest | 12103 | [12103-flimbos-quest.json](./12103-flimbos-quest.json) |
@@ -11122,6 +11127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FotoMuseo 3D | 420770 | [420770-fotomuseo-3d.json](./420770-fotomuseo-3d.json) |
 | Fotress S | 245985 | [245985-fotress-s.json](./245985-fotress-s.json) |
 | Foturians: Myth and Reality | 399697 | [399697-foturians-myth-and-reality.json](./399697-foturians-myth-and-reality.json) |
+| Fougasse | 69423 | [69423-fougasse.json](./69423-fougasse.json) |
 | Foul | 302898 | [302898-foul.json](./302898-foul.json) |
 | Foul Airs | 183673 | [183673-foul-airs.json](./183673-foul-airs.json) |
 | Foul Play | 160072 | [160072-foul-play.json](./160072-foul-play.json) |
