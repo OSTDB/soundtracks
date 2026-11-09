@@ -2952,6 +2952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carmageddon | 246746 | [246746-carmageddon.json](./246746-carmageddon.json) |
 | Carmageddon | 246895 | [246895-carmageddon.json](./246895-carmageddon.json) |
 | Carmageddon | 626 | [626-carmageddon.json](./626-carmageddon.json) |
+| Carmageddon 64 | 10608 | [10608-carmageddon-64.json](./10608-carmageddon-64.json) |
 | Carmageddon 64 | 246740 | [246740-carmageddon-64.json](./246740-carmageddon-64.json) |
 | Carmageddon II: Carpocalypse Now | 246744 | [246744-carmageddon-ii-carpocalypse-now.json](./246744-carmageddon-ii-carpocalypse-now.json) |
 | Carmageddon II: Carpocalypse Now | 246745 | [246745-carmageddon-ii-carpocalypse-now.json](./246745-carmageddon-ii-carpocalypse-now.json) |
@@ -6041,6 +6042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chameleon Run+ | 174202 | [174202-chameleon-run.json](./174202-chameleon-run.json) |
 | Chameleon Twist | 3427 | [3427-chameleon-twist.json](./3427-chameleon-twist.json) |
 | Chameleon Twist | 366631 | [366631-chameleon-twist.json](./366631-chameleon-twist.json) |
+| Chameleon Twist 2 | 10609 | [10609-chameleon-twist-2.json](./10609-chameleon-twist-2.json) |
 | Chameleon Twist 2 | 186001 | [186001-chameleon-twist-2.json](./186001-chameleon-twist-2.json) |
 | Chameleon: DYH | 203401 | [203401-chameleon-dyh.json](./203401-chameleon-dyh.json) |
 | Chameleon: DYH - Chapter 2 | 243613 | [243613-chameleon-dyh-chapter-2.json](./243613-chameleon-dyh-chapter-2.json) |
@@ -9054,6 +9056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuck Meowrris | 130167 | [130167-chuck-meowrris.json](./130167-chuck-meowrris.json) |
 | Chuck Nolemland: The Starving Kid | 328970 | [328970-chuck-nolemland-the-starving-kid.json](./328970-chuck-nolemland-the-starving-kid.json) |
 | Chuck Norris Superkicks | 23573 | [23573-chuck-norris-superkicks.json](./23573-chuck-norris-superkicks.json) |
+| Chuck Norris: Bring on the Pain | 10228 | [10228-chuck-norris-bring-on-the-pain.json](./10228-chuck-norris-bring-on-the-pain.json) |
 | Chuck Quizmo's Quiz | 328608 | [328608-chuck-quizmos-quiz.json](./328608-chuck-quizmos-quiz.json) |
 | Chuck Rock | 275025 | [275025-chuck-rock.json](./275025-chuck-rock.json) |
 | Chuck Rock | 275026 | [275026-chuck-rock.json](./275026-chuck-rock.json) |
