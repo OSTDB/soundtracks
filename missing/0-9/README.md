@@ -2473,6 +2473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Icon Quiz | 232060 | [232060-3d-icon-quiz.json](./232060-3d-icon-quiz.json) |
 | 3D Illusion Maze Path Puzzle | 100621 | [100621-3d-illusion-maze-path-puzzle.json](./100621-3d-illusion-maze-path-puzzle.json) |
 | 3D Infinity | 108136 | [108136-3d-infinity.json](./108136-3d-infinity.json) |
+| 3D Interceptor | 57942 | [57942-3d-interceptor.json](./57942-3d-interceptor.json) |
 | 3D Joys | 205073 | [205073-3d-joys.json](./205073-3d-joys.json) |
 | 3D Kaleidoscope: Baby Universe | 143644 | [143644-3d-kaleidoscope-baby-universe.json](./143644-3d-kaleidoscope-baby-universe.json) |
 | 3D Kimodameshi: Norowareta Haioku | 358595 | [358595-3d-kimodameshi-norowareta-haioku.json](./358595-3d-kimodameshi-norowareta-haioku.json) |
@@ -3748,6 +3749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ô | 360452 | [360452-o.json](./360452-o.json) |
 | Ōban Star-Racers | 379410 | [379410-oban-star-racers.json](./379410-oban-star-racers.json) |
 | Ødeborg | 356297 | [356297-deborg.json](./356297-deborg.json) |
+| Öhlins Hyper-Rally | 57871 | [57871-ohlins-hyper-rally.json](./57871-ohlins-hyper-rally.json) |
 | Ōkamiden | 16618 | [16618-okamiden.json](./16618-okamiden.json) |
 | Ôpe | 130531 | [130531-ope.json](./130531-ope.json) |
 | Örnöga: Idle | 344651 | [344651-ornoga-idle.json](./344651-ornoga-idle.json) |
