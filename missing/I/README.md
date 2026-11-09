@@ -2150,6 +2150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Il Fiore di Moretti | 331141 | [331141-il-fiore-di-moretti.json](./331141-il-fiore-di-moretti.json) |
 | Il Grande Gioco di Tangentopoli | 281465 | [281465-il-grande-gioco-di-tangentopoli.json](./281465-il-grande-gioco-di-tangentopoli.json) |
 | Il Maniero Spettrale | 256774 | [256774-il-maniero-spettrale.json](./256774-il-maniero-spettrale.json) |
+| Il Piccolo Freakstein | 73405 | [73405-il-piccolo-freakstein.json](./73405-il-piccolo-freakstein.json) |
 | Il Sole e la Luna | 118989 | [118989-il-sole-e-la-luna.json](./118989-il-sole-e-la-luna.json) |
 | Il Sole e la Luna 2 | 393456 | [393456-il-sole-e-la-luna-2.json](./393456-il-sole-e-la-luna-2.json) |
 | Il Suo Volto Era Una Maschera Di Sangue | 375337 | [375337-il-suo-volto-era-una-maschera-di-sangue.json](./375337-il-suo-volto-era-una-maschera-di-sangue.json) |
@@ -3998,7 +3999,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
