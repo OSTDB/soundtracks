@@ -4307,6 +4307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AEW: Rise to the Top | 283001 | [283001-aew-rise-to-the-top.json](./283001-aew-rise-to-the-top.json) |
 | Aexia | 258924 | [258924-aexia.json](./258924-aexia.json) |
 | Aexxos | 373488 | [373488-aexxos.json](./373488-aexxos.json) |
+| AF-Zero | 75325 | [75325-af-zero.json](./75325-af-zero.json) |
 | Afallon | 283879 | [283879-afallon.json](./283879-afallon.json) |
 | Afandas Survival | 93672 | [93672-afandas-survival.json](./93672-afandas-survival.json) |
 | AFAR: An Interactive Horror Film | 381551 | [381551-afar-an-interactive-horror-film.json](./381551-afar-an-interactive-horror-film.json) |
@@ -8164,6 +8165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alter A.I.L.A. Genesis | 308425 | [308425-alter-a-i-l-a-genesis.json](./308425-alter-a-i-l-a-genesis.json) |
 | Alter Aeon | 228745 | [228745-alter-aeon.json](./228745-alter-aeon.json) |
 | Alter Age | 310513 | [310513-alter-age.json](./310513-alter-age.json) |
+| Alter Army | 75368 | [75368-alter-army.json](./75368-alter-army.json) |
 | Alter Cosmos | 103539 | [103539-alter-cosmos.json](./103539-alter-cosmos.json) |
 | Alter Dogma | 219944 | [219944-alter-dogma.json](./219944-alter-dogma.json) |
 | Alter Echo | 1989 | [1989-alter-echo.json](./1989-alter-echo.json) |
@@ -14890,6 +14892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Art of Fauna: Cozy Puzzles+ | 415280 | [415280-art-of-fauna-cozy-puzzles.json](./415280-art-of-fauna-cozy-puzzles.json) |
 | Art of Fighting | 4514 | [4514-art-of-fighting.json](./4514-art-of-fighting.json) |
 | Art of Fighting 2 | 6556 | [6556-art-of-fighting-2.json](./6556-art-of-fighting-2.json) |
+| Art of Fighting 3: Limited Edition | 75375 | [75375-art-of-fighting-3-limited-edition.json](./75375-art-of-fighting-3-limited-edition.json) |
 | Art of Fighting Anthology | 21530 | [21530-art-of-fighting-anthology.json](./21530-art-of-fighting-anthology.json) |
 | Art of Fighting: Trouble in South Town | 230256 | [230256-art-of-fighting-trouble-in-south-town.json](./230256-art-of-fighting-trouble-in-south-town.json) |
 | Art of Glide 3 | 332325 | [332325-art-of-glide-3.json](./332325-art-of-glide-3.json) |
