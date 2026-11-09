@@ -4494,6 +4494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inner Kung Fu Game | 99539 | [99539-inner-kung-fu-game.json](./99539-inner-kung-fu-game.json) |
 | Inner Life | 185081 | [185081-inner-life.json](./185081-inner-life.json) |
 | Inner Light | 190363 | [190363-inner-light.json](./190363-inner-light.json) |
+| Inner Mazes: Souls Guides | 74613 | [74613-inner-mazes-souls-guides.json](./74613-inner-mazes-souls-guides.json) |
 | Inner Riddle | 96669 | [96669-inner-riddle.json](./96669-inner-riddle.json) |
 | Inner Rooms | 405938 | [405938-inner-rooms.json](./405938-inner-rooms.json) |
 | Inner Seasons | 258964 | [258964-inner-seasons.json](./258964-inner-seasons.json) |
