@@ -1416,6 +1416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Fall | 148980 | [148980-candy-fall.json](./148980-candy-fall.json) |
 | Candy Girl | 382784 | [382784-candy-girl.json](./382784-candy-girl.json) |
 | Candy Girlfriend | 207614 | [207614-candy-girlfriend.json](./207614-candy-girlfriend.json) |
+| Candy Gliders | 25124 | [25124-candy-gliders.json](./25124-candy-gliders.json) |
 | Candy Golf | 320029 | [320029-candy-golf.json](./320029-candy-golf.json) |
 | Candy Gun | 163705 | [163705-candy-gun.json](./163705-candy-gun.json) |
 | Candy Hair Salon | 90898 | [90898-candy-hair-salon.json](./90898-candy-hair-salon.json) |
@@ -4598,6 +4599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catch Pokémon | 341322 | [341322-catch-pokemon.json](./341322-catch-pokemon.json) |
 | Catch Royale | 368667 | [368667-catch-royale.json](./368667-catch-royale.json) |
 | Catch Simona in New York City | 69004 | [69004-catch-simona-in-new-york-city.json](./69004-catch-simona-in-new-york-city.json) |
+| Catch the Baguette | 24484 | [24484-catch-the-baguette.json](./24484-catch-the-baguette.json) |
 | Catch the Ball / Noughts and Crosses | 27227 | [27227-catch-the-ball-noughts-and-crosses.json](./27227-catch-the-ball-noughts-and-crosses.json) |
 | Catch the Ball 3 | 126720 | [126720-catch-the-ball-3.json](./126720-catch-the-ball-3.json) |
 | Catch the Balls | 348273 | [348273-catch-the-balls.json](./348273-catch-the-balls.json) |
@@ -13817,6 +13819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Physics Simulator 2023 | 221137 | [221137-computer-physics-simulator-2023.json](./221137-computer-physics-simulator-2023.json) |
 | Computer Quarterback | 25128 | [25128-computer-quarterback.json](./25128-computer-quarterback.json) |
 | Computer Repair Shop | 256284 | [256284-computer-repair-shop.json](./256284-computer-repair-shop.json) |
+| Computer Repair Simulator | 24436 | [24436-computer-repair-simulator.json](./24436-computer-repair-simulator.json) |
 | Computer Scrabble | 79000 | [79000-computer-scrabble.json](./79000-computer-scrabble.json) |
 | Computer Scrabble De Luxe | 72281 | [72281-computer-scrabble-de-luxe.json](./72281-computer-scrabble-de-luxe.json) |
 | Computer Shrilow | 363679 | [363679-computer-shrilow.json](./363679-computer-shrilow.json) |
@@ -21783,6 +21786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cynoroid Gaiden | 150167 | [150167-cynoroid-gaiden.json](./150167-cynoroid-gaiden.json) |
 | Cynoroid: Gentagelse | 120678 | [120678-cynoroid-gentagelse.json](./120678-cynoroid-gentagelse.json) |
 | Cynostone | 252248 | [252248-cynostone.json](./252248-cynostone.json) |
+| Cynosura | 24402 | [24402-cynosura.json](./24402-cynosura.json) |
 | Cynosure | 105553 | [105553-cynosure.json](./105553-cynosure.json) |
 | Cynthia: Hidden in the Moonshadow | 190984 | [190984-cynthia-hidden-in-the-moonshadow.json](./190984-cynthia-hidden-in-the-moonshadow.json) |
 | Cynthia: Hidden in the Moonshadow - Accessory Pack #1 | 313787 | [313787-cynthia-hidden-in-the-moonshadow-accessory-pack-1.json](./313787-cynthia-hidden-in-the-moonshadow-accessory-pack-1.json) |
