@@ -10499,6 +10499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian's Crusade | 22835 | [22835-guardians-crusade.json](./22835-guardians-crusade.json) |
 | Guardian's Guide | 291181 | [291181-guardians-guide.json](./291181-guardians-guide.json) |
 | Guardian's Oath | 31202 | [31202-guardians-oath.json](./31202-guardians-oath.json) |
+| Guardian's Sword | 71684 | [71684-guardians-sword.json](./71684-guardians-sword.json) |
 | Guardians | 258382 | [258382-guardians.json](./258382-guardians.json) |
 | Guardians | 340155 | [340155-guardians.json](./340155-guardians.json) |
 | Guardians Frontline | 144110 | [144110-guardians-frontline.json](./144110-guardians-frontline.json) |
@@ -10527,6 +10528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardians of Greyrock: Card Pack - Traps And Treasure | 335314 | [335314-guardians-of-greyrock-card-pack-traps-and-treasure.json](./335314-guardians-of-greyrock-card-pack-traps-and-treasure.json) |
 | Guardians of Gridvale | 217113 | [217113-guardians-of-gridvale.json](./217113-guardians-of-gridvale.json) |
 | Guardians of Hyelore | 142534 | [142534-guardians-of-hyelore.json](./142534-guardians-of-hyelore.json) |
+| Guardians of Infinity: To Save Kennedy | 71677 | [71677-guardians-of-infinity-to-save-kennedy.json](./71677-guardians-of-infinity-to-save-kennedy.json) |
 | Guardians of Lodino Forest | 138672 | [138672-guardians-of-lodino-forest.json](./138672-guardians-of-lodino-forest.json) |
 | Guardians of Lumen | 149140 | [149140-guardians-of-lumen.json](./149140-guardians-of-lumen.json) |
 | Guardians of Magic: Amanda's Awakening | 19315 | [19315-guardians-of-magic-amandas-awakening.json](./19315-guardians-of-magic-amandas-awakening.json) |
