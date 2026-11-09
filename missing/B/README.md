@@ -10520,6 +10520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blind | 204215 | [204215-blind.json](./204215-blind.json) |
 | Blind | 216787 | [216787-blind.json](./216787-blind.json) |
 | Blind Affection | 180562 | [180562-blind-affection.json](./180562-blind-affection.json) |
+| Blind Alley | 13974 | [13974-blind-alley.json](./13974-blind-alley.json) |
 | Blind and Schizophrenic | 242965 | [242965-blind-and-schizophrenic.json](./242965-blind-and-schizophrenic.json) |
 | Blind and Stumbling | 369815 | [369815-blind-and-stumbling.json](./369815-blind-and-stumbling.json) |
 | Blind Bird | 105605 | [105605-blind-bird.json](./105605-blind-bird.json) |
@@ -10745,6 +10746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobbins | 151745 | [151745-blobbins.json](./151745-blobbins.json) |
 | Blobbins 2048 | 115417 | [115417-blobbins-2048.json](./115417-blobbins-2048.json) |
 | Blobble Wars 2 | 208636 | [208636-blobble-wars-2.json](./208636-blobble-wars-2.json) |
+| Blobbo | 13975 | [13975-blobbo.json](./13975-blobbo.json) |
 | Blobbs Remastered | 335810 | [335810-blobbs-remastered.json](./335810-blobbs-remastered.json) |
 | Blobbton | 315687 | [315687-blobbton.json](./315687-blobbton.json) |
 | Blobby Jump | 194287 | [194287-blobby-jump.json](./194287-blobby-jump.json) |
@@ -11789,6 +11791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloody Moon | 271072 | [271072-bloody-moon.json](./271072-bloody-moon.json) |
 | Bloody Night Cult | 336446 | [336446-bloody-night-cult.json](./336446-bloody-night-cult.json) |
 | Bloody Nightshift | 176743 | [176743-bloody-nightshift.json](./176743-bloody-nightshift.json) |
+| Bloody Paws | 13976 | [13976-bloody-paws.json](./13976-bloody-paws.json) |
 | Bloody Paws Unleashed | 159994 | [159994-bloody-paws-unleashed.json](./159994-bloody-paws-unleashed.json) |
 | Bloody Pigs 1996 | 199236 | [199236-bloody-pigs-1996.json](./199236-bloody-pigs-1996.json) |
 | Bloody Pulp Fiction | 142685 | [142685-bloody-pulp-fiction.json](./142685-bloody-pulp-fiction.json) |
@@ -12362,6 +12365,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BMX Freestyle | 13411 | [13411-bmx-freestyle.json](./13411-bmx-freestyle.json) |
 | BMX Freestyle | 323850 | [323850-bmx-freestyle.json](./323850-bmx-freestyle.json) |
 | BMX Gravel | 281965 | [281965-bmx-gravel.json](./281965-bmx-gravel.json) |
+| BMX Jungle Bike | 13977 | [13977-bmx-jungle-bike.json](./13977-bmx-jungle-bike.json) |
 | BMX Kidz | 13412 | [13412-bmx-kidz.json](./13412-bmx-kidz.json) |
 | BMX Ninja | 13413 | [13413-bmx-ninja.json](./13413-bmx-ninja.json) |
 | BMX on the Moon | 15680 | [15680-bmx-on-the-moon.json](./15680-bmx-on-the-moon.json) |
@@ -13389,6 +13393,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bong Bong | 111549 | [111549-bong-bong.json](./111549-bong-bong.json) |
 | BongBongCapy | 400862 | [400862-bongbongcapy.json](./400862-bongbongcapy.json) |
 | Bongirl | 191003 | [191003-bongirl.json](./191003-bongirl.json) |
+| Bongo | 13978 | [13978-bongo.json](./13978-bongo.json) |
 | Bongo | 240026 | [240026-bongo.json](./240026-bongo.json) |
 | Bongo Cat | 334486 | [334486-bongo-cat.json](./334486-bongo-cat.json) |
 | Bongo Loves the Bible | 146262 | [146262-bongo-loves-the-bible.json](./146262-bongo-loves-the-bible.json) |
@@ -14380,6 +14385,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncers | 131481 | [131481-bouncers.json](./131481-bouncers.json) |
 | Bouncers | 259755 | [259755-bouncers.json](./259755-bouncers.json) |
 | Bouncers | 46422 | [46422-bouncers.json](./46422-bouncers.json) |
+| Bounces | 13979 | [13979-bounces.json](./13979-bounces.json) |
 | BounceShot | 182484 | [182484-bounceshot.json](./182484-bounceshot.json) |
 | BounciBall | 78293 | [78293-bounciball.json](./78293-bounciball.json) |
 | Bouncin' Baby Bunnies | 282632 | [282632-bouncin-baby-bunnies.json](./282632-bouncin-baby-bunnies.json) |
@@ -15034,6 +15040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brain Champ | 273747 | [273747-brain-champ.json](./273747-brain-champ.json) |
 | Brain Code | 321500 | [321500-brain-code.json](./321500-brain-code.json) |
 | Brain Cop | 179434 | [179434-brain-cop.json](./179434-brain-cop.json) |
+| Brain Damage | 13980 | [13980-brain-damage.json](./13980-brain-damage.json) |
 | Brain Damage | 239192 | [239192-brain-damage.json](./239192-brain-damage.json) |
 | Brain Damage | 243591 | [243591-brain-damage.json](./243591-brain-damage.json) |
 | Brain Deluxe | 68641 | [68641-brain-deluxe.json](./68641-brain-deluxe.json) |
@@ -16010,6 +16017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brewconomy | 372656 | [372656-brewconomy.json](./372656-brewconomy.json) |
 | Brewed Horizons | 317161 | [317161-brewed-horizons.json](./317161-brewed-horizons.json) |
 | Brewer | 117386 | [117386-brewer.json](./117386-brewer.json) |
+| Brewery | 13981 | [13981-brewery.json](./13981-brewery.json) |
 | Brewess | 245835 | [245835-brewess.json](./245835-brewess.json) |
 | Brewgether | 406123 | [406123-brewgether.json](./406123-brewgether.json) |
 | Brewing Drawings | 184891 | [184891-brewing-drawings.json](./184891-brewing-drawings.json) |
@@ -16452,6 +16460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brisk Square | 151178 | [151178-brisk-square.json](./151178-brisk-square.json) |
 | Brisk Up | 291389 | [291389-brisk-up.json](./291389-brisk-up.json) |
 | Bristle and the Artificial Invasion | 316102 | [316102-bristle-and-the-artificial-invasion.json](./316102-bristle-and-the-artificial-invasion.json) |
+| Bristles | 13982 | [13982-bristles.json](./13982-bristles.json) |
 | Bristles | 23863 | [23863-bristles.json](./23863-bristles.json) |
 | Britannia | 190913 | [190913-britannia.json](./190913-britannia.json) |
 | Britannic | 127748 | [127748-britannic.json](./127748-britannic.json) |
@@ -17615,6 +17624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buggy | 35080 | [35080-buggy.json](./35080-buggy.json) |
 | Buggy | 356042 | [356042-buggy.json](./356042-buggy.json) |
 | Buggy Battle | 179349 | [179349-buggy-battle.json](./179349-buggy-battle.json) |
+| Buggy Blast | 13984 | [13984-buggy-blast.json](./13984-buggy-blast.json) |
 | Buggy Boogie | 66677 | [66677-buggy-boogie.json](./66677-buggy-boogie.json) |
 | Buggy Boy | 12728 | [12728-buggy-boy.json](./12728-buggy-boy.json) |
 | Buggy Bump | 127442 | [127442-buggy-bump.json](./127442-buggy-bump.json) |
