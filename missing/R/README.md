@@ -2975,6 +2975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Carrom | 167030 | [167030-real-carrom.json](./167030-real-carrom.json) |
 | Real City Car Driving Sim 2017 | 88878 | [88878-real-city-car-driving-sim-2017.json](./88878-real-city-car-driving-sim-2017.json) |
 | Real Communism | 273963 | [273963-real-communism.json](./273963-real-communism.json) |
+| Real Cricket '14 | 61198 | [61198-real-cricket-14.json](./61198-real-cricket-14.json) |
 | Real Cricket 20 | 202113 | [202113-real-cricket-20.json](./202113-real-cricket-20.json) |
 | Real Cricket 22 | 202192 | [202192-real-cricket-22.json](./202192-real-cricket-22.json) |
 | Real Cricket Go | 233506 | [233506-real-cricket-go.json](./233506-real-cricket-go.json) |
@@ -6203,6 +6204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retro Dust | 175375 | [175375-retro-dust.json](./175375-retro-dust.json) |
 | Retro Endurance 8bit | 340695 | [340695-retro-endurance-8bit.json](./340695-retro-endurance-8bit.json) |
 | Retro Fears | 357200 | [357200-retro-fears.json](./357200-retro-fears.json) |
+| Retro Fever | 60713 | [60713-retro-fever.json](./60713-retro-fever.json) |
 | Retro Fighter | 386937 | [386937-retro-fighter.json](./386937-retro-fighter.json) |
 | Retro Fighter: Dragon's Revenge | 147690 | [147690-retro-fighter-dragons-revenge.json](./147690-retro-fighter-dragons-revenge.json) |
 | Retro First Friday Collection #1 | 154616 | [154616-retro-first-friday-collection-1.json](./154616-retro-first-friday-collection-1.json) |
@@ -6412,6 +6414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrowave: Map Pack | 201390 | [201390-retrowave-map-pack.json](./201390-retrowave-map-pack.json) |
 | Retrozen | 298417 | [298417-retrozen.json](./298417-retrozen.json) |
 | Retruco 3D | 401508 | [401508-retruco-3d.json](./401508-retruco-3d.json) |
+| Retry | 60715 | [60715-retry.json](./60715-retry.json) |
 | Retrys | 355576 | [355576-retrys.json](./355576-retrys.json) |
 | Retsnom | 34946 | [34946-retsnom.json](./34946-retsnom.json) |
 | Rettend: File 1 | 185931 | [185931-rettend-file-1.json](./185931-rettend-file-1.json) |
