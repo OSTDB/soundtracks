@@ -1721,6 +1721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paper Monsters Recut | 17668 | [17668-paper-monsters-recut.json](./17668-paper-monsters-recut.json) |
 | Paper Nebula | 213445 | [213445-paper-nebula.json](./213445-paper-nebula.json) |
 | Paper Needs Inspiration! | 224827 | [224827-paper-needs-inspiration.json](./224827-paper-needs-inspiration.json) |
+| Paper Ninja | 66316 | [66316-paper-ninja.json](./66316-paper-ninja.json) |
 | Paper Nomad: Master Edition | 311733 | [311733-paper-nomad-master-edition.json](./311733-paper-nomad-master-edition.json) |
 | Paper Pal | 305481 | [305481-paper-pal.json](./305481-paper-pal.json) |
 | Paper Paws | 408413 | [408413-paper-paws.json](./408413-paper-paws.json) |
@@ -5206,6 +5207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pets No More | 154818 | [154818-pets-no-more.json](./154818-pets-no-more.json) |
 | Pets Resort 3D | 85340 | [85340-pets-resort-3d.json](./85340-pets-resort-3d.json) |
 | Pets Survivors | 411145 | [411145-pets-survivors.json](./411145-pets-survivors.json) |
+| Pets Vs. Monsters | 66830 | [66830-pets-vs-monsters.json](./66830-pets-vs-monsters.json) |
 | PETSCII Bros | 290652 | [290652-petscii-bros.json](./290652-petscii-bros.json) |
 | PETSCII Raiders | 290655 | [290655-petscii-raiders.json](./290655-petscii-raiders.json) |
 | PetShop | 235494 | [235494-petshop.json](./235494-petshop.json) |
@@ -7866,6 +7868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Twist | 415971 | [415971-pirate-twist.json](./415971-pirate-twist.json) |
 | Pirate Year Thousand: The Kraken Piece | 309031 | [309031-pirate-year-thousand-the-kraken-piece.json](./309031-pirate-year-thousand-the-kraken-piece.json) |
 | Pirate's Boom Boom | 264963 | [264963-pirates-boom-boom.json](./264963-pirates-boom-boom.json) |
+| Pirate's Chase | 66808 | [66808-pirates-chase.json](./66808-pirates-chase.json) |
 | Pirate's Den Renovator | 211185 | [211185-pirates-den-renovator.json](./211185-pirates-den-renovator.json) |
 | Pirate's Dual | 390236 | [390236-pirates-dual.json](./390236-pirates-dual.json) |
 | Pirate's Gambit | 347091 | [347091-pirates-gambit.json](./347091-pirates-gambit.json) |
@@ -9170,6 +9173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pizza Express | 35121 | [35121-pizza-express.json](./35121-pizza-express.json) |
 | Pizza Fighter Deluxe | 90391 | [90391-pizza-fighter-deluxe.json](./90391-pizza-fighter-deluxe.json) |
 | Pizza for Creeps | 371552 | [371552-pizza-for-creeps.json](./371552-pizza-for-creeps.json) |
+| Pizza Frenzy | 66800 | [66800-pizza-frenzy.json](./66800-pizza-frenzy.json) |
 | Pizza Fun | 218551 | [218551-pizza-fun.json](./218551-pizza-fun.json) |
 | Pizza Hero | 262899 | [262899-pizza-hero.json](./262899-pizza-hero.json) |
 | Pizza House Simulator | 406274 | [406274-pizza-house-simulator.json](./406274-pizza-house-simulator.json) |
@@ -10676,6 +10680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Fish | 67942 | [67942-pocket-fish.json](./67942-pocket-fish.json) |
 | Pocket Fishing | 286199 | [286199-pocket-fishing.json](./286199-pocket-fishing.json) |
 | Pocket Foosball | 280150 | [280150-pocket-foosball.json](./280150-pocket-foosball.json) |
+| Pocket Frogs | 66320 | [66320-pocket-frogs.json](./66320-pocket-frogs.json) |
 | Pocket Furies | 414323 | [414323-pocket-furies.json](./414323-pocket-furies.json) |
 | Pocket Gal | 39501 | [39501-pocket-gal.json](./39501-pocket-gal.json) |
 | Pocket Gal Deluxe | 40127 | [40127-pocket-gal-deluxe.json](./40127-pocket-gal-deluxe.json) |
