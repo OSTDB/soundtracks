@@ -960,6 +960,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ican | 116690 | [116690-ican.json](./116690-ican.json) |
 | Icarace | 125825 | [125825-icarace.json](./125825-icarace.json) |
 | Icaria | 270555 | [270555-icaria.json](./270555-icaria.json) |
+| iCarly | 4921 | [4921-icarly.json](./4921-icarly.json) |
+| iCarly 2: iJoin the Click | 4922 | [4922-icarly-2-ijoin-the-click.json](./4922-icarly-2-ijoin-the-click.json) |
 | iCarly ipinball | 374219 | [374219-icarly-ipinball.json](./374219-icarly-ipinball.json) |
 | Icarly vs. Bigfoot | 324869 | [324869-icarly-vs-bigfoot.json](./324869-icarly-vs-bigfoot.json) |
 | iCarly: Gibby Pinball | 141486 | [141486-icarly-gibby-pinball.json](./141486-icarly-gibby-pinball.json) |
@@ -2352,6 +2354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ima Sugu Onii-chan ni Imouto da tte Iitai! | 62444 | [62444-ima-sugu-onii-chan-ni-imouto-da-tte-iitai.json](./62444-ima-sugu-onii-chan-ni-imouto-da-tte-iitai.json) |
 | Ima Survivor | 305950 | [305950-ima-survivor.json](./305950-ima-survivor.json) |
 | Ima wo Ikinobite | 208611 | [208611-ima-wo-ikinobite.json](./208611-ima-wo-ikinobite.json) |
+| Imabikisou | 4924 | [4924-imabikisou.json](./4924-imabikisou.json) |
 | Imada ni Yokuaru Dasshutsu Game | 320005 | [320005-imada-ni-yokuaru-dasshutsu-game.json](./320005-imada-ni-yokuaru-dasshutsu-game.json) |
 | Imadoki no Vampire: Bloody Bride | 43778 | [43778-imadoki-no-vampire-bloody-bride.json](./43778-imadoki-no-vampire-bloody-bride.json) |
 | Imae: Guardian Girl | 387536 | [387536-imae-guardian-girl.json](./387536-imae-guardian-girl.json) |
@@ -2391,14 +2394,17 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Imagination | 13007 | [13007-imagination.json](./13007-imagination.json) |
 | Imaginator | 122419 | [122419-imaginator.json](./122419-imaginator.json) |
 | Imagindar | 261937 | [261937-imagindar.json](./261937-imagindar.json) |
+| Imagine Babyz | 4926 | [4926-imagine-babyz.json](./4926-imagine-babyz.json) |
 | Imagine Earth | 17111 | [17111-imagine-earth.json](./17111-imagine-earth.json) |
 | Imagine Earth: Galaxies | 365584 | [365584-imagine-earth-galaxies.json](./365584-imagine-earth-galaxies.json) |
+| Imagine Fashion Party | 4927 | [4927-imagine-fashion-party.json](./4927-imagine-fashion-party.json) |
 | Imagine Island | 341607 | [341607-imagine-island.json](./341607-imagine-island.json) |
 | Imagine Lifetimes | 128937 | [128937-imagine-lifetimes.json](./128937-imagine-lifetimes.json) |
 | Imagine Nations | 62521 | [62521-imagine-nations.json](./62521-imagine-nations.json) |
 | Imagine Sisyphus Happy | 366716 | [366716-imagine-sisyphus-happy.json](./366716-imagine-sisyphus-happy.json) |
 | Imagine We Were Human | 419839 | [419839-imagine-we-were-human.json](./419839-imagine-we-were-human.json) |
 | Imagine Wind | 418891 | [418891-imagine-wind.json](./418891-imagine-wind.json) |
+| Imagine: Animal Doctor | 4925 | [4925-imagine-animal-doctor.json](./4925-imagine-animal-doctor.json) |
 | Imagine: Animal Doctor Care Center | 7948 | [7948-imagine-animal-doctor-care-center.json](./7948-imagine-animal-doctor-care-center.json) |
 | Imagine: Artist | 7944 | [7944-imagine-artist.json](./7944-imagine-artist.json) |
 | Imagine: Babies 3D | 7951 | [7951-imagine-babies-3d.json](./7951-imagine-babies-3d.json) |
