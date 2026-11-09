@@ -8648,6 +8648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eyeballs are your Enemies! | 166603 | [166603-eyeballs-are-your-enemies.json](./166603-eyeballs-are-your-enemies.json) |
 | Eyeboss | 181906 | [181906-eyeboss.json](./181906-eyeboss.json) |
 | Eyedentify | 91685 | [91685-eyedentify.json](./91685-eyedentify.json) |
+| Eyehand | 64006 | [64006-eyehand.json](./64006-eyehand.json) |
 | Eyehold Blocks | 399902 | [399902-eyehold-blocks.json](./399902-eyehold-blocks.json) |
 | Eyeland | 200766 | [200766-eyeland.json](./200766-eyeland.json) |
 | Eyeland 2 | 272469 | [272469-eyeland-2.json](./272469-eyeland-2.json) |
