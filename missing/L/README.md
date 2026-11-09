@@ -3030,6 +3030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of War | 20014 | [20014-legends-of-war.json](./20014-legends-of-war.json) |
 | Legends of War: Chronicles of Darkness | 377114 | [377114-legends-of-war-chronicles-of-darkness.json](./377114-legends-of-war-chronicles-of-darkness.json) |
 | Legends of War: Patton | 20015 | [20015-legends-of-war-patton.json](./20015-legends-of-war-patton.json) |
+| Legends of War: Patton's Campaign | 68053 | [68053-legends-of-war-pattons-campaign.json](./68053-legends-of-war-pattons-campaign.json) |
 | Legends of Wasteland | 391113 | [391113-legends-of-wasteland.json](./391113-legends-of-wasteland.json) |
 | Legends of Wrestling | 3974 | [3974-legends-of-wrestling.json](./3974-legends-of-wrestling.json) |
 | Legends of Wrestling II | 194214 | [194214-legends-of-wrestling-ii.json](./194214-legends-of-wrestling-ii.json) |
@@ -6740,6 +6741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Livingstone Supongo | 37079 | [37079-livingstone-supongo.json](./37079-livingstone-supongo.json) |
 | Livingstone Supongo II | 79441 | [79441-livingstone-supongo-ii.json](./79441-livingstone-supongo-ii.json) |
 | Livli: A Sámi Story | 293894 | [293894-livli-a-sami-story.json](./293894-livli-a-sami-story.json) |
+| Livly Garden | 67735 | [67735-livly-garden.json](./67735-livly-garden.json) |
 | Livly Island | 194764 | [194764-livly-island.json](./194764-livly-island.json) |
 | Livora | 402966 | [402966-livora.json](./402966-livora.json) |
 | Liwertown: Rebirth | 267453 | [267453-liwertown-rebirth.json](./267453-liwertown-rebirth.json) |
