@@ -7254,6 +7254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Flow's 1 Remaster | 377843 | [377843-five-nights-at-flows-1-remaster.json](./377843-five-nights-at-flows-1-remaster.json) |
 | Five Nights at Flow's 2 | 377842 | [377842-five-nights-at-flows-2.json](./377842-five-nights-at-flows-2.json) |
 | Five Nights at Fredbear's | 278301 | [278301-five-nights-at-fredbears.json](./278301-five-nights-at-fredbears.json) |
+| Five Nights at Freddy's | 223088 | [223088-five-nights-at-freddys.json](./223088-five-nights-at-freddys.json) |
 | Five Nights at Freddy's | 308405 | [308405-five-nights-at-freddys.json](./308405-five-nights-at-freddys.json) |
 | Five Nights at Freddy's | 339271 | [339271-five-nights-at-freddys.json](./339271-five-nights-at-freddys.json) |
 | Five Nights at Freddy's | 8499 | [8499-five-nights-at-freddys.json](./8499-five-nights-at-freddys.json) |
@@ -7295,6 +7296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Five Nights at Freddy's: Blood & Gears | 331177 | [331177-five-nights-at-freddys-blood-and-gears.json](./331177-five-nights-at-freddys-blood-and-gears.json) |
 | Five Nights at Freddy's: Core Collection | 140169 | [140169-five-nights-at-freddys-core-collection.json](./140169-five-nights-at-freddys-core-collection.json) |
 | Five Nights At Freddy's: Guard Vs Guard | 176667 | [176667-five-nights-at-freddys-guard-vs-guard.json](./176667-five-nights-at-freddys-guard-vs-guard.json) |
+| Five Nights at Freddy's: Help Wanted | 115304 | [115304-five-nights-at-freddys-help-wanted.json](./115304-five-nights-at-freddys-help-wanted.json) |
 | Five Nights at Freddy's: Help Wanted | 241473 | [241473-five-nights-at-freddys-help-wanted.json](./241473-five-nights-at-freddys-help-wanted.json) |
 | Five Nights at Freddy's: Help Wanted - Bundle | 240281 | [240281-five-nights-at-freddys-help-wanted-bundle.json](./240281-five-nights-at-freddys-help-wanted-bundle.json) |
 | Five Nights at Freddy's: Help Wanted - Curse of Dreadbear | 169108 | [169108-five-nights-at-freddys-help-wanted-curse-of-dreadbear.json](./169108-five-nights-at-freddys-help-wanted-curse-of-dreadbear.json) |
