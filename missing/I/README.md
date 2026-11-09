@@ -5165,6 +5165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Cup '94 | 40346 | [40346-international-cup-94.json](./40346-international-cup-94.json) |
 | International Football | 69535 | [69535-international-football.json](./69535-international-football.json) |
 | International Golf Pro | 43446 | [43446-international-golf-pro.json](./43446-international-golf-pro.json) |
+| International Gran Prix | 25331 | [25331-international-gran-prix.json](./25331-international-gran-prix.json) |
 | International Hockey | 94629 | [94629-international-hockey.json](./94629-international-hockey.json) |
 | International Jetpack Conference | 60723 | [60723-international-jetpack-conference.json](./60723-international-jetpack-conference.json) |
 | International Karate 2000 | 24164 | [24164-international-karate-2000.json](./24164-international-karate-2000.json) |
@@ -5486,6 +5487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Into the Radius 2 | 279128 | [279128-into-the-radius-2.json](./279128-into-the-radius-2.json) |
 | Into the Restless Ruins | 295885 | [295885-into-the-restless-ruins.json](./295885-into-the-restless-ruins.json) |
 | Into the Rhythm VR | 56620 | [56620-into-the-rhythm-vr.json](./56620-into-the-rhythm-vr.json) |
+| Into the Rift | 25318 | [25318-into-the-rift.json](./25318-into-the-rift.json) |
 | Into the Sinkhole | 213201 | [213201-into-the-sinkhole.json](./213201-into-the-sinkhole.json) |
 | Into the Sky | 236142 | [236142-into-the-sky.json](./236142-into-the-sky.json) |
 | Into the Slimy Mines | 391764 | [391764-into-the-slimy-mines.json](./391764-into-the-slimy-mines.json) |
