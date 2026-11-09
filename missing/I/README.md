@@ -1047,6 +1047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Caves of Europa | 95087 | [95087-ice-caves-of-europa.json](./95087-ice-caves-of-europa.json) |
 | Ice Climber | 246340 | [246340-ice-climber.json](./246340-ice-climber.json) |
 | Ice Climber | 341269 | [341269-ice-climber.json](./341269-ice-climber.json) |
+| Ice Climber | 3666 | [3666-ice-climber.json](./3666-ice-climber.json) |
 | Ice Climber-e | 170012 | [170012-ice-climber-e.json](./170012-ice-climber-e.json) |
 | Ice Cold Beer | 406941 | [406941-ice-cold-beer.json](./406941-ice-cold-beer.json) |
 | Ice Cold Beer | 77592 | [77592-ice-cold-beer.json](./77592-ice-cold-beer.json) |
@@ -4955,6 +4956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Insurgence: Second Assault | 118796 | [118796-insurgence-second-assault.json](./118796-insurgence-second-assault.json) |
 | Insurgence: Second Assault - Remastered | 240805 | [240805-insurgence-second-assault-remastered.json](./240805-insurgence-second-assault-remastered.json) |
 | Insurgency | 14128 | [14128-insurgency.json](./14128-insurgency.json) |
+| Insurgency | 7579 | [7579-insurgency.json](./7579-insurgency.json) |
 | Insurgency Runner | 258485 | [258485-insurgency-runner.json](./258485-insurgency-runner.json) |
 | Insurgency: Modern Infantry Combat | 27533 | [27533-insurgency-modern-infantry-combat.json](./27533-insurgency-modern-infantry-combat.json) |
 | Insurgency: Sandstorm - Breakaway Set Bundle | 225936 | [225936-insurgency-sandstorm-breakaway-set-bundle.json](./225936-insurgency-sandstorm-breakaway-set-bundle.json) |
