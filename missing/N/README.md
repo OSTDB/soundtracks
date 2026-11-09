@@ -1109,6 +1109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naughty New Year | 393385 | [393385-naughty-new-year.json](./393385-naughty-new-year.json) |
 | Naughty Nurse | 416844 | [416844-naughty-nurse.json](./416844-naughty-nurse.json) |
 | Naughty Ones | 12695 | [12695-naughty-ones.json](./12695-naughty-ones.json) |
+| Naughty or Nice | 29973 | [29973-naughty-or-nice.json](./29973-naughty-or-nice.json) |
 | Naughty study for exams with a ghost | 111240 | [111240-naughty-study-for-exams-with-a-ghost.json](./111240-naughty-study-for-exams-with-a-ghost.json) |
 | Naughty Tales of Rabbits: A Cuckold RPG | 301986 | [301986-naughty-tales-of-rabbits-a-cuckold-rpg.json](./301986-naughty-tales-of-rabbits-a-cuckold-rpg.json) |
 | Naughty Young Wife | 97937 | [97937-naughty-young-wife.json](./97937-naughty-young-wife.json) |
@@ -7741,6 +7742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nukewar | 24807 | [24807-nukewar.json](./24807-nukewar.json) |
 | NukiTashi | 201846 | [201846-nukitashi.json](./201846-nukitashi.json) |
 | Nukitashi 2 | 207209 | [207209-nukitashi-2.json](./207209-nukitashi-2.json) |
+| Nukklerma: Robot Warfare | 29988 | [29988-nukklerma-robot-warfare.json](./29988-nukklerma-robot-warfare.json) |
 | Nuklear Klone | 279805 | [279805-nuklear-klone.json](./279805-nuklear-klone.json) |
 | Nuko | 410612 | [410612-nuko.json](./410612-nuko.json) |
 | Nulandia | 304718 | [304718-nulandia.json](./304718-nulandia.json) |
