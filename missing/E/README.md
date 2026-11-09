@@ -3069,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emberfall | 326838 | [326838-emberfall.json](./326838-emberfall.json) |
 | Emberfate: Tempest of Elements | 207069 | [207069-emberfate-tempest-of-elements.json](./207069-emberfate-tempest-of-elements.json) |
 | Emberfly | 336013 | [336013-emberfly.json](./336013-emberfly.json) |
+| Embergarde | 14737 | [14737-embergarde.json](./14737-embergarde.json) |
 | Emberglade | 415895 | [415895-emberglade.json](./415895-emberglade.json) |
 | Emberglass | 154983 | [154983-emberglass.json](./154983-emberglass.json) |
 | Emberheart | 129760 | [129760-emberheart.json](./129760-emberheart.json) |
@@ -4299,6 +4300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigmatis Collection | 52986 | [52986-enigmatis-collection.json](./52986-enigmatis-collection.json) |
 | Enigmatis: The Ghosts of Maple Creek | 17137 | [17137-enigmatis-the-ghosts-of-maple-creek.json](./17137-enigmatis-the-ghosts-of-maple-creek.json) |
 | EnigmBox | 87893 | [87893-enigmbox.json](./87893-enigmbox.json) |
+| Enigme A Oxford | 14770 | [14770-enigme-a-oxford.json](./14770-enigme-a-oxford.json) |
 | Enigmes & Objets Cachés : Le destin de Marie-Antoinette | 46459 | [46459-enigmes-and-objets-caches-le-destin-de-marie-antoinette.json](./46459-enigmes-and-objets-caches-le-destin-de-marie-antoinette.json) |
 | Enigmi.net | 327205 | [327205-enigmi-net.json](./327205-enigmi-net.json) |
 | Enigmic: Crime Puzzle Cases | 412060 | [412060-enigmic-crime-puzzle-cases.json](./412060-enigmic-crime-puzzle-cases.json) |
