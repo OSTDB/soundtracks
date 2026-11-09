@@ -260,6 +260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Obludia | 17657 | [17657-obludia.json](./17657-obludia.json) |
 | Obnulenie | 363905 | [363905-obnulenie.json](./363905-obnulenie.json) |
 | Obocchama Kun | 42040 | [42040-obocchama-kun.json](./42040-obocchama-kun.json) |
+| Obocchamakun | 16594 | [16594-obocchamakun.json](./16594-obocchamakun.json) |
 | Obolus | 423959 | [423959-obolus.json](./423959-obolus.json) |
 | OboStar | 96465 | [96465-obostar.json](./96465-obostar.json) |
 | Obox | 166353 | [166353-obox.json](./166353-obox.json) |
@@ -3177,6 +3178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Only Mine | 192586 | [192586-only-mine.json](./192586-only-mine.json) |
 | Only Mining: Cozy Digging Game | 392859 | [392859-only-mining-cozy-digging-game.json](./392859-only-mining-cozy-digging-game.json) |
 | Only Multiplayer: Up! | 265536 | [265536-only-multiplayer-up.json](./265536-only-multiplayer-up.json) |
+| Only One | 17482 | [17482-only-one.json](./17482-only-one.json) |
 | Only One | 259187 | [259187-only-one.json](./259187-only-one.json) |
 | Only One | 328599 | [328599-only-one.json](./328599-only-one.json) |
 | Only One | 81975 | [81975-only-one.json](./81975-only-one.json) |
