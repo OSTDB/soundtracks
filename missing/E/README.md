@@ -2808,6 +2808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elmo's Monster Maker HD | 89732 | [89732-elmos-monster-maker-hd.json](./89732-elmos-monster-maker-hd.json) |
 | Elmo's Preschool | 201886 | [201886-elmos-preschool.json](./201886-elmos-preschool.json) |
 | Elmo's Reading Basics | 392088 | [392088-elmos-reading-basics.json](./392088-elmos-reading-basics.json) |
+| Elmo's World: Elmo's Big Discoveries | 70700 | [70700-elmos-world-elmos-big-discoveries.json](./70700-elmos-world-elmos-big-discoveries.json) |
 | Elnark no Zaihou | 48507 | [48507-elnark-no-zaihou.json](./48507-elnark-no-zaihou.json) |
 | Elo 1100 Chess | 192404 | [192404-elo-1100-chess.json](./192404-elo-1100-chess.json) |
 | Elo Hell | 105744 | [105744-elo-hell.json](./105744-elo-hell.json) |
@@ -3110,6 +3111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emergency | 249915 | [249915-emergency.json](./249915-emergency.json) |
 | Emergency | 346073 | [346073-emergency.json](./346073-emergency.json) |
 | Emergency 2 | 112482 | [112482-emergency-2.json](./112482-emergency-2.json) |
+| Emergency 2: The Ultimate Fight for Life - Deluxe Edition | 70717 | [70717-emergency-2-the-ultimate-fight-for-life-deluxe-edition.json](./70717-emergency-2-the-ultimate-fight-for-life-deluxe-edition.json) |
 | Emergency 2012 | 27485 | [27485-emergency-2012.json](./27485-emergency-2012.json) |
 | Emergency 2013 | 2979 | [2979-emergency-2013.json](./2979-emergency-2013.json) |
 | Emergency 2014 | 52960 | [52960-emergency-2014.json](./52960-emergency-2014.json) |
