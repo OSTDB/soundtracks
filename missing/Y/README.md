@@ -504,6 +504,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yemita | 183306 | [183306-yemita.json](./183306-yemita.json) |
 | Yemon | 107928 | [107928-yemon.json](./107928-yemon.json) |
 | Yendorian Tales Book I | 2514 | [2514-yendorian-tales-book-i.json](./2514-yendorian-tales-book-i.json) |
+| Yendorian Tales Book I: Chapter 2 | 2497 | [2497-yendorian-tales-book-i-chapter-2.json](./2497-yendorian-tales-book-i-chapter-2.json) |
+| Yendorian Tales: The Tyrants of Thaine | 2495 | [2495-yendorian-tales-the-tyrants-of-thaine.json](./2495-yendorian-tales-the-tyrants-of-thaine.json) |
 | Yenemy | 248728 | [248728-yenemy.json](./248728-yenemy.json) |
 | Yenght | 94258 | [94258-yenght.json](./94258-yenght.json) |
 | Yeolhyeol Kangho W | 215830 | [215830-yeolhyeol-kangho-w.json](./215830-yeolhyeol-kangho-w.json) |
