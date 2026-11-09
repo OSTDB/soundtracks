@@ -20877,6 +20877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cute Patoots | 404909 | [404909-cute-patoots.json](./404909-cute-patoots.json) |
 | Cute Pet Doctor Care | 228113 | [228113-cute-pet-doctor-care.json](./228113-cute-pet-doctor-care.json) |
 | Cute Pet Hospital | 327699 | [327699-cute-pet-hospital.json](./327699-cute-pet-hospital.json) |
+| Cute Pets | 65068 | [65068-cute-pets.json](./65068-cute-pets.json) |
 | Cute Puppy Academy | 328547 | [328547-cute-puppy-academy.json](./328547-cute-puppy-academy.json) |
 | Cute Puzzle | 111015 | [111015-cute-puzzle.json](./111015-cute-puzzle.json) |
 | Cute Puzzle MAX | 111079 | [111079-cute-puzzle-max.json](./111079-cute-puzzle-max.json) |
@@ -21586,6 +21587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cygnus Leapt | 381395 | [381395-cygnus-leapt.json](./381395-cygnus-leapt.json) |
 | Cygnus Racing League | 188462 | [188462-cygnus-racing-league.json](./188462-cygnus-racing-league.json) |
 | Cyjin: The Cyborg Ninja | 146967 | [146967-cyjin-the-cyborg-ninja.json](./146967-cyjin-the-cyborg-ninja.json) |
+| Cyklus | 65073 | [65073-cyklus.json](./65073-cyklus.json) |
 | Cylinder Battle | 176730 | [176730-cylinder-battle.json](./176730-cylinder-battle.json) |
 | Cylinder: Puzzles Returned | 63898 | [63898-cylinder-puzzles-returned.json](./63898-cylinder-puzzles-returned.json) |
 | Cylindrix | 73318 | [73318-cylindrix.json](./73318-cylindrix.json) |
