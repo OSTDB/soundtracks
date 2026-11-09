@@ -2510,6 +2510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Parkour | 345254 | [345254-john-parkour.json](./345254-john-parkour.json) |
 | John Ray Space Adventure | 200210 | [200210-john-ray-space-adventure.json](./200210-john-ray-space-adventure.json) |
 | John Saul's Blackstone Chronicles | 3223 | [3223-john-sauls-blackstone-chronicles.json](./3223-john-sauls-blackstone-chronicles.json) |
+| John Sinclair: Evil Attacks | 73919 | [73919-john-sinclair-evil-attacks.json](./73919-john-sinclair-evil-attacks.json) |
 | John the Zombie | 75333 | [75333-john-the-zombie.json](./75333-john-the-zombie.json) |
 | John Tiller's Campaign Series | 129544 | [129544-john-tillers-campaign-series.json](./129544-john-tillers-campaign-series.json) |
 | John Wheel Memorial | 269568 | [269568-john-wheel-memorial.json](./269568-john-wheel-memorial.json) |
