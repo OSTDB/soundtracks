@@ -5956,6 +5956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Photo Girls: Raw Photo | 399784 | [399784-photo-girls-raw-photo.json](./399784-photo-girls-raw-photo.json) |
 | Photo Hunt - Spot the Differences | 104727 | [104727-photo-hunt-spot-the-differences.json](./104727-photo-hunt-spot-the-differences.json) |
 | Photo Kano | 77420 | [77420-photo-kano.json](./77420-photo-kano.json) |
+| Photo Kano Kiss | 42702 | [42702-photo-kano-kiss.json](./42702-photo-kano-kiss.json) |
 | Photo King | 236600 | [236600-photo-king.json](./236600-photo-king.json) |
 | Photo Phantasy | 47959 | [47959-photo-phantasy.json](./47959-photo-phantasy.json) |
 | Photo Phantasy: Spot the Differences | 58128 | [58128-photo-phantasy-spot-the-differences.json](./58128-photo-phantasy-spot-the-differences.json) |
