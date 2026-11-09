@@ -2533,6 +2533,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gearbits: Raider Expedition | 311094 | [311094-gearbits-raider-expedition.json](./311094-gearbits-raider-expedition.json) |
 | GearBlocks | 123193 | [123193-gearblocks.json](./123193-gearblocks.json) |
 | Gearcrack Arena | 8924 | [8924-gearcrack-arena.json](./8924-gearcrack-arena.json) |
+| Geared | 35961 | [35961-geared.json](./35961-geared.json) |
 | Geared 2! | 92145 | [92145-geared-2.json](./92145-geared-2.json) |
 | Geared for Fear | 219336 | [219336-geared-for-fear.json](./219336-geared-for-fear.json) |
 | Gearend | 29963 | [29963-gearend.json](./29963-gearend.json) |
