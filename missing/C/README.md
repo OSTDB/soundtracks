@@ -5993,6 +5993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champ Man | 63023 | [63023-champ-man.json](./63023-champ-man.json) |
 | Champ Man 15 | 60223 | [60223-champ-man-15.json](./60223-champ-man-15.json) |
 | Champ Man 16 | 58377 | [58377-champ-man-16.json](./58377-champ-man-16.json) |
+| Champ Manager 2006 | 38459 | [38459-champ-manager-2006.json](./38459-champ-manager-2006.json) |
 | Champ Ms. Pac-em | 92896 | [92896-champ-ms-pac-em.json](./92896-champ-ms-pac-em.json) |
 | Champ's Nightmare | 238076 | [238076-champs-nightmare.json](./238076-champs-nightmare.json) |
 | Champi | 338508 | [338508-champi.json](./338508-champi.json) |
