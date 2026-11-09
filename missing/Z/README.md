@@ -1569,6 +1569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Army VR | 288444 | [288444-zombie-army-vr.json](./288444-zombie-army-vr.json) |
 | Zombie Assault: Resurgence | 392214 | [392214-zombie-assault-resurgence.json](./392214-zombie-assault-resurgence.json) |
 | Zombie Attack | 172551 | [172551-zombie-attack.json](./172551-zombie-attack.json) |
+| Zombie Attack 2: Second Wave | 66253 | [66253-zombie-attack-2-second-wave.json](./66253-zombie-attack-2-second-wave.json) |
 | Zombie Attack Girls | 221816 | [221816-zombie-attack-girls.json](./221816-zombie-attack-girls.json) |
 | Zombie Attack Pinball HD: Monster Challenge | 89275 | [89275-zombie-attack-pinball-hd-monster-challenge.json](./89275-zombie-attack-pinball-hd-monster-challenge.json) |
 | Zombie Attack Shooter | 98744 | [98744-zombie-attack-shooter.json](./98744-zombie-attack-shooter.json) |
