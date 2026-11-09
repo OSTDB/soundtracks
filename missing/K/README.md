@@ -2927,7 +2927,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3431,6 +3430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Quest V: Absence Makes the Heart Go Yonder! | 2238 | [2238-kings-quest-v-absence-makes-the-heart-go-yonder.json](./2238-kings-quest-v-absence-makes-the-heart-go-yonder.json) |
 | King's Quest V: Absence Makes The Heart Go Yonder! | 322088 | [322088-kings-quest-v-absence-makes-the-heart-go-yonder.json](./322088-kings-quest-v-absence-makes-the-heart-go-yonder.json) |
 | King's Quest VI: Heir Today, Gone Tomorrow | 7501 | [7501-kings-quest-vi-heir-today-gone-tomorrow.json](./7501-kings-quest-vi-heir-today-gone-tomorrow.json) |
+| King's Quest VII: The Princeless Bride | 7514 | [7514-kings-quest-vii-the-princeless-bride.json](./7514-kings-quest-vii-the-princeless-bride.json) |
 | King's Quest VIII: The Mask of Eternity | 7528 | [7528-kings-quest-viii-the-mask-of-eternity.json](./7528-kings-quest-viii-the-mask-of-eternity.json) |
 | King's Quest: Chapter 2 - A Rubble Without a Cause | 21773 | [21773-kings-quest-chapter-2-a-rubble-without-a-cause.json](./21773-kings-quest-chapter-2-a-rubble-without-a-cause.json) |
 | King's Quest: Chapter 3 - Once Upon A Climb | 28062 | [28062-kings-quest-chapter-3-once-upon-a-climb.json](./28062-kings-quest-chapter-3-once-upon-a-climb.json) |
@@ -4825,6 +4825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights and Glory | 110683 | [110683-knights-and-glory.json](./110683-knights-and-glory.json) |
 | Knights and Goblins | 243536 | [243536-knights-and-goblins.json](./243536-knights-and-goblins.json) |
 | Knights and Magic Bundle | 301783 | [301783-knights-and-magic-bundle.json](./301783-knights-and-magic-bundle.json) |
+| Knights and Merchants: The Peasants Rebellion | 10490 | [10490-knights-and-merchants-the-peasants-rebellion.json](./10490-knights-and-merchants-the-peasants-rebellion.json) |
 | Knights and Merchants: The Shattered Kingdom | 3067 | [3067-knights-and-merchants-the-shattered-kingdom.json](./3067-knights-and-merchants-the-shattered-kingdom.json) |
 | Knights and Ogres | 96926 | [96926-knights-and-ogres.json](./96926-knights-and-ogres.json) |
 | Knights Beasts & Magic | 234290 | [234290-knights-beasts-and-magic.json](./234290-knights-beasts-and-magic.json) |
