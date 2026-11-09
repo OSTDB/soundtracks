@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mad Skills Motocross: Chasing the Dream | 292230 | [292230-mad-skills-motocross-chasing-the-dream.json](./292230-mad-skills-motocross-chasing-the-dream.json) |
 | Mad Skills Snocross | 232330 | [232330-mad-skills-snocross.json](./232330-mad-skills-snocross.json) |
 | Mad Smartphone Tycoon | 297832 | [297832-mad-smartphone-tycoon.json](./297832-mad-smartphone-tycoon.json) |
+| Mad Snowboarding | 34515 | [34515-mad-snowboarding.json](./34515-mad-snowboarding.json) |
 | Mad Stalker: Full Metal Force | 221317 | [221317-mad-stalker-full-metal-force.json](./221317-mad-stalker-full-metal-force.json) |
 | Mad Stalker: Full Metal Force | 41408 | [41408-mad-stalker-full-metal-force.json](./41408-mad-stalker-full-metal-force.json) |
 | Mad Streets | 130517 | [130517-mad-streets.json](./130517-mad-streets.json) |
@@ -22581,6 +22582,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Egyptian Kings | 102259 | [102259-mystery-egyptian-kings.json](./102259-mystery-egyptian-kings.json) |
 | Mystery Escape | 296568 | [296568-mystery-escape.json](./296568-mystery-escape.json) |
 | Mystery Escape Room Bundle | 320696 | [320696-mystery-escape-room-bundle.json](./320696-mystery-escape-room-bundle.json) |
+| Mystery Expedition: Prisoners of Ice | 34551 | [34551-mystery-expedition-prisoners-of-ice.json](./34551-mystery-expedition-prisoners-of-ice.json) |
 | Mystery Fun House | 18520 | [18520-mystery-fun-house.json](./18520-mystery-fun-house.json) |
 | Mystery Gold | 55862 | [55862-mystery-gold.json](./55862-mystery-gold.json) |
 | Mystery Horror Bundle: Saint Kotar & Charon's Staircase | 380703 | [380703-mystery-horror-bundle-saint-kotar-and-charons-staircase.json](./380703-mystery-horror-bundle-saint-kotar-and-charons-staircase.json) |
