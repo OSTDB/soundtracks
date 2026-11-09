@@ -301,6 +301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacralith: The Archer's Tale | 61622 | [61622-sacralith-the-archers-tale.json](./61622-sacralith-the-archers-tale.json) |
 | Sacrament | 263363 | [263363-sacrament.json](./263363-sacrament.json) |
 | Sacrament | 285930 | [285930-sacrament.json](./285930-sacrament.json) |
+| Sacrament | 74647 | [74647-sacrament.json](./74647-sacrament.json) |
 | Sacrament i. | 178499 | [178499-sacrament-i.json](./178499-sacrament-i.json) |
 | Sacrament iv. | 181248 | [181248-sacrament-iv.json](./181248-sacrament-iv.json) |
 | Sacrament of the Zodiac: The Confused Sheep and The Tamed Wolf | 141832 | [141832-sacrament-of-the-zodiac-the-confused-sheep-and-the-tamed-wolf.json](./141832-sacrament-of-the-zodiac-the-confused-sheep-and-the-tamed-wolf.json) |
@@ -16575,6 +16576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Softball: Breakthrough Gaming Arcade - 2 Player Cooperation Edition | 215434 | [215434-softball-breakthrough-gaming-arcade-2-player-cooperation-edition.json](./215434-softball-breakthrough-gaming-arcade-2-player-cooperation-edition.json) |
 | Softball: Breakthrough Gaming Arcade - 3 Player Cooperation Edition | 218190 | [218190-softball-breakthrough-gaming-arcade-3-player-cooperation-edition.json](./218190-softball-breakthrough-gaming-arcade-3-player-cooperation-edition.json) |
 | Softball: Breakthrough Gaming Arcade - 4 Player Cooperation Edition | 213633 | [213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json](./213633-softball-breakthrough-gaming-arcade-4-player-cooperation-edition.json) |
+| Softened Cookie | 74636 | [74636-softened-cookie.json](./74636-softened-cookie.json) |
 | Softie | 321304 | [321304-softie.json](./321304-softie.json) |
 | Softly Placed | 379978 | [379978-softly-placed.json](./379978-softly-placed.json) |
 | Softnauts the Game | 23908 | [23908-softnauts-the-game.json](./23908-softnauts-the-game.json) |
@@ -19500,6 +19502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soundsaber | 184660 | [184660-soundsaber.json](./184660-soundsaber.json) |
 | Soundscape | 286996 | [286996-soundscape.json](./286996-soundscape.json) |
 | Soundscape | 330756 | [330756-soundscape.json](./330756-soundscape.json) |
+| Soundscape | 74629 | [74629-soundscape.json](./74629-soundscape.json) |
 | Soundscape VR | 28879 | [28879-soundscape-vr.json](./28879-soundscape-vr.json) |
 | Soundscapes | 389911 | [389911-soundscapes.json](./389911-soundscapes.json) |
 | SoundSelf | 61869 | [61869-soundself.json](./61869-soundself.json) |
