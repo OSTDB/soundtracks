@@ -7672,6 +7672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man | 195570 | [195570-mega-man.json](./195570-mega-man.json) |
 | Mega Man | 236703 | [236703-mega-man.json](./236703-mega-man.json) |
 | Mega Man | 281415 | [281415-mega-man.json](./281415-mega-man.json) |
+| Mega Man & Bass | 1726 | [1726-mega-man-and-bass.json](./1726-mega-man-and-bass.json) |
 | Mega Man & Bass: Player Switching | 358600 | [358600-mega-man-and-bass-player-switching.json](./358600-mega-man-and-bass-player-switching.json) |
 | Mega Man & Mega Man X 5in1 Special Box | 124033 | [124033-mega-man-and-mega-man-x-5in1-special-box.json](./124033-mega-man-and-mega-man-x-5in1-special-box.json) |
 | Mega Man 10 | 1723 | [1723-mega-man-10.json](./1723-mega-man-10.json) |
@@ -16495,6 +16496,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Dual Pack | 78626 | [78626-monster-hunter-dual-pack.json](./78626-monster-hunter-dual-pack.json) |
 | Monster Hunter Explore | 58601 | [58601-monster-hunter-explore.json](./58601-monster-hunter-explore.json) |
 | Monster Hunter Freedom | 2269 | [2269-monster-hunter-freedom.json](./2269-monster-hunter-freedom.json) |
+| Monster Hunter Freedom Unite | 20427 | [20427-monster-hunter-freedom-unite.json](./20427-monster-hunter-freedom-unite.json) |
 | Monster Hunter Frontier G | 5316 | [5316-monster-hunter-frontier-g.json](./5316-monster-hunter-frontier-g.json) |
 | Monster Hunter Frontier G Genuine | 78359 | [78359-monster-hunter-frontier-g-genuine.json](./78359-monster-hunter-frontier-g-genuine.json) |
 | Monster Hunter Frontier G2 | 61700 | [61700-monster-hunter-frontier-g2.json](./61700-monster-hunter-frontier-g2.json) |
