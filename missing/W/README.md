@@ -2478,6 +2478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Watchman Golf Digipro | 215252 | [215252-watchman-golf-digipro.json](./215252-watchman-golf-digipro.json) |
 | Watchman: Monster Hero | 218371 | [218371-watchman-monster-hero.json](./218371-watchman-monster-hero.json) |
 | Watchmen | 341701 | [341701-watchmen.json](./341701-watchmen.json) |
+| Watchmen: Justice is Coming | 57235 | [57235-watchmen-justice-is-coming.json](./57235-watchmen-justice-is-coming.json) |
 | Watchmen: The End Is Nigh | 7246 | [7246-watchmen-the-end-is-nigh.json](./7246-watchmen-the-end-is-nigh.json) |
 | Watchmen: The End Is Nigh Complete Experience | 44619 | [44619-watchmen-the-end-is-nigh-complete-experience.json](./44619-watchmen-the-end-is-nigh-complete-experience.json) |
 | Watchmen: The End is Nigh Part 2 | 27854 | [27854-watchmen-the-end-is-nigh-part-2.json](./27854-watchmen-the-end-is-nigh-part-2.json) |
@@ -6757,6 +6758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | With Your Destiny | 90317 | [90317-with-your-destiny.json](./90317-with-your-destiny.json) |
 | With Your Mom's Tits | 181487 | [181487-with-your-moms-tits.json](./181487-with-your-moms-tits.json) |
 | Wither | 376822 | [376822-wither.json](./376822-wither.json) |
+| Wither | 57199 | [57199-wither.json](./57199-wither.json) |
 | Witherbloom | 291447 | [291447-witherbloom.json](./291447-witherbloom.json) |
 | Withered Haven | 390820 | [390820-withered-haven.json](./390820-withered-haven.json) |
 | Withered: A visual novel | 178017 | [178017-withered-a-visual-novel.json](./178017-withered-a-visual-novel.json) |
@@ -9186,6 +9188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wouldst Thou Have Some Tea? | 402051 | [402051-wouldst-thou-have-some-tea.json](./402051-wouldst-thou-have-some-tea.json) |
 | Wound Man | 273385 | [273385-wound-man.json](./273385-wound-man.json) |
 | Wound of the West | 143582 | [143582-wound-of-the-west.json](./143582-wound-of-the-west.json) |
+| Wounded by Words | 57241 | [57241-wounded-by-words.json](./57241-wounded-by-words.json) |
 | Wounded Summer Baby | 268081 | [268081-wounded-summer-baby.json](./268081-wounded-summer-baby.json) |
 | Wounded: The Beginning | 114560 | [114560-wounded-the-beginning.json](./114560-wounded-the-beginning.json) |
 | Wounds 4 Hard Medication | 181291 | [181291-wounds-4-hard-medication.json](./181291-wounds-4-hard-medication.json) |
