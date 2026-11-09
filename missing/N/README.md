@@ -775,6 +775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Narvas | 164895 | [164895-narvas.json](./164895-narvas.json) |
 | Narwhal Heist | 116164 | [116164-narwhal-heist.json](./116164-narwhal-heist.json) |
 | Narwhale.io | 97743 | [97743-narwhale-io.json](./97743-narwhale-io.json) |
+| Nary | 32342 | [32342-nary.json](./32342-nary.json) |
 | NASA's Eyes | 69376 | [69376-nasas-eyes.json](./69376-nasas-eyes.json) |
 | NASB: Nitro | 202153 | [202153-nasb-nitro.json](./202153-nasb-nitro.json) |
 | NASCAR | 230440 | [230440-nascar.json](./230440-nascar.json) |
@@ -5374,6 +5375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Ordinance | 360282 | [360282-ninja-ordinance.json](./360282-ninja-ordinance.json) |
 | Ninja Origin | 274811 | [274811-ninja-origin.json](./274811-ninja-origin.json) |
 | Ninja Otedama R | 240729 | [240729-ninja-otedama-r.json](./240729-ninja-otedama-r.json) |
+| Ninja Outbreak | 33254 | [33254-ninja-outbreak.json](./33254-ninja-outbreak.json) |
 | Ninja Pac Man | 66382 | [66382-ninja-pac-man.json](./66382-ninja-pac-man.json) |
 | Ninja Painter | 230064 | [230064-ninja-painter.json](./230064-ninja-painter.json) |
 | Ninja Painter 2 | 238965 | [238965-ninja-painter-2.json](./238965-ninja-painter-2.json) |
