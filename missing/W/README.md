@@ -1371,6 +1371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: Nyx Warframe | 325577 | [325577-warframe-nyx-warframe.json](./325577-warframe-nyx-warframe.json) |
 | Warframe: Oraxia Bundle | 373871 | [373871-warframe-oraxia-bundle.json](./373871-warframe-oraxia-bundle.json) |
 | Warframe: Plains of Eidolon | 68335 | [68335-warframe-plains-of-eidolon.json](./68335-warframe-plains-of-eidolon.json) |
+| Warframe: PS4 Obsidian Azura Collection | 26080 | [26080-warframe-ps4-obsidian-azura-collection.json](./26080-warframe-ps4-obsidian-azura-collection.json) |
 | Warframe: Sanctuary | 202147 | [202147-warframe-sanctuary.json](./202147-warframe-sanctuary.json) |
 | Warframe: Shadows of the Dead | 200659 | [200659-warframe-shadows-of-the-dead.json](./200659-warframe-shadows-of-the-dead.json) |
 | Warframe: Sisters of Parvos | 198686 | [198686-warframe-sisters-of-parvos.json](./198686-warframe-sisters-of-parvos.json) |
@@ -1388,6 +1389,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warframe: The Seven Crimes of Kullervo | 263491 | [263491-warframe-the-seven-crimes-of-kullervo.json](./263491-warframe-the-seven-crimes-of-kullervo.json) |
 | Warframe: The Shadowgrapher | 420948 | [420948-warframe-the-shadowgrapher.json](./420948-warframe-the-shadowgrapher.json) |
 | Warframe: The Vallis Undermind | 374217 | [374217-warframe-the-vallis-undermind.json](./374217-warframe-the-vallis-undermind.json) |
+| Warframe: Valkyr Prime Access Pack | 26083 | [26083-warframe-valkyr-prime-access-pack.json](./26083-warframe-valkyr-prime-access-pack.json) |
+| Warframe: Valkyr Prime Accessories Pack | 26082 | [26082-warframe-valkyr-prime-accessories-pack.json](./26082-warframe-valkyr-prime-accessories-pack.json) |
 | Warframe: Valkyr Unleashed | 200850 | [200850-warframe-valkyr-unleashed.json](./200850-warframe-valkyr-unleashed.json) |
 | Warframe: Veilbreaker | 216199 | [216199-warframe-veilbreaker.json](./216199-warframe-veilbreaker.json) |
 | Warframe: Vor's Revenge | 200650 | [200650-warframe-vors-revenge.json](./200650-warframe-vors-revenge.json) |
