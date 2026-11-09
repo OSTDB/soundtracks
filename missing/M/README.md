@@ -81,6 +81,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.U.D.S.: Mean Ugly Dirty Sport | 70199 | [70199-m-u-d-s-mean-ugly-dirty-sport.json](./70199-m-u-d-s-mean-ugly-dirty-sport.json) |
 | M.U.L.E. | 23895 | [23895-m-u-l-e.json](./23895-m-u-l-e.json) |
 | M.U.S.E. | 61136 | [61136-m-u-s-e.json](./61136-m-u-s-e.json) |
+| M.U.S.H.A. | 4445 | [4445-m-u-s-h-a.json](./4445-m-u-s-h-a.json) |
 | M.U.S.T. Repeat | 150317 | [150317-m-u-s-t-repeat.json](./150317-m-u-s-t-repeat.json) |
 | M.V.P. | 197957 | [197957-m-v-p.json](./197957-m-v-p.json) |
 | M's Cases: Chapter 1 - Vanishing of Melisma | 327097 | [327097-ms-cases-chapter-1-vanishing-of-melisma.json](./327097-ms-cases-chapter-1-vanishing-of-melisma.json) |
@@ -4912,6 +4913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Pinball 3D | 23672 | [23672-marvel-pinball-3d.json](./23672-marvel-pinball-3d.json) |
 | Marvel Pinball: Avengers Chronicles | 20821 | [20821-marvel-pinball-avengers-chronicles.json](./20821-marvel-pinball-avengers-chronicles.json) |
 | Marvel Pinball: Captain America | 21718 | [21718-marvel-pinball-captain-america.json](./21718-marvel-pinball-captain-america.json) |
+| Marvel Puzzle Quest | 7084 | [7084-marvel-puzzle-quest.json](./7084-marvel-puzzle-quest.json) |
 | Marvel Puzzle Quest: Dark Reign | 82445 | [82445-marvel-puzzle-quest-dark-reign.json](./82445-marvel-puzzle-quest-dark-reign.json) |
 | Marvel Quiz Quest | 295819 | [295819-marvel-quiz-quest.json](./295819-marvel-quiz-quest.json) |
 | Marvel Realm of Champions | 122756 | [122756-marvel-realm-of-champions.json](./122756-marvel-realm-of-champions.json) |
@@ -14918,6 +14920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Tap Sports Baseball 2020 | 220210 | [220210-mlb-tap-sports-baseball-2020.json](./220210-mlb-tap-sports-baseball-2020.json) |
 | MLB Tap Sports Baseball 2021 | 149138 | [149138-mlb-tap-sports-baseball-2021.json](./149138-mlb-tap-sports-baseball-2021.json) |
 | MLB Tap Sports Baseball 2022 | 196590 | [196590-mlb-tap-sports-baseball-2022.json](./196590-mlb-tap-sports-baseball-2022.json) |
+| MLB The Show 16 | 2212 | [2212-mlb-the-show-16.json](./2212-mlb-the-show-16.json) |
 | MLB The Show 17 | 25310 | [25310-mlb-the-show-17.json](./25310-mlb-the-show-17.json) |
 | MLB The Show 18 | 75546 | [75546-mlb-the-show-18.json](./75546-mlb-the-show-18.json) |
 | MLB The Show 18: Digital Deluxe Edition | 118909 | [118909-mlb-the-show-18-digital-deluxe-edition.json](./118909-mlb-the-show-18-digital-deluxe-edition.json) |
@@ -18792,6 +18795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotorStorm: Arctic Edge | 21104 | [21104-motorstorm-arctic-edge.json](./21104-motorstorm-arctic-edge.json) |
 | MotorStorm: Pacific Rift | 2554 | [2554-motorstorm-pacific-rift.json](./2554-motorstorm-pacific-rift.json) |
 | MotorStorm: Pacific Rift - Voodoo Signature Livery | 278294 | [278294-motorstorm-pacific-rift-voodoo-signature-livery.json](./278294-motorstorm-pacific-rift-voodoo-signature-livery.json) |
+| MotorStorm: RC | 2556 | [2556-motorstorm-rc.json](./2556-motorstorm-rc.json) |
 | MotoRun | 166739 | [166739-motorun.json](./166739-motorun.json) |
 | Motos | 21692 | [21692-motos.json](./21692-motos.json) |
 | Motos Arrangement | 229448 | [229448-motos-arrangement.json](./229448-motos-arrangement.json) |
