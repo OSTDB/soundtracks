@@ -6957,6 +6957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Hearts: Covenant | 4171 | [4171-shadow-hearts-covenant.json](./4171-shadow-hearts-covenant.json) |
 | Shadow Hearts: From the New World | 4172 | [4172-shadow-hearts-from-the-new-world.json](./4172-shadow-hearts-from-the-new-world.json) |
 | Shadow Heroes | 212072 | [212072-shadow-heroes.json](./212072-shadow-heroes.json) |
+| Shadow Heroes: Vengeance In Flames | 34542 | [34542-shadow-heroes-vengeance-in-flames.json](./34542-shadow-heroes-vengeance-in-flames.json) |
 | Shadow Hockey | 198598 | [198598-shadow-hockey.json](./198598-shadow-hockey.json) |
 | Shadow Hold | 236223 | [236223-shadow-hold.json](./236223-shadow-hold.json) |
 | Shadow Hunt | 374077 | [374077-shadow-hunt.json](./374077-shadow-hunt.json) |
@@ -17510,6 +17511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solos | 197318 | [197318-solos.json](./197318-solos.json) |
 | Solous | 133466 | [133466-solous.json](./133466-solous.json) |
 | Solraid | 200633 | [200633-solraid.json](./200633-solraid.json) |
+| Solraven | 33638 | [33638-solraven.json](./33638-solraven.json) |
 | Solrend | 404801 | [404801-solrend.json](./404801-solrend.json) |
 | Solridge | 305938 | [305938-solridge.json](./305938-solridge.json) |
 | Solse AI-Quest | 290938 | [290938-solse-ai-quest.json](./290938-solse-ai-quest.json) |
@@ -17738,6 +17740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonder | 182153 | [182153-sonder.json](./182153-sonder.json) |
 | Sonder | 296200 | [296200-sonder.json](./296200-sonder.json) |
 | Sonder: Lights of Little Tokyo | 219589 | [219589-sonder-lights-of-little-tokyo.json](./219589-sonder-lights-of-little-tokyo.json) |
+| Sonder. Episode ONE | 34546 | [34546-sonder-episode-one.json](./34546-sonder-episode-one.json) |
 | Sondro Gomez: A Sunova Story | 170662 | [170662-sondro-gomez-a-sunova-story.json](./170662-sondro-gomez-a-sunova-story.json) |
 | Song Animals | 116101 | [116101-song-animals.json](./116101-song-animals.json) |
 | Song Beater: Quite My Tempo! | 119993 | [119993-song-beater-quite-my-tempo.json](./119993-song-beater-quite-my-tempo.json) |
@@ -25257,6 +25260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Ring | 295927 | [295927-star-ring.json](./295927-star-ring.json) |
 | Star Rising | 353391 | [353391-star-rising.json](./353391-star-rising.json) |
 | Star Road Love Songs | 188273 | [188273-star-road-love-songs.json](./188273-star-road-love-songs.json) |
+| Star Rogue | 33630 | [33630-star-rogue.json](./33630-star-rogue.json) |
 | Star Ronin | 320744 | [320744-star-ronin.json](./320744-star-ronin.json) |
 | Star Rover | 166820 | [166820-star-rover.json](./166820-star-rover.json) |
 | Star Ruler | 9556 | [9556-star-ruler.json](./9556-star-ruler.json) |
@@ -31813,6 +31817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Boat Rescue | 25767 | [25767-super-boat-rescue.json](./25767-super-boat-rescue.json) |
 | Super Boba: Pachinko Cafe | 296505 | [296505-super-boba-pachinko-cafe.json](./296505-super-boba-pachinko-cafe.json) |
 | Super Bogus World | 64874 | [64874-super-bogus-world.json](./64874-super-bogus-world.json) |
+| Super Bomb Rush! | 34566 | [34566-super-bomb-rush.json](./34566-super-bomb-rush.json) |
 | Super Bomberman | 198028 | [198028-super-bomberman.json](./198028-super-bomberman.json) |
 | Super Bomberman | 3450 | [3450-super-bomberman.json](./3450-super-bomberman.json) |
 | Super Bomberman 2 | 14530 | [14530-super-bomberman-2.json](./14530-super-bomberman-2.json) |
