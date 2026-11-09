@@ -4140,6 +4140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Rust | 146965 | [146965-red-rust.json](./146965-red-rust.json) |
 | Red Rust Pioneers | 349941 | [349941-red-rust-pioneers.json](./349941-red-rust-pioneers.json) |
 | Red Sails | 134814 | [134814-red-sails.json](./134814-red-sails.json) |
+| Red Sails | 67441 | [67441-red-sails.json](./67441-red-sails.json) |
 | Red Sauce: The Leftovers | 420775 | [420775-red-sauce-the-leftovers.json](./420775-red-sauce-the-leftovers.json) |
 | Red Scorpion | 47144 | [47144-red-scorpion.json](./47144-red-scorpion.json) |
 | Red Sea | 223032 | [223032-red-sea.json](./223032-red-sea.json) |
@@ -8671,6 +8672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road of Fury 2 | 102022 | [102022-road-of-fury-2.json](./102022-road-of-fury-2.json) |
 | Road Patrol Truck | 104227 | [104227-road-patrol-truck.json](./104227-road-patrol-truck.json) |
 | Road Race | 200425 | [200425-road-race.json](./200425-road-race.json) |
+| Road Race | 67442 | [67442-road-race.json](./67442-road-race.json) |
 | Road Racer | 297243 | [297243-road-racer.json](./297243-road-racer.json) |
 | Road Racers | 66406 | [66406-road-racers.json](./66406-road-racers.json) |
 | Road Racing: Extreme Traffic Driving | 110249 | [110249-road-racing-extreme-traffic-driving.json](./110249-road-racing-extreme-traffic-driving.json) |
