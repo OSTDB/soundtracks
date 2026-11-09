@@ -14441,6 +14441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission Critical: Foresight | 186328 | [186328-mission-critical-foresight.json](./186328-mission-critical-foresight.json) |
 | Mission Delta | 320593 | [320593-mission-delta.json](./320593-mission-delta.json) |
 | Mission Destruct | 421194 | [421194-mission-destruct.json](./421194-mission-destruct.json) |
+| Mission Elevator | 20990 | [20990-mission-elevator.json](./20990-mission-elevator.json) |
 | Mission Europa | 66072 | [66072-mission-europa.json](./66072-mission-europa.json) |
 | Mission Evilguy | 119613 | [119613-mission-evilguy.json](./119613-mission-evilguy.json) |
 | Mission Genocide | 58868 | [58868-mission-genocide.json](./58868-mission-genocide.json) |
@@ -15266,6 +15267,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Modern Combat 4: Zero Hour | 38679 | [38679-modern-combat-4-zero-hour.json](./38679-modern-combat-4-zero-hour.json) |
 | Modern Combat 5: Blackout | 23409 | [23409-modern-combat-5-blackout.json](./23409-modern-combat-5-blackout.json) |
 | Modern Combat Versus | 71910 | [71910-modern-combat-versus.json](./71910-modern-combat-versus.json) |
+| Modern Combat: Domination | 21081 | [21081-modern-combat-domination.json](./21081-modern-combat-domination.json) |
 | Modern Combat: Sandstorm | 18884 | [18884-modern-combat-sandstorm.json](./18884-modern-combat-sandstorm.json) |
 | Modern Command | 227510 | [227510-modern-command.json](./227510-modern-command.json) |
 | Modern Conflict | 98835 | [98835-modern-conflict.json](./98835-modern-conflict.json) |
