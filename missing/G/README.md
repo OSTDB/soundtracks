@@ -4994,6 +4994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glamour Pinball | 256659 | [256659-glamour-pinball.json](./256659-glamour-pinball.json) |
 | Glamour Riot | 342681 | [342681-glamour-riot.json](./342681-glamour-riot.json) |
 | Glances | 82556 | [82556-glances.json](./82556-glances.json) |
+| Glare | 16563 | [16563-glare.json](./16563-glare.json) |
 | Glare Fall | 133172 | [133172-glare-fall.json](./133172-glare-fall.json) |
 | Glass | 125924 | [125924-glass.json](./125924-glass.json) |
 | Glass | 14094 | [14094-glass.json](./14094-glass.json) |
@@ -7133,6 +7134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gomoku HD | 106453 | [106453-gomoku-hd.json](./106453-gomoku-hd.json) |
 | Gomoku Let's Go | 173252 | [173252-gomoku-lets-go.json](./173252-gomoku-lets-go.json) |
 | GoMoku Narabe | 64020 | [64020-gomoku-narabe.json](./64020-gomoku-narabe.json) |
+| Gomoku Narabe Renju | 16609 | [16609-gomoku-narabe-renju.json](./16609-gomoku-narabe-renju.json) |
 | Gomoku Notation | 102703 | [102703-gomoku-notation.json](./102703-gomoku-notation.json) |
 | Gomoku: Online Game Hall | 88204 | [88204-gomoku-online-game-hall.json](./88204-gomoku-online-game-hall.json) |
 | Gomokunarabe & Reversi: Touryuumon | 37507 | [37507-gomokunarabe-and-reversi-touryuumon.json](./37507-gomokunarabe-and-reversi-touryuumon.json) |
