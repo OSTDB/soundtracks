@@ -4514,6 +4514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orun | 411713 | [411713-orun.json](./411713-orun.json) |
 | Oruna | 139420 | [139420-oruna.json](./139420-oruna.json) |
 | Orwell: Deluxe Edition | 51859 | [51859-orwell-deluxe-edition.json](./51859-orwell-deluxe-edition.json) |
+| Orwell: Ignorance is Strength | 54574 | [54574-orwell-ignorance-is-strength.json](./54574-orwell-ignorance-is-strength.json) |
 | Orwell: Ignorance Is Strength - Deluxe Edition | 227187 | [227187-orwell-ignorance-is-strength-deluxe-edition.json](./227187-orwell-ignorance-is-strength-deluxe-edition.json) |
 | Orwell: Keeping an Eye on You | 22704 | [22704-orwell-keeping-an-eye-on-you.json](./22704-orwell-keeping-an-eye-on-you.json) |
 | Orx | 118588 | [118588-orx.json](./118588-orx.json) |
