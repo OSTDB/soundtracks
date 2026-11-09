@@ -10879,6 +10879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Slaughter | 257417 | [257417-pocket-slaughter.json](./257417-pocket-slaughter.json) |
 | Pocket Slimes | 192949 | [192949-pocket-slimes.json](./192949-pocket-slimes.json) |
 | Pocket Soccer | 187244 | [187244-pocket-soccer.json](./187244-pocket-soccer.json) |
+| Pocket Soccer | 50009 | [50009-pocket-soccer.json](./50009-pocket-soccer.json) |
 | Pocket Souls | 317523 | [317523-pocket-souls.json](./317523-pocket-souls.json) |
 | Pocket Spouse | 366114 | [366114-pocket-spouse.json](./366114-pocket-spouse.json) |
 | Pocket Squid Fishing | 248282 | [248282-pocket-squid-fishing.json](./248282-pocket-squid-fishing.json) |
