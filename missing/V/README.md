@@ -168,6 +168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaccine Hunter | 144355 | [144355-vaccine-hunter.json](./144355-vaccine-hunter.json) |
 | Vaccine Rebirth | 236842 | [236842-vaccine-rebirth.json](./236842-vaccine-rebirth.json) |
 | Vaccine Rebirth VR | 264178 | [264178-vaccine-rebirth-vr.json](./264178-vaccine-rebirth-vr.json) |
+| Vaccine War | 33231 | [33231-vaccine-war.json](./33231-vaccine-war.json) |
 | Vacoo: The Adventure in Garbage City | 223413 | [223413-vacoo-the-adventure-in-garbage-city.json](./223413-vacoo-the-adventure-in-garbage-city.json) |
 | Vactics | 202067 | [202067-vactics.json](./202067-vactics.json) |
 | VacuuBot: Home Cleaning Simulator | 378135 | [378135-vacuubot-home-cleaning-simulator.json](./378135-vacuubot-home-cleaning-simulator.json) |
@@ -245,6 +246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vainglory 5V5 | 88078 | [88078-vainglory-5v5.json](./88078-vainglory-5v5.json) |
 | Vainglory All Stars | 136750 | [136750-vainglory-all-stars.json](./136750-vainglory-all-stars.json) |
 | VainPlanet | 129074 | [129074-vainplanet.json](./129074-vainplanet.json) |
+| Vairon's Wrath | 33256 | [33256-vairons-wrath.json](./33256-vairons-wrath.json) |
 | Vaitz Blade | 37469 | [37469-vaitz-blade.json](./37469-vaitz-blade.json) |
 | Vajimon | 145775 | [145775-vajimon.json](./145775-vajimon.json) |
 | Vajont VR | 221141 | [221141-vajont-vr.json](./221141-vajont-vr.json) |
@@ -507,6 +509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyrie: Dawn of Ragnarok | 230946 | [230946-valkyrie-dawn-of-ragnarok.json](./230946-valkyrie-dawn-of-ragnarok.json) |
 | Valkyrie: Journey to Midgard | 165671 | [165671-valkyrie-journey-to-midgard.json](./165671-valkyrie-journey-to-midgard.json) |
 | Valkyrius | 9434 | [9434-valkyrius.json](./9434-valkyrius.json) |
+| Valkyrius Prime | 32340 | [32340-valkyrius-prime.json](./32340-valkyrius-prime.json) |
 | Valla | 394379 | [394379-valla.json](./394379-valla.json) |
 | Valledi | 223209 | [223209-valledi.json](./223209-valledi.json) |
 | Vallen | 241955 | [241955-vallen.json](./241955-vallen.json) |
