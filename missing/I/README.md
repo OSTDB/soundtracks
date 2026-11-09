@@ -1296,6 +1296,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ide Yosuke no Mahjong Kazoku 2 | 319695 | [319695-ide-yosuke-no-mahjong-kazoku-2.json](./319695-ide-yosuke-no-mahjong-kazoku-2.json) |
 | Ide Yosuke no Mahjong Kyoushitsu | 354912 | [354912-ide-yosuke-no-mahjong-kyoushitsu.json](./354912-ide-yosuke-no-mahjong-kyoushitsu.json) |
 | Ide Yosuke no Mahjong Kyoushitsu GB | 65243 | [65243-ide-yosuke-no-mahjong-kyoushitsu-gb.json](./65243-ide-yosuke-no-mahjong-kyoushitsu-gb.json) |
+| Ide Yousuke Meijin no Jissen Mahjong | 48754 | [48754-ide-yousuke-meijin-no-jissen-mahjong.json](./48754-ide-yousuke-meijin-no-jissen-mahjong.json) |
+| Ide Yousuke Meijin no Jissen Mahjong II | 48753 | [48753-ide-yousuke-meijin-no-jissen-mahjong-ii.json](./48753-ide-yousuke-meijin-no-jissen-mahjong-ii.json) |
 | Idea | 204951 | [204951-idea.json](./204951-idea.json) |
 | Idea Fix | 323640 | [323640-idea-fix.json](./323640-idea-fix.json) |
 | Idea: Drone camera calm puzzle | 241572 | [241572-idea-drone-camera-calm-puzzle.json](./241572-idea-drone-camera-calm-puzzle.json) |
@@ -4011,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -6300,6 +6303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isagi's Bartending Diary | 405634 | [405634-isagis-bartending-diary.json](./405634-isagis-bartending-diary.json) |
 | Isaiah 188 | 190314 | [190314-isaiah-188.json](./190314-isaiah-188.json) |
 | Isaiah 24:4-6 | 228973 | [228973-isaiah-24-4-6.json](./228973-isaiah-24-4-6.json) |
+| Isaki Shuugorou no Keiba Hisshou Gaku | 48752 | [48752-isaki-shuugorou-no-keiba-hisshou-gaku.json](./48752-isaki-shuugorou-no-keiba-hisshou-gaku.json) |
 | Isane Insects: The Inception | 53255 | [53255-isane-insects-the-inception.json](./53255-isane-insects-the-inception.json) |
 | iSays - Simon Says Classic Color Switch Memory Game | 89733 | [89733-isays-simon-says-classic-color-switch-memory-game.json](./89733-isays-simon-says-classic-color-switch-memory-game.json) |
 | Iscoot | 392153 | [392153-iscoot.json](./392153-iscoot.json) |
@@ -6962,6 +6966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itadaki Street Special | 72987 | [72987-itadaki-street-special.json](./72987-itadaki-street-special.json) |
 | Itadaki Street: Dragon Quest & Final Fantasy 30th Anniversary | 54550 | [54550-itadaki-street-dragon-quest-and-final-fantasy-30th-anniversary.json](./54550-itadaki-street-dragon-quest-and-final-fantasy-30th-anniversary.json) |
 | Itadaki Street: Gorgeous King | 60478 | [60478-itadaki-street-gorgeous-king.json](./60478-itadaki-street-gorgeous-king.json) |
+| Itadaki Street: Watashi no Omise ni Yottette | 48751 | [48751-itadaki-street-watashi-no-omise-ni-yottette.json](./48751-itadaki-street-watashi-no-omise-ni-yottette.json) |
 | Itako Works | 182898 | [182898-itako-works.json](./182898-itako-works.json) |
 | Italia 1990 | 94594 | [94594-italia-1990.json](./94594-italia-1990.json) |
 | Italian Brainrot | 364804 | [364804-italian-brainrot.json](./364804-italian-brainrot.json) |
