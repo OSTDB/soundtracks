@@ -4124,6 +4124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Road Rage | 394355 | [394355-red-road-rage.json](./394355-red-road-rage.json) |
 | Red Robin | 171823 | [171823-red-robin.json](./171823-red-robin.json) |
 | Red Rocket Defencism | 317759 | [317759-red-rocket-defencism.json](./317759-red-rocket-defencism.json) |
+| Red Rogue | 65082 | [65082-red-rogue.json](./65082-red-rogue.json) |
 | Red Rogue Sea | 338332 | [338332-red-rogue-sea.json](./338332-red-rogue-sea.json) |
 | Red Ronin | 133967 | [133967-red-ronin.json](./133967-red-ronin.json) |
 | Red Room | 178998 | [178998-red-room.json](./178998-red-room.json) |
@@ -5244,6 +5245,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renai, Karichaimashita: Limited Edition | 166974 | [166974-renai-karichaimashita-limited-edition.json](./166974-renai-karichaimashita-limited-edition.json) |
 | Renaine | 74723 | [74723-renaine.json](./74723-renaine.json) |
 | Renaissance Fighters | 220187 | [220187-renaissance-fighters.json](./220187-renaissance-fighters.json) |
+| Renaissance Heroes | 65087 | [65087-renaissance-heroes.json](./65087-renaissance-heroes.json) |
 | Renaissance Kingdom Wars | 278968 | [278968-renaissance-kingdom-wars.json](./278968-renaissance-kingdom-wars.json) |
 | Renal Summer | 135429 | [135429-renal-summer.json](./135429-renal-summer.json) |
 | Rename the History | 334326 | [334326-rename-the-history.json](./334326-rename-the-history.json) |
