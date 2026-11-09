@@ -7067,6 +7067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gomoku and Renju | 44350 | [44350-gomoku-and-renju.json](./44350-gomoku-and-renju.json) |
 | Gomoku HD | 106453 | [106453-gomoku-hd.json](./106453-gomoku-hd.json) |
 | Gomoku Let's Go | 173252 | [173252-gomoku-lets-go.json](./173252-gomoku-lets-go.json) |
+| GoMoku Narabe | 64020 | [64020-gomoku-narabe.json](./64020-gomoku-narabe.json) |
 | Gomoku Notation | 102703 | [102703-gomoku-notation.json](./102703-gomoku-notation.json) |
 | Gomoku: Online Game Hall | 88204 | [88204-gomoku-online-game-hall.json](./88204-gomoku-online-game-hall.json) |
 | Gomokunarabe & Reversi: Touryuumon | 37507 | [37507-gomokunarabe-and-reversi-touryuumon.json](./37507-gomokunarabe-and-reversi-touryuumon.json) |
