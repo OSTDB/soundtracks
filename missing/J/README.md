@@ -1339,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Up | 264748 | [264748-jet-up.json](./264748-jet-up.json) |
 | Jet X2O | 77121 | [77121-jet-x2o.json](./77121-jet-x2o.json) |
 | Jet-Boot Jack | 79119 | [79119-jet-boot-jack.json](./79119-jet-boot-jack.json) |
+| Jet-Boys | 54599 | [54599-jet-boys.json](./54599-jet-boys.json) |
 | Jet-Getters | 61715 | [61715-jet-getters.json](./61715-jet-getters.json) |
 | Jet-Paco: Hyper Special Space Agent! | 312227 | [312227-jet-paco-hyper-special-space-agent.json](./312227-jet-paco-hyper-special-space-agent.json) |
 | Jet-Paco: Hyper Special Space Agent! | 48375 | [48375-jet-paco-hyper-special-space-agent.json](./48375-jet-paco-hyper-special-space-agent.json) |
