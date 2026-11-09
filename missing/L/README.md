@@ -6349,6 +6349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Nemo and the Guardians of Slumberland | 204380 | [204380-little-nemo-and-the-guardians-of-slumberland.json](./204380-little-nemo-and-the-guardians-of-slumberland.json) |
 | Little Nemo and the Nightmare Fiends | 208309 | [208309-little-nemo-and-the-nightmare-fiends.json](./208309-little-nemo-and-the-nightmare-fiends.json) |
 | Little Nemo the Clown | 213609 | [213609-little-nemo-the-clown.json](./213609-little-nemo-the-clown.json) |
+| Little Nemo: The Dream Master | 9160 | [9160-little-nemo-the-dream-master.json](./9160-little-nemo-the-dream-master.json) |
 | Little Nicky | 50010 | [50010-little-nicky.json](./50010-little-nicky.json) |
 | Little Nightmares I & II | 178179 | [178179-little-nightmares-i-and-ii.json](./178179-little-nightmares-i-and-ii.json) |
 | Little Nightmares II: Day 1 Edition | 139821 | [139821-little-nightmares-ii-day-1-edition.json](./139821-little-nightmares-ii-day-1-edition.json) |
@@ -10287,6 +10288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunar Nightmare | 309927 | [309927-lunar-nightmare.json](./309927-lunar-nightmare.json) |
 | Lunar Odyssey | 190276 | [190276-lunar-odyssey.json](./190276-lunar-odyssey.json) |
 | Lunar Outpost | 317545 | [317545-lunar-outpost.json](./317545-lunar-outpost.json) |
+| Lunar Pool | 7550 | [7550-lunar-pool.json](./7550-lunar-pool.json) |
 | Lunar Pulse | 399416 | [399416-lunar-pulse.json](./399416-lunar-pulse.json) |
 | Lunar Racer | 259246 | [259246-lunar-racer.json](./259246-lunar-racer.json) |
 | Lunar Racing Championship | 67855 | [67855-lunar-racing-championship.json](./67855-lunar-racing-championship.json) |
