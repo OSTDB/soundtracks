@@ -5616,6 +5616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 9th Dragon | 394675 | [394675-the-9th-dragon.json](./394675-the-9th-dragon.json) |
 | The 9th Gate | 110712 | [110712-the-9th-gate.json](./110712-the-9th-gate.json) |
 | The 9th Station of M.t... | 302982 | [302982-the-9th-station-of-m-t.json](./302982-the-9th-station-of-m-t.json) |
+| The A-Team | 13343 | [13343-the-a-team.json](./13343-the-a-team.json) |
 | The A-Team | 198699 | [198699-the-a-team.json](./198699-the-a-team.json) |
 | The A-Team | 200146 | [200146-the-a-team.json](./200146-the-a-team.json) |
 | The A-Team | 200147 | [200147-the-a-team.json](./200147-the-a-team.json) |
@@ -6156,6 +6157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Appointed Station | 267526 | [267526-the-appointed-station.json](./267526-the-appointed-station.json) |
 | The Appraiser | 204843 | [204843-the-appraiser.json](./204843-the-appraiser.json) |
 | The Apprentice | 127154 | [127154-the-apprentice.json](./127154-the-apprentice.json) |
+| The Apprentice | 13326 | [13326-the-apprentice.json](./13326-the-apprentice.json) |
 | The Apprentice | 410315 | [410315-the-apprentice.json](./410315-the-apprentice.json) |
 | The Apprentice: Los Angeles | 73815 | [73815-the-apprentice-los-angeles.json](./73815-the-apprentice-los-angeles.json) |
 | The Approaching Quiet | 383494 | [383494-the-approaching-quiet.json](./383494-the-approaching-quiet.json) |
@@ -6182,6 +6184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Archer | 287646 | [287646-the-archer.json](./287646-the-archer.json) |
 | The Archer | 311814 | [311814-the-archer.json](./311814-the-archer.json) |
 | The Archer: Dead Hunt | 84081 | [84081-the-archer-dead-hunt.json](./84081-the-archer-dead-hunt.json) |
+| The Archers | 13329 | [13329-the-archers.json](./13329-the-archers.json) |
 | The Archetype | 34765 | [34765-the-archetype.json](./34765-the-archetype.json) |
 | The Archipelago | 180765 | [180765-the-archipelago.json](./180765-the-archipelago.json) |
 | The Architect | 35128 | [35128-the-architect.json](./35128-the-architect.json) |
