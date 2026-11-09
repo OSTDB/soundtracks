@@ -8554,6 +8554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazing Island | 3784 | [3784-amazing-island.json](./3784-amazing-island.json) |
 | Amazing Jewel Switch | 240196 | [240196-amazing-jewel-switch.json](./240196-amazing-jewel-switch.json) |
 | Amazing Joes Journey | 157045 | [157045-amazing-joes-journey.json](./157045-amazing-joes-journey.json) |
+| Amazing Katamari Damacy | 77545 | [77545-amazing-katamari-damacy.json](./77545-amazing-katamari-damacy.json) |
 | Amazing Lab! Science Experiments Quiz | 399607 | [399607-amazing-lab-science-experiments-quiz.json](./399607-amazing-lab-science-experiments-quiz.json) |
 | Amazing Loot Grind | 395758 | [395758-amazing-loot-grind.json](./395758-amazing-loot-grind.json) |
 | Amazing Love: Cupid's Arrows | 232570 | [232570-amazing-love-cupids-arrows.json](./232570-amazing-love-cupids-arrows.json) |
@@ -10795,6 +10796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aniwar | 235078 | [235078-aniwar.json](./235078-aniwar.json) |
 | Aniwars | 247938 | [247938-aniwars.json](./247938-aniwars.json) |
 | Anjail! | 407307 | [407307-anjail.json](./407307-anjail.json) |
+| Anjela | 77520 | [77520-anjela.json](./77520-anjela.json) |
 | Anjelo's Province | 265702 | [265702-anjelos-province.json](./265702-anjelos-province.json) |
 | Anjos do Duelo | 393109 | [393109-anjos-do-duelo.json](./393109-anjos-do-duelo.json) |
 | Anka | 22122 | [22122-anka.json](./22122-anka.json) |
@@ -13958,6 +13960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Argamasa | 266133 | [266133-argamasa.json](./266133-argamasa.json) |
 | Argebe | 333513 | [333513-argebe.json](./333513-argebe.json) |
 | Argent Twilight | 212539 | [212539-argent-twilight.json](./212539-argent-twilight.json) |
+| Argentum Age | 77559 | [77559-argentum-age.json](./77559-argentum-age.json) |
 | Argentum Forever | 337051 | [337051-argentum-forever.json](./337051-argentum-forever.json) |
 | Argentum Online | 176876 | [176876-argentum-online.json](./176876-argentum-online.json) |
 | Argentum Online | 93135 | [93135-argentum-online.json](./93135-argentum-online.json) |
@@ -17181,7 +17184,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -18260,6 +18262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Bumpercars | 93928 | [93928-avatar-bumpercars.json](./93928-avatar-bumpercars.json) |
 | Avatar Calendar | 92377 | [92377-avatar-calendar.json](./92377-avatar-calendar.json) |
 | Avatar Cannon | 92376 | [92376-avatar-cannon.json](./92376-avatar-cannon.json) |
+| Avatar Connection | 77503 | [77503-avatar-connection.json](./77503-avatar-connection.json) |
 | Avatar Dairansen | 303216 | [303216-avatar-dairansen.json](./303216-avatar-dairansen.json) |
 | Avatar Dash! | 93927 | [93927-avatar-dash.json](./93927-avatar-dash.json) |
 | Avatar Deathmatch | 77582 | [77582-avatar-deathmatch.json](./77582-avatar-deathmatch.json) |
@@ -18275,6 +18278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar Hangman | 92379 | [92379-avatar-hangman.json](./92379-avatar-hangman.json) |
 | Avatar Island | 389644 | [389644-avatar-island.json](./389644-avatar-island.json) |
 | Avatar Laser Wars | 77599 | [77599-avatar-laser-wars.json](./77599-avatar-laser-wars.json) |
+| Avatar Laser Wars 2 | 77502 | [77502-avatar-laser-wars-2.json](./77502-avatar-laser-wars-2.json) |
 | Avatar Legends: The Fighting Game | 373021 | [373021-avatar-legends-the-fighting-game.json](./373021-avatar-legends-the-fighting-game.json) |
 | Avatar Legends: The Fighting Game - Deluxe Edition | 412376 | [412376-avatar-legends-the-fighting-game-deluxe-edition.json](./412376-avatar-legends-the-fighting-game-deluxe-edition.json) |
 | Avatar Life | 151848 | [151848-avatar-life.json](./151848-avatar-life.json) |
@@ -18283,6 +18287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avatar of the Wolf | 36829 | [36829-avatar-of-the-wolf.json](./36829-avatar-of-the-wolf.json) |
 | Avatar of War: The Dark Lord | 200296 | [200296-avatar-of-war-the-dark-lord.json](./200296-avatar-of-war-the-dark-lord.json) |
 | Avatar Onslaught 2 | 77594 | [77594-avatar-onslaught-2.json](./77594-avatar-onslaught-2.json) |
+| Avatar Onslaught: Blizzard | 77510 | [77510-avatar-onslaught-blizzard.json](./77510-avatar-onslaught-blizzard.json) |
 | Avatar Paintball | 77598 | [77598-avatar-paintball.json](./77598-avatar-paintball.json) |
 | Avatar Pinball | 144035 | [144035-avatar-pinball.json](./144035-avatar-pinball.json) |
 | Avatar Project (Working Title) | 131442 | [131442-avatar-project-working-title.json](./131442-avatar-project-working-title.json) |
