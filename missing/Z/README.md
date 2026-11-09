@@ -374,6 +374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zarth | 45977 | [45977-zarth.json](./45977-zarth.json) |
 | Zarts | 186546 | [186546-zarts.json](./186546-zarts.json) |
 | Zaru | 312494 | [312494-zaru.json](./312494-zaru.json) |
+| Zarvot | 12502 | [12502-zarvot.json](./12502-zarvot.json) |
 | Zarya | 290961 | [290961-zarya.json](./290961-zarya.json) |
 | Zarya and the Cursed Skull | 29229 | [29229-zarya-and-the-cursed-skull.json](./29229-zarya-and-the-cursed-skull.json) |
 | Zarya-1: Mystery on the Moon | 38792 | [38792-zarya-1-mystery-on-the-moon.json](./38792-zarya-1-mystery-on-the-moon.json) |
