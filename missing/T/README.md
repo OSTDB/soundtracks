@@ -4948,6 +4948,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Test Drive 4 | 78297 | [78297-test-drive-4.json](./78297-test-drive-4.json) |
 | Test Drive 5 | 19231 | [19231-test-drive-5.json](./19231-test-drive-5.json) |
 | Test Drive 6 | 370310 | [370310-test-drive-6.json](./370310-test-drive-6.json) |
+| Test Drive 6 | 4111 | [4111-test-drive-6.json](./4111-test-drive-6.json) |
 | Test Drive Cycles | 362222 | [362222-test-drive-cycles.json](./362222-test-drive-cycles.json) |
 | Test Drive Cycles | 49906 | [49906-test-drive-cycles.json](./49906-test-drive-cycles.json) |
 | Test Drive II: Car Disk - The Muscle Cars | 74870 | [74870-test-drive-ii-car-disk-the-muscle-cars.json](./74870-test-drive-ii-car-disk-the-muscle-cars.json) |
@@ -6966,6 +6967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blueness of a Wound | 129062 | [129062-the-blueness-of-a-wound.json](./129062-the-blueness-of-a-wound.json) |
 | The Blues Brothers | 265032 | [265032-the-blues-brothers.json](./265032-the-blues-brothers.json) |
 | The Blues Brothers | 265033 | [265033-the-blues-brothers.json](./265033-the-blues-brothers.json) |
+| The Blues Brothers | 7792 | [7792-the-blues-brothers.json](./7792-the-blues-brothers.json) |
 | The Blues Brothers: Jukebox Adventure | 47007 | [47007-the-blues-brothers-jukebox-adventure.json](./47007-the-blues-brothers-jukebox-adventure.json) |
 | The Board AI | 274247 | [274247-the-board-ai.json](./274247-the-board-ai.json) |
 | The Board is Yours | 384227 | [384227-the-board-is-yours.json](./384227-the-board-is-yours.json) |
@@ -15513,6 +15515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pinball of the Dead | 6534 | [6534-the-pinball-of-the-dead.json](./6534-the-pinball-of-the-dead.json) |
 | The Pinecone | 140352 | [140352-the-pinecone.json](./140352-the-pinecone.json) |
 | The Pink Panther | 218447 | [218447-the-pink-panther.json](./218447-the-pink-panther.json) |
+| The Pink Panther: Hokus Pokus Pink | 8109 | [8109-the-pink-panther-hokus-pokus-pink.json](./8109-the-pink-panther-hokus-pokus-pink.json) |
 | The Pink Panther's Passport to Peril | 47088 | [47088-the-pink-panthers-passport-to-peril.json](./47088-the-pink-panthers-passport-to-peril.json) |
 | The Pinkman Files | 391523 | [391523-the-pinkman-files.json](./391523-the-pinkman-files.json) |
 | The Pioneers: Surviving Desolation | 171471 | [171471-the-pioneers-surviving-desolation.json](./171471-the-pioneers-surviving-desolation.json) |
@@ -24528,6 +24531,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Terrariums | 244629 | [244629-tiny-terrariums.json](./244629-tiny-terrariums.json) |
 | Tiny Terrors | 375205 | [375205-tiny-terrors.json](./375205-tiny-terrors.json) |
 | Tiny the Mole | 322539 | [322539-tiny-the-mole.json](./322539-tiny-the-mole.json) |
+| Tiny Thief | 7554 | [7554-tiny-thief.json](./7554-tiny-thief.json) |
 | Tiny Thor | 28295 | [28295-tiny-thor.json](./28295-tiny-thor.json) |
 | Tiny Thor's Revenge | 30970 | [30970-tiny-thors-revenge.json](./30970-tiny-thors-revenge.json) |
 | Tiny Tied | 244843 | [244843-tiny-tied.json](./244843-tiny-tied.json) |
