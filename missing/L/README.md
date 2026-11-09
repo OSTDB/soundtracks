@@ -8089,6 +8089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of Football: Eastern Europe | 10520 | [10520-lords-of-football-eastern-europe.json](./10520-lords-of-football-eastern-europe.json) |
 | Lords of Football: Super Training | 10521 | [10521-lords-of-football-super-training.json](./10521-lords-of-football-super-training.json) |
 | Lords of Football: United States | 172347 | [172347-lords-of-football-united-states.json](./172347-lords-of-football-united-states.json) |
+| Lords of Karma | 18713 | [18713-lords-of-karma.json](./18713-lords-of-karma.json) |
 | Lords of Kingdoms | 96662 | [96662-lords-of-kingdoms.json](./96662-lords-of-kingdoms.json) |
 | Lords of Magic | 51397 | [51397-lords-of-magic.json](./51397-lords-of-magic.json) |
 | Lords of Magic: Legends of Urak | 73966 | [73966-lords-of-magic-legends-of-urak.json](./73966-lords-of-magic-legends-of-urak.json) |
