@@ -7584,6 +7584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flappy Bird: The Bird Game | 108615 | [108615-flappy-bird-the-bird-game.json](./108615-flappy-bird-the-bird-game.json) |
 | Flappy Birdie | 228224 | [228224-flappy-birdie.json](./228224-flappy-birdie.json) |
 | Flappy Birds 2 | 268501 | [268501-flappy-birds-2.json](./268501-flappy-birds-2.json) |
+| Flappy Birds Family | 61207 | [61207-flappy-birds-family.json](./61207-flappy-birds-family.json) |
 | Flappy Box | 285478 | [285478-flappy-box.json](./285478-flappy-box.json) |
 | Flappy Boy | 305720 | [305720-flappy-boy.json](./305720-flappy-boy.json) |
 | Flappy Brolly | 255008 | [255008-flappy-brolly.json](./255008-flappy-brolly.json) |
@@ -14331,6 +14332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fussball Manager 25 | 335346 | [335346-fussball-manager-25.json](./335346-fussball-manager-25.json) |
 | Fussball Manager 26 | 392424 | [392424-fussball-manager-26.json](./392424-fussball-manager-26.json) |
 | Fussball Manager Bundesliga 2001 | 209417 | [209417-fussball-manager-bundesliga-2001.json](./209417-fussball-manager-bundesliga-2001.json) |
+| Fusterclucks 2015 | 60710 | [60710-fusterclucks-2015.json](./60710-fusterclucks-2015.json) |
 | Fusty Dungeon | 415043 | [415043-fusty-dungeon.json](./415043-fusty-dungeon.json) |
 | Futa Battle TD | 196143 | [196143-futa-battle-td.json](./196143-futa-battle-td.json) |
 | Futa Heim | 410599 | [410599-futa-heim.json](./410599-futa-heim.json) |
