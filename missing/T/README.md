@@ -1500,6 +1500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talisman Codes | 406518 | [406518-talisman-codes.json](./406518-talisman-codes.json) |
 | Talisman Online | 140560 | [140560-talisman-online.json](./140560-talisman-online.json) |
 | Talisman Ultimate Upgrade Bundle | 404556 | [404556-talisman-ultimate-upgrade-bundle.json](./404556-talisman-ultimate-upgrade-bundle.json) |
+| Talisman: Challenging the Sands of Time | 71435 | [71435-talisman-challenging-the-sands-of-time.json](./71435-talisman-challenging-the-sands-of-time.json) |
 | Talisman: Complete Runestone Deck | 168518 | [168518-talisman-complete-runestone-deck.json](./168518-talisman-complete-runestone-deck.json) |
 | Talisman: Digital 5th Edition | 302175 | [302175-talisman-digital-5th-edition.json](./302175-talisman-digital-5th-edition.json) |
 | Talisman: Digital Classic Edition | 337748 | [337748-talisman-digital-classic-edition.json](./337748-talisman-digital-classic-edition.json) |
@@ -5931,6 +5932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Amazeing Labyrinth | 57085 | [57085-the-amazeing-labyrinth.json](./57085-the-amazeing-labyrinth.json) |
 | The Amazing Adventures of ANSI Dude | 79231 | [79231-the-amazing-adventures-of-ansi-dude.json](./79231-the-amazing-adventures-of-ansi-dude.json) |
 | The Amazing Adventures of Lady Fanny Featherstone | 100534 | [100534-the-amazing-adventures-of-lady-fanny-featherstone.json](./100534-the-amazing-adventures-of-lady-fanny-featherstone.json) |
+| The Amazing Adventures of Lucy Lavender | 71132 | [71132-the-amazing-adventures-of-lucy-lavender.json](./71132-the-amazing-adventures-of-lucy-lavender.json) |
 | The Amazing American Circus | 140559 | [140559-the-amazing-american-circus.json](./140559-the-amazing-american-circus.json) |
 | The Amazing American Circus: The Ringmaster's Edition | 159701 | [159701-the-amazing-american-circus-the-ringmasters-edition.json](./159701-the-amazing-american-circus-the-ringmasters-edition.json) |
 | The Amazing Ball | 159555 | [159555-the-amazing-ball.json](./159555-the-amazing-ball.json) |
