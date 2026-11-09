@@ -1653,6 +1653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Week of a King | 288227 | [288227-last-week-of-a-king.json](./288227-last-week-of-a-king.json) |
 | Last Whisper | 238647 | [238647-last-whisper.json](./238647-last-whisper.json) |
 | Last Will | 23490 | [23490-last-will.json](./23490-last-will.json) |
+| Last Will | 33240 | [33240-last-will.json](./33240-last-will.json) |
 | Last Window: The Secret of Cape West | 22958 | [22958-last-window-the-secret-of-cape-west.json](./22958-last-window-the-secret-of-cape-west.json) |
 | Last Wings | 26365 | [26365-last-wings.json](./26365-last-wings.json) |
 | Last Wish | 111074 | [111074-last-wish.json](./111074-last-wish.json) |
@@ -9662,6 +9663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Luck Breaker | 262318 | [262318-luck-breaker.json](./262318-luck-breaker.json) |
 | Luck of the Draw | 415123 | [415123-luck-of-the-draw.json](./415123-luck-of-the-draw.json) |
 | Luck's Labyrinth | 297133 | [297133-lucks-labyrinth.json](./297133-lucks-labyrinth.json) |
+| LuckCatchers | 33206 | [33206-luckcatchers.json](./33206-luckcatchers.json) |
 | Luckcatchers2 | 285483 | [285483-luckcatchers2.json](./285483-luckcatchers2.json) |
 | Luckie Ball | 245273 | [245273-luckie-ball.json](./245273-luckie-ball.json) |
 | Luckier | 185614 | [185614-luckier.json](./185614-luckier.json) |
