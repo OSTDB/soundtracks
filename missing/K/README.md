@@ -2927,6 +2927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4435,6 +4436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KKK or AKC? A Quiz by PETA | 330013 | [330013-kkk-or-akc-a-quiz-by-peta.json](./330013-kkk-or-akc-a-quiz-by-peta.json) |
 | KKND: Krush Kill 'n Destroy Xtreme | 79484 | [79484-kknd-krush-kill-n-destroy-xtreme.json](./79484-kknd-krush-kill-n-destroy-xtreme.json) |
 | KKND: Krush, Kill 'N' Destroy | 71738 | [71738-kknd-krush-kill-n-destroy.json](./71738-kknd-krush-kill-n-destroy.json) |
+| KKnD2: Krossfire | 4123 | [4123-kknd2-krossfire.json](./4123-kknd2-krossfire.json) |
 | Kkokko Industry | 371981 | [371981-kkokko-industry.json](./371981-kkokko-industry.json) |
 | KKuTu Korea | 112247 | [112247-kkutu-korea.json](./112247-kkutu-korea.json) |
 | KKuTuDotNet | 143754 | [143754-kkutudotnet.json](./143754-kkutudotnet.json) |
@@ -4459,6 +4461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Klax | 285593 | [285593-klax.json](./285593-klax.json) |
 | Klax | 286421 | [286421-klax.json](./286421-klax.json) |
 | Klax | 311034 | [311034-klax.json](./311034-klax.json) |
+| Klax | 4484 | [4484-klax.json](./4484-klax.json) |
 | Klaymen Gun-Hockey | 43749 | [43749-klaymen-gun-hockey.json](./43749-klaymen-gun-hockey.json) |
 | Klaystar | 210996 | [210996-klaystar.json](./210996-klaystar.json) |
 | Klee: Spacetime Cleaners | 256951 | [256951-klee-spacetime-cleaners.json](./256951-klee-spacetime-cleaners.json) |
