@@ -1703,6 +1703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ralsei Hwrot | 370385 | [370385-ralsei-hwrot.json](./370385-ralsei-hwrot.json) |
 | Ralsei's got a gun! | 175924 | [175924-ralseis-got-a-gun.json](./175924-ralseis-got-a-gun.json) |
 | RAM 1982 | 349953 | [349953-ram-1982.json](./349953-ram-1982.json) |
+| Ram Boe | 33216 | [33216-ram-boe.json](./33216-ram-boe.json) |
 | RAM Downloader | 384225 | [384225-ram-downloader.json](./384225-ram-downloader.json) |
 | RAM Ghost | 171540 | [171540-ram-ghost.json](./171540-ram-ghost.json) |
 | Ram It | 18581 | [18581-ram-it.json](./18581-ram-it.json) |
