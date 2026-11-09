@@ -165,6 +165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cabela's Survival: Shadows of Katmai | 6651 | [6651-cabelas-survival-shadows-of-katmai.json](./6651-cabelas-survival-shadows-of-katmai.json) |
 | Cabela's Trophy Bucks | 4739 | [4739-cabelas-trophy-bucks.json](./4739-cabelas-trophy-bucks.json) |
 | Cabela's Ultimate Deer Hunt | 72036 | [72036-cabelas-ultimate-deer-hunt.json](./72036-cabelas-ultimate-deer-hunt.json) |
+| Cabela's Ultimate Deer Hunt 2 | 51334 | [51334-cabelas-ultimate-deer-hunt-2.json](./51334-cabelas-ultimate-deer-hunt-2.json) |
 | Cabela's Ultimate Deer Hunt: Open Season | 45297 | [45297-cabelas-ultimate-deer-hunt-open-season.json](./45297-cabelas-ultimate-deer-hunt-open-season.json) |
 | Cabela's: The Hunt - Championship Edition | 110706 | [110706-cabelas-the-hunt-championship-edition.json](./110706-cabelas-the-hunt-championship-edition.json) |
 | Cabernet: Deluxe Edition | 380151 | [380151-cabernet-deluxe-edition.json](./380151-cabernet-deluxe-edition.json) |
