@@ -1614,6 +1614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Feud: 2012 Edition | 6678 | [6678-family-feud-2012-edition.json](./6678-family-feud-2012-edition.json) |
 | Family Feud: Battle of the Sexes | 358962 | [358962-family-feud-battle-of-the-sexes.json](./358962-family-feud-battle-of-the-sexes.json) |
 | Family Fitness Challenge | 421396 | [421396-family-fitness-challenge.json](./421396-family-fitness-challenge.json) |
+| Family Fun Football | 50651 | [50651-family-fun-football.json](./50651-family-fun-football.json) |
 | Family Fun Game Collection | 209247 | [209247-family-fun-game-collection.json](./209247-family-fun-game-collection.json) |
 | Family Fun Pack | 100092 | [100092-family-fun-pack.json](./100092-family-fun-pack.json) |
 | Family Fun Pack | 391196 | [391196-family-fun-pack.json](./391196-family-fun-pack.json) |
@@ -7045,6 +7046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fit Happens | 407485 | [407485-fit-happens.json](./407485-fit-happens.json) |
 | Fit In | 113055 | [113055-fit-in.json](./113055-fit-in.json) |
 | Fit in Bed | 309024 | [309024-fit-in-bed.json](./309024-fit-in-bed.json) |
+| Fit in Six: Six Ways to Get in Shape | 50659 | [50659-fit-in-six-six-ways-to-get-in-shape.json](./50659-fit-in-six-six-ways-to-get-in-shape.json) |
 | Fit In The Hole | 291956 | [291956-fit-in-the-hole.json](./291956-fit-in-the-hole.json) |
 | Fit it | 110659 | [110659-fit-it.json](./110659-fit-it.json) |
 | Fit Kit | 181175 | [181175-fit-kit.json](./181175-fit-kit.json) |
