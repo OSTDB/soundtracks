@@ -2032,6 +2032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vid Grid | 71297 | [71297-vid-grid.json](./71297-vid-grid.json) |
 | Vida | 327710 | [327710-vida.json](./327710-vida.json) |
 | Vida | 332783 | [332783-vida.json](./332783-vida.json) |
+| Vida | 70017 | [70017-vida.json](./70017-vida.json) |
 | Vida Loka Simulator | 397246 | [397246-vida-loka-simulator.json](./397246-vida-loka-simulator.json) |
 | Vidalia's Adventure | 360502 | [360502-vidalias-adventure.json](./360502-vidalias-adventure.json) |
 | Vidar | 27191 | [27191-vidar.json](./27191-vidar.json) |
