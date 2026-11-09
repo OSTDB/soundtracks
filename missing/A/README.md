@@ -3631,6 +3631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure 3 | 305193 | [305193-adventure-3.json](./305193-adventure-3.json) |
 | Adventure 3: Mission Impossible | 41189 | [41189-adventure-3-mission-impossible.json](./41189-adventure-3-mission-impossible.json) |
 | Adventure 4: Wizards Academy | 52363 | [52363-adventure-4-wizards-academy.json](./52363-adventure-4-wizards-academy.json) |
+| Adventure A: Planet of Death | 45364 | [45364-adventure-a-planet-of-death.json](./45364-adventure-a-planet-of-death.json) |
 | Adventure Academia: The Fractured Continent | 203499 | [203499-adventure-academia-the-fractured-continent.json](./203499-adventure-academia-the-fractured-continent.json) |
 | Adventure Academia: The Fractured Continent - Additional Content Vol.1 Bundle | 231213 | [231213-adventure-academia-the-fractured-continent-additional-content-vol-1-bundle.json](./231213-adventure-academia-the-fractured-continent-additional-content-vol-1-bundle.json) |
 | Adventure Academia: The Fractured Continent - Additional Content Vol.2 Bundle | 231214 | [231214-adventure-academia-the-fractured-continent-additional-content-vol-2-bundle.json](./231214-adventure-academia-the-fractured-continent-additional-content-vol-2-bundle.json) |
@@ -3658,6 +3659,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure at the Chateau d'Or | 78189 | [78189-adventure-at-the-chateau-dor.json](./78189-adventure-at-the-chateau-dor.json) |
 | AdVenture Autist | 109124 | [109124-adventure-autist.json](./109124-adventure-autist.json) |
 | Adventure Awaits | 226100 | [226100-adventure-awaits.json](./226100-adventure-awaits.json) |
+| Adventure B: Inca Curse | 45354 | [45354-adventure-b-inca-curse.json](./45354-adventure-b-inca-curse.json) |
 | Adventure Ball 3D Balancer | 249451 | [249451-adventure-ball-3d-balancer.json](./249451-adventure-ball-3d-balancer.json) |
 | Adventure Bar Labyrinth | 60096 | [60096-adventure-bar-labyrinth.json](./60096-adventure-bar-labyrinth.json) |
 | Adventure Bar Story | 279048 | [279048-adventure-bar-story.json](./279048-adventure-bar-story.json) |
@@ -3668,6 +3670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Boy Cheapskate | 95928 | [95928-adventure-boy-cheapskate.json](./95928-adventure-boy-cheapskate.json) |
 | Adventure Boy Cheapskate DX | 112684 | [112684-adventure-boy-cheapskate-dx.json](./112684-adventure-boy-cheapskate-dx.json) |
 | Adventure Boy Jailbreak | 127824 | [127824-adventure-boy-jailbreak.json](./127824-adventure-boy-jailbreak.json) |
+| Adventure C Ship of Doom | 45360 | [45360-adventure-c-ship-of-doom.json](./45360-adventure-c-ship-of-doom.json) |
 | Adventure C: The Ship of Doom | 72641 | [72641-adventure-c-the-ship-of-doom.json](./72641-adventure-c-the-ship-of-doom.json) |
 | Adventure Canoe | 392769 | [392769-adventure-canoe.json](./392769-adventure-canoe.json) |
 | Adventure Chronicles: The Search For Lost Treasure | 11441 | [11441-adventure-chronicles-the-search-for-lost-treasure.json](./11441-adventure-chronicles-the-search-for-lost-treasure.json) |
@@ -12446,6 +12449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquaduto | 230637 | [230637-aquaduto.json](./230637-aquaduto.json) |
 | AquaFantasia | 297786 | [297786-aquafantasia.json](./297786-aquafantasia.json) |
 | AquaHero | 237665 | [237665-aquahero.json](./237665-aquahero.json) |
+| Aquales | 45380 | [45380-aquales.json](./45380-aquales.json) |
 | Aqualife | 50021 | [50021-aqualife.json](./50021-aqualife.json) |
 | AquaLife 3D | 288877 | [288877-aqualife-3d.json](./288877-aqualife-3d.json) |
 | Aqualux | 52410 | [52410-aqualux.json](./52410-aqualux.json) |
@@ -16739,6 +16743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AstroDiner Manager | 387097 | [387097-astrodiner-manager.json](./387097-astrodiner-manager.json) |
 | Astrodition | 149583 | [149583-astrodition.json](./149583-astrodition.json) |
 | Astrodle | 291592 | [291592-astrodle.json](./291592-astrodle.json) |
+| Astrododge | 45382 | [45382-astrododge.json](./45382-astrododge.json) |
 | Astrodogs | 138055 | [138055-astrodogs.json](./138055-astrodogs.json) |
 | Astrodrifter | 304682 | [304682-astrodrifter.json](./304682-astrodrifter.json) |
 | Astroe | 59234 | [59234-astroe.json](./59234-astroe.json) |
