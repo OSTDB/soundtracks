@@ -3063,6 +3063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 50 | 186671 | [186671-50.json](./186671-50.json) |
 | 50 Blockbuster Games Volume 1 | 259410 | [259410-50-blockbuster-games-volume-1.json](./259410-50-blockbuster-games-volume-1.json) |
 | 50 Blockbuster Games Volume 2 | 259411 | [259411-50-blockbuster-games-volume-2.json](./259411-50-blockbuster-games-volume-2.json) |
+| 50 Cent: Blood on the Sand | 5472 | [5472-50-cent-blood-on-the-sand.json](./5472-50-cent-blood-on-the-sand.json) |
 | 50 Cent: Bulletproof | 4011 | [4011-50-cent-bulletproof.json](./4011-50-cent-bulletproof.json) |
 | 50 Cents Please | 367504 | [367504-50-cents-please.json](./367504-50-cents-please.json) |
 | 50 Classic Games | 48034 | [48034-50-classic-games.json](./48034-50-classic-games.json) |
