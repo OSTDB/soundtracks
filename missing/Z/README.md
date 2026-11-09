@@ -1821,6 +1821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Mansion | 218713 | [218713-zombie-mansion.json](./218713-zombie-mansion.json) |
 | Zombie Marbles | 375755 | [375755-zombie-marbles.json](./375755-zombie-marbles.json) |
 | Zombie Massacre | 415927 | [415927-zombie-massacre.json](./415927-zombie-massacre.json) |
+| Zombie Master: Reborn | 70713 | [70713-zombie-master-reborn.json](./70713-zombie-master-reborn.json) |
 | Zombie Mathters | 156890 | [156890-zombie-mathters.json](./156890-zombie-mathters.json) |
 | Zombie Maze | 190348 | [190348-zombie-maze.json](./190348-zombie-maze.json) |
 | Zombie Maze | 205851 | [205851-zombie-maze.json](./205851-zombie-maze.json) |
