@@ -4290,6 +4290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Inhuman | 193276 | [193276-inhuman.json](./193276-inhuman.json) |
 | Inhuman | 350421 | [350421-inhuman.json](./350421-inhuman.json) |
 | Inhuman Resources: A Literary Machination | 333863 | [333863-inhuman-resources-a-literary-machination.json](./333863-inhuman-resources-a-literary-machination.json) |
+| Inhumane | 60180 | [60180-inhumane.json](./60180-inhumane.json) |
 | Inhumanus | 96689 | [96689-inhumanus.json](./96689-inhumanus.json) |
 | Ini | 197638 | [197638-ini.json](./197638-ini.json) |
 | Inigo Gets Out | 313923 | [313923-inigo-gets-out.json](./313923-inigo-gets-out.json) |
