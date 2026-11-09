@@ -12776,6 +12776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper City Parkour | 371545 | [371545-hyper-city-parkour.json](./371545-hyper-city-parkour.json) |
 | Hyper Contender | 318714 | [318714-hyper-contender.json](./318714-hyper-contender.json) |
 | Hyper Crash | 39290 | [39290-hyper-crash.json](./39290-hyper-crash.json) |
+| Hyper Crazy Climber | 73389 | [73389-hyper-crazy-climber.json](./73389-hyper-crazy-climber.json) |
 | Hyper Danganronpa Melancholy | 304342 | [304342-hyper-danganronpa-melancholy.json](./304342-hyper-danganronpa-melancholy.json) |
 | Hyper Dash | 133736 | [133736-hyper-dash.json](./133736-hyper-dash.json) |
 | Hyper Demon | 218183 | [218183-hyper-demon.json](./218183-hyper-demon.json) |
