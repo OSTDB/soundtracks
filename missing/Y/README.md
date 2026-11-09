@@ -64,6 +64,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yaga's Hunt | 298004 | [298004-yagas-hunt.json](./298004-yagas-hunt.json) |
 | Yagami Hiroki no Game-Taste: Munasawagi no Yokan | 166496 | [166496-yagami-hiroki-no-game-taste-munasawagi-no-yokan.json](./166496-yagami-hiroki-no-game-taste-munasawagi-no-yokan.json) |
 | Yagazem Elements | 334332 | [334332-yagazem-elements.json](./334332-yagazem-elements.json) |
+| Yago, the Coquerrestrial | 75323 | [75323-yago-the-coquerrestrial.json](./75323-yago-the-coquerrestrial.json) |
 | YAGS: Falling For You | 228069 | [228069-yags-falling-for-you.json](./228069-yags-falling-for-you.json) |
 | Yagzz! | 343336 | [343336-yagzz.json](./343336-yagzz.json) |
 | Yahari Game Demo Ore no Seishun Love-come wa Machigatteiru. Kan | 231405 | [231405-yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-kan.json](./231405-yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-kan.json) |
