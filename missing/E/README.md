@@ -864,6 +864,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoed Memories | 181018 | [181018-echoed-memories.json](./181018-echoed-memories.json) |
 | Echoed Nights | 408194 | [408194-echoed-nights.json](./408194-echoed-nights.json) |
 | Echoed Realms | 295000 | [295000-echoed-realms.json](./295000-echoed-realms.json) |
+| Echoed World | 75329 | [75329-echoed-world.json](./75329-echoed-world.json) |
 | Echoes | 193057 | [193057-echoes.json](./193057-echoes.json) |
 | Echoes | 264209 | [264209-echoes.json](./264209-echoes.json) |
 | Echoes | 300758 | [300758-echoes.json](./300758-echoes.json) |
