@@ -16113,6 +16113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Bubblegum | 290607 | [290607-project-bubblegum.json](./290607-project-bubblegum.json) |
 | Project Bullet | 151510 | [151510-project-bullet.json](./151510-project-bullet.json) |
 | Project Butterfly | 327793 | [327793-project-butterfly.json](./327793-project-butterfly.json) |
+| Project Buzz Bar | 73942 | [73942-project-buzz-bar.json](./73942-project-buzz-bar.json) |
 | Project C.U.R.E. Origins | 393249 | [393249-project-c-u-r-e-origins.json](./393249-project-c-u-r-e-origins.json) |
 | Project Cabin | 75920 | [75920-project-cabin.json](./75920-project-cabin.json) |
 | Project Cairo | 297475 | [297475-project-cairo.json](./297475-project-cairo.json) |
