@@ -4177,6 +4177,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero's Quest | 35321 | [35321-aeros-quest.json](./35321-aeros-quest.json) |
 | Aerobat | 18199 | [18199-aerobat.json](./18199-aerobat.json) |
 | Aerobics Revolution | 269323 | [269323-aerobics-revolution.json](./269323-aerobics-revolution.json) |
+| Aerobiz | 5350 | [5350-aerobiz.json](./5350-aerobiz.json) |
+| Aerobiz Supersonic | 5351 | [5351-aerobiz-supersonic.json](./5351-aerobiz-supersonic.json) |
 | Aerobots | 120425 | [120425-aerobots.json](./120425-aerobots.json) |
 | AeroChopper | 99034 | [99034-aerochopper.json](./99034-aerochopper.json) |
 | Aerocorp | 379492 | [379492-aerocorp.json](./379492-aerocorp.json) |
@@ -17444,6 +17446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -18892,6 +18895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Awe of Despair | 75811 | [75811-awe-of-despair.json](./75811-awe-of-despair.json) |
 | Awekening of Cthulhu | 187674 | [187674-awekening-of-cthulhu.json](./187674-awekening-of-cthulhu.json) |
 | Awele/Oware: Mancala | 89069 | [89069-awele-oware-mancala.json](./89069-awele-oware-mancala.json) |
+| Awesome | 5877 | [5877-awesome.json](./5877-awesome.json) |
 | Awesome Animated Monster Maker | 115070 | [115070-awesome-animated-monster-maker.json](./115070-awesome-animated-monster-maker.json) |
 | Awesome Animated Monster Maker: Ultra Edition | 109179 | [109179-awesome-animated-monster-maker-ultra-edition.json](./109179-awesome-animated-monster-maker-ultra-edition.json) |
 | Awesome Asteroids | 239291 | [239291-awesome-asteroids.json](./239291-awesome-asteroids.json) |
