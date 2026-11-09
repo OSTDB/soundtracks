@@ -5008,6 +5008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet City | 356729 | [356729-pet-city.json](./356729-pet-city.json) |
 | Pet City 2 | 356731 | [356731-pet-city-2.json](./356731-pet-city-2.json) |
 | Pet Clinic Simulator | 320372 | [320372-pet-clinic-simulator.json](./320372-pet-clinic-simulator.json) |
+| Pet Club: Inu Dai Suki! | 46296 | [46296-pet-club-inu-dai-suki.json](./46296-pet-club-inu-dai-suki.json) |
 | Pet Crossing | 310034 | [310034-pet-crossing.json](./310034-pet-crossing.json) |
 | Pet Cube: Tower Stack | 242211 | [242211-pet-cube-tower-stack.json](./242211-pet-cube-tower-stack.json) |
 | Pet Dentist Office | 87539 | [87539-pet-dentist-office.json](./87539-pet-dentist-office.json) |
