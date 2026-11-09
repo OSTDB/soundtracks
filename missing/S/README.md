@@ -17982,6 +17982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Action | 333781 | [333781-sonic-action.json](./333781-sonic-action.json) |
 | Sonic Action 4 Pack | 136876 | [136876-sonic-action-4-pack.json](./136876-sonic-action-4-pack.json) |
 | Sonic Advance | 197616 | [197616-sonic-advance.json](./197616-sonic-advance.json) |
+| Sonic Advance | 6283 | [6283-sonic-advance.json](./6283-sonic-advance.json) |
 | Sonic Advance 2 | 6598 | [6598-sonic-advance-2.json](./6598-sonic-advance-2.json) |
 | Sonic Advance 2 SP | 273545 | [273545-sonic-advance-2-sp.json](./273545-sonic-advance-2-sp.json) |
 | Sonic Advance 3 SP | 402975 | [402975-sonic-advance-3-sp.json](./402975-sonic-advance-3-sp.json) |
@@ -19520,8 +19521,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulbound Steel | 159791 | [159791-soulbound-steel.json](./159791-soulbound-steel.json) |
 | Soulbound: Online | 274057 | [274057-soulbound-online.json](./274057-soulbound-online.json) |
 | Soulbringer | 9281 | [9281-soulbringer.json](./9281-soulbringer.json) |
+| SoulCalibur | 1564 | [1564-soulcalibur.json](./1564-soulcalibur.json) |
 | Soulcalibur II Plus | 384776 | [384776-soulcalibur-ii-plus.json](./384776-soulcalibur-ii-plus.json) |
 | SoulCalibur II: Recompiled | 415181 | [415181-soulcalibur-ii-recompiled.json](./415181-soulcalibur-ii-recompiled.json) |
+| SoulCalibur III | 1566 | [1566-soulcalibur-iii.json](./1566-soulcalibur-iii.json) |
 | SoulCalibur III | 370000 | [370000-soulcalibur-iii.json](./370000-soulcalibur-iii.json) |
 | SoulCalibur III: Arcade Edition | 299306 | [299306-soulcalibur-iii-arcade-edition.json](./299306-soulcalibur-iii-arcade-edition.json) |
 | SoulCalibur IV | 328917 | [328917-soulcalibur-iv.json](./328917-soulcalibur-iv.json) |
@@ -33392,6 +33395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario RPG: Legend of the Seven Stars | 5418 | [5418-super-mario-rpg-legend-of-the-seven-stars.json](./5418-super-mario-rpg-legend-of-the-seven-stars.json) |
 | Super Mario RPG: The Seven Sages | 175832 | [175832-super-mario-rpg-the-seven-sages.json](./175832-super-mario-rpg-the-seven-sages.json) |
 | Super Mario RPG: The Starlite Worlds | 175887 | [175887-super-mario-rpg-the-starlite-worlds.json](./175887-super-mario-rpg-the-starlite-worlds.json) |
+| Super Mario Run | 23796 | [23796-super-mario-run.json](./23796-super-mario-run.json) |
 | Super Mario Run: Ver. 3.0.4 | 327941 | [327941-super-mario-run-ver-3-0-4.json](./327941-super-mario-run-ver-3-0-4.json) |
 | Super Mario Sandbox | 313766 | [313766-super-mario-sandbox.json](./313766-super-mario-sandbox.json) |
 | Super Mario Sayajin Aventura | 265845 | [265845-super-mario-sayajin-aventura.json](./265845-super-mario-sayajin-aventura.json) |
@@ -35374,6 +35378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Car Parking Simulator 2024 | 270471 | [270471-supreme-car-parking-simulator-2024.json](./270471-supreme-car-parking-simulator-2024.json) |
 | Supreme Car Race on Highway Simulator: Ultimate Driving Games Poly Experience | 231038 | [231038-supreme-car-race-on-highway-simulator-ultimate-driving-games-poly-experience.json](./231038-supreme-car-race-on-highway-simulator-ultimate-driving-games-poly-experience.json) |
 | Supreme Challenge | 70071 | [70071-supreme-challenge.json](./70071-supreme-challenge.json) |
+| Supreme Commander | 276 | [276-supreme-commander.json](./276-supreme-commander.json) |
 | Supreme Commander 2 | 7201 | [7201-supreme-commander-2.json](./7201-supreme-commander-2.json) |
 | Supreme Commander 2: Infinite War Battle Pack | 155169 | [155169-supreme-commander-2-infinite-war-battle-pack.json](./155169-supreme-commander-2-infinite-war-battle-pack.json) |
 | Supreme Commander: Forged Alliance | 888 | [888-supreme-commander-forged-alliance.json](./888-supreme-commander-forged-alliance.json) |
