@@ -2562,6 +2562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elevator 500 | 211505 | [211505-elevator-500.json](./211505-elevator-500.json) |
 | Elevator Action | 276516 | [276516-elevator-action.json](./276516-elevator-action.json) |
 | Elevator Action | 307821 | [307821-elevator-action.json](./307821-elevator-action.json) |
+| Elevator Action | 4599 | [4599-elevator-action.json](./4599-elevator-action.json) |
 | Elevator Action | 51241 | [51241-elevator-action.json](./51241-elevator-action.json) |
 | Elevator Action 3D | 286679 | [286679-elevator-action-3d.json](./286679-elevator-action-3d.json) |
 | Elevator Action 500 | 394313 | [394313-elevator-action-500.json](./394313-elevator-action-500.json) |
@@ -3254,6 +3255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emily Enough: Imprisoned | 71474 | [71474-emily-enough-imprisoned.json](./71474-emily-enough-imprisoned.json) |
 | Emily is Away | 14762 | [14762-emily-is-away.json](./14762-emily-is-away.json) |
 | Emily is Away <3 | 116053 | [116053-emily-is-away-3.json](./116053-emily-is-away-3.json) |
+| Emily Is Away Too | 25211 | [25211-emily-is-away-too.json](./25211-emily-is-away-too.json) |
 | Emily the Strange: Strangerous | 47765 | [47765-emily-the-strange-strangerous.json](./47765-emily-the-strange-strangerous.json) |
 | Emily vs. the Unstable Creatures | 180853 | [180853-emily-vs-the-unstable-creatures.json](./180853-emily-vs-the-unstable-creatures.json) |
 | Emily Wants to Play | 16302 | [16302-emily-wants-to-play.json](./16302-emily-wants-to-play.json) |
@@ -4346,6 +4348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enlightenment: Druid II | 12585 | [12585-enlightenment-druid-ii.json](./12585-enlightenment-druid-ii.json) |
 | Enlightenus | 100251 | [100251-enlightenus.json](./100251-enlightenus.json) |
 | Enlil: Rise Of the End | 387486 | [387486-enlil-rise-of-the-end.json](./387486-enlil-rise-of-the-end.json) |
+| Enlisted | 26431 | [26431-enlisted.json](./26431-enlisted.json) |
 | Enlisted: Calliope Squad | 293769 | [293769-enlisted-calliope-squad.json](./293769-enlisted-calliope-squad.json) |
 | Enlisted: Direct Fire Bundle | 309016 | [309016-enlisted-direct-fire-bundle.json](./309016-enlisted-direct-fire-bundle.json) |
 | Enlisted: Fedorov MG Squad | 293772 | [293772-enlisted-fedorov-mg-squad.json](./293772-enlisted-fedorov-mg-squad.json) |
