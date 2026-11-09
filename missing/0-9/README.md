@@ -1128,6 +1128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12 Locks: Plasticine Room | 308527 | [308527-12-locks-plasticine-room.json](./308527-12-locks-plasticine-room.json) |
 | 12 MiniBattles | 139356 | [139356-12-minibattles.json](./139356-12-minibattles.json) |
 | 12 no Tsuki no Eve | 60301 | [60301-12-no-tsuki-no-eve.json](./60301-12-no-tsuki-no-eve.json) |
+| 12 O'Clock High: Bombing the Reich | 71686 | [71686-12-oclock-high-bombing-the-reich.json](./71686-12-oclock-high-bombing-the-reich.json) |
 | 12 Orbits | 90578 | [90578-12-orbits.json](./90578-12-orbits.json) |
 | 12 Party Games Collection | 378828 | [378828-12-party-games-collection.json](./378828-12-party-games-collection.json) |
 | 12 pm Break | 262992 | [262992-12-pm-break.json](./262992-12-pm-break.json) |
