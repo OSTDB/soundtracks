@@ -155,6 +155,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | QLewds | 375403 | [375403-qlewds.json](./375403-qlewds.json) |
 | Qlione | 50840 | [50840-qlione.json](./50840-qlione.json) |
 | Qlione 2 | 65629 | [65629-qlione-2.json](./65629-qlione-2.json) |
+| Qlione Evolve | 52680 | [52680-qlione-evolve.json](./52680-qlione-evolve.json) |
 | Qliphah in Providence's Shadow | 408068 | [408068-qliphah-in-providences-shadow.json](./408068-qliphah-in-providences-shadow.json) |
 | Qloister | 381928 | [381928-qloister.json](./381928-qloister.json) |
 | Qlorb | 84090 | [84090-qlorb.json](./84090-qlorb.json) |
