@@ -8013,6 +8013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chobits: Chii Dake no Hito | 65457 | [65457-chobits-chii-dake-no-hito.json](./65457-chobits-chii-dake-no-hito.json) |
 | Choc N Roll | 281995 | [281995-choc-n-roll.json](./281995-choc-n-roll.json) |
 | ChocChocPop | 66191 | [66191-chocchocpop.json](./66191-chocchocpop.json) |
+| Chocks Away | 37221 | [37221-chocks-away.json](./37221-chocks-away.json) |
 | Choco Chef | 157862 | [157862-choco-chef.json](./157862-choco-chef.json) |
 | Choco Clicker World | 344547 | [344547-choco-clicker-world.json](./344547-choco-clicker-world.json) |
 | Choco Kiosk Simulator | 363019 | [363019-choco-kiosk-simulator.json](./363019-choco-kiosk-simulator.json) |
@@ -17531,6 +17532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy One | 242791 | [242791-crazy-one.json](./242791-crazy-one.json) |
 | Crazy Otto | 208322 | [208322-crazy-otto.json](./208322-crazy-otto.json) |
 | Crazy Otto | 32506 | [32506-crazy-otto.json](./32506-crazy-otto.json) |
+| Crazy Painter | 37219 | [37219-crazy-painter.json](./37219-crazy-painter.json) |
 | Crazy Pancake | 206412 | [206412-crazy-pancake.json](./206412-crazy-pancake.json) |
 | Crazy Penguin Catapult | 93922 | [93922-crazy-penguin-catapult.json](./93922-crazy-penguin-catapult.json) |
 | Crazy Penguin Catapult 2 | 67968 | [67968-crazy-penguin-catapult-2.json](./67968-crazy-penguin-catapult-2.json) |
