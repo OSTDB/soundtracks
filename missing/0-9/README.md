@@ -1411,6 +1411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1943 Deadly Desert | 101450 | [101450-1943-deadly-desert.json](./101450-1943-deadly-desert.json) |
 | 1943 Kai: Midway Kaisen | 39865 | [39865-1943-kai-midway-kaisen.json](./39865-1943-kai-midway-kaisen.json) |
 | 1943 Megami Strike | 33580 | [33580-1943-megami-strike.json](./33580-1943-megami-strike.json) |
+| 1943: Kai | 42079 | [42079-1943-kai.json](./42079-1943-kai.json) |
 | 1943: One Year After | 145414 | [145414-1943-one-year-after.json](./145414-1943-one-year-after.json) |
 | 1943: The Battle of Midway | 218334 | [218334-1943-the-battle-of-midway.json](./218334-1943-the-battle-of-midway.json) |
 | 1943: The Battle of Midway | 272545 | [272545-1943-the-battle-of-midway.json](./272545-1943-the-battle-of-midway.json) |
