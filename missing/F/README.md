@@ -2234,6 +2234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantasy Zoo | 205759 | [205759-fantasy-zoo.json](./205759-fantasy-zoo.json) |
 | Fantasy: Battle Simulator | 43950 | [43950-fantasy-battle-simulator.json](./43950-fantasy-battle-simulator.json) |
 | Fantasya | 232937 | [232937-fantasya.json](./232937-fantasya.json) |
+| Fantasya Final Definitiva Remake | 55317 | [55317-fantasya-final-definitiva-remake.json](./55317-fantasya-final-definitiva-remake.json) |
 | FantasyGolf | 26387 | [26387-fantasygolf.json](./26387-fantasygolf.json) |
 | FantasyKingdom | 306429 | [306429-fantasykingdom.json](./306429-fantasykingdom.json) |
 | Fantasyland | 97083 | [97083-fantasyland.json](./97083-fantasyland.json) |
@@ -4825,6 +4826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighting Illusion: K-1 GP 2000 | 61440 | [61440-fighting-illusion-k-1-gp-2000.json](./61440-fighting-illusion-k-1-gp-2000.json) |
 | Fighting Illusion: K-1 Grand Prix '98 | 61434 | [61434-fighting-illusion-k-1-grand-prix-98.json](./61434-fighting-illusion-k-1-grand-prix-98.json) |
 | Fighting in Aden Gulf | 381253 | [381253-fighting-in-aden-gulf.json](./381253-fighting-in-aden-gulf.json) |
+| Fighting in Aden Gulf | 54637 | [54637-fighting-in-aden-gulf.json](./54637-fighting-in-aden-gulf.json) |
 | Fighting in Aden Gulf: 10 Degrees Turn | 54722 | [54722-fighting-in-aden-gulf-10-degrees-turn.json](./54722-fighting-in-aden-gulf-10-degrees-turn.json) |
 | Fighting Layer | 39552 | [39552-fighting-layer.json](./39552-fighting-layer.json) |
 | Fighting Legends Online | 61835 | [61835-fighting-legends-online.json](./61835-fighting-legends-online.json) |
@@ -8220,6 +8222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flipper Hazard | 44115 | [44115-flipper-hazard.json](./44115-flipper-hazard.json) |
 | Flipper Hazard 2 | 54483 | [54483-flipper-hazard-2.json](./54483-flipper-hazard-2.json) |
 | Flipper Hazard 4 | 55239 | [55239-flipper-hazard-4.json](./55239-flipper-hazard-4.json) |
+| Flipper Hazard 4 | 55320 | [55320-flipper-hazard-4.json](./55320-flipper-hazard-4.json) |
 | Flipper Hazard 5 | 55442 | [55442-flipper-hazard-5.json](./55442-flipper-hazard-5.json) |
 | Flipper Island | 232296 | [232296-flipper-island.json](./232296-flipper-island.json) |
 | Flipper Lifter | 151969 | [151969-flipper-lifter.json](./151969-flipper-lifter.json) |
