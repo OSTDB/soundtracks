@@ -4354,6 +4354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redisruption | 71873 | [71873-redisruption.json](./71873-redisruption.json) |
 | Reditum | 148898 | [148898-reditum.json](./148898-reditum.json) |
 | Reditus: Ashes of Heremus | 230535 | [230535-reditus-ashes-of-heremus.json](./230535-reditus-ashes-of-heremus.json) |
+| Redium | 53314 | [53314-redium.json](./53314-redium.json) |
 | Redjack: Revenge of the Brethren | 18297 | [18297-redjack-revenge-of-the-brethren.json](./18297-redjack-revenge-of-the-brethren.json) |
 | RedLantern | 392943 | [392943-redlantern.json](./392943-redlantern.json) |
 | Redlight | 296318 | [296318-redlight.json](./296318-redlight.json) |
