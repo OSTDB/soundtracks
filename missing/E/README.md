@@ -978,6 +978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of the Museum | 402321 | [402321-echoes-of-the-museum.json](./402321-echoes-of-the-museum.json) |
 | Echoes of the Past | 168391 | [168391-echoes-of-the-past.json](./168391-echoes-of-the-past.json) |
 | Echoes of the Past: Kingdom of Despair | 140249 | [140249-echoes-of-the-past-kingdom-of-despair.json](./140249-echoes-of-the-past-kingdom-of-despair.json) |
+| Echoes of the Past: Kingdom of Despair - Collector's Edition | 32017 | [32017-echoes-of-the-past-kingdom-of-despair-collectors-edition.json](./32017-echoes-of-the-past-kingdom-of-despair-collectors-edition.json) |
 | Echoes of the Past: Royal House of Stone | 64639 | [64639-echoes-of-the-past-royal-house-of-stone.json](./64639-echoes-of-the-past-royal-house-of-stone.json) |
 | Echoes of the Past: The Citadels of Time | 64637 | [64637-echoes-of-the-past-the-citadels-of-time.json](./64637-echoes-of-the-past-the-citadels-of-time.json) |
 | Echoes of the Past: The Citadels of Time - Collector's Edition | 114346 | [114346-echoes-of-the-past-the-citadels-of-time-collectors-edition.json](./114346-echoes-of-the-past-the-citadels-of-time-collectors-edition.json) |
@@ -5739,6 +5740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape Simulator: The Talos Principle DLC | 321346 | [321346-escape-simulator-the-talos-principle-dlc.json](./321346-escape-simulator-the-talos-principle-dlc.json) |
 | Escape Simulator: Wild West | 221903 | [221903-escape-simulator-wild-west.json](./221903-escape-simulator-wild-west.json) |
 | Escape Space | 244625 | [244625-escape-space.json](./244625-escape-space.json) |
+| Escape Station | 31327 | [31327-escape-station.json](./31327-escape-station.json) |
 | Escape Stories: Virtual Reality | 258319 | [258319-escape-stories-virtual-reality.json](./258319-escape-stories-virtual-reality.json) |
 | Escape Story | 71257 | [71257-escape-story.json](./71257-escape-story.json) |
 | Escape String | 221589 | [221589-escape-string.json](./221589-escape-string.json) |
