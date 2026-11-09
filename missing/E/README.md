@@ -4647,6 +4647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Princess | 226515 | [226515-epic-princess.json](./226515-epic-princess.json) |
 | Epic Prose | 28169 | [28169-epic-prose.json](./28169-epic-prose.json) |
 | Epic Prose: Special Edition | 52020 | [52020-epic-prose-special-edition.json](./52020-epic-prose-special-edition.json) |
+| Epic PVP Castles | 74616 | [74616-epic-pvp-castles.json](./74616-epic-pvp-castles.json) |
 | Epic Quest | 302552 | [302552-epic-quest.json](./302552-epic-quest.json) |
 | Epic Quest of the 4 Crystals | 34695 | [34695-epic-quest-of-the-4-crystals.json](./34695-epic-quest-of-the-4-crystals.json) |
 | Epic Race: The Stadium | 231751 | [231751-epic-race-the-stadium.json](./231751-epic-race-the-stadium.json) |
@@ -8136,6 +8137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expeditions: Viking - Blood-Ice | 124899 | [124899-expeditions-viking-blood-ice.json](./124899-expeditions-viking-blood-ice.json) |
 | Expel | 156947 | [156947-expel.json](./156947-expel.json) |
 | Expel | 246827 | [246827-expel.json](./246827-expel.json) |
+| Expelled | 74619 | [74619-expelled.json](./74619-expelled.json) |
 | Expelled from Paradise: The Stellar Angel | 396301 | [396301-expelled-from-paradise-the-stellar-angel.json](./396301-expelled-from-paradise-the-stellar-angel.json) |
 | Expelled! | 331180 | [331180-expelled.json](./331180-expelled.json) |
 | Expendable | 317640 | [317640-expendable.json](./317640-expendable.json) |
