@@ -12075,6 +12075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Golf | 228553 | [228553-the-king-of-golf.json](./228553-the-king-of-golf.json) |
 | The King of Rally | 38111 | [38111-the-king-of-rally.json](./38111-the-king-of-rally.json) |
 | The King of Route 66 | 18863 | [18863-the-king-of-route-66.json](./18863-the-king-of-route-66.json) |
+| The King of Shreds and Patches | 60121 | [60121-the-king-of-shreds-and-patches.json](./60121-the-king-of-shreds-and-patches.json) |
 | The King of the Oceans | 157464 | [157464-the-king-of-the-oceans.json](./157464-the-king-of-the-oceans.json) |
 | The King of the Wood | 22368 | [22368-the-king-of-the-wood.json](./22368-the-king-of-the-wood.json) |
 | The King of Tower Defense | 360206 | [360206-the-king-of-tower-defense.json](./360206-the-king-of-tower-defense.json) |
@@ -20099,6 +20100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TheHunter: Primal | 10347 | [10347-thehunter-primal.json](./10347-thehunter-primal.json) |
 | Theiaology | 173918 | [173918-theiaology.json](./173918-theiaology.json) |
 | Their Aftermath | 364386 | [364386-their-aftermath.json](./364386-their-aftermath.json) |
+| Their Angelical Understanding | 60117 | [60117-their-angelical-understanding.json](./60117-their-angelical-understanding.json) |
 | Their Eyes | 166000 | [166000-their-eyes.json](./166000-their-eyes.json) |
 | Their Finest Hour: The Battle of Britain | 208 | [208-their-finest-hour-the-battle-of-britain.json](./208-their-finest-hour-the-battle-of-britain.json) |
 | Their Majesties' Pleasure | 250993 | [250993-their-majesties-pleasure.json](./250993-their-majesties-pleasure.json) |
@@ -31430,6 +31432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasurenauts | 27447 | [27447-treasurenauts.json](./27447-treasurenauts.json) |
 | Treasurer | 415751 | [415751-treasurer.json](./415751-treasurer.json) |
 | Treasures Boom | 256158 | [256158-treasures-boom.json](./256158-treasures-boom.json) |
+| Treasures of a Slaver's Kingdom | 60110 | [60110-treasures-of-a-slavers-kingdom.json](./60110-treasures-of-a-slavers-kingdom.json) |
 | Treasures of Captain Sam | 200863 | [200863-treasures-of-captain-sam.json](./200863-treasures-of-captain-sam.json) |
 | Treasures of Montezuma Blitz | 65272 | [65272-treasures-of-montezuma-blitz.json](./65272-treasures-of-montezuma-blitz.json) |
 | Treasures of Montezuma: Arena | 61539 | [61539-treasures-of-montezuma-arena.json](./61539-treasures-of-montezuma-arena.json) |
