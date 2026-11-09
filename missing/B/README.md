@@ -10088,6 +10088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Valley | 93817 | [93817-blast-valley.json](./93817-blast-valley.json) |
 | Blast Valley: Flip the Gun | 96015 | [96015-blast-valley-flip-the-gun.json](./96015-blast-valley-flip-the-gun.json) |
 | Blast Waves | 194183 | [194183-blast-waves.json](./194183-blast-waves.json) |
+| Blast Wind | 45413 | [45413-blast-wind.json](./45413-blast-wind.json) |
 | Blast Works: Build, Trade, Destroy | 4720 | [4720-blast-works-build-trade-destroy.json](./4720-blast-works-build-trade-destroy.json) |
 | Blast X | 97819 | [97819-blast-x.json](./97819-blast-x.json) |
 | Blast-a-Bug! | 324338 | [324338-blast-a-bug.json](./324338-blast-a-bug.json) |
@@ -10285,6 +10286,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blazing Dragon Slayer · Divine Weapon Awakening | 358508 | [358508-blazing-dragon-slayer-divine-weapon-awakening.json](./358508-blazing-dragon-slayer-divine-weapon-awakening.json) |
 | Blazing Dragons | 45514 | [45514-blazing-dragons.json](./45514-blazing-dragons.json) |
 | Blazing Dynamo | 209493 | [209493-blazing-dynamo.json](./209493-blazing-dynamo.json) |
+| Blazing Heroes | 45390 | [45390-blazing-heroes.json](./45390-blazing-heroes.json) |
 | Blazing Legion: Ignition | 78064 | [78064-blazing-legion-ignition.json](./78064-blazing-legion-ignition.json) |
 | Blazing Maidens | 374309 | [374309-blazing-maidens.json](./374309-blazing-maidens.json) |
 | Blazing Rangers | 143052 | [143052-blazing-rangers.json](./143052-blazing-rangers.json) |
@@ -12014,6 +12016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Breaker ~A Smile Over a Sword~ | 46697 | [46697-blue-breaker-a-smile-over-a-sword.json](./46697-blue-breaker-a-smile-over-a-sword.json) |
 | Blue Breaker Burst: Bishou o Anata to | 43816 | [43816-blue-breaker-burst-bishou-o-anata-to.json](./43816-blue-breaker-burst-bishou-o-anata-to.json) |
 | Blue Breaker Burst: Egao no Asu ni | 43817 | [43817-blue-breaker-burst-egao-no-asu-ni.json](./43817-blue-breaker-burst-egao-no-asu-ni.json) |
+| Blue Breaker: Ken Yorimo Hohoemi wo | 45411 | [45411-blue-breaker-ken-yorimo-hohoemi-wo.json](./45411-blue-breaker-ken-yorimo-hohoemi-wo.json) |
 | Blue Chips | 191126 | [191126-blue-chips.json](./191126-blue-chips.json) |
 | Blue Cradle: Signifie | 265143 | [265143-blue-cradle-signifie.json](./265143-blue-cradle-signifie.json) |
 | Blue Crow | 385822 | [385822-blue-crow.json](./385822-blue-crow.json) |
@@ -12131,6 +12134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue Sabers: Operation Orbital Hammer | 130510 | [130510-blue-sabers-operation-orbital-hammer.json](./130510-blue-sabers-operation-orbital-hammer.json) |
 | Blue Sango | 263595 | [263595-blue-sango.json](./263595-blue-sango.json) |
 | Blue Screen Adventures | 31519 | [31519-blue-screen-adventures.json](./31519-blue-screen-adventures.json) |
+| Blue Seed: Kushinada Hirokuden | 45409 | [45409-blue-seed-kushinada-hirokuden.json](./45409-blue-seed-kushinada-hirokuden.json) |
 | Blue Sheep | 34306 | [34306-blue-sheep.json](./34306-blue-sheep.json) |
 | Blue Shutter | 367528 | [367528-blue-shutter.json](./367528-blue-shutter.json) |
 | Blue Sign | 412477 | [412477-blue-sign.json](./412477-blue-sign.json) |
@@ -12594,6 +12598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Body of Work | 281443 | [281443-body-of-work.json](./281443-body-of-work.json) |
 | Body Pay | 296665 | [296665-body-pay.json](./296665-body-pay.json) |
 | Body Slam | 40095 | [40095-body-slam.json](./40095-body-slam.json) |
+| Body Special 264: Girls in Motion Puzzle Vol. 2 | 45408 | [45408-body-special-264-girls-in-motion-puzzle-vol-2.json](./45408-body-special-264-girls-in-motion-puzzle-vol-2.json) |
 | Body Sushi | 393471 | [393471-body-sushi.json](./393471-body-sushi.json) |
 | Body. Electric. | 225979 | [225979-body-electric.json](./225979-body-electric.json) |
 | BodyCam 2025 | 368253 | [368253-bodycam-2025.json](./368253-bodycam-2025.json) |
@@ -13134,6 +13139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomberman Tower | 260870 | [260870-bomberman-tower.json](./260870-bomberman-tower.json) |
 | Bomberman Ultra | 44572 | [44572-bomberman-ultra.json](./44572-bomberman-ultra.json) |
 | Bomberman v1.8 | 92253 | [92253-bomberman-v1-8.json](./92253-bomberman-v1-8.json) |
+| Bomberman Wars | 45407 | [45407-bomberman-wars.json](./45407-bomberman-wars.json) |
 | Bomberman: Act Zero | 6925 | [6925-bomberman-act-zero.json](./6925-bomberman-act-zero.json) |
 | Bomberman: Bakufuu Sentai Bomberman | 59395 | [59395-bomberman-bakufuu-sentai-bomberman.json](./59395-bomberman-bakufuu-sentai-bomberman.json) |
 | Bomberman: Disney Stitch Edition | 198061 | [198061-bomberman-disney-stitch-edition.json](./198061-bomberman-disney-stitch-edition.json) |
@@ -14158,6 +14164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouhou Youyoumu | 204076 | [204076-bouhou-youyoumu.json](./204076-bouhou-youyoumu.json) |
 | Bouken Danshaku Don: The Lost Sunheart | 37720 | [37720-bouken-danshaku-don-the-lost-sunheart.json](./37720-bouken-danshaku-don-the-lost-sunheart.json) |
 | Bouken Jidai Katsugeki: Goemon | 72230 | [72230-bouken-jidai-katsugeki-goemon.json](./72230-bouken-jidai-katsugeki-goemon.json) |
+| Bouken Katsugeki Monomono | 45412 | [45412-bouken-katsugeki-monomono.json](./45412-bouken-katsugeki-monomono.json) |
 | Bouken Shounen Club Gahou | 269383 | [269383-bouken-shounen-club-gahou.json](./269383-bouken-shounen-club-gahou.json) |
 | Bouken Yuuki Pluster World: Densetsu no Plust Gate | 49527 | [49527-bouken-yuuki-pluster-world-densetsu-no-plust-gate.json](./49527-bouken-yuuki-pluster-world-densetsu-no-plust-gate.json) |
 | Bouken Yuuki Pluster World: Densetsu no Pluster Gate EX | 49526 | [49526-bouken-yuuki-pluster-world-densetsu-no-pluster-gate-ex.json](./49526-bouken-yuuki-pluster-world-densetsu-no-pluster-gate-ex.json) |
