@@ -8254,6 +8254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Heat | 319372 | [319372-rising-heat.json](./319372-rising-heat.json) |
 | Rising Hell | 108409 | [108409-rising-hell.json](./108409-rising-hell.json) |
 | Rising Islands | 19242 | [19242-rising-islands.json](./19242-rising-islands.json) |
+| Rising Islands: Collector's Edition | 53515 | [53515-rising-islands-collectors-edition.json](./53515-rising-islands-collectors-edition.json) |
 | Rising Lands | 94667 | [94667-rising-lands.json](./94667-rising-lands.json) |
 | Rising Lords | 106119 | [106119-rising-lords.json](./106119-rising-lords.json) |
 | Rising Lovers | 299424 | [299424-rising-lovers.json](./299424-rising-lovers.json) |
@@ -8273,7 +8274,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Star: The Horse Game | 220707 | [220707-rising-star-the-horse-game.json](./220707-rising-star-the-horse-game.json) |
 | Rising Storm | 2609 | [2609-rising-storm.json](./2609-rising-storm.json) |
 | Rising Storm 2: Vietnam | 18166 | [18166-rising-storm-2-vietnam.json](./18166-rising-storm-2-vietnam.json) |
+| Rising Storm 2: Vietnam - Digital Deluxe Edition | 53516 | [53516-rising-storm-2-vietnam-digital-deluxe-edition.json](./53516-rising-storm-2-vietnam-digital-deluxe-edition.json) |
 | Rising Storm 2: Vietnam - Green Army Men | 164648 | [164648-rising-storm-2-vietnam-green-army-men.json](./164648-rising-storm-2-vietnam-green-army-men.json) |
+| Rising Storm: Game of the Year Edition | 53518 | [53518-rising-storm-game-of-the-year-edition.json](./53518-rising-storm-game-of-the-year-edition.json) |
 | Rising Storm/Red Orchestra 2 Multiplayer | 93834 | [93834-rising-storm-red-orchestra-2-multiplayer.json](./93834-rising-storm-red-orchestra-2-multiplayer.json) |
 | Rising Sun | 850 | [850-rising-sun.json](./850-rising-sun.json) |
 | Rising Sun Mahjong | 257079 | [257079-rising-sun-mahjong.json](./257079-rising-sun-mahjong.json) |
@@ -8552,6 +8555,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | River Run | 390704 | [390704-river-run.json](./390704-river-run.json) |
 | River Runners | 384510 | [384510-river-runners.json](./384510-river-runners.json) |
 | River Rush | 199488 | [199488-river-rush.json](./199488-river-rush.json) |
+| River Simulator 2012 | 53519 | [53519-river-simulator-2012.json](./53519-river-simulator-2012.json) |
 | River Simulator 2012: Inland Waterway Transport | 89510 | [89510-river-simulator-2012-inland-waterway-transport.json](./89510-river-simulator-2012-inland-waterway-transport.json) |
 | River Song | 245359 | [245359-river-song.json](./245359-river-song.json) |
 | River Strike | 414792 | [414792-river-strike.json](./414792-river-strike.json) |
@@ -8756,6 +8760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Story | 241819 | [241819-road-story.json](./241819-road-story.json) |
 | Road Thrills | 74012 | [74012-road-thrills.json](./74012-road-thrills.json) |
 | Road to Adventure! | 143747 | [143747-road-to-adventure.json](./143747-road-to-adventure.json) |
+| Road to Ballhalla: Roll Playing Game of the Year Edition | 53520 | [53520-road-to-ballhalla-roll-playing-game-of-the-year-edition.json](./53520-road-to-ballhalla-roll-playing-game-of-the-year-edition.json) |
 | Road to Beta | 86114 | [86114-road-to-beta.json](./86114-road-to-beta.json) |
 | Road to Champion: Boxing Simulator | 312428 | [312428-road-to-champion-boxing-simulator.json](./312428-road-to-champion-boxing-simulator.json) |
 | Road to Death | 149457 | [149457-road-to-death.json](./149457-road-to-death.json) |
@@ -9807,6 +9812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Riot | 20479 | [20479-rocket-riot.json](./20479-rocket-riot.json) |
 | Rocket Riot 3D | 106261 | [106261-rocket-riot-3d.json](./106261-rocket-riot-3d.json) |
 | Rocket Riot HD | 20646 | [20646-rocket-riot-hd.json](./20646-rocket-riot-hd.json) |
+| Rocket Riot: Collector's Edition | 53521 | [53521-rocket-riot-collectors-edition.json](./53521-rocket-riot-collectors-edition.json) |
 | Rocket Road | 233528 | [233528-rocket-road.json](./233528-rocket-road.json) |
 | Rocket Robber | 106218 | [106218-rocket-robber.json](./106218-rocket-robber.json) |
 | Rocket Roger | 40960 | [40960-rocket-roger.json](./40960-rocket-roger.json) |
