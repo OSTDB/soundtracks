@@ -3153,6 +3153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Birds Build a Bridge! | 88447 | [88447-fat-birds-build-a-bridge.json](./88447-fat-birds-build-a-bridge.json) |
 | Fat Bobby | 40839 | [40839-fat-bobby.json](./40839-fat-bobby.json) |
 | Fat Boy Raids The Cookie Factory | 321865 | [321865-fat-boy-raids-the-cookie-factory.json](./321865-fat-boy-raids-the-cookie-factory.json) |
+| Fat Bunny | 27964 | [27964-fat-bunny.json](./27964-fat-bunny.json) |
 | Fat Cat & Airship | 243177 | [243177-fat-cat-and-airship.json](./243177-fat-cat-and-airship.json) |
 | Fat Chicken | 17891 | [17891-fat-chicken.json](./17891-fat-chicken.json) |
 | Fat City | 20964 | [20964-fat-city.json](./20964-fat-city.json) |
@@ -3336,6 +3337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate of the World | 15079 | [15079-fate-of-the-world.json](./15079-fate-of-the-world.json) |
 | Fate of the World: Denial | 159640 | [159640-fate-of-the-world-denial.json](./159640-fate-of-the-world-denial.json) |
 | Fate of the World: Migration | 159639 | [159639-fate-of-the-world-migration.json](./159639-fate-of-the-world-migration.json) |
+| Fate of the World: Tipping Point | 27951 | [27951-fate-of-the-world-tipping-point.json](./27951-fate-of-the-world-tipping-point.json) |
 | Fate of Windshift | 154794 | [154794-fate-of-windshift.json](./154794-fate-of-windshift.json) |
 | Fate Seeker II | 182359 | [182359-fate-seeker-ii.json](./182359-fate-seeker-ii.json) |
 | Fate Seeker: Journey | 228213 | [228213-fate-seeker-journey.json](./228213-fate-seeker-journey.json) |
