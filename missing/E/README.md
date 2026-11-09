@@ -3799,6 +3799,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Apocalypse | 249246 | [249246-endless-apocalypse.json](./249246-endless-apocalypse.json) |
 | Endless Archery: Chill & Shoot | 175592 | [175592-endless-archery-chill-and-shoot.json](./175592-endless-archery-chill-and-shoot.json) |
 | Endless Ark | 208087 | [208087-endless-ark.json](./208087-endless-ark.json) |
+| Endless Arrows | 27126 | [27126-endless-arrows.json](./27126-endless-arrows.json) |
 | Endless Ascent | 289423 | [289423-endless-ascent.json](./289423-endless-ascent.json) |
 | Endless Asphalt | 382950 | [382950-endless-asphalt.json](./382950-endless-asphalt.json) |
 | Endless Asteroids: Crank to Survive | 355969 | [355969-endless-asteroids-crank-to-survive.json](./355969-endless-asteroids-crank-to-survive.json) |
@@ -6521,6 +6522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Etrange Overlord | 376699 | [376699-etrange-overlord.json](./376699-etrange-overlord.json) |
 | Etre | 270182 | [270182-etre.json](./270182-etre.json) |
 | Etrian Mystery Dungeon | 8607 | [8607-etrian-mystery-dungeon.json](./8607-etrian-mystery-dungeon.json) |
+| Etrian Mystery Dungeon 2 | 27960 | [27960-etrian-mystery-dungeon-2.json](./27960-etrian-mystery-dungeon-2.json) |
 | Etrian Mystery Dungeon 2: Etrian Odyssey 10th Anniversary Box | 70894 | [70894-etrian-mystery-dungeon-2-etrian-odyssey-10th-anniversary-box.json](./70894-etrian-mystery-dungeon-2-etrian-odyssey-10th-anniversary-box.json) |
 | Etrian Odyssey HD | 236678 | [236678-etrian-odyssey-hd.json](./236678-etrian-odyssey-hd.json) |
 | Etrian Odyssey HD Character Set DLC | 251586 | [251586-etrian-odyssey-hd-character-set-dlc.json](./251586-etrian-odyssey-hd-character-set-dlc.json) |
