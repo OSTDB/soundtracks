@@ -1071,6 +1071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammerground | 190966 | [190966-hammerground.json](./190966-hammerground.json) |
 | Hammerhead | 343954 | [343954-hammerhead.json](./343954-hammerhead.json) |
 | Hammerhead | 406308 | [406308-hammerhead.json](./406308-hammerhead.json) |
+| Hammerheads Deluxe | 51314 | [51314-hammerheads-deluxe.json](./51314-hammerheads-deluxe.json) |
 | Hammerheart | 173001 | [173001-hammerheart.json](./173001-hammerheart.json) |
 | HammerHelm | 47136 | [47136-hammerhelm.json](./47136-hammerhelm.json) |
 | Hämmeri | 298825 | [298825-hammeri.json](./298825-hammeri.json) |
@@ -6018,6 +6019,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Cantare | 130642 | [130642-hero-cantare.json](./130642-hero-cantare.json) |
 | Hero Chest | 197161 | [197161-hero-chest.json](./197161-hero-chest.json) |
 | Hero Conquest | 83215 | [83215-hero-conquest.json](./83215-hero-conquest.json) |
+| Hero Core | 51307 | [51307-hero-core.json](./51307-hero-core.json) |
 | Hero Cummy | 285398 | [285398-hero-cummy.json](./285398-hero-cummy.json) |
 | Hero Defence | 25095 | [25095-hero-defence.json](./25095-hero-defence.json) |
 | Hero Defender | 114114 | [114114-hero-defender.json](./114114-hero-defender.json) |
@@ -12730,6 +12732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hydlide Ev | 407599 | [407599-hydlide-ev.json](./407599-hydlide-ev.json) |
 | Hydlide II: Shine of Darkness | 41724 | [41724-hydlide-ii-shine-of-darkness.json](./41724-hydlide-ii-shine-of-darkness.json) |
 | Hydlide: Arranged | 411370 | [411370-hydlide-arranged.json](./411370-hydlide-arranged.json) |
+| Hydorah | 51306 | [51306-hydorah.json](./51306-hydorah.json) |
 | Hydra | 12152 | [12152-hydra.json](./12152-hydra.json) |
 | Hydra | 126444 | [126444-hydra.json](./126444-hydra.json) |
 | Hydra | 316565 | [316565-hydra.json](./316565-hydra.json) |
