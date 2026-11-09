@@ -261,6 +261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabi Laby | 85580 | [85580-rabi-laby.json](./85580-rabi-laby.json) |
 | Rabi Laby 2 | 84834 | [84834-rabi-laby-2.json](./84834-rabi-laby-2.json) |
 | Rabi Laby 3 | 84833 | [84833-rabi-laby-3.json](./84833-rabi-laby-3.json) |
+| Rabi Laby: Puzzle Out Stories | 28356 | [28356-rabi-laby-puzzle-out-stories.json](./28356-rabi-laby-puzzle-out-stories.json) |
 | Rabi to Navi no Daibouken | 206179 | [206179-rabi-to-navi-no-daibouken.json](./206179-rabi-to-navi-no-daibouken.json) |
 | Rabi X Laby: Episode 2 | 56186 | [56186-rabi-x-laby-episode-2.json](./56186-rabi-x-laby-episode-2.json) |
 | Rabi X Laby: Episode 3 | 56183 | [56183-rabi-x-laby-episode-3.json](./56183-rabi-x-laby-episode-3.json) |
@@ -639,6 +640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiant Cell | 211140 | [211140-radiant-cell.json](./211140-radiant-cell.json) |
 | Radiant Click | 373105 | [373105-radiant-click.json](./373105-radiant-click.json) |
 | Radiant Core | 184806 | [184806-radiant-core.json](./184806-radiant-core.json) |
+| Radiant Crusade | 29012 | [29012-radiant-crusade.json](./29012-radiant-crusade.json) |
 | Radiant Dawn | 176380 | [176380-radiant-dawn.json](./176380-radiant-dawn.json) |
 | Radiant Defense | 17442 | [17442-radiant-defense.json](./17442-radiant-defense.json) |
 | Radiant Devotion | 225812 | [225812-radiant-devotion.json](./225812-radiant-devotion.json) |
@@ -6385,6 +6387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RetroCube | 175404 | [175404-retrocube.json](./175404-retrocube.json) |
 | Retrocycles | 138417 | [138417-retrocycles.json](./138417-retrocycles.json) |
 | RetroDrift: Retrowave Online Road | 186980 | [186980-retrodrift-retrowave-online-road.json](./186980-retrodrift-retrowave-online-road.json) |
+| RetroFighter VR | 28995 | [28995-retrofighter-vr.json](./28995-retrofighter-vr.json) |
 | Retrofit: Overload | 66676 | [66676-retrofit-overload.json](./66676-retrofit-overload.json) |
 | RetroFuel | 184108 | [184108-retrofuel.json](./184108-retrofuel.json) |
 | Retrograde | 145866 | [145866-retrograde.json](./145866-retrograde.json) |
