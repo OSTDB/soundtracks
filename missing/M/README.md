@@ -2398,6 +2398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maison Kanraku: The Second Climax | 59992 | [59992-maison-kanraku-the-second-climax.json](./59992-maison-kanraku-the-second-climax.json) |
 | Maison Rouge | 172922 | [172922-maison-rouge.json](./172922-maison-rouge.json) |
 | Maisons de repos | 333714 | [333714-maisons-de-repos.json](./333714-maisons-de-repos.json) |
+| Maisy's Playhouse | 73961 | [73961-maisys-playhouse.json](./73961-maisys-playhouse.json) |
 | Maitetsu: Pure Station | 126483 | [126483-maitetsu-pure-station.json](./126483-maitetsu-pure-station.json) |
 | Maitetsu: Pure Station - Special Luxury Version with Hachiroku Cover Limited Edition | 167008 | [167008-maitetsu-pure-station-special-luxury-version-with-hachiroku-cover-limited-edition.json](./167008-maitetsu-pure-station-special-luxury-version-with-hachiroku-cover-limited-edition.json) |
 | Maitetsu: Pure Station - Special Luxury Version with Triple Suede Tapestry Limited Edition | 167158 | [167158-maitetsu-pure-station-special-luxury-version-with-triple-suede-tapestry-limited-edition.json](./167158-maitetsu-pure-station-special-luxury-version-with-triple-suede-tapestry-limited-edition.json) |
@@ -5247,6 +5248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master Manager | 277972 | [277972-master-manager.json](./277972-master-manager.json) |
 | Master Mariner | 294404 | [294404-master-mariner.json](./294404-master-mariner.json) |
 | Master Mind | 92855 | [92855-master-mind.json](./92855-master-mind.json) |
+| Master Miner | 73959 | [73959-master-miner.json](./73959-master-miner.json) |
 | Master Minesweeper | 90698 | [90698-master-minesweeper.json](./90698-master-minesweeper.json) |
 | Master Ninja | 15539 | [15539-master-ninja.json](./15539-master-ninja.json) |
 | Master Ninja: Shuriken Killer | 278330 | [278330-master-ninja-shuriken-killer.json](./278330-master-ninja-shuriken-killer.json) |
@@ -6196,6 +6198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mayan Prophecies: Cursed Island | 140187 | [140187-mayan-prophecies-cursed-island.json](./140187-mayan-prophecies-cursed-island.json) |
 | Mayan Prophecies: Ship of Spirits | 140188 | [140188-mayan-prophecies-ship-of-spirits.json](./140188-mayan-prophecies-ship-of-spirits.json) |
 | Mayan Reynolds | 260664 | [260664-mayan-reynolds.json](./260664-mayan-reynolds.json) |
+| MayaQuest: The Mystery Trail | 73964 | [73964-mayaquest-the-mystery-trail.json](./73964-mayaquest-the-mystery-trail.json) |
 | Mayas' Virtual Brush | 63741 | [63741-mayas-virtual-brush.json](./63741-mayas-virtual-brush.json) |
 | Mayban | 341646 | [341646-mayban.json](./341646-mayban.json) |
 | Maybe Drinking. Russian Style | 102298 | [102298-maybe-drinking-russian-style.json](./102298-maybe-drinking-russian-style.json) |
@@ -16912,6 +16915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monty Python's the Meaning of Life | 8555 | [8555-monty-pythons-the-meaning-of-life.json](./8555-monty-pythons-the-meaning-of-life.json) |
 | Monty the Komodo Dragon | 324505 | [324505-monty-the-komodo-dragon.json](./324505-monty-the-komodo-dragon.json) |
 | Monty's Backyard Adventure | 104229 | [104229-montys-backyard-adventure.json](./104229-montys-backyard-adventure.json) |
+| Monty's Christmas Special | 73923 | [73923-montys-christmas-special.json](./73923-montys-christmas-special.json) |
 | Monty's Honey Run | 142017 | [142017-montys-honey-run.json](./142017-montys-honey-run.json) |
 | Monument | 260138 | [260138-monument.json](./260138-monument.json) |
 | Monument | 35059 | [35059-monument.json](./35059-monument.json) |
@@ -18215,6 +18219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motif. | 103084 | [103084-motif.json](./103084-motif.json) |
 | Motion | 130173 | [130173-motion.json](./130173-motion.json) |
 | Motion Explosion! | 20224 | [20224-motion-explosion.json](./20224-motion-explosion.json) |
+| Motion Gravure Series: Kitagawa Tomomi | 73932 | [73932-motion-gravure-series-kitagawa-tomomi.json](./73932-motion-gravure-series-kitagawa-tomomi.json) |
 | Motion Gravure Series: Mori Hiroko | 71487 | [71487-motion-gravure-series-mori-hiroko.json](./71487-motion-gravure-series-mori-hiroko.json) |
 | Motion Gravure Series: Nemoto Harumi | 72297 | [72297-motion-gravure-series-nemoto-harumi.json](./72297-motion-gravure-series-nemoto-harumi.json) |
 | Motion of the Heart | 133229 | [133229-motion-of-the-heart.json](./133229-motion-of-the-heart.json) |
@@ -20040,6 +20045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Musashi: Mobile Samurai | 290646 | [290646-musashi-mobile-samurai.json](./290646-musashi-mobile-samurai.json) |
 | Musashi: Samurai Legend | 1811 | [1811-musashi-samurai-legend.json](./1811-musashi-samurai-legend.json) |
 | Muscle Bomber Duo: Ultimate Team Battle | 39317 | [39317-muscle-bomber-duo-ultimate-team-battle.json](./39317-muscle-bomber-duo-ultimate-team-battle.json) |
+| Muscle Car 2: American Spirit | 73947 | [73947-muscle-car-2-american-spirit.json](./73947-muscle-car-2-american-spirit.json) |
 | Muscle Car 3: Illegal Street | 71742 | [71742-muscle-car-3-illegal-street.json](./71742-muscle-car-3-illegal-street.json) |
 | Muscle Car 76 | 210111 | [210111-muscle-car-76.json](./210111-muscle-car-76.json) |
 | Muscle Car Robot | 117178 | [117178-muscle-car-robot.json](./117178-muscle-car-robot.json) |
