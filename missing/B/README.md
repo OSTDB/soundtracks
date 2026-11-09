@@ -10628,6 +10628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blob Command: New Attack | 265669 | [265669-blob-command-new-attack.json](./265669-blob-command-new-attack.json) |
 | Blob Dash | 205619 | [205619-blob-dash.json](./205619-blob-dash.json) |
 | Blob Factory | 407300 | [407300-blob-factory.json](./407300-blob-factory.json) |
+| Blob Game | 61772 | [61772-blob-game.json](./61772-blob-game.json) |
 | Blob King | 124762 | [124762-blob-king.json](./124762-blob-king.json) |
 | Blob Lander | 149762 | [149762-blob-lander.json](./149762-blob-lander.json) |
 | Blob Life | 270482 | [270482-blob-life.json](./270482-blob-life.json) |
@@ -16730,6 +16731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutal Mario | 132862 | [132862-brutal-mario.json](./132862-brutal-mario.json) |
 | Brutal Minecraft Eternal | 198682 | [198682-brutal-minecraft-eternal.json](./198682-brutal-minecraft-eternal.json) |
 | Brutal MooD | 95589 | [95589-brutal-mood.json](./95589-brutal-mood.json) |
+| Brutal Nature | 61747 | [61747-brutal-nature.json](./61747-brutal-nature.json) |
 | Brutal Orchestra | 185849 | [185849-brutal-orchestra.json](./185849-brutal-orchestra.json) |
 | Brutal Pico Race | 176608 | [176608-brutal-pico-race.json](./176608-brutal-pico-race.json) |
 | Brutal Rage | 132657 | [132657-brutal-rage.json](./132657-brutal-rage.json) |
