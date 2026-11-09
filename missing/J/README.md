@@ -1384,6 +1384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetman Hero: Jetpack Shooter | 223553 | [223553-jetman-hero-jetpack-shooter.json](./223553-jetman-hero-jetpack-shooter.json) |
 | JetmanGo | 68467 | [68467-jetmango.json](./68467-jetmango.json) |
 | Jetpac | 187877 | [187877-jetpac.json](./187877-jetpac.json) |
+| Jetpac | 7851 | [7851-jetpac.json](./7851-jetpac.json) |
 | Jetpac Refuelled | 7854 | [7854-jetpac-refuelled.json](./7854-jetpac-refuelled.json) |
 | Jetpac Too | 239653 | [239653-jetpac-too.json](./239653-jetpac-too.json) |
 | Jetpack | 19237 | [19237-jetpack.json](./19237-jetpack.json) |
