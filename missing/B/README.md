@@ -12104,6 +12104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue: Will to Power | 138632 | [138632-blue-will-to-power.json](./138632-blue-will-to-power.json) |
 | Blue. | 90131 | [90131-blue.json](./90131-blue.json) |
 | Blue's Birthday | 229070 | [229070-blues-birthday.json](./229070-blues-birthday.json) |
+| Blue's Clues Collection Day | 70690 | [70690-blues-clues-collection-day.json](./70690-blues-clues-collection-day.json) |
 | Blue's Clues Kindergarten | 7973 | [7973-blues-clues-kindergarten.json](./7973-blues-clues-kindergarten.json) |
 | Blue's Clues: Blue's Alphabet Book | 49911 | [49911-blues-clues-blues-alphabet-book.json](./49911-blues-clues-blues-alphabet-book.json) |
 | Blue's Clues: Blue's Art Time Activities | 73403 | [73403-blues-clues-blues-art-time-activities.json](./73403-blues-clues-blues-art-time-activities.json) |
