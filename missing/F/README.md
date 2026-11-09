@@ -8917,6 +8917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Car Robot Flight Drive Simulator Game 2017 | 86854 | [86854-flying-car-robot-flight-drive-simulator-game-2017.json](./86854-flying-car-robot-flight-drive-simulator-game-2017.json) |
 | Flying Car Transport Simulator | 251340 | [251340-flying-car-transport-simulator.json](./251340-flying-car-transport-simulator.json) |
 | Flying Cat | 282147 | [282147-flying-cat.json](./282147-flying-cat.json) |
+| Flying Champ | 56009 | [56009-flying-champ.json](./56009-flying-champ.json) |
 | Flying Chicken | 343490 | [343490-flying-chicken.json](./343490-flying-chicken.json) |
 | Flying Circus | 114859 | [114859-flying-circus.json](./114859-flying-circus.json) |
 | Flying Comet | 175090 | [175090-flying-comet.json](./175090-flying-comet.json) |
@@ -13648,6 +13649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Full Voice Throttle | 181352 | [181352-full-voice-throttle.json](./181352-full-voice-throttle.json) |
 | Full Void | 204028 | [204028-full-void.json](./204028-full-void.json) |
 | Full Void: Special Edition | 260078 | [260078-full-void-special-edition.json](./260078-full-void-special-edition.json) |
+| Full-On Paintball | 55441 | [55441-full-on-paintball.json](./55441-full-on-paintball.json) |
 | Full-Scale Invasion | 287727 | [287727-full-scale-invasion.json](./287727-full-scale-invasion.json) |
 | FullAni | 317802 | [317802-fullani.json](./317802-fullani.json) |
 | FullBlast | 33864 | [33864-fullblast.json](./33864-fullblast.json) |
@@ -14219,6 +14221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fürst Marigor und die Tobis | 142302 | [142302-furst-marigor-und-die-tobis.json](./142302-furst-marigor-und-die-tobis.json) |
 | FurstDate: A Furry Dating Simulator | 368127 | [368127-furstdate-a-furry-dating-simulator.json](./368127-furstdate-a-furry-dating-simulator.json) |
 | Further | 291743 | [291743-further.json](./291743-further.json) |
+| Further Adventures of Hannibal the Cat | 56045 | [56045-further-adventures-of-hannibal-the-cat.json](./56045-further-adventures-of-hannibal-the-cat.json) |
 | Further and Rarer | 406917 | [406917-further-and-rarer.json](./406917-further-and-rarer.json) |
 | Further Beyond Fighting | 61121 | [61121-further-beyond-fighting.json](./61121-further-beyond-fighting.json) |
 | Further Data | 397030 | [397030-further-data.json](./397030-further-data.json) |
