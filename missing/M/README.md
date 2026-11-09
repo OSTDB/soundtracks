@@ -100,6 +100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M00m World | 323761 | [323761-m00m-world.json](./323761-m00m-world.json) |
 | M1 Tank Platoon | 12673 | [12673-m1-tank-platoon.json](./12673-m1-tank-platoon.json) |
 | M1 Tank Platoon 2 | 36902 | [36902-m1-tank-platoon-2.json](./36902-m1-tank-platoon-2.json) |
+| M1: A Death in the Desert | 52063 | [52063-m1-a-death-in-the-desert.json](./52063-m1-a-death-in-the-desert.json) |
 | M13n: Miniaturization | 336544 | [336544-m13n-miniaturization.json](./336544-m13n-miniaturization.json) |
 | M25 Racer | 12896 | [12896-m25-racer.json](./12896-m25-racer.json) |
 | M2K | 286783 | [286783-m2k.json](./286783-m2k.json) |
@@ -7598,6 +7599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Games 6 Vol. 3 | 4456 | [4456-mega-games-6-vol-3.json](./4456-mega-games-6-vol-3.json) |
 | Mega Giga Cookie Destroyer TD | 304856 | [304856-mega-giga-cookie-destroyer-td.json](./304856-mega-giga-cookie-destroyer-td.json) |
 | Mega Hasan | 128343 | [128343-mega-hasan.json](./128343-mega-hasan.json) |
+| Mega Jump | 52021 | [52021-mega-jump.json](./52021-mega-jump.json) |
 | Mega Kaiju Boom Ball | 390022 | [390022-mega-kaiju-boom-ball.json](./390022-mega-kaiju-boom-ball.json) |
 | Mega Knight | 288367 | [288367-mega-knight.json](./288367-mega-knight.json) |
 | Mega Knockdown | 141397 | [141397-mega-knockdown.json](./141397-mega-knockdown.json) |
