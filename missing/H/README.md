@@ -10408,6 +10408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horizon X | 57645 | [57645-horizon-x.json](./57645-horizon-x.json) |
 | Horizon Zero Dawn: Complete Edition | 72870 | [72870-horizon-zero-dawn-complete-edition.json](./72870-horizon-zero-dawn-complete-edition.json) |
 | Horizon Zero Dawn: Limited Edition | 136150 | [136150-horizon-zero-dawn-limited-edition.json](./136150-horizon-zero-dawn-limited-edition.json) |
+| Horizon Zero Dawn: The Frozen Wilds | 37083 | [37083-horizon-zero-dawn-the-frozen-wilds.json](./37083-horizon-zero-dawn-the-frozen-wilds.json) |
 | Horizon: Zero Dawn - Thunderjaw Collector's Edition | 168554 | [168554-horizon-zero-dawn-thunderjaw-collectors-edition.json](./168554-horizon-zero-dawn-thunderjaw-collectors-edition.json) |
 | Horizon's Edge | 291381 | [291381-horizons-edge.json](./291381-horizons-edge.json) |
 | Horizon's Gate | 131620 | [131620-horizons-gate.json](./131620-horizons-gate.json) |
