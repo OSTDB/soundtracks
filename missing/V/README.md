@@ -892,6 +892,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vanquish 2 | 89549 | [89549-vanquish-2.json](./89549-vanquish-2.json) |
 | Vanquish Evil | 349317 | [349317-vanquish-evil.json](./349317-vanquish-evil.json) |
 | Vanquish The Eternal | 372776 | [372776-vanquish-the-eternal.json](./372776-vanquish-the-eternal.json) |
+| Vanquish: The Adventures of Lady Exton | 33637 | [33637-vanquish-the-adventures-of-lady-exton.json](./33637-vanquish-the-adventures-of-lady-exton.json) |
 | Vanran | 361912 | [361912-vanran.json](./361912-vanran.json) |
 | Vantage Master | 92020 | [92020-vantage-master.json](./92020-vantage-master.json) |
 | Vantage Master Portable | 196855 | [196855-vantage-master-portable.json](./196855-vantage-master-portable.json) |
