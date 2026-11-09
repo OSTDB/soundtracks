@@ -12378,6 +12378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AquaPhobia | 188176 | [188176-aquaphobia.json](./188176-aquaphobia.json) |
 | Aquaplane | 94575 | [94575-aquaplane.json](./94575-aquaplane.json) |
 | Aquapolis SOS | 267398 | [267398-aquapolis-sos.json](./267398-aquapolis-sos.json) |
+| Aquaponics Life | 76120 | [76120-aquaponics-life.json](./76120-aquaponics-life.json) |
 | Aquarelle | 156573 | [156573-aquarelle.json](./156573-aquarelle.json) |
 | Aquaria | 297464 | [297464-aquaria.json](./297464-aquaria.json) |
 | Aquaria | 7406 | [7406-aquaria.json](./7406-aquaria.json) |
@@ -13103,6 +13104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Classics | 250130 | [250130-arcade-classics.json](./250130-arcade-classics.json) |
 | Arcade Classics | 282489 | [282489-arcade-classics.json](./282489-arcade-classics.json) |
 | Arcade Classics | 77144 | [77144-arcade-classics.json](./77144-arcade-classics.json) |
+| Arcade Classics 3D | 76085 | [76085-arcade-classics-3d.json](./76085-arcade-classics-3d.json) |
 | Arcade Classics: Ms. Pac-Man | 219386 | [219386-arcade-classics-ms-pac-man.json](./219386-arcade-classics-ms-pac-man.json) |
 | Arcade Classics: Pac-Man | 219343 | [219343-arcade-classics-pac-man.json](./219343-arcade-classics-pac-man.json) |
 | Arcade Classics: Seawolf II and Gun Fight | 130282 | [130282-arcade-classics-seawolf-ii-and-gun-fight.json](./130282-arcade-classics-seawolf-ii-and-gun-fight.json) |
