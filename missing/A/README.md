@@ -15933,8 +15933,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Infinity | 154791 | [154791-assassins-creed-infinity.json](./154791-assassins-creed-infinity.json) |
 | Assassin's Creed IV Black Flag + Assassin's Creed Rogue Double Pack | 167003 | [167003-assassins-creed-iv-black-flag-assassins-creed-rogue-double-pack.json](./167003-assassins-creed-iv-black-flag-assassins-creed-rogue-double-pack.json) |
 | Assassin's Creed IV Black Flag: Aveline | 26095 | [26095-assassins-creed-iv-black-flag-aveline.json](./26095-assassins-creed-iv-black-flag-aveline.json) |
+| Assassin's Creed IV Black Flag: Blackbeard's Wrath | 26092 | [26092-assassins-creed-iv-black-flag-blackbeards-wrath.json](./26092-assassins-creed-iv-black-flag-blackbeards-wrath.json) |
+| Assassin's Creed IV Black Flag: Crusader & Florentine Pack | 26091 | [26091-assassins-creed-iv-black-flag-crusader-and-florentine-pack.json](./26091-assassins-creed-iv-black-flag-crusader-and-florentine-pack.json) |
+| Assassin's Creed IV Black Flag: Death Vessel Pack | 26085 | [26085-assassins-creed-iv-black-flag-death-vessel-pack.json](./26085-assassins-creed-iv-black-flag-death-vessel-pack.json) |
 | Assassin's Creed IV Black Flag: Guild of Rogues | 26094 | [26094-assassins-creed-iv-black-flag-guild-of-rogues.json](./26094-assassins-creed-iv-black-flag-guild-of-rogues.json) |
 | Assassin's Creed IV Black Flag: Illustrious Pirates Pack | 26093 | [26093-assassins-creed-iv-black-flag-illustrious-pirates-pack.json](./26093-assassins-creed-iv-black-flag-illustrious-pirates-pack.json) |
+| Assassin's Creed IV Black Flag: Kraken Ship Pack | 26086 | [26086-assassins-creed-iv-black-flag-kraken-ship-pack.json](./26086-assassins-creed-iv-black-flag-kraken-ship-pack.json) |
+| Assassin's Creed IV Black Flag: Time Saver - Activities Pack | 26088 | [26088-assassins-creed-iv-black-flag-time-saver-activities-pack.json](./26088-assassins-creed-iv-black-flag-time-saver-activities-pack.json) |
+| Assassin's Creed IV Black Flag: Time Saver - Resources Pack | 26084 | [26084-assassins-creed-iv-black-flag-time-saver-resources-pack.json](./26084-assassins-creed-iv-black-flag-time-saver-resources-pack.json) |
+| Assassin's Creed IV Black Flag: Time Saver - Technology Pack | 26090 | [26090-assassins-creed-iv-black-flag-time-saver-technology-pack.json](./26090-assassins-creed-iv-black-flag-time-saver-technology-pack.json) |
 | Assassin's Creed IV: Black Flag - Buccaneer Edition | 89872 | [89872-assassins-creed-iv-black-flag-buccaneer-edition.json](./89872-assassins-creed-iv-black-flag-buccaneer-edition.json) |
 | Assassin's Creed IV: Black Flag - Deluxe Edition | 118927 | [118927-assassins-creed-iv-black-flag-deluxe-edition.json](./118927-assassins-creed-iv-black-flag-deluxe-edition.json) |
 | Assassin's Creed IV: Black Flag - Gold Edition | 52431 | [52431-assassins-creed-iv-black-flag-gold-edition.json](./52431-assassins-creed-iv-black-flag-gold-edition.json) |
