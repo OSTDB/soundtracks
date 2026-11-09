@@ -929,6 +929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off the Record: The Final Interview | 98409 | [98409-off-the-record-the-final-interview.json](./98409-off-the-record-the-final-interview.json) |
 | Off the Record: The Final Interview Collector's Edition | 102186 | [102186-off-the-record-the-final-interview-collectors-edition.json](./102186-off-the-record-the-final-interview-collectors-edition.json) |
 | Off the Record: The Italian Affair | 98408 | [98408-off-the-record-the-italian-affair.json](./98408-off-the-record-the-italian-affair.json) |
+| Off the Record: The Italian Affair - Collector's Edition | 32016 | [32016-off-the-record-the-italian-affair-collectors-edition.json](./32016-off-the-record-the-italian-affair-collectors-edition.json) |
 | Off the Record: The Linden Shades | 98410 | [98410-off-the-record-the-linden-shades.json](./98410-off-the-record-the-linden-shades.json) |
 | Off the Road | 106749 | [106749-off-the-road.json](./106749-off-the-road.json) |
 | Off the Shelf! | 339649 | [339649-off-the-shelf.json](./339649-off-the-shelf.json) |
@@ -4128,6 +4129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orcus | 315444 | [315444-orcus.json](./315444-orcus.json) |
 | Orcz Evolve | 81721 | [81721-orcz-evolve.json](./81721-orcz-evolve.json) |
 | Orcz Evolve VR | 83172 | [83172-orcz-evolve-vr.json](./83172-orcz-evolve-vr.json) |
+| Orczz | 32034 | [32034-orczz.json](./32034-orczz.json) |
 | Ord. | 118314 | [118314-ord.json](./118314-ord.json) |
 | Ordeal | 149269 | [149269-ordeal.json](./149269-ordeal.json) |
 | Ordeeer! | 181347 | [181347-ordeeer.json](./181347-ordeeer.json) |
@@ -4673,6 +4675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oswald | 130892 | [130892-oswald.json](./130892-oswald.json) |
 | Oswald's Adventure | 55347 | [55347-oswalds-adventure.json](./55347-oswalds-adventure.json) |
 | Oswald's Supermarket | 299781 | [299781-oswalds-supermarket.json](./299781-oswalds-supermarket.json) |
+| Osy Osmosis | 32052 | [32052-osy-osmosis.json](./32052-osy-osmosis.json) |
 | Osyaberi! Horijyo! Gekihori: Anna Holinski Saves the Universe, Alright?! | 222425 | [222425-osyaberi-horijyo-gekihori-anna-holinski-saves-the-universe-alright.json](./222425-osyaberi-horijyo-gekihori-anna-holinski-saves-the-universe-alright.json) |
 | Osyaberi! Horijyo! Holin Slash | 147841 | [147841-osyaberi-horijyo-holin-slash.json](./147841-osyaberi-horijyo-holin-slash.json) |
 | Osyaberi! Puzzle Chigatan: Spot the Differences with Everyone | 147824 | [147824-osyaberi-puzzle-chigatan-spot-the-differences-with-everyone.json](./147824-osyaberi-puzzle-chigatan-spot-the-differences-with-everyone.json) |
