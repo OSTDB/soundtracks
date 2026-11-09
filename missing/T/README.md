@@ -11045,6 +11045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hippo G | 213088 | [213088-the-hippo-g.json](./213088-the-hippo-g.json) |
 | The History Channel: Alamo - Fight for Independence | 69651 | [69651-the-history-channel-alamo-fight-for-independence.json](./69651-the-history-channel-alamo-fight-for-independence.json) |
 | The History Channel: Battle for the Pacific | 4913 | [4913-the-history-channel-battle-for-the-pacific.json](./4913-the-history-channel-battle-for-the-pacific.json) |
+| The History Channel: Battle of Britain - World War II 1940 | 61743 | [61743-the-history-channel-battle-of-britain-world-war-ii-1940.json](./61743-the-history-channel-battle-of-britain-world-war-ii-1940.json) |
 | The History Channel: Civil War - A Nation Divided | 7009 | [7009-the-history-channel-civil-war-a-nation-divided.json](./7009-the-history-channel-civil-war-a-nation-divided.json) |
 | The History Channel: Civil War - Great Battles | 70189 | [70189-the-history-channel-civil-war-great-battles.json](./70189-the-history-channel-civil-war-great-battles.json) |
 | The History Channel: Civil War - Secret Missions | 47404 | [47404-the-history-channel-civil-war-secret-missions.json](./47404-the-history-channel-civil-war-secret-missions.json) |
@@ -16833,6 +16834,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Shinri Game | 38255 | [38255-the-shinri-game.json](./38255-the-shinri-game.json) |
 | The Shinri Game 2: Magical Trip | 58790 | [58790-the-shinri-game-2-magical-trip.json](./58790-the-shinri-game-2-magical-trip.json) |
 | The Shinri Game 3 | 38256 | [38256-the-shinri-game-3.json](./38256-the-shinri-game-3.json) |
+| The Shinri Game: Akuma no Kokoroji | 61684 | [61684-the-shinri-game-akuma-no-kokoroji.json](./61684-the-shinri-game-akuma-no-kokoroji.json) |
 | The Shiny Ones | 183547 | [183547-the-shiny-ones.json](./183547-the-shiny-ones.json) |
 | The Shiny Show | 313268 | [313268-the-shiny-show.json](./313268-the-shiny-show.json) |
 | The Ship | 221215 | [221215-the-ship.json](./221215-the-ship.json) |
@@ -17519,6 +17521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spiegul Contest | 273244 | [273244-the-spiegul-contest.json](./273244-the-spiegul-contest.json) |
 | The Spike | 137838 | [137838-the-spike.json](./137838-the-spike.json) |
 | The Spike Cross | 338659 | [338659-the-spike-cross.json](./338659-the-spike-cross.json) |
+| The Spikes Beneath | 61768 | [61768-the-spikes-beneath.json](./61768-the-spikes-beneath.json) |
 | The Spiral Egg Challenge | 257527 | [257527-the-spiral-egg-challenge.json](./257527-the-spiral-egg-challenge.json) |
 | The Spiral Labyrinth | 149330 | [149330-the-spiral-labyrinth.json](./149330-the-spiral-labyrinth.json) |
 | The Spiral Scouts | 96200 | [96200-the-spiral-scouts.json](./96200-the-spiral-scouts.json) |
@@ -26811,6 +26814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Party Kill | 119272 | [119272-total-party-kill.json](./119272-total-party-kill.json) |
 | Total Pinball 25: 3D Tables | 206745 | [206745-total-pinball-25-3d-tables.json](./206745-total-pinball-25-3d-tables.json) |
 | Total Pinball 3D | 62398 | [62398-total-pinball-3d.json](./62398-total-pinball-3d.json) |
+| Total Pro Basketball | 61739 | [61739-total-pro-basketball.json](./61739-total-pro-basketball.json) |
 | Total Pro Football | 61738 | [61738-total-pro-football.json](./61738-total-pro-football.json) |
 | Total Pro Golf 3 | 17558 | [17558-total-pro-golf-3.json](./17558-total-pro-golf-3.json) |
 | Total Recall | 12500 | [12500-total-recall.json](./12500-total-recall.json) |
@@ -31827,6 +31831,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trick the Ninjalinos | 359438 | [359438-trick-the-ninjalinos.json](./359438-trick-the-ninjalinos.json) |
 | Trick Trap | 46874 | [46874-trick-trap.json](./46874-trick-trap.json) |
 | Trick Trap 1771 | 66254 | [66254-trick-trap-1771.json](./66254-trick-trap-1771.json) |
+| Trick x Logic Season 1 | 61254 | [61254-trick-x-logic-season-1.json](./61254-trick-x-logic-season-1.json) |
+| Trick x Logic Season 2 | 61259 | [61259-trick-x-logic-season-2.json](./61259-trick-x-logic-season-2.json) |
 | Trick x Trick | 386689 | [386689-trick-x-trick.json](./386689-trick-x-trick.json) |
 | Trick-or-Treat Adventure! | 395951 | [395951-trick-or-treat-adventure.json](./395951-trick-or-treat-adventure.json) |
 | Trickalized | 409045 | [409045-trickalized.json](./409045-trickalized.json) |
