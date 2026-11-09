@@ -4266,6 +4266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Blue | 86528 | [86528-deadly-blue.json](./86528-deadly-blue.json) |
 | Deadly Broadcast | 153878 | [153878-deadly-broadcast.json](./153878-deadly-broadcast.json) |
 | Deadly Burrito | 111506 | [111506-deadly-burrito.json](./111506-deadly-burrito.json) |
+| Deadly Contact | 76810 | [76810-deadly-contact.json](./76810-deadly-contact.json) |
 | Deadly Contagion | 275130 | [275130-deadly-contagion.json](./275130-deadly-contagion.json) |
 | Deadly Cosmic | 146956 | [146956-deadly-cosmic.json](./146956-deadly-cosmic.json) |
 | Deadly Cryptids | 87966 | [87966-deadly-cryptids.json](./87966-deadly-cryptids.json) |
@@ -8347,6 +8348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry 3 Crimson | 343960 | [343960-devil-may-cry-3-crimson.json](./343960-devil-may-cry-3-crimson.json) |
 | Devil May Cry 3: Dante's Awakening - Special Edition | 218390 | [218390-devil-may-cry-3-dantes-awakening-special-edition.json](./218390-devil-may-cry-3-dantes-awakening-special-edition.json) |
 | Devil May Cry 3: Dante's Awakening - Special Edition | 222656 | [222656-devil-may-cry-3-dantes-awakening-special-edition.json](./222656-devil-may-cry-3-dantes-awakening-special-edition.json) |
+| Devil May Cry 4 Refrain | 76843 | [76843-devil-may-cry-4-refrain.json](./76843-devil-may-cry-4-refrain.json) |
 | Devil May Cry 4 Special Edition Demon Hunter Bundle | 82385 | [82385-devil-may-cry-4-special-edition-demon-hunter-bundle.json](./82385-devil-may-cry-4-special-edition-demon-hunter-bundle.json) |
 | Devil May Cry 4: Collector's Edition | 41601 | [41601-devil-may-cry-4-collectors-edition.json](./41601-devil-may-cry-4-collectors-edition.json) |
 | Devil May Cry 4: Special Edition | 20022 | [20022-devil-may-cry-4-special-edition.json](./20022-devil-may-cry-4-special-edition.json) |
@@ -9927,6 +9929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Rush Race | 238400 | [238400-dino-rush-race.json](./238400-dino-rush-race.json) |
 | Dino Safari 2 | 96771 | [96771-dino-safari-2.json](./96771-dino-safari-2.json) |
 | Dino Safari: Evolution-U | 100927 | [100927-dino-safari-evolution-u.json](./100927-dino-safari-evolution-u.json) |
+| Dino Scourge | 76830 | [76830-dino-scourge.json](./76830-dino-scourge.json) |
 | Dino Shift | 311064 | [311064-dino-shift.json](./311064-dino-shift.json) |
 | Dino Shift 2 | 406635 | [406635-dino-shift-2.json](./406635-dino-shift-2.json) |
 | Dino Skater | 175237 | [175237-dino-skater.json](./175237-dino-skater.json) |
@@ -13900,6 +13903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon no Eawase Montage | 349436 | [349436-doraemon-no-eawase-montage.json](./349436-doraemon-no-eawase-montage.json) |
 | Doraemon no Eawase Montage | 376530 | [376530-doraemon-no-eawase-montage.json](./376530-doraemon-no-eawase-montage.json) |
 | Doraemon no Game Boy de Asobou yo Deluxe 10 | 91778 | [91778-doraemon-no-game-boy-de-asobou-yo-deluxe-10.json](./91778-doraemon-no-game-boy-de-asobou-yo-deluxe-10.json) |
+| Doraemon no Quiz Boy | 76859 | [76859-doraemon-no-quiz-boy.json](./76859-doraemon-no-quiz-boy.json) |
 | Doraemon no Quiz Boy 2 | 85933 | [85933-doraemon-no-quiz-boy-2.json](./85933-doraemon-no-quiz-boy-2.json) |
 | Doraemon no Study Boy 3: Ku Ku Master | 308106 | [308106-doraemon-no-study-boy-3-ku-ku-master.json](./308106-doraemon-no-study-boy-3-ku-ku-master.json) |
 | Doraemon no Study Boy: Kuku Game | 65537 | [65537-doraemon-no-study-boy-kuku-game.json](./65537-doraemon-no-study-boy-kuku-game.json) |
@@ -14645,6 +14649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Fad | 198732 | [198732-dr-fad.json](./198732-dr-fad.json) |
 | Dr. Fetus' Mean Meat Machine | 242082 | [242082-dr-fetus-mean-meat-machine.json](./242082-dr-fetus-mean-meat-machine.json) |
 | Dr. Finklestein's Marvelous Room | 275560 | [275560-dr-finklesteins-marvelous-room.json](./275560-dr-finklesteins-marvelous-room.json) |
+| Dr. Fizzgigious Fantabulous Carbon Dating Simulacrum | 76825 | [76825-dr-fizzgigious-fantabulous-carbon-dating-simulacrum.json](./76825-dr-fizzgigious-fantabulous-carbon-dating-simulacrum.json) |
 | Dr. Frank's Build a Boyfriend | 86627 | [86627-dr-franks-build-a-boyfriend.json](./86627-dr-franks-build-a-boyfriend.json) |
 | Dr. Frank's Build-A-Boyfriend | 177900 | [177900-dr-franks-build-a-boyfriend.json](./177900-dr-franks-build-a-boyfriend.json) |
 | Dr. Franken | 369599 | [369599-dr-franken.json](./369599-dr-franken.json) |
