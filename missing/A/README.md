@@ -5547,6 +5547,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aion Classic | 214966 | [214966-aion-classic.json](./214966-aion-classic.json) |
 | Aion Collector's Edition | 405640 | [405640-aion-collectors-edition.json](./405640-aion-collectors-edition.json) |
 | Aion Tempest | 188238 | [188238-aion-tempest.json](./188238-aion-tempest.json) |
+| Aion: Ascension | 19841 | [19841-aion-ascension.json](./19841-aion-ascension.json) |
 | Aion: Assault on Balaurea | 206099 | [206099-aion-assault-on-balaurea.json](./206099-aion-assault-on-balaurea.json) |
 | Aion: Dark Betrayal | 62683 | [62683-aion-dark-betrayal.json](./62683-aion-dark-betrayal.json) |
 | Aion: Echoes of Eternity | 77274 | [77274-aion-echoes-of-eternity.json](./77274-aion-echoes-of-eternity.json) |
@@ -17413,6 +17414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -19163,6 +19165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azrael's Tear | 2210 | [2210-azraels-tear.json](./2210-azraels-tear.json) |
 | Aztaka | 16067 | [16067-aztaka.json](./16067-aztaka.json) |
 | Aztarac | 39320 | [39320-aztarac.json](./39320-aztarac.json) |
+| Aztec | 18707 | [18707-aztec.json](./18707-aztec.json) |
 | Aztec Adventure | 45668 | [45668-aztec-adventure.json](./45668-aztec-adventure.json) |
 | Aztec Adventure: The Golden Road to Paradise | 71972 | [71972-aztec-adventure-the-golden-road-to-paradise.json](./71972-aztec-adventure-the-golden-road-to-paradise.json) |
 | Aztec Assault | 58860 | [58860-aztec-assault.json](./58860-aztec-assault.json) |
