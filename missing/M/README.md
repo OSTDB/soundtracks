@@ -1332,6 +1332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Sand Escape | 315593 | [315593-magic-sand-escape.json](./315593-magic-sand-escape.json) |
 | Magic Scavenger | 347726 | [347726-magic-scavenger.json](./347726-magic-scavenger.json) |
 | Magic School Bus Discovers Flight | 73488 | [73488-magic-school-bus-discovers-flight.json](./73488-magic-school-bus-discovers-flight.json) |
+| Magic School Bus in Concert | 70489 | [70489-magic-school-bus-in-concert.json](./70489-magic-school-bus-in-concert.json) |
 | Magic School Bus Lands on Mars | 74082 | [74082-magic-school-bus-lands-on-mars.json](./74082-magic-school-bus-lands-on-mars.json) |
 | Magic School Bus Volcano Adventure | 69818 | [69818-magic-school-bus-volcano-adventure.json](./69818-magic-school-bus-volcano-adventure.json) |
 | Magic School Bus Whales and Dolphins | 71579 | [71579-magic-school-bus-whales-and-dolphins.json](./71579-magic-school-bus-whales-and-dolphins.json) |
@@ -6123,6 +6124,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -10594,6 +10596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mexe mexe tupi | 231204 | [231204-mexe-mexe-tupi.json](./231204-mexe-mexe-tupi.json) |
 | Mexiball | 208009 | [208009-mexiball.json](./208009-mexiball.json) |
 | Mexican High School Simulator | 257355 | [257355-mexican-high-school-simulator.json](./257355-mexican-high-school-simulator.json) |
+| Mexican Motor Mafia | 70496 | [70496-mexican-motor-mafia.json](./70496-mexican-motor-mafia.json) |
 | Mexican Ninja | 347240 | [347240-mexican-ninja.json](./347240-mexican-ninja.json) |
 | Mexican Smashoff | 212221 | [212221-mexican-smashoff.json](./212221-mexican-smashoff.json) |
 | Mexican Train Dominoes 2 | 106070 | [106070-mexican-train-dominoes-2.json](./106070-mexican-train-dominoes-2.json) |
@@ -21758,6 +21761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Shut-in Demon! | 399962 | [399962-my-shut-in-demon.json](./399962-my-shut-in-demon.json) |
 | My Silly Life | 158222 | [158222-my-silly-life.json](./158222-my-silly-life.json) |
 | My Silly Science Summer in the Past | 348758 | [348758-my-silly-science-summer-in-the-past.json](./348758-my-silly-science-summer-in-the-past.json) |
+| My Sim Aquarium | 70143 | [70143-my-sim-aquarium.json](./70143-my-sim-aquarium.json) |
 | My Singing Monsters Composer | 99181 | [99181-my-singing-monsters-composer.json](./99181-my-singing-monsters-composer.json) |
 | My Singing Monsters Karaoke | 412306 | [412306-my-singing-monsters-karaoke.json](./412306-my-singing-monsters-karaoke.json) |
 | My Singing Monsters Karaoke: Day One Pack | 414780 | [414780-my-singing-monsters-karaoke-day-one-pack.json](./414780-my-singing-monsters-karaoke-day-one-pack.json) |
