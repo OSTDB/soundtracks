@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky Darts | 93352 | [93352-wacky-darts.json](./93352-wacky-darts.json) |
 | Wacky Escape | 276151 | [276151-wacky-escape.json](./276151-wacky-escape.json) |
 | Wacky Farm | 205957 | [205957-wacky-farm.json](./205957-wacky-farm.json) |
+| Wacky Funsters! The Geekwad's Guide to Gaming | 73943 | [73943-wacky-funsters-the-geekwads-guide-to-gaming.json](./73943-wacky-funsters-the-geekwads-guide-to-gaming.json) |
 | Wacky Golf Land | 131835 | [131835-wacky-golf-land.json](./131835-wacky-golf-land.json) |
 | Wacky Jelly | 216063 | [216063-wacky-jelly.json](./216063-wacky-jelly.json) |
 | Wacky Jumpers | 288473 | [288473-wacky-jumpers.json](./288473-wacky-jumpers.json) |
