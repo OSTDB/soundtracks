@@ -792,6 +792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 1000 | 92013 | [92013-1000.json](./92013-1000.json) |
 | 1000 Amps | 6281 | [6281-1000-amps.json](./6281-1000-amps.json) |
 | 1000 Best Solitaire Games | 292004 | [292004-1000-best-solitaire-games.json](./292004-1000-best-solitaire-games.json) |
+| 1000 Bornes | 39090 | [39090-1000-bornes.json](./39090-1000-bornes.json) |
 | 1000 Bornes: Coups-Fourres et Courses Folles! | 268069 | [268069-1000-bornes-coups-fourres-et-courses-folles.json](./268069-1000-bornes-coups-fourres-et-courses-folles.json) |
 | 1000 Cooking Recipes from Elle à Table | 98671 | [98671-1000-cooking-recipes-from-elle-a-table.json](./98671-1000-cooking-recipes-from-elle-a-table.json) |
 | 1000 Cuts: Jomaku | 288725 | [288725-1000-cuts-jomaku.json](./288725-1000-cuts-jomaku.json) |
@@ -1650,6 +1651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2:22AM | 57240 | [57240-2-22am.json](./57240-2-22am.json) |
 | 2.5 Dimensional Seduction: Angels on Stage! | 316946 | [316946-2-5-dimensional-seduction-angels-on-stage.json](./316946-2-5-dimensional-seduction-angels-on-stage.json) |
 | 2/29 | 288841 | [288841-2-29.json](./288841-2-29.json) |
+| 20 000 Avant J.C. | 39089 | [39089-20-000-avant-j-c.json](./39089-20-000-avant-j-c.json) |
 | 20 All-Time Favorites | 91382 | [91382-20-all-time-favorites.json](./91382-20-all-time-favorites.json) |
 | 20 and Some Change | 421833 | [421833-20-and-some-change.json](./421833-20-and-some-change.json) |
 | 20 Billion Wives | 56146 | [56146-20-billion-wives.json](./56146-20-billion-wives.json) |
@@ -2630,6 +2632,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Thunder Force III | 202924 | [202924-3d-thunder-force-iii.json](./202924-3d-thunder-force-iii.json) |
 | 3D Tic Tac Toe | 366976 | [366976-3d-tic-tac-toe.json](./366976-3d-tic-tac-toe.json) |
 | 3D Tic-Tac-Toe | 421224 | [421224-3d-tic-tac-toe.json](./421224-3d-tic-tac-toe.json) |
+| 3D Time Trek | 39085 | [39085-3d-time-trek.json](./39085-3d-time-trek.json) |
 | 3D Tower | 75313 | [75313-3d-tower.json](./75313-3d-tower.json) |
 | 3D Train Studio V9 | 376272 | [376272-3d-train-studio-v9.json](./376272-3d-train-studio-v9.json) |
 | 3D Tunnel | 379615 | [379615-3d-tunnel.json](./379615-3d-tunnel.json) |
