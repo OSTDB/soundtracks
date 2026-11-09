@@ -4326,6 +4326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seal of Sins | 194693 | [194693-seal-of-sins.json](./194693-seal-of-sins.json) |
 | Seal of Solitomb | 325860 | [325860-seal-of-solitomb.json](./325860-seal-of-solitomb.json) |
 | Seal of the Pharaoh | 4288 | [4288-seal-of-the-pharaoh.json](./4288-seal-of-the-pharaoh.json) |
+| Seal Online | 57307 | [57307-seal-online.json](./57307-seal-online.json) |
 | Seal Online: Blades of Destiny | 109510 | [109510-seal-online-blades-of-destiny.json](./109510-seal-online-blades-of-destiny.json) |
 | Seal Online: Eternal Destiny | 267578 | [267578-seal-online-eternal-destiny.json](./267578-seal-online-eternal-destiny.json) |
 | Seal Save: Royal Decree | 419124 | [419124-seal-save-royal-decree.json](./419124-seal-save-royal-decree.json) |
@@ -7585,6 +7586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanubis | 223459 | [223459-shanubis.json](./223459-shanubis.json) |
 | Shanye | 153524 | [153524-shanye.json](./153524-shanye.json) |
 | Shao Lin | 137383 | [137383-shao-lin.json](./137383-shao-lin.json) |
+| Shaola | 57769 | [57769-shaola.json](./57769-shaola.json) |
 | Shaolin | 18299 | [18299-shaolin.json](./18299-shaolin.json) |
 | Shaolin Bao | 303478 | [303478-shaolin-bao.json](./303478-shaolin-bao.json) |
 | Shaolin Carcará | 270235 | [270235-shaolin-carcara.json](./270235-shaolin-carcara.json) |
@@ -26480,6 +26482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Wars | 186555 | [186555-starship-wars.json](./186555-starship-wars.json) |
 | StarShip Wars | 389422 | [389422-starship-wars.json](./389422-starship-wars.json) |
 | Starship: Invasion | 69889 | [69889-starship-invasion.json](./69889-starship-invasion.json) |
+| Starship: Nova Strike | 57767 | [57767-starship-nova-strike.json](./57767-starship-nova-strike.json) |
 | Starship: Turret Mode | 354428 | [354428-starship-turret-mode.json](./354428-starship-turret-mode.json) |
 | Starships Unlimited | 72128 | [72128-starships-unlimited.json](./72128-starships-unlimited.json) |
 | Starshot | 151181 | [151181-starshot.json](./151181-starshot.json) |
@@ -26968,6 +26971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steampunk Tower | 142333 | [142333-steampunk-tower.json](./142333-steampunk-tower.json) |
 | Steampunk Tower 2 | 95113 | [95113-steampunk-tower-2.json](./95113-steampunk-tower-2.json) |
 | Steampunk Voyage | 270467 | [270467-steampunk-voyage.json](./270467-steampunk-voyage.json) |
+| Steampunker | 57781 | [57781-steampunker.json](./57781-steampunker.json) |
 | Steamroll | 20361 | [20361-steamroll.json](./20361-steamroll.json) |
 | Steamroll: Rustless Edition | 147623 | [147623-steamroll-rustless-edition.json](./147623-steamroll-rustless-edition.json) |
 | Steamroller | 40911 | [40911-steamroller.json](./40911-steamroller.json) |
