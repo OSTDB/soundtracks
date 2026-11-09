@@ -9561,6 +9561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wurdle | 105533 | [105533-wurdle.json](./105533-wurdle.json) |
 | Wurdweb | 165047 | [165047-wurdweb.json](./165047-wurdweb.json) |
 | Wurm Unlimited | 35375 | [35375-wurm-unlimited.json](./35375-wurm-unlimited.json) |
+| Wurm: Journey to the Center of the Earth! | 48112 | [48112-wurm-journey-to-the-center-of-the-earth.json](./48112-wurm-journey-to-the-center-of-the-earth.json) |
 | Wurmus | 181389 | [181389-wurmus.json](./181389-wurmus.json) |
 | Wurps | 91583 | [91583-wurps.json](./91583-wurps.json) |
 | Wurst and Glory | 415115 | [415115-wurst-and-glory.json](./415115-wurst-and-glory.json) |
