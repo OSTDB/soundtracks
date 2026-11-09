@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Girl: Cyber Punk Adventure | 52331 | [52331-x-girl-cyber-punk-adventure.json](./52331-x-girl-cyber-punk-adventure.json) |
 | X-Gravity | 374265 | [374265-x-gravity.json](./374265-x-gravity.json) |
 | X-It | 38833 | [38833-x-it.json](./38833-x-it.json) |
+| X-Kaliber 2097 | 38406 | [38406-x-kaliber-2097.json](./38406-x-kaliber-2097.json) |
 | X-Man | 79301 | [79301-x-man.json](./79301-x-man.json) |
 | X-Mas Bubble Mania | 385066 | [385066-x-mas-bubble-mania.json](./385066-x-mas-bubble-mania.json) |
 | X-Mas Eve | 224572 | [224572-x-mas-eve.json](./224572-x-mas-eve.json) |
@@ -493,6 +494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xanthius | 54665 | [54665-xanthius.json](./54665-xanthius.json) |
 | Xanxillium | 110232 | [110232-xanxillium.json](./110232-xanxillium.json) |
 | Xaphan: Battle Simulator | 265120 | [265120-xaphan-battle-simulator.json](./265120-xaphan-battle-simulator.json) |
+| Xardion | 38407 | [38407-xardion.json](./38407-xardion.json) |
 | Xargon | 70129 | [70129-xargon.json](./70129-xargon.json) |
 | Xargon Remake Ep.1 | 372213 | [372213-xargon-remake-ep-1.json](./372213-xargon-remake-ep-1.json) |
 | Xargon Remake Ep.3 | 253436 | [253436-xargon-remake-ep-3.json](./253436-xargon-remake-ep-3.json) |
