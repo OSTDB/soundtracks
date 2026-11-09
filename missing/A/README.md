@@ -4620,6 +4620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aftermath 1945 | 112083 | [112083-aftermath-1945.json](./112083-aftermath-1945.json) |
 | Aftermath Y2K | 41900 | [41900-aftermath-y2k.json](./41900-aftermath-y2k.json) |
 | Aftermath Z: Red Pine Lake | 380638 | [380638-aftermath-z-red-pine-lake.json](./380638-aftermath-z-red-pine-lake.json) |
+| Aftermoon | 63880 | [63880-aftermoon.json](./63880-aftermoon.json) |
 | Aftermoor | 121650 | [121650-aftermoor.json](./121650-aftermoor.json) |
 | AfterMove | 412481 | [412481-aftermove.json](./412481-aftermove.json) |
 | Afternoon | 264395 | [264395-afternoon.json](./264395-afternoon.json) |
@@ -5553,6 +5554,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Combat Pilot: WW2 Pacific | 102581 | [102581-air-combat-pilot-ww2-pacific.json](./102581-air-combat-pilot-ww2-pacific.json) |
 | Air Combat Revolution | 61062 | [61062-air-combat-revolution.json](./61062-air-combat-revolution.json) |
 | Air Combat XF | 113151 | [113151-air-combat-xf.json](./113151-air-combat-xf.json) |
+| Air Combat: Above & Beyond | 63980 | [63980-air-combat-above-and-beyond.json](./63980-air-combat-above-and-beyond.json) |
 | Air Command | 245145 | [245145-air-command.json](./245145-air-command.json) |
 | Air Command 3.0 | 59491 | [59491-air-command-3-0.json](./59491-air-command-3-0.json) |
 | Air Command 3.0: Airport Expansion Set | 144186 | [144186-air-command-3-0-airport-expansion-set.json](./144186-air-command-3-0-airport-expansion-set.json) |
@@ -5917,8 +5919,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Airport Madness Mobile | 106864 | [106864-airport-madness-mobile.json](./106864-airport-madness-mobile.json) |
 | Airport Madness: World Edition | 35258 | [35258-airport-madness-world-edition.json](./35258-airport-madness-world-edition.json) |
 | Airport Manager | 379522 | [379522-airport-manager.json](./379522-airport-manager.json) |
+| Airport Mania 2: Wild Trips | 63984 | [63984-airport-mania-2-wild-trips.json](./63984-airport-mania-2-wild-trips.json) |
 | Airport Mania: First Flight | 6476 | [6476-airport-mania-first-flight.json](./6476-airport-mania-first-flight.json) |
 | Airport Mania: First Flight HD | 175282 | [175282-airport-mania-first-flight-hd.json](./175282-airport-mania-first-flight-hd.json) |
+| Airport Mania: Non-Stop Flights | 63985 | [63985-airport-mania-non-stop-flights.json](./63985-airport-mania-non-stop-flights.json) |
 | Airport Master | 208904 | [208904-airport-master.json](./208904-airport-master.json) |
 | Airport Master | 29649 | [29649-airport-master.json](./29649-airport-master.json) |
 | Airport Police Contraband Simulator: Border Patrol | 324982 | [324982-airport-police-contraband-simulator-border-patrol.json](./324982-airport-police-contraband-simulator-border-patrol.json) |
@@ -12158,6 +12162,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appalachia | 405816 | [405816-appalachia.json](./405816-appalachia.json) |
 | Appalachian Onslaught | 399090 | [399090-appalachian-onslaught.json](./399090-appalachian-onslaught.json) |
 | Apparatus | 204796 | [204796-apparatus.json](./204796-apparatus.json) |
+| Apparatus | 63976 | [63976-apparatus.json](./63976-apparatus.json) |
 | Apparatus: Exanimus | 361328 | [361328-apparatus-exanimus.json](./361328-apparatus-exanimus.json) |
 | Appare-den: Fukuryuu no Shou | 243782 | [243782-appare-den-fukuryuu-no-shou.json](./243782-appare-den-fukuryuu-no-shou.json) |
 | Appare! Shogi Jiisan | 269650 | [269650-appare-shogi-jiisan.json](./269650-appare-shogi-jiisan.json) |
