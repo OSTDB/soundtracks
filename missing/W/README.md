@@ -7037,6 +7037,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wizardry V: Heart of the Maelstrom | 10495 | [10495-wizardry-v-heart-of-the-maelstrom.json](./10495-wizardry-v-heart-of-the-maelstrom.json) |
 | Wizardry Variants: Daphne | 150013 | [150013-wizardry-variants-daphne.json](./150013-wizardry-variants-daphne.json) |
 | Wizardry VI & VII Complete | 125574 | [125574-wizardry-vi-and-vii-complete.json](./125574-wizardry-vi-and-vii-complete.json) |
+| Wizardry Xth: Mugen no Gakuto - Unlimited Students | 14698 | [14698-wizardry-xth-mugen-no-gakuto-unlimited-students.json](./14698-wizardry-xth-mugen-no-gakuto-unlimited-students.json) |
+| Wizardry Xth: Zensen no Gakufu - Academy of Frontier | 14695 | [14695-wizardry-xth-zensen-no-gakufu-academy-of-frontier.json](./14695-wizardry-xth-zensen-no-gakufu-academy-of-frontier.json) |
 | Wizardry: Bane of the Cosmic Forge | 10496 | [10496-wizardry-bane-of-the-cosmic-forge.json](./10496-wizardry-bane-of-the-cosmic-forge.json) |
 | Wizardry: Boukyaku no Isan | 245027 | [245027-wizardry-boukyaku-no-isan.json](./245027-wizardry-boukyaku-no-isan.json) |
 | Wizardry: Crusaders of the Dark Savant | 10497 | [10497-wizardry-crusaders-of-the-dark-savant.json](./10497-wizardry-crusaders-of-the-dark-savant.json) |
