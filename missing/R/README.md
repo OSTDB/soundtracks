@@ -1147,6 +1147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rail Racers | 9252 | [9252-rail-racers.json](./9252-rail-racers.json) |
 | Rail Racing | 174215 | [174215-rail-racing.json](./174215-rail-racing.json) |
 | Rail Rampage | 289128 | [289128-rail-rampage.json](./289128-rail-rampage.json) |
+| Rail Recon | 76815 | [76815-rail-recon.json](./76815-rail-recon.json) |
 | Rail Rescue | 380831 | [380831-rail-rescue.json](./380831-rail-rescue.json) |
 | Rail Rescue: Puzzle Lines - Challenge Track | 393899 | [393899-rail-rescue-puzzle-lines-challenge-track.json](./393899-rail-rescue-puzzle-lines-challenge-track.json) |
 | Rail Rescue: Puzzle Lines - Quest Track | 393900 | [393900-rail-rescue-puzzle-lines-quest-track.json](./393900-rail-rescue-puzzle-lines-quest-track.json) |
@@ -3068,6 +3069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Rage | 207716 | [207716-real-rage.json](./207716-real-rage.json) |
 | Real Rally | 240493 | [240493-real-rally.json](./240493-real-rally.json) |
 | Real Rash Flying Copter | 100328 | [100328-real-rash-flying-copter.json](./100328-real-rash-flying-copter.json) |
+| Real RC Flight Simulator | 76807 | [76807-real-rc-flight-simulator.json](./76807-real-rc-flight-simulator.json) |
 | Real Riders | 250407 | [250407-real-riders.json](./250407-real-riders.json) |
 | Real Robot Battle Line | 92121 | [92121-real-robot-battle-line.json](./92121-real-robot-battle-line.json) |
 | Real Robot Regiment | 59332 | [59332-real-robot-regiment.json](./59332-real-robot-regiment.json) |
@@ -8805,6 +8807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roads of Rome | 34266 | [34266-roads-of-rome.json](./34266-roads-of-rome.json) |
 | Roads of Rome 2 | 34258 | [34258-roads-of-rome-2.json](./34258-roads-of-rome-2.json) |
 | Roads of Rome 3 | 34264 | [34264-roads-of-rome-3.json](./34264-roads-of-rome-3.json) |
+| Roads of Rome: New Generation | 76857 | [76857-roads-of-rome-new-generation.json](./76857-roads-of-rome-new-generation.json) |
 | Roads of Rome: New Generation 2 | 111194 | [111194-roads-of-rome-new-generation-2.json](./111194-roads-of-rome-new-generation-2.json) |
 | Roads of Rome: New Generation 3 - Collector's Edition | 170194 | [170194-roads-of-rome-new-generation-3-collectors-edition.json](./170194-roads-of-rome-new-generation-3-collectors-edition.json) |
 | Roads of Rome: Portals - Collector's Edition | 186687 | [186687-roads-of-rome-portals-collectors-edition.json](./186687-roads-of-rome-portals-collectors-edition.json) |
