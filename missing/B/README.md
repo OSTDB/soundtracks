@@ -2781,6 +2781,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bark Beat | 177443 | [177443-bark-beat.json](./177443-bark-beat.json) |
 | Bark Tank | 338194 | [338194-bark-tank.json](./338194-bark-tank.json) |
 | Barkane: The Folds of Calamity | 323718 | [323718-barkane-the-folds-of-calamity.json](./323718-barkane-the-folds-of-calamity.json) |
+| Barkanoid | 16590 | [16590-barkanoid.json](./16590-barkanoid.json) |
+| Barkanoid 2 | 16592 | [16592-barkanoid-2.json](./16592-barkanoid-2.json) |
+| Barkanoid 3 | 16593 | [16593-barkanoid-3.json](./16593-barkanoid-3.json) |
 | Barkanoid 3 Gold | 69599 | [69599-barkanoid-3-gold.json](./69599-barkanoid-3-gold.json) |
 | Barkelona | 251847 | [251847-barkelona.json](./251847-barkelona.json) |
 | Barker Bill's Trick Shooting | 9875 | [9875-barker-bills-trick-shooting.json](./9875-barker-bills-trick-shooting.json) |
@@ -8201,6 +8204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billionaire Life Simulator | 411583 | [411583-billionaire-life-simulator.json](./411583-billionaire-life-simulator.json) |
 | Billionaire Lovers | 154155 | [154155-billionaire-lovers.json](./154155-billionaire-lovers.json) |
 | Billionaire Simulator | 403074 | [403074-billionaire-simulator.json](./403074-billionaire-simulator.json) |
+| Billions | 16601 | [16601-billions.json](./16601-billions.json) |
 | Billionworlds : Kingdoms | 153437 | [153437-billionworlds-kingdoms.json](./153437-billionworlds-kingdoms.json) |
 | Billo-Bricks | 291509 | [291509-billo-bricks.json](./291509-billo-bricks.json) |
 | Bills Must Be Paid | 397984 | [397984-bills-must-be-paid.json](./397984-bills-must-be-paid.json) |
