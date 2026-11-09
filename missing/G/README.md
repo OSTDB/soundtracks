@@ -795,6 +795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galakzions | 14087 | [14087-galakzions.json](./14087-galakzions.json) |
 | Galandrix | 298220 | [298220-galandrix.json](./298220-galandrix.json) |
 | GalanWarSong | 345966 | [345966-galanwarsong.json](./345966-galanwarsong.json) |
+| Galapagos: Mendel's Escape | 68993 | [68993-galapagos-mendels-escape.json](./68993-galapagos-mendels-escape.json) |
 | Galatea | 365132 | [365132-galatea.json](./365132-galatea.json) |
 | Galatea | 85923 | [85923-galatea.json](./85923-galatea.json) |
 | Galatic Hero Agency: Mind Matters | 114741 | [114741-galatic-hero-agency-mind-matters.json](./114741-galatic-hero-agency-mind-matters.json) |
@@ -4183,6 +4184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghosts 'n Goblins | 6807 | [6807-ghosts-n-goblins.json](./6807-ghosts-n-goblins.json) |
 | Ghosts 'n Goblins 64 | 297480 | [297480-ghosts-n-goblins-64.json](./297480-ghosts-n-goblins-64.json) |
 | Ghosts 'n Goblins Mobile | 104370 | [104370-ghosts-n-goblins-mobile.json](./104370-ghosts-n-goblins-mobile.json) |
+| Ghosts 'n Goblins: Gold Knights | 69412 | [69412-ghosts-n-goblins-gold-knights.json](./69412-ghosts-n-goblins-gold-knights.json) |
 | Ghosts 'N Goblins: Gold Knights II | 63647 | [63647-ghosts-n-goblins-gold-knights-ii.json](./63647-ghosts-n-goblins-gold-knights-ii.json) |
 | Ghosts 4 Everybody | 132421 | [132421-ghosts-4-everybody.json](./132421-ghosts-4-everybody.json) |
 | Ghosts and Apples | 180963 | [180963-ghosts-and-apples.json](./180963-ghosts-and-apples.json) |
@@ -7193,6 +7195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Good Job! | 261259 | [261259-good-job.json](./261259-good-job.json) |
 | Good Kill! | 304708 | [304708-good-kill.json](./304708-good-kill.json) |
 | Good Knight | 140784 | [140784-good-knight.json](./140784-good-knight.json) |
+| Good Knight | 69394 | [69394-good-knight.json](./69394-good-knight.json) |
 | Good Knight Story | 104386 | [104386-good-knight-story.json](./104386-good-knight-story.json) |
 | Good Knight's Sleep | 369021 | [369021-good-knights-sleep.json](./369021-good-knights-sleep.json) |
 | Good Lord! Everyone at the Reunion For My Religious All-Girls School Is a Trans Man... And They're Hot?! | 307341 | [307341-good-lord-everyone-at-the-reunion-for-my-religious-all-girls-school-is-a-trans-man-and-theyre-hot.json](./307341-good-lord-everyone-at-the-reunion-for-my-religious-all-girls-school-is-a-trans-man-and-theyre-hot.json) |
