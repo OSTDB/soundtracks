@@ -4297,6 +4297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night Bound | 313828 | [313828-night-bound.json](./313828-night-bound.json) |
 | Night Bus | 294257 | [294257-night-bus.json](./294257-night-bus.json) |
 | Night Cafe | 281422 | [281422-night-cafe.json](./281422-night-cafe.json) |
+| Night Café | 73415 | [73415-night-cafe.json](./73415-night-cafe.json) |
 | Night Call: Deluxe Edition | 124794 | [124794-night-call-deluxe-edition.json](./124794-night-call-deluxe-edition.json) |
 | Night Call: Home | 413159 | [413159-night-call-home.json](./413159-night-call-home.json) |
 | Night Cart: The Immortal Plague | 413880 | [413880-night-cart-the-immortal-plague.json](./413880-night-cart-the-immortal-plague.json) |
@@ -6014,6 +6015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | No One But You | 19243 | [19243-no-one-but-you.json](./19243-no-one-but-you.json) |
 | No One Can Ever Know | 144882 | [144882-no-one-can-ever-know.json](./144882-no-one-can-ever-know.json) |
 | No One Can Stop Mr. Domino! | 4107 | [4107-no-one-can-stop-mr-domino.json](./4107-no-one-can-stop-mr-domino.json) |
+| No One Can Stop the Farm Pioneer | 73395 | [73395-no-one-can-stop-the-farm-pioneer.json](./73395-no-one-can-stop-the-farm-pioneer.json) |
 | No One is Here | 134198 | [134198-no-one-is-here.json](./134198-no-one-is-here.json) |
 | No One Is Watching You | 287463 | [287463-no-one-is-watching-you.json](./287463-no-one-is-watching-you.json) |
 | No One Lives | 174675 | [174675-no-one-lives.json](./174675-no-one-lives.json) |
