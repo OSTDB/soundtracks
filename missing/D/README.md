@@ -149,6 +149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D+Vine[Luv] | 283301 | [283301-d-vine-luv.json](./283301-d-vine-luv.json) |
 | D+Vine[Luv] | 283302 | [283302-d-vine-luv.json](./283302-d-vine-luv.json) |
 | D1 Grand Prix | 20551 | [20551-d1-grand-prix.json](./20551-d1-grand-prix.json) |
+| D1 Professional Drift Grand Prix Series | 43391 | [43391-d1-professional-drift-grand-prix-series.json](./43391-d1-professional-drift-grand-prix-series.json) |
 | D1896 | 126365 | [126365-d1896.json](./126365-d1896.json) |
 | D1AL-ogue+ | 394403 | [394403-d1al-ogue.json](./394403-d1al-ogue.json) |
 | D2 | 36736 | [36736-d2.json](./36736-d2.json) |
@@ -8429,6 +8430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry | 338320 | [338320-devil-may-cry.json](./338320-devil-may-cry.json) |
 | Devil May Cry 2 | 135 | [135-devil-may-cry-2.json](./135-devil-may-cry-2.json) |
 | Devil May Cry 2 | 222655 | [222655-devil-may-cry-2.json](./222655-devil-may-cry-2.json) |
+| Devil May Cry 2: Limited Edition | 43409 | [43409-devil-may-cry-2-limited-edition.json](./43409-devil-may-cry-2-limited-edition.json) |
 | Devil May Cry 3 Crimson | 343960 | [343960-devil-may-cry-3-crimson.json](./343960-devil-may-cry-3-crimson.json) |
 | Devil May Cry 3: Dante's Awakening - Special Edition | 218390 | [218390-devil-may-cry-3-dantes-awakening-special-edition.json](./218390-devil-may-cry-3-dantes-awakening-special-edition.json) |
 | Devil May Cry 3: Dante's Awakening - Special Edition | 222656 | [222656-devil-may-cry-3-dantes-awakening-special-edition.json](./222656-devil-may-cry-3-dantes-awakening-special-edition.json) |
@@ -13830,6 +13832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doomsday Paradise | 189318 | [189318-doomsday-paradise.json](./189318-doomsday-paradise.json) |
 | Doomsday Picnic RPG | 288652 | [288652-doomsday-picnic-rpg.json](./288652-doomsday-picnic-rpg.json) |
 | Doomsday Preppers | 344291 | [344291-doomsday-preppers.json](./344291-doomsday-preppers.json) |
+| Doomsday Racers | 43393 | [43393-doomsday-racers.json](./43393-doomsday-racers.json) |
 | Doomsday Robot Girl | 189974 | [189974-doomsday-robot-girl.json](./189974-doomsday-robot-girl.json) |
 | Doomsday Room | 142628 | [142628-doomsday-room.json](./142628-doomsday-room.json) |
 | Doomsday Scavenger | 195942 | [195942-doomsday-scavenger.json](./195942-doomsday-scavenger.json) |
