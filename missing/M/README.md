@@ -11586,6 +11586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Bowling 3 | 239474 | [239474-midnight-bowling-3.json](./239474-midnight-bowling-3.json) |
 | Midnight Building | 93172 | [93172-midnight-building.json](./93172-midnight-building.json) |
 | Midnight Calling: Anabel | 91139 | [91139-midnight-calling-anabel.json](./91139-midnight-calling-anabel.json) |
+| Midnight Calling: Anabel - Collector's Edition | 29020 | [29020-midnight-calling-anabel-collectors-edition.json](./29020-midnight-calling-anabel-collectors-edition.json) |
 | Midnight Calling: Jeronimo | 102792 | [102792-midnight-calling-jeronimo.json](./102792-midnight-calling-jeronimo.json) |
 | Midnight Calling: Jeronimo - Collector's Edition | 170199 | [170199-midnight-calling-jeronimo-collectors-edition.json](./170199-midnight-calling-jeronimo-collectors-edition.json) |
 | Midnight Calling: Valeria - Collector's Edition | 166059 | [166059-midnight-calling-valeria-collectors-edition.json](./166059-midnight-calling-valeria-collectors-edition.json) |
