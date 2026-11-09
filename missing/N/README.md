@@ -3875,6 +3875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Pro Era | 198225 | [198225-nfl-pro-era.json](./198225-nfl-pro-era.json) |
 | NFL Pro Era II | 266797 | [266797-nfl-pro-era-ii.json](./266797-nfl-pro-era-ii.json) |
 | NFL Pro League Football | 80204 | [80204-nfl-pro-league-football.json](./80204-nfl-pro-league-football.json) |
+| NFL QB Club 2001 | 3560 | [3560-nfl-qb-club-2001.json](./3560-nfl-qb-club-2001.json) |
 | NFL QB Club 2002 | 4040 | [4040-nfl-qb-club-2002.json](./4040-nfl-qb-club-2002.json) |
 | NFL Quarterback 13 | 62169 | [62169-nfl-quarterback-13.json](./62169-nfl-quarterback-13.json) |
 | NFL Quarterback 15 | 74417 | [74417-nfl-quarterback-15.json](./74417-nfl-quarterback-15.json) |
@@ -4002,8 +4003,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NHL All-Star Hockey '95 | 19559 | [19559-nhl-all-star-hockey-95.json](./19559-nhl-all-star-hockey-95.json) |
 | NHL All-Star Hockey '98 | 45121 | [45121-nhl-all-star-hockey-98.json](./45121-nhl-all-star-hockey-98.json) |
 | NHL Blades of Steel | 45125 | [45125-nhl-blades-of-steel.json](./45125-nhl-blades-of-steel.json) |
+| NHL Blades of Steel '99 | 3562 | [3562-nhl-blades-of-steel-99.json](./3562-nhl-blades-of-steel-99.json) |
 | NHL Blades of Steel 2000 | 45124 | [45124-nhl-blades-of-steel-2000.json](./45124-nhl-blades-of-steel-2000.json) |
 | NHL Breakaway 98 | 3563 | [3563-nhl-breakaway-98.json](./3563-nhl-breakaway-98.json) |
+| NHL Breakaway 99 | 3564 | [3564-nhl-breakaway-99.json](./3564-nhl-breakaway-99.json) |
 | NHL Championship 2000 | 24116 | [24116-nhl-championship-2000.json](./24116-nhl-championship-2000.json) |
 | NHL Eastside Hockey Manager | 74037 | [74037-nhl-eastside-hockey-manager.json](./74037-nhl-eastside-hockey-manager.json) |
 | NHL Eastside Hockey Manager 2005 | 80334 | [80334-nhl-eastside-hockey-manager-2005.json](./80334-nhl-eastside-hockey-manager-2005.json) |
@@ -6597,6 +6600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noir Storm | 216984 | [216984-noir-storm.json](./216984-noir-storm.json) |
 | Noir Syndrome | 17380 | [17380-noir-syndrome.json](./17380-noir-syndrome.json) |
 | Noir Total: Deadly Party | 343270 | [343270-noir-total-deadly-party.json](./343270-noir-total-deadly-party.json) |
+| Noir: A Shadowy Thriller | 3228 | [3228-noir-a-shadowy-thriller.json](./3228-noir-a-shadowy-thriller.json) |
 | Noir: Dead On Arrival | 327892 | [327892-noir-dead-on-arrival.json](./327892-noir-dead-on-arrival.json) |
 | Noiramore Academy | 317543 | [317543-noiramore-academy.json](./317543-noiramore-academy.json) |
 | Noircotics | 312185 | [312185-noircotics.json](./312185-noircotics.json) |
@@ -7991,6 +7995,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nusantara: Bermuda | 361034 | [361034-nusantara-bermuda.json](./361034-nusantara-bermuda.json) |
 | Nusantara: Bermuda Triangle | 177329 | [177329-nusantara-bermuda-triangle.json](./177329-nusantara-bermuda-triangle.json) |
 | Nusantara: Legend of The Winged Ones | 112744 | [112744-nusantara-legend-of-the-winged-ones.json](./112744-nusantara-legend-of-the-winged-ones.json) |
+| Nushi Tsuri 64 | 3565 | [3565-nushi-tsuri-64.json](./3565-nushi-tsuri-64.json) |
+| Nushi Tsuri 64: Shiokaze ni Notte | 3566 | [3566-nushi-tsuri-64-shiokaze-ni-notte.json](./3566-nushi-tsuri-64-shiokaze-ni-notte.json) |
 | Nushi Tsuri Adventure: Kite no Bouken | 50560 | [50560-nushi-tsuri-adventure-kite-no-bouken.json](./50560-nushi-tsuri-adventure-kite-no-bouken.json) |
 | Nusnur | 330248 | [330248-nusnur.json](./330248-nusnur.json) |
 | Nusrat | 19495 | [19495-nusrat.json](./19495-nusrat.json) |
