@@ -4458,6 +4458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's Waldo & Friends | 60242 | [60242-wheres-waldo-and-friends.json](./60242-wheres-waldo-and-friends.json) |
 | Where's Waldo at the Circus | 205123 | [205123-wheres-waldo-at-the-circus.json](./205123-wheres-waldo-at-the-circus.json) |
 | Where's Waldo in Hollywood | 205124 | [205124-wheres-waldo-in-hollywood.json](./205124-wheres-waldo-in-hollywood.json) |
+| Where's Waldo Now? | 63994 | [63994-wheres-waldo-now.json](./63994-wheres-waldo-now.json) |
 | Where's Waldo? | 10618 | [10618-wheres-waldo.json](./10618-wheres-waldo.json) |
 | Where's Waldo? Exploring Geography | 201790 | [201790-wheres-waldo-exploring-geography.json](./201790-wheres-waldo-exploring-geography.json) |
 | Where's Waldo? for the Windows Phone | 131539 | [131539-wheres-waldo-for-the-windows-phone.json](./131539-wheres-waldo-for-the-windows-phone.json) |
@@ -7575,6 +7576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woody Pop | 69917 | [69917-woody-pop.json](./69917-woody-pop.json) |
 | Woody Puzzle | 96825 | [96825-woody-puzzle.json](./96825-woody-puzzle.json) |
 | Woody Two-Legs: Attack of the Zombie Pirates | 2073 | [2073-woody-two-legs-attack-of-the-zombie-pirates.json](./2073-woody-two-legs-attack-of-the-zombie-pirates.json) |
+| Woody Woodpecker | 63986 | [63986-woody-woodpecker.json](./63986-woody-woodpecker.json) |
 | Woody Woodpecker and Friends Volume 2 | 268527 | [268527-woody-woodpecker-and-friends-volume-2.json](./268527-woody-woodpecker-and-friends-volume-2.json) |
 | Woody Woodpecker in Crazy Castle 5 | 8012 | [8012-woody-woodpecker-in-crazy-castle-5.json](./8012-woody-woodpecker-in-crazy-castle-5.json) |
 | Woody Woodpecker in Waterfools | 135894 | [135894-woody-woodpecker-in-waterfools.json](./135894-woody-woodpecker-in-waterfools.json) |
