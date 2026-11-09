@@ -2559,6 +2559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Accel World vs. Sword Art Online: Deluxe Edition | 65842 | [65842-accel-world-vs-sword-art-online-deluxe-edition.json](./65842-accel-world-vs-sword-art-online-deluxe-edition.json) |
 | Accel World vs. Sword Art Online: Millennium Twilight | 36796 | [36796-accel-world-vs-sword-art-online-millennium-twilight.json](./36796-accel-world-vs-sword-art-online-millennium-twilight.json) |
 | Accel World vs. Sword Art Online: Millennium Twilight - Dengeki Limited Edition | 343202 | [343202-accel-world-vs-sword-art-online-millennium-twilight-dengeki-limited-edition.json](./343202-accel-world-vs-sword-art-online-millennium-twilight-dengeki-limited-edition.json) |
+| Accel World: Awakening of the Silver Wings | 44598 | [44598-accel-world-awakening-of-the-silver-wings.json](./44598-accel-world-awakening-of-the-silver-wings.json) |
 | Accel World: End of Burst | 76242 | [76242-accel-world-end-of-burst.json](./76242-accel-world-end-of-burst.json) |
 | Accel World: The Peak of Acceleration | 64495 | [64495-accel-world-the-peak-of-acceleration.json](./64495-accel-world-the-peak-of-acceleration.json) |
 | Accel-X | 128348 | [128348-accel-x.json](./128348-accel-x.json) |
@@ -4496,6 +4497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Hours | 113144 | [113144-after-hours.json](./113144-after-hours.json) |
 | After Hours | 117511 | [117511-after-hours.json](./117511-after-hours.json) |
 | After Hours | 307401 | [307401-after-hours.json](./307401-after-hours.json) |
+| After Hours Athletes | 44603 | [44603-after-hours-athletes.json](./44603-after-hours-athletes.json) |
 | After Hue | 401467 | [401467-after-hue.json](./401467-after-hue.json) |
 | After I Met That Catgirl, My Questlist Got Too Long! | 117631 | [117631-after-i-met-that-catgirl-my-questlist-got-too-long.json](./117631-after-i-met-that-catgirl-my-questlist-got-too-long.json) |
 | After Inc: Revival | 344549 | [344549-after-inc-revival.json](./344549-after-inc-revival.json) |
@@ -14736,6 +14738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army Clash | 295989 | [295989-army-clash.json](./295989-army-clash.json) |
 | Army Commander | 219961 | [219961-army-commander.json](./219961-army-commander.json) |
 | Army Corps of Hell | 8643 | [8643-army-corps-of-hell.json](./8643-army-corps-of-hell.json) |
+| Army Craft | 44256 | [44256-army-craft.json](./44256-army-craft.json) |
 | Army Days | 13796 | [13796-army-days.json](./13796-army-days.json) |
 | Army Defence | 256519 | [256519-army-defence.json](./256519-army-defence.json) |
 | Army Defender | 66994 | [66994-army-defender.json](./66994-army-defender.json) |
@@ -15892,6 +15895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed IV: Black Flag - Deluxe Edition | 118927 | [118927-assassins-creed-iv-black-flag-deluxe-edition.json](./118927-assassins-creed-iv-black-flag-deluxe-edition.json) |
 | Assassin's Creed IV: Black Flag - Gold Edition | 52431 | [52431-assassins-creed-iv-black-flag-gold-edition.json](./52431-assassins-creed-iv-black-flag-gold-edition.json) |
 | Assassin's Creed IV: Black Flag - Jackdaw Edition | 100553 | [100553-assassins-creed-iv-black-flag-jackdaw-edition.json](./100553-assassins-creed-iv-black-flag-jackdaw-edition.json) |
+| Assassin's Creed IV: Black Flag - Skull Edition | 44665 | [44665-assassins-creed-iv-black-flag-skull-edition.json](./44665-assassins-creed-iv-black-flag-skull-edition.json) |
 | Assassin's Creed Jade | 216319 | [216319-assassins-creed-jade.json](./216319-assassins-creed-jade.json) |
 | Assassin's Creed Legendary Collection | 164778 | [164778-assassins-creed-legendary-collection.json](./164778-assassins-creed-legendary-collection.json) |
 | Assassin's Creed Mirage & Assassin's Creed Valhalla Bundle | 271474 | [271474-assassins-creed-mirage-and-assassins-creed-valhalla-bundle.json](./271474-assassins-creed-mirage-and-assassins-creed-valhalla-bundle.json) |
