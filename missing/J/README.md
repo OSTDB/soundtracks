@@ -154,6 +154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Big Chin: Alien Invasion | 212130 | [212130-jack-big-chin-alien-invasion.json](./212130-jack-big-chin-alien-invasion.json) |
 | Jack Blacksmith | 231942 | [231942-jack-blacksmith.json](./231942-jack-blacksmith.json) |
 | Jack Bonecroft 4 | 402726 | [402726-jack-bonecroft-4.json](./402726-jack-bonecroft-4.json) |
+| Jack Charlton's Match Fishing | 73378 | [73378-jack-charltons-match-fishing.json](./73378-jack-charltons-match-fishing.json) |
 | Jack Claw | 63244 | [63244-jack-claw.json](./63244-jack-claw.json) |
 | Jack Dragon | 264183 | [264183-jack-dragon.json](./264183-jack-dragon.json) |
 | Jack Dragon and the Stone of Peace | 284738 | [284738-jack-dragon-and-the-stone-of-peace.json](./284738-jack-dragon-and-the-stone-of-peace.json) |
@@ -1345,6 +1346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetbros | 44517 | [44517-jetbros.json](./44517-jetbros.json) |
 | Jetfighter | 70756 | [70756-jetfighter.json](./70756-jetfighter.json) |
 | JetFighter 2015 | 71275 | [71275-jetfighter-2015.json](./71275-jetfighter-2015.json) |
+| Jetfighter II | 73391 | [73391-jetfighter-ii.json](./73391-jetfighter-ii.json) |
 | JetFighter II: Advanced Mission Disk | 84260 | [84260-jetfighter-ii-advanced-mission-disk.json](./84260-jetfighter-ii-advanced-mission-disk.json) |
 | JetFighter II: Advanced Tactical Fighter | 50489 | [50489-jetfighter-ii-advanced-tactical-fighter.json](./50489-jetfighter-ii-advanced-tactical-fighter.json) |
 | JetFighter III Classic | 78053 | [78053-jetfighter-iii-classic.json](./78053-jetfighter-iii-classic.json) |
@@ -3861,6 +3863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Junsei Yasaotoko Sweet & Bitter | 242073 | [242073-junsei-yasaotoko-sweet-and-bitter.json](./242073-junsei-yasaotoko-sweet-and-bitter.json) |
 | Junte 4 | 230656 | [230656-junte-4.json](./230656-junte-4.json) |
 | Junte 4 | 359758 | [359758-junte-4.json](./359758-junte-4.json) |
+| Junyong Shenqing | 73406 | [73406-junyong-shenqing.json](./73406-junyong-shenqing.json) |
 | Jupiter | 313468 | [313468-jupiter.json](./313468-jupiter.json) |
 | Jupiter | 370136 | [370136-jupiter.json](./370136-jupiter.json) |
 | Jupiter & Mars | 76962 | [76962-jupiter-and-mars.json](./76962-jupiter-and-mars.json) |
