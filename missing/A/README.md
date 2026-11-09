@@ -4401,6 +4401,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AFL Finals Fever | 72156 | [72156-afl-finals-fever.json](./72156-afl-finals-fever.json) |
 | AFL Live | 5477 | [5477-afl-live.json](./5477-afl-live.json) |
 | AFL Live 2 | 6907 | [6907-afl-live-2.json](./6907-afl-live-2.json) |
+| AFL Live 2003 | 47307 | [47307-afl-live-2003.json](./47307-afl-live-2003.json) |
+| AFL Live 2004 | 47306 | [47306-afl-live-2004.json](./47306-afl-live-2004.json) |
 | AFL Live: Premiership Edition | 267518 | [267518-afl-live-premiership-edition.json](./267518-afl-live-premiership-edition.json) |
 | AFL Mascot Manor | 91707 | [91707-afl-mascot-manor.json](./91707-afl-mascot-manor.json) |
 | AFL Premiership 2005 | 73847 | [73847-afl-premiership-2005.json](./73847-afl-premiership-2005.json) |
@@ -14933,6 +14935,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArsDoom | 180260 | [180260-arsdoom.json](./180260-arsdoom.json) |
 | Arsenal | 188635 | [188635-arsenal.json](./188635-arsenal.json) |
 | Arsenal Club Football | 22246 | [22246-arsenal-club-football.json](./22246-arsenal-club-football.json) |
+| Arsenal Club Football 2005 | 47345 | [47345-arsenal-club-football-2005.json](./47345-arsenal-club-football-2005.json) |
 | Arsenal of Democracy | 2009 | [2009-arsenal-of-democracy.json](./2009-arsenal-of-democracy.json) |
 | Arsenal Online | 273361 | [273361-arsenal-online.json](./273361-arsenal-online.json) |
 | Arsenal Shock | 197114 | [197114-arsenal-shock.json](./197114-arsenal-shock.json) |
@@ -17315,7 +17318,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -18336,6 +18338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Avalanche! | 255354 | [255354-avalanche.json](./255354-avalanche.json) |
 | Avalanches | 188511 | [188511-avalanches.json](./188511-avalanches.json) |
 | Avalar: Shadow War | 407395 | [407395-avalar-shadow-war.json](./407395-avalar-shadow-war.json) |
+| Avalaunch | 47342 | [47342-avalaunch.json](./47342-avalaunch.json) |
 | Avali: Final Battle | 316351 | [316351-avali-final-battle.json](./316351-avali-final-battle.json) |
 | Avalis Dungeon: Chapter 3 | 303016 | [303016-avalis-dungeon-chapter-3.json](./303016-avalis-dungeon-chapter-3.json) |
 | Avalo Legends | 126148 | [126148-avalo-legends.json](./126148-avalo-legends.json) |
