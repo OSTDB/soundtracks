@@ -8690,6 +8690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hitme | 401201 | [401201-hitme.json](./401201-hitme.json) |
 | Hitme 2 | 225273 | [225273-hitme-2.json](./225273-hitme-2.json) |
 | Hitmen Havoc | 222829 | [222829-hitmen-havoc.json](./222829-hitmen-havoc.json) |
+| Hito-Yume | 68141 | [68141-hito-yume.json](./68141-hito-yume.json) |
 | Hitogata Happa | 16232 | [16232-hitogata-happa.json](./16232-hitogata-happa.json) |
 | Hitogotchi | 178821 | [178821-hitogotchi.json](./178821-hitogotchi.json) |
 | Hitokata | 337114 | [337114-hitokata.json](./337114-hitokata.json) |
@@ -8864,6 +8865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hockey | 131074 | [131074-hockey.json](./131074-hockey.json) |
 | Hockey | 175898 | [175898-hockey.json](./175898-hockey.json) |
 | Hockey | 18585 | [18585-hockey.json](./18585-hockey.json) |
+| Hockey | 68153 | [68153-hockey.json](./68153-hockey.json) |
 | Hockey / Tennis | 380797 | [380797-hockey-tennis.json](./380797-hockey-tennis.json) |
 | Hockey Agent | 244802 | [244802-hockey-agent.json](./244802-hockey-agent.json) |
 | Hockey Agent | 58134 | [58134-hockey-agent.json](./58134-hockey-agent.json) |
