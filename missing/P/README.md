@@ -14973,6 +14973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess and Frog | 42181 | [42181-princess-and-frog.json](./42181-princess-and-frog.json) |
 | Princess and Knight | 84433 | [84433-princess-and-knight.json](./84433-princess-and-knight.json) |
 | Princess and the Ice Dragon | 237660 | [237660-princess-and-the-ice-dragon.json](./237660-princess-and-the-ice-dragon.json) |
+| Princess Arthur | 63990 | [63990-princess-arthur.json](./63990-princess-arthur.json) |
 | Princess Arthur for Nintendo Switch | 251488 | [251488-princess-arthur-for-nintendo-switch.json](./251488-princess-arthur-for-nintendo-switch.json) |
 | Princess Battles | 35686 | [35686-princess-battles.json](./35686-princess-battles.json) |
 | Princess Bubble Story | 266058 | [266058-princess-bubble-story.json](./266058-princess-bubble-story.json) |
@@ -15892,6 +15893,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Quackerton in: The Locked Birdhouse | 299116 | [299116-professor-quackerton-in-the-locked-birdhouse.json](./299116-professor-quackerton-in-the-locked-birdhouse.json) |
 | Professor Rubik's Brain Fitness | 139058 | [139058-professor-rubiks-brain-fitness.json](./139058-professor-rubiks-brain-fitness.json) |
 | Professor Simulator | 373873 | [373873-professor-simulator.json](./373873-professor-simulator.json) |
+| Professor Tago's Mental Gymnastics | 63964 | [63964-professor-tagos-mental-gymnastics.json](./63964-professor-tagos-mental-gymnastics.json) |
 | Professor Watts Memory Match: Cats | 109400 | [109400-professor-watts-memory-match-cats.json](./109400-professor-watts-memory-match-cats.json) |
 | Professor Watts Memory Match: Cute Animals | 106603 | [106603-professor-watts-memory-match-cute-animals.json](./106603-professor-watts-memory-match-cute-animals.json) |
 | Professor Watts Memory Match: Expressions | 107523 | [107523-professor-watts-memory-match-expressions.json](./107523-professor-watts-memory-match-expressions.json) |
@@ -18640,6 +18642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo Fever: Minna de Nazo Puyo | 251090 | [251090-puyo-puyo-fever-minna-de-nazo-puyo.json](./251090-puyo-puyo-fever-minna-de-nazo-puyo.json) |
 | Puyo Puyo Gaiden: Puyo Wars | 64088 | [64088-puyo-puyo-gaiden-puyo-wars.json](./64088-puyo-puyo-gaiden-puyo-wars.json) |
 | Puyo Puyo Love Story | 253122 | [253122-puyo-puyo-love-story.json](./253122-puyo-puyo-love-story.json) |
+| Puyo Puyo Narabe | 63992 | [63992-puyo-puyo-narabe.json](./63992-puyo-puyo-narabe.json) |
 | Puyo Puyo Puzzle Pop | 291210 | [291210-puyo-puyo-puzzle-pop.json](./291210-puyo-puyo-puzzle-pop.json) |
 | Puyo Puyo Solitare | 251503 | [251503-puyo-puyo-solitare.json](./251503-puyo-puyo-solitare.json) |
 | Puyo Puyo Sun | 250340 | [250340-puyo-puyo-sun.json](./250340-puyo-puyo-sun.json) |
