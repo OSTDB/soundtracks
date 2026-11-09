@@ -3056,6 +3056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Mahjong Adventure Umi he: Summer Waltz | 293150 | [293150-real-mahjong-adventure-umi-he-summer-waltz.json](./293150-real-mahjong-adventure-umi-he-summer-waltz.json) |
 | Real Man Got 100 | 119468 | [119468-real-man-got-100.json](./119468-real-man-got-100.json) |
 | Real Man Got 100 | 336951 | [336951-real-man-got-100.json](./336951-real-man-got-100.json) |
+| Real Men Wear Pink | 61754 | [61754-real-men-wear-pink.json](./61754-real-men-wear-pink.json) |
 | Real Miami Street Gangsters Crime Mafia Glory Lord | 101586 | [101586-real-miami-street-gangsters-crime-mafia-glory-lord.json](./101586-real-miami-street-gangsters-crime-mafia-glory-lord.json) |
 | Real Monster Truck Parking | 243068 | [243068-real-monster-truck-parking.json](./243068-real-monster-truck-parking.json) |
 | Real Mother Simulator | 105783 | [105783-real-mother-simulator.json](./105783-real-mother-simulator.json) |
@@ -4363,6 +4364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redline Ultimate Racing | 84083 | [84083-redline-ultimate-racing.json](./84083-redline-ultimate-racing.json) |
 | Redline: Drift | 174854 | [174854-redline-drift.json](./174854-redline-drift.json) |
 | Redline: Sport | 255755 | [255755-redline-sport.json](./255755-redline-sport.json) |
+| Redline: Xtreme Air Racing 2 | 61742 | [61742-redline-xtreme-air-racing-2.json](./61742-redline-xtreme-air-racing-2.json) |
 | RedMask | 266811 | [266811-redmask.json](./266811-redmask.json) |
 | Redmoon | 71923 | [71923-redmoon.json](./71923-redmoon.json) |
 | RedMoonWorld | 411616 | [411616-redmoonworld.json](./411616-redmoonworld.json) |
