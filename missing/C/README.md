@@ -5934,6 +5934,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chambers & Crops | 346255 | [346255-chambers-and-crops.json](./346255-chambers-and-crops.json) |
 | Chambers of Death | 348526 | [348526-chambers-of-death.json](./348526-chambers-of-death.json) |
 | Chambers of Devious Design | 153886 | [153886-chambers-of-devious-design.json](./153886-chambers-of-devious-design.json) |
+| Chambers of Horrors | 60647 | [60647-chambers-of-horrors.json](./60647-chambers-of-horrors.json) |
 | Chambers of Shaolin | 11997 | [11997-chambers-of-shaolin.json](./11997-chambers-of-shaolin.json) |
 | Chameleon | 120875 | [120875-chameleon.json](./120875-chameleon.json) |
 | Chameleon | 214466 | [214466-chameleon.json](./214466-chameleon.json) |
@@ -18413,6 +18414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cross & Word Games | 131185 | [131185-cross-and-word-games.json](./131185-cross-and-word-games.json) |
 | Cross and Crush | 89270 | [89270-cross-and-crush.json](./89270-cross-and-crush.json) |
 | Cross and Gun | 351520 | [351520-cross-and-gun.json](./351520-cross-and-gun.json) |
+| Cross Ange: Rondo of Angels and Dragons tr. | 60646 | [60646-cross-ange-rondo-of-angels-and-dragons-tr.json](./60646-cross-ange-rondo-of-angels-and-dragons-tr.json) |
 | Cross Attack | 385530 | [385530-cross-attack.json](./385530-cross-attack.json) |
 | Cross Blaim | 41765 | [41765-cross-blaim.json](./41765-cross-blaim.json) |
 | Cross Blitz | 158620 | [158620-cross-blitz.json](./158620-cross-blitz.json) |
