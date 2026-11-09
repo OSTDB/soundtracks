@@ -917,6 +917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Defense | 188347 | [188347-galaxy-defense.json](./188347-galaxy-defense.json) |
 | Galaxy Defense War | 372018 | [372018-galaxy-defense-war.json](./372018-galaxy-defense-war.json) |
 | Galaxy Defense: Fortress TD | 344951 | [344951-galaxy-defense-fortress-td.json](./344951-galaxy-defense-fortress-td.json) |
+| Galaxy Deka Gayvan | 56049 | [56049-galaxy-deka-gayvan.json](./56049-galaxy-deka-gayvan.json) |
 | Galaxy Drift | 164957 | [164957-galaxy-drift.json](./164957-galaxy-drift.json) |
 | Galaxy Dungeon | 295939 | [295939-galaxy-dungeon.json](./295939-galaxy-dungeon.json) |
 | Galaxy Dwellers | 254693 | [254693-galaxy-dwellers.json](./254693-galaxy-dwellers.json) |
@@ -1642,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Games&Girls | 29106 | [29106-games-and-girls.json](./29106-games-and-girls.json) |
 | Games8x8 | 376022 | [376022-games8x8.json](./376022-games8x8.json) |
 | GameShop Tycoon | 385105 | [385105-gameshop-tycoon.json](./385105-gameshop-tycoon.json) |
+| Gamestar Mechanic | 56034 | [56034-gamestar-mechanic.json](./56034-gamestar-mechanic.json) |
 | GameStart Pixel Battle | 207865 | [207865-gamestart-pixel-battle.json](./207865-gamestart-pixel-battle.json) |
 | Gamestonk Simulator: Gone Rogue | 326432 | [326432-gamestonk-simulator-gone-rogue.json](./326432-gamestonk-simulator-gone-rogue.json) |
 | GameSyndicates | 404513 | [404513-gamesyndicates.json](./404513-gamesyndicates.json) |
@@ -8442,6 +8444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grape Juice City | 247676 | [247676-grape-juice-city.json](./247676-grape-juice-city.json) |
 | Grapefruit | 304203 | [304203-grapefruit.json](./304203-grapefruit.json) |
 | Graph TD: Cosmic | 395104 | [395104-graph-td-cosmic.json](./395104-graph-td-cosmic.json) |
+| Graphic Adventures | 56008 | [56008-graphic-adventures.json](./56008-graphic-adventures.json) |
 | Graphic Design Is My Passion | 412249 | [412249-graphic-design-is-my-passion.json](./412249-graphic-design-is-my-passion.json) |
 | Graphic Mahjong | 91959 | [91959-graphic-mahjong.json](./91959-graphic-mahjong.json) |
 | Graphic Sugaku | 345920 | [345920-graphic-sugaku.json](./345920-graphic-sugaku.json) |
@@ -11224,6 +11227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunball Saves Christmas | 353637 | [353637-gunball-saves-christmas.json](./353637-gunball-saves-christmas.json) |
 | Gunball: Emperor's Revenge | 353314 | [353314-gunball-emperors-revenge.json](./353314-gunball-emperors-revenge.json) |
 | GunBang | 336677 | [336677-gunbang.json](./336677-gunbang.json) |
+| Gunbare! Game Tengoku: The Game Paradise 2 | 56031 | [56031-gunbare-game-tengoku-the-game-paradise-2.json](./56031-gunbare-game-tengoku-the-game-paradise-2.json) |
 | Gunbarich | 39861 | [39861-gunbarich.json](./39861-gunbarich.json) |
 | Gunbee F-99: The Kidnapping of Lady Akiko | 69527 | [69527-gunbee-f-99-the-kidnapping-of-lady-akiko.json](./69527-gunbee-f-99-the-kidnapping-of-lady-akiko.json) |
 | Gunbird | 299163 | [299163-gunbird.json](./299163-gunbird.json) |
