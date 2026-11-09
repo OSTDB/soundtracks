@@ -5424,6 +5424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Lap | 218367 | [218367-final-lap.json](./218367-final-lap.json) |
 | Final Lap 2 | 255651 | [255651-final-lap-2.json](./255651-final-lap-2.json) |
 | Final Lap 3 | 337555 | [337555-final-lap-3.json](./337555-final-lap-3.json) |
+| Final Lap Twin | 42124 | [42124-final-lap-twin.json](./42124-final-lap-twin.json) |
 | Final Legacy | 25697 | [25697-final-legacy.json](./25697-final-legacy.json) |
 | Final Liberation: Warhammer Epic 40,000 | 12521 | [12521-final-liberation-warhammer-epic-40-000.json](./12521-final-liberation-warhammer-epic-40-000.json) |
 | Final Light: The Prison | 105892 | [105892-final-light-the-prison.json](./105892-final-light-the-prison.json) |
@@ -6179,6 +6180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Pro Wrestling | 6407 | [6407-fire-pro-wrestling.json](./6407-fire-pro-wrestling.json) |
 | Fire Pro Wrestling 2 | 6408 | [6408-fire-pro-wrestling-2.json](./6408-fire-pro-wrestling-2.json) |
 | Fire Pro Wrestling 2nd Bout | 57795 | [57795-fire-pro-wrestling-2nd-bout.json](./57795-fire-pro-wrestling-2nd-bout.json) |
+| Fire Pro Wrestling 3: Legend Bout | 42071 | [42071-fire-pro-wrestling-3-legend-bout.json](./42071-fire-pro-wrestling-3-legend-bout.json) |
 | Fire Pro Wrestling D | 46364 | [46364-fire-pro-wrestling-d.json](./46364-fire-pro-wrestling-d.json) |
 | Fire Pro Wrestling for WonderSwan | 37511 | [37511-fire-pro-wrestling-for-wonderswan.json](./37511-fire-pro-wrestling-for-wonderswan.json) |
 | Fire Pro Wrestling G | 45074 | [45074-fire-pro-wrestling-g.json](./45074-fire-pro-wrestling-g.json) |
@@ -10449,6 +10451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formata | 29754 | [29754-formata.json](./29754-formata.json) |
 | Formation | 177976 | [177976-formation.json](./177976-formation.json) |
 | Formation | 258690 | [258690-formation.json](./258690-formation.json) |
+| Formation Armed F | 42091 | [42091-formation-armed-f.json](./42091-formation-armed-f.json) |
 | Formation Soccer '97: The Road to France | 286577 | [286577-formation-soccer-97-the-road-to-france.json](./286577-formation-soccer-97-the-road-to-france.json) |
 | Formation Soccer '98 - Ganbare Nippon in France | 286578 | [286578-formation-soccer-98-ganbare-nippon-in-france.json](./286578-formation-soccer-98-ganbare-nippon-in-france.json) |
 | Formation Soccer 2002 | 49575 | [49575-formation-soccer-2002.json](./49575-formation-soccer-2002.json) |
