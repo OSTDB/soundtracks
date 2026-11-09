@@ -1299,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Defender | 310562 | [310562-last-defender.json](./310562-last-defender.json) |
 | Last Defenders | 173045 | [173045-last-defenders.json](./173045-last-defenders.json) |
 | Last Defense | 397508 | [397508-last-defense.json](./397508-last-defense.json) |
+| Last Defense | 76118 | [76118-last-defense.json](./76118-last-defense.json) |
 | Last Definitive Fantasy | 340897 | [340897-last-definitive-fantasy.json](./340897-last-definitive-fantasy.json) |
 | Last Devil | 194688 | [194688-last-devil.json](./194688-last-devil.json) |
 | Last Dino Standing | 282984 | [282984-last-dino-standing.json](./282984-last-dino-standing.json) |
@@ -5430,6 +5431,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limit Break | 359075 | [359075-limit-break.json](./359075-limit-break.json) |
 | Limit Buffet | 260505 | [260505-limit-buffet.json](./260505-limit-buffet.json) |
 | Limit Choice | 253601 | [253601-limit-choice.json](./253601-limit-choice.json) |
+| Limit of Defense | 76261 | [76261-limit-of-defense.json](./76261-limit-of-defense.json) |
 | Limit Shoot | 383321 | [383321-limit-shoot.json](./383321-limit-shoot.json) |
 | Limit Zero Breakers | 361763 | [361763-limit-zero-breakers.json](./361763-limit-zero-breakers.json) |
 | LiMiT's Escape Room Games | 196161 | [196161-limits-escape-room-games.json](./196161-limits-escape-room-games.json) |
