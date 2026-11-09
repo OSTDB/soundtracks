@@ -3499,6 +3499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heartbreak Hysteria | 376519 | [376519-heartbreak-hysteria.json](./376519-heartbreak-hysteria.json) |
 | Heartbreak Land | 305603 | [305603-heartbreak-land.json](./305603-heartbreak-land.json) |
 | Heartbreaker: The Visual Novel | 306454 | [306454-heartbreaker-the-visual-novel.json](./306454-heartbreaker-the-visual-novel.json) |
+| Heartbreakers | 56039 | [56039-heartbreakers.json](./56039-heartbreakers.json) |
 | Heartbroken | 14108 | [14108-heartbroken.json](./14108-heartbroken.json) |
 | Heartburn | 301968 | [301968-heartburn.json](./301968-heartburn.json) |
 | HeartCatch PreCure! Oshare Collection | 124520 | [124520-heartcatch-precure-oshare-collection.json](./124520-heartcatch-precure-oshare-collection.json) |
@@ -6714,6 +6715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexagoner | 286032 | [286032-hexagoner.json](./286032-hexagoner.json) |
 | Hexagonos | 230653 | [230653-hexagonos.json](./230653-hexagonos.json) |
 | Hexagons | 83179 | [83179-hexagons.json](./83179-hexagons.json) |
+| Hexagor.io | 56051 | [56051-hexagor-io.json](./56051-hexagor-io.json) |
 | Hexagourds | 182893 | [182893-hexagourds.json](./182893-hexagourds.json) |
 | HexaGravity | 117941 | [117941-hexagravity.json](./117941-hexagravity.json) |
 | Hexagroove: Tactical DJ | 123323 | [123323-hexagroove-tactical-dj.json](./123323-hexagroove-tactical-dj.json) |
@@ -9821,6 +9823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HoneyWorks Premium Live | 144101 | [144101-honeyworks-premium-live.json](./144101-honeyworks-premium-live.json) |
 | Hong Gildong-jeon | 145612 | [145612-hong-gildong-jeon.json](./145612-hong-gildong-jeon.json) |
 | Hong Gildong-jeon 2 | 297656 | [297656-hong-gildong-jeon-2.json](./297656-hong-gildong-jeon-2.json) |
+| Hong Kil Dong | 56041 | [56041-hong-kil-dong.json](./56041-hong-kil-dong.json) |
 | Hong Kong | 47251 | [47251-hong-kong.json](./47251-hong-kong.json) |
 | Hong Kong 2020 | 130505 | [130505-hong-kong-2020.json](./130505-hong-kong-2020.json) |
 | Hong Kong 2097 | 374971 | [374971-hong-kong-2097.json](./374971-hong-kong-2097.json) |
