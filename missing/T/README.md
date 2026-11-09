@@ -1446,6 +1446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Vesperia | 221059 | [221059-tales-of-vesperia.json](./221059-tales-of-vesperia.json) |
 | Tales of Vesperia: Definitive Edition | 103286 | [103286-tales-of-vesperia-definitive-edition.json](./103286-tales-of-vesperia-definitive-edition.json) |
 | Tales of Vesperia: Remaster - 10th Anniversary Edition | 136664 | [136664-tales-of-vesperia-remaster-10th-anniversary-edition.json](./136664-tales-of-vesperia-remaster-10th-anniversary-edition.json) |
+| Tales of Vesperia: Special Edition | 47391 | [47391-tales-of-vesperia-special-edition.json](./47391-tales-of-vesperia-special-edition.json) |
 | Tales of Violet Valley | 379437 | [379437-tales-of-violet-valley.json](./379437-tales-of-violet-valley.json) |
 | Tales of Vogar: Lost Descendants | 236366 | [236366-tales-of-vogar-lost-descendants.json](./236366-tales-of-vogar-lost-descendants.json) |
 | Tales of War | 158636 | [158636-tales-of-war.json](./158636-tales-of-war.json) |
@@ -26419,6 +26420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Top Gear Pocket 2 | 78875 | [78875-top-gear-pocket-2.json](./78875-top-gear-pocket-2.json) |
 | Top Gear Rally | 248591 | [248591-top-gear-rally.json](./248591-top-gear-rally.json) |
 | Top Gear Rally | 3617 | [3617-top-gear-rally.json](./3617-top-gear-rally.json) |
+| Top Gear RPM Tuning | 47335 | [47335-top-gear-rpm-tuning.json](./47335-top-gear-rpm-tuning.json) |
 | Top Gear: Caravan Crush | 402325 | [402325-top-gear-caravan-crush.json](./402325-top-gear-caravan-crush.json) |
 | Top Gear: Dare Devil | 43274 | [43274-top-gear-dare-devil.json](./43274-top-gear-dare-devil.json) |
 | Top Gear: Donut Dash | 402326 | [402326-top-gear-donut-dash.json](./402326-top-gear-donut-dash.json) |
@@ -32883,6 +32885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Combat: Elite | 238865 | [238865-true-combat-elite.json](./238865-true-combat-elite.json) |
 | True Confession | 403963 | [403963-true-confession.json](./403963-true-confession.json) |
 | True Crime: New York City | 4215 | [4215-true-crime-new-york-city.json](./4215-true-crime-new-york-city.json) |
+| True Crime: New York City - Collector's Edition | 47326 | [47326-true-crime-new-york-city-collectors-edition.json](./47326-true-crime-new-york-city-collectors-edition.json) |
 | True Crime: Streets of LA | 4216 | [4216-true-crime-streets-of-la.json](./4216-true-crime-streets-of-la.json) |
 | True Demon | 211001 | [211001-true-demon.json](./211001-true-demon.json) |
 | True Detective Solitaire | 88755 | [88755-true-detective-solitaire.json](./88755-true-detective-solitaire.json) |
