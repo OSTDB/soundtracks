@@ -7335,6 +7335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Dynasty: The Backwood | 415188 | [415188-medieval-dynasty-the-backwood.json](./415188-medieval-dynasty-the-backwood.json) |
 | Medieval Engineers: Deluxe Edition | 54216 | [54216-medieval-engineers-deluxe-edition.json](./54216-medieval-engineers-deluxe-edition.json) |
 | Medieval Escape 2 | 397066 | [397066-medieval-escape-2.json](./397066-medieval-escape-2.json) |
+| Medieval Europe | 26738 | [26738-medieval-europe.json](./26738-medieval-europe.json) |
 | Medieval Fantasy Survival Simulator | 192525 | [192525-medieval-fantasy-survival-simulator.json](./192525-medieval-fantasy-survival-simulator.json) |
 | Medieval Fantasy Survival Simulator 2: Gladiator Edition | 237465 | [237465-medieval-fantasy-survival-simulator-2-gladiator-edition.json](./237465-medieval-fantasy-survival-simulator-2-gladiator-edition.json) |
 | Medieval Fantasy: Jigsaw Puzzle | 313148 | [313148-medieval-fantasy-jigsaw-puzzle.json](./313148-medieval-fantasy-jigsaw-puzzle.json) |
@@ -7590,6 +7591,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Babies | 209532 | [209532-mega-babies.json](./209532-mega-babies.json) |
 | Mega Balls | 126711 | [126711-mega-balls.json](./126711-mega-balls.json) |
 | Mega Blaster | 311664 | [311664-mega-blaster.json](./311664-mega-blaster.json) |
+| Mega Bloks Halo | 26731 | [26731-mega-bloks-halo.json](./26731-mega-bloks-halo.json) |
 | Mega Bloks: First Builders | 60838 | [60838-mega-bloks-first-builders.json](./60838-mega-bloks-first-builders.json) |
 | Mega Bowling Dash | 136431 | [136431-mega-bowling-dash.json](./136431-mega-bowling-dash.json) |
 | Mega Box | 123213 | [123213-mega-box.json](./123213-mega-box.json) |
