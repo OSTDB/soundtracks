@@ -170,6 +170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Men: Blackbird Battle | 245610 | [245610-x-men-blackbird-battle.json](./245610-x-men-blackbird-battle.json) |
 | X-Men: Children of the Atom | 39295 | [39295-x-men-children-of-the-atom.json](./39295-x-men-children-of-the-atom.json) |
 | X-Men: Destiny | 5302 | [5302-x-men-destiny.json](./5302-x-men-destiny.json) |
+| X-Men: Gamesmaster's Legacy | 19938 | [19938-x-men-gamesmasters-legacy.json](./19938-x-men-gamesmasters-legacy.json) |
 | X-Men: Madness in Murderworld | 40949 | [40949-x-men-madness-in-murderworld.json](./40949-x-men-madness-in-murderworld.json) |
 | X-Men: Mind Games | 268483 | [268483-x-men-mind-games.json](./268483-x-men-mind-games.json) |
 | X-Men: Mojo World | 46326 | [46326-x-men-mojo-world.json](./46326-x-men-mojo-world.json) |
