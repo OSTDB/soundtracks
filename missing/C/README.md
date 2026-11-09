@@ -5638,6 +5638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Central Station | 242244 | [242244-central-station.json](./242244-central-station.json) |
 | Centre Court | 13472 | [13472-centre-court.json](./13472-centre-court.json) |
 | Centre Court Tennis | 3456 | [3456-centre-court-tennis.json](./3456-centre-court-tennis.json) |
+| Centre Court: Hard Hitter | 43382 | [43382-centre-court-hard-hitter.json](./43382-centre-court-hard-hitter.json) |
 | Centrifugal | 149814 | [149814-centrifugal.json](./149814-centrifugal.json) |
 | Centrist | 276694 | [276694-centrist.json](./276694-centrist.json) |
 | Centroid | 133971 | [133971-centroid.json](./133971-centroid.json) |
@@ -8309,6 +8310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chou Aniki: Bakuretsu Rantou-hen | 42391 | [42391-chou-aniki-bakuretsu-rantou-hen.json](./42391-chou-aniki-bakuretsu-rantou-hen.json) |
 | Chou Aniki: Kyuukyoku Muteki Ginga Saikyou Otoko | 95478 | [95478-chou-aniki-kyuukyoku-muteki-ginga-saikyou-otoko.json](./95478-chou-aniki-kyuukyoku-muteki-ginga-saikyou-otoko.json) |
 | Chou Aniki: Otoko no Tamafuda | 37521 | [37521-chou-aniki-otoko-no-tamafuda.json](./37521-chou-aniki-otoko-no-tamafuda.json) |
+| Chou Aniki: Seinaru Protein Densetsu | 43418 | [43418-chou-aniki-seinaru-protein-densetsu.json](./43418-chou-aniki-seinaru-protein-densetsu.json) |
 | Chou Crème Collect Whip | 376875 | [376875-chou-creme-collect-whip.json](./376875-chou-creme-collect-whip.json) |
 | Chou Dengeki Stryker | 23436 | [23436-chou-dengeki-stryker.json](./23436-chou-dengeki-stryker.json) |
 | Chou Ga Shin Zangard | 246106 | [246106-chou-ga-shin-zangard.json](./246106-chou-ga-shin-zangard.json) |
@@ -16362,6 +16364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cowboy : Attack of Wild Animal | 100533 | [100533-cowboy-attack-of-wild-animal.json](./100533-cowboy-attack-of-wild-animal.json) |
 | Cowboy 3030 | 266220 | [266220-cowboy-3030.json](./266220-cowboy-3030.json) |
 | Cowboy Bebop | 45027 | [45027-cowboy-bebop.json](./45027-cowboy-bebop.json) |
+| Cowboy Bebop: Tsuioku no Serenade | 43406 | [43406-cowboy-bebop-tsuioku-no-serenade.json](./43406-cowboy-bebop-tsuioku-no-serenade.json) |
 | Cowboy Busy: Mowdown | 409743 | [409743-cowboy-busy-mowdown.json](./409743-cowboy-busy-mowdown.json) |
 | Cowboy Carl | 306456 | [306456-cowboy-carl.json](./306456-cowboy-carl.json) |
 | Cowboy Casino | 38831 | [38831-cowboy-casino.json](./38831-cowboy-casino.json) |
