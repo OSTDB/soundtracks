@@ -7996,6 +7996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Commander 2 | 73854 | [73854-flight-commander-2.json](./73854-flight-commander-2.json) |
 | Flight Control | 15103 | [15103-flight-control.json](./15103-flight-control.json) |
 | Flight Control HD | 15064 | [15064-flight-control-hd.json](./15064-flight-control-hd.json) |
+| Flight Control Rocket | 63995 | [63995-flight-control-rocket.json](./63995-flight-control-rocket.json) |
 | Flight Date | 403710 | [403710-flight-date.json](./403710-flight-date.json) |
 | Flight Deck 5 | 78093 | [78093-flight-deck-5.json](./78093-flight-deck-5.json) |
 | Flight Deck II | 122647 | [122647-flight-deck-ii.json](./122647-flight-deck-ii.json) |
