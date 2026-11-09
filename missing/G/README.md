@@ -7209,6 +7209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gooblins | 31593 | [31593-gooblins.json](./31593-gooblins.json) |
 | GoobnBalloonsDX | 244153 | [244153-goobnballoonsdx.json](./244153-goobnballoonsdx.json) |
 | Gooboo | 371616 | [371616-gooboo.json](./371616-gooboo.json) |
+| GooBoom | 27125 | [27125-gooboom.json](./27125-gooboom.json) |
 | Goobs | 354042 | [354042-goobs.json](./354042-goobs.json) |
 | Gooch Grundy's X-Decathlon | 73797 | [73797-gooch-grundys-x-decathlon.json](./73797-gooch-grundys-x-decathlon.json) |
 | GooCubelets | 34570 | [34570-goocubelets.json](./34570-goocubelets.json) |
