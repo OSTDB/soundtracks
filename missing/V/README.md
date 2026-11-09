@@ -1240,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VeggieTales: Dance, Dance, Dance | 205946 | [205946-veggietales-dance-dance-dance.json](./205946-veggietales-dance-dance-dance.json) |
 | VeggieTales: LarryBoy and the Bad Apple | 248629 | [248629-veggietales-larryboy-and-the-bad-apple.json](./248629-veggietales-larryboy-and-the-bad-apple.json) |
 | VeggieTales: LarryBoy and the Bad Apple | 49374 | [49374-veggietales-larryboy-and-the-bad-apple.json](./49374-veggietales-larryboy-and-the-bad-apple.json) |
+| VeggieTales: Veg-Out! Family Tournament | 70545 | [70545-veggietales-veg-out-family-tournament.json](./70545-veggietales-veg-out-family-tournament.json) |
 | Veggy World | 51156 | [51156-veggy-world.json](./51156-veggy-world.json) |
 | Vegteria | 159524 | [159524-vegteria.json](./159524-vegteria.json) |
 | Vehicle Beat Zombie | 243478 | [243478-vehicle-beat-zombie.json](./243478-vehicle-beat-zombie.json) |
