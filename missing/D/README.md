@@ -8038,8 +8038,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Conan | 80752 | [80752-detective-conan.json](./80752-detective-conan.json) |
 | Detective Conan Runner: Race for the Truth | 119274 | [119274-detective-conan-runner-race-for-the-truth.json](./119274-detective-conan-runner-race-for-the-truth.json) |
 | Detective Conan Skateboard Run: Kaitou Kid to Shinpi no Hihou | 115712 | [115712-detective-conan-skateboard-run-kaitou-kid-to-shinpi-no-hihou.json](./115712-detective-conan-skateboard-run-kaitou-kid-to-shinpi-no-hihou.json) |
+| Detective Conan: 3-nin no Meitantei | 64549 | [64549-detective-conan-3-nin-no-meitantei.json](./64549-detective-conan-3-nin-no-meitantei.json) |
 | Detective Conan: Akatsuki no Monument | 49695 | [49695-detective-conan-akatsuki-no-monument.json](./49695-detective-conan-akatsuki-no-monument.json) |
 | Detective Conan: Aoki Houseki no Rinbukyoku - Rondo | 79556 | [79556-detective-conan-aoki-houseki-no-rinbukyoku-rondo.json](./79556-detective-conan-aoki-houseki-no-rinbukyoku-rondo.json) |
+| Detective Conan: Chika Yuuenchi Satsujin Jiken | 64542 | [64542-detective-conan-chika-yuuenchi-satsujin-jiken.json](./64542-detective-conan-chika-yuuenchi-satsujin-jiken.json) |
 | Detective Conan: Daieiteikoku no Isan | 74817 | [74817-detective-conan-daieiteikoku-no-isan.json](./74817-detective-conan-daieiteikoku-no-isan.json) |
 | Detective Conan: Giwaku no Gouka Ressha | 61423 | [61423-detective-conan-giwaku-no-gouka-ressha.json](./61423-detective-conan-giwaku-no-gouka-ressha.json) |
 | Detective Conan: Kako Kara no Zensoukyoku - Prelude | 74820 | [74820-detective-conan-kako-kara-no-zensoukyoku-prelude.json](./74820-detective-conan-kako-kara-no-zensoukyoku-prelude.json) |
@@ -8053,6 +8055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Conan: Nishi no Meitantei Saidai no Kiki!? | 37568 | [37568-detective-conan-nishi-no-meitantei-saidai-no-kiki.json](./37568-detective-conan-nishi-no-meitantei-saidai-no-kiki.json) |
 | Detective Conan: Norowareta Kouro | 74819 | [74819-detective-conan-norowareta-kouro.json](./74819-detective-conan-norowareta-kouro.json) |
 | Detective Conan: Phantom Rhapsody | 61419 | [61419-detective-conan-phantom-rhapsody.json](./61419-detective-conan-phantom-rhapsody.json) |
+| Detective Conan: Saikou no Aibou | 64547 | [64547-detective-conan-saikou-no-aibou.json](./64547-detective-conan-saikou-no-aibou.json) |
 | Detective Conan: Trick Trick Vol. 1 | 84172 | [84172-detective-conan-trick-trick-vol-1.json](./84172-detective-conan-trick-trick-vol-1.json) |
 | Detective Conan: Tsuioku no Gensou | 21428 | [21428-detective-conan-tsuioku-no-gensou.json](./21428-detective-conan-tsuioku-no-gensou.json) |
 | Detective Conan: Yuugure no Ouju | 37362 | [37362-detective-conan-yuugure-no-ouju.json](./37362-detective-conan-yuugure-no-ouju.json) |
@@ -10124,6 +10127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaurium | 395865 | [395865-dinosaurium.json](./395865-dinosaurium.json) |
 | Dinosaurs | 175481 | [175481-dinosaurs.json](./175481-dinosaurs.json) |
 | Dinosaurs | 198726 | [198726-dinosaurs.json](./198726-dinosaurs.json) |
+| Dinosaurs | 64455 | [64455-dinosaurs.json](./64455-dinosaurs.json) |
 | Dinosaurs - Connect the Dots and Add Colors | 86725 | [86725-dinosaurs-connect-the-dots-and-add-colors.json](./86725-dinosaurs-connect-the-dots-and-add-colors.json) |
 | Dinosaurs A Prehistoric Adventure | 57128 | [57128-dinosaurs-a-prehistoric-adventure.json](./57128-dinosaurs-a-prehistoric-adventure.json) |
 | Dinosaurs and Animal Friends to the Rescue | 353999 | [353999-dinosaurs-and-animal-friends-to-the-rescue.json](./353999-dinosaurs-and-animal-friends-to-the-rescue.json) |
@@ -14676,6 +14680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Bowow's Eco-Extraction | 269266 | [269266-dr-bowows-eco-extraction.json](./269266-dr-bowows-eco-extraction.json) |
 | Dr. Brain Thinking Games IQ Adventures | 72726 | [72726-dr-brain-thinking-games-iq-adventures.json](./72726-dr-brain-thinking-games-iq-adventures.json) |
 | Dr. Brain Thinking Games: Puzzle Madness | 72141 | [72141-dr-brain-thinking-games-puzzle-madness.json](./72141-dr-brain-thinking-games-puzzle-madness.json) |
+| Dr. Brain: Action Reaction | 64016 | [64016-dr-brain-action-reaction.json](./64016-dr-brain-action-reaction.json) |
 | Dr. Bulbaceous | 34806 | [34806-dr-bulbaceous.json](./34806-dr-bulbaceous.json) |
 | Dr. Calgory's Lab: a 3D steampunk puzzle adventure game | 88312 | [88312-dr-calgorys-lab-a-3d-steampunk-puzzle-adventure-game.json](./88312-dr-calgorys-lab-a-3d-steampunk-puzzle-adventure-game.json) |
 | Dr. Cares: Family Practice | 112759 | [112759-dr-cares-family-practice.json](./112759-dr-cares-family-practice.json) |
@@ -15742,6 +15747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Storm | 156848 | [156848-dragon-storm.json](./156848-dragon-storm.json) |
 | Dragon Storm Fantasy | 193979 | [193979-dragon-storm-fantasy.json](./193979-dragon-storm-fantasy.json) |
 | Dragon Story | 38899 | [38899-dragon-story.json](./38899-dragon-story.json) |
+| Dragon Story: New Dawn | 64536 | [64536-dragon-story-new-dawn.json](./64536-dragon-story-new-dawn.json) |
 | Dragon Super: Saiyan Ball Z | 100847 | [100847-dragon-super-saiyan-ball-z.json](./100847-dragon-super-saiyan-ball-z.json) |
 | Dragon Super: Saiyan Warriors | 102557 | [102557-dragon-super-saiyan-warriors.json](./102557-dragon-super-saiyan-warriors.json) |
 | Dragon Survival | 373180 | [373180-dragon-survival.json](./373180-dragon-survival.json) |
@@ -16579,6 +16585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Pet VR | 74624 | [74624-dream-pet-vr.json](./74624-dream-pet-vr.json) |
 | Dream Piano Tiles 2018 | 107665 | [107665-dream-piano-tiles-2018.json](./107665-dream-piano-tiles-2018.json) |
 | Dream Pinball 3D | 259178 | [259178-dream-pinball-3d.json](./259178-dream-pinball-3d.json) |
+| Dream Pinball 3D II | 64529 | [64529-dream-pinball-3d-ii.json](./64529-dream-pinball-3d-ii.json) |
 | Dream Pinball 3D: Digital Deluxe Edition | 402953 | [402953-dream-pinball-3d-digital-deluxe-edition.json](./402953-dream-pinball-3d-digital-deluxe-edition.json) |
 | Dream Place | 334336 | [334336-dream-place.json](./334336-dream-place.json) |
 | Dream Ploy Will | 242672 | [242672-dream-ploy-will.json](./242672-dream-ploy-will.json) |
