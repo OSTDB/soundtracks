@@ -3521,6 +3521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mara's Quest | 211008 | [211008-maras-quest.json](./211008-maras-quest.json) |
 | Marabundle | 238596 | [238596-marabundle.json](./238596-marabundle.json) |
 | Maracaïbo | 69832 | [69832-maracaibo.json](./69832-maracaibo.json) |
+| Maraiyum: Rise of the Setting Sun | 32026 | [32026-maraiyum-rise-of-the-setting-sun.json](./32026-maraiyum-rise-of-the-setting-sun.json) |
 | Marapets | 58762 | [58762-marapets.json](./58762-marapets.json) |
 | Marathon | 8709 | [8709-marathon.json](./8709-marathon.json) |
 | Marathon 2: Durandal | 8710 | [8710-marathon-2-durandal.json](./8710-marathon-2-durandal.json) |
@@ -21844,6 +21845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Otter Friends | 403809 | [403809-my-otter-friends.json](./403809-my-otter-friends.json) |
 | My Own Hero Party | 412980 | [412980-my-own-hero-party.json](./412980-my-own-hero-party.json) |
 | My Own Murder | 345049 | [345049-my-own-murder.json](./345049-my-own-murder.json) |
+| My Own Pet | 32058 | [32058-my-own-pet.json](./32058-my-own-pet.json) |
 | My Own Sweet Dionaea | 382213 | [382213-my-own-sweet-dionaea.json](./382213-my-own-sweet-dionaea.json) |
 | My Paint: The Animated Paint Program | 46415 | [46415-my-paint-the-animated-paint-program.json](./46415-my-paint-the-animated-paint-program.json) |
 | My Paper Boat | 34979 | [34979-my-paper-boat.json](./34979-my-paper-boat.json) |
