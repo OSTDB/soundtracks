@@ -2399,6 +2399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unity-chan's Action Shooting | 362813 | [362813-unity-chans-action-shooting.json](./362813-unity-chans-action-shooting.json) |
 | Unitystation | 82365 | [82365-unitystation.json](./82365-unitystation.json) |
 | Unium | 35532 | [35532-unium.json](./35532-unium.json) |
+| UniUni Union | 63418 | [63418-uniuni-union.json](./63418-uniuni-union.json) |
 | UniverCity | 106455 | [106455-univercity.json](./106455-univercity.json) |
 | Univers | 149745 | [149745-univers.json](./149745-univers.json) |
 | Univers 11: Under the Sky | 195721 | [195721-univers-11-under-the-sky.json](./195721-univers-11-under-the-sky.json) |
@@ -3645,6 +3646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ut: Kissy Cutie | 179615 | [179615-ut-kissy-cutie.json](./179615-ut-kissy-cutie.json) |
 | Uta Kumi 575 | 42670 | [42670-uta-kumi-575.json](./42670-uta-kumi-575.json) |
 | Uta Macross Sma-Pho De-Culture | 78969 | [78969-uta-macross-sma-pho-de-culture.json](./78969-uta-macross-sma-pho-de-culture.json) |
+| Uta no Prince-sama | 63412 | [63412-uta-no-prince-sama.json](./63412-uta-no-prince-sama.json) |
 | Uta no Prince-sama: All Star | 56321 | [56321-uta-no-prince-sama-all-star.json](./56321-uta-no-prince-sama-all-star.json) |
 | Uta no Prince-sama: All Star After Secret | 56323 | [56323-uta-no-prince-sama-all-star-after-secret.json](./56323-uta-no-prince-sama-all-star-after-secret.json) |
 | Uta no Prince-sama: All Star After Secret for Nintendo Switch | 222998 | [222998-uta-no-prince-sama-all-star-after-secret-for-nintendo-switch.json](./222998-uta-no-prince-sama-all-star-after-secret-for-nintendo-switch.json) |
