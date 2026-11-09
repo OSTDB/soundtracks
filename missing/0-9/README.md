@@ -1748,6 +1748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 2010: The Text Adventure Game | 75229 | [75229-2010-the-text-adventure-game.json](./75229-2010-the-text-adventure-game.json) |
 | 2012 | 210420 | [210420-2012.json](./210420-2012.json) |
 | 2012 Apocalypse | 141518 | [141518-2012-apocalypse.json](./141518-2012-apocalypse.json) |
+| 2013: Infected Wars | 52040 | [52040-2013-infected-wars.json](./52040-2013-infected-wars.json) |
 | 2014.Aftermath | 115375 | [115375-2014-aftermath.json](./115375-2014-aftermath.json) |
 | 2016 Doodle Fruit Games | 238871 | [238871-2016-doodle-fruit-games.json](./238871-2016-doodle-fruit-games.json) |
 | 2017 Collection | 327362 | [327362-2017-collection.json](./327362-2017-collection.json) |
@@ -2733,6 +2734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Degrees: Vol 1 | 92657 | [92657-4-degrees-vol-1.json](./92657-4-degrees-vol-1.json) |
 | 4 Degrees: Vol 2 | 92655 | [92655-4-degrees-vol-2.json](./92655-4-degrees-vol-2.json) |
 | 4 Elements | 27893 | [27893-4-elements.json](./27893-4-elements.json) |
+| 4 Elements HD | 52038 | [52038-4-elements-hd.json](./52038-4-elements-hd.json) |
 | 4 Elements II | 64131 | [64131-4-elements-ii.json](./64131-4-elements-ii.json) |
 | 4 Elements II: Special Edition | 106038 | [106038-4-elements-ii-special-edition.json](./106038-4-elements-ii-special-edition.json) |
 | 4 En Raya | 249251 | [249251-4-en-raya.json](./249251-4-en-raya.json) |
