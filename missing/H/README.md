@@ -6477,6 +6477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Vs. | 64326 | [64326-heroes-vs.json](./64326-heroes-vs.json) |
 | Heroes vs. Hordes | 243120 | [243120-heroes-vs-hordes.json](./243120-heroes-vs-hordes.json) |
 | Heroes Wanted | 275983 | [275983-heroes-wanted.json](./275983-heroes-wanted.json) |
+| Heroes Wanted: Quest RPG | 58374 | [58374-heroes-wanted-quest-rpg.json](./58374-heroes-wanted-quest-rpg.json) |
 | Heroes War | 200722 | [200722-heroes-war.json](./200722-heroes-war.json) |
 | Heroes War: Counterattack | 141119 | [141119-heroes-war-counterattack.json](./141119-heroes-war-counterattack.json) |
 | Heroes Will | 69517 | [69517-heroes-will.json](./69517-heroes-will.json) |
@@ -11712,6 +11713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How Your Package Gets Delivered | 363437 | [363437-how-your-package-gets-delivered.json](./363437-how-your-package-gets-delivered.json) |
 | How!? | 258192 | [258192-how.json](./258192-how.json) |
 | Howard Dean for Iowa | 91812 | [91812-howard-dean-for-iowa.json](./91812-howard-dean-for-iowa.json) |
+| Howard Marks Video Casino Games | 58370 | [58370-howard-marks-video-casino-games.json](./58370-howard-marks-video-casino-games.json) |
 | Howard Phillips Lovecar | 38781 | [38781-howard-phillips-lovecar.json](./38781-howard-phillips-lovecar.json) |
 | Howard the Duck: Adventure on Volcano Island | 28853 | [28853-howard-the-duck-adventure-on-volcano-island.json](./28853-howard-the-duck-adventure-on-volcano-island.json) |
 | Howdy, Jacob! | 148512 | [148512-howdy-jacob.json](./148512-howdy-jacob.json) |
