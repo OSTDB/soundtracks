@@ -2507,6 +2507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | John Dungeon | 81751 | [81751-john-dungeon.json](./81751-john-dungeon.json) |
 | John Elway in Space | 332214 | [332214-john-elway-in-space.json](./332214-john-elway-in-space.json) |
 | John Elway's Quarterback | 198782 | [198782-john-elways-quarterback.json](./198782-john-elways-quarterback.json) |
+| John Elway's Quarterback | 48152 | [48152-john-elways-quarterback.json](./48152-john-elways-quarterback.json) |
 | John Elway's Team Quarterback | 40343 | [40343-john-elways-team-quarterback.json](./40343-john-elways-team-quarterback.json) |
 | John Fart: Text-iverse of Crazyness | 223755 | [223755-john-fart-text-iverse-of-crazyness.json](./223755-john-fart-text-iverse-of-crazyness.json) |
 | John Fox | 303595 | [303595-john-fox.json](./303595-john-fox.json) |
@@ -2984,6 +2985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoustMania | 119743 | [119743-joustmania.json](./119743-joustmania.json) |
 | JoustPong | 95353 | [95353-joustpong.json](./95353-joustpong.json) |
 | Jousty Dragons | 176190 | [176190-jousty-dragons.json](./176190-jousty-dragons.json) |
+| Jovial Race | 48151 | [48151-jovial-race.json](./48151-jovial-race.json) |
 | Jovian Drive | 343463 | [343463-jovian-drive.json](./343463-jovian-drive.json) |
 | Joy | 316859 | [316859-joy.json](./316859-joy.json) |
 | Joy and Me | 243458 | [243458-joy-and-me.json](./243458-joy-and-me.json) |
