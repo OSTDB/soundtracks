@@ -2652,6 +2652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neon Wings: Air Race | 147090 | [147090-neon-wings-air-race.json](./147090-neon-wings-air-race.json) |
 | Neon World Maker | 305717 | [305717-neon-world-maker.json](./305717-neon-world-maker.json) |
 | Neon: Eternal | 169735 | [169735-neon-eternal.json](./169735-neon-eternal.json) |
+| Neon8 | 76855 | [76855-neon8.json](./76855-neon8.json) |
 | NeonArcade: Adventure Puzzle Muse | 111378 | [111378-neonarcade-adventure-puzzle-muse.json](./111378-neonarcade-adventure-puzzle-muse.json) |
 | NeonBall | 52345 | [52345-neonball.json](./52345-neonball.json) |
 | NeonCode | 111979 | [111979-neoncode.json](./111979-neoncode.json) |
@@ -2663,6 +2664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NeonGalaxy Wars | 54877 | [54877-neongalaxy-wars.json](./54877-neongalaxy-wars.json) |
 | NeonHat | 187517 | [187517-neonhat.json](./187517-neonhat.json) |
 | NeonHClouds | 246751 | [246751-neonhclouds.json](./246751-neonhclouds.json) |
+| Neonicum | 76797 | [76797-neonicum.json](./76797-neonicum.json) |
 | Neonimo | 187797 | [187797-neonimo.json](./187797-neonimo.json) |
 | Neonis | 121190 | [121190-neonis.json](./121190-neonis.json) |
 | NeonLore | 197916 | [197916-neonlore.json](./197916-neonlore.json) |
