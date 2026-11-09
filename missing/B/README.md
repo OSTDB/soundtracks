@@ -992,7 +992,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -2780,6 +2779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barn Runner: Christmas Soup | 299083 | [299083-barn-runner-christmas-soup.json](./299083-barn-runner-christmas-soup.json) |
 | Barn Runner: The Mayor's New Dress | 299082 | [299082-barn-runner-the-mayors-new-dress.json](./299082-barn-runner-the-mayors-new-dress.json) |
 | Barn Rush | 425449 | [425449-barn-rush.json](./425449-barn-rush.json) |
+| Barn Yarn | 63435 | [63435-barn-yarn.json](./63435-barn-yarn.json) |
 | Barn Yarn: Collector's Edition | 339835 | [339835-barn-yarn-collectors-edition.json](./339835-barn-yarn-collectors-edition.json) |
 | Barnacle | 405614 | [405614-barnacle.json](./405614-barnacle.json) |
 | Barnacle Bill | 91437 | [91437-barnacle-bill.json](./91437-barnacle-bill.json) |
@@ -5147,6 +5147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bears In Space | 158064 | [158064-bears-in-space.json](./158064-bears-in-space.json) |
 | Bears in Tanks | 115390 | [115390-bears-in-tanks.json](./115390-bears-in-tanks.json) |
 | Bears vs. Art | 251024 | [251024-bears-vs-art.json](./251024-bears-vs-art.json) |
+| BearShark | 63405 | [63405-bearshark.json](./63405-bearshark.json) |
 | Bearskull | 243039 | [243039-bearskull.json](./243039-bearskull.json) |
 | Bearskull 2 | 373833 | [373833-bearskull-2.json](./373833-bearskull-2.json) |
 | Bearslayer | 33059 | [33059-bearslayer.json](./33059-bearslayer.json) |
@@ -14719,6 +14720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boxing Club Manager | 188210 | [188210-boxing-club-manager.json](./188210-boxing-club-manager.json) |
 | Boxing Club: Ultimate Fighting | 108469 | [108469-boxing-club-ultimate-fighting.json](./108469-boxing-club-ultimate-fighting.json) |
 | Boxing Coach | 156193 | [156193-boxing-coach.json](./156193-boxing-coach.json) |
+| Boxing Fight | 63344 | [63344-boxing-fight.json](./63344-boxing-fight.json) |
 | Boxing Fighter: Shadow Battle | 355149 | [355149-boxing-fighter-shadow-battle.json](./355149-boxing-fighter-shadow-battle.json) |
 | Boxing Fighter: Super Punch | 93717 | [93717-boxing-fighter-super-punch.json](./93717-boxing-fighter-super-punch.json) |
 | Boxing Fighting Def Jam NY | 196582 | [196582-boxing-fighting-def-jam-ny.json](./196582-boxing-fighting-def-jam-ny.json) |
