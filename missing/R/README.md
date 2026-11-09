@@ -1861,6 +1861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Randall the Grape Jelly Cube Goes to Soda Valley for Some Reason | 384556 | [384556-randall-the-grape-jelly-cube-goes-to-soda-valley-for-some-reason.json](./384556-randall-the-grape-jelly-cube-goes-to-soda-valley-for-some-reason.json) |
 | Randamn | 23936 | [23936-randamn.json](./23936-randamn.json) |
 | Randar no Bouken | 73087 | [73087-randar-no-bouken.json](./73087-randar-no-bouken.json) |
+| Randar no Bouken III: Yami ni Miserareta Majutsushi | 73382 | [73382-randar-no-bouken-iii-yami-ni-miserareta-majutsushi.json](./73382-randar-no-bouken-iii-yami-ni-miserareta-majutsushi.json) |
 | Randel's Quest | 378478 | [378478-randels-quest.json](./378478-randels-quest.json) |
 | Randnet Disk | 94725 | [94725-randnet-disk.json](./94725-randnet-disk.json) |
 | Rando'Knights | 275491 | [275491-randoknights.json](./275491-randoknights.json) |
@@ -6404,6 +6405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return Alive | 181060 | [181060-return-alive.json](./181060-return-alive.json) |
 | Return Alive | 255803 | [255803-return-alive.json](./255803-return-alive.json) |
 | Return Fire | 4339 | [4339-return-fire.json](./4339-return-fire.json) |
+| Return Fire 2 | 73404 | [73404-return-fire-2.json](./73404-return-fire-2.json) |
 | Return Fire: Maps O' Death | 4267 | [4267-return-fire-maps-o-death.json](./4267-return-fire-maps-o-death.json) |
 | Return Home | 115872 | [115872-return-home.json](./115872-return-home.json) |
 | Return Journey | 318340 | [318340-return-journey.json](./318340-return-journey.json) |
