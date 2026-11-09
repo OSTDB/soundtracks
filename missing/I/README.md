@@ -5164,6 +5164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Rugby | 45709 | [45709-international-rugby.json](./45709-international-rugby.json) |
 | International Rugby Challenge | 73281 | [73281-international-rugby-challenge.json](./73281-international-rugby-challenge.json) |
 | International Rugby Simulator | 94281 | [94281-international-rugby-simulator.json](./94281-international-rugby-simulator.json) |
+| International Running Stars | 51339 | [51339-international-running-stars.json](./51339-international-running-stars.json) |
 | International Secret Agent | 248958 | [248958-international-secret-agent.json](./248958-international-secret-agent.json) |
 | International Sensible Soccer | 40808 | [40808-international-sensible-soccer.json](./40808-international-sensible-soccer.json) |
 | International Snooker 2009 | 91698 | [91698-international-snooker-2009.json](./91698-international-snooker-2009.json) |
