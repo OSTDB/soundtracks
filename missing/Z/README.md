@@ -1140,6 +1140,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zettai Zetsumei kara no Dasshutsu: Nazotoki Quiz Illustration Suiri Mystery Game | 233935 | [233935-zettai-zetsumei-kara-no-dasshutsu-nazotoki-quiz-illustration-suiri-mystery-game.json](./233935-zettai-zetsumei-kara-no-dasshutsu-nazotoki-quiz-illustration-suiri-mystery-game.json) |
 | Zettai Zetsumei Shoujo Kokuu no Houteishiki | 260549 | [260549-zettai-zetsumei-shoujo-kokuu-no-houteishiki.json](./260549-zettai-zetsumei-shoujo-kokuu-no-houteishiki.json) |
 | Zettai Zetsumei Shoujo: Kokuu no Houteishiki | 268632 | [268632-zettai-zetsumei-shoujo-kokuu-no-houteishiki.json](./268632-zettai-zetsumei-shoujo-kokuu-no-houteishiki.json) |
+| Zettai Zetsumei Toshi 3: Kowareyuku Machi to Kanojo no Uta | 11697 | [11697-zettai-zetsumei-toshi-3-kowareyuku-machi-to-kanojo-no-uta.json](./11697-zettai-zetsumei-toshi-3-kowareyuku-machi-to-kanojo-no-uta.json) |
+| Zettai Zetsumei Toshi 4: Summer Memories | 11698 | [11698-zettai-zetsumei-toshi-4-summer-memories.json](./11698-zettai-zetsumei-toshi-4-summer-memories.json) |
 | Zettavolt Trigger | 108051 | [108051-zettavolt-trigger.json](./108051-zettavolt-trigger.json) |
 | Zetton's One Trillion Degree Derby | 395895 | [395895-zettons-one-trillion-degree-derby.json](./395895-zettons-one-trillion-degree-derby.json) |
 | Zeus + Poseidon | 90554 | [90554-zeus-poseidon.json](./90554-zeus-poseidon.json) |
