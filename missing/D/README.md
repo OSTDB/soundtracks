@@ -829,6 +829,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Magic | 34720 | [34720-dance-magic.json](./34720-dance-magic.json) |
 | Dance Magic Fashion Style Games | 96298 | [96298-dance-magic-fashion-style-games.json](./96298-dance-magic-fashion-style-games.json) |
 | Dance Mania | 330184 | [330184-dance-mania.json](./330184-dance-mania.json) |
+| Dance ManiaX | 70542 | [70542-dance-maniax.json](./70542-dance-maniax.json) |
+| Dance ManiaX 2nd MIX | 70544 | [70544-dance-maniax-2nd-mix.json](./70544-dance-maniax-2nd-mix.json) |
 | Dance Maniax 2ndMIX append JPARADISE | 314328 | [314328-dance-maniax-2ndmix-append-jparadise.json](./314328-dance-maniax-2ndmix-append-jparadise.json) |
 | Dance Master | 247074 | [247074-dance-master.json](./247074-dance-master.json) |
 | Dance Mat Typing | 141118 | [141118-dance-mat-typing.json](./141118-dance-mat-typing.json) |
@@ -6947,6 +6949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dengeki Bunko: Fighting Climax | 11448 | [11448-dengeki-bunko-fighting-climax.json](./11448-dengeki-bunko-fighting-climax.json) |
 | Dengeki Bunko: Fighting Climax Ignition | 13550 | [13550-dengeki-bunko-fighting-climax-ignition.json](./13550-dengeki-bunko-fighting-climax-ignition.json) |
 | Dengeki Bunko: Fighting Climax Ignition - Mobile Version | 52139 | [52139-dengeki-bunko-fighting-climax-ignition-mobile-version.json](./52139-dengeki-bunko-fighting-climax-ignition-mobile-version.json) |
+| Dengeki Gakuen RPG: Cross of Venus | 70697 | [70697-dengeki-gakuen-rpg-cross-of-venus.json](./70697-dengeki-gakuen-rpg-cross-of-venus.json) |
 | Dengeki Gakuen RPG: Cross of Venus Special | 105066 | [105066-dengeki-gakuen-rpg-cross-of-venus-special.json](./105066-dengeki-gakuen-rpg-cross-of-venus-special.json) |
 | Dengeki no Pilot: Tenkuu no Kizuna | 213835 | [213835-dengeki-no-pilot-tenkuu-no-kizuna.json](./213835-dengeki-no-pilot-tenkuu-no-kizuna.json) |
 | Dengeki Nurse | 412440 | [412440-dengeki-nurse.json](./412440-dengeki-nurse.json) |
@@ -13874,6 +13877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dora the Explorer: Dance to the Rescue | 71970 | [71970-dora-the-explorer-dance-to-the-rescue.json](./71970-dora-the-explorer-dance-to-the-rescue.json) |
 | Dora the Explorer: Dora Saves the Crystal Kingdom | 7977 | [7977-dora-the-explorer-dora-saves-the-crystal-kingdom.json](./7977-dora-the-explorer-dora-saves-the-crystal-kingdom.json) |
 | Dora the Explorer: Dora's Big Birthday Adventure | 50624 | [50624-dora-the-explorer-doras-big-birthday-adventure.json](./50624-dora-the-explorer-doras-big-birthday-adventure.json) |
+| Dora the Explorer: Dora's Fix-it Adventure | 70691 | [70691-dora-the-explorer-doras-fix-it-adventure.json](./70691-dora-the-explorer-doras-fix-it-adventure.json) |
 | Dora the Explorer: Dora's World Adventure! | 49230 | [49230-dora-the-explorer-doras-world-adventure.json](./49230-dora-the-explorer-doras-world-adventure.json) |
 | Dora the Explorer: Dora's Worldwide Rescue | 230375 | [230375-dora-the-explorer-doras-worldwide-rescue.json](./230375-dora-the-explorer-doras-worldwide-rescue.json) |
 | Dora the Explorer: Fairytale Adventure | 69723 | [69723-dora-the-explorer-fairytale-adventure.json](./69723-dora-the-explorer-fairytale-adventure.json) |
@@ -16668,6 +16672,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamer Series: Horse Trainer | 79533 | [79533-dreamer-series-horse-trainer.json](./79533-dreamer-series-horse-trainer.json) |
 | Dreamer Series: Pop Star | 47906 | [47906-dreamer-series-pop-star.json](./47906-dreamer-series-pop-star.json) |
 | Dreamer Series: Puppy Trainer | 70597 | [70597-dreamer-series-puppy-trainer.json](./70597-dreamer-series-puppy-trainer.json) |
+| Dreamer Series: Shop Owner | 70549 | [70549-dreamer-series-shop-owner.json](./70549-dreamer-series-shop-owner.json) |
+| Dreamer Series: Teacher | 70547 | [70547-dreamer-series-teacher.json](./70547-dreamer-series-teacher.json) |
 | Dreamer Series: Top Model | 69105 | [69105-dreamer-series-top-model.json](./69105-dreamer-series-top-model.json) |
 | Dreamer Series: Zoo Keeper | 230289 | [230289-dreamer-series-zoo-keeper.json](./230289-dreamer-series-zoo-keeper.json) |
 | Dreamer: Puzzle | 190819 | [190819-dreamer-puzzle.json](./190819-dreamer-puzzle.json) |
