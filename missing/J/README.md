@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jack Lumber | 15393 | [15393-jack-lumber.json](./15393-jack-lumber.json) |
 | Jack Mason: Ace Attorney | 303777 | [303777-jack-mason-ace-attorney.json](./303777-jack-mason-ace-attorney.json) |
 | Jack Move: I.C.E Breaker | 195865 | [195865-jack-move-i-c-e-breaker.json](./195865-jack-move-i-c-e-breaker.json) |
+| Jack N' Jill | 67485 | [67485-jack-n-jill.json](./67485-jack-n-jill.json) |
 | Jack N' Jill 3D | 25846 | [25846-jack-n-jill-3d.json](./25846-jack-n-jill-3d.json) |
 | Jack N' Jill DX | 107044 | [107044-jack-n-jill-dx.json](./107044-jack-n-jill-dx.json) |
 | Jack Nicklaus 4 | 94690 | [94690-jack-nicklaus-4.json](./94690-jack-nicklaus-4.json) |
@@ -2795,6 +2796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JoshGeoff Weiner Simulator | 327837 | [327837-joshgeoff-weiner-simulator.json](./327837-joshgeoff-weiner-simulator.json) |
 | Joshi Daisei Private | 112341 | [112341-joshi-daisei-private.json](./112341-joshi-daisei-private.json) |
 | Joshikou Seifuku Monogatari | 230216 | [230216-joshikou-seifuku-monogatari.json](./230216-joshikou-seifuku-monogatari.json) |
+| Joshiryo Panic | 67401 | [67401-joshiryo-panic.json](./67401-joshiryo-panic.json) |
 | Josho | 83445 | [83445-josho.json](./83445-josho.json) |
 | Joshua & The Battle of Jericho | 46186 | [46186-joshua-and-the-battle-of-jericho.json](./46186-joshua-and-the-battle-of-jericho.json) |
 | Joshua's Legs | 201550 | [201550-joshuas-legs.json](./201550-joshuas-legs.json) |
