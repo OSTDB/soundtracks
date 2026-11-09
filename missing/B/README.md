@@ -887,6 +887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Boy Simulator | 150874 | [150874-bad-boy-simulator.json](./150874-bad-boy-simulator.json) |
 | Bad Boy's Bad Day | 271664 | [271664-bad-boys-bad-day.json](./271664-bad-boys-bad-day.json) |
 | Bad Boys Do It Better! | 238905 | [238905-bad-boys-do-it-better.json](./238905-bad-boys-do-it-better.json) |
+| Bad Boys: Miami Takedown | 5736 | [5736-bad-boys-miami-takedown.json](./5736-bad-boys-miami-takedown.json) |
 | Bad Burgers | 252950 | [252950-bad-burgers.json](./252950-bad-burgers.json) |
 | Bad Business | 118304 | [118304-bad-business.json](./118304-bad-business.json) |
 | Bad Bytes | 391826 | [391826-bad-bytes.json](./391826-bad-bytes.json) |
@@ -996,6 +997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -7724,6 +7726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Boy Adventure | 324340 | [324340-big-boy-adventure.json](./324340-big-boy-adventure.json) |
 | Big Boy Boxing | 145410 | [145410-big-boy-boxing.json](./145410-big-boy-boxing.json) |
 | Big Boy's Birthday Party | 309275 | [309275-big-boys-birthday-party.json](./309275-big-boys-birthday-party.json) |
+| Big Brain Academy: Wii Degree | 4713 | [4713-big-brain-academy-wii-degree.json](./4713-big-brain-academy-wii-degree.json) |
 | Big Brain Wolf | 14993 | [14993-big-brain-wolf.json](./14993-big-brain-wolf.json) |
 | Big Brave | 91440 | [91440-big-brave.json](./91440-big-brave.json) |
 | Big Breakfast 2 | 416846 | [416846-big-breakfast-2.json](./416846-big-breakfast-2.json) |
@@ -11350,6 +11353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood Bound III | 313825 | [313825-blood-bound-iii.json](./313825-blood-bound-iii.json) |
 | Blood Bound Origins | 313827 | [313827-blood-bound-origins.json](./313827-blood-bound-origins.json) |
 | Blood Bound: Dark Solstice | 313826 | [313826-blood-bound-dark-solstice.json](./313826-blood-bound-dark-solstice.json) |
+| Blood Bowl | 5649 | [5649-blood-bowl.json](./5649-blood-bowl.json) |
 | Blood Bowl | 6058 | [6058-blood-bowl.json](./6058-blood-bowl.json) |
 | Blood Bowl 2 | 6059 | [6059-blood-bowl-2.json](./6059-blood-bowl-2.json) |
 | Blood Bowl 2: Chaos Dwarfs | 341551 | [341551-blood-bowl-2-chaos-dwarfs.json](./341551-blood-bowl-2-chaos-dwarfs.json) |
@@ -11696,6 +11700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BloodRayne 2: ReVamped | 178177 | [178177-bloodrayne-2-revamped.json](./178177-bloodrayne-2-revamped.json) |
 | BloodRayne Absolute Bundle | 186537 | [186537-bloodrayne-absolute-bundle.json](./186537-bloodrayne-absolute-bundle.json) |
 | BloodRayne Complete Bundle | 154184 | [154184-bloodrayne-complete-bundle.json](./154184-bloodrayne-complete-bundle.json) |
+| BloodRayne: Betrayal | 2606 | [2606-bloodrayne-betrayal.json](./2606-bloodrayne-betrayal.json) |
 | BloodRayne: Definitive Collection | 400996 | [400996-bloodrayne-definitive-collection.json](./400996-bloodrayne-definitive-collection.json) |
 | BloodRayne: ReVamped | 178176 | [178176-bloodrayne-revamped.json](./178176-bloodrayne-revamped.json) |
 | BloodRayne: Terminal Cut | 140689 | [140689-bloodrayne-terminal-cut.json](./140689-bloodrayne-terminal-cut.json) |
@@ -12675,6 +12680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Body Discovery | 117598 | [117598-body-discovery.json](./117598-body-discovery.json) |
 | Body Elements | 150551 | [150551-body-elements.json](./150551-body-elements.json) |
 | Body Glove Bluewater Hunter | 65189 | [65189-body-glove-bluewater-hunter.json](./65189-body-glove-bluewater-hunter.json) |
+| Body Harvest | 3426 | [3426-body-harvest.json](./3426-body-harvest.json) |
 | Body Harvest: Recompiled | 418633 | [418633-body-harvest-recompiled.json](./418633-body-harvest-recompiled.json) |
 | Body Hiding Simulator | 400689 | [400689-body-hiding-simulator.json](./400689-body-hiding-simulator.json) |
 | Body Kounts | 423863 | [423863-body-kounts.json](./423863-body-kounts.json) |
@@ -16366,6 +16372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brigandine | 143118 | [143118-brigandine.json](./143118-brigandine.json) |
 | Brigandine Abyss | 389424 | [389424-brigandine-abyss.json](./389424-brigandine-abyss.json) |
 | Brigandine: Grand Edition | 3128 | [3128-brigandine-grand-edition.json](./3128-brigandine-grand-edition.json) |
+| Brigandine: The Legend of Forsena | 3127 | [3127-brigandine-the-legend-of-forsena.json](./3127-brigandine-the-legend-of-forsena.json) |
 | Brigandine: The Legend of Runersia | 121960 | [121960-brigandine-the-legend-of-runersia.json](./121960-brigandine-the-legend-of-runersia.json) |
 | Brigandine: The Legend of Runersia - Collector's Edition | 146144 | [146144-brigandine-the-legend-of-runersia-collectors-edition.json](./146144-brigandine-the-legend-of-runersia-collectors-edition.json) |
 | Brigandine: The Legend of Runersia - Limited Edition | 136950 | [136950-brigandine-the-legend-of-runersia-limited-edition.json](./136950-brigandine-the-legend-of-runersia-limited-edition.json) |
@@ -16955,6 +16962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brutalistick VR | 277017 | [277017-brutalistick-vr.json](./277017-brutalistick-vr.json) |
 | Brutality club | 150981 | [150981-brutality-club.json](./150981-brutality-club.json) |
 | Brute | 33279 | [33279-brute.json](./33279-brute.json) |
+| Brute Force | 5759 | [5759-brute-force.json](./5759-brute-force.json) |
 | Brute Force | 80634 | [80634-brute-force.json](./80634-brute-force.json) |
 | Brute Horse | 314627 | [314627-brute-horse.json](./314627-brute-horse.json) |
 | Brute Wars | 281185 | [281185-brute-wars.json](./281185-brute-wars.json) |
