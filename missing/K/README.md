@@ -1924,6 +1924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keridwen | 161404 | [161404-keridwen.json](./161404-keridwen.json) |
 | Keriotosse! | 58728 | [58728-keriotosse.json](./58728-keriotosse.json) |
 | Kerker | 274786 | [274786-kerker.json](./274786-kerker.json) |
+| Kerkerkruip | 60120 | [60120-kerkerkruip.json](./60120-kerkerkruip.json) |
 | Kermit's Electronic StoryMaker | 65039 | [65039-kermits-electronic-storymaker.json](./65039-kermits-electronic-storymaker.json) |
 | Kernel Hearts | 318625 | [318625-kernel-hearts.json](./318625-kernel-hearts.json) |
 | Kernel Panic | 110886 | [110886-kernel-panic.json](./110886-kernel-panic.json) |
