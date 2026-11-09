@@ -1256,6 +1256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Market World | 415129 | [415129-magic-market-world.json](./415129-magic-market-world.json) |
 | Magic Masks | 99685 | [99685-magic-masks.json](./99685-magic-masks.json) |
 | Magic Match Adventures | 146478 | [146478-magic-match-adventures.json](./146478-magic-match-adventures.json) |
+| Magic Match: Journey to the Lands of Arcane | 63444 | [63444-magic-match-journey-to-the-lands-of-arcane.json](./63444-magic-match-journey-to-the-lands-of-arcane.json) |
 | Magic matchstick | 68580 | [68580-magic-matchstick.json](./68580-magic-matchstick.json) |
 | Magic Matchup | 140722 | [140722-magic-matchup.json](./140722-magic-matchup.json) |
 | Magic Math | 267551 | [267551-magic-math.json](./267551-magic-math.json) |
@@ -2462,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majin and the Forsaken Kingdom | 7062 | [7062-majin-and-the-forsaken-kingdom.json](./7062-majin-and-the-forsaken-kingdom.json) |
 | Majin Bone: Jikan to Kuukan no Majin | 61279 | [61279-majin-bone-jikan-to-kuukan-no-majin.json](./61279-majin-bone-jikan-to-kuukan-no-majin.json) |
 | Majin Island | 220293 | [220293-majin-island.json](./220293-majin-island.json) |
+| Majin Station | 63342 | [63342-majin-station.json](./63342-majin-station.json) |
 | Majin Tantei Nougami Neuro: Battle da yo! Hannin Shuugou! | 216201 | [216201-majin-tantei-nougami-neuro-battle-da-yo-hannin-shuugou.json](./216201-majin-tantei-nougami-neuro-battle-da-yo-hannin-shuugou.json) |
 | Majin Tantei Nougami Neuro: Neuro to Yako no Bishoku Sanmai | 124486 | [124486-majin-tantei-nougami-neuro-neuro-to-yako-no-bishoku-sanmai.json](./124486-majin-tantei-nougami-neuro-neuro-to-yako-no-bishoku-sanmai.json) |
 | Majin Tensei | 38231 | [38231-majin-tensei.json](./38231-majin-tensei.json) |
@@ -6148,6 +6150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -13887,6 +13890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirai Nikki: The 13th Diary Holder | 66417 | [66417-mirai-nikki-the-13th-diary-holder.json](./66417-mirai-nikki-the-13th-diary-holder.json) |
 | Mirai Ninja | 38548 | [38548-mirai-ninja.json](./38548-mirai-ninja.json) |
 | Mirai Ninja: Keigumo Kinin Gaiden | 70997 | [70997-mirai-ninja-keigumo-kinin-gaiden.json](./70997-mirai-ninja-keigumo-kinin-gaiden.json) |
+| Mirai no Kimi to, Subete no Uta ni | 63416 | [63416-mirai-no-kimi-to-subete-no-uta-ni.json](./63416-mirai-no-kimi-to-subete-no-uta-ni.json) |
 | Mirai no Uta to, Tsunagaru Hitomi | 228352 | [228352-mirai-no-uta-to-tsunagaru-hitomi.json](./228352-mirai-no-uta-to-tsunagaru-hitomi.json) |
 | Mirai Senshi: Lios | 48426 | [48426-mirai-senshi-lios.json](./48426-mirai-senshi-lios.json) |
 | Mirai Shinwa Jarvas | 48425 | [48425-mirai-shinwa-jarvas.json](./48425-mirai-shinwa-jarvas.json) |
@@ -20322,6 +20326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Music Run: Hall of the Mountain King | 266249 | [266249-music-run-hall-of-the-mountain-king.json](./266249-music-run-hall-of-the-mountain-king.json) |
 | Music School Pro | 93699 | [93699-music-school-pro.json](./93699-music-school-pro.json) |
 | Music Sim Empire | 298031 | [298031-music-sim-empire.json](./298031-music-sim-empire.json) |
+| Music Soul | 63339 | [63339-music-soul.json](./63339-music-soul.json) |
 | Music Star: Life Simulator | 232093 | [232093-music-star-life-simulator.json](./232093-music-star-life-simulator.json) |
 | Music Store Simulator | 207326 | [207326-music-store-simulator.json](./207326-music-store-simulator.json) |
 | Music Summoner | 249874 | [249874-music-summoner.json](./249874-music-summoner.json) |
