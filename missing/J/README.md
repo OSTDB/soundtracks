@@ -3634,6 +3634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart Math for Second Graders | 129147 | [129147-jumpstart-math-for-second-graders.json](./129147-jumpstart-math-for-second-graders.json) |
 | JumpStart Music | 72290 | [72290-jumpstart-music.json](./72290-jumpstart-music.json) |
 | JumpStart Numbers | 159196 | [159196-jumpstart-numbers.json](./159196-jumpstart-numbers.json) |
+| Jumpstart Pet Rescue | 50669 | [50669-jumpstart-pet-rescue.json](./50669-jumpstart-pet-rescue.json) |
 | JumpStart Phonics | 358412 | [358412-jumpstart-phonics.json](./358412-jumpstart-phonics.json) |
 | JumpStart Pre-K | 407433 | [407433-jumpstart-pre-k.json](./407433-jumpstart-pre-k.json) |
 | JumpStart Preschool | 129104 | [129104-jumpstart-preschool.json](./129104-jumpstart-preschool.json) |
@@ -3649,6 +3650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JumpStart Wildlife Safari Field Trip | 67348 | [67348-jumpstart-wildlife-safari-field-trip.json](./67348-jumpstart-wildlife-safari-field-trip.json) |
 | JumpStart: Animal Adventures | 71917 | [71917-jumpstart-animal-adventures.json](./71917-jumpstart-animal-adventures.json) |
 | JumpStart: Dino Adventure Field Trip | 49923 | [49923-jumpstart-dino-adventure-field-trip.json](./49923-jumpstart-dino-adventure-field-trip.json) |
+| JumpStart: Get Moving Family Fitness Sports Edition featuring Brooke Burke | 50663 | [50663-jumpstart-get-moving-family-fitness-sports-edition-featuring-brooke-burke.json](./50663-jumpstart-get-moving-family-fitness-sports-edition-featuring-brooke-burke.json) |
 | Jumpster | 94219 | [94219-jumpster.json](./94219-jumpster.json) |
 | Jumpsters | 54995 | [54995-jumpsters.json](./54995-jumpsters.json) |
 | JumpStream | 107374 | [107374-jumpstream.json](./107374-jumpstream.json) |
