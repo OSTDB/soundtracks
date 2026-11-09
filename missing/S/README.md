@@ -3592,6 +3592,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scrabble Blast! | 49337 | [49337-scrabble-blast.json](./49337-scrabble-blast.json) |
 | Scrabble Blitz | 209015 | [209015-scrabble-blitz.json](./209015-scrabble-blitz.json) |
 | Scrabble Classic | 85363 | [85363-scrabble-classic.json](./85363-scrabble-classic.json) |
+| Scrabble Complete | 71118 | [71118-scrabble-complete.json](./71118-scrabble-complete.json) |
 | Scrabble for Game Boy | 131453 | [131453-scrabble-for-game-boy.json](./131453-scrabble-for-game-boy.json) |
 | Scrabble Go | 206479 | [206479-scrabble-go.json](./206479-scrabble-go.json) |
 | Scrabble Interactive: 2003 Edition | 73995 | [73995-scrabble-interactive-2003-edition.json](./73995-scrabble-interactive-2003-edition.json) |
@@ -5116,6 +5117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Ages 2500 Vol. 23: Sega Memorial Selection | 69883 | [69883-sega-ages-2500-vol-23-sega-memorial-selection.json](./69883-sega-ages-2500-vol-23-sega-memorial-selection.json) |
 | Sega Ages 2500 Vol. 24: Last Bronx - Tokyo Bangaichi | 100110 | [100110-sega-ages-2500-vol-24-last-bronx-tokyo-bangaichi.json](./100110-sega-ages-2500-vol-24-last-bronx-tokyo-bangaichi.json) |
 | Sega Ages 2500 Vol. 25: Gunstar Heroes Treasure Box | 43223 | [43223-sega-ages-2500-vol-25-gunstar-heroes-treasure-box.json](./43223-sega-ages-2500-vol-25-gunstar-heroes-treasure-box.json) |
+| Sega Ages 2500 Vol. 26: Dynamite Deka | 71434 | [71434-sega-ages-2500-vol-26-dynamite-deka.json](./71434-sega-ages-2500-vol-26-dynamite-deka.json) |
 | Sega Ages 2500 Vol. 28: Tetris Collection | 64898 | [64898-sega-ages-2500-vol-28-tetris-collection.json](./64898-sega-ages-2500-vol-28-tetris-collection.json) |
 | Sega Ages 2500 Vol. 29: Monster World Complete Collection | 78047 | [78047-sega-ages-2500-vol-29-monster-world-complete-collection.json](./78047-sega-ages-2500-vol-29-monster-world-complete-collection.json) |
 | Sega Ages 2500 Vol. 3: Fantasy Zone | 72315 | [72315-sega-ages-2500-vol-3-fantasy-zone.json](./72315-sega-ages-2500-vol-3-fantasy-zone.json) |
@@ -21396,6 +21398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spearfishing | 51191 | [51191-spearfishing.json](./51191-spearfishing.json) |
 | Spearfishing - Deep Sea Scuba | 107088 | [107088-spearfishing-deep-sea-scuba.json](./107088-spearfishing-deep-sea-scuba.json) |
 | Spearhead | 200494 | [200494-spearhead.json](./200494-spearhead.json) |
+| Spearhead | 71115 | [71115-spearhead.json](./71115-spearhead.json) |
 | SpearHeads | 248722 | [248722-spearheads.json](./248722-spearheads.json) |
 | Spearmint Goose | 195195 | [195195-spearmint-goose.json](./195195-spearmint-goose.json) |
 | Spearrowblade | 383057 | [383057-spearrowblade.json](./383057-spearrowblade.json) |
@@ -23829,6 +23832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Kids 3-D: Game Over | 23693 | [23693-spy-kids-3-d-game-over.json](./23693-spy-kids-3-d-game-over.json) |
 | Spy Kids Challenger | 49385 | [49385-spy-kids-challenger.json](./49385-spy-kids-challenger.json) |
 | Spy Kids Learning Adventures: Mission - Man in the Moon | 73833 | [73833-spy-kids-learning-adventures-mission-man-in-the-moon.json](./73833-spy-kids-learning-adventures-mission-man-in-the-moon.json) |
+| Spy Kids Learning Adventures: Mission - The Candy Conspiracy | 71266 | [71266-spy-kids-learning-adventures-mission-the-candy-conspiracy.json](./71266-spy-kids-learning-adventures-mission-the-candy-conspiracy.json) |
 | Spy Kids Learning Adventures: Mission - The Nightmare Machine | 73205 | [73205-spy-kids-learning-adventures-mission-the-nightmare-machine.json](./73205-spy-kids-learning-adventures-mission-the-nightmare-machine.json) |
 | Spy Kids Learning Adventures: Mission - The Nightmare Machine | 77641 | [77641-spy-kids-learning-adventures-mission-the-nightmare-machine.json](./77641-spy-kids-learning-adventures-mission-the-nightmare-machine.json) |
 | Spy Kids Learning Adventures: Mission - The Underground Affair | 72075 | [72075-spy-kids-learning-adventures-mission-the-underground-affair.json](./72075-spy-kids-learning-adventures-mission-the-underground-affair.json) |
@@ -37262,6 +37266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | System Upkeep | 310123 | [310123-system-upkeep.json](./310123-system-upkeep.json) |
 | System Zero | 148896 | [148896-system-zero.json](./148896-system-zero.json) |
 | System_Reboot | 409207 | [409207-system-reboot.json](./409207-system-reboot.json) |
+| System's Twilight | 71120 | [71120-systems-twilight.json](./71120-systems-twilight.json) |
 | System32 | 167763 | [167763-system32.json](./167763-system32.json) |
 | Systematic Corruption | 315405 | [315405-systematic-corruption.json](./315405-systematic-corruption.json) |
 | Systematic Immunity | 34648 | [34648-systematic-immunity.json](./34648-systematic-immunity.json) |
