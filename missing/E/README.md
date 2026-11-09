@@ -1268,6 +1268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edgar's Room | 189939 | [189939-edgars-room.json](./189939-edgars-room.json) |
 | Edge Case | 208266 | [208266-edge-case.json](./208266-edge-case.json) |
 | Edge Extended | 391112 | [391112-edge-extended.json](./391112-edge-extended.json) |
+| Edge Grinder | 39079 | [39079-edge-grinder.json](./39079-edge-grinder.json) |
 | Edge Guardian | 31546 | [31546-edge-guardian.json](./31546-edge-guardian.json) |
 | Edge Islands | 224312 | [224312-edge-islands.json](./224312-edge-islands.json) |
 | Edge Not Found | 177234 | [177234-edge-not-found.json](./177234-edge-not-found.json) |
