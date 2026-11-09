@@ -2589,6 +2589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Roguelike of Musou Farming | 389364 | [389364-card-roguelike-of-musou-farming.json](./389364-card-roguelike-of-musou-farming.json) |
 | Card Sagas Wars | 136563 | [136563-card-sagas-wars.json](./136563-card-sagas-wars.json) |
 | Card Scramble: Viola's Diner | 354966 | [354966-card-scramble-violas-diner.json](./354966-card-scramble-violas-diner.json) |
+| Card Shark | 136773 | [136773-card-shark.json](./136773-card-shark.json) |
 | Card Shark Solitaire | 88827 | [88827-card-shark-solitaire.json](./88827-card-shark-solitaire.json) |
 | Card Shark: Deluxe Edition | 203686 | [203686-card-shark-deluxe-edition.json](./203686-card-shark-deluxe-edition.json) |
 | Card Sharks | 392954 | [392954-card-sharks.json](./392954-card-sharks.json) |
@@ -13190,6 +13191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Comatose | 369778 | [369778-comatose.json](./369778-comatose.json) |
 | Comb Rider | 362415 | [362415-comb-rider.json](./362415-comb-rider.json) |
 | Combat | 131545 | [131545-combat.json](./131545-combat.json) |
+| Combat | 16759 | [16759-combat.json](./16759-combat.json) |
 | Combat | 281214 | [281214-combat.json](./281214-combat.json) |
 | Combat | 300791 | [300791-combat.json](./300791-combat.json) |
 | Combat 3 | 309974 | [309974-combat-3.json](./309974-combat-3.json) |
@@ -17335,6 +17337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crayon Mandala | 411814 | [411814-crayon-mandala.json](./411814-crayon-mandala.json) |
 | Crayon Pairs | 105945 | [105945-crayon-pairs.json](./105945-crayon-pairs.json) |
 | Crayon Physics | 70935 | [70935-crayon-physics.json](./70935-crayon-physics.json) |
+| Crayon Physics Deluxe | 14946 | [14946-crayon-physics-deluxe.json](./14946-crayon-physics-deluxe.json) |
 | Crayon Poke | 101918 | [101918-crayon-poke.json](./101918-crayon-poke.json) |
 | Crayon Run | 106365 | [106365-crayon-run.json](./106365-crayon-run.json) |
 | Crayon Sea Friends | 399629 | [399629-crayon-sea-friends.json](./399629-crayon-sea-friends.json) |
@@ -17895,6 +17898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Feature | 397643 | [397643-creature-feature.json](./397643-creature-feature.json) |
 | Creature Hunt | 116472 | [116472-creature-hunt.json](./116472-creature-hunt.json) |
 | Creature Hunter | 199659 | [199659-creature-hunter.json](./199659-creature-hunter.json) |
+| Creature in the Well | 116417 | [116417-creature-in-the-well.json](./116417-creature-in-the-well.json) |
 | Creature in the Well: Collector's Edition | 254227 | [254227-creature-in-the-well-collectors-edition.json](./254227-creature-in-the-well-collectors-edition.json) |
 | Creature Keeper | 127563 | [127563-creature-keeper.json](./127563-creature-keeper.json) |
 | Creature Kitchen | 363954 | [363954-creature-kitchen.json](./363954-creature-kitchen.json) |
@@ -19978,6 +19982,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cube Escape: Paradox | 100667 | [100667-cube-escape-paradox.json](./100667-cube-escape-paradox.json) |
 | Cube Escape: Paradox - Chapter 2 | 133968 | [133968-cube-escape-paradox-chapter-2.json](./133968-cube-escape-paradox-chapter-2.json) |
 | Cube Escape: Seasons | 75092 | [75092-cube-escape-seasons.json](./75092-cube-escape-seasons.json) |
+| Cube Escape: The Cave | 75131 | [75131-cube-escape-the-cave.json](./75131-cube-escape-the-cave.json) |
 | Cube Escape: The Lake | 75124 | [75124-cube-escape-the-lake.json](./75124-cube-escape-the-lake.json) |
 | Cube Escape: The Mill | 75128 | [75128-cube-escape-the-mill.json](./75128-cube-escape-the-mill.json) |
 | Cube Escape: Theatre | 75130 | [75130-cube-escape-theatre.json](./75130-cube-escape-theatre.json) |
