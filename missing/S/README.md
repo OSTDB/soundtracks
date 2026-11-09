@@ -619,6 +619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saikoro Saiko: Memento Mori | 314824 | [314824-saikoro-saiko-memento-mori.json](./314824-saikoro-saiko-memento-mori.json) |
 | Saikoro Saiko: Miss Fortune | 314826 | [314826-saikoro-saiko-miss-fortune.json](./314826-saikoro-saiko-miss-fortune.json) |
 | Saikoro Saiko: Promises | 314825 | [314825-saikoro-saiko-promises.json](./314825-saikoro-saiko-promises.json) |
+| Saikousoku Shikou Shogi Mahjong | 37865 | [37865-saikousoku-shikou-shogi-mahjong.json](./37865-saikousoku-shikou-shogi-mahjong.json) |
 | Saikuru | 287059 | [287059-saikuru.json](./287059-saikuru.json) |
 | Saikyo no Mahjong 3D | 389263 | [389263-saikyo-no-mahjong-3d.json](./389263-saikyo-no-mahjong-3d.json) |
 | Saikyo no Mahjong: 100 Mannin no Tame no Mahjong Dojo | 222373 | [222373-saikyo-no-mahjong-100-mannin-no-tame-no-mahjong-dojo.json](./222373-saikyo-no-mahjong-100-mannin-no-tame-no-mahjong-dojo.json) |
@@ -1015,6 +1016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura, Moyu.: As the Night's, Reincarnation | 137106 | [137106-sakura-moyu-as-the-nights-reincarnation.json](./137106-sakura-moyu-as-the-nights-reincarnation.json) |
 | Sakura, The Jirai-kei Magical Girl | 382253 | [382253-sakura-the-jirai-kei-magical-girl.json](./382253-sakura-the-jirai-kei-magical-girl.json) |
 | Sakuraba Ema's Intertwining Threshold | 418771 | [418771-sakuraba-emas-intertwining-threshold.json](./418771-sakuraba-emas-intertwining-threshold.json) |
+| Sakurai Shouichi no Jankiryuu Mahjong Hisshouhou | 37864 | [37864-sakurai-shouichi-no-jankiryuu-mahjong-hisshouhou.json](./37864-sakurai-shouichi-no-jankiryuu-mahjong-hisshouhou.json) |
 | Sakurairo Prism | 234149 | [234149-sakurairo-prism.json](./234149-sakurairo-prism.json) |
 | Sakurairo Prism: Beyond the Bloom | 419611 | [419611-sakurairo-prism-beyond-the-bloom.json](./419611-sakurairo-prism-beyond-the-bloom.json) |
 | Sakurazaka Shouboutai | 137323 | [137323-sakurazaka-shouboutai.json](./137323-sakurazaka-shouboutai.json) |
@@ -1757,6 +1759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangokushi DS 2 | 59194 | [59194-sangokushi-ds-2.json](./59194-sangokushi-ds-2.json) |
 | Sangokushi DS 3 | 59278 | [59278-sangokushi-ds-3.json](./59278-sangokushi-ds-3.json) |
 | Sangokushi Eiketsuden | 327954 | [327954-sangokushi-eiketsuden.json](./327954-sangokushi-eiketsuden.json) |
+| Sangokushi Eiketsuden | 37863 | [37863-sangokushi-eiketsuden.json](./37863-sangokushi-eiketsuden.json) |
 | Sangokushi Eiketsuden | 55809 | [55809-sangokushi-eiketsuden.json](./55809-sangokushi-eiketsuden.json) |
 | Sangokushi for WonderSwan | 37494 | [37494-sangokushi-for-wonderswan.json](./37494-sangokushi-for-wonderswan.json) |
 | Sangokushi Game Boy-ban | 349837 | [349837-sangokushi-game-boy-ban.json](./349837-sangokushi-game-boy-ban.json) |
@@ -1768,6 +1771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangokushi Nendaiki DX | 290123 | [290123-sangokushi-nendaiki-dx.json](./290123-sangokushi-nendaiki-dx.json) |
 | Sangokushi Returns | 97459 | [97459-sangokushi-returns.json](./97459-sangokushi-returns.json) |
 | Sangokushi Rumble | 289002 | [289002-sangokushi-rumble.json](./289002-sangokushi-rumble.json) |
+| Sangokushi Seishi: Tenbu Spirits | 37862 | [37862-sangokushi-seishi-tenbu-spirits.json](./37862-sangokushi-seishi-tenbu-spirits.json) |
 | Sangokushi Sousouden | 213722 | [213722-sangokushi-sousouden.json](./213722-sangokushi-sousouden.json) |
 | Sangokushi Tactics | 341156 | [341156-sangokushi-tactics.json](./341156-sangokushi-tactics.json) |
 | Sangokushi Taisen | 27624 | [27624-sangokushi-taisen.json](./27624-sangokushi-taisen.json) |
@@ -1851,6 +1855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sankhara | 156130 | [156130-sankhara.json](./156130-sankhara.json) |
 | Sanki | 178517 | [178517-sanki.json](./178517-sanki.json) |
 | Sankokushi Blast: Shounen Heroes | 220322 | [220322-sankokushi-blast-shounen-heroes.json](./220322-sankokushi-blast-shounen-heroes.json) |
+| Sankyo Fever! Fever! | 37861 | [37861-sankyo-fever-fever.json](./37861-sankyo-fever-fever.json) |
 | Sanma no Meitantei | 48402 | [48402-sanma-no-meitantei.json](./48402-sanma-no-meitantei.json) |
 | Sanonta | 236965 | [236965-sanonta.json](./236965-sanonta.json) |
 | Sanou Kaihatsu Series 1 Zukei Ninshiki | 303760 | [303760-sanou-kaihatsu-series-1-zukei-ninshiki.json](./303760-sanou-kaihatsu-series-1-zukei-ninshiki.json) |
@@ -1870,6 +1875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanrio Danshi: Watashi, Koi Wo, Shirimashita | 229031 | [229031-sanrio-danshi-watashi-koi-wo-shirimashita.json](./229031-sanrio-danshi-watashi-koi-wo-shirimashita.json) |
 | Sanrio Kawaii Me Live! | 408855 | [408855-sanrio-kawaii-me-live.json](./408855-sanrio-kawaii-me-live.json) |
 | Sanrio Puroland: All-Characters | 49789 | [49789-sanrio-puroland-all-characters.json](./49789-sanrio-puroland-all-characters.json) |
+| Sanrio Shanghai | 37860 | [37860-sanrio-shanghai.json](./37860-sanrio-shanghai.json) |
 | Sanrio Timenet World | 302682 | [302682-sanrio-timenet-world.json](./302682-sanrio-timenet-world.json) |
 | Sanrio TimeNet: Kako-hen | 97415 | [97415-sanrio-timenet-kako-hen.json](./97415-sanrio-timenet-kako-hen.json) |
 | Sanrio TimeNet: Mirai-hen | 229080 | [229080-sanrio-timenet-mirai-hen.json](./229080-sanrio-timenet-mirai-hen.json) |
@@ -19632,6 +19638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound Mind | 275662 | [275662-sound-mind.json](./275662-sound-mind.json) |
 | Sound Novel Evolution 1: Otogirisou Sosei-Hen | 194817 | [194817-sound-novel-evolution-1-otogirisou-sosei-hen.json](./194817-sound-novel-evolution-1-otogirisou-sosei-hen.json) |
 | Sound Novel Evolution 2: Kamaitachi no Yoru Tokubetsu-hen | 178334 | [178334-sound-novel-evolution-2-kamaitachi-no-yoru-tokubetsu-hen.json](./178334-sound-novel-evolution-2-kamaitachi-no-yoru-tokubetsu-hen.json) |
+| Sound Novel Tsukuuru | 37851 | [37851-sound-novel-tsukuuru.json](./37851-sound-novel-tsukuuru.json) |
 | Sound Novel Tsukuuru Taiou: Okiraku Kouza | 234882 | [234882-sound-novel-tsukuuru-taiou-okiraku-kouza.json](./234882-sound-novel-tsukuuru-taiou-okiraku-kouza.json) |
 | Sound Novel Tsukuuru Taiou: Zapping Gekijou | 234883 | [234883-sound-novel-tsukuuru-taiou-zapping-gekijou.json](./234883-sound-novel-tsukuuru-taiou-zapping-gekijou.json) |
 | Sound Novel: Machi | 8169 | [8169-sound-novel-machi.json](./8169-sound-novel-machi.json) |
@@ -21442,6 +21449,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark the Battle Dog | 166919 | [166919-spark-the-battle-dog.json](./166919-spark-the-battle-dog.json) |
 | Spark the Electric Jester 2 | 118119 | [118119-spark-the-electric-jester-2.json](./118119-spark-the-electric-jester-2.json) |
 | Spark the Electric Jester: Recharged | 337175 | [337175-spark-the-electric-jester-recharged.json](./337175-spark-the-electric-jester-recharged.json) |
+| Spark World | 37850 | [37850-spark-world.json](./37850-spark-world.json) |
 | Spark: Hero Tactics | 335596 | [335596-spark-hero-tactics.json](./335596-spark-hero-tactics.json) |
 | Spark! Photon Blast | 369082 | [369082-spark-photon-blast.json](./369082-spark-photon-blast.json) |
 | SparkBlast | 301507 | [301507-sparkblast.json](./301507-sparkblast.json) |
@@ -23889,6 +23897,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sprint RPG | 119430 | [119430-sprint-rpg.json](./119430-sprint-rpg.json) |
 | Sprint Star: A Running Manager | 310100 | [310100-sprint-star-a-running-manager.json](./310100-sprint-star-a-running-manager.json) |
 | Sprint.Fire | 235655 | [235655-sprint-fire.json](./235655-sprint-fire.json) |
+| Sprinter Monogatari: Mezase!! Ikkaku Senkin | 37849 | [37849-sprinter-monogatari-mezase-ikkaku-senkin.json](./37849-sprinter-monogatari-mezase-ikkaku-senkin.json) |
 | SprintLine | 287909 | [287909-sprintline.json](./287909-sprintline.json) |
 | Sprite Fantasia | 174861 | [174861-sprite-fantasia.json](./174861-sprite-fantasia.json) |
 | Sprite Fight | 207639 | [207639-sprite-fight.json](./207639-sprite-fight.json) |
@@ -24508,6 +24517,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SSX Snowboarder | 251301 | [251301-ssx-snowboarder.json](./251301-ssx-snowboarder.json) |
 | SSX Tricky | 186240 | [186240-ssx-tricky.json](./186240-ssx-tricky.json) |
 | SSX: Out of Bounds | 47565 | [47565-ssx-out-of-bounds.json](./47565-ssx-out-of-bounds.json) |
+| St Andrews: Eikou to Rekishi no Old Course | 37848 | [37848-st-andrews-eikou-to-rekishi-no-old-course.json](./37848-st-andrews-eikou-to-rekishi-no-old-course.json) |
 | St Dragon | 45235 | [45235-st-dragon.json](./45235-st-dragon.json) |
 | St George | 74135 | [74135-st-george.json](./74135-st-george.json) |
 | ST Wars | 44081 | [44081-st-wars.json](./44081-st-wars.json) |
@@ -30792,6 +30802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sugoro Quest: Dice no Senshi-tachi | 48621 | [48621-sugoro-quest-dice-no-senshi-tachi.json](./48621-sugoro-quest-dice-no-senshi-tachi.json) |
 | Sugoro Quest++ Dicenics | 37807 | [37807-sugoro-quest-dicenics.json](./37807-sugoro-quest-dicenics.json) |
 | Sugoroku Casino Party | 323443 | [323443-sugoroku-casino-party.json](./323443-sugoroku-casino-party.json) |
+| Sugoroku Ginga Senki | 37845 | [37845-sugoroku-ginga-senki.json](./37845-sugoroku-ginga-senki.json) |
 | Sugoroku New Year's Party | 379373 | [379373-sugoroku-new-years-party.json](./379373-sugoroku-new-years-party.json) |
 | Sugu Suro Duo: New Pulsar R&V | 142693 | [142693-sugu-suro-duo-new-pulsar-r-and-v.json](./142693-sugu-suro-duo-new-pulsar-r-and-v.json) |
 | Suguri | 80489 | [80489-suguri.json](./80489-suguri.json) |
@@ -31703,6 +31714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Badminton 2010 HD | 175483 | [175483-super-badminton-2010-hd.json](./175483-super-badminton-2010-hd.json) |
 | Super Bafo Championship | 306784 | [306784-super-bafo-championship.json](./306784-super-bafo-championship.json) |
 | Super Bagman | 40003 | [40003-super-bagman.json](./40003-super-bagman.json) |
+| Super Baken-ou '95 | 37844 | [37844-super-baken-ou-95.json](./37844-super-baken-ou-95.json) |
 | Super Baldy Kart | 268355 | [268355-super-baldy-kart.json](./268355-super-baldy-kart.json) |
 | Super Ball Arena | 215707 | [215707-super-ball-arena.json](./215707-super-ball-arena.json) |
 | Super Ball Juggling | 233540 | [233540-super-ball-juggling.json](./233540-super-ball-juggling.json) |
@@ -31754,6 +31766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bikkuriman: Densetsu no Sekiban | 49138 | [49138-super-bikkuriman-densetsu-no-sekiban.json](./49138-super-bikkuriman-densetsu-no-sekiban.json) |
 | Super Bio-Man | 265603 | [265603-super-bio-man.json](./265603-super-bio-man.json) |
 | Super Bird | 267966 | [267966-super-bird.json](./267966-super-bird.json) |
+| Super Birdie Rush | 37843 | [37843-super-birdie-rush.json](./37843-super-birdie-rush.json) |
 | Super Birdo 64 | 300686 | [300686-super-birdo-64.json](./300686-super-birdo-64.json) |
 | Super Bishi Bashi Champ | 83419 | [83419-super-bishi-bashi-champ.json](./83419-super-bishi-bashi-champ.json) |
 | Super Bit Adventure: Paragons of Life | 87977 | [87977-super-bit-adventure-paragons-of-life.json](./87977-super-bit-adventure-paragons-of-life.json) |
@@ -31806,6 +31819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bomberman R: Shiny Edition | 103368 | [103368-super-bomberman-r-shiny-edition.json](./103368-super-bomberman-r-shiny-edition.json) |
 | Super Bomberman: Panic Bomber W | 42546 | [42546-super-bomberman-panic-bomber-w.json](./42546-super-bomberman-panic-bomber-w.json) |
 | Super Bombinhas | 185968 | [185968-super-bombinhas.json](./185968-super-bombinhas.json) |
+| Super Bombliss | 37842 | [37842-super-bombliss.json](./37842-super-bombliss.json) |
 | Super Bonk | 9028 | [9028-super-bonk.json](./9028-super-bonk.json) |
 | Super BOO Quest | 110180 | [110180-super-boo-quest.json](./110180-super-boo-quest.json) |
 | Super Bora Dragon Eyes | 122024 | [122024-super-bora-dragon-eyes.json](./122024-super-bora-dragon-eyes.json) |
@@ -31907,6 +31921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Cars | 12226 | [12226-super-cars.json](./12226-super-cars.json) |
 | Super Cars II | 12227 | [12227-super-cars-ii.json](./12227-super-cars-ii.json) |
 | Super Casino 2 | 38304 | [38304-super-casino-2.json](./38304-super-casino-2.json) |
+| Super Castles | 37841 | [37841-super-castles.json](./37841-super-castles.json) |
 | Super Castlevania IV | 1124 | [1124-super-castlevania-iv.json](./1124-super-castlevania-iv.json) |
 | Super Castlevania IV: Other Castle | 309603 | [309603-super-castlevania-iv-other-castle.json](./309603-super-castlevania-iv-other-castle.json) |
 | Super Castlevania IV: Rumble | 377733 | [377733-super-castlevania-iv-rumble.json](./377733-super-castlevania-iv-rumble.json) |
@@ -31948,6 +31963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Chinese Fighter EX | 50557 | [50557-super-chinese-fighter-ex.json](./50557-super-chinese-fighter-ex.json) |
 | Super Chinese Land 1.2.3' | 63969 | [63969-super-chinese-land-1-2-3.json](./63969-super-chinese-land-1-2-3.json) |
 | Super Chinese Land 3 | 63978 | [63978-super-chinese-land-3.json](./63978-super-chinese-land-3.json) |
+| Super Chinese World 2: Uchuu Ichi Butou Taikai | 37840 | [37840-super-chinese-world-2-uchuu-ichi-butou-taikai.json](./37840-super-chinese-world-2-uchuu-ichi-butou-taikai.json) |
 | Super Chinese World 3: Chou Jigen Daisakusen | 42304 | [42304-super-chinese-world-3-chou-jigen-daisakusen.json](./42304-super-chinese-world-3-chou-jigen-daisakusen.json) |
 | Super Chipflake Ü: Quest for the Uncooked Schnitzel | 338787 | [338787-super-chipflake-u-quest-for-the-uncooked-schnitzel.json](./338787-super-chipflake-u-quest-for-the-uncooked-schnitzel.json) |
 | Super Chopper | 154235 | [154235-super-chopper.json](./154235-super-chopper.json) |
@@ -32161,6 +32177,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Double Dragon | 274439 | [274439-super-double-dragon.json](./274439-super-double-dragon.json) |
 | Super Double Dragon | 9929 | [9929-super-double-dragon.json](./9929-super-double-dragon.json) |
 | Super Double Impact | 98031 | [98031-super-double-impact.json](./98031-super-double-impact.json) |
+| Super Double Yakuman | 37839 | [37839-super-double-yakuman.json](./37839-super-double-yakuman.json) |
+| Super Double Yakuman II | 37838 | [37838-super-double-yakuman-ii.json](./37838-super-double-yakuman-ii.json) |
 | Super Doubles Tennis | 40425 | [40425-super-doubles-tennis.json](./40425-super-doubles-tennis.json) |
 | Super Dr Corona | 277930 | [277930-super-dr-corona.json](./277930-super-dr-corona.json) |
 | Super Drag Race | 170231 | [170231-super-drag-race.json](./170231-super-drag-race.json) |
@@ -32238,8 +32256,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Famicom Wars BS Ban: Noakazan-tou | 235065 | [235065-super-famicom-wars-bs-ban-noakazan-tou.json](./235065-super-famicom-wars-bs-ban-noakazan-tou.json) |
 | Super Famicom Wars BS Ban: Soramame-jima | 235062 | [235062-super-famicom-wars-bs-ban-soramame-jima.json](./235062-super-famicom-wars-bs-ban-soramame-jima.json) |
 | Super Famicom Wars BS Ban: Tsukinowa-jima | 235063 | [235063-super-famicom-wars-bs-ban-tsukinowa-jima.json](./235063-super-famicom-wars-bs-ban-tsukinowa-jima.json) |
+| Super Family Circuit | 37837 | [37837-super-family-circuit.json](./37837-super-family-circuit.json) |
 | Super Family Gelände | 42534 | [42534-super-family-gelande.json](./42534-super-family-gelande.json) |
 | Super Famista | 218386 | [218386-super-famista.json](./218386-super-famista.json) |
+| Super Famista 2 | 37836 | [37836-super-famista-2.json](./37836-super-famista-2.json) |
+| Super Famista 3 | 37835 | [37835-super-famista-3.json](./37835-super-famista-3.json) |
+| Super Famista 4 | 37834 | [37834-super-famista-4.json](./37834-super-famista-4.json) |
+| Super Famista 5 | 37833 | [37833-super-famista-5.json](./37833-super-famista-5.json) |
 | Super Fancy Pants Adventure | 51485 | [51485-super-fancy-pants-adventure.json](./51485-super-fancy-pants-adventure.json) |
 | Super Fancy Pants Adventure: Chapter 2 | 143367 | [143367-super-fancy-pants-adventure-chapter-2.json](./143367-super-fancy-pants-adventure-chapter-2.json) |
 | Super Fangame Maker | 322607 | [322607-super-fangame-maker.json](./322607-super-fangame-maker.json) |
@@ -32365,6 +32388,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Golf - Golf Game | 87641 | [87641-super-golf-golf-game.json](./87641-super-golf-golf-game.json) |
 | Super Golf 2018 | 102972 | [102972-super-golf-2018.json](./102972-super-golf-2018.json) |
 | Super Golf World | 256751 | [256751-super-golf-world.json](./256751-super-golf-world.json) |
+| Super Gomoku Narabe: Renju | 37832 | [37832-super-gomoku-narabe-renju.json](./37832-super-gomoku-narabe-renju.json) |
+| Super Gomoku Shogi | 37831 | [37831-super-gomoku-shogi.json](./37831-super-gomoku-shogi.json) |
 | Super Goo Goo | 35563 | [35563-super-goo-goo.json](./35563-super-goo-goo.json) |
 | Super Goomba Math | 380984 | [380984-super-goomba-math.json](./380984-super-goomba-math.json) |
 | Super Goribei | 86336 | [86336-super-goribei.json](./86336-super-goribei.json) |
@@ -32404,6 +32429,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Hamster Ball | 227869 | [227869-super-hamster-ball.json](./227869-super-hamster-ball.json) |
 | Super Hamster Havoc | 197197 | [197197-super-hamster-havoc.json](./197197-super-hamster-havoc.json) |
 | Super Hamsterball Racers | 185510 | [185510-super-hamsterball-racers.json](./185510-super-hamsterball-racers.json) |
+| Super Hanafuda | 37830 | [37830-super-hanafuda.json](./37830-super-hanafuda.json) |
+| Super Hanafuda 2 | 37829 | [37829-super-hanafuda-2.json](./37829-super-hanafuda-2.json) |
 | Super Hang-On | 6145 | [6145-super-hang-on.json](./6145-super-hang-on.json) |
 | Super Hangman | 310073 | [310073-super-hangman.json](./310073-super-hangman.json) |
 | Super Happi Quest 3 | 299733 | [299733-super-happi-quest-3.json](./299733-super-happi-quest-3.json) |
@@ -32458,6 +32485,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Holo Wars | 394807 | [394807-super-holo-wars.json](./394807-super-holo-wars.json) |
 | Super Holobunnies: Pause Café | 135649 | [135649-super-holobunnies-pause-cafe.json](./135649-super-holobunnies-pause-cafe.json) |
 | Super Homebrew War | 134356 | [134356-super-homebrew-war.json](./134356-super-homebrew-war.json) |
+| Super Honmei: G1 Seiha | 37827 | [37827-super-honmei-g1-seiha.json](./37827-super-honmei-g1-seiha.json) |
 | Super Hoodie Bros | 378771 | [378771-super-hoodie-bros.json](./378771-super-hoodie-bros.json) |
 | Super Hook Girl | 307969 | [307969-super-hook-girl.json](./307969-super-hook-girl.json) |
 | Super Hook Girl Gaiden: For Smile Giving Birthday | 307972 | [307972-super-hook-girl-gaiden-for-smile-giving-birthday.json](./307972-super-hook-girl-gaiden-for-smile-giving-birthday.json) |
@@ -32482,6 +32510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ice Hockey | 38196 | [38196-super-ice-hockey.json](./38196-super-ice-hockey.json) |
 | Super Ick | 193502 | [193502-super-ick.json](./193502-super-ick.json) |
 | Super Idle Cats - Tap Farm | 106965 | [106965-super-idle-cats-tap-farm.json](./106965-super-idle-cats-tap-farm.json) |
+| Super Igo Go-ou | 37828 | [37828-super-igo-go-ou.json](./37828-super-igo-go-ou.json) |
 | Super II Sonik | 342990 | [342990-super-ii-sonik.json](./342990-super-ii-sonik.json) |
 | Super Ileheart Quest | 113435 | [113435-super-ileheart-quest.json](./113435-super-ileheart-quest.json) |
 | Super Impossible Road | 33503 | [33503-super-impossible-road.json](./33503-super-impossible-road.json) |
@@ -32506,6 +32535,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Jagger Bomb 2: Go East | 328088 | [328088-super-jagger-bomb-2-go-east.json](./328088-super-jagger-bomb-2-go-east.json) |
 | Super Jagua | 31656 | [31656-super-jagua.json](./31656-super-jagua.json) |
 | Super James Pond | 368907 | [368907-super-james-pond.json](./368907-super-james-pond.json) |
+| Super Jangou | 37826 | [37826-super-jangou.json](./37826-super-jangou.json) |
 | Super Jazz Man | 57626 | [57626-super-jazz-man.json](./57626-super-jazz-man.json) |
 | Super Jeopardy! | 48698 | [48698-super-jeopardy.json](./48698-super-jeopardy.json) |
 | Super Jet Juck | 111685 | [111685-super-jet-juck.json](./111685-super-jet-juck.json) |
@@ -32679,6 +32709,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kawaii! Finding Mistakes in Panda Photos | 310446 | [310446-super-kawaii-finding-mistakes-in-panda-photos.json](./310446-super-kawaii-finding-mistakes-in-panda-photos.json) |
 | Super Kayak Maker | 138495 | [138495-super-kayak-maker.json](./138495-super-kayak-maker.json) |
 | Super Keepy Ups | 111852 | [111852-super-keepy-ups.json](./111852-super-keepy-ups.json) |
+| Super Keiba | 37822 | [37822-super-keiba.json](./37822-super-keiba.json) |
+| Super Keiba 2 | 37821 | [37821-super-keiba-2.json](./37821-super-keiba-2.json) |
+| Super Keirin | 37820 | [37820-super-keirin.json](./37820-super-keirin.json) |
 | Super Kenney | 209683 | [209683-super-kenney.json](./209683-super-kenney.json) |
 | Super Kick-Off | 45797 | [45797-super-kick-off.json](./45797-super-kick-off.json) |
 | Super Kickers League | 115435 | [115435-super-kickers-league.json](./115435-super-kickers-league.json) |
@@ -32709,9 +32742,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Kong | 64808 | [64808-super-kong.json](./64808-super-kong.json) |
 | Super Koopa RPG: Here Comes the Koopa Bros.! | 338834 | [338834-super-koopa-rpg-here-comes-the-koopa-bros.json](./338834-super-koopa-rpg-here-comes-the-koopa-bros.json) |
 | Super Korotama | 125712 | [125712-super-korotama.json](./125712-super-korotama.json) |
+| Super Koukou Yakyuu: Ichikyuu Jikkon | 37819 | [37819-super-koukou-yakyuu-ichikyuu-jikkon.json](./37819-super-koukou-yakyuu-ichikyuu-jikkon.json) |
 | Super Krabs 64 | 313398 | [313398-super-krabs-64.json](./313398-super-krabs-64.json) |
 | Super Kreml Kart Super Rally | 71705 | [71705-super-kreml-kart-super-rally.json](./71705-super-kreml-kart-super-rally.json) |
+| Super Kyousouba: Kaze no Silpheed | 37818 | [37818-super-kyousouba-kaze-no-silpheed.json](./37818-super-kyousouba-kaze-no-silpheed.json) |
+| Super Kyoutei | 37817 | [37817-super-kyoutei.json](./37817-super-kyoutei.json) |
 | Super Kyoutei 2 | 38194 | [38194-super-kyoutei-2.json](./38194-super-kyoutei-2.json) |
+| Super Kyuukyoku Harikiri Stadium | 37816 | [37816-super-kyuukyoku-harikiri-stadium.json](./37816-super-kyuukyoku-harikiri-stadium.json) |
 | Super Kyuukyoku Harikiri Stadium 2 | 37815 | [37815-super-kyuukyoku-harikiri-stadium-2.json](./37815-super-kyuukyoku-harikiri-stadium-2.json) |
 | Super Lander | 70230 | [70230-super-lander.json](./70230-super-lander.json) |
 | Super Laser Fury | 240697 | [240697-super-laser-fury.json](./240697-super-laser-fury.json) |
@@ -33619,6 +33656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Nichibutsu Mahjong | 37804 | [37804-super-nichibutsu-mahjong.json](./37804-super-nichibutsu-mahjong.json) |
 | Super Nichibutsu Mahjong 2: Zenkoku Seiha-hen | 37803 | [37803-super-nichibutsu-mahjong-2-zenkoku-seiha-hen.json](./37803-super-nichibutsu-mahjong-2-zenkoku-seiha-hen.json) |
 | Super Nichibutsu Mahjong 3: Yoshimoto Gekijou-hen | 37802 | [37802-super-nichibutsu-mahjong-3-yoshimoto-gekijou-hen.json](./37802-super-nichibutsu-mahjong-3-yoshimoto-gekijou-hen.json) |
+| Super Nichibutsu Mahjong 4: Kiso Kenkyu-hen | 37859 | [37859-super-nichibutsu-mahjong-4-kiso-kenkyu-hen.json](./37859-super-nichibutsu-mahjong-4-kiso-kenkyu-hen.json) |
 | Super NicoNico Kart | 198462 | [198462-super-niconico-kart.json](./198462-super-niconico-kart.json) |
 | Super Night at the Gates of Hell | 263538 | [263538-super-night-at-the-gates-of-hell.json](./263538-super-night-at-the-gates-of-hell.json) |
 | Super Night Riders | 19887 | [19887-super-night-riders.json](./19887-super-night-riders.json) |
@@ -33668,9 +33706,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Off Road | 365894 | [365894-super-off-road.json](./365894-super-off-road.json) |
 | Super Off Road Track Pack | 245280 | [245280-super-off-road-track-pack.json](./245280-super-off-road-track-pack.json) |
 | Super Off Road: The Baja | 42575 | [42575-super-off-road-the-baja.json](./42575-super-off-road-the-baja.json) |
+| Super Okuman Chouja Game | 37858 | [37858-super-okuman-chouja-game.json](./37858-super-okuman-chouja-game.json) |
 | Super One More Jump | 83730 | [83730-super-one-more-jump.json](./83730-super-one-more-jump.json) |
 | Super Onion Boy 2 | 154002 | [154002-super-onion-boy-2.json](./154002-super-onion-boy-2.json) |
 | Super Onion Boy+ | 292476 | [292476-super-onion-boy.json](./292476-super-onion-boy.json) |
+| Super Oozumou Netsusen Dai-Ichiban | 37857 | [37857-super-oozumou-netsusen-dai-ichiban.json](./37857-super-oozumou-netsusen-dai-ichiban.json) |
 | Super Orb Bros. | 142396 | [142396-super-orb-bros.json](./142396-super-orb-bros.json) |
 | Super Orb Collector | 115213 | [115213-super-orb-collector.json](./115213-super-orb-collector.json) |
 | Super Orbit | 344563 | [344563-super-orbit.json](./344563-super-orbit.json) |
@@ -33686,7 +33726,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pac-Man | 345360 | [345360-super-pac-man.json](./345360-super-pac-man.json) |
 | Super Pac-Man Collection | 219418 | [219418-super-pac-man-collection.json](./219418-super-pac-man-collection.json) |
 | Super Pac-Man Pinball | 279998 | [279998-super-pac-man-pinball.json](./279998-super-pac-man-pinball.json) |
+| Super Pachi-Slot Mahjong | 37856 | [37856-super-pachi-slot-mahjong.json](./37856-super-pachi-slot-mahjong.json) |
 | Super Pachinko | 46663 | [46663-super-pachinko.json](./46663-super-pachinko.json) |
+| Super Pachinko Taisen | 37855 | [37855-super-pachinko-taisen.json](./37855-super-pachinko-taisen.json) |
 | Super Pads: Become a DJ | 96776 | [96776-super-pads-become-a-dj.json](./96776-super-pads-become-a-dj.json) |
 | Super Painter | 48372 | [48372-super-painter.json](./48372-super-painter.json) |
 | Super Panda Adventures | 10933 | [10933-super-panda-adventures.json](./10933-super-panda-adventures.json) |
@@ -33798,6 +33840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Pro Decathlon | 41454 | [41454-super-pro-decathlon.json](./41454-super-pro-decathlon.json) |
 | Super Pro Football | 41453 | [41453-super-pro-football.json](./41453-super-pro-football.json) |
 | Super Producers | 98008 | [98008-super-producers.json](./98008-super-producers.json) |
+| Super Professional Baseball II | 37854 | [37854-super-professional-baseball-ii.json](./37854-super-professional-baseball-ii.json) |
 | Super Professor | 44275 | [44275-super-professor.json](./44275-super-professor.json) |
 | Super Psycho Baseball | 227421 | [227421-super-psycho-baseball.json](./227421-super-psycho-baseball.json) |
 | Super Puck Monster | 218774 | [218774-super-puck-monster.json](./218774-super-puck-monster.json) |
@@ -33872,6 +33915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Real Mahjong PII & PIII Custom | 342017 | [342017-super-real-mahjong-pii-and-piii-custom.json](./342017-super-real-mahjong-pii-and-piii-custom.json) |
 | Super Real Mahjong PIII | 98195 | [98195-super-real-mahjong-piii.json](./98195-super-real-mahjong-piii.json) |
 | Super Real Mahjong PIV | 347616 | [347616-super-real-mahjong-piv.json](./347616-super-real-mahjong-piv.json) |
+| Super Real Mahjong PIV | 37853 | [37853-super-real-mahjong-piv.json](./37853-super-real-mahjong-piv.json) |
 | Super Real Mahjong PIV + Aishou Shindan | 347619 | [347619-super-real-mahjong-piv-aishou-shindan.json](./347619-super-real-mahjong-piv-aishou-shindan.json) |
 | Super Real Mahjong PIV Custom | 342013 | [342013-super-real-mahjong-piv-custom.json](./342013-super-real-mahjong-piv-custom.json) |
 | Super Real Mahjong Pocket | 66222 | [66222-super-real-mahjong-pocket.json](./66222-super-real-mahjong-pocket.json) |
