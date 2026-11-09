@@ -1277,6 +1277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danshikou de Atta Kowai Hanashi | 210822 | [210822-danshikou-de-atta-kowai-hanashi.json](./210822-danshikou-de-atta-kowai-hanashi.json) |
 | Dante: RPG Construction Tool | 63511 | [63511-dante-rpg-construction-tool.json](./63511-dante-rpg-construction-tool.json) |
 | Dante's Cowboy | 258456 | [258456-dantes-cowboy.json](./258456-dantes-cowboy.json) |
+| Dante's Forest | 30999 | [30999-dantes-forest.json](./30999-dantes-forest.json) |
 | Dante's Hotel | 152821 | [152821-dantes-hotel.json](./152821-dantes-hotel.json) |
 | Dante's Inferno | 28854 | [28854-dantes-inferno.json](./28854-dantes-inferno.json) |
 | Dante's Inferno: Dark Forest Pack | 172772 | [172772-dantes-inferno-dark-forest-pack.json](./172772-dantes-inferno-dark-forest-pack.json) |
@@ -6043,6 +6044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defense of Castle Chilly | 31445 | [31445-defense-of-castle-chilly.json](./31445-defense-of-castle-chilly.json) |
 | Defense of Egypt: Cleopatra Mission | 31097 | [31097-defense-of-egypt-cleopatra-mission.json](./31097-defense-of-egypt-cleopatra-mission.json) |
 | Defense of Fortune 2 | 200295 | [200295-defense-of-fortune-2.json](./200295-defense-of-fortune-2.json) |
+| Defense of Greece TD | 30984 | [30984-defense-of-greece-td.json](./30984-defense-of-greece-td.json) |
 | Defense of Kyrath | 406310 | [406310-defense-of-kyrath.json](./406310-defense-of-kyrath.json) |
 | Defense of Nations | 268505 | [268505-defense-of-nations.json](./268505-defense-of-nations.json) |
 | Defense of the Ancients | 2283 | [2283-defense-of-the-ancients.json](./2283-defense-of-the-ancients.json) |
@@ -13189,6 +13191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Touch the Spikes | 225291 | [225291-dont-touch-the-spikes.json](./225291-dont-touch-the-spikes.json) |
 | Don't Touch the Vowels | 200280 | [200280-dont-touch-the-vowels.json](./200280-dont-touch-the-vowels.json) |
 | Don't Touch the Vowels 2 | 200279 | [200279-dont-touch-the-vowels-2.json](./200279-dont-touch-the-vowels-2.json) |
+| Don't Touch the Zombies | 30306 | [30306-dont-touch-the-zombies.json](./30306-dont-touch-the-zombies.json) |
 | Don't Touch this Button! | 158161 | [158161-dont-touch-this-button.json](./158161-dont-touch-this-button.json) |
 | Don't Toy With Me | 204257 | [204257-dont-toy-with-me.json](./204257-dont-toy-with-me.json) |
 | Don't Trip | 112434 | [112434-dont-trip.json](./112434-dont-trip.json) |
@@ -15154,6 +15157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragnet | 40861 | [40861-dragnet.json](./40861-dragnet.json) |
 | Drago Adventure | 295624 | [295624-drago-adventure.json](./295624-drago-adventure.json) |
 | Drago Noka | 203939 | [203939-drago-noka.json](./203939-drago-noka.json) |
+| DragoDino: A Dragon Adventure | 30363 | [30363-dragodino-a-dragon-adventure.json](./30363-dragodino-a-dragon-adventure.json) |
 | Dragon | 216764 | [216764-dragon.json](./216764-dragon.json) |
 | Dragon | 246325 | [246325-dragon.json](./246325-dragon.json) |
 | Dragon & Colonies | 55950 | [55950-dragon-and-colonies.json](./55950-dragon-and-colonies.json) |
@@ -19048,6 +19052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon of Destiny | 251783 | [251783-dungeon-of-destiny.json](./251783-dungeon-of-destiny.json) |
 | Dungeon of Distrust | 420204 | [420204-dungeon-of-distrust.json](./420204-dungeon-of-distrust.json) |
 | Dungeon of Doom | 178615 | [178615-dungeon-of-doom.json](./178615-dungeon-of-doom.json) |
+| Dungeon of Doom Puzzle | 30993 | [30993-dungeon-of-doom-puzzle.json](./30993-dungeon-of-doom-puzzle.json) |
 | Dungeon of Dragon Knight | 113402 | [113402-dungeon-of-dragon-knight.json](./113402-dungeon-of-dragon-knight.json) |
 | Dungeon Of Dragon Knight Remake | 412556 | [412556-dungeon-of-dragon-knight-remake.json](./412556-dungeon-of-dragon-knight-remake.json) |
 | Dungeon of Elements | 17419 | [17419-dungeon-of-elements.json](./17419-dungeon-of-elements.json) |
