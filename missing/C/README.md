@@ -2071,6 +2071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Wayne: Vacation Desperation | 241378 | [241378-captain-wayne-vacation-desperation.json](./241378-captain-wayne-vacation-desperation.json) |
 | Captain Whiskers: Incremental Seas | 386443 | [386443-captain-whiskers-incremental-seas.json](./386443-captain-whiskers-incremental-seas.json) |
 | Captain Willie | 285033 | [285033-captain-willie.json](./285033-captain-willie.json) |
+| Captain Zapp | 28958 | [28958-captain-zapp.json](./28958-captain-zapp.json) |
 | Captain:Training | 106439 | [106439-captain-training.json](./106439-captain-training.json) |
 | Captain's Big Day | 176259 | [176259-captains-big-day.json](./176259-captains-big-day.json) |
 | Captain's Call | 403130 | [403130-captains-call.json](./403130-captains-call.json) |
@@ -2317,6 +2318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Puzzle for Toddlers and Kids | 227775 | [227775-car-puzzle-for-toddlers-and-kids.json](./227775-car-puzzle-for-toddlers-and-kids.json) |
 | Car Puzzler | 81919 | [81919-car-puzzler.json](./81919-car-puzzler.json) |
 | Car Quest | 110881 | [110881-car-quest.json](./110881-car-quest.json) |
+| Car Race | 28354 | [28354-car-race.json](./28354-car-race.json) |
 | Car Race | 312250 | [312250-car-race.json](./312250-car-race.json) |
 | Car Race | 346087 | [346087-car-race.json](./346087-car-race.json) |
 | Car Race Game for Toddlers and Kids | 103938 | [103938-car-race-game-for-toddlers-and-kids.json](./103938-car-race-game-for-toddlers-and-kids.json) |
@@ -9704,7 +9706,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Legends: The Ghost of Misty Hill - DLC | 252238 | [252238-city-legends-the-ghost-of-misty-hill-dlc.json](./252238-city-legends-the-ghost-of-misty-hill-dlc.json) |
 | City Legends: The Witness in the Rye DLC | 312068 | [312068-city-legends-the-witness-in-the-rye-dlc.json](./312068-city-legends-the-witness-in-the-rye-dlc.json) |
 | City Legends: Trapped In Mirror - Collector's Edition | 212835 | [212835-city-legends-trapped-in-mirror-collectors-edition.json](./212835-city-legends-trapped-in-mirror-collectors-edition.json) |
+| City Life | 28979 | [28979-city-life.json](./28979-city-life.json) |
 | City Life 2008 | 15719 | [15719-city-life-2008.json](./15719-city-life-2008.json) |
+| City Life Deluxe | 28980 | [28980-city-life-deluxe.json](./28980-city-life-deluxe.json) |
 | City Life DS | 262128 | [262128-city-life-ds.json](./262128-city-life-ds.json) |
 | City Life: World Edition | 206347 | [206347-city-life-world-edition.json](./206347-city-life-world-edition.json) |
 | City Lights Love Bites Season 0 | 305676 | [305676-city-lights-love-bites-season-0.json](./305676-city-lights-love-bites-season-0.json) |
@@ -9972,6 +9976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CivilContractRPG | 125847 | [125847-civilcontractrpg.json](./125847-civilcontractrpg.json) |
 | Civilian Justice League 2 | 82618 | [82618-civilian-justice-league-2.json](./82618-civilian-justice-league-2.json) |
 | Civilization | 175915 | [175915-civilization.json](./175915-civilization.json) |
+| Civilization II: Multiplayer Gold Edition | 28978 | [28978-civilization-ii-multiplayer-gold-edition.json](./28978-civilization-ii-multiplayer-gold-edition.json) |
 | Civilization Online | 63915 | [63915-civilization-online.json](./63915-civilization-online.json) |
 | Civilization Simulator | 267069 | [267069-civilization-simulator.json](./267069-civilization-simulator.json) |
 | Civilization: Call to Power | 9930 | [9930-civilization-call-to-power.json](./9930-civilization-call-to-power.json) |
@@ -11369,6 +11374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clumsy Fighting | 104613 | [104613-clumsy-fighting.json](./104613-clumsy-fighting.json) |
 | Clumsy Fish | 240836 | [240836-clumsy-fish.json](./240836-clumsy-fish.json) |
 | Clumsy Fred | 43103 | [43103-clumsy-fred.json](./43103-clumsy-fred.json) |
+| Clumsy Knight | 29018 | [29018-clumsy-knight.json](./29018-clumsy-knight.json) |
 | Clumsy Knight 2 | 158316 | [158316-clumsy-knight-2.json](./158316-clumsy-knight-2.json) |
 | Clumsy Knight vs. Skeletons R | 200065 | [200065-clumsy-knight-vs-skeletons-r.json](./200065-clumsy-knight-vs-skeletons-r.json) |
 | Clumsy Knights : Threats of Dragon | 81717 | [81717-clumsy-knights-threats-of-dragon.json](./81717-clumsy-knights-threats-of-dragon.json) |
