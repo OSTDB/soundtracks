@@ -1660,6 +1660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ollo in the Sunny Valley Fair | 122219 | [122219-ollo-in-the-sunny-valley-fair.json](./122219-ollo-in-the-sunny-valley-fair.json) |
 | Ollsgar'd | 365351 | [365351-ollsgard.json](./365351-ollsgard.json) |
 | Olly's San Francisco Rush | 232255 | [232255-ollys-san-francisco-rush.json](./232255-ollys-san-francisco-rush.json) |
+| Olmang Jolmang Paradise | 56037 | [56037-olmang-jolmang-paradise.json](./56037-olmang-jolmang-paradise.json) |
 | OLO game | 88816 | [88816-olo-game.json](./88816-olo-game.json) |
 | Olo Loco | 175224 | [175224-olo-loco.json](./175224-olo-loco.json) |
 | Olobollo | 156138 | [156138-olobollo.json](./156138-olobollo.json) |
