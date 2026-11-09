@@ -4180,6 +4180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When Our Journey Ends | 25596 | [25596-when-our-journey-ends.json](./25596-when-our-journey-ends.json) |
 | When Pigs Can Fly: Enter The Aporkalypse | 301898 | [301898-when-pigs-can-fly-enter-the-aporkalypse.json](./301898-when-pigs-can-fly-enter-the-aporkalypse.json) |
 | When Pigs Fly | 317432 | [317432-when-pigs-fly.json](./317432-when-pigs-fly.json) |
+| When Pigs Fly | 60658 | [60658-when-pigs-fly.json](./60658-when-pigs-fly.json) |
 | When Rivers Were Trails | 130405 | [130405-when-rivers-were-trails.json](./130405-when-rivers-were-trails.json) |
 | When Silence Fell | 114428 | [114428-when-silence-fell.json](./114428-when-silence-fell.json) |
 | When Sirens Fall Silent | 380417 | [380417-when-sirens-fall-silent.json](./380417-when-sirens-fall-silent.json) |
@@ -6014,6 +6015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Prey | 20973 | [20973-wings-of-prey.json](./20973-wings-of-prey.json) |
 | Wings of Prey: Special Edition | 51778 | [51778-wings-of-prey-special-edition.json](./51778-wings-of-prey-special-edition.json) |
 | Wings of Redemption | 273754 | [273754-wings-of-redemption.json](./273754-wings-of-redemption.json) |
+| Wings of Saint Nazaire | 60678 | [60678-wings-of-saint-nazaire.json](./60678-wings-of-saint-nazaire.json) |
 | Wings of Seduction : Bust 'em out! | 266016 | [266016-wings-of-seduction-bust-em-out.json](./266016-wings-of-seduction-bust-em-out.json) |
 | Wings of the Kite in Sky | 338364 | [338364-wings-of-the-kite-in-sky.json](./338364-wings-of-the-kite-in-sky.json) |
 | Wings of the Universe | 216838 | [216838-wings-of-the-universe.json](./216838-wings-of-the-universe.json) |
