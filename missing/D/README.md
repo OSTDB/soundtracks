@@ -7095,6 +7095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densha de Go! Pocket: Chuuousen-hen | 146558 | [146558-densha-de-go-pocket-chuuousen-hen.json](./146558-densha-de-go-pocket-chuuousen-hen.json) |
 | Densha de Go! Pocket: Osakakanjousen-hen | 146559 | [146559-densha-de-go-pocket-osakakanjousen-hen.json](./146559-densha-de-go-pocket-osakakanjousen-hen.json) |
 | Densha de Go! Pocket: Toukaidousen-hen | 146560 | [146560-densha-de-go-pocket-toukaidousen-hen.json](./146560-densha-de-go-pocket-toukaidousen-hen.json) |
+| Densha de GO! Pocket: Yamanotesen-hen | 38455 | [38455-densha-de-go-pocket-yamanotesen-hen.json](./38455-densha-de-go-pocket-yamanotesen-hen.json) |
 | Densha de GO! Professional | 78575 | [78575-densha-de-go-professional.json](./78575-densha-de-go-professional.json) |
 | Densha de GO! Professional 2 | 63703 | [63703-densha-de-go-professional-2.json](./63703-densha-de-go-professional-2.json) |
 | Densha de GO! Ryojou-hen | 79442 | [79442-densha-de-go-ryojou-hen.json](./79442-densha-de-go-ryojou-hen.json) |
