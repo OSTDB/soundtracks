@@ -3866,6 +3866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hebereke | 291621 | [291621-hebereke.json](./291621-hebereke.json) |
 | Hebereke no Pair Pair Wars | 288020 | [288020-hebereke-no-pair-pair-wars.json](./288020-hebereke-no-pair-pair-wars.json) |
 | Hebereke: Enjoy Edition | 291350 | [291350-hebereke-enjoy-edition.json](./291350-hebereke-enjoy-edition.json) |
+| Hebereke's Popoitto | 65631 | [65631-heberekes-popoitto.json](./65631-heberekes-popoitto.json) |
 | Hebereke's Popoon | 42610 | [42610-heberekes-popoon.json](./42610-heberekes-popoon.json) |
 | Hebi Hebi | 177261 | [177261-hebi-hebi.json](./177261-hebi-hebi.json) |
 | Hebi no Inochi | 288873 | [288873-hebi-no-inochi.json](./288873-hebi-no-inochi.json) |
