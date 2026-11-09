@@ -607,6 +607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Easy Joe 3 | 101864 | [101864-easy-joe-3.json](./101864-easy-joe-3.json) |
 | Easy Joe World | 78537 | [78537-easy-joe-world.json](./78537-easy-joe-world.json) |
 | Easy Learning: Classical Music | 273325 | [273325-easy-learning-classical-music.json](./273325-easy-learning-classical-music.json) |
+| Easy Magic | 29354 | [29354-easy-magic.json](./29354-easy-magic.json) |
 | Easy No Smoking Wii App | 67844 | [67844-easy-no-smoking-wii-app.json](./67844-easy-no-smoking-wii-app.json) |
 | Easy Piano | 25168 | [25168-easy-piano.json](./25168-easy-piano.json) |
 | Easy Puzzle | 331390 | [331390-easy-puzzle.json](./331390-easy-puzzle.json) |
