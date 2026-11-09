@@ -6942,6 +6942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pilot Attack | 281534 | [281534-pilot-attack.json](./281534-pilot-attack.json) |
 | Pilot Brothers | 25513 | [25513-pilot-brothers.json](./25513-pilot-brothers.json) |
 | Pilot Brothers 2 | 36090 | [36090-pilot-brothers-2.json](./36090-pilot-brothers-2.json) |
+| Pilot Brothers 3: Back Side of the Earth | 36091 | [36091-pilot-brothers-3-back-side-of-the-earth.json](./36091-pilot-brothers-3-back-side-of-the-earth.json) |
 | Pilot Brothers 3D: The Case of the garden pests | 403598 | [403598-pilot-brothers-3d-the-case-of-the-garden-pests.json](./403598-pilot-brothers-3d-the-case-of-the-garden-pests.json) |
 | Pilot Down: Behind Enemy Lines | 47359 | [47359-pilot-down-behind-enemy-lines.json](./47359-pilot-down-behind-enemy-lines.json) |
 | Pilot Flight Simulation | 315919 | [315919-pilot-flight-simulation.json](./315919-pilot-flight-simulation.json) |
@@ -10499,6 +10500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plowing | 276190 | [276190-plowing.json](./276190-plowing.json) |
 | Plowing Through | 271806 | [271806-plowing-through.json](./271806-plowing-through.json) |
 | Plox Neon | 80963 | [80963-plox-neon.json](./80963-plox-neon.json) |
+| Pluck | 35986 | [35986-pluck.json](./35986-pluck.json) |
 | Pluck It | 105910 | [105910-pluck-it.json](./105910-pluck-it.json) |
 | Plucked | 410004 | [410004-plucked.json](./410004-plucked.json) |
 | Plucked Up | 385426 | [385426-plucked-up.json](./385426-plucked-up.json) |
@@ -15896,6 +15898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Producer Tycoon | 244319 | [244319-producer-tycoon.json](./244319-producer-tycoon.json) |
 | Production Chain Tycoon | 241567 | [241567-production-chain-tycoon.json](./241567-production-chain-tycoon.json) |
 | Production City | 415009 | [415009-production-city.json](./415009-production-city.json) |
+| Production Inc. | 35011 | [35011-production-inc.json](./35011-production-inc.json) |
 | Production Line: Doors that go like this | 124782 | [124782-production-line-doors-that-go-like-this.json](./124782-production-line-doors-that-go-like-this.json) |
 | Production Sound | 91161 | [91161-production-sound.json](./91161-production-sound.json) |
 | Proelia 2 | 88705 | [88705-proelia-2.json](./88705-proelia-2.json) |
