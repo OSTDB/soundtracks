@@ -437,6 +437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to Modern World: Fantasy Hero | 364966 | [364966-back-to-modern-world-fantasy-hero.json](./364966-back-to-modern-world-fantasy-hero.json) |
 | Back to Nature | 84980 | [84980-back-to-nature.json](./84980-back-to-nature.json) |
 | Back to Origin | 405967 | [405967-back-to-origin.json](./405967-back-to-origin.json) |
+| Back to Reality | 13368 | [13368-back-to-reality.json](./13368-back-to-reality.json) |
 | Back to Reality | 267012 | [267012-back-to-reality.json](./267012-back-to-reality.json) |
 | Back to Saturn X Episode 1: Get Out of My Stations | 136596 | [136596-back-to-saturn-x-episode-1-get-out-of-my-stations.json](./136596-back-to-saturn-x-episode-1-get-out-of-my-stations.json) |
 | Back to Saturn X Episode 2: Tower in the Fountain of Sparks | 340875 | [340875-back-to-saturn-x-episode-2-tower-in-the-fountain-of-sparks.json](./340875-back-to-saturn-x-episode-2-tower-in-the-fountain-of-sparks.json) |
@@ -468,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back to the Future: The Game - Episode 4: Double Visions | 78252 | [78252-back-to-the-future-the-game-episode-4-double-visions.json](./78252-back-to-the-future-the-game-episode-4-double-visions.json) |
 | Back to the Future: The Game - Episode 5: Outatime | 78251 | [78251-back-to-the-future-the-game-episode-5-outatime.json](./78251-back-to-the-future-the-game-episode-5-outatime.json) |
 | Back To The Future: The Ride | 364150 | [364150-back-to-the-future-the-ride.json](./364150-back-to-the-future-the-ride.json) |
+| Back to the Golden Age | 13367 | [13367-back-to-the-golden-age.json](./13367-back-to-the-golden-age.json) |
 | Back to the Heaven | 349257 | [349257-back-to-the-heaven.json](./349257-back-to-the-heaven.json) |
 | Back to the Joseon | 214565 | [214565-back-to-the-joseon.json](./214565-back-to-the-joseon.json) |
 | Back to the Metaverse | 184684 | [184684-back-to-the-metaverse.json](./184684-back-to-the-metaverse.json) |
