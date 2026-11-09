@@ -10129,6 +10129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Saviour Bia | 183764 | [183764-metal-saviour-bia.json](./183764-metal-saviour-bia.json) |
 | Metal Shell: Neon Pulse | 99163 | [99163-metal-shell-neon-pulse.json](./99163-metal-shell-neon-pulse.json) |
 | Metal Shock Game | 211206 | [211206-metal-shock-game.json](./211206-metal-shock-game.json) |
+| Metal Sight | 62871 | [62871-metal-sight.json](./62871-metal-sight.json) |
 | Metal Slader Glory 2 | 297474 | [297474-metal-slader-glory-2.json](./297474-metal-slader-glory-2.json) |
 | Metal Slader Glory: Director's Cut | 38238 | [38238-metal-slader-glory-directors-cut.json](./38238-metal-slader-glory-directors-cut.json) |
 | Metal Slug 1st & 2nd Mission Double Pack | 173779 | [173779-metal-slug-1st-and-2nd-mission-double-pack.json](./173779-metal-slug-1st-and-2nd-mission-double-pack.json) |
@@ -14397,6 +14398,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mist Hunter | 114067 | [114067-mist-hunter.json](./114067-mist-hunter.json) |
 | Mist Monkey: Wanderer | 207461 | [207461-mist-monkey-wanderer.json](./207461-mist-monkey-wanderer.json) |
 | Mist of Chaos | 7368 | [7368-mist-of-chaos.json](./7368-mist-of-chaos.json) |
+| Mist of Stagnation | 62860 | [62860-mist-of-stagnation.json](./62860-mist-of-stagnation.json) |
 | Mist of the Dark | 60059 | [60059-mist-of-the-dark.json](./60059-mist-of-the-dark.json) |
 | Mist of the Undead | 148484 | [148484-mist-of-the-undead.json](./148484-mist-of-the-undead.json) |
 | Mist Sequence | 279426 | [279426-mist-sequence.json](./279426-mist-sequence.json) |
