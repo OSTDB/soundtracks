@@ -12818,6 +12818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ponder Club | 394542 | [394542-ponder-club.json](./394542-ponder-club.json) |
 | Pondering Problems | 133537 | [133537-pondering-problems.json](./133537-pondering-problems.json) |
 | Pondlife | 384543 | [384543-pondlife.json](./384543-pondlife.json) |
+| Pong | 1333 | [1333-pong.json](./1333-pong.json) |
 | Pong | 198869 | [198869-pong.json](./198869-pong.json) |
 | Pong | 209337 | [209337-pong.json](./209337-pong.json) |
 | Pong | 306040 | [306040-pong.json](./306040-pong.json) |
