@@ -13269,6 +13269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Popstars | 92843 | [92843-popstars.json](./92843-popstars.json) |
 | Popstars: Deine Chance | 259723 | [259723-popstars-deine-chance.json](./259723-popstars-deine-chance.json) |
 | PopStealth | 266543 | [266543-popstealth.json](./266543-popstealth.json) |
+| Popt! | 59545 | [59545-popt.json](./59545-popt.json) |
 | Poptank | 207083 | [207083-poptank.json](./207083-poptank.json) |
 | Poptile | 214620 | [214620-poptile.json](./214620-poptile.json) |
 | Poptropica | 148445 | [148445-poptropica.json](./148445-poptropica.json) |
@@ -17844,6 +17845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pulsar | 167797 | [167797-pulsar.json](./167797-pulsar.json) |
 | Pulsar | 172728 | [172728-pulsar.json](./172728-pulsar.json) |
 | Pulsar | 272622 | [272622-pulsar.json](./272622-pulsar.json) |
+| Pulsar II | 59557 | [59557-pulsar-ii.json](./59557-pulsar-ii.json) |
 | Pulsar no Hikari | 64649 | [64649-pulsar-no-hikari.json](./64649-pulsar-no-hikari.json) |
 | Pulsar: Lost Colony | 16687 | [16687-pulsar-lost-colony.json](./16687-pulsar-lost-colony.json) |
 | Pulsari | 404782 | [404782-pulsari.json](./404782-pulsari.json) |
@@ -17915,6 +17917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pump it Up StepP1 | 139378 | [139378-pump-it-up-stepp1.json](./139378-pump-it-up-stepp1.json) |
 | Pump It Up XX: 20th Anniversary Edition | 115410 | [115410-pump-it-up-xx-20th-anniversary-edition.json](./115410-pump-it-up-xx-20th-anniversary-edition.json) |
 | Pump It Up Zero | 316095 | [316095-pump-it-up-zero.json](./316095-pump-it-up-zero.json) |
+| Pump It Up Zero Portable | 60091 | [60091-pump-it-up-zero-portable.json](./60091-pump-it-up-zero-portable.json) |
 | Pump It Up: Exceed | 43313 | [43313-pump-it-up-exceed.json](./43313-pump-it-up-exceed.json) |
 | Pump It Up: Exceed Portable | 60087 | [60087-pump-it-up-exceed-portable.json](./60087-pump-it-up-exceed-portable.json) |
 | Pump King | 190284 | [190284-pump-king.json](./190284-pump-king.json) |
