@@ -5288,6 +5288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petz Rescue: Wildlife Vet | 47918 | [47918-petz-rescue-wildlife-vet.json](./47918-petz-rescue-wildlife-vet.json) |
 | Petz Sports | 50714 | [50714-petz-sports.json](./50714-petz-sports.json) |
 | Petz Vet | 209989 | [209989-petz-vet.json](./209989-petz-vet.json) |
+| Petz Vet | 49459 | [49459-petz-vet.json](./49459-petz-vet.json) |
 | Petz Wild Animals Tigerz | 66227 | [66227-petz-wild-animals-tigerz.json](./66227-petz-wild-animals-tigerz.json) |
 | Petz Wild Animals: Dolphinz | 47902 | [47902-petz-wild-animals-dolphinz.json](./47902-petz-wild-animals-dolphinz.json) |
 | Petz: Catz 2 | 5095 | [5095-petz-catz-2.json](./5095-petz-catz-2.json) |
@@ -7764,6 +7765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Piposh in: A Dream Come True | 66751 | [66751-piposh-in-a-dream-come-true.json](./66751-piposh-in-a-dream-come-true.json) |
 | Pipp vs Flupp | 368257 | [368257-pipp-vs-flupp.json](./368257-pipp-vs-flupp.json) |
 | Pippa and Your Phantasmal Problem | 322567 | [322567-pippa-and-your-phantasmal-problem.json](./322567-pippa-and-your-phantasmal-problem.json) |
+| Pippa Funnell 2 | 49461 | [49461-pippa-funnell-2.json](./49461-pippa-funnell-2.json) |
 | Pippa Funnell 4: Secrets of the Ranch | 320930 | [320930-pippa-funnell-4-secrets-of-the-ranch.json](./320930-pippa-funnell-4-secrets-of-the-ranch.json) |
 | Pippa Funnell: Ranch Rescue | 284231 | [284231-pippa-funnell-ranch-rescue.json](./284231-pippa-funnell-ranch-rescue.json) |
 | Pippa Funnell: The Stud Farm Inheritance | 64115 | [64115-pippa-funnell-the-stud-farm-inheritance.json](./64115-pippa-funnell-the-stud-farm-inheritance.json) |
@@ -12459,6 +12461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polly Pocket: Flower Surprises | 293183 | [293183-polly-pocket-flower-surprises.json](./293183-polly-pocket-flower-surprises.json) |
 | Polly Pocket: Polly Party Pickup | 293182 | [293182-polly-pocket-polly-party-pickup.json](./293182-polly-pocket-polly-party-pickup.json) |
 | Polly Pocket: Polly's Beautiful Bedroom | 293185 | [293185-polly-pocket-pollys-beautiful-bedroom.json](./293185-polly-pocket-pollys-beautiful-bedroom.json) |
+| Polly Pocket!: Super Splash Island | 49434 | [49434-polly-pocket-super-splash-island.json](./49434-polly-pocket-super-splash-island.json) |
 | Polly the Frog | 182713 | [182713-polly-the-frog.json](./182713-polly-the-frog.json) |
 | Polly the Frog 2: Island Hopper | 182711 | [182711-polly-the-frog-2-island-hopper.json](./182711-polly-the-frog-2-island-hopper.json) |
 | Polly's Puzzle Box | 403327 | [403327-pollys-puzzle-box.json](./403327-pollys-puzzle-box.json) |
@@ -15100,6 +15103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Princess Miner | 383149 | [383149-princess-miner.json](./383149-princess-miner.json) |
 | Princess Miyumi and The Necro's Dungeon | 183570 | [183570-princess-miyumi-and-the-necros-dungeon.json](./183570-princess-miyumi-and-the-necros-dungeon.json) |
 | Princess Natasha | 6539 | [6539-princess-natasha.json](./6539-princess-natasha.json) |
+| Princess Natasha: Student Secret Agent | 49432 | [49432-princess-natasha-student-secret-agent.json](./49432-princess-natasha-student-secret-agent.json) |
 | Princess Night | 390467 | [390467-princess-night.json](./390467-princess-night.json) |
 | Princess Nightmare | 72674 | [72674-princess-nightmare.json](./72674-princess-nightmare.json) |
 | Princess Nom Nom | 261999 | [261999-princess-nom-nom.json](./261999-princess-nom-nom.json) |
