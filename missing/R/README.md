@@ -8151,6 +8151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rise of Humanity | 123701 | [123701-rise-of-humanity.json](./123701-rise-of-humanity.json) |
 | Rise of Immortals | 1053 | [1053-rise-of-immortals.json](./1053-rise-of-immortals.json) |
 | Rise of Immortals: Battle for Graxia | 2046 | [2046-rise-of-immortals-battle-for-graxia.json](./2046-rise-of-immortals-battle-for-graxia.json) |
+| Rise of Incarnates | 14704 | [14704-rise-of-incarnates.json](./14704-rise-of-incarnates.json) |
 | Rise of Industry: 2130 | 154521 | [154521-rise-of-industry-2130.json](./154521-rise-of-industry-2130.json) |
 | Rise of Jericho | 248027 | [248027-rise-of-jericho.json](./248027-rise-of-jericho.json) |
 | Rise of Keepers | 33994 | [33994-rise-of-keepers.json](./33994-rise-of-keepers.json) |
@@ -8342,6 +8343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rising Sun: Iron Aces | 212218 | [212218-rising-sun-iron-aces.json](./212218-rising-sun-iron-aces.json) |
 | Rising Super Chef 2 | 99399 | [99399-rising-super-chef-2.json](./99399-rising-super-chef-2.json) |
 | Rising Sushi | 174287 | [174287-rising-sushi.json](./174287-rising-sushi.json) |
+| Rising Thunder | 14705 | [14705-rising-thunder.json](./14705-rising-thunder.json) |
 | Rising Thunder: Community Edition | 82394 | [82394-rising-thunder-community-edition.json](./82394-rising-thunder-community-edition.json) |
 | Rising Tides | 313848 | [313848-rising-tides.json](./313848-rising-tides.json) |
 | Rising Up | 317708 | [317708-rising-up.json](./317708-rising-up.json) |
