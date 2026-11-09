@@ -169,6 +169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D96: Kansei | 258353 | [258353-d96-kansei.json](./258353-d96-kansei.json) |
 | Da Box | 59672 | [59672-da-box.json](./59672-da-box.json) |
 | Da Capo 3 R | 27760 | [27760-da-capo-3-r.json](./27760-da-capo-3-r.json) |
+| Da Capo II: Plus Communication | 66239 | [66239-da-capo-ii-plus-communication.json](./66239-da-capo-ii-plus-communication.json) |
 | Da Capo Innocent Finale | 371576 | [371576-da-capo-innocent-finale.json](./371576-da-capo-innocent-finale.json) |
 | Da Da Daungo | 277131 | [277131-da-da-daungo.json](./277131-da-da-daungo.json) |
 | Dà Fùwēng | 125469 | [125469-da-fuweng.json](./125469-da-fuweng.json) |
@@ -16388,6 +16389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Catchers | 164448 | [164448-dream-catchers.json](./164448-dream-catchers.json) |
 | Dream Celestial Body | 274524 | [274524-dream-celestial-body.json](./274524-dream-celestial-body.json) |
 | Dream Chamber | 27332 | [27332-dream-chamber.json](./27332-dream-chamber.json) |
+| Dream Change: Kokin-chan no Fashion Party | 66249 | [66249-dream-change-kokin-chan-no-fashion-party.json](./66249-dream-change-kokin-chan-no-fashion-party.json) |
 | Dream Channel | 75929 | [75929-dream-channel.json](./75929-dream-channel.json) |
 | Dream Channel Zero | 250289 | [250289-dream-channel-zero.json](./250289-dream-channel-zero.json) |
 | Dream Chaser | 257074 | [257074-dream-chaser.json](./257074-dream-chaser.json) |
