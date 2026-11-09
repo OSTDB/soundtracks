@@ -65,6 +65,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Com: From The Ashes | 278079 | [278079-x-com-from-the-ashes.json](./278079-x-com-from-the-ashes.json) |
 | X-COM: Interceptor | 27 | [27-x-com-interceptor.json](./27-x-com-interceptor.json) |
 | X-COM: Terror From the Deep | 25 | [25-x-com-terror-from-the-deep.json](./25-x-com-terror-from-the-deep.json) |
+| X-COM: UFO Defense | 24 | [24-x-com-ufo-defense.json](./24-x-com-ufo-defense.json) |
 | X-Day | 140494 | [140494-x-day.json](./140494-x-day.json) |
 | X-Day 2 | 140495 | [140495-x-day-2.json](./140495-x-day-2.json) |
 | X-Dead Detective | 246755 | [246755-x-dead-detective.json](./246755-x-dead-detective.json) |
