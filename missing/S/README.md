@@ -4021,6 +4021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam G Generation Eternal | 208134 | [208134-sd-gundam-g-generation-eternal.json](./208134-sd-gundam-g-generation-eternal.json) |
 | SD Gundam G Generation Genesis | 75731 | [75731-sd-gundam-g-generation-genesis.json](./75731-sd-gundam-g-generation-genesis.json) |
 | SD Gundam G Generation Neo | 65981 | [65981-sd-gundam-g-generation-neo.json](./65981-sd-gundam-g-generation-neo.json) |
+| SD Gundam G Generation Overworld | 42710 | [42710-sd-gundam-g-generation-overworld.json](./42710-sd-gundam-g-generation-overworld.json) |
 | SD Gundam G Generation Portable | 78825 | [78825-sd-gundam-g-generation-portable.json](./78825-sd-gundam-g-generation-portable.json) |
 | SD Gundam G Generation Seed | 65982 | [65982-sd-gundam-g-generation-seed.json](./65982-sd-gundam-g-generation-seed.json) |
 | SD Gundam G Generation Spirits | 43400 | [43400-sd-gundam-g-generation-spirits.json](./43400-sd-gundam-g-generation-spirits.json) |
@@ -5755,6 +5756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Senran Kagura: Peach Beach Splash - Sunshine Edition | 136669 | [136669-senran-kagura-peach-beach-splash-sunshine-edition.json](./136669-senran-kagura-peach-beach-splash-sunshine-edition.json) |
 | Senran Kagura: Peach Beach Splash - Taunt Pack | 156242 | [156242-senran-kagura-peach-beach-splash-taunt-pack.json](./156242-senran-kagura-peach-beach-splash-taunt-pack.json) |
 | Senran Kagura: Shinovi Versus | 11536 | [11536-senran-kagura-shinovi-versus.json](./11536-senran-kagura-shinovi-versus.json) |
+| Senran Kagura: Shinovi Versus - Let's Get Physical Edition | 42703 | [42703-senran-kagura-shinovi-versus-lets-get-physical-edition.json](./42703-senran-kagura-shinovi-versus-lets-get-physical-edition.json) |
 | Senran Kagura: Shoujo-tachi no Shinei | 47625 | [47625-senran-kagura-shoujo-tachi-no-shinei.json](./47625-senran-kagura-shoujo-tachi-no-shinei.json) |
 | Senran Meisuishu Tactics | 83548 | [83548-senran-meisuishu-tactics.json](./83548-senran-meisuishu-tactics.json) |
 | Senran Nin Nin Ninja Taisen Neptune: Shoujo-tachi no Kyouen - Nep-Nep Shinobi Moe Box | 146338 | [146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json](./146338-senran-nin-nin-ninja-taisen-neptune-shoujo-tachi-no-kyouen-nep-nep-shinobi-moe-box.json) |
@@ -12393,6 +12395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skate or Die: Tour de Thrash | 49020 | [49020-skate-or-die-tour-de-thrash.json](./49020-skate-or-die-tour-de-thrash.json) |
 | Skate or Don't! | 185755 | [185755-skate-or-dont.json](./185755-skate-or-dont.json) |
 | Skate Out! | 58995 | [58995-skate-out.json](./58995-skate-out.json) |
+| Skate Park City | 42725 | [42725-skate-park-city.json](./42725-skate-park-city.json) |
 | Skate Rush: 90s Retro Arcade | 404771 | [404771-skate-rush-90s-retro-arcade.json](./404771-skate-rush-90s-retro-arcade.json) |
 | Skate Samurai | 185096 | [185096-skate-samurai.json](./185096-skate-samurai.json) |
 | Skate Share Pack | 399897 | [399897-skate-share-pack.json](./399897-skate-share-pack.json) |
@@ -19066,6 +19069,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorekara: End of a Journey | 383794 | [383794-sorekara-end-of-a-journey.json](./383794-sorekara-end-of-a-journey.json) |
 | Sorelle | 302802 | [302802-sorelle.json](./302802-sorelle.json) |
 | Soreyori no Prologue | 60674 | [60674-soreyori-no-prologue.json](./60674-soreyori-no-prologue.json) |
+| Soreyuke Burunyan-Man Portable - Torimodose Ai to Seigi to Kibou no Tsunyakan | 42744 | [42744-soreyuke-burunyan-man-portable-torimodose-ai-to-seigi-to-kibou-no-tsunyakan.json](./42744-soreyuke-burunyan-man-portable-torimodose-ai-to-seigi-to-kibou-no-tsunyakan.json) |
 | Soreyuke Ebisumaru: Karakuri Meiro - Kieta Goemon no Nazo | 44446 | [44446-soreyuke-ebisumaru-karakuri-meiro-kieta-goemon-no-nazo.json](./44446-soreyuke-ebisumaru-karakuri-meiro-kieta-goemon-no-nazo.json) |
 | Soreyuke!! Kid: Go! Go! Kid | 64507 | [64507-soreyuke-kid-go-go-kid.json](./64507-soreyuke-kid-go-go-kid.json) |
 | Sorgina: A Tale of Witches | 36460 | [36460-sorgina-a-tale-of-witches.json](./36460-sorgina-a-tale-of-witches.json) |
@@ -26735,6 +26739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | States Map Tutor | 87542 | [87542-states-map-tutor.json](./87542-states-map-tutor.json) |
 | States of Power | 391110 | [391110-states-of-power.json](./391110-states-of-power.json) |
 | States, Firms, and Households | 33122 | [33122-states-firms-and-households.json](./33122-states-firms-and-households.json) |
+| StateShift | 42727 | [42727-stateshift.json](./42727-stateshift.json) |
 | Static | 179570 | [179570-static.json](./179570-static.json) |
 | Static | 333637 | [333637-static.json](./333637-static.json) |
 | Static | 94914 | [94914-static.json](./94914-static.json) |
@@ -28343,6 +28348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm Lover | 76133 | [76133-storm-lover.json](./76133-storm-lover.json) |
 | Storm Lover 2nd | 132071 | [132071-storm-lover-2nd.json](./132071-storm-lover-2nd.json) |
 | Storm Lover 2nd V | 132073 | [132073-storm-lover-2nd-v.json](./132073-storm-lover-2nd-v.json) |
+| Storm Lover Kai!! | 42746 | [42746-storm-lover-kai.json](./42746-storm-lover-kai.json) |
 | Storm Lover Natsu Koi!! | 132070 | [132070-storm-lover-natsu-koi.json](./132070-storm-lover-natsu-koi.json) |
 | Storm Lover V | 132072 | [132072-storm-lover-v.json](./132072-storm-lover-v.json) |
 | Storm Master | 10853 | [10853-storm-master.json](./10853-storm-master.json) |
@@ -29608,6 +29614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strikers 1945 III | 39298 | [39298-strikers-1945-iii.json](./39298-strikers-1945-iii.json) |
 | Strikers 1945 III for Nintendo Switch | 212270 | [212270-strikers-1945-iii-for-nintendo-switch.json](./212270-strikers-1945-iii-for-nintendo-switch.json) |
 | Strikers 1945 Plus | 72911 | [72911-strikers-1945-plus.json](./72911-strikers-1945-plus.json) |
+| Strikers 1945 Plus Portable | 42753 | [42753-strikers-1945-plus-portable.json](./42753-strikers-1945-plus-portable.json) |
 | Strikers 2020 | 118840 | [118840-strikers-2020.json](./118840-strikers-2020.json) |
 | Strikers Club | 343323 | [343323-strikers-club.json](./343323-strikers-club.json) |
 | Strikers1945: RE | 267316 | [267316-strikers1945-re.json](./267316-strikers1945-re.json) |
@@ -33502,6 +33509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Monkey Ball: Banana Rumble - Sonic | 310655 | [310655-super-monkey-ball-banana-rumble-sonic.json](./310655-super-monkey-ball-banana-rumble-sonic.json) |
 | Super Monkey Ball: Banana Rumble - Sonic and Shadow Skins | 317963 | [317963-super-monkey-ball-banana-rumble-sonic-and-shadow-skins.json](./317963-super-monkey-ball-banana-rumble-sonic-and-shadow-skins.json) |
 | Super Monkey Ball: Banana Rumble - Tails | 309068 | [309068-super-monkey-ball-banana-rumble-tails.json](./309068-super-monkey-ball-banana-rumble-tails.json) |
+| Super Monkey Ball: Banana Splitz | 42709 | [42709-super-monkey-ball-banana-splitz.json](./42709-super-monkey-ball-banana-splitz.json) |
 | Super Monkey Ball: Sakura Edition | 64989 | [64989-super-monkey-ball-sakura-edition.json](./64989-super-monkey-ball-sakura-edition.json) |
 | Super Monkey Ball: Step & Roll | 5201 | [5201-super-monkey-ball-step-and-roll.json](./5201-super-monkey-ball-step-and-roll.json) |
 | Super Monkey Ball: Ticket Blitz | 64184 | [64184-super-monkey-ball-ticket-blitz.json](./64184-super-monkey-ball-ticket-blitz.json) |
@@ -35143,6 +35151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supre-Immune | 365370 | [365370-supre-immune.json](./365370-supre-immune.json) |
 | Suprem.io | 138488 | [138488-suprem-io.json](./138488-suprem-io.json) |
 | Supremacy 1914 | 113460 | [113460-supremacy-1914.json](./113460-supremacy-1914.json) |
+| Supremacy MMA: Unrestricted | 42708 | [42708-supremacy-mma-unrestricted.json](./42708-supremacy-mma-unrestricted.json) |
 | Supremacy: The Metaverse Game | 196789 | [196789-supremacy-the-metaverse-game.json](./196789-supremacy-the-metaverse-game.json) |
 | Supremacy: Warhammer 40,000 | 344674 | [344674-supremacy-warhammer-40-000.json](./344674-supremacy-warhammer-40-000.json) |
 | Supreme | 80546 | [80546-supreme.json](./80546-supreme.json) |
