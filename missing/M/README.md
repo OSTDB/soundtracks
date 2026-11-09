@@ -84,6 +84,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M(ae)rry-go-round | 255565 | [255565-m-ae-rry-go-round.json](./255565-m-ae-rry-go-round.json) |
 | M*A*S*H | 22734 | [22734-m-a-s-h.json](./22734-m-a-s-h.json) |
 | M*A*S*H: The Adventure Game | 327234 | [327234-m-a-s-h-the-adventure-game.json](./327234-m-a-s-h-the-adventure-game.json) |
+| M&M's Adventure | 50668 | [50668-m-and-ms-adventure.json](./50668-m-and-ms-adventure.json) |
 | M&M's Beach Party | 50703 | [50703-m-and-ms-beach-party.json](./50703-m-and-ms-beach-party.json) |
 | M&M's Blast! | 49330 | [49330-m-and-ms-blast.json](./49330-m-and-ms-blast.json) |
 | M&M's Kart Racing | 3296 | [3296-m-and-ms-kart-racing.json](./3296-m-and-ms-kart-racing.json) |
@@ -6195,6 +6196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
 | Maximum Racing: Sprint Cars | 50946 | [50946-maximum-racing-sprint-cars.json](./50946-maximum-racing-sprint-cars.json) |
+| Maximum Racing: Super Karts | 50655 | [50655-maximum-racing-super-karts.json](./50655-maximum-racing-super-karts.json) |
 | Maximum Racing: Super Truck Racer | 50603 | [50603-maximum-racing-super-truck-racer.json](./50603-maximum-racing-super-truck-racer.json) |
 | Maximum Rescue | 93027 | [93027-maximum-rescue.json](./93027-maximum-rescue.json) |
 | Maximum Roadkill | 92319 | [92319-maximum-roadkill.json](./92319-maximum-roadkill.json) |
@@ -16582,6 +16584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Maulers | 39541 | [39541-monster-maulers.json](./39541-monster-maulers.json) |
 | Monster Mayhem | 351608 | [351608-monster-mayhem.json](./351608-monster-mayhem.json) |
 | Monster Mayhem | 377338 | [377338-monster-mayhem.json](./377338-monster-mayhem.json) |
+| Monster Mayhem: Build and Battle | 50664 | [50664-monster-mayhem-build-and-battle.json](./50664-monster-mayhem-build-and-battle.json) |
 | Monster Maze | 200336 | [200336-monster-maze.json](./200336-monster-maze.json) |
 | Monster Maze | 23302 | [23302-monster-maze.json](./23302-monster-maze.json) |
 | Monster Maze VR | 30772 | [30772-monster-maze-vr.json](./30772-monster-maze-vr.json) |
@@ -20871,6 +20874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Bloodsucking 9-to-5 | 397260 | [397260-my-bloodsucking-9-to-5.json](./397260-my-bloodsucking-9-to-5.json) |
 | My Bloody Weekend | 219637 | [219637-my-bloody-weekend.json](./219637-my-bloody-weekend.json) |
 | My Body Coach | 67354 | [67354-my-body-coach.json](./67354-my-body-coach.json) |
+| My Body Coach 2 | 50657 | [50657-my-body-coach-2.json](./50657-my-body-coach-2.json) |
 | My Bones Remastered | 121192 | [121192-my-bones-remastered.json](./121192-my-bones-remastered.json) |
 | My Boo Album | 373238 | [373238-my-boo-album.json](./373238-my-boo-album.json) |
 | My Bookshop Dreams | 359871 | [359871-my-bookshop-dreams.json](./359871-my-bookshop-dreams.json) |
@@ -21402,6 +21406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Horny Anime Girls | 417814 | [417814-my-horny-anime-girls.json](./417814-my-horny-anime-girls.json) |
 | My Horse | 99916 | [99916-my-horse.json](./99916-my-horse.json) |
 | My Horse & Me | 5030 | [5030-my-horse-and-me.json](./5030-my-horse-and-me.json) |
+| My Horse & Me: Riding for Gold | 50656 | [50656-my-horse-and-me-riding-for-gold.json](./50656-my-horse-and-me-riding-for-gold.json) |
 | My Horse 3D: Best Friends | 147823 | [147823-my-horse-3d-best-friends.json](./147823-my-horse-3d-best-friends.json) |
 | My Horse Club: On the Trail of the Mysterious Appaloosa | 257743 | [257743-my-horse-club-on-the-trail-of-the-mysterious-appaloosa.json](./257743-my-horse-club-on-the-trail-of-the-mysterious-appaloosa.json) |
 | My Horse Farm | 206774 | [206774-my-horse-farm.json](./206774-my-horse-farm.json) |
