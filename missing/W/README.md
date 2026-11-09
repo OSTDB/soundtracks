@@ -2334,6 +2334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wasteland Corp | 379391 | [379391-wasteland-corp.json](./379391-wasteland-corp.json) |
 | Wasteland Elysium | 262814 | [262814-wasteland-elysium.json](./262814-wasteland-elysium.json) |
 | WasteLand Express | 368025 | [368025-wasteland-express.json](./368025-wasteland-express.json) |
+| Wasteland Gossip | 75310 | [75310-wasteland-gossip.json](./75310-wasteland-gossip.json) |
 | Wasteland Horror Radio: Episode 1 - The Radio | 360641 | [360641-wasteland-horror-radio-episode-1-the-radio.json](./360641-wasteland-horror-radio-episode-1-the-radio.json) |
 | Wasteland Kings | 53054 | [53054-wasteland-kings.json](./53054-wasteland-kings.json) |
 | Wasteland Kings Together | 176330 | [176330-wasteland-kings-together.json](./176330-wasteland-kings-together.json) |
@@ -6302,6 +6303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WinWheel | 83439 | [83439-winwheel.json](./83439-winwheel.json) |
 | Winx Club | 200907 | [200907-winx-club.json](./200907-winx-club.json) |
 | Winx Club | 6680 | [6680-winx-club.json](./6680-winx-club.json) |
+| Winx Club : The Quest For The Codex | 75353 | [75353-winx-club-the-quest-for-the-codex.json](./75353-winx-club-the-quest-for-the-codex.json) |
 | Winx Club Secret Diary 2009 | 47829 | [47829-winx-club-secret-diary-2009.json](./47829-winx-club-secret-diary-2009.json) |
 | Winx Club: Alfea Butterflix Adventures | 79740 | [79740-winx-club-alfea-butterflix-adventures.json](./79740-winx-club-alfea-butterflix-adventures.json) |
 | Winx Club: Believix in You | 25174 | [25174-winx-club-believix-in-you.json](./25174-winx-club-believix-in-you.json) |
