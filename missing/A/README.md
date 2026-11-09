@@ -879,6 +879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Month to Look at the Moon | 179779 | [179779-a-month-to-look-at-the-moon.json](./179779-a-month-to-look-at-the-moon.json) |
 | A Moon for the Sky | 9974 | [9974-a-moon-for-the-sky.json](./9974-a-moon-for-the-sky.json) |
 | A More Beautiful World: A Visual Novel | 33679 | [33679-a-more-beautiful-world-a-visual-novel.json](./33679-a-more-beautiful-world-a-visual-novel.json) |
+| A Morons Challenge | 67990 | [67990-a-morons-challenge.json](./67990-a-morons-challenge.json) |
 | A Morte | 268898 | [268898-a-morte.json](./268898-a-morte.json) |
 | A Mortician's Tale | 28073 | [28073-a-morticians-tale.json](./28073-a-morticians-tale.json) |
 | A Most Curious Murder | 83853 | [83853-a-most-curious-murder.json](./83853-a-most-curious-murder.json) |
@@ -1109,6 +1110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Road That May Lead Nowhere | 77658 | [77658-a-road-that-may-lead-nowhere.json](./77658-a-road-that-may-lead-nowhere.json) |
 | A Roaming Wildebeest In Spain | 271244 | [271244-a-roaming-wildebeest-in-spain.json](./271244-a-roaming-wildebeest-in-spain.json) |
 | A Robot Named Fight | 51944 | [51944-a-robot-named-fight.json](./51944-a-robot-named-fight.json) |
+| A Robot's Conundrum | 67988 | [67988-a-robots-conundrum.json](./67988-a-robots-conundrum.json) |
 | A Robot's Tiny Adventure | 329329 | [329329-a-robots-tiny-adventure.json](./329329-a-robots-tiny-adventure.json) |
 | A Rocket's Intensity | 247777 | [247777-a-rockets-intensity.json](./247777-a-rockets-intensity.json) |
 | A Rogue Escape | 142376 | [142376-a-rogue-escape.json](./142376-a-rogue-escape.json) |
@@ -5142,6 +5144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agora | 357804 | [357804-agora.json](./357804-agora.json) |
 | Agora: Soul of the Oracle | 169895 | [169895-agora-soul-of-the-oracle.json](./169895-agora-soul-of-the-oracle.json) |
 | Agoraphobia | 179011 | [179011-agoraphobia.json](./179011-agoraphobia.json) |
+| Agoraphobia | 68152 | [68152-agoraphobia.json](./68152-agoraphobia.json) |
 | Agoraphobia: Director's Cut | 329488 | [329488-agoraphobia-directors-cut.json](./329488-agoraphobia-directors-cut.json) |
 | Agoraphobia: Knock Knock | 159759 | [159759-agoraphobia-knock-knock.json](./159759-agoraphobia-knock-knock.json) |
 | Agos | 206602 | [206602-agos.json](./206602-agos.json) |
@@ -17218,6 +17221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
