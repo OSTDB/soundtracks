@@ -9379,6 +9379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diggergun | 204370 | [204370-diggergun.json](./204370-diggergun.json) |
 | Diggerman | 101578 | [101578-diggerman.json](./101578-diggerman.json) |
 | Diggers | 37101 | [37101-diggers.json](./37101-diggers.json) |
+| Diggers & Oscar | 69952 | [69952-diggers-and-oscar.json](./69952-diggers-and-oscar.json) |
 | Diggers 2: Extractors | 70104 | [70104-diggers-2-extractors.json](./70104-diggers-2-extractors.json) |
 | DiggerSim | 234194 | [234194-diggersim.json](./234194-diggersim.json) |
 | DiggerSim: Excavator Simulator | 312454 | [312454-diggersim-excavator-simulator.json](./312454-diggersim-excavator-simulator.json) |
@@ -15333,6 +15334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Care Tarot | 392225 | [392225-dragon-care-tarot.json](./392225-dragon-care-tarot.json) |
 | Dragon Castle | 346115 | [346115-dragon-castle.json](./346115-dragon-castle.json) |
 | Dragon Castle | 346753 | [346753-dragon-castle.json](./346753-dragon-castle.json) |
+| Dragon Castle | 69964 | [69964-dragon-castle.json](./69964-dragon-castle.json) |
 | Dragon Castle: The Board Game | 127095 | [127095-dragon-castle-the-board-game.json](./127095-dragon-castle-the-board-game.json) |
 | Dragon Cat | 384302 | [384302-dragon-cat.json](./384302-dragon-cat.json) |
 | Dragon Cave | 361298 | [361298-dragon-cave.json](./361298-dragon-cave.json) |
@@ -18499,6 +18501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon | 242699 | [242699-dungeon.json](./242699-dungeon.json) |
 | Dungeon | 288637 | [288637-dungeon.json](./288637-dungeon.json) |
 | Dungeon | 290308 | [290308-dungeon.json](./290308-dungeon.json) |
+| Dungeon | 69613 | [69613-dungeon.json](./69613-dungeon.json) |
 | Dungeon | 86095 | [86095-dungeon.json](./86095-dungeon.json) |
 | Dungeon & Adventure | 220590 | [220590-dungeon-and-adventure.json](./220590-dungeon-and-adventure.json) |
 | Dungeon & Burglar | 195149 | [195149-dungeon-and-burglar.json](./195149-dungeon-and-burglar.json) |
@@ -19315,6 +19318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons of Honor | 191193 | [191193-dungeons-of-honor.json](./191193-dungeons-of-honor.json) |
 | Dungeons of Kairn | 229287 | [229287-dungeons-of-kairn.json](./229287-dungeons-of-kairn.json) |
 | Dungeons of Kragmor | 17006 | [17006-dungeons-of-kragmor.json](./17006-dungeons-of-kragmor.json) |
+| Dungeons of Kremlin | 69958 | [69958-dungeons-of-kremlin.json](./69958-dungeons-of-kremlin.json) |
 | Dungeons of Kremlin: Remastered | 57038 | [57038-dungeons-of-kremlin-remastered.json](./57038-dungeons-of-kremlin-remastered.json) |
 | Dungeons of Kroz | 74092 | [74092-dungeons-of-kroz.json](./74092-dungeons-of-kroz.json) |
 | Dungeons of Legend: Cast Within | 115073 | [115073-dungeons-of-legend-cast-within.json](./115073-dungeons-of-legend-cast-within.json) |
@@ -19397,6 +19401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dunker.io | 233197 | [233197-dunker-io.json](./233197-dunker-io.json) |
 | Dunkers | 58126 | [58126-dunkers.json](./58126-dunkers.json) |
 | Dunkers 2 | 87012 | [87012-dunkers-2.json](./87012-dunkers-2.json) |
+| Dunkey Munkey | 69603 | [69603-dunkey-munkey.json](./69603-dunkey-munkey.json) |
 | DunkForce | 208097 | [208097-dunkforce.json](./208097-dunkforce.json) |
 | Dunkin' Match-3 | 213195 | [213195-dunkin-match-3.json](./213195-dunkin-match-3.json) |
 | Dunkirk: The Forgotten Soldier | 380842 | [380842-dunkirk-the-forgotten-soldier.json](./380842-dunkirk-the-forgotten-soldier.json) |
