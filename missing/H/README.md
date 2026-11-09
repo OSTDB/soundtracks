@@ -6712,6 +6712,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexanaut.io | 261027 | [261027-hexanaut-io.json](./261027-hexanaut-io.json) |
 | Hexane | 214367 | [214367-hexane.json](./214367-hexane.json) |
 | Hexanome | 110601 | [110601-hexanome.json](./110601-hexanome.json) |
+| HexaPlunge | 68806 | [68806-hexaplunge.json](./68806-hexaplunge.json) |
+| HexaPlunge 2 | 68808 | [68808-hexaplunge-2.json](./68808-hexaplunge-2.json) |
 | Hexapoda | 244427 | [244427-hexapoda.json](./244427-hexapoda.json) |
 | Hexar.io | 77687 | [77687-hexar-io.json](./77687-hexar-io.json) |
 | Hexara | 404530 | [404530-hexara.json](./404530-hexara.json) |
@@ -8166,6 +8168,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hikaru Genji: Roller Panic | 41308 | [41308-hikaru-genji-roller-panic.json](./41308-hikaru-genji-roller-panic.json) |
 | Hikaru no Go: Heian Gensou Ibunroku | 62377 | [62377-hikaru-no-go-heian-gensou-ibunroku.json](./62377-hikaru-no-go-heian-gensou-ibunroku.json) |
 | Hikaru no Go: Insei Choujou Kessen | 62378 | [62378-hikaru-no-go-insei-choujou-kessen.json](./62378-hikaru-no-go-insei-choujou-kessen.json) |
+| Hikaru's Cube | 68202 | [68202-hikarus-cube.json](./68202-hikarus-cube.json) |
 | Hike | 147703 | [147703-hike.json](./147703-hike.json) |
 | Hike | 184152 | [184152-hike.json](./184152-hike.json) |
 | Hike Adventures | 287164 | [287164-hike-adventures.json](./287164-hike-adventures.json) |
@@ -11669,6 +11672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Train Your Human | 180692 | [180692-how-to-train-your-human.json](./180692-how-to-train-your-human.json) |
 | How to Volley Ball | 170933 | [170933-how-to-volley-ball.json](./170933-how-to-volley-ball.json) |
 | How To Walk Out The Door | 381958 | [381958-how-to-walk-out-the-door.json](./381958-how-to-walk-out-the-door.json) |
+| How to Weigh an Elephant | 68214 | [68214-how-to-weigh-an-elephant.json](./68214-how-to-weigh-an-elephant.json) |
 | How to Win | 136400 | [136400-how-to-win.json](./136400-how-to-win.json) |
 | How to Win at Rock Paper Scissors | 57506 | [57506-how-to-win-at-rock-paper-scissors.json](./57506-how-to-win-at-rock-paper-scissors.json) |
 | How to: Superhero! | 325396 | [325396-how-to-superhero.json](./325396-how-to-superhero.json) |
