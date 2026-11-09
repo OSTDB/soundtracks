@@ -254,6 +254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F117A Stealth FIghter 2.0 | 59717 | [59717-f117a-stealth-fighter-2-0.json](./59717-f117a-stealth-fighter-2-0.json) |
 | F15 Flight Simulator VR | 107129 | [107129-f15-flight-simulator-vr.json](./107129-f15-flight-simulator-vr.json) |
 | F15 Flying Battle | 88846 | [88846-f15-flying-battle.json](./88846-f15-flying-battle.json) |
+| F17 Challenge | 37217 | [37217-f17-challenge.json](./37217-f17-challenge.json) |
 | F18 Carrier Landing | 87598 | [87598-f18-carrier-landing.json](./87598-f18-carrier-landing.json) |
 | F18 Pilot Simulator | 174355 | [174355-f18-pilot-simulator.json](./174355-f18-pilot-simulator.json) |
 | F1st Strike | 327151 | [327151-f1st-strike.json](./327151-f1st-strike.json) |
@@ -1741,6 +1742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famous Courses of the World: Vol. II | 71560 | [71560-famous-courses-of-the-world-vol-ii.json](./71560-famous-courses-of-the-world-vol-ii.json) |
 | Famous Crash | 257547 | [257547-famous-crash.json](./257547-famous-crash.json) |
 | Famous Duo Bundle | 255501 | [255501-famous-duo-bundle.json](./255501-famous-duo-bundle.json) |
+| Famous Five Adventure | 37262 | [37262-famous-five-adventure.json](./37262-famous-five-adventure.json) |
 | Famous People Quiz | 89797 | [89797-famous-people-quiz.json](./89797-famous-people-quiz.json) |
 | Famousity | 83813 | [83813-famousity.json](./83813-famousity.json) |
 | Famousity Game | 98398 | [98398-famousity-game.json](./98398-famousity-game.json) |
@@ -4752,6 +4754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fighter Bomber | 12589 | [12589-fighter-bomber.json](./12589-fighter-bomber.json) |
 | Fighter Command: The Battle of Britain | 23995 | [23995-fighter-command-the-battle-of-britain.json](./23995-fighter-command-the-battle-of-britain.json) |
 | Fighter Destiny 2 | 10683 | [10683-fighter-destiny-2.json](./10683-fighter-destiny-2.json) |
+| Fighter Duel Pro 2 | 37216 | [37216-fighter-duel-pro-2.json](./37216-fighter-duel-pro-2.json) |
 | Fighter Mage Bard | 58705 | [58705-fighter-mage-bard.json](./58705-fighter-mage-bard.json) |
 | Fighter Maker | 4636 | [4636-fighter-maker.json](./4636-fighter-maker.json) |
 | Fighter Maker 2 | 43644 | [43644-fighter-maker-2.json](./43644-fighter-maker-2.json) |
@@ -5949,6 +5952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire | 403395 | [403395-fire.json](./403395-fire.json) |
 | Fire 'n Ice | 48671 | [48671-fire-n-ice.json](./48671-fire-n-ice.json) |
 | Fire & Brimstone | 336714 | [336714-fire-and-brimstone.json](./336714-fire-and-brimstone.json) |
+| Fire & Brimstone | 37237 | [37237-fire-and-brimstone.json](./37237-fire-and-brimstone.json) |
 | Fire & Crown: A Romantic Tale of the Hundred Years' War | 390761 | [390761-fire-and-crown-a-romantic-tale-of-the-hundred-years-war.json](./390761-fire-and-crown-a-romantic-tale-of-the-hundred-years-war.json) |
 | Fire & Fondness 2 | 176708 | [176708-fire-and-fondness-2.json](./176708-fire-and-fondness-2.json) |
 | Fire & Forget II | 39075 | [39075-fire-and-forget-ii.json](./39075-fire-and-forget-ii.json) |
@@ -11951,6 +11955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freddy Spaghetti | 132369 | [132369-freddy-spaghetti.json](./132369-freddy-spaghetti.json) |
 | Freddy Spaghetti 2 | 155471 | [155471-freddy-spaghetti-2.json](./155471-freddy-spaghetti-2.json) |
 | Freddy's Archives: Remains Of The Past | 253949 | [253949-freddys-archives-remains-of-the-past.json](./253949-freddys-archives-remains-of-the-past.json) |
+| Freddy's Folly | 37220 | [37220-freddys-folly.json](./37220-freddys-folly.json) |
 | Freddy's Job : Old Pizzeria | 275151 | [275151-freddys-job-old-pizzeria.json](./275151-freddys-job-old-pizzeria.json) |
 | Freddy's Journey | 104083 | [104083-freddys-journey.json](./104083-freddys-journey.json) |
 | Freddy's Pizza Parlor Survival | 245306 | [245306-freddys-pizza-parlor-survival.json](./245306-freddys-pizza-parlor-survival.json) |
