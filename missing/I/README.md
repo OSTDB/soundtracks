@@ -4003,6 +4003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5992,6 +5993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Carrot | 410063 | [410063-iron-carrot.json](./410063-iron-carrot.json) |
 | Iron Cauldron: Guess the Colorblock | 340762 | [340762-iron-cauldron-guess-the-colorblock.json](./340762-iron-cauldron-guess-the-colorblock.json) |
 | Iron Chef | 64456 | [64456-iron-chef.json](./64456-iron-chef.json) |
+| Iron Chef II | 64454 | [64454-iron-chef-ii.json](./64454-iron-chef-ii.json) |
 | Iron Clash | 208176 | [208176-iron-clash.json](./208176-iron-clash.json) |
 | Iron Colony | 381082 | [381082-iron-colony.json](./381082-iron-colony.json) |
 | Iron Commando | 34040 | [34040-iron-commando.json](./34040-iron-commando.json) |
@@ -6164,6 +6166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ironfall | 405752 | [405752-ironfall.json](./405752-ironfall.json) |
 | Ironfall Invasion | 324220 | [324220-ironfall-invasion.json](./324220-ironfall-invasion.json) |
 | IronFall: Invasion | 8610 | [8610-ironfall-invasion.json](./8610-ironfall-invasion.json) |
+| Ironfell | 64538 | [64538-ironfell.json](./64538-ironfell.json) |
 | Irongate Arena | 189034 | [189034-irongate-arena.json](./189034-irongate-arena.json) |
 | Irongrave: Tactics | 149465 | [149465-irongrave-tactics.json](./149465-irongrave-tactics.json) |
 | Ironguard | 32973 | [32973-ironguard.json](./32973-ironguard.json) |
