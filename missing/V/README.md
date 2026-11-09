@@ -991,6 +991,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vartra Abyss | 323226 | [323226-vartra-abyss.json](./323226-vartra-abyss.json) |
 | Varvarion | 151812 | [151812-varvarion.json](./151812-varvarion.json) |
 | Varyznex | 329154 | [329154-varyznex.json](./329154-varyznex.json) |
+| Vasara | 40293 | [40293-vasara.json](./40293-vasara.json) |
+| Vasara 2 | 40294 | [40294-vasara-2.json](./40294-vasara-2.json) |
 | Vasara Collection | 114765 | [114765-vasara-collection.json](./114765-vasara-collection.json) |
 | Vascolet: La Fórmula Secreta | 159006 | [159006-vascolet-la-formula-secreta.json](./159006-vascolet-la-formula-secreta.json) |
 | Vascolet: La Máquina del Tiempo | 159005 | [159005-vascolet-la-maquina-del-tiempo.json](./159005-vascolet-la-maquina-del-tiempo.json) |
