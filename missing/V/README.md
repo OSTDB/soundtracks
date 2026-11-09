@@ -2814,6 +2814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Kyoutei 2 | 108851 | [108851-virtual-kyoutei-2.json](./108851-virtual-kyoutei-2.json) |
 | Virtual Kyoutei 2000 | 166512 | [166512-virtual-kyoutei-2000.json](./166512-virtual-kyoutei-2000.json) |
 | Virtual Kyoutei 21 | 166513 | [166513-virtual-kyoutei-21.json](./166513-virtual-kyoutei-21.json) |
+| Virtual League Baseball | 76124 | [76124-virtual-league-baseball.json](./76124-virtual-league-baseball.json) |
 | Virtual League Baseball 2 | 201263 | [201263-virtual-league-baseball-2.json](./201263-virtual-league-baseball-2.json) |
 | Virtual Love Secrets | 266785 | [266785-virtual-love-secrets.json](./266785-virtual-love-secrets.json) |
 | Virtual Magic Kingdom | 70609 | [70609-virtual-magic-kingdom.json](./70609-virtual-magic-kingdom.json) |
