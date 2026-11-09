@@ -13682,6 +13682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minotaur | 32202 | [32202-minotaur.json](./32202-minotaur.json) |
 | Minotaur | 398656 | [398656-minotaur.json](./398656-minotaur.json) |
 | Minotaur | 75354 | [75354-minotaur.json](./75354-minotaur.json) |
+| Minotaur | 75355 | [75355-minotaur.json](./75355-minotaur.json) |
 | Minotaur Arcade Volume 1 | 112492 | [112492-minotaur-arcade-volume-1.json](./112492-minotaur-arcade-volume-1.json) |
 | Minotaur China Shop | 69652 | [69652-minotaur-china-shop.json](./69652-minotaur-china-shop.json) |
 | Minotaur Hotel | 166032 | [166032-minotaur-hotel.json](./166032-minotaur-hotel.json) |
@@ -18594,6 +18595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mount and Sword | 371193 | [371193-mount-and-sword.json](./371193-mount-and-sword.json) |
 | Mount Everest Story | 174331 | [174331-mount-everest-story.json](./174331-mount-everest-story.json) |
 | Mount Farewell | 221178 | [221178-mount-farewell.json](./221178-mount-farewell.json) |
+| Mount Hill | 75382 | [75382-mount-hill.json](./75382-mount-hill.json) |
 | Mount Hop | 184169 | [184169-mount-hop.json](./184169-mount-hop.json) |
 | Mount Hua | 378574 | [378574-mount-hua.json](./378574-mount-hua.json) |
 | Mount Lomyst | 369112 | [369112-mount-lomyst.json](./369112-mount-lomyst.json) |
@@ -19436,6 +19438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mtn Chaos | 257963 | [257963-mtn-chaos.json](./257963-mtn-chaos.json) |
 | MTP Target | 71566 | [71566-mtp-target.json](./71566-mtp-target.json) |
 | MTT Sports | 376526 | [376526-mtt-sports.json](./376526-mtt-sports.json) |
+| MTV Fan Attack | 75351 | [75351-mtv-fan-attack.json](./75351-mtv-fan-attack.json) |
 | MTV Jersey Shore | 281023 | [281023-mtv-jersey-shore.json](./281023-mtv-jersey-shore.json) |
 | MTV Music Generator | 45098 | [45098-mtv-music-generator.json](./45098-mtv-music-generator.json) |
 | MTV Music Generator 3: This is the Remix | 24139 | [24139-mtv-music-generator-3-this-is-the-remix.json](./24139-mtv-music-generator-3-this-is-the-remix.json) |
@@ -20642,6 +20645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Angel Girlfriend | 218657 | [218657-my-angel-girlfriend.json](./218657-my-angel-girlfriend.json) |
 | My Anima Boy | 278731 | [278731-my-anima-boy.json](./278731-my-anima-boy.json) |
 | My Animal Centre | 92629 | [92629-my-animal-centre.json](./92629-my-animal-centre.json) |
+| My Animal Centre in Africa | 75352 | [75352-my-animal-centre-in-africa.json](./75352-my-animal-centre-in-africa.json) |
 | My Animal Centre in Australia | 122554 | [122554-my-animal-centre-in-australia.json](./122554-my-animal-centre-in-australia.json) |
 | My Animal Girlfriend | 228415 | [228415-my-animal-girlfriend.json](./228415-my-animal-girlfriend.json) |
 | My Animal School Romance | 299496 | [299496-my-animal-school-romance.json](./299496-my-animal-school-romance.json) |
@@ -22485,6 +22489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery Solitaire: The Black Raven 5 | 254756 | [254756-mystery-solitaire-the-black-raven-5.json](./254756-mystery-solitaire-the-black-raven-5.json) |
 | Mystery Solitaire: The Black Raven 6 | 341352 | [341352-mystery-solitaire-the-black-raven-6.json](./341352-mystery-solitaire-the-black-raven-6.json) |
 | Mystery Solving! BrainQuiz | 283278 | [283278-mystery-solving-brainquiz.json](./283278-mystery-solving-brainquiz.json) |
+| Mystery Stone from Heaven | 75383 | [75383-mystery-stone-from-heaven.json](./75383-mystery-stone-from-heaven.json) |
 | Mystery Stories: Mountains of Madness | 63120 | [63120-mystery-stories-mountains-of-madness.json](./63120-mystery-stories-mountains-of-madness.json) |
 | Mystery Swords | 172875 | [172875-mystery-swords.json](./172875-mystery-swords.json) |
 | Mystery Tales 2: The Spirit Mask | 147162 | [147162-mystery-tales-2-the-spirit-mask.json](./147162-mystery-tales-2-the-spirit-mask.json) |
