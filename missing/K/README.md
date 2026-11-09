@@ -2197,6 +2197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kick Off 2: Giants of Europe | 80644 | [80644-kick-off-2-giants-of-europe.json](./80644-kick-off-2-giants-of-europe.json) |
 | Kick Off 2: Return to Europe | 71478 | [71478-kick-off-2-return-to-europe.json](./71478-kick-off-2-return-to-europe.json) |
 | Kick Off 2: The Final Whistle | 71966 | [71966-kick-off-2-the-final-whistle.json](./71966-kick-off-2-the-final-whistle.json) |
+| Kick Off 2: Winning Tactics | 73407 | [73407-kick-off-2-winning-tactics.json](./73407-kick-off-2-winning-tactics.json) |
 | Kick Off 2002 | 71996 | [71996-kick-off-2002.json](./71996-kick-off-2002.json) |
 | Kick Off 3 | 18938 | [18938-kick-off-3.json](./18938-kick-off-3.json) |
 | Kick Off 3: European Challenge | 45708 | [45708-kick-off-3-european-challenge.json](./45708-kick-off-3-european-challenge.json) |
@@ -2893,7 +2894,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
