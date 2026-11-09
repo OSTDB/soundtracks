@@ -63,6 +63,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V-VR | 27739 | [27739-v-vr.json](./27739-v-vr.json) |
 | V-Ware | 250052 | [250052-v-ware.json](./250052-v-ware.json) |
 | V: Ghosts in the Deep | 116808 | [116808-v-ghosts-in-the-deep.json](./116808-v-ghosts-in-the-deep.json) |
+| V: The Computer Game | 63425 | [63425-v-the-computer-game.json](./63425-v-the-computer-game.json) |
 | V: The Video Game | 45313 | [45313-v-the-video-game.json](./45313-v-the-video-game.json) |
 | V! Yuusha no Kuse ni Namaikida R | 167140 | [167140-v-yuusha-no-kuse-ni-namaikida-r.json](./167140-v-yuusha-no-kuse-ni-namaikida-r.json) |
 | V!be Bunny | 404975 | [404975-v-be-bunny.json](./404975-v-be-bunny.json) |
