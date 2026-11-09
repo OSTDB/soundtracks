@@ -1418,6 +1418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Een Wonderlijk Avontuur met Pardoes de Tovernar | 242643 | [242643-een-wonderlijk-avontuur-met-pardoes-de-tovernar.json](./242643-een-wonderlijk-avontuur-met-pardoes-de-tovernar.json) |
 | EeOneGuy Adventure | 32637 | [32637-eeoneguy-adventure.json](./32637-eeoneguy-adventure.json) |
 | EEP 12 | 405305 | [405305-eep-12.json](./405305-eep-12.json) |
+| EEP 13 | 30969 | [30969-eep-13.json](./30969-eep-13.json) |
 | EEP 14 | 100658 | [100658-eep-14.json](./100658-eep-14.json) |
 | EEP 15 | 112615 | [112615-eep-15.json](./112615-eep-15.json) |
 | EEP 17 | 193588 | [193588-eep-17.json](./193588-eep-17.json) |
@@ -3249,6 +3250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emissary of War | 65730 | [65730-emissary-of-war.json](./65730-emissary-of-war.json) |
 | Emissary One | 411620 | [411620-emissary-one.json](./411620-emissary-one.json) |
 | Emissary Zero | 329342 | [329342-emissary-zero.json](./329342-emissary-zero.json) |
+| Emission VR | 30361 | [30361-emission-vr.json](./30361-emission-vr.json) |
 | EMIT Vol. 1: Toki no Maigo | 60972 | [60972-emit-vol-1-toki-no-maigo.json](./60972-emit-vol-1-toki-no-maigo.json) |
 | EMIT Vol. 2: Inochigake no Tabi | 60966 | [60966-emit-vol-2-inochigake-no-tabi.json](./60966-emit-vol-2-inochigake-no-tabi.json) |
 | EMIT Vol. 3: Watashi ni Sayonara wo | 60967 | [60967-emit-vol-3-watashi-ni-sayonara-wo.json](./60967-emit-vol-3-watashi-ni-sayonara-wo.json) |
