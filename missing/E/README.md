@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E.E.R.I.E2 | 221760 | [221760-e-e-r-i-e2.json](./221760-e-e-r-i-e2.json) |
 | E.G.L: Elephant Gay League | 243852 | [243852-e-g-l-elephant-gay-league.json](./243852-e-g-l-elephant-gay-league.json) |
 | E.R. Mania | 91748 | [91748-e-r-mania.json](./91748-e-r-mania.json) |
+| E.R.: The Game | 19857 | [19857-e-r-the-game.json](./19857-e-r-the-game.json) |
 | E.S.P. | 145658 | [145658-e-s-p.json](./145658-e-s-p.json) |
 | E.S.S. Mega | 84246 | [84246-e-s-s-mega.json](./84246-e-s-s-mega.json) |
 | E.T. Book Cart | 91493 | [91493-e-t-book-cart.json](./91493-e-t-book-cart.json) |
@@ -1822,6 +1823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eight Balls | 263814 | [263814-eight-balls.json](./263814-eight-balls.json) |
 | Eight Characters, a Number, and a Happy Ending | 57507 | [57507-eight-characters-a-number-and-a-happy-ending.json](./57507-eight-characters-a-number-and-a-happy-ending.json) |
 | Eight Corners: A Maguntsche Story | 229289 | [229289-eight-corners-a-maguntsche-story.json](./229289-eight-corners-a-maguntsche-story.json) |
+| Eight Days | 19830 | [19830-eight-days.json](./19830-eight-days.json) |
 | Eight Dragons 2 | 307674 | [307674-eight-dragons-2.json](./307674-eight-dragons-2.json) |
 | Eight Forces | 39868 | [39868-eight-forces.json](./39868-eight-forces.json) |
 | Eight Legged Freaks | 74821 | [74821-eight-legged-freaks.json](./74821-eight-legged-freaks.json) |
