@@ -1037,6 +1037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraman: Chou Toushi Gekiden | 49134 | [49134-ultraman-chou-toushi-gekiden.json](./49134-ultraman-chou-toushi-gekiden.json) |
 | Ultraman: Galaxy Alert | 205985 | [205985-ultraman-galaxy-alert.json](./205985-ultraman-galaxy-alert.json) |
 | Ultraman: Hikari no Kuni no Shisha | 37558 | [37558-ultraman-hikari-no-kuni-no-shisha.json](./37558-ultraman-hikari-no-kuni-no-shisha.json) |
+| Ultraman: Hikari no Kyojin Densetsu | 62370 | [62370-ultraman-hikari-no-kyojin-densetsu.json](./62370-ultraman-hikari-no-kyojin-densetsu.json) |
 | Ultraman: Hiragana Daisakusen | 63950 | [63950-ultraman-hiragana-daisakusen.json](./63950-ultraman-hiragana-daisakusen.json) |
 | Ultraman: Kaijuu Daikessen | 385839 | [385839-ultraman-kaijuu-daikessen.json](./385839-ultraman-kaijuu-daikessen.json) |
 | Ultraman: Kaijuu Teikoku no Gyakushuu | 41333 | [41333-ultraman-kaijuu-teikoku-no-gyakushuu.json](./41333-ultraman-kaijuu-teikoku-no-gyakushuu.json) |
@@ -3137,6 +3138,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unwording | 199561 | [199561-unwording.json](./199561-unwording.json) |
 | Unwound | 235873 | [235873-unwound.json](./235873-unwound.json) |
 | Unwoven | 409780 | [409780-unwoven.json](./409780-unwoven.json) |
+| Unwritten: Echoes of Twilight | 62844 | [62844-unwritten-echoes-of-twilight.json](./62844-unwritten-echoes-of-twilight.json) |
 | Unyha | 306389 | [306389-unyha.json](./306389-unyha.json) |
 | Unyielder | 244405 | [244405-unyielder.json](./244405-unyielder.json) |
 | Unyielding | 156527 | [156527-unyielding.json](./156527-unyielding.json) |
