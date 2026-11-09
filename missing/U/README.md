@@ -145,6 +145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uchuu Senkan Yamato: Iscandar he no Tsuioku | 395821 | [395821-uchuu-senkan-yamato-iscandar-he-no-tsuioku.json](./395821-uchuu-senkan-yamato-iscandar-he-no-tsuioku.json) |
 | Uchuu Senkan Yamato: Kanketsu-hen | 385807 | [385807-uchuu-senkan-yamato-kanketsu-hen.json](./385807-uchuu-senkan-yamato-kanketsu-hen.json) |
 | Uchuu Senkan Yamato: Nijuu Ginga no Houkai | 395825 | [395825-uchuu-senkan-yamato-nijuu-ginga-no-houkai.json](./395825-uchuu-senkan-yamato-nijuu-ginga-no-houkai.json) |
+| Uchuujin Tanaka Tarou de RPG Tsukuuru GB2 | 63505 | [63505-uchuujin-tanaka-tarou-de-rpg-tsukuuru-gb2.json](./63505-uchuujin-tanaka-tarou-de-rpg-tsukuuru-gb2.json) |
 | Uchuusen Cosmo Carrier | 48559 | [48559-uchuusen-cosmo-carrier.json](./48559-uchuusen-cosmo-carrier.json) |
 | Ucieczka | 398338 | [398338-ucieczka.json](./398338-ucieczka.json) |
 | UCM: Ultimate Combat Mission | 83381 | [83381-ucm-ultimate-combat-mission.json](./83381-ucm-ultimate-combat-mission.json) |
