@@ -2678,6 +2678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Pirate Warriors 4 - Yamato's Grand Tour Logbook & Soul Map 1 | 268585 | [268585-one-piece-pirate-warriors-4-yamatos-grand-tour-logbook-and-soul-map-1.json](./268585-one-piece-pirate-warriors-4-yamatos-grand-tour-logbook-and-soul-map-1.json) |
 | One Piece: Pirate Warriors 4 - Zorojuro Costume | 296020 | [296020-one-piece-pirate-warriors-4-zorojuro-costume.json](./296020-one-piece-pirate-warriors-4-zorojuro-costume.json) |
 | One Piece: Romance Dawn | 6851 | [6851-one-piece-romance-dawn.json](./6851-one-piece-romance-dawn.json) |
+| One Piece: Round the Land! | 43401 | [43401-one-piece-round-the-land.json](./43401-one-piece-round-the-land.json) |
 | One Piece: Starboard | 300799 | [300799-one-piece-starboard.json](./300799-one-piece-starboard.json) |
 | One Piece: Tobidase Kaizoku-dan! | 75740 | [75740-one-piece-tobidase-kaizoku-dan.json](./75740-one-piece-tobidase-kaizoku-dan.json) |
 | One Piece: Treasure Battle! | 75746 | [75746-one-piece-treasure-battle.json](./75746-one-piece-treasure-battle.json) |
