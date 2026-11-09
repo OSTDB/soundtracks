@@ -4979,6 +4979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Be a Millionaire: Flash Edition | 319929 | [319929-who-wants-to-be-a-millionaire-flash-edition.json](./319929-who-wants-to-be-a-millionaire-flash-edition.json) |
 | Who Wants to Be a Millionaire: Hitchcock DLC Pack | 289323 | [289323-who-wants-to-be-a-millionaire-hitchcock-dlc-pack.json](./289323-who-wants-to-be-a-millionaire-hitchcock-dlc-pack.json) |
 | Who Wants to Be a Millionaire: Junior | 308991 | [308991-who-wants-to-be-a-millionaire-junior.json](./308991-who-wants-to-be-a-millionaire-junior.json) |
+| Who Wants to Be a Millionaire: Junior | 49458 | [49458-who-wants-to-be-a-millionaire-junior.json](./49458-who-wants-to-be-a-millionaire-junior.json) |
 | Who Wants to Be a Millionaire: Kids Edition | 80863 | [80863-who-wants-to-be-a-millionaire-kids-edition.json](./80863-who-wants-to-be-a-millionaire-kids-edition.json) |
 | Who Wants to Be A Millionaire: Microsoft Games DLC Pack | 318439 | [318439-who-wants-to-be-a-millionaire-microsoft-games-dlc-pack.json](./318439-who-wants-to-be-a-millionaire-microsoft-games-dlc-pack.json) |
 | Who Wants to Be a Millionaire: Music Edition | 311657 | [311657-who-wants-to-be-a-millionaire-music-edition.json](./311657-who-wants-to-be-a-millionaire-music-edition.json) |
@@ -6346,6 +6347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winx Club: Join the Club | 78838 | [78838-winx-club-join-the-club.json](./78838-winx-club-join-the-club.json) |
 | Winx Club: Magical Fairy Party | 25166 | [25166-winx-club-magical-fairy-party.json](./25166-winx-club-magical-fairy-party.json) |
 | Winx Club: Mission Enchantix | 78837 | [78837-winx-club-mission-enchantix.json](./78837-winx-club-mission-enchantix.json) |
+| WinX Club: Quest for the Codex | 49457 | [49457-winx-club-quest-for-the-codex.json](./49457-winx-club-quest-for-the-codex.json) |
 | Winx Club: Saving Alfea | 61159 | [61159-winx-club-saving-alfea.json](./61159-winx-club-saving-alfea.json) |
 | Winx Club: The Magic Is Back | 381167 | [381167-winx-club-the-magic-is-back.json](./381167-winx-club-the-magic-is-back.json) |
 | Winx Club: Winx Fairy School | 96728 | [96728-winx-club-winx-fairy-school.json](./96728-winx-club-winx-fairy-school.json) |
