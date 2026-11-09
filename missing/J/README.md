@@ -2048,6 +2048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou J.League Perfect Striker 3 | 168137 | [168137-jikkyou-j-league-perfect-striker-3.json](./168137-jikkyou-j-league-perfect-striker-3.json) |
 | Jikkyou J.League Perfect Striker 4 | 168154 | [168154-jikkyou-j-league-perfect-striker-4.json](./168154-jikkyou-j-league-perfect-striker-4.json) |
 | Jikkyou J.League Perfect Striker 5 | 220863 | [220863-jikkyou-j-league-perfect-striker-5.json](./220863-jikkyou-j-league-perfect-striker-5.json) |
+| Jikkyou Keiba Simulation: Stable Star | 37847 | [37847-jikkyou-keiba-simulation-stable-star.json](./37847-jikkyou-keiba-simulation-stable-star.json) |
 | Jikkyou Oshaberi Parodius | 38390 | [38390-jikkyou-oshaberi-parodius.json](./38390-jikkyou-oshaberi-parodius.json) |
 | Jikkyou Oshaberi Parodius: Forever With Me | 45458 | [45458-jikkyou-oshaberi-parodius-forever-with-me.json](./45458-jikkyou-oshaberi-parodius-forever-with-me.json) |
 | Jikkyou Pawafuru Major League | 69275 | [69275-jikkyou-pawafuru-major-league.json](./69275-jikkyou-pawafuru-major-league.json) |
