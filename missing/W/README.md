@@ -2022,6 +2022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior Chess | 90389 | [90389-warrior-chess.json](./90389-warrior-chess.json) |
 | Warrior Clicker | 227492 | [227492-warrior-clicker.json](./227492-warrior-clicker.json) |
 | Warrior Dragon | 73093 | [73093-warrior-dragon.json](./73093-warrior-dragon.json) |
+| Warrior Epic | 22995 | [22995-warrior-epic.json](./22995-warrior-epic.json) |
 | Warrior Escape | 290460 | [290460-warrior-escape.json](./290460-warrior-escape.json) |
 | Warrior Fighter | 110520 | [110520-warrior-fighter.json](./110520-warrior-fighter.json) |
 | Warrior Heart | 200204 | [200204-warrior-heart.json](./200204-warrior-heart.json) |
@@ -2957,6 +2958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | We Could Be Heroes | 264513 | [264513-we-could-be-heroes.json](./264513-we-could-be-heroes.json) |
 | We Could Just Be Annoying | 382442 | [382442-we-could-just-be-annoying.json](./382442-we-could-just-be-annoying.json) |
 | We Dance | 20580 | [20580-we-dance.json](./20580-we-dance.json) |
+| We Dare | 22946 | [22946-we-dare.json](./22946-we-dare.json) |
 | We Die | 169849 | [169849-we-die.json](./169849-we-die.json) |
 | We Die Standing | 398945 | [398945-we-die-standing.json](./398945-we-die-standing.json) |
 | We don't die here | 212281 | [212281-we-dont-die-here.json](./212281-we-dont-die-here.json) |
@@ -3860,6 +3862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Comes Next | 332974 | [332974-what-comes-next.json](./332974-what-comes-next.json) |
 | What Could Go Wrong? | 344415 | [344415-what-could-go-wrong.json](./344415-what-could-go-wrong.json) |
 | What da Yak | 214758 | [214758-what-da-yak.json](./214758-what-da-yak.json) |
+| What Did I Do to Deserve This, My Lord!? 2 | 22968 | [22968-what-did-i-do-to-deserve-this-my-lord-2.json](./22968-what-did-i-do-to-deserve-this-my-lord-2.json) |
 | What Did I Do to Deserve This, My Lord? | 21577 | [21577-what-did-i-do-to-deserve-this-my-lord.json](./21577-what-did-i-do-to-deserve-this-my-lord.json) |
 | What Did the Chicken See | 390746 | [390746-what-did-the-chicken-see.json](./390746-what-did-the-chicken-see.json) |
 | What Did Veronica Dream Of? | 185375 | [185375-what-did-veronica-dream-of.json](./185375-what-did-veronica-dream-of.json) |
