@@ -3457,6 +3457,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO The Hobbit: Side Quest Character Pack | 168771 | [168771-lego-the-hobbit-side-quest-character-pack.json](./168771-lego-the-hobbit-side-quest-character-pack.json) |
 | LEGO The Hobbit: The Battle Pack | 168773 | [168773-lego-the-hobbit-the-battle-pack.json](./168773-lego-the-hobbit-the-battle-pack.json) |
 | LEGO The Hobbit: The Big Little Character Pack | 168772 | [168772-lego-the-hobbit-the-big-little-character-pack.json](./168772-lego-the-hobbit-the-big-little-character-pack.json) |
+| LEGO The Incredibles | 94876 | [94876-lego-the-incredibles.json](./94876-lego-the-incredibles.json) |
 | LEGO The Incredibles: Parr Family Vacation Character Pack | 254878 | [254878-lego-the-incredibles-parr-family-vacation-character-pack.json](./254878-lego-the-incredibles-parr-family-vacation-character-pack.json) |
 | LEGO The Lord of the Rings | 284136 | [284136-lego-the-lord-of-the-rings.json](./284136-lego-the-lord-of-the-rings.json) |
 | LEGO The Lord of the Rings | 4969 | [4969-lego-the-lord-of-the-rings.json](./4969-lego-the-lord-of-the-rings.json) |
