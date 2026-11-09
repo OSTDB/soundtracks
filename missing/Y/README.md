@@ -895,6 +895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yomawari: Midnight Shadows - Limited Edition | 167050 | [167050-yomawari-midnight-shadows-limited-edition.json](./167050-yomawari-midnight-shadows-limited-edition.json) |
 | Yomawari: Night Alone | 11589 | [11589-yomawari-night-alone.json](./11589-yomawari-night-alone.json) |
 | Yomawari: Night Alone - Digital Pitch Dark Edition | 52105 | [52105-yomawari-night-alone-digital-pitch-dark-edition.json](./52105-yomawari-night-alone-digital-pitch-dark-edition.json) |
+| Yomawari: Night Alone - Limited Edition | 42728 | [42728-yomawari-night-alone-limited-edition.json](./42728-yomawari-night-alone-limited-edition.json) |
 | Yomawari: Night Alone / htol#NiQ: The Firefly Diary - Limited Edition | 297245 | [297245-yomawari-night-alone-htol-niq-the-firefly-diary-limited-edition.json](./297245-yomawari-night-alone-htol-niq-the-firefly-diary-limited-edition.json) |
 | Yomawari: The Long Night Collection | 103052 | [103052-yomawari-the-long-night-collection.json](./103052-yomawari-the-long-night-collection.json) |
 | Yomegami: My Sweet Goddess | 361980 | [361980-yomegami-my-sweet-goddess.json](./361980-yomegami-my-sweet-goddess.json) |
@@ -1619,6 +1620,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys DS | 112195 | [112195-ys-ds.json](./112195-ys-ds.json) |
 | Ys Eternal | 124503 | [124503-ys-eternal.json](./124503-ys-eternal.json) |
 | Ys Foliage Ocean in Celceta: Kai | 288377 | [288377-ys-foliage-ocean-in-celceta-kai.json](./288377-ys-foliage-ocean-in-celceta-kai.json) |
+| Ys I & II Chronicles: Premium Edition | 42692 | [42692-ys-i-and-ii-chronicles-premium-edition.json](./42692-ys-i-and-ii-chronicles-premium-edition.json) |
 | Ys I & II Chronicles+ | 21032 | [21032-ys-i-and-ii-chronicles.json](./21032-ys-i-and-ii-chronicles.json) |
 | Ys I & II: Eternal Story | 124499 | [124499-ys-i-and-ii-eternal-story.json](./124499-ys-i-and-ii-eternal-story.json) |
 | Ys I Chronicals | 410166 | [410166-ys-i-chronicals.json](./410166-ys-i-chronicals.json) |
@@ -1669,6 +1671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys Online: The Call of Solum | 15458 | [15458-ys-online-the-call-of-solum.json](./15458-ys-online-the-call-of-solum.json) |
 | Ys Origin | 10949 | [10949-ys-origin.json](./10949-ys-origin.json) |
 | Ys Origin: Special Edition | 167141 | [167141-ys-origin-special-edition.json](./167141-ys-origin-special-edition.json) |
+| Ys Seven: Premium Edition | 42691 | [42691-ys-seven-premium-edition.json](./42691-ys-seven-premium-edition.json) |
 | Ys Strategy | 15456 | [15456-ys-strategy.json](./15456-ys-strategy.json) |
 | Ys V Expert | 42316 | [42316-ys-v-expert.json](./42316-ys-v-expert.json) |
 | Ys V: Lost Kefin, Kingdom of Sand | 168535 | [168535-ys-v-lost-kefin-kingdom-of-sand.json](./168535-ys-v-lost-kefin-kingdom-of-sand.json) |
@@ -1706,6 +1709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ys: Memories of Celceta | 15457 | [15457-ys-memories-of-celceta.json](./15457-ys-memories-of-celceta.json) |
 | Ys: Memories of Celceta - 25th Anniversary Edition | 89868 | [89868-ys-memories-of-celceta-25th-anniversary-edition.json](./89868-ys-memories-of-celceta-25th-anniversary-edition.json) |
 | Ys: Memories of Celceta - Silver Anniversary Edition | 42679 | [42679-ys-memories-of-celceta-silver-anniversary-edition.json](./42679-ys-memories-of-celceta-silver-anniversary-edition.json) |
+| Ys: The Oath in Felghana - Premium Edition | 42690 | [42690-ys-the-oath-in-felghana-premium-edition.json](./42690-ys-the-oath-in-felghana-premium-edition.json) |
 | Ys: The Vanished Omens | 206129 | [206129-ys-the-vanished-omens.json](./206129-ys-the-vanished-omens.json) |
 | Ys: Wanderers from Ys | 15450 | [15450-ys-wanderers-from-ys.json](./15450-ys-wanderers-from-ys.json) |
 | Ys: Wanderers from Ys | 206523 | [206523-ys-wanderers-from-ys.json](./206523-ys-wanderers-from-ys.json) |
