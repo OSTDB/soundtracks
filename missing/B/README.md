@@ -1648,6 +1648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ballads of Hongye | 197151 | [197151-ballads-of-hongye.json](./197151-ballads-of-hongye.json) |
 | Ballads of Hongye Reborn | 317781 | [317781-ballads-of-hongye-reborn.json](./317781-ballads-of-hongye-reborn.json) |
 | Ballads of Hongye: Grand Edition | 231575 | [231575-ballads-of-hongye-grand-edition.json](./231575-ballads-of-hongye-grand-edition.json) |
+| Ballads of Reemus: When the Bed Bites | 62864 | [62864-ballads-of-reemus-when-the-bed-bites.json](./62864-ballads-of-reemus-when-the-bed-bites.json) |
 | Ballance | 20895 | [20895-ballance.json](./20895-ballance.json) |
 | Ballance: The Return | 127371 | [127371-ballance-the-return.json](./127371-ballance-the-return.json) |
 | Ballapalooza | 275110 | [275110-ballapalooza.json](./275110-ballapalooza.json) |
@@ -4241,6 +4242,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Zone: Clicker | 183521 | [183521-battle-zone-clicker.json](./183521-battle-zone-clicker.json) |
 | Battle-field | 13868 | [13868-battle-field.json](./13868-battle-field.json) |
 | Battle-Girl | 58690 | [58690-battle-girl.json](./58690-battle-girl.json) |
+| Battle-SX | 62786 | [62786-battle-sx.json](./62786-battle-sx.json) |
 | Battle-X | 256305 | [256305-battle-x.json](./256305-battle-x.json) |
 | Battle-X | 92032 | [92032-battle-x.json](./92032-battle-x.json) |
 | Battle: Los Angeles | 19010 | [19010-battle-los-angeles.json](./19010-battle-los-angeles.json) |
@@ -10775,6 +10777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Block Faker | 128813 | [128813-block-faker.json](./128813-block-faker.json) |
 | Block Fall Simulator 2019 | 123887 | [123887-block-fall-simulator-2019.json](./123887-block-fall-simulator-2019.json) |
 | Block Farm Club | 176713 | [176713-block-farm-club.json](./176713-block-farm-club.json) |
+| Block Fever | 62855 | [62855-block-fever.json](./62855-block-fever.json) |
 | Block Fight | 201553 | [201553-block-fight.json](./201553-block-fight.json) |
 | Block Five | 71613 | [71613-block-five.json](./71613-block-five.json) |
 | Block Flying | 247077 | [247077-block-flying.json](./247077-block-flying.json) |
