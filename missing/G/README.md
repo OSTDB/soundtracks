@@ -11226,6 +11226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Princess 2 | 180523 | [180523-gun-princess-2.json](./180523-gun-princess-2.json) |
 | Gun Quest | 382475 | [382475-gun-quest.json](./382475-gun-quest.json) |
 | Gun Raiders | 145040 | [145040-gun-raiders.json](./145040-gun-raiders.json) |
+| Gun Range VR | 32341 | [32341-gun-range-vr.json](./32341-gun-range-vr.json) |
 | Gun Raze | 98023 | [98023-gun-raze.json](./98023-gun-raze.json) |
 | Gun Reflex VR | 326222 | [326222-gun-reflex-vr.json](./326222-gun-reflex-vr.json) |
 | Gun Repair Shop | 386436 | [386436-gun-repair-shop.json](./386436-gun-repair-shop.json) |
