@@ -387,6 +387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faceless | 293539 | [293539-faceless.json](./293539-faceless.json) |
 | Faceless | 320882 | [320882-faceless.json](./320882-faceless.json) |
 | Faceless | 340047 | [340047-faceless.json](./340047-faceless.json) |
+| Faceless | 54586 | [54586-faceless.json](./54586-faceless.json) |
 | Faceless: Prologue | 320880 | [320880-faceless-prologue.json](./320880-faceless-prologue.json) |
 | Facemaker | 326621 | [326621-facemaker.json](./326621-facemaker.json) |
 | Facemaker | 40897 | [40897-facemaker.json](./40897-facemaker.json) |
@@ -4970,9 +4971,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Filthy Rich | 313881 | [313881-filthy-rich.json](./313881-filthy-rich.json) |
 | Filthy Us: Complete Edition | 274836 | [274836-filthy-us-complete-edition.json](./274836-filthy-us-complete-edition.json) |
 | Filtration | 372429 | [372429-filtration.json](./372429-filtration.json) |
+| FIM Speedway GP 3 | 54045 | [54045-fim-speedway-gp-3.json](./54045-fim-speedway-gp-3.json) |
 | FIM Speedway Grand Prix | 67678 | [67678-fim-speedway-grand-prix.json](./67678-fim-speedway-grand-prix.json) |
 | FIM Speedway Grand Prix 2 | 67677 | [67677-fim-speedway-grand-prix-2.json](./67677-fim-speedway-grand-prix-2.json) |
 | FIM Speedway Grand Prix 3 | 67676 | [67676-fim-speedway-grand-prix-3.json](./67676-fim-speedway-grand-prix-3.json) |
+| FIM Speedway Grand Prix 4 | 54044 | [54044-fim-speedway-grand-prix-4.json](./54044-fim-speedway-grand-prix-4.json) |
 | Fimbles: Fimbling Fun! | 307345 | [307345-fimbles-fimbling-fun.json](./307345-fimbles-fimbling-fun.json) |
 | Fimbul | 83614 | [83614-fimbul.json](./83614-fimbul.json) |
 | Fimbul Winter | 149891 | [149891-fimbul-winter.json](./149891-fimbul-winter.json) |
@@ -5742,6 +5745,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Finding Chase | 359408 | [359408-finding-chase.json](./359408-finding-chase.json) |
 | Finding Chuchu | 371630 | [371630-finding-chuchu.json](./371630-finding-chuchu.json) |
 | Finding Cinderella | 207171 | [207171-finding-cinderella.json](./207171-finding-cinderella.json) |
+| Finding Doggy | 54043 | [54043-finding-doggy.json](./54043-finding-doggy.json) |
 | Finding Dory | 230376 | [230376-finding-dory.json](./230376-finding-dory.json) |
 | Finding Dory | 237525 | [237525-finding-dory.json](./237525-finding-dory.json) |
 | Finding Dragons | 356350 | [356350-finding-dragons.json](./356350-finding-dragons.json) |
@@ -6111,6 +6115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Fighter | 246395 | [246395-fire-fighter.json](./246395-fire-fighter.json) |
 | Fire Flight | 76661 | [76661-fire-flight.json](./76661-fire-flight.json) |
 | Fire Flinger | 103656 | [103656-fire-flinger.json](./103656-fire-flinger.json) |
+| Fire Flower | 54042 | [54042-fire-flower.json](./54042-fire-flower.json) |
 | Fire Flush | 107220 | [107220-fire-flush.json](./107220-fire-flush.json) |
 | Fire Fly | 23855 | [23855-fire-fly.json](./23855-fire-fly.json) |
 | Fire Fly | 277588 | [277588-fire-fly.json](./277588-fire-fly.json) |
@@ -8016,6 +8021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flight Deck 5 | 78093 | [78093-flight-deck-5.json](./78093-flight-deck-5.json) |
 | Flight Deck II | 122647 | [122647-flight-deck-ii.json](./122647-flight-deck-ii.json) |
 | Flight Fight 2s | 89699 | [89699-flight-fight-2s.json](./89699-flight-fight-2s.json) |
+| Flight for Fight | 54041 | [54041-flight-for-fight.json](./54041-flight-for-fight.json) |
 | Flight Game | 245476 | [245476-flight-game.json](./245476-flight-game.json) |
 | Flight Level | 224931 | [224931-flight-level.json](./224931-flight-level.json) |
 | Flight Light Plus | 96504 | [96504-flight-light-plus.json](./96504-flight-light-plus.json) |
@@ -8171,7 +8177,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flip Trickster | 89215 | [89215-flip-trickster.json](./89215-flip-trickster.json) |
 | Flip Trickster: Parkour Simulator | 96708 | [96708-flip-trickster-parkour-simulator.json](./96708-flip-trickster-parkour-simulator.json) |
 | Flip Trip | 233108 | [233108-flip-trip.json](./233108-flip-trip.json) |
+| Flip Words | 54040 | [54040-flip-words.json](./54040-flip-words.json) |
 | Flip Words | 77381 | [77381-flip-words.json](./77381-flip-words.json) |
+| Flip Words 2 | 54039 | [54039-flip-words-2.json](./54039-flip-words-2.json) |
 | Flip XY | 180099 | [180099-flip-xy.json](./180099-flip-xy.json) |
 | Flip-Flip | 304066 | [304066-flip-flip.json](./304066-flip-flip.json) |
 | Flip-Flip Jigsaw Girls | 410383 | [410383-flip-flip-jigsaw-girls.json](./410383-flip-flip-jigsaw-girls.json) |
@@ -8961,6 +8969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying High | 297123 | [297123-flying-high.json](./297123-flying-high.json) |
 | Flying in Labyrinth | 114934 | [114934-flying-in-labyrinth.json](./114934-flying-in-labyrinth.json) |
 | Flying Islands | 366955 | [366955-flying-islands.json](./366955-flying-islands.json) |
+| Flying Islands Chronicles | 54038 | [54038-flying-islands-chronicles.json](./54038-flying-islands-chronicles.json) |
 | Flying Islands Games Bundle | 147812 | [147812-flying-islands-games-bundle.json](./147812-flying-islands-games-bundle.json) |
 | Flying Kick | 181237 | [181237-flying-kick.json](./181237-flying-kick.json) |
 | Flying Leo | 73174 | [73174-flying-leo.json](./73174-flying-leo.json) |
@@ -9399,6 +9408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foosball HD | 175508 | [175508-foosball-hd.json](./175508-foosball-hd.json) |
 | Foosball League Cup: Arcade Table Football Simulator | 269355 | [269355-foosball-league-cup-arcade-table-football-simulator.json](./269355-foosball-league-cup-arcade-table-football-simulator.json) |
 | Foosball Manager | 406042 | [406042-foosball-manager.json](./406042-foosball-manager.json) |
+| Foosball Maniac | 54037 | [54037-foosball-maniac.json](./54037-foosball-maniac.json) |
 | Foosball Runner | 318195 | [318195-foosball-runner.json](./318195-foosball-runner.json) |
 | Foosball VR | 84010 | [84010-foosball-vr.json](./84010-foosball-vr.json) |
 | Foosball: World Tour | 34848 | [34848-foosball-world-tour.json](./34848-foosball-world-tour.json) |
