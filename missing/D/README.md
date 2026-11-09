@@ -1754,6 +1754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Matter | 97240 | [97240-dark-matter.json](./97240-dark-matter.json) |
 | Dark Matter: The Baryon Project | 137229 | [137229-dark-matter-the-baryon-project.json](./137229-dark-matter-the-baryon-project.json) |
 | Dark Maze | 148912 | [148912-dark-maze.json](./148912-dark-maze.json) |
+| Dark Maze | 76103 | [76103-dark-maze.json](./76103-dark-maze.json) |
 | Dark Maze 2 | 102393 | [102393-dark-maze-2.json](./102393-dark-maze-2.json) |
 | Dark Meadow: The Pact | 65599 | [65599-dark-meadow-the-pact.json](./65599-dark-meadow-the-pact.json) |
 | Dark Memories: Investigation | 303459 | [303459-dark-memories-investigation.json](./303459-dark-memories-investigation.json) |
@@ -4418,6 +4419,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadsigns | 149043 | [149043-deadsigns.json](./149043-deadsigns.json) |
 | Deadstar: The Game | 328344 | [328344-deadstar-the-game.json](./328344-deadstar-the-game.json) |
 | Deadstate Heroes | 424642 | [424642-deadstate-heroes.json](./424642-deadstate-heroes.json) |
+| Deadstep | 76111 | [76111-deadstep.json](./76111-deadstep.json) |
 | Deadstick: Bush Flight Simulator | 101239 | [101239-deadstick-bush-flight-simulator.json](./101239-deadstick-bush-flight-simulator.json) |
 | Deadstone | 17916 | [17916-deadstone.json](./17916-deadstone.json) |
 | Deadstorm Pirates | 39788 | [39788-deadstorm-pirates.json](./39788-deadstorm-pirates.json) |
@@ -5629,6 +5631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Space Waifu: Legends | 125694 | [125694-deep-space-waifu-legends.json](./125694-deep-space-waifu-legends.json) |
 | Deep Space: Lost Battleship | 200142 | [200142-deep-space-lost-battleship.json](./200142-deep-space-lost-battleship.json) |
 | Deep Space: Operation Copernicus | 15513 | [15513-deep-space-operation-copernicus.json](./15513-deep-space-operation-copernicus.json) |
+| Deep Space: Unknown Universe | 76117 | [76117-deep-space-unknown-universe.json](./76117-deep-space-unknown-universe.json) |
 | Deep State | 281560 | [281560-deep-state.json](./281560-deep-state.json) |
 | Deep Stories Bundle | 218689 | [218689-deep-stories-bundle.json](./218689-deep-stories-bundle.json) |
 | Deep Storm | 246323 | [246323-deep-storm.json](./246323-deep-storm.json) |
@@ -8672,6 +8675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diabolik Lovers Chaos Lineage | 113463 | [113463-diabolik-lovers-chaos-lineage.json](./113463-diabolik-lovers-chaos-lineage.json) |
 | Diabolik Lovers More, Blood Limited V Edition | 221877 | [221877-diabolik-lovers-more-blood-limited-v-edition.json](./221877-diabolik-lovers-more-blood-limited-v-edition.json) |
 | Diabolik Lovers: Dark Fate | 61941 | [61941-diabolik-lovers-dark-fate.json](./61941-diabolik-lovers-dark-fate.json) |
+| Diabolik Lovers: Grand Edition | 76257 | [76257-diabolik-lovers-grand-edition.json](./76257-diabolik-lovers-grand-edition.json) |
 | Diabolik Lovers: Grand Edition - Limited Edition | 166268 | [166268-diabolik-lovers-grand-edition-limited-edition.json](./166268-diabolik-lovers-grand-edition-limited-edition.json) |
 | Diabolik Lovers: Haunted Dark Bridal | 85952 | [85952-diabolik-lovers-haunted-dark-bridal.json](./85952-diabolik-lovers-haunted-dark-bridal.json) |
 | Diabolik Lovers: Haunted Dark Bridal - Limited Edition | 44509 | [44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json](./44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json) |
