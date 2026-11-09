@@ -6373,6 +6373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deliver Us From Evil: Cadenza | 192284 | [192284-deliver-us-from-evil-cadenza.json](./192284-deliver-us-from-evil-cadenza.json) |
 | Deliver Us From Evil: Masquerade | 242723 | [242723-deliver-us-from-evil-masquerade.json](./242723-deliver-us-from-evil-masquerade.json) |
 | Deliver Us Home | 303467 | [303467-deliver-us-home.json](./303467-deliver-us-home.json) |
+| Deliver Us Mars | 194740 | [194740-deliver-us-mars.json](./194740-deliver-us-mars.json) |
 | Deliver Us Mars: Deluxe Edition | 204468 | [204468-deliver-us-mars-deluxe-edition.json](./204468-deliver-us-mars-deluxe-edition.json) |
 | Deliver us the Moon: Deluxe Edition | 166177 | [166177-deliver-us-the-moon-deluxe-edition.json](./166177-deliver-us-the-moon-deluxe-edition.json) |
 | Deliver us the Moon: Digital Deluxe | 227351 | [227351-deliver-us-the-moon-digital-deluxe.json](./227351-deliver-us-the-moon-digital-deluxe.json) |
@@ -7898,6 +7899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Beyond Light - Season of the Splicer | 147058 | [147058-destiny-2-beyond-light-season-of-the-splicer.json](./147058-destiny-2-beyond-light-season-of-the-splicer.json) |
 | Destiny 2: Black Armory | 112408 | [112408-destiny-2-black-armory.json](./112408-destiny-2-black-armory.json) |
 | Destiny 2: Collector's Edition | 37213 | [37213-destiny-2-collectors-edition.json](./37213-destiny-2-collectors-edition.json) |
+| Destiny 2: Curse of Osiris | 61583 | [61583-destiny-2-curse-of-osiris.json](./61583-destiny-2-curse-of-osiris.json) |
 | Destiny 2: Digital Deluxe Edition | 52887 | [52887-destiny-2-digital-deluxe-edition.json](./52887-destiny-2-digital-deluxe-edition.json) |
 | Destiny 2: Echoes | 305328 | [305328-destiny-2-echoes.json](./305328-destiny-2-echoes.json) |
 | Destiny 2: Echoes Silver Bundle | 304414 | [304414-destiny-2-echoes-silver-bundle.json](./304414-destiny-2-echoes-silver-bundle.json) |
@@ -7988,6 +7990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny: Guardians | 104962 | [104962-destiny-guardians.json](./104962-destiny-guardians.json) |
 | Destiny: House of Wolves | 19921 | [19921-destiny-house-of-wolves.json](./19921-destiny-house-of-wolves.json) |
 | Destiny: Limited Edition | 147699 | [147699-destiny-limited-edition.json](./147699-destiny-limited-edition.json) |
+| Destiny: Rise of Iron | 19587 | [19587-destiny-rise-of-iron.json](./19587-destiny-rise-of-iron.json) |
 | Destiny: Rising | 319758 | [319758-destiny-rising.json](./319758-destiny-rising.json) |
 | Destiny: The Collection | 22916 | [22916-destiny-the-collection.json](./22916-destiny-the-collection.json) |
 | Destiny: The Dark Below | 19920 | [19920-destiny-the-dark-below.json](./19920-destiny-the-dark-below.json) |
@@ -15443,6 +15446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Ball Z: The Legacy Of Tenkaichi | 308554 | [308554-dragon-ball-z-the-legacy-of-tenkaichi.json](./308554-dragon-ball-z-the-legacy-of-tenkaichi.json) |
 | Dragon Ball Z: The Legend | 2579 | [2579-dragon-ball-z-the-legend.json](./2579-dragon-ball-z-the-legend.json) |
 | Dragon Ball Z: The Plan to Destroy the Saiyans | 137522 | [137522-dragon-ball-z-the-plan-to-destroy-the-saiyans.json](./137522-dragon-ball-z-the-plan-to-destroy-the-saiyans.json) |
+| Dragon Ball Z: Ultimate Tenkaichi | 2574 | [2574-dragon-ball-z-ultimate-tenkaichi.json](./2574-dragon-ball-z-ultimate-tenkaichi.json) |
 | Dragon Ball Z: V.R.V.S. | 2561 | [2561-dragon-ball-z-v-r-v-s.json](./2561-dragon-ball-z-v-r-v-s.json) |
 | Dragon Ball Z: W Bakuretsu Impact | 66914 | [66914-dragon-ball-z-w-bakuretsu-impact.json](./66914-dragon-ball-z-w-bakuretsu-impact.json) |
 | Dragon Ball Z: XKeeperZ | 98436 | [98436-dragon-ball-z-xkeeperz.json](./98436-dragon-ball-z-xkeeperz.json) |
@@ -20336,6 +20340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dysnomia Exburst | 417424 | [417424-dysnomia-exburst.json](./417424-dysnomia-exburst.json) |
 | Dysnystaxis (...A Chance Meeting With Somnus) | 271219 | [271219-dysnystaxis-a-chance-meeting-with-somnus.json](./271219-dysnystaxis-a-chance-meeting-with-somnus.json) |
 | Dyson Era Idle | 348574 | [348574-dyson-era-idle.json](./348574-dyson-era-idle.json) |
+| Dyson Sphere Program | 139078 | [139078-dyson-sphere-program.json](./139078-dyson-sphere-program.json) |
 | Dysphoria | 260808 | [260808-dysphoria.json](./260808-dysphoria.json) |
 | Dysphoria | 303017 | [303017-dysphoria.json](./303017-dysphoria.json) |
 | Dysplaced | 258472 | [258472-dysplaced.json](./258472-dysplaced.json) |
