@@ -1044,6 +1044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Academy 2 | 19201 | [19201-magic-academy-2.json](./19201-magic-academy-2.json) |
 | Magic Adventures | 155025 | [155025-magic-adventures.json](./155025-magic-adventures.json) |
 | Magic Alliance | 323587 | [323587-magic-alliance.json](./323587-magic-alliance.json) |
+| Magic and Challenge RPG | 56650 | [56650-magic-and-challenge-rpg.json](./56650-magic-and-challenge-rpg.json) |
 | Magic and Dragon: 4X Battle | 323427 | [323427-magic-and-dragon-4x-battle.json](./323427-magic-and-dragon-4x-battle.json) |
 | Magic and Elements | 205581 | [205581-magic-and-elements.json](./205581-magic-and-elements.json) |
 | Magic and Legend: Star Seekers | 255831 | [255831-magic-and-legend-star-seekers.json](./255831-magic-and-legend-star-seekers.json) |
@@ -1163,6 +1164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Flute | 33643 | [33643-magic-flute.json](./33643-magic-flute.json) |
 | Magic Fly | 15253 | [15253-magic-fly.json](./15253-magic-fly.json) |
 | Magic Force | 265100 | [265100-magic-force.json](./265100-magic-force.json) |
+| Magic Forest | 56614 | [56614-magic-forest.json](./56614-magic-forest.json) |
 | Magic Forest Escape | 315647 | [315647-magic-forest-escape.json](./315647-magic-forest-escape.json) |
 | Magic Forest Escape 2 | 315653 | [315653-magic-forest-escape-2.json](./315653-magic-forest-escape-2.json) |
 | Magic Forest Escape 3 | 315665 | [315665-magic-forest-escape-3.json](./315665-magic-forest-escape-3.json) |
@@ -2769,6 +2771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malaika: Prehistoric Quest | 73055 | [73055-malaika-prehistoric-quest.json](./73055-malaika-prehistoric-quest.json) |
 | Malasombra | 227820 | [227820-malasombra.json](./227820-malasombra.json) |
 | MaLaTang | 364780 | [364780-malatang.json](./364780-malatang.json) |
+| Malatzshia | 56610 | [56610-malatzshia.json](./56610-malatzshia.json) |
 | Malavision: The Origin | 31812 | [31812-malavision-the-origin.json](./31812-malavision-the-origin.json) |
 | Malazar's Inscrutable Tower | 421451 | [421451-malazars-inscrutable-tower.json](./421451-malazars-inscrutable-tower.json) |
 | Malazard: The Master of Magic | 32139 | [32139-malazard-the-master-of-magic.json](./32139-malazard-the-master-of-magic.json) |
@@ -6166,6 +6169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -11400,6 +11404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsurgeon | 5684 | [5684-microsurgeon.json](./5684-microsurgeon.json) |
 | Microtopia | 293155 | [293155-microtopia.json](./293155-microtopia.json) |
 | MicroTown | 120024 | [120024-microtown.json](./120024-microtown.json) |
+| Microtransaction Simulator | 56631 | [56631-microtransaction-simulator.json](./56631-microtransaction-simulator.json) |
 | Microtransaction Simulator Game of the Decade: Deluxe Edition | 89399 | [89399-microtransaction-simulator-game-of-the-decade-deluxe-edition.json](./89399-microtransaction-simulator-game-of-the-decade-deluxe-edition.json) |
 | Microtrip | 344909 | [344909-microtrip.json](./344909-microtrip.json) |
 | Microvania | 332744 | [332744-microvania.json](./332744-microvania.json) |
@@ -12947,6 +12952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minefield | 39724 | [39724-minefield.json](./39724-minefield.json) |
 | Minefield Combat | 315660 | [315660-minefield-combat.json](./315660-minefield-combat.json) |
 | Minefields | 299512 | [299512-minefields.json](./299512-minefields.json) |
+| MineFight | 56625 | [56625-minefight.json](./56625-minefight.json) |
 | MineFinitum | 186276 | [186276-minefinitum.json](./186276-minefinitum.json) |
 | MineGeon: Renegades | 325205 | [325205-minegeon-renegades.json](./325205-minegeon-renegades.json) |
 | MineGeon: Space Mining Dungeon | 227369 | [227369-minegeon-space-mining-dungeon.json](./227369-minegeon-space-mining-dungeon.json) |
@@ -15016,6 +15022,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Train Simulator: Keisei Toei Asakusa Keikyu-sen | 91801 | [91801-mobile-train-simulator-keisei-toei-asakusa-keikyu-sen.json](./91801-mobile-train-simulator-keisei-toei-asakusa-keikyu-sen.json) |
 | Mobile Wars X | 113875 | [113875-mobile-wars-x.json](./113875-mobile-wars-x.json) |
 | Mobile Wars X: Ultimate Simulation Battle | 252197 | [252197-mobile-wars-x-ultimate-simulation-battle.json](./252197-mobile-wars-x-ultimate-simulation-battle.json) |
+| Mobile Zombie | 56637 | [56637-mobile-zombie.json](./56637-mobile-zombie.json) |
 | Mobiles Tycoon | 304584 | [304584-mobiles-tycoon.json](./304584-mobiles-tycoon.json) |
 | Mobility: A City in Motion | 73739 | [73739-mobility-a-city-in-motion.json](./73739-mobility-a-city-in-motion.json) |
 | Mobility! | 134789 | [134789-mobility.json](./134789-mobility.json) |
@@ -15790,6 +15797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monitoball | 418637 | [418637-monitoball.json](./418637-monitoball.json) |
 | Monitor Puzzle Kineko: Kinetic Connection Vol. II | 41403 | [41403-monitor-puzzle-kineko-kinetic-connection-vol-ii.json](./41403-monitor-puzzle-kineko-kinetic-connection-vol-ii.json) |
 | Monitor State | 374440 | [374440-monitor-state.json](./374440-monitor-state.json) |
+| Monitor: The Game | 56615 | [56615-monitor-the-game.json](./56615-monitor-the-game.json) |
 | Monitor: The Game - Alix: A Monitor Story | 171352 | [171352-monitor-the-game-alix-a-monitor-story.json](./171352-monitor-the-game-alix-a-monitor-story.json) |
 | Monitoring All Night | 328274 | [328274-monitoring-all-night.json](./328274-monitoring-all-night.json) |
 | Monjarmageddon | 81109 | [81109-monjarmageddon.json](./81109-monjarmageddon.json) |
@@ -22755,6 +22763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystic Midway: Rest in Pieces | 45910 | [45910-mystic-midway-rest-in-pieces.json](./45910-mystic-midway-rest-in-pieces.json) |
 | Mystic Mind: Yureru Omoi | 221464 | [221464-mystic-mind-yureru-omoi.json](./221464-mystic-mind-yureru-omoi.json) |
 | Mystic Mine | 54245 | [54245-mystic-mine.json](./54245-mystic-mine.json) |
+| Mystic Miracles - Strategy card board game | 56647 | [56647-mystic-miracles-strategy-card-board-game.json](./56647-mystic-miracles-strategy-card-board-game.json) |
 | Mystic Mischief | 248029 | [248029-mystic-mischief.json](./248029-mystic-mischief.json) |
 | Mystic Nights | 69523 | [69523-mystic-nights.json](./69523-mystic-nights.json) |
 | Mystic Pathways | 342150 | [342150-mystic-pathways.json](./342150-mystic-pathways.json) |
