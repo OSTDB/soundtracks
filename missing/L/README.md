@@ -362,6 +362,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Labyrinth of the Crystal Princess | 406652 | [406652-labyrinth-of-the-crystal-princess.json](./406652-labyrinth-of-the-crystal-princess.json) |
 | Labyrinth of the Demon King | 188867 | [188867-labyrinth-of-the-demon-king.json](./188867-labyrinth-of-the-demon-king.json) |
 | Labyrinth of the Dragon | 361085 | [361085-labyrinth-of-the-dragon.json](./361085-labyrinth-of-the-dragon.json) |
+| Labyrinth of the Grand Marche | 24407 | [24407-labyrinth-of-the-grand-marche.json](./24407-labyrinth-of-the-grand-marche.json) |
 | Labyrinth of the Witch | 118268 | [118268-labyrinth-of-the-witch.json](./118268-labyrinth-of-the-witch.json) |
 | Labyrinth of the Witch DX | 217538 | [217538-labyrinth-of-the-witch-dx.json](./217538-labyrinth-of-the-witch-dx.json) |
 | Labyrinth of Touhou | 63855 | [63855-labyrinth-of-touhou.json](./63855-labyrinth-of-touhou.json) |
