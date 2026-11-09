@@ -6509,6 +6509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deltarune Yellow | 360308 | [360308-deltarune-yellow.json](./360308-deltarune-yellow.json) |
 | Deltarune: A Different Snowgrave | 326597 | [326597-deltarune-a-different-snowgrave.json](./326597-deltarune-a-different-snowgrave.json) |
 | Deltarune: Broken Destiny | 329950 | [329950-deltarune-broken-destiny.json](./329950-deltarune-broken-destiny.json) |
+| Deltarune: Chapter 1 | 111563 | [111563-deltarune-chapter-1.json](./111563-deltarune-chapter-1.json) |
 | Deltarune: Chapter 1 - Noelle Edition | 335691 | [335691-deltarune-chapter-1-noelle-edition.json](./335691-deltarune-chapter-1-noelle-edition.json) |
 | Deltarune: Chapter 2 | 170777 | [170777-deltarune-chapter-2.json](./170777-deltarune-chapter-2.json) |
 | Deltarune: Chapter 5 | 274238 | [274238-deltarune-chapter-5.json](./274238-deltarune-chapter-5.json) |
@@ -8008,6 +8009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destroy | 328290 | [328290-destroy.json](./328290-destroy.json) |
 | Destroy All Cars | 337203 | [337203-destroy-all-cars.json](./337203-destroy-all-cars.json) |
 | Destroy All Humans! | 215448 | [215448-destroy-all-humans.json](./215448-destroy-all-humans.json) |
+| Destroy All Humans! | 2651 | [2651-destroy-all-humans.json](./2651-destroy-all-humans.json) |
 | Destroy All Humans! 2 | 215449 | [215449-destroy-all-humans-2.json](./215449-destroy-all-humans-2.json) |
 | Destroy All Humans! 2: Reprobed | 171214 | [171214-destroy-all-humans-2-reprobed.json](./171214-destroy-all-humans-2-reprobed.json) |
 | Destroy All Humans! 2: Reprobed - Challenge Accepted | 220596 | [220596-destroy-all-humans-2-reprobed-challenge-accepted.json](./220596-destroy-all-humans-2-reprobed-challenge-accepted.json) |
@@ -8499,6 +8501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry 2 | 222655 | [222655-devil-may-cry-2.json](./222655-devil-may-cry-2.json) |
 | Devil May Cry 2: Limited Edition | 43409 | [43409-devil-may-cry-2-limited-edition.json](./43409-devil-may-cry-2-limited-edition.json) |
 | Devil May Cry 3 Crimson | 343960 | [343960-devil-may-cry-3-crimson.json](./343960-devil-may-cry-3-crimson.json) |
+| Devil May Cry 3: Dante's Awakening - Special Edition | 20545 | [20545-devil-may-cry-3-dantes-awakening-special-edition.json](./20545-devil-may-cry-3-dantes-awakening-special-edition.json) |
 | Devil May Cry 3: Dante's Awakening - Special Edition | 218390 | [218390-devil-may-cry-3-dantes-awakening-special-edition.json](./218390-devil-may-cry-3-dantes-awakening-special-edition.json) |
 | Devil May Cry 3: Dante's Awakening - Special Edition | 222656 | [222656-devil-may-cry-3-dantes-awakening-special-edition.json](./222656-devil-may-cry-3-dantes-awakening-special-edition.json) |
 | Devil May Cry 4 Refrain | 76843 | [76843-devil-may-cry-4-refrain.json](./76843-devil-may-cry-4-refrain.json) |
@@ -11199,6 +11202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's TaleSpin | 145182 | [145182-disneys-talespin.json](./145182-disneys-talespin.json) |
 | Disney's TaleSpin | 198936 | [198936-disneys-talespin.json](./198936-disneys-talespin.json) |
 | Disney's TaleSpin | 8067 | [8067-disneys-talespin.json](./8067-disneys-talespin.json) |
+| Disney's Tarzan | 10662 | [10662-disneys-tarzan.json](./10662-disneys-tarzan.json) |
 | Disney's Tarzan | 116135 | [116135-disneys-tarzan.json](./116135-disneys-tarzan.json) |
 | Disney's Tarzan | 205926 | [205926-disneys-tarzan.json](./205926-disneys-tarzan.json) |
 | Disney's Tarzan Activity Center | 57923 | [57923-disneys-tarzan-activity-center.json](./57923-disneys-tarzan-activity-center.json) |
