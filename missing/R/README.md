@@ -10576,6 +10576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Role Player: Full Immersion | 159467 | [159467-role-player-full-immersion.json](./159467-role-player-full-immersion.json) |
 | Role Player: Ikura Shimai no Nenmaku Portrait - Gurigucha Live | 413743 | [413743-role-player-ikura-shimai-no-nenmaku-portrait-gurigucha-live.json](./413743-role-player-ikura-shimai-no-nenmaku-portrait-gurigucha-live.json) |
 | Role Player: Okayu Shimai no Nenmaku Portrait - Gurigucha Live | 413742 | [413742-role-player-okayu-shimai-no-nenmaku-portrait-gurigucha-live.json](./413742-role-player-okayu-shimai-no-nenmaku-portrait-gurigucha-live.json) |
+| Rolemaster: Magestorm | 66238 | [66238-rolemaster-magestorm.json](./66238-rolemaster-magestorm.json) |
 | Roles & Dice | 367307 | [367307-roles-and-dice.json](./367307-roles-and-dice.json) |
 | Rolf | 163833 | [163833-rolf.json](./163833-rolf.json) |
 | Rolf | 407520 | [407520-rolf.json](./407520-rolf.json) |
@@ -12968,6 +12969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Runion | 25735 | [25735-runion.json](./25735-runion.json) |
 | Runix: Pinball Roguelike | 374970 | [374970-runix-pinball-roguelike.json](./374970-runix-pinball-roguelike.json) |
 | RunMan Turbo | 220489 | [220489-runman-turbo.json](./220489-runman-turbo.json) |
+| RunMan: Race Around the World | 66258 | [66258-runman-race-around-the-world.json](./66258-runman-race-around-the-world.json) |
 | RunMan's Monster Fracas | 57591 | [57591-runmans-monster-fracas.json](./57591-runmans-monster-fracas.json) |
 | RunNCrush | 259044 | [259044-runncrush.json](./259044-runncrush.json) |
 | Runner | 171957 | [171957-runner.json](./171957-runner.json) |
