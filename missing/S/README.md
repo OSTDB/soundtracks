@@ -20770,6 +20770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Probes | 155820 | [155820-space-probes.json](./155820-space-probes.json) |
 | Space Professor | 62842 | [62842-space-professor.json](./62842-space-professor.json) |
 | Space puzzle | 152724 | [152724-space-puzzle.json](./152724-space-puzzle.json) |
+| Space Quarks | 25296 | [25296-space-quarks.json](./25296-space-quarks.json) |
 | Space Qube | 200022 | [200022-space-qube.json](./200022-space-qube.json) |
 | Space Query | 292351 | [292351-space-query.json](./292351-space-query.json) |
 | Space Quest 0: Replicated | 349901 | [349901-space-quest-0-replicated.json](./349901-space-quest-0-replicated.json) |
@@ -25813,6 +25814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Tiny Death Star | 39245 | [39245-star-wars-tiny-death-star.json](./39245-star-wars-tiny-death-star.json) |
 | Star Wars: Trench Run | 21743 | [21743-star-wars-trench-run.json](./21743-star-wars-trench-run.json) |
 | Star Wars: Trials on Tatooine | 34982 | [34982-star-wars-trials-on-tatooine.json](./34982-star-wars-trials-on-tatooine.json) |
+| Star Wars: Uprising | 25304 | [25304-star-wars-uprising.json](./25304-star-wars-uprising.json) |
 | Star Wars: X-Wing | 168 | [168-star-wars-x-wing.json](./168-star-wars-x-wing.json) |
 | Star Wars: X-Wing - Collector's CD-ROM | 388148 | [388148-star-wars-x-wing-collectors-cd-rom.json](./388148-star-wars-x-wing-collectors-cd-rom.json) |
 | Star Wars: X-Wing - Special Edition | 35967 | [35967-star-wars-x-wing-special-edition.json](./35967-star-wars-x-wing-special-edition.json) |
@@ -26592,6 +26594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship Coaster | 278507 | [278507-starship-coaster.json](./278507-starship-coaster.json) |
 | Starship Colony | 244646 | [244646-starship-colony.json](./244646-starship-colony.json) |
 | Starship Command | 13764 | [13764-starship-command.json](./13764-starship-command.json) |
+| Starship Command 2 | 25329 | [25329-starship-command-2.json](./25329-starship-command-2.json) |
 | Starship Command: Orion Spur | 362739 | [362739-starship-command-orion-spur.json](./362739-starship-command-orion-spur.json) |
 | Starship Commander | 108965 | [108965-starship-commander.json](./108965-starship-commander.json) |
 | StarShip Constructor | 38799 | [38799-starship-constructor.json](./38799-starship-constructor.json) |
@@ -32347,6 +32350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Flail | 105387 | [105387-super-flail.json](./105387-super-flail.json) |
 | Super Flappy Golf | 346724 | [346724-super-flappy-golf.json](./346724-super-flappy-golf.json) |
 | Super Flash Mario Bros. | 302759 | [302759-super-flash-mario-bros.json](./302759-super-flash-mario-bros.json) |
+| Super Flip | 25306 | [25306-super-flip.json](./25306-super-flip.json) |
 | Super Flipman Adventure World | 25887 | [25887-super-flipman-adventure-world.json](./25887-super-flipman-adventure-world.json) |
 | Super Flipper | 110838 | [110838-super-flipper.json](./110838-super-flipper.json) |
 | Super Flipper | 94972 | [94972-super-flipper.json](./94972-super-flipper.json) |
