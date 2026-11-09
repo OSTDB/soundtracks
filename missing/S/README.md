@@ -1796,6 +1796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sānguó Qúnyīng Zhuán V | 143513 | [143513-sanguo-qunying-zhuan-v.json](./143513-sanguo-qunying-zhuan-v.json) |
 | Sānguó Qúnyīng Zhuán VI | 143520 | [143520-sanguo-qunying-zhuan-vi.json](./143520-sanguo-qunying-zhuan-vi.json) |
 | Sanguo Qunyingzhuan VII | 81260 | [81260-sanguo-qunyingzhuan-vii.json](./81260-sanguo-qunyingzhuan-vii.json) |
+| Sānguó Shā Online | 58909 | [58909-sanguo-sha-online.json](./58909-sanguo-sha-online.json) |
 | Sanguo Warriors VR | 99017 | [99017-sanguo-warriors-vr.json](./99017-sanguo-warriors-vr.json) |
 | Sanguo Warriors VR2 | 110534 | [110534-sanguo-warriors-vr2.json](./110534-sanguo-warriors-vr2.json) |
 | Sānguó Yǎnyì: Huǒshāo Chìbì | 356018 | [356018-sanguo-yanyi-huoshao-chibi.json](./356018-sanguo-yanyi-huoshao-chibi.json) |
@@ -2940,6 +2941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scattered Ashes | 268966 | [268966-scattered-ashes.json](./268966-scattered-ashes.json) |
 | Scattered Thoughts | 317798 | [317798-scattered-thoughts.json](./317798-scattered-thoughts.json) |
 | Scattered Wings | 398578 | [398578-scattered-wings.json](./398578-scattered-wings.json) |
+| Scattergories | 58937 | [58937-scattergories.json](./58937-scattergories.json) |
 | Scattergories Weekly | 376139 | [376139-scattergories-weekly.json](./376139-scattergories-weekly.json) |
 | Scatterhoard | 185097 | [185097-scatterhoard.json](./185097-scatterhoard.json) |
 | Scatteria | 110758 | [110758-scatteria.json](./110758-scatteria.json) |
@@ -5191,6 +5193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Classics Arcade Collection: Limited Edition | 45864 | [45864-sega-classics-arcade-collection-limited-edition.json](./45864-sega-classics-arcade-collection-limited-edition.json) |
 | Sega Classics for Amazon Fire TV | 131033 | [131033-sega-classics-for-amazon-fire-tv.json](./131033-sega-classics-for-amazon-fire-tv.json) |
 | Sega Clay Challenge | 39432 | [39432-sega-clay-challenge.json](./39432-sega-clay-challenge.json) |
+| Sega Driving Simulator | 58382 | [58382-sega-driving-simulator.json](./58382-sega-driving-simulator.json) |
 | Sega Flipper | 308409 | [308409-sega-flipper.json](./308409-sega-flipper.json) |
 | Sega Flipper | 6130 | [6130-sega-flipper.json](./6130-sega-flipper.json) |
 | Sega Football Club Champions | 346196 | [346196-sega-football-club-champions.json](./346196-sega-football-club-champions.json) |
@@ -6164,6 +6167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street: Friends & Fun | 406240 | [406240-sesame-street-friends-and-fun.json](./406240-sesame-street-friends-and-fun.json) |
 | Sesame Street: Get Set to Learn | 70750 | [70750-sesame-street-get-set-to-learn.json](./70750-sesame-street-get-set-to-learn.json) |
 | Sesame Street: Let's Learn to Play Together | 59166 | [59166-sesame-street-lets-learn-to-play-together.json](./59166-sesame-street-lets-learn-to-play-together.json) |
+| Sesame Street: Let's Play School | 58391 | [58391-sesame-street-lets-play-school.json](./58391-sesame-street-lets-play-school.json) |
 | Sesame Street: Lets Make a Word! | 71441 | [71441-sesame-street-lets-make-a-word.json](./71441-sesame-street-lets-make-a-word.json) |
 | Sesame Street: Letter-Go-Round | 25175 | [25175-sesame-street-letter-go-round.json](./25175-sesame-street-letter-go-round.json) |
 | Sesame Street: Magic on Sesame Street | 59162 | [59162-sesame-street-magic-on-sesame-street.json](./59162-sesame-street-magic-on-sesame-street.json) |
@@ -6171,6 +6175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street: Music Maker | 138578 | [138578-sesame-street-music-maker.json](./138578-sesame-street-music-maker.json) |
 | Sesame Street: Numbers | 4276 | [4276-sesame-street-numbers.json](./4276-sesame-street-numbers.json) |
 | Sesame Street: Once Upon a Monster | 3253 | [3253-sesame-street-once-upon-a-monster.json](./3253-sesame-street-once-upon-a-monster.json) |
+| Sesame Street: Oscar's Letter Party | 58393 | [58393-sesame-street-oscars-letter-party.json](./58393-sesame-street-oscars-letter-party.json) |
 | Sesame Street: Preschool | 138486 | [138486-sesame-street-preschool.json](./138486-sesame-street-preschool.json) |
 | Sesame Street: Ready, Set, Grover! | 138577 | [138577-sesame-street-ready-set-grover.json](./138577-sesame-street-ready-set-grover.json) |
 | Sesame Street: Ready, Set, Grover! With Elmo - The Videogame | 47954 | [47954-sesame-street-ready-set-grover-with-elmo-the-videogame.json](./47954-sesame-street-ready-set-grover-with-elmo-the-videogame.json) |
@@ -10514,6 +10519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siegecraft Commander | 26810 | [26810-siegecraft-commander.json](./26810-siegecraft-commander.json) |
 | Siegecraft Defender | 175525 | [175525-siegecraft-defender.json](./175525-siegecraft-defender.json) |
 | Siegecraft TD | 39212 | [39212-siegecraft-td.json](./39212-siegecraft-td.json) |
+| Siegefall | 58924 | [58924-siegefall.json](./58924-siegefall.json) |
 | Siegelord | 23633 | [23633-siegelord.json](./23633-siegelord.json) |
 | Siegeturtle | 364242 | [364242-siegeturtle.json](./364242-siegeturtle.json) |
 | SiegeVR | 90784 | [90784-siegevr.json](./90784-siegevr.json) |
@@ -18788,6 +18794,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sono | 130184 | [130184-sono.json](./130184-sono.json) |
 | Sono Hanabira ni Kuchizuke o: Amakute Hoshikute Torokeru Chuu | 12218 | [12218-sono-hanabira-ni-kuchizuke-o-amakute-hoshikute-torokeru-chuu.json](./12218-sono-hanabira-ni-kuchizuke-o-amakute-hoshikute-torokeru-chuu.json) |
 | Sono Hanabira ni Kuchizuke o: Kuchibiru to Kiss de Tsubuyaite | 12217 | [12217-sono-hanabira-ni-kuchizuke-o-kuchibiru-to-kiss-de-tsubuyaite.json](./12217-sono-hanabira-ni-kuchizuke-o-kuchibiru-to-kiss-de-tsubuyaite.json) |
+| Sono Hanabira ni Kuchizuke o: Melting Hot Adult Kiss | 58939 | [58939-sono-hanabira-ni-kuchizuke-o-melting-hot-adult-kiss.json](./58939-sono-hanabira-ni-kuchizuke-o-melting-hot-adult-kiss.json) |
 | Sono Hanabira ni Kuchizuke o: Tenshi-tachi no Yakusoku | 12274 | [12274-sono-hanabira-ni-kuchizuke-o-tenshi-tachi-no-yakusoku.json](./12274-sono-hanabira-ni-kuchizuke-o-tenshi-tachi-no-yakusoku.json) |
 | Sono Hanabira ni Kuchizuke wo | 12200 | [12200-sono-hanabira-ni-kuchizuke-wo.json](./12200-sono-hanabira-ni-kuchizuke-wo.json) |
 | Sono Hanabira ni Kuchizuke wo: Amakute Otona no Torokeru Chuu | 12220 | [12220-sono-hanabira-ni-kuchizuke-wo-amakute-otona-no-torokeru-chuu.json](./12220-sono-hanabira-ni-kuchizuke-wo-amakute-otona-no-torokeru-chuu.json) |
@@ -28119,6 +28126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stoopid Puzzle Game | 163528 | [163528-stoopid-puzzle-game.json](./163528-stoopid-puzzle-game.json) |
 | Stoorm: Yellow Edition | 35368 | [35368-stoorm-yellow-edition.json](./35368-stoorm-yellow-edition.json) |
 | Stop | 135700 | [135700-stop.json](./135700-stop.json) |
+| Stop | 58913 | [58913-stop.json](./58913-stop.json) |
 | Stop and Breathe | 334005 | [334005-stop-and-breathe.json](./334005-stop-and-breathe.json) |
 | Stop and Go | 93567 | [93567-stop-and-go.json](./93567-stop-and-go.json) |
 | Stop and Go! HD | 90806 | [90806-stop-and-go-hd.json](./90806-stop-and-go-hd.json) |
@@ -28475,6 +28483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stranded Raft Survival | 88932 | [88932-stranded-raft-survival.json](./88932-stranded-raft-survival.json) |
 | Stranded Sails | 112344 | [112344-stranded-sails.json](./112344-stranded-sails.json) |
 | Stranded Shootout | 291787 | [291787-stranded-shootout.json](./291787-stranded-shootout.json) |
+| Stranded Survival | 58938 | [58938-stranded-survival.json](./58938-stranded-survival.json) |
 | Stranded Survivors | 381620 | [381620-stranded-survivors.json](./381620-stranded-survivors.json) |
 | Stranded With Darkness | 357667 | [357667-stranded-with-darkness.json](./357667-stranded-with-darkness.json) |
 | Stranded With You | 389969 | [389969-stranded-with-you.json](./389969-stranded-with-you.json) |
@@ -29400,7 +29409,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Daz Cans | 148325 | [148325-strike-daz-cans.json](./148325-strike-daz-cans.json) |
 | Strike Fighters | 80117 | [80117-strike-fighters.json](./80117-strike-fighters.json) |
 | Strike Fighters 2 | 62632 | [62632-strike-fighters-2.json](./62632-strike-fighters-2.json) |
+| Strike Fighters Attack | 58395 | [58395-strike-fighters-attack.json](./58395-strike-fighters-attack.json) |
 | Strike Fighters Israel | 58401 | [58401-strike-fighters-israel.json](./58401-strike-fighters-israel.json) |
+| Strike Fighters Legends | 58396 | [58396-strike-fighters-legends.json](./58396-strike-fighters-legends.json) |
 | Strike Fighters: Project 1 | 23766 | [23766-strike-fighters-project-1.json](./23766-strike-fighters-project-1.json) |
 | Strike Force | 273011 | [273011-strike-force.json](./273011-strike-force.json) |
 | Strike Force | 46856 | [46856-strike-force.json](./46856-strike-force.json) |
@@ -29465,6 +29476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Witches: Soukuu no Dengekisen - Shin Taichou Funtousuru! | 124061 | [124061-strike-witches-soukuu-no-dengekisen-shin-taichou-funtousuru.json](./124061-strike-witches-soukuu-no-dengekisen-shin-taichou-funtousuru.json) |
 | Strike World | 407294 | [407294-strike-world.json](./407294-strike-world.json) |
 | Strike Zone Baseball | 40432 | [40432-strike-zone-baseball.json](./40432-strike-zone-baseball.json) |
+| Strike! Real Money Bowling | 58911 | [58911-strike-real-money-bowling.json](./58911-strike-real-money-bowling.json) |
 | Strike! Ten Pin Bowling | 147619 | [147619-strike-ten-pin-bowling.json](./147619-strike-ten-pin-bowling.json) |
 | Strike!OvulationDivine Fist! Rebellion to Extinction! | 127622 | [127622-strike-ovulationdivine-fist-rebellion-to-extinction.json](./127622-strike-ovulationdivine-fist-rebellion-to-extinction.json) |
 | Strike.is: The Game | 32046 | [32046-strike-is-the-game.json](./32046-strike-is-the-game.json) |
