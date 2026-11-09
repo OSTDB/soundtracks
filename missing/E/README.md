@@ -2731,6 +2731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Forces: Navy SEALs - Weapons of Mass Destruction | 72523 | [72523-elite-forces-navy-seals-weapons-of-mass-destruction.json](./72523-elite-forces-navy-seals-weapons-of-mass-destruction.json) |
 | Elite Forces: Unit 77 | 21291 | [21291-elite-forces-unit-77.json](./21291-elite-forces-unit-77.json) |
 | Elite Forces: WWII - Desert Rats | 23470 | [23470-elite-forces-wwii-desert-rats.json](./23470-elite-forces-wwii-desert-rats.json) |
+| Elite Forces: WWII - Iwo Jima | 25285 | [25285-elite-forces-wwii-iwo-jima.json](./25285-elite-forces-wwii-iwo-jima.json) |
 | Elite Forces: WWII Normandy | 71273 | [71273-elite-forces-wwii-normandy.json](./71273-elite-forces-wwii-normandy.json) |
 | Elite Hacker: Retro Hacking Evolution | 316569 | [316569-elite-hacker-retro-hacking-evolution.json](./316569-elite-hacker-retro-hacking-evolution.json) |
 | Elite Heli Squad | 53995 | [53995-elite-heli-squad.json](./53995-elite-heli-squad.json) |
@@ -5221,6 +5222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Escape | 168071 | [168071-escape.json](./168071-escape.json) |
 | Escape | 175910 | [175910-escape.json](./175910-escape.json) |
 | Escape | 230863 | [230863-escape.json](./230863-escape.json) |
+| Escape | 25324 | [25324-escape.json](./25324-escape.json) |
 | Escape | 273231 | [273231-escape.json](./273231-escape.json) |
 | Escape | 274428 | [274428-escape.json](./274428-escape.json) |
 | Escape | 281197 | [281197-escape.json](./281197-escape.json) |
@@ -7400,6 +7402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Days of Luckless John | 73397 | [73397-evil-days-of-luckless-john.json](./73397-evil-days-of-luckless-john.json) |
 | Evil Dead Pinball | 219100 | [219100-evil-dead-pinball.json](./219100-evil-dead-pinball.json) |
 | Evil Dead: A Fistful of Boomstick | 5827 | [5827-evil-dead-a-fistful-of-boomstick.json](./5827-evil-dead-a-fistful-of-boomstick.json) |
+| Evil Dead: Endless Nightmare | 25342 | [25342-evil-dead-endless-nightmare.json](./25342-evil-dead-endless-nightmare.json) |
 | Evil Dead: Hail to the King | 47078 | [47078-evil-dead-hail-to-the-king.json](./47078-evil-dead-hail-to-the-king.json) |
 | Evil Dead: Regeneration | 5828 | [5828-evil-dead-regeneration.json](./5828-evil-dead-regeneration.json) |
 | Evil Dead: The Game | 141544 | [141544-evil-dead-the-game.json](./141544-evil-dead-the-game.json) |
