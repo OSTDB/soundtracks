@@ -2059,6 +2059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bananaventure | 283563 | [283563-bananaventure.json](./283563-bananaventure.json) |
 | Bananner Nababber | 211089 | [211089-bananner-nababber.json](./211089-bananner-nababber.json) |
 | Banano Bros. | 74586 | [74586-banano-bros.json](./74586-banano-bros.json) |
+| Bananoid | 11677 | [11677-bananoid.json](./11677-bananoid.json) |
 | Bananounce | 320974 | [320974-bananounce.json](./320974-bananounce.json) |
 | Banban Isle Rangers | 405584 | [405584-banban-isle-rangers.json](./405584-banban-isle-rangers.json) |
 | Banbard | 250842 | [250842-banbard.json](./250842-banbard.json) |
@@ -2195,6 +2196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bangers & Mash | 13375 | [13375-bangers-and-mash.json](./13375-bangers-and-mash.json) |
 | Bangers Unlimited 2 | 107006 | [107006-bangers-unlimited-2.json](./107006-bangers-unlimited-2.json) |
 | Bangkok Awakening | 320115 | [320115-bangkok-awakening.json](./320115-bangkok-awakening.json) |
+| Bangkok Knights | 11937 | [11937-bangkok-knights.json](./11937-bangkok-knights.json) |
 | Bangkok Story: A Stray Dog | 216760 | [216760-bangkok-story-a-stray-dog.json](./216760-bangkok-story-a-stray-dog.json) |
 | Bangkok: City of Legends | 416965 | [416965-bangkok-city-of-legends.json](./416965-bangkok-city-of-legends.json) |
 | Bangman | 188733 | [188733-bangman.json](./188733-bangman.json) |
@@ -2263,6 +2265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banjo: Recompiled - Jiggies of Time | 387034 | [387034-banjo-recompiled-jiggies-of-time.json](./387034-banjo-recompiled-jiggies-of-time.json) |
 | Banjo: Recompiled - Nostalgia 64 | 387035 | [387035-banjo-recompiled-nostalgia-64.json](./387035-banjo-recompiled-nostalgia-64.json) |
 | Bank | 364595 | [364595-bank.json](./364595-bank.json) |
+| Bank Buster | 11938 | [11938-bank-buster.json](./11938-bank-buster.json) |
 | Bank Escape Pro | 68773 | [68773-bank-escape-pro.json](./68773-bank-escape-pro.json) |
 | Bank Heist | 11129 | [11129-bank-heist.json](./11129-bank-heist.json) |
 | Bank It! | 359691 | [359691-bank-it.json](./359691-bank-it.json) |
@@ -2378,6 +2381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bar Billiards | 15661 | [15661-bar-billiards.json](./15661-bar-billiards.json) |
 | Bar Breaker | 291194 | [291194-bar-breaker.json](./291194-bar-breaker.json) |
 | Bar Darts Simulator | 407556 | [407556-bar-darts-simulator.json](./407556-bar-darts-simulator.json) |
+| Bar Games | 11940 | [11940-bar-games.json](./11940-bar-games.json) |
 | Bar Keeper | 411559 | [411559-bar-keeper.json](./411559-bar-keeper.json) |
 | Bar Night VR | 319722 | [319722-bar-night-vr.json](./319722-bar-night-vr.json) |
 | Bar Oasis | 63803 | [63803-bar-oasis.json](./63803-bar-oasis.json) |
@@ -2419,6 +2423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbarian | 3793 | [3793-barbarian.json](./3793-barbarian.json) |
 | Barbarian Bob | 393000 | [393000-barbarian-bob.json](./393000-barbarian-bob.json) |
 | Barbarian Brawl | 10021 | [10021-barbarian-brawl.json](./10021-barbarian-brawl.json) |
+| Barbarian II | 11942 | [11942-barbarian-ii.json](./11942-barbarian-ii.json) |
 | Barbarian II: The Dungeon of Drax | 4640 | [4640-barbarian-ii-the-dungeon-of-drax.json](./4640-barbarian-ii-the-dungeon-of-drax.json) |
 | Barbarian Kingdom | 216633 | [216633-barbarian-kingdom.json](./216633-barbarian-kingdom.json) |
 | Barbarian Legend | 153902 | [153902-barbarian-legend.json](./153902-barbarian-legend.json) |
@@ -3708,6 +3713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Bolts | 103590 | [103590-battle-bolts.json](./103590-battle-bolts.json) |
 | Battle Boom | 89526 | [89526-battle-boom.json](./89526-battle-boom.json) |
 | Battle Bouncers | 134572 | [134572-battle-bouncers.json](./134572-battle-bouncers.json) |
+| Battle Bound | 11944 | [11944-battle-bound.json](./11944-battle-bound.json) |
 | Battle Bows | 253192 | [253192-battle-bows.json](./253192-battle-bows.json) |
 | Battle Boys | 419073 | [419073-battle-boys.json](./419073-battle-boys.json) |
 | Battle Breakers | 27431 | [27431-battle-breakers.json](./27431-battle-breakers.json) |
@@ -3761,6 +3767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle City Remake | 299365 | [299365-battle-city-remake.json](./299365-battle-city-remake.json) |
 | Battle Clash | 283977 | [283977-battle-clash.json](./283977-battle-clash.json) |
 | Battle Clash | 42735 | [42735-battle-clash.json](./42735-battle-clash.json) |
+| Battle Command | 11945 | [11945-battle-command.json](./11945-battle-command.json) |
 | Battle Commander: Hachibushu Shura no Heihou | 44426 | [44426-battle-commander-hachibushu-shura-no-heihou.json](./44426-battle-commander-hachibushu-shura-no-heihou.json) |
 | Battle Commander: Return of Waroid | 61841 | [61841-battle-commander-return-of-waroid.json](./61841-battle-commander-return-of-waroid.json) |
 | Battle Commanders | 36471 | [36471-battle-commanders.json](./36471-battle-commanders.json) |
@@ -4268,6 +4275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Typer | 283437 | [283437-battle-typer.json](./283437-battle-typer.json) |
 | Battle Unit Zeoth | 7775 | [7775-battle-unit-zeoth.json](./7775-battle-unit-zeoth.json) |
 | Battle Vader | 80321 | [80321-battle-vader.json](./80321-battle-vader.json) |
+| Battle Valley | 11946 | [11946-battle-valley.json](./11946-battle-valley.json) |
 | Battle Wave | 275376 | [275376-battle-wave.json](./275376-battle-wave.json) |
 | Battle Wave 2323 | 166281 | [166281-battle-wave-2323.json](./166281-battle-wave-2323.json) |
 | Battle Waves | 204809 | [204809-battle-waves.json](./204809-battle-waves.json) |
@@ -4673,6 +4681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BattleStick 2 | 149744 | [149744-battlestick-2.json](./149744-battlestick-2.json) |
 | Battlestone | 63084 | [63084-battlestone.json](./63084-battlestone.json) |
 | BattleStones | 90851 | [90851-battlestones.json](./90851-battlestones.json) |
+| Battlestorm | 11948 | [11948-battlestorm.json](./11948-battlestorm.json) |
 | BattleStorm | 33774 | [33774-battlestorm.json](./33774-battlestorm.json) |
 | Battlestrike: Force of Resistance | 8345 | [8345-battlestrike-force-of-resistance.json](./8345-battlestrike-force-of-resistance.json) |
 | Battlestrike: Shadow of Stalingrad | 27464 | [27464-battlestrike-shadow-of-stalingrad.json](./27464-battlestrike-shadow-of-stalingrad.json) |
@@ -5011,6 +5020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beach Soccer | 52450 | [52450-beach-soccer.json](./52450-beach-soccer.json) |
 | Beach Tennis | 323840 | [323840-beach-tennis.json](./323840-beach-tennis.json) |
 | Beach Vacation Simulator | 258908 | [258908-beach-vacation-simulator.json](./258908-beach-vacation-simulator.json) |
+| Beach Volley | 11950 | [11950-beach-volley.json](./11950-beach-volley.json) |
 | Beach Volley Hot Sports | 52449 | [52449-beach-volley-hot-sports.json](./52449-beach-volley-hot-sports.json) |
 | Beach Volleyball | 246183 | [246183-beach-volleyball.json](./246183-beach-volleyball.json) |
 | Beach Volleyball | 278855 | [278855-beach-volleyball.json](./278855-beach-volleyball.json) |
@@ -5302,6 +5312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beastkeepers | 341671 | [341671-beastkeepers.json](./341671-beastkeepers.json) |
 | Beastkin Training: The Trials of a Beastkin Noblewoman | 315734 | [315734-beastkin-training-the-trials-of-a-beastkin-noblewoman.json](./315734-beastkin-training-the-trials-of-a-beastkin-noblewoman.json) |
 | BeastLink | 400902 | [400902-beastlink.json](./400902-beastlink.json) |
+| Beastlord | 11952 | [11952-beastlord.json](./11952-beastlord.json) |
 | Beastly | 94119 | [94119-beastly.json](./94119-beastly.json) |
 | Beastly Bites | 338201 | [338201-beastly-bites.json](./338201-beastly-bites.json) |
 | Beastly Desires | 299024 | [299024-beastly-desires.json](./299024-beastly-desires.json) |
