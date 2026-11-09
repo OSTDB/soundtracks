@@ -5463,6 +5463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phantasy Star Gaiden | 45252 | [45252-phantasy-star-gaiden.json](./45252-phantasy-star-gaiden.json) |
 | Phantasy Star II | 1232 | [1232-phantasy-star-ii.json](./1232-phantasy-star-ii.json) |
 | Phantasy Star III: Generations of Doom | 1231 | [1231-phantasy-star-iii-generations-of-doom.json](./1231-phantasy-star-iii-generations-of-doom.json) |
+| Phantasy Star IV: The End of the Millennium | 1230 | [1230-phantasy-star-iv-the-end-of-the-millennium.json](./1230-phantasy-star-iv-the-end-of-the-millennium.json) |
 | Phantasy Star Nova | 42674 | [42674-phantasy-star-nova.json](./42674-phantasy-star-nova.json) |
 | Phantasy Star Online | 21968 | [21968-phantasy-star-online.json](./21968-phantasy-star-online.json) |
 | Phantasy Star Online 2 -Ragol Edition- | 132155 | [132155-phantasy-star-online-2-ragol-edition.json](./132155-phantasy-star-online-2-ragol-edition.json) |
@@ -11836,6 +11837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Puzzle Challenge | 49857 | [49857-pokemon-puzzle-challenge.json](./49857-pokemon-puzzle-challenge.json) |
 | Pokémon Puzzle Collection | 66028 | [66028-pokemon-puzzle-collection.json](./66028-pokemon-puzzle-collection.json) |
 | Pokémon Puzzle Collection Vol. 2 | 66027 | [66027-pokemon-puzzle-collection-vol-2.json](./66027-pokemon-puzzle-collection-vol-2.json) |
+| Pokémon Puzzle League | 3574 | [3574-pokemon-puzzle-league.json](./3574-pokemon-puzzle-league.json) |
 | Pokemon Pyrite Version | 269455 | [269455-pokemon-pyrite-version.json](./269455-pokemon-pyrite-version.json) |
 | Pokémon Quantum | 147177 | [147177-pokemon-quantum.json](./147177-pokemon-quantum.json) |
 | Pokémon Quarantine Crystal | 201001 | [201001-pokemon-quarantine-crystal.json](./201001-pokemon-quarantine-crystal.json) |
@@ -11907,6 +11909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Shield: The Crown Tundra | 252783 | [252783-pokemon-shield-the-crown-tundra.json](./252783-pokemon-shield-the-crown-tundra.json) |
 | Pokémon Shield: The Isle of Armor | 252782 | [252782-pokemon-shield-the-isle-of-armor.json](./252782-pokemon-shield-the-isle-of-armor.json) |
 | Pokemon Shining Opal | 337420 | [337420-pokemon-shining-opal.json](./337420-pokemon-shining-opal.json) |
+| Pokémon Shining Pearl | 144052 | [144052-pokemon-shining-pearl.json](./144052-pokemon-shining-pearl.json) |
 | Pokémon Shinju Adventures | 331943 | [331943-pokemon-shinju-adventures.json](./331943-pokemon-shinju-adventures.json) |
 | Pokémon Shiny Gold Sigma | 306768 | [306768-pokemon-shiny-gold-sigma.json](./306768-pokemon-shiny-gold-sigma.json) |
 | Pokémon Showdown | 87797 | [87797-pokemon-showdown.json](./87797-pokemon-showdown.json) |
@@ -16306,6 +16309,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Capture: Legacy | 362486 | [362486-project-capture-legacy.json](./362486-project-capture-legacy.json) |
 | Project CarnEvil | 250698 | [250698-project-carnevil.json](./250698-project-carnevil.json) |
 | Project Carrot | 335324 | [335324-project-carrot.json](./335324-project-carrot.json) |
+| Project CARS 2 | 26709 | [26709-project-cars-2.json](./26709-project-cars-2.json) |
 | Project CARS 2: Deluxe Edition | 53479 | [53479-project-cars-2-deluxe-edition.json](./53479-project-cars-2-deluxe-edition.json) |
 | Project Cars 2: Limited Edition | 100548 | [100548-project-cars-2-limited-edition.json](./100548-project-cars-2-limited-edition.json) |
 | Project CARS 3 | 121173 | [121173-project-cars-3.json](./121173-project-cars-3.json) |
