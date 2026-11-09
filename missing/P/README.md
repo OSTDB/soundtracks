@@ -7850,6 +7850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirate Jam: Space DLC | 280331 | [280331-pirate-jam-space-dlc.json](./280331-pirate-jam-space-dlc.json) |
 | Pirate Jigsaw | 156095 | [156095-pirate-jigsaw.json](./156095-pirate-jigsaw.json) |
 | Pirate Jigsaw 2 | 98778 | [98778-pirate-jigsaw-2.json](./98778-pirate-jigsaw-2.json) |
+| Pirate Jump 2 | 55328 | [55328-pirate-jump-2.json](./55328-pirate-jump-2.json) |
 | Pirate King Online | 77574 | [77574-pirate-king-online.json](./77574-pirate-king-online.json) |
 | Pirate Kings | 98927 | [98927-pirate-kings.json](./98927-pirate-kings.json) |
 | Pirate Legends TD | 62992 | [62992-pirate-legends-td.json](./62992-pirate-legends-td.json) |
@@ -8151,6 +8152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pivvot | 17285 | [17285-pivvot.json](./17285-pivvot.json) |
 | Piwall | 81939 | [81939-piwall.json](./81939-piwall.json) |
 | Piworld | 318224 | [318224-piworld.json](./318224-piworld.json) |
+| Pix | 55312 | [55312-pix.json](./55312-pix.json) |
 | Pix Arts Masters Tennis | 335083 | [335083-pix-arts-masters-tennis.json](./335083-pix-arts-masters-tennis.json) |
 | Pix Hop | 183359 | [183359-pix-hop.json](./183359-pix-hop.json) |
 | Pix Jungle Adventures | 151602 | [151602-pix-jungle-adventures.json](./151602-pix-jungle-adventures.json) |
