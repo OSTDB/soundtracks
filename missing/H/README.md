@@ -594,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Crowbar-Deep in the Dead | 221795 | [221795-half-life-crowbar-deep-in-the-dead.json](./221795-half-life-crowbar-deep-in-the-dead.json) |
 | Half-Life: Dark Future | 221884 | [221884-half-life-dark-future.json](./221884-half-life-dark-future.json) |
 | Half-Life: Dark Matter | 150592 | [150592-half-life-dark-matter.json](./150592-half-life-dark-matter.json) |
+| Half-Life: Decay | 6738 | [6738-half-life-decay.json](./6738-half-life-decay.json) |
 | Half-Life: E7 Black Star | 196832 | [196832-half-life-e7-black-star.json](./196832-half-life-e7-black-star.json) |
 | Half-Life: Echoes | 150226 | [150226-half-life-echoes.json](./150226-half-life-echoes.json) |
 | Half-Life: Edge of Darkness | 196833 | [196833-half-life-edge-of-darkness.json](./196833-half-life-edge-of-darkness.json) |
@@ -6363,6 +6364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Fortune | 279416 | [279416-heroes-of-fortune.json](./279416-heroes-of-fortune.json) |
 | Heroes of Fortunia | 111134 | [111134-heroes-of-fortunia.json](./111134-heroes-of-fortunia.json) |
 | Heroes of Gaia | 63867 | [63867-heroes-of-gaia.json](./63867-heroes-of-gaia.json) |
+| Heroes of Hammerwatch | 75100 | [75100-heroes-of-hammerwatch.json](./75100-heroes-of-hammerwatch.json) |
 | Heroes of Hammerwatch II | 319818 | [319818-heroes-of-hammerwatch-ii.json](./319818-heroes-of-hammerwatch-ii.json) |
 | Heroes of Hammerwatch II: Celestial Ruins | 411671 | [411671-heroes-of-hammerwatch-ii-celestial-ruins.json](./411671-heroes-of-hammerwatch-ii-celestial-ruins.json) |
 | Heroes of Hammerwatch: Pyramid of Prophecy | 125001 | [125001-heroes-of-hammerwatch-pyramid-of-prophecy.json](./125001-heroes-of-hammerwatch-pyramid-of-prophecy.json) |
@@ -9279,6 +9281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hollow Knight: Pale Court | 255660 | [255660-hollow-knight-pale-court.json](./255660-hollow-knight-pale-court.json) |
 | Hollow Knight: Silksong - Sea of Sorrow | 381684 | [381684-hollow-knight-silksong-sea-of-sorrow.json](./381684-hollow-knight-silksong-sea-of-sorrow.json) |
 | Hollow Knight: The Glimmering Realm | 375989 | [375989-hollow-knight-the-glimmering-realm.json](./375989-hollow-knight-the-glimmering-realm.json) |
+| Hollow Knight: The Grimm Troupe | 106817 | [106817-hollow-knight-the-grimm-troupe.json](./106817-hollow-knight-the-grimm-troupe.json) |
 | Hollow Life and Insincere Words | 358473 | [358473-hollow-life-and-insincere-words.json](./358473-hollow-life-and-insincere-words.json) |
 | Hollow Memories | 385847 | [385847-hollow-memories.json](./385847-hollow-memories.json) |
 | Hollow Mind: The Lost Puppy | 169625 | [169625-hollow-mind-the-lost-puppy.json](./169625-hollow-mind-the-lost-puppy.json) |
