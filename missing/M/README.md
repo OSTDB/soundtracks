@@ -6044,6 +6044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mauled | 196942 | [196942-mauled.json](./196942-mauled.json) |
 | Mauled | 239681 | [239681-mauled.json](./239681-mauled.json) |
 | Maumau and the Labyrinth | 330860 | [330860-maumau-and-the-labyrinth.json](./330860-maumau-and-the-labyrinth.json) |
+| Maupiti Island | 14779 | [14779-maupiti-island.json](./14779-maupiti-island.json) |
 | Mauri Mursu's Hangover | 224609 | [224609-mauri-mursus-hangover.json](./224609-mauri-mursus-hangover.json) |
 | Mauri Mursu's Odyssey | 333907 | [333907-mauri-mursus-odyssey.json](./333907-mauri-mursus-odyssey.json) |
 | Maurice Sendak's Little Bear: Toddler Discovery Adventures | 316781 | [316781-maurice-sendaks-little-bear-toddler-discovery-adventures.json](./316781-maurice-sendaks-little-bear-toddler-discovery-adventures.json) |
@@ -6355,6 +6356,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MayDay MayDie | 405973 | [405973-mayday-maydie.json](./405973-mayday-maydie.json) |
 | Mayday Memory | 133602 | [133602-mayday-memory.json](./133602-mayday-memory.json) |
 | Mayday Protocol | 382328 | [382328-mayday-protocol.json](./382328-mayday-protocol.json) |
+| Mayday Squad | 14780 | [14780-mayday-squad.json](./14780-mayday-squad.json) |
 | Mayday: Conflict Earth | 36932 | [36932-mayday-conflict-earth.json](./36932-mayday-conflict-earth.json) |
 | Mayday: The Survival Island | 169856 | [169856-mayday-the-survival-island.json](./169856-mayday-the-survival-island.json) |
 | Mayday!! | 86169 | [86169-mayday.json](./86169-mayday.json) |
@@ -6789,6 +6791,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meal: Mystery Escape Room | 311828 | [311828-meal-mystery-escape-room.json](./311828-meal-mystery-escape-room.json) |
 | Mealmate | 388308 | [388308-mealmate.json](./388308-mealmate.json) |
 | Mealmates | 151009 | [151009-mealmates.json](./151009-mealmates.json) |
+| Mean 18: Ultimate Golf | 14781 | [14781-mean-18-ultimate-golf.json](./14781-mean-18-ultimate-golf.json) |
 | Mean Arenas | 12677 | [12677-mean-arenas.json](./12677-mean-arenas.json) |
 | Mean Bean Tsuu | 321399 | [321399-mean-bean-tsuu.json](./321399-mean-bean-tsuu.json) |
 | Mean Beans | 236289 | [236289-mean-beans.json](./236289-mean-beans.json) |
@@ -9199,6 +9202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memories: Remember Me | 378008 | [378008-memories-remember-me.json](./378008-memories-remember-me.json) |
 | Memories: Silenced | 403100 | [403100-memories-silenced.json](./403100-memories-silenced.json) |
 | Memorion | 273824 | [273824-memorion.json](./273824-memorion.json) |
+| Memorise | 14782 | [14782-memorise.json](./14782-memorise.json) |
 | Memorise: Creation | 112969 | [112969-memorise-creation.json](./112969-memorise-creation.json) |
 | Memorize | 294091 | [294091-memorize.json](./294091-memorize.json) |
 | Memorize 2 | 100760 | [100760-memorize-2.json](./100760-memorize-2.json) |
@@ -18206,6 +18210,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortui: Outbreak Secrets | 287874 | [287874-mortui-outbreak-secrets.json](./287874-mortui-outbreak-secrets.json) |
 | Mortuum | 13090 | [13090-mortuum.json](./13090-mortuum.json) |
 | Mortuus Insanis | 63098 | [63098-mortuus-insanis.json](./63098-mortuus-insanis.json) |
+| Mortville Manor | 14778 | [14778-mortville-manor.json](./14778-mortville-manor.json) |
 | Morty the Matador | 110212 | [110212-morty-the-matador.json](./110212-morty-the-matador.json) |
 | Mortyr 2093-1944 | 8342 | [8342-mortyr-2093-1944.json](./8342-mortyr-2093-1944.json) |
 | Mortyr II | 8343 | [8343-mortyr-ii.json](./8343-mortyr-ii.json) |
