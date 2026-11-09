@@ -883,6 +883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of the Grave | 310089 | [310089-call-of-the-grave.json](./310089-call-of-the-grave.json) |
 | Call of the Mighty Warriors | 32483 | [32483-call-of-the-mighty-warriors.json](./32483-call-of-the-mighty-warriors.json) |
 | Call of the Ninja! | 35730 | [35730-call-of-the-ninja.json](./35730-call-of-the-ninja.json) |
+| Call of the Ocean | 76838 | [76838-call-of-the-ocean.json](./76838-call-of-the-ocean.json) |
 | Call of the Sea | 133306 | [133306-call-of-the-sea.json](./133306-call-of-the-sea.json) |
 | Call of the Sea VR | 248245 | [248245-call-of-the-sea-vr.json](./248245-call-of-the-sea-vr.json) |
 | Call of the Sea: Deluxe Edition | 154508 | [154508-call-of-the-sea-deluxe-edition.json](./154508-call-of-the-sea-deluxe-edition.json) |
@@ -11459,6 +11460,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cockroach! | 374319 | [374319-cockroach.json](./374319-cockroach.json) |
 | Cocktail Harmony | 60599 | [60599-cocktail-harmony.json](./60599-cocktail-harmony.json) |
 | Cocktail Magic | 260411 | [260411-cocktail-magic.json](./260411-cocktail-magic.json) |
+| Cocktail Pack | 76831 | [76831-cocktail-pack.json](./76831-cocktail-pack.json) |
 | Cocktail Paradise | 68632 | [68632-cocktail-paradise.json](./68632-cocktail-paradise.json) |
 | Cocktail Rush | 224840 | [224840-cocktail-rush.json](./224840-cocktail-rush.json) |
 | Cocktail Rush | 330183 | [330183-cocktail-rush.json](./330183-cocktail-rush.json) |
@@ -11561,6 +11563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code Name Teacher | 292307 | [292307-code-name-teacher.json](./292307-code-name-teacher.json) |
 | Code Name: Alteon | 334529 | [334529-code-name-alteon.json](./334529-code-name-alteon.json) |
 | Code Name: MA | 174835 | [174835-code-name-ma.json](./174835-code-name-ma.json) |
+| Code Name: Origin | 76803 | [76803-code-name-origin.json](./76803-code-name-origin.json) |
 | Code Name: Romance | 214838 | [214838-code-name-romance.json](./214838-code-name-romance.json) |
 | Code Name: Viper | 48069 | [48069-code-name-viper.json](./48069-code-name-viper.json) |
 | Code Name:X | 188334 | [188334-code-name-x.json](./188334-code-name-x.json) |
@@ -12563,6 +12566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ColorFold | 108273 | [108273-colorfold.json](./108273-colorfold.json) |
 | Colorful | 212229 | [212229-colorful.json](./212229-colorful.json) |
 | Colorful | 289575 | [289575-colorful.json](./289575-colorful.json) |
+| Colorful | 76851 | [76851-colorful.json](./76851-colorful.json) |
 | Colorful Adventures Bundle | 283190 | [283190-colorful-adventures-bundle.json](./283190-colorful-adventures-bundle.json) |
 | Colorful Boi | 262733 | [262733-colorful-boi.json](./262733-colorful-boi.json) |
 | Colorful Boi 2 | 340831 | [340831-colorful-boi-2.json](./340831-colorful-boi-2.json) |
@@ -13700,6 +13704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Conan Exiles: Isle of Siptah | 167762 | [167762-conan-exiles-isle-of-siptah.json](./167762-conan-exiles-isle-of-siptah.json) |
 | Conan Exiles: Isle of Siptah Edition | 164809 | [164809-conan-exiles-isle-of-siptah-edition.json](./164809-conan-exiles-isle-of-siptah-edition.json) |
 | Conan Exiles: Jewel of the West Pack | 164675 | [164675-conan-exiles-jewel-of-the-west-pack.json](./164675-conan-exiles-jewel-of-the-west-pack.json) |
+| Conan Exiles: Limited Collector's Edition | 76846 | [76846-conan-exiles-limited-collectors-edition.json](./76846-conan-exiles-limited-collectors-edition.json) |
 | Conan Exiles: People of the Dragon Pack | 227159 | [227159-conan-exiles-people-of-the-dragon-pack.json](./227159-conan-exiles-people-of-the-dragon-pack.json) |
 | Conan Exiles: Riders of Hyboria | 127253 | [127253-conan-exiles-riders-of-hyboria.json](./127253-conan-exiles-riders-of-hyboria.json) |
 | Conan Exiles: Riders of Hyboria Pack | 164794 | [164794-conan-exiles-riders-of-hyboria-pack.json](./164794-conan-exiles-riders-of-hyboria-pack.json) |
@@ -15983,6 +15988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter Terrorist Shooting Critical Shoot Attack | 95798 | [95798-counter-terrorist-shooting-critical-shoot-attack.json](./95798-counter-terrorist-shooting-critical-shoot-attack.json) |
 | Counter-Fall | 127746 | [127746-counter-fall.json](./127746-counter-fall.json) |
 | Counter-Strike 1 Anthology | 277809 | [277809-counter-strike-1-anthology.json](./277809-counter-strike-1-anthology.json) |
+| Counter-Strike Neo | 76822 | [76822-counter-strike-neo.json](./76822-counter-strike-neo.json) |
 | Counter-Strike NEO: White Memories | 143558 | [143558-counter-strike-neo-white-memories.json](./143558-counter-strike-neo-white-memories.json) |
 | Counter-Strike Nexon | 16957 | [16957-counter-strike-nexon.json](./16957-counter-strike-nexon.json) |
 | Counter-Strike Nexon: 11th Anniversary Fever Pack | 368446 | [368446-counter-strike-nexon-11th-anniversary-fever-pack.json](./368446-counter-strike-nexon-11th-anniversary-fever-pack.json) |
@@ -15990,6 +15996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Counter-Strike Nexon: Studio - Zombies: Oz's Trio | 171201 | [171201-counter-strike-nexon-studio-zombies-ozs-trio.json](./171201-counter-strike-nexon-studio-zombies-ozs-trio.json) |
 | Counter-Strike Nexon: Studio - Zombies: Rivals | 171203 | [171203-counter-strike-nexon-studio-zombies-rivals.json](./171203-counter-strike-nexon-studio-zombies-rivals.json) |
 | Counter-Strike Online | 77251 | [77251-counter-strike-online.json](./77251-counter-strike-online.json) |
+| Counter-Strike Online 2 | 76823 | [76823-counter-strike-online-2.json](./76823-counter-strike-online-2.json) |
 | Counter-Strike Techno: Zombies | 332267 | [332267-counter-strike-techno-zombies.json](./332267-counter-strike-techno-zombies.json) |
 | Counter-Strike: Global Offensive - Operation Riptide | 172876 | [172876-counter-strike-global-offensive-operation-riptide.json](./172876-counter-strike-global-offensive-operation-riptide.json) |
 | Counter-Strike: Source Offensive | 287621 | [287621-counter-strike-source-offensive.json](./287621-counter-strike-source-offensive.json) |
@@ -16880,6 +16887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crash Race | 157809 | [157809-crash-race.json](./157809-crash-race.json) |
 | Crash Racing | 159556 | [159556-crash-racing.json](./159556-crash-racing.json) |
 | Crash Site | 402798 | [402798-crash-site.json](./402798-crash-site.json) |
+| Crash Superpack: Crash Bandicoot 2: N-Tranced / Crash Nitro Kart | 76848 | [76848-crash-superpack-crash-bandicoot-2-n-tranced-crash-nitro-kart.json](./76848-crash-superpack-crash-bandicoot-2-n-tranced-crash-nitro-kart.json) |
 | Crash Tag Team Racing | 1194 | [1194-crash-tag-team-racing.json](./1194-crash-tag-team-racing.json) |
 | Crash Tag Team Racing | 248550 | [248550-crash-tag-team-racing.json](./248550-crash-tag-team-racing.json) |
 | Crash Team Racing | 388117 | [388117-crash-team-racing.json](./388117-crash-team-racing.json) |
