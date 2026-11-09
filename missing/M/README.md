@@ -172,6 +172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MacGolf | 288706 | [288706-macgolf.json](./288706-macgolf.json) |
 | MacGolf Classic | 294654 | [294654-macgolf-classic.json](./294654-macgolf-classic.json) |
 | MacGuffin | 34526 | [34526-macguffin.json](./34526-macguffin.json) |
+| Mach Breakers | 39707 | [39707-mach-breakers.json](./39707-mach-breakers.json) |
 | Mach Go Go Go | 228608 | [228608-mach-go-go-go.json](./228608-mach-go-go-go.json) |
 | Mach K9 | 300348 | [300348-mach-k9.json](./300348-mach-k9.json) |
 | Mach Rider | 4616 | [4616-mach-rider.json](./4616-mach-rider.json) |
@@ -301,6 +302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Macross Delta Scramble | 136752 | [136752-macross-delta-scramble.json](./136752-macross-delta-scramble.json) |
 | Macross Digital Mission VF-X | 44776 | [44776-macross-digital-mission-vf-x.json](./44776-macross-digital-mission-vf-x.json) |
 | Macross II | 218259 | [218259-macross-ii.json](./218259-macross-ii.json) |
+| Macross II | 39708 | [39708-macross-ii.json](./39708-macross-ii.json) |
 | Macross M3 | 45809 | [45809-macross-m3.json](./45809-macross-m3.json) |
 | Macross Plus | 46867 | [46867-macross-plus.json](./46867-macross-plus.json) |
 | Macross Plus Game Edition | 80835 | [80835-macross-plus-game-edition.json](./80835-macross-plus-game-edition.json) |
@@ -2461,6 +2463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majestic Part I: Alien Encounter | 171232 | [171232-majestic-part-i-alien-encounter.json](./171232-majestic-part-i-alien-encounter.json) |
 | Majestic Prince Shooting Hero | 62058 | [62058-majestic-prince-shooting-hero.json](./62058-majestic-prince-shooting-hero.json) |
 | Majestic Trials | 59792 | [59792-majestic-trials.json](./59792-majestic-trials.json) |
+| Majestic Twelve: The Space Invaders Part IV | 39716 | [39716-majestic-twelve-the-space-invaders-part-iv.json](./39716-majestic-twelve-the-space-invaders-part-iv.json) |
 | Majestic-12 | 94035 | [94035-majestic-12.json](./94035-majestic-12.json) |
 | Majestic: Special Edition | 137479 | [137479-majestic-special-edition.json](./137479-majestic-special-edition.json) |
 | Majestic: The Card Game | 109071 | [109071-majestic-the-card-game.json](./109071-majestic-the-card-game.json) |
@@ -3804,6 +3807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marina's Cuckolding Report | 143063 | [143063-marinas-cuckolding-report.json](./143063-marinas-cuckolding-report.json) |
 | Marinatide | 30200 | [30200-marinatide.json](./30200-marinatide.json) |
 | Marine Battle | 277530 | [277530-marine-battle.json](./277530-marine-battle.json) |
+| Marine Boy | 39703 | [39703-marine-boy.json](./39703-marine-boy.json) |
 | Marine Buster | 45969 | [45969-marine-buster.json](./45969-marine-buster.json) |
 | Marine Chan | 97846 | [97846-marine-chan.json](./97846-marine-chan.json) |
 | Marine Glory | 253491 | [253491-marine-glory.json](./253491-marine-glory.json) |
@@ -10202,6 +10206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Saga | 20521 | [20521-metal-saga.json](./20521-metal-saga.json) |
 | Metal Saga: Hagane no Kisetsu | 66989 | [66989-metal-saga-hagane-no-kisetsu.json](./66989-metal-saga-hagane-no-kisetsu.json) |
 | Metal Saga: The Ark of Wastes | 75851 | [75851-metal-saga-the-ark-of-wastes.json](./75851-metal-saga-the-ark-of-wastes.json) |
+| Metal Saver | 39711 | [39711-metal-saver.json](./39711-metal-saver.json) |
 | Metal Savior | 342272 | [342272-metal-savior.json](./342272-metal-savior.json) |
 | Metal Savior Black | 297717 | [297717-metal-savior-black.json](./297717-metal-savior-black.json) |
 | Metal Saviour Bia | 183764 | [183764-metal-saviour-bia.json](./183764-metal-saviour-bia.json) |
@@ -12008,6 +12013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Warriors: Rise of the East | 58116 | [58116-mighty-warriors-rise-of-the-east.json](./58116-mighty-warriors-rise-of-the-east.json) |
 | Mighty Wars | 341232 | [341232-mighty-wars.json](./341232-mighty-wars.json) |
 | Mighty! | 171172 | [171172-mighty.json](./171172-mighty.json) |
+| Mighty! Pang | 39721 | [39721-mighty-pang.json](./39721-mighty-pang.json) |
 | MightyBowOfGreenHills | 96761 | [96761-mightybowofgreenhills.json](./96761-mightybowofgreenhills.json) |
 | MightyIronBall | 81759 | [81759-mightyironball.json](./81759-mightyironball.json) |
 | Mightyy's FPS Aim Trainer | 163105 | [163105-mightyys-fps-aim-trainer.json](./163105-mightyys-fps-aim-trainer.json) |
@@ -14547,6 +14553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mister Universe | 153428 | [153428-mister-universe.json](./153428-mister-universe.json) |
 | Mister Versatile: A Gay Superhero Visual Novel | 180251 | [180251-mister-versatile-a-gay-superhero-visual-novel.json](./180251-mister-versatile-a-gay-superhero-visual-novel.json) |
 | Mister Versatile: Driller's Turn | 270986 | [270986-mister-versatile-drillers-turn.json](./270986-mister-versatile-drillers-turn.json) |
+| Mister Viking | 39719 | [39719-mister-viking.json](./39719-mister-viking.json) |
 | Misteri Rumah Pak RT | 390552 | [390552-misteri-rumah-pak-rt.json](./390552-misteri-rumah-pak-rt.json) |
 | Misterios Ocultos | 341426 | [341426-misterios-ocultos.json](./341426-misterios-ocultos.json) |
 | Misterious Thief | 321996 | [321996-misterious-thief.json](./321996-misterious-thief.json) |
@@ -15513,6 +15520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mole | 177389 | [177389-mole.json](./177389-mole.json) |
 | Mole | 277532 | [277532-mole.json](./277532-mole.json) |
 | Möle | 93549 | [93549-mole.json](./93549-mole.json) |
+| Mole Attack | 39723 | [39723-mole-attack.json](./39723-mole-attack.json) |
 | Mole Cart Mining | 391830 | [391830-mole-cart-mining.json](./391830-mole-cart-mining.json) |
 | Mole Control | 20423 | [20423-mole-control.json](./20423-mole-control.json) |
 | Mole Digging | 349309 | [349309-mole-digging.json](./349309-mole-digging.json) |
@@ -17251,6 +17259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Patrol: The Milky Way Chronicles | 138567 | [138567-moon-patrol-the-milky-way-chronicles.json](./138567-moon-patrol-the-milky-way-chronicles.json) |
 | Moon Pool | 419593 | [419593-moon-pool.json](./419593-moon-pool.json) |
 | Moon Princess | 351268 | [351268-moon-princess.json](./351268-moon-princess.json) |
+| Moon Quasar | 39722 | [39722-moon-quasar.json](./39722-moon-quasar.json) |
 | Moon Raider | 138911 | [138911-moon-raider.json](./138911-moon-raider.json) |
 | Moon Raider and Sweet Witches Bundle | 169550 | [169550-moon-raider-and-sweet-witches-bundle.json](./169550-moon-raider-and-sweet-witches-bundle.json) |
 | Moon Raker | 277658 | [277658-moon-raker.json](./277658-moon-raker.json) |
@@ -19495,6 +19504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. T-Shirt | 329769 | [329769-mr-t-shirt.json](./329769-mr-t-shirt.json) |
 | Mr. The Hamster's Math Class | 60918 | [60918-mr-the-hamsters-math-class.json](./60918-mr-the-hamsters-math-class.json) |
 | Mr. Tiny Adventures | 231848 | [231848-mr-tiny-adventures.json](./231848-mr-tiny-adventures.json) |
+| Mr. TNT telco | 39720 | [39720-mr-tnt-telco.json](./39720-mr-tnt-telco.json) |
 | Mr. Transporter - Night Driver | 101647 | [101647-mr-transporter-night-driver.json](./101647-mr-transporter-night-driver.json) |
 | Mr. Transporter - Truck Driving Simulator | 88735 | [88735-mr-transporter-truck-driving-simulator.json](./88735-mr-transporter-truck-driving-simulator.json) |
 | Mr. Travel | 60728 | [60728-mr-travel.json](./60728-mr-travel.json) |
@@ -19683,6 +19693,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Much Love, BJP | 59696 | [59696-much-love-bjp.json](./59696-much-love-bjp.json) |
 | Mucha Lucha! Mascaritas of the Lost Code | 64836 | [64836-mucha-lucha-mascaritas-of-the-lost-code.json](./64836-mucha-lucha-mascaritas-of-the-lost-code.json) |
 | Muchacho Bean | 293638 | [293638-muchacho-bean.json](./293638-muchacho-bean.json) |
+| Muchi Muchi Pork! | 39698 | [39698-muchi-muchi-pork.json](./39698-muchi-muchi-pork.json) |
 | Mucho Party | 116442 | [116442-mucho-party.json](./116442-mucho-party.json) |
 | Mucho Taco | 133856 | [133856-mucho-taco.json](./133856-mucho-taco.json) |
 | Mucho Texto | 365809 | [365809-mucho-texto.json](./365809-mucho-texto.json) |
@@ -19821,6 +19832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mullet Madjack: Deluxe Edition | 318218 | [318218-mullet-madjack-deluxe-edition.json](./318218-mullet-madjack-deluxe-edition.json) |
 | Mulletman and the Molemen | 74609 | [74609-mulletman-and-the-molemen.json](./74609-mulletman-and-the-molemen.json) |
 | Mülltrennungssimulator 2021 | 167992 | [167992-mulltrennungssimulator-2021.json](./167992-mulltrennungssimulator-2021.json) |
+| Multi Champ | 39718 | [39718-multi-champ.json](./39718-multi-champ.json) |
 | Multi Cheetah Speed hero Vs Wild Animals | 95795 | [95795-multi-cheetah-speed-hero-vs-wild-animals.json](./95795-multi-cheetah-speed-hero-vs-wild-animals.json) |
 | Multi Deck Hero | 346617 | [346617-multi-deck-hero.json](./346617-multi-deck-hero.json) |
 | Multi Do Sort | 331368 | [331368-multi-do-sort.json](./331368-multi-do-sort.json) |
@@ -22461,6 +22473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mysterious Stars: A Fairy Tale | 61456 | [61456-mysterious-stars-a-fairy-tale.json](./61456-mysterious-stars-a-fairy-tale.json) |
 | Mysterious Stars: The Samurai | 61458 | [61458-mysterious-stars-the-samurai.json](./61458-mysterious-stars-the-samurai.json) |
 | Mysterious Stars: The Singer | 61459 | [61459-mysterious-stars-the-singer.json](./61459-mysterious-stars-the-singer.json) |
+| Mysterious Stones: Dr John's Adventure | 39717 | [39717-mysterious-stones-dr-johns-adventure.json](./39717-mysterious-stones-dr-johns-adventure.json) |
 | Mysterious Thief Emerald | 252652 | [252652-mysterious-thief-emerald.json](./252652-mysterious-thief-emerald.json) |
 | Mysterious Things | 201408 | [201408-mysterious-things.json](./201408-mysterious-things.json) |
 | Mysterious Unnamed Space Game | 184092 | [184092-mysterious-unnamed-space-game.json](./184092-mysterious-unnamed-space-game.json) |
