@@ -3073,6 +3073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daydream | 192955 | [192955-daydream.json](./192955-daydream.json) |
 | Daydream | 328310 | [328310-daydream.json](./328310-daydream.json) |
 | Daydream | 380238 | [380238-daydream.json](./380238-daydream.json) |
+| Daydream | 77518 | [77518-daydream.json](./77518-daydream.json) |
 | Daydream Blue | 34173 | [34173-daydream-blue.json](./34173-daydream-blue.json) |
 | Daydream Drifters | 395543 | [395543-daydream-drifters.json](./395543-daydream-drifters.json) |
 | Daydream Heartbeat Cure | 394853 | [394853-daydream-heartbeat-cure.json](./394853-daydream-heartbeat-cure.json) |
@@ -13258,6 +13259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Donna Kanji? Ii Kanji | 256271 | [256271-donna-kanji-ii-kanji.json](./256271-donna-kanji-ii-kanji.json) |
 | Donna Matrix | 60956 | [60956-donna-matrix.json](./60956-donna-matrix.json) |
 | Donna the Firebreather | 418525 | [418525-donna-the-firebreather.json](./418525-donna-the-firebreather.json) |
+| Donnie Darko: The Adventure Game | 77539 | [77539-donnie-darko-the-adventure-game.json](./77539-donnie-darko-the-adventure-game.json) |
 | Donnie the Chao Final Mix | 316971 | [316971-donnie-the-chao-final-mix.json](./316971-donnie-the-chao-final-mix.json) |
 | Donnie's Delicious Nuclear Funeral | 390521 | [390521-donnies-delicious-nuclear-funeral.json](./390521-donnies-delicious-nuclear-funeral.json) |
 | Donny Donut 3 | 277185 | [277185-donny-donut-3.json](./277185-donny-donut-3.json) |
@@ -19684,6 +19686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dweller | 229239 | [229239-dweller.json](./229239-dweller.json) |
 | Dweller's Empty Path | 135734 | [135734-dwellers-empty-path.json](./135734-dwellers-empty-path.json) |
 | Dwelling | 309365 | [309365-dwelling.json](./309365-dwelling.json) |
+| Dwelling | 77521 | [77521-dwelling.json](./77521-dwelling.json) |
 | Dwellink: War of the Nine | 301331 | [301331-dwellink-war-of-the-nine.json](./301331-dwellink-war-of-the-nine.json) |
 | Dwelp | 128547 | [128547-dwelp.json](./128547-dwelp.json) |
 | Dwerg Saga | 134764 | [134764-dwerg-saga.json](./134764-dwerg-saga.json) |
