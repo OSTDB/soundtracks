@@ -75,6 +75,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | C'est pas Sorcier: Mystérieuse Disparition en Amazonie | 56970 | [56970-cest-pas-sorcier-mysterieuse-disparition-en-amazonie.json](./56970-cest-pas-sorcier-mysterieuse-disparition-en-amazonie.json) |
 | C&C Level-CD: Vol.3 | 122309 | [122309-c-and-c-level-cd-vol-3.json](./122309-c-and-c-level-cd-vol-3.json) |
 | C&T | 197267 | [197267-c-and-t.json](./197267-c-and-t.json) |
+| C0d3 | 57803 | [57803-c0d3.json](./57803-c0d3.json) |
 | C1 Circuit | 143653 | [143653-c1-circuit.json](./143653-c1-circuit.json) |
 | C14 Dating | 33280 | [33280-c14-dating.json](./33280-c14-dating.json) |
 | C15: Horror | 121001 | [121001-c15-horror.json](./121001-c15-horror.json) |
@@ -2552,6 +2553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Card Tower Defence | 153458 | [153458-card-tower-defence.json](./153458-card-tower-defence.json) |
 | Card Town | 333966 | [333966-card-town.json](./333966-card-town.json) |
 | Card Trainer | 400869 | [400869-card-trainer.json](./400869-card-trainer.json) |
+| Card Wars Kingdom | 57779 | [57779-card-wars-kingdom.json](./57779-card-wars-kingdom.json) |
 | Card Wars: Adventure Time | 39175 | [39175-card-wars-adventure-time.json](./39175-card-wars-adventure-time.json) |
 | Card Wizard | 381123 | [381123-card-wizard.json](./381123-card-wizard.json) |
 | Card World | 365048 | [365048-card-world.json](./365048-card-world.json) |
@@ -4441,6 +4443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catalyst of Quoralis | 417643 | [417643-catalyst-of-quoralis.json](./417643-catalyst-of-quoralis.json) |
 | Catalyst: Blind Faith | 221217 | [221217-catalyst-blind-faith.json](./221217-catalyst-blind-faith.json) |
 | Catalyst: From the Stars | 333456 | [333456-catalyst-from-the-stars.json](./333456-catalyst-from-the-stars.json) |
+| Catamancer | 57788 | [57788-catamancer.json](./57788-catamancer.json) |
 | Catamyst | 299087 | [299087-catamyst.json](./299087-catamyst.json) |
 | Catan | 175914 | [175914-catan.json](./175914-catan.json) |
 | Catan | 19435 | [19435-catan.json](./19435-catan.json) |
@@ -12453,6 +12456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Invader VR | 236874 | [236874-color-invader-vr.json](./236874-color-invader-vr.json) |
 | Color Island: Pixel Art | 280221 | [280221-color-island-pixel-art.json](./280221-color-island-pixel-art.json) |
 | Color Jump | 90753 | [90753-color-jump.json](./90753-color-jump.json) |
+| Color Jumper | 57800 | [57800-color-jumper.json](./57800-color-jumper.json) |
 | Color Knight | 112792 | [112792-color-knight.json](./112792-color-knight.json) |
 | Color Lab | 192973 | [192973-color-lab.json](./192973-color-lab.json) |
 | Color Lim | 236141 | [236141-color-lim.json](./236141-color-lim.json) |
@@ -18374,6 +18378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crony Corp | 325307 | [325307-crony-corp.json](./325307-crony-corp.json) |
 | Crooked | 411122 | [411122-crooked.json](./411122-crooked.json) |
 | Crooked Cooks | 384794 | [384794-crooked-cooks.json](./384794-crooked-cooks.json) |
+| Crooked Path | 57784 | [57784-crooked-path.json](./57784-crooked-path.json) |
 | Crooked Pines | 385418 | [385418-crooked-pines.json](./385418-crooked-pines.json) |
 | Crooked Time | 205787 | [205787-crooked-time.json](./205787-crooked-time.json) |
 | Crooked Waters | 96273 | [96273-crooked-waters.json](./96273-crooked-waters.json) |
