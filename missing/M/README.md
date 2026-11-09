@@ -10195,6 +10195,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slader Glory | 48356 | [48356-metal-slader-glory.json](./48356-metal-slader-glory.json) |
 | Metal Slader Glory 2 | 297474 | [297474-metal-slader-glory-2.json](./297474-metal-slader-glory-2.json) |
 | Metal Slader Glory: Director's Cut | 38238 | [38238-metal-slader-glory-directors-cut.json](./38238-metal-slader-glory-directors-cut.json) |
+| Metal Slug | 44687 | [44687-metal-slug.json](./44687-metal-slug.json) |
 | Metal Slug 1st & 2nd Mission Double Pack | 173779 | [173779-metal-slug-1st-and-2nd-mission-double-pack.json](./173779-metal-slug-1st-and-2nd-mission-double-pack.json) |
 | Metal Slug 1st Mission (Best Collection) | 75483 | [75483-metal-slug-1st-mission-best-collection.json](./75483-metal-slug-1st-mission-best-collection.json) |
 | Metal Slug 1st Mission (Version A) | 75484 | [75484-metal-slug-1st-mission-version-a.json](./75484-metal-slug-1st-mission-version-a.json) |
@@ -15002,6 +15003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam SEED Destiny: Generation of C.E. | 396312 | [396312-mobile-suit-gundam-seed-destiny-generation-of-c-e.json](./396312-mobile-suit-gundam-seed-destiny-generation-of-c-e.json) |
 | Mobile Suit Gundam Seed Destiny: Rengou vs. Z.A.F.T. | 68126 | [68126-mobile-suit-gundam-seed-destiny-rengou-vs-z-a-f-t.json](./68126-mobile-suit-gundam-seed-destiny-rengou-vs-z-a-f-t.json) |
 | Mobile Suit Gundam SEED Destiny: Rengou vs. Z.A.F.T. II | 68160 | [68160-mobile-suit-gundam-seed-destiny-rengou-vs-z-a-f-t-ii.json](./68160-mobile-suit-gundam-seed-destiny-rengou-vs-z-a-f-t-ii.json) |
+| Mobile Suit Gundam Seed Never Ending Tomorrow | 44670 | [44670-mobile-suit-gundam-seed-never-ending-tomorrow.json](./44670-mobile-suit-gundam-seed-never-ending-tomorrow.json) |
 | Mobile Suit Gundam SEED: Battle Assault | 49325 | [49325-mobile-suit-gundam-seed-battle-assault.json](./49325-mobile-suit-gundam-seed-battle-assault.json) |
 | Mobile Suit Gundam SEED: Battle Destiny | 75723 | [75723-mobile-suit-gundam-seed-battle-destiny.json](./75723-mobile-suit-gundam-seed-battle-destiny.json) |
 | Mobile Suit Gundam Seed: Battle Destiny Remastered | 331460 | [331460-mobile-suit-gundam-seed-battle-destiny-remastered.json](./331460-mobile-suit-gundam-seed-battle-destiny-remastered.json) |
