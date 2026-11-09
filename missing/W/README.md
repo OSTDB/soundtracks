@@ -4136,6 +4136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheels on Fire | 78030 | [78030-wheels-on-fire.json](./78030-wheels-on-fire.json) |
 | Wheels on Impossible Ramp | 174887 | [174887-wheels-on-impossible-ramp.json](./174887-wheels-on-impossible-ramp.json) |
 | Wheels on the Bus! | 90377 | [90377-wheels-on-the-bus.json](./90377-wheels-on-the-bus.json) |
+| Wheels on the Street | 58351 | [58351-wheels-on-the-street.json](./58351-wheels-on-the-street.json) |
 | Wheels! | 92036 | [92036-wheels.json](./92036-wheels.json) |
 | Wheels0 | 78628 | [78628-wheels0.json](./78628-wheels0.json) |
 | Wheelspin | 5177 | [5177-wheelspin.json](./5177-wheelspin.json) |
@@ -6170,6 +6171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter and People | 195534 | [195534-winter-and-people.json](./195534-winter-and-people.json) |
 | Winter Blast: 9 Snow & Ice Games | 51027 | [51027-winter-blast-9-snow-and-ice-games.json](./51027-winter-blast-9-snow-and-ice-games.json) |
 | Winter Bundle: 20 games | 332364 | [332364-winter-bundle-20-games.json](./332364-winter-bundle-20-games.json) |
+| Winter Campus | 58350 | [58350-winter-campus.json](./58350-winter-campus.json) |
 | Winter Cats | 283039 | [283039-winter-cats.json](./283039-winter-cats.json) |
 | Winter Challenge | 131520 | [131520-winter-challenge.json](./131520-winter-challenge.json) |
 | Winter Challenge 2008 | 53123 | [53123-winter-challenge-2008.json](./53123-winter-challenge-2008.json) |
