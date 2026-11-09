@@ -6906,6 +6906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EVE: New Generation | 70779 | [70779-eve-new-generation.json](./70779-eve-new-generation.json) |
 | Eve: Rebirth Terror | 112911 | [112911-eve-rebirth-terror.json](./112911-eve-rebirth-terror.json) |
 | Eve: The Fatal Attraction | 44730 | [44730-eve-the-fatal-attraction.json](./44730-eve-the-fatal-attraction.json) |
+| EVE: The Lost One | 45388 | [45388-eve-the-lost-one.json](./45388-eve-the-lost-one.json) |
 | EVE: Valkyrie | 9267 | [9267-eve-valkyrie.json](./9267-eve-valkyrie.json) |
 | EVE: Valkyrie - Warzone | 68444 | [68444-eve-valkyrie-warzone.json](./68444-eve-valkyrie-warzone.json) |
 | EVE: War of Ascension | 74277 | [74277-eve-war-of-ascension.json](./74277-eve-war-of-ascension.json) |
