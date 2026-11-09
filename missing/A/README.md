@@ -10395,6 +10395,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Gods | 13191 | [13191-animal-gods.json](./13191-animal-gods.json) |
 | Animal Golf: Battle Race | 231037 | [231037-animal-golf-battle-race.json](./231037-animal-golf-battle-race.json) |
 | Animal Hearts: A Card Quest | 373754 | [373754-animal-hearts-a-card-quest.json](./373754-animal-hearts-a-card-quest.json) |
+| Animal Herding | 53316 | [53316-animal-herding.json](./53316-animal-herding.json) |
 | Animal Hospital | 270311 | [270311-animal-hospital.json](./270311-animal-hospital.json) |
 | Animal Hospital | 84754 | [84754-animal-hospital.json](./84754-animal-hospital.json) |
 | Animal Hospital for kids | 99195 | [99195-animal-hospital-for-kids.json](./99195-animal-hospital-for-kids.json) |
@@ -17281,7 +17282,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
