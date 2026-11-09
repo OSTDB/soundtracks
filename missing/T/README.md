@@ -3783,6 +3783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teleportals. I swear it's a nice game. | 103192 | [103192-teleportals-i-swear-its-a-nice-game.json](./103192-teleportals-i-swear-its-a-nice-game.json) |
 | Teleportia | 286358 | [286358-teleportia.json](./286358-teleportia.json) |
 | Teleportower Plus | 62418 | [62418-teleportower-plus.json](./62418-teleportower-plus.json) |
+| Teleroboxer | 20984 | [20984-teleroboxer.json](./20984-teleroboxer.json) |
 | Telerotation | 397061 | [397061-telerotation.json](./397061-telerotation.json) |
 | Telescape | 267059 | [267059-telescape.json](./267059-telescape.json) |
 | Teletext | 286903 | [286903-teletext.json](./286903-teletext.json) |
@@ -7474,6 +7475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Chase | 168949 | [168949-the-chase.json](./168949-the-chase.json) |
 | The Chase on Tom Sawyer's Island | 73399 | [73399-the-chase-on-tom-sawyers-island.json](./73399-the-chase-on-tom-sawyers-island.json) |
 | The Chase: Cop Pursuit | 270468 | [270468-the-chase-cop-pursuit.json](./270468-the-chase-cop-pursuit.json) |
+| The Chase: Felix Meets Felicity | 21202 | [21202-the-chase-felix-meets-felicity.json](./21202-the-chase-felix-meets-felicity.json) |
 | The Chase: Police Rush | 364815 | [364815-the-chase-police-rush.json](./364815-the-chase-police-rush.json) |
 | The Chase: Ultimate Edition | 138568 | [138568-the-chase-ultimate-edition.json](./138568-the-chase-ultimate-edition.json) |
 | The Chasm | 123752 | [123752-the-chasm.json](./123752-the-chasm.json) |
@@ -23954,6 +23956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timecop | 42441 | [42441-timecop.json](./42441-timecop.json) |
 | Timecues | 56915 | [56915-timecues.json](./56915-timecues.json) |
 | TimeFall | 116272 | [116272-timefall.json](./116272-timefall.json) |
+| Timefight Zone | 20983 | [20983-timefight-zone.json](./20983-timefight-zone.json) |
 | TimeFish | 319320 | [319320-timefish.json](./319320-timefish.json) |
 | Timeflow: Financial Education Sim | 114440 | [114440-timeflow-financial-education-sim.json](./114440-timeflow-financial-education-sim.json) |
 | Timefract | 421320 | [421320-timefract.json](./421320-timefract.json) |
@@ -25028,6 +25031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To the Stars Idle | 396212 | [396212-to-the-stars-idle.json](./396212-to-the-stars-idle.json) |
 | To the Sunset | 374781 | [374781-to-the-sunset.json](./374781-to-the-sunset.json) |
 | To the Tavern | 276147 | [276147-to-the-tavern.json](./276147-to-the-tavern.json) |
+| To the Throne | 22004 | [22004-to-the-throne.json](./22004-to-the-throne.json) |
 | To the Toilet | 396348 | [396348-to-the-toilet.json](./396348-to-the-toilet.json) |
 | To the Top | 219534 | [219534-to-the-top.json](./219534-to-the-top.json) |
 | To the Top | 237258 | [237258-to-the-top.json](./237258-to-the-top.json) |
@@ -31043,6 +31047,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transversion | 57343 | [57343-transversion.json](./57343-transversion.json) |
 | Transworld | 78435 | [78435-transworld.json](./78435-transworld.json) |
 | Transworld Endless Skater | 241057 | [241057-transworld-endless-skater.json](./241057-transworld-endless-skater.json) |
+| TransWorld Snowboarding | 20795 | [20795-transworld-snowboarding.json](./20795-transworld-snowboarding.json) |
 | TransWorld Surf | 4209 | [4209-transworld-surf.json](./4209-transworld-surf.json) |
 | Transworld Surf: Next Wave | 69158 | [69158-transworld-surf-next-wave.json](./69158-transworld-surf-next-wave.json) |
 | Transylmania | 267402 | [267402-transylmania.json](./267402-transylmania.json) |
