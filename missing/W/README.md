@@ -1661,6 +1661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: Battle for Atluma | 28882 | [28882-warhammer-battle-for-atluma.json](./28882-warhammer-battle-for-atluma.json) |
 | Warhammer: Battle March | 20786 | [20786-warhammer-battle-march.json](./20786-warhammer-battle-march.json) |
 | Warhammer: Chaos & Conquest | 115298 | [115298-warhammer-chaos-and-conquest.json](./115298-warhammer-chaos-and-conquest.json) |
+| Warhammer: Chaosbane | 103168 | [103168-warhammer-chaosbane.json](./103168-warhammer-chaosbane.json) |
 | Warhammer: Chaosbane - Deluxe Edition | 115064 | [115064-warhammer-chaosbane-deluxe-edition.json](./115064-warhammer-chaosbane-deluxe-edition.json) |
 | Warhammer: Chaosbane - Magnus Edition | 115065 | [115065-warhammer-chaosbane-magnus-edition.json](./115065-warhammer-chaosbane-magnus-edition.json) |
 | Warhammer: Chaosbane - Slayer Edition | 139948 | [139948-warhammer-chaosbane-slayer-edition.json](./139948-warhammer-chaosbane-slayer-edition.json) |
@@ -6425,6 +6426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipeout Pure: Delta Pack | 241253 | [241253-wipeout-pure-delta-pack.json](./241253-wipeout-pure-delta-pack.json) |
 | Wipeout Pure: Gamma Pack | 241252 | [241252-wipeout-pure-gamma-pack.json](./241252-wipeout-pure-gamma-pack.json) |
 | Wipeout XL | 1538 | [1538-wipeout-xl.json](./1538-wipeout-xl.json) |
+| WipEout: Omega Collection | 26195 | [26195-wipeout-omega-collection.json](./26195-wipeout-omega-collection.json) |
 | Wipeout: The Game | 47821 | [47821-wipeout-the-game.json](./47821-wipeout-the-game.json) |
 | WipeOuters | 203917 | [203917-wipeouters.json](./203917-wipeouters.json) |
 | Wiper | 312020 | [312020-wiper.json](./312020-wiper.json) |
