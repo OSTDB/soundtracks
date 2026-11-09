@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1334,6 +1335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakuten Shoot Beyblade 2002: Ikuze! Bakutou! Chou Jiryoku Battle!! | 49488 | [49488-bakuten-shoot-beyblade-2002-ikuze-bakutou-chou-jiryoku-battle.json](./49488-bakuten-shoot-beyblade-2002-ikuze-bakutou-chou-jiryoku-battle.json) |
 | Bakuten Shoot Beyblade 2002: Takao Version | 49489 | [49489-bakuten-shoot-beyblade-2002-takao-version.json](./49489-bakuten-shoot-beyblade-2002-takao-version.json) |
 | Bakuten Shoot Beyblade: Gekitou! Saikyou Blade | 49491 | [49491-bakuten-shoot-beyblade-gekitou-saikyou-blade.json](./49491-bakuten-shoot-beyblade-gekitou-saikyou-blade.json) |
+| Bakutotsu Kijuutei | 40287 | [40287-bakutotsu-kijuutei.json](./40287-bakutotsu-kijuutei.json) |
 | Bakutou Dochers: Bumps-jima ha Oosawagi | 44449 | [44449-bakutou-dochers-bumps-jima-ha-oosawagi.json](./44449-bakutou-dochers-bumps-jima-ha-oosawagi.json) |
 | Bakutoushi Patton-Kun | 79029 | [79029-bakutoushi-patton-kun.json](./79029-bakutoushi-patton-kun.json) |
 | Bakutsuri Bar Hunter | 118316 | [118316-bakutsuri-bar-hunter.json](./118316-bakutsuri-bar-hunter.json) |
@@ -7764,6 +7766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Ear Detective | 291897 | [291897-big-ear-detective.json](./291897-big-ear-detective.json) |
 | Big Earth | 205217 | [205217-big-earth.json](./205217-big-earth.json) |
 | Big Entrepreneur | 227373 | [227373-big-entrepreneur.json](./227373-big-entrepreneur.json) |
+| Big Event Golf | 40292 | [40292-big-event-golf.json](./40292-big-event-golf.json) |
 | Big Family Games | 51000 | [51000-big-family-games.json](./51000-big-family-games.json) |
 | Big Farm | 77777 | [77777-big-farm.json](./77777-big-farm.json) |
 | Big Farm Home & Garden | 142735 | [142735-big-farm-home-and-garden.json](./142735-big-farm-home-and-garden.json) |
@@ -8737,6 +8740,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Birdie Burglars | 176966 | [176966-birdie-burglars.json](./176966-birdie-burglars.json) |
 | Birdie Crush | 112020 | [112020-birdie-crush.json](./112020-birdie-crush.json) |
 | Birdie Golf | 89783 | [89783-birdie-golf.json](./89783-birdie-golf.json) |
+| Birdie King | 40291 | [40291-birdie-king.json](./40291-birdie-king.json) |
+| Birdie King 2 | 40290 | [40290-birdie-king-2.json](./40290-birdie-king-2.json) |
+| Birdie King 3 | 40289 | [40289-birdie-king-3.json](./40289-birdie-king-3.json) |
 | Birdie Nest | 277667 | [277667-birdie-nest.json](./277667-birdie-nest.json) |
 | Birdie Putt | 243827 | [243827-birdie-putt.json](./243827-birdie-putt.json) |
 | Birdie Shot | 223956 | [223956-birdie-shot.json](./223956-birdie-shot.json) |
