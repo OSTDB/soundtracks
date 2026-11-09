@@ -2055,6 +2055,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Video Editor's Toolkit | 256117 | [256117-video-editors-toolkit.json](./256117-video-editors-toolkit.json) |
 | Video Ezy: In the Movies - Interactive DVD Trivia Game | 231832 | [231832-video-ezy-in-the-movies-interactive-dvd-trivia-game.json](./231832-video-ezy-in-the-movies-interactive-dvd-trivia-game.json) |
 | Video Game Anthology vol. 1: Terra Cresta & Moon Cresta | 58554 | [58554-video-game-anthology-vol-1-terra-cresta-and-moon-cresta.json](./58554-video-game-anthology-vol-1-terra-cresta-and-moon-cresta.json) |
+| Video Game Anthology vol. 10: Mr. Do!/Mr. Do! vs Unicorns | 61766 | [61766-video-game-anthology-vol-10-mr-do-mr-do-vs-unicorns.json](./61766-video-game-anthology-vol-10-mr-do-mr-do-vs-unicorns.json) |
+| Video Game Anthology Vol. 12: Dig Dug/Dig Dug II | 61764 | [61764-video-game-anthology-vol-12-dig-dug-dig-dug-ii.json](./61764-video-game-anthology-vol-12-dig-dug-dig-dug-ii.json) |
 | Video Game Anthology vol. 5: Crazy Climber/Crazy Climber 2 | 61832 | [61832-video-game-anthology-vol-5-crazy-climber-crazy-climber-2.json](./61832-video-game-anthology-vol-5-crazy-climber-crazy-climber-2.json) |
 | Video Game Anthology vol. 8: Shusse Ozumo/Exciting Hour | 58552 | [58552-video-game-anthology-vol-8-shusse-ozumo-exciting-hour.json](./58552-video-game-anthology-vol-8-shusse-ozumo-exciting-hour.json) |
 | Video Game Bandle | 360891 | [360891-video-game-bandle.json](./360891-video-game-bandle.json) |
