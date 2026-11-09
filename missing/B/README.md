@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -4423,6 +4424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlefield World War Bundle | 112914 | [112914-battlefield-world-war-bundle.json](./112914-battlefield-world-war-bundle.json) |
 | Battlefield: Bad Company 2 - Digital Deluxe Edition | 202187 | [202187-battlefield-bad-company-2-digital-deluxe-edition.json](./202187-battlefield-bad-company-2-digital-deluxe-edition.json) |
 | Battlefield: Bad Company 2 - Limited Edition | 41890 | [41890-battlefield-bad-company-2-limited-edition.json](./41890-battlefield-bad-company-2-limited-edition.json) |
+| Battlefield: Bad Company 2 - Onslaught | 22962 | [22962-battlefield-bad-company-2-onslaught.json](./22962-battlefield-bad-company-2-onslaught.json) |
 | Battlefield: Bad Company 2 - Specact Kit Upgrade | 27654 | [27654-battlefield-bad-company-2-specact-kit-upgrade.json](./27654-battlefield-bad-company-2-specact-kit-upgrade.json) |
 | Battlefield: Bad Company 2 Ultimate Edition | 41892 | [41892-battlefield-bad-company-2-ultimate-edition.json](./41892-battlefield-bad-company-2-ultimate-edition.json) |
 | Battlefield: Bad Company 2 Vietnam | 607 | [607-battlefield-bad-company-2-vietnam.json](./607-battlefield-bad-company-2-vietnam.json) |
@@ -10571,6 +10573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blindfold | 356150 | [356150-blindfold.json](./356150-blindfold.json) |
 | Blindfold | 383669 | [383669-blindfold.json](./383669-blindfold.json) |
 | Blindfold: Hide and Seek | 413172 | [413172-blindfold-hide-and-seek.json](./413172-blindfold-hide-and-seek.json) |
+| BlindGiRl | 23361 | [23361-blindgirl.json](./23361-blindgirl.json) |
 | BlindGiRl2 | 65449 | [65449-blindgirl2.json](./65449-blindgirl2.json) |
 | Blinding Lite | 302370 | [302370-blinding-lite.json](./302370-blinding-lite.json) |
 | Blinding Oversight | 253592 | [253592-blinding-oversight.json](./253592-blinding-oversight.json) |
@@ -11933,6 +11936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blossom | 284015 | [284015-blossom.json](./284015-blossom.json) |
 | Blossom | 290469 | [290469-blossom.json](./290469-blossom.json) |
 | Blossom | 388708 | [388708-blossom.json](./388708-blossom.json) |
+| Blossom & Decay | 24048 | [24048-blossom-and-decay.json](./24048-blossom-and-decay.json) |
 | Blossom Blast Saga | 99140 | [99140-blossom-blast-saga.json](./99140-blossom-blast-saga.json) |
 | Blossom Breeze | 347356 | [347356-blossom-breeze.json](./347356-blossom-breeze.json) |
 | Blossom Sort | 385285 | [385285-blossom-sort.json](./385285-blossom-sort.json) |
@@ -12205,6 +12209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue the Dino | 21980 | [21980-blue-the-dino.json](./21980-blue-the-dino.json) |
 | Blue Thunder | 296678 | [296678-blue-thunder.json](./296678-blue-thunder.json) |
 | Blue Time | 128306 | [128306-blue-time.json](./128306-blue-time.json) |
+| Blue Toad Murder Files | 22970 | [22970-blue-toad-murder-files.json](./22970-blue-toad-murder-files.json) |
 | Blue Toad Murder Files: The Mysteries of Little Riddle | 18790 | [18790-blue-toad-murder-files-the-mysteries-of-little-riddle.json](./18790-blue-toad-murder-files-the-mysteries-of-little-riddle.json) |
 | Blue Tower Chronicle | 413739 | [413739-blue-tower-chronicle.json](./413739-blue-tower-chronicle.json) |
 | Blue Vector | 415750 | [415750-blue-vector.json](./415750-blue-vector.json) |
@@ -15961,6 +15966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breenstein | 252103 | [252103-breenstein.json](./252103-breenstein.json) |
 | Breeza Budgie Bill | 122608 | [122608-breeza-budgie-bill.json](./122608-breeza-budgie-bill.json) |
 | Breeze | 211059 | [211059-breeze.json](./211059-breeze.json) |
+| Breeze | 22927 | [22927-breeze.json](./22927-breeze.json) |
 | Breeze Contest | 321848 | [321848-breeze-contest.json](./321848-breeze-contest.json) |
 | Breeze Girl | 193991 | [193991-breeze-girl.json](./193991-breeze-girl.json) |
 | Breeze in the Clouds | 198220 | [198220-breeze-in-the-clouds.json](./198220-breeze-in-the-clouds.json) |
