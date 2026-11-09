@@ -23501,6 +23501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Blazer | 193303 | [193303-time-blazer.json](./193303-time-blazer.json) |
 | Time Bokan Series: Bokan Densetsu - Buta mo Odaterya Doronboo | 37472 | [37472-time-bokan-series-bokan-densetsu-buta-mo-odaterya-doronboo.json](./37472-time-bokan-series-bokan-densetsu-buta-mo-odaterya-doronboo.json) |
 | Time Bokan Series: Bokan Desuyo | 43759 | [43759-time-bokan-series-bokan-desuyo.json](./43759-time-bokan-series-bokan-desuyo.json) |
+| Time Bokan Series: Bokan Go Go Go | 67008 | [67008-time-bokan-series-bokan-go-go-go.json](./67008-time-bokan-series-bokan-go-go-go.json) |
 | Time Bokan Series: Bokan to Ippatsu! Doronbo | 43764 | [43764-time-bokan-series-bokan-to-ippatsu-doronbo.json](./43764-time-bokan-series-bokan-to-ippatsu-doronbo.json) |
 | Time Bomb Race | 259689 | [259689-time-bomb-race.json](./259689-time-bomb-race.json) |
 | Time Break | 117244 | [117244-time-break.json](./117244-time-break.json) |
