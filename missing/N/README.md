@@ -2832,6 +2832,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nerve - Do You Dare? | 122914 | [122914-nerve-do-you-dare.json](./122914-nerve-do-you-dare.json) |
 | Nerve Me | 125833 | [125833-nerve-me.json](./125833-nerve-me.json) |
 | Nerved | 105226 | [105226-nerved.json](./105226-nerved.json) |
+| Nerves of Steel | 73937 | [73937-nerves-of-steel.json](./73937-nerves-of-steel.json) |
 | Nervous Brickdown | 9507 | [9507-nervous-brickdown.json](./9507-nervous-brickdown.json) |
 | Nervous Granny | 187170 | [187170-nervous-granny.json](./187170-nervous-granny.json) |
 | Nervous Pinguin | 96034 | [96034-nervous-pinguin.json](./96034-nervous-pinguin.json) |
