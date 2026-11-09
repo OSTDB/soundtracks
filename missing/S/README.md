@@ -11441,6 +11441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Characters 2000 Series Vol. 12: Kidou Butou-den G Gundam - The Battle | 203142 | [203142-simple-characters-2000-series-vol-12-kidou-butou-den-g-gundam-the-battle.json](./203142-simple-characters-2000-series-vol-12-kidou-butou-den-g-gundam-the-battle.json) |
 | Simple Characters 2000 Series Vol. 13: Kidou Senki Gundam W - The Battle | 203144 | [203144-simple-characters-2000-series-vol-13-kidou-senki-gundam-w-the-battle.json](./203144-simple-characters-2000-series-vol-13-kidou-senki-gundam-w-the-battle.json) |
 | Simple Characters 2000 Series Vol. 14: Nante Tantei Idol - The Jigsaw Puzzle | 203145 | [203145-simple-characters-2000-series-vol-14-nante-tantei-idol-the-jigsaw-puzzle.json](./203145-simple-characters-2000-series-vol-14-nante-tantei-idol-the-jigsaw-puzzle.json) |
+| Simple Characters 2000 Series Vol. 15: Cyborg 009 - The Block Kuzushi | 65151 | [65151-simple-characters-2000-series-vol-15-cyborg-009-the-block-kuzushi.json](./65151-simple-characters-2000-series-vol-15-cyborg-009-the-block-kuzushi.json) |
 | Simple Characters 2000 Series Vol. 16: Ganba no Bouken Puzzle | 203146 | [203146-simple-characters-2000-series-vol-16-ganba-no-bouken-puzzle.json](./203146-simple-characters-2000-series-vol-16-ganba-no-bouken-puzzle.json) |
 | Simple Characters 2000 Series Vol.8: Kagaru Ninja Tai Gatchaman - The Shooting | 43757 | [43757-simple-characters-2000-series-vol-8-kagaru-ninja-tai-gatchaman-the-shooting.json](./43757-simple-characters-2000-series-vol-8-kagaru-ninja-tai-gatchaman-the-shooting.json) |
 | Simple Chat Games | 419337 | [419337-simple-chat-games.json](./419337-simple-chat-games.json) |
@@ -13437,6 +13438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam Dunk: Gakeppuchi no Kesshou League | 78516 | [78516-slam-dunk-gakeppuchi-no-kesshou-league.json](./78516-slam-dunk-gakeppuchi-no-kesshou-league.json) |
 | Slam Dunk: I Love Basketball | 78834 | [78834-slam-dunk-i-love-basketball.json](./78834-slam-dunk-i-love-basketball.json) |
 | Slam Dunk: Kyougou Makkou Taiketsu! | 78307 | [78307-slam-dunk-kyougou-makkou-taiketsu.json](./78307-slam-dunk-kyougou-makkou-taiketsu.json) |
+| Slam Dunk: SD Heat Up!! | 65608 | [65608-slam-dunk-sd-heat-up.json](./65608-slam-dunk-sd-heat-up.json) |
 | Slam Dunk: Shouri he no Starting 5 | 282497 | [282497-slam-dunk-shouri-he-no-starting-5.json](./282497-slam-dunk-shouri-he-no-starting-5.json) |
 | Slam Dunk: Super Slams | 130584 | [130584-slam-dunk-super-slams.json](./130584-slam-dunk-super-slams.json) |
 | Slam Dunk: Yonkyou Gekitotsu!! | 65425 | [65425-slam-dunk-yonkyou-gekitotsu.json](./65425-slam-dunk-yonkyou-gekitotsu.json) |
@@ -19578,6 +19580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Souptoys | 78539 | [78539-souptoys.json](./78539-souptoys.json) |
 | Souq Boss Simulator | 411118 | [411118-souq-boss-simulator.json](./411118-souq-boss-simulator.json) |
 | Sour Music Kart | 309606 | [309606-sour-music-kart.json](./309606-sour-music-kart.json) |
+| Sour Patch Kids: Sour Fling | 65150 | [65150-sour-patch-kids-sour-fling.json](./65150-sour-patch-kids-sour-fling.json) |
 | Sour Patch Kids: World Gone Sour | 52845 | [52845-sour-patch-kids-world-gone-sour.json](./52845-sour-patch-kids-world-gone-sour.json) |
 | Source | 80232 | [80232-source.json](./80232-source.json) |
 | Source beginning | 111434 | [111434-source-beginning.json](./111434-source-beginning.json) |
