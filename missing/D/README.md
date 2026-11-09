@@ -5136,6 +5136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debug Girl | 275744 | [275744-debug-girl.json](./275744-debug-girl.json) |
 | Debug Life | 339322 | [339322-debug-life.json](./339322-debug-life.json) |
 | Debug Nephemee | 397997 | [397997-debug-nephemee.json](./397997-debug-nephemee.json) |
+| Debugger 3.16: Hack'n'Run | 36039 | [36039-debugger-3-16-hacknrun.json](./36039-debugger-3-16-hacknrun.json) |
 | Debugger 3.16: Recoded - Despair of the Developer Edition | 380127 | [380127-debugger-3-16-recoded-despair-of-the-developer-edition.json](./380127-debugger-3-16-recoded-despair-of-the-developer-edition.json) |
 | Debugger 4406 | 187218 | [187218-debugger-4406.json](./187218-debugger-4406.json) |
 | Debugger Recoded | 211564 | [211564-debugger-recoded.json](./211564-debugger-recoded.json) |
@@ -5772,6 +5773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DeepTrouble | 57629 | [57629-deeptrouble.json](./57629-deeptrouble.json) |
 | Deepward | 410958 | [410958-deepward.json](./410958-deepward.json) |
 | DeepWeb Simulator | 291448 | [291448-deepweb-simulator.json](./291448-deepweb-simulator.json) |
+| Deepworld | 35979 | [35979-deepworld.json](./35979-deepworld.json) |
 | Deepy | 325023 | [325023-deepy.json](./325023-deepy.json) |
 | Deer | 383998 | [383998-deer.json](./383998-deer.json) |
 | Deer & Boy | 202138 | [202138-deer-and-boy.json](./202138-deer-and-boy.json) |
@@ -6179,6 +6181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deity | 320707 | [320707-deity.json](./320707-deity.json) |
 | Deity | 93500 | [93500-deity.json](./93500-deity.json) |
 | Deity Driving | 129055 | [129055-deity-driving.json](./129055-deity-driving.json) |
+| Deity Quest | 36005 | [36005-deity-quest.json](./36005-deity-quest.json) |
 | Deity Quest: Extended | 172114 | [172114-deity-quest-extended.json](./172114-deity-quest-extended.json) |
 | Deity's Domain | 306383 | [306383-deitys-domain.json](./306383-deitys-domain.json) |
 | DeIz | 236805 | [236805-deiz.json](./236805-deiz.json) |
@@ -6597,6 +6600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demining | 342163 | [342163-demining.json](./342163-demining.json) |
 | Demiourgos | 424002 | [424002-demiourgos.json](./424002-demiourgos.json) |
 | DeMiriam Magic: Blueprint of Miracle | 291857 | [291857-demiriam-magic-blueprint-of-miracle.json](./291857-demiriam-magic-blueprint-of-miracle.json) |
+| Demise of Nations | 36066 | [36066-demise-of-nations.json](./36066-demise-of-nations.json) |
 | Demise Sanctuary | 201243 | [201243-demise-sanctuary.json](./201243-demise-sanctuary.json) |
 | Demise: Ascension | 53963 | [53963-demise-ascension.json](./53963-demise-ascension.json) |
 | Demise: Revenge of the Tavern Keeper | 415940 | [415940-demise-revenge-of-the-tavern-keeper.json](./415940-demise-revenge-of-the-tavern-keeper.json) |
@@ -19146,6 +19150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Settlers | 288782 | [288782-dungeon-settlers.json](./288782-dungeon-settlers.json) |
 | Dungeon Shifters | 364507 | [364507-dungeon-shifters.json](./364507-dungeon-shifters.json) |
 | Dungeon Shooter | 104715 | [104715-dungeon-shooter.json](./104715-dungeon-shooter.json) |
+| Dungeon Shooter 2 | 36082 | [36082-dungeon-shooter-2.json](./36082-dungeon-shooter-2.json) |
 | Dungeon Shooter V1.1 | 106931 | [106931-dungeon-shooter-v1-1.json](./106931-dungeon-shooter-v1-1.json) |
 | Dungeon Shooter: Dark Temple | 234580 | [234580-dungeon-shooter-dark-temple.json](./234580-dungeon-shooter-dark-temple.json) |
 | Dungeon Shooting | 129516 | [129516-dungeon-shooting.json](./129516-dungeon-shooting.json) |
