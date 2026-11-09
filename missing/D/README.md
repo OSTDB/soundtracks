@@ -469,6 +469,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daimaou no Bijutsukan to Kaitoudan | 140003 | [140003-daimaou-no-bijutsukan-to-kaitoudan.json](./140003-daimaou-no-bijutsukan-to-kaitoudan.json) |
 | Daimei no nai Game Rigakkkai | 236746 | [236746-daimei-no-nai-game-rigakkkai.json](./236746-daimei-no-nai-game-rigakkkai.json) |
 | Daimon Comics: Herofrenia | 373266 | [373266-daimon-comics-herofrenia.json](./373266-daimon-comics-herofrenia.json) |
+| Daimonin | 57863 | [57863-daimonin.json](./57863-daimonin.json) |
 | Daimu | 364543 | [364543-daimu.json](./364543-daimu.json) |
 | Dain Squares | 380617 | [380617-dain-squares.json](./380617-dain-squares.json) |
 | Daina Airan | 165448 | [165448-daina-airan.json](./165448-daina-airan.json) |
@@ -9807,6 +9808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diner Together | 192648 | [192648-diner-together.json](./192648-diner-together.json) |
 | DinerTown Tycoon | 15000 | [15000-dinertown-tycoon.json](./15000-dinertown-tycoon.json) |
 | Dinerz | 406448 | [406448-dinerz.json](./406448-dinerz.json) |
+| Ding Dong | 57883 | [57883-ding-dong.json](./57883-ding-dong.json) |
 | Ding Dong Dang | 302470 | [302470-ding-dong-dang.json](./302470-ding-dong-dang.json) |
 | Ding Dong Dead | 272495 | [272495-ding-dong-dead.json](./272495-ding-dong-dead.json) |
 | Ding Dong Delivery | 237008 | [237008-ding-dong-delivery.json](./237008-ding-dong-delivery.json) |
@@ -10041,6 +10043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinoland | 165672 | [165672-dinoland.json](./165672-dinoland.json) |
 | DinoLife | 212909 | [212909-dinolife.json](./212909-dinolife.json) |
 | Dinolords | 270548 | [270548-dinolords.json](./270548-dinolords.json) |
+| DinoMash | 58353 | [58353-dinomash.json](./58353-dinomash.json) |
 | Dinomaster Party | 64224 | [64224-dinomaster-party.json](./64224-dinomaster-party.json) |
 | DinoMight Baseball | 209019 | [209019-dinomight-baseball.json](./209019-dinomight-baseball.json) |
 | Dinomod | 160287 | [160287-dinomod.json](./160287-dinomod.json) |
@@ -17631,6 +17634,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DropCast | 21458 | [21458-dropcast.json](./21458-dropcast.json) |
 | Dropchord | 22169 | [22169-dropchord.json](./22169-dropchord.json) |
 | Dropcore | 371851 | [371851-dropcore.json](./371851-dropcore.json) |
+| DropCore | 58329 | [58329-dropcore.json](./58329-dropcore.json) |
 | DropDisk | 339573 | [339573-dropdisk.json](./339573-dropdisk.json) |
 | Dropfinity | 407526 | [407526-dropfinity.json](./407526-dropfinity.json) |
 | DropingBalls | 265364 | [265364-dropingballs.json](./265364-dropingballs.json) |
