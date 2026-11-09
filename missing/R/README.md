@@ -2412,6 +2412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ray Attack | 148470 | [148470-ray-attack.json](./148470-ray-attack.json) |
 | Ray Bibbia | 181598 | [181598-ray-bibbia.json](./181598-ray-bibbia.json) |
 | Ray Blade | 98027 | [98027-ray-blade.json](./98027-ray-blade.json) |
+| Ray Bradbury's: The Martian Chronicles Adventure Game | 69966 | [69966-ray-bradburys-the-martian-chronicles-adventure-game.json](./69966-ray-bradburys-the-martian-chronicles-adventure-game.json) |
 | Ray Breaker | 98047 | [98047-ray-breaker.json](./98047-ray-breaker.json) |
 | Ray Crisis | 93955 | [93955-ray-crisis.json](./93955-ray-crisis.json) |
 | Ray Eager | 126593 | [126593-ray-eager.json](./126593-ray-eager.json) |
