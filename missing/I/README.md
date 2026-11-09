@@ -4013,7 +4013,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -6671,6 +6670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Isolated Island: After the Flood | 412908 | [412908-isolated-island-after-the-flood.json](./412908-isolated-island-after-the-flood.json) |
 | Isolated Life | 156119 | [156119-isolated-life.json](./156119-isolated-life.json) |
 | Isolated Room | 229024 | [229024-isolated-room.json](./229024-isolated-room.json) |
+| Isolated Warrior | 48154 | [48154-isolated-warrior.json](./48154-isolated-warrior.json) |
 | Isolation | 183296 | [183296-isolation.json](./183296-isolation.json) |
 | Isolation | 268654 | [268654-isolation.json](./268654-isolation.json) |
 | Isolation | 293242 | [293242-isolation.json](./293242-isolation.json) |
