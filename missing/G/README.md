@@ -3867,6 +3867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Chaser | 26220 | [26220-ghost-chaser.json](./26220-ghost-chaser.json) |
 | Ghost Chaser | 81429 | [81429-ghost-chaser.json](./81429-ghost-chaser.json) |
 | Ghost Chaser Densei | 15828 | [15828-ghost-chaser-densei.json](./15828-ghost-chaser-densei.json) |
+| Ghost Cleaner | 34538 | [34538-ghost-cleaner.json](./34538-ghost-cleaner.json) |
 | Ghost Clicker | 340298 | [340298-ghost-clicker.json](./340298-ghost-clicker.json) |
 | Ghost Code: Ignite | 365393 | [365393-ghost-code-ignite.json](./365393-ghost-code-ignite.json) |
 | Ghost College | 150640 | [150640-ghost-college.json](./150640-ghost-college.json) |
@@ -6502,6 +6503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GOG Collection Shooter Pack | 233349 | [233349-gog-collection-shooter-pack.json](./233349-gog-collection-shooter-pack.json) |
 | GoGeez | 410296 | [410296-gogeez.json](./410296-gogeez.json) |
 | Gogetsuji Legends | 37341 | [37341-gogetsuji-legends.json](./37341-gogetsuji-legends.json) |
+| Goggles - World of Vaporia | 34544 | [34544-goggles-world-of-vaporia.json](./34544-goggles-world-of-vaporia.json) |
 | Gogh: Focus with Your Avatar | 333115 | [333115-gogh-focus-with-your-avatar.json](./333115-gogh-focus-with-your-avatar.json) |
 | GogMagog | 212077 | [212077-gogmagog.json](./212077-gogmagog.json) |
 | Gogo I-Land | 344573 | [344573-gogo-i-land.json](./344573-gogo-i-land.json) |
@@ -7207,6 +7209,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gooboo | 371616 | [371616-gooboo.json](./371616-gooboo.json) |
 | Goobs | 354042 | [354042-goobs.json](./354042-goobs.json) |
 | Gooch Grundy's X-Decathlon | 73797 | [73797-gooch-grundys-x-decathlon.json](./73797-gooch-grundys-x-decathlon.json) |
+| GooCubelets | 34570 | [34570-goocubelets.json](./34570-goocubelets.json) |
 | GooCubelets 2 | 34249 | [34249-goocubelets-2.json](./34249-goocubelets-2.json) |
 | GooCubelets: Color Blocking | 44224 | [44224-goocubelets-color-blocking.json](./44224-goocubelets-color-blocking.json) |
 | GooCubelets: OCD | 33068 | [33068-goocubelets-ocd.json](./33068-goocubelets-ocd.json) |
