@@ -1132,6 +1132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Kitty Pow Pow | 123347 | [123347-laser-kitty-pow-pow.json](./123347-laser-kitty-pow-pow.json) |
 | Laser Lab | 214028 | [214028-laser-lab.json](./214028-laser-lab.json) |
 | Laser Labyrinth | 95729 | [95729-laser-labyrinth.json](./95729-laser-labyrinth.json) |
+| Laser Lasso Ball | 32049 | [32049-laser-lasso-ball.json](./32049-laser-lasso-ball.json) |
 | Laser League | 36912 | [36912-laser-league.json](./36912-laser-league.json) |
 | Laser Light | 14462 | [14462-laser-light.json](./14462-laser-light.json) |
 | Laser Lightshow | 290555 | [290555-laser-lightshow.json](./290555-laser-lightshow.json) |
@@ -3655,6 +3656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lepidarium | 389366 | [389366-lepidarium.json](./389366-lepidarium.json) |
 | Lepidoptera | 257092 | [257092-lepidoptera.json](./257092-lepidoptera.json) |
 | Lepistus | 268918 | [268918-lepistus.json](./268918-lepistus.json) |
+| Lepofrenia | 31330 | [31330-lepofrenia.json](./31330-lepofrenia.json) |
 | LepozhdianVibe | 325866 | [325866-lepozhdianvibe.json](./325866-lepozhdianvibe.json) |
 | Leprechaun | 229828 | [229828-leprechaun.json](./229828-leprechaun.json) |
 | Leprechaun | 23511 | [23511-leprechaun.json](./23511-leprechaun.json) |
