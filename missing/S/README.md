@@ -6430,6 +6430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sewer Rave | 125326 | [125326-sewer-rave.json](./125326-sewer-rave.json) |
 | Sewer Rave Twitter Royale | 178865 | [178865-sewer-rave-twitter-royale.json](./178865-sewer-rave-twitter-royale.json) |
 | Sewer Run | 194847 | [194847-sewer-run.json](./194847-sewer-run.json) |
+| Sewer Sam | 24431 | [24431-sewer-sam.json](./24431-sewer-sam.json) |
 | Sewer's Plague: Into the nest | 179895 | [179895-sewers-plague-into-the-nest.json](./179895-sewers-plague-into-the-nest.json) |
 | Sewercide | 385930 | [385930-sewercide.json](./385930-sewercide.json) |
 | Sewerlust | 400980 | [400980-sewerlust.json](./400980-sewerlust.json) |
@@ -18991,6 +18992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soporfall | 328374 | [328374-soporfall.json](./328374-soporfall.json) |
 | Soporific: A Bedtime Story | 181470 | [181470-soporific-a-bedtime-story.json](./181470-soporific-a-bedtime-story.json) |
 | Soppel | 203585 | [203585-soppel.json](./203585-soppel.json) |
+| Sopwith | 24424 | [24424-sopwith.json](./24424-sopwith.json) |
 | Sopwith VR | 113601 | [113601-sopwith-vr.json](./113601-sopwith-vr.json) |
 | Sopwith: The Author's Edition | 73126 | [73126-sopwith-the-authors-edition.json](./73126-sopwith-the-authors-edition.json) |
 | Sor.Op: Dark Shades | 355883 | [355883-sor-op-dark-shades.json](./355883-sor-op-dark-shades.json) |
@@ -19629,6 +19631,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soulstar X | 46427 | [46427-soulstar-x.json](./46427-soulstar-x.json) |
 | Soulstation | 402447 | [402447-soulstation.json](./402447-soulstation.json) |
 | Soulstice | 152262 | [152262-soulstice.json](./152262-soulstice.json) |
+| Soulstice: A Tale of Two Souls | 25119 | [25119-soulstice-a-tale-of-two-souls.json](./25119-soulstice-a-tale-of-two-souls.json) |
 | Soulstice: Ashen Blade Item Pack | 262738 | [262738-soulstice-ashen-blade-item-pack.json](./262738-soulstice-ashen-blade-item-pack.json) |
 | Soulstice: Deluxe Edition | 201781 | [201781-soulstice-deluxe-edition.json](./201781-soulstice-deluxe-edition.json) |
 | Soulstone of Hope | 266025 | [266025-soulstone-of-hope.json](./266025-soulstone-of-hope.json) |
@@ -22524,6 +22527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spider Solitaire Cube | 56917 | [56917-spider-solitaire-cube.json](./56917-spider-solitaire-cube.json) |
 | Spider Solitaire F | 109493 | [109493-spider-solitaire-f.json](./109493-spider-solitaire-f.json) |
 | Spider Solitaire Gold | 146612 | [146612-spider-solitaire-gold.json](./146612-spider-solitaire-gold.json) |
+| Spider Solitaire Online | 24472 | [24472-spider-solitaire-online.json](./24472-spider-solitaire-online.json) |
 | Spider Solitaire Pro! | 89182 | [89182-spider-solitaire-pro.json](./89182-spider-solitaire-pro.json) |
 | Spider Solitarus | 88564 | [88564-spider-solitarus.json](./88564-spider-solitarus.json) |
 | Spider Square | 113981 | [113981-spider-square.json](./113981-spider-square.json) |
@@ -24742,6 +24746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stairway to Heaven's Gate | 187583 | [187583-stairway-to-heavens-gate.json](./187583-stairway-to-heavens-gate.json) |
 | Stairway to Tavern | 293680 | [293680-stairway-to-tavern.json](./293680-stairway-to-tavern.json) |
 | Stak Atak | 158519 | [158519-stak-atak.json](./158519-stak-atak.json) |
+| Stak Bots - Breakout | 24401 | [24401-stak-bots-breakout.json](./24401-stak-bots-breakout.json) |
 | Stakeholder Game | 190069 | [190069-stakeholder-game.json](./190069-stakeholder-game.json) |
 | Stakes Winner | 39626 | [39626-stakes-winner.json](./39626-stakes-winner.json) |
 | Stakes Winner 2 | 39625 | [39625-stakes-winner-2.json](./39625-stakes-winner-2.json) |
@@ -27154,6 +27159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steamulator 2019 | 105102 | [105102-steamulator-2019.json](./105102-steamulator-2019.json) |
 | SteamWorld Build & Dig Bundle | 279037 | [279037-steamworld-build-and-dig-bundle.json](./279037-steamworld-build-and-dig-bundle.json) |
 | SteamWorld Build: Deluxe Edition | 295643 | [295643-steamworld-build-deluxe-edition.json](./295643-steamworld-build-deluxe-edition.json) |
+| SteamWorld Collection | 24421 | [24421-steamworld-collection.json](./24421-steamworld-collection.json) |
 | SteamWorld Dig | 5772 | [5772-steamworld-dig.json](./5772-steamworld-dig.json) |
 | SteamWorld Dig 2 | 27433 | [27433-steamworld-dig-2.json](./27433-steamworld-dig-2.json) |
 | Steamworld Dig 2 + Steamworld Dig | 218691 | [218691-steamworld-dig-2-steamworld-dig.json](./218691-steamworld-dig-2-steamworld-dig.json) |
@@ -30129,6 +30135,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sub Rebellion | 43329 | [43329-sub-rebellion.json](./43329-sub-rebellion.json) |
 | Sub Rosa | 16951 | [16951-sub-rosa.json](./16951-sub-rosa.json) |
 | Sub Rosa Tournament | 418293 | [418293-sub-rosa-tournament.json](./418293-sub-rosa-tournament.json) |
+| Sub Scan | 24466 | [24466-sub-scan.json](./24466-sub-scan.json) |
 | Sub Stalker | 93053 | [93053-sub-stalker.json](./93053-sub-stalker.json) |
 | Sub Terra | 360717 | [360717-sub-terra.json](./360717-sub-terra.json) |
 | Sub Terra Draconis | 57099 | [57099-sub-terra-draconis.json](./57099-sub-terra-draconis.json) |
@@ -30325,6 +30332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Subterene | 163901 | [163901-subterene.json](./163901-subterene.json) |
 | Subterrain: Mines of Titan | 155497 | [155497-subterrain-mines-of-titan.json](./155497-subterrain-mines-of-titan.json) |
 | Subterranauts | 318348 | [318348-subterranauts.json](./318348-subterranauts.json) |
+| Subterranea | 24435 | [24435-subterranea.json](./24435-subterranea.json) |
 | Subterranea | 55205 | [55205-subterranea.json](./55205-subterranea.json) |
 | Subterranean | 180637 | [180637-subterranean.json](./180637-subterranean.json) |
 | Subterranean Detectives Orin and Satori | 185591 | [185591-subterranean-detectives-orin-and-satori.json](./185591-subterranean-detectives-orin-and-satori.json) |
@@ -32880,6 +32888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Magic Ball! Home Run Derby | 409316 | [409316-super-magic-ball-home-run-derby.json](./409316-super-magic-ball-home-run-derby.json) |
 | Super Magic Chess | 331134 | [331134-super-magic-chess.json](./331134-super-magic-chess.json) |
 | Super Magic Elemage | 228675 | [228675-super-magic-elemage.json](./228675-super-magic-elemage.json) |
+| Super Magic Rainbow | 24414 | [24414-super-magic-rainbow.json](./24414-super-magic-rainbow.json) |
 | Super Magnetic Neo | 45863 | [45863-super-magnetic-neo.json](./45863-super-magnetic-neo.json) |
 | Super Magro World | 152315 | [152315-super-magro-world.json](./152315-super-magro-world.json) |
 | Super Magro World | 412746 | [412746-super-magro-world.json](./412746-super-magro-world.json) |
@@ -36930,6 +36939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword of Convallaria: For This World of Peace | 212438 | [212438-sword-of-convallaria-for-this-world-of-peace.json](./212438-sword-of-convallaria-for-this-world-of-peace.json) |
 | Sword of Destiny | 133670 | [133670-sword-of-destiny.json](./133670-sword-of-destiny.json) |
 | Sword of Destruction | 237428 | [237428-sword-of-destruction.json](./237428-sword-of-destruction.json) |
+| Sword of Fargoal | 24452 | [24452-sword-of-fargoal.json](./24452-sword-of-fargoal.json) |
 | Sword of Fireheart - The Awakening Element | 31989 | [31989-sword-of-fireheart-the-awakening-element.json](./31989-sword-of-fireheart-the-awakening-element.json) |
 | Sword of Fortress the Onomuzim | 99469 | [99469-sword-of-fortress-the-onomuzim.json](./99469-sword-of-fortress-the-onomuzim.json) |
 | Sword of Glory | 257712 | [257712-sword-of-glory.json](./257712-sword-of-glory.json) |
