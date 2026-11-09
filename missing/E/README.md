@@ -34,6 +34,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | E-Startup | 96707 | [96707-e-startup.json](./96707-e-startup.json) |
 | E-Startup 2: Business Tycoon | 292488 | [292488-e-startup-2-business-tycoon.json](./292488-e-startup-2-business-tycoon.json) |
 | E-Tech Simulator | 308960 | [308960-e-tech-simulator.json](./308960-e-tech-simulator.json) |
+| E-Type | 61749 | [61749-e-type.json](./61749-e-type.json) |
 | E.B. | 129049 | [129049-e-b.json](./129049-e-b.json) |
 | E.C.H.O.S | 400266 | [400266-e-c-h-o-s.json](./400266-e-c-h-o-s.json) |
 | E.E.R.I.E | 148838 | [148838-e-e-r-i-e.json](./148838-e-e-r-i-e.json) |
@@ -3929,6 +3930,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Shift | 374831 | [374831-endless-shift.json](./374831-endless-shift.json) |
 | Endless Siege Online | 218696 | [218696-endless-siege-online.json](./218696-endless-siege-online.json) |
 | Endless Silent Night | 404330 | [404330-endless-silent-night.json](./404330-endless-silent-night.json) |
+| Endless Skater | 61755 | [61755-endless-skater.json](./61755-endless-skater.json) |
 | Endless Ski | 127504 | [127504-endless-ski.json](./127504-endless-ski.json) |
 | Endless Sky | 128413 | [128413-endless-sky.json](./128413-endless-sky.json) |
 | Endless Sky | 34409 | [34409-endless-sky.json](./34409-endless-sky.json) |
@@ -4739,6 +4741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Zombies | 293620 | [293620-epic-zombies.json](./293620-epic-zombies.json) |
 | Epic! The Humorous RPG | 313992 | [313992-epic-the-humorous-rpg.json](./313992-epic-the-humorous-rpg.json) |
 | Epica | 31048 | [31048-epica.json](./31048-epica.json) |
+| EpicDuel | 61774 | [61774-epicduel.json](./61774-epicduel.json) |
 | Epicedium | 102797 | [102797-epicedium.json](./102797-epicedium.json) |
 | Epicenter VR | 212168 | [212168-epicenter-vr.json](./212168-epicenter-vr.json) |
 | Epicinium | 82124 | [82124-epicinium.json](./82124-epicinium.json) |
