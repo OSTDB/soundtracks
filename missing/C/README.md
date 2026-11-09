@@ -2593,6 +2593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardcaptor Sakura: Repaint Record | 137637 | [137637-cardcaptor-sakura-repaint-record.json](./137637-cardcaptor-sakura-repaint-record.json) |
 | Cardcaptor Sakura: Sakura Card de Mini-Game | 49519 | [49519-cardcaptor-sakura-sakura-card-de-mini-game.json](./49519-cardcaptor-sakura-sakura-card-de-mini-game.json) |
 | Cardcaptor Sakura: Sakura-Chan to Asobo! | 80800 | [80800-cardcaptor-sakura-sakura-chan-to-asobo.json](./80800-cardcaptor-sakura-sakura-chan-to-asobo.json) |
+| Cardcaptor Sakura: Tomoyo no Video Daisakusen | 66251 | [66251-cardcaptor-sakura-tomoyo-no-video-daisakusen.json](./66251-cardcaptor-sakura-tomoyo-no-video-daisakusen.json) |
 | Cardcaster | 348288 | [348288-cardcaster.json](./348288-cardcaster.json) |
 | Cardchery | 267487 | [267487-cardchery.json](./267487-cardchery.json) |
 | Cardcore | 112475 | [112475-cardcore.json](./112475-cardcore.json) |
@@ -5848,6 +5849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chakana | 322805 | [322805-chakana.json](./322805-chakana.json) |
 | Chakana | 377193 | [377193-chakana.json](./377193-chakana.json) |
 | Chakana, Gold of the Gods | 291285 | [291285-chakana-gold-of-the-gods.json](./291285-chakana-gold-of-the-gods.json) |
+| Chakra-kun no Omajinai Paradise | 66244 | [66244-chakra-kun-no-omajinai-paradise.json](./66244-chakra-kun-no-omajinai-paradise.json) |
 | Chakravyuh | 133981 | [133981-chakravyuh.json](./133981-chakravyuh.json) |
 | Chakusin Melody Damon | 283823 | [283823-chakusin-melody-damon.json](./283823-chakusin-melody-damon.json) |
 | Chalet | 350943 | [350943-chalet.json](./350943-chalet.json) |
@@ -20430,6 +20432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of the Cobra | 229050 | [229050-curse-of-the-cobra.json](./229050-curse-of-the-cobra.json) |
 | Curse of the Corsair | 245953 | [245953-curse-of-the-corsair.json](./245953-curse-of-the-corsair.json) |
 | Curse of the Countess | 413230 | [413230-curse-of-the-countess.json](./413230-curse-of-the-countess.json) |
+| Curse of the Crescent Isle | 66162 | [66162-curse-of-the-crescent-isle.json](./66162-curse-of-the-crescent-isle.json) |
 | Curse of the Crescent Isle DX | 35398 | [35398-curse-of-the-crescent-isle-dx.json](./35398-curse-of-the-crescent-isle-dx.json) |
 | Curse of the Dead Gods | 125373 | [125373-curse-of-the-dead-gods.json](./125373-curse-of-the-dead-gods.json) |
 | Curse of the Deadwood | 172152 | [172152-curse-of-the-deadwood.json](./172152-curse-of-the-deadwood.json) |
