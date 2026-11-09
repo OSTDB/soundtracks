@@ -8221,6 +8221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hillbilly Doomsday | 205077 | [205077-hillbilly-doomsday.json](./205077-hillbilly-doomsday.json) |
 | Hillbilly Hellfire | 332176 | [332176-hillbilly-hellfire.json](./332176-hillbilly-hellfire.json) |
 | Hillbilly Organ Grinder | 60527 | [60527-hillbilly-organ-grinder.json](./60527-hillbilly-organ-grinder.json) |
+| Hillbilly Whack! | 68868 | [68868-hillbilly-whack.json](./68868-hillbilly-whack.json) |
 | Hillbomb | 271621 | [271621-hillbomb.json](./271621-hillbomb.json) |
 | Hillmain Hotel | 196668 | [196668-hillmain-hotel.json](./196668-hillmain-hotel.json) |
 | Hills & Hollows | 141876 | [141876-hills-and-hollows.json](./141876-hills-and-hollows.json) |
