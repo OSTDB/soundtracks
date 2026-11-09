@@ -1529,6 +1529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famicom Tantei Club: Seinaru Yoru ni | 275263 | [275263-famicom-tantei-club-seinaru-yoru-ni.json](./275263-famicom-tantei-club-seinaru-yoru-ni.json) |
 | Famicom Top Management | 48712 | [48712-famicom-top-management.json](./48712-famicom-top-management.json) |
 | Famicom Wars | 72131 | [72131-famicom-wars.json](./72131-famicom-wars.json) |
+| Famicom Yakyuuban | 48734 | [48734-famicom-yakyuuban.json](./48734-famicom-yakyuuban.json) |
 | Famicom Zenkoku Issei Quiz | 328605 | [328605-famicom-zenkoku-issei-quiz.json](./328605-famicom-zenkoku-issei-quiz.json) |
 | Famidash | 308404 | [308404-famidash.json](./308404-famidash.json) |
 | Familegion | 388149 | [388149-familegion.json](./388149-familegion.json) |
@@ -1706,6 +1707,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Town | 219265 | [219265-family-town.json](./219265-family-town.json) |
 | Family Trainer | 142814 | [142814-family-trainer.json](./142814-family-trainer.json) |
 | Family Trainer: Fuuun! Takeshi-jou 2 | 64499 | [64499-family-trainer-fuuun-takeshi-jou-2.json](./64499-family-trainer-fuuun-takeshi-jou-2.json) |
+| Family Trainer: Jogging Race | 48765 | [48765-family-trainer-jogging-race.json](./48765-family-trainer-jogging-race.json) |
+| Family Trainer: Meiro Daisakusen | 48764 | [48764-family-trainer-meiro-daisakusen.json](./48764-family-trainer-meiro-daisakusen.json) |
+| Family Trainer: Rai-rai Kyonshis - Baby Kyonshi no Amida Daibouken | 48761 | [48761-family-trainer-rai-rai-kyonshis-baby-kyonshi-no-amida-daibouken.json](./48761-family-trainer-rai-rai-kyonshis-baby-kyonshi-no-amida-daibouken.json) |
 | Family Tree | 124625 | [124625-family-tree.json](./124625-family-tree.json) |
 | Family Tree! | 274744 | [274744-family-tree.json](./274744-family-tree.json) |
 | Family Vacation Bundle: 20 Games | 330436 | [330436-family-vacation-bundle-20-games.json](./330436-family-vacation-bundle-20-games.json) |
@@ -5013,6 +5017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Clash: Buried Treasures | 109547 | [109547-final-clash-buried-treasures.json](./109547-final-clash-buried-treasures.json) |
 | Final Clue Oakloon | 285409 | [285409-final-clue-oakloon.json](./285409-final-clue-oakloon.json) |
 | Final Combat | 195066 | [195066-final-combat.json](./195066-final-combat.json) |
+| Final Combat | 48357 | [48357-final-combat.json](./48357-final-combat.json) |
 | Final Command | 71586 | [71586-final-command.json](./71586-final-command.json) |
 | Final Commando: Akai Yousai | 41266 | [41266-final-commando-akai-yousai.json](./41266-final-commando-akai-yousai.json) |
 | Final Conflict | 209429 | [209429-final-conflict.json](./209429-final-conflict.json) |
