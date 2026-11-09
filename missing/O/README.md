@@ -4012,6 +4012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbitron: Revolution | 54264 | [54264-orbitron-revolution.json](./54264-orbitron-revolution.json) |
 | Orbits | 91137 | [91137-orbits.json](./91137-orbits.json) |
 | Orbits: The Sandbox | 138469 | [138469-orbits-the-sandbox.json](./138469-orbits-the-sandbox.json) |
+| Orbits: Voyage Through the Solar System | 58940 | [58940-orbits-voyage-through-the-solar-system.json](./58940-orbits-voyage-through-the-solar-system.json) |
 | Orbitum | 230323 | [230323-orbitum.json](./230323-orbitum.json) |
 | Orbituous | 339908 | [339908-orbituous.json](./339908-orbituous.json) |
 | Orbius | 279499 | [279499-orbius.json](./279499-orbius.json) |
