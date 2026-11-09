@@ -6598,6 +6598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle of Polytopia+ | 357407 | [357407-the-battle-of-polytopia.json](./357407-the-battle-of-polytopia.json) |
 | The Battle of Sacred Heart | 239700 | [239700-the-battle-of-sacred-heart.json](./239700-the-battle-of-sacred-heart.json) |
 | The Battle of Sol | 36416 | [36416-the-battle-of-sol.json](./36416-the-battle-of-sol.json) |
+| The Battle of the Bulge: Tigers in the Snow | 24450 | [24450-the-battle-of-the-bulge-tigers-in-the-snow.json](./24450-the-battle-of-the-bulge-tigers-in-the-snow.json) |
 | The Battle of Visby | 164139 | [164139-the-battle-of-visby.json](./164139-the-battle-of-visby.json) |
 | The Battle of YuYu Hakusho: Shitou! Ankoku Bujutsukai! 120% | 79148 | [79148-the-battle-of-yuyu-hakusho-shitou-ankoku-bujutsukai-120.json](./79148-the-battle-of-yuyu-hakusho-shitou-ankoku-bujutsukai-120.json) |
 | The Battle Orks | 339986 | [339986-the-battle-orks.json](./339986-the-battle-orks.json) |
@@ -14374,6 +14375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Missing Part | 349880 | [349880-the-missing-part.json](./349880-the-missing-part.json) |
 | The Missing Parts of Maria Gwozdek | 236961 | [236961-the-missing-parts-of-maria-gwozdek.json](./236961-the-missing-parts-of-maria-gwozdek.json) |
 | The Missing Pharaoh | 212520 | [212520-the-missing-pharaoh.json](./212520-the-missing-pharaoh.json) |
+| The Missing Ring | 24447 | [24447-the-missing-ring.json](./24447-the-missing-ring.json) |
 | The Missing Rune | 408492 | [408492-the-missing-rune.json](./408492-the-missing-rune.json) |
 | The Missing Sock | 302139 | [302139-the-missing-sock.json](./302139-the-missing-sock.json) |
 | The Missing Tail | 416085 | [416085-the-missing-tail.json](./416085-the-missing-tail.json) |
@@ -16165,6 +16167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Retrospection of Tomorrow | 354750 | [354750-the-retrospection-of-tomorrow.json](./354750-the-retrospection-of-tomorrow.json) |
 | The Return Home | 32131 | [32131-the-return-home.json](./32131-the-return-home.json) |
 | The Return of Bantara | 334748 | [334748-the-return-of-bantara.json](./334748-the-return-of-bantara.json) |
+| The Return of Heracles | 24451 | [24451-the-return-of-heracles.json](./24451-the-return-of-heracles.json) |
 | The Return of Ishtar | 39952 | [39952-the-return-of-ishtar.json](./39952-the-return-of-ishtar.json) |
 | The Return of Medusa | 14508 | [14508-the-return-of-medusa.json](./14508-the-return-of-medusa.json) |
 | The Return of Sammy Marlo | 73144 | [73144-the-return-of-sammy-marlo.json](./73144-the-return-of-sammy-marlo.json) |
@@ -32498,6 +32501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trogday Micro Game | 200949 | [200949-trogday-micro-game.json](./200949-trogday-micro-game.json) |
 | Troggle Trouble Math | 93191 | [93191-troggle-trouble-math.json](./93191-troggle-trouble-math.json) |
 | Trogloxene | 178256 | [178256-trogloxene.json](./178256-trogloxene.json) |
+| Troid Blaster | 25121 | [25121-troid-blaster.json](./25121-troid-blaster.json) |
 | Troika | 78847 | [78847-troika.json](./78847-troika.json) |
 | Trois Mouvements Perpétuels | 277291 | [277291-trois-mouvements-perpetuels.json](./277291-trois-mouvements-perpetuels.json) |
 | Troisix | 109285 | [109285-troisix.json](./109285-troisix.json) |
@@ -33101,6 +33105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trump: Agent of Hate | 26958 | [26958-trump-agent-of-hate.json](./26958-trump-agent-of-hate.json) |
 | Trump! Jump | 256262 | [256262-trump-jump.json](./256262-trump-jump.json) |
 | Trump's Empire | 263622 | [263622-trumps-empire.json](./263622-trumps-empire.json) |
+| Trumpet | 24478 | [24478-trumpet.json](./24478-trumpet.json) |
 | Trumpets | 179164 | [179164-trumpets.json](./179164-trumpets.json) |
 | TrumpGate | 232340 | [232340-trumpgate.json](./232340-trumpgate.json) |
 | TrumPiñata | 32295 | [32295-trumpinata.json](./32295-trumpinata.json) |
@@ -34800,6 +34805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twwwr | 141761 | [141761-twwwr.json](./141761-twwwr.json) |
 | Twyla | 260534 | [260534-twyla.json](./260534-twyla.json) |
 | TX Poker: Texas Holdem Online | 359912 | [359912-tx-poker-texas-holdem-online.json](./359912-tx-poker-texas-holdem-online.json) |
+| TX-1 | 24434 | [24434-tx-1.json](./24434-tx-1.json) |
 | TXXX | 232706 | [232706-txxx.json](./232706-txxx.json) |
 | Ty the Tasmanian Tiger | 1322 | [1322-ty-the-tasmanian-tiger.json](./1322-ty-the-tasmanian-tiger.json) |
 | Ty the Tasmanian Tiger 2: Bush Rescue | 210497 | [210497-ty-the-tasmanian-tiger-2-bush-rescue.json](./210497-ty-the-tasmanian-tiger-2-bush-rescue.json) |
