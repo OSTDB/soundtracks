@@ -7351,6 +7351,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wonder Library | 45605 | [45605-wonder-library.json](./45605-wonder-library.json) |
 | Wonder Loop Village | 312548 | [312548-wonder-loop-village.json](./312548-wonder-loop-village.json) |
 | Wonder Momo | 38559 | [38559-wonder-momo.json](./38559-wonder-momo.json) |
+| Wonder Momo: Typhoon Booster | 62229 | [62229-wonder-momo-typhoon-booster.json](./62229-wonder-momo-typhoon-booster.json) |
 | Wonder Mu: Mu to Unmei no Monster | 220323 | [220323-wonder-mu-mu-to-unmei-no-monster.json](./220323-wonder-mu-mu-to-unmei-no-monster.json) |
 | Wonder of Blue | 345509 | [345509-wonder-of-blue.json](./345509-wonder-of-blue.json) |
 | Wonder Parade | 100767 | [100767-wonder-parade.json](./100767-wonder-parade.json) |
