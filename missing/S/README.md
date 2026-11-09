@@ -20780,6 +20780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Scrap Shuffle | 183351 | [183351-space-scrap-shuffle.json](./183351-space-scrap-shuffle.json) |
 | Space ScrubLords | 348930 | [348930-space-scrublords.json](./348930-space-scrublords.json) |
 | Space Scum | 351056 | [351056-space-scum.json](./351056-space-scum.json) |
+| Space Scumbags | 53311 | [53311-space-scumbags.json](./53311-space-scumbags.json) |
 | Space Seeker | 41101 | [41101-space-seeker.json](./41101-space-seeker.json) |
 | Space Sergeants | 143941 | [143941-space-sergeants.json](./143941-space-sergeants.json) |
 | Space Sex | 156794 | [156794-space-sex.json](./156794-space-sex.json) |
