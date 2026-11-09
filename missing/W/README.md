@@ -6280,6 +6280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winter Solitaire | 115525 | [115525-winter-solitaire.json](./115525-winter-solitaire.json) |
 | Winter Sports | 301449 | [301449-winter-sports.json](./301449-winter-sports.json) |
 | Winter Sports 2: The Next Challenge | 5285 | [5285-winter-sports-2-the-next-challenge.json](./5285-winter-sports-2-the-next-challenge.json) |
+| Winter Sports 2009: The Next Challenge | 24487 | [24487-winter-sports-2009-the-next-challenge.json](./24487-winter-sports-2009-the-next-challenge.json) |
 | Winter Sports 2010: The Great Tournament | 21089 | [21089-winter-sports-2010-the-great-tournament.json](./21089-winter-sports-2010-the-great-tournament.json) |
 | Winter Sports 2011: Go for Gold | 27645 | [27645-winter-sports-2011-go-for-gold.json](./27645-winter-sports-2011-go-for-gold.json) |
 | Winter Sports 2012: Feel the Spirit | 52136 | [52136-winter-sports-2012-feel-the-spirit.json](./52136-winter-sports-2012-feel-the-spirit.json) |
