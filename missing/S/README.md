@@ -10471,6 +10471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sideswipe | 383536 | [383536-sideswipe.json](./383536-sideswipe.json) |
 | Sideswiped | 91666 | [91666-sideswiped.json](./91666-sideswiped.json) |
 | SideTracked! | 173339 | [173339-sidetracked.json](./173339-sidetracked.json) |
+| Sidewalk | 54558 | [54558-sidewalk.json](./54558-sidewalk.json) |
 | Sidewalk Fighter II | 60912 | [60912-sidewalk-fighter-ii.json](./60912-sidewalk-fighter-ii.json) |
 | Sidewalk Sidestep | 183233 | [183233-sidewalk-sidestep.json](./183233-sidewalk-sidestep.json) |
 | Sidewalk Simulator | 324294 | [324294-sidewalk-simulator.json](./324294-sidewalk-simulator.json) |
@@ -10483,6 +10484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sidewinder 2 | 66656 | [66656-sidewinder-2.json](./66656-sidewinder-2.json) |
 | SideWinder II | 12767 | [12767-sidewinder-ii.json](./12767-sidewinder-ii.json) |
 | Sidewinder Max | 322940 | [322940-sidewinder-max.json](./322940-sidewinder-max.json) |
+| Sidewize | 54569 | [54569-sidewize.json](./54569-sidewize.json) |
 | Sidius Nova | 413813 | [413813-sidius-nova.json](./413813-sidius-nova.json) |
 | Sidrial | 230164 | [230164-sidrial.json](./230164-sidrial.json) |
 | Sidyq | 390472 | [390472-sidyq.json](./390472-sidyq.json) |
@@ -13124,6 +13126,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky Resort: Delphi & Jessy | 367130 | [367130-sky-resort-delphi-and-jessy.json](./367130-sky-resort-delphi-and-jessy.json) |
 | Sky Revolver | 342154 | [342154-sky-revolver.json](./342154-sky-revolver.json) |
 | Sky Rhythm | 328909 | [328909-sky-rhythm.json](./328909-sky-rhythm.json) |
+| Sky Ride | 54559 | [54559-sky-ride.json](./54559-sky-ride.json) |
 | Sky Road | 76383 | [76383-sky-road.json](./76383-sky-road.json) |
 | Sky Robo | 327321 | [327321-sky-robo.json](./327321-sky-robo.json) |
 | Sky Rogue | 11633 | [11633-sky-rogue.json](./11633-sky-rogue.json) |
@@ -17928,6 +17931,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic at the Olympic Games | 56926 | [56926-sonic-at-the-olympic-games.json](./56926-sonic-at-the-olympic-games.json) |
 | Sonic at the Olympic Games: Tokyo 2020 | 116802 | [116802-sonic-at-the-olympic-games-tokyo-2020.json](./116802-sonic-at-the-olympic-games-tokyo-2020.json) |
 | Sonic at the Olympic Winter Games | 56927 | [56927-sonic-at-the-olympic-winter-games.json](./56927-sonic-at-the-olympic-winter-games.json) |
+| Sonic Athletics | 54556 | [54556-sonic-athletics.json](./54556-sonic-athletics.json) |
 | Sonic Attitude | 331740 | [331740-sonic-attitude.json](./331740-sonic-attitude.json) |
 | Sonic Aural | 326150 | [326150-sonic-aural.json](./326150-sonic-aural.json) |
 | Sonic Avalanche | 331152 | [331152-sonic-avalanche.json](./331152-sonic-avalanche.json) |
@@ -18139,6 +18143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Generations: White Time and Space 20th Anniversary Set | 89889 | [89889-sonic-generations-white-time-and-space-20th-anniversary-set.json](./89889-sonic-generations-white-time-and-space-20th-anniversary-set.json) |
 | Sonic Genesis | 331990 | [331990-sonic-genesis.json](./331990-sonic-genesis.json) |
 | Sonic Genesis of the Azure Wind | 331714 | [331714-sonic-genesis-of-the-azure-wind.json](./331714-sonic-genesis-of-the-azure-wind.json) |
+| Sonic Ghost Shooting | 54557 | [54557-sonic-ghost-shooting.json](./54557-sonic-ghost-shooting.json) |
 | Sonic Gijinka | 331980 | [331980-sonic-gijinka.json](./331980-sonic-gijinka.json) |
 | Sonic GML | 332208 | [332208-sonic-gml.json](./332208-sonic-gml.json) |
 | Sonic Golf | 261242 | [261242-sonic-golf.json](./261242-sonic-golf.json) |
@@ -20690,6 +20695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Raiders | 52000 | [52000-space-raiders.json](./52000-space-raiders.json) |
 | Space Raiders in Space | 138622 | [138622-space-raiders-in-space.json](./138622-space-raiders-in-space.json) |
 | Space Raiders in Space + Clumsy Rush | 230406 | [230406-space-raiders-in-space-clumsy-rush.json](./230406-space-raiders-in-space-clumsy-rush.json) |
+| Space Ranger | 54570 | [54570-space-ranger.json](./54570-space-ranger.json) |
 | Space Ranger Appleseed | 208637 | [208637-space-ranger-appleseed.json](./208637-space-ranger-appleseed.json) |
 | Space Ranger ASK | 33316 | [33316-space-ranger-ask.json](./33316-space-ranger-ask.json) |
 | Space Ranger VR | 130231 | [130231-space-ranger-vr.json](./130231-space-ranger-vr.json) |
@@ -21521,6 +21527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spec Ops: Stealth Patrol | 9343 | [9343-spec-ops-stealth-patrol.json](./9343-spec-ops-stealth-patrol.json) |
 | Spec Ops: War on Terrorism | 325389 | [325389-spec-ops-war-on-terrorism.json](./325389-spec-ops-war-on-terrorism.json) |
 | Spec: Kan | 222478 | [222478-spec-kan.json](./222478-spec-kan.json) |
+| Special Agent | 54579 | [54579-special-agent.json](./54579-special-agent.json) |
 | Special Agent CyberDuck | 199983 | [199983-special-agent-cyberduck.json](./199983-special-agent-cyberduck.json) |
 | Special Agent Training | 401616 | [401616-special-agent-training.json](./401616-special-agent-training.json) |
 | Special Agent: Aigis Pink | 407446 | [407446-special-agent-aigis-pink.json](./407446-special-agent-aigis-pink.json) |
@@ -28852,6 +28859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strays POV Tales | 403727 | [403727-strays-pov-tales.json](./403727-strays-pov-tales.json) |
 | StrayShot | 277808 | [277808-strayshot.json](./277808-strayshot.json) |
 | Strazeal | 121483 | [121483-strazeal.json](./121483-strazeal.json) |
+| Streaker | 54571 | [54571-streaker.json](./54571-streaker.json) |
 | Streakshot | 97169 | [97169-streakshot.json](./97169-streakshot.json) |
 | Stream | 246992 | [246992-stream.json](./246992-stream.json) |
 | Stream - Circuit Puzzle | 102128 | [102128-stream-circuit-puzzle.json](./102128-stream-circuit-puzzle.json) |
@@ -29194,6 +29202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Football | 21476 | [21476-street-football.json](./21476-street-football.json) |
 | Street Football | 393440 | [393440-street-football.json](./393440-street-football.json) |
 | Street Football 2 | 268209 | [268209-street-football-2.json](./268209-street-football-2.json) |
+| Street Gang | 54573 | [54573-street-gang.json](./54573-street-gang.json) |
 | Street Gang Football | 331343 | [331343-street-gang-football.json](./331343-street-gang-football.json) |
 | Street Gears | 92348 | [92348-street-gears.json](./92348-street-gears.json) |
 | Street Girls | 296991 | [296991-street-girls.json](./296991-street-girls.json) |
