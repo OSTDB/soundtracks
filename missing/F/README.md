@@ -6710,6 +6710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fishdom | 85147 | [85147-fishdom.json](./85147-fishdom.json) |
 | Fishdom 2 | 144472 | [144472-fishdom-2.json](./144472-fishdom-2.json) |
 | Fishdom 3 | 60284 | [60284-fishdom-3.json](./60284-fishdom-3.json) |
+| Fishdom H2O: Hidden Odyssey | 41486 | [41486-fishdom-h2o-hidden-odyssey.json](./41486-fishdom-h2o-hidden-odyssey.json) |
 | Fishdom Solitaire | 232297 | [232297-fishdom-solitaire.json](./232297-fishdom-solitaire.json) |
 | Fishdom: Deep Dive | 197359 | [197359-fishdom-deep-dive.json](./197359-fishdom-deep-dive.json) |
 | Fishdom: Depths of Time | 144471 | [144471-fishdom-depths-of-time.json](./144471-fishdom-depths-of-time.json) |
