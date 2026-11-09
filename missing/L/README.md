@@ -2938,6 +2938,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Amberland: The Forgotten Crown | 109543 | [109543-legends-of-amberland-the-forgotten-crown.json](./109543-legends-of-amberland-the-forgotten-crown.json) |
 | Legends of Andor | 174250 | [174250-legends-of-andor.json](./174250-legends-of-andor.json) |
 | Legends of Andor: The King's Secret | 114540 | [114540-legends-of-andor-the-kings-secret.json](./114540-legends-of-andor-the-kings-secret.json) |
+| Legends of Aria | 56036 | [56036-legends-of-aria.json](./56036-legends-of-aria.json) |
 | Legends of Aria Eternal | 361910 | [361910-legends-of-aria-eternal.json](./361910-legends-of-aria-eternal.json) |
 | Legends of Aria: Citizen's Pass | 170801 | [170801-legends-of-aria-citizens-pass.json](./170801-legends-of-aria-citizens-pass.json) |
 | Legends of Aria: Classic | 298244 | [298244-legends-of-aria-classic.json](./298244-legends-of-aria-classic.json) |
