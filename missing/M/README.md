@@ -1793,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magna Driver | 181759 | [181759-magna-driver.json](./181759-magna-driver.json) |
 | Magna Fortuna | 171590 | [171590-magna-fortuna.json](./171590-magna-fortuna.json) |
 | Magna Fortuna: The Gargantuan Fate and a Girl of Eternity | 82638 | [82638-magna-fortuna-the-gargantuan-fate-and-a-girl-of-eternity.json](./82638-magna-fortuna-the-gargantuan-fate-and-a-girl-of-eternity.json) |
+| Magna Memoria | 58928 | [58928-magna-memoria.json](./58928-magna-memoria.json) |
 | Magna Mundi | 65047 | [65047-magna-mundi.json](./65047-magna-mundi.json) |
 | Magna Regna | 211926 | [211926-magna-regna.json](./211926-magna-regna.json) |
 | MagnaCarta 2 | 7061 | [7061-magnacarta-2.json](./7061-magnacarta-2.json) |
@@ -3627,6 +3628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marcella Moon: Secret on the Hill | 172088 | [172088-marcella-moon-secret-on-the-hill.json](./172088-marcella-moon-secret-on-the-hill.json) |
 | Marcella Moon: The Phantom of Harvest Grove | 373762 | [373762-marcella-moon-the-phantom-of-harvest-grove.json](./373762-marcella-moon-the-phantom-of-harvest-grove.json) |
 | March Forward | 123936 | [123936-march-forward.json](./123936-march-forward.json) |
+| March of Empires | 58926 | [58926-march-of-empires.json](./58926-march-of-empires.json) |
 | March of Empires: War of Lords | 181988 | [181988-march-of-empires-war-of-lords.json](./181988-march-of-empires-war-of-lords.json) |
 | March of Giants | 363900 | [363900-march-of-giants.json](./363900-march-of-giants.json) |
 | March of History | 116432 | [116432-march-of-history.json](./116432-march-of-history.json) |
@@ -4195,6 +4197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Party-e: Free Challenge - Mario's Mallet | 351407 | [351407-mario-party-e-free-challenge-marios-mallet.json](./351407-mario-party-e-free-challenge-marios-mallet.json) |
 | Mario Party-e: Wonder Challenge - Lakitu's Luck | 351408 | [351408-mario-party-e-wonder-challenge-lakitus-luck.json](./351408-mario-party-e-wonder-challenge-lakitus-luck.json) |
 | Mario Party-e: Wonder Challenge - Spinister Bowser | 351409 | [351409-mario-party-e-wonder-challenge-spinister-bowser.json](./351409-mario-party-e-wonder-challenge-spinister-bowser.json) |
+| Mario Party: Fushigi no Challenge World | 58941 | [58941-mario-party-fushigi-no-challenge-world.json](./58941-mario-party-fushigi-no-challenge-world.json) |
 | Mario Party: Fushigi no Koro-koro Catcher | 77829 | [77829-mario-party-fushigi-no-koro-koro-catcher.json](./77829-mario-party-fushigi-no-koro-koro-catcher.json) |
 | Mario Party: Fushigi no Koro-koro Catcher 2 | 132044 | [132044-mario-party-fushigi-no-koro-koro-catcher-2.json](./132044-mario-party-fushigi-no-koro-koro-catcher-2.json) |
 | Mario Party: Love Land | 294763 | [294763-mario-party-love-land.json](./294763-mario-party-love-land.json) |
@@ -6156,6 +6159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -10461,6 +10465,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metro Mini Market Simulator | 365228 | [365228-metro-mini-market-simulator.json](./365228-metro-mini-market-simulator.json) |
 | Metro Mover | 208556 | [208556-metro-mover.json](./208556-metro-mover.json) |
 | Metro MP | 212211 | [212211-metro-mp.json](./212211-metro-mp.json) |
+| Metro Nexus | 58399 | [58399-metro-nexus.json](./58399-metro-nexus.json) |
 | Metro PD: Close to You | 238426 | [238426-metro-pd-close-to-you.json](./238426-metro-pd-close-to-you.json) |
 | Metro Penguin Eutopia | 269977 | [269977-metro-penguin-eutopia.json](./269977-metro-penguin-eutopia.json) |
 | Metro Pocket | 252307 | [252307-metro-pocket.json](./252307-metro-pocket.json) |
