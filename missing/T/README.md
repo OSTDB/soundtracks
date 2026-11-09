@@ -11429,6 +11429,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Idolmaster: SideM | 56386 | [56386-the-idolmaster-sidem.json](./56386-the-idolmaster-sidem.json) |
 | The Idolmaster: SideM - Growing Stars | 175617 | [175617-the-idolmaster-sidem-growing-stars.json](./175617-the-idolmaster-sidem-growing-stars.json) |
 | The Idolmaster: SideM - Live on Stage! | 54983 | [54983-the-idolmaster-sidem-live-on-stage.json](./54983-the-idolmaster-sidem-live-on-stage.json) |
+| The Idolmaster: SP - Missing Moon | 38440 | [38440-the-idolmaster-sp-missing-moon.json](./38440-the-idolmaster-sp-missing-moon.json) |
+| The Idolmaster: SP - Perfect Sun | 38441 | [38441-the-idolmaster-sp-perfect-sun.json](./38441-the-idolmaster-sp-perfect-sun.json) |
+| The Idolmaster: SP - Wandering Star | 38439 | [38439-the-idolmaster-sp-wandering-star.json](./38439-the-idolmaster-sp-wandering-star.json) |
 | The Idolmaster: Starlit Season | 128726 | [128726-the-idolmaster-starlit-season.json](./128726-the-idolmaster-starlit-season.json) |
 | The Idolmaster: Starlit Season - Starlight Box | 146012 | [146012-the-idolmaster-starlit-season-starlight-box.json](./146012-the-idolmaster-starlit-season-starlight-box.json) |
 | The Idolmaster: Stella Stage | 68288 | [68288-the-idolmaster-stella-stage.json](./68288-the-idolmaster-stella-stage.json) |
@@ -32950,6 +32953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | True Galactic Mission | 381669 | [381669-true-galactic-mission.json](./381669-true-galactic-mission.json) |
 | True Game | 148308 | [148308-true-game.json](./148308-true-game.json) |
 | True Golf Classics: Pebble Beach Golf Links | 4533 | [4533-true-golf-classics-pebble-beach-golf-links.json](./4533-true-golf-classics-pebble-beach-golf-links.json) |
+| True Golf Classics: Wicked 18 | 38401 | [38401-true-golf-classics-wicked-18.json](./38401-true-golf-classics-wicked-18.json) |
 | True Hate | 149239 | [149239-true-hate.json](./149239-true-hate.json) |
 | True Hentai Puzzle | 163568 | [163568-true-hentai-puzzle.json](./163568-true-hentai-puzzle.json) |
 | True Hentai Puzzle: 666 | 163569 | [163569-true-hentai-puzzle-666.json](./163569-true-hentai-puzzle-666.json) |
