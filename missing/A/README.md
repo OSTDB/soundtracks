@@ -1829,6 +1829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aaero: Complete Edition | 113196 | [113196-aaero-complete-edition.json](./113196-aaero-complete-edition.json) |
 | Aaero2 | 304670 | [304670-aaero2.json](./304670-aaero2.json) |
 | Aaero2: Black Razor Edition | 380587 | [380587-aaero2-black-razor-edition.json](./380587-aaero2-black-razor-edition.json) |
+| Aah Impossible Rescue | 66256 | [66256-aah-impossible-rescue.json](./66256-aah-impossible-rescue.json) |
 | Aah Little Atlantis | 91911 | [91911-aah-little-atlantis.json](./91911-aah-little-atlantis.json) |
 | Aah, Halloween pie! | 125723 | [125723-aah-halloween-pie.json](./125723-aah-halloween-pie.json) |
 | Aakihiko Aruberutasu Adisony Apurinsu Azumeragi | 377418 | [377418-aakihiko-aruberutasu-adisony-apurinsu-azumeragi.json](./377418-aakihiko-aruberutasu-adisony-apurinsu-azumeragi.json) |
@@ -13620,6 +13621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ArcheWorld | 217002 | [217002-archeworld.json](./217002-archeworld.json) |
 | Archgate: Pride & Accomplishment | 142106 | [142106-archgate-pride-and-accomplishment.json](./142106-archgate-pride-and-accomplishment.json) |
 | Archi-Tek | 262551 | [262551-archi-tek.json](./262551-archi-tek.json) |
+| Archibald & Remus: Minor Lords | 65697 | [65697-archibald-and-remus-minor-lords.json](./65697-archibald-and-remus-minor-lords.json) |
 | Archibald 2 | 116985 | [116985-archibald-2.json](./116985-archibald-2.json) |
 | Archibald Applebrook's Abenteuer | 112058 | [112058-archibald-applebrooks-abenteuer.json](./112058-archibald-applebrooks-abenteuer.json) |
 | Archibald's Adventures | 33046 | [33046-archibalds-adventures.json](./33046-archibalds-adventures.json) |
@@ -17229,7 +17231,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
