@@ -4985,6 +4985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Who Wants to Be a Millionaire: New Edition | 178767 | [178767-who-wants-to-be-a-millionaire-new-edition.json](./178767-who-wants-to-be-a-millionaire-new-edition.json) |
 | Who Wants to Be a Millionaire: Party Edition | 44631 | [44631-who-wants-to-be-a-millionaire-party-edition.json](./44631-who-wants-to-be-a-millionaire-party-edition.json) |
 | Who Wants to Be a Millionaire: Special Editions | 94127 | [94127-who-wants-to-be-a-millionaire-special-editions.json](./94127-who-wants-to-be-a-millionaire-special-editions.json) |
+| Who Wants to Be a Millionaire: Sports Edition | 51331 | [51331-who-wants-to-be-a-millionaire-sports-edition.json](./51331-who-wants-to-be-a-millionaire-sports-edition.json) |
 | Who Wants to Be A Millionaire: The Smurfs DLC Pack | 293389 | [293389-who-wants-to-be-a-millionaire-the-smurfs-dlc-pack.json](./293389-who-wants-to-be-a-millionaire-the-smurfs-dlc-pack.json) |
 | Who Wants to Be a Millionaire: US Movies 70s DLC Pack | 293390 | [293390-who-wants-to-be-a-millionaire-us-movies-70s-dlc-pack.json](./293390-who-wants-to-be-a-millionaire-us-movies-70s-dlc-pack.json) |
 | Who Wants to Be a Millionaire: US Movies 80s | 282214 | [282214-who-wants-to-be-a-millionaire-us-movies-80s.json](./282214-who-wants-to-be-a-millionaire-us-movies-80s.json) |
