@@ -68,6 +68,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .Hack//G.U. Vol. 4: Reconnection | 140841 | [140841-hack-g-u-vol-4-reconnection.json](./140841-hack-g-u-vol-4-reconnection.json) |
 | .hack//Gift+Vol.1~4 | 382790 | [382790-hack-gift-vol-1-4.json](./382790-hack-gift-vol-1-4.json) |
 | .Hack//Infection | 11807 | [11807-hack-infection.json](./11807-hack-infection.json) |
+| .hack//Link | 69401 | [69401-hack-link.json](./69401-hack-link.json) |
 | .Hack//Mutation | 11808 | [11808-hack-mutation.json](./11808-hack-mutation.json) |
 | .Hack//Outbreak | 11809 | [11809-hack-outbreak.json](./11809-hack-outbreak.json) |
 | .Hack//Quarantine | 11810 | [11810-hack-quarantine.json](./11810-hack-quarantine.json) |
@@ -3558,6 +3559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 9 Clues: The Secret of Serpent Creek | 17143 | [17143-9-clues-the-secret-of-serpent-creek.json](./17143-9-clues-the-secret-of-serpent-creek.json) |
 | 9 Days | 319921 | [319921-9-days.json](./319921-9-days.json) |
 | 9 Dystricts | 301036 | [301036-9-dystricts.json](./301036-9-dystricts.json) |
+| 9 Elefants | 68999 | [68999-9-elefants.json](./68999-9-elefants.json) |
 | 9 Elements | 257474 | [257474-9-elements.json](./257474-9-elements.json) |
 | 9 Empires | 27735 | [27735-9-empires.json](./27735-9-empires.json) |
 | 9 Games, 2 Buttons | 337784 | [337784-9-games-2-buttons.json](./337784-9-games-2-buttons.json) |
