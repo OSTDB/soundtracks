@@ -3067,6 +3067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legion | 94810 | [94810-legion.json](./94810-legion.json) |
 | Legion Arena | 125179 | [125179-legion-arena.json](./125179-legion-arena.json) |
 | Legion Breaker | 404002 | [404002-legion-breaker.json](./404002-legion-breaker.json) |
+| Legion Commander | 52044 | [52044-legion-commander.json](./52044-legion-commander.json) |
 | Legion Defense | 327633 | [327633-legion-defense.json](./327633-legion-defense.json) |
 | Legion Draft | 395867 | [395867-legion-draft.json](./395867-legion-draft.json) |
 | Legion Fall | 184847 | [184847-legion-fall.json](./184847-legion-fall.json) |
@@ -6112,6 +6113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Earth | 55334 | [55334-little-earth.json](./55334-little-earth.json) |
 | Little Eden | 260208 | [260208-little-eden.json](./260208-little-eden.json) |
 | Little Eidolons | 290296 | [290296-little-eidolons.json](./290296-little-eidolons.json) |
+| Little Einar | 52065 | [52065-little-einar.json](./52065-little-einar.json) |
 | Little Einsteins | 231500 | [231500-little-einsteins.json](./231500-little-einsteins.json) |
 | Little Elf Tanks | 244563 | [244563-little-elf-tanks.json](./244563-little-elf-tanks.json) |
 | Little Fairy Dress Up | 332496 | [332496-little-fairy-dress-up.json](./332496-little-fairy-dress-up.json) |
