@@ -9697,6 +9697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Luke: Nitroglycerine | 240272 | [240272-lucky-luke-nitroglycerine.json](./240272-lucky-luke-nitroglycerine.json) |
 | Lucky Luke: Nitroglycerine | 54593 | [54593-lucky-luke-nitroglycerine.json](./54593-lucky-luke-nitroglycerine.json) |
 | Lucky Luke: On the Dalton's Trail | 44968 | [44968-lucky-luke-on-the-daltons-trail.json](./44968-lucky-luke-on-the-daltons-trail.json) |
+| Lucky Luke: The Video Game | 46695 | [46695-lucky-luke-the-video-game.json](./46695-lucky-luke-the-video-game.json) |
 | Lucky Luke: Wanted! | 49331 | [49331-lucky-luke-wanted.json](./49331-lucky-luke-wanted.json) |
 | Lucky Luke: Western Fever | 43886 | [43886-lucky-luke-western-fever.json](./43886-lucky-luke-western-fever.json) |
 | Lucky Luna | 204452 | [204452-lucky-luna.json](./204452-lucky-luna.json) |
