@@ -411,6 +411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultima VIII: Gold Edition | 102056 | [102056-ultima-viii-gold-edition.json](./102056-ultima-viii-gold-edition.json) |
 | Ultima VIII: Pagan | 2520 | [2520-ultima-viii-pagan.json](./2520-ultima-viii-pagan.json) |
 | Ultima Worlds Online: Origin | 72756 | [72756-ultima-worlds-online-origin.json](./72756-ultima-worlds-online-origin.json) |
+| Ultima X: Odyssey | 61761 | [61761-ultima-x-odyssey.json](./61761-ultima-x-odyssey.json) |
 | Ultima: Escape from Mt. Drash | 24951 | [24951-ultima-escape-from-mt-drash.json](./24951-ultima-escape-from-mt-drash.json) |
 | Ultima: Exodus | 48049 | [48049-ultima-exodus.json](./48049-ultima-exodus.json) |
 | Ultima: Exodus Remastered | 214995 | [214995-ultima-exodus-remastered.json](./214995-ultima-exodus-remastered.json) |
