@@ -2523,6 +2523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geargrid Tile Match | 363639 | [363639-geargrid-tile-match.json](./363639-geargrid-tile-match.json) |
 | GearGrit | 292410 | [292410-geargrit.json](./292410-geargrit.json) |
 | Gearguns: Tank Offensive | 31375 | [31375-gearguns-tank-offensive.json](./31375-gearguns-tank-offensive.json) |
+| GearHead | 57789 | [57789-gearhead.json](./57789-gearhead.json) |
 | GearHead 2 | 183288 | [183288-gearhead-2.json](./183288-gearhead-2.json) |
 | GearHead Caramel | 176061 | [176061-gearhead-caramel.json](./176061-gearhead-caramel.json) |
 | Gearhead Garage | 73965 | [73965-gearhead-garage.json](./73965-gearhead-garage.json) |
@@ -5497,6 +5498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gnah! | 61507 | [61507-gnah.json](./61507-gnah.json) |
 | Gnarbike Trials 2 | 284489 | [284489-gnarbike-trials-2.json](./284489-gnarbike-trials-2.json) |
 | Gnarled Hag | 138629 | [138629-gnarled-hag.json](./138629-gnarled-hag.json) |
+| Gnarltoof's Revenge | 57764 | [57764-gnarltoofs-revenge.json](./57764-gnarltoofs-revenge.json) |
 | Gnarly Hike | 274362 | [274362-gnarly-hike.json](./274362-gnarly-hike.json) |
 | Gnaughty Gnomes | 346030 | [346030-gnaughty-gnomes.json](./346030-gnaughty-gnomes.json) |
 | Gnaw | 372037 | [372037-gnaw.json](./372037-gnaw.json) |
