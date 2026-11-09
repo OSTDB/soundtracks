@@ -1654,6 +1654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gamma Protocol | 285592 | [285592-gamma-protocol.json](./285592-gamma-protocol.json) |
 | Gamma Space | 193082 | [193082-gamma-space.json](./193082-gamma-space.json) |
 | Gamma Strain | 322623 | [322623-gamma-strain.json](./322623-gamma-strain.json) |
+| Gamma Wing | 72236 | [72236-gamma-wing.json](./72236-gamma-wing.json) |
 | Gamma World: Alpha Mutation | 51648 | [51648-gamma-world-alpha-mutation.json](./51648-gamma-world-alpha-mutation.json) |
 | Gamma Zero | 332923 | [332923-gamma-zero.json](./332923-gamma-zero.json) |
 | Gamma-Attack | 40667 | [40667-gamma-attack.json](./40667-gamma-attack.json) |
@@ -1901,6 +1902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Galaxy | 199279 | [199279-garden-galaxy.json](./199279-garden-galaxy.json) |
 | Garden Gingdom | 386993 | [386993-garden-gingdom.json](./386993-garden-gingdom.json) |
 | Garden Gnome Beatmaker | 380199 | [380199-garden-gnome-beatmaker.json](./380199-garden-gnome-beatmaker.json) |
+| Garden Gnome Carnage | 72388 | [72388-garden-gnome-carnage.json](./72388-garden-gnome-carnage.json) |
 | Garden Golf | 64736 | [64736-garden-golf.json](./64736-garden-golf.json) |
 | Garden Gray The | 212572 | [212572-garden-gray-the.json](./212572-garden-gray-the.json) |
 | Garden Grower | 25553 | [25553-garden-grower.json](./25553-garden-grower.json) |
@@ -3725,6 +3727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Getting Vivisected! (ASMR) | 401254 | [401254-getting-vivisected-asmr.json](./401254-getting-vivisected-asmr.json) |
 | Gettysburg | 14895 | [14895-gettysburg.json](./14895-gettysburg.json) |
 | Gettysburg: Armored Warfare | 10360 | [10360-gettysburg-armored-warfare.json](./10360-gettysburg-armored-warfare.json) |
+| Gettysburg: Civil War Battles | 72246 | [72246-gettysburg-civil-war-battles.json](./72246-gettysburg-civil-war-battles.json) |
 | Gettysburg: Fields of Valor | 190095 | [190095-gettysburg-fields-of-valor.json](./190095-gettysburg-fields-of-valor.json) |
 | Gettysburg: the Tide Turns | 51445 | [51445-gettysburg-the-tide-turns.json](./51445-gettysburg-the-tide-turns.json) |
 | Gettysburg: The Turning Point | 26396 | [26396-gettysburg-the-turning-point.json](./26396-gettysburg-the-turning-point.json) |
@@ -8978,6 +8981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Battles: Battle of Tobruk | 11109 | [11109-great-battles-battle-of-tobruk.json](./11109-great-battles-battle-of-tobruk.json) |
 | Great Big War Game | 16399 | [16399-great-big-war-game.json](./16399-great-big-war-game.json) |
 | Great Bishi Bashi Champ | 321128 | [321128-great-bishi-bashi-champ.json](./321128-great-bishi-bashi-champ.json) |
+| Great Britain Limited | 72235 | [72235-great-britain-limited.json](./72235-great-britain-limited.json) |
 | Great British Railway Journeys | 131761 | [131761-great-british-railway-journeys.json](./131761-great-british-railway-journeys.json) |
 | Great Cause of the Three Kingdoms | 81074 | [81074-great-cause-of-the-three-kingdoms.json](./81074-great-cause-of-the-three-kingdoms.json) |
 | Great Clips 500 | 85935 | [85935-great-clips-500.json](./85935-great-clips-500.json) |
