@@ -2377,6 +2377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ravensdale | 47424 | [47424-ravensdale.json](./47424-ravensdale.json) |
 | Ravensgard Arena | 110454 | [110454-ravensgard-arena.json](./110454-ravensgard-arena.json) |
 | Ravenshade Asylum | 411825 | [411825-ravenshade-asylum.json](./411825-ravenshade-asylum.json) |
+| Ravenskull | 5874 | [5874-ravenskull.json](./5874-ravenskull.json) |
 | RavenStar | 404613 | [404613-ravenstar.json](./404613-ravenstar.json) |
 | Ravensthorn | 316730 | [316730-ravensthorn.json](./316730-ravensthorn.json) |
 | Ravenswatch: Legendary Edition | 331840 | [331840-ravenswatch-legendary-edition.json](./331840-ravenswatch-legendary-edition.json) |
