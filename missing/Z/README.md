@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zaraq | 319054 | [319054-zaraq.json](./319054-zaraq.json) |
 | Zarathrusta | 28514 | [28514-zarathrusta.json](./28514-zarathrusta.json) |
 | Zarathustra: Cybergeddon | 276096 | [276096-zarathustra-cybergeddon.json](./276096-zarathustra-cybergeddon.json) |
+| Zarch | 37222 | [37222-zarch.json](./37222-zarch.json) |
 | Zardoz | 106301 | [106301-zardoz.json](./106301-zardoz.json) |
 | Zardy's Maze | 139234 | [139234-zardys-maze.json](./139234-zardys-maze.json) |
 | Zargog | 356638 | [356638-zargog.json](./356638-zargog.json) |
