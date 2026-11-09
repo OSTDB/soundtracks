@@ -360,6 +360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Back & Forth 2 | 263586 | [263586-back-and-forth-2.json](./263586-back-and-forth-2.json) |
 | Back 2 School | 192417 | [192417-back-2-school.json](./192417-back-2-school.json) |
 | Back 3: Spooky | 359535 | [359535-back-3-spooky.json](./359535-back-3-spooky.json) |
+| Back 4 Blood | 116200 | [116200-back-4-blood.json](./116200-back-4-blood.json) |
 | Back 4 Blood: Annual Pass | 293917 | [293917-back-4-blood-annual-pass.json](./293917-back-4-blood-annual-pass.json) |
 | Back 4 Blood: Children of the Worm | 215136 | [215136-back-4-blood-children-of-the-worm.json](./215136-back-4-blood-children-of-the-worm.json) |
 | Back 4 Blood: Day One Steelbook Edition | 252174 | [252174-back-4-blood-day-one-steelbook-edition.json](./252174-back-4-blood-day-one-steelbook-edition.json) |
@@ -17145,6 +17146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble | 194442 | [194442-bubble-bobble.json](./194442-bubble-bobble.json) |
 | Bubble Bobble | 194443 | [194443-bubble-bobble.json](./194443-bubble-bobble.json) |
 | Bubble Bobble | 194444 | [194444-bubble-bobble.json](./194444-bubble-bobble.json) |
+| Bubble Bobble | 2630 | [2630-bubble-bobble.json](./2630-bubble-bobble.json) |
 | Bubble Bobble | 306222 | [306222-bubble-bobble.json](./306222-bubble-bobble.json) |
 | Bubble Bobble | 313543 | [313543-bubble-bobble.json](./313543-bubble-bobble.json) |
 | Bubble Bobble | 332202 | [332202-bubble-bobble.json](./332202-bubble-bobble.json) |
