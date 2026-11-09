@@ -8536,6 +8536,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shikigami No Shiro Evolution | 281464 | [281464-shikigami-no-shiro-evolution.json](./281464-shikigami-no-shiro-evolution.json) |
 | Shikigami no Shiro EX & II Pack | 64332 | [64332-shikigami-no-shiro-ex-and-ii-pack.json](./64332-shikigami-no-shiro-ex-and-ii-pack.json) |
 | Shikinjoh | 231545 | [231545-shikinjoh.json](./231545-shikinjoh.json) |
+| Shikinjoh | 46308 | [46308-shikinjoh.json](./46308-shikinjoh.json) |
 | Shikinjou | 231346 | [231346-shikinjou.json](./231346-shikinjou.json) |
 | Shikinjou | 267756 | [267756-shikinjou.json](./267756-shikinjou.json) |
 | Shikisai Kankaku Test Art na Kyouyou Nou-tre Joushiki IQ Check | 254927 | [254927-shikisai-kankaku-test-art-na-kyouyou-nou-tre-joushiki-iq-check.json](./254927-shikisai-kankaku-test-art-na-kyouyou-nou-tre-joushiki-iq-check.json) |
@@ -8811,6 +8812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Force Cross Raid | 62091 | [62091-shining-force-cross-raid.json](./62091-shining-force-cross-raid.json) |
 | Shining Force EXA | 19254 | [19254-shining-force-exa.json](./19254-shining-force-exa.json) |
 | Shining Force Feather | 47720 | [47720-shining-force-feather.json](./47720-shining-force-feather.json) |
+| Shining Force Gaiden: Ensei - Jashin no Kuni he | 46307 | [46307-shining-force-gaiden-ensei-jashin-no-kuni-he.json](./46307-shining-force-gaiden-ensei-jashin-no-kuni-he.json) |
 | Shining Force III | 28396 | [28396-shining-force-iii.json](./28396-shining-force-iii.json) |
 | Shining Force III Scenario 3 | 79706 | [79706-shining-force-iii-scenario-3.json](./79706-shining-force-iii-scenario-3.json) |
 | Shining Force III: 2nd Scenario | 46062 | [46062-shining-force-iii-2nd-scenario.json](./46062-shining-force-iii-2nd-scenario.json) |
@@ -19585,6 +19587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sound Garden | 243684 | [243684-sound-garden.json](./243684-sound-garden.json) |
 | Sound Hidden Forest | 212106 | [212106-sound-hidden-forest.json](./212106-sound-hidden-forest.json) |
 | Sound Horizons | 304882 | [304882-sound-horizons.json](./304882-sound-horizons.json) |
+| Sound It Out Land | 46707 | [46707-sound-it-out-land.json](./46707-sound-it-out-land.json) |
 | Sound Lock | 261785 | [261785-sound-lock.json](./261785-sound-lock.json) |
 | Sound Mind | 275662 | [275662-sound-mind.json](./275662-sound-mind.json) |
 | Sound Novel Evolution 1: Otogirisou Sosei-Hen | 194817 | [194817-sound-novel-evolution-1-otogirisou-sosei-hen.json](./194817-sound-novel-evolution-1-otogirisou-sosei-hen.json) |
@@ -29247,6 +29250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Heat | 40434 | [40434-street-heat.json](./40434-street-heat.json) |
 | Street Hero | 150950 | [150950-street-hero.json](./150950-street-hero.json) |
 | Street Hero | 288129 | [288129-street-hero.json](./288129-street-hero.json) |
+| Street Hero | 46300 | [46300-street-hero.json](./46300-street-hero.json) |
 | Street Heroes | 107814 | [107814-street-heroes.json](./107814-street-heroes.json) |
 | Street Heroes | 48567 | [48567-street-heroes.json](./48567-street-heroes.json) |
 | Street Hoop | 46820 | [46820-street-hoop.json](./46820-street-hoop.json) |
