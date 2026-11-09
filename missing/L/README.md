@@ -489,6 +489,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lady Killer | 40338 | [40338-lady-killer.json](./40338-lady-killer.json) |
 | Lady Killers | 321287 | [321287-lady-killers.json](./321287-lady-killers.json) |
 | Lady Knight Quest | 341095 | [341095-lady-knight-quest.json](./341095-lady-knight-quest.json) |
+| Lady Luck 750 Plus Slots Jackpot Gold | 70487 | [70487-lady-luck-750-plus-slots-jackpot-gold.json](./70487-lady-luck-750-plus-slots-jackpot-gold.json) |
 | Lady Mabel Mysteries: Death on Board | 416535 | [416535-lady-mabel-mysteries-death-on-board.json](./416535-lady-mabel-mysteries-death-on-board.json) |
 | Lady Mabel Mysteries: Death on Board - Collector’s Edition | 383759 | [383759-lady-mabel-mysteries-death-on-board-collector-s-edition.json](./383759-lady-mabel-mysteries-death-on-board-collector-s-edition.json) |
 | Lady Master of Kung Fu | 39343 | [39343-lady-master-of-kung-fu.json](./39343-lady-master-of-kung-fu.json) |
@@ -770,6 +771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Screens | 137110 | [137110-land-of-screens.json](./137110-land-of-screens.json) |
 | Land of Tales | 244736 | [244736-land-of-tales.json](./244736-land-of-tales.json) |
 | Land of the Dead Trees | 389490 | [389490-land-of-the-dead-trees.json](./389490-land-of-the-dead-trees.json) |
+| Land of the Dead: Day of Reckoning | 70014 | [70014-land-of-the-dead-day-of-reckoning.json](./70014-land-of-the-dead-day-of-reckoning.json) |
 | Land of the Dead: Road to Fiddler's Green | 5900 | [5900-land-of-the-dead-road-to-fiddlers-green.json](./5900-land-of-the-dead-road-to-fiddlers-green.json) |
 | Land of the Druids | 379843 | [379843-land-of-the-druids.json](./379843-land-of-the-druids.json) |
 | Land of the Lost: Crystal Adventure | 68042 | [68042-land-of-the-lost-crystal-adventure.json](./68042-land-of-the-lost-crystal-adventure.json) |
@@ -8082,6 +8084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Los Angeles SWAT | 13012 | [13012-los-angeles-swat.json](./13012-los-angeles-swat.json) |
 | Los Cops | 154152 | [154152-los-cops.json](./154152-los-cops.json) |
 | Los Disneys 2.0 | 414433 | [414433-los-disneys-2-0.json](./414433-los-disneys-2-0.json) |
+| Los Inhumanos | 70137 | [70137-los-inhumanos.json](./70137-los-inhumanos.json) |
 | Los Justicieros (Zorton Brothers) | 119398 | [119398-los-justicieros-zorton-brothers.json](./119398-los-justicieros-zorton-brothers.json) |
 | Los Lunnis | 269610 | [269610-los-lunnis.json](./269610-los-lunnis.json) |
 | Los Páramos | 236107 | [236107-los-paramos.json](./236107-los-paramos.json) |
