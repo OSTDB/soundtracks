@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Want Your Heart | 284248 | [284248-i-want-your-heart.json](./284248-i-want-your-heart.json) |
 | I was a Cannibal for the FBI | 71526 | [71526-i-was-a-cannibal-for-the-fbi.json](./71526-i-was-a-cannibal-for-the-fbi.json) |
 | I Was a Soft-boy on Tiktok... | 240088 | [240088-i-was-a-soft-boy-on-tiktok.json](./240088-i-was-a-soft-boy-on-tiktok.json) |
+| I Was a Teenage Exocolonist | 146054 | [146054-i-was-a-teenage-exocolonist.json](./146054-i-was-a-teenage-exocolonist.json) |
 | I Was Always Filled With Anger | 139266 | [139266-i-was-always-filled-with-anger.json](./139266-i-was-always-filled-with-anger.json) |
 | I Was An Atomic Mutant! | 24084 | [24084-i-was-an-atomic-mutant.json](./24084-i-was-an-atomic-mutant.json) |
 | I Was Dead, But… | 243139 | [243139-i-was-dead-but.json](./243139-i-was-dead-but.json) |
@@ -6773,6 +6774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Israel vs. Iran: Iron Dome | 377080 | [377080-israel-vs-iran-iron-dome.json](./377080-israel-vs-iran-iron-dome.json) |
 | ISS Advance | 22224 | [22224-iss-advance.json](./22224-iss-advance.json) |
 | ISS Pro Evolution | 28403 | [28403-iss-pro-evolution.json](./28403-iss-pro-evolution.json) |
+| ISS Pro Evolution 2 | 18681 | [18681-iss-pro-evolution-2.json](./18681-iss-pro-evolution-2.json) |
 | ISS Simulator | 326411 | [326411-iss-simulator.json](./326411-iss-simulator.json) |
 | ISS: International Superstar Soccer | 136303 | [136303-iss-international-superstar-soccer.json](./136303-iss-international-superstar-soccer.json) |
 | ISS: International Superstar Soccer | 220859 | [220859-iss-international-superstar-soccer.json](./220859-iss-international-superstar-soccer.json) |
