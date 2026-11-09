@@ -6364,6 +6364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Picross | 311698 | [311698-picross.json](./311698-picross.json) |
 | PiCross | 228399 | [228399-picross.json](./228399-picross.json) |
 | Picross 2 | 49080 | [49080-picross-2.json](./49080-picross-2.json) |
+| Picross 3D | 10631 | [10631-picross-3d.json](./10631-picross-3d.json) |
 | Picross 3D: Round 2 | 26176 | [26176-picross-3d-round-2.json](./26176-picross-3d-round-2.json) |
 | Picross Advance | 195490 | [195490-picross-advance.json](./195490-picross-advance.json) |
 | Picross Beach Paradise | 149361 | [149361-picross-beach-paradise.json](./149361-picross-beach-paradise.json) |
@@ -9027,6 +9028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelines Lillebror: Buler I Bolledejen | 285817 | [285817-pixelines-lillebror-buler-i-bolledejen.json](./285817-pixelines-lillebror-buler-i-bolledejen.json) |
 | Pixelite | 308558 | [308558-pixelite.json](./308558-pixelite.json) |
 | Pixelitos: Spritle Royale | 303979 | [303979-pixelitos-spritle-royale.json](./303979-pixelitos-spritle-royale.json) |
+| PixelJunk Eden | 10700 | [10700-pixeljunk-eden.json](./10700-pixeljunk-eden.json) |
 | PixelJunk Eden 2 | 131872 | [131872-pixeljunk-eden-2.json](./131872-pixeljunk-eden-2.json) |
 | PixelJunk Eden Encore | 140012 | [140012-pixeljunk-eden-encore.json](./140012-pixeljunk-eden-encore.json) |
 | PixelJunk Eden Obscura | 140013 | [140013-pixeljunk-eden-obscura.json](./140013-pixeljunk-eden-obscura.json) |
@@ -14347,6 +14349,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PraeBot | 115168 | [115168-praebot.json](./115168-praebot.json) |
 | Praecantor Lila: Bell Spell | 192655 | [192655-praecantor-lila-bell-spell.json](./192655-praecantor-lila-bell-spell.json) |
 | Praesidium | 145758 | [145758-praesidium.json](./145758-praesidium.json) |
+| Praetorians | 9058 | [9058-praetorians.json](./9058-praetorians.json) |
 | Praetorians HD Remaster | 119382 | [119382-praetorians-hd-remaster.json](./119382-praetorians-hd-remaster.json) |
 | Praey for the Gods | 14378 | [14378-praey-for-the-gods.json](./14378-praey-for-the-gods.json) |
 | Pragma | 178245 | [178245-pragma.json](./178245-pragma.json) |
