@@ -7915,6 +7915,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wordeous | 141694 | [141694-wordeous.json](./141694-wordeous.json) |
 | Worder | 116852 | [116852-worder.json](./116852-worder.json) |
 | WordFall | 186666 | [186666-wordfall.json](./186666-wordfall.json) |
+| Wordfeud | 65636 | [65636-wordfeud.json](./65636-wordfeud.json) |
 | Wordfish | 178304 | [178304-wordfish.json](./178304-wordfish.json) |
 | Wordfright | 334479 | [334479-wordfright.json](./334479-wordfright.json) |
 | WordFu | 92336 | [92336-wordfu.json](./92336-wordfu.json) |
@@ -9362,6 +9363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestling Empire | 142449 | [142449-wrestling-empire.json](./142449-wrestling-empire.json) |
 | Wrestling Empire Forever | 270163 | [270163-wrestling-empire-forever.json](./270163-wrestling-empire-forever.json) |
 | Wrestling GM | 145800 | [145800-wrestling-gm.json](./145800-wrestling-gm.json) |
+| Wrestling Manager | 65625 | [65625-wrestling-manager.json](./65625-wrestling-manager.json) |
 | Wrestling Manager 2023 | 226116 | [226116-wrestling-manager-2023.json](./226116-wrestling-manager-2023.json) |
 | Wrestling Mpire 2008 | 79374 | [79374-wrestling-mpire-2008.json](./79374-wrestling-mpire-2008.json) |
 | Wrestling MPire Remix: Career Edition | 186430 | [186430-wrestling-mpire-remix-career-edition.json](./186430-wrestling-mpire-remix-career-edition.json) |
