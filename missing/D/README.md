@@ -1971,6 +1971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Slayer | 297015 | [297015-dark-slayer.json](./297015-dark-slayer.json) |
 | Dark Slayer | 365942 | [365942-dark-slayer.json](./365942-dark-slayer.json) |
 | Dark Slime | 202506 | [202506-dark-slime.json](./202506-dark-slime.json) |
+| Dark Snow | 75365 | [75365-dark-snow.json](./75365-dark-snow.json) |
 | Dark Soil | 101441 | [101441-dark-soil.json](./101441-dark-soil.json) |
 | Dark Solid | 141736 | [141736-dark-solid.json](./141736-dark-solid.json) |
 | Dark Solitaire: Mystical Circus | 161536 | [161536-dark-solitaire-mystical-circus.json](./161536-dark-solitaire-mystical-circus.json) |
@@ -3728,6 +3729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead for Dread | 305958 | [305958-dead-for-dread.json](./305958-dead-for-dread.json) |
 | Dead Force | 299828 | [299828-dead-force.json](./299828-dead-force.json) |
 | Dead Forest | 117324 | [117324-dead-forest.json](./117324-dead-forest.json) |
+| Dead Forest | 75334 | [75334-dead-forest.json](./75334-dead-forest.json) |
 | Dead Format | 340143 | [340143-dead-format.json](./340143-dead-format.json) |
 | Dead Freight | 345683 | [345683-dead-freight.json](./345683-dead-freight.json) |
 | Dead Frequency | 373214 | [373214-dead-frequency.json](./373214-dead-frequency.json) |
@@ -14877,6 +14879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draculesti | 265622 | [265622-draculesti.json](./265622-draculesti.json) |
 | Draeggoria | 392271 | [392271-draeggoria.json](./392271-draeggoria.json) |
 | Draft | 133704 | [133704-draft.json](./133704-draft.json) |
+| Draft Day Sports: College Basketball 2017 | 75338 | [75338-draft-day-sports-college-basketball-2017.json](./75338-draft-day-sports-college-basketball-2017.json) |
 | Draft Day Sports: College Basketball 2018 | 89637 | [89637-draft-day-sports-college-basketball-2018.json](./89637-draft-day-sports-college-basketball-2018.json) |
 | Draft Day Sports: College Basketball 2019 | 114197 | [114197-draft-day-sports-college-basketball-2019.json](./114197-draft-day-sports-college-basketball-2019.json) |
 | Draft Day Sports: College Basketball 2020 | 131764 | [131764-draft-day-sports-college-basketball-2020.json](./131764-draft-day-sports-college-basketball-2020.json) |
