@@ -5334,6 +5334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AI Senshi Neuro-sama | 308188 | [308188-ai-senshi-neuro-sama.json](./308188-ai-senshi-neuro-sama.json) |
 | Ai Senshi Nicol | 41237 | [41237-ai-senshi-nicol.json](./41237-ai-senshi-nicol.json) |
 | Ai Shimai: Docchi ni Suruno!! | 78470 | [78470-ai-shimai-docchi-ni-suruno.json](./78470-ai-shimai-docchi-ni-suruno.json) |
+| AI Shogi | 37225 | [37225-ai-shogi.json](./37225-ai-shogi.json) |
 | AI Shogi | 79478 | [79478-ai-shogi.json](./79478-ai-shogi.json) |
 | AI Shogi 2 | 45445 | [45445-ai-shogi-2.json](./45445-ai-shogi-2.json) |
 | AI Shogi 2003 | 269328 | [269328-ai-shogi-2003.json](./269328-ai-shogi-2003.json) |
