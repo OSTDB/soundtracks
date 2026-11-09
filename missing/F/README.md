@@ -1525,6 +1525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famicom Mini: Takahashi Meijin no Bouken-jima | 170259 | [170259-famicom-mini-takahashi-meijin-no-bouken-jima.json](./170259-famicom-mini-takahashi-meijin-no-bouken-jima.json) |
 | Famicom Mini: TwinBee | 170309 | [170309-famicom-mini-twinbee.json](./170309-famicom-mini-twinbee.json) |
 | Famicom Mini: Wrecking Crew | 170318 | [170318-famicom-mini-wrecking-crew.json](./170318-famicom-mini-wrecking-crew.json) |
+| Famicom Mukashibanashi: Shin Onigashima | 6672 | [6672-famicom-mukashibanashi-shin-onigashima.json](./6672-famicom-mukashibanashi-shin-onigashima.json) |
 | Famicom Mukashibanashi: Shin Onigashima - Kouhen | 41418 | [41418-famicom-mukashibanashi-shin-onigashima-kouhen.json](./41418-famicom-mukashibanashi-shin-onigashima-kouhen.json) |
 | Famicom Mukashibanashi: Shin Onigashima - Zengohen | 85774 | [85774-famicom-mukashibanashi-shin-onigashima-zengohen.json](./85774-famicom-mukashibanashi-shin-onigashima-zengohen.json) |
 | Famicom Mukashibanashi: Shin Onigashima - Zenpen | 41417 | [41417-famicom-mukashibanashi-shin-onigashima-zenpen.json](./41417-famicom-mukashibanashi-shin-onigashima-zenpen.json) |
@@ -1534,8 +1535,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Famicom Shogi: Ryuu-Ou-Sen | 48713 | [48713-famicom-shogi-ryuu-ou-sen.json](./48713-famicom-shogi-ryuu-ou-sen.json) |
 | Famicom Study Box | 48908 | [48908-famicom-study-box.json](./48908-famicom-study-box.json) |
 | Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo | 148062 | [148062-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo.json](./148062-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo.json) |
+| Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo | 6674 | [6674-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo.json](./6674-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo.json) |
 | Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo - Kouhen | 47249 | [47249-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo-kouhen.json](./47249-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo-kouhen.json) |
 | Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo - Zenpen | 41415 | [41415-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo-zenpen.json](./41415-famicom-tantei-club-part-ii-ushiro-ni-tatsu-shoujo-zenpen.json) |
+| Famicom Tantei Club: Kieta Koukeisha | 6673 | [6673-famicom-tantei-club-kieta-koukeisha.json](./6673-famicom-tantei-club-kieta-koukeisha.json) |
 | Famicom Tantei Club: Kieta Koukeisha - Kouhen | 41381 | [41381-famicom-tantei-club-kieta-koukeisha-kouhen.json](./41381-famicom-tantei-club-kieta-koukeisha-kouhen.json) |
 | Famicom Tantei Club: Kieta Koukeisha - Zenpen | 41380 | [41380-famicom-tantei-club-kieta-koukeisha-zenpen.json](./41380-famicom-tantei-club-kieta-koukeisha-zenpen.json) |
 | Famicom Tantei Club: Seinaru Yoru ni | 275263 | [275263-famicom-tantei-club-seinaru-yoru-ni.json](./275263-famicom-tantei-club-seinaru-yoru-ni.json) |
@@ -1627,6 +1630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Feud: 2010 Edition | 324085 | [324085-family-feud-2010-edition.json](./324085-family-feud-2010-edition.json) |
 | Family Feud: 2012 Edition | 6678 | [6678-family-feud-2012-edition.json](./6678-family-feud-2012-edition.json) |
 | Family Feud: Battle of the Sexes | 358962 | [358962-family-feud-battle-of-the-sexes.json](./358962-family-feud-battle-of-the-sexes.json) |
+| Family Feud: Decades | 6679 | [6679-family-feud-decades.json](./6679-family-feud-decades.json) |
 | Family Fitness Challenge | 421396 | [421396-family-fitness-challenge.json](./421396-family-fitness-challenge.json) |
 | Family Fun Football | 50651 | [50651-family-fun-football.json](./50651-family-fun-football.json) |
 | Family Fun Game Collection | 209247 | [209247-family-fun-game-collection.json](./209247-family-fun-game-collection.json) |
@@ -1710,6 +1714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Sport | 346056 | [346056-family-sport.json](./346056-family-sport.json) |
 | Family Sport 41-in-1 | 247001 | [247001-family-sport-41-in-1.json](./247001-family-sport-41-in-1.json) |
 | Family Stadium 2003 | 3913 | [3913-family-stadium-2003.json](./3913-family-stadium-2003.json) |
+| Family Table Tennis | 6681 | [6681-family-table-tennis.json](./6681-family-table-tennis.json) |
 | Family Tales: The Sisters | 356181 | [356181-family-tales-the-sisters.json](./356181-family-tales-the-sisters.json) |
 | Family Tennis | 221210 | [221210-family-tennis.json](./221210-family-tennis.json) |
 | Family Tennis | 239162 | [239162-family-tennis.json](./239162-family-tennis.json) |
