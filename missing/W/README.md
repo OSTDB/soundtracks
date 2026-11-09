@@ -5966,6 +5966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing-Man: Hissatsu Delta End | 385541 | [385541-wing-man-hissatsu-delta-end.json](./385541-wing-man-hissatsu-delta-end.json) |
 | Winged | 307689 | [307689-winged.json](./307689-winged.json) |
 | Winged Gear | 266653 | [266653-winged-gear.json](./266653-winged-gear.json) |
+| Winged Knights: Penetration | 57765 | [57765-winged-knights-penetration.json](./57765-winged-knights-penetration.json) |
 | Winged Raider | 216837 | [216837-winged-raider.json](./216837-winged-raider.json) |
 | Winged Sakura: Endless Dream | 54803 | [54803-winged-sakura-endless-dream.json](./54803-winged-sakura-endless-dream.json) |
 | Winged Sakura: Mindy's Arc 2 | 111049 | [111049-winged-sakura-mindys-arc-2.json](./111049-winged-sakura-mindys-arc-2.json) |
