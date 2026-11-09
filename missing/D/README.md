@@ -4042,6 +4042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Rising 2: Case Zero | 20409 | [20409-dead-rising-2-case-zero.json](./20409-dead-rising-2-case-zero.json) |
 | Dead Rising 2: Off the Record | 5924 | [5924-dead-rising-2-off-the-record.json](./5924-dead-rising-2-off-the-record.json) |
 | Dead Rising 2: Off the Record Plus - A Fan-Made Expansion | 398148 | [398148-dead-rising-2-off-the-record-plus-a-fan-made-expansion.json](./398148-dead-rising-2-off-the-record-plus-a-fan-made-expansion.json) |
+| Dead Rising 2: Zombrex Edition | 47369 | [47369-dead-rising-2-zombrex-edition.json](./47369-dead-rising-2-zombrex-edition.json) |
 | Dead Rising 3 | 3199 | [3199-dead-rising-3.json](./3199-dead-rising-3.json) |
 | Dead Rising 3: Apocalypse Edition | 21611 | [21611-dead-rising-3-apocalypse-edition.json](./21611-dead-rising-3-apocalypse-edition.json) |
 | Dead Rising 3: Chaos Rising | 20940 | [20940-dead-rising-3-chaos-rising.json](./20940-dead-rising-3-chaos-rising.json) |
@@ -13604,6 +13605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doom 3: 2553 | 411719 | [411719-doom-3-2553.json](./411719-doom-3-2553.json) |
 | Doom 3: BFG Edition | 6968 | [6968-doom-3-bfg-edition.json](./6968-doom-3-bfg-edition.json) |
 | Doom 3: Hard Corps | 196016 | [196016-doom-3-hard-corps.json](./196016-doom-3-hard-corps.json) |
+| Doom 3: Limited - Collector's Edition | 47328 | [47328-doom-3-limited-collectors-edition.json](./47328-doom-3-limited-collectors-edition.json) |
 | Doom 3: Resurrection of Evil | 260027 | [260027-doom-3-resurrection-of-evil.json](./260027-doom-3-resurrection-of-evil.json) |
 | Doom 3: Resurrection of Evil | 332410 | [332410-doom-3-resurrection-of-evil.json](./332410-doom-3-resurrection-of-evil.json) |
 | Doom 3: The Lost Mission | 167753 | [167753-doom-3-the-lost-mission.json](./167753-doom-3-the-lost-mission.json) |
