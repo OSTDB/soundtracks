@@ -1301,6 +1301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samosbor 2D | 120986 | [120986-samosbor-2d.json](./120986-samosbor-2d.json) |
 | Samozbor ID:Heaven | 129231 | [129231-samozbor-id-heaven.json](./129231-samozbor-id-heaven.json) |
 | Samozbor: Rebellion | 112677 | [112677-samozbor-rebellion.json](./112677-samozbor-rebellion.json) |
+| Samphi | 35944 | [35944-samphi.json](./35944-samphi.json) |
 | Sample Gunpowder | 310271 | [310271-sample-gunpowder.json](./310271-sample-gunpowder.json) |
 | Sampling | 107874 | [107874-sampling.json](./107874-sampling.json) |
 | Sampras Extreme Tennis | 44851 | [44851-sampras-extreme-tennis.json](./44851-sampras-extreme-tennis.json) |
@@ -2806,6 +2807,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scaredom | 199187 | [199187-scaredom.json](./199187-scaredom.json) |
 | Scaredy Cat | 296348 | [296348-scaredy-cat.json](./296348-scaredy-cat.json) |
 | Scaredy Cat | 364862 | [364862-scaredy-cat.json](./364862-scaredy-cat.json) |
+| ScareNight | 36068 | [36068-scarenight.json](./36068-scarenight.json) |
 | Scarenoid | 170633 | [170633-scarenoid.json](./170633-scarenoid.json) |
 | Scares on Halloween | 123601 | [123601-scares-on-halloween.json](./123601-scares-on-halloween.json) |
 | Scarf | 106836 | [106836-scarf.json](./106836-scarf.json) |
@@ -10558,6 +10560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Siege of Syracuse | 413001 | [413001-siege-of-syracuse.json](./413001-siege-of-syracuse.json) |
 | Siege of the Swine | 167505 | [167505-siege-of-the-swine.json](./167505-siege-of-the-swine.json) |
 | Siege of Treboulain | 190848 | [190848-siege-of-treboulain.json](./190848-siege-of-treboulain.json) |
+| Siege of Turtle Enclave | 35983 | [35983-siege-of-turtle-enclave.json](./35983-siege-of-turtle-enclave.json) |
 | Siege of Turtle Enclave: Arcane Units Pack | 224147 | [224147-siege-of-turtle-enclave-arcane-units-pack.json](./224147-siege-of-turtle-enclave-arcane-units-pack.json) |
 | Siege Physics | 177141 | [177141-siege-physics.json](./177141-siege-physics.json) |
 | Siege Saga | 77633 | [77633-siege-saga.json](./77633-siege-saga.json) |
@@ -21531,6 +21534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spartan X 2 | 48650 | [48650-spartan-x-2.json](./48650-spartan-x-2.json) |
 | Spartan: Total Warrior | 439 | [439-spartan-total-warrior.json](./439-spartan-total-warrior.json) |
 | Spartan's Spear | 273407 | [273407-spartans-spear.json](./273407-spartans-spear.json) |
+| Spartans Vs Zombies Defense | 36015 | [36015-spartans-vs-zombies-defense.json](./36015-spartans-vs-zombies-defense.json) |
 | Sparticles | 107271 | [107271-sparticles.json](./107271-sparticles.json) |
 | Spartoi Meadow | 149147 | [149147-spartoi-meadow.json](./149147-spartoi-meadow.json) |
 | Spårvagn | 142361 | [142361-sparvagn.json](./142361-sparvagn.json) |
@@ -23280,6 +23284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Splitgate 2: Ultimate Founder's Pack | 373471 | [373471-splitgate-2-ultimate-founders-pack.json](./373471-splitgate-2-ultimate-founders-pack.json) |
 | Splitgate: Arena Reloaded | 308978 | [308978-splitgate-arena-reloaded.json](./308978-splitgate-arena-reloaded.json) |
 | Spliti | 289722 | [289722-spliti.json](./289722-spliti.json) |
+| Splitmind | 35988 | [35988-splitmind.json](./35988-splitmind.json) |
 | SplitPool | 340180 | [340180-splitpool.json](./340180-splitpool.json) |
 | Splittown | 216878 | [216878-splittown.json](./216878-splittown.json) |
 | Splitz | 271376 | [271376-splitz.json](./271376-splitz.json) |
@@ -26145,6 +26150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starlab | 258721 | [258721-starlab.json](./258721-starlab.json) |
 | Starlair | 321199 | [321199-starlair.json](./321199-starlair.json) |
 | Starlaxis - Light Hunter | 64465 | [64465-starlaxis-light-hunter.json](./64465-starlaxis-light-hunter.json) |
+| Starlaxis Supernova Edition | 36072 | [36072-starlaxis-supernova-edition.json](./36072-starlaxis-supernova-edition.json) |
 | Starlaxy Cats | 321416 | [321416-starlaxy-cats.json](./321416-starlaxy-cats.json) |
 | Starleaf | 415960 | [415960-starleaf.json](./415960-starleaf.json) |
 | Starless | 204092 | [204092-starless.json](./204092-starless.json) |
@@ -26700,6 +26706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starving Merchant | 390760 | [390760-starving-merchant.json](./390760-starving-merchant.json) |
 | Starvoid | 2019 | [2019-starvoid.json](./2019-starvoid.json) |
 | Starvoly | 157106 | [157106-starvoly.json](./157106-starvoly.json) |
+| Starwalker | 36040 | [36040-starwalker.json](./36040-starwalker.json) |
 | Starwalker: Into the Cylinder | 203615 | [203615-starwalker-into-the-cylinder.json](./203615-starwalker-into-the-cylinder.json) |
 | Starward | 301139 | [301139-starward.json](./301139-starward.json) |
 | Starward Rogue + Moonshine Inc.: Galactic Spirit Bundle | 286971 | [286971-starward-rogue-moonshine-inc-galactic-spirit-bundle.json](./286971-starward-rogue-moonshine-inc-galactic-spirit-bundle.json) |
@@ -34771,6 +34778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superbike GP | 43328 | [43328-superbike-gp.json](./43328-superbike-gp.json) |
 | Superbike Masters | 43860 | [43860-superbike-masters.json](./43860-superbike-masters.json) |
 | Superbike Racing | 54415 | [54415-superbike-racing.json](./54415-superbike-racing.json) |
+| SuperBike TT | 36013 | [36013-superbike-tt.json](./36013-superbike-tt.json) |
 | Superbikes Riding Challenge | 23130 | [23130-superbikes-riding-challenge.json](./23130-superbikes-riding-challenge.json) |
 | Superboss of the Turnabout | 308537 | [308537-superboss-of-the-turnabout.json](./308537-superboss-of-the-turnabout.json) |
 | Superbot Arena | 257979 | [257979-superbot-arena.json](./257979-superbot-arena.json) |
@@ -35267,6 +35275,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supreme Heroes | 369687 | [369687-supreme-heroes.json](./369687-supreme-heroes.json) |
 | Supreme Kung Fu | 339474 | [339474-supreme-kung-fu.json](./339474-supreme-kung-fu.json) |
 | Supreme League of Patriots | 8970 | [8970-supreme-league-of-patriots.json](./8970-supreme-league-of-patriots.json) |
+| Supreme League of Patriots Issue 2: Patriot Frames | 36088 | [36088-supreme-league-of-patriots-issue-2-patriot-frames.json](./36088-supreme-league-of-patriots-issue-2-patriot-frames.json) |
+| Supreme League of Patriots Issue 3: Ice Cold in Ellis | 36089 | [36089-supreme-league-of-patriots-issue-3-ice-cold-in-ellis.json](./36089-supreme-league-of-patriots-issue-3-ice-cold-in-ellis.json) |
 | Supreme OS | 211771 | [211771-supreme-os.json](./211771-supreme-os.json) |
 | Supreme Race on Highway | 195586 | [195586-supreme-race-on-highway.json](./195586-supreme-race-on-highway.json) |
 | Supreme Ruler | 15105 | [15105-supreme-ruler.json](./15105-supreme-ruler.json) |
