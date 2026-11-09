@@ -2148,6 +2148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garten of Banban VR: Distorting Clay | 324742 | [324742-garten-of-banban-vr-distorting-clay.json](./324742-garten-of-banban-vr-distorting-clay.json) |
 | Garten of Banban: Last Ticket to the Abyss | 363986 | [363986-garten-of-banban-last-ticket-to-the-abyss.json](./363986-garten-of-banban-last-ticket-to-the-abyss.json) |
 | Garten of Banban: Punchrush | 288035 | [288035-garten-of-banban-punchrush.json](./288035-garten-of-banban-punchrush.json) |
+| Garters & Ghouls | 54047 | [54047-garters-and-ghouls.json](./54047-garters-and-ghouls.json) |
 | Gartic | 50158 | [50158-gartic.json](./50158-gartic.json) |
 | Gartic on Stream | 185152 | [185152-gartic-on-stream.json](./185152-gartic-on-stream.json) |
 | Gartic Show | 184285 | [184285-gartic-show.json](./184285-gartic-show.json) |
