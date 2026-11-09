@@ -1153,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Salvage | 181242 | [181242-salvage.json](./181242-salvage.json) |
 | Salvage | 377349 | [377349-salvage.json](./377349-salvage.json) |
 | Salvage Crew | 206634 | [206634-salvage-crew.json](./206634-salvage-crew.json) |
+| Salvage Op | 30336 | [30336-salvage-op.json](./30336-salvage-op.json) |
 | Salvage Protocol | 342544 | [342544-salvage-protocol.json](./342544-salvage-protocol.json) |
 | Salvage Shop Simulator | 355103 | [355103-salvage-shop-simulator.json](./355103-salvage-shop-simulator.json) |
 | Salvage Title | 308464 | [308464-salvage-title.json](./308464-salvage-title.json) |
@@ -7294,6 +7295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowrun: Dragonfall - Director's Cut | 8864 | [8864-shadowrun-dragonfall-directors-cut.json](./8864-shadowrun-dragonfall-directors-cut.json) |
 | Shadowrun: Hong Kong - Extended Edition | 35842 | [35842-shadowrun-hong-kong-extended-edition.json](./35842-shadowrun-hong-kong-extended-edition.json) |
 | Shadows | 188162 | [188162-shadows.json](./188162-shadows.json) |
+| Shadows | 30305 | [30305-shadows.json](./30305-shadows.json) |
 | Shadows | 318203 | [318203-shadows.json](./318203-shadows.json) |
 | Shadows 2: Perfidia | 29178 | [29178-shadows-2-perfidia.json](./29178-shadows-2-perfidia.json) |
 | Shadows and Dust | 122625 | [122625-shadows-and-dust.json](./122625-shadows-and-dust.json) |
@@ -7916,6 +7918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shatter Keep | 146826 | [146826-shatter-keep.json](./146826-shatter-keep.json) |
 | Shatter Knight | 412206 | [412206-shatter-knight.json](./412206-shatter-knight.json) |
 | Shatter Point | 343988 | [343988-shatter-point.json](./343988-shatter-point.json) |
+| Shatter Quest | 31007 | [31007-shatter-quest.json](./31007-shatter-quest.json) |
 | Shatter Realm | 257147 | [257147-shatter-realm.json](./257147-shatter-realm.json) |
 | Shatter Remastered | 295433 | [295433-shatter-remastered.json](./295433-shatter-remastered.json) |
 | Shatter Remastered Deluxe | 202146 | [202146-shatter-remastered-deluxe.json](./202146-shatter-remastered-deluxe.json) |
@@ -9780,6 +9783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shot Online: Golf Battle | 233119 | [233119-shot-online-golf-battle.json](./233119-shot-online-golf-battle.json) |
 | Shot Put | 287556 | [287556-shot-put.json](./287556-shot-put.json) |
 | Shot Shot Shoot | 253242 | [253242-shot-shot-shoot.json](./253242-shot-shot-shoot.json) |
+| Shot Shot Tactic | 30344 | [30344-shot-shot-tactic.json](./30344-shot-shot-tactic.json) |
 | Shot Supreme | 253856 | [253856-shot-supreme.json](./253856-shot-supreme.json) |
 | Shot the Body | 126572 | [126572-shot-the-body.json](./126572-shot-the-body.json) |
 | Shot.io | 77424 | [77424-shot-io.json](./77424-shot-io.json) |
@@ -11838,6 +11842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingFever: Your Sing Game | 365871 | [365871-singfever-your-sing-game.json](./365871-singfever-your-sing-game.json) |
 | Singing Easter Eggs | 293217 | [293217-singing-easter-eggs.json](./293217-singing-easter-eggs.json) |
 | Singing Horses | 293218 | [293218-singing-horses.json](./293218-singing-horses.json) |
+| Singing Stones VR | 30353 | [30353-singing-stones-vr.json](./30353-singing-stones-vr.json) |
 | Single City | 328461 | [328461-single-city.json](./328461-single-city.json) |
 | Single Ennead | 310976 | [310976-single-ennead.json](./310976-single-ennead.json) |
 | Single Espresso | 312743 | [312743-single-espresso.json](./312743-single-espresso.json) |
@@ -13498,6 +13503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyward Journey | 320367 | [320367-skyward-journey.json](./320367-skyward-journey.json) |
 | Skyward War | 216055 | [216055-skyward-war.json](./216055-skyward-war.json) |
 | Skywatching | 177303 | [177303-skywatching.json](./177303-skywatching.json) |
+| Skyway | 30974 | [30974-skyway.json](./30974-skyway.json) |
 | Skyweaver | 123039 | [123039-skyweaver.json](./123039-skyweaver.json) |
 | Skywire | 116128 | [116128-skywire.json](./116128-skywire.json) |
 | Skywire 2 | 280333 | [280333-skywire-2.json](./280333-skywire-2.json) |
@@ -22907,6 +22913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirimonz | 408379 | [408379-spirimonz.json](./408379-spirimonz.json) |
 | Spirinse | 118661 | [118661-spirinse.json](./118661-spirinse.json) |
 | Spirit | 170177 | [170177-spirit.json](./170177-spirit.json) |
+| Spirit | 30349 | [30349-spirit.json](./30349-spirit.json) |
 | Spirit | 91497 | [91497-spirit.json](./91497-spirit.json) |
 | Spirit & Steel | 380601 | [380601-spirit-and-steel.json](./380601-spirit-and-steel.json) |
 | Spirit & Stone | 216875 | [216875-spirit-and-stone.json](./216875-spirit-and-stone.json) |
@@ -24707,6 +24714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stair Tower | 317183 | [317183-stair-tower.json](./317183-stair-tower.json) |
 | Stair: Slide the Blocks to Ascend | 266326 | [266326-stair-slide-the-blocks-to-ascend.json](./266326-stair-slide-the-blocks-to-ascend.json) |
 | StairCase 55 | 273719 | [273719-staircase-55.json](./273719-staircase-55.json) |
+| Staircase of Darkness: VR | 31011 | [31011-staircase-of-darkness-vr.json](./31011-staircase-of-darkness-vr.json) |
 | Staircase55 | 253603 | [253603-staircase55.json](./253603-staircase55.json) |
 | Staircore | 383131 | [383131-staircore.json](./383131-staircore.json) |
 | Stairdown | 221291 | [221291-stairdown.json](./221291-stairdown.json) |
@@ -31607,6 +31615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunyata CCG | 403554 | [403554-sunyata-ccg.json](./403554-sunyata-ccg.json) |
 | SUP Multiplayer Racing | 88760 | [88760-sup-multiplayer-racing.json](./88760-sup-multiplayer-racing.json) |
 | Supa Birdie Boi | 149200 | [149200-supa-birdie-boi.json](./149200-supa-birdie-boi.json) |
+| Supa Kila Monsta Hunta | 30996 | [30996-supa-kila-monsta-hunta.json](./30996-supa-kila-monsta-hunta.json) |
 | Supa Nova | 100019 | [100019-supa-nova.json](./100019-supa-nova.json) |
 | Supa3 | 308470 | [308470-supa3.json](./308470-supa3.json) |
 | Supanda | 267524 | [267524-supanda.json](./267524-supanda.json) |
@@ -35250,6 +35259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supply Chained | 325325 | [325325-supply-chained.json](./325325-supply-chained.json) |
 | Supposedly Wonderful Future | 72491 | [72491-supposedly-wonderful-future.json](./72491-supposedly-wonderful-future.json) |
 | Suppress Academician | 309393 | [309393-suppress-academician.json](./309393-suppress-academician.json) |
+| Suppressed | 30976 | [30976-suppressed.json](./30976-suppressed.json) |
 | Supra Binyot Lande 2: Melpert's Quest for Booti | 334637 | [334637-supra-binyot-lande-2-melperts-quest-for-booti.json](./334637-supra-binyot-lande-2-melperts-quest-for-booti.json) |
 | Supra Mayro Bross: Legend of the Lost Kingdom | 321902 | [321902-supra-mayro-bross-legend-of-the-lost-kingdom.json](./321902-supra-mayro-bross-legend-of-the-lost-kingdom.json) |
 | Supra Mayro Kratt | 300345 | [300345-supra-mayro-kratt.json](./300345-supra-mayro-kratt.json) |
