@@ -3182,6 +3182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teamcrafter | 352471 | [352471-teamcrafter.json](./352471-teamcrafter.json) |
 | Teamfight Manager | 144006 | [144006-teamfight-manager.json](./144006-teamfight-manager.json) |
 | Teamfight Manager 2 | 369638 | [369638-teamfight-manager-2.json](./369638-teamfight-manager-2.json) |
+| Teamfight Tactics | 120176 | [120176-teamfight-tactics.json](./120176-teamfight-tactics.json) |
 | Teamfight Tactics: Cyber City | 336307 | [336307-teamfight-tactics-cyber-city.json](./336307-teamfight-tactics-cyber-city.json) |
 | TeamJumpers | 137774 | [137774-teamjumpers.json](./137774-teamjumpers.json) |
 | TeamJumpers 2: New Reality | 152032 | [152032-teamjumpers-2-new-reality.json](./152032-teamjumpers-2-new-reality.json) |
@@ -3646,6 +3647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 2 | 225422 | [225422-tekken-2.json](./225422-tekken-2.json) |
 | Tekken 2 | 248207 | [248207-tekken-2.json](./248207-tekken-2.json) |
 | Tekken 2 / Soul Blade | 382530 | [382530-tekken-2-soul-blade.json](./382530-tekken-2-soul-blade.json) |
+| Tekken 3 | 306134 | [306134-tekken-3.json](./306134-tekken-3.json) |
 | Tekken 3 | 369999 | [369999-tekken-3.json](./369999-tekken-3.json) |
 | Tekken 3D: Prime Edition | 1237 | [1237-tekken-3d-prime-edition.json](./1237-tekken-3d-prime-edition.json) |
 | Tekken 4 | 393182 | [393182-tekken-4.json](./393182-tekken-4.json) |
@@ -3679,6 +3681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tekken 7: Ultimate Tekken Bowl & Additional Costumes | 118958 | [118958-tekken-7-ultimate-tekken-bowl-and-additional-costumes.json](./118958-tekken-7-ultimate-tekken-bowl-and-additional-costumes.json) |
 | Tekken 7: Vermilion Gates | 173154 | [173154-tekken-7-vermilion-gates.json](./173154-tekken-7-vermilion-gates.json) |
 | Tekken 7: Zafina | 163260 | [163260-tekken-7-zafina.json](./163260-tekken-7-zafina.json) |
+| Tekken 8 | 217590 | [217590-tekken-8.json](./217590-tekken-8.json) |
 | Tekken 8: Advanced Edition | 338032 | [338032-tekken-8-advanced-edition.json](./338032-tekken-8-advanced-edition.json) |
 | Tekken 8: Anna Williams | 349570 | [349570-tekken-8-anna-williams.json](./349570-tekken-8-anna-williams.json) |
 | Tekken 8: Armor King | 374182 | [374182-tekken-8-armor-king.json](./374182-tekken-8-armor-king.json) |
@@ -3959,6 +3962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Temple Raid | 74503 | [74503-temple-raid.json](./74503-temple-raid.json) |
 | Temple Raider | 181596 | [181596-temple-raider.json](./181596-temple-raider.json) |
 | Temple Roll | 256231 | [256231-temple-roll.json](./256231-temple-roll.json) |
+| Temple Run | 2475 | [2475-temple-run.json](./2475-temple-run.json) |
 | Temple Run 2 | 336388 | [336388-temple-run-2.json](./336388-temple-run-2.json) |
 | Temple Run 2 | 7436 | [7436-temple-run-2.json](./7436-temple-run-2.json) |
 | Temple Run 3 | 380808 | [380808-temple-run-3.json](./380808-temple-run-3.json) |
@@ -13204,6 +13208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Zelda: Fall of Hyrule | 250514 | [250514-the-legend-of-zelda-fall-of-hyrule.json](./250514-the-legend-of-zelda-fall-of-hyrule.json) |
 | The Legend of Zelda: Four Swords | 163572 | [163572-the-legend-of-zelda-four-swords.json](./163572-the-legend-of-zelda-four-swords.json) |
 | The Legend of Zelda: Four Swords - Anniversary Edition | 45143 | [45143-the-legend-of-zelda-four-swords-anniversary-edition.json](./45143-the-legend-of-zelda-four-swords-anniversary-edition.json) |
+| The Legend of Zelda: Four Swords Adventures | 1034 | [1034-the-legend-of-zelda-four-swords-adventures.json](./1034-the-legend-of-zelda-four-swords-adventures.json) |
 | The Legend of Zelda: Four Swords Online | 323278 | [323278-the-legend-of-zelda-four-swords-online.json](./323278-the-legend-of-zelda-four-swords-online.json) |
 | The Legend of Zelda: Fourth Quest | 150079 | [150079-the-legend-of-zelda-fourth-quest.json](./150079-the-legend-of-zelda-fourth-quest.json) |
 | The Legend of Zelda: Goddess of Wisdom | 218077 | [218077-the-legend-of-zelda-goddess-of-wisdom.json](./218077-the-legend-of-zelda-goddess-of-wisdom.json) |
@@ -20622,6 +20627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thief Snatch & Run | 337978 | [337978-thief-snatch-and-run.json](./337978-thief-snatch-and-run.json) |
 | Thief Town | 11223 | [11223-thief-town.json](./11223-thief-town.json) |
 | Thief VR: Legacy of Shadow | 347124 | [347124-thief-vr-legacy-of-shadow.json](./347124-thief-vr-legacy-of-shadow.json) |
+| Thief: Deadly Shadows | 3 | [3-thief-deadly-shadows.json](./3-thief-deadly-shadows.json) |
 | Thief: Master Thief Edition | 53797 | [53797-thief-master-thief-edition.json](./53797-thief-master-thief-edition.json) |
 | Thief: The Bank Heist | 117274 | [117274-thief-the-bank-heist.json](./117274-thief-the-bank-heist.json) |
 | Thief: The Black Parade | 278770 | [278770-thief-the-black-parade.json](./278770-thief-the-black-parade.json) |
@@ -34054,6 +34060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turning Red Dancing Tiles Hop | 198240 | [198240-turning-red-dancing-tiles-hop.json](./198240-turning-red-dancing-tiles-hop.json) |
 | Turning the Page | 328430 | [328430-turning-the-page.json](./328430-turning-the-page.json) |
 | Turning the Tide | 372519 | [372519-turning-the-tide.json](./372519-turning-the-tide.json) |
+| Turnip Boy Commits Tax Evasion | 128097 | [128097-turnip-boy-commits-tax-evasion.json](./128097-turnip-boy-commits-tax-evasion.json) |
 | Turnip Boy Commits Tax Evasion: The Sunset Station Update | 196664 | [196664-turnip-boy-commits-tax-evasion-the-sunset-station-update.json](./196664-turnip-boy-commits-tax-evasion-the-sunset-station-update.json) |
 | Turnip Boy Steals the Mail | 342657 | [342657-turnip-boy-steals-the-mail.json](./342657-turnip-boy-steals-the-mail.json) |
 | Turnip Mountain | 217203 | [217203-turnip-mountain.json](./217203-turnip-mountain.json) |
@@ -35030,6 +35037,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tyrannis: Co-Prosperity | 253824 | [253824-tyrannis-co-prosperity.json](./253824-tyrannis-co-prosperity.json) |
 | Tyrannizer | 270741 | [270741-tyrannizer.json](./270741-tyrannizer.json) |
 | Tyrannosaurus Tex | 159036 | [159036-tyrannosaurus-tex.json](./159036-tyrannosaurus-tex.json) |
+| Tyranny | 18398 | [18398-tyranny.json](./18398-tyranny.json) |
 | Tyranny: Archon Edition | 51797 | [51797-tyranny-archon-edition.json](./51797-tyranny-archon-edition.json) |
 | Tyranny: Bastard's Wound | 55081 | [55081-tyranny-bastards-wound.json](./55081-tyranny-bastards-wound.json) |
 | Tyranny: Commander Edition | 51796 | [51796-tyranny-commander-edition.json](./51796-tyranny-commander-edition.json) |
