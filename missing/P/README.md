@@ -2949,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PastoralPainting | 270078 | [270078-pastoralpainting.json](./270078-pastoralpainting.json) |
 | Pastry Cranker | 353788 | [353788-pastry-cranker.json](./353788-pastry-cranker.json) |
 | Pastry Lovers | 30029 | [30029-pastry-lovers.json](./30029-pastry-lovers.json) |
+| Pastry Paradise | 58918 | [58918-pastry-paradise.json](./58918-pastry-paradise.json) |
 | Pastry Wars | 91730 | [91730-pastry-wars.json](./91730-pastry-wars.json) |
 | Pastry Witches | 98150 | [98150-pastry-witches.json](./98150-pastry-witches.json) |
 | Pasture Palette | 374251 | [374251-pasture-palette.json](./374251-pasture-palette.json) |
@@ -4834,6 +4835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Persona 4: Golden Grimoire Edition | 273106 | [273106-persona-4-golden-grimoire-edition.json](./273106-persona-4-golden-grimoire-edition.json) |
 | Persona 4: Golden Midnight Channel Edition | 273107 | [273107-persona-4-golden-midnight-channel-edition.json](./273107-persona-4-golden-midnight-channel-edition.json) |
 | Persona 4: Racing All Afternoon | 134690 | [134690-persona-4-racing-all-afternoon.json](./134690-persona-4-racing-all-afternoon.json) |
+| Persona 4: The Card Battle | 58927 | [58927-persona-4-the-card-battle.json](./58927-persona-4-the-card-battle.json) |
 | Persona 5 Dancing in Starlight: Picaresque Mouse Set | 324706 | [324706-persona-5-dancing-in-starlight-picaresque-mouse-set.json](./324706-persona-5-dancing-in-starlight-picaresque-mouse-set.json) |
 | Persona 5 Pocket Edition | 321602 | [321602-persona-5-pocket-edition.json](./321602-persona-5-pocket-edition.json) |
 | Persona 5 Royal: 1 More Edition | 261539 | [261539-persona-5-royal-1-more-edition.json](./261539-persona-5-royal-1-more-edition.json) |
@@ -7377,6 +7379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinbo | 39987 | [39987-pinbo.json](./39987-pinbo.json) |
 | Pinbomb | 417419 | [417419-pinbomb.json](./417419-pinbomb.json) |
 | Pinbot | 295908 | [295908-pinbot.json](./295908-pinbot.json) |
+| Pinbrawl | 58390 | [58390-pinbrawl.json](./58390-pinbrawl.json) |
 | PinBuilder | 368363 | [368363-pinbuilder.json](./368363-pinbuilder.json) |
 | Pinch | 66756 | [66756-pinch.json](./66756-pinch.json) |
 | Pinch 2 HD | 63320 | [63320-pinch-2-hd.json](./63320-pinch-2-hd.json) |
