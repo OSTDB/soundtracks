@@ -1316,6 +1316,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velato | 398989 | [398989-velato.json](./398989-velato.json) |
 | Velaya: Tale of a Warrior | 383436 | [383436-velaya-tale-of-a-warrior.json](./383436-velaya-tale-of-a-warrior.json) |
 | Velberan In Miracle World | 253692 | [253692-velberan-in-miracle-world.json](./253692-velberan-in-miracle-world.json) |
+| Velcro Mind | 69617 | [69617-velcro-mind.json](./69617-velcro-mind.json) |
 | Velen | 398785 | [398785-velen.json](./398785-velen.json) |
 | Velev | 299556 | [299556-velev.json](./299556-velev.json) |
 | Velgress | 318313 | [318313-velgress.json](./318313-velgress.json) |
@@ -2898,6 +2899,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Sister Happy Mom Newborn Baby Family Game | 95783 | [95783-virtual-sister-happy-mom-newborn-baby-family-game.json](./95783-virtual-sister-happy-mom-newborn-baby-family-game.json) |
 | Virtual Skate | 349108 | [349108-virtual-skate.json](./349108-virtual-skate.json) |
 | Virtual Skate: Winter Update | 380593 | [380593-virtual-skate-winter-update.json](./380593-virtual-skate-winter-update.json) |
+| Virtual Skipper | 69949 | [69949-virtual-skipper.json](./69949-virtual-skipper.json) |
 | Virtual Skydiving | 116866 | [116866-virtual-skydiving.json](./116866-virtual-skydiving.json) |
 | Virtual SlotCars | 40501 | [40501-virtual-slotcars.json](./40501-virtual-slotcars.json) |
 | Virtual Sniper | 387484 | [387484-virtual-sniper.json](./387484-virtual-sniper.json) |
