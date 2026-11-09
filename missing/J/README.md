@@ -1593,6 +1593,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Witch Tale | 52007 | [52007-jewel-witch-tale.json](./52007-jewel-witch-tale.json) |
 | Jewel Wizardry | 146569 | [146569-jewel-wizardry.json](./146569-jewel-wizardry.json) |
 | Jeweler Simulator | 291449 | [291449-jeweler-simulator.json](./291449-jeweler-simulator.json) |
+| Jewelic Nightmare | 63407 | [63407-jewelic-nightmare.json](./63407-jewelic-nightmare.json) |
 | JeweLife: Match 3 Jewels | 255053 | [255053-jewelife-match-3-jewels.json](./255053-jewelife-match-3-jewels.json) |
 | Jewelinx | 187002 | [187002-jewelinx.json](./187002-jewelinx.json) |
 | JeweliX | 54142 | [54142-jewelix.json](./54142-jewelix.json) |
