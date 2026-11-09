@@ -227,6 +227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth 2150 | 8932 | [8932-earth-2150.json](./8932-earth-2150.json) |
 | Earth 2150 Trilogy | 30238 | [30238-earth-2150-trilogy.json](./30238-earth-2150-trilogy.json) |
 | Earth 2160 | 8935 | [8935-earth-2160.json](./8935-earth-2160.json) |
+| Earth 2160: Edition 2012 | 53974 | [53974-earth-2160-edition-2012.json](./53974-earth-2160-edition-2012.json) |
 | Earth Analog | 127581 | [127581-earth-analog.json](./127581-earth-analog.json) |
 | Earth and Legend | 205086 | [205086-earth-and-legend.json](./205086-earth-and-legend.json) |
 | Earth and Sky | 9427 | [9427-earth-and-sky.json](./9427-earth-and-sky.json) |
@@ -944,6 +945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echoes of Seasons | 364036 | [364036-echoes-of-seasons.json](./364036-echoes-of-seasons.json) |
 | Echoes of Sin: Confusion | 400239 | [400239-echoes-of-sin-confusion.json](./400239-echoes-of-sin-confusion.json) |
 | Echoes of Somewhere: Series 1 | 240801 | [240801-echoes-of-somewhere-series-1.json](./240801-echoes-of-somewhere-series-1.json) |
+| Echoes of Sorrow | 53990 | [53990-echoes-of-sorrow.json](./53990-echoes-of-sorrow.json) |
 | Echoes of Sorrow 2 | 52926 | [52926-echoes-of-sorrow-2.json](./52926-echoes-of-sorrow-2.json) |
 | Echoes of Spellcraft | 351157 | [351157-echoes-of-spellcraft.json](./351157-echoes-of-spellcraft.json) |
 | Echoes of Steel | 277851 | [277851-echoes-of-steel.json](./277851-echoes-of-steel.json) |
@@ -1236,6 +1238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eden's Lair | 149497 | [149497-edens-lair.json](./149497-edens-lair.json) |
 | Eden's Last Sunrise | 190187 | [190187-edens-last-sunrise.json](./190187-edens-last-sunrise.json) |
 | Eden's Prison | 350517 | [350517-edens-prison.json](./350517-edens-prison.json) |
+| Eden's Quest: The Hunt for Akua | 53991 | [53991-edens-quest-the-hunt-for-akua.json](./53991-edens-quest-the-hunt-for-akua.json) |
 | Eden* | 36272 | [36272-eden.json](./36272-eden.json) |
 | Edenbound | 295813 | [295813-edenbound.json](./295813-edenbound.json) |
 | Edenfall | 321940 | [321940-edenfall.json](./321940-edenfall.json) |
@@ -1356,6 +1359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Edna & Harvey: Harvey's New Eyes | 6701 | [6701-edna-and-harvey-harveys-new-eyes.json](./6701-edna-and-harvey-harveys-new-eyes.json) |
 | Edna & Harvey: The Breakout | 15736 | [15736-edna-and-harvey-the-breakout.json](./15736-edna-and-harvey-the-breakout.json) |
 | Edna & Harvey: The Breakout - 10th Anniversary Edition | 107173 | [107173-edna-and-harvey-the-breakout-10th-anniversary-edition.json](./107173-edna-and-harvey-the-breakout-10th-anniversary-edition.json) |
+| Edna & Harvey: The Puzzle | 53992 | [53992-edna-and-harvey-the-puzzle.json](./53992-edna-and-harvey-the-puzzle.json) |
 | Edna: Out of Sight, Out of Control | 210676 | [210676-edna-out-of-sight-out-of-control.json](./210676-edna-out-of-sight-out-of-control.json) |
 | Ednaldo Pereira: Mescladasso | 143501 | [143501-ednaldo-pereira-mescladasso.json](./143501-ednaldo-pereira-mescladasso.json) |
 | Ednaldo Pereira: Mescladasso DX | 311409 | [311409-ednaldo-pereira-mescladasso-dx.json](./311409-ednaldo-pereira-mescladasso-dx.json) |
@@ -1766,6 +1770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egyptian Ratslap | 264796 | [264796-egyptian-ratslap.json](./264796-egyptian-ratslap.json) |
 | Egyptian Run | 93166 | [93166-egyptian-run.json](./93166-egyptian-run.json) |
 | Egyptian Senet | 34742 | [34742-egyptian-senet.json](./34742-egyptian-senet.json) |
+| Egyptian Settlement | 53993 | [53993-egyptian-settlement.json](./53993-egyptian-settlement.json) |
 | Egyptian Settlement Gold | 35308 | [35308-egyptian-settlement-gold.json](./35308-egyptian-settlement-gold.json) |
 | Egyptian Trilogy | 209179 | [209179-egyptian-trilogy.json](./209179-egyptian-trilogy.json) |
 | Ehandcipation | 119874 | [119874-ehandcipation.json](./119874-ehandcipation.json) |
@@ -2652,6 +2657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eli | 177205 | [177205-eli.json](./177205-eli.json) |
 | Eli Girls | 379635 | [379635-eli-girls.json](./379635-eli-girls.json) |
 | Eli's Ladder | 40642 | [40642-elis-ladder.json](./40642-elis-ladder.json) |
+| Elias the Mighty | 53994 | [53994-elias-the-mighty.json](./53994-elias-the-mighty.json) |
 | Elibean Nights | 135718 | [135718-elibean-nights.json](./135718-elibean-nights.json) |
 | Elidon | 13633 | [13633-elidon.json](./13633-elidon.json) |
 | Elidriel | 252024 | [252024-elidriel.json](./252024-elidriel.json) |
@@ -2713,6 +2719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Forces: WWII - Desert Rats | 23470 | [23470-elite-forces-wwii-desert-rats.json](./23470-elite-forces-wwii-desert-rats.json) |
 | Elite Forces: WWII Normandy | 71273 | [71273-elite-forces-wwii-normandy.json](./71273-elite-forces-wwii-normandy.json) |
 | Elite Hacker: Retro Hacking Evolution | 316569 | [316569-elite-hacker-retro-hacking-evolution.json](./316569-elite-hacker-retro-hacking-evolution.json) |
+| Elite Heli Squad | 53995 | [53995-elite-heli-squad.json](./53995-elite-heli-squad.json) |
 | Elite Mastermind | 175500 | [175500-elite-mastermind.json](./175500-elite-mastermind.json) |
 | Elite Plus | 100209 | [100209-elite-plus.json](./100209-elite-plus.json) |
 | Elite Rogue | 258044 | [258044-elite-rogue.json](./258044-elite-rogue.json) |
@@ -2789,6 +2796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elliot Quest | 8596 | [8596-elliot-quest.json](./8596-elliot-quest.json) |
 | Elliot's Show Time | 344404 | [344404-elliots-show-time.json](./344404-elliots-show-time.json) |
 | Ellipsis | 19862 | [19862-ellipsis.json](./19862-ellipsis.json) |
+| Elliptic Twist | 53996 | [53996-elliptic-twist.json](./53996-elliptic-twist.json) |
 | Ellisar | 197072 | [197072-ellisar.json](./197072-ellisar.json) |
 | Ellixir's Dream | 348376 | [348376-ellixirs-dream.json](./348376-ellixirs-dream.json) |
 | Ellphaser | 339550 | [339550-ellphaser.json](./339550-ellphaser.json) |
