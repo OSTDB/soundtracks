@@ -1153,6 +1153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dangerous Driving | 104232 | [104232-dangerous-driving.json](./104232-dangerous-driving.json) |
 | Dangerous Driving 2 | 131742 | [131742-dangerous-driving-2.json](./131742-dangerous-driving-2.json) |
 | Dangerous Duels | 134509 | [134509-dangerous-duels.json](./134509-dangerous-duels.json) |
+| Dangerous Dungeons | 40314 | [40314-dangerous-dungeons.json](./40314-dangerous-dungeons.json) |
 | Dangerous Fellows | 133817 | [133817-dangerous-fellows.json](./133817-dangerous-fellows.json) |
 | Dangerous Fight | 284997 | [284997-dangerous-fight.json](./284997-dangerous-fight.json) |
 | Dangerous Fists | 219673 | [219673-dangerous-fists.json](./219673-dangerous-fists.json) |
@@ -3756,6 +3757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Exit | 38755 | [38755-dead-exit.json](./38755-dead-exit.json) |
 | Dead Exodus | 421203 | [421203-dead-exodus.json](./421203-dead-exodus.json) |
 | Dead Exposure | 379698 | [379698-dead-exposure.json](./379698-dead-exposure.json) |
+| Dead Eye | 40313 | [40313-dead-eye.json](./40313-dead-eye.json) |
 | Dead Eye Deputy | 316056 | [316056-dead-eye-deputy.json](./316056-dead-eye-deputy.json) |
 | Dead Eye Jim | 44639 | [44639-dead-eye-jim.json](./44639-dead-eye-jim.json) |
 | Dead Eyes | 175522 | [175522-dead-eyes.json](./175522-dead-eyes.json) |
@@ -5809,6 +5811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Hunting 2018 | 107058 | [107058-deer-hunting-2018.json](./107058-deer-hunting-2018.json) |
 | Deer Hunting Camp | 339048 | [339048-deer-hunting-camp.json](./339048-deer-hunting-camp.json) |
 | Deer Hunting King | 85076 | [85076-deer-hunting-king.json](./85076-deer-hunting-king.json) |
+| Deer Hunting USA | 40312 | [40312-deer-hunting-usa.json](./40312-deer-hunting-usa.json) |
 | Deer in the Headlights | 302177 | [302177-deer-in-the-headlights.json](./302177-deer-in-the-headlights.json) |
 | Deer Journey | 207613 | [207613-deer-journey.json](./207613-deer-journey.json) |
 | Deer Legend | 398182 | [398182-deer-legend.json](./398182-deer-legend.json) |
@@ -6883,6 +6886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DemonCountdown | 272250 | [272250-demoncountdown.json](./272250-demoncountdown.json) |
 | DemonCrawl: Arena Plus | 172150 | [172150-demoncrawl-arena-plus.json](./172150-demoncrawl-arena-plus.json) |
 | Demondemon Demon Tamer | 370456 | [370456-demondemon-demon-tamer.json](./370456-demondemon-demon-tamer.json) |
+| Demoneye-X | 40311 | [40311-demoneye-x.json](./40311-demoneye-x.json) |
 | Demong Hunter | 146745 | [146745-demong-hunter.json](./146745-demong-hunter.json) |
 | Demongeon | 85566 | [85566-demongeon.json](./85566-demongeon.json) |
 | Demonheart | 29775 | [29775-demonheart.json](./29775-demonheart.json) |
@@ -8487,6 +8491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil World | 4612 | [4612-devil-world.json](./4612-devil-world.json) |
 | Devil World | 55212 | [55212-devil-world.json](./55212-devil-world.json) |
 | Devil Zone | 300401 | [300401-devil-zone.json](./300401-devil-zone.json) |
+| Devil Zone | 40310 | [40310-devil-zone.json](./40310-devil-zone.json) |
 | Devil_catching_bees | 119012 | [119012-devil-catching-bees.json](./119012-devil-catching-bees.json) |
 | Devil, It's Me | 161714 | [161714-devil-its-me.json](./161714-devil-its-me.json) |
 | Devil.., Heart and Possession | 304545 | [304545-devil-heart-and-possession.json](./304545-devil-heart-and-possession.json) |
@@ -12090,6 +12095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DodgeCraft | 325101 | [325101-dodgecraft.json](./325101-dodgecraft.json) |
 | Dodgekill | 345687 | [345687-dodgekill.json](./345687-dodgekill.json) |
 | DodgeKing | 213989 | [213989-dodgeking.json](./213989-dodgeking.json) |
+| Dodgem | 40309 | [40309-dodgem.json](./40309-dodgem.json) |
 | Dodgem Arena | 43693 | [43693-dodgem-arena.json](./43693-dodgem-arena.json) |
 | Dodgeman | 246440 | [246440-dodgeman.json](./246440-dodgeman.json) |
 | Dodgems and Connect 4 | 319530 | [319530-dodgems-and-connect-4.json](./319530-dodgems-and-connect-4.json) |
@@ -14846,6 +14852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Mary | 268447 | [268447-dr-mary.json](./268447-dr-mary.json) |
 | Dr. Maybee and the Adventures of Scarygirl | 44514 | [44514-dr-maybee-and-the-adventures-of-scarygirl.json](./44514-dr-maybee-and-the-adventures-of-scarygirl.json) |
 | Dr. Mazing | 66319 | [66319-dr-mazing.json](./66319-dr-mazing.json) |
+| Dr. Micro | 40308 | [40308-dr-micro.json](./40308-dr-micro.json) |
 | Dr. Mikio Hiraiwa-Supervised Yomu Tore GO! | 145389 | [145389-dr-mikio-hiraiwa-supervised-yomu-tore-go.json](./145389-dr-mikio-hiraiwa-supervised-yomu-tore-go.json) |
 | Dr. Mini Games | 202163 | [202163-dr-mini-games.json](./202163-dr-mini-games.json) |
 | Dr. Monty's Traveling Caravan of Moth-Based Oddities! | 418188 | [418188-dr-montys-traveling-caravan-of-moth-based-oddities.json](./418188-dr-montys-traveling-caravan-of-moth-based-oddities.json) |
@@ -15558,6 +15565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Glory | 68571 | [68571-dragon-glory.json](./68571-dragon-glory.json) |
 | Dragon Guardians | 389958 | [389958-dragon-guardians.json](./389958-dragon-guardians.json) |
 | Dragon Guide | 121182 | [121182-dragon-guide.json](./121182-dragon-guide.json) |
+| Dragon Gun | 40307 | [40307-dragon-gun.json](./40307-dragon-gun.json) |
 | Dragon Half | 37635 | [37635-dragon-half.json](./37635-dragon-half.json) |
 | Dragon Heartburn | 310280 | [310280-dragon-heartburn.json](./310280-dragon-heartburn.json) |
 | Dragon Heroes Tactics | 175709 | [175709-dragon-heroes-tactics.json](./175709-dragon-heroes-tactics.json) |
@@ -17141,6 +17149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dribble Basket | 424660 | [424660-dribble-basket.json](./424660-dribble-basket.json) |
 | Dribble Bounces Back! | 381579 | [381579-dribble-bounces-back.json](./381579-dribble-bounces-back.json) |
 | Dribble Skillz | 231635 | [231635-dribble-skillz.json](./231635-dribble-skillz.json) |
+| Dribbling | 40306 | [40306-dribbling.json](./40306-dribbling.json) |
 | Dride | 253700 | [253700-dride.json](./253700-dride.json) |
 | Drift | 359723 | [359723-drift.json](./359723-drift.json) |
 | Drift | 94859 | [94859-drift.json](./94859-drift.json) |
@@ -20051,11 +20060,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamic Chord feat. Rēve Parfait Append Disc | 223075 | [223075-dynamic-chord-feat-reve-parfait-append-disc.json](./223075-dynamic-chord-feat-reve-parfait-append-disc.json) |
 | Dynamic Chord feat. Rêve Parfait: V Edition | 136763 | [136763-dynamic-chord-feat-reve-parfait-v-edition.json](./136763-dynamic-chord-feat-reve-parfait-v-edition.json) |
 | Dynamic Chord feat.Liar-s Remaster Edition | 363031 | [363031-dynamic-chord-feat-liar-s-remaster-edition.json](./363031-dynamic-chord-feat-liar-s-remaster-edition.json) |
+| Dynamic Country Club | 40305 | [40305-dynamic-country-club.json](./40305-dynamic-country-club.json) |
 | Dynamic Country Club: 3D Golf Simulation | 45873 | [45873-dynamic-country-club-3d-golf-simulation.json](./45873-dynamic-country-club-3d-golf-simulation.json) |
 | Dynamic Destruction | 291837 | [291837-dynamic-destruction.json](./291837-dynamic-destruction.json) |
 | Dynamic Duo | 13615 | [13615-dynamic-duo.json](./13615-dynamic-duo.json) |
 | Dynamic Gin | 83699 | [83699-dynamic-gin.json](./83699-dynamic-gin.json) |
 | Dynamic Shooting VR | 294919 | [294919-dynamic-shooting-vr.json](./294919-dynamic-shooting-vr.json) |
+| Dynamic Ski | 40304 | [40304-dynamic-ski.json](./40304-dynamic-ski.json) |
 | Dynamite | 94260 | [94260-dynamite.json](./94260-dynamite.json) |
 | Dynamite 100 | 66951 | [66951-dynamite-100.json](./66951-dynamite-100.json) |
 | Dynamite Alex | 31343 | [31343-dynamite-alex.json](./31343-dynamite-alex.json) |
@@ -20082,6 +20093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynamite Headdy Classic | 99292 | [99292-dynamite-headdy-classic.json](./99292-dynamite-headdy-classic.json) |
 | Dynamite It! | 297087 | [297087-dynamite-it.json](./297087-dynamite-it.json) |
 | Dynamite Joe | 300545 | [300545-dynamite-joe.json](./300545-dynamite-joe.json) |
+| Dynamite League | 40303 | [40303-dynamite-league.json](./40303-dynamite-league.json) |
 | Dynamite Slugger | 43999 | [43999-dynamite-slugger.json](./43999-dynamite-slugger.json) |
 | Dynamite Soccer 2000 | 61336 | [61336-dynamite-soccer-2000.json](./61336-dynamite-soccer-2000.json) |
 | Dynamite Soccer 2002 | 61340 | [61340-dynamite-soccer-2002.json](./61340-dynamite-soccer-2002.json) |
