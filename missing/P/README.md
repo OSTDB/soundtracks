@@ -1350,6 +1350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic Party | 183675 | [183675-panic-party.json](./183675-panic-party.json) |
 | Panic Porcupine | 197510 | [197510-panic-porcupine.json](./197510-panic-porcupine.json) |
 | Panic Protocol | 390769 | [390769-panic-protocol.json](./390769-panic-protocol.json) |
+| Panic Pump - Can you save them ALL? | 76069 | [76069-panic-pump-can-you-save-them-all.json](./76069-panic-pump-can-you-save-them-all.json) |
 | Panic Road | 268003 | [268003-panic-road.json](./268003-panic-road.json) |
 | Panic Road | 317019 | [317019-panic-road.json](./317019-panic-road.json) |
 | Panic Sell | 363132 | [363132-panic-sell.json](./363132-panic-sell.json) |
@@ -2808,6 +2809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pascal's Wager: The Tides of Oblivion | 139084 | [139084-pascals-wager-the-tides-of-oblivion.json](./139084-pascals-wager-the-tides-of-oblivion.json) |
 | Pasha Planet: Reborn | 234186 | [234186-pasha-planet-reborn.json](./234186-pasha-planet-reborn.json) |
 | Pashah to Henshin: Beauty Academy | 327622 | [327622-pashah-to-henshin-beauty-academy.json](./327622-pashah-to-henshin-beauty-academy.json) |
+| Pashamon | 76072 | [76072-pashamon.json](./76072-pashamon.json) |
 | Pashtet | 113705 | [113705-pashtet.json](./113705-pashtet.json) |
 | Paska Battle Style! | 111885 | [111885-paska-battle-style.json](./111885-paska-battle-style.json) |
 | Paskahousu | 402694 | [402694-paskahousu.json](./402694-paskahousu.json) |
@@ -3033,6 +3035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Exile: The Awakening | 75570 | [75570-path-of-exile-the-awakening.json](./75570-path-of-exile-the-awakening.json) |
 | Path of Exile: The Fall of Oriath | 51543 | [51543-path-of-exile-the-fall-of-oriath.json](./51543-path-of-exile-the-fall-of-oriath.json) |
 | Path of Exile: Trial of the Ancestors | 262570 | [262570-path-of-exile-trial-of-the-ancestors.json](./262570-path-of-exile-trial-of-the-ancestors.json) |
+| Path of Exile: War for the Atlas | 76101 | [76101-path-of-exile-war-for-the-atlas.json](./76101-path-of-exile-war-for-the-atlas.json) |
 | Path of Exile: War for the Atlas Bundle | 83765 | [83765-path-of-exile-war-for-the-atlas-bundle.json](./83765-path-of-exile-war-for-the-atlas-bundle.json) |
 | Path of Exile: Warlord of the Karui Supporter Pack | 332082 | [332082-path-of-exile-warlord-of-the-karui-supporter-pack.json](./332082-path-of-exile-warlord-of-the-karui-supporter-pack.json) |
 | Path of Fury: Episode I - Tetsuo's Tower | 335484 | [335484-path-of-fury-episode-i-tetsuos-tower.json](./335484-path-of-fury-episode-i-tetsuos-tower.json) |
@@ -7922,6 +7925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates Pinball | 115058 | [115058-pirates-pinball.json](./115058-pirates-pinball.json) |
 | Pirates Plundarrr | 50728 | [50728-pirates-plundarrr.json](./50728-pirates-plundarrr.json) |
 | Pirates Republic | 235942 | [235942-pirates-republic.json](./235942-pirates-republic.json) |
+| Pirates Sea Journey | 76087 | [76087-pirates-sea-journey.json](./76087-pirates-sea-journey.json) |
 | Pirates Slayer | 336666 | [336666-pirates-slayer.json](./336666-pirates-slayer.json) |
 | Pirates Things | 204118 | [204118-pirates-things.json](./204118-pirates-things.json) |
 | Pirates Treasure II | 128312 | [128312-pirates-treasure-ii.json](./128312-pirates-treasure-ii.json) |
@@ -10224,6 +10228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayTribes | 59443 | [59443-playtribes.json](./59443-playtribes.json) |
 | Playtris | 201991 | [201991-playtris.json](./201991-playtris.json) |
 | Playtron | 56155 | [56155-playtron.json](./56155-playtron.json) |
+| PlayUSA | 76073 | [76073-playusa.json](./76073-playusa.json) |
 | PlayVille | 366253 | [366253-playville.json](./366253-playville.json) |
 | PlayWith | 208544 | [208544-playwith.json](./208544-playwith.json) |
 | Playworld Superheroes | 23230 | [23230-playworld-superheroes.json](./23230-playworld-superheroes.json) |
