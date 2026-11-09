@@ -1839,6 +1839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tangled Slug | 374152 | [374152-tangled-slug.json](./374152-tangled-slug.json) |
 | Tangled Snakes | 266268 | [266268-tangled-snakes.json](./266268-tangled-snakes.json) |
 | Tangled Tales | 74328 | [74328-tangled-tales.json](./74328-tangled-tales.json) |
+| Tangled Up! | 32040 | [32040-tangled-up.json](./32040-tangled-up.json) |
 | Tangled Words | 374157 | [374157-tangled-words.json](./374157-tangled-words.json) |
 | Tangledeep: Dawn of Dragons | 154499 | [154499-tangledeep-dawn-of-dragons.json](./154499-tangledeep-dawn-of-dragons.json) |
 | Tangledeep: Legend of Shara | 117143 | [117143-tangledeep-legend-of-shara.json](./117143-tangledeep-legend-of-shara.json) |
@@ -1972,6 +1973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tank Guards | 169541 | [169541-tank-guards.json](./169541-tank-guards.json) |
 | Tank Hangar Simulator | 193636 | [193636-tank-hangar-simulator.json](./193636-tank-hangar-simulator.json) |
 | Tank Hero | 104279 | [104279-tank-hero.json](./104279-tank-hero.json) |
+| Tank Hero VR | 32007 | [32007-tank-hero-vr.json](./32007-tank-hero-vr.json) |
 | Tank Hero: Awesome Tank War g | 231885 | [231885-tank-hero-awesome-tank-war-g.json](./231885-tank-hero-awesome-tank-war-g.json) |
 | Tank Hero: Laser Wars | 101491 | [101491-tank-hero-laser-wars.json](./101491-tank-hero-laser-wars.json) |
 | Tank Hunter | 311167 | [311167-tank-hunter.json](./311167-tank-hunter.json) |
@@ -5901,6 +5903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Agency of Anomalies: Cinderstone Orphanage - Collector's Edition | 30419 | [30419-the-agency-of-anomalies-cinderstone-orphanage-collectors-edition.json](./30419-the-agency-of-anomalies-cinderstone-orphanage-collectors-edition.json) |
 | The Agency of Anomalies: Mind Invasion | 58043 | [58043-the-agency-of-anomalies-mind-invasion.json](./58043-the-agency-of-anomalies-mind-invasion.json) |
 | The Agency of Anomalies: Mystic Hospital | 58045 | [58045-the-agency-of-anomalies-mystic-hospital.json](./58045-the-agency-of-anomalies-mystic-hospital.json) |
+| The Agency of Anomalies: Mystic Hospital - Collector's Edition | 32015 | [32015-the-agency-of-anomalies-mystic-hospital-collectors-edition.json](./32015-the-agency-of-anomalies-mystic-hospital-collectors-edition.json) |
 | The Agency of Anomalies: The Last Performance | 58046 | [58046-the-agency-of-anomalies-the-last-performance.json](./58046-the-agency-of-anomalies-the-last-performance.json) |
 | The Agency: Chapter 1 | 32353 | [32353-the-agency-chapter-1.json](./32353-the-agency-chapter-1.json) |
 | The Agency: Chapter 2 | 87939 | [87939-the-agency-chapter-2.json](./87939-the-agency-chapter-2.json) |
@@ -14516,6 +14519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mulldoon Murders | 60029 | [60029-the-mulldoon-murders.json](./60029-the-mulldoon-murders.json) |
 | The Muller-Powell Principle | 223374 | [223374-the-muller-powell-principle.json](./223374-the-muller-powell-principle.json) |
 | The Multi-Medium | 216996 | [216996-the-multi-medium.json](./216996-the-multi-medium.json) |
+| The Multidimensional Underwear Drawer | 32047 | [32047-the-multidimensional-underwear-drawer.json](./32047-the-multidimensional-underwear-drawer.json) |
 | The Multiverse Cleaner | 253475 | [253475-the-multiverse-cleaner.json](./253475-the-multiverse-cleaner.json) |
 | The Multiverse Trilogy | 289978 | [289978-the-multiverse-trilogy.json](./289978-the-multiverse-trilogy.json) |
 | The Mummy | 140987 | [140987-the-mummy.json](./140987-the-mummy.json) |
@@ -26650,6 +26654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torc: Legend Of The Ogre Crown | 362968 | [362968-torc-legend-of-the-ogre-crown.json](./362968-torc-legend-of-the-ogre-crown.json) |
 | Torch | 232977 | [232977-torch.json](./232977-torch.json) |
 | Torch 2081 | 86047 | [86047-torch-2081.json](./86047-torch-2081.json) |
+| Torch Cave | 32060 | [32060-torch-cave.json](./32060-torch-cave.json) |
 | Torch Cave 2 | 31086 | [31086-torch-cave-2.json](./31086-torch-cave-2.json) |
 | Torch Cave 2: The Trail of Ashes | 263317 | [263317-torch-cave-2-the-trail-of-ashes.json](./263317-torch-cave-2-the-trail-of-ashes.json) |
 | Torch Cave 3 | 43542 | [43542-torch-cave-3.json](./43542-torch-cave-3.json) |
