@@ -776,6 +776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taisen IQ | 198203 | [198203-taisen-iq.json](./198203-taisen-iq.json) |
 | Taisen IQ + | 198204 | [198204-taisen-iq.json](./198204-taisen-iq.json) |
 | Taisen Mahjong | 198202 | [198202-taisen-mahjong.json](./198202-taisen-mahjong.json) |
+| Taisen Mahjong Haopai | 46295 | [46295-taisen-mahjong-haopai.json](./46295-taisen-mahjong-haopai.json) |
 | Taisen Net Gimmick: Capcom & Psikyo All Stars | 79738 | [79738-taisen-net-gimmick-capcom-and-psikyo-all-stars.json](./79738-taisen-net-gimmick-capcom-and-psikyo-all-stars.json) |
 | Taisen Panic Bomber | 198031 | [198031-taisen-panic-bomber.json](./198031-taisen-panic-bomber.json) |
 | Taisen Panic Bomber + | 198205 | [198205-taisen-panic-bomber.json](./198205-taisen-panic-bomber.json) |
@@ -1667,6 +1668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Talystro | 334352 | [334352-talystro.json](./334352-talystro.json) |
 | Tam Duke | 273213 | [273213-tam-duke.json](./273213-tam-duke.json) |
 | Tama & Friends: 3-choume Daibouken | 41332 | [41332-tama-and-friends-3-choume-daibouken.json](./41332-tama-and-friends-3-choume-daibouken.json) |
+| Tama & Friends: 3-choume Kouen Tamalympic | 46306 | [46306-tama-and-friends-3-choume-kouen-tamalympic.json](./46306-tama-and-friends-3-choume-kouen-tamalympic.json) |
 | Tama & Friends: 3-match Puzzle | 276327 | [276327-tama-and-friends-3-match-puzzle.json](./276327-tama-and-friends-3-match-puzzle.json) |
 | Tama and Friends: 3-choume ha Oosawagi | 218270 | [218270-tama-and-friends-3-choume-ha-oosawagi.json](./218270-tama-and-friends-3-choume-ha-oosawagi.json) |
 | Tama and Friends: Kankeri Hajimeru yo! | 218298 | [218298-tama-and-friends-kankeri-hajimeru-yo.json](./218298-tama-and-friends-kankeri-hajimeru-yo.json) |
@@ -11722,6 +11724,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The JerryMaya Detective Agency | 330249 | [330249-the-jerrymaya-detective-agency.json](./330249-the-jerrymaya-detective-agency.json) |
 | The Jester | 337014 | [337014-the-jester.json](./337014-the-jester.json) |
 | The Jester's Revenge | 289993 | [289993-the-jesters-revenge.json](./289993-the-jesters-revenge.json) |
+| The Jetsons in By George, in Trouble Again | 46709 | [46709-the-jetsons-in-by-george-in-trouble-again.json](./46709-the-jetsons-in-by-george-in-trouble-again.json) |
 | The Jetsons: Cogswell's Caper | 48153 | [48153-the-jetsons-cogswells-caper.json](./48153-the-jetsons-cogswells-caper.json) |
 | The Jetsons: Invasion of the Planet Pirates | 42511 | [42511-the-jetsons-invasion-of-the-planet-pirates.json](./42511-the-jetsons-invasion-of-the-planet-pirates.json) |
 | The Jetsons: Space Race | 263937 | [263937-the-jetsons-space-race.json](./263937-the-jetsons-space-race.json) |
@@ -18703,6 +18706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tree | 192232 | [192232-the-tree.json](./192232-the-tree.json) |
 | The Tree of Immortality | 310290 | [310290-the-tree-of-immortality.json](./310290-the-tree-of-immortality.json) |
 | The Tree Of Life | 295248 | [295248-the-tree-of-life.json](./295248-the-tree-of-life.json) |
+| The Treehouse | 46708 | [46708-the-treehouse.json](./46708-the-treehouse.json) |
 | The Treehouse Man | 102317 | [102317-the-treehouse-man.json](./102317-the-treehouse-man.json) |
 | The Treflik Family | 241180 | [241180-the-treflik-family.json](./241180-the-treflik-family.json) |
 | The Treflik Family: Deluxe Edition | 246883 | [246883-the-treflik-family-deluxe-edition.json](./246883-the-treflik-family-deluxe-edition.json) |
@@ -23826,6 +23830,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Time Travelling Navy Seal Ninja Warrior | 119821 | [119821-time-travelling-navy-seal-ninja-warrior.json](./119821-time-travelling-navy-seal-ninja-warrior.json) |
 | Time Travelling Space Pirates | 176296 | [176296-time-travelling-space-pirates.json](./176296-time-travelling-space-pirates.json) |
 | Time Trax | 28484 | [28484-time-trax.json](./28484-time-trax.json) |
+| Time Trax | 46678 | [46678-time-trax.json](./46678-time-trax.json) |
 | Time Treker | 283056 | [283056-time-treker.json](./283056-time-treker.json) |
 | Time Trials | 310788 | [310788-time-trials.json](./310788-time-trials.json) |
 | Time Trio | 358840 | [358840-time-trio.json](./358840-time-trio.json) |
@@ -25777,6 +25782,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom Clancy's The Division: Sleeper Agent Edition | 103382 | [103382-tom-clancys-the-division-sleeper-agent-edition.json](./103382-tom-clancys-the-division-sleeper-agent-edition.json) |
 | Tom Clancy's The Division: Survival | 19551 | [19551-tom-clancys-the-division-survival.json](./19551-tom-clancys-the-division-survival.json) |
 | Tom Clancy's The Division: Underground | 19540 | [19540-tom-clancys-the-division-underground.json](./19540-tom-clancys-the-division-underground.json) |
+| Tom Clown | 46676 | [46676-tom-clown.json](./46676-tom-clown.json) |
 | Tom Cruise's Kissing History | 317036 | [317036-tom-cruises-kissing-history.json](./317036-tom-cruises-kissing-history.json) |
 | Tom Dahl | 369151 | [369151-tom-dahl.json](./369151-tom-dahl.json) |
 | Tom Hanks is in: Jeopardy! | 320123 | [320123-tom-hanks-is-in-jeopardy.json](./320123-tom-hanks-is-in-jeopardy.json) |
@@ -30734,6 +30740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trampled Flower | 281812 | [281812-trampled-flower.json](./281812-trampled-flower.json) |
 | Trampoline | 172661 | [172661-trampoline.json](./172661-trampoline.json) |
 | Trampoline | 359196 | [359196-trampoline.json](./359196-trampoline.json) |
+| Trampoline Terror! | 46689 | [46689-trampoline-terror.json](./46689-trampoline-terror.json) |
 | TramSim Munich | 165382 | [165382-tramsim-munich.json](./165382-tramsim-munich.json) |
 | TramSim Vienna | 140471 | [140471-tramsim-vienna.json](./140471-tramsim-vienna.json) |
 | Trance | 187267 | [187267-trance.json](./187267-trance.json) |
@@ -34229,6 +34236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Twin Cobra | 384136 | [384136-twin-cobra.json](./384136-twin-cobra.json) |
 | Twin Cobra | 8189 | [8189-twin-cobra.json](./8189-twin-cobra.json) |
 | Twin Cobra II | 39297 | [39297-twin-cobra-ii.json](./39297-twin-cobra-ii.json) |
+| Twin Cobra: Desert Attack Helicopter | 46688 | [46688-twin-cobra-desert-attack-helicopter.json](./46688-twin-cobra-desert-attack-helicopter.json) |
 | Twin Colliders | 339058 | [339058-twin-colliders.json](./339058-twin-colliders.json) |
 | Twin Copters | 287567 | [287567-twin-copters.json](./287567-twin-copters.json) |
 | Twin Cores | 212010 | [212010-twin-cores.json](./212010-twin-cores.json) |
