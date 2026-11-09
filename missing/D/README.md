@@ -5301,6 +5301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deckarium | 318872 | [318872-deckarium.json](./318872-deckarium.json) |
 | Deckbane | 347782 | [347782-deckbane.json](./347782-deckbane.json) |
 | Deckbound | 423873 | [423873-deckbound.json](./423873-deckbound.json) |
+| Deckbound Heroes | 27146 | [27146-deckbound-heroes.json](./27146-deckbound-heroes.json) |
 | Deckbound Quest | 58645 | [58645-deckbound-quest.json](./58645-deckbound-quest.json) |
 | Deckbuilder Fantasy | 277742 | [277742-deckbuilder-fantasy.json](./277742-deckbuilder-fantasy.json) |
 | Deckbuilder Fantasy: Elvenglade | 292767 | [292767-deckbuilder-fantasy-elvenglade.json](./292767-deckbuilder-fantasy-elvenglade.json) |
@@ -6880,6 +6881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon's Rise 2 | 100872 | [100872-demons-rise-2.json](./100872-demons-rise-2.json) |
 | Demon's Rise 2: Lords of Chaos | 104107 | [104107-demons-rise-2-lords-of-chaos.json](./104107-demons-rise-2-lords-of-chaos.json) |
 | Demon's Rise: War for the Deep | 99656 | [99656-demons-rise-war-for-the-deep.json](./99656-demons-rise-war-for-the-deep.json) |
+| Demon's Score | 27148 | [27148-demons-score.json](./27148-demons-score.json) |
 | Demon's Souls: Black Phantom Edition | 23363 | [23363-demons-souls-black-phantom-edition.json](./23363-demons-souls-black-phantom-edition.json) |
 | Demon's Souls: Boletarian Royalty Armor | 344308 | [344308-demons-souls-boletarian-royalty-armor.json](./344308-demons-souls-boletarian-royalty-armor.json) |
 | Demon's Souls: Deluxe Edition | 43010 | [43010-demons-souls-deluxe-edition.json](./43010-demons-souls-deluxe-edition.json) |
@@ -13528,6 +13530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doodle Empires | 336893 | [336893-doodle-empires.json](./336893-doodle-empires.json) |
 | Doodle Escape | 338011 | [338011-doodle-escape.json](./338011-doodle-escape.json) |
 | Doodle Factory | 295801 | [295801-doodle-factory.json](./295801-doodle-factory.json) |
+| Doodle Farm | 27149 | [27149-doodle-farm.json](./27149-doodle-farm.json) |
 | Doodle Farm: Breeds and Beasts | 375303 | [375303-doodle-farm-breeds-and-beasts.json](./375303-doodle-farm-breeds-and-beasts.json) |
 | Doodle Fit | 42828 | [42828-doodle-fit.json](./42828-doodle-fit.json) |
 | Doodle Fit Hell-O-Ween | 214555 | [214555-doodle-fit-hell-o-ween.json](./214555-doodle-fit-hell-o-ween.json) |
