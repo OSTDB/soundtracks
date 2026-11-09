@@ -993,7 +993,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3945,6 +3944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Nation | 419104 | [419104-battle-nation.json](./419104-battle-nation.json) |
 | Battle Nations | 50387 | [50387-battle-nations.json](./50387-battle-nations.json) |
 | Battle Night | 228434 | [228434-battle-night.json](./228434-battle-night.json) |
+| Battle Odyssey | 58919 | [58919-battle-odyssey.json](./58919-battle-odyssey.json) |
 | Battle of 2048: Fantasy Edition | 234350 | [234350-battle-of-2048-fantasy-edition.json](./234350-battle-of-2048-fantasy-edition.json) |
 | Battle of Angels | 137681 | [137681-battle-of-angels.json](./137681-battle-of-angels.json) |
 | Battle of Antietam | 26261 | [26261-battle-of-antietam.json](./26261-battle-of-antietam.json) |
@@ -12335,6 +12335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boat House | 313352 | [313352-boat-house.json](./313352-boat-house.json) |
 | Boat Party | 258402 | [258402-boat-party.json](./258402-boat-party.json) |
 | Boat Prom | 141015 | [141015-boat-prom.json](./141015-boat-prom.json) |
+| Boat Race GP | 58380 | [58380-boat-race-gp.json](./58380-boat-race-gp.json) |
 | Boat Race Teiou | 199964 | [199964-boat-race-teiou.json](./199964-boat-race-teiou.json) |
 | Boat Racer | 367594 | [367594-boat-racer.json](./367594-boat-racer.json) |
 | Boat Racing 3D: Top Water Craft Speed Game | 98842 | [98842-boat-racing-3d-top-water-craft-speed-game.json](./98842-boat-racing-3d-top-water-craft-speed-game.json) |
