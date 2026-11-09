@@ -8642,6 +8642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grave Spirit | 230215 | [230215-grave-spirit.json](./230215-grave-spirit.json) |
 | Grave Stakes | 365721 | [365721-grave-stakes.json](./365721-grave-stakes.json) |
 | Grave Tower | 126550 | [126550-grave-tower.json](./126550-grave-tower.json) |
+| Grave VR | 31326 | [31326-grave-vr.json](./31326-grave-vr.json) |
 | Grave Yardage | 94545 | [94545-grave-yardage.json](./94545-grave-yardage.json) |
 | Grave-Queen | 219806 | [219806-grave-queen.json](./219806-grave-queen.json) |
 | Graveball | 26169 | [26169-graveball.json](./26169-graveball.json) |
@@ -9746,6 +9747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Tales: Light in the Darkness - Collector's Edition | 362838 | [362838-grim-tales-light-in-the-darkness-collectors-edition.json](./362838-grim-tales-light-in-the-darkness-collectors-edition.json) |
 | Grim Tales: Prisoners of the Past - Collector's Edition | 360335 | [360335-grim-tales-prisoners-of-the-past-collectors-edition.json](./360335-grim-tales-prisoners-of-the-past-collectors-edition.json) |
 | Grim Tales: The Bride | 79616 | [79616-grim-tales-the-bride.json](./79616-grim-tales-the-bride.json) |
+| Grim Tales: The Bride - Collector's Edition | 31333 | [31333-grim-tales-the-bride-collectors-edition.json](./31333-grim-tales-the-bride-collectors-edition.json) |
 | Grim Tales: The Cursed Bloodline | 416494 | [416494-grim-tales-the-cursed-bloodline.json](./416494-grim-tales-the-cursed-bloodline.json) |
 | Grim Tales: The Final Suspect | 83183 | [83183-grim-tales-the-final-suspect.json](./83183-grim-tales-the-final-suspect.json) |
 | Grim Tales: The Final Suspect - Collector's Edition | 151438 | [151438-grim-tales-the-final-suspect-collectors-edition.json](./151438-grim-tales-the-final-suspect-collectors-edition.json) |
@@ -11512,6 +11514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunners Heart | 54072 | [54072-gunners-heart.json](./54072-gunners-heart.json) |
 | Gunnheim | 20207 | [20207-gunnheim.json](./20207-gunnheim.json) |
 | Gunnhildr | 141072 | [141072-gunnhildr.json](./141072-gunnhildr.json) |
+| Gunnihilation | 32010 | [32010-gunnihilation.json](./32010-gunnihilation.json) |
 | Gunning Over It! | 212117 | [212117-gunning-over-it.json](./212117-gunning-over-it.json) |
 | Gunnm Martian Memory | 23152 | [23152-gunnm-martian-memory.json](./23152-gunnm-martian-memory.json) |
 | GunnRunner | 117063 | [117063-gunnrunner.json](./117063-gunnrunner.json) |
