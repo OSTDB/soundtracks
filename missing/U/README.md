@@ -3537,6 +3537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uriel's Chasm 3: Gelshock | 116704 | [116704-uriels-chasm-3-gelshock.json](./116704-uriels-chasm-3-gelshock.json) |
 | Urinary Samus | 343367 | [343367-urinary-samus.json](./343367-urinary-samus.json) |
 | Urizen Frosty Plus the New Warriors | 169828 | [169828-urizen-frosty-plus-the-new-warriors.json](./169828-urizen-frosty-plus-the-new-warriors.json) |
+| Urizen Shadows of the Cold | 34574 | [34574-urizen-shadows-of-the-cold.json](./34574-urizen-shadows-of-the-cold.json) |
 | Urja | 36064 | [36064-urja.json](./36064-urja.json) |
 | Urkon Online | 133650 | [133650-urkon-online.json](./133650-urkon-online.json) |
 | URLate | 334424 | [334424-urlate.json](./334424-urlate.json) |
