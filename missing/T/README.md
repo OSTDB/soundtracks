@@ -7887,6 +7887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cow Flew Over the Moon | 8368 | [8368-the-cow-flew-over-the-moon.json](./8368-the-cow-flew-over-the-moon.json) |
 | The Cow Game | 189022 | [189022-the-cow-game.json](./189022-the-cow-game.json) |
 | The Cow Quiz | 217914 | [217914-the-cow-quiz.json](./217914-the-cow-quiz.json) |
+| The Cows Are Watching | 30313 | [30313-the-cows-are-watching.json](./30313-the-cows-are-watching.json) |
 | The Cozy Garden of Forgotten Dreams | 347303 | [347303-the-cozy-garden-of-forgotten-dreams.json](./347303-the-cozy-garden-of-forgotten-dreams.json) |
 | The Crab-Hat | 421813 | [421813-the-crab-hat.json](./421813-the-crab-hat.json) |
 | The Crack of Doom | 70056 | [70056-the-crack-of-doom.json](./70056-the-crack-of-doom.json) |
@@ -17625,6 +17626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spirit of the Samurai | 226037 | [226037-the-spirit-of-the-samurai.json](./226037-the-spirit-of-the-samurai.json) |
 | The Spirit of Twelve | 89820 | [89820-the-spirit-of-twelve.json](./89820-the-spirit-of-twelve.json) |
 | The Spirit Stone | 237576 | [237576-the-spirit-stone.json](./237576-the-spirit-stone.json) |
+| The Spirit Underneath | 30347 | [30347-the-spirit-underneath.json](./30347-the-spirit-underneath.json) |
 | The Spirit Weaver | 361072 | [361072-the-spirit-weaver.json](./361072-the-spirit-weaver.json) |
 | The Spirit's Turnabout | 308532 | [308532-the-spirits-turnabout.json](./308532-the-spirits-turnabout.json) |
 | The Spiriting Away of Saooni Village | 373094 | [373094-the-spiriting-away-of-saooni-village.json](./373094-the-spiriting-away-of-saooni-village.json) |
@@ -19769,6 +19771,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wizards Arena | 348760 | [348760-the-wizards-arena.json](./348760-the-wizards-arena.json) |
 | The Wizards of Trinity Bellwoods | 58265 | [58265-the-wizards-of-trinity-bellwoods.json](./58265-the-wizards-of-trinity-bellwoods.json) |
 | The Wizards Pet | 108955 | [108955-the-wizards-pet.json](./108955-the-wizards-pet.json) |
+| The Wizards Who Fell In A Hole | 30324 | [30324-the-wizards-who-fell-in-a-hole.json](./30324-the-wizards-who-fell-in-a-hole.json) |
 | The Wizards: Dark Times | 119331 | [119331-the-wizards-dark-times.json](./119331-the-wizards-dark-times.json) |
 | The Wizards: Dark Times - Brotherhood | 288172 | [288172-the-wizards-dark-times-brotherhood.json](./288172-the-wizards-dark-times-brotherhood.json) |
 | The Wizards: Enhanced Edition | 116134 | [116134-the-wizards-enhanced-edition.json](./116134-the-wizards-enhanced-edition.json) |
@@ -24448,6 +24451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Terrors | 375205 | [375205-tiny-terrors.json](./375205-tiny-terrors.json) |
 | Tiny the Mole | 322539 | [322539-tiny-the-mole.json](./322539-tiny-the-mole.json) |
 | Tiny Thor | 28295 | [28295-tiny-thor.json](./28295-tiny-thor.json) |
+| Tiny Thor's Revenge | 30970 | [30970-tiny-thors-revenge.json](./30970-tiny-thors-revenge.json) |
 | Tiny Tied | 244843 | [244843-tiny-tied.json](./244843-tiny-tied.json) |
 | Tiny Tiles | 205195 | [205195-tiny-tiles.json](./205195-tiny-tiles.json) |
 | Tiny Tim | 312272 | [312272-tiny-tim.json](./312272-tiny-tim.json) |
@@ -31989,6 +31993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tricks of Light in the Forest | 312873 | [312873-tricks-of-light-in-the-forest.json](./312873-tricks-of-light-in-the-forest.json) |
 | Tricks, Treats and Mirrors: An EoG Side Story | 348126 | [348126-tricks-treats-and-mirrors-an-eog-side-story.json](./348126-tricks-treats-and-mirrors-an-eog-side-story.json) |
 | Trickshot | 206667 | [206667-trickshot.json](./206667-trickshot.json) |
+| Trickshot | 31008 | [31008-trickshot.json](./31008-trickshot.json) |
 | TrickShot | 147406 | [147406-trickshot.json](./147406-trickshot.json) |
 | Trickshot League | 138504 | [138504-trickshot-league.json](./138504-trickshot-league.json) |
 | TrickShot Simulator | 324610 | [324610-trickshot-simulator.json](./324610-trickshot-simulator.json) |
@@ -32066,6 +32071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tridevyatye zemli (Svet ili t'ma) | 101262 | [101262-tridevyatye-zemli-svet-ili-tma.json](./101262-tridevyatye-zemli-svet-ili-tma.json) |
 | Tridle | 228715 | [228715-tridle.json](./228715-tridle.json) |
 | Tridonis | 62749 | [62749-tridonis.json](./62749-tridonis.json) |
+| Triennale Game Collection | 31030 | [31030-triennale-game-collection.json](./31030-triennale-game-collection.json) |
 | Triennale Game Collection Vol. 2 | 207027 | [207027-triennale-game-collection-vol-2.json](./207027-triennale-game-collection-vol-2.json) |
 | Trientank | 322403 | [322403-trientank.json](./322403-trientank.json) |
 | Trif | 131085 | [131085-trif.json](./131085-trif.json) |
@@ -33838,6 +33844,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turf Wars | 54639 | [54639-turf-wars.json](./54639-turf-wars.json) |
 | Turf Wars: A Snail Escape | 207723 | [207723-turf-wars-a-snail-escape.json](./207723-turf-wars-a-snail-escape.json) |
 | Turgor Pressure | 177318 | [177318-turgor-pressure.json](./177318-turgor-pressure.json) |
+| Turgul: Rapid Fighting | 31028 | [31028-turgul-rapid-fighting.json](./31028-turgul-rapid-fighting.json) |
 | Turi: Kaapora | 255483 | [255483-turi-kaapora.json](./255483-turi-kaapora.json) |
 | Turing Quest | 241142 | [241142-turing-quest.json](./241142-turing-quest.json) |
 | Turing Sandbox | 400448 | [400448-turing-sandbox.json](./400448-turing-sandbox.json) |
@@ -34138,6 +34145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TV Studio Story | 282014 | [282014-tv-studio-story.json](./282014-tv-studio-story.json) |
 | TV Thief | 190748 | [190748-tv-thief.json](./190748-tv-thief.json) |
 | TV Total Events | 50998 | [50998-tv-total-events.json](./50998-tv-total-events.json) |
+| TV Trouble | 31015 | [31015-tv-trouble.json](./31015-tv-trouble.json) |
 | TV Tycoon | 206630 | [206630-tv-tycoon.json](./206630-tv-tycoon.json) |
 | TV Vader | 250900 | [250900-tv-vader.json](./250900-tv-vader.json) |
 | TV Yarou Nanana: Get the Scoop! | 180992 | [180992-tv-yarou-nanana-get-the-scoop.json](./180992-tv-yarou-nanana-get-the-scoop.json) |
