@@ -4111,6 +4111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pen Pal Princess | 188942 | [188942-pen-pal-princess.json](./188942-pen-pal-princess.json) |
 | Pen Pals | 145020 | [145020-pen-pals.json](./145020-pen-pals.json) |
 | Pen Pals | 276038 | [276038-pen-pals.json](./276038-pen-pals.json) |
+| Pen Pen TriIcelon | 14708 | [14708-pen-pen-triicelon.json](./14708-pen-pen-triicelon.json) |
 | Pen Run | 108570 | [108570-pen-run.json](./108570-pen-run.json) |
 | Pen to Paper | 312299 | [312299-pen-to-paper.json](./312299-pen-to-paper.json) |
 | Pen-chan | 385718 | [385718-pen-chan.json](./385718-pen-chan.json) |
@@ -10124,6 +10125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Girls | 110611 | [110611-play-girls.json](./110611-play-girls.json) |
 | Play It Again Sam | 83374 | [83374-play-it-again-sam.json](./83374-play-it-again-sam.json) |
 | Play It Back | 364645 | [364645-play-it-back.json](./364645-play-it-back.json) |
+| Play Kittens | 14736 | [14736-play-kittens.json](./14736-play-kittens.json) |
 | Play Minigames with Reiko | 265771 | [265771-play-minigames-with-reiko.json](./265771-play-minigames-with-reiko.json) |
 | Play Nintendo: Paint-By-Number | 291049 | [291049-play-nintendo-paint-by-number.json](./291049-play-nintendo-paint-by-number.json) |
 | Play Nintendo: Puzzles | 291047 | [291047-play-nintendo-puzzles.json](./291047-play-nintendo-puzzles.json) |
@@ -15854,6 +15856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu: Family Stadium '90 | 218387 | [218387-pro-yakyuu-family-stadium-90.json](./218387-pro-yakyuu-family-stadium-90.json) |
 | Pro Yakyuu: Famista Online 2010 | 218396 | [218396-pro-yakyuu-famista-online-2010.json](./218396-pro-yakyuu-famista-online-2010.json) |
 | Pro Yakyuu: Greatest Nine 98 | 275140 | [275140-pro-yakyuu-greatest-nine-98.json](./275140-pro-yakyuu-greatest-nine-98.json) |
+| Pro Zombie Soccer | 14715 | [14715-pro-zombie-soccer.json](./14715-pro-zombie-soccer.json) |
 | Pro Zombie Soccer AE | 90347 | [90347-pro-zombie-soccer-ae.json](./90347-pro-zombie-soccer-ae.json) |
 | Pro-Am 64 | 279439 | [279439-pro-am-64.json](./279439-pro-am-64.json) |
 | Pro-Logic Mah-Jong Hai-Shin | 290976 | [290976-pro-logic-mah-jong-hai-shin.json](./290976-pro-logic-mah-jong-hai-shin.json) |
