@@ -6484,6 +6484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Witch & Hero 2 | 21925 | [21925-witch-and-hero-2.json](./21925-witch-and-hero-2.json) |
 | Witch & Hero III | 68449 | [68449-witch-and-hero-iii.json](./68449-witch-and-hero-iii.json) |
 | Witch & Lilies | 222784 | [222784-witch-and-lilies.json](./222784-witch-and-lilies.json) |
+| Witch Academy: Match 3 | 63428 | [63428-witch-academy-match-3.json](./63428-witch-academy-match-3.json) |
 | Witch Amelia | 219670 | [219670-witch-amelia.json](./219670-witch-amelia.json) |
 | Witch and Council | 191981 | [191981-witch-and-council.json](./191981-witch-and-council.json) |
 | Witch and Spirit | 149909 | [149909-witch-and-spirit.json](./149909-witch-and-spirit.json) |
