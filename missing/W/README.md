@@ -4441,6 +4441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where's My Phone?! | 149863 | [149863-wheres-my-phone.json](./149863-wheres-my-phone.json) |
 | Where's My Tripod? | 180801 | [180801-wheres-my-tripod.json](./180801-wheres-my-tripod.json) |
 | Where's My Water? | 13460 | [13460-wheres-my-water.json](./13460-wheres-my-water.json) |
+| Where's My Water? Featuring XYY | 61758 | [61758-wheres-my-water-featuring-xyy.json](./61758-wheres-my-water-featuring-xyy.json) |
 | Where's My What? | 31201 | [31201-wheres-my-what.json](./31201-wheres-my-what.json) |
 | Where's Oswald? | 207124 | [207124-wheres-oswald.json](./207124-wheres-oswald.json) |
 | Where's Our Ouis? | 408927 | [408927-wheres-our-ouis.json](./408927-wheres-our-ouis.json) |
@@ -5810,6 +5811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind Up! | 152785 | [152785-wind-up.json](./152785-wind-up.json) |
 | Wind Wind | 149169 | [149169-wind-wind.json](./149169-wind-wind.json) |
 | Wind-Up Knight | 65528 | [65528-wind-up-knight.json](./65528-wind-up-knight.json) |
+| Wind-up Knight 2 | 61757 | [61757-wind-up-knight-2.json](./61757-wind-up-knight-2.json) |
 | Wind-Up Maze HD | 232497 | [232497-wind-up-maze-hd.json](./232497-wind-up-maze-hd.json) |
 | Wind: A Breath of Heart | 161174 | [161174-wind-a-breath-of-heart.json](./161174-wind-a-breath-of-heart.json) |
 | Wind: A Journey to the Sky | 249061 | [249061-wind-a-journey-to-the-sky.json](./249061-wind-a-journey-to-the-sky.json) |
@@ -8131,6 +8133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Beach Volley | 40547 | [40547-world-beach-volley.json](./40547-world-beach-volley.json) |
 | World Beach Volley: 1992 GB Cup | 117961 | [117961-world-beach-volley-1992-gb-cup.json](./117961-world-beach-volley-1992-gb-cup.json) |
 | World Beast War | 138230 | [138230-world-beast-war.json](./138230-world-beast-war.json) |
+| World Billiards Tournament: Break Nine | 61750 | [61750-world-billiards-tournament-break-nine.json](./61750-world-billiards-tournament-break-nine.json) |
 | World Boss | 189872 | [189872-world-boss.json](./189872-world-boss.json) |
 | World Bowling | 49005 | [49005-world-bowling.json](./49005-world-bowling.json) |
 | World Boxing | 48599 | [48599-world-boxing.json](./48599-world-boxing.json) |
