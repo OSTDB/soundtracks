@@ -196,6 +196,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daabiidoggu | 91683 | [91683-daabiidoggu.json](./91683-daabiidoggu.json) |
 | Daahrien's A.P.H.R.O.D.I.T.E. | 247673 | [247673-daahriens-a-p-h-r-o-d-i-t-e.json](./247673-daahriens-a-p-h-r-o-d-i-t-e.json) |
 | Daardoa | 151190 | [151190-daardoa.json](./151190-daardoa.json) |
+| Daath Origins | 24461 | [24461-daath-origins.json](./24461-daath-origins.json) |
 | Dab on 'em Haterz | 81781 | [81781-dab-on-em-haterz.json](./81781-dab-on-em-haterz.json) |
 | Dab on Darkness! | 157402 | [157402-dab-on-darkness.json](./157402-dab-on-darkness.json) |
 | Dab, Dance & Twerk | 83161 | [83161-dab-dance-and-twerk.json](./83161-dab-dance-and-twerk.json) |
@@ -9841,6 +9842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimensions 2 | 408955 | [408955-dimensions-2.json](./408955-dimensions-2.json) |
 | Dimensions of Mind | 328930 | [328930-dimensions-of-mind.json](./328930-dimensions-of-mind.json) |
 | Dimensions Puzzle | 163547 | [163547-dimensions-puzzle.json](./163547-dimensions-puzzle.json) |
+| DimensionsVS | 24442 | [24442-dimensionsvs.json](./24442-dimensionsvs.json) |
 | Dimensity | 16152 | [16152-dimensity.json](./16152-dimensity.json) |
 | Dimeo's Jukebox | 143033 | [143033-dimeos-jukebox.json](./143033-dimeos-jukebox.json) |
 | Dimetrosaur | 107403 | [107403-dimetrosaur.json](./107403-dimetrosaur.json) |
@@ -10369,6 +10371,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Bike Extreme | 87160 | [87160-dirt-bike-extreme.json](./87160-dirt-bike-extreme.json) |
 | Dirt Bike Extreme 3D | 330237 | [330237-dirt-bike-extreme-3d.json](./330237-dirt-bike-extreme-3d.json) |
 | Dirt Bike Insanity | 98688 | [98688-dirt-bike-insanity.json](./98688-dirt-bike-insanity.json) |
+| Dirt Bike Maniacs | 24422 | [24422-dirt-bike-maniacs.json](./24422-dirt-bike-maniacs.json) |
 | Dirt Bike Mini Racer | 370057 | [370057-dirt-bike-mini-racer.json](./370057-dirt-bike-mini-racer.json) |
 | Dirt Bike Motocross Stunts | 387009 | [387009-dirt-bike-motocross-stunts.json](./387009-dirt-bike-motocross-stunts.json) |
 | Dirt Bike Racer Simulator | 262848 | [262848-dirt-bike-racer-simulator.json](./262848-dirt-bike-racer-simulator.json) |
@@ -11289,6 +11292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissida Final Fantsy NT: Tifa Lockhart Starter Pack | 383762 | [383762-dissida-final-fantsy-nt-tifa-lockhart-starter-pack.json](./383762-dissida-final-fantsy-nt-tifa-lockhart-starter-pack.json) |
 | Dissidia 012 Final Fantasy | 24288 | [24288-dissidia-012-final-fantasy.json](./24288-dissidia-012-final-fantasy.json) |
 | Dissidia Duodecim Prologus: Final Fantasy | 41848 | [41848-dissidia-duodecim-prologus-final-fantasy.json](./41848-dissidia-duodecim-prologus-final-fantasy.json) |
+| Dissidia Final Fantasy Arcade | 24405 | [24405-dissidia-final-fantasy-arcade.json](./24405-dissidia-final-fantasy-arcade.json) |
 | Dissidia Final Fantasy NT: 3rd Appearance Special Set for Warrior of Light and Y'shtola | 224425 | [224425-dissidia-final-fantasy-nt-3rd-appearance-special-set-for-warrior-of-light-and-yshtola.json](./224425-dissidia-final-fantasy-nt-3rd-appearance-special-set-for-warrior-of-light-and-yshtola.json) |
 | Dissidia Final Fantasy NT: Kam'lanaut Starter Pack | 404522 | [404522-dissidia-final-fantasy-nt-kamlanaut-starter-pack.json](./404522-dissidia-final-fantasy-nt-kamlanaut-starter-pack.json) |
 | Dissidia Final Fantasy NT: Samurai App. Set & 5th Weapon for Bartz Klauser | 224427 | [224427-dissidia-final-fantasy-nt-samurai-app-set-and-5th-weapon-for-bartz-klauser.json](./224427-dissidia-final-fantasy-nt-samurai-app-set-and-5th-weapon-for-bartz-klauser.json) |
