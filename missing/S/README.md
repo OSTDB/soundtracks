@@ -324,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacred Adventure Group: Shining Stars | 181987 | [181987-sacred-adventure-group-shining-stars.json](./181987-sacred-adventure-group-shining-stars.json) |
 | Sacred Almanac Traces of Greed | 30915 | [30915-sacred-almanac-traces-of-greed.json](./30915-sacred-almanac-traces-of-greed.json) |
 | Sacred Blade | 53568 | [53568-sacred-blade.json](./53568-sacred-blade.json) |
+| Sacred Blaze | 69407 | [69407-sacred-blaze.json](./69407-sacred-blaze.json) |
 | Sacred Chasm: Silent Utopia | 297814 | [297814-sacred-chasm-silent-utopia.json](./297814-sacred-chasm-silent-utopia.json) |
 | Sacred Citadel | 15290 | [15290-sacred-citadel.json](./15290-sacred-citadel.json) |
 | Sacred Citadel: Jungle Hunt | 53569 | [53569-sacred-citadel-jungle-hunt.json](./53569-sacred-citadel-jungle-hunt.json) |
@@ -8253,6 +8254,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock and Watson: A Study in Scarlet | 226624 | [226624-sherlock-and-watson-a-study-in-scarlet.json](./226624-sherlock-and-watson-a-study-in-scarlet.json) |
 | Sherlock has a Clue | 310949 | [310949-sherlock-has-a-clue.json](./310949-sherlock-has-a-clue.json) |
 | Sherlock Holmes 2 | 101911 | [101911-sherlock-holmes-2.json](./101911-sherlock-holmes-2.json) |
+| Sherlock Holmes Adventure | 68998 | [68998-sherlock-holmes-adventure.json](./68998-sherlock-holmes-adventure.json) |
 | Sherlock Holmes and The Hound of The Baskervilles | 16357 | [16357-sherlock-holmes-and-the-hound-of-the-baskervilles.json](./16357-sherlock-holmes-and-the-hound-of-the-baskervilles.json) |
 | Sherlock Holmes and the Mystery of Osborne House | 47926 | [47926-sherlock-holmes-and-the-mystery-of-osborne-house.json](./47926-sherlock-holmes-and-the-mystery-of-osborne-house.json) |
 | Sherlock Holmes and the Mystery of the Frozen City | 47657 | [47657-sherlock-holmes-and-the-mystery-of-the-frozen-city.json](./47657-sherlock-holmes-and-the-mystery-of-the-frozen-city.json) |
@@ -10070,6 +10072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shukufuku no Campanella Portable | 396680 | [396680-shukufuku-no-campanella-portable.json](./396680-shukufuku-no-campanella-portable.json) |
 | Shukusai no Utahime: Kimi to Tsumugu Asu he no Uta | 194605 | [194605-shukusai-no-utahime-kimi-to-tsumugu-asu-he-no-uta.json](./194605-shukusai-no-utahime-kimi-to-tsumugu-asu-he-no-uta.json) |
 | Shukusei no Girlfriend AllStar | 305323 | [305323-shukusei-no-girlfriend-allstar.json](./305323-shukusei-no-girlfriend-allstar.json) |
+| Shukushou Gakuen | 69430 | [69430-shukushou-gakuen.json](./69430-shukushou-gakuen.json) |
 | Shultz's Treasure | 292839 | [292839-shultzs-treasure.json](./292839-shultzs-treasure.json) |
 | Shump Mania | 201084 | [201084-shump-mania.json](./201084-shump-mania.json) |
 | Shunga Frame | 196094 | [196094-shunga-frame.json](./196094-shunga-frame.json) |
@@ -11455,6 +11458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple DS Series Vol. 40: The Gekai | 98680 | [98680-simple-ds-series-vol-40-the-gekai.json](./98680-simple-ds-series-vol-40-the-gekai.json) |
 | Simple DS Series Vol. 43: The Host Shiyouze! DX Knight King | 63621 | [63621-simple-ds-series-vol-43-the-host-shiyouze-dx-knight-king.json](./63621-simple-ds-series-vol-43-the-host-shiyouze-dx-knight-king.json) |
 | Simple DS Series Vol. 44: The Gal Mahjong | 63620 | [63620-simple-ds-series-vol-44-the-gal-mahjong.json](./63620-simple-ds-series-vol-44-the-gal-mahjong.json) |
+| Simple DS Series Vol. 47: The Suiri Shinshou 2009 | 69408 | [69408-simple-ds-series-vol-47-the-suiri-shinshou-2009.json](./69408-simple-ds-series-vol-47-the-suiri-shinshou-2009.json) |
 | Simple DS Series Vol. 8: The Kanshikikan - Kinkyuu Shutsudou!! Jiken Genba wo Touch Seyo! | 130463 | [130463-simple-ds-series-vol-8-the-kanshikikan-kinkyuu-shutsudou-jiken-genba-wo-touch-seyo.json](./130463-simple-ds-series-vol-8-the-kanshikikan-kinkyuu-shutsudou-jiken-genba-wo-touch-seyo.json) |
 | Simple DS Series Vol. 9: Atama ga Yoku Naru - The Me no Training | 203403 | [203403-simple-ds-series-vol-9-atama-ga-yoku-naru-the-me-no-training.json](./203403-simple-ds-series-vol-9-atama-ga-yoku-naru-the-me-no-training.json) |
 | Simple DS Series Vol.16: The Sagasou - Fushigi na Konchuu no Mori | 98679 | [98679-simple-ds-series-vol-16-the-sagasou-fushigi-na-konchuu-no-mori.json](./98679-simple-ds-series-vol-16-the-sagasou-fushigi-na-konchuu-no-mori.json) |
@@ -31950,6 +31954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Dungeon Maker: DIY Edition | 300884 | [300884-super-dungeon-maker-diy-edition.json](./300884-super-dungeon-maker-diy-edition.json) |
 | Super Dungeon Maker: Fink's Awakening | 174074 | [174074-super-dungeon-maker-finks-awakening.json](./174074-super-dungeon-maker-finks-awakening.json) |
 | Super Dungeon Maker: Pets Pack | 300916 | [300916-super-dungeon-maker-pets-pack.json](./300916-super-dungeon-maker-pets-pack.json) |
+| Super Dungeon Master | 68870 | [68870-super-dungeon-master.json](./68870-super-dungeon-master.json) |
 | Super Dungeon Muncher | 311602 | [311602-super-dungeon-muncher.json](./311602-super-dungeon-muncher.json) |
 | Super Dungeon Run | 34942 | [34942-super-dungeon-run.json](./34942-super-dungeon-run.json) |
 | Super Dunkman | 134700 | [134700-super-dunkman.json](./134700-super-dunkman.json) |
@@ -35648,6 +35653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suugaku Rikiou: Joukyuu Naka-3-Level | 145391 | [145391-suugaku-rikiou-joukyuu-naka-3-level.json](./145391-suugaku-rikiou-joukyuu-naka-3-level.json) |
 | Suuji Atta! | 266165 | [266165-suuji-atta.json](./266165-suuji-atta.json) |
 | Suuji Puzzle: Game Zutto | 241183 | [241183-suuji-puzzle-game-zutto.json](./241183-suuji-puzzle-game-zutto.json) |
+| Suujin Taisen | 69404 | [69404-suujin-taisen.json](./69404-suujin-taisen.json) |
 | Suul | 312915 | [312915-suul.json](./312915-suul.json) |
 | Suuran Digit | 12636 | [12636-suuran-digit.json](./12636-suuran-digit.json) |
 | Suuri muumijuhla | 26377 | [26377-suuri-muumijuhla.json](./26377-suuri-muumijuhla.json) |
