@@ -2262,6 +2262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saturn | 313467 | [313467-saturn.json](./313467-saturn.json) |
 | Saturn 94 | 414135 | [414135-saturn-94.json](./414135-saturn-94.json) |
 | Saturn Bomberman | 28393 | [28393-saturn-bomberman.json](./28393-saturn-bomberman.json) |
+| Saturn Bomberman Fight!! | 66221 | [66221-saturn-bomberman-fight.json](./66221-saturn-bomberman-fight.json) |
 | Saturn Menace | 201366 | [201366-saturn-menace.json](./201366-saturn-menace.json) |
 | Saturn Music School | 133569 | [133569-saturn-music-school.json](./133569-saturn-music-school.json) |
 | Saturn Music School 2 | 133570 | [133570-saturn-music-school-2.json](./133570-saturn-music-school-2.json) |
@@ -16541,6 +16542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sockpuppet Noir | 191655 | [191655-sockpuppet-noir.json](./191655-sockpuppet-noir.json) |
 | Socks | 181679 | [181679-socks.json](./181679-socks.json) |
 | Socks & Pants | 357300 | [357300-socks-and-pants.json](./357300-socks-and-pants.json) |
+| Socks the Cat Rocks the Hill | 66232 | [66232-socks-the-cat-rocks-the-hill.json](./66232-socks-the-cat-rocks-the-hill.json) |
 | Socks! | 389699 | [389699-socks.json](./389699-socks.json) |
 | Sockventure | 128924 | [128924-sockventure.json](./128924-sockventure.json) |
 | SOCOM 3: U.S. Navy SEALs | 8241 | [8241-socom-3-u-s-navy-seals.json](./8241-socom-3-u-s-navy-seals.json) |
@@ -20577,6 +20579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pizza | 263920 | [263920-space-pizza.json](./263920-space-pizza.json) |
 | Space Plane | 160216 | [160216-space-plane.json](./160216-space-plane.json) |
 | Space Planet Invader: Cosmic Power | 305788 | [305788-space-planet-invader-cosmic-power.json](./305788-space-planet-invader-cosmic-power.json) |
+| Space Police on SuperHighway 9 | 66160 | [66160-space-police-on-superhighway-9.json](./66160-space-police-on-superhighway-9.json) |
 | Space Pong! | 178927 | [178927-space-pong.json](./178927-space-pong.json) |
 | Space Pop: Bubble Shooter | 239705 | [239705-space-pop-bubble-shooter.json](./239705-space-pop-bubble-shooter.json) |
 | Space Pope | 58613 | [58613-space-pope.json](./58613-space-pope.json) |
@@ -25228,6 +25231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Bridge Commander | 9571 | [9571-star-trek-bridge-commander.json](./9571-star-trek-bridge-commander.json) |
 | Star Trek: Bridge Crew | 19519 | [19519-star-trek-bridge-crew.json](./19519-star-trek-bridge-crew.json) |
 | Star Trek: Bridge Crew - The Next Generation | 101122 | [101122-star-trek-bridge-crew-the-next-generation.json](./101122-star-trek-bridge-crew-the-next-generation.json) |
+| Star Trek: Captain's Chair | 66231 | [66231-star-trek-captains-chair.json](./66231-star-trek-captains-chair.json) |
 | Star Trek: Conquest | 5193 | [5193-star-trek-conquest.json](./5193-star-trek-conquest.json) |
 | Star Trek: ConQuest Online | 69780 | [69780-star-trek-conquest-online.json](./69780-star-trek-conquest-online.json) |
 | Star Trek: D-A-C | 21195 | [21195-star-trek-d-a-c.json](./21195-star-trek-d-a-c.json) |
@@ -25476,6 +25480,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Hunters - Season 3: Echoes of the Rebellion | 314937 | [314937-star-wars-hunters-season-3-echoes-of-the-rebellion.json](./314937-star-wars-hunters-season-3-echoes-of-the-rebellion.json) |
 | Star Wars: Hunters - Season 4: Survival Instinct | 347673 | [347673-star-wars-hunters-season-4-survival-instinct.json](./347673-star-wars-hunters-season-4-survival-instinct.json) |
 | Star Wars: Hunters - Season 5: Scum & Villainy | 347677 | [347677-star-wars-hunters-season-5-scum-and-villainy.json](./347677-star-wars-hunters-season-5-scum-and-villainy.json) |
+| Star Wars: Imperial Academy | 66235 | [66235-star-wars-imperial-academy.json](./66235-star-wars-imperial-academy.json) |
 | Star Wars: Imperial Ace | 75560 | [75560-star-wars-imperial-ace.json](./75560-star-wars-imperial-ace.json) |
 | Star Wars: Imperial Assault | 198919 | [198919-star-wars-imperial-assault.json](./198919-star-wars-imperial-assault.json) |
 | Star Wars: Imperial Assault | 199015 | [199015-star-wars-imperial-assault.json](./199015-star-wars-imperial-assault.json) |
@@ -33644,6 +33649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Real Mahjong PIV | 347616 | [347616-super-real-mahjong-piv.json](./347616-super-real-mahjong-piv.json) |
 | Super Real Mahjong PIV + Aishou Shindan | 347619 | [347619-super-real-mahjong-piv-aishou-shindan.json](./347619-super-real-mahjong-piv-aishou-shindan.json) |
 | Super Real Mahjong PIV Custom | 342013 | [342013-super-real-mahjong-piv-custom.json](./342013-super-real-mahjong-piv-custom.json) |
+| Super Real Mahjong Pocket | 66222 | [66222-super-real-mahjong-pocket.json](./66222-super-real-mahjong-pocket.json) |
 | Super Real Mahjong PV | 342019 | [342019-super-real-mahjong-pv.json](./342019-super-real-mahjong-pv.json) |
 | Super Real Mahjong PV | 4303 | [4303-super-real-mahjong-pv.json](./4303-super-real-mahjong-pv.json) |
 | Super Real Mahjong PV Paradise: All-Star 4-nin Uchi | 58679 | [58679-super-real-mahjong-pv-paradise-all-star-4-nin-uchi.json](./58679-super-real-mahjong-pv-paradise-all-star-4-nin-uchi.json) |
