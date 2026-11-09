@@ -3924,6 +3924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SCSIcide | 70766 | [70766-scsicide.json](./70766-scsicide.json) |
 | Scuba Bear | 178678 | [178678-scuba-bear.json](./178678-scuba-bear.json) |
 | Scuba Brick | 247073 | [247073-scuba-brick.json](./247073-scuba-brick.json) |
+| Scuba Dive | 46043 | [46043-scuba-dive.json](./46043-scuba-dive.json) |
 | Scuba Diver | 40744 | [40744-scuba-diver.json](./40744-scuba-diver.json) |
 | Scuba Diver | 40766 | [40766-scuba-diver.json](./40766-scuba-diver.json) |
 | Scuba Diver the Simulation | 143399 | [143399-scuba-diver-the-simulation.json](./143399-scuba-diver-the-simulation.json) |
@@ -5258,7 +5259,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Rally Online Arcade | 20592 | [20592-sega-rally-online-arcade.json](./20592-sega-rally-online-arcade.json) |
 | Sega Rally Revo | 1574 | [1574-sega-rally-revo.json](./1574-sega-rally-revo.json) |
 | Sega Rally Revo | 209018 | [209018-sega-rally-revo.json](./209018-sega-rally-revo.json) |
+| Sega Saturn Choice Cuts | 46047 | [46047-sega-saturn-choice-cuts.json](./46047-sega-saturn-choice-cuts.json) |
 | Sega Saturn de Hakken!! Tamagotchi Park | 108761 | [108761-sega-saturn-de-hakken-tamagotchi-park.json](./108761-sega-saturn-de-hakken-tamagotchi-park.json) |
+| Sega Screams: Volume 1 | 46046 | [46046-sega-screams-volume-1.json](./46046-sega-screams-volume-1.json) |
 | Sega Ski Super G | 39796 | [39796-sega-ski-super-g.json](./39796-sega-ski-super-g.json) |
 | Sega Smash Pack | 100035 | [100035-sega-smash-pack.json](./100035-sega-smash-pack.json) |
 | Sega Smash Pack | 136875 | [136875-sega-smash-pack.json](./136875-sega-smash-pack.json) |
@@ -5299,6 +5302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SegaSonic Bros. | 200448 | [200448-segasonic-bros.json](./200448-segasonic-bros.json) |
 | SegaSonic Popcorn Shop | 140103 | [140103-segasonic-popcorn-shop.json](./140103-segasonic-popcorn-shop.json) |
 | SegaSonic the Hedgehog | 198602 | [198602-segasonic-the-hedgehog.json](./198602-segasonic-the-hedgehog.json) |
+| Segata Sanshirou Shinkenyugi | 46049 | [46049-segata-sanshirou-shinkenyugi.json](./46049-segata-sanshirou-shinkenyugi.json) |
 | Segatakai | 57386 | [57386-segatakai.json](./57386-segatakai.json) |
 | Segfault | 75430 | [75430-segfault.json](./75430-segfault.json) |
 | Segle | 311976 | [311976-segle.json](./311976-segle.json) |
@@ -8817,6 +8821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Force III Scenario 3 | 79706 | [79706-shining-force-iii-scenario-3.json](./79706-shining-force-iii-scenario-3.json) |
 | Shining Force III: 2nd Scenario | 46062 | [46062-shining-force-iii-2nd-scenario.json](./46062-shining-force-iii-2nd-scenario.json) |
 | Shining Force III: 3rd Scenario | 46061 | [46061-shining-force-iii-3rd-scenario.json](./46061-shining-force-iii-3rd-scenario.json) |
+| Shining Force III: Premium Disc | 46060 | [46060-shining-force-iii-premium-disc.json](./46060-shining-force-iii-premium-disc.json) |
 | Shining Force: Hero of Light and Darkness | 188348 | [188348-shining-force-hero-of-light-and-darkness.json](./188348-shining-force-hero-of-light-and-darkness.json) |
 | Shining Force: Horizons | 307527 | [307527-shining-force-horizons.json](./307527-shining-force-horizons.json) |
 | Shining Force: Resurrection of the Dark Dragon | 22285 | [22285-shining-force-resurrection-of-the-dark-dragon.json](./22285-shining-force-resurrection-of-the-dark-dragon.json) |
@@ -8852,6 +8857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Tears | 43663 | [43663-shining-tears.json](./43663-shining-tears.json) |
 | Shining the Holy Ark | 46063 | [46063-shining-the-holy-ark.json](./46063-shining-the-holy-ark.json) |
 | Shining Wind | 72920 | [72920-shining-wind.json](./72920-shining-wind.json) |
+| Shining Wisdom | 46059 | [46059-shining-wisdom.json](./46059-shining-wisdom.json) |
 | Shinisagi | 120444 | [120444-shinisagi.json](./120444-shinisagi.json) |
 | Shinjatta Kanojo | 251614 | [251614-shinjatta-kanojo.json](./251614-shinjatta-kanojo.json) |
 | Shinjisougeki Carnival | 368986 | [368986-shinjisougeki-carnival.json](./368986-shinjisougeki-carnival.json) |
@@ -9799,6 +9805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoujo Houkai: Oniichan no Catharsis | 97702 | [97702-shoujo-houkai-oniichan-no-catharsis.json](./97702-shoujo-houkai-oniichan-no-catharsis.json) |
 | Shoujo Kageki Revue Starlight Re Live | 112198 | [112198-shoujo-kageki-revue-starlight-re-live.json](./112198-shoujo-kageki-revue-starlight-re-live.json) |
 | Shoujo Kaisen | 174837 | [174837-shoujo-kaisen.json](./174837-shoujo-kaisen.json) |
+| Shoujo Kakumei Utena: Itsuka Kakumei Sareru Monogatari | 46051 | [46051-shoujo-kakumei-utena-itsuka-kakumei-sareru-monogatari.json](./46051-shoujo-kakumei-utena-itsuka-kakumei-sareru-monogatari.json) |
 | Shoujo Kenshi Akizuki Ren no Oshikake Harayome Seikatsu: Kozukuri wa Waga Shimei... Jusei Suru made Hanasanu zo! | 280644 | [280644-shoujo-kenshi-akizuki-ren-no-oshikake-harayome-seikatsu-kozukuri-wa-waga-shimei-jusei-suru-made-hanasanu-zo.json](./280644-shoujo-kenshi-akizuki-ren-no-oshikake-harayome-seikatsu-kozukuri-wa-waga-shimei-jusei-suru-made-hanasanu-zo.json) |
 | Shoujo Kidan | 167129 | [167129-shoujo-kidan.json](./167129-shoujo-kidan.json) |
 | Shoujo Mahou Gaku Little Witch Romanesque Bangai Hen "Sayonara, Mauresumo" | 332429 | [332429-shoujo-mahou-gaku-little-witch-romanesque-bangai-hen-sayonara-mauresumo.json](./332429-shoujo-mahou-gaku-little-witch-romanesque-bangai-hen-sayonara-mauresumo.json) |
@@ -13503,6 +13510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam Dunk: Dream Team - Shueisha Limited | 236652 | [236652-slam-dunk-dream-team-shueisha-limited.json](./236652-slam-dunk-dream-team-shueisha-limited.json) |
 | Slam Dunk: Gakeppuchi no Kesshou League | 78516 | [78516-slam-dunk-gakeppuchi-no-kesshou-league.json](./78516-slam-dunk-gakeppuchi-no-kesshou-league.json) |
 | Slam Dunk: I Love Basketball | 78834 | [78834-slam-dunk-i-love-basketball.json](./78834-slam-dunk-i-love-basketball.json) |
+| Slam Dunk: Kyougou Makkou Taiketsu! | 45640 | [45640-slam-dunk-kyougou-makkou-taiketsu.json](./45640-slam-dunk-kyougou-makkou-taiketsu.json) |
 | Slam Dunk: Kyougou Makkou Taiketsu! | 78307 | [78307-slam-dunk-kyougou-makkou-taiketsu.json](./78307-slam-dunk-kyougou-makkou-taiketsu.json) |
 | Slam Dunk: SD Heat Up!! | 65608 | [65608-slam-dunk-sd-heat-up.json](./65608-slam-dunk-sd-heat-up.json) |
 | Slam Dunk: Shouri he no Starting 5 | 282497 | [282497-slam-dunk-shouri-he-no-starting-5.json](./282497-slam-dunk-shouri-he-no-starting-5.json) |
@@ -34439,6 +34447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Technos World: River City & Arcade Classics | 337064 | [337064-super-technos-world-river-city-and-arcade-classics.json](./337064-super-technos-world-river-city-and-arcade-classics.json) |
 | Super Techpack | 154138 | [154138-super-techpack.json](./154138-super-techpack.json) |
 | Super Tekkyu Fight! | 42222 | [42222-super-tekkyu-fight.json](./42222-super-tekkyu-fight.json) |
+| Super Tempo | 46050 | [46050-super-tempo.json](./46050-super-tempo.json) |
 | Super Tennis | 147960 | [147960-super-tennis.json](./147960-super-tennis.json) |
 | Super Tennis | 18144 | [18144-super-tennis.json](./18144-super-tennis.json) |
 | Super Tennis Blast | 116486 | [116486-super-tennis-blast.json](./116486-super-tennis-blast.json) |
