@@ -2331,6 +2331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pararecords | 325020 | [325020-pararecords.json](./325020-pararecords.json) |
 | Pararena | 130356 | [130356-pararena.json](./130356-pararena.json) |
 | Pararomantic | 217609 | [217609-pararomantic.json](./217609-pararomantic.json) |
+| Parascientific Escape: Crossing at the Farthest Horizon | 52023 | [52023-parascientific-escape-crossing-at-the-farthest-horizon.json](./52023-parascientific-escape-crossing-at-the-farthest-horizon.json) |
 | Parascientific Escape: Cruise in the Distant Seas | 52024 | [52024-parascientific-escape-cruise-in-the-distant-seas.json](./52024-parascientific-escape-cruise-in-the-distant-seas.json) |
 | Parascientific Escape: Gear Detective | 27195 | [27195-parascientific-escape-gear-detective.json](./27195-parascientific-escape-gear-detective.json) |
 | Parasensor | 347911 | [347911-parasensor.json](./347911-parasensor.json) |
@@ -8197,6 +8198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Anarchy Online | 137974 | [137974-pixel-anarchy-online.json](./137974-pixel-anarchy-online.json) |
 | Pixel Aquarium | 400536 | [400536-pixel-aquarium.json](./400536-pixel-aquarium.json) |
 | Pixel Arcade | 319281 | [319281-pixel-arcade.json](./319281-pixel-arcade.json) |
+| Pixel Arcade | 52027 | [52027-pixel-arcade.json](./52027-pixel-arcade.json) |
 | Pixel Ars of Perfect Frontier | 99353 | [99353-pixel-ars-of-perfect-frontier.json](./99353-pixel-ars-of-perfect-frontier.json) |
 | Pixel Art | 334426 | [334426-pixel-art.json](./334426-pixel-art.json) |
 | Pixel Art Academy: Learn Mode | 270752 | [270752-pixel-art-academy-learn-mode.json](./270752-pixel-art-academy-learn-mode.json) |
@@ -12289,6 +12291,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Police 911 | 77016 | [77016-police-911.json](./77016-police-911.json) |
 | Police 911 2 | 97483 | [97483-police-911-2.json](./97483-police-911-2.json) |
 | Police Academy | 198867 | [198867-police-academy.json](./198867-police-academy.json) |
+| Police Adventure | 52058 | [52058-police-adventure.json](./52058-police-adventure.json) |
 | Police Air Transporter | 104226 | [104226-police-air-transporter.json](./104226-police-air-transporter.json) |
 | Police Atv Offroad | 309872 | [309872-police-atv-offroad.json](./309872-police-atv-offroad.json) |
 | Police Blazel | 98018 | [98018-police-blazel.json](./98018-police-blazel.json) |
