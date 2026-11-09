@@ -2007,6 +2007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rantou Proresu | 83211 | [83211-rantou-proresu.json](./83211-rantou-proresu.json) |
 | Ranveer vs. Wild With Bear Grylls | 256869 | [256869-ranveer-vs-wild-with-bear-grylls.json](./256869-ranveer-vs-wild-with-bear-grylls.json) |
 | Ranx | 77645 | [77645-ranx.json](./77645-ranx.json) |
+| Ranx Xerox | 37264 | [37264-ranx-xerox.json](./37264-ranx-xerox.json) |
 | Rap Attack: 2pacalypse Now | 92683 | [92683-rap-attack-2pacalypse-now.json](./92683-rap-attack-2pacalypse-now.json) |
 | Rap Attack! | 251928 | [251928-rap-attack.json](./251928-rap-attack.json) |
 | Rap Basketball | 37870 | [37870-rap-basketball.json](./37870-rap-basketball.json) |
