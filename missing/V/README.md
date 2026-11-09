@@ -2701,6 +2701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtua NBA | 39790 | [39790-virtua-nba.json](./39790-virtua-nba.json) |
 | Virtua Park the Fish 2: Sodatete Puku-puku | 230416 | [230416-virtua-park-the-fish-2-sodatete-puku-puku.json](./230416-virtua-park-the-fish-2-sodatete-puku-puku.json) |
 | Virtua Photo Studio | 250533 | [250533-virtua-photo-studio.json](./250533-virtua-photo-studio.json) |
+| Virtua Pro Football | 43397 | [43397-virtua-pro-football.json](./43397-virtua-pro-football.json) |
 | Virtua Quest | 1554 | [1554-virtua-quest.json](./1554-virtua-quest.json) |
 | Virtua Racing | 404099 | [404099-virtua-racing.json](./404099-virtua-racing.json) |
 | Virtua Racing | 8172 | [8172-virtua-racing.json](./8172-virtua-racing.json) |
