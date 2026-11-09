@@ -3127,6 +3127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | In Your Arms Tonight 2 | 238888 | [238888-in-your-arms-tonight-2.json](./238888-in-your-arms-tonight-2.json) |
 | In Your Books | 204167 | [204167-in-your-books.json](./204167-in-your-books.json) |
 | In Your Dreams | 423911 | [423911-in-your-dreams.json](./423911-in-your-dreams.json) |
+| In Your Face | 48991 | [48991-in-your-face.json](./48991-in-your-face.json) |
 | In Your Flesh | 364596 | [364596-in-your-flesh.json](./364596-in-your-flesh.json) |
 | In your Shadow | 112622 | [112622-in-your-shadow.json](./112622-in-your-shadow.json) |
 | In Your World (I Own) | 340761 | [340761-in-your-world-i-own.json](./340761-in-your-world-i-own.json) |
@@ -4010,7 +4011,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
