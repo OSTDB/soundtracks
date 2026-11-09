@@ -1240,6 +1240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sambird | 413475 | [413475-sambird.json](./413475-sambird.json) |
 | Same | 64423 | [64423-same.json](./64423-same.json) |
 | Same Break Game | 310454 | [310454-same-break-game.json](./310454-same-break-game.json) |
+| Same Game and Robots | 41464 | [41464-same-game-and-robots.json](./41464-same-game-and-robots.json) |
 | Same Game for Mac | 80754 | [80754-same-game-for-mac.json](./80754-same-game-for-mac.json) |
 | Same Game for Windows | 80229 | [80229-same-game-for-windows.json](./80229-same-game-for-windows.json) |
 | Same or Different | 69718 | [69718-same-or-different.json](./69718-same-or-different.json) |
@@ -3303,6 +3304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scooby Doo: Horror of the High Seas - Episode 3: Reef Relief | 337126 | [337126-scooby-doo-horror-of-the-high-seas-episode-3-reef-relief.json](./337126-scooby-doo-horror-of-the-high-seas-episode-3-reef-relief.json) |
 | Scooby Doo: The Motion Picture | 57641 | [57641-scooby-doo-the-motion-picture.json](./57641-scooby-doo-the-motion-picture.json) |
 | Scooby Doo! Case File #3: Frights, Camera, Mystery! | 76980 | [76980-scooby-doo-case-file-3-frights-camera-mystery.json](./76980-scooby-doo-case-file-3-frights-camera-mystery.json) |
+| Scooby Doo's Maze Chase | 41459 | [41459-scooby-doos-maze-chase.json](./41459-scooby-doos-maze-chase.json) |
 | Scooby Trap | 413585 | [413585-scooby-trap.json](./413585-scooby-trap.json) |
 | Scooby-Doo | 198881 | [198881-scooby-doo.json](./198881-scooby-doo.json) |
 | Scooby-Doo | 2856 | [2856-scooby-doo.json](./2856-scooby-doo.json) |
@@ -13532,6 +13534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam Dunk: Kyougou Makkou Taiketsu! | 78307 | [78307-slam-dunk-kyougou-makkou-taiketsu.json](./78307-slam-dunk-kyougou-makkou-taiketsu.json) |
 | Slam Dunk: SD Heat Up!! | 65608 | [65608-slam-dunk-sd-heat-up.json](./65608-slam-dunk-sd-heat-up.json) |
 | Slam Dunk: Shouri he no Starting 5 | 282497 | [282497-slam-dunk-shouri-he-no-starting-5.json](./282497-slam-dunk-shouri-he-no-starting-5.json) |
+| Slam Dunk: Super Pro Basketball | 41458 | [41458-slam-dunk-super-pro-basketball.json](./41458-slam-dunk-super-pro-basketball.json) |
 | Slam Dunk: Super Slams | 130584 | [130584-slam-dunk-super-slams.json](./130584-slam-dunk-super-slams.json) |
 | Slam Dunk: Yonkyou Gekitotsu!! | 65425 | [65425-slam-dunk-yonkyou-gekitotsu.json](./65425-slam-dunk-yonkyou-gekitotsu.json) |
 | Slam Fighter II | 75172 | [75172-slam-fighter-ii.json](./75172-slam-fighter-ii.json) |
@@ -13571,6 +13574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slap Shooter | 97977 | [97977-slap-shooter.json](./97977-slap-shooter.json) |
 | Slap Shot | 41102 | [41102-slap-shot.json](./41102-slap-shot.json) |
 | Slap Shot | 81281 | [81281-slap-shot.json](./81281-slap-shot.json) |
+| Slap Shot: Super Pro Hockey | 41457 | [41457-slap-shot-super-pro-hockey.json](./41457-slap-shot-super-pro-hockey.json) |
 | Slap Shots! | 244108 | [244108-slap-shots.json](./244108-slap-shots.json) |
 | Slap That | 311263 | [311263-slap-that.json](./311263-slap-that.json) |
 | Slap the Bulls | 106480 | [106480-slap-the-bulls.json](./106480-slap-the-bulls.json) |
@@ -20023,6 +20027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Bust-A-Move | 20484 | [20484-space-bust-a-move.json](./20484-space-bust-a-move.json) |
 | Space Cactus Canyon | 292070 | [292070-space-cactus-canyon.json](./292070-space-cactus-canyon.json) |
 | Space Cadet | 140824 | [140824-space-cadet.json](./140824-space-cadet.json) |
+| Space Cadet | 41478 | [41478-space-cadet.json](./41478-space-cadet.json) |
 | Space Cadet | 76997 | [76997-space-cadet.json](./76997-space-cadet.json) |
 | Space Cake | 61114 | [61114-space-cake.json](./61114-space-cake.json) |
 | Space Calibur | 382562 | [382562-space-calibur.json](./382562-space-calibur.json) |
@@ -20676,6 +20681,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Papers: Planet's Border | 277840 | [277840-space-papers-planets-border.json](./277840-space-papers-planets-border.json) |
 | Space Paranoids | 63774 | [63774-space-paranoids.json](./63774-space-paranoids.json) |
 | Space Party | 192061 | [192061-space-party.json](./192061-space-party.json) |
+| Space Patrol | 41463 | [41463-space-patrol.json](./41463-space-patrol.json) |
 | Space Penguins | 202628 | [202628-space-penguins.json](./202628-space-penguins.json) |
 | Space Pew Pew | 405934 | [405934-space-pew-pew.json](./405934-space-pew-pew.json) |
 | Space Phallus | 66369 | [66369-space-phallus.json](./66369-space-phallus.json) |
@@ -22683,6 +22689,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpikeOut: Digital Battle Online | 39474 | [39474-spikeout-digital-battle-online.json](./39474-spikeout-digital-battle-online.json) |
 | SpikeOut: Final Edition | 319157 | [319157-spikeout-final-edition.json](./319157-spikeout-final-edition.json) |
 | Spiker | 46869 | [46869-spiker.json](./46869-spiker.json) |
+| Spiker! Super Pro Volleyball | 41456 | [41456-spiker-super-pro-volleyball.json](./41456-spiker-super-pro-volleyball.json) |
 | SpikerMan X | 247947 | [247947-spikerman-x.json](./247947-spikerman-x.json) |
 | Spikers Battle | 39791 | [39791-spikers-battle.json](./39791-spikers-battle.json) |
 | Spikes Are Dangerous | 118434 | [118434-spikes-are-dangerous.json](./118434-spikes-are-dangerous.json) |
@@ -24609,6 +24616,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stadium Cross | 123004 | [123004-stadium-cross.json](./123004-stadium-cross.json) |
 | Stadium Games | 49384 | [49384-stadium-games.json](./49384-stadium-games.json) |
 | Stadium Hero | 41095 | [41095-stadium-hero.json](./41095-stadium-hero.json) |
+| Stadium Mud Buggies | 41455 | [41455-stadium-mud-buggies.json](./41455-stadium-mud-buggies.json) |
 | Stadium Shift | 369455 | [369455-stadium-shift.json](./369455-stadium-shift.json) |
 | Stadtleben | 200508 | [200508-stadtleben.json](./200508-stadtleben.json) |
 | Stafakarlarnir | 65240 | [65240-stafakarlarnir.json](./65240-stafakarlarnir.json) |
@@ -28216,6 +28224,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stoney's Adventure | 207608 | [207608-stoneys-adventure.json](./207608-stoneys-adventure.json) |
 | Stonga Bird | 233690 | [233690-stonga-bird.json](./233690-stonga-bird.json) |
 | Stonies | 86637 | [86637-stonies.json](./86637-stonies.json) |
+| Stonix | 41442 | [41442-stonix.json](./41442-stonix.json) |
 | Stonk Simulator | 353923 | [353923-stonk-simulator.json](./353923-stonk-simulator.json) |
 | Stonkers | 45377 | [45377-stonkers.json](./45377-stonkers.json) |
 | Stonks-9800: Stock Market Simulator | 167271 | [167271-stonks-9800-stock-market-simulator.json](./167271-stonks-9800-stock-market-simulator.json) |
@@ -33577,6 +33586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super NES Classic Edition | 213363 | [213363-super-nes-classic-edition.json](./213363-super-nes-classic-edition.json) |
 | Super Ness | 177150 | [177150-super-ness.json](./177150-super-ness.json) |
 | Super Netwalk Deluxe | 183834 | [183834-super-netwalk-deluxe.json](./183834-super-netwalk-deluxe.json) |
+| Super NFL Football | 41461 | [41461-super-nfl-football.json](./41461-super-nfl-football.json) |
 | Super Nichibutsu Mahjong | 37804 | [37804-super-nichibutsu-mahjong.json](./37804-super-nichibutsu-mahjong.json) |
 | Super Nichibutsu Mahjong 2: Zenkoku Seiha-hen | 37803 | [37803-super-nichibutsu-mahjong-2-zenkoku-seiha-hen.json](./37803-super-nichibutsu-mahjong-2-zenkoku-seiha-hen.json) |
 | Super Nichibutsu Mahjong 3: Yoshimoto Gekijou-hen | 37802 | [37802-super-nichibutsu-mahjong-3-yoshimoto-gekijou-hen.json](./37802-super-nichibutsu-mahjong-3-yoshimoto-gekijou-hen.json) |
@@ -33756,6 +33766,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Princess Peach | 20497 | [20497-super-princess-peach.json](./20497-super-princess-peach.json) |
 | Super Princess Peach: Operation - Toad Rescue | 323872 | [323872-super-princess-peach-operation-toad-rescue.json](./323872-super-princess-peach-operation-toad-rescue.json) |
 | Super Princess' 2092 Exodus | 305736 | [305736-super-princess-2092-exodus.json](./305736-super-princess-2092-exodus.json) |
+| Super Pro Decathlon | 41454 | [41454-super-pro-decathlon.json](./41454-super-pro-decathlon.json) |
+| Super Pro Football | 41453 | [41453-super-pro-football.json](./41453-super-pro-football.json) |
 | Super Producers | 98008 | [98008-super-producers.json](./98008-super-producers.json) |
 | Super Professor | 44275 | [44275-super-professor.json](./44275-super-professor.json) |
 | Super Psycho Baseball | 227421 | [227421-super-psycho-baseball.json](./227421-super-psycho-baseball.json) |
