@@ -7699,6 +7699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Cold War Era | 32133 | [32133-the-cold-war-era.json](./32133-the-cold-war-era.json) |
 | The Cold War Era 2 | 132791 | [132791-the-cold-war-era-2.json](./132791-the-cold-war-era-2.json) |
 | The Coldest Winter | 293617 | [293617-the-coldest-winter.json](./293617-the-coldest-winter.json) |
+| The Colditz Story | 14008 | [14008-the-colditz-story.json](./14008-the-colditz-story.json) |
 | The Collaborative: Automaton #0059 | 124542 | [124542-the-collaborative-automaton-0059.json](./124542-the-collaborative-automaton-0059.json) |
 | The Collar | 268230 | [268230-the-collar.json](./268230-the-collar.json) |
 | The Collectables | 62548 | [62548-the-collectables.json](./62548-the-collectables.json) |
@@ -11396,6 +11397,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ice Caves | 156822 | [156822-the-ice-caves.json](./156822-the-ice-caves.json) |
 | The Ice Cream Culprit | 309164 | [309164-the-ice-cream-culprit.json](./309164-the-ice-cream-culprit.json) |
 | The Ice Cream Shop | 374923 | [374923-the-ice-cream-shop.json](./374923-the-ice-cream-shop.json) |
+| The Ice Temple | 14124 | [14124-the-ice-temple.json](./14124-the-ice-temple.json) |
 | The Ice-Bound Concordance | 15181 | [15181-the-ice-bound-concordance.json](./15181-the-ice-bound-concordance.json) |
 | The Iceberg | 180672 | [180672-the-iceberg.json](./180672-the-iceberg.json) |
 | The Icecream Machine | 397167 | [397167-the-icecream-machine.json](./397167-the-icecream-machine.json) |
