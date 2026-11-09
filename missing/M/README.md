@@ -58,6 +58,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M.E.R.C. Genesis | 260031 | [260031-m-e-r-c-genesis.json](./260031-m-e-r-c-genesis.json) |
 | M.E.S.S. | 313264 | [313264-m-e-s-s.json](./313264-m-e-s-s.json) |
 | M.exe | 32238 | [32238-m-exe.json](./32238-m-exe.json) |
+| M.G.T. | 39052 | [39052-m-g-t.json](./39052-m-g-t.json) |
 | M.I.A | 75044 | [75044-m-i-a.json](./75044-m-i-a.json) |
 | M.I.A. Missing in Action | 40080 | [40080-m-i-a-missing-in-action.json](./40080-m-i-a-missing-in-action.json) |
 | M.I.A.: Mission in Asia | 53384 | [53384-m-i-a-mission-in-asia.json](./53384-m-i-a-mission-in-asia.json) |
@@ -8328,6 +8329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megabat | 253913 | [253913-megabat.json](./253913-megabat.json) |
 | MegaBattle | 158561 | [158561-megabattle.json](./158561-megabattle.json) |
 | Megablast | 46860 | [46860-megablast.json](./46860-megablast.json) |
+| Megablasters - Escape From Castle in the Clouds | 39083 | [39083-megablasters-escape-from-castle-in-the-clouds.json](./39083-megablasters-escape-from-castle-in-the-clouds.json) |
 | MegaBlasters! | 212078 | [212078-megablasters.json](./212078-megablasters.json) |
 | Megabonk | 327405 | [327405-megabonk.json](./327405-megabonk.json) |
 | Megabonk Smash | 376471 | [376471-megabonk-smash.json](./376471-megabonk-smash.json) |
@@ -8335,6 +8337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megabyte Punch | 9383 | [9383-megabyte-punch.json](./9383-megabyte-punch.json) |
 | MegaChao | 331086 | [331086-megachao.json](./331086-megachao.json) |
 | Megachess | 345590 | [345590-megachess.json](./345590-megachess.json) |
+| Megachess | 39094 | [39094-megachess.json](./39094-megachess.json) |
 | Megachud | 349946 | [349946-megachud.json](./349946-megachud.json) |
 | MegaCity | 262210 | [262210-megacity.json](./262210-megacity.json) |
 | Megacobra vs. Sharkbat | 368563 | [368563-megacobra-vs-sharkbat.json](./368563-megacobra-vs-sharkbat.json) |
@@ -11825,6 +11828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MiG Alley | 789 | [789-mig-alley.json](./789-mig-alley.json) |
 | MIG-29 Fighter Pilot | 45773 | [45773-mig-29-fighter-pilot.json](./45773-mig-29-fighter-pilot.json) |
 | MiG-29 Fulcrum | 229931 | [229931-mig-29-fulcrum.json](./229931-mig-29-fulcrum.json) |
+| MiG-29 Soviet Fighter | 39093 | [39093-mig-29-soviet-fighter.json](./39093-mig-29-soviet-fighter.json) |
 | MiG-29M Super Fulcrum | 12683 | [12683-mig-29m-super-fulcrum.json](./12683-mig-29m-super-fulcrum.json) |
 | Migakamikagami: Reviver | 358631 | [358631-migakamikagami-reviver.json](./358631-migakamikagami-reviver.json) |
 | Migawari Shoujo | 150571 | [150571-migawari-shoujo.json](./150571-migawari-shoujo.json) |
@@ -14617,6 +14621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mite ha Ikenai | 300344 | [300344-mite-ha-ikenai.json](./300344-mite-ha-ikenai.json) |
 | Mite Kiite Nou de Kanjite Crossword Tengoku | 269440 | [269440-mite-kiite-nou-de-kanjite-crossword-tengoku.json](./269440-mite-kiite-nou-de-kanjite-crossword-tengoku.json) |
 | Mithos | 159980 | [159980-mithos.json](./159980-mithos.json) |
+| Mithos | 39102 | [39102-mithos.json](./39102-mithos.json) |
 | Mithra | 285485 | [285485-mithra.json](./285485-mithra.json) |
 | Mithra - Episode 1, Chapter 1 | 68555 | [68555-mithra-episode-1-chapter-1.json](./68555-mithra-episode-1-chapter-1.json) |
 | Mithra Dream Battle | 227741 | [227741-mithra-dream-battle.json](./227741-mithra-dream-battle.json) |
