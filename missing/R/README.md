@@ -6410,6 +6410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrokill | 327058 | [327058-retrokill.json](./327058-retrokill.json) |
 | Retrold | 170813 | [170813-retrold.json](./170813-retrold.json) |
 | Retrolution Racing | 290841 | [290841-retrolution-racing.json](./290841-retrolution-racing.json) |
+| Retroman | 25281 | [25281-retroman.json](./25281-retroman.json) |
 | RetroMania Wrestling | 131604 | [131604-retromania-wrestling.json](./131604-retromania-wrestling.json) |
 | RetroMaze | 99060 | [99060-retromaze.json](./99060-retromaze.json) |
 | Retromine | 382447 | [382447-retromine.json](./382447-retromine.json) |
@@ -7090,6 +7091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rhem | 22758 | [22758-rhem.json](./22758-rhem.json) |
 | Rhem 2: The Cave | 69248 | [69248-rhem-2-the-cave.json](./69248-rhem-2-the-cave.json) |
 | Rhem 3: The Secret Library | 68869 | [68869-rhem-3-the-secret-library.json](./68869-rhem-3-the-secret-library.json) |
+| Rhem 4: The Golden Fragments | 25291 | [25291-rhem-4-the-golden-fragments.json](./25291-rhem-4-the-golden-fragments.json) |
 | Rhem I SE: The Mysterious Land | 50510 | [50510-rhem-i-se-the-mysterious-land.json](./50510-rhem-i-se-the-mysterious-land.json) |
 | Rhem II SE: The Cave | 112131 | [112131-rhem-ii-se-the-cave.json](./112131-rhem-ii-se-the-cave.json) |
 | Rhem IV SE: The Golden Fragments | 91320 | [91320-rhem-iv-se-the-golden-fragments.json](./91320-rhem-iv-se-the-golden-fragments.json) |
