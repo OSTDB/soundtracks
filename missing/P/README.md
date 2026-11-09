@@ -8055,6 +8055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pit-Fighter | 374990 | [374990-pit-fighter.json](./374990-pit-fighter.json) |
 | Pit-Fighter/Super Space Invaders | 78567 | [78567-pit-fighter-super-space-invaders.json](./78567-pit-fighter-super-space-invaders.json) |
 | Pit: The Bite-Sized Shooter | 331721 | [331721-pit-the-bite-sized-shooter.json](./331721-pit-the-bite-sized-shooter.json) |
+| Pitapat | 62870 | [62870-pitapat.json](./62870-pitapat.json) |
 | Pitapat-Beat | 202908 | [202908-pitapat-beat.json](./202908-pitapat-beat.json) |
 | Pitball | 20723 | [20723-pitball.json](./20723-pitball.json) |
 | Pitball: Winter Waifus | 239218 | [239218-pitball-winter-waifus.json](./239218-pitball-winter-waifus.json) |
@@ -18440,6 +18441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push IT: Sokoban Puzzle | 232386 | [232386-push-it-sokoban-puzzle.json](./232386-push-it-sokoban-puzzle.json) |
 | Push Me | 152677 | [152677-push-me.json](./152677-push-me.json) |
 | Push Me Pull You | 19863 | [19863-push-me-pull-you.json](./19863-push-me-pull-you.json) |
+| Push Off | 62843 | [62843-push-off.json](./62843-push-off.json) |
 | Push Out | 200319 | [200319-push-out.json](./200319-push-out.json) |
 | Push Pull | 115442 | [115442-push-pull.json](./115442-push-pull.json) |
 | Push Push | 374199 | [374199-push-push.json](./374199-push-push.json) |
