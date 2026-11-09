@@ -4798,6 +4798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epiphany! | 100466 | [100466-epiphany.json](./100466-epiphany.json) |
 | Epiphyllum in Love | 216405 | [216405-epiphyllum-in-love.json](./216405-epiphyllum-in-love.json) |
 | Epiplaphobia | 206533 | [206533-epiplaphobia.json](./206533-epiplaphobia.json) |
+| Episicava: Vol. 1 | 52026 | [52026-episicava-vol-1.json](./52026-episicava-vol-1.json) |
 | Episode | 369114 | [369114-episode.json](./369114-episode.json) |
 | Episode 2: The 4 Seasons of Quake #2 | 309583 | [309583-episode-2-the-4-seasons-of-quake-2.json](./309583-episode-2-the-4-seasons-of-quake-2.json) |
 | Episode 666 | 261684 | [261684-episode-666.json](./261684-episode-666.json) |
@@ -6653,6 +6654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Universalis II: Asia Chapters | 73408 | [73408-europa-universalis-ii-asia-chapters.json](./73408-europa-universalis-ii-asia-chapters.json) |
 | Europa Universalis III | 683 | [683-europa-universalis-iii.json](./683-europa-universalis-iii.json) |
 | Europa Universalis III Chronicles | 25525 | [25525-europa-universalis-iii-chronicles.json](./25525-europa-universalis-iii-chronicles.json) |
+| Europa Universalis III Complete | 51815 | [51815-europa-universalis-iii-complete.json](./51815-europa-universalis-iii-complete.json) |
 | Europa Universalis III: Collector's Edition | 52971 | [52971-europa-universalis-iii-collectors-edition.json](./52971-europa-universalis-iii-collectors-edition.json) |
 | Europa Universalis III: Heir to the Throne | 743 | [743-europa-universalis-iii-heir-to-the-throne.json](./743-europa-universalis-iii-heir-to-the-throne.json) |
 | Europa Universalis III: In Nomine | 684 | [684-europa-universalis-iii-in-nomine.json](./684-europa-universalis-iii-in-nomine.json) |
@@ -7549,6 +7551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evol Online | 122784 | [122784-evol-online.json](./122784-evol-online.json) |
 | Evoland | 2029 | [2029-evoland.json](./2029-evoland.json) |
 | Evoland 1 & 2: 10th Anniversary Edition | 270590 | [270590-evoland-1-and-2-10th-anniversary-edition.json](./270590-evoland-1-and-2-10th-anniversary-edition.json) |
+| Evoland 2: Deluxe Edition | 51814 | [51814-evoland-2-deluxe-edition.json](./51814-evoland-2-deluxe-edition.json) |
 | Evoland Classic | 315652 | [315652-evoland-classic.json](./315652-evoland-classic.json) |
 | Evoland Legendary Edition | 114910 | [114910-evoland-legendary-edition.json](./114910-evoland-legendary-edition.json) |
 | EvoLife | 323744 | [323744-evolife.json](./323744-evolife.json) |
@@ -8155,6 +8158,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Expandaball | 394809 | [394809-expandaball.json](./394809-expandaball.json) |
 | Expander | 34256 | [34256-expander.json](./34256-expander.json) |
 | Expanse | 343772 | [343772-expanse.json](./343772-expanse.json) |
+| Expanse | 52049 | [52049-expanse.json](./52049-expanse.json) |
 | ExpanSim | 117640 | [117640-expansim.json](./117640-expansim.json) |
 | Expansion | 120397 | [120397-expansion.json](./120397-expansion.json) |
 | Expansion | 285310 | [285310-expansion.json](./285310-expansion.json) |
