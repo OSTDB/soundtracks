@@ -926,6 +926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Off the Record: Liberty Stone - Collector's Edition | 81838 | [81838-off-the-record-liberty-stone-collectors-edition.json](./81838-off-the-record-liberty-stone-collectors-edition.json) |
 | Off the Record: Linden Shades - Collector's Edition | 32787 | [32787-off-the-record-linden-shades-collectors-edition.json](./32787-off-the-record-linden-shades-collectors-edition.json) |
 | Off The Record: The Art of Deception | 98411 | [98411-off-the-record-the-art-of-deception.json](./98411-off-the-record-the-art-of-deception.json) |
+| Off The Record: The Art of Deception - Collector's Edition | 29359 | [29359-off-the-record-the-art-of-deception-collectors-edition.json](./29359-off-the-record-the-art-of-deception-collectors-edition.json) |
 | Off The Record: The Art of Deception HD | 100214 | [100214-off-the-record-the-art-of-deception-hd.json](./100214-off-the-record-the-art-of-deception-hd.json) |
 | Off the Record: The Final Interview | 98409 | [98409-off-the-record-the-final-interview.json](./98409-off-the-record-the-final-interview.json) |
 | Off the Record: The Final Interview Collector's Edition | 102186 | [102186-off-the-record-the-final-interview-collectors-edition.json](./102186-off-the-record-the-final-interview-collectors-edition.json) |
