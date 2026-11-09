@@ -12030,6 +12030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mike & Tyler | 133348 | [133348-mike-and-tyler.json](./133348-mike-and-tyler.json) |
 | Mike and the Zombies | 243676 | [243676-mike-and-the-zombies.json](./243676-mike-and-the-zombies.json) |
 | Mike Builds a Shelter | 174793 | [174793-mike-builds-a-shelter.json](./174793-mike-builds-a-shelter.json) |
+| Mike Ditka Power Football | 46679 | [46679-mike-ditka-power-football.json](./46679-mike-ditka-power-football.json) |
 | Mike Edwards' Realm of Impossibility | 24635 | [24635-mike-edwards-realm-of-impossibility.json](./24635-mike-edwards-realm-of-impossibility.json) |
 | Mike Goes on Hike | 110125 | [110125-mike-goes-on-hike.json](./110125-mike-goes-on-hike.json) |
 | Mike Gunner | 142137 | [142137-mike-gunner.json](./142137-mike-gunner.json) |
@@ -18410,6 +18411,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moto Racer 15th Anniversary | 10565 | [10565-moto-racer-15th-anniversary.json](./10565-moto-racer-15th-anniversary.json) |
 | Moto Racer 2 | 10561 | [10561-moto-racer-2.json](./10561-moto-racer-2.json) |
 | Moto Racer 2044 Game Simulator: Money Magnet Bundle | 328988 | [328988-moto-racer-2044-game-simulator-money-magnet-bundle.json](./328988-moto-racer-2044-game-simulator-money-magnet-bundle.json) |
+| Moto Racer 3: Gold Edition | 46701 | [46701-moto-racer-3-gold-edition.json](./46701-moto-racer-3-gold-edition.json) |
 | Moto Racer 4 | 19345 | [19345-moto-racer-4.json](./19345-moto-racer-4.json) |
 | Moto Racer 4: Deluxe Edition | 25019 | [25019-moto-racer-4-deluxe-edition.json](./25019-moto-racer-4-deluxe-edition.json) |
 | Moto Racer 4: Rider Pack - Skewer | 261011 | [261011-moto-racer-4-rider-pack-skewer.json](./261011-moto-racer-4-rider-pack-skewer.json) |
