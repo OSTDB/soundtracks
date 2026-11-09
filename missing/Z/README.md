@@ -563,6 +563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zemblanity | 195101 | [195101-zemblanity.json](./195101-zemblanity.json) |
 | Zemeroth | 181245 | [181245-zemeroth.json](./181245-zemeroth.json) |
 | Zeminator | 120428 | [120428-zeminator.json](./120428-zeminator.json) |
+| Zems Online Card Game | 59553 | [59553-zems-online-card-game.json](./59553-zems-online-card-game.json) |
 | Zemsky Sobor | 376074 | [376074-zemsky-sobor.json](./376074-zemsky-sobor.json) |
 | ZemuRunner | 103980 | [103980-zemurunner.json](./103980-zemurunner.json) |
 | Zen | 180128 | [180128-zen.json](./180128-zen.json) |
@@ -1658,6 +1659,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Defense | 271703 | [271703-zombie-defense.json](./271703-zombie-defense.json) |
 | Zombie Defense HNG | 88353 | [88353-zombie-defense-hng.json](./88353-zombie-defense-hng.json) |
 | Zombie Defense Shelter | 130195 | [130195-zombie-defense-shelter.json](./130195-zombie-defense-shelter.json) |
+| Zombie Defense Squad | 59550 | [59550-zombie-defense-squad.json](./59550-zombie-defense-squad.json) |
+| Zombie Defense Squad 2 | 59549 | [59549-zombie-defense-squad-2.json](./59549-zombie-defense-squad-2.json) |
 | Zombie Defense: Banana | 404557 | [404557-zombie-defense-banana.json](./404557-zombie-defense-banana.json) |
 | Zombie Defense: Breach of the Undead | 392584 | [392584-zombie-defense-breach-of-the-undead.json](./392584-zombie-defense-breach-of-the-undead.json) |
 | Zombie Defense: Commando Edition | 277914 | [277914-zombie-defense-commando-edition.json](./277914-zombie-defense-commando-edition.json) |
@@ -2076,6 +2079,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombieeee! | 151718 | [151718-zombieeee.json](./151718-zombieeee.json) |
 | Zombiefield | 336751 | [336751-zombiefield.json](./336751-zombiefield.json) |
 | ZombieFight VR | 30061 | [30061-zombiefight-vr.json](./30061-zombiefight-vr.json) |
+| Zombiegal Kawaii | 60099 | [60099-zombiegal-kawaii.json](./60099-zombiegal-kawaii.json) |
 | ZombieGirl | 137334 | [137334-zombiegirl.json](./137334-zombiegirl.json) |
 | ZombieGirl 2: The Lovers | 137335 | [137335-zombiegirl-2-the-lovers.json](./137335-zombiegirl-2-the-lovers.json) |
 | ZombieGirl Side:S Sister | 137336 | [137336-zombiegirl-side-s-sister.json](./137336-zombiegirl-side-s-sister.json) |
