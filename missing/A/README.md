@@ -231,6 +231,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cup of Tea | 392397 | [392397-a-cup-of-tea.json](./392397-a-cup-of-tea.json) |
 | A Cupid's Day | 397528 | [397528-a-cupids-day.json](./397528-a-cupids-day.json) |
 | A Cure for Jessica | 169597 | [169597-a-cure-for-jessica.json](./169597-a-cure-for-jessica.json) |
+| A Cure for the Common Cold | 72389 | [72389-a-cure-for-the-common-cold.json](./72389-a-cure-for-the-common-cold.json) |
 | A Curious Pastime | 166669 | [166669-a-curious-pastime.json](./166669-a-curious-pastime.json) |
 | A Cut Above: Mow & Grow | 379572 | [379572-a-cut-above-mow-and-grow.json](./379572-a-cut-above-mow-and-grow.json) |
 | A Cyberpunk's Dream of 2077 | 228992 | [228992-a-cyberpunks-dream-of-2077.json](./228992-a-cyberpunks-dream-of-2077.json) |
@@ -12191,6 +12192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Appleblossom Academy 2 | 185422 | [185422-appleblossom-academy-2.json](./185422-appleblossom-academy-2.json) |
 | Appleocalypse | 223375 | [223375-appleocalypse.json](./223375-appleocalypse.json) |
 | ApplePop | 352541 | [352541-applepop.json](./352541-applepop.json) |
+| Apples & Oranges | 72237 | [72237-apples-and-oranges.json](./72237-apples-and-oranges.json) |
 | Apples and Asteroids | 215526 | [215526-apples-and-asteroids.json](./215526-apples-and-asteroids.json) |
 | Apples and Dolls | 40612 | [40612-apples-and-dolls.json](./40612-apples-and-dolls.json) |
 | Apples and Oranges | 308424 | [308424-apples-and-oranges.json](./308424-apples-and-oranges.json) |
