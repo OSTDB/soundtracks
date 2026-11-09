@@ -2144,6 +2144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harley-Davidson: Race to the Rally | 66341 | [66341-harley-davidson-race-to-the-rally.json](./66341-harley-davidson-race-to-the-rally.json) |
 | Harley-Davidson: Road Trip | 50959 | [50959-harley-davidson-road-trip.json](./50959-harley-davidson-road-trip.json) |
 | Harley-Davidson: The Road to Sturgis | 12137 | [12137-harley-davidson-the-road-to-sturgis.json](./12137-harley-davidson-the-road-to-sturgis.json) |
+| Harley-Davidson: Wheels of Freedom | 73939 | [73939-harley-davidson-wheels-of-freedom.json](./73939-harley-davidson-wheels-of-freedom.json) |
 | Harley's Humongous Adventure | 20337 | [20337-harleys-humongous-adventure.json](./20337-harleys-humongous-adventure.json) |
 | Harlow | 151023 | [151023-harlow.json](./151023-harlow.json) |
 | Harm Other | 96502 | [96502-harm-other.json](./96502-harm-other.json) |
@@ -12505,6 +12506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunting Unlimited 2009 | 30860 | [30860-hunting-unlimited-2009.json](./30860-hunting-unlimited-2009.json) |
 | Hunting Unlimited 2010 | 14865 | [14865-hunting-unlimited-2010.json](./14865-hunting-unlimited-2010.json) |
 | Hunting Unlimited 2011 | 30859 | [30859-hunting-unlimited-2011.json](./30859-hunting-unlimited-2011.json) |
+| Hunting Unlimited 3 | 73952 | [73952-hunting-unlimited-3.json](./73952-hunting-unlimited-3.json) |
 | Hunting Unlimited 4 | 24491 | [24491-hunting-unlimited-4.json](./24491-hunting-unlimited-4.json) |
 | Hunting Unlimited 4 | 69145 | [69145-hunting-unlimited-4.json](./69145-hunting-unlimited-4.json) |
 | Hunting Unlimited Trophy Collection | 69182 | [69182-hunting-unlimited-trophy-collection.json](./69182-hunting-unlimited-trophy-collection.json) |
