@@ -6715,6 +6715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of the King | 271409 | [271409-revenge-of-the-king.json](./271409-revenge-of-the-king.json) |
 | Revenge of the Mage | 325931 | [325931-revenge-of-the-mage.json](./325931-revenge-of-the-mage.json) |
 | Revenge of the Mutant Camels | 40918 | [40918-revenge-of-the-mutant-camels.json](./40918-revenge-of-the-mutant-camels.json) |
+| Revenge of the Ninja | 19823 | [19823-revenge-of-the-ninja.json](./19823-revenge-of-the-ninja.json) |
 | Revenge of the Ninja HD Remaster | 255873 | [255873-revenge-of-the-ninja-hd-remaster.json](./255873-revenge-of-the-ninja-hd-remaster.json) |
 | Revenge of the Ronin | 277302 | [277302-revenge-of-the-ronin.json](./277302-revenge-of-the-ronin.json) |
 | Revenge of the Savage Planet: Bingo Brawl | 378129 | [378129-revenge-of-the-savage-planet-bingo-brawl.json](./378129-revenge-of-the-savage-planet-bingo-brawl.json) |
@@ -8025,6 +8026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rip Cord | 39516 | [39516-rip-cord.json](./39516-rip-cord.json) |
 | Rip Current | 370308 | [370308-rip-current.json](./370308-rip-current.json) |
 | Rip N Ship Simulator | 415279 | [415279-rip-n-ship-simulator.json](./415279-rip-n-ship-simulator.json) |
+| Rip Off | 18742 | [18742-rip-off.json](./18742-rip-off.json) |
 | RIP Party | 375806 | [375806-rip-party.json](./375806-rip-party.json) |
 | Rip them Off | 136851 | [136851-rip-them-off.json](./136851-rip-them-off.json) |
 | RIP Trilogy | 27790 | [27790-rip-trilogy.json](./27790-rip-trilogy.json) |
