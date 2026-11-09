@@ -1050,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War Over Vietnam | 59306 | [59306-war-over-vietnam.json](./59306-war-over-vietnam.json) |
 | War Party | 81634 | [81634-war-party.json](./81634-war-party.json) |
 | War Pawns | 413204 | [413204-war-pawns.json](./413204-war-pawns.json) |
+| War Pig | 66819 | [66819-war-pig.json](./66819-war-pig.json) |
 | WAR Pig - Big Bang | 75003 | [75003-war-pig-big-bang.json](./75003-war-pig-big-bang.json) |
 | War Pigeons | 348776 | [348776-war-pigeons.json](./348776-war-pigeons.json) |
 | War Pinball | 209715 | [209715-war-pinball.json](./209715-war-pinball.json) |
@@ -1943,6 +1944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warpfire.io | 412425 | [412425-warpfire-io.json](./412425-warpfire-io.json) |
 | Warpflux | 189882 | [189882-warpflux.json](./189882-warpflux.json) |
 | WarpForce | 55876 | [55876-warpforce.json](./55876-warpforce.json) |
+| Warpgate | 66814 | [66814-warpgate.json](./66814-warpgate.json) |
 | Warpgate Pioneers | 280105 | [280105-warpgate-pioneers.json](./280105-warpgate-pioneers.json) |
 | Warpie | 188034 | [188034-warpie.json](./188034-warpie.json) |
 | Warpin: Creation (VR) | 30724 | [30724-warpin-creation-vr.json](./30724-warpin-creation-vr.json) |
@@ -6130,6 +6132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Post 9: 2022 | 201030 | [201030-winning-post-9-2022.json](./201030-winning-post-9-2022.json) |
 | Winning Post EX | 63591 | [63591-winning-post-ex.json](./63591-winning-post-ex.json) |
 | Winning Post World | 59214 | [59214-winning-post-world.json](./59214-winning-post-world.json) |
+| Winning Post World 2010 | 66821 | [66821-winning-post-world-2010.json](./66821-winning-post-world-2010.json) |
 | Winning Putt | 21652 | [21652-winning-putt.json](./21652-winning-putt.json) |
 | Winning Putt: Golf Online | 33125 | [33125-winning-putt-golf-online.json](./33125-winning-putt-golf-online.json) |
 | Winning Run | 64491 | [64491-winning-run.json](./64491-winning-run.json) |
@@ -7738,6 +7741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Word Monaco | 205881 | [205881-word-monaco.json](./205881-word-monaco.json) |
 | Word Monsters | 241196 | [241196-word-monsters.json](./241196-word-monsters.json) |
 | Word Munchers | 82151 | [82151-word-munchers.json](./82151-word-munchers.json) |
+| Word Munchers Deluxe | 66722 | [66722-word-munchers-deluxe.json](./66722-word-munchers-deluxe.json) |
 | Word Nut | 104739 | [104739-word-nut.json](./104739-word-nut.json) |
 | Word of Kitchen | 190702 | [190702-word-of-kitchen.json](./190702-word-of-kitchen.json) |
 | Word of Mouth Stories | 152991 | [152991-word-of-mouth-stories.json](./152991-word-of-mouth-stories.json) |
