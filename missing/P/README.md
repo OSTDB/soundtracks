@@ -2623,6 +2623,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parlor! Mini 5 | 37891 | [37891-parlor-mini-5.json](./37891-parlor-mini-5.json) |
 | Parlor! Mini 6 | 37878 | [37878-parlor-mini-6.json](./37878-parlor-mini-6.json) |
 | Parlor! Mini 7 | 37877 | [37877-parlor-mini-7.json](./37877-parlor-mini-7.json) |
+| Parlor! Pro 64: Pachinko Jikki Simulation | 3571 | [3571-parlor-pro-64-pachinko-jikki-simulation.json](./3571-parlor-pro-64-pachinko-jikki-simulation.json) |
 | Parlour Games | 46135 | [46135-parlour-games.json](./46135-parlour-games.json) |
 | Parman: Haunted School Guard | 381537 | [381537-parman-haunted-school-guard.json](./381537-parman-haunted-school-guard.json) |
 | Parmesan | 184080 | [184080-parmesan.json](./184080-parmesan.json) |
@@ -3761,6 +3762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PCB | 372104 | [372104-pcb.json](./372104-pcb.json) |
 | PCD | 256940 | [256940-pcd.json](./256940-pcd.json) |
 | PCDX | 313082 | [313082-pcdx.json](./313082-pcdx.json) |
+| PD Ultraman Battle Collection 64 | 3572 | [3572-pd-ultraman-battle-collection-64.json](./3572-pd-ultraman-battle-collection-64.json) |
 | PD Ultraman Invader | 64071 | [64071-pd-ultraman-invader.json](./64071-pd-ultraman-invader.json) |
 | PD Ultraman Link | 107621 | [107621-pd-ultraman-link.json](./107621-pd-ultraman-link.json) |
 | PD: Prope Discoverer | 230223 | [230223-pd-prope-discoverer.json](./230223-pd-prope-discoverer.json) |
@@ -12298,6 +12300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Polaris Sector | 24620 | [24620-polaris-sector.json](./24620-polaris-sector.json) |
 | Polaris Sector: Lumens | 172277 | [172277-polaris-sector-lumens.json](./172277-polaris-sector-lumens.json) |
 | Polaris SnoCross | 249122 | [249122-polaris-snocross.json](./249122-polaris-snocross.json) |
+| Polaris SnoCross | 3575 | [3575-polaris-snocross.json](./3575-polaris-snocross.json) |
 | Polarities | 133177 | [133177-polarities.json](./133177-polarities.json) |
 | Polarity | 17683 | [17683-polarity.json](./17683-polarity.json) |
 | Polarity Remastered | 336401 | [336401-polarity-remastered.json](./336401-polarity-remastered.json) |
@@ -14010,6 +14013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power is Everything | 365390 | [365390-power-is-everything.json](./365390-power-is-everything.json) |
 | Power Jet Racing 2001 | 137760 | [137760-power-jet-racing-2001.json](./137760-power-jet-racing-2001.json) |
 | Power League '93 | 37662 | [37662-power-league-93.json](./37662-power-league-93.json) |
+| Power League 64 | 3576 | [3576-power-league-64.json](./3576-power-league-64.json) |
 | Power League II | 38089 | [38089-power-league-ii.json](./38089-power-league-ii.json) |
 | Power League III | 42096 | [42096-power-league-iii.json](./42096-power-league-iii.json) |
 | Power League IV | 43191 | [43191-power-league-iv.json](./43191-power-league-iv.json) |
@@ -14539,6 +14543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premier Manager 64 | 44034 | [44034-premier-manager-64.json](./44034-premier-manager-64.json) |
 | Premier Manager 97 | 45706 | [45706-premier-manager-97.json](./45706-premier-manager-97.json) |
 | Premier Manager 98 | 45046 | [45046-premier-manager-98.json](./45046-premier-manager-98.json) |
+| Premier Manager: Ninety Nine | 3577 | [3577-premier-manager-ninety-nine.json](./3577-premier-manager-ninety-nine.json) |
 | Premier Multi-Edit System | 131284 | [131284-premier-multi-edit-system.json](./131284-premier-multi-edit-system.json) |
 | Premier Picks | 94407 | [94407-premier-picks.json](./94407-premier-picks.json) |
 | Premier Servi | 293635 | [293635-premier-servi.json](./293635-premier-servi.json) |
