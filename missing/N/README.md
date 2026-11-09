@@ -492,6 +492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nanoloop | 93994 | [93994-nanoloop.json](./93994-nanoloop.json) |
 | NanoMachina | 188915 | [188915-nanomachina.json](./188915-nanomachina.json) |
 | Nanoman | 238377 | [238377-nanoman.json](./238377-nanoman.json) |
+| Nanomedix Inc | 31023 | [31023-nanomedix-inc.json](./31023-nanomedix-inc.json) |
 | Nanooborg | 31562 | [31562-nanooborg.json](./31562-nanooborg.json) |
 | Nanopesos | 125256 | [125256-nanopesos.json](./125256-nanopesos.json) |
 | Nanopineapple 2018 | 315618 | [315618-nanopineapple-2018.json](./315618-nanopineapple-2018.json) |
@@ -1661,6 +1662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Necroa Village | 370052 | [370052-necroa-village.json](./370052-necroa-village.json) |
 | NecroArcher | 199359 | [199359-necroarcher.json](./199359-necroarcher.json) |
 | NecroAttack! | 261676 | [261676-necroattack.json](./261676-necroattack.json) |
+| Necroball | 30303 | [30303-necroball.json](./30303-necroball.json) |
 | Necrobarista | 26870 | [26870-necrobarista.json](./26870-necrobarista.json) |
 | Necrobarista: Final Pour | 163630 | [163630-necrobarista-final-pour.json](./163630-necrobarista-final-pour.json) |
 | Necrobius | 178181 | [178181-necrobius.json](./178181-necrobius.json) |
@@ -6508,6 +6510,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nodes of Yesod: 25th Anniversary Edition | 264975 | [264975-nodes-of-yesod-25th-anniversary-edition.json](./264975-nodes-of-yesod-25th-anniversary-edition.json) |
 | Nodevious | 181163 | [181163-nodevious.json](./181163-nodevious.json) |
 | Nodge Pre-Alpha | 76697 | [76697-nodge-pre-alpha.json](./76697-nodge-pre-alpha.json) |
+| Nodiatis | 30966 | [30966-nodiatis.json](./30966-nodiatis.json) |
 | Nodrog's Fortress | 182463 | [182463-nodrogs-fortress.json](./182463-nodrogs-fortress.json) |
 | Nodwar | 378906 | [378906-nodwar.json](./378906-nodwar.json) |
 | Nodyssey | 196937 | [196937-nodyssey.json](./196937-nodyssey.json) |
