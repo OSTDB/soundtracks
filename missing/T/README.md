@@ -4451,6 +4451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teri Mix | 77951 | [77951-teri-mix.json](./77951-teri-mix.json) |
 | Teria | 30450 | [30450-teria.json](./30450-teria.json) |
 | Terix Survivors | 236268 | [236268-terix-survivors.json](./236268-terix-survivors.json) |
+| TerkEngine | 56617 | [56617-terkengine.json](./56617-terkengine.json) |
 | Termalloc | 212601 | [212601-termalloc.json](./212601-termalloc.json) |
 | Termina | 217333 | [217333-termina.json](./217333-termina.json) |
 | Termina Invasion | 294711 | [294711-termina-invasion.json](./294711-termina-invasion.json) |
@@ -12999,6 +13000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Super Mario: Save Mushroom Kingdom | 264418 | [264418-the-legend-of-super-mario-save-mushroom-kingdom.json](./264418-the-legend-of-super-mario-save-mushroom-kingdom.json) |
 | The Legend of Sword and Fairy | 18928 | [18928-the-legend-of-sword-and-fairy.json](./18928-the-legend-of-sword-and-fairy.json) |
 | The Legend of Sword and Fairy 2 | 78448 | [78448-the-legend-of-sword-and-fairy-2.json](./78448-the-legend-of-sword-and-fairy-2.json) |
+| The Legend of Sword and Fairy 3 | 56624 | [56624-the-legend-of-sword-and-fairy-3.json](./56624-the-legend-of-sword-and-fairy-3.json) |
 | The Legend of Sword and Fairy 3 Prequel | 78466 | [78466-the-legend-of-sword-and-fairy-3-prequel.json](./78466-the-legend-of-sword-and-fairy-3-prequel.json) |
 | The Legend of Sword and Fairy 4 | 78465 | [78465-the-legend-of-sword-and-fairy-4.json](./78465-the-legend-of-sword-and-fairy-4.json) |
 | The Legend of Sword and Fairy 4: Remake | 383008 | [383008-the-legend-of-sword-and-fairy-4-remake.json](./383008-the-legend-of-sword-and-fairy-4-remake.json) |
@@ -20306,6 +20308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | These Heavenly Bodies | 315193 | [315193-these-heavenly-bodies.json](./315193-these-heavenly-bodies.json) |
 | These Lands | 117221 | [117221-these-lands.json](./117221-these-lands.json) |
 | These Little Pigs | 397529 | [397529-these-little-pigs.json](./397529-these-little-pigs.json) |
+| These Monsters | 56178 | [56178-these-monsters.json](./56178-these-monsters.json) |
 | These Nights Alone | 156071 | [156071-these-nights-alone.json](./156071-these-nights-alone.json) |
 | These nights in Cairo | 74688 | [74688-these-nights-in-cairo.json](./74688-these-nights-in-cairo.json) |
 | These Out of Control Booty Shaking Kittens are Ruining My Castlevania! | 184745 | [184745-these-out-of-control-booty-shaking-kittens-are-ruining-my-castlevania.json](./184745-these-out-of-control-booty-shaking-kittens-are-ruining-my-castlevania.json) |
