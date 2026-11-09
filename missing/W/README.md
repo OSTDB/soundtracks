@@ -961,6 +961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Ants | 134766 | [134766-war-of-ants.json](./134766-war-of-ants.json) |
 | War of Ashird | 122974 | [122974-war-of-ashird.json](./122974-war-of-ashird.json) |
 | War of Banners | 365049 | [365049-war-of-banners.json](./365049-war-of-banners.json) |
+| War of Beach | 34545 | [34545-war-of-beach.json](./34545-war-of-beach.json) |
 | War of Being | 260574 | [260574-war-of-being.json](./260574-war-of-being.json) |
 | War of Bellrook | 211123 | [211123-war-of-bellrook.json](./211123-war-of-bellrook.json) |
 | War Of Castles | 282249 | [282249-war-of-castles.json](./282249-war-of-castles.json) |
@@ -7632,6 +7633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Woody Woodpecker: Escape from Buzz Buzzard Park | 43561 | [43561-woody-woodpecker-escape-from-buzz-buzzard-park.json](./43561-woody-woodpecker-escape-from-buzz-buzzard-park.json) |
 | Woody's Incredible Journey to the Escape from Eternal Terror | 265684 | [265684-woodys-incredible-journey-to-the-escape-from-eternal-terror.json](./265684-woodys-incredible-journey-to-the-escape-from-eternal-terror.json) |
 | WoodZone | 107815 | [107815-woodzone.json](./107815-woodzone.json) |
+| Woof Blaster | 34553 | [34553-woof-blaster.json](./34553-woof-blaster.json) |
 | Woofice Chair! | 183525 | [183525-woofice-chair.json](./183525-woofice-chair.json) |
 | WoofWatch | 396644 | [396644-woofwatch.json](./396644-woofwatch.json) |
 | Woofy Run | 373017 | [373017-woofy-run.json](./373017-woofy-run.json) |
