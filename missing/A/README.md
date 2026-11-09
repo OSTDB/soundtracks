@@ -16918,6 +16918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asura | 244393 | [244393-asura.json](./244393-asura.json) |
 | Asura | 28158 | [28158-asura.json](./28158-asura.json) |
 | Asura Blade: Sword of Dynasty | 38514 | [38514-asura-blade-sword-of-dynasty.json](./38514-asura-blade-sword-of-dynasty.json) |
+| Asura Buster: Eternal Warriors | 39701 | [39701-asura-buster-eternal-warriors.json](./39701-asura-buster-eternal-warriors.json) |
 | Asura Cross | 38710 | [38710-asura-cross.json](./38710-asura-cross.json) |
 | Asura Girls | 248923 | [248923-asura-girls.json](./248923-asura-girls.json) |
 | Asura The Striker | 247093 | [247093-asura-the-striker.json](./247093-asura-the-striker.json) |
@@ -17321,6 +17322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Athena Cykes: Ace Attorney - Dark Ace Saga | 308427 | [308427-athena-cykes-ace-attorney-dark-ace-saga.json](./308427-athena-cykes-ace-attorney-dark-ace-saga.json) |
 | Athena Cykes: Ace Attorney - Locks on the Heart | 306604 | [306604-athena-cykes-ace-attorney-locks-on-the-heart.json](./306604-athena-cykes-ace-attorney-locks-on-the-heart.json) |
 | Athena Cykes: Ace Attorney - Trials of time. | 305191 | [305191-athena-cykes-ace-attorney-trials-of-time.json](./305191-athena-cykes-ace-attorney-trials-of-time.json) |
+| Athena In Wonderland | 39710 | [39710-athena-in-wonderland.json](./39710-athena-in-wonderland.json) |
 | Athena no Kateiban: Family Games | 285988 | [285988-athena-no-kateiban-family-games.json](./285988-athena-no-kateiban-family-games.json) |
 | Athena Trivia | 147540 | [147540-athena-trivia.json](./147540-athena-trivia.json) |
 | Athena, the rabbit: Jigsaw Puzzle | 162206 | [162206-athena-the-rabbit-jigsaw-puzzle.json](./162206-athena-the-rabbit-jigsaw-puzzle.json) |
