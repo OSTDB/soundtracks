@@ -8212,6 +8212,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Class Rugby 2: Kokunai Gekitou-hen '93 | 60508 | [60508-world-class-rugby-2-kokunai-gekitou-hen-93.json](./60508-world-class-rugby-2-kokunai-gekitou-hen-93.json) |
 | World Class Rugby: Five Nations Edition | 396768 | [396768-world-class-rugby-five-nations-edition.json](./396768-world-class-rugby-five-nations-edition.json) |
 | World Class Service Super Nintendo Tester | 37765 | [37765-world-class-service-super-nintendo-tester.json](./37765-world-class-service-super-nintendo-tester.json) |
+| World Class Soccer | 40864 | [40864-world-class-soccer.json](./40864-world-class-soccer.json) |
 | World Class Solitaire HD | 355012 | [355012-world-class-solitaire-hd.json](./355012-world-class-solitaire-hd.json) |
 | World Class Track Meet | 2242 | [2242-world-class-track-meet.json](./2242-world-class-track-meet.json) |
 | World Clock | 90901 | [90901-world-clock.json](./90901-world-clock.json) |
