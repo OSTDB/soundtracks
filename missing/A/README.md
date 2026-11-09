@@ -11795,6 +11795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apache 3 | 39322 | [39322-apache-3.json](./39322-apache-3.json) |
 | Apache 3D Sim Flight Simulator | 223635 | [223635-apache-3d-sim-flight-simulator.json](./223635-apache-3d-sim-flight-simulator.json) |
 | Apache Flight | 14166 | [14166-apache-flight.json](./14166-apache-flight.json) |
+| Apache Longbow Assault | 61740 | [61740-apache-longbow-assault.json](./61740-apache-longbow-assault.json) |
 | Apache Overkill | 42782 | [42782-apache-overkill.json](./42782-apache-overkill.json) |
 | Apache SIM HD | 89009 | [89009-apache-sim-hd.json](./89009-apache-sim-hd.json) |
 | Apache Strike | 137662 | [137662-apache-strike.json](./137662-apache-strike.json) |
