@@ -4958,6 +4958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eric and the Floaters | 45324 | [45324-eric-and-the-floaters.json](./45324-eric-and-the-floaters.json) |
 | Eric Cantona Football Challenge | 42402 | [42402-eric-cantona-football-challenge.json](./42402-eric-cantona-football-challenge.json) |
 | Eric the Unready | 12426 | [12426-eric-the-unready.json](./12426-eric-the-unready.json) |
+| Eric Young's Squad Assault: West Front | 73379 | [73379-eric-youngs-squad-assault-west-front.json](./73379-eric-youngs-squad-assault-west-front.json) |
 | Eric's All-in-1 Solitaire | 86728 | [86728-erics-all-in-1-solitaire.json](./86728-erics-all-in-1-solitaire.json) |
 | Eric's Klondike Solitaire Pack | 95675 | [95675-erics-klondike-solitaire-pack.json](./95675-erics-klondike-solitaire-pack.json) |
 | Eric's Ultimate Solitaire | 170342 | [170342-erics-ultimate-solitaire.json](./170342-erics-ultimate-solitaire.json) |
@@ -6602,6 +6603,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europa Truck Driving Sim 2021 | 280078 | [280078-europa-truck-driving-sim-2021.json](./280078-europa-truck-driving-sim-2021.json) |
 | Europa Universalis | 2022 | [2022-europa-universalis.json](./2022-europa-universalis.json) |
 | Europa Universalis II | 682 | [682-europa-universalis-ii.json](./682-europa-universalis-ii.json) |
+| Europa Universalis II: Asia Chapters | 73408 | [73408-europa-universalis-ii-asia-chapters.json](./73408-europa-universalis-ii-asia-chapters.json) |
 | Europa Universalis III | 683 | [683-europa-universalis-iii.json](./683-europa-universalis-iii.json) |
 | Europa Universalis III Chronicles | 25525 | [25525-europa-universalis-iii-chronicles.json](./25525-europa-universalis-iii-chronicles.json) |
 | Europa Universalis III: Collector's Edition | 52971 | [52971-europa-universalis-iii-collectors-edition.json](./52971-europa-universalis-iii-collectors-edition.json) |
@@ -6683,6 +6685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Europe Front Remastered | 357399 | [357399-europe-front-remastered.json](./357399-europe-front-remastered.json) |
 | Europe Geography | 228290 | [228290-europe-geography.json](./228290-europe-geography.json) |
 | Europe Heatwave Simulator | 409396 | [409396-europe-heatwave-simulator.json](./409396-europe-heatwave-simulator.json) |
+| Europe in Flames | 73376 | [73376-europe-in-flames.json](./73376-europe-in-flames.json) |
 | Europe Racer | 16967 | [16967-europe-racer.json](./16967-europe-racer.json) |
 | Europe Truck Simulator | 174996 | [174996-europe-truck-simulator.json](./174996-europe-truck-simulator.json) |
 | European 2 | 70128 | [70128-european-2.json](./70128-european-2.json) |
@@ -7301,6 +7304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Cucumber | 169374 | [169374-evil-cucumber.json](./169374-evil-cucumber.json) |
 | Evil Cult | 133010 | [133010-evil-cult.json](./133010-evil-cult.json) |
 | Evil Dark | 311225 | [311225-evil-dark.json](./311225-evil-dark.json) |
+| Evil Days of Luckless John | 73397 | [73397-evil-days-of-luckless-john.json](./73397-evil-days-of-luckless-john.json) |
 | Evil Dead Pinball | 219100 | [219100-evil-dead-pinball.json](./219100-evil-dead-pinball.json) |
 | Evil Dead: A Fistful of Boomstick | 5827 | [5827-evil-dead-a-fistful-of-boomstick.json](./5827-evil-dead-a-fistful-of-boomstick.json) |
 | Evil Dead: Hail to the King | 47078 | [47078-evil-dead-hail-to-the-king.json](./47078-evil-dead-hail-to-the-king.json) |
