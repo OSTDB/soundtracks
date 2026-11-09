@@ -321,6 +321,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Difficult Game About Rolling: ReUpRise | 293739 | [293739-a-difficult-game-about-rolling-reuprise.json](./293739-a-difficult-game-about-rolling-reuprise.json) |
 | A Difficult Game About Wheelchair | 348007 | [348007-a-difficult-game-about-wheelchair.json](./348007-a-difficult-game-about-wheelchair.json) |
 | A Dino's Journey | 319388 | [319388-a-dinos-journey.json](./319388-a-dinos-journey.json) |
+| A Dinosaur's Tale | 14696 | [14696-a-dinosaurs-tale.json](./14696-a-dinosaurs-tale.json) |
 | A Dire Emergency in Space | 253157 | [253157-a-dire-emergency-in-space.json](./253157-a-dire-emergency-in-space.json) |
 | A Directionless Cycle | 329236 | [329236-a-directionless-cycle.json](./329236-a-directionless-cycle.json) |
 | A Divided Light | 96766 | [96766-a-divided-light.json](./96766-a-divided-light.json) |
@@ -2734,6 +2735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace Combat 8: Wings of Theve Deluxe Edition | 404097 | [404097-ace-combat-8-wings-of-theve-deluxe-edition.json](./404097-ace-combat-8-wings-of-theve-deluxe-edition.json) |
 | Ace Combat Infinity | 6628 | [6628-ace-combat-infinity.json](./6628-ace-combat-infinity.json) |
 | Ace Combat X: Recompiled | 413916 | [413916-ace-combat-x-recompiled.json](./413916-ace-combat-x-recompiled.json) |
+| Ace Combat Xi: Skies of Incursion | 14756 | [14756-ace-combat-xi-skies-of-incursion.json](./14756-ace-combat-xi-skies-of-incursion.json) |
 | Ace Combat: Assault Horizon - Enhanced Edition | 20850 | [20850-ace-combat-assault-horizon-enhanced-edition.json](./20850-ace-combat-assault-horizon-enhanced-edition.json) |
 | Ace Combat: Joint Assault | 14757 | [14757-ace-combat-joint-assault.json](./14757-ace-combat-joint-assault.json) |
 | Ace Combat: Northern Wings | 175783 | [175783-ace-combat-northern-wings.json](./175783-ace-combat-northern-wings.json) |
@@ -5605,6 +5607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Combat | 14691 | [14691-air-combat.json](./14691-air-combat.json) |
 | Air Combat | 333953 | [333953-air-combat.json](./333953-air-combat.json) |
 | Air Combat 2015 | 227208 | [227208-air-combat-2015.json](./227208-air-combat-2015.json) |
+| Air Combat 22 | 14749 | [14749-air-combat-22.json](./14749-air-combat-22.json) |
 | Air Combat Arena | 94974 | [94974-air-combat-arena.json](./94974-air-combat-arena.json) |
 | Air Combat Fighter | 119024 | [119024-air-combat-fighter.json](./119024-air-combat-fighter.json) |
 | Air Combat II Special | 299793 | [299793-air-combat-ii-special.json](./299793-air-combat-ii-special.json) |
@@ -17415,7 +17418,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
