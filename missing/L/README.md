@@ -10257,6 +10257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunatic Fringe | 133956 | [133956-lunatic-fringe.json](./133956-lunatic-fringe.json) |
 | Lunatic Rave 2 | 79901 | [79901-lunatic-rave-2.json](./79901-lunatic-rave-2.json) |
 | Lunatic Viewer: Streamer Girl at Risk | 215979 | [215979-lunatic-viewer-streamer-girl-at-risk.json](./215979-lunatic-viewer-streamer-girl-at-risk.json) |
+| LunaticRave NextWave: Endless Music | 56717 | [56717-lunaticrave-nextwave-endless-music.json](./56717-lunaticrave-nextwave-endless-music.json) |
 | Lunavania | 317783 | [317783-lunavania.json](./317783-lunavania.json) |
 | Lunavoid | 356023 | [356023-lunavoid.json](./356023-lunavoid.json) |
 | Lunaxxx | 101175 | [101175-lunaxxx.json](./101175-lunaxxx.json) |
