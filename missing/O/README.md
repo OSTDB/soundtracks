@@ -2635,7 +2635,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Piece: Maboroshi no Grand Line Boukenki! | 75744 | [75744-one-piece-maboroshi-no-grand-line-boukenki.json](./75744-one-piece-maboroshi-no-grand-line-boukenki.json) |
 | One Piece: Mezase Kaizoku-ou! | 75737 | [75737-one-piece-mezase-kaizoku-ou.json](./75737-one-piece-mezase-kaizoku-ou.json) |
 | One Piece: Mezase Kaizokuou! | 61475 | [61475-one-piece-mezase-kaizokuou.json](./61475-one-piece-mezase-kaizokuou.json) |
+| One Piece: Mezase! King of Berry | 65695 | [65695-one-piece-mezase-king-of-berry.json](./65695-one-piece-mezase-king-of-berry.json) |
 | One Piece: Nanatsu Shima no Daihihou | 75747 | [75747-one-piece-nanatsu-shima-no-daihihou.json](./75747-one-piece-nanatsu-shima-no-daihihou.json) |
+| One Piece: Niji no Shima Densetsu | 65698 | [65698-one-piece-niji-no-shima-densetsu.json](./65698-one-piece-niji-no-shima-densetsu.json) |
 | One Piece: Niji no Shima Densetsu | 75741 | [75741-one-piece-niji-no-shima-densetsu.json](./75741-one-piece-niji-no-shima-densetsu.json) |
 | One Piece: Ocean's Dream! | 75750 | [75750-one-piece-oceans-dream.json](./75750-one-piece-oceans-dream.json) |
 | One Piece: Odyssey - Collector's Edition | 218216 | [218216-one-piece-odyssey-collectors-edition.json](./218216-one-piece-odyssey-collectors-edition.json) |
@@ -2879,6 +2881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Onechanbara Origin: Exclusive Lei Bonus Mission - The Destruction of Uroboros | 167898 | [167898-onechanbara-origin-exclusive-lei-bonus-mission-the-destruction-of-uroboros.json](./167898-onechanbara-origin-exclusive-lei-bonus-mission-the-destruction-of-uroboros.json) |
 | Onechanbara Origin: Exclusive Saki Bonus Mission - A Shitty Father | 167901 | [167901-onechanbara-origin-exclusive-saki-bonus-mission-a-shitty-father.json](./167901-onechanbara-origin-exclusive-saki-bonus-mission-a-shitty-father.json) |
 | Onechanbara Origin: Exclusive Saki Bonus Mission - Fight to the Death | 167899 | [167899-onechanbara-origin-exclusive-saki-bonus-mission-fight-to-the-death.json](./167899-onechanbara-origin-exclusive-saki-bonus-mission-fight-to-the-death.json) |
+| Onechanbara Z: Kagura | 65700 | [65700-onechanbara-z-kagura.json](./65700-onechanbara-z-kagura.json) |
 | Onechanbara Z: Kagura With NoNoNo! | 116359 | [116359-onechanbara-z-kagura-with-nonono.json](./116359-onechanbara-z-kagura-with-nonono.json) |
 | Onechanbara Z2: Chaos | 11004 | [11004-onechanbara-z2-chaos.json](./11004-onechanbara-z2-chaos.json) |
 | Onechanbara Z2: Chaos - Black Rose | 343606 | [343606-onechanbara-z2-chaos-black-rose.json](./343606-onechanbara-z2-chaos-black-rose.json) |
@@ -4225,6 +4228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ore no Stalker | 174974 | [174974-ore-no-stalker.json](./174974-ore-no-stalker.json) |
 | Ore no Yacht: Ganbare Nippon Challenge | 378439 | [378439-ore-no-yacht-ganbare-nippon-challenge.json](./378439-ore-no-yacht-ganbare-nippon-challenge.json) |
 | Ore no Yome VR | 304892 | [304892-ore-no-yome-vr.json](./304892-ore-no-yome-vr.json) |
+| Ore no Yome: Anata Dake no Hanayome | 66223 | [66223-ore-no-yome-anata-dake-no-hanayome.json](./66223-ore-no-yome-anata-dake-no-hanayome.json) |
 | Ore no Yuukyuu Koi Monogatari | 259614 | [259614-ore-no-yuukyuu-koi-monogatari.json](./259614-ore-no-yuukyuu-koi-monogatari.json) |
 | Ore o Hoshigaru Futari no Haha | 97464 | [97464-ore-o-hoshigaru-futari-no-haha.json](./97464-ore-o-hoshigaru-futari-no-haha.json) |
 | Ore Quest: Digger's Delve | 280679 | [280679-ore-quest-diggers-delve.json](./280679-ore-quest-diggers-delve.json) |
