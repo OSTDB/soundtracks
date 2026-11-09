@@ -2382,6 +2382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Starlight | 355219 | [355219-far-starlight.json](./355219-far-starlight.json) |
 | Far Tale | 248020 | [248020-far-tale.json](./248020-far-tale.json) |
 | Far Til Fire: Gi'r Aldrig Op | 129779 | [129779-far-til-fire-gir-aldrig-op.json](./129779-far-til-fire-gir-aldrig-op.json) |
+| Far West | 70157 | [70157-far-west.json](./70157-far-west.json) |
 | Far Worlds | 138662 | [138662-far-worlds.json](./138662-far-worlds.json) |
 | Far-Out | 34792 | [34792-far-out.json](./34792-far-out.json) |
 | Far: Changing Tides | 152259 | [152259-far-changing-tides.json](./152259-far-changing-tides.json) |
@@ -2458,6 +2459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farkle King | 243745 | [243745-farkle-king.json](./243745-farkle-king.json) |
 | Farkle mania | 232290 | [232290-farkle-mania.json](./232290-farkle-mania.json) |
 | Farkle with Friends | 338774 | [338774-farkle-with-friends.json](./338774-farkle-with-friends.json) |
+| Farland Odyssey | 70142 | [70142-farland-odyssey.json](./70142-farland-odyssey.json) |
 | Farland Odyssey II: Kun ni Okuru Serenade | 61965 | [61965-farland-odyssey-ii-kun-ni-okuru-serenade.json](./61965-farland-odyssey-ii-kun-ni-okuru-serenade.json) |
 | Farland Saga | 80838 | [80838-farland-saga.json](./80838-farland-saga.json) |
 | Farland Saga I & II: Saturn Tribute | 360013 | [360013-farland-saga-i-and-ii-saturn-tribute.json](./360013-farland-saga-i-and-ii-saturn-tribute.json) |
@@ -2988,6 +2990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fast and Furious Arcade | 98694 | [98694-fast-and-furious-arcade.json](./98694-fast-and-furious-arcade.json) |
 | Fast and Low | 119529 | [119529-fast-and-low.json](./119529-fast-and-low.json) |
 | Fast as Duck | 277172 | [277172-fast-as-duck.json](./277172-fast-as-duck.json) |
+| Fast Attack: High Tech Submarine Warfare | 70019 | [70019-fast-attack-high-tech-submarine-warfare.json](./70019-fast-attack-high-tech-submarine-warfare.json) |
 | Fast Ball Ping | 99197 | [99197-fast-ball-ping.json](./99197-fast-ball-ping.json) |
 | Fast Ball Spitter | 412239 | [412239-fast-ball-spitter.json](./412239-fast-ball-spitter.json) |
 | Fast Beat Battle Rider | 292288 | [292288-fast-beat-battle-rider.json](./292288-fast-beat-battle-rider.json) |
@@ -3828,6 +3831,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Feed The Queen | 387138 | [387138-feed-the-queen.json](./387138-feed-the-queen.json) |
 | Feed The Reactor | 384052 | [384052-feed-the-reactor.json](./384052-feed-the-reactor.json) |
 | Feed The Scorchpot | 377819 | [377819-feed-the-scorchpot.json](./377819-feed-the-scorchpot.json) |
+| Feed the Snake | 70015 | [70015-feed-the-snake.json](./70015-feed-the-snake.json) |
 | Feed Them | 415058 | [415058-feed-them.json](./415058-feed-them.json) |
 | Feed Us | 235245 | [235245-feed-us.json](./235245-feed-us.json) |
 | Feed Us 2 | 327125 | [327125-feed-us-2.json](./327125-feed-us-2.json) |
@@ -8237,6 +8241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flippy Knife | 91216 | [91216-flippy-knife.json](./91216-flippy-knife.json) |
 | Flippy the Spider | 415342 | [415342-flippy-the-spider.json](./415342-flippy-the-spider.json) |
 | Flippy Uncle | 58436 | [58436-flippy-uncle.json](./58436-flippy-uncle.json) |
+| Flippy's Circus Coins | 70151 | [70151-flippys-circus-coins.json](./70151-flippys-circus-coins.json) |
 | FlipRide Rush | 409526 | [409526-flipride-rush.json](./409526-flipride-rush.json) |
 | Flips: Artemis Fowl | 66667 | [66667-flips-artemis-fowl.json](./66667-flips-artemis-fowl.json) |
 | Flips: Cathy Cassidy | 66668 | [66668-flips-cathy-cassidy.json](./66668-flips-cathy-cassidy.json) |
