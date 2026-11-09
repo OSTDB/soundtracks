@@ -3444,6 +3444,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Geometry Wars Portable | 339691 | [339691-geometry-wars-portable.json](./339691-geometry-wars-portable.json) |
 | Geometry Wars: Retro Evolved | 15756 | [15756-geometry-wars-retro-evolved.json](./15756-geometry-wars-retro-evolved.json) |
 | Geometry Wars: Retro Evolved 2 | 4887 | [4887-geometry-wars-retro-evolved-2.json](./4887-geometry-wars-retro-evolved-2.json) |
+| Geometry Wars: Touch | 4888 | [4888-geometry-wars-touch.json](./4888-geometry-wars-touch.json) |
+| Geometry Wars: Waves | 4886 | [4886-geometry-wars-waves.json](./4886-geometry-wars-waves.json) |
 | Geometry Waves | 195565 | [195565-geometry-waves.json](./195565-geometry-waves.json) |
 | Geometry World | 55575 | [55575-geometry-world.json](./55575-geometry-world.json) |
 | Geometry Worlds 2 | 208180 | [208180-geometry-worlds-2.json](./208180-geometry-worlds-2.json) |
@@ -6693,6 +6695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold Wiper | 197966 | [197966-gold-wiper.json](./197966-gold-wiper.json) |
 | Gold, Silver, Bronze | 70300 | [70300-gold-silver-bronze.json](./70300-gold-silver-bronze.json) |
 | Gold's Gym Dance Workout | 51074 | [51074-golds-gym-dance-workout.json](./51074-golds-gym-dance-workout.json) |
+| Gold's Gym: Cardio Workout | 4893 | [4893-golds-gym-cardio-workout.json](./4893-golds-gym-cardio-workout.json) |
 | Goldbeard | 24547 | [24547-goldbeard.json](./24547-goldbeard.json) |
 | Goldbeard's Quest | 120346 | [120346-goldbeards-quest.json](./120346-goldbeards-quest.json) |
 | Goldberg Smash & Bash Wrestling Game Fear the Spear | 198748 | [198748-goldberg-smash-and-bash-wrestling-game-fear-the-spear.json](./198748-goldberg-smash-and-bash-wrestling-game-fear-the-spear.json) |
