@@ -32968,6 +32968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trust | 378310 | [378310-trust.json](./378310-trust.json) |
 | Trust & Safety Tycoon | 343212 | [343212-trust-and-safety-tycoon.json](./343212-trust-and-safety-tycoon.json) |
 | Trust & Safety: Armed Conflict | 401484 | [401484-trust-and-safety-armed-conflict.json](./401484-trust-and-safety-armed-conflict.json) |
+| Trust and Betrayal: The Legacy of Siboot | 54597 | [54597-trust-and-betrayal-the-legacy-of-siboot.json](./54597-trust-and-betrayal-the-legacy-of-siboot.json) |
 | Trust Exercise | 343194 | [343194-trust-exercise.json](./343194-trust-exercise.json) |
 | Trust Me | 290356 | [290356-trust-me.json](./290356-trust-me.json) |
 | Trust Me | 373815 | [373815-trust-me.json](./373815-trust-me.json) |
