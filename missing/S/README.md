@@ -1738,6 +1738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangokushi | 49790 | [49790-sangokushi.json](./49790-sangokushi.json) |
 | Sangokushi 11: Power Up Kit | 350410 | [350410-sangokushi-11-power-up-kit.json](./350410-sangokushi-11-power-up-kit.json) |
 | Sangokushi 12: Power Up Kit | 350585 | [350585-sangokushi-12-power-up-kit.json](./350585-sangokushi-12-power-up-kit.json) |
+| Sangokushi 2 | 60090 | [60090-sangokushi-2.json](./60090-sangokushi-2.json) |
 | Sangokushi Dice | 196600 | [196600-sangokushi-dice.json](./196600-sangokushi-dice.json) |
 | Sangokushi DS | 59193 | [59193-sangokushi-ds.json](./59193-sangokushi-ds.json) |
 | Sangokushi DS 2 | 59194 | [59194-sangokushi-ds-2.json](./59194-sangokushi-ds-2.json) |
@@ -4279,6 +4280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sea-Doo HydroCross | 45055 | [45055-sea-doo-hydrocross.json](./45055-sea-doo-hydrocross.json) |
 | Sea-Man | 287550 | [287550-sea-man.json](./287550-sea-man.json) |
 | Seabase Delta | 28441 | [28441-seabase-delta.json](./28441-seabase-delta.json) |
+| Seabeard | 60094 | [60094-seabeard.json](./60094-seabeard.json) |
 | SeaBed | 27102 | [27102-seabed.json](./27102-seabed.json) |
 | Seabed Frog | 211956 | [211956-seabed-frog.json](./211956-seabed-frog.json) |
 | Seabed Settlers | 310101 | [310101-seabed-settlers.json](./310101-seabed-settlers.json) |
@@ -9888,6 +9890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SHPR | 211198 | [211198-shpr.json](./211198-shpr.json) |
 | Shrak for Quake | 71748 | [71748-shrak-for-quake.json](./71748-shrak-for-quake.json) |
 | Shrapnel | 270306 | [270306-shrapnel.json](./270306-shrapnel.json) |
+| Shrapnel | 60112 | [60112-shrapnel.json](./60112-shrapnel.json) |
 | Shrapnel City 2096: Trapped In The Future! | 308237 | [308237-shrapnel-city-2096-trapped-in-the-future.json](./308237-shrapnel-city-2096-trapped-in-the-future.json) |
 | Shrapnel Sentinel | 361915 | [361915-shrapnel-sentinel.json](./361915-shrapnel-sentinel.json) |
 | Shred and Tear: Explosive Kajun | 192702 | [192702-shred-and-tear-explosive-kajun.json](./192702-shred-and-tear-explosive-kajun.json) |
@@ -16882,6 +16885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Core | 68683 | [68683-solar-core.json](./68683-solar-core.json) |
 | Solar Cram School | 122393 | [122393-solar-cram-school.json](./122393-solar-cram-school.json) |
 | Solar Crusade | 45908 | [45908-solar-crusade.json](./45908-solar-crusade.json) |
+| Solar Crusaders | 59546 | [59546-solar-crusaders.json](./59546-solar-crusaders.json) |
 | Solar Danmaku | 151917 | [151917-solar-danmaku.json](./151917-solar-danmaku.json) |
 | Solar Derby | 385799 | [385799-solar-derby.json](./385799-solar-derby.json) |
 | Solar Descent | 251316 | [251316-solar-descent.json](./251316-solar-descent.json) |
@@ -19816,6 +19820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Adventure: Mercury | 379151 | [379151-space-adventure-mercury.json](./379151-space-adventure-mercury.json) |
 | Space Adventures | 165932 | [165932-space-adventures.json](./165932-space-adventures.json) |
 | Space Age | 270423 | [270423-space-age.json](./270423-space-age.json) |
+| Space Age | 60095 | [60095-space-age.json](./60095-space-age.json) |
 | Space Age: Director's Cut | 293227 | [293227-space-age-directors-cut.json](./293227-space-age-directors-cut.json) |
 | Space Agency 2138 | 223622 | [223622-space-agency-2138.json](./223622-space-agency-2138.json) |
 | Space Agent Mission | 212486 | [212486-space-agent-mission.json](./212486-space-agent-mission.json) |
@@ -28723,6 +28728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strawberry Blasted Sky Glide | 143681 | [143681-strawberry-blasted-sky-glide.json](./143681-strawberry-blasted-sky-glide.json) |
 | Strawberry Chocolate | 367495 | [367495-strawberry-chocolate.json](./367495-strawberry-chocolate.json) |
 | Strawberry Chocolate: Miner 8AD 4SS | 162253 | [162253-strawberry-chocolate-miner-8ad-4ss.json](./162253-strawberry-chocolate-miner-8ad-4ss.json) |
+| Strawberry Cubes | 59540 | [59540-strawberry-cubes.json](./59540-strawberry-cubes.json) |
 | Strawberry Daiquiri | 182641 | [182641-strawberry-daiquiri.json](./182641-strawberry-daiquiri.json) |
 | Strawberry Jam | 159175 | [159175-strawberry-jam.json](./159175-strawberry-jam.json) |
 | Strawberry Jumping Journey | 341409 | [341409-strawberry-jumping-journey.json](./341409-strawberry-jumping-journey.json) |
@@ -31354,6 +31360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunset Moon | 375207 | [375207-sunset-moon.json](./375207-sunset-moon.json) |
 | Sunset of Ate | 264611 | [264611-sunset-of-ate.json](./264611-sunset-of-ate.json) |
 | Sunset Over Imdahl | 124652 | [124652-sunset-over-imdahl.json](./124652-sunset-over-imdahl.json) |
+| Sunset Over Savannah | 60103 | [60103-sunset-over-savannah.json](./60103-sunset-over-savannah.json) |
 | Sunset Overdrive: Dawn of the Rise of the Fallen Machines | 21934 | [21934-sunset-overdrive-dawn-of-the-rise-of-the-fallen-machines.json](./21934-sunset-overdrive-dawn-of-the-rise-of-the-fallen-machines.json) |
 | Sunset Overdrive: Deluxe Edition | 164800 | [164800-sunset-overdrive-deluxe-edition.json](./164800-sunset-overdrive-deluxe-edition.json) |
 | Sunset Overdrive: Mystery of the Mooil Rig | 20050 | [20050-sunset-overdrive-mystery-of-the-mooil-rig.json](./20050-sunset-overdrive-mystery-of-the-mooil-rig.json) |
@@ -35747,6 +35754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suv 4x4 Car Parking Simulator | 276286 | [276286-suv-4x4-car-parking-simulator.json](./276286-suv-4x4-car-parking-simulator.json) |
 | Suv Vs SemiTruck | 108588 | [108588-suv-vs-semitruck.json](./108588-suv-vs-semitruck.json) |
 | Suvarnabhumi Mahayuth | 214752 | [214752-suvarnabhumi-mahayuth.json](./214752-suvarnabhumi-mahayuth.json) |
+| Suveh Nux | 60105 | [60105-suveh-nux.json](./60105-suveh-nux.json) |
 | Suwako no Danmaku Pyon-pyon Daisansaku | 375567 | [375567-suwako-no-danmaku-pyon-pyon-daisansaku.json](./375567-suwako-no-danmaku-pyon-pyon-daisansaku.json) |
 | Suwako-chan Cubic | 261202 | [261202-suwako-chan-cubic.json](./261202-suwako-chan-cubic.json) |
 | Suwarudo | 114225 | [114225-suwarudo.json](./114225-suwarudo.json) |
