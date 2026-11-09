@@ -2865,6 +2865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WCW Nitro Sting | 198960 | [198960-wcw-nitro-sting.json](./198960-wcw-nitro-sting.json) |
 | WCW nWo Thunder | 198962 | [198962-wcw-nwo-thunder.json](./198962-wcw-nwo-thunder.json) |
 | WCW Sting | 217952 | [217952-wcw-sting.json](./217952-wcw-sting.json) |
+| WCW SuperBrawl Wrestling | 38404 | [38404-wcw-superbrawl-wrestling.json](./38404-wcw-superbrawl-wrestling.json) |
 | WCW vs. nWo: World Tour | 3635 | [3635-wcw-vs-nwo-world-tour.json](./3635-wcw-vs-nwo-world-tour.json) |
 | WCW vs. the World | 18316 | [18316-wcw-vs-the-world.json](./18316-wcw-vs-the-world.json) |
 | WCW Whiplash | 198963 | [198963-wcw-whiplash.json](./198963-wcw-whiplash.json) |
@@ -3094,6 +3095,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weaponeers | 382595 | [382595-weaponeers.json](./382595-weaponeers.json) |
 | WeaponGo | 104095 | [104095-weapongo.json](./104095-weapongo.json) |
 | WeaponizedChess | 34481 | [34481-weaponizedchess.json](./34481-weaponizedchess.json) |
+| WeaponLord | 38403 | [38403-weaponlord.json](./38403-weaponlord.json) |
 | Weaponmancer | 277285 | [277285-weaponmancer.json](./277285-weaponmancer.json) |
 | Weaponry (Experimental) | 336701 | [336701-weaponry-experimental.json](./336701-weaponry-experimental.json) |
 | Weaponry Dealer VR | 110464 | [110464-weaponry-dealer-vr.json](./110464-weaponry-dealer-vr.json) |
@@ -3206,6 +3208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wedding Fiasco - The Race for the Perfect Dress | 101562 | [101562-wedding-fiasco-the-race-for-the-perfect-dress.json](./101562-wedding-fiasco-the-race-for-the-perfect-dress.json) |
 | Wedding Girl Makeover | 96072 | [96072-wedding-girl-makeover.json](./96072-wedding-girl-makeover.json) |
 | Wedding Peach | 296178 | [296178-wedding-peach.json](./296178-wedding-peach.json) |
+| Wedding Peach | 38402 | [38402-wedding-peach.json](./38402-wedding-peach.json) |
 | Wedding Peach: Doki-doki Oironaoshi | 64951 | [64951-wedding-peach-doki-doki-oironaoshi.json](./64951-wedding-peach-doki-doki-oironaoshi.json) |
 | Wedding Peach: Jamapii Panic | 64952 | [64952-wedding-peach-jamapii-panic.json](./64952-wedding-peach-jamapii-panic.json) |
 | Wedding Planner | 141422 | [141422-wedding-planner.json](./141422-wedding-planner.json) |
@@ -5619,6 +5622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WildSnake | 200365 | [200365-wildsnake.json](./200365-wildsnake.json) |
 | WildSnake | 243758 | [243758-wildsnake.json](./243758-wildsnake.json) |
 | WildSnake | 282485 | [282485-wildsnake.json](./282485-wildsnake.json) |
+| WildSnake | 38400 | [38400-wildsnake.json](./38400-wildsnake.json) |
 | Wildsong | 287694 | [287694-wildsong.json](./287694-wildsong.json) |
 | WildStandZ | 357405 | [357405-wildstandz.json](./357405-wildstandz.json) |
 | WildStar | 535 | [535-wildstar.json](./535-wildstar.json) |
@@ -5952,6 +5956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wing Commander: Secret Ops | 8892 | [8892-wing-commander-secret-ops.json](./8892-wing-commander-secret-ops.json) |
 | Wing Commander: Standoff | 144988 | [144988-wing-commander-standoff.json](./144988-wing-commander-standoff.json) |
 | Wing Commander: The Kilrahi Saga | 50167 | [50167-wing-commander-the-kilrahi-saga.json](./50167-wing-commander-the-kilrahi-saga.json) |
+| Wing Commander: The Secret Missions | 38399 | [38399-wing-commander-the-secret-missions.json](./38399-wing-commander-the-secret-missions.json) |
 | Wing Commander: The Secret Missions 2 - Crusade | 50171 | [50171-wing-commander-the-secret-missions-2-crusade.json](./50171-wing-commander-the-secret-missions-2-crusade.json) |
 | Wing Dog | 269640 | [269640-wing-dog.json](./269640-wing-dog.json) |
 | Wing Fighter | 193955 | [193955-wing-fighter.json](./193955-wing-fighter.json) |
