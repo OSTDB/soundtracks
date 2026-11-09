@@ -532,6 +532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Racing Rivals | 38904 | [38904-racing-rivals.json](./38904-racing-rivals.json) |
 | Racing Royale | 390012 | [390012-racing-royale.json](./390012-racing-royale.json) |
 | Racing Rush | 234608 | [234608-racing-rush.json](./234608-racing-rush.json) |
+| Racing Simulation 2 | 44058 | [44058-racing-simulation-2.json](./44058-racing-simulation-2.json) |
 | Racing Simulator Bundle: Driving School Simulator & Real Driving Simulator | 378836 | [378836-racing-simulator-bundle-driving-school-simulator-and-real-driving-simulator.json](./378836-racing-simulator-bundle-driving-school-simulator-and-real-driving-simulator.json) |
 | Racing Skill | 358355 | [358355-racing-skill.json](./358355-racing-skill.json) |
 | Racing Stars | 295274 | [295274-racing-stars.json](./295274-racing-stars.json) |
@@ -9403,6 +9404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot-X | 192440 | [192440-robot-x.json](./192440-robot-x.json) |
 | Robot88 | 182364 | [182364-robot88.json](./182364-robot88.json) |
 | Robotan Wars | 138005 | [138005-robotan-wars.json](./138005-robotan-wars.json) |
+| Robotech: Crystal Dreams | 44035 | [44035-robotech-crystal-dreams.json](./44035-robotech-crystal-dreams.json) |
 | Robotech: The Macross Saga | 245414 | [245414-robotech-the-macross-saga.json](./245414-robotech-the-macross-saga.json) |
 | Robotech: The Macross Saga | 6563 | [6563-robotech-the-macross-saga.json](./6563-robotech-the-macross-saga.json) |
 | Robotech: The Macross Saga HD Edition | 146993 | [146993-robotech-the-macross-saga-hd-edition.json](./146993-robotech-the-macross-saga-hd-edition.json) |
