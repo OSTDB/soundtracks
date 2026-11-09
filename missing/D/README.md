@@ -6159,6 +6159,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dejig: McKnight Art Collection | 307645 | [307645-dejig-mcknight-art-collection.json](./307645-dejig-mcknight-art-collection.json) |
 | Dejig: Tin Toy | 299789 | [299789-dejig-tin-toy.json](./299789-dejig-tin-toy.json) |
 | Dejiko no Mahjong Party | 92611 | [92611-dejiko-no-mahjong-party.json](./92611-dejiko-no-mahjong-party.json) |
+| Dejiko no Maibura | 67544 | [67544-dejiko-no-maibura.json](./67544-dejiko-no-maibura.json) |
 | Deka Nomos | 416712 | [416712-deka-nomos.json](./416712-deka-nomos.json) |
 | Deka Voice | 64928 | [64928-deka-voice.json](./64928-deka-voice.json) |
 | Dekabès Domino | 210563 | [210563-dekabes-domino.json](./210563-dekabes-domino.json) |
@@ -7015,6 +7016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Densetsu no Starfy | 6370 | [6370-densetsu-no-starfy.json](./6370-densetsu-no-starfy.json) |
 | Densetsu no Starfy 2 | 6371 | [6371-densetsu-no-starfy-2.json](./6371-densetsu-no-starfy-2.json) |
 | Densetsu no Starfy 3 | 6372 | [6372-densetsu-no-starfy-3.json](./6372-densetsu-no-starfy-3.json) |
+| Densetsu no Yuusha no Densetsu: Legendary Saga | 67000 | [67000-densetsu-no-yuusha-no-densetsu-legendary-saga.json](./67000-densetsu-no-yuusha-no-densetsu-legendary-saga.json) |
 | Densha | 109162 | [109162-densha.json](./109162-densha.json) |
 | Densha Daishuugou: Driving Train | 289740 | [289740-densha-daishuugou-driving-train.json](./289740-densha-daishuugou-driving-train.json) |
 | Densha Daishuugou! Card de Asobou | 327570 | [327570-densha-daishuugou-card-de-asobou.json](./327570-densha-daishuugou-card-de-asobou.json) |
