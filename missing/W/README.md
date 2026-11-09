@@ -95,6 +95,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wacky World of Sports | 5260 | [5260-wacky-world-of-sports.json](./5260-wacky-world-of-sports.json) |
 | Wacky Worlds Creativity Studio | 47056 | [47056-wacky-worlds-creativity-studio.json](./47056-wacky-worlds-creativity-studio.json) |
 | Wacky Zoo GP | 66926 | [66926-wacky-zoo-gp.json](./66926-wacky-zoo-gp.json) |
+| WackyLands Boss | 69420 | [69420-wackylands-boss.json](./69420-wackylands-boss.json) |
 | WackyMoles | 31360 | [31360-wackymoles.json](./31360-wackymoles.json) |
 | Waco Resurrection | 308429 | [308429-waco-resurrection.json](./308429-waco-resurrection.json) |
 | Wadality | 189887 | [189887-wadality.json](./189887-wadality.json) |
