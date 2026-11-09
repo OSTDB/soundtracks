@@ -10085,6 +10085,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blaster Squad | 132215 | [132215-blaster-squad.json](./132215-blaster-squad.json) |
 | Blaster Tank | 135379 | [135379-blaster-tank.json](./135379-blaster-tank.json) |
 | Blaster! | 26483 | [26483-blaster.json](./26483-blaster.json) |
+| Blasterball 2: Holidays | 68215 | [68215-blasterball-2-holidays.json](./68215-blasterball-2-holidays.json) |
 | Blasterball 2: Revolution | 73203 | [73203-blasterball-2-revolution.json](./73203-blasterball-2-revolution.json) |
 | Blasterball 2: Revolution | 73221 | [73221-blasterball-2-revolution.json](./73221-blasterball-2-revolution.json) |
 | Blasterball 3 | 205983 | [205983-blasterball-3.json](./205983-blasterball-3.json) |
@@ -18652,6 +18653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bushido Panda | 57469 | [57469-bushido-panda.json](./57469-bushido-panda.json) |
 | Bushido Saga: Nightmare of the Samurai | 260375 | [260375-bushido-saga-nightmare-of-the-samurai.json](./260375-bushido-saga-nightmare-of-the-samurai.json) |
 | Bushido: The Way of the Warrior | 41008 | [41008-bushido-the-way-of-the-warrior.json](./41008-bushido-the-way-of-the-warrior.json) |
+| Bushido: The Way of the Warrior | 68779 | [68779-bushido-the-way-of-the-warrior.json](./68779-bushido-the-way-of-the-warrior.json) |
 | Bushside Rangers | 335642 | [335642-bushside-rangers.json](./335642-bushside-rangers.json) |
 | Bushy Man | 371295 | [371295-bushy-man.json](./371295-bushy-man.json) |
 | Busin 0: Wizardry Alternative Neo | 59213 | [59213-busin-0-wizardry-alternative-neo.json](./59213-busin-0-wizardry-alternative-neo.json) |
