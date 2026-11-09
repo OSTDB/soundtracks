@@ -8573,6 +8573,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hisui no Kikai | 186839 | [186839-hisui-no-kikai.json](./186839-hisui-no-kikai.json) |
 | Hit | 208059 | [208059-hit.json](./208059-hit.json) |
 | Hit | 358300 | [358300-hit.json](./358300-hit.json) |
+| Hit | 36085 | [36085-hit.json](./36085-hit.json) |
 | Hit 'N Miss | 40349 | [40349-hit-n-miss.json](./40349-hit-n-miss.json) |
 | Hit & Knock down | 107076 | [107076-hit-and-knock-down.json](./107076-hit-and-knock-down.json) |
 | Hit & Myth | 92384 | [92384-hit-and-myth.json](./92384-hit-and-myth.json) |
