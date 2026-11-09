@@ -5576,6 +5576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Brawl | 35081 | [35081-air-brawl.json](./35081-air-brawl.json) |
 | Air Brigade | 338656 | [338656-air-brigade.json](./338656-air-brigade.json) |
 | Air Bucks | 14230 | [14230-air-bucks.json](./14230-air-bucks.json) |
+| Air Cavalry | 42737 | [42737-air-cavalry.json](./42737-air-cavalry.json) |
 | Air Cavalry PRO | 88128 | [88128-air-cavalry-pro.json](./88128-air-cavalry-pro.json) |
 | Air Cavalry: Flight Simulator | 246427 | [246427-air-cavalry-flight-simulator.json](./246427-air-cavalry-flight-simulator.json) |
 | Air Combat | 142102 | [142102-air-combat.json](./142102-air-combat.json) |
@@ -16242,6 +16243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astérix & Obélix XXL 2 | 104977 | [104977-asterix-and-obelix-xxl-2.json](./104977-asterix-and-obelix-xxl-2.json) |
 | Astérix & Obélix XXL 2: Mission: Las Vegum | 81480 | [81480-asterix-and-obelix-xxl-2-mission-las-vegum.json](./81480-asterix-and-obelix-xxl-2-mission-las-vegum.json) |
 | Astérix & Obélix XXL 2: Mission: Wifix | 310635 | [310635-asterix-and-obelix-xxl-2-mission-wifix.json](./310635-asterix-and-obelix-xxl-2-mission-wifix.json) |
+| Astérix & Obélix XXL 2: Mission: Wifix | 42751 | [42751-asterix-and-obelix-xxl-2-mission-wifix.json](./42751-asterix-and-obelix-xxl-2-mission-wifix.json) |
 | Asterix & Obelix XXL 2: Remaster - Limited Edition | 136158 | [136158-asterix-and-obelix-xxl-2-remaster-limited-edition.json](./136158-asterix-and-obelix-xxl-2-remaster-limited-edition.json) |
 | Asterix & Obelix XXL 3: The Crystal Menhir | 105002 | [105002-asterix-and-obelix-xxl-3-the-crystal-menhir.json](./105002-asterix-and-obelix-xxl-3-the-crystal-menhir.json) |
 | Asterix & Obelix XXL 3: The Crystal Menhir - Collector's Edition | 166231 | [166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json](./166231-asterix-and-obelix-xxl-3-the-crystal-menhir-collectors-edition.json) |
@@ -17138,6 +17140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Elie: Puzzle Workshop | 338535 | [338535-atelier-elie-puzzle-workshop.json](./338535-atelier-elie-puzzle-workshop.json) |
 | Atelier Elie: The Alchemist of Salburg 2 | 26440 | [26440-atelier-elie-the-alchemist-of-salburg-2.json](./26440-atelier-elie-the-alchemist-of-salburg-2.json) |
 | Atelier Ellie: Puzzle Workshop | 329392 | [329392-atelier-ellie-puzzle-workshop.json](./329392-atelier-ellie-puzzle-workshop.json) |
+| Atelier Escha & Logy Plus: Alchemists of the Dusk Sky | 42720 | [42720-atelier-escha-and-logy-plus-alchemists-of-the-dusk-sky.json](./42720-atelier-escha-and-logy-plus-alchemists-of-the-dusk-sky.json) |
 | Atelier Escha & Logy: Alchemists of the Dusk Sky | 7279 | [7279-atelier-escha-and-logy-alchemists-of-the-dusk-sky.json](./7279-atelier-escha-and-logy-alchemists-of-the-dusk-sky.json) |
 | Atelier Escha & Logy: Alchemists of the Dusk Sky DX | 122749 | [122749-atelier-escha-and-logy-alchemists-of-the-dusk-sky-dx.json](./122749-atelier-escha-and-logy-alchemists-of-the-dusk-sky-dx.json) |
 | Atelier Firis: The Alchemist and the Mysterious Journey | 25921 | [25921-atelier-firis-the-alchemist-and-the-mysterious-journey.json](./25921-atelier-firis-the-alchemist-and-the-mysterious-journey.json) |
@@ -17188,6 +17191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Marie, Elie & Anis: Message on the Gentle Breeze | 49699 | [49699-atelier-marie-elie-and-anis-message-on-the-gentle-breeze.json](./49699-atelier-marie-elie-and-anis-message-on-the-gentle-breeze.json) |
 | Atelier Marie: Puzzle Workshop | 329391 | [329391-atelier-marie-puzzle-workshop.json](./329391-atelier-marie-puzzle-workshop.json) |
 | Atelier Marie: The Alchemist of Salburg | 26439 | [26439-atelier-marie-the-alchemist-of-salburg.json](./26439-atelier-marie-the-alchemist-of-salburg.json) |
+| Atelier Meruru Plus: The Apprentice of Arland | 42706 | [42706-atelier-meruru-plus-the-apprentice-of-arland.json](./42706-atelier-meruru-plus-the-apprentice-of-arland.json) |
 | Atelier Meruru: The Apprentice of Arland | 7277 | [7277-atelier-meruru-the-apprentice-of-arland.json](./7277-atelier-meruru-the-apprentice-of-arland.json) |
 | Atelier Meruru: The Apprentice of Arland DX | 105032 | [105032-atelier-meruru-the-apprentice-of-arland-dx.json](./105032-atelier-meruru-the-apprentice-of-arland-dx.json) |
 | Atelier Mysterious Trilogy DX: Premium Box | 143284 | [143284-atelier-mysterious-trilogy-dx-premium-box.json](./143284-atelier-mysterious-trilogy-dx-premium-box.json) |
@@ -17252,6 +17256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Sophie: The Alchemist of the Mysterious Book - Limited Edition | 384887 | [384887-atelier-sophie-the-alchemist-of-the-mysterious-book-limited-edition.json](./384887-atelier-sophie-the-alchemist-of-the-mysterious-book-limited-edition.json) |
 | Atelier Sophie: The Alchemist of the Mysterious Book DX | 143280 | [143280-atelier-sophie-the-alchemist-of-the-mysterious-book-dx.json](./143280-atelier-sophie-the-alchemist-of-the-mysterious-book-dx.json) |
 | Atelier Tia | 169739 | [169739-atelier-tia.json](./169739-atelier-tia.json) |
+| Atelier Totori Plus: The Adventurer of Arland | 42704 | [42704-atelier-totori-plus-the-adventurer-of-arland.json](./42704-atelier-totori-plus-the-adventurer-of-arland.json) |
 | Atelier Totori: The Adventurer of Arland | 7276 | [7276-atelier-totori-the-adventurer-of-arland.json](./7276-atelier-totori-the-adventurer-of-arland.json) |
 | Atelier Totori: The Adventurer of Arland DX | 105030 | [105030-atelier-totori-the-adventurer-of-arland-dx.json](./105030-atelier-totori-the-adventurer-of-arland-dx.json) |
 | Atelier Violet: The Alchemist of Gramnad 2 - The Memories of Ultramarine | 42755 | [42755-atelier-violet-the-alchemist-of-gramnad-2-the-memories-of-ultramarine.json](./42755-atelier-violet-the-alchemist-of-gramnad-2-the-memories-of-ultramarine.json) |
@@ -17342,6 +17347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
