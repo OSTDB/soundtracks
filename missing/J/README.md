@@ -2091,6 +2091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jikkyou Pawafuru Puroyakyu 2018 | 98510 | [98510-jikkyou-pawafuru-puroyakyu-2018.json](./98510-jikkyou-pawafuru-puroyakyu-2018.json) |
 | Jikkyou Pawafuru Puroyakyu 2018: Digital Deluxe Edition | 118877 | [118877-jikkyou-pawafuru-puroyakyu-2018-digital-deluxe-edition.json](./118877-jikkyou-pawafuru-puroyakyu-2018-digital-deluxe-edition.json) |
 | Jikkyou Pawafuru Puroyakyu 3 | 42642 | [42642-jikkyou-pawafuru-puroyakyu-3.json](./42642-jikkyou-pawafuru-puroyakyu-3.json) |
+| Jikkyou Pawafuru Puroyakyu 3: '97 Haru | 42733 | [42733-jikkyou-pawafuru-puroyakyu-3-97-haru.json](./42733-jikkyou-pawafuru-puroyakyu-3-97-haru.json) |
 | Jikkyou Pawafuru Puroyakyu 4 | 47746 | [47746-jikkyou-pawafuru-puroyakyu-4.json](./47746-jikkyou-pawafuru-puroyakyu-4.json) |
 | Jikkyou Pawafuru Puroyakyu 5 | 3526 | [3526-jikkyou-pawafuru-puroyakyu-5.json](./3526-jikkyou-pawafuru-puroyakyu-5.json) |
 | Jikkyou Pawafuru Puroyakyu 6 | 136734 | [136734-jikkyou-pawafuru-puroyakyu-6.json](./136734-jikkyou-pawafuru-puroyakyu-6.json) |
