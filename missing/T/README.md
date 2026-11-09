@@ -13890,6 +13890,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Magnets | 148534 | [148534-the-magnets.json](./148534-the-magnets.json) |
 | The Magnificent Five | 257168 | [257168-the-magnificent-five.json](./257168-the-magnificent-five.json) |
 | The Magnificent Fragments | 53760 | [53760-the-magnificent-fragments.json](./53760-the-magnificent-fragments.json) |
+| The Magnificent Seven | 70490 | [70490-the-magnificent-seven.json](./70490-the-magnificent-seven.json) |
 | The Magnificent Trufflepigs | 144508 | [144508-the-magnificent-trufflepigs.json](./144508-the-magnificent-trufflepigs.json) |
 | The Magnilo Case | 144589 | [144589-the-magnilo-case.json](./144589-the-magnilo-case.json) |
 | The Magpie Takes the Train | 216336 | [216336-the-magpie-takes-the-train.json](./216336-the-magpie-takes-the-train.json) |
@@ -15256,6 +15257,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Perfect Garden | 211923 | [211923-the-perfect-garden.json](./211923-the-perfect-garden.json) |
 | The Perfect General | 4328 | [4328-the-perfect-general.json](./4328-the-perfect-general.json) |
 | The Perfect General Scenario Disk: World War II Battle Set | 73445 | [73445-the-perfect-general-scenario-disk-world-war-ii-battle-set.json](./73445-the-perfect-general-scenario-disk-world-war-ii-battle-set.json) |
+| The Perfect General: Greatest Battles of the 20th Century | 70132 | [70132-the-perfect-general-greatest-battles-of-the-20th-century.json](./70132-the-perfect-general-greatest-battles-of-the-20th-century.json) |
 | The Perfect Match | 68420 | [68420-the-perfect-match.json](./68420-the-perfect-match.json) |
 | The Perfect Pencil | 199737 | [199737-the-perfect-pencil.json](./199737-the-perfect-pencil.json) |
 | The Perfect Portrait | 390015 | [390015-the-perfect-portrait.json](./390015-the-perfect-portrait.json) |
@@ -16434,6 +16436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Scroll of Black Loong | 298422 | [298422-the-scroll-of-black-loong.json](./298422-the-scroll-of-black-loong.json) |
 | The Scroll of Taiwu | 103616 | [103616-the-scroll-of-taiwu.json](./103616-the-scroll-of-taiwu.json) |
 | The Scrolling Enigma | 288685 | [288685-the-scrolling-enigma.json](./288685-the-scrolling-enigma.json) |
+| The Scrolls of Abadon | 70148 | [70148-the-scrolls-of-abadon.json](./70148-the-scrolls-of-abadon.json) |
 | The Scruffs | 73776 | [73776-the-scruffs.json](./73776-the-scruffs.json) |
 | The Scrungeon Depths | 74471 | [74471-the-scrungeon-depths.json](./74471-the-scrungeon-depths.json) |
 | The Scuttle | 116216 | [116216-the-scuttle.json](./116216-the-scuttle.json) |
@@ -16654,6 +16657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Settlers: Rise of an Empire - History Edition | 114448 | [114448-the-settlers-rise-of-an-empire-history-edition.json](./114448-the-settlers-rise-of-an-empire-history-edition.json) |
 | The Settlers: Rise of an Empire - The Eastern Realm | 78531 | [78531-the-settlers-rise-of-an-empire-the-eastern-realm.json](./78531-the-settlers-rise-of-an-empire-the-eastern-realm.json) |
 | The Settlers: Rise of Cultures | 132810 | [132810-the-settlers-rise-of-cultures.json](./132810-the-settlers-rise-of-cultures.json) |
+| The Settlers: Smack a Thief! | 70502 | [70502-the-settlers-smack-a-thief.json](./70502-the-settlers-smack-a-thief.json) |
 | The Seven | 356616 | [356616-the-seven.json](./356616-the-seven.json) |
 | The Seven Awakenings: I Randall | 249383 | [249383-the-seven-awakenings-i-randall.json](./249383-the-seven-awakenings-i-randall.json) |
 | The Seven Bad Apples | 382748 | [382748-the-seven-bad-apples.json](./382748-the-seven-bad-apples.json) |
@@ -18264,6 +18268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Tooth Fae | 374729 | [374729-the-tooth-fae.json](./374729-the-tooth-fae.json) |
 | The Top | 214124 | [214124-the-top.json](./214124-the-top.json) |
 | The Top Hat Club | 265742 | [265742-the-top-hat-club.json](./265742-the-top-hat-club.json) |
+| The Top League | 70016 | [70016-the-top-league.json](./70016-the-top-league.json) |
 | The Top of the Dream | 168562 | [168562-the-top-of-the-dream.json](./168562-the-top-of-the-dream.json) |
 | The Toroidal Tower | 182130 | [182130-the-toroidal-tower.json](./182130-the-toroidal-tower.json) |
 | The Tortile Chamber | 182156 | [182156-the-tortile-chamber.json](./182156-the-tortile-chamber.json) |
@@ -24266,6 +24271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tiny Shop | 365094 | [365094-tiny-shop.json](./365094-tiny-shop.json) |
 | Tiny Sim | 181223 | [181223-tiny-sim.json](./181223-tiny-sim.json) |
 | Tiny Ski | 296321 | [296321-tiny-ski.json](./296321-tiny-ski.json) |
+| Tiny Skweeks | 70159 | [70159-tiny-skweeks.json](./70159-tiny-skweeks.json) |
 | Tiny Snow | 115330 | [115330-tiny-snow.json](./115330-tiny-snow.json) |
 | Tiny Sokoban | 228391 | [228391-tiny-sokoban.json](./228391-tiny-sokoban.json) |
 | Tiny Solar System | 221150 | [221150-tiny-solar-system.json](./221150-tiny-solar-system.json) |
