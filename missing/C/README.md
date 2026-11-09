@@ -1451,6 +1451,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Candy Shop Simulator: Sweet Start | 346682 | [346682-candy-shop-simulator-sweet-start.json](./346682-candy-shop-simulator-sweet-start.json) |
 | Candy Show: Sweet Easter | 89619 | [89619-candy-show-sweet-easter.json](./89619-candy-show-sweet-easter.json) |
 | Candy Smash Factory | 96484 | [96484-candy-smash-factory.json](./96484-candy-smash-factory.json) |
+| Candy Smash VR | 32000 | [32000-candy-smash-vr.json](./32000-candy-smash-vr.json) |
 | Candy Snake Master | 83573 | [83573-candy-snake-master.json](./83573-candy-snake-master.json) |
 | Candy Star Break | 96009 | [96009-candy-star-break.json](./96009-candy-star-break.json) |
 | Candy Storm Bunny Catcher | 342727 | [342727-candy-storm-bunny-catcher.json](./342727-candy-storm-bunny-catcher.json) |
