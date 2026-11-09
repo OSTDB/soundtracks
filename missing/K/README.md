@@ -5600,6 +5600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kor | 183561 | [183561-kor.json](./183561-kor.json) |
 | Kör Comp | 128898 | [128898-kor-comp.json](./128898-kor-comp.json) |
 | Kora: Neural Gridlock | 416569 | [416569-kora-neural-gridlock.json](./416569-kora-neural-gridlock.json) |
+| Korablik | 30317 | [30317-korablik.json](./30317-korablik.json) |
 | Korax' Heritage: Scattered Evil | 200968 | [200968-korax-heritage-scattered-evil.json](./200968-korax-heritage-scattered-evil.json) |
 | Kore | 142625 | [142625-kore.json](./142625-kore.json) |
 | Kore ga Pro Yakyuu '89 | 42037 | [42037-kore-ga-pro-yakyuu-89.json](./42037-kore-ga-pro-yakyuu-89.json) |
@@ -6070,6 +6071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kronno Zomber | 240271 | [240271-kronno-zomber.json](./240271-kronno-zomber.json) |
 | Kronolog: The Nazi Paradox | 50481 | [50481-kronolog-the-nazi-paradox.json](./50481-kronolog-the-nazi-paradox.json) |
 | Kronorite | 127651 | [127651-kronorite.json](./127651-kronorite.json) |
+| Kronos | 30356 | [30356-kronos.json](./30356-kronos.json) |
 | Kronos | 340892 | [340892-kronos.json](./340892-kronos.json) |
 | Kronos: Time Titan | 199240 | [199240-kronos-time-titan.json](./199240-kronos-time-titan.json) |
 | Kronos: Wisdom Trials | 170870 | [170870-kronos-wisdom-trials.json](./170870-kronos-wisdom-trials.json) |
