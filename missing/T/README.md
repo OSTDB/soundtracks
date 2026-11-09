@@ -9518,6 +9518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The fairy tale you don't know | 169046 | [169046-the-fairy-tale-you-dont-know.json](./169046-the-fairy-tale-you-dont-know.json) |
 | The Fairy's Song | 140405 | [140405-the-fairys-song.json](./140405-the-fairys-song.json) |
 | The Fairyland Story | 205665 | [205665-the-fairyland-story.json](./205665-the-fairyland-story.json) |
+| The Fairyland Story | 39730 | [39730-the-fairyland-story.json](./39730-the-fairyland-story.json) |
 | The Fairytale of Death | 128164 | [128164-the-fairytale-of-death.json](./128164-the-fairytale-of-death.json) |
 | The Faked | 373756 | [373756-the-faked.json](./373756-the-faked.json) |
 | The Falconeer: Day One Edition | 139938 | [139938-the-falconeer-day-one-edition.json](./139938-the-falconeer-day-one-edition.json) |
@@ -12145,6 +12146,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kingdom of Galanor | 169837 | [169837-the-kingdom-of-galanor.json](./169837-the-kingdom-of-galanor.json) |
 | The Kingdom of Gardenia | 138517 | [138517-the-kingdom-of-gardenia.json](./138517-the-kingdom-of-gardenia.json) |
 | The Kingdom of God | 371479 | [371479-the-kingdom-of-god.json](./371479-the-kingdom-of-god.json) |
+| The Kingdom of Krell | 39742 | [39742-the-kingdom-of-krell.json](./39742-the-kingdom-of-krell.json) |
 | The Kingdom of Loathing | 79796 | [79796-the-kingdom-of-loathing.json](./79796-the-kingdom-of-loathing.json) |
 | The Kingdom of Syree | 171845 | [171845-the-kingdom-of-syree.json](./171845-the-kingdom-of-syree.json) |
 | The Kingdom of Syree II: Black Magic | 231536 | [231536-the-kingdom-of-syree-ii-black-magic.json](./231536-the-kingdom-of-syree-ii-black-magic.json) |
@@ -17985,6 +17987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Sych Story | 158643 | [158643-the-sych-story.json](./158643-the-sych-story.json) |
 | The Sych Story: Ded's Story | 170227 | [170227-the-sych-story-deds-story.json](./170227-the-sych-story-deds-story.json) |
 | The Sych Story: Human Being | 369574 | [369574-the-sych-story-human-being.json](./369574-the-sych-story-human-being.json) |
+| The Sydney Affair | 39743 | [39743-the-sydney-affair.json](./39743-the-sydney-affair.json) |
 | The Sydney Mystery | 73268 | [73268-the-sydney-mystery.json](./73268-the-sydney-mystery.json) |
 | The Symbiant | 228984 | [228984-the-symbiant.json](./228984-the-symbiant.json) |
 | The Symbiant + The Symbiant Re:Union Bundle | 383425 | [383425-the-symbiant-the-symbiant-re-union-bundle.json](./383425-the-symbiant-the-symbiant-re-union-bundle.json) |
@@ -32178,6 +32181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trio Infernale | 122138 | [122138-trio-infernale.json](./122138-trio-infernale.json) |
 | Trio Tactics TD | 305673 | [305673-trio-tactics-td.json](./305673-trio-tactics-td.json) |
 | Trio the Punch | 292851 | [292851-trio-the-punch.json](./292851-trio-the-punch.json) |
+| Trio the Punch: Never Forget Me | 39714 | [39714-trio-the-punch-never-forget-me.json](./39714-trio-the-punch-never-forget-me.json) |
 | Trio Triado The Game | 316592 | [316592-trio-triado-the-game.json](./316592-trio-triado-the-game.json) |
 | TriO: The Great Settlement | 53957 | [53957-trio-the-great-settlement.json](./53957-trio-the-great-settlement.json) |
 | Triogram | 421187 | [421187-triogram.json](./421187-triogram.json) |
@@ -33537,6 +33541,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tumble Egg | 333184 | [333184-tumble-egg.json](./333184-tumble-egg.json) |
 | Tumble Jumble | 206067 | [206067-tumble-jumble.json](./206067-tumble-jumble.json) |
 | Tumble Marble | 393605 | [393605-tumble-marble.json](./393605-tumble-marble.json) |
+| Tumble Pop | 39699 | [39699-tumble-pop.json](./39699-tumble-pop.json) |
 | Tumble Rush | 297337 | [297337-tumble-rush.json](./297337-tumble-rush.json) |
 | Tumble Tiles | 366452 | [366452-tumble-tiles.json](./366452-tumble-tiles.json) |
 | Tumble Toys: Aviation | 215897 | [215897-tumble-toys-aviation.json](./215897-tumble-toys-aviation.json) |
