@@ -1345,6 +1345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oil and Sand | 311172 | [311172-oil-and-sand.json](./311172-oil-and-sand.json) |
 | Oil Baron | 109405 | [109405-oil-baron.json](./109405-oil-baron.json) |
 | Oil Baron | 366254 | [366254-oil-baron.json](./366254-oil-baron.json) |
+| Oil Barons | 24449 | [24449-oil-barons.json](./24449-oil-barons.json) |
 | Oil Coin | 279495 | [279495-oil-coin.json](./279495-oil-coin.json) |
 | Oil Drill | 22364 | [22364-oil-drill.json](./22364-oil-drill.json) |
 | Oil Empire | 395732 | [395732-oil-empire.json](./395732-oil-empire.json) |
