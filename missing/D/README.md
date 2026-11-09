@@ -9538,6 +9538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digital Eclipse Arcade: Q.P.I.D. | 239655 | [239655-digital-eclipse-arcade-q-p-i-d.json](./239655-digital-eclipse-arcade-q-p-i-d.json) |
 | Digital Eclipse Bundle | 267969 | [267969-digital-eclipse-bundle.json](./267969-digital-eclipse-bundle.json) |
 | Digital Eclipse: Cyberpunk Survivor | 362924 | [362924-digital-eclipse-cyberpunk-survivor.json](./362924-digital-eclipse-cyberpunk-survivor.json) |
+| Digital Eel's Big Box of Blox | 72013 | [72013-digital-eels-big-box-of-blox.json](./72013-digital-eels-big-box-of-blox.json) |
 | Digital Exorcist | 231856 | [231856-digital-exorcist.json](./231856-digital-exorcist.json) |
 | Digital Exorcist Case_(0); | 247429 | [247429-digital-exorcist-case-0.json](./247429-digital-exorcist-case-0.json) |
 | Digital Exorcist: CF1_Defrag | 303112 | [303112-digital-exorcist-cf1-defrag.json](./303112-digital-exorcist-cf1-defrag.json) |
@@ -11178,6 +11179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant | 28704 | [28704-distant.json](./28704-distant.json) |
 | Distant | 311505 | [311505-distant.json](./311505-distant.json) |
 | Distant | 329390 | [329390-distant.json](./329390-distant.json) |
+| Distant Armies: A Playing History of Chess | 71836 | [71836-distant-armies-a-playing-history-of-chess.json](./71836-distant-armies-a-playing-history-of-chess.json) |
 | Distant Bloom | 215851 | [215851-distant-bloom.json](./215851-distant-bloom.json) |
 | Distant castle | 99130 | [99130-distant-castle.json](./99130-distant-castle.json) |
 | Distant Colony | 364697 | [364697-distant-colony.json](./364697-distant-colony.json) |
@@ -14047,6 +14049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dosi | 221158 | [221158-dosi.json](./221158-dosi.json) |
 | DoSK | 123798 | [123798-dosk.json](./123798-dosk.json) |
 | Dosmic | 365025 | [365025-dosmic.json](./365025-dosmic.json) |
+| Dosmine | 71700 | [71700-dosmine.json](./71700-dosmine.json) |
 | DoSolFa-lite | 28146 | [28146-dosolfa-lite.json](./28146-dosolfa-lite.json) |
 | DosQ | 119439 | [119439-dosq.json](./119439-dosq.json) |
 | Dossun! Ganseki Battle | 42560 | [42560-dossun-ganseki-battle.json](./42560-dossun-ganseki-battle.json) |
@@ -15922,6 +15925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragons Vs Aircrafts | 101500 | [101500-dragons-vs-aircrafts.json](./101500-dragons-vs-aircrafts.json) |
 | Dragons vs. Balloons TD | 327539 | [327539-dragons-vs-balloons-td.json](./327539-dragons-vs-balloons-td.json) |
 | Dragons War | 69335 | [69335-dragons-war.json](./69335-dragons-war.json) |
+| Dragons: A Challenge in Chivalry | 71674 | [71674-dragons-a-challenge-in-chivalry.json](./71674-dragons-a-challenge-in-chivalry.json) |
 | Dragons: Rise of Berk | 57751 | [57751-dragons-rise-of-berk.json](./57751-dragons-rise-of-berk.json) |
 | Dragons: The Helmet of the Forkai | 309756 | [309756-dragons-the-helmet-of-the-forkai.json](./309756-dragons-the-helmet-of-the-forkai.json) |
 | Dragons: Titan Uprising | 123626 | [123626-dragons-titan-uprising.json](./123626-dragons-titan-uprising.json) |
