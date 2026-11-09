@@ -1609,6 +1609,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rally Bike | 282119 | [282119-rally-bike.json](./282119-rally-bike.json) |
 | Rally Bike | 39568 | [39568-rally-bike.json](./39568-rally-bike.json) |
 | Rally Challenge | 70170 | [70170-rally-challenge.json](./70170-rally-challenge.json) |
+| Rally Challenge 2000 | 3582 | [3582-rally-challenge-2000.json](./3582-rally-challenge-2000.json) |
 | Rally Champion Advanced | 293876 | [293876-rally-champion-advanced.json](./293876-rally-champion-advanced.json) |
 | Rally Championship | 100201 | [100201-rally-championship.json](./100201-rally-championship.json) |
 | Rally Championship | 4080 | [4080-rally-championship.json](./4080-rally-championship.json) |
@@ -2616,6 +2617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Razion EX | 154695 | [154695-razion-ex.json](./154695-razion-ex.json) |
 | Razor Freestyle Scooter | 249123 | [249123-razor-freestyle-scooter.json](./249123-razor-freestyle-scooter.json) |
 | Razor Freestyle Scooter | 249124 | [249124-razor-freestyle-scooter.json](./249124-razor-freestyle-scooter.json) |
+| Razor Freestyle Scooter | 3584 | [3584-razor-freestyle-scooter.json](./3584-razor-freestyle-scooter.json) |
 | Razor Global Domination Pro Tour | 62076 | [62076-razor-global-domination-pro-tour.json](./62076-razor-global-domination-pro-tour.json) |
 | Razor Wire | 274521 | [274521-razor-wire.json](./274521-razor-wire.json) |
 | Razor's Edge | 321654 | [321654-razors-edge.json](./321654-razors-edge.json) |
@@ -8945,6 +8947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadside Assistance Simulator | 36317 | [36317-roadside-assistance-simulator.json](./36317-roadside-assistance-simulator.json) |
 | Roadside Store Simulator | 382741 | [382741-roadside-store-simulator.json](./382741-roadside-store-simulator.json) |
 | Roadster | 78529 | [78529-roadster.json](./78529-roadster.json) |
+| Roadsters | 3590 | [3590-roadsters.json](./3590-roadsters.json) |
 | Roadsters '98 | 208859 | [208859-roadsters-98.json](./208859-roadsters-98.json) |
 | Roadtrip | 266233 | [266233-roadtrip.json](./266233-roadtrip.json) |
 | Roadtrip Ruckus: RV Survival Crew | 401444 | [401444-roadtrip-ruckus-rv-survival-crew.json](./401444-roadtrip-ruckus-rv-survival-crew.json) |
@@ -9378,6 +9381,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Paradise VR | 133453 | [133453-robot-paradise-vr.json](./133453-robot-paradise-vr.json) |
 | Robot Pirates | 28042 | [28042-robot-pirates.json](./28042-robot-pirates.json) |
 | Robot Planet | 232663 | [232663-robot-planet.json](./232663-robot-planet.json) |
+| Robot Ponkottsu 64: Nanatsu no Umi no Caramel | 3591 | [3591-robot-ponkottsu-64-nanatsu-no-umi-no-caramel.json](./3591-robot-ponkottsu-64-nanatsu-no-umi-no-caramel.json) |
 | Robot Ponkottsu Star Version | 50551 | [50551-robot-ponkottsu-star-version.json](./50551-robot-ponkottsu-star-version.json) |
 | Robot Ponkottsu: Moon Version | 243919 | [243919-robot-ponkottsu-moon-version.json](./243919-robot-ponkottsu-moon-version.json) |
 | Robot Programmer | 235976 | [235976-robot-programmer.json](./235976-robot-programmer.json) |
