@@ -5540,6 +5540,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The 4th Unit 3 - Dual Targets | 78726 | [78726-the-4th-unit-3-dual-targets.json](./78726-the-4th-unit-3-dual-targets.json) |
 | The 4th Unit 4 - Zero | 66325 | [66325-the-4th-unit-4-zero.json](./66325-the-4th-unit-4-zero.json) |
 | The 4th Unit 5 - D-Again | 66326 | [66326-the-4th-unit-5-d-again.json](./66326-the-4th-unit-5-d-again.json) |
+| The 4th Unit 6 - MerryGoRound | 66324 | [66324-the-4th-unit-6-merrygoround.json](./66324-the-4th-unit-6-merrygoround.json) |
+| The 4th Unit 7 - Wyatt | 66322 | [66322-the-4th-unit-7-wyatt.json](./66322-the-4th-unit-7-wyatt.json) |
 | The 4th Wall | 326931 | [326931-the-4th-wall.json](./326931-the-4th-wall.json) |
 | The 4th Wall | 64126 | [64126-the-4th-wall.json](./64126-the-4th-wall.json) |
 | The 50 States Quiz | 103441 | [103441-the-50-states-quiz.json](./103441-the-50-states-quiz.json) |
@@ -11112,6 +11114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Horny Maid and the Daughter are Futanari | 98038 | [98038-the-horny-maid-and-the-daughter-are-futanari.json](./98038-the-horny-maid-and-the-daughter-are-futanari.json) |
 | The Horologist's Legacy | 110954 | [110954-the-horologists-legacy.json](./110954-the-horologists-legacy.json) |
 | The Horrible Inside | 297817 | [297817-the-horrible-inside.json](./297817-the-horrible-inside.json) |
+| The Horrible Vikings | 66794 | [66794-the-horrible-vikings.json](./66794-the-horrible-vikings.json) |
 | The Horror at Highrook | 295380 | [295380-the-horror-at-highrook.json](./295380-the-horror-at-highrook.json) |
 | The Horror of H.H. Holmes | 116580 | [116580-the-horror-of-h-h-holmes.json](./116580-the-horror-of-h-h-holmes.json) |
 | The Horror of Oz | 208440 | [208440-the-horror-of-oz.json](./208440-the-horror-of-oz.json) |
@@ -14501,6 +14504,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Mysterious Misadventures of Mollie & Mordecai | 191120 | [191120-the-mysterious-misadventures-of-mollie-and-mordecai.json](./191120-the-mysterious-misadventures-of-mollie-and-mordecai.json) |
 | The mysterious ship | 101236 | [101236-the-mysterious-ship.json](./101236-the-mysterious-ship.json) |
 | The Mystery at Greveholm | 84217 | [84217-the-mystery-at-greveholm.json](./84217-the-mystery-at-greveholm.json) |
+| The Mystery at Greveholm 2: The Journey to Planutus | 66797 | [66797-the-mystery-at-greveholm-2-the-journey-to-planutus.json](./66797-the-mystery-at-greveholm-2-the-journey-to-planutus.json) |
+| The Mystery at Greveholm 3: The Old Legend | 66795 | [66795-the-mystery-at-greveholm-3-the-old-legend.json](./66795-the-mystery-at-greveholm-3-the-old-legend.json) |
 | The Mystery Cleaner | 204690 | [204690-the-mystery-cleaner.json](./204690-the-mystery-cleaner.json) |
 | The Mystery Files of Detective Inaba No. 1 | 131575 | [131575-the-mystery-files-of-detective-inaba-no-1.json](./131575-the-mystery-files-of-detective-inaba-no-1.json) |
 | The Mystery Files of Detective Inaba No. 2 | 131576 | [131576-the-mystery-files-of-detective-inaba-no-2.json](./131576-the-mystery-files-of-detective-inaba-no-2.json) |
@@ -16591,6 +16596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Seduction of Shaqeera VR | 344438 | [344438-the-seduction-of-shaqeera-vr.json](./344438-the-seduction-of-shaqeera-vr.json) |
 | The Seed | 63672 | [63672-the-seed.json](./63672-the-seed.json) |
 | The Seed: Unit 7 | 315821 | [315821-the-seed-unit-7.json](./315821-the-seed-unit-7.json) |
+| The Seed: War Zone | 66822 | [66822-the-seed-war-zone.json](./66822-the-seed-war-zone.json) |
 | The Seeker | 169106 | [169106-the-seeker.json](./169106-the-seeker.json) |
 | The Seeker | 24814 | [24814-the-seeker.json](./24814-the-seeker.json) |
 | The Seekers: Survival | 226593 | [226593-the-seekers-survival.json](./226593-the-seekers-survival.json) |
@@ -27662,6 +27668,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tow Truck | 310153 | [310153-tow-truck.json](./310153-tow-truck.json) |
 | Tow Truck Driver Simulator 2023 | 261111 | [261111-tow-truck-driver-simulator-2023.json](./261111-tow-truck-driver-simulator-2023.json) |
 | Tow Truck Police Simulator | 401438 | [401438-tow-truck-police-simulator.json](./401438-tow-truck-police-simulator.json) |
+| Tow Truck Simulator 2010 | 66826 | [66826-tow-truck-simulator-2010.json](./66826-tow-truck-simulator-2010.json) |
 | Tow Truck: Max | 102137 | [102137-tow-truck-max.json](./102137-tow-truck-max.json) |
 | Towa and the Guardians of the Sacred Tree: Deluxe Edition | 349599 | [349599-towa-and-the-guardians-of-the-sacred-tree-deluxe-edition.json](./349599-towa-and-the-guardians-of-the-sacred-tree-deluxe-edition.json) |
 | Towa no Sakura | 203199 | [203199-towa-no-sakura.json](./203199-towa-no-sakura.json) |
@@ -31240,6 +31247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Treasure Chest Corps: Fight Demons to Restore the Barrier | 118392 | [118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json](./118392-treasure-chest-corps-fight-demons-to-restore-the-barrier.json) |
 | Treasure Clicker | 398041 | [398041-treasure-clicker.json](./398041-treasure-clicker.json) |
 | Treasure Cove | 409196 | [409196-treasure-cove.json](./409196-treasure-cove.json) |
+| Treasure Cove | 66805 | [66805-treasure-cove.json](./66805-treasure-cove.json) |
 | Treasure Cove! | 100081 | [100081-treasure-cove.json](./100081-treasure-cove.json) |
 | Treasure Cove! + Treasure Mountain! | 93125 | [93125-treasure-cove-treasure-mountain.json](./93125-treasure-cove-treasure-mountain.json) |
 | Treasure Defence | 286348 | [286348-treasure-defence.json](./286348-treasure-defence.json) |
