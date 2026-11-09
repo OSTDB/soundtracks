@@ -15652,6 +15652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sneaky Stealy | 176359 | [176359-sneaky-stealy.json](./176359-sneaky-stealy.json) |
 | Snedronningen | 389350 | [389350-snedronningen.json](./389350-snedronningen.json) |
 | Sneezeman | 189099 | [189099-sneezeman.json](./189099-sneezeman.json) |
+| Sneezies | 61744 | [61744-sneezies.json](./61744-sneezies.json) |
 | Sneezies HD | 21748 | [21748-sneezies-hd.json](./21748-sneezies-hd.json) |
 | Sneggit | 42177 | [42177-sneggit.json](./42177-sneggit.json) |
 | Snek | 182802 | [182802-snek.json](./182802-snek.json) |
@@ -21583,6 +21584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Climb | 269208 | [269208-spectral-climb.json](./269208-spectral-climb.json) |
 | Spectral Escape | 133576 | [133576-spectral-escape.json](./133576-spectral-escape.json) |
 | Spectral Filter | 290360 | [290360-spectral-filter.json](./290360-spectral-filter.json) |
+| Spectral Force | 61257 | [61257-spectral-force.json](./61257-spectral-force.json) |
 | Spectral Force 2 | 80134 | [80134-spectral-force-2.json](./80134-spectral-force-2.json) |
 | Spectral Force 3 | 21339 | [21339-spectral-force-3.json](./21339-spectral-force-3.json) |
 | Spectral Force Genesis | 21090 | [21090-spectral-force-genesis.json](./21090-spectral-force-genesis.json) |
@@ -22568,6 +22570,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spike Volleyball | 112846 | [112846-spike-volleyball.json](./112846-spike-volleyball.json) |
 | Spike's Water Balloons | 46512 | [46512-spikes-water-balloons.json](./46512-spikes-water-balloons.json) |
 | Spikeball Smash | 314980 | [314980-spikeball-smash.json](./314980-spikeball-smash.json) |
+| SpikeDislike | 61775 | [61775-spikedislike.json](./61775-spikedislike.json) |
+| SpikeDislike2: Everybody Likes SpikeDislike | 61773 | [61773-spikedislike2-everybody-likes-spikedislike.json](./61773-spikedislike2-everybody-likes-spikedislike.json) |
 | Spikeout: Battle Street | 6056 | [6056-spikeout-battle-street.json](./6056-spikeout-battle-street.json) |
 | SpikeOut: Digital Battle Online | 39474 | [39474-spikeout-digital-battle-online.json](./39474-spikeout-digital-battle-online.json) |
 | SpikeOut: Final Edition | 319157 | [319157-spikeout-final-edition.json](./319157-spikeout-final-edition.json) |
@@ -22583,6 +22587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spikit | 31908 | [31908-spikit.json](./31908-spikit.json) |
 | Spiky | 144281 | [144281-spiky.json](./144281-spiky.json) |
 | Spiky Harold | 28436 | [28436-spiky-harold.json](./28436-spiky-harold.json) |
+| Spiky Tower: A SpikeDislike Game | 61769 | [61769-spiky-tower-a-spikedislike-game.json](./61769-spiky-tower-a-spikedislike-game.json) |
 | Spiky Way: Forest | 257582 | [257582-spiky-way-forest.json](./257582-spiky-way-forest.json) |
 | Spill the Beans | 276818 | [276818-spill-the-beans.json](./276818-spill-the-beans.json) |
 | Spilled Mushrooms | 318152 | [318152-spilled-mushrooms.json](./318152-spilled-mushrooms.json) |
@@ -22735,6 +22740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpiralGo | 360871 | [360871-spiralgo.json](./360871-spiralgo.json) |
 | Spiraling Snow | 246547 | [246547-spiraling-snow.json](./246547-spiraling-snow.json) |
 | Spire | 312244 | [312244-spire.json](./312244-spire.json) |
+| Spire | 61767 | [61767-spire.json](./61767-spire.json) |
 | Spire Adventure | 233422 | [233422-spire-adventure.json](./233422-spire-adventure.json) |
 | Spire Blast | 194335 | [194335-spire-blast.json](./194335-spire-blast.json) |
 | Spire Blast: Blastee Costumes Pack 3 | 404542 | [404542-spire-blast-blastee-costumes-pack-3.json](./404542-spire-blast-blastee-costumes-pack-3.json) |
