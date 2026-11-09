@@ -956,6 +956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Natsu Ecchi 2: Futago to Inaka no Natsuyasumi | 109001 | [109001-natsu-ecchi-2-futago-to-inaka-no-natsuyasumi.json](./109001-natsu-ecchi-2-futago-to-inaka-no-natsuyasumi.json) |
 | Natsu Koi High Pressure | 194597 | [194597-natsu-koi-high-pressure.json](./194597-natsu-koi-high-pressure.json) |
 | Natsu no Hi no Resonance | 201810 | [201810-natsu-no-hi-no-resonance.json](./201810-natsu-no-hi-no-resonance.json) |
+| Natsu no Iro no Nostalgia | 60672 | [60672-natsu-no-iro-no-nostalgia.json](./60672-natsu-no-iro-no-nostalgia.json) |
 | Natsu no Sagashimono: What We Found That Summer | 331121 | [331121-natsu-no-sagashimono-what-we-found-that-summer.json](./331121-natsu-no-sagashimono-what-we-found-that-summer.json) |
 | Natsu no Sippo wo Oikakete | 400755 | [400755-natsu-no-sippo-wo-oikakete.json](./400755-natsu-no-sippo-wo-oikakete.json) |
 | Natsu Shoujo: Promised Summer | 401155 | [401155-natsu-shoujo-promised-summer.json](./401155-natsu-shoujo-promised-summer.json) |
