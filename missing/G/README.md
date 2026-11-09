@@ -994,6 +994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy Protectors | 188015 | [188015-galaxy-protectors.json](./188015-galaxy-protectors.json) |
 | Galaxy Punch | 100774 | [100774-galaxy-punch.json](./100774-galaxy-punch.json) |
 | Galaxy Quest | 294393 | [294393-galaxy-quest.json](./294393-galaxy-quest.json) |
+| Galaxy Race | 76801 | [76801-galaxy-race.json](./76801-galaxy-race.json) |
 | Galaxy Racers | 76130 | [76130-galaxy-racers.json](./76130-galaxy-racers.json) |
 | Galaxy Raiders | 287789 | [287789-galaxy-raiders.json](./287789-galaxy-raiders.json) |
 | Galaxy Ranger | 39356 | [39356-galaxy-ranger.json](./39356-galaxy-ranger.json) |
@@ -5669,6 +5670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go Kart Mania: Prime Edition | 328762 | [328762-go-kart-mania-prime-edition.json](./328762-go-kart-mania-prime-edition.json) |
 | Go Kart Rally | 66944 | [66944-go-kart-rally.json](./66944-go-kart-rally.json) |
 | Go Kart Safari | 175190 | [175190-go-kart-safari.json](./175190-go-kart-safari.json) |
+| Go Kart Survival | 76824 | [76824-go-kart-survival.json](./76824-go-kart-survival.json) |
 | Go Karting Outdoor | 193719 | [193719-go-karting-outdoor.json](./193719-go-karting-outdoor.json) |
 | Go Long! | 136444 | [136444-go-long.json](./136444-go-long.json) |
 | Go Mecha Ball | 253102 | [253102-go-mecha-ball.json](./253102-go-mecha-ball.json) |
@@ -6101,6 +6103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | God of Chaos | 408920 | [408920-god-of-chaos.json](./408920-god-of-chaos.json) |
 | God of Death | 273755 | [273755-god-of-death.json](./273755-god-of-death.json) |
 | God of Destiny | 137385 | [137385-god-of-destiny.json](./137385-god-of-destiny.json) |
+| God of Failure | 76826 | [76826-god-of-failure.json](./76826-god-of-failure.json) |
 | God of Fortune | 309557 | [309557-god-of-fortune.json](./309557-god-of-fortune.json) |
 | God Of Gods | 256684 | [256684-god-of-gods.json](./256684-god-of-gods.json) |
 | God of Gym | 127815 | [127815-god-of-gym.json](./127815-god-of-gym.json) |
@@ -7334,6 +7337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Google Spotlight Stories: Rain or Shine | 75611 | [75611-google-spotlight-stories-rain-or-shine.json](./75611-google-spotlight-stories-rain-or-shine.json) |
 | Google Spotlight Stories: Son of Jaguar | 75041 | [75041-google-spotlight-stories-son-of-jaguar.json](./75041-google-spotlight-stories-son-of-jaguar.json) |
 | Google Spotlight Stories: Sonaria | 75612 | [75612-google-spotlight-stories-sonaria.json](./75612-google-spotlight-stories-sonaria.json) |
+| Google Spotlight Stories: Special Delivery | 76828 | [76828-google-spotlight-stories-special-delivery.json](./76828-google-spotlight-stories-special-delivery.json) |
 | Google: Image Breakout | 225628 | [225628-google-image-breakout.json](./225628-google-image-breakout.json) |
 | Google: Squid Game | 327862 | [327862-google-squid-game.json](./327862-google-squid-game.json) |
 | Google.exe | 400093 | [400093-google-exe.json](./400093-google-exe.json) |
@@ -9409,6 +9413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid 32 | 274128 | [274128-grid-32.json](./274128-grid-32.json) |
 | Grid Autosport: Custom Edition | 175499 | [175499-grid-autosport-custom-edition.json](./175499-grid-autosport-custom-edition.json) |
 | Grid Battles | 370427 | [370427-grid-battles.json](./370427-grid-battles.json) |
+| Grid Chasers | 76832 | [76832-grid-chasers.json](./76832-grid-chasers.json) |
 | Grid Clash | 392830 | [392830-grid-clash.json](./392830-grid-clash.json) |
 | Grid Creeps | 122813 | [122813-grid-creeps.json](./122813-grid-creeps.json) |
 | Grid Crypt | 398466 | [398466-grid-crypt.json](./398466-grid-crypt.json) |
@@ -10980,6 +10985,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gumball Rainbow Ruckus | 232856 | [232856-gumball-rainbow-ruckus.json](./232856-gumball-rainbow-ruckus.json) |
 | GumBall Warrior | 160100 | [160100-gumball-warrior.json](./160100-gumball-warrior.json) |
 | Gumball: School House Rush | 203209 | [203209-gumball-school-house-rush.json](./203209-gumball-school-house-rush.json) |
+| Gumballs & Dungeons | 76850 | [76850-gumballs-and-dungeons.json](./76850-gumballs-and-dungeons.json) |
 | Gumbo | 40153 | [40153-gumbo.json](./40153-gumbo.json) |
 | Gumbo* and the Machine | 356397 | [356397-gumbo-and-the-machine.json](./356397-gumbo-and-the-machine.json) |
 | Gumboots Australia | 221023 | [221023-gumboots-australia.json](./221023-gumboots-australia.json) |
@@ -11836,6 +11842,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyron Arena | 14103 | [14103-gyron-arena.json](./14103-gyron-arena.json) |
 | Gyropod | 145367 | [145367-gyropod.json](./145367-gyropod.json) |
 | Gyroscope | 13866 | [13866-gyroscope.json](./13866-gyroscope.json) |
+| GyroShooter | 76817 | [76817-gyroshooter.json](./76817-gyroshooter.json) |
 | GyroSphere Trials | 52264 | [52264-gyrosphere-trials.json](./52264-gyrosphere-trials.json) |
 | Gyrostarr | 21791 | [21791-gyrostarr.json](./21791-gyrostarr.json) |
 | Gyrotate | 239415 | [239415-gyrotate.json](./239415-gyrotate.json) |
