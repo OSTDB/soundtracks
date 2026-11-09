@@ -47,6 +47,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | N.O.X. | 369872 | [369872-n-o-x.json](./369872-n-o-x.json) |
 | N.P.P.D. Rush: The Milk of Ultraviolet | 9770 | [9770-n-p-p-d-rush-the-milk-of-ultraviolet.json](./9770-n-p-p-d-rush-the-milk-of-ultraviolet.json) |
 | N.R.V | 378223 | [378223-n-r-v.json](./378223-n-r-v.json) |
+| N.U.D.E.@ Natural Ultimate Digital Experiment | 5940 | [5940-n-u-d-e-natural-ultimate-digital-experiment.json](./5940-n-u-d-e-natural-ultimate-digital-experiment.json) |
 | N.U.T.Z. | 99490 | [99490-n-u-t-z.json](./99490-n-u-t-z.json) |
 | N.Ukeme | 418519 | [418519-n-ukeme.json](./418519-n-ukeme.json) |
 | N.Y.Zombies 2 | 86907 | [86907-n-y-zombies-2.json](./86907-n-y-zombies-2.json) |
@@ -820,6 +821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NASCAR Heat | 49956 | [49956-nascar-heat.json](./49956-nascar-heat.json) |
 | NASCAR Heat 2 | 28829 | [28829-nascar-heat-2.json](./28829-nascar-heat-2.json) |
 | NASCAR Heat 2002 | 248619 | [248619-nascar-heat-2002.json](./248619-nascar-heat-2002.json) |
+| NASCAR Heat 2002 | 5945 | [5945-nascar-heat-2002.json](./5945-nascar-heat-2002.json) |
 | NASCAR Heat 3 | 104983 | [104983-nascar-heat-3.json](./104983-nascar-heat-3.json) |
 | NASCAR Heat 4 | 120487 | [120487-nascar-heat-4.json](./120487-nascar-heat-4.json) |
 | NASCAR Heat 4: Gold Edition | 187900 | [187900-nascar-heat-4-gold-edition.json](./187900-nascar-heat-4-gold-edition.json) |
@@ -1428,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NBA Live 2000 | 264855 | [264855-nba-live-2000.json](./264855-nba-live-2000.json) |
 | NBA Live 2000 | 3553 | [3553-nba-live-2000.json](./3553-nba-live-2000.json) |
 | NBA Live 2001 | 43861 | [43861-nba-live-2001.json](./43861-nba-live-2001.json) |
+| NBA Live 2002 | 5950 | [5950-nba-live-2002.json](./5950-nba-live-2002.json) |
 | NBA Live 2003 | 808 | [808-nba-live-2003.json](./808-nba-live-2003.json) |
 | NBA Live 2005 | 4033 | [4033-nba-live-2005.json](./4033-nba-live-2005.json) |
 | NBA Live 21 | 125191 | [125191-nba-live-21.json](./125191-nba-live-21.json) |
