@@ -6299,6 +6299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes Fantasy: Cells Reborn | 208190 | [208190-heroes-fantasy-cells-reborn.json](./208190-heroes-fantasy-cells-reborn.json) |
 | Heroes For Hire | 295559 | [295559-heroes-for-hire.json](./295559-heroes-for-hire.json) |
 | Heroes Forces | 126990 | [126990-heroes-forces.json](./126990-heroes-forces.json) |
+| Heroes from the Past: Joan of Arc | 32014 | [32014-heroes-from-the-past-joan-of-arc.json](./32014-heroes-from-the-past-joan-of-arc.json) |
 | Heroes Guard: The Journal | 200041 | [200041-heroes-guard-the-journal.json](./200041-heroes-guard-the-journal.json) |
 | Heroes in the Sky | 66440 | [66440-heroes-in-the-sky.json](./66440-heroes-in-the-sky.json) |
 | Heroes in the Sky-Origin | 114198 | [114198-heroes-in-the-sky-origin.json](./114198-heroes-in-the-sky-origin.json) |
@@ -9056,6 +9057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hold Position:Zombie | 239586 | [239586-hold-position-zombie.json](./239586-hold-position-zombie.json) |
 | Hold the Core | 403779 | [403779-hold-the-core.json](./403779-hold-the-core.json) |
 | Hold the Door | 244742 | [244742-hold-the-door.json](./244742-hold-the-door.json) |
+| Hold the Door! | 32054 | [32054-hold-the-door.json](./32054-hold-the-door.json) |
 | Hold the Dots! | 153044 | [153044-hold-the-dots.json](./153044-hold-the-dots.json) |
 | Hold the Line | 220377 | [220377-hold-the-line.json](./220377-hold-the-line.json) |
 | Hold The Line | 395363 | [395363-hold-the-line.json](./395363-hold-the-line.json) |
@@ -10976,6 +10978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hot Squat | 30574 | [30574-hot-squat.json](./30574-hot-squat.json) |
 | Hot Squat 2: New Glory | 122377 | [122377-hot-squat-2-new-glory.json](./122377-hot-squat-2-new-glory.json) |
 | Hot Steam | 231300 | [231300-hot-steam.json](./231300-hot-steam.json) |
+| Hot Sugar Presents: The Melody of Dust | 31317 | [31317-hot-sugar-presents-the-melody-of-dust.json](./31317-hot-sugar-presents-the-melody-of-dust.json) |
 | Hot Summer | 153063 | [153063-hot-summer.json](./153063-hot-summer.json) |
 | Hot Summer Sylvie | 422815 | [422815-hot-summer-sylvie.json](./422815-hot-summer-sylvie.json) |
 | Hot Swap: Cyberlust | 169521 | [169521-hot-swap-cyberlust.json](./169521-hot-swap-cyberlust.json) |
