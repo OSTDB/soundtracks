@@ -3606,6 +3606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear For Sale: Hidden in the Darkness | 187899 | [187899-fear-for-sale-hidden-in-the-darkness.json](./187899-fear-for-sale-hidden-in-the-darkness.json) |
 | Fear for Sale: Mystery of McInroy Manor | 140252 | [140252-fear-for-sale-mystery-of-mcinroy-manor.json](./140252-fear-for-sale-mystery-of-mcinroy-manor.json) |
 | Fear for Sale: Mystery of McInroy Manor - Collector's Edition | 125646 | [125646-fear-for-sale-mystery-of-mcinroy-manor-collectors-edition.json](./125646-fear-for-sale-mystery-of-mcinroy-manor-collectors-edition.json) |
+| Fear for Sale: Nightmare Cinema | 63439 | [63439-fear-for-sale-nightmare-cinema.json](./63439-fear-for-sale-nightmare-cinema.json) |
 | Fear For Sale: Nightmare Cinema - Collector’s Edition | 104216 | [104216-fear-for-sale-nightmare-cinema-collector-s-edition.json](./104216-fear-for-sale-nightmare-cinema-collector-s-edition.json) |
 | Fear For Sale: Phantom Tide - Collector’s Edition | 100065 | [100065-fear-for-sale-phantom-tide-collector-s-edition.json](./100065-fear-for-sale-phantom-tide-collector-s-edition.json) |
 | Fear for Sale: Sunnyvale Story - Collector’s Edition | 228227 | [228227-fear-for-sale-sunnyvale-story-collector-s-edition.json](./228227-fear-for-sale-sunnyvale-story-collector-s-edition.json) |
@@ -5316,6 +5317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XVI: Complete Edition | 318557 | [318557-final-fantasy-xvi-complete-edition.json](./318557-final-fantasy-xvi-complete-edition.json) |
 | Final Fantasy XVI: Deluxe Edition | 228738 | [228738-final-fantasy-xvi-deluxe-edition.json](./228738-final-fantasy-xvi-deluxe-edition.json) |
 | Final Fantasy: 20th Anniversary Edition | 397 | [397-final-fantasy-20th-anniversary-edition.json](./397-final-fantasy-20th-anniversary-edition.json) |
+| Final Fantasy: Airborne Brigade | 63408 | [63408-final-fantasy-airborne-brigade.json](./63408-final-fantasy-airborne-brigade.json) |
 | Final Fantasy: All the Bravest | 8549 | [8549-final-fantasy-all-the-bravest.json](./8549-final-fantasy-all-the-bravest.json) |
 | Final Fantasy: Blackmoon Prophecy | 210027 | [210027-final-fantasy-blackmoon-prophecy.json](./210027-final-fantasy-blackmoon-prophecy.json) |
 | Final Fantasy: Blackmoon Prophecy II | 210030 | [210030-final-fantasy-blackmoon-prophecy-ii.json](./210030-final-fantasy-blackmoon-prophecy-ii.json) |
