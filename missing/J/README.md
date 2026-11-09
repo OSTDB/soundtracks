@@ -565,6 +565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | JamLegend | 93992 | [93992-jamlegend.json](./93992-jamlegend.json) |
 | Jamm | 195839 | [195839-jamm.json](./195839-jamm.json) |
 | Jammed | 407151 | [407151-jammed.json](./407151-jammed.json) |
+| Jammed | 70488 | [70488-jammed.json](./70488-jammed.json) |
 | Jammer | 67972 | [67972-jammer.json](./67972-jammer.json) |
 | Jammer Dash | 314807 | [314807-jammer-dash.json](./314807-jammer-dash.json) |
 | Jammerball | 87758 | [87758-jammerball.json](./87758-jammerball.json) |
@@ -954,6 +955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jedi Survive | 393847 | [393847-jedi-survive.json](./393847-jedi-survive.json) |
 | Jeebo & Jerbo vs. Life | 171985 | [171985-jeebo-and-jerbo-vs-life.json](./171985-jeebo-and-jerbo-vs-life.json) |
 | Jeeboman | 34688 | [34688-jeeboman.json](./34688-jeeboman.json) |
+| Jeep 4x4 Adventure | 70131 | [70131-jeep-4x4-adventure.json](./70131-jeep-4x4-adventure.json) |
 | Jeep Climb Mountain | 312834 | [312834-jeep-climb-mountain.json](./312834-jeep-climb-mountain.json) |
 | Jeep Command | 47177 | [47177-jeep-command.json](./47177-jeep-command.json) |
 | Jeep Jamboree: Off Road Adventure | 48979 | [48979-jeep-jamboree-off-road-adventure.json](./48979-jeep-jamboree-off-road-adventure.json) |
