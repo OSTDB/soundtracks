@@ -187,6 +187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Da Will | 274125 | [274125-da-will.json](./274125-da-will.json) |
 | DA-VI-NC1 | 360596 | [360596-da-vi-nc1.json](./360596-da-vi-nc1.json) |
 | Da! Russian Quiz | 161258 | [161258-da-russian-quiz.json](./161258-da-russian-quiz.json) |
+| Daa! Daa! Daa! Totsuzen Card de Battle de Uranai!? | 65610 | [65610-daa-daa-daa-totsuzen-card-de-battle-de-uranai.json](./65610-daa-daa-daa-totsuzen-card-de-battle-de-uranai.json) |
 | Daaang! | 122591 | [122591-daaang.json](./122591-daaang.json) |
 | Daabiidoggu | 91683 | [91683-daabiidoggu.json](./91683-daabiidoggu.json) |
 | Daahrien's A.P.H.R.O.D.I.T.E. | 247673 | [247673-daahriens-a-p-h-r-o-d-i-t-e.json](./247673-daahriens-a-p-h-r-o-d-i-t-e.json) |
@@ -422,6 +423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daikaijuu Monogatari | 38261 | [38261-daikaijuu-monogatari.json](./38261-daikaijuu-monogatari.json) |
 | Daikaijuu Monogatari II | 44414 | [44414-daikaijuu-monogatari-ii.json](./44414-daikaijuu-monogatari-ii.json) |
 | Daikaijuu Monogatari: The Miracle of the Zone | 62071 | [62071-daikaijuu-monogatari-the-miracle-of-the-zone.json](./62071-daikaijuu-monogatari-the-miracle-of-the-zone.json) |
+| Daikaijuu Monogatari: The Miracle of the Zone II | 65605 | [65605-daikaijuu-monogatari-the-miracle-of-the-zone-ii.json](./65605-daikaijuu-monogatari-the-miracle-of-the-zone-ii.json) |
 | Daikaijuu no Gyakushuu | 221042 | [221042-daikaijuu-no-gyakushuu.json](./221042-daikaijuu-no-gyakushuu.json) |
 | Daikatana | 361416 | [361416-daikatana.json](./361416-daikatana.json) |
 | Daikatana | 80764 | [80764-daikatana.json](./80764-daikatana.json) |
@@ -779,6 +781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dance Dance Revolution GB | 72734 | [72734-dance-dance-revolution-gb.json](./72734-dance-dance-revolution-gb.json) |
 | Dance Dance Revolution GB 2 | 72735 | [72735-dance-dance-revolution-gb-2.json](./72735-dance-dance-revolution-gb-2.json) |
 | Dance Dance Revolution GB 3 | 79476 | [79476-dance-dance-revolution-gb-3.json](./79476-dance-dance-revolution-gb-3.json) |
+| Dance Dance Revolution GB Disney Mix | 65604 | [65604-dance-dance-revolution-gb-disney-mix.json](./65604-dance-dance-revolution-gb-disney-mix.json) |
 | Dance Dance Revolution Grand Prix | 180262 | [180262-dance-dance-revolution-grand-prix.json](./180262-dance-dance-revolution-grand-prix.json) |
 | Dance Dance Revolution Hottest Party | 6658 | [6658-dance-dance-revolution-hottest-party.json](./6658-dance-dance-revolution-hottest-party.json) |
 | Dance Dance Revolution Hottest Party 3 | 21782 | [21782-dance-dance-revolution-hottest-party-3.json](./21782-dance-dance-revolution-hottest-party-3.json) |
@@ -13950,6 +13953,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon no Quiz Boy | 76859 | [76859-doraemon-no-quiz-boy.json](./76859-doraemon-no-quiz-boy.json) |
 | Doraemon no Quiz Boy 2 | 85933 | [85933-doraemon-no-quiz-boy-2.json](./85933-doraemon-no-quiz-boy-2.json) |
 | Doraemon no Study Boy 3: Ku Ku Master | 308106 | [308106-doraemon-no-study-boy-3-ku-ku-master.json](./308106-doraemon-no-study-boy-3-ku-ku-master.json) |
+| Doraemon no Study Boy: Gakushuu Kanji Game | 65541 | [65541-doraemon-no-study-boy-gakushuu-kanji-game.json](./65541-doraemon-no-study-boy-gakushuu-kanji-game.json) |
+| Doraemon no Study Boy: Kanji Yomikaki Master | 65540 | [65540-doraemon-no-study-boy-kanji-yomikaki-master.json](./65540-doraemon-no-study-boy-kanji-yomikaki-master.json) |
 | Doraemon no Study Boy: Kuku Game | 65537 | [65537-doraemon-no-study-boy-kuku-game.json](./65537-doraemon-no-study-boy-kuku-game.json) |
 | Doraemon Pocket Drill Moji Quiz | 310524 | [310524-doraemon-pocket-drill-moji-quiz.json](./310524-doraemon-pocket-drill-moji-quiz.json) |
 | Doraemon Step-Up PC | 314372 | [314372-doraemon-step-up-pc.json](./314372-doraemon-step-up-pc.json) |
@@ -18824,6 +18829,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Manager ZV 2: Expansion Pack | 227075 | [227075-dungeon-manager-zv-2-expansion-pack.json](./227075-dungeon-manager-zv-2-expansion-pack.json) |
 | Dungeon Manager ZV: Resurrection | 55446 | [55446-dungeon-manager-zv-resurrection.json](./55446-dungeon-manager-zv-resurrection.json) |
 | Dungeon Mania | 252153 | [252153-dungeon-mania.json](./252153-dungeon-mania.json) |
+| Dungeon Manjirou | 65620 | [65620-dungeon-manjirou.json](./65620-dungeon-manjirou.json) |
 | Dungeon Marathon | 52295 | [52295-dungeon-marathon.json](./52295-dungeon-marathon.json) |
 | Dungeon Market Simulator | 354516 | [354516-dungeon-market-simulator.json](./354516-dungeon-market-simulator.json) |
 | Dungeon Master | 180559 | [180559-dungeon-master.json](./180559-dungeon-master.json) |
