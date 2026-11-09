@@ -2143,6 +2143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Le Schmilblick | 118315 | [118315-le-schmilblick.json](./118315-le-schmilblick.json) |
 | Le Temple perdu de l'oncle Ernest | 281638 | [281638-le-temple-perdu-de-loncle-ernest.json](./281638-le-temple-perdu-de-loncle-ernest.json) |
 | Le Tour de France | 172668 | [172668-le-tour-de-france.json](./172668-le-tour-de-france.json) |
+| Le Tour de France | 22941 | [22941-le-tour-de-france.json](./22941-le-tour-de-france.json) |
 | Le Tour de France: Centenary Edition | 43449 | [43449-le-tour-de-france-centenary-edition.json](./43449-le-tour-de-france-centenary-edition.json) |
 | Le Trésor d'ali Gator | 336174 | [336174-le-tresor-dali-gator.json](./336174-le-tresor-dali-gator.json) |
 | Le Vilain Petit Canard | 139064 | [139064-le-vilain-petit-canard.json](./139064-le-vilain-petit-canard.json) |
@@ -2485,6 +2486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Left 4 Dead: Game of the Year Edition | 47413 | [47413-left-4-dead-game-of-the-year-edition.json](./47413-left-4-dead-game-of-the-year-edition.json) |
 | Left 4 Dead: Survivors | 60984 | [60984-left-4-dead-survivors.json](./60984-left-4-dead-survivors.json) |
 | Left 4 Dead: The Last Stand | 151872 | [151872-left-4-dead-the-last-stand.json](./151872-left-4-dead-the-last-stand.json) |
+| Left 4 Dead: The Sacrifice | 22955 | [22955-left-4-dead-the-sacrifice.json](./22955-left-4-dead-the-sacrifice.json) |
 | Left 4k Dead | 384137 | [384137-left-4k-dead.json](./384137-left-4k-dead.json) |
 | Left 4k Dead 2 | 384139 | [384139-left-4k-dead-2.json](./384139-left-4k-dead-2.json) |
 | Left Alive | 68287 | [68287-left-alive.json](./68287-left-alive.json) |
