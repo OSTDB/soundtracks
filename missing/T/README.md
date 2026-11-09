@@ -15879,6 +15879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ransom of Atawallpa | 337644 | [337644-the-ransom-of-atawallpa.json](./337644-the-ransom-of-atawallpa.json) |
 | The Raphael Parable | 305306 | [305306-the-raphael-parable.json](./305306-the-raphael-parable.json) |
 | The Rapid Treasure Escape | 176325 | [176325-the-rapid-treasure-escape.json](./176325-the-rapid-treasure-escape.json) |
+| The Rapture is Here and You will be Forcibly Removed from Your Home | 62315 | [62315-the-rapture-is-here-and-you-will-be-forcibly-removed-from-your-home.json](./62315-the-rapture-is-here-and-you-will-be-forcibly-removed-from-your-home.json) |
 | The Raptured | 289967 | [289967-the-raptured.json](./289967-the-raptured.json) |
 | The Rare Nine | 74612 | [74612-the-rare-nine.json](./74612-the-rare-nine.json) |
 | The Rat Plague | 212024 | [212024-the-rat-plague.json](./212024-the-rat-plague.json) |
@@ -26149,6 +26150,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tony Hawk's Vert | 199792 | [199792-tony-hawks-vert.json](./199792-tony-hawks-vert.json) |
 | Tony La Russa Baseball '95 | 95378 | [95378-tony-la-russa-baseball-95.json](./95378-tony-la-russa-baseball-95.json) |
 | Tony La Russa Baseball 2 | 95465 | [95465-tony-la-russa-baseball-2.json](./95465-tony-la-russa-baseball-2.json) |
+| Tony La Russa Baseball 4 | 62323 | [62323-tony-la-russa-baseball-4.json](./62323-tony-la-russa-baseball-4.json) |
 | Tony La Russa's Ultimate Baseball | 95470 | [95470-tony-la-russas-ultimate-baseball.json](./95470-tony-la-russas-ultimate-baseball.json) |
 | Tony La Russa's Ultimate Baseball: Ultimate Expansion Disk - Great Teams 1901-1968 Disk | 72150 | [72150-tony-la-russas-ultimate-baseball-ultimate-expansion-disk-great-teams-1901-1968-disk.json](./72150-tony-la-russas-ultimate-baseball-ultimate-expansion-disk-great-teams-1901-1968-disk.json) |
 | Tony Meola's Sidekicks Soccer | 42540 | [42540-tony-meolas-sidekicks-soccer.json](./42540-tony-meolas-sidekicks-soccer.json) |
