@@ -1742,6 +1742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ramen://Protocol | 410658 | [410658-ramen-protocol.json](./410658-ramen-protocol.json) |
 | Ramen! Road to Mastery | 343712 | [343712-ramen-road-to-mastery.json](./343712-ramen-road-to-mastery.json) |
 | Ramenbashi | 92513 | [92513-ramenbashi.json](./92513-ramenbashi.json) |
+| Rameses | 60114 | [60114-rameses.json](./60114-rameses.json) |
 | Ramhart | 341311 | [341311-ramhart.json](./341311-ramhart.json) |
 | Rami-chan no Ooedo Sugoroku: Keio Yuugeki-tai Gaiden | 66215 | [66215-rami-chan-no-ooedo-sugoroku-keio-yuugeki-tai-gaiden.json](./66215-rami-chan-no-ooedo-sugoroku-keio-yuugeki-tai-gaiden.json) |
 | Ramiel | 163093 | [163093-ramiel.json](./163093-ramiel.json) |
@@ -7990,6 +7991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ripple Island | 48791 | [48791-ripple-island.json](./48791-ripple-island.json) |
 | Ripple no Tamago: Apprentice Magician | 203282 | [203282-ripple-no-tamago-apprentice-magician.json](./203282-ripple-no-tamago-apprentice-magician.json) |
 | Ripple Park | 405513 | [405513-ripple-park.json](./405513-ripple-park.json) |
+| Ripple Runner | 59555 | [59555-ripple-runner.json](./59555-ripple-runner.json) |
 | Ripple: Blue Seal he Youkoso | 194713 | [194713-ripple-blue-seal-he-youkoso.json](./194713-ripple-blue-seal-he-youkoso.json) |
 | RippleLoop | 416045 | [416045-rippleloop.json](./416045-rippleloop.json) |
 | Ripples | 239315 | [239315-ripples.json](./239315-ripples.json) |
