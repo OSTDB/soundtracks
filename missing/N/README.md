@@ -2317,6 +2317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Neo no Panepon | 109447 | [109447-neo-no-panepon.json](./109447-neo-no-panepon.json) |
 | Neo Pang | 75495 | [75495-neo-pang.json](./75495-neo-pang.json) |
 | Neo Planet | 61574 | [61574-neo-planet.json](./61574-neo-planet.json) |
+| Neo Poke Pro Yakyuu | 47619 | [47619-neo-poke-pro-yakyuu.json](./47619-neo-poke-pro-yakyuu.json) |
 | Neo Pussy Masters | 395057 | [395057-neo-pussy-masters.json](./395057-neo-pussy-masters.json) |
 | Neo Racing Genesis | 305747 | [305747-neo-racing-genesis.json](./305747-neo-racing-genesis.json) |
 | Neo Sonic 2 | 266707 | [266707-neo-sonic-2.json](./266707-neo-sonic-2.json) |
