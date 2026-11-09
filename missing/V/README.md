@@ -3089,6 +3089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Visions of Eternity | 281317 | [281317-visions-of-eternity.json](./281317-visions-of-eternity.json) |
 | Visions of Evil | 264525 | [264525-visions-of-evil.json](./264525-visions-of-evil.json) |
 | Visions of Mana: Digital Deluxe Edition | 331264 | [331264-visions-of-mana-digital-deluxe-edition.json](./331264-visions-of-mana-digital-deluxe-edition.json) |
+| Visions of Zozimos | 55313 | [55313-visions-of-zozimos.json](./55313-visions-of-zozimos.json) |
 | Visit | 131775 | [131775-visit.json](./131775-visit.json) |
 | Visit Bloofpiter Today | 302510 | [302510-visit-bloofpiter-today.json](./302510-visit-bloofpiter-today.json) |
 | Visit Once | 147469 | [147469-visit-once.json](./147469-visit-once.json) |
