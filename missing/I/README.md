@@ -4147,6 +4147,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinity Knights: Xross | 289302 | [289302-infinity-knights-xross.json](./289302-infinity-knights-xross.json) |
 | Infinity Lancer | 405810 | [405810-infinity-lancer.json](./405810-infinity-lancer.json) |
 | Infinity Land | 112179 | [112179-infinity-land.json](./112179-infinity-land.json) |
+| Infinity Loop | 19870 | [19870-infinity-loop.json](./19870-infinity-loop.json) |
 | Infinity Loop: Blueprints | 254202 | [254202-infinity-loop-blueprints.json](./254202-infinity-loop-blueprints.json) |
 | Infinity Mechs | 235150 | [235150-infinity-mechs.json](./235150-infinity-mechs.json) |
 | Infinity Nikki: Blue Tears Season | 353286 | [353286-infinity-nikki-blue-tears-season.json](./353286-infinity-nikki-blue-tears-season.json) |
@@ -5624,6 +5625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invaders 360 | 271007 | [271007-invaders-360.json](./271007-invaders-360.json) |
 | Invaders from another dimension | 193560 | [193560-invaders-from-another-dimension.json](./193560-invaders-from-another-dimension.json) |
 | Invaders from Dimension X | 111348 | [111348-invaders-from-dimension-x.json](./111348-invaders-from-dimension-x.json) |
+| Invaders from Hyperspace! | 18739 | [18739-invaders-from-hyperspace.json](./18739-invaders-from-hyperspace.json) |
 | Invaders From Mars | 295970 | [295970-invaders-from-mars.json](./295970-invaders-from-mars.json) |
 | Invaders from the Third Dimension | 253524 | [253524-invaders-from-the-third-dimension.json](./253524-invaders-from-the-third-dimension.json) |
 | Invaders From Uranus | 269153 | [269153-invaders-from-uranus.json](./269153-invaders-from-uranus.json) |
