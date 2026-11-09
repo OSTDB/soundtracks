@@ -427,6 +427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Foretold Affair | 29614 | [29614-a-foretold-affair.json](./29614-a-foretold-affair.json) |
 | A Forever Solitude | 211396 | [211396-a-forever-solitude.json](./211396-a-forever-solitude.json) |
 | A Forgetful Loop | 140905 | [140905-a-forgetful-loop.json](./140905-a-forgetful-loop.json) |
+| A Fork in the Tale | 54635 | [54635-a-fork-in-the-tale.json](./54635-a-fork-in-the-tale.json) |
 | A Fox and His Robot | 150611 | [150611-a-fox-and-his-robot.json](./150611-a-fox-and-his-robot.json) |
 | A Fox Tale | 142477 | [142477-a-fox-tale.json](./142477-a-fox-tale.json) |
 | A Fragment of Her | 60215 | [60215-a-fragment-of-her.json](./60215-a-fragment-of-her.json) |
@@ -7901,6 +7902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alnory | 60195 | [60195-alnory.json](./60195-alnory.json) |
 | Aloe and Cal | 127536 | [127536-aloe-and-cal.json](./127536-aloe-and-cal.json) |
 | Aloft | 204375 | [204375-aloft.json](./204375-aloft.json) |
+| Aloha Paradise Hotel | 55311 | [55311-aloha-paradise-hotel.json](./55311-aloha-paradise-hotel.json) |
 | Aloha Play | 91408 | [91408-aloha-play.json](./91408-aloha-play.json) |
 | Aloha Solitaire | 357119 | [357119-aloha-solitaire.json](./357119-aloha-solitaire.json) |
 | Aloisius | 183469 | [183469-aloisius.json](./183469-aloisius.json) |
@@ -17279,6 +17281,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
