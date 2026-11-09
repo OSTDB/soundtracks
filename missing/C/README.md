@@ -621,6 +621,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Corona: Micro Warfare | 137750 | [137750-call-of-corona-micro-warfare.json](./137750-call-of-corona-micro-warfare.json) |
 | Call of Coronga | 148851 | [148851-call-of-coronga.json](./148851-call-of-coronga.json) |
 | Call of Cthulhu | 9176 | [9176-call-of-cthulhu.json](./9176-call-of-cthulhu.json) |
+| Call of Cthulhu: Dark Corners of the Earth | 2964 | [2964-call-of-cthulhu-dark-corners-of-the-earth.json](./2964-call-of-cthulhu-dark-corners-of-the-earth.json) |
 | Call of Cthulhu: Shadow of the Comet | 34783 | [34783-call-of-cthulhu-shadow-of-the-comet.json](./34783-call-of-cthulhu-shadow-of-the-comet.json) |
 | Call of Cthulhu: The Darkness Within Book 1 | 228320 | [228320-call-of-cthulhu-the-darkness-within-book-1.json](./228320-call-of-cthulhu-the-darkness-within-book-1.json) |
 | Call of Cutie | 411724 | [411724-call-of-cutie.json](./411724-call-of-cutie.json) |
@@ -5168,6 +5169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cave Shooting Collection | 159258 | [159258-cave-shooting-collection.json](./159258-cave-shooting-collection.json) |
 | Cave Story | 339021 | [339021-cave-story.json](./339021-cave-story.json) |
 | Cave Story | 366623 | [366623-cave-story.json](./366623-cave-story.json) |
+| Cave Story | 6189 | [6189-cave-story.json](./6189-cave-story.json) |
 | Cave Story 3D | 11783 | [11783-cave-story-3d.json](./11783-cave-story-3d.json) |
 | Cave Story MD | 183654 | [183654-cave-story-md.json](./183654-cave-story-md.json) |
 | Cave Story Sex RPG 2007 | 145470 | [145470-cave-story-sex-rpg-2007.json](./145470-cave-story-sex-rpg-2007.json) |
@@ -13512,6 +13514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer and The Covert Operations | 290216 | [290216-command-and-conquer-and-the-covert-operations.json](./290216-command-and-conquer-and-the-covert-operations.json) |
 | Command & Conquer Remastered Collection | 112104 | [112104-command-and-conquer-remastered-collection.json](./112104-command-and-conquer-remastered-collection.json) |
 | Command & Conquer: Generals - Deluxe Edition | 87190 | [87190-command-and-conquer-generals-deluxe-edition.json](./87190-command-and-conquer-generals-deluxe-edition.json) |
+| Command & Conquer: Generals - Zero Hour | 650 | [650-command-and-conquer-generals-zero-hour.json](./650-command-and-conquer-generals-zero-hour.json) |
 | Command & Conquer: Legions | 256912 | [256912-command-and-conquer-legions.json](./256912-command-and-conquer-legions.json) |
 | Command & Conquer: Legions - Season Red Alert | 314404 | [314404-command-and-conquer-legions-season-red-alert.json](./314404-command-and-conquer-legions-season-red-alert.json) |
 | Command & Conquer: Red Alert - Counterstrike | 676 | [676-command-and-conquer-red-alert-counterstrike.json](./676-command-and-conquer-red-alert-counterstrike.json) |
