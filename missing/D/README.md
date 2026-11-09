@@ -1077,6 +1077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Danganronpa: Streamers Despair | 411339 | [411339-danganronpa-streamers-despair.json](./411339-danganronpa-streamers-despair.json) |
 | Danganronpa: Survivor's Guilt | 341080 | [341080-danganronpa-survivors-guilt.json](./341080-danganronpa-survivors-guilt.json) |
 | Danganronpa: Survivor's Guilt - Origin | 411334 | [411334-danganronpa-survivors-guilt-origin.json](./411334-danganronpa-survivors-guilt-origin.json) |
+| Danganronpa: Unlimited Battle | 11745 | [11745-danganronpa-unlimited-battle.json](./11745-danganronpa-unlimited-battle.json) |
 | Danganronpa/Zero: The Fangame - Despair Through Memetic Waves | 413639 | [413639-danganronpa-zero-the-fangame-despair-through-memetic-waves.json](./413639-danganronpa-zero-the-fangame-despair-through-memetic-waves.json) |
 | Danger Ahead | 165927 | [165927-danger-ahead.json](./165927-danger-ahead.json) |
 | Danger and Deadlier | 336700 | [336700-danger-and-deadlier.json](./336700-danger-and-deadlier.json) |
@@ -1405,6 +1406,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Age of Camelot: Darkness Rising | 70754 | [70754-dark-age-of-camelot-darkness-rising.json](./70754-dark-age-of-camelot-darkness-rising.json) |
 | Dark Age of Camelot: Labyrinth of the Minotaur | 21415 | [21415-dark-age-of-camelot-labyrinth-of-the-minotaur.json](./21415-dark-age-of-camelot-labyrinth-of-the-minotaur.json) |
 | Dark Age of Camelot: Shrouded Isles | 22229 | [22229-dark-age-of-camelot-shrouded-isles.json](./22229-dark-age-of-camelot-shrouded-isles.json) |
+| Dark Ages | 11726 | [11726-dark-ages.json](./11726-dark-ages.json) |
 | Dark Ages | 72251 | [72251-dark-ages.json](./72251-dark-ages.json) |
 | Dark Ages: Asa no Konai Basho | 69409 | [69409-dark-ages-asa-no-konai-basho.json](./69409-dark-ages-asa-no-konai-basho.json) |
 | Dark Ages: Volume I - Prince of Destiny | 70337 | [70337-dark-ages-volume-i-prince-of-destiny.json](./70337-dark-ages-volume-i-prince-of-destiny.json) |
