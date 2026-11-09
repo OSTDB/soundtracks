@@ -192,6 +192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.G Series: Drift Circuit | 84649 | [84649-g-g-series-drift-circuit.json](./84649-g-g-series-drift-circuit.json) |
 | G.G Series: Drilling Attack!! | 84650 | [84650-g-g-series-drilling-attack.json](./84650-g-g-series-drilling-attack.json) |
 | G.G Series: Energy Chain | 67775 | [67775-g-g-series-energy-chain.json](./67775-g-g-series-energy-chain.json) |
+| G.G Series: Exciting River | 66995 | [66995-g-g-series-exciting-river.json](./66995-g-g-series-exciting-river.json) |
 | G.G Series: Great Whip Adventure | 84567 | [84567-g-g-series-great-whip-adventure.json](./84567-g-g-series-great-whip-adventure.json) |
 | G.G Series: Hero Puzzle | 84569 | [84569-g-g-series-hero-puzzle.json](./84569-g-g-series-hero-puzzle.json) |
 | G.G Series: Horizontal Bar | 84501 | [84501-g-g-series-horizontal-bar.json](./84501-g-g-series-horizontal-bar.json) |
@@ -205,6 +206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.G Series: The Hidden Ninja Kagemaru | 84564 | [84564-g-g-series-the-hidden-ninja-kagemaru.json](./84564-g-g-series-the-hidden-ninja-kagemaru.json) |
 | G.G Series: The Last Knight | 84563 | [84563-g-g-series-the-last-knight.json](./84563-g-g-series-the-last-knight.json) |
 | G.G Series: The Spiky Blowfish!! | 84562 | [84562-g-g-series-the-spiky-blowfish.json](./84562-g-g-series-the-spiky-blowfish.json) |
+| G.G Series: Throw Out | 66996 | [66996-g-g-series-throw-out.json](./66996-g-g-series-throw-out.json) |
 | G.G Series: Vector | 84561 | [84561-g-g-series-vector.json](./84561-g-g-series-vector.json) |
 | G.G Series: Vertex | 84560 | [84560-g-g-series-vertex.json](./84560-g-g-series-vertex.json) |
 | G.G Series: Wonder Land | 67643 | [67643-g-g-series-wonder-land.json](./67643-g-g-series-wonder-land.json) |
@@ -7043,6 +7045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golly Soda Pop | 333208 | [333208-golly-soda-pop.json](./333208-golly-soda-pop.json) |
 | Golly! Ghosts! Goal! | 242776 | [242776-golly-ghosts-goal.json](./242776-golly-ghosts-goal.json) |
 | Golod | 406677 | [406677-golod.json](./406677-golod.json) |
+| Golques | 67411 | [67411-golques.json](./67411-golques.json) |
 | Golubi | 418222 | [418222-golubi.json](./418222-golubi.json) |
 | Golvellius: Valley of Doom | 46146 | [46146-golvellius-valley-of-doom.json](./46146-golvellius-valley-of-doom.json) |
 | Golyathe | 393507 | [393507-golyathe.json](./393507-golyathe.json) |
