@@ -6041,6 +6041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Children's Educational Swanky Alphabet Puzzle Game | 88957 | [88957-little-childrens-educational-swanky-alphabet-puzzle-game.json](./88957-little-childrens-educational-swanky-alphabet-puzzle-game.json) |
 | Little Children's Educational Swanky Puzzles Game | 97308 | [97308-little-childrens-educational-swanky-puzzles-game.json](./97308-little-childrens-educational-swanky-puzzles-game.json) |
 | Little Chinese Final Edition | 267576 | [267576-little-chinese-final-edition.json](./267576-little-chinese-final-edition.json) |
+| Little Chomp | 63908 | [63908-little-chomp.json](./63908-little-chomp.json) |
 | Little Christmas Adventure | 173166 | [173166-little-christmas-adventure.json](./173166-little-christmas-adventure.json) |
 | Little Christmas Workshop | 382306 | [382306-little-christmas-workshop.json](./382306-little-christmas-workshop.json) |
 | Little Cities | 201654 | [201654-little-cities.json](./201654-little-cities.json) |
