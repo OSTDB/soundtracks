@@ -2255,6 +2255,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranormal Hunter | 216642 | [216642-paranormal-hunter.json](./216642-paranormal-hunter.json) |
 | Paranormal Inc. | 277104 | [277104-paranormal-inc.json](./277104-paranormal-inc.json) |
 | Paranormal Intelligence Bureau | 114618 | [114618-paranormal-intelligence-bureau.json](./114618-paranormal-intelligence-bureau.json) |
+| Paranormal Investigation | 71249 | [71249-paranormal-investigation.json](./71249-paranormal-investigation.json) |
+| Paranormal Investigation | 71271 | [71271-paranormal-investigation.json](./71271-paranormal-investigation.json) |
 | Paranormal Meatball Simulator | 408008 | [408008-paranormal-meatball-simulator.json](./408008-paranormal-meatball-simulator.json) |
 | Paranormal Mission | 247120 | [247120-paranormal-mission.json](./247120-paranormal-mission.json) |
 | Paranormal Motel | 193401 | [193401-paranormal-motel.json](./193401-paranormal-motel.json) |
@@ -5332,6 +5334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PGA Tour Golf III | 45781 | [45781-pga-tour-golf-iii.json](./45781-pga-tour-golf-iii.json) |
 | PGA Tour Golf Shootout | 137414 | [137414-pga-tour-golf-shootout.json](./137414-pga-tour-golf-shootout.json) |
 | PGA Tour Golf: The Monterey Courses | 206170 | [206170-pga-tour-golf-the-monterey-courses.json](./206170-pga-tour-golf-the-monterey-courses.json) |
+| PGA Tour Golf: Tournament Course Disk | 71139 | [71139-pga-tour-golf-tournament-course-disk.json](./71139-pga-tour-golf-tournament-course-disk.json) |
 | PGA Tour Pro | 94514 | [94514-pga-tour-pro.json](./94514-pga-tour-pro.json) |
 | PGA Tour Pro: Classic Courses Volume 1 | 209980 | [209980-pga-tour-pro-classic-courses-volume-1.json](./209980-pga-tour-pro-classic-courses-volume-1.json) |
 | PGA Tour Pro: The Vegas Courses | 206991 | [206991-pga-tour-pro-the-vegas-courses.json](./206991-pga-tour-pro-the-vegas-courses.json) |
@@ -7100,6 +7103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Breakout | 57322 | [57322-pinball-breakout.json](./57322-pinball-breakout.json) |
 | Pinball Breakout 2 | 112114 | [112114-pinball-breakout-2.json](./112114-pinball-breakout-2.json) |
 | Pinball Breeze | 354432 | [354432-pinball-breeze.json](./354432-pinball-breeze.json) |
+| Pinball Builder: A Construction Kit for Windows | 71134 | [71134-pinball-builder-a-construction-kit-for-windows.json](./71134-pinball-builder-a-construction-kit-for-windows.json) |
 | Pinball by Kotai | 252651 | [252651-pinball-by-kotai.json](./252651-pinball-by-kotai.json) |
 | Pinball Challenge Deluxe | 49361 | [49361-pinball-challenge-deluxe.json](./49361-pinball-challenge-deluxe.json) |
 | Pinball Champ '95 | 266680 | [266680-pinball-champ-95.json](./266680-pinball-champ-95.json) |
