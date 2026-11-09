@@ -2337,6 +2337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter: Wizards Unite | 75563 | [75563-harry-potter-wizards-unite.json](./75563-harry-potter-wizards-unite.json) |
 | Harry Quantum Episode 1: TV Go Home | 404417 | [404417-harry-quantum-episode-1-tv-go-home.json](./404417-harry-quantum-episode-1-tv-go-home.json) |
 | Harry Styles Heardle | 225622 | [225622-harry-styles-heardle.json](./225622-harry-styles-heardle.json) |
+| Harry the Fairy | 20802 | [20802-harry-the-fairy.json](./20802-harry-the-fairy.json) |
 | Harry the Hamster 2: The Quest for the Golden Wheel | 235333 | [235333-harry-the-hamster-2-the-quest-for-the-golden-wheel.json](./235333-harry-the-hamster-2-the-quest-for-the-golden-wheel.json) |
 | Harry the Handsome Executive | 67634 | [67634-harry-the-handsome-executive.json](./67634-harry-the-handsome-executive.json) |
 | Harry's Burgers | 86431 | [86431-harrys-burgers.json](./86431-harrys-burgers.json) |
@@ -8867,6 +8868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hljod | 235919 | [235919-hljod.json](./235919-hljod.json) |
 | Hmmsim Metro | 149786 | [149786-hmmsim-metro.json](./149786-hmmsim-metro.json) |
 | Hmph! Hmph! Yowai | 289454 | [289454-hmph-hmph-yowai.json](./289454-hmph-hmph-yowai.json) |
+| HMS Marulken | 20995 | [20995-hms-marulken.json](./20995-hms-marulken.json) |
 | HMUR | 359893 | [359893-hmur.json](./359893-hmur.json) |
 | Hnefatafl | 133083 | [133083-hnefatafl.json](./133083-hnefatafl.json) |
 | Hnefatafl Online | 291399 | [291399-hnefatafl-online.json](./291399-hnefatafl-online.json) |
