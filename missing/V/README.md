@@ -36,6 +36,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V tylu vraga 2: Brat'ya po oruzhiyu | 383942 | [383942-v-tylu-vraga-2-bratya-po-oruzhiyu.json](./383942-v-tylu-vraga-2-bratya-po-oruzhiyu.json) |
 | V tylu vraga: Diversanty 3 | 383941 | [383941-v-tylu-vraga-diversanty-3.json](./383941-v-tylu-vraga-diversanty-3.json) |
 | V-Air Traffic Control | 251958 | [251958-v-air-traffic-control.json](./251958-v-air-traffic-control.json) |
+| V-Ball: Beach Volley Heroes | 72234 | [72234-v-ball-beach-volley-heroes.json](./72234-v-ball-beach-volley-heroes.json) |
 | V-Dash Dungeon | 406230 | [406230-v-dash-dungeon.json](./406230-v-dash-dungeon.json) |
 | V-Frogger | 46517 | [46517-v-frogger.json](./46517-v-frogger.json) |
 | V-Goal Soccer '96 | 37199 | [37199-v-goal-soccer-96.json](./37199-v-goal-soccer-96.json) |
@@ -4174,6 +4175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Spaceship Battle | 155882 | [155882-vr-spaceship-battle.json](./155882-vr-spaceship-battle.json) |
 | VR Sport and Cycling | 116304 | [116304-vr-sport-and-cycling.json](./116304-vr-sport-and-cycling.json) |
 | VR Sports: Challenge | 59093 | [59093-vr-sports-challenge.json](./59093-vr-sports-challenge.json) |
+| VR Sports: Powerboat Racing | 72231 | [72231-vr-sports-powerboat-racing.json](./72231-vr-sports-powerboat-racing.json) |
 | VR Squash 2017 | 74398 | [74398-vr-squash-2017.json](./74398-vr-squash-2017.json) |
 | VR Stalker | 4272 | [4272-vr-stalker.json](./4272-vr-stalker.json) |
 | VR Stock Car Racers | 83558 | [83558-vr-stock-car-racers.json](./83558-vr-stock-car-racers.json) |
