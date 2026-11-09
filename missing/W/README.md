@@ -1909,6 +1909,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WarOFuture | 301615 | [301615-warofuture.json](./301615-warofuture.json) |
 | Waronoi | 149194 | [149194-waronoi.json](./149194-waronoi.json) |
 | Warota: I Live Next to The Demon King's Castle LOL | 399887 | [399887-warota-i-live-next-to-the-demon-kings-castle-lol.json](./399887-warota-i-live-next-to-the-demon-kings-castle-lol.json) |
+| Warp | 2347 | [2347-warp.json](./2347-warp.json) |
 | Warp | 74327 | [74327-warp.json](./74327-warp.json) |
 | Warp & Warp | 39399 | [39399-warp-and-warp.json](./39399-warp-and-warp.json) |
 | Warp 1 | 131295 | [131295-warp-1.json](./131295-warp-1.json) |
@@ -2894,6 +2895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WCW World Championship Wrestling: The Main Event | 117971 | [117971-wcw-world-championship-wrestling-the-main-event.json](./117971-wcw-world-championship-wrestling-the-main-event.json) |
 | WCW: World Championship Wrestling | 48095 | [48095-wcw-world-championship-wrestling.json](./48095-wcw-world-championship-wrestling.json) |
 | WCW/nWo Grudge Match: Scott vs. Rick Steiner | 217985 | [217985-wcw-nwo-grudge-match-scott-vs-rick-steiner.json](./217985-wcw-nwo-grudge-match-scott-vs-rick-steiner.json) |
+| WCW/nWo Revenge | 3636 | [3636-wcw-nwo-revenge.json](./3636-wcw-nwo-revenge.json) |
 | WCW/nWo Revenji | 257769 | [257769-wcw-nwo-revenji.json](./257769-wcw-nwo-revenji.json) |
 | WCW/nWo Thunder | 18315 | [18315-wcw-nwo-thunder.json](./18315-wcw-nwo-thunder.json) |
 | WD-40 Game | 250203 | [250203-wd-40-game.json](./250203-wd-40-game.json) |
@@ -5250,6 +5252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wii Party U | 3106 | [3106-wii-party-u.json](./3106-wii-party-u.json) |
 | Wii Party: World Edition | 136208 | [136208-wii-party-world-edition.json](./136208-wii-party-world-edition.json) |
 | Wii Play | 2185 | [2185-wii-play.json](./2185-wii-play.json) |
+| Wii Play: Motion | 5281 | [5281-wii-play-motion.json](./5281-wii-play-motion.json) |
 | Wii Sports + Wii Sports Resort | 130310 | [130310-wii-sports-wii-sports-resort.json](./130310-wii-sports-wii-sports-resort.json) |
 | Wii Sports Club | 23518 | [23518-wii-sports-club.json](./23518-wii-sports-club.json) |
 | Wii Sports Club: Bowling | 85488 | [85488-wii-sports-club-bowling.json](./85488-wii-sports-club-bowling.json) |
@@ -5757,6 +5760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Willie's Nightfall | 323492 | [323492-willies-nightfall.json](./323492-willies-nightfall.json) |
 | WilliU: The Big GetBack | 111997 | [111997-williu-the-big-getback.json](./111997-williu-the-big-getback.json) |
 | Willo | 179746 | [179746-willo.json](./179746-willo.json) |
+| Willow | 6981 | [6981-willow.json](./6981-willow.json) |
 | Willow | 74395 | [74395-willow.json](./74395-willow.json) |
 | Willow Guard | 265256 | [265256-willow-guard.json](./265256-willow-guard.json) |
 | Willow Guard: Frostreign | 398430 | [398430-willow-guard-frostreign.json](./398430-willow-guard-frostreign.json) |
@@ -9152,6 +9156,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worms Battlegrounds | 8967 | [8967-worms-battlegrounds.json](./8967-worms-battlegrounds.json) |
 | Worms Battlegrounds + Worms W.M.D | 136080 | [136080-worms-battlegrounds-worms-w-m-d.json](./136080-worms-battlegrounds-worms-w-m-d.json) |
 | Worms Blast | 248469 | [248469-worms-blast.json](./248469-worms-blast.json) |
+| Worms Blast | 4236 | [4236-worms-blast.json](./4236-worms-blast.json) |
 | Worms Clan Wars | 7082 | [7082-worms-clan-wars.json](./7082-worms-clan-wars.json) |
 | Worms Collection 1 | 145833 | [145833-worms-collection-1.json](./145833-worms-collection-1.json) |
 | Worms Crazy Golf | 15070 | [15070-worms-crazy-golf.json](./15070-worms-crazy-golf.json) |
