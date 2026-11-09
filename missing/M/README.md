@@ -116,6 +116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | M87 | 200511 | [200511-m87.json](./200511-m87.json) |
 | MA 2: President Simulator | 345231 | [345231-ma-2-president-simulator.json](./345231-ma-2-president-simulator.json) |
 | Ma Cheon Ru | 269161 | [269161-ma-cheon-ru.json](./269161-ma-cheon-ru.json) |
+| Ma Kai Quest | 45636 | [45636-ma-kai-quest.json](./45636-ma-kai-quest.json) |
 | Ma Pension d'Animaux: Bébés Câlins | 144681 | [144681-ma-pension-danimaux-bebes-calins.json](./144681-ma-pension-danimaux-bebes-calins.json) |
 | Ma Petite Ferme | 341253 | [341253-ma-petite-ferme.json](./341253-ma-petite-ferme.json) |
 | Ma première visite à la tour du sens | 345578 | [345578-ma-premiere-visite-a-la-tour-du-sens.json](./345578-ma-premiere-visite-a-la-tour-du-sens.json) |
