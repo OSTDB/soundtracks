@@ -7369,6 +7369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadows of the Void | 133720 | [133720-shadows-of-the-void.json](./133720-shadows-of-the-void.json) |
 | Shadows of the Werewolf | 315060 | [315060-shadows-of-the-werewolf.json](./315060-shadows-of-the-werewolf.json) |
 | Shadows of Thornkeep | 374073 | [374073-shadows-of-thornkeep.json](./374073-shadows-of-thornkeep.json) |
+| Shadows of Time | 16586 | [16586-shadows-of-time.json](./16586-shadows-of-time.json) |
 | Shadows of Truth | 270472 | [270472-shadows-of-truth.json](./270472-shadows-of-truth.json) |
 | Shadows of War | 35998 | [35998-shadows-of-war.json](./35998-shadows-of-war.json) |
 | Shadows of War 2 | 391171 | [391171-shadows-of-war-2.json](./391171-shadows-of-war-2.json) |
@@ -12042,6 +12043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sinoven | 235714 | [235714-sinoven.json](./235714-sinoven.json) |
 | Sins | 183078 | [183078-sins.json](./183078-sins.json) |
 | Sins From Magdala | 213456 | [213456-sins-from-magdala.json](./213456-sins-from-magdala.json) |
+| Sins of a Dark Age | 16676 | [16676-sins-of-a-dark-age.json](./16676-sins-of-a-dark-age.json) |
 | Sins of a Solar Empire | 872 | [872-sins-of-a-solar-empire.json](./872-sins-of-a-solar-empire.json) |
 | Sins of a Solar Empire Gold | 53614 | [53614-sins-of-a-solar-empire-gold.json](./53614-sins-of-a-solar-empire-gold.json) |
 | Sins of a Solar Empire II | 223457 | [223457-sins-of-a-solar-empire-ii.json](./223457-sins-of-a-solar-empire-ii.json) |
@@ -17865,6 +17867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Songs of Travel | 298961 | [298961-songs-of-travel.json](./298961-songs-of-travel.json) |
 | Songs of Wuxia | 129448 | [129448-songs-of-wuxia.json](./129448-songs-of-wuxia.json) |
 | Songs of Yummy | 349040 | [349040-songs-of-yummy.json](./349040-songs-of-yummy.json) |
+| Songs2See | 16634 | [16634-songs2see.json](./16634-songs2see.json) |
 | Songs2See Game | 90553 | [90553-songs2see-game.json](./90553-songs2see-game.json) |
 | Songtail: Whiskers of Destiny | 389740 | [389740-songtail-whiskers-of-destiny.json](./389740-songtail-whiskers-of-destiny.json) |
 | SongTrivia 2: Guess the song | 197449 | [197449-songtrivia-2-guess-the-song.json](./197449-songtrivia-2-guess-the-song.json) |
@@ -25807,6 +25810,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: The Force Unleashed | 399295 | [399295-star-wars-the-force-unleashed.json](./399295-star-wars-the-force-unleashed.json) |
 | Star Wars: The Force Unleashed - Character Pack 1 | 74884 | [74884-star-wars-the-force-unleashed-character-pack-1.json](./74884-star-wars-the-force-unleashed-character-pack-1.json) |
 | Star Wars: The Force Unleashed - Character Pack 2 | 74885 | [74885-star-wars-the-force-unleashed-character-pack-2.json](./74885-star-wars-the-force-unleashed-character-pack-2.json) |
+| Star Wars: The Force Unleashed - Hoth Mission Pack | 17474 | [17474-star-wars-the-force-unleashed-hoth-mission-pack.json](./17474-star-wars-the-force-unleashed-hoth-mission-pack.json) |
+| Star Wars: The Force Unleashed - Jedi Temple Mission Pack | 17476 | [17476-star-wars-the-force-unleashed-jedi-temple-mission-pack.json](./17476-star-wars-the-force-unleashed-jedi-temple-mission-pack.json) |
 | Star Wars: The Force Unleashed - Tatooine Mission Pack | 17475 | [17475-star-wars-the-force-unleashed-tatooine-mission-pack.json](./17475-star-wars-the-force-unleashed-tatooine-mission-pack.json) |
 | Star Wars: The Force Unleashed - Ultimate Sith Edition | 19637 | [19637-star-wars-the-force-unleashed-ultimate-sith-edition.json](./19637-star-wars-the-force-unleashed-ultimate-sith-edition.json) |
 | Star Wars: The Force Unleashed II | 324523 | [324523-star-wars-the-force-unleashed-ii.json](./324523-star-wars-the-force-unleashed-ii.json) |
@@ -27323,6 +27328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Skirmish: Reloaded | 379347 | [379347-steel-skirmish-reloaded.json](./379347-steel-skirmish-reloaded.json) |
 | Steel Soul | 294133 | [294133-steel-soul.json](./294133-steel-soul.json) |
 | Steel Soul Shaper | 395208 | [395208-steel-soul-shaper.json](./395208-steel-soul-shaper.json) |
+| Steel Storm A.M.M.O. | 16673 | [16673-steel-storm-a-m-m-o.json](./16673-steel-storm-a-m-m-o.json) |
 | Steel Storm: Burning Retribution | 16243 | [16243-steel-storm-burning-retribution.json](./16243-steel-storm-burning-retribution.json) |
 | Steel Storm: Forgotten Prison | 169961 | [169961-steel-storm-forgotten-prison.json](./169961-steel-storm-forgotten-prison.json) |
 | Steel Strider | 34403 | [34403-steel-strider.json](./34403-steel-strider.json) |
@@ -34730,6 +34736,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Ultra Baseball 2 | 38242 | [38242-super-ultra-baseball-2.json](./38242-super-ultra-baseball-2.json) |
 | Super Ultra Dead Rising 3 Arcade Remix Hyper Edition EX Plus Alpha | 20095 | [20095-super-ultra-dead-rising-3-arcade-remix-hyper-edition-ex-plus-alpha.json](./20095-super-ultra-dead-rising-3-arcade-remix-hyper-edition-ex-plus-alpha.json) |
 | Super Ultra Dead Rising 4 Mini Golf | 36664 | [36664-super-ultra-dead-rising-4-mini-golf.json](./36664-super-ultra-dead-rising-4-mini-golf.json) |
+| Super Ultra Kogal | 16751 | [16751-super-ultra-kogal.json](./16751-super-ultra-kogal.json) |
 | Super Ultra Monster Smash! | 51597 | [51597-super-ultra-monster-smash.json](./51597-super-ultra-monster-smash.json) |
 | Super Ultra Mucchin Puripuri Cyborg: Marilyn DX | 271710 | [271710-super-ultra-mucchin-puripuri-cyborg-marilyn-dx.json](./271710-super-ultra-mucchin-puripuri-cyborg-marilyn-dx.json) |
 | Super Ultra Mustard Man | 351737 | [351737-super-ultra-mustard-man.json](./351737-super-ultra-mustard-man.json) |
@@ -36696,6 +36703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Swing High | 181719 | [181719-swing-high.json](./181719-swing-high.json) |
 | Swing Home Run | 234056 | [234056-swing-home-run.json](./234056-swing-home-run.json) |
 | Swing Into Zero-G | 296667 | [296667-swing-into-zero-g.json](./296667-swing-into-zero-g.json) |
+| Swing King | 16598 | [16598-swing-king.json](./16598-swing-king.json) |
 | Swing Lord | 141142 | [141142-swing-lord.json](./141142-swing-lord.json) |
 | Swing of the Valkyries | 391597 | [391597-swing-of-the-valkyries.json](./391597-swing-of-the-valkyries.json) |
 | Swing Plus: Total Mindcontrol | 73659 | [73659-swing-plus-total-mindcontrol.json](./73659-swing-plus-total-mindcontrol.json) |
