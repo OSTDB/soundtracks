@@ -1243,7 +1243,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hana to Otome ni Shukufuku wo Royal Bouquet | 60368 | [60368-hana-to-otome-ni-shukufuku-wo-royal-bouquet.json](./60368-hana-to-otome-ni-shukufuku-wo-royal-bouquet.json) |
 | Hana to Otome ni Shukufuku wo: Harukaze No Okurimono | 69054 | [69054-hana-to-otome-ni-shukufuku-wo-harukaze-no-okurimono.json](./69054-hana-to-otome-ni-shukufuku-wo-harukaze-no-okurimono.json) |
 | Hana to Ryuu | 352509 | [352509-hana-to-ryuu.json](./352509-hana-to-ryuu.json) |
+| Hana Yori Dango: Another Love Story | 67429 | [67429-hana-yori-dango-another-love-story.json](./67429-hana-yori-dango-another-love-story.json) |
 | Hana Yori Dango: F4 to First Kiss | 202988 | [202988-hana-yori-dango-f4-to-first-kiss.json](./202988-hana-yori-dango-f4-to-first-kiss.json) |
+| Hana Yori Dango: Koi Seyo Otome | 67427 | [67427-hana-yori-dango-koi-seyo-otome.json](./67427-hana-yori-dango-koi-seyo-otome.json) |
 | Hana: Episode I | 263345 | [263345-hana-episode-i.json](./263345-hana-episode-i.json) |
 | Hana: Episode II | 263346 | [263346-hana-episode-ii.json](./263346-hana-episode-ii.json) |
 | Hana: Hide and Seek | 250529 | [250529-hana-hide-and-seek.json](./250529-hana-hide-and-seek.json) |
@@ -2253,6 +2255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harrowlight | 358869 | [358869-harrowlight.json](./358869-harrowlight.json) |
 | Harry | 247031 | [247031-harry.json](./247031-harry.json) |
 | Harry Buster | 218539 | [218539-harry-buster.json](./218539-harry-buster.json) |
+| Harry Fox: Yuki no Maou-hen | 67547 | [67547-harry-fox-yuki-no-maou-hen.json](./67547-harry-fox-yuki-no-maou-hen.json) |
 | Harry Is A Porter | 212112 | [212112-harry-is-a-porter.json](./212112-harry-is-a-porter.json) |
 | Harry McLinestrider | 330098 | [330098-harry-mclinestrider.json](./330098-harry-mclinestrider.json) |
 | Harry Obby | 284409 | [284409-harry-obby.json](./284409-harry-obby.json) |
