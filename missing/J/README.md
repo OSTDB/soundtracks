@@ -503,6 +503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jamal Jones: One Man Jury! | 263000 | [263000-jamal-jones-one-man-jury.json](./263000-jamal-jones-one-man-jury.json) |
 | Jamango! | 312618 | [312618-jamango.json](./312618-jamango.json) |
 | Jambo | 81980 | [81980-jambo.json](./81980-jambo.json) |
+| Jambo! Safari | 4938 | [4938-jambo-safari.json](./4938-jambo-safari.json) |
 | Jambo! Safari Animal Rescue | 51001 | [51001-jambo-safari-animal-rescue.json](./51001-jambo-safari-animal-rescue.json) |
 | Jambo's Adventure | 115240 | [115240-jambos-adventure.json](./115240-jambos-adventure.json) |
 | Jamboy: A Jelly-cious Hero | 260596 | [260596-jamboy-a-jelly-cious-hero.json](./260596-jamboy-a-jelly-cious-hero.json) |
@@ -866,6 +867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jaw Breaker | 41141 | [41141-jaw-breaker.json](./41141-jaw-breaker.json) |
 | Jaw Breakers & The Confection Connection | 133165 | [133165-jaw-breakers-and-the-confection-connection.json](./133165-jaw-breakers-and-the-confection-connection.json) |
 | Jaw Evolution | 307559 | [307559-jaw-evolution.json](./307559-jaw-evolution.json) |
+| Jawa: Mammoth to Himitsu no Ishi | 4939 | [4939-jawa-mammoth-to-himitsu-no-ishi.json](./4939-jawa-mammoth-to-himitsu-no-ishi.json) |
 | Jawaker | 315697 | [315697-jawaker.json](./315697-jawaker.json) |
 | Jawbone Hollow | 343734 | [343734-jawbone-hollow.json](./343734-jawbone-hollow.json) |
 | Jawbreak | 271803 | [271803-jawbreak.json](./271803-jawbreak.json) |
@@ -3138,6 +3140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Judge Dredd | 36686 | [36686-judge-dredd.json](./36686-judge-dredd.json) |
 | Judge Dredd | 36742 | [36742-judge-dredd.json](./36742-judge-dredd.json) |
 | Judge Dredd | 4387 | [4387-judge-dredd.json](./4387-judge-dredd.json) |
+| Judge Dredd | 5925 | [5925-judge-dredd.json](./5925-judge-dredd.json) |
 | Judge Dredd Pinball | 74099 | [74099-judge-dredd-pinball.json](./74099-judge-dredd-pinball.json) |
 | Judge Dredd vs. Zombies | 63637 | [63637-judge-dredd-vs-zombies.json](./63637-judge-dredd-vs-zombies.json) |
 | Judge Dredd: Countdown Sector 106 | 64766 | [64766-judge-dredd-countdown-sector-106.json](./64766-judge-dredd-countdown-sector-106.json) |
