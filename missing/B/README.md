@@ -996,7 +996,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3464,6 +3463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Batman Forever: The Arcade Game | 23033 | [23033-batman-forever-the-arcade-game.json](./23033-batman-forever-the-arcade-game.json) |
 | Batman Forever: The Arcade Game | 45202 | [45202-batman-forever-the-arcade-game.json](./45202-batman-forever-the-arcade-game.json) |
 | Batman Returns | 121241 | [121241-batman-returns.json](./121241-batman-returns.json) |
+| Batman Returns | 121242 | [121242-batman-returns.json](./121242-batman-returns.json) |
 | Batman Returns | 121243 | [121243-batman-returns.json](./121243-batman-returns.json) |
 | Batman Returns | 121244 | [121244-batman-returns.json](./121244-batman-returns.json) |
 | Batman Returns | 121245 | [121245-batman-returns.json](./121245-batman-returns.json) |
@@ -10642,6 +10642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blinky's Revenge | 338832 | [338832-blinkys-revenge.json](./338832-blinkys-revenge.json) |
 | Blinky's Scary School | 12498 | [12498-blinkys-scary-school.json](./12498-blinkys-scary-school.json) |
 | Blinx 2: Masters of Time and Space | 5752 | [5752-blinx-2-masters-of-time-and-space.json](./5752-blinx-2-masters-of-time-and-space.json) |
+| Blinx: The Time Sweeper | 5751 | [5751-blinx-the-time-sweeper.json](./5751-blinx-the-time-sweeper.json) |
 | Blip | 92920 | [92920-blip.json](./92920-blip.json) |
 | Blip & Blop: Balls of Steel | 50127 | [50127-blip-and-blop-balls-of-steel.json](./50127-blip-and-blop-balls-of-steel.json) |
 | Blip 1977: The Digital Game | 175528 | [175528-blip-1977-the-digital-game.json](./175528-blip-1977-the-digital-game.json) |
@@ -17593,6 +17594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug Eyes | 15690 | [15690-bug-eyes.json](./15690-bug-eyes.json) |
 | Bug Fables: Aphid Festival | 145560 | [145560-bug-fables-aphid-festival.json](./145560-bug-fables-aphid-festival.json) |
 | Bug Fables: April Fools! | 191389 | [191389-bug-fables-april-fools.json](./191389-bug-fables-april-fools.json) |
+| Bug Fables: The Everlasting Sapling | 119190 | [119190-bug-fables-the-everlasting-sapling.json](./119190-bug-fables-the-everlasting-sapling.json) |
 | Bug Fables: Vi Simulator | 327674 | [327674-bug-fables-vi-simulator.json](./327674-bug-fables-vi-simulator.json) |
 | Bug Heroes | 92316 | [92316-bug-heroes.json](./92316-bug-heroes.json) |
 | Bug Heroes 2 | 61230 | [61230-bug-heroes-2.json](./61230-bug-heroes-2.json) |
