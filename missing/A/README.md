@@ -266,6 +266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Day | 145366 | [145366-a-day.json](./145366-a-day.json) |
 | A Day and a Night | 26164 | [26164-a-day-and-a-night.json](./26164-a-day-and-a-night.json) |
 | A Day as a T-Rex | 209185 | [209185-a-day-as-a-t-rex.json](./209185-a-day-as-a-t-rex.json) |
+| A Day at Grandma's House | 65095 | [65095-a-day-at-grandmas-house.json](./65095-a-day-at-grandmas-house.json) |
 | A Day at the Beach | 266051 | [266051-a-day-at-the-beach.json](./266051-a-day-at-the-beach.json) |
 | A Day at the Carnival | 55853 | [55853-a-day-at-the-carnival.json](./55853-a-day-at-the-carnival.json) |
 | A Day at the Library | 102050 | [102050-a-day-at-the-library.json](./102050-a-day-at-the-library.json) |
@@ -1746,6 +1747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.V.A: Global - Busters Content | 302806 | [302806-a-v-a-global-busters-content.json](./302806-a-v-a-global-busters-content.json) |
 | A.V.A: Global - Busters Content: Lilly Edition | 302807 | [302807-a-v-a-global-busters-content-lilly-edition.json](./302807-a-v-a-global-busters-content-lilly-edition.json) |
 | A.V.A: Guns on Fire | 55245 | [55245-a-v-a-guns-on-fire.json](./55245-a-v-a-guns-on-fire.json) |
+| A.V.G.M. | 64609 | [64609-a-v-g-m.json](./64609-a-v-g-m.json) |
 | A.V.I | 149840 | [149840-a-v-i.json](./149840-a-v-i.json) |
 | A.void | 128428 | [128428-a-void.json](./128428-a-void.json) |
 | A.W. Phoenix Festa | 22044 | [22044-a-w-phoenix-festa.json](./22044-a-w-phoenix-festa.json) |
@@ -2528,6 +2530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Academy: Become a Hero | 348176 | [348176-academy-become-a-hero.json](./348176-academy-become-a-hero.json) |
 | Academy: Checkers | 84734 | [84734-academy-checkers.json](./84734-academy-checkers.json) |
 | Academy: Chess Puzzles | 84733 | [84733-academy-chess-puzzles.json](./84733-academy-chess-puzzles.json) |
+| Academy: Tic-Tac-Toe | 65075 | [65075-academy-tic-tac-toe.json](./65075-academy-tic-tac-toe.json) |
 | Acai cOrner | 297558 | [297558-acai-corner.json](./297558-acai-corner.json) |
 | Acalesia | 145361 | [145361-acalesia.json](./145361-acalesia.json) |
 | Acalius: Enemies of the Wild | 58069 | [58069-acalius-enemies-of-the-wild.json](./58069-acalius-enemies-of-the-wild.json) |
@@ -5237,6 +5240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ahro | 190479 | [190479-ahro.json](./190479-ahro.json) |
 | Ahros: One Warrior Chronicle | 31563 | [31563-ahros-one-warrior-chronicle.json](./31563-ahros-one-warrior-chronicle.json) |
 | AHTS Ship Simulator | 44207 | [44207-ahts-ship-simulator.json](./44207-ahts-ship-simulator.json) |
+| AHx-1 | 64918 | [64918-ahx-1.json](./64918-ahx-1.json) |
 | Ai & the Demon & the Curse of Lust | 372758 | [372758-ai-and-the-demon-and-the-curse-of-lust.json](./372758-ai-and-the-demon-and-the-curse-of-lust.json) |
 | Ai Ai Kissaten | 364221 | [364221-ai-ai-kissaten.json](./364221-ai-ai-kissaten.json) |
 | AI Alpha Cat | 129524 | [129524-ai-alpha-cat.json](./129524-ai-alpha-cat.json) |
@@ -6365,6 +6369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alan's Attitude | 126156 | [126156-alans-attitude.json](./126156-alans-attitude.json) |
 | Alan's Automaton Workshop | 160262 | [160262-alans-automaton-workshop.json](./160262-alans-automaton-workshop.json) |
 | Alanna: The Princess of Puzzles | 179269 | [179269-alanna-the-princess-of-puzzles.json](./179269-alanna-the-princess-of-puzzles.json) |
+| Alantia: Legend of Blue Star | 65081 | [65081-alantia-legend-of-blue-star.json](./65081-alantia-legend-of-blue-star.json) |
 | Alara Prime | 207827 | [207827-alara-prime.json](./207827-alara-prime.json) |
 | Alarameth TD | 35071 | [35071-alarameth-td.json](./35071-alarameth-td.json) |
 | Alarial's Blessing | 387079 | [387079-alarials-blessing.json](./387079-alarials-blessing.json) |
@@ -14518,6 +14523,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armor Clash VR | 31827 | [31827-armor-clash-vr.json](./31827-armor-clash-vr.json) |
 | Armor Command | 73843 | [73843-armor-command.json](./73843-armor-command.json) |
 | Armor Contest | 96667 | [96667-armor-contest.json](./96667-armor-contest.json) |
+| Armor Critical | 65052 | [65052-armor-critical.json](./65052-armor-critical.json) |
 | Armor Havok | 362236 | [362236-armor-havok.json](./362236-armor-havok.json) |
 | Armor Heroes | 196793 | [196793-armor-heroes.json](./196793-armor-heroes.json) |
 | Armor Mayhem | 264330 | [264330-armor-mayhem.json](./264330-armor-mayhem.json) |
@@ -15128,6 +15134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Artillery | 93527 | [93527-artillery.json](./93527-artillery.json) |
 | ARtillery | 380794 | [380794-artillery.json](./380794-artillery.json) |
 | Artillery Blast | 279985 | [279985-artillery-blast.json](./279985-artillery-blast.json) |
+| Artillery Brigade | 64997 | [64997-artillery-brigade.json](./64997-artillery-brigade.json) |
 | Artillery Cats | 102926 | [102926-artillery-cats.json](./102926-artillery-cats.json) |
 | Artillery Duel | 12241 | [12241-artillery-duel.json](./12241-artillery-duel.json) |
 | Artillery Globe | 112696 | [112696-artillery-globe.json](./112696-artillery-globe.json) |
@@ -17232,6 +17239,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
