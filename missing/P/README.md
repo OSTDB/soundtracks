@@ -14459,6 +14459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PrehistorTic | 185504 | [185504-prehistortic.json](./185504-prehistortic.json) |
 | Prelogate | 36151 | [36151-prelogate.json](./36151-prelogate.json) |
 | Prelude Dark Pain | 301494 | [301494-prelude-dark-pain.json](./301494-prelude-dark-pain.json) |
+| Prelude for a Dream | 44255 | [44255-prelude-for-a-dream.json](./44255-prelude-for-a-dream.json) |
 | Prelude Gardens | 395576 | [395576-prelude-gardens.json](./395576-prelude-gardens.json) |
 | Prelude to Freedom | 310122 | [310122-prelude-to-freedom.json](./310122-prelude-to-freedom.json) |
 | Prelude: Psychological Horror Game | 84135 | [84135-prelude-psychological-horror-game.json](./84135-prelude-psychological-horror-game.json) |
@@ -15783,6 +15784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Yakyuu Spirits 2 | 92240 | [92240-pro-yakyuu-spirits-2.json](./92240-pro-yakyuu-spirits-2.json) |
 | Pro Yakyuu Spirits 2004 | 92238 | [92238-pro-yakyuu-spirits-2004.json](./92238-pro-yakyuu-spirits-2004.json) |
 | Pro Yakyuu Spirits 2004 Climax | 92235 | [92235-pro-yakyuu-spirits-2004-climax.json](./92235-pro-yakyuu-spirits-2004-climax.json) |
+| Pro Yakyuu Spirits 2010 | 44705 | [44705-pro-yakyuu-spirits-2010.json](./44705-pro-yakyuu-spirits-2010.json) |
 | Pro Yakyuu Spirits 2011 | 92232 | [92232-pro-yakyuu-spirits-2011.json](./92232-pro-yakyuu-spirits-2011.json) |
 | Pro Yakyuu Spirits 2012 | 44575 | [44575-pro-yakyuu-spirits-2012.json](./44575-pro-yakyuu-spirits-2012.json) |
 | Pro Yakyuu Spirits 2013 | 63903 | [63903-pro-yakyuu-spirits-2013.json](./63903-pro-yakyuu-spirits-2013.json) |
@@ -18924,6 +18926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Cafe VR | 159780 | [159780-puzzle-cafe-vr.json](./159780-puzzle-cafe-vr.json) |
 | Puzzle Castle | 209373 | [209373-puzzle-castle.json](./209373-puzzle-castle.json) |
 | Puzzle Cats | 240351 | [240351-puzzle-cats.json](./240351-puzzle-cats.json) |
+| Puzzle Challenge: Crosswords & More! | 44699 | [44699-puzzle-challenge-crosswords-and-more.json](./44699-puzzle-challenge-crosswords-and-more.json) |
 | Puzzle Challenge: Crosswords and More | 5112 | [5112-puzzle-challenge-crosswords-and-more.json](./5112-puzzle-challenge-crosswords-and-more.json) |
 | Puzzle Challengers | 161702 | [161702-puzzle-challengers.json](./161702-puzzle-challengers.json) |
 | Puzzle Chambers | 75620 | [75620-puzzle-chambers.json](./75620-puzzle-chambers.json) |
