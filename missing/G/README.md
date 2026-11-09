@@ -219,6 +219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.I. Joe: A Real American Hero | 218433 | [218433-g-i-joe-a-real-american-hero.json](./218433-g-i-joe-a-real-american-hero.json) |
 | G.I. Joe: A Real American Hero | 8165 | [8165-g-i-joe-a-real-american-hero.json](./8165-g-i-joe-a-real-american-hero.json) |
 | G.I. Joe: Battleground | 323132 | [323132-g-i-joe-battleground.json](./323132-g-i-joe-battleground.json) |
+| G.I. Joe: Cobra Strike | 22697 | [22697-g-i-joe-cobra-strike.json](./22697-g-i-joe-cobra-strike.json) |
 | G.I. Joe: Hawk | 218426 | [218426-g-i-joe-hawk.json](./218426-g-i-joe-hawk.json) |
 | G.I. Joe: Operation Blackout | 138697 | [138697-g-i-joe-operation-blackout.json](./138697-g-i-joe-operation-blackout.json) |
 | G.I. Joe: Operation Blackout - Digital Deluxe | 173160 | [173160-g-i-joe-operation-blackout-digital-deluxe.json](./173160-g-i-joe-operation-blackout-digital-deluxe.json) |
