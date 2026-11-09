@@ -2949,6 +2949,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ACL Pro Cornhole | 211391 | [211391-acl-pro-cornhole.json](./211391-acl-pro-cornhole.json) |
 | Aclla: Taiyou no Miko to Sora no Shinpei | 138430 | [138430-aclla-taiyou-no-miko-to-sora-no-shinpei.json](./138430-aclla-taiyou-no-miko-to-sora-no-shinpei.json) |
 | ACM 1918 | 129795 | [129795-acm-1918.json](./129795-acm-1918.json) |
+| ACME Animation Factory | 3044 | [3044-acme-animation-factory.json](./3044-acme-animation-factory.json) |
 | Acme Bricks | 97351 | [97351-acme-bricks.json](./97351-acme-bricks.json) |
 | Acme, Inc. | 290330 | [290330-acme-inc.json](./290330-acme-inc.json) |
 | Acne Attack | 72158 | [72158-acne-attack.json](./72158-acne-attack.json) |
