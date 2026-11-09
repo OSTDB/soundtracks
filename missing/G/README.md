@@ -3484,6 +3484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Germany 1985 | 23159 | [23159-germany-1985.json](./23159-germany-1985.json) |
 | Germany at War: Soviet Dawn | 171491 | [171491-germany-at-war-soviet-dawn.json](./171491-germany-at-war-soviet-dawn.json) |
 | Germany's Next Top Model | 82065 | [82065-germanys-next-top-model.json](./82065-germanys-next-top-model.json) |
+| Germany's Next Top Model 2010 | 65539 | [65539-germanys-next-top-model-2010.json](./65539-germanys-next-top-model-2010.json) |
 | Germany's Next Top Model 2011 | 65560 | [65560-germanys-next-top-model-2011.json](./65560-germanys-next-top-model-2011.json) |
 | Germany's Next Top Model: Das Offizielle Spiel zur Staffel 2009 | 86128 | [86128-germanys-next-top-model-das-offizielle-spiel-zur-staffel-2009.json](./86128-germanys-next-top-model-das-offizielle-spiel-zur-staffel-2009.json) |
 | GermCraft Deluxe | 208013 | [208013-germcraft-deluxe.json](./208013-germcraft-deluxe.json) |
