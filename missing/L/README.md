@@ -6014,6 +6014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Big Snake | 108928 | [108928-little-big-snake.json](./108928-little-big-snake.json) |
 | Little Big Workshop | 124131 | [124131-little-big-workshop.json](./124131-little-big-workshop.json) |
 | Little Big Workshop: The Evil | 155170 | [155170-little-big-workshop-the-evil.json](./155170-little-big-workshop-the-evil.json) |
+| Little Bigfoot | 57797 | [57797-little-bigfoot.json](./57797-little-bigfoot.json) |
 | Little Bill Thinks Big | 71805 | [71805-little-bill-thinks-big.json](./71805-little-bill-thinks-big.json) |
 | Little Bit Lost | 124554 | [124554-little-bit-lost.json](./124554-little-bit-lost.json) |
 | Little Bit War | 147259 | [147259-little-bit-war.json](./147259-little-bit-war.json) |
