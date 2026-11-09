@@ -13951,6 +13951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Confiscator | 292235 | [292235-confiscator.json](./292235-confiscator.json) |
 | Conflagrant Rodent | 271815 | [271815-conflagrant-rodent.json](./271815-conflagrant-rodent.json) |
 | Conflicks - Revolutionary Space Battles | 17195 | [17195-conflicks-revolutionary-space-battles.json](./17195-conflicks-revolutionary-space-battles.json) |
+| Conflict | 48143 | [48143-conflict.json](./48143-conflict.json) |
 | Conflict / Resolution | 201123 | [201123-conflict-resolution.json](./201123-conflict-resolution.json) |
 | Conflict 2: Blitz | 311241 | [311241-conflict-2-blitz.json](./311241-conflict-2-blitz.json) |
 | Conflict 2500 | 24805 | [24805-conflict-2500.json](./24805-conflict-2500.json) |
@@ -19485,6 +19486,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal Maidens: Unleashed | 375950 | [375950-crystal-maidens-unleashed.json](./375950-crystal-maidens-unleashed.json) |
 | Crystal Math | 257428 | [257428-crystal-math.json](./257428-crystal-math.json) |
 | Crystal Maze | 85792 | [85792-crystal-maze.json](./85792-crystal-maze.json) |
+| Crystal Mines | 48141 | [48141-crystal-mines.json](./48141-crystal-mines.json) |
 | Crystal Mines II: Buried Treasure Expansion Pack | 137507 | [137507-crystal-mines-ii-buried-treasure-expansion-pack.json](./137507-crystal-mines-ii-buried-treasure-expansion-pack.json) |
 | Crystal Monsters | 79538 | [79538-crystal-monsters.json](./79538-crystal-monsters.json) |
 | Crystal of Atlantis | 247981 | [247981-crystal-of-atlantis.json](./247981-crystal-of-atlantis.json) |
