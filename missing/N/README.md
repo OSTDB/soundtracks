@@ -2132,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekogumi | 352309 | [352309-nekogumi.json](./352309-nekogumi.json) |
 | Nekojara Monogatari | 213302 | [213302-nekojara-monogatari.json](./213302-nekojara-monogatari.json) |
 | Nekojiru-pm: The Balkan Dream | 408600 | [408600-nekojiru-pm-the-balkan-dream.json](./408600-nekojiru-pm-the-balkan-dream.json) |
+| Nekojishi | 76075 | [76075-nekojishi.json](./76075-nekojishi.json) |
 | Nekokami: The Human Restoration Project | 289424 | [289424-nekokami-the-human-restoration-project.json](./289424-nekokami-the-human-restoration-project.json) |
 | Nekokoro | 105289 | [105289-nekokoro.json](./105289-nekokoro.json) |
 | Nekoman | 97829 | [97829-nekoman.json](./97829-nekoman.json) |
@@ -6567,6 +6568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nokosu | 148293 | [148293-nokosu.json](./148293-nokosu.json) |
 | Nokta | 188171 | [188171-nokta.json](./188171-nokta.json) |
 | Nol | 404808 | [404808-nol.json](./404808-nol.json) |
+| NOLA is Burning | 76112 | [76112-nola-is-burning.json](./76112-nola-is-burning.json) |
 | Nola1 | 299853 | [299853-nola1.json](./299853-nola1.json) |
 | Nolan Ryan's Baseball | 42477 | [42477-nolan-ryans-baseball.json](./42477-nolan-ryans-baseball.json) |
 | Nolean: The Space Bartender | 334891 | [334891-nolean-the-space-bartender.json](./334891-nolean-the-space-bartender.json) |
@@ -6957,6 +6959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Northern Tale | 34062 | [34062-northern-tale.json](./34062-northern-tale.json) |
 | Northern Tale 2 | 76647 | [76647-northern-tale-2.json](./76647-northern-tale-2.json) |
 | Northern Tale 3 | 105980 | [105980-northern-tale-3.json](./105980-northern-tale-3.json) |
+| Northern Tale 4 | 76067 | [76067-northern-tale-4.json](./76067-northern-tale-4.json) |
 | Northern Tale 5: Revival | 132019 | [132019-northern-tale-5-revival.json](./132019-northern-tale-5-revival.json) |
 | Northern Tales | 114405 | [114405-northern-tales.json](./114405-northern-tales.json) |
 | Northern Tales 6: Oath to the Gods - Collector's Edition | 296480 | [296480-northern-tales-6-oath-to-the-gods-collectors-edition.json](./296480-northern-tales-6-oath-to-the-gods-collectors-edition.json) |
