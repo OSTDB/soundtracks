@@ -41,6 +41,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-Return | 92112 | [92112-d-return.json](./92112-d-return.json) |
 | D-Star's | 130793 | [130793-d-stars.json](./130793-d-stars.json) |
 | D-topia | 369840 | [369840-d-topia.json](./369840-d-topia.json) |
+| D-Unit Drift Racing | 44678 | [44678-d-unit-drift-racing.json](./44678-d-unit-drift-racing.json) |
 | D-Virus: Devilnitive Edition | 259847 | [259847-d-virus-devilnitive-edition.json](./259847-d-virus-devilnitive-edition.json) |
 | D-Virus: Evil Menance | 259846 | [259846-d-virus-evil-menance.json](./259846-d-virus-evil-menance.json) |
 | D-War | 252133 | [252133-d-war.json](./252133-d-war.json) |
@@ -2293,6 +2294,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkness | 145589 | [145589-darkness.json](./145589-darkness.json) |
 | Darkness | 393845 | [393845-darkness.json](./393845-darkness.json) |
 | Darkness Ahead | 30821 | [30821-darkness-ahead.json](./30821-darkness-ahead.json) |
+| Darkness and a Crowd | 44250 | [44250-darkness-and-a-crowd.json](./44250-darkness-and-a-crowd.json) |
 | Darkness and Fear: Eerie Shadows | 271658 | [271658-darkness-and-fear-eerie-shadows.json](./271658-darkness-and-fear-eerie-shadows.json) |
 | Darkness and Flame: Born of Fire | 31292 | [31292-darkness-and-flame-born-of-fire.json](./31292-darkness-and-flame-born-of-fire.json) |
 | Darkness and Flame: Enemy in Reflection | 127207 | [127207-darkness-and-flame-enemy-in-reflection.json](./127207-darkness-and-flame-enemy-in-reflection.json) |
@@ -4103,6 +4105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Space | 131931 | [131931-dead-space.json](./131931-dead-space.json) |
 | Dead Space | 420186 | [420186-dead-space.json](./420186-dead-space.json) |
 | Dead Space 2 | 264868 | [264868-dead-space-2.json](./264868-dead-space-2.json) |
+| Dead Space 2: Collector's Edition | 44668 | [44668-dead-space-2-collectors-edition.json](./44668-dead-space-2-collectors-edition.json) |
 | Dead Space 2: Limited Edition | 44613 | [44613-dead-space-2-limited-edition.json](./44613-dead-space-2-limited-edition.json) |
 | Dead Space 2: Severed | 20440 | [20440-dead-space-2-severed.json](./20440-dead-space-2-severed.json) |
 | Dead Space 3: Awakened | 10173 | [10173-dead-space-3-awakened.json](./10173-dead-space-3-awakened.json) |
@@ -8442,6 +8445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devil May Cry 5: Monkey Business | 370875 | [370875-devil-may-cry-5-monkey-business.json](./370875-devil-may-cry-5-monkey-business.json) |
 | Devil May Cry 5: Playable Character - Vergil | 169336 | [169336-devil-may-cry-5-playable-character-vergil.json](./169336-devil-may-cry-5-playable-character-vergil.json) |
 | Devil May Cry 5: Ultra Limited Edition | 111299 | [111299-devil-may-cry-5-ultra-limited-edition.json](./111299-devil-may-cry-5-ultra-limited-edition.json) |
+| Devil May Cry 5th Anniversary Collection | 44672 | [44672-devil-may-cry-5th-anniversary-collection.json](./44672-devil-may-cry-5th-anniversary-collection.json) |
 | Devil May Cry Dead Shot | 403068 | [403068-devil-may-cry-dead-shot.json](./403068-devil-may-cry-dead-shot.json) |
 | Devil May Cry Franchise Pack | 407078 | [407078-devil-may-cry-franchise-pack.json](./407078-devil-may-cry-franchise-pack.json) |
 | Devil May Cry HD Collection | 20734 | [20734-devil-may-cry-hd-collection.json](./20734-devil-may-cry-hd-collection.json) |
@@ -17455,6 +17459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving Alone at Night | 181797 | [181797-driving-alone-at-night.json](./181797-driving-alone-at-night.json) |
 | Driving Around | 339572 | [339572-driving-around.json](./339572-driving-around.json) |
 | Driving Demon | 44370 | [44370-driving-demon.json](./44370-driving-demon.json) |
+| Driving Emotion Type-S | 44693 | [44693-driving-emotion-type-s.json](./44693-driving-emotion-type-s.json) |
 | Driving Essentials | 37071 | [37071-driving-essentials.json](./37071-driving-essentials.json) |
 | Driving Force | 340214 | [340214-driving-force.json](./340214-driving-force.json) |
 | Driving Home | 230245 | [230245-driving-home.json](./230245-driving-home.json) |
@@ -17993,6 +17998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DS Yamamura Misa Suspense: Maiko Kogiku / Kisha Katherine / Sougiya Ishihara Akiko / Koto ni Mauhana Sanrin - Kyoto Satujin Jiken File | 269575 | [269575-ds-yamamura-misa-suspense-maiko-kogiku-kisha-katherine-sougiya-ishihara-akiko-koto-ni-mauhana-sanrin-kyoto-satujin-jiken-file.json](./269575-ds-yamamura-misa-suspense-maiko-kogiku-kisha-katherine-sougiya-ishihara-akiko-koto-ni-mauhana-sanrin-kyoto-satujin-jiken-file.json) |
 | DS Yukemuri Suspense Series: Free Writer Tachibana Maki - "Touyako, Nanatsu no Yu, Okuyu no Sato" Shuzai Techou | 124517 | [124517-ds-yukemuri-suspense-series-free-writer-tachibana-maki-touyako-nanatsu-no-yu-okuyu-no-sato-shuzai-techou.json](./124517-ds-yukemuri-suspense-series-free-writer-tachibana-maki-touyako-nanatsu-no-yu-okuyu-no-sato-shuzai-techou.json) |
 | DsDooM3 | 314899 | [314899-dsdoom3.json](./314899-dsdoom3.json) |
+| DSquad War | 44254 | [44254-dsquad-war.json](./44254-dsquad-war.json) |
 | DSS | 33783 | [33783-dss.json](./33783-dss.json) |
 | DSS war party | 286071 | [286071-dss-war-party.json](./286071-dss-war-party.json) |
 | Dstnce. | 157435 | [157435-dstnce.json](./157435-dstnce.json) |
