@@ -40,6 +40,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | L.A.W. | 91855 | [91855-l-a-w.json](./91855-l-a-w.json) |
 | L.C.D. Bowling | 346111 | [346111-l-c-d-bowling.json](./346111-l-c-d-bowling.json) |
 | L.C.O.S. | 181431 | [181431-l-c-o-s.json](./181431-l-c-o-s.json) |
+| L.E.D. Storm | 39704 | [39704-l-e-d-storm.json](./39704-l-e-d-storm.json) |
 | L.E.M. | 269166 | [269166-l-e-m.json](./269166-l-e-m.json) |
 | L.F.O. -Lost Future Omega- | 30207 | [30207-l-f-o-lost-future-omega.json](./30207-l-f-o-lost-future-omega.json) |
 | L.G.S.: Shinsetsu Houshin Engi | 64164 | [64164-l-g-s-shinsetsu-houshin-engi.json](./64164-l-g-s-shinsetsu-houshin-engi.json) |
@@ -1105,6 +1106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laser Cannon 3 | 207814 | [207814-laser-cannon-3.json](./207814-laser-cannon-3.json) |
 | Laser Cat Craft | 244803 | [244803-laser-cat-craft.json](./244803-laser-cat-craft.json) |
 | Laser Circle | 312180 | [312180-laser-circle.json](./312180-laser-circle.json) |
+| Laser Clay Shooting System | 39712 | [39712-laser-clay-shooting-system.json](./39712-laser-clay-shooting-system.json) |
 | Laser Dance | 306925 | [306925-laser-dance.json](./306925-laser-dance.json) |
 | Laser Defense Extreme | 291333 | [291333-laser-defense-extreme.json](./291333-laser-defense-extreme.json) |
 | Laser Disco Defenders | 22362 | [22362-laser-disco-defenders.json](./22362-laser-disco-defenders.json) |
@@ -6815,6 +6817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lizard Survival Duo | 369728 | [369728-lizard-survival-duo.json](./369728-lizard-survival-duo.json) |
 | Lizard Survivors: Battle for Hyperborea | 272234 | [272234-lizard-survivors-battle-for-hyperborea.json](./272234-lizard-survivors-battle-for-hyperborea.json) |
 | Lizard Tower: The Abyss | 283751 | [283751-lizard-tower-the-abyss.json](./283751-lizard-tower-the-abyss.json) |
+| Lizard Wizard | 39706 | [39706-lizard-wizard.json](./39706-lizard-wizard.json) |
 | Lizardmen | 72178 | [72178-lizardmen.json](./72178-lizardmen.json) |
 | Lizardquest-Alien waters | 115035 | [115035-lizardquest-alien-waters.json](./115035-lizardquest-alien-waters.json) |
 | Lizards Must Die | 264773 | [264773-lizards-must-die.json](./264773-lizards-must-die.json) |
