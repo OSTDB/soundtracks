@@ -2503,6 +2503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Immerse Creator | 34163 | [34163-immerse-creator.json](./34163-immerse-creator.json) |
 | Immerse Land | 146753 | [146753-immerse-land.json](./146753-immerse-land.json) |
 | Immersion | 191247 | [191247-immersion.json](./191247-immersion.json) |
+| Immersion | 30322 | [30322-immersion.json](./30322-immersion.json) |
 | Immersion Chess | 28875 | [28875-immersion-chess.json](./28875-immersion-chess.json) |
 | Immersion Pack: Europa Universalis IV - Origins | 246898 | [246898-immersion-pack-europa-universalis-iv-origins.json](./246898-immersion-pack-europa-universalis-iv-origins.json) |
 | Immersit | 229722 | [229722-immersit.json](./229722-immersit.json) |
