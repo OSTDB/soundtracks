@@ -1413,6 +1413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout Zone: Survival | 104514 | [104514-fallout-zone-survival.json](./104514-fallout-zone-survival.json) |
 | Fallout: A Tale of Two Wastelands | 143196 | [143196-fallout-a-tale-of-two-wastelands.json](./143196-fallout-a-tale-of-two-wastelands.json) |
 | Fallout: Bakersfield | 356437 | [356437-fallout-bakersfield.json](./356437-fallout-bakersfield.json) |
+| Fallout: Brotherhood of Steel | 7412 | [7412-fallout-brotherhood-of-steel.json](./7412-fallout-brotherhood-of-steel.json) |
 | Fallout: Brotherhood of Steel 2 | 12509 | [12509-fallout-brotherhood-of-steel-2.json](./12509-fallout-brotherhood-of-steel-2.json) |
 | Fallout: Dust | 243647 | [243647-fallout-dust.json](./243647-fallout-dust.json) |
 | Fallout: Empire Wastes | 322274 | [322274-fallout-empire-wastes.json](./322274-fallout-empire-wastes.json) |
@@ -3761,6 +3762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fears to Fathom: Ironbark Lookout | 256636 | [256636-fears-to-fathom-ironbark-lookout.json](./256636-fears-to-fathom-ironbark-lookout.json) |
 | Fears to Fathom: Norwood Hitchhike | 186437 | [186437-fears-to-fathom-norwood-hitchhike.json](./186437-fears-to-fathom-norwood-hitchhike.json) |
 | Fears to Fathom: Scratch Creek | 348971 | [348971-fears-to-fathom-scratch-creek.json](./348971-fears-to-fathom-scratch-creek.json) |
+| Fears to Fathom: Woodbury Getaway | 281785 | [281785-fears-to-fathom-woodbury-getaway.json](./281785-fears-to-fathom-woodbury-getaway.json) |
 | Fearsome Five | 177217 | [177217-fearsome-five.json](./177217-fearsome-five.json) |
 | Fearsome Shadows Bundle | 125135 | [125135-fearsome-shadows-bundle.json](./125135-fearsome-shadows-bundle.json) |
 | Fearstruck | 405854 | [405854-fearstruck.json](./405854-fearstruck.json) |
