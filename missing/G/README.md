@@ -1427,6 +1427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Pack CD: 37 VGA Games Volume 2 | 137574 | [137574-game-pack-cd-37-vga-games-volume-2.json](./137574-game-pack-cd-37-vga-games-volume-2.json) |
 | Game Party | 208265 | [208265-game-party.json](./208265-game-party.json) |
 | Game Party | 4880 | [4880-game-party.json](./4880-game-party.json) |
+| Game Party 2 | 70696 | [70696-game-party-2.json](./70696-game-party-2.json) |
 | Game Party 2 Tournament | 23823 | [23823-game-party-2-tournament.json](./23823-game-party-2-tournament.json) |
 | Game Party 3 | 76982 | [76982-game-party-3.json](./76982-game-party-3.json) |
 | Game Party: In Motion | 2659 | [2659-game-party-in-motion.json](./2659-game-party-in-motion.json) |
