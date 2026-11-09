@@ -10878,6 +10878,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Infinity | 202366 | [202366-silent-infinity.json](./202366-silent-infinity.json) |
 | Silent Iron | 94866 | [94866-silent-iron.json](./94866-silent-iron.json) |
 | Silent Island | 181595 | [181595-silent-island.json](./181595-silent-island.json) |
+| Silent Line: Armored Core | 44703 | [44703-silent-line-armored-core.json](./44703-silent-line-armored-core.json) |
 | Silent Love | 237794 | [237794-silent-love.json](./237794-silent-love.json) |
 | Silent Mainland | 415809 | [415809-silent-mainland.json](./415809-silent-mainland.json) |
 | Silent Mementos | 372191 | [372191-silent-mementos.json](./372191-silent-mementos.json) |
@@ -11549,6 +11550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simple Idel | 194370 | [194370-simple-idel.json](./194370-simple-idel.json) |
 | Simple Increment | 239458 | [239458-simple-increment.json](./239458-simple-increment.json) |
 | Simple Killer | 405972 | [405972-simple-killer.json](./405972-simple-killer.json) |
+| Simple Light Cycles | 44685 | [44685-simple-light-cycles.json](./44685-simple-light-cycles.json) |
 | Simple Loto Simulator | 157201 | [157201-simple-loto-simulator.json](./157201-simple-loto-simulator.json) |
 | Simple Machines | 164227 | [164227-simple-machines.json](./164227-simple-machines.json) |
 | Simple Marble Race | 331802 | [331802-simple-marble-race.json](./331802-simple-marble-race.json) |
@@ -11843,6 +11845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SingStar: ABBA | 3306 | [3306-singstar-abba.json](./3306-singstar-abba.json) |
 | SingStar: Afrikaanse Treffers | 15439 | [15439-singstar-afrikaanse-treffers.json](./15439-singstar-afrikaanse-treffers.json) |
 | Singstar: Anthems | 15096 | [15096-singstar-anthems.json](./15096-singstar-anthems.json) |
+| SingStar: Apres-Ski Party 2 | 44704 | [44704-singstar-apres-ski-party-2.json](./44704-singstar-apres-ski-party-2.json) |
 | SingStar: Back to the 80s | 15195 | [15195-singstar-back-to-the-80s.json](./15195-singstar-back-to-the-80s.json) |
 | SingStar: Cantautori Italiani | 15440 | [15440-singstar-cantautori-italiani.json](./15440-singstar-cantautori-italiani.json) |
 | SingStar: Celebration | 52828 | [52828-singstar-celebration.json](./52828-singstar-celebration.json) |
@@ -11862,6 +11865,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singstar: La Edad de Oro del Pop Español | 135680 | [135680-singstar-la-edad-de-oro-del-pop-espanol.json](./135680-singstar-la-edad-de-oro-del-pop-espanol.json) |
 | SingStar: Latino | 15194 | [15194-singstar-latino.json](./15194-singstar-latino.json) |
 | Singstar: Legends | 15099 | [15099-singstar-legends.json](./15099-singstar-legends.json) |
+| SingStar: Mallorca Party | 44700 | [44700-singstar-mallorca-party.json](./44700-singstar-mallorca-party.json) |
+| SingStar: Mecano | 44701 | [44701-singstar-mecano.json](./44701-singstar-mecano.json) |
 | SingStar: Miliki | 219494 | [219494-singstar-miliki.json](./219494-singstar-miliki.json) |
 | SingStar: Morangos com Açúcar | 397942 | [397942-singstar-morangos-com-acucar.json](./397942-singstar-morangos-com-acucar.json) |
 | Singstar: Norsk på Norsk | 84316 | [84316-singstar-norsk-pa-norsk.json](./84316-singstar-norsk-pa-norsk.json) |
@@ -16498,6 +16503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer League: Winner's Cup | 48531 | [48531-soccer-league-winners-cup.json](./48531-soccer-league-winners-cup.json) |
 | Soccer Legends | 36018 | [36018-soccer-legends.json](./36018-soccer-legends.json) |
 | Soccer Life II | 60681 | [60681-soccer-life-ii.json](./60681-soccer-life-ii.json) |
+| Soccer Life! | 44697 | [44697-soccer-life.json](./44697-soccer-life.json) |
 | Soccer Lines | 241334 | [241334-soccer-lines.json](./241334-soccer-lines.json) |
 | Soccer Love | 108786 | [108786-soccer-love.json](./108786-soccer-love.json) |
 | Soccer Manager | 134421 | [134421-soccer-manager.json](./134421-soccer-manager.json) |
@@ -21670,6 +21676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Force 2 | 80134 | [80134-spectral-force-2.json](./80134-spectral-force-2.json) |
 | Spectral Force 3 | 21339 | [21339-spectral-force-3.json](./21339-spectral-force-3.json) |
 | Spectral Force Genesis | 21090 | [21090-spectral-force-genesis.json](./21090-spectral-force-genesis.json) |
+| Spectral Gene | 44671 | [44671-spectral-gene.json](./44671-spectral-gene.json) |
 | Spectral Invaders | 45311 | [45311-spectral-invaders.json](./45311-spectral-invaders.json) |
 | Spectral Keep | 258557 | [258557-spectral-keep.json](./258557-spectral-keep.json) |
 | Spectral Panic | 137204 | [137204-spectral-panic.json](./137204-spectral-panic.json) |
