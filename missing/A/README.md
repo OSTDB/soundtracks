@@ -5744,6 +5744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Supply Infinite | 175583 | [175583-air-supply-infinite.json](./175583-air-supply-infinite.json) |
 | Air Supply: SOS (Save Our Sheep) | 175468 | [175468-air-supply-sos-save-our-sheep.json](./175468-air-supply-sos-save-our-sheep.json) |
 | Air Support | 14157 | [14157-air-support.json](./14157-air-support.json) |
+| Air Support | 24060 | [24060-air-support.json](./24060-air-support.json) |
 | Air Support! | 214311 | [214311-air-support.json](./214311-air-support.json) |
 | Air Supremacy | 12281 | [12281-air-supremacy.json](./12281-air-supremacy.json) |
 | Air Tactical | 55224 | [55224-air-tactical.json](./55224-air-tactical.json) |
@@ -7966,6 +7967,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alnam no Kiba: Juuzoku Juuni Shinto Densetsu | 108919 | [108919-alnam-no-kiba-juuzoku-juuni-shinto-densetsu.json](./108919-alnam-no-kiba-juuzoku-juuni-shinto-densetsu.json) |
 | Alnico Smithery | 247931 | [247931-alnico-smithery.json](./247931-alnico-smithery.json) |
 | Alnory | 60195 | [60195-alnory.json](./60195-alnory.json) |
+| Aloadae | 24056 | [24056-aloadae.json](./24056-aloadae.json) |
 | Aloe and Cal | 127536 | [127536-aloe-and-cal.json](./127536-aloe-and-cal.json) |
 | Aloft | 204375 | [204375-aloft.json](./204375-aloft.json) |
 | Aloha Paradise Hotel | 55311 | [55311-aloha-paradise-hotel.json](./55311-aloha-paradise-hotel.json) |
@@ -9765,6 +9767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Taxi | 91557 | [91557-ancient-taxi.json](./91557-ancient-taxi.json) |
 | Ancient TD | 363062 | [363062-ancient-td.json](./363062-ancient-td.json) |
 | Ancient Totems | 303163 | [303163-ancient-totems.json](./303163-ancient-totems.json) |
+| Ancient Trader | 22956 | [22956-ancient-trader.json](./22956-ancient-trader.json) |
 | Ancient Treasure | 76806 | [76806-ancient-treasure.json](./76806-ancient-treasure.json) |
 | Ancient Tribe | 84886 | [84886-ancient-tribe.json](./84886-ancient-tribe.json) |
 | Ancient TriPeaks | 202099 | [202099-ancient-tripeaks.json](./202099-ancient-tripeaks.json) |
@@ -14848,6 +14851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Army of Tentacles: Not A Cthulhu Dating Sim - Black Goat of the Woods Edition | 81822 | [81822-army-of-tentacles-not-a-cthulhu-dating-sim-black-goat-of-the-woods-edition.json](./81822-army-of-tentacles-not-a-cthulhu-dating-sim-black-goat-of-the-woods-edition.json) |
 | Army of Two | 996 | [996-army-of-two.json](./996-army-of-two.json) |
 | Army of Two: The 40th Day | 997 | [997-army-of-two-the-40th-day.json](./997-army-of-two-the-40th-day.json) |
+| Army of Two: The 40th Day - Chapters of Deceit | 22972 | [22972-army-of-two-the-40th-day-chapters-of-deceit.json](./22972-army-of-two-the-40th-day-chapters-of-deceit.json) |
 | Army Ops | 196902 | [196902-army-ops.json](./196902-army-ops.json) |
 | Army Racer | 52426 | [52426-army-racer.json](./52426-army-racer.json) |
 | Army Rage | 63889 | [63889-army-rage.json](./63889-army-rage.json) |
@@ -17405,6 +17409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
