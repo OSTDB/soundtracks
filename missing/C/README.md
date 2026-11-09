@@ -3580,6 +3580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CastingPlz | 289540 | [289540-castingplz.json](./289540-castingplz.json) |
 | Castle | 166672 | [166672-castle.json](./166672-castle.json) |
 | Castle | 331325 | [331325-castle.json](./331325-castle.json) |
+| Castle & Dragon | 58328 | [58328-castle-and-dragon.json](./58328-castle-and-dragon.json) |
 | Castle & Myosotis | 178662 | [178662-castle-and-myosotis.json](./178662-castle-and-myosotis.json) |
 | Castle 3D | 323665 | [323665-castle-3d.json](./323665-castle-3d.json) |
 | Castle Adventure | 46645 | [46645-castle-adventure.json](./46645-castle-adventure.json) |
@@ -15840,6 +15841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmos Club | 270747 | [270747-cosmos-club.json](./270747-cosmos-club.json) |
 | Cosmos Conquer | 188451 | [188451-cosmos-conquer.json](./188451-cosmos-conquer.json) |
 | Cosmos Cop | 48314 | [48314-cosmos-cop.json](./48314-cosmos-cop.json) |
+| Cosmos Crash | 57873 | [57873-cosmos-crash.json](./57873-cosmos-crash.json) |
 | Cosmos Crash VR | 31761 | [31761-cosmos-crash-vr.json](./31761-cosmos-crash-vr.json) |
 | Cosmos Defenders | 85553 | [85553-cosmos-defenders.json](./85553-cosmos-defenders.json) |
 | Cosmos Defense | 107529 | [107529-cosmos-defense.json](./107529-cosmos-defense.json) |
