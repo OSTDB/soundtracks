@@ -7152,6 +7152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chessformer | 163683 | [163683-chessformer.json](./163683-chessformer.json) |
 | ChessFourTwo | 213082 | [213082-chessfourtwo.json](./213082-chessfourtwo.json) |
 | ChessFriends.com | 131095 | [131095-chessfriends-com.json](./131095-chessfriends-com.json) |
+| Chessia | 68164 | [68164-chessia.json](./68164-chessia.json) |
 | Chessie Chicken | 195611 | [195611-chessie-chicken.json](./195611-chessie-chicken.json) |
 | Chessium: 3D Chess Battle | 271646 | [271646-chessium-3d-chess-battle.json](./271646-chessium-3d-chess-battle.json) |
 | Chesskoban | 181045 | [181045-chesskoban.json](./181045-chesskoban.json) |
