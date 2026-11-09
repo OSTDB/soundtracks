@@ -4850,6 +4850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Whitematter | 365895 | [365895-whitematter.json](./365895-whitematter.json) |
 | Whiteout | 180401 | [180401-whiteout.json](./180401-whiteout.json) |
 | Whiteout | 181385 | [181385-whiteout.json](./181385-whiteout.json) |
+| Whiteout | 47374 | [47374-whiteout.json](./47374-whiteout.json) |
 | Whiteout Frontier | 286949 | [286949-whiteout-frontier.json](./286949-whiteout-frontier.json) |
 | Whiteout Survival | 240884 | [240884-whiteout-survival.json](./240884-whiteout-survival.json) |
 | WhiteRoom | 181740 | [181740-whiteroom.json](./181740-whiteroom.json) |
@@ -8764,6 +8765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World to Conquer | 223624 | [223624-world-to-conquer.json](./223624-world-to-conquer.json) |
 | World Tour Fishing | 5805 | [5805-world-tour-fishing.json](./5805-world-tour-fishing.json) |
 | World Tour Golf | 37172 | [37172-world-tour-golf.json](./37172-world-tour-golf.json) |
+| World Tour Racing | 46923 | [46923-world-tour-racing.json](./46923-world-tour-racing.json) |
 | World Tour Soccer | 22291 | [22291-world-tour-soccer.json](./22291-world-tour-soccer.json) |
 | World Tour Soccer 06 | 24180 | [24180-world-tour-soccer-06.json](./24180-world-tour-soccer-06.json) |
 | World Tour Soccer 2002 | 23444 | [23444-world-tour-soccer-2002.json](./23444-world-tour-soccer-2002.json) |
