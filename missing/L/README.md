@@ -3755,6 +3755,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let Him Cook | 265138 | [265138-let-him-cook.json](./265138-let-him-cook.json) |
 | Let It Boom | 217260 | [217260-let-it-boom.json](./217260-let-it-boom.json) |
 | Let It Chill | 347976 | [347976-let-it-chill.json](./347976-let-it-chill.json) |
+| Let It Die | 18854 | [18854-let-it-die.json](./18854-let-it-die.json) |
 | Let It Die | 304376 | [304376-let-it-die.json](./304376-let-it-die.json) |
 | Let It Die: Inferno | 369994 | [369994-let-it-die-inferno.json](./369994-let-it-die-inferno.json) |
 | Let It Die: Uncle Prime Edition | 166240 | [166240-let-it-die-uncle-prime-edition.json](./166240-let-it-die-uncle-prime-edition.json) |
