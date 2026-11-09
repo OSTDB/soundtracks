@@ -19,6 +19,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | W.I.M.S. | 374736 | [374736-w-i-m-s.json](./374736-w-i-m-s.json) |
 | W.I.N. | 41539 | [41539-w-i-n.json](./41539-w-i-n.json) |
 | W.I.T.C.H. | 374260 | [374260-w-i-t-c-h.json](./374260-w-i-t-c-h.json) |
+| W.I.T.C.H. | 6682 | [6682-w-i-t-c-h.json](./6682-w-i-t-c-h.json) |
 | W.I.T.S: Initiation | 287685 | [287685-w-i-t-s-initiation.json](./287685-w-i-t-s-initiation.json) |
 | W.L.O. Sekai Renai Kikousen | 66536 | [66536-w-l-o-sekai-renai-kikousen.json](./66536-w-l-o-sekai-renai-kikousen.json) |
 | W.O.L.F | 256333 | [256333-w-o-l-f.json](./256333-w-o-l-f.json) |
@@ -110,6 +111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waddle Wars: Roguelike Defense | 266831 | [266831-waddle-wars-roguelike-defense.json](./266831-waddle-wars-roguelike-defense.json) |
 | Wade | 243832 | [243832-wade.json](./243832-wade.json) |
 | Wade | 385384 | [385384-wade.json](./385384-wade.json) |
+| Wade Hixton's Counter Punch | 6676 | [6676-wade-hixtons-counter-punch.json](./6676-wade-hixtons-counter-punch.json) |
 | WadoVice64 | 387157 | [387157-wadovice64.json](./387157-wadovice64.json) |
 | Waffle | 298532 | [298532-waffle.json](./298532-waffle.json) |
 | Waffle Blast | 245181 | [245181-waffle-blast.json](./245181-waffle-blast.json) |
@@ -9771,6 +9773,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE Racing Showdown | 227163 | [227163-wwe-racing-showdown.json](./227163-wwe-racing-showdown.json) |
 | WWE Raw 2 | 6249 | [6249-wwe-raw-2.json](./6249-wwe-raw-2.json) |
 | WWE Raw 2: Ruthless Aggression | 24123 | [24123-wwe-raw-2-ruthless-aggression.json](./24123-wwe-raw-2-ruthless-aggression.json) |
+| WWE Road to WrestleMania X8 | 6683 | [6683-wwe-road-to-wrestlemania-x8.json](./6683-wwe-road-to-wrestlemania-x8.json) |
 | WWE Slam | 57378 | [57378-wwe-slam.json](./57378-wwe-slam.json) |
 | WWE SmackDown vs. Raw 2008 | 328306 | [328306-wwe-smackdown-vs-raw-2008.json](./328306-wwe-smackdown-vs-raw-2008.json) |
 | WWE SmackDown vs. Raw 2008 | 5298 | [5298-wwe-smackdown-vs-raw-2008.json](./5298-wwe-smackdown-vs-raw-2008.json) |
@@ -9785,6 +9788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE Smackdown! vs. Raw | 80852 | [80852-wwe-smackdown-vs-raw.json](./80852-wwe-smackdown-vs-raw.json) |
 | WWE SmackDown! vs. Raw 2006 | 18323 | [18323-wwe-smackdown-vs-raw-2006.json](./18323-wwe-smackdown-vs-raw-2006.json) |
 | WWE SuperCard | 79072 | [79072-wwe-supercard.json](./79072-wwe-supercard.json) |
+| WWE Survivor Series | 6685 | [6685-wwe-survivor-series.json](./6685-wwe-survivor-series.json) |
 | WWE Tap Mania | 69501 | [69501-wwe-tap-mania.json](./69501-wwe-tap-mania.json) |
 | WWE Undefeated | 140927 | [140927-wwe-undefeated.json](./140927-wwe-undefeated.json) |
 | WWE Universe | 119174 | [119174-wwe-universe.json](./119174-wwe-universe.json) |
@@ -9810,6 +9814,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWF Raw | 324537 | [324537-wwf-raw.json](./324537-wwf-raw.json) |
 | WWF Raw | 324544 | [324544-wwf-raw.json](./324544-wwf-raw.json) |
 | WWF Raw: Wrestling's Rudest and Roughest! | 46249 | [46249-wwf-raw-wrestlings-rudest-and-roughest.json](./46249-wwf-raw-wrestlings-rudest-and-roughest.json) |
+| WWF Road to WrestleMania | 6686 | [6686-wwf-road-to-wrestlemania.json](./6686-wwf-road-to-wrestlemania.json) |
 | WWF Royal Rumble | 218342 | [218342-wwf-royal-rumble.json](./218342-wwf-royal-rumble.json) |
 | WWF Royal Rumble | 38408 | [38408-wwf-royal-rumble.json](./38408-wwf-royal-rumble.json) |
 | WWF SmackDown! | 6443 | [6443-wwf-smackdown.json](./6443-wwf-smackdown.json) |
