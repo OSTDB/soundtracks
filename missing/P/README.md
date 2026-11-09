@@ -3087,6 +3087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Path of Kung Fu | 266573 | [266573-path-of-kung-fu.json](./266573-path-of-kung-fu.json) |
 | Path of Legends | 368766 | [368766-path-of-legends.json](./368766-path-of-legends.json) |
 | Path of Light | 344839 | [344839-path-of-light.json](./344839-path-of-light.json) |
+| Path of Mage | 27950 | [27950-path-of-mage.json](./27950-path-of-mage.json) |
 | Path of Master | 369792 | [369792-path-of-master.json](./369792-path-of-master.json) |
 | Path of Memory | 156836 | [156836-path-of-memory.json](./156836-path-of-memory.json) |
 | Path of Mystery: A Brush with Death | 353783 | [353783-path-of-mystery-a-brush-with-death.json](./353783-path-of-mystery-a-brush-with-death.json) |
