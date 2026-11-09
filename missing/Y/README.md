@@ -2021,6 +2021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yumezame no Kasetsu | 316667 | [316667-yumezame-no-kasetsu.json](./316667-yumezame-no-kasetsu.json) |
 | Yumi's Adventure | 348211 | [348211-yumis-adventure.json](./348211-yumis-adventure.json) |
 | Yumiko in the Haunted Mansion | 220776 | [220776-yumiko-in-the-haunted-mansion.json](./220776-yumiko-in-the-haunted-mansion.json) |
+| Yumimi Mix | 66252 | [66252-yumimi-mix.json](./66252-yumimi-mix.json) |
 | Yumm | 343615 | [343615-yumm.json](./343615-yumm.json) |
 | Yumm Monsters | 256244 | [256244-yumm-monsters.json](./256244-yumm-monsters.json) |
 | Yummimons | 363015 | [363015-yummimons.json](./363015-yummimons.json) |
