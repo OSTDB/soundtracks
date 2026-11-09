@@ -2961,6 +2961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carmageddon II: Carpocalypse Now | 246745 | [246745-carmageddon-ii-carpocalypse-now.json](./246745-carmageddon-ii-carpocalypse-now.json) |
 | Carmageddon II: Carpocalypse Now | 951 | [951-carmageddon-ii-carpocalypse-now.json](./951-carmageddon-ii-carpocalypse-now.json) |
 | Carmageddon Max Pack | 93899 | [93899-carmageddon-max-pack.json](./93899-carmageddon-max-pack.json) |
+| Carmageddon TDR 2000 | 1884 | [1884-carmageddon-tdr-2000.json](./1884-carmageddon-tdr-2000.json) |
 | Carmageddon TDR 2000: Rage-o-Rama! Special Edition | 350729 | [350729-carmageddon-tdr-2000-rage-o-rama-special-edition.json](./350729-carmageddon-tdr-2000-rage-o-rama-special-edition.json) |
 | Carmageddon TV | 246897 | [246897-carmageddon-tv.json](./246897-carmageddon-tv.json) |
 | Carmageddon: Crashers | 36505 | [36505-carmageddon-crashers.json](./36505-carmageddon-crashers.json) |
@@ -4771,6 +4772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catherine Ragnor and the Cursed Island | 341619 | [341619-catherine-ragnor-and-the-cursed-island.json](./341619-catherine-ragnor-and-the-cursed-island.json) |
 | Catherine Ragnor and the Legend of the Flying Dutchman | 189113 | [189113-catherine-ragnor-and-the-legend-of-the-flying-dutchman.json](./189113-catherine-ragnor-and-the-legend-of-the-flying-dutchman.json) |
 | Catherine Ragnor: Blackbeards Fury | 215503 | [215503-catherine-ragnor-blackbeards-fury.json](./215503-catherine-ragnor-blackbeards-fury.json) |
+| Catherine: Full Body | 78497 | [78497-catherine-full-body.json](./78497-catherine-full-body.json) |
 | Catherine: Full Body - Dynamite Full Body Box | 136282 | [136282-catherine-full-body-dynamite-full-body-box.json](./136282-catherine-full-body-dynamite-full-body-box.json) |
 | Catherine: Full Body - Heart's Desire Premium Edition | 72067 | [72067-catherine-full-body-hearts-desire-premium-edition.json](./72067-catherine-full-body-hearts-desire-premium-edition.json) |
 | Catherine: Full Body - Launch Edition | 136327 | [136327-catherine-full-body-launch-edition.json](./136327-catherine-full-body-launch-edition.json) |
@@ -8052,6 +8054,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chitty Chitty Train | 194395 | [194395-chitty-chitty-train.json](./194395-chitty-chitty-train.json) |
 | ChivalBee and the Mycelium Menace | 388228 | [388228-chivalbee-and-the-mycelium-menace.json](./388228-chivalbee-and-the-mycelium-menace.json) |
 | Chivalry | 382524 | [382524-chivalry.json](./382524-chivalry.json) |
+| Chivalry 2 | 119342 | [119342-chivalry-2.json](./119342-chivalry-2.json) |
 | Chivalry 2: Day One Edition | 146126 | [146126-chivalry-2-day-one-edition.json](./146126-chivalry-2-day-one-edition.json) |
 | Chivalry 2: Regicide Update | 312382 | [312382-chivalry-2-regicide-update.json](./312382-chivalry-2-regicide-update.json) |
 | Chivalry 2: Steelbook Edition | 153644 | [153644-chivalry-2-steelbook-edition.json](./153644-chivalry-2-steelbook-edition.json) |
@@ -12300,6 +12303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colibricks | 99681 | [99681-colibricks.json](./99681-colibricks.json) |
 | Colibrium: Zen Colour Matching | 107139 | [107139-colibrium-zen-colour-matching.json](./107139-colibrium-zen-colour-matching.json) |
 | Colin McRae Rally | 235015 | [235015-colin-mcrae-rally.json](./235015-colin-mcrae-rally.json) |
+| Colin McRae Rally 04 | 641 | [641-colin-mcrae-rally-04.json](./641-colin-mcrae-rally-04.json) |
 | Colin McRae Rally 2.0 | 235185 | [235185-colin-mcrae-rally-2-0.json](./235185-colin-mcrae-rally-2-0.json) |
 | Colin McRae Rally 2.0 | 642 | [642-colin-mcrae-rally-2-0.json](./642-colin-mcrae-rally-2-0.json) |
 | Colin McRae Rally 2005 | 175916 | [175916-colin-mcrae-rally-2005.json](./175916-colin-mcrae-rally-2005.json) |
@@ -13535,6 +13539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer: The Covert Operations | 663 | [663-command-and-conquer-the-covert-operations.json](./663-command-and-conquer-the-covert-operations.json) |
 | Command & Conquer: The First Decade | 18165 | [18165-command-and-conquer-the-first-decade.json](./18165-command-and-conquer-the-first-decade.json) |
 | Command & Conquer: The Ultimate Collection | 50885 | [50885-command-and-conquer-the-ultimate-collection.json](./50885-command-and-conquer-the-ultimate-collection.json) |
+| Command & Conquer: Tiberian Sun - Firestorm | 900 | [900-command-and-conquer-tiberian-sun-firestorm.json](./900-command-and-conquer-tiberian-sun-firestorm.json) |
 | Command & Control 3 | 150976 | [150976-command-and-control-3.json](./150976-command-and-control-3.json) |
 | Command Adventures: Starship | 11678 | [11678-command-adventures-starship.json](./11678-command-adventures-starship.json) |
 | Command and Conquer Map Pack | 273143 | [273143-command-and-conquer-map-pack.json](./273143-command-and-conquer-map-pack.json) |
@@ -16717,6 +16722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crab Digger | 236850 | [236850-crab-digger.json](./236850-crab-digger.json) |
 | Crab Digger: Tropical Island | 300858 | [300858-crab-digger-tropical-island.json](./300858-crab-digger-tropical-island.json) |
 | Crab Dub | 31018 | [31018-crab-dub.json](./31018-crab-dub.json) |
+| Crab Game | 178351 | [178351-crab-game.json](./178351-crab-game.json) |
 | Crab Game 2 | 323500 | [323500-crab-game-2.json](./323500-crab-game-2.json) |
 | Crab God | 244884 | [244884-crab-god.json](./244884-crab-god.json) |
 | Crab God: Supporter Pack | 382435 | [382435-crab-god-supporter-pack.json](./382435-crab-god-supporter-pack.json) |
