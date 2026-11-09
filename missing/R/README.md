@@ -5315,6 +5315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Renegade Grounds: Episode 1 | 55508 | [55508-renegade-grounds-episode-1.json](./55508-renegade-grounds-episode-1.json) |
 | Renegade Grounds: Episode 2 | 127579 | [127579-renegade-grounds-episode-2.json](./127579-renegade-grounds-episode-2.json) |
 | Renegade Hero: Termination of Salvation | 377869 | [377869-renegade-hero-termination-of-salvation.json](./377869-renegade-hero-termination-of-salvation.json) |
+| Renegade III: The Final Chapter | 39062 | [39062-renegade-iii-the-final-chapter.json](./39062-renegade-iii-the-final-chapter.json) |
 | Renegade Legion: Interceptor | 73333 | [73333-renegade-legion-interceptor.json](./73333-renegade-legion-interceptor.json) |
 | Renegade Line | 58091 | [58091-renegade-line.json](./58091-renegade-line.json) |
 | Renegade Ops | 2139 | [2139-renegade-ops.json](./2139-renegade-ops.json) |
