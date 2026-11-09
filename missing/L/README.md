@@ -1005,6 +1005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lar | 281336 | [281336-lar.json](./281336-lar.json) |
 | Lara at the Movies: Blood from the Mummy's Tomb | 315558 | [315558-lara-at-the-movies-blood-from-the-mummys-tomb.json](./315558-lara-at-the-movies-blood-from-the-mummys-tomb.json) |
 | Lara Croft and the Guardian of Light | 769 | [769-lara-croft-and-the-guardian-of-light.json](./769-lara-croft-and-the-guardian-of-light.json) |
+| Lara Croft and the Temple of Osiris | 7325 | [7325-lara-croft-and-the-temple-of-osiris.json](./7325-lara-croft-and-the-temple-of-osiris.json) |
 | Lara Croft and the Temple of Osiris: Deus Ex Pack | 226870 | [226870-lara-croft-and-the-temple-of-osiris-deus-ex-pack.json](./226870-lara-croft-and-the-temple-of-osiris-deus-ex-pack.json) |
 | Lara Croft and the Temple of Osiris: Icy Death Pack | 226871 | [226871-lara-croft-and-the-temple-of-osiris-icy-death-pack.json](./226871-lara-croft-and-the-temple-of-osiris-icy-death-pack.json) |
 | Lara Croft and the Temple of Osiris: Legend Pack | 226872 | [226872-lara-croft-and-the-temple-of-osiris-legend-pack.json](./226872-lara-croft-and-the-temple-of-osiris-legend-pack.json) |
@@ -3298,6 +3299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Harry Potter: The Battle for Hogwarts | 242439 | [242439-lego-harry-potter-the-battle-for-hogwarts.json](./242439-lego-harry-potter-the-battle-for-hogwarts.json) |
 | LEGO Harry Potter: Years 1-4 | 237596 | [237596-lego-harry-potter-years-1-4.json](./237596-lego-harry-potter-years-1-4.json) |
 | LEGO Harry Potter: Years 1-4 | 3149 | [3149-lego-harry-potter-years-1-4.json](./3149-lego-harry-potter-years-1-4.json) |
+| LEGO Harry Potter: Years 5-7 | 3150 | [3150-lego-harry-potter-years-5-7.json](./3150-lego-harry-potter-years-5-7.json) |
 | Lego Harry Potter: Years 5-7 Spell pack | 254891 | [254891-lego-harry-potter-years-5-7-spell-pack.json](./254891-lego-harry-potter-years-5-7-spell-pack.json) |
 | LEGO Hero Factory: Brain Attack | 193329 | [193329-lego-hero-factory-brain-attack.json](./193329-lego-hero-factory-brain-attack.json) |
 | LEGO Hero Factory: Breakout | 232701 | [232701-lego-hero-factory-breakout.json](./232701-lego-hero-factory-breakout.json) |
@@ -3398,6 +3400,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Star Wars II: The Original Trilogy | 335050 | [335050-lego-star-wars-ii-the-original-trilogy.json](./335050-lego-star-wars-ii-the-original-trilogy.json) |
 | LEGO Star Wars III: The Clone Wars | 194948 | [194948-lego-star-wars-iii-the-clone-wars.json](./194948-lego-star-wars-iii-the-clone-wars.json) |
 | LEGO Star Wars III: The Clone Wars | 250156 | [250156-lego-star-wars-iii-the-clone-wars.json](./250156-lego-star-wars-iii-the-clone-wars.json) |
+| LEGO Star Wars III: The Clone Wars | 6844 | [6844-lego-star-wars-iii-the-clone-wars.json](./6844-lego-star-wars-iii-the-clone-wars.json) |
 | Lego Star Wars the Force Awakens - First Order Siege of Takodana Level Pack | 355113 | [355113-lego-star-wars-the-force-awakens-first-order-siege-of-takodana-level-pack.json](./355113-lego-star-wars-the-force-awakens-first-order-siege-of-takodana-level-pack.json) |
 | Lego Star Wars the Force Awakens - Star Wars Rebels Character Pack | 355112 | [355112-lego-star-wars-the-force-awakens-star-wars-rebels-character-pack.json](./355112-lego-star-wars-the-force-awakens-star-wars-rebels-character-pack.json) |
 | Lego Star Wars the Force Awakens - The Freemaker Adventures Character Pack | 355114 | [355114-lego-star-wars-the-force-awakens-the-freemaker-adventures-character-pack.json](./355114-lego-star-wars-the-force-awakens-the-freemaker-adventures-character-pack.json) |
@@ -3450,6 +3453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Supersonic RC | 250613 | [250613-lego-supersonic-rc.json](./250613-lego-supersonic-rc.json) |
 | LEGO Technic Bionicle Nestlé | 267506 | [267506-lego-technic-bionicle-nestle.json](./267506-lego-technic-bionicle-nestle.json) |
 | LEGO Technic Cybermaster | 70479 | [70479-lego-technic-cybermaster.json](./70479-lego-technic-cybermaster.json) |
+| LEGO The Hobbit | 4844 | [4844-lego-the-hobbit.json](./4844-lego-the-hobbit.json) |
 | LEGO The Hobbit: Side Quest Character Pack | 168771 | [168771-lego-the-hobbit-side-quest-character-pack.json](./168771-lego-the-hobbit-side-quest-character-pack.json) |
 | LEGO The Hobbit: The Battle Pack | 168773 | [168773-lego-the-hobbit-the-battle-pack.json](./168773-lego-the-hobbit-the-battle-pack.json) |
 | LEGO The Hobbit: The Big Little Character Pack | 168772 | [168772-lego-the-hobbit-the-big-little-character-pack.json](./168772-lego-the-hobbit-the-big-little-character-pack.json) |
