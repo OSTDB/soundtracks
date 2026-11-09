@@ -5968,6 +5968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Aly & AJ Adventure | 71969 | [71969-the-aly-and-aj-adventure.json](./71969-the-aly-and-aj-adventure.json) |
 | The Amazeing Labyrinth | 57085 | [57085-the-amazeing-labyrinth.json](./57085-the-amazeing-labyrinth.json) |
 | The Amazing Adventures of ANSI Dude | 79231 | [79231-the-amazing-adventures-of-ansi-dude.json](./79231-the-amazing-adventures-of-ansi-dude.json) |
+| The Amazing Adventures of Ash - Afterparty | 33634 | [33634-the-amazing-adventures-of-ash-afterparty.json](./33634-the-amazing-adventures-of-ash-afterparty.json) |
 | The Amazing Adventures of Lady Fanny Featherstone | 100534 | [100534-the-amazing-adventures-of-lady-fanny-featherstone.json](./100534-the-amazing-adventures-of-lady-fanny-featherstone.json) |
 | The Amazing Adventures of Lucy Lavender | 71132 | [71132-the-amazing-adventures-of-lucy-lavender.json](./71132-the-amazing-adventures-of-lucy-lavender.json) |
 | The Amazing American Circus | 140559 | [140559-the-amazing-american-circus.json](./140559-the-amazing-american-circus.json) |
@@ -9202,6 +9203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The End o,,,o | 31847 | [31847-the-end-o-o.json](./31847-the-end-o-o.json) |
 | The End of Allegoria | 416565 | [416565-the-end-of-allegoria.json](./416565-the-end-of-allegoria.json) |
 | The End of an Actress | 126961 | [126961-the-end-of-an-actress.json](./126961-the-end-of-an-actress.json) |
+| The End of an Age: Fading Remnants | 34528 | [34528-the-end-of-an-age-fading-remnants.json](./34528-the-end-of-an-age-fading-remnants.json) |
 | The End of an Obsession | 321224 | [321224-the-end-of-an-obsession.json](./321224-the-end-of-an-obsession.json) |
 | The End of Dyeus | 155858 | [155858-the-end-of-dyeus.json](./155858-the-end-of-dyeus.json) |
 | The End of Gameplay | 343235 | [343235-the-end-of-gameplay.json](./343235-the-end-of-gameplay.json) |
@@ -15670,6 +15672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Princess's Dragon | 264576 | [264576-the-princesss-dragon.json](./264576-the-princesss-dragon.json) |
 | The Principals Bimbofication | 388954 | [388954-the-principals-bimbofication.json](./388954-the-principals-bimbofication.json) |
 | The Prior Challenge | 350209 | [350209-the-prior-challenge.json](./350209-the-prior-challenge.json) |
+| The Prism | 34506 | [34506-the-prism.json](./34506-the-prism.json) |
 | The Prison | 117089 | [117089-the-prison.json](./117089-the-prison.json) |
 | The Prison | 236692 | [236692-the-prison.json](./236692-the-prison.json) |
 | The Prison Boys | 54962 | [54962-the-prison-boys.json](./54962-the-prison-boys.json) |
@@ -24604,6 +24607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tisis | 407788 | [407788-tisis.json](./407788-tisis.json) |
 | Tiska Buska | 107485 | [107485-tiska-buska.json](./107485-tiska-buska.json) |
 | Tisnart Shapes | 93752 | [93752-tisnart-shapes.json](./93752-tisnart-shapes.json) |
+| Tisnart Tiles | 34525 | [34525-tisnart-tiles.json](./34525-tisnart-tiles.json) |
 | Tisuland | 382747 | [382747-tisuland.json](./382747-tisuland.json) |
 | Tit Tap Tingle | 135801 | [135801-tit-tap-tingle.json](./135801-tit-tap-tingle.json) |
 | Tit-E-Bar | 308444 | [308444-tit-e-bar.json](./308444-tit-e-bar.json) |
@@ -28514,6 +28518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toys Gun Fire Boom | 55467 | [55467-toys-gun-fire-boom.json](./55467-toys-gun-fire-boom.json) |
 | Toys Jigsaw Puzzle | 100748 | [100748-toys-jigsaw-puzzle.json](./100748-toys-jigsaw-puzzle.json) |
 | Toys Moto | 107664 | [107664-toys-moto.json](./107664-toys-moto.json) |
+| Toys of War | 33636 | [33636-toys-of-war.json](./33636-toys-of-war.json) |
 | Toys Pop | 101078 | [101078-toys-pop.json](./101078-toys-pop.json) |
 | Toys vs. Monsters | 85451 | [85451-toys-vs-monsters.json](./85451-toys-vs-monsters.json) |
 | Toys vs. Nightmares | 252060 | [252060-toys-vs-nightmares.json](./252060-toys-vs-nightmares.json) |
