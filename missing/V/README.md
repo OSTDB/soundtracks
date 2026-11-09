@@ -1339,6 +1339,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Velocibox | 15548 | [15548-velocibox.json](./15548-velocibox.json) |
 | Velocide Overdrive | 393501 | [393501-velocide-overdrive.json](./393501-velocide-overdrive.json) |
 | Velocidevorium | 96765 | [96765-velocidevorium.json](./96765-velocidevorium.json) |
+| VelociDrone | 57237 | [57237-velocidrone.json](./57237-velocidrone.json) |
 | Velocimom | 187610 | [187610-velocimom.json](./187610-velocimom.json) |
 | Velocipede | 416714 | [416714-velocipede.json](./416714-velocipede.json) |
 | Velocipede II | 416716 | [416716-velocipede-ii.json](./416716-velocipede-ii.json) |
