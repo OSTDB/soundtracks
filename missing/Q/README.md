@@ -1108,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quietus Euphony | 374046 | [374046-quietus-euphony.json](./374046-quietus-euphony.json) |
 | Quiiiz | 304204 | [304204-quiiiz.json](./304204-quiiiz.json) |
 | Quijote: Quest for Glory | 195364 | [195364-quijote-quest-for-glory.json](./195364-quijote-quest-for-glory.json) |
+| Quik: The Thunder Rabbit | 37233 | [37233-quik-the-thunder-rabbit.json](./37233-quik-the-thunder-rabbit.json) |
 | Quill | 273779 | [273779-quill.json](./273779-quill.json) |
 | Quill > Pistol | 366240 | [366240-quill-pistol.json](./366240-quill-pistol.json) |
 | Quiller's Code | 301473 | [301473-quillers-code.json](./301473-quillers-code.json) |
