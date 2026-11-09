@@ -10187,6 +10187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Shell: Neon Pulse | 99163 | [99163-metal-shell-neon-pulse.json](./99163-metal-shell-neon-pulse.json) |
 | Metal Shock Game | 211206 | [211206-metal-shock-game.json](./211206-metal-shock-game.json) |
 | Metal Sight | 62871 | [62871-metal-sight.json](./62871-metal-sight.json) |
+| Metal Slader Glory | 48356 | [48356-metal-slader-glory.json](./48356-metal-slader-glory.json) |
 | Metal Slader Glory 2 | 297474 | [297474-metal-slader-glory-2.json](./297474-metal-slader-glory-2.json) |
 | Metal Slader Glory: Director's Cut | 38238 | [38238-metal-slader-glory-directors-cut.json](./38238-metal-slader-glory-directors-cut.json) |
 | Metal Slug 1st & 2nd Mission Double Pack | 173779 | [173779-metal-slug-1st-and-2nd-mission-double-pack.json](./173779-metal-slug-1st-and-2nd-mission-double-pack.json) |
