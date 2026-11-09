@@ -9557,6 +9557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merely A Chip | 309129 | [309129-merely-a-chip.json](./309129-merely-a-chip.json) |
 | Merely a Regret | 176922 | [176922-merely-a-regret.json](./176922-merely-a-regret.json) |
 | Merendam 2: Diary of Two Shaman Sisters | 70409 | [70409-merendam-2-diary-of-two-shaman-sisters.json](./70409-merendam-2-diary-of-two-shaman-sisters.json) |
+| Merendam: Escape from Seram isle | 68997 | [68997-merendam-escape-from-seram-isle.json](./68997-merendam-escape-from-seram-isle.json) |
 | Mereonozis 2D: The Kingdom of Gremlins | 296256 | [296256-mereonozis-2d-the-kingdom-of-gremlins.json](./296256-mereonozis-2d-the-kingdom-of-gremlins.json) |
 | Mereuhell Fantasy | 215840 | [215840-mereuhell-fantasy.json](./215840-mereuhell-fantasy.json) |
 | MerFight | 191862 | [191862-merfight.json](./191862-merfight.json) |
@@ -13962,6 +13963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirrormind | 345647 | [345647-mirrormind.json](./345647-mirrormind.json) |
 | MirrorMoon EP | 15544 | [15544-mirrormoon-ep.json](./15544-mirrormoon-ep.json) |
 | Mirrorplume Frostfate | 384350 | [384350-mirrorplume-frostfate.json](./384350-mirrorplume-frostfate.json) |
+| Mirrors | 69387 | [69387-mirrors.json](./69387-mirrors.json) |
 | Mirrors of Deception: The Poisoned Legacy | 365957 | [365957-mirrors-of-deception-the-poisoned-legacy.json](./365957-mirrors-of-deception-the-poisoned-legacy.json) |
 | Mirrors of Deception: The Silver Peaks Secret | 386201 | [386201-mirrors-of-deception-the-silver-peaks-secret.json](./386201-mirrors-of-deception-the-silver-peaks-secret.json) |
 | Mirrors of Epiphany | 274352 | [274352-mirrors-of-epiphany.json](./274352-mirrors-of-epiphany.json) |
@@ -16725,6 +16727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster War | 287537 | [287537-monster-war.json](./287537-monster-war.json) |
 | Monster War | 365037 | [365037-monster-war.json](./365037-monster-war.json) |
 | Monster Warlord | 141483 | [141483-monster-warlord.json](./141483-monster-warlord.json) |
+| Monster Wars | 69000 | [69000-monster-wars.json](./69000-monster-wars.json) |
 | Monster Wilds | 159532 | [159532-monster-wilds.json](./159532-monster-wilds.json) |
 | Monster World | 402399 | [402399-monster-world.json](./402399-monster-world.json) |
 | Monster World IV | 18282 | [18282-monster-world-iv.json](./18282-monster-world-iv.json) |
