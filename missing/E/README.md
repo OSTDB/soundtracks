@@ -8384,6 +8384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extra Evolution: L’Era del Primordiale | 342778 | [342778-extra-evolution-l-era-del-primordiale.json](./342778-extra-evolution-l-era-del-primordiale.json) |
 | Extra Extra Poison | 369578 | [369578-extra-extra-poison.json](./369578-extra-extra-poison.json) |
 | Extra Extra Poison NS | 385109 | [385109-extra-extra-poison-ns.json](./385109-extra-extra-poison-ns.json) |
+| Extra Inning | 69398 | [69398-extra-inning.json](./69398-extra-inning.json) |
 | Extra Innings | 42558 | [42558-extra-innings.json](./42558-extra-innings.json) |
 | Extra Lives | 216104 | [216104-extra-lives.json](./216104-extra-lives.json) |
 | Extra Lives (Infinite) | 96796 | [96796-extra-lives-infinite.json](./96796-extra-lives-infinite.json) |
