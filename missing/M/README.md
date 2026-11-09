@@ -2847,6 +2847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Malibu Bikini Volleyball | 40856 | [40856-malibu-bikini-volleyball.json](./40856-malibu-bikini-volleyball.json) |
 | Malice | 208608 | [208608-malice.json](./208608-malice.json) |
 | Malice | 246008 | [246008-malice.json](./246008-malice.json) |
+| Malice | 5908 | [5908-malice.json](./5908-malice.json) |
 | Malice & Greed | 143568 | [143568-malice-and-greed.json](./143568-malice-and-greed.json) |
 | Malice in Wonderland | 403366 | [403366-malice-in-wonderland.json](./403366-malice-in-wonderland.json) |
 | Malice Within | 337590 | [337590-malice-within.json](./337590-malice-within.json) |
@@ -5086,6 +5087,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mary Skelter: Nightmares Remake | 44474 | [44474-mary-skelter-nightmares-remake.json](./44474-mary-skelter-nightmares-remake.json) |
 | Mary Wants to Play | 400589 | [400589-mary-wants-to-play.json](./400589-mary-wants-to-play.json) |
 | Mary X | 249247 | [249247-mary-x.json](./249247-mary-x.json) |
+| Mary-Kate & Ashley: Crush Course | 5920 | [5920-mary-kate-and-ashley-crush-course.json](./5920-mary-kate-and-ashley-crush-course.json) |
+| Mary-Kate & Ashley: Get a Clue! | 5916 | [5916-mary-kate-and-ashley-get-a-clue.json](./5916-mary-kate-and-ashley-get-a-clue.json) |
+| Mary-Kate & Ashley: Magical Mystery Mall | 5917 | [5917-mary-kate-and-ashley-magical-mystery-mall.json](./5917-mary-kate-and-ashley-magical-mystery-mall.json) |
 | Mary-Kate and Ashley: Girls Night Out | 49391 | [49391-mary-kate-and-ashley-girls-night-out.json](./49391-mary-kate-and-ashley-girls-night-out.json) |
 | Mary-Kate and Ashley: Pocket Planner | 298504 | [298504-mary-kate-and-ashley-pocket-planner.json](./298504-mary-kate-and-ashley-pocket-planner.json) |
 | Mary-Kate and Ashley: Sweet 16 - Licensed to Drive | 242426 | [242426-mary-kate-and-ashley-sweet-16-licensed-to-drive.json](./242426-mary-kate-and-ashley-sweet-16-licensed-to-drive.json) |
@@ -8851,6 +8855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melanie and the Magic Forest | 311946 | [311946-melanie-and-the-magic-forest.json](./311946-melanie-and-the-magic-forest.json) |
 | Melbits POD | 138236 | [138236-melbits-pod.json](./138236-melbits-pod.json) |
 | Melbits World | 103403 | [103403-melbits-world.json](./103403-melbits-world.json) |
+| Melbourne Cup Challenge | 5912 | [5912-melbourne-cup-challenge.json](./5912-melbourne-cup-challenge.json) |
 | Melbourne Tatty | 66780 | [66780-melbourne-tatty.json](./66780-melbourne-tatty.json) |
 | Melbourne: Route 96 | 334189 | [334189-melbourne-route-96.json](./334189-melbourne-route-96.json) |
 | Meld | 33330 | [33330-meld.json](./33330-meld.json) |
@@ -10083,6 +10088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Dragon | 325243 | [325243-metal-dragon.json](./325243-metal-dragon.json) |
 | Metal Dragon/Life on Mars | 325244 | [325244-metal-dragon-life-on-mars.json](./325244-metal-dragon-life-on-mars.json) |
 | Metal Drift | 14957 | [14957-metal-drift.json](./14957-metal-drift.json) |
+| Metal Dungeon | 5914 | [5914-metal-dungeon.json](./5914-metal-dungeon.json) |
 | Metal Earth Ashes of the Alliance | 220825 | [220825-metal-earth-ashes-of-the-alliance.json](./220825-metal-earth-ashes-of-the-alliance.json) |
 | Metal Exile | 264691 | [264691-metal-exile.json](./264691-metal-exile.json) |
 | Metal Eye | 308246 | [308246-metal-eye.json](./308246-metal-eye.json) |
@@ -10325,6 +10331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Wars 2 | 196627 | [196627-metal-wars-2.json](./196627-metal-wars-2.json) |
 | Metal Wars 3 | 200248 | [200248-metal-wars-3.json](./200248-metal-wars-3.json) |
 | Metal Wolf | 109171 | [109171-metal-wolf.json](./109171-metal-wolf.json) |
+| Metal Wolf Chaos | 5927 | [5927-metal-wolf-chaos.json](./5927-metal-wolf-chaos.json) |
 | Metal Wolf Chaos XD | 103304 | [103304-metal-wolf-chaos-xd.json](./103304-metal-wolf-chaos-xd.json) |
 | Metal World: Street Scraps | 201145 | [201145-metal-world-street-scraps.json](./201145-metal-world-street-scraps.json) |
 | Metal: Hellsinger | 134560 | [134560-metal-hellsinger.json](./134560-metal-hellsinger.json) |
@@ -15523,6 +15530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mojo Party | 398528 | [398528-mojo-party.json](./398528-mojo-party.json) |
 | Mojo Solitaire Collection | 102560 | [102560-mojo-solitaire-collection.json](./102560-mojo-solitaire-collection.json) |
 | Mojo XXX | 292684 | [292684-mojo-xxx.json](./292684-mojo-xxx.json) |
+| Mojo! | 5931 | [5931-mojo.json](./5931-mojo.json) |
 | MOK: Super Space Taxi | 119706 | [119706-mok-super-space-taxi.json](./119706-mok-super-space-taxi.json) |
 | Moka Future | 411996 | [411996-moka-future.json](./411996-moka-future.json) |
 | Moke Horror | 365127 | [365127-moke-horror.json](./365127-moke-horror.json) |
@@ -18589,6 +18597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Motocross Madness 2 | 795 | [795-motocross-madness-2.json](./795-motocross-madness-2.json) |
 | Motocross Mania | 43771 | [43771-motocross-mania.json](./43771-motocross-mania.json) |
 | Motocross Mania 2 | 45100 | [45100-motocross-mania-2.json](./45100-motocross-mania-2.json) |
+| Motocross Mania 3 | 5932 | [5932-motocross-mania-3.json](./5932-motocross-mania-3.json) |
 | Motocross Maniacs | 73130 | [73130-motocross-maniacs.json](./73130-motocross-maniacs.json) |
 | Motocross Maniacs 2 | 49891 | [49891-motocross-maniacs-2.json](./49891-motocross-maniacs-2.json) |
 | Motocross Maniacs Advance | 23475 | [23475-motocross-maniacs-advance.json](./23475-motocross-maniacs-advance.json) |
@@ -20793,6 +20802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MX Simulator | 21182 | [21182-mx-simulator.json](./21182-mx-simulator.json) |
 | MX Superfly | 4024 | [4024-mx-superfly.json](./4024-mx-superfly.json) |
 | MX Superfly Featuring Ricky Carmichael | 80067 | [80067-mx-superfly-featuring-ricky-carmichael.json](./80067-mx-superfly-featuring-ricky-carmichael.json) |
+| MX Unleashed | 5939 | [5939-mx-unleashed.json](./5939-mx-unleashed.json) |
 | MX vs ATV Legends: Husqvarna Pack 2023 | 285062 | [285062-mx-vs-atv-legends-husqvarna-pack-2023.json](./285062-mx-vs-atv-legends-husqvarna-pack-2023.json) |
 | MX vs ATV: Legends - Yamaha Pack 2023 | 288051 | [288051-mx-vs-atv-legends-yamaha-pack-2023.json](./288051-mx-vs-atv-legends-yamaha-pack-2023.json) |
 | MX vs. ATV All Out: 2011 Honda TRX450R | 169055 | [169055-mx-vs-atv-all-out-2011-honda-trx450r.json](./169055-mx-vs-atv-all-out-2011-honda-trx450r.json) |
