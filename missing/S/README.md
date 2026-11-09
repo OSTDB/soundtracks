@@ -9125,6 +9125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiro: Midori | 208578 | [208578-shiro-midori.json](./208578-shiro-midori.json) |
 | Shirobara Gakuen Satsujin Jiken | 281251 | [281251-shirobara-gakuen-satsujin-jiken.json](./281251-shirobara-gakuen-satsujin-jiken.json) |
 | Shirobara Renzoku Satsujin Jiken | 353184 | [353184-shirobara-renzoku-satsujin-jiken.json](./353184-shirobara-renzoku-satsujin-jiken.json) |
+| Shirodoko | 60665 | [60665-shirodoko.json](./60665-shirodoko.json) |
 | Shirogane Maid Club | 323118 | [323118-shirogane-maid-club.json](./323118-shirogane-maid-club.json) |
 | Shirogane no Cal to Soukuu no Joou | 408266 | [408266-shirogane-no-cal-to-soukuu-no-joou.json](./408266-shirogane-no-cal-to-soukuu-no-joou.json) |
 | Shirogane no Cal to Soukuu no Joou Genteiban | 408268 | [408268-shirogane-no-cal-to-soukuu-no-joou-genteiban.json](./408268-shirogane-no-cal-to-soukuu-no-joou-genteiban.json) |
@@ -10118,6 +10119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shǔshān: Chū Zhāng Mǎiduàn Bǎn | 368536 | [368536-shushan-chu-zhang-maiduan-ban.json](./368536-shushan-chu-zhang-maiduan-ban.json) |
 | Shǔshān: Chū Zhāng Wǎngluò Bǎn | 368546 | [368546-shushan-chu-zhang-wangluo-ban.json](./368546-shushan-chu-zhang-wangluo-ban.json) |
 | Shǔshān: Chū Zhāng Zhèngshì Bǎn | 368575 | [368575-shushan-chu-zhang-zhengshi-ban.json](./368575-shushan-chu-zhang-zhengshi-ban.json) |
+| Shusse Ozumo | 60653 | [60653-shusse-ozumo.json](./60653-shusse-ozumo.json) |
 | Shut In | 139469 | [139469-shut-in.json](./139469-shut-in.json) |
 | Shut the Box Classic for iPad | 108713 | [108713-shut-the-box-classic-for-ipad.json](./108713-shut-the-box-classic-for-ipad.json) |
 | Shut the Box Infinity | 175324 | [175324-shut-the-box-infinity.json](./175324-shut-the-box-infinity.json) |
@@ -16290,6 +16292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | So Below | 269844 | [269844-so-below.json](./269844-so-below.json) |
 | So Blonde | 5171 | [5171-so-blonde.json](./5171-so-blonde.json) |
 | So Blonde: Back to the Island | 50955 | [50955-so-blonde-back-to-the-island.json](./50955-so-blonde-back-to-the-island.json) |
+| So Far | 60184 | [60184-so-far.json](./60184-so-far.json) |
 | So Far, So High | 191647 | [191647-so-far-so-high.json](./191647-so-far-so-high.json) |
 | So Fart Away | 338631 | [338631-so-fart-away.json](./338631-so-fart-away.json) |
 | So Fart Away: Jam Edition | 255391 | [255391-so-fart-away-jam-edition.json](./255391-so-fart-away-jam-edition.json) |
@@ -16437,6 +16440,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer League | 197448 | [197448-soccer-league.json](./197448-soccer-league.json) |
 | Soccer League: Winner's Cup | 48531 | [48531-soccer-league-winners-cup.json](./48531-soccer-league-winners-cup.json) |
 | Soccer Legends | 36018 | [36018-soccer-legends.json](./36018-soccer-legends.json) |
+| Soccer Life II | 60681 | [60681-soccer-life-ii.json](./60681-soccer-life-ii.json) |
 | Soccer Lines | 241334 | [241334-soccer-lines.json](./241334-soccer-lines.json) |
 | Soccer Love | 108786 | [108786-soccer-love.json](./108786-soccer-love.json) |
 | Soccer Manager | 134421 | [134421-soccer-manager.json](./134421-soccer-manager.json) |
@@ -18980,6 +18984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soreike! Anpanman: Yukai nao Tanjoue | 230279 | [230279-soreike-anpanman-yukai-nao-tanjoue.json](./230279-soreike-anpanman-yukai-nao-tanjoue.json) |
 | Sorekara: End of a Journey | 383794 | [383794-sorekara-end-of-a-journey.json](./383794-sorekara-end-of-a-journey.json) |
 | Sorelle | 302802 | [302802-sorelle.json](./302802-sorelle.json) |
+| Soreyori no Prologue | 60674 | [60674-soreyori-no-prologue.json](./60674-soreyori-no-prologue.json) |
 | Soreyuke Ebisumaru: Karakuri Meiro - Kieta Goemon no Nazo | 44446 | [44446-soreyuke-ebisumaru-karakuri-meiro-kieta-goemon-no-nazo.json](./44446-soreyuke-ebisumaru-karakuri-meiro-kieta-goemon-no-nazo.json) |
 | Soreyuke!! Kid: Go! Go! Kid | 64507 | [64507-soreyuke-kid-go-go-kid.json](./64507-soreyuke-kid-go-go-kid.json) |
 | Sorgina: A Tale of Witches | 36460 | [36460-sorgina-a-tale-of-witches.json](./36460-sorgina-a-tale-of-witches.json) |
@@ -30950,6 +30955,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Reunion | 370102 | [370102-summer-reunion.json](./370102-summer-reunion.json) |
 | Summer Rose Court | 125327 | [125327-summer-rose-court.json](./125327-summer-rose-court.json) |
 | Summer Sale | 32456 | [32456-summer-sale.json](./32456-summer-sale.json) |
+| Summer Santa | 60649 | [60649-summer-santa.json](./60649-summer-santa.json) |
 | Summer Seaside Search | 408530 | [408530-summer-seaside-search.json](./408530-summer-seaside-search.json) |
 | Summer Secrets | 82182 | [82182-summer-secrets.json](./82182-summer-secrets.json) |
 | Summer Sex Saga | 310342 | [310342-summer-sex-saga.json](./310342-summer-sex-saga.json) |
