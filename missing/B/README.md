@@ -993,7 +993,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3670,6 +3669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Barn: Tactics | 190054 | [190054-battle-barn-tactics.json](./190054-battle-barn-tactics.json) |
 | Battle Baseball | 143913 | [143913-battle-baseball.json](./143913-battle-baseball.json) |
 | Battle Baseball | 218826 | [218826-battle-baseball.json](./218826-battle-baseball.json) |
+| Battle Battalions | 34512 | [34512-battle-battalions.json](./34512-battle-battalions.json) |
 | Battle Beach | 323068 | [323068-battle-beach.json](./323068-battle-beach.json) |
 | Battle Bean | 291239 | [291239-battle-bean.json](./291239-battle-bean.json) |
 | Battle Bears 1 Mac | 88639 | [88639-battle-bears-1-mac.json](./88639-battle-bears-1-mac.json) |
@@ -4526,6 +4526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battleplans | 58333 | [58333-battleplans.json](./58333-battleplans.json) |
 | BattlePlatform | 283985 | [283985-battleplatform.json](./283985-battleplatform.json) |
 | Battlepopes | 256728 | [256728-battlepopes.json](./256728-battlepopes.json) |
+| BattleQuiz | 34565 | [34565-battlequiz.json](./34565-battlequiz.json) |
 | Battler | 290926 | [290926-battler.json](./290926-battler.json) |
 | Battler Brawlers | 95622 | [95622-battler-brawlers.json](./95622-battler-brawlers.json) |
 | Battlerace | 201591 | [201591-battlerace.json](./201591-battlerace.json) |
@@ -11960,6 +11961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blowout & Cosmic Alphabet | 14325 | [14325-blowout-and-cosmic-alphabet.json](./14325-blowout-and-cosmic-alphabet.json) |
 | Blowup | 269109 | [269109-blowup.json](./269109-blowup.json) |
 | Blowup!! | 233246 | [233246-blowup.json](./233246-blowup.json) |
+| Blowy Fish | 34517 | [34517-blowy-fish.json](./34517-blowy-fish.json) |
 | Blox | 100054 | [100054-blox.json](./100054-blox.json) |
 | Blox | 165314 | [165314-blox.json](./165314-blox.json) |
 | Blox | 18322 | [18322-blox.json](./18322-blox.json) |
