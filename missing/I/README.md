@@ -3853,6 +3853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infestation: Battle Royale | 130205 | [130205-infestation-battle-royale.json](./130205-infestation-battle-royale.json) |
 | Infestation: Origins | 281398 | [281398-infestation-origins.json](./281398-infestation-origins.json) |
 | Infestation: Revival | 122933 | [122933-infestation-revival.json](./122933-infestation-revival.json) |
+| Infestation: The New Beginning | 2948 | [2948-infestation-the-new-beginning.json](./2948-infestation-the-new-beginning.json) |
 | Infested | 262554 | [262554-infested.json](./262554-infested.json) |
 | Infested | 58714 | [58714-infested.json](./58714-infested.json) |
 | Infested DX | 414851 | [414851-infested-dx.json](./414851-infested-dx.json) |
