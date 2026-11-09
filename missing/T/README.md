@@ -32102,6 +32102,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trio Tactics TD | 305673 | [305673-trio-tactics-td.json](./305673-trio-tactics-td.json) |
 | Trio the Punch | 292851 | [292851-trio-the-punch.json](./292851-trio-the-punch.json) |
 | Trio Triado The Game | 316592 | [316592-trio-triado-the-game.json](./316592-trio-triado-the-game.json) |
+| TriO: The Great Settlement | 53957 | [53957-trio-the-great-settlement.json](./53957-trio-the-great-settlement.json) |
 | Triogram | 421187 | [421187-triogram.json](./421187-triogram.json) |
 | Trion | 292039 | [292039-trion.json](./292039-trion.json) |
 | Trioncube | 21547 | [21547-trioncube.json](./21547-trioncube.json) |
@@ -32265,6 +32266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trivia Fantasy | 370767 | [370767-trivia-fantasy.json](./370767-trivia-fantasy.json) |
 | Trivia for Dummies | 187456 | [187456-trivia-for-dummies.json](./187456-trivia-for-dummies.json) |
 | Trivia Genius | 358215 | [358215-trivia-genius.json](./358215-trivia-genius.json) |
+| Trivia Machine | 53956 | [53956-trivia-machine.json](./53956-trivia-machine.json) |
 | Trivia Machine Reloaded | 416179 | [416179-trivia-machine-reloaded.json](./416179-trivia-machine-reloaded.json) |
 | Trivia Munchers Deluxe | 113908 | [113908-trivia-munchers-deluxe.json](./113908-trivia-munchers-deluxe.json) |
 | Trivia Murder Party 3 | 338920 | [338920-trivia-murder-party-3.json](./338920-trivia-murder-party-3.json) |
@@ -32368,6 +32370,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trolddom | 321632 | [321632-trolddom.json](./321632-trolddom.json) |
 | Troleu | 288555 | [288555-troleu.json](./288555-troleu.json) |
 | Troll | 375849 | [375849-troll.json](./375849-troll.json) |
+| Troll | 53955 | [53955-troll.json](./53955-troll.json) |
 | Troll & Armor | 91856 | [91856-troll-and-armor.json](./91856-troll-and-armor.json) |
 | Troll Control | 125146 | [125146-troll-control.json](./125146-troll-control.json) |
 | Troll Face Clicker Quest | 105860 | [105860-troll-face-clicker-quest.json](./105860-troll-face-clicker-quest.json) |
@@ -33056,6 +33059,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tryptic | 326688 | [326688-tryptic.json](./326688-tryptic.json) |
 | Trysaria | 116273 | [116273-trysaria.json](./116273-trysaria.json) |
 | Tryst | 11030 | [11030-tryst.json](./11030-tryst.json) |
+| Tryst: Premium Edition | 53952 | [53952-tryst-premium-edition.json](./53952-tryst-premium-edition.json) |
 | Trytka | 351536 | [351536-trytka.json](./351536-trytka.json) |
 | TryToAct | 418866 | [418866-trytoact.json](./418866-trytoact.json) |
 | TS Academy: I Became A JK But, I'm Still An Honors Student | 83687 | [83687-ts-academy-i-became-a-jk-but-im-still-an-honors-student.json](./83687-ts-academy-i-became-a-jk-but-im-still-an-honors-student.json) |
@@ -33694,6 +33698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turboflex | 315720 | [315720-turboflex.json](./315720-turboflex.json) |
 | TurboFly 3D | 38698 | [38698-turbofly-3d.json](./38698-turbofly-3d.json) |
 | TurboFly HD | 175470 | [175470-turbofly-hd.json](./175470-turbofly-hd.json) |
+| Turbogems | 53951 | [53951-turbogems.json](./53951-turbogems.json) |
 | TurboJoy | 409828 | [409828-turbojoy.json](./409828-turbojoy.json) |
 | TurboMania Fog Racers | 370265 | [370265-turbomania-fog-racers.json](./370265-turbomania-fog-racers.json) |
 | TurboRaketti II | 94239 | [94239-turboraketti-ii.json](./94239-turboraketti-ii.json) |
@@ -33902,6 +33907,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turscar Isle | 408397 | [408397-turscar-isle.json](./408397-turscar-isle.json) |
 | TuRT ToSS | 180681 | [180681-turt-toss.json](./180681-turt-toss.json) |
 | Turte | 309885 | [309885-turte.json](./309885-turte.json) |
+| Turtix | 53950 | [53950-turtix.json](./53950-turtix.json) |
+| Turtix Rescue Adventure | 53949 | [53949-turtix-rescue-adventure.json](./53949-turtix-rescue-adventure.json) |
 | Turtle | 340391 | [340391-turtle.json](./340391-turtle.json) |
 | Turtle Bay | 79302 | [79302-turtle-bay.json](./79302-turtle-bay.json) |
 | Turtle Bridge | 145167 | [145167-turtle-bridge.json](./145167-turtle-bridge.json) |
@@ -33918,6 +33925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turtle Jump | 307652 | [307652-turtle-jump.json](./307652-turtle-jump.json) |
 | Turtle Lu | 90133 | [90133-turtle-lu.json](./90133-turtle-lu.json) |
 | Turtle Odyssey | 34157 | [34157-turtle-odyssey.json](./34157-turtle-odyssey.json) |
+| Turtle Odyssey 2 | 53948 | [53948-turtle-odyssey-2.json](./53948-turtle-odyssey-2.json) |
 | Turtle Quest | 74915 | [74915-turtle-quest.json](./74915-turtle-quest.json) |
 | Turtle Racer | 367755 | [367755-turtle-racer.json](./367755-turtle-racer.json) |
 | Turtle Racing | 331872 | [331872-turtle-racing.json](./331872-turtle-racing.json) |
@@ -34467,6 +34475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Two Brain Sides | 157421 | [157421-two-brain-sides.json](./157421-two-brain-sides.json) |
 | Two Broken Mirrors | 309905 | [309905-two-broken-mirrors.json](./309905-two-broken-mirrors.json) |
 | Two Brothers | 9440 | [9440-two-brothers.json](./9440-two-brothers.json) |
+| Two Brothers: Deluxe Edition | 53947 | [53947-two-brothers-deluxe-edition.json](./53947-two-brothers-deluxe-edition.json) |
 | Two by One | 169627 | [169627-two-by-one.json](./169627-two-by-one.json) |
 | Two Cars Stunts Edition | 219529 | [219529-two-cars-stunts-edition.json](./219529-two-cars-stunts-edition.json) |
 | Two Climbers | 266982 | [266982-two-climbers.json](./266982-two-climbers.json) |
