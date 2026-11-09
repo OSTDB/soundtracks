@@ -4386,6 +4386,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orion Drift | 322571 | [322571-orion-drift.json](./322571-orion-drift.json) |
 | Orion Everton: Mysteries of Metrosomia | 291774 | [291774-orion-everton-mysteries-of-metrosomia.json](./291774-orion-everton-mysteries-of-metrosomia.json) |
 | Orion Haste | 289594 | [289594-orion-haste.json](./289594-orion-haste.json) |
+| Orion Prime | 39084 | [39084-orion-prime.json](./39084-orion-prime.json) |
 | Orion Sandbox | 395783 | [395783-orion-sandbox.json](./395783-orion-sandbox.json) |
 | Orion Sandbox Enhanced | 109848 | [109848-orion-sandbox-enhanced.json](./109848-orion-sandbox-enhanced.json) |
 | Orion shadow of jerboa | 127339 | [127339-orion-shadow-of-jerboa.json](./127339-orion-shadow-of-jerboa.json) |
@@ -5835,6 +5836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Overkings | 218398 | [218398-overkings.json](./218398-overkings.json) |
 | Overknight Dungeon | 223980 | [223980-overknight-dungeon.json](./223980-overknight-dungeon.json) |
 | OverKnights | 321927 | [321927-overknights.json](./321927-overknights.json) |
+| Overkoban | 39077 | [39077-overkoban.json](./39077-overkoban.json) |
 | Overland | 16607 | [16607-overland.json](./16607-overland.json) |
 | Overland Weekend | 150514 | [150514-overland-weekend.json](./150514-overland-weekend.json) |
 | Overlander | 12711 | [12711-overlander.json](./12711-overlander.json) |
