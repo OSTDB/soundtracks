@@ -378,6 +378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zatch Bell! Mamodo Fury | 4585 | [4585-zatch-bell-mamodo-fury.json](./4585-zatch-bell-mamodo-fury.json) |
 | Zatch Bell! Mamodo Fury Update | 358308 | [358308-zatch-bell-mamodo-fury-update.json](./358308-zatch-bell-mamodo-fury-update.json) |
 | Zatch Bell! The Electric Arena 2 | 202177 | [202177-zatch-bell-the-electric-arena-2.json](./202177-zatch-bell-the-electric-arena-2.json) |
+| Zathura | 47324 | [47324-zathura.json](./47324-zathura.json) |
 | Zatikon: Crusades | 52782 | [52782-zatikon-crusades.json](./52782-zatikon-crusades.json) |
 | Zatsugaku Olympic Quiz Part II | 41419 | [41419-zatsugaku-olympic-quiz-part-ii.json](./41419-zatsugaku-olympic-quiz-part-ii.json) |
 | Zatsugaku Olympic Watanabe Wataru-Hen | 232827 | [232827-zatsugaku-olympic-watanabe-wataru-hen.json](./232827-zatsugaku-olympic-watanabe-wataru-hen.json) |
