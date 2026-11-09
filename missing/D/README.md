@@ -5181,6 +5181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Decamped | 157028 | [157028-decamped.json](./157028-decamped.json) |
 | Decanted Sea | 400721 | [400721-decanted-sea.json](./400721-decanted-sea.json) |
 | Decanumber | 261321 | [261321-decanumber.json](./261321-decanumber.json) |
+| Decap Attack | 6067 | [6067-decap-attack.json](./6067-decap-attack.json) |
 | Décapita | 356056 | [356056-decapita.json](./356056-decapita.json) |
 | DecaPolice | 236661 | [236661-decapolice.json](./236661-decapolice.json) |
 | Decarathon | 180515 | [180515-decarathon.json](./180515-decarathon.json) |
