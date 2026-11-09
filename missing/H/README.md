@@ -50,6 +50,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | H.I.V.E. | 201014 | [201014-h-i-v-e.json](./201014-h-i-v-e.json) |
 | H.O.G.S | 296914 | [296914-h-o-g-s.json](./296914-h-o-g-s.json) |
 | H.O.M.E. | 293170 | [293170-h-o-m-e.json](./293170-h-o-m-e.json) |
+| H.U.R.L. | 11680 | [11680-h-u-r-l.json](./11680-h-u-r-l.json) |
 | H.Z.T. | 366091 | [366091-h-z-t.json](./366091-h-z-t.json) |
 | H@ck3r++ | 179191 | [179191-h-ck3r.json](./179191-h-ck3r.json) |
 | H+H=H2 | 395374 | [395374-h-h-h2.json](./395374-h-h-h2.json) |
@@ -659,6 +660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Half-Life: Weapon Edition | 221907 | [221907-half-life-weapon-edition.json](./221907-half-life-weapon-edition.json) |
 | Half-Life: Xen-Warrior | 221808 | [221808-half-life-xen-warrior.json](./221808-half-life-xen-warrior.json) |
 | Half-Life: Zombie Edition | 196734 | [196734-half-life-zombie-edition.json](./196734-half-life-zombie-edition.json) |
+| Half-Line Miami | 11748 | [11748-half-line-miami.json](./11748-half-line-miami.json) |
 | Half-Minute Hero | 21943 | [21943-half-minute-hero.json](./21943-half-minute-hero.json) |
 | Half-Minute Hero: Super Mega Neo Climax | 78458 | [78458-half-minute-hero-super-mega-neo-climax.json](./78458-half-minute-hero-super-mega-neo-climax.json) |
 | Half-Nuked | 196730 | [196730-half-nuked.json](./196730-half-nuked.json) |
@@ -1310,6 +1312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanayaka Nari, Waga Ichizoku Kinema Mosaic | 224447 | [224447-hanayaka-nari-waga-ichizoku-kinema-mosaic.json](./224447-hanayaka-nari-waga-ichizoku-kinema-mosaic.json) |
 | Hanayaka Nari, Waga Ichizoku Modern Nostalgie | 136796 | [136796-hanayaka-nari-waga-ichizoku-modern-nostalgie.json](./136796-hanayaka-nari-waga-ichizoku-modern-nostalgie.json) |
 | Hanayaka Nari, Waga Ichizoku Tasogare Polar Star | 224448 | [224448-hanayaka-nari-waga-ichizoku-tasogare-polar-star.json](./224448-hanayaka-nari-waga-ichizoku-tasogare-polar-star.json) |
+| Hanayamata: Yosakoi Live! | 11638 | [11638-hanayamata-yosakoi-live.json](./11638-hanayamata-yosakoi-live.json) |
 | Hanayoi Romanesque: Ai to Kanashimi - Sore ha Kimi no Tame no Aria | 221609 | [221609-hanayoi-romanesque-ai-to-kanashimi-sore-ha-kimi-no-tame-no-aria.json](./221609-hanayoi-romanesque-ai-to-kanashimi-sore-ha-kimi-no-tame-no-aria.json) |
 | Hanayome: The Sacrificial Bride | 284611 | [284611-hanayome-the-sacrificial-bride.json](./284611-hanayome-the-sacrificial-bride.json) |
 | Hanazakari no Kimitachi e: Boys love you | 238908 | [238908-hanazakari-no-kimitachi-e-boys-love-you.json](./238908-hanazakari-no-kimitachi-e-boys-love-you.json) |
@@ -8043,6 +8046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Haste | 146835 | [146835-highway-haste.json](./146835-highway-haste.json) |
 | Highway Hijinks | 309402 | [309402-highway-hijinks.json](./309402-highway-hijinks.json) |
 | Highway Hopper | 347797 | [347797-highway-hopper.json](./347797-highway-hopper.json) |
+| Highway Hunter | 11723 | [11723-highway-hunter.json](./11723-highway-hunter.json) |
 | Highway Insanity | 107135 | [107135-highway-insanity.json](./107135-highway-insanity.json) |
 | Highway Junkie | 104172 | [104172-highway-junkie.json](./104172-highway-junkie.json) |
 | Highway Legends: Complete DLC Bundle | 317678 | [317678-highway-legends-complete-dlc-bundle.json](./317678-highway-legends-complete-dlc-bundle.json) |
@@ -11571,6 +11575,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover the Edge | 195963 | [195963-hover-the-edge.json](./195963-hover-the-edge.json) |
 | Hover Warz | 321283 | [321283-hover-warz.json](./321283-hover-warz.json) |
 | Hover X Souls | 96226 | [96226-hover-x-souls.json](./96226-hover-x-souls.json) |
+| Hover! | 11733 | [11733-hover.json](./11733-hover.json) |
 | Hoverbear | 296909 | [296909-hoverbear.json](./296909-hoverbear.json) |
 | Hoverbike Joust | 176219 | [176219-hoverbike-joust.json](./176219-hoverbike-joust.json) |
 | Hoverboard Chase | 154081 | [154081-hoverboard-chase.json](./154081-hoverboard-chase.json) |
