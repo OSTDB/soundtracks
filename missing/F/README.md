@@ -6149,6 +6149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Pro Wrestling | 131077 | [131077-fire-pro-wrestling.json](./131077-fire-pro-wrestling.json) |
 | Fire Pro Wrestling | 6407 | [6407-fire-pro-wrestling.json](./6407-fire-pro-wrestling.json) |
 | Fire Pro Wrestling 2 | 6408 | [6408-fire-pro-wrestling-2.json](./6408-fire-pro-wrestling-2.json) |
+| Fire Pro Wrestling 2nd Bout | 57795 | [57795-fire-pro-wrestling-2nd-bout.json](./57795-fire-pro-wrestling-2nd-bout.json) |
 | Fire Pro Wrestling D | 46364 | [46364-fire-pro-wrestling-d.json](./46364-fire-pro-wrestling-d.json) |
 | Fire Pro Wrestling for WonderSwan | 37511 | [37511-fire-pro-wrestling-for-wonderswan.json](./37511-fire-pro-wrestling-for-wonderswan.json) |
 | Fire Pro Wrestling G | 45074 | [45074-fire-pro-wrestling-g.json](./45074-fire-pro-wrestling-g.json) |
@@ -8975,6 +8976,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flying Shark | 260468 | [260468-flying-shark.json](./260468-flying-shark.json) |
 | Flying Shark | 377902 | [377902-flying-shark.json](./377902-flying-shark.json) |
 | Flying Shot | 127766 | [127766-flying-shot.json](./127766-flying-shot.json) |
+| Flying Slime | 57783 | [57783-flying-slime.json](./57783-flying-slime.json) |
 | Flying Slime! | 120137 | [120137-flying-slime.json](./120137-flying-slime.json) |
 | Flying Sofa Simulator | 169350 | [169350-flying-sofa-simulator.json](./169350-flying-sofa-simulator.json) |
 | Flying Soldiers | 146863 | [146863-flying-soldiers.json](./146863-flying-soldiers.json) |
