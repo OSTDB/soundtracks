@@ -715,6 +715,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fairy Magic Skillz Tournaments | 232487 | [232487-fairy-magic-skillz-tournaments.json](./232487-fairy-magic-skillz-tournaments.json) |
 | Fairy Mahjong Premium - The New 3D Majong | 103087 | [103087-fairy-mahjong-premium-the-new-3d-majong.json](./103087-fairy-mahjong-premium-the-new-3d-majong.json) |
 | Fairy Massage | 347664 | [347664-fairy-massage.json](./347664-fairy-massage.json) |
+| Fairy Nights | 71129 | [71129-fairy-nights.json](./71129-fairy-nights.json) |
 | Fairy Nook | 364627 | [364627-fairy-nook.json](./364627-fairy-nook.json) |
 | Fairy of Sit-ups | 104418 | [104418-fairy-of-sit-ups.json](./104418-fairy-of-sit-ups.json) |
 | Fairy of the treasures | 81823 | [81823-fairy-of-the-treasures.json](./81823-fairy-of-the-treasures.json) |
@@ -4259,6 +4260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fibble: Flick 'n' Roll | 65220 | [65220-fibble-flick-n-roll.json](./65220-fibble-flick-n-roll.json) |
 | Fibbler.io | 282568 | [282568-fibbler-io.json](./282568-fibbler-io.json) |
 | Fibby.io | 139718 | [139718-fibby-io.json](./139718-fibby-io.json) |
+| Fiber Tree | 71267 | [71267-fiber-tree.json](./71267-fiber-tree.json) |
 | Fiber Twig | 135101 | [135101-fiber-twig.json](./135101-fiber-twig.json) |
 | Fiber Twig 2: Restoration of Magic Garden | 58183 | [58183-fiber-twig-2-restoration-of-magic-garden.json](./58183-fiber-twig-2-restoration-of-magic-garden.json) |
 | Fiber Twig: Midnight Puzzle | 30701 | [30701-fiber-twig-midnight-puzzle.json](./30701-fiber-twig-midnight-puzzle.json) |
@@ -5935,6 +5937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Boy | 157810 | [157810-fire-boy.json](./157810-fire-boy.json) |
 | Fire Breakout | 264735 | [264735-fire-breakout.json](./264735-fire-breakout.json) |
 | Fire Breathers | 243935 | [243935-fire-breathers.json](./243935-fire-breathers.json) |
+| Fire Brigade | 71140 | [71140-fire-brigade.json](./71140-fire-brigade.json) |
 | Fire Burning City | 346676 | [346676-fire-burning-city.json](./346676-fire-burning-city.json) |
 | Fire Chat: K-BulMung | 372216 | [372216-fire-chat-k-bulmung.json](./372216-fire-chat-k-bulmung.json) |
 | Fire Chief | 264441 | [264441-fire-chief.json](./264441-fire-chief.json) |
@@ -8218,6 +8221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlipPix Art - Civilizations | 107561 | [107561-flippix-art-civilizations.json](./107561-flippix-art-civilizations.json) |
 | FlipPix Art - Dollhouse | 107118 | [107118-flippix-art-dollhouse.json](./107118-flippix-art-dollhouse.json) |
 | FlipPix Jigsaw - Dragons | 100517 | [100517-flippix-jigsaw-dragons.json](./100517-flippix-jigsaw-dragons.json) |
+| FlipPix Jigsaw - Notes | 71256 | [71256-flippix-jigsaw-notes.json](./71256-flippix-jigsaw-notes.json) |
 | FlipPix Jigsaw - Retro | 91997 | [91997-flippix-jigsaw-retro.json](./91997-flippix-jigsaw-retro.json) |
 | FlipPix Jigsaw - Spicy | 96047 | [96047-flippix-jigsaw-spicy.json](./96047-flippix-jigsaw-spicy.json) |
 | FlipPix Jigsaw - Time | 109231 | [109231-flippix-jigsaw-time.json](./109231-flippix-jigsaw-time.json) |
@@ -13176,6 +13180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frqncy | 105448 | [105448-frqncy.json](./105448-frqncy.json) |
 | Fru | 19917 | [19917-fru.json](./19917-fru.json) |
 | Fruboom | 315706 | [315706-fruboom.json](./315706-fruboom.json) |
+| Fructus | 71143 | [71143-fructus.json](./71143-fructus.json) |
 | Fruit | 134919 | [134919-fruit.json](./134919-fruit.json) |
 | Fruit | 247254 | [247254-fruit.json](./247254-fruit.json) |
 | Fruit 66 | 251903 | [251903-fruit-66.json](./251903-fruit-66.json) |
