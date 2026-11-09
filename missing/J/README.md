@@ -618,6 +618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jane's Combat Simulations: Advanced Tactical Fighters - Nato Fighters | 71211 | [71211-janes-combat-simulations-advanced-tactical-fighters-nato-fighters.json](./71211-janes-combat-simulations-advanced-tactical-fighters-nato-fighters.json) |
 | Jane's Combat Simulations: Advanced Tactical Fighters Gold | 134150 | [134150-janes-combat-simulations-advanced-tactical-fighters-gold.json](./134150-janes-combat-simulations-advanced-tactical-fighters-gold.json) |
 | Jane's Combat Simulations: AH-64D Longbow | 73095 | [73095-janes-combat-simulations-ah-64d-longbow.json](./73095-janes-combat-simulations-ah-64d-longbow.json) |
+| Jane's Combat Simulations: Air Superiority Collection | 68790 | [68790-janes-combat-simulations-air-superiority-collection.json](./68790-janes-combat-simulations-air-superiority-collection.json) |
 | Jane's Combat Simulations: Attack Pack | 78022 | [78022-janes-combat-simulations-attack-pack.json](./78022-janes-combat-simulations-attack-pack.json) |
 | Jane's Combat Simulations: Attack Squadron | 100091 | [100091-janes-combat-simulations-attack-squadron.json](./100091-janes-combat-simulations-attack-squadron.json) |
 | Jane's Combat Simulations: F-15 | 73498 | [73498-janes-combat-simulations-f-15.json](./73498-janes-combat-simulations-f-15.json) |
@@ -1352,6 +1353,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jetfighter II | 73391 | [73391-jetfighter-ii.json](./73391-jetfighter-ii.json) |
 | JetFighter II: Advanced Mission Disk | 84260 | [84260-jetfighter-ii-advanced-mission-disk.json](./84260-jetfighter-ii-advanced-mission-disk.json) |
 | JetFighter II: Advanced Tactical Fighter | 50489 | [50489-jetfighter-ii-advanced-tactical-fighter.json](./50489-jetfighter-ii-advanced-tactical-fighter.json) |
+| Jetfighter III | 68789 | [68789-jetfighter-iii.json](./68789-jetfighter-iii.json) |
 | JetFighter III Classic | 78053 | [78053-jetfighter-iii-classic.json](./78053-jetfighter-iii-classic.json) |
 | JetFighter III Enhanced Campaign CD | 79565 | [79565-jetfighter-iii-enhanced-campaign-cd.json](./79565-jetfighter-iii-enhanced-campaign-cd.json) |
 | Jetfighter IV: Fortress America | 74105 | [74105-jetfighter-iv-fortress-america.json](./74105-jetfighter-iv-fortress-america.json) |
@@ -1533,12 +1535,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Mines | 146432 | [146432-jewel-mines.json](./146432-jewel-mines.json) |
 | Jewel Monsters | 213811 | [213811-jewel-monsters.json](./213811-jewel-monsters.json) |
 | Jewel of Arabia: Dreamers | 139124 | [139124-jewel-of-arabia-dreamers.json](./139124-jewel-of-arabia-dreamers.json) |
+| Jewel of Atlantis | 68210 | [68210-jewel-of-atlantis.json](./68210-jewel-of-atlantis.json) |
 | Jewel of Clementia | 248668 | [248668-jewel-of-clementia.json](./248668-jewel-of-clementia.json) |
 | Jewel of Kings | 238933 | [238933-jewel-of-kings.json](./238933-jewel-of-kings.json) |
 | Jewel of Kings | 98743 | [98743-jewel-of-kings.json](./98743-jewel-of-kings.json) |
 | Jewel of Kuru | 158087 | [158087-jewel-of-kuru.json](./158087-jewel-of-kuru.json) |
 | Jewel of Live | 151629 | [151629-jewel-of-live.json](./151629-jewel-of-live.json) |
 | Jewel of Live II | 151630 | [151630-jewel-of-live-ii.json](./151630-jewel-of-live-ii.json) |
+| Jewel of WonderLand | 68795 | [68795-jewel-of-wonderland.json](./68795-jewel-of-wonderland.json) |
 | Jewel Pet: Cafe de Mahou no Cooking! | 60547 | [60547-jewel-pet-cafe-de-mahou-no-cooking.json](./60547-jewel-pet-cafe-de-mahou-no-cooking.json) |
 | Jewel Pet: Mahou de Oshare ni Dance * Deco! | 60543 | [60543-jewel-pet-mahou-de-oshare-ni-dance-deco.json](./60543-jewel-pet-mahou-de-oshare-ni-dance-deco.json) |
 | Jewel Pet: Mahou no Rhythm de Ieie! | 60546 | [60546-jewel-pet-mahou-no-rhythm-de-ieie.json](./60546-jewel-pet-mahou-no-rhythm-de-ieie.json) |
