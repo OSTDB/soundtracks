@@ -2615,6 +2615,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waterworld: The Quest for Dry Land | 64847 | [64847-waterworld-the-quest-for-dry-land.json](./64847-waterworld-the-quest-for-dry-land.json) |
 | Wathan Games | 287474 | [287474-wathan-games.json](./287474-wathan-games.json) |
 | Wathitdew Record: Game Studio - Battlefield | 254638 | [254638-wathitdew-record-game-studio-battlefield.json](./254638-wathitdew-record-game-studio-battlefield.json) |
+| Watkins | 72387 | [72387-watkins.json](./72387-watkins.json) |
 | Watris | 306037 | [306037-watris.json](./306037-watris.json) |
 | Watson | 276150 | [276150-watson.json](./276150-watson.json) |
 | Watson's Watch | 33477 | [33477-watsons-watch.json](./33477-watsons-watch.json) |
