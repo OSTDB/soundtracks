@@ -9610,6 +9610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager Classic | 23223 | [23223-football-manager-classic.json](./23223-football-manager-classic.json) |
 | Football Manager Handheld 2007 | 269427 | [269427-football-manager-handheld-2007.json](./269427-football-manager-handheld-2007.json) |
 | Football Manager Handheld 2008 | 269428 | [269428-football-manager-handheld-2008.json](./269428-football-manager-handheld-2008.json) |
+| Football Manager Handheld 2009 | 38447 | [38447-football-manager-handheld-2009.json](./38447-football-manager-handheld-2009.json) |
 | Football Manager Handheld 2010 | 52218 | [52218-football-manager-handheld-2010.json](./52218-football-manager-handheld-2010.json) |
 | Football Manager Handheld 2011 | 42726 | [42726-football-manager-handheld-2011.json](./42726-football-manager-handheld-2011.json) |
 | Football Manager Handheld 2012 | 269429 | [269429-football-manager-handheld-2012.json](./269429-football-manager-handheld-2012.json) |
