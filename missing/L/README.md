@@ -2319,6 +2319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Leap Tactics | 357817 | [357817-leap-tactics.json](./357817-leap-tactics.json) |
 | Leap to the Top+ | 267077 | [267077-leap-to-the-top.json](./267077-leap-to-the-top.json) |
 | Leap up no Justu: Double | 278410 | [278410-leap-up-no-justu-double.json](./278410-leap-up-no-justu-double.json) |
+| Leap Up no jutsu | 30384 | [30384-leap-up-no-jutsu.json](./30384-leap-up-no-jutsu.json) |
 | Leap Year | 302965 | [302965-leap-year.json](./302965-leap-year.json) |
 | Leap Year: March | 331790 | [331790-leap-year-march.json](./331790-leap-year-march.json) |
 | Leap: A Dragon's Adventure | 392788 | [392788-leap-a-dragons-adventure.json](./392788-leap-a-dragons-adventure.json) |
@@ -5564,6 +5565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Line of Defense | 65362 | [65362-line-of-defense.json](./65362-line-of-defense.json) |
 | Line of Defense MMO | 16893 | [16893-line-of-defense-mmo.json](./16893-line-of-defense-mmo.json) |
 | Line of Defense Tactics | 16894 | [16894-line-of-defense-tactics.json](./16894-line-of-defense-tactics.json) |
+| Line of Defense Tactics | 30375 | [30375-line-of-defense-tactics.json](./30375-line-of-defense-tactics.json) |
 | Line of Defense Tactics Prime | 197735 | [197735-line-of-defense-tactics-prime.json](./197735-line-of-defense-tactics-prime.json) |
 | Line of Fire | 12178 | [12178-line-of-fire.json](./12178-line-of-fire.json) |
 | Line of Fire | 19487 | [19487-line-of-fire.json](./19487-line-of-fire.json) |
