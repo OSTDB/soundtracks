@@ -7718,6 +7718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goth Dating Sim 2022 | 192221 | [192221-goth-dating-sim-2022.json](./192221-goth-dating-sim-2022.json) |
 | Goth Obsession | 401266 | [401266-goth-obsession.json](./401266-goth-obsession.json) |
 | Gotha | 92102 | [92102-gotha.json](./92102-gotha.json) |
+| Gotham by Gaslight | 19829 | [19829-gotham-by-gaslight.json](./19829-gotham-by-gaslight.json) |
 | Gotham City Impostors: Pretty Poison | 170876 | [170876-gotham-city-impostors-pretty-poison.json](./170876-gotham-city-impostors-pretty-poison.json) |
 | Gotham Gangsta | 29930 | [29930-gotham-gangsta.json](./29930-gotham-gangsta.json) |
 | Gotham Knights: Collector's Edition | 201777 | [201777-gotham-knights-collectors-edition.json](./201777-gotham-knights-collectors-edition.json) |
@@ -9690,6 +9691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grim Dragons | 32825 | [32825-grim-dragons.json](./32825-grim-dragons.json) |
 | Grim Dungeon | 301103 | [301103-grim-dungeon.json](./301103-grim-dungeon.json) |
 | Grim Ember | 149524 | [149524-grim-ember.json](./149524-grim-ember.json) |
+| Grim Facade 7: Monster In Disguise | 19895 | [19895-grim-facade-7-monster-in-disguise.json](./19895-grim-facade-7-monster-in-disguise.json) |
 | Grim Facade: A Wealth of Betrayal | 140214 | [140214-grim-facade-a-wealth-of-betrayal.json](./140214-grim-facade-a-wealth-of-betrayal.json) |
 | Grim Facade: A Wealth of Betrayal - Collector's Edition | 90154 | [90154-grim-facade-a-wealth-of-betrayal-collectors-edition.json](./90154-grim-facade-a-wealth-of-betrayal-collectors-edition.json) |
 | Grim Facade: Hidden Sins | 104659 | [104659-grim-facade-hidden-sins.json](./104659-grim-facade-hidden-sins.json) |
