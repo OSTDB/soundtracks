@@ -1328,6 +1328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daredevil Crank Canyon | 413510 | [413510-daredevil-crank-canyon.json](./413510-daredevil-crank-canyon.json) |
 | Daredevil Dave 2: Motorcycle Mayhem! | 175432 | [175432-daredevil-dave-2-motorcycle-mayhem.json](./175432-daredevil-dave-2-motorcycle-mayhem.json) |
 | Daredevil Dave: Motorcycle Stuntman! | 278323 | [278323-daredevil-dave-motorcycle-stuntman.json](./278323-daredevil-dave-motorcycle-stuntman.json) |
+| Daredevil Dennis | 37218 | [37218-daredevil-dennis.json](./37218-daredevil-dennis.json) |
 | Daredevil Dynamite | 108504 | [108504-daredevil-dynamite.json](./108504-daredevil-dynamite.json) |
 | Daredevil Rider | 255746 | [255746-daredevil-rider.json](./255746-daredevil-rider.json) |
 | Daredevil: The Man Without Fear | 65943 | [65943-daredevil-the-man-without-fear.json](./65943-daredevil-the-man-without-fear.json) |
@@ -7839,6 +7840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny 2: Beyond Light - Season of the Lost | 165316 | [165316-destiny-2-beyond-light-season-of-the-lost.json](./165316-destiny-2-beyond-light-season-of-the-lost.json) |
 | Destiny 2: Beyond Light - Season of the Splicer | 147058 | [147058-destiny-2-beyond-light-season-of-the-splicer.json](./147058-destiny-2-beyond-light-season-of-the-splicer.json) |
 | Destiny 2: Black Armory | 112408 | [112408-destiny-2-black-armory.json](./112408-destiny-2-black-armory.json) |
+| Destiny 2: Collector's Edition | 37213 | [37213-destiny-2-collectors-edition.json](./37213-destiny-2-collectors-edition.json) |
 | Destiny 2: Digital Deluxe Edition | 52887 | [52887-destiny-2-digital-deluxe-edition.json](./52887-destiny-2-digital-deluxe-edition.json) |
 | Destiny 2: Echoes | 305328 | [305328-destiny-2-echoes.json](./305328-destiny-2-echoes.json) |
 | Destiny 2: Echoes Silver Bundle | 304414 | [304414-destiny-2-echoes-silver-bundle.json](./304414-destiny-2-echoes-silver-bundle.json) |
@@ -14078,6 +14080,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon Waku-waku Sekai Isshuu Game: Asonde Oboeru Chizu Kokki | 327575 | [327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json](./327575-doraemon-waku-waku-sekai-isshuu-game-asonde-oboeru-chizu-kokki.json) |
 | Doraemon Wii: Himitsu Dougu-ou Ketteisen! | 4818 | [4818-doraemon-wii-himitsu-dougu-ou-ketteisen.json](./4818-doraemon-wii-himitsu-dougu-ou-ketteisen.json) |
 | Doraemon Wii: Himitsu Douguou Ketteisen! | 91773 | [91773-doraemon-wii-himitsu-douguou-ketteisen.json](./91773-doraemon-wii-himitsu-douguou-ketteisen.json) |
+| Doraemon Yuujou Densetsu | 37224 | [37224-doraemon-yuujou-densetsu.json](./37224-doraemon-yuujou-densetsu.json) |
 | Doraemon: Aruke Aruke Labyrinth | 91777 | [91777-doraemon-aruke-aruke-labyrinth.json](./91777-doraemon-aruke-aruke-labyrinth.json) |
 | Doraemon: Doraemon no Nandemo Quiz Pocket | 293953 | [293953-doraemon-doraemon-no-nandemo-quiz-pocket.json](./293953-doraemon-doraemon-no-nandemo-quiz-pocket.json) |
 | Doraemon: Dorayaki House | 310670 | [310670-doraemon-dorayaki-house.json](./310670-doraemon-dorayaki-house.json) |
@@ -18518,6 +18521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke War!! | 262170 | [262170-duke-war.json](./262170-duke-war.json) |
 | Duke: Nuclear Winter | 18498 | [18498-duke-nuclear-winter.json](./18498-duke-nuclear-winter.json) |
 | Duke: The Apocalypse | 35522 | [35522-duke-the-apocalypse.json](./35522-duke-the-apocalypse.json) |
+| Duke: The Apocalypse 2 | 37266 | [37266-duke-the-apocalypse-2.json](./37266-duke-the-apocalypse-2.json) |
 | Duke!Zone II | 270750 | [270750-duke-zone-ii.json](./270750-duke-zone-ii.json) |
 | Duke2Reconstructed | 360331 | [360331-duke2reconstructed.json](./360331-duke2reconstructed.json) |
 | Dukedom | 228534 | [228534-dukedom.json](./228534-dukedom.json) |
