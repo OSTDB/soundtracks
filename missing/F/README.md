@@ -2483,6 +2483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Farland Symphony | 61935 | [61935-farland-symphony.json](./61935-farland-symphony.json) |
 | Farlanders | 144018 | [144018-farlanders.json](./144018-farlanders.json) |
 | Farlands | 236859 | [236859-farlands.json](./236859-farlands.json) |
+| Farlands | 58346 | [58346-farlands.json](./58346-farlands.json) |
 | Farlands Journey | 301337 | [301337-farlands-journey.json](./301337-farlands-journey.json) |
 | Farlands: First Landing | 244124 | [244124-farlands-first-landing.json](./244124-farlands-first-landing.json) |
 | Farlands: Tiny Harvest | 378287 | [378287-farlands-tiny-harvest.json](./378287-farlands-tiny-harvest.json) |
@@ -7460,6 +7461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flagster | 29073 | [29073-flagster.json](./29073-flagster.json) |
 | Flail | 402415 | [402415-flail.json](./402415-flail.json) |
 | Flail Faster | 211823 | [211823-flail-faster.json](./211823-flail-faster.json) |
+| Flail Rider | 58365 | [58365-flail-rider.json](./58365-flail-rider.json) |
 | Flail Your Arm, Hit the Ball: Return of Kusogaki | 338114 | [338114-flail-your-arm-hit-the-ball-return-of-kusogaki.json](./338114-flail-your-arm-hit-the-ball-return-of-kusogaki.json) |
 | Flailbo | 414072 | [414072-flailbo.json](./414072-flailbo.json) |
 | Flailing Limbs Bundle | 107266 | [107266-flailing-limbs-bundle.json](./107266-flailing-limbs-bundle.json) |
@@ -9219,6 +9221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Followed by Death | 288125 | [288125-followed-by-death.json](./288125-followed-by-death.json) |
 | Follower | 383354 | [383354-follower.json](./383354-follower.json) |
 | Follower A | 178510 | [178510-follower-a.json](./178510-follower-a.json) |
+| Follower Z | 58334 | [58334-follower-z.json](./58334-follower-z.json) |
 | Follower:Sacrifice | 99006 | [99006-follower-sacrifice.json](./99006-follower-sacrifice.json) |
 | Followers of Krow | 346866 | [346866-followers-of-krow.json](./346866-followers-of-krow.json) |
 | Following Seas | 293686 | [293686-following-seas.json](./293686-following-seas.json) |
@@ -12485,6 +12488,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frightence | 193299 | [193299-frightence.json](./193299-frightence.json) |
 | Frightened | 216161 | [216161-frightened.json](./216161-frightened.json) |
 | Frightened Beetles | 98696 | [98696-frightened-beetles.json](./98696-frightened-beetles.json) |
+| Frightened Pixels 2 | 58340 | [58340-frightened-pixels-2.json](./58340-frightened-pixels-2.json) |
 | Frightening Monastery | 340259 | [340259-frightening-monastery.json](./340259-frightening-monastery.json) |
 | Frightmare | 14079 | [14079-frightmare.json](./14079-frightmare.json) |
 | Frights | 310256 | [310256-frights.json](./310256-frights.json) |
