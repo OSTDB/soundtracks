@@ -2337,6 +2337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vikings: Wolves of Midgard | 21429 | [21429-vikings-wolves-of-midgard.json](./21429-vikings-wolves-of-midgard.json) |
 | VikingScape | 269197 | [269197-vikingscape.json](./269197-vikingscape.json) |
 | VikingStory | 149418 | [149418-vikingstory.json](./149418-vikingstory.json) |
+| Viktaram | 30343 | [30343-viktaram.json](./30343-viktaram.json) |
 | Viktor | 17328 | [17328-viktor.json](./17328-viktor.json) |
 | Viktor Crysworth | 132731 | [132731-viktor-crysworth.json](./132731-viktor-crysworth.json) |
 | Viktor, a Steampunk Adventure | 30670 | [30670-viktor-a-steampunk-adventure.json](./30670-viktor-a-steampunk-adventure.json) |
@@ -3497,6 +3498,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Void Protocol | 294505 | [294505-void-protocol.json](./294505-void-protocol.json) |
 | Void Protocol | 346634 | [346634-void-protocol.json](./346634-void-protocol.json) |
 | Void Protocol | 377288 | [377288-void-protocol.json](./377288-void-protocol.json) |
+| Void Pyramid | 30302 | [30302-void-pyramid.json](./30302-void-pyramid.json) |
 | Void Racer: Extreme | 174561 | [174561-void-racer-extreme.json](./174561-void-racer-extreme.json) |
 | Void Raid | 384043 | [384043-void-raid.json](./384043-void-raid.json) |
 | Void Raider | 362041 | [362041-void-raider.json](./362041-void-raider.json) |
@@ -3867,6 +3869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vox Populi: Spain 2023 | 258042 | [258042-vox-populi-spain-2023.json](./258042-vox-populi-spain-2023.json) |
 | Vox Populi: USA 2024 | 309464 | [309464-vox-populi-usa-2024.json](./309464-vox-populi-usa-2024.json) |
 | Vox Siege | 216665 | [216665-vox-siege.json](./216665-vox-siege.json) |
+| Vox-L | 30964 | [30964-vox-l.json](./30964-vox-l.json) |
 | Voxabular P.I: Penny's First Case | 214263 | [214263-voxabular-p-i-pennys-first-case.json](./214263-voxabular-p-i-pennys-first-case.json) |
 | Voxatron | 51288 | [51288-voxatron.json](./51288-voxatron.json) |
 | Voxel - 3D Color by Number | 95094 | [95094-voxel-3d-color-by-number.json](./95094-voxel-3d-color-by-number.json) |
@@ -4227,6 +4230,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Super Sports: Table Tennis | 170867 | [170867-vr-super-sports-table-tennis.json](./170867-vr-super-sports-table-tennis.json) |
 | VR Sushi Bar | 36974 | [36974-vr-sushi-bar.json](./36974-vr-sushi-bar.json) |
 | VR Sweet Heart | 193450 | [193450-vr-sweet-heart.json](./193450-vr-sweet-heart.json) |
+| VR Swing Table Tennis Oculus | 30992 | [30992-vr-swing-table-tennis-oculus.json](./30992-vr-swing-table-tennis-oculus.json) |
 | VR T72 Battle in Afghanistan | 236920 | [236920-vr-t72-battle-in-afghanistan.json](./236920-vr-t72-battle-in-afghanistan.json) |
 | VR Table Sports | 50548 | [50548-vr-table-sports.json](./50548-vr-table-sports.json) |
 | VR Tennis | 247042 | [247042-vr-tennis.json](./247042-vr-tennis.json) |
