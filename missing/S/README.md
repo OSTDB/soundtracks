@@ -2073,6 +2073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sarab: Duji Tower | 30637 | [30637-sarab-duji-tower.json](./30637-sarab-duji-tower.json) |
 | Saraba Gekiyaki: Encore | 226110 | [226110-saraba-gekiyaki-encore.json](./226110-saraba-gekiyaki-encore.json) |
 | Saraba Kegoorushima | 411632 | [411632-saraba-kegoorushima.json](./411632-saraba-kegoorushima.json) |
+| Saracen | 39744 | [39744-saracen.json](./39744-saracen.json) |
 | Sarah & Duck - Day at the Park | 102505 | [102505-sarah-and-duck-day-at-the-park.json](./102505-sarah-and-duck-day-at-the-park.json) |
 | Sarah & Duck: The Big Sleepover | 102524 | [102524-sarah-and-duck-the-big-sleepover.json](./102524-sarah-and-duck-the-big-sleepover.json) |
 | Sarah and the Lonely Key | 218967 | [218967-sarah-and-the-lonely-key.json](./218967-sarah-and-the-lonely-key.json) |
@@ -20466,6 +20467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Invaders | 84891 | [84891-space-invaders.json](./84891-space-invaders.json) |
 | Space Invaders | 95292 | [95292-space-invaders.json](./95292-space-invaders.json) |
 | Space Invaders '91 | 46262 | [46262-space-invaders-91.json](./46262-space-invaders-91.json) |
+| Space Invaders '95: The Attack of Lunar Loonies | 39725 | [39725-space-invaders-95-the-attack-of-lunar-loonies.json](./39725-space-invaders-95-the-attack-of-lunar-loonies.json) |
 | Space Invaders Anniversary | 69888 | [69888-space-invaders-anniversary.json](./69888-space-invaders-anniversary.json) |
 | Space Invaders by Copper France | 275223 | [275223-space-invaders-by-copper-france.json](./275223-space-invaders-by-copper-france.json) |
 | Space Invaders Collection | 64070 | [64070-space-invaders-collection.json](./64070-space-invaders-collection.json) |
@@ -21720,6 +21722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Synergy | 295463 | [295463-spectral-synergy.json](./295463-spectral-synergy.json) |
 | Spectral Tower | 281680 | [281680-spectral-tower.json](./281680-spectral-tower.json) |
 | Spectral Tower II | 281681 | [281681-spectral-tower-ii.json](./281681-spectral-tower-ii.json) |
+| Spectral vs. Generation | 39702 | [39702-spectral-vs-generation.json](./39702-spectral-vs-generation.json) |
 | SpectralClimb | 271281 | [271281-spectralclimb.json](./271281-spectralclimb.json) |
 | Spectralia | 312735 | [312735-spectralia.json](./312735-spectralia.json) |
 | Spectre | 159226 | [159226-spectre.json](./159226-spectre.json) |
@@ -25689,6 +25692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Return of the Jedi | 12842 | [12842-star-wars-return-of-the-jedi.json](./12842-star-wars-return-of-the-jedi.json) |
 | Star Wars: Return of the Jedi - Death Star Battle | 10204 | [10204-star-wars-return-of-the-jedi-death-star-battle.json](./10204-star-wars-return-of-the-jedi-death-star-battle.json) |
 | Star Wars: Revenge of the Sith | 220263 | [220263-star-wars-revenge-of-the-sith.json](./220263-star-wars-revenge-of-the-sith.json) |
+| Star Wars: Rivals | 39751 | [39751-star-wars-rivals.json](./39751-star-wars-rivals.json) |
 | Star Wars: Rogue Leaders - Rogue Squadron Wii | 261815 | [261815-star-wars-rogue-leaders-rogue-squadron-wii.json](./261815-star-wars-rogue-leaders-rogue-squadron-wii.json) |
 | Star Wars: Rogue Squadron II - Rogue Leader | 4181 | [4181-star-wars-rogue-squadron-ii-rogue-leader.json](./4181-star-wars-rogue-squadron-ii-rogue-leader.json) |
 | Star Wars: Rogue Squadron III - Rebel Strike | 4182 | [4182-star-wars-rogue-squadron-iii-rebel-strike.json](./4182-star-wars-rogue-squadron-iii-rebel-strike.json) |
