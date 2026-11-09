@@ -17519,6 +17519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solomon no Kagi: Oujo Rihita no Namida | 46127 | [46127-solomon-no-kagi-oujo-rihita-no-namida.json](./46127-solomon-no-kagi-oujo-rihita-no-namida.json) |
 | Solomon Program | 128357 | [128357-solomon-program.json](./128357-solomon-program.json) |
 | Solomon Snow: First Contact | 207647 | [207647-solomon-snow-first-contact.json](./207647-solomon-snow-first-contact.json) |
+| Solomon's Boneyard | 22924 | [22924-solomons-boneyard.json](./22924-solomons-boneyard.json) |
 | Solomon's Boneyard: Hideous Retro Edition | 407175 | [407175-solomons-boneyard-hideous-retro-edition.json](./407175-solomons-boneyard-hideous-retro-edition.json) |
 | Solomon's Box | 183206 | [183206-solomons-box.json](./183206-solomons-box.json) |
 | Solomon's Keep | 132812 | [132812-solomons-keep.json](./132812-solomons-keep.json) |
@@ -21452,6 +21453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spare | 186109 | [186109-spare.json](./186109-spare.json) |
 | Spare Change | 23869 | [23869-spare-change.json](./23869-spare-change.json) |
 | Spare Heart | 340549 | [340549-spare-heart.json](./340549-spare-heart.json) |
+| Spare Parts | 22967 | [22967-spare-parts.json](./22967-spare-parts.json) |
 | Spare Parts: Episode 1 | 162854 | [162854-spare-parts-episode-1.json](./162854-spare-parts-episode-1.json) |
 | Spare Parts: Episode 2 | 162855 | [162855-spare-parts-episode-2.json](./162855-spare-parts-episode-2.json) |
 | Spare Teeth VR | 116203 | [116203-spare-teeth-vr.json](./116203-spare-teeth-vr.json) |
@@ -34804,6 +34806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Yum Yum 2 | 280052 | [280052-super-yum-yum-2.json](./280052-super-yum-yum-2.json) |
 | Super Yum Yum 3 | 23266 | [23266-super-yum-yum-3.json](./23266-super-yum-yum-3.json) |
 | Super Yum Yum Adventure | 65092 | [65092-super-yum-yum-adventure.json](./65092-super-yum-yum-adventure.json) |
+| Super Yum Yum Puzzle Adventures | 23359 | [23359-super-yum-yum-puzzle-adventures.json](./23359-super-yum-yum-puzzle-adventures.json) |
 | Super Zangyura | 151652 | [151652-super-zangyura.json](./151652-super-zangyura.json) |
 | Super Zaxxon | 22696 | [22696-super-zaxxon.json](./22696-super-zaxxon.json) |
 | Super Zeek | 245766 | [245766-super-zeek.json](./245766-super-zeek.json) |
