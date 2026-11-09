@@ -5139,6 +5139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Out Of Shapes | 274795 | [274795-out-of-shapes.json](./274795-out-of-shapes.json) |
 | Out of Sight | 199126 | [199126-out-of-sight.json](./199126-out-of-sight.json) |
 | Out of Sight | 312565 | [312565-out-of-sight.json](./312565-out-of-sight.json) |
+| Out of Sight | 67447 | [67447-out-of-sight.json](./67447-out-of-sight.json) |
 | Out of Sight VR | 335132 | [335132-out-of-sight-vr.json](./335132-out-of-sight-vr.json) |
 | Out of Sight: Stage Fright | 387593 | [387593-out-of-sight-stage-fright.json](./387593-out-of-sight-stage-fright.json) |
 | Out of Skull | 334334 | [334334-out-of-skull.json](./334334-out-of-skull.json) |
