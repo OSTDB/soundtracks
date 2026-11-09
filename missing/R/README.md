@@ -2136,6 +2136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RasterFire | 412570 | [412570-rasterfire.json](./412570-rasterfire.json) |
 | Rasternauts | 134965 | [134965-rasternauts.json](./134965-rasternauts.json) |
 | Rastignac: Wastelands | 302895 | [302895-rastignac-wastelands.json](./302895-rastignac-wastelands.json) |
+| Rasty Pelican | 75308 | [75308-rasty-pelican.json](./75308-rasty-pelican.json) |
 | Rasvyat Nuclear Power Station | 292465 | [292465-rasvyat-nuclear-power-station.json](./292465-rasvyat-nuclear-power-station.json) |
 | Rat Arena | 106585 | [106585-rat-arena.json](./106585-rat-arena.json) |
 | Rat Attack! | 3415 | [3415-rat-attack.json](./3415-rat-attack.json) |
@@ -3573,6 +3574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rebound | 16977 | [16977-rebound.json](./16977-rebound.json) |
 | Rebound | 209797 | [209797-rebound.json](./209797-rebound.json) |
 | Rebound | 366547 | [366547-rebound.json](./366547-rebound.json) |
+| Rebound Arena | 75347 | [75347-rebound-arena.json](./75347-rebound-arena.json) |
 | Rebound Ball | 127222 | [127222-rebound-ball.json](./127222-rebound-ball.json) |
 | Rebound Balls | 240210 | [240210-rebound-balls.json](./240210-rebound-balls.json) |
 | Rebound Dodgeball Evolved | 117181 | [117181-rebound-dodgeball-evolved.json](./117181-rebound-dodgeball-evolved.json) |
@@ -5436,6 +5438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reprocessing | 399250 | [399250-reprocessing.json](./399250-reprocessing.json) |
 | Reproduction Man | 31755 | [31755-reproduction-man.json](./31755-reproduction-man.json) |
 | reProgram | 128633 | [128633-reprogram.json](./128633-reprogram.json) |
+| Reprogram | 75344 | [75344-reprogram.json](./75344-reprogram.json) |
 | Repterra | 289659 | [289659-repterra.json](./289659-repterra.json) |
 | Reptile Breeder | 203505 | [203505-reptile-breeder.json](./203505-reptile-breeder.json) |
 | Reptile Chronicles | 275980 | [275980-reptile-chronicles.json](./275980-reptile-chronicles.json) |
@@ -9389,6 +9392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robotville: Dawn of Robot AI | 327961 | [327961-robotville-dawn-of-robot-ai.json](./327961-robotville-dawn-of-robot-ai.json) |
 | RobotWar | 25129 | [25129-robotwar.json](./25129-robotwar.json) |
 | Robotz | 405876 | [405876-robotz.json](./405876-robotz.json) |
+| RoboVDino | 75314 | [75314-robovdino.json](./75314-robovdino.json) |
 | Robovenger | 192421 | [192421-robovenger.json](./192421-robovenger.json) |
 | RoboVirus | 84288 | [84288-robovirus.json](./84288-robovirus.json) |
 | RoboWar | 171242 | [171242-robowar.json](./171242-robowar.json) |
@@ -10355,6 +10359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rogue Sentry | 142987 | [142987-rogue-sentry.json](./142987-rogue-sentry.json) |
 | Rogue Shell | 395553 | [395553-rogue-shell.json](./395553-rogue-shell.json) |
 | Rogue Shift | 139630 | [139630-rogue-shift.json](./139630-rogue-shift.json) |
+| Rogue Shift | 75367 | [75367-rogue-shift.json](./75367-rogue-shift.json) |
 | Rogue Ship | 231148 | [231148-rogue-ship.json](./231148-rogue-ship.json) |
 | Rogue Shooter: The FPS Roguelike | 17307 | [17307-rogue-shooter-the-fps-roguelike.json](./17307-rogue-shooter-the-fps-roguelike.json) |
 | Rogue Singularity | 34048 | [34048-rogue-singularity.json](./34048-rogue-singularity.json) |
