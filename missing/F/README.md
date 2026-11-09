@@ -2341,6 +2341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Far Cry 5: Gold Edition | 53011 | [53011-far-cry-5-gold-edition.json](./53011-far-cry-5-gold-edition.json) |
 | Far Cry 5: Gold Edition + Far Cry: New Dawn - Deluxe Edition Bundle | 164718 | [164718-far-cry-5-gold-edition-far-cry-new-dawn-deluxe-edition-bundle.json](./164718-far-cry-5-gold-edition-far-cry-new-dawn-deluxe-edition-bundle.json) |
 | Far Cry 5: Hope County - MT Collector's Case | 83888 | [83888-far-cry-5-hope-county-mt-collectors-case.json](./83888-far-cry-5-hope-county-mt-collectors-case.json) |
+| Far Cry 5: Lost on Mars | 90082 | [90082-far-cry-5-lost-on-mars.json](./90082-far-cry-5-lost-on-mars.json) |
 | Far Cry 5: Resistance Edition | 83887 | [83887-far-cry-5-resistance-edition.json](./83887-far-cry-5-resistance-edition.json) |
 | Far Cry 5: The Father Edition | 83886 | [83886-far-cry-5-the-father-edition.json](./83886-far-cry-5-the-father-edition.json) |
 | Far Cry 5: x Mondo Edition | 83889 | [83889-far-cry-5-x-mondo-edition.json](./83889-far-cry-5-x-mondo-edition.json) |
@@ -3248,6 +3249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fatal Fumes | 72273 | [72273-fatal-fumes.json](./72273-fatal-fumes.json) |
 | Fatal Fury | 71128 | [71128-fatal-fury.json](./71128-fatal-fury.json) |
 | Fatal Fury 2 | 4435 | [4435-fatal-fury-2.json](./4435-fatal-fury-2.json) |
+| Fatal Fury 3: Road to the Final Victory | 6690 | [6690-fatal-fury-3-road-to-the-final-victory.json](./6690-fatal-fury-3-road-to-the-final-victory.json) |
 | Fatal Fury City of the Wolves: Fatal Fury 2 Terry costume | 341714 | [341714-fatal-fury-city-of-the-wolves-fatal-fury-2-terry-costume.json](./341714-fatal-fury-city-of-the-wolves-fatal-fury-2-terry-costume.json) |
 | Fatal Fury First Contact | 44004 | [44004-fatal-fury-first-contact.json](./44004-fatal-fury-first-contact.json) |
 | Fatal Fury First Contact (Best Collection) | 75460 | [75460-fatal-fury-first-contact-best-collection.json](./75460-fatal-fury-first-contact-best-collection.json) |
@@ -5317,6 +5319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy XIV: Before the Fall | 221528 | [221528-final-fantasy-xiv-before-the-fall.json](./221528-final-fantasy-xiv-before-the-fall.json) |
 | Final Fantasy XIV: Buried Memory | 221549 | [221549-final-fantasy-xiv-buried-memory.json](./221549-final-fantasy-xiv-buried-memory.json) |
 | Final Fantasy XIV: Collector's Edition | 41854 | [41854-final-fantasy-xiv-collectors-edition.json](./41854-final-fantasy-xiv-collectors-edition.json) |
+| Final Fantasy XIV: Complete Edition | 106819 | [106819-final-fantasy-xiv-complete-edition.json](./106819-final-fantasy-xiv-complete-edition.json) |
 | Final Fantasy XIV: Crossroads | 318270 | [318270-final-fantasy-xiv-crossroads.json](./318270-final-fantasy-xiv-crossroads.json) |
 | Final Fantasy XIV: Dawntrail - Collector's Edition | 307775 | [307775-final-fantasy-xiv-dawntrail-collectors-edition.json](./307775-final-fantasy-xiv-dawntrail-collectors-edition.json) |
 | Final Fantasy XIV: Death Unto Dawn | 221547 | [221547-final-fantasy-xiv-death-unto-dawn.json](./221547-final-fantasy-xiv-death-unto-dawn.json) |
