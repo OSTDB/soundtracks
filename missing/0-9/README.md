@@ -83,6 +83,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | .Script | 180795 | [180795-script.json](./180795-script.json) |
 | '83 | 116194 | [116194-83.json](./116194-83.json) |
 | '88 Games | 39329 | [39329-88-games.json](./39329-88-games.json) |
+| '89 Dennou Kyuusei Uranai | 48368 | [48368-89-dennou-kyuusei-uranai.json](./48368-89-dennou-kyuusei-uranai.json) |
 | '90s Football Stars | 103883 | [103883-90s-football-stars.json](./103883-90s-football-stars.json) |
 | '90s Super GP | 51541 | [51541-90s-super-gp.json](./51541-90s-super-gp.json) |
 | '94 Super World Cup Chuggu | 130825 | [130825-94-super-world-cup-chuggu.json](./130825-94-super-world-cup-chuggu.json) |
