@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | G.O.P.O.T.A 2 | 291756 | [291756-g-o-p-o-t-a-2.json](./291756-g-o-p-o-t-a-2.json) |
 | G.R.E.G.: The Generally Really Easy Game | 310077 | [310077-g-r-e-g-the-generally-really-easy-game.json](./310077-g-r-e-g-the-generally-really-easy-game.json) |
 | G'Luck! | 402865 | [402865-gluck.json](./402865-gluck.json) |
+| G1 Jockey | 44695 | [44695-g1-jockey.json](./44695-g1-jockey.json) |
 | G1 Jockey 2 | 55170 | [55170-g1-jockey-2.json](./55170-g1-jockey-2.json) |
 | G1 Jockey 2 2001 | 80864 | [80864-g1-jockey-2-2001.json](./80864-g1-jockey-2-2001.json) |
 | G1 Jockey 2000 | 55171 | [55171-g1-jockey-2000.json](./55171-g1-jockey-2000.json) |
