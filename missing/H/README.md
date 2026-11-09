@@ -2248,6 +2248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harpy Raiders | 248024 | [248024-harpy-raiders.json](./248024-harpy-raiders.json) |
 | Harpy Star | 149148 | [149148-harpy-star.json](./149148-harpy-star.json) |
 | Harpy's Curse | 332393 | [332393-harpys-curse.json](./332393-harpys-curse.json) |
+| Harricana: Raid International Motoneige - Quebec-Canada 90 | 14776 | [14776-harricana-raid-international-motoneige-quebec-canada-90.json](./14776-harricana-raid-international-motoneige-quebec-canada-90.json) |
 | Harrier 2001 | 209862 | [209862-harrier-2001.json](./209862-harrier-2001.json) |
 | Harrier 7 | 94412 | [94412-harrier-7.json](./94412-harrier-7.json) |
 | Harrier Attack II | 79098 | [79098-harrier-attack-ii.json](./79098-harrier-attack-ii.json) |
@@ -8054,6 +8055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highway Moto Rider - Traffic Race | 105850 | [105850-highway-moto-rider-traffic-race.json](./105850-highway-moto-rider-traffic-race.json) |
 | Highway Noir | 381605 | [381605-highway-noir.json](./381605-highway-noir.json) |
 | Highway of death | 112998 | [112998-highway-of-death.json](./112998-highway-of-death.json) |
+| Highway Patrol II | 15231 | [15231-highway-patrol-ii.json](./15231-highway-patrol-ii.json) |
 | Highway Patrol Simulator | 258451 | [258451-highway-patrol-simulator.json](./258451-highway-patrol-simulator.json) |
 | Highway Patrol Simulator | 371212 | [371212-highway-patrol-simulator.json](./371212-highway-patrol-simulator.json) |
 | Highway Police Simulator | 292349 | [292349-highway-police-simulator.json](./292349-highway-police-simulator.json) |
@@ -10118,6 +10120,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoop the Loop | 167461 | [167461-hoop-the-loop.json](./167461-hoop-the-loop.json) |
 | HooperVania | 265859 | [265859-hoopervania.json](./265859-hoopervania.json) |
 | Hoopin' It Up | 137859 | [137859-hoopin-it-up.json](./137859-hoopin-it-up.json) |
+| Hoopla Gems | 14735 | [14735-hoopla-gems.json](./14735-hoopla-gems.json) |
 | Hooplord | 132611 | [132611-hooplord.json](./132611-hooplord.json) |
 | Hoops | 48155 | [48155-hoops.json](./48155-hoops.json) |
 | Hoops Ahead: Basketball Manager | 332917 | [332917-hoops-ahead-basketball-manager.json](./332917-hoops-ahead-basketball-manager.json) |
