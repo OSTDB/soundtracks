@@ -1885,6 +1885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eisei Meijin VI | 3904 | [3904-eisei-meijin-vi.json](./3904-eisei-meijin-vi.json) |
 | Eiseihousou Taiou Casette: SameGame Editor | 234881 | [234881-eiseihousou-taiou-casette-samegame-editor.json](./234881-eiseihousou-taiou-casette-samegame-editor.json) |
 | Eisen | 240872 | [240872-eisen.json](./240872-eisen.json) |
+| Eisenbahn X | 36081 | [36081-eisenbahn-x.json](./36081-eisenbahn-x.json) |
 | Eisenbahn X: Berliner S-Bahn | 172350 | [172350-eisenbahn-x-berliner-s-bahn.json](./172350-eisenbahn-x-berliner-s-bahn.json) |
 | Eisenbahn X: Modellset 1 - Bahnhof, Häuser, Scheunen | 169951 | [169951-eisenbahn-x-modellset-1-bahnhof-hauser-scheunen.json](./169951-eisenbahn-x-modellset-1-bahnhof-hauser-scheunen.json) |
 | Eisenhorn: Xenos - Deluxe Edition | 52965 | [52965-eisenhorn-xenos-deluxe-edition.json](./52965-eisenhorn-xenos-deluxe-edition.json) |
