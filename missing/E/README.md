@@ -4123,6 +4123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Energie-Manager | 94659 | [94659-energie-manager.json](./94659-energie-manager.json) |
 | Energy | 230354 | [230354-energy.json](./230354-energy.json) |
 | Energy | 63332 | [63332-energy.json](./63332-energy.json) |
+| Energy Airforce | 43380 | [43380-energy-airforce.json](./43380-energy-airforce.json) |
 | Energy Airforce: aimStrike! | 142143 | [142143-energy-airforce-aimstrike.json](./142143-energy-airforce-aimstrike.json) |
 | Energy Balance | 35113 | [35113-energy-balance.json](./35113-energy-balance.json) |
 | Energy Breaker | 38377 | [38377-energy-breaker.json](./38377-energy-breaker.json) |
@@ -6088,6 +6089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ESPN Sports Connection | 28334 | [28334-espn-sports-connection.json](./28334-espn-sports-connection.json) |
 | ESPN Step Aerobics | 38817 | [38817-espn-step-aerobics.json](./38817-espn-step-aerobics.json) |
 | ESPN Sunday Night NFL | 5382 | [5382-espn-sunday-night-nfl.json](./5382-espn-sunday-night-nfl.json) |
+| ESPN Winter X Games Snowboarding | 43373 | [43373-espn-winter-x-games-snowboarding.json](./43373-espn-winter-x-games-snowboarding.json) |
 | ESPN Winter X-Games Snowboarding 2002 | 49206 | [49206-espn-winter-x-games-snowboarding-2002.json](./49206-espn-winter-x-games-snowboarding-2002.json) |
 | ESPN X Games Skateboarding | 248752 | [248752-espn-x-games-skateboarding.json](./248752-espn-x-games-skateboarding.json) |
 | ESPN X Games Skateboarding | 6398 | [6398-espn-x-games-skateboarding.json](./6398-espn-x-games-skateboarding.json) |
@@ -7143,6 +7145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EverQuest Mobile | 112028 | [112028-everquest-mobile.json](./112028-everquest-mobile.json) |
 | EverQuest Next | 18341 | [18341-everquest-next.json](./18341-everquest-next.json) |
 | EverQuest Online Adventures | 23742 | [23742-everquest-online-adventures.json](./23742-everquest-online-adventures.json) |
+| EverQuest Online Adventures: Frontiers | 43374 | [43374-everquest-online-adventures-frontiers.json](./43374-everquest-online-adventures-frontiers.json) |
 | EverQuest Worlds | 63060 | [63060-everquest-worlds.json](./63060-everquest-worlds.json) |
 | EverQuest: Call of the Forsaken | 63069 | [63069-everquest-call-of-the-forsaken.json](./63069-everquest-call-of-the-forsaken.json) |
 | EverQuest: Claws of Veeshan | 191367 | [191367-everquest-claws-of-veeshan.json](./191367-everquest-claws-of-veeshan.json) |
