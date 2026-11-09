@@ -2613,6 +2613,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hatfields and McCoys | 209864 | [209864-hatfields-and-mccoys.json](./209864-hatfields-and-mccoys.json) |
 | HatLand | 247970 | [247970-hatland.json](./247970-hatland.json) |
 | Hatland Adventures | 35818 | [35818-hatland-adventures.json](./35818-hatland-adventures.json) |
+| Hatman | 57239 | [57239-hatman.json](./57239-hatman.json) |
 | HatMania | 223388 | [223388-hatmania.json](./223388-hatmania.json) |
 | Hatoful Boyfriend | 8874 | [8874-hatoful-boyfriend.json](./8874-hatoful-boyfriend.json) |
 | Hatomo Battles the Yomi Demons | 281316 | [281316-hatomo-battles-the-yomi-demons.json](./281316-hatomo-battles-the-yomi-demons.json) |
@@ -6415,6 +6416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of the Ashenwatch | 267850 | [267850-heroes-of-the-ashenwatch.json](./267850-heroes-of-the-ashenwatch.json) |
 | Heroes of the Citadel | 285583 | [285583-heroes-of-the-citadel.json](./285583-heroes-of-the-citadel.json) |
 | Heroes of the Dark | 194999 | [194999-heroes-of-the-dark.json](./194999-heroes-of-the-dark.json) |
+| Heroes of the Dungeon | 57210 | [57210-heroes-of-the-dungeon.json](./57210-heroes-of-the-dungeon.json) |
 | Heroes of the Earth: inVasion | 117559 | [117559-heroes-of-the-earth-invasion.json](./117559-heroes-of-the-earth-invasion.json) |
 | Heroes of the Galaxy | 195162 | [195162-heroes-of-the-galaxy.json](./195162-heroes-of-the-galaxy.json) |
 | Heroes of the Indianapolis 500 | 209870 | [209870-heroes-of-the-indianapolis-500.json](./209870-heroes-of-the-indianapolis-500.json) |
@@ -11707,6 +11709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | How to Win | 136400 | [136400-how-to-win.json](./136400-how-to-win.json) |
 | How to Win at Rock Paper Scissors | 57506 | [57506-how-to-win-at-rock-paper-scissors.json](./57506-how-to-win-at-rock-paper-scissors.json) |
 | How to: Superhero! | 325396 | [325396-how-to-superhero.json](./325396-how-to-superhero.json) |
+| How Visual Novels Changed My Life | 57211 | [57211-how-visual-novels-changed-my-life.json](./57211-how-visual-novels-changed-my-life.json) |
 | How Was Your Day? | 334902 | [334902-how-was-your-day.json](./334902-how-was-your-day.json) |
 | How We Die | 133191 | [133191-how-we-die.json](./133191-how-we-die.json) |
 | How We Die | 304492 | [304492-how-we-die.json](./304492-how-we-die.json) |
@@ -11865,6 +11868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hubert | 346482 | [346482-hubert.json](./346482-hubert.json) |
 | Hubert Catching | 411109 | [411109-hubert-catching.json](./411109-hubert-catching.json) |
 | Hubert the Teddy Bear: Holiday Island | 68089 | [68089-hubert-the-teddy-bear-holiday-island.json](./68089-hubert-the-teddy-bear-holiday-island.json) |
+| Hubert the Teddy Bear: Winter Games | 57218 | [57218-hubert-the-teddy-bear-winter-games.json](./57218-hubert-the-teddy-bear-winter-games.json) |
 | Hubert's Island Adventure: Mouse o' War | 33807 | [33807-huberts-island-adventure-mouse-o-war.json](./33807-huberts-island-adventure-mouse-o-war.json) |
 | Hubris | 114705 | [114705-hubris.json](./114705-hubris.json) |
 | HubWorld | 135608 | [135608-hubworld.json](./135608-hubworld.json) |
