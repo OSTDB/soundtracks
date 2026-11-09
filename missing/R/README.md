@@ -7968,6 +7968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rip Van Bubsy | 269835 | [269835-rip-van-bubsy.json](./269835-rip-van-bubsy.json) |
 | Rip-Tide Racer | 50023 | [50023-rip-tide-racer.json](./50023-rip-tide-racer.json) |
 | RIP: Ridiculously Injury Prone | 253443 | [253443-rip-ridiculously-injury-prone.json](./253443-rip-ridiculously-injury-prone.json) |
+| Ripcoil | 58342 | [58342-ripcoil.json](./58342-ripcoil.json) |
 | Ripcord | 95419 | [95419-ripcord.json](./95419-ripcord.json) |
 | Ripened Tingle's Balloon Trip of Love | 25840 | [25840-ripened-tingles-balloon-trip-of-love.json](./25840-ripened-tingles-balloon-trip-of-love.json) |
 | Ripgraze | 415096 | [415096-ripgraze.json](./415096-ripgraze.json) |
@@ -10121,6 +10122,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocky | 4093 | [4093-rocky.json](./4093-rocky.json) |
 | Rocky | 77183 | [77183-rocky.json](./77183-rocky.json) |
 | Rocky & Bullwinkle | 20780 | [20780-rocky-and-bullwinkle.json](./20780-rocky-and-bullwinkle.json) |
+| Rocky & Bullwinkle's Know-It-All Quiz Game | 58369 | [58369-rocky-and-bullwinkles-know-it-all-quiz-game.json](./58369-rocky-and-bullwinkles-know-it-all-quiz-game.json) |
 | Rocky & Co | 271686 | [271686-rocky-and-co.json](./271686-rocky-and-co.json) |
 | Rocky Balboa | 23112 | [23112-rocky-balboa.json](./23112-rocky-balboa.json) |
 | Rocky Climb | 96085 | [96085-rocky-climb.json](./96085-rocky-climb.json) |
