@@ -2908,6 +2908,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Skate | 349108 | [349108-virtual-skate.json](./349108-virtual-skate.json) |
 | Virtual Skate: Winter Update | 380593 | [380593-virtual-skate-winter-update.json](./380593-virtual-skate-winter-update.json) |
 | Virtual Skipper | 69949 | [69949-virtual-skipper.json](./69949-virtual-skipper.json) |
+| Virtual Skipper 2 | 60664 | [60664-virtual-skipper-2.json](./60664-virtual-skipper-2.json) |
+| Virtual Skipper 3 | 60663 | [60663-virtual-skipper-3.json](./60663-virtual-skipper-3.json) |
+| Virtual Skipper 4 | 60662 | [60662-virtual-skipper-4.json](./60662-virtual-skipper-4.json) |
 | Virtual Skydiving | 116866 | [116866-virtual-skydiving.json](./116866-virtual-skydiving.json) |
 | Virtual SlotCars | 40501 | [40501-virtual-slotcars.json](./40501-virtual-slotcars.json) |
 | Virtual Sniper | 387484 | [387484-virtual-sniper.json](./387484-virtual-sniper.json) |
