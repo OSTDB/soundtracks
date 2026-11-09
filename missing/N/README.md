@@ -7962,6 +7962,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nutshot Simulator | 424683 | [424683-nutshot-simulator.json](./424683-nutshot-simulator.json) |
 | NutsMania | 401757 | [401757-nutsmania.json](./401757-nutsmania.json) |
 | Nutty | 299170 | [299170-nutty.json](./299170-nutty.json) |
+| Nutty Fluffies | 61760 | [61760-nutty-fluffies.json](./61760-nutty-fluffies.json) |
 | Nutty Motorcars | 215626 | [215626-nutty-motorcars.json](./215626-nutty-motorcars.json) |
 | Nutty Nemesis: Nile's Downfall | 371751 | [371751-nutty-nemesis-niles-downfall.json](./371751-nutty-nemesis-niles-downfall.json) |
 | Nutty Noon | 240329 | [240329-nutty-noon.json](./240329-nutty-noon.json) |
