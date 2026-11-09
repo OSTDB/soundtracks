@@ -605,6 +605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pad Quad | 376144 | [376144-pad-quad.json](./376144-pad-quad.json) |
 | Paddington Bear | 56556 | [56556-paddington-bear.json](./56556-paddington-bear.json) |
 | Paddington Run | 83249 | [83249-paddington-run.json](./83249-paddington-run.json) |
+| Paddington: Adventures in London | 44015 | [44015-paddington-adventures-in-london.json](./44015-paddington-adventures-in-london.json) |
 | Paddington: The World Mystery Tour | 124343 | [124343-paddington-the-world-mystery-tour.json](./124343-paddington-the-world-mystery-tour.json) |
 | Paddington's Early Visit | 83251 | [83251-paddingtons-early-visit.json](./83251-paddingtons-early-visit.json) |
 | Paddington's Garden Game | 83250 | [83250-paddingtons-garden-game.json](./83250-paddingtons-garden-game.json) |
@@ -10873,6 +10874,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Rally | 104719 | [104719-pocket-rally.json](./104719-pocket-rally.json) |
 | Pocket Ray | 227818 | [227818-pocket-ray.json](./227818-pocket-ray.json) |
 | Pocket Realms | 99223 | [99223-pocket-realms.json](./99223-pocket-realms.json) |
+| Pocket Reversi | 43989 | [43989-pocket-reversi.json](./43989-pocket-reversi.json) |
 | Pocket Robots | 311176 | [311176-pocket-robots.json](./311176-pocket-robots.json) |
 | Pocket Rocket | 187166 | [187166-pocket-rocket.json](./187166-pocket-rocket.json) |
 | Pocket Rockets | 94293 | [94293-pocket-rockets.json](./94293-pocket-rockets.json) |
@@ -14492,6 +14494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Premier Manager 2012 | 65430 | [65430-premier-manager-2012.json](./65430-premier-manager-2012.json) |
 | Premier Manager 3 | 14426 | [14426-premier-manager-3.json](./14426-premier-manager-3.json) |
 | Premier Manager 3 De-Luxe | 73484 | [73484-premier-manager-3-de-luxe.json](./73484-premier-manager-3-de-luxe.json) |
+| Premier Manager 64 | 44034 | [44034-premier-manager-64.json](./44034-premier-manager-64.json) |
 | Premier Manager 97 | 45706 | [45706-premier-manager-97.json](./45706-premier-manager-97.json) |
 | Premier Manager 98 | 45046 | [45046-premier-manager-98.json](./45046-premier-manager-98.json) |
 | Premier Multi-Edit System | 131284 | [131284-premier-multi-edit-system.json](./131284-premier-multi-edit-system.json) |
@@ -19057,6 +19060,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Light: Rotate | 152763 | [152763-puzzle-light-rotate.json](./152763-puzzle-light-rotate.json) |
 | Puzzle Light: Slide | 163539 | [163539-puzzle-light-slide.json](./163539-puzzle-light-slide.json) |
 | Puzzle Lights and Mushrooms 1000 | 334103 | [334103-puzzle-lights-and-mushrooms-1000.json](./334103-puzzle-lights-and-mushrooms-1000.json) |
+| Puzzle Link | 44002 | [44002-puzzle-link.json](./44002-puzzle-link.json) |
+| Puzzle Link 2 | 43985 | [43985-puzzle-link-2.json](./43985-puzzle-link-2.json) |
 | Puzzle Machine | 341431 | [341431-puzzle-machine.json](./341431-puzzle-machine.json) |
 | Puzzle Maker | 291238 | [291238-puzzle-maker.json](./291238-puzzle-maker.json) |
 | Puzzle Mania | 213913 | [213913-puzzle-mania.json](./213913-puzzle-mania.json) |
