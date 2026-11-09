@@ -237,6 +237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tabletopia: Zoom In Barcelona | 162898 | [162898-tabletopia-zoom-in-barcelona.json](./162898-tabletopia-zoom-in-barcelona.json) |
 | Tablets of Power | 369881 | [369881-tablets-of-power.json](./369881-tablets-of-power.json) |
 | Tabloid Beauties | 201265 | [201265-tabloid-beauties.json](./201265-tabloid-beauties.json) |
+| Tabloid Tycoon | 71829 | [71829-tabloid-tycoon.json](./71829-tabloid-tycoon.json) |
 | Taboo 5 | 255884 | [255884-taboo-5.json](./255884-taboo-5.json) |
 | Taboo Trial | 259170 | [259170-taboo-trial.json](./259170-taboo-trial.json) |
 | Taboo Trial: 5.0 Weapon And Dark Gold | 311716 | [311716-taboo-trial-5-0-weapon-and-dark-gold.json](./311716-taboo-trial-5-0-weapon-and-dark-gold.json) |
@@ -8696,6 +8697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Doomed Knight | 149268 | [149268-the-doomed-knight.json](./149268-the-doomed-knight.json) |
 | The Doomsday Crisis Line | 176763 | [176763-the-doomsday-crisis-line.json](./176763-the-doomsday-crisis-line.json) |
 | The Doomsland: Survivors | 245202 | [245202-the-doomsland-survivors.json](./245202-the-doomsland-survivors.json) |
+| The Doonesbury Election Game Campaign '96 | 72014 | [72014-the-doonesbury-election-game-campaign-96.json](./72014-the-doonesbury-election-game-campaign-96.json) |
 | The Door | 150501 | [150501-the-door.json](./150501-the-door.json) |
 | The Door | 151894 | [151894-the-door.json](./151894-the-door.json) |
 | The Door | 246123 | [246123-the-door.json](./246123-the-door.json) |
