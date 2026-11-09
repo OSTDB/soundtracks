@@ -4332,6 +4332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Desert | 220009 | [220009-deadly-desert.json](./220009-deadly-desert.json) |
 | Deadly Desire | 232915 | [232915-deadly-desire.json](./232915-deadly-desire.json) |
 | Deadly Dog-Dating Dungeon | 185261 | [185261-deadly-dog-dating-dungeon.json](./185261-deadly-dog-dating-dungeon.json) |
+| Deadly Dogs | 41476 | [41476-deadly-dogs.json](./41476-deadly-dogs.json) |
 | Deadly Dozen | 27479 | [27479-deadly-dozen.json](./27479-deadly-dozen.json) |
 | Deadly Dozen Reloaded | 193753 | [193753-deadly-dozen-reloaded.json](./193753-deadly-dozen-reloaded.json) |
 | Deadly Dozen: Pacific Theater | 27480 | [27480-deadly-dozen-pacific-theater.json](./27480-deadly-dozen-pacific-theater.json) |
@@ -9837,6 +9838,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dine Together | 205238 | [205238-dine-together.json](./205238-dine-together.json) |
 | Dine-In Dungeon | 364872 | [364872-dine-in-dungeon.json](./364872-dine-in-dungeon.json) |
 | DineInn | 343434 | [343434-dineinn.json](./343434-dineinn.json) |
+| Diner | 41437 | [41437-diner.json](./41437-diner.json) |
 | Diner Bros | 97040 | [97040-diner-bros.json](./97040-diner-bros.json) |
 | Diner Bros 2 | 346700 | [346700-diner-bros-2.json](./346700-diner-bros-2.json) |
 | Diner Bros: Sushi Bros | 169300 | [169300-diner-bros-sushi-bros.json](./169300-diner-bros-sushi-bros.json) |
