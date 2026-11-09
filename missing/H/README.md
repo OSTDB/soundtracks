@@ -193,6 +193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hack'n Dice | 184438 | [184438-hackn-dice.json](./184438-hackn-dice.json) |
 | Hack'n Stalk 2.0 | 129490 | [129490-hackn-stalk-2-0.json](./129490-hackn-stalk-2-0.json) |
 | HackBot Hacking Game | 398259 | [398259-hackbot-hacking-game.json](./398259-hackbot-hacking-game.json) |
+| Hacked | 33233 | [33233-hacked.json](./33233-hacked.json) |
 | Hacker | 12131 | [12131-hacker.json](./12131-hacker.json) |
 | Hacker | 292252 | [292252-hacker.json](./292252-hacker.json) |
 | Hacker 2089 | 36763 | [36763-hacker-2089.json](./36763-hacker-2089.json) |
@@ -3775,6 +3776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heaven's Will | 56826 | [56826-heavens-will.json](./56826-heavens-will.json) |
 | Heavenbound | 41164 | [41164-heavenbound.json](./41164-heavenbound.json) |
 | Heavenhells | 393771 | [393771-heavenhells.json](./393771-heavenhells.json) |
+| Heavenly Battle | 32343 | [32343-heavenly-battle.json](./32343-heavenly-battle.json) |
 | Heavenly Bodies: Cleanup | 260747 | [260747-heavenly-bodies-cleanup.json](./260747-heavenly-bodies-cleanup.json) |
 | Heavenly Duels | 104869 | [104869-heavenly-duels.json](./104869-heavenly-duels.json) |
 | Heavenly Guitars | 391226 | [391226-heavenly-guitars.json](./391226-heavenly-guitars.json) |
