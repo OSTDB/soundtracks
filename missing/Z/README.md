@@ -2638,6 +2638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZunderFury | 270411 | [270411-zunderfury.json](./270411-zunderfury.json) |
 | Zunima,Space Travel | 88785 | [88785-zunima-space-travel.json](./88785-zunima-space-travel.json) |
 | Zunius | 121740 | [121740-zunius.json](./121740-zunius.json) |
+| Zunou 4989 | 67417 | [67417-zunou-4989.json](./67417-zunou-4989.json) |
 | Zunou Senkan Galg | 48488 | [48488-zunou-senkan-galg.json](./48488-zunou-senkan-galg.json) |
 | Zunou Taisen Live | 267542 | [267542-zunou-taisen-live.json](./267542-zunou-taisen-live.json) |
 | ZunZun Block | 172657 | [172657-zunzun-block.json](./172657-zunzun-block.json) |
