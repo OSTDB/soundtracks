@@ -10663,6 +10663,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitzr Ball | 338864 | [338864-blitzr-ball.json](./338864-blitzr-ball.json) |
 | BlitzRift | 382501 | [382501-blitzrift.json](./382501-blitzrift.json) |
 | Blitzstrike | 345924 | [345924-blitzstrike.json](./345924-blitzstrike.json) |
+| Blix | 41467 | [41467-blix.json](./41467-blix.json) |
 | Blix & Chocolate Mine | 145031 | [145031-blix-and-chocolate-mine.json](./145031-blix-and-chocolate-mine.json) |
 | Blixten Quest | 110917 | [110917-blixten-quest.json](./110917-blixten-quest.json) |
 | Blizz! | 354945 | [354945-blizz.json](./354945-blizz.json) |
@@ -11926,6 +11927,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blow Fly2: Overlimit | 291295 | [291295-blow-fly2-overlimit.json](./291295-blow-fly2-overlimit.json) |
 | Blow it up | 150867 | [150867-blow-it-up.json](./150867-blow-it-up.json) |
 | Blow Out | 312823 | [312823-blow-out.json](./312823-blow-out.json) |
+| Blow Out | 41443 | [41443-blow-out.json](./41443-blow-out.json) |
 | Blow the Hen Down | 177152 | [177152-blow-the-hen-down.json](./177152-blow-the-hen-down.json) |
 | Blow Up Monsters | 147568 | [147568-blow-up-monsters.json](./147568-blow-up-monsters.json) |
 | Blow Up Pieces: Unleashed | 116791 | [116791-blow-up-pieces-unleashed.json](./116791-blow-up-pieces-unleashed.json) |
@@ -12610,6 +12612,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Body of Work | 281443 | [281443-body-of-work.json](./281443-body-of-work.json) |
 | Body Pay | 296665 | [296665-body-pay.json](./296665-body-pay.json) |
 | Body Slam | 40095 | [40095-body-slam.json](./40095-body-slam.json) |
+| Body Slam! Super Pro Wrestling | 41440 | [41440-body-slam-super-pro-wrestling.json](./41440-body-slam-super-pro-wrestling.json) |
 | Body Special 264: Girls in Motion Puzzle Vol. 2 | 45408 | [45408-body-special-264-girls-in-motion-puzzle-vol-2.json](./45408-body-special-264-girls-in-motion-puzzle-vol-2.json) |
 | Body Sushi | 393471 | [393471-body-sushi.json](./393471-body-sushi.json) |
 | Body. Electric. | 225979 | [225979-body-electric.json](./225979-body-electric.json) |
@@ -16096,6 +16099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BrickOps | 417825 | [417825-brickops.json](./417825-brickops.json) |
 | BrickOut | 174452 | [174452-brickout.json](./174452-brickout.json) |
 | Brickout Kings | 108402 | [108402-brickout-kings.json](./108402-brickout-kings.json) |
+| Brickout! | 41441 | [41441-brickout.json](./41441-brickout.json) |
 | Bricks | 292111 | [292111-bricks.json](./292111-bricks.json) |
 | Bricks | 93476 | [93476-bricks.json](./93476-bricks.json) |
 | Bricks '2000 | 375585 | [375585-bricks-2000.json](./375585-bricks-2000.json) |
