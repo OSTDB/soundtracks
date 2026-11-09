@@ -3373,6 +3373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Star Wars: The Force Awakens - The Clone Wars Character Pack | 170869 | [170869-lego-star-wars-the-force-awakens-the-clone-wars-character-pack.json](./170869-lego-star-wars-the-force-awakens-the-clone-wars-character-pack.json) |
 | LEGO Star Wars: The Force Awakens - The Empire Strikes Back Character Pack | 169925 | [169925-lego-star-wars-the-force-awakens-the-empire-strikes-back-character-pack.json](./169925-lego-star-wars-the-force-awakens-the-empire-strikes-back-character-pack.json) |
 | LEGO Star Wars: The Force Awakens - The Phantom Limb | 138163 | [138163-lego-star-wars-the-force-awakens-the-phantom-limb.json](./138163-lego-star-wars-the-force-awakens-the-phantom-limb.json) |
+| LEGO Star Wars: The New Yoda Chronicles | 63429 | [63429-lego-star-wars-the-new-yoda-chronicles.json](./63429-lego-star-wars-the-new-yoda-chronicles.json) |
 | LEGO Star Wars: The Quest for R2-D2 | 74979 | [74979-lego-star-wars-the-quest-for-r2-d2.json](./74979-lego-star-wars-the-quest-for-r2-d2.json) |
 | LEGO Star Wars: The Skywalker Saga | 119305 | [119305-lego-star-wars-the-skywalker-saga.json](./119305-lego-star-wars-the-skywalker-saga.json) |
 | LEGO Star Wars: The Skywalker Saga - Andor Character Pack | 223782 | [223782-lego-star-wars-the-skywalker-saga-andor-character-pack.json](./223782-lego-star-wars-the-skywalker-saga-andor-character-pack.json) |
