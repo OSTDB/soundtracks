@@ -383,6 +383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sacrilegium | 65059 | [65059-sacrilegium.json](./65059-sacrilegium.json) |
 | Sacristan | 425868 | [425868-sacristan.json](./425868-sacristan.json) |
 | Sacritice | 207012 | [207012-sacritice.json](./207012-sacritice.json) |
+| Sacrophaser | 55323 | [55323-sacrophaser.json](./55323-sacrophaser.json) |
 | Sacrosanct | 195349 | [195349-sacrosanct.json](./195349-sacrosanct.json) |
 | Sad | 131048 | [131048-sad.json](./131048-sad.json) |
 | Sad | 286771 | [286771-sad.json](./286771-sad.json) |
@@ -9699,6 +9700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Staffed | 240691 | [240691-short-staffed.json](./240691-short-staffed.json) |
 | Short Stax | 385853 | [385853-short-stax.json](./385853-short-stax.json) |
 | Short Stop | 131105 | [131105-short-stop.json](./131105-short-stop.json) |
+| Short Stories Collection of Class Tangerine | 55302 | [55302-short-stories-collection-of-class-tangerine.json](./55302-short-stories-collection-of-class-tangerine.json) |
 | Short Trip | 324905 | [324905-short-trip.json](./324905-short-trip.json) |
 | Short Warp | 92215 | [92215-short-warp.json](./92215-short-warp.json) |
 | Short Warp: Deep Space Bounty | 261832 | [261832-short-warp-deep-space-bounty.json](./261832-short-warp-deep-space-bounty.json) |
@@ -14044,6 +14046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slidezzle | 311519 | [311519-slidezzle.json](./311519-slidezzle.json) |
 | Sliding | 270564 | [270564-sliding.json](./270564-sliding.json) |
 | Sliding Bears | 337049 | [337049-sliding-bears.json](./337049-sliding-bears.json) |
+| Sliding Blocks | 55303 | [55303-sliding-blocks.json](./55303-sliding-blocks.json) |
 | Sliding Cubes 2048 Mania | 328724 | [328724-sliding-cubes-2048-mania.json](./328724-sliding-cubes-2048-mania.json) |
 | Sliding ground | 184373 | [184373-sliding-ground.json](./184373-sliding-ground.json) |
 | Sliding Hero | 309545 | [309545-sliding-hero.json](./309545-sliding-hero.json) |
@@ -26862,6 +26865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stealth Kill VR Missions | 310677 | [310677-stealth-kill-vr-missions.json](./310677-stealth-kill-vr-missions.json) |
 | Stealth Master | 143976 | [143976-stealth-master.json](./143976-stealth-master.json) |
 | Stealth Master: Assassin Ninja | 261421 | [261421-stealth-master-assassin-ninja.json](./261421-stealth-master-assassin-ninja.json) |
+| Stealth Mission | 55325 | [55325-stealth-mission.json](./55325-stealth-mission.json) |
 | Stealth Mystery: Secret Key | 88925 | [88925-stealth-mystery-secret-key.json](./88925-stealth-mystery-secret-key.json) |
 | Stealth Operative Syn: Virtual Training | 406221 | [406221-stealth-operative-syn-virtual-training.json](./406221-stealth-operative-syn-virtual-training.json) |
 | Stealth Prankster | 180126 | [180126-stealth-prankster.json](./180126-stealth-prankster.json) |
@@ -35023,6 +35027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Supipara: Chapter 1 | 32232 | [32232-supipara-chapter-1.json](./32232-supipara-chapter-1.json) |
 | Supipara: Chapter 2 | 90149 | [90149-supipara-chapter-2.json](./90149-supipara-chapter-2.json) |
 | Suplex | 131036 | [131036-suplex.json](./131036-suplex.json) |
+| Suplex Saga | 54633 | [54633-suplex-saga.json](./54633-suplex-saga.json) |
 | Supotto Spot | 379574 | [379574-supotto-spot.json](./379574-supotto-spot.json) |
 | Suppa Ninja | 397833 | [397833-suppa-ninja.json](./397833-suppa-ninja.json) |
 | Supple | 370963 | [370963-supple.json](./370963-supple.json) |
