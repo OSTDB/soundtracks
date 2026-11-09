@@ -3055,6 +3055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 50 Cent: Bulletproof | 4011 | [4011-50-cent-bulletproof.json](./4011-50-cent-bulletproof.json) |
 | 50 Cents Please | 367504 | [367504-50-cents-please.json](./367504-50-cents-please.json) |
 | 50 Classic Games | 48034 | [48034-50-classic-games.json](./48034-50-classic-games.json) |
+| 50 Classic Games 3D | 44027 | [44027-50-classic-games-3d.json](./44027-50-classic-games-3d.json) |
 | 50 Coins of Deadly Doom | 381979 | [381979-50-coins-of-deadly-doom.json](./381979-50-coins-of-deadly-doom.json) |
 | 50 Days to Survive | 239100 | [239100-50-days-to-survive.json](./239100-50-days-to-survive.json) |
 | 50 Doors | 377392 | [377392-50-doors.json](./377392-50-doors.json) |
@@ -3376,6 +3377,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 7th Dragon 2020 | 11823 | [11823-7th-dragon-2020.json](./11823-7th-dragon-2020.json) |
 | 7th Dragon 2020-II | 11826 | [11826-7th-dragon-2020-ii.json](./11826-7th-dragon-2020-ii.json) |
 | 7th Dragon III Code: VFD | 11828 | [11828-7th-dragon-iii-code-vfd.json](./11828-7th-dragon-iii-code-vfd.json) |
+| 7th Dragon III Code: VFD - Launch Edition | 44019 | [44019-7th-dragon-iii-code-vfd-launch-edition.json](./44019-7th-dragon-iii-code-vfd-launch-edition.json) |
 | 7th Floor | 305696 | [305696-7th-floor.json](./305696-7th-floor.json) |
 | 7th Memory | 255428 | [255428-7th-memory.json](./255428-7th-memory.json) |
 | 7th Sea: A Pirate's Pact | 113865 | [113865-7th-sea-a-pirates-pact.json](./113865-7th-sea-a-pirates-pact.json) |
