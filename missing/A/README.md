@@ -1811,6 +1811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aaaaxy | 249319 | [249319-aaaaxy.json](./249319-aaaaxy.json) |
 | Aaahh!!! Real Monsters | 5339 | [5339-aaahh-real-monsters.json](./5339-aaahh-real-monsters.json) |
 | Aaargh! | 11883 | [11883-aaargh.json](./11883-aaargh.json) |
+| Aaargh! Condor | 71679 | [71679-aaargh-condor.json](./71679-aaargh-condor.json) |
 | Aaarghpocalypse | 273874 | [273874-aaarghpocalypse.json](./273874-aaarghpocalypse.json) |
 | Aaattack | 396993 | [396993-aaattack.json](./396993-aaattack.json) |
 | Aabahran: The Forsaken Lands | 229139 | [229139-aabahran-the-forsaken-lands.json](./229139-aabahran-the-forsaken-lands.json) |
@@ -3135,6 +3136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Active Worlds | 66993 | [66993-active-worlds.json](./66993-active-worlds.json) |
 | Activision | 220071 | [220071-activision.json](./220071-activision.json) |
 | Activision Anthology | 301430 | [301430-activision-anthology.json](./301430-activision-anthology.json) |
+| Activision Anthology | 71690 | [71690-activision-anthology.json](./71690-activision-anthology.json) |
 | Activision Anthology: Remix Edition | 45979 | [45979-activision-anthology-remix-edition.json](./45979-activision-anthology-remix-edition.json) |
 | Activision Collection 1 | 379134 | [379134-activision-collection-1.json](./379134-activision-collection-1.json) |
 | Activision Collection 2 | 420008 | [420008-activision-collection-2.json](./420008-activision-collection-2.json) |
@@ -3491,6 +3493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced DOS Quiz | 85928 | [85928-advanced-dos-quiz.json](./85928-advanced-dos-quiz.json) |
 | Advanced Dungeons & Dragons Cartridge | 5654 | [5654-advanced-dungeons-and-dragons-cartridge.json](./5654-advanced-dungeons-and-dragons-cartridge.json) |
 | Advanced Dungeons & Dragons Cartridge | 84251 | [84251-advanced-dungeons-and-dragons-cartridge.json](./84251-advanced-dungeons-and-dragons-cartridge.json) |
+| Advanced Dungeons & Dragons Collector's Edition Vol. 3 | 71692 | [71692-advanced-dungeons-and-dragons-collectors-edition-vol-3.json](./71692-advanced-dungeons-and-dragons-collectors-edition-vol-3.json) |
 | Advanced Dungeons & Dragons Masterpiece Collection | 84218 | [84218-advanced-dungeons-and-dragons-masterpiece-collection.json](./84218-advanced-dungeons-and-dragons-masterpiece-collection.json) |
 | Advanced Dungeons & Dragons Ultimate Fantasy | 362470 | [362470-advanced-dungeons-and-dragons-ultimate-fantasy.json](./362470-advanced-dungeons-and-dragons-ultimate-fantasy.json) |
 | Advanced Dungeons & Dragons: Collectors Edition | 206092 | [206092-advanced-dungeons-and-dragons-collectors-edition.json](./206092-advanced-dungeons-and-dragons-collectors-edition.json) |
@@ -12345,6 +12348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AquaLife 3D | 288877 | [288877-aqualife-3d.json](./288877-aqualife-3d.json) |
 | Aqualux | 52410 | [52410-aqualux.json](./52410-aqualux.json) |
 | Aquaman: Battle for Atlantis | 3788 | [3788-aquaman-battle-for-atlantis.json](./3788-aquaman-battle-for-atlantis.json) |
+| Aquaman: War of the Water Worlds | 71821 | [71821-aquaman-war-of-the-water-worlds.json](./71821-aquaman-war-of-the-water-worlds.json) |
 | Aquamania! | 146616 | [146616-aquamania.json](./146616-aquamania.json) |
 | Aquamarine | 132518 | [132518-aquamarine.json](./132518-aquamarine.json) |
 | Aquamarine Submarine | 174564 | [174564-aquamarine-submarine.json](./174564-aquamarine-submarine.json) |
@@ -13954,6 +13958,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ares Fighter 2 | 235181 | [235181-ares-fighter-2.json](./235181-ares-fighter-2.json) |
 | Ares Fighter 3 | 265809 | [265809-ares-fighter-3.json](./265809-ares-fighter-3.json) |
 | Ares Omega | 34382 | [34382-ares-omega.json](./34382-ares-omega.json) |
+| Ares Rising | 71697 | [71697-ares-rising.json](./71697-ares-rising.json) |
 | Ares Virus | 119288 | [119288-ares-virus.json](./119288-ares-virus.json) |
 | Ares Virus2 | 202431 | [202431-ares-virus2.json](./202431-ares-virus2.json) |
 | ARES: Automated Relay System | 400051 | [400051-ares-automated-relay-system.json](./400051-ares-automated-relay-system.json) |
