@@ -7700,6 +7700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Star Cricket 2 | 193855 | [193855-all-star-cricket-2.json](./193855-all-star-cricket-2.json) |
 | All Star Darts | 79309 | [79309-all-star-darts.json](./79309-all-star-darts.json) |
 | All Star Fighting | 43403 | [43403-all-star-fighting.json](./43403-all-star-fighting.json) |
+| All Star Janken: Battle Portable | 38444 | [38444-all-star-janken-battle-portable.json](./38444-all-star-janken-battle-portable.json) |
 | All Star Karate | 20322 | [20322-all-star-karate.json](./20322-all-star-karate.json) |
 | All Star Kart Race: Crazy Gear Championship | 240103 | [240103-all-star-kart-race-crazy-gear-championship.json](./240103-all-star-kart-race-crazy-gear-championship.json) |
 | All Star Pro Wrestling II | 43619 | [43619-all-star-pro-wrestling-ii.json](./43619-all-star-pro-wrestling-ii.json) |
@@ -14654,6 +14655,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armored Core 2 | 31719 | [31719-armored-core-2.json](./31719-armored-core-2.json) |
 | Armored Core 2: Another Age | 46029 | [46029-armored-core-2-another-age.json](./46029-armored-core-2-another-age.json) |
 | Armored Core 3 | 19414 | [19414-armored-core-3.json](./19414-armored-core-3.json) |
+| Armored Core 3 Portable | 38453 | [38453-armored-core-3-portable.json](./38453-armored-core-3-portable.json) |
 | Armored Core 4 | 5491 | [5491-armored-core-4.json](./5491-armored-core-4.json) |
 | Armored Core VI Fires of Rubicon: Deluxe Edition | 263511 | [263511-armored-core-vi-fires-of-rubicon-deluxe-edition.json](./263511-armored-core-vi-fires-of-rubicon-deluxe-edition.json) |
 | Armored Core VI: Fires of Rubicon | 228542 | [228542-armored-core-vi-fires-of-rubicon.json](./228542-armored-core-vi-fires-of-rubicon.json) |
