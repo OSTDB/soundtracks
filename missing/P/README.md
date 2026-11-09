@@ -66,6 +66,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P.T. for PC | 422107 | [422107-p-t-for-pc.json](./422107-p-t-for-pc.json) |
 | P.T.O. II: Pacific Theater of Operations | 45527 | [45527-p-t-o-ii-pacific-theater-of-operations.json](./45527-p-t-o-ii-pacific-theater-of-operations.json) |
 | P.T.O. IV | 43435 | [43435-p-t-o-iv.json](./43435-p-t-o-iv.json) |
+| P.T.O.: Pacific Theater of Operations | 71695 | [71695-p-t-o-pacific-theater-of-operations.json](./71695-p-t-o-pacific-theater-of-operations.json) |
 | P.T.O.: Pacific Theater of Operations IV | 70232 | [70232-p-t-o-pacific-theater-of-operations-iv.json](./70232-p-t-o-pacific-theater-of-operations-iv.json) |
 | P.U.G.S. Agents | 117914 | [117914-p-u-g-s-agents.json](./117914-p-u-g-s-agents.json) |
 | P.U.R.G.A.T.O.R.Y | 173971 | [173971-p-u-r-g-a-t-o-r-y.json](./173971-p-u-r-g-a-t-o-r-y.json) |
@@ -2367,6 +2368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paratopic: Overdub | 349384 | [349384-paratopic-overdub.json](./349384-paratopic-overdub.json) |
 | Paratrooper | 245156 | [245156-paratrooper.json](./245156-paratrooper.json) |
 | Paratrooper | 25155 | [25155-paratrooper.json](./25155-paratrooper.json) |
+| Paratrooper II | 71696 | [71696-paratrooper-ii.json](./71696-paratrooper-ii.json) |
 | Paratroopers | 24986 | [24986-paratroopers.json](./24986-paratroopers.json) |
 | Paratroopers Raid | 316563 | [316563-paratroopers-raid.json](./316563-paratroopers-raid.json) |
 | Paravalence: With My Angel | 378975 | [378975-paravalence-with-my-angel.json](./378975-paravalence-with-my-angel.json) |
@@ -2603,6 +2605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parodius da!: Shinwa kara Owarai he | 37307 | [37307-parodius-da-shinwa-kara-owarai-he.json](./37307-parodius-da-shinwa-kara-owarai-he.json) |
 | Parodius Portable | 42792 | [42792-parodius-portable.json](./42792-parodius-portable.json) |
 | Parody World: Monster Party | 48570 | [48570-parody-world-monster-party.json](./48570-parody-world-monster-party.json) |
+| Paroxysm | 71673 | [71673-paroxysm.json](./71673-paroxysm.json) |
 | Parquet | 166063 | [166063-parquet.json](./166063-parquet.json) |
 | Parralysis | 399271 | [399271-parralysis.json](./399271-parralysis.json) |
 | Parrot | 186827 | [186827-parrot.json](./186827-parrot.json) |
@@ -5794,6 +5797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phoenix Drive | 97746 | [97746-phoenix-drive.json](./97746-phoenix-drive.json) |
 | Phoenix Dust | 148671 | [148671-phoenix-dust.json](./148671-phoenix-dust.json) |
 | Phoenix Dynasty 2 | 54829 | [54829-phoenix-dynasty-2.json](./54829-phoenix-dynasty-2.json) |
+| Phoenix Fire | 71678 | [71678-phoenix-fire.json](./71678-phoenix-fire.json) |
 | Phoenix HD | 343984 | [343984-phoenix-hd.json](./343984-phoenix-hd.json) |
 | Phoenix Heavy | 134968 | [134968-phoenix-heavy.json](./134968-phoenix-heavy.json) |
 | Phoenix Hope | 192679 | [192679-phoenix-hope.json](./192679-phoenix-hope.json) |
@@ -12351,6 +12355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Political Fight Club | 164931 | [164931-political-fight-club.json](./164931-political-fight-club.json) |
 | Political Mastery | 263053 | [263053-political-mastery.json](./263053-political-mastery.json) |
 | Political Punchers: 2024 Arena | 293701 | [293701-political-punchers-2024-arena.json](./293701-political-punchers-2024-arena.json) |
+| Political Tycoon | 71827 | [71827-political-tycoon.json](./71827-political-tycoon.json) |
 | Politically Yours | 23798 | [23798-politically-yours.json](./23798-politically-yours.json) |
 | PolitiCats | 57365 | [57365-politicats.json](./57365-politicats.json) |
 | Politician Simulator | 298394 | [298394-politician-simulator.json](./298394-politician-simulator.json) |
