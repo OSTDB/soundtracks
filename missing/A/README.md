@@ -16483,6 +16483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Asteroids: Far Away From Home | 158993 | [158993-asteroids-far-away-from-home.json](./158993-asteroids-far-away-from-home.json) |
 | Asteroids: Gunner | 64402 | [64402-asteroids-gunner.json](./64402-asteroids-gunner.json) |
 | Asteroids: Multiplayer | 242858 | [242858-asteroids-multiplayer.json](./242858-asteroids-multiplayer.json) |
+| Asteroids: Outpost | 10606 | [10606-asteroids-outpost.json](./10606-asteroids-outpost.json) |
 | Asteroids... But Roguelite | 168640 | [168640-asteroids-but-roguelite.json](./168640-asteroids-but-roguelite.json) |
 | Asteroids++ | 178978 | [178978-asteroids.json](./178978-asteroids.json) |
 | AsteroidsHD | 18174 | [18174-asteroidshd.json](./18174-asteroidshd.json) |
