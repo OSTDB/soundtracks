@@ -647,6 +647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janet DeMornay is a Slumlord (and a witch) | 262766 | [262766-janet-demornay-is-a-slumlord-and-a-witch.json](./262766-janet-demornay-is-a-slumlord-and-a-witch.json) |
 | Janet's Planets | 400672 | [400672-janets-planets.json](./400672-janets-planets.json) |
 | Jang Pung 3 | 64793 | [64793-jang-pung-3.json](./64793-jang-pung-3.json) |
+| Jang Pung II | 46298 | [46298-jang-pung-ii.json](./46298-jang-pung-ii.json) |
 | Jang-Du Jin Baduk Gyosil Ibmunpyeon | 130465 | [130465-jang-du-jin-baduk-gyosil-ibmunpyeon.json](./130465-jang-du-jin-baduk-gyosil-ibmunpyeon.json) |
 | Jang-Navi Mahjong Online | 86271 | [86271-jang-navi-mahjong-online.json](./86271-jang-navi-mahjong-online.json) |
 | Janga | 121629 | [121629-janga.json](./121629-janga.json) |
