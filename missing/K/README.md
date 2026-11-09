@@ -5777,6 +5777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Koten Tsumego Shuu: Shijin no Maki | 384658 | [384658-koten-tsumego-shuu-shijin-no-maki.json](./384658-koten-tsumego-shuu-shijin-no-maki.json) |
 | Kotenok | 368756 | [368756-kotenok.json](./368756-kotenok.json) |
 | KóterGame | 111856 | [111856-kotergame.json](./111856-kotergame.json) |
+| Koth | 32330 | [32330-koth.json](./32330-koth.json) |
 | Kotiro | 204152 | [204152-kotiro.json](./204152-kotiro.json) |
 | Kotoba Dash | 388182 | [388182-kotoba-dash.json](./388182-kotoba-dash.json) |
 | Kotoba no Kieta Hi ~Kokoro made Hadaka ni Suru Jun'ai Choukyou~ | 142904 | [142904-kotoba-no-kieta-hi-kokoro-made-hadaka-ni-suru-junai-choukyou.json](./142904-kotoba-no-kieta-hi-kokoro-made-hadaka-ni-suru-junai-choukyou.json) |
