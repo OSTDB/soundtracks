@@ -2256,6 +2256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkestville Castle | 59252 | [59252-darkestville-castle.json](./59252-darkestville-castle.json) |
 | Darkevo | 132398 | [132398-darkevo.json](./132398-darkevo.json) |
 | DarkFairyTales SleepingBeauty | 121150 | [121150-darkfairytales-sleepingbeauty.json](./121150-darkfairytales-sleepingbeauty.json) |
+| Darkfall | 23000 | [23000-darkfall.json](./23000-darkfall.json) |
 | Darkfall | 303455 | [303455-darkfall.json](./303455-darkfall.json) |
 | Darkfall Shadows | 382549 | [382549-darkfall-shadows.json](./382549-darkfall-shadows.json) |
 | Darkfall Unholy Wars | 8185 | [8185-darkfall-unholy-wars.json](./8185-darkfall-unholy-wars.json) |
@@ -15753,6 +15754,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Quest Monsters: Joker | 17460 | [17460-dragon-quest-monsters-joker.json](./17460-dragon-quest-monsters-joker.json) |
 | Dragon Quest Monsters: Joker 2 | 21727 | [21727-dragon-quest-monsters-joker-2.json](./21727-dragon-quest-monsters-joker-2.json) |
 | Dragon Quest Monsters: Joker 2 Professional | 106012 | [106012-dragon-quest-monsters-joker-2-professional.json](./106012-dragon-quest-monsters-joker-2-professional.json) |
+| Dragon Quest Monsters: Joker 3 | 24057 | [24057-dragon-quest-monsters-joker-3.json](./24057-dragon-quest-monsters-joker-3.json) |
 | Dragon Quest Monsters: Joker 3 Professional | 79296 | [79296-dragon-quest-monsters-joker-3-professional.json](./79296-dragon-quest-monsters-joker-3-professional.json) |
 | Dragon Quest Monsters: Terry no Wonderland 3D | 80596 | [80596-dragon-quest-monsters-terry-no-wonderland-3d.json](./80596-dragon-quest-monsters-terry-no-wonderland-3d.json) |
 | Dragon Quest Monsters: Terry no Wonderland SP | 111757 | [111757-dragon-quest-monsters-terry-no-wonderland-sp.json](./111757-dragon-quest-monsters-terry-no-wonderland-sp.json) |
