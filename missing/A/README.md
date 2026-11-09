@@ -3148,6 +3148,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Active Health with Carol Vorderman | 67620 | [67620-active-health-with-carol-vorderman.json](./67620-active-health-with-carol-vorderman.json) |
 | Active Lancer | 401836 | [401836-active-lancer.json](./401836-active-lancer.json) |
 | Active Life: Explorer | 4659 | [4659-active-life-explorer.json](./4659-active-life-explorer.json) |
+| Active Life: Magical Carnival | 50686 | [50686-active-life-magical-carnival.json](./50686-active-life-magical-carnival.json) |
+| Active Life: Outdoor Challenge | 50685 | [50685-active-life-outdoor-challenge.json](./50685-active-life-outdoor-challenge.json) |
 | Active Matter | 322158 | [322158-active-matter.json](./322158-active-matter.json) |
 | Active Neurons | 123871 | [123871-active-neurons.json](./123871-active-neurons.json) |
 | Active Neurons 2 | 133167 | [133167-active-neurons-2.json](./133167-active-neurons-2.json) |
@@ -6364,6 +6366,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aladdin II | 242085 | [242085-aladdin-ii.json](./242085-aladdin-ii.json) |
 | Aladdin II | 247340 | [247340-aladdin-ii.json](./247340-aladdin-ii.json) |
 | Aladdin Magic Carpet Racing | 296030 | [296030-aladdin-magic-carpet-racing.json](./296030-aladdin-magic-carpet-racing.json) |
+| Aladdin Magic Racer | 50644 | [50644-aladdin-magic-racer.json](./50644-aladdin-magic-racer.json) |
 | Aladdin of the Forsaken Lands | 268143 | [268143-aladdin-of-the-forsaken-lands.json](./268143-aladdin-of-the-forsaken-lands.json) |
 | Aladdin Pinball | 127641 | [127641-aladdin-pinball.json](./127641-aladdin-pinball.json) |
 | Aladdin: Fate of Agrabah | 67821 | [67821-aladdin-fate-of-agrabah.json](./67821-aladdin-fate-of-agrabah.json) |
@@ -17297,7 +17300,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
