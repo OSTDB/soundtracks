@@ -13885,6 +13885,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Potty Racers | 269602 | [269602-potty-racers.json](./269602-potty-racers.json) |
 | Potty Training Game | 100688 | [100688-potty-training-game.json](./100688-potty-training-game.json) |
 | Potyguara Verse | 369345 | [369345-potyguara-verse.json](./369345-potyguara-verse.json) |
+| Pou | 87029 | [87029-pou.json](./87029-pou.json) |
 | Pou 3D | 380799 | [380799-pou-3d.json](./380799-pou-3d.json) |
 | Pou Boundless | 336455 | [336455-pou-boundless.json](./336455-pou-boundless.json) |
 | Poubelle City | 381359 | [381359-poubelle-city.json](./381359-poubelle-city.json) |
