@@ -2017,6 +2017,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rapala for Kinect | 20242 | [20242-rapala-for-kinect.json](./20242-rapala-for-kinect.json) |
 | Rapala Pro Bass Fishing | 21740 | [21740-rapala-pro-bass-fishing.json](./21740-rapala-pro-bass-fishing.json) |
 | Rapala Pro Fishing | 308988 | [308988-rapala-pro-fishing.json](./308988-rapala-pro-fishing.json) |
+| Rapala Pro Fishing | 47336 | [47336-rapala-pro-fishing.json](./47336-rapala-pro-fishing.json) |
 | Rapala Tournament Fishing | 5115 | [5115-rapala-tournament-fishing.json](./5115-rapala-tournament-fishing.json) |
 | Rapala Trophies | 42806 | [42806-rapala-trophies.json](./42806-rapala-trophies.json) |
 | Rapala: We Fish | 67697 | [67697-rapala-we-fish.json](./67697-rapala-we-fish.json) |
@@ -7323,6 +7324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ricko's Island | 84044 | [84044-rickos-island.json](./84044-rickos-island.json) |
 | Rickstones | 223225 | [223225-rickstones.json](./223225-rickstones.json) |
 | Ricky Did Nothing Wrong | 155965 | [155965-ricky-did-nothing-wrong.json](./155965-ricky-did-nothing-wrong.json) |
+| Ricky Ponting International Cricket 2005 | 47360 | [47360-ricky-ponting-international-cricket-2005.json](./47360-ricky-ponting-international-cricket-2005.json) |
 | Ricky Raccoon | 34666 | [34666-ricky-raccoon.json](./34666-ricky-raccoon.json) |
 | Ricky Raccoon 2 | 36632 | [36632-ricky-raccoon-2.json](./36632-ricky-raccoon-2.json) |
 | Ricky Recharge | 121593 | [121593-ricky-recharge.json](./121593-ricky-recharge.json) |
