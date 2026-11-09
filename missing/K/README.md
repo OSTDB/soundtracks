@@ -2913,7 +2913,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3205,6 +3204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Fighters '95, The: Special Item Box | 75461 | [75461-king-of-fighters-95-the-special-item-box.json](./75461-king-of-fighters-95-the-special-item-box.json) |
 | King of Fighters 2002: 3rd Strike of the Orochi | 205791 | [205791-king-of-fighters-2002-3rd-strike-of-the-orochi.json](./205791-king-of-fighters-2002-3rd-strike-of-the-orochi.json) |
 | King of Fighters R-2 | 210437 | [210437-king-of-fighters-r-2.json](./210437-king-of-fighters-r-2.json) |
+| King of Fighters R-2 | 43988 | [43988-king-of-fighters-r-2.json](./43988-king-of-fighters-r-2.json) |
 | King of Fighters XV: Characters - Duo Lon | 266344 | [266344-king-of-fighters-xv-characters-duo-lon.json](./266344-king-of-fighters-xv-characters-duo-lon.json) |
 | King of Fighters XV: Garou MotW Terry Costume | 320249 | [320249-king-of-fighters-xv-garou-motw-terry-costume.json](./320249-king-of-fighters-xv-garou-motw-terry-costume.json) |
 | King of Fighters: Survival City | 241577 | [241577-king-of-fighters-survival-city.json](./241577-king-of-fighters-survival-city.json) |
