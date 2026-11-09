@@ -2552,6 +2552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parkitect: Deluxe Edition | 192311 | [192311-parkitect-deluxe-edition.json](./192311-parkitect-deluxe-edition.json) |
 | Parkitect: Taste of Adventure | 154203 | [154203-parkitect-taste-of-adventure.json](./154203-parkitect-taste-of-adventure.json) |
 | Parkland | 100484 | [100484-parkland.json](./100484-parkland.json) |
+| Parkour | 56633 | [56633-parkour.json](./56633-parkour.json) |
 | Parkour Annovation: Unreal Edition | 243952 | [243952-parkour-annovation-unreal-edition.json](./243952-parkour-annovation-unreal-edition.json) |
 | Parkour Arcade | 104623 | [104623-parkour-arcade.json](./104623-parkour-arcade.json) |
 | Parkour Assassin: Sprint Run | 329205 | [329205-parkour-assassin-sprint-run.json](./329205-parkour-assassin-sprint-run.json) |
@@ -8434,6 +8435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Islands | 177328 | [177328-pixel-islands.json](./177328-pixel-islands.json) |
 | Pixel Jumper | 192040 | [192040-pixel-jumper.json](./192040-pixel-jumper.json) |
 | Pixel Kane | 273439 | [273439-pixel-kane.json](./273439-pixel-kane.json) |
+| Pixel Killers - The Showdown | 56646 | [56646-pixel-killers-the-showdown.json](./56646-pixel-killers-the-showdown.json) |
 | Pixel Knight | 252675 | [252675-pixel-knight.json](./252675-pixel-knight.json) |
 | Pixel Knights Online | 227375 | [227375-pixel-knights-online.json](./227375-pixel-knights-online.json) |
 | Pixel Legions | 132106 | [132106-pixel-legions.json](./132106-pixel-legions.json) |
@@ -11042,6 +11044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Point Connect | 54851 | [54851-point-connect.json](./54851-point-connect.json) |
 | Point Connect 2 | 55658 | [55658-point-connect-2.json](./55658-point-connect-2.json) |
 | Point Connect 3 | 55657 | [55657-point-connect-3.json](./55657-point-connect-3.json) |
+| Point Connect 4 | 56641 | [56641-point-connect-4.json](./56641-point-connect-4.json) |
 | Point Connect 5 | 68370 | [68370-point-connect-5.json](./68370-point-connect-5.json) |
 | Point Gakushuu: 10-masu Keisan | 327621 | [327621-point-gakushuu-10-masu-keisan.json](./327621-point-gakushuu-10-masu-keisan.json) |
 | Point Gakushuu: Kakijun | 327620 | [327620-point-gakushuu-kakijun.json](./327620-point-gakushuu-kakijun.json) |
@@ -13880,6 +13883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Disc Slam | 59291 | [59291-power-disc-slam.json](./59291-power-disc-slam.json) |
 | Power Dolls | 85770 | [85770-power-dolls.json](./85770-power-dolls.json) |
 | Power Dolls 1 | 228982 | [228982-power-dolls-1.json](./228982-power-dolls-1.json) |
+| Power Dolls 2 | 56179 | [56179-power-dolls-2.json](./56179-power-dolls-2.json) |
 | Power Dolls 2 Dash | 228976 | [228976-power-dolls-2-dash.json](./228976-power-dolls-2-dash.json) |
 | Power Dolls 3 | 228977 | [228977-power-dolls-3.json](./228977-power-dolls-3.json) |
 | Power Dolls 4 | 228978 | [228978-power-dolls-4.json](./228978-power-dolls-4.json) |
@@ -16995,6 +16999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Projective | 128722 | [128722-projective.json](./128722-projective.json) |
 | ProjectL | 63241 | [63241-projectl.json](./63241-projectl.json) |
 | ProjectM : Daydream | 56606 | [56606-projectm-daydream.json](./56606-projectm-daydream.json) |
+| ProjectM : Dream | 56605 | [56605-projectm-dream.json](./56605-projectm-dream.json) |
 | ProjectNimbus | 100205 | [100205-projectnimbus.json](./100205-projectnimbus.json) |
 | Projector | 202937 | [202937-projector.json](./202937-projector.json) |
 | Projector Face | 33820 | [33820-projector-face.json](./33820-projector-face.json) |
