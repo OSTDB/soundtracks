@@ -8624,6 +8624,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Devilry Reservation | 239673 | [239673-the-devilry-reservation.json](./239673-the-devilry-reservation.json) |
 | The Devilry Reservation 2 | 356599 | [356599-the-devilry-reservation-2.json](./356599-the-devilry-reservation-2.json) |
 | The Devilry Reservation: Сhapter II | 263036 | [263036-the-devilry-reservation-hapter-ii.json](./263036-the-devilry-reservation-hapter-ii.json) |
+| The Devils Crown | 39105 | [39105-the-devils-crown.json](./39105-the-devils-crown.json) |
 | The Devils Dungeon | 183760 | [183760-the-devils-dungeon.json](./183760-the-devils-dungeon.json) |
 | The Devils: A Visual Novel of WWII | 192381 | [192381-the-devils-a-visual-novel-of-wwii.json](./192381-the-devils-a-visual-novel-of-wwii.json) |
 | The Devilz Work | 315512 | [315512-the-devilz-work.json](./315512-the-devilz-work.json) |
@@ -16431,6 +16432,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Safeguard Garrison | 29672 | [29672-the-safeguard-garrison.json](./29672-the-safeguard-garrison.json) |
 | The Safeguard Garrison 2 | 28899 | [28899-the-safeguard-garrison-2.json](./28899-the-safeguard-garrison-2.json) |
 | The Safeguard Garrison: Space Colonies | 43159 | [43159-the-safeguard-garrison-space-colonies.json](./43159-the-safeguard-garrison-space-colonies.json) |
+| The Saga of Erik the Viking | 39095 | [39095-the-saga-of-erik-the-viking.json](./39095-the-saga-of-erik-the-viking.json) |
 | The Saga of Nino's Transmigration | 120389 | [120389-the-saga-of-ninos-transmigration.json](./120389-the-saga-of-ninos-transmigration.json) |
 | The Saga of the Candy Scroll | 345609 | [345609-the-saga-of-the-candy-scroll.json](./345609-the-saga-of-the-candy-scroll.json) |
 | The Sage of Twilight | 55256 | [55256-the-sage-of-twilight.json](./55256-the-sage-of-twilight.json) |
@@ -30996,6 +30998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Transylvania | 12262 | [12262-transylvania.json](./12262-transylvania.json) |
 | Transylvania III: Vanquish the Night | 15533 | [15533-transylvania-iii-vanquish-the-night.json](./15533-transylvania-iii-vanquish-the-night.json) |
 | Transylvanian Tower | 45312 | [45312-transylvanian-tower.json](./45312-transylvanian-tower.json) |
+| Trantor: The Last Stormtrooper | 39097 | [39097-trantor-the-last-stormtrooper.json](./39097-trantor-the-last-stormtrooper.json) |
 | Tranz Am | 45358 | [45358-tranz-am.json](./45358-tranz-am.json) |
 | Trap | 98772 | [98772-trap.json](./98772-trap.json) |
 | Trap Adventure | 153040 | [153040-trap-adventure.json](./153040-trap-adventure.json) |
