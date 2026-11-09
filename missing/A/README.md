@@ -1861,6 +1861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abaddon | 305287 | [305287-abaddon.json](./305287-abaddon.json) |
 | Abaddon | 376840 | [376840-abaddon.json](./376840-abaddon.json) |
 | Abaddon | 67097 | [67097-abaddon.json](./67097-abaddon.json) |
+| Abaddon: Fallen Angel | 69968 | [69968-abaddon-fallen-angel.json](./69968-abaddon-fallen-angel.json) |
 | Abaddon: Princess of the Decay | 151945 | [151945-abaddon-princess-of-the-decay.json](./151945-abaddon-princess-of-the-decay.json) |
 | Abaddon's Veil | 255600 | [255600-abaddons-veil.json](./255600-abaddons-veil.json) |
 | Abadox: The Deadly Inner War | 7903 | [7903-abadox-the-deadly-inner-war.json](./7903-abadox-the-deadly-inner-war.json) |
@@ -4302,6 +4303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aevalore | 401087 | [401087-aevalore.json](./401087-aevalore.json) |
 | Aeve:Zero Gravity | 83540 | [83540-aeve-zero-gravity.json](./83540-aeve-zero-gravity.json) |
 | Aevitas | 262227 | [262227-aevitas.json](./262227-aevitas.json) |
+| Aevum Obscurum | 69604 | [69604-aevum-obscurum.json](./69604-aevum-obscurum.json) |
 | Aevumblade Chronicles | 219686 | [219686-aevumblade-chronicles.json](./219686-aevumblade-chronicles.json) |
 | AEW Casino: Double or Nothing | 145214 | [145214-aew-casino-double-or-nothing.json](./145214-aew-casino-double-or-nothing.json) |
 | AEW Elite General Manager | 150024 | [150024-aew-elite-general-manager.json](./150024-aew-elite-general-manager.json) |
@@ -8626,6 +8628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amazon Quest | 245785 | [245785-amazon-quest.json](./245785-amazon-quest.json) |
 | Amazon Rush | 89271 | [89271-amazon-rush.json](./89271-amazon-rush.json) |
 | Amazon Skulls | 73735 | [73735-amazon-skulls.json](./73735-amazon-skulls.json) |
+| Amazon Trail 3rd Edition: Rainforest Adventures | 69959 | [69959-amazon-trail-3rd-edition-rainforest-adventures.json](./69959-amazon-trail-3rd-edition-rainforest-adventures.json) |
 | Amazon Trail II | 65850 | [65850-amazon-trail-ii.json](./65850-amazon-trail-ii.json) |
 | Amazon Warrior | 342053 | [342053-amazon-warrior.json](./342053-amazon-warrior.json) |
 | Amazon: Guardians of Eden | 2307 | [2307-amazon-guardians-of-eden.json](./2307-amazon-guardians-of-eden.json) |
@@ -9451,6 +9454,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anarea Battle Royale | 128037 | [128037-anarea-battle-royale.json](./128037-anarea-battle-royale.json) |
 | Anaria | 350965 | [350965-anaria.json](./350965-anaria.json) |
 | Anark.io | 95592 | [95592-anark-io.json](./95592-anark-io.json) |
+| Anasazi Tasholiiwe | 69621 | [69621-anasazi-tasholiiwe.json](./69621-anasazi-tasholiiwe.json) |
 | Anasozas: Another Surreal World | 379449 | [379449-anasozas-another-surreal-world.json](./379449-anasozas-another-surreal-world.json) |
 | Anastasia | 198670 | [198670-anastasia.json](./198670-anastasia.json) |
 | Anastasia | 208394 | [208394-anastasia.json](./208394-anastasia.json) |
@@ -16496,6 +16500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Boy: Edge of Time | 36913 | [36913-astro-boy-edge-of-time.json](./36913-astro-boy-edge-of-time.json) |
 | Astro Boy: Omega Factor | 6310 | [6310-astro-boy-omega-factor.json](./6310-astro-boy-omega-factor.json) |
 | Astro Boy: The Video Game | 4682 | [4682-astro-boy-the-video-game.json](./4682-astro-boy-the-video-game.json) |
+| Astro Boy: The Video Game | 69600 | [69600-astro-boy-the-video-game.json](./69600-astro-boy-the-video-game.json) |
 | Astro Bugz Revenge | 51091 | [51091-astro-bugz-revenge.json](./51091-astro-bugz-revenge.json) |
 | Astro Burn | 350037 | [350037-astro-burn.json](./350037-astro-burn.json) |
 | Astro Busters | 342985 | [342985-astro-busters.json](./342985-astro-busters.json) |
