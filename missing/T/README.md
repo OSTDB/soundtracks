@@ -3357,6 +3357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tecmo Bowl: Kickoff | 264889 | [264889-tecmo-bowl-kickoff.json](./264889-tecmo-bowl-kickoff.json) |
 | Tecmo Classic Arcade | 6192 | [6192-tecmo-classic-arcade.json](./6192-tecmo-classic-arcade.json) |
 | Tecmo Cup Soccer Game | 48227 | [48227-tecmo-cup-soccer-game.json](./48227-tecmo-cup-soccer-game.json) |
+| Tecmo Hit Parade | 57231 | [57231-tecmo-hit-parade.json](./57231-tecmo-hit-parade.json) |
 | Tecmo Knight | 40002 | [40002-tecmo-knight.json](./40002-tecmo-knight.json) |
 | Tecmo NBA Basketball | 48226 | [48226-tecmo-nba-basketball.json](./48226-tecmo-nba-basketball.json) |
 | Tecmo Secret of the Stars | 15893 | [15893-tecmo-secret-of-the-stars.json](./15893-tecmo-secret-of-the-stars.json) |
@@ -11422,6 +11423,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Immortal Mayor: Kingdom of Women | 262077 | [262077-the-immortal-mayor-kingdom-of-women.json](./262077-the-immortal-mayor-kingdom-of-women.json) |
 | The Immortal Mayor: The Feather Kingdom | 293756 | [293756-the-immortal-mayor-the-feather-kingdom.json](./293756-the-immortal-mayor-the-feather-kingdom.json) |
 | The Immortals of Terra: A Perry Rhodan Adventure | 9108 | [9108-the-immortals-of-terra-a-perry-rhodan-adventure.json](./9108-the-immortals-of-terra-a-perry-rhodan-adventure.json) |
+| The Impassable Speed Labyrinth | 57226 | [57226-the-impassable-speed-labyrinth.json](./57226-the-impassable-speed-labyrinth.json) |
 | The Imperial Base | 359450 | [359450-the-imperial-base.json](./359450-the-imperial-base.json) |
 | The Imperial Capital Burns: Muv-Luv Alternative Total Eclipse | 276596 | [276596-the-imperial-capital-burns-muv-luv-alternative-total-eclipse.json](./276596-the-imperial-capital-burns-muv-luv-alternative-total-eclipse.json) |
 | The Imperial Gatekeeper | 146764 | [146764-the-imperial-gatekeeper.json](./146764-the-imperial-gatekeeper.json) |
@@ -11784,6 +11786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Judgement Chamber | 243656 | [243656-the-judgement-chamber.json](./243656-the-judgement-chamber.json) |
 | The Judgement of Q | 173272 | [173272-the-judgement-of-q.json](./173272-the-judgement-of-q.json) |
 | The Judgment Collection | 342629 | [342629-the-judgment-collection.json](./342629-the-judgment-collection.json) |
+| The Juice Monster | 57242 | [57242-the-juice-monster.json](./57242-the-juice-monster.json) |
 | The Juice of God's Future | 176387 | [176387-the-juice-of-gods-future.json](./176387-the-juice-of-gods-future.json) |
 | The Jump 2016 | 109997 | [109997-the-jump-2016.json](./109997-the-jump-2016.json) |
 | The jump guys | 285883 | [285883-the-jump-guys.json](./285883-the-jump-guys.json) |
@@ -29822,6 +29825,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trainer Canyon | 196526 | [196526-trainer-canyon.json](./196526-trainer-canyon.json) |
 | Trainer Eyes | 338952 | [338952-trainer-eyes.json](./338952-trainer-eyes.json) |
 | Trainer Eyes VR | 310330 | [310330-trainer-eyes-vr.json](./310330-trainer-eyes-vr.json) |
+| Trainers of Kala | 57209 | [57209-trainers-of-kala.json](./57209-trainers-of-kala.json) |
 | TrainFormation | 213204 | [213204-trainformation.json](./213204-trainformation.json) |
 | Trainfort | 345442 | [345442-trainfort.json](./345442-trainfort.json) |
 | Trainiac | 100634 | [100634-trainiac.json](./100634-trainiac.json) |
@@ -33514,6 +33518,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tunnel Boat Terror | 258544 | [258544-tunnel-boat-terror.json](./258544-tunnel-boat-terror.json) |
 | Tunnel Divers | 41953 | [41953-tunnel-divers.json](./41953-tunnel-divers.json) |
 | Tunnel Escape | 302803 | [302803-tunnel-escape.json](./302803-tunnel-escape.json) |
+| Tunnel Flyer | 57238 | [57238-tunnel-flyer.json](./57238-tunnel-flyer.json) |
 | Tunnel Hero 3D | 232328 | [232328-tunnel-hero-3d.json](./232328-tunnel-hero-3d.json) |
 | Tunnel Hunt | 176079 | [176079-tunnel-hunt.json](./176079-tunnel-hunt.json) |
 | Tunnel Madness | 131878 | [131878-tunnel-madness.json](./131878-tunnel-madness.json) |
