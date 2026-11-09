@@ -356,14 +356,19 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi-Slot Aruze Oukoku | 56738 | [56738-pachi-slot-aruze-oukoku.json](./56738-pachi-slot-aruze-oukoku.json) |
 | Pachi-Slot Aruze Oukoku 2 | 56736 | [56736-pachi-slot-aruze-oukoku-2.json](./56736-pachi-slot-aruze-oukoku-2.json) |
 | Pachi-Slot Aruze Oukoku 3 | 56731 | [56731-pachi-slot-aruze-oukoku-3.json](./56731-pachi-slot-aruze-oukoku-3.json) |
+| Pachi-Slot Aruze Oukoku 4 | 56726 | [56726-pachi-slot-aruze-oukoku-4.json](./56726-pachi-slot-aruze-oukoku-4.json) |
+| Pachi-Slot Aruze Oukoku 5 | 56727 | [56727-pachi-slot-aruze-oukoku-5.json](./56727-pachi-slot-aruze-oukoku-5.json) |
 | Pachi-Slot Aruze Oukoku 6 | 56728 | [56728-pachi-slot-aruze-oukoku-6.json](./56728-pachi-slot-aruze-oukoku-6.json) |
 | Pachi-Slot Aruze Oukoku 7 | 56735 | [56735-pachi-slot-aruze-oukoku-7.json](./56735-pachi-slot-aruze-oukoku-7.json) |
+| Pachi-Slot Aruze Oukoku Pocket: Azteca | 56725 | [56725-pachi-slot-aruze-oukoku-pocket-azteca.json](./56725-pachi-slot-aruze-oukoku-pocket-azteca.json) |
 | Pachi-Slot Aruze Oukoku Pocket: Dai-hanabi | 279817 | [279817-pachi-slot-aruze-oukoku-pocket-dai-hanabi.json](./279817-pachi-slot-aruze-oukoku-pocket-dai-hanabi.json) |
 | Pachi-Slot Aruze Oukoku Pocket: Dekahel | 56737 | [56737-pachi-slot-aruze-oukoku-pocket-dekahel.json](./56737-pachi-slot-aruze-oukoku-pocket-dekahel.json) |
+| Pachi-Slot Aruze Oukoku Pocket: e-Cup | 56724 | [56724-pachi-slot-aruze-oukoku-pocket-e-cup.json](./56724-pachi-slot-aruze-oukoku-pocket-e-cup.json) |
 | Pachi-Slot Biohazard 5 | 61488 | [61488-pachi-slot-biohazard-5.json](./61488-pachi-slot-biohazard-5.json) |
 | Pachi-Slot Biohazard 6 | 83114 | [83114-pachi-slot-biohazard-6.json](./83114-pachi-slot-biohazard-6.json) |
 | Pachi-Slot Gambler | 42238 | [42238-pachi-slot-gambler.json](./42238-pachi-slot-gambler.json) |
 | Pachi-Slot Higurashi no Naku Koro ni Matsuri | 263021 | [263021-pachi-slot-higurashi-no-naku-koro-ni-matsuri.json](./263021-pachi-slot-higurashi-no-naku-koro-ni-matsuri.json) |
+| Pachi-Slot Kanzen Kōryaku: Onihama Bakusō Gurentai - Gekitō-hen | 56718 | [56718-pachi-slot-kanzen-koryaku-onihama-bakuso-gurentai-gekito-hen.json](./56718-pachi-slot-kanzen-koryaku-onihama-bakuso-gurentai-gekito-hen.json) |
 | Pachi-Slot Kanzen Kouryaku | 38138 | [38138-pachi-slot-kanzen-kouryaku.json](./38138-pachi-slot-kanzen-kouryaku.json) |
 | Pachi-Slot Kanzen Kouryaku Uni-Colle'97 | 176134 | [176134-pachi-slot-kanzen-kouryaku-uni-colle97.json](./176134-pachi-slot-kanzen-kouryaku-uni-colle97.json) |
 | Pachi-Slot Kanzen Kouryaku: Takasago Super Project | 402737 | [402737-pachi-slot-kanzen-kouryaku-takasago-super-project.json](./402737-pachi-slot-kanzen-kouryaku-takasago-super-project.json) |
@@ -13149,6 +13154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PopCap Arcade: Rakushisa, Ippai, Action & Puzzle 7 Pack | 86144 | [86144-popcap-arcade-rakushisa-ippai-action-and-puzzle-7-pack.json](./86144-popcap-arcade-rakushisa-ippai-action-and-puzzle-7-pack.json) |
 | PopCap Bundle | 82436 | [82436-popcap-bundle.json](./82436-popcap-bundle.json) |
 | PopCap Hits! | 23387 | [23387-popcap-hits.json](./23387-popcap-hits.json) |
+| PopCap Hits! Vol 1 | 57229 | [57229-popcap-hits-vol-1.json](./57229-popcap-hits-vol-1.json) |
 | PopCap Hits! Vol 2 | 80781 | [80781-popcap-hits-vol-2.json](./80781-popcap-hits-vol-2.json) |
 | Popcorn | 357459 | [357459-popcorn.json](./357459-popcorn.json) |
 | Popcorn | 44345 | [44345-popcorn.json](./44345-popcorn.json) |
@@ -14594,6 +14600,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Preternatural Candy Shop | 179417 | [179417-preternatural-candy-shop.json](./179417-preternatural-candy-shop.json) |
 | Pretinders | 184705 | [184705-pretinders.json](./184705-pretinders.json) |
 | Prettiest Morgue | 404039 | [404039-prettiest-morgue.json](./404039-prettiest-morgue.json) |
+| Pretty | 57202 | [57202-pretty.json](./57202-pretty.json) |
 | Pretty Agent | 311561 | [311561-pretty-agent.json](./311561-pretty-agent.json) |
 | Pretty Angel | 127092 | [127092-pretty-angel.json](./127092-pretty-angel.json) |
 | Pretty Ballerina Dancer | 87015 | [87015-pretty-ballerina-dancer.json](./87015-pretty-ballerina-dancer.json) |
