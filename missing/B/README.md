@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -10617,6 +10618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blitz Society | 386109 | [386109-blitz-society.json](./386109-blitz-society.json) |
 | Blitz Sonic | 332549 | [332549-blitz-sonic.json](./332549-blitz-sonic.json) |
 | Blitz Tennis | 14611 | [14611-blitz-tennis.json](./14611-blitz-tennis.json) |
+| Blitz: Overtime | 42749 | [42749-blitz-overtime.json](./42749-blitz-overtime.json) |
 | Blitz: Race Against Time | 342208 | [342208-blitz-race-against-time.json](./342208-blitz-race-against-time.json) |
 | Blitz: The League | 264860 | [264860-blitz-the-league.json](./264860-blitz-the-league.json) |
 | Blitz: The League | 5753 | [5753-blitz-the-league.json](./5753-blitz-the-league.json) |
@@ -11214,6 +11216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bloktonik | 79094 | [79094-bloktonik.json](./79094-bloktonik.json) |
 | Bloktris | 267558 | [267558-bloktris.json](./267558-bloktris.json) |
 | Bloku! | 259541 | [259541-bloku.json](./259541-bloku.json) |
+| Blokus Portable: Steambot Championship | 42718 | [42718-blokus-portable-steambot-championship.json](./42718-blokus-portable-steambot-championship.json) |
 | Blokus World Tour | 51405 | [51405-blokus-world-tour.json](./51405-blokus-world-tour.json) |
 | Blokus: Attack, Block & Defend! | 91313 | [91313-blokus-attack-block-and-defend.json](./91313-blokus-attack-block-and-defend.json) |
 | Blomby Car | 39816 | [39816-blomby-car.json](./39816-blomby-car.json) |
