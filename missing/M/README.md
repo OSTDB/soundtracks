@@ -5729,6 +5729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Math Blaster Mystery: Pre-Algebra | 66338 | [66338-math-blaster-mystery-pre-algebra.json](./66338-math-blaster-mystery-pre-algebra.json) |
 | Math Blaster Mystery: The Great Brain Robbery | 10672 | [10672-math-blaster-mystery-the-great-brain-robbery.json](./10672-math-blaster-mystery-the-great-brain-robbery.json) |
 | Math Blaster Plus! | 10669 | [10669-math-blaster-plus.json](./10669-math-blaster-plus.json) |
+| Math Blaster Plus! | 72255 | [72255-math-blaster-plus.json](./72255-math-blaster-plus.json) |
 | Math Blaster: Episode One - In Search of Spot | 4419 | [4419-math-blaster-episode-one-in-search-of-spot.json](./4419-math-blaster-episode-one-in-search-of-spot.json) |
 | Math Blaster: Episode Two - Secret of the Lost City | 10671 | [10671-math-blaster-episode-two-secret-of-the-lost-city.json](./10671-math-blaster-episode-two-secret-of-the-lost-city.json) |
 | Math Blaster: Master the Basics | 59343 | [59343-math-blaster-master-the-basics.json](./59343-math-blaster-master-the-basics.json) |
@@ -6133,6 +6134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Surge | 94175 | [94175-maximum-surge.json](./94175-maximum-surge.json) |
 | Maximum Thunderness | 405152 | [405152-maximum-thunderness.json](./405152-maximum-thunderness.json) |
 | Maximum Tough Guy | 252023 | [252023-maximum-tough-guy.json](./252023-maximum-tough-guy.json) |
+| Maximum Tycoon | 72238 | [72238-maximum-tycoon.json](./72238-maximum-tycoon.json) |
 | Maximum Velocity | 219465 | [219465-maximum-velocity.json](./219465-maximum-velocity.json) |
 | Maximus | 333766 | [333766-maximus.json](./333766-maximus.json) |
 | Maximus 2 | 197681 | [197681-maximus-2.json](./197681-maximus-2.json) |
@@ -9441,6 +9443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merc Zone | 137799 | [137799-merc-zone.json](./137799-merc-zone.json) |
 | Mercapolis | 302791 | [302791-mercapolis.json](./302791-mercapolis.json) |
 | Mercator | 345071 | [345071-mercator.json](./345071-mercator.json) |
+| Mercedes-Benz Truck Racing | 72390 | [72390-mercedes-benz-truck-racing.json](./72390-mercedes-benz-truck-racing.json) |
 | Mercenarian | 310075 | [310075-mercenarian.json](./310075-mercenarian.json) |
 | Mercenaries 2: World Nearly in Flames | 304973 | [304973-mercenaries-2-world-nearly-in-flames.json](./304973-mercenaries-2-world-nearly-in-flames.json) |
 | Mercenaries 3: No Limits | 327016 | [327016-mercenaries-3-no-limits.json](./327016-mercenaries-3-no-limits.json) |
@@ -11009,6 +11012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Microsoft Flight Simulator 1.0 | 3353 | [3353-microsoft-flight-simulator-1-0.json](./3353-microsoft-flight-simulator-1-0.json) |
 | Microsoft Flight Simulator 2.0 | 3354 | [3354-microsoft-flight-simulator-2-0.json](./3354-microsoft-flight-simulator-2-0.json) |
 | Microsoft Flight Simulator 2000 | 788 | [788-microsoft-flight-simulator-2000.json](./788-microsoft-flight-simulator-2000.json) |
+| Microsoft Flight Simulator 2000: Airbus 2000 - Special Edition | 72253 | [72253-microsoft-flight-simulator-2000-airbus-2000-special-edition.json](./72253-microsoft-flight-simulator-2000-airbus-2000-special-edition.json) |
 | Microsoft Flight Simulator 2000: World Airliners - 747-400 and 777-200 Professional | 205876 | [205876-microsoft-flight-simulator-2000-world-airliners-747-400-and-777-200-professional.json](./205876-microsoft-flight-simulator-2000-world-airliners-747-400-and-777-200-professional.json) |
 | Microsoft Flight Simulator 2002 | 73734 | [73734-microsoft-flight-simulator-2002.json](./73734-microsoft-flight-simulator-2002.json) |
 | Microsoft Flight Simulator 2002: Professional Edition | 711 | [711-microsoft-flight-simulator-2002-professional-edition.json](./711-microsoft-flight-simulator-2002-professional-edition.json) |
@@ -17591,6 +17595,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Morning Room | 317091 | [317091-morning-room.json](./317091-morning-room.json) |
 | Morning Star | 103323 | [103323-morning-star.json](./103323-morning-star.json) |
 | Morning,Star-2021 | 418904 | [418904-morning-star-2021.json](./418904-morning-star-2021.json) |
+| Morning's Wrath | 72259 | [72259-mornings-wrath.json](./72259-mornings-wrath.json) |
 | Morningdew Farms: A Gay Farming Game | 118602 | [118602-morningdew-farms-a-gay-farming-game.json](./118602-morningdew-farms-a-gay-farming-game.json) |
 | Mornings | 184059 | [184059-mornings.json](./184059-mornings.json) |
 | Mornings with Java | 229770 | [229770-mornings-with-java.json](./229770-mornings-with-java.json) |
@@ -22575,6 +22580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MysteryOS | 397398 | [397398-mysteryos.json](./397398-mysteryos.json) |
 | MysteryScrolls | 319193 | [319193-mysteryscrolls.json](./319193-mysteryscrolls.json) |
 | Mysterytale Online | 374974 | [374974-mysterytale-online.json](./374974-mysterytale-online.json) |
+| Mysteryville | 72392 | [72392-mysteryville.json](./72392-mysteryville.json) |
 | Mysteryville 2 | 73151 | [73151-mysteryville-2.json](./73151-mysteryville-2.json) |
 | Mystfed | 183522 | [183522-mystfed.json](./183522-mystfed.json) |
 | Mystia | 288872 | [288872-mystia.json](./288872-mystia.json) |
