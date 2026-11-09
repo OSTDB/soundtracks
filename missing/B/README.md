@@ -987,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3797,6 +3798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle for the Galaxy | 54955 | [54955-battle-for-the-galaxy.json](./54955-battle-for-the-galaxy.json) |
 | Battle For The Hill | 294123 | [294123-battle-for-the-hill.json](./294123-battle-for-the-hill.json) |
 | Battle for the Kingdom | 156631 | [156631-battle-for-the-kingdom.json](./156631-battle-for-the-kingdom.json) |
+| Battle for the last chicken | 76795 | [76795-battle-for-the-last-chicken.json](./76795-battle-for-the-last-chicken.json) |
 | Battle for the Mountain Throne | 98456 | [98456-battle-for-the-mountain-throne.json](./98456-battle-for-the-mountain-throne.json) |
 | Battle for the Raise | 391817 | [391817-battle-for-the-raise.json](./391817-battle-for-the-raise.json) |
 | Battle for the Sphere of Chaos | 268904 | [268904-battle-for-the-sphere-of-chaos.json](./268904-battle-for-the-sphere-of-chaos.json) |
