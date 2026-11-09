@@ -577,6 +577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eastwind Adventures: Chapter 1 | 311792 | [311792-eastwind-adventures-chapter-1.json](./311792-eastwind-adventures-chapter-1.json) |
 | EastwoodVR | 28868 | [28868-eastwoodvr.json](./28868-eastwoodvr.json) |
 | Eastwynne | 370219 | [370219-eastwynne.json](./370219-eastwynne.json) |
+| Easy Bake Kitchen | 69614 | [69614-easy-bake-kitchen.json](./69614-easy-bake-kitchen.json) |
 | Easy Ball Game | 316069 | [316069-easy-ball-game.json](./316069-easy-ball-game.json) |
 | Easy Breezy Drive | 295603 | [295603-easy-breezy-drive.json](./295603-easy-breezy-drive.json) |
 | Easy Bubbles | 344720 | [344720-easy-bubbles.json](./344720-easy-bubbles.json) |
