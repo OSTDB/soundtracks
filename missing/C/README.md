@@ -8360,6 +8360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choujin Sentai Jetman | 318559 | [318559-choujin-sentai-jetman.json](./318559-choujin-sentai-jetman.json) |
 | Choujin Ultra Baseball Action Card Battle | 97815 | [97815-choujin-ultra-baseball-action-card-battle.json](./97815-choujin-ultra-baseball-action-card-battle.json) |
 | Choujirou | 133318 | [133318-choujirou.json](./133318-choujirou.json) |
+| Choukousoku Reversi | 44689 | [44689-choukousoku-reversi.json](./44689-choukousoku-reversi.json) |
 | Chouon RPG: Ushinawareta Ototoi Mura | 142962 | [142962-chouon-rpg-ushinawareta-ototoi-mura.json](./142962-chouon-rpg-ushinawareta-ototoi-mura.json) |
 | Chousenshi Densetsu: Assault from the Sea | 62189 | [62189-chousenshi-densetsu-assault-from-the-sea.json](./62189-chousenshi-densetsu-assault-from-the-sea.json) |
 | Chousentou Kyuugi: The Ultimate Ballgame Van Borg | 135674 | [135674-chousentou-kyuugi-the-ultimate-ballgame-van-borg.json](./135674-chousentou-kyuugi-the-ultimate-ballgame-van-borg.json) |
@@ -11665,6 +11666,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code of Princess | 6751 | [6751-code-of-princess.json](./6751-code-of-princess.json) |
 | Code of Princess EX | 90104 | [90104-code-of-princess-ex.json](./90104-code-of-princess-ex.json) |
 | Code Of Superheroes | 301809 | [301809-code-of-superheroes.json](./301809-code-of-superheroes.json) |
+| Code of the Samurai | 44684 | [44684-code-of-the-samurai.json](./44684-code-of-the-samurai.json) |
 | Code of the Savage | 173310 | [173310-code-of-the-savage.json](./173310-code-of-the-savage.json) |
 | Code of War | 89730 | [89730-code-of-war.json](./89730-code-of-war.json) |
 | Code One Dispatch | 386315 | [386315-code-one-dispatch.json](./386315-code-one-dispatch.json) |
@@ -18313,6 +18315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Critical Strike Shooter: SWAT Rescue Missions | 304275 | [304275-critical-strike-shooter-swat-rescue-missions.json](./304275-critical-strike-shooter-swat-rescue-missions.json) |
 | Critical Strike: Dead or Survival | 108218 | [108218-critical-strike-dead-or-survival.json](./108218-critical-strike-dead-or-survival.json) |
 | Critical Upload | 298442 | [298442-critical-upload.json](./298442-critical-upload.json) |
+| Critical Velocity | 44691 | [44691-critical-velocity.json](./44691-critical-velocity.json) |
 | Critical Zone | 148695 | [148695-critical-zone.json](./148695-critical-zone.json) |
 | Critical Zone | 397418 | [397418-critical-zone.json](./397418-critical-zone.json) |
 | Criticality | 180788 | [180788-criticality.json](./180788-criticality.json) |
