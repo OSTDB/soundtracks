@@ -650,6 +650,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eat the Fish 2016 | 90680 | [90680-eat-the-fish-2016.json](./90680-eat-the-fish-2016.json) |
 | Eat the Rich | 176802 | [176802-eat-the-rich.json](./176802-eat-the-rich.json) |
 | Eat the Rich | 285024 | [285024-eat-the-rich.json](./285024-eat-the-rich.json) |
+| Eat the Whistle | 72254 | [72254-eat-the-whistle.json](./72254-eat-the-whistle.json) |
 | Eat the Wounded | 161590 | [161590-eat-the-wounded.json](./161590-eat-the-wounded.json) |
 | Eat Them! | 21167 | [21167-eat-them.json](./21167-eat-them.json) |
 | Eat This | 299468 | [299468-eat-this.json](./299468-eat-this.json) |
