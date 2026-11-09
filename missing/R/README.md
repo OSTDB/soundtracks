@@ -4809,6 +4809,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reign: Conflict of Nations | 11430 | [11430-reign-conflict-of-nations.json](./11430-reign-conflict-of-nations.json) |
 | Reignbreaker | 314640 | [314640-reignbreaker.json](./314640-reignbreaker.json) |
 | Reigning | 153849 | [153849-reigning.json](./153849-reigning.json) |
+| Reigning Cats | 34556 | [34556-reigning-cats.json](./34556-reigning-cats.json) |
 | ReignMaker | 17162 | [17162-reignmaker.json](./17162-reignmaker.json) |
 | Reignman | 99033 | [99033-reignman.json](./99033-reignman.json) |
 | Reigns | 22436 | [22436-reigns.json](./22436-reigns.json) |
@@ -12836,6 +12837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run&Brake - Animal Escape | 108195 | [108195-run-and-brake-animal-escape.json](./108195-run-and-brake-animal-escape.json) |
 | Run=Dim as Black Soul | 119205 | [119205-run-dim-as-black-soul.json](./119205-run-dim-as-black-soul.json) |
 | Run=Dim: Return to Earth | 37557 | [37557-run-dim-return-to-earth.json](./37557-run-dim-return-to-earth.json) |
+| Run² and Die: Mimi's Revenge | 34573 | [34573-run2-and-die-mimis-revenge.json](./34573-run2-and-die-mimis-revenge.json) |
 | Run4Ever | 357137 | [357137-run4ever.json](./357137-run4ever.json) |
 | Run4YourLight | 203761 | [203761-run4yourlight.json](./203761-run4yourlight.json) |
 | Run8 Train Simulator | 78485 | [78485-run8-train-simulator.json](./78485-run8-train-simulator.json) |
