@@ -12563,6 +12563,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frightening Monastery | 340259 | [340259-frightening-monastery.json](./340259-frightening-monastery.json) |
 | Frightmare | 14079 | [14079-frightmare.json](./14079-frightmare.json) |
 | Frights | 310256 | [310256-frights.json](./310256-frights.json) |
+| FrightShow Fighter | 33195 | [33195-frightshow-fighter.json](./33195-frightshow-fighter.json) |
 | Frightwood | 321933 | [321933-frightwood.json](./321933-frightwood.json) |
 | Frigid | 159281 | [159281-frigid.json](./159281-frigid.json) |
 | Frigid VR | 172733 | [172733-frigid-vr.json](./172733-frigid-vr.json) |
@@ -13878,6 +13879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Funerama | 400090 | [400090-funerama.json](./400090-funerama.json) |
 | Funerary Services Marquez Paz | 197424 | [197424-funerary-services-marquez-paz.json](./197424-funerary-services-marquez-paz.json) |
 | Funereal Funeral Car | 104726 | [104726-funereal-funeral-car.json](./104726-funereal-funeral-car.json) |
+| Funfair | 32333 | [32333-funfair.json](./32333-funfair.json) |
 | Funfair | 348041 | [348041-funfair.json](./348041-funfair.json) |
 | Funfair Billionaire | 334493 | [334493-funfair-billionaire.json](./334493-funfair-billionaire.json) |
 | Funfair Party | 94861 | [94861-funfair-party.json](./94861-funfair-party.json) |
