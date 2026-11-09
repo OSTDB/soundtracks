@@ -979,6 +979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ragnarok Odyssey | 21008 | [21008-ragnarok-odyssey.json](./21008-ragnarok-odyssey.json) |
 | Ragnarok Odyssey Ace | 20067 | [20067-ragnarok-odyssey-ace.json](./20067-ragnarok-odyssey-ace.json) |
 | Ragnarok Odyssey ACE: Launch Edition | 42668 | [42668-ragnarok-odyssey-ace-launch-edition.json](./42668-ragnarok-odyssey-ace-launch-edition.json) |
+| Ragnarok Odyssey: Mercenary Edition | 42705 | [42705-ragnarok-odyssey-mercenary-edition.json](./42705-ragnarok-odyssey-mercenary-edition.json) |
 | Ragnarok Online / Grand Chase | 80588 | [80588-ragnarok-online-grand-chase.json](./80588-ragnarok-online-grand-chase.json) |
 | Ragnarok Online 2 | 16484 | [16484-ragnarok-online-2.json](./16484-ragnarok-online-2.json) |
 | Ragnarok Online 3 | 360554 | [360554-ragnarok-online-3.json](./360554-ragnarok-online-3.json) |
