@@ -11675,6 +11675,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sine Die | 256856 | [256856-sine-die.json](./256856-sine-die.json) |
 | Sine Mora | 10832 | [10832-sine-mora.json](./10832-sine-mora.json) |
 | Sine Mora EX | 27666 | [27666-sine-mora-ex.json](./27666-sine-mora-ex.json) |
+| Sine Requie: Snake Eyes | 76805 | [76805-sine-requie-snake-eyes.json](./76805-sine-requie-snake-eyes.json) |
 | Sine the Game | 140730 | [140730-sine-the-game.json](./140730-sine-the-game.json) |
 | Sine Wave City | 129393 | [129393-sine-wave-city.json](./129393-sine-wave-city.json) |
 | Sinemareul Butakae | 215846 | [215846-sinemareul-butakae.json](./215846-sinemareul-butakae.json) |
@@ -11842,6 +11843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sink | 169656 | [169656-sink.json](./169656-sink.json) |
 | Sink Again | 140383 | [140383-sink-again.json](./140383-sink-again.json) |
 | Sink and Score | 373658 | [373658-sink-and-score.json](./373658-sink-and-score.json) |
+| Sink or Skim | 76804 | [76804-sink-or-skim.json](./76804-sink-or-skim.json) |
 | Sink or Swim | 238836 | [238836-sink-or-swim.json](./238836-sink-or-swim.json) |
 | Sink Sub Pro | 379984 | [379984-sink-sub-pro.json](./379984-sink-sub-pro.json) |
 | Sink the Fish | 282539 | [282539-sink-the-fish.json](./282539-sink-the-fish.json) |
@@ -16323,6 +16325,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soccer Battles | 170251 | [170251-soccer-battles.json](./170251-soccer-battles.json) |
 | Soccer Board | 237144 | [237144-soccer-board.json](./237144-soccer-board.json) |
 | Soccer Boss | 190209 | [190209-soccer-boss.json](./190209-soccer-boss.json) |
+| Soccer Boss | 76853 | [76853-soccer-boss.json](./76853-soccer-boss.json) |
 | Soccer Brawl | 39843 | [39843-soccer-brawl.json](./39843-soccer-brawl.json) |
 | Soccer Bros | 325227 | [325227-soccer-bros.json](./325227-soccer-bros.json) |
 | Soccer But Different | 209666 | [209666-soccer-but-different.json](./209666-soccer-but-different.json) |
@@ -16864,6 +16867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solar Warfare | 62468 | [62468-solar-warfare.json](./62468-solar-warfare.json) |
 | Solar Wars | 48373 | [48373-solar-wars.json](./48373-solar-wars.json) |
 | Solar Wave | 349225 | [349225-solar-wave.json](./349225-solar-wave.json) |
+| Solar Wind | 76796 | [76796-solar-wind.json](./76796-solar-wind.json) |
 | Solar Winds: Galaxy | 73986 | [73986-solar-winds-galaxy.json](./73986-solar-winds-galaxy.json) |
 | Solar Winds: The Escape | 73585 | [73585-solar-winds-the-escape.json](./73585-solar-winds-the-escape.json) |
 | Solar: Survival Space Battle Simulator | 312421 | [312421-solar-survival-space-battle-simulator.json](./312421-solar-survival-space-battle-simulator.json) |
@@ -18980,6 +18984,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soter | 157139 | [157139-soter.json](./157139-soter.json) |
 | Soteria | 315968 | [315968-soteria.json](./315968-soteria.json) |
 | Sotidrokhima | 226396 | [226396-sotidrokhima.json](./226396-sotidrokhima.json) |
+| SoTo | 76809 | [76809-soto.json](./76809-soto.json) |
 | Soto Nemuri | 229671 | [229671-soto-nemuri.json](./229671-soto-nemuri.json) |
 | Sotsugyou Bangai-hen: Nee Mahjong Shiyo! | 42309 | [42309-sotsugyou-bangai-hen-nee-mahjong-shiyo.json](./42309-sotsugyou-bangai-hen-nee-mahjong-shiyo.json) |
 | Sotsugyou Crossworld | 108838 | [108838-sotsugyou-crossworld.json](./108838-sotsugyou-crossworld.json) |
@@ -23686,6 +23691,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sproing! | 263372 | [263372-sproing.json](./263372-sproing.json) |
 | Sproink | 208773 | [208773-sproink.json](./208773-sproink.json) |
 | Sprout | 198150 | [198150-sprout.json](./198150-sprout.json) |
+| Sprout | 76798 | [76798-sprout.json](./76798-sprout.json) |
 | Sprout Crafter | 329587 | [329587-sprout-crafter.json](./329587-sprout-crafter.json) |
 | Sprout Lands | 193481 | [193481-sprout-lands.json](./193481-sprout-lands.json) |
 | Sprout of Control | 310125 | [310125-sprout-of-control.json](./310125-sprout-of-control.json) |
