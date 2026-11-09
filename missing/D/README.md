@@ -13009,6 +13009,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don't Play Games | 385682 | [385682-dont-play-games.json](./385682-dont-play-games.json) |
 | Don't Play Their Game | 410491 | [410491-dont-play-their-game.json](./410491-dont-play-their-game.json) |
 | Don't Play This | 390776 | [390776-dont-play-this.json](./390776-dont-play-this.json) |
+| Don't Play This Game | 55439 | [55439-dont-play-this-game.json](./55439-dont-play-this-game.json) |
 | Don't Play With Dolls | 105282 | [105282-dont-play-with-dolls.json](./105282-dont-play-with-dolls.json) |
 | Don't Pop My Bubble | 368539 | [368539-dont-pop-my-bubble.json](./368539-dont-pop-my-bubble.json) |
 | Don't Pop the Balloon | 391896 | [391896-dont-pop-the-balloon.json](./391896-dont-pop-the-balloon.json) |
@@ -18731,6 +18732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Defenders: Warping Core Challenge Mission Pack | 164346 | [164346-dungeon-defenders-warping-core-challenge-mission-pack.json](./164346-dungeon-defenders-warping-core-challenge-mission-pack.json) |
 | Dungeon Defense | 101216 | [101216-dungeon-defense.json](./101216-dungeon-defense.json) |
 | Dungeon Defense: The Gate | 198006 | [198006-dungeon-defense-the-gate.json](./198006-dungeon-defense-the-gate.json) |
+| Dungeon Deities | 56046 | [56046-dungeon-deities.json](./56046-dungeon-deities.json) |
 | Dungeon Delights | 422160 | [422160-dungeon-delights.json](./422160-dungeon-delights.json) |
 | Dungeon Delivery | 303132 | [303132-dungeon-delivery.json](./303132-dungeon-delivery.json) |
 | Dungeon Delver | 151135 | [151135-dungeon-delver.json](./151135-dungeon-delver.json) |
@@ -18817,6 +18819,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Hunter: Alliance | 21140 | [21140-dungeon-hunter-alliance.json](./21140-dungeon-hunter-alliance.json) |
 | Dungeon in a Bottle | 222353 | [222353-dungeon-in-a-bottle.json](./222353-dungeon-in-a-bottle.json) |
 | Dungeon in Grid Puzzles | 237244 | [237244-dungeon-in-grid-puzzles.json](./237244-dungeon-in-grid-puzzles.json) |
+| Dungeon Infinite | 56029 | [56029-dungeon-infinite.json](./56029-dungeon-infinite.json) |
 | Dungeon Inn | 262882 | [262882-dungeon-inn.json](./262882-dungeon-inn.json) |
 | Dungeon Island | 137550 | [137550-dungeon-island.json](./137550-dungeon-island.json) |
 | Dungeon Janitor | 345605 | [345605-dungeon-janitor.json](./345605-dungeon-janitor.json) |
