@@ -17189,6 +17189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moon Shuttle | 18701 | [18701-moon-shuttle.json](./18701-moon-shuttle.json) |
 | Moon Slasher | 185108 | [185108-moon-slasher.json](./185108-moon-slasher.json) |
 | Moon Split Island: Dungeon Adventure | 220639 | [220639-moon-split-island-dungeon-adventure.json](./220639-moon-split-island-dungeon-adventure.json) |
+| Moon Strike | 54575 | [54575-moon-strike.json](./54575-moon-strike.json) |
 | Moon Surfing | 101519 | [101519-moon-surfing.json](./101519-moon-surfing.json) |
 | Moon Thirst | 310177 | [310177-moon-thirst.json](./310177-moon-thirst.json) |
 | Moon Tower | 309899 | [309899-moon-tower.json](./309899-moon-tower.json) |
@@ -22568,6 +22569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of the Malign | 348463 | [348463-mystery-of-the-malign.json](./348463-mystery-of-the-malign.json) |
 | Mystery of the Missing Brigantine | 188519 | [188519-mystery-of-the-missing-brigantine.json](./188519-mystery-of-the-missing-brigantine.json) |
 | Mystery of the Mummy | 12690 | [12690-mystery-of-the-mummy.json](./12690-mystery-of-the-mummy.json) |
+| Mystery of the Nile | 54591 | [54591-mystery-of-the-nile.json](./54591-mystery-of-the-nile.json) |
 | Mystery of the Opera | 94792 | [94792-mystery-of-the-opera.json](./94792-mystery-of-the-opera.json) |
 | Mystery of the Opera: The Phantom's Secret | 181525 | [181525-mystery-of-the-opera-the-phantoms-secret.json](./181525-mystery-of-the-opera-the-phantoms-secret.json) |
 | Mystery of the Sky Temple | 360369 | [360369-mystery-of-the-sky-temple.json](./360369-mystery-of-the-sky-temple.json) |
