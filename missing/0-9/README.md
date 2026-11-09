@@ -2617,6 +2617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Streets of Rage 2 | 84677 | [84677-3d-streets-of-rage-2.json](./84677-3d-streets-of-rage-2.json) |
 | 3D Super Chess | 96073 | [96073-3d-super-chess.json](./96073-3d-super-chess.json) |
 | 3D Survivors | 263824 | [263824-3d-survivors.json](./263824-3d-survivors.json) |
+| 3d Table Sports | 46703 | [46703-3d-table-sports.json](./46703-3d-table-sports.json) |
 | 3D Tan | 257374 | [257374-3d-tan.json](./257374-3d-tan.json) |
 | 3D Tank Attack | 217642 | [217642-3d-tank-attack.json](./217642-3d-tank-attack.json) |
 | 3D Tanx | 93378 | [93378-3d-tanx.json](./93378-3d-tanx.json) |
