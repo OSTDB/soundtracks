@@ -17358,6 +17358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Machines | 4777 | [4777-crazy-machines.json](./4777-crazy-machines.json) |
 | Crazy Machines 1.5 Inventors Training Camp | 90470 | [90470-crazy-machines-1-5-inventors-training-camp.json](./90470-crazy-machines-1-5-inventors-training-camp.json) |
 | Crazy Machines 1.5 New from the Lab | 90471 | [90471-crazy-machines-1-5-new-from-the-lab.json](./90471-crazy-machines-1-5-new-from-the-lab.json) |
+| Crazy Machines 1.5: More Gizmos, Gadgets, & Whatchamacallits | 72241 | [72241-crazy-machines-1-5-more-gizmos-gadgets-and-whatchamacallits.json](./72241-crazy-machines-1-5-more-gizmos-gadgets-and-whatchamacallits.json) |
 | Crazy Machines 2 | 197893 | [197893-crazy-machines-2.json](./197893-crazy-machines-2.json) |
 | Crazy Machines 2 Anniversary | 24319 | [24319-crazy-machines-2-anniversary.json](./24319-crazy-machines-2-anniversary.json) |
 | Crazy Machines 2: Anniversary DLC | 164367 | [164367-crazy-machines-2-anniversary-dlc.json](./164367-crazy-machines-2-anniversary-dlc.json) |
