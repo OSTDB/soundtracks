@@ -870,6 +870,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Mirror Puzzle | 209705 | [209705-a-mirror-puzzle.json](./209705-a-mirror-puzzle.json) |
 | A Mirror, Darkly | 340948 | [340948-a-mirror-darkly.json](./340948-a-mirror-darkly.json) |
 | A Missing Salesman | 301792 | [301792-a-missing-salesman.json](./301792-a-missing-salesman.json) |
+| A Mobius Proposal | 62853 | [62853-a-mobius-proposal.json](./62853-a-mobius-proposal.json) |
 | A Moderately Uncomfortable Night with Tux | 338711 | [338711-a-moderately-uncomfortable-night-with-tux.json](./338711-a-moderately-uncomfortable-night-with-tux.json) |
 | A Modest Legacy | 193187 | [193187-a-modest-legacy.json](./193187-a-modest-legacy.json) |
 | A Mole in a Hole | 211249 | [211249-a-mole-in-a-hole.json](./211249-a-mole-in-a-hole.json) |
@@ -10163,6 +10164,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angry Dog | 399631 | [399631-angry-dog.json](./399631-angry-dog.json) |
 | Angry Emoji the Game | 169927 | [169927-angry-emoji-the-game.json](./169927-angry-emoji-the-game.json) |
 | Angry Farm | 121146 | [121146-angry-farm.json](./121146-angry-farm.json) |
+| Angry Fish: Deep Sea | 62787 | [62787-angry-fish-deep-sea.json](./62787-angry-fish-deep-sea.json) |
+| Angry Fish: Halloween | 62785 | [62785-angry-fish-halloween.json](./62785-angry-fish-halloween.json) |
 | Angry food | 128121 | [128121-angry-food.json](./128121-angry-food.json) |
 | Angry Fugu | 144993 | [144993-angry-fugu.json](./144993-angry-fugu.json) |
 | Angry Giant | 159979 | [159979-angry-giant.json](./159979-angry-giant.json) |
@@ -17370,6 +17373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atomic Bomber | 96671 | [96671-atomic-bomber.json](./96671-atomic-bomber.json) |
 | Atomic Bomberman | 18153 | [18153-atomic-bomberman.json](./18153-atomic-bomberman.json) |
 | Atomic Bot: Survivor of Planets | 297361 | [297361-atomic-bot-survivor-of-planets.json](./297361-atomic-bot-survivor-of-planets.json) |
+| Atomic Brawl | 62867 | [62867-atomic-brawl.json](./62867-atomic-brawl.json) |
 | Atomic Butcher: Homo Metabolicus | 25223 | [25223-atomic-butcher-homo-metabolicus.json](./25223-atomic-butcher-homo-metabolicus.json) |
 | Atomic Cannon | 227826 | [227826-atomic-cannon.json](./227826-atomic-cannon.json) |
 | Atomic Cards | 169481 | [169481-atomic-cards.json](./169481-atomic-cards.json) |
