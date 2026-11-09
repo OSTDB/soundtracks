@@ -504,6 +504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kama Bullet Heritage | 51963 | [51963-kama-bullet-heritage.json](./51963-kama-bullet-heritage.json) |
 | Kama Bullet Heritage 2 | 96891 | [96891-kama-bullet-heritage-2.json](./96891-kama-bullet-heritage-2.json) |
 | Kama Sutra | 139025 | [139025-kama-sutra.json](./139025-kama-sutra.json) |
+| Kama Sutra: Manara | 71691 | [71691-kama-sutra-manara.json](./71691-kama-sutra-manara.json) |
 | Kamaeru: A Frog Refuge | 252773 | [252773-kamaeru-a-frog-refuge.json](./252773-kamaeru-a-frog-refuge.json) |
 | Kamaitachi no Yoru | 42321 | [42321-kamaitachi-no-yoru.json](./42321-kamaitachi-no-yoru.json) |
 | Kamaitachi No Yoru 2 Tokubetsuhen | 137751 | [137751-kamaitachi-no-yoru-2-tokubetsuhen.json](./137751-kamaitachi-no-yoru-2-tokubetsuhen.json) |
