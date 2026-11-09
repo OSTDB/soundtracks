@@ -9105,6 +9105,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Eldritch Monarch | 324692 | [324692-the-eldritch-monarch.json](./324692-the-eldritch-monarch.json) |
 | The Eldritch Zookeeper | 43074 | [43074-the-eldritch-zookeeper.json](./43074-the-eldritch-zookeeper.json) |
 | The Election Game | 12951 | [12951-the-election-game.json](./12951-the-election-game.json) |
+| The Electric Company Math Fun | 41436 | [41436-the-electric-company-math-fun.json](./41436-the-electric-company-math-fun.json) |
+| The Electric Company Word Fun | 41435 | [41435-the-electric-company-word-fun.json](./41435-the-electric-company-word-fun.json) |
 | The Electric Odyssey | 219554 | [219554-the-electric-odyssey.json](./219554-the-electric-odyssey.json) |
 | The Electric Shocktopus | 31481 | [31481-the-electric-shocktopus.json](./31481-the-electric-shocktopus.json) |
 | The Electric State: Kid Cosmo | 336003 | [336003-the-electric-state-kid-cosmo.json](./336003-the-electric-state-kid-cosmo.json) |
@@ -11736,6 +11738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Jetsons: Invasion of the Planet Pirates | 42511 | [42511-the-jetsons-invasion-of-the-planet-pirates.json](./42511-the-jetsons-invasion-of-the-planet-pirates.json) |
 | The Jetsons: Space Race | 263937 | [263937-the-jetsons-space-race.json](./263937-the-jetsons-space-race.json) |
 | The Jetsons: The Computer Game | 70475 | [70475-the-jetsons-the-computer-game.json](./70475-the-jetsons-the-computer-game.json) |
+| The Jetsons' Ways with Words | 41433 | [41433-the-jetsons-ways-with-words.json](./41433-the-jetsons-ways-with-words.json) |
 | The Jewel of Monostructure | 189372 | [189372-the-jewel-of-monostructure.json](./189372-the-jewel-of-monostructure.json) |
 | The Jhonson Parable | 229670 | [229670-the-jhonson-parable.json](./229670-the-jhonson-parable.json) |
 | The Jiang Shi | 284282 | [284282-the-jiang-shi.json](./284282-the-jiang-shi.json) |
@@ -27923,6 +27926,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Despair | 32388 | [32388-tower-of-despair.json](./32388-tower-of-despair.json) |
 | Tower of Destiny | 283131 | [283131-tower-of-destiny.json](./283131-tower-of-destiny.json) |
 | Tower of Doom | 150499 | [150499-tower-of-doom.json](./150499-tower-of-doom.json) |
+| Tower of Doom | 41452 | [41452-tower-of-doom.json](./41452-tower-of-doom.json) |
 | Tower of Doom VR | 310921 | [310921-tower-of-doom-vr.json](./310921-tower-of-doom-vr.json) |
 | Tower of Dragonasia | 140709 | [140709-tower-of-dragonasia.json](./140709-tower-of-dragonasia.json) |
 | Tower of Dreams | 265705 | [265705-tower-of-dreams.json](./265705-tower-of-dreams.json) |
@@ -32215,6 +32219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Breakout | 56195 | [56195-triple-breakout.json](./56195-triple-breakout.json) |
 | Triple Bubble | 307579 | [307579-triple-bubble.json](./307579-triple-bubble.json) |
 | Triple Canopy no Majo | 235936 | [235936-triple-canopy-no-majo.json](./235936-triple-canopy-no-majo.json) |
+| Triple Challenge | 41451 | [41451-triple-challenge.json](./41451-triple-challenge.json) |
 | Triple Comando | 210352 | [210352-triple-comando.json](./210352-triple-comando.json) |
 | Triple Command | 42158 | [42158-triple-command.json](./42158-triple-command.json) |
 | Triple Crown Championship Snowboarding | 50732 | [50732-triple-crown-championship-snowboarding.json](./50732-triple-crown-championship-snowboarding.json) |
@@ -32868,6 +32873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Truckers Delight Episode 1 | 79034 | [79034-truckers-delight-episode-1.json](./79034-truckers-delight-episode-1.json) |
 | Truckers Double Pack | 142764 | [142764-truckers-double-pack.json](./142764-truckers-double-pack.json) |
 | Truckful | 309799 | [309799-truckful.json](./309799-truckful.json) |
+| Truckin' | 41450 | [41450-truckin.json](./41450-truckin.json) |
 | Truckin' It! | 382338 | [382338-truckin-it.json](./382338-truckin-it.json) |
 | Trucking | 114961 | [114961-trucking.json](./114961-trucking.json) |
 | Trucking 3D | 58156 | [58156-trucking-3d.json](./58156-trucking-3d.json) |
