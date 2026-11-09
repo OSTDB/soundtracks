@@ -3944,6 +3944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What the Chuck? | 338379 | [338379-what-the-chuck.json](./338379-what-the-chuck.json) |
 | What the Clash? | 339825 | [339825-what-the-clash.json](./339825-what-the-clash.json) |
 | What the Crow?! | 274678 | [274678-what-the-crow.json](./274678-what-the-crow.json) |
+| What the Dark Keeps | 33251 | [33251-what-the-dark-keeps.json](./33251-what-the-dark-keeps.json) |
 | What the Dog Remembers | 405835 | [405835-what-the-dog-remembers.json](./405835-what-the-dog-remembers.json) |
 | What the Dub?! | 144808 | [144808-what-the-dub.json](./144808-what-the-dub.json) |
 | What the Duck | 140782 | [140782-what-the-duck.json](./140782-what-the-duck.json) |
@@ -8584,6 +8585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of the dead | 319721 | [319721-world-of-the-dead.json](./319721-world-of-the-dead.json) |
 | World of Titans | 230933 | [230933-world-of-titans.json](./230933-world-of-titans.json) |
 | World of Turtle | 132043 | [132043-world-of-turtle.json](./132043-world-of-turtle.json) |
+| World of Undead | 33217 | [33217-world-of-undead.json](./33217-world-of-undead.json) |
 | World of Van Helsing: Deathtrap | 82402 | [82402-world-of-van-helsing-deathtrap.json](./82402-world-of-van-helsing-deathtrap.json) |
 | World of Vasnar | 356190 | [356190-world-of-vasnar.json](./356190-world-of-vasnar.json) |
 | World of Vespuccia Bundle | 406330 | [406330-world-of-vespuccia-bundle.json](./406330-world-of-vespuccia-bundle.json) |
