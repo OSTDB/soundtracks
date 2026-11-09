@@ -14,6 +14,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Q to Q2 Butsuri Edition | 328141 | [328141-q-to-q2-butsuri-edition.json](./328141-q-to-q2-butsuri-edition.json) |
 | Q Transformers: Kaettekita Convoy no Nazo | 60993 | [60993-q-transformers-kaettekita-convoy-no-nazo.json](./60993-q-transformers-kaettekita-convoy-no-nazo.json) |
 | Q-Ball: Billiards Master | 43272 | [43272-q-ball-billiards-master.json](./43272-q-ball-billiards-master.json) |
+| Q-Boy | 56721 | [56721-q-boy.json](./56721-q-boy.json) |
 | Q-Cubed | 203047 | [203047-q-cubed.json](./203047-q-cubed.json) |
 | Q-j-civilization-s | 302787 | [302787-q-j-civilization-s.json](./302787-q-j-civilization-s.json) |
 | Q-Linq | 290623 | [290623-q-linq.json](./290623-q-linq.json) |
@@ -1052,6 +1053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quicksand | 261054 | [261054-quicksand.json](./261054-quicksand.json) |
 | Quickscope King | 407773 | [407773-quickscope-king.json](./407773-quickscope-king.json) |
 | Quickscope Simulator | 226086 | [226086-quickscope-simulator.json](./226086-quickscope-simulator.json) |
+| Quickscoper Doge: The Dank Illuminati Memes | 57219 | [57219-quickscoper-doge-the-dank-illuminati-memes.json](./57219-quickscoper-doge-the-dank-illuminati-memes.json) |
 | Quickshot | 89593 | [89593-quickshot.json](./89593-quickshot.json) |
 | Quicksilver | 92450 | [92450-quicksilver.json](./92450-quicksilver.json) |
 | QuickSolve | 174316 | [174316-quicksolve.json](./174316-quicksolve.json) |
