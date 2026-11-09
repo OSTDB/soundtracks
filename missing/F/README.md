@@ -429,6 +429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faction Z | 251929 | [251929-faction-z.json](./251929-faction-z.json) |
 | Factions | 335375 | [335375-factions.json](./335375-factions.json) |
 | Factions | 375893 | [375893-factions.json](./375893-factions.json) |
+| Factions: Origins of Malu | 36031 | [36031-factions-origins-of-malu.json](./36031-factions-origins-of-malu.json) |
 | Factor D | 200171 | [200171-factor-d.json](./200171-factor-d.json) |
 | Factor Find | 243637 | [243637-factor-find.json](./243637-factor-find.json) |
 | Factor Y | 236156 | [236156-factor-y.json](./236156-factor-y.json) |
@@ -1234,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallen Sword II | 422027 | [422027-fallen-sword-ii.json](./422027-fallen-sword-ii.json) |
 | Fallen Symphony | 258903 | [258903-fallen-symphony.json](./258903-fallen-symphony.json) |
 | Fallen Tear: The Ascension | 142304 | [142304-fallen-tear-the-ascension.json](./142304-fallen-tear-the-ascension.json) |
+| Fallen Temple | 35948 | [35948-fallen-temple.json](./35948-fallen-temple.json) |
 | Fallen Threats | 110170 | [110170-fallen-threats.json](./110170-fallen-threats.json) |
 | Fallen Times | 68762 | [68762-fallen-times.json](./68762-fallen-times.json) |
 | Fallen Valiant: Loopy | 120012 | [120012-fallen-valiant-loopy.json](./120012-fallen-valiant-loopy.json) |
@@ -9586,6 +9588,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager 2017 | 24481 | [24481-football-manager-2017.json](./24481-football-manager-2017.json) |
 | Football Manager 2018 | 54662 | [54662-football-manager-2018.json](./54662-football-manager-2018.json) |
 | Football Manager 2018 Touch | 76356 | [76356-football-manager-2018-touch.json](./76356-football-manager-2018-touch.json) |
+| Football Manager 2018: Limited Edition | 36035 | [36035-football-manager-2018-limited-edition.json](./36035-football-manager-2018-limited-edition.json) |
 | Football Manager 2019 | 41621 | [41621-football-manager-2019.json](./41621-football-manager-2019.json) |
 | Football Manager 2019 Mobile | 175204 | [175204-football-manager-2019-mobile.json](./175204-football-manager-2019-mobile.json) |
 | Football Manager 2020 | 122080 | [122080-football-manager-2020.json](./122080-football-manager-2020.json) |
