@@ -3350,6 +3350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Bounty: Crossworlds - Game of the Year Edition | 54152 | [54152-kings-bounty-crossworlds-game-of-the-year-edition.json](./54152-kings-bounty-crossworlds-game-of-the-year-edition.json) |
 | King's Bounty: Dark Side | 8073 | [8073-kings-bounty-dark-side.json](./8073-kings-bounty-dark-side.json) |
 | King's Bounty: Dark Side - Premium Edition | 53238 | [53238-kings-bounty-dark-side-premium-edition.json](./53238-kings-bounty-dark-side-premium-edition.json) |
+| King's Bounty: Legions | 16508 | [16508-kings-bounty-legions.json](./16508-kings-bounty-legions.json) |
 | King's Bounty: Legions - Beast Master Pack | 169933 | [169933-kings-bounty-legions-beast-master-pack.json](./169933-kings-bounty-legions-beast-master-pack.json) |
 | King's Bounty: Legions - Champion of the Realm Pack | 169934 | [169934-kings-bounty-legions-champion-of-the-realm-pack.json](./169934-kings-bounty-legions-champion-of-the-realm-pack.json) |
 | King's Bounty: Legions - Lord of Chaos Pack | 169932 | [169932-kings-bounty-legions-lord-of-chaos-pack.json](./169932-kings-bounty-legions-lord-of-chaos-pack.json) |
