@@ -5216,6 +5216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Global Champion | 92636 | [92636-global-champion.json](./92636-global-champion.json) |
 | Global Chess | 340305 | [340305-global-chess.json](./340305-global-chess.json) |
 | Global City | 181651 | [181651-global-city.json](./181651-global-city.json) |
+| Global Commander | 13332 | [13332-global-commander.json](./13332-global-commander.json) |
 | Global Conflagration | 142092 | [142092-global-conflagration.json](./142092-global-conflagration.json) |
 | Global Conflict: The Trading Card Game | 264811 | [264811-global-conflict-the-trading-card-game.json](./264811-global-conflict-the-trading-card-game.json) |
 | Global Conflicts: Latin America | 54052 | [54052-global-conflicts-latin-america.json](./54052-global-conflicts-latin-america.json) |
