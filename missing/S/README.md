@@ -3903,6 +3903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scuba Kidz | 92069 | [92069-scuba-kidz.json](./92069-scuba-kidz.json) |
 | Scuba's Ocean Odyssey VR | 113139 | [113139-scubas-ocean-odyssey-vr.json](./113139-scubas-ocean-odyssey-vr.json) |
 | Scubaman's Quest | 143459 | [143459-scubamans-quest.json](./143459-scubamans-quest.json) |
+| ScubaVenture | 73400 | [73400-scubaventure.json](./73400-scubaventure.json) |
 | ScubaVenture: The Search For Pirate's Treasure | 77855 | [77855-scubaventure-the-search-for-pirates-treasure.json](./77855-scubaventure-the-search-for-pirates-treasure.json) |
 | Scud Atak | 85766 | [85766-scud-atak.json](./85766-scud-atak.json) |
 | Scud Frenzy | 102395 | [102395-scud-frenzy.json](./102395-scud-frenzy.json) |
@@ -25219,6 +25220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Starfleet Command - Orion Pirates | 79758 | [79758-star-trek-starfleet-command-orion-pirates.json](./79758-star-trek-starfleet-command-orion-pirates.json) |
 | Star Trek: Starfleet Command III | 19416 | [19416-star-trek-starfleet-command-iii.json](./19416-star-trek-starfleet-command-iii.json) |
 | Star Trek: Starfleet Command Volume II - Empires at War | 71404 | [71404-star-trek-starfleet-command-volume-ii-empires-at-war.json](./71404-star-trek-starfleet-command-volume-ii-empires-at-war.json) |
+| Star Trek: Starship Creator | 73409 | [73409-star-trek-starship-creator.json](./73409-star-trek-starship-creator.json) |
 | Star Trek: Starship Creator Deluxe | 206984 | [206984-star-trek-starship-creator-deluxe.json](./206984-star-trek-starship-creator-deluxe.json) |
 | Star Trek: Starship Creator Warp II | 71880 | [71880-star-trek-starship-creator-warp-ii.json](./71880-star-trek-starship-creator-warp-ii.json) |
 | Star Trek: Strategic Operations Simulator | 12319 | [12319-star-trek-strategic-operations-simulator.json](./12319-star-trek-strategic-operations-simulator.json) |
@@ -25344,6 +25346,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars Trilogy: Apprentice of the Force | 6609 | [6609-star-wars-trilogy-apprentice-of-the-force.json](./6609-star-wars-trilogy-apprentice-of-the-force.json) |
 | Star Wars Zero Company: Deluxe Edition | 415762 | [415762-star-wars-zero-company-deluxe-edition.json](./415762-star-wars-zero-company-deluxe-edition.json) |
 | Star Wars: 1313 | 1386 | [1386-star-wars-1313.json](./1386-star-wars-1313.json) |
+| Star Wars: Anakin's Speedway | 73217 | [73217-star-wars-anakins-speedway.json](./73217-star-wars-anakins-speedway.json) |
 | Star Wars: Assault Team | 75564 | [75564-star-wars-assault-team.json](./75564-star-wars-assault-team.json) |
 | Star Wars: Attack Squadrons | 62510 | [62510-star-wars-attack-squadrons.json](./62510-star-wars-attack-squadrons.json) |
 | Star Wars: Battle Above Coruscant | 57943 | [57943-star-wars-battle-above-coruscant.json](./57943-star-wars-battle-above-coruscant.json) |
@@ -25716,6 +25719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stardom 2000 | 380431 | [380431-stardom-2000.json](./380431-stardom-2000.json) |
 | Stardom 3 | 371627 | [371627-stardom-3.json](./371627-stardom-3.json) |
 | Stardom Warriors: LaSalle Ishii's Childs Quest | 340027 | [340027-stardom-warriors-lasalle-ishiis-childs-quest.json](./340027-stardom-warriors-lasalle-ishiis-childs-quest.json) |
+| Stardom: Your Quest For Fame | 73373 | [73373-stardom-your-quest-for-fame.json](./73373-stardom-your-quest-for-fame.json) |
 | Stardome | 244687 | [244687-stardome.json](./244687-stardome.json) |
 | Stardream | 349984 | [349984-stardream.json](./349984-stardream.json) |
 | StarDrive | 10889 | [10889-stardrive.json](./10889-stardrive.json) |
