@@ -3002,6 +3002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mamurius | 334331 | [334331-mamurius.json](./334331-mamurius.json) |
 | Mamusphere of the Forgotten | 124621 | [124621-mamusphere-of-the-forgotten.json](./124621-mamusphere-of-the-forgotten.json) |
 | Mamzer Corp | 404991 | [404991-mamzer-corp.json](./404991-mamzer-corp.json) |
+| Man Alive Game | 36033 | [36033-man-alive-game.json](./36033-man-alive-game.json) |
 | Man and Dog: Small Game Hunt | 337651 | [337651-man-and-dog-small-game-hunt.json](./337651-man-and-dog-small-game-hunt.json) |
 | Man at Arms | 245151 | [245151-man-at-arms.json](./245151-man-at-arms.json) |
 | Man at Arms TD | 197713 | [197713-man-at-arms-td.json](./197713-man-at-arms-td.json) |
@@ -17002,6 +17003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters, Inc.: Wreck Room Arcade - Eight Ball Chaos | 69576 | [69576-monsters-inc-wreck-room-arcade-eight-ball-chaos.json](./69576-monsters-inc-wreck-room-arcade-eight-ball-chaos.json) |
 | Monsters: Survival | 114997 | [114997-monsters-survival.json](./114997-monsters-survival.json) |
 | Monsters: The Hunter of Darkness | 214198 | [214198-monsters-the-hunter-of-darkness.json](./214198-monsters-the-hunter-of-darkness.json) |
+| Monsters! | 36071 | [36071-monsters.json](./36071-monsters.json) |
 | Monsters! | 79776 | [79776-monsters.json](./79776-monsters.json) |
 | Monsters' Den Chronicles | 121171 | [121171-monsters-den-chronicles.json](./121171-monsters-den-chronicles.json) |
 | Monsters' Den: Book of Dread | 32035 | [32035-monsters-den-book-of-dread.json](./32035-monsters-den-book-of-dread.json) |
