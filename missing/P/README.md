@@ -80,6 +80,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | P1r4t3s | 126937 | [126937-p1r4t3s.json](./126937-p1r4t3s.json) |
 | P3D/P5D: Accessory Season Pass | 362146 | [362146-p3d-p5d-accessory-season-pass.json](./362146-p3d-p5d-accessory-season-pass.json) |
 | P3D/P5D: Song Season Pass | 362145 | [362145-p3d-p5d-song-season-pass.json](./362145-p3d-p5d-song-season-pass.json) |
+| P47 - The Freedom Fighter | 37263 | [37263-p47-the-freedom-fighter.json](./37263-p47-the-freedom-fighter.json) |
 | P47 Thunderbolt | 12838 | [12838-p47-thunderbolt.json](./12838-p47-thunderbolt.json) |
 | P4st3l | 297357 | [297357-p4st3l.json](./297357-p4st3l.json) |
 | P9: The GateAway | 129093 | [129093-p9-the-gateaway.json](./129093-p9-the-gateaway.json) |
@@ -14226,6 +14227,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PowerSlave | 8338 | [8338-powerslave.json](./8338-powerslave.json) |
 | PowerSlave: Exhumed | 165054 | [165054-powerslave-exhumed.json](./165054-powerslave-exhumed.json) |
 | Powerslide | 214976 | [214976-powerslide.json](./214976-powerslide.json) |
+| Powerslide | 37231 | [37231-powerslide.json](./37231-powerslide.json) |
 | Powerslide Legends | 152652 | [152652-powerslide-legends.json](./152652-powerslide-legends.json) |
 | PowerSpinners | 58687 | [58687-powerspinners.json](./58687-powerspinners.json) |
 | Powerstar Golf: Burning Sands | 256747 | [256747-powerstar-golf-burning-sands.json](./256747-powerstar-golf-burning-sands.json) |
@@ -17388,6 +17390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proving Grounds | 235431 | [235431-proving-grounds.json](./235431-proving-grounds.json) |
 | Provisional Authority: An AI Governance Simulation | 401258 | [401258-provisional-authority-an-ai-governance-simulation.json](./401258-provisional-authority-an-ai-governance-simulation.json) |
 | Provisional Detective | 188796 | [188796-provisional-detective.json](./188796-provisional-detective.json) |
+| Provocator | 37223 | [37223-provocator.json](./37223-provocator.json) |
 | Provoron | 258977 | [258977-provoron.json](./258977-provoron.json) |
 | Prowler | 55085 | [55085-prowler.json](./55085-prowler.json) |
 | Proxball | 125852 | [125852-proxball.json](./125852-proxball.json) |
@@ -18546,6 +18549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push Me Pull You | 19863 | [19863-push-me-pull-you.json](./19863-push-me-pull-you.json) |
 | Push Off | 62843 | [62843-push-off.json](./62843-push-off.json) |
 | Push Out | 200319 | [200319-push-out.json](./200319-push-out.json) |
+| Push Over | 37244 | [37244-push-over.json](./37244-push-over.json) |
 | Push Pull | 115442 | [115442-push-pull.json](./115442-push-pull.json) |
 | Push Push | 374199 | [374199-push-push.json](./374199-push-push.json) |
 | Push Push Boom | 284291 | [284291-push-push-boom.json](./284291-push-push-boom.json) |
