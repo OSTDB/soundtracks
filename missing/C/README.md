@@ -695,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Black Ops II - Apocalypse | 21686 | [21686-call-of-duty-black-ops-ii-apocalypse.json](./21686-call-of-duty-black-ops-ii-apocalypse.json) |
 | Call of Duty: Black Ops II - Care Package | 18352 | [18352-call-of-duty-black-ops-ii-care-package.json](./18352-call-of-duty-black-ops-ii-care-package.json) |
 | Call of Duty: Black Ops II - Digital Deluxe Edition | 11202 | [11202-call-of-duty-black-ops-ii-digital-deluxe-edition.json](./11202-call-of-duty-black-ops-ii-digital-deluxe-edition.json) |
+| Call of Duty: Black Ops II - Hardened Edition | 27955 | [27955-call-of-duty-black-ops-ii-hardened-edition.json](./27955-call-of-duty-black-ops-ii-hardened-edition.json) |
 | Call of Duty: Black Ops II - Nuketown 2025 | 295256 | [295256-call-of-duty-black-ops-ii-nuketown-2025.json](./295256-call-of-duty-black-ops-ii-nuketown-2025.json) |
 | Call of Duty: Black Ops II - Nuketown 2025 Edition | 136074 | [136074-call-of-duty-black-ops-ii-nuketown-2025-edition.json](./136074-call-of-duty-black-ops-ii-nuketown-2025-edition.json) |
 | Call of Duty: Black Ops II - Nuketown Zombies | 295255 | [295255-call-of-duty-black-ops-ii-nuketown-zombies.json](./295255-call-of-duty-black-ops-ii-nuketown-zombies.json) |
@@ -924,6 +925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Zombie | 252400 | [252400-call-of-zombie.json](./252400-call-of-zombie.json) |
 | Call Sign is Magic Liner | 267749 | [267749-call-sign-is-magic-liner.json](./267749-call-sign-is-magic-liner.json) |
 | Call The Abyss | 328191 | [328191-call-the-abyss.json](./328191-call-the-abyss.json) |
+| Call the Blacksmith | 27144 | [27144-call-the-blacksmith.json](./27144-call-the-blacksmith.json) |
 | Call the Tune | 320883 | [320883-call-the-tune.json](./320883-call-the-tune.json) |
 | Call to Arms | 100182 | [100182-call-to-arms.json](./100182-call-to-arms.json) |
 | Call to Arms | 17432 | [17432-call-to-arms.json](./17432-call-to-arms.json) |
@@ -9096,6 +9098,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuukana Janshi Tenhou Painyan | 380412 | [380412-chuukana-janshi-tenhou-painyan.json](./380412-chuukana-janshi-tenhou-painyan.json) |
 | Chuukara Shisen | 206579 | [206579-chuukara-shisen.json](./206579-chuukara-shisen.json) |
 | Chuushaki: Hirasawa Nurse School | 321404 | [321404-chuushaki-hirasawa-nurse-school.json](./321404-chuushaki-hirasawa-nurse-school.json) |
+| Chuusotsu: 1st Graduation | 27942 | [27942-chuusotsu-1st-graduation.json](./27942-chuusotsu-1st-graduation.json) |
 | Chuusotsu! 1.5th Graduation: The Moving Castle | 128188 | [128188-chuusotsu-1-5th-graduation-the-moving-castle.json](./128188-chuusotsu-1-5th-graduation-the-moving-castle.json) |
 | Chuusotsu! 1st Graduation: Time After Time | 36485 | [36485-chuusotsu-1st-graduation-time-after-time.json](./36485-chuusotsu-1st-graduation-time-after-time.json) |
 | Chuxen | 268910 | [268910-chuxen.json](./268910-chuxen.json) |
@@ -17762,6 +17765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Creature Capture | 230648 | [230648-creature-capture.json](./230648-creature-capture.json) |
 | Creature Chess | 142103 | [142103-creature-chess.json](./142103-creature-chess.json) |
 | Creature Clicker: Capture, Train, Ascend! | 31274 | [31274-creature-clicker-capture-train-ascend.json](./31274-creature-clicker-capture-train-ascend.json) |
+| Creature Conflict: The Clan Wars | 27967 | [27967-creature-conflict-the-clan-wars.json](./27967-creature-conflict-the-clan-wars.json) |
 | Creature Containment | 345035 | [345035-creature-containment.json](./345035-creature-containment.json) |
 | Creature Crawl | 415903 | [415903-creature-crawl.json](./415903-creature-crawl.json) |
 | Creature Create | 80541 | [80541-creature-create.json](./80541-creature-create.json) |
