@@ -1403,6 +1403,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Handwriting Fantasy | 244658 | [244658-handwriting-fantasy.json](./244658-handwriting-fantasy.json) |
 | Handwriting HD | 93838 | [93838-handwriting-hd.json](./93838-handwriting-hd.json) |
 | Handy | 120835 | [120835-handy.json](./120835-handy.json) |
+| Handy Andy | 60642 | [60642-handy-andy.json](./60642-handy-andy.json) |
 | Handy Caps | 73728 | [73728-handy-caps.json](./73728-handy-caps.json) |
 | Handy Dandy | 132418 | [132418-handy-dandy.json](./132418-handy-dandy.json) |
 | Handy Dice | 149153 | [149153-handy-dice.json](./149153-handy-dice.json) |
@@ -2219,6 +2220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harpoon | 14874 | [14874-harpoon.json](./14874-harpoon.json) |
 | Harpoon | 209239 | [209239-harpoon.json](./209239-harpoon.json) |
 | Harpoon & Battleset 2 | 92827 | [92827-harpoon-and-battleset-2.json](./92827-harpoon-and-battleset-2.json) |
+| Harpoon 4 | 60669 | [60669-harpoon-4.json](./60669-harpoon-4.json) |
 | Harpoon Cat | 104835 | [104835-harpoon-cat.json](./104835-harpoon-cat.json) |
 | Harpoon Classic | 92996 | [92996-harpoon-classic.json](./92996-harpoon-classic.json) |
 | Harpoon Classic '97 | 365063 | [365063-harpoon-classic-97.json](./365063-harpoon-classic-97.json) |
@@ -6859,6 +6861,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hexion | 40197 | [40197-hexion.json](./40197-hexion.json) |
 | Hexion | 96216 | [96216-hexion.json](./96216-hexion.json) |
 | Hexis | 291582 | [291582-hexis.json](./291582-hexis.json) |
+| Hexis | 60657 | [60657-hexis.json](./60657-hexis.json) |
 | Hexistence | 394442 | [394442-hexistence.json](./394442-hexistence.json) |
 | Hexius | 80341 | [80341-hexius.json](./80341-hexius.json) |
 | Hexiv | 335385 | [335385-hexiv.json](./335385-hexiv.json) |
@@ -10692,6 +10695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hoshis Elektronauts | 81957 | [81957-hoshis-elektronauts.json](./81957-hoshis-elektronauts.json) |
 | Hoshiwari x Yoizanai | 396476 | [396476-hoshiwari-x-yoizanai.json](./396476-hoshiwari-x-yoizanai.json) |
 | Hoshizora e Kakaru Hashi AA | 144889 | [144889-hoshizora-e-kakaru-hashi-aa.json](./144889-hoshizora-e-kakaru-hashi-aa.json) |
+| Hoshizora he Kakaru Hashi | 60656 | [60656-hoshizora-he-kakaru-hashi.json](./60656-hoshizora-he-kakaru-hashi.json) |
 | Hoshizora Navi | 92412 | [92412-hoshizora-navi.json](./92412-hoshizora-navi.json) |
 | Hoshizora no Comic Garden | 70660 | [70660-hoshizora-no-comic-garden.json](./70660-hoshizora-no-comic-garden.json) |
 | Hoshizora no Memoria -Eternal Heart- | 61404 | [61404-hoshizora-no-memoria-eternal-heart.json](./61404-hoshizora-no-memoria-eternal-heart.json) |
@@ -12437,6 +12441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter X Hunter: Wonder Adventure | 60605 | [60605-hunter-x-hunter-wonder-adventure.json](./60605-hunter-x-hunter-wonder-adventure.json) |
 | Hunter x Hunter: World Hunt | 122886 | [122886-hunter-x-hunter-world-hunt.json](./122886-hunter-x-hunter-world-hunt.json) |
 | Hunter X: Begin | 171067 | [171067-hunter-x-begin.json](./171067-hunter-x-begin.json) |
+| Hunter, in Darkness | 60185 | [60185-hunter-in-darkness.json](./60185-hunter-in-darkness.json) |
 | Hunter: Avendzer Dragon | 145646 | [145646-hunter-avendzer-dragon.json](./145646-hunter-avendzer-dragon.json) |
 | Hunter: Brotherhood | 409233 | [409233-hunter-brotherhood.json](./409233-hunter-brotherhood.json) |
 | Hunter: Into the Abyss | 379090 | [379090-hunter-into-the-abyss.json](./379090-hunter-into-the-abyss.json) |
