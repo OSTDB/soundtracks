@@ -1780,6 +1780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Pop 2 | 92321 | [92321-balloon-pop-2.json](./92321-balloon-pop-2.json) |
 | Balloon Pop for Toddlers & Kids: Learn Numbers, Letters, Colors & Animals | 147925 | [147925-balloon-pop-for-toddlers-and-kids-learn-numbers-letters-colors-and-animals.json](./147925-balloon-pop-for-toddlers-and-kids-learn-numbers-letters-colors-and-animals.json) |
 | Balloon Pop Plus | 64305 | [64305-balloon-pop-plus.json](./64305-balloon-pop-plus.json) |
+| Balloon Pop Remix | 64551 | [64551-balloon-pop-remix.json](./64551-balloon-pop-remix.json) |
 | Balloon Rescue | 67699 | [67699-balloon-rescue.json](./67699-balloon-rescue.json) |
 | Balloon Ride | 412625 | [412625-balloon-ride.json](./412625-balloon-ride.json) |
 | Balloon Slider Mania | 307371 | [307371-balloon-slider-mania.json](./307371-balloon-slider-mania.json) |
@@ -18755,6 +18756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bust-A-Move Millennium | 49836 | [49836-bust-a-move-millennium.json](./49836-bust-a-move-millennium.json) |
 | Bust-A-Move Pocket | 43977 | [43977-bust-a-move-pocket.json](./43977-bust-a-move-pocket.json) |
 | Bust-a-Move: Deluxe | 84162 | [84162-bust-a-move-deluxe.json](./84162-bust-a-move-deluxe.json) |
+| Bust-N-Rush | 64531 | [64531-bust-n-rush.json](./64531-bust-n-rush.json) |
 | Bustafellows | 114536 | [114536-bustafellows.json](./114536-bustafellows.json) |
 | Bustafellows: Collector's Edition | 147251 | [147251-bustafellows-collectors-edition.json](./147251-bustafellows-collectors-edition.json) |
 | Bustafellows: Deluxe Edition | 136828 | [136828-bustafellows-deluxe-edition.json](./136828-bustafellows-deluxe-edition.json) |
