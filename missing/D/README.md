@@ -12277,6 +12277,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogman95 | 354944 | [354944-dogman95.json](./354944-dogman95.json) |
 | Dogmelon Solitaire | 87101 | [87101-dogmelon-solitaire.json](./87101-dogmelon-solitaire.json) |
 | Dogness | 144242 | [144242-dogness.json](./144242-dogness.json) |
+| Dogo | 52029 | [52029-dogo.json](./52029-dogo.json) |
 | Dogolrax | 28074 | [28074-dogolrax.json](./28074-dogolrax.json) |
 | Dogot Games | 148783 | [148783-dogot-games.json](./148783-dogot-games.json) |
 | Dogotchi: Virtual Pet | 251632 | [251632-dogotchi-virtual-pet.json](./251632-dogotchi-virtual-pet.json) |
@@ -16255,6 +16256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Draw Two Save: Save the man | 197363 | [197363-draw-two-save-save-the-man.json](./197363-draw-two-save-save-the-man.json) |
 | Draw Wario | 328684 | [328684-draw-wario.json](./328684-draw-wario.json) |
 | Draw World | 346538 | [346538-draw-world.json](./346538-draw-world.json) |
+| Draw Your Game | 52068 | [52068-draw-your-game.json](./52068-draw-your-game.json) |
 | Draw Your Own Adventure | 179854 | [179854-draw-your-own-adventure.json](./179854-draw-your-own-adventure.json) |
 | Draw_Love | 43513 | [43513-draw-love.json](./43513-draw-love.json) |
 | Draw-A-Mountain | 185098 | [185098-draw-a-mountain.json](./185098-draw-a-mountain.json) |
