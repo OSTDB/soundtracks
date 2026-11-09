@@ -3937,6 +3937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Golf | 56139 | [56139-infinite-golf.json](./56139-infinite-golf.json) |
 | Infinite Golf 2 | 153825 | [153825-infinite-golf-2.json](./153825-infinite-golf-2.json) |
 | Infinite Guitars | 133239 | [133239-infinite-guitars.json](./133239-infinite-guitars.json) |
+| Infinite Horizon | 76081 | [76081-infinite-horizon.json](./76081-infinite-horizon.json) |
 | Infinite Idle: Online Clicker RPG | 320605 | [320605-infinite-idle-online-clicker-rpg.json](./320605-infinite-idle-online-clicker-rpg.json) |
 | Infinite Incantation | 236854 | [236854-infinite-incantation.json](./236854-infinite-incantation.json) |
 | Infinite Innocence | 302047 | [302047-infinite-innocence.json](./302047-infinite-innocence.json) |
@@ -3997,6 +3998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
