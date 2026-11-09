@@ -4204,6 +4204,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penguin Panic! | 311564 | [311564-penguin-panic.json](./311564-penguin-panic.json) |
 | Penguin Paradise | 231808 | [231808-penguin-paradise.json](./231808-penguin-paradise.json) |
 | Penguin Park 3D | 129410 | [129410-penguin-park-3d.json](./129410-penguin-park-3d.json) |
+| Penguin Patrol | 63410 | [63410-penguin-patrol.json](./63410-penguin-patrol.json) |
 | Penguin Piste | 134950 | [134950-penguin-piste.json](./134950-penguin-piste.json) |
 | Penguin Plop | 406636 | [406636-penguin-plop.json](./406636-penguin-plop.json) |
 | Penguin Pounder | 104513 | [104513-penguin-pounder.json](./104513-penguin-pounder.json) |
@@ -15668,6 +15669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Strategy Football 2024 | 263776 | [263776-pro-strategy-football-2024.json](./263776-pro-strategy-football-2024.json) |
 | Pro Striker 2 | 4437 | [4437-pro-striker-2.json](./4437-pro-striker-2.json) |
 | Pro Striker: Final Stage | 4550 | [4550-pro-striker-final-stage.json](./4550-pro-striker-final-stage.json) |
+| Pro Student G | 63427 | [63427-pro-student-g.json](./63427-pro-student-g.json) |
 | Pro Table Tennis VR | 159872 | [159872-pro-table-tennis-vr.json](./159872-pro-table-tennis-vr.json) |
 | Pro Tennis | 421217 | [421217-pro-tennis.json](./421217-pro-tennis.json) |
 | Pro Tennis | 83704 | [83704-pro-tennis.json](./83704-pro-tennis.json) |
