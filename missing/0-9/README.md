@@ -3050,6 +3050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 50 Blockbuster Games Volume 2 | 259411 | [259411-50-blockbuster-games-volume-2.json](./259411-50-blockbuster-games-volume-2.json) |
 | 50 Cent: Bulletproof | 4011 | [4011-50-cent-bulletproof.json](./4011-50-cent-bulletproof.json) |
 | 50 Cents Please | 367504 | [367504-50-cents-please.json](./367504-50-cents-please.json) |
+| 50 Classic Games | 48034 | [48034-50-classic-games.json](./48034-50-classic-games.json) |
 | 50 Coins of Deadly Doom | 381979 | [381979-50-coins-of-deadly-doom.json](./381979-50-coins-of-deadly-doom.json) |
 | 50 Days to Survive | 239100 | [239100-50-days-to-survive.json](./239100-50-days-to-survive.json) |
 | 50 Doors | 377392 | [377392-50-doors.json](./377392-50-doors.json) |
