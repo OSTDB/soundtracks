@@ -4415,6 +4415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Justice Xwar Online 2 | 117712 | [117712-justice-xwar-online-2.json](./117712-justice-xwar-online-2.json) |
 | Justice: Fallen Clan | 113167 | [113167-justice-fallen-clan.json](./113167-justice-fallen-clan.json) |
 | Justice.exe | 132238 | [132238-justice-exe.json](./132238-justice-exe.json) |
+| Justin | 39078 | [39078-justin.json](./39078-justin.json) |
 | Justin Bieber Revenge | 79575 | [79575-justin-bieber-revenge.json](./79575-justin-bieber-revenge.json) |
 | Justin Danger | 149302 | [149302-justin-danger.json](./149302-justin-danger.json) |
 | Justin Freeman's Build A House | 304647 | [304647-justin-freemans-build-a-house.json](./304647-justin-freemans-build-a-house.json) |
