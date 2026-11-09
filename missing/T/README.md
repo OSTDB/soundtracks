@@ -28,6 +28,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | T-Rex Time Machine | 76919 | [76919-t-rex-time-machine.json](./76919-t-rex-time-machine.json) |
 | T-Shirt Kingdom | 414837 | [414837-t-shirt-kingdom.json](./414837-t-shirt-kingdom.json) |
 | T-Shrek | 183321 | [183321-t-shrek.json](./183321-t-shrek.json) |
+| T-Tris | 40862 | [40862-t-tris.json](./40862-t-tris.json) |
 | T-Zer0 | 69588 | [69588-t-zer0.json](./69588-t-zer0.json) |
 | T:ME Salvo | 308987 | [308987-t-me-salvo.json](./308987-t-me-salvo.json) |
 | T. B. P. | 156809 | [156809-t-b-p.json](./156809-t-b-p.json) |
@@ -21442,6 +21443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thunderday | 249220 | [249220-thunderday.json](./249220-thunderday.json) |
 | ThunderDome | 132170 | [132170-thunderdome.json](./132170-thunderdome.json) |
 | Thunderflash | 127230 | [127230-thunderflash.json](./127230-thunderflash.json) |
+| ThunderFox | 40884 | [40884-thunderfox.json](./40884-thunderfox.json) |
 | ThunderGod | 118985 | [118985-thundergod.json](./118985-thundergod.json) |
 | Thunderground | 23853 | [23853-thunderground.json](./23853-thunderground.json) |
 | ThunderGun: The Cybwar Mission | 206786 | [206786-thundergun-the-cybwar-mission.json](./206786-thundergun-the-cybwar-mission.json) |
@@ -31684,6 +31686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tretrais | 346675 | [346675-tretrais.json](./346675-tretrais.json) |
 | Trev to the Rescue! | 263667 | [263667-trev-to-the-rescue.json](./263667-trev-to-the-rescue.json) |
 | Trevor Daison in Outer Space: Chapter One | 233130 | [233130-trevor-daison-in-outer-space-chapter-one.json](./233130-trevor-daison-in-outer-space-chapter-one.json) |
+| Trevor McFur in the Crescent Galaxy | 40830 | [40830-trevor-mcfur-in-the-crescent-galaxy.json](./40830-trevor-mcfur-in-the-crescent-galaxy.json) |
 | Trevor Sorensen's Star Legions | 54398 | [54398-trevor-sorensens-star-legions.json](./54398-trevor-sorensens-star-legions.json) |
 | Trex and Muscle Sam: A New Kickstart! | 22042 | [22042-trex-and-muscle-sam-a-new-kickstart.json](./22042-trex-and-muscle-sam-a-new-kickstart.json) |
 | TRex Hero | 306381 | [306381-trex-hero.json](./306381-trex-hero.json) |
@@ -33747,6 +33750,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo Sprint Racing | 248850 | [248850-turbo-sprint-racing.json](./248850-turbo-sprint-racing.json) |
 | Turbo ST | 405249 | [405249-turbo-st.json](./405249-turbo-st.json) |
 | Turbo Stars | 352166 | [352166-turbo-stars.json](./352166-turbo-stars.json) |
+| Turbo Sub | 40866 | [40866-turbo-sub.json](./40866-turbo-sub.json) |
 | Turbo Subs | 206070 | [206070-turbo-subs.json](./206070-turbo-subs.json) |
 | Turbo Tag | 40494 | [40494-turbo-tag.json](./40494-turbo-tag.json) |
 | Turbo Tails | 264537 | [264537-turbo-tails.json](./264537-turbo-tails.json) |
