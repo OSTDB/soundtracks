@@ -4000,6 +4000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Eyes | 103195 | [103195-red-eyes.json](./103195-red-eyes.json) |
 | Red Faction | 215080 | [215080-red-faction.json](./215080-red-faction.json) |
 | Red Faction | 6273 | [6273-red-faction.json](./6273-red-faction.json) |
+| Red Faction Armageddon: Commando & Recon Limited Edition | 46710 | [46710-red-faction-armageddon-commando-and-recon-limited-edition.json](./46710-red-faction-armageddon-commando-and-recon-limited-edition.json) |
 | Red Faction Collection | 53495 | [53495-red-faction-collection.json](./53495-red-faction-collection.json) |
 | Red Faction: Armageddon - Path to War | 78455 | [78455-red-faction-armageddon-path-to-war.json](./78455-red-faction-armageddon-path-to-war.json) |
 | Red Faction: Armageddon - Ultimate Edition | 99958 | [99958-red-faction-armageddon-ultimate-edition.json](./99958-red-faction-armageddon-ultimate-edition.json) |
@@ -6652,6 +6653,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revenge of Chickens | 261589 | [261589-revenge-of-chickens.json](./261589-revenge-of-chickens.json) |
 | Revenge of Defender | 56591 | [56591-revenge-of-defender.json](./56591-revenge-of-defender.json) |
 | Revenge of Dog | 95946 | [95946-revenge-of-dog.json](./95946-revenge-of-dog.json) |
+| Revenge of Drancon | 46304 | [46304-revenge-of-drancon.json](./46304-revenge-of-drancon.json) |
 | Revenge of Ilcoin | 261420 | [261420-revenge-of-ilcoin.json](./261420-revenge-of-ilcoin.json) |
 | Revenge of Justice | 122349 | [122349-revenge-of-justice.json](./122349-revenge-of-justice.json) |
 | Revenge of Marjorie the Chicken | 137694 | [137694-revenge-of-marjorie-the-chicken.json](./137694-revenge-of-marjorie-the-chicken.json) |
