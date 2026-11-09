@@ -1201,6 +1201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can Androids Survive | 167709 | [167709-can-androids-survive.json](./167709-can-androids-survive.json) |
 | Can Bullet | 296646 | [296646-can-bullet.json](./296646-can-bullet.json) |
 | Can Can Bunny | 21404 | [21404-can-can-bunny.json](./21404-can-can-bunny.json) |
+| Can Can Bunny Extra | 45406 | [45406-can-can-bunny-extra.json](./45406-can-can-bunny-extra.json) |
 | Can Can Bunny Extra DX | 78570 | [78570-can-can-bunny-extra-dx.json](./78570-can-can-bunny-extra-dx.json) |
 | Can Can Bunny Premiere | 108895 | [108895-can-can-bunny-premiere.json](./108895-can-can-bunny-premiere.json) |
 | Can Can Bunny Premiere 2 | 46064 | [46064-can-can-bunny-premiere-2.json](./46064-can-can-bunny-premiere-2.json) |
@@ -4328,6 +4329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cat Tales | 224917 | [224917-cat-tales.json](./224917-cat-tales.json) |
 | Cat Tales: Fish | 403426 | [403426-cat-tales-fish.json](./403426-cat-tales-fish.json) |
 | Cat Tales: Premium Edition | 241396 | [241396-cat-tales-premium-edition.json](./241396-cat-tales-premium-edition.json) |
+| Cat the Ripper: 13-ninme no Tanteishi | 45404 | [45404-cat-the-ripper-13-ninme-no-tanteishi.json](./45404-cat-the-ripper-13-ninme-no-tanteishi.json) |
 | Cat Tiles: Matching Puzzle | 232377 | [232377-cat-tiles-matching-puzzle.json](./232377-cat-tiles-matching-puzzle.json) |
 | Cat Tower | 186222 | [186222-cat-tower.json](./186222-cat-tower.json) |
 | Cat Town | 187133 | [187133-cat-town.json](./187133-cat-town.json) |
@@ -5901,6 +5903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenge 100 | 359419 | [359419-challenge-100.json](./359419-challenge-100.json) |
 | Challenge Churchill Bus Racer | 313381 | [313381-challenge-churchill-bus-racer.json](./313381-challenge-churchill-bus-racer.json) |
 | Challenge Cube VR | 91198 | [91198-challenge-cube-vr.json](./91198-challenge-cube-vr.json) |
+| Challenge Derby | 45386 | [45386-challenge-derby.json](./45386-challenge-derby.json) |
 | Challenge Dream Cat | 179997 | [179997-challenge-dream-cat.json](./179997-challenge-dream-cat.json) |
 | Challenge from Kiyoshi | 141772 | [141772-challenge-from-kiyoshi.json](./141772-challenge-from-kiyoshi.json) |
 | Challenge from the Black Cat | 369290 | [369290-challenge-from-the-black-cat.json](./369290-challenge-from-the-black-cat.json) |
