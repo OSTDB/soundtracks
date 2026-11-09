@@ -1050,6 +1050,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic & Mayhem | 79804 | [79804-magic-and-mayhem.json](./79804-magic-and-mayhem.json) |
 | Magic & Mayhem: The Art of Magic | 70956 | [70956-magic-and-mayhem-the-art-of-magic.json](./70956-magic-and-mayhem-the-art-of-magic.json) |
 | Magic & Sanctuary | 219784 | [219784-magic-and-sanctuary.json](./219784-magic-and-sanctuary.json) |
+| Magic 2014: Duels of the Planeswalkers | 2188 | [2188-magic-2014-duels-of-the-planeswalkers.json](./2188-magic-2014-duels-of-the-planeswalkers.json) |
 | Magic 2014: Duels of the Planeswalkers - Deck Pack 1 | 362458 | [362458-magic-2014-duels-of-the-planeswalkers-deck-pack-1.json](./362458-magic-2014-duels-of-the-planeswalkers-deck-pack-1.json) |
 | Magic 2014: Duels of the Planeswalkers - Deck Pack 2 | 362459 | [362459-magic-2014-duels-of-the-planeswalkers-deck-pack-2.json](./362459-magic-2014-duels-of-the-planeswalkers-deck-pack-2.json) |
 | Magic 2014: Duels of the Planeswalkers - Deck Pack 3 | 362460 | [362460-magic-2014-duels-of-the-planeswalkers-deck-pack-3.json](./362460-magic-2014-duels-of-the-planeswalkers-deck-pack-3.json) |
