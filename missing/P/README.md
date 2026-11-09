@@ -5149,6 +5149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Peter Pan: A Story Painting Adventure | 79494 | [79494-peter-pan-a-story-painting-adventure.json](./79494-peter-pan-a-story-painting-adventure.json) |
 | Peter Pan: The Motion Picture Event | 49317 | [49317-peter-pan-the-motion-picture-event.json](./49317-peter-pan-the-motion-picture-event.json) |
 | Peter Pan's Playground | 98894 | [98894-peter-pans-playground.json](./98894-peter-pans-playground.json) |
+| Peter Panic | 24055 | [24055-peter-panic.json](./24055-peter-panic.json) |
 | Peter Paper | 140379 | [140379-peter-paper.json](./140379-peter-paper.json) |
 | Peter Penguin | 40677 | [40677-peter-penguin.json](./40677-peter-penguin.json) |
 | Peter Pepper's Ice Cream Factory | 73040 | [73040-peter-peppers-ice-cream-factory.json](./73040-peter-peppers-ice-cream-factory.json) |
@@ -10800,6 +10801,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pocket Lands | 183473 | [183473-pocket-lands.json](./183473-pocket-lands.json) |
 | Pocket Lands | 377647 | [377647-pocket-lands.json](./377647-pocket-lands.json) |
 | Pocket Legend | 322144 | [322144-pocket-legend.json](./322144-pocket-legend.json) |
+| Pocket Legends | 22969 | [22969-pocket-legends.json](./22969-pocket-legends.json) |
 | Pocket Legends Adventures | 77609 | [77609-pocket-legends-adventures.json](./77609-pocket-legends-adventures.json) |
 | Pocket Lights | 239924 | [239924-pocket-lights.json](./239924-pocket-lights.json) |
 | Pocket Lint | 350227 | [350227-pocket-lint.json](./350227-pocket-lint.json) |
