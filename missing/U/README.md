@@ -2576,6 +2576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unlikely Stickman | 55560 | [55560-unlikely-stickman.json](./55560-unlikely-stickman.json) |
 | Unlikely Suspects | 63916 | [63916-unlikely-suspects.json](./63916-unlikely-suspects.json) |
 | Unlimited | 268217 | [268217-unlimited.json](./268217-unlimited.json) |
+| Unlimited | 44243 | [44243-unlimited.json](./44243-unlimited.json) |
 | Unlimited Adventures | 2531 | [2531-unlimited-adventures.json](./2531-unlimited-adventures.json) |
 | Unlimited Adventures | 71492 | [71492-unlimited-adventures.json](./71492-unlimited-adventures.json) |
 | Unlimited Checkers | 71442 | [71442-unlimited-checkers.json](./71442-unlimited-checkers.json) |
