@@ -5580,6 +5580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Block Bashi | 151711 | [151711-sengoku-block-bashi.json](./151711-sengoku-block-bashi.json) |
 | Sengoku Bushidou: Daiyabou no Maki | 308883 | [308883-sengoku-bushidou-daiyabou-no-maki.json](./308883-sengoku-bushidou-daiyabou-no-maki.json) |
 | Sengoku Cannon for Nintendo Switch | 110869 | [110869-sengoku-cannon-for-nintendo-switch.json](./110869-sengoku-cannon-for-nintendo-switch.json) |
+| Sengoku Cannon: Sengoku Ace Episode III | 66831 | [66831-sengoku-cannon-sengoku-ace-episode-iii.json](./66831-sengoku-cannon-sengoku-ace-episode-iii.json) |
 | Sengoku Cyber: Fujimaru Jigoku-hen | 242847 | [242847-sengoku-cyber-fujimaru-jigoku-hen.json](./242847-sengoku-cyber-fujimaru-jigoku-hen.json) |
 | Sengoku Denshou | 48632 | [48632-sengoku-denshou.json](./48632-sengoku-denshou.json) |
 | Sengoku Dynasty | 192664 | [192664-sengoku-dynasty.json](./192664-sengoku-dynasty.json) |
@@ -8313,6 +8314,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sherlock Purr: Extended Edition | 243369 | [243369-sherlock-purr-extended-edition.json](./243369-sherlock-purr-extended-edition.json) |
 | Sherlock Spot DX | 370823 | [370823-sherlock-spot-dx.json](./370823-sherlock-spot-dx.json) |
 | Sherlock: Hidden Object & Match-3 Mystery | 357304 | [357304-sherlock-hidden-object-and-match-3-mystery.json](./357304-sherlock-hidden-object-and-match-3-mystery.json) |
+| Sherlock: The Game of Logic | 66792 | [66792-sherlock-the-game-of-logic.json](./66792-sherlock-the-game-of-logic.json) |
 | Sherlock: The Network | 285038 | [285038-sherlock-the-network.json](./285038-sherlock-the-network.json) |
 | Sherlock: The Riddle of the Crown Jewels | 12623 | [12623-sherlock-the-riddle-of-the-crown-jewels.json](./12623-sherlock-the-riddle-of-the-crown-jewels.json) |
 | Sherman Commander | 155650 | [155650-sherman-commander.json](./155650-sherman-commander.json) |
@@ -18741,6 +18743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonny Legacy Collection | 299891 | [299891-sonny-legacy-collection.json](./299891-sonny-legacy-collection.json) |
 | Sonny with a Chance | 66903 | [66903-sonny-with-a-chance.json](./66903-sonny-with-a-chance.json) |
 | Sonny X'press! | 195057 | [195057-sonny-xpress.json](./195057-sonny-xpress.json) |
+| Sonny's Race for the Chocolatey Taste | 66802 | [66802-sonnys-race-for-the-chocolatey-taste.json](./66802-sonnys-race-for-the-chocolatey-taste.json) |
 | Sono | 130184 | [130184-sono.json](./130184-sono.json) |
 | Sono Hanabira ni Kuchizuke o: Amakute Hoshikute Torokeru Chuu | 12218 | [12218-sono-hanabira-ni-kuchizuke-o-amakute-hoshikute-torokeru-chuu.json](./12218-sono-hanabira-ni-kuchizuke-o-amakute-hoshikute-torokeru-chuu.json) |
 | Sono Hanabira ni Kuchizuke o: Kuchibiru to Kiss de Tsubuyaite | 12217 | [12217-sono-hanabira-ni-kuchizuke-o-kuchibiru-to-kiss-de-tsubuyaite.json](./12217-sono-hanabira-ni-kuchizuke-o-kuchibiru-to-kiss-de-tsubuyaite.json) |
@@ -20145,6 +20148,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Force Bargain Bin | 379412 | [379412-space-force-bargain-bin.json](./379412-space-force-bargain-bin.json) |
 | Space Force Squadron | 155860 | [155860-space-force-squadron.json](./155860-space-force-squadron.json) |
 | Space Force: Rogue Universe | 10259 | [10259-space-force-rogue-universe.json](./10259-space-force-rogue-universe.json) |
+| Space Fortress | 66807 | [66807-space-fortress.json](./66807-space-fortress.json) |
 | Space Fox Kimi | 107843 | [107843-space-fox-kimi.json](./107843-space-fox-kimi.json) |
 | Space Fox Kimi and the Interstellar Fortress | 171589 | [171589-space-fox-kimi-and-the-interstellar-fortress.json](./171589-space-fox-kimi-and-the-interstellar-fortress.json) |
 | Space Fox Kimi: A Very Kimi Christmas | 172278 | [172278-space-fox-kimi-a-very-kimi-christmas.json](./172278-space-fox-kimi-a-very-kimi-christmas.json) |
@@ -24641,6 +24645,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Baron | 103607 | [103607-star-baron.json](./103607-star-baron.json) |
 | Star Battalion | 203231 | [203231-star-battalion.json](./203231-star-battalion.json) |
 | Star Battle | 415797 | [415797-star-battle.json](./415797-star-battle.json) |
+| Star Battle | 66806 | [66806-star-battle.json](./66806-star-battle.json) |
 | Star Beads | 329007 | [329007-star-beads.json](./329007-star-beads.json) |
 | Star Beasts: Meteor Version | 227920 | [227920-star-beasts-meteor-version.json](./227920-star-beasts-meteor-version.json) |
 | Star Billions | 56999 | [56999-star-billions.json](./56999-star-billions.json) |
@@ -25404,6 +25409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Blaster Strike | 389227 | [389227-star-wars-blaster-strike.json](./389227-star-wars-blaster-strike.json) |
 | Star Wars: Bounty Hunter | 307040 | [307040-star-wars-bounty-hunter.json](./307040-star-wars-bounty-hunter.json) |
 | Star Wars: Bounty Hunter | 4180 | [4180-star-wars-bounty-hunter.json](./4180-star-wars-bounty-hunter.json) |
+| Star Wars: Cantina | 66790 | [66790-star-wars-cantina.json](./66790-star-wars-cantina.json) |
 | Star Wars: Clone Trooper | 389232 | [389232-star-wars-clone-trooper.json](./389232-star-wars-clone-trooper.json) |
 | Star Wars: Clone Trooper Blaster Game | 389235 | [389235-star-wars-clone-trooper-blaster-game.json](./389235-star-wars-clone-trooper-blaster-game.json) |
 | Star Wars: Clone Wars Adventures | 21739 | [21739-star-wars-clone-wars-adventures.json](./21739-star-wars-clone-wars-adventures.json) |
@@ -34295,6 +34301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Terrible Project: Revenge | 323677 | [323677-super-terrible-project-revenge.json](./323677-super-terrible-project-revenge.json) |
 | Super Tetris | 100287 | [100287-super-tetris.json](./100287-super-tetris.json) |
 | Super Tetris | 46116 | [46116-super-tetris.json](./46116-super-tetris.json) |
+| Super Tetris 2 + BomBliss | 66791 | [66791-super-tetris-2-bombliss.json](./66791-super-tetris-2-bombliss.json) |
 | Super Tetris 2 + BomBliss: Gentei-ban | 236679 | [236679-super-tetris-2-bombliss-gentei-ban.json](./236679-super-tetris-2-bombliss-gentei-ban.json) |
 | Super Tetris 3 | 42531 | [42531-super-tetris-3.json](./42531-super-tetris-3.json) |
 | Super Thanksgiving | 379306 | [379306-super-thanksgiving.json](./379306-super-thanksgiving.json) |
@@ -35711,6 +35718,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suzumiya Haruhi no Heiretsu | 69110 | [69110-suzumiya-haruhi-no-heiretsu.json](./69110-suzumiya-haruhi-no-heiretsu.json) |
 | Suzumiya Haruhi no Houi | 97503 | [97503-suzumiya-haruhi-no-houi.json](./97503-suzumiya-haruhi-no-houi.json) |
 | Suzumiya Haruhi no Tomadoi | 72709 | [72709-suzumiya-haruhi-no-tomadoi.json](./72709-suzumiya-haruhi-no-tomadoi.json) |
+| Suzumiya Haruhi no Tsuisou | 66321 | [66321-suzumiya-haruhi-no-tsuisou.json](./66321-suzumiya-haruhi-no-tsuisou.json) |
 | Suzumiya Haruhi-chan no Mahjong | 61444 | [61444-suzumiya-haruhi-chan-no-mahjong.json](./61444-suzumiya-haruhi-chan-no-mahjong.json) |
 | Suzunaan on Fire | 127729 | [127729-suzunaan-on-fire.json](./127729-suzunaan-on-fire.json) |
 | Suzunone Seven! | 62265 | [62265-suzunone-seven.json](./62265-suzunone-seven.json) |
