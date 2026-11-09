@@ -324,6 +324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaisa | 95362 | [95362-kaisa.json](./95362-kaisa.json) |
 | Kaisa: Resurrection | 212145 | [212145-kaisa-resurrection.json](./212145-kaisa-resurrection.json) |
 | Kaisen! Ika Gundan! | 269317 | [269317-kaisen-ika-gundan.json](./269317-kaisen-ika-gundan.json) |
+| Kaiser | 15236 | [15236-kaiser.json](./15236-kaiser.json) |
 | Kaiser | 76157 | [76157-kaiser.json](./76157-kaiser.json) |
 | KaiseR Land 01 | 273181 | [273181-kaiser-land-01.json](./273181-kaiser-land-01.json) |
 | KaiseR Land 02 | 273182 | [273182-kaiser-land-02.json](./273182-kaiser-land-02.json) |
@@ -1136,6 +1137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kartia: The Word of Fate | 45222 | [45222-kartia-the-word-of-fate.json](./45222-kartia-the-word-of-fate.json) |
 | Karting | 149185 | [149185-karting.json](./149185-karting.json) |
 | Karting Core | 408437 | [408437-karting-core.json](./408437-karting-core.json) |
+| Karting Grand Prix | 15238 | [15238-karting-grand-prix.json](./15238-karting-grand-prix.json) |
 | Karting Grand Prix Minigame | 389121 | [389121-karting-grand-prix-minigame.json](./389121-karting-grand-prix-minigame.json) |
 | Karting of Banban | 324816 | [324816-karting-of-banban.json](./324816-karting-of-banban.json) |
 | Karting Superstars | 265034 | [265034-karting-superstars.json](./265034-karting-superstars.json) |
@@ -2130,6 +2132,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KGB | 3362 | [3362-kgb.json](./3362-kgb.json) |
 | KGB Super Spy | 92633 | [92633-kgb-super-spy.json](./92633-kgb-super-spy.json) |
 | Khaba | 28581 | [28581-khaba.json](./28581-khaba.json) |
+| Khalaan | 15239 | [15239-khalaan.json](./15239-khalaan.json) |
 | Khalco Farm | 414505 | [414505-khalco-farm.json](./414505-khalco-farm.json) |
 | Khaldun | 184866 | [184866-khaldun.json](./184866-khaldun.json) |
 | Khaligrad | 258271 | [258271-khaligrad.json](./258271-khaligrad.json) |
@@ -2694,6 +2697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | KillCam Blablublas Battle Royale | 374911 | [374911-killcam-blablublas-battle-royale.json](./374911-killcam-blablublas-battle-royale.json) |
 | Killcolor | 296925 | [296925-killcolor.json](./296925-killcolor.json) |
 | Killdozer Simulator | 291386 | [291386-killdozer-simulator.json](./291386-killdozer-simulator.json) |
+| Killdozers | 15242 | [15242-killdozers.json](./15242-killdozers.json) |
 | Killed by Love 99 Times | 368015 | [368015-killed-by-love-99-times.json](./368015-killed-by-love-99-times.json) |
 | Killed Until Dead | 12358 | [12358-killed-until-dead.json](./12358-killed-until-dead.json) |
 | Killego | 384097 | [384097-killego.json](./384097-killego.json) |
@@ -2919,7 +2923,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
