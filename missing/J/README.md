@@ -1298,6 +1298,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jet Race | 359462 | [359462-jet-race.json](./359462-jet-race.json) |
 | Jet Racing Extreme | 34903 | [34903-jet-racing-extreme.json](./34903-jet-racing-extreme.json) |
 | Jet Riders | 209997 | [209997-jet-riders.json](./209997-jet-riders.json) |
+| Jet Rocket | 56115 | [56115-jet-rocket.json](./56115-jet-rocket.json) |
 | Jet Run: City Defender | 58172 | [58172-jet-run-city-defender.json](./58172-jet-run-city-defender.json) |
 | Jet Rush | 236304 | [236304-jet-rush.json](./236304-jet-rush.json) |
 | Jet Rush 2 | 358731 | [358731-jet-rush-2.json](./358731-jet-rush-2.json) |
@@ -2550,6 +2551,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Johnny 3: Moonlightificated | 56203 | [56203-johnny-3-moonlightificated.json](./56203-johnny-3-moonlightificated.json) |
 | Johnny 4: The Final Chapter | 56197 | [56197-johnny-4-the-final-chapter.json](./56197-johnny-4-the-final-chapter.json) |
 | Johnny 5 | 56201 | [56201-johnny-5.json](./56201-johnny-5.json) |
+| Johnny 6 | 56180 | [56180-johnny-6.json](./56180-johnny-6.json) |
+| Johnny 7 | 56181 | [56181-johnny-7.json](./56181-johnny-7.json) |
 | Johnny 8: The Final Battle | 56190 | [56190-johnny-8-the-final-battle.json](./56190-johnny-8-the-final-battle.json) |
 | Johnny 9: The Return | 124704 | [124704-johnny-9-the-return.json](./124704-johnny-9-the-return.json) |
 | Johnny Bazookatone | 4256 | [4256-johnny-bazookatone.json](./4256-johnny-bazookatone.json) |
