@@ -3308,6 +3308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Eden | 228905 | [228905-new-eden.json](./228905-new-eden.json) |
 | New Eitango Target 1900 DS | 186732 | [186732-new-eitango-target-1900-ds.json](./186732-new-eitango-target-1900-ds.json) |
 | New Empire of Angels | 56123 | [56123-new-empire-of-angels.json](./56123-new-empire-of-angels.json) |
+| New Empire of Angels: Mobile | 56120 | [56120-new-empire-of-angels-mobile.json](./56120-new-empire-of-angels-mobile.json) |
 | New England Detective: Breakfast in Boston | 119002 | [119002-new-england-detective-breakfast-in-boston.json](./119002-new-england-detective-breakfast-in-boston.json) |
 | New English Training: Learning with Tempo - Advanced Edition | 260942 | [260942-new-english-training-learning-with-tempo-advanced-edition.json](./260942-new-english-training-learning-with-tempo-advanced-edition.json) |
 | New English Training: Learning with Tempo - Beginners Edition | 260944 | [260944-new-english-training-learning-with-tempo-beginners-edition.json](./260944-new-english-training-learning-with-tempo-beginners-edition.json) |
