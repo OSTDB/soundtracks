@@ -8823,6 +8823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Trip | 182553 | [182553-road-trip.json](./182553-road-trip.json) |
 | Road Trip | 202425 | [202425-road-trip.json](./202425-road-trip.json) |
 | Road Trip | 310967 | [310967-road-trip.json](./310967-road-trip.json) |
+| Road Trip | 44694 | [44694-road-trip.json](./44694-road-trip.json) |
 | Road Trip Bingo | 26159 | [26159-road-trip-bingo.json](./26159-road-trip-bingo.json) |
 | Road Trip Europe | 229944 | [229944-road-trip-europe.json](./229944-road-trip-europe.json) |
 | Road Trip Games App (Classics) | 102741 | [102741-road-trip-games-app-classics.json](./102741-road-trip-games-app-classics.json) |
