@@ -35,6 +35,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F-15 Strike Eagle | 370485 | [370485-f-15-strike-eagle.json](./370485-f-15-strike-eagle.json) |
 | F-15 Strike Eagle II | 12084 | [12084-f-15-strike-eagle-ii.json](./12084-f-15-strike-eagle-ii.json) |
 | F-15 Strike Eagle III | 71811 | [71811-f-15-strike-eagle-iii.json](./71811-f-15-strike-eagle-iii.json) |
+| F-16 Aggressor | 73412 | [73412-f-16-aggressor.json](./73412-f-16-aggressor.json) |
 | F-16 Combat Pilot | 12085 | [12085-f-16-combat-pilot.json](./12085-f-16-combat-pilot.json) |
 | F-16 Fighting Falcon | 14060 | [14060-f-16-fighting-falcon.json](./14060-f-16-fighting-falcon.json) |
 | F-16 Fighting Falcon | 36679 | [36679-f-16-fighting-falcon.json](./36679-f-16-fighting-falcon.json) |
@@ -888,6 +889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Falcon 3.0 | 137028 | [137028-falcon-3-0.json](./137028-falcon-3-0.json) |
 | Falcon 3.0: Hornet - Naval Strike Fighter | 78024 | [78024-falcon-3-0-hornet-naval-strike-fighter.json](./78024-falcon-3-0-hornet-naval-strike-fighter.json) |
 | Falcon 3.0: MiG-29 | 85897 | [85897-falcon-3-0-mig-29.json](./85897-falcon-3-0-mig-29.json) |
+| Falcon 3.0: Operation Fighting Tiger | 73388 | [73388-falcon-3-0-operation-fighting-tiger.json](./73388-falcon-3-0-operation-fighting-tiger.json) |
 | Falcon 4.0 | 33853 | [33853-falcon-4-0.json](./33853-falcon-4-0.json) |
 | Falcon 4.0 Gold: Operation Infinite Resolve | 209241 | [209241-falcon-4-0-gold-operation-infinite-resolve.json](./209241-falcon-4-0-gold-operation-infinite-resolve.json) |
 | Falcon 4.0: Allied Force | 695 | [695-falcon-4-0-allied-force.json](./695-falcon-4-0-allied-force.json) |
@@ -10085,6 +10087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forever War | 119011 | [119011-forever-war.json](./119011-forever-war.json) |
 | Forever With You | 381033 | [381033-forever-with-you.json](./381033-forever-with-you.json) |
 | Forever World Cup Simulator | 312437 | [312437-forever-world-cup-simulator.json](./312437-forever-world-cup-simulator.json) |
+| Forever Worlds: Enter the Unknown | 73402 | [73402-forever-worlds-enter-the-unknown.json](./73402-forever-worlds-enter-the-unknown.json) |
 | Forever You Pongball | 187743 | [187743-forever-you-pongball.json](./187743-forever-you-pongball.json) |
 | Forever Yours | 418561 | [418561-forever-yours.json](./418561-forever-yours.json) |
 | Forever-Happy-Town | 370656 | [370656-forever-happy-town.json](./370656-forever-happy-town.json) |
