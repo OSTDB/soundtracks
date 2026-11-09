@@ -6289,6 +6289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chaos Rings | 38898 | [38898-chaos-rings.json](./38898-chaos-rings.json) |
 | Chaos Rings II | 38896 | [38896-chaos-rings-ii.json](./38896-chaos-rings-ii.json) |
 | Chaos Rings III | 39228 | [39228-chaos-rings-iii.json](./39228-chaos-rings-iii.json) |
+| Chaos Rings III Prequel Trilogy | 61197 | [61197-chaos-rings-iii-prequel-trilogy.json](./61197-chaos-rings-iii-prequel-trilogy.json) |
 | Chaos Rings Omega | 38897 | [38897-chaos-rings-omega.json](./38897-chaos-rings-omega.json) |
 | Chaos Rising | 354571 | [354571-chaos-rising.json](./354571-chaos-rising.json) |
 | Chaos Rising: Part 2 | 354572 | [354572-chaos-rising-part-2.json](./354572-chaos-rising-part-2.json) |
@@ -10836,6 +10837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clock Tower: Rewind | 256465 | [256465-clock-tower-rewind.json](./256465-clock-tower-rewind.json) |
 | Clock Tower: The First Fear | 178158 | [178158-clock-tower-the-first-fear.json](./178158-clock-tower-the-first-fear.json) |
 | Clock World | 398579 | [398579-clock-world.json](./398579-clock-world.json) |
+| Clock Zero: Shuuen no Ichibyou | 61177 | [61177-clock-zero-shuuen-no-ichibyou.json](./61177-clock-zero-shuuen-no-ichibyou.json) |
 | Clock Zero: Shuuen no Ichibyou - Devote | 202593 | [202593-clock-zero-shuuen-no-ichibyou-devote.json](./202593-clock-zero-shuuen-no-ichibyou-devote.json) |
 | Clock Zero: Shuuen no Ichibyou - ExTime | 202592 | [202592-clock-zero-shuuen-no-ichibyou-extime.json](./202592-clock-zero-shuuen-no-ichibyou-extime.json) |
 | Clock Zero: Shuuen no Ichibyou Portable | 202591 | [202591-clock-zero-shuuen-no-ichibyou-portable.json](./202591-clock-zero-shuuen-no-ichibyou-portable.json) |
