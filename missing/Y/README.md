@@ -1501,6 +1501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Your Shape Fitness Evolved 2013 | 28347 | [28347-your-shape-fitness-evolved-2013.json](./28347-your-shape-fitness-evolved-2013.json) |
 | Your Shots Count | 277815 | [277815-your-shots-count.json](./277815-your-shots-count.json) |
 | Your Show Has Been Cancelled | 171298 | [171298-your-show-has-been-cancelled.json](./171298-your-show-has-been-cancelled.json) |
+| Your Sinclair 6-Pack March 1991 | 70155 | [70155-your-sinclair-6-pack-march-1991.json](./70155-your-sinclair-6-pack-march-1991.json) |
 | Your Sinclair Beaut Box March 1993 | 100094 | [100094-your-sinclair-beaut-box-march-1993.json](./100094-your-sinclair-beaut-box-march-1993.json) |
 | Your Sinclair Four Pack December 1990 | 74079 | [74079-your-sinclair-four-pack-december-1990.json](./74079-your-sinclair-four-pack-december-1990.json) |
 | Your Sinclair Four Pack October 1990 | 85707 | [85707-your-sinclair-four-pack-october-1990.json](./85707-your-sinclair-four-pack-october-1990.json) |
