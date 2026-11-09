@@ -2097,6 +2097,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tankr.io Realtime Battle | 107548 | [107548-tankr-io-realtime-battle.json](./107548-tankr-io-realtime-battle.json) |
 | TankRat | 381208 | [381208-tankrat.json](./381208-tankrat.json) |
 | Tankron | 215883 | [215883-tankron.json](./215883-tankron.json) |
+| Tankrovia | 76799 | [76799-tankrovia.json](./76799-tankrovia.json) |
 | Tankroyale.io | 162620 | [162620-tankroyale-io.json](./162620-tankroyale-io.json) |
 | Tanks | 102253 | [102253-tanks.json](./102253-tanks.json) |
 | Tanks | 201962 | [201962-tanks.json](./201962-tanks.json) |
