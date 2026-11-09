@@ -1108,6 +1108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camp Wombo | 351010 | [351010-camp-wombo.json](./351010-camp-wombo.json) |
 | Campaign | 14371 | [14371-campaign.json](./14371-campaign.json) |
 | Campaign | 246322 | [246322-campaign.json](./246322-campaign.json) |
+| Campaign '84 | 40878 | [40878-campaign-84.json](./40878-campaign-84.json) |
 | Campaign 1776 | 94299 | [94299-campaign-1776.json](./94299-campaign-1776.json) |
 | Campaign 1814 | 144833 | [144833-campaign-1814.json](./144833-campaign-1814.json) |
 | Campaign Antietam | 182260 | [182260-campaign-antietam.json](./182260-campaign-antietam.json) |
@@ -6116,6 +6117,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Championship Pool | 4538 | [4538-championship-pool.json](./4538-championship-pool.json) |
 | Championship Pro-Am | 46228 | [46228-championship-pro-am.json](./46228-championship-pro-am.json) |
 | Championship Rally | 250300 | [250300-championship-rally.json](./250300-championship-rally.json) |
+| Championship Rally | 40849 | [40849-championship-rally.json](./40849-championship-rally.json) |
 | Championship Riding Star | 206914 | [206914-championship-riding-star.json](./206914-championship-riding-star.json) |
 | Championship Rugby Manager | 71223 | [71223-championship-rugby-manager.json](./71223-championship-rugby-manager.json) |
 | Championship Run | 94312 | [94312-championship-run.json](./94312-championship-run.json) |
@@ -15644,6 +15646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Cowboy | 303434 | [303434-cosmic-cowboy.json](./303434-cosmic-cowboy.json) |
 | Cosmic Cowboy | 413070 | [413070-cosmic-cowboy.json](./413070-cosmic-cowboy.json) |
 | Cosmic Creeps | 18547 | [18547-cosmic-creeps.json](./18547-cosmic-creeps.json) |
+| Cosmic Crisis | 40877 | [40877-cosmic-crisis.json](./40877-cosmic-crisis.json) |
 | Cosmic Critters | 263121 | [263121-cosmic-critters.json](./263121-cosmic-critters.json) |
 | Cosmic Crowbar | 410939 | [410939-cosmic-crowbar.json](./410939-cosmic-crowbar.json) |
 | Cosmic Crucible | 293173 | [293173-cosmic-crucible.json](./293173-cosmic-crucible.json) |
@@ -17997,6 +18000,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Boss: Rockay City - Cracker Character Pack | 334292 | [334292-crime-boss-rockay-city-cracker-character-pack.json](./334292-crime-boss-rockay-city-cracker-character-pack.json) |
 | Crime Boss: Rockay City - Jupiter Character Pack | 334549 | [334549-crime-boss-rockay-city-jupiter-character-pack.json](./334549-crime-boss-rockay-city-jupiter-character-pack.json) |
 | Crime Boss: Rockay City - Tactical Weapon Pack | 315501 | [315501-crime-boss-rockay-city-tactical-weapon-pack.json](./315501-crime-boss-rockay-city-tactical-weapon-pack.json) |
+| Crime Buster | 40873 | [40873-crime-buster.json](./40873-crime-buster.json) |
 | Crime Busters | 48320 | [48320-crime-busters.json](./48320-crime-busters.json) |
 | Crime Busters II: Havoc | 345714 | [345714-crime-busters-ii-havoc.json](./345714-crime-busters-ii-havoc.json) |
 | Crime Busters: Strike Area | 242590 | [242590-crime-busters-strike-area.json](./242590-crime-busters-strike-area.json) |
