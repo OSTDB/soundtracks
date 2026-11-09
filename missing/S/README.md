@@ -22414,6 +22414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spheric Bombs | 294095 | [294095-spheric-bombs.json](./294095-spheric-bombs.json) |
 | Spherical | 12771 | [12771-spherical.json](./12771-spherical.json) |
 | Spherical alliance | 166899 | [166899-spherical-alliance.json](./166899-spherical-alliance.json) |
+| Spherical Constitution | 26733 | [26733-spherical-constitution.json](./26733-spherical-constitution.json) |
 | Spherical Soccer | 184173 | [184173-spherical-soccer.json](./184173-spherical-soccer.json) |
 | Spheritis | 17647 | [17647-spheritis.json](./17647-spheritis.json) |
 | Spheriums | 189883 | [189883-spheriums.json](./189883-spheriums.json) |
@@ -25032,6 +25033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fields | 32371 | [32371-star-fields.json](./32371-star-fields.json) |
 | Star Fight | 30681 | [30681-star-fight.json](./30681-star-fight.json) |
 | Star Fighter | 170804 | [170804-star-fighter.json](./170804-star-fighter.json) |
+| Star Fighter | 26745 | [26745-star-fighter.json](./26745-star-fighter.json) |
 | Star Fighter | 383702 | [383702-star-fighter.json](./383702-star-fighter.json) |
 | Star Fire | 23160 | [23160-star-fire.json](./23160-star-fire.json) |
 | Star Fire | 408210 | [408210-star-fire.json](./408210-star-fire.json) |
