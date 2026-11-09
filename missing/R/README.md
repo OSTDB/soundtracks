@@ -293,7 +293,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raccoon Hero: Monkey Business | 59567 | [59567-raccoon-hero-monkey-business.json](./59567-raccoon-hero-monkey-business.json) |
 | Raccoon Hero: Starlight | 54480 | [54480-raccoon-hero-starlight.json](./54480-raccoon-hero-starlight.json) |
 | Raccoon Hero: The Frost | 55566 | [55566-raccoon-hero-the-frost.json](./55566-raccoon-hero-the-frost.json) |
+| Raccoon Hero: The Marsh | 55436 | [55436-raccoon-hero-the-marsh.json](./55436-raccoon-hero-the-marsh.json) |
 | Raccoon Hero: The Sunrise | 51961 | [51961-raccoon-hero-the-sunrise.json](./51961-raccoon-hero-the-sunrise.json) |
+| Raccoon Hero: Under the Sea | 55437 | [55437-raccoon-hero-under-the-sea.json](./55437-raccoon-hero-under-the-sea.json) |
 | Raccoon Lagoon | 133388 | [133388-raccoon-lagoon.json](./133388-raccoon-lagoon.json) |
 | Raccoon Laundering | 307129 | [307129-raccoon-laundering.json](./307129-raccoon-laundering.json) |
 | Raccoon Out | 300017 | [300017-raccoon-out.json](./300017-raccoon-out.json) |
@@ -6425,6 +6427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrys | 355576 | [355576-retrys.json](./355576-retrys.json) |
 | Retsnom | 34946 | [34946-retsnom.json](./34946-retsnom.json) |
 | Rettend: File 1 | 185931 | [185931-rettend-file-1.json](./185931-rettend-file-1.json) |
+| Rettou Juudan Nekkyoku Janshi: Higashi Nippon-hen | 56052 | [56052-rettou-juudan-nekkyoku-janshi-higashi-nippon-hen.json](./56052-rettou-juudan-nekkyoku-janshi-higashi-nippon-hen.json) |
 | Rettungssimulator Online | 144937 | [144937-rettungssimulator-online.json](./144937-rettungssimulator-online.json) |
 | Return | 177418 | [177418-return.json](./177418-return.json) |
 | Return | 186010 | [186010-return.json](./186010-return.json) |
