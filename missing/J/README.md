@@ -1235,6 +1235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jesus Christ RPG | 18450 | [18450-jesus-christ-rpg.json](./18450-jesus-christ-rpg.json) |
 | Jesus Christ RPG Trilogy | 33371 | [33371-jesus-christ-rpg-trilogy.json](./33371-jesus-christ-rpg-trilogy.json) |
 | Jesus Christ Simulator | 303590 | [303590-jesus-christ-simulator.json](./303590-jesus-christ-simulator.json) |
+| Jesus II | 65057 | [65057-jesus-ii.json](./65057-jesus-ii.json) |
 | Jesus in Space | 66525 | [66525-jesus-in-space.json](./66525-jesus-in-space.json) |
 | Jesus Matchup | 93294 | [93294-jesus-matchup.json](./93294-jesus-matchup.json) |
 | Jesus of Nazareth | 69739 | [69739-jesus-of-nazareth.json](./69739-jesus-of-nazareth.json) |
@@ -1475,6 +1476,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jewel Fight: Heroes of Legend | 309288 | [309288-jewel-fight-heroes-of-legend.json](./309288-jewel-fight-heroes-of-legend.json) |
 | Jewel Hunter : Lost Temple | 105853 | [105853-jewel-hunter-lost-temple.json](./105853-jewel-hunter-lost-temple.json) |
 | Jewel Jungle Temple | 104579 | [104579-jewel-jungle-temple.json](./104579-jewel-jungle-temple.json) |
+| Jewel Keepers: Easter Island | 65089 | [65089-jewel-keepers-easter-island.json](./65089-jewel-keepers-easter-island.json) |
 | Jewel Legends: Atlantis | 87522 | [87522-jewel-legends-atlantis.json](./87522-jewel-legends-atlantis.json) |
 | Jewel Legends: Atlantis & Jewel Legends: Magical Kingdom | 201884 | [201884-jewel-legends-atlantis-and-jewel-legends-magical-kingdom.json](./201884-jewel-legends-atlantis-and-jewel-legends-magical-kingdom.json) |
 | Jewel Legends: Magical Kingdom | 87085 | [87085-jewel-legends-magical-kingdom.json](./87085-jewel-legends-magical-kingdom.json) |
