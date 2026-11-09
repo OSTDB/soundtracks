@@ -6636,6 +6636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Wire! | 122569 | [122569-live-wire.json](./122569-live-wire.json) |
 | Live with Mary | 247830 | [247830-live-with-mary.json](./247830-live-with-mary.json) |
 | Live x Evil | 220245 | [220245-live-x-evil.json](./220245-live-x-evil.json) |
+| Live Zombies | 58388 | [58388-live-zombies.json](./58388-live-zombies.json) |
 | Live/Wire | 147542 | [147542-live-wire.json](./147542-live-wire.json) |
 | LiveGame.Show | 131349 | [131349-livegame-show.json](./131349-livegame-show.json) |
 | Livelock | 16982 | [16982-livelock.json](./16982-livelock.json) |
