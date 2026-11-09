@@ -7461,6 +7461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fizzburg | 413878 | [413878-fizzburg.json](./413878-fizzburg.json) |
 | Fizzy Factory | 262070 | [262070-fizzy-factory.json](./262070-fizzy-factory.json) |
 | Fizzy Wizzy | 14072 | [14072-fizzy-wizzy.json](./14072-fizzy-wizzy.json) |
+| Fjall | 34524 | [34524-fjall.json](./34524-fjall.json) |
 | Fjellward | 407735 | [407735-fjellward.json](./407735-fjellward.json) |
 | Fjong | 55556 | [55556-fjong.json](./55556-fjong.json) |
 | Fjord battle racing | 50523 | [50523-fjord-battle-racing.json](./50523-fjord-battle-racing.json) |
@@ -12114,6 +12115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Freedom Planet | 7116 | [7116-freedom-planet.json](./7116-freedom-planet.json) |
 | Freedom Planet 1+2 Bundle | 295696 | [295696-freedom-planet-1-2-bundle.json](./295696-freedom-planet-1-2-bundle.json) |
 | Freedom Planet 2 | 26622 | [26622-freedom-planet-2.json](./26622-freedom-planet-2.json) |
+| Freedom Poopie | 34520 | [34520-freedom-poopie.json](./34520-freedom-poopie.json) |
 | Freedom Tower | 260334 | [260334-freedom-tower.json](./260334-freedom-tower.json) |
 | Freedom Wars | 6060 | [6060-freedom-wars.json](./6060-freedom-wars.json) |
 | Freedom Wars Remastered | 317086 | [317086-freedom-wars-remastered.json](./317086-freedom-wars-remastered.json) |
