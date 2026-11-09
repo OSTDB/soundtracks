@@ -9606,6 +9606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucid | 336119 | [336119-lucid.json](./336119-lucid.json) |
 | Lucid Adventure Idle RPG | 143079 | [143079-lucid-adventure-idle-rpg.json](./143079-lucid-adventure-idle-rpg.json) |
 | Lucid Aether | 127675 | [127675-lucid-aether.json](./127675-lucid-aether.json) |
+| Lucid Awakening 2 | 36012 | [36012-lucid-awakening-2.json](./36012-lucid-awakening-2.json) |
 | Lucid Cats | 419831 | [419831-lucid-cats.json](./419831-lucid-cats.json) |
 | Lucid Cycle | 149940 | [149940-lucid-cycle.json](./149940-lucid-cycle.json) |
 | Lucid Deep | 132774 | [132774-lucid-deep.json](./132774-lucid-deep.json) |
