@@ -2841,6 +2841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend's Duty: The Rifted World | 397265 | [397265-legends-duty-the-rifted-world.json](./397265-legends-duty-the-rifted-world.json) |
 | Legend's World | 90058 | [90058-legends-world.json](./90058-legends-world.json) |
 | Legendarium Online | 190890 | [190890-legendarium-online.json](./190890-legendarium-online.json) |
+| Legendary Arcane | 75362 | [75362-legendary-arcane.json](./75362-legendary-arcane.json) |
 | Legendary Arcane 2 | 177114 | [177114-legendary-arcane-2.json](./177114-legendary-arcane-2.json) |
 | Legendary Arcane 2 Universe | 129750 | [129750-legendary-arcane-2-universe.json](./129750-legendary-arcane-2-universe.json) |
 | Legendary Archer: Rebirth | 224029 | [224029-legendary-archer-rebirth.json](./224029-legendary-archer-rebirth.json) |
