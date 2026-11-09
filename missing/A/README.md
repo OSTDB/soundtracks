@@ -3868,6 +3868,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Time: Legends of Ooo - Big Hollow Princess | 64970 | [64970-adventure-time-legends-of-ooo-big-hollow-princess.json](./64970-adventure-time-legends-of-ooo-big-hollow-princess.json) |
 | Adventure Time: Magic Man's Head Games | 19053 | [19053-adventure-time-magic-mans-head-games.json](./19053-adventure-time-magic-mans-head-games.json) |
 | Adventure Time: Pirates of the Enchiridion | 78149 | [78149-adventure-time-pirates-of-the-enchiridion.json](./78149-adventure-time-pirates-of-the-enchiridion.json) |
+| Adventure Time: Rock Bandits | 16597 | [16597-adventure-time-rock-bandits.json](./16597-adventure-time-rock-bandits.json) |
 | Adventure Time: Rockstars of Ooo | 59923 | [59923-adventure-time-rockstars-of-ooo.json](./59923-adventure-time-rockstars-of-ooo.json) |
 | Adventure Time: The Secret of the Nameless Kingdom | 8620 | [8620-adventure-time-the-secret-of-the-nameless-kingdom.json](./8620-adventure-time-the-secret-of-the-nameless-kingdom.json) |
 | Adventure Time: Treasure Fetch | 96186 | [96186-adventure-time-treasure-fetch.json](./96186-adventure-time-treasure-fetch.json) |
