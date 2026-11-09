@@ -9374,6 +9374,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wrestling Spirit 3 | 24755 | [24755-wrestling-spirit-3.json](./24755-wrestling-spirit-3.json) |
 | Wrestling Superstars | 125616 | [125616-wrestling-superstars.json](./125616-wrestling-superstars.json) |
 | Wrestling Trivia | 303201 | [303201-wrestling-trivia.json](./303201-wrestling-trivia.json) |
+| Wrestling Universe: Fire Pro Joshi Dome Choujo Taisen - Zenjo vs JWP | 64545 | [64545-wrestling-universe-fire-pro-joshi-dome-choujo-taisen-zenjo-vs-jwp.json](./64545-wrestling-universe-fire-pro-joshi-dome-choujo-taisen-zenjo-vs-jwp.json) |
 | Wrestling Universe: Fire Pro Women - Dome Super Female Big Battle: All Japan Women VS J.W.P. | 37627 | [37627-wrestling-universe-fire-pro-women-dome-super-female-big-battle-all-japan-women-vs-j-w-p.json](./37627-wrestling-universe-fire-pro-women-dome-super-female-big-battle-all-japan-women-vs-j-w-p.json) |
 | Wrestling With Emotions | 138546 | [138546-wrestling-with-emotions.json](./138546-wrestling-with-emotions.json) |
 | Wrestling With Emotions: New Kid on the Block | 166912 | [166912-wrestling-with-emotions-new-kid-on-the-block.json](./166912-wrestling-with-emotions-new-kid-on-the-block.json) |
