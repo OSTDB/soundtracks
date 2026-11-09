@@ -1521,6 +1521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hannah and the Pirate Caves | 338358 | [338358-hannah-and-the-pirate-caves.json](./338358-hannah-and-the-pirate-caves.json) |
 | Hannah Montana | 230314 | [230314-hannah-montana.json](./230314-hannah-montana.json) |
 | Hannah Montana | 245469 | [245469-hannah-montana.json](./245469-hannah-montana.json) |
+| Hannah Montana | 75349 | [75349-hannah-montana.json](./75349-hannah-montana.json) |
 | Hannah Montana | 85966 | [85966-hannah-montana.json](./85966-hannah-montana.json) |
 | Hannah Montana: DVD Game | 228444 | [228444-hannah-montana-dvd-game.json](./228444-hannah-montana-dvd-game.json) |
 | Hannah Montana: Music Jam | 21514 | [21514-hannah-montana-music-jam.json](./21514-hannah-montana-music-jam.json) |
@@ -1776,6 +1777,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Happy Saint Sheol | 250495 | [250495-happy-saint-sheol.json](./250495-happy-saint-sheol.json) |
 | Happy Salvage | 143128 | [143128-happy-salvage.json](./143128-happy-salvage.json) |
 | Happy Sandwich Cafe | 159276 | [159276-happy-sandwich-cafe.json](./159276-happy-sandwich-cafe.json) |
+| Happy Santa | 75305 | [75305-happy-santa.json](./75305-happy-santa.json) |
 | Happy Sawland | 306564 | [306564-happy-sawland.json](./306564-happy-sawland.json) |
 | Happy Seasons | 98443 | [98443-happy-seasons.json](./98443-happy-seasons.json) |
 | Happy Shape Blast | 241343 | [241343-happy-shape-blast.json](./241343-happy-shape-blast.json) |
@@ -2814,6 +2816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haunted House | 258483 | [258483-haunted-house.json](./258483-haunted-house.json) |
 | Haunted House | 276244 | [276244-haunted-house.json](./276244-haunted-house.json) |
 | Haunted House | 4909 | [4909-haunted-house.json](./4909-haunted-house.json) |
+| Haunted House | 75302 | [75302-haunted-house.json](./75302-haunted-house.json) |
 | Haunted House 2 | 340419 | [340419-haunted-house-2.json](./340419-haunted-house-2.json) |
 | Haunted House Builder | 270514 | [270514-haunted-house-builder.json](./270514-haunted-house-builder.json) |
 | Haunted House Escape | 192543 | [192543-haunted-house-escape.json](./192543-haunted-house-escape.json) |
@@ -4354,6 +4357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hell's Scream | 290532 | [290532-hells-scream.json](./290532-hells-scream.json) |
 | Hell`s Little Story 2 | 109757 | [109757-hell-s-little-story-2.json](./109757-hell-s-little-story-2.json) |
 | Hella Dazzling Hell!! | 156856 | [156856-hella-dazzling-hell.json](./156856-hella-dazzling-hell.json) |
+| Hellanoid: Archer vs Dragons | 75303 | [75303-hellanoid-archer-vs-dragons.json](./75303-hellanoid-archer-vs-dragons.json) |
 | Hellbanger | 116162 | [116162-hellbanger.json](./116162-hellbanger.json) |
 | Hellbender | 84176 | [84176-hellbender.json](./84176-hellbender.json) |
 | Hellbent | 13069 | [13069-hellbent.json](./13069-hellbent.json) |
@@ -11439,6 +11443,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Houshin Engi 2 | 125423 | [125423-houshin-engi-2.json](./125423-houshin-engi-2.json) |
 | Housle | 285391 | [285391-housle.json](./285391-housle.json) |
 | Houston, We Have a Problem | 286485 | [286485-houston-we-have-a-problem.json](./286485-houston-we-have-a-problem.json) |
+| Houston, We Have Spinach! | 75335 | [75335-houston-we-have-spinach.json](./75335-houston-we-have-spinach.json) |
 | Hoven the Sages Spinel | 34529 | [34529-hoven-the-sages-spinel.json](./34529-hoven-the-sages-spinel.json) |
 | Hover 2030 | 32897 | [32897-hover-2030.json](./32897-hover-2030.json) |
 | Hover Ace | 54103 | [54103-hover-ace.json](./54103-hover-ace.json) |
