@@ -2843,6 +2843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | David Get Keen | 228289 | [228289-david-get-keen.json](./228289-david-get-keen.json) |
 | David Haye's Jungle Rumble | 237011 | [237011-david-hayes-jungle-rumble.json](./237011-david-hayes-jungle-rumble.json) |
 | David Leadbetter's Greens | 71545 | [71545-david-leadbetters-greens.json](./71545-david-leadbetters-greens.json) |
+| David O'Leary's Total Soccer 2000 | 49998 | [49998-david-olearys-total-soccer-2000.json](./49998-david-olearys-total-soccer-2000.json) |
 | David Robinson's Supreme Court | 46533 | [46533-david-robinsons-supreme-court.json](./46533-david-robinsons-supreme-court.json) |
 | David Slade Mysteries: Case Files | 253161 | [253161-david-slade-mysteries-case-files.json](./253161-david-slade-mysteries-case-files.json) |
 | David Slade Mysteries: Case Files - Definitive Edition | 253163 | [253163-david-slade-mysteries-case-files-definitive-edition.json](./253163-david-slade-mysteries-case-files-definitive-edition.json) |
@@ -8076,6 +8077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detective Conan: Giwaku no Gouka Ressha | 61423 | [61423-detective-conan-giwaku-no-gouka-ressha.json](./61423-detective-conan-giwaku-no-gouka-ressha.json) |
 | Detective Conan: Kako Kara no Zensoukyoku - Prelude | 74820 | [74820-detective-conan-kako-kara-no-zensoukyoku-prelude.json](./74820-detective-conan-kako-kara-no-zensoukyoku-prelude.json) |
 | Detective Conan: Kanzen Suiri! Kazu to Zukei no Nazo | 123676 | [123676-detective-conan-kanzen-suiri-kazu-to-zukei-no-nazo.json](./123676-detective-conan-kanzen-suiri-kazu-to-zukei-no-nazo.json) |
+| Detective Conan: Karakuri Jiin Satsujin Jiken | 50004 | [50004-detective-conan-karakuri-jiin-satsujin-jiken.json](./50004-detective-conan-karakuri-jiin-satsujin-jiken.json) |
 | Detective Conan: Kieta Hakase to Machigai Sagashi no Tou | 79555 | [79555-detective-conan-kieta-hakase-to-machigai-sagashi-no-tou.json](./79555-detective-conan-kieta-hakase-to-machigai-sagashi-no-tou.json) |
 | Detective Conan: Kiganshima Hihou Densetsu | 209495 | [209495-detective-conan-kiganshima-hihou-densetsu.json](./209495-detective-conan-kiganshima-hihou-densetsu.json) |
 | Detective Conan: Kigantou Hihou Densetsu | 50561 | [50561-detective-conan-kigantou-hihou-densetsu.json](./50561-detective-conan-kigantou-hihou-densetsu.json) |
@@ -11085,6 +11087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's Pinocchio | 38844 | [38844-disneys-pinocchio.json](./38844-disneys-pinocchio.json) |
 | Disney's Pocahantas: Riverbend Adventures | 76602 | [76602-disneys-pocahantas-riverbend-adventures.json](./76602-disneys-pocahantas-riverbend-adventures.json) |
 | Disney's Pocahontas | 45780 | [45780-disneys-pocahontas.json](./45780-disneys-pocahontas.json) |
+| Disney's Pooh and Tigger's Hunny Safari | 50008 | [50008-disneys-pooh-and-tiggers-hunny-safari.json](./50008-disneys-pooh-and-tiggers-hunny-safari.json) |
 | Disney's Pooh's Party Game: In Search of the Treasure | 43724 | [43724-disneys-poohs-party-game-in-search-of-the-treasure.json](./43724-disneys-poohs-party-game-in-search-of-the-treasure.json) |
 | Disney's Reading Quest with Aladdin | 208897 | [208897-disneys-reading-quest-with-aladdin.json](./208897-disneys-reading-quest-with-aladdin.json) |
 | Disney's Ready For Math With Pooh | 85959 | [85959-disneys-ready-for-math-with-pooh.json](./85959-disneys-ready-for-math-with-pooh.json) |
@@ -14000,6 +14003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doraemon Gakushuu Collection | 141584 | [141584-doraemon-gakushuu-collection.json](./141584-doraemon-gakushuu-collection.json) |
 | Doraemon Giga Pad | 314371 | [314371-doraemon-giga-pad.json](./314371-doraemon-giga-pad.json) |
 | Doraemon Kart | 49127 | [49127-doraemon-kart.json](./49127-doraemon-kart.json) |
+| Doraemon Kart 2 | 49977 | [49977-doraemon-kart-2.json](./49977-doraemon-kart-2.json) |
 | Doraemon Memories: Nobita no Omoide Daibouken | 91776 | [91776-doraemon-memories-nobita-no-omoide-daibouken.json](./91776-doraemon-memories-nobita-no-omoide-daibouken.json) |
 | Doraemon no Bouken Meiro | 349437 | [349437-doraemon-no-bouken-meiro.json](./349437-doraemon-no-bouken-meiro.json) |
 | Doraemon no Eawase Montage | 349436 | [349436-doraemon-no-eawase-montage.json](./349436-doraemon-no-eawase-montage.json) |
