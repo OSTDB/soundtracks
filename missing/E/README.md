@@ -4033,6 +4033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enduring Mountain | 213999 | [213999-enduring-mountain.json](./213999-enduring-mountain.json) |
 | Endurium | 157338 | [157338-endurium.json](./157338-endurium.json) |
 | Enduro | 18669 | [18669-enduro.json](./18669-enduro.json) |
+| Enduro | 68156 | [68156-enduro.json](./68156-enduro.json) |
 | Enduro Racer | 37159 | [37159-enduro-racer.json](./37159-enduro-racer.json) |
 | Enduro Racer | 6666 | [6666-enduro-racer.json](./6666-enduro-racer.json) |
 | EndZ Village | 119630 | [119630-endz-village.json](./119630-endz-village.json) |
