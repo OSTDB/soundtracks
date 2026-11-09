@@ -32,6 +32,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D-Drift | 389821 | [389821-d-drift.json](./389821-d-drift.json) |
 | D-Eve in You | 396947 | [396947-d-eve-in-you.json](./396947-d-eve-in-you.json) |
 | D-Extinction | 405809 | [405809-d-extinction.json](./405809-d-extinction.json) |
+| D-Force | 42731 | [42731-d-force.json](./42731-d-force.json) |
 | D-Hospital | 301866 | [301866-d-hospital.json](./301866-d-hospital.json) |
 | D-List Diva | 270279 | [270279-d-list-diva.json](./270279-d-list-diva.json) |
 | D-Pad Hero | 163218 | [163218-d-pad-hero.json](./163218-d-pad-hero.json) |
@@ -10347,6 +10348,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dirt Journey | 216145 | [216145-dirt-journey.json](./216145-dirt-journey.json) |
 | Dirt Journey: Nitro | 216141 | [216141-dirt-journey-nitro.json](./216141-dirt-journey-nitro.json) |
 | Dirt Moto Racing | 63840 | [63840-dirt-moto-racing.json](./63840-dirt-moto-racing.json) |
+| Dirt Racer | 42732 | [42732-dirt-racer.json](./42732-dirt-racer.json) |
 | Dirt Racing 2 Sprint Car Game | 232161 | [232161-dirt-racing-2-sprint-car-game.json](./232161-dirt-racing-2-sprint-car-game.json) |
 | Dirt Racing Bundle 4 in 1 | 381798 | [381798-dirt-racing-bundle-4-in-1.json](./381798-dirt-racing-bundle-4-in-1.json) |
 | Dirt Racing Bundle Off Road & Truck | 409667 | [409667-dirt-racing-bundle-off-road-and-truck.json](./409667-dirt-racing-bundle-off-road-and-truck.json) |
@@ -10699,6 +10701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disgaea 3: Absence of Detention | 18370 | [18370-disgaea-3-absence-of-detention.json](./18370-disgaea-3-absence-of-detention.json) |
 | Disgaea 4 Complete+ | 119506 | [119506-disgaea-4-complete.json](./119506-disgaea-4-complete.json) |
 | Disgaea 4 Complete+: A Promise of Sardines Edition | 205262 | [205262-disgaea-4-complete-a-promise-of-sardines-edition.json](./205262-disgaea-4-complete-a-promise-of-sardines-edition.json) |
+| Disgaea 4: A Promise Revisited | 42697 | [42697-disgaea-4-a-promise-revisited.json](./42697-disgaea-4-a-promise-revisited.json) |
 | Disgaea 4: A Promise Unforgotten | 7298 | [7298-disgaea-4-a-promise-unforgotten.json](./7298-disgaea-4-a-promise-unforgotten.json) |
 | Disgaea 5 Complete | 26768 | [26768-disgaea-5-complete.json](./26768-disgaea-5-complete.json) |
 | Disgaea 5: Alliance of Vengeance | 11594 | [11594-disgaea-5-alliance-of-vengeance.json](./11594-disgaea-5-alliance-of-vengeance.json) |
@@ -11659,8 +11662,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DJLand | 371909 | [371909-djland.json](./371909-djland.json) |
 | DJMax Online | 94922 | [94922-djmax-online.json](./94922-djmax-online.json) |
 | DJMax Portable | 25913 | [25913-djmax-portable.json](./25913-djmax-portable.json) |
+| DJMax Portable 2 | 42724 | [42724-djmax-portable-2.json](./42724-djmax-portable-2.json) |
 | DJMax Portable 3 | 44491 | [44491-djmax-portable-3.json](./44491-djmax-portable-3.json) |
 | DJMax Portable Black Square | 345290 | [345290-djmax-portable-black-square.json](./345290-djmax-portable-black-square.json) |
+| DJMax Portable Black Square | 42745 | [42745-djmax-portable-black-square.json](./42745-djmax-portable-black-square.json) |
+| DJMax Portable Hot Tunes | 42742 | [42742-djmax-portable-hot-tunes.json](./42742-djmax-portable-hot-tunes.json) |
 | DJMax Portable: Clazziquai Edition | 79327 | [79327-djmax-portable-clazziquai-edition.json](./79327-djmax-portable-clazziquai-edition.json) |
 | DJMax Ray | 64493 | [64493-djmax-ray.json](./64493-djmax-ray.json) |
 | DJMax Respect | 28192 | [28192-djmax-respect.json](./28192-djmax-respect.json) |
@@ -18012,6 +18018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dstroy | 19223 | [19223-dstroy.json](./19223-dstroy.json) |
 | Dsync | 103361 | [103361-dsync.json](./103361-dsync.json) |
 | DT Bloodmasters | 299563 | [299563-dt-bloodmasters.json](./299563-dt-bloodmasters.json) |
+| DT Carnage | 42750 | [42750-dt-carnage.json](./42750-dt-carnage.json) |
 | DT Racer | 44709 | [44709-dt-racer.json](./44709-dt-racer.json) |
 | DT Racer Refueled | 68306 | [68306-dt-racer-refueled.json](./68306-dt-racer-refueled.json) |
 | DT: Lords of Genomes | 65523 | [65523-dt-lords-of-genomes.json](./65523-dt-lords-of-genomes.json) |
