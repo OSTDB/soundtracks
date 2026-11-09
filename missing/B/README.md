@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1206,6 +1207,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakemono | 128018 | [128018-bakemono.json](./128018-bakemono.json) |
 | Bakemono Heights | 334874 | [334874-bakemono-heights.json](./334874-bakemono-heights.json) |
 | Bakemonogatari Portable | 42800 | [42800-bakemonogatari-portable.json](./42800-bakemonogatari-portable.json) |
+| Baken Hisshou Gaku: Gate In | 48730 | [48730-baken-hisshou-gaku-gate-in.json](./48730-baken-hisshou-gaku-gate-in.json) |
 | Baken-ou TV '94 | 123670 | [123670-baken-ou-tv-94.json](./123670-baken-ou-tv-94.json) |
 | Bakenou V3 | 123669 | [123669-bakenou-v3.json](./123669-bakenou-v3.json) |
 | Baker Business 2 | 99346 | [99346-baker-business-2.json](./99346-baker-business-2.json) |
@@ -1309,8 +1311,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakushou Mondai no Totsugeki Star Pirates: Dai-4-kai | 179959 | [179959-bakushou-mondai-no-totsugeki-star-pirates-dai-4-kai.json](./179959-bakushou-mondai-no-totsugeki-star-pirates-dai-4-kai.json) |
 | Bakushou Yoshimoto ShinkiGeki | 37579 | [37579-bakushou-yoshimoto-shinkigeki.json](./37579-bakushou-yoshimoto-shinkigeki.json) |
 | Bakushou! Star Monomane Shiten-ou | 71119 | [71119-bakushou-star-monomane-shiten-ou.json](./71119-bakushou-star-monomane-shiten-ou.json) |
+| Bakushou!! Ai no Gekijou | 48728 | [48728-bakushou-ai-no-gekijou.json](./48728-bakushou-ai-no-gekijou.json) |
 | Bakushou!! All Yoshimoto Quiz Ou Ketteisen DX | 45422 | [45422-bakushou-all-yoshimoto-quiz-ou-ketteisen-dx.json](./45422-bakushou-all-yoshimoto-quiz-ou-ketteisen-dx.json) |
 | Bakushou!! All Yoshimoto Quiz-Ou Ketteisen | 245247 | [245247-bakushou-all-yoshimoto-quiz-ou-ketteisen.json](./245247-bakushou-all-yoshimoto-quiz-ou-ketteisen.json) |
+| Bakushou!! Jinsei Gekijoh | 48362 | [48362-bakushou-jinsei-gekijoh.json](./48362-bakushou-jinsei-gekijoh.json) |
+| Bakushou!! Jinsei Gekijoh 2 | 48727 | [48727-bakushou-jinsei-gekijoh-2.json](./48727-bakushou-jinsei-gekijoh-2.json) |
+| Bakushou!! Jinsei Gekijoh 3 | 48726 | [48726-bakushou-jinsei-gekijoh-3.json](./48726-bakushou-jinsei-gekijoh-3.json) |
 | Bakushou!! Jinsei Kaidoh: Nova Usagi ga Miteru zo!! | 269387 | [269387-bakushou-jinsei-kaidoh-nova-usagi-ga-miteru-zo.json](./269387-bakushou-jinsei-kaidoh-nova-usagi-ga-miteru-zo.json) |
 | Bakusou Dekotora Densetsu 2: Otoko Jinsei Yume Ichiro | 60416 | [60416-bakusou-dekotora-densetsu-2-otoko-jinsei-yume-ichiro.json](./60416-bakusou-dekotora-densetsu-2-otoko-jinsei-yume-ichiro.json) |
 | Bakusou Dekotora Densetsu Black | 60413 | [60413-bakusou-dekotora-densetsu-black.json](./60413-bakusou-dekotora-densetsu-black.json) |
@@ -1762,6 +1768,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Fight | 2735 | [2735-balloon-fight.json](./2735-balloon-fight.json) |
 | Balloon Fight GB | 50061 | [50061-balloon-fight-gb.json](./50061-balloon-fight-gb.json) |
 | Balloon Fight-e | 170004 | [170004-balloon-fight-e.json](./170004-balloon-fight-e.json) |
+| Balloon Fight: Iwata Edition | 48364 | [48364-balloon-fight-iwata-edition.json](./48364-balloon-fight-iwata-edition.json) |
 | Balloon Fighter | 122196 | [122196-balloon-fighter.json](./122196-balloon-fighter.json) |
 | Balloon Flight | 149974 | [149974-balloon-flight.json](./149974-balloon-flight.json) |
 | Balloon Friends | 333515 | [333515-balloon-friends.json](./333515-balloon-friends.json) |
@@ -2669,6 +2676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barcode Knight | 173808 | [173808-barcode-knight.json](./173808-barcode-knight.json) |
 | Barcode Taisen Bardigun | 92607 | [92607-barcode-taisen-bardigun.json](./92607-barcode-taisen-bardigun.json) |
 | Barcode warriors | 140557 | [140557-barcode-warriors.json](./140557-barcode-warriors.json) |
+| Barcode World | 48725 | [48725-barcode-world.json](./48725-barcode-world.json) |
 | Barcode World Senyou Card: Barrier Rod | 329746 | [329746-barcode-world-senyou-card-barrier-rod.json](./329746-barcode-world-senyou-card-barrier-rod.json) |
 | Barcode World Senyou Card: Candy | 329758 | [329758-barcode-world-senyou-card-candy.json](./329758-barcode-world-senyou-card-candy.json) |
 | Barcode World Senyou Card: Carry (Dead Zone) | 329737 | [329737-barcode-world-senyou-card-carry-dead-zone.json](./329737-barcode-world-senyou-card-carry-dead-zone.json) |
@@ -6949,6 +6957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Best Hits Fun Collection 10 in 1 Bundle | 417287 | [417287-best-hits-fun-collection-10-in-1-bundle.json](./417287-best-hits-fun-collection-10-in-1-bundle.json) |
 | Best in Show Solitaire | 31652 | [31652-best-in-show-solitaire.json](./31652-best-in-show-solitaire.json) |
 | Best in the West | 127023 | [127023-best-in-the-west.json](./127023-best-in-the-west.json) |
+| Best Keiba Derby Stallion | 48724 | [48724-best-keiba-derby-stallion.json](./48724-best-keiba-derby-stallion.json) |
 | Best Life Simulator | 110562 | [110562-best-life-simulator.json](./110562-best-life-simulator.json) |
 | Best Mall Simulator | 217147 | [217147-best-mall-simulator.json](./217147-best-mall-simulator.json) |
 | Best Mayor | 329070 | [329070-best-mayor.json](./329070-best-mayor.json) |
@@ -11396,6 +11405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blood of Calamity | 319375 | [319375-blood-of-calamity.json](./319375-blood-of-calamity.json) |
 | Blood of Darkness | 153434 | [153434-blood-of-darkness.json](./153434-blood-of-darkness.json) |
 | Blood of Heroes | 146880 | [146880-blood-of-heroes.json](./146880-blood-of-heroes.json) |
+| Blood of Jurassic | 48366 | [48366-blood-of-jurassic.json](./48366-blood-of-jurassic.json) |
 | Blood of Magic | 33941 | [33941-blood-of-magic.json](./33941-blood-of-magic.json) |
 | Blood of Old | 28759 | [28759-blood-of-old.json](./28759-blood-of-old.json) |
 | Blood of Old: The Rise To Greatness | 307570 | [307570-blood-of-old-the-rise-to-greatness.json](./307570-blood-of-old-the-rise-to-greatness.json) |
@@ -18779,6 +18789,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Business trip | 359881 | [359881-business-trip.json](./359881-business-trip.json) |
 | Business Tycoon | 12409 | [12409-business-tycoon.json](./12409-business-tycoon.json) |
 | Business Tycoon Billionaire | 103823 | [103823-business-tycoon-billionaire.json](./103823-business-tycoon-billionaire.json) |
+| Business Wars | 48723 | [48723-business-wars.json](./48723-business-wars.json) |
 | Business Wars: The Card Game | 133113 | [133113-business-wars-the-card-game.json](./133113-business-wars-the-card-game.json) |
 | BusinessMan | 52066 | [52066-businessman.json](./52066-businessman.json) |
 | Businessman Simulator | 402891 | [402891-businessman-simulator.json](./402891-businessman-simulator.json) |
