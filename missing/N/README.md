@@ -7405,6 +7405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nova Jumper | 414388 | [414388-nova-jumper.json](./414388-nova-jumper.json) |
 | Nova Lands | 137931 | [137931-nova-lands.json](./137931-nova-lands.json) |
 | Nova Lands: Emilia's Mission | 216972 | [216972-nova-lands-emilias-mission.json](./216972-nova-lands-emilias-mission.json) |
+| Nova Nukers! | 14728 | [14728-nova-nukers.json](./14728-nova-nukers.json) |
 | Nova Odessa | 157355 | [157355-nova-odessa.json](./157355-nova-odessa.json) |
 | Nova Odessa: The Demon Trainer | 202672 | [202672-nova-odessa-the-demon-trainer.json](./202672-nova-odessa-the-demon-trainer.json) |
 | Nova Odessa: The Strange Tower | 170659 | [170659-nova-odessa-the-strange-tower.json](./170659-nova-odessa-the-strange-tower.json) |
