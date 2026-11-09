@@ -1665,6 +1665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sands of Slumber: The RPG | 225864 | [225864-sands-of-slumber-the-rpg.json](./225864-sands-of-slumber-the-rpg.json) |
 | Sands of Sodis | 231380 | [231380-sands-of-sodis.json](./231380-sands-of-sodis.json) |
 | Sands of Solaris | 255490 | [255490-sands-of-solaris.json](./255490-sands-of-solaris.json) |
+| Sands of Space | 77525 | [77525-sands-of-space.json](./77525-sands-of-space.json) |
 | Sands of the Coliseum | 95941 | [95941-sands-of-the-coliseum.json](./95941-sands-of-the-coliseum.json) |
 | SandShifter | 181463 | [181463-sandshifter.json](./181463-sandshifter.json) |
 | Sandship | 130502 | [130502-sandship.json](./130502-sandship.json) |
@@ -8660,6 +8661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shin Shogi Club | 42313 | [42313-shin-shogi-club.json](./42313-shin-shogi-club.json) |
 | Shin Super Robot Taisen | 43908 | [43908-shin-super-robot-taisen.json](./43908-shin-super-robot-taisen.json) |
 | Shin Taketori Monogatari | 77132 | [77132-shin-taketori-monogatari.json](./77132-shin-taketori-monogatari.json) |
+| Shin Tamatori Monogatari | 77517 | [77517-shin-tamatori-monogatari.json](./77517-shin-tamatori-monogatari.json) |
 | Shin Tennis no Ouji-sama: Let's Go!! Daily Life from RisingBeat | 222249 | [222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json](./222249-shin-tennis-no-ouji-sama-lets-go-daily-life-from-risingbeat.json) |
 | Shin Tennis no Ouji-sama: RisingBeat | 77812 | [77812-shin-tennis-no-ouji-sama-risingbeat.json](./77812-shin-tennis-no-ouji-sama-risingbeat.json) |
 | Shin Togenkyo | 38252 | [38252-shin-togenkyo.json](./38252-shin-togenkyo.json) |
@@ -9075,6 +9077,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shiro to Kuro no Alice | 70889 | [70889-shiro-to-kuro-no-alice.json](./70889-shiro-to-kuro-no-alice.json) |
 | Shiro to Kuro no Alice for Nintendo Switch | 200458 | [200458-shiro-to-kuro-no-alice-for-nintendo-switch.json](./200458-shiro-to-kuro-no-alice-for-nintendo-switch.json) |
 | Shiro to Kuro no Alice: Twilight Line | 136471 | [136471-shiro-to-kuro-no-alice-twilight-line.json](./136471-shiro-to-kuro-no-alice-twilight-line.json) |
+| Shiro to Kuro no Densetsu: Asuka-Hen | 77542 | [77542-shiro-to-kuro-no-densetsu-asuka-hen.json](./77542-shiro-to-kuro-no-densetsu-asuka-hen.json) |
+| Shiro to Kuro no Densetsu: Hyakki-Hen | 77546 | [77546-shiro-to-kuro-no-densetsu-hyakki-hen.json](./77546-shiro-to-kuro-no-densetsu-hyakki-hen.json) |
+| Shiro to Kuro no Densetsu: Rinne Tensei-Hen | 77543 | [77543-shiro-to-kuro-no-densetsu-rinne-tensei-hen.json](./77543-shiro-to-kuro-no-densetsu-rinne-tensei-hen.json) |
 | Shiro: Midori | 208578 | [208578-shiro-midori.json](./208578-shiro-midori.json) |
 | Shirobara Gakuen Satsujin Jiken | 281251 | [281251-shirobara-gakuen-satsujin-jiken.json](./281251-shirobara-gakuen-satsujin-jiken.json) |
 | Shirobara Renzoku Satsujin Jiken | 353184 | [353184-shirobara-renzoku-satsujin-jiken.json](./353184-shirobara-renzoku-satsujin-jiken.json) |
@@ -13103,6 +13108,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sky: Children of the Light - Season of Gratitude | 388290 | [388290-sky-children-of-the-light-season-of-gratitude.json](./388290-sky-children-of-the-light-season-of-gratitude.json) |
 | Sky: Children of the Light - Season of Lightseekers | 388381 | [388381-sky-children-of-the-light-season-of-lightseekers.json](./388381-sky-children-of-the-light-season-of-lightseekers.json) |
 | Sky: Children of the Light - Season of Rhythm | 388395 | [388395-sky-children-of-the-light-season-of-rhythm.json](./388395-sky-children-of-the-light-season-of-rhythm.json) |
+| SkyArena.io | 77531 | [77531-skyarena-io.json](./77531-skyarena-io.json) |
 | Skybase | 294267 | [294267-skybase.json](./294267-skybase.json) |
 | Skybase: Space Station Simulator | 208952 | [208952-skybase-space-station-simulator.json](./208952-skybase-space-station-simulator.json) |
 | Skybinder | 169648 | [169648-skybinder.json](./169648-skybinder.json) |
@@ -17429,6 +17435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Something Left | 369224 | [369224-something-left.json](./369224-something-left.json) |
 | Something Meaningful | 381613 | [381613-something-meaningful.json](./381613-something-meaningful.json) |
 | Something Nefarious Below | 231451 | [231451-something-nefarious-below.json](./231451-something-nefarious-below.json) |
+| Something Something Soup Something | 77540 | [77540-something-something-soup-something.json](./77540-something-something-soup-something.json) |
 | Something Something Spaceship | 285847 | [285847-something-something-spaceship.json](./285847-something-something-spaceship.json) |
 | Something Special: Zoe's American Adventure | 208871 | [208871-something-special-zoes-american-adventure.json](./208871-something-special-zoes-american-adventure.json) |
 | Something Strange | 202493 | [202493-something-strange.json](./202493-something-strange.json) |
@@ -26767,6 +26774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steambot Chronicles | 19619 | [19619-steambot-chronicles.json](./19619-steambot-chronicles.json) |
 | Steambot Chronicles: Battle Tournament | 42891 | [42891-steambot-chronicles-battle-tournament.json](./42891-steambot-chronicles-battle-tournament.json) |
 | Steambots | 296655 | [296655-steambots.json](./296655-steambots.json) |
+| Steamboy | 77551 | [77551-steamboy.json](./77551-steamboy.json) |
 | Steamburg | 74585 | [74585-steamburg.json](./74585-steamburg.json) |
 | SteamCity Chronicles: Rise of the Rose | 123959 | [123959-steamcity-chronicles-rise-of-the-rose.json](./123959-steamcity-chronicles-rise-of-the-rose.json) |
 | Steamcore | 213821 | [213821-steamcore.json](./213821-steamcore.json) |
@@ -30933,6 +30941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sumo Tatami | 274893 | [274893-sumo-tatami.json](./274893-sumo-tatami.json) |
 | Sumoman | 28026 | [28026-sumoman.json](./28026-sumoman.json) |
 | Sumomo Theatre | 254872 | [254872-sumomo-theatre.json](./254872-sumomo-theatre.json) |
+| Sumomomo Momomo ~Shijou Saikyou no Yome~ Keishou Shimasho!? Koi no Hanamuko Soudatsusen!! | 77556 | [77556-sumomomo-momomo-shijou-saikyou-no-yome-keishou-shimasho-koi-no-hanamuko-soudatsusen.json](./77556-sumomomo-momomo-shijou-saikyou-no-yome-keishou-shimasho-koi-no-hanamuko-soudatsusen.json) |
 | Sumorbit | 246695 | [246695-sumorbit.json](./246695-sumorbit.json) |
 | SumoRoll | 410044 | [410044-sumoroll.json](./410044-sumoroll.json) |
 | Sumotori Dreams Classic | 150838 | [150838-sumotori-dreams-classic.json](./150838-sumotori-dreams-classic.json) |
