@@ -1742,6 +1742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gandhi III | 323801 | [323801-gandhi-iii.json](./323801-gandhi-iii.json) |
 | Gang Beasts Rick And Morty 2 | 95892 | [95892-gang-beasts-rick-and-morty-2.json](./95892-gang-beasts-rick-and-morty-2.json) |
 | Gang Blast | 283265 | [283265-gang-blast.json](./283265-gang-blast.json) |
+| Gang Busters | 39735 | [39735-gang-busters.json](./39735-gang-busters.json) |
 | Gang District | 126776 | [126776-gang-district.json](./126776-gang-district.json) |
 | Gang Garrison 2 | 51308 | [51308-gang-garrison-2.json](./51308-gang-garrison-2.json) |
 | Gang Human Wrestling | 193816 | [193816-gang-human-wrestling.json](./193816-gang-human-wrestling.json) |
@@ -4303,6 +4304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghouls Underground | 126800 | [126800-ghouls-underground.json](./126800-ghouls-underground.json) |
 | Ghouls vs Humans: Classic Reborn | 361501 | [361501-ghouls-vs-humans-classic-reborn.json](./361501-ghouls-vs-humans-classic-reborn.json) |
 | GhoulScrapers | 316008 | [316008-ghoulscrapers.json](./316008-ghoulscrapers.json) |
+| Ghox | 39733 | [39733-ghox.json](./39733-ghox.json) |
 | Ghrian | 26526 | [26526-ghrian.json](./26526-ghrian.json) |
 | Ghunter | 322112 | [322112-ghunter.json](./322112-ghunter.json) |
 | Ghurka | 295672 | [295672-ghurka.json](./295672-ghurka.json) |
@@ -4500,6 +4502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gimel Dimension | 108674 | [108674-gimel-dimension.json](./108674-gimel-dimension.json) |
 | Gimlé Trials | 335231 | [335231-gimle-trials.json](./335231-gimle-trials.json) |
 | Gimle: The Broken Prophecy | 180020 | [180020-gimle-the-broken-prophecy.json](./180020-gimle-the-broken-prophecy.json) |
+| Gimme a Break | 39732 | [39732-gimme-a-break.json](./39732-gimme-a-break.json) |
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen | 267651 | [267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json](./267651-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen.json) |
 | Gimme a Break: Shijou Saikyou no Quiz-ou Ketteisen 2 | 267652 | [267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json](./267652-gimme-a-break-shijou-saikyou-no-quiz-ou-ketteisen-2.json) |
 | Gimme Five | 56468 | [56468-gimme-five.json](./56468-gimme-five.json) |
@@ -5847,6 +5850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go! Go! Shurihito | 181341 | [181341-go-go-shurihito.json](./181341-go-go-shurihito.json) |
 | Go! Go! Tank | 48997 | [48997-go-go-tank.json](./48997-go-go-tank.json) |
 | Go! Princess PreCure: Sugar Oukoku to 6-nin no Princess! | 222540 | [222540-go-princess-precure-sugar-oukoku-to-6-nin-no-princess.json](./222540-go-princess-precure-sugar-oukoku-to-6-nin-no-princess.json) |
+| Go! Puzzle | 39753 | [39753-go-puzzle.json](./39753-go-puzzle.json) |
 | Go! Save The Queen! | 289864 | [289864-go-save-the-queen.json](./289864-go-save-the-queen.json) |
 | Go! Sports Ski | 72936 | [72936-go-sports-ski.json](./72936-go-sports-ski.json) |
 | Go! Sports Skydiving | 21815 | [21815-go-sports-skydiving.json](./21815-go-sports-skydiving.json) |
@@ -9575,6 +9579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gridheart | 198047 | [198047-gridheart.json](./198047-gridheart.json) |
 | Gridiron | 85968 | [85968-gridiron.json](./85968-gridiron.json) |
 | Gridiron Champions | 130407 | [130407-gridiron-champions.json](./130407-gridiron-champions.json) |
+| Gridiron Fight | 39731 | [39731-gridiron-fight.json](./39731-gridiron-fight.json) |
 | Gridiron Football League | 416118 | [416118-gridiron-football-league.json](./416118-gridiron-football-league.json) |
 | Gridiron Masters '98 | 401535 | [401535-gridiron-masters-98.json](./401535-gridiron-masters-98.json) |
 | Gridiron Solitaire | 16885 | [16885-gridiron-solitaire.json](./16885-gridiron-solitaire.json) |
@@ -11527,6 +11532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunroar | 91936 | [91936-gunroar.json](./91936-gunroar.json) |
 | Gunrox | 270772 | [270772-gunrox.json](./270772-gunrox.json) |
 | GunRun | 266604 | [266604-gunrun.json](./266604-gunrun.json) |
+| Gunrunner | 39741 | [39741-gunrunner.json](./39741-gunrunner.json) |
 | GunRunner | 186481 | [186481-gunrunner.json](./186481-gunrunner.json) |
 | Guns 'n Goblins | 399259 | [399259-guns-n-goblins.json](./399259-guns-n-goblins.json) |
 | Guns 'n Guts | 110973 | [110973-guns-n-guts.json](./110973-guns-n-guts.json) |
