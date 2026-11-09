@@ -8023,6 +8023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exogate Initiative | 161695 | [161695-exogate-initiative.json](./161695-exogate-initiative.json) |
 | Exogear | 415210 | [415210-exogear.json](./415210-exogear.json) |
 | Exogen VR Experience | 117049 | [117049-exogen-vr-experience.json](./117049-exogen-vr-experience.json) |
+| Exogenesis: Perils of Rebirth | 54582 | [54582-exogenesis-perils-of-rebirth.json](./54582-exogenesis-perils-of-rebirth.json) |
 | Exogenesis: The Erebus Cycle | 390518 | [390518-exogenesis-the-erebus-cycle.json](./390518-exogenesis-the-erebus-cycle.json) |
 | Exographer | 295106 | [295106-exographer.json](./295106-exographer.json) |
 | ExoHarvest | 320077 | [320077-exoharvest.json](./320077-exoharvest.json) |
