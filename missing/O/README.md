@@ -3550,6 +3550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Blackout | 341514 | [341514-operation-blackout.json](./341514-operation-blackout.json) |
 | Operation Blindside: Annihilation | 343440 | [343440-operation-blindside-annihilation.json](./343440-operation-blindside-annihilation.json) |
 | Operation Blitzkrieg | 273201 | [273201-operation-blitzkrieg.json](./273201-operation-blitzkrieg.json) |
+| Operation Blockade | 70495 | [70495-operation-blockade.json](./70495-operation-blockade.json) |
 | Operation Blood | 137566 | [137566-operation-blood.json](./137566-operation-blood.json) |
 | Operation Body Count | 8690 | [8690-operation-body-count.json](./8690-operation-body-count.json) |
 | Operation Bodycam | 316848 | [316848-operation-bodycam.json](./316848-operation-bodycam.json) |
@@ -3588,6 +3589,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Operation Flashpoint: Cold War Crisis | 288 | [288-operation-flashpoint-cold-war-crisis.json](./288-operation-flashpoint-cold-war-crisis.json) |
 | Operation Flashpoint: Dragon Rising | 451 | [451-operation-flashpoint-dragon-rising.json](./451-operation-flashpoint-dragon-rising.json) |
 | Operation Flashpoint: Game of the Year Edition | 162619 | [162619-operation-flashpoint-game-of-the-year-edition.json](./162619-operation-flashpoint-game-of-the-year-edition.json) |
+| Operation Flashpoint: Gold Upgrade | 70498 | [70498-operation-flashpoint-gold-upgrade.json](./70498-operation-flashpoint-gold-upgrade.json) |
 | Operation Flashpoint: Red Hammer | 449 | [449-operation-flashpoint-red-hammer.json](./449-operation-flashpoint-red-hammer.json) |
 | Operation Flashpoint: Red River | 450 | [450-operation-flashpoint-red-river.json](./450-operation-flashpoint-red-river.json) |
 | Operation Flashpoint: Resistance | 448 | [448-operation-flashpoint-resistance.json](./448-operation-flashpoint-resistance.json) |
