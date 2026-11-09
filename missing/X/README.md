@@ -639,6 +639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenochamber | 110976 | [110976-xenochamber.json](./110976-xenochamber.json) |
 | Xenocide | 176612 | [176612-xenocide.json](./176612-xenocide.json) |
 | Xenocide | 2393 | [2393-xenocide.json](./2393-xenocide.json) |
+| Xenocider | 57313 | [57313-xenocider.json](./57313-xenocider.json) |
 | Xenociders | 126240 | [126240-xenociders.json](./126240-xenociders.json) |
 | Xenocite Clad | 64694 | [64694-xenocite-clad.json](./64694-xenocite-clad.json) |
 | Xenocrystal TD | 312525 | [312525-xenocrystal-td.json](./312525-xenocrystal-td.json) |
@@ -653,6 +654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xenoids | 191203 | [191203-xenoids.json](./191203-xenoids.json) |
 | Xenomare | 168624 | [168624-xenomare.json](./168624-xenomare.json) |
 | Xenomarine | 74260 | [74260-xenomarine.json](./74260-xenomarine.json) |
+| Xenomia | 57308 | [57308-xenomia.json](./57308-xenomia.json) |
 | XenoMiner | 62728 | [62728-xenominer.json](./62728-xenominer.json) |
 | Xenomire | 411532 | [411532-xenomire.json](./411532-xenomire.json) |
 | XenoMoon | 216359 | [216359-xenomoon.json](./216359-xenomoon.json) |
