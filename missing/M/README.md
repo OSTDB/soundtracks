@@ -4307,6 +4307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Tennis | 344924 | [344924-mario-tennis.json](./344924-mario-tennis.json) |
 | Mario Tennis Aces | 81145 | [81145-mario-tennis-aces.json](./81145-mario-tennis-aces.json) |
 | Mario Tennis Fever | 366880 | [366880-mario-tennis-fever.json](./366880-mario-tennis-fever.json) |
+| Mario Tennis Open | 5712 | [5712-mario-tennis-open.json](./5712-mario-tennis-open.json) |
 | Mario Tennis: Alex | 247100 | [247100-mario-tennis-alex.json](./247100-mario-tennis-alex.json) |
 | Mario Tennis: Bowser | 247107 | [247107-mario-tennis-bowser.json](./247107-mario-tennis-bowser.json) |
 | Mario Tennis: Harry | 247103 | [247103-mario-tennis-harry.json](./247103-mario-tennis-harry.json) |
@@ -11888,6 +11889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might & Magic Heroes VII: Deluxe Edition | 53355 | [53355-might-and-magic-heroes-vii-deluxe-edition.json](./53355-might-and-magic-heroes-vii-deluxe-edition.json) |
 | Might & Magic Heroes VII: Ultimate Edition | 219753 | [219753-might-and-magic-heroes-vii-ultimate-edition.json](./219753-might-and-magic-heroes-vii-ultimate-edition.json) |
 | Might & Magic Heroes: Era of Chaos | 125744 | [125744-might-and-magic-heroes-era-of-chaos.json](./125744-might-and-magic-heroes-era-of-chaos.json) |
+| Might & Magic X: Legacy | 5641 | [5641-might-and-magic-x-legacy.json](./5641-might-and-magic-x-legacy.json) |
 | Might & Magic X: Legacy - Deluxe Edition | 53354 | [53354-might-and-magic-x-legacy-deluxe-edition.json](./53354-might-and-magic-x-legacy-deluxe-edition.json) |
 | Might & Magic: Chess Royale | 130516 | [130516-might-and-magic-chess-royale.json](./130516-might-and-magic-chess-royale.json) |
 | Might & Magic: Clash of Heroes | 1889 | [1889-might-and-magic-clash-of-heroes.json](./1889-might-and-magic-clash-of-heroes.json) |
@@ -17055,6 +17057,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monsters, Inc. | 86185 | [86185-monsters-inc.json](./86185-monsters-inc.json) |
 | Monsters, Inc. Scare Station | 350217 | [350217-monsters-inc-scare-station.json](./350217-monsters-inc-scare-station.json) |
 | Monsters, Inc. Scream Arena | 4020 | [4020-monsters-inc-scream-arena.json](./4020-monsters-inc-scream-arena.json) |
+| Monsters, Inc. Scream Team | 6514 | [6514-monsters-inc-scream-team.json](./6514-monsters-inc-scream-team.json) |
 | Monsters, Inc.: Pinball Panic | 68735 | [68735-monsters-inc-pinball-panic.json](./68735-monsters-inc-pinball-panic.json) |
 | Monsters, Inc.: Wreck Room Arcade - Eight Ball Chaos | 69576 | [69576-monsters-inc-wreck-room-arcade-eight-ball-chaos.json](./69576-monsters-inc-wreck-room-arcade-eight-ball-chaos.json) |
 | Monsters: Survival | 114997 | [114997-monsters-survival.json](./114997-monsters-survival.json) |
