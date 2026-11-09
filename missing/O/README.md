@@ -779,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Odo Odo Oddity | 143676 | [143676-odo-odo-oddity.json](./143676-odo-odo-oddity.json) |
 | Odonata Augmenta: Rogue Dragonfly | 415314 | [415314-odonata-augmenta-rogue-dragonfly.json](./415314-odonata-augmenta-rogue-dragonfly.json) |
 | Odoru? Pokémon Ongakutai | 60055 | [60055-odoru-pokemon-ongakutai.json](./60055-odoru-pokemon-ongakutai.json) |
+| Odot Tamat On | 69955 | [69955-odot-tamat-on.json](./69955-odot-tamat-on.json) |
 | ODouzy!!! | 326176 | [326176-odouzy.json](./326176-odouzy.json) |
 | Odoya | 294958 | [294958-odoya.json](./294958-odoya.json) |
 | Odra Online | 337358 | [337358-odra-online.json](./337358-odra-online.json) |
@@ -4520,6 +4521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oscar the Ballonist & The Secrets of the Forest | 208889 | [208889-oscar-the-ballonist-and-the-secrets-of-the-forest.json](./208889-oscar-the-ballonist-and-the-secrets-of-the-forest.json) |
 | Oscar the Ballonist flies into the Mountains | 208890 | [208890-oscar-the-ballonist-flies-into-the-mountains.json](./208890-oscar-the-ballonist-flies-into-the-mountains.json) |
 | Oscar the Balloonist Discovers the Farm | 250604 | [250604-oscar-the-balloonist-discovers-the-farm.json](./250604-oscar-the-balloonist-discovers-the-farm.json) |
+| Oscar the Balloonist Dives into the Lake | 69948 | [69948-oscar-the-balloonist-dives-into-the-lake.json](./69948-oscar-the-balloonist-dives-into-the-lake.json) |
 | Oscar the Balloonist: Discovers the Farm | 208891 | [208891-oscar-the-balloonist-discovers-the-farm.json](./208891-oscar-the-balloonist-discovers-the-farm.json) |
 | Oscar the Balloonist: Drops Into the Country Side | 208888 | [208888-oscar-the-balloonist-drops-into-the-country-side.json](./208888-oscar-the-balloonist-drops-into-the-country-side.json) |
 | Oscar the Balloonist: My Creative Workshop | 208887 | [208887-oscar-the-balloonist-my-creative-workshop.json](./208887-oscar-the-balloonist-my-creative-workshop.json) |
