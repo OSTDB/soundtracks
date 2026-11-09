@@ -1318,6 +1318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Panic at Community | 168544 | [168544-panic-at-community.json](./168544-panic-at-community.json) |
 | Panic at Multiverse High! | 31660 | [31660-panic-at-multiverse-high.json](./31660-panic-at-multiverse-high.json) |
 | Panic Attack | 163845 | [163845-panic-attack.json](./163845-panic-attack.json) |
+| Panic Attack - Devil's Favorite | 66161 | [66161-panic-attack-devils-favorite.json](./66161-panic-attack-devils-favorite.json) |
 | Panic Ball! | 315841 | [315841-panic-ball.json](./315841-panic-ball.json) |
 | Panic Bomber | 198029 | [198029-panic-bomber.json](./198029-panic-bomber.json) |
 | Panic Bomber Original | 198030 | [198030-panic-bomber-original.json](./198030-panic-bomber-original.json) |
@@ -5268,6 +5269,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petz Rescue: Wildlife Vet | 47918 | [47918-petz-rescue-wildlife-vet.json](./47918-petz-rescue-wildlife-vet.json) |
 | Petz Sports | 50714 | [50714-petz-sports.json](./50714-petz-sports.json) |
 | Petz Vet | 209989 | [209989-petz-vet.json](./209989-petz-vet.json) |
+| Petz Wild Animals Tigerz | 66227 | [66227-petz-wild-animals-tigerz.json](./66227-petz-wild-animals-tigerz.json) |
 | Petz Wild Animals: Dolphinz | 47902 | [47902-petz-wild-animals-dolphinz.json](./47902-petz-wild-animals-dolphinz.json) |
 | Petz: Catz 2 | 5095 | [5095-petz-catz-2.json](./5095-petz-catz-2.json) |
 | Petz: Catz 5 | 23770 | [23770-petz-catz-5.json](./23770-petz-catz-5.json) |
@@ -18671,6 +18673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puztrix | 315769 | [315769-puztrix.json](./315769-puztrix.json) |
 | Puztrix | 318886 | [318886-puztrix.json](./318886-puztrix.json) |
 | Puzz 3D: The Orient Express | 70932 | [70932-puzz-3d-the-orient-express.json](./70932-puzz-3d-the-orient-express.json) |
+| Puzz 3D: Victorian Mansion | 65692 | [65692-puzz-3d-victorian-mansion.json](./65692-puzz-3d-victorian-mansion.json) |
 | Puzz Loop 2 | 39669 | [39669-puzz-loop-2.json](./39669-puzz-loop-2.json) |
 | Puzz LR | 150632 | [150632-puzz-lr.json](./150632-puzz-lr.json) |
 | Puzz'l | 229803 | [229803-puzzl.json](./229803-puzzl.json) |
