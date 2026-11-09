@@ -12031,6 +12031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Tsukuuru 2 Taiou: Ryouma de Yuku | 151168 | [151168-rpg-tsukuuru-2-taiou-ryouma-de-yuku.json](./151168-rpg-tsukuuru-2-taiou-ryouma-de-yuku.json) |
 | RPG Tsukuuru 95 | 63512 | [63512-rpg-tsukuuru-95.json](./63512-rpg-tsukuuru-95.json) |
 | RPG Tsukuuru Advance | 49795 | [49795-rpg-tsukuuru-advance.json](./49795-rpg-tsukuuru-advance.json) |
+| RPG Tsukuuru Dante 98 | 65619 | [65619-rpg-tsukuuru-dante-98.json](./65619-rpg-tsukuuru-dante-98.json) |
 | RPG Tsukuuru DS+ Expansion - Retro SciFi | 53538 | [53538-rpg-tsukuuru-ds-expansion-retro-scifi.json](./53538-rpg-tsukuuru-ds-expansion-retro-scifi.json) |
 | RPG Tsukuuru DS+: Create the New World | 63508 | [63508-rpg-tsukuuru-ds-create-the-new-world.json](./63508-rpg-tsukuuru-ds-create-the-new-world.json) |
 | RPG Tsukuuru: Super Dante | 63509 | [63509-rpg-tsukuuru-super-dante.json](./63509-rpg-tsukuuru-super-dante.json) |
