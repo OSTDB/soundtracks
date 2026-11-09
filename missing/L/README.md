@@ -8905,6 +8905,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Love Date | 119669 | [119669-love-date.json](./119669-love-date.json) |
 | Love Death | 259259 | [259259-love-death.json](./259259-love-death.json) |
 | Love Decision | 156775 | [156775-love-decision.json](./156775-love-decision.json) |
+| Love Delation! | 77685 | [77685-love-delation.json](./77685-love-delation.json) |
 | Love Delivery | 185632 | [185632-love-delivery.json](./185632-love-delivery.json) |
 | Love Delivery2 | 274014 | [274014-love-delivery2.json](./274014-love-delivery2.json) |
 | Love Dots | 88160 | [88160-love-dots.json](./88160-love-dots.json) |
