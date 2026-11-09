@@ -1741,6 +1741,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magika Land of Fantasy | 95621 | [95621-magika-land-of-fantasy.json](./95621-magika-land-of-fantasy.json) |
 | Magikiras | 88127 | [88127-magikiras.json](./88127-magikiras.json) |
 | Magikoopa Security Force | 322101 | [322101-magikoopa-security-force.json](./322101-magikoopa-security-force.json) |
+| Magilore | 74588 | [74588-magilore.json](./74588-magilore.json) |
 | Magimon Adventures | 243095 | [243095-magimon-adventures.json](./243095-magimon-adventures.json) |
 | Magimot | 130473 | [130473-magimot.json](./130473-magimot.json) |
 | Magin: The Rat Project Stories | 127744 | [127744-magin-the-rat-project-stories.json](./127744-magin-the-rat-project-stories.json) |
@@ -8718,6 +8719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melee Spaceship | 326297 | [326297-melee-spaceship.json](./326297-melee-spaceship.json) |
 | Melee Unlocked | 417799 | [417799-melee-unlocked.json](./417799-melee-unlocked.json) |
 | Melee: SD Remix | 136569 | [136569-melee-sd-remix.json](./136569-melee-sd-remix.json) |
+| Meleng | 74640 | [74640-meleng.json](./74640-meleng.json) |
 | Melfand Stories | 42526 | [42526-melfand-stories.json](./42526-melfand-stories.json) |
 | Meli | 381846 | [381846-meli.json](./381846-meli.json) |
 | Méli-Mélo: L'Odyssée de la Crème de Marrons | 357357 | [357357-meli-melo-lodyssee-de-la-creme-de-marrons.json](./357357-meli-melo-lodyssee-de-la-creme-de-marrons.json) |
@@ -9762,6 +9764,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meru Purana | 125421 | [125421-meru-purana.json](./125421-meru-purana.json) |
 | Merv Griffin's Crosswords | 50945 | [50945-merv-griffins-crosswords.json](./50945-merv-griffins-crosswords.json) |
 | Merv Liberation | 112495 | [112495-merv-liberation.json](./112495-merv-liberation.json) |
+| Merv Reborn | 74594 | [74594-merv-reborn.json](./74594-merv-reborn.json) |
 | Mervils: A VR Adventure | 27385 | [27385-mervils-a-vr-adventure.json](./27385-mervils-a-vr-adventure.json) |
 | Mervin and the Wicked Station | 95246 | [95246-mervin-and-the-wicked-station.json](./95246-mervin-and-the-wicked-station.json) |
 | Meryll wants a Cookie | 183273 | [183273-meryll-wants-a-cookie.json](./183273-meryll-wants-a-cookie.json) |
@@ -18781,6 +18784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moveit | 188500 | [188500-moveit.json](./188500-moveit.json) |
 | Movement Gods | 294181 | [294181-movement-gods.json](./294181-movement-gods.json) |
 | Moventure | 399368 | [399368-moventure.json](./399368-moventure.json) |
+| Mover | 74651 | [74651-mover.json](./74651-mover.json) |
 | Movers in the Warehouse | 171879 | [171879-movers-in-the-warehouse.json](./171879-movers-in-the-warehouse.json) |
 | Moves | 129081 | [129081-moves.json](./129081-moves.json) |
 | Moves Away | 303794 | [303794-moves-away.json](./303794-moves-away.json) |
@@ -19615,6 +19619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mulk & Swank: Great Adventure in Magic World | 209289 | [209289-mulk-and-swank-great-adventure-in-magic-world.json](./209289-mulk-and-swank-great-adventure-in-magic-world.json) |
 | Mullet Hell | 233596 | [233596-mullet-hell.json](./233596-mullet-hell.json) |
 | Mullet Madjack: Deluxe Edition | 318218 | [318218-mullet-madjack-deluxe-edition.json](./318218-mullet-madjack-deluxe-edition.json) |
+| Mulletman and the Molemen | 74609 | [74609-mulletman-and-the-molemen.json](./74609-mulletman-and-the-molemen.json) |
 | Mülltrennungssimulator 2021 | 167992 | [167992-mulltrennungssimulator-2021.json](./167992-mulltrennungssimulator-2021.json) |
 | Multi Cheetah Speed hero Vs Wild Animals | 95795 | [95795-multi-cheetah-speed-hero-vs-wild-animals.json](./95795-multi-cheetah-speed-hero-vs-wild-animals.json) |
 | Multi Deck Hero | 346617 | [346617-multi-deck-hero.json](./346617-multi-deck-hero.json) |
