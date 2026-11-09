@@ -1430,6 +1430,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Sam | 181204 | [181204-samurai-sam.json](./181204-samurai-sam.json) |
 | Samurai Shampoo | 153879 | [153879-samurai-shampoo.json](./153879-samurai-shampoo.json) |
 | Samurai Shaver | 177442 | [177442-samurai-shaver.json](./177442-samurai-shaver.json) |
+| Samurai Shodown | 109277 | [109277-samurai-shodown.json](./109277-samurai-shodown.json) |
 | Samurai Shodown | 191471 | [191471-samurai-shodown.json](./191471-samurai-shodown.json) |
 | Samurai Shodown | 242326 | [242326-samurai-shodown.json](./242326-samurai-shodown.json) |
 | Samurai Shodown | 422681 | [422681-samurai-shodown.json](./422681-samurai-shodown.json) |
@@ -1595,6 +1596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sanctum | 236690 | [236690-sanctum.json](./236690-sanctum.json) |
 | Sanctum | 3183 | [3183-sanctum.json](./3183-sanctum.json) |
 | Sanctum | 77136 | [77136-sanctum.json](./77136-sanctum.json) |
+| Sanctum 2 | 2108 | [2108-sanctum-2.json](./2108-sanctum-2.json) |
 | Sanctum 2: Road to Elysion | 10806 | [10806-sanctum-2-road-to-elysion.json](./10806-sanctum-2-road-to-elysion.json) |
 | Sanctum 2: Ruins of Brightholme | 10807 | [10807-sanctum-2-ruins-of-brightholme.json](./10807-sanctum-2-ruins-of-brightholme.json) |
 | Sanctum 2: The Last Stand | 10808 | [10808-sanctum-2-the-last-stand.json](./10808-sanctum-2-the-last-stand.json) |
@@ -3471,6 +3473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scott Adams' Graphic Adventure #6: Strange Odyssey | 71451 | [71451-scott-adams-graphic-adventure-6-strange-odyssey.json](./71451-scott-adams-graphic-adventure-6-strange-odyssey.json) |
 | Scott I Project | 331870 | [331870-scott-i-project.json](./331870-scott-i-project.json) |
 | Scott Pilgrim Versus | 278300 | [278300-scott-pilgrim-versus.json](./278300-scott-pilgrim-versus.json) |
+| Scott Pilgrim vs. the World: The Game - Complete Edition | 138765 | [138765-scott-pilgrim-vs-the-world-the-game-complete-edition.json](./138765-scott-pilgrim-vs-the-world-the-game-complete-edition.json) |
 | Scott Pilgrim vs. the World: The Game - Knives Chau Add-on Pack | 165490 | [165490-scott-pilgrim-vs-the-world-the-game-knives-chau-add-on-pack.json](./165490-scott-pilgrim-vs-the-world-the-game-knives-chau-add-on-pack.json) |
 | Scott Pilgrim vs. the World. The Game - Wallace Wells Pack | 165492 | [165492-scott-pilgrim-vs-the-world-the-game-wallace-wells-pack.json](./165492-scott-pilgrim-vs-the-world-the-game-wallace-wells-pack.json) |
 | Scott Whiskers in: The Search for Mr. Fumbleclaw | 244704 | [244704-scott-whiskers-in-the-search-for-mr-fumbleclaw.json](./244704-scott-whiskers-in-the-search-for-mr-fumbleclaw.json) |
@@ -4603,6 +4606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Second Saga | 392251 | [392251-second-saga.json](./392251-second-saga.json) |
 | Second Samurai | 4422 | [4422-second-samurai.json](./4422-second-samurai.json) |
 | Second Second | 110776 | [110776-second-second.json](./110776-second-second.json) |
+| Second Sight | 4101 | [4101-second-sight.json](./4101-second-sight.json) |
 | Second Sight Dilemma | 383073 | [383073-second-sight-dilemma.json](./383073-second-sight-dilemma.json) |
 | Second Soul | 202407 | [202407-second-soul.json](./202407-second-soul.json) |
 | Second Star | 133181 | [133181-second-star.json](./133181-second-star.json) |
@@ -4736,6 +4740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret of Dawnstone | 421825 | [421825-secret-of-dawnstone.json](./421825-secret-of-dawnstone.json) |
 | Secret of Dungeon | 158515 | [158515-secret-of-dungeon.json](./158515-secret-of-dungeon.json) |
 | Secret of Evangelion | 61670 | [61670-secret-of-evangelion.json](./61670-secret-of-evangelion.json) |
+| Secret of Evermore | 1359 | [1359-secret-of-evermore.json](./1359-secret-of-evermore.json) |
 | Secret of Fantasy | 374203 | [374203-secret-of-fantasy.json](./374203-secret-of-fantasy.json) |
 | Secret of Harrow Manor | 97497 | [97497-secret-of-harrow-manor.json](./97497-secret-of-harrow-manor.json) |
 | Secret of Harrow Manor 2 | 164877 | [164877-secret-of-harrow-manor-2.json](./164877-secret-of-harrow-manor-2.json) |
@@ -6914,6 +6919,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow Codex | 175153 | [175153-shadow-codex.json](./175153-shadow-codex.json) |
 | Shadow Company: Left for Dead | 22069 | [22069-shadow-company-left-for-dead.json](./22069-shadow-company-left-for-dead.json) |
 | Shadow Company: The Mercenary War | 63415 | [63415-shadow-company-the-mercenary-war.json](./63415-shadow-company-the-mercenary-war.json) |
+| Shadow Complex | 11328 | [11328-shadow-complex.json](./11328-shadow-complex.json) |
 | Shadow Complex Remastered | 19009 | [19009-shadow-complex-remastered.json](./19009-shadow-complex-remastered.json) |
 | Shadow Corps | 55003 | [55003-shadow-corps.json](./55003-shadow-corps.json) |
 | Shadow Corridor | 172854 | [172854-shadow-corridor.json](./172854-shadow-corridor.json) |
