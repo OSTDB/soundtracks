@@ -993,7 +993,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -13429,6 +13428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bonsai Blast | 65235 | [65235-bonsai-blast.json](./65235-bonsai-blast.json) |
 | Bonsai Calendar | 142859 | [142859-bonsai-calendar.json](./142859-bonsai-calendar.json) |
 | Bontãgo | 93086 | [93086-bontago.json](./93086-bontago.json) |
+| Bonus Mania Slots Vol. 3 | 24457 | [24457-bonus-mania-slots-vol-3.json](./24457-bonus-mania-slots-vol-3.json) |
 | Bonus Mania Slots Vol.5 | 25481 | [25481-bonus-mania-slots-vol-5.json](./25481-bonus-mania-slots-vol-5.json) |
 | BonVoyage! | 118785 | [118785-bonvoyage.json](./118785-bonvoyage.json) |
 | Bonx | 92059 | [92059-bonx.json](./92059-bonx.json) |
@@ -13760,6 +13760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Booster Pack Heroes | 400386 | [400386-booster-pack-heroes.json](./400386-booster-pack-heroes.json) |
 | Booster Racers | 303105 | [303105-booster-racers.json](./303105-booster-racers.json) |
 | Booster Trooper | 14948 | [14948-booster-trooper.json](./14948-booster-trooper.json) |
+| Boosty Bot | 24473 | [24473-boosty-bot.json](./24473-boosty-bot.json) |
 | Boot : Game Dev Sim | 129034 | [129034-boot-game-dev-sim.json](./129034-boot-game-dev-sim.json) |
 | Boot & Shoot | 202066 | [202066-boot-and-shoot.json](./202066-boot-and-shoot.json) |
 | Boot Camp Academy | 51005 | [51005-boot-camp-academy.json](./51005-boot-camp-academy.json) |
@@ -14363,6 +14364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouncemasters! | 123683 | [123683-bouncemasters.json](./123683-bouncemasters.json) |
 | Bouncer | 100671 | [100671-bouncer.json](./100671-bouncer.json) |
 | Bouncer | 13698 | [13698-bouncer.json](./13698-bouncer.json) |
+| Bouncer | 24409 | [24409-bouncer.json](./24409-bouncer.json) |
 | Bouncer 2 | 266644 | [266644-bouncer-2.json](./266644-bouncer-2.json) |
 | Bouncer Story | 139645 | [139645-bouncer-story.json](./139645-bouncer-story.json) |
 | Bouncers | 131481 | [131481-bouncers.json](./131481-bouncers.json) |
