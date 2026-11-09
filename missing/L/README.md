@@ -3881,6 +3881,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Let's Play Curling!! | 194975 | [194975-lets-play-curling.json](./194975-lets-play-curling.json) |
 | Let's Play Duema! | 222270 | [222270-lets-play-duema.json](./222270-lets-play-duema.json) |
 | Let's Play Duema! 2022 | 222054 | [222054-lets-play-duema-2022.json](./222054-lets-play-duema-2022.json) |
+| Let's Play Fashion Designer | 70548 | [70548-lets-play-fashion-designer.json](./70548-lets-play-fashion-designer.json) |
 | Let's Play Flight Attendant | 201909 | [201909-lets-play-flight-attendant.json](./201909-lets-play-flight-attendant.json) |
 | Let's Play Garden | 50952 | [50952-lets-play-garden.json](./50952-lets-play-garden.json) |
 | Let's Play Jigsaw Puzzles | 231184 | [231184-lets-play-jigsaw-puzzles.json](./231184-lets-play-jigsaw-puzzles.json) |
