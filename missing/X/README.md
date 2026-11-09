@@ -205,6 +205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | X-Out | 12631 | [12631-x-out.json](./12631-x-out.json) |
 | X-Out: Resurfaced | 312309 | [312309-x-out-resurfaced.json](./312309-x-out-resurfaced.json) |
 | X-Pack | 261869 | [261869-x-pack.json](./261869-x-pack.json) |
+| X-Perts | 46684 | [46684-x-perts.json](./46684-x-perts.json) |
 | X-Pipes Evolution | 22028 | [22028-x-pipes-evolution.json](./22028-x-pipes-evolution.json) |
 | X-Piratez | 277100 | [277100-x-piratez.json](./277100-x-piratez.json) |
 | X-Plane 10 | 79940 | [79940-x-plane-10.json](./79940-x-plane-10.json) |
