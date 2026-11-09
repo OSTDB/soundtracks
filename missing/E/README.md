@@ -255,6 +255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Earth Defense Force | 46666 | [46666-earth-defense-force.json](./46666-earth-defense-force.json) |
 | Earth Defense Force 2 for Nintendo Switch | 222484 | [222484-earth-defense-force-2-for-nintendo-switch.json](./222484-earth-defense-force-2-for-nintendo-switch.json) |
 | Earth Defense Force 2: Invaders from Planet Space | 11001 | [11001-earth-defense-force-2-invaders-from-planet-space.json](./11001-earth-defense-force-2-invaders-from-planet-space.json) |
+| Earth Defense Force 2017 | 5583 | [5583-earth-defense-force-2017.json](./5583-earth-defense-force-2017.json) |
 | Earth Defense Force 2017 Portable | 21583 | [21583-earth-defense-force-2017-portable.json](./21583-earth-defense-force-2017-portable.json) |
 | Earth Defense Force 2025 | 5585 | [5585-earth-defense-force-2025.json](./5585-earth-defense-force-2025.json) |
 | Earth Defense Force 3 for Nintendo Switch | 172720 | [172720-earth-defense-force-3-for-nintendo-switch.json](./172720-earth-defense-force-3-for-nintendo-switch.json) |
@@ -6890,6 +6891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evan Quest 2 | 192929 | [192929-evan-quest-2.json](./192929-evan-quest-2.json) |
 | Evan, Daniel and Friends | 143852 | [143852-evan-daniel-and-friends.json](./143852-evan-daniel-and-friends.json) |
 | Evan, Daniel and Friends. Vol 2 | 238970 | [238970-evan-daniel-and-friends-vol-2.json](./238970-evan-daniel-and-friends-vol-2.json) |
+| Evan's Remains | 120407 | [120407-evans-remains.json](./120407-evans-remains.json) |
 | Evan's Remains: Deluxe Edition | 154192 | [154192-evans-remains-deluxe-edition.json](./154192-evans-remains-deluxe-edition.json) |
 | Evander Holyfield Championship Boxing | 282991 | [282991-evander-holyfield-championship-boxing.json](./282991-evander-holyfield-championship-boxing.json) |
 | Evander Holyfield's 'Real Deal' Boxing | 46545 | [46545-evander-holyfields-real-deal-boxing.json](./46545-evander-holyfields-real-deal-boxing.json) |
