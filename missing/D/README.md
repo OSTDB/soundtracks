@@ -9420,6 +9420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digging Together | 372405 | [372405-digging-together.json](./372405-digging-together.json) |
 | Digging Town | 364219 | [364219-digging-town.json](./364219-digging-town.json) |
 | Diggles: The Myth of Fenris | 9521 | [9521-diggles-the-myth-of-fenris.json](./9521-diggles-the-myth-of-fenris.json) |
+| Diggs Nightcrawler | 65071 | [65071-diggs-nightcrawler.json](./65071-diggs-nightcrawler.json) |
 | Diggy | 179271 | [179271-diggy.json](./179271-diggy.json) |
 | Diggy Diggy Dwarf | 269388 | [269388-diggy-diggy-dwarf.json](./269388-diggy-diggy-dwarf.json) |
 | Diggy: Gold Rush | 248098 | [248098-diggy-gold-rush.json](./248098-diggy-gold-rush.json) |
@@ -13875,6 +13876,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dopusk 31 | 222315 | [222315-dopusk-31.json](./222315-dopusk-31.json) |
 | Dor | 84278 | [84278-dor.json](./84278-dor.json) |
 | Dora & Kai-Lan's Pet Shelter | 97372 | [97372-dora-and-kai-lans-pet-shelter.json](./97372-dora-and-kai-lans-pet-shelter.json) |
+| Dora & Team Umizoomi's Fantastic Flight | 65058 | [65058-dora-and-team-umizoomis-fantastic-flight.json](./65058-dora-and-team-umizoomis-fantastic-flight.json) |
 | Dora and Friends | 230330 | [230330-dora-and-friends.json](./230330-dora-and-friends.json) |
 | Dora and the Three Little Pigs | 231378 | [231378-dora-and-the-three-little-pigs.json](./231378-dora-and-the-three-little-pigs.json) |
 | Dora Chie: Mini-Dora Ongakutai to 7-tsu no Chie | 142283 | [142283-dora-chie-mini-dora-ongakutai-to-7-tsu-no-chie.json](./142283-dora-chie-mini-dora-ongakutai-to-7-tsu-no-chie.json) |
@@ -16242,6 +16244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawn: Dark Flight | 15227 | [15227-drawn-dark-flight.json](./15227-drawn-dark-flight.json) |
 | Drawn: Dark Flight - Collector's Edition | 33294 | [33294-drawn-dark-flight-collectors-edition.json](./33294-drawn-dark-flight-collectors-edition.json) |
 | Drawn: The Painted Tower | 11234 | [11234-drawn-the-painted-tower.json](./11234-drawn-the-painted-tower.json) |
+| Drawn: Trail of Shadows | 65094 | [65094-drawn-trail-of-shadows.json](./65094-drawn-trail-of-shadows.json) |
 | Drawn: Trail of Shadows - Collector's Edition | 30124 | [30124-drawn-trail-of-shadows-collectors-edition.json](./30124-drawn-trail-of-shadows-collectors-edition.json) |
 | Drawngeon: Dungeons of Ink and Paper | 113810 | [113810-drawngeon-dungeons-of-ink-and-paper.json](./113810-drawngeon-dungeons-of-ink-and-paper.json) |
 | Drawquarium | 374055 | [374055-drawquarium.json](./374055-drawquarium.json) |
