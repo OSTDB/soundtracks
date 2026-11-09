@@ -435,6 +435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Walker | 12818 | [12818-walker.json](./12818-walker.json) |
 | Walker | 282747 | [282747-walker.json](./282747-walker.json) |
 | Walker | 377284 | [377284-walker.json](./377284-walker.json) |
+| Walker & Silhouette | 60106 | [60106-walker-and-silhouette.json](./60106-walker-and-silhouette.json) |
 | Walkerman | 34830 | [34830-walkerman.json](./34830-walkerman.json) |
 | Walkerman: Act 2 - Herdchaser-girl | 171389 | [171389-walkerman-act-2-herdchaser-girl.json](./171389-walkerman-act-2-herdchaser-girl.json) |
 | Walkerwall | 182620 | [182620-walkerwall.json](./182620-walkerwall.json) |
@@ -4277,6 +4278,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where in America's Past Is Carmen Sandiego? | 50495 | [50495-where-in-americas-past-is-carmen-sandiego.json](./50495-where-in-americas-past-is-carmen-sandiego.json) |
 | Where in Europe is Carmen Sandiego? | 12824 | [12824-where-in-europe-is-carmen-sandiego.json](./12824-where-in-europe-is-carmen-sandiego.json) |
 | Where in Hell is Carmen Santiago? | 341700 | [341700-where-in-hell-is-carmen-santiago.json](./341700-where-in-hell-is-carmen-santiago.json) |
+| Where in North Dakota is Carmen Sandiego? | 59552 | [59552-where-in-north-dakota-is-carmen-sandiego.json](./59552-where-in-north-dakota-is-carmen-sandiego.json) |
 | Where in Space Is Carmen Sandiego? | 50496 | [50496-where-in-space-is-carmen-sandiego.json](./50496-where-in-space-is-carmen-sandiego.json) |
 | Where in Space is Carmen Sandiego?: Deluxe Edition | 73309 | [73309-where-in-space-is-carmen-sandiego-deluxe-edition.json](./73309-where-in-space-is-carmen-sandiego-deluxe-edition.json) |
 | Where in the U.S.A. is Carmen Sandiego? | 12823 | [12823-where-in-the-u-s-a-is-carmen-sandiego.json](./12823-where-in-the-u-s-a-is-carmen-sandiego.json) |
@@ -8741,6 +8743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Stadium EX | 98203 | [98203-world-stadium-ex.json](./98203-world-stadium-ex.json) |
 | World Strategy War | 388261 | [388261-world-strategy-war.json](./388261-world-strategy-war.json) |
 | World Subway Simulator | 89234 | [89234-world-subway-simulator.json](./89234-world-subway-simulator.json) |
+| World Supremacy | 59563 | [59563-world-supremacy.json](./59563-world-supremacy.json) |
 | World Sweeper | 415917 | [415917-world-sweeper.json](./415917-world-sweeper.json) |
 | World Table Tennis Champs | 170409 | [170409-world-table-tennis-champs.json](./170409-world-table-tennis-champs.json) |
 | World Tennis Stars | 49349 | [49349-world-tennis-stars.json](./49349-world-tennis-stars.json) |
