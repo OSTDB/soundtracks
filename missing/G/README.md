@@ -9074,6 +9074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Invasions: The Darkages 350-1066 AD | 66718 | [66718-great-invasions-the-darkages-350-1066-ad.json](./66718-great-invasions-the-darkages-350-1066-ad.json) |
 | Great Journey | 328349 | [328349-great-journey.json](./328349-great-journey.json) |
 | Great Journey: Mr. Penguin's Letter | 63766 | [63766-great-journey-mr-penguins-letter.json](./63766-great-journey-mr-penguins-letter.json) |
+| Great Little War Game | 41485 | [41485-great-little-war-game.json](./41485-great-little-war-game.json) |
 | Great Little War Game 2 | 61321 | [61321-great-little-war-game-2.json](./61321-great-little-war-game-2.json) |
 | Great Marble Adventure | 169109 | [169109-great-marble-adventure.json](./169109-great-marble-adventure.json) |
 | Great Merchant | 57424 | [57424-great-merchant.json](./57424-great-merchant.json) |
@@ -9521,6 +9522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grid Runner | 20738 | [20738-grid-runner.json](./20738-grid-runner.json) |
 | Grid Runner | 258951 | [258951-grid-runner.json](./258951-grid-runner.json) |
 | Grid Seeker: Project Storm Hammer | 39866 | [39866-grid-seeker-project-storm-hammer.json](./39866-grid-seeker-project-storm-hammer.json) |
+| Grid Shock | 41482 | [41482-grid-shock.json](./41482-grid-shock.json) |
 | Grid Slayer | 173345 | [173345-grid-slayer.json](./173345-grid-slayer.json) |
 | Grid Start | 55992 | [55992-grid-start.json](./55992-grid-start.json) |
 | Grid Tactics: Duel | 402063 | [402063-grid-tactics-duel.json](./402063-grid-tactics-duel.json) |
