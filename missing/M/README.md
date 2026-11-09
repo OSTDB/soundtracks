@@ -1266,6 +1266,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Maze | 337598 | [337598-magic-maze.json](./337598-magic-maze.json) |
 | Magic Maze | 54173 | [54173-magic-maze.json](./54173-magic-maze.json) |
 | Magic Mechsuit Akane | 105595 | [105595-magic-mechsuit-akane.json](./105595-magic-mechsuit-akane.json) |
+| Magic Meisters | 60100 | [60100-magic-meisters.json](./60100-magic-meisters.json) |
 | Magic Memory Match Free | 232049 | [232049-magic-memory-match-free.json](./232049-magic-memory-match-free.json) |
 | Magic Mermaid | 89201 | [89201-magic-mermaid.json](./89201-magic-mermaid.json) |
 | Magic Micro Mission | 73532 | [73532-magic-micro-mission.json](./73532-magic-micro-mission.json) |
@@ -2398,6 +2399,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mais qui est le vrai Roro? | 247286 | [247286-mais-qui-est-le-vrai-roro.json](./247286-mais-qui-est-le-vrai-roro.json) |
 | Mais um Dia! | 278610 | [278610-mais-um-dia.json](./278610-mais-um-dia.json) |
 | Maison de Kyouko: Kanrinin no Himitsu | 83370 | [83370-maison-de-kyouko-kanrinin-no-himitsu.json](./83370-maison-de-kyouko-kanrinin-no-himitsu.json) |
+| Maison de Maou | 60104 | [60104-maison-de-maou.json](./60104-maison-de-maou.json) |
 | Maison Ikkoku | 41803 | [41803-maison-ikkoku.json](./41803-maison-ikkoku.json) |
 | Maison Ikkoku Final | 41802 | [41802-maison-ikkoku-final.json](./41802-maison-ikkoku-final.json) |
 | Maison Ikkoku Kanketsu Hen: Sayonara, Soshite... | 91766 | [91766-maison-ikkoku-kanketsu-hen-sayonara-soshite.json](./91766-maison-ikkoku-kanketsu-hen-sayonara-soshite.json) |
@@ -2617,6 +2619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Make It Count | 311621 | [311621-make-it-count.json](./311621-make-it-count.json) |
 | Make It Cozy! | 409546 | [409546-make-it-cozy.json](./409546-make-it-cozy.json) |
 | Make It Fly! | 224014 | [224014-make-it-fly.json](./224014-make-it-fly.json) |
+| Make It Good | 60118 | [60118-make-it-good.json](./60118-make-it-good.json) |
 | Make It In Time | 214164 | [214164-make-it-in-time.json](./214164-make-it-in-time.json) |
 | Make It Last | 134772 | [134772-make-it-last.json](./134772-make-it-last.json) |
 | Make It Last: While You Can | 175842 | [175842-make-it-last-while-you-can.json](./175842-make-it-last-while-you-can.json) |
@@ -10268,6 +10271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MetaMorphic Rippers | 223165 | [223165-metamorphic-rippers.json](./223165-metamorphic-rippers.json) |
 | Metamorphism | 259461 | [259461-metamorphism.json](./259461-metamorphism.json) |
 | Metamorphos | 147027 | [147027-metamorphos.json](./147027-metamorphos.json) |
+| Metamorphoses | 60115 | [60115-metamorphoses.json](./60115-metamorphoses.json) |
 | Metamorphosis | 131990 | [131990-metamorphosis.json](./131990-metamorphosis.json) |
 | Metamorphosis | 319216 | [319216-metamorphosis.json](./319216-metamorphosis.json) |
 | Metamorphosis | 333893 | [333893-metamorphosis.json](./333893-metamorphosis.json) |
