@@ -761,6 +761,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radirgy Noa | 254475 | [254475-radirgy-noa.json](./254475-radirgy-noa.json) |
 | Radirgy Noa Massive | 7152 | [7152-radirgy-noa-massive.json](./7152-radirgy-noa-massive.json) |
 | Radirgy Noa Wii | 254476 | [254476-radirgy-noa-wii.json](./254476-radirgy-noa-wii.json) |
+| Radirgy Precious | 43417 | [43417-radirgy-precious.json](./43417-radirgy-precious.json) |
 | Radirgy Swag | 106789 | [106789-radirgy-swag.json](./106789-radirgy-swag.json) |
 | Radish | 122180 | [122180-radish.json](./122180-radish.json) |
 | Radish Field | 277699 | [277699-radish-field.json](./277699-radish-field.json) |
@@ -4507,6 +4508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Fishing Challenge | 67964 | [67964-reel-fishing-challenge.json](./67964-reel-fishing-challenge.json) |
 | Reel Fishing Challenge II | 85573 | [85573-reel-fishing-challenge-ii.json](./85573-reel-fishing-challenge-ii.json) |
 | Reel Fishing II | 45087 | [45087-reel-fishing-ii.json](./45087-reel-fishing-ii.json) |
+| Reel Fishing III | 43390 | [43390-reel-fishing-iii.json](./43390-reel-fishing-iii.json) |
 | Reel Fishing Pocket | 274844 | [274844-reel-fishing-pocket.json](./274844-reel-fishing-pocket.json) |
 | Reel Fishing: Angler's Dream | 5121 | [5121-reel-fishing-anglers-dream.json](./5121-reel-fishing-anglers-dream.json) |
 | Reel Fishing: Days of Summer | 322079 | [322079-reel-fishing-days-of-summer.json](./322079-reel-fishing-days-of-summer.json) |
@@ -7617,6 +7619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Riding Shotgun | 157430 | [157430-riding-shotgun.json](./157430-riding-shotgun.json) |
 | Riding Shotgun | 402431 | [402431-riding-shotgun.json](./402431-riding-shotgun.json) |
 | Riding Spirits | 23761 | [23761-riding-spirits.json](./23761-riding-spirits.json) |
+| Riding Spirits II | 43371 | [43371-riding-spirits-ii.json](./43371-riding-spirits-ii.json) |
 | Riding Stables 3D | 84840 | [84840-riding-stables-3d.json](./84840-riding-stables-3d.json) |
 | Riding Star | 17047 | [17047-riding-star.json](./17047-riding-star.json) |
 | Riding Star | 71780 | [71780-riding-star.json](./71780-riding-star.json) |
