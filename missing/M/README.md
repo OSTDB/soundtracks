@@ -2891,6 +2891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mama Die and Retry | 232953 | [232953-mama-die-and-retry.json](./232953-mama-die-and-retry.json) |
 | Mama Farm | 95612 | [95612-mama-farm.json](./95612-mama-farm.json) |
 | Mama Hawk | 89024 | [89024-mama-hawk.json](./89024-mama-hawk.json) |
+| Mama Llama | 73398 | [73398-mama-llama.json](./73398-mama-llama.json) |
 | Mama ni Aitai | 138424 | [138424-mama-ni-aitai.json](./138424-mama-ni-aitai.json) |
 | Mama Possum | 83302 | [83302-mama-possum.json](./83302-mama-possum.json) |
 | Mama Reido vol. 3 Tomomi Mama Hen: Usotsuki wa Mama no Hajimari | 108961 | [108961-mama-reido-vol-3-tomomi-mama-hen-usotsuki-wa-mama-no-hajimari.json](./108961-mama-reido-vol-3-tomomi-mama-hen-usotsuki-wa-mama-no-hajimari.json) |
@@ -3030,6 +3031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Manaforge | 129730 | [129730-manaforge.json](./129730-manaforge.json) |
 | Manaftory | 369157 | [369157-manaftory.json](./369157-manaftory.json) |
 | Managate | 392150 | [392150-managate.json](./392150-managate.json) |
+| Manage that Waste | 73416 | [73416-manage-that-waste.json](./73416-manage-that-waste.json) |
 | Manage the Stars: Sports Agent | 251737 | [251737-manage-the-stars-sports-agent.json](./251737-manage-the-stars-sports-agent.json) |
 | Management in Space | 400849 | [400849-management-in-space.json](./400849-management-in-space.json) |
 | Management Wanted | 364652 | [364652-management-wanted.json](./364652-management-wanted.json) |
@@ -3495,6 +3497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marble Champions | 276739 | [276739-marble-champions.json](./276739-marble-champions.json) |
 | Marble Clash: Crazy Fun Shooter | 216096 | [216096-marble-clash-crazy-fun-shooter.json](./216096-marble-clash-crazy-fun-shooter.json) |
 | Marble Computing | 190399 | [190399-marble-computing.json](./190399-marble-computing.json) |
+| Marble Cooking | 73385 | [73385-marble-cooking.json](./73385-marble-cooking.json) |
 | Marble Craft | 88667 | [88667-marble-craft.json](./88667-marble-craft.json) |
 | Marble Craze | 94485 | [94485-marble-craze.json](./94485-marble-craze.json) |
 | Marble Drop | 360629 | [360629-marble-drop.json](./360629-marble-drop.json) |
@@ -6116,6 +6119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -11479,6 +11483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight Girl | 164647 | [164647-midnight-girl.json](./164647-midnight-girl.json) |
 | Midnight Grove | 323602 | [323602-midnight-grove.json](./323602-midnight-grove.json) |
 | Midnight Grub Session | 120098 | [120098-midnight-grub-session.json](./120098-midnight-grub-session.json) |
+| Midnight GT: Primary Racer | 73414 | [73414-midnight-gt-primary-racer.json](./73414-midnight-gt-primary-racer.json) |
 | Midnight Havoc | 258966 | [258966-midnight-havoc.json](./258966-midnight-havoc.json) |
 | Midnight Heaven | 244728 | [244728-midnight-heaven.json](./244728-midnight-heaven.json) |
 | Midnight Heist | 184953 | [184953-midnight-heist.json](./184953-midnight-heist.json) |
