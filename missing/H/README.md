@@ -2284,6 +2284,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter | 248180 | [248180-harry-potter.json](./248180-harry-potter.json) |
 | Harry Potter 2: The Black Art Wtrstle Edition | 342982 | [342982-harry-potter-2-the-black-art-wtrstle-edition.json](./342982-harry-potter-2-the-black-art-wtrstle-edition.json) |
 | Harry Potter and the Chamber of Secrets | 117322 | [117322-harry-potter-and-the-chamber-of-secrets.json](./117322-harry-potter-and-the-chamber-of-secrets.json) |
+| Harry Potter and the Chamber of Secrets | 166321 | [166321-harry-potter-and-the-chamber-of-secrets.json](./166321-harry-potter-and-the-chamber-of-secrets.json) |
 | Harry Potter and the Chamber of Secrets | 166322 | [166322-harry-potter-and-the-chamber-of-secrets.json](./166322-harry-potter-and-the-chamber-of-secrets.json) |
 | Harry Potter and the Chamber of Secrets | 166325 | [166325-harry-potter-and-the-chamber-of-secrets.json](./166325-harry-potter-and-the-chamber-of-secrets.json) |
 | Harry Potter and The Chamber of Secrets | 345276 | [345276-harry-potter-and-the-chamber-of-secrets.json](./345276-harry-potter-and-the-chamber-of-secrets.json) |
@@ -2330,6 +2331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter RPG | 141244 | [141244-harry-potter-rpg.json](./141244-harry-potter-rpg.json) |
 | Harry Potter Tamagotchi | 251591 | [251591-harry-potter-tamagotchi.json](./251591-harry-potter-tamagotchi.json) |
 | Harry Potter: Electronic Quidditch Game | 198758 | [198758-harry-potter-electronic-quidditch-game.json](./198758-harry-potter-electronic-quidditch-game.json) |
+| Harry Potter: Hogwarts Mystery | 77631 | [77631-harry-potter-hogwarts-mystery.json](./77631-harry-potter-hogwarts-mystery.json) |
 | Harry Potter: LED Force Feel Game | 198759 | [198759-harry-potter-led-force-feel-game.json](./198759-harry-potter-led-force-feel-game.json) |
 | Harry Potter: Magic Awakened | 125209 | [125209-harry-potter-magic-awakened.json](./125209-harry-potter-magic-awakened.json) |
 | Harry Potter: Mastering Magic | 266200 | [266200-harry-potter-mastering-magic.json](./266200-harry-potter-mastering-magic.json) |
@@ -6406,6 +6408,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Might and Magic II: The Succession Wars | 363 | [363-heroes-of-might-and-magic-ii-the-succession-wars.json](./363-heroes-of-might-and-magic-ii-the-succession-wars.json) |
 | Heroes of Might and Magic III: Armageddon's Blade | 365 | [365-heroes-of-might-and-magic-iii-armageddons-blade.json](./365-heroes-of-might-and-magic-iii-armageddons-blade.json) |
 | Heroes of Might and Magic III: Complete | 51820 | [51820-heroes-of-might-and-magic-iii-complete.json](./51820-heroes-of-might-and-magic-iii-complete.json) |
+| Heroes of Might and Magic III: Horn of the Abyss | 14173 | [14173-heroes-of-might-and-magic-iii-horn-of-the-abyss.json](./14173-heroes-of-might-and-magic-iii-horn-of-the-abyss.json) |
 | Heroes of Might and Magic III: The Shadow of Death | 366 | [366-heroes-of-might-and-magic-iii-the-shadow-of-death.json](./366-heroes-of-might-and-magic-iii-the-shadow-of-death.json) |
 | Heroes of Might and Magic IV: The Gathering Storm | 368 | [368-heroes-of-might-and-magic-iv-the-gathering-storm.json](./368-heroes-of-might-and-magic-iv-the-gathering-storm.json) |
 | Heroes of Might and Magic IV: Winds of War | 369 | [369-heroes-of-might-and-magic-iv-winds-of-war.json](./369-heroes-of-might-and-magic-iv-winds-of-war.json) |
@@ -12487,6 +12490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter Legend: Rise of Clans | 174660 | [174660-hunter-legend-rise-of-clans.json](./174660-hunter-legend-rise-of-clans.json) |
 | Hunter Legends | 304567 | [304567-hunter-legends.json](./304567-hunter-legends.json) |
 | Hunter Legends of Dungeon | 196413 | [196413-hunter-legends-of-dungeon.json](./196413-hunter-legends-of-dungeon.json) |
+| Hunter Moonstrike | 305296 | [305296-hunter-moonstrike.json](./305296-hunter-moonstrike.json) |
 | Hunter Nightmare | 271015 | [271015-hunter-nightmare.json](./271015-hunter-nightmare.json) |
 | Hunter of antiques | 75640 | [75640-hunter-of-antiques.json](./75640-hunter-of-antiques.json) |
 | Hunter of the Disowned | 156088 | [156088-hunter-of-the-disowned.json](./156088-hunter-of-the-disowned.json) |
