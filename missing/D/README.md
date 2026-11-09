@@ -1957,6 +1957,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Sanctum | 290909 | [290909-dark-sanctum.json](./290909-dark-sanctum.json) |
 | Dark Sasi | 100583 | [100583-dark-sasi.json](./100583-dark-sasi.json) |
 | Dark Sauce | 113693 | [113693-dark-sauce.json](./113693-dark-sauce.json) |
+| Dark Savior | 46058 | [46058-dark-savior.json](./46058-dark-savior.json) |
 | Dark Scavenger | 8428 | [8428-dark-scavenger.json](./8428-dark-scavenger.json) |
 | Dark Sceptre | 12990 | [12990-dark-sceptre.json](./12990-dark-sceptre.json) |
 | Dark Scythe | 313965 | [313965-dark-scythe.json](./313965-dark-scythe.json) |
@@ -2859,6 +2860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Davigo | 121403 | [121403-davigo.json](./121403-davigo.json) |
 | Davis Cup | 172597 | [172597-davis-cup.json](./172597-davis-cup.json) |
 | Davis Cup II | 45688 | [45688-davis-cup-ii.json](./45688-davis-cup-ii.json) |
+| Davis Cup Tennis | 46066 | [46066-davis-cup-tennis.json](./46066-davis-cup-tennis.json) |
 | Davis Cup Tennis | 49175 | [49175-davis-cup-tennis.json](./49175-davis-cup-tennis.json) |
 | Davis Haunted House | 340942 | [340942-davis-haunted-house.json](./340942-davis-haunted-house.json) |
 | Davy Dreams of Flying | 128819 | [128819-davy-dreams-of-flying.json](./128819-davy-dreams-of-flying.json) |
@@ -7578,6 +7580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desinformator | 365803 | [365803-desinformator.json](./365803-desinformator.json) |
 | Desirable Deals | 279671 | [279671-desirable-deals.json](./279671-desirable-deals.json) |
 | Desirable: Dream Hotel | 171687 | [171687-desirable-dream-hotel.json](./171687-desirable-dream-hotel.json) |
+| Desire | 46053 | [46053-desire.json](./46053-desire.json) |
 | Désiré | 88080 | [88080-desire.json](./88080-desire.json) |
 | Desire & Decorum: Book 1 | 313713 | [313713-desire-and-decorum-book-1.json](./313713-desire-and-decorum-book-1.json) |
 | Desire & Decorum: Book 2 | 313714 | [313714-desire-and-decorum-book-2.json](./313714-desire-and-decorum-book-2.json) |
@@ -14785,6 +14788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Franken II | 48948 | [48948-dr-franken-ii.json](./48948-dr-franken-ii.json) |
 | Dr. Fruit | 133789 | [133789-dr-fruit.json](./133789-dr-fruit.json) |
 | Dr. Gloom’s Lab | 302082 | [302082-dr-gloom-s-lab.json](./302082-dr-gloom-s-lab.json) |
+| Dr. Hello | 45638 | [45638-dr-hello.json](./45638-dr-hello.json) |
 | Dr. Jekyll and Mr Hyde: The Strange Case | 122091 | [122091-dr-jekyll-and-mr-hyde-the-strange-case.json](./122091-dr-jekyll-and-mr-hyde-the-strange-case.json) |
 | Dr. Jekyll and Mr. Hyde | 7961 | [7961-dr-jekyll-and-mr-hyde.json](./7961-dr-jekyll-and-mr-hyde.json) |
 | Dr. Kamasutra 2 | 336027 | [336027-dr-kamasutra-2.json](./336027-dr-kamasutra-2.json) |
@@ -19990,6 +19994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyna Blaster | 39023 | [39023-dyna-blaster.json](./39023-dyna-blaster.json) |
 | Dyna Bomb | 32732 | [32732-dyna-bomb.json](./32732-dyna-bomb.json) |
 | Dyna Bomb 2 | 206423 | [206423-dyna-bomb-2.json](./206423-dyna-bomb-2.json) |
+| Dyna Brothers | 45641 | [45641-dyna-brothers.json](./45641-dyna-brothers.json) |
 | Dyna Brothers 2 | 4547 | [4547-dyna-brothers-2.json](./4547-dyna-brothers-2.json) |
 | Dyna Knight | 114682 | [114682-dyna-knight.json](./114682-dyna-knight.json) |
 | Dyna Marisa 3D | 206571 | [206571-dyna-marisa-3d.json](./206571-dyna-marisa-3d.json) |
