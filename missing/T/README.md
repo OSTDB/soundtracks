@@ -20813,6 +20813,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thomas the Tank Engine & Friends | 308706 | [308706-thomas-the-tank-engine-and-friends.json](./308706-thomas-the-tank-engine-and-friends.json) |
 | Thomas The Tank Engine & Friends | 261192 | [261192-thomas-the-tank-engine-and-friends.json](./261192-thomas-the-tank-engine-and-friends.json) |
 | Thomas the Tank Engine & Friends Pinball | 38842 | [38842-thomas-the-tank-engine-and-friends-pinball.json](./38842-thomas-the-tank-engine-and-friends-pinball.json) |
+| Thomas the Tank Engine 2 | 63423 | [63423-thomas-the-tank-engine-2.json](./63423-thomas-the-tank-engine-2.json) |
+| Thomas the Tank Engine's Fun with Words | 63424 | [63424-thomas-the-tank-engines-fun-with-words.json](./63424-thomas-the-tank-engines-fun-with-words.json) |
 | Thomas to Asonde Oboeru Kotoba to Kazu to ABC | 222516 | [222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json](./222516-thomas-to-asonde-oboeru-kotoba-to-kazu-to-abc.json) |
 | Thomas Was Alone: Benjamin's Flight | 138347 | [138347-thomas-was-alone-benjamins-flight.json](./138347-thomas-was-alone-benjamins-flight.json) |
 | Thomas' Tales | 195614 | [195614-thomas-tales.json](./195614-thomas-tales.json) |
@@ -27214,6 +27216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Touhou Bunkachou: Shoot the Bullet | 27170 | [27170-touhou-bunkachou-shoot-the-bullet.json](./27170-touhou-bunkachou-shoot-the-bullet.json) |
 | Touhou Cannonball | 111052 | [111052-touhou-cannonball.json](./111052-touhou-cannonball.json) |
 | Touhou Chaos of Black Loong | 322860 | [322860-touhou-chaos-of-black-loong.json](./322860-touhou-chaos-of-black-loong.json) |
+| Touhou Chinyuuki: Hafling Hearts!! | 63406 | [63406-touhou-chinyuuki-hafling-hearts.json](./63406-touhou-chinyuuki-hafling-hearts.json) |
 | Touhou Chireiden: Subterranean Animism | 27165 | [27165-touhou-chireiden-subterranean-animism.json](./27165-touhou-chireiden-subterranean-animism.json) |
 | Touhou Chouhatsuyou: Burgeoning Tresses of Longevity | 337504 | [337504-touhou-chouhatsuyou-burgeoning-tresses-of-longevity.json](./337504-touhou-chouhatsuyou-burgeoning-tresses-of-longevity.json) |
 | Touhou Chouseisho: Sapphire Panlogism | 181892 | [181892-touhou-chouseisho-sapphire-panlogism.json](./181892-touhou-chouseisho-sapphire-panlogism.json) |
@@ -27622,6 +27625,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tour Party: Sotsugyou Ryokou ni Ikou | 203050 | [203050-tour-party-sotsugyou-ryokou-ni-ikou.json](./203050-tour-party-sotsugyou-ryokou-ni-ikou.json) |
 | Tour: Chess Puzzles | 358009 | [358009-tour-chess-puzzles.json](./358009-tour-chess-puzzles.json) |
 | Tourabutchi | 230078 | [230078-tourabutchi.json](./230078-tourabutchi.json) |
+| Tourette's Quest | 62926 | [62926-tourettes-quest.json](./62926-tourettes-quest.json) |
 | Touring | 252895 | [252895-touring.json](./252895-touring.json) |
 | Touring Car Champions | 2405 | [2405-touring-car-champions.json](./2405-touring-car-champions.json) |
 | Touring Car Racer | 94513 | [94513-touring-car-racer.json](./94513-touring-car-racer.json) |
