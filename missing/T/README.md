@@ -2157,6 +2157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tannenberg | 36718 | [36718-tannenberg.json](./36718-tannenberg.json) |
 | Tano's Fate | 104932 | [104932-tanos-fate.json](./104932-tanos-fate.json) |
 | Tanokai Chapter 1 | 178571 | [178571-tanokai-chapter-1.json](./178571-tanokai-chapter-1.json) |
+| Tanoshii Youchien: Kotoba to Asobo! | 69397 | [69397-tanoshii-youchien-kotoba-to-asobo.json](./69397-tanoshii-youchien-kotoba-to-asobo.json) |
 | Tanoth | 52019 | [52019-tanoth.json](./52019-tanoth.json) |
 | Tanques! | 230671 | [230671-tanques.json](./230671-tanques.json) |
 | Tansaikigou: Sec Life, Monochrome Cube | 376603 | [376603-tansaikigou-sec-life-monochrome-cube.json](./376603-tansaikigou-sec-life-monochrome-cube.json) |
@@ -5232,6 +5233,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tetsuwan Atom | 186707 | [186707-tetsuwan-atom.json](./186707-tetsuwan-atom.json) |
 | Tetword | 414756 | [414756-tetword.json](./414756-tetword.json) |
 | Tetyis | 276078 | [276078-tetyis.json](./276078-tetyis.json) |
+| Teudogar and the Alliance with Rome | 69426 | [69426-teudogar-and-the-alliance-with-rome.json](./69426-teudogar-and-the-alliance-with-rome.json) |
 | Teuflisch gute Spiele | 92304 | [92304-teuflisch-gute-spiele.json](./92304-teuflisch-gute-spiele.json) |
 | Teva | 100242 | [100242-teva.json](./100242-teva.json) |
 | Tevi | 237349 | [237349-tevi.json](./237349-tevi.json) |
@@ -6465,6 +6467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Barren Kingdoms | 182096 | [182096-the-barren-kingdoms.json](./182096-the-barren-kingdoms.json) |
 | The Bart Bonte Collection | 167428 | [167428-the-bart-bonte-collection.json](./167428-the-bart-bonte-collection.json) |
 | The Bartlett Saga | 387700 | [387700-the-bartlett-saga.json](./387700-the-bartlett-saga.json) |
+| The Base | 69386 | [69386-the-base.json](./69386-the-base.json) |
 | The Baseball 2002: Battle Ball Park Sengen | 267529 | [267529-the-baseball-2002-battle-ball-park-sengen.json](./267529-the-baseball-2002-battle-ball-park-sengen.json) |
 | The Baseball 2003 | 61401 | [61401-the-baseball-2003.json](./61401-the-baseball-2003.json) |
 | The Baseball 2003: Akikigou | 78816 | [78816-the-baseball-2003-akikigou.json](./78816-the-baseball-2003-akikigou.json) |
@@ -25366,6 +25369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Fury | 339437 | [339437-tokyo-fury.json](./339437-tokyo-fury.json) |
 | Tokyo Ghoul: Break the Chains | 275897 | [275897-tokyo-ghoul-break-the-chains.json](./275897-tokyo-ghoul-break-the-chains.json) |
 | Tokyo Ghoul: Carnaval | 123630 | [123630-tokyo-ghoul-carnaval.json](./123630-tokyo-ghoul-carnaval.json) |
+| Tokyo Ghoul: Dark War | 69419 | [69419-tokyo-ghoul-dark-war.json](./69419-tokyo-ghoul-dark-war.json) |
 | Tokyo Ghoul: Jail | 13195 | [13195-tokyo-ghoul-jail.json](./13195-tokyo-ghoul-jail.json) |
 | Tokyo Ghoul: Re Birth | 56144 | [56144-tokyo-ghoul-re-birth.json](./56144-tokyo-ghoul-re-birth.json) |
 | Tokyo Ghoul:re Call to Exist | 103495 | [103495-tokyo-ghoul-re-call-to-exist.json](./103495-tokyo-ghoul-re-call-to-exist.json) |
@@ -33386,6 +33390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tump Jump | 211372 | [211372-tump-jump.json](./211372-tump-jump.json) |
 | Tums: Battle of the Burn | 61430 | [61430-tums-battle-of-the-burn.json](./61430-tums-battle-of-the-burn.json) |
 | Tun Shi Tian Di III | 330523 | [330523-tun-shi-tian-di-iii.json](./330523-tun-shi-tian-di-iii.json) |
+| Tun Town | 68866 | [68866-tun-town.json](./68866-tun-town.json) |
 | Tun Town 2 | 92327 | [92327-tun-town-2.json](./92327-tun-town-2.json) |
 | Tuna Rice | 268781 | [268781-tuna-rice.json](./268781-tuna-rice.json) |
 | Tuna Roll | 325826 | [325826-tuna-roll.json](./325826-tuna-roll.json) |
