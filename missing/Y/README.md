@@ -290,6 +290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yanone: Letter Splatter | 75781 | [75781-yanone-letter-splatter.json](./75781-yanone-letter-splatter.json) |
 | Yanpai Simulator | 113124 | [113124-yanpai-simulator.json](./113124-yanpai-simulator.json) |
 | Yanvania 2022 | 227977 | [227977-yanvania-2022.json](./227977-yanvania-2022.json) |
+| Yanya Caballista City Skater | 43379 | [43379-yanya-caballista-city-skater.json](./43379-yanya-caballista-city-skater.json) |
 | Yanyu | 158932 | [158932-yanyu.json](./158932-yanyu.json) |
 | YanYueDao Kill | 312518 | [312518-yanyuedao-kill.json](./312518-yanyuedao-kill.json) |
 | Yanzhong de Shijie: Conviction | 101252 | [101252-yanzhong-de-shijie-conviction.json](./101252-yanzhong-de-shijie-conviction.json) |
