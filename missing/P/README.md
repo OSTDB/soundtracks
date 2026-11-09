@@ -11610,6 +11610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Fushigi no Dungeon: Ikuzo! Arashi no Boukendan | 103512 | [103512-pokemon-fushigi-no-dungeon-ikuzo-arashi-no-boukendan.json](./103512-pokemon-fushigi-no-dungeon-ikuzo-arashi-no-boukendan.json) |
 | Pokémon Fushigi no Dungeon: Mezase! Hikari no Boukendan | 103513 | [103513-pokemon-fushigi-no-dungeon-mezase-hikari-no-boukendan.json](./103513-pokemon-fushigi-no-dungeon-mezase-hikari-no-boukendan.json) |
 | Pokémon Fushigi no Dungeon: Susume! Honoo no Boukendan | 103511 | [103511-pokemon-fushigi-no-dungeon-susume-honoo-no-boukendan.json](./103511-pokemon-fushigi-no-dungeon-susume-honoo-no-boukendan.json) |
+| Pokémon Fusion Generation | 18704 | [18704-pokemon-fusion-generation.json](./18704-pokemon-fusion-generation.json) |
 | Pokémon Fuso's Meteor | 359983 | [359983-pokemon-fusos-meteor.json](./359983-pokemon-fusos-meteor.json) |
 | Pokémon Ga-Olé | 131487 | [131487-pokemon-ga-ole.json](./131487-pokemon-ga-ole.json) |
 | Pokémon Gadir | 232692 | [232692-pokemon-gadir.json](./232692-pokemon-gadir.json) |
