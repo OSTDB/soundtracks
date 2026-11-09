@@ -5714,6 +5714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Air Stacky | 291589 | [291589-air-stacky.json](./291589-air-stacky.json) |
 | Air Star | 239759 | [239759-air-star.json](./239759-air-star.json) |
 | Air Strike | 170068 | [170068-air-strike.json](./170068-air-strike.json) |
+| Air Strike | 41481 | [41481-air-strike.json](./41481-air-strike.json) |
 | Air Strike HD | 88501 | [88501-air-strike-hd.json](./88501-air-strike-hd.json) |
 | Air Strike USA | 47029 | [47029-air-strike-usa.json](./47029-air-strike-usa.json) |
 | Air Strike: 3D Combat | 99315 | [99315-air-strike-3d-combat.json](./99315-air-strike-3d-combat.json) |
