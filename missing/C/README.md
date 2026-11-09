@@ -12387,6 +12387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Colony | 271063 | [271063-colony.json](./271063-colony.json) |
 | Colony | 327447 | [327447-colony.json](./327447-colony.json) |
 | Colony | 387083 | [387083-colony.json](./387083-colony.json) |
+| Colony | 39738 | [39738-colony.json](./39738-colony.json) |
 | Colony | 76645 | [76645-colony.json](./76645-colony.json) |
 | Colony 13: Into the Void | 348509 | [348509-colony-13-into-the-void.json](./348509-colony-13-into-the-void.json) |
 | Colony 28 | 388929 | [388929-colony-28.json](./388929-colony-28.json) |
@@ -21088,6 +21089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyball | 225843 | [225843-cyball.json](./225843-cyball.json) |
 | CybArena | 326244 | [326244-cybarena.json](./326244-cybarena.json) |
 | Cybarian: The Time Travelling Warrior | 107851 | [107851-cybarian-the-time-travelling-warrior.json](./107851-cybarian-the-time-travelling-warrior.json) |
+| Cybattler | 39727 | [39727-cybattler.json](./39727-cybattler.json) |
 | Cybel | 142887 | [142887-cybel.json](./142887-cybel.json) |
 | Cyber | 185031 | [185031-cyber.json](./185031-cyber.json) |
 | Cyber Agent | 132200 | [132200-cyber-agent.json](./132200-cyber-agent.json) |
