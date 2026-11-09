@@ -5951,6 +5951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire & Brimstone | 336714 | [336714-fire-and-brimstone.json](./336714-fire-and-brimstone.json) |
 | Fire & Crown: A Romantic Tale of the Hundred Years' War | 390761 | [390761-fire-and-crown-a-romantic-tale-of-the-hundred-years-war.json](./390761-fire-and-crown-a-romantic-tale-of-the-hundred-years-war.json) |
 | Fire & Fondness 2 | 176708 | [176708-fire-and-fondness-2.json](./176708-fire-and-fondness-2.json) |
+| Fire & Forget II | 39075 | [39075-fire-and-forget-ii.json](./39075-fire-and-forget-ii.json) |
 | Fire & Forget: The Final Assault | 53041 | [53041-fire-and-forget-the-final-assault.json](./53041-fire-and-forget-the-final-assault.json) |
 | Fire & Ice: The Daring Adventures of Cool Coyote | 12099 | [12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json](./12099-fire-and-ice-the-daring-adventures-of-cool-coyote.json) |
 | Fire & Light: Thrones of Tyberion | 364878 | [364878-fire-and-light-thrones-of-tyberion.json](./364878-fire-and-light-thrones-of-tyberion.json) |
@@ -12274,6 +12275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frequent Flyer: A Long Distance Love Story | 88089 | [88089-frequent-flyer-a-long-distance-love-story.json](./88089-frequent-flyer-a-long-distance-love-story.json) |
 | Frequenting Brothel | 82603 | [82603-frequenting-brothel.json](./82603-frequenting-brothel.json) |
 | Frequon Invaders | 73186 | [73186-frequon-invaders.json](./73186-frequon-invaders.json) |
+| Fres Fighter II Turbo | 39088 | [39088-fres-fighter-ii-turbo.json](./39088-fres-fighter-ii-turbo.json) |
 | Fresco | 26238 | [26238-fresco.json](./26238-fresco.json) |
 | Fresh Body | 30666 | [30666-fresh-body.json](./30666-fresh-body.json) |
 | Fresh Catch! | 346712 | [346712-fresh-catch.json](./346712-fresh-catch.json) |
@@ -12624,6 +12626,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frog Adventure | 386430 | [386430-frog-adventure.json](./386430-frog-adventure.json) |
 | Frog Adventure | 417347 | [417347-frog-adventure.json](./417347-frog-adventure.json) |
 | Frog Affirmations | 229071 | [229071-frog-affirmations.json](./229071-frog-affirmations.json) |
+| Frog Alot | 39082 | [39082-frog-alot.json](./39082-frog-alot.json) |
 | Frog And Roll | 266810 | [266810-frog-and-roll.json](./266810-frog-and-roll.json) |
 | Frog Ball Rerolled | 181072 | [181072-frog-ball-rerolled.json](./181072-frog-ball-rerolled.json) |
 | Frog Bard | 338312 | [338312-frog-bard.json](./338312-frog-bard.json) |
@@ -13421,6 +13424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fruitsies | 214307 | [214307-fruitsies.json](./214307-fruitsies.json) |
 | Fruitwolf | 183017 | [183017-fruitwolf.json](./183017-fruitwolf.json) |
 | Fruity Fauna | 374146 | [374146-fruity-fauna.json](./374146-fruity-fauna.json) |
+| Fruity Frank | 39051 | [39051-fruity-frank.json](./39051-fruity-frank.json) |
 | Fruity Freddy | 347833 | [347833-fruity-freddy.json](./347833-fruity-freddy.json) |
 | Fruity Friendz Adventurez | 340266 | [340266-fruity-friendz-adventurez.json](./340266-fruity-friendz-adventurez.json) |
 | Fruity Game | 400565 | [400565-fruity-game.json](./400565-fruity-game.json) |
