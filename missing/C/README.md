@@ -2493,6 +2493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carcassonne: The Official Board Game - Winter and Gingerbread Man | 171017 | [171017-carcassonne-the-official-board-game-winter-and-gingerbread-man.json](./171017-carcassonne-the-official-board-game-winter-and-gingerbread-man.json) |
 | Carcelera | 414708 | [414708-carcelera.json](./414708-carcelera.json) |
 | Carceri | 302562 | [302562-carceri.json](./302562-carceri.json) |
+| Carcharodon: White Sharks | 12501 | [12501-carcharodon-white-sharks.json](./12501-carcharodon-white-sharks.json) |
 | CarCollector | 76252 | [76252-carcollector.json](./76252-carcollector.json) |
 | Carcophony | 67339 | [67339-carcophony.json](./67339-carcophony.json) |
 | Carcosa | 140554 | [140554-carcosa.json](./140554-carcosa.json) |
@@ -2718,6 +2719,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cardiac Powder | 226294 | [226294-cardiac-powder.json](./226294-cardiac-powder.json) |
 | Cardiac Unrest | 157427 | [157427-cardiac-unrest.json](./157427-cardiac-unrest.json) |
 | Cardian | 302024 | [302024-cardian.json](./302024-cardian.json) |
+| Cardiaxx | 12531 | [12531-cardiaxx.json](./12531-cardiaxx.json) |
 | Cardiff_Insane Letters | 125645 | [125645-cardiff-insane-letters.json](./125645-cardiff-insane-letters.json) |
 | Cardiganical | 107777 | [107777-cardiganical.json](./107777-cardiganical.json) |
 | Cardinal Arc: Konton no Fuusatsu | 43284 | [43284-cardinal-arc-konton-no-fuusatsu.json](./43284-cardinal-arc-konton-no-fuusatsu.json) |
@@ -2987,6 +2989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carmine | 92134 | [92134-carmine.json](./92134-carmine.json) |
 | Carmine Impact | 142318 | [142318-carmine-impact.json](./142318-carmine-impact.json) |
 | Carminia | 153385 | [153385-carminia.json](./153385-carminia.json) |
+| Carnage | 12533 | [12533-carnage.json](./12533-carnage.json) |
 | Carnage | 170831 | [170831-carnage.json](./170831-carnage.json) |
 | Carnage | 271325 | [271325-carnage.json](./271325-carnage.json) |
 | Carnage | 298396 | [298396-carnage.json](./298396-carnage.json) |
@@ -3267,6 +3270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carter Story | 202637 | [202637-carter-story.json](./202637-carter-story.json) |
 | Cartesian | 29392 | [29392-cartesian.json](./29392-cartesian.json) |
 | Carth | 164061 | [164061-carth.json](./164061-carth.json) |
+| Carthage | 12534 | [12534-carthage.json](./12534-carthage.json) |
 | Carthanc | 281867 | [281867-carthanc.json](./281867-carthanc.json) |
 | Cartier 06 | 335139 | [335139-cartier-06.json](./335139-cartier-06.json) |
 | Carto | 101448 | [101448-carto.json](./101448-carto.json) |
@@ -3869,6 +3873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle War | 194102 | [194102-castle-war.json](./194102-castle-war.json) |
 | Castle War | 380055 | [380055-castle-war.json](./380055-castle-war.json) |
 | Castle War | 380056 | [380056-castle-war.json](./380056-castle-war.json) |
+| Castle Warrior | 12535 | [12535-castle-warrior.json](./12535-castle-warrior.json) |
 | Castle Warriors | 238381 | [238381-castle-warriors.json](./238381-castle-warriors.json) |
 | Castle Wars | 192097 | [192097-castle-wars.json](./192097-castle-wars.json) |
 | Castle Wars | 403388 | [403388-castle-wars.json](./403388-castle-wars.json) |
@@ -5296,6 +5301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CavEX | 293331 | [293331-cavex.json](./293331-cavex.json) |
 | Caviar | 284805 | [284805-caviar.json](./284805-caviar.json) |
 | Cavimilation | 239835 | [239835-cavimilation.json](./239835-cavimilation.json) |
+| Cavitas | 12536 | [12536-cavitas.json](./12536-cavitas.json) |
 | Cavity Busters | 118652 | [118652-cavity-busters.json](./118652-cavity-busters.json) |
 | Cavorite | 333523 | [333523-cavorite.json](./333523-cavorite.json) |
 | Cavrncrate | 318513 | [318513-cavrncrate.json](./318513-cavrncrate.json) |
@@ -5600,6 +5606,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celtic Football Coach | 138212 | [138212-celtic-football-coach.json](./138212-celtic-football-coach.json) |
 | Celtic Heroes | 62111 | [62111-celtic-heroes.json](./62111-celtic-heroes.json) |
 | Celtic Kings: Rage of War | 11271 | [11271-celtic-kings-rage-of-war.json](./11271-celtic-kings-rage-of-war.json) |
+| Celtic Legends | 12537 | [12537-celtic-legends.json](./12537-celtic-legends.json) |
 | Celtic Lore: Sidhe Hills | 52500 | [52500-celtic-lore-sidhe-hills.json](./52500-celtic-lore-sidhe-hills.json) |
 | Celtic Rumble | 177781 | [177781-celtic-rumble.json](./177781-celtic-rumble.json) |
 | Celtic Tales: Balor of the Evil Eye | 70156 | [70156-celtic-tales-balor-of-the-evil-eye.json](./70156-celtic-tales-balor-of-the-evil-eye.json) |
@@ -5968,6 +5975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenge Dream Cat | 179997 | [179997-challenge-dream-cat.json](./179997-challenge-dream-cat.json) |
 | Challenge from Kiyoshi | 141772 | [141772-challenge-from-kiyoshi.json](./141772-challenge-from-kiyoshi.json) |
 | Challenge from the Black Cat | 369290 | [369290-challenge-from-the-black-cat.json](./369290-challenge-from-the-black-cat.json) |
+| Challenge Golf | 12538 | [12538-challenge-golf.json](./12538-challenge-golf.json) |
 | Challenge Golf | 385537 | [385537-challenge-golf.json](./385537-challenge-golf.json) |
 | Challenge Love | 296608 | [296608-challenge-love.json](./296608-challenge-love.json) |
 | Challenge ME : Word Puzzles | 148769 | [148769-challenge-me-word-puzzles.json](./148769-challenge-me-word-puzzles.json) |
@@ -5985,6 +5993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Challenge Together! Elementary School Quiz | 399620 | [399620-challenge-together-elementary-school-quiz.json](./399620-challenge-together-elementary-school-quiz.json) |
 | Challenge Tour | 267727 | [267727-challenge-tour.json](./267727-challenge-tour.json) |
 | Challenge! | 68608 | [68608-challenge.json](./68608-challenge.json) |
+| Challenger | 12539 | [12539-challenger.json](./12539-challenger.json) |
 | Challenger | 136979 | [136979-challenger.json](./136979-challenger.json) |
 | Challenger | 176104 | [176104-challenger.json](./176104-challenger.json) |
 | Challenger Tank | 70869 | [70869-challenger-tank.json](./70869-challenger-tank.json) |
@@ -6065,6 +6074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion Cup Goal 2 | 242220 | [242220-champion-cup-goal-2.json](./242220-champion-cup-goal-2.json) |
 | Champion Dragon Tournament: Z Warriors | 219877 | [219877-champion-dragon-tournament-z-warriors.json](./219877-champion-dragon-tournament-z-warriors.json) |
 | Champion Dreams: First to Ride | 206908 | [206908-champion-dreams-first-to-ride.json](./206908-champion-dreams-first-to-ride.json) |
+| Champion Driver | 12540 | [12540-champion-driver.json](./12540-champion-driver.json) |
 | Champion Eleven | 102861 | [102861-champion-eleven.json](./102861-champion-eleven.json) |
 | Champion Golf | 6087 | [6087-champion-golf.json](./6087-champion-golf.json) |
 | Champion Ice Hockey | 6088 | [6088-champion-ice-hockey.json](./6088-champion-ice-hockey.json) |
@@ -10659,6 +10669,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cleromancy | 199305 | [199305-cleromancy.json](./199305-cleromancy.json) |
 | Clessidra | 152694 | [152694-clessidra.json](./152694-clessidra.json) |
 | Cleveland 1968 | 319933 | [319933-cleveland-1968.json](./319933-cleveland-1968.json) |
+| Clever & Smart | 12543 | [12543-clever-and-smart.json](./12543-clever-and-smart.json) |
 | Clever & Smart: A Movie Adventure | 98237 | [98237-clever-and-smart-a-movie-adventure.json](./98237-clever-and-smart-a-movie-adventure.json) |
 | Clever cubed | 175082 | [175082-clever-cubed.json](./175082-clever-cubed.json) |
 | Clever Dog | 346051 | [346051-clever-dog.json](./346051-clever-dog.json) |
@@ -11190,6 +11201,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cloud Jumper | 140817 | [140817-cloud-jumper.json](./140817-cloud-jumper.json) |
 | Cloud Jumpers | 182636 | [182636-cloud-jumpers.json](./182636-cloud-jumpers.json) |
 | Cloud Keeper: Shrine of Dal | 356039 | [356039-cloud-keeper-shrine-of-dal.json](./356039-cloud-keeper-shrine-of-dal.json) |
+| Cloud Kingdoms | 12545 | [12545-cloud-kingdoms.json](./12545-cloud-kingdoms.json) |
 | Cloud Knights | 83324 | [83324-cloud-knights.json](./83324-cloud-knights.json) |
 | Cloud Master | 386335 | [386335-cloud-master.json](./386335-cloud-master.json) |
 | Cloud Meadow | 137958 | [137958-cloud-meadow.json](./137958-cloud-meadow.json) |
@@ -13170,6 +13182,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat 3D | 295959 | [295959-combat-3d.json](./295959-combat-3d.json) |
 | Combat Ace | 43260 | [43260-combat-ace.json](./43260-combat-ace.json) |
 | Combat Actions: Vietnam | 108328 | [108328-combat-actions-vietnam.json](./108328-combat-actions-vietnam.json) |
+| Combat Air Patrol | 12546 | [12546-combat-air-patrol.json](./12546-combat-air-patrol.json) |
 | Combat Arms | 18940 | [18940-combat-arms.json](./18940-combat-arms.json) |
 | Combat Arms: the Classic | 135798 | [135798-combat-arms-the-classic.json](./135798-combat-arms-the-classic.json) |
 | Combat Beans: Total Mayhem | 224670 | [224670-combat-beans-total-mayhem.json](./224670-combat-beans-total-mayhem.json) |
@@ -13325,6 +13338,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combo Queen | 46500 | [46500-combo-queen.json](./46500-combo-queen.json) |
 | Combo Quest | 348748 | [348748-combo-quest.json](./348748-combo-quest.json) |
 | Combo Quest 2 | 102768 | [102768-combo-quest-2.json](./102768-combo-quest-2.json) |
+| Combo Racer | 12547 | [12547-combo-racer.json](./12547-combo-racer.json) |
 | Combo Rhythm | 385521 | [385521-combo-rhythm.json](./385521-combo-rhythm.json) |
 | Combo Vectors | 391536 | [391536-combo-vectors.json](./391536-combo-vectors.json) |
 | Combo! | 184405 | [184405-combo.json](./184405-combo.json) |
@@ -16991,6 +17005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crappy Zombie Game | 31642 | [31642-crappy-zombie-game.json](./31642-crappy-zombie-game.json) |
 | Craps | 386682 | [386682-craps.json](./386682-craps.json) |
 | Craps | 88483 | [88483-craps.json](./88483-craps.json) |
+| Craps Academy | 12549 | [12549-craps-academy.json](./12549-craps-academy.json) |
 | Craps at Aces Casino | 150260 | [150260-craps-at-aces-casino.json](./150260-craps-at-aces-casino.json) |
 | Craps HD | 89674 | [89674-craps-hd.json](./89674-craps-hd.json) |
 | Craps-Shooter | 91012 | [91012-craps-shooter.json](./91012-craps-shooter.json) |
@@ -17388,6 +17403,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Car | 94263 | [94263-crazy-car.json](./94263-crazy-car.json) |
 | Crazy Cars | 12550 | [12550-crazy-cars.json](./12550-crazy-cars.json) |
 | Crazy Cars | 240823 | [240823-crazy-cars.json](./240823-crazy-cars.json) |
+| Crazy Cars II | 12551 | [12551-crazy-cars-ii.json](./12551-crazy-cars-ii.json) |
+| Crazy Cars III | 12552 | [12552-crazy-cars-iii.json](./12552-crazy-cars-iii.json) |
 | Crazy Cars: Hit the Road | 62976 | [62976-crazy-cars-hit-the-road.json](./62976-crazy-cars-hit-the-road.json) |
 | Crazy Cart: Ultimate Drift | 120289 | [120289-crazy-cart-ultimate-drift.json](./120289-crazy-cart-ultimate-drift.json) |
 | Crazy CarToon | 55217 | [55217-crazy-cartoon.json](./55217-crazy-cartoon.json) |
@@ -17681,6 +17698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy School: Schulverweis! | 327219 | [327219-crazy-school-schulverweis.json](./327219-crazy-school-schulverweis.json) |
 | Crazy Science: Long Run | 95628 | [95628-crazy-science-long-run.json](./95628-crazy-science-long-run.json) |
 | Crazy Seahorses | 241348 | [241348-crazy-seahorses.json](./241348-crazy-seahorses.json) |
+| Crazy Seasons | 12553 | [12553-crazy-seasons.json](./12553-crazy-seasons.json) |
 | Crazy Shark | 203799 | [203799-crazy-shark.json](./203799-crazy-shark.json) |
 | Crazy Shipping | 324080 | [324080-crazy-shipping.json](./324080-crazy-shipping.json) |
 | Crazy Shoot | 237989 | [237989-crazy-shoot.json](./237989-crazy-shoot.json) |
@@ -18133,6 +18151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crime Crackers 2 | 65344 | [65344-crime-crackers-2.json](./65344-crime-crackers-2.json) |
 | Crime Detective: Red Flags | 349072 | [349072-crime-detective-red-flags.json](./349072-crime-detective-red-flags.json) |
 | Crime District | 165699 | [165699-crime-district.json](./165699-crime-district.json) |
+| Crime Does Not Pay | 12554 | [12554-crime-does-not-pay.json](./12554-crime-does-not-pay.json) |
 | Crime Fighter | 50353 | [50353-crime-fighter.json](./50353-crime-fighter.json) |
 | Crime Fighter 3 Pack | 131286 | [131286-crime-fighter-3-pack.json](./131286-crime-fighter-3-pack.json) |
 | Crime Fighters | 75525 | [75525-crime-fighters.json](./75525-crime-fighters.json) |
@@ -19159,6 +19178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crunchball 3000 | 346564 | [346564-crunchball-3000.json](./346564-crunchball-3000.json) |
 | Crunchdown | 397696 | [397696-crunchdown.json](./397696-crunchdown.json) |
 | Cruncher | 60202 | [60202-cruncher.json](./60202-cruncher.json) |
+| Cruncher Factory | 12555 | [12555-cruncher-factory.json](./12555-cruncher-factory.json) |
 | Crunchies Munchies | 336084 | [336084-crunchies-munchies.json](./336084-crunchies-munchies.json) |
 | CrunchTime | 124986 | [124986-crunchtime.json](./124986-crunchtime.json) |
 | Crunchy Lunch | 183235 | [183235-crunchy-lunch.json](./183235-crunchy-lunch.json) |
@@ -20273,6 +20293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubstacle | 189375 | [189375-cubstacle.json](./189375-cubstacle.json) |
 | CuBuGo | 175130 | [175130-cubugo.json](./175130-cubugo.json) |
 | Cubuleto | 374124 | [374124-cubuleto.json](./374124-cubuleto.json) |
+| Cubulus | 12556 | [12556-cubulus.json](./12556-cubulus.json) |
 | Cubus | 290882 | [290882-cubus.json](./290882-cubus.json) |
 | Cubway | 31800 | [31800-cubway.json](./31800-cubway.json) |
 | Cuby Bop | 39675 | [39675-cuby-bop.json](./39675-cuby-bop.json) |
@@ -20923,6 +20944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Custer's Revenge in Gensoukyou | 98448 | [98448-custers-revenge-in-gensoukyou.json](./98448-custers-revenge-in-gensoukyou.json) |
 | Custerd's Quest | 60635 | [60635-custerds-quest.json](./60635-custerds-quest.json) |
 | Custodial | 179742 | [179742-custodial.json](./179742-custodial.json) |
+| Custodian | 12557 | [12557-custodian.json](./12557-custodian.json) |
 | Custodian: Beginning of the End | 154069 | [154069-custodian-beginning-of-the-end.json](./154069-custodian-beginning-of-the-end.json) |
 | Custom Beat Battle: Draglade 2 | 66783 | [66783-custom-beat-battle-draglade-2.json](./66783-custom-beat-battle-draglade-2.json) |
 | Custom Drive | 64873 | [64873-custom-drive.json](./64873-custom-drive.json) |
@@ -21471,6 +21493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberbig | 13539 | [13539-cyberbig.json](./13539-cyberbig.json) |
 | Cyberbike | 50967 | [50967-cyberbike.json](./50967-cyberbike.json) |
 | Cyberbike 2 | 65423 | [65423-cyberbike-2.json](./65423-cyberbike-2.json) |
+| Cyberblast | 12558 | [12558-cyberblast.json](./12558-cyberblast.json) |
 | Cyberblock Metal Orange | 232631 | [232631-cyberblock-metal-orange.json](./232631-cyberblock-metal-orange.json) |
 | CyberBorn | 155260 | [155260-cyberborn.json](./155260-cyberborn.json) |
 | Cyberbots: Fullmetal Madness | 43820 | [43820-cyberbots-fullmetal-madness.json](./43820-cyberbots-fullmetal-madness.json) |
@@ -21717,6 +21740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyberworld | 318913 | [318913-cyberworld.json](./318913-cyberworld.json) |
 | Cyberworld Online | 221376 | [221376-cyberworld-online.json](./221376-cyberworld-online.json) |
 | Cyberworm | 73606 | [73606-cyberworm.json](./73606-cyberworm.json) |
+| Cyberzerk | 12559 | [12559-cyberzerk.json](./12559-cyberzerk.json) |
 | Cybex | 14022 | [14022-cybex.json](./14022-cybex.json) |
 | Cybloc | 155793 | [155793-cybloc.json](./155793-cybloc.json) |
 | Cybo War | 99898 | [99898-cybo-war.json](./99898-cybo-war.json) |
@@ -21904,6 +21928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cytokine Storm | 408088 | [408088-cytokine-storm.json](./408088-cytokine-storm.json) |
 | Cytopia | 124038 | [124038-cytopia.json](./124038-cytopia.json) |
 | Cytoplasm Madness | 180839 | [180839-cytoplasm-madness.json](./180839-cytoplasm-madness.json) |
+| Cytron | 12560 | [12560-cytron.json](./12560-cytron.json) |
 | Cytron Masters | 22489 | [22489-cytron-masters.json](./22489-cytron-masters.json) |
 | Cytus | 27026 | [27026-cytus.json](./27026-cytus.json) |
 | Cytus Alpha | 106290 | [106290-cytus-alpha.json](./106290-cytus-alpha.json) |
