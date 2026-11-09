@@ -6145,6 +6145,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winning Post 7 Maximum 2008 | 5283 | [5283-winning-post-7-maximum-2008.json](./5283-winning-post-7-maximum-2008.json) |
 | Winning Post 8 2015 | 60780 | [60780-winning-post-8-2015.json](./60780-winning-post-8-2015.json) |
 | Winning Post 8 2016 | 59618 | [59618-winning-post-8-2016.json](./59618-winning-post-8-2016.json) |
+| Winning Post 8 2017 | 54566 | [54566-winning-post-8-2017.json](./54566-winning-post-8-2017.json) |
 | Winning Post 8 2018 | 77782 | [77782-winning-post-8-2018.json](./77782-winning-post-8-2018.json) |
 | Winning Post 9 2020 | 136784 | [136784-winning-post-9-2020.json](./136784-winning-post-9-2020.json) |
 | Winning Post 9: 2021 | 141651 | [141651-winning-post-9-2021.json](./141651-winning-post-9-2021.json) |
