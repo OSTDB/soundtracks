@@ -6036,6 +6036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champions and Challengers | 174739 | [174739-champions-and-challengers.json](./174739-champions-and-challengers.json) |
 | Champions Arena | 296218 | [296218-champions-arena.json](./296218-champions-arena.json) |
 | Champions Forces | 129461 | [129461-champions-forces.json](./129461-champions-forces.json) |
+| Champions Forever Boxing | 42115 | [42115-champions-forever-boxing.json](./42115-champions-forever-boxing.json) |
 | Champions Legion | 133606 | [133606-champions-legion.json](./133606-champions-legion.json) |
 | Champions of Aerial | 75429 | [75429-champions-of-aerial.json](./75429-champions-of-aerial.json) |
 | Champions of Avan | 273843 | [273843-champions-of-avan.json](./273843-champions-of-avan.json) |
@@ -7274,6 +7275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chevy Chase | 13484 | [13484-chevy-chase.json](./13484-chevy-chase.json) |
 | Chew Chew Mimic | 281006 | [281006-chew-chew-mimic.json](./281006-chew-chew-mimic.json) |
 | Chew Your Food | 395886 | [395886-chew-your-food.json](./395886-chew-your-food.json) |
+| Chew-Man-Fu | 42114 | [42114-chew-man-fu.json](./42114-chew-man-fu.json) |
 | Chewbrick | 99147 | [99147-chewbrick.json](./99147-chewbrick.json) |
 | Chewing | 113741 | [113741-chewing.json](./113741-chewing.json) |
 | Chewing Gum Tests | 221685 | [221685-chewing-gum-tests.json](./221685-chewing-gum-tests.json) |
@@ -17116,6 +17118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crater Raider | 25356 | [25356-crater-raider.json](./25356-crater-raider.json) |
 | Crater Song | 321254 | [321254-crater-song.json](./321254-crater-song.json) |
 | Craterbound | 186123 | [186123-craterbound.json](./186123-craterbound.json) |
+| Cratermaze | 42113 | [42113-cratermaze.json](./42113-cratermaze.json) |
 | Crates 3D | 339020 | [339020-crates-3d.json](./339020-crates-3d.json) |
 | Crates n' Mohawks | 186339 | [186339-crates-n-mohawks.json](./186339-crates-n-mohawks.json) |
 | CrateTastrophe | 164271 | [164271-cratetastrophe.json](./164271-cratetastrophe.json) |
@@ -21120,6 +21123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Complex | 54813 | [54813-cyber-complex.json](./54813-cyber-complex.json) |
 | Cyber Control | 290756 | [290756-cyber-control.json](./290756-cyber-control.json) |
 | Cyber Courier 2088 | 233666 | [233666-cyber-courier-2088.json](./233666-cyber-courier-2088.json) |
+| Cyber Cross | 42083 | [42083-cyber-cross.json](./42083-cyber-cross.json) |
 | Cyber Crush 2069 | 143238 | [143238-cyber-crush-2069.json](./143238-cyber-crush-2069.json) |
 | Cyber Cult City | 154083 | [154083-cyber-cult-city.json](./154083-cyber-cult-city.json) |
 | Cyber Cycle | 130047 | [130047-cyber-cycle.json](./130047-cyber-cycle.json) |
@@ -21311,6 +21315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber-Assassin | 269272 | [269272-cyber-assassin.json](./269272-cyber-assassin.json) |
 | Cyber-Cat | 151477 | [151477-cyber-cat.json](./151477-cyber-cat.json) |
 | Cyber-Cop | 80869 | [80869-cyber-cop.json](./80869-cyber-cop.json) |
+| Cyber-Core | 42112 | [42112-cyber-core.json](./42112-cyber-core.json) |
 | Cyber-doge 2077: Meme runner | 167422 | [167422-cyber-doge-2077-meme-runner.json](./167422-cyber-doge-2077-meme-runner.json) |
 | Cyber-Wing | 130654 | [130654-cyber-wing.json](./130654-cyber-wing.json) |
 | Cyber: Mind Dive | 255482 | [255482-cyber-mind-dive.json](./255482-cyber-mind-dive.json) |
