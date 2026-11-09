@@ -9434,6 +9434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shoot. Push. Repeat. | 157081 | [157081-shoot-push-repeat.json](./157081-shoot-push-repeat.json) |
 | Shoot'n'Scroll 3D | 109875 | [109875-shootnscroll-3d.json](./109875-shootnscroll-3d.json) |
 | Shoot'n'Shell | 339306 | [339306-shootnshell.json](./339306-shootnshell.json) |
+| Shootanto: Evolutionary Mayhem | 51630 | [51630-shootanto-evolutionary-mayhem.json](./51630-shootanto-evolutionary-mayhem.json) |
 | Shootball Arena | 196641 | [196641-shootball-arena.json](./196641-shootball-arena.json) |
 | Shooter | 259900 | [259900-shooter.json](./259900-shooter.json) |
 | Shooter | 359367 | [359367-shooter.json](./359367-shooter.json) |
@@ -11177,6 +11178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sim the Sand | 265298 | [265298-sim-the-sand.json](./265298-sim-the-sand.json) |
 | Sim Theme Park | 12484 | [12484-sim-theme-park.json](./12484-sim-theme-park.json) |
 | Sim Tycoon Story | 137753 | [137753-sim-tycoon-story.json](./137753-sim-tycoon-story.json) |
+| Sim War 5 | 51629 | [51629-sim-war-5.json](./51629-sim-war-5.json) |
 | Sim: Heavyweight Boxing Champion | 397264 | [397264-sim-heavyweight-boxing-champion.json](./397264-sim-heavyweight-boxing-champion.json) |
 | SIM: Simple Idle Miner | 309462 | [309462-sim-simple-idle-miner.json](./309462-sim-simple-idle-miner.json) |
 | SimAirport | 27686 | [27686-simairport.json](./27686-simairport.json) |
@@ -11871,6 +11873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Singularity 5 | 113335 | [113335-singularity-5.json](./113335-singularity-5.json) |
 | Singularity Dungeon | 189906 | [189906-singularity-dungeon.json](./189906-singularity-dungeon.json) |
 | Singularity Idle | 184143 | [184143-singularity-idle.json](./184143-singularity-idle.json) |
+| Singularity Roller | 52082 | [52082-singularity-roller.json](./52082-singularity-roller.json) |
 | Singularity Runner | 219678 | [219678-singularity-runner.json](./219678-singularity-runner.json) |
 | Singularity Shooter | 112728 | [112728-singularity-shooter.json](./112728-singularity-shooter.json) |
 | Singularity Survivors | 298245 | [298245-singularity-survivors.json](./298245-singularity-survivors.json) |
@@ -17388,6 +17391,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sollarion | 238586 | [238586-sollarion.json](./238586-sollarion.json) |
 | Sollire | 316530 | [316530-sollire.json](./316530-sollire.json) |
 | Solm | 183079 | [183079-solm.json](./183079-solm.json) |
+| Solmec: Colony Adrift | 52079 | [52079-solmec-colony-adrift.json](./52079-solmec-colony-adrift.json) |
+| Solmec: Hollow Planet | 52070 | [52070-solmec-hollow-planet.json](./52070-solmec-hollow-planet.json) |
 | Solnest | 372591 | [372591-solnest.json](./372591-solnest.json) |
 | Solnox: Grimoire of Seasons | 302321 | [302321-solnox-grimoire-of-seasons.json](./302321-solnox-grimoire-of-seasons.json) |
 | Solo | 145987 | [145987-solo.json](./145987-solo.json) |
@@ -17708,6 +17713,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Song of Yellow River | 130952 | [130952-song-of-yellow-river.json](./130952-song-of-yellow-river.json) |
 | Song of Yosef | 292276 | [292276-song-of-yosef.json](./292276-song-of-yosef.json) |
 | Song Quiz | 406788 | [406788-song-quiz.json](./406788-song-quiz.json) |
+| Song Samurai | 52076 | [52076-song-samurai.json](./52076-song-samurai.json) |
 | Song Song | 273406 | [273406-song-song.json](./273406-song-song.json) |
 | Song Summoner: The Unsung Heroes | 23042 | [23042-song-summoner-the-unsung-heroes.json](./23042-song-summoner-the-unsung-heroes.json) |
 | Songbird | 324103 | [324103-songbird.json](./324103-songbird.json) |
@@ -22775,6 +22781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiral of War | 270785 | [270785-spiral-of-war.json](./270785-spiral-of-war.json) |
 | Spiral Roll | 273860 | [273860-spiral-roll.json](./273860-spiral-roll.json) |
 | Spiral Smash | 244871 | [244871-spiral-smash.json](./244871-spiral-smash.json) |
+| Spiral Splatter | 52083 | [52083-spiral-splatter.json](./52083-spiral-splatter.json) |
 | Spiral Storm | 130514 | [130514-spiral-storm.json](./130514-spiral-storm.json) |
 | Spiral to Despair | 154309 | [154309-spiral-to-despair.json](./154309-spiral-to-despair.json) |
 | Spiral Up | 250812 | [250812-spiral-up.json](./250812-spiral-up.json) |
@@ -27126,6 +27133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Steel Panthers: World War 2 | 14467 | [14467-steel-panthers-world-war-2.json](./14467-steel-panthers-world-war-2.json) |
 | Steel Paws | 325584 | [325584-steel-paws.json](./325584-steel-paws.json) |
 | Steel Princess | 410616 | [410616-steel-princess.json](./410616-steel-princess.json) |
+| Steel Punk Ball | 52071 | [52071-steel-punk-ball.json](./52071-steel-punk-ball.json) |
 | Steel Racer | 250952 | [250952-steel-racer.json](./250952-steel-racer.json) |
 | Steel Rain | 142711 | [142711-steel-rain.json](./142711-steel-rain.json) |
 | Steel Rain | 34833 | [34833-steel-rain.json](./34833-steel-rain.json) |
@@ -31663,6 +31671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Block Boy and Friends | 333165 | [333165-super-block-boy-and-friends.json](./333165-super-block-boy-and-friends.json) |
 | Super Block Crush | 236340 | [236340-super-block-crush.json](./236340-super-block-crush.json) |
 | Super Block Jump | 306497 | [306497-super-block-jump.json](./306497-super-block-jump.json) |
+| Super Blockbreak 3D | 52081 | [52081-super-blockbreak-3d.json](./52081-super-blockbreak-3d.json) |
 | Super Blockbuster | 296335 | [296335-super-blockbuster.json](./296335-super-blockbuster.json) |
 | Super Blockbuster | 90923 | [90923-super-blockbuster.json](./90923-super-blockbuster.json) |
 | Super Blocmania 3D + 3D Brick Blaster | 91431 | [91431-super-blocmania-3d-3d-brick-blaster.json](./91431-super-blocmania-3d-3d-brick-blaster.json) |
