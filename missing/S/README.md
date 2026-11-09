@@ -1326,6 +1326,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai | 199761 | [199761-samurai.json](./199761-samurai.json) |
 | Samurai | 377325 | [377325-samurai.json](./377325-samurai.json) |
 | Samurai | 94847 | [94847-samurai.json](./94847-samurai.json) |
+| Samurai & Dragons | 64544 | [64544-samurai-and-dragons.json](./64544-samurai-and-dragons.json) |
 | Samurai Academy: Paws of Fury | 366773 | [366773-samurai-academy-paws-of-fury.json](./366773-samurai-academy-paws-of-fury.json) |
 | Samurai Aces | 39844 | [39844-samurai-aces.json](./39844-samurai-aces.json) |
 | Samurai Aces III: Sengoku Cannon | 135721 | [135721-samurai-aces-iii-sengoku-cannon.json](./135721-samurai-aces-iii-sengoku-cannon.json) |
@@ -28449,6 +28450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strange Alchemy | 337807 | [337807-strange-alchemy.json](./337807-strange-alchemy.json) |
 | Strange and Luig | 398155 | [398155-strange-and-luig.json](./398155-strange-and-luig.json) |
 | Strange and Mysterious Domain | 308864 | [308864-strange-and-mysterious-domain.json](./308864-strange-and-mysterious-domain.json) |
+| Strange Attractors 2 | 64552 | [64552-strange-attractors-2.json](./64552-strange-attractors-2.json) |
 | Strange Bird Island | 180590 | [180590-strange-bird-island.json](./180590-strange-bird-island.json) |
 | Strange Block 36 | 345069 | [345069-strange-block-36.json](./345069-strange-block-36.json) |
 | Strange Brigade | 36832 | [36832-strange-brigade.json](./36832-strange-brigade.json) |
@@ -31669,6 +31671,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Bumble Trials | 316041 | [316041-super-bumble-trials.json](./316041-super-bumble-trials.json) |
 | Super Bunnies Show Free | 232182 | [232182-super-bunnies-show-free.json](./232182-super-bunnies-show-free.json) |
 | Super Bunny | 25670 | [25670-super-bunny.json](./25670-super-bunny.json) |
+| Super Bunny Breakout | 64539 | [64539-super-bunny-breakout.json](./64539-super-bunny-breakout.json) |
 | Super Bunny Laser Spikes | 124513 | [124513-super-bunny-laser-spikes.json](./124513-super-bunny-laser-spikes.json) |
 | Super Bunny Woman | 403663 | [403663-super-bunny-woman.json](./403663-super-bunny-woman.json) |
 | Super Burger Master | 235159 | [235159-super-burger-master.json](./235159-super-burger-master.json) |
