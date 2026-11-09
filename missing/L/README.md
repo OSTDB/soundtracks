@@ -1190,6 +1190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laserwave | 177134 | [177134-laserwave.json](./177134-laserwave.json) |
 | Laserworks | 184316 | [184316-laserworks.json](./184316-laserworks.json) |
 | LaserZone | 133356 | [133356-laserzone.json](./133356-laserzone.json) |
+| Lash: Local Asynchronous Satellite Hookup | 60109 | [60109-lash-local-asynchronous-satellite-hookup.json](./60109-lash-local-asynchronous-satellite-hookup.json) |
 | Lashek | 149157 | [149157-lashek.json](./149157-lashek.json) |
 | Lass ich Sliden | 295084 | [295084-lass-ich-sliden.json](./295084-lass-ich-sliden.json) |
 | Lassie | 43331 | [43331-lassie.json](./43331-lassie.json) |
