@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radiant Defense | 17442 | [17442-radiant-defense.json](./17442-radiant-defense.json) |
 | Radiant Devotion | 225812 | [225812-radiant-devotion.json](./225812-radiant-devotion.json) |
 | Radiant Exodus | 293741 | [293741-radiant-exodus.json](./293741-radiant-exodus.json) |
+| Radiant Flux | 64004 | [64004-radiant-flux.json](./64004-radiant-flux.json) |
 | Radiant Flux: Hyperfractal | 85361 | [85361-radiant-flux-hyperfractal.json](./85361-radiant-flux-hyperfractal.json) |
 | Radiant Flux: Hyperfractal 4.0 | 233009 | [233009-radiant-flux-hyperfractal-4-0.json](./233009-radiant-flux-hyperfractal-4-0.json) |
 | Radiant HD | 90793 | [90793-radiant-hd.json](./90793-radiant-hd.json) |
@@ -3014,6 +3015,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real Fishing VR | 115634 | [115634-real-fishing-vr.json](./115634-real-fishing-vr.json) |
 | Real Flight 9 | 138408 | [138408-real-flight-9.json](./138408-real-flight-9.json) |
 | Real Football | 174812 | [174812-real-football.json](./174812-real-football.json) |
+| Real Football 2012 | 63975 | [63975-real-football-2012.json](./63975-real-football-2012.json) |
+| Real Football 2013 | 63974 | [63974-real-football-2013.json](./63974-real-football-2013.json) |
 | Real Football 2014 | 116349 | [116349-real-football-2014.json](./116349-real-football-2014.json) |
 | Real Football 2015 | 116350 | [116350-real-football-2015.json](./116350-real-football-2015.json) |
 | Real Football 2016 | 116343 | [116343-real-football-2016.json](./116343-real-football-2016.json) |
@@ -6480,6 +6483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Return to Grace | 249477 | [249477-return-to-grace.json](./249477-return-to-grace.json) |
 | Return to Grisly Manor | 88046 | [88046-return-to-grisly-manor.json](./88046-return-to-grisly-manor.json) |
 | Return to Hadron | 142599 | [142599-return-to-hadron.json](./142599-return-to-hadron.json) |
+| Return to Haunted House | 63993 | [63993-return-to-haunted-house.json](./63993-return-to-haunted-house.json) |
 | Return to Heartbreak Land | 334430 | [334430-return-to-heartbreak-land.json](./334430-return-to-heartbreak-land.json) |
 | Return to Krondor | 8827 | [8827-return-to-krondor.json](./8827-return-to-krondor.json) |
 | Return to Kroz | 71789 | [71789-return-to-kroz.json](./71789-return-to-kroz.json) |
@@ -12036,6 +12040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | RPG Tsukuuru Dante 98 | 65619 | [65619-rpg-tsukuuru-dante-98.json](./65619-rpg-tsukuuru-dante-98.json) |
 | RPG Tsukuuru DS+ Expansion - Retro SciFi | 53538 | [53538-rpg-tsukuuru-ds-expansion-retro-scifi.json](./53538-rpg-tsukuuru-ds-expansion-retro-scifi.json) |
 | RPG Tsukuuru DS+: Create the New World | 63508 | [63508-rpg-tsukuuru-ds-create-the-new-world.json](./63508-rpg-tsukuuru-ds-create-the-new-world.json) |
+| RPG Tsukuuru GB | 63506 | [63506-rpg-tsukuuru-gb.json](./63506-rpg-tsukuuru-gb.json) |
 | RPG Tsukuuru: Super Dante | 63509 | [63509-rpg-tsukuuru-super-dante.json](./63509-rpg-tsukuuru-super-dante.json) |
 | RPG Tycoon | 17654 | [17654-rpg-tycoon.json](./17654-rpg-tycoon.json) |
 | RPG Tycoon: Deluxe Edition | 53557 | [53557-rpg-tycoon-deluxe-edition.json](./53557-rpg-tycoon-deluxe-edition.json) |
