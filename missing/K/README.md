@@ -2917,7 +2917,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -5353,6 +5352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kolobok: The Return | 169841 | [169841-kolobok-the-return.json](./169841-kolobok-the-return.json) |
 | Koloboke: Sickness Simulator | 373344 | [373344-koloboke-sickness-simulator.json](./373344-koloboke-sickness-simulator.json) |
 | Koloni | 244252 | [244252-koloni.json](./244252-koloni.json) |
+| Koloro | 29966 | [29966-koloro.json](./29966-koloro.json) |
 | Koloss | 258806 | [258806-koloss.json](./258806-koloss.json) |
 | Kolt Penny's Symmetris | 296387 | [296387-kolt-pennys-symmetris.json](./296387-kolt-pennys-symmetris.json) |
 | Koltera | 287138 | [287138-koltera.json](./287138-koltera.json) |
@@ -6319,6 +6319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Panda: Showdown of Legendary Legends - Spirit Realm | 170757 | [170757-kung-fu-panda-showdown-of-legendary-legends-spirit-realm.json](./170757-kung-fu-panda-showdown-of-legendary-legends-spirit-realm.json) |
 | Kung Fu Panda: Showdown of Legendary Legends - Warrior Po and Jombie Master Chicken | 170756 | [170756-kung-fu-panda-showdown-of-legendary-legends-warrior-po-and-jombie-master-chicken.json](./170756-kung-fu-panda-showdown-of-legendary-legends-warrior-po-and-jombie-master-chicken.json) |
 | Kung Fu Pets | 173409 | [173409-kung-fu-pets.json](./173409-kung-fu-pets.json) |
+| Kung Fu Ping Pong | 30001 | [30001-kung-fu-ping-pong.json](./30001-kung-fu-ping-pong.json) |
 | Kung Fu Rider | 16128 | [16128-kung-fu-rider.json](./16128-kung-fu-rider.json) |
 | Kung Fu Road | 62620 | [62620-kung-fu-road.json](./62620-kung-fu-road.json) |
 | Kung Fu School | 230888 | [230888-kung-fu-school.json](./230888-kung-fu-school.json) |
