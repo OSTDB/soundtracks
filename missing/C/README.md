@@ -10788,6 +10788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Climbing The Eidolon | 383513 | [383513-climbing-the-eidolon.json](./383513-climbing-the-eidolon.json) |
 | ClimbJong | 194174 | [194174-climbjong.json](./194174-climbjong.json) |
 | Climbtime | 31171 | [31171-climbtime.json](./31171-climbtime.json) |
+| Climby | 57220 | [57220-climby.json](./57220-climby.json) |
 | Clinch Legends | 369101 | [369101-clinch-legends.json](./369101-clinch-legends.json) |
 | Cling to Blindness | 367729 | [367729-cling-to-blindness.json](./367729-cling-to-blindness.json) |
 | Cling! | 21730 | [21730-cling.json](./21730-cling.json) |
@@ -11610,6 +11611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code name Hell Squad | 78403 | [78403-code-name-hell-squad.json](./78403-code-name-hell-squad.json) |
 | Code Name Teacher | 292307 | [292307-code-name-teacher.json](./292307-code-name-teacher.json) |
 | Code Name: Alteon | 334529 | [334529-code-name-alteon.json](./334529-code-name-alteon.json) |
+| Code Name: AN | 57215 | [57215-code-name-an.json](./57215-code-name-an.json) |
 | Code Name: MA | 174835 | [174835-code-name-ma.json](./174835-code-name-ma.json) |
 | Code Name: Origin | 76803 | [76803-code-name-origin.json](./76803-code-name-origin.json) |
 | Code Name: Romance | 214838 | [214838-code-name-romance.json](./214838-code-name-romance.json) |
@@ -12489,6 +12491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Color Patterns | 369688 | [369688-color-patterns.json](./369688-color-patterns.json) |
 | Color Phase | 157922 | [157922-color-phase.json](./157922-color-phase.json) |
 | Color Picker | 60903 | [60903-color-picker.json](./60903-color-picker.json) |
+| Color Pin | 56784 | [56784-color-pin.json](./56784-color-pin.json) |
 | Color Pixel Heroes | 169596 | [169596-color-pixel-heroes.json](./169596-color-pixel-heroes.json) |
 | Color Pixel Heroes: Expansion Pack 1 | 225006 | [225006-color-pixel-heroes-expansion-pack-1.json](./225006-color-pixel-heroes-expansion-pack-1.json) |
 | Color Pixel Heroes: Expansion Pack 2 | 225007 | [225007-color-pixel-heroes-expansion-pack-2.json](./225007-color-pixel-heroes-expansion-pack-2.json) |
