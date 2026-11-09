@@ -6587,6 +6587,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gold of the Realm | 12599 | [12599-gold-of-the-realm.json](./12599-gold-of-the-realm.json) |
 | Gold Picker | 292627 | [292627-gold-picker.json](./292627-gold-picker.json) |
 | Gold Runner | 146816 | [146816-gold-runner.json](./146816-gold-runner.json) |
+| Gold Runner 2000 | 73380 | [73380-gold-runner-2000.json](./73380-gold-runner-2000.json) |
 | Gold Rush | 172467 | [172467-gold-rush.json](./172467-gold-rush.json) |
 | Gold Rush | 244761 | [244761-gold-rush.json](./244761-gold-rush.json) |
 | Gold Rush | 256108 | [256108-gold-rush.json](./256108-gold-rush.json) |
@@ -9931,6 +9932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grokit: Winter Blast | 279394 | [279394-grokit-winter-blast.json](./279394-grokit-winter-blast.json) |
 | Grom: Terror in Tibet | 73767 | [73767-grom-terror-in-tibet.json](./73767-grom-terror-in-tibet.json) |
 | Gromada | 69934 | [69934-gromada.json](./69934-gromada.json) |
+| Gromada Revenge | 73413 | [73413-gromada-revenge.json](./73413-gromada-revenge.json) |
 | Grombcross | 288692 | [288692-grombcross.json](./288692-grombcross.json) |
 | Grombiez save souls | 236074 | [236074-grombiez-save-souls.json](./236074-grombiez-save-souls.json) |
 | Grommet Chod | 410325 | [410325-grommet-chod.json](./410325-grommet-chod.json) |
