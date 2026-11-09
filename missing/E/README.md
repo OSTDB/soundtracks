@@ -2246,6 +2246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electrobasis | 290618 | [290618-electrobasis.json](./290618-electrobasis.json) |
 | Electrobillion | 337141 | [337141-electrobillion.json](./337141-electrobillion.json) |
 | Electrocardioground FX | 298951 | [298951-electrocardioground-fx.json](./298951-electrocardioground-fx.json) |
+| Electrocop | 40832 | [40832-electrocop.json](./40832-electrocop.json) |
 | Electrodash | 159725 | [159725-electrodash.json](./159725-electrodash.json) |
 | Electrogical | 262107 | [262107-electrogical.json](./262107-electrogical.json) |
 | Electrokinetic | 228286 | [228286-electrokinetic.json](./228286-electrokinetic.json) |
@@ -6775,6 +6776,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | European Quest | 294216 | [294216-european-quest.json](./294216-european-quest.json) |
 | European Racers | 69528 | [69528-european-racers.json](./69528-european-racers.json) |
 | European Ship Simulator | 10288 | [10288-european-ship-simulator.json](./10288-european-ship-simulator.json) |
+| European Soccer Challenge | 40840 | [40840-european-soccer-challenge.json](./40840-european-soccer-challenge.json) |
 | European Soccer Cup 2016 Slot | 232535 | [232535-european-soccer-cup-2016-slot.json](./232535-european-soccer-cup-2016-slot.json) |
 | European Super League | 334686 | [334686-european-super-league.json](./334686-european-super-league.json) |
 | European Superleague | 13059 | [13059-european-superleague.json](./13059-european-superleague.json) |
