@@ -12205,6 +12205,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blupi Explorer | 133563 | [133563-blupi-explorer.json](./133563-blupi-explorer.json) |
 | Blupi's Travels | 133558 | [133558-blupis-travels.json](./133558-blupis-travels.json) |
 | Blupimania | 137920 | [137920-blupimania.json](./137920-blupimania.json) |
+| Bluppo | 65626 | [65626-bluppo.json](./65626-bluppo.json) |
 | Blur | 3235 | [3235-blur.json](./3235-blur.json) |
 | Blur Overdrive | 322545 | [322545-blur-overdrive.json](./322545-blur-overdrive.json) |
 | Blur time | 60790 | [60790-blur-time.json](./60790-blur-time.json) |
@@ -12672,6 +12673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku mo Sekai wo Sukuitai: Battle Tournament | 344322 | [344322-boku-mo-sekai-wo-sukuitai-battle-tournament.json](./344322-boku-mo-sekai-wo-sukuitai-battle-tournament.json) |
 | Boku ni Todoita Kimi no Koe | 98049 | [98049-boku-ni-todoita-kimi-no-koe.json](./98049-boku-ni-todoita-kimi-no-koe.json) |
 | Boku no Bottakuri Bar 3: Sekai shinshutsu-hen | 208733 | [208733-boku-no-bottakuri-bar-3-sekai-shinshutsu-hen.json](./208733-boku-no-bottakuri-bar-3-sekai-shinshutsu-hen.json) |
+| Boku no Camp-jou | 65647 | [65647-boku-no-camp-jou.json](./65647-boku-no-camp-jou.json) |
 | Boku no Choro-Q | 59440 | [59440-boku-no-choro-q.json](./59440-boku-no-choro-q.json) |
 | Boku no Enikki | 148242 | [148242-boku-no-enikki.json](./148242-boku-no-enikki.json) |
 | Boku no Fiancée | 385773 | [385773-boku-no-fiancee.json](./385773-boku-no-fiancee.json) |
@@ -14094,6 +14096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouken-Ou Beet: Busters Road | 49524 | [49524-bouken-ou-beet-busters-road.json](./49524-bouken-ou-beet-busters-road.json) |
 | Bouken-Ou Beet: Darkness Century | 269385 | [269385-bouken-ou-beet-darkness-century.json](./269385-bouken-ou-beet-darkness-century.json) |
 | Bouken-Ou Beet: Vandel vs. Busters | 269670 | [269670-bouken-ou-beet-vandel-vs-busters.json](./269670-bouken-ou-beet-vandel-vs-busters.json) |
+| Bouken! Dondoko Shima | 65645 | [65645-bouken-dondoko-shima.json](./65645-bouken-dondoko-shima.json) |
 | Boukoku no Aegis 2035: Warship Gunner | 269386 | [269386-boukoku-no-aegis-2035-warship-gunner.json](./269386-boukoku-no-aegis-2035-warship-gunner.json) |
 | Boukyaku no Edicius | 367544 | [367544-boukyaku-no-edicius.json](./367544-boukyaku-no-edicius.json) |
 | Boukyaku no Senritsu | 49523 | [49523-boukyaku-no-senritsu.json](./49523-boukyaku-no-senritsu.json) |
@@ -15249,6 +15252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brave Rabbit's Adventure in the Underworld | 184404 | [184404-brave-rabbits-adventure-in-the-underworld.json](./184404-brave-rabbits-adventure-in-the-underworld.json) |
 | Brave Rounds | 390759 | [390759-brave-rounds.json](./390759-brave-rounds.json) |
 | Brave Roy | 98738 | [98738-brave-roy.json](./98738-brave-roy.json) |
+| Brave Saga Shinshou Astaria | 65643 | [65643-brave-saga-shinshou-astaria.json](./65643-brave-saga-shinshou-astaria.json) |
 | Brave Saga: Artifact Reborn | 376410 | [376410-brave-saga-artifact-reborn.json](./376410-brave-saga-artifact-reborn.json) |
 | Brave Shot 2 | 286666 | [286666-brave-shot-2.json](./286666-brave-shot-2.json) |
 | Brave Soldier: Invasion of Cyborgs | 227856 | [227856-brave-soldier-invasion-of-cyborgs.json](./227856-brave-soldier-invasion-of-cyborgs.json) |
@@ -18224,6 +18228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Break | 206310 | [206310-burger-break.json](./206310-burger-break.json) |
 | Burger Break: Head to Head | 199163 | [199163-burger-break-head-to-head.json](./199163-burger-break-head-to-head.json) |
 | Burger Burger | 92545 | [92545-burger-burger.json](./92545-burger-burger.json) |
+| Burger Burger Pocket: Hamburger Simulation | 65644 | [65644-burger-burger-pocket-hamburger-simulation.json](./65644-burger-burger-pocket-hamburger-simulation.json) |
 | Burger Butt | 216703 | [216703-burger-butt.json](./216703-burger-butt.json) |
 | Burger Cats | 58574 | [58574-burger-cats.json](./58574-burger-cats.json) |
 | Burger Chase | 13826 | [13826-burger-chase.json](./13826-burger-chase.json) |
@@ -18263,6 +18268,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burger Master | 147581 | [147581-burger-master.json](./147581-burger-master.json) |
 | Burger Memory Game | 240919 | [240919-burger-memory-game.json](./240919-burger-memory-game.json) |
 | Burger Night | 158708 | [158708-burger-night.json](./158708-burger-night.json) |
+| Burger Paradise International | 65642 | [65642-burger-paradise-international.json](./65642-burger-paradise-international.json) |
 | Burger Patrol | 189928 | [189928-burger-patrol.json](./189928-burger-patrol.json) |
 | Burger Please! | 245208 | [245208-burger-please.json](./245208-burger-please.json) |
 | Burger Race | 327840 | [327840-burger-race.json](./327840-burger-race.json) |
