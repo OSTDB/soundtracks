@@ -3648,6 +3648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AdVenture Autist | 109124 | [109124-adventure-autist.json](./109124-adventure-autist.json) |
 | Adventure Awaits | 226100 | [226100-adventure-awaits.json](./226100-adventure-awaits.json) |
 | Adventure Ball 3D Balancer | 249451 | [249451-adventure-ball-3d-balancer.json](./249451-adventure-ball-3d-balancer.json) |
+| Adventure Bar Labyrinth | 60096 | [60096-adventure-bar-labyrinth.json](./60096-adventure-bar-labyrinth.json) |
 | Adventure Bar Story | 279048 | [279048-adventure-bar-story.json](./279048-adventure-bar-story.json) |
 | Adventure Beyond Time | 88979 | [88979-adventure-beyond-time.json](./88979-adventure-beyond-time.json) |
 | Adventure Bit | 159576 | [159576-adventure-bit.json](./159576-adventure-bit.json) |
@@ -6451,6 +6452,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ALC no 10-punkan Eigo Master: Shokyuu | 269547 | [269547-alc-no-10-punkan-eigo-master-shokyuu.json](./269547-alc-no-10-punkan-eigo-master-shokyuu.json) |
 | Alcahest | 3651 | [3651-alcahest.json](./3651-alcahest.json) |
 | Alcantor | 14162 | [14162-alcantor.json](./14162-alcantor.json) |
+| Alcarys Complex | 60101 | [60101-alcarys-complex.json](./60101-alcarys-complex.json) |
 | Alcatmist | 369291 | [369291-alcatmist.json](./369291-alcatmist.json) |
 | Alcatraz | 11892 | [11892-alcatraz.json](./11892-alcatraz.json) |
 | Alcatraz | 223928 | [223928-alcatraz.json](./223928-alcatraz.json) |
@@ -7690,6 +7692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All the Wiser | 274011 | [274011-all-the-wiser.json](./274011-all-the-wiser.json) |
 | All the Words She Wrote | 195564 | [195564-all-the-words-she-wrote.json](./195564-all-the-words-she-wrote.json) |
 | All the World's Cravings | 404001 | [404001-all-the-worlds-cravings.json](./404001-all-the-worlds-cravings.json) |
+| All Things Devours | 60107 | [60107-all-things-devours.json](./60107-all-things-devours.json) |
 | All Things Equal I Would Prefer It If We Were Safe & Lonely Instead of Together & Afraid But I Cannot Deny That It Is Hard; or: A Solitary Spacecraft. | 133997 | [133997-all-things-equal-i-would-prefer-it-if-we-were-safe-and-lonely-instead-of-together-and-afraid-but-i-cannot-deny-that-it-is-hard-or-a-solitary-spacecraft.json](./133997-all-things-equal-i-would-prefer-it-if-we-were-safe-and-lonely-instead-of-together-and-afraid-but-i-cannot-deny-that-it-is-hard-or-a-solitary-spacecraft.json) |
 | All to Race | 192705 | [192705-all-to-race.json](./192705-all-to-race.json) |
 | All Under Control | 335069 | [335069-all-under-control.json](./335069-all-under-control.json) |
