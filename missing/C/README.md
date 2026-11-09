@@ -682,8 +682,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Advanced Warfare - Nanotech Personalization Pack | 26060 | [26060-call-of-duty-advanced-warfare-nanotech-personalization-pack.json](./26060-call-of-duty-advanced-warfare-nanotech-personalization-pack.json) |
 | Call of Duty: Advanced Warfare - Netherlands Exoskeleton Pack | 26061 | [26061-call-of-duty-advanced-warfare-netherlands-exoskeleton-pack.json](./26061-call-of-duty-advanced-warfare-netherlands-exoskeleton-pack.json) |
 | Call of Duty: Advanced Warfare - Panda Exoskeleton Pack | 26062 | [26062-call-of-duty-advanced-warfare-panda-exoskeleton-pack.json](./26062-call-of-duty-advanced-warfare-panda-exoskeleton-pack.json) |
+| Call of Duty: Advanced Warfare - Reckoning | 20892 | [20892-call-of-duty-advanced-warfare-reckoning.json](./20892-call-of-duty-advanced-warfare-reckoning.json) |
 | Call of Duty: Advanced Warfare - Spain Exoskeleton Pack | 26063 | [26063-call-of-duty-advanced-warfare-spain-exoskeleton-pack.json](./26063-call-of-duty-advanced-warfare-spain-exoskeleton-pack.json) |
 | Call of Duty: Advanced Warfare - Steampunk Exoskeleton Pack | 26064 | [26064-call-of-duty-advanced-warfare-steampunk-exoskeleton-pack.json](./26064-call-of-duty-advanced-warfare-steampunk-exoskeleton-pack.json) |
+| Call of Duty: Advanced Warfare - Supremacy | 20891 | [20891-call-of-duty-advanced-warfare-supremacy.json](./20891-call-of-duty-advanced-warfare-supremacy.json) |
 | Call of Duty: Advanced Warfare - United States Exoskeleton Pack | 26065 | [26065-call-of-duty-advanced-warfare-united-states-exoskeleton-pack.json](./26065-call-of-duty-advanced-warfare-united-states-exoskeleton-pack.json) |
 | Call of Duty: Black Ops | 135299 | [135299-call-of-duty-black-ops.json](./135299-call-of-duty-black-ops.json) |
 | Call of Duty: Black Ops | 343819 | [343819-call-of-duty-black-ops.json](./343819-call-of-duty-black-ops.json) |
@@ -2029,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain Starshot | 117214 | [117214-captain-starshot.json](./117214-captain-starshot.json) |
 | Captain Strike | 60851 | [60851-captain-strike.json](./60851-captain-strike.json) |
 | Captain Stu | 285938 | [285938-captain-stu.json](./285938-captain-stu.json) |
+| Captain Successor | 21200 | [21200-captain-successor.json](./21200-captain-successor.json) |
 | Captain Superhero Flying Robot Rescue | 101981 | [101981-captain-superhero-flying-robot-rescue.json](./101981-captain-superhero-flying-robot-rescue.json) |
 | Captain Temporium | 174579 | [174579-captain-temporium.json](./174579-captain-temporium.json) |
 | Captain the Looper | 240622 | [240622-captain-the-looper.json](./240622-captain-the-looper.json) |
@@ -9692,6 +9695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | City Construction Simulator | 234746 | [234746-city-construction-simulator.json](./234746-city-construction-simulator.json) |
 | City Construction Simulator 2 | 310505 | [310505-city-construction-simulator-2.json](./310505-city-construction-simulator-2.json) |
 | City Country | 191157 | [191157-city-country.json](./191157-city-country.json) |
+| City Crisis | 22011 | [22011-city-crisis.json](./22011-city-crisis.json) |
 | City Cup | 359374 | [359374-city-cup.json](./359374-city-cup.json) |
 | City Defence | 125342 | [125342-city-defence.json](./125342-city-defence.json) |
 | City Defence | 53158 | [53158-city-defence.json](./53158-city-defence.json) |
@@ -10246,6 +10250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Class of '09 | 152962 | [152962-class-of-09.json](./152962-class-of-09.json) |
 | Class of '09: Puzzle Showdown | 406251 | [406251-class-of-09-puzzle-showdown.json](./406251-class-of-09-puzzle-showdown.json) |
 | Class of '09: The Flip Side | 308138 | [308138-class-of-09-the-flip-side.json](./308138-class-of-09-the-flip-side.json) |
+| Class of Heroes | 20998 | [20998-class-of-heroes.json](./20998-class-of-heroes.json) |
 | Class of Heroes | 283592 | [283592-class-of-heroes.json](./283592-class-of-heroes.json) |
 | Class of Heroes 1 & 2 Complete Edition | 283594 | [283594-class-of-heroes-1-and-2-complete-edition.json](./283594-class-of-heroes-1-and-2-complete-edition.json) |
 | Class of Heroes 2 | 20999 | [20999-class-of-heroes-2.json](./20999-class-of-heroes-2.json) |
@@ -19465,6 +19470,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptrunner | 117090 | [117090-cryptrunner.json](./117090-cryptrunner.json) |
 | Crypts & Curves | 344880 | [344880-crypts-and-curves.json](./344880-crypts-and-curves.json) |
 | Crypts of Carith | 387528 | [387528-crypts-of-carith.json](./387528-crypts-of-carith.json) |
+| Crypts of Chaos | 22691 | [22691-crypts-of-chaos.json](./22691-crypts-of-chaos.json) |
 | Crypts of Death | 115658 | [115658-crypts-of-death.json](./115658-crypts-of-death.json) |
 | Crypts of Eternity | 259433 | [259433-crypts-of-eternity.json](./259433-crypts-of-eternity.json) |
 | Crypts of Terror | 69750 | [69750-crypts-of-terror.json](./69750-crypts-of-terror.json) |
