@@ -3105,6 +3105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | School Heaven: Love Ero Harem - Momoiro Typhoon | 77924 | [77924-school-heaven-love-ero-harem-momoiro-typhoon.json](./77924-school-heaven-love-ero-harem-momoiro-typhoon.json) |
 | School Hero | 279113 | [279113-school-hero.json](./279113-school-hero.json) |
 | School House Shuffle | 206654 | [206654-school-house-shuffle.json](./206654-school-house-shuffle.json) |
+| School House: 30 Educational Programs | 70152 | [70152-school-house-30-educational-programs.json](./70152-school-house-30-educational-programs.json) |
 | School Idol QT Cool | 127933 | [127933-school-idol-qt-cool.json](./127933-school-idol-qt-cool.json) |
 | School Kwaidan | 109359 | [109359-school-kwaidan.json](./109359-school-kwaidan.json) |
 | School Labyrinth | 265532 | [265532-school-labyrinth.json](./265532-school-labyrinth.json) |
@@ -6115,6 +6116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street Art Workshop | 206016 | [206016-sesame-street-art-workshop.json](./206016-sesame-street-art-workshop.json) |
 | Sesame Street Beat | 220108 | [220108-sesame-street-beat.json](./220108-sesame-street-beat.json) |
 | Sesame Street Counting Cafe | 46198 | [46198-sesame-street-counting-cafe.json](./46198-sesame-street-counting-cafe.json) |
+| Sesame Street Crayon: Letters For You | 70149 | [70149-sesame-street-crayon-letters-for-you.json](./70149-sesame-street-crayon-letters-for-you.json) |
 | Sesame Street Crayon: Numbers Count | 71798 | [71798-sesame-street-crayon-numbers-count.json](./71798-sesame-street-crayon-numbers-count.json) |
 | Sesame Street Crayon: Opposites Attract | 73955 | [73955-sesame-street-crayon-opposites-attract.json](./73955-sesame-street-crayon-opposites-attract.json) |
 | Sesame Street Create & Draw in Elmo's World | 206015 | [206015-sesame-street-create-and-draw-in-elmos-world.json](./206015-sesame-street-create-and-draw-in-elmos-world.json) |
@@ -18754,6 +18756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SONpc | 330874 | [330874-sonpc.json](./330874-sonpc.json) |
 | Sons of Anarchy: The Prospect | 360487 | [360487-sons-of-anarchy-the-prospect.json](./360487-sons-of-anarchy-the-prospect.json) |
 | Sons of Eye Championship | 132006 | [132006-sons-of-eye-championship.json](./132006-sons-of-eye-championship.json) |
+| Sons of Liberty | 70013 | [70013-sons-of-liberty.json](./70013-sons-of-liberty.json) |
 | Sons of Odin | 346570 | [346570-sons-of-odin.json](./346570-sons-of-odin.json) |
 | Sons of Ra | 120889 | [120889-sons-of-ra.json](./120889-sons-of-ra.json) |
 | Sons of Saturn | 256546 | [256546-sons-of-saturn.json](./256546-sons-of-saturn.json) |
@@ -27468,6 +27471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stick Combat | 57175 | [57175-stick-combat.json](./57175-stick-combat.json) |
 | Stick Cricket | 138002 | [138002-stick-cricket.json](./138002-stick-cricket.json) |
 | Stick Cricket Super League | 229878 | [229878-stick-cricket-super-league.json](./229878-stick-cricket-super-league.json) |
+| Stick Death | 70130 | [70130-stick-death.json](./70130-stick-death.json) |
 | Stick Em Up | 154857 | [154857-stick-em-up.json](./154857-stick-em-up.json) |
 | Stick Empires | 83399 | [83399-stick-empires.json](./83399-stick-empires.json) |
 | Stick Engine | 55524 | [55524-stick-engine.json](./55524-stick-engine.json) |
@@ -28133,6 +28137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Storm | 28573 | [28573-storm.json](./28573-storm.json) |
 | Storm | 45275 | [45275-storm.json](./45275-storm.json) |
 | Storm & Calm | 159497 | [159497-storm-and-calm.json](./159497-storm-and-calm.json) |
+| Storm Across Europe | 70134 | [70134-storm-across-europe.json](./70134-storm-across-europe.json) |
 | Storm Angel | 400297 | [400297-storm-angel.json](./400297-storm-angel.json) |
 | Storm Area 51: Ayy Lmao Edition | 121142 | [121142-storm-area-51-ayy-lmao-edition.json](./121142-storm-area-51-ayy-lmao-edition.json) |
 | Storm Area 51: September 20th 2019 | 120998 | [120998-storm-area-51-september-20th-2019.json](./120998-storm-area-51-september-20th-2019.json) |
@@ -32161,6 +32166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Helpful Man | 105288 | [105288-super-helpful-man.json](./105288-super-helpful-man.json) |
 | Super Hentai Puzzle | 375135 | [375135-super-hentai-puzzle.json](./375135-super-hentai-puzzle.json) |
 | Super Hentai Racers | 208629 | [208629-super-hentai-racers.json](./208629-super-hentai-racers.json) |
+| Super Hero | 70150 | [70150-super-hero.json](./70150-super-hero.json) |
 | Super Hero Bike Mega Ramp | 102261 | [102261-super-hero-bike-mega-ramp.json](./102261-super-hero-bike-mega-ramp.json) |
 | Super Hero Boy: A Platform Adventure | 248281 | [248281-super-hero-boy-a-platform-adventure.json](./248281-super-hero-boy-a-platform-adventure.json) |
 | Super Hero Demolition | 251595 | [251595-super-hero-demolition.json](./251595-super-hero-demolition.json) |
@@ -34090,6 +34096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Spike V'Ball | 48073 | [48073-super-spike-vball.json](./48073-super-spike-vball.json) |
 | Super Spike V'Ball/Nintendo World Cup | 93582 | [93582-super-spike-vball-nintendo-world-cup.json](./93582-super-spike-vball-nintendo-world-cup.json) |
 | Super Spin | 216310 | [216310-super-spin.json](./216310-super-spin.json) |
+| Super Splash 3D | 70486 | [70486-super-splash-3d.json](./70486-super-splash-3d.json) |
 | Super Splash League | 361780 | [361780-super-splash-league.json](./361780-super-splash-league.json) |
 | Super SplashTube Bros. | 368259 | [368259-super-splashtube-bros.json](./368259-super-splashtube-bros.json) |
 | Super Splatters | 9696 | [9696-super-splatters.json](./9696-super-splatters.json) |
