@@ -937,6 +937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mage Food Truck | 345801 | [345801-mage-food-truck.json](./345801-mage-food-truck.json) |
 | Mage Fort | 97236 | [97236-mage-fort.json](./97236-mage-fort.json) |
 | Mage Gauntlet | 38736 | [38736-mage-gauntlet.json](./38736-mage-gauntlet.json) |
+| Mage Guard | 53308 | [53308-mage-guard.json](./53308-mage-guard.json) |
 | Mage Guard: The Last Grimoire | 69477 | [69477-mage-guard-the-last-grimoire.json](./69477-mage-guard-the-last-grimoire.json) |
 | Mage Guild | 285341 | [285341-mage-guild.json](./285341-mage-guild.json) |
 | Mage Hunt: Spellshifter | 295279 | [295279-mage-hunt-spellshifter.json](./295279-mage-hunt-spellshifter.json) |
@@ -1661,6 +1662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Whip: Wizards of Phantasmal Forest | 65562 | [65562-magical-whip-wizards-of-phantasmal-forest.json](./65562-magical-whip-wizards-of-phantasmal-forest.json) |
 | Magical Witch Bell and Her Non-Magical Friends | 177884 | [177884-magical-witch-bell-and-her-non-magical-friends.json](./177884-magical-witch-bell-and-her-non-magical-friends.json) |
 | Magical x Spiral | 31488 | [31488-magical-x-spiral.json](./31488-magical-x-spiral.json) |
+| Magical x Spiral: Collector's Edition | 53323 | [53323-magical-x-spiral-collectors-edition.json](./53323-magical-x-spiral-collectors-edition.json) |
 | Magical Zunou Power!! DS | 70411 | [70411-magical-zunou-power-ds.json](./70411-magical-zunou-power-ds.json) |
 | MagicalCube | 270446 | [270446-magicalcube.json](./270446-magicalcube.json) |
 | MagicalGirl Mimi | 167397 | [167397-magicalgirl-mimi.json](./167397-magicalgirl-mimi.json) |
@@ -1705,11 +1707,15 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magicite | 7883 | [7883-magicite.json](./7883-magicite.json) |
 | MagicJam | 113020 | [113020-magicjam.json](./113020-magicjam.json) |
 | Magicka | 2042 | [2042-magicka.json](./2042-magicka.json) |
+| Magicka 2 Collection | 53321 | [53321-magicka-2-collection.json](./53321-magicka-2-collection.json) |
 | Magicka 2 Complete Collection | 321760 | [321760-magicka-2-complete-collection.json](./321760-magicka-2-complete-collection.json) |
 | Magicka 2 Upgrade Pack | 321759 | [321759-magicka-2-upgrade-pack.json](./321759-magicka-2-upgrade-pack.json) |
+| Magicka 2: Deluxe Edition | 53322 | [53322-magicka-2-deluxe-edition.json](./53322-magicka-2-deluxe-edition.json) |
 | Magicka 2: Gates of Midgård - Challenge Pack | 168043 | [168043-magicka-2-gates-of-midgard-challenge-pack.json](./168043-magicka-2-gates-of-midgard-challenge-pack.json) |
+| Magicka 2: Ice, Death, and Fury | 53320 | [53320-magicka-2-ice-death-and-fury.json](./53320-magicka-2-ice-death-and-fury.json) |
 | Magicka 2: Special Edition | 118926 | [118926-magicka-2-special-edition.json](./118926-magicka-2-special-edition.json) |
 | Magicka 2: Three Cardinals Robe Pack | 321758 | [321758-magicka-2-three-cardinals-robe-pack.json](./321758-magicka-2-three-cardinals-robe-pack.json) |
+| Magicka Collection | 53319 | [53319-magicka-collection.json](./53319-magicka-collection.json) |
 | Magicka Complete Edition | 384629 | [384629-magicka-complete-edition.json](./384629-magicka-complete-edition.json) |
 | Magicka: Aspiring Musician Robes | 327241 | [327241-magicka-aspiring-musician-robes.json](./327241-magicka-aspiring-musician-robes.json) |
 | Magicka: Dungeons and Daemons | 22643 | [22643-magicka-dungeons-and-daemons.json](./22643-magicka-dungeons-and-daemons.json) |
@@ -1851,6 +1857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnetic Structures | 221484 | [221484-magnetic-structures.json](./221484-magnetic-structures.json) |
 | Magnetic Wars | 91791 | [91791-magnetic-wars.json](./91791-magnetic-wars.json) |
 | Magnetic: Cage Closed | 20888 | [20888-magnetic-cage-closed.json](./20888-magnetic-cage-closed.json) |
+| Magnetic: Cage Closed - Collector's Edition | 53318 | [53318-magnetic-cage-closed-collectors-edition.json](./53318-magnetic-cage-closed-collectors-edition.json) |
 | Magnetica | 20526 | [20526-magnetica.json](./20526-magnetica.json) |
 | Magnetica Twist | 21826 | [21826-magnetica-twist.json](./21826-magnetica-twist.json) |
 | Magnetik | 237746 | [237746-magnetik.json](./237746-magnetik.json) |
@@ -1887,6 +1894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magnitude: X | 391969 | [391969-magnitude-x.json](./391969-magnitude-x.json) |
 | Magnolia | 141031 | [141031-magnolia.json](./141031-magnolia.json) |
 | Magnolia Manor | 140162 | [140162-magnolia-manor.json](./140162-magnolia-manor.json) |
+| Magnum Bullets: Case Closed | 53317 | [53317-magnum-bullets-case-closed.json](./53317-magnum-bullets-case-closed.json) |
 | Magnum Kiki Ippatsu: Empire City 1931 | 48431 | [48431-magnum-kiki-ippatsu-empire-city-1931.json](./48431-magnum-kiki-ippatsu-empire-city-1931.json) |
 | Magnum Opus | 150362 | [150362-magnum-opus.json](./150362-magnum-opus.json) |
 | Magnum Opus | 417296 | [417296-magnum-opus.json](./417296-magnum-opus.json) |
@@ -2121,6 +2129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Taikai Wii | 62560 | [62560-mahjong-taikai-wii.json](./62560-mahjong-taikai-wii.json) |
 | Mahjong Taisen | 48787 | [48787-mahjong-taisen.json](./48787-mahjong-taisen.json) |
 | Mahjong Tales: Ancient Wisdom | 52577 | [52577-mahjong-tales-ancient-wisdom.json](./52577-mahjong-tales-ancient-wisdom.json) |
+| Mahjong the Endless Journey | 53346 | [53346-mahjong-the-endless-journey.json](./53346-mahjong-the-endless-journey.json) |
 | MahJong Time | 102495 | [102495-mahjong-time.json](./102495-mahjong-time.json) |
 | Mahjong Titan | 83415 | [83415-mahjong-titan.json](./83415-mahjong-titan.json) |
 | Mahjong Touryuumon | 82265 | [82265-mahjong-touryuumon.json](./82265-mahjong-touryuumon.json) |
@@ -2453,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majesty 2: Pocket Kingdom | 66529 | [66529-majesty-2-pocket-kingdom.json](./66529-majesty-2-pocket-kingdom.json) |
 | Majesty 2: The Fantasy Kingdom Sim | 2043 | [2043-majesty-2-the-fantasy-kingdom-sim.json](./2043-majesty-2-the-fantasy-kingdom-sim.json) |
 | Majesty Gold HD | 24528 | [24528-majesty-gold-hd.json](./24528-majesty-gold-hd.json) |
+| Majesty: Gold Edition | 53345 | [53345-majesty-gold-edition.json](./53345-majesty-gold-edition.json) |
 | Majesty: Northern Kingdom | 224015 | [224015-majesty-northern-kingdom.json](./224015-majesty-northern-kingdom.json) |
 | Majesty: The Fantasy Kingdom Sim | 781 | [781-majesty-the-fantasy-kingdom-sim.json](./781-majesty-the-fantasy-kingdom-sim.json) |
 | Majesty: The Northern Expansion | 19182 | [19182-majesty-the-northern-expansion.json](./19182-majesty-the-northern-expansion.json) |
@@ -3654,6 +3664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | March of the Eagles: French Unit Pack | 119428 | [119428-march-of-the-eagles-french-unit-pack.json](./119428-march-of-the-eagles-french-unit-pack.json) |
 | March of the Kingdom | 423383 | [423383-march-of-the-kingdom.json](./423383-march-of-the-kingdom.json) |
 | March of the Living | 18901 | [18901-march-of-the-living.json](./18901-march-of-the-living.json) |
+| March of the Living: Deluxe Edition | 53344 | [53344-march-of-the-living-deluxe-edition.json](./53344-march-of-the-living-deluxe-edition.json) |
 | March of the Penguins | 20648 | [20648-march-of-the-penguins.json](./20648-march-of-the-penguins.json) |
 | March of War Face Off | 60321 | [60321-march-of-war-face-off.json](./60321-march-of-war-face-off.json) |
 | March of War: StormSiege | 170494 | [170494-march-of-war-stormsiege.json](./170494-march-of-war-stormsiege.json) |
@@ -4511,6 +4522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marooned 2: Secrets of the Akoni | 209557 | [209557-marooned-2-secrets-of-the-akoni.json](./209557-marooned-2-secrets-of-the-akoni.json) |
 | Marooned: Arcanus Island | 7445 | [7445-marooned-arcanus-island.json](./7445-marooned-arcanus-island.json) |
 | Marooners | 23993 | [23993-marooners.json](./23993-marooners.json) |
+| Marooners: Deluxe Edition | 53343 | [53343-marooners-deluxe-edition.json](./53343-marooners-deluxe-edition.json) |
 | Maroxyn Drarea | 350786 | [350786-maroxyn-drarea.json](./350786-maroxyn-drarea.json) |
 | Marquee Candle | 350021 | [350021-marquee-candle.json](./350021-marquee-candle.json) |
 | Marquis Cut | 352491 | [352491-marquis-cut.json](./352491-marquis-cut.json) |
@@ -4916,6 +4928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel vs. Capcom: Infinite - Captain Marvel Warbird Costume | 386460 | [386460-marvel-vs-capcom-infinite-captain-marvel-warbird-costume.json](./386460-marvel-vs-capcom-infinite-captain-marvel-warbird-costume.json) |
 | Marvel vs. Capcom: Infinite - Chris Classic Costume | 386491 | [386491-marvel-vs-capcom-infinite-chris-classic-costume.json](./386491-marvel-vs-capcom-infinite-chris-classic-costume.json) |
 | Marvel vs. Capcom: Infinite - Dante Nephilim Costume | 386455 | [386455-marvel-vs-capcom-infinite-dante-nephilim-costume.json](./386455-marvel-vs-capcom-infinite-dante-nephilim-costume.json) |
+| Marvel vs. Capcom: Infinite - Deluxe Edition | 53342 | [53342-marvel-vs-capcom-infinite-deluxe-edition.json](./53342-marvel-vs-capcom-infinite-deluxe-edition.json) |
 | Marvel vs. Capcom: Infinite - Doctor Strange Illuminati Costume | 386492 | [386492-marvel-vs-capcom-infinite-doctor-strange-illuminati-costume.json](./386492-marvel-vs-capcom-infinite-doctor-strange-illuminati-costume.json) |
 | Marvel vs. Capcom: Infinite - Evil Ryu Costume | 386452 | [386452-marvel-vs-capcom-infinite-evil-ryu-costume.json](./386452-marvel-vs-capcom-infinite-evil-ryu-costume.json) |
 | Marvel vs. Capcom: Infinite - Firebrand Ultimate Costume | 386482 | [386482-marvel-vs-capcom-infinite-firebrand-ultimate-costume.json](./386482-marvel-vs-capcom-infinite-firebrand-ultimate-costume.json) |
@@ -5344,6 +5357,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Master of Orion | 11507 | [11507-master-of-orion.json](./11507-master-of-orion.json) |
 | Master of Orion | 67 | [67-master-of-orion.json](./67-master-of-orion.json) |
 | Master of Orion 1+2 | 155305 | [155305-master-of-orion-1-2.json](./155305-master-of-orion-1-2.json) |
+| Master of Orion Collector Edition | 53341 | [53341-master-of-orion-collector-edition.json](./53341-master-of-orion-collector-edition.json) |
 | Master of Orion II: Battle at Antares | 68 | [68-master-of-orion-ii-battle-at-antares.json](./68-master-of-orion-ii-battle-at-antares.json) |
 | Master of Orion III | 69 | [69-master-of-orion-iii.json](./69-master-of-orion-iii.json) |
 | Master of Orion: Collector's Edition | 25359 | [25359-master-of-orion-collectors-edition.json](./25359-master-of-orion-collectors-edition.json) |
@@ -6155,6 +6169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Car | 246255 | [246255-maximum-car.json](./246255-maximum-car.json) |
 | Maximum Chase | 73607 | [73607-maximum-chase.json](./73607-maximum-chase.json) |
 | Maximum Chaser: 1001 Squad | 325509 | [325509-maximum-chaser-1001-squad.json](./325509-maximum-chaser-1001-squad.json) |
+| Maximum Damage | 53337 | [53337-maximum-damage.json](./53337-maximum-damage.json) |
 | Maximum Entertainment Horror Bundle | 313209 | [313209-maximum-entertainment-horror-bundle.json](./313209-maximum-entertainment-horror-bundle.json) |
 | Maximum Entertainment Puzzle Platformer Bundle | 313208 | [313208-maximum-entertainment-puzzle-platformer-bundle.json](./313208-maximum-entertainment-puzzle-platformer-bundle.json) |
 | Maximum Entertainment RPG Bundle | 313207 | [313207-maximum-entertainment-rpg-bundle.json](./313207-maximum-entertainment-rpg-bundle.json) |
@@ -6174,6 +6189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -7371,6 +7387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval: Embers of War | 125665 | [125665-medieval-embers-of-war.json](./125665-medieval-embers-of-war.json) |
 | Medieval: Idle Prayer | 364603 | [364603-medieval-idle-prayer.json](./364603-medieval-idle-prayer.json) |
 | Medieval: Total War | 437 | [437-medieval-total-war.json](./437-medieval-total-war.json) |
+| Medieval: Total War - Battle Collection | 53336 | [53336-medieval-total-war-battle-collection.json](./53336-medieval-total-war-battle-collection.json) |
 | Medieval: Total War - Collection | 82055 | [82055-medieval-total-war-collection.json](./82055-medieval-total-war-collection.json) |
 | Medieval: Total War - Gold Edition | 35894 | [35894-medieval-total-war-gold-edition.json](./35894-medieval-total-war-gold-edition.json) |
 | Medieval: Total War - Viking Invasion | 444 | [444-medieval-total-war-viking-invasion.json](./444-medieval-total-war-viking-invasion.json) |
@@ -8304,6 +8321,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Megadeka | 344474 | [344474-megadeka.json](./344474-megadeka.json) |
 | MegaDestroyer Frantis | 317472 | [317472-megadestroyer-frantis.json](./317472-megadestroyer-frantis.json) |
 | Megadimension Neptunia VII | 9620 | [9620-megadimension-neptunia-vii.json](./9620-megadimension-neptunia-vii.json) |
+| Megadimension Neptunia VII: Digital Deluxe Edition | 53335 | [53335-megadimension-neptunia-vii-digital-deluxe-edition.json](./53335-megadimension-neptunia-vii-digital-deluxe-edition.json) |
+| Megadimension Neptunia VII: DLC Collection | 53334 | [53334-megadimension-neptunia-vii-dlc-collection.json](./53334-megadimension-neptunia-vii-dlc-collection.json) |
 | Megadimension Neptunia VII: Dream Edition | 212333 | [212333-megadimension-neptunia-vii-dream-edition.json](./212333-megadimension-neptunia-vii-dream-edition.json) |
 | Megadimension Neptunia VII: Party Character - God Eater | 238177 | [238177-megadimension-neptunia-vii-party-character-god-eater.json](./238177-megadimension-neptunia-vii-party-character-god-eater.json) |
 | Megadimension Neptunia VII: Party Character - Nitroplus | 238178 | [238178-megadimension-neptunia-vii-party-character-nitroplus.json](./238178-megadimension-neptunia-vii-party-character-nitroplus.json) |
@@ -9268,6 +9287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memory: The Original Matching Game from Ravensburger | 219478 | [219478-memory-the-original-matching-game-from-ravensburger.json](./219478-memory-the-original-matching-game-from-ravensburger.json) |
 | Memory: Unlocked | 264124 | [264124-memory-unlocked.json](./264124-memory-unlocked.json) |
 | Memory's Abyss: Chapter Zero | 367301 | [367301-memorys-abyss-chapter-zero.json](./367301-memorys-abyss-chapter-zero.json) |
+| Memory's Dogma Code: 01 - Collector's Edition | 53332 | [53332-memorys-dogma-code-01-collectors-edition.json](./53332-memorys-dogma-code-01-collectors-edition.json) |
 | Memory's Reach | 220413 | [220413-memorys-reach.json](./220413-memorys-reach.json) |
 | MemoryBombs | 290490 | [290490-memorybombs.json](./290490-memorybombs.json) |
 | Memoryleak | 372601 | [372601-memoryleak.json](./372601-memoryleak.json) |
@@ -9304,10 +9324,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Men of War II: Arena | 133767 | [133767-men-of-war-ii-arena.json](./133767-men-of-war-ii-arena.json) |
 | Men of War II: Frontline Hero Pack | 311077 | [311077-men-of-war-ii-frontline-hero-pack.json](./311077-men-of-war-ii-frontline-hero-pack.json) |
 | Men of War: Assault Squad | 1144 | [1144-men-of-war-assault-squad.json](./1144-men-of-war-assault-squad.json) |
+| Men of War: Assault Squad - Game of the Year Edition | 53331 | [53331-men-of-war-assault-squad-game-of-the-year-edition.json](./53331-men-of-war-assault-squad-game-of-the-year-edition.json) |
 | Men of War: Assault Squad - Skirmish Pack | 165949 | [165949-men-of-war-assault-squad-skirmish-pack.json](./165949-men-of-war-assault-squad-skirmish-pack.json) |
 | Men of War: Assault Squad 2 | 5572 | [5572-men-of-war-assault-squad-2.json](./5572-men-of-war-assault-squad-2.json) |
 | Men of War: Assault Squad 2 - Airborne | 168218 | [168218-men-of-war-assault-squad-2-airborne.json](./168218-men-of-war-assault-squad-2-airborne.json) |
 | Men of War: Assault Squad 2 - Cold War | 121565 | [121565-men-of-war-assault-squad-2-cold-war.json](./121565-men-of-war-assault-squad-2-cold-war.json) |
+| Men of War: Assault Squad 2 - Complete Edition | 53328 | [53328-men-of-war-assault-squad-2-complete-edition.json](./53328-men-of-war-assault-squad-2-complete-edition.json) |
+| Men of War: Assault Squad 2 - Deluxe Edition | 53330 | [53330-men-of-war-assault-squad-2-deluxe-edition.json](./53330-men-of-war-assault-squad-2-deluxe-edition.json) |
+| Men of War: Assault Squad 2 - Iron Fist | 53329 | [53329-men-of-war-assault-squad-2-iron-fist.json](./53329-men-of-war-assault-squad-2-iron-fist.json) |
 | Men of War: Assault Squad 2 - Ostfront Veteranen | 168217 | [168217-men-of-war-assault-squad-2-ostfront-veteranen.json](./168217-men-of-war-assault-squad-2-ostfront-veteranen.json) |
 | Men of War: Condemned Heroes | 10546 | [10546-men-of-war-condemned-heroes.json](./10546-men-of-war-condemned-heroes.json) |
 | Men of War: Red Tide | 8387 | [8387-men-of-war-red-tide.json](./8387-men-of-war-red-tide.json) |
@@ -10662,6 +10686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mexican Smashoff | 212221 | [212221-mexican-smashoff.json](./212221-mexican-smashoff.json) |
 | Mexican Train Dominoes 2 | 106070 | [106070-mexican-train-dominoes-2.json](./106070-mexican-train-dominoes-2.json) |
 | Mexican Train Dominoes Gold | 147732 | [147732-mexican-train-dominoes-gold.json](./147732-mexican-train-dominoes-gold.json) |
+| Mexicana: Deadly Holiday | 53326 | [53326-mexicana-deadly-holiday.json](./53326-mexicana-deadly-holiday.json) |
 | Mexico 1921: A Deep Slumber | 211921 | [211921-mexico-1921-a-deep-slumber.json](./211921-mexico-1921-a-deep-slumber.json) |
 | Mey Rescuer | 157964 | [157964-mey-rescuer.json](./157964-mey-rescuer.json) |
 | Meyni | 299128 | [299128-meyni.json](./299128-meyni.json) |
@@ -11775,6 +11800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might & Magic Heroes VII: Deluxe Edition | 53355 | [53355-might-and-magic-heroes-vii-deluxe-edition.json](./53355-might-and-magic-heroes-vii-deluxe-edition.json) |
 | Might & Magic Heroes VII: Ultimate Edition | 219753 | [219753-might-and-magic-heroes-vii-ultimate-edition.json](./219753-might-and-magic-heroes-vii-ultimate-edition.json) |
 | Might & Magic Heroes: Era of Chaos | 125744 | [125744-might-and-magic-heroes-era-of-chaos.json](./125744-might-and-magic-heroes-era-of-chaos.json) |
+| Might & Magic X: Legacy - Deluxe Edition | 53354 | [53354-might-and-magic-x-legacy-deluxe-edition.json](./53354-might-and-magic-x-legacy-deluxe-edition.json) |
 | Might & Magic: Chess Royale | 130516 | [130516-might-and-magic-chess-royale.json](./130516-might-and-magic-chess-royale.json) |
 | Might & Magic: Clash of Heroes | 1889 | [1889-might-and-magic-clash-of-heroes.json](./1889-might-and-magic-clash-of-heroes.json) |
 | Might & Magic: Clash of Heroes - Definitive Edition | 247376 | [247376-might-and-magic-clash-of-heroes-definitive-edition.json](./247376-might-and-magic-clash-of-heroes-definitive-edition.json) |
@@ -11795,6 +11821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Might & Magic: Heroes VI | 373 | [373-might-and-magic-heroes-vi.json](./373-might-and-magic-heroes-vi.json) |
 | Might & Magic: Heroes VI - Pirates of the Savage Sea | 13457 | [13457-might-and-magic-heroes-vi-pirates-of-the-savage-sea.json](./13457-might-and-magic-heroes-vi-pirates-of-the-savage-sea.json) |
 | Might & Magic: Heroes VI - Shades of Darkness | 8112 | [8112-might-and-magic-heroes-vi-shades-of-darkness.json](./8112-might-and-magic-heroes-vi-shades-of-darkness.json) |
+| Might & Magic: Heroes VI Gold Edition | 53353 | [53353-might-and-magic-heroes-vi-gold-edition.json](./53353-might-and-magic-heroes-vi-gold-edition.json) |
 | Might & Magic: Showdown | 26854 | [26854-might-and-magic-showdown.json](./26854-might-and-magic-showdown.json) |
 | Might & Mayhem | 38970 | [38970-might-and-mayhem.json](./38970-might-and-mayhem.json) |
 | Might & Mushroom | 412236 | [412236-might-and-mushroom.json](./412236-might-and-mushroom.json) |
@@ -12228,6 +12255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Millennium Arcade | 295293 | [295293-millennium-arcade.json](./295293-millennium-arcade.json) |
 | Millennium Atoll | 156838 | [156838-millennium-atoll.json](./156838-millennium-atoll.json) |
 | Millennium Auction | 94291 | [94291-millennium-auction.json](./94291-millennium-auction.json) |
+| Millennium Complete Series Deluxe | 53352 | [53352-millennium-complete-series-deluxe.json](./53352-millennium-complete-series-deluxe.json) |
 | Millennium Conflict | 213528 | [213528-millennium-conflict.json](./213528-millennium-conflict.json) |
 | Millennium Dawn: A Modern Day Mod | 256450 | [256450-millennium-dawn-a-modern-day-mod.json](./256450-millennium-dawn-a-modern-day-mod.json) |
 | Millennium Dream | 349036 | [349036-millennium-dream.json](./349036-millennium-dream.json) |
@@ -12511,6 +12539,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mind Snares: Alice's Journey | 22427 | [22427-mind-snares-alices-journey.json](./22427-mind-snares-alices-journey.json) |
 | Mind Space | 171469 | [171469-mind-space.json](./171469-mind-space.json) |
 | Mind Spheres | 32797 | [32797-mind-spheres.json](./32797-mind-spheres.json) |
+| Mind Spheres: Deluxe Edition | 53351 | [53351-mind-spheres-deluxe-edition.json](./53351-mind-spheres-deluxe-edition.json) |
 | Mind Split | 372951 | [372951-mind-split.json](./372951-mind-split.json) |
 | Mind Storm | 308338 | [308338-mind-storm.json](./308338-mind-storm.json) |
 | Mind Sweeper VR | 81076 | [81076-mind-sweeper-vr.json](./81076-mind-sweeper-vr.json) |
@@ -13042,6 +13071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mines & Dragons | 163994 | [163994-mines-and-dragons.json](./163994-mines-and-dragons.json) |
 | Mines of Dalarnia | 163220 | [163220-mines-of-dalarnia.json](./163220-mines-of-dalarnia.json) |
 | Mines of Frostheim | 190821 | [190821-mines-of-frostheim.json](./190821-mines-of-frostheim.json) |
+| Mines of Grimvale | 53350 | [53350-mines-of-grimvale.json](./53350-mines-of-grimvale.json) |
 | Mines of Mars | 34143 | [34143-mines-of-mars.json](./34143-mines-of-mars.json) |
 | Mines of Minos | 18534 | [18534-mines-of-minos.json](./18534-mines-of-minos.json) |
 | Mines of Moria | 248063 | [248063-mines-of-moria.json](./248063-mines-of-moria.json) |
@@ -13106,6 +13136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Minesweeper Ultimate | 167815 | [167815-minesweeper-ultimate.json](./167815-minesweeper-ultimate.json) |
 | Minesweeper Versus | 143410 | [143410-minesweeper-versus.json](./143410-minesweeper-versus.json) |
 | MineSweeper VR | 31617 | [31617-minesweeper-vr.json](./31617-minesweeper-vr.json) |
+| MineSweeper VR: Zombies | 53349 | [53349-minesweeper-vr-zombies.json](./53349-minesweeper-vr-zombies.json) |
 | Minesweeper X | 173981 | [173981-minesweeper-x.json](./173981-minesweeper-x.json) |
 | Minesweeper X | 87547 | [87547-minesweeper-x.json](./87547-minesweeper-x.json) |
 | Minesweeper: Collector | 171440 | [171440-minesweeper-collector.json](./171440-minesweeper-collector.json) |
@@ -13139,6 +13170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini AirHockey | 405473 | [405473-mini-airhockey.json](./405473-mini-airhockey.json) |
 | Mini Airways | 288116 | [288116-mini-airways.json](./288116-mini-airways.json) |
 | Mini Airways: Map - Busy Skies | 416593 | [416593-mini-airways-map-busy-skies.json](./416593-mini-airways-map-busy-skies.json) |
+| Mini Aliens | 53348 | [53348-mini-aliens.json](./53348-mini-aliens.json) |
 | Mini Arcade Monster Maze | 200338 | [200338-mini-arcade-monster-maze.json](./200338-mini-arcade-monster-maze.json) |
 | Mini Arcade Oreo Pac-Man | 314774 | [314774-mini-arcade-oreo-pac-man.json](./314774-mini-arcade-oreo-pac-man.json) |
 | Mini Arenas | 215596 | [215596-mini-arenas.json](./215596-mini-arenas.json) |
@@ -13909,6 +13941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mirage Realms | 98175 | [98175-mirage-realms.json](./98175-mirage-realms.json) |
 | Mirage Sugar Acacia | 385902 | [385902-mirage-sugar-acacia.json](./385902-mirage-sugar-acacia.json) |
 | Mirage: Arcane Warfare | 18147 | [18147-mirage-arcane-warfare.json](./18147-mirage-arcane-warfare.json) |
+| Mirage: Arcane Warfare - Special Edition | 53347 | [53347-mirage-arcane-warfare-special-edition.json](./53347-mirage-arcane-warfare-special-edition.json) |
 | Mirage: Beyond the Screen | 278530 | [278530-mirage-beyond-the-screen.json](./278530-mirage-beyond-the-screen.json) |
 | Mirage: Ignis Fatuus | 318315 | [318315-mirage-ignis-fatuus.json](./318315-mirage-ignis-fatuus.json) |
 | Mirage: Illusions | 326977 | [326977-mirage-illusions.json](./326977-mirage-illusions.json) |
