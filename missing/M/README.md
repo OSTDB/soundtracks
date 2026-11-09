@@ -1337,6 +1337,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magic Pussy: Chapter 3 | 365670 | [365670-magic-pussy-chapter-3.json](./365670-magic-pussy-chapter-3.json) |
 | Magic Puzzle | 328296 | [328296-magic-puzzle.json](./328296-magic-puzzle.json) |
 | Magic Puzzle King | 358040 | [358040-magic-puzzle-king.json](./358040-magic-puzzle-king.json) |
+| Magic Quest | 33221 | [33221-magic-quest.json](./33221-magic-quest.json) |
 | Magic Quest: TCG | 121394 | [121394-magic-quest-tcg.json](./121394-magic-quest-tcg.json) |
 | Magic Quiz | 391635 | [391635-magic-quiz.json](./391635-magic-quiz.json) |
 | Magic Rampage | 61995 | [61995-magic-rampage.json](./61995-magic-rampage.json) |
@@ -11558,6 +11559,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midnight 2 | 58602 | [58602-midnight-2.json](./58602-midnight-2.json) |
 | Midnight Acres | 262876 | [262876-midnight-acres.json](./262876-midnight-acres.json) |
 | Midnight Alert | 231190 | [231190-midnight-alert.json](./231190-midnight-alert.json) |
+| Midnight Animal: A Story of Love and Forgetting | 33247 | [33247-midnight-animal-a-story-of-love-and-forgetting.json](./33247-midnight-animal-a-story-of-love-and-forgetting.json) |
 | Midnight Arcade | 344364 | [344364-midnight-arcade.json](./344364-midnight-arcade.json) |
 | Midnight Arcade Orchestra | 423241 | [423241-midnight-arcade-orchestra.json](./423241-midnight-arcade-orchestra.json) |
 | Midnight Arrow | 239725 | [239725-midnight-arrow.json](./239725-midnight-arrow.json) |
@@ -13373,6 +13375,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mini Maze: Online | 298712 | [298712-mini-maze-online.json](./298712-mini-maze-online.json) |
 | Mini Mecum | 199228 | [199228-mini-mecum.json](./199228-mini-mecum.json) |
 | Mini Merchant | 333455 | [333455-mini-merchant.json](./333455-mini-merchant.json) |
+| Mini Metal | 33201 | [33201-mini-metal.json](./33201-mini-metal.json) |
 | Mini Metro | 7767 | [7767-mini-metro.json](./7767-mini-metro.json) |
 | Mini Micro Racing | 298386 | [298386-mini-micro-racing.json](./298386-mini-micro-racing.json) |
 | Mini Miners | 227683 | [227683-mini-miners.json](./227683-mini-miners.json) |
