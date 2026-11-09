@@ -9502,6 +9502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Swan | 30395 | [30395-black-swan.json](./30395-black-swan.json) |
 | Black Swan: Collector's Edition | 196315 | [196315-black-swan-collectors-edition.json](./196315-black-swan-collectors-edition.json) |
 | Black the Fall | 17555 | [17555-black-the-fall.json](./17555-black-the-fall.json) |
+| Black the Fall: Collector's Edition | 52667 | [52667-black-the-fall-collectors-edition.json](./52667-black-the-fall-collectors-edition.json) |
 | Black Thunder | 13816 | [13816-black-thunder.json](./13816-black-thunder.json) |
 | Black Tides: The Curse of Blackbeard | 406869 | [406869-black-tides-the-curse-of-blackbeard.json](./406869-black-tides-the-curse-of-blackbeard.json) |
 | Black Tiger | 11966 | [11966-black-tiger.json](./11966-black-tiger.json) |
@@ -9774,6 +9775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blade Assault | 207392 | [207392-blade-assault.json](./207392-blade-assault.json) |
 | Blade Assault: Launch Edition | 289354 | [289354-blade-assault-launch-edition.json](./289354-blade-assault-launch-edition.json) |
 | Blade Ballet | 22430 | [22430-blade-ballet.json](./22430-blade-ballet.json) |
+| Blade Ballet: Turntable Edition | 52659 | [52659-blade-ballet-turntable-edition.json](./52659-blade-ballet-turntable-edition.json) |
 | Blade Blazer | 370154 | [370154-blade-blazer.json](./370154-blade-blazer.json) |
 | Blade Blitz | 345057 | [345057-blade-blitz.json](./345057-blade-blitz.json) |
 | Blade Bouncer 2: Revolution | 317823 | [317823-blade-bouncer-2-revolution.json](./317823-blade-bouncer-2-revolution.json) |
@@ -12318,6 +12320,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Board Game Online | 60809 | [60809-board-game-online.json](./60809-board-game-online.json) |
 | Board Game Party | 303172 | [303172-board-game-party.json](./303172-board-game-party.json) |
 | Board Game Society | 337063 | [337063-board-game-society.json](./337063-board-game-society.json) |
+| Board Gamer's Delight | 52690 | [52690-board-gamers-delight.json](./52690-board-gamers-delight.json) |
 | Board Games | 271929 | [271929-board-games.json](./271929-board-games.json) |
 | Board Games Gallery (10 Games) | 100168 | [100168-board-games-gallery-10-games.json](./100168-board-games-gallery-10-games.json) |
 | Board Games Live | 86121 | [86121-board-games-live.json](./86121-board-games-live.json) |
@@ -14453,6 +14456,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bounty Sword: Satellaview Special Time Attack Version | 327645 | [327645-bounty-sword-satellaview-special-time-attack-version.json](./327645-bounty-sword-satellaview-special-time-attack-version.json) |
 | Bounty Trail | 416850 | [416850-bounty-trail.json](./416850-bounty-trail.json) |
 | Bounty Train | 11802 | [11802-bounty-train.json](./11802-bounty-train.json) |
+| Bounty Train: Trainium Edition | 52684 | [52684-bounty-train-trainium-edition.json](./52684-bounty-train-trainium-edition.json) |
 | Bounty: Drag Racing | 243047 | [243047-bounty-drag-racing.json](./243047-bounty-drag-racing.json) |
 | Bounty: Special Edition | 206470 | [206470-bounty-special-edition.json](./206470-bounty-special-edition.json) |
 | BountyHeart | 213641 | [213641-bountyheart.json](./213641-bountyheart.json) |
@@ -14646,6 +14650,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Box Maze | 31758 | [31758-box-maze.json](./31758-box-maze.json) |
 | Box Maze 2: Agent Cubert | 65830 | [65830-box-maze-2-agent-cubert.json](./65830-box-maze-2-agent-cubert.json) |
 | Box Maze Extreme | 95197 | [95197-box-maze-extreme.json](./95197-box-maze-extreme.json) |
+| Box Maze: Cardboard Edition | 52683 | [52683-box-maze-cardboard-edition.json](./52683-box-maze-cardboard-edition.json) |
+| Box Maze: Complete Edition | 52682 | [52682-box-maze-complete-edition.json](./52682-box-maze-complete-edition.json) |
+| Box Maze: Love Edition | 52681 | [52681-box-maze-love-edition.json](./52681-box-maze-love-edition.json) |
 | Box Nation | 161478 | [161478-box-nation.json](./161478-box-nation.json) |
 | Box Ninja | 271648 | [271648-box-ninja.json](./271648-box-ninja.json) |
 | Box of Broken Nails | 385344 | [385344-box-of-broken-nails.json](./385344-box-of-broken-nails.json) |
@@ -15525,6 +15532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breach: Veil Demon DLC | 170327 | [170327-breach-veil-demon-dlc.json](./170327-breach-veil-demon-dlc.json) |
 | Breached | 18845 | [18845-breached.json](./18845-breached.json) |
 | Breached | 281967 | [281967-breached.json](./281967-breached.json) |
+| Breached: Futurist Edition | 52678 | [52678-breached-futurist-edition.json](./52678-breached-futurist-edition.json) |
 | Breacher Story | 113456 | [113456-breacher-story.json](./113456-breacher-story.json) |
 | Breachers | 227642 | [227642-breachers.json](./227642-breachers.json) |
 | Breachers: Clone Projector Update | 335128 | [335128-breachers-clone-projector-update.json](./335128-breachers-clone-projector-update.json) |
@@ -16512,6 +16520,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Broken Sword 5: The Serpent's Curse - Episode 1 | 94068 | [94068-broken-sword-5-the-serpents-curse-episode-1.json](./94068-broken-sword-5-the-serpents-curse-episode-1.json) |
 | Broken Sword 5: The Serpent's Curse - Episode 2 | 94069 | [94069-broken-sword-5-the-serpents-curse-episode-2.json](./94069-broken-sword-5-the-serpents-curse-episode-2.json) |
 | Broken Sword 5: The Serpent's Curse - Premium Edition | 136170 | [136170-broken-sword-5-the-serpents-curse-premium-edition.json](./136170-broken-sword-5-the-serpents-curse-premium-edition.json) |
+| Broken Sword: 20th Anniversary Collection | 52677 | [52677-broken-sword-20th-anniversary-collection.json](./52677-broken-sword-20th-anniversary-collection.json) |
 | Broken Sword: Parzival’s Stone | 262650 | [262650-broken-sword-parzival-s-stone.json](./262650-broken-sword-parzival-s-stone.json) |
 | Broken Sword: Shadow of the Templars - The Director's Cut | 206510 | [206510-broken-sword-shadow-of-the-templars-the-directors-cut.json](./206510-broken-sword-shadow-of-the-templars-the-directors-cut.json) |
 | Broken Sword: Shadow of the Templars - The Director's Cut | 21127 | [21127-broken-sword-shadow-of-the-templars-the-directors-cut.json](./21127-broken-sword-shadow-of-the-templars-the-directors-cut.json) |
@@ -17587,6 +17596,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build A Train | 96315 | [96315-build-a-train.json](./96315-build-a-train.json) |
 | Build A Train 2 | 100728 | [100728-build-a-train-2.json](./100728-build-a-train-2.json) |
 | Build A World | 126125 | [126125-build-a-world.json](./126125-build-a-world.json) |
+| Build An Empire Collection | 52675 | [52675-build-an-empire-collection.json](./52675-build-an-empire-collection.json) |
 | Build and Discover: America | 217322 | [217322-build-and-discover-america.json](./217322-build-and-discover-america.json) |
 | Build and Drive Racing | 241305 | [241305-build-and-drive-racing.json](./241305-build-and-drive-racing.json) |
 | Build and Grow | 185301 | [185301-build-and-grow.json](./185301-build-and-grow.json) |
@@ -17699,6 +17709,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Buitopia DVD | 424702 | [424702-buitopia-dvd.json](./424702-buitopia-dvd.json) |
 | Bujingai: The Forsaken City | 19413 | [19413-bujingai-the-forsaken-city.json](./19413-bujingai-the-forsaken-city.json) |
 | Buka | 96028 | [96028-buka.json](./96028-buka.json) |
+| Buka Post Apocalyptic Collection | 52674 | [52674-buka-post-apocalyptic-collection.json](./52674-buka-post-apocalyptic-collection.json) |
 | Buki Buki! | 184837 | [184837-buki-buki.json](./184837-buki-buki.json) |
 | Bukkaku | 159186 | [159186-bukkaku.json](./159186-bukkaku.json) |
 | BuKnight: The Order of the Golden Crest | 316103 | [316103-buknight-the-order-of-the-golden-crest.json](./316103-buknight-the-order-of-the-golden-crest.json) |
@@ -18402,6 +18413,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burkov: Point of Contact | 155795 | [155795-burkov-point-of-contact.json](./155795-burkov-point-of-contact.json) |
 | Burlesque | 292650 | [292650-burlesque.json](./292650-burlesque.json) |
 | Burly Men at Sea | 24501 | [24501-burly-men-at-sea.json](./24501-burly-men-at-sea.json) |
+| Burly Men at Sea: Maestro Beard Edition | 52672 | [52672-burly-men-at-sea-maestro-beard-edition.json](./52672-burly-men-at-sea-maestro-beard-edition.json) |
 | Burn | 171449 | [171449-burn.json](./171449-burn.json) |
 | Burn | 311118 | [311118-burn.json](./311118-burn.json) |
 | Burn | 365241 | [365241-burn.json](./365241-burn.json) |
@@ -18636,7 +18648,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Simulator | 130938 | [130938-bus-simulator.json](./130938-bus-simulator.json) |
 | Bus Simulator 16 | 19882 | [19882-bus-simulator-16.json](./19882-bus-simulator-16.json) |
 | Bus Simulator 16: Gold Edition | 52488 | [52488-bus-simulator-16-gold-edition.json](./52488-bus-simulator-16-gold-edition.json) |
+| Bus Simulator 16: Man Lion's City A 47 M | 52671 | [52671-bus-simulator-16-man-lions-city-a-47-m.json](./52671-bus-simulator-16-man-lions-city-a-47-m.json) |
 | Bus Simulator 16: Man Lion's City CNG Pack | 163355 | [163355-bus-simulator-16-man-lions-city-cng-pack.json](./163355-bus-simulator-16-man-lions-city-cng-pack.json) |
+| Bus Simulator 16: Mercedes-Benz-Citaro | 52670 | [52670-bus-simulator-16-mercedes-benz-citaro.json](./52670-bus-simulator-16-mercedes-benz-citaro.json) |
 | Bus Simulator 17 | 31555 | [31555-bus-simulator-17.json](./31555-bus-simulator-17.json) |
 | Bus Simulator 18 | 96250 | [96250-bus-simulator-18.json](./96250-bus-simulator-18.json) |
 | Bus Simulator 18: Man Bus Pack 1 | 225061 | [225061-bus-simulator-18-man-bus-pack-1.json](./225061-bus-simulator-18-man-bus-pack-1.json) |
@@ -18698,6 +18712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bus Tycoon Night and Day | 254077 | [254077-bus-tycoon-night-and-day.json](./254077-bus-tycoon-night-and-day.json) |
 | Bus World | 126333 | [126333-bus-world.json](./126333-bus-world.json) |
 | Bus-Simulator 2012 | 16700 | [16700-bus-simulator-2012.json](./16700-bus-simulator-2012.json) |
+| Bus-Simulator 2016 | 52669 | [52669-bus-simulator-2016.json](./52669-bus-simulator-2016.json) |
 | BUS: Bro U Survived | 290727 | [290727-bus-bro-u-survived.json](./290727-bus-bro-u-survived.json) |
 | Buscando a Bigotes | 417981 | [417981-buscando-a-bigotes.json](./417981-buscando-a-bigotes.json) |
 | Bush 1022 | 419643 | [419643-bush-1022.json](./419643-bush-1022.json) |
@@ -18850,6 +18865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Busy Sweets Factory | 44499 | [44499-busy-sweets-factory.json](./44499-busy-sweets-factory.json) |
 | Busy With Holes | 365561 | [365561-busy-with-holes.json](./365561-busy-with-holes.json) |
 | But That Was [Yesterday] | 203353 | [203353-but-that-was-yesterday.json](./203353-but-that-was-yesterday.json) |
+| But to Paint a Universe Deluxe | 52698 | [52698-but-to-paint-a-universe-deluxe.json](./52698-but-to-paint-a-universe-deluxe.json) |
 | But Why Penguin? | 389515 | [389515-but-why-penguin.json](./389515-but-why-penguin.json) |
 | But Why? | 391821 | [391821-but-why.json](./391821-but-why.json) |
 | But You Seem Fine | 120267 | [120267-but-you-seem-fine.json](./120267-but-you-seem-fine.json) |
@@ -19029,6 +19045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | By Any Means Necessary | 65818 | [65818-by-any-means-necessary.json](./65818-by-any-means-necessary.json) |
 | By Bait or By Bullet | 369238 | [369238-by-bait-or-by-bullet.json](./369238-by-bait-or-by-bullet.json) |
 | By Day and Night | 185393 | [185393-by-day-and-night.json](./185393-by-day-and-night.json) |
+| By Day Fight | 52695 | [52695-by-day-fight.json](./52695-by-day-fight.json) |
 | By Fair Means or Foul | 13456 | [13456-by-fair-means-or-foul.json](./13456-by-fair-means-or-foul.json) |
 | By God Your Anger is Beautiful | 182881 | [182881-by-god-your-anger-is-beautiful.json](./182881-by-god-your-anger-is-beautiful.json) |
 | By Grit Alone | 306947 | [306947-by-grit-alone.json](./306947-by-grit-alone.json) |
