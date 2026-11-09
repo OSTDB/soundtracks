@@ -8714,6 +8714,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diabolik Lovers: Grand Edition - Limited Edition | 166268 | [166268-diabolik-lovers-grand-edition-limited-edition.json](./166268-diabolik-lovers-grand-edition-limited-edition.json) |
 | Diabolik Lovers: Haunted Dark Bridal | 85952 | [85952-diabolik-lovers-haunted-dark-bridal.json](./85952-diabolik-lovers-haunted-dark-bridal.json) |
 | Diabolik Lovers: Haunted Dark Bridal - Limited Edition | 44509 | [44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json](./44509-diabolik-lovers-haunted-dark-bridal-limited-edition.json) |
+| Diabolik Lovers: Vandead Carnival | 61260 | [61260-diabolik-lovers-vandead-carnival.json](./61260-diabolik-lovers-vandead-carnival.json) |
 | Diabolik: The Original Sin | 43212 | [43212-diabolik-the-original-sin.json](./43212-diabolik-the-original-sin.json) |
 | Diabolika | 93159 | [93159-diabolika.json](./93159-diabolika.json) |
 | Diabolus Ex | 142298 | [142298-diabolus-ex.json](./142298-diabolus-ex.json) |
@@ -16264,6 +16265,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drawn: Trail of Shadows - Collector's Edition | 30124 | [30124-drawn-trail-of-shadows-collectors-edition.json](./30124-drawn-trail-of-shadows-collectors-edition.json) |
 | Drawngeon: Dungeons of Ink and Paper | 113810 | [113810-drawngeon-dungeons-of-ink-and-paper.json](./113810-drawngeon-dungeons-of-ink-and-paper.json) |
 | Drawquarium | 374055 | [374055-drawquarium.json](./374055-drawquarium.json) |
+| DrawRace | 61763 | [61763-drawrace.json](./61763-drawrace.json) |
 | Drawsome Sketch Quest | 65548 | [65548-drawsome-sketch-quest.json](./65548-drawsome-sketch-quest.json) |
 | drawwars.io | 389104 | [389104-drawwars-io.json](./389104-drawwars-io.json) |
 | Drawy | 145283 | [145283-drawy.json](./145283-drawy.json) |
