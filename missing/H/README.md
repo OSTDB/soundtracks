@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HackLab | 185142 | [185142-hacklab.json](./185142-hacklab.json) |
 | Hackme Game 2 | 78488 | [78488-hackme-game-2.json](./78488-hackme-game-2.json) |
 | Hacknet: Complete Edition | 51826 | [51826-hacknet-complete-edition.json](./51826-hacknet-complete-edition.json) |
+| Hacknet: Labyrinths | 27917 | [27917-hacknet-labyrinths.json](./27917-hacknet-labyrinths.json) |
 | Hacknet: Ultimate Edition | 51825 | [51825-hacknet-ultimate-edition.json](./51825-hacknet-ultimate-edition.json) |
 | HackOS | 145923 | [145923-hackos.json](./145923-hackos.json) |
 | HackRack | 131721 | [131721-hackrack.json](./131721-hackrack.json) |
