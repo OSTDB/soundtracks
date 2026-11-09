@@ -273,6 +273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wakabayashi Fumie no DS Kabu Lesson | 124127 | [124127-wakabayashi-fumie-no-ds-kabu-lesson.json](./124127-wakabayashi-fumie-no-ds-kabu-lesson.json) |
 | Wakamarina Valley, New Zealand | 134521 | [134521-wakamarina-valley-new-zealand.json](./134521-wakamarina-valley-new-zealand.json) |
 | Wakana Nikki | 229664 | [229664-wakana-nikki.json](./229664-wakana-nikki.json) |
+| Wakataka Oozumou: Yume no Kyoudai Taiketsu | 61180 | [61180-wakataka-oozumou-yume-no-kyoudai-taiketsu.json](./61180-wakataka-oozumou-yume-no-kyoudai-taiketsu.json) |
 | Wakatsuya Mura no Tatari | 370300 | [370300-wakatsuya-mura-no-tatari.json](./370300-wakatsuya-mura-no-tatari.json) |
 | WakaVR | 243626 | [243626-wakavr.json](./243626-wakavr.json) |
 | Wakdoo Random Defence | 188098 | [188098-wakdoo-random-defence.json](./188098-wakdoo-random-defence.json) |
@@ -2640,6 +2641,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wave Break | 113602 | [113602-wave-break.json](./113602-wave-break.json) |
 | Wave Buxters | 329574 | [329574-wave-buxters.json](./329574-wave-buxters.json) |
 | Wave Circles | 117840 | [117840-wave-circles.json](./117840-wave-circles.json) |
+| Wave Crash | 61189 | [61189-wave-crash.json](./61189-wave-crash.json) |
 | Wave Defense: Trappist | 325337 | [325337-wave-defense-trappist.json](./325337-wave-defense-trappist.json) |
 | Wave Dungeon | 276138 | [276138-wave-dungeon.json](./276138-wave-dungeon.json) |
 | Wave Function Collapse | 182700 | [182700-wave-function-collapse.json](./182700-wave-function-collapse.json) |
@@ -5794,6 +5796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wind in the Willows | 145495 | [145495-wind-in-the-willows.json](./145495-wind-in-the-willows.json) |
 | Wind Love | 259589 | [259589-wind-love.json](./259589-wind-love.json) |
 | Wind of Life | 189866 | [189866-wind-of-life.json](./189866-wind-of-life.json) |
+| Wind of Luck: Arena | 61206 | [61206-wind-of-luck-arena.json](./61206-wind-of-luck-arena.json) |
 | Wind Peaks | 135843 | [135843-wind-peaks.json](./135843-wind-peaks.json) |
 | Wind Peaks 2 | 236284 | [236284-wind-peaks-2.json](./236284-wind-peaks-2.json) |
 | Wind Rider | 294258 | [294258-wind-rider.json](./294258-wind-rider.json) |
