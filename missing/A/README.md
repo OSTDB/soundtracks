@@ -6081,6 +6081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aka Ninja VR | 151087 | [151087-aka-ninja-vr.json](./151087-aka-ninja-vr.json) |
 | Aka no Sekai | 151528 | [151528-aka-no-sekai.json](./151528-aka-no-sekai.json) |
 | Aka to Blue | 69502 | [69502-aka-to-blue.json](./69502-aka-to-blue.json) |
+| Aka-chan Doubutsuen | 49450 | [49450-aka-chan-doubutsuen.json](./49450-aka-chan-doubutsuen.json) |
 | Akabeth Tactics | 116175 | [116175-akabeth-tactics.json](./116175-akabeth-tactics.json) |
 | Akabos | 330685 | [330685-akabos.json](./330685-akabos.json) |
 | Akagawa Jirou Mystery: Tsuki no Hikari - Shizumeru Kane no Satsujin | 272093 | [272093-akagawa-jirou-mystery-tsuki-no-hikari-shizumeru-kane-no-satsujin.json](./272093-akagawa-jirou-mystery-tsuki-no-hikari-shizumeru-kane-no-satsujin.json) |
@@ -6629,6 +6630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aleator | 323142 | [323142-aleator.json](./323142-aleator.json) |
 | Alebound | 356021 | [356021-alebound.json](./356021-alebound.json) |
 | Alec Adventure | 172971 | [172971-alec-adventure.json](./172971-alec-adventure.json) |
+| Aleck Bordon Adventure: Tower and Shaft Advance | 49443 | [49443-aleck-bordon-adventure-tower-and-shaft-advance.json](./49443-aleck-bordon-adventure-tower-and-shaft-advance.json) |
 | Aledorn | 197154 | [197154-aledorn.json](./197154-aledorn.json) |
 | Aleeious | 60952 | [60952-aleeious.json](./60952-aleeious.json) |
 | Aleesha's Tower | 121997 | [121997-aleeshas-tower.json](./121997-aleeshas-tower.json) |
@@ -6720,6 +6722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alexander: The Road to Percia | 364155 | [364155-alexander-the-road-to-percia.json](./364155-alexander-the-road-to-percia.json) |
 | AlexanderBall: A Countryball Tale | 201376 | [201376-alexanderball-a-countryball-tale.json](./201376-alexanderball-a-countryball-tale.json) |
 | Alexandra Fortune: Mystery of the Lunar Archipelago | 177047 | [177047-alexandra-fortune-mystery-of-the-lunar-archipelago.json](./177047-alexandra-fortune-mystery-of-the-lunar-archipelago.json) |
+| Alexandra Ledermann | 49469 | [49469-alexandra-ledermann.json](./49469-alexandra-ledermann.json) |
 | Alexandra Ledermann 2: Equitation Competition | 278849 | [278849-alexandra-ledermann-2-equitation-competition.json](./278849-alexandra-ledermann-2-equitation-competition.json) |
 | Alexandra Ledermann 5 : Legacy of the Stud | 381906 | [381906-alexandra-ledermann-5-legacy-of-the-stud.json](./381906-alexandra-ledermann-5-legacy-of-the-stud.json) |
 | Alexandria IV | 221143 | [221143-alexandria-iv.json](./221143-alexandria-iv.json) |
@@ -9883,6 +9886,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angel Clicker | 381320 | [381320-angel-clicker.json](./381320-angel-clicker.json) |
 | Angel Club | 385849 | [385849-angel-club.json](./385849-angel-club.json) |
 | Angel Code | 52405 | [52405-angel-code.json](./52405-angel-code.json) |
+| Angel Collection 2: Pichimo Ni Narou | 49449 | [49449-angel-collection-2-pichimo-ni-narou.json](./49449-angel-collection-2-pichimo-ni-narou.json) |
+| Angel Collection: Mezase! Gakuen no Fashion Leader | 49448 | [49448-angel-collection-mezase-gakuen-no-fashion-leader.json](./49448-angel-collection-mezase-gakuen-no-fashion-leader.json) |
 | Angel Devoid: Face of the Enemy | 2170 | [2170-angel-devoid-face-of-the-enemy.json](./2170-angel-devoid-face-of-the-enemy.json) |
 | Angel Droid | 221193 | [221193-angel-droid.json](./221193-angel-droid.json) |
 | Angel Egg | 94423 | [94423-angel-egg.json](./94423-angel-egg.json) |
@@ -9998,6 +10003,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angelica Weaver: Catch Me When You Can - Collector's Edition | 30149 | [30149-angelica-weaver-catch-me-when-you-can-collectors-edition.json](./30149-angelica-weaver-catch-me-when-you-can-collectors-edition.json) |
 | Angelica's Chaotic Hardcore School | 369796 | [369796-angelicas-chaotic-hardcore-school.json](./369796-angelicas-chaotic-hardcore-school.json) |
 | Angeline Era | 252768 | [252768-angeline-era.json](./252768-angeline-era.json) |
+| Angelique | 49447 | [49447-angelique.json](./49447-angelique.json) |
 | Angelique Duet | 272090 | [272090-angelique-duet.json](./272090-angelique-duet.json) |
 | Angelique Duet | 45437 | [45437-angelique-duet.json](./45437-angelique-duet.json) |
 | Angelique Etoile | 72680 | [72680-angelique-etoile.json](./72680-angelique-etoile.json) |
@@ -10447,6 +10453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal Lover | 30938 | [30938-animal-lover.json](./30938-animal-lover.json) |
 | Animal Magnetism: Pochi no Daisuki | 214434 | [214434-animal-magnetism-pochi-no-daisuki.json](./214434-animal-magnetism-pochi-no-daisuki.json) |
 | Animal Maid! | 97768 | [97768-animal-maid.json](./97768-animal-maid.json) |
+| Animal Mania: Doki-doki Aishou Check | 49442 | [49442-animal-mania-doki-doki-aishou-check.json](./49442-animal-mania-doki-doki-aishou-check.json) |
 | Animal Match | 190792 | [190792-animal-match.json](./190792-animal-match.json) |
 | Animal Math | 73475 | [73475-animal-math.json](./73475-animal-math.json) |
 | Animal Math Kindergarten Games | 99941 | [99941-animal-math-kindergarten-games.json](./99941-animal-math-kindergarten-games.json) |
@@ -10541,6 +10548,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animal World: Big Cats | 269555 | [269555-animal-world-big-cats.json](./269555-animal-world-big-cats.json) |
 | Animal Wrestler | 267325 | [267325-animal-wrestler.json](./267325-animal-wrestler.json) |
 | Animal Yokochou: Doki-doki Kyuushutsu Daisakusen! no Maki | 49493 | [49493-animal-yokochou-doki-doki-kyuushutsu-daisakusen-no-maki.json](./49493-animal-yokochou-doki-doki-kyuushutsu-daisakusen-no-maki.json) |
+| Animal Yokochou: Doki-doki Shinkyuu Shiken! no Kan | 49446 | [49446-animal-yokochou-doki-doki-shinkyuu-shiken-no-kan.json](./49446-animal-yokochou-doki-doki-shinkyuu-shiken-no-kan.json) |
 | Animal Zodiac | 298880 | [298880-animal-zodiac.json](./298880-animal-zodiac.json) |
 | Animal Zone | 211078 | [211078-animal-zone.json](./211078-animal-zone.json) |
 | Animal Zoo: The Forgotten Land | 314879 | [314879-animal-zoo-the-forgotten-land.json](./314879-animal-zoo-the-forgotten-land.json) |
@@ -15641,6 +15649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ashita no Joe | 39578 | [39578-ashita-no-joe.json](./39578-ashita-no-joe.json) |
 | Ashita no Joe 2: The Anime Super Remix | 60753 | [60753-ashita-no-joe-2-the-anime-super-remix.json](./60753-ashita-no-joe-2-the-anime-super-remix.json) |
 | Ashita no Joe Touch: Typing Namida Hashi | 56996 | [56996-ashita-no-joe-touch-typing-namida-hashi.json](./56996-ashita-no-joe-touch-typing-namida-hashi.json) |
+| Ashita no Joe: Masseki ni Moe Agare! | 49445 | [49445-ashita-no-joe-masseki-ni-moe-agare.json](./49445-ashita-no-joe-masseki-ni-moe-agare.json) |
 | Ashita no Joe: Masshiro ni Moe Tsukiro! | 143555 | [143555-ashita-no-joe-masshiro-ni-moe-tsukiro.json](./143555-ashita-no-joe-masshiro-ni-moe-tsukiro.json) |
 | Ashita, Hajimete Kanojo to | 211648 | [211648-ashita-hajimete-kanojo-to.json](./211648-ashita-hajimete-kanojo-to.json) |
 | Ashkeep | 212748 | [212748-ashkeep.json](./212748-ashkeep.json) |
@@ -19075,6 +19084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Azu-Tama | 222183 | [222183-azu-tama.json](./222183-azu-tama.json) |
 | AzuFight: Taisen Shiyo | 222541 | [222541-azufight-taisen-shiyo.json](./222541-azufight-taisen-shiyo.json) |
 | Azul Baronis | 331992 | [331992-azul-baronis.json](./331992-azul-baronis.json) |
+| Azumanga Daioh Advance | 49444 | [49444-azumanga-daioh-advance.json](./49444-azumanga-daioh-advance.json) |
 | Azumanga Daioh Puzzle Bobble | 39646 | [39646-azumanga-daioh-puzzle-bobble.json](./39646-azumanga-daioh-puzzle-bobble.json) |
 | Azumanga Daioh! The Druglord Game | 210509 | [210509-azumanga-daioh-the-druglord-game.json](./210509-azumanga-daioh-the-druglord-game.json) |
 | Azumanga Donjara Daiou | 166444 | [166444-azumanga-donjara-daiou.json](./166444-azumanga-donjara-daiou.json) |
