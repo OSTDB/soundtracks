@@ -17106,6 +17106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atari Masterpieces Vol. II | 47569 | [47569-atari-masterpieces-vol-ii.json](./47569-atari-masterpieces-vol-ii.json) |
 | Atari Mini Arcade | 275243 | [275243-atari-mini-arcade.json](./275243-atari-mini-arcade.json) |
 | Atari Outlaw | 64065 | [64065-atari-outlaw.json](./64065-atari-outlaw.json) |
+| Atari R.B.I. Baseball | 40288 | [40288-atari-r-b-i-baseball.json](./40288-atari-r-b-i-baseball.json) |
 | Atari Recharged Bundle | 230800 | [230800-atari-recharged-bundle.json](./230800-atari-recharged-bundle.json) |
 | Atari Recharged Collection 3 | 341962 | [341962-atari-recharged-collection-3.json](./341962-atari-recharged-collection-3.json) |
 | Atari Recharged Collection 4 | 341964 | [341964-atari-recharged-collection-4.json](./341964-atari-recharged-collection-4.json) |
@@ -17353,6 +17354,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
