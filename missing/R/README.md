@@ -236,6 +236,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rabbit Story | 28162 | [28162-rabbit-story.json](./28162-rabbit-story.json) |
 | Rabbit Trail | 333492 | [333492-rabbit-trail.json](./333492-rabbit-trail.json) |
 | Rabbit Trail | 42180 | [42180-rabbit-trail.json](./42180-rabbit-trail.json) |
+| Rabbit Transit | 24468 | [24468-rabbit-transit.json](./24468-rabbit-transit.json) |
 | Rabbit Valley Legend | 99680 | [99680-rabbit-valley-legend.json](./99680-rabbit-valley-legend.json) |
 | Rabbit x Labyrinth | 66436 | [66436-rabbit-x-labyrinth.json](./66436-rabbit-x-labyrinth.json) |
 | Rabbit, Coyote, Wolf, Grizzly | 375493 | [375493-rabbit-coyote-wolf-grizzly.json](./375493-rabbit-coyote-wolf-grizzly.json) |
@@ -3159,6 +3160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Real VR Fishing | 130566 | [130566-real-vr-fishing.json](./130566-real-vr-fishing.json) |
 | Real War | 27595 | [27595-real-war.json](./27595-real-war.json) |
 | Real War: Rogue States | 72294 | [72294-real-war-rogue-states.json](./72294-real-war-rogue-states.json) |
+| Real WarBots | 24459 | [24459-real-warbots.json](./24459-real-warbots.json) |
 | Real Warfare 1242 | 9856 | [9856-real-warfare-1242.json](./9856-real-warfare-1242.json) |
 | Real Warfare 2: Northern Crusades | 9414 | [9414-real-warfare-2-northern-crusades.json](./9414-real-warfare-2-northern-crusades.json) |
 | Real Winners | 105547 | [105547-real-winners.json](./105547-real-winners.json) |
@@ -9490,6 +9492,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robots in the Wild | 32086 | [32086-robots-in-the-wild.json](./32086-robots-in-the-wild.json) |
 | Robots Love Ice Cream | 62997 | [62997-robots-love-ice-cream.json](./62997-robots-love-ice-cream.json) |
 | Robots n Lasers | 193270 | [193270-robots-n-lasers.json](./193270-robots-n-lasers.json) |
+| Robots of Dawn | 24432 | [24432-robots-of-dawn.json](./24432-robots-of-dawn.json) |
 | Robots Runner | 259528 | [259528-robots-runner.json](./259528-robots-runner.json) |
 | Robots under attack! | 129608 | [129608-robots-under-attack.json](./129608-robots-under-attack.json) |
 | Robots vs. Zombies: Transform to Race and Fight | 105842 | [105842-robots-vs-zombies-transform-to-race-and-fight.json](./105842-robots-vs-zombies-transform-to-race-and-fight.json) |
