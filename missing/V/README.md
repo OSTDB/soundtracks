@@ -3295,6 +3295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vlogger Go Viral | 102765 | [102765-vlogger-go-viral.json](./102765-vlogger-go-viral.json) |
 | Vlogger Go Viral - Tube Tycoon | 99902 | [99902-vlogger-go-viral-tube-tycoon.json](./99902-vlogger-go-viral-tube-tycoon.json) |
 | Vlorp | 144850 | [144850-vlorp.json](./144850-vlorp.json) |
+| VM Japan: Vantage Master - Mystic Far East | 66218 | [66218-vm-japan-vantage-master-mystic-far-east.json](./66218-vm-japan-vantage-master-mystic-far-east.json) |
 | vMigo | 220275 | [220275-vmigo.json](./220275-vmigo.json) |
 | VMod | 129164 | [129164-vmod.json](./129164-vmod.json) |
 | VMX | 334205 | [334205-vmx.json](./334205-vmx.json) |
