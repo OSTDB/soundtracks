@@ -2902,6 +2902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ready Set Golf | 297330 | [297330-ready-set-golf.json](./297330-ready-set-golf.json) |
 | Ready Set Sumo! | 216758 | [216758-ready-set-sumo.json](./216758-ready-set-sumo.json) |
 | Ready Steady Bang | 133859 | [133859-ready-steady-bang.json](./133859-ready-steady-bang.json) |
+| Ready Steady Go | 72597 | [72597-ready-steady-go.json](./72597-ready-steady-go.json) |
 | Ready Steady Play | 61073 | [61073-ready-steady-play.json](./61073-ready-steady-play.json) |
 | Ready, Aim, Splat! | 30432 | [30432-ready-aim-splat.json](./30432-ready-aim-splat.json) |
 | Ready, Set, Party Collection | 335510 | [335510-ready-set-party-collection.json](./335510-ready-set-party-collection.json) |
@@ -5886,6 +5887,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Resistance TD | 132463 | [132463-resistance-td.json](./132463-resistance-td.json) |
 | Resistance: The 8th Wave | 192689 | [192689-resistance-the-8th-wave.json](./192689-resistance-the-8th-wave.json) |
 | Resistor | 252786 | [252786-resistor.json](./252786-resistor.json) |
+| ReSizE | 72398 | [72398-resize.json](./72398-resize.json) |
 | Resize Me! | 365386 | [365386-resize-me.json](./365386-resize-me.json) |
 | Reskue | 152949 | [152949-reskue.json](./152949-reskue.json) |
 | reSnake | 230734 | [230734-resnake.json](./230734-resnake.json) |
