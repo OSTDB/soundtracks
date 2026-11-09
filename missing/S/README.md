@@ -7793,6 +7793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sharded World: Backpack Adventure | 279116 | [279116-sharded-world-backpack-adventure.json](./279116-sharded-world-backpack-adventure.json) |
 | Shardfall: FitQuest VR | 296226 | [296226-shardfall-fitquest-vr.json](./296226-shardfall-fitquest-vr.json) |
 | Shardhunters | 128282 | [128282-shardhunters.json](./128282-shardhunters.json) |
+| Shardlight | 16478 | [16478-shardlight.json](./16478-shardlight.json) |
 | Shardlight: Deluxe | 53601 | [53601-shardlight-deluxe.json](./53601-shardlight-deluxe.json) |
 | Shardlight: Special Edition | 51912 | [51912-shardlight-special-edition.json](./51912-shardlight-special-edition.json) |
 | Shardpunk | 129926 | [129926-shardpunk.json](./129926-shardpunk.json) |
@@ -10435,6 +10436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sid Meier's Civilization VI: Poland Civilization & Scenario Pack | 164399 | [164399-sid-meiers-civilization-vi-poland-civilization-and-scenario-pack.json](./164399-sid-meiers-civilization-vi-poland-civilization-and-scenario-pack.json) |
 | Sid Meier's Civilization VI: Porfirio Diaz Pack | 277798 | [277798-sid-meiers-civilization-vi-porfirio-diaz-pack.json](./277798-sid-meiers-civilization-vi-porfirio-diaz-pack.json) |
 | Sid Meier's Civilization VI: Portugal Pack | 146007 | [146007-sid-meiers-civilization-vi-portugal-pack.json](./146007-sid-meiers-civilization-vi-portugal-pack.json) |
+| Sid Meier's Civilization VI: Rise and Fall | 76420 | [76420-sid-meiers-civilization-vi-rise-and-fall.json](./76420-sid-meiers-civilization-vi-rise-and-fall.json) |
 | Sid Meier's Civilization VI: Shinra Pack | 276934 | [276934-sid-meiers-civilization-vi-shinra-pack.json](./276934-sid-meiers-civilization-vi-shinra-pack.json) |
 | Sid Meier's Civilization VI: Sun and Moon of Teyvat Pack | 278052 | [278052-sid-meiers-civilization-vi-sun-and-moon-of-teyvat-pack.json](./278052-sid-meiers-civilization-vi-sun-and-moon-of-teyvat-pack.json) |
 | Sid Meier's Civilization VI: Super Mario Leaders Pack | 276935 | [276935-sid-meiers-civilization-vi-super-mario-leaders-pack.json](./276935-sid-meiers-civilization-vi-super-mario-leaders-pack.json) |
@@ -17997,6 +17999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Advance X | 227806 | [227806-sonic-advance-x.json](./227806-sonic-advance-x.json) |
 | Sonic Advance: International | 316297 | [316297-sonic-advance-international.json](./316297-sonic-advance-international.json) |
 | Sonic Advent | 331775 | [331775-sonic-advent.json](./331775-sonic-advent.json) |
+| Sonic Adventure | 192113 | [192113-sonic-adventure.json](./192113-sonic-adventure.json) |
 | Sonic Adventure | 198588 | [198588-sonic-adventure.json](./198588-sonic-adventure.json) |
 | Sonic Adventure 2 | 192192 | [192192-sonic-adventure-2.json](./192192-sonic-adventure-2.json) |
 | Sonic Adventure 2: Battle | 192194 | [192194-sonic-adventure-2-battle.json](./192194-sonic-adventure-2-battle.json) |
@@ -18008,6 +18011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sonic Adventure Advanced | 370068 | [370068-sonic-adventure-advanced.json](./370068-sonic-adventure-advanced.json) |
 | Sonic Adventure Blast | 317128 | [317128-sonic-adventure-blast.json](./317128-sonic-adventure-blast.json) |
 | Sonic Adventure DS | 336362 | [336362-sonic-adventure-ds.json](./336362-sonic-adventure-ds.json) |
+| Sonic Adventure DX: Director's Cut | 192150 | [192150-sonic-adventure-dx-directors-cut.json](./192150-sonic-adventure-dx-directors-cut.json) |
 | Sonic Adventure DX: Director's Cut | 23695 | [23695-sonic-adventure-dx-directors-cut.json](./23695-sonic-adventure-dx-directors-cut.json) |
 | Sonic Adventure Emerald | 330304 | [330304-sonic-adventure-emerald.json](./330304-sonic-adventure-emerald.json) |
 | Sonic Adventure Genisys | 241921 | [241921-sonic-adventure-genisys.json](./241921-sonic-adventure-genisys.json) |
@@ -22940,6 +22944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spiral Helix: Jump down the tower | 104445 | [104445-spiral-helix-jump-down-the-tower.json](./104445-spiral-helix-jump-down-the-tower.json) |
 | Spiral House | 178015 | [178015-spiral-house.json](./178015-spiral-house.json) |
 | Spiral Jump - Spiral Jumping Ball | 102835 | [102835-spiral-jump-spiral-jumping-ball.json](./102835-spiral-jump-spiral-jumping-ball.json) |
+| Spiral Knights | 9265 | [9265-spiral-knights.json](./9265-spiral-knights.json) |
 | Spiral Knights: Operation Crimson Hammer | 170877 | [170877-spiral-knights-operation-crimson-hammer.json](./170877-spiral-knights-operation-crimson-hammer.json) |
 | Spiral Memoria: The Summer I Meet Myself | 138386 | [138386-spiral-memoria-the-summer-i-meet-myself.json](./138386-spiral-memoria-the-summer-i-meet-myself.json) |
 | Spiral of War | 270785 | [270785-spiral-of-war.json](./270785-spiral-of-war.json) |
@@ -29027,6 +29032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stray Girl | 370972 | [370972-stray-girl.json](./370972-stray-girl.json) |
 | Stray Gods: Orpheus | 307335 | [307335-stray-gods-orpheus.json](./307335-stray-gods-orpheus.json) |
 | Stray Gods: Orpheus Edition | 385325 | [385325-stray-gods-orpheus-edition.json](./385325-stray-gods-orpheus-edition.json) |
+| Stray Gods: The Roleplaying Musical | 194506 | [194506-stray-gods-the-roleplaying-musical.json](./194506-stray-gods-the-roleplaying-musical.json) |
 | Stray Kids SKZOO Tamagotchi | 334864 | [334864-stray-kids-skzoo-tamagotchi.json](./334864-stray-kids-skzoo-tamagotchi.json) |
 | Stray Kitten | 150691 | [150691-stray-kitten.json](./150691-stray-kitten.json) |
 | Stray Memoria | 320796 | [320796-stray-memoria.json](./320796-stray-memoria.json) |
