@@ -1493,6 +1493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NCAA Final Four 2003 | 68261 | [68261-ncaa-final-four-2003.json](./68261-ncaa-final-four-2003.json) |
 | NCAA Final Four 2004 | 68304 | [68304-ncaa-final-four-2004.json](./68304-ncaa-final-four-2004.json) |
 | NCAA Final Four 99 | 23154 | [23154-ncaa-final-four-99.json](./23154-ncaa-final-four-99.json) |
+| NCAA Football | 46680 | [46680-ncaa-football.json](./46680-ncaa-football.json) |
 | NCAA Football '98 | 43714 | [43714-ncaa-football-98.json](./43714-ncaa-football-98.json) |
 | NCAA Football '99 | 43713 | [43713-ncaa-football-99.json](./43713-ncaa-football-99.json) |
 | NCAA Football 06 | 5952 | [5952-ncaa-football-06.json](./5952-ncaa-football-06.json) |
@@ -2026,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekketsu Koukou Dodgeball-bu | 191741 | [191741-nekketsu-koukou-dodgeball-bu.json](./191741-nekketsu-koukou-dodgeball-bu.json) |
 | Nekketsu Koukou Dodgeball-bu: CD Soccer-hen | 44305 | [44305-nekketsu-koukou-dodgeball-bu-cd-soccer-hen.json](./44305-nekketsu-koukou-dodgeball-bu-cd-soccer-hen.json) |
 | Nekketsu Koukou Dodgeball-bu: Kyouteki! Dodge Soldier no Maki | 49106 | [49106-nekketsu-koukou-dodgeball-bu-kyouteki-dodge-soldier-no-maki.json](./49106-nekketsu-koukou-dodgeball-bu-kyouteki-dodge-soldier-no-maki.json) |
+| Nekketsu Koukou Dodgeball-bu: MD Soccer-hen | 46677 | [46677-nekketsu-koukou-dodgeball-bu-md-soccer-hen.json](./46677-nekketsu-koukou-dodgeball-bu-md-soccer-hen.json) |
 | Nekketsu Koukou Dodgeball-bu: PC Bangai-hen | 191740 | [191740-nekketsu-koukou-dodgeball-bu-pc-bangai-hen.json](./191740-nekketsu-koukou-dodgeball-bu-pc-bangai-hen.json) |
 | Nekketsu Koukou Dodgeball-bu: PC Soccer-hen | 191678 | [191678-nekketsu-koukou-dodgeball-bu-pc-soccer-hen.json](./191678-nekketsu-koukou-dodgeball-bu-pc-soccer-hen.json) |
 | Nekketsu Koukou Dodgeball-bu: Soccer-hen | 191746 | [191746-nekketsu-koukou-dodgeball-bu-soccer-hen.json](./191746-nekketsu-koukou-dodgeball-bu-soccer-hen.json) |
