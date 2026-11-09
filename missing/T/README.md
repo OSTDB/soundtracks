@@ -16149,6 +16149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ren & Stimpy Show: Fire Dogs | 218938 | [218938-the-ren-and-stimpy-show-fire-dogs.json](./218938-the-ren-and-stimpy-show-fire-dogs.json) |
 | The Ren & Stimpy Show: Fire Dogs | 7985 | [7985-the-ren-and-stimpy-show-fire-dogs.json](./7985-the-ren-and-stimpy-show-fire-dogs.json) |
 | The Ren & Stimpy Show: Space Cadet Adventures | 48971 | [48971-the-ren-and-stimpy-show-space-cadet-adventures.json](./48971-the-ren-and-stimpy-show-space-cadet-adventures.json) |
+| The Ren & Stimpy Show: Time Warp | 8102 | [8102-the-ren-and-stimpy-show-time-warp.json](./8102-the-ren-and-stimpy-show-time-warp.json) |
 | The Ren & Stimpy Show: Veediots! | 365695 | [365695-the-ren-and-stimpy-show-veediots.json](./365695-the-ren-and-stimpy-show-veediots.json) |
 | The Renegades of Orion 2.0 | 33727 | [33727-the-renegades-of-orion-2-0.json](./33727-the-renegades-of-orion-2-0.json) |
 | The Renovator | 117070 | [117070-the-renovator.json](./117070-the-renovator.json) |
@@ -16218,6 +16219,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Revenge of Mr.Samuel | 199381 | [199381-the-revenge-of-mr-samuel.json](./199381-the-revenge-of-mr-samuel.json) |
 | The Revenge of Shinobi | 10222 | [10222-the-revenge-of-shinobi.json](./10222-the-revenge-of-shinobi.json) |
 | The Revenge of Shinobi | 3327 | [3327-the-revenge-of-shinobi.json](./3327-the-revenge-of-shinobi.json) |
+| The Revenge of the Smurfs | 8079 | [8079-the-revenge-of-the-smurfs.json](./8079-the-revenge-of-the-smurfs.json) |
 | The Revenge of Tungsten | 260329 | [260329-the-revenge-of-tungsten.json](./260329-the-revenge-of-tungsten.json) |
 | The Revival | 211987 | [211987-the-revival.json](./211987-the-revival.json) |
 | The Revived Throne | 249249 | [249249-the-revived-throne.json](./249249-the-revived-throne.json) |
@@ -16423,6 +16425,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Ruby Court | 298436 | [298436-the-ruby-court.json](./298436-the-ruby-court.json) |
 | The Rugrats Movie | 198879 | [198879-the-rugrats-movie.json](./198879-the-rugrats-movie.json) |
 | The Rugrats Movie | 2790 | [2790-the-rugrats-movie.json](./2790-the-rugrats-movie.json) |
+| The Rugrats Movie: Activity Challenge | 8088 | [8088-the-rugrats-movie-activity-challenge.json](./8088-the-rugrats-movie-activity-challenge.json) |
+| The Rugrats Mystery Adventures | 8091 | [8091-the-rugrats-mystery-adventures.json](./8091-the-rugrats-mystery-adventures.json) |
 | The Ruin Wanderer | 350470 | [350470-the-ruin-wanderer.json](./350470-the-ruin-wanderer.json) |
 | The Ruins of Cawdor | 54682 | [54682-the-ruins-of-cawdor.json](./54682-the-ruins-of-cawdor.json) |
 | The Ruins of Machi Itcza | 182520 | [182520-the-ruins-of-machi-itcza.json](./182520-the-ruins-of-machi-itcza.json) |
