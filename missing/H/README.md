@@ -11920,6 +11920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hug Your Mama | 397020 | [397020-hug-your-mama.json](./397020-hug-your-mama.json) |
 | Hugbot | 180695 | [180695-hugbot.json](./180695-hugbot.json) |
 | Huge | 156228 | [156228-huge.json](./156228-huge.json) |
+| Huge Bang Bang | 56603 | [56603-huge-bang-bang.json](./56603-huge-bang-bang.json) |
 | Huge Beer Pong Challenges VR | 81674 | [81674-huge-beer-pong-challenges-vr.json](./81674-huge-beer-pong-challenges-vr.json) |
 | Huge Breast Princess Knight Anne | 158212 | [158212-huge-breast-princess-knight-anne.json](./158212-huge-breast-princess-knight-anne.json) |
 | Huge Enemy - Worldbreakers | 107855 | [107855-huge-enemy-worldbreakers.json](./107855-huge-enemy-worldbreakers.json) |
