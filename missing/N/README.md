@@ -2032,6 +2032,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nekketsu Renegade Kunio-kun | 191643 | [191643-nekketsu-renegade-kunio-kun.json](./191643-nekketsu-renegade-kunio-kun.json) |
 | Nekketsu Stadium Card Baseball | 385507 | [385507-nekketsu-stadium-card-baseball.json](./385507-nekketsu-stadium-card-baseball.json) |
 | Nekketsu Tairiku: Burning Heroes | 15935 | [15935-nekketsu-tairiku-burning-heroes.json](./15935-nekketsu-tairiku-burning-heroes.json) |
+| Nekketsu Taisen Kunio-kun X | 57227 | [57227-nekketsu-taisen-kunio-kun-x.json](./57227-nekketsu-taisen-kunio-kun-x.json) |
 | Nekketsu! Beach Volley Da yo: Kunio-kun | 49107 | [49107-nekketsu-beach-volley-da-yo-kunio-kun.json](./49107-nekketsu-beach-volley-da-yo-kunio-kun.json) |
 | Nekketsu! Street Basketball All-Out Dunk Heroes | 48572 | [48572-nekketsu-street-basketball-all-out-dunk-heroes.json](./48572-nekketsu-street-basketball-all-out-dunk-heroes.json) |
 | Nekkyuu Koushien | 46137 | [46137-nekkyuu-koushien.json](./46137-nekkyuu-koushien.json) |
