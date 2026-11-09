@@ -1062,6 +1062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vaxol: Heavy Armed Storming Vehicle | 41785 | [41785-vaxol-heavy-armed-storming-vehicle.json](./41785-vaxol-heavy-armed-storming-vehicle.json) |
 | Vaxomon | 199672 | [199672-vaxomon.json](./199672-vaxomon.json) |
 | Vay | 304287 | [304287-vay.json](./304287-vay.json) |
+| Vay | 5460 | [5460-vay.json](./5460-vay.json) |
 | Vayan | 216494 | [216494-vayan.json](./216494-vayan.json) |
 | Vaygren: Lustful Temptation | 307173 | [307173-vaygren-lustful-temptation.json](./307173-vaygren-lustful-temptation.json) |
 | Vazial Saga XX | 166633 | [166633-vazial-saga-xx.json](./166633-vazial-saga-xx.json) |
