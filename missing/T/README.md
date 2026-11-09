@@ -783,6 +783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taisen Reversi | 198209 | [198209-taisen-reversi.json](./198209-taisen-reversi.json) |
 | Taisen Reversi Cross | 198210 | [198210-taisen-reversi-cross.json](./198210-taisen-reversi-cross.json) |
 | Taisen Tokkae Dama | 283394 | [283394-taisen-tokkae-dama.json](./283394-taisen-tokkae-dama.json) |
+| Taisen! Bomberman | 58932 | [58932-taisen-bomberman.json](./58932-taisen-bomberman.json) |
 | Taisen! Koori Oni | 227366 | [227366-taisen-koori-oni.json](./227366-taisen-koori-oni.json) |
 | Taisen!! Ka to Chan no Kororonpe! | 72947 | [72947-taisen-ka-to-chan-no-kororonpe.json](./72947-taisen-ka-to-chan-no-kororonpe.json) |
 | Taisho Mononoke Ibunroku | 181565 | [181565-taisho-mononoke-ibunroku.json](./181565-taisho-mononoke-ibunroku.json) |
@@ -2386,6 +2387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tap Sword | 240728 | [240728-tap-sword.json](./240728-tap-sword.json) |
 | Tap Tap Ants | 232143 | [232143-tap-tap-ants.json](./232143-tap-tap-ants.json) |
 | Tap Tap Arcade | 58901 | [58901-tap-tap-arcade.json](./58901-tap-tap-arcade.json) |
+| Tap Tap Arcade 2 | 58376 | [58376-tap-tap-arcade-2.json](./58376-tap-tap-arcade-2.json) |
 | Tap Tap Beer: Tavern Edition | 173985 | [173985-tap-tap-beer-tavern-edition.json](./173985-tap-tap-beer-tavern-edition.json) |
 | Tap Tap Blocks | 27647 | [27647-tap-tap-blocks.json](./27647-tap-tap-blocks.json) |
 | Tap Tap Builder | 75141 | [75141-tap-tap-builder.json](./75141-tap-tap-builder.json) |
@@ -17366,6 +17368,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Smurfs: Colorful Stories - Ultimate Edition | 287126 | [287126-the-smurfs-colorful-stories-ultimate-edition.json](./287126-the-smurfs-colorful-stories-ultimate-edition.json) |
 | The Smurfs: Dreams | 299572 | [299572-the-smurfs-dreams.json](./299572-the-smurfs-dreams.json) |
 | The Smurfs: Dreams - Digital Deluxe Edition | 389410 | [389410-the-smurfs-dreams-digital-deluxe-edition.json](./389410-the-smurfs-dreams-digital-deluxe-edition.json) |
+| The Smurfs: Epic Run | 58379 | [58379-the-smurfs-epic-run.json](./58379-the-smurfs-epic-run.json) |
 | The Smurfs: Flower Defense | 352946 | [352946-the-smurfs-flower-defense.json](./352946-the-smurfs-flower-defense.json) |
 | The Smurfs: Learn and Play | 275887 | [275887-the-smurfs-learn-and-play.json](./275887-the-smurfs-learn-and-play.json) |
 | The Smurfs: Learn and Play - Brainy Smurf Hidden Story | 280587 | [280587-the-smurfs-learn-and-play-brainy-smurf-hidden-story.json](./280587-the-smurfs-learn-and-play-brainy-smurf-hidden-story.json) |
@@ -24558,6 +24561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Titan Saga: Chains of Kronos | 112060 | [112060-titan-saga-chains-of-kronos.json](./112060-titan-saga-chains-of-kronos.json) |
 | Titan Shell | 216499 | [216499-titan-shell.json](./216499-titan-shell.json) |
 | Titan Shield | 118065 | [118065-titan-shield.json](./118065-titan-shield.json) |
+| Titan Siege | 58930 | [58930-titan-siege.json](./58930-titan-siege.json) |
 | Titan Slayer | 193956 | [193956-titan-slayer.json](./193956-titan-slayer.json) |
 | Titan Slayer | 28324 | [28324-titan-slayer.json](./28324-titan-slayer.json) |
 | Titan Slayer II | 111078 | [111078-titan-slayer-ii.json](./111078-titan-slayer-ii.json) |
@@ -31114,6 +31118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traumruf | 229737 | [229737-traumruf.json](./229737-traumruf.json) |
 | Travel Adventures with Hello Kitty | 62658 | [62658-travel-adventures-with-hello-kitty.json](./62658-travel-adventures-with-hello-kitty.json) |
 | Travel Along | 272905 | [272905-travel-along.json](./272905-travel-along.json) |
+| Travel Apple | 58931 | [58931-travel-apple.json](./58931-travel-apple.json) |
 | Travel Bug | 86096 | [86096-travel-bug.json](./86096-travel-bug.json) |
 | Travel Center Tycoon | 220158 | [220158-travel-center-tycoon.json](./220158-travel-center-tycoon.json) |
 | Travel Cuisine 2: Sweet Life | 358405 | [358405-travel-cuisine-2-sweet-life.json](./358405-travel-cuisine-2-sweet-life.json) |
@@ -33680,6 +33685,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turdy | 172195 | [172195-turdy.json](./172195-turdy.json) |
 | Turf | 61590 | [61590-turf.json](./61590-turf.json) |
 | Turf Battles | 302316 | [302316-turf-battles.json](./302316-turf-battles.json) |
+| Turf Battles: Triumphus | 58922 | [58922-turf-battles-triumphus.json](./58922-turf-battles-triumphus.json) |
 | Turf Hero | 37776 | [37776-turf-hero.json](./37776-turf-hero.json) |
 | Turf Memories | 37808 | [37808-turf-memories.json](./37808-turf-memories.json) |
 | Turf War | 194808 | [194808-turf-war.json](./194808-turf-war.json) |
