@@ -3374,6 +3374,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King's Field EX | 340964 | [340964-kings-field-ex.json](./340964-kings-field-ex.json) |
 | King's Field II | 9500 | [9500-kings-field-ii.json](./9500-kings-field-ii.json) |
 | King's Field Mobile II | 340965 | [340965-kings-field-mobile-ii.json](./340965-kings-field-mobile-ii.json) |
+| King's Field: Additional I | 38465 | [38465-kings-field-additional-i.json](./38465-kings-field-additional-i.json) |
+| King's Field: Additional II | 38463 | [38463-kings-field-additional-ii.json](./38463-kings-field-additional-ii.json) |
 | King's Field: Dark Side Box | 382354 | [382354-kings-field-dark-side-box.json](./382354-kings-field-dark-side-box.json) |
 | King's Field: The Ancient City | 9501 | [9501-kings-field-the-ancient-city.json](./9501-kings-field-the-ancient-city.json) |
 | King's Gambit | 309540 | [309540-kings-gambit.json](./309540-kings-gambit.json) |
