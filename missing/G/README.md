@@ -516,6 +516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactians | 14082 | [14082-galactians.json](./14082-galactians.json) |
 | Galactic | 46881 | [46881-galactic.json](./46881-galactic.json) |
 | Galactic Abductor | 14083 | [14083-galactic-abductor.json](./14083-galactic-abductor.json) |
+| Galactic Adventures | 24437 | [24437-galactic-adventures.json](./24437-galactic-adventures.json) |
 | Galactic Adventures | 357733 | [357733-galactic-adventures.json](./357733-galactic-adventures.json) |
 | Galactic Adventures | 377588 | [377588-galactic-adventures.json](./377588-galactic-adventures.json) |
 | Galactic Annihilation | 340290 | [340290-galactic-annihilation.json](./340290-galactic-annihilation.json) |
@@ -9083,6 +9084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Conqueror: Rome | 146681 | [146681-great-conqueror-rome.json](./146681-great-conqueror-rome.json) |
 | Great Deal | 267653 | [267653-great-deal.json](./267653-great-deal.json) |
 | Great Eggzample | 68751 | [68751-great-eggzample.json](./68751-great-eggzample.json) |
+| Great Escape | 24454 | [24454-great-escape.json](./24454-great-escape.json) |
 | Great eSports Manager | 55485 | [55485-great-esports-manager.json](./55485-great-esports-manager.json) |
 | Great Feats of Ancient Russ | 298236 | [298236-great-feats-of-ancient-russ.json](./298236-great-feats-of-ancient-russ.json) |
 | Great Flame | 273770 | [273770-great-flame.json](./273770-great-flame.json) |
@@ -10403,6 +10405,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grudgeball: Enter the Chaosphere - Regular Show's Extreme Sport of the Future | 90338 | [90338-grudgeball-enter-the-chaosphere-regular-shows-extreme-sport-of-the-future.json](./90338-grudgeball-enter-the-chaosphere-regular-shows-extreme-sport-of-the-future.json) |
 | Grudgeborn | 363158 | [363158-grudgeborn.json](./363158-grudgeborn.json) |
 | Grudger | 412019 | [412019-grudger.json](./412019-grudger.json) |
+| Gruds in Space | 24438 | [24438-gruds-in-space.json](./24438-gruds-in-space.json) |
 | Gruel | 292396 | [292396-gruel.json](./292396-gruel.json) |
 | Grug to Future | 268287 | [268287-grug-to-future.json](./268287-grug-to-future.json) |
 | Grugs | 266132 | [266132-grugs.json](./266132-grugs.json) |
@@ -10546,6 +10549,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guardian Angel for Hire | 178585 | [178585-guardian-angel-for-hire.json](./178585-guardian-angel-for-hire.json) |
 | Guardian Chicken | 346505 | [346505-guardian-chicken.json](./346505-guardian-chicken.json) |
 | Guardian Chronicle: Random Defense | 144989 | [144989-guardian-chronicle-random-defense.json](./144989-guardian-chronicle-random-defense.json) |
+| Guardian Codex | 24404 | [24404-guardian-codex.json](./24404-guardian-codex.json) |
 | Guardian Cross | 65051 | [65051-guardian-cross.json](./65051-guardian-cross.json) |
 | Guardian Deity | 284165 | [284165-guardian-deity.json](./284165-guardian-deity.json) |
 | Guardian Demon | 376413 | [376413-guardian-demon.json](./376413-guardian-demon.json) |
