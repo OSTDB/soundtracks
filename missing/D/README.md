@@ -414,6 +414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daigasso! Band Brothers | 28559 | [28559-daigasso-band-brothers.json](./28559-daigasso-band-brothers.json) |
 | Daigasso! Band Brothers P | 64394 | [64394-daigasso-band-brothers-p.json](./64394-daigasso-band-brothers-p.json) |
 | Daigasso! Band Brothers Request Selection | 69240 | [69240-daigasso-band-brothers-request-selection.json](./69240-daigasso-band-brothers-request-selection.json) |
+| Daihoushinden | 46694 | [46694-daihoushinden.json](./46694-daihoushinden.json) |
 | Daiichi Dash | 132671 | [132671-daiichi-dash.json](./132671-daiichi-dash.json) |
 | Daijishin | 385538 | [385538-daijishin.json](./385538-daijishin.json) |
 | Daikaiju | 179539 | [179539-daikaiju.json](./179539-daikaiju.json) |
@@ -8249,6 +8250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Detonation Sauce University | 217102 | [217102-detonation-sauce-university.json](./217102-detonation-sauce-university.json) |
 | Detonator | 263477 | [263477-detonator.json](./263477-detonator.json) |
 | Detonator | 92369 | [92369-detonator.json](./92369-detonator.json) |
+| Detonator Orgun | 46693 | [46693-detonator-orgun.json](./46693-detonator-orgun.json) |
 | Detour | 372079 | [372079-detour.json](./372079-detour.json) |
 | Detour Bus | 155823 | [155823-detour-bus.json](./155823-detour-bus.json) |
 | Detour: Highway Simulator | 16230 | [16230-detour-highway-simulator.json](./16230-detour-highway-simulator.json) |
@@ -8279,12 +8281,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deus Ex Machina: Game of the Year - 30th Anniversary Collector's Edition | 91098 | [91098-deus-ex-machina-game-of-the-year-30th-anniversary-collectors-edition.json](./91098-deus-ex-machina-game-of-the-year-30th-anniversary-collectors-edition.json) |
 | Deus Ex: Breach | 30494 | [30494-deus-ex-breach.json](./30494-deus-ex-breach.json) |
 | Deus Ex: Collection | 52883 | [52883-deus-ex-collection.json](./52883-deus-ex-collection.json) |
+| Deus Ex: Complete | 46712 | [46712-deus-ex-complete.json](./46712-deus-ex-complete.json) |
 | Deus Ex: Game of the Year Edition | 25358 | [25358-deus-ex-game-of-the-year-edition.json](./25358-deus-ex-game-of-the-year-edition.json) |
 | Deus Ex: Greasel of the Year Edition | 275624 | [275624-deus-ex-greasel-of-the-year-edition.json](./275624-deus-ex-greasel-of-the-year-edition.json) |
 | Deus Ex: Human Revolution - Augmented Edition | 47412 | [47412-deus-ex-human-revolution-augmented-edition.json](./47412-deus-ex-human-revolution-augmented-edition.json) |
 | Deus Ex: Human Revolution - Collector's Edition | 75569 | [75569-deus-ex-human-revolution-collectors-edition.json](./75569-deus-ex-human-revolution-collectors-edition.json) |
 | Deus Ex: Human Revolution - Complete Edition | 118891 | [118891-deus-ex-human-revolution-complete-edition.json](./118891-deus-ex-human-revolution-complete-edition.json) |
 | Deus Ex: Human Revolution - Director's Cut | 9740 | [9740-deus-ex-human-revolution-directors-cut.json](./9740-deus-ex-human-revolution-directors-cut.json) |
+| Deus Ex: Human Revolution - Limited Edition | 46713 | [46713-deus-ex-human-revolution-limited-edition.json](./46713-deus-ex-human-revolution-limited-edition.json) |
 | Deus Ex: Human Revolution - The Missing Link | 9533 | [9533-deus-ex-human-revolution-the-missing-link.json](./9533-deus-ex-human-revolution-the-missing-link.json) |
 | Deus Ex: Insurrection | 8287 | [8287-deus-ex-insurrection.json](./8287-deus-ex-insurrection.json) |
 | Deus Ex: Invisible War | 42 | [42-deus-ex-invisible-war.json](./42-deus-ex-invisible-war.json) |
