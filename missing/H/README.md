@@ -6002,6 +6002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hermitage Strange Case Files | 99435 | [99435-hermitage-strange-case-files.json](./99435-hermitage-strange-case-files.json) |
 | Hermitage: Strange Case Files | 130256 | [130256-hermitage-strange-case-files.json](./130256-hermitage-strange-case-files.json) |
 | Hermitcraft TCG | 240552 | [240552-hermitcraft-tcg.json](./240552-hermitcraft-tcg.json) |
+| Hermodr | 39756 | [39756-hermodr.json](./39756-hermodr.json) |
 | Hernhand | 145792 | [145792-hernhand.json](./145792-hernhand.json) |
 | Hero | 313746 | [313746-hero.json](./313746-hero.json) |
 | Hero | 32462 | [32462-hero.json](./32462-hero.json) |
