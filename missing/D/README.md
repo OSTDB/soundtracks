@@ -2389,6 +2389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darksword: Nephilim | 296883 | [296883-darksword-nephilim.json](./296883-darksword-nephilim.json) |
 | Darksy's Adventure | 242604 | [242604-darksys-adventure.json](./242604-darksys-adventure.json) |
 | Darksyne | 245115 | [245115-darksyne.json](./245115-darksyne.json) |
+| Darktide | 58375 | [58375-darktide.json](./58375-darktide.json) |
 | DarkTide | 204955 | [204955-darktide.json](./204955-darktide.json) |
 | DarkTrail | 111139 | [111139-darktrail.json](./111139-darktrail.json) |
 | Darkula | 119481 | [119481-darkula.json](./119481-darkula.json) |
@@ -11549,6 +11550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dizzy Down the Rapids | 18543 | [18543-dizzy-down-the-rapids.json](./18543-dizzy-down-the-rapids.json) |
 | Dizzy Dwarves | 174744 | [174744-dizzy-dwarves.json](./174744-dizzy-dwarves.json) |
 | Dizzy Fight | 276294 | [276294-dizzy-fight.json](./276294-dizzy-fight.json) |
+| Dizzy Fruit | 58916 | [58916-dizzy-fruit.json](./58916-dizzy-fruit.json) |
 | Dizzy Hero | 322664 | [322664-dizzy-hero.json](./322664-dizzy-hero.json) |
 | Dizzy Panic | 12050 | [12050-dizzy-panic.json](./12050-dizzy-panic.json) |
 | Dizzy Rogues | 224615 | [224615-dizzy-rogues.json](./224615-dizzy-rogues.json) |
