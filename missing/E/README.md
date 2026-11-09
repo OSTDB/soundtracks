@@ -175,6 +175,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eagle's Rider | 13627 | [13627-eagles-rider.json](./13627-eagles-rider.json) |
 | EagleRoad: WorldRise | 406297 | [406297-eagleroad-worldrise.json](./406297-eagleroad-worldrise.json) |
 | Eagles | 13842 | [13842-eagles.json](./13842-eagles.json) |
+| Eagles | 39740 | [39740-eagles.json](./39740-eagles.json) |
 | Eagles Expedition | 143933 | [143933-eagles-expedition.json](./143933-eagles-expedition.json) |
 | Eagles of World War 2 | 294106 | [294106-eagles-of-world-war-2.json](./294106-eagles-of-world-war-2.json) |
 | Eagles Strike | 59314 | [59314-eagles-strike.json](./59314-eagles-strike.json) |
@@ -4557,6 +4558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EOS Black | 393554 | [393554-eos-black.json](./393554-eos-black.json) |
 | EOS RED | 299201 | [299201-eos-red.json](./299201-eos-red.json) |
 | EOS-503 | 256991 | [256991-eos-503.json](./256991-eos-503.json) |
+| EOS: Earth Orbit Stations | 39745 | [39745-eos-earth-orbit-stations.json](./39745-eos-earth-orbit-stations.json) |
 | EOS: Edge of Skyhigh | 43798 | [43798-eos-edge-of-skyhigh.json](./43798-eos-edge-of-skyhigh.json) |
 | eOthello | 277283 | [277283-eothello.json](./277283-eothello.json) |
 | Ep. Kazoku | 266005 | [266005-ep-kazoku.json](./266005-ep-kazoku.json) |
