@@ -14112,6 +14112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Furry Immersion | 227608 | [227608-furry-immersion.json](./227608-furry-immersion.json) |
 | Furry Killer | 226143 | [226143-furry-killer.json](./226143-furry-killer.json) |
 | Furry Knight Break | 221479 | [221479-furry-knight-break.json](./221479-furry-knight-break.json) |
+| Furry Legends: Beginnings | 67733 | [67733-furry-legends-beginnings.json](./67733-furry-legends-beginnings.json) |
 | Furry Love | 137228 | [137228-furry-love.json](./137228-furry-love.json) |
 | Furry Love | 266571 | [266571-furry-love.json](./266571-furry-love.json) |
 | Furry Love & Sex | 221197 | [221197-furry-love-and-sex.json](./221197-furry-love-and-sex.json) |
