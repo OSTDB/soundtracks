@@ -4995,6 +4995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Our Homeland | 126235 | [126235-our-homeland.json](./126235-our-homeland.json) |
 | Our House | 120011 | [120011-our-house.json](./120011-our-house.json) |
 | Our House | 72784 | [72784-our-house.json](./72784-our-house.json) |
+| Our House: Party! | 50666 | [50666-our-house-party.json](./50666-our-house-party.json) |
 | Our Journey | 279267 | [279267-our-journey.json](./279267-our-journey.json) |
 | Our Journey: The Silent Voice | 355328 | [355328-our-journey-the-silent-voice.json](./355328-our-journey-the-silent-voice.json) |
 | Our Journeys 3 ~ A Collection of Visual Novels | 132941 | [132941-our-journeys-3-a-collection-of-visual-novels.json](./132941-our-journeys-3-a-collection-of-visual-novels.json) |
