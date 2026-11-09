@@ -2599,6 +2599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dashin' Desperadoes | 46247 | [46247-dashin-desperadoes.json](./46247-dashin-desperadoes.json) |
 | Dashing Adventurer | 201997 | [201997-dashing-adventurer.json](./201997-dashing-adventurer.json) |
 | Dashing Dasher | 332276 | [332276-dashing-dasher.json](./332276-dashing-dasher.json) |
+| Dashing Dinos | 33185 | [33185-dashing-dinos.json](./33185-dashing-dinos.json) |
 | Dashing Dinosaurs & Sexy Centaurs | 116734 | [116734-dashing-dinosaurs-and-sexy-centaurs.json](./116734-dashing-dinosaurs-and-sexy-centaurs.json) |
 | Dashing Dinosaurs & Sexy Centaurs: Winter's Tale | 126404 | [126404-dashing-dinosaurs-and-sexy-centaurs-winters-tale.json](./126404-dashing-dinosaurs-and-sexy-centaurs-winters-tale.json) |
 | Dashing Dinosaurs & Sexy Centaurs: Winter's Tale 2 | 227868 | [227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json](./227868-dashing-dinosaurs-and-sexy-centaurs-winters-tale-2.json) |
@@ -7825,6 +7826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destination: Dragons! | 292819 | [292819-destination-dragons.json](./292819-destination-dragons.json) |
 | Destination: Mars! | 72101 | [72101-destination-mars.json](./72101-destination-mars.json) |
 | Destination: The Planet | 327080 | [327080-destination-the-planet.json](./327080-destination-the-planet.json) |
+| Destinations | 33258 | [33258-destinations.json](./33258-destinations.json) |
 | Destind: Mr. Almost Right | 239209 | [239209-destind-mr-almost-right.json](./239209-destind-mr-almost-right.json) |
 | Destined | 100708 | [100708-destined.json](./100708-destined.json) |
 | Destined Corp: Awakening | 349974 | [349974-destined-corp-awakening.json](./349974-destined-corp-awakening.json) |
@@ -12650,6 +12652,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dolos: Your Best Future | 251744 | [251744-dolos-your-best-future.json](./251744-dolos-your-best-future.json) |
 | Dolphin | 22733 | [22733-dolphin.json](./22733-dolphin.json) |
 | Dolphin Blue | 3114 | [3114-dolphin-blue.json](./3114-dolphin-blue.json) |
+| Dolphin Defense | 33193 | [33193-dolphin-defense.json](./33193-dolphin-defense.json) |
 | Dolphin Hustle | 200172 | [200172-dolphin-hustle.json](./200172-dolphin-hustle.json) |
 | Dolphin Island 2 | 177345 | [177345-dolphin-island-2.json](./177345-dolphin-island-2.json) |
 | Dolphin Island: Underwater Adventures | 122510 | [122510-dolphin-island-underwater-adventures.json](./122510-dolphin-island-underwater-adventures.json) |
