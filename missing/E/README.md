@@ -762,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ecclesia Online | 143452 | [143452-ecclesia-online.json](./143452-ecclesia-online.json) |
 | Ecco 2: Sentinels of the Universe | 19682 | [19682-ecco-2-sentinels-of-the-universe.json](./19682-ecco-2-sentinels-of-the-universe.json) |
 | Ecco Jr. | 6665 | [6665-ecco-jr.json](./6665-ecco-jr.json) |
+| Ecco Jr. and The Great Ocean Treasure Hunt! | 66228 | [66228-ecco-jr-and-the-great-ocean-treasure-hunt.json](./66228-ecco-jr-and-the-great-ocean-treasure-hunt.json) |
 | Ecco the Dolphin | 198614 | [198614-ecco-the-dolphin.json](./198614-ecco-the-dolphin.json) |
 | Ecco the Dolphin | 237309 | [237309-ecco-the-dolphin.json](./237309-ecco-the-dolphin.json) |
 | Ecco the Dolphin | 388157 | [388157-ecco-the-dolphin.json](./388157-ecco-the-dolphin.json) |
@@ -4598,6 +4599,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Dumpster Bear 1.5 DX: Dumpster Fire Rebirth | 290824 | [290824-epic-dumpster-bear-1-5-dx-dumpster-fire-rebirth.json](./290824-epic-dumpster-bear-1-5-dx-dumpster-fire-rebirth.json) |
 | Epic Dumpster Bear 2: He Who Bears Wins | 135146 | [135146-epic-dumpster-bear-2-he-who-bears-wins.json](./135146-epic-dumpster-bear-2-he-who-bears-wins.json) |
 | Epic Dumpster Bear: Dumpster Fire Redux | 99461 | [99461-epic-dumpster-bear-dumpster-fire-redux.json](./99461-epic-dumpster-bear-dumpster-fire-redux.json) |
+| Epic Dungeon | 66241 | [66241-epic-dungeon.json](./66241-epic-dungeon.json) |
 | Epic Empire | 318732 | [318732-epic-empire.json](./318732-epic-empire.json) |
 | Epic Eon | 280337 | [280337-epic-eon.json](./280337-epic-eon.json) |
 | Epic Escapes Dark Seas, Mysteries of Ancient Inventors Atlantis, Elementary My Dear Majesty | 201273 | [201273-epic-escapes-dark-seas-mysteries-of-ancient-inventors-atlantis-elementary-my-dear-majesty.json](./201273-epic-escapes-dark-seas-mysteries-of-ancient-inventors-atlantis-elementary-my-dear-majesty.json) |
