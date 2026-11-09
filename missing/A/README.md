@@ -2561,6 +2561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Access: EnTree | 312667 | [312667-access-entree.json](./312667-access-entree.json) |
 | Accessible MasterMind | 175523 | [175523-accessible-mastermind.json](./175523-accessible-mastermind.json) |
 | AcChen | 175581 | [175581-acchen.json](./175581-acchen.json) |
+| AcChen: Tile matching the Arcade way | 76814 | [76814-acchen-tile-matching-the-arcade-way.json](./76814-acchen-tile-matching-the-arcade-way.json) |
 | Accident | 202774 | [202774-accident.json](./202774-accident.json) |
 | Accident | 97907 | [97907-accident.json](./97907-accident.json) |
 | Accident Investigator Simulator: Black Box | 412789 | [412789-accident-investigator-simulator-black-box.json](./412789-accident-investigator-simulator-black-box.json) |
@@ -9629,6 +9630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ancient Taxi | 91557 | [91557-ancient-taxi.json](./91557-ancient-taxi.json) |
 | Ancient TD | 363062 | [363062-ancient-td.json](./363062-ancient-td.json) |
 | Ancient Totems | 303163 | [303163-ancient-totems.json](./303163-ancient-totems.json) |
+| Ancient Treasure | 76806 | [76806-ancient-treasure.json](./76806-ancient-treasure.json) |
 | Ancient Tribe | 84886 | [84886-ancient-tribe.json](./84886-ancient-tribe.json) |
 | Ancient TriPeaks | 202099 | [202099-ancient-tripeaks.json](./202099-ancient-tripeaks.json) |
 | Ancient TriPeaks & Ancient Spiders | 202056 | [202056-ancient-tripeaks-and-ancient-spiders.json](./202056-ancient-tripeaks-and-ancient-spiders.json) |
@@ -9995,6 +9997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Angle of Attack | 377098 | [377098-angle-of-attack.json](./377098-angle-of-attack.json) |
 | Angle Soccer | 168494 | [168494-angle-soccer.json](./168494-angle-soccer.json) |
 | Angle Wars | 132598 | [132598-angle-wars.json](./132598-angle-wars.json) |
+| Angle Worms / Crolon Diversion | 76864 | [76864-angle-worms-crolon-diversion.json](./76864-angle-worms-crolon-diversion.json) |
 | Angle. | 261162 | [261162-angle.json](./261162-angle.json) |
 | Angleball | 41697 | [41697-angleball.json](./41697-angleball.json) |
 | Angler Dangler | 386681 | [386681-angler-dangler.json](./386681-angler-dangler.json) |
@@ -17184,6 +17187,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
