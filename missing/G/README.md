@@ -1288,6 +1288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game Cafe | 297851 | [297851-game-cafe.json](./297851-game-cafe.json) |
 | Game Cafe Escape | 261881 | [261881-game-cafe-escape.json](./261881-game-cafe-escape.json) |
 | Game Center Club | 197636 | [197636-game-center-club.json](./197636-game-center-club.json) |
+| Game Center USA: Midway Arcade Treasures | 57234 | [57234-game-center-usa-midway-arcade-treasures.json](./57234-game-center-usa-midway-arcade-treasures.json) |
 | Game Chest: Board Games | 100253 | [100253-game-chest-board-games.json](./100253-game-chest-board-games.json) |
 | Game Chest: Card | 91832 | [91832-game-chest-card.json](./91832-game-chest-card.json) |
 | Game Chest: Logic Games | 100252 | [100252-game-chest-logic-games.json](./100252-game-chest-logic-games.json) |
@@ -1949,6 +1950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden of Merging Numbers | 342398 | [342398-garden-of-merging-numbers.json](./342398-garden-of-merging-numbers.json) |
 | Garden of Mooj | 118061 | [118061-garden-of-mooj.json](./118061-garden-of-mooj.json) |
 | Garden of Oblivion | 387155 | [387155-garden-of-oblivion.json](./387155-garden-of-oblivion.json) |
+| Garden of Oblivion | 57207 | [57207-garden-of-oblivion.json](./57207-garden-of-oblivion.json) |
 | Garden of Pets | 233004 | [233004-garden-of-pets.json](./233004-garden-of-pets.json) |
 | Garden of Pizzlerat | 250818 | [250818-garden-of-pizzlerat.json](./250818-garden-of-pizzlerat.json) |
 | Garden of Roses: Summerset | 244917 | [244917-garden-of-roses-summerset.json](./244917-garden-of-roses-summerset.json) |
@@ -7811,6 +7813,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Graahl: Of Feather and Grit | 109549 | [109549-graahl-of-feather-and-grit.json](./109549-graahl-of-feather-and-grit.json) |
 | Graal Online | 59634 | [59634-graal-online.json](./59634-graal-online.json) |
 | Graal Online: Graal Kingdoms | 177651 | [177651-graal-online-graal-kingdoms.json](./177651-graal-online-graal-kingdoms.json) |
+| GraalOnline Classic | 57224 | [57224-graalonline-classic.json](./57224-graalonline-classic.json) |
 | GraalOnline Classic+ | 38871 | [38871-graalonline-classic.json](./38871-graalonline-classic.json) |
 | GraalOnline Era | 55842 | [55842-graalonline-era.json](./55842-graalonline-era.json) |
 | GraalOnline: Delteria | 82153 | [82153-graalonline-delteria.json](./82153-graalonline-delteria.json) |
@@ -11653,6 +11656,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guntica | 137411 | [137411-guntica.json](./137411-guntica.json) |
 | Guntris | 311824 | [311824-guntris.json](./311824-guntris.json) |
 | Guntu Western Front June, 1944 | 62288 | [62288-guntu-western-front-june-1944.json](./62288-guntu-western-front-june-1944.json) |
+| Gunvari Collection + Time Crisis | 57233 | [57233-gunvari-collection-time-crisis.json](./57233-gunvari-collection-time-crisis.json) |
 | Gunvein | 211693 | [211693-gunvein.json](./211693-gunvein.json) |
 | GunViper | 269484 | [269484-gunviper.json](./269484-gunviper.json) |
 | Gunvolt Chronicles: Luminous Avenger iX | 101177 | [101177-gunvolt-chronicles-luminous-avenger-ix.json](./101177-gunvolt-chronicles-luminous-avenger-ix.json) |
