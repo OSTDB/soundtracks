@@ -5119,6 +5119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega 3D Fukkoku Archives | 60943 | [60943-sega-3d-fukkoku-archives.json](./60943-sega-3d-fukkoku-archives.json) |
 | Sega 3D Fukkoku Archives 1-2-3 Triple Pack | 74275 | [74275-sega-3d-fukkoku-archives-1-2-3-triple-pack.json](./74275-sega-3d-fukkoku-archives-1-2-3-triple-pack.json) |
 | Sega 3D Fukkoku Archives 1+2 Double Pack | 77639 | [77639-sega-3d-fukkoku-archives-1-2-double-pack.json](./77639-sega-3d-fukkoku-archives-1-2-double-pack.json) |
+| Sega 3D Fukkoku Archives 3: Final Stage | 57880 | [57880-sega-3d-fukkoku-archives-3-final-stage.json](./57880-sega-3d-fukkoku-archives-3-final-stage.json) |
 | Sega Ages 2500 Series Vol. 33: Fantasy Zone Complete Collection | 64899 | [64899-sega-ages-2500-series-vol-33-fantasy-zone-complete-collection.json](./64899-sega-ages-2500-series-vol-33-fantasy-zone-complete-collection.json) |
 | Sega Ages 2500 Vol. 1: Phantasy Star Generation - 1 | 43454 | [43454-sega-ages-2500-vol-1-phantasy-star-generation-1.json](./43454-sega-ages-2500-vol-1-phantasy-star-generation-1.json) |
 | Sega Ages 2500 Vol. 10: After Burner II | 64900 | [64900-sega-ages-2500-vol-10-after-burner-ii.json](./64900-sega-ages-2500-vol-10-after-burner-ii.json) |
@@ -12915,6 +12916,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skullz | 178551 | [178551-skullz.json](./178551-skullz.json) |
 | Skumring | 90228 | [90228-skumring.json](./90228-skumring.json) |
 | SkunkHunter 101 | 169590 | [169590-skunkhunter-101.json](./169590-skunkhunter-101.json) |
+| Skunky B's Super Slots Saga #1 | 57867 | [57867-skunky-bs-super-slots-saga-1.json](./57867-skunky-bs-super-slots-saga-1.json) |
 | Skunny Kart | 46731 | [46731-skunny-kart.json](./46731-skunny-kart.json) |
 | Skunny: Back to the Forest | 71286 | [71286-skunny-back-to-the-forest.json](./71286-skunny-back-to-the-forest.json) |
 | Skunny: In the Wild West | 70791 | [70791-skunny-in-the-wild-west.json](./70791-skunny-in-the-wild-west.json) |
