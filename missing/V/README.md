@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vader Immortal: Episode I | 110419 | [110419-vader-immortal-episode-i.json](./110419-vader-immortal-episode-i.json) |
 | Vader Immortal: Episode II | 122633 | [122633-vader-immortal-episode-ii.json](./122633-vader-immortal-episode-ii.json) |
 | Vader Immortal: Lightsaber Dojo - A Star Wars VR Experience | 150053 | [150053-vader-immortal-lightsaber-dojo-a-star-wars-vr-experience.json](./150053-vader-immortal-lightsaber-dojo-a-star-wars-vr-experience.json) |
+| Vaders | 54554 | [54554-vaders.json](./54554-vaders.json) |
 | Vadi | 265107 | [265107-vadi.json](./265107-vadi.json) |
 | Vadine: Bite-Man | 103972 | [103972-vadine-bite-man.json](./103972-vadine-bite-man.json) |
 | Vae Victis | 250988 | [250988-vae-victis.json](./250988-vae-victis.json) |
