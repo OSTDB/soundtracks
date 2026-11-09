@@ -7660,6 +7660,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pip's Tale | 382449 | [382449-pips-tale.json](./382449-pips-tale.json) |
 | Pipe | 187747 | [187747-pipe.json](./187747-pipe.json) |
 | Pipe | 358445 | [358445-pipe.json](./358445-pipe.json) |
+| Pipe | 57798 | [57798-pipe.json](./57798-pipe.json) |
 | Pipe Ball | 197732 | [197732-pipe-ball.json](./197732-pipe-ball.json) |
 | Pipe by BMX Streets | 89977 | [89977-pipe-by-bmx-streets.json](./89977-pipe-by-bmx-streets.json) |
 | Pipe connect | 193087 | [193087-pipe-connect.json](./193087-pipe-connect.json) |
@@ -8773,6 +8774,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Variety Pack XL | 234531 | [234531-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-xl.json](./234531-pixel-puzzles-illustrations-and-anime-jigsaw-pack-variety-pack-xl.json) |
 | Pixel Puzzles: Illustrations & Anime - Jigsaw Pack: Zombies | 162941 | [162941-pixel-puzzles-illustrations-and-anime-jigsaw-pack-zombies.json](./162941-pixel-puzzles-illustrations-and-anime-jigsaw-pack-zombies.json) |
 | Pixel Quest | 246099 | [246099-pixel-quest.json](./246099-pixel-quest.json) |
+| Pixel Quest | 57309 | [57309-pixel-quest.json](./57309-pixel-quest.json) |
 | Pixel Quest: Guild | 423877 | [423877-pixel-quest-guild.json](./423877-pixel-quest-guild.json) |
 | Pixel Quest: Lost Relics | 304560 | [304560-pixel-quest-lost-relics.json](./304560-pixel-quest-lost-relics.json) |
 | Pixel Quest: Realm Eater | 338344 | [338344-pixel-quest-realm-eater.json](./338344-pixel-quest-realm-eater.json) |
@@ -9542,6 +9544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet of Crawlers | 151966 | [151966-planet-of-crawlers.json](./151966-planet-of-crawlers.json) |
 | Planet of Cubes | 182056 | [182056-planet-of-cubes.json](./182056-planet-of-cubes.json) |
 | Planet of Cubes Survival Games | 88442 | [88442-planet-of-cubes-survival-games.json](./88442-planet-of-cubes-survival-games.json) |
+| Planet of Heroes | 57808 | [57808-planet-of-heroes.json](./57808-planet-of-heroes.json) |
 | Planet of Lana Collection | 393897 | [393897-planet-of-lana-collection.json](./393897-planet-of-lana-collection.json) |
 | Planet of Lana II: Children of the Leaf | 348200 | [348200-planet-of-lana-ii-children-of-the-leaf.json](./348200-planet-of-lana-ii-children-of-the-leaf.json) |
 | Planet of Luck | 137238 | [137238-planet-of-luck.json](./137238-planet-of-luck.json) |
@@ -10049,6 +10052,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Play Dice | 277867 | [277867-play-dice.json](./277867-play-dice.json) |
 | Play Disney Parks | 225352 | [225352-play-disney-parks.json](./225352-play-disney-parks.json) |
 | Play Dog Play Tag | 119271 | [119271-play-dog-play-tag.json](./119271-play-dog-play-tag.json) |
+| Play English | 57316 | [57316-play-english.json](./57316-play-english.json) |
 | Play Faster | 401781 | [401781-play-faster.json](./401781-play-faster.json) |
 | Play Fire: Battle Royale | 221381 | [221381-play-fire-battle-royale.json](./221381-play-fire-battle-royale.json) |
 | Play for Granny Grandpa Part 4 | 248173 | [248173-play-for-granny-grandpa-part-4.json](./248173-play-for-granny-grandpa-part-4.json) |
@@ -14771,6 +14775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Primal Hunt | 233017 | [233017-primal-hunt.json](./233017-primal-hunt.json) |
 | Primal Image Vol.1 | 67313 | [67313-primal-image-vol-1.json](./67313-primal-image-vol-1.json) |
 | Primal Lands | 50517 | [50517-primal-lands.json](./50517-primal-lands.json) |
+| Primal Legends | 57804 | [57804-primal-legends.json](./57804-primal-legends.json) |
 | Primal Light | 122794 | [122794-primal-light.json](./122794-primal-light.json) |
 | Primal Man Simulator | 149560 | [149560-primal-man-simulator.json](./149560-primal-man-simulator.json) |
 | Primal Omen | 216950 | [216950-primal-omen.json](./216950-primal-omen.json) |
@@ -18490,6 +18495,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Push Through Hell | 373141 | [373141-push-through-hell.json](./373141-push-through-hell.json) |
 | Push to Win | 352394 | [352394-push-to-win.json](./352394-push-to-win.json) |
 | Push Your Family | 139674 | [139674-push-your-family.json](./139674-push-your-family.json) |
+| Push-Bot | 57809 | [57809-push-bot.json](./57809-push-bot.json) |
 | Push-Cars | 175752 | [175752-push-cars.json](./175752-push-cars.json) |
 | Push-Cars 2: On Europe Streets | 350462 | [350462-push-cars-2-on-europe-streets.json](./350462-push-cars-2-on-europe-streets.json) |
 | Push-Up T-Rex | 243709 | [243709-push-up-t-rex.json](./243709-push-up-t-rex.json) |
@@ -19103,6 +19109,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Series Vol. 2: Crossword | 83304 | [83304-puzzle-series-vol-2-crossword.json](./83304-puzzle-series-vol-2-crossword.json) |
 | Puzzle Series Vol. 2: Illust Logic + Colourful Logic | 85359 | [85359-puzzle-series-vol-2-illust-logic-colourful-logic.json](./85359-puzzle-series-vol-2-illust-logic-colourful-logic.json) |
 | Puzzle Series Vol. 3: Sudoku | 269954 | [269954-puzzle-series-vol-3-sudoku.json](./269954-puzzle-series-vol-3-sudoku.json) |
+| Puzzle Series Vol. 6: Illust Logic | 57305 | [57305-puzzle-series-vol-6-illust-logic.json](./57305-puzzle-series-vol-6-illust-logic.json) |
 | Puzzle Series Vol. 7: Crossword 2 | 83301 | [83301-puzzle-series-vol-7-crossword-2.json](./83301-puzzle-series-vol-7-crossword-2.json) |
 | Puzzle Series Vol. 8: Nankuro | 83407 | [83407-puzzle-series-vol-8-nankuro.json](./83407-puzzle-series-vol-8-nankuro.json) |
 | Puzzle Series Vol. 9: Sudoku 2 Deluxe | 83411 | [83411-puzzle-series-vol-9-sudoku-2-deluxe.json](./83411-puzzle-series-vol-9-sudoku-2-deluxe.json) |
