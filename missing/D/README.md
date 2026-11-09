@@ -16862,6 +16862,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamals | 32516 | [32516-dreamals.json](./32516-dreamals.json) |
 | Dreamals: Dream Quest | 43086 | [43086-dreamals-dream-quest.json](./43086-dreamals-dream-quest.json) |
 | DreaMarbleng | 166574 | [166574-dreamarbleng.json](./166574-dreamarbleng.json) |
+| Dreamatorium of Dr Magnus | 10244 | [10244-dreamatorium-of-dr-magnus.json](./10244-dreamatorium-of-dr-magnus.json) |
 | Dreamau Adventures | 188345 | [188345-dreamau-adventures.json](./188345-dreamau-adventures.json) |
 | DreamBack VR | 115932 | [115932-dreamback-vr.json](./115932-dreamback-vr.json) |
 | DreamBall | 126193 | [126193-dreamball.json](./126193-dreamball.json) |
@@ -17071,6 +17072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | DreamScapes Dimensions | 189339 | [189339-dreamscapes-dimensions.json](./189339-dreamscapes-dimensions.json) |
 | Dreamscapes: Nightmare's Heir | 59908 | [59908-dreamscapes-nightmares-heir.json](./59908-dreamscapes-nightmares-heir.json) |
 | Dreamscapes: The Full Journey | 410379 | [410379-dreamscapes-the-full-journey.json](./410379-dreamscapes-the-full-journey.json) |
+| Dreamscapes: The Sandman | 10246 | [10246-dreamscapes-the-sandman.json](./10246-dreamscapes-the-sandman.json) |
 | Dreamscapes: The Sandman - Collector's Edition | 356189 | [356189-dreamscapes-the-sandman-collectors-edition.json](./356189-dreamscapes-the-sandman-collectors-edition.json) |
 | Dreamscapes: The Sandman - Premium Edition | 36383 | [36383-dreamscapes-the-sandman-premium-edition.json](./36383-dreamscapes-the-sandman-premium-edition.json) |
 | DreamScript | 158050 | [158050-dreamscript.json](./158050-dreamscript.json) |
@@ -17581,6 +17583,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Driving Simulator 2009 | 27484 | [27484-driving-simulator-2009.json](./27484-driving-simulator-2009.json) |
 | Driving Simulator 2011 | 51254 | [51254-driving-simulator-2011.json](./51254-driving-simulator-2011.json) |
 | Driving Simulator 2012 | 52943 | [52943-driving-simulator-2012.json](./52943-driving-simulator-2012.json) |
+| Driving Simulator 2013 | 10249 | [10249-driving-simulator-2013.json](./10249-driving-simulator-2013.json) |
 | Driving Speed HD | 232332 | [232332-driving-speed-hd.json](./232332-driving-speed-hd.json) |
 | Driving Speed Pro | 261946 | [261946-driving-speed-pro.json](./261946-driving-speed-pro.json) |
 | Driving Theory Training | 72620 | [72620-driving-theory-training.json](./72620-driving-theory-training.json) |
@@ -18866,6 +18869,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Dare | 14043 | [14043-dungeon-dare.json](./14043-dungeon-dare.json) |
 | Dungeon Darkness | 176215 | [176215-dungeon-darkness.json](./176215-dungeon-darkness.json) |
 | Dungeon Dash: Tales of the Necromancer | 239830 | [239830-dungeon-dash-tales-of-the-necromancer.json](./239830-dungeon-dash-tales-of-the-necromancer.json) |
+| Dungeon Dashers | 10252 | [10252-dungeon-dashers.json](./10252-dungeon-dashers.json) |
 | Dungeon Dealer | 179064 | [179064-dungeon-dealer.json](./179064-dungeon-dealer.json) |
 | Dungeon Death | 190480 | [190480-dungeon-death.json](./190480-dungeon-death.json) |
 | Dungeon Deathball | 102922 | [102922-dungeon-deathball.json](./102922-dungeon-deathball.json) |
@@ -19325,6 +19329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeonborne Settlement | 366740 | [366740-dungeonborne-settlement.json](./366740-dungeonborne-settlement.json) |
 | Dungeonborne: Mithril Satchel | 382563 | [382563-dungeonborne-mithril-satchel.json](./382563-dungeonborne-mithril-satchel.json) |
 | Dungeonbound | 422022 | [422022-dungeonbound.json](./422022-dungeonbound.json) |
+| Dungeonbowl | 10251 | [10251-dungeonbowl.json](./10251-dungeonbowl.json) |
 | Dungeonbowl: Knockout Edition | 28084 | [28084-dungeonbowl-knockout-edition.json](./28084-dungeonbowl-knockout-edition.json) |
 | DungeonBox | 355028 | [355028-dungeonbox.json](./355028-dungeonbox.json) |
 | Dungeoncraft | 35249 | [35249-dungeoncraft.json](./35249-dungeoncraft.json) |
@@ -19596,6 +19601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeons: Collector's Edition | 138088 | [138088-dungeons-collectors-edition.json](./138088-dungeons-collectors-edition.json) |
 | Dungeons: Game of the Year Edition | 138052 | [138052-dungeons-game-of-the-year-edition.json](./138052-dungeons-game-of-the-year-edition.json) |
 | Dungeons: Gold Edition | 52931 | [52931-dungeons-gold-edition.json](./52931-dungeons-gold-edition.json) |
+| Dungeons: Into the Dark | 10266 | [10266-dungeons-into-the-dark.json](./10266-dungeons-into-the-dark.json) |
 | Dungeons: Map Pack | 138049 | [138049-dungeons-map-pack.json](./138049-dungeons-map-pack.json) |
 | Dungeons: Steam Special Edition | 90477 | [90477-dungeons-steam-special-edition.json](./90477-dungeons-steam-special-edition.json) |
 | Dungeons: The Dark Lord | 8850 | [8850-dungeons-the-dark-lord.json](./8850-dungeons-the-dark-lord.json) |
