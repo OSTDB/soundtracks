@@ -6023,6 +6023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hero Dice | 196403 | [196403-hero-dice.json](./196403-hero-dice.json) |
 | Hero Dream of School | 114289 | [114289-hero-dream-of-school.json](./114289-hero-dream-of-school.json) |
 | Hero Emblem 2 | 82712 | [82712-hero-emblem-2.json](./82712-hero-emblem-2.json) |
+| Hero Emblems | 58397 | [58397-hero-emblems.json](./58397-hero-emblems.json) |
 | Hero Emblems II | 114777 | [114777-hero-emblems-ii.json](./114777-hero-emblems-ii.json) |
 | Hero Evolution | 105481 | [105481-hero-evolution.json](./105481-hero-evolution.json) |
 | Hero Express | 120041 | [120041-hero-express.json](./120041-hero-express.json) |
@@ -11221,6 +11222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hototogisu Tairan 1553: Ryuko Aiutsu | 108779 | [108779-hototogisu-tairan-1553-ryuko-aiutsu.json](./108779-hototogisu-tairan-1553-ryuko-aiutsu.json) |
 | Hototogisu Tairan 1553: Ryuuko Aiutsu | 85835 | [85835-hototogisu-tairan-1553-ryuuko-aiutsu.json](./85835-hototogisu-tairan-1553-ryuuko-aiutsu.json) |
 | Hotpot Defense | 348245 | [348245-hotpot-defense.json](./348245-hotpot-defense.json) |
+| Hotprops | 58929 | [58929-hotprops.json](./58929-hotprops.json) |
 | HotPuzzle: Video | 368518 | [368518-hotpuzzle-video.json](./368518-hotpuzzle-video.json) |
 | HOTS: Heart of the Sand | 184019 | [184019-hots-heart-of-the-sand.json](./184019-hots-heart-of-the-sand.json) |
 | Hotshot | 313805 | [313805-hotshot.json](./313805-hotshot.json) |
@@ -12425,6 +12427,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter Survivors | 204824 | [204824-hunter-survivors.json](./204824-hunter-survivors.json) |
 | Hunter W | 208751 | [208751-hunter-w.json](./208751-hunter-w.json) |
 | Hunter x Hunter: Arena Battle | 122017 | [122017-hunter-x-hunter-arena-battle.json](./122017-hunter-x-hunter-arena-battle.json) |
+| Hunter x Hunter: Battle Allstars | 58385 | [58385-hunter-x-hunter-battle-allstars.json](./58385-hunter-x-hunter-battle-allstars.json) |
 | Hunter X Hunter: Hunter no Keifu | 65245 | [65245-hunter-x-hunter-hunter-no-keifu.json](./65245-hunter-x-hunter-hunter-no-keifu.json) |
 | Hunter X Hunter: Ishi o Tsugomono | 37503 | [37503-hunter-x-hunter-ishi-o-tsugomono.json](./37503-hunter-x-hunter-ishi-o-tsugomono.json) |
 | Hunter X Hunter: Kindan no Hihou | 62309 | [62309-hunter-x-hunter-kindan-no-hihou.json](./62309-hunter-x-hunter-kindan-no-hihou.json) |
