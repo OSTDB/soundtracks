@@ -1999,6 +1999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ranphon | 258623 | [258623-ranphon.json](./258623-ranphon.json) |
 | Ransack Raccoon | 165766 | [165766-ransack-raccoon.json](./165766-ransack-raccoon.json) |
 | Ransacked | 184215 | [184215-ransacked.json](./184215-ransacked.json) |
+| Ransei no Hasha | 46069 | [46069-ransei-no-hasha.json](./46069-ransei-no-hasha.json) |
 | Ransomware Dating Sim | 124221 | [124221-ransomware-dating-sim.json](./124221-ransomware-dating-sim.json) |
 | Rantou Proresu | 83211 | [83211-rantou-proresu.json](./83211-rantou-proresu.json) |
 | Ranveer vs. Wild With Bear Grylls | 256869 | [256869-ranveer-vs-wild-with-bear-grylls.json](./256869-ranveer-vs-wild-with-bear-grylls.json) |
@@ -3741,6 +3742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Recontact London: Cyber Puzzle | 160244 | [160244-recontact-london-cyber-puzzle.json](./160244-recontact-london-cyber-puzzle.json) |
 | Record Life | 126307 | [126307-record-life.json](./126307-record-life.json) |
 | Record of Agarest War | 7158 | [7158-record-of-agarest-war.json](./7158-record-of-agarest-war.json) |
+| Record of Agarest War 2 | 46031 | [46031-record-of-agarest-war-2.json](./46031-record-of-agarest-war-2.json) |
 | Record of Agarest War 2: Limited Edition | 44564 | [44564-record-of-agarest-war-2-limited-edition.json](./44564-record-of-agarest-war-2-limited-edition.json) |
 | Record of Agarest War Mariage | 46015 | [46015-record-of-agarest-war-mariage.json](./46015-record-of-agarest-war-mariage.json) |
 | Record of Agarest War Zero | 7157 | [7157-record-of-agarest-war-zero.json](./7157-record-of-agarest-war-zero.json) |
@@ -8238,6 +8240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Risen 2: Dark Waters - The Air Temple | 53512 | [53512-risen-2-dark-waters-the-air-temple.json](./53512-risen-2-dark-waters-the-air-temple.json) |
 | Risen 2: Dark Waters - Treasure Isle | 168570 | [168570-risen-2-dark-waters-treasure-isle.json](./168570-risen-2-dark-waters-treasure-isle.json) |
 | Risen 2: Dark Waters - Treasure Isle | 53513 | [53513-risen-2-dark-waters-treasure-isle.json](./53513-risen-2-dark-waters-treasure-isle.json) |
+| Risen 2: Dark Waters Special Edition | 46032 | [46032-risen-2-dark-waters-special-edition.json](./46032-risen-2-dark-waters-special-edition.json) |
 | Risen 3: Fog Island | 238516 | [238516-risen-3-fog-island.json](./238516-risen-3-fog-island.json) |
 | Risen 3: Titan Lords | 6142 | [6142-risen-3-titan-lords.json](./6142-risen-3-titan-lords.json) |
 | Risen 3: Titan Lords - Complete Edition | 51872 | [51872-risen-3-titan-lords-complete-edition.json](./51872-risen-3-titan-lords-complete-edition.json) |
