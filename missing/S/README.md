@@ -525,6 +525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saga | 21484 | [21484-saga.json](./21484-saga.json) |
 | Saga | 266812 | [266812-saga.json](./266812-saga.json) |
 | SaGa 2: A Haniwa's Contingency | 360104 | [360104-saga-2-a-haniwas-contingency.json](./360104-saga-2-a-haniwas-contingency.json) |
+| SaGa 2: Hihou Densetsu - Goddess of Destiny | 62328 | [62328-saga-2-hihou-densetsu-goddess-of-destiny.json](./62328-saga-2-hihou-densetsu-goddess-of-destiny.json) |
 | SaGa 3: Jikuu no Hasha - Shadow or Light | 66404 | [66404-saga-3-jikuu-no-hasha-shadow-or-light.json](./66404-saga-3-jikuu-no-hasha-shadow-or-light.json) |
 | Saga Cube | 220493 | [220493-saga-cube.json](./220493-saga-cube.json) |
 | SaGa Frontier 2 | 2353 | [2353-saga-frontier-2.json](./2353-saga-frontier-2.json) |
@@ -7498,6 +7499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanghai | 358738 | [358738-shanghai.json](./358738-shanghai.json) |
 | Shanghai | 64739 | [64739-shanghai.json](./64739-shanghai.json) |
 | Shanghai Advance | 49782 | [49782-shanghai-advance.json](./49782-shanghai-advance.json) |
+| Shanghai Amigo | 62292 | [62292-shanghai-amigo.json](./62292-shanghai-amigo.json) |
 | Shanghai Double Pack | 128644 | [128644-shanghai-double-pack.json](./128644-shanghai-double-pack.json) |
 | Shanghai Dragon | 331987 | [331987-shanghai-dragon.json](./331987-shanghai-dragon.json) |
 | Shanghai DS | 84855 | [84855-shanghai-ds.json](./84855-shanghai-ds.json) |
@@ -10764,6 +10766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent grill | 179878 | [179878-silent-grill.json](./179878-silent-grill.json) |
 | Silent Harbor | 236748 | [236748-silent-harbor.json](./236748-silent-harbor.json) |
 | Silent Harmony | 394479 | [394479-silent-harmony.json](./394479-silent-harmony.json) |
+| Silent Heroes: Elite Troups of WWII | 62302 | [62302-silent-heroes-elite-troups-of-wwii.json](./62302-silent-heroes-elite-troups-of-wwii.json) |
 | Silent Hill | 349441 | [349441-silent-hill.json](./349441-silent-hill.json) |
 | Silent Hill 2: 20th Anniversary Demake | 286880 | [286880-silent-hill-2-20th-anniversary-demake.json](./286880-silent-hill-2-20th-anniversary-demake.json) |
 | Silent Hill 2: Born From A Wish Demake | 342983 | [342983-silent-hill-2-born-from-a-wish-demake.json](./342983-silent-hill-2-born-from-a-wish-demake.json) |
@@ -13823,6 +13826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sleight of Hand | 289694 | [289694-sleight-of-hand.json](./289694-sleight-of-hand.json) |
 | Sleight: Nerve Wracking Espionage Party Game | 110740 | [110740-sleight-nerve-wracking-espionage-party-game.json](./110740-sleight-nerve-wracking-espionage-party-game.json) |
 | Slemmings | 184383 | [184383-slemmings.json](./184383-slemmings.json) |
+| Slender Girl Dash: Scared Nightmare Pursuit in Jungle Darkness | 62293 | [62293-slender-girl-dash-scared-nightmare-pursuit-in-jungle-darkness.json](./62293-slender-girl-dash-scared-nightmare-pursuit-in-jungle-darkness.json) |
 | Slender Hentai Edition | 173814 | [173814-slender-hentai-edition.json](./173814-slender-hentai-edition.json) |
 | Slender Island | 401906 | [401906-slender-island.json](./401906-slender-island.json) |
 | Slender Killer | 327021 | [327021-slender-killer.json](./327021-slender-killer.json) |
@@ -23847,6 +23851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spy Cats | 261630 | [261630-spy-cats.json](./261630-spy-cats.json) |
 | Spy Chameleon | 15462 | [15462-spy-chameleon.json](./15462-spy-chameleon.json) |
 | Spy Chaser | 146767 | [146767-spy-chaser.json](./146767-spy-chaser.json) |
+| Spy Daisakusen | 62326 | [62326-spy-daisakusen.json](./62326-spy-daisakusen.json) |
 | Spy DNA | 126417 | [126417-spy-dna.json](./126417-spy-dna.json) |
 | Spy Drops | 307538 | [307538-spy-drops.json](./307538-spy-drops.json) |
 | Spy Drops Gaiden | 390464 | [390464-spy-drops-gaiden.json](./390464-spy-drops-gaiden.json) |
@@ -35405,6 +35410,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Survive on Raft | 125851 | [125851-survive-on-raft.json](./125851-survive-on-raft.json) |
 | Survive or Thrive | 148521 | [148521-survive-or-thrive.json](./148521-survive-or-thrive.json) |
 | Survive Planet Yubglub | 274934 | [274934-survive-planet-yubglub.json](./274934-survive-planet-yubglub.json) |
+| Survive Smile Dog | 62290 | [62290-survive-smile-dog.json](./62290-survive-smile-dog.json) |
 | Survive Society | 336333 | [336333-survive-society.json](./336333-survive-society.json) |
 | Survive Ten Days | 306094 | [306094-survive-ten-days.json](./306094-survive-ten-days.json) |
 | Survive the Apocalypse | 404208 | [404208-survive-the-apocalypse.json](./404208-survive-the-apocalypse.json) |
