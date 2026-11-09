@@ -2229,6 +2229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Jamboree | 40232 | [40232-car-jamboree.json](./40232-car-jamboree.json) |
 | Car Jump | 164912 | [164912-car-jump.json](./164912-car-jump.json) |
 | Car Jump Challenge | 215498 | [215498-car-jump-challenge.json](./215498-car-jump-challenge.json) |
+| Car Licence | 46302 | [46302-car-licence.json](./46302-car-licence.json) |
 | Car Looper | 150533 | [150533-car-looper.json](./150533-car-looper.json) |
 | Car Maker Game: Fun Simulator | 105701 | [105701-car-maker-game-fun-simulator.json](./105701-car-maker-game-fun-simulator.json) |
 | Car Manufacture | 113301 | [113301-car-manufacture.json](./113301-car-manufacture.json) |
@@ -9952,6 +9953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CivWorld | 58121 | [58121-civworld.json](./58121-civworld.json) |
 | Ciying | 284265 | [284265-ciying.json](./284265-ciying.json) |
 | CJ Dreams | 263226 | [263226-cj-dreams.json](./263226-cj-dreams.json) |
+| CJ Elephant Fugitive | 46303 | [46303-cj-elephant-fugitive.json](./46303-cj-elephant-fugitive.json) |
 | CJ in the USA | 12006 | [12006-cj-in-the-usa.json](./12006-cj-in-the-usa.json) |
 | CJ's Elephant Antics | 12007 | [12007-cjs-elephant-antics.json](./12007-cjs-elephant-antics.json) |
 | CKZ Origins | 87164 | [87164-ckz-origins.json](./87164-ckz-origins.json) |
@@ -11615,6 +11617,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Code AOI | 174973 | [174973-code-aoi.json](./174973-code-aoi.json) |
 | Code Arcturus | 133097 | [133097-code-arcturus.json](./133097-code-arcturus.json) |
 | Code Blue | 401137 | [401137-code-blue.json](./401137-code-blue.json) |
+| Code Blue | 46716 | [46716-code-blue.json](./46716-code-blue.json) |
 | Code Breaker | 315457 | [315457-code-breaker.json](./315457-code-breaker.json) |
 | Code Breaker | 380076 | [380076-code-breaker.json](./380076-code-breaker.json) |
 | Code Breaker | 43621 | [43621-code-breaker.json](./43621-code-breaker.json) |
@@ -17361,6 +17364,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Engineer | 155802 | [155802-crazy-engineer.json](./155802-crazy-engineer.json) |
 | Crazy Er-Bert | 354650 | [354650-crazy-er-bert.json](./354650-crazy-er-bert.json) |
 | Crazy Estate | 200042 | [200042-crazy-estate.json](./200042-crazy-estate.json) |
+| Crazy Faces | 46301 | [46301-crazy-faces.json](./46301-crazy-faces.json) |
 | Crazy Factory | 24070 | [24070-crazy-factory.json](./24070-crazy-factory.json) |
 | Crazy Fairies | 63267 | [63267-crazy-fairies.json](./63267-crazy-fairies.json) |
 | Crazy Farm 2 | 120354 | [120354-crazy-farm-2.json](./120354-crazy-farm-2.json) |
