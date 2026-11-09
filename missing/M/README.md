@@ -1963,6 +1963,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Destiny | 32830 | [32830-mahjong-destiny.json](./32830-mahjong-destiny.json) |
 | Mahjong Detective: The Stolen Love | 295919 | [295919-mahjong-detective-the-stolen-love.json](./295919-mahjong-detective-the-stolen-love.json) |
 | Mahjong Dimensions 3D: Fantasy Anime | 367120 | [367120-mahjong-dimensions-3d-fantasy-anime.json](./367120-mahjong-dimensions-3d-fantasy-anime.json) |
+| Mahjong Dojo | 71144 | [71144-mahjong-dojo.json](./71144-mahjong-dojo.json) |
 | Mahjong Domino | 89830 | [89830-mahjong-domino.json](./89830-mahjong-domino.json) |
 | Mahjong Egyptian: The Mystery of the Pharaoh | 238692 | [238692-mahjong-egyptian-the-mystery-of-the-pharaoh.json](./238692-mahjong-egyptian-the-mystery-of-the-pharaoh.json) |
 | Mahjong Elements | 78426 | [78426-mahjong-elements.json](./78426-mahjong-elements.json) |
@@ -6120,7 +6121,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
-| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -15259,6 +15259,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mogul Maniac | 40788 | [40788-mogul-maniac.json](./40788-mogul-maniac.json) |
 | Mogumogu! Poop Battle | 425443 | [425443-mogumogu-poop-battle.json](./425443-mogumogu-poop-battle.json) |
 | Mogura de Pon! | 342739 | [342739-mogura-de-pon.json](./342739-mogura-de-pon.json) |
+| Mogura Reverse | 71117 | [71117-mogura-reverse.json](./71117-mogura-reverse.json) |
 | Mogutte Nanbo | 366907 | [366907-mogutte-nanbo.json](./366907-mogutte-nanbo.json) |
 | MoGuuRu Dabas | 227819 | [227819-moguuru-dabas.json](./227819-moguuru-dabas.json) |
 | Moha | 411288 | [411288-moha.json](./411288-moha.json) |
@@ -19935,6 +19936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Mystery Adventure | 27302 | [27302-murder-mystery-adventure.json](./27302-murder-mystery-adventure.json) |
 | Murder Mystery Bundle | 259134 | [259134-murder-mystery-bundle.json](./259134-murder-mystery-bundle.json) |
 | Murder Mystery Case 3: Who Killed Brett Penance - The Environmental Surfer | 73640 | [73640-murder-mystery-case-3-who-killed-brett-penance-the-environmental-surfer.json](./73640-murder-mystery-case-3-who-killed-brett-penance-the-environmental-surfer.json) |
+| Murder Mystery Case 4: Who Killed Taylor French - The Case of the Undressed Reporter | 71136 | [71136-murder-mystery-case-4-who-killed-taylor-french-the-case-of-the-undressed-reporter.json](./71136-murder-mystery-case-4-who-killed-taylor-french-the-case-of-the-undressed-reporter.json) |
 | Murder Mystery Castle | 399746 | [399746-murder-mystery-castle.json](./399746-murder-mystery-castle.json) |
 | Murder Mystery J: Jinrou Judgment - Maru Icon | 325460 | [325460-murder-mystery-j-jinrou-judgment-maru-icon.json](./325460-murder-mystery-j-jinrou-judgment-maru-icon.json) |
 | Murder Mystery J: Jinrou Judgment - SP1 Icon | 325457 | [325457-murder-mystery-j-jinrou-judgment-sp1-icon.json](./325457-murder-mystery-j-jinrou-judgment-sp1-icon.json) |
@@ -20750,6 +20752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Breast Friend Sally | 286500 | [286500-my-breast-friend-sally.json](./286500-my-breast-friend-sally.json) |
 | My Brick Breaker | 307158 | [307158-my-brick-breaker.json](./307158-my-brick-breaker.json) |
 | My Broken Blocks | 63141 | [63141-my-broken-blocks.json](./63141-my-broken-blocks.json) |
+| My Brother Ate My Pudding | 71263 | [71263-my-brother-ate-my-pudding.json](./71263-my-brother-ate-my-pudding.json) |
 | My Brother Hacker | 414478 | [414478-my-brother-hacker.json](./414478-my-brother-hacker.json) |
 | My Brother is a Superhero | 242559 | [242559-my-brother-is-a-superhero.json](./242559-my-brother-is-a-superhero.json) |
 | My brother lives in a canyon | 152725 | [152725-my-brother-lives-in-a-canyon.json](./152725-my-brother-lives-in-a-canyon.json) |
