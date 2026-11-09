@@ -1545,6 +1545,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egg Teacher VR | 110103 | [110103-egg-teacher-vr.json](./110103-egg-teacher-vr.json) |
 | Egg Time | 31213 | [31213-egg-time.json](./31213-egg-time.json) |
 | Egg Up | 154588 | [154588-egg-up.json](./154588-egg-up.json) |
+| Egg Venture | 40302 | [40302-egg-venture.json](./40302-egg-venture.json) |
 | Egg vs. Chicken | 79770 | [79770-egg-vs-chicken.json](./79770-egg-vs-chicken.json) |
 | Egg War Puzzle | 257916 | [257916-egg-war-puzzle.json](./257916-egg-war-puzzle.json) |
 | Egg Yolk Life | 129715 | [129715-egg-yolk-life.json](./129715-egg-yolk-life.json) |
@@ -3007,6 +3008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Emancipator Go! | 217456 | [217456-emancipator-go.json](./217456-emancipator-go.json) |
 | Emancy: Borderline War | 237650 | [237650-emancy-borderline-war.json](./237650-emancy-borderline-war.json) |
 | Emazing Mazes | 209200 | [209200-emazing-mazes.json](./209200-emazing-mazes.json) |
+| Embargo | 40300 | [40300-embargo.json](./40300-embargo.json) |
 | Embark | 83286 | [83286-embark.json](./83286-embark.json) |
 | Embark Untitled Game | 115446 | [115446-embark-untitled-game.json](./115446-embark-untitled-game.json) |
 | Embarrassed Shina-chan: The Naked Wandering College Girl | 240630 | [240630-embarrassed-shina-chan-the-naked-wandering-college-girl.json](./240630-embarrassed-shina-chan-the-naked-wandering-college-girl.json) |
@@ -4919,6 +4921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Equipmentris | 184361 | [184361-equipmentris.json](./184361-equipmentris.json) |
 | Equire | 303519 | [303519-equire.json](./303519-equire.json) |
 | Equitania | 359353 | [359353-equitania.json](./359353-equitania.json) |
+| Equites | 40299 | [40299-equites.json](./40299-equites.json) |
 | Equiverse | 303801 | [303801-equiverse.json](./303801-equiverse.json) |
 | Equivoque | 40705 | [40705-equivoque.json](./40705-equivoque.json) |
 | ER | 69779 | [69779-er.json](./69779-er.json) |
@@ -7481,6 +7484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evil Spring: Student Holidays | 104825 | [104825-evil-spring-student-holidays.json](./104825-evil-spring-student-holidays.json) |
 | Evil Spring: Student Hollidays | 180044 | [180044-evil-spring-student-hollidays.json](./180044-evil-spring-student-hollidays.json) |
 | Evil Star | 75058 | [75058-evil-star.json](./75058-evil-star.json) |
+| Evil Stone | 40298 | [40298-evil-stone.json](./40298-evil-stone.json) |
 | Evil Superhero Simulator | 364054 | [364054-evil-superhero-simulator.json](./364054-evil-superhero-simulator.json) |
 | Evil Superhero VR: Superhero Simulator | 370884 | [370884-evil-superhero-vr-superhero-simulator.json](./370884-evil-superhero-vr-superhero-simulator.json) |
 | Evil Tactics | 236018 | [236018-evil-tactics.json](./236018-evil-tactics.json) |
@@ -8443,6 +8447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extopia | 108162 | [108162-extopia.json](./108162-extopia.json) |
 | Extortion | 146163 | [146163-extortion.json](./146163-extortion.json) |
 | Extra Bases | 100300 | [100300-extra-bases.json](./100300-extra-bases.json) |
+| Extra Bases | 40297 | [40297-extra-bases.json](./40297-extra-bases.json) |
 | Extra Bright | 43795 | [43795-extra-bright.json](./43795-extra-bright.json) |
 | Extra Case: My Girlfriend's Secrets | 234108 | [234108-extra-case-my-girlfriends-secrets.json](./234108-extra-case-my-girlfriends-secrets.json) |
 | Extra Coin | 153230 | [153230-extra-coin.json](./153230-extra-coin.json) |
@@ -8625,6 +8630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Extrocore | 379726 | [379726-extrocore.json](./379726-extrocore.json) |
 | Exurgo | 118674 | [118674-exurgo.json](./118674-exurgo.json) |
 | Exuvia | 401845 | [401845-exuvia.json](./401845-exuvia.json) |
+| Exvania | 40296 | [40296-exvania.json](./40296-exvania.json) |
 | Exvelten | 153857 | [153857-exvelten.json](./153857-exvelten.json) |
 | Exverse | 296810 | [296810-exverse.json](./296810-exverse.json) |
 | EXVS2 | 315364 | [315364-exvs2.json](./315364-exvs2.json) |
