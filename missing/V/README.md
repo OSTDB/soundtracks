@@ -60,6 +60,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | V-Tech Rampage | 255431 | [255431-v-tech-rampage.json](./255431-v-tech-rampage.json) |
 | V-Tennis | 20711 | [20711-v-tennis.json](./20711-v-tennis.json) |
 | V-Tennis 2 | 57712 | [57712-v-tennis-2.json](./57712-v-tennis-2.json) |
+| V-Tetris | 20985 | [20985-v-tetris.json](./20985-v-tetris.json) |
 | V-VR | 27739 | [27739-v-vr.json](./27739-v-vr.json) |
 | V-Ware | 250052 | [250052-v-ware.json](./250052-v-ware.json) |
 | V: Ghosts in the Deep | 116808 | [116808-v-ghosts-in-the-deep.json](./116808-v-ghosts-in-the-deep.json) |
@@ -1700,6 +1701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertical Drop Heroes | 388103 | [388103-vertical-drop-heroes.json](./388103-vertical-drop-heroes.json) |
 | Vertical Fall | 111860 | [111860-vertical-fall.json](./111860-vertical-fall.json) |
 | Vertical Fighters | 295200 | [295200-vertical-fighters.json](./295200-vertical-fighters.json) |
+| Vertical Force | 20986 | [20986-vertical-force.json](./20986-vertical-force.json) |
 | Vertical Golf | 197654 | [197654-vertical-golf.json](./197654-vertical-golf.json) |
 | Vertical Kingdom | 202602 | [202602-vertical-kingdom.json](./202602-vertical-kingdom.json) |
 | Vertical Mayhem | 57432 | [57432-vertical-mayhem.json](./57432-vertical-mayhem.json) |
@@ -2763,6 +2765,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Beggar | 185230 | [185230-virtual-beggar.json](./185230-virtual-beggar.json) |
 | Virtual Block | 231523 | [231523-virtual-block.json](./231523-virtual-block.json) |
 | Virtual Bomberman | 234006 | [234006-virtual-bomberman.json](./234006-virtual-bomberman.json) |
+| Virtual Bowling | 20988 | [20988-virtual-bowling.json](./20988-virtual-bowling.json) |
 | Virtual Boxing League | 89667 | [89667-virtual-boxing-league.json](./89667-virtual-boxing-league.json) |
 | Virtual Boy Wario Land | 1696 | [1696-virtual-boy-wario-land.json](./1696-virtual-boy-wario-land.json) |
 | Virtual Cameraman Part 1: Sawada Naomi and Juri Anna | 227811 | [227811-virtual-cameraman-part-1-sawada-naomi-and-juri-anna.json](./227811-virtual-cameraman-part-1-sawada-naomi-and-juri-anna.json) |
@@ -2853,6 +2856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virtual Kyoutei 2 | 108851 | [108851-virtual-kyoutei-2.json](./108851-virtual-kyoutei-2.json) |
 | Virtual Kyoutei 2000 | 166512 | [166512-virtual-kyoutei-2000.json](./166512-virtual-kyoutei-2000.json) |
 | Virtual Kyoutei 21 | 166513 | [166513-virtual-kyoutei-21.json](./166513-virtual-kyoutei-21.json) |
+| Virtual Lab | 20989 | [20989-virtual-lab.json](./20989-virtual-lab.json) |
 | Virtual League Baseball | 76124 | [76124-virtual-league-baseball.json](./76124-virtual-league-baseball.json) |
 | Virtual League Baseball 2 | 201263 | [201263-virtual-league-baseball-2.json](./201263-virtual-league-baseball-2.json) |
 | Virtual Love Secrets | 266785 | [266785-virtual-love-secrets.json](./266785-virtual-love-secrets.json) |
