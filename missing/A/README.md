@@ -3261,6 +3261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adarna | 326038 | [326038-adarna.json](./326038-adarna.json) |
 | Adarna: Alamat ni Maria Blanca | 120168 | [120168-adarna-alamat-ni-maria-blanca.json](./120168-adarna-alamat-ni-maria-blanca.json) |
 | Adastra | 135341 | [135341-adastra.json](./135341-adastra.json) |
+| Add & Subtract with ALF | 64535 | [64535-add-and-subtract-with-alf.json](./64535-add-and-subtract-with-alf.json) |
 | Add Flyers To Dreams | 400472 | [400472-add-flyers-to-dreams.json](./400472-add-flyers-to-dreams.json) |
 | Add It! | 130853 | [130853-add-it.json](./130853-add-it.json) |
 | Add Town | 316475 | [316475-add-town.json](./316475-add-town.json) |
@@ -6711,8 +6712,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alf Jonathan y la piedra de los Valcroix | 294645 | [294645-alf-jonathan-y-la-piedra-de-los-valcroix.json](./294645-alf-jonathan-y-la-piedra-de-los-valcroix.json) |
 | ALF the Alien Life Form | 45669 | [45669-alf-the-alien-life-form.json](./45669-alf-the-alien-life-form.json) |
 | ALF: The First Adventure | 12249 | [12249-alf-the-first-adventure.json](./12249-alf-the-first-adventure.json) |
+| ALF's Party Kit! | 64533 | [64533-alfs-party-kit.json](./64533-alfs-party-kit.json) |
 | ALF's Thinking Skills | 78720 | [78720-alfs-thinking-skills.json](./78720-alfs-thinking-skills.json) |
 | ALF's U.S. Geography | 94247 | [94247-alfs-u-s-geography.json](./94247-alfs-u-s-geography.json) |
+| ALF's World of Words | 64534 | [64534-alfs-world-of-words.json](./64534-alfs-world-of-words.json) |
 | Alfa Romeo Racing Italiano | 5721 | [5721-alfa-romeo-racing-italiano.json](./5721-alfa-romeo-racing-italiano.json) |
 | Alfa-Arkiv | 60793 | [60793-alfa-arkiv.json](./60793-alfa-arkiv.json) |
 | Alfa: Antiterror | 52381 | [52381-alfa-antiterror.json](./52381-alfa-antiterror.json) |
@@ -12661,6 +12664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arc Style: Sangokushi Pinball | 222188 | [222188-arc-style-sangokushi-pinball.json](./222188-arc-style-sangokushi-pinball.json) |
 | Arc Style: Simple Mahjong 3D | 222186 | [222186-arc-style-simple-mahjong-3d.json](./222186-arc-style-simple-mahjong-3d.json) |
 | Arc Style: Soccer!! 2014 | 137748 | [137748-arc-style-soccer-2014.json](./137748-arc-style-soccer-2014.json) |
+| Arc Style: Soccer!! 3D | 64548 | [64548-arc-style-soccer-3d.json](./64548-arc-style-soccer-3d.json) |
 | Arc Surfer | 95155 | [95155-arc-surfer.json](./95155-arc-surfer.json) |
 | Arc Symphony | 74332 | [74332-arc-symphony.json](./74332-arc-symphony.json) |
 | Arc TCG | 290934 | [290934-arc-tcg.json](./290934-arc-tcg.json) |
@@ -13634,6 +13638,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archie | 170640 | [170640-archie.json](./170640-archie.json) |
 | Archie: Riverdale Rescue | 186060 | [186060-archie-riverdale-rescue.json](./186060-archie-riverdale-rescue.json) |
 | Archie's Ribs | 288808 | [288808-archies-ribs.json](./288808-archies-ribs.json) |
+| Archie's Riverdale Run | 64510 | [64510-archies-riverdale-run.json](./64510-archies-riverdale-run.json) |
 | Archimedean Dynasty | 2197 | [2197-archimedean-dynasty.json](./2197-archimedean-dynasty.json) |
 | Archimedes II: Some Like It Hot | 409601 | [409601-archimedes-ii-some-like-it-hot.json](./409601-archimedes-ii-some-like-it-hot.json) |
 | Archipel Logic Infinite | 310261 | [310261-archipel-logic-infinite.json](./310261-archipel-logic-infinite.json) |
