@@ -5090,6 +5090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debie Zone | 165894 | [165894-debie-zone.json](./165894-debie-zone.json) |
 | Debilitating Dream | 312596 | [312596-debilitating-dream.json](./312596-debilitating-dream.json) |
 | Debit and Credit: A Walk Through Accounting Hell | 102983 | [102983-debit-and-credit-a-walk-through-accounting-hell.json](./102983-debit-and-credit-a-walk-through-accounting-hell.json) |
+| Deblock | 48716 | [48716-deblock.json](./48716-deblock.json) |
 | DebloX | 92804 | [92804-deblox.json](./92804-deblox.json) |
 | Debrecen | 312921 | [312921-debrecen.json](./312921-debrecen.json) |
 | Debris | 150097 | [150097-debris.json](./150097-debris.json) |
@@ -10041,6 +10042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dino Zoo Transport Simulator | 122604 | [122604-dino-zoo-transport-simulator.json](./122604-dino-zoo-transport-simulator.json) |
 | Dino-D | 199479 | [199479-dino-d.json](./199479-dino-d.json) |
 | Dino-Ducks Dash | 323125 | [323125-dino-ducks-dash.json](./323125-dino-ducks-dash.json) |
+| Dino-Hockey | 48715 | [48715-dino-hockey.json](./48715-dino-hockey.json) |
 | Dino-Sorcerer | 74072 | [74072-dino-sorcerer.json](./74072-dino-sorcerer.json) |
 | Dino's Offline Adventure | 195208 | [195208-dinos-offline-adventure.json](./195208-dinos-offline-adventure.json) |
 | Dinobag's Arcade | 169749 | [169749-dinobags-arcade.json](./169749-dinobags-arcade.json) |
@@ -16544,6 +16546,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream Fallen: Vila do Chaves | 188082 | [188082-dream-fallen-vila-do-chaves.json](./188082-dream-fallen-vila-do-chaves.json) |
 | Dream Farm | 146508 | [146508-dream-farm.json](./146508-dream-farm.json) |
 | Dream Fight Will | 216735 | [216735-dream-fight-will.json](./216735-dream-fight-will.json) |
+| Dream Fighter | 48365 | [48365-dream-fighter.json](./48365-dream-fighter.json) |
 | Dream Fire | 241951 | [241951-dream-fire.json](./241951-dream-fire.json) |
 | Dream Fish | 295516 | [295516-dream-fish.json](./295516-dream-fish.json) |
 | Dream Fishing | 128823 | [128823-dream-fishing.json](./128823-dream-fishing.json) |
@@ -17022,6 +17025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamworks' Universe of Legends | 82114 | [82114-dreamworks-universe-of-legends.json](./82114-dreamworks-universe-of-legends.json) |
 | Dreamworld | 174103 | [174103-dreamworld.json](./174103-dreamworld.json) |
 | DreamWorld | 145026 | [145026-dreamworld.json](./145026-dreamworld.json) |
+| Dreamworld Pogie | 48714 | [48714-dreamworld-pogie.json](./48714-dreamworld-pogie.json) |
 | Dreamworld's Open: Mini Golf | 69712 | [69712-dreamworlds-open-mini-golf.json](./69712-dreamworlds-open-mini-golf.json) |
 | Dreamwrought | 387022 | [387022-dreamwrought.json](./387022-dreamwrought.json) |
 | Dreamy Beauties: Heart-Pounding Illustration Puzzle | 416066 | [416066-dreamy-beauties-heart-pounding-illustration-puzzle.json](./416066-dreamy-beauties-heart-pounding-illustration-puzzle.json) |
