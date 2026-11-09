@@ -4543,6 +4543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Oscillatron: Alien Frequency | 96118 | [96118-oscillatron-alien-frequency.json](./96118-oscillatron-alien-frequency.json) |
 | Oscura | 61937 | [61937-oscura.json](./61937-oscura.json) |
 | Oscura: Lost Light | 17784 | [17784-oscura-lost-light.json](./17784-oscura-lost-light.json) |
+| Oscura: Second Shadow | 60654 | [60654-oscura-second-shadow.json](./60654-oscura-second-shadow.json) |
 | Oscuria: The World of Nightmares | 160185 | [160185-oscuria-the-world-of-nightmares.json](./160185-oscuria-the-world-of-nightmares.json) |
 | Oscuro Blossom's Glow | 342264 | [342264-oscuro-blossoms-glow.json](./342264-oscuro-blossoms-glow.json) |
 | OSD vs RON | 70377 | [70377-osd-vs-ron.json](./70377-osd-vs-ron.json) |
