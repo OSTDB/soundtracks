@@ -4013,6 +4013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -4913,6 +4914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Instruction | 285857 | [285857-instruction.json](./285857-instruction.json) |
 | Instruction Chu | 284517 | [284517-instruction-chu.json](./284517-instruction-chu.json) |
 | InstrumentChamp | 95906 | [95906-instrumentchamp.json](./95906-instrumentchamp.json) |
+| Instruments of Chaos | 46683 | [46683-instruments-of-chaos.json](./46683-instruments-of-chaos.json) |
 | Instruments of Chaos Starring Young Indiana Jones | 73006 | [73006-instruments-of-chaos-starring-young-indiana-jones.json](./73006-instruments-of-chaos-starring-young-indiana-jones.json) |
 | Instruments of Destruction | 149952 | [149952-instruments-of-destruction.json](./149952-instruments-of-destruction.json) |
 | Instruments of Peace | 358938 | [358938-instruments-of-peace.json](./358938-instruments-of-peace.json) |
