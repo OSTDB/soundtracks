@@ -4270,6 +4270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Where in Space is Carmen Sandiego?: Deluxe Edition | 73309 | [73309-where-in-space-is-carmen-sandiego-deluxe-edition.json](./73309-where-in-space-is-carmen-sandiego-deluxe-edition.json) |
 | Where in the U.S.A. is Carmen Sandiego? | 12823 | [12823-where-in-the-u-s-a-is-carmen-sandiego.json](./12823-where-in-the-u-s-a-is-carmen-sandiego.json) |
 | Where in the U.S.A. Is Carmen Sandiego? | 313289 | [313289-where-in-the-u-s-a-is-carmen-sandiego.json](./313289-where-in-the-u-s-a-is-carmen-sandiego.json) |
+| Where in the U.S.A. is Carmen Sandiego?: Deluxe Edition | 71122 | [71122-where-in-the-u-s-a-is-carmen-sandiego-deluxe-edition.json](./71122-where-in-the-u-s-a-is-carmen-sandiego-deluxe-edition.json) |
 | Where in the USA is Carmen Sandiego? (Enhanced) | 66348 | [66348-where-in-the-usa-is-carmen-sandiego-enhanced.json](./66348-where-in-the-usa-is-carmen-sandiego-enhanced.json) |
 | Where in the World is Carmen Sandiego? | 172318 | [172318-where-in-the-world-is-carmen-sandiego.json](./172318-where-in-the-world-is-carmen-sandiego.json) |
 | Where in the World Is Carmen Sandiego? | 242316 | [242316-where-in-the-world-is-carmen-sandiego.json](./242316-where-in-the-world-is-carmen-sandiego.json) |
@@ -8372,6 +8373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World of Guns: Gun Disassembly | 7555 | [7555-world-of-guns-gun-disassembly.json](./7555-world-of-guns-gun-disassembly.json) |
 | World of Guns: VR | 121625 | [121625-world-of-guns-vr.json](./121625-world-of-guns-vr.json) |
 | World of Haiku | 196994 | [196994-world-of-haiku.json](./196994-world-of-haiku.json) |
+| World of Harry Potter | 71133 | [71133-world-of-harry-potter.json](./71133-world-of-harry-potter.json) |
 | World of Illusion Starring Mickey Mouse and Donald Duck | 8124 | [8124-world-of-illusion-starring-mickey-mouse-and-donald-duck.json](./8124-world-of-illusion-starring-mickey-mouse-and-donald-duck.json) |
 | World of Islands - Treasure Hunt | 102907 | [102907-world-of-islands-treasure-hunt.json](./102907-world-of-islands-treasure-hunt.json) |
 | World of Jade Dynasty | 323920 | [323920-world-of-jade-dynasty.json](./323920-world-of-jade-dynasty.json) |
