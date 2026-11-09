@@ -4684,6 +4684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Secret Maryo Chronicles | 134076 | [134076-secret-maryo-chronicles.json](./134076-secret-maryo-chronicles.json) |
 | Secret Meadow | 216662 | [216662-secret-meadow.json](./216662-secret-meadow.json) |
 | Secret Mission | 18513 | [18513-secret-mission.json](./18513-secret-mission.json) |
+| Secret Mission | 56023 | [56023-secret-mission.json](./56023-secret-mission.json) |
 | Secret Mission Escape Room | 162248 | [162248-secret-mission-escape-room.json](./162248-secret-mission-escape-room.json) |
 | Secret Mission: Produce For President | 171475 | [171475-secret-mission-produce-for-president.json](./171475-secret-mission-produce-for-president.json) |
 | Secret Mission: The Forgotten Island | 186808 | [186808-secret-mission-the-forgotten-island.json](./186808-secret-mission-the-forgotten-island.json) |
@@ -14566,6 +14567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sluggy's Fruit Emporium | 33401 | [33401-sluggys-fruit-emporium.json](./33401-sluggys-fruit-emporium.json) |
 | Slugmania | 225098 | [225098-slugmania.json](./225098-slugmania.json) |
 | Slugmouth | 387141 | [387141-slugmouth.json](./387141-slugmouth.json) |
+| Slugs Destroyer | 55440 | [55440-slugs-destroyer.json](./55440-slugs-destroyer.json) |
 | Slugterra: Dark Waters | 327630 | [327630-slugterra-dark-waters.json](./327630-slugterra-dark-waters.json) |
 | Slugterra: Slug it Out! | 60757 | [60757-slugterra-slug-it-out.json](./60757-slugterra-slug-it-out.json) |
 | Slugterra: Slug Life | 188286 | [188286-slugterra-slug-life.json](./188286-slugterra-slug-life.json) |
@@ -17000,6 +17002,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solarmax | 388044 | [388044-solarmax.json](./388044-solarmax.json) |
 | Solarmax III | 228132 | [228132-solarmax-iii.json](./228132-solarmax-iii.json) |
 | Solaro | 237157 | [237157-solaro.json](./237157-solaro.json) |
+| Solaroids | 56017 | [56017-solaroids.json](./56017-solaroids.json) |
 | Solaroids: Prologue | 29314 | [29314-solaroids-prologue.json](./29314-solaroids-prologue.json) |
 | Solarpower | 118766 | [118766-solarpower.json](./118766-solarpower.json) |
 | Solarpunk: Failed States | 187288 | [187288-solarpunk-failed-states.json](./187288-solarpunk-failed-states.json) |
@@ -22255,6 +22258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sphere Invasion | 172340 | [172340-sphere-invasion.json](./172340-sphere-invasion.json) |
 | Sphere of Destiny | 13759 | [13759-sphere-of-destiny.json](./13759-sphere-of-destiny.json) |
 | Sphere Shootout | 258790 | [258790-sphere-shootout.json](./258790-sphere-shootout.json) |
+| Sphere Slice | 56019 | [56019-sphere-slice.json](./56019-sphere-slice.json) |
 | Sphere TD | 400231 | [400231-sphere-td.json](./400231-sphere-td.json) |
 | Sphere This! | 114109 | [114109-sphere-this.json](./114109-sphere-this.json) |
 | Sphere vs. Gravity | 318476 | [318476-sphere-vs-gravity.json](./318476-sphere-vs-gravity.json) |
