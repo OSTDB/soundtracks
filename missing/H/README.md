@@ -12363,6 +12363,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter Blade | 92599 | [92599-hunter-blade.json](./92599-hunter-blade.json) |
 | Hunter Brick Ball | 103643 | [103643-hunter-brick-ball.json](./103643-hunter-brick-ball.json) |
 | Hunter Chronicles: Tara and Vyn | 303560 | [303560-hunter-chronicles-tara-and-vyn.json](./303560-hunter-chronicles-tara-and-vyn.json) |
+| Hunter Dan's Bowfishing Survival Gauntlet | 72249 | [72249-hunter-dans-bowfishing-survival-gauntlet.json](./72249-hunter-dans-bowfishing-survival-gauntlet.json) |
 | Hunter Desert Simulator: Sniper Rifle | 409533 | [409533-hunter-desert-simulator-sniper-rifle.json](./409533-hunter-desert-simulator-sniper-rifle.json) |
 | Hunter from East | 375524 | [375524-hunter-from-east.json](./375524-hunter-from-east.json) |
 | Hunter From Hell | 383456 | [383456-hunter-from-hell.json](./383456-hunter-from-hell.json) |
