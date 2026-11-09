@@ -5396,6 +5396,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Konami Antiques: MSX Collection Vol. 3 | 44777 | [44777-konami-antiques-msx-collection-vol-3.json](./44777-konami-antiques-msx-collection-vol-3.json) |
 | Konami Arcade Classics | 79704 | [79704-konami-arcade-classics.json](./79704-konami-arcade-classics.json) |
 | Konami Classics Series Arcade Hits | 21395 | [21395-konami-classics-series-arcade-hits.json](./21395-konami-classics-series-arcade-hits.json) |
+| Konami Classics Vol. 1 | 47386 | [47386-konami-classics-vol-1.json](./47386-konami-classics-vol-1.json) |
+| Konami Classics Vol. 2 | 47368 | [47368-konami-classics-vol-2.json](./47368-konami-classics-vol-2.json) |
 | Konami Collector's Series: Arcade Advanced | 6494 | [6494-konami-collectors-series-arcade-advanced.json](./6494-konami-collectors-series-arcade-advanced.json) |
 | Konami Collector's Series: Castlevania & Contra | 78642 | [78642-konami-collectors-series-castlevania-and-contra.json](./78642-konami-collectors-series-castlevania-and-contra.json) |
 | Konami Game Collection Bangai-hen | 56220 | [56220-konami-game-collection-bangai-hen.json](./56220-konami-game-collection-bangai-hen.json) |
