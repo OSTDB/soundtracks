@@ -1673,6 +1673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vertex | 384677 | [384677-vertex.json](./384677-vertex.json) |
 | Vertex Dispenser | 15133 | [15133-vertex-dispenser.json](./15133-vertex-dispenser.json) |
 | Vertex Rush | 243480 | [243480-vertex-rush.json](./243480-vertex-rush.json) |
+| Vertex Vortex Remix Cortex | 65076 | [65076-vertex-vortex-remix-cortex.json](./65076-vertex-vortex-remix-cortex.json) |
 | Vertex-1: Ainia | 418523 | [418523-vertex-1-ainia.json](./418523-vertex-1-ainia.json) |
 | Verti-Go Home! | 118690 | [118690-verti-go-home.json](./118690-verti-go-home.json) |
 | Vertiball | 86123 | [86123-vertiball.json](./86123-vertiball.json) |
