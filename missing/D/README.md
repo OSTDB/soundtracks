@@ -11152,6 +11152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's DuckTales 2 | 6488 | [6488-disneys-ducktales-2.json](./6488-disneys-ducktales-2.json) |
 | Disney's DuckTales: The Quest for Gold | 8451 | [8451-disneys-ducktales-the-quest-for-gold.json](./8451-disneys-ducktales-the-quest-for-gold.json) |
 | Disney's Extreme Skate Adventure | 242994 | [242994-disneys-extreme-skate-adventure.json](./242994-disneys-extreme-skate-adventure.json) |
+| Disney's Extreme Skate Adventure | 3883 | [3883-disneys-extreme-skate-adventure.json](./3883-disneys-extreme-skate-adventure.json) |
 | Disney's Extremely Goofy Skateboarding | 78286 | [78286-disneys-extremely-goofy-skateboarding.json](./78286-disneys-extremely-goofy-skateboarding.json) |
 | Disney's Goof Troop | 205930 | [205930-disneys-goof-troop.json](./205930-disneys-goof-troop.json) |
 | Disney's Goofy's Fun House | 43895 | [43895-disneys-goofys-fun-house.json](./43895-disneys-goofys-fun-house.json) |
