@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Daily Celebrity Crossword | 78991 | [78991-daily-celebrity-crossword.json](./78991-daily-celebrity-crossword.json) |
 | Daily Chthonicle | 57103 | [57103-daily-chthonicle.json](./57103-daily-chthonicle.json) |
 | Daily Dadish | 233003 | [233003-daily-dadish.json](./233003-daily-dadish.json) |
+| Daily Double Horse Racing | 12563 | [12563-daily-double-horse-racing.json](./12563-daily-double-horse-racing.json) |
 | Daily Driven Racer | 334474 | [334474-daily-driven-racer.json](./334474-daily-driven-racer.json) |
 | Daily Driver | 151987 | [151987-daily-driver.json](./151987-daily-driver.json) |
 | Daily Dungeon | 198690 | [198690-daily-dungeon.json](./198690-daily-dungeon.json) |
@@ -2301,6 +2302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Darkman | 365688 | [365688-darkman.json](./365688-darkman.json) |
 | DarkMaus | 18335 | [18335-darkmaus.json](./18335-darkmaus.json) |
 | DarkMaze | 46471 | [46471-darkmaze.json](./46471-darkmaze.json) |
+| Darkmere: The Nightmare's Begun | 12564 | [12564-darkmere-the-nightmares-begun.json](./12564-darkmere-the-nightmares-begun.json) |
 | Darkmists | 125920 | [125920-darkmists.json](./125920-darkmists.json) |
 | Darkmoor Hold | 356660 | [356660-darkmoor-hold.json](./356660-darkmoor-hold.json) |
 | Darkmoor Manor | 102791 | [102791-darkmoor-manor.json](./102791-darkmoor-manor.json) |
@@ -4810,6 +4812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Mark Vol.1 | 99079 | [99079-death-mark-vol-1.json](./99079-death-mark-vol-1.json) |
 | Death Mark: Experience Selection | 167142 | [167142-death-mark-experience-selection.json](./167142-death-mark-experience-selection.json) |
 | Death Mark: Limited Edition | 200990 | [200990-death-mark-limited-edition.json](./200990-death-mark-limited-edition.json) |
+| Death Mask | 12565 | [12565-death-mask.json](./12565-death-mask.json) |
 | Death Mask | 359982 | [359982-death-mask.json](./359982-death-mask.json) |
 | Death Match | 416694 | [416694-death-match.json](./416694-death-match.json) |
 | Death Match Love Comedy! | 136702 | [136702-death-match-love-comedy.json](./136702-death-match-love-comedy.json) |
@@ -4953,6 +4956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Trader: Cold War | 109370 | [109370-death-trader-cold-war.json](./109370-death-trader-cold-war.json) |
 | Death Trading Card Game | 196879 | [196879-death-trading-card-game.json](./196879-death-trading-card-game.json) |
 | Death Train!!! Samara – Voronezh. | 362357 | [362357-death-train-samara-voronezh.json](./362357-death-train-samara-voronezh.json) |
+| Death Trap | 12566 | [12566-death-trap.json](./12566-death-trap.json) |
 | Death Trap | 23205 | [23205-death-trap.json](./23205-death-trap.json) |
 | Death Travelers | 315124 | [315124-death-travelers.json](./315124-death-travelers.json) |
 | Death tree | 291735 | [291735-death-tree.json](./291735-death-tree.json) |
@@ -5153,6 +5157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Debugger 4406 | 187218 | [187218-debugger-4406.json](./187218-debugger-4406.json) |
 | Debugger Recoded | 211564 | [211564-debugger-recoded.json](./211564-debugger-recoded.json) |
 | Debugging Hero | 351164 | [351164-debugging-hero.json](./351164-debugging-hero.json) |
+| Debut: Planet Simulation | 12567 | [12567-debut-planet-simulation.json](./12567-debut-planet-simulation.json) |
 | Deca Sports 3 | 20699 | [20699-deca-sports-3.json](./20699-deca-sports-3.json) |
 | Deca Sports Extreme | 6755 | [6755-deca-sports-extreme.json](./6755-deca-sports-extreme.json) |
 | Deca Sports Freedom | 2661 | [2661-deca-sports-freedom.json](./2661-deca-sports-freedom.json) |
@@ -5479,6 +5484,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deep Collision | 359283 | [359283-deep-collision.json](./359283-deep-collision.json) |
 | Deep Combat | 385933 | [385933-deep-combat.json](./385933-deep-combat.json) |
 | Deep Copy | 318011 | [318011-deep-copy.json](./318011-deep-copy.json) |
+| Deep Core | 12568 | [12568-deep-core.json](./12568-deep-core.json) |
 | Deep Corp | 390993 | [390993-deep-corp.json](./390993-deep-corp.json) |
 | Deep Crafter | 318306 | [318306-deep-crafter.json](./318306-deep-crafter.json) |
 | Deep Cut | 176264 | [176264-deep-cut.json](./176264-deep-cut.json) |
@@ -6004,6 +6010,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Defenders of Oasis GG2SMS | 369595 | [369595-defenders-of-oasis-gg2sms.json](./369595-defenders-of-oasis-gg2sms.json) |
 | Defenders of Tetsoidea | 74642 | [74642-defenders-of-tetsoidea.json](./74642-defenders-of-tetsoidea.json) |
 | Defenders of the Atlantic | 179479 | [179479-defenders-of-the-atlantic.json](./179479-defenders-of-the-atlantic.json) |
+| Defenders of the Earth | 12569 | [12569-defenders-of-the-earth.json](./12569-defenders-of-the-earth.json) |
 | Defenders of the Fallen Island | 76406 | [76406-defenders-of-the-fallen-island.json](./76406-defenders-of-the-fallen-island.json) |
 | Defenders of the Last Colony | 36208 | [36208-defenders-of-the-last-colony.json](./36208-defenders-of-the-last-colony.json) |
 | Defenders of the Omniverse | 255385 | [255385-defenders-of-the-omniverse.json](./255385-defenders-of-the-omniverse.json) |
@@ -6703,6 +6710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Demon Attack | 5670 | [5670-demon-attack.json](./5670-demon-attack.json) |
 | Demon Blade | 235012 | [235012-demon-blade.json](./235012-demon-blade.json) |
 | Demon Blast | 132212 | [132212-demon-blast.json](./132212-demon-blast.json) |
+| Demon Blue | 12570 | [12570-demon-blue.json](./12570-demon-blue.json) |
 | Demon Bluff | 341980 | [341980-demon-bluff.json](./341980-demon-bluff.json) |
 | Demon Burst | 396713 | [396713-demon-burst.json](./396713-demon-burst.json) |
 | Demon Castle | 266914 | [266914-demon-castle.json](./266914-demon-castle.json) |
@@ -8621,6 +8629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Devinica | 253979 | [253979-devinica.json](./253979-devinica.json) |
 | Devious | 184668 | [184668-devious.json](./184668-devious.json) |
 | Devious | 99156 | [99156-devious.json](./99156-devious.json) |
+| Devious Designs | 12572 | [12572-devious-designs.json](./12572-devious-designs.json) |
 | Devious Dungeon 2 | 68988 | [68988-devious-dungeon-2.json](./68988-devious-dungeon-2.json) |
 | Devious Dungeon Collection | 147669 | [147669-devious-dungeon-collection.json](./147669-devious-dungeon-collection.json) |
 | Devious Lick | 224502 | [224502-devious-lick.json](./224502-devious-lick.json) |
@@ -12425,6 +12434,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dojo Assault | 249847 | [249847-dojo-assault.json](./249847-dojo-assault.json) |
 | Dojo City | 311155 | [311155-dojo-city.json](./311155-dojo-city.json) |
 | Dojo Corridor | 147350 | [147350-dojo-corridor.json](./147350-dojo-corridor.json) |
+| Dojo Dan | 12573 | [12573-dojo-dan.json](./12573-dojo-dan.json) |
 | Dojo Fight Club | 174951 | [174951-dojo-fight-club.json](./174951-dojo-fight-club.json) |
 | Dojo Masters | 261608 | [261608-dojo-masters.json](./261608-dojo-masters.json) |
 | Dojo Raiders | 411976 | [411976-dojo-raiders.json](./411976-dojo-raiders.json) |
@@ -16118,6 +16128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragons and Elves | 355191 | [355191-dragons-and-elves.json](./355191-dragons-and-elves.json) |
 | Dragons and Nature | 290204 | [290204-dragons-and-nature.json](./290204-dragons-and-nature.json) |
 | Dragons and Titans | 10195 | [10195-dragons-and-titans.json](./10195-dragons-and-titans.json) |
+| Dragons Breath | 12574 | [12574-dragons-breath.json](./12574-dragons-breath.json) |
 | Dragons Frolic! | 346515 | [346515-dragons-frolic.json](./346515-dragons-frolic.json) |
 | Dragons Heart | 239692 | [239692-dragons-heart.json](./239692-dragons-heart.json) |
 | Dragons in Space | 194349 | [194349-dragons-in-space.json](./194349-dragons-in-space.json) |
