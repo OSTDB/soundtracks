@@ -993,7 +993,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3302,6 +3301,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bass Pro Shops: The Strike | 4706 | [4706-bass-pro-shops-the-strike.json](./4706-bass-pro-shops-the-strike.json) |
 | Bass Pro Shops: The Strike - Championship Edition | 110428 | [110428-bass-pro-shops-the-strike-championship-edition.json](./110428-bass-pro-shops-the-strike-championship-edition.json) |
 | Bass Pro Shops: The Strike - Tournament Edition | 205908 | [205908-bass-pro-shops-the-strike-tournament-edition.json](./205908-bass-pro-shops-the-strike-tournament-edition.json) |
+| Bass Pro Shops: Trophy Bass 2007 | 47343 | [47343-bass-pro-shops-trophy-bass-2007.json](./47343-bass-pro-shops-trophy-bass-2007.json) |
 | Bass Rise | 4141 | [4141-bass-rise.json](./4141-bass-rise.json) |
 | Bass Rush Dream | 67301 | [67301-bass-rush-dream.json](./67301-bass-rush-dream.json) |
 | Bass Strike | 43286 | [43286-bass-strike.json](./43286-bass-strike.json) |
@@ -4688,6 +4688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battlewake | 118306 | [118306-battlewake.json](./118306-battlewake.json) |
 | Battlewang | 23845 | [23845-battlewang.json](./23845-battlewang.json) |
 | BattleWave | 24511 | [24511-battlewave.json](./24511-battlewave.json) |
+| BattleWheels | 46922 | [46922-battlewheels.json](./46922-battlewheels.json) |
 | BattleWords | 121043 | [121043-battlewords.json](./121043-battlewords.json) |
 | Battlewrights | 337763 | [337763-battlewrights.json](./337763-battlewrights.json) |
 | BattleX | 105569 | [105569-battlex.json](./105569-battlex.json) |
@@ -12570,6 +12571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bodies of Water VR | 152596 | [152596-bodies-of-water-vr.json](./152596-bodies-of-water-vr.json) |
 | Body and Brain Connection | 25189 | [25189-body-and-brain-connection.json](./25189-body-and-brain-connection.json) |
 | Body and Soul | 176977 | [176977-body-and-soul.json](./176977-body-and-soul.json) |
+| Body and Soul | 46926 | [46926-body-and-soul.json](./46926-body-and-soul.json) |
 | Body Blows | 11974 | [11974-body-blows.json](./11974-body-blows.json) |
 | Body Blows Galactic | 11975 | [11975-body-blows-galactic.json](./11975-body-blows-galactic.json) |
 | Body Cam Shooter | 328555 | [328555-body-cam-shooter.json](./328555-body-cam-shooter.json) |
@@ -15881,6 +15883,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breeder: Homegrown | 124569 | [124569-breeder-homegrown.json](./124569-breeder-homegrown.json) |
 | Breeder: Homegrown - Director's Cut | 131971 | [131971-breeder-homegrown-directors-cut.json](./131971-breeder-homegrown-directors-cut.json) |
 | Breeders of the Nephelym: Alpha | 122800 | [122800-breeders-of-the-nephelym-alpha.json](./122800-breeders-of-the-nephelym-alpha.json) |
+| Breeders' Cup World Thoroughbred Championships | 47339 | [47339-breeders-cup-world-thoroughbred-championships.json](./47339-breeders-cup-world-thoroughbred-championships.json) |
 | Breeding City Welcomes you | 383916 | [383916-breeding-city-welcomes-you.json](./383916-breeding-city-welcomes-you.json) |
 | Breekha | 278274 | [278274-breekha.json](./278274-breekha.json) |
 | Breenstein | 252103 | [252103-breenstein.json](./252103-breenstein.json) |
