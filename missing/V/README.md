@@ -1479,6 +1479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Venom Strikes Back | 39124 | [39124-venom-strikes-back.json](./39124-venom-strikes-back.json) |
 | Venom Strikes Back | 47181 | [47181-venom-strikes-back.json](./47181-venom-strikes-back.json) |
 | Venom Vendetta | 296043 | [296043-venom-vendetta.json](./296043-venom-vendetta.json) |
+| Venom Wing | 37210 | [37210-venom-wing.json](./37210-venom-wing.json) |
 | Venom/Spider-Man: Separation Anxiety | 46182 | [46182-venom-spider-man-separation-anxiety.json](./46182-venom-spider-man-separation-anxiety.json) |
 | Venomous | 338573 | [338573-venomous.json](./338573-venomous.json) |
 | Venova Adventure | 200002 | [200002-venova-adventure.json](./200002-venova-adventure.json) |
@@ -3292,6 +3293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vixens From outer Space | 106391 | [106391-vixens-from-outer-space.json](./106391-vixens-from-outer-space.json) |
 | Viy | 167562 | [167562-viy.json](./167562-viy.json) |
 | Viy: Retold Story | 190142 | [190142-viy-retold-story.json](./190142-viy-retold-story.json) |
+| Viz: The Game | 37209 | [37209-viz-the-game.json](./37209-viz-the-game.json) |
 | Viz: The Soft Floppy One | 67993 | [67993-viz-the-soft-floppy-one.json](./67993-viz-the-soft-floppy-one.json) |
 | Vizati | 53156 | [53156-vizati.json](./53156-vizati.json) |
 | Vizier | 425866 | [425866-vizier.json](./425866-vizier.json) |
