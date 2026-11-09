@@ -1215,6 +1215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samabake! Scramble | 318056 | [318056-samabake-scramble.json](./318056-samabake-scramble.json) |
 | Samael | 117568 | [117568-samael.json](./117568-samael.json) |
 | Samael: The Legacy of Ophiuchus | 218718 | [218718-samael-the-legacy-of-ophiuchus.json](./218718-samael-the-legacy-of-ophiuchus.json) |
+| Samantha Fox Strip Poker | 39061 | [39061-samantha-fox-strip-poker.json](./39061-samantha-fox-strip-poker.json) |
 | Samantha Oups! Le Jeu | 222739 | [222739-samantha-oups-le-jeu.json](./222739-samantha-oups-le-jeu.json) |
 | Samantha Swift and the Fountains of Fate | 95915 | [95915-samantha-swift-and-the-fountains-of-fate.json](./95915-samantha-swift-and-the-fountains-of-fate.json) |
 | Samantha Swift and the Fountains of Fate: Collector's Edition | 100026 | [100026-samantha-swift-and-the-fountains-of-fate-collectors-edition.json](./100026-samantha-swift-and-the-fountains-of-fate-collectors-edition.json) |
@@ -34086,6 +34087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Skidmarks Data Disks | 78315 | [78315-super-skidmarks-data-disks.json](./78315-super-skidmarks-data-disks.json) |
 | Super Skull Smash GO! | 63924 | [63924-super-skull-smash-go.json](./63924-super-skull-smash-go.json) |
 | Super Skull Smash GO! 2 Turbo | 90127 | [90127-super-skull-smash-go-2-turbo.json](./90127-super-skull-smash-go-2-turbo.json) |
+| Super Skweek | 39066 | [39066-super-skweek.json](./39066-super-skweek.json) |
 | Super Sky Arena | 9569 | [9569-super-sky-arena.json](./9569-super-sky-arena.json) |
 | Super Skyland | 175406 | [175406-super-skyland.json](./175406-super-skyland.json) |
 | Super Slam | 46794 | [46794-super-slam.json](./46794-super-slam.json) |
@@ -35864,6 +35866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suspended | 12626 | [12626-suspended.json](./12626-suspended.json) |
 | Suspended Animation | 292403 | [292403-suspended-animation.json](./292403-suspended-animation.json) |
 | Suspended in Dusk | 256814 | [256814-suspended-in-dusk.json](./256814-suspended-in-dusk.json) |
+| Suspended: A Cryogenic Nightmare | 39092 | [39092-suspended-a-cryogenic-nightmare.json](./39092-suspended-a-cryogenic-nightmare.json) |
 | Suspense: Madman's Dreams | 329393 | [329393-suspense-madmans-dreams.json](./329393-suspense-madmans-dreams.json) |
 | Suspension Railroad Simulator | 85414 | [85414-suspension-railroad-simulator.json](./85414-suspension-railroad-simulator.json) |
 | Suspension Railroad Simulator 2013 | 108647 | [108647-suspension-railroad-simulator-2013.json](./108647-suspension-railroad-simulator-2013.json) |
