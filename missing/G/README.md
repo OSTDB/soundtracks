@@ -2673,6 +2673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gekimetsu! Grand Shocker | 385527 | [385527-gekimetsu-grand-shocker.json](./385527-gekimetsu-grand-shocker.json) |
 | Gekioh: Shooting King | 44938 | [44938-gekioh-shooting-king.json](./44938-gekioh-shooting-king.json) |
 | Gekiretsu Pachinkazu | 247347 | [247347-gekiretsu-pachinkazu.json](./247347-gekiretsu-pachinkazu.json) |
+| Gekirido | 40327 | [40327-gekirido.json](./40327-gekirido.json) |
 | Gekirin | 137349 | [137349-gekirin.json](./137349-gekirin.json) |
 | Gekirindan | 39973 | [39973-gekirindan.json](./39973-gekirindan.json) |
 | Gekisou Sentai Carranger: Tatakae! Hiragana Racer | 76905 | [76905-gekisou-sentai-carranger-tatakae-hiragana-racer.json](./76905-gekisou-sentai-carranger-tatakae-hiragana-racer.json) |
@@ -6802,6 +6803,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Tee Golf | 17263 | [17263-golden-tee-golf.json](./17263-golden-tee-golf.json) |
 | Golden Tee Golf | 198749 | [198749-golden-tee-golf.json](./198749-golden-tee-golf.json) |
 | Golden Tee Golf | 220538 | [220538-golden-tee-golf.json](./220538-golden-tee-golf.json) |
+| Golden Tee Golf II | 40326 | [40326-golden-tee-golf-ii.json](./40326-golden-tee-golf-ii.json) |
 | Golden Tee Live | 28719 | [28719-golden-tee-live.json](./28719-golden-tee-live.json) |
 | Golden Tee Live 2013 | 63987 | [63987-golden-tee-live-2013.json](./63987-golden-tee-live-2013.json) |
 | Golden Tee Mobile | 144039 | [144039-golden-tee-mobile.json](./144039-golden-tee-mobile.json) |
@@ -7054,6 +7056,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golfie | 154147 | [154147-golfie.json](./154147-golfie.json) |
 | Golfie: Supporter Pack | 293441 | [293441-golfie-supporter-pack.json](./293441-golfie-supporter-pack.json) |
 | Golfing Around | 108442 | [108442-golfing-around.json](./108442-golfing-around.json) |
+| Golfing Greats | 40325 | [40325-golfing-greats.json](./40325-golfing-greats.json) |
 | Golfing Greats 2 | 222908 | [222908-golfing-greats-2.json](./222908-golfing-greats-2.json) |
 | Golfing In Aether | 199271 | [199271-golfing-in-aether.json](./199271-golfing-in-aether.json) |
 | Golfing In Aether: Dustbowl | 275124 | [275124-golfing-in-aether-dustbowl.json](./275124-golfing-in-aether-dustbowl.json) |
@@ -8113,6 +8116,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Casino | 295032 | [295032-grand-casino.json](./295032-grand-casino.json) |
 | Grand Casino Tycoon | 148257 | [148257-grand-casino-tycoon.json](./148257-grand-casino-tycoon.json) |
 | Grand Champion | 143374 | [143374-grand-champion.json](./143374-grand-champion.json) |
+| Grand Champion | 40324 | [40324-grand-champion.json](./40324-grand-champion.json) |
 | Grand Chase Classic | 166856 | [166856-grand-chase-classic.json](./166856-grand-chase-classic.json) |
 | Grand Chase M | 56262 | [56262-grand-chase-m.json](./56262-grand-chase-m.json) |
 | Grand Chase: Dimensional Chaser | 101038 | [101038-grand-chase-dimensional-chaser.json](./101038-grand-chase-dimensional-chaser.json) |
@@ -8240,6 +8244,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grand Story | 182554 | [182554-grand-story.json](./182554-grand-story.json) |
 | Grand Strategy | 110940 | [110940-grand-strategy.json](./110940-grand-strategy.json) |
 | Grand Street Vegas Mafia Crime: Fight to Survive | 102669 | [102669-grand-street-vegas-mafia-crime-fight-to-survive.json](./102669-grand-street-vegas-mafia-crime-fight-to-survive.json) |
+| Grand Striker 2 | 40322 | [40322-grand-striker-2.json](./40322-grand-striker-2.json) |
+| Grand Striker Human Cup | 40323 | [40323-grand-striker-human-cup.json](./40323-grand-striker-human-cup.json) |
 | Grand Strokers | 240911 | [240911-grand-strokers.json](./240911-grand-strokers.json) |
 | Grand Summoners | 90072 | [90072-grand-summoners.json](./90072-grand-summoners.json) |
 | Grand Tactician: Napoleonic Wars (1792-1815) | 379823 | [379823-grand-tactician-napoleonic-wars-1792-1815.json](./379823-grand-tactician-napoleonic-wars-1792-1815.json) |
@@ -9066,6 +9072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Golf | 81277 | [81277-great-golf.json](./81277-great-golf.json) |
 | Great Greed | 48994 | [48994-great-greed.json](./48994-great-greed.json) |
 | Great Gun Gauntlet | 70881 | [70881-great-gun-gauntlet.json](./70881-great-gun-gauntlet.json) |
+| Great Guns | 40321 | [40321-great-guns.json](./40321-great-guns.json) |
 | Great Harvester | 353807 | [353807-great-harvester.json](./353807-great-harvester.json) |
 | Great Hero's Beard | 109867 | [109867-great-heros-beard.json](./109867-great-heros-beard.json) |
 | Great Hits | 94734 | [94734-great-hits.json](./94734-great-hits.json) |
@@ -9099,6 +9106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Great Race: Route 66 | 233111 | [233111-great-race-route-66.json](./233111-great-race-route-66.json) |
 | Great Sam | 26209 | [26209-great-sam.json](./26209-great-sam.json) |
 | Great Secrets: Da Vinci | 72529 | [72529-great-secrets-da-vinci.json](./72529-great-secrets-da-vinci.json) |
+| Great Sluggers '94 | 40320 | [40320-great-sluggers-94.json](./40320-great-sluggers-94.json) |
 | Great Sluggers: New World Stadium | 140480 | [140480-great-sluggers-new-world-stadium.json](./140480-great-sluggers-new-world-stadium.json) |
 | Great Soccer | 100299 | [100299-great-soccer.json](./100299-great-soccer.json) |
 | Great Song's Records of Economy | 161644 | [161644-great-songs-records-of-economy.json](./161644-great-songs-records-of-economy.json) |
@@ -10220,6 +10228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ground Divers | 204436 | [204436-ground-divers.json](./204436-ground-divers.json) |
 | Ground Drone Operator: Ground Robotic System Simulator | 414159 | [414159-ground-drone-operator-ground-robotic-system-simulator.json](./414159-ground-drone-operator-ground-robotic-system-simulator.json) |
 | Ground Effect | 77104 | [77104-ground-effect.json](./77104-ground-effect.json) |
+| Ground Effects | 40319 | [40319-ground-effects.json](./40319-ground-effects.json) |
 | Ground Floor Z | 56252 | [56252-ground-floor-z.json](./56252-ground-floor-z.json) |
 | Ground Force Zero | 71550 | [71550-ground-force-zero.json](./71550-ground-force-zero.json) |
 | Ground Mine Girl | 355183 | [355183-ground-mine-girl.json](./355183-ground-mine-girl.json) |
@@ -10734,6 +10743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guide the Light | 175514 | [175514-guide-the-light.json](./175514-guide-the-light.json) |
 | Guide To Apocalypse | 334492 | [334492-guide-to-apocalypse.json](./334492-guide-to-apocalypse.json) |
 | Guided Meditation VR | 34577 | [34577-guided-meditation-vr.json](./34577-guided-meditation-vr.json) |
+| Guided Missile | 40318 | [40318-guided-missile.json](./40318-guided-missile.json) |
 | Guidelicious | 264753 | [264753-guidelicious.json](./264753-guidelicious.json) |
 | Guidelines for the Book of Changes | 291277 | [291277-guidelines-for-the-book-of-changes.json](./291277-guidelines-for-the-book-of-changes.json) |
 | Guiding Hand VR | 89434 | [89434-guiding-hand-vr.json](./89434-guiding-hand-vr.json) |
@@ -11041,6 +11051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gulf of Aden - Task Force Somalia | 34370 | [34370-gulf-of-aden-task-force-somalia.json](./34370-gulf-of-aden-task-force-somalia.json) |
 | Gulf Storm | 40154 | [40154-gulf-storm.json](./40154-gulf-storm.json) |
 | Gulf Strike | 25034 | [25034-gulf-strike.json](./25034-gulf-strike.json) |
+| Gulf War II | 40317 | [40317-gulf-war-ii.json](./40317-gulf-war-ii.json) |
 | Gulkave | 6109 | [6109-gulkave.json](./6109-gulkave.json) |
 | Gull Kebap VR | 104058 | [104058-gull-kebap-vr.json](./104058-gull-kebap-vr.json) |
 | Gullet | 319926 | [319926-gullet.json](./319926-gullet.json) |
@@ -11133,6 +11144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gun Brothers | 31674 | [31674-gun-brothers.json](./31674-gun-brothers.json) |
 | Gun Builder Elite HD | 351036 | [351036-gun-builder-elite-hd.json](./351036-gun-builder-elite-hd.json) |
 | Gun Building 3 | 351042 | [351042-gun-building-3.json](./351042-gun-building-3.json) |
+| Gun Buster | 40316 | [40316-gun-buster.json](./40316-gun-buster.json) |
 | Gun Center Simulator | 346356 | [346356-gun-center-simulator.json](./346356-gun-center-simulator.json) |
 | Gun Chain | 117135 | [117135-gun-chain.json](./117135-gun-chain.json) |
 | Gun Club VR: SWAT DLC | 155456 | [155456-gun-club-vr-swat-dlc.json](./155456-gun-club-vr-swat-dlc.json) |
@@ -11917,6 +11929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyousatsu! Spirits: Final Version | 137598 | [137598-gyousatsu-spirits-final-version.json](./137598-gyousatsu-spirits-final-version.json) |
 | Gyouten Ningen Batseelor: Doctor Guy no Yabou | 281540 | [281540-gyouten-ningen-batseelor-doctor-guy-no-yabou.json](./281540-gyouten-ningen-batseelor-doctor-guy-no-yabou.json) |
 | Gypsy | 24900 | [24900-gypsy.json](./24900-gypsy.json) |
+| Gypsy Juggler | 40315 | [40315-gypsy-juggler.json](./40315-gypsy-juggler.json) |
 | Gyras: Rogue | 305540 | [305540-gyras-rogue.json](./305540-gyras-rogue.json) |
 | Gyre | 347749 | [347749-gyre.json](./347749-gyre.json) |
 | Gyre: Nova State | 109910 | [109910-gyre-nova-state.json](./109910-gyre-nova-state.json) |
