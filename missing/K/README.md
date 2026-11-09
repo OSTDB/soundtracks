@@ -1299,6 +1299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Katjepult | 182536 | [182536-katjepult.json](./182536-katjepult.json) |
 | Kato | 161225 | [161225-kato.json](./161225-kato.json) |
 | Kato Pirato | 340785 | [340785-kato-pirato.json](./340785-kato-pirato.json) |
+| Kato-chan & Ken-chan | 42074 | [42074-kato-chan-and-ken-chan.json](./42074-kato-chan-and-ken-chan.json) |
 | Katoa | 248438 | [248438-katoa.json](./248438-katoa.json) |
 | Katou Hifumi Kudan Kanshuu Hifumin No Shogi Dojo | 136881 | [136881-katou-hifumi-kudan-kanshuu-hifumin-no-shogi-dojo.json](./136881-katou-hifumi-kudan-kanshuu-hifumin-no-shogi-dojo.json) |
 | Katou Hifumi Kudan no Shogi Kyoushitsu | 97858 | [97858-katou-hifumi-kudan-no-shogi-kyoushitsu.json](./97858-katou-hifumi-kudan-no-shogi-kyoushitsu.json) |
@@ -2913,6 +2914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3183,6 +3185,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Bowling 2: Professional-hen | 166544 | [166544-king-of-bowling-2-professional-hen.json](./166544-king-of-bowling-2-professional-hen.json) |
 | King of Bowling 3 | 278873 | [278873-king-of-bowling-3.json](./278873-king-of-bowling-3.json) |
 | King of Bugs | 348317 | [348317-king-of-bugs.json](./348317-king-of-bugs.json) |
+| King of Casino | 42105 | [42105-king-of-casino.json](./42105-king-of-casino.json) |
 | King of Clubs | 4958 | [4958-king-of-clubs.json](./4958-king-of-clubs.json) |
 | King of Colosseum II | 43676 | [43676-king-of-colosseum-ii.json](./43676-king-of-colosseum-ii.json) |
 | King of Conquerors | 211175 | [211175-king-of-conquerors.json](./211175-king-of-conquerors.json) |
@@ -6693,6 +6696,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyuukyoku no Sokoban | 98183 | [98183-kyuukyoku-no-sokoban.json](./98183-kyuukyoku-no-sokoban.json) |
 | Kyuukyoku Sentai Dadandarn | 40219 | [40219-kyuukyoku-sentai-dadandarn.json](./40219-kyuukyoku-sentai-dadandarn.json) |
 | Kyuukyoku Tiger | 170780 | [170780-kyuukyoku-tiger.json](./170780-kyuukyoku-tiger.json) |
+| Kyuukyoku Tiger | 42082 | [42082-kyuukyoku-tiger.json](./42082-kyuukyoku-tiger.json) |
 | Kyuukyoku Tiger Heli: Toaplan Arcade Garage | 158967 | [158967-kyuukyoku-tiger-heli-toaplan-arcade-garage.json](./158967-kyuukyoku-tiger-heli-toaplan-arcade-garage.json) |
 | Kyuukyoku Tiger II Plus | 66146 | [66146-kyuukyoku-tiger-ii-plus.json](./66146-kyuukyoku-tiger-ii-plus.json) |
 | Kyuukyuu Enshi | 411330 | [411330-kyuukyuu-enshi.json](./411330-kyuukyuu-enshi.json) |
