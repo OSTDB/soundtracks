@@ -15005,6 +15005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Smash Out 2 | 389378 | [389378-smash-out-2.json](./389378-smash-out-2.json) |
 | Smash Out Colony | 373130 | [373130-smash-out-colony.json](./373130-smash-out-colony.json) |
 | Smash Out! | 81175 | [81175-smash-out.json](./81175-smash-out.json) |
+| Smash Party VR | 30027 | [30027-smash-party-vr.json](./30027-smash-party-vr.json) |
 | Smash Pixel Racing | 33154 | [33154-smash-pixel-racing.json](./33154-smash-pixel-racing.json) |
 | Smash Point | 228824 | [228824-smash-point.json](./228824-smash-point.json) |
 | Smash Puck | 128885 | [128885-smash-puck.json](./128885-smash-puck.json) |
@@ -20923,6 +20924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Simulator HD - Planet Flight | 95529 | [95529-space-simulator-hd-planet-flight.json](./95529-space-simulator-hd-planet-flight.json) |
 | Space Sirens 2: Megababes from Ajia | 73459 | [73459-space-sirens-2-megababes-from-ajia.json](./73459-space-sirens-2-megababes-from-ajia.json) |
 | Space Slalom | 6138 | [6138-space-slalom.json](./6138-space-slalom.json) |
+| Space Slam | 30020 | [30020-space-slam.json](./30020-space-slam.json) |
 | Space Slaughter | 242875 | [242875-space-slaughter.json](./242875-space-slaughter.json) |
 | Space Slayer | 26793 | [26793-space-slayer.json](./26793-space-slayer.json) |
 | Space Slime: Rancher's Adventure | 194072 | [194072-space-slime-ranchers-adventure.json](./194072-space-slime-ranchers-adventure.json) |
@@ -21253,6 +21255,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceInvasion | 196275 | [196275-spaceinvasion.json](./196275-spaceinvasion.json) |
 | Spacejacked | 24046 | [24046-spacejacked.json](./24046-spacejacked.json) |
 | Spacejam | 177685 | [177685-spacejam.json](./177685-spacejam.json) |
+| SpaceJourney VR | 29980 | [29980-spacejourney-vr.json](./29980-spacejourney-vr.json) |
 | Spacejump | 250598 | [250598-spacejump.json](./250598-spacejump.json) |
 | Spaceketball | 96225 | [96225-spaceketball.json](./96225-spaceketball.json) |
 | SpaceKraft! | 207671 | [207671-spacekraft.json](./207671-spacekraft.json) |
@@ -31166,6 +31169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Summer Sprint | 262771 | [262771-summer-sprint.json](./262771-summer-sprint.json) |
 | Summer Stars 2012 | 20233 | [20233-summer-stars-2012.json](./20233-summer-stars-2012.json) |
 | Summer Time Render: Another Horizon | 233927 | [233927-summer-time-render-another-horizon.json](./233927-summer-time-render-another-horizon.json) |
+| Summer times Afternoon | 30032 | [30032-summer-times-afternoon.json](./30032-summer-times-afternoon.json) |
 | Summer Tri-Peaks Solitaire | 319300 | [319300-summer-tri-peaks-solitaire.json](./319300-summer-tri-peaks-solitaire.json) |
 | Summer Trip Cruise | 212823 | [212823-summer-trip-cruise.json](./212823-summer-trip-cruise.json) |
 | Summer Unpacked | 376232 | [376232-summer-unpacked.json](./376232-summer-unpacked.json) |
