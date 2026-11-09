@@ -3053,6 +3053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day R Survival | 175678 | [175678-day-r-survival.json](./175678-day-r-survival.json) |
 | Day Repeat Day | 148626 | [148626-day-repeat-day.json](./148626-day-repeat-day.json) |
 | Day Seven | 125268 | [125268-day-seven.json](./125268-day-seven.json) |
+| Day Trader | 70144 | [70144-day-trader.json](./70144-day-trader.json) |
 | Day Trader Tycoon | 386890 | [386890-day-trader-tycoon.json](./386890-day-trader-tycoon.json) |
 | Day Trading Simulator | 357195 | [357195-day-trading-simulator.json](./357195-day-trading-simulator.json) |
 | Day Zero | 330904 | [330904-day-zero.json](./330904-day-zero.json) |
@@ -9673,6 +9674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dimension Fight | 286789 | [286789-dimension-fight.json](./286789-dimension-fight.json) |
 | Dimension Hunter VR | 98212 | [98212-dimension-hunter-vr.json](./98212-dimension-hunter-vr.json) |
 | Dimension M | 213969 | [213969-dimension-m.json](./213969-dimension-m.json) |
+| Dimension M: Evolver | 70012 | [70012-dimension-m-evolver.json](./70012-dimension-m-evolver.json) |
 | Dimension of Dreams | 155881 | [155881-dimension-of-dreams.json](./155881-dimension-of-dreams.json) |
 | Dimension of Gameth | 110722 | [110722-dimension-of-gameth.json](./110722-dimension-of-gameth.json) |
 | Dimension of Monster Girls | 89608 | [89608-dimension-of-monster-girls.json](./89608-dimension-of-monster-girls.json) |
