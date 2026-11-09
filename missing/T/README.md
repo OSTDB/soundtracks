@@ -4241,12 +4241,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tennis no Ouji-sama: 2005 Crystal Drive | 72928 | [72928-tennis-no-ouji-sama-2005-crystal-drive.json](./72928-tennis-no-ouji-sama-2005-crystal-drive.json) |
 | Tennis no Ouji-sama: Aim at the Victory! | 49851 | [49851-tennis-no-ouji-sama-aim-at-the-victory.json](./49851-tennis-no-ouji-sama-aim-at-the-victory.json) |
 | Tennis no Ouji-sama: Doubles no Ouji-sama - Boys, Be Glorious! | 205202 | [205202-tennis-no-ouji-sama-doubles-no-ouji-sama-boys-be-glorious.json](./205202-tennis-no-ouji-sama-doubles-no-ouji-sama-boys-be-glorious.json) |
+| Tennis no Ouji-sama: Doubles no Ouji-sama - Girls, be Gracious! | 61218 | [61218-tennis-no-ouji-sama-doubles-no-ouji-sama-girls-be-gracious.json](./61218-tennis-no-ouji-sama-doubles-no-ouji-sama-girls-be-gracious.json) |
 | Tennis no Ouji-sama: Gakuensai no Ouji-sama | 205062 | [205062-tennis-no-ouji-sama-gakuensai-no-ouji-sama.json](./205062-tennis-no-ouji-sama-gakuensai-no-ouji-sama.json) |
 | Tennis no Ouji-sama: Genius Boys Academy | 49850 | [49850-tennis-no-ouji-sama-genius-boys-academy.json](./49850-tennis-no-ouji-sama-genius-boys-academy.json) |
 | Tennis no Ouji-sama: Rush & Dream! | 402412 | [402412-tennis-no-ouji-sama-rush-and-dream.json](./402412-tennis-no-ouji-sama-rush-and-dream.json) |
 | Tennis no Ouji-sama: Saikyou Team wo Kessei seyo! | 61127 | [61127-tennis-no-ouji-sama-saikyou-team-wo-kessei-seyo.json](./61127-tennis-no-ouji-sama-saikyou-team-wo-kessei-seyo.json) |
 | Tennis no Ouji-sama: Smash Hit! | 405516 | [405516-tennis-no-ouji-sama-smash-hit.json](./405516-tennis-no-ouji-sama-smash-hit.json) |
 | Tennis no Ouji-sama: Smash Hit! 2 | 405515 | [405515-tennis-no-ouji-sama-smash-hit-2.json](./405515-tennis-no-ouji-sama-smash-hit-2.json) |
+| Tennis no Ouji-sama: Sweat & Tears | 61213 | [61213-tennis-no-ouji-sama-sweat-and-tears.json](./61213-tennis-no-ouji-sama-sweat-and-tears.json) |
 | Tennis no Ouji-sama: Sweat & Tears 2 | 205641 | [205641-tennis-no-ouji-sama-sweat-and-tears-2.json](./205641-tennis-no-ouji-sama-sweat-and-tears-2.json) |
 | Tennis On-Court | 253174 | [253174-tennis-on-court.json](./253174-tennis-on-court.json) |
 | Tennis Online Duel | 234241 | [234241-tennis-online-duel.json](./234241-tennis-online-duel.json) |
@@ -10637,6 +10639,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Great Perhaps | 116497 | [116497-the-great-perhaps.json](./116497-the-great-perhaps.json) |
 | The Great Pickle Adventure | 157833 | [157833-the-great-pickle-adventure.json](./157833-the-great-pickle-adventure.json) |
 | The Great Plague Exodus | 149158 | [149158-the-great-plague-exodus.json](./149158-the-great-plague-exodus.json) |
+| The Great Prank War | 61193 | [61193-the-great-prank-war.json](./61193-the-great-prank-war.json) |
 | The Great Race | 55835 | [55835-the-great-race.json](./55835-the-great-race.json) |
 | The Great Race | 99775 | [99775-the-great-race.json](./99775-the-great-race.json) |
 | The Great Reading Adventure | 207115 | [207115-the-great-reading-adventure.json](./207115-the-great-reading-adventure.json) |
@@ -11229,6 +11232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Howler | 11838 | [11838-the-howler.json](./11838-the-howler.json) |
 | The Hugo Trilogy | 124942 | [124942-the-hugo-trilogy.json](./124942-the-hugo-trilogy.json) |
 | The Hula Hamsters | 71797 | [71797-the-hula-hamsters.json](./71797-the-hula-hamsters.json) |
+| The Hum | 60705 | [60705-the-hum.json](./60705-the-hum.json) |
 | The Hum: Abductions | 56876 | [56876-the-hum-abductions.json](./56876-the-hum-abductions.json) |
 | The Human Heart | 177913 | [177913-the-human-heart.json](./177913-the-human-heart.json) |
 | The Human Race | 26415 | [26415-the-human-race.json](./26415-the-human-race.json) |
@@ -11989,6 +11993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The King of Fighters Arena | 225887 | [225887-the-king-of-fighters-arena.json](./225887-the-king-of-fighters-arena.json) |
 | The King of Fighters Bundle | 271119 | [271119-the-king-of-fighters-bundle.json](./271119-the-king-of-fighters-bundle.json) |
 | The King of Fighters Collection: The Orochi Saga | 21711 | [21711-the-king-of-fighters-collection-the-orochi-saga.json](./21711-the-king-of-fighters-collection-the-orochi-saga.json) |
+| The King of Fighters Encounter | 61195 | [61195-the-king-of-fighters-encounter.json](./61195-the-king-of-fighters-encounter.json) |
 | The King of Fighters EX: Neo Blood | 49170 | [49170-the-king-of-fighters-ex-neo-blood.json](./49170-the-king-of-fighters-ex-neo-blood.json) |
 | The King of Fighters EX2: Howling Blood | 49169 | [49169-the-king-of-fighters-ex2-howling-blood.json](./49169-the-king-of-fighters-ex2-howling-blood.json) |
 | The King of Fighters Extreme | 47572 | [47572-the-king-of-fighters-extreme.json](./47572-the-king-of-fighters-extreme.json) |
