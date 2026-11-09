@@ -1025,6 +1025,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quick Revolver | 180588 | [180588-quick-revolver.json](./180588-quick-revolver.json) |
 | Quick Scrap | 185111 | [185111-quick-scrap.json](./185111-quick-scrap.json) |
 | Quick Shooter | 62796 | [62796-quick-shooter.json](./62796-quick-shooter.json) |
+| Quick Slick Deadly | 34505 | [34505-quick-slick-deadly.json](./34505-quick-slick-deadly.json) |
 | Quick Square | 169346 | [169346-quick-square.json](./169346-quick-square.json) |
 | Quick Step | 24015 | [24015-quick-step.json](./24015-quick-step.json) |
 | Quick Thief | 250351 | [250351-quick-thief.json](./250351-quick-thief.json) |
