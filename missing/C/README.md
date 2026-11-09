@@ -1203,6 +1203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Can Can Bunny | 21404 | [21404-can-can-bunny.json](./21404-can-can-bunny.json) |
 | Can Can Bunny Extra DX | 78570 | [78570-can-can-bunny-extra-dx.json](./78570-can-can-bunny-extra-dx.json) |
 | Can Can Bunny Premiere | 108895 | [108895-can-can-bunny-premiere.json](./108895-can-can-bunny-premiere.json) |
+| Can Can Bunny Premiere 2 | 46064 | [46064-can-can-bunny-premiere-2.json](./46064-can-can-bunny-premiere-2.json) |
 | Can Can Bunny Spirits | 108894 | [108894-can-can-bunny-spirits.json](./108894-can-can-bunny-spirits.json) |
 | Can Can Bunny Superior | 108893 | [108893-can-can-bunny-superior.json](./108893-can-can-bunny-superior.json) |
 | Can Deliver? Survival Kit | 402233 | [402233-can-deliver-survival-kit.json](./402233-can-deliver-survival-kit.json) |
@@ -7318,6 +7319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi Maruko-chan: Mezase! Minami no Island!! | 38152 | [38152-chibi-maruko-chan-mezase-minami-no-island.json](./38152-chibi-maruko-chan-mezase-minami-no-island.json) |
 | Chibi Maruko-chan: Okozukai Daisakusen! | 79542 | [79542-chibi-maruko-chan-okozukai-daisakusen.json](./79542-chibi-maruko-chan-okozukai-daisakusen.json) |
 | Chibi Maruko-chan: Uki Uki Shopping | 48719 | [48719-chibi-maruko-chan-uki-uki-shopping.json](./48719-chibi-maruko-chan-uki-uki-shopping.json) |
+| Chibi Maruko-chan: Waku-waku Shopping | 45644 | [45644-chibi-maruko-chan-waku-waku-shopping.json](./45644-chibi-maruko-chan-waku-waku-shopping.json) |
 | Chibi Ninja Shino-kun: Treasure of Demon Tower | 242442 | [242442-chibi-ninja-shino-kun-treasure-of-demon-tower.json](./242442-chibi-ninja-shino-kun-treasure-of-demon-tower.json) |
 | Chibi Reboot | 336690 | [336690-chibi-reboot.json](./336690-chibi-reboot.json) |
 | Chibi Reboot 2 | 338513 | [338513-chibi-reboot-2.json](./338513-chibi-reboot-2.json) |
@@ -21583,6 +21585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyborg Ninja vs. The Third Reich | 115585 | [115585-cyborg-ninja-vs-the-third-reich.json](./115585-cyborg-ninja-vs-the-third-reich.json) |
 | Cyborg Rage | 33861 | [33861-cyborg-rage.json](./33861-cyborg-rage.json) |
 | Cyborg Tower Defense | 29169 | [29169-cyborg-tower-defense.json](./29169-cyborg-tower-defense.json) |
+| Cyborg Z | 45634 | [45634-cyborg-z.json](./45634-cyborg-z.json) |
 | Cyborg_Lab | 111569 | [111569-cyborg-lab.json](./111569-cyborg-lab.json) |
 | Cyborg-Prototype | 309646 | [309646-cyborg-prototype.json](./309646-cyborg-prototype.json) |
 | Cyborg: Rise | 311492 | [311492-cyborg-rise.json](./311492-cyborg-rise.json) |
