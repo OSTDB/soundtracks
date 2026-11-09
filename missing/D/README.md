@@ -4287,6 +4287,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadliest Pigeon | 367556 | [367556-deadliest-pigeon.json](./367556-deadliest-pigeon.json) |
 | Deadliest Warrior: Ancient Combat | 20823 | [20823-deadliest-warrior-ancient-combat.json](./20823-deadliest-warrior-ancient-combat.json) |
 | Deadliest Warrior: Battlegrounds | 294543 | [294543-deadliest-warrior-battlegrounds.json](./294543-deadliest-warrior-battlegrounds.json) |
+| Deadliest Warrior: Legends | 21080 | [21080-deadliest-warrior-legends.json](./21080-deadliest-warrior-legends.json) |
 | Deadliest Warrior: The Game | 67092 | [67092-deadliest-warrior-the-game.json](./67092-deadliest-warrior-the-game.json) |
 | Deadlight | 2354 | [2354-deadlight.json](./2354-deadlight.json) |
 | Deadlight: Director's Cut | 19454 | [19454-deadlight-directors-cut.json](./19454-deadlight-directors-cut.json) |
