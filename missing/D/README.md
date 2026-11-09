@@ -4389,6 +4389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deadly Threat | 147244 | [147244-deadly-threat.json](./147244-deadly-threat.json) |
 | Deadly Tide | 3139 | [3139-deadly-tide.json](./3139-deadly-tide.json) |
 | Deadly Towers | 48067 | [48067-deadly-towers.json](./48067-deadly-towers.json) |
+| Deadly Traps | 55337 | [55337-deadly-traps.json](./55337-deadly-traps.json) |
 | Deadly Traps Premium | 185941 | [185941-deadly-traps-premium.json](./185941-deadly-traps-premium.json) |
 | Deadly Trick | 368801 | [368801-deadly-trick.json](./368801-deadly-trick.json) |
 | Deadly Tropics | 97256 | [97256-deadly-tropics.json](./97256-deadly-tropics.json) |
@@ -6993,6 +6994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Denjirou Sensei no Fushigi na Jikkenshitsu | 269695 | [269695-denjirou-sensei-no-fushigi-na-jikkenshitsu.json](./269695-denjirou-sensei-no-fushigi-na-jikkenshitsu.json) |
 | Denki Blocks! | 49155 | [49155-denki-blocks.json](./49155-denki-blocks.json) |
 | Denki Bounce | 155876 | [155876-denki-bounce.json](./155876-denki-bounce.json) |
+| Denki Gaka's Bombshell | 55353 | [55353-denki-gakas-bombshell.json](./55353-denki-gakas-bombshell.json) |
 | Denkou STG 2 | 137827 | [137827-denkou-stg-2.json](./137827-denkou-stg-2.json) |
 | Denksport Varia | 269693 | [269693-denksport-varia.json](./269693-denksport-varia.json) |
 | Dennis and Gnasher | 311315 | [311315-dennis-and-gnasher.json](./311315-dennis-and-gnasher.json) |
@@ -7863,6 +7865,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Destiny of Altrais | 103427 | [103427-destiny-of-altrais.json](./103427-destiny-of-altrais.json) |
 | Destiny of an Emperor | 48064 | [48064-destiny-of-an-emperor.json](./48064-destiny-of-an-emperor.json) |
 | Destiny of Ancient Kingdoms | 32154 | [32154-destiny-of-ancient-kingdoms.json](./32154-destiny-of-ancient-kingdoms.json) |
+| Destiny of Blood | 55355 | [55355-destiny-of-blood.json](./55355-destiny-of-blood.json) |
 | Destiny of Heroes | 303008 | [303008-destiny-of-heroes.json](./303008-destiny-of-heroes.json) |
 | Destiny of Light | 88091 | [88091-destiny-of-light.json](./88091-destiny-of-light.json) |
 | Destiny of Spirits | 42682 | [42682-destiny-of-spirits.json](./42682-destiny-of-spirits.json) |
@@ -15914,6 +15917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon's Lair Trilogy | 50593 | [50593-dragons-lair-trilogy.json](./50593-dragons-lair-trilogy.json) |
 | Dragon's Lair: Daring Edition | 100722 | [100722-dragons-lair-daring-edition.json](./100722-dragons-lair-daring-edition.json) |
 | Dragon's Lair: The Legend | 117950 | [117950-dragons-lair-the-legend.json](./117950-dragons-lair-the-legend.json) |
+| Dragon's Lunch | 55319 | [55319-dragons-lunch.json](./55319-dragons-lunch.json) |
 | Dragon's Playground | 178010 | [178010-dragons-playground.json](./178010-dragons-playground.json) |
 | Dragon's Prophet | 3264 | [3264-dragons-prophet.json](./3264-dragons-prophet.json) |
 | Dragon's Revenge | 46219 | [46219-dragons-revenge.json](./46219-dragons-revenge.json) |
@@ -17524,6 +17528,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Drone Race Simulator | 228018 | [228018-drone-race-simulator.json](./228018-drone-race-simulator.json) |
 | Drone Race Simulator Pilot Flight School Airplane Games Jet 2023 | 227515 | [227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json](./227515-drone-race-simulator-pilot-flight-school-airplane-games-jet-2023.json) |
 | Drone Racer | 127200 | [127200-drone-racer.json](./127200-drone-racer.json) |
+| Drone Racer: Canyons | 55326 | [55326-drone-racer-canyons.json](./55326-drone-racer-canyons.json) |
 | Drone Racer: Fly Stunt Simulator | 287663 | [287663-drone-racer-fly-stunt-simulator.json](./287663-drone-racer-fly-stunt-simulator.json) |
 | Drone Racing Genesis | 307865 | [307865-drone-racing-genesis.json](./307865-drone-racing-genesis.json) |
 | Drone Sector | 329148 | [329148-drone-sector.json](./329148-drone-sector.json) |
