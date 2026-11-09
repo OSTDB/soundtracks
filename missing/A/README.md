@@ -11404,6 +11404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ant Smasher | 107349 | [107349-ant-smasher.json](./107349-ant-smasher.json) |
 | Ant Smasher | 390999 | [390999-ant-smasher.json](./390999-ant-smasher.json) |
 | Ant Smasher Christmas | 352174 | [352174-ant-smasher-christmas.json](./352174-ant-smasher-christmas.json) |
+| Ant Soldiers | 56720 | [56720-ant-soldiers.json](./56720-ant-soldiers.json) |
 | Ant War Simulator: Ant Survival Game | 107091 | [107091-ant-war-simulator-ant-survival-game.json](./107091-ant-war-simulator-ant-survival-game.json) |
 | Ant War: Kingdom Battles | 255722 | [255722-ant-war-kingdom-battles.json](./255722-ant-war-kingdom-battles.json) |
 | Ant Work | 269337 | [269337-ant-work.json](./269337-ant-work.json) |
