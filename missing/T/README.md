@@ -7006,6 +7006,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Box is Alive | 377634 | [377634-the-box-is-alive.json](./377634-the-box-is-alive.json) |
 | The Box of Fear | 358634 | [358634-the-box-of-fear.json](./358634-the-box-of-fear.json) |
 | The Box of Horrors | 342100 | [342100-the-box-of-horrors.json](./342100-the-box-of-horrors.json) |
+| The Box VR | 76265 | [76265-the-box-vr.json](./76265-the-box-vr.json) |
 | The Boxer | 13429 | [13429-the-boxer.json](./13429-the-boxer.json) |
 | The Boy and his Story | 369463 | [369463-the-boy-and-his-story.json](./369463-the-boy-and-his-story.json) |
 | The Boy and the Cathedral | 265789 | [265789-the-boy-and-the-cathedral.json](./265789-the-boy-and-the-cathedral.json) |
@@ -8923,6 +8924,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Edgelands | 28217 | [28217-the-edgelands.json](./28217-the-edgelands.json) |
 | The Edibles | 273416 | [273416-the-edibles.json](./273416-the-edibles.json) |
 | The Editor | 239783 | [239783-the-editor.json](./239783-the-editor.json) |
+| The Eerie Adventures of Kally | 76109 | [76109-the-eerie-adventures-of-kally.json](./76109-the-eerie-adventures-of-kally.json) |
 | The Eerie Inn | 95595 | [95595-the-eerie-inn.json](./95595-the-eerie-inn.json) |
 | The Eerie Inn VR | 106635 | [106635-the-eerie-inn-vr.json](./106635-the-eerie-inn-vr.json) |
 | The Effective Detective | 300811 | [300811-the-effective-detective.json](./300811-the-effective-detective.json) |
@@ -10971,6 +10973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Hidden and Unknown | 226040 | [226040-the-hidden-and-unknown.json](./226040-the-hidden-and-unknown.json) |
 | The Hidden Art of Innkeeping | 269192 | [269192-the-hidden-art-of-innkeeping.json](./269192-the-hidden-art-of-innkeeping.json) |
 | The Hidden Below | 9357 | [9357-the-hidden-below.json](./9357-the-hidden-below.json) |
+| The Hidden Continent: Column of the Maya | 76086 | [76086-the-hidden-continent-column-of-the-maya.json](./76086-the-hidden-continent-column-of-the-maya.json) |
 | The Hidden Dragon | 32157 | [32157-the-hidden-dragon.json](./32157-the-hidden-dragon.json) |
 | The Hidden Evils Club | 405746 | [405746-the-hidden-evils-club.json](./405746-the-hidden-evils-club.json) |
 | The Hidden Fragmentation | 261123 | [261123-the-hidden-fragmentation.json](./261123-the-hidden-fragmentation.json) |
@@ -20240,6 +20243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Theseus Protocol | 216694 | [216694-theseus-protocol.json](./216694-theseus-protocol.json) |
 | Theseus: Journey to Athens | 114092 | [114092-theseus-journey-to-athens.json](./114092-theseus-journey-to-athens.json) |
 | Theseus: Mythological Hero | 195315 | [195315-theseus-mythological-hero.json](./195315-theseus-mythological-hero.json) |
+| Theseus: Return of the Hero | 76089 | [76089-theseus-return-of-the-hero.json](./76089-theseus-return-of-the-hero.json) |
 | TheShooterGame | 101283 | [101283-theshootergame.json](./101283-theshootergame.json) |
 | Thesis of Love | 370073 | [370073-thesis-of-love.json](./370073-thesis-of-love.json) |
 | Thesis: Purple Locus | 343192 | [343192-thesis-purple-locus.json](./343192-thesis-purple-locus.json) |
@@ -21174,6 +21178,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thrymly Disguised | 232781 | [232781-thrymly-disguised.json](./232781-thrymly-disguised.json) |
 | Thud Ridge: American Aces in 'Nam | 57594 | [57594-thud-ridge-american-aces-in-nam.json](./57594-thud-ridge-american-aces-in-nam.json) |
 | Thug Life | 377562 | [377562-thug-life.json](./377562-thug-life.json) |
+| Thug Life | 76080 | [76080-thug-life.json](./76080-thug-life.json) |
 | THUG Pro | 138344 | [138344-thug-pro.json](./138344-thug-pro.json) |
 | Thug Racer! | 185203 | [185203-thug-racer.json](./185203-thug-racer.json) |
 | Thug Wars | 407084 | [407084-thug-wars.json](./407084-thug-wars.json) |
