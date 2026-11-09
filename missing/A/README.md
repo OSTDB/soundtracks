@@ -7524,6 +7524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alive Alphabet: Letter Tracing | 106938 | [106938-alive-alphabet-letter-tracing.json](./106938-alive-alphabet-letter-tracing.json) |
 | Alive Arrow | 166386 | [166386-alive-arrow.json](./166386-alive-arrow.json) |
 | Alive Sharks | 70285 | [70285-alive-sharks.json](./70285-alive-sharks.json) |
+| Alive: New Journey | 28371 | [28371-alive-new-journey.json](./28371-alive-new-journey.json) |
 | Alive! Jigsaw | 94344 | [94344-alive-jigsaw.json](./94344-alive-jigsaw.json) |
 | Alive? Dead? | 105514 | [105514-alive-dead.json](./105514-alive-dead.json) |
 | AliveInVR | 52060 | [52060-aliveinvr.json](./52060-aliveinvr.json) |
@@ -8758,6 +8759,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amber Isle: Starter Pack | 330221 | [330221-amber-isle-starter-pack.json](./330221-amber-isle-starter-pack.json) |
 | Amber of The End | 359547 | [359547-amber-of-the-end.json](./359547-amber-of-the-end.json) |
 | Amber Quartz | 69291 | [69291-amber-quartz.json](./69291-amber-quartz.json) |
+| Amber Tail Adventure | 29023 | [29023-amber-tail-adventure.json](./29023-amber-tail-adventure.json) |
 | Amber Time | 132372 | [132372-amber-time.json](./132372-amber-time.json) |
 | Amber Time Pocket | 226220 | [226220-amber-time-pocket.json](./226220-amber-time-pocket.json) |
 | Amber: Journeys Beyond | 12390 | [12390-amber-journeys-beyond.json](./12390-amber-journeys-beyond.json) |
@@ -17385,6 +17387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
