@@ -1355,6 +1355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zlin City: Arch Moderna | 304008 | [304008-zlin-city-arch-moderna.json](./304008-zlin-city-arch-moderna.json) |
 | ZLM Crafter | 124206 | [124206-zlm-crafter.json](./124206-zlm-crafter.json) |
 | Zlorp Adventures | 328999 | [328999-zlorp-adventures.json](./328999-zlorp-adventures.json) |
+| Zlug Rush | 62866 | [62866-zlug-rush.json](./62866-zlug-rush.json) |
 | Zly.ii: The Hacked Station | 369755 | [369755-zly-ii-the-hacked-station.json](./369755-zly-ii-the-hacked-station.json) |
 | zMahjong Super Solitaire | 88451 | [88451-zmahjong-super-solitaire.json](./88451-zmahjong-super-solitaire.json) |
 | ZMR: Zombies Monsters Robots | 7424 | [7424-zmr-zombies-monsters-robots.json](./7424-zmr-zombies-monsters-robots.json) |
@@ -2059,6 +2060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie Wrap Simulator | 416341 | [416341-zombie-wrap-simulator.json](./416341-zombie-wrap-simulator.json) |
 | Zombie Zoeds | 35346 | [35346-zombie-zoeds.json](./35346-zombie-zoeds.json) |
 | Zombie Zombie | 316091 | [316091-zombie-zombie.json](./316091-zombie-zombie.json) |
+| Zombie Zombie Zombie | 62849 | [62849-zombie-zombie-zombie.json](./62849-zombie-zombie-zombie.json) |
 | Zombie Zone | 72157 | [72157-zombie-zone.json](./72157-zombie-zone.json) |
 | Zombie's Cool | 147261 | [147261-zombies-cool.json](./147261-zombies-cool.json) |
 | Zombie's Cool 2 | 222338 | [222338-zombies-cool-2.json](./222338-zombies-cool-2.json) |
