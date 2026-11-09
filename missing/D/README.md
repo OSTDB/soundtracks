@@ -9508,6 +9508,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon Tamers: Brave Tamer | 37552 | [37552-digimon-tamers-brave-tamer.json](./37552-digimon-tamers-brave-tamer.json) |
 | Digimon Tamers: Digimon Medley | 37551 | [37551-digimon-tamers-digimon-medley.json](./37551-digimon-tamers-digimon-medley.json) |
 | Digimon Tamers: Pocket Culumon | 108939 | [108939-digimon-tamers-pocket-culumon.json](./108939-digimon-tamers-pocket-culumon.json) |
+| Digimon Universe: Appli Monsters | 57198 | [57198-digimon-universe-appli-monsters.json](./57198-digimon-universe-appli-monsters.json) |
 | Digimon Up | 395561 | [395561-digimon-up.json](./395561-digimon-up.json) |
 | Digimon Vital Bracelet Lab | 185990 | [185990-digimon-vital-bracelet-lab.json](./185990-digimon-vital-bracelet-lab.json) |
 | Digimon World | 335566 | [335566-digimon-world.json](./335566-digimon-world.json) |
@@ -10810,6 +10811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney Dreamlight Valley: Wonderland Whimsy | 341581 | [341581-disney-dreamlight-valley-wonderland-whimsy.json](./341581-disney-dreamlight-valley-wonderland-whimsy.json) |
 | Disney DVD Game World: Disney Dogs Edition | 228445 | [228445-disney-dvd-game-world-disney-dogs-edition.json](./228445-disney-dvd-game-world-disney-dogs-edition.json) |
 | Disney Emoji Blitz | 89817 | [89817-disney-emoji-blitz.json](./89817-disney-emoji-blitz.json) |
+| Disney Enchanted Tales | 57214 | [57214-disney-enchanted-tales.json](./57214-disney-enchanted-tales.json) |
 | Disney Epic Quest | 123397 | [123397-disney-epic-quest.json](./123397-disney-epic-quest.json) |
 | Disney Face Chase | 243813 | [243813-disney-face-chase.json](./243813-disney-face-chase.json) |
 | Disney Fairies | 131394 | [131394-disney-fairies.json](./131394-disney-fairies.json) |
@@ -19926,6 +19928,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dynabusters | 92413 | [92413-dynabusters.json](./92413-dynabusters.json) |
 | Dynacat | 196958 | [196958-dynacat.json](./196958-dynacat.json) |
 | Dynacore | 214722 | [214722-dynacore.json](./214722-dynacore.json) |
+| Dynacorp | 57200 | [57200-dynacorp.json](./57200-dynacorp.json) |
 | Dynamaite the Las Vegas | 44441 | [44441-dynamaite-the-las-vegas.json](./44441-dynamaite-the-las-vegas.json) |
 | Dynami Tracer | 2981 | [2981-dynami-tracer.json](./2981-dynami-tracer.json) |
 | Dynamic | 226170 | [226170-dynamic.json](./226170-dynamic.json) |
