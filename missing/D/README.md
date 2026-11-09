@@ -911,6 +911,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dances and Girls | 160084 | [160084-dances-and-girls.json](./160084-dances-and-girls.json) |
 | Dances with Butterflies VR | 117088 | [117088-dances-with-butterflies-vr.json](./117088-dances-with-butterflies-vr.json) |
 | DanceStar: Party Hits | 44595 | [44595-dancestar-party-hits.json](./44595-dancestar-party-hits.json) |
+| DanceWall Remix | 17484 | [17484-dancewall-remix.json](./17484-dancewall-remix.json) |
 | Danchi Days | 321579 | [321579-danchi-days.json](./321579-danchi-days.json) |
 | Danchi de Hanafuda | 64347 | [64347-danchi-de-hanafuda.json](./64347-danchi-de-hanafuda.json) |
 | Danchizuma no Yuuwaku | 58773 | [58773-danchizuma-no-yuuwaku.json](./58773-danchizuma-no-yuuwaku.json) |
@@ -4148,6 +4149,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dead Spreading: Survival | 239911 | [239911-dead-spreading-survival.json](./239911-dead-spreading-survival.json) |
 | Dead Star | 21960 | [21960-dead-star.json](./21960-dead-star.json) |
 | Dead State | 8349 | [8349-dead-state.json](./8349-dead-state.json) |
+| Dead State: Reanimated | 16544 | [16544-dead-state-reanimated.json](./16544-dead-state-reanimated.json) |
 | Dead Station | 225883 | [225883-dead-station.json](./225883-dead-station.json) |
 | Dead Station 2 | 305410 | [305410-dead-station-2.json](./305410-dead-station-2.json) |
 | Dead sticks | 177674 | [177674-dead-sticks.json](./177674-dead-sticks.json) |
@@ -11616,6 +11618,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | División Especial de Detectives! | 159011 | [159011-division-especial-de-detectives.json](./159011-division-especial-de-detectives.json) |
 | Division of Labour | 216651 | [216651-division-of-labour.json](./216651-division-of-labour.json) |
 | Divnozemye | 290858 | [290858-divnozemye.json](./290858-divnozemye.json) |
+| Divo | 16482 | [16482-divo.json](./16482-divo.json) |
 | Divorce Chatroom | 328348 | [328348-divorce-chatroom.json](./328348-divorce-chatroom.json) |
 | Dìwáng Chāiqiān Bàn | 367485 | [367485-diwang-chaiqian-ban.json](./367485-diwang-chaiqian-ban.json) |
 | Dìxiàshì | 148693 | [148693-dixiashi.json](./148693-dixiashi.json) |
@@ -15057,6 +15060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula: Crazy Vampire | 49941 | [49941-dracula-crazy-vampire.json](./49941-dracula-crazy-vampire.json) |
 | Dracula: Love Kills | 16688 | [16688-dracula-love-kills.json](./16688-dracula-love-kills.json) |
 | Dracula: Origin 2 | 95433 | [95433-dracula-origin-2.json](./95433-dracula-origin-2.json) |
+| Dracula: Reign of Terror | 16479 | [16479-dracula-reign-of-terror.json](./16479-dracula-reign-of-terror.json) |
 | Dracula: Restless Legs Syndrome | 411611 | [411611-dracula-restless-legs-syndrome.json](./411611-dracula-restless-legs-syndrome.json) |
 | Dracula: Resurrection | 9091 | [9091-dracula-resurrection.json](./9091-dracula-resurrection.json) |
 | Dracula: The Path of the Dragon | 50431 | [50431-dracula-the-path-of-the-dragon.json](./50431-dracula-the-path-of-the-dragon.json) |
