@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://ostdb.net"><img alt="soundtracks: 3,012" src="https://img.shields.io/badge/soundtracks-3%2C012-E2B714?style=for-the-badge&labelColor=161718" /></a>
 <a href="games/README.md"><img alt="games: 2,529" src="https://img.shields.io/badge/games-2%2C529-ECECEE?style=for-the-badge&labelColor=161718" /></a>
-<a href="missing/README.md"><img alt="missing: 329,128" src="https://img.shields.io/badge/missing-329%2C128-F0827A?style=for-the-badge&labelColor=161718" /></a>
+<a href="missing/README.md"><img alt="missing: 330,323" src="https://img.shields.io/badge/missing-330%2C323-F0827A?style=for-the-badge&labelColor=161718" /></a>
 <a href="SUBMITTING.md"><img alt="PRs: welcome" src="https://img.shields.io/badge/PRs-welcome-1DB954?style=for-the-badge&labelColor=161718&logo=github&logoColor=white" /></a>
 <a href="LICENSE"><img alt="data: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/data-CC%20BY--NC--SA%204.0-6366F1?style=for-the-badge&labelColor=161718" /></a>
 </p>
@@ -27,20 +27,20 @@
 
 <table>
 <tr>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/world-of-warcraft-forever"><img src="https://ostdb.net/media/uploads/8e67d689a3c7f254700a25f510079e65e476c19abead45d7c719b3fdb036770b.jpg" width="120" height="120" alt="" /></a><br /><sub><b>World of Warcraft: Forever</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/some-distant-memory"><img src="https://i.scdn.co/image/ab67616d0000b2738f4e0ee8d81f228b39ce5ad3" width="120" height="120" alt="" /></a><br /><sub><b>Some Distant Memory</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/panzer-paladin"><img src="https://i.scdn.co/image/ab67616d0000b2734d561e72cabc93cd23fb87d7" width="120" height="120" alt="" /></a><br /><sub><b>Panzer Paladin</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/foregone"><img src="https://i.scdn.co/image/ab67616d0000b27347566be9e82a02d2fd8f31a0" width="120" height="120" alt="" /></a><br /><sub><b>Foregone</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/poncho"><img src="https://i.scdn.co/image/ab67616d0000b273b3eaa583e57a1d6089d7effb" width="120" height="120" alt="" /></a><br /><sub><b>Poncho</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/fugue-in-void"><img src="https://i.scdn.co/image/ab67616d0000b2733bedd0cf0c6ee685788c271f" width="120" height="120" alt="" /></a><br /><sub><b>Fugue in Void</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/rise-of-insanity"><img src="https://i.scdn.co/image/ab67616d0000b27367d3d4cd2003c38eec4cd6e8" width="120" height="120" alt="" /></a><br /><sub><b>Rise of Insanity</b></sub></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/rise-of-insanity"><img src="https://i.scdn.co/image/ab67616d0000b27367d3d4cd2003c38eec4cd6e8" width="120" height="120" alt="" /></a><br /><sub><b>Rise of Insanity</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/one"><img src="https://i.scdn.co/image/ab67616d0000b27394062c806a49dfd36849a878" width="120" height="120" alt="" /></a><br /><sub><b>One</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/one-hand-clapping"><img src="https://i.scdn.co/image/ab67616d0000b273cef683d8f1ff036e86a4533d" width="120" height="120" alt="" /></a><br /><sub><b>One Hand Clapping</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/rebel-inc"><img src="https://i.scdn.co/image/ab67616d0000b273f83c5c05d14aeeab87101fcc" width="120" height="120" alt="" /></a><br /><sub><b>Rebel Inc.</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/dick-tracy"><img src="https://i.scdn.co/image/ab67616d0000b273f3053507d09d9255c66219b4" width="120" height="120" alt="" /></a><br /><sub><b>Dick Tracy</b></sub></td>
 <td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/disjunction"><img src="https://i.scdn.co/image/ab67616d0000b2730a41b6d38d2bcf22ab5e2b14" width="120" height="120" alt="" /></a><br /><sub><b>Disjunction</b></sub></td>
-<td align="center" valign="top" width="16%"><a href="https://ostdb.net/games/call-of-duty-black-ops-zombies"><img src="https://i.scdn.co/image/ab67616d0000b2734bc9031ffb86dfa3cea86c52" width="120" height="120" alt="" /></a><br /><sub><b>Call of Duty: Black Ops - Zombies</b></sub></td>
 </tr>
 </table>
 
@@ -66,7 +66,7 @@ The most popular games that still have no soundtrack on OSTDB. Find the official
 | 14 | **Counter-Strike: Condition Zero** | [🔎 Find on Spotify](https://open.spotify.com/search/Counter-Strike%3A%20Condition%20Zero%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/C/297-counter-strike-condition-zero.json) |
 | 15 | **Resident Evil: Revelations 2** | [🔎 Find on Spotify](https://open.spotify.com/search/Resident%20Evil%3A%20Revelations%202%20soundtrack) | [✏️ Add it](https://github.com/OSTDB/soundtracks/edit/main/missing/R/7725-resident-evil-revelations-2.json) |
 
-More in **[missing/](missing/README.md)** (329,128 games).
+More in **[missing/](missing/README.md)** (330,323 games).
 
 ## 🎵 Add a soundtrack in 2 minutes
 
@@ -111,4 +111,4 @@ Commercial use needs permission ([support@ostdb.net](mailto:support@ostdb.net)).
 
 ---
 
-<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,012 soundtracks &middot; last updated 2026-11-09T10:20:44.535Z</sub>
+<sub>Generated by <a href="https://github.com/OSTDB/soundtracks-sync">ostdbbot</a> &middot; 3,012 soundtracks &middot; last updated 2026-11-09T12:41:03.201Z</sub>
