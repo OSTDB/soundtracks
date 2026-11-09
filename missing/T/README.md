@@ -4929,6 +4929,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tessallation | 62829 | [62829-tessallation.json](./62829-tessallation.json) |
 | Tessel Run | 391753 | [391753-tessel-run.json](./391753-tessel-run.json) |
 | Tessera | 333113 | [333113-tessera.json](./333113-tessera.json) |
+| TesserAct | 17496 | [17496-tesseract.json](./17496-tesseract.json) |
 | Tesseract VR | 99602 | [99602-tesseract-vr.json](./99602-tesseract-vr.json) |
 | TesserActive | 120633 | [120633-tesseractive.json](./120633-tesseractive.json) |
 | Tesserae | 71921 | [71921-tesserae.json](./71921-tesserae.json) |
@@ -23997,6 +23998,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Timeline Traveler | 136401 | [136401-timeline-traveler.json](./136401-timeline-traveler.json) |
 | Timeline Traveler II: Dream | 170518 | [170518-timeline-traveler-ii-dream.json](./170518-timeline-traveler-ii-dream.json) |
 | Timeline: The Future Awaits | 402142 | [402142-timeline-the-future-awaits.json](./402142-timeline-the-future-awaits.json) |
+| Timelines: Assault on America | 16497 | [16497-timelines-assault-on-america.json](./16497-timelines-assault-on-america.json) |
 | TimelineTown | 401746 | [401746-timelinetown.json](./401746-timelinetown.json) |
 | TimeLock VR | 51516 | [51516-timelock-vr.json](./51516-timelock-vr.json) |
 | TimeLock VR 2 | 192769 | [192769-timelock-vr-2.json](./192769-timelock-vr-2.json) |
@@ -26850,6 +26852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Torque Drift | 95835 | [95835-torque-drift.json](./95835-torque-drift.json) |
 | Torque Drift 2 | 271277 | [271277-torque-drift-2.json](./271277-torque-drift-2.json) |
 | Torqued Up Legends | 141879 | [141879-torqued-up-legends.json](./141879-torqued-up-legends.json) |
+| TorqueL | 16654 | [16654-torquel.json](./16654-torquel.json) |
 | TorqueL: Physics Modified Edition | 86458 | [86458-torquel-physics-modified-edition.json](./86458-torquel-physics-modified-edition.json) |
 | Torrente | 94496 | [94496-torrente.json](./94496-torrente.json) |
 | Torrente 3: The Protector | 69598 | [69598-torrente-3-the-protector.json](./69598-torrente-3-the-protector.json) |
@@ -28380,6 +28383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Toxic 2 | 97685 | [97685-toxic-2.json](./97685-toxic-2.json) |
 | Toxic Bubbles | 23730 | [23730-toxic-bubbles.json](./23730-toxic-bubbles.json) |
 | Toxic Bunny | 145523 | [145523-toxic-bunny.json](./145523-toxic-bunny.json) |
+| Toxic Bunny HD | 17500 | [17500-toxic-bunny-hd.json](./17500-toxic-bunny-hd.json) |
 | Toxic Cove | 315406 | [315406-toxic-cove.json](./315406-toxic-cove.json) |
 | Toxic Crusaders | 175121 | [175121-toxic-crusaders.json](./175121-toxic-crusaders.json) |
 | Toxic Crusaders | 175122 | [175122-toxic-crusaders.json](./175122-toxic-crusaders.json) |
