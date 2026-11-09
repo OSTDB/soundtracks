@@ -2197,6 +2197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ZombieSmash | 66793 | [66793-zombiesmash.json](./66793-zombiesmash.json) |
 | ZombieSmash HD | 281446 | [281446-zombiesmash-hd.json](./281446-zombiesmash-hd.json) |
 | ZombieSquad | 216475 | [216475-zombiesquad.json](./216475-zombiesquad.json) |
+| ZombiesTown VR | 30318 | [30318-zombiestown-vr.json](./30318-zombiestown-vr.json) |
 | ZombiesWaves | 149902 | [149902-zombieswaves.json](./149902-zombieswaves.json) |
 | ZombieThon | 98843 | [98843-zombiethon.json](./98843-zombiethon.json) |
 | Zombietron 1: Cemetery Guy | 94555 | [94555-zombietron-1-cemetery-guy.json](./94555-zombietron-1-cemetery-guy.json) |
