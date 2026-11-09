@@ -8001,6 +8001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chocotto Land Online | 243781 | [243781-chocotto-land-online.json](./243781-chocotto-land-online.json) |
 | Chogue | 105114 | [105114-chogue.json](./105114-chogue.json) |
 | Choi | 231201 | [231201-choi.json](./231201-choi.json) |
+| Choice | 76076 | [76076-choice.json](./76076-choice.json) |
 | Choice Chamber | 22036 | [22036-choice-chamber.json](./22036-choice-chamber.json) |
 | Choice Clash: What Would You Rather? | 267857 | [267857-choice-clash-what-would-you-rather.json](./267857-choice-clash-what-would-you-rather.json) |
 | Choice Matters | 312752 | [312752-choice-matters.json](./312752-choice-matters.json) |
@@ -8022,6 +8023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Choice of the Ninja | 76114 | [76114-choice-of-the-ninja.json](./76114-choice-of-the-ninja.json) |
 | Choice of the Petal Throne | 35582 | [35582-choice-of-the-petal-throne.json](./35582-choice-of-the-petal-throne.json) |
 | Choice of the Pirate | 32582 | [32582-choice-of-the-pirate.json](./32582-choice-of-the-pirate.json) |
+| Choice of the Rock Star | 76113 | [76113-choice-of-the-rock-star.json](./76113-choice-of-the-rock-star.json) |
 | Choice of the Star Captain | 38726 | [38726-choice-of-the-star-captain.json](./38726-choice-of-the-star-captain.json) |
 | Choice of the Vampire: St. Louis, Unreal City | 169935 | [169935-choice-of-the-vampire-st-louis-unreal-city.json](./169935-choice-of-the-vampire-st-louis-unreal-city.json) |
 | Choice of the Vampire: The Fall of Memphis | 86742 | [86742-choice-of-the-vampire-the-fall-of-memphis.json](./86742-choice-of-the-vampire-the-fall-of-memphis.json) |
@@ -8424,6 +8426,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Christmas Prayers | 82167 | [82167-christmas-prayers.json](./82167-christmas-prayers.json) |
 | Christmas Present | 285567 | [285567-christmas-present.json](./285567-christmas-present.json) |
 | Christmas Puzzle | 74944 | [74944-christmas-puzzle.json](./74944-christmas-puzzle.json) |
+| Christmas Puzzle 2 | 76083 | [76083-christmas-puzzle-2.json](./76083-christmas-puzzle-2.json) |
 | Christmas Puzzle 3 | 76672 | [76672-christmas-puzzle-3.json](./76672-christmas-puzzle-3.json) |
 | Christmas Puzzle 4 | 279001 | [279001-christmas-puzzle-4.json](./279001-christmas-puzzle-4.json) |
 | Christmas Puzzle 5 | 280312 | [280312-christmas-puzzle-5.json](./280312-christmas-puzzle-5.json) |
@@ -10465,6 +10468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clency and Livia | 284293 | [284293-clency-and-livia.json](./284293-clency-and-livia.json) |
 | Cleo: A Pirate's Tale | 137216 | [137216-cleo-a-pirates-tale.json](./137216-cleo-a-pirates-tale.json) |
 | Cleo: A Pirate's Tale - Deluxe Edition | 186887 | [186887-cleo-a-pirates-tale-deluxe-edition.json](./186887-cleo-a-pirates-tale-deluxe-edition.json) |
+| Cleo's Lost Idols | 76068 | [76068-cleos-lost-idols.json](./76068-cleos-lost-idols.json) |
 | Cleopatra Fortune Plus | 254954 | [254954-cleopatra-fortune-plus.json](./254954-cleopatra-fortune-plus.json) |
 | Cleopatra Fortune: S-Tribute | 225886 | [225886-cleopatra-fortune-s-tribute.json](./225886-cleopatra-fortune-s-tribute.json) |
 | Cleopatra no Mahou | 41328 | [41328-cleopatra-no-mahou.json](./41328-cleopatra-no-mahou.json) |
@@ -20413,6 +20417,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of The Lineage | 375835 | [375835-curse-of-the-lineage.json](./375835-curse-of-the-lineage.json) |
 | Curse of the Lost Gods | 268878 | [268878-curse-of-the-lost-gods.json](./268878-curse-of-the-lost-gods.json) |
 | Curse of the Mirror | 398091 | [398091-curse-of-the-mirror.json](./398091-curse-of-the-mirror.json) |
+| Curse of the Old Gods | 76268 | [76268-curse-of-the-old-gods.json](./76268-curse-of-the-old-gods.json) |
 | Curse of the Pharaoh: Napoleon's Secret | 208843 | [208843-curse-of-the-pharaoh-napoleons-secret.json](./208843-curse-of-the-pharaoh-napoleons-secret.json) |
 | Curse of the Pharaoh: Tears of Sekhmet | 158940 | [158940-curse-of-the-pharaoh-tears-of-sekhmet.json](./158940-curse-of-the-pharaoh-tears-of-sekhmet.json) |
 | Curse of the Pharaoh: The Quest for Nefertiti | 70043 | [70043-curse-of-the-pharaoh-the-quest-for-nefertiti.json](./70043-curse-of-the-pharaoh-the-quest-for-nefertiti.json) |
