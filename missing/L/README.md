@@ -2720,6 +2720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of Mir 3 | 51197 | [51197-legend-of-mir-3.json](./51197-legend-of-mir-3.json) |
 | Legend of Moros | 33320 | [33320-legend-of-moros.json](./33320-legend-of-moros.json) |
 | Legend of Mortal | 203852 | [203852-legend-of-mortal.json](./203852-legend-of-mortal.json) |
+| Legend of Mulan | 64453 | [64453-legend-of-mulan.json](./64453-legend-of-mulan.json) |
 | Legend of Mushroom | 296826 | [296826-legend-of-mushroom.json](./296826-legend-of-mushroom.json) |
 | Legend of Mysteria | 34338 | [34338-legend-of-mysteria.json](./34338-legend-of-mysteria.json) |
 | Legend of Mysteria RPG | 53268 | [53268-legend-of-mysteria-rpg.json](./53268-legend-of-mysteria-rpg.json) |
@@ -5449,6 +5450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Limit's Escape Room Games 2 | 211631 | [211631-limits-escape-room-games-2.json](./211631-limits-escape-room-games-2.json) |
 | Limita Luminii | 188892 | [188892-limita-luminii.json](./188892-limita-luminii.json) |
 | Limite Limite | 281801 | [281801-limite-limite.json](./281801-limite-limite.json) |
+| Limited Edition Hang-On | 64017 | [64017-limited-edition-hang-on.json](./64017-limited-edition-hang-on.json) |
 | Limited Express | 423259 | [423259-limited-express.json](./423259-limited-express.json) |
 | Limited Lifetime Corp | 208653 | [208653-limited-lifetime-corp.json](./208653-limited-lifetime-corp.json) |
 | Limited Rescue | 235039 | [235039-limited-rescue.json](./235039-limited-rescue.json) |
