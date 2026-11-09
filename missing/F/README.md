@@ -585,6 +585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fail to Win | 125929 | [125929-fail-to-win.json](./125929-fail-to-win.json) |
 | Fail to Win: Chapter 1 | 114988 | [114988-fail-to-win-chapter-1.json](./114988-fail-to-win-chapter-1.json) |
 | Fail World | 356064 | [356064-fail-world.json](./356064-fail-world.json) |
+| Fail-Safe | 60108 | [60108-fail-safe.json](./60108-fail-safe.json) |
 | Fail.safe | 367557 | [367557-fail-safe.json](./367557-fail-safe.json) |
 | Failed Adventurer | 154260 | [154260-failed-adventurer.json](./154260-failed-adventurer.json) |
 | Failed Falling | 399049 | [399049-failed-falling.json](./399049-failed-falling.json) |
@@ -9648,6 +9649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FootyKitDle | 304250 | [304250-footykitdle.json](./304250-footykitdle.json) |
 | Foqus | 46609 | [46609-foqus.json](./46609-foqus.json) |
 | For a Better Country | 121373 | [121373-for-a-better-country.json](./121373-for-a-better-country.json) |
+| For a Change | 60113 | [60113-for-a-change.json](./60113-for-a-change.json) |
 | For a Place by the Putrid Sea | 297600 | [297600-for-a-place-by-the-putrid-sea.json](./297600-for-a-place-by-the-putrid-sea.json) |
 | For a Reason | 264437 | [264437-for-a-reason.json](./264437-for-a-reason.json) |
 | For a Vast Future | 144170 | [144170-for-a-vast-future.json](./144170-for-a-vast-future.json) |
@@ -10934,6 +10936,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fortune the Fated | 223415 | [223415-fortune-the-fated.json](./223415-fortune-the-fated.json) |
 | Fortune Tiles Gold | 53063 | [53063-fortune-tiles-gold.json](./53063-fortune-tiles-gold.json) |
 | Fortune Wheel | 390463 | [390463-fortune-wheel.json](./390463-fortune-wheel.json) |
+| Fortune Wheel Slots | 59562 | [59562-fortune-wheel-slots.json](./59562-fortune-wheel-slots.json) |
 | Fortune x World: Bokura ga Game wo Tsukuru Riyuu | 382467 | [382467-fortune-x-world-bokura-ga-game-wo-tsukuru-riyuu.json](./382467-fortune-x-world-bokura-ga-game-wo-tsukuru-riyuu.json) |
 | Fortune: Hoshi no Furi Sosogu Oka | 344480 | [344480-fortune-hoshi-no-furi-sosogu-oka.json](./344480-fortune-hoshi-no-furi-sosogu-oka.json) |
 | Fortune's Favor | 347323 | [347323-fortunes-favor.json](./347323-fortunes-favor.json) |
