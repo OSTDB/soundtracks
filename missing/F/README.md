@@ -11455,6 +11455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Foxy | 222690 | [222690-foxy.json](./222690-foxy.json) |
 | Foxy 2 | 222716 | [222716-foxy-2.json](./222716-foxy-2.json) |
 | Foxy Dumplings | 386440 | [386440-foxy-dumplings.json](./386440-foxy-dumplings.json) |
+| Foxy Fox | 25284 | [25284-foxy-fox.json](./25284-foxy-fox.json) |
 | Foxy Furry Lady of the Forest | 82919 | [82919-foxy-furry-lady-of-the-forest.json](./82919-foxy-furry-lady-of-the-forest.json) |
 | Foxy Go Go Go! | 397232 | [397232-foxy-go-go-go.json](./397232-foxy-go-go-go.json) |
 | Foxy J.A.B.S: Just Another Bubble Shooter | 306280 | [306280-foxy-j-a-b-s-just-another-bubble-shooter.json](./306280-foxy-j-a-b-s-just-another-bubble-shooter.json) |
