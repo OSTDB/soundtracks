@@ -877,6 +877,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kapow Pets | 211367 | [211367-kapow-pets.json](./211367-kapow-pets.json) |
 | Kappa Nittori-chan | 205790 | [205790-kappa-nittori-chan.json](./205790-kappa-nittori-chan.json) |
 | Kappa no Kai-kata: How to Breed Kappas | 335977 | [335977-kappa-no-kai-kata-how-to-breed-kappas.json](./335977-kappa-no-kai-kata-how-to-breed-kappas.json) |
+| Kappa no Kai-kata: Katan Daibouken | 49417 | [49417-kappa-no-kai-kata-katan-daibouken.json](./49417-kappa-no-kai-kata-katan-daibouken.json) |
 | Kappa Quest | 338296 | [338296-kappa-quest.json](./338296-kappa-quest.json) |
 | Kappa-kun to Asobou: Kappa-kun to Ota no Shimikai | 64439 | [64439-kappa-kun-to-asobou-kappa-kun-to-ota-no-shimikai.json](./64439-kappa-kun-to-asobou-kappa-kun-to-ota-no-shimikai.json) |
 | Kappa's Asylum | 304565 | [304565-kappas-asylum.json](./304565-kappas-asylum.json) |
