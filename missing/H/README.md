@@ -455,6 +455,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hakuoki Zuisouroku Portable | 221013 | [221013-hakuoki-zuisouroku-portable.json](./221013-hakuoki-zuisouroku-portable.json) |
 | Hakuoki: Chronicles of Wind and Blossom | 101066 | [101066-hakuoki-chronicles-of-wind-and-blossom.json](./101066-hakuoki-chronicles-of-wind-and-blossom.json) |
 | Hakuoki: Demon of the Fleeting Blossom | 17272 | [17272-hakuoki-demon-of-the-fleeting-blossom.json](./17272-hakuoki-demon-of-the-fleeting-blossom.json) |
+| Hakuoki: Demon of the Fleeting Blossom - Limited Edition | 42714 | [42714-hakuoki-demon-of-the-fleeting-blossom-limited-edition.json](./42714-hakuoki-demon-of-the-fleeting-blossom-limited-edition.json) |
 | Hakuoki: Edo Blossoms | 74563 | [74563-hakuoki-edo-blossoms.json](./74563-hakuoki-edo-blossoms.json) |
 | Hakuoki: Edo Blossoms - Deluxe Edition | 186545 | [186545-hakuoki-edo-blossoms-deluxe-edition.json](./186545-hakuoki-edo-blossoms-deluxe-edition.json) |
 | Hakuoki: Edo Blossoms - DLC Bundle | 186544 | [186544-hakuoki-edo-blossoms-dlc-bundle.json](./186544-hakuoki-edo-blossoms-dlc-bundle.json) |
