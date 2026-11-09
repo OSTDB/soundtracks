@@ -661,10 +661,30 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Call of Duty: Advanced Warfare - Atlas Digital Pack | 25973 | [25973-call-of-duty-advanced-warfare-atlas-digital-pack.json](./25973-call-of-duty-advanced-warfare-atlas-digital-pack.json) |
 | Call of Duty: Advanced Warfare - Atlas Limited Edition | 136290 | [136290-call-of-duty-advanced-warfare-atlas-limited-edition.json](./136290-call-of-duty-advanced-warfare-atlas-limited-edition.json) |
 | Call of Duty: Advanced Warfare - Atlas Pro Edition | 102718 | [102718-call-of-duty-advanced-warfare-atlas-pro-edition.json](./102718-call-of-duty-advanced-warfare-atlas-pro-edition.json) |
+| Call of Duty: Advanced Warfare - Australia Exoskeleton Pack | 26049 | [26049-call-of-duty-advanced-warfare-australia-exoskeleton-pack.json](./26049-call-of-duty-advanced-warfare-australia-exoskeleton-pack.json) |
+| Call of Duty: Advanced Warfare - Barong Exoskeleton Pack | 26050 | [26050-call-of-duty-advanced-warfare-barong-exoskeleton-pack.json](./26050-call-of-duty-advanced-warfare-barong-exoskeleton-pack.json) |
+| Call of Duty: Advanced Warfare - Canada Exoskeleton Pack | 26051 | [26051-call-of-duty-advanced-warfare-canada-exoskeleton-pack.json](./26051-call-of-duty-advanced-warfare-canada-exoskeleton-pack.json) |
+| Call of Duty: Advanced Warfare - Creature Personalization Pack | 26052 | [26052-call-of-duty-advanced-warfare-creature-personalization-pack.json](./26052-call-of-duty-advanced-warfare-creature-personalization-pack.json) |
+| Call of Duty: Advanced Warfare - Creature Premium Personalization Pack | 26066 | [26066-call-of-duty-advanced-warfare-creature-premium-personalization-pack.json](./26066-call-of-duty-advanced-warfare-creature-premium-personalization-pack.json) |
 | Call of Duty: Advanced Warfare - Day Zero Edition | 261088 | [261088-call-of-duty-advanced-warfare-day-zero-edition.json](./261088-call-of-duty-advanced-warfare-day-zero-edition.json) |
 | Call of Duty: Advanced Warfare - Dubbed Edition | 201043 | [201043-call-of-duty-advanced-warfare-dubbed-edition.json](./201043-call-of-duty-advanced-warfare-dubbed-edition.json) |
+| Call of Duty: Advanced Warfare - France Exoskeleton Pack | 26053 | [26053-call-of-duty-advanced-warfare-france-exoskeleton-pack.json](./26053-call-of-duty-advanced-warfare-france-exoskeleton-pack.json) |
+| Call of Duty: Advanced Warfare - Germany Exoskeleton Pack | 26054 | [26054-call-of-duty-advanced-warfare-germany-exoskeleton-pack.json](./26054-call-of-duty-advanced-warfare-germany-exoskeleton-pack.json) |
 | Call of Duty: Advanced Warfare - Gold Edition | 99788 | [99788-call-of-duty-advanced-warfare-gold-edition.json](./99788-call-of-duty-advanced-warfare-gold-edition.json) |
 | Call of Duty: Advanced Warfare - Havoc | 20889 | [20889-call-of-duty-advanced-warfare-havoc.json](./20889-call-of-duty-advanced-warfare-havoc.json) |
+| Call of Duty: Advanced Warfare - Hot Rod Exoskeleton Pack | 26055 | [26055-call-of-duty-advanced-warfare-hot-rod-exoskeleton-pack.json](./26055-call-of-duty-advanced-warfare-hot-rod-exoskeleton-pack.json) |
+| Call of Duty: Advanced Warfare - Italy Exoskeleton Pack | 26056 | [26056-call-of-duty-advanced-warfare-italy-exoskeleton-pack.json](./26056-call-of-duty-advanced-warfare-italy-exoskeleton-pack.json) |
+| Call of Duty: Advanced Warfare - Japan Exoskeleton Pack | 26057 | [26057-call-of-duty-advanced-warfare-japan-exoskeleton-pack.json](./26057-call-of-duty-advanced-warfare-japan-exoskeleton-pack.json) |
+| Call of Duty: Advanced Warfare - Lightning Personalization Pack | 26058 | [26058-call-of-duty-advanced-warfare-lightning-personalization-pack.json](./26058-call-of-duty-advanced-warfare-lightning-personalization-pack.json) |
+| Call of Duty: Advanced Warfare - Lightning Premium Personalization Pack | 26067 | [26067-call-of-duty-advanced-warfare-lightning-premium-personalization-pack.json](./26067-call-of-duty-advanced-warfare-lightning-premium-personalization-pack.json) |
+| Call of Duty: Advanced Warfare - Magma Personalization Pack | 26059 | [26059-call-of-duty-advanced-warfare-magma-personalization-pack.json](./26059-call-of-duty-advanced-warfare-magma-personalization-pack.json) |
+| Call of Duty: Advanced Warfare - Magma Premium Personalizaion Pack | 26068 | [26068-call-of-duty-advanced-warfare-magma-premium-personalizaion-pack.json](./26068-call-of-duty-advanced-warfare-magma-premium-personalizaion-pack.json) |
+| Call of Duty: Advanced Warfare - Nanotech Personalization Pack | 26060 | [26060-call-of-duty-advanced-warfare-nanotech-personalization-pack.json](./26060-call-of-duty-advanced-warfare-nanotech-personalization-pack.json) |
+| Call of Duty: Advanced Warfare - Netherlands Exoskeleton Pack | 26061 | [26061-call-of-duty-advanced-warfare-netherlands-exoskeleton-pack.json](./26061-call-of-duty-advanced-warfare-netherlands-exoskeleton-pack.json) |
+| Call of Duty: Advanced Warfare - Panda Exoskeleton Pack | 26062 | [26062-call-of-duty-advanced-warfare-panda-exoskeleton-pack.json](./26062-call-of-duty-advanced-warfare-panda-exoskeleton-pack.json) |
+| Call of Duty: Advanced Warfare - Spain Exoskeleton Pack | 26063 | [26063-call-of-duty-advanced-warfare-spain-exoskeleton-pack.json](./26063-call-of-duty-advanced-warfare-spain-exoskeleton-pack.json) |
+| Call of Duty: Advanced Warfare - Steampunk Exoskeleton Pack | 26064 | [26064-call-of-duty-advanced-warfare-steampunk-exoskeleton-pack.json](./26064-call-of-duty-advanced-warfare-steampunk-exoskeleton-pack.json) |
+| Call of Duty: Advanced Warfare - United States Exoskeleton Pack | 26065 | [26065-call-of-duty-advanced-warfare-united-states-exoskeleton-pack.json](./26065-call-of-duty-advanced-warfare-united-states-exoskeleton-pack.json) |
 | Call of Duty: Black Ops | 135299 | [135299-call-of-duty-black-ops.json](./135299-call-of-duty-black-ops.json) |
 | Call of Duty: Black Ops | 343819 | [343819-call-of-duty-black-ops.json](./343819-call-of-duty-black-ops.json) |
 | Call of Duty: Black Ops - Annihilation | 22636 | [22636-call-of-duty-black-ops-annihilation.json](./22636-call-of-duty-black-ops-annihilation.json) |
