@@ -1917,6 +1917,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warp Mania | 382761 | [382761-warp-mania.json](./382761-warp-mania.json) |
 | Warp Marked | 374569 | [374569-warp-marked.json](./374569-warp-marked.json) |
 | Warp Nexus | 230150 | [230150-warp-nexus.json](./230150-warp-nexus.json) |
+| Warp Rider | 44245 | [44245-warp-rider.json](./44245-warp-rider.json) |
 | Warp Rush | 413007 | [413007-warp-rush.json](./413007-warp-rush.json) |
 | Warp Shift | 95053 | [95053-warp-shift.json](./95053-warp-shift.json) |
 | Warp Soldier | 216486 | [216486-warp-soldier.json](./216486-warp-soldier.json) |
@@ -3980,6 +3981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What You Take With You | 362233 | [362233-what-you-take-with-you.json](./362233-what-you-take-with-you.json) |
 | What-ever Happened to Ruth MacArthur? | 178901 | [178901-what-ever-happened-to-ruth-macarthur.json](./178901-what-ever-happened-to-ruth-macarthur.json) |
 | What, the fox | 382456 | [382456-what-the-fox.json](./382456-what-the-fox.json) |
+| What!? My Neighbors Are Demons!!? | 44248 | [44248-what-my-neighbors-are-demons.json](./44248-what-my-neighbors-are-demons.json) |
 | What?! | 260515 | [260515-what.json](./260515-what.json) |
 | What's a King to a God | 325899 | [325899-whats-a-king-to-a-god.json](./325899-whats-a-king-to-a-god.json) |
 | What's A Star? | 178563 | [178563-whats-a-star.json](./178563-whats-a-star.json) |
