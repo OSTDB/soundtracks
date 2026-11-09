@@ -5011,6 +5011,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Glen-moril | 373831 | [373831-glen-moril.json](./373831-glen-moril.json) |
 | Glennhaven | 185540 | [185540-glennhaven.json](./185540-glennhaven.json) |
 | Glenwich Idle MMO | 397790 | [397790-glenwich-idle-mmo.json](./397790-glenwich-idle-mmo.json) |
+| Glest | 70145 | [70145-glest.json](./70145-glest.json) |
 | Gleylancer & Gynoug Combo Pack | 286566 | [286566-gleylancer-and-gynoug-combo-pack.json](./286566-gleylancer-and-gynoug-combo-pack.json) |
 | Gli Animotosi e la Macchina Motante | 213625 | [213625-gli-animotosi-e-la-macchina-motante.json](./213625-gli-animotosi-e-la-macchina-motante.json) |
 | Glib | 40672 | [40672-glib.json](./40672-glib.json) |
@@ -7457,6 +7458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GoPets | 203176 | [203176-gopets.json](./203176-gopets.json) |
 | GoPets: Vacation Island | 124019 | [124019-gopets-vacation-island.json](./124019-gopets-vacation-island.json) |
 | Gopher | 22764 | [22764-gopher.json](./22764-gopher.json) |
+| Gopher Squish! | 70501 | [70501-gopher-squish.json](./70501-gopher-squish.json) |
 | Gophers | 185035 | [185035-gophers.json](./185035-gophers.json) |
 | Gophirith the Mirror Master | 334449 | [334449-gophirith-the-mirror-master.json](./334449-gophirith-the-mirror-master.json) |
 | Gophy | 234325 | [234325-gophy.json](./234325-gophy.json) |
