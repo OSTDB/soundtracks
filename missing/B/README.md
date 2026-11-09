@@ -2446,6 +2446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barbie as the Island Princess | 258862 | [258862-barbie-as-the-island-princess.json](./258862-barbie-as-the-island-princess.json) |
 | Barbie as the Island Princess | 3309 | [3309-barbie-as-the-island-princess.json](./3309-barbie-as-the-island-princess.json) |
 | Barbie as the Princess and the Pauper | 200590 | [200590-barbie-as-the-princess-and-the-pauper.json](./200590-barbie-as-the-princess-and-the-pauper.json) |
+| Barbie Beauty Boutique | 72386 | [72386-barbie-beauty-boutique.json](./72386-barbie-beauty-boutique.json) |
 | Barbie Beauty Styler | 200601 | [200601-barbie-beauty-styler.json](./200601-barbie-beauty-styler.json) |
 | Barbie Color Creations | 261705 | [261705-barbie-color-creations.json](./261705-barbie-color-creations.json) |
 | Barbie Cool Looks Fashion Designer | 130593 | [130593-barbie-cool-looks-fashion-designer.json](./130593-barbie-cool-looks-fashion-designer.json) |
@@ -7220,6 +7221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beyond Memories: Tale of the Lost Souls | 323657 | [323657-beyond-memories-tale-of-the-lost-souls.json](./323657-beyond-memories-tale-of-the-lost-souls.json) |
 | Beyond Minimalism | 102923 | [102923-beyond-minimalism.json](./102923-beyond-minimalism.json) |
 | Beyond Myths | 224708 | [224708-beyond-myths.json](./224708-beyond-myths.json) |
+| Beyond Normandy: Assignment Berlin | 72252 | [72252-beyond-normandy-assignment-berlin.json](./72252-beyond-normandy-assignment-berlin.json) |
 | Beyond Oasis | 15299 | [15299-beyond-oasis.json](./15299-beyond-oasis.json) |
 | Beyond One's Past | 333979 | [333979-beyond-ones-past.json](./333979-beyond-ones-past.json) |
 | Beyond Pearl Harbor: Pacific Warriors | 37289 | [37289-beyond-pearl-harbor-pacific-warriors.json](./37289-beyond-pearl-harbor-pacific-warriors.json) |
@@ -7596,6 +7598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Bird's Funhouse | 362421 | [362421-big-birds-funhouse.json](./362421-big-birds-funhouse.json) |
 | Big Bird's Special Delivery | 362422 | [362422-big-birds-special-delivery.json](./362422-big-birds-special-delivery.json) |
 | Big Biz Tycoon | 27465 | [27465-big-biz-tycoon.json](./27465-big-biz-tycoon.json) |
+| Big Biz Tycoon 2 | 72256 | [72256-big-biz-tycoon-2.json](./72256-big-biz-tycoon-2.json) |
 | Big Blind | 326193 | [326193-big-blind.json](./326193-big-blind.json) |
 | Big Blue | 272857 | [272857-big-blue.json](./272857-big-blue.json) |
 | Big Blue Disk #54 | 135641 | [135641-big-blue-disk-54.json](./135641-big-blue-disk-54.json) |
@@ -10639,6 +10642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blobster | 93580 | [93580-blobster.json](./93580-blobster.json) |
 | Blobtown | 346759 | [346759-blobtown.json](./346759-blobtown.json) |
 | Blobufo | 219299 | [219299-blobufo.json](./219299-blobufo.json) |
+| Blobula | 72391 | [72391-blobula.json](./72391-blobula.json) |
 | Blobun | 316089 | [316089-blobun.json](./316089-blobun.json) |
 | Blobz | 14320 | [14320-blobz.json](./14320-blobz.json) |
 | Bloc | 85001 | [85001-bloc.json](./85001-bloc.json) |
@@ -14058,6 +14062,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bouhou Koumakyou: Scarlet Family | 204382 | [204382-bouhou-koumakyou-scarlet-family.json](./204382-bouhou-koumakyou-scarlet-family.json) |
 | Bouhou Youyoumu | 204076 | [204076-bouhou-youyoumu.json](./204076-bouhou-youyoumu.json) |
 | Bouken Danshaku Don: The Lost Sunheart | 37720 | [37720-bouken-danshaku-don-the-lost-sunheart.json](./37720-bouken-danshaku-don-the-lost-sunheart.json) |
+| Bouken Jidai Katsugeki: Goemon | 72230 | [72230-bouken-jidai-katsugeki-goemon.json](./72230-bouken-jidai-katsugeki-goemon.json) |
 | Bouken Shounen Club Gahou | 269383 | [269383-bouken-shounen-club-gahou.json](./269383-bouken-shounen-club-gahou.json) |
 | Bouken Yuuki Pluster World: Densetsu no Plust Gate | 49527 | [49527-bouken-yuuki-pluster-world-densetsu-no-plust-gate.json](./49527-bouken-yuuki-pluster-world-densetsu-no-plust-gate.json) |
 | Bouken Yuuki Pluster World: Densetsu no Pluster Gate EX | 49526 | [49526-bouken-yuuki-pluster-world-densetsu-no-pluster-gate-ex.json](./49526-bouken-yuuki-pluster-world-densetsu-no-pluster-gate-ex.json) |
@@ -16589,6 +16594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bruce Lee | 198702 | [198702-bruce-lee.json](./198702-bruce-lee.json) |
 | Bruce Lee Dragon Run | 103926 | [103926-bruce-lee-dragon-run.json](./103926-bruce-lee-dragon-run.json) |
 | Bruce Lee II | 41203 | [41203-bruce-lee-ii.json](./41203-bruce-lee-ii.json) |
+| Bruce Lee Lives: The Fall of Hong Kong Palace | 72232 | [72232-bruce-lee-lives-the-fall-of-hong-kong-palace.json](./72232-bruce-lee-lives-the-fall-of-hong-kong-palace.json) |
 | Bruce Lee: Dragon Warrior HD | 66740 | [66740-bruce-lee-dragon-warrior-hd.json](./66740-bruce-lee-dragon-warrior-hd.json) |
 | Bruce Lee: Quest of the Dragon | 5758 | [5758-bruce-lee-quest-of-the-dragon.json](./5758-bruce-lee-quest-of-the-dragon.json) |
 | Bruce Lee: Return of Fury | 177798 | [177798-bruce-lee-return-of-fury.json](./177798-bruce-lee-return-of-fury.json) |
@@ -17012,6 +17018,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Rage | 340228 | [340228-bubble-rage.json](./340228-bubble-rage.json) |
 | Bubble Raider | 110204 | [110204-bubble-raider.json](./110204-bubble-raider.json) |
 | Bubble Riders | 300999 | [300999-bubble-riders.json](./300999-bubble-riders.json) |
+| Bubble Rush | 72400 | [72400-bubble-rush.json](./72400-bubble-rush.json) |
 | Bubble Seahorse Adventure | 304756 | [304756-bubble-seahorse-adventure.json](./304756-bubble-seahorse-adventure.json) |
 | Bubble Shock! Bane Blaster Game | 306203 | [306203-bubble-shock-bane-blaster-game.json](./306203-bubble-shock-bane-blaster-game.json) |
 | Bubble Shoot Farm | 272182 | [272182-bubble-shoot-farm.json](./272182-bubble-shoot-farm.json) |
