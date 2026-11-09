@@ -11749,6 +11749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokemon Saiph 2 | 272886 | [272886-pokemon-saiph-2.json](./272886-pokemon-saiph-2.json) |
 | Pokémon Sapphire Version | 342998 | [342998-pokemon-sapphire-version.json](./342998-pokemon-sapphire-version.json) |
 | Pokémon Sapphire Version | 355533 | [355533-pokemon-sapphire-version.json](./355533-pokemon-sapphire-version.json) |
+| Pokémon Say Tap? | 76863 | [76863-pokemon-say-tap.json](./76863-pokemon-say-tap.json) |
 | Pokémon Scarlet | 191931 | [191931-pokemon-scarlet.json](./191931-pokemon-scarlet.json) |
 | Pokémon Scarlet + The Hidden Treasure of Area Zero | 240083 | [240083-pokemon-scarlet-the-hidden-treasure-of-area-zero.json](./240083-pokemon-scarlet-the-hidden-treasure-of-area-zero.json) |
 | Pokémon Scarlet and Pokémon Violet Double Pack | 203516 | [203516-pokemon-scarlet-and-pokemon-violet-double-pack.json](./203516-pokemon-scarlet-and-pokemon-violet-double-pack.json) |
@@ -15099,6 +15100,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PRiO | 33877 | [33877-prio.json](./33877-prio.json) |
 | PriOne | 192530 | [192530-prione.json](./192530-prione.json) |
 | Priority Realignment | 234900 | [234900-priority-realignment.json](./234900-priority-realignment.json) |
+| PriPara | 76849 | [76849-pripara.json](./76849-pripara.json) |
 | PriPara & Pretty Rhythm: PriPara de Tsukaeru Oshare Item 1450! | 177578 | [177578-pripara-and-pretty-rhythm-pripara-de-tsukaeru-oshare-item-1450.json](./177578-pripara-and-pretty-rhythm-pripara-de-tsukaeru-oshare-item-1450.json) |
 | PriPara Aim! Idol Grand Prix No.1! | 177573 | [177573-pripara-aim-idol-grand-prix-no-1.json](./177573-pripara-aim-idol-grand-prix-no-1.json) |
 | PriPara: All Idol | 285046 | [285046-pripara-all-idol.json](./285046-pripara-all-idol.json) |
@@ -16250,6 +16252,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project FNZ | 114641 | [114641-project-fnz.json](./114641-project-fnz.json) |
 | Project Fog: The Wounded | 230087 | [230087-project-fog-the-wounded.json](./230087-project-fog-the-wounded.json) |
 | Project Forgemaster | 310895 | [310895-project-forgemaster.json](./310895-project-forgemaster.json) |
+| Project Fox Online | 76818 | [76818-project-fox-online.json](./76818-project-fox-online.json) |
 | Project Foxx | 405285 | [405285-project-foxx.json](./405285-project-foxx.json) |
 | Project Freedom | 16044 | [16044-project-freedom.json](./16044-project-freedom.json) |
 | Project Freedom | 315023 | [315023-project-freedom.json](./315023-project-freedom.json) |
