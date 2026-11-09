@@ -7165,6 +7165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Prop Hunt | 190221 | [190221-alien-prop-hunt.json](./190221-alien-prop-hunt.json) |
 | Alien Protection | 251926 | [251926-alien-protection.json](./251926-alien-protection.json) |
 | Alien Puzzle Adventure | 84744 | [84744-alien-puzzle-adventure.json](./84744-alien-puzzle-adventure.json) |
+| Alien Pyramid Challenge! | 67415 | [67415-alien-pyramid-challenge.json](./67415-alien-pyramid-challenge.json) |
 | Alien Quest: Eve | 159148 | [159148-alien-quest-eve.json](./159148-alien-quest-eve.json) |
 | Alien Race | 133644 | [133644-alien-race.json](./133644-alien-race.json) |
 | Alien Raiders | 72438 | [72438-alien-raiders.json](./72438-alien-raiders.json) |
@@ -11729,6 +11730,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aoi Sora no Neosphere Doki-doki Adventure Effective E | 408136 | [408136-aoi-sora-no-neosphere-doki-doki-adventure-effective-e.json](./408136-aoi-sora-no-neosphere-doki-doki-adventure-effective-e.json) |
 | Aoi Tori | 77741 | [77741-aoi-tori.json](./77741-aoi-tori.json) |
 | Aoi Tori: L'Oiseau Bleu | 394867 | [394867-aoi-tori-loiseau-bleu.json](./394867-aoi-tori-loiseau-bleu.json) |
+| Aoi Uchuu no Bouken | 67413 | [67413-aoi-uchuu-no-bouken.json](./67413-aoi-uchuu-no-bouken.json) |
 | Aoi Umi no Tristia: Hatsumei Koubou Funtou ki | 407995 | [407995-aoi-umi-no-tristia-hatsumei-koubou-funtou-ki.json](./407995-aoi-umi-no-tristia-hatsumei-koubou-funtou-ki.json) |
 | Aoi Umi no Tristia: Nanoca Flanka Hatsumei Koubou ki | 68255 | [68255-aoi-umi-no-tristia-nanoca-flanka-hatsumei-koubou-ki.json](./68255-aoi-umi-no-tristia-nanoca-flanka-hatsumei-koubou-ki.json) |
 | Aoi's Alternate World Escape | 82699 | [82699-aois-alternate-world-escape.json](./82699-aois-alternate-world-escape.json) |
@@ -11822,6 +11824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Apathy: Midnight Collection - Vol. 2 | 210819 | [210819-apathy-midnight-collection-vol-2.json](./210819-apathy-midnight-collection-vol-2.json) |
 | Apathy: Napoli no Otoko-tachi in Gakkou de Atta Kowai Hanashi | 212260 | [212260-apathy-napoli-no-otoko-tachi-in-gakkou-de-atta-kowai-hanashi.json](./212260-apathy-napoli-no-otoko-tachi-in-gakkou-de-atta-kowai-hanashi.json) |
 | Apathy: Narugami Gakuen Nana Fushigi | 206171 | [206171-apathy-narugami-gakuen-nana-fushigi.json](./206171-apathy-narugami-gakuen-nana-fushigi.json) |
+| Apathy: Narugami Gakuen Toshi Densetsu Tantei Kyoku | 66997 | [66997-apathy-narugami-gakuen-toshi-densetsu-tantei-kyoku.json](./66997-apathy-narugami-gakuen-toshi-densetsu-tantei-kyoku.json) |
 | Apathy: Rental Kazoku | 212254 | [212254-apathy-rental-kazoku.json](./212254-apathy-rental-kazoku.json) |
 | Apathy: Shougakkou de Atta Kowai Hanashi - Getsuyoubi | 210824 | [210824-apathy-shougakkou-de-atta-kowai-hanashi-getsuyoubi.json](./210824-apathy-shougakkou-de-atta-kowai-hanashi-getsuyoubi.json) |
 | APB | 11905 | [11905-apb.json](./11905-apb.json) |
@@ -18707,12 +18710,14 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AX-1: Arabian Rhapsody | 91462 | [91462-ax-1-arabian-rhapsody.json](./91462-ax-1-arabian-rhapsody.json) |
 | AX-10: Outlaw | 91459 | [91459-ax-10-outlaw.json](./91459-ax-10-outlaw.json) |
 | AX-2: Uchuu Yusousen Nostromo | 91513 | [91513-ax-2-uchuu-yusousen-nostromo.json](./91513-ax-2-uchuu-yusousen-nostromo.json) |
+| AX-3: Microthello | 67412 | [67412-ax-3-microthello.json](./67412-ax-3-microthello.json) |
 | AX-4: Black Hole | 92002 | [92002-ax-4-black-hole.json](./92002-ax-4-black-hole.json) |
 | AX-5: Orion / Quest | 241757 | [241757-ax-5-orion-quest.json](./241757-ax-5-orion-quest.json) |
 | AX-5: Orion/Quest | 92001 | [92001-ax-5-orion-quest.json](./92001-ax-5-orion-quest.json) |
 | AX-6: Powered Knight | 80218 | [80218-ax-6-powered-knight.json](./80218-ax-6-powered-knight.json) |
 | AX-7: Police & Gangster | 91461 | [91461-ax-7-police-and-gangster.json](./91461-ax-7-police-and-gangster.json) |
 | AX-8: Galaxy Mission | 91460 | [91460-ax-8-galaxy-mission.json](./91460-ax-8-galaxy-mission.json) |
+| AX-9: Flight Simulator | 67410 | [67410-ax-9-flight-simulator.json](./67410-ax-9-flight-simulator.json) |
 | AX: Portal Slayers | 291710 | [291710-ax-portal-slayers.json](./291710-ax-portal-slayers.json) |
 | AXA | 344307 | [344307-axa.json](./344307-axa.json) |
 | Axan Ships | 120152 | [120152-axan-ships.json](./120152-axan-ships.json) |
