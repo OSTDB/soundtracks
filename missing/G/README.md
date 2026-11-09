@@ -590,6 +590,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Crew | 56636 | [56636-galactic-crew.json](./56636-galactic-crew.json) |
 | Galactic Crew II | 150994 | [150994-galactic-crew-ii.json](./150994-galactic-crew-ii.json) |
 | Galactic Crusader | 195039 | [195039-galactic-crusader.json](./195039-galactic-crusader.json) |
+| Galactic Crusader | 48121 | [48121-galactic-crusader.json](./48121-galactic-crusader.json) |
 | Galactic Dan | 97961 | [97961-galactic-dan.json](./97961-galactic-dan.json) |
 | Galactic Dating: Harem in Space Station | 292635 | [292635-galactic-dating-harem-in-space-station.json](./292635-galactic-dating-harem-in-space-station.json) |
 | Galactic Deck Clash | 373680 | [373680-galactic-deck-clash.json](./373680-galactic-deck-clash.json) |
@@ -874,6 +875,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galaxy | 217776 | [217776-galaxy.json](./217776-galaxy.json) |
 | Galaxy | 24000 | [24000-galaxy.json](./24000-galaxy.json) |
 | Galaxy | 381043 | [381043-galaxy.json](./381043-galaxy.json) |
+| Galaxy 5000 | 48120 | [48120-galaxy-5000.json](./48120-galaxy-5000.json) |
 | Galaxy Admirals | 34261 | [34261-galaxy-admirals.json](./34261-galaxy-admirals.json) |
 | Galaxy Angel | 70414 | [70414-galaxy-angel.json](./70414-galaxy-angel.json) |
 | Galaxy Angel Game Boy Advance: Moridakusan Tenshi no Full Course Okawari Jiyuu | 49562 | [49562-galaxy-angel-game-boy-advance-moridakusan-tenshi-no-full-course-okawari-jiyuu.json](./49562-galaxy-angel-game-boy-advance-moridakusan-tenshi-no-full-course-okawari-jiyuu.json) |
@@ -4272,6 +4274,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghoul Master | 178739 | [178739-ghoul-master.json](./178739-ghoul-master.json) |
 | Ghoul Panic | 14392 | [14392-ghoul-panic.json](./14392-ghoul-panic.json) |
 | Ghoul Patrol | 42612 | [42612-ghoul-patrol.json](./42612-ghoul-patrol.json) |
+| Ghoul School | 48163 | [48163-ghoul-school.json](./48163-ghoul-school.json) |
 | Ghoul Yeah Bunny | 250741 | [250741-ghoul-yeah-bunny.json](./250741-ghoul-yeah-bunny.json) |
 | Ghoulboy | 76023 | [76023-ghoulboy.json](./76023-ghoulboy.json) |
 | GhoulBoy: Limited Edition | 166234 | [166234-ghoulboy-limited-edition.json](./166234-ghoulboy-limited-edition.json) |
@@ -5860,6 +5863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Goal! | 268132 | [268132-goal.json](./268132-goal.json) |
 | Goal! | 348225 | [348225-goal.json](./348225-goal.json) |
 | Goal! Goal! Goal! | 39549 | [39549-goal-goal-goal.json](./39549-goal-goal-goal.json) |
+| Goal! Two | 48162 | [48162-goal-two.json](./48162-goal-two.json) |
 | Goal!: The Club Manager | 195379 | [195379-goal-the-club-manager.json](./195379-goal-the-club-manager.json) |
 | Goal!! | 196270 | [196270-goal.json](./196270-goal.json) |
 | Goal3 | 334303 | [334303-goal3.json](./334303-goal3.json) |
