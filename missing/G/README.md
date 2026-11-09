@@ -8892,6 +8892,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gravity Flip X | 334912 | [334912-gravity-flip-x.json](./334912-gravity-flip-x.json) |
 | Gravity Flux | 208661 | [208661-gravity-flux.json](./208661-gravity-flux.json) |
 | Gravity Force | 357726 | [357726-gravity-force.json](./357726-gravity-force.json) |
+| Gravity Force | 37243 | [37243-gravity-force.json](./37243-gravity-force.json) |
+| Gravity Force 2 | 37241 | [37241-gravity-force-2.json](./37241-gravity-force-2.json) |
 | Gravity Game | 187265 | [187265-gravity-game.json](./187265-gravity-game.json) |
 | Gravity Games Bike: Street Vert Dirt | 5851 | [5851-gravity-games-bike-street-vert-dirt.json](./5851-gravity-games-bike-street-vert-dirt.json) |
 | Gravity Garden | 125685 | [125685-gravity-garden.json](./125685-gravity-garden.json) |
