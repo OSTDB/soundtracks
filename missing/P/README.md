@@ -4932,6 +4932,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perypetie Boba | 232023 | [232023-perypetie-boba.json](./232023-perypetie-boba.json) |
 | Peryton University | 143373 | [143373-peryton-university.json](./143373-peryton-university.json) |
 | PES 2018 Mobile | 240469 | [240469-pes-2018-mobile.json](./240469-pes-2018-mobile.json) |
+| PES Club Manager | 70709 | [70709-pes-club-manager.json](./70709-pes-club-manager.json) |
 | Pesadelo: O Início | 187383 | [187383-pesadelo-o-inicio.json](./187383-pesadelo-o-inicio.json) |
 | Pesadelo: Regressão | 90611 | [90611-pesadelo-regressao.json](./90611-pesadelo-regressao.json) |
 | Pesco | 69748 | [69748-pesco.json](./69748-pesco.json) |
@@ -5042,6 +5043,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pet the Cat | 416978 | [416978-pet-the-cat.json](./416978-pet-the-cat.json) |
 | Pet the Dog? | 179587 | [179587-pet-the-dog.json](./179587-pet-the-dog.json) |
 | Pet the Duck! | 180633 | [180633-pet-the-duck.json](./180633-pet-the-duck.json) |
+| Pet the Pup at the Party | 70714 | [70714-pet-the-pup-at-the-party.json](./70714-pet-the-pup-at-the-party.json) |
 | Pet Troll | 390330 | [390330-pet-troll.json](./390330-pet-troll.json) |
 | Pet Tycoon | 209158 | [209158-pet-tycoon.json](./209158-pet-tycoon.json) |
 | Pet Vet 3D: Animal Hospital | 81435 | [81435-pet-vet-3d-animal-hospital.json](./81435-pet-vet-3d-animal-hospital.json) |
@@ -12718,6 +12720,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pong Temple | 190725 | [190725-pong-temple.json](./190725-pong-temple.json) |
 | Pong Toss Pro: Frat Party Games | 84810 | [84810-pong-toss-pro-frat-party-games.json](./84810-pong-toss-pro-frat-party-games.json) |
 | Pong World | 64055 | [64055-pong-world.json](./64055-pong-world.json) |
+| Pong-Tron | 70702 | [70702-pong-tron.json](./70702-pong-tron.json) |
+| Pong-Tron II | 70703 | [70703-pong-tron-ii.json](./70703-pong-tron-ii.json) |
 | Pong: 32 | 183779 | [183779-pong-32.json](./183779-pong-32.json) |
 | Pong: Evolved | 329631 | [329631-pong-evolved.json](./329631-pong-evolved.json) |
 | Pong: The Next Level | 265058 | [265058-pong-the-next-level.json](./265058-pong-the-next-level.json) |
