@@ -10215,6 +10215,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Max Lite | 359478 | [359478-classic-max-lite.json](./359478-classic-max-lite.json) |
 | Classic Memory Game | 205864 | [205864-classic-memory-game.json](./205864-classic-memory-game.json) |
 | Classic Muncher | 13496 | [13496-classic-muncher.json](./13496-classic-muncher.json) |
+| Classic Mystery Library | 71142 | [71142-classic-mystery-library.json](./71142-classic-mystery-library.json) |
 | Classic NES Series Trivia | 328665 | [328665-classic-nes-series-trivia.json](./328665-classic-nes-series-trivia.json) |
 | Classic NES Series: Bomberman | 49163 | [49163-classic-nes-series-bomberman.json](./49163-classic-nes-series-bomberman.json) |
 | Classic NES Series: Castlevania | 49171 | [49171-classic-nes-series-castlevania.json](./49171-classic-nes-series-castlevania.json) |
@@ -19249,6 +19250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cryptogram | 355105 | [355105-cryptogram.json](./355105-cryptogram.json) |
 | Cryptogram | 413000 | [413000-cryptogram.json](./413000-cryptogram.json) |
 | Cryptogram Nature Facts | 377537 | [377537-cryptogram-nature-facts.json](./377537-cryptogram-nature-facts.json) |
+| Cryptogram Puzzles | 71260 | [71260-cryptogram-puzzles.json](./71260-cryptogram-puzzles.json) |
 | Cryptograms | 116955 | [116955-cryptograms.json](./116955-cryptograms.json) |
 | Cryptographer | 120052 | [120052-cryptographer.json](./120052-cryptographer.json) |
 | CryptoGrid | 411789 | [411789-cryptogrid.json](./411789-cryptogrid.json) |
@@ -20410,6 +20412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of the Arrow | 184410 | [184410-curse-of-the-arrow.json](./184410-curse-of-the-arrow.json) |
 | Curse of the Azure Bonds | 2461 | [2461-curse-of-the-azure-bonds.json](./2461-curse-of-the-azure-bonds.json) |
 | Curse of the Blood Moon | 184746 | [184746-curse-of-the-blood-moon.json](./184746-curse-of-the-blood-moon.json) |
+| Curse of the Catacombs | 71138 | [71138-curse-of-the-catacombs.json](./71138-curse-of-the-catacombs.json) |
 | Curse of the Cobra | 229050 | [229050-curse-of-the-cobra.json](./229050-curse-of-the-cobra.json) |
 | Curse of the Corsair | 245953 | [245953-curse-of-the-corsair.json](./245953-curse-of-the-corsair.json) |
 | Curse of the Countess | 413230 | [413230-curse-of-the-countess.json](./413230-curse-of-the-countess.json) |
