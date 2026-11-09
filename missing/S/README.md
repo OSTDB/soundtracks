@@ -12746,6 +12746,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skreleton's Hotdog Kitchen | 182588 | [182588-skreletons-hotdog-kitchen.json](./182588-skreletons-hotdog-kitchen.json) |
 | Skribbl.io | 76565 | [76565-skribbl-io.json](./76565-skribbl-io.json) |
 | Skrillex Quest | 64231 | [64231-skrillex-quest.json](./64231-skrillex-quest.json) |
+| Skript | 75307 | [75307-skript.json](./75307-skript.json) |
 | Skroll | 408714 | [408714-skroll.json](./408714-skroll.json) |
 | Skronchulonch: The Game of Shooting at an Orb | 176375 | [176375-skronchulonch-the-game-of-shooting-at-an-orb.json](./176375-skronchulonch-the-game-of-shooting-at-an-orb.json) |
 | Skrotens Hjältar | 328676 | [328676-skrotens-hjaltar.json](./328676-skrotens-hjaltar.json) |
@@ -20959,6 +20960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SpaceChem | 8390 | [8390-spacechem.json](./8390-spacechem.json) |
 | SpaceChem: 63 Corvi | 78431 | [78431-spacechem-63-corvi.json](./78431-spacechem-63-corvi.json) |
 | SpaceCiv | 408840 | [408840-spaceciv.json](./408840-spaceciv.json) |
+| SpaceCoaster VR | 75332 | [75332-spacecoaster-vr.json](./75332-spacecoaster-vr.json) |
 | SpaceColorsRunner | 123446 | [123446-spacecolorsrunner.json](./123446-spacecolorsrunner.json) |
 | Spacecom | 8869 | [8869-spacecom.json](./8869-spacecom.json) |
 | SpaceCombat | 94862 | [94862-spacecombat.json](./94862-spacecombat.json) |
@@ -21218,6 +21220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spark | 212450 | [212450-spark.json](./212450-spark.json) |
 | Spark | 256525 | [256525-spark.json](./256525-spark.json) |
 | Spark | 302800 | [302800-spark.json](./302800-spark.json) |
+| Spark | 75372 | [75372-spark.json](./75372-spark.json) |
 | Spark & Kling | 290293 | [290293-spark-and-kling.json](./290293-spark-and-kling.json) |
 | Spark & Sparkle | 125696 | [125696-spark-and-sparkle.json](./125696-spark-and-sparkle.json) |
 | Spark and The Digital Daydream | 117372 | [117372-spark-and-the-digital-daydream.json](./117372-spark-and-the-digital-daydream.json) |
@@ -29539,6 +29542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Structory | 246208 | [246208-structory.json](./246208-structory.json) |
 | Structura | 150504 | [150504-structura.json](./150504-structura.json) |
 | Structural | 138904 | [138904-structural.json](./138904-structural.json) |
+| Structure | 75373 | [75373-structure.json](./75373-structure.json) |
 | Structus | 192324 | [192324-structus.json](./192324-structus.json) |
 | Struggle | 123799 | [123799-struggle.json](./123799-struggle.json) |
 | Struggle F.O | 276603 | [276603-struggle-f-o.json](./276603-struggle-f-o.json) |
@@ -30376,6 +30380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sudoku3D | 113193 | [113193-sudoku3d.json](./113193-sudoku3d.json) |
 | Sudoku3D 2: The Cube | 115355 | [115355-sudoku3d-2-the-cube.json](./115355-sudoku3d-2-the-cube.json) |
 | Sudokuball Detective | 10930 | [10930-sudokuball-detective.json](./10930-sudokuball-detective.json) |
+| Sudokube | 75361 | [75361-sudokube.json](./75361-sudokube.json) |
 | SudoKube | 193451 | [193451-sudokube.json](./193451-sudokube.json) |
 | Sudokumaniacs | 148880 | [148880-sudokumaniacs.json](./148880-sudokumaniacs.json) |
 | SudokuNexus | 344706 | [344706-sudokunexus.json](./344706-sudokunexus.json) |
