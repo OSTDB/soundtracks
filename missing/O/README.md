@@ -4788,6 +4788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Otome ga Tsumugu Koi no Canvas: Futari no Gallery | 60372 | [60372-otome-ga-tsumugu-koi-no-canvas-futari-no-gallery.json](./60372-otome-ga-tsumugu-koi-no-canvas-futari-no-gallery.json) |
 | Otome Games Romance Box | 254956 | [254956-otome-games-romance-box.json](./254956-otome-games-romance-box.json) |
 | Otome Games: Is It Love? Ryan | 105778 | [105778-otome-games-is-it-love-ryan.json](./105778-otome-games-is-it-love-ryan.json) |
+| Otome Hero | 76867 | [76867-otome-hero.json](./76867-otome-hero.json) |
 | Otome Kishi: Ima Sugu Watashi wo Dakishimete | 415321 | [415321-otome-kishi-ima-sugu-watashi-wo-dakishimete.json](./415321-otome-kishi-ima-sugu-watashi-wo-dakishimete.json) |
 | Otome Legends | 224714 | [224714-otome-legends.json](./224714-otome-legends.json) |
 | Otome no Himitsu | 188526 | [188526-otome-no-himitsu.json](./188526-otome-no-himitsu.json) |
