@@ -3180,6 +3180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LEGO Batman: The Videogame | 259254 | [259254-lego-batman-the-videogame.json](./259254-lego-batman-the-videogame.json) |
 | LEGO Battles | 2648 | [2648-lego-battles.json](./2648-lego-battles.json) |
 | LEGO Battles: Ninjago | 19767 | [19767-lego-battles-ninjago.json](./19767-lego-battles-ninjago.json) |
+| LEGO Bionicle | 6323 | [6323-lego-bionicle.json](./6323-lego-bionicle.json) |
 | LEGO Bionicle: Mask of Control | 343362 | [343362-lego-bionicle-mask-of-control.json](./343362-lego-bionicle-mask-of-control.json) |
 | LEGO Bionicle: Mask of Creation | 343361 | [343361-lego-bionicle-mask-of-creation.json](./343361-lego-bionicle-mask-of-creation.json) |
 | LEGO Brawls | 117006 | [117006-lego-brawls.json](./117006-lego-brawls.json) |
