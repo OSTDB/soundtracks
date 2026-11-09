@@ -11633,6 +11633,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Insomnia Town | 182853 | [182853-the-insomnia-town.json](./182853-the-insomnia-town.json) |
 | The Inspector | 175911 | [175911-the-inspector.json](./175911-the-inspector.json) |
 | The Inspector | 407071 | [407071-the-inspector.json](./407071-the-inspector.json) |
+| The Institute | 24061 | [24061-the-institute.json](./24061-the-institute.json) |
 | The Institute and The Mystery of Meane Manor | 206993 | [206993-the-institute-and-the-mystery-of-meane-manor.json](./206993-the-institute-and-the-mystery-of-meane-manor.json) |
 | The Institute: A Becky Brogan Adventure | 125380 | [125380-the-institute-a-becky-brogan-adventure.json](./125380-the-institute-a-becky-brogan-adventure.json) |
 | The Instruction Manual | 202384 | [202384-the-instruction-manual.json](./202384-the-instruction-manual.json) |
@@ -26032,6 +26033,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: Underworld | 371966 | [371966-tomb-raider-underworld.json](./371966-tomb-raider-underworld.json) |
 | Tomb Raider: Underworld | 381691 | [381691-tomb-raider-underworld.json](./381691-tomb-raider-underworld.json) |
 | Tomb Raider: Underworld | 381692 | [381692-tomb-raider-underworld.json](./381692-tomb-raider-underworld.json) |
+| Tomb Raider: Underworld - Beneath the Ashes | 23023 | [23023-tomb-raider-underworld-beneath-the-ashes.json](./23023-tomb-raider-underworld-beneath-the-ashes.json) |
 | Tomb Raider: Underworld - Lara's Shadow | 23021 | [23021-tomb-raider-underworld-laras-shadow.json](./23021-tomb-raider-underworld-laras-shadow.json) |
 | Tomb Raider: Underworld - Limited Edition | 120162 | [120162-tomb-raider-underworld-limited-edition.json](./120162-tomb-raider-underworld-limited-edition.json) |
 | Tomb Reader: TrapLand | 103628 | [103628-tomb-reader-trapland.json](./103628-tomb-reader-trapland.json) |
@@ -27844,6 +27846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tow Truck | 310153 | [310153-tow-truck.json](./310153-tow-truck.json) |
 | Tow Truck Driver Simulator 2023 | 261111 | [261111-tow-truck-driver-simulator-2023.json](./261111-tow-truck-driver-simulator-2023.json) |
 | Tow Truck Police Simulator | 401438 | [401438-tow-truck-police-simulator.json](./401438-tow-truck-police-simulator.json) |
+| Tow Truck Simulator | 22966 | [22966-tow-truck-simulator.json](./22966-tow-truck-simulator.json) |
 | Tow Truck Simulator 2010 | 66826 | [66826-tow-truck-simulator-2010.json](./66826-tow-truck-simulator-2010.json) |
 | Tow Truck: Max | 102137 | [102137-tow-truck-max.json](./102137-tow-truck-max.json) |
 | Towa and the Guardians of the Sacred Tree: Deluxe Edition | 349599 | [349599-towa-and-the-guardians-of-the-sacred-tree-deluxe-edition.json](./349599-towa-and-the-guardians-of-the-sacred-tree-deluxe-edition.json) |
@@ -28043,6 +28046,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tower of Saviors | 22440 | [22440-tower-of-saviors.json](./22440-tower-of-saviors.json) |
 | Tower of Scherbenmark | 413023 | [413023-tower-of-scherbenmark.json](./413023-tower-of-scherbenmark.json) |
 | Tower of Shades | 127386 | [127386-tower-of-shades.json](./127386-tower-of-shades.json) |
+| Tower of Shadow | 22960 | [22960-tower-of-shadow.json](./22960-tower-of-shadow.json) |
 | Tower of Souls | 61550 | [61550-tower-of-souls.json](./61550-tower-of-souls.json) |
 | Tower of Spirit | 203670 | [203670-tower-of-spirit.json](./203670-tower-of-spirit.json) |
 | Tower of Square | 399692 | [399692-tower-of-square.json](./399692-tower-of-square.json) |
@@ -31844,6 +31848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials Fusion: Riders of the Rustlands | 25293 | [25293-trials-fusion-riders-of-the-rustlands.json](./25293-trials-fusion-riders-of-the-rustlands.json) |
 | Trials Fusion: The Awesome Max Edition | 11160 | [11160-trials-fusion-the-awesome-max-edition.json](./11160-trials-fusion-the-awesome-max-edition.json) |
 | Trials Fusion: Welcome to the Abyss | 165424 | [165424-trials-fusion-welcome-to-the-abyss.json](./165424-trials-fusion-welcome-to-the-abyss.json) |
+| Trials HD: Big Thrills | 22950 | [22950-trials-hd-big-thrills.json](./22950-trials-hd-big-thrills.json) |
 | Trials in Tainted Space | 128001 | [128001-trials-in-tainted-space.json](./128001-trials-in-tainted-space.json) |
 | Trials Mountain Heights | 305136 | [305136-trials-mountain-heights.json](./305136-trials-mountain-heights.json) |
 | Trials of Ascension: Exile | 105147 | [105147-trials-of-ascension-exile.json](./105147-trials-of-ascension-exile.json) |
