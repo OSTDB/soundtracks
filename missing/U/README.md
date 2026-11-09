@@ -1388,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Unchained Blades Exxiv | 65041 | [65041-unchained-blades-exxiv.json](./65041-unchained-blades-exxiv.json) |
 | Unchained: Tale of Enra | 343197 | [343197-unchained-tale-of-enra.json](./343197-unchained-tale-of-enra.json) |
 | Uncharted 2: Among Thieves - Fortune Hunter Edition | 41883 | [41883-uncharted-2-among-thieves-fortune-hunter-edition.json](./41883-uncharted-2-among-thieves-fortune-hunter-edition.json) |
+| Uncharted 2: Among Thieves - Game of the Year Edition | 65609 | [65609-uncharted-2-among-thieves-game-of-the-year-edition.json](./65609-uncharted-2-among-thieves-game-of-the-year-edition.json) |
 | Uncharted 2: Among Thieves - Limited Edition Collector's Box | 41882 | [41882-uncharted-2-among-thieves-limited-edition-collectors-box.json](./41882-uncharted-2-among-thieves-limited-edition-collectors-box.json) |
 | Uncharted 2: Among Thieves Remastered | 41877 | [41877-uncharted-2-among-thieves-remastered.json](./41877-uncharted-2-among-thieves-remastered.json) |
 | Uncharted 2: Among Thieves: Drake's Fortune Multiplayer Pack | 252107 | [252107-uncharted-2-among-thieves-drakes-fortune-multiplayer-pack.json](./252107-uncharted-2-among-thieves-drakes-fortune-multiplayer-pack.json) |
