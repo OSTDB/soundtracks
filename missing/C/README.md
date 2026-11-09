@@ -197,6 +197,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cache-Cache | 176428 | [176428-cache-cache.json](./176428-cache-cache.json) |
 | Cacho Quest | 318534 | [318534-cacho-quest.json](./318534-cacho-quest.json) |
 | Cacildes Adventure | 269040 | [269040-cacildes-adventure.json](./269040-cacildes-adventure.json) |
+| Cacodemon's Barbecue Party in Hell | 69596 | [69596-cacodemons-barbecue-party-in-hell.json](./69596-cacodemons-barbecue-party-in-hell.json) |
 | Cacoma Knight in Bizyland | 42734 | [42734-cacoma-knight-in-bizyland.json](./42734-cacoma-knight-in-bizyland.json) |
 | Cacorm Mini | 345352 | [345352-cacorm-mini.json](./345352-cacorm-mini.json) |
 | Cactiverse | 314668 | [314668-cactiverse.json](./314668-cactiverse.json) |
@@ -2769,6 +2770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Care Bears: Care Karts | 280788 | [280788-care-bears-care-karts.json](./280788-care-bears-care-karts.json) |
 | Care Bears: Care-a-lot Jamboree | 65502 | [65502-care-bears-care-a-lot-jamboree.json](./65502-care-bears-care-a-lot-jamboree.json) |
 | Care Bears: Catch A Star! | 65505 | [65505-care-bears-catch-a-star.json](./65505-care-bears-catch-a-star.json) |
+| Care Bears: Let's Have a Ball! | 69608 | [69608-care-bears-lets-have-a-ball.json](./69608-care-bears-lets-have-a-ball.json) |
 | Care Bears: Rainbow Ride | 421388 | [421388-care-bears-rainbow-ride.json](./421388-care-bears-rainbow-ride.json) |
 | Care Bears: The Care Quests | 49368 | [49368-care-bears-the-care-quests.json](./49368-care-bears-the-care-quests.json) |
 | Care Bears: Unlock the Magic | 324758 | [324758-care-bears-unlock-the-magic.json](./324758-care-bears-unlock-the-magic.json) |
@@ -9502,6 +9504,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Citizen Sleeper: Helion Collection | 330406 | [330406-citizen-sleeper-helion-collection.json](./330406-citizen-sleeper-helion-collection.json) |
 | Citizen Vigilante | 410862 | [410862-citizen-vigilante.json](./410862-citizen-vigilante.json) |
 | Citizen Witch | 184650 | [184650-citizen-witch.json](./184650-citizen-witch.json) |
+| Citizen X | 69615 | [69615-citizen-x.json](./69615-citizen-x.json) |
 | Citizen Zein | 278738 | [278738-citizen-zein.json](./278738-citizen-zein.json) |
 | Citizens of Earth | 8598 | [8598-citizens-of-earth.json](./8598-citizens-of-earth.json) |
 | Citizens of Space | 119251 | [119251-citizens-of-space.json](./119251-citizens-of-space.json) |
@@ -10150,6 +10153,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Classic Bites: Bam 'N Jam | 133645 | [133645-classic-bites-bam-n-jam.json](./133645-classic-bites-bam-n-jam.json) |
 | Classic Board Game Bundle: Ticket to Ride, Cluedo, Mouse Trap, Battleship and The Game of Life 2 | 328543 | [328543-classic-board-game-bundle-ticket-to-ride-cluedo-mouse-trap-battleship-and-the-game-of-life-2.json](./328543-classic-board-game-bundle-ticket-to-ride-cluedo-mouse-trap-battleship-and-the-game-of-life-2.json) |
 | Classic British Motor Racing | 4766 | [4766-classic-british-motor-racing.json](./4766-classic-british-motor-racing.json) |
+| Classic Bubble Bobble | 69953 | [69953-classic-bubble-bobble.json](./69953-classic-bubble-bobble.json) |
 | Classic Car Racing | 27469 | [27469-classic-car-racing.json](./27469-classic-car-racing.json) |
 | Classic Car Simulator Car Driving | 277356 | [277356-classic-car-simulator-car-driving.json](./277356-classic-car-simulator-car-driving.json) |
 | Classic Card Game Canasta | 129373 | [129373-classic-card-game-canasta.json](./129373-classic-card-game-canasta.json) |
