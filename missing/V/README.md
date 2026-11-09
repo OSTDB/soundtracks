@@ -2027,6 +2027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Victory Command: Battle Arena | 60262 | [60262-victory-command-battle-arena.json](./60262-victory-command-battle-arena.json) |
 | Victory Day | 226742 | [226742-victory-day.json](./226742-victory-day.json) |
 | Victory Garden | 397194 | [397194-victory-garden.json](./397194-victory-garden.json) |
+| Victory Goal | 46052 | [46052-victory-goal.json](./46052-victory-goal.json) |
 | Victory Heat Rally | 142489 | [142489-victory-heat-rally.json](./142489-victory-heat-rally.json) |
 | Victory is Justice! | 117092 | [117092-victory-is-justice.json](./117092-victory-is-justice.json) |
 | Victory of Seeker | 338570 | [338570-victory-of-seeker.json](./338570-victory-of-seeker.json) |
