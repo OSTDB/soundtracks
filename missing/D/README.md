@@ -3021,6 +3021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Day D: Time Mayhem | 52874 | [52874-day-d-time-mayhem.json](./52874-day-d-time-mayhem.json) |
 | Day D: Tower Rush | 34213 | [34213-day-d-tower-rush.json](./34213-day-d-tower-rush.json) |
 | Day Dream | 284233 | [284233-day-dream.json](./284233-day-dream.json) |
+| Day Dreamin' Davey | 48139 | [48139-day-dreamin-davey.json](./48139-day-dreamin-davey.json) |
 | Day Hard | 222413 | [222413-day-hard.json](./222413-day-hard.json) |
 | Day In | 374202 | [374202-day-in.json](./374202-day-in.json) |
 | Day In Day Out | 244549 | [244549-day-in-day-out.json](./244549-day-in-day-out.json) |
@@ -4973,6 +4974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deathbloom: Chapter 1 | 118106 | [118106-deathbloom-chapter-1.json](./118106-deathbloom-chapter-1.json) |
 | Deathbloom: Chapter 2 | 127103 | [127103-deathbloom-chapter-2.json](./127103-deathbloom-chapter-2.json) |
 | Deathblossom | 339494 | [339494-deathblossom.json](./339494-deathblossom.json) |
+| Deathbots | 48138 | [48138-deathbots.json](./48138-deathbots.json) |
 | Deathbounce | 65256 | [65256-deathbounce.json](./65256-deathbounce.json) |
 | Deathbound | 135796 | [135796-deathbound.json](./135796-deathbound.json) |
 | Deathbound | 292043 | [292043-deathbound.json](./292043-deathbound.json) |
@@ -7457,6 +7459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Desert Child | 91970 | [91970-desert-child.json](./91970-desert-child.json) |
 | Desert coachman | 127448 | [127448-desert-coachman.json](./127448-desert-coachman.json) |
 | Desert Comets | 184923 | [184923-desert-comets.json](./184923-desert-comets.json) |
+| Desert Commander | 48137 | [48137-desert-commander.json](./48137-desert-commander.json) |
 | Desert Complex | 272115 | [272115-desert-complex.json](./272115-desert-complex.json) |
 | Desert Craft Exploration | 95888 | [95888-desert-craft-exploration.json](./95888-desert-craft-exploration.json) |
 | Desert Crypt | 268604 | [268604-desert-crypt.json](./268604-desert-crypt.json) |
@@ -14398,6 +14401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Double Sphere | 41153 | [41153-double-sphere.json](./41153-double-sphere.json) |
 | Double Spoiler: Touhou Bunkachou | 27169 | [27169-double-spoiler-touhou-bunkachou.json](./27169-double-spoiler-touhou-bunkachou.json) |
 | Double Stretch | 108359 | [108359-double-stretch.json](./108359-double-stretch.json) |
+| Double Strike | 48136 | [48136-double-strike.json](./48136-double-strike.json) |
 | Double Switch | 139169 | [139169-double-switch.json](./139169-double-switch.json) |
 | Double Switch | 5375 | [5375-double-switch.json](./5375-double-switch.json) |
 | Double Switch: 25th Anniversary Edition | 111152 | [111152-double-switch-25th-anniversary-edition.json](./111152-double-switch-25th-anniversary-edition.json) |
@@ -18165,6 +18169,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duck Man | 137848 | [137848-duck-man.json](./137848-duck-man.json) |
 | Duck Man | 287447 | [287447-duck-man.json](./287447-duck-man.json) |
 | Duck Maze | 378193 | [378193-duck-maze.json](./378193-duck-maze.json) |
+| Duck Maze | 48132 | [48132-duck-maze.json](./48132-duck-maze.json) |
 | Duck Mission | 204837 | [204837-duck-mission.json](./204837-duck-mission.json) |
 | Duck n' Dodge | 68359 | [68359-duck-n-dodge.json](./68359-duck-n-dodge.json) |
 | Duck Norris Tales | 372044 | [372044-duck-norris-tales.json](./372044-duck-norris-tales.json) |
@@ -18918,6 +18923,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dungeon Madness | 312647 | [312647-dungeon-madness.json](./312647-dungeon-madness.json) |
 | Dungeon Mage | 244654 | [244654-dungeon-mage.json](./244654-dungeon-mage.json) |
 | Dungeon Magic | 39359 | [39359-dungeon-magic.json](./39359-dungeon-magic.json) |
+| Dungeon Magic: Sword of the Elements | 48131 | [48131-dungeon-magic-sword-of-the-elements.json](./48131-dungeon-magic-sword-of-the-elements.json) |
 | Dungeon Maker II: The Hidden War | 42765 | [42765-dungeon-maker-ii-the-hidden-war.json](./42765-dungeon-maker-ii-the-hidden-war.json) |
 | Dungeon Maker: Hunting Ground | 24284 | [24284-dungeon-maker-hunting-ground.json](./24284-dungeon-maker-hunting-ground.json) |
 | Dungeon Man | 188253 | [188253-dungeon-man.json](./188253-dungeon-man.json) |
@@ -19747,6 +19753,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dusty At Home | 282970 | [282970-dusty-at-home.json](./282970-dusty-at-home.json) |
 | Dusty Crib | 272996 | [272996-dusty-crib.json](./272996-dusty-crib.json) |
 | Dusty Derby | 276874 | [276874-dusty-derby.json](./276874-dusty-derby.json) |
+| Dusty Diamond's All-Star Softball | 48130 | [48130-dusty-diamonds-all-star-softball.json](./48130-dusty-diamonds-all-star-softball.json) |
 | Dusty Dunes Tycoon | 339583 | [339583-dusty-dunes-tycoon.json](./339583-dusty-dunes-tycoon.json) |
 | Dusty Raging Fist | 63798 | [63798-dusty-raging-fist.json](./63798-dusty-raging-fist.json) |
 | Dusty Revenge | 53976 | [53976-dusty-revenge.json](./53976-dusty-revenge.json) |
