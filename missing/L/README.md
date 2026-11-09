@@ -6664,6 +6664,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Live Empire | 169403 | [169403-live-empire.json](./169403-live-empire.json) |
 | Live Factory | 238119 | [238119-live-factory.json](./238119-live-factory.json) |
 | Live for Speed | 9492 | [9492-live-for-speed.json](./9492-live-for-speed.json) |
+| Live Free Or Die Hard: The Mobile Game | 10227 | [10227-live-free-or-die-hard-the-mobile-game.json](./10227-live-free-or-die-hard-the-mobile-game.json) |
 | Live Hard, Die Hard | 265826 | [265826-live-hard-die-hard.json](./265826-live-hard-die-hard.json) |
 | Live In Color | 31571 | [31571-live-in-color.json](./31571-live-in-color.json) |
 | Live in the Moment | 208077 | [208077-live-in-the-moment.json](./208077-live-in-the-moment.json) |
@@ -7013,6 +7014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock N' Load | 94929 | [94929-lock-n-load.json](./94929-lock-n-load.json) |
 | Lock On | 335708 | [335708-lock-on.json](./335708-lock-on.json) |
 | Lock On | 38430 | [38430-lock-on.json](./38430-lock-on.json) |
+| Lock On: Flaming Cliffs 2 | 10202 | [10202-lock-on-flaming-cliffs-2.json](./10202-lock-on-flaming-cliffs-2.json) |
 | Lock on: Flaming Cliffs 3 | 63815 | [63815-lock-on-flaming-cliffs-3.json](./63815-lock-on-flaming-cliffs-3.json) |
 | Lock On: Modern Air Combat | 10201 | [10201-lock-on-modern-air-combat.json](./10201-lock-on-modern-air-combat.json) |
 | Lock Parsing | 81930 | [81930-lock-parsing.json](./81930-lock-parsing.json) |
@@ -8215,6 +8217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loskop | 200112 | [200112-loskop.json](./200112-loskop.json) |
 | Loss | 319061 | [319061-loss.json](./319061-loss.json) |
 | Loss at Sea | 384114 | [384114-loss-at-sea.json](./384114-loss-at-sea.json) |
+| Lost | 10226 | [10226-lost.json](./10226-lost.json) |
 | Lost | 120010 | [120010-lost.json](./120010-lost.json) |
 | Lost | 139715 | [139715-lost.json](./139715-lost.json) |
 | Lost | 150342 | [150342-lost.json](./150342-lost.json) |
