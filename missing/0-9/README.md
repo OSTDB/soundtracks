@@ -2173,6 +2173,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3-D Escape!: 1000 Mazes | 245577 | [245577-3-d-escape-1000-mazes.json](./245577-3-d-escape-1000-mazes.json) |
 | 3-D Frog Man | 85896 | [85896-3-d-frog-man.json](./85896-3-d-frog-man.json) |
 | 3-D Genesis | 40665 | [40665-3-d-genesis.json](./40665-3-d-genesis.json) |
+| 3-D Golf Simulation: Super Version | 67414 | [67414-3-d-golf-simulation-super-version.json](./67414-3-d-golf-simulation-super-version.json) |
 | 3-D Havoc | 40664 | [40664-3-d-havoc.json](./40664-3-d-havoc.json) |
 | 3-D Hunting 2010 | 27442 | [27442-3-d-hunting-2010.json](./27442-3-d-hunting-2010.json) |
 | 3-D Man | 83270 | [83270-3-d-man.json](./83270-3-d-man.json) |
