@@ -1950,6 +1950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MaguSphere: Magical Cannon Girls | 122296 | [122296-magusphere-magical-cannon-girls.json](./122296-magusphere-magical-cannon-girls.json) |
 | MagusTale Eternity: Seikaiju to Koisuru Mahou Tsukai | 269498 | [269498-magustale-eternity-seikaiju-to-koisuru-mahou-tsukai.json](./269498-magustale-eternity-seikaiju-to-koisuru-mahou-tsukai.json) |
 | Magyarock VR | 198443 | [198443-magyarock-vr.json](./198443-magyarock-vr.json) |
+| Mah Jong | 16610 | [16610-mah-jong.json](./16610-mah-jong.json) |
 | Mah Jong Quest | 10532 | [10532-mah-jong-quest.json](./10532-mah-jong-quest.json) |
 | Mah Jong Quest | 131399 | [131399-mah-jong-quest.json](./131399-mah-jong-quest.json) |
 | Mah Jong Quest II | 10533 | [10533-mah-jong-quest-ii.json](./10533-mah-jong-quest-ii.json) |
@@ -3697,6 +3698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | March of the Living | 18901 | [18901-march-of-the-living.json](./18901-march-of-the-living.json) |
 | March of the Living: Deluxe Edition | 53344 | [53344-march-of-the-living-deluxe-edition.json](./53344-march-of-the-living-deluxe-edition.json) |
 | March of the Penguins | 20648 | [20648-march-of-the-penguins.json](./20648-march-of-the-penguins.json) |
+| March of War | 16498 | [16498-march-of-war.json](./16498-march-of-war.json) |
 | March of War Face Off | 60321 | [60321-march-of-war-face-off.json](./60321-march-of-war-face-off.json) |
 | March of War: StormSiege | 170494 | [170494-march-of-war-stormsiege.json](./170494-march-of-war-stormsiege.json) |
 | March on Oz | 62941 | [62941-march-on-oz.json](./62941-march-on-oz.json) |
@@ -13111,6 +13113,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Miner Vidis | 305681 | [305681-miner-vidis.json](./305681-miner-vidis.json) |
 | Miner Warfare | 35667 | [35667-miner-warfare.json](./35667-miner-warfare.json) |
 | Miner Wars 2081 | 10550 | [10550-miner-wars-2081.json](./10550-miner-wars-2081.json) |
+| Miner Wars Arena | 16409 | [16409-miner-wars-arena.json](./16409-miner-wars-arena.json) |
 | Miner: Dig Deep | 23846 | [23846-miner-dig-deep.json](./23846-miner-dig-deep.json) |
 | Miner's Delight + | 348597 | [348597-miners-delight.json](./348597-miners-delight.json) |
 | Miner's Hell | 158619 | [158619-miners-hell.json](./158619-miners-hell.json) |
