@@ -5812,6 +5812,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phlinx II | 354986 | [354986-phlinx-ii.json](./354986-phlinx-ii.json) |
 | Phlinx to Go | 209971 | [209971-phlinx-to-go.json](./209971-phlinx-to-go.json) |
 | Phlyndir | 121347 | [121347-phlyndir.json](./121347-phlyndir.json) |
+| PHM Pegasus | 199 | [199-phm-pegasus.json](./199-phm-pegasus.json) |
 | Phmlspd | 223132 | [223132-phmlspd.json](./223132-phmlspd.json) |
 | Phn-Home | 134941 | [134941-phn-home.json](./134941-phn-home.json) |
 | Pho King My Life | 258423 | [258423-pho-king-my-life.json](./258423-pho-king-my-life.json) |
