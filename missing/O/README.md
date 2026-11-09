@@ -3944,6 +3944,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Orbit's Grocery | 407796 | [407796-orbits-grocery.json](./407796-orbits-grocery.json) |
 | Orbita | 404659 | [404659-orbita.json](./404659-orbita.json) |
 | Orbital | 208895 | [208895-orbital.json](./208895-orbital.json) |
+| Orbital | 71675 | [71675-orbital.json](./71675-orbital.json) |
 | Orbital | 80363 | [80363-orbital.json](./80363-orbital.json) |
 | Orbital 1 | 96089 | [96089-orbital-1.json](./96089-orbital-1.json) |
 | Orbital Abyss: Cipher Division | 384854 | [384854-orbital-abyss-cipher-division.json](./384854-orbital-abyss-cipher-division.json) |
