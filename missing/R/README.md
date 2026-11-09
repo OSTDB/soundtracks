@@ -8815,6 +8815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadpunk | 149487 | [149487-roadpunk.json](./149487-roadpunk.json) |
 | Roadracer Bowler | 24850 | [24850-roadracer-bowler.json](./24850-roadracer-bowler.json) |
 | RoadRunner | 120156 | [120156-roadrunner.json](./120156-roadrunner.json) |
+| RoadRunner VR | 68163 | [68163-roadrunner-vr.json](./68163-roadrunner-vr.json) |
 | Roads & Riches | 410081 | [410081-roads-and-riches.json](./410081-roads-and-riches.json) |
 | Roads Construction Sim | 272406 | [272406-roads-construction-sim.json](./272406-roads-construction-sim.json) |
 | Roads Construction Sim | 312716 | [312716-roads-construction-sim.json](./312716-roads-construction-sim.json) |
@@ -12180,6 +12181,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rubik's Cube VR | 112126 | [112126-rubiks-cube-vr.json](./112126-rubiks-cube-vr.json) |
 | Rubik's Games | 78886 | [78886-rubiks-games.json](./78886-rubiks-games.json) |
 | Rubik's Match | 308090 | [308090-rubiks-match.json](./308090-rubiks-match.json) |
+| Rubik's Puzzle Galaxy: Rush | 67731 | [67731-rubiks-puzzle-galaxy-rush.json](./67731-rubiks-puzzle-galaxy-rush.json) |
 | Rubik's Puzzle World | 5131 | [5131-rubiks-puzzle-world.json](./5131-rubiks-puzzle-world.json) |
 | Rubikingdom | 150860 | [150860-rubikingdom.json](./150860-rubikingdom.json) |
 | Rubinite | 265796 | [265796-rubinite.json](./265796-rubinite.json) |
