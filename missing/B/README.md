@@ -10177,6 +10177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlayzBloo: Super Melee Action Battle Royale | 84996 | [84996-blayzbloo-super-melee-action-battle-royale.json](./84996-blayzbloo-super-melee-action-battle-royale.json) |
 | BlayzBloo: Super Melee Brawlers Battle Royale | 67246 | [67246-blayzbloo-super-melee-brawlers-battle-royale.json](./67246-blayzbloo-super-melee-brawlers-battle-royale.json) |
 | BlazBlue (Tentative Title) | 86364 | [86364-blazblue-tentative-title.json](./86364-blazblue-tentative-title.json) |
+| BlazBlue Alternative: Dark War | 54568 | [54568-blazblue-alternative-dark-war.json](./54568-blazblue-alternative-dark-war.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 1 | 332824 | [332824-blazblue-cross-tag-battle-additional-color-set-1.json](./332824-blazblue-cross-tag-battle-additional-color-set-1.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 2 | 332825 | [332825-blazblue-cross-tag-battle-additional-color-set-2.json](./332825-blazblue-cross-tag-battle-additional-color-set-2.json) |
 | BlazBlue Cross Tag Battle: Additional Color Set 3 | 332826 | [332826-blazblue-cross-tag-battle-additional-color-set-3.json](./332826-blazblue-cross-tag-battle-additional-color-set-3.json) |
@@ -10243,6 +10244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlaZeon: The Bio-Cyborg Challenge | 42625 | [42625-blazeon-the-bio-cyborg-challenge.json](./42625-blazeon-the-bio-cyborg-challenge.json) |
 | BlazePunk | 415092 | [415092-blazepunk.json](./415092-blazepunk.json) |
 | Blazer | 46842 | [46842-blazer.json](./46842-blazer.json) |
+| Blazer | 54577 | [54577-blazer.json](./54577-blazer.json) |
 | Blazer Drive | 70575 | [70575-blazer-drive.json](./70575-blazer-drive.json) |
 | BlazeRush | 14567 | [14567-blazerush.json](./14567-blazerush.json) |
 | BlazeRush: Star Track | 341992 | [341992-blazerush-star-track.json](./341992-blazerush-star-track.json) |
