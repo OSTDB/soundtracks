@@ -3001,6 +3001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival Survivors The Parade | 265377 | [265377-carnival-survivors-the-parade.json](./265377-carnival-survivors-the-parade.json) |
 | Carnival VR Orientation | 150395 | [150395-carnival-vr-orientation.json](./150395-carnival-vr-orientation.json) |
 | Carnivalé: Cenzo's Adventure | 238880 | [238880-carnivale-cenzos-adventure.json](./238880-carnivale-cenzos-adventure.json) |
+| Carnivore Land | 34547 | [34547-carnivore-land.json](./34547-carnivore-land.json) |
 | Carnivore! | 413214 | [413214-carnivore.json](./413214-carnivore.json) |
 | Carnivores | 138928 | [138928-carnivores.json](./138928-carnivores.json) |
 | Carnivores + | 208422 | [208422-carnivores.json](./208422-carnivores.json) |
@@ -3699,6 +3700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Hassle | 59452 | [59452-castle-hassle.json](./59452-castle-hassle.json) |
 | Castle Hearts | 358746 | [358746-castle-hearts.json](./358746-castle-hearts.json) |
 | Castle Heck | 150338 | [150338-castle-heck.json](./150338-castle-heck.json) |
+| Castle Heist: Chapter 1 | 33619 | [33619-castle-heist-chapter-1.json](./33619-castle-heist-chapter-1.json) |
 | Castle Helios | 212741 | [212741-castle-helios.json](./212741-castle-helios.json) |
 | Castle Hero | 327420 | [327420-castle-hero.json](./327420-castle-hero.json) |
 | Castle Heroes | 120531 | [120531-castle-heroes.json](./120531-castle-heroes.json) |
@@ -7729,6 +7731,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chill Planet | 376595 | [376595-chill-planet.json](./376595-chill-planet.json) |
 | Chill Pulse | 291304 | [291304-chill-pulse.json](./291304-chill-pulse.json) |
 | Chill Seekers | 267108 | [267108-chill-seekers.json](./267108-chill-seekers.json) |
+| Chill the Piro | 33635 | [33635-chill-the-piro.json](./33635-chill-the-piro.json) |
 | Chill Town | 212814 | [212814-chill-town.json](./212814-chill-town.json) |
 | Chill with You: Lo-Fi Story | 342703 | [342703-chill-with-you-lo-fi-story.json](./342703-chill-with-you-lo-fi-story.json) |
 | Chill with You: SHIOI's Sparkling Scenes | 417331 | [417331-chill-with-you-shiois-sparkling-scenes.json](./417331-chill-with-you-shiois-sparkling-scenes.json) |
@@ -10984,6 +10987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clones Conquer Worlds | 374010 | [374010-clones-conquer-worlds.json](./374010-clones-conquer-worlds.json) |
 | Clones Run | 322999 | [322999-clones-run.json](./322999-clones-run.json) |
 | Clones Selection | 181030 | [181030-clones-selection.json](./181030-clones-selection.json) |
+| Cloney | 34519 | [34519-cloney.json](./34519-cloney.json) |
 | CloneZWars | 249089 | [249089-clonezwars.json](./249089-clonezwars.json) |
 | Cloning Chaos | 302489 | [302489-cloning-chaos.json](./302489-cloning-chaos.json) |
 | Clonizer | 257887 | [257887-clonizer.json](./257887-clonizer.json) |
@@ -13285,6 +13289,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Come-Frutas | 403313 | [403313-come-frutas.json](./403313-come-frutas.json) |
 | Comeback | 386758 | [386758-comeback.json](./386758-comeback.json) |
 | Comeback Golf | 181716 | [181716-comeback-golf.json](./181716-comeback-golf.json) |
+| Comedy Quest | 34508 | [34508-comedy-quest.json](./34508-comedy-quest.json) |
 | Comer | 94225 | [94225-comer.json](./94225-comer.json) |
 | Comet | 153222 | [153222-comet.json](./153222-comet.json) |
 | Comet | 28105 | [28105-comet.json](./28105-comet.json) |
@@ -15387,6 +15392,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CoRoT | 345841 | [345841-corot.json](./345841-corot.json) |
 | Corp Wars: Karavan | 60289 | [60289-corp-wars-karavan.json](./60289-corp-wars-karavan.json) |
 | Corpo Connections | 303429 | [303429-corpo-connections.json](./303429-corpo-connections.json) |
+| Corpo Tale | 33620 | [33620-corpo-tale.json](./33620-corpo-tale.json) |
 | Corpo/Ghost | 291785 | [291785-corpo-ghost.json](./291785-corpo-ghost.json) |
 | CorpoBots | 247831 | [247831-corpobots.json](./247831-corpobots.json) |
 | Corpoct | 121991 | [121991-corpoct.json](./121991-corpoct.json) |
