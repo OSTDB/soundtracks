@@ -3428,6 +3428,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Welcome to Moreytown | 28650 | [28650-welcome-to-moreytown.json](./28650-welcome-to-moreytown.json) |
 | Welcome to My Cave | 260652 | [260652-welcome-to-my-cave.json](./260652-welcome-to-my-cave.json) |
 | Welcome to nightmare | 117699 | [117699-welcome-to-nightmare.json](./117699-welcome-to-nightmare.json) |
+| Welcome to Orochi Park | 76266 | [76266-welcome-to-orochi-park.json](./76266-welcome-to-orochi-park.json) |
 | Welcome to Pammy's Story in the World of Project: Summer Ice | 210929 | [210929-welcome-to-pammys-story-in-the-world-of-project-summer-ice.json](./210929-welcome-to-pammys-story-in-the-world-of-project-summer-ice.json) |
 | Welcome to Paradise | 119827 | [119827-welcome-to-paradise.json](./119827-welcome-to-paradise.json) |
 | Welcome to Paradise Island | 331119 | [331119-welcome-to-paradise-island.json](./331119-welcome-to-paradise-island.json) |
@@ -4077,6 +4078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wheel of Time MUD | 229107 | [229107-wheel-of-time-mud.json](./229107-wheel-of-time-mud.json) |
 | Wheel of Wealth 3D | 113428 | [113428-wheel-of-wealth-3d.json](./113428-wheel-of-wealth-3d.json) |
 | Wheel of Words: Crossword | 332171 | [332171-wheel-of-words-crossword.json](./332171-wheel-of-words-crossword.json) |
+| Wheel Riders Online | 76119 | [76119-wheel-riders-online.json](./76119-wheel-riders-online.json) |
 | Wheel Runner | 280137 | [280137-wheel-runner.json](./280137-wheel-runner.json) |
 | Wheel Saint: Hellride | 384669 | [384669-wheel-saint-hellride.json](./384669-wheel-saint-hellride.json) |
 | Wheel Smash | 149352 | [149352-wheel-smash.json](./149352-wheel-smash.json) |
