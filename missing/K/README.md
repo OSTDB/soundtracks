@@ -453,6 +453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaleido Festival | 269149 | [269149-kaleido-festival.json](./269149-kaleido-festival.json) |
 | Kaleido Stella | 113745 | [113745-kaleido-stella.json](./113745-kaleido-stella.json) |
 | Kaleidocraft | 156572 | [156572-kaleidocraft.json](./156572-kaleidocraft.json) |
+| Kaleidoeve | 61263 | [61263-kaleidoeve.json](./61263-kaleidoeve.json) |
 | Kaleidoscope | 118688 | [118688-kaleidoscope.json](./118688-kaleidoscope.json) |
 | Kaleidoscope | 202577 | [202577-kaleidoscope.json](./202577-kaleidoscope.json) |
 | Kaleidoscope | 406303 | [406303-kaleidoscope.json](./406303-kaleidoscope.json) |
@@ -1792,6 +1793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kemps | 258792 | [258792-kemps.json](./258792-kemps.json) |
 | Kemuri | 279625 | [279625-kemuri.json](./279625-kemuri.json) |
 | Ken Follett's The Pillars of the Earth | 19297 | [19297-ken-folletts-the-pillars-of-the-earth.json](./19297-ken-folletts-the-pillars-of-the-earth.json) |
+| Ken ga Kimi | 61265 | [61265-ken-ga-kimi.json](./61265-ken-ga-kimi.json) |
 | Ken ga Kimi for S | 144572 | [144572-ken-ga-kimi-for-s.json](./144572-ken-ga-kimi-for-s.json) |
 | Ken ga Kimi for V | 129996 | [129996-ken-ga-kimi-for-v.json](./129996-ken-ga-kimi-for-v.json) |
 | Ken ga Kimi: Momoyo Tsuzuri | 129997 | [129997-ken-ga-kimi-momoyo-tsuzuri.json](./129997-ken-ga-kimi-momoyo-tsuzuri.json) |
@@ -2899,6 +2901,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
