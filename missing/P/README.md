@@ -14237,9 +14237,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerpuff Girls Learning Challenge 2: Princess Snorebucks | 8103 | [8103-powerpuff-girls-learning-challenge-2-princess-snorebucks.json](./8103-powerpuff-girls-learning-challenge-2-princess-snorebucks.json) |
 | Powerpuff Girls: Bad Mojo Jojo | 3246 | [3246-powerpuff-girls-bad-mojo-jojo.json](./3246-powerpuff-girls-bad-mojo-jojo.json) |
 | Powerpuff Girls: Gamesville | 8007 | [8007-powerpuff-girls-gamesville.json](./8007-powerpuff-girls-gamesville.json) |
+| Powerpuff Girls: Mojo Jojo A-Go-Go | 5888 | [5888-powerpuff-girls-mojo-jojo-a-go-go.json](./5888-powerpuff-girls-mojo-jojo-a-go-go.json) |
 | Powerpuff Girls: Mojo Jojo's Clone Zone | 8008 | [8008-powerpuff-girls-mojo-jojos-clone-zone.json](./8008-powerpuff-girls-mojo-jojos-clone-zone.json) |
 | Powerpuff Girls: Mojo Jojo's Pet Project | 8009 | [8009-powerpuff-girls-mojo-jojos-pet-project.json](./8009-powerpuff-girls-mojo-jojos-pet-project.json) |
 | Powerpuff Girls: Mojo's Pet Project | 19427 | [19427-powerpuff-girls-mojos-pet-project.json](./19427-powerpuff-girls-mojos-pet-project.json) |
+| Powerpuff Girls: Paint the Townsville Green | 5885 | [5885-powerpuff-girls-paint-the-townsville-green.json](./5885-powerpuff-girls-paint-the-townsville-green.json) |
 | Powerpuff Girls: Pillow Fight | 203083 | [203083-powerpuff-girls-pillow-fight.json](./203083-powerpuff-girls-pillow-fight.json) |
 | Powerpuff Girls: Power Surf | 241140 | [241140-powerpuff-girls-power-surf.json](./241140-powerpuff-girls-power-surf.json) |
 | Powerpuff Girls: Zom-B-Gone! | 203061 | [203061-powerpuff-girls-zom-b-gone.json](./203061-powerpuff-girls-zom-b-gone.json) |
