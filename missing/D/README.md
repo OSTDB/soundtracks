@@ -52,6 +52,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | D. the Atom Shifter | 110312 | [110312-d-the-atom-shifter.json](./110312-d-the-atom-shifter.json) |
 | D.A.: Pursuit of Justice | 100282 | [100282-d-a-pursuit-of-justice.json](./100282-d-a-pursuit-of-justice.json) |
 | D.A.: Pursuit of Justice - The Gatsby Diamond Jewelry Theft | 70731 | [70731-d-a-pursuit-of-justice-the-gatsby-diamond-jewelry-theft.json](./70731-d-a-pursuit-of-justice-the-gatsby-diamond-jewelry-theft.json) |
+| D.A.: Pursuit of Justice - The Rat Tattoo Murder | 68996 | [68996-d-a-pursuit-of-justice-the-rat-tattoo-murder.json](./68996-d-a-pursuit-of-justice-the-rat-tattoo-murder.json) |
 | D.A.: Pursuit of Justice - The Sunset Boulevard Deuce | 71358 | [71358-d-a-pursuit-of-justice-the-sunset-boulevard-deuce.json](./71358-d-a-pursuit-of-justice-the-sunset-boulevard-deuce.json) |
 | D.A.D.S. | 381572 | [381572-d-a-d-s.json](./381572-d-a-d-s.json) |
 | D.A.M. Champion | 280160 | [280160-d-a-m-champion.json](./280160-d-a-m-champion.json) |
@@ -1381,6 +1382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Age of Camelot: Labyrinth of the Minotaur | 21415 | [21415-dark-age-of-camelot-labyrinth-of-the-minotaur.json](./21415-dark-age-of-camelot-labyrinth-of-the-minotaur.json) |
 | Dark Age of Camelot: Shrouded Isles | 22229 | [22229-dark-age-of-camelot-shrouded-isles.json](./22229-dark-age-of-camelot-shrouded-isles.json) |
 | Dark Ages | 72251 | [72251-dark-ages.json](./72251-dark-ages.json) |
+| Dark Ages: Asa no Konai Basho | 69409 | [69409-dark-ages-asa-no-konai-basho.json](./69409-dark-ages-asa-no-konai-basho.json) |
 | Dark Ages: Volume I - Prince of Destiny | 70337 | [70337-dark-ages-volume-i-prince-of-destiny.json](./70337-dark-ages-volume-i-prince-of-destiny.json) |
 | Dark Alley | 420537 | [420537-dark-alley.json](./420537-dark-alley.json) |
 | Dark Alley Escape | 315671 | [315671-dark-alley-escape.json](./315671-dark-alley-escape.json) |
@@ -14900,6 +14902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dracula’s Vengeance | 249206 | [249206-dracula-s-vengeance.json](./249206-dracula-s-vengeance.json) |
 | Draculator II: Byte of the Draculator | 168389 | [168389-draculator-ii-byte-of-the-draculator.json](./168389-draculator-ii-byte-of-the-draculator.json) |
 | Draculesti | 265622 | [265622-draculesti.json](./265622-draculesti.json) |
+| Draculius | 69406 | [69406-draculius.json](./69406-draculius.json) |
 | Draeggoria | 392271 | [392271-draeggoria.json](./392271-draeggoria.json) |
 | Draft | 133704 | [133704-draft.json](./133704-draft.json) |
 | Draft Day Sports: College Basketball 2017 | 75338 | [75338-draft-day-sports-college-basketball-2017.json](./75338-draft-day-sports-college-basketball-2017.json) |
@@ -15645,6 +15648,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon Racer | 113791 | [113791-dragon-racer.json](./113791-dragon-racer.json) |
 | Dragon Rage | 32159 | [32159-dragon-rage.json](./32159-dragon-rage.json) |
 | Dragon Rage | 76977 | [76977-dragon-rage.json](./76977-dragon-rage.json) |
+| Dragon Raja | 69402 | [69402-dragon-raja.json](./69402-dragon-raja.json) |
 | Dragon Raja L: The Classic | 267353 | [267353-dragon-raja-l-the-classic.json](./267353-dragon-raja-l-the-classic.json) |
 | Dragon Raja: ReRise | 402964 | [402964-dragon-raja-rerise.json](./402964-dragon-raja-rerise.json) |
 | Dragon Raja: The Farewell Passage | 411333 | [411333-dragon-raja-the-farewell-passage.json](./411333-dragon-raja-the-farewell-passage.json) |
