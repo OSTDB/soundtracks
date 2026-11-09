@@ -7988,6 +7988,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shattered Souls | 316428 | [316428-shattered-souls.json](./316428-shattered-souls.json) |
 | Shattered Star | 216525 | [216525-shattered-star.json](./216525-shattered-star.json) |
 | Shattered State | 203750 | [203750-shattered-state.json](./203750-shattered-state.json) |
+| Shattered Steel | 220 | [220-shattered-steel.json](./220-shattered-steel.json) |
 | Shattered Stone | 185545 | [185545-shattered-stone.json](./185545-shattered-stone.json) |
 | Shattered Sun | 323485 | [323485-shattered-sun.json](./323485-shattered-sun.json) |
 | Shattered Suns | 51356 | [51356-shattered-suns.json](./51356-shattered-suns.json) |
@@ -29653,6 +29654,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Strike Fighters Israel | 58401 | [58401-strike-fighters-israel.json](./58401-strike-fighters-israel.json) |
 | Strike Fighters Legends | 58396 | [58396-strike-fighters-legends.json](./58396-strike-fighters-legends.json) |
 | Strike Fighters: Project 1 | 23766 | [23766-strike-fighters-project-1.json](./23766-strike-fighters-project-1.json) |
+| Strike Fleet | 205 | [205-strike-fleet.json](./205-strike-fleet.json) |
 | Strike Force | 273011 | [273011-strike-force.json](./273011-strike-force.json) |
 | Strike Force | 46856 | [46856-strike-force.json](./46856-strike-force.json) |
 | Strike Force - War on Terror | 125745 | [125745-strike-force-war-on-terror.json](./125745-strike-force-war-on-terror.json) |
@@ -34992,6 +34994,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Superhero Fruit: Robot War | 154731 | [154731-superhero-fruit-robot-war.json](./154731-superhero-fruit-robot-war.json) |
 | Superhero Girl Salon: Kids Makeup and Dressup Game | 88037 | [88037-superhero-girl-salon-kids-makeup-and-dressup-game.json](./88037-superhero-girl-salon-kids-makeup-and-dressup-game.json) |
 | Superhero Girls | 368052 | [368052-superhero-girls.json](./368052-superhero-girls.json) |
+| Superhero League of Hoboken | 249 | [249-superhero-league-of-hoboken.json](./249-superhero-league-of-hoboken.json) |
 | Superhero Market | 325970 | [325970-superhero-market.json](./325970-superhero-market.json) |
 | Superhero Recruitment Simulator | 171680 | [171680-superhero-recruitment-simulator.json](./171680-superhero-recruitment-simulator.json) |
 | Superhero Robot Merge Master | 214167 | [214167-superhero-robot-merge-master.json](./214167-superhero-robot-merge-master.json) |
