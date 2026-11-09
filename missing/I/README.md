@@ -5139,6 +5139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | International Match Day | 397918 | [397918-international-match-day.json](./397918-international-match-day.json) |
 | International Ninja Rabbits | 40916 | [40916-international-ninja-rabbits.json](./40916-international-ninja-rabbits.json) |
 | International Obsession | 415196 | [415196-international-obsession.json](./415196-international-obsession.json) |
+| International Open Golf Championship | 69597 | [69597-international-open-golf-championship.json](./69597-international-open-golf-championship.json) |
 | International Pool | 91699 | [91699-international-pool.json](./91699-international-pool.json) |
 | International Pool Championship | 92472 | [92472-international-pool-championship.json](./92472-international-pool-championship.json) |
 | International Racing Squirrels | 63366 | [63366-international-racing-squirrels.json](./63366-international-racing-squirrels.json) |
@@ -6508,6 +6509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Island Tribe HD | 24194 | [24194-island-tribe-hd.json](./24194-island-tribe-hd.json) |
 | Island Tribe! | 180118 | [180118-island-tribe.json](./180118-island-tribe.json) |
 | Island Trouble | 330466 | [330466-island-trouble.json](./330466-island-trouble.json) |
+| Island Wars 2 | 69619 | [69619-island-wars-2.json](./69619-island-wars-2.json) |
 | Island World | 163883 | [163883-island-world.json](./163883-island-world.json) |
 | Island World | 193069 | [193069-island-world.json](./193069-island-world.json) |
 | Island World | 363121 | [363121-island-world.json](./363121-island-world.json) |
