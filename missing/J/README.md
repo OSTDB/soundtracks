@@ -3942,6 +3942,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Park : Aftermath | 8367 | [8367-jurassic-park-aftermath.json](./8367-jurassic-park-aftermath.json) |
 | Jurassic Park II | 146972 | [146972-jurassic-park-ii.json](./146972-jurassic-park-ii.json) |
 | Jurassic Park III | 40093 | [40093-jurassic-park-iii.json](./40093-jurassic-park-iii.json) |
+| Jurassic Park III: Danger Zone | 65606 | [65606-jurassic-park-iii-danger-zone.json](./65606-jurassic-park-iii-danger-zone.json) |
 | Jurassic Park III: Dino Defender | 74091 | [74091-jurassic-park-iii-dino-defender.json](./74091-jurassic-park-iii-dino-defender.json) |
 | Jurassic Park III: Island Attack | 6482 | [6482-jurassic-park-iii-island-attack.json](./6482-jurassic-park-iii-island-attack.json) |
 | Jurassic Park III: Park Builder | 6483 | [6483-jurassic-park-iii-park-builder.json](./6483-jurassic-park-iii-park-builder.json) |
@@ -3951,6 +3952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Park Part 2: The Chaos Continues | 10677 | [10677-jurassic-park-part-2-the-chaos-continues.json](./10677-jurassic-park-part-2-the-chaos-continues.json) |
 | Jurassic Park Part 2: The Chaos Continues | 147052 | [147052-jurassic-park-part-2-the-chaos-continues.json](./147052-jurassic-park-part-2-the-chaos-continues.json) |
 | Jurassic Park: Builder | 10531 | [10531-jurassic-park-builder.json](./10531-jurassic-park-builder.json) |
+| Jurassic Park: Dinosaur Battles | 65607 | [65607-jurassic-park-dinosaur-battles.json](./65607-jurassic-park-dinosaur-battles.json) |
 | Jurassic Park: Rampage Edition | 10678 | [10678-jurassic-park-rampage-edition.json](./10678-jurassic-park-rampage-edition.json) |
 | Jurassic Park: Scan Command | 72570 | [72570-jurassic-park-scan-command.json](./72570-jurassic-park-scan-command.json) |
 | Jurassic Park: Survival | 279640 | [279640-jurassic-park-survival.json](./279640-jurassic-park-survival.json) |
