@@ -16787,6 +16787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster-Man | 137911 | [137911-monster-man.json](./137911-monster-man.json) |
 | Monster: Titan's Playground | 302927 | [302927-monster-titans-playground.json](./302927-monster-titans-playground.json) |
 | Monster! Bass Fishing | 49324 | [49324-monster-bass-fishing.json](./49324-monster-bass-fishing.json) |
+| Monster's Fair | 60660 | [60660-monsters-fair.json](./60660-monsters-fair.json) |
 | Monster’s First Love | 254945 | [254945-monster-s-first-love.json](./254945-monster-s-first-love.json) |
 | Monster's Inc. Peek A Boo Boo's Door Game | 343341 | [343341-monsters-inc-peek-a-boo-boos-door-game.json](./343341-monsters-inc-peek-a-boo-boos-door-game.json) |
 | Monster+Connect! | 181396 | [181396-monster-connect.json](./181396-monster-connect.json) |
@@ -19949,6 +19950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder at the Cat Show | 194317 | [194317-murder-at-the-cat-show.json](./194317-murder-at-the-cat-show.json) |
 | Murder at the Disco | 271792 | [271792-murder-at-the-disco.json](./271792-murder-at-the-disco.json) |
 | Murder at the House | 249902 | [249902-murder-at-the-house.json](./249902-murder-at-the-house.json) |
+| Murder at the Manor | 60641 | [60641-murder-at-the-manor.json](./60641-murder-at-the-manor.json) |
 | Murder at the Residence Gudul | 134956 | [134956-murder-at-the-residence-gudul.json](./134956-murder-at-the-residence-gudul.json) |
 | Murder Avenue | 292531 | [292531-murder-avenue.json](./292531-murder-avenue.json) |
 | Murder Butterfly: Kotou Idol Live Satsujin Jiken | 410617 | [410617-murder-butterfly-kotou-idol-live-satsujin-jiken.json](./410617-murder-butterfly-kotou-idol-live-satsujin-jiken.json) |
