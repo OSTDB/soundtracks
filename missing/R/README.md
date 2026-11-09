@@ -610,6 +610,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Radar Line | 414160 | [414160-radar-line.json](./414160-radar-line.json) |
 | Radar Lock | 17240 | [17240-radar-lock.json](./17240-radar-lock.json) |
 | Radar Mission | 11688 | [11688-radar-mission.json](./11688-radar-mission.json) |
+| Radar Mission 3DS | 21079 | [21079-radar-mission-3ds.json](./21079-radar-mission-3ds.json) |
 | Radar N Rockets | 256209 | [256209-radar-n-rockets.json](./256209-radar-n-rockets.json) |
 | Radar Rat Race | 18798 | [18798-radar-rat-race.json](./18798-radar-rat-race.json) |
 | Radar Scope | 39391 | [39391-radar-scope.json](./39391-radar-scope.json) |
@@ -4085,6 +4086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red is Dead | 32020 | [32020-red-is-dead.json](./32020-red-is-dead.json) |
 | Red Island | 120393 | [120393-red-island.json](./120393-red-island.json) |
 | Red Jets | 209254 | [209254-red-jets.json](./209254-red-jets.json) |
+| Red Johnson's Chronicles | 21148 | [21148-red-johnsons-chronicles.json](./21148-red-johnsons-chronicles.json) |
 | Red Johnson's Chronicles 1+2 | 186974 | [186974-red-johnsons-chronicles-1-2.json](./186974-red-johnsons-chronicles-1-2.json) |
 | Red Johnson's Chronicles: 1+2 - Steam Special Edition | 90489 | [90489-red-johnsons-chronicles-1-2-steam-special-edition.json](./90489-red-johnsons-chronicles-1-2-steam-special-edition.json) |
 | Red Johnson's Chronicles: One Against All | 25177 | [25177-red-johnsons-chronicles-one-against-all.json](./25177-red-johnsons-chronicles-one-against-all.json) |
@@ -5520,6 +5522,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reptillian Rebellion | 123610 | [123610-reptillian-rebellion.json](./123610-reptillian-rebellion.json) |
 | Reptiloids | 83947 | [83947-reptiloids.json](./83947-reptiloids.json) |
 | Reptiloids 2 | 334831 | [334831-reptiloids-2.json](./334831-reptiloids-2.json) |
+| Repton | 22693 | [22693-repton.json](./22693-repton.json) |
 | Repton | 9657 | [9657-repton.json](./9657-repton.json) |
 | Repton 2 | 37073 | [37073-repton-2.json](./37073-repton-2.json) |
 | Repton 3 | 37074 | [37074-repton-3.json](./37074-repton-3.json) |
