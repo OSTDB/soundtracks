@@ -6550,6 +6550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noise1 | 134525 | [134525-noise1.json](./134525-noise1.json) |
 | Noiseless | 289822 | [289822-noiseless.json](./289822-noiseless.json) |
 | Noisetube | 117481 | [117481-noisetube.json](./117481-noisetube.json) |
+| Noisy Mountain | 71268 | [71268-noisy-mountain.json](./71268-noisy-mountain.json) |
 | NoisyDiarrhea | 281355 | [281355-noisydiarrhea.json](./281355-noisydiarrhea.json) |
 | Noisz Re: Collection G | 270796 | [270796-noisz-re-collection-g.json](./270796-noisz-re-collection-g.json) |
 | Noisz Re:Verse | 168534 | [168534-noisz-re-verse.json](./168534-noisz-re-verse.json) |
