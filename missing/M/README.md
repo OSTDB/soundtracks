@@ -5991,10 +5991,27 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maverta Island | 186844 | [186844-maverta-island.json](./186844-maverta-island.json) |
 | Maverta Muerte | 193030 | [193030-maverta-muerte.json](./193030-maverta-muerte.json) |
 | Mavi's Journey | 86586 | [86586-mavis-journey.json](./86586-mavis-journey.json) |
+| Mavis Beacon Keyboarding Kidz | 64527 | [64527-mavis-beacon-keyboarding-kidz.json](./64527-mavis-beacon-keyboarding-kidz.json) |
+| Mavis Beacon Teaches Microsoft Office | 64524 | [64524-mavis-beacon-teaches-microsoft-office.json](./64524-mavis-beacon-teaches-microsoft-office.json) |
+| Mavis Beacon Teaches Typing 5 | 64516 | [64516-mavis-beacon-teaches-typing-5.json](./64516-mavis-beacon-teaches-typing-5.json) |
+| Mavis Beacon Teaches Typing 9 | 64515 | [64515-mavis-beacon-teaches-typing-9.json](./64515-mavis-beacon-teaches-typing-9.json) |
+| Mavis Beacon Teaches Typing Platinum: 25th Anniversary Edition | 64525 | [64525-mavis-beacon-teaches-typing-platinum-25th-anniversary-edition.json](./64525-mavis-beacon-teaches-typing-platinum-25th-anniversary-edition.json) |
+| Mavis Beacon Teaches Typing Version 11 | 64511 | [64511-mavis-beacon-teaches-typing-version-11.json](./64511-mavis-beacon-teaches-typing-version-11.json) |
+| Mavis Beacon Teaches Typing Version 12 | 64518 | [64518-mavis-beacon-teaches-typing-version-12.json](./64518-mavis-beacon-teaches-typing-version-12.json) |
 | Mavis Beacon Teaches Typing Version 15 | 225834 | [225834-mavis-beacon-teaches-typing-version-15.json](./225834-mavis-beacon-teaches-typing-version-15.json) |
+| Mavis Beacon Teaches Typing Version 16 | 64517 | [64517-mavis-beacon-teaches-typing-version-16.json](./64517-mavis-beacon-teaches-typing-version-16.json) |
+| Mavis Beacon Teaches Typing Version 17 | 64520 | [64520-mavis-beacon-teaches-typing-version-17.json](./64520-mavis-beacon-teaches-typing-version-17.json) |
+| Mavis Beacon Teaches Typing Version 17 with Spongebob Squarepants Typing | 64521 | [64521-mavis-beacon-teaches-typing-version-17-with-spongebob-squarepants-typing.json](./64521-mavis-beacon-teaches-typing-version-17-with-spongebob-squarepants-typing.json) |
+| Mavis Beacon Teaches Typing Version 18 | 64523 | [64523-mavis-beacon-teaches-typing-version-18.json](./64523-mavis-beacon-teaches-typing-version-18.json) |
+| Mavis Beacon Teaches Typing Version 4 | 64512 | [64512-mavis-beacon-teaches-typing-version-4.json](./64512-mavis-beacon-teaches-typing-version-4.json) |
 | Mavis Beacon Teaches Typing Version 8 | 209541 | [209541-mavis-beacon-teaches-typing-version-8.json](./209541-mavis-beacon-teaches-typing-version-8.json) |
+| Mavis Beacon Teaches Typing: 2011 Ultimate Mac Edition | 64519 | [64519-mavis-beacon-teaches-typing-2011-ultimate-mac-edition.json](./64519-mavis-beacon-teaches-typing-2011-ultimate-mac-edition.json) |
+| Mavis Beacon Teaches Typing: Platinum Edition | 64522 | [64522-mavis-beacon-teaches-typing-platinum-edition.json](./64522-mavis-beacon-teaches-typing-platinum-edition.json) |
 | Mavis Beacon Teaches Typing! | 71429 | [71429-mavis-beacon-teaches-typing.json](./71429-mavis-beacon-teaches-typing.json) |
 | Mavis Beacon Teaches Typing! for Kids | 94378 | [94378-mavis-beacon-teaches-typing-for-kids.json](./94378-mavis-beacon-teaches-typing-for-kids.json) |
+| Mavis Beacon Teaches Typing! Version 2.0 | 64514 | [64514-mavis-beacon-teaches-typing-version-2-0.json](./64514-mavis-beacon-teaches-typing-version-2-0.json) |
+| Mavis Beacon Teaches Typing! Version 3 for Windows | 64513 | [64513-mavis-beacon-teaches-typing-version-3-for-windows.json](./64513-mavis-beacon-teaches-typing-version-3-for-windows.json) |
+| Mavis Beacon: Movie Mayhem | 64528 | [64528-mavis-beacon-movie-mayhem.json](./64528-mavis-beacon-movie-mayhem.json) |
 | Mavors | 335218 | [335218-mavors.json](./335218-mavors.json) |
 | Maw | 353975 | [353975-maw.json](./353975-maw.json) |
 | Mawang: Dark Lord Defense | 350396 | [350396-mawang-dark-lord-defense.json](./350396-mawang-dark-lord-defense.json) |
@@ -16587,6 +16604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Puzzle | 130827 | [130827-monster-puzzle.json](./130827-monster-puzzle.json) |
 | Monster Puzzle | 32304 | [32304-monster-puzzle.json](./32304-monster-puzzle.json) |
 | Monster Quest | 301863 | [301863-monster-quest.json](./301863-monster-quest.json) |
+| Monster Race | 64019 | [64019-monster-race.json](./64019-monster-race.json) |
 | Monster Race 2 | 61172 | [61172-monster-race-2.json](./61172-monster-race-2.json) |
 | Monster Race Okawari | 61173 | [61173-monster-race-okawari.json](./61173-monster-race-okawari.json) |
 | Monster Racer | 20466 | [20466-monster-racer.json](./20466-monster-racer.json) |
