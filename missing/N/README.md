@@ -104,6 +104,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naemo | 385216 | [385216-naemo.json](./385216-naemo.json) |
 | Naenia | 398633 | [398633-naenia.json](./398633-naenia.json) |
 | Naera: It's Time to Retry | 150921 | [150921-naera-its-time-to-retry.json](./150921-naera-its-time-to-retry.json) |
+| Naev | 52025 | [52025-naev.json](./52025-naev.json) |
 | Nafanya the Poltergeist | 277759 | [277759-nafanya-the-poltergeist.json](./277759-nafanya-the-poltergeist.json) |
 | Nafuda Sagashi: Identity Lost | 404807 | [404807-nafuda-sagashi-identity-lost.json](./404807-nafuda-sagashi-identity-lost.json) |
 | Naga Girls | 271611 | [271611-naga-girls.json](./271611-naga-girls.json) |
