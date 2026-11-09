@@ -157,6 +157,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | R42 | 130900 | [130900-r42.json](./130900-r42.json) |
 | R4YL: Run for your life! | 253879 | [253879-r4yl-run-for-your-life.json](./253879-r4yl-run-for-your-life.json) |
 | R5Reloaded | 229750 | [229750-r5reloaded.json](./229750-r5reloaded.json) |
+| Ra 2 | 30335 | [30335-ra-2.json](./30335-ra-2.json) |
 | Ra Ra Boom | 242111 | [242111-ra-ra-boom.json](./242111-ra-ra-boom.json) |
 | Ra.One: The Game | 18295 | [18295-ra-one-the-game.json](./18295-ra-one-the-game.json) |
 | Raahi | 379051 | [379051-raahi.json](./379051-raahi.json) |
@@ -942,6 +943,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raging Skies | 403149 | [403149-raging-skies.json](./403149-raging-skies.json) |
 | Raging Thunder | 98141 | [98141-raging-thunder.json](./98141-raging-thunder.json) |
 | Raging Thunder II | 66448 | [66448-raging-thunder-ii.json](./66448-raging-thunder-ii.json) |
+| Raging Titan | 31002 | [31002-raging-titan.json](./31002-raging-titan.json) |
 | RagingFist | 181012 | [181012-ragingfist.json](./181012-ragingfist.json) |
 | Ragmonton | 238601 | [238601-ragmonton.json](./238601-ragmonton.json) |
 | Ragmonton Endless For Save Indie Game | 291272 | [291272-ragmonton-endless-for-save-indie-game.json](./291272-ragmonton-endless-for-save-indie-game.json) |
@@ -3200,6 +3202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realities: Death Valley | 171911 | [171911-realities-death-valley.json](./171911-realities-death-valley.json) |
 | Reality | 170818 | [170818-reality.json](./170818-reality.json) |
 | Reality | 226976 | [226976-reality.json](./226976-reality.json) |
+| Reality | 30358 | [30358-reality.json](./30358-reality.json) |
 | Reality | 327025 | [327025-reality.json](./327025-reality.json) |
 | Reality | 353297 | [353297-reality.json](./353297-reality.json) |
 | Reality | 81178 | [81178-reality.json](./81178-reality.json) |
@@ -4198,10 +4201,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Solstice 2: Survivors - Insurgents | 201009 | [201009-red-solstice-2-survivors-insurgents.json](./201009-red-solstice-2-survivors-insurgents.json) |
 | Red Solstice 2: Survivors - Ultimate Edition | 329198 | [329198-red-solstice-2-survivors-ultimate-edition.json](./329198-red-solstice-2-survivors-ultimate-edition.json) |
 | Red Sparrow | 38998 | [38998-red-sparrow.json](./38998-red-sparrow.json) |
+| Red Spider 2: Exiled | 30354 | [30354-red-spider-2-exiled.json](./30354-red-spider-2-exiled.json) |
 | Red Spider 2: Exiled Remastered | 401844 | [401844-red-spider-2-exiled-remastered.json](./401844-red-spider-2-exiled-remastered.json) |
 | Red Spider Anecdote: The Longest Nite | 324318 | [324318-red-spider-anecdote-the-longest-nite.json](./324318-red-spider-anecdote-the-longest-nite.json) |
 | Red Spider Anecdote: Triangle | 100706 | [100706-red-spider-anecdote-triangle.json](./100706-red-spider-anecdote-triangle.json) |
 | Red Spider Lily | 398790 | [398790-red-spider-lily.json](./398790-red-spider-lily.json) |
+| Red Spider: Vengeance | 30981 | [30981-red-spider-vengeance.json](./30981-red-spider-vengeance.json) |
 | Red Spider: Vengeance Remastered | 371969 | [371969-red-spider-vengeance-remastered.json](./371969-red-spider-vengeance-remastered.json) |
 | Red Spider3: A Heroine Never Dies | 100709 | [100709-red-spider3-a-heroine-never-dies.json](./100709-red-spider3-a-heroine-never-dies.json) |
 | Red Square | 120977 | [120977-red-square.json](./120977-red-square.json) |
@@ -5149,6 +5154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Remilia's Challenge | 369571 | [369571-remilias-challenge.json](./369571-remilias-challenge.json) |
 | RemiLore: Lost Girl in the Lands of Lore | 103259 | [103259-remilore-lost-girl-in-the-lands-of-lore.json](./103259-remilore-lost-girl-in-the-lands-of-lore.json) |
 | REMinal | 404769 | [404769-reminal.json](./404769-reminal.json) |
+| Remind Yourself | 31006 | [31006-remind-yourself.json](./31006-remind-yourself.json) |
 | Remindelight | 123405 | [123405-remindelight.json](./123405-remindelight.json) |
 | Remington Big Buck Trophy Hunt | 69059 | [69059-remington-big-buck-trophy-hunt.json](./69059-remington-big-buck-trophy-hunt.json) |
 | Remington Great American Bird Hunt | 51134 | [51134-remington-great-american-bird-hunt.json](./51134-remington-great-american-bird-hunt.json) |
@@ -13382,6 +13388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Russian Train Trip 3: People In A Train Car | 316111 | [316111-russian-train-trip-3-people-in-a-train-car.json](./316111-russian-train-trip-3-people-in-a-train-car.json) |
 | Russian Train Trip 3: Personal Computer In The Apartment | 316107 | [316107-russian-train-trip-3-personal-computer-in-the-apartment.json](./316107-russian-train-trip-3-personal-computer-in-the-apartment.json) |
 | Russian Train Trip 3: Posters In The Train Car | 316112 | [316112-russian-train-trip-3-posters-in-the-train-car.json](./316112-russian-train-trip-3-posters-in-the-train-car.json) |
+| Russian Underground: VR | 30300 | [30300-russian-underground-vr.json](./30300-russian-underground-vr.json) |
 | Russian Village Simulator | 253458 | [253458-russian-village-simulator.json](./253458-russian-village-simulator.json) |
 | Russian Village Simulator 2 | 387745 | [387745-russian-village-simulator-2.json](./387745-russian-village-simulator-2.json) |
 | Russian VR Coasters | 32005 | [32005-russian-vr-coasters.json](./32005-russian-vr-coasters.json) |
