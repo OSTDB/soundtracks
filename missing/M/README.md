@@ -4850,6 +4850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Rivals: Season 7 - The Hunt is On | 395763 | [395763-marvel-rivals-season-7-the-hunt-is-on.json](./395763-marvel-rivals-season-7-the-hunt-is-on.json) |
 | Marvel Rivals: Season 9 – The Mystery of Thebes | 410021 | [410021-marvel-rivals-season-9-the-mystery-of-thebes.json](./410021-marvel-rivals-season-9-the-mystery-of-thebes.json) |
 | Marvel Rivals: Season 9.5 – The Hood | 412709 | [412709-marvel-rivals-season-9-5-the-hood.json](./412709-marvel-rivals-season-9-5-the-hood.json) |
+| Marvel Run Jump Smash! | 61264 | [61264-marvel-run-jump-smash.json](./61264-marvel-run-jump-smash.json) |
 | Marvel Snap | 202279 | [202279-marvel-snap.json](./202279-marvel-snap.json) |
 | Marvel Spider-Man | 198900 | [198900-marvel-spider-man.json](./198900-marvel-spider-man.json) |
 | Marvel Spider-Man Unlimited | 89103 | [89103-marvel-spider-man-unlimited.json](./89103-marvel-spider-man-unlimited.json) |
@@ -6650,6 +6651,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MDT: Make It or Die Trying | 405000 | [405000-mdt-make-it-or-die-trying.json](./405000-mdt-make-it-or-die-trying.json) |
 | Me | 145034 | [145034-me.json](./145034-me.json) |
 | Me & My Friend Pippa! | 311714 | [311714-me-and-my-friend-pippa.json](./311714-me-and-my-friend-pippa.json) |
+| Me & My Furry Patients 3D | 61748 | [61748-me-and-my-furry-patients-3d.json](./61748-me-and-my-furry-patients-3d.json) |
 | Me & My Pets 3D | 85277 | [85277-me-and-my-pets-3d.json](./85277-me-and-my-pets-3d.json) |
 | Me & My Robot Friend | 128595 | [128595-me-and-my-robot-friend.json](./128595-me-and-my-robot-friend.json) |
 | Me && Mory | 341287 | [341287-me-and-and-mory.json](./341287-me-and-and-mory.json) |
@@ -16416,6 +16418,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Hunter Wilds: Title Update 5 | 381129 | [381129-monster-hunter-wilds-title-update-5.json](./381129-monster-hunter-wilds-title-update-5.json) |
 | Monster Hunter World: Iceborne - Digital Deluxe Edition | 118278 | [118278-monster-hunter-world-iceborne-digital-deluxe-edition.json](./118278-monster-hunter-world-iceborne-digital-deluxe-edition.json) |
 | Monster Hunter World: Iceborne Master Edition | 118273 | [118273-monster-hunter-world-iceborne-master-edition.json](./118273-monster-hunter-world-iceborne-master-edition.json) |
+| Monster Hunter: Dynamic Hunting | 61752 | [61752-monster-hunter-dynamic-hunting.json](./61752-monster-hunter-dynamic-hunting.json) |
 | Monster Hunter: Poogie Race | 313482 | [313482-monster-hunter-poogie-race.json](./313482-monster-hunter-poogie-race.json) |
 | Monster Hunter: World - Collector's Edition | 81289 | [81289-monster-hunter-world-collectors-edition.json](./81289-monster-hunter-world-collectors-edition.json) |
 | Monster Hunter: World - Digital Deluxe Edition | 81354 | [81354-monster-hunter-world-digital-deluxe-edition.json](./81354-monster-hunter-world-digital-deluxe-edition.json) |
@@ -16757,6 +16760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Trucks Mayhem | 49248 | [49248-monster-trucks-mayhem.json](./49248-monster-trucks-mayhem.json) |
 | Monster Trucks Mayhem | 50718 | [50718-monster-trucks-mayhem.json](./50718-monster-trucks-mayhem.json) |
 | Monster Trucks Nitro | 14912 | [14912-monster-trucks-nitro.json](./14912-monster-trucks-nitro.json) |
+| Monster Trucks Nitro II | 61762 | [61762-monster-trucks-nitro-ii.json](./61762-monster-trucks-nitro-ii.json) |
 | Monster Trux Arenas: Special Edition | 268375 | [268375-monster-trux-arenas-special-edition.json](./268375-monster-trux-arenas-special-edition.json) |
 | Monster Trux Extreme: Offroad Edition | 5020 | [5020-monster-trux-extreme-offroad-edition.json](./5020-monster-trux-extreme-offroad-edition.json) |
 | Monster Trux: Arenas | 5019 | [5019-monster-trux-arenas.json](./5019-monster-trux-arenas.json) |
