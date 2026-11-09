@@ -247,6 +247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pac-Man Megamix | 322106 | [322106-pac-man-megamix.json](./322106-pac-man-megamix.json) |
 | Pac-Man Micro Player | 219349 | [219349-pac-man-micro-player.json](./219349-pac-man-micro-player.json) |
 | Pac-Man Micro Player: 40th Anniversary Edition | 219358 | [219358-pac-man-micro-player-40th-anniversary-edition.json](./219358-pac-man-micro-player-40th-anniversary-edition.json) |
+| Pac-Man Monsters | 61756 | [61756-pac-man-monsters.json](./61756-pac-man-monsters.json) |
 | Pac-Man Museum | 25074 | [25074-pac-man-museum.json](./25074-pac-man-museum.json) |
 | Pac-Man Museum: Ms. Pac-Man DLC | 343386 | [343386-pac-man-museum-ms-pac-man-dlc.json](./343386-pac-man-museum-ms-pac-man-dlc.json) |
 | Pac-Man Museum+ | 182246 | [182246-pac-man-museum.json](./182246-pac-man-museum.json) |
@@ -18316,6 +18317,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Purgatory: Mark's Creepy Story | 235291 | [235291-purgatory-marks-creepy-story.json](./235291-purgatory-marks-creepy-story.json) |
 | Purgatory: War of the Damned | 10729 | [10729-purgatory-war-of-the-damned.json](./10729-purgatory-war-of-the-damned.json) |
 | Purgatory’s Flower | 337929 | [337929-purgatory-s-flower.json](./337929-purgatory-s-flower.json) |
+| Purge | 61759 | [61759-purge.json](./61759-purge.json) |
 | Purge Party | 303996 | [303996-purge-party.json](./303996-purge-party.json) |
 | Purge Persist and Profit | 184233 | [184233-purge-persist-and-profit.json](./184233-purge-persist-and-profit.json) |
 | Purge: Three vs Blood | 190975 | [190975-purge-three-vs-blood.json](./190975-purge-three-vs-blood.json) |
