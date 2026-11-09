@@ -8172,6 +8172,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Champion Icehockey | 417485 | [417485-world-champion-icehockey.json](./417485-world-champion-icehockey.json) |
 | World Champions: Decathlon | 165936 | [165936-world-champions-decathlon.json](./165936-world-champions-decathlon.json) |
 | World Championship Athletics | 79470 | [79470-world-championship-athletics.json](./79470-world-championship-athletics.json) |
+| World Championship Baseball | 41445 | [41445-world-championship-baseball.json](./41445-world-championship-baseball.json) |
 | World Championship Boxing Manager | 76142 | [76142-world-championship-boxing-manager.json](./76142-world-championship-boxing-manager.json) |
 | World Championship Boxing Manager 2 | 200931 | [200931-world-championship-boxing-manager-2.json](./200931-world-championship-boxing-manager-2.json) |
 | World Championship Cards | 43428 | [43428-world-championship-cards.json](./43428-world-championship-cards.json) |
@@ -8247,6 +8248,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | World Cup Manager | 86221 | [86221-world-cup-manager.json](./86221-world-cup-manager.json) |
 | World Cup of Pool | 47963 | [47963-world-cup-of-pool.json](./47963-world-cup-of-pool.json) |
 | World Cup Soccer | 245608 | [245608-world-cup-soccer.json](./245608-world-cup-soccer.json) |
+| World Cup Soccer | 41444 | [41444-world-cup-soccer.json](./41444-world-cup-soccer.json) |
 | World Cup USA 94 | 217942 | [217942-world-cup-usa-94.json](./217942-world-cup-usa-94.json) |
 | World Cup USA 94 | 349268 | [349268-world-cup-usa-94.json](./349268-world-cup-usa-94.json) |
 | World Cup USA 94 | 365668 | [365668-world-cup-usa-94.json](./365668-world-cup-usa-94.json) |
@@ -9047,6 +9049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Worm War I | 22556 | [22556-worm-war-i.json](./22556-worm-war-i.json) |
 | Worm War: Greengrocer | 290420 | [290420-worm-war-greengrocer.json](./290420-worm-war-greengrocer.json) |
 | Worm Wars | 355296 | [355296-worm-wars.json](./355296-worm-wars.json) |
+| Worm Whomper | 41446 | [41446-worm-whomper.json](./41446-worm-whomper.json) |
 | Worm.is: The Game | 32723 | [32723-worm-is-the-game.json](./32723-worm-is-the-game.json) |
 | Wormate.io | 36808 | [36808-wormate-io.json](./36808-wormate-io.json) |
 | Wormatozoa | 190722 | [190722-wormatozoa.json](./190722-wormatozoa.json) |
