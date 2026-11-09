@@ -11902,6 +11902,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Codename: Bakery Girl | 113467 | [113467-codename-bakery-girl.json](./113467-codename-bakery-girl.json) |
 | Codename: Black Crow | 372226 | [372226-codename-black-crow.json](./372226-codename-black-crow.json) |
 | Codename: Cupid | 238414 | [238414-codename-cupid.json](./238414-codename-cupid.json) |
+| Codename: Droid | 5875 | [5875-codename-droid.json](./5875-codename-droid.json) |
 | Codename: God | 305947 | [305947-codename-god.json](./305947-codename-god.json) |
 | Codename: Gordon | 11749 | [11749-codename-gordon.json](./11749-codename-gordon.json) |
 | Codename: Iceman | 1929 | [1929-codename-iceman.json](./1929-codename-iceman.json) |
