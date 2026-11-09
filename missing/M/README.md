@@ -3167,6 +3167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mangui | 327101 | [327101-mangui.json](./327101-mangui.json) |
 | ManGuin: Penguin Apocalypse | 130704 | [130704-manguin-penguin-apocalypse.json](./130704-manguin-penguin-apocalypse.json) |
 | ManHandler | 243689 | [243689-manhandler.json](./243689-manhandler.json) |
+| Manhattan | 67462 | [67462-manhattan.json](./67462-manhattan.json) |
 | Manhattan Chase | 74030 | [74030-manhattan-chase.json](./74030-manhattan-chase.json) |
 | Manhattan Dealers | 10846 | [10846-manhattan-dealers.json](./10846-manhattan-dealers.json) |
 | Manhattan Dolls | 265329 | [265329-manhattan-dolls.json](./265329-manhattan-dolls.json) |
@@ -3705,6 +3706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mari and the Black Tower | 68766 | [68766-mari-and-the-black-tower.json](./68766-mari-and-the-black-tower.json) |
 | Mari Is Home | 280180 | [280180-mari-is-home.json](./280180-mari-is-home.json) |
 | Mari Lwyd | 375932 | [375932-mari-lwyd.json](./375932-mari-lwyd.json) |
+| Mari-chan Kikiippatsu | 67402 | [67402-mari-chan-kikiippatsu.json](./67402-mari-chan-kikiippatsu.json) |
 | Mari's Magical Deliveries | 334204 | [334204-maris-magical-deliveries.json](./334204-maris-magical-deliveries.json) |
 | Mari0 | 8726 | [8726-mari0.json](./8726-mari0.json) |
 | Mari0: Alesan99's Entities | 369211 | [369211-mari0-alesan99s-entities.json](./369211-mari0-alesan99s-entities.json) |
@@ -8777,6 +8779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Melody | 213727 | [213727-melody.json](./213727-melody.json) |
 | Melody | 275841 | [275841-melody.json](./275841-melody.json) |
 | Melody | 414285 | [414285-melody.json](./414285-melody.json) |
+| Melody | 67460 | [67460-melody.json](./67460-melody.json) |
 | Melody Ball | 344722 | [344722-melody-ball.json](./344722-melody-ball.json) |
 | Melody before the Dawn | 367404 | [367404-melody-before-the-dawn.json](./367404-melody-before-the-dawn.json) |
 | Melody Duel | 176185 | [176185-melody-duel.json](./176185-melody-duel.json) |
@@ -9709,6 +9712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merlin's Lab | 59033 | [59033-merlins-lab.json](./59033-merlins-lab.json) |
 | Merlin's Walls | 68798 | [68798-merlins-walls.json](./68798-merlins-walls.json) |
 | Merlion Pinball | 307560 | [307560-merlion-pinball.json](./307560-merlion-pinball.json) |
+| Mermaid | 67459 | [67459-mermaid.json](./67459-mermaid.json) |
 | Mermaid Adventures: The Frozen Time | 86485 | [86485-mermaid-adventures-the-frozen-time.json](./86485-mermaid-adventures-the-frozen-time.json) |
 | Mermaid Adventures: The Magic Pearl | 88623 | [88623-mermaid-adventures-the-magic-pearl.json](./88623-mermaid-adventures-the-magic-pearl.json) |
 | Mermaid Castle | 147740 | [147740-mermaid-castle.json](./147740-mermaid-castle.json) |
@@ -11766,6 +11770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mighty Aphid: Remastered Edition | 422668 | [422668-mighty-aphid-remastered-edition.json](./422668-mighty-aphid-remastered-edition.json) |
 | Mighty Arms | 348751 | [348751-mighty-arms.json](./348751-mighty-arms.json) |
 | Mighty Atom | 48386 | [48386-mighty-atom.json](./48386-mighty-atom.json) |
+| Mighty Battle Skin Panic | 67405 | [67405-mighty-battle-skin-panic.json](./67405-mighty-battle-skin-panic.json) |
 | Mighty Beanz | 254890 | [254890-mighty-beanz.json](./254890-mighty-beanz.json) |
 | Mighty Beanz Pocket Puzzles | 6510 | [6510-mighty-beanz-pocket-puzzles.json](./6510-mighty-beanz-pocket-puzzles.json) |
 | Mighty Block | 248261 | [248261-mighty-block.json](./248261-mighty-block.json) |
