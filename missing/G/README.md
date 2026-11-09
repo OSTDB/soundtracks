@@ -11514,6 +11514,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunship Battle | 245967 | [245967-gunship-battle.json](./245967-gunship-battle.json) |
 | Gunship Battle: Crypto Conflict | 208828 | [208828-gunship-battle-crypto-conflict.json](./208828-gunship-battle-crypto-conflict.json) |
 | Gunship Battle: Total Warfare | 109500 | [109500-gunship-battle-total-warfare.json](./109500-gunship-battle-total-warfare.json) |
+| Gunship Battle2 VR: Steam Edition | 75348 | [75348-gunship-battle2-vr-steam-edition.json](./75348-gunship-battle2-vr-steam-edition.json) |
 | Gunship DX | 296821 | [296821-gunship-dx.json](./296821-gunship-dx.json) |
 | Gunship Global Operations | 380115 | [380115-gunship-global-operations.json](./380115-gunship-global-operations.json) |
 | Gunship II | 88754 | [88754-gunship-ii.json](./88754-gunship-ii.json) |
