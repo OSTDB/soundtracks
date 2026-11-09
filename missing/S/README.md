@@ -10119,6 +10119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shurado | 74775 | [74775-shurado.json](./74775-shurado.json) |
 | Shurigatto | 422012 | [422012-shurigatto.json](./422012-shurigatto.json) |
 | Shuriken | 197495 | [197495-shuriken.json](./197495-shuriken.json) |
+| Shuriken | 57206 | [57206-shuriken.json](./57206-shuriken.json) |
 | Shuriken & Aliens | 124144 | [124144-shuriken-and-aliens.json](./124144-shuriken-and-aliens.json) |
 | Shuriken Block | 61058 | [61058-shuriken-block.json](./61058-shuriken-block.json) |
 | Shuriken Master! | 108493 | [108493-shuriken-master.json](./108493-shuriken-master.json) |
@@ -11151,6 +11152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silverwood Bay: An Eleanor Grey Mystery - Collector's Edition | 426443 | [426443-silverwood-bay-an-eleanor-grey-mystery-collectors-edition.json](./426443-silverwood-bay-an-eleanor-grey-mystery-collectors-edition.json) |
 | Silverworld | 98770 | [98770-silverworld.json](./98770-silverworld.json) |
 | Silverybield Foss | 138778 | [138778-silverybield-foss.json](./138778-silverybield-foss.json) |
+| Sim Brick | 57216 | [57216-sim-brick.json](./57216-sim-brick.json) |
 | SIM Chef: Restaurant management | 197047 | [197047-sim-chef-restaurant-management.json](./197047-sim-chef-restaurant-management.json) |
 | Sim Cinema Deluxe | 139154 | [139154-sim-cinema-deluxe.json](./139154-sim-cinema-deluxe.json) |
 | Sim Companies | 176094 | [176094-sim-companies.json](./176094-sim-companies.json) |
