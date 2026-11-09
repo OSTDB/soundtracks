@@ -3914,6 +3914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Endless Ranger Awakening | 353768 | [353768-endless-ranger-awakening.json](./353768-endless-ranger-awakening.json) |
 | Endless Reach | 358964 | [358964-endless-reach.json](./358964-endless-reach.json) |
 | Endless Reaches Through Mind and Soul | 128741 | [128741-endless-reaches-through-mind-and-soul.json](./128741-endless-reaches-through-mind-and-soul.json) |
+| Endless Reality | 55352 | [55352-endless-reality.json](./55352-endless-reality.json) |
 | Endless Return | 293007 | [293007-endless-return.json](./293007-endless-return.json) |
 | Endless Road | 112438 | [112438-endless-road.json](./112438-endless-road.json) |
 | Endless Road | 98866 | [98866-endless-road.json](./98866-endless-road.json) |
