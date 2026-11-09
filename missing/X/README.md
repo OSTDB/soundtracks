@@ -914,6 +914,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | xMoon | 116946 | [116946-xmoon.json](./116946-xmoon.json) |
 | Xmos | 232108 | [232108-xmos.json](./232108-xmos.json) |
 | Xna | 45968 | [45968-xna.json](./45968-xna.json) |
+| XNemesis | 34503 | [34503-xnemesis.json](./34503-xnemesis.json) |
 | xNetHack | 283536 | [283536-xnethack.json](./283536-xnethack.json) |
 | XO | 110270 | [110270-xo.json](./110270-xo.json) |
 | XO Evolved | 368001 | [368001-xo-evolved.json](./368001-xo-evolved.json) |
