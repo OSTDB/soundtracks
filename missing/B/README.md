@@ -7956,6 +7956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bigtop Barney | 91796 | [91796-bigtop-barney.json](./91796-bigtop-barney.json) |
 | Bigwig Flint | 132674 | [132674-bigwig-flint.json](./132674-bigwig-flint.json) |
 | Bigwigs: 2 Minute Brawl | 100312 | [100312-bigwigs-2-minute-brawl.json](./100312-bigwigs-2-minute-brawl.json) |
+| BigWorld: Citizen Zero | 60673 | [60673-bigworld-citizen-zero.json](./60673-bigworld-citizen-zero.json) |
 | Biida-Bash | 372471 | [372471-biida-bash.json](./372471-biida-bash.json) |
 | Biing! 2: Sonne, Strand und Heisse Nächte | 71330 | [71330-biing-2-sonne-strand-und-heisse-nachte.json](./71330-biing-2-sonne-strand-und-heisse-nachte.json) |
 | Biing!: Sex, Intrigue and Scalpels | 50348 | [50348-biing-sex-intrigue-and-scalpels.json](./50348-biing-sex-intrigue-and-scalpels.json) |
@@ -8938,6 +8939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bit Rat: Singularity | 134485 | [134485-bit-rat-singularity.json](./134485-bit-rat-singularity.json) |
 | Bit Reverse | 256665 | [256665-bit-reverse.json](./256665-bit-reverse.json) |
 | Bit Shifter | 34699 | [34699-bit-shifter.json](./34699-bit-shifter.json) |
+| Bit Siege | 60679 | [60679-bit-siege.json](./60679-bit-siege.json) |
 | Bit Storm VR: First Loop | 74192 | [74192-bit-storm-vr-first-loop.json](./74192-bit-storm-vr-first-loop.json) |
 | Bit Sword | 190032 | [190032-bit-sword.json](./190032-bit-sword.json) |
 | Bit the Apple, So What? | 249069 | [249069-bit-the-apple-so-what.json](./249069-bit-the-apple-so-what.json) |
@@ -12697,6 +12699,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boku no Choro-Q | 59440 | [59440-boku-no-choro-q.json](./59440-boku-no-choro-q.json) |
 | Boku no Enikki | 148242 | [148242-boku-no-enikki.json](./148242-boku-no-enikki.json) |
 | Boku no Fiancée | 385773 | [385773-boku-no-fiancee.json](./385773-boku-no-fiancee.json) |
+| Boku no Hitori Sensou | 60640 | [60640-boku-no-hitori-sensou.json](./60640-boku-no-hitori-sensou.json) |
 | Boku no Knife de Kimi wo Tasuketai | 299585 | [299585-boku-no-knife-de-kimi-wo-tasuketai.json](./299585-boku-no-knife-de-kimi-wo-tasuketai.json) |
 | Boku no Kokoro ha Ame Nochi Hare | 395080 | [395080-boku-no-kokoro-ha-ame-nochi-hare.json](./395080-boku-no-kokoro-ha-ame-nochi-hare.json) |
 | Boku no Komayama wo Mamotte | 308901 | [308901-boku-no-komayama-wo-mamotte.json](./308901-boku-no-komayama-wo-mamotte.json) |
@@ -18432,6 +18435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Burning Angels | 37719 | [37719-burning-angels.json](./37719-burning-angels.json) |
 | Burning Ball | 169347 | [169347-burning-ball.json](./169347-burning-ball.json) |
 | Burning Birds | 341853 | [341853-burning-birds.json](./341853-burning-birds.json) |
+| Burning Blade | 60648 | [60648-burning-blade.json](./60648-burning-blade.json) |
 | Burning Branch | 250724 | [250724-burning-branch.json](./250724-burning-branch.json) |
 | Burning Brick Breaker | 170070 | [170070-burning-brick-breaker.json](./170070-burning-brick-breaker.json) |
 | Burning Bridges | 414750 | [414750-burning-bridges.json](./414750-burning-bridges.json) |
