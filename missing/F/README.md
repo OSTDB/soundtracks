@@ -10499,6 +10499,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Formula Funtico | 307427 | [307427-formula-funtico.json](./307427-formula-funtico.json) |
 | Formula GP | 242438 | [242438-formula-gp.json](./242438-formula-gp.json) |
 | Formula Karts | 319112 | [319112-formula-karts.json](./319112-formula-karts.json) |
+| Formula Karts: Special Edition | 46056 | [46056-formula-karts-special-edition.json](./46056-formula-karts-special-edition.json) |
 | Formula Legendary Bundle 3 in 1 | 385136 | [385136-formula-legendary-bundle-3-in-1.json](./385136-formula-legendary-bundle-3-in-1.json) |
 | Formula Legends | 342187 | [342187-formula-legends.json](./342187-formula-legends.json) |
 | Formula Legends: 2025 Complete DLC Pack | 403996 | [403996-formula-legends-2025-complete-dlc-pack.json](./403996-formula-legends-2025-complete-dlc-pack.json) |
@@ -11759,6 +11760,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frankenstein: The Dismembered Bride | 122090 | [122090-frankenstein-the-dismembered-bride.json](./122090-frankenstein-the-dismembered-bride.json) |
 | Frankenstein: The Monster Returns | 48128 | [48128-frankenstein-the-monster-returns.json](./48128-frankenstein-the-monster-returns.json) |
 | Frankenstein: The Village | 177050 | [177050-frankenstein-the-village.json](./177050-frankenstein-the-village.json) |
+| Frankenstein: Through the Eyes of the Monster | 46055 | [46055-frankenstein-through-the-eyes-of-the-monster.json](./46055-frankenstein-through-the-eyes-of-the-monster.json) |
 | Frankenstein's Monster | 22763 | [22763-frankensteins-monster.json](./22763-frankensteins-monster.json) |
 | Frankenstein's Monsters, Inc. | 179561 | [179561-frankensteins-monsters-inc.json](./179561-frankensteins-monsters-inc.json) |
 | Frankenstories | 194289 | [194289-frankenstories.json](./194289-frankenstories.json) |
