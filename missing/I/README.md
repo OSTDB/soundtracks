@@ -438,7 +438,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | I Love my Cats | 84542 | [84542-i-love-my-cats.json](./84542-i-love-my-cats.json) |
 | I Love My Dogs | 84541 | [84541-i-love-my-dogs.json](./84541-i-love-my-dogs.json) |
 | I Love My Goblin Girlfriend | 301482 | [301482-i-love-my-goblin-girlfriend.json](./301482-i-love-my-goblin-girlfriend.json) |
+| I Love my Horse | 44006 | [44006-i-love-my-horse.json](./44006-i-love-my-horse.json) |
 | I Love My Job! | 177845 | [177845-i-love-my-job.json](./177845-i-love-my-job.json) |
+| I Love My Little Boy | 44029 | [44029-i-love-my-little-boy.json](./44029-i-love-my-little-boy.json) |
 | I Love My Little Girl | 84540 | [84540-i-love-my-little-girl.json](./84540-i-love-my-little-girl.json) |
 | I Love My Pets | 47691 | [47691-i-love-my-pets.json](./47691-i-love-my-pets.json) |
 | I Love My Pony | 85190 | [85190-i-love-my-pony.json](./85190-i-love-my-pony.json) |
@@ -1298,6 +1300,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ide Yosuke no Mahjong Kyoushitsu GB | 65243 | [65243-ide-yosuke-no-mahjong-kyoushitsu-gb.json](./65243-ide-yosuke-no-mahjong-kyoushitsu-gb.json) |
 | Ide Yousuke Meijin no Jissen Mahjong | 48754 | [48754-ide-yousuke-meijin-no-jissen-mahjong.json](./48754-ide-yousuke-meijin-no-jissen-mahjong.json) |
 | Ide Yousuke Meijin no Jissen Mahjong II | 48753 | [48753-ide-yousuke-meijin-no-jissen-mahjong-ii.json](./48753-ide-yousuke-meijin-no-jissen-mahjong-ii.json) |
+| Ide Yousuke no Mahjong Juku | 44046 | [44046-ide-yousuke-no-mahjong-juku.json](./44046-ide-yousuke-no-mahjong-juku.json) |
 | Idea | 204951 | [204951-idea.json](./204951-idea.json) |
 | Idea Fix | 323640 | [323640-idea-fix.json](./323640-idea-fix.json) |
 | Idea: Drone camera calm puzzle | 241572 | [241572-idea-drone-camera-calm-puzzle.json](./241572-idea-drone-camera-calm-puzzle.json) |
