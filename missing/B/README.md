@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1783,6 +1784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Balloon Pop | 4704 | [4704-balloon-pop.json](./4704-balloon-pop.json) |
 | Balloon Pop | 88845 | [88845-balloon-pop.json](./88845-balloon-pop.json) |
 | Balloon Pop 2 | 92321 | [92321-balloon-pop-2.json](./92321-balloon-pop-2.json) |
+| Balloon Pop Festival | 51089 | [51089-balloon-pop-festival.json](./51089-balloon-pop-festival.json) |
 | Balloon Pop for Toddlers & Kids: Learn Numbers, Letters, Colors & Animals | 147925 | [147925-balloon-pop-for-toddlers-and-kids-learn-numbers-letters-colors-and-animals.json](./147925-balloon-pop-for-toddlers-and-kids-learn-numbers-letters-colors-and-animals.json) |
 | Balloon Pop Plus | 64305 | [64305-balloon-pop-plus.json](./64305-balloon-pop-plus.json) |
 | Balloon Pop Remix | 64551 | [64551-balloon-pop-remix.json](./64551-balloon-pop-remix.json) |
@@ -2132,6 +2134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bang | 285674 | [285674-bang.json](./285674-bang.json) |
 | Bang | 38547 | [38547-bang.json](./38547-bang.json) |
 | Bang 2 Busters | 40189 | [40189-bang-2-busters.json](./40189-bang-2-busters.json) |
+| Bang Attack | 51088 | [51088-bang-attack.json](./51088-bang-attack.json) |
 | Bang Average Football | 248974 | [248974-bang-average-football.json](./248974-bang-average-football.json) |
 | Bang Bang Ball | 40268 | [40268-bang-bang-ball.json](./40268-bang-bang-ball.json) |
 | Bang Bang Bang! | 31427 | [31427-bang-bang-bang.json](./31427-bang-bang-bang.json) |
@@ -6897,6 +6900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bery'sCase | 290931 | [290931-beryscase.json](./290931-beryscase.json) |
 | Berzerk | 2391 | [2391-berzerk.json](./2391-berzerk.json) |
 | Berzerk | 282314 | [282314-berzerk.json](./282314-berzerk.json) |
+| Berzerk Ball | 51340 | [51340-berzerk-ball.json](./51340-berzerk-ball.json) |
 | Berzerk Ball 2 | 75505 | [75505-berzerk-ball-2.json](./75505-berzerk-ball-2.json) |
 | Berzerk Redux | 362418 | [362418-berzerk-redux.json](./362418-berzerk-redux.json) |
 | Berzerk: Enhanced Edition | 280756 | [280756-berzerk-enhanced-edition.json](./280756-berzerk-enhanced-edition.json) |
@@ -14411,6 +14415,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bountiful Life | 149503 | [149503-bountiful-life.json](./149503-bountiful-life.json) |
 | Bounty | 226269 | [226269-bounty.json](./226269-bounty.json) |
 | Bounty Arms | 304959 | [304959-bounty-arms.json](./304959-bounty-arms.json) |
+| Bounty Arms | 51322 | [51322-bounty-arms.json](./51322-bounty-arms.json) |
 | Bounty Bash | 403226 | [403226-bounty-bash.json](./403226-bounty-bash.json) |
 | Bounty Battle | 107873 | [107873-bounty-battle.json](./107873-bounty-battle.json) |
 | Bounty Below | 192707 | [192707-bounty-below.json](./192707-bounty-below.json) |
