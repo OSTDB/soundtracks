@@ -6478,6 +6478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes War: Counterattack | 141119 | [141119-heroes-war-counterattack.json](./141119-heroes-war-counterattack.json) |
 | Heroes Will | 69517 | [69517-heroes-will.json](./69517-heroes-will.json) |
 | Heroes, Warlords and Ruin | 398533 | [398533-heroes-warlords-and-ruin.json](./398533-heroes-warlords-and-ruin.json) |
+| Heroes: A Grail Quest | 61211 | [61211-heroes-a-grail-quest.json](./61211-heroes-a-grail-quest.json) |
 | Heroes: The Official Mobile Game | 264132 | [264132-heroes-the-official-mobile-game.json](./264132-heroes-the-official-mobile-game.json) |
 | Heroes: The Tantalizing Trio | 73457 | [73457-heroes-the-tantalizing-trio.json](./73457-heroes-the-tantalizing-trio.json) |
 | Heroes' Call: A Casual Mmo Guild Sim | 343297 | [343297-heroes-call-a-casual-mmo-guild-sim.json](./343297-heroes-call-a-casual-mmo-guild-sim.json) |
@@ -7832,6 +7833,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High School Detective: Romance Visual Novel | 300780 | [300780-high-school-detective-romance-visual-novel.json](./300780-high-school-detective-romance-visual-novel.json) |
 | High School Dirty Secrets | 220428 | [220428-high-school-dirty-secrets.json](./220428-high-school-dirty-secrets.json) |
 | High School Dreams: Best Friends Forever | 60942 | [60942-high-school-dreams-best-friends-forever.json](./60942-high-school-dreams-best-friends-forever.json) |
+| High School DxD | 61181 | [61181-high-school-dxd.json](./61181-high-school-dxd.json) |
+| High School DxD: New Fight | 61191 | [61191-high-school-dxd-new-fight.json](./61191-high-school-dxd-new-fight.json) |
 | High School Escape 2 | 96702 | [96702-high-school-escape-2.json](./96702-high-school-escape-2.json) |
 | High School Fighters | 231430 | [231430-high-school-fighters.json](./231430-high-school-fighters.json) |
 | High School Fighting Game | 297988 | [297988-high-school-fighting-game.json](./297988-high-school-fighting-game.json) |
