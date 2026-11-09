@@ -352,6 +352,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gado Fight | 132222 | [132222-gado-fight.json](./132222-gado-fight.json) |
 | Gadurin | 137496 | [137496-gadurin.json](./137496-gadurin.json) |
 | Gadvia | 223940 | [223940-gadvia.json](./223940-gadvia.json) |
+| Gaea Fallen | 71269 | [71269-gaea-fallen.json](./71269-gaea-fallen.json) |
 | Gael's Quest | 140734 | [140734-gaels-quest.json](./140734-gaels-quest.json) |
 | Gaelco Arcade 1 | 149291 | [149291-gaelco-arcade-1.json](./149291-gaelco-arcade-1.json) |
 | Gaelco Arcade 2 | 203515 | [203515-gaelco-arcade-2.json](./203515-gaelco-arcade-2.json) |
@@ -1413,6 +1414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game of Vampires: Twilight Sun | 300265 | [300265-game-of-vampires-twilight-sun.json](./300265-game-of-vampires-twilight-sun.json) |
 | Game of War: Fire Age | 8685 | [8685-game-of-war-fire-age.json](./8685-game-of-war-fire-age.json) |
 | Game of Whores | 240561 | [240561-game-of-whores.json](./240561-game-of-whores.json) |
+| Game of Words | 71254 | [71254-game-of-words.json](./71254-game-of-words.json) |
 | Game Over | 13854 | [13854-game-over.json](./13854-game-over.json) |
 | Game Over | 193065 | [193065-game-over.json](./193065-game-over.json) |
 | Game Over Gopher | 336924 | [336924-game-over-gopher.json](./336924-game-over-gopher.json) |
@@ -11845,6 +11847,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gyro Shooter | 327042 | [327042-gyro-shooter.json](./327042-gyro-shooter.json) |
 | Gyro Skate | 243730 | [243730-gyro-skate.json](./243730-gyro-skate.json) |
 | Gyro Star VIP | 106553 | [106553-gyro-star-vip.json](./106553-gyro-star-vip.json) |
+| Gyroball | 71116 | [71116-gyroball.json](./71116-gyroball.json) |
 | GyroBlade | 149211 | [149211-gyroblade.json](./149211-gyroblade.json) |
 | GyroCube VR | 109433 | [109433-gyrocube-vr.json](./109433-gyrocube-vr.json) |
 | Gyrodine | 39682 | [39682-gyrodine.json](./39682-gyrodine.json) |
