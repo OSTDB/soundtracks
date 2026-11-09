@@ -2040,6 +2040,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warrior of Chaos | 367830 | [367830-warrior-of-chaos.json](./367830-warrior-of-chaos.json) |
 | Warrior of Ras: Volume I - Dunzhin | 94578 | [94578-warrior-of-ras-volume-i-dunzhin.json](./94578-warrior-of-ras-volume-i-dunzhin.json) |
 | Warrior of Rome | 4426 | [4426-warrior-of-rome.json](./4426-warrior-of-rome.json) |
+| Warrior of Rome II | 5934 | [5934-warrior-of-rome-ii.json](./5934-warrior-of-rome-ii.json) |
 | Warrior of Rome III | 214892 | [214892-warrior-of-rome-iii.json](./214892-warrior-of-rome-iii.json) |
 | Warrior Paint: 2005 GOTY Edition | 231309 | [231309-warrior-paint-2005-goty-edition.json](./231309-warrior-paint-2005-goty-edition.json) |
 | Warrior Plus | 286481 | [286481-warrior-plus.json](./286481-warrior-plus.json) |
