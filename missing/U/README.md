@@ -1024,6 +1024,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultraman Fighting Evolution 0 | 64212 | [64212-ultraman-fighting-evolution-0.json](./64212-ultraman-fighting-evolution-0.json) |
 | Ultraman Fighting Evolution 2 | 72608 | [72608-ultraman-fighting-evolution-2.json](./72608-ultraman-fighting-evolution-2.json) |
 | Ultraman Fighting Evolution 3 | 72605 | [72605-ultraman-fighting-evolution-3.json](./72605-ultraman-fighting-evolution-3.json) |
+| Ultraman Fighting Evolution Rebirth | 72598 | [72598-ultraman-fighting-evolution-rebirth.json](./72598-ultraman-fighting-evolution-rebirth.json) |
 | Ultraman Nexus | 66390 | [66390-ultraman-nexus.json](./66390-ultraman-nexus.json) |
 | Ultraman Powered | 4307 | [4307-ultraman-powered.json](./4307-ultraman-powered.json) |
 | Ultraman Powered: Kaijuu Gekimetsu Sakusen | 65995 | [65995-ultraman-powered-kaijuu-gekimetsu-sakusen.json](./65995-ultraman-powered-kaijuu-gekimetsu-sakusen.json) |
