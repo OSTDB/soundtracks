@@ -2521,6 +2521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major League Gladiators | 75817 | [75817-major-league-gladiators.json](./75817-major-league-gladiators.json) |
 | Major League Hockey | 408532 | [408532-major-league-hockey.json](./408532-major-league-hockey.json) |
 | Major League Manager | 70126 | [70126-major-league-manager.json](./70126-major-league-manager.json) |
+| Major Magnet | 63906 | [63906-major-magnet.json](./63906-major-magnet.json) |
 | Major Maox | 74754 | [74754-major-maox.json](./74754-major-maox.json) |
 | Major Marble | 296589 | [296589-major-marble.json](./296589-major-marble.json) |
 | Major Mayhem | 16855 | [16855-major-mayhem.json](./16855-major-mayhem.json) |
@@ -7298,6 +7299,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Medieval Match Master | 323307 | [323307-medieval-match-master.json](./323307-medieval-match-master.json) |
 | Medieval Mayhem | 40716 | [40716-medieval-mayhem.json](./40716-medieval-mayhem.json) |
 | Medieval Mayhem | 75009 | [75009-medieval-mayhem.json](./75009-medieval-mayhem.json) |
+| Medieval Mayor | 64001 | [64001-medieval-mayor.json](./64001-medieval-mayor.json) |
 | Medieval Merchants - A historical trading simulation | 95298 | [95298-medieval-merchants-a-historical-trading-simulation.json](./95298-medieval-merchants-a-historical-trading-simulation.json) |
 | Medieval Mercs | 13390 | [13390-medieval-mercs.json](./13390-medieval-mercs.json) |
 | Medieval Merge | 194151 | [194151-medieval-merge.json](./194151-medieval-merge.json) |
@@ -8854,6 +8856,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Meltdown | 80511 | [80511-meltdown.json](./80511-meltdown.json) |
 | Meltdown Crew | 417195 | [417195-meltdown-crew.json](./417195-meltdown-crew.json) |
 | Meltdown Masters | 415885 | [415885-meltdown-masters.json](./415885-meltdown-masters.json) |
+| Meltdown Moon | 64003 | [64003-meltdown-moon.json](./64003-meltdown-moon.json) |
 | Melted Time | 336526 | [336526-melted-time.json](./336526-melted-time.json) |
 | Melter Man | 34411 | [34411-melter-man.json](./34411-melter-man.json) |
 | Melting Encyclopedia | 298402 | [298402-melting-encyclopedia.json](./298402-melting-encyclopedia.json) |
