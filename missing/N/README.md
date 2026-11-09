@@ -7662,6 +7662,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuclear Rancher | 110914 | [110914-nuclear-rancher.json](./110914-nuclear-rancher.json) |
 | Nuclear Reaction | 184502 | [184502-nuclear-reaction.json](./184502-nuclear-reaction.json) |
 | Nuclear Rush | 202404 | [202404-nuclear-rush.json](./202404-nuclear-rush.json) |
+| Nuclear Shot | 34510 | [34510-nuclear-shot.json](./34510-nuclear-shot.json) |
 | Nuclear Strike | 51274 | [51274-nuclear-strike.json](./51274-nuclear-strike.json) |
 | Nuclear Strike 64 | 47755 | [47755-nuclear-strike-64.json](./47755-nuclear-strike-64.json) |
 | Nuclear Sub | 231298 | [231298-nuclear-sub.json](./231298-nuclear-sub.json) |
@@ -7765,6 +7766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Null.Process | 358844 | [358844-null-process.json](./358844-null-process.json) |
 | Nulla Via | 390023 | [390023-nulla-via.json](./390023-nulla-via.json) |
 | NullCat | 227644 | [227644-nullcat.json](./227644-nullcat.json) |
+| Nulldrifters | 34571 | [34571-nulldrifters.json](./34571-nulldrifters.json) |
 | Nullis | 391314 | [391314-nullis.json](./391314-nullis.json) |
 | Nullmaze | 158415 | [158415-nullmaze.json](./158415-nullmaze.json) |
 | Nullpoint Crisis | 362744 | [362744-nullpoint-crisis.json](./362744-nullpoint-crisis.json) |
