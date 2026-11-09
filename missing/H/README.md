@@ -3857,6 +3857,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heavy Recoil | 112502 | [112502-heavy-recoil.json](./112502-heavy-recoil.json) |
 | Heavy Recoil: Convoy Chaser | 183461 | [183461-heavy-recoil-convoy-chaser.json](./183461-heavy-recoil-convoy-chaser.json) |
 | Heavy Rockets | 237952 | [237952-heavy-rockets.json](./237952-heavy-rockets.json) |
+| Heavy Shreddin' | 48157 | [48157-heavy-shreddin.json](./48157-heavy-shreddin.json) |
 | Heavy Spoilers RPG 2: Your Best Friend Is Actually the Great Demon King | 377945 | [377945-heavy-spoilers-rpg-2-your-best-friend-is-actually-the-great-demon-king.json](./377945-heavy-spoilers-rpg-2-your-best-friend-is-actually-the-great-demon-king.json) |
 | Heavy Spoilers RPG: The True Identity of the Final Enemy is the Hero's Father | 347774 | [347774-heavy-spoilers-rpg-the-true-identity-of-the-final-enemy-is-the-heros-father.json](./347774-heavy-spoilers-rpg-the-true-identity-of-the-final-enemy-is-the-heros-father.json) |
 | Heavy Storm Shadow | 291319 | [291319-heavy-storm-shadow.json](./291319-heavy-storm-shadow.json) |
@@ -7906,6 +7907,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Seize | 6264 | [6264-high-seize.json](./6264-high-seize.json) |
 | High Sidin': Hyphy Edition | 325042 | [325042-high-sidin-hyphy-edition.json](./325042-high-sidin-hyphy-edition.json) |
 | High Smileson | 151346 | [151346-high-smileson.json](./151346-high-smileson.json) |
+| High Speed | 48156 | [48156-high-speed.json](./48156-high-speed.json) |
 | High Speed Bridge Racing | 104374 | [104374-high-speed-bridge-racing.json](./104374-high-speed-bridge-racing.json) |
 | High Speed Cataclysm | 149112 | [149112-high-speed-cataclysm.json](./149112-high-speed-cataclysm.json) |
 | High Speed Extreme Bike Race Game: Space Heroes | 102263 | [102263-high-speed-extreme-bike-race-game-space-heroes.json](./102263-high-speed-extreme-bike-race-game-space-heroes.json) |
@@ -10097,6 +10099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | HooperVania | 265859 | [265859-hoopervania.json](./265859-hoopervania.json) |
 | Hoopin' It Up | 137859 | [137859-hoopin-it-up.json](./137859-hoopin-it-up.json) |
 | Hooplord | 132611 | [132611-hooplord.json](./132611-hooplord.json) |
+| Hoops | 48155 | [48155-hoops.json](./48155-hoops.json) |
 | Hoops Ahead: Basketball Manager | 332917 | [332917-hoops-ahead-basketball-manager.json](./332917-hoops-ahead-basketball-manager.json) |
 | Hoops Madness | 140354 | [140354-hoops-madness.json](./140354-hoops-madness.json) |
 | Hoops Manager 2 | 175249 | [175249-hoops-manager-2.json](./175249-hoops-manager-2.json) |
@@ -12703,6 +12706,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyakko: Yorozuya Jikenbo! | 61452 | [61452-hyakko-yorozuya-jikenbo.json](./61452-hyakko-yorozuya-jikenbo.json) |
 | Hyaku Monogatari: Honto ni Atta Kowai Hanashi | 112569 | [112569-hyaku-monogatari-honto-ni-atta-kowai-hanashi.json](./112569-hyaku-monogatari-honto-ni-atta-kowai-hanashi.json) |
 | Hyaku Monogatari: Kaidan Romance | 59422 | [59422-hyaku-monogatari-kaidan-romance.json](./59422-hyaku-monogatari-kaidan-romance.json) |
+| Hyaku no Sekai no Monogatari: The Tales on a Watery Wilderness | 48124 | [48124-hyaku-no-sekai-no-monogatari-the-tales-on-a-watery-wilderness.json](./48124-hyaku-no-sekai-no-monogatari-the-tales-on-a-watery-wilderness.json) |
 | Hyakuju Sentai Gaoranger | 43730 | [43730-hyakuju-sentai-gaoranger.json](./43730-hyakuju-sentai-gaoranger.json) |
 | Hyakumasu Dora-san Nobita no Time Battle | 56994 | [56994-hyakumasu-dora-san-nobita-no-time-battle.json](./56994-hyakumasu-dora-san-nobita-no-time-battle.json) |
 | Hyakuretsuken: Hokuto no Ken Gekiuchi 3 | 64183 | [64183-hyakuretsuken-hokuto-no-ken-gekiuchi-3.json](./64183-hyakuretsuken-hokuto-no-ken-gekiuchi-3.json) |
