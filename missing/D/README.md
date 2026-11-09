@@ -9103,6 +9103,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Diddl in the Cheesecakeland Diddl en Diddland | 269742 | [269742-diddl-in-the-cheesecakeland-diddl-en-diddland.json](./269742-diddl-in-the-cheesecakeland-diddl-en-diddland.json) |
 | Diddl Puzzle: Echter Puzzlespass für Unterwegs | 252660 | [252660-diddl-puzzle-echter-puzzlespass-fur-unterwegs.json](./252660-diddl-puzzle-echter-puzzlespass-fur-unterwegs.json) |
 | Diddy | 327454 | [327454-diddy.json](./327454-diddy.json) |
+| Diddy Kong Pilot | 49470 | [49470-diddy-kong-pilot.json](./49470-diddy-kong-pilot.json) |
 | Diddy Kong Racing | 2723 | [2723-diddy-kong-racing.json](./2723-diddy-kong-racing.json) |
 | Diddy Kong Racing Adventure | 131896 | [131896-diddy-kong-racing-adventure.json](./131896-diddy-kong-racing-adventure.json) |
 | Diddy Kong Racing DS: Timber's Balloon Pop | 231630 | [231630-diddy-kong-racing-ds-timbers-balloon-pop.json](./231630-diddy-kong-racing-ds-timbers-balloon-pop.json) |
@@ -11109,6 +11110,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Disney's The Haunted Mansion | 267497 | [267497-disneys-the-haunted-mansion.json](./267497-disneys-the-haunted-mansion.json) |
 | Disney's The Haunted Mansion | 49405 | [49405-disneys-the-haunted-mansion.json](./49405-disneys-the-haunted-mansion.json) |
 | Disney's The Hunchback of Notre Dame | 198763 | [198763-disneys-the-hunchback-of-notre-dame.json](./198763-disneys-the-hunchback-of-notre-dame.json) |
+| Disney's The Hunchback of Notre Dame | 48992 | [48992-disneys-the-hunchback-of-notre-dame.json](./48992-disneys-the-hunchback-of-notre-dame.json) |
 | Disney's The Hunchback of Notre Dame: Topsy Turvy Games | 120518 | [120518-disneys-the-hunchback-of-notre-dame-topsy-turvy-games.json](./120518-disneys-the-hunchback-of-notre-dame-topsy-turvy-games.json) |
 | Disney's The Hunchback of Notre Dame: Topsy Turvy Games | 228495 | [228495-disneys-the-hunchback-of-notre-dame-topsy-turvy-games.json](./228495-disneys-the-hunchback-of-notre-dame-topsy-turvy-games.json) |
 | Disney's The Jungle Book | 204575 | [204575-disneys-the-jungle-book.json](./204575-disneys-the-jungle-book.json) |
@@ -12330,6 +12332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dogyuun | 294035 | [294035-dogyuun.json](./294035-dogyuun.json) |
 | Dogyuun | 91482 | [91482-dogyuun.json](./91482-dogyuun.json) |
 | Dogz | 131393 | [131393-dogz.json](./131393-dogz.json) |
+| Dogz 2 | 49426 | [49426-dogz-2.json](./49426-dogz-2.json) |
 | Dogz 3: Your Virtual Petz | 151540 | [151540-dogz-3-your-virtual-petz.json](./151540-dogz-3-your-virtual-petz.json) |
 | Dogz 4 | 151539 | [151539-dogz-4.json](./151539-dogz-4.json) |
 | Dogz 5 | 73681 | [73681-dogz-5.json](./73681-dogz-5.json) |
@@ -15998,6 +16001,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragonfly II | 97467 | [97467-dragonfly-ii.json](./97467-dragonfly-ii.json) |
 | DragonHawk | 24715 | [24715-dragonhawk.json](./24715-dragonhawk.json) |
 | DragonHeart | 80824 | [80824-dragonheart.json](./80824-dragonheart.json) |
+| DragonHeart: Fire & Steel | 49001 | [49001-dragonheart-fire-and-steel.json](./49001-dragonheart-fire-and-steel.json) |
 | DragonHill VR | 228759 | [228759-dragonhill-vr.json](./228759-dragonhill-vr.json) |
 | Dragonia | 124242 | [124242-dragonia.json](./124242-dragonia.json) |
 | Dragonia | 38788 | [38788-dragonia.json](./38788-dragonia.json) |
