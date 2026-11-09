@@ -5014,6 +5014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Seek & Dread Online | 292853 | [292853-seek-and-dread-online.json](./292853-seek-and-dread-online.json) |
 | Seek & Find Vol 1 | 109164 | [109164-seek-and-find-vol-1.json](./109164-seek-and-find-vol-1.json) |
 | Seek & Snipe | 267106 | [267106-seek-and-snipe.json](./267106-seek-and-snipe.json) |
+| Seek and Destroy | 68783 | [68783-seek-and-destroy.json](./68783-seek-and-destroy.json) |
 | Seek and Find Adventures 3 | 206633 | [206633-seek-and-find-adventures-3.json](./206633-seek-and-find-adventures-3.json) |
 | Seek and Find Collection 1 | 146580 | [146580-seek-and-find-collection-1.json](./146580-seek-and-find-collection-1.json) |
 | Seek and Find Collection 2 | 146582 | [146582-seek-and-find-collection-2.json](./146582-seek-and-find-collection-2.json) |
@@ -18967,6 +18968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sorry, We Have A Policy | 256765 | [256765-sorry-we-have-a-policy.json](./256765-sorry-we-have-a-policy.json) |
 | Sorry, We're Open | 200176 | [200176-sorry-were-open.json](./200176-sorry-were-open.json) |
 | Sorry, Wrong Door | 215931 | [215931-sorry-wrong-door.json](./215931-sorry-wrong-door.json) |
+| Sorry! | 68802 | [68802-sorry.json](./68802-sorry.json) |
 | Sorry! / Aggravation / Scrabble Junior | 82303 | [82303-sorry-aggravation-scrabble-junior.json](./82303-sorry-aggravation-scrabble-junior.json) |
 | Sorry! I surrounded beauty! | 366288 | [366288-sorry-i-surrounded-beauty.json](./366288-sorry-i-surrounded-beauty.json) |
 | Sort 'Em | 29445 | [29445-sort-em.json](./29445-sort-em.json) |
@@ -22761,6 +22763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spirit Night | 225563 | [225563-spirit-night.json](./225563-spirit-night.json) |
 | Spirit Oath | 118383 | [118383-spirit-oath.json](./118383-spirit-oath.json) |
 | Spirit of Adventure | 188433 | [188433-spirit-of-adventure.json](./188433-spirit-of-adventure.json) |
+| Spirit of Adventure | 68208 | [68208-spirit-of-adventure.json](./68208-spirit-of-adventure.json) |
 | Spirit of Arx | 158946 | [158946-spirit-of-arx.json](./158946-spirit-of-arx.json) |
 | Spirit of Death | 294252 | [294252-spirit-of-death.json](./294252-spirit-of-death.json) |
 | Spirit of dungeon | 156803 | [156803-spirit-of-dungeon.json](./156803-spirit-of-dungeon.json) |
@@ -25480,6 +25483,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Wars: Masters of Teräs Käsi | 18044 | [18044-star-wars-masters-of-teras-kasi.json](./18044-star-wars-masters-of-teras-kasi.json) |
 | Star Wars: Millenium Falcon Challenge | 198922 | [198922-star-wars-millenium-falcon-challenge.json](./198922-star-wars-millenium-falcon-challenge.json) |
 | Star Wars: Millennium Falcon CD-ROM Playset | 56979 | [56979-star-wars-millennium-falcon-cd-rom-playset.json](./56979-star-wars-millennium-falcon-cd-rom-playset.json) |
+| Star Wars: Monopoly | 68817 | [68817-star-wars-monopoly.json](./68817-star-wars-monopoly.json) |
 | Star Wars: Movie Battles II | 271416 | [271416-star-wars-movie-battles-ii.json](./271416-star-wars-movie-battles-ii.json) |
 | Star Wars: Movie Duels | 355148 | [355148-star-wars-movie-duels.json](./355148-star-wars-movie-duels.json) |
 | Star Wars: Obi-Wan | 5599 | [5599-star-wars-obi-wan.json](./5599-star-wars-obi-wan.json) |
@@ -26291,6 +26295,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stars of the Beast 2 | 300259 | [300259-stars-of-the-beast-2.json](./300259-stars-of-the-beast-2.json) |
 | Stars of the Screen | 232677 | [232677-stars-of-the-screen.json](./232677-stars-of-the-screen.json) |
 | Stars of the Valkyrie | 337392 | [337392-stars-of-the-valkyrie.json](./337392-stars-of-the-valkyrie.json) |
+| Stars over Half Moon Bay | 68720 | [68720-stars-over-half-moon-bay.json](./68720-stars-over-half-moon-bay.json) |
 | Stars Shooter | 245301 | [245301-stars-shooter.json](./245301-stars-shooter.json) |
 | Stars Simulation | 31618 | [31618-stars-simulation.json](./31618-stars-simulation.json) |
 | Stars Slide | 153160 | [153160-stars-slide.json](./153160-stars-slide.json) |
@@ -30717,6 +30722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sum Blocks | 120161 | [120161-sum-blocks.json](./120161-sum-blocks.json) |
 | Sum Ducks | 71150 | [71150-sum-ducks.json](./71150-sum-ducks.json) |
 | Sum Idea | 254811 | [254811-sum-idea.json](./254811-sum-idea.json) |
+| Sum Sketch | 68803 | [68803-sum-sketch.json](./68803-sum-sketch.json) |
 | Sum Zero | 407472 | [407472-sum-zero.json](./407472-sum-zero.json) |
 | Sum!! | 175580 | [175580-sum.json](./175580-sum.json) |
 | Sum10 | 328387 | [328387-sum10.json](./328387-sum10.json) |
@@ -33580,6 +33586,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Qix | 39408 | [39408-super-qix.json](./39408-super-qix.json) |
 | Super Qube Hopper | 128857 | [128857-super-qube-hopper.json](./128857-super-qube-hopper.json) |
 | Super QuickHook | 78901 | [78901-super-quickhook.json](./78901-super-quickhook.json) |
+| Super Quintet | 68782 | [68782-super-quintet.json](./68782-super-quintet.json) |
 | Super R-Type | 42574 | [42574-super-r-type.json](./42574-super-r-type.json) |
 | Super R.B.I. Baseball | 5332 | [5332-super-r-b-i-baseball.json](./5332-super-r-b-i-baseball.json) |
 | Super Rabbit | 246482 | [246482-super-rabbit.json](./246482-super-rabbit.json) |
