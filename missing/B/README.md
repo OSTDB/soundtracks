@@ -186,6 +186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Babelomania | 318390 | [318390-babelomania.json](./318390-babelomania.json) |
 | Babes | 273250 | [273250-babes.json](./273250-babes.json) |
 | Babes & Balls Vol. 3: Gotcha Babes X-Treme | 218630 | [218630-babes-and-balls-vol-3-gotcha-babes-x-treme.json](./218630-babes-and-balls-vol-3-gotcha-babes-x-treme.json) |
+| Babes in Toyland | 69957 | [69957-babes-in-toyland.json](./69957-babes-in-toyland.json) |
 | Babes Reloaded | 272024 | [272024-babes-reloaded.json](./272024-babes-reloaded.json) |
 | Babette | 318874 | [318874-babette.json](./318874-babette.json) |
 | Babies Dream of Dead Worlds | 279742 | [279742-babies-dream-of-dead-worlds.json](./279742-babies-dream-of-dead-worlds.json) |
@@ -2751,6 +2752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bark Beat | 177443 | [177443-bark-beat.json](./177443-bark-beat.json) |
 | Bark Tank | 338194 | [338194-bark-tank.json](./338194-bark-tank.json) |
 | Barkane: The Folds of Calamity | 323718 | [323718-barkane-the-folds-of-calamity.json](./323718-barkane-the-folds-of-calamity.json) |
+| Barkanoid 3 Gold | 69599 | [69599-barkanoid-3-gold.json](./69599-barkanoid-3-gold.json) |
 | Barkelona | 251847 | [251847-barkelona.json](./251847-barkelona.json) |
 | Barker Bill's Trick Shooting | 9875 | [9875-barker-bills-trick-shooting.json](./9875-barker-bills-trick-shooting.json) |
 | Barkhan | 199270 | [199270-barkhan.json](./199270-barkhan.json) |
@@ -11852,6 +11854,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blowhole | 425455 | [425455-blowhole.json](./425455-blowhole.json) |
 | Blown Away | 175638 | [175638-blown-away.json](./175638-blown-away.json) |
 | Blown Away | 187703 | [187703-blown-away.json](./187703-blown-away.json) |
+| Blown Away | 69611 | [69611-blown-away.json](./69611-blown-away.json) |
 | Blowout & Cosmic Alphabet | 14325 | [14325-blowout-and-cosmic-alphabet.json](./14325-blowout-and-cosmic-alphabet.json) |
 | Blowup | 269109 | [269109-blowup.json](./269109-blowup.json) |
 | Blowup!! | 233246 | [233246-blowup.json](./233246-blowup.json) |
@@ -12877,6 +12880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bomb! Bomb! Carnival!! | 187155 | [187155-bomb-bomb-carnival.json](./187155-bomb-bomb-carnival.json) |
 | Bomb! Tank | 199902 | [199902-bomb-tank.json](./199902-bomb-tank.json) |
 | Bomb's Lair | 412110 | [412110-bombs-lair.json](./412110-bombs-lair.json) |
+| Bomb'X | 69963 | [69963-bombx.json](./69963-bombx.json) |
 | Bomba | 313057 | [313057-bomba.json](./313057-bomba.json) |
 | Bomba Patch | 126442 | [126442-bomba-patch.json](./126442-bomba-patch.json) |
 | Bomba: The Explosive Hero | 213956 | [213956-bomba-the-explosive-hero.json](./213956-bomba-the-explosive-hero.json) |
@@ -13455,6 +13459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bookworm Deluxe | 140996 | [140996-bookworm-deluxe.json](./140996-bookworm-deluxe.json) |
 | Bookworm HD | 354964 | [354964-bookworm-hd.json](./354964-bookworm-hd.json) |
 | Bookworm Wordy Wonder Bundle | 196003 | [196003-bookworm-wordy-wonder-bundle.json](./196003-bookworm-wordy-wonder-bundle.json) |
+| BookWormZ | 69951 | [69951-bookwormz.json](./69951-bookwormz.json) |
 | Bookyman | 229061 | [229061-bookyman.json](./229061-bookyman.json) |
 | BookyPets Legends | 239820 | [239820-bookypets-legends.json](./239820-bookypets-legends.json) |
 | Bool | 94627 | [94627-bool.json](./94627-bool.json) |
