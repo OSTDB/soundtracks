@@ -674,6 +674,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janka | 97804 | [97804-janka.json](./97804-janka.json) |
 | JankBrain | 142583 | [142583-jankbrain.json](./142583-jankbrain.json) |
 | JanKen Battle Arena | 245051 | [245051-janken-battle-arena.json](./245051-janken-battle-arena.json) |
+| Janken Cards | 31320 | [31320-janken-cards.json](./31320-janken-cards.json) |
 | Janken Disk Shiro | 41368 | [41368-janken-disk-shiro.json](./41368-janken-disk-shiro.json) |
 | Janken Game Acchi Muite Hoi! | 269938 | [269938-janken-game-acchi-muite-hoi.json](./269938-janken-game-acchi-muite-hoi.json) |
 | Janken Horn | 326175 | [326175-janken-horn.json](./326175-janken-horn.json) |
