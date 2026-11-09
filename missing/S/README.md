@@ -945,6 +945,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura no Uta: Sakura no Mori no Ue wo Mau | 135568 | [135568-sakura-no-uta-sakura-no-mori-no-ue-wo-mau.json](./135568-sakura-no-uta-sakura-no-mori-no-ue-wo-mau.json) |
 | Sakura no Uta: Sakura no Mori no Ue wo Mau - 10th Anniversary Edition | 355974 | [355974-sakura-no-uta-sakura-no-mori-no-ue-wo-mau-10th-anniversary-edition.json](./355974-sakura-no-uta-sakura-no-mori-no-ue-wo-mau-10th-anniversary-edition.json) |
 | Sakura no Uta: To Dance Over the Cherry Blossoms | 409704 | [409704-sakura-no-uta-to-dance-over-the-cherry-blossoms.json](./409704-sakura-no-uta-to-dance-over-the-cherry-blossoms.json) |
+| Sakura Note | 67734 | [67734-sakura-note.json](./67734-sakura-note.json) |
 | Sakura Note: Ima ni Tsunagaru Mirai | 123409 | [123409-sakura-note-ima-ni-tsunagaru-mirai.json](./123409-sakura-note-ima-ni-tsunagaru-mirai.json) |
 | Sakura Peak | 389068 | [389068-sakura-peak.json](./389068-sakura-peak.json) |
 | Sakura Priestess and Shikigami Mountain | 306060 | [306060-sakura-priestess-and-shikigami-mountain.json](./306060-sakura-priestess-and-shikigami-mountain.json) |
@@ -9415,6 +9416,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooter of War | 53594 | [53594-shooter-of-war.json](./53594-shooter-of-war.json) |
 | Shooter Thing 2 | 60863 | [60863-shooter-thing-2.json](./60863-shooter-thing-2.json) |
 | Shooter: Space Shot | 72976 | [72976-shooter-space-shot.json](./72976-shooter-space-shot.json) |
+| Shooter: The Official Movie Game | 67737 | [67737-shooter-the-official-movie-game.json](./67737-shooter-the-official-movie-game.json) |
 | Shooter's Alley | 92570 | [92570-shooters-alley.json](./92570-shooters-alley.json) |
 | Shooter's Island | 187143 | [187143-shooters-island.json](./187143-shooters-island.json) |
 | Shooter95 | 375307 | [375307-shooter95.json](./375307-shooter95.json) |
@@ -12381,6 +12383,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skee Ball Flick - Hole King | 103916 | [103916-skee-ball-flick-hole-king.json](./103916-skee-ball-flick-hole-king.json) |
 | Skee-Ball | 94020 | [94020-skee-ball.json](./94020-skee-ball.json) |
 | Skee-Ball Plus | 295962 | [295962-skee-ball-plus.json](./295962-skee-ball-plus.json) |
+| Skeet | 68145 | [68145-skeet.json](./68145-skeet.json) |
 | Skeet Shoot | 217687 | [217687-skeet-shoot.json](./217687-skeet-shoot.json) |
 | Skeet Shoot | 40615 | [40615-skeet-shoot.json](./40615-skeet-shoot.json) |
 | Skeet: VR Target Shooting | 33453 | [33453-skeet-vr-target-shooting.json](./33453-skeet-vr-target-shooting.json) |
@@ -17009,6 +17012,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soldiers Inc: Mobile Warfare | 56261 | [56261-soldiers-inc-mobile-warfare.json](./56261-soldiers-inc-mobile-warfare.json) |
 | Soldiers Lost Forever (1914-1918) | 105256 | [105256-soldiers-lost-forever-1914-1918.json](./105256-soldiers-lost-forever-1914-1918.json) |
 | Soldiers Never Die | 260707 | [260707-soldiers-never-die.json](./260707-soldiers-never-die.json) |
+| Soldiers of Anarchy | 68154 | [68154-soldiers-of-anarchy.json](./68154-soldiers-of-anarchy.json) |
 | Soldiers of Fortune | 4527 | [4527-soldiers-of-fortune.json](./4527-soldiers-of-fortune.json) |
 | Soldiers of Freedom | 54847 | [54847-soldiers-of-freedom.json](./54847-soldiers-of-freedom.json) |
 | Soldiers of Heaven VR | 367703 | [367703-soldiers-of-heaven-vr.json](./367703-soldiers-of-heaven-vr.json) |
@@ -17324,6 +17328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solo | 240562 | [240562-solo.json](./240562-solo.json) |
 | Solo | 277771 | [277771-solo.json](./277771-solo.json) |
 | Solo | 28315 | [28315-solo.json](./28315-solo.json) |
+| Solo | 68144 | [68144-solo.json](./68144-solo.json) |
 | Solo Chess | 372985 | [372985-solo-chess.json](./372985-solo-chess.json) |
 | Solo Crisis | 62975 | [62975-solo-crisis.json](./62975-solo-crisis.json) |
 | Solo Defender | 333110 | [333110-solo-defender.json](./333110-solo-defender.json) |
@@ -24134,6 +24139,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Squaser 8 | 368569 | [368569-squaser-8.json](./368569-squaser-8.json) |
 | Squaser 9 | 368537 | [368537-squaser-9.json](./368537-squaser-9.json) |
 | Squaser X | 367366 | [367366-squaser-x.json](./367366-squaser-x.json) |
+| Squash | 68143 | [68143-squash.json](./68143-squash.json) |
 | Squash and Spell: Kids Typing | 388328 | [388328-squash-and-spell-kids-typing.json](./388328-squash-and-spell-kids-typing.json) |
 | Squash Ball | 320778 | [320778-squash-ball.json](./320778-squash-ball.json) |
 | Squash Kings VR | 86394 | [86394-squash-kings-vr.json](./86394-squash-kings-vr.json) |
@@ -25244,6 +25250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Trek: Legends - Spock Edition | 385209 | [385209-star-trek-legends-spock-edition.json](./385209-star-trek-legends-spock-edition.json) |
 | Star Trek: Lower Decks | 217598 | [217598-star-trek-lower-decks.json](./217598-star-trek-lower-decks.json) |
 | Star Trek: New Worlds | 19425 | [19425-star-trek-new-worlds.json](./19425-star-trek-new-worlds.json) |
+| Star Trek: Phaser Strike | 68129 | [68129-star-trek-phaser-strike.json](./68129-star-trek-phaser-strike.json) |
 | Star Trek: Resurgence | 185255 | [185255-star-trek-resurgence.json](./185255-star-trek-resurgence.json) |
 | Star Trek: Secret of Vulcan Fury | 69125 | [69125-star-trek-secret-of-vulcan-fury.json](./69125-star-trek-secret-of-vulcan-fury.json) |
 | Star Trek: Shadow Frontier | 405015 | [405015-star-trek-shadow-frontier.json](./405015-star-trek-shadow-frontier.json) |
@@ -30697,6 +30704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sukima | 361312 | [361312-sukima.json](./361312-sukima.json) |
 | SuKuBus-Mission | 301306 | [301306-sukubus-mission.json](./301306-sukubus-mission.json) |
 | Sukuji to Teikyou ni Kansuru Kousatsu | 420340 | [420340-sukuji-to-teikyou-ni-kansuru-kousatsu.json](./420340-sukuji-to-teikyou-ni-kansuru-kousatsu.json) |
+| Sukusuku Mizugi: Nusunda Mizugi wa Karukishu | 68135 | [68135-sukusuku-mizugi-nusunda-mizugi-wa-karukishu.json](./68135-sukusuku-mizugi-nusunda-mizugi-wa-karukishu.json) |
 | Sukutte: Save Me... | 130358 | [130358-sukutte-save-me.json](./130358-sukutte-save-me.json) |
 | SUL: Schutze Unser Land 3D | 193075 | [193075-sul-schutze-unser-land-3d.json](./193075-sul-schutze-unser-land-3d.json) |
 | Suleiman's Treasure | 137767 | [137767-suleimans-treasure.json](./137767-suleimans-treasure.json) |
