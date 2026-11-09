@@ -3404,6 +3404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | New Roanoke | 270968 | [270968-new-roanoke.json](./270968-new-roanoke.json) |
 | New Robinson | 117319 | [117319-new-robinson.json](./117319-new-robinson.json) |
 | New Romance of the Three Kingdoms | 111841 | [111841-new-romance-of-the-three-kingdoms.json](./111841-new-romance-of-the-three-kingdoms.json) |
+| New Roommania: Porori Seishun | 66226 | [66226-new-roommania-porori-seishun.json](./66226-new-roommania-porori-seishun.json) |
 | New Roots | 203853 | [203853-new-roots.json](./203853-new-roots.json) |
 | New Rule: The Game is... | 234581 | [234581-new-rule-the-game-is.json](./234581-new-rule-the-game-is.json) |
 | New Science | 419837 | [419837-new-science.json](./419837-new-science.json) |
