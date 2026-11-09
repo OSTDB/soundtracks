@@ -2007,6 +2007,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gardens of Vextro | 229091 | [229091-gardens-of-vextro.json](./229091-gardens-of-vextro.json) |
 | Gardenscapes | 320939 | [320939-gardenscapes.json](./320939-gardenscapes.json) |
 | Gardenscapes | 63434 | [63434-gardenscapes.json](./63434-gardenscapes.json) |
+| Gardenscapes 2 | 63436 | [63436-gardenscapes-2.json](./63436-gardenscapes-2.json) |
 | Gardenscapes: Mansion Makeover | 294685 | [294685-gardenscapes-mansion-makeover.json](./294685-gardenscapes-mansion-makeover.json) |
 | Gardia | 39684 | [39684-gardia.json](./39684-gardia.json) |
 | Gardman | 282687 | [282687-gardman.json](./282687-gardman.json) |
