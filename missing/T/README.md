@@ -32361,6 +32361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Punch | 38552 | [38552-triple-punch.json](./38552-triple-punch.json) |
 | Triple Realms | 414753 | [414753-triple-realms.json](./414753-triple-realms.json) |
 | Triple Running Sports | 85460 | [85460-triple-running-sports.json](./85460-triple-running-sports.json) |
+| Triple Score: 3 Games in 1 | 10193 | [10193-triple-score-3-games-in-1.json](./10193-triple-score-3-games-in-1.json) |
 | Triple Score: 3 Games In One | 45647 | [45647-triple-score-3-games-in-one.json](./45647-triple-score-3-games-in-one.json) |
 | Triple Shot Sports | 66889 | [66889-triple-shot-sports.json](./66889-triple-shot-sports.json) |
 | Triple Take | 173277 | [173277-triple-take.json](./173277-triple-take.json) |
