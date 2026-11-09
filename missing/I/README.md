@@ -5686,6 +5686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Invasion: Family Ties | 246819 | [246819-invasion-family-ties.json](./246819-invasion-family-ties.json) |
 | Invasion: Neo Earth | 188423 | [188423-invasion-neo-earth.json](./188423-invasion-neo-earth.json) |
 | Invasion: Tales of Tower Defense | 275951 | [275951-invasion-tales-of-tower-defense.json](./275951-invasion-tales-of-tower-defense.json) |
+| Invasion! | 31991 | [31991-invasion.json](./31991-invasion.json) |
 | Invasion!! | 202037 | [202037-invasion.json](./202037-invasion.json) |
 | Invasion. Lost in Time | 89684 | [89684-invasion-lost-in-time.json](./89684-invasion-lost-in-time.json) |
 | Invasive | 204952 | [204952-invasive.json](./204952-invasive.json) |
