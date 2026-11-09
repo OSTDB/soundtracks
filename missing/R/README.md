@@ -8526,6 +8526,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rival Regions | 91082 | [91082-rival-regions.json](./91082-rival-regions.json) |
 | Rival Rides | 201608 | [201608-rival-rides.json](./201608-rival-rides.json) |
 | Rival Roads Car Racing | 402660 | [402660-rival-roads-car-racing.json](./402660-rival-roads-car-racing.json) |
+| Rival Schools: United by Fate | 13095 | [13095-rival-schools-united-by-fate.json](./13095-rival-schools-united-by-fate.json) |
 | Rival Species | 350392 | [350392-rival-species.json](./350392-rival-species.json) |
 | Rival Stars Basketball | 249385 | [249385-rival-stars-basketball.json](./249385-rival-stars-basketball.json) |
 | Rival Stars College Football | 241865 | [241865-rival-stars-college-football.json](./241865-rival-stars-college-football.json) |
