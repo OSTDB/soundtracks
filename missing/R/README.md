@@ -8808,6 +8808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Road Runner | 277212 | [277212-road-runner.json](./277212-road-runner.json) |
 | Road Runner | 281878 | [281878-road-runner.json](./281878-road-runner.json) |
 | Road Runner | 282628 | [282628-road-runner.json](./282628-road-runner.json) |
+| Road Runner | 8097 | [8097-road-runner.json](./8097-road-runner.json) |
 | Road Runner and Wile E. Coyote | 71438 | [71438-road-runner-and-wile-e-coyote.json](./71438-road-runner-and-wile-e-coyote.json) |
 | Road Runner's Death Valley Rally | 8099 | [8099-road-runners-death-valley-rally.json](./8099-road-runners-death-valley-rally.json) |
 | Road Rush Racer | 235125 | [235125-road-rush-racer.json](./235125-road-rush-racer.json) |
@@ -9873,7 +9874,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rocket Pinball | 245413 | [245413-rocket-pinball.json](./245413-rocket-pinball.json) |
 | Rocket Poker | 302396 | [302396-rocket-poker.json](./302396-rocket-poker.json) |
 | Rocket Power: Beach Bandits | 243188 | [243188-rocket-power-beach-bandits.json](./243188-rocket-power-beach-bandits.json) |
+| Rocket Power: Dream Scheme | 8092 | [8092-rocket-power-dream-scheme.json](./8092-rocket-power-dream-scheme.json) |
+| Rocket Power: Extreme Arcade Games | 8096 | [8096-rocket-power-extreme-arcade-games.json](./8096-rocket-power-extreme-arcade-games.json) |
+| Rocket Power: Gettin' Air | 8093 | [8093-rocket-power-gettin-air.json](./8093-rocket-power-gettin-air.json) |
+| Rocket Power: Team Rocket Rescue | 8094 | [8094-rocket-power-team-rocket-rescue.json](./8094-rocket-power-team-rocket-rescue.json) |
 | Rocket Power: Zero Gravity Zone | 262089 | [262089-rocket-power-zero-gravity-zone.json](./262089-rocket-power-zero-gravity-zone.json) |
+| Rocket Power: Zero Gravity Zone | 8095 | [8095-rocket-power-zero-gravity-zone.json](./8095-rocket-power-zero-gravity-zone.json) |
 | Rocket Punch | 187677 | [187677-rocket-punch.json](./187677-rocket-punch.json) |
 | Rocket Rabbit - Coin Race | 147866 | [147866-rocket-rabbit-coin-race.json](./147866-rocket-rabbit-coin-race.json) |
 | Rocket Racing: Fuse Starter Quest Pack | 303532 | [303532-rocket-racing-fuse-starter-quest-pack.json](./303532-rocket-racing-fuse-starter-quest-pack.json) |
@@ -12435,6 +12441,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rugida | 169384 | [169384-rugida.json](./169384-rugida.json) |
 | Rugon | 108991 | [108991-rugon.json](./108991-rugon.json) |
 | Rugosi | 106417 | [106417-rugosi.json](./106417-rugosi.json) |
+| Rugrats Adventure Game | 8089 | [8089-rugrats-adventure-game.json](./8089-rugrats-adventure-game.json) |
+| Rugrats Food Fight | 8090 | [8090-rugrats-food-fight.json](./8090-rugrats-food-fight.json) |
 | Rugrats Go Wild! | 248691 | [248691-rugrats-go-wild.json](./248691-rugrats-go-wild.json) |
 | Rugrats Go Wild! | 7999 | [7999-rugrats-go-wild.json](./7999-rugrats-go-wild.json) |
 | Rugrats in Paris: The Movie | 249130 | [249130-rugrats-in-paris-the-movie.json](./249130-rugrats-in-paris-the-movie.json) |
