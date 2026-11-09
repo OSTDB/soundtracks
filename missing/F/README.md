@@ -3601,6 +3601,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fear Effect: Reinvented | 55026 | [55026-fear-effect-reinvented.json](./55026-fear-effect-reinvented.json) |
 | Fear Effect: Sedna - Collector's Edition | 124813 | [124813-fear-effect-sedna-collectors-edition.json](./124813-fear-effect-sedna-collectors-edition.json) |
 | Fear FA 98 | 332915 | [332915-fear-fa-98.json](./332915-fear-fa-98.json) |
+| Fear For Freedom | 56640 | [56640-fear-for-freedom.json](./56640-fear-for-freedom.json) |
 | Fear for Sale: City of the Past | 140250 | [140250-fear-for-sale-city-of-the-past.json](./140250-fear-for-sale-city-of-the-past.json) |
 | Fear for Sale: City of the Past - Collector's Edition | 107836 | [107836-fear-for-sale-city-of-the-past-collectors-edition.json](./107836-fear-for-sale-city-of-the-past-collectors-edition.json) |
 | Fear for Sale: City of the Past HD - A Hidden Object Mystery | 88307 | [88307-fear-for-sale-city-of-the-past-hd-a-hidden-object-mystery.json](./88307-fear-for-sale-city-of-the-past-hd-a-hidden-object-mystery.json) |
@@ -5360,6 +5361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fighter | 109207 | [109207-final-fighter.json](./109207-final-fighter.json) |
 | Final Fighter | 287509 | [287509-final-fighter.json](./287509-final-fighter.json) |
 | Final Flames 2: Against the Dark World Crisis | 76548 | [76548-final-flames-2-against-the-dark-world-crisis.json](./76548-final-flames-2-against-the-dark-world-crisis.json) |
+| Final Flames: Dark Rage | 56111 | [56111-final-flames-dark-rage.json](./56111-final-flames-dark-rage.json) |
 | Final Flavor | 392385 | [392385-final-flavor.json](./392385-final-flavor.json) |
 | Final Fleet | 32118 | [32118-final-fleet.json](./32118-final-fleet.json) |
 | Final Flock | 260163 | [260163-final-flock.json](./260163-final-flock.json) |
@@ -9853,6 +9855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Forbidden Island | 95290 | [95290-forbidden-island.json](./95290-forbidden-island.json) |
 | Forbidden Love | 322115 | [322115-forbidden-love.json](./322115-forbidden-love.json) |
 | Forbidden Love | 376871 | [376871-forbidden-love.json](./376871-forbidden-love.json) |
+| Forbidden Love | 56618 | [56618-forbidden-love.json](./56618-forbidden-love.json) |
 | Forbidden Magic | 253947 | [253947-forbidden-magic.json](./253947-forbidden-magic.json) |
 | Forbidden Memories | 217089 | [217089-forbidden-memories.json](./217089-forbidden-memories.json) |
 | Forbidden myths | 213544 | [213544-forbidden-myths.json](./213544-forbidden-myths.json) |
