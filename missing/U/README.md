@@ -487,6 +487,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Car Driving Simulator 2 | 297520 | [297520-ultimate-car-driving-simulator-2.json](./297520-ultimate-car-driving-simulator-2.json) |
 | Ultimate Car Driving: Classics | 96775 | [96775-ultimate-car-driving-classics.json](./96775-ultimate-car-driving-classics.json) |
 | Ultimate Card Games | 200981 | [200981-ultimate-card-games.json](./200981-ultimate-card-games.json) |
+| Ultimate Card Games | 6645 | [6645-ultimate-card-games.json](./6645-ultimate-card-games.json) |
 | Ultimate Cards | 14519 | [14519-ultimate-cards.json](./14519-ultimate-cards.json) |
 | Ultimate Cartridge Collection Deluxe | 207709 | [207709-ultimate-cartridge-collection-deluxe.json](./207709-ultimate-cartridge-collection-deluxe.json) |
 | Ultimate Casino | 203349 | [203349-ultimate-casino.json](./203349-ultimate-casino.json) |
@@ -2704,6 +2705,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Uno 52 | 47706 | [47706-uno-52.json](./47706-uno-52.json) |
 | Uno DX | 91956 | [91956-uno-dx.json](./91956-uno-dx.json) |
 | Uno Free Fall | 300352 | [300352-uno-free-fall.json](./300352-uno-free-fall.json) |
+| Uno Free Fall | 6646 | [6646-uno-free-fall.json](./6646-uno-free-fall.json) |
 | Uno God | 390230 | [390230-uno-god.json](./390230-uno-god.json) |
 | Uno Online | 242116 | [242116-uno-online.json](./242116-uno-online.json) |
 | Uno x Anime | 387575 | [387575-uno-x-anime.json](./387575-uno-x-anime.json) |
@@ -3513,6 +3515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Urban War Defense | 46591 | [46591-urban-war-defense.json](./46591-urban-war-defense.json) |
 | Urban Warfare: Assault | 308489 | [308489-urban-warfare-assault.json](./308489-urban-warfare-assault.json) |
 | Urban Witch Story | 133862 | [133862-urban-witch-story.json](./133862-urban-witch-story.json) |
+| Urban Yeti! | 6647 | [6647-urban-yeti.json](./6647-urban-yeti.json) |
 | Urban Yuri: A Lady's Romance Manifesto | 370060 | [370060-urban-yuri-a-ladys-romance-manifesto.json](./370060-urban-yuri-a-ladys-romance-manifesto.json) |
 | Urbance Clans Card Battle! | 107879 | [107879-urbance-clans-card-battle.json](./107879-urbance-clans-card-battle.json) |
 | Urbanix | 65091 | [65091-urbanix.json](./65091-urbanix.json) |
