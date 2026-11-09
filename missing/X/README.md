@@ -519,6 +519,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xbox Buddies | 138977 | [138977-xbox-buddies.json](./138977-xbox-buddies.json) |
 | Xbox Fitness | 19172 | [19172-xbox-fitness.json](./19172-xbox-fitness.json) |
 | Xbox Live Arcade | 267539 | [267539-xbox-live-arcade.json](./267539-xbox-live-arcade.json) |
+| Xbox Live Arcade Compilation Disc | 20899 | [20899-xbox-live-arcade-compilation-disc.json](./20899-xbox-live-arcade-compilation-disc.json) |
+| Xbox Live Arcade Game Pack | 20901 | [20901-xbox-live-arcade-game-pack.json](./20901-xbox-live-arcade-game-pack.json) |
 | Xbox Live Arcade Unplugged: Volume 1 | 7257 | [7257-xbox-live-arcade-unplugged-volume-1.json](./7257-xbox-live-arcade-unplugged-volume-1.json) |
 | Xbox Live Labs | 92266 | [92266-xbox-live-labs.json](./92266-xbox-live-labs.json) |
 | Xbox Party Mansion | 339813 | [339813-xbox-party-mansion.json](./339813-xbox-party-mansion.json) |
