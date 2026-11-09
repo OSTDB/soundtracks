@@ -3530,6 +3530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Faust's Folly | 54952 | [54952-fausts-folly.json](./54952-fausts-folly.json) |
 | Faustão Dating Sim | 116655 | [116655-faustao-dating-sim.json](./116655-faustao-dating-sim.json) |
 | Faustian Bargain | 209669 | [209669-faustian-bargain.json](./209669-faustian-bargain.json) |
+| Fausts Alptraum | 29972 | [29972-fausts-alptraum.json](./29972-fausts-alptraum.json) |
 | Faux | 115988 | [115988-faux.json](./115988-faux.json) |
 | Faux Gravity | 327661 | [327661-faux-gravity.json](./327661-faux-gravity.json) |
 | Fava Beans | 252212 | [252212-fava-beans.json](./252212-fava-beans.json) |
@@ -7541,6 +7542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flame Keeper + Space Cows | 287591 | [287591-flame-keeper-space-cows.json](./287591-flame-keeper-space-cows.json) |
 | Flame Land | 310017 | [310017-flame-land.json](./310017-flame-land.json) |
 | Flame Man | 96014 | [96014-flame-man.json](./96014-flame-man.json) |
+| Flame of Memory | 29987 | [29987-flame-of-memory.json](./29987-flame-of-memory.json) |
 | Flame of Mirrors | 51567 | [51567-flame-of-mirrors.json](./51567-flame-of-mirrors.json) |
 | Flame of Rebellion | 238085 | [238085-flame-of-rebellion.json](./238085-flame-of-rebellion.json) |
 | Flame of Recca | 49412 | [49412-flame-of-recca.json](./49412-flame-of-recca.json) |
