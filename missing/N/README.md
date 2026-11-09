@@ -4070,6 +4070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nibble: Pizza Delivery | 254997 | [254997-nibble-pizza-delivery.json](./254997-nibble-pizza-delivery.json) |
 | Nibblemen | 281189 | [281189-nibblemen.json](./281189-nibblemen.json) |
 | Nibbler | 24063 | [24063-nibbler.json](./24063-nibbler.json) |
+| Nibbles | 11721 | [11721-nibbles.json](./11721-nibbles.json) |
 | Nibbles | 88657 | [88657-nibbles.json](./88657-nibbles.json) |
 | Nibblet | 256709 | [256709-nibblet.json](./256709-nibblet.json) |
 | Nibblity | 125537 | [125537-nibblity.json](./125537-nibblity.json) |
