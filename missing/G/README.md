@@ -722,6 +722,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Galactic Warrior Rats | 38055 | [38055-galactic-warrior-rats.json](./38055-galactic-warrior-rats.json) |
 | Galactic Warriors | 40036 | [40036-galactic-warriors.json](./40036-galactic-warriors.json) |
 | Galactic Wars | 133996 | [133996-galactic-wars.json](./133996-galactic-wars.json) |
+| Galactic Wars | 62231 | [62231-galactic-wars.json](./62231-galactic-wars.json) |
 | Galactic Wars EX | 176351 | [176351-galactic-wars-ex.json](./176351-galactic-wars-ex.json) |
 | Galactic Wars: Defend Your Star Worlds | 286206 | [286206-galactic-wars-defend-your-star-worlds.json](./286206-galactic-wars-defend-your-star-worlds.json) |
 | Galactic Warship | 260297 | [260297-galactic-warship.json](./260297-galactic-warship.json) |
@@ -4359,6 +4360,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Giddy 3: The Retro Eggsperience | 62144 | [62144-giddy-3-the-retro-eggsperience.json](./62144-giddy-3-the-retro-eggsperience.json) |
 | Gidget & The Mysterious Thievery of Hoppity Town | 200006 | [200006-gidget-and-the-mysterious-thievery-of-hoppity-town.json](./200006-gidget-and-the-mysterious-thievery-of-hoppity-town.json) |
 | Gido Gido: Kaiju Battle Party | 404214 | [404214-gido-gido-kaiju-battle-party.json](./404214-gido-gido-kaiju-battle-party.json) |
+| GiDon Duet | 61830 | [61830-gidon-duet.json](./61830-gidon-duet.json) |
 | GIF: The Game of Inevitable Frustration | 117330 | [117330-gif-the-game-of-inevitable-frustration.json](./117330-gif-the-game-of-inevitable-frustration.json) |
 | Gift | 102076 | [102076-gift.json](./102076-gift.json) |
 | Gift | 132101 | [132101-gift.json](./132101-gift.json) |
@@ -11376,6 +11378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunhed: Taikai | 42025 | [42025-gunhed-taikai.json](./42025-gunhed-taikai.json) |
 | GunHero | 30035 | [30035-gunhero.json](./30035-gunhero.json) |
 | Gunhound EX | 16958 | [16958-gunhound-ex.json](./16958-gunhound-ex.json) |
+| Gunhouse | 62313 | [62313-gunhouse.json](./62313-gunhouse.json) |
 | GunHowl | 144802 | [144802-gunhowl.json](./144802-gunhowl.json) |
 | Gunita | 360309 | [360309-gunita.json](./360309-gunita.json) |
 | Gunja Tteokbokki | 395730 | [395730-gunja-tteokbokki.json](./395730-gunja-tteokbokki.json) |
