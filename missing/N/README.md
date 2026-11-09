@@ -695,6 +695,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naruto Shippuden: Ultimate Ninja Impact | 19649 | [19649-naruto-shippuden-ultimate-ninja-impact.json](./19649-naruto-shippuden-ultimate-ninja-impact.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 2 | 7098 | [7098-naruto-shippuden-ultimate-ninja-storm-2.json](./7098-naruto-shippuden-ultimate-ninja-storm-2.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 3 | 7099 | [7099-naruto-shippuden-ultimate-ninja-storm-3.json](./7099-naruto-shippuden-ultimate-ninja-storm-3.json) |
+| Naruto Shippuden: Ultimate Ninja Storm 3 Full Burst | 21709 | [21709-naruto-shippuden-ultimate-ninja-storm-3-full-burst.json](./21709-naruto-shippuden-ultimate-ninja-storm-3-full-burst.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 4 | 11059 | [11059-naruto-shippuden-ultimate-ninja-storm-4.json](./11059-naruto-shippuden-ultimate-ninja-storm-4.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 4 - Evolution | 344589 | [344589-naruto-shippuden-ultimate-ninja-storm-4-evolution.json](./344589-naruto-shippuden-ultimate-ninja-storm-4-evolution.json) |
 | Naruto Shippuden: Ultimate Ninja Storm 4 - Gaara's Tale Extra Scenario | 168159 | [168159-naruto-shippuden-ultimate-ninja-storm-4-gaaras-tale-extra-scenario.json](./168159-naruto-shippuden-ultimate-ninja-storm-4-gaaras-tale-extra-scenario.json) |
