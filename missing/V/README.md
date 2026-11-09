@@ -4090,6 +4090,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | VR Long March | 159512 | [159512-vr-long-march.json](./159512-vr-long-march.json) |
 | VR Lunar Base Skirmish: Control the Moon | 165749 | [165749-vr-lunar-base-skirmish-control-the-moon.json](./165749-vr-lunar-base-skirmish-control-the-moon.json) |
 | VR Luxury Life (Be a Billionaire) | 163037 | [163037-vr-luxury-life-be-a-billionaire.json](./163037-vr-luxury-life-be-a-billionaire.json) |
+| VR Mahjong worlds | 75360 | [75360-vr-mahjong-worlds.json](./75360-vr-mahjong-worlds.json) |
 | VR Masturbate | 384634 | [384634-vr-masturbate.json](./384634-vr-masturbate.json) |
 | VR Maze | 164056 | [164056-vr-maze.json](./164056-vr-maze.json) |
 | VR Meditation SkyRun | 166926 | [166926-vr-meditation-skyrun.json](./166926-vr-meditation-skyrun.json) |
