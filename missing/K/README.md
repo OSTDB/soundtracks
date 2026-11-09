@@ -558,6 +558,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider Ryuki | 44858 | [44858-kamen-rider-ryuki.json](./44858-kamen-rider-ryuki.json) |
 | Kamen Rider SD: Hashire! Mighty Riders | 49125 | [49125-kamen-rider-sd-hashire-mighty-riders.json](./49125-kamen-rider-sd-hashire-mighty-riders.json) |
 | Kamen Rider SD: Shutsugeki!! Rider Machine | 38166 | [38166-kamen-rider-sd-shutsugeki-rider-machine.json](./38166-kamen-rider-sd-shutsugeki-rider-machine.json) |
+| Kamen Rider SummonRide | 61190 | [61190-kamen-rider-summonride.json](./61190-kamen-rider-summonride.json) |
 | Kamen Rider V3 | 43862 | [43862-kamen-rider-v3.json](./43862-kamen-rider-v3.json) |
 | Kamen Rider: Battride War | 63358 | [63358-kamen-rider-battride-war.json](./63358-kamen-rider-battride-war.json) |
 | Kamen Rider: Battride War Genesis | 13559 | [13559-kamen-rider-battride-war-genesis.json](./13559-kamen-rider-battride-war-genesis.json) |
