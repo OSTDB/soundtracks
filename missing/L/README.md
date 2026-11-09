@@ -4125,6 +4125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lethal RPG Destiny: Rebirth | 309094 | [309094-lethal-rpg-destiny-rebirth.json](./309094-lethal-rpg-destiny-rebirth.json) |
 | Lethal RPG: War | 101991 | [101991-lethal-rpg-war.json](./101991-lethal-rpg-war.json) |
 | Lethal Running | 101453 | [101453-lethal-running.json](./101453-lethal-running.json) |
+| Lethal Skies Elite Pilot: Team SW | 26746 | [26746-lethal-skies-elite-pilot-team-sw.json](./26746-lethal-skies-elite-pilot-team-sw.json) |
 | Lethal Skies II | 24103 | [24103-lethal-skies-ii.json](./24103-lethal-skies-ii.json) |
 | Lethal Tempting Girls | 130569 | [130569-lethal-tempting-girls.json](./130569-lethal-tempting-girls.json) |
 | Lethal Tender | 84329 | [84329-lethal-tender.json](./84329-lethal-tender.json) |
