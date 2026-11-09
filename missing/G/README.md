@@ -422,6 +422,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gainax Renzoku Satsujin Jiken: Ero | 257832 | [257832-gainax-renzoku-satsujin-jiken-ero.json](./257832-gainax-renzoku-satsujin-jiken-ero.json) |
 | Gairaldia 6 | 175297 | [175297-gairaldia-6.json](./175297-gairaldia-6.json) |
 | Gaishin Senki: Millennium Sword | 264307 | [264307-gaishin-senki-millennium-sword.json](./264307-gaishin-senki-millennium-sword.json) |
+| Gaist Crusher | 62876 | [62876-gaist-crusher.json](./62876-gaist-crusher.json) |
 | Gaist Crusher God | 84559 | [84559-gaist-crusher-god.json](./84559-gaist-crusher-god.json) |
 | Gake-ppuchi Reijou wa Mukiryoku Akuma de Otome wo Sutetai | 365727 | [365727-gake-ppuchi-reijou-wa-mukiryoku-akuma-de-otome-wo-sutetai.json](./365727-gake-ppuchi-reijou-wa-mukiryoku-akuma-de-otome-wo-sutetai.json) |
 | Gakken DS: Otona no Gakushuu Kintaichi Sensei no Nihongo Lesson | 245046 | [245046-gakken-ds-otona-no-gakushuu-kintaichi-sensei-no-nihongo-lesson.json](./245046-gakken-ds-otona-no-gakushuu-kintaichi-sensei-no-nihongo-lesson.json) |
@@ -1508,6 +1509,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Game.exe | 153144 | [153144-game-exe.json](./153144-game-exe.json) |
 | Game.exe 2: Phantom Strike | 390382 | [390382-game-exe-2-phantom-strike.json](./390382-game-exe-2-phantom-strike.json) |
 | Gamebesh | 275387 | [275387-gamebesh.json](./275387-gamebesh.json) |
+| Gamebiz | 62879 | [62879-gamebiz.json](./62879-gamebiz.json) |
+| Gamebiz 2 | 62878 | [62878-gamebiz-2.json](./62878-gamebiz-2.json) |
 | Gamebook | 200252 | [200252-gamebook.json](./200252-gamebook.json) |
 | Gamebook Adventures 10: Lords of Nurroth | 175166 | [175166-gamebook-adventures-10-lords-of-nurroth.json](./175166-gamebook-adventures-10-lords-of-nurroth.json) |
 | Gamebook Adventures 2: The Siege of the Necromancer | 64762 | [64762-gamebook-adventures-2-the-siege-of-the-necromancer.json](./64762-gamebook-adventures-2-the-siege-of-the-necromancer.json) |
@@ -5723,6 +5726,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | GO Series: Earth Saver | 84503 | [84503-go-series-earth-saver.json](./84503-go-series-earth-saver.json) |
 | GO Series: Fishing Resort | 84502 | [84502-go-series-fishing-resort.json](./84502-go-series-fishing-resort.json) |
 | GO Series: Picdun | 56903 | [56903-go-series-picdun.json](./56903-go-series-picdun.json) |
+| Go Series: Pinball Attack! | 62845 | [62845-go-series-pinball-attack.json](./62845-go-series-pinball-attack.json) |
 | GO Series: Portable Shrine Wars | 65750 | [65750-go-series-portable-shrine-wars.json](./65750-go-series-portable-shrine-wars.json) |
 | GO Series: Tower of Deus | 84499 | [84499-go-series-tower-of-deus.json](./84499-go-series-tower-of-deus.json) |
 | GO Series: Undead Storm | 84498 | [84498-go-series-undead-storm.json](./84498-go-series-undead-storm.json) |
@@ -6266,6 +6270,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Godfall: Primal Update | 312371 | [312371-godfall-primal-update.json](./312371-godfall-primal-update.json) |
 | Godfall: Ultimate Edition | 195237 | [195237-godfall-ultimate-edition.json](./195237-godfall-ultimate-edition.json) |
 | GodFinger | 66697 | [66697-godfinger.json](./66697-godfinger.json) |
+| Godfire: Rise of Prometheus | 62862 | [62862-godfire-rise-of-prometheus.json](./62862-godfire-rise-of-prometheus.json) |
 | Godfist | 235356 | [235356-godfist.json](./235356-godfist.json) |
 | Godforged: Origins of Ozgalor | 313473 | [313473-godforged-origins-of-ozgalor.json](./313473-godforged-origins-of-ozgalor.json) |
 | Godforsaken | 258085 | [258085-godforsaken.json](./258085-godforsaken.json) |
