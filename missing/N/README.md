@@ -213,6 +213,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Naked Puzzle: Girls | 367928 | [367928-naked-puzzle-girls.json](./367928-naked-puzzle-girls.json) |
 | Naked Story | 127838 | [127838-naked-story.json](./127838-naked-story.json) |
 | Naked Sun | 93897 | [93897-naked-sun.json](./93897-naked-sun.json) |
+| Naked War | 28962 | [28962-naked-war.json](./28962-naked-war.json) |
 | Naked Warrior | 385305 | [385305-naked-warrior.json](./385305-naked-warrior.json) |
 | NakedMan vs. The Clothes | 29485 | [29485-nakedman-vs-the-clothes.json](./29485-nakedman-vs-the-clothes.json) |
 | Näkemiin: Hongkong | 85757 | [85757-nakemiin-hongkong.json](./85757-nakemiin-hongkong.json) |
@@ -5175,6 +5176,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja | 245137 | [245137-ninja.json](./245137-ninja.json) |
 | Ninja | 274605 | [274605-ninja.json](./274605-ninja.json) |
 | Ninja 1987 | 304559 | [304559-ninja-1987.json](./304559-ninja-1987.json) |
+| Ninja 314 | 29007 | [29007-ninja-314.json](./29007-ninja-314.json) |
 | Ninja Akio | 212115 | [212115-ninja-akio.json](./212115-ninja-akio.json) |
 | Ninja Arashi | 264440 | [264440-ninja-arashi.json](./264440-ninja-arashi.json) |
 | Ninja Arashi 2 | 223997 | [223997-ninja-arashi-2.json](./223997-ninja-arashi-2.json) |
@@ -7079,6 +7081,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nosferatu 2: Run from the Sun | 248410 | [248410-nosferatu-2-run-from-the-sun.json](./248410-nosferatu-2-run-from-the-sun.json) |
 | Nosferatu Lilinor | 126389 | [126389-nosferatu-lilinor.json](./126389-nosferatu-lilinor.json) |
 | Nosferatu no Otome-tachi | 403637 | [403637-nosferatu-no-otome-tachi.json](./403637-nosferatu-no-otome-tachi.json) |
+| Nosferatu the Vampyre | 28957 | [28957-nosferatu-the-vampyre.json](./28957-nosferatu-the-vampyre.json) |
 | Nosferatu: The Wrath of Malachi | 8960 | [8960-nosferatu-the-wrath-of-malachi.json](./8960-nosferatu-the-wrath-of-malachi.json) |
 | Nosferatu's Butler | 149808 | [149808-nosferatus-butler.json](./149808-nosferatus-butler.json) |
 | Nosferatu's Dominion | 337370 | [337370-nosferatus-dominion.json](./337370-nosferatus-dominion.json) |
