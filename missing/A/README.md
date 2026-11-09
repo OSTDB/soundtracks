@@ -11347,6 +11347,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Anseion | 245810 | [245810-anseion.json](./245810-anseion.json) |
 | Anshar 2: Hyperdrive | 196374 | [196374-anshar-2-hyperdrive.json](./196374-anshar-2-hyperdrive.json) |
 | Anshar Online | 119941 | [119941-anshar-online.json](./119941-anshar-online.json) |
+| Anshar Wars 2 | 58336 | [58336-anshar-wars-2.json](./58336-anshar-wars-2.json) |
 | AnShi | 132740 | [132740-anshi.json](./132740-anshi.json) |
 | Ansible | 111528 | [111528-ansible.json](./111528-ansible.json) |
 | Ansiolisis | 327065 | [327065-ansiolisis.json](./327065-ansiolisis.json) |
@@ -16746,6 +16747,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astroneer: Xenobiology | 234026 | [234026-astroneer-xenobiology.json](./234026-astroneer-xenobiology.json) |
 | AstroNest | 19527 | [19527-astronest.json](./19527-astronest.json) |
 | Astronest VR | 115357 | [115357-astronest-vr.json](./115357-astronest-vr.json) |
+| Astronest: The Beginning | 58343 | [58343-astronest-the-beginning.json](./58343-astronest-the-beginning.json) |
 | Astronimo | 237413 | [237413-astronimo.json](./237413-astronimo.json) |
 | Astronite | 142480 | [142480-astronite.json](./142480-astronite.json) |
 | Astronium | 167542 | [167542-astronium.json](./167542-astronium.json) |
@@ -17269,6 +17271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -18195,6 +18198,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Autophagy | 265997 | [265997-autophagy.json](./265997-autophagy.json) |
 | Autopista | 248984 | [248984-autopista.json](./248984-autopista.json) |
 | Autopsy Simulator | 132385 | [132385-autopsy-simulator.json](./132385-autopsy-simulator.json) |
+| AutoRaid RPG manager | 58347 | [58347-autoraid-rpg-manager.json](./58347-autoraid-rpg-manager.json) |
 | Autos | 197392 | [197392-autos.json](./197392-autos.json) |
 | AutoSim 2 | 235860 | [235860-autosim-2.json](./235860-autosim-2.json) |
 | Autosplit | 241818 | [241818-autosplit.json](./241818-autosplit.json) |
