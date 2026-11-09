@@ -3576,6 +3576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Teenage Mutant Ninja Turtles: Turtle Power! | 278438 | [278438-teenage-mutant-ninja-turtles-turtle-power.json](./278438-teenage-mutant-ninja-turtles-turtle-power.json) |
 | Teenage Mutant Ninja Turtles: Turtles in Time | 205211 | [205211-teenage-mutant-ninja-turtles-turtles-in-time.json](./205211-teenage-mutant-ninja-turtles-turtles-in-time.json) |
 | Teenage Mutant Ninja Turtles: Way of the Warrior | 146240 | [146240-teenage-mutant-ninja-turtles-way-of-the-warrior.json](./146240-teenage-mutant-ninja-turtles-way-of-the-warrior.json) |
+| Teenage Queen | 14672 | [14672-teenage-queen.json](./14672-teenage-queen.json) |
 | Teenage Super Ninja Plumbers | 222882 | [222882-teenage-super-ninja-plumbers.json](./222882-teenage-super-ninja-plumbers.json) |
 | Teenage Wasteland | 306269 | [306269-teenage-wasteland.json](./306269-teenage-wasteland.json) |
 | Teenage Zombies: Invasion of the Alien Brain Thingys! | 21301 | [21301-teenage-zombies-invasion-of-the-alien-brain-thingys.json](./21301-teenage-zombies-invasion-of-the-alien-brain-thingys.json) |
@@ -11530,10 +11531,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Incredible Adventures of Van Helsing II: Ink Hunt | 10969 | [10969-the-incredible-adventures-of-van-helsing-ii-ink-hunt.json](./10969-the-incredible-adventures-of-van-helsing-ii-ink-hunt.json) |
 | The Incredible Adventures of Van Helsing II: Pigasus | 10970 | [10970-the-incredible-adventures-of-van-helsing-ii-pigasus.json](./10970-the-incredible-adventures-of-van-helsing-ii-pigasus.json) |
 | The Incredible Adventures of Van Helsing III | 11703 | [11703-the-incredible-adventures-of-van-helsing-iii.json](./11703-the-incredible-adventures-of-van-helsing-iii.json) |
+| The Incredible Adventures of Van Helsing: Arcane Mechanic | 14689 | [14689-the-incredible-adventures-of-van-helsing-arcane-mechanic.json](./14689-the-incredible-adventures-of-van-helsing-arcane-mechanic.json) |
 | The Incredible Adventures of Van Helsing: Blue Blood | 10968 | [10968-the-incredible-adventures-of-van-helsing-blue-blood.json](./10968-the-incredible-adventures-of-van-helsing-blue-blood.json) |
 | The Incredible Adventures of Van Helsing: Complete Pack | 155256 | [155256-the-incredible-adventures-of-van-helsing-complete-pack.json](./155256-the-incredible-adventures-of-van-helsing-complete-pack.json) |
 | The Incredible Adventures of Van Helsing: Extended Edition | 27680 | [27680-the-incredible-adventures-of-van-helsing-extended-edition.json](./27680-the-incredible-adventures-of-van-helsing-extended-edition.json) |
 | The Incredible Adventures of Van Helsing: Final Cut | 26129 | [26129-the-incredible-adventures-of-van-helsing-final-cut.json](./26129-the-incredible-adventures-of-van-helsing-final-cut.json) |
+| The Incredible Adventures of Van Helsing: Thaumaturge | 14690 | [14690-the-incredible-adventures-of-van-helsing-thaumaturge.json](./14690-the-incredible-adventures-of-van-helsing-thaumaturge.json) |
 | The Incredible Adventures of Van Helsing: The Complete Trilogy | 115460 | [115460-the-incredible-adventures-of-van-helsing-the-complete-trilogy.json](./115460-the-incredible-adventures-of-van-helsing-the-complete-trilogy.json) |
 | The Incredible Coneman | 262418 | [262418-the-incredible-coneman.json](./262418-the-incredible-coneman.json) |
 | The Incredible Crash Dummies | 198764 | [198764-the-incredible-crash-dummies.json](./198764-the-incredible-crash-dummies.json) |
@@ -11970,6 +11973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Kantist | 314092 | [314092-the-kantist.json](./314092-the-kantist.json) |
 | The Karaoke | 224806 | [224806-the-karaoke.json](./224806-the-karaoke.json) |
 | The Karate Kid | 68386 | [68386-the-karate-kid.json](./68386-the-karate-kid.json) |
+| The Karate Kid Part II | 15237 | [15237-the-karate-kid-part-ii.json](./15237-the-karate-kid-part-ii.json) |
 | The Karate Kid: Street Rumble | 309026 | [309026-the-karate-kid-street-rumble.json](./309026-the-karate-kid-street-rumble.json) |
 | The Karate Tournament | 40342 | [40342-the-karate-tournament.json](./40342-the-karate-tournament.json) |
 | The Kars | 144732 | [144732-the-kars.json](./144732-the-kars.json) |
