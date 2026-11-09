@@ -636,6 +636,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Saikyou Ginsei Shogi 4 | 83446 | [83446-saikyou-ginsei-shogi-4.json](./83446-saikyou-ginsei-shogi-4.json) |
 | Saikyou Ginsei Shogi Go | 83435 | [83435-saikyou-ginsei-shogi-go.json](./83435-saikyou-ginsei-shogi-go.json) |
 | Saikyou Ginsei Shogi Go: New Standard | 83436 | [83436-saikyou-ginsei-shogi-go-new-standard.json](./83436-saikyou-ginsei-shogi-go-new-standard.json) |
+| Saikyou Habu Shogi | 3594 | [3594-saikyou-habu-shogi.json](./3594-saikyou-habu-shogi.json) |
 | Saikyou Horror Akumu no Tobira: imi ga Wakaru to Kowai Nazotoki Toshidensetsu Kaidan Suiri Game | 254926 | [254926-saikyou-horror-akumu-no-tobira-imi-ga-wakaru-to-kowai-nazotoki-toshidensetsu-kaidan-suiri-game.json](./254926-saikyou-horror-akumu-no-tobira-imi-ga-wakaru-to-kowai-nazotoki-toshidensetsu-kaidan-suiri-game.json) |
 | Saikyou Retsuden: Jidai Hashiru | 225658 | [225658-saikyou-retsuden-jidai-hashiru.json](./225658-saikyou-retsuden-jidai-hashiru.json) |
 | Saikyou Todai Shogi | 203548 | [203548-saikyou-todai-shogi.json](./203548-saikyou-todai-shogi.json) |
@@ -8858,6 +8859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shining Force EXA | 19254 | [19254-shining-force-exa.json](./19254-shining-force-exa.json) |
 | Shining Force Feather | 47720 | [47720-shining-force-feather.json](./47720-shining-force-feather.json) |
 | Shining Force Gaiden: Ensei - Jashin no Kuni he | 46307 | [46307-shining-force-gaiden-ensei-jashin-no-kuni-he.json](./46307-shining-force-gaiden-ensei-jashin-no-kuni-he.json) |
+| Shining Force Gaiden: Final Conflict | 3200 | [3200-shining-force-gaiden-final-conflict.json](./3200-shining-force-gaiden-final-conflict.json) |
 | Shining Force III | 28396 | [28396-shining-force-iii.json](./28396-shining-force-iii.json) |
 | Shining Force III Scenario 3 | 79706 | [79706-shining-force-iii-scenario-3.json](./79706-shining-force-iii-scenario-3.json) |
 | Shining Force III: 2nd Scenario | 46062 | [46062-shining-force-iii-2nd-scenario.json](./46062-shining-force-iii-2nd-scenario.json) |
@@ -26696,6 +26698,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starships Unlimited | 72128 | [72128-starships-unlimited.json](./72128-starships-unlimited.json) |
 | Starshot | 151181 | [151181-starshot.json](./151181-starshot.json) |
 | Starshot | 374184 | [374184-starshot.json](./374184-starshot.json) |
+| Starshot: Space Circus Fever | 3605 | [3605-starshot-space-circus-fever.json](./3605-starshot-space-circus-fever.json) |
 | Starsiege | 11228 | [11228-starsiege.json](./11228-starsiege.json) |
 | Starsiege: Deadzone | 251581 | [251581-starsiege-deadzone.json](./251581-starsiege-deadzone.json) |
 | Starsiege: Deadzone - Founders Edition | 255462 | [255462-starsiege-deadzone-founders-edition.json](./255462-starsiege-deadzone-founders-edition.json) |
@@ -30050,6 +30053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Stunt Race | 395000 | [395000-stunt-race.json](./395000-stunt-race.json) |
 | Stunt Race FX | 28509 | [28509-stunt-race-fx.json](./28509-stunt-race-fx.json) |
 | Stunt Racer 2000 | 13259 | [13259-stunt-racer-2000.json](./13259-stunt-racer-2000.json) |
+| Stunt Racer 64 | 3606 | [3606-stunt-racer-64.json](./3606-stunt-racer-64.json) |
 | Stunt Rails | 214309 | [214309-stunt-rails.json](./214309-stunt-rails.json) |
 | Stunt Runner | 62994 | [62994-stunt-runner.json](./62994-stunt-runner.json) |
 | Stunt Rush: 3D Buggy Racing | 246985 | [246985-stunt-rush-3d-buggy-racing.json](./246985-stunt-rush-3d-buggy-racing.json) |
@@ -31807,6 +31811,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Auto Salon: Custom Car Contest | 133782 | [133782-super-auto-salon-custom-car-contest.json](./133782-super-auto-salon-custom-car-contest.json) |
 | Super Awesome Quest | 59075 | [59075-super-awesome-quest.json](./59075-super-awesome-quest.json) |
 | Super Awesome RPG | 200306 | [200306-super-awesome-rpg.json](./200306-super-awesome-rpg.json) |
+| Super B-Daman: Battle Phoenix 64 | 3607 | [3607-super-b-daman-battle-phoenix-64.json](./3607-super-b-daman-battle-phoenix-64.json) |
 | Super B-Daman: Fighting Phoenix | 60594 | [60594-super-b-daman-fighting-phoenix.json](./60594-super-b-daman-fighting-phoenix.json) |
 | Super B-Dino's adventures | 101386 | [101386-super-b-dinos-adventures.json](./101386-super-b-dinos-adventures.json) |
 | Super Baby | 97678 | [97678-super-baby.json](./97678-super-baby.json) |
@@ -34073,6 +34078,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robolom | 83485 | [83485-super-robolom.json](./83485-super-robolom.json) |
 | Super Robot Pinball | 71606 | [71606-super-robot-pinball.json](./71606-super-robot-pinball.json) |
 | Super Robot Shooting | 74768 | [74768-super-robot-shooting.json](./74768-super-robot-shooting.json) |
+| Super Robot Spirits | 3608 | [3608-super-robot-spirits.json](./3608-super-robot-spirits.json) |
 | Super Robot Taisen | 240916 | [240916-super-robot-taisen.json](./240916-super-robot-taisen.json) |
 | Super Robot Taisen | 49137 | [49137-super-robot-taisen.json](./49137-super-robot-taisen.json) |
 | Super Robot Taisen 64 | 44056 | [44056-super-robot-taisen-64.json](./44056-super-robot-taisen-64.json) |
@@ -34916,6 +34922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SuperCowBoy | 339479 | [339479-supercowboy.json](./339479-supercowboy.json) |
 | Supercrab Extravaganza | 226612 | [226612-supercrab-extravaganza.json](./226612-supercrab-extravaganza.json) |
 | Supercross | 44949 | [44949-supercross.json](./44949-supercross.json) |
+| Supercross 2000 | 3610 | [3610-supercross-2000.json](./3610-supercross-2000.json) |
 | Supercross Circuit | 44963 | [44963-supercross-circuit.json](./44963-supercross-circuit.json) |
 | Supercross Freestyle | 50069 | [50069-supercross-freestyle.json](./50069-supercross-freestyle.json) |
 | SuperCTF | 151123 | [151123-superctf.json](./151123-superctf.json) |
