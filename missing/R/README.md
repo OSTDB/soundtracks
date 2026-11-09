@@ -4437,6 +4437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redux | 171410 | [171410-redux.json](./171410-redux.json) |
 | Redux: Dark Matters | 36093 | [36093-redux-dark-matters.json](./36093-redux-dark-matters.json) |
 | Redviil | 114970 | [114970-redviil.json](./114970-redviil.json) |
+| Redwood Falls | 62854 | [62854-redwood-falls.json](./62854-redwood-falls.json) |
 | ReEarth | 309689 | [309689-reearth.json](./309689-reearth.json) |
 | Reed ^_^ | 91141 | [91141-reed.json](./91141-reed.json) |
 | Reed 2 | 134012 | [134012-reed-2.json](./134012-reed-2.json) |
@@ -7549,6 +7550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ridge Racer Driftopia | 25144 | [25144-ridge-racer-driftopia.json](./25144-ridge-racer-driftopia.json) |
 | Ridge Racer DS | 20201 | [20201-ridge-racer-ds.json](./20201-ridge-racer-ds.json) |
 | Ridge Racer Mobile | 107012 | [107012-ridge-racer-mobile.json](./107012-ridge-racer-mobile.json) |
+| Ridge Racer Slipstream | 62371 | [62371-ridge-racer-slipstream.json](./62371-ridge-racer-slipstream.json) |
 | Ridge Racer Unbounded | 541 | [541-ridge-racer-unbounded.json](./541-ridge-racer-unbounded.json) |
 | Ridge Racer Unbounded: Limited Edition | 423990 | [423990-ridge-racer-unbounded-limited-edition.json](./423990-ridge-racer-unbounded-limited-edition.json) |
 | Ridge Racer V: Arcade Battle | 315284 | [315284-ridge-racer-v-arcade-battle.json](./315284-ridge-racer-v-arcade-battle.json) |
@@ -12491,6 +12493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rumblade | 109269 | [109269-rumblade.json](./109269-rumblade.json) |
 | Rumble | 132991 | [132991-rumble.json](./132991-rumble.json) |
 | Rumble | 34287 | [34287-rumble.json](./34287-rumble.json) |
+| Rumble Academy | 62850 | [62850-rumble-academy.json](./62850-rumble-academy.json) |
 | Rumble Arena | 118228 | [118228-rumble-arena.json](./118228-rumble-arena.json) |
 | Rumble Avenue | 408757 | [408757-rumble-avenue.json](./408757-rumble-avenue.json) |
 | Rumble Beavers | 421375 | [421375-rumble-beavers.json](./421375-rumble-beavers.json) |
