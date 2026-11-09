@@ -171,6 +171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | uDraw Pictionary | 5186 | [5186-udraw-pictionary.json](./5186-udraw-pictionary.json) |
 | uDraw Studio | 5185 | [5185-udraw-studio.json](./5185-udraw-studio.json) |
 | uDraw Studio: Instant Artist | 83855 | [83855-udraw-studio-instant-artist.json](./83855-udraw-studio-instant-artist.json) |
+| UDraw: Dood's Big Adventure | 50670 | [50670-udraw-doods-big-adventure.json](./50670-udraw-doods-big-adventure.json) |
 | Uebergame | 34673 | [34673-uebergame.json](./34673-uebergame.json) |
 | Uebernatural: The Video Game | 266951 | [266951-uebernatural-the-video-game.json](./266951-uebernatural-the-video-game.json) |
 | UEDI: Shadow of the Citadel | 129801 | [129801-uedi-shadow-of-the-citadel.json](./129801-uedi-shadow-of-the-citadel.json) |
@@ -2457,6 +2458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universe Balancing Bureau | 90308 | [90308-universe-balancing-bureau.json](./90308-universe-balancing-bureau.json) |
 | Universe Dawn | 336994 | [336994-universe-dawn.json](./336994-universe-dawn.json) |
 | Universe Generator: The Golden Sword | 152600 | [152600-universe-generator-the-golden-sword.json](./152600-universe-generator-the-golden-sword.json) |
+| Universe Gunz | 50206 | [50206-universe-gunz.json](./50206-universe-gunz.json) |
 | Universe Has No Favorites | 286093 | [286093-universe-has-no-favorites.json](./286093-universe-has-no-favorites.json) |
 | Universe Horizon | 334869 | [334869-universe-horizon.json](./334869-universe-horizon.json) |
 | Universe II | 13089 | [13089-universe-ii.json](./13089-universe-ii.json) |
