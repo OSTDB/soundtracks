@@ -10254,6 +10254,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Game of Life: Path to Success | 207002 | [207002-the-game-of-life-path-to-success.json](./207002-the-game-of-life-path-to-success.json) |
 | The Game of Life: RPG Jinsei Game | 48819 | [48819-the-game-of-life-rpg-jinsei-game.json](./48819-the-game-of-life-rpg-jinsei-game.json) |
 | The Game of Life: SpongeBob SquarePants Edition | 207003 | [207003-the-game-of-life-spongebob-squarepants-edition.json](./207003-the-game-of-life-spongebob-squarepants-edition.json) |
+| The Game of Life: Super Jinsei Game | 37825 | [37825-the-game-of-life-super-jinsei-game.json](./37825-the-game-of-life-super-jinsei-game.json) |
+| The Game of Life: Super Jinsei Game 2 | 37824 | [37824-the-game-of-life-super-jinsei-game-2.json](./37824-the-game-of-life-super-jinsei-game-2.json) |
+| The Game of Life: Super Jinsei Game 3 | 37823 | [37823-the-game-of-life-super-jinsei-game-3.json](./37823-the-game-of-life-super-jinsei-game-3.json) |
 | The Game of Nothing | 164125 | [164125-the-game-of-nothing.json](./164125-the-game-of-nothing.json) |
 | The Game of Robot | 69716 | [69716-the-game-of-robot.json](./69716-the-game-of-robot.json) |
 | The Game of Sisyphus | 294183 | [294183-the-game-of-sisyphus.json](./294183-the-game-of-sisyphus.json) |
