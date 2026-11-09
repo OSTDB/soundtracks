@@ -684,6 +684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Janky Tanks | 35877 | [35877-janky-tanks.json](./35877-janky-tanks.json) |
 | Jankyou | 77159 | [77159-jankyou.json](./77159-jankyou.json) |
 | Jankyuusei: Cosplay Paradise | 281589 | [281589-jankyuusei-cosplay-paradise.json](./281589-jankyuusei-cosplay-paradise.json) |
+| Janline | 68139 | [68139-janline.json](./68139-janline.json) |
 | Janline R | 65559 | [65559-janline-r.json](./65559-janline-r.json) |
 | Janosch | 92923 | [92923-janosch.json](./92923-janosch.json) |
 | Janosch: Das grosse Panama-Spiel | 281592 | [281592-janosch-das-grosse-panama-spiel.json](./281592-janosch-das-grosse-panama-spiel.json) |
