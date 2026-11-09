@@ -9708,6 +9708,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Merlin's Apprentice | 45913 | [45913-merlins-apprentice.json](./45913-merlins-apprentice.json) |
 | Merlin's Chess | 325875 | [325875-merlins-chess.json](./325875-merlins-chess.json) |
 | Merlin's Lab | 59033 | [59033-merlins-lab.json](./59033-merlins-lab.json) |
+| Merlin's Walls | 68798 | [68798-merlins-walls.json](./68798-merlins-walls.json) |
 | Merlion Pinball | 307560 | [307560-merlion-pinball.json](./307560-merlion-pinball.json) |
 | Mermaid Adventures: The Frozen Time | 86485 | [86485-mermaid-adventures-the-frozen-time.json](./86485-mermaid-adventures-the-frozen-time.json) |
 | Mermaid Adventures: The Magic Pearl | 88623 | [88623-mermaid-adventures-the-magic-pearl.json](./88623-mermaid-adventures-the-magic-pearl.json) |
@@ -14342,6 +14343,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mission: Scarlet Stars | 341114 | [341114-mission-scarlet-stars.json](./341114-mission-scarlet-stars.json) |
 | Mission: Space | 264028 | [264028-mission-space.json](./264028-mission-space.json) |
 | Mission: Thunderbolt | 103044 | [103044-mission-thunderbolt.json](./103044-mission-thunderbolt.json) |
+| Mission: Wolf | 68815 | [68815-mission-wolf.json](./68815-mission-wolf.json) |
 | Mission:Amazing | 128341 | [128341-mission-amazing.json](./128341-mission-amazing.json) |
 | MissionForce: CyberStorm | 792 | [792-missionforce-cyberstorm.json](./792-missionforce-cyberstorm.json) |
 | Missland | 225613 | [225613-missland.json](./225613-missland.json) |
@@ -17981,6 +17983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mortol | 318311 | [318311-mortol.json](./318311-mortol.json) |
 | Mortol II | 318738 | [318738-mortol-ii.json](./318738-mortol-ii.json) |
 | Morton Subotnick's Hearing Music | 70078 | [70078-morton-subotnicks-hearing-music.json](./70078-morton-subotnicks-hearing-music.json) |
+| Morton Subotnick's Making Music | 68721 | [68721-morton-subotnicks-making-music.json](./68721-morton-subotnicks-making-music.json) |
 | Morton Subotnick's Playing Music | 71340 | [71340-morton-subotnicks-playing-music.json](./71340-morton-subotnicks-playing-music.json) |
 | Morton's Fork | 56128 | [56128-mortons-fork.json](./56128-mortons-fork.json) |
 | Mortos | 35048 | [35048-mortos.json](./35048-mortos.json) |
@@ -19109,6 +19112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mr. Angry | 77380 | [77380-mr-angry.json](./77380-mr-angry.json) |
 | Mr. Ball | 232512 | [232512-mr-ball.json](./232512-mr-ball.json) |
 | Mr. Balls | 230677 | [230677-mr-balls.json](./230677-mr-balls.json) |
+| Mr. Barrel | 68218 | [68218-mr-barrel.json](./68218-mr-barrel.json) |
 | Mr. Bean Solitaire | 278219 | [278219-mr-bean-solitaire.json](./278219-mr-bean-solitaire.json) |
 | Mr. Bean: Special Delivery | 110284 | [110284-mr-bean-special-delivery.json](./110284-mr-bean-special-delivery.json) |
 | Mr. Bean's Wacky World | 50621 | [50621-mr-beans-wacky-world.json](./50621-mr-beans-wacky-world.json) |
@@ -21038,6 +21042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Final Cursed Days - Cursed Transformation Version | 336621 | [336621-my-final-cursed-days-cursed-transformation-version.json](./336621-my-final-cursed-days-cursed-transformation-version.json) |
 | My Fire Is Bigger Than Yours | 415798 | [415798-my-fire-is-bigger-than-yours.json](./415798-my-fire-is-bigger-than-yours.json) |
 | My Fire Station by Chocolapps | 108187 | [108187-my-fire-station-by-chocolapps.json](./108187-my-fire-station-by-chocolapps.json) |
+| My First Alphabet | 68787 | [68787-my-first-alphabet.json](./68787-my-first-alphabet.json) |
 | My First Amazing World Explorer | 61483 | [61483-my-first-amazing-world-explorer.json](./61483-my-first-amazing-world-explorer.json) |
 | My First Craft Survival | 259988 | [259988-my-first-craft-survival.json](./259988-my-first-craft-survival.json) |
 | My First Date RPG | 169431 | [169431-my-first-date-rpg.json](./169431-my-first-date-rpg.json) |
