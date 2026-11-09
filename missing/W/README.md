@@ -1243,6 +1243,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warchief | 140425 | [140425-warchief.json](./140425-warchief.json) |
 | Warcos | 185676 | [185676-warcos.json](./185676-warcos.json) |
 | Warcraft 2000: Nuclear Epidemic | 233549 | [233549-warcraft-2000-nuclear-epidemic.json](./233549-warcraft-2000-nuclear-epidemic.json) |
+| Warcraft Adventures: Lord of the Clans | 11704 | [11704-warcraft-adventures-lord-of-the-clans.json](./11704-warcraft-adventures-lord-of-the-clans.json) |
 | Warcraft I: Remastered | 322108 | [322108-warcraft-i-remastered.json](./322108-warcraft-i-remastered.json) |
 | Warcraft II: Battle.net Edition | 127782 | [127782-warcraft-ii-battle-net-edition.json](./127782-warcraft-ii-battle-net-edition.json) |
 | Warcraft II: Beyond the Dark Portal | 131 | [131-warcraft-ii-beyond-the-dark-portal.json](./131-warcraft-ii-beyond-the-dark-portal.json) |
@@ -2738,6 +2739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Waxweaver | 333997 | [333997-waxweaver.json](./333997-waxweaver.json) |
 | Waxwing | 294087 | [294087-waxwing.json](./294087-waxwing.json) |
 | Waxwing Radio | 298829 | [298829-waxwing-radio.json](./298829-waxwing-radio.json) |
+| Waxworks | 11728 | [11728-waxworks.json](./11728-waxworks.json) |
 | Waxworks | 24694 | [24694-waxworks.json](./24694-waxworks.json) |
 | Waxworks: Curse of the Ancestors | 126548 | [126548-waxworks-curse-of-the-ancestors.json](./126548-waxworks-curse-of-the-ancestors.json) |
 | Waxy: The Wick and The Witch | 378255 | [378255-waxy-the-wick-and-the-witch.json](./378255-waxy-the-wick-and-the-witch.json) |
