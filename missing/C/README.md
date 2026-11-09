@@ -7537,6 +7537,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken Invaders 4: Ultimate Omelette | 11716 | [11716-chicken-invaders-4-ultimate-omelette.json](./11716-chicken-invaders-4-ultimate-omelette.json) |
 | Chicken Invaders 5 Deluxe | 52743 | [52743-chicken-invaders-5-deluxe.json](./52743-chicken-invaders-5-deluxe.json) |
 | Chicken Invaders 5: Christmas Edition | 108464 | [108464-chicken-invaders-5-christmas-edition.json](./108464-chicken-invaders-5-christmas-edition.json) |
+| Chicken Invaders 5: Cluck of the Dark Side | 11717 | [11717-chicken-invaders-5-cluck-of-the-dark-side.json](./11717-chicken-invaders-5-cluck-of-the-dark-side.json) |
 | Chicken Invaders 5: Cluck of the Dark Side | 35692 | [35692-chicken-invaders-5-cluck-of-the-dark-side.json](./35692-chicken-invaders-5-cluck-of-the-dark-side.json) |
 | Chicken Invaders 5: Cluck of the Dark Side - Halloween Edition | 52742 | [52742-chicken-invaders-5-cluck-of-the-dark-side-halloween-edition.json](./52742-chicken-invaders-5-cluck-of-the-dark-side-halloween-edition.json) |
 | Chicken Invaders Universe | 144460 | [144460-chicken-invaders-universe.json](./144460-chicken-invaders-universe.json) |
@@ -13524,6 +13525,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Command & Conquer: The First Decade | 18165 | [18165-command-and-conquer-the-first-decade.json](./18165-command-and-conquer-the-first-decade.json) |
 | Command & Conquer: The Ultimate Collection | 50885 | [50885-command-and-conquer-the-ultimate-collection.json](./50885-command-and-conquer-the-ultimate-collection.json) |
 | Command & Control 3 | 150976 | [150976-command-and-control-3.json](./150976-command-and-control-3.json) |
+| Command Adventures: Starship | 11678 | [11678-command-adventures-starship.json](./11678-command-adventures-starship.json) |
 | Command and Conquer Map Pack | 273143 | [273143-command-and-conquer-map-pack.json](./273143-command-and-conquer-map-pack.json) |
 | Command and Destroy | 47887 | [47887-command-and-destroy.json](./47887-command-and-destroy.json) |
 | Command Ant Conquer | 176357 | [176357-command-ant-conquer.json](./176357-command-ant-conquer.json) |
@@ -13786,6 +13788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Compass of Dei Gratia: On the Fifth Day | 120502 | [120502-compass-of-dei-gratia-on-the-fifth-day.json](./120502-compass-of-dei-gratia-on-the-fifth-day.json) |
 | Compass of Destiny: Survivors | 369368 | [369368-compass-of-destiny-survivors.json](./369368-compass-of-destiny-survivors.json) |
 | Compass of the Destiny: Istanbul | 239794 | [239794-compass-of-the-destiny-istanbul.json](./239794-compass-of-the-destiny-istanbul.json) |
+| Compass Point: West | 11671 | [11671-compass-point-west.json](./11671-compass-point-west.json) |
 | Compass Rose | 124632 | [124632-compass-rose.json](./124632-compass-rose.json) |
 | Compassion | 179680 | [179680-compassion.json](./179680-compassion.json) |
 | Compassionate Simulation | 185910 | [185910-compassionate-simulation.json](./185910-compassionate-simulation.json) |
@@ -14199,6 +14202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Connect Master | 228115 | [228115-connect-master.json](./228115-connect-master.json) |
 | Connect Me | 360275 | [360275-connect-me.json](./360275-connect-me.json) |
 | Connect Pictures of Dog | 324989 | [324989-connect-pictures-of-dog.json](./324989-connect-pictures-of-dog.json) |
+| Connect Sheep | 11623 | [11623-connect-sheep.json](./11623-connect-sheep.json) |
 | Connect the Circuit 1000 | 328544 | [328544-connect-the-circuit-1000.json](./328544-connect-the-circuit-1000.json) |
 | Connect the Dots | 151551 | [151551-connect-the-dots.json](./151551-connect-the-dots.json) |
 | Connect the Dots | 356634 | [356634-connect-the-dots.json](./356634-connect-the-dots.json) |
@@ -18257,6 +18261,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Criminal Desires | 296767 | [296767-criminal-desires.json](./296767-criminal-desires.json) |
 | Criminal Dissidia | 154435 | [154435-criminal-dissidia.json](./154435-criminal-dissidia.json) |
 | Criminal Expert | 213796 | [213796-criminal-expert.json](./213796-criminal-expert.json) |
+| Criminal Girls | 11750 | [11750-criminal-girls.json](./11750-criminal-girls.json) |
+| Criminal Girls 2 | 11751 | [11751-criminal-girls-2.json](./11751-criminal-girls-2.json) |
 | Criminal Girls 2: Party Favors | 24195 | [24195-criminal-girls-2-party-favors.json](./24195-criminal-girls-2-party-favors.json) |
 | Criminal Girls: Invite Only | 11746 | [11746-criminal-girls-invite-only.json](./11746-criminal-girls-invite-only.json) |
 | Criminal Hearts: Obsession Bad Girls Dating Sim | 415387 | [415387-criminal-hearts-obsession-bad-girls-dating-sim.json](./415387-criminal-hearts-obsession-bad-girls-dating-sim.json) |
