@@ -2049,6 +2049,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garfield Kart: Furious Racing | 121230 | [121230-garfield-kart-furious-racing.json](./121230-garfield-kart-furious-racing.json) |
 | Garfield Labyrinth | 153452 | [153452-garfield-labyrinth.json](./153452-garfield-labyrinth.json) |
 | Garfield Rush | 130887 | [130887-garfield-rush.json](./130887-garfield-rush.json) |
+| Garfield Saves the Holidays | 58936 | [58936-garfield-saves-the-holidays.json](./58936-garfield-saves-the-holidays.json) |
 | Garfield Snack Time | 99217 | [99217-garfield-snack-time.json](./99217-garfield-snack-time.json) |
 | Garfield Tetris | 330030 | [330030-garfield-tetris.json](./330030-garfield-tetris.json) |
 | Garfield Trivia Game | 253795 | [253795-garfield-trivia-game.json](./253795-garfield-trivia-game.json) |
@@ -11642,6 +11643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gunstorm | 286251 | [286251-gunstorm.json](./286251-gunstorm.json) |
 | Gunstorm | 67061 | [67061-gunstorm.json](./67061-gunstorm.json) |
 | Gunstringer: Dead Man Running | 63918 | [63918-gunstringer-dead-man-running.json](./63918-gunstringer-dead-man-running.json) |
+| Gunsuit | 58934 | [58934-gunsuit.json](./58934-gunsuit.json) |
 | GunSuit Guardians | 241291 | [241291-gunsuit-guardians.json](./241291-gunsuit-guardians.json) |
 | Gunswitch | 306373 | [306373-gunswitch.json](./306373-gunswitch.json) |
 | Guntastic | 113024 | [113024-guntastic.json](./113024-guntastic.json) |
