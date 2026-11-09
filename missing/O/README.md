@@ -2462,6 +2462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | One Man Army VR | 89397 | [89397-one-man-army-vr.json](./89397-one-man-army-vr.json) |
 | One Man Football | 182175 | [182175-one-man-football.json](./182175-one-man-football.json) |
 | One Man in the Sky | 194050 | [194050-one-man-in-the-sky.json](./194050-one-man-in-the-sky.json) |
+| One Man Is Not No Man | 33234 | [33234-one-man-is-not-no-man.json](./33234-one-man-is-not-no-man.json) |
 | One Man's Shit: An Interactive Trash Adventure | 128638 | [128638-one-mans-shit-an-interactive-trash-adventure.json](./128638-one-mans-shit-an-interactive-trash-adventure.json) |
 | One Man's Trash | 343353 | [343353-one-mans-trash.json](./343353-one-mans-trash.json) |
 | One Man's War | 226716 | [226716-one-mans-war.json](./226716-one-mans-war.json) |
