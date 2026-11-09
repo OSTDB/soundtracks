@@ -1507,6 +1507,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Samurai Western | 43665 | [43665-samurai-western.json](./43665-samurai-western.json) |
 | Samurai Wish | 107890 | [107890-samurai-wish.json](./107890-samurai-wish.json) |
 | Samurai Zero | 139375 | [139375-samurai-zero.json](./139375-samurai-zero.json) |
+| Samurai-Ghost | 42119 | [42119-samurai-ghost.json](./42119-samurai-ghost.json) |
 | Samurai: Japan Warrior Fighter | 267869 | [267869-samurai-japan-warrior-fighter.json](./267869-samurai-japan-warrior-fighter.json) |
 | Samurai: Ronin's Path | 127764 | [127764-samurai-ronins-path.json](./127764-samurai-ronins-path.json) |
 | Samurai: The Rise of Worrior | 195412 | [195412-samurai-the-rise-of-worrior.json](./195412-samurai-the-rise-of-worrior.json) |
@@ -9287,6 +9288,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shockface | 418621 | [418621-shockface.json](./418621-shockface.json) |
 | Shocking Twist | 308261 | [308261-shocking-twist.json](./308261-shocking-twist.json) |
 | Shocklane | 176226 | [176226-shocklane.json](./176226-shocklane.json) |
+| Shockman | 42098 | [42098-shockman.json](./42098-shockman.json) |
 | Shockman Collection Vol. 1 | 289766 | [289766-shockman-collection-vol-1.json](./289766-shockman-collection-vol-1.json) |
 | Shockman Collection vol. 2 | 323117 | [323117-shockman-collection-vol-2.json](./323117-shockman-collection-vol-2.json) |
 | Shockwave | 48084 | [48084-shockwave.json](./48084-shockwave.json) |
