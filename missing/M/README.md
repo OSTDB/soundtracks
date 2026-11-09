@@ -873,6 +873,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mafia Thief | 277870 | [277870-mafia-thief.json](./277870-mafia-thief.json) |
 | Mafia Transporter 3D - Transportation Simulator for Mafia Racing Drivers 9+ | 88379 | [88379-mafia-transporter-3d-transportation-simulator-for-mafia-racing-drivers-9.json](./88379-mafia-transporter-3d-transportation-simulator-for-mafia-racing-drivers-9.json) |
 | Mafia Wars | 52206 | [52206-mafia-wars.json](./52206-mafia-wars.json) |
+| Mafia Wars 2 | 65632 | [65632-mafia-wars-2.json](./65632-mafia-wars-2.json) |
 | Mafia Wars Shakedown | 65555 | [65555-mafia-wars-shakedown.json](./65555-mafia-wars-shakedown.json) |
 | Mafia Wars: Yakuza | 319171 | [319171-mafia-wars-yakuza.json](./319171-mafia-wars-yakuza.json) |
 | Mafia World: Bloody War | 214057 | [214057-mafia-world-bloody-war.json](./214057-mafia-world-bloody-war.json) |
@@ -2921,6 +2922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MAMH | 252919 | [252919-mamh.json](./252919-mamh.json) |
 | Mami no Doki-doki Tiro Finale | 56758 | [56758-mami-no-doki-doki-tiro-finale.json](./56758-mami-no-doki-doki-tiro-finale.json) |
 | Mami no Doki-doki Tiro Finale | 56759 | [56759-mami-no-doki-doki-tiro-finale.json](./56759-mami-no-doki-doki-tiro-finale.json) |
+| Mamirin | 65618 | [65618-mamirin.json](./65618-mamirin.json) |
 | Mamiya | 145621 | [145621-mamiya.json](./145621-mamiya.json) |
 | Mamiya: Complete Collection | 405491 | [405491-mamiya-complete-collection.json](./405491-mamiya-complete-collection.json) |
 | Mamiya: DoomsDayDreams | 277669 | [277669-mamiya-doomsdaydreams.json](./277669-mamiya-doomsdaydreams.json) |
