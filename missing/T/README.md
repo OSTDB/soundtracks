@@ -466,6 +466,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tagablock | 414704 | [414704-tagablock.json](./414704-tagablock.json) |
 | Tagalon | 362471 | [362471-tagalon.json](./362471-tagalon.json) |
 | TAGAP 2: The Apocalyptic Game About Penguins | 63087 | [63087-tagap-2-the-apocalyptic-game-about-penguins.json](./63087-tagap-2-the-apocalyptic-game-about-penguins.json) |
+| TAGAP 3: The Apocalyptic Game About Penguins 3 | 77511 | [77511-tagap-3-the-apocalyptic-game-about-penguins-3.json](./77511-tagap-3-the-apocalyptic-game-about-penguins-3.json) |
 | TAGAP 4 | 321139 | [321139-tagap-4.json](./321139-tagap-4.json) |
 | TAGAP: The Apocalyptic Game About Penguins | 79671 | [79671-tagap-the-apocalyptic-game-about-penguins.json](./79671-tagap-the-apocalyptic-game-about-penguins.json) |
 | Tagger Mascot | 244862 | [244862-tagger-mascot.json](./244862-tagger-mascot.json) |
@@ -2092,6 +2093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tankorama | 115943 | [115943-tankorama.json](./115943-tankorama.json) |
 | TankOre Mining | 333030 | [333030-tankore-mining.json](./333030-tankore-mining.json) |
 | Tankout | 29432 | [29432-tankout.json](./29432-tankout.json) |
+| TankPit | 77557 | [77557-tankpit.json](./77557-tankpit.json) |
 | Tankr.io Realtime Battle | 107548 | [107548-tankr-io-realtime-battle.json](./107548-tankr-io-realtime-battle.json) |
 | TankRat | 381208 | [381208-tankrat.json](./381208-tankrat.json) |
 | Tankron | 215883 | [215883-tankron.json](./215883-tankron.json) |
@@ -33808,6 +33810,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tuscany Hotel | 106759 | [106759-tuscany-hotel.json](./106759-tuscany-hotel.json) |
 | Tusk of Spirit | 157358 | [157358-tusk-of-spirit.json](./157358-tusk-of-spirit.json) |
 | Tusker's Number Adventure | 124354 | [124354-tuskers-number-adventure.json](./124354-tuskers-number-adventure.json) |
+| Tusks: The Orc Dating Sim | 77532 | [77532-tusks-the-orc-dating-sim.json](./77532-tusks-the-orc-dating-sim.json) |
 | Tusmo | 193528 | [193528-tusmo.json](./193528-tusmo.json) |
 | Tusmox | 381412 | [381412-tusmox.json](./381412-tusmox.json) |
 | Tussle Works | 422050 | [422050-tussle-works.json](./422050-tussle-works.json) |
