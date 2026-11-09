@@ -328,6 +328,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zap Blastum | 113126 | [113126-zap-blastum.json](./113126-zap-blastum.json) |
 | Zap Dem Rats | 195194 | [195194-zap-dem-rats.json](./195194-zap-dem-rats.json) |
 | Zap Line : Connect the Ends Puzzle Game | 105915 | [105915-zap-line-connect-the-ends-puzzle-game.json](./105915-zap-line-connect-the-ends-puzzle-game.json) |
+| ZAP Master | 52073 | [52073-zap-master.json](./52073-zap-master.json) |
 | Zap to It! | 234893 | [234893-zap-to-it.json](./234893-zap-to-it.json) |
 | Zap Zap Zombie Cats | 99065 | [99065-zap-zap-zombie-cats.json](./99065-zap-zap-zombie-cats.json) |
 | Zap Zone | 30111 | [30111-zap-zone.json](./30111-zap-zone.json) |
@@ -2047,6 +2048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zombie vs. Human | 177026 | [177026-zombie-vs-human.json](./177026-zombie-vs-human.json) |
 | Zombie vs. Police | 192433 | [192433-zombie-vs-police.json](./192433-zombie-vs-police.json) |
 | Zombie vs. Sniper | 297016 | [297016-zombie-vs-sniper.json](./297016-zombie-vs-sniper.json) |
+| Zombie Waiting | 52075 | [52075-zombie-waiting.json](./52075-zombie-waiting.json) |
 | Zombie Walking: VIP | 95827 | [95827-zombie-walking-vip.json](./95827-zombie-walking-vip.json) |
 | Zombie War | 187378 | [187378-zombie-war.json](./187378-zombie-war.json) |
 | Zombie War | 411138 | [411138-zombie-war.json](./411138-zombie-war.json) |
