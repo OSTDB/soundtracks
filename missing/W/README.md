@@ -987,6 +987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of Nations | 323324 | [323324-war-of-nations.json](./323324-war-of-nations.json) |
 | War of Nerves! | 18826 | [18826-war-of-nerves.json](./18826-war-of-nerves.json) |
 | War of Ninja | 105728 | [105728-war-of-ninja.json](./105728-war-of-ninja.json) |
+| War of Omens | 62369 | [62369-war-of-omens.json](./62369-war-of-omens.json) |
 | War of Power: The Last Fight | 115371 | [115371-war-of-power-the-last-fight.json](./115371-war-of-power-the-last-fight.json) |
 | War of Rights | 33953 | [33953-war-of-rights.json](./33953-war-of-rights.json) |
 | War of Roses | 177506 | [177506-war-of-roses.json](./177506-war-of-roses.json) |
@@ -3919,6 +3920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | What Remains | 260665 | [260665-what-remains.json](./260665-what-remains.json) |
 | What Remains | 318969 | [318969-what-remains.json](./318969-what-remains.json) |
 | What Remains of Us | 256288 | [256288-what-remains-of-us.json](./256288-what-remains-of-us.json) |
+| What She Didn't Say | 62366 | [62366-what-she-didnt-say.json](./62366-what-she-didnt-say.json) |
 | What Should I Eat | 360853 | [360853-what-should-i-eat.json](./360853-what-should-i-eat.json) |
 | What Surrounds Us | 390367 | [390367-what-surrounds-us.json](./390367-what-surrounds-us.json) |
 | What the Bat?: Batty Goes to Battywood | 306932 | [306932-what-the-bat-batty-goes-to-battywood.json](./306932-what-the-bat-batty-goes-to-battywood.json) |
@@ -5818,6 +5820,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Windborn: Concrete Jungle | 340746 | [340746-windborn-concrete-jungle.json](./340746-windborn-concrete-jungle.json) |
 | Windborn: Journey to the South | 328982 | [328982-windborn-journey-to-the-south.json](./328982-windborn-journey-to-the-south.json) |
 | Windborn: Wings of Fate | 329435 | [329435-windborn-wings-of-fate.json](./329435-windborn-wings-of-fate.json) |
+| Windborne | 62848 | [62848-windborne.json](./62848-windborne.json) |
 | Windchaser | 50435 | [50435-windchaser.json](./50435-windchaser.json) |
 | Windchaser: Guilds of Glory | 69139 | [69139-windchaser-guilds-of-glory.json](./69139-windchaser-guilds-of-glory.json) |
 | WinDepth | 314455 | [314455-windepth.json](./314455-windepth.json) |
