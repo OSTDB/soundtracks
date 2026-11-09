@@ -2795,6 +2795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Way Out | 84080 | [84080-way-out.json](./84080-way-out.json) |
 | Way to a Vampire's Heart | 223845 | [223845-way-to-a-vampires-heart.json](./223845-way-to-a-vampires-heart.json) |
 | Way To Fall | 282247 | [282247-way-to-fall.json](./282247-way-to-fall.json) |
+| Way to Go! | 36075 | [36075-way-to-go.json](./36075-way-to-go.json) |
 | Way to Go! Bowling | 205893 | [205893-way-to-go-bowling.json](./205893-way-to-go-bowling.json) |
 | Way to the Cake | 207459 | [207459-way-to-the-cake.json](./207459-way-to-the-cake.json) |
 | Way to the Light | 267786 | [267786-way-to-the-light.json](./267786-way-to-the-light.json) |
@@ -5597,6 +5598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wildlife Park Tycoon | 25462 | [25462-wildlife-park-tycoon.json](./25462-wildlife-park-tycoon.json) |
 | Wildlife Park: 15 Years Anniversary Trilogy | 136379 | [136379-wildlife-park-15-years-anniversary-trilogy.json](./136379-wildlife-park-15-years-anniversary-trilogy.json) |
 | Wildlife Park: Primeval | 87537 | [87537-wildlife-park-primeval.json](./87537-wildlife-park-primeval.json) |
+| Wildlife Park: Wild Creatures | 36056 | [36056-wildlife-park-wild-creatures.json](./36056-wildlife-park-wild-creatures.json) |
 | Wildlife Planet: The Incremental | 197188 | [197188-wildlife-planet-the-incremental.json](./197188-wildlife-planet-the-incremental.json) |
 | Wildlife Rescue Simulator | 287695 | [287695-wildlife-rescue-simulator.json](./287695-wildlife-rescue-simulator.json) |
 | Wildlife Simulator: Bear | 86905 | [86905-wildlife-simulator-bear.json](./86905-wildlife-simulator-bear.json) |
