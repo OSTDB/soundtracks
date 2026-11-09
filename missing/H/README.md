@@ -2308,6 +2308,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harry Potter and the Sorcerer's Stone: Third-Floor Corridor Challenge | 266498 | [266498-harry-potter-and-the-sorcerers-stone-third-floor-corridor-challenge.json](./266498-harry-potter-and-the-sorcerers-stone-third-floor-corridor-challenge.json) |
 | Harry Potter Book of Spells | 198753 | [198753-harry-potter-book-of-spells.json](./198753-harry-potter-book-of-spells.json) |
 | Harry Potter Collection | 286660 | [286660-harry-potter-collection.json](./286660-harry-potter-collection.json) |
+| Harry Potter Collection | 49468 | [49468-harry-potter-collection.json](./49468-harry-potter-collection.json) |
 | Harry Potter DVD Game: Wizarding World | 266196 | [266196-harry-potter-dvd-game-wizarding-world.json](./266196-harry-potter-dvd-game-wizarding-world.json) |
 | Harry Potter Fluffy Action Game | 198754 | [198754-harry-potter-fluffy-action-game.json](./198754-harry-potter-fluffy-action-game.json) |
 | Harry Potter for Kinect | 20743 | [20743-harry-potter-for-kinect.json](./20743-harry-potter-for-kinect.json) |
@@ -11965,6 +11966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hugo: Black Diamond Fever | 230878 | [230878-hugo-black-diamond-fever.json](./230878-hugo-black-diamond-fever.json) |
 | Hugo: Black Diamond Fever | 23556 | [23556-hugo-black-diamond-fever.json](./23556-hugo-black-diamond-fever.json) |
 | Hugo: Bukkazoom | 165052 | [165052-hugo-bukkazoom.json](./165052-hugo-bukkazoom.json) |
+| Hugo: Bukkazoom | 49423 | [49423-hugo-bukkazoom.json](./49423-hugo-bukkazoom.json) |
 | Hugo: Cannon Cruise | 43547 | [43547-hugo-cannon-cruise.json](./43547-hugo-cannon-cruise.json) |
 | Hugo: De Første Tegn | 301394 | [301394-hugo-de-f-rste-tegn.json](./301394-hugo-de-f-rste-tegn.json) |
 | Hugo: den forsvundne kæmpe | 352310 | [352310-hugo-den-forsvundne-k-mpe.json](./352310-hugo-den-forsvundne-k-mpe.json) |
