@@ -3154,6 +3154,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bases Loaded | 242041 | [242041-bases-loaded.json](./242041-bases-loaded.json) |
 | Bases Loaded | 7764 | [7764-bases-loaded.json](./7764-bases-loaded.json) |
 | Bases Loaded '96: Double Header | 46099 | [46099-bases-loaded-96-double-header.json](./46099-bases-loaded-96-double-header.json) |
+| Bases Loaded 4 | 10257 | [10257-bases-loaded-4.json](./10257-bases-loaded-4.json) |
 | Bases Loaded for Game Boy | 273096 | [273096-bases-loaded-for-game-boy.json](./273096-bases-loaded-for-game-boy.json) |
 | Bash Arena | 233450 | [233450-bash-arena.json](./233450-bash-arena.json) |
 | Bash It! | 252150 | [252150-bash-it.json](./252150-bash-it.json) |
@@ -16850,6 +16851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brunilda | 182334 | [182334-brunilda.json](./182334-brunilda.json) |
 | Bruno Mars Revenge | 92373 | [92373-bruno-mars-revenge.json](./92373-bruno-mars-revenge.json) |
 | Bruno: Lost In Nightmares | 301080 | [301080-bruno-lost-in-nightmares.json](./301080-bruno-lost-in-nightmares.json) |
+| Brunswick Circuit Pro Bowling | 10607 | [10607-brunswick-circuit-pro-bowling.json](./10607-brunswick-circuit-pro-bowling.json) |
 | Brunswick Circuit Pro Bowling 2 | 66023 | [66023-brunswick-circuit-pro-bowling-2.json](./66023-brunswick-circuit-pro-bowling-2.json) |
 | Brunswick Pro Billiards | 147954 | [147954-brunswick-pro-billiards.json](./147954-brunswick-pro-billiards.json) |
 | Brunswick Pro Bowling | 4731 | [4731-brunswick-pro-bowling.json](./4731-brunswick-pro-bowling.json) |
