@@ -1532,6 +1532,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Last Protection | 122374 | [122374-last-protection.json](./122374-last-protection.json) |
 | Last Question | 334920 | [334920-last-question.json](./334920-last-question.json) |
 | Last Ranger | 418213 | [418213-last-ranger.json](./418213-last-ranger.json) |
+| Last Ranker | 38461 | [38461-last-ranker.json](./38461-last-ranker.json) |
 | Last Rebellion | 7363 | [7363-last-rebellion.json](./7363-last-rebellion.json) |
 | Last Regiment | 119908 | [119908-last-regiment.json](./119908-last-regiment.json) |
 | Last Remains | 249467 | [249467-last-remains.json](./249467-last-remains.json) |
@@ -6992,6 +6993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lock n Drop Bracket Racing | 289786 | [289786-lock-n-drop-bracket-racing.json](./289786-lock-n-drop-bracket-racing.json) |
 | Lock N' Load | 94929 | [94929-lock-n-load.json](./94929-lock-n-load.json) |
 | Lock On | 335708 | [335708-lock-on.json](./335708-lock-on.json) |
+| Lock On | 38430 | [38430-lock-on.json](./38430-lock-on.json) |
 | Lock on: Flaming Cliffs 3 | 63815 | [63815-lock-on-flaming-cliffs-3.json](./63815-lock-on-flaming-cliffs-3.json) |
 | Lock On: Modern Air Combat | 10201 | [10201-lock-on-modern-air-combat.json](./10201-lock-on-modern-air-combat.json) |
 | Lock Parsing | 81930 | [81930-lock-parsing.json](./81930-lock-parsing.json) |
