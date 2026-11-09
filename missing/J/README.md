@@ -2261,6 +2261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jiří Kára Simulátor | 384219 | [384219-jiri-kara-simulator.json](./384219-jiri-kara-simulator.json) |
 | Jisatsu | 278971 | [278971-jisatsu.json](./278971-jisatsu.json) |
 | Jisedai Begoma Battle Beyblade | 65708 | [65708-jisedai-begoma-battle-beyblade.json](./65708-jisedai-begoma-battle-beyblade.json) |
+| Jisei | 62865 | [62865-jisei.json](./62865-jisei.json) |
 | Jisei: The First Case HD | 147719 | [147719-jisei-the-first-case-hd.json](./147719-jisei-the-first-case-hd.json) |
 | Jishogi | 199614 | [199614-jishogi.json](./199614-jishogi.json) |
 | Jishou no Chihei Mendako | 150238 | [150238-jishou-no-chihei-mendako.json](./150238-jishou-no-chihei-mendako.json) |
