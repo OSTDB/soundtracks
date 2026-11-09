@@ -4071,6 +4071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Howl | 394487 | [394487-red-howl.json](./394487-red-howl.json) |
 | Red Impact | 274302 | [274302-red-impact.json](./274302-red-impact.json) |
 | Red Imposter | 349926 | [349926-red-imposter.json](./349926-red-imposter.json) |
+| Red is Dead | 32020 | [32020-red-is-dead.json](./32020-red-is-dead.json) |
 | Red Island | 120393 | [120393-red-island.json](./120393-red-island.json) |
 | Red Jets | 209254 | [209254-red-jets.json](./209254-red-jets.json) |
 | Red Johnson's Chronicles 1+2 | 186974 | [186974-red-johnsons-chronicles-1-2.json](./186974-red-johnsons-chronicles-1-2.json) |
@@ -4471,6 +4472,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Redviil | 114970 | [114970-redviil.json](./114970-redviil.json) |
 | Redwood Falls | 62854 | [62854-redwood-falls.json](./62854-redwood-falls.json) |
 | ReEarth | 309689 | [309689-reearth.json](./309689-reearth.json) |
+| Reed | 32063 | [32063-reed.json](./32063-reed.json) |
 | Reed ^_^ | 91141 | [91141-reed.json](./91141-reed.json) |
 | Reed 2 | 134012 | [134012-reed-2.json](./134012-reed-2.json) |
 | Reed Collection | 221993 | [221993-reed-collection.json](./221993-reed-collection.json) |
@@ -8923,6 +8925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roadwars | 12843 | [12843-roadwars.json](./12843-roadwars.json) |
 | Roadwars | 95398 | [95398-roadwars.json](./95398-roadwars.json) |
 | Roadway Traffic Racer | 292327 | [292327-roadway-traffic-racer.json](./292327-roadway-traffic-racer.json) |
+| Roadworks - The Simulation | 32043 | [32043-roadworks-the-simulation.json](./32043-roadworks-the-simulation.json) |
 | Roadworks 2 | 189298 | [189298-roadworks-2.json](./189298-roadworks-2.json) |
 | Roadworks Simulator | 33310 | [33310-roadworks-simulator.json](./33310-roadworks-simulator.json) |
 | Roah | 114892 | [114892-roah.json](./114892-roah.json) |
