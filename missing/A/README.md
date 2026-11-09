@@ -2894,6 +2894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Acid Reflux | 274437 | [274437-acid-reflux.json](./274437-acid-reflux.json) |
 | Acid Runner | 41206 | [41206-acid-runner.json](./41206-acid-runner.json) |
 | Acid Spy | 102877 | [102877-acid-spy.json](./102877-acid-spy.json) |
+| Acid Tetris | 73215 | [73215-acid-tetris.json](./73215-acid-tetris.json) |
 | Acid Trip | 188900 | [188900-acid-trip.json](./188900-acid-trip.json) |
 | Acid Web | 327450 | [327450-acid-web.json](./327450-acid-web.json) |
 | Acid Worship | 271740 | [271740-acid-worship.json](./271740-acid-worship.json) |
@@ -8054,6 +8055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alphabet ABC | 101189 | [101189-alphabet-abc.json](./101189-alphabet-abc.json) |
 | Alphabet Blocks | 66549 | [66549-alphabet-blocks.json](./66549-alphabet-blocks.json) |
 | Alphabet Express | 206656 | [206656-alphabet-express.json](./206656-alphabet-express.json) |
+| Alphabet Express Preschool | 73377 | [73377-alphabet-express-preschool.json](./73377-alphabet-express-preschool.json) |
 | Alphabet Hero | 379600 | [379600-alphabet-hero.json](./379600-alphabet-hero.json) |
 | Alphabet Jump | 112452 | [112452-alphabet-jump.json](./112452-alphabet-jump.json) |
 | Alphabet Memory Match | 108476 | [108476-alphabet-memory-match.json](./108476-alphabet-memory-match.json) |
@@ -9028,6 +9030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amidst The Haze | 278677 | [278677-amidst-the-haze.json](./278677-amidst-the-haze.json) |
 | Amiga CD Football | 39037 | [39037-amiga-cd-football.json](./39037-amiga-cd-football.json) |
 | Amiga Classix 3 | 70939 | [70939-amiga-classix-3.json](./70939-amiga-classix-3.json) |
+| Amiga Classix 4 | 73411 | [73411-amiga-classix-4.json](./73411-amiga-classix-4.json) |
 | Amiga Encounter | 76230 | [76230-amiga-encounter.json](./76230-amiga-encounter.json) |
 | Amiga Poker | 76231 | [76231-amiga-poker.json](./76231-amiga-poker.json) |
 | Amiga Power Coverdisk 21 | 93413 | [93413-amiga-power-coverdisk-21.json](./93413-amiga-power-coverdisk-21.json) |
@@ -17195,7 +17198,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
