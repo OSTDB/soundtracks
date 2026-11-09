@@ -13527,6 +13527,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Community Garden | 68589 | [68589-community-garden.json](./68589-community-garden.json) |
 | Community Helpers Play & Learn | 88999 | [88999-community-helpers-play-and-learn.json](./88999-community-helpers-play-and-learn.json) |
 | Community Inc | 40546 | [40546-community-inc.json](./40546-community-inc.json) |
+| Community Pom | 62873 | [62873-community-pom.json](./62873-community-pom.json) |
 | CommunityUs | 117570 | [117570-communityus.json](./117570-communityus.json) |
 | Commutator | 393758 | [393758-commutator.json](./393758-commutator.json) |
 | Commute | 135279 | [135279-commute.json](./135279-commute.json) |
@@ -13686,6 +13687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Computer Mechanic Simulator 2019 | 114101 | [114101-computer-mechanic-simulator-2019.json](./114101-computer-mechanic-simulator-2019.json) |
 | Computer Nouryoku Kaiseki: Ultra Baken | 38148 | [38148-computer-nouryoku-kaiseki-ultra-baken.json](./38148-computer-nouryoku-kaiseki-ultra-baken.json) |
 | Computer Othello | 242573 | [242573-computer-othello.json](./242573-computer-othello.json) |
+| Computer Othello | 62857 | [62857-computer-othello.json](./62857-computer-othello.json) |
 | Computer Physics Simulator 2020 | 132008 | [132008-computer-physics-simulator-2020.json](./132008-computer-physics-simulator-2020.json) |
 | Computer Physics Simulator 2023 | 221137 | [221137-computer-physics-simulator-2023.json](./221137-computer-physics-simulator-2023.json) |
 | Computer Quarterback | 25128 | [25128-computer-quarterback.json](./25128-computer-quarterback.json) |
