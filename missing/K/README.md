@@ -303,6 +303,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kain Cobra: Autogun Blaster | 307205 | [307205-kain-cobra-autogun-blaster.json](./307205-kain-cobra-autogun-blaster.json) |
 | Kainga | 132462 | [132462-kainga.json](./132462-kainga.json) |
 | Kainga: Collector's Edition | 243803 | [243803-kainga-collectors-edition.json](./243803-kainga-collectors-edition.json) |
+| Kaio: King of Pirates | 65616 | [65616-kaio-king-of-pirates.json](./65616-kaio-king-of-pirates.json) |
 | Kaion Tale | 133046 | [133046-kaion-tale.json](./133046-kaion-tale.json) |
 | Kairai Inn | 264159 | [264159-kairai-inn.json](./264159-kairai-inn.json) |
 | Kairai Kiniki | 279984 | [279984-kairai-kiniki.json](./279984-kairai-kiniki.json) |
@@ -2895,7 +2896,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3804,6 +3804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kinnikuman II: Tatakae! Ramenman | 346032 | [346032-kinnikuman-ii-tatakae-ramenman.json](./346032-kinnikuman-ii-tatakae-ramenman.json) |
 | Kinnikuman III: Ougon no Mask-hen | 346034 | [346034-kinnikuman-iii-ougon-no-mask-hen.json](./346034-kinnikuman-iii-ougon-no-mask-hen.json) |
 | Kinnikuman Muscle Fight | 242856 | [242856-kinnikuman-muscle-fight.json](./242856-kinnikuman-muscle-fight.json) |
+| Kinnikuman Muscle Grand Prix 2 | 65648 | [65648-kinnikuman-muscle-grand-prix-2.json](./65648-kinnikuman-muscle-grand-prix-2.json) |
 | Kinnikuman Muscle Grand Prix Max | 66662 | [66662-kinnikuman-muscle-grand-prix-max.json](./66662-kinnikuman-muscle-grand-prix-max.json) |
 | Kinnikuman Muscle Grand Prix Max 2: Tokumori | 242912 | [242912-kinnikuman-muscle-grand-prix-max-2-tokumori.json](./242912-kinnikuman-muscle-grand-prix-max-2-tokumori.json) |
 | Kinnikuman Muscle Grand Prix Max 2: Tokumori | 65999 | [65999-kinnikuman-muscle-grand-prix-max-2-tokumori.json](./65999-kinnikuman-muscle-grand-prix-max-2-tokumori.json) |
@@ -6170,6 +6171,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kukumushi Virtual Pet | 189134 | [189134-kukumushi-virtual-pet.json](./189134-kukumushi-virtual-pet.json) |
 | Kuky Adventure | 388286 | [388286-kuky-adventure.json](./388286-kuky-adventure.json) |
 | Kula | 164992 | [164992-kula.json](./164992-kula.json) |
+| Kula Blox | 65614 | [65614-kula-blox.json](./65614-kula-blox.json) |
 | Kula Collection | 403969 | [403969-kula-collection.json](./403969-kula-collection.json) |
 | Kulan | 149749 | [149749-kulan.json](./149749-kulan.json) |
 | Kulebra and the Souls of Limbo | 204533 | [204533-kulebra-and-the-souls-of-limbo.json](./204533-kulebra-and-the-souls-of-limbo.json) |
