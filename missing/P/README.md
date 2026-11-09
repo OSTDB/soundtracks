@@ -4521,6 +4521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Perfect Dark Zero: Collector's Edition | 41596 | [41596-perfect-dark-zero-collectors-edition.json](./41596-perfect-dark-zero-collectors-edition.json) |
 | Perfect Date HD | 425214 | [425214-perfect-date-hd.json](./425214-perfect-date-hd.json) |
 | Perfect Day | 176629 | [176629-perfect-day.json](./176629-perfect-day.json) |
+| Perfect Dead | 74599 | [74599-perfect-dead.json](./74599-perfect-dead.json) |
 | Perfect Decision | 168704 | [168704-perfect-decision.json](./168704-perfect-decision.json) |
 | Perfect Dice | 247933 | [247933-perfect-dice.json](./247933-perfect-dice.json) |
 | Perfect Fit | 243698 | [243698-perfect-fit.json](./243698-perfect-fit.json) |
@@ -8953,6 +8954,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pixelo | 235094 | [235094-pixelo.json](./235094-pixelo.json) |
 | Pixeloids | 32373 | [32373-pixeloids.json](./32373-pixeloids.json) |
 | PixelOrb | 184302 | [184302-pixelorb.json](./184302-pixelorb.json) |
+| Pixelord | 74657 | [74657-pixelord.json](./74657-pixelord.json) |
 | Pixelords | 406208 | [406208-pixelords.json](./406208-pixelords.json) |
 | Pixelplace.io | 137666 | [137666-pixelplace-io.json](./137666-pixelplace-io.json) |
 | PixelPlanet.fun | 125561 | [125561-pixelplanet-fun.json](./125561-pixelplanet-fun.json) |
@@ -16562,6 +16564,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Restoration | 184397 | [184397-project-restoration.json](./184397-project-restoration.json) |
 | Project Retro Ninja | 179409 | [179409-project-retro-ninja.json](./179409-project-retro-ninja.json) |
 | Project Revenant | 368793 | [368793-project-revenant.json](./368793-project-revenant.json) |
+| Project Rhombus | 74633 | [74633-project-rhombus.json](./74633-project-rhombus.json) |
 | Project RIP | 121495 | [121495-project-rip.json](./121495-project-rip.json) |
 | Project RIP Mobile | 174785 | [174785-project-rip-mobile.json](./174785-project-rip-mobile.json) |
 | Project Rocket: Invasion Resurgence | 297188 | [297188-project-rocket-invasion-resurgence.json](./297188-project-rocket-invasion-resurgence.json) |
@@ -17064,6 +17067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Protect Gloobi | 373286 | [373286-protect-gloobi.json](./373286-protect-gloobi.json) |
 | Protect Grass | 127593 | [127593-protect-grass.json](./127593-protect-grass.json) |
 | Protect Harem City | 220654 | [220654-protect-harem-city.json](./220654-protect-harem-city.json) |
+| Protect Me | 74645 | [74645-protect-me.json](./74645-protect-me.json) |
 | Protect Me Knight | 22479 | [22479-protect-me-knight.json](./22479-protect-me-knight.json) |
 | Protect Mother | 241631 | [241631-protect-mother.json](./241631-protect-mother.json) |
 | Protect My Cheese | 219642 | [219642-protect-my-cheese.json](./219642-protect-my-cheese.json) |
