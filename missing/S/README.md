@@ -11089,6 +11089,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silver Creek Falls: Chapter 2 | 34429 | [34429-silver-creek-falls-chapter-2.json](./34429-silver-creek-falls-chapter-2.json) |
 | Silver Creek Falls: Chapter 3 | 33534 | [33534-silver-creek-falls-chapter-3.json](./33534-silver-creek-falls-chapter-3.json) |
 | Silver Daze | 337847 | [337847-silver-daze.json](./337847-silver-daze.json) |
+| Silver Eagle | 48733 | [48733-silver-eagle.json](./48733-silver-eagle.json) |
 | Silver Edge | 261107 | [261107-silver-edge.json](./261107-silver-edge.json) |
 | Silver Falls Episode Prelude | 187620 | [187620-silver-falls-episode-prelude.json](./187620-silver-falls-episode-prelude.json) |
 | Silver Falls Mini: Monsters In North Island | 307177 | [307177-silver-falls-mini-monsters-in-north-island.json](./307177-silver-falls-mini-monsters-in-north-island.json) |
@@ -31639,6 +31640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Basketball AR | 107005 | [107005-super-basketball-ar.json](./107005-super-basketball-ar.json) |
 | Super Basketball Classics | 394311 | [394311-super-basketball-classics.json](./394311-super-basketball-classics.json) |
 | Super Bass Fishing | 380802 | [380802-super-bass-fishing.json](./380802-super-bass-fishing.json) |
+| Super Bat Puncher | 48369 | [48369-super-bat-puncher.json](./48369-super-bat-puncher.json) |
 | Super Battle Cards | 147615 | [147615-super-battle-cards.json](./147615-super-battle-cards.json) |
 | Super Battle Golf | 387070 | [387070-super-battle-golf.json](./387070-super-battle-golf.json) |
 | Super Battle Golf: Attack on City | 410350 | [410350-super-battle-golf-attack-on-city.json](./410350-super-battle-golf-attack-on-city.json) |
