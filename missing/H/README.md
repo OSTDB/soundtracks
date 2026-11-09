@@ -12804,6 +12804,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hymn: A Heretic Community Project | 262180 | [262180-hymn-a-heretic-community-project.json](./262180-hymn-a-heretic-community-project.json) |
 | Hymns of Resurrection | 190785 | [190785-hymns-of-resurrection.json](./190785-hymns-of-resurrection.json) |
 | Hynpytol | 261397 | [261397-hynpytol.json](./261397-hynpytol.json) |
+| Hyokkori Hyoutan-jima: Daitouryou wo Mezase! | 46070 | [46070-hyokkori-hyoutan-jima-daitouryou-wo-mezase.json](./46070-hyokkori-hyoutan-jima-daitouryou-wo-mezase.json) |
 | Hyokkori Hyoutan-jima: Hyoutan-jima no Daikoukai | 46312 | [46312-hyokkori-hyoutan-jima-hyoutan-jima-no-daikoukai.json](./46312-hyokkori-hyoutan-jima-hyoutan-jima-no-daikoukai.json) |
 | Hyokkori Hyoutan-jima: Nazo no Kaizokusen | 48755 | [48755-hyokkori-hyoutan-jima-nazo-no-kaizokusen.json](./48755-hyokkori-hyoutan-jima-nazo-no-kaizokusen.json) |
 | Hyokkori Hyoutan-jima: Takaramono Tocchae! | 346028 | [346028-hyokkori-hyoutan-jima-takaramono-tocchae.json](./346028-hyokkori-hyoutan-jima-takaramono-tocchae.json) |
