@@ -2482,6 +2482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kidz Bop Dance Party: The Video Game | 23668 | [23668-kidz-bop-dance-party-the-video-game.json](./23668-kidz-bop-dance-party-the-video-game.json) |
 | Kidz Bop Dance Party! | 208325 | [208325-kidz-bop-dance-party.json](./208325-kidz-bop-dance-party.json) |
 | Kidz Sports Basketball | 4954 | [4954-kidz-sports-basketball.json](./4954-kidz-sports-basketball.json) |
+| Kidz Sports Crazy Golf | 50652 | [50652-kidz-sports-crazy-golf.json](./50652-kidz-sports-crazy-golf.json) |
 | Kidz Sports International Football | 4957 | [4957-kidz-sports-international-football.json](./4957-kidz-sports-international-football.json) |
 | Kidz Sports: Baseball | 67838 | [67838-kidz-sports-baseball.json](./67838-kidz-sports-baseball.json) |
 | Kidz Sports: Ice Hockey | 51069 | [51069-kidz-sports-ice-hockey.json](./51069-kidz-sports-ice-hockey.json) |
@@ -2906,7 +2907,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -6572,6 +6572,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kyle Simulator | 120133 | [120133-kyle-simulator.json](./120133-kyle-simulator.json) |
 | Kyle's Monster Adventure | 180696 | [180696-kyles-monster-adventure.json](./180696-kyles-monster-adventure.json) |
 | Kylie Minogue: Breathe (1998).mp3 | 287876 | [287876-kylie-minogue-breathe-1998-mp3.json](./287876-kylie-minogue-breathe-1998-mp3.json) |
+| Kylie Sing & Dance | 50671 | [50671-kylie-sing-and-dance.json](./50671-kylie-sing-and-dance.json) |
 | KYM-tan Shoots Things | 198387 | [198387-kym-tan-shoots-things.json](./198387-kym-tan-shoots-things.json) |
 | Kyma | 149381 | [149381-kyma.json](./149381-kyma.json) |
 | Kyn | 11451 | [11451-kyn.json](./11451-kyn.json) |
