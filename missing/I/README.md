@@ -6939,6 +6939,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | It’s on the Mouse | 328244 | [328244-it-s-on-the-mouse.json](./328244-it-s-on-the-mouse.json) |
 | It's on You | 187006 | [187006-its-on-you.json](./187006-its-on-you.json) |
 | It's Only Money | 215586 | [215586-its-only-money.json](./215586-its-only-money.json) |
+| It's Only Rock 'N Roll | 40892 | [40892-its-only-rock-n-roll.json](./40892-its-only-rock-n-roll.json) |
 | It's Our Revolution | 304108 | [304108-its-our-revolution.json](./304108-its-our-revolution.json) |
 | It's Paper Guy! | 105035 | [105035-its-paper-guy.json](./105035-its-paper-guy.json) |
 | It's possible | 111536 | [111536-its-possible.json](./111536-its-possible.json) |
