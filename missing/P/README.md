@@ -2628,6 +2628,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Parodius | 280746 | [280746-parodius.json](./280746-parodius.json) |
 | Parodius | 41712 | [41712-parodius.json](./41712-parodius.json) |
 | Parodius da!: Shinwa kara Owarai he | 37307 | [37307-parodius-da-shinwa-kara-owarai-he.json](./37307-parodius-da-shinwa-kara-owarai-he.json) |
+| Parodius Da!: Shinwa kara Owarai he | 42094 | [42094-parodius-da-shinwa-kara-owarai-he.json](./42094-parodius-da-shinwa-kara-owarai-he.json) |
+| Parodius Da!: Shinwa kara Owarai he | 42095 | [42095-parodius-da-shinwa-kara-owarai-he.json](./42095-parodius-da-shinwa-kara-owarai-he.json) |
 | Parodius Portable | 42792 | [42792-parodius-portable.json](./42792-parodius-portable.json) |
 | Parody World: Monster Party | 48570 | [48570-parody-world-monster-party.json](./48570-parody-world-monster-party.json) |
 | Paroxysm | 71673 | [71673-paroxysm.json](./71673-paroxysm.json) |
@@ -13958,6 +13960,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power For Young Inventors | 330363 | [330363-power-for-young-inventors.json](./330363-power-for-young-inventors.json) |
 | Power Gate | 42130 | [42130-power-gate.json](./42130-power-gate.json) |
 | Power Gig: Rise of the SixString | 7135 | [7135-power-gig-rise-of-the-sixstring.json](./7135-power-gig-rise-of-the-sixstring.json) |
+| Power Golf | 42100 | [42100-power-golf.json](./42100-power-golf.json) |
 | Power Grid | 304527 | [304527-power-grid.json](./304527-power-grid.json) |
 | Power Grounds | 197774 | [197774-power-grounds.json](./197774-power-grounds.json) |
 | Power Gunner | 112390 | [112390-power-gunner.json](./112390-power-gunner.json) |
@@ -13978,6 +13981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Power Jet Racing 2001 | 137760 | [137760-power-jet-racing-2001.json](./137760-power-jet-racing-2001.json) |
 | Power League '93 | 37662 | [37662-power-league-93.json](./37662-power-league-93.json) |
 | Power League II | 38089 | [38089-power-league-ii.json](./38089-power-league-ii.json) |
+| Power League III | 42096 | [42096-power-league-iii.json](./42096-power-league-iii.json) |
 | Power League IV | 43191 | [43191-power-league-iv.json](./43191-power-league-iv.json) |
 | Power League V | 37661 | [37661-power-league-v.json](./37661-power-league-v.json) |
 | Power Level | 177863 | [177863-power-level.json](./177863-power-level.json) |
@@ -17565,6 +17569,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psycho Boy: Dasshutsu Game | 223968 | [223968-psycho-boy-dasshutsu-game.json](./223968-psycho-boy-dasshutsu-game.json) |
 | Psycho Boys | 241407 | [241407-psycho-boys.json](./241407-psycho-boys.json) |
 | Psycho Casket | 408287 | [408287-psycho-casket.json](./408287-psycho-casket.json) |
+| Psycho Chaser | 42081 | [42081-psycho-chaser.json](./42081-psycho-chaser.json) |
 | Psycho Crab | 194854 | [194854-psycho-crab.json](./194854-psycho-crab.json) |
 | Psycho Dream | 42420 | [42420-psycho-dream.json](./42420-psycho-dream.json) |
 | Psycho Dreams | 291019 | [291019-psycho-dreams.json](./291019-psycho-dreams.json) |
@@ -17635,6 +17640,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychoscopy | 207195 | [207195-psychoscopy.json](./207195-psychoscopy.json) |
 | Psychose | 121141 | [121141-psychose.json](./121141-psychose.json) |
 | Psychosis | 237263 | [237263-psychosis.json](./237263-psychosis.json) |
+| Psychosis | 42099 | [42099-psychosis.json](./42099-psychosis.json) |
 | Psychosis: Teaser | 222863 | [222863-psychosis-teaser.json](./222863-psychosis-teaser.json) |
 | Psychosoft Ltd. | 114211 | [114211-psychosoft-ltd.json](./114211-psychosoft-ltd.json) |
 | Psychosomnium | 84249 | [84249-psychosomnium.json](./84249-psychosomnium.json) |
