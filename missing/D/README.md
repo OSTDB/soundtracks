@@ -1851,6 +1851,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Parables: Portrait of the Stained Princess | 139791 | [139791-dark-parables-portrait-of-the-stained-princess.json](./139791-dark-parables-portrait-of-the-stained-princess.json) |
 | Dark Parables: Queen of Sands | 91136 | [91136-dark-parables-queen-of-sands.json](./91136-dark-parables-queen-of-sands.json) |
 | Dark Parables: Requiem for the Forgotten Shadow | 139792 | [139792-dark-parables-requiem-for-the-forgotten-shadow.json](./139792-dark-parables-requiem-for-the-forgotten-shadow.json) |
+| Dark Parables: Requiem for the Forgotten Shadow - Collector's Edition | 29341 | [29341-dark-parables-requiem-for-the-forgotten-shadow-collectors-edition.json](./29341-dark-parables-requiem-for-the-forgotten-shadow-collectors-edition.json) |
 | Dark Parables: Return of the Salt Princess | 123634 | [123634-dark-parables-return-of-the-salt-princess.json](./123634-dark-parables-return-of-the-salt-princess.json) |
 | Dark Parables: Return of the Salt Princess - Collector's Edition | 93792 | [93792-dark-parables-return-of-the-salt-princess-collectors-edition.json](./93792-dark-parables-return-of-the-salt-princess-collectors-edition.json) |
 | Dark Parables: Rise of the Snow Queen | 139793 | [139793-dark-parables-rise-of-the-snow-queen.json](./139793-dark-parables-rise-of-the-snow-queen.json) |
@@ -1982,6 +1983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Shadows | 419377 | [419377-dark-shadows.json](./419377-dark-shadows.json) |
 | Dark Sheep | 150884 | [150884-dark-sheep.json](./150884-dark-sheep.json) |
 | Dark Shiny | 115754 | [115754-dark-shiny.json](./115754-dark-shiny.json) |
+| Dark Shores | 29971 | [29971-dark-shores.json](./29971-dark-shores.json) |
 | Dark Shrine | 230916 | [230916-dark-shrine.json](./230916-dark-shrine.json) |
 | Dark Side | 12053 | [12053-dark-side.json](./12053-dark-side.json) |
 | Dark Side | 132478 | [132478-dark-side.json](./132478-dark-side.json) |
@@ -7247,6 +7249,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Depths of Insanity | 238688 | [238688-depths-of-insanity.json](./238688-depths-of-insanity.json) |
 | Depths of Insanity 2 | 292321 | [292321-depths-of-insanity-2.json](./292321-depths-of-insanity-2.json) |
 | Depths of Insanity 3 | 372979 | [372979-depths-of-insanity-3.json](./372979-depths-of-insanity-3.json) |
+| Depths of Limbo | 29996 | [29996-depths-of-limbo.json](./29996-depths-of-limbo.json) |
 | Depths of Madness | 117916 | [117916-depths-of-madness.json](./117916-depths-of-madness.json) |
 | Depths of Providence | 412560 | [412560-depths-of-providence.json](./412560-depths-of-providence.json) |
 | Depths of Sanity | 55071 | [55071-depths-of-sanity.json](./55071-depths-of-sanity.json) |
@@ -13070,6 +13073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Don’t Lose Your Ship | 337357 | [337357-don-t-lose-your-ship.json](./337357-don-t-lose-your-ship.json) |
 | Don't Make Love | 74587 | [74587-dont-make-love.json](./74587-dont-make-love.json) |
 | Don't Melt the Snowman | 280134 | [280134-dont-melt-the-snowman.json](./280134-dont-melt-the-snowman.json) |
+| Don't Mess Up | 29992 | [29992-dont-mess-up.json](./29992-dont-mess-up.json) |
 | Don't Mess With Bober | 350603 | [350603-dont-mess-with-bober.json](./350603-dont-mess-with-bober.json) |
 | Don't Mess with Gamers | 322128 | [322128-dont-mess-with-gamers.json](./322128-dont-mess-with-gamers.json) |
 | Don't Mess With Nanny | 150449 | [150449-dont-mess-with-nanny.json](./150449-dont-mess-with-nanny.json) |
