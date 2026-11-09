@@ -7886,6 +7886,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grab the Mask | 121546 | [121546-grab-the-mask.json](./121546-grab-the-mask.json) |
 | Grab the Sushi | 268023 | [268023-grab-the-sushi.json](./268023-grab-the-sushi.json) |
 | Grab the Win | 131237 | [131237-grab-the-win.json](./131237-grab-the-win.json) |
+| Grab Them by the Eyes | 11738 | [11738-grab-them-by-the-eyes.json](./11738-grab-them-by-the-eyes.json) |
 | Grab Toy | 181035 | [181035-grab-toy.json](./181035-grab-toy.json) |
 | Grabage | 307623 | [307623-grabage.json](./307623-grabage.json) |
 | Grabanakki | 180782 | [180782-grabanakki.json](./180782-grabanakki.json) |
