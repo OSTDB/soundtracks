@@ -987,7 +987,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1032,6 +1031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Badaboom: Deluxe Edition | 281948 | [281948-badaboom-deluxe-edition.json](./281948-badaboom-deluxe-edition.json) |
 | Badanamu First Step | 201094 | [201094-badanamu-first-step.json](./201094-badanamu-first-step.json) |
 | Badass | 29536 | [29536-badass.json](./29536-badass.json) |
+| Badass Banger | 77533 | [77533-badass-banger.json](./77533-badass-banger.json) |
 | Badass Brad | 424716 | [424716-badass-brad.json](./424716-badass-brad.json) |
 | Badass Brigade | 376209 | [376209-badass-brigade.json](./376209-badass-brigade.json) |
 | Badass Inc. | 133271 | [133271-badass-inc.json](./133271-badass-inc.json) |
@@ -9999,6 +9999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blast Radius | 270662 | [270662-blast-radius.json](./270662-blast-radius.json) |
 | Blast Radius | 360660 | [360660-blast-radius.json](./360660-blast-radius.json) |
 | Blast Royale | 231621 | [231621-blast-royale.json](./231621-blast-royale.json) |
+| Blast Rush | 77541 | [77541-blast-rush.json](./77541-blast-rush.json) |
 | Blast Rush Classic | 132346 | [132346-blast-rush-classic.json](./132346-blast-rush-classic.json) |
 | Blast the Past | 110144 | [110144-blast-the-past.json](./110144-blast-the-past.json) |
 | Blast Thru | 127141 | [127141-blast-thru.json](./127141-blast-thru.json) |
