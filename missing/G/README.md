@@ -9818,6 +9818,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Grimcurse | 185211 | [185211-grimcurse.json](./185211-grimcurse.json) |
 | Grimdark Survivors | 223291 | [223291-grimdark-survivors.json](./223291-grimdark-survivors.json) |
 | Grimdoria | 278135 | [278135-grimdoria.json](./278135-grimdoria.json) |
+| Grime | 121295 | [121295-grime.json](./121295-grime.json) |
 | Grime | 260887 | [260887-grime.json](./260887-grime.json) |
 | Grime & Gaslight | 134870 | [134870-grime-and-gaslight.json](./134870-grime-and-gaslight.json) |
 | Grime House | 198452 | [198452-grime-house.json](./198452-grime-house.json) |
@@ -10845,6 +10846,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guild Wars Trilogy | 27843 | [27843-guild-wars-trilogy.json](./27843-guild-wars-trilogy.json) |
 | Guild Wars: Bonus Mission Pack | 97103 | [97103-guild-wars-bonus-mission-pack.json](./97103-guild-wars-bonus-mission-pack.json) |
 | Guild Wars: Collector's Edition | 142287 | [142287-guild-wars-collectors-edition.json](./142287-guild-wars-collectors-edition.json) |
+| Guild Wars: Eye of the North | 8969 | [8969-guild-wars-eye-of-the-north.json](./8969-guild-wars-eye-of-the-north.json) |
 | Guild Wars: Factions | 739 | [739-guild-wars-factions.json](./739-guild-wars-factions.json) |
 | Guild Wars: Factions - Collector's Edition | 142206 | [142206-guild-wars-factions-collectors-edition.json](./142206-guild-wars-factions-collectors-edition.json) |
 | Guild Wars: Game of the Year Edition | 27842 | [27842-guild-wars-game-of-the-year-edition.json](./27842-guild-wars-game-of-the-year-edition.json) |
@@ -10893,6 +10895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guilty Cradle | 395239 | [395239-guilty-cradle.json](./395239-guilty-cradle.json) |
 | Guilty Crown | 208919 | [208919-guilty-crown.json](./208919-guilty-crown.json) |
 | Guilty Crown: Lost Christmas | 80569 | [80569-guilty-crown-lost-christmas.json](./80569-guilty-crown-lost-christmas.json) |
+| Guilty Gear | 9140 | [9140-guilty-gear.json](./9140-guilty-gear.json) |
 | Guilty Gear 2: Overture | 7004 | [7004-guilty-gear-2-overture.json](./7004-guilty-gear-2-overture.json) |
 | Guilty Gear 20th Anniversary Pack | 114135 | [114135-guilty-gear-20th-anniversary-pack.json](./114135-guilty-gear-20th-anniversary-pack.json) |
 | Guilty Gear 20th Anniversary Pack: Day One Edition | 386270 | [386270-guilty-gear-20th-anniversary-pack-day-one-edition.json](./386270-guilty-gear-20th-anniversary-pack-day-one-edition.json) |
@@ -11644,6 +11647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Guns, Camera, Action! | 185481 | [185481-guns-camera-action.json](./185481-guns-camera-action.json) |
 | Guns, Gore & Cannoli | 13187 | [13187-guns-gore-and-cannoli.json](./13187-guns-gore-and-cannoli.json) |
 | Guns, Gore & Cannoli 1 & 2 | 133772 | [133772-guns-gore-and-cannoli-1-and-2.json](./133772-guns-gore-and-cannoli-1-and-2.json) |
+| Guns, Gore and Cannoli 2 | 56870 | [56870-guns-gore-and-cannoli-2.json](./56870-guns-gore-and-cannoli-2.json) |
 | Guns'n'Glory | 95410 | [95410-gunsnglory.json](./95410-gunsnglory.json) |
 | Guns'n'Glory Heroes | 68958 | [68958-gunsnglory-heroes.json](./68958-gunsnglory-heroes.json) |
 | Guns'n'Glory WW2 | 97445 | [97445-gunsnglory-ww2.json](./97445-gunsnglory-ww2.json) |
