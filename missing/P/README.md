@@ -4084,6 +4084,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Penalty Kick | 287540 | [287540-penalty-kick.json](./287540-penalty-kick.json) |
 | Penalty Kick '91 | 180475 | [180475-penalty-kick-91.json](./180475-penalty-kick-91.json) |
 | Penalty Madness | 248263 | [248263-penalty-madness.json](./248263-penalty-madness.json) |
+| Penalty of Heroes | 67725 | [67725-penalty-of-heroes.json](./67725-penalty-of-heroes.json) |
 | Penalty Saver | 64248 | [64248-penalty-saver.json](./64248-penalty-saver.json) |
 | Penalty Shoot-Out Soccer: 2010 World Champion | 174233 | [174233-penalty-shoot-out-soccer-2010-world-champion.json](./174233-penalty-shoot-out-soccer-2010-world-champion.json) |
 | Penalty Shooters Footy | 241061 | [241061-penalty-shooters-footy.json](./241061-penalty-shooters-footy.json) |
@@ -4946,6 +4947,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pest Apocalypse | 297182 | [297182-pest-apocalypse.json](./297182-pest-apocalypse.json) |
 | Pest Control | 120123 | [120123-pest-control.json](./120123-pest-control.json) |
 | Pest Control | 343758 | [343758-pest-control.json](./343758-pest-control.json) |
+| Pest Control | 68159 | [68159-pest-control.json](./68159-pest-control.json) |
 | Pest Control in the Crypt | 410303 | [410303-pest-control-in-the-crypt.json](./410303-pest-control-in-the-crypt.json) |
 | Pest Control Simulator | 394421 | [394421-pest-control-simulator.json](./394421-pest-control-simulator.json) |
 | Pest Patrol | 85815 | [85815-pest-patrol.json](./85815-pest-patrol.json) |
@@ -5273,6 +5275,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petz: Hamster Superstarz | 47972 | [47972-petz-hamster-superstarz.json](./47972-petz-hamster-superstarz.json) |
 | Petz: Hamsterz 2 | 73041 | [73041-petz-hamsterz-2.json](./73041-petz-hamsterz-2.json) |
 | Petz: Hamsterz Life 2 | 49474 | [49474-petz-hamsterz-life-2.json](./49474-petz-hamsterz-life-2.json) |
+| Petz: Hamsterz Superstarz | 67732 | [67732-petz-hamsterz-superstarz.json](./67732-petz-hamsterz-superstarz.json) |
 | Petz: My Puppy Family | 47895 | [47895-petz-my-puppy-family.json](./47895-petz-my-puppy-family.json) |
 | Petz: Nursery | 44062 | [44062-petz-nursery.json](./44062-petz-nursery.json) |
 | Petz: Saddle Club | 66407 | [66407-petz-saddle-club.json](./66407-petz-saddle-club.json) |
@@ -15465,6 +15468,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pro Bus Driver 2 | 293482 | [293482-pro-bus-driver-2.json](./293482-pro-bus-driver-2.json) |
 | Pro Cast Sports Fishing | 91678 | [91678-pro-cast-sports-fishing.json](./91678-pro-cast-sports-fishing.json) |
 | Pro Crack | 247026 | [247026-pro-crack.json](./247026-pro-crack.json) |
+| Pro Cycling 2007 | 68122 | [68122-pro-cycling-2007.json](./68122-pro-cycling-2007.json) |
 | Pro Cycling 2008 | 44490 | [44490-pro-cycling-2008.json](./44490-pro-cycling-2008.json) |
 | Pro Cycling 2009 | 68004 | [68004-pro-cycling-2009.json](./68004-pro-cycling-2009.json) |
 | Pro Cycling 2010 | 61470 | [61470-pro-cycling-2010.json](./61470-pro-cycling-2010.json) |
