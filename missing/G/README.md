@@ -11092,6 +11092,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gum Droppers | 140608 | [140608-gum-droppers.json](./140608-gum-droppers.json) |
 | Gum Flesh | 311990 | [311990-gum-flesh.json](./311990-gum-flesh.json) |
 | Gum Girl | 181847 | [181847-gum-girl.json](./181847-gum-girl.json) |
+| Gum Guy | 30007 | [30007-gum-guy.json](./30007-gum-guy.json) |
 | Gum+ | 124590 | [124590-gum.json](./124590-gum.json) |
 | Gumball | 25612 | [25612-gumball.json](./25612-gumball.json) |
 | Gumball 3000 | 300795 | [300795-gumball-3000.json](./300795-gumball-3000.json) |
