@@ -2758,6 +2758,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bargon Attack | 2318 | [2318-bargon-attack.json](./2318-bargon-attack.json) |
 | Bargue | 203903 | [203903-bargue.json](./203903-bargue.json) |
 | Barheim | 319030 | [319030-barheim.json](./319030-barheim.json) |
+| Bari Bari Densetsu | 42088 | [42088-bari-bari-densetsu.json](./42088-bari-bari-densetsu.json) |
 | Barista | 310682 | [310682-barista.json](./310682-barista.json) |
 | Barista | 347150 | [347150-barista.json](./347150-barista.json) |
 | Barista Coffee Simulator | 342213 | [342213-barista-coffee-simulator.json](./342213-barista-coffee-simulator.json) |
@@ -2978,6 +2979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Barton Lynch Pro Surfing 2022 | 196295 | [196295-barton-lynch-pro-surfing-2022.json](./196295-barton-lynch-pro-surfing-2022.json) |
 | Bartox | 213439 | [213439-bartox.json](./213439-bartox.json) |
 | Barty's Adventure | 379941 | [379941-bartys-adventure.json](./379941-bartys-adventure.json) |
+| Barunba | 42087 | [42087-barunba.json](./42087-barunba.json) |
 | Baryoland | 269483 | [269483-baryoland.json](./269483-baryoland.json) |
 | Basalt Breaker | 254784 | [254784-basalt-breaker.json](./254784-basalt-breaker.json) |
 | Basalt: The Cursed Vein | 364246 | [364246-basalt-the-cursed-vein.json](./364246-basalt-the-cursed-vein.json) |
@@ -3939,6 +3941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Legends Arena | 196573 | [196573-battle-legends-arena.json](./196573-battle-legends-arena.json) |
 | Battle Life Online | 154868 | [154868-battle-life-online.json](./154868-battle-life-online.json) |
 | Battle Line the Rise of War | 358285 | [358285-battle-line-the-rise-of-war.json](./358285-battle-line-the-rise-of-war.json) |
+| Battle Lode Runner | 42086 | [42086-battle-lode-runner.json](./42086-battle-lode-runner.json) |
 | Battle Lust | 152615 | [152615-battle-lust.json](./152615-battle-lust.json) |
 | Battle Mage | 236729 | [236729-battle-mage.json](./236729-battle-mage.json) |
 | Battle Mage : Card Caster | 127166 | [127166-battle-mage-card-caster.json](./127166-battle-mage-card-caster.json) |
@@ -8072,6 +8075,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bikini Karate Babes | 51236 | [51236-bikini-karate-babes.json](./51236-bikini-karate-babes.json) |
 | Bikini Match Girls | 395650 | [395650-bikini-match-girls.json](./395650-bikini-match-girls.json) |
 | Bikini Tits | 192765 | [192765-bikini-tits.json](./192765-bikini-tits.json) |
+| Bikkuri Man World | 42085 | [42085-bikkuri-man-world.json](./42085-bikkuri-man-world.json) |
 | Bikkuri Mouse | 269370 | [269370-bikkuri-mouse.json](./269370-bikkuri-mouse.json) |
 | Bikkuri Nekketsu Shinkiroku: Dokodemo Kin Medal | 49108 | [49108-bikkuri-nekketsu-shinkiroku-dokodemo-kin-medal.json](./49108-bikkuri-nekketsu-shinkiroku-dokodemo-kin-medal.json) |
 | Bikkuri Pachinko: Ashita no Joe Kyoraku Collection Vol. 1 | 65561 | [65561-bikkuri-pachinko-ashita-no-joe-kyoraku-collection-vol-1.json](./65561-bikkuri-pachinko-ashita-no-joe-kyoraku-collection-vol-1.json) |
@@ -15420,6 +15424,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravo Team | 37143 | [37143-bravo-team.json](./37143-bravo-team.json) |
 | Bravo, Gaspar! | 399163 | [399163-bravo-gaspar.json](./399163-bravo-gaspar.json) |
 | Bravo! | 362438 | [362438-bravo.json](./362438-bravo.json) |
+| Bravoman | 42116 | [42116-bravoman.json](./42116-bravoman.json) |
 | Bravoman: Binja Bash! | 63290 | [63290-bravoman-binja-bash.json](./63290-bravoman-binja-bash.json) |
 | Bravura: Quest Rush | 120246 | [120246-bravura-quest-rush.json](./120246-bravura-quest-rush.json) |
 | Brawl | 114592 | [114592-brawl.json](./114592-brawl.json) |
@@ -17785,6 +17790,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bull Chase! | 267323 | [267323-bull-chase.json](./267323-bull-chase.json) |
 | Bull et Hell | 166852 | [166852-bull-et-hell.json](./166852-bull-et-hell.json) |
 | Bull Fight | 46499 | [46499-bull-fight.json](./46499-bull-fight.json) |
+| Bull Fight: Ring no Haja | 42084 | [42084-bull-fight-ring-no-haja.json](./42084-bull-fight-ring-no-haja.json) |
 | Bull Fighter | 40273 | [40273-bull-fighter.json](./40273-bull-fighter.json) |
 | Bull King of Circus | 243741 | [243741-bull-king-of-circus.json](./243741-bull-king-of-circus.json) |
 | Bull Riding | 281685 | [281685-bull-riding.json](./281685-bull-riding.json) |
