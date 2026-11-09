@@ -1402,6 +1402,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout Classic Collection | 53024 | [53024-fallout-classic-collection.json](./53024-fallout-classic-collection.json) |
 | Fallout Equestria: Remains | 177387 | [177387-fallout-equestria-remains.json](./177387-fallout-equestria-remains.json) |
 | Fallout Equestria: Silent Village | 369899 | [369899-fallout-equestria-silent-village.json](./369899-fallout-equestria-silent-village.json) |
+| Fallout Extreme | 12508 | [12508-fallout-extreme.json](./12508-fallout-extreme.json) |
 | Fallout Online | 77192 | [77192-fallout-online.json](./77192-fallout-online.json) |
 | Fallout Rancher | 352339 | [352339-fallout-rancher.json](./352339-fallout-rancher.json) |
 | Fallout Shelter Online | 131851 | [131851-fallout-shelter-online.json](./131851-fallout-shelter-online.json) |
@@ -1411,6 +1412,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fallout Zone: Survival | 104514 | [104514-fallout-zone-survival.json](./104514-fallout-zone-survival.json) |
 | Fallout: A Tale of Two Wastelands | 143196 | [143196-fallout-a-tale-of-two-wastelands.json](./143196-fallout-a-tale-of-two-wastelands.json) |
 | Fallout: Bakersfield | 356437 | [356437-fallout-bakersfield.json](./356437-fallout-bakersfield.json) |
+| Fallout: Brotherhood of Steel 2 | 12509 | [12509-fallout-brotherhood-of-steel-2.json](./12509-fallout-brotherhood-of-steel-2.json) |
 | Fallout: Dust | 243647 | [243647-fallout-dust.json](./243647-fallout-dust.json) |
 | Fallout: Empire Wastes | 322274 | [322274-fallout-empire-wastes.json](./322274-fallout-empire-wastes.json) |
 | Fallout: Legacy Collection | 122725 | [122725-fallout-legacy-collection.json](./122725-fallout-legacy-collection.json) |
@@ -1904,6 +1906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fantastic Pets | 20165 | [20165-fantastic-pets.json](./20165-fantastic-pets.json) |
 | Fantastic Petty | 341153 | [341153-fantastic-petty.json](./341153-fantastic-petty.json) |
 | Fantastic Pinball Thrills | 35133 | [35133-fantastic-pinball-thrills.json](./35133-fantastic-pinball-thrills.json) |
+| Fantastic Plastic Squad | 12507 | [12507-fantastic-plastic-squad.json](./12507-fantastic-plastic-squad.json) |
 | Fantastic Sea | 84036 | [84036-fantastic-sea.json](./84036-fantastic-sea.json) |
 | Fantastic Voyage | 18558 | [18558-fantastic-voyage.json](./18558-fantastic-voyage.json) |
 | Fantastical | 131841 | [131841-fantastical.json](./131841-fantastical.json) |
@@ -3369,6 +3372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Extella: The Umbral Star | 19799 | [19799-fate-extella-the-umbral-star.json](./19799-fate-extella-the-umbral-star.json) |
 | Fate/Extella: The Umbral Star - Noble Phantasm Edition | 136318 | [136318-fate-extella-the-umbral-star-noble-phantasm-edition.json](./136318-fate-extella-the-umbral-star-noble-phantasm-edition.json) |
 | Fate/Extra | 12382 | [12382-fate-extra.json](./12382-fate-extra.json) |
+| Fate/Extra CCC | 12504 | [12504-fate-extra-ccc.json](./12504-fate-extra-ccc.json) |
 | Fate/Extra Record | 142911 | [142911-fate-extra-record.json](./142911-fate-extra-record.json) |
 | Fate/Extra Record: Limited Edition | 416864 | [416864-fate-extra-record-limited-edition.json](./416864-fate-extra-record-limited-edition.json) |
 | Fate/Extra: Limited Edition | 42715 | [42715-fate-extra-limited-edition.json](./42715-fate-extra-limited-edition.json) |
