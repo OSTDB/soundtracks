@@ -7991,6 +7991,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pirates: The Legend of the Kraken | 255185 | [255185-pirates-the-legend-of-the-kraken.json](./255185-pirates-the-legend-of-the-kraken.json) |
 | Pirates: The Spectacular Treasure Trail | 354720 | [354720-pirates-the-spectacular-treasure-trail.json](./354720-pirates-the-spectacular-treasure-trail.json) |
 | Pirates: Tides of Fortune | 23592 | [23592-pirates-tides-of-fortune.json](./23592-pirates-tides-of-fortune.json) |
+| Pirates: Treasure Hunters | 58332 | [58332-pirates-treasure-hunters.json](./58332-pirates-treasure-hunters.json) |
 | Pirates! | 267320 | [267320-pirates.json](./267320-pirates.json) |
 | Pirates! Gold | 9232 | [9232-pirates-gold.json](./9232-pirates-gold.json) |
 | Pirates! Gold Plus | 36216 | [36216-pirates-gold-plus.json](./36216-pirates-gold-plus.json) |
@@ -15902,6 +15903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professor Lupo and his Horrible Pets | 76032 | [76032-professor-lupo-and-his-horrible-pets.json](./76032-professor-lupo-and-his-horrible-pets.json) |
 | Professor Lupo: Ocean | 133081 | [133081-professor-lupo-ocean.json](./133081-professor-lupo-ocean.json) |
 | Professor Madhouse | 98732 | [98732-professor-madhouse.json](./98732-professor-madhouse.json) |
+| Professor Nasty Time: The Stupidly Unfair Test Simulator 2016 | 58331 | [58331-professor-nasty-time-the-stupidly-unfair-test-simulator-2016.json](./58331-professor-nasty-time-the-stupidly-unfair-test-simulator-2016.json) |
 | Professor Neely and the Death Ray of Doom | 171532 | [171532-professor-neely-and-the-death-ray-of-doom.json](./171532-professor-neely-and-the-death-ray-of-doom.json) |
 | Professor Neumann's Adult Certification Test | 409548 | [409548-professor-neumanns-adult-certification-test.json](./409548-professor-neumanns-adult-certification-test.json) |
 | Professor of Magical Studies | 173349 | [173349-professor-of-magical-studies.json](./173349-professor-of-magical-studies.json) |
@@ -16131,6 +16133,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Aura: Senior Colonist | 168206 | [168206-project-aura-senior-colonist.json](./168206-project-aura-senior-colonist.json) |
 | Project Aura: Super Engineer Colonist | 168205 | [168205-project-aura-super-engineer-colonist.json](./168205-project-aura-super-engineer-colonist.json) |
 | Project Aurora | 208106 | [208106-project-aurora.json](./208106-project-aurora.json) |
+| Project Automata | 57865 | [57865-project-automata.json](./57865-project-automata.json) |
 | Project Awakening | 22790 | [22790-project-awakening.json](./22790-project-awakening.json) |
 | Project AXSX | 331058 | [331058-project-axsx.json](./331058-project-axsx.json) |
 | Project Azriel | 74193 | [74193-project-azriel.json](./74193-project-azriel.json) |
@@ -16745,6 +16748,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Tilt | 61532 | [61532-project-tilt.json](./61532-project-tilt.json) |
 | Project Timbre | 381574 | [381574-project-timbre.json](./381574-project-timbre.json) |
 | Project Timi: Sasha's Curse | 204063 | [204063-project-timi-sashas-curse.json](./204063-project-timi-sashas-curse.json) |
+| Project Tingler | 57882 | [57882-project-tingler.json](./57882-project-tingler.json) |
 | Project Titan: The Redacted Files | 375881 | [375881-project-titan-the-redacted-files.json](./375881-project-titan-the-redacted-files.json) |
 | Project to Escape | 146082 | [146082-project-to-escape.json](./146082-project-to-escape.json) |
 | Project Tokyo Dolls | 76143 | [76143-project-tokyo-dolls.json](./76143-project-tokyo-dolls.json) |
@@ -18654,6 +18658,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puyo Puyo CD | 250339 | [250339-puyo-puyo-cd.json](./250339-puyo-puyo-cd.json) |
 | Puyo Puyo CD Tsuu | 250297 | [250297-puyo-puyo-cd-tsuu.json](./250297-puyo-puyo-cd-tsuu.json) |
 | Puyo Puyo Champions | 109577 | [109577-puyo-puyo-champions.json](./109577-puyo-puyo-champions.json) |
+| Puyo Puyo Chronicle | 57874 | [57874-puyo-puyo-chronicle.json](./57874-puyo-puyo-chronicle.json) |
 | Puyo Puyo DX | 251498 | [251498-puyo-puyo-dx.json](./251498-puyo-puyo-dx.json) |
 | Puyo Puyo Fever Habanero | 252125 | [252125-puyo-puyo-fever-habanero.json](./252125-puyo-puyo-fever-habanero.json) |
 | Puyo Puyo Fever Rhythm | 252126 | [252126-puyo-puyo-fever-rhythm.json](./252126-puyo-puyo-fever-rhythm.json) |
