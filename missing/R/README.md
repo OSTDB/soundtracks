@@ -1463,6 +1463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rainbow Tunnel | 182940 | [182940-rainbow-tunnel.json](./182940-rainbow-tunnel.json) |
 | Rainbow Unicorn Candy Salon | 102515 | [102515-rainbow-unicorn-candy-salon.json](./102515-rainbow-unicorn-candy-salon.json) |
 | Rainbow Unicorn Nail Salon | 90353 | [90353-rainbow-unicorn-nail-salon.json](./90353-rainbow-unicorn-nail-salon.json) |
+| Rainbow Walker | 24058 | [24058-rainbow-walker.json](./24058-rainbow-walker.json) |
 | Rainbow Warhead | 244859 | [244859-rainbow-warhead.json](./244859-rainbow-warhead.json) |
 | Rainbow Warrior | 71711 | [71711-rainbow-warrior.json](./71711-rainbow-warrior.json) |
 | Rainbow Web | 25397 | [25397-rainbow-web.json](./25397-rainbow-web.json) |
@@ -3272,6 +3273,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm of Chaos | 313868 | [313868-realm-of-chaos.json](./313868-realm-of-chaos.json) |
 | Realm of Chaos 2 | 321261 | [321261-realm-of-chaos-2.json](./321261-realm-of-chaos-2.json) |
 | Realm of Chaos: 25th Anniversary Edition | 300744 | [300744-realm-of-chaos-25th-anniversary-edition.json](./300744-realm-of-chaos-25th-anniversary-edition.json) |
+| Realm of Darkness | 24047 | [24047-realm-of-darkness.json](./24047-realm-of-darkness.json) |
 | Realm of Dissonance | 319182 | [319182-realm-of-dissonance.json](./319182-realm-of-dissonance.json) |
 | Realm of Divinos | 200824 | [200824-realm-of-divinos.json](./200824-realm-of-divinos.json) |
 | Realm of Dread | 265306 | [265306-realm-of-dread.json](./265306-realm-of-dread.json) |
@@ -3979,6 +3981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Dead Redemption II: Ultimate Edition | 103206 | [103206-red-dead-redemption-ii-ultimate-edition.json](./103206-red-dead-redemption-ii-ultimate-edition.json) |
 | Red Dead Redemption: Game of the Year Edition | 22816 | [22816-red-dead-redemption-game-of-the-year-edition.json](./22816-red-dead-redemption-game-of-the-year-edition.json) |
 | Red Dead Redemption: Gunslingers | 355106 | [355106-red-dead-redemption-gunslingers.json](./355106-red-dead-redemption-gunslingers.json) |
+| Red Dead Redemption: Legends and Killers | 22957 | [22957-red-dead-redemption-legends-and-killers.json](./22957-red-dead-redemption-legends-and-killers.json) |
 | Red Dead Redemption: Liars and Cheats | 114990 | [114990-red-dead-redemption-liars-and-cheats.json](./114990-red-dead-redemption-liars-and-cheats.json) |
 | Red Dead Redemption: Myths and Mavericks | 43356 | [43356-red-dead-redemption-myths-and-mavericks.json](./43356-red-dead-redemption-myths-and-mavericks.json) |
 | Red Dead Redemption: Undead Nightmare | 260736 | [260736-red-dead-redemption-undead-nightmare.json](./260736-red-dead-redemption-undead-nightmare.json) |
@@ -4023,6 +4026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red Faction: Armageddon - Ultimate Edition | 99958 | [99958-red-faction-armageddon-ultimate-edition.json](./99958-red-faction-armageddon-ultimate-edition.json) |
 | Red Faction: B.E.A.S.T. | 264880 | [264880-red-faction-b-e-a-s-t.json](./264880-red-faction-b-e-a-s-t.json) |
 | Red Faction: Battlegrounds | 20447 | [20447-red-faction-battlegrounds.json](./20447-red-faction-battlegrounds.json) |
+| Red Faction: Guerrilla - Demons of the Badlands | 22987 | [22987-red-faction-guerrilla-demons-of-the-badlands.json](./22987-red-faction-guerrilla-demons-of-the-badlands.json) |
 | Red Faction: Guerrilla - Steam Edition | 28988 | [28988-red-faction-guerrilla-steam-edition.json](./28988-red-faction-guerrilla-steam-edition.json) |
 | Red Faction: Guerrilla Re-Mars-tered | 96027 | [96027-red-faction-guerrilla-re-mars-tered.json](./96027-red-faction-guerrilla-re-mars-tered.json) |
 | Red Falcon | 150872 | [150872-red-falcon.json](./150872-red-falcon.json) |
@@ -5731,6 +5735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reset 1-1 | 32832 | [32832-reset-1-1.json](./32832-reset-1-1.json) |
 | Reset Co. | 180620 | [180620-reset-co.json](./180620-reset-co.json) |
 | Reset Day | 396552 | [396552-reset-day.json](./396552-reset-day.json) |
+| Reset Generation | 23027 | [23027-reset-generation.json](./23027-reset-generation.json) |
 | Reset Memory | 195545 | [195545-reset-memory.json](./195545-reset-memory.json) |
 | Resetail | 284753 | [284753-resetail.json](./284753-resetail.json) |
 | ReSetna | 314195 | [314195-resetna.json](./314195-resetna.json) |
@@ -10667,6 +10672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Roland in the Caves | 13027 | [13027-roland-in-the-caves.json](./13027-roland-in-the-caves.json) |
 | Roland in Time | 39148 | [39148-roland-in-time.json](./39148-roland-in-time.json) |
 | Rolando | 23029 | [23029-rolando.json](./23029-rolando.json) |
+| Rolando 2: Quest for the Golden Orchid | 22994 | [22994-rolando-2-quest-for-the-golden-orchid.json](./22994-rolando-2-quest-for-the-golden-orchid.json) |
 | Rolando 3 | 92640 | [92640-rolando-3.json](./92640-rolando-3.json) |
 | Rolando the Majestic | 201569 | [201569-rolando-the-majestic.json](./201569-rolando-the-majestic.json) |
 | Rolando: Deluxe Edition | 236539 | [236539-rolando-deluxe-edition.json](./236539-rolando-deluxe-edition.json) |
@@ -12775,6 +12781,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Run Rob Run! | 125608 | [125608-run-rob-run.json](./125608-run-rob-run.json) |
 | Run Roll Rumble | 120936 | [120936-run-roll-rumble.json](./120936-run-roll-rumble.json) |
 | Run Ronaldo Run | 252823 | [252823-run-ronaldo-run.json](./252823-run-ronaldo-run.json) |
+| Run Roo Run | 22928 | [22928-run-roo-run.json](./22928-run-roo-run.json) |
 | RUN ROOMS: VR | 75403 | [75403-run-rooms-vr.json](./75403-run-rooms-vr.json) |
 | Run Run Bird! | 296272 | [296272-run-run-bird.json](./296272-run-run-bird.json) |
 | Run Run Boy | 225073 | [225073-run-run-boy.json](./225073-run-run-boy.json) |
