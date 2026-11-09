@@ -1739,6 +1739,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jigsaw Advent Calendar | 276845 | [276845-jigsaw-advent-calendar.json](./276845-jigsaw-advent-calendar.json) |
 | Jigsaw Art: 100+ Famous Masterpieces | 400070 | [400070-jigsaw-art-100-famous-masterpieces.json](./400070-jigsaw-art-100-famous-masterpieces.json) |
 | Jigsaw Blocks | 70213 | [70213-jigsaw-blocks.json](./70213-jigsaw-blocks.json) |
+| Jigsaw Boom | 25279 | [25279-jigsaw-boom.json](./25279-jigsaw-boom.json) |
 | Jigsaw Boom 2 | 94886 | [94886-jigsaw-boom-2.json](./94886-jigsaw-boom-2.json) |
 | Jigsaw Chronicles: Haunting Tales | 321512 | [321512-jigsaw-chronicles-haunting-tales.json](./321512-jigsaw-chronicles-haunting-tales.json) |
 | Jigsaw Chronicles: Heroes of Legend | 317217 | [317217-jigsaw-chronicles-heroes-of-legend.json](./317217-jigsaw-chronicles-heroes-of-legend.json) |
@@ -2936,6 +2937,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Journey to the End | 281352 | [281352-journey-to-the-end.json](./281352-journey-to-the-end.json) |
 | Journey to the King | 390990 | [390990-journey-to-the-king.json](./390990-journey-to-the-king.json) |
 | Journey to the Place of Tomorrow | 389270 | [389270-journey-to-the-place-of-tomorrow.json](./389270-journey-to-the-place-of-tomorrow.json) |
+| Journey to the Planets | 25333 | [25333-journey-to-the-planets.json](./25333-journey-to-the-planets.json) |
 | Journey to the Rift | 310830 | [310830-journey-to-the-rift.json](./310830-journey-to-the-rift.json) |
 | Journey to the Savage Planet | 113108 | [113108-journey-to-the-savage-planet.json](./113108-journey-to-the-savage-planet.json) |
 | Journey to the Savage Planet: Employee of the Month Edition | 143481 | [143481-journey-to-the-savage-planet-employee-of-the-month-edition.json](./143481-journey-to-the-savage-planet-employee-of-the-month-edition.json) |
