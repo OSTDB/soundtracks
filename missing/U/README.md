@@ -115,6 +115,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UBV Volley 2011 | 87225 | [87225-ubv-volley-2011.json](./87225-ubv-volley-2011.json) |
 | UC Love | 238218 | [238218-uc-love.json](./238218-uc-love.json) |
 | UCaptain2: World of Fishing | 247834 | [247834-ucaptain2-world-of-fishing.json](./247834-ucaptain2-world-of-fishing.json) |
+| Ucchan Nanchan no Honoo no Challenger: Denryuu Iraira Bou | 44053 | [44053-ucchan-nanchan-no-honoo-no-challenger-denryuu-iraira-bou.json](./44053-ucchan-nanchan-no-honoo-no-challenger-denryuu-iraira-bou.json) |
 | Uchi Mata | 28467 | [28467-uchi-mata.json](./28467-uchi-mata.json) |
 | Uchi No Heya! | 403050 | [403050-uchi-no-heya.json](./403050-uchi-no-heya.json) |
 | Uchi no Tama: Wakarimasen ka? | 218269 | [218269-uchi-no-tama-wakarimasen-ka.json](./218269-uchi-no-tama-wakarimasen-ka.json) |
