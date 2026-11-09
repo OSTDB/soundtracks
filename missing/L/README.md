@@ -2378,6 +2378,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Learning with FuzzyWomp | 72030 | [72030-learning-with-fuzzywomp.json](./72030-learning-with-fuzzywomp.json) |
 | Learning with Leap | 230433 | [230433-learning-with-leap.json](./230433-learning-with-leap.json) |
 | Learning With the PooYoos: Episode 1 | 67206 | [67206-learning-with-the-pooyoos-episode-1.json](./67206-learning-with-the-pooyoos-episode-1.json) |
+| Learning With the PooYoos: Episode 2 | 66815 | [66815-learning-with-the-pooyoos-episode-2.json](./66815-learning-with-the-pooyoos-episode-2.json) |
 | Learning With the PooYoos: Episode 3 | 66008 | [66008-learning-with-the-pooyoos-episode-3.json](./66008-learning-with-the-pooyoos-episode-3.json) |
 | Learnmoor: Kids Academy | 394350 | [394350-learnmoor-kids-academy.json](./394350-learnmoor-kids-academy.json) |
 | Leas: City of the Sun | 334477 | [334477-leas-city-of-the-sun.json](./334477-leas-city-of-the-sun.json) |
