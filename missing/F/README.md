@@ -1643,6 +1643,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Family Games Compendium | 79241 | [79241-family-games-compendium.json](./79241-family-games-compendium.json) |
 | Family Games II: Junk Food Jive | 45929 | [45929-family-games-ii-junk-food-jive.json](./45929-family-games-ii-junk-food-jive.json) |
 | Family Gameshow | 51028 | [51028-family-gameshow.json](./51028-family-gameshow.json) |
+| Family Glide Hockey | 21203 | [21203-family-glide-hockey.json](./21203-family-glide-hockey.json) |
 | Family Go-Kart Racing | 50695 | [50695-family-go-kart-racing.json](./50695-family-go-kart-racing.json) |
 | Family Guy Bowling | 286624 | [286624-family-guy-bowling.json](./286624-family-guy-bowling.json) |
 | Family Guy Invaders | 335726 | [335726-family-guy-invaders.json](./335726-family-guy-invaders.json) |
@@ -13858,6 +13859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fun Zoo | 18360 | [18360-fun-zoo.json](./18360-fun-zoo.json) |
 | Fun, Sun & Mishaps | 169887 | [169887-fun-sun-and-mishaps.json](./169887-fun-sun-and-mishaps.json) |
 | Fun! Fun! Animal Park | 114024 | [114024-fun-fun-animal-park.json](./114024-fun-fun-animal-park.json) |
+| Fun! Fun! Minigolf | 21128 | [21128-fun-fun-minigolf.json](./21128-fun-fun-minigolf.json) |
 | Fun! Fun! Pingu | 61678 | [61678-fun-fun-pingu.json](./61678-fun-fun-pingu.json) |
 | Fun.Io | 254310 | [254310-fun-io.json](./254310-fun-io.json) |
 | Funaki Masakatsu Hybrid Wrestler: Tougi Denshou | 44459 | [44459-funaki-masakatsu-hybrid-wrestler-tougi-denshou.json](./44459-funaki-masakatsu-hybrid-wrestler-tougi-denshou.json) |
