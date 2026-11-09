@@ -2034,6 +2034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Stone: The Lightseeker | 157854 | [157854-dark-stone-the-lightseeker.json](./157854-dark-stone-the-lightseeker.json) |
 | Dark Stories | 311685 | [311685-dark-stories.json](./311685-dark-stories.json) |
 | Dark Storm | 61490 | [61490-dark-storm.json](./61490-dark-storm.json) |
+| Dark Storm Ascension | 54585 | [54585-dark-storm-ascension.json](./54585-dark-storm-ascension.json) |
 | Dark Storm VR Missions | 34649 | [34649-dark-storm-vr-missions.json](./34649-dark-storm-vr-missions.json) |
 | Dark Stream | 406849 | [406849-dark-stream.json](./406849-dark-stream.json) |
 | Dark Strokes: Sins of the Fathers | 52839 | [52839-dark-strokes-sins-of-the-fathers.json](./52839-dark-strokes-sins-of-the-fathers.json) |
@@ -4835,6 +4836,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Death Rabbit Arena | 250867 | [250867-death-rabbit-arena.json](./250867-death-rabbit-arena.json) |
 | Death Race | 110376 | [110376-death-race.json](./110376-death-race.json) |
 | Death Race | 296182 | [296182-death-race.json](./296182-death-race.json) |
+| Death Race | 54594 | [54594-death-race.json](./54594-death-race.json) |
 | Death Race | 8561 | [8561-death-race.json](./8561-death-race.json) |
 | Death Race 2020 | 147717 | [147717-death-race-2020.json](./147717-death-race-2020.json) |
 | Death Race 2600 | 414099 | [414099-death-race-2600.json](./414099-death-race-2600.json) |
@@ -16819,6 +16821,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dreamland | 224322 | [224322-dreamland.json](./224322-dreamland.json) |
 | Dreamland | 274535 | [274535-dreamland.json](./274535-dreamland.json) |
 | Dreamland | 349196 | [349196-dreamland.json](./349196-dreamland.json) |
+| Dreamland | 54592 | [54592-dreamland.json](./54592-dreamland.json) |
 | DreamLand | 32173 | [32173-dreamland.json](./32173-dreamland.json) |
 | Dreamland Arcade | 310572 | [310572-dreamland-arcade.json](./310572-dreamland-arcade.json) |
 | Dreamland coffee | 231820 | [231820-dreamland-coffee.json](./231820-dreamland-coffee.json) |
