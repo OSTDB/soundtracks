@@ -258,6 +258,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F2 Grand Prix | 138522 | [138522-f2-grand-prix.json](./138522-f2-grand-prix.json) |
 | F22 | 287508 | [287508-f22.json](./287508-f22.json) |
 | F22 Air Dominance Fighter: Red Sea Operations | 59926 | [59926-f22-air-dominance-fighter-red-sea-operations.json](./59926-f22-air-dominance-fighter-red-sea-operations.json) |
+| F24: Stealth Fighter | 49425 | [49425-f24-stealth-fighter.json](./49425-f24-stealth-fighter.json) |
 | F29 Retaliator | 12086 | [12086-f29-retaliator.json](./12086-f29-retaliator.json) |
 | F29 Retaliator | 195920 | [195920-f29-retaliator.json](./195920-f29-retaliator.json) |
 | F2oggy | 231752 | [231752-f2oggy.json](./231752-f2oggy.json) |
