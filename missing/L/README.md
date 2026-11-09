@@ -1176,8 +1176,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Laserface | 183688 | [183688-laserface.json](./183688-laserface.json) |
 | Laserium | 104086 | [104086-laserium.json](./104086-laserium.json) |
 | Laserlight | 372234 | [372234-laserlight.json](./372234-laserlight.json) |
+| Laseronium | 44236 | [44236-laseronium.json](./44236-laseronium.json) |
 | Laseronium 2 | 54852 | [54852-laseronium-2.json](./54852-laseronium-2.json) |
+| Laseronium: Over the Line | 44241 | [44241-laseronium-over-the-line.json](./44241-laseronium-over-the-line.json) |
 | Laseronium: The Beam Focus | 55259 | [55259-laseronium-the-beam-focus.json](./55259-laseronium-the-beam-focus.json) |
+| Laseronium: The Line | 44239 | [44239-laseronium-the-line.json](./44239-laseronium-the-line.json) |
 | Laseronium: The Reflexion | 54853 | [54853-laseronium-the-reflexion.json](./54853-laseronium-the-reflexion.json) |
 | Laserpitium | 249307 | [249307-laserpitium.json](./249307-laserpitium.json) |
 | LaserPoint | 274530 | [274530-laserpoint.json](./274530-laserpoint.json) |
@@ -5241,6 +5244,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil Wayne Slots: Slot Machines | 323154 | [323154-lil-wayne-slots-slot-machines.json](./323154-lil-wayne-slots-slot-machines.json) |
 | Lil Ye Land | 328123 | [328123-lil-ye-land.json](./328123-lil-ye-land.json) |
 | Lil' Airport | 301267 | [301267-lil-airport.json](./301267-lil-airport.json) |
+| Lil' Blue Buddy | 44249 | [44249-lil-blue-buddy.json](./44249-lil-blue-buddy.json) |
 | Lil' Drone | 186149 | [186149-lil-drone.json](./186149-lil-drone.json) |
 | Lil' Guardsman | 243914 | [243914-lil-guardsman.json](./243914-lil-guardsman.json) |
 | Lil' Herder | 146891 | [146891-lil-herder.json](./146891-lil-herder.json) |
