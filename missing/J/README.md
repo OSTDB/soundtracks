@@ -276,6 +276,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jackpot Crash Course | 374296 | [374296-jackpot-crash-course.json](./374296-jackpot-crash-course.json) |
 | Jackpot Dungeon | 423250 | [423250-jackpot-dungeon.json](./423250-jackpot-dungeon.json) |
 | Jackpot Jubilee | 262119 | [262119-jackpot-jubilee.json](./262119-jackpot-jubilee.json) |
+| Jackpot Poker by PokerStars | 33179 | [33179-jackpot-poker-by-pokerstars.json](./33179-jackpot-poker-by-pokerstars.json) |
 | Jackpot Slots | 323151 | [323151-jackpot-slots.json](./323151-jackpot-slots.json) |
 | Jackpot Stadium | 91733 | [91733-jackpot-stadium.json](./91733-jackpot-stadium.json) |
 | Jackpot Tycoon | 210128 | [210128-jackpot-tycoon.json](./210128-jackpot-tycoon.json) |
