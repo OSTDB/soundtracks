@@ -9355,6 +9355,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Robert | 149048 | [149048-robot-robert.json](./149048-robot-robert.json) |
 | Robot Rogue | 155294 | [155294-robot-rogue.json](./155294-robot-rogue.json) |
 | Robot Ron | 266648 | [266648-robot-ron.json](./266648-robot-ron.json) |
+| Robot Rubble | 41479 | [41479-robot-rubble.json](./41479-robot-rubble.json) |
 | Robot Rumble 2 | 113767 | [113767-robot-rumble-2.json](./113767-robot-rumble-2.json) |
 | Robot Rumpus Royale | 230174 | [230174-robot-rumpus-royale.json](./230174-robot-rumpus-royale.json) |
 | Robot Run | 399877 | [399877-robot-run.json](./399877-robot-run.json) |
