@@ -25855,6 +25855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tom's Adventure | 202668 | [202668-toms-adventure.json](./202668-toms-adventure.json) |
 | Tom's Adventure | 245600 | [245600-toms-adventure.json](./245600-toms-adventure.json) |
 | Tom's Adventure | 367838 | [367838-toms-adventure.json](./367838-toms-adventure.json) |
+| Tom's Cruise | 28348 | [28348-toms-cruise.json](./28348-toms-cruise.json) |
 | Tom's Mansion | 76322 | [76322-toms-mansion.json](./76322-toms-mansion.json) |
 | TomaDo! | 391137 | [391137-tomado.json](./391137-tomado.json) |
 | Tomahawk | 26474 | [26474-tomahawk.json](./26474-tomahawk.json) |
@@ -28911,6 +28912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Train Game | 46038 | [46038-train-game.json](./46038-train-game.json) |
 | Train Goes Right | 386979 | [386979-train-goes-right.json](./386979-train-goes-right.json) |
 | Train Graveyard Simulator | 409406 | [409406-train-graveyard-simulator.json](./409406-train-graveyard-simulator.json) |
+| Train Harder | 29016 | [29016-train-harder.json](./29016-train-harder.json) |
 | Train Journey | 382209 | [382209-train-journey.json](./382209-train-journey.json) |
 | Train Journey | 74118 | [74118-train-journey.json](./74118-train-journey.json) |
 | Train Jumble | 346917 | [346917-train-jumble.json](./346917-train-jumble.json) |
