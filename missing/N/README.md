@@ -4433,6 +4433,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Night of the Assassins | 293016 | [293016-night-of-the-assassins.json](./293016-night-of-the-assassins.json) |
 | Night of the Basilisk | 381338 | [381338-night-of-the-basilisk.json](./381338-night-of-the-basilisk.json) |
 | Night of the Blood Moon | 107926 | [107926-night-of-the-blood-moon.json](./107926-night-of-the-blood-moon.json) |
+| Night of the Cephalopods | 66803 | [66803-night-of-the-cephalopods.json](./66803-night-of-the-cephalopods.json) |
 | Night of the Dead | 138639 | [138639-night-of-the-dead.json](./138639-night-of-the-dead.json) |
 | Night of the Dead Simulator | 315915 | [315915-night-of-the-dead-simulator.json](./315915-night-of-the-dead-simulator.json) |
 | Night of the Dead: Beginner Pack | 293407 | [293407-night-of-the-dead-beginner-pack.json](./293407-night-of-the-dead-beginner-pack.json) |
@@ -6573,6 +6574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noiz2sa | 335673 | [335673-noiz2sa.json](./335673-noiz2sa.json) |
 | Noiz2sa | 86033 | [86033-noiz2sa.json](./86033-noiz2sa.json) |
 | Nojong | 184380 | [184380-nojong.json](./184380-nojong.json) |
+| Nojuu Sentai Shibarukan | 66789 | [66789-nojuu-sentai-shibarukan.json](./66789-nojuu-sentai-shibarukan.json) |
 | Nok | 258362 | [258362-nok.json](./258362-nok.json) |
 | Nokbak | 55222 | [55222-nokbak.json](./55222-nokbak.json) |
 | Nokia Bowling | 350927 | [350927-nokia-bowling.json](./350927-nokia-bowling.json) |
