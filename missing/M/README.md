@@ -2087,6 +2087,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong Minimal | 213249 | [213249-mahjong-minimal.json](./213249-mahjong-minimal.json) |
 | Mahjong Mojo 3D | 87070 | [87070-mahjong-mojo-3d.json](./87070-mahjong-mojo-3d.json) |
 | Mahjong Musou: Former Army | 302817 | [302817-mahjong-musou-former-army.json](./302817-mahjong-musou-former-army.json) |
+| Mahjong Mysteries of the Past | 25289 | [25289-mahjong-mysteries-of-the-past.json](./25289-mahjong-mysteries-of-the-past.json) |
 | Mahjong Mysteries: Ancient Athena | 85267 | [85267-mahjong-mysteries-ancient-athena.json](./85267-mahjong-mysteries-ancient-athena.json) |
 | Mahjong Nagomi | 152004 | [152004-mahjong-nagomi.json](./152004-mahjong-nagomi.json) |
 | Mahjong on the Beach | 305195 | [305195-mahjong-on-the-beach.json](./305195-mahjong-on-the-beach.json) |
@@ -18719,6 +18720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotorGun | 63394 | [63394-motorgun.json](./63394-motorgun.json) |
 | Motorhead | 22824 | [22824-motorhead.json](./22824-motorhead.json) |
 | Motörhead | 28568 | [28568-motorhead.json](./28568-motorhead.json) |
+| MotorHeat | 25280 | [25280-motorheat.json](./25280-motorheat.json) |
 | Motorhome: Traveling America | 338049 | [338049-motorhome-traveling-america.json](./338049-motorhome-traveling-america.json) |
 | Motorhome: Traveling America - Collector's Edition | 356772 | [356772-motorhome-traveling-america-collectors-edition.json](./356772-motorhome-traveling-america-collectors-edition.json) |
 | Motorhome: Traveling North America 2 - Collector's Edition | 377671 | [377671-motorhome-traveling-north-america-2-collectors-edition.json](./377671-motorhome-traveling-north-america-2-collectors-edition.json) |
@@ -22699,6 +22701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mystery of the Crystal Portal | 25453 | [25453-mystery-of-the-crystal-portal.json](./25453-mystery-of-the-crystal-portal.json) |
 | Mystery of the Dark Jewels | 54243 | [54243-mystery-of-the-dark-jewels.json](./54243-mystery-of-the-dark-jewels.json) |
 | Mystery of the Lost Temples | 61103 | [61103-mystery-of-the-lost-temples.json](./61103-mystery-of-the-lost-temples.json) |
+| Mystery of the Lunar Archipelago | 25292 | [25292-mystery-of-the-lunar-archipelago.json](./25292-mystery-of-the-lunar-archipelago.json) |
 | Mystery of the Malign | 348463 | [348463-mystery-of-the-malign.json](./348463-mystery-of-the-malign.json) |
 | Mystery of the Missing Brigantine | 188519 | [188519-mystery-of-the-missing-brigantine.json](./188519-mystery-of-the-missing-brigantine.json) |
 | Mystery of the Mummy | 12690 | [12690-mystery-of-the-mummy.json](./12690-mystery-of-the-mummy.json) |
