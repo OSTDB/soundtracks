@@ -2479,6 +2479,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Mahjong + Janpai Tori | 269319 | [269319-3d-mahjong-janpai-tori.json](./269319-3d-mahjong-janpai-tori.json) |
 | 3D Mahjong Deluxe | 338903 | [338903-3d-mahjong-deluxe.json](./338903-3d-mahjong-deluxe.json) |
 | 3D Mania | 79028 | [79028-3d-mania.json](./79028-3d-mania.json) |
+| 3D Marble Flip | 71437 | [71437-3d-marble-flip.json](./71437-3d-marble-flip.json) |
 | 3D Maze | 382548 | [382548-3d-maze.json](./382548-3d-maze.json) |
 | 3D Maze | 382550 | [382550-3d-maze.json](./382550-3d-maze.json) |
 | 3D Maze | 421216 | [421216-3d-maze.json](./421216-3d-maze.json) |
