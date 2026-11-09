@@ -10728,6 +10728,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Silent Footsteps | 105072 | [105072-silent-footsteps.json](./105072-silent-footsteps.json) |
 | Silent Forest: Deadly Night Horror | 330404 | [330404-silent-forest-deadly-night-horror.json](./330404-silent-forest-deadly-night-horror.json) |
 | Silent Frontiers | 304606 | [304606-silent-frontiers.json](./304606-silent-frontiers.json) |
+| Silent Gentlemen | 72404 | [72404-silent-gentlemen.json](./72404-silent-gentlemen.json) |
 | Silent grill | 179878 | [179878-silent-grill.json](./179878-silent-grill.json) |
 | Silent Harbor | 236748 | [236748-silent-harbor.json](./236748-silent-harbor.json) |
 | Silent Harmony | 394479 | [394479-silent-harmony.json](./394479-silent-harmony.json) |
@@ -20796,6 +20797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Tales | 259033 | [259033-space-tales.json](./259033-space-tales.json) |
 | Space Tanks | 214453 | [214453-space-tanks.json](./214453-space-tanks.json) |
 | Space Taxi | 24510 | [24510-space-taxi.json](./24510-space-taxi.json) |
+| Space Taxi 2 | 72239 | [72239-space-taxi-2.json](./72239-space-taxi-2.json) |
 | Space Tek | 189057 | [189057-space-tek.json](./189057-space-tek.json) |
 | Space Theory | 203544 | [203544-space-theory.json](./203544-space-theory.json) |
 | Space Thinger | 34471 | [34471-space-thinger.json](./34471-space-thinger.json) |
@@ -24778,6 +24780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Fleet Armada: Rogue Adventures | 38796 | [38796-star-fleet-armada-rogue-adventures.json](./38796-star-fleet-armada-rogue-adventures.json) |
 | Star Fleet Deluxe | 395062 | [395062-star-fleet-deluxe.json](./395062-star-fleet-deluxe.json) |
 | Star Fleet I: The War Begins! | 25939 | [25939-star-fleet-i-the-war-begins.json](./25939-star-fleet-i-the-war-begins.json) |
+| Star Fleet II: Krellan Commander | 72233 | [72233-star-fleet-ii-krellan-commander.json](./72233-star-fleet-ii-krellan-commander.json) |
 | Star Force | 284222 | [284222-star-force.json](./284222-star-force.json) |
 | Star Force | 288103 | [288103-star-force.json](./288103-star-force.json) |
 | Star Force | 359727 | [359727-star-force.json](./359727-star-force.json) |
