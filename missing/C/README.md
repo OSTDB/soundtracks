@@ -4515,6 +4515,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Catan: Console Edition - Super Deluxe | 257426 | [257426-catan-console-edition-super-deluxe.json](./257426-catan-console-edition-super-deluxe.json) |
 | Catan: Console Edition - The Helpers | 275045 | [275045-catan-console-edition-the-helpers.json](./275045-catan-console-edition-the-helpers.json) |
 | Catan: Console Edition Deluxe | 239412 | [239412-catan-console-edition-deluxe.json](./239412-catan-console-edition-deluxe.json) |
+| Catan: Creator's Edition | 16539 | [16539-catan-creators-edition.json](./16539-catan-creators-edition.json) |
 | Catan: Das Kartenspiel | 98936 | [98936-catan-das-kartenspiel.json](./98936-catan-das-kartenspiel.json) |
 | Catan: World Explorers | 139848 | [139848-catan-world-explorers.json](./139848-catan-world-explorers.json) |
 | Catana | 180993 | [180993-catana.json](./180993-catana.json) |
@@ -5013,6 +5014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | CatxBlock | 255415 | [255415-catxblock.json](./255415-catxblock.json) |
 | Catyph: The Kunci Experiment | 34616 | [34616-catyph-the-kunci-experiment.json](./34616-catyph-the-kunci-experiment.json) |
 | Catz | 144796 | [144796-catz.json](./144796-catz.json) |
+| Catz | 16616 | [16616-catz.json](./16616-catz.json) |
 | Catz 3 | 71440 | [71440-catz-3.json](./71440-catz-3.json) |
 | Catz 4 | 159146 | [159146-catz-4.json](./159146-catz-4.json) |
 | Catz II: Your Virtual Petz | 73463 | [73463-catz-ii-your-virtual-petz.json](./73463-catz-ii-your-virtual-petz.json) |
@@ -5676,6 +5678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Central Limit Theorem | 133979 | [133979-central-limit-theorem.json](./133979-central-limit-theorem.json) |
 | Central Standard | 321130 | [321130-central-standard.json](./321130-central-standard.json) |
 | Central Station | 242244 | [242244-central-station.json](./242244-central-station.json) |
+| Centration | 16566 | [16566-centration.json](./16566-centration.json) |
 | Centre Court | 13472 | [13472-centre-court.json](./13472-centre-court.json) |
 | Centre Court Tennis | 3456 | [3456-centre-court-tennis.json](./3456-centre-court-tennis.json) |
 | Centre Court: Hard Hitter | 43382 | [43382-centre-court-hard-hitter.json](./43382-centre-court-hard-hitter.json) |
@@ -21276,6 +21279,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Hunter: Awakening | 157479 | [157479-cyber-hunter-awakening.json](./157479-cyber-hunter-awakening.json) |
 | Cyber Illusion | 146724 | [146724-cyber-illusion.json](./146724-cyber-illusion.json) |
 | Cyber Internet Club Simulator | 296501 | [296501-cyber-internet-club-simulator.json](./296501-cyber-internet-club-simulator.json) |
+| Cyber Knight | 16471 | [16471-cyber-knight.json](./16471-cyber-knight.json) |
+| Cyber Knight II | 16472 | [16472-cyber-knight-ii.json](./16472-cyber-knight-ii.json) |
 | Cyber Knight II: Chikyuu Teikoku no Yabou | 42548 | [42548-cyber-knight-ii-chikyuu-teikoku-no-yabou.json](./42548-cyber-knight-ii-chikyuu-teikoku-no-yabou.json) |
 | Cyber Knights: Flashpoint | 129596 | [129596-cyber-knights-flashpoint.json](./129596-cyber-knights-flashpoint.json) |
 | Cyber Lab | 379029 | [379029-cyber-lab.json](./379029-cyber-lab.json) |
