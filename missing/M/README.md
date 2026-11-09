@@ -2538,6 +2538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Major League Baseball 2K11 | 4992 | [4992-major-league-baseball-2k11.json](./4992-major-league-baseball-2k11.json) |
 | Major League Baseball 2K12 | 4993 | [4993-major-league-baseball-2k12.json](./4993-major-league-baseball-2k12.json) |
 | Major League Baseball 2K5 | 8907 | [8907-major-league-baseball-2k5.json](./8907-major-league-baseball-2k5.json) |
+| Major League Baseball 2k5: World Series Edition | 47327 | [47327-major-league-baseball-2k5-world-series-edition.json](./47327-major-league-baseball-2k5-world-series-edition.json) |
 | Major League Baseball 2K6 | 240488 | [240488-major-league-baseball-2k6.json](./240488-major-league-baseball-2k6.json) |
 | Major League Baseball 2K6 | 248539 | [248539-major-league-baseball-2k6.json](./248539-major-league-baseball-2k6.json) |
 | Major League Baseball 2K6 | 248540 | [248540-major-league-baseball-2k6.json](./248540-major-league-baseball-2k6.json) |
@@ -4912,6 +4913,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Ultimate Alliance 3: The Black Order - Rise of the Phoenix | 122701 | [122701-marvel-ultimate-alliance-3-the-black-order-rise-of-the-phoenix.json](./122701-marvel-ultimate-alliance-3-the-black-order-rise-of-the-phoenix.json) |
 | Marvel Ultimate Alliance 3: The Black Order - Shadow of Doom | 122702 | [122702-marvel-ultimate-alliance-3-the-black-order-shadow-of-doom.json](./122702-marvel-ultimate-alliance-3-the-black-order-shadow-of-doom.json) |
 | Marvel Ultimate Alliance 3: The Black Order Expansion Pass | 122703 | [122703-marvel-ultimate-alliance-3-the-black-order-expansion-pass.json](./122703-marvel-ultimate-alliance-3-the-black-order-expansion-pass.json) |
+| Marvel Ultimate Alliance Gold | 47388 | [47388-marvel-ultimate-alliance-gold.json](./47388-marvel-ultimate-alliance-gold.json) |
 | Marvel Vs Capcom 2 X-Men '97 Edition Deluxe Arcade | 314757 | [314757-marvel-vs-capcom-2-x-men-97-edition-deluxe-arcade.json](./314757-marvel-vs-capcom-2-x-men-97-edition-deluxe-arcade.json) |
 | Marvel vs. Capcom 2: New Age of Heroes | 305168 | [305168-marvel-vs-capcom-2-new-age-of-heroes.json](./305168-marvel-vs-capcom-2-new-age-of-heroes.json) |
 | Marvel vs. Capcom 2: New Age of Heroes | 305169 | [305169-marvel-vs-capcom-2-new-age-of-heroes.json](./305169-marvel-vs-capcom-2-new-age-of-heroes.json) |
@@ -9075,6 +9077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Memorial Series: Sunsoft vol. 4 | 58527 | [58527-memorial-series-sunsoft-vol-4.json](./58527-memorial-series-sunsoft-vol-4.json) |
 | Memorial Series: Sunsoft vol. 5 | 58525 | [58525-memorial-series-sunsoft-vol-5.json](./58525-memorial-series-sunsoft-vol-5.json) |
 | Memorial Series: Sunsoft vol. 6 | 58526 | [58526-memorial-series-sunsoft-vol-6.json](./58526-memorial-series-sunsoft-vol-6.json) |
+| Memorick the Aprentice Knight | 47353 | [47353-memorick-the-aprentice-knight.json](./47353-memorick-the-aprentice-knight.json) |
 | Memorick: The Apprentice Knight | 24244 | [24244-memorick-the-apprentice-knight.json](./24244-memorick-the-apprentice-knight.json) |
 | Memoriedit | 373521 | [373521-memoriedit.json](./373521-memoriedit.json) |
 | Memories | 123314 | [123314-memories.json](./123314-memories.json) |
@@ -14813,6 +14816,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MLB Rivals | 255104 | [255104-mlb-rivals.json](./255104-mlb-rivals.json) |
 | MLB Slam! | 47568 | [47568-mlb-slam.json](./47568-mlb-slam.json) |
 | MLB Slugfest 2003 | 47334 | [47334-mlb-slugfest-2003.json](./47334-mlb-slugfest-2003.json) |
+| MLB SlugFest 2006 | 47371 | [47371-mlb-slugfest-2006.json](./47371-mlb-slugfest-2006.json) |
 | MLB SlugFest: Loaded | 23537 | [23537-mlb-slugfest-loaded.json](./23537-mlb-slugfest-loaded.json) |
 | MLB Stickball | 71888 | [71888-mlb-stickball.json](./71888-mlb-stickball.json) |
 | MLB Superstars | 5011 | [5011-mlb-superstars.json](./5011-mlb-superstars.json) |
@@ -18558,6 +18562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MotoGP 3 | 5938 | [5938-motogp-3.json](./5938-motogp-3.json) |
 | MotoGP Arcade | 248689 | [248689-motogp-arcade.json](./248689-motogp-arcade.json) |
 | MotoGP Guru Racing 25/26 | 196554 | [196554-motogp-guru-racing-25-26.json](./196554-motogp-guru-racing-25-26.json) |
+| MotoGP Ultimate Racing Technology | 47351 | [47351-motogp-ultimate-racing-technology.json](./47351-motogp-ultimate-racing-technology.json) |
 | MotoGP: Ultimate Racing Technology 3 | 73433 | [73433-motogp-ultimate-racing-technology-3.json](./73433-motogp-ultimate-racing-technology-3.json) |
 | MotoGP4 | 20536 | [20536-motogp4.json](./20536-motogp4.json) |
 | Motoko Hime Adventure | 259489 | [259489-motoko-hime-adventure.json](./259489-motoko-hime-adventure.json) |
