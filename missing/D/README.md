@@ -584,6 +584,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dale and Peakot | 270736 | [270736-dale-and-peakot.json](./270736-dale-and-peakot.json) |
 | Dale Earnhardt Winner's Circle | 198718 | [198718-dale-earnhardt-winners-circle.json](./198718-dale-earnhardt-winners-circle.json) |
 | Dale Earnhardt Winner's Circle: Pacesetter Games | 198719 | [198719-dale-earnhardt-winners-circle-pacesetter-games.json](./198719-dale-earnhardt-winners-circle-pacesetter-games.json) |
+| Dale Hardshovel | 62318 | [62318-dale-hardshovel.json](./62318-dale-hardshovel.json) |
 | Dale Hardshovel HD | 35229 | [35229-dale-hardshovel-hd.json](./35229-dale-hardshovel-hd.json) |
 | Dalek Attack | 12029 | [12029-dalek-attack.json](./12029-dalek-attack.json) |
 | Dalek Mod | 232664 | [232664-dalek-mod.json](./232664-dalek-mod.json) |
@@ -14576,6 +14577,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Downhill Girl | 274918 | [274918-downhill-girl.json](./274918-downhill-girl.json) |
 | Downhill Jam | 181303 | [181303-downhill-jam.json](./181303-downhill-jam.json) |
 | Downhill Legend | 211240 | [211240-downhill-legend.json](./211240-downhill-legend.json) |
+| Downhill OMG 2 | 62317 | [62317-downhill-omg-2.json](./62317-downhill-omg-2.json) |
 | Downhill Pro Racer | 236155 | [236155-downhill-pro-racer.json](./236155-downhill-pro-racer.json) |
 | Downhill Republic | 193822 | [193822-downhill-republic.json](./193822-downhill-republic.json) |
 | Downhill Slalom | 66952 | [66952-downhill-slalom.json](./66952-downhill-slalom.json) |
