@@ -1749,6 +1749,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A.S.S.: Awesome Street Skaters | 245907 | [245907-a-s-s-awesome-street-skaters.json](./245907-a-s-s-awesome-street-skaters.json) |
 | A.S.T.R.A. | 175770 | [175770-a-s-t-r-a.json](./175770-a-s-t-r-a.json) |
 | A.T.O.M. | 164426 | [164426-a-t-o-m.json](./164426-a-t-o-m.json) |
+| A.V. | 35959 | [35959-a-v.json](./35959-a-v.json) |
 | A.V.A Global: Masters Pack | 298709 | [298709-a-v-a-global-masters-pack.json](./298709-a-v-a-global-masters-pack.json) |
 | A.V.A: Global - Busters Content | 302806 | [302806-a-v-a-global-busters-content.json](./302806-a-v-a-global-busters-content.json) |
 | A.V.A: Global - Busters Content: Lilly Edition | 302807 | [302807-a-v-a-global-busters-content-lilly-edition.json](./302807-a-v-a-global-busters-content-lilly-edition.json) |
@@ -4733,6 +4734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agalta 3 | 372562 | [372562-agalta-3.json](./372562-agalta-3.json) |
 | Agalta II | 372561 | [372561-agalta-ii.json](./372561-agalta-ii.json) |
 | Agama Versus Bugs | 303123 | [303123-agama-versus-bugs.json](./303123-agama-versus-bugs.json) |
+| Agapan | 35878 | [35878-agapan.json](./35878-agapan.json) |
 | Agapito's Crazy Adventure | 332833 | [332833-agapitos-crazy-adventure.json](./332833-agapitos-crazy-adventure.json) |
 | Agar.io | 11283 | [11283-agar-io.json](./11283-agar-io.json) |
 | Agarest Senki Mariage: Limited Edition | 64119 | [64119-agarest-senki-mariage-limited-edition.json](./64119-agarest-senki-mariage-limited-edition.json) |
@@ -9218,6 +9220,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Among Gods! RPG Adventure | 216078 | [216078-among-gods-rpg-adventure.json](./216078-among-gods-rpg-adventure.json) |
 | Among Paws | 390570 | [390570-among-paws.json](./390570-among-paws.json) |
 | Among Pipes | 147585 | [147585-among-pipes.json](./147585-among-pipes.json) |
+| Among Ripples | 35958 | [35958-among-ripples.json](./35958-among-ripples.json) |
 | Among Ripples 2 | 119637 | [119637-among-ripples-2.json](./119637-among-ripples-2.json) |
 | Among Ripples: Shallow Waters | 133793 | [133793-among-ripples-shallow-waters.json](./133793-among-ripples-shallow-waters.json) |
 | Among School Girls | 165006 | [165006-among-school-girls.json](./165006-among-school-girls.json) |
@@ -11823,6 +11826,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AO3dle | 372439 | [372439-ao3dle.json](./372439-ao3dle.json) |
 | AOD | 297785 | [297785-aod.json](./297785-aod.json) |
 | AOD: Art of Defense | 150369 | [150369-aod-art-of-defense.json](./150369-aod-art-of-defense.json) |
+| AoF World Online | 36041 | [36041-aof-world-online.json](./36041-aof-world-online.json) |
 | Aohri's Uprising | 254023 | [254023-aohris-uprising.json](./254023-aohris-uprising.json) |
 | Aoi | 226233 | [226233-aoi.json](./226233-aoi.json) |
 | Aoi Blink | 42093 | [42093-aoi-blink.json](./42093-aoi-blink.json) |
@@ -12434,6 +12438,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aqua Mundo | 289166 | [289166-aqua-mundo.json](./289166-aqua-mundo.json) |
 | Aqua Pals | 271661 | [271661-aqua-pals.json](./271661-aqua-pals.json) |
 | Aqua Panic | 364355 | [364355-aqua-panic.json](./364355-aqua-panic.json) |
+| Aqua Panic! | 35974 | [35974-aqua-panic.json](./35974-aqua-panic.json) |
 | Aqua Panic!: Heaven Pack | 169307 | [169307-aqua-panic-heaven-pack.json](./169307-aqua-panic-heaven-pack.json) |
 | Aqua Panic!: Inferno Pack | 224146 | [224146-aqua-panic-inferno-pack.json](./224146-aqua-panic-inferno-pack.json) |
 | Aqua Paradise: Boku no Suizokukan | 62543 | [62543-aqua-paradise-boku-no-suizokukan.json](./62543-aqua-paradise-boku-no-suizokukan.json) |
