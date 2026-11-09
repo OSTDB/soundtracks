@@ -2473,6 +2473,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Majo no Furo Life | 265640 | [265640-majo-no-furo-life.json](./265640-majo-no-furo-life.json) |
 | Majo no Yakata | 231592 | [231592-majo-no-yakata.json](./231592-majo-no-yakata.json) |
 | Majo'ou | 218950 | [218950-majoou.json](./218950-majoou.json) |
+| Majodou: Ano Chirigiwa no Utsukushisa | 70695 | [70695-majodou-ano-chirigiwa-no-utsukushisa.json](./70695-majodou-ano-chirigiwa-no-utsukushisa.json) |
 | Majogami | 354209 | [354209-majogami.json](./354209-majogami.json) |
 | Majokko Cream-Chan Gokko Series 1: Wan Nyon Idol Gakuen | 49702 | [49702-majokko-cream-chan-gokko-series-1-wan-nyon-idol-gakuen.json](./49702-majokko-cream-chan-gokko-series-1-wan-nyon-idol-gakuen.json) |
 | Majokko Cream-Chan Gokko Series 2: Kisekae Angel | 49701 | [49701-majokko-cream-chan-gokko-series-2-kisekae-angel.json](./49701-majokko-cream-chan-gokko-series-2-kisekae-angel.json) |
@@ -5120,6 +5121,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Masquerade | 350391 | [350391-masquerade.json](./350391-masquerade.json) |
 | Masquerade Hypnosis: Before I knew it, I'm Pregnant with your Child | 82646 | [82646-masquerade-hypnosis-before-i-knew-it-im-pregnant-with-your-child.json](./82646-masquerade-hypnosis-before-i-knew-it-im-pregnant-with-your-child.json) |
 | Masquerade Kiss | 239206 | [239206-masquerade-kiss.json](./239206-masquerade-kiss.json) |
+| Masquerade Maid Guy: Bouncing Battle Royale | 70558 | [70558-masquerade-maid-guy-bouncing-battle-royale.json](./70558-masquerade-maid-guy-bouncing-battle-royale.json) |
 | Masquerade of Miasma | 150621 | [150621-masquerade-of-miasma.json](./150621-masquerade-of-miasma.json) |
 | Masquerade: Hell Academy | 322194 | [322194-masquerade-hell-academy.json](./322194-masquerade-hell-academy.json) |
 | Masquerade: The Baubles of Doom | 23371 | [23371-masquerade-the-baubles-of-doom.json](./23371-masquerade-the-baubles-of-doom.json) |
@@ -21094,6 +21096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Friends | 90916 | [90916-my-friends.json](./90916-my-friends.json) |
 | My Friends the Monster Trainers | 394097 | [394097-my-friends-the-monster-trainers.json](./394097-my-friends-the-monster-trainers.json) |
 | My Frogger Toy Trials | 11482 | [11482-my-frogger-toy-trials.json](./11482-my-frogger-toy-trials.json) |
+| My Fun Facts Coach | 70554 | [70554-my-fun-facts-coach.json](./70554-my-fun-facts-coach.json) |
 | My Furry Detective | 192160 | [192160-my-furry-detective.json](./192160-my-furry-detective.json) |
 | My Furry Dictator | 168512 | [168512-my-furry-dictator.json](./168512-my-furry-dictator.json) |
 | My Furry Girlfriend | 244196 | [244196-my-furry-girlfriend.json](./244196-my-furry-girlfriend.json) |
