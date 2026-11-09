@@ -19136,6 +19136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Eater | 292399 | [292399-soul-eater.json](./292399-soul-eater.json) |
 | Soul Eater: Battle Resonance | 44527 | [44527-soul-eater-battle-resonance.json](./44527-soul-eater-battle-resonance.json) |
 | Soul Eater: Monotone Princess | 71887 | [71887-soul-eater-monotone-princess.json](./71887-soul-eater-monotone-princess.json) |
+| Soul Eater: Plot of Medusa | 67340 | [67340-soul-eater-plot-of-medusa.json](./67340-soul-eater-plot-of-medusa.json) |
 | Soul Edge | 1563 | [1563-soul-edge.json](./1563-soul-edge.json) |
 | Soul Edge Vs. Samurai Spirits | 45754 | [45754-soul-edge-vs-samurai-spirits.json](./45754-soul-edge-vs-samurai-spirits.json) |
 | Soul Elegy | 165666 | [165666-soul-elegy.json](./165666-soul-elegy.json) |
@@ -24628,6 +24629,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Star Archer | 337982 | [337982-star-archer.json](./337982-star-archer.json) |
 | Star Armada | 261595 | [261595-star-armada.json](./261595-star-armada.json) |
 | Star Arthur Densetsu I: Wakusei Mephius | 65513 | [65513-star-arthur-densetsu-i-wakusei-mephius.json](./65513-star-arthur-densetsu-i-wakusei-mephius.json) |
+| Star Arthur Densetsu II: Ankoku Seiun | 67418 | [67418-star-arthur-densetsu-ii-ankoku-seiun.json](./67418-star-arthur-densetsu-ii-ankoku-seiun.json) |
+| Star Arthur Densetsu III: Terra 4001 | 67416 | [67416-star-arthur-densetsu-iii-terra-4001.json](./67416-star-arthur-densetsu-iii-terra-4001.json) |
 | Star Ash Fleet | 345081 | [345081-star-ash-fleet.json](./345081-star-ash-fleet.json) |
 | Star Assault | 53653 | [53653-star-assault.json](./53653-star-assault.json) |
 | Star Atlas | 175639 | [175639-star-atlas.json](./175639-star-atlas.json) |
@@ -30626,6 +30629,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Suigetsu: Mayoi-Gokoro | 396592 | [396592-suigetsu-mayoi-gokoro.json](./396592-suigetsu-mayoi-gokoro.json) |
 | Suiheisen made Nan Mile?: Deep Blue Sky & Pure White Wings | 59776 | [59776-suiheisen-made-nan-mile-deep-blue-sky-and-pure-white-wings.json](./59776-suiheisen-made-nan-mile-deep-blue-sky-and-pure-white-wings.json) |
 | Suika | 132085 | [132085-suika.json](./132085-suika.json) |
+| Suika A.S+ | 67002 | [67002-suika-a-s.json](./67002-suika-a-s.json) |
 | Suika and Dragons | 339552 | [339552-suika-and-dragons.json](./339552-suika-and-dragons.json) |
 | Suika Animal Kingdom | 322066 | [322066-suika-animal-kingdom.json](./322066-suika-animal-kingdom.json) |
 | Suika Combination | 271153 | [271153-suika-combination.json](./271153-suika-combination.json) |
@@ -31505,6 +31509,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Battle Polycars | 288874 | [288874-super-battle-polycars.json](./288874-super-battle-polycars.json) |
 | Super Battle Racers | 344895 | [344895-super-battle-racers.json](./344895-super-battle-racers.json) |
 | Super Battle Sensha | 252407 | [252407-super-battle-sensha.json](./252407-super-battle-sensha.json) |
+| Super Battle Skin Panic | 67404 | [67404-super-battle-skin-panic.json](./67404-super-battle-skin-panic.json) |
 | Super Beach Bros. Wii | 394336 | [394336-super-beach-bros-wii.json](./394336-super-beach-bros-wii.json) |
 | Super Bear Adventure | 148427 | [148427-super-bear-adventure.json](./148427-super-bear-adventure.json) |
 | Super Beast Activation | 311823 | [311823-super-beast-activation.json](./311823-super-beast-activation.json) |
