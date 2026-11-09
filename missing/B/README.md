@@ -1680,6 +1680,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BallClimbing | 132932 | [132932-ballclimbing.json](./132932-ballclimbing.json) |
 | BallCore | 283979 | [283979-ballcore.json](./283979-ballcore.json) |
 | Balldemic | 179304 | [179304-balldemic.json](./179304-balldemic.json) |
+| Balldozer | 39055 | [39055-balldozer.json](./39055-balldozer.json) |
 | Balldventure | 226173 | [226173-balldventure.json](./226173-balldventure.json) |
 | Baller Blast | 197456 | [197456-baller-blast.json](./197456-baller-blast.json) |
 | Ballerburg | 129148 | [129148-ballerburg.json](./129148-ballerburg.json) |
@@ -7066,6 +7067,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beth the Exhibitionist | 154582 | [154582-beth-the-exhibitionist.json](./154582-beth-the-exhibitionist.json) |
 | Bethesda Pinball | 297501 | [297501-bethesda-pinball.json](./297501-bethesda-pinball.json) |
 | Betia Pera-pera English Adventure | 194976 | [194976-betia-pera-pera-english-adventure.json](./194976-betia-pera-pera-english-adventure.json) |
+| BeTiled! | 39054 | [39054-betiled.json](./39054-betiled.json) |
 | Betomis | 263943 | [263943-betomis.json](./263943-betomis.json) |
 | Beton Bath | 254009 | [254009-beton-bath.json](./254009-beton-bath.json) |
 | Beton Brutal | 240683 | [240683-beton-brutal.json](./240683-beton-brutal.json) |
@@ -9387,6 +9389,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Black Lake | 410926 | [410926-black-lake.json](./410926-black-lake.json) |
 | Black Lake | 63763 | [63763-black-lake.json](./63763-black-lake.json) |
 | Black Lamp | 11964 | [11964-black-lamp.json](./11964-black-lamp.json) |
+| Black Land | 39053 | [39053-black-land.json](./39053-black-land.json) |
 | Black Lazar | 187390 | [187390-black-lazar.json](./187390-black-lazar.json) |
 | Black Legend | 138900 | [138900-black-legend.json](./138900-black-legend.json) |
 | Black Licorice | 307677 | [307677-black-licorice.json](./307677-black-licorice.json) |
@@ -17071,6 +17074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bubble Bobble | 332242 | [332242-bubble-bobble.json](./332242-bubble-bobble.json) |
 | Bubble Bobble 2 | 298940 | [298940-bubble-bobble-2.json](./298940-bubble-bobble-2.json) |
 | Bubble Bobble 2 classic | 232400 | [232400-bubble-bobble-2-classic.json](./232400-bubble-bobble-2-classic.json) |
+| Bubble Bobble 4 CPC | 39080 | [39080-bubble-bobble-4-cpc.json](./39080-bubble-bobble-4-cpc.json) |
 | Bubble Bobble 4 Friends | 121708 | [121708-bubble-bobble-4-friends.json](./121708-bubble-bobble-4-friends.json) |
 | Bubble Bobble 4 Friends: Special Edition | 136075 | [136075-bubble-bobble-4-friends-special-edition.json](./136075-bubble-bobble-4-friends-special-edition.json) |
 | Bubble Bobble 4 Friends: The Baron Is Back! | 139837 | [139837-bubble-bobble-4-friends-the-baron-is-back.json](./139837-bubble-bobble-4-friends-the-baron-is-back.json) |
