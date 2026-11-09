@@ -3217,6 +3217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Peasants | 96255 | [96255-king-of-peasants.json](./96255-king-of-peasants.json) |
 | King of Phoenix | 105234 | [105234-king-of-phoenix.json](./105234-king-of-phoenix.json) |
 | King of Ping Pong: Megamix | 319444 | [319444-king-of-ping-pong-megamix.json](./319444-king-of-ping-pong-megamix.json) |
+| King of Pool | 66820 | [66820-king-of-pool.json](./66820-king-of-pool.json) |
 | King of Producer | 301435 | [301435-king-of-producer.json](./301435-king-of-producer.json) |
 | King of Pyramid Thieves | 300867 | [300867-king-of-pyramid-thieves.json](./300867-king-of-pyramid-thieves.json) |
 | King of Queendoms | 110609 | [110609-king-of-queendoms.json](./110609-king-of-queendoms.json) |
@@ -4840,6 +4841,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Knights of the Flexbox Table | 213965 | [213965-knights-of-the-flexbox-table.json](./213965-knights-of-the-flexbox-table.json) |
 | Knights of the Holy Loop | 183957 | [183957-knights-of-the-holy-loop.json](./183957-knights-of-the-holy-loop.json) |
 | Knights of the Kitchen Table | 207681 | [207681-knights-of-the-kitchen-table.json](./207681-knights-of-the-kitchen-table.json) |
+| Knights of the Phantom Castle | 66796 | [66796-knights-of-the-phantom-castle.json](./66796-knights-of-the-phantom-castle.json) |
 | Knights of the Road | 243213 | [243213-knights-of-the-road.json](./243213-knights-of-the-road.json) |
 | Knights of the Rogue Dungeon | 283273 | [283273-knights-of-the-rogue-dungeon.json](./283273-knights-of-the-rogue-dungeon.json) |
 | Knights of the Round | 224023 | [224023-knights-of-the-round.json](./224023-knights-of-the-round.json) |
