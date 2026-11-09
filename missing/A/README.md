@@ -17026,6 +17026,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Lilie Plus: The Alchemist of Salburg 3 | 43516 | [43516-atelier-lilie-plus-the-alchemist-of-salburg-3.json](./43516-atelier-lilie-plus-the-alchemist-of-salburg-3.json) |
 | Atelier Lilie: The Alchemist of Salburg 3 | 26441 | [26441-atelier-lilie-the-alchemist-of-salburg-3.json](./26441-atelier-lilie-the-alchemist-of-salburg-3.json) |
 | Atelier Lina: The Alchemist of Strahl | 67708 | [67708-atelier-lina-the-alchemist-of-strahl.json](./67708-atelier-lina-the-alchemist-of-strahl.json) |
+| Atelier Lise: The Alchemist of Orde | 70699 | [70699-atelier-lise-the-alchemist-of-orde.json](./70699-atelier-lise-the-alchemist-of-orde.json) |
 | Atelier Lulua: The Scion of Arland | 111330 | [111330-atelier-lulua-the-scion-of-arland.json](./111330-atelier-lulua-the-scion-of-arland.json) |
 | Atelier Lulua: The Scion of Arland - Additional Character: Meruru | 238049 | [238049-atelier-lulua-the-scion-of-arland-additional-character-meruru.json](./238049-atelier-lulua-the-scion-of-arland-additional-character-meruru.json) |
 | Atelier Lulua: The Scion of Arland - Additional Character: Totori | 238050 | [238050-atelier-lulua-the-scion-of-arland-additional-character-totori.json](./238050-atelier-lulua-the-scion-of-arland-additional-character-totori.json) |
