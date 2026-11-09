@@ -10099,6 +10099,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dinosaur RPG: Dino Survival Simulator Survivor | 317451 | [317451-dinosaur-rpg-dino-survival-simulator-survivor.json](./317451-dinosaur-rpg-dino-survival-simulator-survivor.json) |
 | Dinosaur Run | 388236 | [388236-dinosaur-run.json](./388236-dinosaur-run.json) |
 | Dinosaur Running | 313658 | [313658-dinosaur-running.json](./313658-dinosaur-running.json) |
+| Dinosaur Safari | 66723 | [66723-dinosaur-safari.json](./66723-dinosaur-safari.json) |
 | Dinosaur Safari VR | 110625 | [110625-dinosaur-safari-vr.json](./110625-dinosaur-safari-vr.json) |
 | Dinosaur Safari: Evolution | 107123 | [107123-dinosaur-safari-evolution.json](./107123-dinosaur-safari-evolution.json) |
 | Dinosaur Shakespeare: To Date or Not to Date? | 120682 | [120682-dinosaur-shakespeare-to-date-or-not-to-date.json](./120682-dinosaur-shakespeare-to-date-or-not-to-date.json) |
@@ -11228,6 +11229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Distant Transmission | 159886 | [159886-distant-transmission.json](./159886-distant-transmission.json) |
 | Distant Visitant | 390483 | [390483-distant-visitant.json](./390483-distant-visitant.json) |
 | Distant Woods | 332332 | [332332-distant-woods.json](./332332-distant-woods.json) |
+| Distant Worlds | 66798 | [66798-distant-worlds.json](./66798-distant-worlds.json) |
 | Distant Worlds 2 | 138722 | [138722-distant-worlds-2.json](./138722-distant-worlds-2.json) |
 | Distant Worlds 2: Factions - Atuuk and Wekkarus | 337557 | [337557-distant-worlds-2-factions-atuuk-and-wekkarus.json](./337557-distant-worlds-2-factions-atuuk-and-wekkarus.json) |
 | Distant Worlds 2: Factions - Ikkuro and Dhayut | 242048 | [242048-distant-worlds-2-factions-ikkuro-and-dhayut.json](./242048-distant-worlds-2-factions-ikkuro-and-dhayut.json) |
@@ -14733,6 +14735,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Mario: Vitamin Toss | 231636 | [231636-dr-mario-vitamin-toss.json](./231636-dr-mario-vitamin-toss.json) |
 | Dr. Mary | 268447 | [268447-dr-mary.json](./268447-dr-mary.json) |
 | Dr. Maybee and the Adventures of Scarygirl | 44514 | [44514-dr-maybee-and-the-adventures-of-scarygirl.json](./44514-dr-maybee-and-the-adventures-of-scarygirl.json) |
+| Dr. Mazing | 66319 | [66319-dr-mazing.json](./66319-dr-mazing.json) |
 | Dr. Mikio Hiraiwa-Supervised Yomu Tore GO! | 145389 | [145389-dr-mikio-hiraiwa-supervised-yomu-tore-go.json](./145389-dr-mikio-hiraiwa-supervised-yomu-tore-go.json) |
 | Dr. Mini Games | 202163 | [202163-dr-mini-games.json](./202163-dr-mini-games.json) |
 | Dr. Monty's Traveling Caravan of Moth-Based Oddities! | 418188 | [418188-dr-montys-traveling-caravan-of-moth-based-oddities.json](./418188-dr-montys-traveling-caravan-of-moth-based-oddities.json) |
