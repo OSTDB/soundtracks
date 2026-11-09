@@ -3796,6 +3796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marica: Shinjitsu no Sekai | 61389 | [61389-marica-shinjitsu-no-sekai.json](./61389-marica-shinjitsu-no-sekai.json) |
 | Maridows 64 | 250047 | [250047-maridows-64.json](./250047-maridows-64.json) |
 | Marie & Elie no Atelier: Salburg no Renkinjutsushi 1-2 | 130822 | [130822-marie-and-elie-no-atelier-salburg-no-renkinjutsushi-1-2.json](./130822-marie-and-elie-no-atelier-salburg-no-renkinjutsushi-1-2.json) |
+| Marie & Elie: Two People's Atelier | 27124 | [27124-marie-and-elie-two-peoples-atelier.json](./27124-marie-and-elie-two-peoples-atelier.json) |
 | Marie & Gully no Let's Science | 65319 | [65319-marie-and-gully-no-lets-science.json](./65319-marie-and-gully-no-lets-science.json) |
 | Marie Android | 407720 | [407720-marie-android.json](./407720-marie-android.json) |
 | Marie Antoinette's Solitaire | 137213 | [137213-marie-antoinettes-solitaire.json](./137213-marie-antoinettes-solitaire.json) |
@@ -6645,6 +6646,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mazes Unlimited | 93443 | [93443-mazes-unlimited.json](./93443-mazes-unlimited.json) |
 | Mazeskalation | 183767 | [183767-mazeskalation.json](./183767-mazeskalation.json) |
 | MazeSlug | 342788 | [342788-mazeslug.json](./342788-mazeslug.json) |
+| MazeSnake | 27963 | [27963-mazesnake.json](./27963-mazesnake.json) |
 | MazeTD | 384330 | [384330-mazetd.json](./384330-mazetd.json) |
 | Mazethingie | 318890 | [318890-mazethingie.json](./318890-mazethingie.json) |
 | Mazewar | 381593 | [381593-mazewar.json](./381593-mazewar.json) |
