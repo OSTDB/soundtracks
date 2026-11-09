@@ -5114,6 +5114,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy 25th Anniversary Ultimate Box | 282727 | [282727-final-fantasy-25th-anniversary-ultimate-box.json](./282727-final-fantasy-25th-anniversary-ultimate-box.json) |
 | Final Fantasy 5: Void Divergence | 325969 | [325969-final-fantasy-5-void-divergence.json](./325969-final-fantasy-5-void-divergence.json) |
 | Final Fantasy 6: A Complete Hack | 353924 | [353924-final-fantasy-6-a-complete-hack.json](./353924-final-fantasy-6-a-complete-hack.json) |
+| Final Fantasy Adventure | 407 | [407-final-fantasy-adventure.json](./407-final-fantasy-adventure.json) |
 | Final Fantasy Adventure DX | 306591 | [306591-final-fantasy-adventure-dx.json](./306591-final-fantasy-adventure-dx.json) |
 | Final Fantasy Agito | 7400 | [7400-final-fantasy-agito.json](./7400-final-fantasy-agito.json) |
 | Final Fantasy Anthology | 146214 | [146214-final-fantasy-anthology.json](./146214-final-fantasy-anthology.json) |
@@ -5239,6 +5240,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Fantasy VII Remake: Deluxe Edition | 134226 | [134226-final-fantasy-vii-remake-deluxe-edition.json](./134226-final-fantasy-vii-remake-deluxe-edition.json) |
 | Final Fantasy VII Remake: Digital Deluxe Edition | 119576 | [119576-final-fantasy-vii-remake-digital-deluxe-edition.json](./119576-final-fantasy-vii-remake-digital-deluxe-edition.json) |
 | Final Fantasy VII Remake: Digital Deluxe Upgrade | 133299 | [133299-final-fantasy-vii-remake-digital-deluxe-upgrade.json](./133299-final-fantasy-vii-remake-digital-deluxe-upgrade.json) |
+| Final Fantasy VII Remake: Episode Intermission | 144037 | [144037-final-fantasy-vii-remake-episode-intermission.json](./144037-final-fantasy-vii-remake-episode-intermission.json) |
 | Final Fantasy VII Revelation: Accessory - Reclaimant Choker & Survival Set | 416146 | [416146-final-fantasy-vii-revelation-accessory-reclaimant-choker-and-survival-set.json](./416146-final-fantasy-vii-revelation-accessory-reclaimant-choker-and-survival-set.json) |
 | Final Fantasy VII Revelation: Accessory - Risk Taker's Choker | 416153 | [416153-final-fantasy-vii-revelation-accessory-risk-takers-choker.json](./416153-final-fantasy-vii-revelation-accessory-risk-takers-choker.json) |
 | Final Fantasy VII Revelation: Armor - Nymphwing Bracelet | 416152 | [416152-final-fantasy-vii-revelation-armor-nymphwing-bracelet.json](./416152-final-fantasy-vii-revelation-armor-nymphwing-bracelet.json) |
