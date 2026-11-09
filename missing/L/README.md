@@ -6387,6 +6387,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Rocket Girl | 62250 | [62250-little-rocket-girl.json](./62250-little-rocket-girl.json) |
 | Little Rocketman | 263420 | [263420-little-rocketman.json](./263420-little-rocketman.json) |
 | Little Rockets | 207975 | [207975-little-rockets.json](./207975-little-rockets.json) |
+| Little Romance | 66246 | [66246-little-romance.json](./66246-little-romance.json) |
 | Little Rooms | 341173 | [341173-little-rooms.json](./341173-little-rooms.json) |
 | Little Runmo | 275803 | [275803-little-runmo.json](./275803-little-runmo.json) |
 | Little Samson | 375604 | [375604-little-samson.json](./375604-little-samson.json) |
@@ -7774,6 +7775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loopy Goes Fishing | 364650 | [364650-loopy-goes-fishing.json](./364650-loopy-goes-fishing.json) |
 | Loopy Particle Simulator | 182079 | [182079-loopy-particle-simulator.json](./182079-loopy-particle-simulator.json) |
 | Loopy Tennis | 317228 | [317228-loopy-tennis.json](./317228-loopy-tennis.json) |
+| Loopy Town no Oheya ga Hoshii! | 66247 | [66247-loopy-town-no-oheya-ga-hoshii.json](./66247-loopy-town-no-oheya-ga-hoshii.json) |
 | Loopy Treasure | 180764 | [180764-loopy-treasure.json](./180764-loopy-treasure.json) |
 | Loopy Wizard | 200138 | [200138-loopy-wizard.json](./200138-loopy-wizard.json) |
 | Loopy's Train Set | 367617 | [367617-loopys-train-set.json](./367617-loopys-train-set.json) |
@@ -8559,6 +8561,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Memories 3 Side Stories | 369569 | [369569-lost-memories-3-side-stories.json](./369569-lost-memories-3-side-stories.json) |
 | Lost Memories Dot Net | 139539 | [139539-lost-memories-dot-net.json](./139539-lost-memories-dot-net.json) |
 | Lost Memories: Romance You Choose | 299456 | [299456-lost-memories-romance-you-choose.json](./299456-lost-memories-romance-you-choose.json) |
+| Lost Memory of Angel Frane | 65694 | [65694-lost-memory-of-angel-frane.json](./65694-lost-memory-of-angel-frane.json) |
+| Lost Memory of Angel Frane 2 | 65693 | [65693-lost-memory-of-angel-frane-2.json](./65693-lost-memory-of-angel-frane-2.json) |
 | Lost Meow | 295619 | [295619-lost-meow.json](./295619-lost-meow.json) |
 | Lost Meridian | 270491 | [270491-lost-meridian.json](./270491-lost-meridian.json) |
 | Lost Mind | 405022 | [405022-lost-mind.json](./405022-lost-mind.json) |
@@ -9991,6 +9995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lumines Live! | 4691 | [4691-lumines-live.json](./4691-lumines-live.json) |
 | Lumines Plus | 21389 | [21389-lumines-plus.json](./21389-lumines-plus.json) |
 | Lumines Supernova | 4692 | [4692-lumines-supernova.json](./4692-lumines-supernova.json) |
+| Lumines: Advance Pack | 66219 | [66219-lumines-advance-pack.json](./66219-lumines-advance-pack.json) |
 | Lumines: Advanced Pack | 93825 | [93825-lumines-advanced-pack.json](./93825-lumines-advanced-pack.json) |
 | Lumines: Puzzle & Music | 58123 | [58123-lumines-puzzle-and-music.json](./58123-lumines-puzzle-and-music.json) |
 | Lumines: Puzzle Fusion | 78329 | [78329-lumines-puzzle-fusion.json](./78329-lumines-puzzle-fusion.json) |
@@ -10305,6 +10310,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lupin the Third Part III: Sanjou! Kogane no Ude | 349411 | [349411-lupin-the-third-part-iii-sanjou-kogane-no-ude.json](./349411-lupin-the-third-part-iii-sanjou-kogane-no-ude.json) |
 | Lupin the Third: Cagliostro no Shiro | 66204 | [66204-lupin-the-third-cagliostro-no-shiro.json](./66204-lupin-the-third-cagliostro-no-shiro.json) |
 | Lupinball | 33847 | [33847-lupinball.json](./33847-lupinball.json) |
+| Lupiton's Wonder Palette | 66245 | [66245-lupitons-wonder-palette.json](./66245-lupitons-wonder-palette.json) |
 | Lupo Alberto: The VideoGame | 98958 | [98958-lupo-alberto-the-videogame.json](./98958-lupo-alberto-the-videogame.json) |
 | Lupos Adventure | 85712 | [85712-lupos-adventure.json](./85712-lupos-adventure.json) |
 | Luppy | 379003 | [379003-luppy.json](./379003-luppy.json) |
