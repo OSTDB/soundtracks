@@ -762,6 +762,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Land of Mushrooms: Small Mode - Mini Mushroom Mayhem | 324488 | [324488-land-of-mushrooms-small-mode-mini-mushroom-mayhem.json](./324488-land-of-mushrooms-small-mode-mini-mushroom-mayhem.json) |
 | Land of Mushrooms: Sweet Classic Mushrooms - Skin Set | 324427 | [324427-land-of-mushrooms-sweet-classic-mushrooms-skin-set.json](./324427-land-of-mushrooms-sweet-classic-mushrooms-skin-set.json) |
 | Land of Mushrooms: The Front Yard - Background | 324475 | [324475-land-of-mushrooms-the-front-yard-background.json](./324475-land-of-mushrooms-the-front-yard-background.json) |
+| Land of Neverwhere | 54576 | [54576-land-of-neverwhere.json](./54576-land-of-neverwhere.json) |
 | Land of Ngoto | 125360 | [125360-land-of-ngoto.json](./125360-land-of-ngoto.json) |
 | Land of Nod | 208439 | [208439-land-of-nod.json](./208439-land-of-nod.json) |
 | Land of Puzzles: Battles | 107506 | [107506-land-of-puzzles-battles.json](./107506-land-of-puzzles-battles.json) |
@@ -9671,6 +9672,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lucky Luke: Nitroglycerine | 240264 | [240264-lucky-luke-nitroglycerine.json](./240264-lucky-luke-nitroglycerine.json) |
 | Lucky Luke: Nitroglycerine | 240268 | [240268-lucky-luke-nitroglycerine.json](./240268-lucky-luke-nitroglycerine.json) |
 | Lucky Luke: Nitroglycerine | 240272 | [240272-lucky-luke-nitroglycerine.json](./240272-lucky-luke-nitroglycerine.json) |
+| Lucky Luke: Nitroglycerine | 54593 | [54593-lucky-luke-nitroglycerine.json](./54593-lucky-luke-nitroglycerine.json) |
 | Lucky Luke: On the Dalton's Trail | 44968 | [44968-lucky-luke-on-the-daltons-trail.json](./44968-lucky-luke-on-the-daltons-trail.json) |
 | Lucky Luke: Wanted! | 49331 | [49331-lucky-luke-wanted.json](./49331-lucky-luke-wanted.json) |
 | Lucky Luke: Western Fever | 43886 | [43886-lucky-luke-western-fever.json](./43886-lucky-luke-western-fever.json) |
