@@ -2380,6 +2380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Blade Skating | 217723 | [217723-3d-blade-skating.json](./217723-3d-blade-skating.json) |
 | 3D Blitz | 245388 | [245388-3d-blitz.json](./245388-3d-blitz.json) |
 | 3D Block | 48905 | [48905-3d-block.json](./48905-3d-block.json) |
+| 3D Block Kuzushi | 63982 | [63982-3d-block-kuzushi.json](./63982-3d-block-kuzushi.json) |
 | 3D Bomb Alley | 8522 | [8522-3d-bomb-alley.json](./8522-3d-bomb-alley.json) |
 | 3D Bomberman | 198218 | [198218-3d-bomberman.json](./198218-3d-bomberman.json) |
 | 3D Bomberman Atomic | 198214 | [198214-3d-bomberman-atomic.json](./198214-3d-bomberman-atomic.json) |
