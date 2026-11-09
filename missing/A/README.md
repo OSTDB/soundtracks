@@ -2390,6 +2390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abyssal Survivors | 272360 | [272360-abyssal-survivors.json](./272360-abyssal-survivors.json) |
 | Abyssal Sword | 213667 | [213667-abyssal-sword.json](./213667-abyssal-sword.json) |
 | Abyssal Trench | 341989 | [341989-abyssal-trench.json](./341989-abyssal-trench.json) |
+| Abyssal Zone | 30987 | [30987-abyssal-zone.json](./30987-abyssal-zone.json) |
 | AbyssalCraft | 232418 | [232418-abyssalcraft.json](./232418-abyssalcraft.json) |
 | Abyssalis | 421843 | [421843-abyssalis.json](./421843-abyssalis.json) |
 | AbyssalRestaurant | 312662 | [312662-abyssalrestaurant.json](./312662-abyssalrestaurant.json) |
@@ -3963,6 +3964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventures of forsenE: The Hobo Knight | 116699 | [116699-adventures-of-forsene-the-hobo-knight.json](./116699-adventures-of-forsene-the-hobo-knight.json) |
 | Adventures of Helio | 239399 | [239399-adventures-of-helio.json](./239399-adventures-of-helio.json) |
 | Adventures of Heroes | 65783 | [65783-adventures-of-heroes.json](./65783-adventures-of-heroes.json) |
+| Adventures of Hooi | 30312 | [30312-adventures-of-hooi.json](./30312-adventures-of-hooi.json) |
 | Adventures of Isabelle Fine: Murder on Rails | 120057 | [120057-adventures-of-isabelle-fine-murder-on-rails.json](./120057-adventures-of-isabelle-fine-murder-on-rails.json) |
 | Adventures of Jack: Platformer | 58245 | [58245-adventures-of-jack-platformer.json](./58245-adventures-of-jack-platformer.json) |
 | Adventures of JoJo & ToTo | 253261 | [253261-adventures-of-jojo-and-toto.json](./253261-adventures-of-jojo-and-toto.json) |
@@ -7182,6 +7184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien Hominid: The Extra Terrestrial Bundle | 274442 | [274442-alien-hominid-the-extra-terrestrial-bundle.json](./274442-alien-hominid-the-extra-terrestrial-bundle.json) |
 | Alien Hordes | 99390 | [99390-alien-hordes.json](./99390-alien-hordes.json) |
 | Alien Horizon | 200363 | [200363-alien-horizon.json](./200363-alien-horizon.json) |
+| Alien Hostage | 30337 | [30337-alien-hostage.json](./30337-alien-hostage.json) |
 | Alien Hunt | 166706 | [166706-alien-hunt.json](./166706-alien-hunt.json) |
 | Alien Hunt 3D | 105645 | [105645-alien-hunt-3d.json](./105645-alien-hunt-3d.json) |
 | Alien Hunter | 108804 | [108804-alien-hunter.json](./108804-alien-hunter.json) |
@@ -9837,6 +9840,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Andi's Moving Company | 182139 | [182139-andis-moving-company.json](./182139-andis-moving-company.json) |
 | Andon | 401287 | [401287-andon.json](./401287-andon.json) |
 | Andor's Trail | 207864 | [207864-andors-trail.json](./207864-andors-trail.json) |
+| Andoran Skye XD | 30385 | [30385-andoran-skye-xd.json](./30385-andoran-skye-xd.json) |
 | Andou: Pulse of Cup | 369572 | [369572-andou-pulse-of-cup.json](./369572-andou-pulse-of-cup.json) |
 | Andre Agassi Tennis | 369245 | [369245-andre-agassi-tennis.json](./369245-andre-agassi-tennis.json) |
 | Andre Panza Kick Boxing | 42128 | [42128-andre-panza-kick-boxing.json](./42128-andre-panza-kick-boxing.json) |
@@ -17775,6 +17779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Attacking Zegeta 2 | 56543 | [56543-attacking-zegeta-2.json](./56543-attacking-zegeta-2.json) |
 | Attactics | 318310 | [318310-attactics.json](./318310-attactics.json) |
 | Attank! | 90902 | [90902-attank.json](./90902-attank.json) |
+| Attempt[42] | 30331 | [30331-attempt-42.json](./30331-attempt-42.json) |
 | Attenborough's Antarctic: An Exploration of Life in the Freezer | 262253 | [262253-attenboroughs-antarctic-an-exploration-of-life-in-the-freezer.json](./262253-attenboroughs-antarctic-an-exploration-of-life-in-the-freezer.json) |
 | Attention Deficit: A story about ADHD | 364007 | [364007-attention-deficit-a-story-about-adhd.json](./364007-attention-deficit-a-story-about-adhd.json) |
 | Attention Heroes! | 151912 | [151912-attention-heroes.json](./151912-attention-heroes.json) |
