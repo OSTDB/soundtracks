@@ -8594,6 +8594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Flow: Last Origins | 267471 | [267471-flow-last-origins.json](./267471-flow-last-origins.json) |
 | Flow: Syn x Vertue | 278265 | [278265-flow-syn-x-vertue.json](./278265-flow-syn-x-vertue.json) |
 | Flow: The Sliding | 41934 | [41934-flow-the-sliding.json](./41934-flow-the-sliding.json) |
+| Flow: Urban Dance Uprising | 43385 | [43385-flow-urban-dance-uprising.json](./43385-flow-urban-dance-uprising.json) |
 | Flow's Island | 143868 | [143868-flows-island.json](./143868-flows-island.json) |
 | Flowars | 269439 | [269439-flowars.json](./269439-flowars.json) |
 | Flowball | 248797 | [248797-flowball.json](./248797-flowball.json) |
@@ -13529,6 +13530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fugitive Flight | 395835 | [395835-fugitive-flight.json](./395835-fugitive-flight.json) |
 | Fugitive Free Rider | 388775 | [388775-fugitive-free-rider.json](./388775-fugitive-free-rider.json) |
 | Fugitive Hunter | 24101 | [24101-fugitive-hunter.json](./24101-fugitive-hunter.json) |
+| Fugitive Hunter: War on Terror | 43383 | [43383-fugitive-hunter-war-on-terror.json](./43383-fugitive-hunter-war-on-terror.json) |
 | Fugitive Shift | 183836 | [183836-fugitive-shift.json](./183836-fugitive-shift.json) |
 | Fugitive Tense: A Game About TIme | 382468 | [382468-fugitive-tense-a-game-about-time.json](./382468-fugitive-tense-a-game-about-time.json) |
 | Fugl | 67626 | [67626-fugl.json](./67626-fugl.json) |
@@ -13699,6 +13701,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fullmetal Alchemist and the Broken Angel | 19071 | [19071-fullmetal-alchemist-and-the-broken-angel.json](./19071-fullmetal-alchemist-and-the-broken-angel.json) |
 | Fullmetal Alchemist: Brotherhood | 25172 | [25172-fullmetal-alchemist-brotherhood.json](./25172-fullmetal-alchemist-brotherhood.json) |
 | Fullmetal Alchemist: Daughter of the Dusk | 77766 | [77766-fullmetal-alchemist-daughter-of-the-dusk.json](./77766-fullmetal-alchemist-daughter-of-the-dusk.json) |
+| Fullmetal Alchemist: Dream Carnival | 43405 | [43405-fullmetal-alchemist-dream-carnival.json](./43405-fullmetal-alchemist-dream-carnival.json) |
 | Fullmetal Alchemist: Dual Sympathy | 19073 | [19073-fullmetal-alchemist-dual-sympathy.json](./19073-fullmetal-alchemist-dual-sympathy.json) |
 | Fullmetal Alchemist: Flameout | 396976 | [396976-fullmetal-alchemist-flameout.json](./396976-fullmetal-alchemist-flameout.json) |
 | Fullmetal Alchemist: Iron & Flame | 185826 | [185826-fullmetal-alchemist-iron-and-flame.json](./185826-fullmetal-alchemist-iron-and-flame.json) |
