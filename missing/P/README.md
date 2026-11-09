@@ -15895,6 +15895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prodigal | 139196 | [139196-prodigal.json](./139196-prodigal.json) |
 | Prodigal | 304099 | [304099-prodigal.json](./304099-prodigal.json) |
 | Prodigious Avian | 257775 | [257775-prodigious-avian.json](./257775-prodigious-avian.json) |
+| Prodigy | 28956 | [28956-prodigy.json](./28956-prodigy.json) |
 | Prodigy | 85588 | [85588-prodigy.json](./85588-prodigy.json) |
 | Prodigy Math Game | 103984 | [103984-prodigy-math-game.json](./103984-prodigy-math-game.json) |
 | Prodigy Racing | 311287 | [311287-prodigy-racing.json](./311287-prodigy-racing.json) |
@@ -19210,6 +19211,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Series Vol. 2: Crossword | 83304 | [83304-puzzle-series-vol-2-crossword.json](./83304-puzzle-series-vol-2-crossword.json) |
 | Puzzle Series Vol. 2: Illust Logic + Colourful Logic | 85359 | [85359-puzzle-series-vol-2-illust-logic-colourful-logic.json](./85359-puzzle-series-vol-2-illust-logic-colourful-logic.json) |
 | Puzzle Series Vol. 3: Sudoku | 269954 | [269954-puzzle-series-vol-3-sudoku.json](./269954-puzzle-series-vol-3-sudoku.json) |
+| Puzzle Series Vol. 5: Slitherlink | 28963 | [28963-puzzle-series-vol-5-slitherlink.json](./28963-puzzle-series-vol-5-slitherlink.json) |
 | Puzzle Series Vol. 6: Illust Logic | 57305 | [57305-puzzle-series-vol-6-illust-logic.json](./57305-puzzle-series-vol-6-illust-logic.json) |
 | Puzzle Series Vol. 7: Crossword 2 | 83301 | [83301-puzzle-series-vol-7-crossword-2.json](./83301-puzzle-series-vol-7-crossword-2.json) |
 | Puzzle Series Vol. 8: Nankuro | 83407 | [83407-puzzle-series-vol-8-nankuro.json](./83407-puzzle-series-vol-8-nankuro.json) |
