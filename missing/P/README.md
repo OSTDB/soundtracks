@@ -5199,6 +5199,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Petra Theos | 395609 | [395609-petra-theos.json](./395609-petra-theos.json) |
 | Petracal | 364824 | [364824-petracal.json](./364824-petracal.json) |
 | Petradise | 175246 | [175246-petradise.json](./175246-petradise.json) |
+| Petri | 11732 | [11732-petri.json](./11732-petri.json) |
 | Petri Dish | 356624 | [356624-petri-dish.json](./356624-petri-dish.json) |
 | Petrichor | 317198 | [317198-petrichor.json](./317198-petrichor.json) |
 | Petrichor | 333175 | [333175-petrichor.json](./333175-petrichor.json) |
