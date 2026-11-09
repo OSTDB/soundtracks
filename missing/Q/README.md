@@ -837,6 +837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Quest Arrest | 141615 | [141615-quest-arrest.json](./141615-quest-arrest.json) |
 | Quest Braintainment | 334625 | [334625-quest-braintainment.json](./334625-quest-braintainment.json) |
 | Quest Eternal | 290954 | [290954-quest-eternal.json](./290954-quest-eternal.json) |
+| Quest fo Karma | 62303 | [62303-quest-fo-karma.json](./62303-quest-fo-karma.json) |
 | Quest for 2Moo | 273252 | [273252-quest-for-2moo.json](./273252-quest-for-2moo.json) |
 | Quest for a Punchline: The Collection | 333866 | [333866-quest-for-a-punchline-the-collection.json](./333866-quest-for-a-punchline-the-collection.json) |
 | Quest for Camelot | 307793 | [307793-quest-for-camelot.json](./307793-quest-for-camelot.json) |
