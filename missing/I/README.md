@@ -2044,6 +2044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | IHRA Drag Racing 2004 | 69921 | [69921-ihra-drag-racing-2004.json](./69921-ihra-drag-racing-2004.json) |
 | IHRA Drag Racing: Sportsman Edition | 20547 | [20547-ihra-drag-racing-sportsman-edition.json](./20547-ihra-drag-racing-sportsman-edition.json) |
 | IHRA Motorsports | 138075 | [138075-ihra-motorsports.json](./138075-ihra-motorsports.json) |
+| IHRA Motorsports Drag Racing | 44933 | [44933-ihra-motorsports-drag-racing.json](./44933-ihra-motorsports-drag-racing.json) |
 | IHRA Professional Drag Racing 2005 | 43221 | [43221-ihra-professional-drag-racing-2005.json](./43221-ihra-professional-drag-racing-2005.json) |
 | IHugU | 68611 | [68611-ihugu.json](./68611-ihugu.json) |
 | II-III-V | 180808 | [180808-ii-iii-v.json](./180808-ii-iii-v.json) |
@@ -4013,7 +4014,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
-| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5060,6 +5060,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Intergalactic | 263025 | [263025-intergalactic.json](./263025-intergalactic.json) |
 | Intergalactic Ambassador | 141753 | [141753-intergalactic-ambassador.json](./141753-intergalactic-ambassador.json) |
 | Intergalactic Battle Roosters | 319844 | [319844-intergalactic-battle-roosters.json](./319844-intergalactic-battle-roosters.json) |
+| Intergalactic Cage Match | 45373 | [45373-intergalactic-cage-match.json](./45373-intergalactic-cage-match.json) |
 | Intergalactic Cleaning Squad | 382732 | [382732-intergalactic-cleaning-squad.json](./382732-intergalactic-cleaning-squad.json) |
 | Intergalactic Defenders | 340757 | [340757-intergalactic-defenders.json](./340757-intergalactic-defenders.json) |
 | Intergalactic Ecstasy | 411057 | [411057-intergalactic-ecstasy.json](./411057-intergalactic-ecstasy.json) |
