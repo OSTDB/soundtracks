@@ -1260,6 +1260,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanabi | 131388 | [131388-hanabi.json](./131388-hanabi.json) |
 | Hanabi and Ghost Girl | 405738 | [405738-hanabi-and-ghost-girl.json](./405738-hanabi-and-ghost-girl.json) |
 | Hanabi Fantast | 179382 | [179382-hanabi-fantast.json](./179382-hanabi-fantast.json) |
+| Hanabi Hyakkei Advance | 49636 | [49636-hanabi-hyakkei-advance.json](./49636-hanabi-hyakkei-advance.json) |
 | Hanabi Shokunin ni Narou 2 | 279782 | [279782-hanabi-shokunin-ni-narou-2.json](./279782-hanabi-shokunin-ni-narou-2.json) |
 | Hanabi: Hana Type B | 409869 | [409869-hanabi-hana-type-b.json](./409869-hanabi-hana-type-b.json) |
 | Hanabira Ep1: When the Petals Fade Away | 387114 | [387114-hanabira-ep1-when-the-petals-fade-away.json](./387114-hanabira-ep1-when-the-petals-fade-away.json) |
@@ -1270,6 +1271,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hanafuda Koi-koi Dojo | 322565 | [322565-hanafuda-koi-koi-dojo.json](./322565-hanafuda-koi-koi-dojo.json) |
 | Hanafuda Rumble | 97838 | [97838-hanafuda-rumble.json](./97838-hanafuda-rumble.json) |
 | Hanafuda Shiyouyo | 37505 | [37505-hanafuda-shiyouyo.json](./37505-hanafuda-shiyouyo.json) |
+| Hanafuda Trump Mahjong: Depachika Wayounaka | 49635 | [49635-hanafuda-trump-mahjong-depachika-wayounaka.json](./49635-hanafuda-trump-mahjong-depachika-wayounaka.json) |
 | Hanafuda Yuukyou-den: Nagarebana Oryuu | 267655 | [267655-hanafuda-yuukyou-den-nagarebana-oryuu.json](./267655-hanafuda-yuukyou-den-nagarebana-oryuu.json) |
 | Hanafuta no Tora | 358479 | [358479-hanafuta-no-tora.json](./358479-hanafuta-no-tora.json) |
 | Hanagane Kanade Gram: Chapter 1 - Kozakura Yui | 396457 | [396457-hanagane-kanade-gram-chapter-1-kozakura-yui.json](./396457-hanagane-kanade-gram-chapter-1-kozakura-yui.json) |
@@ -2204,6 +2206,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Haro no Daibouken | 339595 | [339595-haro-no-daibouken.json](./339595-haro-no-daibouken.json) |
 | Harobots | 37504 | [37504-harobots.json](./37504-harobots.json) |
 | Harobots Action!! | 58061 | [58061-harobots-action.json](./58061-harobots-action.json) |
+| Harobots: Robo Hero Battling!! | 49634 | [49634-harobots-robo-hero-battling.json](./49634-harobots-robo-hero-battling.json) |
 | Harold | 7865 | [7865-harold.json](./7865-harold.json) |
 | Harold and the Gameover | 228986 | [228986-harold-and-the-gameover.json](./228986-harold-and-the-gameover.json) |
 | Harold Rabbit 2: The Case of the Pastry Pirate | 371448 | [371448-harold-rabbit-2-the-case-of-the-pastry-pirate.json](./371448-harold-rabbit-2-the-case-of-the-pastry-pirate.json) |
@@ -4582,6 +4585,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello Kitty Birthday Party | 231386 | [231386-hello-kitty-birthday-party.json](./231386-hello-kitty-birthday-party.json) |
 | Hello Kitty Cafe | 264407 | [264407-hello-kitty-cafe.json](./264407-hello-kitty-cafe.json) |
 | Hello Kitty Carnival | 268673 | [268673-hello-kitty-carnival.json](./268673-hello-kitty-carnival.json) |
+| Hello Kitty Collection: Miracle Fashion Maker | 49633 | [49633-hello-kitty-collection-miracle-fashion-maker.json](./49633-hello-kitty-collection-miracle-fashion-maker.json) |
 | Hello Kitty Cube World | 78878 | [78878-hello-kitty-cube-world.json](./78878-hello-kitty-cube-world.json) |
 | Hello Kitty Cutie World | 78586 | [78586-hello-kitty-cutie-world.json](./78586-hello-kitty-cutie-world.json) |
 | Hello Kitty Daily | 47853 | [47853-hello-kitty-daily.json](./47853-hello-kitty-daily.json) |
@@ -4740,6 +4744,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hello, your order... | 337153 | [337153-hello-your-order.json](./337153-hello-your-order.json) |
 | Hello: A Talking Simulator | 179173 | [179173-hello-a-talking-simulator.json](./179173-hello-a-talking-simulator.json) |
 | Hello! From Hallowville | 178573 | [178573-hello-from-hallowville.json](./178573-hello-from-hallowville.json) |
+| Hello! Idol Debut | 49632 | [49632-hello-idol-debut.json](./49632-hello-idol-debut.json) |
 | Hello! Lady Lynn: Yume no wo Heya ni Youkoso! | 293909 | [293909-hello-lady-lynn-yume-no-wo-heya-ni-youkoso.json](./293909-hello-lady-lynn-yume-no-wo-heya-ni-youkoso.json) |
 | Hello! Taxi | 307790 | [307790-hello-taxi.json](./307790-hello-taxi.json) |
 | Hello? Hell... o? | 108140 | [108140-hello-hell-o.json](./108140-hello-hell-o.json) |
