@@ -6105,6 +6105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Onslaught | 339917 | [339917-iron-onslaught.json](./339917-iron-onslaught.json) |
 | Iron Order 1919 | 196333 | [196333-iron-order-1919.json](./196333-iron-order-1919.json) |
 | Iron Overlord | 419834 | [419834-iron-overlord.json](./419834-iron-overlord.json) |
+| Iron Phoenix | 47340 | [47340-iron-phoenix.json](./47340-iron-phoenix.json) |
 | Iron Power | 59251 | [59251-iron-power.json](./59251-iron-power.json) |
 | Iron Psycho: Retro | 348543 | [348543-iron-psycho-retro.json](./348543-iron-psycho-retro.json) |
 | Iron Quest | 57754 | [57754-iron-quest.json](./57754-iron-quest.json) |
