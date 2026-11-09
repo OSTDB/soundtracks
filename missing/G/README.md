@@ -344,6 +344,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gadget Racers | 250446 | [250446-gadget-racers.json](./250446-gadget-racers.json) |
 | Gadget Racers | 4088 | [4088-gadget-racers.json](./4088-gadget-racers.json) |
 | Gadget Trial | 137882 | [137882-gadget-trial.json](./137882-gadget-trial.json) |
+| Gadget Twins | 46691 | [46691-gadget-twins.json](./46691-gadget-twins.json) |
 | Gadget Tycoon | 245892 | [245892-gadget-tycoon.json](./245892-gadget-tycoon.json) |
 | Gadget Tycoon | 77189 | [77189-gadget-tycoon.json](./77189-gadget-tycoon.json) |
 | Gadget: Invention, Travel & Adventure | 73567 | [73567-gadget-invention-travel-and-adventure.json](./73567-gadget-invention-travel-and-adventure.json) |
