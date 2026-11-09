@@ -10784,6 +10784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animism: The Book of the Emissaries | 58015 | [58015-animism-the-book-of-the-emissaries.json](./58015-animism-the-book-of-the-emissaries.json) |
 | Animo Stars Arena | 243064 | [243064-animo-stars-arena.json](./243064-animo-stars-arena.json) |
 | Animocity | 149128 | [149128-animocity.json](./149128-animocity.json) |
+| Animorphs | 70497 | [70497-animorphs.json](./70497-animorphs.json) |
 | Animorphs: Know the Secret | 68723 | [68723-animorphs-know-the-secret.json](./68723-animorphs-know-the-secret.json) |
 | Animorphs: Shattered Reality | 43927 | [43927-animorphs-shattered-reality.json](./43927-animorphs-shattered-reality.json) |
 | Animosa | 207560 | [207560-animosa.json](./207560-animosa.json) |
@@ -12899,6 +12900,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arcade Archives: Midnight Landing | 375404 | [375404-arcade-archives-midnight-landing.json](./375404-arcade-archives-midnight-landing.json) |
 | Arcade Archives: Mighty Guy | 283021 | [283021-arcade-archives-mighty-guy.json](./283021-arcade-archives-mighty-guy.json) |
 | Arcade Archives: Mirai Ninja | 186563 | [186563-arcade-archives-mirai-ninja.json](./186563-arcade-archives-mirai-ninja.json) |
+| Arcade Archives: Moon Cresta | 70138 | [70138-arcade-archives-moon-cresta.json](./70138-arcade-archives-moon-cresta.json) |
 | Arcade Archives: Moon Patrol | 95050 | [95050-arcade-archives-moon-patrol.json](./95050-arcade-archives-moon-patrol.json) |
 | Arcade Archives: Motos | 204873 | [204873-arcade-archives-motos.json](./204873-arcade-archives-motos.json) |
 | Arcade Archives: Mr. Goemon | 99763 | [99763-arcade-archives-mr-goemon.json](./99763-arcade-archives-mr-goemon.json) |
@@ -17207,7 +17209,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
@@ -17816,6 +17817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aurelune: Seven Eclipses | 425196 | [425196-aurelune-seven-eclipses.json](./425196-aurelune-seven-eclipses.json) |
 | Aurendor | 246006 | [246006-aurendor.json](./246006-aurendor.json) |
 | Aureole: Wings of Hope | 254013 | [254013-aureole-wings-of-hope.json](./254013-aureole-wings-of-hope.json) |
+| Aureum: A Roman Treasure Hunt | 70147 | [70147-aureum-a-roman-treasure-hunt.json](./70147-aureum-a-roman-treasure-hunt.json) |
 | Auri's Amazing Arch Adventure | 388247 | [388247-auris-amazing-arch-adventure.json](./388247-auris-amazing-arch-adventure.json) |
 | Auri's Tales | 113042 | [113042-auris-tales.json](./113042-auris-tales.json) |
 | Auridia | 346867 | [346867-auridia.json](./346867-auridia.json) |
