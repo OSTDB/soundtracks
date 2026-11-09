@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Cat Cafe Story | 183047 | [183047-a-cat-cafe-story.json](./183047-a-cat-cafe-story.json) |
 | A Cat named Gossamergoober | 379457 | [379457-a-cat-named-gossamergoober.json](./379457-a-cat-named-gossamergoober.json) |
 | A Cat Named Venus Shorttail | 385444 | [385444-a-cat-named-venus-shorttail.json](./385444-a-cat-named-venus-shorttail.json) |
+| A Cat's Life | 27928 | [27928-a-cats-life.json](./27928-a-cats-life.json) |
 | A Cat's Manor | 44261 | [44261-a-cats-manor.json](./44261-a-cats-manor.json) |
 | A Cat's Night | 125203 | [125203-a-cats-night.json](./125203-a-cats-night.json) |
 | A Cat's Night 2: Orazio goes to town | 125204 | [125204-a-cats-night-2-orazio-goes-to-town.json](./125204-a-cats-night-2-orazio-goes-to-town.json) |
@@ -4090,6 +4091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aeon Must Die | 114037 | [114037-aeon-must-die.json](./114037-aeon-must-die.json) |
 | Aeon Nightmares | 282133 | [282133-aeon-nightmares.json](./282133-aeon-nightmares.json) |
 | Aeon on Mosaic: Anemone | 284345 | [284345-aeon-on-mosaic-anemone.json](./284345-aeon-on-mosaic-anemone.json) |
+| Aeon Rivals | 27978 | [27978-aeon-rivals.json](./27978-aeon-rivals.json) |
 | Aeon Tempus | 365283 | [365283-aeon-tempus.json](./365283-aeon-tempus.json) |
 | Aeon Wars Rogue | 223483 | [223483-aeon-wars-rogue.json](./223483-aeon-wars-rogue.json) |
 | Aeon's End | 119854 | [119854-aeons-end.json](./119854-aeons-end.json) |
@@ -4230,6 +4232,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AeroWave OS | 397713 | [397713-aerowave-os.json](./397713-aerowave-os.json) |
 | AeroWings | 3709 | [3709-aerowings.json](./3709-aerowings.json) |
 | AeroWings 2: Airstrike | 3708 | [3708-aerowings-2-airstrike.json](./3708-aerowings-2-airstrike.json) |
+| Aerox | 27948 | [27948-aerox.json](./27948-aerox.json) |
 | Aertan | 415931 | [415931-aertan.json](./415931-aertan.json) |
 | Aery VR | 126749 | [126749-aery-vr.json](./126749-aery-vr.json) |
 | Aery VR: A Journey Beyond Time | 237216 | [237216-aery-vr-a-journey-beyond-time.json](./237216-aery-vr-a-journey-beyond-time.json) |
@@ -5060,6 +5063,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent Angels | 63274 | [63274-agent-angels.json](./63274-agent-angels.json) |
 | Agent Armstrong | 11293 | [11293-agent-armstrong.json](./11293-agent-armstrong.json) |
 | Agent Awesome | 26839 | [26839-agent-awesome.json](./26839-agent-awesome.json) |
+| Agent B0rk | 27914 | [27914-agent-b0rk.json](./27914-agent-b0rk.json) |
 | Agent Bob | 357799 | [357799-agent-bob.json](./357799-agent-bob.json) |
 | Agent Brain: Tricky Puzzles | 293079 | [293079-agent-brain-tricky-puzzles.json](./293079-agent-brain-tricky-puzzles.json) |
 | Agent Dark | 409693 | [409693-agent-dark.json](./409693-agent-dark.json) |
@@ -17175,6 +17179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atelier Dusk Trilogy Deluxe Pack | 125186 | [125186-atelier-dusk-trilogy-deluxe-pack.json](./125186-atelier-dusk-trilogy-deluxe-pack.json) |
 | Atelier Dusk Trilogy Deluxe Pack: Limited Premium Box Set | 136825 | [136825-atelier-dusk-trilogy-deluxe-pack-limited-premium-box-set.json](./136825-atelier-dusk-trilogy-deluxe-pack-limited-premium-box-set.json) |
 | Atelier Dusk Trilogy: Special Collection Box | 136689 | [136689-atelier-dusk-trilogy-special-collection-box.json](./136689-atelier-dusk-trilogy-special-collection-box.json) |
+| Atelier Elie GB | 27122 | [27122-atelier-elie-gb.json](./27122-atelier-elie-gb.json) |
 | Atelier Elie: Puzzle Workshop | 338535 | [338535-atelier-elie-puzzle-workshop.json](./338535-atelier-elie-puzzle-workshop.json) |
 | Atelier Elie: The Alchemist of Salburg 2 | 26440 | [26440-atelier-elie-the-alchemist-of-salburg-2.json](./26440-atelier-elie-the-alchemist-of-salburg-2.json) |
 | Atelier Ellie: Puzzle Workshop | 329392 | [329392-atelier-ellie-puzzle-workshop.json](./329392-atelier-ellie-puzzle-workshop.json) |
