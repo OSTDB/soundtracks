@@ -1016,6 +1016,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | War of the Human Tanks: Imperial Edition | 53146 | [53146-war-of-the-human-tanks-imperial-edition.json](./53146-war-of-the-human-tanks-imperial-edition.json) |
 | War of the Human Tanks: Limited Operations | 11693 | [11693-war-of-the-human-tanks-limited-operations.json](./11693-war-of-the-human-tanks-limited-operations.json) |
 | War of the Human Tanks: Limited Operations - Unlimited Edition | 53145 | [53145-war-of-the-human-tanks-limited-operations-unlimited-edition.json](./53145-war-of-the-human-tanks-limited-operations-unlimited-edition.json) |
+| War of the Immortals | 16361 | [16361-war-of-the-immortals.json](./16361-war-of-the-immortals.json) |
 | War of the Lance | 50494 | [50494-war-of-the-lance.json](./50494-war-of-the-lance.json) |
 | War of the Lilies: An Eons Lost Story | 182100 | [182100-war-of-the-lilies-an-eons-lost-story.json](./182100-war-of-the-lilies-an-eons-lost-story.json) |
 | War of the Mars | 151075 | [151075-war-of-the-mars.json](./151075-war-of-the-mars.json) |
@@ -3314,6 +3315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Weeping Willow | 122366 | [122366-weeping-willow.json](./122366-weeping-willow.json) |
 | WeeRPG | 157458 | [157458-weerpg.json](./157458-weerpg.json) |
 | WeeWaa | 91380 | [91380-weewaa.json](./91380-weewaa.json) |
+| WeeWaa Rock On | 16600 | [16600-weewaa-rock-on.json](./16600-weewaa-rock-on.json) |
 | Weezer: End of the Game Game | 295365 | [295365-weezer-end-of-the-game-game.json](./295365-weezer-end-of-the-game-game.json) |
 | Weezle | 237495 | [237495-weezle.json](./237495-weezle.json) |
 | WeFly | 310594 | [310594-wefly.json](./310594-wefly.json) |
