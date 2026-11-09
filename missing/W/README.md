@@ -1459,6 +1459,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer 40,000: Boltgun - Forges of Corruption Edition | 306489 | [306489-warhammer-40-000-boltgun-forges-of-corruption-edition.json](./306489-warhammer-40-000-boltgun-forges-of-corruption-edition.json) |
 | Warhammer 40,000: Boltgun 2 | 344669 | [344669-warhammer-40-000-boltgun-2.json](./344669-warhammer-40-000-boltgun-2.json) |
 | Warhammer 40,000: Boltgun Boom | 402507 | [402507-warhammer-40-000-boltgun-boom.json](./402507-warhammer-40-000-boltgun-boom.json) |
+| Warhammer 40,000: Carnage | 30323 | [30323-warhammer-40-000-carnage.json](./30323-warhammer-40-000-carnage.json) |
 | Warhammer 40,000: Chaos Gate - Daemonhunters Castellan Champion Upgrade Pack | 201521 | [201521-warhammer-40-000-chaos-gate-daemonhunters-castellan-champion-upgrade-pack.json](./201521-warhammer-40-000-chaos-gate-daemonhunters-castellan-champion-upgrade-pack.json) |
 | Warhammer 40,000: Chaos Gate - Daemonhunters: Castellan - Garran Crowe | 303284 | [303284-warhammer-40-000-chaos-gate-daemonhunters-castellan-garran-crowe.json](./303284-warhammer-40-000-chaos-gate-daemonhunters-castellan-garran-crowe.json) |
 | Warhammer 40,000: Chaos Gate - Daemonhunters: Castellan Champion Edition | 193689 | [193689-warhammer-40-000-chaos-gate-daemonhunters-castellan-champion-edition.json](./193689-warhammer-40-000-chaos-gate-daemonhunters-castellan-champion-edition.json) |
@@ -3660,6 +3661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westerado Poker | 397140 | [397140-westerado-poker.json](./397140-westerado-poker.json) |
 | Westerlands: Girly runaways story | 147247 | [147247-westerlands-girly-runaways-story.json](./147247-westerlands-girly-runaways-story.json) |
 | Western 1849 Reloaded | 27335 | [27335-western-1849-reloaded.json](./27335-western-1849-reloaded.json) |
+| Western Adventure | 30320 | [30320-western-adventure.json](./30320-western-adventure.json) |
 | Western Adventure - Cowboy Revenge 3D | 99186 | [99186-western-adventure-cowboy-revenge-3d.json](./99186-western-adventure-cowboy-revenge-3d.json) |
 | Western Bank VR | 76678 | [76678-western-bank-vr.json](./76678-western-bank-vr.json) |
 | Western Bar | 346076 | [346076-western-bar.json](./346076-western-bar.json) |
@@ -4191,6 +4193,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | When Life Gives You Lemons | 265489 | [265489-when-life-gives-you-lemons.json](./265489-when-life-gives-you-lemons.json) |
 | When Night Comes | 249197 | [249197-when-night-comes.json](./249197-when-night-comes.json) |
 | When Our Journey Ends | 25596 | [25596-when-our-journey-ends.json](./25596-when-our-journey-ends.json) |
+| When Our Journey Ends - A Visual Novel | 30299 | [30299-when-our-journey-ends-a-visual-novel.json](./30299-when-our-journey-ends-a-visual-novel.json) |
 | When Pigs Can Fly: Enter The Aporkalypse | 301898 | [301898-when-pigs-can-fly-enter-the-aporkalypse.json](./301898-when-pigs-can-fly-enter-the-aporkalypse.json) |
 | When Pigs Fly | 317432 | [317432-when-pigs-fly.json](./317432-when-pigs-fly.json) |
 | When Pigs Fly | 60658 | [60658-when-pigs-fly.json](./60658-when-pigs-fly.json) |
