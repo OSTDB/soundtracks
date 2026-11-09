@@ -11906,6 +11906,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doc McStuffins | 137370 | [137370-doc-mcstuffins.json](./137370-doc-mcstuffins.json) |
 | Doc McStuffins | 243280 | [243280-doc-mcstuffins.json](./243280-doc-mcstuffins.json) |
 | Doc McStuffins: School of Madicine | 243281 | [243281-doc-mcstuffins-school-of-madicine.json](./243281-doc-mcstuffins-school-of-madicine.json) |
+| Doc the Destroyer | 39737 | [39737-doc-the-destroyer.json](./39737-doc-the-destroyer.json) |
 | DoC: God Mode Edition | 107162 | [107162-doc-god-mode-edition.json](./107162-doc-god-mode-edition.json) |
 | Doca 2 | 111375 | [111375-doca-2.json](./111375-doca-2.json) |
 | Docchi no I ga suki desu ka? | 284121 | [284121-docchi-no-i-ga-suki-desu-ka.json](./284121-docchi-no-i-ga-suki-desu-ka.json) |
@@ -20035,6 +20036,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dyna Bomb 2 | 206423 | [206423-dyna-bomb-2.json](./206423-dyna-bomb-2.json) |
 | Dyna Brothers | 45641 | [45641-dyna-brothers.json](./45641-dyna-brothers.json) |
 | Dyna Brothers 2 | 4547 | [4547-dyna-brothers-2.json](./4547-dyna-brothers-2.json) |
+| Dyna Gears | 39709 | [39709-dyna-gears.json](./39709-dyna-gears.json) |
 | Dyna Knight | 114682 | [114682-dyna-knight.json](./114682-dyna-knight.json) |
 | Dyna Marisa 3D | 206571 | [206571-dyna-marisa-3d.json](./206571-dyna-marisa-3d.json) |
 | Dynablaster | 244024 | [244024-dynablaster.json](./244024-dynablaster.json) |
