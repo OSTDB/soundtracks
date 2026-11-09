@@ -5188,6 +5188,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Widen | 305965 | [305965-widen.json](./305965-widen.json) |
 | Widget | 95355 | [95355-widget.json](./95355-widget.json) |
 | Widget Inc. | 319207 | [319207-widget-inc.json](./319207-widget-inc.json) |
+| Widget RPG | 29005 | [29005-widget-rpg.json](./29005-widget-rpg.json) |
 | Widget Satchel | 105353 | [105353-widget-satchel.json](./105353-widget-satchel.json) |
 | Widget Satchel II: Return of Sprocket | 151985 | [151985-widget-satchel-ii-return-of-sprocket.json](./151985-widget-satchel-ii-return-of-sprocket.json) |
 | Widget Workshop: The Mad Scientist's Laboratory | 73634 | [73634-widget-workshop-the-mad-scientists-laboratory.json](./73634-widget-workshop-the-mad-scientists-laboratory.json) |
@@ -6390,6 +6391,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wipeout 2048 | 1545 | [1545-wipeout-2048.json](./1545-wipeout-2048.json) |
 | Wipeout 2600 | 279595 | [279595-wipeout-2600.json](./279595-wipeout-2600.json) |
 | Wipeout 3 | 1540 | [1540-wipeout-3.json](./1540-wipeout-3.json) |
+| Wipeout 3 | 28355 | [28355-wipeout-3.json](./28355-wipeout-3.json) |
 | Wipeout 3 Special Edition | 44855 | [44855-wipeout-3-special-edition.json](./44855-wipeout-3-special-edition.json) |
 | Wipeout 64 | 1539 | [1539-wipeout-64.json](./1539-wipeout-64.json) |
 | Wipeout Create & Crash | 47441 | [47441-wipeout-create-and-crash.json](./47441-wipeout-create-and-crash.json) |
