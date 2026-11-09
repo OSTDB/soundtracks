@@ -6975,6 +6975,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball | 82093 | [82093-pinball.json](./82093-pinball.json) |
 | Pinball | 86428 | [86428-pinball.json](./86428-pinball.json) |
 | Pinball | 86507 | [86507-pinball.json](./86507-pinball.json) |
+| Pinball 2000 | 73381 | [73381-pinball-2000.json](./73381-pinball-2000.json) |
 | Pinball 2018 | 100587 | [100587-pinball-2018.json](./100587-pinball-2018.json) |
 | Pinball 99 | 418920 | [418920-pinball-99.json](./418920-pinball-99.json) |
 | Pinball Action | 39419 | [39419-pinball-action.json](./39419-pinball-action.json) |
@@ -17110,6 +17111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Proteus | 2163 | [2163-proteus.json](./2163-proteus.json) |
 | Proteus Zone | 355111 | [355111-proteus-zone.json](./355111-proteus-zone.json) |
 | Protium | 68351 | [68351-protium.json](./68351-protium.json) |
+| Protivostojanie: Opaljonnyj Sneg | 73393 | [73393-protivostojanie-opaljonnyj-sneg.json](./73393-protivostojanie-opaljonnyj-sneg.json) |
 | Proto Akane | 197088 | [197088-proto-akane.json](./197088-proto-akane.json) |
 | Proto Bat-Bot: Battle for Gotham City | 299323 | [299323-proto-bat-bot-battle-for-gotham-city.json](./299323-proto-bat-bot-battle-for-gotham-city.json) |
 | Proto Cuckoo 64 | 150982 | [150982-proto-cuckoo-64.json](./150982-proto-cuckoo-64.json) |
