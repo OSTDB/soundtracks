@@ -12848,6 +12848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyper Cars Ramp Crash | 398271 | [398271-hyper-cars-ramp-crash.json](./398271-hyper-cars-ramp-crash.json) |
 | Hyper Catch | 189361 | [189361-hyper-catch.json](./189361-hyper-catch.json) |
 | Hyper Chess | 353916 | [353916-hyper-chess.json](./353916-hyper-chess.json) |
+| Hyper Chou Pro Yakyuu '92 | 46297 | [46297-hyper-chou-pro-yakyuu-92.json](./46297-hyper-chou-pro-yakyuu-92.json) |
 | Hyper Circuit | 317765 | [317765-hyper-circuit.json](./317765-hyper-circuit.json) |
 | Hyper City Parkour | 371545 | [371545-hyper-city-parkour.json](./371545-hyper-city-parkour.json) |
 | Hyper Contender | 318714 | [318714-hyper-contender.json](./318714-hyper-contender.json) |
