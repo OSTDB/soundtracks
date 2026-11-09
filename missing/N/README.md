@@ -5437,6 +5437,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ninja Turdle | 128108 | [128108-ninja-turdle.json](./128108-ninja-turdle.json) |
 | Ninja Turtles: The Next Mutation | 198840 | [198840-ninja-turtles-the-next-mutation.json](./198840-ninja-turtles-the-next-mutation.json) |
 | Ninja Tycoon | 83811 | [83811-ninja-tycoon.json](./83811-ninja-tycoon.json) |
+| Ninja Up | 58914 | [58914-ninja-up.json](./58914-ninja-up.json) |
 | Ninja USA | 100277 | [100277-ninja-usa.json](./100277-ninja-usa.json) |
 | Ninja Usagimaru: The Mysterious Karakuri Castle | 44391 | [44391-ninja-usagimaru-the-mysterious-karakuri-castle.json](./44391-ninja-usagimaru-the-mysterious-karakuri-castle.json) |
 | Ninja Usagimaru: Two Tails of Adventure | 44484 | [44484-ninja-usagimaru-two-tails-of-adventure.json](./44484-ninja-usagimaru-two-tails-of-adventure.json) |
