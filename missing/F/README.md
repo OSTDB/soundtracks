@@ -6167,6 +6167,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fire Place | 109369 | [109369-fire-place.json](./109369-fire-place.json) |
 | Fire Power | 110821 | [110821-fire-power.json](./110821-fire-power.json) |
 | Fire Power | 54655 | [54655-fire-power.json](./54655-fire-power.json) |
+| Fire Pro Gaiden Blazing Tornado | 45402 | [45402-fire-pro-gaiden-blazing-tornado.json](./45402-fire-pro-gaiden-blazing-tornado.json) |
 | Fire Pro Joshi: All Star Dream Slam | 42614 | [42614-fire-pro-joshi-all-star-dream-slam.json](./42614-fire-pro-joshi-all-star-dream-slam.json) |
 | Fire Pro Wrestling | 131077 | [131077-fire-pro-wrestling.json](./131077-fire-pro-wrestling.json) |
 | Fire Pro Wrestling | 6407 | [6407-fire-pro-wrestling.json](./6407-fire-pro-wrestling.json) |
