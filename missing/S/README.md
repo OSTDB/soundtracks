@@ -852,6 +852,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakigake!! Kuromati Koukou | 56960 | [56960-sakigake-kuromati-koukou.json](./56960-sakigake-kuromati-koukou.json) |
 | Sakigake!! Otokojuku | 64112 | [64112-sakigake-otokojuku.json](./64112-sakigake-otokojuku.json) |
 | Sakigake!! Otokojuku: Meikoushima Kessen | 64113 | [64113-sakigake-otokojuku-meikoushima-kessen.json](./64113-sakigake-otokojuku-meikoushima-kessen.json) |
+| Sakigake!! Otokojuku: Nihon yo, Kore ga Otoko de Aru! | 62851 | [62851-sakigake-otokojuku-nihon-yo-kore-ga-otoko-de-aru.json](./62851-sakigake-otokojuku-nihon-yo-kore-ga-otoko-de-aru.json) |
 | Sakigake!! Otokojuku: Shippuu Ichi Gou Sei | 48674 | [48674-sakigake-otokojuku-shippuu-ichi-gou-sei.json](./48674-sakigake-otokojuku-shippuu-ichi-gou-sei.json) |
 | SakiMizu Life | 300326 | [300326-sakimizu-life.json](./300326-sakimizu-life.json) |
 | Sakimori | 405703 | [405703-sakimori.json](./405703-sakimori.json) |
@@ -982,6 +983,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Taisen | 71399 | [71399-sakura-taisen.json](./71399-sakura-taisen.json) |
 | Sakura Taisen 1 & 2 | 62140 | [62140-sakura-taisen-1-and-2.json](./62140-sakura-taisen-1-and-2.json) |
 | Sakura Taisen 3: Paris ha Moeteiru ka? | 80143 | [80143-sakura-taisen-3-paris-ha-moeteiru-ka.json](./80143-sakura-taisen-3-paris-ha-moeteiru-ka.json) |
+| Sakura Taisen Complete Box | 62869 | [62869-sakura-taisen-complete-box.json](./62869-sakura-taisen-complete-box.json) |
 | Sakura Taisen GB: Geki Hanagumi Nyuutai! | 79482 | [79482-sakura-taisen-gb-geki-hanagumi-nyuutai.json](./79482-sakura-taisen-gb-geki-hanagumi-nyuutai.json) |
 | Sakura Taisen GB2 | 65844 | [65844-sakura-taisen-gb2.json](./65844-sakura-taisen-gb2.json) |
 | Sakura Taisen Hanagumi Tsuushin | 62123 | [62123-sakura-taisen-hanagumi-tsuushin.json](./62123-sakura-taisen-hanagumi-tsuushin.json) |
@@ -2371,6 +2373,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savannah Gurashi no Cheetah-san | 269942 | [269942-savannah-gurashi-no-cheetah-san.json](./269942-savannah-gurashi-no-cheetah-san.json) |
 | Savannah Park | 187783 | [187783-savannah-park.json](./187783-savannah-park.json) |
 | Savannah Runnah | 243610 | [243610-savannah-runnah.json](./243610-savannah-runnah.json) |
+| Savant | 62872 | [62872-savant.json](./62872-savant.json) |
 | Savant: Ascent | 7879 | [7879-savant-ascent.json](./7879-savant-ascent.json) |
 | Savant: Ascent - Anniversary Edition | 245867 | [245867-savant-ascent-anniversary-edition.json](./245867-savant-ascent-anniversary-edition.json) |
 | Savant: Ascent Remix | 261364 | [261364-savant-ascent-remix.json](./261364-savant-ascent-remix.json) |
@@ -5601,6 +5604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sengoku Hime 5: Senka Tatsu Haou no Keifu | 60969 | [60969-sengoku-hime-5-senka-tatsu-haou-no-keifu.json](./60969-sengoku-hime-5-senka-tatsu-haou-no-keifu.json) |
 | Sengoku Hime 7: Senun Tsuranuku Guren no Ishi | 111154 | [111154-sengoku-hime-7-senun-tsuranuku-guren-no-ishi.json](./111154-sengoku-hime-7-senun-tsuranuku-guren-no-ishi.json) |
 | Sengoku Hime 7: Senun Tsuranuku Guren no Ishi - Limited Edition | 167028 | [167028-sengoku-hime-7-senun-tsuranuku-guren-no-ishi-limited-edition.json](./167028-sengoku-hime-7-senun-tsuranuku-guren-no-ishi-limited-edition.json) |
+| Sengoku Hime: Senran no Yo ni Honoo Tatsu | 62877 | [62877-sengoku-hime-senran-no-yo-ni-honoo-tatsu.json](./62877-sengoku-hime-senran-no-yo-ni-honoo-tatsu.json) |
 | Sengoku IXA | 289017 | [289017-sengoku-ixa.json](./289017-sengoku-ixa.json) |
 | Sengoku Jidai Gold | 124778 | [124778-sengoku-jidai-gold.json](./124778-sengoku-jidai-gold.json) |
 | Sengoku Jidai: Bjeongja Horan Campaign - 2nd Manchu Invasion of Korea 1636 | 170159 | [170159-sengoku-jidai-bjeongja-horan-campaign-2nd-manchu-invasion-of-korea-1636.json](./170159-sengoku-jidai-bjeongja-horan-campaign-2nd-manchu-invasion-of-korea-1636.json) |
@@ -13278,6 +13282,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Skyland Rush: Air Raid Attack | 145963 | [145963-skyland-rush-air-raid-attack.json](./145963-skyland-rush-air-raid-attack.json) |
 | Skyland Wars | 294588 | [294588-skyland-wars.json](./294588-skyland-wars.json) |
 | Skyland: Heart of the Mountain | 114061 | [114061-skyland-heart-of-the-mountain.json](./114061-skyland-heart-of-the-mountain.json) |
+| Skyland's Star | 62846 | [62846-skylands-star.json](./62846-skylands-star.json) |
 | Skylanders Imaginators: Destocked + Rebalanced | 383414 | [383414-skylanders-imaginators-destocked-rebalanced.json](./383414-skylanders-imaginators-destocked-rebalanced.json) |
 | Skylanders SuperChargers: Dark Edition Starter Pack | 166979 | [166979-skylanders-superchargers-dark-edition-starter-pack.json](./166979-skylanders-superchargers-dark-edition-starter-pack.json) |
 | Skylanders: Battlecast | 21563 | [21563-skylanders-battlecast.json](./21563-skylanders-battlecast.json) |
@@ -16988,6 +16993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Solcialists | 272581 | [272581-solcialists.json](./272581-solcialists.json) |
 | SolCycle | 349993 | [349993-solcycle.json](./349993-solcycle.json) |
 | Sold Out | 253337 | [253337-sold-out.json](./253337-sold-out.json) |
+| Sold Out | 62861 | [62861-sold-out.json](./62861-sold-out.json) |
 | Sold Soul | 261437 | [261437-sold-soul.json](./261437-sold-soul.json) |
 | Soldam | 78225 | [78225-soldam.json](./78225-soldam.json) |
 | Soldam: Drop, Connect, Erase | 36816 | [36816-soldam-drop-connect-erase.json](./36816-soldam-drop-connect-erase.json) |
@@ -20608,6 +20614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Prison | 244649 | [244649-space-prison.json](./244649-space-prison.json) |
 | Space Prison: Holo Dancer | 389553 | [389553-space-prison-holo-dancer.json](./389553-space-prison-holo-dancer.json) |
 | Space Probes | 155820 | [155820-space-probes.json](./155820-space-probes.json) |
+| Space Professor | 62842 | [62842-space-professor.json](./62842-space-professor.json) |
 | Space puzzle | 152724 | [152724-space-puzzle.json](./152724-space-puzzle.json) |
 | Space Qube | 200022 | [200022-space-qube.json](./200022-space-qube.json) |
 | Space Query | 292351 | [292351-space-query.json](./292351-space-query.json) |
@@ -36527,6 +36534,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sword Art Online: Alicization Lycoris - Limited Edition | 166309 | [166309-sword-art-online-alicization-lycoris-limited-edition.json](./166309-sword-art-online-alicization-lycoris-limited-edition.json) |
 | Sword Art Online: Alicization Lycoris - Myosotis | 139224 | [139224-sword-art-online-alicization-lycoris-myosotis.json](./139224-sword-art-online-alicization-lycoris-myosotis.json) |
 | Sword Art Online: Alicization Rising Steel | 125818 | [125818-sword-art-online-alicization-rising-steel.json](./125818-sword-art-online-alicization-rising-steel.json) |
+| Sword Art Online: Eternal World | 62880 | [62880-sword-art-online-eternal-world.json](./62880-sword-art-online-eternal-world.json) |
 | Sword Art Online: Fatal Bullet | 36515 | [36515-sword-art-online-fatal-bullet.json](./36515-sword-art-online-fatal-bullet.json) |
 | Sword Art Online: Fatal Bullet - Ambush of the Imposters | 114141 | [114141-sword-art-online-fatal-bullet-ambush-of-the-imposters.json](./114141-sword-art-online-fatal-bullet-ambush-of-the-imposters.json) |
 | Sword Art Online: Fatal Bullet - Betrayal of Comrades | 104965 | [104965-sword-art-online-fatal-bullet-betrayal-of-comrades.json](./104965-sword-art-online-fatal-bullet-betrayal-of-comrades.json) |
