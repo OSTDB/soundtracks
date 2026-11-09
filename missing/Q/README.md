@@ -974,6 +974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Questria: Rise of the Robot Skullfaces | 35147 | [35147-questria-rise-of-the-robot-skullfaces.json](./35147-questria-rise-of-the-robot-skullfaces.json) |
 | Questris | 413871 | [413871-questris.json](./413871-questris.json) |
 | Questron | 24650 | [24650-questron.json](./24650-questron.json) |
+| Questron II | 55324 | [55324-questron-ii.json](./55324-questron-ii.json) |
 | Questscape | 294145 | [294145-questscape.json](./294145-questscape.json) |
 | Questscape: Survival | 310128 | [310128-questscape-survival.json](./310128-questscape-survival.json) |
 | Questy Chess | 151976 | [151976-questy-chess.json](./151976-questy-chess.json) |
