@@ -3436,6 +3436,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Scotland Yard: Hunting Mr. X | 22269 | [22269-scotland-yard-hunting-mr-x.json](./22269-scotland-yard-hunting-mr-x.json) |
 | Scott Adams Scoops | 70319 | [70319-scott-adams-scoops.json](./70319-scott-adams-scoops.json) |
 | Scott Adams' Graphic Adventure #1: Adventureland | 73138 | [73138-scott-adams-graphic-adventure-1-adventureland.json](./73138-scott-adams-graphic-adventure-1-adventureland.json) |
+| Scott Adams' Graphic Adventure #2: Pirate Adventure | 56114 | [56114-scott-adams-graphic-adventure-2-pirate-adventure.json](./56114-scott-adams-graphic-adventure-2-pirate-adventure.json) |
 | Scott Adams' Graphic Adventure #3: Secret Mission | 70292 | [70292-scott-adams-graphic-adventure-3-secret-mission.json](./70292-scott-adams-graphic-adventure-3-secret-mission.json) |
 | Scott Adams' Graphic Adventure #4: Voodoo Castle | 73747 | [73747-scott-adams-graphic-adventure-4-voodoo-castle.json](./73747-scott-adams-graphic-adventure-4-voodoo-castle.json) |
 | Scott Adams' Graphic Adventure #5: The Count | 71580 | [71580-scott-adams-graphic-adventure-5-the-count.json](./71580-scott-adams-graphic-adventure-5-the-count.json) |
@@ -7687,6 +7688,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shapes2 | 54478 | [54478-shapes2.json](./54478-shapes2.json) |
 | Shapes3 | 54477 | [54477-shapes3.json](./54477-shapes3.json) |
 | Shapes5 | 55682 | [55682-shapes5.json](./55682-shapes5.json) |
+| Shapes6 | 56621 | [56621-shapes6.json](./56621-shapes6.json) |
 | Shapes7 | 63743 | [63743-shapes7.json](./63743-shapes7.json) |
 | Shapes8 | 63742 | [63742-shapes8.json](./63742-shapes8.json) |
 | ShapeScale | 324326 | [324326-shapescale.json](./324326-shapescale.json) |
@@ -14333,6 +14335,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slingshottr | 297358 | [297358-slingshottr.json](./297358-slingshottr.json) |
 | SlingSkull Zombies | 54882 | [54882-slingskull-zombies.json](./54882-slingskull-zombies.json) |
 | SlingSkull Zombies 2 | 54883 | [54883-slingskull-zombies-2.json](./54883-slingskull-zombies-2.json) |
+| SlingSkull Zombies: Gravedigger | 56638 | [56638-slingskull-zombies-gravedigger.json](./56638-slingskull-zombies-gravedigger.json) |
 | SlingSkull Zombies: Graveyard Shift | 55571 | [55571-slingskull-zombies-graveyard-shift.json](./55571-slingskull-zombies-graveyard-shift.json) |
 | SlingSkull Zombies: The Dawn | 55665 | [55665-slingskull-zombies-the-dawn.json](./55665-slingskull-zombies-the-dawn.json) |
 | Slingstar | 80640 | [80640-slingstar.json](./80640-slingstar.json) |
@@ -35513,6 +35516,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Surviving Franchise Bundle | 227093 | [227093-surviving-franchise-bundle.json](./227093-surviving-franchise-bundle.json) |
 | Surviving High School | 67148 | [67148-surviving-high-school.json](./67148-surviving-high-school.json) |
 | Surviving Hunter | 257108 | [257108-surviving-hunter.json](./257108-surviving-hunter.json) |
+| Surviving in the forest | 56648 | [56648-surviving-in-the-forest.json](./56648-surviving-in-the-forest.json) |
 | Surviving in the Wood | 213080 | [213080-surviving-in-the-wood.json](./213080-surviving-in-the-wood.json) |
 | Surviving Isolation | 384528 | [384528-surviving-isolation.json](./384528-surviving-isolation.json) |
 | Surviving Mars | 28574 | [28574-surviving-mars.json](./28574-surviving-mars.json) |
