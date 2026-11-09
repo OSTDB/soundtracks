@@ -17008,6 +17008,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BSL Winter Games Challenge | 87331 | [87331-bsl-winter-games-challenge.json](./87331-bsl-winter-games-challenge.json) |
 | BSL Winter Games Challenge | 88283 | [88283-bsl-winter-games-challenge.json](./88283-bsl-winter-games-challenge.json) |
 | BSMP | 394877 | [394877-bsmp.json](./394877-bsmp.json) |
+| BSS Jane Seymour | 37239 | [37239-bss-jane-seymour.json](./37239-bss-jane-seymour.json) |
 | BSurfing | 163733 | [163733-bsurfing.json](./163733-bsurfing.json) |
 | BT Biplanes Online | 367187 | [367187-bt-biplanes-online.json](./367187-bt-biplanes-online.json) |
 | BT21 Pop Star | 242317 | [242317-bt21-pop-star.json](./242317-bt21-pop-star.json) |
