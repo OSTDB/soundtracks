@@ -2896,6 +2896,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3573,6 +3574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom of Pixels | 306219 | [306219-kingdom-of-pixels.json](./306219-kingdom-of-pixels.json) |
 | Kingdom of Rhea | 119026 | [119026-kingdom-of-rhea.json](./119026-kingdom-of-rhea.json) |
 | Kingdom of Secrets | 222963 | [222963-kingdom-of-secrets.json](./222963-kingdom-of-secrets.json) |
+| Kingdom of the Dinosaurs | 65072 | [65072-kingdom-of-the-dinosaurs.json](./65072-kingdom-of-the-dinosaurs.json) |
 | Kingdom of the Dragon | 54866 | [54866-kingdom-of-the-dragon.json](./54866-kingdom-of-the-dragon.json) |
 | Kingdom of the Untitled Magic | 154033 | [154033-kingdom-of-the-untitled-magic.json](./154033-kingdom-of-the-untitled-magic.json) |
 | Kingdom of the Winds: Yeon | 140257 | [140257-kingdom-of-the-winds-yeon.json](./140257-kingdom-of-the-winds-yeon.json) |
