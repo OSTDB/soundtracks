@@ -3035,6 +3035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Carnival Cruise Line Tycoon 2005: Island Hopping | 23565 | [23565-carnival-cruise-line-tycoon-2005-island-hopping.json](./23565-carnival-cruise-line-tycoon-2005-island-hopping.json) |
 | Carnival Games | 108759 | [108759-carnival-games.json](./108759-carnival-games.json) |
 | Carnival Games | 284137 | [284137-carnival-games.json](./284137-carnival-games.json) |
+| Carnival Games | 4056 | [4056-carnival-games.json](./4056-carnival-games.json) |
 | Carnival Games Mini Golf | 4058 | [4058-carnival-games-mini-golf.json](./4058-carnival-games-mini-golf.json) |
 | Carnival Games VR | 25339 | [25339-carnival-games-vr.json](./25339-carnival-games-vr.json) |
 | Carnival Games: Wild West 3D | 44023 | [44023-carnival-games-wild-west-3d.json](./44023-carnival-games-wild-west-3d.json) |
@@ -5443,6 +5444,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Celebrities Hacked: Scarlet Photo Pack | 264502 | [264502-celebrities-hacked-scarlet-photo-pack.json](./264502-celebrities-hacked-scarlet-photo-pack.json) |
 | Celebrity Bash | 394201 | [394201-celebrity-bash.json](./394201-celebrity-bash.json) |
 | Celebrity Darling | 203295 | [203295-celebrity-darling.json](./203295-celebrity-darling.json) |
+| Celebrity Deathmatch | 5768 | [5768-celebrity-deathmatch.json](./5768-celebrity-deathmatch.json) |
 | Celebrity Hunter | 298449 | [298449-celebrity-hunter.json](./298449-celebrity-hunter.json) |
 | Celebrity Kombat | 264090 | [264090-celebrity-kombat.json](./264090-celebrity-kombat.json) |
 | Celebrity Life | 157138 | [157138-celebrity-life.json](./157138-celebrity-life.json) |
@@ -20864,6 +20866,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cursed Meal | 388808 | [388808-cursed-meal.json](./388808-cursed-meal.json) |
 | Cursed Memories: The Secret of Agony Creek | 18893 | [18893-cursed-memories-the-secret-of-agony-creek.json](./18893-cursed-memories-the-secret-of-agony-creek.json) |
 | Cursed Memory | 370549 | [370549-cursed-memory.json](./370549-cursed-memory.json) |
+| Cursed Mountain | 4783 | [4783-cursed-mountain.json](./4783-cursed-mountain.json) |
 | Cursed Mummies | 169470 | [169470-cursed-mummies.json](./169470-cursed-mummies.json) |
 | Cursed New Year | 323512 | [323512-cursed-new-year.json](./323512-cursed-new-year.json) |
 | Cursed Night | 244194 | [244194-cursed-night.json](./244194-cursed-night.json) |
