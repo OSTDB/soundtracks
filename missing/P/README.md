@@ -9808,6 +9808,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plant Chess | 260058 | [260058-plant-chess.json](./260058-plant-chess.json) |
 | Plant Daddy | 131854 | [131854-plant-daddy.json](./131854-plant-daddy.json) |
 | Plant Down | 198509 | [198509-plant-down.json](./198509-plant-down.json) |
+| Plant Fire Department: The Simulation | 32044 | [32044-plant-fire-department-the-simulation.json](./32044-plant-fire-department-the-simulation.json) |
 | Plant Firefighter Simulator 2014 | 88286 | [88286-plant-firefighter-simulator-2014.json](./88286-plant-firefighter-simulator-2014.json) |
 | Plant Gallery: A Short Botanic Experience | 267437 | [267437-plant-gallery-a-short-botanic-experience.json](./267437-plant-gallery-a-short-botanic-experience.json) |
 | Plant Game | 405518 | [405518-plant-game.json](./405518-plant-game.json) |
@@ -15920,6 +15921,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Professional Bull Riding: Out of the Chute | 315719 | [315719-professional-bull-riding-out-of-the-chute.json](./315719-professional-bull-riding-out-of-the-chute.json) |
 | Professional Bull Riding: Out of the Chute | 51113 | [51113-professional-bull-riding-out-of-the-chute.json](./51113-professional-bull-riding-out-of-the-chute.json) |
 | Professional Chef | 411492 | [411492-professional-chef.json](./411492-professional-chef.json) |
+| Professional Construction: The Simulation | 32045 | [32045-professional-construction-the-simulation.json](./32045-professional-construction-the-simulation.json) |
 | Professional Darts Championship | 197887 | [197887-professional-darts-championship.json](./197887-professional-darts-championship.json) |
 | Professional Farmer 2014 | 10723 | [10723-professional-farmer-2014.json](./10723-professional-farmer-2014.json) |
 | Professional Farmer 2014 America | 53476 | [53476-professional-farmer-2014-america.json](./53476-professional-farmer-2014-america.json) |
@@ -18880,6 +18882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzzle Block Blast | 221382 | [221382-puzzle-block-blast.json](./221382-puzzle-block-blast.json) |
 | Puzzle Block Defender | 358031 | [358031-puzzle-block-defender.json](./358031-puzzle-block-defender.json) |
 | Puzzle Block Wood - Wooden Block & Puzzle Game | 100936 | [100936-puzzle-block-wood-wooden-block-and-puzzle-game.json](./100936-puzzle-block-wood-wooden-block-and-puzzle-game.json) |
+| Puzzle Blocks | 32055 | [32055-puzzle-blocks.json](./32055-puzzle-blocks.json) |
 | Puzzle Blocks | 83937 | [83937-puzzle-blocks.json](./83937-puzzle-blocks.json) |
 | Puzzle Bloom | 93931 | [93931-puzzle-bloom.json](./93931-puzzle-bloom.json) |
 | Puzzle Blox | 233410 | [233410-puzzle-blox.json](./233410-puzzle-blox.json) |
