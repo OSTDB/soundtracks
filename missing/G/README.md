@@ -2503,6 +2503,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gearguns: Tank Offensive | 31375 | [31375-gearguns-tank-offensive.json](./31375-gearguns-tank-offensive.json) |
 | GearHead 2 | 183288 | [183288-gearhead-2.json](./183288-gearhead-2.json) |
 | GearHead Caramel | 176061 | [176061-gearhead-caramel.json](./176061-gearhead-caramel.json) |
+| Gearhead Garage | 73965 | [73965-gearhead-garage.json](./73965-gearhead-garage.json) |
 | Gearhead Karting | 252019 | [252019-gearhead-karting.json](./252019-gearhead-karting.json) |
 | GearHead: Arena | 181230 | [181230-gearhead-arena.json](./181230-gearhead-arena.json) |
 | Gearheads | 92925 | [92925-gearheads.json](./92925-gearheads.json) |
