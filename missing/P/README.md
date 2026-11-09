@@ -7350,6 +7350,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pinball Illusions | 6025 | [6025-pinball-illusions.json](./6025-pinball-illusions.json) |
 | Pinball Inside: A VR Arcade Game | 29187 | [29187-pinball-inside-a-vr-arcade-game.json](./29187-pinball-inside-a-vr-arcade-game.json) |
 | Pinball Jam | 187479 | [187479-pinball-jam.json](./187479-pinball-jam.json) |
+| Pinball Jam | 40850 | [40850-pinball-jam.json](./40850-pinball-jam.json) |
 | Pinball Kingdom | 261155 | [261155-pinball-kingdom.json](./261155-pinball-kingdom.json) |
 | Pinball League: Hardhat Zone | 296220 | [296220-pinball-league-hardhat-zone.json](./296220-pinball-league-hardhat-zone.json) |
 | Pinball Lockdown | 133432 | [133432-pinball-lockdown.json](./133432-pinball-lockdown.json) |
@@ -7795,6 +7796,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pippin's Mysterious Garden | 258729 | [258729-pippins-mysterious-garden.json](./258729-pippins-mysterious-garden.json) |
 | Pippo | 92906 | [92906-pippo.json](./92906-pippo.json) |
 | Pippo's Quest | 251584 | [251584-pippos-quest.json](./251584-pippos-quest.json) |
+| Pippols | 40882 | [40882-pippols.json](./40882-pippols.json) |
 | Pippu: Bauble Quest | 165602 | [165602-pippu-bauble-quest.json](./165602-pippu-bauble-quest.json) |
 | Pips | 362932 | [362932-pips.json](./362932-pips.json) |
 | Pipsqueak! | 304306 | [304306-pipsqueak.json](./304306-pipsqueak.json) |
