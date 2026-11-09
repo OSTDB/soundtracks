@@ -1086,6 +1086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karol Ball | 125840 | [125840-karol-ball.json](./125840-karol-ball.json) |
 | Karol World Breaker | 343299 | [343299-karol-world-breaker.json](./343299-karol-world-breaker.json) |
 | Karolina | 199746 | [199746-karolina.json](./199746-karolina.json) |
+| Karos | 36045 | [36045-karos.json](./36045-karos.json) |
 | Karos Classic | 284877 | [284877-karos-classic.json](./284877-karos-classic.json) |
 | Karos Returns | 35215 | [35215-karos-returns.json](./35215-karos-returns.json) |
 | Karoshi | 138990 | [138990-karoshi.json](./138990-karoshi.json) |
