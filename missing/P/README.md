@@ -2966,6 +2966,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pat & Mat | 16210 | [16210-pat-and-mat.json](./16210-pat-and-mat.json) |
 | Pat Pat Cat | 387590 | [387590-pat-pat-cat.json](./387590-pat-pat-cat.json) |
 | Pat Riley Basketball | 28020 | [28020-pat-riley-basketball.json](./28020-pat-riley-basketball.json) |
+| Pat Sajak's Lucky Letters Deluxe | 51360 | [51360-pat-sajaks-lucky-letters-deluxe.json](./51360-pat-sajaks-lucky-letters-deluxe.json) |
 | Pat Sajak's Trivia Gems | 98966 | [98966-pat-sajaks-trivia-gems.json](./98966-pat-sajaks-trivia-gems.json) |
 | PAT Shooter | 335421 | [335421-pat-shooter.json](./335421-pat-shooter.json) |
 | Pata | 236799 | [236799-pata.json](./236799-pata.json) |
