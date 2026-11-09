@@ -853,6 +853,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Meeting of Dreams | 223486 | [223486-a-meeting-of-dreams.json](./223486-a-meeting-of-dreams.json) |
 | A Megawad in Two Weeks | 274142 | [274142-a-megawad-in-two-weeks.json](./274142-a-megawad-in-two-weeks.json) |
 | A Melon's Tale | 180671 | [180671-a-melons-tale.json](./180671-a-melons-tale.json) |
+| A Memoir Blue | 106856 | [106856-a-memoir-blue.json](./106856-a-memoir-blue.json) |
 | A Merchant's Promise | 327692 | [327692-a-merchants-promise.json](./327692-a-merchants-promise.json) |
 | A Mermaid's Paradoxical Tale | 273664 | [273664-a-mermaids-paradoxical-tale.json](./273664-a-mermaids-paradoxical-tale.json) |
 | A Mess O'Trouble | 66786 | [66786-a-mess-otrouble.json](./66786-a-mess-otrouble.json) |
@@ -5033,6 +5034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Age of Wonders III: Deluxe Edition | 51696 | [51696-age-of-wonders-iii-deluxe-edition.json](./51696-age-of-wonders-iii-deluxe-edition.json) |
 | Age of Wonders III: Eternal Lords | 11085 | [11085-age-of-wonders-iii-eternal-lords.json](./11085-age-of-wonders-iii-eternal-lords.json) |
 | Age of Wonders III: Golden Realms | 8863 | [8863-age-of-wonders-iii-golden-realms.json](./8863-age-of-wonders-iii-golden-realms.json) |
+| Age of Wonders: Planetfall | 102057 | [102057-age-of-wonders-planetfall.json](./102057-age-of-wonders-planetfall.json) |
 | Age of Wonders: Planetfall - Day One Edition | 136153 | [136153-age-of-wonders-planetfall-day-one-edition.json](./136153-age-of-wonders-planetfall-day-one-edition.json) |
 | Age of Wonders: Planetfall - Deluxe Edition | 118845 | [118845-age-of-wonders-planetfall-deluxe-edition.json](./118845-age-of-wonders-planetfall-deluxe-edition.json) |
 | Age of Wonders: Planetfall - Invasions | 132166 | [132166-age-of-wonders-planetfall-invasions.json](./132166-age-of-wonders-planetfall-invasions.json) |
@@ -8460,6 +8462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Am I The Asshole? | 373829 | [373829-am-i-the-asshole.json](./373829-am-i-the-asshole.json) |
 | Am I the baddie? | 173287 | [173287-am-i-the-baddie.json](./173287-am-i-the-baddie.json) |
 | Am Madness | 163091 | [163091-am-madness.json](./163091-am-madness.json) |
+| AM2R: Return of Samus | 27238 | [27238-am2r-return-of-samus.json](./27238-am2r-return-of-samus.json) |
 | Ama Me (In Incisis) | 297551 | [297551-ama-me-in-incisis.json](./297551-ama-me-in-incisis.json) |
 | Ama no Sora Retrospect | 336849 | [336849-ama-no-sora-retrospect.json](./336849-ama-no-sora-retrospect.json) |
 | AMA Superbike | 94233 | [94233-ama-superbike.json](./94233-ama-superbike.json) |
@@ -11321,6 +11324,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another City: Sigongui Teum | 224401 | [224401-another-city-sigongui-teum.json](./224401-another-city-sigongui-teum.json) |
 | Another Code: R - A Journey into Lost Memories | 266696 | [266696-another-code-r-a-journey-into-lost-memories.json](./266696-another-code-r-a-journey-into-lost-memories.json) |
 | Another Code: Two Memories | 266694 | [266694-another-code-two-memories.json](./266694-another-code-two-memories.json) |
+| Another Crab's Treasure | 200903 | [200903-another-crabs-treasure.json](./200903-another-crabs-treasure.json) |
 | Another Crab's Treasure: Year of the Crab | 349894 | [349894-another-crabs-treasure-year-of-the-crab.json](./349894-another-crabs-treasure-year-of-the-crab.json) |
 | Another Crabs Treasure Prototype | 371331 | [371331-another-crabs-treasure-prototype.json](./371331-another-crabs-treasure-prototype.json) |
 | Another Crusade | 135681 | [135681-another-crusade.json](./135681-another-crusade.json) |
@@ -12564,6 +12568,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aquapark io: Sweet and Spooky DLC | 263525 | [263525-aquapark-io-sweet-and-spooky-dlc.json](./263525-aquapark-io-sweet-and-spooky-dlc.json) |
 | Aquapark io: Sweet Edition | 364098 | [364098-aquapark-io-sweet-edition.json](./364098-aquapark-io-sweet-edition.json) |
 | Aquapark Tycoon | 296651 | [296651-aquapark-tycoon.json](./296651-aquapark-tycoon.json) |
+| Aquapark.io | 119207 | [119207-aquapark-io.json](./119207-aquapark-io.json) |
 | Aquapazza: Aquaplus Dream Match | 7272 | [7272-aquapazza-aquaplus-dream-match.json](./7272-aquapazza-aquaplus-dream-match.json) |
 | Aquaphobia | 241299 | [241299-aquaphobia.json](./241299-aquaphobia.json) |
 | Aquaphobia | 46655 | [46655-aquaphobia.json](./46655-aquaphobia.json) |
@@ -16036,6 +16041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed Shadows: Special Edition | 410946 | [410946-assassins-creed-shadows-special-edition.json](./410946-assassins-creed-shadows-special-edition.json) |
 | Assassin's Creed Shadows: Thrown to the Dogs | 301432 | [301432-assassins-creed-shadows-thrown-to-the-dogs.json](./301432-assassins-creed-shadows-thrown-to-the-dogs.json) |
 | Assassin's Creed Syndicate: A Long Night | 399890 | [399890-assassins-creed-syndicate-a-long-night.json](./399890-assassins-creed-syndicate-a-long-night.json) |
+| Assassin's Creed Syndicate: Jack the Ripper | 15169 | [15169-assassins-creed-syndicate-jack-the-ripper.json](./15169-assassins-creed-syndicate-jack-the-ripper.json) |
 | Assassin's Creed Syndicate: Limited Edition | 251379 | [251379-assassins-creed-syndicate-limited-edition.json](./251379-assassins-creed-syndicate-limited-edition.json) |
 | Assassin's Creed Syndicate: Runaway Train | 399891 | [399891-assassins-creed-syndicate-runaway-train.json](./399891-assassins-creed-syndicate-runaway-train.json) |
 | Assassin's Creed Syndicate: Season Pass | 399893 | [399893-assassins-creed-syndicate-season-pass.json](./399893-assassins-creed-syndicate-season-pass.json) |
