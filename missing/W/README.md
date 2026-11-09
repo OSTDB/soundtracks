@@ -2630,6 +2630,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WaterWays | 67881 | [67881-waterways.json](./67881-waterways.json) |
 | Waterworks! | 182757 | [182757-waterworks.json](./182757-waterworks.json) |
 | Waterworld | 133281 | [133281-waterworld.json](./133281-waterworld.json) |
+| Waterworld | 20987 | [20987-waterworld.json](./20987-waterworld.json) |
 | Waterworld | 265035 | [265035-waterworld.json](./265035-waterworld.json) |
 | Waterworld | 338817 | [338817-waterworld.json](./338817-waterworld.json) |
 | Waterworld | 388690 | [388690-waterworld.json](./388690-waterworld.json) |
@@ -2724,6 +2725,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WaveTiles | 149240 | [149240-wavetiles.json](./149240-wavetiles.json) |
 | Wavey the Rocket | 112513 | [112513-wavey-the-rocket.json](./112513-wavey-the-rocket.json) |
 | Waving Around | 347174 | [347174-waving-around.json](./347174-waving-around.json) |
+| Wavy Navy | 22694 | [22694-wavy-navy.json](./22694-wavy-navy.json) |
 | Wavy trip | 89364 | [89364-wavy-trip.json](./89364-wavy-trip.json) |
 | Wawa Neko no Shima | 206175 | [206175-wawa-neko-no-shima.json](./206175-wawa-neko-no-shima.json) |
 | Wawa United | 150598 | [150598-wawa-united.json](./150598-wawa-united.json) |
@@ -6033,6 +6035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wings of Beyond | 422794 | [422794-wings-of-beyond.json](./422794-wings-of-beyond.json) |
 | Wings of Bluestar | 27941 | [27941-wings-of-bluestar.json](./27941-wings-of-bluestar.json) |
 | Wings of Dawn | 401817 | [401817-wings-of-dawn.json](./401817-wings-of-dawn.json) |
+| Wings of Death | 20893 | [20893-wings-of-death.json](./20893-wings-of-death.json) |
 | Wings of Destiny | 15484 | [15484-wings-of-destiny.json](./15484-wings-of-destiny.json) |
 | Wings of Duty | 174771 | [174771-wings-of-duty.json](./174771-wings-of-duty.json) |
 | Wings of Endless | 284586 | [284586-wings-of-endless.json](./284586-wings-of-endless.json) |
