@@ -4462,6 +4462,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Vulpis | 253501 | [253501-vulpis.json](./253501-vulpis.json) |
 | Vulto | 168622 | [168622-vulto.json](./168622-vulto.json) |
 | Vultur: Magic Artifact Retrieval Service | 186643 | [186643-vultur-magic-artifact-retrieval-service.json](./186643-vultur-magic-artifact-retrieval-service.json) |
+| Vulture | 56629 | [56629-vulture.json](./56629-vulture.json) |
 | Vulture Attack | 40721 | [40721-vulture-attack.json](./40721-vulture-attack.json) |
 | Vulture Island | 31046 | [31046-vulture-island.json](./31046-vulture-island.json) |
 | Vulture Strike | 36973 | [36973-vulture-strike.json](./36973-vulture-strike.json) |
