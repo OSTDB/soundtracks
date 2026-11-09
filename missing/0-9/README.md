@@ -1971,6 +1971,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 25920 | 337614 | [337614-25920.json](./337614-25920.json) |
 | 25th Century Duke | 273131 | [273131-25th-century-duke.json](./273131-25th-century-duke.json) |
 | 26 Rob Plays | 107326 | [107326-26-rob-plays.json](./107326-26-rob-plays.json) |
+| 2601: Teikoku Kidou Butai no Koubou | 66233 | [66233-2601-teikoku-kidou-butai-no-koubou.json](./66233-2601-teikoku-kidou-butai-no-koubou.json) |
 | 26AZ: The Enigma of Shadows | 299676 | [299676-26az-the-enigma-of-shadows.json](./299676-26az-the-enigma-of-shadows.json) |
 | 27 Electronic table football | 27219 | [27219-27-electronic-table-football.json](./27219-27-electronic-table-football.json) |
 | 27 Survivors | 410329 | [410329-27-survivors.json](./410329-27-survivors.json) |
@@ -2389,6 +2390,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 3D Boxing | 12980 | [12980-3d-boxing.json](./12980-3d-boxing.json) |
 | 3D Breakthru | 14149 | [14149-3d-breakthru.json](./14149-3d-breakthru.json) |
 | 3D Brick Breaker Revolution | 66431 | [66431-3d-brick-breaker-revolution.json](./66431-3d-brick-breaker-revolution.json) |
+| 3D Brick Breaker Revolution 2 | 66152 | [66152-3d-brick-breaker-revolution-2.json](./66152-3d-brick-breaker-revolution-2.json) |
 | 3D Brick Bustin Madness | 205832 | [205832-3d-brick-bustin-madness.json](./205832-3d-brick-bustin-madness.json) |
 | 3d Bridges | 35510 | [35510-3d-bridges.json](./35510-3d-bridges.json) |
 | 3D Bumper Billiards | 424689 | [424689-3d-bumper-billiards.json](./424689-3d-bumper-billiards.json) |
