@@ -2447,6 +2447,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Harvest Moon 3 GBC | 3381 | [3381-harvest-moon-3-gbc.json](./3381-harvest-moon-3-gbc.json) |
 | Harvest Moon 64 | 3378 | [3378-harvest-moon-64.json](./3378-harvest-moon-64.json) |
 | Harvest Moon Cozy Bundle | 329763 | [329763-harvest-moon-cozy-bundle.json](./329763-harvest-moon-cozy-bundle.json) |
+| Harvest Moon DS | 3385 | [3385-harvest-moon-ds.json](./3385-harvest-moon-ds.json) |
 | Harvest Moon DS Cute | 47699 | [47699-harvest-moon-ds-cute.json](./47699-harvest-moon-ds-cute.json) |
 | Harvest Moon DS: Grand Bazaar | 3391 | [3391-harvest-moon-ds-grand-bazaar.json](./3391-harvest-moon-ds-grand-bazaar.json) |
 | Harvest Moon DS: Island of Happiness | 3387 | [3387-harvest-moon-ds-island-of-happiness.json](./3387-harvest-moon-ds-island-of-happiness.json) |
