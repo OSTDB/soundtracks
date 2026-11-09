@@ -2784,6 +2784,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 4 Pics 1 Word | 63105 | [63105-4-pics-1-word.json](./63105-4-pics-1-word.json) |
 | 4 Pics 1 Word Quiz | 103685 | [103685-4-pics-1-word-quiz.json](./103685-4-pics-1-word-quiz.json) |
 | 4 Pics Heroes and Villains | 107184 | [107184-4-pics-heroes-and-villains.json](./107184-4-pics-heroes-and-villains.json) |
+| 4 Player Bowling Alley | 40285 | [40285-4-player-bowling-alley.json](./40285-4-player-bowling-alley.json) |
 | 4 Player Reactor | 56948 | [56948-4-player-reactor.json](./56948-4-player-reactor.json) |
 | 4 Queen | 84337 | [84337-4-queen.json](./84337-4-queen.json) |
 | 4 Rush Together | 316434 | [316434-4-rush-together.json](./316434-4-rush-together.json) |
