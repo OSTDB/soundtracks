@@ -7694,6 +7694,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | All Star Cheer Squad 2 | 2851 | [2851-all-star-cheer-squad-2.json](./2851-all-star-cheer-squad-2.json) |
 | All Star Cricket 2 | 193855 | [193855-all-star-cricket-2.json](./193855-all-star-cricket-2.json) |
 | All Star Darts | 79309 | [79309-all-star-darts.json](./79309-all-star-darts.json) |
+| All Star Fighting | 43403 | [43403-all-star-fighting.json](./43403-all-star-fighting.json) |
 | All Star Karate | 20322 | [20322-all-star-karate.json](./20322-all-star-karate.json) |
 | All Star Kart Race: Crazy Gear Championship | 240103 | [240103-all-star-kart-race-crazy-gear-championship.json](./240103-all-star-kart-race-crazy-gear-championship.json) |
 | All Star Pro Wrestling II | 43619 | [43619-all-star-pro-wrestling-ii.json](./43619-all-star-pro-wrestling-ii.json) |
@@ -14191,6 +14192,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aria: Aqua Ritmo | 56291 | [56291-aria-aqua-ritmo.json](./56291-aria-aqua-ritmo.json) |
 | Aria: Dragon Eater | 137230 | [137230-aria-dragon-eater.json](./137230-aria-dragon-eater.json) |
 | Aria: Genesis | 234530 | [234530-aria-genesis.json](./234530-aria-genesis.json) |
+| Aria: The Natural ~Tooi Yume no Mirage~ | 43407 | [43407-aria-the-natural-tooi-yume-no-mirage.json](./43407-aria-the-natural-tooi-yume-no-mirage.json) |
+| Aria: The Origination ~Aoi Hoshi no El Cielo~ | 43408 | [43408-aria-the-origination-aoi-hoshi-no-el-cielo.json](./43408-aria-the-origination-aoi-hoshi-no-el-cielo.json) |
 | ARia's Legacy | 102795 | [102795-arias-legacy.json](./102795-arias-legacy.json) |
 | Aria's Melody | 210967 | [210967-arias-melody.json](./210967-arias-melody.json) |
 | Aria's Small Adventure! | 249345 | [249345-arias-small-adventure.json](./249345-arias-small-adventure.json) |
