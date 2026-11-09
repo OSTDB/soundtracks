@@ -3435,6 +3435,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Casino Crime | 372784 | [372784-casino-crime.json](./372784-casino-crime.json) |
 | Casino De Luxe | 131274 | [131274-casino-de-luxe.json](./131274-casino-de-luxe.json) |
 | Casino De Pink | 41372 | [41372-casino-de-pink.json](./41372-casino-de-pink.json) |
+| Casino Derby | 48720 | [48720-casino-derby.json](./48720-casino-derby.json) |
 | Casino FunPak | 117931 | [117931-casino-funpak.json](./117931-casino-funpak.json) |
 | Casino Games | 358606 | [358606-casino-games.json](./358606-casino-games.json) |
 | Casino Games | 45656 | [45656-casino-games.json](./45656-casino-games.json) |
@@ -7314,6 +7315,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chibi Maruko-chan: Maru-chan Ame wo Morai ni Iku no Maki | 284443 | [284443-chibi-maruko-chan-maru-chan-ame-wo-morai-ni-iku-no-maki.json](./284443-chibi-maruko-chan-maru-chan-ame-wo-morai-ni-iku-no-maki.json) |
 | Chibi Maruko-chan: Mezase! Minami no Island!! | 38152 | [38152-chibi-maruko-chan-mezase-minami-no-island.json](./38152-chibi-maruko-chan-mezase-minami-no-island.json) |
 | Chibi Maruko-chan: Okozukai Daisakusen! | 79542 | [79542-chibi-maruko-chan-okozukai-daisakusen.json](./79542-chibi-maruko-chan-okozukai-daisakusen.json) |
+| Chibi Maruko-chan: Uki Uki Shopping | 48719 | [48719-chibi-maruko-chan-uki-uki-shopping.json](./48719-chibi-maruko-chan-uki-uki-shopping.json) |
 | Chibi Ninja Shino-kun: Treasure of Demon Tower | 242442 | [242442-chibi-ninja-shino-kun-treasure-of-demon-tower.json](./242442-chibi-ninja-shino-kun-treasure-of-demon-tower.json) |
 | Chibi Reboot | 336690 | [336690-chibi-reboot.json](./336690-chibi-reboot.json) |
 | Chibi Reboot 2 | 338513 | [338513-chibi-reboot-2.json](./338513-chibi-reboot-2.json) |
@@ -8957,6 +8959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuck Rock II: Son of Chuck | 4371 | [4371-chuck-rock-ii-son-of-chuck.json](./4371-chuck-rock-ii-son-of-chuck.json) |
 | Chuck the Metalhead in Medieval Hell | 235809 | [235809-chuck-the-metalhead-in-medieval-hell.json](./235809-chuck-the-metalhead-in-medieval-hell.json) |
 | Chuck the Sheep | 386081 | [386081-chuck-the-sheep.json](./386081-chuck-the-sheep.json) |
+| Chuck Yeagar's Fighter Combat | 48367 | [48367-chuck-yeagars-fighter-combat.json](./48367-chuck-yeagars-fighter-combat.json) |
 | Chuck Yeager's Air Combat | 51396 | [51396-chuck-yeagers-air-combat.json](./51396-chuck-yeagers-air-combat.json) |
 | Chuck's Challenge | 130048 | [130048-chucks-challenge.json](./130048-chucks-challenge.json) |
 | Chuck's Challenge 3D 2020 | 139021 | [139021-chucks-challenge-3d-2020.json](./139021-chucks-challenge-3d-2020.json) |
@@ -9052,6 +9055,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chuugaku Hisshuu Ei Bunpou: Chuugaku 1 Nensei You | 65994 | [65994-chuugaku-hisshuu-ei-bunpou-chuugaku-1-nensei-you.json](./65994-chuugaku-hisshuu-ei-bunpou-chuugaku-1-nensei-you.json) |
 | Chuugaku Hisshuu Ei Bunpou: Chuugaku 2 Nensei You | 65993 | [65993-chuugaku-hisshuu-ei-bunpou-chuugaku-2-nensei-you.json](./65993-chuugaku-hisshuu-ei-bunpou-chuugaku-2-nensei-you.json) |
 | Chuugen no Hasha: Sangoku Shouseiden | 340811 | [340811-chuugen-no-hasha-sangoku-shouseiden.json](./340811-chuugen-no-hasha-sangoku-shouseiden.json) |
+| Chuugoku Janshi Story: Tonpuu | 48718 | [48718-chuugoku-janshi-story-tonpuu.json](./48718-chuugoku-janshi-story-tonpuu.json) |
+| Chuugoku Senseijutsu | 48717 | [48717-chuugoku-senseijutsu.json](./48717-chuugoku-senseijutsu.json) |
 | Chuukana Janshi Tenhoo Painyan Remix | 56461 | [56461-chuukana-janshi-tenhoo-painyan-remix.json](./56461-chuukana-janshi-tenhoo-painyan-remix.json) |
 | Chuukana Janshi Tenhou Painyan | 380412 | [380412-chuukana-janshi-tenhou-painyan.json](./380412-chuukana-janshi-tenhou-painyan.json) |
 | Chuukara Shisen | 206579 | [206579-chuukara-shisen.json](./206579-chuukara-shisen.json) |
