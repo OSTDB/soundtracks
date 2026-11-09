@@ -2879,6 +2879,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Passer | 351394 | [351394-passer.json](./351394-passer.json) |
 | Passerines in End Times | 383193 | [383193-passerines-in-end-times.json](./383193-passerines-in-end-times.json) |
 | Passiflora | 398761 | [398761-passiflora.json](./398761-passiflora.json) |
+| Passimian's Jungle Bowling | 56053 | [56053-passimians-jungle-bowling.json](./56053-passimians-jungle-bowling.json) |
 | Passin'Time | 181042 | [181042-passintime.json](./181042-passintime.json) |
 | Passing By | 201635 | [201635-passing-by.json](./201635-passing-by.json) |
 | Passing By: A Tailwind Journey | 139265 | [139265-passing-by-a-tailwind-journey.json](./139265-passing-by-a-tailwind-journey.json) |
@@ -3945,6 +3946,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pedro of Brazil | 265471 | [265471-pedro-of-brazil.json](./265471-pedro-of-brazil.json) |
 | Pedro's Adventures in Spanish | 159161 | [159161-pedros-adventures-in-spanish.json](./159161-pedros-adventures-in-spanish.json) |
 | Pedros Eggventure | 367650 | [367650-pedros-eggventure.json](./367650-pedros-eggventure.json) |
+| Pee & Gity | 56048 | [56048-pee-and-gity.json](./56048-pee-and-gity.json) |
+| Pee & Gity Special | 56040 | [56040-pee-and-gity-special.json](./56040-pee-and-gity-special.json) |
 | Pee Pee Bon Bon: Qusumi Masayuki No Appare Characters 100 | 279806 | [279806-pee-pee-bon-bon-qusumi-masayuki-no-appare-characters-100.json](./279806-pee-pee-bon-bon-qusumi-masayuki-no-appare-characters-100.json) |
 | Pee War! | 163861 | [163861-pee-war.json](./163861-pee-war.json) |
 | Peeb Adventures | 144744 | [144744-peeb-adventures.json](./144744-peeb-adventures.json) |
@@ -10479,6 +10482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Plumber | 343771 | [343771-plumber.json](./343771-plumber.json) |
 | Plumber 3 | 168113 | [168113-plumber-3.json](./168113-plumber-3.json) |
 | Plumber 3D | 336908 | [336908-plumber-3d.json](./336908-plumber-3d.json) |
+| Plumber 3D | 55529 | [55529-plumber-3d.json](./55529-plumber-3d.json) |
 | Plumber 994 | 96816 | [96816-plumber-994.json](./96816-plumber-994.json) |
 | Plumber Bundle 3 in 1 | 251122 | [251122-plumber-bundle-3-in-1.json](./251122-plumber-bundle-3-in-1.json) |
 | Plumber Game: Water Pipe Line Connecting | 96002 | [96002-plumber-game-water-pipe-line-connecting.json](./96002-plumber-game-water-pipe-line-connecting.json) |
@@ -13130,6 +13134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pop'n music Sunny Park | 78257 | [78257-popn-music-sunny-park.json](./78257-popn-music-sunny-park.json) |
 | Pop'n Music the Movie | 67316 | [67316-popn-music-the-movie.json](./67316-popn-music-the-movie.json) |
 | Pop'n Music UniLab | 225787 | [225787-popn-music-unilab.json](./225787-popn-music-unilab.json) |
+| Pop'n Music: Disney Tunes | 56042 | [56042-popn-music-disney-tunes.json](./56042-popn-music-disney-tunes.json) |
 | Pop'n Music: Mickey Tunes | 314334 | [314334-popn-music-mickey-tunes.json](./314334-popn-music-mickey-tunes.json) |
 | pop'n music: Tune Street | 98811 | [98811-popn-music-tune-street.json](./98811-popn-music-tune-street.json) |
 | Pop'n Music: Usagi to Neko to Shounen no Yume | 134404 | [134404-popn-music-usagi-to-neko-to-shounen-no-yume.json](./134404-popn-music-usagi-to-neko-to-shounen-no-yume.json) |
@@ -17495,6 +17500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Psychic Guardian Super Splendor | 155834 | [155834-psychic-guardian-super-splendor.json](./155834-psychic-guardian-super-splendor.json) |
 | Psychic Idle | 281288 | [281288-psychic-idle.json](./281288-psychic-idle.json) |
 | Psychic Investigation of Sakuragi Haru | 241385 | [241385-psychic-investigation-of-sakuragi-haru.json](./241385-psychic-investigation-of-sakuragi-haru.json) |
+| Psychic Isolation | 55528 | [55528-psychic-isolation.json](./55528-psychic-isolation.json) |
 | Psychic Kung Fu Master | 392086 | [392086-psychic-kung-fu-master.json](./392086-psychic-kung-fu-master.json) |
 | Psychic Shadows | 298799 | [298799-psychic-shadows.json](./298799-psychic-shadows.json) |
 | Psychic Storm | 280322 | [280322-psychic-storm.json](./280322-psychic-storm.json) |
@@ -18117,6 +18123,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Punks Not Dead | 83938 | [83938-punks-not-dead.json](./83938-punks-not-dead.json) |
 | Punky Doodle | 322536 | [322536-punky-doodle.json](./322536-punky-doodle.json) |
 | Punky Skunk | 44881 | [44881-punky-skunk.json](./44881-punky-skunk.json) |
+| Punky Town | 56013 | [56013-punky-town.json](./56013-punky-town.json) |
 | Punlock | 112167 | [112167-punlock.json](./112167-punlock.json) |
 | PunPics | 233217 | [233217-punpics.json](./233217-punpics.json) |
 | Punt | 239675 | [239675-punt.json](./239675-punt.json) |
@@ -19434,6 +19441,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PXL Play | 232393 | [232393-pxl-play.json](./232393-pxl-play.json) |
 | Pxl-Ship | 133359 | [133359-pxl-ship.json](./133359-pxl-ship.json) |
 | pXt | 98883 | [98883-pxt.json](./98883-pxt.json) |
+| Py & Gity 2: The Industrial Age | 56038 | [56038-py-and-gity-2-the-industrial-age.json](./56038-py-and-gity-2-the-industrial-age.json) |
 | Pygmalion Lied | 178889 | [178889-pygmalion-lied.json](./178889-pygmalion-lied.json) |
 | Pygmy | 282734 | [282734-pygmy.json](./282734-pygmy.json) |
 | Pyhare | 338279 | [338279-pyhare.json](./338279-pyhare.json) |
