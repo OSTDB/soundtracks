@@ -3678,6 +3678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Westen House | 311945 | [311945-westen-house.json](./311945-westen-house.json) |
 | Westerado | 8903 | [8903-westerado.json](./8903-westerado.json) |
 | Westerado Poker | 397140 | [397140-westerado-poker.json](./397140-westerado-poker.json) |
+| Westerado: Double Barreled | 8904 | [8904-westerado-double-barreled.json](./8904-westerado-double-barreled.json) |
 | Westerlands: Girly runaways story | 147247 | [147247-westerlands-girly-runaways-story.json](./147247-westerlands-girly-runaways-story.json) |
 | Western 1849 Reloaded | 27335 | [27335-western-1849-reloaded.json](./27335-western-1849-reloaded.json) |
 | Western Adventure | 30320 | [30320-western-adventure.json](./30320-western-adventure.json) |
