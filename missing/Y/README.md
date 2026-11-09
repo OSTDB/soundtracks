@@ -67,7 +67,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yago, the Coquerrestrial | 75323 | [75323-yago-the-coquerrestrial.json](./75323-yago-the-coquerrestrial.json) |
 | YAGS: Falling For You | 228069 | [228069-yags-falling-for-you.json](./228069-yags-falling-for-you.json) |
 | Yagzz! | 343336 | [343336-yagzz.json](./343336-yagzz.json) |
+| Yahari Game Demo Ore no Seishun Love-come wa Machigatteiru. | 11741 | [11741-yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru.json](./11741-yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru.json) |
 | Yahari Game Demo Ore no Seishun Love-come wa Machigatteiru. Kan | 231405 | [231405-yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-kan.json](./231405-yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-kan.json) |
+| Yahari Game Demo Ore no Seishun Love-come wa Machigatteiru. Zoku | 11752 | [11752-yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-zoku.json](./11752-yahari-game-demo-ore-no-seishun-love-come-wa-machigatteiru-zoku.json) |
 | Yahoo Pool | 86051 | [86051-yahoo-pool.json](./86051-yahoo-pool.json) |
 | Yahrit! | 105291 | [105291-yahrit.json](./105291-yahrit.json) |
 | Yahtzee | 40745 | [40745-yahtzee.json](./40745-yahtzee.json) |
