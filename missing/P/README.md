@@ -2296,6 +2296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paranox | 273828 | [273828-paranox.json](./273828-paranox.json) |
 | Paranoya | 204269 | [204269-paranoya.json](./204269-paranoya.json) |
 | Parapara Leloluv | 226473 | [226473-parapara-leloluv.json](./226473-parapara-leloluv.json) |
+| ParaParaParadise | 77554 | [77554-paraparaparadise.json](./77554-paraparaparadise.json) |
 | ParaParaParadise 2nd mix | 78946 | [78946-paraparaparadise-2nd-mix.json](./78946-paraparaparadise-2nd-mix.json) |
 | ParaParaParadise V1.1 | 314329 | [314329-paraparaparadise-v1-1.json](./314329-paraparaparadise-v1-1.json) |
 | ParaPerspective | 202519 | [202519-paraperspective.json](./202519-paraperspective.json) |
@@ -10104,6 +10105,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Playerless: One Button Adventure | 116658 | [116658-playerless-one-button-adventure.json](./116658-playerless-one-button-adventure.json) |
 | PlayerOne | 125678 | [125678-playerone.json](./125678-playerone.json) |
 | PlayerONeGame | 90357 | [90357-playeronegame.json](./90357-playeronegame.json) |
+| Players Unknown Battle Grand | 77523 | [77523-players-unknown-battle-grand.json](./77523-players-unknown-battle-grand.json) |
 | Playerunkn1wn: Friendly Fire | 80912 | [80912-playerunkn1wn-friendly-fire.json](./80912-playerunkn1wn-friendly-fire.json) |
 | Playerunkn4wn: Zombie | 80913 | [80913-playerunkn4wn-zombie.json](./80913-playerunkn4wn-zombie.json) |
 | Playerunknown's Battleboxes | 379625 | [379625-playerunknowns-battleboxes.json](./379625-playerunknowns-battleboxes.json) |
@@ -15738,6 +15740,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Prodigy Racing | 311287 | [311287-prodigy-racing.json](./311287-prodigy-racing.json) |
 | Prodigy Tactics | 77360 | [77360-prodigy-tactics.json](./77360-prodigy-tactics.json) |
 | Prodoomer | 201234 | [201234-prodoomer.json](./201234-prodoomer.json) |
+| Produce | 77560 | [77560-produce.json](./77560-produce.json) |
 | Producer (2021) | 154283 | [154283-producer-2021.json](./154283-producer-2021.json) |
 | Producer Tycoon | 244319 | [244319-producer-tycoon.json](./244319-producer-tycoon.json) |
 | Production Chain Tycoon | 241567 | [241567-production-chain-tycoon.json](./241567-production-chain-tycoon.json) |
@@ -16956,6 +16959,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PromptCrafter | 297912 | [297912-promptcrafter.json](./297912-promptcrafter.json) |
 | Pröng | 183003 | [183003-prong.json](./183003-prong.json) |
 | Pronoun Palace | 379066 | [379066-pronoun-palace.json](./379066-pronoun-palace.json) |
+| Prontis | 77516 | [77516-prontis.json](./77516-prontis.json) |
 | Pronty | 143125 | [143125-pronty.json](./143125-pronty.json) |
 | Proof of Existence | 405467 | [405467-proof-of-existence.json](./405467-proof-of-existence.json) |
 | Proof-O: Super Godotrio | 334739 | [334739-proof-o-super-godotrio.json](./334739-proof-o-super-godotrio.json) |
