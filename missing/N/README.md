@@ -4951,6 +4951,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Niji Pop | 399648 | [399648-niji-pop.json](./399648-niji-pop.json) |
 | Niji Protocol | 384710 | [384710-niji-protocol.json](./384710-niji-protocol.json) |
 | Niji-iro Canvas | 109003 | [109003-niji-iro-canvas.json](./109003-niji-iro-canvas.json) |
+| Niji-iro Dodge Ball: Otome-tachi no Seishun | 65646 | [65646-niji-iro-dodge-ball-otome-tachi-no-seishun.json](./65646-niji-iro-dodge-ball-otome-tachi-no-seishun.json) |
 | Nìjiàn 2 | 164947 | [164947-nijian-2.json](./164947-nijian-2.json) |
 | Nijica | 344420 | [344420-nijica.json](./344420-nijica.json) |
 | Nijiiro Twinkle: Guru-guru Daisakusen | 378171 | [378171-nijiiro-twinkle-guru-guru-daisakusen.json](./378171-nijiiro-twinkle-guru-guru-daisakusen.json) |
@@ -6570,6 +6571,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Noitanigami | 184184 | [184184-noitanigami.json](./184184-noitanigami.json) |
 | Noitapeli | 249886 | [249886-noitapeli.json](./249886-noitapeli.json) |
 | Noitcelfer | 248128 | [248128-noitcelfer.json](./248128-noitcelfer.json) |
+| Noite Animal | 65627 | [65627-noite-animal.json](./65627-noite-animal.json) |
 | Noite de Bingo: Fofoca com Vampiro | 308014 | [308014-noite-de-bingo-fofoca-com-vampiro.json](./308014-noite-de-bingo-fofoca-com-vampiro.json) |
 | Noitu Love and the Army of Grinning Darns | 87799 | [87799-noitu-love-and-the-army-of-grinning-darns.json](./87799-noitu-love-and-the-army-of-grinning-darns.json) |
 | Noiz2sa | 335673 | [335673-noiz2sa.json](./335673-noiz2sa.json) |
