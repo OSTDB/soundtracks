@@ -511,6 +511,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamaitachi no Yoru Advance | 49652 | [49652-kamaitachi-no-yoru-advance.json](./49652-kamaitachi-no-yoru-advance.json) |
 | Kamaitachi no Yoru Triple: Mikazukishima Jiken no Shinsou | 64839 | [64839-kamaitachi-no-yoru-triple-mikazukishima-jiken-no-shinsou.json](./64839-kamaitachi-no-yoru-triple-mikazukishima-jiken-no-shinsou.json) |
 | Kamaitachi no Yoru x3 | 306194 | [306194-kamaitachi-no-yoru-x3.json](./306194-kamaitachi-no-yoru-x3.json) |
+| Kamaitachi no Yoru: Rinne Saisei | 76095 | [76095-kamaitachi-no-yoru-rinne-saisei.json](./76095-kamaitachi-no-yoru-rinne-saisei.json) |
 | Kamakazzzbee | 217330 | [217330-kamakazzzbee.json](./217330-kamakazzzbee.json) |
 | Kamalatale | 321442 | [321442-kamalatale.json](./321442-kamalatale.json) |
 | Kamasutra | 335320 | [335320-kamasutra.json](./335320-kamasutra.json) |
@@ -529,6 +530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen no Ninja Akakage | 48444 | [48444-kamen-no-ninja-akakage.json](./48444-kamen-no-ninja-akakage.json) |
 | Kamen no Ninja Hanamaru | 154805 | [154805-kamen-no-ninja-hanamaru.json](./154805-kamen-no-ninja-hanamaru.json) |
 | Kamen Rider | 61919 | [61919-kamen-rider.json](./61919-kamen-rider.json) |
+| Kamen Rider | 76063 | [76063-kamen-rider.json](./76063-kamen-rider.json) |
 | Kamen Rider 555 | 404098 | [404098-kamen-rider-555.json](./404098-kamen-rider-555.json) |
 | Kamen Rider 555 | 43424 | [43424-kamen-rider-555.json](./43424-kamen-rider-555.json) |
 | Kamen Rider Agito | 43864 | [43864-kamen-rider-agito.json](./43864-kamen-rider-agito.json) |
@@ -2889,6 +2891,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
