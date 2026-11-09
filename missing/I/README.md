@@ -3792,6 +3792,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infernal Racket | 72355 | [72355-infernal-racket.json](./72355-infernal-racket.json) |
 | Infernal Radiation | 136634 | [136634-infernal-radiation.json](./136634-infernal-radiation.json) |
 | Infernal Road | 224036 | [224036-infernal-road.json](./224036-infernal-road.json) |
+| Infernal Runner | 39069 | [39069-infernal-runner.json](./39069-infernal-runner.json) |
 | Infernal Wave | 259645 | [259645-infernal-wave.json](./259645-infernal-wave.json) |
 | Infernal West | 415107 | [415107-infernal-west.json](./415107-infernal-west.json) |
 | Infernales: Circles of Hell | 89079 | [89079-infernales-circles-of-hell.json](./89079-infernales-circles-of-hell.json) |
@@ -4020,6 +4021,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
