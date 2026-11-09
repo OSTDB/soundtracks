@@ -5229,6 +5229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sega Archives from USA Vol. 3 | 202899 | [202899-sega-archives-from-usa-vol-3.json](./202899-sega-archives-from-usa-vol-3.json) |
 | Sega Astro City Mini | 245662 | [245662-sega-astro-city-mini.json](./245662-sega-astro-city-mini.json) |
 | Sega Astro City Mini V | 245664 | [245664-sega-astro-city-mini-v.json](./245664-sega-astro-city-mini-v.json) |
+| Sega Bass Fishing | 5147 | [5147-sega-bass-fishing.json](./5147-sega-bass-fishing.json) |
 | Sega Bass Fishing 2 | 45837 | [45837-sega-bass-fishing-2.json](./45837-sega-bass-fishing-2.json) |
 | Sega Bass Fishing Challenge | 39433 | [39433-sega-bass-fishing-challenge.json](./39433-sega-bass-fishing-challenge.json) |
 | Sega Bass Fishing Duel | 22231 | [22231-sega-bass-fishing-duel.json](./22231-sega-bass-fishing-duel.json) |
@@ -7296,6 +7297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadowplay: Whispers of the Past - Collector's Edition | 228245 | [228245-shadowplay-whispers-of-the-past-collectors-edition.json](./228245-shadowplay-whispers-of-the-past-collectors-edition.json) |
 | Shadowrain | 126588 | [126588-shadowrain.json](./126588-shadowrain.json) |
 | Shadowrite | 403712 | [403712-shadowrite.json](./403712-shadowrite.json) |
+| Shadowrun | 3000 | [3000-shadowrun.json](./3000-shadowrun.json) |
 | Shadowrun | 7640 | [7640-shadowrun.json](./7640-shadowrun.json) |
 | Shadowrun | 78514 | [78514-shadowrun.json](./78514-shadowrun.json) |
 | Shadowrun Chronicles: Boston Lockdown - Deluxe Edition | 53605 | [53605-shadowrun-chronicles-boston-lockdown-deluxe-edition.json](./53605-shadowrun-chronicles-boston-lockdown-deluxe-edition.json) |
@@ -20803,6 +20805,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Pirate Trainer DX | 174556 | [174556-space-pirate-trainer-dx.json](./174556-space-pirate-trainer-dx.json) |
 | Space Pirateer | 293039 | [293039-space-pirateer.json](./293039-space-pirateer.json) |
 | Space Pirates | 176837 | [176837-space-pirates.json](./176837-space-pirates.json) |
+| Space Pirates and Zombies | 2989 | [2989-space-pirates-and-zombies.json](./2989-space-pirates-and-zombies.json) |
 | Space Pirates for Life | 241390 | [241390-space-pirates-for-life.json](./241390-space-pirates-for-life.json) |
 | Space Pixel Swarm | 198000 | [198000-space-pixel-swarm.json](./198000-space-pixel-swarm.json) |
 | Space Pizza | 263920 | [263920-space-pizza.json](./263920-space-pizza.json) |
@@ -26226,6 +26229,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starguy IV | 184252 | [184252-starguy-iv.json](./184252-starguy-iv.json) |
 | Starhack | 291013 | [291013-starhack.json](./291013-starhack.json) |
 | Starhawk | 23202 | [23202-starhawk.json](./23202-starhawk.json) |
+| Starhawk | 7461 | [7461-starhawk.json](./7461-starhawk.json) |
 | StarHawk | 79624 | [79624-starhawk.json](./79624-starhawk.json) |
 | Starhawk: Ultimate Edition | 99947 | [99947-starhawk-ultimate-edition.json](./99947-starhawk-ultimate-edition.json) |
 | Starheim | 270093 | [270093-starheim.json](./270093-starheim.json) |
