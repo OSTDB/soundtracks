@@ -17837,6 +17837,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulk Slash | 45462 | [45462-bulk-slash.json](./45462-bulk-slash.json) |
 | Bulken | 273826 | [273826-bulken.json](./273826-bulken.json) |
 | Bulkhead | 152676 | [152676-bulkhead.json](./152676-bulkhead.json) |
+| Bulky Head: Use your head to smash nasty objects! | 26751 | [26751-bulky-head-use-your-head-to-smash-nasty-objects.json](./26751-bulky-head-use-your-head-to-smash-nasty-objects.json) |
 | Bull Chase! | 267323 | [267323-bull-chase.json](./267323-bull-chase.json) |
 | Bull et Hell | 166852 | [166852-bull-et-hell.json](./166852-bull-et-hell.json) |
 | Bull Fight | 46499 | [46499-bull-fight.json](./46499-bull-fight.json) |
