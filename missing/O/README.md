@@ -4895,6 +4895,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ouju: Isle of the Accursed | 412375 | [412375-ouju-isle-of-the-accursed.json](./412375-ouju-isle-of-the-accursed.json) |
 | Ouka Sabaki | 52137 | [52137-ouka-sabaki.json](./52137-ouka-sabaki.json) |
 | Ouka Sabaki Zan | 52138 | [52138-ouka-sabaki-zan.json](./52138-ouka-sabaki-zan.json) |
+| Oukahouzin: Ouka Sakishi Toki | 77528 | [77528-oukahouzin-ouka-sakishi-toki.json](./77528-oukahouzin-ouka-sakishi-toki.json) |
 | Oukaranman | 59408 | [59408-oukaranman.json](./59408-oukaranman.json) |
 | Oukoku no Dougu-ya-san | 222533 | [222533-oukoku-no-dougu-ya-san.json](./222533-oukoku-no-dougu-ya-san.json) |
 | Oukoku no Grand Chef | 137625 | [137625-oukoku-no-grand-chef.json](./137625-oukoku-no-grand-chef.json) |
