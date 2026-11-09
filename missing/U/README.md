@@ -798,6 +798,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Super Bean | 414299 | [414299-ultimate-super-bean.json](./414299-ultimate-super-bean.json) |
 | Ultimate Super Luigi Wii: Ultimate Green Team | 245452 | [245452-ultimate-super-luigi-wii-ultimate-green-team.json](./245452-ultimate-super-luigi-wii-ultimate-green-team.json) |
 | Ultimate Super Powers Old Maid: 3Days | 185217 | [185217-ultimate-super-powers-old-maid-3days.json](./185217-ultimate-super-powers-old-maid-3days.json) |
+| Ultimate Surfing | 49984 | [49984-ultimate-surfing.json](./49984-ultimate-surfing.json) |
 | Ultimate Survivors | 321047 | [321047-ultimate-survivors.json](./321047-ultimate-survivors.json) |
 | Ultimate Tag | 190158 | [190158-ultimate-tag.json](./190158-ultimate-tag.json) |
 | Ultimate Tag | 344256 | [344256-ultimate-tag.json](./344256-ultimate-tag.json) |
