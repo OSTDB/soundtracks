@@ -10697,6 +10697,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Animaniacs: The Great Edgar Hunt | 3786 | [3786-animaniacs-the-great-edgar-hunt.json](./3786-animaniacs-the-great-edgar-hunt.json) |
 | Animarama | 217231 | [217231-animarama.json](./217231-animarama.json) |
 | Animas | 335259 | [335259-animas.json](./335259-animas.json) |
+| Animastar | 6712 | [6712-animastar.json](./6712-animastar.json) |
 | Animastar GB | 49972 | [49972-animastar-gb.json](./49972-animastar-gb.json) |
 | Animastar Puzzle | 364354 | [364354-animastar-puzzle.json](./364354-animastar-puzzle.json) |
 | Animatch | 194296 | [194296-animatch.json](./194296-animatch.json) |
@@ -14564,6 +14565,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Armada | 163191 | [163191-armada.json](./163191-armada.json) |
 | Armada | 305826 | [305826-armada.json](./305826-armada.json) |
 | Armada | 346920 | [346920-armada.json](./346920-armada.json) |
+| Armada | 6713 | [6713-armada.json](./6713-armada.json) |
 | Armada | 85501 | [85501-armada.json](./85501-armada.json) |
 | Armada 2: Exodus | 364362 | [364362-armada-2-exodus.json](./364362-armada-2-exodus.json) |
 | Armada 2525 | 50401 | [50401-armada-2525.json](./50401-armada-2525.json) |
@@ -17442,7 +17444,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
