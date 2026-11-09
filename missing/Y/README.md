@@ -1561,6 +1561,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yousei Daisensou: Touhou Sangetsusei | 27172 | [27172-yousei-daisensou-touhou-sangetsusei.json](./27172-yousei-daisensou-touhou-sangetsusei.json) |
 | Yousei Rasutaru-chan to no hibi | 223009 | [223009-yousei-rasutaru-chan-to-no-hibi.json](./223009-yousei-rasutaru-chan-to-no-hibi.json) |
 | Yousei Shou Meikyuu: Fairies Odyssey | 406307 | [406307-yousei-shou-meikyuu-fairies-odyssey.json](./406307-yousei-shou-meikyuu-fairies-odyssey.json) |
+| Yousician | 57222 | [57222-yousician.json](./57222-yousician.json) |
 | Youso Warriors | 166208 | [166208-youso-warriors.json](./166208-youso-warriors.json) |
 | YouTD 2 | 383589 | [383589-youtd-2.json](./383589-youtd-2.json) |
 | Youth Academy | 377031 | [377031-youth-academy.json](./377031-youth-academy.json) |
