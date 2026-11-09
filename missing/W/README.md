@@ -1678,6 +1678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Warhammer: End Times - Vermintide Schluesselschloss | 148708 | [148708-warhammer-end-times-vermintide-schluesselschloss.json](./148708-warhammer-end-times-vermintide-schluesselschloss.json) |
 | Warhammer: End Times - Vermintide Sigmar's Blessing | 148710 | [148710-warhammer-end-times-vermintide-sigmars-blessing.json](./148710-warhammer-end-times-vermintide-sigmars-blessing.json) |
 | Warhammer: End Times - Vermintide Stromdorf | 148713 | [148713-warhammer-end-times-vermintide-stromdorf.json](./148713-warhammer-end-times-vermintide-stromdorf.json) |
+| Warhammer: Mark of Chaos | 7241 | [7241-warhammer-mark-of-chaos.json](./7241-warhammer-mark-of-chaos.json) |
 | Warhammer: Mark of Chaos - Battle March | 20785 | [20785-warhammer-mark-of-chaos-battle-march.json](./20785-warhammer-mark-of-chaos-battle-march.json) |
 | Warhammer: Mark of Chaos - Gold Edition | 154551 | [154551-warhammer-mark-of-chaos-gold-edition.json](./154551-warhammer-mark-of-chaos-gold-edition.json) |
 | Warhammer: Odyssey | 130881 | [130881-warhammer-odyssey.json](./130881-warhammer-odyssey.json) |
@@ -5887,6 +5888,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winding Road | 180010 | [180010-winding-road.json](./180010-winding-road.json) |
 | Winding Worlds | 117009 | [117009-winding-worlds.json](./117009-winding-worlds.json) |
 | Windjammers | 11222 | [11222-windjammers.json](./11222-windjammers.json) |
+| Windjammers 2 | 107203 | [107203-windjammers-2.json](./107203-windjammers-2.json) |
 | Windjammers, Karnov & Friends | 337849 | [337849-windjammers-karnov-and-friends.json](./337849-windjammers-karnov-and-friends.json) |
 | Windlands | 15932 | [15932-windlands.json](./15932-windlands.json) |
 | Windmill Kings | 125028 | [125028-windmill-kings.json](./125028-windmill-kings.json) |
@@ -9776,6 +9778,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWE Mobile Madness | 23758 | [23758-wwe-mobile-madness.json](./23758-wwe-mobile-madness.json) |
 | WWE Presents: Rockpocalypse | 63263 | [63263-wwe-presents-rockpocalypse.json](./63263-wwe-presents-rockpocalypse.json) |
 | WWE Racing Showdown | 227163 | [227163-wwe-racing-showdown.json](./227163-wwe-racing-showdown.json) |
+| WWE Raw | 6252 | [6252-wwe-raw.json](./6252-wwe-raw.json) |
 | WWE Raw 2 | 6249 | [6249-wwe-raw-2.json](./6249-wwe-raw-2.json) |
 | WWE Raw 2: Ruthless Aggression | 24123 | [24123-wwe-raw-2-ruthless-aggression.json](./24123-wwe-raw-2-ruthless-aggression.json) |
 | WWE Road to WrestleMania X8 | 6683 | [6683-wwe-road-to-wrestlemania-x8.json](./6683-wwe-road-to-wrestlemania-x8.json) |
