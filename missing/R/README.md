@@ -2152,6 +2152,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raster Runner | 93101 | [93101-raster-runner.json](./93101-raster-runner.json) |
 | RasterFire | 412570 | [412570-rasterfire.json](./412570-rasterfire.json) |
 | Rasternauts | 134965 | [134965-rasternauts.json](./134965-rasternauts.json) |
+| Rasterscan | 39739 | [39739-rasterscan.json](./39739-rasterscan.json) |
 | Rastignac: Wastelands | 302895 | [302895-rastignac-wastelands.json](./302895-rastignac-wastelands.json) |
 | Rasty Pelican | 75308 | [75308-rasty-pelican.json](./75308-rasty-pelican.json) |
 | Rasvyat Nuclear Power Station | 292465 | [292465-rasvyat-nuclear-power-station.json](./292465-rasvyat-nuclear-power-station.json) |
@@ -2304,6 +2305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rave Heart+ | 369311 | [369311-rave-heart.json](./369311-rave-heart.json) |
 | Rave Master: Special Attack Force! | 6553 | [6553-rave-master-special-attack-force.json](./6553-rave-master-special-attack-force.json) |
 | Rave Paradise | 335749 | [335749-rave-paradise.json](./335749-rave-paradise.json) |
+| Rave Racer | 39713 | [39713-rave-racer.json](./39713-rave-racer.json) |
 | Rave: Ultimate Battle | 63349 | [63349-rave-ultimate-battle.json](./63349-rave-ultimate-battle.json) |
 | Ravelle: Last Draw | 387011 | [387011-ravelle-last-draw.json](./387011-ravelle-last-draw.json) |
 | Raven | 197173 | [197173-raven.json](./197173-raven.json) |
@@ -3339,6 +3341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realms of Conquest | 54835 | [54835-realms-of-conquest.json](./54835-realms-of-conquest.json) |
 | Realms of Cronos | 268916 | [268916-realms-of-cronos.json](./268916-realms-of-cronos.json) |
 | Realms of Darkness | 130730 | [130730-realms-of-darkness.json](./130730-realms-of-darkness.json) |
+| Realms of Darkness | 39754 | [39754-realms-of-darkness.json](./39754-realms-of-darkness.json) |
 | Realms of Despair | 127951 | [127951-realms-of-despair.json](./127951-realms-of-despair.json) |
 | Realms of Dr. Chaos | 268758 | [268758-realms-of-dr-chaos.json](./268758-realms-of-dr-chaos.json) |
 | Realms of Eternity | 148793 | [148793-realms-of-eternity.json](./148793-realms-of-eternity.json) |
