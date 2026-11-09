@@ -2066,6 +2066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dark Tales: Edgar Allan Poe's The Fall of the House of Usher - Collector's Edition | 81158 | [81158-dark-tales-edgar-allan-poes-the-fall-of-the-house-of-usher-collectors-edition.json](./81158-dark-tales-edgar-allan-poes-the-fall-of-the-house-of-usher-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Gold Bug | 140124 | [140124-dark-tales-edgar-allan-poes-the-gold-bug.json](./140124-dark-tales-edgar-allan-poes-the-gold-bug.json) |
 | Dark Tales: Edgar Allan Poe's The Gold Bug - Collector's Edition | 32780 | [32780-dark-tales-edgar-allan-poes-the-gold-bug-collectors-edition.json](./32780-dark-tales-edgar-allan-poes-the-gold-bug-collectors-edition.json) |
+| Dark Tales: Edgar Allan Poe's The Masque of the Red Death | 63443 | [63443-dark-tales-edgar-allan-poes-the-masque-of-the-red-death.json](./63443-dark-tales-edgar-allan-poes-the-masque-of-the-red-death.json) |
 | Dark Tales: Edgar Allan Poe's The Masque of the Red Death - Collector's Edition | 31688 | [31688-dark-tales-edgar-allan-poes-the-masque-of-the-red-death-collectors-edition.json](./31688-dark-tales-edgar-allan-poes-the-masque-of-the-red-death-collectors-edition.json) |
 | Dark Tales: Edgar Allan Poe's The Mystery of Marie Roget | 68392 | [68392-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget.json](./68392-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget.json) |
 | Dark Tales: Edgar Allan Poe's The Mystery of Marie Roget - Collector's Edition | 88477 | [88477-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-collectors-edition.json](./88477-dark-tales-edgar-allan-poes-the-mystery-of-marie-roget-collectors-edition.json) |
@@ -14794,6 +14795,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dr. Science quest | 193632 | [193632-dr-science-quest.json](./193632-dr-science-quest.json) |
 | Dr. Seuss Band | 89762 | [89762-dr-seuss-band.json](./89762-dr-seuss-band.json) |
 | Dr. Seuss Fix-Up the Mix-Up Puzzler | 40898 | [40898-dr-seuss-fix-up-the-mix-up-puzzler.json](./40898-dr-seuss-fix-up-the-mix-up-puzzler.json) |
+| Dr. Seuss Kindergarten | 63430 | [63430-dr-seuss-kindergarten.json](./63430-dr-seuss-kindergarten.json) |
 | Dr. Seuss Preschool | 63273 | [63273-dr-seuss-preschool.json](./63273-dr-seuss-preschool.json) |
 | Dr. Seuss Toddler | 63271 | [63271-dr-seuss-toddler.json](./63271-dr-seuss-toddler.json) |
 | Dr. Seuss: How the Grinch Stole Christmas! | 15489 | [15489-dr-seuss-how-the-grinch-stole-christmas.json](./15489-dr-seuss-how-the-grinch-stole-christmas.json) |
@@ -16517,6 +16519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dream House Days | 246937 | [246937-dream-house-days.json](./246937-dream-house-days.json) |
 | Dream Hunter Toys: Evil Dolls | 227110 | [227110-dream-hunter-toys-evil-dolls.json](./227110-dream-hunter-toys-evil-dolls.json) |
 | Dream in the Shell | 317388 | [317388-dream-in-the-shell.json](./317388-dream-in-the-shell.json) |
+| Dream Inn: Driftwood | 63433 | [63433-dream-inn-driftwood.json](./63433-dream-inn-driftwood.json) |
 | Dream Invader | 220330 | [220330-dream-invader.json](./220330-dream-invader.json) |
 | Dream Island: A Skyward Journey | 281380 | [281380-dream-island-a-skyward-journey.json](./281380-dream-island-a-skyward-journey.json) |
 | Dream Job: Delivery Simulator | 249713 | [249713-dream-job-delivery-simulator.json](./249713-dream-job-delivery-simulator.json) |
