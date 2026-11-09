@@ -5979,6 +5979,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winging It | 180351 | [180351-winging-it.json](./180351-winging-it.json) |
 | Winging It | 227786 | [227786-winging-it.json](./227786-winging-it.json) |
 | Winglancer | 68966 | [68966-winglancer.json](./68966-winglancer.json) |
+| Wingless | 55331 | [55331-wingless.json](./55331-wingless.json) |
 | Wingless Fairies | 304059 | [304059-wingless-fairies.json](./304059-wingless-fairies.json) |
 | Winglet | 299172 | [299172-winglet.json](./299172-winglet.json) |
 | WingMan | 216484 | [216484-wingman.json](./216484-wingman.json) |
