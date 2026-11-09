@@ -6910,6 +6910,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Revolgear Zero | 373901 | [373901-revolgear-zero.json](./373901-revolgear-zero.json) |
 | Revolocity | 295322 | [295322-revolocity.json](./295322-revolocity.json) |
 | Revolt | 34083 | [34083-revolt.json](./34083-revolt.json) |
+| Revolt 1917 | 27123 | [27123-revolt-1917.json](./27123-revolt-1917.json) |
 | Revolt Legion VR | 254138 | [254138-revolt-legion-vr.json](./254138-revolt-legion-vr.json) |
 | Revoltaire | 182872 | [182872-revoltaire.json](./182872-revoltaire.json) |
 | ReVolte | 276098 | [276098-revolte.json](./276098-revolte.json) |
