@@ -614,6 +614,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LakeLady | 313021 | [313021-lakelady.json](./313021-lakelady.json) |
 | Lakelight Elementary Incident 68 | 285399 | [285399-lakelight-elementary-incident-68.json](./285399-lakelight-elementary-incident-68.json) |
 | LakeQueen | 394130 | [394130-lakequeen.json](./394130-lakequeen.json) |
+| Lakers versus Celtics and the NBA Playoffs | 73962 | [73962-lakers-versus-celtics-and-the-nba-playoffs.json](./73962-lakers-versus-celtics-and-the-nba-playoffs.json) |
 | Lakeside | 269563 | [269563-lakeside.json](./269563-lakeside.json) |
 | LakeSide | 149236 | [149236-lakeside.json](./149236-lakeside.json) |
 | Lakeside Bar | 346701 | [346701-lakeside-bar.json](./346701-lakeside-bar.json) |
@@ -2771,6 +2772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legend of the Dragon | 4967 | [4967-legend-of-the-dragon.json](./4967-legend-of-the-dragon.json) |
 | Legend of the Five Rings | 80587 | [80587-legend-of-the-five-rings.json](./80587-legend-of-the-five-rings.json) |
 | Legend of the Forest: Bigfoot | 101045 | [101045-legend-of-the-forest-bigfoot.json](./101045-legend-of-the-forest-bigfoot.json) |
+| Legend of the Ghost Lion | 73926 | [73926-legend-of-the-ghost-lion.json](./73926-legend-of-the-ghost-lion.json) |
 | Legend of the Guardians: The Owls of Ga'Hoole | 4968 | [4968-legend-of-the-guardians-the-owls-of-gahoole.json](./4968-legend-of-the-guardians-the-owls-of-gahoole.json) |
 | Legend of the Hidden Tech | 257173 | [257173-legend-of-the-hidden-tech.json](./257173-legend-of-the-hidden-tech.json) |
 | Legend of the Holy Sword | 340910 | [340910-legend-of-the-holy-sword.json](./340910-legend-of-the-holy-sword.json) |
@@ -8773,6 +8775,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lotus Simulator: Module - Rails of Lotus | 167757 | [167757-lotus-simulator-module-rails-of-lotus.json](./167757-lotus-simulator-module-rails-of-lotus.json) |
 | Lotus Simulator: Module - Streets of Lotus | 167756 | [167756-lotus-simulator-module-streets-of-lotus.json](./167756-lotus-simulator-module-streets-of-lotus.json) |
 | Lotus Simulator: München Tram | 167755 | [167755-lotus-simulator-munchen-tram.json](./167755-lotus-simulator-munchen-tram.json) |
+| Lotus Trilogy | 73969 | [73969-lotus-trilogy.json](./73969-lotus-trilogy.json) |
 | Lotus Turbo Challenge 2 | 7659 | [7659-lotus-turbo-challenge-2.json](./7659-lotus-turbo-challenge-2.json) |
 | Lotus: Lost Memories | 346655 | [346655-lotus-lost-memories.json](./346655-lotus-lost-memories.json) |
 | Lotus: The Self-Made Witch | 226674 | [226674-lotus-the-self-made-witch.json](./226674-lotus-the-self-made-witch.json) |
@@ -9218,6 +9221,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | LoveBug | 107982 | [107982-lovebug.json](./107982-lovebug.json) |
 | LoveBug Quest | 331652 | [331652-lovebug-quest.json](./331652-lovebug-quest.json) |
 | Lovebugz: An Anthro Insect Dating Sim | 298385 | [298385-lovebugz-an-anthro-insect-dating-sim.json](./298385-lovebugz-an-anthro-insect-dating-sim.json) |
+| LoveChess: Age of Egypt | 73944 | [73944-lovechess-age-of-egypt.json](./73944-lovechess-age-of-egypt.json) |
 | LoveChess: The Greek Era | 71868 | [71868-lovechess-the-greek-era.json](./71868-lovechess-the-greek-era.json) |
 | LoveChoice | 109733 | [109733-lovechoice.json](./109733-lovechoice.json) |
 | LoveCraft | 286544 | [286544-lovecraft.json](./286544-lovecraft.json) |
