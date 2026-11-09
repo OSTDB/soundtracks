@@ -1992,6 +1992,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Garden Song | 133252 | [133252-garden-song.json](./133252-garden-song.json) |
 | Garden Souls | 409750 | [409750-garden-souls.json](./409750-garden-souls.json) |
 | Garden Tails | 215156 | [215156-garden-tails.json](./215156-garden-tails.json) |
+| Garden Tale | 29022 | [29022-garden-tale.json](./29022-garden-tale.json) |
 | Garden Trills | 276659 | [276659-garden-trills.json](./276659-garden-trills.json) |
 | Garden Variety Body Horror | 110153 | [110153-garden-variety-body-horror.json](./110153-garden-variety-body-horror.json) |
 | Garden War | 77270 | [77270-garden-war.json](./77270-garden-war.json) |
@@ -5792,6 +5793,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Go To The Finish | 387726 | [387726-go-to-the-finish.json](./387726-go-to-the-finish.json) |
 | Go Up | 363958 | [363958-go-up.json](./363958-go-up.json) |
 | Go Up Frog | 401521 | [401521-go-up-frog.json](./401521-go-up-frog.json) |
+| Go Up Goat | 28959 | [28959-go-up-goat.json](./28959-go-up-goat.json) |
 | Go Up! | 255666 | [255666-go-up.json](./255666-go-up.json) |
 | Go Vacation | 210428 | [210428-go-vacation.json](./210428-go-vacation.json) |
 | Go West | 133998 | [133998-go-west.json](./133998-go-west.json) |
