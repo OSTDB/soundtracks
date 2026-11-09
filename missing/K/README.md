@@ -5096,6 +5096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kodomo Kyouiku Terebi Wii: Aiue Oochan | 344676 | [344676-kodomo-kyouiku-terebi-wii-aiue-oochan.json](./344676-kodomo-kyouiku-terebi-wii-aiue-oochan.json) |
 | Kodomo Kyouiku Terebi Wii: Aiue Oomuzu | 344679 | [344679-kodomo-kyouiku-terebi-wii-aiue-oomuzu.json](./344679-kodomo-kyouiku-terebi-wii-aiue-oomuzu.json) |
 | Kodomo-tachi no Kuni Magic Children | 353375 | [353375-kodomo-tachi-no-kuni-magic-children.json](./353375-kodomo-tachi-no-kuni-magic-children.json) |
+| Kodu Game Lab | 70543 | [70543-kodu-game-lab.json](./70543-kodu-game-lab.json) |
 | Kodure Ookami | 40087 | [40087-kodure-ookami.json](./40087-kodure-ookami.json) |
 | Kody's Purgatory | 373602 | [373602-kodys-purgatory.json](./373602-kodys-purgatory.json) |
 | Kody's Purgatory: Kenshi | 373605 | [373605-kodys-purgatory-kenshi.json](./373605-kodys-purgatory-kenshi.json) |
