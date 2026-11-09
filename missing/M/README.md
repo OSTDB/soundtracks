@@ -6251,6 +6251,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maya Fey's Borger Eating Simulator | 302645 | [302645-maya-feys-borger-eating-simulator.json](./302645-maya-feys-borger-eating-simulator.json) |
 | Maya Prophecy | 291913 | [291913-maya-prophecy.json](./291913-maya-prophecy.json) |
 | Maya Star | 195356 | [195356-maya-star.json](./195356-maya-star.json) |
+| Maya the Bee & Her Friends | 50000 | [50000-maya-the-bee-and-her-friends.json](./50000-maya-the-bee-and-her-friends.json) |
 | Maya the Bee: Garden Adventures | 198181 | [198181-maya-the-bee-garden-adventures.json](./198181-maya-the-bee-garden-adventures.json) |
 | Maya the Bee: Sweet Gold | 49328 | [49328-maya-the-bee-sweet-gold.json](./49328-maya-the-bee-sweet-gold.json) |
 | Maya the Bee: The Great Adventure | 49327 | [49327-maya-the-bee-the-great-adventure.json](./49327-maya-the-bee-the-great-adventure.json) |
@@ -11769,6 +11770,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Midway Arcade Treasures: Extended Play | 71407 | [71407-midway-arcade-treasures-extended-play.json](./71407-midway-arcade-treasures-extended-play.json) |
 | Midway Campaign | 23994 | [23994-midway-campaign.json](./23994-midway-campaign.json) |
 | Midway Presents Arcade Hits: Joust/Defender | 64031 | [64031-midway-presents-arcade-hits-joust-defender.json](./64031-midway-presents-arcade-hits-joust-defender.json) |
+| Midway Presents Arcade Hits: Klax | 50012 | [50012-midway-presents-arcade-hits-klax.json](./50012-midway-presents-arcade-hits-klax.json) |
 | Midway Presents Arcade Hits: Moon Patrol/Spy Hunter | 64032 | [64032-midway-presents-arcade-hits-moon-patrol-spy-hunter.json](./64032-midway-presents-arcade-hits-moon-patrol-spy-hunter.json) |
 | Midway: Sink the Japanese Aircraft Carriers | 196293 | [196293-midway-sink-the-japanese-aircraft-carriers.json](./196293-midway-sink-the-japanese-aircraft-carriers.json) |
 | Midway: The Battle that Doomed Japan | 73745 | [73745-midway-the-battle-that-doomed-japan.json](./73745-midway-the-battle-that-doomed-japan.json) |
