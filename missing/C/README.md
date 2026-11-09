@@ -10015,6 +10015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Clarc | 11047 | [11047-clarc.json](./11047-clarc.json) |
 | Clarence Goes to the F%ing Store | 166700 | [166700-clarence-goes-to-the-f-ing-store.json](./166700-clarence-goes-to-the-f-ing-store.json) |
 | Clarence: Thirty Days & Seven Seas | 59506 | [59506-clarence-thirty-days-and-seven-seas.json](./59506-clarence-thirty-days-and-seven-seas.json) |
+| Clarence's Big Chance | 61771 | [61771-clarences-big-chance.json](./61771-clarences-big-chance.json) |
 | Clarent Saga: Chronicles | 189023 | [189023-clarent-saga-chronicles.json](./189023-clarent-saga-chronicles.json) |
 | Clarent Saga: Mana Chapter 0 | 264767 | [264767-clarent-saga-mana-chapter-0.json](./264767-clarent-saga-mana-chapter-0.json) |
 | Clarent Saga: Tactics | 135271 | [135271-clarent-saga-tactics.json](./135271-clarent-saga-tactics.json) |
