@@ -17802,6 +17802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puddle Pirates | 176398 | [176398-puddle-pirates.json](./176398-puddle-pirates.json) |
 | Pudgy Party | 341412 | [341412-pudgy-party.json](./341412-pudgy-party.json) |
 | Pudji | 110628 | [110628-pudji.json](./110628-pudji.json) |
+| PudPud | 45378 | [45378-pudpud.json](./45378-pudpud.json) |
 | Pueblo | 236905 | [236905-pueblo.json](./236905-pueblo.json) |
 | Pueblo | 333767 | [333767-pueblo.json](./333767-pueblo.json) |
 | Puella Magi Madoka Magica Portable | 11846 | [11846-puella-magi-madoka-magica-portable.json](./11846-puella-magi-madoka-magica-portable.json) |
