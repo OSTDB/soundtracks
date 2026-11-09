@@ -8237,6 +8237,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | FlipPix Jigsaw - Time | 109231 | [109231-flippix-jigsaw-time.json](./109231-flippix-jigsaw-time.json) |
 | FlipPix Jigsaw - Up | 99921 | [99921-flippix-jigsaw-up.json](./99921-flippix-jigsaw-up.json) |
 | Flipple | 324652 | [324652-flipple.json](./324652-flipple.json) |
+| Flippt | 68796 | [68796-flippt.json](./68796-flippt.json) |
 | FlippUp | 356015 | [356015-flippup.json](./356015-flippup.json) |
 | Flippy | 88759 | [88759-flippy.json](./88759-flippy.json) |
 | Flippy Bard | 61309 | [61309-flippy-bard.json](./61309-flippy-bard.json) |
@@ -9460,6 +9461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Games 2023 Offline | 296773 | [296773-football-games-2023-offline.json](./296773-football-games-2023-offline.json) |
 | Football Games Room | 100259 | [100259-football-games-room.json](./100259-football-games-room.json) |
 | Football General Manager | 90206 | [90206-football-general-manager.json](./90206-football-general-manager.json) |
+| Football Generation | 68804 | [68804-football-generation.json](./68804-football-generation.json) |
 | Football Genius: The Ultimate Quiz | 67763 | [67763-football-genius-the-ultimate-quiz.json](./67763-football-genius-the-ultimate-quiz.json) |
 | Football girl | 161366 | [161366-football-girl.json](./161366-football-girl.json) |
 | Football Girls: Dream Team | 102374 | [102374-football-girls-dream-team.json](./102374-football-girls-dream-team.json) |
