@@ -993,7 +993,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -1144,6 +1143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bahamut and the Waqwaq Tree | 264652 | [264652-bahamut-and-the-waqwaq-tree.json](./264652-bahamut-and-the-waqwaq-tree.json) |
 | Bahamut Disco | 295932 | [295932-bahamut-disco.json](./295932-bahamut-disco.json) |
 | Bahamut Lagoon | 15843 | [15843-bahamut-lagoon.json](./15843-bahamut-lagoon.json) |
+| Bahamut Senki | 45646 | [45646-bahamut-senki.json](./45646-bahamut-senki.json) |
 | Bahamut: Remake | 329332 | [329332-bahamut-remake.json](./329332-bahamut-remake.json) |
 | Bahamut2-Come on, Fight | 261847 | [261847-bahamut2-come-on-fight.json](./261847-bahamut2-come-on-fight.json) |
 | Bahari | 201306 | [201306-bahari.json](./201306-bahari.json) |
@@ -11978,6 +11978,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blue | 298357 | [298357-blue.json](./298357-blue.json) |
 | Blue | 380034 | [380034-blue.json](./380034-blue.json) |
 | Blue | 408640 | [408640-blue.json](./408640-blue.json) |
+| Blue Almanac | 45645 | [45645-blue-almanac.json](./45645-blue-almanac.json) |
 | Blue Angel 69 | 11970 | [11970-blue-angel-69.json](./11970-blue-angel-69.json) |
 | Blue Angelo | 18253 | [18253-blue-angelo.json](./18253-blue-angelo.json) |
 | Blue Angelo: Angels from the Shrine | 66051 | [66051-blue-angelo-angels-from-the-shrine.json](./66051-blue-angelo-angels-from-the-shrine.json) |
@@ -15565,6 +15566,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breachway | 215481 | [215481-breachway.json](./215481-breachway.json) |
 | Bread | 178027 | [178027-bread.json](./178027-bread.json) |
 | Bread Adventure | 373334 | [373334-bread-adventure.json](./373334-bread-adventure.json) |
+| Bread and Butter | 45639 | [45639-bread-and-butter.json](./45639-bread-and-butter.json) |
 | Bread and Circuses | 214112 | [214112-bread-and-circuses.json](./214112-bread-and-circuses.json) |
 | Bread around bread around bread around bread | 280130 | [280130-bread-around-bread-around-bread-around-bread.json](./280130-bread-around-bread-around-bread-around-bread.json) |
 | Bread Barbershop Differences | 219819 | [219819-bread-barbershop-differences.json](./219819-bread-barbershop-differences.json) |
@@ -17950,6 +17952,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bulls and Cows | 230685 | [230685-bulls-and-cows.json](./230685-bulls-and-cows.json) |
 | Bulls town | 112749 | [112749-bulls-town.json](./112749-bulls-town.json) |
 | Bulls Vs Blazers and the NBA Playoffs | 42638 | [42638-bulls-vs-blazers-and-the-nba-playoffs.json](./42638-bulls-vs-blazers-and-the-nba-playoffs.json) |
+| Bulls vs Lakers and the NBA Playoffs | 46067 | [46067-bulls-vs-lakers-and-the-nba-playoffs.json](./46067-bulls-vs-lakers-and-the-nba-playoffs.json) |
 | Bullseye | 152485 | [152485-bullseye.json](./152485-bullseye.json) |
 | Bullseye | 213298 | [213298-bullseye.json](./213298-bullseye.json) |
 | Bullseye | 74169 | [74169-bullseye.json](./74169-bullseye.json) |
