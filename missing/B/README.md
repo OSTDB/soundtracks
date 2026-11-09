@@ -1304,6 +1304,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bakurokei Haishinsha vs. Kuzukei Utaite vs. Menhera Stalker | 285387 | [285387-bakurokei-haishinsha-vs-kuzukei-utaite-vs-menhera-stalker.json](./285387-bakurokei-haishinsha-vs-kuzukei-utaite-vs-menhera-stalker.json) |
 | Bakuryuu Sentai Abaranger | 130409 | [130409-bakuryuu-sentai-abaranger.json](./130409-bakuryuu-sentai-abaranger.json) |
 | Bakusei | 416974 | [416974-bakusei.json](./416974-bakusei.json) |
+| Bakushou Jinsei 64: Mezase! Resort-ou | 44039 | [44039-bakushou-jinsei-64-mezase-resort-ou.json](./44039-bakushou-jinsei-64-mezase-resort-ou.json) |
 | Bakushou Mondai no Totsugeki Star Pirates | 134496 | [134496-bakushou-mondai-no-totsugeki-star-pirates.json](./134496-bakushou-mondai-no-totsugeki-star-pirates.json) |
 | Bakushou Mondai no Totsugeki Star Pirates: Dai-1-kai | 179956 | [179956-bakushou-mondai-no-totsugeki-star-pirates-dai-1-kai.json](./179956-bakushou-mondai-no-totsugeki-star-pirates-dai-1-kai.json) |
 | Bakushou Mondai no Totsugeki Star Pirates: Dai-2-kai | 179957 | [179957-bakushou-mondai-no-totsugeki-star-pirates-dai-2-kai.json](./179957-bakushou-mondai-no-totsugeki-star-pirates-dai-2-kai.json) |
@@ -3085,6 +3086,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Scouter | 379699 | [379699-baseball-scouter.json](./379699-baseball-scouter.json) |
 | Baseball Star | 46753 | [46753-baseball-star.json](./46753-baseball-star.json) |
 | Baseball Stars | 273094 | [273094-baseball-stars.json](./273094-baseball-stars.json) |
+| Baseball Stars | 43992 | [43992-baseball-stars.json](./43992-baseball-stars.json) |
 | Baseball Stars 2 | 9942 | [9942-baseball-stars-2.json](./9942-baseball-stars-2.json) |
 | Baseball Stars II | 48296 | [48296-baseball-stars-ii.json](./48296-baseball-stars-ii.json) |
 | Baseball Stars Professional | 39595 | [39595-baseball-stars-professional.json](./39595-baseball-stars-professional.json) |
@@ -3305,6 +3307,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bass Pro Shops: Trophy Bass 2007 | 47343 | [47343-bass-pro-shops-trophy-bass-2007.json](./47343-bass-pro-shops-trophy-bass-2007.json) |
 | Bass Rise | 4141 | [4141-bass-rise.json](./4141-bass-rise.json) |
 | Bass Rush Dream | 67301 | [67301-bass-rush-dream.json](./67301-bass-rush-dream.json) |
+| Bass Rush: Ecogear PowerWorm Championship | 44038 | [44038-bass-rush-ecogear-powerworm-championship.json](./44038-bass-rush-ecogear-powerworm-championship.json) |
 | Bass Strike | 43286 | [43286-bass-strike.json](./43286-bass-strike.json) |
 | Bass Tsuri Shiyouze!: Tournament wa Senryaku da! | 49487 | [49487-bass-tsuri-shiyouze-tournament-wa-senryaku-da.json](./49487-bass-tsuri-shiyouze-tournament-wa-senryaku-da.json) |
 | Bassai-Dai | 403654 | [403654-bassai-dai.json](./403654-bassai-dai.json) |
@@ -7785,6 +7788,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Heavy | 269046 | [269046-big-heavy.json](./269046-big-heavy.json) |
 | Big Helmet Heroes | 303205 | [303205-big-helmet-heroes.json](./303205-big-helmet-heroes.json) |
 | Big Helmet Heroes: Exalted Edition | 330618 | [330618-big-helmet-heroes-exalted-edition.json](./330618-big-helmet-heroes-exalted-edition.json) |
+| Big Hero 6: Battle in the Bay | 44025 | [44025-big-hero-6-battle-in-the-bay.json](./44025-big-hero-6-battle-in-the-bay.json) |
 | Big Hero 6: Bot Fight | 60832 | [60832-big-hero-6-bot-fight.json](./60832-big-hero-6-bot-fight.json) |
 | Big Hit VR Baseball | 28789 | [28789-big-hit-vr-baseball.json](./28789-big-hit-vr-baseball.json) |
 | Big Honour | 299820 | [299820-big-honour.json](./299820-big-honour.json) |
@@ -8490,6 +8494,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioMeteor | 377824 | [377824-biometeor.json](./377824-biometeor.json) |
 | Biomisland | 199578 | [199578-biomisland.json](./199578-biomisland.json) |
 | Biomorph | 213287 | [213287-biomorph.json](./213287-biomorph.json) |
+| Biomotor Unitron | 43991 | [43991-biomotor-unitron.json](./43991-biomotor-unitron.json) |
 | Biomutant: Atomic Edition | 136313 | [136313-biomutant-atomic-edition.json](./136313-biomutant-atomic-edition.json) |
 | Biomutant: Collector's Edition | 30392 | [30392-biomutant-collectors-edition.json](./30392-biomutant-collectors-edition.json) |
 | Biomydra | 30749 | [30749-biomydra.json](./30749-biomydra.json) |
@@ -15374,10 +15379,12 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bravely Default | 4700 | [4700-bravely-default.json](./4700-bravely-default.json) |
 | Bravely Default II | 127344 | [127344-bravely-default-ii.json](./127344-bravely-default-ii.json) |
 | Bravely Default: Brilliant Lights | 174855 | [174855-bravely-default-brilliant-lights.json](./174855-bravely-default-brilliant-lights.json) |
+| Bravely Default: Collector's Edition | 44018 | [44018-bravely-default-collectors-edition.json](./44018-bravely-default-collectors-edition.json) |
 | Bravely Default: Fairy's Effect | 25739 | [25739-bravely-default-fairys-effect.json](./25739-bravely-default-fairys-effect.json) |
 | Bravely Default: Flying Fairy | 78326 | [78326-bravely-default-flying-fairy.json](./78326-bravely-default-flying-fairy.json) |
 | Bravely Default: Flying Fairy - HD Remaster | 338083 | [338083-bravely-default-flying-fairy-hd-remaster.json](./338083-bravely-default-flying-fairy-hd-remaster.json) |
 | Bravely Default: Flying Fairy Collector's Pack | 89878 | [89878-bravely-default-flying-fairy-collectors-pack.json](./89878-bravely-default-flying-fairy-collectors-pack.json) |
+| Bravely Second: End Layer - Collector's Edition | 44017 | [44017-bravely-second-end-layer-collectors-edition.json](./44017-bravely-second-end-layer-collectors-edition.json) |
 | Bravely Second: End Layer - Deluxe Collector's Edition | 47664 | [47664-bravely-second-end-layer-deluxe-collectors-edition.json](./47664-bravely-second-end-layer-deluxe-collectors-edition.json) |
 | Bravely Second: The Ballad of the Three Cavaliers | 242899 | [242899-bravely-second-the-ballad-of-the-three-cavaliers.json](./242899-bravely-second-the-ballad-of-the-three-cavaliers.json) |
 | BraveMatch | 145965 | [145965-bravematch.json](./145965-bravematch.json) |
