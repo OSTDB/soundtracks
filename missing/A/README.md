@@ -5013,6 +5013,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Agent A: A Puzzle In Disguise | 58042 | [58042-agent-a-a-puzzle-in-disguise.json](./58042-agent-a-a-puzzle-in-disguise.json) |
 | Agent Action | 138003 | [138003-agent-action.json](./138003-agent-action.json) |
 | Agent Alice | 60490 | [60490-agent-alice.json](./60490-agent-alice.json) |
+| Agent Angels | 63274 | [63274-agent-angels.json](./63274-agent-angels.json) |
 | Agent Armstrong | 11293 | [11293-agent-armstrong.json](./11293-agent-armstrong.json) |
 | Agent Awesome | 26839 | [26839-agent-awesome.json](./26839-agent-awesome.json) |
 | Agent Bob | 357799 | [357799-agent-bob.json](./357799-agent-bob.json) |
@@ -13641,6 +13642,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Archibald Applebrook's Abenteuer | 112058 | [112058-archibald-applebrooks-abenteuer.json](./112058-archibald-applebrooks-abenteuer.json) |
 | Archibald's Adventures | 33046 | [33046-archibalds-adventures.json](./33046-archibalds-adventures.json) |
 | Archie | 170640 | [170640-archie.json](./170640-archie.json) |
+| Archie: Betty or Veronica? | 63403 | [63403-archie-betty-or-veronica.json](./63403-archie-betty-or-veronica.json) |
 | Archie: Riverdale Rescue | 186060 | [186060-archie-riverdale-rescue.json](./186060-archie-riverdale-rescue.json) |
 | Archie's Ribs | 288808 | [288808-archies-ribs.json](./288808-archies-ribs.json) |
 | Archie's Riverdale Run | 64510 | [64510-archies-riverdale-run.json](./64510-archies-riverdale-run.json) |
@@ -13833,6 +13835,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Are You A Wizard | 132566 | [132566-are-you-a-wizard.json](./132566-are-you-a-wizard.json) |
 | Are You Afraid of the Dark | 220347 | [220347-are-you-afraid-of-the-dark.json](./220347-are-you-afraid-of-the-dark.json) |
 | Are You Afraid of the Dark? The Tale of Orpheo's Curse | 2208 | [2208-are-you-afraid-of-the-dark-the-tale-of-orpheos-curse.json](./2208-are-you-afraid-of-the-dark-the-tale-of-orpheos-curse.json) |
+| Are You Alice? | 63417 | [63417-are-you-alice.json](./63417-are-you-alice.json) |
 | Are You Alone? | 342534 | [342534-are-you-alone.json](./342534-are-you-alone.json) |
 | Are You Alone? | 90324 | [90324-are-you-alone.json](./90324-are-you-alone.json) |
 | Are You Awake? | 340873 | [340873-are-you-awake.json](./340873-are-you-awake.json) |
@@ -17249,7 +17252,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
