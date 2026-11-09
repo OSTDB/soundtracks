@@ -3981,6 +3981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Jurassic Park | 4519 | [4519-jurassic-park.json](./4519-jurassic-park.json) |
 | Jurassic Park | 75526 | [75526-jurassic-park.json](./75526-jurassic-park.json) |
 | Jurassic Park : Aftermath | 8367 | [8367-jurassic-park-aftermath.json](./8367-jurassic-park-aftermath.json) |
+| Jurassic Park Arcade | 12506 | [12506-jurassic-park-arcade.json](./12506-jurassic-park-arcade.json) |
 | Jurassic Park II | 146972 | [146972-jurassic-park-ii.json](./146972-jurassic-park-ii.json) |
 | Jurassic Park III | 40093 | [40093-jurassic-park-iii.json](./40093-jurassic-park-iii.json) |
 | Jurassic Park III: Danger Zone | 65606 | [65606-jurassic-park-iii-danger-zone.json](./65606-jurassic-park-iii-danger-zone.json) |
