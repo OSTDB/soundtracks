@@ -3051,6 +3051,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Baseball Mogul 2008 | 72673 | [72673-baseball-mogul-2008.json](./72673-baseball-mogul-2008.json) |
 | Baseball Mogul 2009 | 21378 | [21378-baseball-mogul-2009.json](./21378-baseball-mogul-2009.json) |
 | Baseball Mogul 2010 | 69259 | [69259-baseball-mogul-2010.json](./69259-baseball-mogul-2010.json) |
+| Baseball Mogul 2011 | 66813 | [66813-baseball-mogul-2011.json](./66813-baseball-mogul-2011.json) |
 | Baseball Mogul 2012 | 65218 | [65218-baseball-mogul-2012.json](./65218-baseball-mogul-2012.json) |
 | Baseball Mogul 2013 | 60000 | [60000-baseball-mogul-2013.json](./60000-baseball-mogul-2013.json) |
 | Baseball Mogul 2014 | 60011 | [60011-baseball-mogul-2014.json](./60011-baseball-mogul-2014.json) |
@@ -8368,6 +8369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BioCrisis | 256958 | [256958-biocrisis.json](./256958-biocrisis.json) |
 | BioCrisis: Return 2 the Lab | 203905 | [203905-biocrisis-return-2-the-lab.json](./203905-biocrisis-return-2-the-lab.json) |
 | Biodacity The Mansion | 333815 | [333815-biodacity-the-mansion.json](./333815-biodacity-the-mansion.json) |
+| BioDefense | 66799 | [66799-biodefense.json](./66799-biodefense.json) |
 | Biodigital | 107807 | [107807-biodigital.json](./107807-biodigital.json) |
 | BioDive | 292457 | [292457-biodive.json](./292457-biodive.json) |
 | Biodrone Battle | 35072 | [35072-biodrone-battle.json](./35072-biodrone-battle.json) |
