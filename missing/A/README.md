@@ -16088,6 +16088,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Assassin's Creed: Heritage Collection | 43015 | [43015-assassins-creed-heritage-collection.json](./43015-assassins-creed-heritage-collection.json) |
 | Assassin's Creed: Liberation HD | 20864 | [20864-assassins-creed-liberation-hd.json](./20864-assassins-creed-liberation-hd.json) |
 | Assassin's Creed: Liberation HD - Bonus Pack | 224356 | [224356-assassins-creed-liberation-hd-bonus-pack.json](./224356-assassins-creed-liberation-hd-bonus-pack.json) |
+| Assassin's Creed: Liberation Remastered | 109533 | [109533-assassins-creed-liberation-remastered.json](./109533-assassins-creed-liberation-remastered.json) |
 | Assassin's Creed: Limited Edition | 118124 | [118124-assassins-creed-limited-edition.json](./118124-assassins-creed-limited-edition.json) |
 | Assassin's Creed: Lost Legacy | 78709 | [78709-assassins-creed-lost-legacy.json](./78709-assassins-creed-lost-legacy.json) |
 | Assassin's Creed: Memories | 64759 | [64759-assassins-creed-memories.json](./64759-assassins-creed-memories.json) |
