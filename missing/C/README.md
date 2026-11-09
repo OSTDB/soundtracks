@@ -3657,6 +3657,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Doombad Classic | 324781 | [324781-castle-doombad-classic.json](./324781-castle-doombad-classic.json) |
 | Castle Doombad: Free To Slay | 324780 | [324780-castle-doombad-free-to-slay.json](./324780-castle-doombad-free-to-slay.json) |
 | Castle Dornstein | 212084 | [212084-castle-dornstein.json](./212084-castle-dornstein.json) |
+| Castle Dracula | 54584 | [54584-castle-dracula.json](./54584-castle-dracula.json) |
 | Castle Duels | 313070 | [313070-castle-duels.json](./313070-castle-duels.json) |
 | Castle Elsinore | 146106 | [146106-castle-elsinore.json](./146106-castle-elsinore.json) |
 | Castle Empire | 263969 | [263969-castle-empire.json](./263969-castle-empire.json) |
@@ -5989,6 +5990,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Champion Golf | 6087 | [6087-champion-golf.json](./6087-champion-golf.json) |
 | Champion Ice Hockey | 6088 | [6088-champion-ice-hockey.json](./6088-champion-ice-hockey.json) |
 | Champion Jockey: G1 Jockey & Gallop Racer | 20148 | [20148-champion-jockey-g1-jockey-and-gallop-racer.json](./20148-champion-jockey-g1-jockey-and-gallop-racer.json) |
+| Champion Jockey: Special | 54567 | [54567-champion-jockey-special.json](./54567-champion-jockey-special.json) |
 | Champion Kendo | 6089 | [6089-champion-kendo.json](./6089-champion-kendo.json) |
 | Champion of Andia | 272282 | [272282-champion-of-andia.json](./272282-champion-of-andia.json) |
 | Champion of Fighters | 266061 | [266061-champion-of-fighters.json](./266061-champion-of-fighters.json) |
