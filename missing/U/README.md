@@ -189,6 +189,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | UEFA Dream Soccer | 45803 | [45803-uefa-dream-soccer.json](./45803-uefa-dream-soccer.json) |
 | UEFA Euro 2000 | 44831 | [44831-uefa-euro-2000.json](./44831-uefa-euro-2000.json) |
 | UEFA Euro 2008 | 7226 | [7226-uefa-euro-2008.json](./7226-uefa-euro-2008.json) |
+| UEFA Euro 2012 | 51328 | [51328-uefa-euro-2012.json](./51328-uefa-euro-2012.json) |
 | UEFA Euro 2016: Pro Evolution Soccer | 42965 | [42965-uefa-euro-2016-pro-evolution-soccer.json](./42965-uefa-euro-2016-pro-evolution-soccer.json) |
 | UEFA Euro 2024 | 317534 | [317534-uefa-euro-2024.json](./317534-uefa-euro-2024.json) |
 | UEFA Euro 96 England | 18945 | [18945-uefa-euro-96-england.json](./18945-uefa-euro-96-england.json) |
@@ -504,6 +505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultimate Custom Night: Deluxe | 351399 | [351399-ultimate-custom-night-deluxe.json](./351399-ultimate-custom-night-deluxe.json) |
 | Ultimate Custom Night: Recode | 351397 | [351397-ultimate-custom-night-recode.json](./351397-ultimate-custom-night-recode.json) |
 | Ultimate Demolition | 150485 | [150485-ultimate-demolition.json](./150485-ultimate-demolition.json) |
+| Ultimate Demolition Derby | 51325 | [51325-ultimate-demolition-derby.json](./51325-ultimate-demolition-derby.json) |
 | Ultimate Derby Online | 241204 | [241204-ultimate-derby-online.json](./241204-ultimate-derby-online.json) |
 | Ultimate Destruction Simulator | 343790 | [343790-ultimate-destruction-simulator.json](./343790-ultimate-destruction-simulator.json) |
 | Ultimate Dice Wars: Reborn | 233058 | [233058-ultimate-dice-wars-reborn.json](./233058-ultimate-dice-wars-reborn.json) |
@@ -1072,6 +1074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ultrasecreto/Prólogo | 382239 | [382239-ultrasecreto-prologo.json](./382239-ultrasecreto-prologo.json) |
 | Ultrasound | 365244 | [365244-ultrasound.json](./365244-ultrasound.json) |
 | UltraStar | 142979 | [142979-ultrastar.json](./142979-ultrastar.json) |
+| Ultrastar Deluxe | 51327 | [51327-ultrastar-deluxe.json](./51327-ultrastar-deluxe.json) |
 | UltraStar WorldParty | 138582 | [138582-ultrastar-worldparty.json](./138582-ultrastar-worldparty.json) |
 | Ultratank | 120679 | [120679-ultratank.json](./120679-ultratank.json) |
 | Ultratap | 390219 | [390219-ultratap.json](./390219-ultratap.json) |
