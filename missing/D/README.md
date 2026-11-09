@@ -5823,20 +5823,32 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Deer Hunter | 206345 | [206345-deer-hunter.json](./206345-deer-hunter.json) |
 | Deer Hunter | 49896 | [49896-deer-hunter.json](./49896-deer-hunter.json) |
 | Deer Hunter - Big Buck Hunter | 101470 | [101470-deer-hunter-big-buck-hunter.json](./101470-deer-hunter-big-buck-hunter.json) |
+| Deer Hunter 2003: Legendary Hunting | 261 | [261-deer-hunter-2003-legendary-hunting.json](./261-deer-hunter-2003-legendary-hunting.json) |
+| Deer Hunter 2004 | 262 | [262-deer-hunter-2004.json](./262-deer-hunter-2004.json) |
 | Deer Hunter 2005 | 264 | [264-deer-hunter-2005.json](./264-deer-hunter-2005.json) |
 | Deer Hunter 2014 | 62525 | [62525-deer-hunter-2014.json](./62525-deer-hunter-2014.json) |
 | Deer Hunter 2016 | 59789 | [59789-deer-hunter-2016.json](./59789-deer-hunter-2016.json) |
 | Deer Hunter 2018 | 106291 | [106291-deer-hunter-2018.json](./106291-deer-hunter-2018.json) |
 | Deer Hunter 2018 | 87034 | [87034-deer-hunter-2018.json](./87034-deer-hunter-2018.json) |
+| Deer Hunter 3 Gold | 256 | [256-deer-hunter-3-gold.json](./256-deer-hunter-3-gold.json) |
+| Deer Hunter 3: The Legend Continues | 267 | [267-deer-hunter-3-the-legend-continues.json](./267-deer-hunter-3-the-legend-continues.json) |
+| Deer Hunter 3D | 268 | [268-deer-hunter-3d.json](./268-deer-hunter-3d.json) |
+| Deer Hunter 4: World-Class Record Bucks | 258 | [258-deer-hunter-4-world-class-record-bucks.json](./258-deer-hunter-4-world-class-record-bucks.json) |
+| Deer Hunter 5: Tracking Trophies | 259 | [259-deer-hunter-5-tracking-trophies.json](./259-deer-hunter-5-tracking-trophies.json) |
+| Deer Hunter Challenge | 269 | [269-deer-hunter-challenge.json](./269-deer-hunter-challenge.json) |
 | Deer Hunter Classic | 86940 | [86940-deer-hunter-classic.json](./86940-deer-hunter-classic.json) |
 | Deer Hunter Companion | 64371 | [64371-deer-hunter-companion.json](./64371-deer-hunter-companion.json) |
 | deer hunter II | 129421 | [129421-deer-hunter-ii.json](./129421-deer-hunter-ii.json) |
 | Deer Hunter II: Extended Season | 64366 | [64366-deer-hunter-ii-extended-season.json](./64366-deer-hunter-ii-extended-season.json) |
+| Deer Hunter II: The Hunt Continues | 265 | [265-deer-hunter-ii-the-hunt-continues.json](./265-deer-hunter-ii-the-hunt-continues.json) |
 | Deer Hunter Online | 64364 | [64364-deer-hunter-online.json](./64364-deer-hunter-online.json) |
 | Deer Hunter Reloaded | 136399 | [136399-deer-hunter-reloaded.json](./136399-deer-hunter-reloaded.json) |
+| Deer Hunter Tournament | 266 | [266-deer-hunter-tournament.json](./266-deer-hunter-tournament.json) |
 | Deer Hunter World: The Hunt | 175686 | [175686-deer-hunter-world-the-hunt.json](./175686-deer-hunter-world-the-hunt.json) |
 | Deer Hunter x Treme Focal Plane | 169420 | [169420-deer-hunter-x-treme-focal-plane.json](./169420-deer-hunter-x-treme-focal-plane.json) |
 | Deer Hunter: African Safari | 64372 | [64372-deer-hunter-african-safari.json](./64372-deer-hunter-african-safari.json) |
+| Deer Hunter: Interactive Hunting Experience | 263 | [263-deer-hunter-interactive-hunting-experience.json](./263-deer-hunter-interactive-hunting-experience.json) |
+| Deer Hunter's Extended Season | 252 | [252-deer-hunters-extended-season.json](./252-deer-hunters-extended-season.json) |
 | Deer Hunting 2018 | 107058 | [107058-deer-hunting-2018.json](./107058-deer-hunting-2018.json) |
 | Deer Hunting Camp | 339048 | [339048-deer-hunting-camp.json](./339048-deer-hunting-camp.json) |
 | Deer Hunting King | 85076 | [85076-deer-hunting-king.json](./85076-deer-hunting-king.json) |
