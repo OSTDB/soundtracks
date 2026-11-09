@@ -9161,6 +9161,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Follia: Dear Father VR | 169540 | [169540-follia-dear-father-vr.json](./169540-follia-dear-father-vr.json) |
 | Follow Dalian | 377070 | [377070-follow-dalian.json](./377070-follow-dalian.json) |
 | Follow Dream | 296591 | [296591-follow-dream.json](./296591-follow-dream.json) |
+| Follow Hoothoot | 72248 | [72248-follow-hoothoot.json](./72248-follow-hoothoot.json) |
 | Follow JC Go | 111329 | [111329-follow-jc-go.json](./111329-follow-jc-go.json) |
 | Follow My Footsteps | 72411 | [72411-follow-my-footsteps.json](./72411-follow-my-footsteps.json) |
 | Follow My Steps | 216666 | [216666-follow-my-steps.json](./216666-follow-my-steps.json) |
