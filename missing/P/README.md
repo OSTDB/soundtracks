@@ -7594,6 +7594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pink Noise | 297975 | [297975-pink-noise.json](./297975-pink-noise.json) |
 | Pink or Blue | 191319 | [191319-pink-or-blue.json](./191319-pink-or-blue.json) |
 | Pink Panther | 219014 | [219014-pink-panther.json](./219014-pink-panther.json) |
+| Pink Panther | 8105 | [8105-pink-panther.json](./8105-pink-panther.json) |
 | Pink Panther: Pinkadelic Pursuit | 140700 | [140700-pink-panther-pinkadelic-pursuit.json](./140700-pink-panther-pinkadelic-pursuit.json) |
 | Pink Panther: Pinkadelic Pursuit | 8108 | [8108-pink-panther-pinkadelic-pursuit.json](./8108-pink-panther-pinkadelic-pursuit.json) |
 | Pink Pong | 287585 | [287585-pink-pong.json](./287585-pink-pong.json) |
@@ -14233,6 +14234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Powerpool 2 | 389345 | [389345-powerpool-2.json](./389345-powerpool-2.json) |
 | Powerpool Frenzy | 392635 | [392635-powerpool-frenzy.json](./392635-powerpool-frenzy.json) |
 | Powerpuff Girls D: Battle in Megaville | 194875 | [194875-powerpuff-girls-d-battle-in-megaville.json](./194875-powerpuff-girls-d-battle-in-megaville.json) |
+| Powerpuff Girls Learning Challenge 2: Princess Snorebucks | 8103 | [8103-powerpuff-girls-learning-challenge-2-princess-snorebucks.json](./8103-powerpuff-girls-learning-challenge-2-princess-snorebucks.json) |
 | Powerpuff Girls: Bad Mojo Jojo | 3246 | [3246-powerpuff-girls-bad-mojo-jojo.json](./3246-powerpuff-girls-bad-mojo-jojo.json) |
 | Powerpuff Girls: Gamesville | 8007 | [8007-powerpuff-girls-gamesville.json](./8007-powerpuff-girls-gamesville.json) |
 | Powerpuff Girls: Mojo Jojo's Clone Zone | 8008 | [8008-powerpuff-girls-mojo-jojos-clone-zone.json](./8008-powerpuff-girls-mojo-jojos-clone-zone.json) |
