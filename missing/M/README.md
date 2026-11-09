@@ -20247,6 +20247,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Murder Party: Horror Hunt | 274967 | [274967-murder-party-horror-hunt.json](./274967-murder-party-horror-hunt.json) |
 | Murder Reservation | 129205 | [129205-murder-reservation.json](./129205-murder-reservation.json) |
 | Murder Room | 109135 | [109135-murder-room.json](./109135-murder-room.json) |
+| Murder She Wrote 2: Return to Cabot Cove | 10574 | [10574-murder-she-wrote-2-return-to-cabot-cove.json](./10574-murder-she-wrote-2-return-to-cabot-cove.json) |
 | Murder Strip | 399011 | [399011-murder-strip.json](./399011-murder-strip.json) |
 | Murder Workbook | 267228 | [267228-murder-workbook.json](./267228-murder-workbook.json) |
 | Murder Your Maker | 137186 | [137186-murder-your-maker.json](./137186-murder-your-maker.json) |
@@ -21589,6 +21590,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Land | 251341 | [251341-my-land.json](./251341-my-land.json) |
 | My Land! | 234739 | [234739-my-land.json](./234739-my-land.json) |
 | My Landlord Is a Sadistic MILF | 418857 | [418857-my-landlord-is-a-sadistic-milf.json](./418857-my-landlord-is-a-sadistic-milf.json) |
+| My Lands: Black Gem Hunting | 10576 | [10576-my-lands-black-gem-hunting.json](./10576-my-lands-black-gem-hunting.json) |
+| My Landscape | 10575 | [10575-my-landscape.json](./10575-my-landscape.json) |
 | My Last 20 | 348144 | [348144-my-last-20.json](./348144-my-last-20.json) |
 | My Last Appointment | 288242 | [288242-my-last-appointment.json](./288242-my-last-appointment.json) |
 | My Last First Kiss | 186572 | [186572-my-last-first-kiss.json](./186572-my-last-first-kiss.json) |
