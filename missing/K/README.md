@@ -2500,6 +2500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kikaiju Attack | 134182 | [134182-kikaiju-attack.json](./134182-kikaiju-attack.json) |
 | Kikak | 183796 | [183796-kikak.json](./183796-kikak.json) |
 | Kikan Bakumatsu Ibun Last Cavalier | 59912 | [59912-kikan-bakumatsu-ibun-last-cavalier.json](./59912-kikan-bakumatsu-ibun-last-cavalier.json) |
+| Kikansha Thomas: DS de Hajimeru Kokugo Sansuu Eigo | 63422 | [63422-kikansha-thomas-ds-de-hajimeru-kokugo-sansuu-eigo.json](./63422-kikansha-thomas-ds-de-hajimeru-kokugo-sansuu-eigo.json) |
 | Kikansha Thomas: Sodor-tou no Nakama-tachi | 210421 | [210421-kikansha-thomas-sodor-tou-no-nakama-tachi.json](./210421-kikansha-thomas-sodor-tou-no-nakama-tachi.json) |
 | Kiken Drive: 2nd Lap | 273464 | [273464-kiken-drive-2nd-lap.json](./273464-kiken-drive-2nd-lap.json) |
 | Kiki | 237267 | [237267-kiki.json](./237267-kiki.json) |
@@ -2897,7 +2898,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
-| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
