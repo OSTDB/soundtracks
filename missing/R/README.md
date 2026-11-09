@@ -1322,6 +1322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain reader | 176313 | [176313-rain-reader.json](./176313-rain-reader.json) |
 | Rain Ruin | 207358 | [207358-rain-ruin.json](./207358-rain-ruin.json) |
 | Rain Runner | 287062 | [287062-rain-runner.json](./287062-rain-runner.json) |
+| Rain Shaman | 60651 | [60651-rain-shaman.json](./60651-rain-shaman.json) |
 | Rain Shower | 145212 | [145212-rain-shower.json](./145212-rain-shower.json) |
 | Rain Shower | 231745 | [231745-rain-shower.json](./231745-rain-shower.json) |
 | Rain Station Z | 410414 | [410414-rain-station-z.json](./410414-rain-station-z.json) |
@@ -4489,6 +4490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Reel Fishing Pocket | 274844 | [274844-reel-fishing-pocket.json](./274844-reel-fishing-pocket.json) |
 | Reel Fishing: Angler's Dream | 5121 | [5121-reel-fishing-anglers-dream.json](./5121-reel-fishing-anglers-dream.json) |
 | Reel Fishing: Days of Summer | 322079 | [322079-reel-fishing-days-of-summer.json](./322079-reel-fishing-days-of-summer.json) |
+| Reel Fishing: Master's Challenge | 60650 | [60650-reel-fishing-masters-challenge.json](./60650-reel-fishing-masters-challenge.json) |
 | Reel Fishing: Ocean Challenge | 85574 | [85574-reel-fishing-ocean-challenge.json](./85574-reel-fishing-ocean-challenge.json) |
 | Reel Fishing: Road Trip Adventure | 116686 | [116686-reel-fishing-road-trip-adventure.json](./116686-reel-fishing-road-trip-adventure.json) |
 | Reel Fishing: The Great Outdoors | 74717 | [74717-reel-fishing-the-great-outdoors.json](./74717-reel-fishing-the-great-outdoors.json) |
@@ -6338,6 +6340,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Retrobomber | 25520 | [25520-retrobomber.json](./25520-retrobomber.json) |
 | Retrobooster | 17574 | [17574-retrobooster.json](./17574-retrobooster.json) |
 | Retrobound | 149506 | [149506-retrobound.json](./149506-retrobound.json) |
+| Retroboy | 60639 | [60639-retroboy.json](./60639-retroboy.json) |
 | Retrocade | 385593 | [385593-retrocade.json](./385593-retrocade.json) |
 | Retrocausality | 237247 | [237247-retrocausality.json](./237247-retrocausality.json) |
 | RetroCube | 175404 | [175404-retrocube.json](./175404-retrocube.json) |
