@@ -3144,6 +3144,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fat Baby | 186036 | [186036-fat-baby.json](./186036-fat-baby.json) |
 | Fat Birds | 266134 | [266134-fat-birds.json](./266134-fat-birds.json) |
 | Fat Birds Build a Bridge! | 88447 | [88447-fat-birds-build-a-bridge.json](./88447-fat-birds-build-a-bridge.json) |
+| Fat Bobby | 40839 | [40839-fat-bobby.json](./40839-fat-bobby.json) |
 | Fat Boy Raids The Cookie Factory | 321865 | [321865-fat-boy-raids-the-cookie-factory.json](./321865-fat-boy-raids-the-cookie-factory.json) |
 | Fat Cat & Airship | 243177 | [243177-fat-cat-and-airship.json](./243177-fat-cat-and-airship.json) |
 | Fat Chicken | 17891 | [17891-fat-chicken.json](./17891-fat-chicken.json) |
@@ -11528,6 +11529,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fractals of Destiny | 256955 | [256955-fractals-of-destiny.json](./256955-fractals-of-destiny.json) |
 | Fractasia VR | 105997 | [105997-fractasia-vr.json](./105997-fractasia-vr.json) |
 | Fracter | 101167 | [101167-fracter.json](./101167-fracter.json) |
+| Fraction Fever | 40880 | [40880-fraction-fever.json](./40880-fraction-fever.json) |
 | Fraction Munchers | 325302 | [325302-fraction-munchers.json](./325302-fraction-munchers.json) |
 | Fraction War | 101425 | [101425-fraction-war.json](./101425-fraction-war.json) |
 | Fractional Numbers | 42196 | [42196-fractional-numbers.json](./42196-fractional-numbers.json) |
