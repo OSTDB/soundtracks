@@ -13627,6 +13627,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Lord of the Rings Online: Before the Shadow | 275927 | [275927-the-lord-of-the-rings-online-before-the-shadow.json](./275927-the-lord-of-the-rings-online-before-the-shadow.json) |
 | The Lord of the Rings Online: Corsairs of Umbar | 275928 | [275928-the-lord-of-the-rings-online-corsairs-of-umbar.json](./275928-the-lord-of-the-rings-online-corsairs-of-umbar.json) |
 | The Lord of the Rings Online: Fate of Gundabad | 275926 | [275926-the-lord-of-the-rings-online-fate-of-gundabad.json](./275926-the-lord-of-the-rings-online-fate-of-gundabad.json) |
+| The Lord of the Rings Online: Helm's Deep | 27918 | [27918-the-lord-of-the-rings-online-helms-deep.json](./27918-the-lord-of-the-rings-online-helms-deep.json) |
 | The Lord of the Rings Online: Helm’s Deep - Premium Edition | 155458 | [155458-the-lord-of-the-rings-online-helm-s-deep-premium-edition.json](./155458-the-lord-of-the-rings-online-helm-s-deep-premium-edition.json) |
 | The Lord of the Rings Online: Kingdoms of Harad | 380534 | [380534-the-lord-of-the-rings-online-kingdoms-of-harad.json](./380534-the-lord-of-the-rings-online-kingdoms-of-harad.json) |
 | The Lord of the Rings Online: Legacy of Morgoth | 376581 | [376581-the-lord-of-the-rings-online-legacy-of-morgoth.json](./376581-the-lord-of-the-rings-online-legacy-of-morgoth.json) |
@@ -19026,6 +19027,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Unseen | 355065 | [355065-the-unseen.json](./355065-the-unseen.json) |
 | The Unseen | 67599 | [67599-the-unseen.json](./67599-the-unseen.json) |
 | The Unseen Awakening | 347148 | [347148-the-unseen-awakening.json](./347148-the-unseen-awakening.json) |
+| The Unseen Enemy 3D | 27151 | [27151-the-unseen-enemy-3d.json](./27151-the-unseen-enemy-3d.json) |
 | The Unseen Fears: Body Thief - Collector's Edition | 377077 | [377077-the-unseen-fears-body-thief-collectors-edition.json](./377077-the-unseen-fears-body-thief-collectors-edition.json) |
 | The Unseen Fears: Fortune's Consequence - Collector's Edition | 304421 | [304421-the-unseen-fears-fortunes-consequence-collectors-edition.json](./304421-the-unseen-fears-fortunes-consequence-collectors-edition.json) |
 | The Unseen Fears: Inner Darkness | 345420 | [345420-the-unseen-fears-inner-darkness.json](./345420-the-unseen-fears-inner-darkness.json) |
@@ -25522,6 +25524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tokyo Ghoul: Dark War | 69419 | [69419-tokyo-ghoul-dark-war.json](./69419-tokyo-ghoul-dark-war.json) |
 | Tokyo Ghoul: Jail | 13195 | [13195-tokyo-ghoul-jail.json](./13195-tokyo-ghoul-jail.json) |
 | Tokyo Ghoul: Re Birth | 56144 | [56144-tokyo-ghoul-re-birth.json](./56144-tokyo-ghoul-re-birth.json) |
+| Tokyo Ghoul: To Eat or Not to Eat | 27936 | [27936-tokyo-ghoul-to-eat-or-not-to-eat.json](./27936-tokyo-ghoul-to-eat-or-not-to-eat.json) |
 | Tokyo Ghoul:re Call to Exist | 103495 | [103495-tokyo-ghoul-re-call-to-exist.json](./103495-tokyo-ghoul-re-call-to-exist.json) |
 | Tokyo Highway Battle | 20797 | [20797-tokyo-highway-battle.json](./20797-tokyo-highway-battle.json) |
 | Tokyo Hosto | 35767 | [35767-tokyo-hosto.json](./35767-tokyo-hosto.json) |
@@ -26088,6 +26091,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tommy Gun Carnage | 212674 | [212674-tommy-gun-carnage.json](./212674-tommy-gun-carnage.json) |
 | Tommy Gun Witches | 262893 | [262893-tommy-gun-witches.json](./262893-tommy-gun-witches.json) |
 | Tommy Is My Hero! | 272853 | [272853-tommy-is-my-hero.json](./272853-tommy-is-my-hero.json) |
+| Tommy Lasorda Baseball | 27969 | [27969-tommy-lasorda-baseball.json](./27969-tommy-lasorda-baseball.json) |
 | Tommy Moe's Winter Extreme: Skiing & Snowboarding | 42429 | [42429-tommy-moes-winter-extreme-skiing-and-snowboarding.json](./42429-tommy-moes-winter-extreme-skiing-and-snowboarding.json) |
 | Tommy Thunder | 47736 | [47736-tommy-thunder.json](./47736-tommy-thunder.json) |
 | Tommy Tronic | 15010 | [15010-tommy-tronic.json](./15010-tommy-tronic.json) |
