@@ -6752,6 +6752,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Living Legends: The Blue Chamber | 397037 | [397037-living-legends-the-blue-chamber.json](./397037-living-legends-the-blue-chamber.json) |
 | Living Legends: The Blue Chamber Collector's Edition | 216441 | [216441-living-legends-the-blue-chamber-collectors-edition.json](./216441-living-legends-the-blue-chamber-collectors-edition.json) |
 | Living Legends: The Crystal Tear - Collector's Edition | 129314 | [129314-living-legends-the-crystal-tear-collectors-edition.json](./129314-living-legends-the-crystal-tear-collectors-edition.json) |
+| Living Legends: The Frozen Fear Collection | 34539 | [34539-living-legends-the-frozen-fear-collection.json](./34539-living-legends-the-frozen-fear-collection.json) |
 | Living Legends: The Red Trace | 397038 | [397038-living-legends-the-red-trace.json](./397038-living-legends-the-red-trace.json) |
 | Living Legends: The Red Trace - Collector's Edition | 340557 | [340557-living-legends-the-red-trace-collectors-edition.json](./340557-living-legends-the-red-trace-collectors-edition.json) |
 | Living Legends: Uninvited Guests | 396980 | [396980-living-legends-uninvited-guests.json](./396980-living-legends-uninvited-guests.json) |
@@ -8881,6 +8882,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loud: RockStar Edition | 249565 | [249565-loud-rockstar-edition.json](./249565-loud-rockstar-edition.json) |
 | Louder Than Words: The Story of a Field Trip | 195647 | [195647-louder-than-words-the-story-of-a-field-trip.json](./195647-louder-than-words-the-story-of-a-field-trip.json) |
 | Louie | 143959 | [143959-louie.json](./143959-louie.json) |
+| Louie Cooks | 34537 | [34537-louie-cooks.json](./34537-louie-cooks.json) |
 | Louie Lucha | 246113 | [246113-louie-lucha.json](./246113-louie-lucha.json) |
 | Louie's Mansion | 313372 | [313372-louies-mansion.json](./313372-louies-mansion.json) |
 | Louis | 365055 | [365055-louis.json](./365055-louis.json) |
