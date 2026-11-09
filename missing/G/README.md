@@ -4772,6 +4772,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Girls und Panzer: Atsumare! Minna no Sensha-dou | 208242 | [208242-girls-und-panzer-atsumare-minna-no-sensha-dou.json](./208242-girls-und-panzer-atsumare-minna-no-sensha-dou.json) |
 | Girls und Panzer: Dream Tank Match | 54539 | [54539-girls-und-panzer-dream-tank-match.json](./54539-girls-und-panzer-dream-tank-match.json) |
 | Girls und Panzer: Dream Tank Match - Premium Edition | 166182 | [166182-girls-und-panzer-dream-tank-match-premium-edition.json](./166182-girls-und-panzer-dream-tank-match-premium-edition.json) |
+| Girls und Panzer: Senshado, Kiwamemasu! | 42699 | [42699-girls-und-panzer-senshado-kiwamemasu.json](./42699-girls-und-panzer-senshado-kiwamemasu.json) |
 | Girls und Panzer: Senshadou Daisakusen! | 208236 | [208236-girls-und-panzer-senshadou-daisakusen.json](./208236-girls-und-panzer-senshadou-daisakusen.json) |
 | Girls VR | 109708 | [109708-girls-vr.json](./109708-girls-vr.json) |
 | Girls vs. Tentacles | 340302 | [340302-girls-vs-tentacles.json](./340302-girls-vs-tentacles.json) |
@@ -6805,6 +6806,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Golden Threads | 362862 | [362862-golden-threads.json](./362862-golden-threads.json) |
 | Golden Ticket Simulator | 312439 | [312439-golden-ticket-simulator.json](./312439-golden-ticket-simulator.json) |
 | Golden Tides | 322030 | [322030-golden-tides.json](./322030-golden-tides.json) |
+| Golden Time: Vivid Memories | 42698 | [42698-golden-time-vivid-memories.json](./42698-golden-time-vivid-memories.json) |
 | Golden Trails 2 | 88205 | [88205-golden-trails-2.json](./88205-golden-trails-2.json) |
 | Golden Trails 3 | 100016 | [100016-golden-trails-3.json](./100016-golden-trails-3.json) |
 | Golden Trails 3: The Guardian's Creed | 89731 | [89731-golden-trails-3-the-guardians-creed.json](./89731-golden-trails-3-the-guardians-creed.json) |
@@ -11294,6 +11296,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gundam Battle Chronicle | 66596 | [66596-gundam-battle-chronicle.json](./66596-gundam-battle-chronicle.json) |
 | Gundam Battle Online | 107166 | [107166-gundam-battle-online.json](./107166-gundam-battle-online.json) |
 | Gundam Battle Operation Next | 44538 | [44538-gundam-battle-operation-next.json](./44538-gundam-battle-operation-next.json) |
+| Gundam Battle Tactics | 42717 | [42717-gundam-battle-tactics.json](./42717-gundam-battle-tactics.json) |
 | Gundam Battle Universe | 72752 | [72752-gundam-battle-universe.json](./72752-gundam-battle-universe.json) |
 | Gundam Battle: Gunpla Warfare | 120305 | [120305-gundam-battle-gunpla-warfare.json](./120305-gundam-battle-gunpla-warfare.json) |
 | Gundam Breaker | 45290 | [45290-gundam-breaker.json](./45290-gundam-breaker.json) |
