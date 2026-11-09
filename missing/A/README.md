@@ -2163,6 +2163,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Absence of Light | 344811 | [344811-absence-of-light.json](./344811-absence-of-light.json) |
 | Absence Request | 76618 | [76618-absence-request.json](./76618-absence-request.json) |
 | Absence: Verdict of Silence | 185002 | [185002-absence-verdict-of-silence.json](./185002-absence-verdict-of-silence.json) |
+| Absent | 34564 | [34564-absent.json](./34564-absent.json) |
 | Absent II | 58073 | [58073-absent-ii.json](./58073-absent-ii.json) |
 | Absent in the Rain | 187581 | [187581-absent-in-the-rain.json](./187581-absent-in-the-rain.json) |
 | Absent Mind | 29381 | [29381-absent-mind.json](./29381-absent-mind.json) |
@@ -2245,6 +2246,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Abstêmia | 289175 | [289175-abstemia.json](./289175-abstemia.json) |
 | AbsTRace | 391219 | [391219-abstrace.json](./391219-abstrace.json) |
 | Abstract | 118077 | [118077-abstract.json](./118077-abstract.json) |
+| Abstract Arena | 33632 | [33632-abstract-arena.json](./33632-abstract-arena.json) |
 | Abstract Code | 283873 | [283873-abstract-code.json](./283873-abstract-code.json) |
 | Abstract Driver | 250450 | [250450-abstract-driver.json](./250450-abstract-driver.json) |
 | Abstract Grind | 221097 | [221097-abstract-grind.json](./221097-abstract-grind.json) |
@@ -2754,6 +2756,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ace of Arenas | 59820 | [59820-ace-of-arenas.json](./59820-ace-of-arenas.json) |
 | Ace of Gifts | 310537 | [310537-ace-of-gifts.json](./310537-ace-of-gifts.json) |
 | Ace of Hearts | 98902 | [98902-ace-of-hearts.json](./98902-ace-of-hearts.json) |
+| Ace of Protectors | 34558 | [34558-ace-of-protectors.json](./34558-ace-of-protectors.json) |
 | Ace of Rope | 177475 | [177475-ace-of-rope.json](./177475-ace-of-rope.json) |
 | Ace of Seafood | 33309 | [33309-ace-of-seafood.json](./33309-ace-of-seafood.json) |
 | Ace of Space | 123544 | [123544-ace-of-space.json](./123544-ace-of-space.json) |
@@ -6970,6 +6973,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alice's Lullaby | 171476 | [171476-alices-lullaby.json](./171476-alices-lullaby.json) |
 | Alice's Magical Mahjong | 205118 | [205118-alices-magical-mahjong.json](./205118-alices-magical-mahjong.json) |
 | Alice's Mergeland Adventure | 220223 | [220223-alices-mergeland-adventure.json](./220223-alices-mergeland-adventure.json) |
+| Alice's Mom's Rescue | 34504 | [34504-alices-moms-rescue.json](./34504-alices-moms-rescue.json) |
 | Alice's Moo-vie night | 185359 | [185359-alices-moo-vie-night.json](./185359-alices-moo-vie-night.json) |
 | Alice's Patchwork | 33485 | [33485-alices-patchwork.json](./33485-alices-patchwork.json) |
 | Alice's Patchworks 2 | 31438 | [31438-alices-patchworks-2.json](./31438-alices-patchworks-2.json) |
@@ -9289,6 +9293,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Amorphous Euphoria | 261044 | [261044-amorphous-euphoria.json](./261044-amorphous-euphoria.json) |
 | Amortizer Off-Road | 118294 | [118294-amortizer-off-road.json](./118294-amortizer-off-road.json) |
 | Amos 4D Craft | 385672 | [385672-amos-4d-craft.json](./385672-amos-4d-craft.json) |
+| Amos From Outer Space | 34514 | [34514-amos-from-outer-space.json](./34514-amos-from-outer-space.json) |
 | Amos Green's Final Repose | 198104 | [198104-amos-greens-final-repose.json](./198104-amos-greens-final-repose.json) |
 | Amoto's Puf | 47557 | [47557-amotos-puf.json](./47557-amotos-puf.json) |
 | Amountle | 413092 | [413092-amountle.json](./413092-amountle.json) |
@@ -17371,7 +17376,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
