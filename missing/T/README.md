@@ -1450,6 +1450,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tales of Vesperia: Special Edition | 47391 | [47391-tales-of-vesperia-special-edition.json](./47391-tales-of-vesperia-special-edition.json) |
 | Tales of Violet Valley | 379437 | [379437-tales-of-violet-valley.json](./379437-tales-of-violet-valley.json) |
 | Tales of Vogar: Lost Descendants | 236366 | [236366-tales-of-vogar-lost-descendants.json](./236366-tales-of-vogar-lost-descendants.json) |
+| Tales of VS. | 42723 | [42723-tales-of-vs.json](./42723-tales-of-vs.json) |
 | Tales of War | 158636 | [158636-tales-of-war.json](./158636-tales-of-war.json) |
 | Tales of Weapons | 175723 | [175723-tales-of-weapons.json](./175723-tales-of-weapons.json) |
 | Tales Of Wedding Rings VR | 110075 | [110075-tales-of-wedding-rings-vr.json](./110075-tales-of-wedding-rings-vr.json) |
@@ -10463,6 +10464,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Godfather: Blackhand Edition | 20681 | [20681-the-godfather-blackhand-edition.json](./20681-the-godfather-blackhand-edition.json) |
 | The Godfather: City Wars | 355894 | [355894-the-godfather-city-wars.json](./355894-the-godfather-city-wars.json) |
 | The Godfather: Family Dynasty | 98192 | [98192-the-godfather-family-dynasty.json](./98192-the-godfather-family-dynasty.json) |
+| The Godfather: Mob Wars | 42748 | [42748-the-godfather-mob-wars.json](./42748-the-godfather-mob-wars.json) |
 | The Godfather: The Don's Edition | 20683 | [20683-the-godfather-the-dons-edition.json](./20683-the-godfather-the-dons-edition.json) |
 | The Godkiller | 123228 | [123228-the-godkiller.json](./123228-the-godkiller.json) |
 | The Godkiller: Chapter 1 | 163984 | [163984-the-godkiller-chapter-1.json](./163984-the-godkiller-chapter-1.json) |
@@ -12901,6 +12903,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Legend of Heroes: Trails in the Dawn M | 212846 | [212846-the-legend-of-heroes-trails-in-the-dawn-m.json](./212846-the-legend-of-heroes-trails-in-the-dawn-m.json) |
 | The Legend of Heroes: Trails in the Sky | 8986 | [8986-the-legend-of-heroes-trails-in-the-sky.json](./8986-the-legend-of-heroes-trails-in-the-sky.json) |
 | The Legend of Heroes: Trails in the Sky - Kizuna | 90056 | [90056-the-legend-of-heroes-trails-in-the-sky-kizuna.json](./90056-the-legend-of-heroes-trails-in-the-sky-kizuna.json) |
+| The Legend of Heroes: Trails in the Sky - Premium Edition | 42719 | [42719-the-legend-of-heroes-trails-in-the-sky-premium-edition.json](./42719-the-legend-of-heroes-trails-in-the-sky-premium-edition.json) |
 | The Legend of Heroes: Trails in the Sky SC | 16665 | [16665-the-legend-of-heroes-trails-in-the-sky-sc.json](./16665-the-legend-of-heroes-trails-in-the-sky-sc.json) |
 | The Legend of Heroes: Trails in the Sky the 3rd | 28101 | [28101-the-legend-of-heroes-trails-in-the-sky-the-3rd.json](./28101-the-legend-of-heroes-trails-in-the-sky-the-3rd.json) |
 | The Legend of Heroes: Trails into Reverie | 136673 | [136673-the-legend-of-heroes-trails-into-reverie.json](./136673-the-legend-of-heroes-trails-into-reverie.json) |
@@ -26604,6 +26607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tora he no Michi | 37647 | [37647-tora-he-no-michi.json](./37647-tora-he-no-michi.json) |
 | Tora Tora! | 172257 | [172257-tora-tora.json](./172257-tora-tora.json) |
 | Tora's Garden | 274312 | [274312-toras-garden.json](./274312-toras-garden.json) |
+| Toradora Portable! | 42752 | [42752-toradora-portable.json](./42752-toradora-portable.json) |
 | Torara no Mahjong Kyoushitsu | 397894 | [397894-torara-no-mahjong-kyoushitsu.json](./397894-torara-no-mahjong-kyoushitsu.json) |
 | Toraware Hotel | 271547 | [271547-toraware-hotel.json](./271547-toraware-hotel.json) |
 | Toraware no Palm | 97297 | [97297-toraware-no-palm.json](./97297-toraware-no-palm.json) |
@@ -26904,6 +26908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Total Recall | 12500 | [12500-total-recall.json](./12500-total-recall.json) |
 | Total Recall | 218324 | [218324-total-recall.json](./218324-total-recall.json) |
 | Total Recall Mobile | 86194 | [86194-total-recall-mobile.json](./86194-total-recall-mobile.json) |
+| Total Recoil | 42695 | [42695-total-recoil.json](./42695-total-recoil.json) |
 | Total Reload | 248661 | [248661-total-reload.json](./248661-total-reload.json) |
 | Total Rendition | 172522 | [172522-total-rendition.json](./172522-total-rendition.json) |
 | TotAL RPG (Tower of the Ancient Legion) | 111168 | [111168-total-rpg-tower-of-the-ancient-legion.json](./111168-total-rpg-tower-of-the-ancient-legion.json) |
