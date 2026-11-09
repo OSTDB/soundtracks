@@ -7607,6 +7607,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evolution: Battle for Utopia | 131458 | [131458-evolution-battle-for-utopia.json](./131458-evolution-battle-for-utopia.json) |
 | Evolution: Dino Dudes | 40801 | [40801-evolution-dino-dudes.json](./40801-evolution-dino-dudes.json) |
 | Evolution: Dragon X | 267354 | [267354-evolution-dragon-x.json](./267354-evolution-dragon-x.json) |
+| Evolution: Eternal Dungeons | 43990 | [43990-evolution-eternal-dungeons.json](./43990-evolution-eternal-dungeons.json) |
 | Evolution: From the Little Light | 280290 | [280290-evolution-from-the-little-light.json](./280290-evolution-from-the-little-light.json) |
 | Evolution: Heroes of Utopia | 56138 | [56138-evolution-heroes-of-utopia.json](./56138-evolution-heroes-of-utopia.json) |
 | Evolution: Indian Hunter - Unlimited Edition | 201261 | [201261-evolution-indian-hunter-unlimited-edition.json](./201261-evolution-indian-hunter-unlimited-edition.json) |
