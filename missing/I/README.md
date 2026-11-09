@@ -3482,6 +3482,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Indiemon VS Zombies | 60313 | [60313-indiemon-vs-zombies.json](./60313-indiemon-vs-zombies.json) |
 | Indiemon: Earth Nation | 63411 | [63411-indiemon-earth-nation.json](./63411-indiemon-earth-nation.json) |
 | Indiemon: Earth Nation - Villain Version | 62721 | [62721-indiemon-earth-nation-villain-version.json](./62721-indiemon-earth-nation-villain-version.json) |
+| Indiemon: Thunder Region | 61182 | [61182-indiemon-thunder-region.json](./61182-indiemon-thunder-region.json) |
 | Indiepocalypse #1 | 240975 | [240975-indiepocalypse-1.json](./240975-indiepocalypse-1.json) |
 | Indiepocalypse #2 | 242892 | [242892-indiepocalypse-2.json](./242892-indiepocalypse-2.json) |
 | Indiepocalypse #3 | 248808 | [248808-indiepocalypse-3.json](./248808-indiepocalypse-3.json) |
