@@ -4066,6 +4066,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Helherron | 146986 | [146986-helherron.json](./146986-helherron.json) |
 | Helhigan | 360714 | [360714-helhigan.json](./360714-helhigan.json) |
 | Heli 100 | 119417 | [119417-heli-100.json](./119417-heli-100.json) |
+| Heli Brawl | 62307 | [62307-heli-brawl.json](./62307-heli-brawl.json) |
 | Heli Commando in Hell | 124752 | [124752-heli-commando-in-hell.json](./124752-heli-commando-in-hell.json) |
 | Heli Fire | 38565 | [38565-heli-fire.json](./38565-heli-fire.json) |
 | Heli Golf | 150602 | [150602-heli-golf.json](./150602-heli-golf.json) |
@@ -12419,6 +12420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter x Hunter: Arena Battle | 122017 | [122017-hunter-x-hunter-arena-battle.json](./122017-hunter-x-hunter-arena-battle.json) |
 | Hunter X Hunter: Hunter no Keifu | 65245 | [65245-hunter-x-hunter-hunter-no-keifu.json](./65245-hunter-x-hunter-hunter-no-keifu.json) |
 | Hunter X Hunter: Ishi o Tsugomono | 37503 | [37503-hunter-x-hunter-ishi-o-tsugomono.json](./37503-hunter-x-hunter-ishi-o-tsugomono.json) |
+| Hunter X Hunter: Kindan no Hihou | 62309 | [62309-hunter-x-hunter-kindan-no-hihou.json](./62309-hunter-x-hunter-kindan-no-hihou.json) |
 | Hunter X Hunter: Maboroshi no Greed Island | 60607 | [60607-hunter-x-hunter-maboroshi-no-greed-island.json](./60607-hunter-x-hunter-maboroshi-no-greed-island.json) |
 | Hunter X Hunter: Michikareshi Mono | 65358 | [65358-hunter-x-hunter-michikareshi-mono.json](./65358-hunter-x-hunter-michikareshi-mono.json) |
 | Hunter x Hunter: Nen x Impact | 281740 | [281740-hunter-x-hunter-nen-x-impact.json](./281740-hunter-x-hunter-nen-x-impact.json) |
@@ -12427,6 +12429,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hunter x Hunter: Nen x Impact - Additional Character 4 Zeno | 375154 | [375154-hunter-x-hunter-nen-x-impact-additional-character-4-zeno.json](./375154-hunter-x-hunter-nen-x-impact-additional-character-4-zeno.json) |
 | Hunter x Hunter: Nen x Impact - Deluxe Edition | 342407 | [342407-hunter-x-hunter-nen-x-impact-deluxe-edition.json](./342407-hunter-x-hunter-nen-x-impact-deluxe-edition.json) |
 | Hunter x Hunter: Nen x Impact - Season Pass 1 | 342408 | [342408-hunter-x-hunter-nen-x-impact-season-pass-1.json](./342408-hunter-x-hunter-nen-x-impact-season-pass-1.json) |
+| Hunter X Hunter: Ryumyaku no Saidan | 62310 | [62310-hunter-x-hunter-ryumyaku-no-saidan.json](./62310-hunter-x-hunter-ryumyaku-no-saidan.json) |
 | Hunter X Hunter: Ubawareta Aura Stone | 60606 | [60606-hunter-x-hunter-ubawareta-aura-stone.json](./60606-hunter-x-hunter-ubawareta-aura-stone.json) |
 | Hunter X Hunter: Wonder Adventure | 60605 | [60605-hunter-x-hunter-wonder-adventure.json](./60605-hunter-x-hunter-wonder-adventure.json) |
 | Hunter x Hunter: World Hunt | 122886 | [122886-hunter-x-hunter-world-hunt.json](./122886-hunter-x-hunter-world-hunt.json) |
