@@ -13290,6 +13290,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hyrule Warriors: Master Quest Pack | 23825 | [23825-hyrule-warriors-master-quest-pack.json](./23825-hyrule-warriors-master-quest-pack.json) |
 | Hyrule Warriors: Treasure Box | 83790 | [83790-hyrule-warriors-treasure-box.json](./83790-hyrule-warriors-treasure-box.json) |
 | Hyspherical | 128546 | [128546-hyspherical.json](./128546-hyspherical.json) |
+| Hyspherical 2 | 34509 | [34509-hyspherical-2.json](./34509-hyspherical-2.json) |
 | Hyss | 112985 | [112985-hyss.json](./112985-hyss.json) |
 | Hysteria | 47172 | [47172-hysteria.json](./47172-hysteria.json) |
 | Hysteria Hospital: Emergency Ward | 4920 | [4920-hysteria-hospital-emergency-ward.json](./4920-hysteria-hospital-emergency-ward.json) |
