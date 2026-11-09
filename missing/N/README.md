@@ -3845,6 +3845,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | NFL Kicker 13 | 62170 | [62170-nfl-kicker-13.json](./62170-nfl-kicker-13.json) |
 | NFL Kicker 15 | 58179 | [58179-nfl-kicker-15.json](./58179-nfl-kicker-15.json) |
 | NFL Kicker! | 79679 | [79679-nfl-kicker.json](./79679-nfl-kicker.json) |
+| NFL Pro 2014 | 59554 | [59554-nfl-pro-2014.json](./59554-nfl-pro-2014.json) |
 | NFL Pro Era | 198225 | [198225-nfl-pro-era.json](./198225-nfl-pro-era.json) |
 | NFL Pro Era II | 266797 | [266797-nfl-pro-era-ii.json](./266797-nfl-pro-era-ii.json) |
 | NFL Pro League Football | 80204 | [80204-nfl-pro-league-football.json](./80204-nfl-pro-league-football.json) |
@@ -5726,6 +5727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nitro Horizon | 412811 | [412811-nitro-horizon.json](./412811-nitro-horizon.json) |
 | Nitro Karts Racing | 376238 | [376238-nitro-karts-racing.json](./376238-nitro-karts-racing.json) |
 | Nitro Kid | 204438 | [204438-nitro-kid.json](./204438-nitro-kid.json) |
+| Nitro Nation | 59541 | [59541-nitro-nation.json](./59541-nitro-nation.json) |
 | Nitro Nation Online | 39221 | [39221-nitro-nation-online.json](./39221-nitro-nation-online.json) |
 | Nitro Nation Stories | 39222 | [39222-nitro-nation-stories.json](./39222-nitro-nation-stories.json) |
 | Nitro Nation VR | 195834 | [195834-nitro-nation-vr.json](./195834-nitro-nation-vr.json) |
@@ -6283,6 +6285,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga no Yabou | 307163 | [307163-nobunaga-no-yabou.json](./307163-nobunaga-no-yabou.json) |
 | Nobunaga no Yabou 2 | 60088 | [60088-nobunaga-no-yabou-2.json](./60088-nobunaga-no-yabou-2.json) |
 | Nobunaga no Yabou 201X | 61101 | [61101-nobunaga-no-yabou-201x.json](./61101-nobunaga-no-yabou-201x.json) |
+| Nobunaga no Yabou DS | 60089 | [60089-nobunaga-no-yabou-ds.json](./60089-nobunaga-no-yabou-ds.json) |
 | Nobunaga no Yabou DS 2 | 59379 | [59379-nobunaga-no-yabou-ds-2.json](./59379-nobunaga-no-yabou-ds-2.json) |
 | Nobunaga no Yabou for WonderSwan | 37562 | [37562-nobunaga-no-yabou-for-wonderswan.json](./37562-nobunaga-no-yabou-for-wonderswan.json) |
 | Nobunaga no Yabou Game Boy-ban 2 | 282388 | [282388-nobunaga-no-yabou-game-boy-ban-2.json](./282388-nobunaga-no-yabou-game-boy-ban-2.json) |
@@ -6328,6 +6331,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nobunaga's Ambition: Ranseiki | 267525 | [267525-nobunagas-ambition-ranseiki.json](./267525-nobunagas-ambition-ranseiki.json) |
 | Nobunaga's Ambition: Ranseiki with Power Up Kit | 74687 | [74687-nobunagas-ambition-ranseiki-with-power-up-kit.json](./74687-nobunagas-ambition-ranseiki-with-power-up-kit.json) |
 | Nobunaga’s Ambition: Rebirth - Treasure Box Limited Edition | 212328 | [212328-nobunaga-s-ambition-rebirth-treasure-box-limited-edition.json](./212328-nobunaga-s-ambition-rebirth-treasure-box-limited-edition.json) |
+| Nobunaga's Ambition: Reppuden | 60093 | [60093-nobunagas-ambition-reppuden.json](./60093-nobunagas-ambition-reppuden.json) |
 | Nobunaga's Ambition: Reppuden with Power Up Kit | 55810 | [55810-nobunagas-ambition-reppuden-with-power-up-kit.json](./55810-nobunagas-ambition-reppuden-with-power-up-kit.json) |
 | Nobunaga's Ambition: Reppuuden - Power Up Kit | 308206 | [308206-nobunagas-ambition-reppuuden-power-up-kit.json](./308206-nobunagas-ambition-reppuuden-power-up-kit.json) |
 | Nobunaga's Ambition: Rise to Power | 21503 | [21503-nobunagas-ambition-rise-to-power.json](./21503-nobunagas-ambition-rise-to-power.json) |
