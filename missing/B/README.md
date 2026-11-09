@@ -5202,6 +5202,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Beast Darling!: Kemomimi Danshi to Himitsu no Ryou | 222070 | [222070-beast-darling-kemomimi-danshi-to-himitsu-no-ryou.json](./222070-beast-darling-kemomimi-danshi-to-himitsu-no-ryou.json) |
 | Beast Dungeon | 256630 | [256630-beast-dungeon.json](./256630-beast-dungeon.json) |
 | Beast Farmer | 233205 | [233205-beast-farmer.json](./233205-beast-farmer.json) |
+| Beast Fighter | 56719 | [56719-beast-fighter.json](./56719-beast-fighter.json) |
 | Beast Fists | 211096 | [211096-beast-fists.json](./211096-beast-fists.json) |
 | Beast Gang | 368824 | [368824-beast-gang.json](./368824-beast-gang.json) |
 | Beast Hour | 151329 | [151329-beast-hour.json](./151329-beast-hour.json) |
@@ -6341,6 +6342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Being a DIK: Season 3 | 338648 | [338648-being-a-dik-season-3.json](./338648-being-a-dik-season-3.json) |
 | Being a Penguin | 197026 | [197026-being-a-penguin.json](./197026-being-a-penguin.json) |
 | Being Ball | 190412 | [190412-being-ball.json](./190412-being-ball.json) |
+| Being Beauteous | 57213 | [57213-being-beauteous.json](./57213-being-beauteous.json) |
 | Being Centered | 169588 | [169588-being-centered.json](./169588-being-centered.json) |
 | Being Dead Simulator | 280925 | [280925-being-dead-simulator.json](./280925-being-dead-simulator.json) |
 | Being Faust: Enter Mephisto | 56459 | [56459-being-faust-enter-mephisto.json](./56459-being-faust-enter-mephisto.json) |
