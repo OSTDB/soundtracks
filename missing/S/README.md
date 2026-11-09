@@ -996,6 +996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sakura Taisen Online: Teito no Nagai Hibi | 63132 | [63132-sakura-taisen-online-teito-no-nagai-hibi.json](./63132-sakura-taisen-online-teito-no-nagai-hibi.json) |
 | Sakura Taisen Steam Radio Show | 62125 | [62125-sakura-taisen-steam-radio-show.json](./62125-sakura-taisen-steam-radio-show.json) |
 | Sakura Taisen V Episode 0: Kouya no Samurai Musume | 74109 | [74109-sakura-taisen-v-episode-0-kouya-no-samurai-musume.json](./74109-sakura-taisen-v-episode-0-kouya-no-samurai-musume.json) |
+| Sakura Taisen: Atsuki Chishio ni | 43412 | [43412-sakura-taisen-atsuki-chishio-ni.json](./43412-sakura-taisen-atsuki-chishio-ni.json) |
 | Sakura Taisen: Kinematron Hanagumi Mail | 62122 | [62122-sakura-taisen-kinematron-hanagumi-mail.json](./62122-sakura-taisen-kinematron-hanagumi-mail.json) |
 | Sakura Tempest | 223857 | [223857-sakura-tempest.json](./223857-sakura-tempest.json) |
 | Sakura Trick | 231838 | [231838-sakura-trick.json](./231838-sakura-trick.json) |
@@ -4022,6 +4023,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | SD Gundam G Generation Neo | 65981 | [65981-sd-gundam-g-generation-neo.json](./65981-sd-gundam-g-generation-neo.json) |
 | SD Gundam G Generation Portable | 78825 | [78825-sd-gundam-g-generation-portable.json](./78825-sd-gundam-g-generation-portable.json) |
 | SD Gundam G Generation Seed | 65982 | [65982-sd-gundam-g-generation-seed.json](./65982-sd-gundam-g-generation-seed.json) |
+| SD Gundam G Generation Spirits | 43400 | [43400-sd-gundam-g-generation-spirits.json](./43400-sd-gundam-g-generation-spirits.json) |
 | SD Gundam G Generation Touch | 66372 | [66372-sd-gundam-g-generation-touch.json](./66372-sd-gundam-g-generation-touch.json) |
 | SD Gundam G Generation Wars | 69325 | [69325-sd-gundam-g-generation-wars.json](./69325-sd-gundam-g-generation-wars.json) |
 | SD Gundam G Generation World | 75732 | [75732-sd-gundam-g-generation-world.json](./75732-sd-gundam-g-generation-world.json) |
@@ -7013,6 +7015,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shadow of the Beast III | 12221 | [12221-shadow-of-the-beast-iii.json](./12221-shadow-of-the-beast-iii.json) |
 | Shadow of the Black Dragon | 88123 | [88123-shadow-of-the-black-dragon.json](./88123-shadow-of-the-black-dragon.json) |
 | Shadow of the Colossus | 139896 | [139896-shadow-of-the-colossus.json](./139896-shadow-of-the-colossus.json) |
+| Shadow of the Colossus: Limited Edition | 43387 | [43387-shadow-of-the-colossus-limited-edition.json](./43387-shadow-of-the-colossus-limited-edition.json) |
 | Shadow of the Colossus: Special Edition | 52192 | [52192-shadow-of-the-colossus-special-edition.json](./52192-shadow-of-the-colossus-special-edition.json) |
 | Shadow of the Curse-Eater | 285528 | [285528-shadow-of-the-curse-eater.json](./285528-shadow-of-the-curse-eater.json) |
 | Shadow of the Depth | 273428 | [273428-shadow-of-the-depth.json](./273428-shadow-of-the-depth.json) |
@@ -8541,6 +8544,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shikigami | 181499 | [181499-shikigami.json](./181499-shikigami.json) |
 | Shikigami No Shiro Evolution | 281464 | [281464-shikigami-no-shiro-evolution.json](./281464-shikigami-no-shiro-evolution.json) |
 | Shikigami no Shiro EX & II Pack | 64332 | [64332-shikigami-no-shiro-ex-and-ii-pack.json](./64332-shikigami-no-shiro-ex-and-ii-pack.json) |
+| Shikigami no Shiro: Nanayozuki Gensoukyoku | 43419 | [43419-shikigami-no-shiro-nanayozuki-gensoukyoku.json](./43419-shikigami-no-shiro-nanayozuki-gensoukyoku.json) |
 | Shikinjoh | 231545 | [231545-shikinjoh.json](./231545-shikinjoh.json) |
 | Shikinjoh | 46308 | [46308-shikinjoh.json](./46308-shikinjoh.json) |
 | Shikinjou | 231346 | [231346-shikinjou.json](./231346-shikinjou.json) |
@@ -9526,6 +9530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Love 20XX | 53593 | [53593-shooting-love-20xx.json](./53593-shooting-love-20xx.json) |
 | Shooting Love Trilogy | 59301 | [59301-shooting-love-trilogy.json](./59301-shooting-love-trilogy.json) |
 | Shooting Love, 200X | 7187 | [7187-shooting-love-200x.json](./7187-shooting-love-200x.json) |
+| Shooting Love: Trizeal | 43415 | [43415-shooting-love-trizeal.json](./43415-shooting-love-trizeal.json) |
 | Shooting Love. 10-shuunen | 268857 | [268857-shooting-love-10-shuunen.json](./268857-shooting-love-10-shuunen.json) |
 | Shooting Love. 2007 | 83422 | [83422-shooting-love-2007.json](./83422-shooting-love-2007.json) |
 | Shooting Master | 366914 | [366914-shooting-master.json](./366914-shooting-master.json) |
@@ -9724,6 +9729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Short Stax | 385853 | [385853-short-stax.json](./385853-short-stax.json) |
 | Short Stop | 131105 | [131105-short-stop.json](./131105-short-stop.json) |
 | Short Stories Collection of Class Tangerine | 55302 | [55302-short-stories-collection-of-class-tangerine.json](./55302-short-stories-collection-of-class-tangerine.json) |
+| Short Track Racing: Trading Paint | 43398 | [43398-short-track-racing-trading-paint.json](./43398-short-track-racing-trading-paint.json) |
 | Short Trip | 324905 | [324905-short-trip.json](./324905-short-trip.json) |
 | Short Warp | 92215 | [92215-short-warp.json](./92215-short-warp.json) |
 | Short Warp: Deep Space Bounty | 261832 | [261832-short-warp-deep-space-bounty.json](./261832-short-warp-deep-space-bounty.json) |
@@ -14266,6 +14272,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slime Well | 362787 | [362787-slime-well.json](./362787-slime-well.json) |
 | Slime World | 41999 | [41999-slime-world.json](./41999-slime-world.json) |
 | Slime-ing | 245728 | [245728-slime-ing.json](./245728-slime-ing.json) |
+| Slime-san: Blackbird's Kraken | 43363 | [43363-slime-san-blackbirds-kraken.json](./43363-slime-san-blackbirds-kraken.json) |
 | Slime-san: Content Creator | 112734 | [112734-slime-san-content-creator.json](./112734-slime-san-content-creator.json) |
 | Slime-san: Creator | 113302 | [113302-slime-san-creator.json](./113302-slime-san-creator.json) |
 | Slime-san: Sheeple's Sequel | 83993 | [83993-slime-san-sheeples-sequel.json](./83993-slime-san-sheeples-sequel.json) |
@@ -21677,7 +21684,9 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Spectral Force | 61257 | [61257-spectral-force.json](./61257-spectral-force.json) |
 | Spectral Force 2 | 80134 | [80134-spectral-force-2.json](./80134-spectral-force-2.json) |
 | Spectral Force 3 | 21339 | [21339-spectral-force-3.json](./21339-spectral-force-3.json) |
+| Spectral Force Chronicle | 43414 | [43414-spectral-force-chronicle.json](./43414-spectral-force-chronicle.json) |
 | Spectral Force Genesis | 21090 | [21090-spectral-force-genesis.json](./21090-spectral-force-genesis.json) |
+| Spectral Force: Radical Elements | 43413 | [43413-spectral-force-radical-elements.json](./43413-spectral-force-radical-elements.json) |
 | Spectral Gene | 44671 | [44671-spectral-gene.json](./44671-spectral-gene.json) |
 | Spectral Invaders | 45311 | [45311-spectral-invaders.json](./45311-spectral-invaders.json) |
 | Spectral Keep | 258557 | [258557-spectral-keep.json](./258557-spectral-keep.json) |
@@ -31385,6 +31394,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sunny Cafe | 154353 | [154353-sunny-cafe.json](./154353-sunny-cafe.json) |
 | Sunny Day Sky | 397853 | [397853-sunny-day-sky.json](./397853-sunny-day-sky.json) |
 | Sunny Fairy | 151678 | [151678-sunny-fairy.json](./151678-sunny-fairy.json) |
+| Sunny Garcia Surfing | 43386 | [43386-sunny-garcia-surfing.json](./43386-sunny-garcia-surfing.json) |
 | Sunny Girl | 252265 | [252265-sunny-girl.json](./252265-sunny-girl.json) |
 | Sunny Grove | 204125 | [204125-sunny-grove.json](./204125-sunny-grove.json) |
 | Sunny Hillride | 10931 | [10931-sunny-hillride.json](./10931-sunny-hillride.json) |
