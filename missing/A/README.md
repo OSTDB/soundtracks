@@ -3797,6 +3797,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Adventure Seekers: Lost to Sea | 416495 | [416495-adventure-seekers-lost-to-sea.json](./416495-adventure-seekers-lost-to-sea.json) |
 | Adventure Seekers: Lost to Sea - Collector's Edition | 379486 | [379486-adventure-seekers-lost-to-sea-collectors-edition.json](./379486-adventure-seekers-lost-to-sea-collectors-edition.json) |
 | Adventure Series | 80367 | [80367-adventure-series.json](./80367-adventure-series.json) |
+| Adventure Series 13+ | 69247 | [69247-adventure-series-13.json](./69247-adventure-series-13.json) |
 | Adventure Sketchers: Draw, Play, Create | 230338 | [230338-adventure-sketchers-draw-play-create.json](./230338-adventure-sketchers-draw-play-create.json) |
 | Adventure Slime | 122073 | [122073-adventure-slime.json](./122073-adventure-slime.json) |
 | Adventure Slots HD: Titan's of Las Vegas Fortune Casino | 232266 | [232266-adventure-slots-hd-titans-of-las-vegas-fortune-casino.json](./232266-adventure-slots-hd-titans-of-las-vegas-fortune-casino.json) |
@@ -12476,6 +12477,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | AquaVista | 393752 | [393752-aquavista.json](./393752-aquavista.json) |
 | Aquazone Desktop Life | 45429 | [45429-aquazone-desktop-life.json](./45429-aquazone-desktop-life.json) |
 | AquaZone: Life Simulator | 5488 | [5488-aquazone-life-simulator.json](./5488-aquazone-life-simulator.json) |
+| Aqueducts | 69324 | [69324-aqueducts.json](./69324-aqueducts.json) |
 | Aquelarre | 303340 | [303340-aquelarre.json](./303340-aquelarre.json) |
 | Aquila Bird Flight Simulator | 29689 | [29689-aquila-bird-flight-simulator.json](./29689-aquila-bird-flight-simulator.json) |
 | Aquillanto | 153334 | [153334-aquillanto.json](./153334-aquillanto.json) |
