@@ -5905,6 +5905,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Phonetic | 193647 | [193647-phonetic.json](./193647-phonetic.json) |
 | Phonics de Minitsuku | 79088 | [79088-phonics-de-minitsuku.json](./79088-phonics-de-minitsuku.json) |
 | Phonics Fun with Biff, Chip & Kipper Vol. 1 | 61657 | [61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json](./61657-phonics-fun-with-biff-chip-and-kipper-vol-1.json) |
+| Phonics Fun with Biff, Chip & Kipper Vol. 2 | 61186 | [61186-phonics-fun-with-biff-chip-and-kipper-vol-2.json](./61186-phonics-fun-with-biff-chip-and-kipper-vol-2.json) |
+| Phonics Fun with Biff, Chip & Kipper Vol. 3 | 61187 | [61187-phonics-fun-with-biff-chip-and-kipper-vol-3.json](./61187-phonics-fun-with-biff-chip-and-kipper-vol-3.json) |
 | Phonics-Diagraphsgame | 96535 | [96535-phonics-diagraphsgame.json](./96535-phonics-diagraphsgame.json) |
 | Phonics-Letter Sound flashcards | 102646 | [102646-phonics-letter-sound-flashcards.json](./102646-phonics-letter-sound-flashcards.json) |
 | Phonics: Lesson One | 230445 | [230445-phonics-lesson-one.json](./230445-phonics-lesson-one.json) |
@@ -18201,6 +18203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puppy Park | 392208 | [392208-puppy-park.json](./392208-puppy-park.json) |
 | Puppy Paw Match | 416507 | [416507-puppy-paw-match.json](./416507-puppy-paw-match.json) |
 | Puppy Pipy | 151149 | [151149-puppy-pipy.json](./151149-puppy-pipy.json) |
+| Puppy Sanctuary | 61215 | [61215-puppy-sanctuary.json](./61215-puppy-sanctuary.json) |
 | Puppy Shelter | 207140 | [207140-puppy-shelter.json](./207140-puppy-shelter.json) |
 | Puppy Truck | 411658 | [411658-puppy-truck.json](./411658-puppy-truck.json) |
 | Puppycraft: Maze | 341433 | [341433-puppycraft-maze.json](./341433-puppycraft-maze.json) |
@@ -18687,6 +18690,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Puzslot | 267755 | [267755-puzslot.json](./267755-puzslot.json) |
 | Puztrix | 315769 | [315769-puztrix.json](./315769-puztrix.json) |
 | Puztrix | 318886 | [318886-puztrix.json](./318886-puztrix.json) |
+| Puzz 3D: Neuschwanstein Bavarian Castle | 61184 | [61184-puzz-3d-neuschwanstein-bavarian-castle.json](./61184-puzz-3d-neuschwanstein-bavarian-castle.json) |
+| Puzz 3D: Notre Dame Cathedral | 61183 | [61183-puzz-3d-notre-dame-cathedral.json](./61183-puzz-3d-notre-dame-cathedral.json) |
 | Puzz 3D: The Orient Express | 70932 | [70932-puzz-3d-the-orient-express.json](./70932-puzz-3d-the-orient-express.json) |
 | Puzz 3D: Victorian Mansion | 65692 | [65692-puzz-3d-victorian-mansion.json](./65692-puzz-3d-victorian-mansion.json) |
 | Puzz Loop 2 | 39669 | [39669-puzz-loop-2.json](./39669-puzz-loop-2.json) |
