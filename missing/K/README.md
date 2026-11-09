@@ -241,6 +241,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaii Judge Labyrinth | 288431 | [288431-kaii-judge-labyrinth.json](./288431-kaii-judge-labyrinth.json) |
 | Kaiichi Otto-sensei Tokyo Daigaku Kanshuu: Suku-suku Kosodate DS - Akachan to Asobou! | 269632 | [269632-kaiichi-otto-sensei-tokyo-daigaku-kanshuu-suku-suku-kosodate-ds-akachan-to-asobou.json](./269632-kaiichi-otto-sensei-tokyo-daigaku-kanshuu-suku-suku-kosodate-ds-akachan-to-asobou.json) |
 | Kaiject | 409320 | [409320-kaiject.json](./409320-kaiject.json) |
+| Kaiji VR: The Nightmare Bridge | 28359 | [28359-kaiji-vr-the-nightmare-bridge.json](./28359-kaiji-vr-the-nightmare-bridge.json) |
 | Kaijin Zona | 59340 | [59340-kaijin-zona.json](./59340-kaijin-zona.json) |
 | Kaiju Attack | 194182 | [194182-kaiju-attack.json](./194182-kaiju-attack.json) |
 | Kaiju Big Battel: Fighto Fantasy | 29075 | [29075-kaiju-big-battel-fighto-fantasy.json](./29075-kaiju-big-battel-fighto-fantasy.json) |
@@ -2917,6 +2918,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -4407,6 +4409,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiziland | 403121 | [403121-kiziland.json](./403121-kiziland.json) |
 | Kizu Darake no Chou ga Tobu Toki | 422698 | [422698-kizu-darake-no-chou-ga-tobu-toki.json](./422698-kizu-darake-no-chou-ga-tobu-toki.json) |
 | Kizuchida Quiz da Gen-San Da! | 62597 | [62597-kizuchida-quiz-da-gen-san-da.json](./62597-kizuchida-quiz-da-gen-san-da.json) |
+| Kizumonogatari VR | 28367 | [28367-kizumonogatari-vr.json](./28367-kizumonogatari-vr.json) |
 | Kizuna AI: Touch the Beat! | 187869 | [187869-kizuna-ai-touch-the-beat.json](./187869-kizuna-ai-touch-the-beat.json) |
 | Kizuna Encounter: Super Tag Battle | 380124 | [380124-kizuna-encounter-super-tag-battle.json](./380124-kizuna-encounter-super-tag-battle.json) |
 | Kizuna Encounter: Super Tag Battle | 39530 | [39530-kizuna-encounter-super-tag-battle.json](./39530-kizuna-encounter-super-tag-battle.json) |
