@@ -3521,6 +3521,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Advanced Daisenryaku 98: Storm Over Europe | 60806 | [60806-advanced-daisenryaku-98-storm-over-europe.json](./60806-advanced-daisenryaku-98-storm-over-europe.json) |
 | Advanced Daisenryaku: Deutsch Dengeki Sakusen | 65524 | [65524-advanced-daisenryaku-deutsch-dengeki-sakusen.json](./65524-advanced-daisenryaku-deutsch-dengeki-sakusen.json) |
 | Advanced Daisenryaku: Europe no Arashi - Doitsu Dengeki Sakusen | 60804 | [60804-advanced-daisenryaku-europe-no-arashi-doitsu-dengeki-sakusen.json](./60804-advanced-daisenryaku-europe-no-arashi-doitsu-dengeki-sakusen.json) |
+| Advanced Destroyer Simulator | 40872 | [40872-advanced-destroyer-simulator.json](./40872-advanced-destroyer-simulator.json) |
 | Advanced DOS Quiz | 85928 | [85928-advanced-dos-quiz.json](./85928-advanced-dos-quiz.json) |
 | Advanced Dungeons & Dragons Cartridge | 5654 | [5654-advanced-dungeons-and-dragons-cartridge.json](./5654-advanced-dungeons-and-dragons-cartridge.json) |
 | Advanced Dungeons & Dragons Cartridge | 84251 | [84251-advanced-dungeons-and-dragons-cartridge.json](./84251-advanced-dungeons-and-dragons-cartridge.json) |
@@ -17352,7 +17353,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
