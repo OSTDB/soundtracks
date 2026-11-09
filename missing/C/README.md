@@ -300,6 +300,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caesars Palace: Black Jack | 218438 | [218438-caesars-palace-black-jack.json](./218438-caesars-palace-black-jack.json) |
 | Caesars Palace: Deluxe 5 in 1 | 198706 | [198706-caesars-palace-deluxe-5-in-1.json](./198706-caesars-palace-deluxe-5-in-1.json) |
 | Caesars Slots | 323094 | [323094-caesars-slots.json](./323094-caesars-slots.json) |
+| Cafe 0: Complete Bundle | 52694 | [52694-cafe-0-complete-bundle.json](./52694-cafe-0-complete-bundle.json) |
+| Cafe 0: The Sleeping Beast - Deluxe | 52693 | [52693-cafe-0-the-sleeping-beast-deluxe.json](./52693-cafe-0-the-sleeping-beast-deluxe.json) |
 | Café 0: The Sleeping Beast - Remastered | 226278 | [226278-cafe-0-the-sleeping-beast-remastered.json](./226278-cafe-0-the-sleeping-beast-remastered.json) |
 | Cafe Battle | 240844 | [240844-cafe-battle.json](./240844-cafe-battle.json) |
 | Café Bouvardie | 225269 | [225269-cafe-bouvardie.json](./225269-cafe-bouvardie.json) |
@@ -1168,6 +1170,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camping Cat Family | 219775 | [219775-camping-cat-family.json](./219775-camping-cat-family.json) |
 | Camping Keeper | 412062 | [412062-camping-keeper.json](./412062-camping-keeper.json) |
 | Camping Mama: Outdoor Adventures | 47942 | [47942-camping-mama-outdoor-adventures.json](./47942-camping-mama-outdoor-adventures.json) |
+| Camping Manager 2012 | 52486 | [52486-camping-manager-2012.json](./52486-camping-manager-2012.json) |
 | Camping Park Simulator | 249079 | [249079-camping-park-simulator.json](./249079-camping-park-simulator.json) |
 | Camping Resort Simulator | 423404 | [423404-camping-resort-simulator.json](./423404-camping-resort-simulator.json) |
 | Camping Simulator: The Squad | 150072 | [150072-camping-simulator-the-squad.json](./150072-camping-simulator-the-squad.json) |
@@ -2242,8 +2245,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Mechanic Simulator 2015: DeLorean | 152589 | [152589-car-mechanic-simulator-2015-delorean.json](./152589-car-mechanic-simulator-2015-delorean.json) |
 | Car Mechanic Simulator 2015: Gold Edition | 24753 | [24753-car-mechanic-simulator-2015-gold-edition.json](./24753-car-mechanic-simulator-2015-gold-edition.json) |
 | Car Mechanic Simulator 2015: Maserati | 152587 | [152587-car-mechanic-simulator-2015-maserati.json](./152587-car-mechanic-simulator-2015-maserati.json) |
+| Car Mechanic Simulator 2015: Mercedes-Benz | 52712 | [52712-car-mechanic-simulator-2015-mercedes-benz.json](./52712-car-mechanic-simulator-2015-mercedes-benz.json) |
 | Car Mechanic Simulator 2015: Performance | 152586 | [152586-car-mechanic-simulator-2015-performance.json](./152586-car-mechanic-simulator-2015-performance.json) |
 | Car Mechanic Simulator 2015: PickUp & SUV | 152593 | [152593-car-mechanic-simulator-2015-pickup-and-suv.json](./152593-car-mechanic-simulator-2015-pickup-and-suv.json) |
+| Car Mechanic Simulator 2015: Platinum Edition | 52711 | [52711-car-mechanic-simulator-2015-platinum-edition.json](./52711-car-mechanic-simulator-2015-platinum-edition.json) |
 | Car Mechanic Simulator 2015: Total Modifications | 152588 | [152588-car-mechanic-simulator-2015-total-modifications.json](./152588-car-mechanic-simulator-2015-total-modifications.json) |
 | Car Mechanic Simulator 2015: Trader Pack | 152584 | [152584-car-mechanic-simulator-2015-trader-pack.json](./152584-car-mechanic-simulator-2015-trader-pack.json) |
 | Car Mechanic Simulator 2015: Visual Tuning | 152592 | [152592-car-mechanic-simulator-2015-visual-tuning.json](./152592-car-mechanic-simulator-2015-visual-tuning.json) |
@@ -2353,6 +2358,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Car Town | 78819 | [78819-car-town.json](./78819-car-town.json) |
 | Car Trader Simulator | 81162 | [81162-car-trader-simulator.json](./81162-car-trader-simulator.json) |
 | Car Trader Simulator: Welcome to the Business | 171384 | [171384-car-trader-simulator-welcome-to-the-business.json](./171384-car-trader-simulator-welcome-to-the-business.json) |
+| Car Transport Simulator | 52485 | [52485-car-transport-simulator.json](./52485-car-transport-simulator.json) |
 | Car Tuner 2020 | 129206 | [129206-car-tuner-2020.json](./129206-car-tuner-2020.json) |
 | Car Tuning Garage Simulator | 364143 | [364143-car-tuning-garage-simulator.json](./364143-car-tuning-garage-simulator.json) |
 | Car Tuning Simulator | 188160 | [188160-car-tuning-simulator.json](./188160-car-tuning-simulator.json) |
@@ -5455,6 +5461,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cell | 86632 | [86632-cell.json](./86632-cell.json) |
 | Cell 0 | 420198 | [420198-cell-0.json](./420198-cell-0.json) |
 | CELL 0: Cyber Entertainment Leisure Lounge | 326756 | [326756-cell-0-cyber-entertainment-leisure-lounge.json](./326756-cell-0-cyber-entertainment-leisure-lounge.json) |
+| Cell 13 | 52710 | [52710-cell-13.json](./52710-cell-13.json) |
 | Cell Bound | 254495 | [254495-cell-bound.json](./254495-cell-bound.json) |
 | Cell Clone Wars | 344667 | [344667-cell-clone-wars.json](./344667-cell-clone-wars.json) |
 | Cell Command | 323507 | [323507-cell-command.json](./323507-cell-command.json) |
@@ -5842,6 +5849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chainsaw Maniac | 289402 | [289402-chainsaw-maniac.json](./289402-chainsaw-maniac.json) |
 | Chainsaw Snuff Shots | 349477 | [349477-chainsaw-snuff-shots.json](./349477-chainsaw-snuff-shots.json) |
 | Chainsaw Warrior: Lords of the Night | 17543 | [17543-chainsaw-warrior-lords-of-the-night.json](./17543-chainsaw-warrior-lords-of-the-night.json) |
+| Chainsaw Warrior: Total Darkness Edition | 52709 | [52709-chainsaw-warrior-total-darkness-edition.json](./52709-chainsaw-warrior-total-darkness-edition.json) |
 | ChainSki | 215505 | [215505-chainski.json](./215505-chainski.json) |
 | ChainStaff | 304750 | [304750-chainstaff.json](./304750-chainstaff.json) |
 | Chainworm Kommando | 257350 | [257350-chainworm-kommando.json](./257350-chainworm-kommando.json) |
@@ -6470,6 +6478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Charlotte's Web | 248749 | [248749-charlottes-web.json](./248749-charlottes-web.json) |
 | Charlotte's Web | 6346 | [6346-charlottes-web.json](./6346-charlottes-web.json) |
 | Charlotte's Web: Wilbur and Friends | 71015 | [71015-charlottes-web-wilbur-and-friends.json](./71015-charlottes-web-wilbur-and-friends.json) |
+| Charlotte's Web: Word Rescue | 52707 | [52707-charlottes-web-word-rescue.json](./52707-charlottes-web-word-rescue.json) |
 | Charly Diams | 39114 | [39114-charly-diams.json](./39114-charly-diams.json) |
 | Charly the Clown | 66339 | [66339-charly-the-clown.json](./66339-charly-the-clown.json) |
 | Charm | 187653 | [187653-charm.json](./187653-charm.json) |
@@ -6677,6 +6686,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Check Mate | 79454 | [79454-check-mate.json](./79454-check-mate.json) |
 | Check Mii Out Channel | 139041 | [139041-check-mii-out-channel.json](./139041-check-mii-out-channel.json) |
 | Check the Room 13 | 252025 | [252025-check-the-room-13.json](./252025-check-the-room-13.json) |
+| Check vs Mate: Grandmaster Edition | 52706 | [52706-check-vs-mate-grandmaster-edition.json](./52706-check-vs-mate-grandmaster-edition.json) |
 | Check vs. Mate | 52496 | [52496-check-vs-mate.json](./52496-check-vs-mate.json) |
 | Check vs. Mate: Dark Desert DLC | 142983 | [142983-check-vs-mate-dark-desert-dlc.json](./142983-check-vs-mate-dark-desert-dlc.json) |
 | Check vs. Mate: Floating Island DLC | 142984 | [142984-check-vs-mate-floating-island-dlc.json](./142984-check-vs-mate-floating-island-dlc.json) |
@@ -7418,14 +7428,20 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chicken in the Darkness | 110341 | [110341-chicken-in-the-darkness.json](./110341-chicken-in-the-darkness.json) |
 | Chicken in the Henhouse | 199362 | [199362-chicken-in-the-henhouse.json](./199362-chicken-in-the-henhouse.json) |
 | Chicken Invaders | 11713 | [11713-chicken-invaders.json](./11713-chicken-invaders.json) |
+| Chicken Invaders 2 Deluxe | 52704 | [52704-chicken-invaders-2-deluxe.json](./52704-chicken-invaders-2-deluxe.json) |
 | Chicken Invaders 2 Xmas | 99974 | [99974-chicken-invaders-2-xmas.json](./99974-chicken-invaders-2-xmas.json) |
 | Chicken Invaders 2: Christmas Edition | 79049 | [79049-chicken-invaders-2-christmas-edition.json](./79049-chicken-invaders-2-christmas-edition.json) |
 | Chicken Invaders 2: The Next Wave | 11714 | [11714-chicken-invaders-2-the-next-wave.json](./11714-chicken-invaders-2-the-next-wave.json) |
+| Chicken Invaders 3 Deluxe | 52702 | [52702-chicken-invaders-3-deluxe.json](./52702-chicken-invaders-3-deluxe.json) |
 | Chicken Invaders 3 Xmas | 89285 | [89285-chicken-invaders-3-xmas.json](./89285-chicken-invaders-3-xmas.json) |
 | Chicken Invaders 3: Easter Edition | 155576 | [155576-chicken-invaders-3-easter-edition.json](./155576-chicken-invaders-3-easter-edition.json) |
 | Chicken Invaders 3: Revenge of the Yolk | 35031 | [35031-chicken-invaders-3-revenge-of-the-yolk.json](./35031-chicken-invaders-3-revenge-of-the-yolk.json) |
+| Chicken Invaders 3: Revenge of the Yolk - Christmas Edition | 52703 | [52703-chicken-invaders-3-revenge-of-the-yolk-christmas-edition.json](./52703-chicken-invaders-3-revenge-of-the-yolk-christmas-edition.json) |
 | Chicken Invaders 4 | 36308 | [36308-chicken-invaders-4.json](./36308-chicken-invaders-4.json) |
+| Chicken Invaders 4 Deluxe | 52699 | [52699-chicken-invaders-4-deluxe.json](./52699-chicken-invaders-4-deluxe.json) |
+| Chicken Invaders 4: Christmas Edition | 52701 | [52701-chicken-invaders-4-christmas-edition.json](./52701-chicken-invaders-4-christmas-edition.json) |
 | Chicken Invaders 4: Easter Edition | 170138 | [170138-chicken-invaders-4-easter-edition.json](./170138-chicken-invaders-4-easter-edition.json) |
+| Chicken Invaders 4: Thanksgiving Edition | 52700 | [52700-chicken-invaders-4-thanksgiving-edition.json](./52700-chicken-invaders-4-thanksgiving-edition.json) |
 | Chicken Invaders 4: Ultimate Omelette | 11716 | [11716-chicken-invaders-4-ultimate-omelette.json](./11716-chicken-invaders-4-ultimate-omelette.json) |
 | Chicken Invaders 5 Deluxe | 52743 | [52743-chicken-invaders-5-deluxe.json](./52743-chicken-invaders-5-deluxe.json) |
 | Chicken Invaders 5: Christmas Edition | 108464 | [108464-chicken-invaders-5-christmas-edition.json](./108464-chicken-invaders-5-christmas-edition.json) |
