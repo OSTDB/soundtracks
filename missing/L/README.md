@@ -2920,6 +2920,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends Core Plus | 231401 | [231401-legends-core-plus.json](./231401-legends-core-plus.json) |
 | Legends Esport Manager | 348765 | [348765-legends-esport-manager.json](./348765-legends-esport-manager.json) |
 | Legends Flashback Blast! | 245653 | [245653-legends-flashback-blast.json](./245653-legends-flashback-blast.json) |
+| Legends Football '98 | 62297 | [62297-legends-football-98.json](./62297-legends-football-98.json) |
 | Legends from Lacoytas: The First Seeker | 201556 | [201556-legends-from-lacoytas-the-first-seeker.json](./201556-legends-from-lacoytas-the-first-seeker.json) |
 | Legends Mod | 233842 | [233842-legends-mod.json](./233842-legends-mod.json) |
 | Legends of 100 Heroes | 174669 | [174669-legends-of-100-heroes.json](./174669-legends-of-100-heroes.json) |
@@ -3041,6 +3042,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legends of Yore | 50476 | [50476-legends-of-yore.json](./50476-legends-of-yore.json) |
 | Legends of Zork | 69302 | [69302-legends-of-zork.json](./69302-legends-of-zork.json) |
 | Legends Scrolls | 247215 | [247215-legends-scrolls.json](./247215-legends-scrolls.json) |
+| Legends: Rise of a Hero | 62312 | [62312-legends-rise-of-a-hero.json](./62312-legends-rise-of-a-hero.json) |
 | Legends: Saint George | 349812 | [349812-legends-saint-george.json](./349812-legends-saint-george.json) |
 | Legendum | 395385 | [395385-legendum.json](./395385-legendum.json) |
 | Legendz: Sign of Necrom | 49667 | [49667-legendz-sign-of-necrom.json](./49667-legendz-sign-of-necrom.json) |
