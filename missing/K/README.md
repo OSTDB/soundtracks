@@ -1467,6 +1467,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kazakh ' Jack | 144941 | [144941-kazakh-jack.json](./144941-kazakh-jack.json) |
 | Kazakh Drive | 138419 | [138419-kazakh-drive.json](./138419-kazakh-drive.json) |
 | Kazarma | 121251 | [121251-kazarma.json](./121251-kazarma.json) |
+| Kaze and the Wild Masks | 79802 | [79802-kaze-and-the-wild-masks.json](./79802-kaze-and-the-wild-masks.json) |
 | Kaze Kiri: Ninja Action | 37612 | [37612-kaze-kiri-ninja-action.json](./37612-kaze-kiri-ninja-action.json) |
 | Kaze no Keishousha | 408763 | [408763-kaze-no-keishousha.json](./408763-kaze-no-keishousha.json) |
 | Kaze no Klonoa: Moonlight Museum | 37499 | [37499-kaze-no-klonoa-moonlight-museum.json](./37499-kaze-no-klonoa-moonlight-museum.json) |
@@ -2291,6 +2292,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kickster Online Street Soccer | 72654 | [72654-kickster-online-street-soccer.json](./72654-kickster-online-street-soccer.json) |
 | KickUp King | 245325 | [245325-kickup-king.json](./245325-kickup-king.json) |
 | Kid 4 $29.99 | 141871 | [141871-kid-4-29-99.json](./141871-kid-4-29-99.json) |
+| Kid A Mnesia Exhibition | 180960 | [180960-kid-a-mnesia-exhibition.json](./180960-kid-a-mnesia-exhibition.json) |
 | Kid Adventures: Sky Captain | 23644 | [23644-kid-adventures-sky-captain.json](./23644-kid-adventures-sky-captain.json) |
 | Kid Ball Adventure | 212274 | [212274-kid-ball-adventure.json](./212274-kid-ball-adventure.json) |
 | Kid Blocks | 340971 | [340971-kid-blocks.json](./340971-kid-blocks.json) |
