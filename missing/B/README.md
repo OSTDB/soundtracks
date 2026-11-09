@@ -995,6 +995,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -10618,6 +10619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Blinky: Rise to the Top | 113409 | [113409-blinky-rise-to-the-top.json](./113409-blinky-rise-to-the-top.json) |
 | Blinky's Adventure | 367949 | [367949-blinkys-adventure.json](./367949-blinkys-adventure.json) |
 | Blinky's Revenge | 338832 | [338832-blinkys-revenge.json](./338832-blinkys-revenge.json) |
+| Blinky's Scary School | 12498 | [12498-blinkys-scary-school.json](./12498-blinkys-scary-school.json) |
 | Blinx 2: Masters of Time and Space | 5752 | [5752-blinx-2-masters-of-time-and-space.json](./5752-blinx-2-masters-of-time-and-space.json) |
 | Blip | 92920 | [92920-blip.json](./92920-blip.json) |
 | Blip & Blop: Balls of Steel | 50127 | [50127-blip-and-blop-balls-of-steel.json](./50127-blip-and-blop-balls-of-steel.json) |
@@ -16522,6 +16524,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brocula | 139651 | [139651-brocula.json](./139651-brocula.json) |
 | Brødrene Mortensens Jul | 129815 | [129815-br-drene-mortensens-jul.json](./129815-br-drene-mortensens-jul.json) |
 | Broghurt | 345229 | [345229-broghurt.json](./345229-broghurt.json) |
+| Brogue | 12516 | [12516-brogue.json](./12516-brogue.json) |
 | Broil My Buns | 178800 | [178800-broil-my-buns.json](./178800-broil-my-buns.json) |
 | Broilers | 218673 | [218673-broilers.json](./218673-broilers.json) |
 | Brok Complete Bundle | 384200 | [384200-brok-complete-bundle.json](./384200-brok-complete-bundle.json) |
