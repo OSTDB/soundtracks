@@ -7184,6 +7184,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chess+ | 102828 | [102828-chess.json](./102828-chess.json) |
 | Chess++ | 163679 | [163679-chess.json](./163679-chess.json) |
 | Chess10 | 337544 | [337544-chess10.json](./337544-chess10.json) |
+| Chess3D | 29355 | [29355-chess3d.json](./29355-chess3d.json) |
 | Chess88 | 92998 | [92998-chess88.json](./92998-chess88.json) |
 | Chessality | 149723 | [149723-chessality.json](./149723-chessality.json) |
 | Chessamphetamine | 408942 | [408942-chessamphetamine.json](./408942-chessamphetamine.json) |
@@ -14660,6 +14661,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Contract Wars | 77472 | [77472-contract-wars.json](./77472-contract-wars.json) |
 | Contract with the Devil | 34285 | [34285-contract-with-the-devil.json](./34285-contract-with-the-devil.json) |
 | Contract Work | 126513 | [126513-contract-work.json](./126513-contract-work.json) |
+| Contracted | 29363 | [29363-contracted.json](./29363-contracted.json) |
 | Contractor | 235980 | [235980-contractor.json](./235980-contractor.json) |
 | Contractors | 123603 | [123603-contractors.json](./123603-contractors.json) |
 | Contractors Showdown | 253177 | [253177-contractors-showdown.json](./253177-contractors-showdown.json) |
