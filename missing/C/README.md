@@ -1519,6 +1519,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cannon Army | 152349 | [152349-cannon-army.json](./152349-cannon-army.json) |
 | Cannon Ball | 366921 | [366921-cannon-ball.json](./366921-cannon-ball.json) |
 | Cannon Ball | 95431 | [95431-cannon-ball.json](./95431-cannon-ball.json) |
+| Cannon Ball II | 63991 | [63991-cannon-ball-ii.json](./63991-cannon-ball-ii.json) |
 | Cannon Balloon Party | 401379 | [401379-cannon-balloon-party.json](./401379-cannon-balloon-party.json) |
 | Cannon Basket HD | 232177 | [232177-cannon-basket-hd.json](./232177-cannon-basket-hd.json) |
 | Cannon Bird 3 | 325560 | [325560-cannon-bird-3.json](./325560-cannon-bird-3.json) |
@@ -15646,6 +15647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cosmic Monsters | 281285 | [281285-cosmic-monsters.json](./281285-cosmic-monsters.json) |
 | Cosmic Monsters 2 Enclaves Dawn | 195264 | [195264-cosmic-monsters-2-enclaves-dawn.json](./195264-cosmic-monsters-2-enclaves-dawn.json) |
 | Cosmic Osmo and the Worlds Beyond the Mackerel | 16200 | [16200-cosmic-osmo-and-the-worlds-beyond-the-mackerel.json](./16200-cosmic-osmo-and-the-worlds-beyond-the-mackerel.json) |
+| Cosmic Osmo's Hex Isle | 63909 | [63909-cosmic-osmos-hex-isle.json](./63909-cosmic-osmos-hex-isle.json) |
 | Cosmic Outpost | 303738 | [303738-cosmic-outpost.json](./303738-cosmic-outpost.json) |
 | Cosmic Overdrive | 237160 | [237160-cosmic-overdrive.json](./237160-cosmic-overdrive.json) |
 | Cosmic Panic | 267726 | [267726-cosmic-panic.json](./267726-cosmic-panic.json) |
@@ -18784,6 +18786,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crown of Chaos | 335382 | [335382-crown-of-chaos.json](./335382-crown-of-chaos.json) |
 | Crown of Empire | 224068 | [224068-crown-of-empire.json](./224068-crown-of-empire.json) |
 | Crown of Exile | 328346 | [328346-crown-of-exile.json](./328346-crown-of-exile.json) |
+| Crown of Glory: Europe in the Age of Napoleon | 63996 | [63996-crown-of-glory-europe-in-the-age-of-napoleon.json](./63996-crown-of-glory-europe-in-the-age-of-napoleon.json) |
 | Crown of Greed | 216725 | [216725-crown-of-greed.json](./216725-crown-of-greed.json) |
 | Crown of Hispania | 403203 | [403203-crown-of-hispania.json](./403203-crown-of-hispania.json) |
 | Crown of Light | 249846 | [249846-crown-of-light.json](./249846-crown-of-light.json) |
