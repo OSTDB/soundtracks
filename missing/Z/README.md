@@ -779,6 +779,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zendar | 287155 | [287155-zendar.json](./287155-zendar.json) |
 | Zenden | 417938 | [417938-zenden.json](./417938-zenden.json) |
 | Zendoku | 21430 | [21430-zendoku.json](./21430-zendoku.json) |
+| Zendoku Battle Action Sudoku | 42721 | [42721-zendoku-battle-action-sudoku.json](./42721-zendoku-battle-action-sudoku.json) |
 | ZenDots 2: One Dot's Journey | 256157 | [256157-zendots-2-one-dots-journey.json](./256157-zendots-2-one-dots-journey.json) |
 | Zenduko | 64220 | [64220-zenduko.json](./64220-zenduko.json) |
 | Zenerchi | 16075 | [16075-zenerchi.json](./16075-zenerchi.json) |
