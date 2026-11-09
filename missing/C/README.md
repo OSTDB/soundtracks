@@ -1894,6 +1894,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Captain CoinCoin | 289281 | [289281-captain-coincoin.json](./289281-captain-coincoin.json) |
 | Captain Collision | 165748 | [165748-captain-collision.json](./165748-captain-collision.json) |
 | Captain Comet | 400453 | [400453-captain-comet.json](./400453-captain-comet.json) |
+| Captain Comic II: Fractured Reality | 73956 | [73956-captain-comic-ii-fractured-reality.json](./73956-captain-comic-ii-fractured-reality.json) |
 | Captain Comic: The Adventure | 48110 | [48110-captain-comic-the-adventure.json](./48110-captain-comic-the-adventure.json) |
 | Captain Commander | 396965 | [396965-captain-commander.json](./396965-captain-commander.json) |
 | Captain Commander's Conquest | 366566 | [366566-captain-commanders-conquest.json](./366566-captain-commanders-conquest.json) |
@@ -3683,6 +3684,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castle Karthenfrost | 308385 | [308385-castle-karthenfrost.json](./308385-castle-karthenfrost.json) |
 | Castle Kellmore | 342814 | [342814-castle-kellmore.json](./342814-castle-kellmore.json) |
 | Castle Kingdom Wars | 238490 | [238490-castle-kingdom-wars.json](./238490-castle-kingdom-wars.json) |
+| Castle Kingdoms | 73954 | [73954-castle-kingdoms.json](./73954-castle-kingdoms.json) |
 | Castle Kong | 122786 | [122786-castle-kong.json](./122786-castle-kong.json) |
 | Castle Line Wars | 235025 | [235025-castle-line-wars.json](./235025-castle-line-wars.json) |
 | Castle Master | 11994 | [11994-castle-master.json](./11994-castle-master.json) |
@@ -12985,6 +12987,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Combat Chess | 11277 | [11277-combat-chess.json](./11277-combat-chess.json) |
 | Combat Choro Q | 97362 | [97362-combat-choro-q.json](./97362-combat-choro-q.json) |
 | Combat Command | 139426 | [139426-combat-command.json](./139426-combat-command.json) |
+| Combat Command 2: Danger Forward | 73950 | [73950-combat-command-2-danger-forward.json](./73950-combat-command-2-danger-forward.json) |
 | Combat Command: Matrix Edition | 123421 | [123421-combat-command-matrix-edition.json](./123421-combat-command-matrix-edition.json) |
 | Combat Complex | 217287 | [217287-combat-complex.json](./217287-combat-complex.json) |
 | Combat Core | 26545 | [26545-combat-core.json](./26545-combat-core.json) |
