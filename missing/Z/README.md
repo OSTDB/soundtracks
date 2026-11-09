@@ -1192,6 +1192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Zhu Zhu Pets | 9168 | [9168-zhu-zhu-pets.json](./9168-zhu-zhu-pets.json) |
 | Zhu Zhu Pets 2: The Wild Bunch | 47878 | [47878-zhu-zhu-pets-2-the-wild-bunch.json](./47878-zhu-zhu-pets-2-the-wild-bunch.json) |
 | Zhu Zhu Pets: Quest for Zhu | 122524 | [122524-zhu-zhu-pets-quest-for-zhu.json](./122524-zhu-zhu-pets-quest-for-zhu.json) |
+| Zhu Zhu Puppies | 60178 | [60178-zhu-zhu-puppies.json](./60178-zhu-zhu-puppies.json) |
 | Zhuishu | 330653 | [330653-zhuishu.json](./330653-zhuishu.json) |
 | Zhulik.exe | 81770 | [81770-zhulik-exe.json](./81770-zhulik-exe.json) |
 | Zhúlù Hàn Mò | 373690 | [373690-zhulu-han-mo.json](./373690-zhulu-han-mo.json) |
