@@ -1721,6 +1721,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sangeki wo Kuzuse! | 97674 | [97674-sangeki-wo-kuzuse.json](./97674-sangeki-wo-kuzuse.json) |
 | Sangi | 272589 | [272589-sangi.json](./272589-sangi.json) |
 | Sango 2 | 24748 | [24748-sango-2.json](./24748-sango-2.json) |
+| Sango Fighter | 46932 | [46932-sango-fighter.json](./46932-sango-fighter.json) |
+| Sango Fighter 2 | 46931 | [46931-sango-fighter-2.json](./46931-sango-fighter-2.json) |
 | Sango Guardian Chaos Generation Steamedition | 52064 | [52064-sango-guardian-chaos-generation-steamedition.json](./52064-sango-guardian-chaos-generation-steamedition.json) |
 | Sangoku Heroes | 69253 | [69253-sangoku-heroes.json](./69253-sangoku-heroes.json) |
 | Sangoku Hime 2 | 63301 | [63301-sangoku-hime-2.json](./63301-sangoku-hime-2.json) |
@@ -2367,6 +2369,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Savage Steel | 149179 | [149179-savage-steel.json](./149179-savage-steel.json) |
 | Savage Tower Defense | 158715 | [158715-savage-tower-defense.json](./158715-savage-tower-defense.json) |
 | Savage Turret | 248074 | [248074-savage-turret.json](./248074-savage-turret.json) |
+| Savage Warriors | 46929 | [46929-savage-warriors.json](./46929-savage-warriors.json) |
 | Savage Worlds | 58078 | [58078-savage-worlds.json](./58078-savage-worlds.json) |
 | Savage: Resurrection | 19277 | [19277-savage-resurrection.json](./19277-savage-resurrection.json) |
 | Savage: The Battle for Newerth | 2247 | [2247-savage-the-battle-for-newerth.json](./2247-savage-the-battle-for-newerth.json) |
@@ -13510,6 +13513,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Slam Poets | 399698 | [399698-slam-poets.json](./399698-slam-poets.json) |
 | Slam Racer | 270277 | [270277-slam-racer.json](./270277-slam-racer.json) |
 | Slam Tank | 419874 | [419874-slam-tank.json](./419874-slam-tank.json) |
+| Slam Tennis | 47338 | [47338-slam-tennis.json](./47338-slam-tennis.json) |
 | Slam Tilt | 70944 | [70944-slam-tilt.json](./70944-slam-tilt.json) |
 | Slam-Dunk | 137273 | [137273-slam-dunk.json](./137273-slam-dunk.json) |
 | Slam: Shaq vs. The Legends | 46180 | [46180-slam-shaq-vs-the-legends.json](./46180-slam-shaq-vs-the-legends.json) |
@@ -21577,6 +21581,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Special Forces Group 3 | 245043 | [245043-special-forces-group-3.json](./245043-special-forces-group-3.json) |
 | Special Forces II | 41098 | [41098-special-forces-ii.json](./41098-special-forces-ii.json) |
 | Special Forces Jackal | 96308 | [96308-special-forces-jackal.json](./96308-special-forces-jackal.json) |
+| Special Forces Nemesis Strike | 47373 | [47373-special-forces-nemesis-strike.json](./47373-special-forces-nemesis-strike.json) |
 | Special Forces Pack | 100208 | [100208-special-forces-pack.json](./100208-special-forces-pack.json) |
 | Special Forces Strike: Tactical Swat Shooter | 290426 | [290426-special-forces-strike-tactical-swat-shooter.json](./290426-special-forces-strike-tactical-swat-shooter.json) |
 | Special Forces VR | 41964 | [41964-special-forces-vr.json](./41964-special-forces-vr.json) |
@@ -29220,6 +29225,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Street Fighter: The Movie | 134337 | [134337-street-fighter-the-movie.json](./134337-street-fighter-the-movie.json) |
 | Street Fighter: The Movie | 19754 | [19754-street-fighter-the-movie.json](./19754-street-fighter-the-movie.json) |
 | Street Fighting Grandma | 252264 | [252264-street-fighting-grandma.json](./252264-street-fighting-grandma.json) |
+| Street Fighting Man | 46928 | [46928-street-fighting-man.json](./46928-street-fighting-man.json) |
 | Street Fighting Simulator | 293115 | [293115-street-fighting-simulator.json](./293115-street-fighting-simulator.json) |
 | Street Flicker | 311235 | [311235-street-flicker.json](./311235-street-flicker.json) |
 | Street Food Restaurant Owner | 327979 | [327979-street-food-restaurant-owner.json](./327979-street-food-restaurant-owner.json) |
