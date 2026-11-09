@@ -345,6 +345,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pachi Pachi Saga | 212703 | [212703-pachi-pachi-saga.json](./212703-pachi-pachi-saga.json) |
 | Pachi Pachi: On a Roll | 143696 | [143696-pachi-pachi-on-a-roll.json](./143696-pachi-pachi-on-a-roll.json) |
 | Pachi Para 15: Super Sea in Okinawa 2 | 65538 | [65538-pachi-para-15-super-sea-in-okinawa-2.json](./65538-pachi-para-15-super-sea-in-okinawa-2.json) |
+| Pachi Para 16: Silver Shining Paradise 2 | 65542 | [65542-pachi-para-16-silver-shining-paradise-2.json](./65542-pachi-para-16-silver-shining-paradise-2.json) |
 | Pachi Para 17: New Sea Story With Agnes Lum | 65558 | [65558-pachi-para-17-new-sea-story-with-agnes-lum.json](./65558-pachi-para-17-new-sea-story-with-agnes-lum.json) |
 | Pachi tto to Pachi-kake da se! Pachi-pachi tokimeki Hanabi Taikai! | 358496 | [358496-pachi-tto-to-pachi-kake-da-se-pachi-pachi-tokimeki-hanabi-taikai.json](./358496-pachi-tto-to-pachi-kake-da-se-pachi-pachi-tokimeki-hanabi-taikai.json) |
 | Pachi-pachi Pachi-Slot: New Pulsar-hen | 282394 | [282394-pachi-pachi-pachi-slot-new-pulsar-hen.json](./282394-pachi-pachi-pachi-slot-new-pulsar-hen.json) |
