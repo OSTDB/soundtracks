@@ -6118,6 +6118,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ET Superman: Wrath of Tyrannosaurus Rex | 195258 | [195258-et-superman-wrath-of-tyrannosaurus-rex.json](./195258-et-superman-wrath-of-tyrannosaurus-rex.json) |
 | ET Varginha | 223758 | [223758-et-varginha.json](./223758-et-varginha.json) |
 | ET: Legacy | 142954 | [142954-et-legacy.json](./142954-et-legacy.json) |
+| ET's Rugby League | 77527 | [77527-ets-rugby-league.json](./77527-ets-rugby-league.json) |
 | ETA: Unknown | 389437 | [389437-eta-unknown.json](./389437-eta-unknown.json) |
 | eTabu | 23909 | [23909-etabu.json](./23909-etabu.json) |
 | Etaine: Magic Survivor | 260556 | [260556-etaine-magic-survivor.json](./260556-etaine-magic-survivor.json) |
