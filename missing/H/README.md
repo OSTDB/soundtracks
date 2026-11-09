@@ -702,6 +702,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hallow's End | 222824 | [222824-hallows-end.json](./222824-hallows-end.json) |
 | Hallowanderband | 312762 | [312762-hallowanderband.json](./312762-hallowanderband.json) |
 | Hallowed Crucible | 333363 | [333363-hallowed-crucible.json](./333363-hallowed-crucible.json) |
+| Hallowed Encounter | 74589 | [74589-hallowed-encounter.json](./74589-hallowed-encounter.json) |
 | Hallowed Haven | 292973 | [292973-hallowed-haven.json](./292973-hallowed-haven.json) |
 | Hallowed Legends: Samhain | 375326 | [375326-hallowed-legends-samhain.json](./375326-hallowed-legends-samhain.json) |
 | Hallowed Legends: Samhain - Collector's Edition | 375380 | [375380-hallowed-legends-samhain-collectors-edition.json](./375380-hallowed-legends-samhain-collectors-edition.json) |
@@ -756,6 +757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Halloween Jewels | 24776 | [24776-halloween-jewels.json](./24776-halloween-jewels.json) |
 | Halloween Jigsaw Puzzles: Puzzle Game for Kids & Toddlers | 187359 | [187359-halloween-jigsaw-puzzles-puzzle-game-for-kids-and-toddlers.json](./187359-halloween-jigsaw-puzzles-puzzle-game-for-kids-and-toddlers.json) |
 | Halloween Junior | 108208 | [108208-halloween-junior.json](./108208-halloween-junior.json) |
+| Halloween Knight | 74605 | [74605-halloween-knight.json](./74605-halloween-knight.json) |
 | Halloween Madness | 75118 | [75118-halloween-madness.json](./75118-halloween-madness.json) |
 | Halloween Makeover: Spa, Makeup & Dressup Salon | 90374 | [90374-halloween-makeover-spa-makeup-and-dressup-salon.json](./90374-halloween-makeover-spa-makeup-and-dressup-salon.json) |
 | Halloween Makeup | 101194 | [101194-halloween-makeup.json](./101194-halloween-makeup.json) |
@@ -6317,6 +6319,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Hellas 2: Olympia | 54096 | [54096-heroes-of-hellas-2-olympia.json](./54096-heroes-of-hellas-2-olympia.json) |
 | Heroes of Hellas 4: Birth of Legend | 86449 | [86449-heroes-of-hellas-4-birth-of-legend.json](./86449-heroes-of-hellas-4-birth-of-legend.json) |
 | Heroes of Hellas Origins: Part Two | 218662 | [218662-heroes-of-hellas-origins-part-two.json](./218662-heroes-of-hellas-origins-part-two.json) |
+| Heroes of Hexaluga | 74590 | [74590-heroes-of-hexaluga.json](./74590-heroes-of-hexaluga.json) |
 | Heroes of Higher Realms | 305634 | [305634-heroes-of-higher-realms.json](./305634-heroes-of-higher-realms.json) |
 | Heroes of History | 321894 | [321894-heroes-of-history.json](./321894-heroes-of-history.json) |
 | Heroes of Holdem | 240175 | [240175-heroes-of-holdem.json](./240175-heroes-of-holdem.json) |
@@ -10124,6 +10127,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hope in Hell | 34277 | [34277-hope-in-hell.json](./34277-hope-in-hell.json) |
 | Hope in the City | 347898 | [347898-hope-in-the-city.json](./347898-hope-in-the-city.json) |
 | Hope is Gone | 251952 | [251952-hope-is-gone.json](./251952-hope-is-gone.json) |
+| Hope is in 23 | 74622 | [74622-hope-is-in-23.json](./74622-hope-is-in-23.json) |
 | Hope Isle | 320819 | [320819-hope-isle.json](./320819-hope-isle.json) |
 | Hope Lake | 32445 | [32445-hope-lake.json](./32445-hope-lake.json) |
 | Hope Land | 158585 | [158585-hope-land.json](./158585-hope-land.json) |
