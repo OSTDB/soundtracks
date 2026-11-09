@@ -7767,6 +7767,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rika Suzuki | 97328 | [97328-rika-suzuki.json](./97328-rika-suzuki.json) |
 | Riki | 294983 | [294983-riki.json](./294983-riki.json) |
 | Riki 8Bit Game Collection | 322554 | [322554-riki-8bit-game-collection.json](./322554-riki-8bit-game-collection.json) |
+| Riki Densetsu | 57225 | [57225-riki-densetsu.json](./57225-riki-densetsu.json) |
 | Riki's Risky Ride | 192261 | [192261-rikis-risky-ride.json](./192261-rikis-risky-ride.json) |
 | Rikka Plus | 181564 | [181564-rikka-plus.json](./181564-rikka-plus.json) |
 | Rikki & Vikki | 113515 | [113515-rikki-and-vikki.json](./113515-rikki-and-vikki.json) |
@@ -9995,6 +9996,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rockman ZX Prequel | 209270 | [209270-rockman-zx-prequel.json](./209270-rockman-zx-prequel.json) |
 | Rockman: Claw | 269885 | [269885-rockman-claw.json](./269885-rockman-claw.json) |
 | Rockman: New Year 2020 | 269887 | [269887-rockman-new-year-2020.json](./269887-rockman-new-year-2020.json) |
+| Rockman: Power Battle Fighters | 57232 | [57232-rockman-power-battle-fighters.json](./57232-rockman-power-battle-fighters.json) |
 | Rockman.EXE Operate Shooting Star | 1774 | [1774-rockman-exe-operate-shooting-star.json](./1774-rockman-exe-operate-shooting-star.json) |
 | Rockmen R: Dr. Wily no Gyakushuu | 80225 | [80225-rockmen-r-dr-wily-no-gyakushuu.json](./80225-rockmen-r-dr-wily-no-gyakushuu.json) |
 | Rockmen R2: Dr. W*ly no Saiki!! | 137941 | [137941-rockmen-r2-dr-w-ly-no-saiki.json](./137941-rockmen-r2-dr-w-ly-no-saiki.json) |
