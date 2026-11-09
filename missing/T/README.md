@@ -6598,6 +6598,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Battle of Polytopia: Yorthwober | 366859 | [366859-the-battle-of-polytopia-yorthwober.json](./366859-the-battle-of-polytopia-yorthwober.json) |
 | The Battle of Polytopia+ | 357407 | [357407-the-battle-of-polytopia.json](./357407-the-battle-of-polytopia.json) |
 | The Battle of Sacred Heart | 239700 | [239700-the-battle-of-sacred-heart.json](./239700-the-battle-of-sacred-heart.json) |
+| The Battle of Shiloh | 18743 | [18743-the-battle-of-shiloh.json](./18743-the-battle-of-shiloh.json) |
 | The Battle of Sol | 36416 | [36416-the-battle-of-sol.json](./36416-the-battle-of-sol.json) |
 | The Battle of the Bulge: Tigers in the Snow | 24450 | [24450-the-battle-of-the-bulge-tigers-in-the-snow.json](./24450-the-battle-of-the-bulge-tigers-in-the-snow.json) |
 | The Battle of Visby | 164139 | [164139-the-battle-of-visby.json](./164139-the-battle-of-visby.json) |
@@ -6879,6 +6880,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Blackwell Legacy | 9043 | [9043-the-blackwell-legacy.json](./9043-the-blackwell-legacy.json) |
 | The Blackwood Legacy | 320434 | [320434-the-blackwood-legacy.json](./320434-the-blackwood-legacy.json) |
 | The Blackwood Project | 406510 | [406510-the-blackwood-project.json](./406510-the-blackwood-project.json) |
+| The Blade of Blackpoole | 18702 | [18702-the-blade-of-blackpoole.json](./18702-the-blade-of-blackpoole.json) |
 | The Blades of Ashina | 317519 | [317519-the-blades-of-ashina.json](./317519-the-blades-of-ashina.json) |
 | The Blaggers | 57081 | [57081-the-blaggers.json](./57081-the-blaggers.json) |
 | The Blair Witch Experience | 73541 | [73541-the-blair-witch-experience.json](./73541-the-blair-witch-experience.json) |
@@ -19444,6 +19446,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Warmest Body in the Room | 274270 | [274270-the-warmest-body-in-the-room.json](./274270-the-warmest-body-in-the-room.json) |
 | The Warmth Between Us | 185942 | [185942-the-warmth-between-us.json](./185942-the-warmth-between-us.json) |
 | The Warp Coin Catastrophe | 186105 | [186105-the-warp-coin-catastrophe.json](./186105-the-warp-coin-catastrophe.json) |
+| The Warp Factor | 18741 | [18741-the-warp-factor.json](./18741-the-warp-factor.json) |
 | The Warp: Cephisso | 351641 | [351641-the-warp-cephisso.json](./351641-the-warp-cephisso.json) |
 | The Warrens | 373224 | [373224-the-warrens.json](./373224-the-warrens.json) |
 | The Warrior | 116877 | [116877-the-warrior.json](./116877-the-warrior.json) |
@@ -20616,6 +20619,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Thimbleweed Park | 10232 | [10232-thimbleweed-park.json](./10232-thimbleweed-park.json) |
 | Thimbleweed Park 2 | 411759 | [411759-thimbleweed-park-2.json](./411759-thimbleweed-park-2.json) |
 | Thin Ice | 160026 | [160026-thin-ice.json](./160026-thin-ice.json) |
+| Thin Ice | 18676 | [18676-thin-ice.json](./18676-thin-ice.json) |
 | Thin Ice | 289144 | [289144-thin-ice.json](./289144-thin-ice.json) |
 | Thin Judgment | 43090 | [43090-thin-judgment.json](./43090-thin-judgment.json) |
 | Thin Line | 333759 | [333759-thin-line.json](./333759-thin-line.json) |
