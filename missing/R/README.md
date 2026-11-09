@@ -9380,6 +9380,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Robot Tormod | 236094 | [236094-robot-tormod.json](./236094-robot-tormod.json) |
 | Robot Transforming Gorilla Attack: Gorilla Games | 95797 | [95797-robot-transforming-gorilla-attack-gorilla-games.json](./95797-robot-transforming-gorilla-attack-gorilla-games.json) |
 | Robot Trivia Funtime | 301588 | [301588-robot-trivia-funtime.json](./301588-robot-trivia-funtime.json) |
+| Robot Tsunami | 35013 | [35013-robot-tsunami.json](./35013-robot-tsunami.json) |
 | Robot Unicorn Attack | 39214 | [39214-robot-unicorn-attack.json](./39214-robot-unicorn-attack.json) |
 | Robot Unicorn Attack 2 | 76895 | [76895-robot-unicorn-attack-2.json](./76895-robot-unicorn-attack-2.json) |
 | Robot Unicorn Attack DS | 341969 | [341969-robot-unicorn-attack-ds.json](./341969-robot-unicorn-attack-ds.json) |
