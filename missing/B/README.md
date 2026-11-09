@@ -1953,6 +1953,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Banan Abanan | 417658 | [417658-banan-abanan.json](./417658-banan-abanan.json) |
 | Banan'em Up! | 337404 | [337404-bananem-up.json](./337404-bananem-up.json) |
 | Banan's Peel Out | 422155 | [422155-banans-peel-out.json](./422155-banans-peel-out.json) |
+| Banana | 19845 | [19845-banana.json](./19845-banana.json) |
 | Banana | 296808 | [296808-banana.json](./296808-banana.json) |
 | Banana | 305277 | [305277-banana.json](./305277-banana.json) |
 | Banana | 305441 | [305441-banana.json](./305441-banana.json) |
@@ -17504,6 +17505,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bug & Seek: Weevils DLC | 298342 | [298342-bug-and-seek-weevils-dlc.json](./298342-bug-and-seek-weevils-dlc.json) |
 | Bug Adventure | 206691 | [206691-bug-adventure.json](./206691-bug-adventure.json) |
 | Bug Alliance | 304438 | [304438-bug-alliance.json](./304438-bug-alliance.json) |
+| Bug Attack | 18747 | [18747-bug-attack.json](./18747-bug-attack.json) |
 | Bug Aviators in Theme Park | 116163 | [116163-bug-aviators-in-theme-park.json](./116163-bug-aviators-in-theme-park.json) |
 | Bug Bait | 349031 | [349031-bug-bait.json](./349031-bug-bait.json) |
 | Bug Ball | 274364 | [274364-bug-ball.json](./274364-bug-ball.json) |
