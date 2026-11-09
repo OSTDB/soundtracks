@@ -17329,6 +17329,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crazy Chicken: Director's Cut | 83234 | [83234-crazy-chicken-directors-cut.json](./83234-crazy-chicken-directors-cut.json) |
 | Crazy Chicken: Director's Cut 3D | 85053 | [85053-crazy-chicken-directors-cut-3d.json](./85053-crazy-chicken-directors-cut-3d.json) |
 | Crazy Chicken: Heart of Tibet | 73582 | [73582-crazy-chicken-heart-of-tibet.json](./73582-crazy-chicken-heart-of-tibet.json) |
+| Crazy Chicken: Invasion | 35996 | [35996-crazy-chicken-invasion.json](./35996-crazy-chicken-invasion.json) |
 | Crazy Chicken: Jewel of Darkness | 69076 | [69076-crazy-chicken-jewel-of-darkness.json](./69076-crazy-chicken-jewel-of-darkness.json) |
 | Crazy Chicken: Pirates | 23673 | [23673-crazy-chicken-pirates.json](./23673-crazy-chicken-pirates.json) |
 | Crazy Chicken: Pirates | 282572 | [282572-crazy-chicken-pirates.json](./282572-crazy-chicken-pirates.json) |
@@ -19575,6 +19576,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Crystal the Witch | 133705 | [133705-crystal-the-witch.json](./133705-crystal-the-witch.json) |
 | Crystal Tower Defense | 251998 | [251998-crystal-tower-defense.json](./251998-crystal-tower-defense.json) |
 | Crystal Towers | 73164 | [73164-crystal-towers.json](./73164-crystal-towers.json) |
+| Crystal Towers 2 | 35999 | [35999-crystal-towers-2.json](./35999-crystal-towers-2.json) |
 | Crystal Towers 2 XL | 46642 | [46642-crystal-towers-2-xl.json](./46642-crystal-towers-2-xl.json) |
 | Crystal Vale: Dino Escape | 387662 | [387662-crystal-vale-dino-escape.json](./387662-crystal-vale-dino-escape.json) |
 | Crystal Valley | 160051 | [160051-crystal-valley.json](./160051-crystal-valley.json) |
@@ -20069,6 +20071,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cubical | 408745 | [408745-cubical.json](./408745-cubical.json) |
 | Cubicatch | 273809 | [273809-cubicatch.json](./273809-cubicatch.json) |
 | CubicBan | 218565 | [218565-cubicban.json](./218565-cubicban.json) |
+| Cubicity | 36100 | [36100-cubicity.json](./36100-cubicity.json) |
 | Cubicity: Slide puzzle | 115947 | [115947-cubicity-slide-puzzle.json](./115947-cubicity-slide-puzzle.json) |
 | Cubicle Cat Superstar | 306910 | [306910-cubicle-cat-superstar.json](./306910-cubicle-cat-superstar.json) |
 | Cubicle Farter | 296863 | [296863-cubicle-farter.json](./296863-cubicle-farter.json) |
@@ -20550,6 +20553,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Curse of the Abyss | 370919 | [370919-curse-of-the-abyss.json](./370919-curse-of-the-abyss.json) |
 | Curse of the Amethyst Skull | 364568 | [364568-curse-of-the-amethyst-skull.json](./364568-curse-of-the-amethyst-skull.json) |
 | Curse of the Arrow | 184410 | [184410-curse-of-the-arrow.json](./184410-curse-of-the-arrow.json) |
+| Curse of the Assassin | 36083 | [36083-curse-of-the-assassin.json](./36083-curse-of-the-assassin.json) |
 | Curse of the Azure Bonds | 2461 | [2461-curse-of-the-azure-bonds.json](./2461-curse-of-the-azure-bonds.json) |
 | Curse of the Blood Moon | 184746 | [184746-curse-of-the-blood-moon.json](./184746-curse-of-the-blood-moon.json) |
 | Curse of the Caribbean Pirate Queen | 67341 | [67341-curse-of-the-caribbean-pirate-queen.json](./67341-curse-of-the-caribbean-pirate-queen.json) |
@@ -21125,6 +21129,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cyber Chaser | 383187 | [383187-cyber-chaser.json](./383187-cyber-chaser.json) |
 | Cyber Chaser: Counterthrust | 101866 | [101866-cyber-chaser-counterthrust.json](./101866-cyber-chaser-counterthrust.json) |
 | Cyber Chess | 208844 | [208844-cyber-chess.json](./208844-cyber-chess.json) |
+| Cyber Chicken | 36038 | [36038-cyber-chicken.json](./36038-cyber-chicken.json) |
 | Cyber Chicken: Extreme Edition | 52847 | [52847-cyber-chicken-extreme-edition.json](./52847-cyber-chicken-extreme-edition.json) |
 | Cyber Chimps | 217071 | [217071-cyber-chimps.json](./217071-cyber-chimps.json) |
 | Cyber Circuit | 60840 | [60840-cyber-circuit.json](./60840-cyber-circuit.json) |
