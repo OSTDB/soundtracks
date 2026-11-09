@@ -6904,6 +6904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eve Online: Special Edition | 329788 | [329788-eve-online-special-edition.json](./329788-eve-online-special-edition.json) |
 | Eve Online: Starter pack | 293448 | [293448-eve-online-starter-pack.json](./293448-eve-online-starter-pack.json) |
 | Eve Online: Zenith - Quadrant 3 | 329917 | [329917-eve-online-zenith-quadrant-3.json](./329917-eve-online-zenith-quadrant-3.json) |
+| Eve the 1st: Burst Error | 38443 | [38443-eve-the-1st-burst-error.json](./38443-eve-the-1st-burst-error.json) |
 | EVE Vanguard | 277846 | [277846-eve-vanguard.json](./277846-eve-vanguard.json) |
 | Eve Zero | 44729 | [44729-eve-zero.json](./44729-eve-zero.json) |
 | EVE Zero: Ark of the Matter | 71277 | [71277-eve-zero-ark-of-the-matter.json](./71277-eve-zero-ark-of-the-matter.json) |
