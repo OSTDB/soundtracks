@@ -1014,6 +1014,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ice Age 2: The Meltdown | 248538 | [248538-ice-age-2-the-meltdown.json](./248538-ice-age-2-the-meltdown.json) |
 | Ice Age 2: The Meltdown | 3952 | [3952-ice-age-2-the-meltdown.json](./3952-ice-age-2-the-meltdown.json) |
 | Ice Age Adventures | 39202 | [39202-ice-age-adventures.json](./39202-ice-age-adventures.json) |
+| Ice Age Avalanche | 59543 | [59543-ice-age-avalanche.json](./59543-ice-age-avalanche.json) |
 | Ice Age Dawn Of The Dinosaurs | 247350 | [247350-ice-age-dawn-of-the-dinosaurs.json](./247350-ice-age-dawn-of-the-dinosaurs.json) |
 | Ice Age Hunter: Evolution-U | 100963 | [100963-ice-age-hunter-evolution-u.json](./100963-ice-age-hunter-evolution-u.json) |
 | Ice Age Race | 105986 | [105986-ice-age-race.json](./105986-ice-age-race.json) |
@@ -6728,6 +6729,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Issho ni Gohan Portable | 64161 | [64161-issho-ni-gohan-portable.json](./64161-issho-ni-gohan-portable.json) |
 | Issho ni Henshin Fresh Pretty Cure | 327591 | [327591-issho-ni-henshin-fresh-pretty-cure.json](./327591-issho-ni-henshin-fresh-pretty-cure.json) |
 | Issho ni Ikimashou Ikimashou Ikimashou | 75637 | [75637-issho-ni-ikimashou-ikimashou-ikimashou.json](./75637-issho-ni-ikimashou-ikimashou-ikimashou.json) |
+| Issho ni Photo Pikmin | 59551 | [59551-issho-ni-photo-pikmin.json](./59551-issho-ni-photo-pikmin.json) |
 | Isshou Asoberu Todai Shogi: Sakidzsume Shogi Dojo | 56795 | [56795-isshou-asoberu-todai-shogi-sakidzsume-shogi-dojo.json](./56795-isshou-asoberu-todai-shogi-sakidzsume-shogi-dojo.json) |
 | Issunboushi no Donnamondai | 146261 | [146261-issunboushi-no-donnamondai.json](./146261-issunboushi-no-donnamondai.json) |
 | Istanbul | 274194 | [274194-istanbul.json](./274194-istanbul.json) |
