@@ -6096,6 +6096,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Winnie the Pooh and Tigger Too | 70250 | [70250-winnie-the-pooh-and-tigger-too.json](./70250-winnie-the-pooh-and-tigger-too.json) |
 | Winnie the Pooh in the Hundred Acre Wood | 51370 | [51370-winnie-the-pooh-in-the-hundred-acre-wood.json](./51370-winnie-the-pooh-in-the-hundred-acre-wood.json) |
 | Winnie the Pooh Wonder and Wander | 409378 | [409378-winnie-the-pooh-wonder-and-wander.json](./409378-winnie-the-pooh-wonder-and-wander.json) |
+| Winnie the Pooh: Adventures in the 100 Acre Wood | 49982 | [49982-winnie-the-pooh-adventures-in-the-100-acre-wood.json](./49982-winnie-the-pooh-adventures-in-the-100-acre-wood.json) |
 | Winnie the Pooh: First Steps | 273880 | [273880-winnie-the-pooh-first-steps.json](./273880-winnie-the-pooh-first-steps.json) |
 | Winnie the Pooh: Honey for All | 317880 | [317880-winnie-the-pooh-honey-for-all.json](./317880-winnie-the-pooh-honey-for-all.json) |
 | Winnie the Pooh: Kindergarten | 43732 | [43732-winnie-the-pooh-kindergarten.json](./43732-winnie-the-pooh-kindergarten.json) |
@@ -9731,6 +9732,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | WWF 95: Road to Wrestlemania | 137185 | [137185-wwf-95-road-to-wrestlemania.json](./137185-wwf-95-road-to-wrestlemania.json) |
 | WWF Attitude | 200414 | [200414-wwf-attitude.json](./200414-wwf-attitude.json) |
 | WWF Attitude | 3643 | [3643-wwf-attitude.json](./3643-wwf-attitude.json) |
+| WWF Betrayal | 49981 | [49981-wwf-betrayal.json](./49981-wwf-betrayal.json) |
 | WWF European Rampage Tour | 2397 | [2397-wwf-european-rampage-tour.json](./2397-wwf-european-rampage-tour.json) |
 | WWF King of the Ring | 265031 | [265031-wwf-king-of-the-ring.json](./265031-wwf-king-of-the-ring.json) |
 | WWF King of the Ring | 48707 | [48707-wwf-king-of-the-ring.json](./48707-wwf-king-of-the-ring.json) |
