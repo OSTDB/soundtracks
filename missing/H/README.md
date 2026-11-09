@@ -7843,6 +7843,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | High Roller Penny | 413416 | [413416-high-roller-penny.json](./413416-high-roller-penny.json) |
 | High Roller: Farkle | 216169 | [216169-high-roller-farkle.json](./216169-high-roller-farkle.json) |
 | High Rollers | 67393 | [67393-high-rollers.json](./67393-high-rollers.json) |
+| High Rollers Casino | 47357 | [47357-high-rollers-casino.json](./47357-high-rollers-casino.json) |
 | High Rollers: Dice Drop Duel | 399737 | [399737-high-rollers-dice-drop-duel.json](./399737-high-rollers-dice-drop-duel.json) |
 | High Rollerz | 209911 | [209911-high-rollerz.json](./209911-high-rollerz.json) |
 | High School Adventure | 311651 | [311651-high-school-adventure.json](./311651-high-school-adventure.json) |
@@ -7963,6 +7964,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Highlander | 28851 | [28851-highlander.json](./28851-highlander.json) |
 | Highlander: The Game | 120295 | [120295-highlander-the-game.json](./120295-highlander-the-game.json) |
 | Highlander: The Gathering | 67240 | [67240-highlander-the-gathering.json](./67240-highlander-the-gathering.json) |
+| Highlander: The Last of the MacLeods | 46925 | [46925-highlander-the-last-of-the-macleods.json](./46925-highlander-the-last-of-the-macleods.json) |
 | Highlands | 35482 | [35482-highlands.json](./35482-highlands.json) |
 | Highlands, Deep Waters | 72513 | [72513-highlands-deep-waters.json](./72513-highlands-deep-waters.json) |
 | Highlaundry | 156208 | [156208-highlaundry.json](./156208-highlaundry.json) |
@@ -11538,6 +11540,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hover Skate VR | 30167 | [30167-hover-skate-vr.json](./30167-hover-skate-vr.json) |
 | Hover Sprint | 91664 | [91664-hover-sprint.json](./91664-hover-sprint.json) |
 | Hover Strike | 40812 | [40812-hover-strike.json](./40812-hover-strike.json) |
+| Hover Strike: Unconquered Lands | 46924 | [46924-hover-strike-unconquered-lands.json](./46924-hover-strike-unconquered-lands.json) |
 | Hover Tank 3D | 399596 | [399596-hover-tank-3d.json](./399596-hover-tank-3d.json) |
 | Hover Tank Arena | 121944 | [121944-hover-tank-arena.json](./121944-hover-tank-arena.json) |
 | Hover the Edge | 195963 | [195963-hover-the-edge.json](./195963-hover-the-edge.json) |
