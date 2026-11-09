@@ -4334,6 +4334,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lexicon | 287757 | [287757-lexicon.json](./287757-lexicon.json) |
 | Lexicon | 352306 | [352306-lexicon.json](./352306-lexicon.json) |
 | Lexicon | 412907 | [412907-lexicon.json](./412907-lexicon.json) |
+| Lexicon Word Challenge | 68209 | [68209-lexicon-word-challenge.json](./68209-lexicon-word-challenge.json) |
 | Lexicontainer | 183527 | [183527-lexicontainer.json](./183527-lexicontainer.json) |
 | Lexie the Takeover | 81651 | [81651-lexie-the-takeover.json](./81651-lexie-the-takeover.json) |
 | Lexiflaire | 388056 | [388056-lexiflaire.json](./388056-lexiflaire.json) |
@@ -7233,6 +7234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Logistical: Europe | 53278 | [53278-logistical-europe.json](./53278-logistical-europe.json) |
 | Logistical: Germany | 166368 | [166368-logistical-germany.json](./166368-logistical-germany.json) |
 | Logistical: Italy | 55263 | [55263-logistical-italy.json](./55263-logistical-italy.json) |
+| Logistical: Japan | 68816 | [68816-logistical-japan.json](./68816-logistical-japan.json) |
 | Logistical: New Zealand | 166372 | [166372-logistical-new-zealand.json](./166372-logistical-new-zealand.json) |
 | Logistical: North America | 53279 | [53279-logistical-north-america.json](./53279-logistical-north-america.json) |
 | Logistical: Norway | 59230 | [59230-logistical-norway.json](./59230-logistical-norway.json) |
@@ -7798,6 +7800,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot Box Simulator: RPG Anime Girls | 216225 | [216225-loot-box-simulator-rpg-anime-girls.json](./216225-loot-box-simulator-rpg-anime-girls.json) |
 | Loot Box Waifus | 391689 | [391689-loot-box-waifus.json](./391689-loot-box-waifus.json) |
 | Loot Clicker | 184176 | [184176-loot-clicker.json](./184176-loot-clicker.json) |
+| Loot Collection: Mahjong | 68814 | [68814-loot-collection-mahjong.json](./68814-loot-collection-mahjong.json) |
 | Loot Dungeon | 313941 | [313941-loot-dungeon.json](./313941-loot-dungeon.json) |
 | Loot Express Delivery Service | 211824 | [211824-loot-express-delivery-service.json](./211824-loot-express-delivery-service.json) |
 | Loot Frog | 404355 | [404355-loot-frog.json](./404355-loot-frog.json) |
