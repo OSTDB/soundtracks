@@ -4445,6 +4445,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Terbis | 324799 | [324799-terbis.json](./324799-terbis.json) |
 | Tercios: Honor and Glory | 258325 | [258325-tercios-honor-and-glory.json](./258325-tercios-honor-and-glory.json) |
 | Tercity Life Simulator | 274375 | [274375-tercity-life-simulator.json](./274375-tercity-life-simulator.json) |
+| Terebi Oekaki | 45383 | [45383-terebi-oekaki.json](./45383-terebi-oekaki.json) |
 | Terebi-denwa: Super Mario World | 230494 | [230494-terebi-denwa-super-mario-world.json](./230494-terebi-denwa-super-mario-world.json) |
 | Terebikko Ultra Hero Series: Ultraman | 293985 | [293985-terebikko-ultra-hero-series-ultraman.json](./293985-terebikko-ultra-hero-series-ultraman.json) |
 | Terebikko Ultra Hero Series: Ultraseven | 293986 | [293986-terebikko-ultra-hero-series-ultraseven.json](./293986-terebikko-ultra-hero-series-ultraseven.json) |
@@ -31921,6 +31922,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trick x Logic Season 2 | 61259 | [61259-trick-x-logic-season-2.json](./61259-trick-x-logic-season-2.json) |
 | Trick x Trick | 386689 | [386689-trick-x-trick.json](./386689-trick-x-trick.json) |
 | Trick-or-Treat Adventure! | 395951 | [395951-trick-or-treat-adventure.json](./395951-trick-or-treat-adventure.json) |
+| Trick'N Snowboarder | 44923 | [44923-trickn-snowboarder.json](./44923-trickn-snowboarder.json) |
 | Trickalized | 409045 | [409045-trickalized.json](./409045-trickalized.json) |
 | Trickcal: Chibi Go | 172648 | [172648-trickcal-chibi-go.json](./172648-trickcal-chibi-go.json) |
 | Tricked N' Tuned: West Coast Streets | 206665 | [206665-tricked-n-tuned-west-coast-streets.json](./206665-tricked-n-tuned-west-coast-streets.json) |
@@ -32220,6 +32222,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Play 97 | 20649 | [20649-triple-play-97.json](./20649-triple-play-97.json) |
 | Triple Play 98 | 20813 | [20813-triple-play-98.json](./20813-triple-play-98.json) |
 | Triple Play 99 | 45003 | [45003-triple-play-99.json](./45003-triple-play-99.json) |
+| Triple Play Baseball | 44924 | [44924-triple-play-baseball.json](./44924-triple-play-baseball.json) |
 | Triple Play: Gold Edition | 4488 | [4488-triple-play-gold-edition.json](./4488-triple-play-gold-edition.json) |
 | Triple Punch | 38552 | [38552-triple-punch.json](./38552-triple-punch.json) |
 | Triple Realms | 414753 | [414753-triple-realms.json](./414753-triple-realms.json) |
@@ -33109,6 +33112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tryp FPV | 207130 | [207130-tryp-fpv.json](./207130-tryp-fpv.json) |
 | Trypan | 392263 | [392263-trypan.json](./392263-trypan.json) |
 | Tryptic | 326688 | [326688-tryptic.json](./326688-tryptic.json) |
+| Tryrush Deppy | 45405 | [45405-tryrush-deppy.json](./45405-tryrush-deppy.json) |
 | Trysaria | 116273 | [116273-trysaria.json](./116273-trysaria.json) |
 | Tryst | 11030 | [11030-tryst.json](./11030-tryst.json) |
 | Tryst: Premium Edition | 53952 | [53952-tryst-premium-edition.json](./53952-tryst-premium-edition.json) |
@@ -33699,6 +33703,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turbo OutRun Reimagined | 349882 | [349882-turbo-outrun-reimagined.json](./349882-turbo-outrun-reimagined.json) |
 | Turbo Pizza | 186250 | [186250-turbo-pizza.json](./186250-turbo-pizza.json) |
 | Turbo Plane | 367148 | [367148-turbo-plane.json](./367148-turbo-plane.json) |
+| Turbo Prop Racing | 44925 | [44925-turbo-prop-racing.json](./44925-turbo-prop-racing.json) |
 | Turbo Pug | 34074 | [34074-turbo-pug.json](./34074-turbo-pug.json) |
 | Turbo Pug DX | 31698 | [31698-turbo-pug-dx.json](./31698-turbo-pug-dx.json) |
 | Turbo Pulse Race | 310494 | [310494-turbo-pulse-race.json](./310494-turbo-pulse-race.json) |
@@ -33850,6 +33855,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turn-Based Invaders From Space! | 184074 | [184074-turn-based-invaders-from-space.json](./184074-turn-based-invaders-from-space.json) |
 | Turn-Based Kingdom: Ancient Egypt | 185337 | [185337-turn-based-kingdom-ancient-egypt.json](./185337-turn-based-kingdom-ancient-egypt.json) |
 | Turn: The Lost Artifact | 85457 | [85457-turn-the-lost-artifact.json](./85457-turn-the-lost-artifact.json) |
+| Turnabout | 44926 | [44926-turnabout.json](./44926-turnabout.json) |
 | Turnabout Bakeshop | 303245 | [303245-turnabout-bakeshop.json](./303245-turnabout-bakeshop.json) |
 | Turnabout Curtain | 302640 | [302640-turnabout-curtain.json](./302640-turnabout-curtain.json) |
 | Turnabout Detectives | 309978 | [309978-turnabout-detectives.json](./309978-turnabout-detectives.json) |
