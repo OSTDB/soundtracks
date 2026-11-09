@@ -2727,6 +2727,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Elite Rogue | 258044 | [258044-elite-rogue.json](./258044-elite-rogue.json) |
 | Elite Shooter: Sniper Killer | 175696 | [175696-elite-shooter-sniper-killer.json](./175696-elite-shooter-sniper-killer.json) |
 | Elite Sniper Shooter 2 | 245215 | [245215-elite-sniper-shooter-2.json](./245215-elite-sniper-shooter-2.json) |
+| Elite Soccer | 49008 | [49008-elite-soccer.json](./49008-elite-soccer.json) |
 | Elite Soldier Shooter | 219452 | [219452-elite-soldier-shooter.json](./219452-elite-soldier-shooter.json) |
 | Elite Soldier: Modern Gun Shooter and Tank Combat | 272490 | [272490-elite-soldier-modern-gun-shooter-and-tank-combat.json](./272490-elite-soldier-modern-gun-shooter-and-tank-combat.json) |
 | Elite Sports Gaming Football | 358359 | [358359-elite-sports-gaming-football.json](./358359-elite-sports-gaming-football.json) |
