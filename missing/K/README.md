@@ -815,6 +815,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kanpani Girls | 175045 | [175045-kanpani-girls.json](./175045-kanpani-girls.json) |
 | Kanpeki | 191969 | [191969-kanpeki.json](./191969-kanpeki.json) |
 | Kanraku Ojyosama: Pregnant Race | 108936 | [108936-kanraku-ojyosama-pregnant-race.json](./108936-kanraku-ojyosama-pregnant-race.json) |
+| Kansei | 62863 | [62863-kansei.json](./62863-kansei.json) |
 | Kansensei Nightmare | 151532 | [151532-kansensei-nightmare.json](./151532-kansensei-nightmare.json) |
 | Kanshakudama Nage Kantarou no Tokaido Gojuusan-tsugi | 48443 | [48443-kanshakudama-nage-kantarou-no-tokaido-gojuusan-tsugi.json](./48443-kanshakudama-nage-kantarou-no-tokaido-gojuusan-tsugi.json) |
 | Kanso | 153520 | [153520-kanso.json](./153520-kanso.json) |
