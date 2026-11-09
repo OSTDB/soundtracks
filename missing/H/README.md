@@ -1045,6 +1045,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hammer 2 | 74595 | [74595-hammer-2.json](./74595-hammer-2.json) |
 | Hammer 2 Reloaded | 165593 | [165593-hammer-2-reloaded.json](./165593-hammer-2-reloaded.json) |
 | Hammer Away | 40181 | [40181-hammer-away.json](./40181-hammer-away.json) |
+| Hammer Bees | 57802 | [57802-hammer-bees.json](./57802-hammer-bees.json) |
 | Hammer Boy | 70460 | [70460-hammer-boy.json](./70460-hammer-boy.json) |
 | Hammer Bros | 264666 | [264666-hammer-bros.json](./264666-hammer-bros.json) |
 | Hammer Champ | 337564 | [337564-hammer-champ.json](./337564-hammer-champ.json) |
@@ -6403,6 +6404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Heroes of Ruin | 6806 | [6806-heroes-of-ruin.json](./6806-heroes-of-ruin.json) |
 | Heroes of Scene | 35623 | [35623-heroes-of-scene.json](./35623-heroes-of-scene.json) |
 | Heroes of Science and Fiction | 219606 | [219606-heroes-of-science-and-fiction.json](./219606-heroes-of-science-and-fiction.json) |
+| Heroes of Shaola | 57770 | [57770-heroes-of-shaola.json](./57770-heroes-of-shaola.json) |
 | Heroes of Sokoban | 381991 | [381991-heroes-of-sokoban.json](./381991-heroes-of-sokoban.json) |
 | Heroes of Solitairea | 294862 | [294862-heroes-of-solitairea.json](./294862-heroes-of-solitairea.json) |
 | Heroes of SoulCraft | 17770 | [17770-heroes-of-soulcraft.json](./17770-heroes-of-soulcraft.json) |
@@ -7162,6 +7164,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Hidden Expedition: A King's Line - Collector's Edition | 170202 | [170202-hidden-expedition-a-kings-line-collectors-edition.json](./170202-hidden-expedition-a-kings-line-collectors-edition.json) |
 | Hidden Expedition: Crown of Solomon | 140034 | [140034-hidden-expedition-crown-of-solomon.json](./140034-hidden-expedition-crown-of-solomon.json) |
 | Hidden Expedition: Crown of Solomon - Collector's Edition | 22080 | [22080-hidden-expedition-crown-of-solomon-collectors-edition.json](./22080-hidden-expedition-crown-of-solomon-collectors-edition.json) |
+| Hidden Expedition: Dawn of Prosperity | 57768 | [57768-hidden-expedition-dawn-of-prosperity.json](./57768-hidden-expedition-dawn-of-prosperity.json) |
 | Hidden Expedition: Dawn of Prosperity - Collector's Edition | 31689 | [31689-hidden-expedition-dawn-of-prosperity-collectors-edition.json](./31689-hidden-expedition-dawn-of-prosperity-collectors-edition.json) |
 | Hidden Expedition: Devil's Triangle | 64723 | [64723-hidden-expedition-devils-triangle.json](./64723-hidden-expedition-devils-triangle.json) |
 | Hidden Expedition: Neptune's Gift | 187960 | [187960-hidden-expedition-neptunes-gift.json](./187960-hidden-expedition-neptunes-gift.json) |
@@ -10540,6 +10543,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Horror Ville Maze Escape | 119713 | [119713-horror-ville-maze-escape.json](./119713-horror-ville-maze-escape.json) |
 | Horror Zombies from the Crypt | 12145 | [12145-horror-zombies-from-the-crypt.json](./12145-horror-zombies-from-the-crypt.json) |
 | Horror: Evil Residents | 303571 | [303571-horror-evil-residents.json](./303571-horror-evil-residents.json) |
+| HorrorBot | 57310 | [57310-horrorbot.json](./57310-horrorbot.json) |
 | HorrorCore: Maze and Pools of Horror | 331974 | [331974-horrorcore-maze-and-pools-of-horror.json](./331974-horrorcore-maze-and-pools-of-horror.json) |
 | HorrorDriven: A story for the road | 154052 | [154052-horrordriven-a-story-for-the-road.json](./154052-horrordriven-a-story-for-the-road.json) |
 | Horrorfield | 124593 | [124593-horrorfield.json](./124593-horrorfield.json) |
