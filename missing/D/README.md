@@ -7673,6 +7673,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Despectum Drakone | 203952 | [203952-despectum-drakone.json](./203952-despectum-drakone.json) |
 | Desperabis | 121707 | [121707-desperabis.json](./121707-desperabis.json) |
 | Desperado 2 | 13590 | [13590-desperado-2.json](./13590-desperado-2.json) |
+| Desperado Dan and His Amazing Escape to Freedom | 73396 | [73396-desperado-dan-and-his-amazing-escape-to-freedom.json](./73396-desperado-dan-and-his-amazing-escape-to-freedom.json) |
 | Desperados | 68252 | [68252-desperados.json](./68252-desperados.json) |
 | Desperados 2: Cooper's Revenge | 7261 | [7261-desperados-2-coopers-revenge.json](./7261-desperados-2-coopers-revenge.json) |
 | Desperados III: Collector's Edition | 135983 | [135983-desperados-iii-collectors-edition.json](./135983-desperados-iii-collectors-edition.json) |
@@ -12470,6 +12471,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Doll Recollect | 299737 | [299737-doll-recollect.json](./299737-doll-recollect.json) |
 | Doll Style: Underground Design and Dress | 328733 | [328733-doll-style-underground-design-and-dress.json](./328733-doll-style-underground-design-and-dress.json) |
 | Doll: Ouroboros | 80709 | [80709-doll-ouroboros.json](./80709-doll-ouroboros.json) |
+| Doll: Ouroboros 2 | 73384 | [73384-doll-ouroboros-2.json](./73384-doll-ouroboros-2.json) |
 | Doll's Ingram | 131585 | [131585-dolls-ingram.json](./131585-dolls-ingram.json) |
 | Doll's Liminal | 259467 | [259467-dolls-liminal.json](./259467-dolls-liminal.json) |
 | Dolla World | 82332 | [82332-dolla-world.json](./82332-dolla-world.json) |
