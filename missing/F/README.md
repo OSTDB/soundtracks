@@ -134,6 +134,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | F.E.A.R. Online | 7831 | [7831-f-e-a-r-online.json](./7831-f-e-a-r-online.json) |
 | F.E.A.R. Perseus Mandate | 519 | [519-f-e-a-r-perseus-mandate.json](./519-f-e-a-r-perseus-mandate.json) |
 | F.E.A.R.: Complete Pack | 323910 | [323910-f-e-a-r-complete-pack.json](./323910-f-e-a-r-complete-pack.json) |
+| F.E.A.R.: Gold Edition | 51358 | [51358-f-e-a-r-gold-edition.json](./51358-f-e-a-r-gold-edition.json) |
 | F.E.A.R.: MMod | 320343 | [320343-f-e-a-r-mmod.json](./320343-f-e-a-r-mmod.json) |
 | F.E.A.R.: Platinum Collection | 51813 | [51813-f-e-a-r-platinum-collection.json](./51813-f-e-a-r-platinum-collection.json) |
 | F.E.A.R.: Ultimate Shooter Edition | 53050 | [53050-f-e-a-r-ultimate-shooter-edition.json](./53050-f-e-a-r-ultimate-shooter-edition.json) |
