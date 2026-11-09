@@ -3941,6 +3941,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Castlevania: Harmony of Dissonance | 222411 | [222411-castlevania-harmony-of-dissonance.json](./222411-castlevania-harmony-of-dissonance.json) |
 | Castlevania: Harmony of Dissonance - Revenge of the Findesiecle | 215165 | [215165-castlevania-harmony-of-dissonance-revenge-of-the-findesiecle.json](./215165-castlevania-harmony-of-dissonance-revenge-of-the-findesiecle.json) |
 | Castlevania: Lords of Shadow | 491 | [491-castlevania-lords-of-shadow.json](./491-castlevania-lords-of-shadow.json) |
+| Castlevania: Lords of Shadow - Limited Collector's Edition | 47387 | [47387-castlevania-lords-of-shadow-limited-collectors-edition.json](./47387-castlevania-lords-of-shadow-limited-collectors-edition.json) |
 | Castlevania: Lords of Shadow - Limited Edition | 41602 | [41602-castlevania-lords-of-shadow-limited-edition.json](./41602-castlevania-lords-of-shadow-limited-edition.json) |
 | Castlevania: Lords of Shadow - Mirror of Fate | 1149 | [1149-castlevania-lords-of-shadow-mirror-of-fate.json](./1149-castlevania-lords-of-shadow-mirror-of-fate.json) |
 | Castlevania: Lords of Shadow - Mirror of Fate HD | 9715 | [9715-castlevania-lords-of-shadow-mirror-of-fate-hd.json](./9715-castlevania-lords-of-shadow-mirror-of-fate-hd.json) |
