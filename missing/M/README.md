@@ -1530,6 +1530,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Magical Drop III | 39347 | [39347-magical-drop-iii.json](./39347-magical-drop-iii.json) |
 | Magical Drop III: Toretate Zoukangou! | 171031 | [171031-magical-drop-iii-toretate-zoukangou.json](./171031-magical-drop-iii-toretate-zoukangou.json) |
 | Magical Drop III: Yokubari Tokudaigou! | 170790 | [170790-magical-drop-iii-yokubari-tokudaigou.json](./170790-magical-drop-iii-yokubari-tokudaigou.json) |
+| Magical Drop Pocket | 43993 | [43993-magical-drop-pocket.json](./43993-magical-drop-pocket.json) |
 | Magical Drop VI | 221060 | [221060-magical-drop-vi.json](./221060-magical-drop-vi.json) |
 | Magical Drop Yurutto | 67846 | [67846-magical-drop-yurutto.json](./67846-magical-drop-yurutto.json) |
 | Magical Error wo Sagase | 268846 | [268846-magical-error-wo-sagase.json](./268846-magical-error-wo-sagase.json) |
@@ -1967,6 +1968,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mahjong 3D | 89161 | [89161-mahjong-3d.json](./89161-mahjong-3d.json) |
 | Mahjong 3D: Essentials | 85269 | [85269-mahjong-3d-essentials.json](./85269-mahjong-3d-essentials.json) |
 | Mahjong 3D: Warriors of the Emperor | 85268 | [85268-mahjong-3d-warriors-of-the-emperor.json](./85268-mahjong-3d-warriors-of-the-emperor.json) |
+| Mahjong 64 | 44036 | [44036-mahjong-64.json](./44036-mahjong-64.json) |
 | Mahjong Adventure | 147322 | [147322-mahjong-adventure.json](./147322-mahjong-adventure.json) |
 | Mahjong Aztecs Mysteries | 234187 | [234187-mahjong-aztecs-mysteries.json](./234187-mahjong-aztecs-mysteries.json) |
 | Mahjong Bengal Tiger Adventure: Summer Majong Quest Deluxe | 235282 | [235282-mahjong-bengal-tiger-adventure-summer-majong-quest-deluxe.json](./235282-mahjong-bengal-tiger-adventure-summer-majong-quest-deluxe.json) |
@@ -8053,6 +8055,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man Inverse | 323768 | [323768-mega-man-inverse.json](./323768-mega-man-inverse.json) |
 | Mega Man IV SNES | 377763 | [377763-mega-man-iv-snes.json](./377763-mega-man-iv-snes.json) |
 | Mega Man Legacy Collection | 19874 | [19874-mega-man-legacy-collection.json](./19874-mega-man-legacy-collection.json) |
+| Mega Man Legacy Collection: Collector's Edition | 44016 | [44016-mega-man-legacy-collection-collectors-edition.json](./44016-mega-man-legacy-collection-collectors-edition.json) |
 | Mega Man Legacy Collection: Special Edition | 89843 | [89843-mega-man-legacy-collection-special-edition.json](./89843-mega-man-legacy-collection-special-edition.json) |
 | Mega Man Legends | 1752 | [1752-mega-man-legends.json](./1752-mega-man-legends.json) |
 | Mega Man Legends 2 | 1754 | [1754-mega-man-legends-2.json](./1754-mega-man-legends-2.json) |
@@ -10197,6 +10200,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Slader Glory: Director's Cut | 38238 | [38238-metal-slader-glory-directors-cut.json](./38238-metal-slader-glory-directors-cut.json) |
 | Metal Slug | 44687 | [44687-metal-slug.json](./44687-metal-slug.json) |
 | Metal Slug 1st & 2nd Mission Double Pack | 173779 | [173779-metal-slug-1st-and-2nd-mission-double-pack.json](./173779-metal-slug-1st-and-2nd-mission-double-pack.json) |
+| Metal Slug 1st Mission | 43986 | [43986-metal-slug-1st-mission.json](./43986-metal-slug-1st-mission.json) |
 | Metal Slug 1st Mission (Best Collection) | 75483 | [75483-metal-slug-1st-mission-best-collection.json](./75483-metal-slug-1st-mission-best-collection.json) |
 | Metal Slug 1st Mission (Version A) | 75484 | [75484-metal-slug-1st-mission-version-a.json](./75484-metal-slug-1st-mission-version-a.json) |
 | Metal Slug 1st Mission (Version B) | 75485 | [75485-metal-slug-1st-mission-version-b.json](./75485-metal-slug-1st-mission-version-b.json) |
