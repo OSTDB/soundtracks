@@ -993,6 +993,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
+| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3821,6 +3822,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle For Dream Island Again 5b | 138011 | [138011-battle-for-dream-island-again-5b.json](./138011-battle-for-dream-island-again-5b.json) |
 | Battle For Embolia | 123390 | [123390-battle-for-embolia.json](./123390-battle-for-embolia.json) |
 | Battle For Embolia | 380016 | [380016-battle-for-embolia.json](./380016-battle-for-embolia.json) |
+| Battle for Enlor | 29001 | [29001-battle-for-enlor.json](./29001-battle-for-enlor.json) |
 | Battle for Ercaton: Robot Uprising | 291437 | [291437-battle-for-ercaton-robot-uprising.json](./291437-battle-for-ercaton-robot-uprising.json) |
 | Battle for Esturia | 157812 | [157812-battle-for-esturia.json](./157812-battle-for-esturia.json) |
 | Battle for Gaming | 110081 | [110081-battle-for-gaming.json](./110081-battle-for-gaming.json) |
@@ -15800,6 +15802,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Breaking Deck | 378736 | [378736-breaking-deck.json](./378736-breaking-deck.json) |
 | Breaking earth | 165688 | [165688-breaking-earth.json](./165688-breaking-earth.json) |
 | Breaking Enigma | 213630 | [213630-breaking-enigma.json](./213630-breaking-enigma.json) |
+| Breaking Fast | 28968 | [28968-breaking-fast.json](./28968-breaking-fast.json) |
 | Breaking Game | 371276 | [371276-breaking-game.json](./371276-breaking-game.json) |
 | Breaking Gates | 141008 | [141008-breaking-gates.json](./141008-breaking-gates.json) |
 | Breaking Good | 51968 | [51968-breaking-good.json](./51968-breaking-good.json) |
@@ -16412,6 +16415,8 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brink Traveler | 168681 | [168681-brink-traveler.json](./168681-brink-traveler.json) |
 | Brink: Agent of Change | 97093 | [97093-brink-agent-of-change.json](./97093-brink-agent-of-change.json) |
 | Brink: Agents of Change | 164366 | [164366-brink-agents-of-change.json](./164366-brink-agents-of-change.json) |
+| Brink: Doom Pack | 28990 | [28990-brink-doom-pack.json](./28990-brink-doom-pack.json) |
+| Brink: Spec Ops | 28991 | [28991-brink-spec-ops.json](./28991-brink-spec-ops.json) |
 | Brinkmanship | 133666 | [133666-brinkmanship.json](./133666-brinkmanship.json) |
 | Brinquemática: Aventura Pirata | 290099 | [290099-brinquematica-aventura-pirata.json](./290099-brinquematica-aventura-pirata.json) |
 | BRIO World | 352512 | [352512-brio-world.json](./352512-brio-world.json) |
