@@ -6180,6 +6180,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sesame Street: Elmo's ABCs | 49933 | [49933-sesame-street-elmos-abcs.json](./49933-sesame-street-elmos-abcs.json) |
 | Sesame Street: Elmo's Letter Adventure | 10611 | [10611-sesame-street-elmos-letter-adventure.json](./10611-sesame-street-elmos-letter-adventure.json) |
 | Sesame Street: Elmo's Musical Monsterpiece | 50935 | [50935-sesame-street-elmos-musical-monsterpiece.json](./50935-sesame-street-elmos-musical-monsterpiece.json) |
+| Sesame Street: Elmo's Number Journey | 44031 | [44031-sesame-street-elmos-number-journey.json](./44031-sesame-street-elmos-number-journey.json) |
 | Sesame Street: Elmo's World | 220089 | [220089-sesame-street-elmos-world.json](./220089-sesame-street-elmos-world.json) |
 | Sesame Street: Flappy Bert | 62112 | [62112-sesame-street-flappy-bert.json](./62112-sesame-street-flappy-bert.json) |
 | Sesame Street: Friends & Fun | 406240 | [406240-sesame-street-friends-and-fun.json](./406240-sesame-street-friends-and-fun.json) |
@@ -19034,6 +19035,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Sore | 74211 | [74211-sore.json](./74211-sore.json) |
 | Sore ha Maichiru Sakura no You ni: Re:birth | 368652 | [368652-sore-ha-maichiru-sakura-no-you-ni-re-birth.json](./368652-sore-ha-maichiru-sakura-no-you-ni-re-birth.json) |
 | Sore Ike! Anpanman: Hajimete Kaketa yo! Oboeta yo! Hiragana, Katakana: 50-on Board Kinou-tsuki | 300422 | [300422-sore-ike-anpanman-hajimete-kaketa-yo-oboeta-yo-hiragana-katakana-50-on-board-kinou-tsuki.json](./300422-sore-ike-anpanman-hajimete-kaketa-yo-oboeta-yo-hiragana-katakana-50-on-board-kinou-tsuki.json) |
+| Sore Ike!! Hanafuda Dojo | 43995 | [43995-sore-ike-hanafuda-dojo.json](./43995-sore-ike-hanafuda-dojo.json) |
 | Sore Jaa, Mata ne. | 201807 | [201807-sore-jaa-mata-ne.json](./201807-sore-jaa-mata-ne.json) |
 | Sore Losers | 124453 | [124453-sore-losers.json](./124453-sore-losers.json) |
 | Sore Yuke! Omocha Sensha | 222061 | [222061-sore-yuke-omocha-sensha.json](./222061-sore-yuke-omocha-sensha.json) |
@@ -33192,6 +33194,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Mario Spectral | 401859 | [401859-super-mario-spectral.json](./401859-super-mario-spectral.json) |
 | Super Mario Spikers | 175958 | [175958-super-mario-spikers.json](./175958-super-mario-spikers.json) |
 | Super Mario Star Path | 314130 | [314130-super-mario-star-path.json](./314130-super-mario-star-path.json) |
+| Super Mario Star Road | 44044 | [44044-super-mario-star-road.json](./44044-super-mario-star-road.json) |
 | Super Mario Star Road Multiplayer | 159342 | [159342-super-mario-star-road-multiplayer.json](./159342-super-mario-star-road-multiplayer.json) |
 | Super Mario Star Road Retooled | 287617 | [287617-super-mario-star-road-retooled.json](./287617-super-mario-star-road-retooled.json) |
 | Super Mario Star Road: The Green Comet | 222747 | [222747-super-mario-star-road-the-green-comet.json](./222747-super-mario-star-road-the-green-comet.json) |
@@ -33820,6 +33823,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Real Mahjong Special: Mika, Kasumi, Shouko no Omoide yori | 138826 | [138826-super-real-mahjong-special-mika-kasumi-shouko-no-omoide-yori.json](./138826-super-real-mahjong-special-mika-kasumi-shouko-no-omoide-yori.json) |
 | Super Real Mahjong Venus Returns | 410297 | [410297-super-real-mahjong-venus-returns.json](./410297-super-real-mahjong-venus-returns.json) |
 | Super Real Mahjong vs. | 307701 | [307701-super-real-mahjong-vs.json](./307701-super-real-mahjong-vs.json) |
+| Super Real Mahjong: Premium Collection | 44001 | [44001-super-real-mahjong-premium-collection.json](./44001-super-real-mahjong-premium-collection.json) |
 | Super Real Tennis | 23561 | [23561-super-real-tennis.json](./23561-super-real-tennis.json) |
 | Super Realistic Autocross | 123046 | [123046-super-realistic-autocross.json](./123046-super-realistic-autocross.json) |
 | Super Realistic Autocross VR | 123474 | [123474-super-realistic-autocross-vr.json](./123474-super-realistic-autocross-vr.json) |
@@ -33859,6 +33863,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Robot Shooting | 74768 | [74768-super-robot-shooting.json](./74768-super-robot-shooting.json) |
 | Super Robot Taisen | 240916 | [240916-super-robot-taisen.json](./240916-super-robot-taisen.json) |
 | Super Robot Taisen | 49137 | [49137-super-robot-taisen.json](./49137-super-robot-taisen.json) |
+| Super Robot Taisen 64 | 44056 | [44056-super-robot-taisen-64.json](./44056-super-robot-taisen-64.json) |
 | Super Robot Taisen A | 6623 | [6623-super-robot-taisen-a.json](./6623-super-robot-taisen-a.json) |
 | Super Robot Taisen A Portable | 79841 | [79841-super-robot-taisen-a-portable.json](./79841-super-robot-taisen-a-portable.json) |
 | Super Robot Taisen Alpha for Dreamcast | 241829 | [241829-super-robot-taisen-alpha-for-dreamcast.json](./241829-super-robot-taisen-alpha-for-dreamcast.json) |
