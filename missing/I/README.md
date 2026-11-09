@@ -3693,8 +3693,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infamous: Precinct Assault | 374313 | [374313-infamous-precinct-assault.json](./374313-infamous-precinct-assault.json) |
 | Infamous: Second Son - Cole's Legacy | 210087 | [210087-infamous-second-son-coles-legacy.json](./210087-infamous-second-son-coles-legacy.json) |
 | Infamous: Second Son - Collector's Edition | 147293 | [147293-infamous-second-son-collectors-edition.json](./147293-infamous-second-son-collectors-edition.json) |
+| Infamous: Special Edition | 44669 | [44669-infamous-special-edition.json](./44669-infamous-special-edition.json) |
 | Infans Solaris | 54130 | [54130-infans-solaris.json](./54130-infans-solaris.json) |
 | Infanticide | 158541 | [158541-infanticide.json](./158541-infanticide.json) |
+| Infantry | 44238 | [44238-infantry.json](./44238-infantry.json) |
 | Infantry | 85840 | [85840-infantry.json](./85840-infantry.json) |
 | Infantry Assault: War 3D FPS | 260014 | [260014-infantry-assault-war-3d-fps.json](./260014-infantry-assault-war-3d-fps.json) |
 | Infantry Attack: Backup Edition | 308805 | [308805-infantry-attack-backup-edition.json](./308805-infantry-attack-backup-edition.json) |
@@ -6126,6 +6128,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iron Runner Robot | 251332 | [251332-iron-runner-robot.json](./251332-iron-runner-robot.json) |
 | Iron Saga | 138898 | [138898-iron-saga.json](./138898-iron-saga.json) |
 | Iron Saga VS | 273641 | [273641-iron-saga-vs.json](./273641-iron-saga-vs.json) |
+| Iron Sea | 44679 | [44679-iron-sea.json](./44679-iron-sea.json) |
 | Iron Sea Defenders | 33816 | [33816-iron-sea-defenders.json](./33816-iron-sea-defenders.json) |
 | Iron Sea Frontier Defenders TD | 89015 | [89015-iron-sea-frontier-defenders-td.json](./89015-iron-sea-frontier-defenders-td.json) |
 | Iron Sea: The West Coast | 157571 | [157571-iron-sea-the-west-coast.json](./157571-iron-sea-the-west-coast.json) |
