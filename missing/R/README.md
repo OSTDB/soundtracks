@@ -2665,6 +2665,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re-Fracture: The Prophet’s Awakening | 348410 | [348410-re-fracture-the-prophet-s-awakening.json](./348410-re-fracture-the-prophet-s-awakening.json) |
 | Re-Legion | 81352 | [81352-re-legion.json](./81352-re-legion.json) |
 | Re-Loaded | 72263 | [72263-re-loaded.json](./72263-re-loaded.json) |
+| Re-Mission | 70718 | [70718-re-mission.json](./70718-re-mission.json) |
 | Re-Move Blocks | 57454 | [57454-re-move-blocks.json](./57454-re-move-blocks.json) |
 | Re-Nullum | 149466 | [149466-re-nullum.json](./149466-re-nullum.json) |
 | Re-O-Ri | 111493 | [111493-re-o-ri.json](./111493-re-o-ri.json) |
@@ -2675,6 +2676,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Re-Volt OpenGL | 257552 | [257552-re-volt-opengl.json](./257552-re-volt-opengl.json) |
 | Re-wind | 92658 | [92658-re-wind.json](./92658-re-wind.json) |
 | Re-wind 2005 | 70428 | [70428-re-wind-2005.json](./70428-re-wind-2005.json) |
+| Re-wind 2006 | 70546 | [70546-re-wind-2006.json](./70546-re-wind-2006.json) |
 | Re;flection | 191675 | [191675-re-flection.json](./191675-re-flection.json) |
 | Re;Lord 1: The Witch of Herfort and Stuffed Animals | 90256 | [90256-re-lord-1-the-witch-of-herfort-and-stuffed-animals.json](./90256-re-lord-1-the-witch-of-herfort-and-stuffed-animals.json) |
 | Re;Lord 3: The Demon Lord of Groessen and The Final Witch | 305390 | [305390-re-lord-3-the-demon-lord-of-groessen-and-the-final-witch.json](./305390-re-lord-3-the-demon-lord-of-groessen-and-the-final-witch.json) |
