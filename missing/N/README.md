@@ -8020,6 +8020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Nuts | 309576 | [309576-nuts.json](./309576-nuts.json) |
 | Nuts | 314326 | [314326-nuts.json](./314326-nuts.json) |
 | Nuts & Bolts Puzzle | 265749 | [265749-nuts-and-bolts-puzzle.json](./265749-nuts-and-bolts-puzzle.json) |
+| Nuts & Milk | 4617 | [4617-nuts-and-milk.json](./4617-nuts-and-milk.json) |
 | Nuts About Nuts | 320780 | [320780-nuts-about-nuts.json](./320780-nuts-about-nuts.json) |
 | Nuts Physics | 175272 | [175272-nuts-physics.json](./175272-nuts-physics.json) |
 | Nuts Pipeline | 411994 | [411994-nuts-pipeline.json](./411994-nuts-pipeline.json) |
