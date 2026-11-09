@@ -1030,6 +1030,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Larry Vales II: Dead Girls are Easy | 76463 | [76463-larry-vales-ii-dead-girls-are-easy.json](./76463-larry-vales-ii-dead-girls-are-easy.json) |
 | Larry Vales: Traffic Division | 73137 | [73137-larry-vales-traffic-division.json](./73137-larry-vales-traffic-division.json) |
 | Larry: Wet Dreams Dry Twice | 200194 | [200194-larry-wet-dreams-dry-twice.json](./200194-larry-wet-dreams-dry-twice.json) |
+| Larry's Big Score | 65077 | [65077-larrys-big-score.json](./65077-larrys-big-score.json) |
 | Larry's Lab | 373527 | [373527-larrys-lab.json](./373527-larrys-lab.json) |
 | Larry's New Wheelchair | 238524 | [238524-larrys-new-wheelchair.json](./238524-larrys-new-wheelchair.json) |
 | LarryDS: Chapter 1 | 313108 | [313108-larryds-chapter-1.json](./313108-larryds-chapter-1.json) |
@@ -5225,6 +5226,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lil' Herder | 146891 | [146891-lil-herder.json](./146891-lil-herder.json) |
 | Lil' Hustler | 281859 | [281859-lil-hustler.json](./281859-lil-hustler.json) |
 | Lil' King | 182743 | [182743-lil-king.json](./182743-lil-king.json) |
+| Lil' Kingdom | 65084 | [65084-lil-kingdom.json](./65084-lil-kingdom.json) |
 | Lil' Monster | 49920 | [49920-lil-monster.json](./49920-lil-monster.json) |
 | Lil' Pirates | 92160 | [92160-lil-pirates.json](./92160-lil-pirates.json) |
 | Lil' Quests | 410005 | [410005-lil-quests.json](./410005-lil-quests.json) |
@@ -10232,6 +10234,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lunatic Dawn: Passage of the Book | 229141 | [229141-lunatic-dawn-passage-of-the-book.json](./229141-lunatic-dawn-passage-of-the-book.json) |
 | Lunatic Dawn: The Third Book | 375378 | [375378-lunatic-dawn-the-third-book.json](./375378-lunatic-dawn-the-third-book.json) |
 | Lunatic Den | 250266 | [250266-lunatic-den.json](./250266-lunatic-den.json) |
+| Lunatic Fantasy | 65060 | [65060-lunatic-fantasy.json](./65060-lunatic-fantasy.json) |
 | Lunatic Fringe | 133956 | [133956-lunatic-fringe.json](./133956-lunatic-fringe.json) |
 | Lunatic Rave 2 | 79901 | [79901-lunatic-rave-2.json](./79901-lunatic-rave-2.json) |
 | Lunatic Viewer: Streamer Girl at Risk | 215979 | [215979-lunatic-viewer-streamer-girl-at-risk.json](./215979-lunatic-viewer-streamer-girl-at-risk.json) |
