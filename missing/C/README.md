@@ -5497,6 +5497,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Cellveillance | 362743 | [362743-cellveillance.json](./362743-cellveillance.json) |
 | Cellyon: Boss Confrontation | 105558 | [105558-cellyon-boss-confrontation.json](./105558-cellyon-boss-confrontation.json) |
 | Cellyon: Boss Maker | 322717 | [322717-cellyon-boss-maker.json](./322717-cellyon-boss-maker.json) |
+| Cellz | 75366 | [75366-cellz.json](./75366-cellz.json) |
 | Celsius | 121375 | [121375-celsius.json](./121375-celsius.json) |
 | Celsius Heroes | 56566 | [56566-celsius-heroes.json](./56566-celsius-heroes.json) |
 | Celsius Strays | 397616 | [397616-celsius-strays.json](./397616-celsius-strays.json) |
@@ -6847,6 +6848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Chelsea Club Football 2005 | 267908 | [267908-chelsea-club-football-2005.json](./267908-chelsea-club-football-2005.json) |
 | Chelsea of the South Sea Islands | 309339 | [309339-chelsea-of-the-south-sea-islands.json](./309339-chelsea-of-the-south-sea-islands.json) |
 | ChemCaper | 16986 | [16986-chemcaper.json](./16986-chemcaper.json) |
+| ChemCaper: Act I - Petticles in Peril | 75369 | [75369-chemcaper-act-i-petticles-in-peril.json](./75369-chemcaper-act-i-petticles-in-peril.json) |
 | Chemia | 303412 | [303412-chemia.json](./303412-chemia.json) |
 | Chemical | 251954 | [251954-chemical.json](./251954-chemical.json) |
 | Chemical Combat | 356217 | [356217-chemical-combat.json](./356217-chemical-combat.json) |
