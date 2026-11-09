@@ -404,6 +404,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tactics Ogre: Let Us Cling Together | 5550 | [5550-tactics-ogre-let-us-cling-together.json](./5550-tactics-ogre-let-us-cling-together.json) |
 | Tactics Ogre: Let Us Cling Together - Premium Edition | 232811 | [232811-tactics-ogre-let-us-cling-together-premium-edition.json](./232811-tactics-ogre-let-us-cling-together-premium-edition.json) |
 | Tactics Ogre: Ogre Battle Series | 45031 | [45031-tactics-ogre-ogre-battle-series.json](./45031-tactics-ogre-ogre-battle-series.json) |
+| Tactics Ogre: Reborn | 212584 | [212584-tactics-ogre-reborn.json](./212584-tactics-ogre-reborn.json) |
 | Tactics Ogre: The Knight of Lodis | 6635 | [6635-tactics-ogre-the-knight-of-lodis.json](./6635-tactics-ogre-the-knight-of-lodis.json) |
 | Tactics Returners | 345508 | [345508-tactics-returners.json](./345508-tactics-returners.json) |
 | Tactics Rogue | 109709 | [109709-tactics-rogue.json](./109709-tactics-rogue.json) |
@@ -8960,6 +8961,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Dungeon Of Horror | 378382 | [378382-the-dungeon-of-horror.json](./378382-the-dungeon-of-horror.json) |
 | The Dungeon of Lulu Farea | 113800 | [113800-the-dungeon-of-lulu-farea.json](./113800-the-dungeon-of-lulu-farea.json) |
 | The Dungeon of Lulu Farea: Rebirth | 410948 | [410948-the-dungeon-of-lulu-farea-rebirth.json](./410948-the-dungeon-of-lulu-farea-rebirth.json) |
+| The Dungeon of Naheulbeuk: The Amulet of Chaos | 120654 | [120654-the-dungeon-of-naheulbeuk-the-amulet-of-chaos.json](./120654-the-dungeon-of-naheulbeuk-the-amulet-of-chaos.json) |
 | The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Chicken Edition | 146166 | [146166-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition.json](./146166-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition.json) |
 | The Dungeon of Naheulbeuk: The Amulet of Chaos - Chicken Edition: Splat Jaypak's Arenas | 199115 | [199115-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition-splat-jaypaks-arenas.json](./199115-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-chicken-edition-splat-jaypaks-arenas.json) |
 | The Dungeon Of Naheulbeuk: The Amulet Of Chaos - Deluxe Edition | 154540 | [154540-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-deluxe-edition.json](./154540-the-dungeon-of-naheulbeuk-the-amulet-of-chaos-deluxe-edition.json) |
@@ -21688,6 +21690,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tick Tack Puppet | 206441 | [206441-tick-tack-puppet.json](./206441-tick-tack-puppet.json) |
 | Tick Tick Pass | 55627 | [55627-tick-tick-pass.json](./55627-tick-tick-pass.json) |
 | Tick Tock Clock | 308235 | [308235-tick-tock-clock.json](./308235-tick-tock-clock.json) |
+| Tick Tock: A Tale for Two | 86295 | [86295-tick-tock-a-tale-for-two.json](./86295-tick-tock-a-tale-for-two.json) |
 | Tick-Hunter | 51434 | [51434-tick-hunter.json](./51434-tick-hunter.json) |
 | Tick, Tank, Boom | 235867 | [235867-tick-tank-boom.json](./235867-tick-tank-boom.json) |
 | Tick: The Time Based Puzzle Game | 34794 | [34794-tick-the-time-based-puzzle-game.json](./34794-tick-the-time-based-puzzle-game.json) |
@@ -26784,6 +26787,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tori no Hoshi: Aerial Planet | 225835 | [225835-tori-no-hoshi-aerial-planet.json](./225835-tori-no-hoshi-aerial-planet.json) |
 | Tori Note | 289403 | [289403-tori-note.json](./289403-tori-note.json) |
 | Tori-Emaki | 206084 | [206084-tori-emaki.json](./206084-tori-emaki.json) |
+| Toribash | 1875 | [1875-toribash.json](./1875-toribash.json) |
 | Toribash | 314708 | [314708-toribash.json](./314708-toribash.json) |
 | Toribash Next | 284116 | [284116-toribash-next.json](./284116-toribash-next.json) |
 | Toricky | 32549 | [32549-toricky.json](./32549-toricky.json) |
