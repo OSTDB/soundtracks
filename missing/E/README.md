@@ -4711,6 +4711,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Epic Survivors | 219252 | [219252-epic-survivors.json](./219252-epic-survivors.json) |
 | Epic Survivors | 339084 | [339084-epic-survivors.json](./339084-epic-survivors.json) |
 | Epic Tavern | 25644 | [25644-epic-tavern.json](./25644-epic-tavern.json) |
+| Epic Tic Tac Toe | 65063 | [65063-epic-tic-tac-toe.json](./65063-epic-tic-tac-toe.json) |
 | Epic Tower for Tireless Lovers | 189256 | [189256-epic-tower-for-tireless-lovers.json](./189256-epic-tower-for-tireless-lovers.json) |
 | Epic Trains 4 | 260256 | [260256-epic-trains-4.json](./260256-epic-trains-4.json) |
 | Epic Transport | 379913 | [379913-epic-transport.json](./379913-epic-transport.json) |
