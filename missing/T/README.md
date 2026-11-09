@@ -3250,6 +3250,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tech Clash | 123796 | [123796-tech-clash.json](./123796-tech-clash.json) |
 | Tech Corp. | 107992 | [107992-tech-corp.json](./107992-tech-corp.json) |
 | Tech Deck Dude Bare Knuckle Grind | 110580 | [110580-tech-deck-dude-bare-knuckle-grind.json](./110580-tech-deck-dude-bare-knuckle-grind.json) |
+| Tech Deck Skateboarding | 49995 | [49995-tech-deck-skateboarding.json](./49995-tech-deck-skateboarding.json) |
 | Tech Deck Snowboarding | 206611 | [206611-tech-deck-snowboarding.json](./206611-tech-deck-snowboarding.json) |
 | Tech Disorder | 291258 | [291258-tech-disorder.json](./291258-tech-disorder.json) |
 | Tech Executive Tycoon | 17036 | [17036-tech-executive-tycoon.json](./17036-tech-executive-tycoon.json) |
@@ -5849,6 +5850,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Adventures of Team Australia | 111171 | [111171-the-adventures-of-team-australia.json](./111171-the-adventures-of-team-australia.json) |
 | The Adventures of Ten and Till | 128894 | [128894-the-adventures-of-ten-and-till.json](./128894-the-adventures-of-ten-and-till.json) |
 | The Adventures of The Black Hawk | 274575 | [274575-the-adventures-of-the-black-hawk.json](./274575-the-adventures-of-the-black-hawk.json) |
+| The Adventures of the Smurfs | 49975 | [49975-the-adventures-of-the-smurfs.json](./49975-the-adventures-of-the-smurfs.json) |
 | The Adventures of Timmy: Run Kitty Run | 275454 | [275454-the-adventures-of-timmy-run-kitty-run.json](./275454-the-adventures-of-timmy-run-kitty-run.json) |
 | The Adventures of Tintin: Prisoners of the Sun | 249145 | [249145-the-adventures-of-tintin-prisoners-of-the-sun.json](./249145-the-adventures-of-tintin-prisoners-of-the-sun.json) |
 | The Adventures of Tintin: Prisoners of the Sun | 42588 | [42588-the-adventures-of-tintin-prisoners-of-the-sun.json](./42588-the-adventures-of-tintin-prisoners-of-the-sun.json) |
@@ -9451,6 +9453,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The F.A. Premier League Football Manager 99 | 144464 | [144464-the-f-a-premier-league-football-manager-99.json](./144464-the-f-a-premier-league-football-manager-99.json) |
 | The F.A. Premier League Manager 2002 | 62041 | [62041-the-f-a-premier-league-manager-2002.json](./62041-the-f-a-premier-league-manager-2002.json) |
 | The F.A. Premier League Stars | 43790 | [43790-the-f-a-premier-league-stars.json](./43790-the-f-a-premier-league-stars.json) |
+| The F.A. Premier League Stars 2001 | 50014 | [50014-the-f-a-premier-league-stars-2001.json](./50014-the-f-a-premier-league-stars-2001.json) |
 | The Fab-Phonics 'Up, Up and Away' | 175546 | [175546-the-fab-phonics-up-up-and-away.json](./175546-the-fab-phonics-up-up-and-away.json) |
 | The Fable of a Rabbit | 156980 | [156980-the-fable-of-a-rabbit.json](./156980-the-fable-of-a-rabbit.json) |
 | The Fable of Fairy Glen | 355030 | [355030-the-fable-of-fairy-glen.json](./355030-the-fable-of-fairy-glen.json) |
@@ -19547,6 +19550,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Wild Thornberrys Movie | 148631 | [148631-the-wild-thornberrys-movie.json](./148631-the-wild-thornberrys-movie.json) |
 | The Wild Thornberrys Movie | 49372 | [49372-the-wild-thornberrys-movie.json](./49372-the-wild-thornberrys-movie.json) |
 | The Wild Thornberrys: Chimp Chase | 49373 | [49373-the-wild-thornberrys-chimp-chase.json](./49373-the-wild-thornberrys-chimp-chase.json) |
+| The Wild Thornberrys: Rambler | 49983 | [49983-the-wild-thornberrys-rambler.json](./49983-the-wild-thornberrys-rambler.json) |
 | The Wild Thornberrys' Animal Adventures | 8014 | [8014-the-wild-thornberrys-animal-adventures.json](./8014-the-wild-thornberrys-animal-adventures.json) |
 | The Wild West | 47889 | [47889-the-wild-west.json](./47889-the-wild-west.json) |
 | The Wilds | 195831 | [195831-the-wilds.json](./195831-the-wilds.json) |
@@ -21049,6 +21053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Three Lilies and Their Ghost Stories | 240016 | [240016-three-lilies-and-their-ghost-stories.json](./240016-three-lilies-and-their-ghost-stories.json) |
 | Three Lions | 249151 | [249151-three-lions.json](./249151-three-lions.json) |
 | Three Lions | 385966 | [385966-three-lions.json](./385966-three-lions.json) |
+| Three Lions | 50006 | [50006-three-lions.json](./50006-three-lions.json) |
 | Three Little Bears | 123852 | [123852-three-little-bears.json](./123852-three-little-bears.json) |
 | Three Little Pigs - fairy tale with games for kids | 91154 | [91154-three-little-pigs-fairy-tale-with-games-for-kids.json](./91154-three-little-pigs-fairy-tale-with-games-for-kids.json) |
 | Three Mazeketeers | 192869 | [192869-three-mazeketeers.json](./192869-three-mazeketeers.json) |
@@ -24761,6 +24766,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TNN Motorsports Hardcore 4X4 | 20718 | [20718-tnn-motorsports-hardcore-4x4.json](./20718-tnn-motorsports-hardcore-4x4.json) |
 | TNN Motorsports Hardcore Heat | 45845 | [45845-tnn-motorsports-hardcore-heat.json](./45845-tnn-motorsports-hardcore-heat.json) |
 | TNN Outdoors Bass Tournament '96 | 46244 | [46244-tnn-outdoors-bass-tournament-96.json](./46244-tnn-outdoors-bass-tournament-96.json) |
+| TNN Outdoors Fishing Champ | 49994 | [49994-tnn-outdoors-fishing-champ.json](./49994-tnn-outdoors-fishing-champ.json) |
 | TNN Outdoors Pro Hunter | 23150 | [23150-tnn-outdoors-pro-hunter.json](./23150-tnn-outdoors-pro-hunter.json) |
 | TNN Outdoors Pro Hunter 2 | 119397 | [119397-tnn-outdoors-pro-hunter-2.json](./119397-tnn-outdoors-pro-hunter-2.json) |
 | TNT 2: Devilution | 280913 | [280913-tnt-2-devilution.json](./280913-tnt-2-devilution.json) |
@@ -25883,6 +25889,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tomb Raider: Chronicles | 319750 | [319750-tomb-raider-chronicles.json](./319750-tomb-raider-chronicles.json) |
 | Tomb Raider: Collector's Edition | 43690 | [43690-tomb-raider-collectors-edition.json](./43690-tomb-raider-collectors-edition.json) |
 | Tomb Raider: Collector's Edition | 74555 | [74555-tomb-raider-collectors-edition.json](./74555-tomb-raider-collectors-edition.json) |
+| Tomb Raider: Curse of the Sword | 49993 | [49993-tomb-raider-curse-of-the-sword.json](./49993-tomb-raider-curse-of-the-sword.json) |
 | Tomb Raider: Definitive Edition | 19965 | [19965-tomb-raider-definitive-edition.json](./19965-tomb-raider-definitive-edition.json) |
 | Tomb Raider: Definitive Survivor Trilogy | 144771 | [144771-tomb-raider-definitive-survivor-trilogy.json](./144771-tomb-raider-definitive-survivor-trilogy.json) |
 | Tomb Raider: Demolition Skin | 406536 | [406536-tomb-raider-demolition-skin.json](./406536-tomb-raider-demolition-skin.json) |
@@ -26112,6 +26119,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tonin | 360864 | [360864-tonin.json](./360864-tonin.json) |
 | Tonka Construction | 7954 | [7954-tonka-construction.json](./7954-tonka-construction.json) |
 | Tonka Construction 2 | 7958 | [7958-tonka-construction-2.json](./7958-tonka-construction-2.json) |
+| Tonka Construction Site | 49992 | [49992-tonka-construction-site.json](./49992-tonka-construction-site.json) |
 | Tonka Firefighter | 206757 | [206757-tonka-firefighter.json](./206757-tonka-firefighter.json) |
 | Tonka Garage | 7956 | [7956-tonka-garage.json](./7956-tonka-garage.json) |
 | Tonka Monster Trucks | 65703 | [65703-tonka-monster-trucks.json](./65703-tonka-monster-trucks.json) |
@@ -26333,6 +26341,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ToonSouls Maker | 288579 | [288579-toonsouls-maker.json](./288579-toonsouls-maker.json) |
 | Toonsters: Crossing Worlds | 272185 | [272185-toonsters-crossing-worlds.json](./272185-toonsters-crossing-worlds.json) |
 | Toonstruck | 916 | [916-toonstruck.json](./916-toonstruck.json) |
+| Toonsylvania | 49991 | [49991-toonsylvania.json](./49991-toonsylvania.json) |
 | Toontown Online | 25326 | [25326-toontown-online.json](./25326-toontown-online.json) |
 | Toontown Realms | 134489 | [134489-toontown-realms.json](./134489-toontown-realms.json) |
 | Toontown Rewritten | 134488 | [134488-toontown-rewritten.json](./134488-toontown-rewritten.json) |
@@ -28174,6 +28183,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Towers Together | 237169 | [237169-towers-together.json](./237169-towers-together.json) |
 | Towers Watch | 277916 | [277916-towers-watch.json](./277916-towers-watch.json) |
 | Towers, Turrets, Turtles | 236415 | [236415-towers-turrets-turtles.json](./236415-towers-turrets-turtles.json) |
+| Towers: Lord Baniff's Deceit | 49990 | [49990-towers-lord-baniffs-deceit.json](./49990-towers-lord-baniffs-deceit.json) |
 | Towerscape | 297422 | [297422-towerscape.json](./297422-towerscape.json) |
 | Towerspell | 252514 | [252514-towerspell.json](./252514-towerspell.json) |
 | Towertale | 112938 | [112938-towertale.json](./112938-towertale.json) |
@@ -31861,6 +31871,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trick & Treat | 32186 | [32186-trick-and-treat.json](./32186-trick-and-treat.json) |
 | Trick & Treat Remake | 153224 | [153224-trick-and-treat-remake.json](./153224-trick-and-treat-remake.json) |
 | Trick Art Dungeon | 263338 | [263338-trick-art-dungeon.json](./263338-trick-art-dungeon.json) |
+| Trick Boarder | 49989 | [49989-trick-boarder.json](./49989-trick-boarder.json) |
 | Trick DS Ban: Kakushigami no Sumu Yakata | 329949 | [329949-trick-ds-ban-kakushigami-no-sumu-yakata.json](./329949-trick-ds-ban-kakushigami-no-sumu-yakata.json) |
 | Trick Eight | 369088 | [369088-trick-eight.json](./369088-trick-eight.json) |
 | Trick or Alice | 251191 | [251191-trick-or-alice.json](./251191-trick-or-alice.json) |
@@ -32179,6 +32190,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Triple Pairing Mini Fandisc | 418770 | [418770-triple-pairing-mini-fandisc.json](./418770-triple-pairing-mini-fandisc.json) |
 | Triple Play 2000 | 3621 | [3621-triple-play-2000.json](./3621-triple-play-2000.json) |
 | Triple Play 2001 | 249153 | [249153-triple-play-2001.json](./249153-triple-play-2001.json) |
+| Triple Play 2001 | 49988 | [49988-triple-play-2001.json](./49988-triple-play-2001.json) |
 | Triple Play 2002 | 23464 | [23464-triple-play-2002.json](./23464-triple-play-2002.json) |
 | Triple Play 96 | 46245 | [46245-triple-play-96.json](./46245-triple-play-96.json) |
 | Triple Play 97 | 20649 | [20649-triple-play-97.json](./20649-triple-play-97.json) |
@@ -32599,6 +32611,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | TrotMania: Aeternum Obscurum | 313470 | [313470-trotmania-aeternum-obscurum.json](./313470-trotmania-aeternum-obscurum.json) |
 | TrotMania: Chrystalize | 261385 | [261385-trotmania-chrystalize.json](./261385-trotmania-chrystalize.json) |
 | TrotMania: Rhythm is Magic | 261384 | [261384-trotmania-rhythm-is-magic.json](./261384-trotmania-rhythm-is-magic.json) |
+| Trouballs | 49987 | [49987-trouballs.json](./49987-trouballs.json) |
 | Trouble Captor! | 109118 | [109118-trouble-captor.json](./109118-trouble-captor.json) |
 | Trouble Comes Twice | 214884 | [214884-trouble-comes-twice.json](./214884-trouble-comes-twice.json) |
 | Trouble Comes Twice: Bonus Stories | 295266 | [295266-trouble-comes-twice-bonus-stories.json](./295266-trouble-comes-twice-bonus-stories.json) |
@@ -34060,6 +34073,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tweet Hunter! | 207959 | [207959-tweet-hunter.json](./207959-tweet-hunter.json) |
 | Tweet Star | 108518 | [108518-tweet-star.json](./108518-tweet-star.json) |
 | Tweety & The Magic Gems | 49346 | [49346-tweety-and-the-magic-gems.json](./49346-tweety-and-the-magic-gems.json) |
+| Tweety's High-Flying Adventure | 49986 | [49986-tweetys-high-flying-adventure.json](./49986-tweetys-high-flying-adventure.json) |
 | Twelfth Life | 211989 | [211989-twelfth-life.json](./211989-twelfth-life.json) |
 | Twell | 241379 | [241379-twell.json](./241379-twell.json) |
 | Twelve a Dozen | 23428 | [23428-twelve-a-dozen.json](./23428-twelve-a-dozen.json) |
