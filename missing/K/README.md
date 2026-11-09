@@ -3500,6 +3500,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kingdom Hearts 10th Anniversary 3D+Days+Re:coded Box | 89879 | [89879-kingdom-hearts-10th-anniversary-3d-days-re-coded-box.json](./89879-kingdom-hearts-10th-anniversary-3d-days-re-coded-box.json) |
 | Kingdom Hearts 3D: Dream Drop Distance | 1226 | [1226-kingdom-hearts-3d-dream-drop-distance.json](./1226-kingdom-hearts-3d-dream-drop-distance.json) |
 | Kingdom Hearts 3D: Dream Drop Distance - Mark of Mastery Edition | 89897 | [89897-kingdom-hearts-3d-dream-drop-distance-mark-of-mastery-edition.json](./89897-kingdom-hearts-3d-dream-drop-distance-mark-of-mastery-edition.json) |
+| Kingdom Hearts All-In-One Package | 27939 | [27939-kingdom-hearts-all-in-one-package.json](./27939-kingdom-hearts-all-in-one-package.json) |
 | Kingdom Hearts Birth by Sleep | 1224 | [1224-kingdom-hearts-birth-by-sleep.json](./1224-kingdom-hearts-birth-by-sleep.json) |
 | Kingdom Hearts Birth by Sleep Final Mix | 221997 | [221997-kingdom-hearts-birth-by-sleep-final-mix.json](./221997-kingdom-hearts-birth-by-sleep-final-mix.json) |
 | Kingdom Hearts Birth by Sleep Final Mix | 42856 | [42856-kingdom-hearts-birth-by-sleep-final-mix.json](./42856-kingdom-hearts-birth-by-sleep-final-mix.json) |
