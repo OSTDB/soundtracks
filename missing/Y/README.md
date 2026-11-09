@@ -1177,6 +1177,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | You Find Yourself in a Room | 242778 | [242778-you-find-yourself-in-a-room.json](./242778-you-find-yourself-in-a-room.json) |
 | You First | 210367 | [210367-you-first.json](./210367-you-first.json) |
 | You Found a Hole in the Ground | 348750 | [348750-you-found-a-hole-in-the-ground.json](./348750-you-found-a-hole-in-the-ground.json) |
+| You Found the Grappling Hook | 68206 | [68206-you-found-the-grappling-hook.json](./68206-you-found-the-grappling-hook.json) |
 | You Game+ | 330611 | [330611-you-game.json](./330611-you-game.json) |
 | You Gay? | 84099 | [84099-you-gay.json](./84099-you-gay.json) |
 | You Generation | 174664 | [174664-you-generation.json](./174664-you-generation.json) |
