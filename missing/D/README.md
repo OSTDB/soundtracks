@@ -9028,6 +9028,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dicing Knight. | 73157 | [73157-dicing-knight.json](./73157-dicing-knight.json) |
 | Dick and Dom's Hoopla! | 304208 | [304208-dick-and-doms-hoopla.json](./304208-dick-and-doms-hoopla.json) |
 | Dick Hook | 287901 | [287901-dick-hook.json](./287901-dick-hook.json) |
+| Dick Johnson V8 Challenge | 60666 | [60666-dick-johnson-v8-challenge.json](./60666-dick-johnson-v8-challenge.json) |
 | Dick Killer | 229870 | [229870-dick-killer.json](./229870-dick-killer.json) |
 | Dick Ranger | 207722 | [207722-dick-ranger.json](./207722-dick-ranger.json) |
 | Dick Richards | 185410 | [185410-dick-richards.json](./185410-dick-richards.json) |
@@ -12596,6 +12597,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dome Discover | 151523 | [151523-dome-discover.json](./151523-dome-discover.json) |
 | Dome Keeper: Deluxe Edition | 402958 | [402958-dome-keeper-deluxe-edition.json](./402958-dome-keeper-deluxe-edition.json) |
 | Dome Keeper: The Lost Keepers | 400396 | [400396-dome-keeper-the-lost-keepers.json](./400396-dome-keeper-the-lost-keepers.json) |
+| Dome no Yabou 2: The Race of Champions | 60644 | [60644-dome-no-yabou-2-the-race-of-champions.json](./60644-dome-no-yabou-2-the-race-of-champions.json) |
 | Dome no Yabou F1 GP Nippon no Chousen | 386522 | [386522-dome-no-yabou-f1-gp-nippon-no-chousen.json](./386522-dome-no-yabou-f1-gp-nippon-no-chousen.json) |
 | Dome RPG | 284872 | [284872-dome-rpg.json](./284872-dome-rpg.json) |
 | Dome-King Cabbage | 152283 | [152283-dome-king-cabbage.json](./152283-dome-king-cabbage.json) |
@@ -18380,6 +18382,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Duke Nukem Xmas 2014 | 291979 | [291979-duke-nukem-xmas-2014.json](./291979-duke-nukem-xmas-2014.json) |
 | Duke Nukem: Alien Armageddon | 125287 | [125287-duke-nukem-alien-armageddon.json](./125287-duke-nukem-alien-armageddon.json) |
 | Duke Nukem: D-Day | 348367 | [348367-duke-nukem-d-day.json](./348367-duke-nukem-d-day.json) |
+| Duke Nukem: Endangered Species | 60671 | [60671-duke-nukem-endangered-species.json](./60671-duke-nukem-endangered-species.json) |
 | Duke Nukem: Episode 2 - Mission: Moonbase | 129403 | [129403-duke-nukem-episode-2-mission-moonbase.json](./129403-duke-nukem-episode-2-mission-moonbase.json) |
 | Duke Nukem: Episode 3 - Trapped in the Future | 129404 | [129404-duke-nukem-episode-3-trapped-in-the-future.json](./129404-duke-nukem-episode-3-trapped-in-the-future.json) |
 | Duke Nukem: Land of the Babes | 8504 | [8504-duke-nukem-land-of-the-babes.json](./8504-duke-nukem-land-of-the-babes.json) |
