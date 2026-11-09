@@ -143,6 +143,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Qix | 281058 | [281058-qix.json](./281058-qix.json) |
 | Qix | 281059 | [281059-qix.json](./281059-qix.json) |
 | Qix | 281060 | [281060-qix.json](./281060-qix.json) |
+| Qix Adventure | 49997 | [49997-qix-adventure.json](./49997-qix-adventure.json) |
 | QIX II - Tournament | 67247 | [67247-qix-ii-tournament.json](./67247-qix-ii-tournament.json) |
 | Qix Neo | 44746 | [44746-qix-neo.json](./44746-qix-neo.json) |
 | QIX++ | 67255 | [67255-qix.json](./67255-qix.json) |
