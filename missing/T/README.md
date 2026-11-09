@@ -8490,6 +8490,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Deadly Dungeons of Baron Backslash | 181697 | [181697-the-deadly-dungeons-of-baron-backslash.json](./181697-the-deadly-dungeons-of-baron-backslash.json) |
 | The Deadly Facade | 156942 | [156942-the-deadly-facade.json](./156942-the-deadly-facade.json) |
 | The Deadly Path | 253835 | [253835-the-deadly-path.json](./253835-the-deadly-path.json) |
+| The Deadly Tower of Monsters | 14740 | [14740-the-deadly-tower-of-monsters.json](./14740-the-deadly-tower-of-monsters.json) |
 | The Deadseat | 343226 | [343226-the-deadseat.json](./343226-the-deadseat.json) |
 | The Deal | 292893 | [292893-the-deal.json](./292893-the-deal.json) |
 | The Deal | 30118 | [30118-the-deal.json](./30118-the-deal.json) |
@@ -28907,6 +28908,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Traildown: Downhill Mountain Biking | 226587 | [226587-traildown-downhill-mountain-biking.json](./226587-traildown-downhill-mountain-biking.json) |
 | Trailer Game | 390557 | [390557-trailer-game.json](./390557-trailer-game.json) |
 | Trailer Park Boys: Grea$y Money | 76608 | [76608-trailer-park-boys-grea-y-money.json](./76608-trailer-park-boys-grea-y-money.json) |
+| Trailer Park King | 65755 | [65755-trailer-park-king.json](./65755-trailer-park-king.json) |
 | Trailer Park King 3DD | 63615 | [63615-trailer-park-king-3dd.json](./63615-trailer-park-king-3dd.json) |
 | Trailer Park King Episode 2 | 85803 | [85803-trailer-park-king-episode-2.json](./85803-trailer-park-king-episode-2.json) |
 | Trailer Park Life | 232883 | [232883-trailer-park-life.json](./232883-trailer-park-life.json) |
@@ -32732,6 +32734,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tropicats | 120227 | [120227-tropicats.json](./120227-tropicats.json) |
 | TropicHell | 364371 | [364371-tropichell.json](./364371-tropichell.json) |
 | Tropico | 104248 | [104248-tropico.json](./104248-tropico.json) |
+| Tropico | 274 | [274-tropico.json](./274-tropico.json) |
 | Tropico | 293374 | [293374-tropico.json](./293374-tropico.json) |
 | Tropico 2: Pirate Cove | 3323 | [3323-tropico-2-pirate-cove.json](./3323-tropico-2-pirate-cove.json) |
 | Tropico 3 | 2594 | [2594-tropico-3.json](./2594-tropico-3.json) |
@@ -32845,6 +32848,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trough the lab | 232024 | [232024-trough-the-lab.json](./232024-trough-the-lab.json) |
 | Troupe | 139594 | [139594-troupe.json](./139594-troupe.json) |
 | Trouserheart | 61113 | [61113-trouserheart.json](./61113-trouserheart.json) |
+| Trove | 9728 | [9728-trove.json](./9728-trove.json) |
 | Trove: Arcanium Expedition Pack | 168147 | [168147-trove-arcanium-expedition-pack.json](./168147-trove-arcanium-expedition-pack.json) |
 | Trove: Botanical Blaster Pack | 168144 | [168144-trove-botanical-blaster-pack.json](./168144-trove-botanical-blaster-pack.json) |
 | Trove: Double Dragon Pack | 168146 | [168146-trove-double-dragon-pack.json](./168146-trove-double-dragon-pack.json) |
