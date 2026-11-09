@@ -562,6 +562,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Packs Revenge | 98823 | [98823-packs-revenge.json](./98823-packs-revenge.json) |
 | Packs World | 98827 | [98827-packs-world.json](./98827-packs-world.json) |
 | Packs World 2 | 98826 | [98826-packs-world-2.json](./98826-packs-world-2.json) |
+| Packs World 3D | 16589 | [16589-packs-world-3d.json](./16589-packs-world-3d.json) |
 | Packy & Marlon | 42475 | [42475-packy-and-marlon.json](./42475-packy-and-marlon.json) |
 | PacMac Deluxe | 146224 | [146224-pacmac-deluxe.json](./146224-pacmac-deluxe.json) |
 | Pacmaga | 214249 | [214249-pacmaga.json](./214249-pacmaga.json) |
@@ -2052,6 +2053,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Paradise Heights GB | 330593 | [330593-paradise-heights-gb.json](./330593-paradise-heights-gb.json) |
 | Paradise Homeland | 217242 | [217242-paradise-homeland.json](./217242-paradise-homeland.json) |
 | Paradise Inc | 368095 | [368095-paradise-inc.json](./368095-paradise-inc.json) |
+| Paradise Island | 16588 | [16588-paradise-island.json](./16588-paradise-island.json) |
 | Paradise Island | 377593 | [377593-paradise-island.json](./377593-paradise-island.json) |
 | Paradise Island Driver | 201257 | [201257-paradise-island-driver.json](./201257-paradise-island-driver.json) |
 | Paradise Island: Exotic | 344008 | [344008-paradise-island-exotic.json](./344008-paradise-island-exotic.json) |
@@ -9489,6 +9491,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Planet Alcatraz 2 | 34779 | [34779-planet-alcatraz-2.json](./34779-planet-alcatraz-2.json) |
 | Planet Ancrya Chronicles | 105557 | [105557-planet-ancrya-chronicles.json](./105557-planet-ancrya-chronicles.json) |
 | Planet Ancyra Chronicles | 38795 | [38795-planet-ancyra-chronicles.json](./38795-planet-ancyra-chronicles.json) |
+| Planet Arkadia | 16614 | [16614-planet-arkadia.json](./16614-planet-arkadia.json) |
 | Planet Assault | 89936 | [89936-planet-assault.json](./89936-planet-assault.json) |
 | Planet Automata | 121941 | [121941-planet-automata.json](./121941-planet-automata.json) |
 | Planet B24 | 154374 | [154374-planet-b24.json](./154374-planet-b24.json) |
@@ -10309,6 +10312,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | PlayStation All-Stars Battle Royale: Isaac Clarke | 313041 | [313041-playstation-all-stars-battle-royale-isaac-clarke.json](./313041-playstation-all-stars-battle-royale-isaac-clarke.json) |
 | PlayStation All-Stars Battle Royale: Kat & Dusty | 313037 | [313037-playstation-all-stars-battle-royale-kat-and-dusty.json](./313037-playstation-all-stars-battle-royale-kat-and-dusty.json) |
 | PlayStation All-Stars Battle Royale: Zeus | 313040 | [313040-playstation-all-stars-battle-royale-zeus.json](./313040-playstation-all-stars-battle-royale-zeus.json) |
+| PlayStation All-Stars Island | 16596 | [16596-playstation-all-stars-island.json](./16596-playstation-all-stars-island.json) |
 | PlayStation Classic | 213365 | [213365-playstation-classic.json](./213365-playstation-classic.json) |
 | PlayStation Home | 80196 | [80196-playstation-home.json](./80196-playstation-home.json) |
 | PlayStation Home Arcade | 80197 | [80197-playstation-home-arcade.json](./80197-playstation-home-arcade.json) |
@@ -11759,6 +11763,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pokémon Odyssey | 300329 | [300329-pokemon-odyssey.json](./300329-pokemon-odyssey.json) |
 | Pokémon Omega Ruby and Alpha Sapphire Special Demo Version | 313320 | [313320-pokemon-omega-ruby-and-alpha-sapphire-special-demo-version.json](./313320-pokemon-omega-ruby-and-alpha-sapphire-special-demo-version.json) |
 | Pokémon Omega Ruby and Pokémon Alpha Sapphire Dual Pack | 159108 | [159108-pokemon-omega-ruby-and-pokemon-alpha-sapphire-dual-pack.json](./159108-pokemon-omega-ruby-and-pokemon-alpha-sapphire-dual-pack.json) |
+| Pokémon Omicron | 16615 | [16615-pokemon-omicron.json](./16615-pokemon-omicron.json) |
 | Pokémon Online | 311459 | [311459-pokemon-online.json](./311459-pokemon-online.json) |
 | Pokémon Ópalo | 194322 | [194322-pokemon-opalo.json](./194322-pokemon-opalo.json) |
 | Pokémon Orange | 141203 | [141203-pokemon-orange.json](./141203-pokemon-orange.json) |
@@ -13473,6 +13478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Portal | 14546 | [14546-portal.json](./14546-portal.json) |
 | Portal | 311949 | [311949-portal.json](./311949-portal.json) |
 | Portal 1 Multiplayer | 232806 | [232806-portal-1-multiplayer.json](./232806-portal-1-multiplayer.json) |
+| Portal 2 Sixense Perceptual Pack | 16628 | [16628-portal-2-sixense-perceptual-pack.json](./16628-portal-2-sixense-perceptual-pack.json) |
 | Portal 2: Alive Again | 322239 | [322239-portal-2-alive-again.json](./322239-portal-2-alive-again.json) |
 | Portal 2: And the Abyss Gazes Back Part 1 | 183424 | [183424-portal-2-and-the-abyss-gazes-back-part-1.json](./183424-portal-2-and-the-abyss-gazes-back-part-1.json) |
 | Portal 2: Community Edition | 169962 | [169962-portal-2-community-edition.json](./169962-portal-2-community-edition.json) |
@@ -15506,6 +15512,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Private Detective Punch Drunk: PDPD | 77365 | [77365-private-detective-punch-drunk-pdpd.json](./77365-private-detective-punch-drunk-pdpd.json) |
 | Private Eye | 10999 | [10999-private-eye.json](./10999-private-eye.json) |
 | Private Eye | 25833 | [25833-private-eye.json](./25833-private-eye.json) |
+| Private Eye VR | 17471 | [17471-private-eye-vr.json](./17471-private-eye-vr.json) |
 | Private Eye: Greatest Unsolved Mysteries | 327257 | [327257-private-eye-greatest-unsolved-mysteries.json](./327257-private-eye-greatest-unsolved-mysteries.json) |
 | Private Eye: The Young Heir | 348374 | [348374-private-eye-the-young-heir.json](./348374-private-eye-the-young-heir.json) |
 | Private Garden | 331099 | [331099-private-garden.json](./331099-private-garden.json) |
