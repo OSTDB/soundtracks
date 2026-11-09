@@ -1261,6 +1261,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | EDF Overtaken | 273236 | [273236-edf-overtaken.json](./273236-edf-overtaken.json) |
 | EDF Secret Base | 270698 | [270698-edf-secret-base.json](./270698-edf-secret-base.json) |
 | Edgar | 193072 | [193072-edgar.json](./193072-edgar.json) |
+| Edgar | 33189 | [33189-edgar.json](./33189-edgar.json) |
 | Edgar A. Poe: The Oval Portrait | 205109 | [205109-edgar-a-poe-the-oval-portrait.json](./205109-edgar-a-poe-the-oval-portrait.json) |
 | Edgar Torronteras Extreme Biker | 24112 | [24112-edgar-torronteras-extreme-biker.json](./24112-edgar-torronteras-extreme-biker.json) |
 | Edgar Torronteras' Moto-X 2000 | 63629 | [63629-edgar-torronteras-moto-x-2000.json](./63629-edgar-torronteras-moto-x-2000.json) |
@@ -5043,6 +5044,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eris and the Fading Kingdom | 208589 | [208589-eris-and-the-fading-kingdom.json](./208589-eris-and-the-fading-kingdom.json) |
 | Eris Dysnomia | 253379 | [253379-eris-dysnomia.json](./253379-eris-dysnomia.json) |
 | ErIS: Z. θ-pRogram | 263950 | [263950-eris-z-program.json](./263950-eris-z-program.json) |
+| Erisle | 32336 | [32336-erisle.json](./32336-erisle.json) |
 | Erit | 152233 | [152233-erit.json](./152233-erit.json) |
 | Erix | 274743 | [274743-erix.json](./274743-erix.json) |
 | Erk: Adventures in Stone Age Real Estate | 322347 | [322347-erk-adventures-in-stone-age-real-estate.json](./322347-erk-adventures-in-stone-age-real-estate.json) |
