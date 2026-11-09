@@ -2560,6 +2560,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gears of War 3: Epic Edition | 47456 | [47456-gears-of-war-3-epic-edition.json](./47456-gears-of-war-3-epic-edition.json) |
 | Gears of War 3: Fenix Rising | 20656 | [20656-gears-of-war-3-fenix-rising.json](./20656-gears-of-war-3-fenix-rising.json) |
 | Gears of War 3: Forces of Nature | 148248 | [148248-gears-of-war-3-forces-of-nature.json](./148248-gears-of-war-3-forces-of-nature.json) |
+| Gears of War 3: Limited Collector's Edition | 47384 | [47384-gears-of-war-3-limited-collectors-edition.json](./47384-gears-of-war-3-limited-collectors-edition.json) |
 | Gears of War 3: Raam's Shadow | 21844 | [21844-gears-of-war-3-raams-shadow.json](./21844-gears-of-war-3-raams-shadow.json) |
 | Gears of War 4: Amazon Exclusive Collector's Edition | 51540 | [51540-gears-of-war-4-amazon-exclusive-collectors-edition.json](./51540-gears-of-war-4-amazon-exclusive-collectors-edition.json) |
 | Gears of War 4: Collector's Edition - Outsider Variant | 89838 | [89838-gears-of-war-4-collectors-edition-outsider-variant.json](./89838-gears-of-war-4-collectors-edition-outsider-variant.json) |
@@ -3949,6 +3950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ghost Master: Resurrection - Core Edition | 386806 | [386806-ghost-master-resurrection-core-edition.json](./386806-ghost-master-resurrection-core-edition.json) |
 | Ghost Master: Resurrection - Frightful Night | 396130 | [396130-ghost-master-resurrection-frightful-night.json](./396130-ghost-master-resurrection-frightful-night.json) |
 | Ghost Master: Resurrection - Relics of the Past | 396127 | [396127-ghost-master-resurrection-relics-of-the-past.json](./396127-ghost-master-resurrection-relics-of-the-past.json) |
+| Ghost Master: The Gravenville Chronicles | 47352 | [47352-ghost-master-the-gravenville-chronicles.json](./47352-ghost-master-the-gravenville-chronicles.json) |
 | Ghost Mayoker | 267919 | [267919-ghost-mayoker.json](./267919-ghost-mayoker.json) |
 | Ghost Maze | 250889 | [250889-ghost-maze.json](./250889-ghost-maze.json) |
 | Ghost Member | 264689 | [264689-ghost-member.json](./264689-ghost-member.json) |
@@ -11399,6 +11401,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Gungrave VR: Loaded Coffin Edition | 166230 | [166230-gungrave-vr-loaded-coffin-edition.json](./166230-gungrave-vr-loaded-coffin-edition.json) |
 | Gungrave: Overdose | 22452 | [22452-gungrave-overdose.json](./22452-gungrave-overdose.json) |
 | Gungriffon Blaze | 21978 | [21978-gungriffon-blaze.json](./21978-gungriffon-blaze.json) |
+| GunGriffon: Allied Strike | 47355 | [47355-gungriffon-allied-strike.json](./47355-gungriffon-allied-strike.json) |
 | GunGun Online: Shooting Game | 108153 | [108153-gungun-online-shooting-game.json](./108153-gungun-online-shooting-game.json) |
 | GunGun: Race Against Time | 297514 | [297514-gungun-race-against-time.json](./297514-gungun-race-against-time.json) |
 | Gungungun | 30905 | [30905-gungungun.json](./30905-gungungun.json) |
