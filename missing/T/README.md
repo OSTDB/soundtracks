@@ -14567,6 +14567,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Nadi Project | 32594 | [32594-the-nadi-project.json](./32594-the-nadi-project.json) |
 | The Naked Brothers Band | 5046 | [5046-the-naked-brothers-band.json](./5046-the-naked-brothers-band.json) |
 | The Naked Brothers Band: The Video Game | 47955 | [47955-the-naked-brothers-band-the-video-game.json](./47955-the-naked-brothers-band-the-video-game.json) |
+| The Naked Gun: I.C.U.P. | 65083 | [65083-the-naked-gun-i-c-u-p.json](./65083-the-naked-gun-i-c-u-p.json) |
 | The Naki Files | 332937 | [332937-the-naki-files.json](./332937-the-naki-files.json) |
 | The Name I Wear | 408022 | [408022-the-name-i-wear.json](./408022-the-name-i-wear.json) |
 | The Name is Dio | 305110 | [305110-the-name-is-dio.json](./305110-the-name-is-dio.json) |
@@ -33897,6 +33898,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tutankham | 218928 | [218928-tutankham.json](./218928-tutankham.json) |
 | Tutankham | 385836 | [385836-tutankham.json](./385836-tutankham.json) |
 | Tutankham | 5701 | [5701-tutankham.json](./5701-tutankham.json) |
+| Tutankhamon | 64612 | [64612-tutankhamon.json](./64612-tutankhamon.json) |
 | Tutankhamun: Builders of the Eternal | 378360 | [378360-tutankhamun-builders-of-the-eternal.json](./378360-tutankhamun-builders-of-the-eternal.json) |
 | Tutel Quest | 291168 | [291168-tutel-quest.json](./291168-tutel-quest.json) |
 | Tutelary | 246371 | [246371-tutelary.json](./246371-tutelary.json) |
