@@ -6151,6 +6151,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Serum | 216721 | [216721-serum.json](./216721-serum.json) |
 | Serum | 273863 | [273863-serum.json](./273863-serum.json) |
 | Serum X | 95229 | [95229-serum-x.json](./95229-serum-x.json) |
+| Servant of Thrones | 28365 | [28365-servant-of-thrones.json](./28365-servant-of-thrones.json) |
 | Servants of Sumomon | 217134 | [217134-servants-of-sumomon.json](./217134-servants-of-sumomon.json) |
 | Serve & Protect Bundle | 311048 | [311048-serve-and-protect-bundle.json](./311048-serve-and-protect-bundle.json) |
 | Serve & Volley | 94267 | [94267-serve-and-volley.json](./94267-serve-and-volley.json) |
@@ -7627,6 +7628,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shanubis | 223459 | [223459-shanubis.json](./223459-shanubis.json) |
 | Shanye | 153524 | [153524-shanye.json](./153524-shanye.json) |
 | Shao Lin | 137383 | [137383-shao-lin.json](./137383-shao-lin.json) |
+| Shao-Lin's Road | 28954 | [28954-shao-lins-road.json](./28954-shao-lins-road.json) |
 | Shaola | 57769 | [57769-shaola.json](./57769-shaola.json) |
 | Shaolin | 18299 | [18299-shaolin.json](./18299-shaolin.json) |
 | Shaolin Bao | 303478 | [303478-shaolin-bao.json](./303478-shaolin-bao.json) |
@@ -9540,6 +9542,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Shooting Gallery | 218543 | [218543-shooting-gallery.json](./218543-shooting-gallery.json) |
 | Shooting Gallery | 229910 | [229910-shooting-gallery.json](./229910-shooting-gallery.json) |
 | Shooting Gallery | 245091 | [245091-shooting-gallery.json](./245091-shooting-gallery.json) |
+| Shooting Gallery | 28363 | [28363-shooting-gallery.json](./28363-shooting-gallery.json) |
 | Shooting Gallery | 68566 | [68566-shooting-gallery.json](./68566-shooting-gallery.json) |
 | Shooting Gallery for Playdate | 230786 | [230786-shooting-gallery-for-playdate.json](./230786-shooting-gallery-for-playdate.json) |
 | Shooting Gallery Mayhem | 117516 | [117516-shooting-gallery-mayhem.json](./117516-shooting-gallery-mayhem.json) |
@@ -11667,6 +11670,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Simply Sudoku | 85379 | [85379-simply-sudoku.json](./85379-simply-sudoku.json) |
 | Simply Survive | 246788 | [246788-simply-survive.json](./246788-simply-survive.json) |
 | SimplyTrivia | 96433 | [96433-simplytrivia.json](./96433-simplytrivia.json) |
+| Simplz Zoo | 28985 | [28985-simplz-zoo.json](./28985-simplz-zoo.json) |
 | SimPocalypse | 145846 | [145846-simpocalypse.json](./145846-simpocalypse.json) |
 | SimPoly Drive | 243522 | [243522-simpoly-drive.json](./243522-simpoly-drive.json) |
 | Simpsons Treehouse of horror | 102715 | [102715-simpsons-treehouse-of-horror.json](./102715-simpsons-treehouse-of-horror.json) |
@@ -17673,6 +17677,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Somewhere in Hell | 311364 | [311364-somewhere-in-hell.json](./311364-somewhere-in-hell.json) |
 | Somewhere in İstanbul | 410644 | [410644-somewhere-in-istanbul.json](./410644-somewhere-in-istanbul.json) |
 | Somewhere in Space... | 178644 | [178644-somewhere-in-space.json](./178644-somewhere-in-space.json) |
+| Somewhere in the Distance | 28369 | [28369-somewhere-in-the-distance.json](./28369-somewhere-in-the-distance.json) |
 | Somewhere in the Shadow | 163663 | [163663-somewhere-in-the-shadow.json](./163663-somewhere-in-the-shadow.json) |
 | Somewhere in Time | 273723 | [273723-somewhere-in-time.json](./273723-somewhere-in-time.json) |
 | Somewhere in Time and Space | 347720 | [347720-somewhere-in-time-and-space.json](./347720-somewhere-in-time-and-space.json) |
@@ -19327,6 +19332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Soul Hackers 2: Digital Deluxe Edition | 213330 | [213330-soul-hackers-2-digital-deluxe-edition.json](./213330-soul-hackers-2-digital-deluxe-edition.json) |
 | Soul Hackers 2: Digital Premium Edition | 213331 | [213331-soul-hackers-2-digital-premium-edition.json](./213331-soul-hackers-2-digital-premium-edition.json) |
 | Soul Hackers 2: Launch Edition | 204915 | [204915-soul-hackers-2-launch-edition.json](./204915-soul-hackers-2-launch-edition.json) |
+| Soul Harvest | 28967 | [28967-soul-harvest.json](./28967-soul-harvest.json) |
 | Soul Hero Adventure | 291306 | [291306-soul-hero-adventure.json](./291306-soul-hero-adventure.json) |
 | Soul Historica | 118181 | [118181-soul-historica.json](./118181-soul-historica.json) |
 | Soul Hunter | 383680 | [383680-soul-hunter.json](./383680-soul-hunter.json) |
@@ -20681,6 +20687,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Space Mouse: 35th Anniversary Edition | 98525 | [98525-space-mouse-35th-anniversary-edition.json](./98525-space-mouse-35th-anniversary-edition.json) |
 | Space Moves | 272141 | [272141-space-moves.json](./272141-space-moves.json) |
 | Space Mutants | 283803 | [283803-space-mutants.json](./283803-space-mutants.json) |
+| Space N Traders | 28374 | [28374-space-n-traders.json](./28374-space-n-traders.json) |
 | Space Nation Online | 258920 | [258920-space-nation-online.json](./258920-space-nation-online.json) |
 | Space Nature Attack Tower Defense | 287222 | [287222-space-nature-attack-tower-defense.json](./287222-space-nature-attack-tower-defense.json) |
 | Space Needle VR | 34139 | [34139-space-needle-vr.json](./34139-space-needle-vr.json) |
@@ -26567,6 +26574,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Starship | 268911 | [268911-starship.json](./268911-starship.json) |
 | Starship | 271761 | [271761-starship.json](./271761-starship.json) |
 | Starship | 326758 | [326758-starship.json](./326758-starship.json) |
+| Starship 1 | 28364 | [28364-starship-1.json](./28364-starship-1.json) |
 | Starship 43 | 249957 | [249957-starship-43.json](./249957-starship-43.json) |
 | Starship Annihilator | 31391 | [31391-starship-annihilator.json](./31391-starship-annihilator.json) |
 | Starship Annihilator: Complete Edition | 53659 | [53659-starship-annihilator-complete-edition.json](./53659-starship-annihilator-complete-edition.json) |
@@ -34735,6 +34743,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Super Wiloo Deluxe | 415862 | [415862-super-wiloo-deluxe.json](./415862-super-wiloo-deluxe.json) |
 | Super Wiloo Demake | 121236 | [121236-super-wiloo-demake.json](./121236-super-wiloo-demake.json) |
 | Super Wing Commander | 4323 | [4323-super-wing-commander.json](./4323-super-wing-commander.json) |
+| Super Wipeout | 28353 | [28353-super-wipeout.json](./28353-super-wipeout.json) |
 | Super Wizard | 212431 | [212431-super-wizard.json](./212431-super-wizard.json) |
 | Super Wizard Fever | 197347 | [197347-super-wizard-fever.json](./197347-super-wizard-fever.json) |
 | Super Woden GP | 150979 | [150979-super-woden-gp.json](./150979-super-woden-gp.json) |
