@@ -7501,6 +7501,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lonely Tiny Spaceship | 294115 | [294115-lonely-tiny-spaceship.json](./294115-lonely-tiny-spaceship.json) |
 | Lonely Tribes | 192372 | [192372-lonely-tribes.json](./192372-lonely-tribes.json) |
 | Lonely Trip | 83572 | [83572-lonely-trip.json](./83572-lonely-trip.json) |
+| Lonely Troops Collection | 53304 | [53304-lonely-troops-collection.json](./53304-lonely-troops-collection.json) |
 | Lonely Vietnam | 401600 | [401600-lonely-vietnam.json](./401600-lonely-vietnam.json) |
 | Lonely Vietnam 3: Sweet Revenge | 401603 | [401603-lonely-vietnam-3-sweet-revenge.json](./401603-lonely-vietnam-3-sweet-revenge.json) |
 | Lonely White | 212993 | [212993-lonely-white.json](./212993-lonely-white.json) |
@@ -7816,6 +7817,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Loot & Ledger | 373055 | [373055-loot-and-ledger.json](./373055-loot-and-ledger.json) |
 | Loot & Legends | 22354 | [22354-loot-and-legends.json](./22354-loot-and-legends.json) |
 | Loot & Looter | 184209 | [184209-loot-and-looter.json](./184209-loot-and-looter.json) |
+| Loot all the Heroes | 53303 | [53303-loot-all-the-heroes.json](./53303-loot-all-the-heroes.json) |
 | Loot And Defend | 390336 | [390336-loot-and-defend.json](./390336-loot-and-defend.json) |
 | Loot and Order | 385336 | [385336-loot-and-order.json](./385336-loot-and-order.json) |
 | Loot and Shoot | 250000 | [250000-loot-and-shoot.json](./250000-loot-and-shoot.json) |
@@ -8059,8 +8061,13 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of the Fallen: Collector's Edition | 28128 | [28128-lords-of-the-fallen-collectors-edition.json](./28128-lords-of-the-fallen-collectors-edition.json) |
 | Lords of the Fallen: Complete Edition | 166990 | [166990-lords-of-the-fallen-complete-edition.json](./166990-lords-of-the-fallen-complete-edition.json) |
 | Lords of the Fallen: Deluxe Edition | 250427 | [250427-lords-of-the-fallen-deluxe-edition.json](./250427-lords-of-the-fallen-deluxe-edition.json) |
+| Lords of the Fallen: Digital Deluxe Edition | 53302 | [53302-lords-of-the-fallen-digital-deluxe-edition.json](./53302-lords-of-the-fallen-digital-deluxe-edition.json) |
 | Lords of the Fallen: Game of the Year Edition | 24728 | [24728-lords-of-the-fallen-game-of-the-year-edition.json](./24728-lords-of-the-fallen-game-of-the-year-edition.json) |
+| Lords of the Fallen: Limited Edition | 53298 | [53298-lords-of-the-fallen-limited-edition.json](./53298-lords-of-the-fallen-limited-edition.json) |
 | Lords of the Fallen: Master of Fate Update | 299144 | [299144-lords-of-the-fallen-master-of-fate-update.json](./299144-lords-of-the-fallen-master-of-fate-update.json) |
+| Lords of the Fallen: The Arcane Boost | 53300 | [53300-lords-of-the-fallen-the-arcane-boost.json](./53300-lords-of-the-fallen-the-arcane-boost.json) |
+| Lords of the Fallen: The Foundation Boost | 53299 | [53299-lords-of-the-fallen-the-foundation-boost.json](./53299-lords-of-the-fallen-the-foundation-boost.json) |
+| Lords of the Fallen: The Monk's Decipher | 53301 | [53301-lords-of-the-fallen-the-monks-decipher.json](./53301-lords-of-the-fallen-the-monks-decipher.json) |
 | Lords of the Lockerroom | 117920 | [117920-lords-of-the-lockerroom.json](./117920-lords-of-the-lockerroom.json) |
 | Lords of the Realm | 12669 | [12669-lords-of-the-realm.json](./12669-lords-of-the-realm.json) |
 | Lords of the Realm II | 19124 | [19124-lords-of-the-realm-ii.json](./19124-lords-of-the-realm-ii.json) |
@@ -8072,8 +8079,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lords of the Void | 328183 | [328183-lords-of-the-void.json](./328183-lords-of-the-void.json) |
 | Lords of Time | 23050 | [23050-lords-of-time.json](./23050-lords-of-time.json) |
 | Lords of Uberdark | 65774 | [65774-lords-of-uberdark.json](./65774-lords-of-uberdark.json) |
+| Lords of War | 53315 | [53315-lords-of-war.json](./53315-lords-of-war.json) |
 | Lords of Xulima | 9191 | [9191-lords-of-xulima.json](./9191-lords-of-xulima.json) |
 | Lords of Xulima: Deluxe Edition | 51840 | [51840-lords-of-xulima-deluxe-edition.json](./51840-lords-of-xulima-deluxe-edition.json) |
+| Lords of Xulima: The Talisman of Golot | 53297 | [53297-lords-of-xulima-the-talisman-of-golot.json](./53297-lords-of-xulima-the-talisman-of-golot.json) |
 | Lordship | 350047 | [350047-lordship.json](./350047-lordship.json) |
 | Lordz.io | 100949 | [100949-lordz-io.json](./100949-lordz-io.json) |
 | Lore City: Alkahest | 179938 | [179938-lore-city-alkahest.json](./179938-lore-city-alkahest.json) |
@@ -8363,6 +8372,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Hammer | 221754 | [221754-lost-hammer.json](./221754-lost-hammer.json) |
 | Lost Harem | 173823 | [173823-lost-harem.json](./173823-lost-harem.json) |
 | Lost Harmony | 278978 | [278978-lost-harmony.json](./278978-lost-harmony.json) |
+| Lost Head | 53296 | [53296-lost-head.json](./53296-lost-head.json) |
 | Lost Hearts | 379724 | [379724-lost-hearts.json](./379724-lost-hearts.json) |
 | Lost Heaven Station | 319915 | [319915-lost-heaven-station.json](./319915-lost-heaven-station.json) |
 | Lost Heroes | 184333 | [184333-lost-heroes.json](./184333-lost-heroes.json) |
@@ -8411,6 +8421,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in Hell | 207786 | [207786-lost-in-hell.json](./207786-lost-in-hell.json) |
 | Lost in Hieroglyphs: A Hidden Objects Expedition | 317020 | [317020-lost-in-hieroglyphs-a-hidden-objects-expedition.json](./317020-lost-in-hieroglyphs-a-hidden-objects-expedition.json) |
 | Lost in Immortal Island | 302153 | [302153-lost-in-immortal-island.json](./302153-lost-in-immortal-island.json) |
+| Lost in Japan | 53295 | [53295-lost-in-japan.json](./53295-lost-in-japan.json) |
 | Lost in Labs | 152481 | [152481-lost-in-labs.json](./152481-lost-in-labs.json) |
 | Lost in Limbo | 307932 | [307932-lost-in-limbo.json](./307932-lost-in-limbo.json) |
 | Lost in Loss | 355104 | [355104-lost-in-loss.json](./355104-lost-in-loss.json) |
@@ -8452,6 +8463,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost in the Backrooms | 121274 | [121274-lost-in-the-backrooms.json](./121274-lost-in-the-backrooms.json) |
 | Lost in the Backrooms | 221756 | [221756-lost-in-the-backrooms.json](./221756-lost-in-the-backrooms.json) |
 | Lost in the Backrooms: Day 100 | 375805 | [375805-lost-in-the-backrooms-day-100.json](./375805-lost-in-the-backrooms-day-100.json) |
+| Lost in the Boreal | 53294 | [53294-lost-in-the-boreal.json](./53294-lost-in-the-boreal.json) |
 | Lost in the City | 57962 | [57962-lost-in-the-city.json](./57962-lost-in-the-city.json) |
 | Lost in the City: Post Scriptum | 57963 | [57963-lost-in-the-city-post-scriptum.json](./57963-lost-in-the-city-post-scriptum.json) |
 | Lost in the Dance | 182155 | [182155-lost-in-the-dance.json](./182155-lost-in-the-dance.json) |
@@ -8539,6 +8551,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Lost Lagoon: The Trail of Destiny | 214018 | [214018-lost-lagoon-the-trail-of-destiny.json](./214018-lost-lagoon-the-trail-of-destiny.json) |
 | Lost Land Adventure | 124422 | [124422-lost-land-adventure.json](./124422-lost-land-adventure.json) |
 | Lost Lands | 246264 | [246264-lost-lands.json](./246264-lost-lands.json) |
+| Lost Lands Collection | 53293 | [53293-lost-lands-collection.json](./53293-lost-lands-collection.json) |
 | Lost Lands X | 334170 | [334170-lost-lands-x.json](./334170-lost-lands-x.json) |
 | Lost Lands: Dark Overlord | 35078 | [35078-lost-lands-dark-overlord.json](./35078-lost-lands-dark-overlord.json) |
 | Lost Lands: Ice Spell | 105285 | [105285-lost-lands-ice-spell.json](./105285-lost-lands-ice-spell.json) |
