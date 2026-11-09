@@ -30,6 +30,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | J.B... | 228005 | [228005-j-b.json](./228005-j-b.json) |
 | J.D. Arcades | 319584 | [319584-j-d-arcades.json](./319584-j-d-arcades.json) |
 | J.Edgar Hoover Vs. Kennedy | 135087 | [135087-j-edgar-hoover-vs-kennedy.json](./135087-j-edgar-hoover-vs-kennedy.json) |
+| J.J. & Jeff | 42106 | [42106-j-j-and-jeff.json](./42106-j-j-and-jeff.json) |
 | J.J's Tennis Tour | 237006 | [237006-j-js-tennis-tour.json](./237006-j-js-tennis-tour.json) |
 | J.League 3D Stage | 234089 | [234089-j-league-3d-stage.json](./234089-j-league-3d-stage.json) |
 | J.League Big Wave Soccer | 65030 | [65030-j-league-big-wave-soccer.json](./65030-j-league-big-wave-soccer.json) |
