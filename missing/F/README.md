@@ -3359,6 +3359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Fate/Extra | 12382 | [12382-fate-extra.json](./12382-fate-extra.json) |
 | Fate/Extra Record | 142911 | [142911-fate-extra-record.json](./142911-fate-extra-record.json) |
 | Fate/Extra Record: Limited Edition | 416864 | [416864-fate-extra-record-limited-edition.json](./416864-fate-extra-record-limited-edition.json) |
+| Fate/Extra: Limited Edition | 42715 | [42715-fate-extra-limited-edition.json](./42715-fate-extra-limited-edition.json) |
 | Fate/Grand Order Arcade | 54898 | [54898-fate-grand-order-arcade.json](./54898-fate-grand-order-arcade.json) |
 | Fate/Grand Order Lostbelt No. 1: Anastasia | 414302 | [414302-fate-grand-order-lostbelt-no-1-anastasia.json](./414302-fate-grand-order-lostbelt-no-1-anastasia.json) |
 | Fate/Grand Order Lostbelt No. 3: SIN | 414304 | [414304-fate-grand-order-lostbelt-no-3-sin.json](./414304-fate-grand-order-lostbelt-no-3-sin.json) |
@@ -5413,6 +5414,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Final Gun | 241517 | [241517-final-gun.json](./241517-final-gun.json) |
 | Final Heroes | 124419 | [124419-final-heroes.json](./124419-final-heroes.json) |
 | Final Hope: The Plot | 160101 | [160101-final-hope-the-plot.json](./160101-final-hope-the-plot.json) |
+| Final Horizon | 42693 | [42693-final-horizon.json](./42693-final-horizon.json) |
 | Final Hour | 27772 | [27772-final-hour.json](./27772-final-hour.json) |
 | Final Hunter: Wild Animal Hunting | 101561 | [101561-final-hunter-wild-animal-hunting.json](./101561-final-hunter-wild-animal-hunting.json) |
 | Final Inferno | 179068 | [179068-final-inferno.json](./179068-final-inferno.json) |
@@ -9602,6 +9604,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Football Manager Handheld 2007 | 269427 | [269427-football-manager-handheld-2007.json](./269427-football-manager-handheld-2007.json) |
 | Football Manager Handheld 2008 | 269428 | [269428-football-manager-handheld-2008.json](./269428-football-manager-handheld-2008.json) |
 | Football Manager Handheld 2010 | 52218 | [52218-football-manager-handheld-2010.json](./52218-football-manager-handheld-2010.json) |
+| Football Manager Handheld 2011 | 42726 | [42726-football-manager-handheld-2011.json](./42726-football-manager-handheld-2011.json) |
 | Football Manager Handheld 2012 | 269429 | [269429-football-manager-handheld-2012.json](./269429-football-manager-handheld-2012.json) |
 | Football Manager Handheld 2013 | 42867 | [42867-football-manager-handheld-2013.json](./42867-football-manager-handheld-2013.json) |
 | Football Manager Handheld 2014 | 62519 | [62519-football-manager-handheld-2014.json](./62519-football-manager-handheld-2014.json) |
