@@ -849,6 +849,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | A Melon's Tale | 180671 | [180671-a-melons-tale.json](./180671-a-melons-tale.json) |
 | A Merchant's Promise | 327692 | [327692-a-merchants-promise.json](./327692-a-merchants-promise.json) |
 | A Mermaid's Paradoxical Tale | 273664 | [273664-a-mermaids-paradoxical-tale.json](./273664-a-mermaids-paradoxical-tale.json) |
+| A Mess O'Trouble | 66786 | [66786-a-mess-otrouble.json](./66786-a-mess-otrouble.json) |
 | A Message and an Advice | 159003 | [159003-a-message-and-an-advice.json](./159003-a-message-and-an-advice.json) |
 | A Message For The Stone King | 260077 | [260077-a-message-for-the-stone-king.json](./260077-a-message-for-the-stone-king.json) |
 | A Messenger | 282711 | [282711-a-messenger.json](./282711-a-messenger.json) |
@@ -3075,6 +3076,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Half-Life | 221840 | [221840-action-half-life.json](./221840-action-half-life.json) |
 | Action Hall of Fame | 137511 | [137511-action-hall-of-fame.json](./137511-action-hall-of-fame.json) |
 | Action Hero | 313769 | [313769-action-hero.json](./313769-action-hero.json) |
+| Action Hero | 66714 | [66714-action-hero.json](./66714-action-hero.json) |
 | Action Hollywood | 46767 | [46767-action-hollywood.json](./46767-action-hollywood.json) |
 | Action in the North Atlantic | 70452 | [70452-action-in-the-north-atlantic.json](./70452-action-in-the-north-atlantic.json) |
 | Action Janken | 404997 | [404997-action-janken.json](./404997-action-janken.json) |
@@ -11201,6 +11203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Another Eye | 151613 | [151613-another-eye.json](./151613-another-eye.json) |
 | Another Farm Roguelike | 214201 | [214201-another-farm-roguelike.json](./214201-another-farm-roguelike.json) |
 | Another Farm Roguelike: Rebirth | 283914 | [283914-another-farm-roguelike-rebirth.json](./283914-another-farm-roguelike-rebirth.json) |
+| Another Fine Mess | 66787 | [66787-another-fine-mess.json](./66787-another-fine-mess.json) |
 | Another FNaF Fangame: Open Source | 209285 | [209285-another-fnaf-fangame-open-source.json](./209285-another-fnaf-fangame-open-source.json) |
 | Another FPS Game | 150774 | [150774-another-fps-game.json](./150774-another-fps-game.json) |
 | Another Game About Clicking | 348859 | [348859-another-game-about-clicking.json](./348859-another-game-about-clicking.json) |
@@ -13754,6 +13757,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Arctico | 116599 | [116599-arctico.json](./116599-arctico.json) |
 | Arctictopia | 166403 | [166403-arctictopia.json](./166403-arctictopia.json) |
 | Arctis | 334663 | [334663-arctis.json](./334663-arctis.json) |
+| Arctopia | 66317 | [66317-arctopia.json](./66317-arctopia.json) |
 | Arcturus | 352103 | [352103-arcturus.json](./352103-arcturus.json) |
 | Arcturus | 421400 | [421400-arcturus.json](./421400-arcturus.json) |
 | Arcturus Proving Grounds | 61711 | [61711-arcturus-proving-grounds.json](./61711-arcturus-proving-grounds.json) |
@@ -16489,6 +16493,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Astro Attack | 298610 | [298610-astro-attack.json](./298610-astro-attack.json) |
 | Astro Avenger II | 51211 | [51211-astro-avenger-ii.json](./51211-astro-avenger-ii.json) |
 | Astro Bandits | 201662 | [201662-astro-bandits.json](./201662-astro-bandits.json) |
+| Astro Battle | 66811 | [66811-astro-battle.json](./66811-astro-battle.json) |
 | Astro Battlers TD | 203241 | [203241-astro-battlers-td.json](./203241-astro-battlers-td.json) |
 | Astro Bears | 120138 | [120138-astro-bears.json](./120138-astro-bears.json) |
 | Astro Bears + Non-Bears | 238147 | [238147-astro-bears-non-bears.json](./238147-astro-bears-non-bears.json) |
