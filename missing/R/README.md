@@ -1342,6 +1342,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Rain's Love Memory | 117087 | [117087-rains-love-memory.json](./117087-rains-love-memory.json) |
 | Rain98 | 339805 | [339805-rain98.json](./339805-rain98.json) |
 | Rainblocks | 212297 | [212297-rainblocks.json](./212297-rainblocks.json) |
+| Rainblood: Town of Death | 51341 | [51341-rainblood-town-of-death.json](./51341-rainblood-town-of-death.json) |
 | Rainbocorns | 147722 | [147722-rainbocorns.json](./147722-rainbocorns.json) |
 | Rainbound | 369265 | [369265-rainbound.json](./369265-rainbound.json) |
 | Rainbow | 196629 | [196629-rainbow.json](./196629-rainbow.json) |
@@ -4105,6 +4106,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Red November | 94031 | [94031-red-november.json](./94031-red-november.json) |
 | Red Oath: The Forsaken One | 391528 | [391528-red-oath-the-forsaken-one.json](./391528-red-oath-the-forsaken-one.json) |
 | Red Obsidian Remnant | 29070 | [29070-red-obsidian-remnant.json](./29070-red-obsidian-remnant.json) |
+| Red Ocean | 50918 | [50918-red-ocean.json](./50918-red-ocean.json) |
 | Red October | 316119 | [316119-red-october.json](./316119-red-october.json) |
 | Red Oddities | 239155 | [239155-red-oddities.json](./239155-red-oddities.json) |
 | Red Ops: The First Infection | 253860 | [253860-red-ops-the-first-infection.json](./253860-red-ops-the-first-infection.json) |
