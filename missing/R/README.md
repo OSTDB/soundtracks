@@ -2384,6 +2384,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Raving Mad | 93004 | [93004-raving-mad.json](./93004-raving-mad.json) |
 | Raving Rabbids Travel in Time Browser | 83902 | [83902-raving-rabbids-travel-in-time-browser.json](./83902-raving-rabbids-travel-in-time-browser.json) |
 | Raving Rabbids: Alive and Kicking | 20221 | [20221-raving-rabbids-alive-and-kicking.json](./20221-raving-rabbids-alive-and-kicking.json) |
+| Raving Rabbids: Party Collection | 50646 | [50646-raving-rabbids-party-collection.json](./50646-raving-rabbids-party-collection.json) |
 | Raving Rabbids: Travel in Time | 5116 | [5116-raving-rabbids-travel-in-time.json](./5116-raving-rabbids-travel-in-time.json) |
 | Ravished Realms | 172359 | [172359-ravished-realms.json](./172359-ravished-realms.json) |
 | Ravisod | 272170 | [272170-ravisod.json](./272170-ravisod.json) |
