@@ -3999,6 +3999,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Infinite Run One | 321869 | [321869-infinite-run-one.json](./321869-infinite-run-one.json) |
 | Infinite Run Up! | 138425 | [138425-infinite-run-up.json](./138425-infinite-run-up.json) |
 | Infinite Runner | 275551 | [275551-infinite-runner.json](./275551-infinite-runner.json) |
+| Infinite Scribe | 389358 | [389358-infinite-scribe.json](./389358-infinite-scribe.json) |
 | Infinite Scuba | 36281 | [36281-infinite-scuba.json](./36281-infinite-scuba.json) |
 | Infinite Seek and Find | 258587 | [258587-infinite-seek-and-find.json](./258587-infinite-seek-and-find.json) |
 | Infinite Shift | 286663 | [286663-infinite-shift.json](./286663-infinite-shift.json) |
@@ -5092,6 +5093,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Internal Reaches 2 | 274192 | [274192-internal-reaches-2.json](./274192-internal-reaches-2.json) |
 | Internal Reaches 4 | 274193 | [274193-internal-reaches-4.json](./274193-internal-reaches-4.json) |
 | Internal Trouble | 92147 | [92147-internal-trouble.json](./92147-internal-trouble.json) |
+| International 3D Tennis | 70715 | [70715-international-3d-tennis.json](./70715-international-3d-tennis.json) |
 | International 5-A-Side | 79619 | [79619-international-5-a-side.json](./79619-international-5-a-side.json) |
 | International Affairs | 116947 | [116947-international-affairs.json](./116947-international-affairs.json) |
 | International Athletics | 20321 | [20321-international-athletics.json](./20321-international-athletics.json) |
@@ -7018,6 +7020,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Itsudemo! Nyan to Wonderful | 228564 | [228564-itsudemo-nyan-to-wonderful.json](./228564-itsudemo-nyan-to-wonderful.json) |
 | Itsuka Kono Te Ga Kegareru Toki Ni: Spectral Force Legacy | 56792 | [56792-itsuka-kono-te-ga-kegareru-toki-ni-spectral-force-legacy.json](./56792-itsuka-kono-te-ga-kegareru-toki-ni-spectral-force-legacy.json) |
 | Itsuka Tenma No Kuro Usagi Portable | 56794 | [56794-itsuka-tenma-no-kuro-usagi-portable.json](./56794-itsuka-tenma-no-kuro-usagi-portable.json) |
+| Itsuka Todoku, Ano Sora Ni | 70541 | [70541-itsuka-todoku-ano-sora-ni.json](./70541-itsuka-todoku-ano-sora-ni.json) |
 | Itsuka, Kasanariau Ashita he: Sayuri-hen | 203819 | [203819-itsuka-kasanariau-ashita-he-sayuri-hen.json](./203819-itsuka-kasanariau-ashita-he-sayuri-hen.json) |
 | Itsuka, Kasanariau Ashita he: Shirou-hen | 203822 | [203822-itsuka-kasanariau-ashita-he-shirou-hen.json](./203822-itsuka-kasanariau-ashita-he-shirou-hen.json) |
 | Itsuka, Todoku, Ano Sora ni.: You no Michi to Hi no Tasogare to | 372571 | [372571-itsuka-todoku-ano-sora-ni-you-no-michi-to-hi-no-tasogare-to.json](./372571-itsuka-todoku-ano-sora-ni-you-no-michi-to-hi-no-tasogare-to.json) |
@@ -7071,6 +7074,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Iwatobi Penguin Rocky x Hopper | 185677 | [185677-iwatobi-penguin-rocky-x-hopper.json](./185677-iwatobi-penguin-rocky-x-hopper.json) |
 | Iwatobi Penguin Rocky x Hopper 2: Tantei Monogatari | 185678 | [185678-iwatobi-penguin-rocky-x-hopper-2-tantei-monogatari.json](./185678-iwatobi-penguin-rocky-x-hopper-2-tantei-monogatari.json) |
 | IWL: Interstellar Wrestling League | 363912 | [363912-iwl-interstellar-wrestling-league.json](./363912-iwl-interstellar-wrestling-league.json) |
+| IWL: Interstellar Wrestling League | 70551 | [70551-iwl-interstellar-wrestling-league.json](./70551-iwl-interstellar-wrestling-league.json) |
 | IWL: Interstellar Wrestling League - 001: Character - Galacto | 363374 | [363374-iwl-interstellar-wrestling-league-001-character-galacto.json](./363374-iwl-interstellar-wrestling-league-001-character-galacto.json) |
 | IWL: Interstellar Wrestling League - 002: Character - Canned Heat | 363375 | [363375-iwl-interstellar-wrestling-league-002-character-canned-heat.json](./363375-iwl-interstellar-wrestling-league-002-character-canned-heat.json) |
 | IWL: Interstellar Wrestling League - 003: Mod - Pan Quantum Duae | 363376 | [363376-iwl-interstellar-wrestling-league-003-mod-pan-quantum-duae.json](./363376-iwl-interstellar-wrestling-league-003-mod-pan-quantum-duae.json) |
