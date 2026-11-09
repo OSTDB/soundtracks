@@ -2137,6 +2137,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bandwagon | 401202 | [401202-bandwagon.json](./401202-bandwagon.json) |
 | Bane and Valor | 371510 | [371510-bane-and-valor.json](./371510-bane-and-valor.json) |
 | Bane Murrain | 271080 | [271080-bane-murrain.json](./271080-bane-murrain.json) |
+| Bane of Asphodel | 27962 | [27962-bane-of-asphodel.json](./27962-bane-of-asphodel.json) |
 | Bane of Oakenshade | 323581 | [323581-bane-of-oakenshade.json](./323581-bane-of-oakenshade.json) |
 | Bane: Dawn of the Lost | 358743 | [358743-bane-dawn-of-the-lost.json](./358743-bane-dawn-of-the-lost.json) |
 | Baneball | 218195 | [218195-baneball.json](./218195-baneball.json) |
@@ -6081,6 +6082,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bee-Man | 251931 | [251931-bee-man.json](./251931-bee-man.json) |
 | Bee: Classic Edition | 134394 | [134394-bee-classic-edition.json](./134394-bee-classic-edition.json) |
 | Bee: The Knight | 202784 | [202784-bee-the-knight.json](./202784-bee-the-knight.json) |
+| BeeBeeQ | 27130 | [27130-beebeeq.json](./27130-beebeeq.json) |
 | Beebmunch | 15666 | [15666-beebmunch.json](./15666-beebmunch.json) |
 | Beebo & Luna | 348667 | [348667-beebo-and-luna.json](./348667-beebo-and-luna.json) |
 | Beebo Deluxe | 25536 | [25536-beebo-deluxe.json](./25536-beebo-deluxe.json) |
@@ -11110,6 +11112,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | BlockRunner: The BlockSide | 244944 | [244944-blockrunner-the-blockside.json](./244944-blockrunner-the-blockside.json) |
 | Blocks | 113503 | [113503-blocks.json](./113503-blocks.json) |
 | Blocks | 208625 | [208625-blocks.json](./208625-blocks.json) |
+| Blocks | 27136 | [27136-blocks.json](./27136-blocks.json) |
 | Blocks | 307507 | [307507-blocks.json](./307507-blocks.json) |
 | Blocks | 361395 | [361395-blocks.json](./361395-blocks.json) |
 | Blocks | 370143 | [370143-blocks.json](./370143-blocks.json) |
@@ -15189,6 +15192,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Brainwave Trials | 304426 | [304426-brainwave-trials.json](./304426-brainwave-trials.json) |
 | Brainy Joy | 75937 | [75937-brainy-joy.json](./75937-brainy-joy.json) |
 | Brainy Mouse | 90844 | [90844-brainy-mouse.json](./90844-brainy-mouse.json) |
+| Brainy Tree | 27944 | [27944-brainy-tree.json](./27944-brainy-tree.json) |
 | BrainZ | 147686 | [147686-brainz.json](./147686-brainz.json) |
 | BrainZ Defender | 304879 | [304879-brainz-defender.json](./304879-brainz-defender.json) |
 | Brainzzz | 342247 | [342247-brainzzz.json](./342247-brainzzz.json) |
@@ -19199,6 +19203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Byouki na Generation: Crane Catcher no Bourei | 383043 | [383043-byouki-na-generation-crane-catcher-no-bourei.json](./383043-byouki-na-generation-crane-catcher-no-bourei.json) |
 | Byoutai Seiri DS: Image Dekiru! Shikkan, Shoujou to Care | 269672 | [269672-byoutai-seiri-ds-image-dekiru-shikkan-shoujou-to-care.json](./269672-byoutai-seiri-ds-image-dekiru-shikkan-shoujou-to-care.json) |
 | Bypass | 382884 | [382884-bypass.json](./382884-bypass.json) |
+| Bypassed | 27961 | [27961-bypassed.json](./27961-bypassed.json) |
 | Byrd Ronin | 422065 | [422065-byrd-ronin.json](./422065-byrd-ronin.json) |
 | Bystander | 75827 | [75827-bystander.json](./75827-bystander.json) |
 | Byte | 301066 | [301066-byte.json](./301066-byte.json) |
