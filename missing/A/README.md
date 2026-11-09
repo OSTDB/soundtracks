@@ -4160,6 +4160,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Aero Engine | 277631 | [277631-aero-engine.json](./277631-aero-engine.json) |
 | Aero Fighters | 306980 | [306980-aero-fighters.json](./306980-aero-fighters.json) |
 | Aero Fighters | 3147 | [3147-aero-fighters.json](./3147-aero-fighters.json) |
+| Aero Fighters 2 | 6773 | [6773-aero-fighters-2.json](./6773-aero-fighters-2.json) |
 | Aero Fighters 3 | 55051 | [55051-aero-fighters-3.json](./55051-aero-fighters-3.json) |
 | Aero Fighters Special | 351074 | [351074-aero-fighters-special.json](./351074-aero-fighters-special.json) |
 | Aero Guitar | 84466 | [84466-aero-guitar.json](./84466-aero-guitar.json) |
@@ -8988,6 +8989,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | American Football Champs | 108106 | [108106-american-football-champs.json](./108106-american-football-champs.json) |
 | American Football Game: Quarter Back Scramble | 130646 | [130646-american-football-game-quarter-back-scramble.json](./130646-american-football-game-quarter-back-scramble.json) |
 | American Football: Guns & Balls | 242461 | [242461-american-football-guns-and-balls.json](./242461-american-football-guns-and-balls.json) |
+| American Fugitive | 115785 | [115785-american-fugitive.json](./115785-american-fugitive.json) |
 | American Gangster: The Mobile Game | 215432 | [215432-american-gangster-the-mobile-game.json](./215432-american-gangster-the-mobile-game.json) |
 | American Girl: Dress Designer | 18244 | [18244-american-girl-dress-designer.json](./18244-american-girl-dress-designer.json) |
 | American Girl: Julie Finds a Way | 18241 | [18241-american-girl-julie-finds-a-way.json](./18241-american-girl-julie-finds-a-way.json) |
@@ -17454,7 +17456,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
-| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
