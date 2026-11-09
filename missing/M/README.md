@@ -3262,6 +3262,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maniac Inc. | 182162 | [182162-maniac-inc.json](./182162-maniac-inc.json) |
 | Maniac Jackson and the Moonwalking Mindbenders | 93035 | [93035-maniac-jackson-and-the-moonwalking-mindbenders.json](./93035-maniac-jackson-and-the-moonwalking-mindbenders.json) |
 | Maniac Land | 330476 | [330476-maniac-land.json](./330476-maniac-land.json) |
+| Maniac Mansion | 192 | [192-maniac-mansion.json](./192-maniac-mansion.json) |
 | Maniac Mansion | 307416 | [307416-maniac-mansion.json](./307416-maniac-mansion.json) |
 | Maniac Mansion 4 Blood | 276381 | [276381-maniac-mansion-4-blood.json](./276381-maniac-mansion-4-blood.json) |
 | Maniac Mansion Deluxe | 198173 | [198173-maniac-mansion-deluxe.json](./198173-maniac-mansion-deluxe.json) |
@@ -4185,6 +4186,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Kart Wii Item-matching Game | 328673 | [328673-mario-kart-wii-item-matching-game.json](./328673-mario-kart-wii-item-matching-game.json) |
 | Mario Kart Wii Tournament Museum | 301127 | [301127-mario-kart-wii-tournament-museum.json](./301127-mario-kart-wii-tournament-museum.json) |
 | Mario Kart Wii: Awesome Edition | 313085 | [313085-mario-kart-wii-awesome-edition.json](./313085-mario-kart-wii-awesome-edition.json) |
+| Mario Kart World | 338067 | [338067-mario-kart-world.json](./338067-mario-kart-world.json) |
 | Mario Kart XXL | 146289 | [146289-mario-kart-xxl.json](./146289-mario-kart-xxl.json) |
 | Mario Kart Zero | 231822 | [231822-mario-kart-zero.json](./231822-mario-kart-zero.json) |
 | Mario Kart: Blazing Wheels | 174622 | [174622-mario-kart-blazing-wheels.json](./174622-mario-kart-blazing-wheels.json) |
@@ -4300,6 +4302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mario Teaches Typing 2 | 46445 | [46445-mario-teaches-typing-2.json](./46445-mario-teaches-typing-2.json) |
 | Mario Teaches Typing 3 | 383439 | [383439-mario-teaches-typing-3.json](./383439-mario-teaches-typing-3.json) |
 | Mario Tennis | 128874 | [128874-mario-tennis.json](./128874-mario-tennis.json) |
+| Mario Tennis | 3406 | [3406-mario-tennis.json](./3406-mario-tennis.json) |
 | Mario Tennis | 344924 | [344924-mario-tennis.json](./344924-mario-tennis.json) |
 | Mario Tennis Aces | 81145 | [81145-mario-tennis-aces.json](./81145-mario-tennis-aces.json) |
 | Mario Tennis Fever | 366880 | [366880-mario-tennis-fever.json](./366880-mario-tennis-fever.json) |
@@ -4953,6 +4956,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel Vs Capcom 2 X-Men '97 Edition Deluxe Arcade | 314757 | [314757-marvel-vs-capcom-2-x-men-97-edition-deluxe-arcade.json](./314757-marvel-vs-capcom-2-x-men-97-edition-deluxe-arcade.json) |
 | Marvel vs. Capcom 2: New Age of Heroes | 305168 | [305168-marvel-vs-capcom-2-new-age-of-heroes.json](./305168-marvel-vs-capcom-2-new-age-of-heroes.json) |
 | Marvel vs. Capcom 2: New Age of Heroes | 305169 | [305169-marvel-vs-capcom-2-new-age-of-heroes.json](./305169-marvel-vs-capcom-2-new-age-of-heroes.json) |
+| Marvel vs. Capcom 2: New Age of Heroes | 8247 | [8247-marvel-vs-capcom-2-new-age-of-heroes.json](./8247-marvel-vs-capcom-2-new-age-of-heroes.json) |
 | Marvel vs. Capcom 3: Fate of Two Worlds | 8248 | [8248-marvel-vs-capcom-3-fate-of-two-worlds.json](./8248-marvel-vs-capcom-3-fate-of-two-worlds.json) |
 | Marvel vs. Capcom Fighting Collection: Arcade Classics | 306147 | [306147-marvel-vs-capcom-fighting-collection-arcade-classics.json](./306147-marvel-vs-capcom-fighting-collection-arcade-classics.json) |
 | Marvel vs. Capcom Infinite: Frank West Proto Man Costume | 386493 | [386493-marvel-vs-capcom-infinite-frank-west-proto-man-costume.json](./386493-marvel-vs-capcom-infinite-frank-west-proto-man-costume.json) |
@@ -7696,6 +7700,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mega Man 3 Revamped | 218313 | [218313-mega-man-3-revamped.json](./218313-mega-man-3-revamped.json) |
 | Mega Man 3: The Robots are Revolting | 88384 | [88384-mega-man-3-the-robots-are-revolting.json](./88384-mega-man-3-the-robots-are-revolting.json) |
 | Mega Man 30th Anniversary Bundle | 110814 | [110814-mega-man-30th-anniversary-bundle.json](./110814-mega-man-30th-anniversary-bundle.json) |
+| Mega Man 4 | 1717 | [1717-mega-man-4.json](./1717-mega-man-4.json) |
 | Mega Man 4 Mobile | 171825 | [171825-mega-man-4-mobile.json](./171825-mega-man-4-mobile.json) |
 | Mega Man 4 Voyage | 210490 | [210490-mega-man-4-voyage.json](./210490-mega-man-4-voyage.json) |
 | Mega Man 4 Voyage: Blue Version | 252392 | [252392-mega-man-4-voyage-blue-version.json](./252392-mega-man-4-voyage-blue-version.json) |
@@ -13000,6 +13005,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | MInecraft: Star Wars Prequel Skin Pack | 302666 | [302666-minecraft-star-wars-prequel-skin-pack.json](./302666-minecraft-star-wars-prequel-skin-pack.json) |
 | Minecraft: Star Wars Sequel Skin Pack | 303141 | [303141-minecraft-star-wars-sequel-skin-pack.json](./303141-minecraft-star-wars-sequel-skin-pack.json) |
 | Minecraft: Steven Universe Mash-up | 235338 | [235338-minecraft-steven-universe-mash-up.json](./235338-minecraft-steven-universe-mash-up.json) |
+| Minecraft: Story Mode | 8339 | [8339-minecraft-story-mode.json](./8339-minecraft-story-mode.json) |
 | Minecraft: Story Mode - Episode 1: The Order of the Stone | 85612 | [85612-minecraft-story-mode-episode-1-the-order-of-the-stone.json](./85612-minecraft-story-mode-episode-1-the-order-of-the-stone.json) |
 | Minecraft: Story Mode - Episode 2: Assembly Required | 91299 | [91299-minecraft-story-mode-episode-2-assembly-required.json](./91299-minecraft-story-mode-episode-2-assembly-required.json) |
 | Minecraft: Story Mode - Episode 3: The Last Place You Look | 91296 | [91296-minecraft-story-mode-episode-3-the-last-place-you-look.json](./91296-minecraft-story-mode-episode-3-the-last-place-you-look.json) |
@@ -13774,6 +13780,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Ministry of Synthesis | 181478 | [181478-ministry-of-synthesis.json](./181478-ministry-of-synthesis.json) |
 | Ministry of Truth: False Memory | 346204 | [346204-ministry-of-truth-false-memory.json](./346204-ministry-of-truth-false-memory.json) |
 | Minisweeper | 91195 | [91195-minisweeper.json](./91195-minisweeper.json) |
+| Minit | 26970 | [26970-minit.json](./26970-minit.json) |
 | Minit Man | 293669 | [293669-minit-man.json](./293669-minit-man.json) |
 | MiniTale | 341288 | [341288-minitale.json](./341288-minitale.json) |
 | MiniTank: Desert Strike | 336973 | [336973-minitank-desert-strike.json](./336973-minitank-desert-strike.json) |
@@ -15713,6 +15720,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Momodora 0: Day of Birth | 261191 | [261191-momodora-0-day-of-birth.json](./261191-momodora-0-day-of-birth.json) |
 | Momodora II | 18163 | [18163-momodora-ii.json](./18163-momodora-ii.json) |
 | Momodora: Moonlit Farewell | 188088 | [188088-momodora-moonlit-farewell.json](./188088-momodora-moonlit-farewell.json) |
+| Momodora: Reverie Under the Moonlight | 18182 | [18182-momodora-reverie-under-the-moonlight.json](./18182-momodora-reverie-under-the-moonlight.json) |
 | Momoe Link | 183052 | [183052-momoe-link.json](./183052-momoe-link.json) |
 | Momogatari | 258526 | [258526-momogatari.json](./258526-momogatari.json) |
 | Momogical | 181683 | [181683-momogical.json](./181683-momogical.json) |
@@ -18852,6 +18860,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moulin Rouge Senki: Melville no Honoo | 48816 | [48816-moulin-rouge-senki-melville-no-honoo.json](./48816-moulin-rouge-senki-melville-no-honoo.json) |
 | Mound of Music | 302334 | [302334-mound-of-music.json](./302334-mound-of-music.json) |
 | Moundville Factory Lost Tape 89 | 285402 | [285402-moundville-factory-lost-tape-89.json](./285402-moundville-factory-lost-tape-89.json) |
+| Mount & Blade | 2021 | [2021-mount-and-blade.json](./2021-mount-and-blade.json) |
 | Mount & Blade Collection | 54229 | [54229-mount-and-blade-collection.json](./54229-mount-and-blade-collection.json) |
 | Mount & Blade Full Collection | 53364 | [53364-mount-and-blade-full-collection.json](./53364-mount-and-blade-full-collection.json) |
 | Mount & Blade II: Bannerlord | 9608 | [9608-mount-and-blade-ii-bannerlord.json](./9608-mount-and-blade-ii-bannerlord.json) |
