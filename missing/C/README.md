@@ -5165,6 +5165,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Caverns | 235753 | [235753-caverns.json](./235753-caverns.json) |
 | Caverns and Dryads | 368199 | [368199-caverns-and-dryads.json](./368199-caverns-and-dryads.json) |
 | Caverns of Callisto | 24990 | [24990-caverns-of-callisto.json](./24990-caverns-of-callisto.json) |
+| Caverns of Chaos | 73390 | [73390-caverns-of-chaos.json](./73390-caverns-of-chaos.json) |
 | Caverns of Darkness | 256819 | [256819-caverns-of-darkness.json](./256819-caverns-of-darkness.json) |
 | Caverns of Doom | 133790 | [133790-caverns-of-doom.json](./133790-caverns-of-doom.json) |
 | Caverns of Eriban | 26267 | [26267-caverns-of-eriban.json](./26267-caverns-of-eriban.json) |
