@@ -1783,6 +1783,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Eidols | 210957 | [210957-eidols.json](./210957-eidols.json) |
 | Eien | 246738 | [246738-eien.json](./246738-eien.json) |
 | Eien | 392743 | [392743-eien.json](./392743-eien.json) |
+| Eien no Aselia Expansion: The Spirit of Eternity Sword | 63445 | [63445-eien-no-aselia-expansion-the-spirit-of-eternity-sword.json](./63445-eien-no-aselia-expansion-the-spirit-of-eternity-sword.json) |
 | Eien no Filena | 15899 | [15899-eien-no-filena.json](./15899-eien-no-filena.json) |
 | Eien no Miyako | 372564 | [372564-eien-no-miyako.json](./372564-eien-no-miyako.json) |
 | Eiga Sumikko Gurashi: Aoi Tsukiyo no Mahou no Ko - Game de Asobou! Eiga no Sekai | 171550 | [171550-eiga-sumikko-gurashi-aoi-tsukiyo-no-mahou-no-ko-game-de-asobou-eiga-no-sekai.json](./171550-eiga-sumikko-gurashi-aoi-tsukiyo-no-mahou-no-ko-game-de-asobou-eiga-no-sekai.json) |
@@ -2296,6 +2297,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Electroplankton Trapy | 85110 | [85110-electroplankton-trapy.json](./85110-electroplankton-trapy.json) |
 | Electroplankton Varvoice | 85109 | [85109-electroplankton-varvoice.json](./85109-electroplankton-varvoice.json) |
 | Electroquest: Resistance is Futile | 101310 | [101310-electroquest-resistance-is-futile.json](./101310-electroquest-resistance-is-futile.json) |
+| Eledive | 63419 | [63419-eledive.json](./63419-eledive.json) |
 | Elefunk | 21808 | [21808-elefunk.json](./21808-elefunk.json) |
 | Elegant Engineering | 52964 | [52964-elegant-engineering.json](./52964-elegant-engineering.json) |
 | Elegant Sleuth: Mystic Family | 349311 | [349311-elegant-sleuth-mystic-family.json](./349311-elegant-sleuth-mystic-family.json) |
@@ -4201,6 +4203,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enigma | 257825 | [257825-enigma.json](./257825-enigma.json) |
 | Enigma | 405496 | [405496-enigma.json](./405496-enigma.json) |
 | Enigma Adventure Studio | 131133 | [131133-enigma-adventure-studio.json](./131133-enigma-adventure-studio.json) |
+| Enigma Agency: The Case of Shadows | 63441 | [63441-enigma-agency-the-case-of-shadows.json](./63441-enigma-agency-the-case-of-shadows.json) |
 | Enigma Awaken | 311517 | [311517-enigma-awaken.json](./311517-enigma-awaken.json) |
 | Enigma Da Parda | 335881 | [335881-enigma-da-parda.json](./335881-enigma-da-parda.json) |
 | Enigma do Labirinto | 232455 | [232455-enigma-do-labirinto.json](./232455-enigma-do-labirinto.json) |
@@ -7978,6 +7981,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exodus Core | 347750 | [347750-exodus-core.json](./347750-exodus-core.json) |
 | Exodus Flight | 297070 | [297070-exodus-flight.json](./297070-exodus-flight.json) |
 | Exodus Guilty | 80384 | [80384-exodus-guilty.json](./80384-exodus-guilty.json) |
+| Exodus Guilty Alternative | 62927 | [62927-exodus-guilty-alternative.json](./62927-exodus-guilty-alternative.json) |
 | Exodus Guilty Neos | 71305 | [71305-exodus-guilty-neos.json](./71305-exodus-guilty-neos.json) |
 | Exodus Guilty Vol. 1 Present | 61957 | [61957-exodus-guilty-vol-1-present.json](./61957-exodus-guilty-vol-1-present.json) |
 | Exodus Guilty Vol. 2 Past | 61955 | [61955-exodus-guilty-vol-2-past.json](./61955-exodus-guilty-vol-2-past.json) |
