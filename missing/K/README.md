@@ -6235,6 +6235,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kung Fu Kid | 36898 | [36898-kung-fu-kid.json](./36898-kung-fu-kid.json) |
 | Kung Fu Legend | 117344 | [117344-kung-fu-legend.json](./117344-kung-fu-legend.json) |
 | Kung Fu Legend | 204115 | [204115-kung-fu-legend.json](./204115-kung-fu-legend.json) |
+| Kung Fu Louie vs. The Martial Art Posse | 73930 | [73930-kung-fu-louie-vs-the-martial-art-posse.json](./73930-kung-fu-louie-vs-the-martial-art-posse.json) |
 | Kung Fu Panda | 241109 | [241109-kung-fu-panda.json](./241109-kung-fu-panda.json) |
 | Kung Fu Panda | 320387 | [320387-kung-fu-panda.json](./320387-kung-fu-panda.json) |
 | Kung Fu Panda | 4964 | [4964-kung-fu-panda.json](./4964-kung-fu-panda.json) |
