@@ -6111,6 +6111,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maximum Override | 27774 | [27774-maximum-override.json](./27774-maximum-override.json) |
 | Maximum Pool | 45815 | [45815-maximum-pool.json](./45815-maximum-pool.json) |
 | Maximum Racing | 73680 | [73680-maximum-racing.json](./73680-maximum-racing.json) |
+| Maximum Racing: Crash Car Racer | 50948 | [50948-maximum-racing-crash-car-racer.json](./50948-maximum-racing-crash-car-racer.json) |
 | Maximum Racing: Drag & Stock Racer | 50947 | [50947-maximum-racing-drag-and-stock-racer.json](./50947-maximum-racing-drag-and-stock-racer.json) |
 | Maximum Racing: GP Classic Racing | 50950 | [50950-maximum-racing-gp-classic-racing.json](./50950-maximum-racing-gp-classic-racing.json) |
 | Maximum Racing: Rally Racer | 50949 | [50949-maximum-racing-rally-racer.json](./50949-maximum-racing-rally-racer.json) |
@@ -16621,6 +16622,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Sweethearts | 177959 | [177959-monster-sweethearts.json](./177959-monster-sweethearts.json) |
 | Monster Sweetie | 232173 | [232173-monster-sweetie.json](./232173-monster-sweetie.json) |
 | Monster Tale Ultimate | 60450 | [60450-monster-tale-ultimate.json](./60450-monster-tale-ultimate.json) |
+| Monster Talk | 77509 | [77509-monster-talk.json](./77509-monster-talk.json) |
 | Monster Tamer | 190233 | [190233-monster-tamer.json](./190233-monster-tamer.json) |
 | Monster Tamer | 366100 | [366100-monster-tamer.json](./366100-monster-tamer.json) |
 | Monster Tamer | 397604 | [397604-monster-tamer.json](./397604-monster-tamer.json) |
@@ -16702,6 +16704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster World-Legend | 96783 | [96783-monster-world-legend.json](./96783-monster-world-legend.json) |
 | Monster X | 192549 | [192549-monster-x.json](./192549-monster-x.json) |
 | Monster X Monster | 118032 | [118032-monster-x-monster.json](./118032-monster-x-monster.json) |
+| Monster Zero | 77555 | [77555-monster-zero.json](./77555-monster-zero.json) |
 | Monster-Man | 137911 | [137911-monster-man.json](./137911-monster-man.json) |
 | Monster: Titan's Playground | 302927 | [302927-monster-titans-playground.json](./302927-monster-titans-playground.json) |
 | Monster! Bass Fishing | 49324 | [49324-monster-bass-fishing.json](./49324-monster-bass-fishing.json) |
@@ -21577,6 +21580,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | My Nonogram Waifu: Forbidden Love | 262367 | [262367-my-nonogram-waifu-forbidden-love.json](./262367-my-nonogram-waifu-forbidden-love.json) |
 | My Nuclear Octopus | 151516 | [151516-my-nuclear-octopus.json](./151516-my-nuclear-octopus.json) |
 | My Nurse Girlfriend | 205891 | [205891-my-nurse-girlfriend.json](./205891-my-nurse-girlfriend.json) |
+| My Oasis - Relaxing Sanctuary | 77512 | [77512-my-oasis-relaxing-sanctuary.json](./77512-my-oasis-relaxing-sanctuary.json) |
 | My Ocean Project | 239967 | [239967-my-ocean-project.json](./239967-my-ocean-project.json) |
 | My Oil Empire | 212480 | [212480-my-oil-empire.json](./212480-my-oil-empire.json) |
 | My Old Car Was Green | 413415 | [413415-my-old-car-was-green.json](./413415-my-old-car-was-green.json) |
