@@ -12950,6 +12950,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Frontier Paladin | 292542 | [292542-frontier-paladin.json](./292542-frontier-paladin.json) |
 | Frontier Quest | 139637 | [139637-frontier-quest.json](./139637-frontier-quest.json) |
 | Frontier Roots | 349515 | [349515-frontier-roots.json](./349515-frontier-roots.json) |
+| Frontier Runner | 76800 | [76800-frontier-runner.json](./76800-frontier-runner.json) |
 | Frontier Tale | 416073 | [416073-frontier-tale.json](./416073-frontier-tale.json) |
 | Frontier VR | 29150 | [29150-frontier-vr.json](./29150-frontier-vr.json) |
 | Frontier Wars: Defense Heroes | 129609 | [129609-frontier-wars-defense-heroes.json](./129609-frontier-wars-defense-heroes.json) |
