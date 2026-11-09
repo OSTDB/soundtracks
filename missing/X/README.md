@@ -1038,6 +1038,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Xtreme Vertical Racer | 394340 | [394340-xtreme-vertical-racer.json](./394340-xtreme-vertical-racer.json) |
 | Xtreme Wheels | 175475 | [175475-xtreme-wheels.json](./175475-xtreme-wheels.json) |
 | Xtremes vs Zombies | 426457 | [426457-xtremes-vs-zombies.json](./426457-xtremes-vs-zombies.json) |
+| Xtrike | 55318 | [55318-xtrike.json](./55318-xtrike.json) |
 | Xtris | 330842 | [330842-xtris.json](./330842-xtris.json) |
 | XType Plus | 61248 | [61248-xtype-plus.json](./61248-xtype-plus.json) |
 | xTypeVersus | 154016 | [154016-xtypeversus.json](./154016-xtypeversus.json) |
