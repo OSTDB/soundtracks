@@ -3688,9 +3688,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Get to Work, Succubus-Chan! | 169356 | [169356-get-to-work-succubus-chan.json](./169356-get-to-work-succubus-chan.json) |
 | Get Together | 144126 | [144126-get-together.json](./144126-get-together.json) |
 | Get Up and Dance | 23396 | [23396-get-up-and-dance.json](./23396-get-up-and-dance.json) |
+| Get Up and Dance: Let's Party! | 50658 | [50658-get-up-and-dance-lets-party.json](./50658-get-up-and-dance-lets-party.json) |
 | Get Up Family Game Sports | 65717 | [65717-get-up-family-game-sports.json](./65717-get-up-family-game-sports.json) |
 | Get Up In The Night | 304510 | [304510-get-up-in-the-night.json](./304510-get-up-in-the-night.json) |
 | Get Up North | 106998 | [106998-get-up-north.json](./106998-get-up-north.json) |
+| Get Up: Family Sports | 50645 | [50645-get-up-family-sports.json](./50645-get-up-family-sports.json) |
 | Get Witchy | 184696 | [184696-get-witchy.json](./184696-get-witchy.json) |
 | Get X, Avoid Y | 128604 | [128604-get-x-avoid-y.json](./128604-get-x-avoid-y.json) |
 | Get Yoked: Extreme Bodybuilding | 341385 | [341385-get-yoked-extreme-bodybuilding.json](./341385-get-yoked-extreme-bodybuilding.json) |
