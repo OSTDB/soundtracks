@@ -1034,6 +1034,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Karl Quappe | 117298 | [117298-karl-quappe.json](./117298-karl-quappe.json) |
 | Karl's Kooky Warehouse | 190346 | [190346-karls-kooky-warehouse.json](./190346-karls-kooky-warehouse.json) |
 | Karl's Tiny Adventure | 58505 | [58505-karls-tiny-adventure.json](./58505-karls-tiny-adventure.json) |
+| Karl's Treasure Hunt | 39103 | [39103-karls-treasure-hunt.json](./39103-karls-treasure-hunt.json) |
 | Karless | 400867 | [400867-karless.json](./400867-karless.json) |
 | Karls Kavern | 348944 | [348944-karls-kavern.json](./348944-karls-kavern.json) |
 | Karlson | 129033 | [129033-karlson.json](./129033-karlson.json) |
