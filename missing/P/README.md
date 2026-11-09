@@ -4070,6 +4070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Pembrey | 63729 | [63729-pembrey.json](./63729-pembrey.json) |
 | Pemkie Island | 400478 | [400478-pemkie-island.json](./400478-pemkie-island.json) |
 | Pemsa | 153320 | [153320-pemsa.json](./153320-pemsa.json) |
+| Pen 1 Grand Prix: Penguin no Mondai Special | 64532 | [64532-pen-1-grand-prix-penguin-no-mondai-special.json](./64532-pen-1-grand-prix-penguin-no-mondai-special.json) |
 | Pen and Paper Games Bundle | 147799 | [147799-pen-and-paper-games-bundle.json](./147799-pen-and-paper-games-bundle.json) |
 | Pen Fight | 233760 | [233760-pen-fight.json](./233760-pen-fight.json) |
 | Pen Guns | 210098 | [210098-pen-guns.json](./210098-pen-guns.json) |
