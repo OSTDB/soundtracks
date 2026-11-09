@@ -16824,6 +16824,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Project Starship | 33222 | [33222-project-starship.json](./33222-project-starship.json) |
 | Project Starship X | 126587 | [126587-project-starship-x.json](./126587-project-starship-x.json) |
 | Project Starship X: Limited Edition | 167083 | [167083-project-starship-x-limited-edition.json](./167083-project-starship-x-limited-edition.json) |
+| Project Stealth Fighter | 10293 | [10293-project-stealth-fighter.json](./10293-project-stealth-fighter.json) |
 | Project Stocks | 273823 | [273823-project-stocks.json](./273823-project-stocks.json) |
 | Project Stormos | 62025 | [62025-project-stormos.json](./62025-project-stormos.json) |
 | Project Strange | 98162 | [98162-project-strange.json](./98162-project-strange.json) |
