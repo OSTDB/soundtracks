@@ -1974,6 +1974,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | ABC Sports Presents: The Palm Spring Open | 46559 | [46559-abc-sports-presents-the-palm-spring-open.json](./46559-abc-sports-presents-the-palm-spring-open.json) |
 | ABC Super Solitaire | 89857 | [89857-abc-super-solitaire.json](./89857-abc-super-solitaire.json) |
 | ABC Tangou Game | 345919 | [345919-abc-tangou-game.json](./345919-abc-tangou-game.json) |
+| ABC Wide World of Sports Boxing | 46700 | [46700-abc-wide-world-of-sports-boxing.json](./46700-abc-wide-world-of-sports-boxing.json) |
 | ABC World | 133549 | [133549-abc-world.json](./133549-abc-world.json) |
 | ABC World | 285864 | [285864-abc-world.json](./285864-abc-world.json) |
 | ABC z Reksiem | 146953 | [146953-abc-z-reksiem.json](./146953-abc-z-reksiem.json) |
@@ -3124,6 +3125,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Action Rush | 76518 | [76518-action-rush.json](./76518-action-rush.json) |
 | Action Sandbox | 192580 | [192580-action-sandbox.json](./192580-action-sandbox.json) |
 | Action Service | 12289 | [12289-action-service.json](./12289-action-service.json) |
+| Action Soccer | 46699 | [46699-action-soccer.json](./46699-action-soccer.json) |
 | Action Sport | 72179 | [72179-action-sport.json](./72179-action-sport.json) |
 | Action Stations! | 12387 | [12387-action-stations.json](./12387-action-stations.json) |
 | Action Strike: Heroes | 196429 | [196429-action-strike-heroes.json](./196429-action-strike-heroes.json) |
@@ -4456,6 +4458,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | After Burner | 365100 | [365100-after-burner.json](./365100-after-burner.json) |
 | After Burner | 365116 | [365116-after-burner.json](./365116-after-burner.json) |
 | After Burner | 45347 | [45347-after-burner.json](./45347-after-burner.json) |
+| After Burner | 46698 | [46698-after-burner.json](./46698-after-burner.json) |
 | After Burner | 5468 | [5468-after-burner.json](./5468-after-burner.json) |
 | After Burner 3D | 306582 | [306582-after-burner-3d.json](./306582-after-burner-3d.json) |
 | After Burner Climax | 20085 | [20085-after-burner-climax.json](./20085-after-burner-climax.json) |
@@ -7329,6 +7332,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Alien: Blackout | 112657 | [112657-alien-blackout.json](./112657-alien-blackout.json) |
 | Alien: Isolation - Corporate Lockdown | 15459 | [15459-alien-isolation-corporate-lockdown.json](./15459-alien-isolation-corporate-lockdown.json) |
 | Alien: Isolation - Lost Contact | 15555 | [15555-alien-isolation-lost-contact.json](./15555-alien-isolation-lost-contact.json) |
+| Alien: Isolation - Ripley Edition | 46714 | [46714-alien-isolation-ripley-edition.json](./46714-alien-isolation-ripley-edition.json) |
 | Alien: Isolation - Safe Haven | 15552 | [15552-alien-isolation-safe-haven.json](./15552-alien-isolation-safe-haven.json) |
 | Alien: Isolation - The Collection | 82374 | [82374-alien-isolation-the-collection.json](./82374-alien-isolation-the-collection.json) |
 | Alien: Isolation - The Trigger | 15554 | [15554-alien-isolation-the-trigger.json](./15554-alien-isolation-the-trigger.json) |
@@ -17318,6 +17322,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Atic Atac | 213614 | [213614-atic-atac.json](./213614-atic-atac.json) |
 | Atlaga | 109122 | [109122-atlaga.json](./109122-atlaga.json) |
 | Atlanta 1864 | 224624 | [224624-atlanta-1864.json](./224624-atlanta-1864.json) |
+| Atlanta TD | 389264 | [389264-atlanta-td.json](./389264-atlanta-td.json) |
 | Atlantean | 91103 | [91103-atlantean.json](./91103-atlantean.json) |
 | Atlanten | 363041 | [363041-atlanten.json](./363041-atlanten.json) |
 | Atlantia | 250134 | [250134-atlantia.json](./250134-atlantia.json) |
