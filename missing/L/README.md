@@ -1068,6 +1068,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Las Vegas Blackjack! | 41544 | [41544-las-vegas-blackjack.json](./41544-las-vegas-blackjack.json) |
 | Las Vegas Casino | 60279 | [60279-las-vegas-casino.json](./60279-las-vegas-casino.json) |
 | Las Vegas Casino Party | 131278 | [131278-las-vegas-casino-party.json](./131278-las-vegas-casino-party.json) |
+| Las Vegas Cool Hand | 50011 | [50011-las-vegas-cool-hand.json](./50011-las-vegas-cool-hand.json) |
 | Las Vegas Gambling | 47291 | [47291-las-vegas-gambling.json](./47291-las-vegas-gambling.json) |
 | Las Vegas Girls | 38568 | [38568-las-vegas-girls.json](./38568-las-vegas-girls.json) |
 | Las Vegas Poker & Blackjack | 71274 | [71274-las-vegas-poker-and-blackjack.json](./71274-las-vegas-poker-and-blackjack.json) |
@@ -6301,6 +6302,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Little Nemo and the Guardians of Slumberland | 204380 | [204380-little-nemo-and-the-guardians-of-slumberland.json](./204380-little-nemo-and-the-guardians-of-slumberland.json) |
 | Little Nemo and the Nightmare Fiends | 208309 | [208309-little-nemo-and-the-nightmare-fiends.json](./208309-little-nemo-and-the-nightmare-fiends.json) |
 | Little Nemo the Clown | 213609 | [213609-little-nemo-the-clown.json](./213609-little-nemo-the-clown.json) |
+| Little Nicky | 50010 | [50010-little-nicky.json](./50010-little-nicky.json) |
 | Little Nightmares I & II | 178179 | [178179-little-nightmares-i-and-ii.json](./178179-little-nightmares-i-and-ii.json) |
 | Little Nightmares II: Day 1 Edition | 139821 | [139821-little-nightmares-ii-day-1-edition.json](./139821-little-nightmares-ii-day-1-edition.json) |
 | Little Nightmares II: Deluxe Edition | 154511 | [154511-little-nightmares-ii-deluxe-edition.json](./154511-little-nightmares-ii-deluxe-edition.json) |
@@ -7690,6 +7692,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Looney Tunes: Road Rally Riot | 217947 | [217947-looney-tunes-road-rally-riot.json](./217947-looney-tunes-road-rally-riot.json) |
 | Looney Tunes: Road Runner & Wile E. Coyote | 281879 | [281879-looney-tunes-road-runner-and-wile-e-coyote.json](./281879-looney-tunes-road-runner-and-wile-e-coyote.json) |
 | Looney Tunes: Space Race | 8136 | [8136-looney-tunes-space-race.json](./8136-looney-tunes-space-race.json) |
+| Looney Tunes: Twouble! | 49996 | [49996-looney-tunes-twouble.json](./49996-looney-tunes-twouble.json) |
 | Looney Tunes: Wacky World of Sports | 306142 | [306142-looney-tunes-wacky-world-of-sports.json](./306142-looney-tunes-wacky-world-of-sports.json) |
 | Looney Tunes: Wacky World of Sports - Deluxe Edition | 315873 | [315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json](./315873-looney-tunes-wacky-world-of-sports-deluxe-edition.json) |
 | Loong | 288828 | [288828-loong.json](./288828-loong.json) |
