@@ -14579,6 +14579,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | President 47 | 318435 | [318435-president-47.json](./318435-president-47.json) |
 | President card game | 99377 | [99377-president-card-game.json](./99377-president-card-game.json) |
 | President Elect | 24648 | [24648-president-elect.json](./24648-president-elect.json) |
+| President Elect: 1988 Edition | 39746 | [39746-president-elect-1988-edition.json](./39746-president-elect-1988-edition.json) |
 | President Erect VR | 30103 | [30103-president-erect-vr.json](./30103-president-erect-vr.json) |
 | President Evil | 72407 | [72407-president-evil.json](./72407-president-evil.json) |
 | President F.net | 117954 | [117954-president-f-net.json](./117954-president-f-net.json) |
