@@ -2644,6 +2644,10 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Virgo Versus the Zodiac: Collector's Edition | 323575 | [323575-virgo-versus-the-zodiac-collectors-edition.json](./323575-virgo-versus-the-zodiac-collectors-edition.json) |
 | Viriax | 92481 | [92481-viriax.json](./92481-viriax.json) |
 | Viricide | 242779 | [242779-viricide.json](./242779-viricide.json) |
+| Viridescent Dragon: Chapter 1 | 27135 | [27135-viridescent-dragon-chapter-1.json](./27135-viridescent-dragon-chapter-1.json) |
+| Viridescent Dragon: Chapter 2 | 27137 | [27137-viridescent-dragon-chapter-2.json](./27137-viridescent-dragon-chapter-2.json) |
+| Viridescent Dragon: Chapter 3 | 27143 | [27143-viridescent-dragon-chapter-3.json](./27143-viridescent-dragon-chapter-3.json) |
+| Viridescent Dragon: Halloween Special | 27138 | [27138-viridescent-dragon-halloween-special.json](./27138-viridescent-dragon-halloween-special.json) |
 | Viridian | 296340 | [296340-viridian.json](./296340-viridian.json) |
 | Viridian Room | 247597 | [247597-viridian-room.json](./247597-viridian-room.json) |
 | Viridian Sage | 256990 | [256990-viridian-sage.json](./256990-viridian-sage.json) |
