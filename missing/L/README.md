@@ -2867,6 +2867,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Legendary Arcane 2 Universe | 129750 | [129750-legendary-arcane-2-universe.json](./129750-legendary-arcane-2-universe.json) |
 | Legendary Archer: Rebirth | 224029 | [224029-legendary-archer-rebirth.json](./224029-legendary-archer-rebirth.json) |
 | Legendary Armory | 347475 | [347475-legendary-armory.json](./347475-legendary-armory.json) |
+| Legendary Axe II | 42120 | [42120-legendary-axe-ii.json](./42120-legendary-axe-ii.json) |
 | Legendary Blacksmith | 249311 | [249311-legendary-blacksmith.json](./249311-legendary-blacksmith.json) |
 | Legendary Boxing Belt | 181040 | [181040-legendary-boxing-belt.json](./181040-legendary-boxing-belt.json) |
 | Legendary Class Blind Date | 344103 | [344103-legendary-class-blind-date.json](./344103-legendary-class-blind-date.json) |
