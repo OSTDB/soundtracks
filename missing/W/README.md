@@ -678,6 +678,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wandering Hamster | 124654 | [124654-wandering-hamster.json](./124654-wandering-hamster.json) |
 | Wandering Hunter | 370164 | [370164-wandering-hunter.json](./370164-wandering-hunter.json) |
 | Wandering in Space | 207072 | [207072-wandering-in-space.json](./207072-wandering-in-space.json) |
+| Wandering in Space | 74591 | [74591-wandering-in-space.json](./74591-wandering-in-space.json) |
 | Wandering in Space Online VR | 244309 | [244309-wandering-in-space-online-vr.json](./244309-wandering-in-space-online-vr.json) |
 | Wandering Maung | 381682 | [381682-wandering-maung.json](./381682-wandering-maung.json) |
 | Wandering Meatbags | 191552 | [191552-wandering-meatbags.json](./191552-wandering-meatbags.json) |
