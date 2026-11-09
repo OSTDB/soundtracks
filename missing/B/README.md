@@ -4136,6 +4136,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Battle Simulator | 301238 | [301238-battle-simulator.json](./301238-battle-simulator.json) |
 | Battle Simulator: Counter Stickman | 95745 | [95745-battle-simulator-counter-stickman.json](./95745-battle-simulator-counter-stickman.json) |
 | Battle Skin Panic | 91463 | [91463-battle-skin-panic.json](./91463-battle-skin-panic.json) |
+| Battle Skin Panic 9821 | 67407 | [67407-battle-skin-panic-9821.json](./67407-battle-skin-panic-9821.json) |
 | Battle Sky Brigade: Harpooner | 124401 | [124401-battle-sky-brigade-harpooner.json](./124401-battle-sky-brigade-harpooner.json) |
 | Battle Slimes | 101409 | [101409-battle-slimes.json](./101409-battle-slimes.json) |
 | Battle Slugs | 261522 | [261522-battle-slugs.json](./261522-battle-slugs.json) |
@@ -8139,6 +8140,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Billy Boy | 72130 | [72130-billy-boy.json](./72130-billy-boy.json) |
 | Billy Boy's Important Wine Lottery | 317404 | [317404-billy-boys-important-wine-lottery.json](./317404-billy-boys-important-wine-lottery.json) |
 | Billy Bumbum: A Cheeky Puzzler | 188828 | [188828-billy-bumbum-a-cheeky-puzzler.json](./188828-billy-bumbum-a-cheeky-puzzler.json) |
+| Billy Frontier | 67425 | [67425-billy-frontier.json](./67425-billy-frontier.json) |
 | Billy Hatcher Hyper Shoot | 341688 | [341688-billy-hatcher-hyper-shoot.json](./341688-billy-hatcher-hyper-shoot.json) |
 | Billy Hatcher Scrambled! | 402766 | [402766-billy-hatcher-scrambled.json](./402766-billy-hatcher-scrambled.json) |
 | Billy la Banlieue | 85733 | [85733-billy-la-banlieue.json](./85733-billy-la-banlieue.json) |
@@ -14418,6 +14420,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Boutique Builder Simulator | 337580 | [337580-boutique-builder-simulator.json](./337580-boutique-builder-simulator.json) |
 | Bovine Battles | 292511 | [292511-bovine-battles.json](./292511-bovine-battles.json) |
 | Bow & Crystal Tower Defense | 157169 | [157169-bow-and-crystal-tower-defense.json](./157169-bow-and-crystal-tower-defense.json) |
+| Bow and Arrow | 67539 | [67539-bow-and-arrow.json](./67539-bow-and-arrow.json) |
 | Bow Climb | 239660 | [239660-bow-climb.json](./239660-bow-climb.json) |
 | Bow Course: Archery Golf | 345668 | [345668-bow-course-archery-golf.json](./345668-bow-course-archery-golf.json) |
 | Bow Hunter | 374761 | [374761-bow-hunter.json](./374761-bow-hunter.json) |
