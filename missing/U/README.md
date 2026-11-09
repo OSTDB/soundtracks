@@ -2478,6 +2478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Universe Prison | 147045 | [147045-universe-prison.json](./147045-universe-prison.json) |
 | Universe Quiz | 418406 | [418406-universe-quiz.json](./418406-universe-quiz.json) |
 | Universe Rhythm Shooting | 337606 | [337606-universe-rhythm-shooting.json](./337606-universe-rhythm-shooting.json) |
+| Universe Sandbox | 11813 | [11813-universe-sandbox.json](./11813-universe-sandbox.json) |
 | Universe Simulator | 95107 | [95107-universe-simulator.json](./95107-universe-simulator.json) |
 | Universe Size Comparison VR | 295281 | [295281-universe-size-comparison-vr.json](./295281-universe-size-comparison-vr.json) |
 | Universe Slime | 373864 | [373864-universe-slime.json](./373864-universe-slime.json) |
