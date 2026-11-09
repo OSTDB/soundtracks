@@ -166,6 +166,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kaettekita Cyborg Kuro Chan | 44734 | [44734-kaettekita-cyborg-kuro-chan.json](./44734-kaettekita-cyborg-kuro-chan.json) |
 | Kaettekita Mario Bros. | 67043 | [67043-kaettekita-mario-bros.json](./67043-kaettekita-mario-bros.json) |
 | Kaettekita Pachio-kun Dream Collection | 59510 | [59510-kaettekita-pachio-kun-dream-collection.json](./59510-kaettekita-pachio-kun-dream-collection.json) |
+| Kaettekita! Gunjin Shogi: Nanya Sore!? | 48749 | [48749-kaettekita-gunjin-shogi-nanya-sore.json](./48749-kaettekita-gunjin-shogi-nanya-sore.json) |
 | Kaf Village | 340784 | [340784-kaf-village.json](./340784-kaf-village.json) |
 | Kafak | 390234 | [390234-kafak.json](./390234-kafak.json) |
 | Kafka's Metamorphosis | 328219 | [328219-kafkas-metamorphosis.json](./328219-kafkas-metamorphosis.json) |
@@ -556,6 +557,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kamen Rider Kabuto | 91886 | [91886-kamen-rider-kabuto.json](./91886-kamen-rider-kabuto.json) |
 | Kamen Rider Kuuga | 43863 | [43863-kamen-rider-kuuga.json](./43863-kamen-rider-kuuga.json) |
 | Kamen Rider Ryuki | 44858 | [44858-kamen-rider-ryuki.json](./44858-kamen-rider-ryuki.json) |
+| Kamen Rider SD: GranShocker no Yabou | 48748 | [48748-kamen-rider-sd-granshocker-no-yabou.json](./48748-kamen-rider-sd-granshocker-no-yabou.json) |
 | Kamen Rider SD: Hashire! Mighty Riders | 49125 | [49125-kamen-rider-sd-hashire-mighty-riders.json](./49125-kamen-rider-sd-hashire-mighty-riders.json) |
 | Kamen Rider SD: Shutsugeki!! Rider Machine | 38166 | [38166-kamen-rider-sd-shutsugeki-rider-machine.json](./38166-kamen-rider-sd-shutsugeki-rider-machine.json) |
 | Kamen Rider SummonRide | 61190 | [61190-kamen-rider-summonride.json](./61190-kamen-rider-summonride.json) |
@@ -1680,6 +1682,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Keiba Saishou no Housoku | 268508 | [268508-keiba-saishou-no-housoku.json](./268508-keiba-saishou-no-housoku.json) |
 | Keiba Saishou no Housoku '97 Vol. 2: To Hit! | 166536 | [166536-keiba-saishou-no-housoku-97-vol-2-to-hit.json](./166536-keiba-saishou-no-housoku-97-vol-2-to-hit.json) |
 | Keiba Saishou no Housoku '99 Aki Fuyu | 166537 | [166537-keiba-saishou-no-housoku-99-aki-fuyu.json](./166537-keiba-saishou-no-housoku-99-aki-fuyu.json) |
+| Keiba Simulation: Honmei | 48747 | [48747-keiba-simulation-honmei.json](./48747-keiba-simulation-honmei.json) |
 | Keiba Yosou Baken Renkinjutsu | 37970 | [37970-keiba-yosou-baken-renkinjutsu.json](./37970-keiba-yosou-baken-renkinjutsu.json) |
 | Keibatsuu Portable | 56767 | [56767-keibatsuu-portable.json](./56767-keibatsuu-portable.json) |
 | Keibatsuu Portable 2 | 56769 | [56769-keibatsuu-portable-2.json](./56769-keibatsuu-portable-2.json) |
@@ -2909,6 +2912,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kimi ga Nozomu Eien: Enhanced Edition | 312032 | [312032-kimi-ga-nozomu-eien-enhanced-edition.json](./312032-kimi-ga-nozomu-eien-enhanced-edition.json) |
 | Kimi ga Nozomu Eien: Enhanced Edition - Another Episode Collection+ | 360593 | [360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json](./360593-kimi-ga-nozomu-eien-enhanced-edition-another-episode-collection.json) |
 | Kimi ga Nozomu Muv-Luv | 325666 | [325666-kimi-ga-nozomu-muv-luv.json](./325666-kimi-ga-nozomu-muv-luv.json) |
+| Kimi mo vtuber ni Naranai? | 219820 | [219820-kimi-mo-vtuber-ni-naranai.json](./219820-kimi-mo-vtuber-ni-naranai.json) |
 | Kimi ni Furenai Natsu | 413833 | [413833-kimi-ni-furenai-natsu.json](./413833-kimi-ni-furenai-natsu.json) |
 | Kimi ni Madoi, Kimi ni Oboreru. | 394055 | [394055-kimi-ni-madoi-kimi-ni-oboreru.json](./394055-kimi-ni-madoi-kimi-ni-oboreru.json) |
 | Kimi ni Shinzou wo Agetai | 375354 | [375354-kimi-ni-shinzou-wo-agetai.json](./375354-kimi-ni-shinzou-wo-agetai.json) |
@@ -3213,6 +3217,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | King of Karts | 88306 | [88306-king-of-karts.json](./88306-king-of-karts.json) |
 | King of Kingdoms | 224030 | [224030-king-of-kingdoms.json](./224030-king-of-kingdoms.json) |
 | King of Kings | 231927 | [231927-king-of-kings.json](./231927-king-of-kings.json) |
+| King of Kings | 48721 | [48721-king-of-kings.json](./48721-king-of-kings.json) |
 | King of Kings 3 | 54155 | [54155-king-of-kings-3.json](./54155-king-of-kings-3.json) |
 | King of Kinks | 195121 | [195121-king-of-kinks.json](./195121-king-of-kinks.json) |
 | King of Kung Fu | 285918 | [285918-king-of-kung-fu.json](./285918-king-of-kung-fu.json) |
@@ -4186,6 +4191,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kiteboarding | 304600 | [304600-kiteboarding.json](./304600-kiteboarding.json) |
 | Kiteboarding Pro | 185214 | [185214-kiteboarding-pro.json](./185214-kiteboarding-pro.json) |
 | Kiteretsu Boy's Gangagan | 54927 | [54927-kiteretsu-boys-gangagan.json](./54927-kiteretsu-boys-gangagan.json) |
+| Kiteretsu Daihyakka | 48746 | [48746-kiteretsu-daihyakka.json](./48746-kiteretsu-daihyakka.json) |
 | Kiteretsu Daihyakka Bouken Ooedo Jyuraki | 271712 | [271712-kiteretsu-daihyakka-bouken-ooedo-jyuraki.json](./271712-kiteretsu-daihyakka-bouken-ooedo-jyuraki.json) |
 | Kiteretsu Daihyakka: Choujikuu Sugoroku | 37956 | [37956-kiteretsu-daihyakka-choujikuu-sugoroku.json](./37956-kiteretsu-daihyakka-choujikuu-sugoroku.json) |
 | Kiteretsu Daihyakka: Kiteretsu Toki Kyuushutsu Daisakusen Nari | 349444 | [349444-kiteretsu-daihyakka-kiteretsu-toki-kyuushutsu-daisakusen-nari.json](./349444-kiteretsu-daihyakka-kiteretsu-toki-kyuushutsu-daisakusen-nari.json) |
@@ -5822,6 +5828,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Kouryu Densetsu Villgust Gaiden | 48438 | [48438-kouryu-densetsu-villgust-gaiden.json](./48438-kouryu-densetsu-villgust-gaiden.json) |
 | Kouryuu Densetsu Villgust: Kieta Shoujo | 73454 | [73454-kouryuu-densetsu-villgust-kieta-shoujo.json](./73454-kouryuu-densetsu-villgust-kieta-shoujo.json) |
 | Kousai Toshi | 280682 | [280682-kousai-toshi.json](./280682-kousai-toshi.json) |
+| Koushien | 48745 | [48745-koushien.json](./48745-koushien.json) |
 | Koushien 2 | 37953 | [37953-koushien-2.json](./37953-koushien-2.json) |
 | Koushien 3 | 37952 | [37952-koushien-3.json](./37952-koushien-3.json) |
 | Koushien V | 58512 | [58512-koushien-v.json](./58512-koushien-v.json) |
