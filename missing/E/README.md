@@ -785,6 +785,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Echelon | 277845 | [277845-echelon.json](./277845-echelon.json) |
 | Echelon | 377781 | [377781-echelon.json](./377781-echelon.json) |
 | Echelon | 55093 | [55093-echelon.json](./55093-echelon.json) |
+| Echelon 2D | 24460 | [24460-echelon-2d.json](./24460-echelon-2d.json) |
 | Echelon: Explore, Discover and Eliminate | 61837 | [61837-echelon-explore-discover-and-eliminate.json](./61837-echelon-explore-discover-and-eliminate.json) |
 | Echelon: Wind Warriors | 17578 | [17578-echelon-wind-warriors.json](./17578-echelon-wind-warriors.json) |
 | Echidna Wars DX | 382894 | [382894-echidna-wars-dx.json](./382894-echidna-wars-dx.json) |
@@ -1741,6 +1742,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Egoboo | 47298 | [47298-egoboo.json](./47298-egoboo.json) |
 | Egogia | 394794 | [394794-egogia.json](./394794-egogia.json) |
 | Egony | 103824 | [103824-egony.json](./103824-egony.json) |
+| Egosoft Collection | 24727 | [24727-egosoft-collection.json](./24727-egosoft-collection.json) |
 | EgoVersus: The First Strike | 309801 | [309801-egoversus-the-first-strike.json](./309801-egoversus-the-first-strike.json) |
 | Egregor Indoctrination | 155781 | [155781-egregor-indoctrination.json](./155781-egregor-indoctrination.json) |
 | Egregore | 139230 | [139230-egregore.json](./139230-egregore.json) |
