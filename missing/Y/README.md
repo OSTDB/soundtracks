@@ -475,6 +475,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yellow | 83717 | [83717-yellow.json](./83717-yellow.json) |
 | Yellow Ballman | 153920 | [153920-yellow-ballman.json](./153920-yellow-ballman.json) |
 | Yellow Brick Road | 171898 | [171898-yellow-brick-road.json](./171898-yellow-brick-road.json) |
+| Yellow Brick Road | 45393 | [45393-yellow-brick-road.json](./45393-yellow-brick-road.json) |
 | Yellow Brick Road II | 144851 | [144851-yellow-brick-road-ii.json](./144851-yellow-brick-road-ii.json) |
 | Yellow Brick Road: Harapeko Tsuki to Hoshi Atsume | 144852 | [144852-yellow-brick-road-harapeko-tsuki-to-hoshi-atsume.json](./144852-yellow-brick-road-harapeko-tsuki-to-hoshi-atsume.json) |
 | Yellow Cab | 345916 | [345916-yellow-cab.json](./345916-yellow-cab.json) |
@@ -2030,6 +2031,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yumi's Adventure | 348211 | [348211-yumis-adventure.json](./348211-yumis-adventure.json) |
 | Yumiko in the Haunted Mansion | 220776 | [220776-yumiko-in-the-haunted-mansion.json](./220776-yumiko-in-the-haunted-mansion.json) |
 | Yumimi Mix | 66252 | [66252-yumimi-mix.json](./66252-yumimi-mix.json) |
+| Yumimi Mix Remix | 45395 | [45395-yumimi-mix-remix.json](./45395-yumimi-mix-remix.json) |
 | Yumm | 343615 | [343615-yumm.json](./343615-yumm.json) |
 | Yumm Monsters | 256244 | [256244-yumm-monsters.json](./256244-yumm-monsters.json) |
 | Yummimons | 363015 | [363015-yummimons.json](./363015-yummimons.json) |
@@ -2172,6 +2174,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Yuuki's Party Night | 286518 | [286518-yuukis-party-night.json](./286518-yuukis-party-night.json) |
 | Yuukoku no Femme Fatale | 317102 | [317102-yuukoku-no-femme-fatale.json](./317102-yuukoku-no-femme-fatale.json) |
 | Yuukuri Panic Escalation | 58838 | [58838-yuukuri-panic-escalation.json](./58838-yuukuri-panic-escalation.json) |
+| Yuukyuu Gensoukyoku | 45394 | [45394-yuukyuu-gensoukyoku.json](./45394-yuukyuu-gensoukyoku.json) |
 | Yuukyuu Gensoukyoku 3: Perpetual Blue | 112575 | [112575-yuukyuu-gensoukyoku-3-perpetual-blue.json](./112575-yuukyuu-gensoukyoku-3-perpetual-blue.json) |
 | Yuukyuu Gensoukyoku Ensemble | 419854 | [419854-yuukyuu-gensoukyoku-ensemble.json](./419854-yuukyuu-gensoukyoku-ensemble.json) |
 | Yuukyuu Gensoukyoku Ensemble 2 | 419855 | [419855-yuukyuu-gensoukyoku-ensemble-2.json](./419855-yuukyuu-gensoukyoku-ensemble-2.json) |
