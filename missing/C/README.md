@@ -1077,6 +1077,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Camouflet | 219734 | [219734-camouflet.json](./219734-camouflet.json) |
 | Camp 1 | 134815 | [134815-camp-1.json](./134815-camp-1.json) |
 | Camp Buddy: Scoutmaster Season – Side Stories | 387576 | [387576-camp-buddy-scoutmaster-season-side-stories.json](./387576-camp-buddy-scoutmaster-season-side-stories.json) |
+| Camp Cadaver | 56024 | [56024-camp-cadaver.json](./56024-camp-cadaver.json) |
 | Camp California | 37590 | [37590-camp-california.json](./37590-camp-california.json) |
 | Camp Canyonwood | 155791 | [155791-camp-canyonwood.json](./155791-camp-canyonwood.json) |
 | Camp Counsellor Collector | 272271 | [272271-camp-counsellor-collector.json](./272271-camp-counsellor-collector.json) |
@@ -10360,6 +10361,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Claw Machine Sim | 259013 | [259013-claw-machine-sim.json](./259013-claw-machine-sim.json) |
 | Claw Stars | 174992 | [174992-claw-stars.json](./174992-claw-stars.json) |
 | Clawball | 295640 | [295640-clawball.json](./295640-clawball.json) |
+| Clawbert | 56005 | [56005-clawbert.json](./56005-clawbert.json) |
 | Clawbert: ToyTown | 96831 | [96831-clawbert-toytown.json](./96831-clawbert-toytown.json) |
 | Clawberta | 192191 | [192191-clawberta.json](./192191-clawberta.json) |
 | Clawed | 342028 | [342028-clawed.json](./342028-clawed.json) |
