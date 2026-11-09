@@ -2839,6 +2839,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Wayne's World | 265002 | [265002-waynes-world.json](./265002-waynes-world.json) |
 | Wayne's World | 310701 | [310701-waynes-world.json](./310701-waynes-world.json) |
 | Wayne's World | 7646 | [7646-waynes-world.json](./7646-waynes-world.json) |
+| Wayout | 18706 | [18706-wayout.json](./18706-wayout.json) |
 | WayOut 2: Hex | 27334 | [27334-wayout-2-hex.json](./27334-wayout-2-hex.json) |
 | WayPoint | 335228 | [335228-waypoint.json](./335228-waypoint.json) |
 | Ways | 287594 | [287594-ways.json](./287594-ways.json) |
