@@ -478,6 +478,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Valkyria Soul | 200145 | [200145-valkyria-soul.json](./200145-valkyria-soul.json) |
 | Valkyrie | 94342 | [94342-valkyrie.json](./94342-valkyrie.json) |
 | Valkyrie 17 | 28438 | [28438-valkyrie-17.json](./28438-valkyrie-17.json) |
+| Valkyrie Anatomia: The Origin | 24479 | [24479-valkyrie-anatomia-the-origin.json](./24479-valkyrie-anatomia-the-origin.json) |
 | Valkyrie Blade VR | 28891 | [28891-valkyrie-blade-vr.json](./28891-valkyrie-blade-vr.json) |
 | Valkyrie Champions | 215675 | [215675-valkyrie-champions.json](./215675-valkyrie-champions.json) |
 | Valkyrie Complex | 69035 | [69035-valkyrie-complex.json](./69035-valkyrie-complex.json) |
@@ -2537,6 +2538,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Violent Rumble | 271541 | [271541-violent-rumble.json](./271541-violent-rumble.json) |
 | Violent Rush | 388216 | [388216-violent-rush.json](./388216-violent-rush.json) |
 | Violent Selection | 247868 | [247868-violent-selection.json](./247868-violent-selection.json) |
+| Violent Sol Worlds | 24469 | [24469-violent-sol-worlds.json](./24469-violent-sol-worlds.json) |
 | Violent Soldier | 44323 | [44323-violent-soldier.json](./44323-violent-soldier.json) |
 | Violent Storm New | 40075 | [40075-violent-storm-new.json](./40075-violent-storm-new.json) |
 | Violent Vectors | 68872 | [68872-violent-vectors.json](./68872-violent-vectors.json) |
