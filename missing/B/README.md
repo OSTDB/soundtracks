@@ -993,7 +993,6 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Bad Parenting 1: Mr. Red Face | 319427 | [319427-bad-parenting-1-mr-red-face.json](./319427-bad-parenting-1-mr-red-face.json) |
 | Bad Piggies 2 | 218965 | [218965-bad-piggies-2.json](./218965-bad-piggies-2.json) |
 | Bad Piggies Build | 243757 | [243757-bad-piggies-build.json](./243757-bad-piggies-build.json) |
-| Bad Piggies HD | 221410 | [221410-bad-piggies-hd.json](./221410-bad-piggies-hd.json) |
 | Bad Piggies: Create Your Own Angry Birds Levels! | 243756 | [243756-bad-piggies-create-your-own-angry-birds-levels.json](./243756-bad-piggies-create-your-own-angry-birds-levels.json) |
 | Bad Pixels | 231483 | [231483-bad-pixels.json](./231483-bad-pixels.json) |
 | Bad Rat Tax | 366421 | [366421-bad-rat-tax.json](./366421-bad-rat-tax.json) |
@@ -3217,6 +3216,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Basketball FRVR | 305414 | [305414-basketball-frvr.json](./305414-basketball-frvr.json) |
 | Basketball General Manager | 87526 | [87526-basketball-general-manager.json](./87526-basketball-general-manager.json) |
 | Basketball Grand Slam 2024 | 269089 | [269089-basketball-grand-slam-2024.json](./269089-basketball-grand-slam-2024.json) |
+| Basketball Hall-of-Fame: Ultimate Hoops Challenge | 50662 | [50662-basketball-hall-of-fame-ultimate-hoops-challenge.json](./50662-basketball-hall-of-fame-ultimate-hoops-challenge.json) |
 | Basketball Hero | 109174 | [109174-basketball-hero.json](./109174-basketball-hero.json) |
 | Basketball Hero VR | 102198 | [102198-basketball-hero-vr.json](./102198-basketball-hero-vr.json) |
 | Basketball Hoop | 106437 | [106437-basketball-hoop.json](./106437-basketball-hoop.json) |
@@ -7704,6 +7704,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Big Cat Jigsaw Quest: Expansion Pack 2 | 338238 | [338238-big-cat-jigsaw-quest-expansion-pack-2.json](./338238-big-cat-jigsaw-quest-expansion-pack-2.json) |
 | Big Cat Rescue VR | 157142 | [157142-big-cat-rescue-vr.json](./157142-big-cat-rescue-vr.json) |
 | Big Catch Bass Fishing | 197944 | [197944-big-catch-bass-fishing.json](./197944-big-catch-bass-fishing.json) |
+| Big Catch Bass Fishing | 50673 | [50673-big-catch-bass-fishing.json](./50673-big-catch-bass-fishing.json) |
 | Big Challenge Golf: Tokyo Yomiuri Country Club-hen | 286049 | [286049-big-challenge-golf-tokyo-yomiuri-country-club-hen.json](./286049-big-challenge-golf-tokyo-yomiuri-country-club-hen.json) |
 | Big Challenge! Dogfight Spirit | 41331 | [41331-big-challenge-dogfight-spirit.json](./41331-big-challenge-dogfight-spirit.json) |
 | Big Challenge! Go! Go! Bowling | 41330 | [41330-big-challenge-go-go-bowling.json](./41330-big-challenge-go-go-bowling.json) |
@@ -17646,6 +17647,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Build-A-Bear Workshop | 47811 | [47811-build-a-bear-workshop.json](./47811-build-a-bear-workshop.json) |
 | Build-A-Bear Workshop: A Friend Fur All Seasons | 51008 | [51008-build-a-bear-workshop-a-friend-fur-all-seasons.json](./51008-build-a-bear-workshop-a-friend-fur-all-seasons.json) |
 | Build-A-Bear Workshop: Bear Valley | 104593 | [104593-build-a-bear-workshop-bear-valley.json](./104593-build-a-bear-workshop-bear-valley.json) |
+| Build-A-Bear Workshop: Friendship Valley | 50672 | [50672-build-a-bear-workshop-friendship-valley.json](./50672-build-a-bear-workshop-friendship-valley.json) |
 | Build-a-Bear Workshop: Welcome to Hugsville | 47913 | [47913-build-a-bear-workshop-welcome-to-hugsville.json](./47913-build-a-bear-workshop-welcome-to-hugsville.json) |
 | Build-A-Bearville | 214613 | [214613-build-a-bearville.json](./214613-build-a-bearville.json) |
 | Build-A-Delivery | 257337 | [257337-build-a-delivery.json](./257337-build-a-delivery.json) |
