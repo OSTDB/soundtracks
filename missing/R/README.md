@@ -3318,6 +3318,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Realm Quest | 59256 | [59256-realm-quest.json](./59256-realm-quest.json) |
 | Realm Racer | 382379 | [382379-realm-racer.json](./382379-realm-racer.json) |
 | Realm Revolutions | 81696 | [81696-realm-revolutions.json](./81696-realm-revolutions.json) |
+| Realm Royale Reforged | 103224 | [103224-realm-royale-reforged.json](./103224-realm-royale-reforged.json) |
 | Realm Royale Shadowfall Bundle | 115647 | [115647-realm-royale-shadowfall-bundle.json](./115647-realm-royale-shadowfall-bundle.json) |
 | Realm Runner | 357701 | [357701-realm-runner.json](./357701-realm-runner.json) |
 | Realm Runners | 95067 | [95067-realm-runners.json](./95067-realm-runners.json) |
