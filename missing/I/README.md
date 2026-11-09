@@ -6305,6 +6305,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | iS: internal section | 25094 | [25094-is-internal-section.json](./25094-is-internal-section.json) |
 | Isaac Asimov's The Ultimate Robot | 279815 | [279815-isaac-asimovs-the-ultimate-robot.json](./279815-isaac-asimovs-the-ultimate-robot.json) |
 | Isaac Phens: Ace Attorney | 318804 | [318804-isaac-phens-ace-attorney.json](./318804-isaac-phens-ace-attorney.json) |
+| Isaac the Adventurer | 35993 | [35993-isaac-the-adventurer.json](./35993-isaac-the-adventurer.json) |
 | Isaac's Odyssey | 323024 | [323024-isaacs-odyssey.json](./323024-isaacs-odyssey.json) |
 | Isaacle | 361711 | [361711-isaacle.json](./361711-isaacle.json) |
 | Isabella: Chasing Shadows | 278730 | [278730-isabella-chasing-shadows.json](./278730-isabella-chasing-shadows.json) |
