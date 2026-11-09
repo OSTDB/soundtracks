@@ -2072,6 +2072,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Tanked Out! | 270107 | [270107-tanked-out.json](./270107-tanked-out.json) |
 | Tanked Up | 262217 | [262217-tanked-up.json](./262217-tanked-up.json) |
 | Tankegeddon! | 383147 | [383147-tankegeddon.json](./383147-tankegeddon.json) |
+| Tanker | 55359 | [55359-tanker.json](./55359-tanker.json) |
 | Tanker Truck Simulator 2011 | 53718 | [53718-tanker-truck-simulator-2011.json](./53718-tanker-truck-simulator-2011.json) |
 | Tankette | 207282 | [207282-tankette.json](./207282-tankette.json) |
 | Tankettes | 223246 | [223246-tankettes.json](./223246-tankettes.json) |
@@ -2551,6 +2552,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Taram Baba | 333821 | [333821-taram-baba.json](./333821-taram-baba.json) |
 | Tarantula Virus | 258620 | [258620-tarantula-virus.json](./258620-tarantula-virus.json) |
 | Tarareba | 194555 | [194555-tarareba.json](./194555-tarareba.json) |
+| Taras Bulba and Platforms of Hoolion | 55350 | [55350-taras-bulba-and-platforms-of-hoolion.json](./55350-taras-bulba-and-platforms-of-hoolion.json) |
 | Taravana | 132251 | [132251-taravana.json](./132251-taravana.json) |
 | Tardigrade Planet: The Legend of the Strongest Mascot in the Universe | 346011 | [346011-tardigrade-planet-the-legend-of-the-strongest-mascot-in-the-universe.json](./346011-tardigrade-planet-the-legend-of-the-strongest-mascot-in-the-universe.json) |
 | Tardiness Girl | 360198 | [360198-tardiness-girl.json](./360198-tardiness-girl.json) |
@@ -5278,6 +5280,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Texas Hold'em: High Stakes Poker | 73540 | [73540-texas-holdem-high-stakes-poker.json](./73540-texas-holdem-high-stakes-poker.json) |
 | Texas Moon HD | 103572 | [103572-texas-moon-hd.json](./103572-texas-moon-hd.json) |
 | Texas Solitaire Cube | 125938 | [125938-texas-solitaire-cube.json](./125938-texas-solitaire-cube.json) |
+| Texas Tango | 55309 | [55309-texas-tango.json](./55309-texas-tango.json) |
 | Texas Wildcatter Experience | 106753 | [106753-texas-wildcatter-experience.json](./106753-texas-wildcatter-experience.json) |
 | Texmaster | 388897 | [388897-texmaster.json](./388897-texmaster.json) |
 | Texnoplazm | 269190 | [269190-texnoplazm.json](./269190-texnoplazm.json) |
@@ -14503,6 +14506,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Museum of Mid 2000s Forum Signatures | 269050 | [269050-the-museum-of-mid-2000s-forum-signatures.json](./269050-the-museum-of-mid-2000s-forum-signatures.json) |
 | The Museum Of Mr. Pence | 377934 | [377934-the-museum-of-mr-pence.json](./377934-the-museum-of-mr-pence.json) |
 | The Museum of Opportunity | 364015 | [364015-the-museum-of-opportunity.json](./364015-the-museum-of-opportunity.json) |
+| The Museum of ThroughView | 55340 | [55340-the-museum-of-throughview.json](./55340-the-museum-of-throughview.json) |
 | The Museum Sentinel | 355100 | [355100-the-museum-sentinel.json](./355100-the-museum-sentinel.json) |
 | The Mushroom Journal | 382942 | [382942-the-mushroom-journal.json](./382942-the-mushroom-journal.json) |
 | The Mushroom of Shadow | 340277 | [340277-the-mushroom-of-shadow.json](./340277-the-mushroom-of-shadow.json) |
@@ -15252,6 +15256,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Pawn | 12193 | [12193-the-pawn.json](./12193-the-pawn.json) |
 | The Pawn Broker | 406455 | [406455-the-pawn-broker.json](./406455-the-pawn-broker.json) |
 | The Pay is Nice | 281866 | [281866-the-pay-is-nice.json](./281866-the-pay-is-nice.json) |
+| The Pay Off | 54629 | [54629-the-pay-off.json](./54629-the-pay-off.json) |
 | The Payphone | 398484 | [398484-the-payphone.json](./398484-the-payphone.json) |
 | The Pazaak Battles | 403391 | [403391-the-pazaak-battles.json](./403391-the-pazaak-battles.json) |
 | The Peace Keepers | 44465 | [44465-the-peace-keepers.json](./44465-the-peace-keepers.json) |
@@ -17600,6 +17605,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The Spy Strikes Back! | 295988 | [295988-the-spy-strikes-back.json](./295988-the-spy-strikes-back.json) |
 | The Spy Who Loved Me 64 | 268719 | [268719-the-spy-who-loved-me-64.json](./268719-the-spy-who-loved-me-64.json) |
 | The Spy's Adventures in Europe | 54642 | [54642-the-spys-adventures-in-europe.json](./54642-the-spys-adventures-in-europe.json) |
+| The Spy's Adventures in North America | 54641 | [54641-the-spys-adventures-in-north-america.json](./54641-the-spys-adventures-in-north-america.json) |
 | The Spy's Adventures in South America | 54643 | [54643-the-spys-adventures-in-south-america.json](./54643-the-spys-adventures-in-south-america.json) |
 | The Square Game | 130377 | [130377-the-square-game.json](./130377-the-square-game.json) |
 | The Square Key | 165942 | [165942-the-square-key.json](./165942-the-square-key.json) |
@@ -31732,6 +31738,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trials of the Illuminati: Snack Time Jigsaw Puzzles | 109660 | [109660-trials-of-the-illuminati-snack-time-jigsaw-puzzles.json](./109660-trials-of-the-illuminati-snack-time-jigsaw-puzzles.json) |
 | Trials of the Illuminati: Women of Beauty Jigsaws | 221512 | [221512-trials-of-the-illuminati-women-of-beauty-jigsaws.json](./221512-trials-of-the-illuminati-women-of-beauty-jigsaws.json) |
 | Trials of the Taker | 418407 | [418407-trials-of-the-taker.json](./418407-trials-of-the-taker.json) |
+| Trials of the Thief-Taker | 55362 | [55362-trials-of-the-thief-taker.json](./55362-trials-of-the-thief-taker.json) |
 | Trials of Titan | 138602 | [138602-trials-of-titan.json](./138602-trials-of-titan.json) |
 | Trials of Topaq | 99582 | [99582-trials-of-topaq.json](./99582-trials-of-topaq.json) |
 | Trials of Wilderness | 109381 | [109381-trials-of-wilderness.json](./109381-trials-of-wilderness.json) |
@@ -32063,6 +32070,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Trinity 64 | 354923 | [354923-trinity-64.json](./354923-trinity-64.json) |
 | Trinity Archetype | 169756 | [169756-trinity-archetype.json](./169756-trinity-archetype.json) |
 | Trinity Building Editor | 373843 | [373843-trinity-building-editor.json](./373843-trinity-building-editor.json) |
+| Trinity Dungeon | 55344 | [55344-trinity-dungeon.json](./55344-trinity-dungeon.json) |
 | Trinity Fusion | 218520 | [218520-trinity-fusion.json](./218520-trinity-fusion.json) |
 | Trinity Fusion: Deluxe Edition | 280631 | [280631-trinity-fusion-deluxe-edition.json](./280631-trinity-fusion-deluxe-edition.json) |
 | Trinity Heart | 266238 | [266238-trinity-heart.json](./266238-trinity-heart.json) |
@@ -33704,6 +33712,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Turf Hero | 37776 | [37776-turf-hero.json](./37776-turf-hero.json) |
 | Turf Memories | 37808 | [37808-turf-memories.json](./37808-turf-memories.json) |
 | Turf War | 194808 | [194808-turf-war.json](./194808-turf-war.json) |
+| Turf Wars | 54639 | [54639-turf-wars.json](./54639-turf-wars.json) |
 | Turf Wars: A Snail Escape | 207723 | [207723-turf-wars-a-snail-escape.json](./207723-turf-wars-a-snail-escape.json) |
 | Turgor Pressure | 177318 | [177318-turgor-pressure.json](./177318-turgor-pressure.json) |
 | Turi: Kaapora | 255483 | [255483-turi-kaapora.json](./255483-turi-kaapora.json) |
