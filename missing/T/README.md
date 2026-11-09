@@ -11721,6 +11721,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | The JerryMaya Detective Agency | 330249 | [330249-the-jerrymaya-detective-agency.json](./330249-the-jerrymaya-detective-agency.json) |
 | The Jester | 337014 | [337014-the-jester.json](./337014-the-jester.json) |
 | The Jester's Revenge | 289993 | [289993-the-jesters-revenge.json](./289993-the-jesters-revenge.json) |
+| The Jetsons: Cogswell's Caper | 48153 | [48153-the-jetsons-cogswells-caper.json](./48153-the-jetsons-cogswells-caper.json) |
 | The Jetsons: Invasion of the Planet Pirates | 42511 | [42511-the-jetsons-invasion-of-the-planet-pirates.json](./42511-the-jetsons-invasion-of-the-planet-pirates.json) |
 | The Jetsons: Space Race | 263937 | [263937-the-jetsons-space-race.json](./263937-the-jetsons-space-race.json) |
 | The Jetsons: The Computer Game | 70475 | [70475-the-jetsons-the-computer-game.json](./70475-the-jetsons-the-computer-game.json) |
@@ -24903,6 +24904,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | To The Death | 286025 | [286025-to-the-death.json](./286025-to-the-death.json) |
 | To the Dragon Cave | 201937 | [201937-to-the-dragon-cave.json](./201937-to-the-dragon-cave.json) |
 | To the Dungeon! | 255075 | [255075-to-the-dungeon.json](./255075-to-the-dungeon.json) |
+| To the Earth | 48117 | [48117-to-the-earth.json](./48117-to-the-earth.json) |
 | To the Eden | 362398 | [362398-to-the-eden.json](./362398-to-the-eden.json) |
 | To the Edge of the Sky | 102534 | [102534-to-the-edge-of-the-sky.json](./102534-to-the-edge-of-the-sky.json) |
 | To the Eds-treme | 315086 | [315086-to-the-eds-treme.json](./315086-to-the-eds-treme.json) |
