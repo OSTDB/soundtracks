@@ -1388,6 +1388,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dariusburst: Chronicle Saviours - Space Harrier | 168174 | [168174-dariusburst-chronicle-saviours-space-harrier.json](./168174-dariusburst-chronicle-saviours-space-harrier.json) |
 | Dariusburst: Chronicle Saviours - Varth: Operation Thunderstorm | 168183 | [168183-dariusburst-chronicle-saviours-varth-operation-thunderstorm.json](./168183-dariusburst-chronicle-saviours-varth-operation-thunderstorm.json) |
 | Dariusburst: Second Prologue | 22340 | [22340-dariusburst-second-prologue.json](./22340-dariusburst-second-prologue.json) |
+| Dark | 2111 | [2111-dark.json](./2111-dark.json) |
 | Dark | 380231 | [380231-dark.json](./380231-dark.json) |
 | Dark & Cold: A Bitsy game | 176605 | [176605-dark-and-cold-a-bitsy-game.json](./176605-dark-and-cold-a-bitsy-game.json) |
 | Dark & Quispy | 303457 | [303457-dark-and-quispy.json](./303457-dark-and-quispy.json) |
@@ -9648,6 +9649,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Digimon World Re:Digitize Decode | 80507 | [80507-digimon-world-re-digitize-decode.json](./80507-digimon-world-re-digitize-decode.json) |
 | Digimon World Vice | 339254 | [339254-digimon-world-vice.json](./339254-digimon-world-vice.json) |
 | Digimon World: Digital Card Battle | 186116 | [186116-digimon-world-digital-card-battle.json](./186116-digimon-world-digital-card-battle.json) |
+| Digimon World: Next Order | 13561 | [13561-digimon-world-next-order.json](./13561-digimon-world-next-order.json) |
 | Digimon World: Next Order | 225498 | [225498-digimon-world-next-order.json](./225498-digimon-world-next-order.json) |
 | Digimon Yolei and Hawkmon | 198725 | [198725-digimon-yolei-and-hawkmon.json](./198725-digimon-yolei-and-hawkmon.json) |
 | Digimon: Battle Spirit | 6374 | [6374-digimon-battle-spirit.json](./6374-digimon-battle-spirit.json) |
@@ -11357,6 +11359,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dissonant | 386551 | [386551-dissonant.json](./386551-dissonant.json) |
 | Dissonators | 292475 | [292475-dissonators.json](./292475-dissonators.json) |
 | Distance | 385378 | [385378-distance.json](./385378-distance.json) |
+| Distance | 9609 | [9609-distance.json](./9609-distance.json) |
 | Distance and Mirage | 299118 | [299118-distance-and-mirage.json](./299118-distance-and-mirage.json) |
 | Distance: Console Edition | 309585 | [309585-distance-console-edition.json](./309585-distance-console-edition.json) |
 | DistanceGuessr | 386116 | [386116-distanceguessr.json](./386116-distanceguessr.json) |
@@ -14205,6 +14208,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorasyeoda | 278528 | [278528-dorasyeoda.json](./278528-dorasyeoda.json) |
 | Dorc | 415087 | [415087-dorc.json](./415087-dorc.json) |
 | Dord | 223668 | [223668-dord.json](./223668-dord.json) |
+| Dordogne | 132188 | [132188-dordogne.json](./132188-dordogne.json) |
 | Dorei Iinchou: Haramase Choukyou | 97481 | [97481-dorei-iinchou-haramase-choukyou.json](./97481-dorei-iinchou-haramase-choukyou.json) |
 | Dorei Same | 279986 | [279986-dorei-same.json](./279986-dorei-same.json) |
 | Dorei Toushi Battle Slave | 66651 | [66651-dorei-toushi-battle-slave.json](./66651-dorei-toushi-battle-slave.json) |
@@ -14224,6 +14228,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dorico no Toshokan | 240568 | [240568-dorico-no-toshokan.json](./240568-dorico-no-toshokan.json) |
 | Dorifto Challenge | 96623 | [96623-dorifto-challenge.json](./96623-dorifto-challenge.json) |
 | Dorifto! | 421208 | [421208-dorifto.json](./421208-dorifto.json) |
+| Doritos Crash Course | 18041 | [18041-doritos-crash-course.json](./18041-doritos-crash-course.json) |
 | Doritos Crash Course Go! | 63573 | [63573-doritos-crash-course-go.json](./63573-doritos-crash-course-go.json) |
 | Doritos Crash Course: City Lights | 349720 | [349720-doritos-crash-course-city-lights.json](./349720-doritos-crash-course-city-lights.json) |
 | Dork's Dilemma? | 133681 | [133681-dorks-dilemma.json](./133681-dorks-dilemma.json) |
@@ -15992,6 +15997,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Dragon vs Goblins | 89477 | [89477-dragon-vs-goblins.json](./89477-dragon-vs-goblins.json) |
 | Dragon Wang | 6097 | [6097-dragon-wang.json](./6097-dragon-wang.json) |
 | Dragon War | 195978 | [195978-dragon-war.json](./195978-dragon-war.json) |
+| Dragon Warrior | 205229 | [205229-dragon-warrior.json](./205229-dragon-warrior.json) |
 | Dragon Warrior | 310252 | [310252-dragon-warrior.json](./310252-dragon-warrior.json) |
 | Dragon Warrior I | 239183 | [239183-dragon-warrior-i.json](./239183-dragon-warrior-i.json) |
 | Dragon Warrior I & II | 205230 | [205230-dragon-warrior-i-and-ii.json](./205230-dragon-warrior-i-and-ii.json) |
