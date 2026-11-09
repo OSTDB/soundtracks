@@ -3048,6 +3048,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Embers of the Gods | 403648 | [403648-embers-of-the-gods.json](./403648-embers-of-the-gods.json) |
 | Embers of the Night | 348863 | [348863-embers-of-the-night.json](./348863-embers-of-the-night.json) |
 | Embers of the Zombie Battlemage: Halloween | 211755 | [211755-embers-of-the-zombie-battlemage-halloween.json](./211755-embers-of-the-zombie-battlemage-halloween.json) |
+| Embers of War | 56608 | [56608-embers-of-war.json](./56608-embers-of-war.json) |
 | Embers: Return to Dragonland | 267273 | [267273-embers-return-to-dragonland.json](./267273-embers-return-to-dragonland.json) |
 | Embershade | 323259 | [323259-embershade.json](./323259-embershade.json) |
 | EmberStride | 374137 | [374137-emberstride.json](./374137-emberstride.json) |
@@ -3355,8 +3356,11 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Empire Invasion | 147135 | [147135-empire-invasion.json](./147135-empire-invasion.json) |
 | Empire of Angels | 56126 | [56126-empire-of-angels.json](./56126-empire-of-angels.json) |
 | Empire of Angels II | 56124 | [56124-empire-of-angels-ii.json](./56124-empire-of-angels-ii.json) |
+| Empire of Angels III | 56122 | [56122-empire-of-angels-iii.json](./56122-empire-of-angels-iii.json) |
 | Empire of Angels IV | 78589 | [78589-empire-of-angels-iv.json](./78589-empire-of-angels-iv.json) |
 | Empire of Angels IV: Limited Edition | 166264 | [166264-empire-of-angels-iv-limited-edition.json](./166264-empire-of-angels-iv-limited-edition.json) |
+| Empire of Angels: Angels' Curse | 56121 | [56121-empire-of-angels-angels-curse.json](./56121-empire-of-angels-angels-curse.json) |
+| Empire of Angels: Lunar Phantom | 56119 | [56119-empire-of-angels-lunar-phantom.json](./56119-empire-of-angels-lunar-phantom.json) |
 | Empire of Atlantis | 66950 | [66950-empire-of-atlantis.json](./66950-empire-of-atlantis.json) |
 | Empire of Devil | 110703 | [110703-empire-of-devil.json](./110703-empire-of-devil.json) |
 | Empire of Disorder | 271050 | [271050-empire-of-disorder.json](./271050-empire-of-disorder.json) |
@@ -4307,6 +4311,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Enoah's Quest | 303516 | [303516-enoahs-quest.json](./303516-enoahs-quest.json) |
 | Enoch | 217334 | [217334-enoch.json](./217334-enoch.json) |
 | Enoch Never Dies | 350514 | [350514-enoch-never-dies.json](./350514-enoch-never-dies.json) |
+| Enoch: Underground | 56643 | [56643-enoch-underground.json](./56643-enoch-underground.json) |
 | Enoh | 189921 | [189921-enoh.json](./189921-enoh.json) |
 | Enoki | 157149 | [157149-enoki.json](./157149-enoki.json) |
 | Enormosword | 341427 | [341427-enormosword.json](./341427-enormosword.json) |
@@ -6920,6 +6925,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Evening Star + Southern Belle | 137361 | [137361-evening-star-southern-belle.json](./137361-evening-star-southern-belle.json) |
 | Evening Star 2 | 114296 | [114296-evening-star-2.json](./114296-evening-star-2.json) |
 | Evening Starter | 163765 | [163765-evening-starter.json](./163765-evening-starter.json) |
+| Evening Surprise | 56632 | [56632-evening-surprise.json](./56632-evening-surprise.json) |
 | Evening Vibes | 217020 | [217020-evening-vibes.json](./217020-evening-vibes.json) |
 | Evenness Sensory Space | 151405 | [151405-evenness-sensory-space.json](./151405-evenness-sensory-space.json) |
 | Evenorn | 150889 | [150889-evenorn.json](./150889-evenorn.json) |
@@ -7704,6 +7710,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Excavator Simulator VR | 151339 | [151339-excavator-simulator-vr.json](./151339-excavator-simulator-vr.json) |
 | Excavatorrr | 242574 | [242574-excavatorrr.json](./242574-excavatorrr.json) |
 | Excave | 82595 | [82595-excave.json](./82595-excave.json) |
+| Exceed | 56117 | [56117-exceed.json](./56117-exceed.json) |
 | eXceed 2nd: Vampire | 229550 | [229550-exceed-2nd-vampire.json](./229550-exceed-2nd-vampire.json) |
 | Exceed 3rd Jade Penetrate | 80380 | [80380-exceed-3rd-jade-penetrate.json](./80380-exceed-3rd-jade-penetrate.json) |
 | eXceed 3rd: Jade Penetrate Black Package | 10967 | [10967-exceed-3rd-jade-penetrate-black-package.json](./10967-exceed-3rd-jade-penetrate-black-package.json) |
@@ -8372,6 +8379,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Exterminator | 290522 | [290522-exterminator.json](./290522-exterminator.json) |
 | Exterminator | 29389 | [29389-exterminator.json](./29389-exterminator.json) |
 | Exterminator Simulator | 129966 | [129966-exterminator-simulator.json](./129966-exterminator-simulator.json) |
+| Exterminator: Escape! | 56616 | [56616-exterminator-escape.json](./56616-exterminator-escape.json) |
 | Exterminators of Saturn | 253580 | [253580-exterminators-of-saturn.json](./253580-exterminators-of-saturn.json) |
 | Exterminatus: A Grim Odyssey | 370472 | [370472-exterminatus-a-grim-odyssey.json](./370472-exterminatus-a-grim-odyssey.json) |
 | Exterminatus: Rival Species 2 | 350395 | [350395-exterminatus-rival-species-2.json](./350395-exterminatus-rival-species-2.json) |
