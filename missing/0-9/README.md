@@ -1179,6 +1179,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | 12nin no Onna Kyoushi | 98423 | [98423-12nin-no-onna-kyoushi.json](./98423-12nin-no-onna-kyoushi.json) |
 | 12nin no Onna Kyoushi Re-Innovation -In- | 98419 | [98419-12nin-no-onna-kyoushi-re-innovation-in.json](./98419-12nin-no-onna-kyoushi-re-innovation-in.json) |
 | 12nin no Onna Kyoushi Re-Innovation: San | 98418 | [98418-12nin-no-onna-kyoushi-re-innovation-san.json](./98418-12nin-no-onna-kyoushi-re-innovation-san.json) |
+| 12Riven: The Psi-Climinal of Integral | 17481 | [17481-12riven-the-psi-climinal-of-integral.json](./17481-12riven-the-psi-climinal-of-integral.json) |
 | 13 Bones | 384726 | [384726-13-bones.json](./384726-13-bones.json) |
 | 13 Candles | 228091 | [228091-13-candles.json](./228091-13-candles.json) |
 | 13 Cycles | 102927 | [102927-13-cycles.json](./102927-13-cycles.json) |
