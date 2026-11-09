@@ -594,6 +594,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Madden NFL 2005 | 243181 | [243181-madden-nfl-2005.json](./243181-madden-nfl-2005.json) |
 | Madden NFL 2005 | 243182 | [243182-madden-nfl-2005.json](./243182-madden-nfl-2005.json) |
 | Madden NFL 2005 | 778 | [778-madden-nfl-2005.json](./778-madden-nfl-2005.json) |
+| Madden NFL 2005: Collector's Edition | 43381 | [43381-madden-nfl-2005-collectors-edition.json](./43381-madden-nfl-2005-collectors-edition.json) |
 | Madden NFL 21 | 132707 | [132707-madden-nfl-21.json](./132707-madden-nfl-21.json) |
 | Madden NFL 21 | 243663 | [243663-madden-nfl-21.json](./243663-madden-nfl-21.json) |
 | Madden NFL 21 Mobile | 243662 | [243662-madden-nfl-21-mobile.json](./243662-madden-nfl-21-mobile.json) |
@@ -4968,6 +4969,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Marvel: Powers United VR | 51411 | [51411-marvel-powers-united-vr.json](./51411-marvel-powers-united-vr.json) |
 | Marvel: Ultimate Alliance | 197883 | [197883-marvel-ultimate-alliance.json](./197883-marvel-ultimate-alliance.json) |
 | Marvel: Ultimate Alliance | 4999 | [4999-marvel-ultimate-alliance.json](./4999-marvel-ultimate-alliance.json) |
+| Marvel: Ultimate Alliance - Special Edition | 43370 | [43370-marvel-ultimate-alliance-special-edition.json](./43370-marvel-ultimate-alliance-special-edition.json) |
 | Marvel: Ultimate Alliance 2 | 200963 | [200963-marvel-ultimate-alliance-2.json](./200963-marvel-ultimate-alliance-2.json) |
 | Marvel: Ultimate Alliance 2 | 425852 | [425852-marvel-ultimate-alliance-2.json](./425852-marvel-ultimate-alliance-2.json) |
 | Marvel: Ultimate Alliance Bundle | 22400 | [22400-marvel-ultimate-alliance-bundle.json](./22400-marvel-ultimate-alliance-bundle.json) |
@@ -6236,6 +6238,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Maxwell's World | 281504 | [281504-maxwells-world.json](./281504-maxwells-world.json) |
 | Maxx GP | 94403 | [94403-maxx-gp.json](./94403-maxx-gp.json) |
 | Maxxed Out Racing | 64210 | [64210-maxxed-out-racing.json](./64210-maxxed-out-racing.json) |
+| Maxxed Out Racing: Nitro | 43394 | [43394-maxxed-out-racing-nitro.json](./43394-maxxed-out-racing-nitro.json) |
 | May | 212771 | [212771-may.json](./212771-may.json) |
 | May | 306211 | [306211-may.json](./306211-may.json) |
 | May and the Amazing Bouquet | 381577 | [381577-may-and-the-amazing-bouquet.json](./381577-may-and-the-amazing-bouquet.json) |
@@ -10080,6 +10083,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Metal Gear Rising: Revengeance VR Missions | 116154 | [116154-metal-gear-rising-revengeance-vr-missions.json](./116154-metal-gear-rising-revengeance-vr-missions.json) |
 | Metal Gear Solid | 233127 | [233127-metal-gear-solid.json](./233127-metal-gear-solid.json) |
 | Metal Gear Solid | 393642 | [393642-metal-gear-solid.json](./393642-metal-gear-solid.json) |
+| Metal Gear Solid 2: Sons of Liberty - Limited Edition | 43388 | [43388-metal-gear-solid-2-sons-of-liberty-limited-edition.json](./43388-metal-gear-solid-2-sons-of-liberty-limited-edition.json) |
 | Metal Gear Solid 2: Sons of Liberty - Master Collection Version | 383389 | [383389-metal-gear-solid-2-sons-of-liberty-master-collection-version.json](./383389-metal-gear-solid-2-sons-of-liberty-master-collection-version.json) |
 | Metal Gear Solid 2: Substance | 474 | [474-metal-gear-solid-2-substance.json](./474-metal-gear-solid-2-substance.json) |
 | Metal Gear Solid 2: The Substance of Subsistence | 225336 | [225336-metal-gear-solid-2-the-substance-of-subsistence.json](./225336-metal-gear-solid-2-the-substance-of-subsistence.json) |
@@ -15037,6 +15041,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Mobile Suit Gundam: Climax U.C. | 68012 | [68012-mobile-suit-gundam-climax-u-c.json](./68012-mobile-suit-gundam-climax-u-c.json) |
 | Mobile Suit Gundam: Crossfire | 7376 | [7376-mobile-suit-gundam-crossfire.json](./7376-mobile-suit-gundam-crossfire.json) |
 | Mobile Suit Gundam: Desert Operation | 242522 | [242522-mobile-suit-gundam-desert-operation.json](./242522-mobile-suit-gundam-desert-operation.json) |
+| Mobile Suit Gundam: Encounters in Space | 43392 | [43392-mobile-suit-gundam-encounters-in-space.json](./43392-mobile-suit-gundam-encounters-in-space.json) |
 | Mobile Suit Gundam: EX Revue | 37332 | [37332-mobile-suit-gundam-ex-revue.json](./37332-mobile-suit-gundam-ex-revue.json) |
 | Mobile Suit Gundam: Extreme Versus 2 - Infinite Boost | 355089 | [355089-mobile-suit-gundam-extreme-versus-2-infinite-boost.json](./355089-mobile-suit-gundam-extreme-versus-2-infinite-boost.json) |
 | Mobile Suit Gundam: Extreme Vs Force | 20401 | [20401-mobile-suit-gundam-extreme-vs-force.json](./20401-mobile-suit-gundam-extreme-vs-force.json) |
@@ -16854,6 +16859,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Monster Trucks Nitro | 14912 | [14912-monster-trucks-nitro.json](./14912-monster-trucks-nitro.json) |
 | Monster Trucks Nitro II | 61762 | [61762-monster-trucks-nitro-ii.json](./61762-monster-trucks-nitro-ii.json) |
 | Monster Trux Arenas: Special Edition | 268375 | [268375-monster-trux-arenas-special-edition.json](./268375-monster-trux-arenas-special-edition.json) |
+| Monster Trux Extreme: Arena Edition | 43369 | [43369-monster-trux-extreme-arena-edition.json](./43369-monster-trux-extreme-arena-edition.json) |
 | Monster Trux Extreme: Offroad Edition | 5020 | [5020-monster-trux-extreme-offroad-edition.json](./5020-monster-trux-extreme-offroad-edition.json) |
 | Monster Trux: Arenas | 5019 | [5019-monster-trux-arenas.json](./5019-monster-trux-arenas.json) |
 | Monster Trux: Offroad | 21500 | [21500-monster-trux-offroad.json](./21500-monster-trux-offroad.json) |
@@ -17496,6 +17502,7 @@ Each file below is a placeholder submission. Fill it in and open a pull request 
 | Moorhuhn and Friends | 282450 | [282450-moorhuhn-and-friends.json](./282450-moorhuhn-and-friends.json) |
 | Moorhuhn Combat | 144596 | [144596-moorhuhn-combat.json](./144596-moorhuhn-combat.json) |
 | Moorhuhn Deluxe | 144593 | [144593-moorhuhn-deluxe.json](./144593-moorhuhn-deluxe.json) |
+| Moorhuhn Fun Kart 2008 | 43376 | [43376-moorhuhn-fun-kart-2008.json](./43376-moorhuhn-fun-kart-2008.json) |
 | Moorhuhn in Südafrika | 282543 | [282543-moorhuhn-in-sudafrika.json](./282543-moorhuhn-in-sudafrika.json) |
 | Moorhuhn Jump and Run: Traps and Treasures | 187093 | [187093-moorhuhn-jump-and-run-traps-and-treasures.json](./187093-moorhuhn-jump-and-run-traps-and-treasures.json) |
 | Moorhuhn Jump and Run: Traps and Treasures 2 | 196642 | [196642-moorhuhn-jump-and-run-traps-and-treasures-2.json](./196642-moorhuhn-jump-and-run-traps-and-treasures-2.json) |
